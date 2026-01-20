@@ -41,945 +41,945 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [DeviceKit-power]({{< ref "/f13/package/DeviceKit-power.md" >}}) | 113 | 113 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [GConf2]({{< ref "/f13/package/GConf2.md" >}}) | 4035 | 4035 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [LabPlot]({{< ref "/f13/package/LabPlot.md" >}}) | 16716 | 16716 | 100.0 | Svenska <sv@li.org> | 
- | [NetworkManager]({{< ref "/f13/package/NetworkManager.md" >}}) | 2459 | 2459 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [NetworkManager-openconnect]({{< ref "/f13/package/NetworkManager-openconnect.md" >}}) | 53 | 53 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [NetworkManager-openvpn]({{< ref "/f13/package/NetworkManager-openvpn.md" >}}) | 238 | 238 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [NetworkManager-pptp]({{< ref "/f13/package/NetworkManager-pptp.md" >}}) | 144 | 144 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [NetworkManager-vpnc]({{< ref "/f13/package/NetworkManager-vpnc.md" >}}) | 143 | 143 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [PackageKit]({{< ref "/f13/package/PackageKit.md" >}}) | 1540 | 1540 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [Thunar]({{< ref "/f13/package/Thunar.md" >}}) | 3865 | 3865 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [WindowMaker]({{< ref "/f13/package/WindowMaker.md" >}}) | 629 | 629 | 100.0 | Swedish | 
- | [acheck]({{< ref "/f13/package/acheck.md" >}}) | 274 | 274 | 100.0 | Swedish <sv@li.org> | 
- | [acl]({{< ref "/f13/package/acl.md" >}}) | 484 | 484 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [agave]({{< ref "/f13/package/agave.md" >}}) | 283 | 283 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [alacarte]({{< ref "/f13/package/alacarte.md" >}}) | 42 | 42 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [alleyoop]({{< ref "/f13/package/alleyoop.md" >}}) | 351 | 351 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [almanah]({{< ref "/f13/package/almanah.md" >}}) | 713 | 713 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [amarok]({{< ref "/f13/package/amarok.md" >}}) | 12039 | 12039 | 100.0 | Swedish <kde-i18n-doc@kde.org> | 
- | [anerley]({{< ref "/f13/package/anerley.md" >}}) | 5 | 5 | 100.0 |  | 
- | [anjal]({{< ref "/f13/package/anjal.md" >}}) | 762 | 762 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [arm-gp2x-linux-binutils]({{< ref "/f13/package/arm-gp2x-linux-binutils.md" >}}) | 12931 | 12931 | 100.0 | Swedish <sv@li.org> | 
- | [arm-gp2x-linux-glibc]({{< ref "/f13/package/arm-gp2x-linux-glibc.md" >}}) | 6326 | 6326 | 100.0 | Swedish <sv@li.org> | 
- | [at-spi]({{< ref "/f13/package/at-spi.md" >}}) | 61 | 61 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [atk]({{< ref "/f13/package/atk.md" >}}) | 375 | 375 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [atomix]({{< ref "/f13/package/atomix.md" >}}) | 145 | 145 | 100.0 | Swedish <sv@li.org> | 
- | [attr]({{< ref "/f13/package/attr.md" >}}) | 308 | 308 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [audacity]({{< ref "/f13/package/audacity.md" >}}) | 9628 | 9628 | 100.0 | swedish <musselasse@gmail.com> | 
- | [authconfig]({{< ref "/f13/package/authconfig.md" >}}) | 1325 | 1325 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [avr-binutils]({{< ref "/f13/package/avr-binutils.md" >}}) | 13548 | 13548 | 100.0 | Swedish <sv@li.org> | 
- | [avr-gcc]({{< ref "/f13/package/avr-gcc.md" >}}) | 59095 | 59095 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [avr-gdb]({{< ref "/f13/package/avr-gdb.md" >}}) | 4964 | 4964 | 100.0 | Swedish <sv@li.org> | 
- | [bakery]({{< ref "/f13/package/bakery.md" >}}) | 134 | 134 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [balsa]({{< ref "/f13/package/balsa.md" >}}) | 6110 | 6110 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [banshee]({{< ref "/f13/package/banshee.md" >}}) | 5389 | 5389 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [beagle]({{< ref "/f13/package/beagle.md" >}}) | 1239 | 1239 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [binutils]({{< ref "/f13/package/binutils.md" >}}) | 13548 | 13548 | 100.0 | Swedish <sv@li.org> | 
- | [bisho]({{< ref "/f13/package/bisho.md" >}}) | 131 | 131 | 100.0 |  | 
- | [bison]({{< ref "/f13/package/bison.md" >}}) | 1012 | 1012 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [bittorrent]({{< ref "/f13/package/bittorrent.md" >}}) | 3904 | 3904 | 100.0 | LANGUAGE <bugs (at) bittorrent (dot) com> | 
- | [blam]({{< ref "/f13/package/blam.md" >}}) | 359 | 359 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [blender]({{< ref "/f13/package/blender.md" >}}) | 251 | 251 | 100.0 |  | 
- | [blobwars]({{< ref "/f13/package/blobwars.md" >}}) | 1163 | 1163 | 100.0 |  | 
- | [bognor-regis]({{< ref "/f13/package/bognor-regis.md" >}}) | 27 | 27 | 100.0 |  | 
- | [brasero]({{< ref "/f13/package/brasero.md" >}}) | 8918 | 8918 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [byobu]({{< ref "/f13/package/byobu.md" >}}) | 177 | 177 | 100.0 | Swedish <sv@li.org> | 
- | [byzanz]({{< ref "/f13/package/byzanz.md" >}}) | 238 | 238 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [cairo-clock]({{< ref "/f13/package/cairo-clock.md" >}}) | 270 | 270 | 100.0 | Swedish <sv@li.org> | 
- | [camorama]({{< ref "/f13/package/camorama.md" >}}) | 586 | 586 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [ccsm]({{< ref "/f13/package/ccsm.md" >}}) | 549 | 549 | 100.0 | Compiz Fusion Translators <i18n@lists.compiz-fusion.org> | 
- | [celestia]({{< ref "/f13/package/celestia.md" >}}) | 1894 | 1894 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [cgit]({{< ref "/f13/package/cgit.md" >}}) | 3392 | 3392 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [cheese]({{< ref "/f13/package/cheese.md" >}}) | 2930 | 2930 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [childsplay]({{< ref "/f13/package/childsplay.md" >}}) | 1226 | 1226 | 100.0 |  | 
- | [chkconfig]({{< ref "/f13/package/chkconfig.md" >}}) | 448 | 448 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [choqok]({{< ref "/f13/package/choqok.md" >}}) | 1854 | 1854 | 100.0 | Swedish <kde-i18n-doc@kde.org> | 
- | [comix]({{< ref "/f13/package/comix.md" >}}) | 1326 | 1326 | 100.0 | Swedish <LL@li.org> | 
- | [common-lisp-controller]({{< ref "/f13/package/common-lisp-controller.md" >}}) | 57 | 57 | 100.0 | Swedish <sv@li.org> | 
- | [conduit]({{< ref "/f13/package/conduit.md" >}}) | 709 | 709 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [contact-lookup-applet]({{< ref "/f13/package/contact-lookup-applet.md" >}}) | 259 | 259 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [contacts]({{< ref "/f13/package/contacts.md" >}}) | 121 | 121 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [control-center]({{< ref "/f13/package/control-center.md" >}}) | 3480 | 3480 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [coreutils]({{< ref "/f13/package/coreutils.md" >}}) | 18529 | 18529 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [cowbell]({{< ref "/f13/package/cowbell.md" >}}) | 603 | 603 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [cycle]({{< ref "/f13/package/cycle.md" >}}) | 196 | 196 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [dalston]({{< ref "/f13/package/dalston.md" >}}) | 266 | 266 | 100.0 |  | 
- | [darktable]({{< ref "/f13/package/darktable.md" >}}) | 3096 | 3096 | 100.0 | <> <> | 
- | [dates]({{< ref "/f13/package/dates.md" >}}) | 239 | 239 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [dayplanner]({{< ref "/f13/package/dayplanner.md" >}}) | 1112 | 1112 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [dbmail]({{< ref "/f13/package/dbmail.md" >}}) | 457 | 457 | 100.0 | swedish <debian-l10n-swedish@lists.debian.org> | 
- | [dcraw]({{< ref "/f13/package/dcraw.md" >}}) | 546 | 546 | 100.0 |  | 
- | [deskbar-applet]({{< ref "/f13/package/deskbar-applet.md" >}}) | 2386 | 2386 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [desktop-effects]({{< ref "/f13/package/desktop-effects.md" >}}) | 148 | 148 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [devhelp]({{< ref "/f13/package/devhelp.md" >}}) | 414 | 414 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [dialog]({{< ref "/f13/package/dialog.md" >}}) | 25 | 25 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [diffutils]({{< ref "/f13/package/diffutils.md" >}}) | 1342 | 1342 | 100.0 | Swedish <sv@li.org> | 
- | [digikam]({{< ref "/f13/package/digikam.md" >}}) | 23653 | 23653 | 100.0 | Swedish <kde-i18n-doc@kde.org> | 
- | [doodle]({{< ref "/f13/package/doodle.md" >}}) | 684 | 684 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [drupal-calendar]({{< ref "/f13/package/drupal-calendar.md" >}}) | 480 | 480 | 100.0 | drupalsverige.se | 
- | [drupal-views]({{< ref "/f13/package/drupal-views.md" >}}) | 8753 | 8753 | 100.0 | drupalsverige.se | 
- | [drupal6-filefield]({{< ref "/f13/package/drupal6-filefield.md" >}}) | 878 | 878 | 100.0 | drupalsverige.se | 
- | [drupal6-image]({{< ref "/f13/package/drupal6-image.md" >}}) | 2208 | 2208 | 100.0 | drupalsverige.se | 
- | [e2fsprogs]({{< ref "/f13/package/e2fsprogs.md" >}}) | 5805 | 5805 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [ease]({{< ref "/f13/package/ease.md" >}}) | 8 | 8 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [emerald]({{< ref "/f13/package/emerald.md" >}}) | 774 | 774 | 100.0 | Compiz Fusion Translators <i18n@lists.compiz-fusion.org> | 
- | [emerillon]({{< ref "/f13/package/emerillon.md" >}}) | 359 | 359 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [eog]({{< ref "/f13/package/eog.md" >}}) | 4800 | 4800 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [eog-plugins]({{< ref "/f13/package/eog-plugins.md" >}}) | 149 | 149 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [epiphany]({{< ref "/f13/package/epiphany.md" >}}) | 9092 | 9092 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [epiphany-extensions]({{< ref "/f13/package/epiphany-extensions.md" >}}) | 3977 | 3977 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [etckeeper]({{< ref "/f13/package/etckeeper.md" >}}) | 64 | 64 | 100.0 | Swedish <debian-l10n-swedish@lists.debian.org> | 
- | [evince]({{< ref "/f13/package/evince.md" >}}) | 3311 | 3311 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [evolution-couchdb]({{< ref "/f13/package/evolution-couchdb.md" >}}) | 9 | 9 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [evolution-data-server]({{< ref "/f13/package/evolution-data-server.md" >}}) | 4914 | 4914 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [evolution-exchange]({{< ref "/f13/package/evolution-exchange.md" >}}) | 2204 | 2204 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [evolution-mapi]({{< ref "/f13/package/evolution-mapi.md" >}}) | 341 | 341 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [evolution-rss]({{< ref "/f13/package/evolution-rss.md" >}}) | 694 | 694 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [exo]({{< ref "/f13/package/exo.md" >}}) | 1598 | 1598 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [fantasdic]({{< ref "/f13/package/fantasdic.md" >}}) | 492 | 492 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [file-roller]({{< ref "/f13/package/file-roller.md" >}}) | 7115 | 7115 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [filezilla]({{< ref "/f13/package/filezilla.md" >}}) | 9145 | 9145 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [firstboot]({{< ref "/f13/package/firstboot.md" >}}) | 654 | 654 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [freedink]({{< ref "/f13/package/freedink.md" >}}) | 79 | 79 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [frozen-bubble]({{< ref "/f13/package/frozen-bubble.md" >}}) | 698 | 698 | 100.0 | LANGUAGE <LL@li.org> | 
- | [fvwm]({{< ref "/f13/package/fvwm.md" >}}) | 262 | 262 | 100.0 | Swedish | 
- | [galeon]({{< ref "/f13/package/galeon.md" >}}) | 5994 | 5994 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [galternatives]({{< ref "/f13/package/galternatives.md" >}}) | 165 | 165 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [gaupol]({{< ref "/f13/package/gaupol.md" >}}) | 1484 | 1484 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [gcc]({{< ref "/f13/package/gcc.md" >}}) | 53910 | 53910 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [gcl]({{< ref "/f13/package/gcl.md" >}}) | 13108 | 13108 | 100.0 | Swedish <sv@li.org> | 
- | [gcompris]({{< ref "/f13/package/gcompris.md" >}}) | 10871 | 10871 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [gconf-cleaner]({{< ref "/f13/package/gconf-cleaner.md" >}}) | 208 | 208 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [gconf-editor]({{< ref "/f13/package/gconf-editor.md" >}}) | 2834 | 2834 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [gdb]({{< ref "/f13/package/gdb.md" >}}) | 4964 | 4964 | 100.0 | Swedish <sv@li.org> | 
- | [geany]({{< ref "/f13/package/geany.md" >}}) | 5419 | 5419 | 100.0 | Swedish <geany-i18n@uvena.de> | 
- | [gedit]({{< ref "/f13/package/gedit.md" >}}) | 12561 | 12561 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [gedit-plugins]({{< ref "/f13/package/gedit-plugins.md" >}}) | 321 | 321 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [gentoo]({{< ref "/f13/package/gentoo.md" >}}) | 2107 | 2107 | 100.0 | Swedish <sv@li.org> | 
- | [gettext]({{< ref "/f13/package/gettext.md" >}}) | 6857 | 6857 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [gftp]({{< ref "/f13/package/gftp.md" >}}) | 3375 | 3375 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [ggz-base-libs]({{< ref "/f13/package/ggz-base-libs.md" >}}) | 74 | 74 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [ggz-gtk-client]({{< ref "/f13/package/ggz-gtk-client.md" >}}) | 862 | 862 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [gimmix]({{< ref "/f13/package/gimmix.md" >}}) | 534 | 534 | 100.0 |  | 
- | [gimp]({{< ref "/f13/package/gimp.md" >}}) | 26126 | 26126 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [gimp-help]({{< ref "/f13/package/gimp-help.md" >}}) | 529 | 529 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [git]({{< ref "/f13/package/git.md" >}}) | 3389 | 3389 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [git-cola]({{< ref "/f13/package/git-cola.md" >}}) | 1842 | 1842 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [gitweb-caching]({{< ref "/f13/package/gitweb-caching.md" >}}) | 3383 | 3383 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [glib2]({{< ref "/f13/package/glib2.md" >}}) | 2523 | 2523 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [glibc]({{< ref "/f13/package/glibc.md" >}}) | 7409 | 7409 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [glunarclock]({{< ref "/f13/package/glunarclock.md" >}}) | 226 | 226 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [gmediaserver]({{< ref "/f13/package/gmediaserver.md" >}}) | 1207 | 1207 | 100.0 | Swedish <sv@li.org> | 
- | [gnomad2]({{< ref "/f13/package/gnomad2.md" >}}) | 703 | 703 | 100.0 | Swedish <sv@li.org> | 
- | [gnome-applet-bubblemon]({{< ref "/f13/package/gnome-applet-bubblemon.md" >}}) | 38 | 38 | 100.0 | Swedish <johan.walles@gmail.com> | 
- | [gnome-applet-music]({{< ref "/f13/package/gnome-applet-music.md" >}}) | 634 | 634 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [gnome-applet-netspeed]({{< ref "/f13/package/gnome-applet-netspeed.md" >}}) | 653 | 653 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [gnome-applets]({{< ref "/f13/package/gnome-applets.md" >}}) | 19785 | 19785 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [gnome-backgrounds]({{< ref "/f13/package/gnome-backgrounds.md" >}}) | 23 | 23 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [gnome-desktop]({{< ref "/f13/package/gnome-desktop.md" >}}) | 9925 | 9925 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [gnome-do]({{< ref "/f13/package/gnome-do.md" >}}) | 470 | 470 | 100.0 | Swedish <sv@li.org> | 
- | [gnome-doc-utils]({{< ref "/f13/package/gnome-doc-utils.md" >}}) | 251 | 251 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [gnome-icon-theme]({{< ref "/f13/package/gnome-icon-theme.md" >}}) | 45 | 45 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [gnome-keyring]({{< ref "/f13/package/gnome-keyring.md" >}}) | 1246 | 1246 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [gnome-launch-box]({{< ref "/f13/package/gnome-launch-box.md" >}}) | 33 | 33 | 100.0 | Swedish <sv@li.org> | 
- | [gnome-libs]({{< ref "/f13/package/gnome-libs.md" >}}) | 1085 | 1085 | 100.0 | Swedish <sv@li.org> | 
- | [gnome-mag]({{< ref "/f13/package/gnome-mag.md" >}}) | 298 | 298 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [gnome-menus]({{< ref "/f13/package/gnome-menus.md" >}}) | 161 | 161 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [gnome-mime-data]({{< ref "/f13/package/gnome-mime-data.md" >}}) | 888 | 888 | 100.0 | Swedish <sv@li.org> | 
- | [gnome-mud]({{< ref "/f13/package/gnome-mud.md" >}}) | 1070 | 1070 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [gnome-netstatus]({{< ref "/f13/package/gnome-netstatus.md" >}}) | 1207 | 1207 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [gnome-nettool]({{< ref "/f13/package/gnome-nettool.md" >}}) | 1131 | 1131 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [gnome-packagekit]({{< ref "/f13/package/gnome-packagekit.md" >}}) | 5976 | 5976 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [gnome-panel]({{< ref "/f13/package/gnome-panel.md" >}}) | 6292 | 6292 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [gnome-phone-manager]({{< ref "/f13/package/gnome-phone-manager.md" >}}) | 556 | 556 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [gnome-pilot]({{< ref "/f13/package/gnome-pilot.md" >}}) | 1743 | 1743 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [gnome-pilot-conduits]({{< ref "/f13/package/gnome-pilot-conduits.md" >}}) | 209 | 209 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [gnome-power-manager]({{< ref "/f13/package/gnome-power-manager.md" >}}) | 6591 | 6591 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [gnome-scan]({{< ref "/f13/package/gnome-scan.md" >}}) | 241 | 241 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [gnome-schedule]({{< ref "/f13/package/gnome-schedule.md" >}}) | 3409 | 3409 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [gnome-screensaver]({{< ref "/f13/package/gnome-screensaver.md" >}}) | 989 | 989 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [gnome-session]({{< ref "/f13/package/gnome-session.md" >}}) | 675 | 675 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [gnome-settings-daemon]({{< ref "/f13/package/gnome-settings-daemon.md" >}}) | 1735 | 1735 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [gnome-shell]({{< ref "/f13/package/gnome-shell.md" >}}) | 82 | 82 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [gnome-system-monitor]({{< ref "/f13/package/gnome-system-monitor.md" >}}) | 3774 | 3774 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [gnome-terminal]({{< ref "/f13/package/gnome-terminal.md" >}}) | 7767 | 7767 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [gnome-themes]({{< ref "/f13/package/gnome-themes.md" >}}) | 109 | 109 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [gnome-themes-extras]({{< ref "/f13/package/gnome-themes-extras.md" >}}) | 22 | 22 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [gnome-user-share]({{< ref "/f13/package/gnome-user-share.md" >}}) | 1457 | 1457 | 100.0 | LANGUAGE <LL@li.org> | 
- | [gnome-utils]({{< ref "/f13/package/gnome-utils.md" >}}) | 10065 | 10065 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [gnome-vfs2]({{< ref "/f13/package/gnome-vfs2.md" >}}) | 1519 | 1519 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [gnome-web-photo]({{< ref "/f13/package/gnome-web-photo.md" >}}) | 168 | 168 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [gnomebaker]({{< ref "/f13/package/gnomebaker.md" >}}) | 1186 | 1186 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [gnomeradio]({{< ref "/f13/package/gnomeradio.md" >}}) | 2212 | 2212 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [gnote]({{< ref "/f13/package/gnote.md" >}}) | 6430 | 6430 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [gnubiff]({{< ref "/f13/package/gnubiff.md" >}}) | 1181 | 1181 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [gnutls]({{< ref "/f13/package/gnutls.md" >}}) | 1061 | 1061 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [gok]({{< ref "/f13/package/gok.md" >}}) | 1915 | 1915 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [gpicview]({{< ref "/f13/package/gpicview.md" >}}) | 219 | 219 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [gpsdrive]({{< ref "/f13/package/gpsdrive.md" >}}) | 2311 | 2311 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [gstreamer-plugins-bad-free]({{< ref "/f13/package/gstreamer-plugins-bad-free.md" >}}) | 72 | 72 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [gstreamer-plugins-base]({{< ref "/f13/package/gstreamer-plugins-base.md" >}}) | 667 | 667 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [gstreamer-plugins-good]({{< ref "/f13/package/gstreamer-plugins-good.md" >}}) | 750 | 750 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [gtk+]({{< ref "/f13/package/gtk+.md" >}}) | 202 | 202 | 100.0 | Swedish <sv@li.org> | 
- | [gtk-recordmydesktop]({{< ref "/f13/package/gtk-recordmydesktop.md" >}}) | 816 | 816 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [gtk-vnc]({{< ref "/f13/package/gtk-vnc.md" >}}) | 81 | 81 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [gtk2]({{< ref "/f13/package/gtk2.md" >}}) | 13704 | 13704 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [gtk2-engines]({{< ref "/f13/package/gtk2-engines.md" >}}) | 119 | 119 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [gtkhtml3]({{< ref "/f13/package/gtkhtml3.md" >}}) | 713 | 713 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [gtksourceview]({{< ref "/f13/package/gtksourceview.md" >}}) | 891 | 891 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [gtksourceview2]({{< ref "/f13/package/gtksourceview2.md" >}}) | 1413 | 1413 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [gtkspell]({{< ref "/f13/package/gtkspell.md" >}}) | 15 | 15 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [gucharmap]({{< ref "/f13/package/gucharmap.md" >}}) | 2538 | 2538 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [gvfs]({{< ref "/f13/package/gvfs.md" >}}) | 1936 | 1936 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [gwget]({{< ref "/f13/package/gwget.md" >}}) | 379 | 379 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [gxmessage]({{< ref "/f13/package/gxmessage.md" >}}) | 243 | 243 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [hamster-applet]({{< ref "/f13/package/hamster-applet.md" >}}) | 644 | 644 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [hddtemp]({{< ref "/f13/package/hddtemp.md" >}}) | 403 | 403 | 100.0 | Swedish <sv@li.org> | 
- | [hello]({{< ref "/f13/package/hello.md" >}}) | 174 | 174 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [hornsey]({{< ref "/f13/package/hornsey.md" >}}) | 106 | 106 | 100.0 |  | 
- | [hotssh]({{< ref "/f13/package/hotssh.md" >}}) | 150 | 150 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [imp]({{< ref "/f13/package/imp.md" >}}) | 5117 | 5117 | 100.0 | Swedish <i18n@lists.horde.org> | 
- | [initscripts]({{< ref "/f13/package/initscripts.md" >}}) | 4407 | 4407 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [insight]({{< ref "/f13/package/insight.md" >}}) | 4964 | 4964 | 100.0 | Swedish <sv@li.org> | 
- | [ircp-tray]({{< ref "/f13/package/ircp-tray.md" >}}) | 201 | 201 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [isomaster]({{< ref "/f13/package/isomaster.md" >}}) | 674 | 674 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [istanbul]({{< ref "/f13/package/istanbul.md" >}}) | 350 | 350 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [jwhois]({{< ref "/f13/package/jwhois.md" >}}) | 440 | 440 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [k3b]({{< ref "/f13/package/k3b.md" >}}) | 20429 | 20429 | 100.0 | Swedish <kde-i18n-doc@kde.org> | 
- | [kaffeine]({{< ref "/f13/package/kaffeine.md" >}}) | 548 | 548 | 100.0 | Swedish <kde-i18n-doc@kde.org> | 
- | [kbd]({{< ref "/f13/package/kbd.md" >}}) | 1660 | 1660 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [kbluetooth]({{< ref "/f13/package/kbluetooth.md" >}}) | 341 | 341 | 100.0 | Swedish <kde-i18n-doc@kde.org> | 
- | [kcm-gtk]({{< ref "/f13/package/kcm-gtk.md" >}}) | 124 | 124 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [kcoloredit]({{< ref "/f13/package/kcoloredit.md" >}}) | 278 | 278 | 100.0 | Swedish <kde-i18n-doc@kde.org> | 
- | [kde-partitionmanager]({{< ref "/f13/package/kde-partitionmanager.md" >}}) | 2732 | 2732 | 100.0 | Swedish <sv@li.org> | 
- | [kde-plasma-quickaccess]({{< ref "/f13/package/kde-plasma-quickaccess.md" >}}) | 72 | 72 | 100.0 | Swedish <sv@li.org> | 
- | [kdetv]({{< ref "/f13/package/kdetv.md" >}}) | 2206 | 2206 | 100.0 | Svenska <sv@li.org> | 
- | [kdevelop]({{< ref "/f13/package/kdevelop.md" >}}) | 3493 | 3493 | 100.0 | Swedish <kde-i18n-doc@kde.org> | 
- | [kdiff3]({{< ref "/f13/package/kdiff3.md" >}}) | 3528 | 3528 | 100.0 | Swedish <sv@li.org> | 
- | [kdissert]({{< ref "/f13/package/kdissert.md" >}}) | 2027 | 2027 | 100.0 | Swedish <sv@li.org> | 
- | [kerry]({{< ref "/f13/package/kerry.md" >}}) | 486 | 486 | 100.0 | Swedish <sv@li.org> | 
- | [keurocalc]({{< ref "/f13/package/keurocalc.md" >}}) | 3042 | 3042 | 100.0 | Swedish <sv@li.org> | 
- | [kftpgrabber]({{< ref "/f13/package/kftpgrabber.md" >}}) | 2237 | 2237 | 100.0 | Swedish <sv@li.org> | 
- | [kgrab]({{< ref "/f13/package/kgrab.md" >}}) | 370 | 370 | 100.0 | Swedish <sv@li.org> | 
- | [kiconedit]({{< ref "/f13/package/kiconedit.md" >}}) | 726 | 726 | 100.0 | Swedish <sv@li.org> | 
- | [kile]({{< ref "/f13/package/kile.md" >}}) | 11114 | 11114 | 100.0 | Swedish <kde-i18n-doc@kde.org> | 
- | [kio_gopher]({{< ref "/f13/package/kio_gopher.md" >}}) | 17 | 17 | 100.0 | Swedish <sv@li.org> | 
- | [kio_sysinfo]({{< ref "/f13/package/kio_sysinfo.md" >}}) | 168 | 168 | 100.0 | Swedish <sv@li.org> | 
- | [kipi-plugins]({{< ref "/f13/package/kipi-plugins.md" >}}) | 16077 | 16077 | 100.0 | Swedish <kde-i18n-doc@kde.org> | 
- | [kmid2]({{< ref "/f13/package/kmid2.md" >}}) | 947 | 947 | 100.0 | Swedish <kde-i18n-doc@kde.org> | 
- | [kmplayer]({{< ref "/f13/package/kmplayer.md" >}}) | 1248 | 1248 | 100.0 | Swedish <kde-i18n-doc@kde.org> | 
- | [knemo]({{< ref "/f13/package/knemo.md" >}}) | 1186 | 1186 | 100.0 | Swedish <kde-i18n-doc@kde.org> | 
- | [knetstats]({{< ref "/f13/package/knetstats.md" >}}) | 119 | 119 | 100.0 | Swedish <sv@li.org> | 
- | [knights]({{< ref "/f13/package/knights.md" >}}) | 555 | 555 | 100.0 | Swedish <kde-i18n-doc@kde.org> | 
- | [koffice-kivio]({{< ref "/f13/package/koffice-kivio.md" >}}) | 8417 | 8417 | 100.0 | Swedish <sv@li.org> | 
- | [konq-plugins]({{< ref "/f13/package/konq-plugins.md" >}}) | 1692 | 1692 | 100.0 | Swedish <sv@li.org> | 
- | [kopete-cryptography]({{< ref "/f13/package/kopete-cryptography.md" >}}) | 408 | 408 | 100.0 | Swedish <sv@li.org> | 
- | [kpackagekit]({{< ref "/f13/package/kpackagekit.md" >}}) | 3590 | 3590 | 100.0 | Swedish <kde-i18n-doc@kde.org> | 
- | [kphotoalbum]({{< ref "/f13/package/kphotoalbum.md" >}}) | 6333 | 6333 | 100.0 | Swedish <kde-i18n-doc@kde.org> | 
- | [kpilot]({{< ref "/f13/package/kpilot.md" >}}) | 7156 | 7156 | 100.0 | Swedish <sv@li.org> | 
- | [krecipes]({{< ref "/f13/package/krecipes.md" >}}) | 3087 | 3087 | 100.0 | Swedish <sv@li.org> | 
- | [kronolith]({{< ref "/f13/package/kronolith.md" >}}) | 1443 | 1443 | 100.0 | Swedish <i18n@lists.horde.org> | 
- | [krusader]({{< ref "/f13/package/krusader.md" >}}) | 7736 | 7736 | 100.0 | Swedish <kde-i18n-doc@kde.org> | 
- | [ksig]({{< ref "/f13/package/ksig.md" >}}) | 85 | 85 | 100.0 | Swedish <sv@li.org> | 
- | [kst]({{< ref "/f13/package/kst.md" >}}) | 7446 | 7446 | 100.0 | Swedish <sv@li.org> | 
- | [ktorrent]({{< ref "/f13/package/ktorrent.md" >}}) | 7562 | 7562 | 100.0 | Swedish <kde-i18n-doc@kde.org> | 
- | [kwebkitpart]({{< ref "/f13/package/kwebkitpart.md" >}}) | 477 | 477 | 100.0 | Swedish <kde-i18n-doc@kde.org> | 
- | [labyrinth]({{< ref "/f13/package/labyrinth.md" >}}) | 146 | 146 | 100.0 |  | 
- | [ldm]({{< ref "/f13/package/ldm.md" >}}) | 156 | 156 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [libbonobo]({{< ref "/f13/package/libbonobo.md" >}}) | 547 | 547 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [libbonoboui]({{< ref "/f13/package/libbonoboui.md" >}}) | 368 | 368 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [libconfuse]({{< ref "/f13/package/libconfuse.md" >}}) | 113 | 113 | 100.0 | None <martin@bzero.se> | 
- | [libepc]({{< ref "/f13/package/libepc.md" >}}) | 146 | 146 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [libfm]({{< ref "/f13/package/libfm.md" >}}) | 480 | 480 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [libgdata]({{< ref "/f13/package/libgdata.md" >}}) | 464 | 464 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [libgdl]({{< ref "/f13/package/libgdl.md" >}}) | 613 | 613 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [libgnome]({{< ref "/f13/package/libgnome.md" >}}) | 1773 | 1773 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [libgnome-keyring]({{< ref "/f13/package/libgnome-keyring.md" >}}) | 44 | 44 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [libgnomecanvas]({{< ref "/f13/package/libgnomecanvas.md" >}}) | 378 | 378 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [libgnomecups]({{< ref "/f13/package/libgnomecups.md" >}}) | 210 | 210 | 100.0 | Swedish <sv@li.org> | 
- | [libgnomekbd]({{< ref "/f13/package/libgnomekbd.md" >}}) | 286 | 286 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [libgnomeprint22]({{< ref "/f13/package/libgnomeprint22.md" >}}) | 168 | 168 | 100.0 | Swedish <sv@li.org> | 
- | [libgnomeprintui22]({{< ref "/f13/package/libgnomeprintui22.md" >}}) | 481 | 481 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [libgnomeui]({{< ref "/f13/package/libgnomeui.md" >}}) | 1309 | 1309 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [libgsasl]({{< ref "/f13/package/libgsasl.md" >}}) | 518 | 518 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [libgsf]({{< ref "/f13/package/libgsf.md" >}}) | 843 | 843 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [libgtop2]({{< ref "/f13/package/libgtop2.md" >}}) | 126 | 126 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [libgweather]({{< ref "/f13/package/libgweather.md" >}}) | 6090 | 6090 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [libkexif]({{< ref "/f13/package/libkexif.md" >}}) | 25 | 25 | 100.0 | Svenska <sv@li.org> | 
- | [libktorrent]({{< ref "/f13/package/libktorrent.md" >}}) | 417 | 417 | 100.0 | Swedish <kde-i18n-doc@kde.org> | 
- | [libmx]({{< ref "/f13/package/libmx.md" >}}) | 40 | 40 | 100.0 |  | 
- | [libpaper]({{< ref "/f13/package/libpaper.md" >}}) | 73 | 73 | 100.0 | Swedish <debian-l10n-swedish@lists.debian.org> | 
- | [libsocialweb]({{< ref "/f13/package/libsocialweb.md" >}}) | 148 | 148 | 100.0 |  | 
- | [libuser]({{< ref "/f13/package/libuser.md" >}}) | 1114 | 1114 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [libwnck]({{< ref "/f13/package/libwnck.md" >}}) | 1124 | 1124 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [libxfce4menu]({{< ref "/f13/package/libxfce4menu.md" >}}) | 31 | 31 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [libxfce4ui]({{< ref "/f13/package/libxfce4ui.md" >}}) | 136 | 136 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [libxfce4util]({{< ref "/f13/package/libxfce4util.md" >}}) | 413 | 413 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [libxfcegui4]({{< ref "/f13/package/libxfcegui4.md" >}}) | 234 | 234 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [licq]({{< ref "/f13/package/licq.md" >}}) | 30 | 30 | 100.0 | <erik@ejohansson.se> | 
- | [liferea]({{< ref "/f13/package/liferea.md" >}}) | 2411 | 2411 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [lincity-ng]({{< ref "/f13/package/lincity-ng.md" >}}) | 1895 | 1895 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [linux_logo]({{< ref "/f13/package/linux_logo.md" >}}) | 45 | 45 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [ltsp]({{< ref "/f13/package/ltsp.md" >}}) | 462 | 462 | 100.0 | swedish <debian-l10n-swedish@lists.debian.org> | 
- | [lxappearance]({{< ref "/f13/package/lxappearance.md" >}}) | 83 | 83 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [lxdm]({{< ref "/f13/package/lxdm.md" >}}) | 11 | 11 | 100.0 | Swedish <tp-sv@lists.debian.org> | 
- | [lxinput]({{< ref "/f13/package/lxinput.md" >}}) | 70 | 70 | 100.0 | LANGUAGE <LL@li.org> | 
- | [lxlauncher]({{< ref "/f13/package/lxlauncher.md" >}}) | 51 | 51 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [lxmenu-data]({{< ref "/f13/package/lxmenu-data.md" >}}) | 97 | 97 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [lxmusic]({{< ref "/f13/package/lxmusic.md" >}}) | 196 | 196 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [lxpanel]({{< ref "/f13/package/lxpanel.md" >}}) | 892 | 892 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [lxrandr]({{< ref "/f13/package/lxrandr.md" >}}) | 102 | 102 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [lxsession]({{< ref "/f13/package/lxsession.md" >}}) | 37 | 37 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [lxsession-edit]({{< ref "/f13/package/lxsession-edit.md" >}}) | 58 | 58 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [lxshortcut]({{< ref "/f13/package/lxshortcut.md" >}}) | 43 | 43 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [lxtask]({{< ref "/f13/package/lxtask.md" >}}) | 122 | 122 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [lxterminal]({{< ref "/f13/package/lxterminal.md" >}}) | 129 | 129 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [lynx]({{< ref "/f13/package/lynx.md" >}}) | 8049 | 8049 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [lyx]({{< ref "/f13/package/lyx.md" >}}) | 14858 | 14858 | 100.0 | Swedish <lyx-docs@lists.lyx.org> | 
- | [mail-notification]({{< ref "/f13/package/mail-notification.md" >}}) | 2185 | 2185 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [mesa]({{< ref "/f13/package/mesa.md" >}}) | 270 | 270 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [metacity]({{< ref "/f13/package/metacity.md" >}}) | 3798 | 3798 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [mingw32-atk]({{< ref "/f13/package/mingw32-atk.md" >}}) | 375 | 375 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [mingw32-binutils]({{< ref "/f13/package/mingw32-binutils.md" >}}) | 13547 | 13547 | 100.0 | Swedish <sv@li.org> | 
- | [mingw32-gcc]({{< ref "/f13/package/mingw32-gcc.md" >}}) | 53910 | 53910 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [mingw32-gettext]({{< ref "/f13/package/mingw32-gettext.md" >}}) | 6844 | 6844 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [mingw32-glib2]({{< ref "/f13/package/mingw32-glib2.md" >}}) | 2523 | 2523 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [mingw32-gnutls]({{< ref "/f13/package/mingw32-gnutls.md" >}}) | 943 | 943 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [mingw32-gtk2]({{< ref "/f13/package/mingw32-gtk2.md" >}}) | 13704 | 13704 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [mingw32-gtkhtml3]({{< ref "/f13/package/mingw32-gtkhtml3.md" >}}) | 695 | 695 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [mlocate]({{< ref "/f13/package/mlocate.md" >}}) | 563 | 563 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [moblin-panel-applications]({{< ref "/f13/package/moblin-panel-applications.md" >}}) | 5 | 5 | 100.0 |  | 
- | [moblin-panel-media]({{< ref "/f13/package/moblin-panel-media.md" >}}) | 55 | 55 | 100.0 |  | 
- | [moblin-panel-myzone]({{< ref "/f13/package/moblin-panel-myzone.md" >}}) | 74 | 74 | 100.0 |  | 
- | [moblin-panel-pasteboard]({{< ref "/f13/package/moblin-panel-pasteboard.md" >}}) | 22 | 22 | 100.0 |  | 
- | [moblin-panel-people]({{< ref "/f13/package/moblin-panel-people.md" >}}) | 68 | 68 | 100.0 |  | 
- | [moblin-panel-status]({{< ref "/f13/package/moblin-panel-status.md" >}}) | 76 | 76 | 100.0 |  | 
- | [moin]({{< ref "/f13/package/moin.md" >}}) | 4971 | 4971 | 100.0 |  | 
- | [mojito]({{< ref "/f13/package/mojito.md" >}}) | 136 | 136 | 100.0 |  | 
- | [monkey-bubble]({{< ref "/f13/package/monkey-bubble.md" >}}) | 309 | 309 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [mousepad]({{< ref "/f13/package/mousepad.md" >}}) | 135 | 135 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [msp430-binutils]({{< ref "/f13/package/msp430-binutils.md" >}}) | 13547 | 13547 | 100.0 | Swedish <sv@li.org> | 
- | [multimedia-menus]({{< ref "/f13/package/multimedia-menus.md" >}}) | 56 | 56 | 100.0 | Swedish <sv@li.org> | 
- | [mutter-moblin]({{< ref "/f13/package/mutter-moblin.md" >}}) | 88 | 88 | 100.0 |  | 
- | [mypaint]({{< ref "/f13/package/mypaint.md" >}}) | 1916 | 1916 | 100.0 |  | 
- | [nautilus]({{< ref "/f13/package/nautilus.md" >}}) | 8815 | 8815 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [nautilus-image-converter]({{< ref "/f13/package/nautilus-image-converter.md" >}}) | 79 | 79 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [nautilus-open-terminal]({{< ref "/f13/package/nautilus-open-terminal.md" >}}) | 166 | 166 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [nautilus-search-tool]({{< ref "/f13/package/nautilus-search-tool.md" >}}) | 11 | 11 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [nautilus-sendto]({{< ref "/f13/package/nautilus-sendto.md" >}}) | 319 | 319 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [nautilus-sound-converter]({{< ref "/f13/package/nautilus-sound-converter.md" >}}) | 149 | 149 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [nbtk]({{< ref "/f13/package/nbtk.md" >}}) | 44 | 44 | 100.0 |  | 
- | [net6]({{< ref "/f13/package/net6.md" >}}) | 304 | 304 | 100.0 | Swedish <sv@li.org> | 
- | [newt]({{< ref "/f13/package/newt.md" >}}) | 4 | 4 | 100.0 | Swedish <sv@li.org> | 
- | [notification-daemon]({{< ref "/f13/package/notification-daemon.md" >}}) | 99 | 99 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [nss-ldapd]({{< ref "/f13/package/nss-ldapd.md" >}}) | 438 | 438 | 100.0 | Swedish <debian-l10n-swedish@lists.debian.org> | 
- | [nss-pam-ldapd]({{< ref "/f13/package/nss-pam-ldapd.md" >}}) | 438 | 438 | 100.0 | Swedish <debian-l10n-swedish@lists.debian.org> | 
- | [obby]({{< ref "/f13/package/obby.md" >}}) | 159 | 159 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [oggconvert]({{< ref "/f13/package/oggconvert.md" >}}) | 132 | 132 | 100.0 | Swedish <sv@li.org> | 
- | [openbox]({{< ref "/f13/package/openbox.md" >}}) | 504 | 504 | 100.0 | None | 
- | [openswan]({{< ref "/f13/package/openswan.md" >}}) | 974 | 974 | 100.0 | Swedish <debian-l10n-swedish@lists.debian.org> | 
- | [orage]({{< ref "/f13/package/orage.md" >}}) | 2110 | 2110 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [orca]({{< ref "/f13/package/orca.md" >}}) | 4011 | 4011 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [pam_krb5]({{< ref "/f13/package/pam_krb5.md" >}}) | 7 | 7 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [pan]({{< ref "/f13/package/pan.md" >}}) | 2274 | 2274 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [parcellite]({{< ref "/f13/package/parcellite.md" >}}) | 156 | 156 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [pcmanfm]({{< ref "/f13/package/pcmanfm.md" >}}) | 522 | 522 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [pessulus]({{< ref "/f13/package/pessulus.md" >}}) | 130 | 130 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [pida]({{< ref "/f13/package/pida.md" >}}) | 193 | 193 | 100.0 | Swedish <sv@li.org> | 
- | [pidgin-gfire]({{< ref "/f13/package/pidgin-gfire.md" >}}) | 1173 | 1173 | 100.0 | Swedish <rockrobban@gmail.com> | 
- | [pidgin-libnotify]({{< ref "/f13/package/pidgin-libnotify.md" >}}) | 36 | 36 | 100.0 | swedish | 
- | [pino]({{< ref "/f13/package/pino.md" >}}) | 352 | 352 | 100.0 |  | 
- | [pitivi]({{< ref "/f13/package/pitivi.md" >}}) | 1306 | 1306 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [planner]({{< ref "/f13/package/planner.md" >}}) | 1810 | 1810 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [pmount]({{< ref "/f13/package/pmount.md" >}}) | 723 | 723 | 100.0 | Swedish <sv@li.org> | 
- | [polkit-gnome]({{< ref "/f13/package/polkit-gnome.md" >}}) | 311 | 311 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [polkit-kde]({{< ref "/f13/package/polkit-kde.md" >}}) | 82 | 82 | 100.0 | Swedish <kde-i18n-doc@kde.org> | 
- | [pondus]({{< ref "/f13/package/pondus.md" >}}) | 321 | 321 | 100.0 | svenska <sv@li.org> | 
- | [pootle]({{< ref "/f13/package/pootle.md" >}}) | 3562 | 3562 | 100.0 | LANGUAGE <LL@li.org> | 
- | [popt]({{< ref "/f13/package/popt.md" >}}) | 75 | 75 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [postr]({{< ref "/f13/package/postr.md" >}}) | 81 | 81 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [preupgrade]({{< ref "/f13/package/preupgrade.md" >}}) | 801 | 801 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [pybliographer]({{< ref "/f13/package/pybliographer.md" >}}) | 971 | 971 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [pykickstart]({{< ref "/f13/package/pykickstart.md" >}}) | 284 | 284 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [qt-recordmydesktop]({{< ref "/f13/package/qt-recordmydesktop.md" >}}) | 816 | 816 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [rabbitvcs]({{< ref "/f13/package/rabbitvcs.md" >}}) | 931 | 931 | 100.0 | Swedish | 
- | [radiotray]({{< ref "/f13/package/radiotray.md" >}}) | 49 | 49 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [rapid-photo-downloader]({{< ref "/f13/package/rapid-photo-downloader.md" >}}) | 1915 | 1915 | 100.0 | Swedish <sv@li.org> | 
- | [redhat-menus]({{< ref "/f13/package/redhat-menus.md" >}}) | 261 | 261 | 100.0 | Swedish <sv@li.org> | 
- | [regexxer]({{< ref "/f13/package/regexxer.md" >}}) | 467 | 467 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [rekonq]({{< ref "/f13/package/rekonq.md" >}}) | 1352 | 1352 | 100.0 | Swedish <kde-i18n-doc@kde.org> | 
- | [revelation]({{< ref "/f13/package/revelation.md" >}}) | 1899 | 1899 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [rhnsd]({{< ref "/f13/package/rhnsd.md" >}}) | 42 | 42 | 100.0 | Swedish <sv@li.org> | 
- | [rhythmbox]({{< ref "/f13/package/rhythmbox.md" >}}) | 9816 | 9816 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [ristretto]({{< ref "/f13/package/ristretto.md" >}}) | 192 | 192 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [rsibreak]({{< ref "/f13/package/rsibreak.md" >}}) | 1304 | 1304 | 100.0 | Swedish <sv@li.org> | 
- | [samba]({{< ref "/f13/package/samba.md" >}}) | 198 | 198 | 100.0 | Novell Language <language@novell.com> | 
- | [seahorse]({{< ref "/f13/package/seahorse.md" >}}) | 6354 | 6354 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [seahorse-plugins]({{< ref "/f13/package/seahorse-plugins.md" >}}) | 3516 | 3516 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [setuptool]({{< ref "/f13/package/setuptool.md" >}}) | 55 | 55 | 100.0 | Swedish <sv@li.org> | 
- | [shared-mime-info]({{< ref "/f13/package/shared-mime-info.md" >}}) | 1436 | 1436 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [simple-scan]({{< ref "/f13/package/simple-scan.md" >}}) | 597 | 597 | 100.0 | Swedish <sv@li.org> | 
- | [sirius]({{< ref "/f13/package/sirius.md" >}}) | 154 | 154 | 100.0 | LANGUAGE <LL@li.org> | 
- | [skanlite]({{< ref "/f13/package/skanlite.md" >}}) | 142 | 142 | 100.0 | Swedish <kde-i18n-doc@kde.org> | 
- | [skrooge]({{< ref "/f13/package/skrooge.md" >}}) | 5759 | 5759 | 100.0 | Swedish <kde-i18n-doc@kde.org> | 
- | [smart]({{< ref "/f13/package/smart.md" >}}) | 4521 | 4521 | 100.0 | Swedish | 
- | [smolt]({{< ref "/f13/package/smolt.md" >}}) | 1174 | 1174 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [sonata]({{< ref "/f13/package/sonata.md" >}}) | 1136 | 1136 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [sound-juicer]({{< ref "/f13/package/sound-juicer.md" >}}) | 3317 | 3317 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [soundmodem]({{< ref "/f13/package/soundmodem.md" >}}) | 91 | 91 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [specto]({{< ref "/f13/package/specto.md" >}}) | 675 | 675 | 100.0 | Swedish <sv@li.org> | 
- | [speedcrunch]({{< ref "/f13/package/speedcrunch.md" >}}) | 18 | 18 | 100.0 | sv | 
- | [spu-binutils]({{< ref "/f13/package/spu-binutils.md" >}}) | 13547 | 13547 | 100.0 | Swedish <sv@li.org> | 
- | [squirrelmail]({{< ref "/f13/package/squirrelmail.md" >}}) | 9749 | 9749 | 100.0 | Swedish <squirrelmail-i18n@lists.sourceforge.net> | 
- | [straw]({{< ref "/f13/package/straw.md" >}}) | 610 | 610 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [sugar]({{< ref "/f13/package/sugar.md" >}}) | 918 | 918 | 100.0 | LANGUAGE <LL@li.org> | 
- | [sugar-base]({{< ref "/f13/package/sugar-base.md" >}}) | 5 | 5 | 100.0 | LANGUAGE <LL@li.org> | 
- | [sugar-browse]({{< ref "/f13/package/sugar-browse.md" >}}) | 55 | 55 | 100.0 | LANGUAGE <LL@li.org> | 
- | [sugar-calculator]({{< ref "/f13/package/sugar-calculator.md" >}}) | 565 | 565 | 100.0 | LANGUAGE <LL@li.org> | 
- | [sugar-chat]({{< ref "/f13/package/sugar-chat.md" >}}) | 26 | 26 | 100.0 | LANGUAGE <LL@li.org> | 
- | [sugar-finance]({{< ref "/f13/package/sugar-finance.md" >}}) | 142 | 142 | 100.0 | LANGUAGE <LL@li.org> | 
- | [sugar-imageviewer]({{< ref "/f13/package/sugar-imageviewer.md" >}}) | 17 | 17 | 100.0 | LANGUAGE <LL@li.org> | 
- | [sugar-jukebox]({{< ref "/f13/package/sugar-jukebox.md" >}}) | 10 | 10 | 100.0 | LANGUAGE <LL@li.org> | 
- | [sugar-log]({{< ref "/f13/package/sugar-log.md" >}}) | 100 | 100 | 100.0 | LANGUAGE <LL@li.org> | 
- | [sugar-memorize]({{< ref "/f13/package/sugar-memorize.md" >}}) | 50 | 50 | 100.0 | LANGUAGE <LL@li.org> | 
- | [sugar-toolkit]({{< ref "/f13/package/sugar-toolkit.md" >}}) | 71 | 71 | 100.0 | LANGUAGE <LL@li.org> | 
- | [sugar-turtleart]({{< ref "/f13/package/sugar-turtleart.md" >}}) | 123 | 123 | 100.0 | LANGUAGE <LL@li.org> | 
- | [sugar-write]({{< ref "/f13/package/sugar-write.md" >}}) | 69 | 69 | 100.0 | LANGUAGE <LL@li.org> | 
- | [supertuxkart]({{< ref "/f13/package/supertuxkart.md" >}}) | 928 | 928 | 100.0 |  | 
- | [switchdesk]({{< ref "/f13/package/switchdesk.md" >}}) | 139 | 139 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [synce-software-manager]({{< ref "/f13/package/synce-software-manager.md" >}}) | 134 | 134 | 100.0 | LANGUAGE <sv@li.org> | 
- | [syncevolution]({{< ref "/f13/package/syncevolution.md" >}}) | 1115 | 1115 | 100.0 |  | 
- | [sysstat]({{< ref "/f13/package/sysstat.md" >}}) | 194 | 194 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [system-config-audit]({{< ref "/f13/package/system-config-audit.md" >}}) | 1241 | 1241 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [system-config-bind]({{< ref "/f13/package/system-config-bind.md" >}}) | 9434 | 9434 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [system-config-date-docs]({{< ref "/f13/package/system-config-date-docs.md" >}}) | 728 | 728 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [system-config-display]({{< ref "/f13/package/system-config-display.md" >}}) | 415 | 415 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [system-config-httpd]({{< ref "/f13/package/system-config-httpd.md" >}}) | 866 | 866 | 100.0 | Swedish <sv@li.org> | 
- | [system-config-lvm]({{< ref "/f13/package/system-config-lvm.md" >}}) | 2246 | 2246 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [system-config-netboot]({{< ref "/f13/package/system-config-netboot.md" >}}) | 1135 | 1135 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [system-config-nfs]({{< ref "/f13/package/system-config-nfs.md" >}}) | 332 | 332 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [system-config-nfs-docs]({{< ref "/f13/package/system-config-nfs-docs.md" >}}) | 1185 | 1185 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [system-config-rootpassword]({{< ref "/f13/package/system-config-rootpassword.md" >}}) | 116 | 116 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [system-config-samba-docs]({{< ref "/f13/package/system-config-samba-docs.md" >}}) | 1188 | 1188 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [system-config-services-docs]({{< ref "/f13/package/system-config-services-docs.md" >}}) | 453 | 453 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [system-config-users-docs]({{< ref "/f13/package/system-config-users-docs.md" >}}) | 1054 | 1054 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [system-switch-java]({{< ref "/f13/package/system-switch-java.md" >}}) | 81 | 81 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [system-switch-mail]({{< ref "/f13/package/system-switch-mail.md" >}}) | 158 | 158 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [tagtool]({{< ref "/f13/package/tagtool.md" >}}) | 958 | 958 | 100.0 | Swedish <sv@li.org> | 
- | [tasks]({{< ref "/f13/package/tasks.md" >}}) | 314 | 314 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [tasque]({{< ref "/f13/package/tasque.md" >}}) | 245 | 245 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [tellico]({{< ref "/f13/package/tellico.md" >}}) | 5497 | 5497 | 100.0 | Swedish <kde-i18n-doc@kde.org> | 
- | [texlive]({{< ref "/f13/package/texlive.md" >}}) | 4382 | 4382 | 100.0 | Swedish <sv@li.org> | 
- | [thunar-shares-plugin]({{< ref "/f13/package/thunar-shares-plugin.md" >}}) | 220 | 220 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [tigervnc]({{< ref "/f13/package/tigervnc.md" >}}) | 188 | 188 | 100.0 | Swedish | 
- | [tinyca2]({{< ref "/f13/package/tinyca2.md" >}}) | 1894 | 1894 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [tomboy]({{< ref "/f13/package/tomboy.md" >}}) | 7192 | 7192 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [totem-pl-parser]({{< ref "/f13/package/totem-pl-parser.md" >}}) | 28 | 28 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [tracker]({{< ref "/f13/package/tracker.md" >}}) | 1971 | 1971 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [transmission]({{< ref "/f13/package/transmission.md" >}}) | 1642 | 1642 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [turba]({{< ref "/f13/package/turba.md" >}}) | 1107 | 1107 | 100.0 | Swedish <dev@lists.horde.org> | 
- | [upower]({{< ref "/f13/package/upower.md" >}}) | 113 | 113 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [usermode]({{< ref "/f13/package/usermode.md" >}}) | 562 | 562 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [viewnior]({{< ref "/f13/package/viewnior.md" >}}) | 387 | 387 | 100.0 | Swedish <sv@li.org> | 
- | [vim]({{< ref "/f13/package/vim.md" >}}) | 8228 | 8228 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [vinagre]({{< ref "/f13/package/vinagre.md" >}}) | 2691 | 2691 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [vino]({{< ref "/f13/package/vino.md" >}}) | 1215 | 1215 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [virtaal]({{< ref "/f13/package/virtaal.md" >}}) | 1116 | 1116 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [vte]({{< ref "/f13/package/vte.md" >}}) | 116 | 116 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [wallpapoz]({{< ref "/f13/package/wallpapoz.md" >}}) | 395 | 395 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [wammu]({{< ref "/f13/package/wammu.md" >}}) | 4282 | 4282 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [watchdog]({{< ref "/f13/package/watchdog.md" >}}) | 97 | 97 | 100.0 | swedish <debian-l10n-swedish@lists.debian.org> | 
- | [wget]({{< ref "/f13/package/wget.md" >}}) | 2260 | 2260 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [wol]({{< ref "/f13/package/wol.md" >}}) | 298 | 298 | 100.0 |  | 
- | [xarchiver]({{< ref "/f13/package/xarchiver.md" >}}) | 1131 | 1131 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [xcdroast]({{< ref "/f13/package/xcdroast.md" >}}) | 8044 | 8044 | 100.0 | Swedish | 
- | [xdg-user-dirs]({{< ref "/f13/package/xdg-user-dirs.md" >}}) | 28 | 28 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [xdg-user-dirs-gtk]({{< ref "/f13/package/xdg-user-dirs-gtk.md" >}}) | 81 | 81 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [xfce-utils]({{< ref "/f13/package/xfce-utils.md" >}}) | 131 | 131 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [xfce4-appfinder]({{< ref "/f13/package/xfce4-appfinder.md" >}}) | 84 | 84 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [xfce4-mixer]({{< ref "/f13/package/xfce4-mixer.md" >}}) | 181 | 181 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [xfce4-mpc-plugin]({{< ref "/f13/package/xfce4-mpc-plugin.md" >}}) | 80 | 80 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [xfce4-netload-plugin]({{< ref "/f13/package/xfce4-netload-plugin.md" >}}) | 68 | 68 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [xfce4-panel]({{< ref "/f13/package/xfce4-panel.md" >}}) | 540 | 540 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [xfce4-places-plugin]({{< ref "/f13/package/xfce4-places-plugin.md" >}}) | 75 | 75 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [xfce4-radio-plugin]({{< ref "/f13/package/xfce4-radio-plugin.md" >}}) | 42 | 42 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [xfce4-session]({{< ref "/f13/package/xfce4-session.md" >}}) | 990 | 990 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [xfce4-settings]({{< ref "/f13/package/xfce4-settings.md" >}}) | 1138 | 1138 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [xfce4-wavelan-plugin]({{< ref "/f13/package/xfce4-wavelan-plugin.md" >}}) | 49 | 49 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [xfce4-xfswitch-plugin]({{< ref "/f13/package/xfce4-xfswitch-plugin.md" >}}) | 20 | 20 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [xfce4-xkb-plugin]({{< ref "/f13/package/xfce4-xkb-plugin.md" >}}) | 64 | 64 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [xfconf]({{< ref "/f13/package/xfconf.md" >}}) | 421 | 421 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [xfdesktop]({{< ref "/f13/package/xfdesktop.md" >}}) | 1004 | 1004 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [xfprint]({{< ref "/f13/package/xfprint.md" >}}) | 337 | 337 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [xfwm4]({{< ref "/f13/package/xfwm4.md" >}}) | 797 | 797 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [xkeyboard-config]({{< ref "/f13/package/xkeyboard-config.md" >}}) | 1921 | 1921 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [xpad]({{< ref "/f13/package/xpad.md" >}}) | 363 | 363 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [yakuake]({{< ref "/f13/package/yakuake.md" >}}) | 1288 | 1288 | 100.0 | Swedish <sv@li.org> | 
- | [yelp]({{< ref "/f13/package/yelp.md" >}}) | 1094 | 1094 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [yp-tools]({{< ref "/f13/package/yp-tools.md" >}}) | 869 | 869 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [yum]({{< ref "/f13/package/yum.md" >}}) | 2565 | 2565 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [zarafa-webaccess]({{< ref "/f13/package/zarafa-webaccess.md" >}}) | 2679 | 2679 | 100.0 | sv_SE <sv@li.org> | 
- | [zenity]({{< ref "/f13/package/zenity.md" >}}) | 2941 | 2941 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [zeroinstall-injector]({{< ref "/f13/package/zeroinstall-injector.md" >}}) | 5736 | 5736 | 100.0 | Swedish <sv@li.org> | 
- | [konversation]({{< ref "/f13/package/konversation.md" >}}) | 10181 | 10183 | 100.0 | Swedish <kde-i18n-doc@kde.org> | 
- | [gramps]({{< ref "/f13/package/gramps.md" >}}) | 28475 | 28494 | 99.9 | Swedish <kde-i18n-doc@kde.org> | 
- | [gambas]({{< ref "/f13/package/gambas.md" >}}) | 2472 | 2475 | 99.9 | LANGUAGE <LL@li.org> | 
- | [kdevplatform]({{< ref "/f13/package/kdevplatform.md" >}}) | 6577 | 6585 | 99.9 | Swedish <kde-i18n-doc@kde.org> | 
- | [hugin]({{< ref "/f13/package/hugin.md" >}}) | 6591 | 6602 | 99.8 | Svenska <se@li.org> | 
- | [ghdl]({{< ref "/f13/package/ghdl.md" >}}) | 49821 | 49908 | 99.8 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [ganyremote]({{< ref "/f13/package/ganyremote.md" >}}) | 517 | 518 | 99.8 | Swedish | 
- | [kanyremote]({{< ref "/f13/package/kanyremote.md" >}}) | 497 | 498 | 99.8 | Swedish | 
- | [system-config-printer]({{< ref "/f13/package/system-config-printer.md" >}}) | 3102 | 3110 | 99.7 | Swedish <None> | 
- | [xchat]({{< ref "/f13/package/xchat.md" >}}) | 5013 | 5027 | 99.7 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [dar]({{< ref "/f13/package/dar.md" >}}) | 5691 | 5708 | 99.7 | Svenska <sv@li.org> | 
- | [libgpod]({{< ref "/f13/package/libgpod.md" >}}) | 931 | 934 | 99.7 | Svenska <sv@li.org> | 
- | [arm-gp2x-linux-gcc]({{< ref "/f13/package/arm-gp2x-linux-gcc.md" >}}) | 40900 | 41043 | 99.7 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [bygfoot]({{< ref "/f13/package/bygfoot.md" >}}) | 3707 | 3720 | 99.7 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [scim]({{< ref "/f13/package/scim.md" >}}) | 1159 | 1164 | 99.6 |  | 
- | [manaworld]({{< ref "/f13/package/manaworld.md" >}}) | 2473 | 2484 | 99.6 | Swedish <sv@li.org> | 
- | [gnochm]({{< ref "/f13/package/gnochm.md" >}}) | 578 | 581 | 99.5 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [spacewalk-backend]({{< ref "/f13/package/spacewalk-backend.md" >}}) | 1902 | 1912 | 99.5 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [kdevelop-php]({{< ref "/f13/package/kdevelop-php.md" >}}) | 357 | 359 | 99.4 | Swedish <kde-i18n-doc@kde.org> | 
- | [kBuild]({{< ref "/f13/package/kBuild.md" >}}) | 502 | 505 | 99.4 | Swedish <sv@li.org> | 
- | [kde-plasma-networkmanagement]({{< ref "/f13/package/kde-plasma-networkmanagement.md" >}}) | 2407 | 2422 | 99.4 | Swedish <kde-i18n-doc@kde.org> | 
- | [gcal]({{< ref "/f13/package/gcal.md" >}}) | 4904 | 4938 | 99.3 | Swedish <sv@li.org> | 
- | [monsoon]({{< ref "/f13/package/monsoon.md" >}}) | 428 | 431 | 99.3 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [Miro]({{< ref "/f13/package/Miro.md" >}}) | 3312 | 3336 | 99.3 | Swedish <sv@li.org> | 
- | [gqview]({{< ref "/f13/package/gqview.md" >}}) | 1708 | 1721 | 99.2 | Swedish <sv@li.org> | 
- | [mingw32-libgpg-error]({{< ref "/f13/package/mingw32-libgpg-error.md" >}}) | 734 | 740 | 99.2 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [wine]({{< ref "/f13/package/wine.md" >}}) | 11673 | 11773 | 99.2 | none | 
- | [xfce4-notes-plugin]({{< ref "/f13/package/xfce4-notes-plugin.md" >}}) | 110 | 111 | 99.1 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [gallery2]({{< ref "/f13/package/gallery2.md" >}}) | 17632 | 17793 | 99.1 | Swedish <gallery-devel@lists.sourceforge.net> | 
- | [publican-fedora]({{< ref "/f13/package/publican-fedora.md" >}}) | 106 | 107 | 99.1 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [ingo]({{< ref "/f13/package/ingo.md" >}}) | 659 | 666 | 98.9 | Swedish <i18n@lists.horde.org> | 
- | [findutils]({{< ref "/f13/package/findutils.md" >}}) | 2082 | 2105 | 98.9 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [tre]({{< ref "/f13/package/tre.md" >}}) | 424 | 429 | 98.8 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [pioneers]({{< ref "/f13/package/pioneers.md" >}}) | 2524 | 2554 | 98.8 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [poedit]({{< ref "/f13/package/poedit.md" >}}) | 1148 | 1162 | 98.8 | TEAM <TEAM@li.org> | 
- | [gperiodic]({{< ref "/f13/package/gperiodic.md" >}}) | 1827 | 1850 | 98.8 | LANGUAGE <LL@li.org> | 
- | [aumix]({{< ref "/f13/package/aumix.md" >}}) | 237 | 240 | 98.8 | Swedish <sv@li.org> | 
- | [fslint]({{< ref "/f13/package/fslint.md" >}}) | 383 | 388 | 98.7 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [synce-trayicon]({{< ref "/f13/package/synce-trayicon.md" >}}) | 153 | 155 | 98.7 | Swedish <sv@li.org> | 
- | [dexter]({{< ref "/f13/package/dexter.md" >}}) | 225 | 228 | 98.7 | Swedish <sv@li.org> | 
- | [wdiff]({{< ref "/f13/package/wdiff.md" >}}) | 930 | 943 | 98.6 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [sane-backends]({{< ref "/f13/package/sane-backends.md" >}}) | 4291 | 4356 | 98.5 | Swedish <sv@li.org> | 
- | [flex]({{< ref "/f13/package/flex.md" >}}) | 1052 | 1069 | 98.4 | Swedish <sv@li.org> | 
- | [vdr]({{< ref "/f13/package/vdr.md" >}}) | 793 | 807 | 98.3 | Swedish | 
- | [blueman]({{< ref "/f13/package/blueman.md" >}}) | 1352 | 1376 | 98.3 | Swedish <sv@li.org> | 
- | [dpkg]({{< ref "/f13/package/dpkg.md" >}}) | 36835 | 37520 | 98.2 | Swedish <debian-l10n-swedish@lists.debian.org> | 
- | [terminator]({{< ref "/f13/package/terminator.md" >}}) | 214 | 218 | 98.2 | Swedish <sv@li.org> | 
- | [libgpg-error]({{< ref "/f13/package/libgpg-error.md" >}}) | 734 | 748 | 98.1 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [tar]({{< ref "/f13/package/tar.md" >}}) | 3185 | 3247 | 98.1 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [pinot]({{< ref "/f13/package/pinot.md" >}}) | 565 | 577 | 97.9 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [listen]({{< ref "/f13/package/listen.md" >}}) | 1745 | 1783 | 97.9 | Swedish <sv@li.org> | 
- | [gphoto2]({{< ref "/f13/package/gphoto2.md" >}}) | 1486 | 1519 | 97.8 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [wxGTK]({{< ref "/f13/package/wxGTK.md" >}}) | 6359 | 6501 | 97.8 | wxWidgets translators <wx-translators@lists.wxwidgets.org> | 
- | [gambas2]({{< ref "/f13/package/gambas2.md" >}}) | 3570 | 3656 | 97.6 | LANGUAGE <LL@li.org> | 
- | [pidgin]({{< ref "/f13/package/pidgin.md" >}}) | 18263 | 18730 | 97.5 |  | 
- | [catfish]({{< ref "/f13/package/catfish.md" >}}) | 74 | 76 | 97.4 | Swedish <sv@li.org> | 
- | [Django]({{< ref "/f13/package/Django.md" >}}) | 3108 | 3193 | 97.3 | Django I18N <Django-I18N@googlegroups.com> | 
- | [passwd]({{< ref "/f13/package/passwd.md" >}}) | 291 | 299 | 97.3 | none | 
- | [qalculate-gtk]({{< ref "/f13/package/qalculate-gtk.md" >}}) | 2275 | 2342 | 97.1 | Swedish | 
- | [qalculate-kde]({{< ref "/f13/package/qalculate-kde.md" >}}) | 1378 | 1420 | 97.0 | Swedish | 
- | [system-config-services]({{< ref "/f13/package/system-config-services.md" >}}) | 392 | 404 | 97.0 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [gnupg]({{< ref "/f13/package/gnupg.md" >}}) | 8363 | 8629 | 96.9 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [easytag]({{< ref "/f13/package/easytag.md" >}}) | 5151 | 5315 | 96.9 | Swedish <LL@li.org> | 
- | [gnome-disk-utility]({{< ref "/f13/package/gnome-disk-utility.md" >}}) | 4909 | 5071 | 96.8 | LANGUAGE <LL@li.org> | 
- | [leafpad]({{< ref "/f13/package/leafpad.md" >}}) | 121 | 125 | 96.8 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [soundtracker]({{< ref "/f13/package/soundtracker.md" >}}) | 1593 | 1648 | 96.7 | Swedish <sv@li.org> | 
- | [gtkpod]({{< ref "/f13/package/gtkpod.md" >}}) | 6583 | 6813 | 96.6 | Svenska <sv@li.org> | 
- | [clementine]({{< ref "/f13/package/clementine.md" >}}) | 2487 | 2574 | 96.6 | Launchpad Swedish Translators <lp-l10n-sv@lists.launchpad.net> | 
- | [rpm]({{< ref "/f13/package/rpm.md" >}}) | 3720 | 3851 | 96.6 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [CableSwig]({{< ref "/f13/package/CableSwig.md" >}}) | 1101 | 1140 | 96.6 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [gccxml]({{< ref "/f13/package/gccxml.md" >}}) | 1101 | 1140 | 96.6 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [epdfview]({{< ref "/f13/package/epdfview.md" >}}) | 466 | 483 | 96.5 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [xfbib]({{< ref "/f13/package/xfbib.md" >}}) | 216 | 224 | 96.4 | Swedish | 
- | [jokosher]({{< ref "/f13/package/jokosher.md" >}}) | 1985 | 2059 | 96.4 | Swedish <sv@li.org> | 
- | [nesc]({{< ref "/f13/package/nesc.md" >}}) | 1134 | 1178 | 96.3 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [ypbind]({{< ref "/f13/package/ypbind.md" >}}) | 378 | 393 | 96.2 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [wormux]({{< ref "/f13/package/wormux.md" >}}) | 1835 | 1916 | 95.8 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [pidgin-sipe]({{< ref "/f13/package/pidgin-sipe.md" >}}) | 648 | 678 | 95.6 | Novell Language <language@novell.com> | 
- | [tvtime]({{< ref "/f13/package/tvtime.md" >}}) | 1169 | 1224 | 95.5 | Per von Zweigbergk <pvz@e.kth.se> | 
- | [po4a]({{< ref "/f13/package/po4a.md" >}}) | 1812 | 1901 | 95.3 | Swedish <debian-l10n-swedish@lists.debian.org> | 
- | [drgeo]({{< ref "/f13/package/drgeo.md" >}}) | 1891 | 1985 | 95.3 | Swedish <sv@li.org> | 
- | [xdialog]({{< ref "/f13/package/xdialog.md" >}}) | 20 | 21 | 95.2 | Swedish <forsberg@cendio.se> | 
- | [gxine]({{< ref "/f13/package/gxine.md" >}}) | 2610 | 2741 | 95.2 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [claws-mail]({{< ref "/f13/package/claws-mail.md" >}}) | 13982 | 14690 | 95.2 | Swedish | 
- | [gscan2pdf]({{< ref "/f13/package/gscan2pdf.md" >}}) | 1300 | 1368 | 95.0 | Swedish <sv@li.org> | 
- | [cups]({{< ref "/f13/package/cups.md" >}}) | 6981 | 7347 | 95.0 | Apple Inc. | 
- | [newsbeuter]({{< ref "/f13/package/newsbeuter.md" >}}) | 1175 | 1237 | 95.0 |  | 
- | [system-config-firewall]({{< ref "/f13/package/system-config-firewall.md" >}}) | 2663 | 2807 | 94.9 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [gnupg2]({{< ref "/f13/package/gnupg2.md" >}}) | 9896 | 10451 | 94.7 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [mutter]({{< ref "/f13/package/mutter.md" >}}) | 2307 | 2437 | 94.7 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [mutter-mbl]({{< ref "/f13/package/mutter-mbl.md" >}}) | 2307 | 2437 | 94.7 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [pidgin-musictracker]({{< ref "/f13/package/pidgin-musictracker.md" >}}) | 315 | 333 | 94.6 | Swedish <sv@li.org> | 
- | [eiciel]({{< ref "/f13/package/eiciel.md" >}}) | 120 | 127 | 94.5 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [sentinella]({{< ref "/f13/package/sentinella.md" >}}) | 411 | 435 | 94.5 | Swedish <LL@li.org> | 
- | [pam]({{< ref "/f13/package/pam.md" >}}) | 565 | 599 | 94.3 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [initng-conf-gtk]({{< ref "/f13/package/initng-conf-gtk.md" >}}) | 166 | 176 | 94.3 | Swedish | 
- | [system-config-users]({{< ref "/f13/package/system-config-users.md" >}}) | 1373 | 1456 | 94.3 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [xlog]({{< ref "/f13/package/xlog.md" >}}) | 1358 | 1441 | 94.2 | <en@li.org> | 
- | [giggle]({{< ref "/f13/package/giggle.md" >}}) | 297 | 316 | 94.0 | sv <sv@li.org> | 
- | [bareftp]({{< ref "/f13/package/bareftp.md" >}}) | 421 | 448 | 94.0 |  | 
- | [decibel-audio-player]({{< ref "/f13/package/decibel-audio-player.md" >}}) | 1401 | 1494 | 93.8 | Swedish <sv@li.org> | 
- | [nautilus-terminal]({{< ref "/f13/package/nautilus-terminal.md" >}}) | 103 | 110 | 93.6 | Swedish <sv@li.org> | 
- | [xmoto]({{< ref "/f13/package/xmoto.md" >}}) | 3355 | 3591 | 93.4 | Svenska <sv@li.org> | 
- | [gigolo]({{< ref "/f13/package/gigolo.md" >}}) | 466 | 500 | 93.2 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [gstreamer]({{< ref "/f13/package/gstreamer.md" >}}) | 1703 | 1829 | 93.1 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [gnome-media]({{< ref "/f13/package/gnome-media.md" >}}) | 4530 | 4870 | 93.0 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [xfburn]({{< ref "/f13/package/xfburn.md" >}}) | 1209 | 1300 | 93.0 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [xmlcopyeditor]({{< ref "/f13/package/xmlcopyeditor.md" >}}) | 1218 | 1311 | 92.9 | LANGUAGE <LL@li.org> | 
- | [gawk]({{< ref "/f13/package/gawk.md" >}}) | 2419 | 2604 | 92.9 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [griffith]({{< ref "/f13/package/griffith.md" >}}) | 1742 | 1876 | 92.9 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [network-manager-netbook]({{< ref "/f13/package/network-manager-netbook.md" >}}) | 439 | 473 | 92.8 | Novell Language <language@novell.com> | 
- | [boswars]({{< ref "/f13/package/boswars.md" >}}) | 202 | 218 | 92.7 |  | 
- | [gthumb]({{< ref "/f13/package/gthumb.md" >}}) | 10461 | 11333 | 92.3 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [mutt]({{< ref "/f13/package/mutt.md" >}}) | 4958 | 5377 | 92.2 | Swedish <sv@li.org> | 
- | [gnome-applet-timer]({{< ref "/f13/package/gnome-applet-timer.md" >}}) | 258 | 280 | 92.1 | Swedish <sv@li.org> | 
- | [cryptsetup-luks]({{< ref "/f13/package/cryptsetup-luks.md" >}}) | 993 | 1078 | 92.1 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [xfce4-weather-plugin]({{< ref "/f13/package/xfce4-weather-plugin.md" >}}) | 511 | 555 | 92.1 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [gliv]({{< ref "/f13/package/gliv.md" >}}) | 950 | 1034 | 91.9 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [lingot]({{< ref "/f13/package/lingot.md" >}}) | 118 | 129 | 91.5 | Swedish <sv@li.org> | 
- | [gnome-hearts]({{< ref "/f13/package/gnome-hearts.md" >}}) | 374 | 409 | 91.4 | Swedish <sv@li.org> | 
- | [gpodder]({{< ref "/f13/package/gpodder.md" >}}) | 2157 | 2360 | 91.4 | gPodder team <gpodder-devel@lists.berlios.de> | 
- | [alexandria]({{< ref "/f13/package/alexandria.md" >}}) | 1075 | 1181 | 91.0 | Swedish <sv@li.org> | 
- | [tuxpaint]({{< ref "/f13/package/tuxpaint.md" >}}) | 1132 | 1247 | 90.8 | <tp-sv@listor.tp-sv.se> | 
- | [enscript]({{< ref "/f13/package/enscript.md" >}}) | 1659 | 1828 | 90.8 | Swedish <sv@li.org> | 
- | [wxPython]({{< ref "/f13/package/wxPython.md" >}}) | 7964 | 8776 | 90.7 | wxWidgets translators <wx-translators@lists.wxwidgets.org> | 
- | [system-config-language]({{< ref "/f13/package/system-config-language.md" >}}) | 293 | 323 | 90.7 | Swedish <sv@li.org> | 
- | [gnome-user-docs]({{< ref "/f13/package/gnome-user-docs.md" >}}) | 71123 | 78576 | 90.5 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [drupal-cck]({{< ref "/f13/package/drupal-cck.md" >}}) | 2268 | 2508 | 90.4 | drupalsverige.se | 
- | [system-config-keyboard]({{< ref "/f13/package/system-config-keyboard.md" >}}) | 169 | 187 | 90.4 | Swedish <sv@li.org> | 
- | [bash]({{< ref "/f13/package/bash.md" >}}) | 9682 | 10715 | 90.4 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [sos]({{< ref "/f13/package/sos.md" >}}) | 241 | 267 | 90.3 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [mingw32-iconv]({{< ref "/f13/package/mingw32-iconv.md" >}}) | 303 | 336 | 90.2 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [workrave]({{< ref "/f13/package/workrave.md" >}}) | 1059 | 1176 | 90.1 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [scribes]({{< ref "/f13/package/scribes.md" >}}) | 2170 | 2420 | 89.7 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [asunder]({{< ref "/f13/package/asunder.md" >}}) | 403 | 450 | 89.6 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [xfmpc]({{< ref "/f13/package/xfmpc.md" >}}) | 116 | 130 | 89.2 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [gdmap]({{< ref "/f13/package/gdmap.md" >}}) | 124 | 139 | 89.2 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [linsmith]({{< ref "/f13/package/linsmith.md" >}}) | 600 | 673 | 89.2 | Svenska <sv@li.org> | 
- | [sepostgresql]({{< ref "/f13/package/sepostgresql.md" >}}) | 9622 | 10803 | 89.1 | Swedish <sv@li.org> | 
- | [renameutils]({{< ref "/f13/package/renameutils.md" >}}) | 1448 | 1629 | 88.9 | Swedish <sv@li.org> | 
- | [gobby]({{< ref "/f13/package/gobby.md" >}}) | 778 | 876 | 88.8 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [tuxtype2]({{< ref "/f13/package/tuxtype2.md" >}}) | 71 | 80 | 88.8 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [gazpacho]({{< ref "/f13/package/gazpacho.md" >}}) | 628 | 708 | 88.7 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [kshutdown]({{< ref "/f13/package/kshutdown.md" >}}) | 687 | 776 | 88.5 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [glade2]({{< ref "/f13/package/glade2.md" >}}) | 5206 | 5910 | 88.1 | Swedish <sv@li.org> | 
- | [jbrout]({{< ref "/f13/package/jbrout.md" >}}) | 303 | 344 | 88.1 |  | 
- | [soundconverter]({{< ref "/f13/package/soundconverter.md" >}}) | 396 | 450 | 88.0 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [poker-engine]({{< ref "/f13/package/poker-engine.md" >}}) | 164 | 187 | 87.7 | <pokersource-users@gna.org> | 
- | [pidgin-guifications]({{< ref "/f13/package/pidgin-guifications.md" >}}) | 442 | 505 | 87.5 | Swedish <sv@li.org> | 
- | [gnome-video-effects]({{< ref "/f13/package/gnome-video-effects.md" >}}) | 14 | 16 | 87.5 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [monotone]({{< ref "/f13/package/monotone.md" >}}) | 9555 | 10925 | 87.5 | Richard Levitte <richard@levitte.org> | 
- | [glade3]({{< ref "/f13/package/glade3.md" >}}) | 5460 | 6282 | 86.9 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [solang]({{< ref "/f13/package/solang.md" >}}) | 296 | 342 | 86.5 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [calibre]({{< ref "/f13/package/calibre.md" >}}) | 17265 | 19998 | 86.3 | Swedish <sv@li.org> | 
- | [obconf]({{< ref "/f13/package/obconf.md" >}}) | 552 | 641 | 86.1 | Swedish | 
- | [avahi]({{< ref "/f13/package/avahi.md" >}}) | 711 | 826 | 86.1 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [xmms]({{< ref "/f13/package/xmms.md" >}}) | 2958 | 3443 | 85.9 | Swedish <sv@li.org> | 
- | [Terminal]({{< ref "/f13/package/Terminal.md" >}}) | 1021 | 1191 | 85.7 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [rawstudio]({{< ref "/f13/package/rawstudio.md" >}}) | 1307 | 1527 | 85.6 | Rawstudio development <rawstudio-dev@rawstudio.org> | 
- | [empathy]({{< ref "/f13/package/empathy.md" >}}) | 4282 | 5018 | 85.3 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [mailody]({{< ref "/f13/package/mailody.md" >}}) | 668 | 783 | 85.3 | Swedish <sv@li.org> | 
- | [python-kiwi]({{< ref "/f13/package/python-kiwi.md" >}}) | 193 | 228 | 84.6 | Swedish <sv@li.org> | 
- | [sed]({{< ref "/f13/package/sed.md" >}}) | 490 | 581 | 84.3 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [slrn]({{< ref "/f13/package/slrn.md" >}}) | 4509 | 5351 | 84.3 | Swedish <sv@li.org> | 
- | [totem]({{< ref "/f13/package/totem.md" >}}) | 5991 | 7112 | 84.2 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [pavucontrol]({{< ref "/f13/package/pavucontrol.md" >}}) | 198 | 237 | 83.5 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [gkrellm]({{< ref "/f13/package/gkrellm.md" >}}) | 3136 | 3783 | 82.9 | Swedish <sv@li.org> | 
- | [gnome-dvb-daemon]({{< ref "/f13/package/gnome-dvb-daemon.md" >}}) | 667 | 806 | 82.8 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [pybackpack]({{< ref "/f13/package/pybackpack.md" >}}) | 918 | 1115 | 82.3 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [lifeograph]({{< ref "/f13/package/lifeograph.md" >}}) | 393 | 479 | 82.0 | Swedish <sv@li.org> | 
- | [compiz-fusion]({{< ref "/f13/package/compiz-fusion.md" >}}) | 7339 | 8946 | 82.0 | Compiz Fusion Translators <i18n@lists.compiz-fusion.org> | 
- | [compiz-fusion-extras]({{< ref "/f13/package/compiz-fusion-extras.md" >}}) | 7339 | 8946 | 82.0 | Compiz Fusion Translators <i18n@lists.compiz-fusion.org> | 
- | [compiz-fusion-unsupported]({{< ref "/f13/package/compiz-fusion-unsupported.md" >}}) | 7339 | 8946 | 82.0 | Compiz Fusion Translators <i18n@lists.compiz-fusion.org> | 
- | [gnubik]({{< ref "/f13/package/gnubik.md" >}}) | 178 | 217 | 82.0 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [gnome-activity-journal]({{< ref "/f13/package/gnome-activity-journal.md" >}}) | 259 | 316 | 82.0 | Swedish <sv@li.org> | 
- | [nano]({{< ref "/f13/package/nano.md" >}}) | 2102 | 2570 | 81.8 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [recode]({{< ref "/f13/package/recode.md" >}}) | 672 | 829 | 81.1 | Swedish <sv@li.org> | 
- | [xfce4-systemload-plugin]({{< ref "/f13/package/xfce4-systemload-plugin.md" >}}) | 51 | 63 | 81.0 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [klog]({{< ref "/f13/package/klog.md" >}}) | 1393 | 1738 | 80.1 | <sv@li.org> | 
- | [linphone]({{< ref "/f13/package/linphone.md" >}}) | 1153 | 1440 | 80.1 | SWEDISH <SE@li.org> | 
- | [libqalculate]({{< ref "/f13/package/libqalculate.md" >}}) | 5409 | 6764 | 80.0 | Swedish | 
- | [homebank]({{< ref "/f13/package/homebank.md" >}}) | 1205 | 1509 | 79.9 | Swedish <sv@li.org> | 
- | [gnokii]({{< ref "/f13/package/gnokii.md" >}}) | 4247 | 5326 | 79.7 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [ejabberd]({{< ref "/f13/package/ejabberd.md" >}}) | 1395 | 1753 | 79.6 |  | 
- | [schroot]({{< ref "/f13/package/schroot.md" >}}) | 1039 | 1310 | 79.3 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [postgresql]({{< ref "/f13/package/postgresql.md" >}}) | 10924 | 13803 | 79.1 | Swedish <sv@li.org> | 
- | [qof]({{< ref "/f13/package/qof.md" >}}) | 554 | 701 | 79.0 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [xchm]({{< ref "/f13/package/xchm.md" >}}) | 175 | 222 | 78.8 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [policycoreutils]({{< ref "/f13/package/policycoreutils.md" >}}) | 1155 | 1470 | 78.6 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [drupal-date]({{< ref "/f13/package/drupal-date.md" >}}) | 1366 | 1746 | 78.2 | drupalsverige.se | 
- | [fotoxx]({{< ref "/f13/package/fotoxx.md" >}}) | 938 | 1203 | 78.0 | Swedish <kde-i18n-doc@kde.org> | 
- | [sylpheed]({{< ref "/f13/package/sylpheed.md" >}}) | 5136 | 6615 | 77.6 | Swedish <sv@li.org> | 
- | [f-spot]({{< ref "/f13/package/f-spot.md" >}}) | 5013 | 6478 | 77.4 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [indent]({{< ref "/f13/package/indent.md" >}}) | 210 | 272 | 77.2 | Swedish <sv@li.org> | 
- | [ghex]({{< ref "/f13/package/ghex.md" >}}) | 2426 | 3147 | 77.1 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [pastebinit]({{< ref "/f13/package/pastebinit.md" >}}) | 127 | 165 | 77.0 | Swedish <sv@li.org> | 
- | [parted]({{< ref "/f13/package/parted.md" >}}) | 3893 | 5066 | 76.8 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [system-config-kickstart]({{< ref "/f13/package/system-config-kickstart.md" >}}) | 846 | 1103 | 76.7 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [quodlibet]({{< ref "/f13/package/quodlibet.md" >}}) | 1533 | 2001 | 76.6 | SWEDISH | 
- | [mtpaint]({{< ref "/f13/package/mtpaint.md" >}}) | 2341 | 3065 | 76.4 | Swedish <sv@li.org> | 
- | [xchat-gnome]({{< ref "/f13/package/xchat-gnome.md" >}}) | 4643 | 6116 | 75.9 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [opensp]({{< ref "/f13/package/opensp.md" >}}) | 4379 | 5771 | 75.9 | Swedish <sv@li.org> | 
- | [gnome-applet-window-picker]({{< ref "/f13/package/gnome-applet-window-picker.md" >}}) | 22 | 29 | 75.9 | Swedish | 
- | [ncmpc]({{< ref "/f13/package/ncmpc.md" >}}) | 518 | 683 | 75.8 | sv <sv@li.org> | 
- | [system-config-date]({{< ref "/f13/package/system-config-date.md" >}}) | 1323 | 1750 | 75.6 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [a2ps]({{< ref "/f13/package/a2ps.md" >}}) | 1142 | 1512 | 75.5 | Swedish <sv@li.org> | 
- | [dia]({{< ref "/f13/package/dia.md" >}}) | 4652 | 6255 | 74.4 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [anaconda]({{< ref "/f13/package/anaconda.md" >}}) | 7217 | 9752 | 74.0 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [util-linux-ng]({{< ref "/f13/package/util-linux-ng.md" >}}) | 10453 | 14159 | 73.8 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [shotwell]({{< ref "/f13/package/shotwell.md" >}}) | 1672 | 2272 | 73.6 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [abook]({{< ref "/f13/package/abook.md" >}}) | 535 | 727 | 73.6 | none | 
- | [xfce4-fsguard-plugin]({{< ref "/f13/package/xfce4-fsguard-plugin.md" >}}) | 47 | 64 | 73.4 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [purple-msn-pecan]({{< ref "/f13/package/purple-msn-pecan.md" >}}) | 703 | 960 | 73.2 | Swedish <sv@li.org> | 
- | [clamtk]({{< ref "/f13/package/clamtk.md" >}}) | 589 | 805 | 73.2 | Launchpad Swedish Translators <lp-l10n-sv@lists.launchpad.net> | 
- | [osmo]({{< ref "/f13/package/osmo.md" >}}) | 1246 | 1705 | 73.1 |  | 
- | [psmisc]({{< ref "/f13/package/psmisc.md" >}}) | 510 | 699 | 73.0 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [system-config-samba]({{< ref "/f13/package/system-config-samba.md" >}}) | 388 | 535 | 72.5 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [minicom]({{< ref "/f13/package/minicom.md" >}}) | 1236 | 1716 | 72.0 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [jpoker]({{< ref "/f13/package/jpoker.md" >}}) | 256 | 357 | 71.7 | <pokersource-users@gna.org> | 
- | [gajim]({{< ref "/f13/package/gajim.md" >}}) | 7736 | 10834 | 71.4 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [supertux]({{< ref "/f13/package/supertux.md" >}}) | 965 | 1361 | 70.9 | Swedish <supertux-devel@lists.lethargik.org> | 
- | [gdesklets]({{< ref "/f13/package/gdesklets.md" >}}) | 1081 | 1528 | 70.7 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [kbackup]({{< ref "/f13/package/kbackup.md" >}}) | 443 | 627 | 70.7 | Svenska <sv@li.org> | 
- | [gnome-bluetooth]({{< ref "/f13/package/gnome-bluetooth.md" >}}) | 1364 | 1947 | 70.1 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [wesnoth]({{< ref "/f13/package/wesnoth.md" >}}) | 156606 | 226922 | 69.0 | Swedish | 
- | [gtg]({{< ref "/f13/package/gtg.md" >}}) | 1230 | 1788 | 68.8 | Swedish <sv@li.org> | 
- | [liblicense]({{< ref "/f13/package/liblicense.md" >}}) | 45 | 66 | 68.2 | LANGUAGE <LL@li.org> | 
- | [centerim]({{< ref "/f13/package/centerim.md" >}}) | 1916 | 2814 | 68.1 | swedish <sv@li.org> | 
- | [help2man]({{< ref "/f13/package/help2man.md" >}}) | 347 | 511 | 67.9 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [make]({{< ref "/f13/package/make.md" >}}) | 1355 | 1997 | 67.9 | Swedish <sv@li.org> | 
- | [ayttm]({{< ref "/f13/package/ayttm.md" >}}) | 1973 | 2912 | 67.8 | SV <pather@comhem.se> | 
- | [xfce4-dict]({{< ref "/f13/package/xfce4-dict.md" >}}) | 340 | 502 | 67.7 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [compiz]({{< ref "/f13/package/compiz.md" >}}) | 2192 | 3250 | 67.4 | Compiz Fusion Translators <i18n@lists.compiz-fusion.org> | 
- | [zarafa]({{< ref "/f13/package/zarafa.md" >}}) | 3838 | 5766 | 66.6 | sv_SE <sv@li.org> | 
- | [gnome-commander]({{< ref "/f13/package/gnome-commander.md" >}}) | 5551 | 8362 | 66.4 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [ntfs-config]({{< ref "/f13/package/ntfs-config.md" >}}) | 235 | 357 | 65.8 | Swedish <sv@li.org> | 
- | [ekiga]({{< ref "/f13/package/ekiga.md" >}}) | 6276 | 9580 | 65.5 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [gpa]({{< ref "/f13/package/gpa.md" >}}) | 1329 | 2042 | 65.1 | Swedish <sv@li.org> | 
- | [sssd]({{< ref "/f13/package/sssd.md" >}}) | 826 | 1276 | 64.7 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [cherokee]({{< ref "/f13/package/cherokee.md" >}}) | 4334 | 6726 | 64.4 | Swedish <LL@li.org> | 
- | [wlassistant]({{< ref "/f13/package/wlassistant.md" >}}) | 703 | 1091 | 64.4 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [subdownloader]({{< ref "/f13/package/subdownloader.md" >}}) | 619 | 968 | 63.9 | LANGUAGE <LL@li.org> | 
- | [chmsee]({{< ref "/f13/package/chmsee.md" >}}) | 124 | 194 | 63.9 | Swedish <sv@li.org> | 
- | [fish]({{< ref "/f13/package/fish.md" >}}) | 5671 | 8912 | 63.6 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [horde]({{< ref "/f13/package/horde.md" >}}) | 4464 | 7025 | 63.5 | Swedish <i18n@lists.horde.org> | 
- | [deja-dup]({{< ref "/f13/package/deja-dup.md" >}}) | 703 | 1109 | 63.4 |  | 
- | [mailman]({{< ref "/f13/package/mailman.md" >}}) | 13751 | 21904 | 62.8 | Swedish <information@arvika.se> | 
- | [webkitgtk]({{< ref "/f13/package/webkitgtk.md" >}}) | 684 | 1093 | 62.6 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [sharutils]({{< ref "/f13/package/sharutils.md" >}}) | 652 | 1048 | 62.2 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [gbrainy]({{< ref "/f13/package/gbrainy.md" >}}) | 1159 | 1864 | 62.2 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [trackballs]({{< ref "/f13/package/trackballs.md" >}}) | 592 | 954 | 62.1 |  | 
- | [im-chooser]({{< ref "/f13/package/im-chooser.md" >}}) | 132 | 213 | 62.0 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [gnome-subtitles]({{< ref "/f13/package/gnome-subtitles.md" >}}) | 1593 | 2574 | 61.9 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [vdr-ttxtsubs]({{< ref "/f13/package/vdr-ttxtsubs.md" >}}) | 67 | 110 | 60.9 | <vdr@linuxtv.org> | 
- | [exaile]({{< ref "/f13/package/exaile.md" >}}) | 1683 | 2766 | 60.8 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [ardour]({{< ref "/f13/package/ardour.md" >}}) | 5505 | 9109 | 60.4 |  | 
- | [krename]({{< ref "/f13/package/krename.md" >}}) | 1159 | 1926 | 60.2 | svenska <sv@li.org> | 
- | [xsane]({{< ref "/f13/package/xsane.md" >}}) | 1938 | 3224 | 60.1 | LANGUAGE <sv@li.org> | 
- | [rt3]({{< ref "/f13/package/rt3.md" >}}) | 4665 | 7812 | 59.7 |  | 
- | [solfege]({{< ref "/f13/package/solfege.md" >}}) | 2371 | 3980 | 59.6 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [e16]({{< ref "/f13/package/e16.md" >}}) | 1654 | 2787 | 59.3 | Swedish <sv@li.org> | 
- | [klavaro]({{< ref "/f13/package/klavaro.md" >}}) | 1114 | 1878 | 59.3 | SWEDISH <LL@li.org> | 
- | [accountsdialog]({{< ref "/f13/package/accountsdialog.md" >}}) | 517 | 874 | 59.2 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [grub2]({{< ref "/f13/package/grub2.md" >}}) | 997 | 1687 | 59.1 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [gnome-globalmenu]({{< ref "/f13/package/gnome-globalmenu.md" >}}) | 192 | 325 | 59.1 | Swedish <sv@li.org> | 
- | [fuse-encfs]({{< ref "/f13/package/fuse-encfs.md" >}}) | 774 | 1315 | 58.9 | Swedish <sv@li.org> | 
- | [sabayon]({{< ref "/f13/package/sabayon.md" >}}) | 1283 | 2186 | 58.7 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [freeciv]({{< ref "/f13/package/freeciv.md" >}}) | 30431 | 53692 | 56.7 | Swedish <freeciv.sv@freelists.org> | 
- | [gutenprint]({{< ref "/f13/package/gutenprint.md" >}}) | 5421 | 9583 | 56.6 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [gshutdown]({{< ref "/f13/package/gshutdown.md" >}}) | 276 | 492 | 56.1 |  | 
- | [zeitgeist]({{< ref "/f13/package/zeitgeist.md" >}}) | 37 | 66 | 56.1 | Swedish <sv@li.org> | 
- | [marlin]({{< ref "/f13/package/marlin.md" >}}) | 830 | 1508 | 55.0 | Swedish <sv@li.org> | 
- | [geeqie]({{< ref "/f13/package/geeqie.md" >}}) | 1594 | 2909 | 54.8 | Swedish <sv@li.org> | 
- | [inkscape]({{< ref "/f13/package/inkscape.md" >}}) | 13139 | 24035 | 54.7 | Svenska <sv@li.org> | 
- | [gnotime]({{< ref "/f13/package/gnotime.md" >}}) | 1087 | 2008 | 54.1 | Swedish <sv@li.org> | 
- | [openvas-client]({{< ref "/f13/package/openvas-client.md" >}}) | 2408 | 4463 | 54.0 | Swedish <openvas-devel@wald.intevation.org> | 
- | [chronojump]({{< ref "/f13/package/chronojump.md" >}}) | 674 | 1261 | 53.4 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [gmusicbrowser]({{< ref "/f13/package/gmusicbrowser.md" >}}) | 1528 | 2867 | 53.3 | <se@li.org> | 
- | [tuxmath]({{< ref "/f13/package/tuxmath.md" >}}) | 559 | 1051 | 53.2 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [subversion]({{< ref "/f13/package/subversion.md" >}}) | 9470 | 17903 | 52.9 | Swedish <sv@li.org> | 
- | [smb4k]({{< ref "/f13/package/smb4k.md" >}}) | 3478 | 6580 | 52.9 | svenska <sv@li.org> | 
- | [bzr-explorer]({{< ref "/f13/package/bzr-explorer.md" >}}) | 832 | 1576 | 52.8 | Swedish <sv@li.org> | 
- | [nted]({{< ref "/f13/package/nted.md" >}}) | 681 | 1299 | 52.4 | Sv <LL@li.org> | 
- | [flumotion]({{< ref "/f13/package/flumotion.md" >}}) | 1772 | 3391 | 52.3 | Swedish <fi@li.org> | 
- | [setroubleshoot]({{< ref "/f13/package/setroubleshoot.md" >}}) | 292 | 563 | 51.9 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [gnome-specimen]({{< ref "/f13/package/gnome-specimen.md" >}}) | 29 | 56 | 51.8 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [Zim]({{< ref "/f13/package/Zim.md" >}}) | 645 | 1247 | 51.7 | Swedish | 
- | [twitux]({{< ref "/f13/package/twitux.md" >}}) | 153 | 297 | 51.5 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [yum-rhn-plugin]({{< ref "/f13/package/yum-rhn-plugin.md" >}}) | 55 | 107 | 51.4 | Swedish <sv@li.org> | 
- | [etoys]({{< ref "/f13/package/etoys.md" >}}) | 14273 | 27782 | 51.4 | Swedish <sv@li.org> | 
- | [icewm]({{< ref "/f13/package/icewm.md" >}}) | 706 | 1376 | 51.3 | Swedish <sv@li.org> | 
- | [gnome-applet-sensors]({{< ref "/f13/package/gnome-applet-sensors.md" >}}) | 150 | 298 | 50.3 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [grep]({{< ref "/f13/package/grep.md" >}}) | 408 | 827 | 49.3 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [gget]({{< ref "/f13/package/gget.md" >}}) | 313 | 637 | 49.1 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [gwibber]({{< ref "/f13/package/gwibber.md" >}}) | 22 | 45 | 48.9 | Swedish <sv@li.org> | 
- | [kchmviewer]({{< ref "/f13/package/kchmviewer.md" >}}) | 475 | 972 | 48.9 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [parole]({{< ref "/f13/package/parole.md" >}}) | 214 | 439 | 48.7 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [genius]({{< ref "/f13/package/genius.md" >}}) | 3351 | 7005 | 47.8 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [setroubleshoot-plugins]({{< ref "/f13/package/setroubleshoot-plugins.md" >}}) | 3739 | 7818 | 47.8 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [shutter]({{< ref "/f13/package/shutter.md" >}}) | 1314 | 2763 | 47.6 | Swedish <sv@li.org> | 
- | [meld]({{< ref "/f13/package/meld.md" >}}) | 1010 | 2174 | 46.5 | LANGUAGE <LL@li.org> | 
- | [gtk-doc]({{< ref "/f13/package/gtk-doc.md" >}}) | 3079 | 6632 | 46.4 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [kexec-tools]({{< ref "/f13/package/kexec-tools.md" >}}) | 95 | 206 | 46.1 | Swedish <sv@li.org> | 
- | [stellarium]({{< ref "/f13/package/stellarium.md" >}}) | 1092 | 2407 | 45.4 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [chromium-bsu]({{< ref "/f13/package/chromium-bsu.md" >}}) | 467 | 1030 | 45.3 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [evolution]({{< ref "/f13/package/evolution.md" >}}) | 25974 | 57759 | 45.0 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [cpio]({{< ref "/f13/package/cpio.md" >}}) | 873 | 1956 | 44.6 | Swedish <sv@li.org> | 
- | [goffice]({{< ref "/f13/package/goffice.md" >}}) | 2019 | 4599 | 43.9 | Swedish <sv@li.org> | 
- | [assogiate]({{< ref "/f13/package/assogiate.md" >}}) | 277 | 633 | 43.8 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [hitori]({{< ref "/f13/package/hitori.md" >}}) | 278 | 640 | 43.4 | English/GB <en@li.org> | 
- | [gnucash]({{< ref "/f13/package/gnucash.md" >}}) | 11552 | 26680 | 43.3 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [tilda]({{< ref "/f13/package/tilda.md" >}}) | 171 | 396 | 43.2 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [aspell]({{< ref "/f13/package/aspell.md" >}}) | 741 | 1726 | 42.9 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [viking]({{< ref "/f13/package/viking.md" >}}) | 821 | 1926 | 42.6 | Swedish <sv@li.org> | 
- | [poker-network]({{< ref "/f13/package/poker-network.md" >}}) | 389 | 913 | 42.6 | <pokersource-users@gna.org> | 
- | [poker2d]({{< ref "/f13/package/poker2d.md" >}}) | 389 | 913 | 42.6 | <pokersource-users@gna.org> | 
- | [glabels]({{< ref "/f13/package/glabels.md" >}}) | 782 | 1849 | 42.3 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [system-config-boot]({{< ref "/f13/package/system-config-boot.md" >}}) | 50 | 119 | 42.0 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [tuxpaint-stamps]({{< ref "/f13/package/tuxpaint-stamps.md" >}}) | 1099 | 2617 | 42.0 |  | 
- | [anjuta]({{< ref "/f13/package/anjuta.md" >}}) | 8484 | 20460 | 41.5 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [picard]({{< ref "/f13/package/picard.md" >}}) | 542 | 1310 | 41.4 | Swedish <sv@li.org> | 
- | [pychess]({{< ref "/f13/package/pychess.md" >}}) | 675 | 1671 | 40.4 |  | 
- | [dc3dd]({{< ref "/f13/package/dc3dd.md" >}}) | 375 | 932 | 40.2 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [ario]({{< ref "/f13/package/ario.md" >}}) | 272 | 682 | 39.9 | Swedish <sv@li.org> | 
- | [gnome-games]({{< ref "/f13/package/gnome-games.md" >}}) | 20281 | 50861 | 39.9 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [conglomerate]({{< ref "/f13/package/conglomerate.md" >}}) | 2503 | 6317 | 39.6 | Swedish <sv@li.org> | 
- | [gparted]({{< ref "/f13/package/gparted.md" >}}) | 2302 | 5814 | 39.6 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [claws-mail-plugins]({{< ref "/f13/package/claws-mail-plugins.md" >}}) | 247 | 627 | 39.4 | Swedish | 
- | [gnome-lirc-properties]({{< ref "/f13/package/gnome-lirc-properties.md" >}}) | 632 | 1612 | 39.2 | LANGUAGE <LL@li.org> | 
- | [paprefs]({{< ref "/f13/package/paprefs.md" >}}) | 51 | 131 | 38.9 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [widelands]({{< ref "/f13/package/widelands.md" >}}) | 12977 | 33587 | 38.6 | Swedish <sv@li.org> | 
- | [gnome-do-plugins]({{< ref "/f13/package/gnome-do-plugins.md" >}}) | 892 | 2323 | 38.4 | Swedish <sv@li.org> | 
- | [enigma]({{< ref "/f13/package/enigma.md" >}}) | 2023 | 5295 | 38.2 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [xfce4-screenshooter]({{< ref "/f13/package/xfce4-screenshooter.md" >}}) | 170 | 448 | 37.9 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [nemiver]({{< ref "/f13/package/nemiver.md" >}}) | 1053 | 2814 | 37.4 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [xfce4-power-manager]({{< ref "/f13/package/xfce4-power-manager.md" >}}) | 258 | 694 | 37.2 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [mercurial]({{< ref "/f13/package/mercurial.md" >}}) | 12579 | 34038 | 37.0 | Swedish | 
- | [gtkhash]({{< ref "/f13/package/gtkhash.md" >}}) | 24 | 65 | 36.9 | Swedish <sv@li.org> | 
- | [phatch]({{< ref "/f13/package/phatch.md" >}}) | 924 | 2553 | 36.2 | Swedish <sv@li.org> | 
- | [gmpc]({{< ref "/f13/package/gmpc.md" >}}) | 9 | 25 | 36.0 | Swedish <sv@li.org> | 
- | [bluefish]({{< ref "/f13/package/bluefish.md" >}}) | 1359 | 3819 | 35.6 | Swedish <sv@li.org> | 
- | [python-meh]({{< ref "/f13/package/python-meh.md" >}}) | 95 | 269 | 35.3 | Swedish <sv@li.org> | 
- | [nicotine+]({{< ref "/f13/package/nicotine+.md" >}}) | 1459 | 4140 | 35.2 | Swedish <markus@samsonrourke.com> | 
- | [libextractor]({{< ref "/f13/package/libextractor.md" >}}) | 598 | 1701 | 35.2 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [glom]({{< ref "/f13/package/glom.md" >}}) | 2247 | 6405 | 35.1 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [jpilot]({{< ref "/f13/package/jpilot.md" >}}) | 815 | 2327 | 35.0 | Swedish <sv@li.org> | 
- | [gnomint]({{< ref "/f13/package/gnomint.md" >}}) | 1544 | 4412 | 35.0 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [transifex]({{< ref "/f13/package/transifex.md" >}}) | 1608 | 4658 | 34.5 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [moserial]({{< ref "/f13/package/moserial.md" >}}) | 863 | 2644 | 32.6 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [libgphoto2]({{< ref "/f13/package/libgphoto2.md" >}}) | 3426 | 10541 | 32.5 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [mousetweaks]({{< ref "/f13/package/mousetweaks.md" >}}) | 1387 | 4362 | 31.8 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [lock-keys-applet]({{< ref "/f13/package/lock-keys-applet.md" >}}) | 17 | 54 | 31.5 | Swedish <sv@li.org> | 
- | [xiphos]({{< ref "/f13/package/xiphos.md" >}}) | 1193 | 3815 | 31.3 | LANGUAGE <LL@li.org> | 
- | [compat-gcc-32]({{< ref "/f13/package/compat-gcc-32.md" >}}) | 6983 | 22342 | 31.3 | Swedish <sv@li.org> | 
- | [msp430-gcc]({{< ref "/f13/package/msp430-gcc.md" >}}) | 6983 | 22342 | 31.3 | Swedish <sv@li.org> | 
- | [gcalctool]({{< ref "/f13/package/gcalctool.md" >}}) | 2424 | 7861 | 30.8 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [fakeroot]({{< ref "/f13/package/fakeroot.md" >}}) | 473 | 1535 | 30.8 | LANGUAGE <LL@li.org> | 
- | [vdr-skinsoppalusikka]({{< ref "/f13/package/vdr-skinsoppalusikka.md" >}}) | 42 | 137 | 30.7 | <vdr@linuxtv.org> | 
- | [publican]({{< ref "/f13/package/publican.md" >}}) | 332 | 1094 | 30.3 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [midori]({{< ref "/f13/package/midori.md" >}}) | 589 | 1955 | 30.1 | Swedish | 
- | [compat-libgda]({{< ref "/f13/package/compat-libgda.md" >}}) | 1896 | 6314 | 30.0 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [avant-window-navigator]({{< ref "/f13/package/avant-window-navigator.md" >}}) | 405 | 1380 | 29.3 | Swedish <sv@li.org> | 
- | [backintime]({{< ref "/f13/package/backintime.md" >}}) | 129 | 441 | 29.3 | Swedish <sv@li.org> | 
- | [system-config-kdump]({{< ref "/f13/package/system-config-kdump.md" >}}) | 235 | 807 | 29.1 | Swedish <sv@li.org> | 
- | [bzr-gtk]({{< ref "/f13/package/bzr-gtk.md" >}}) | 317 | 1090 | 29.1 | Swedish <sv@li.org> | 
- | [referencer]({{< ref "/f13/package/referencer.md" >}}) | 255 | 879 | 29.0 |  | 
- | [gnome-color-manager]({{< ref "/f13/package/gnome-color-manager.md" >}}) | 498 | 1722 | 28.9 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [vidalia]({{< ref "/f13/package/vidalia.md" >}}) | 2612 | 9306 | 28.1 | none | 
- | [xfce4-sensors-plugin]({{< ref "/f13/package/xfce4-sensors-plugin.md" >}}) | 96 | 346 | 27.7 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [notecase]({{< ref "/f13/package/notecase.md" >}}) | 314 | 1156 | 27.2 | NoteCase team | 
- | [springlobby]({{< ref "/f13/package/springlobby.md" >}}) | 1273 | 4695 | 27.1 | Swedish | 
- | [specspo]({{< ref "/f13/package/specspo.md" >}}) | 82762 | 305294 | 27.1 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [gtick]({{< ref "/f13/package/gtick.md" >}}) | 91 | 336 | 27.1 | Swedish <sv@li.org> | 
- | [rhn-client-tools]({{< ref "/f13/package/rhn-client-tools.md" >}}) | 1281 | 4820 | 26.6 | Swedish <sv@li.org> | 
- | [me-tv]({{< ref "/f13/package/me-tv.md" >}}) | 515 | 1961 | 26.3 | Swedish <sv@li.org> | 
- | [pinfo]({{< ref "/f13/package/pinfo.md" >}}) | 83 | 321 | 25.9 | Swedish <sv@li.org> | 
- | [abrt]({{< ref "/f13/package/abrt.md" >}}) | 421 | 1631 | 25.8 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [gnumeric]({{< ref "/f13/package/gnumeric.md" >}}) | 8818 | 35046 | 25.2 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [ufraw]({{< ref "/f13/package/ufraw.md" >}}) | 510 | 2139 | 23.8 | Swedish <LL@li.org> | 
- | [libexif]({{< ref "/f13/package/libexif.md" >}}) | 1629 | 6968 | 23.4 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [vorbis-tools]({{< ref "/f13/package/vorbis-tools.md" >}}) | 789 | 3376 | 23.4 | Swedish <sv@li.org> | 
- | [kicad]({{< ref "/f13/package/kicad.md" >}}) | 1451 | 6465 | 22.4 |  | 
- | [gdeskcal]({{< ref "/f13/package/gdeskcal.md" >}}) | 19 | 85 | 22.4 | LANGUAGE <LL@li.org> | 
- | [pgadmin3]({{< ref "/f13/package/pgadmin3.md" >}}) | 2159 | 9676 | 22.3 | pgAdmin Developers <pgadmin-hackers@postgresql.org> | 
- | [gnome-applet-grandr]({{< ref "/f13/package/gnome-applet-grandr.md" >}}) | 4 | 18 | 22.2 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [quassel]({{< ref "/f13/package/quassel.md" >}}) | 909 | 4171 | 21.8 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [shadow-utils]({{< ref "/f13/package/shadow-utils.md" >}}) | 3967 | 18554 | 21.4 | Swedish <debian-l10n-swedish@lists.debian.org> | 
- | [gitg]({{< ref "/f13/package/gitg.md" >}}) | 197 | 989 | 19.9 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [krb5-auth-dialog]({{< ref "/f13/package/krb5-auth-dialog.md" >}}) | 568 | 2869 | 19.8 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [gourmet]({{< ref "/f13/package/gourmet.md" >}}) | 1417 | 7294 | 19.4 | Swedish (Sweden) <sv_SE@li.org> | 
- | [audacious]({{< ref "/f13/package/audacious.md" >}}) | 241 | 1297 | 18.6 | Sweden | 
- | [stardict]({{< ref "/f13/package/stardict.md" >}}) | 453 | 2440 | 18.6 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [monodevelop]({{< ref "/f13/package/monodevelop.md" >}}) | 2860 | 15619 | 18.3 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [cinepaint]({{< ref "/f13/package/cinepaint.md" >}}) | 1338 | 7405 | 18.1 | Swedish <sv@li.org> | 
- | [kdbg]({{< ref "/f13/package/kdbg.md" >}}) | 154 | 866 | 17.8 | (None) | 
- | [virt-manager]({{< ref "/f13/package/virt-manager.md" >}}) | 771 | 4353 | 17.7 | Swedish <sv@li.org> | 
- | [jmol]({{< ref "/f13/package/jmol.md" >}}) | 454 | 2731 | 16.6 | Swedish <sv@li.org> | 
- | [thunar-vcs-plugin]({{< ref "/f13/package/thunar-vcs-plugin.md" >}}) | 82 | 498 | 16.5 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [xscreensaver]({{< ref "/f13/package/xscreensaver.md" >}}) | 1767 | 11190 | 15.8 | Swedish <sv@li.org> | 
- | [lilypond]({{< ref "/f13/package/lilypond.md" >}}) | 396 | 2513 | 15.8 | Swedish <sv@li.org> | 
- | [aria2]({{< ref "/f13/package/aria2.md" >}}) | 722 | 4630 | 15.6 | Swedish <sv@li.org> | 
- | [avogadro]({{< ref "/f13/package/avogadro.md" >}}) | 635 | 4262 | 14.9 | Swedish <sv@li.org> | 
- | [kflickr]({{< ref "/f13/package/kflickr.md" >}}) | 42 | 299 | 14.0 | Swedish <sv@li.org> | 
- | [dasher]({{< ref "/f13/package/dasher.md" >}}) | 874 | 6463 | 13.5 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [umit]({{< ref "/f13/package/umit.md" >}}) | 603 | 4593 | 13.1 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [iso-codes]({{< ref "/f13/package/iso-codes.md" >}}) | 2440 | 19375 | 12.6 | Swedish | 
- | [ikiwiki]({{< ref "/f13/package/ikiwiki.md" >}}) | 161 | 1280 | 12.6 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [compat-gcc-34]({{< ref "/f13/package/compat-gcc-34.md" >}}) | 3797 | 30879 | 12.3 | Swedish <sv@li.org> | 
- | [mod_cluster]({{< ref "/f13/package/mod_cluster.md" >}}) | 39 | 327 | 11.9 | Swedish <sv@li.org> | 
- | [gpointing-device-settings]({{< ref "/f13/package/gpointing-device-settings.md" >}}) | 20 | 169 | 11.8 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [pingus]({{< ref "/f13/package/pingus.md" >}}) | 323 | 2828 | 11.4 | sv <jan.moren@lucs.lu.se> | 
- | [libgda]({{< ref "/f13/package/libgda.md" >}}) | 873 | 7730 | 11.3 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [tin]({{< ref "/f13/package/tin.md" >}}) | 1081 | 9698 | 11.1 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [xfce4-eyes-plugin]({{< ref "/f13/package/xfce4-eyes-plugin.md" >}}) | 1 | 9 | 11.1 | Swedish <sv@li.org> | 
- | [libvirt]({{< ref "/f13/package/libvirt.md" >}}) | 2039 | 20183 | 10.1 | Swedish <sv@li.org> | 
- | [nautilus-actions]({{< ref "/f13/package/nautilus-actions.md" >}}) | 334 | 3402 | 9.8 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [pulseaudio]({{< ref "/f13/package/pulseaudio.md" >}}) | 248 | 2849 | 8.7 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [gdm]({{< ref "/f13/package/gdm.md" >}}) | 2599 | 30109 | 8.6 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [qbzr]({{< ref "/f13/package/qbzr.md" >}}) | 105 | 1281 | 8.2 | Swedish <sv@li.org> | 
- | [grsync]({{< ref "/f13/package/grsync.md" >}}) | 84 | 1088 | 7.7 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [xfce4-taskmanager]({{< ref "/f13/package/xfce4-taskmanager.md" >}}) | 9 | 123 | 7.3 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [kmymoney2]({{< ref "/f13/package/kmymoney2.md" >}}) | 1173 | 16796 | 7.0 | <sv@li.org> | 
- | [ailurus]({{< ref "/f13/package/ailurus.md" >}}) | 554 | 8278 | 6.7 | none | 
- | [gammu]({{< ref "/f13/package/gammu.md" >}}) | 764 | 13273 | 5.8 | none | 
- | [xfce4-clipman-plugin]({{< ref "/f13/package/xfce4-clipman-plugin.md" >}}) | 12 | 234 | 5.1 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [pyroom]({{< ref "/f13/package/pyroom.md" >}}) | 21 | 411 | 5.1 | Swedish <sv@li.org> | 
- | [tumbler]({{< ref "/f13/package/tumbler.md" >}}) | 10 | 245 | 4.1 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [boinc-client]({{< ref "/f13/package/boinc-client.md" >}}) | 160 | 4130 | 3.9 | LANGUAGE <LL@li.org> | 
- | [eina]({{< ref "/f13/package/eina.md" >}}) | 32 | 1008 | 3.2 | Swedish <sv@li.org> | 
- | [awn-extras-applets]({{< ref "/f13/package/awn-extras-applets.md" >}}) | 458 | 14433 | 3.2 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [elinks]({{< ref "/f13/package/elinks.md" >}}) | 357 | 12234 | 2.9 | Swedish <sv@li.org> | 
- | [libhocr]({{< ref "/f13/package/libhocr.md" >}}) | 6 | 207 | 2.9 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [gnome-devel-docs]({{< ref "/f13/package/gnome-devel-docs.md" >}}) | 74 | 3487 | 2.1 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [denemo]({{< ref "/f13/package/denemo.md" >}}) | 78 | 4978 | 1.6 | Swedish <sv@li.org> | 
- | [tortoisehg]({{< ref "/f13/package/tortoisehg.md" >}}) | 75 | 6301 | 1.2 | Swedish <sv@li.org> | 
- | [tinyerp]({{< ref "/f13/package/tinyerp.md" >}}) | 11 | 1138 | 1.0 | FR <i18n-info@tinyerp.org> | 
- | [vdr-epgsearch]({{< ref "/f13/package/vdr-epgsearch.md" >}}) | 4 | 2408 | 0.2 | <vdr@linuxtv.org> | 
- | [sugar-tamtam]({{< ref "/f13/package/sugar-tamtam.md" >}}) | 2 | 2077 | 0.1 | LANGUAGE <LL@li.org> | 
- | [rednotebook]({{< ref "/f13/package/rednotebook.md" >}}) | 1 | 1044 | 0.1 | Swedish <sv@li.org> | 
- | [coccinella]({{< ref "/f13/package/coccinella.md" >}}) | 2 | 5071 | 0.0 | Swedish | 
- | [bacula]({{< ref "/f13/package/bacula.md" >}}) | 0 | 21357 | 0.0 | Swedish <bacula-devel@lists.soureforge.net> | 
- | [bacula2]({{< ref "/f13/package/bacula2.md" >}}) | 0 | 20287 | 0.0 | Swedish <bacula-devel@lists.soureforge.net> | 
- | [bzflag]({{< ref "/f13/package/bzflag.md" >}}) | 0 | 0 | 0.0 |  | 
- | [garcon]({{< ref "/f13/package/garcon.md" >}}) | 0 | 17 | 0.0 | Swedish <tp-sv@listor.tp-sv.se> | 
- | [gcombust]({{< ref "/f13/package/gcombust.md" >}}) | 0 | 0 | 0.0 |  | 
- | [gnome-applet-alarm-clock]({{< ref "/f13/package/gnome-applet-alarm-clock.md" >}}) | 0 | 417 | 0.0 | Swedish <sv@li.org> | 
- | [gnome-gmail]({{< ref "/f13/package/gnome-gmail.md" >}}) | 0 | 268 | 0.0 | LANGUAGE <LL@li.org> | 
- | [imsettings]({{< ref "/f13/package/imsettings.md" >}}) | 0 | 979 | 0.0 | Swedish <sv@li.org> | 
- | [libgxim]({{< ref "/f13/package/libgxim.md" >}}) | 0 | 130 | 0.0 | none | 
- | [olpc-switch-desktop]({{< ref "/f13/package/olpc-switch-desktop.md" >}}) | 0 | 158 | 0.0 | LANGUAGE <LL@li.org> | 
- | [revisor]({{< ref "/f13/package/revisor.md" >}}) | 0 | 4171 | 0.0 |  | 
- | [sugar-distance]({{< ref "/f13/package/sugar-distance.md" >}}) | 0 | 76 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-infoslicer]({{< ref "/f13/package/sugar-infoslicer.md" >}}) | 0 | 177 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-physics]({{< ref "/f13/package/sugar-physics.md" >}}) | 0 | 22 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-playgo]({{< ref "/f13/package/sugar-playgo.md" >}}) | 0 | 85 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-view-slides]({{< ref "/f13/package/sugar-view-slides.md" >}}) | 0 | 7 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-visualmatch]({{< ref "/f13/package/sugar-visualmatch.md" >}}) | 0 | 58 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [DeviceKit-power](/f13/package/DeviceKit-power) | 113 | 113 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [GConf2](/f13/package/GConf2) | 4035 | 4035 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [LabPlot](/f13/package/LabPlot) | 16716 | 16716 | 100.0 | Svenska <sv@li.org> | 
+ | [NetworkManager](/f13/package/NetworkManager) | 2459 | 2459 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [NetworkManager-openconnect](/f13/package/NetworkManager-openconnect) | 53 | 53 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [NetworkManager-openvpn](/f13/package/NetworkManager-openvpn) | 238 | 238 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [NetworkManager-pptp](/f13/package/NetworkManager-pptp) | 144 | 144 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [NetworkManager-vpnc](/f13/package/NetworkManager-vpnc) | 143 | 143 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [PackageKit](/f13/package/PackageKit) | 1540 | 1540 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [Thunar](/f13/package/Thunar) | 3865 | 3865 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [WindowMaker](/f13/package/WindowMaker) | 629 | 629 | 100.0 | Swedish | 
+ | [acheck](/f13/package/acheck) | 274 | 274 | 100.0 | Swedish <sv@li.org> | 
+ | [acl](/f13/package/acl) | 484 | 484 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [agave](/f13/package/agave) | 283 | 283 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [alacarte](/f13/package/alacarte) | 42 | 42 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [alleyoop](/f13/package/alleyoop) | 351 | 351 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [almanah](/f13/package/almanah) | 713 | 713 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [amarok](/f13/package/amarok) | 12039 | 12039 | 100.0 | Swedish <kde-i18n-doc@kde.org> | 
+ | [anerley](/f13/package/anerley) | 5 | 5 | 100.0 |  | 
+ | [anjal](/f13/package/anjal) | 762 | 762 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [arm-gp2x-linux-binutils](/f13/package/arm-gp2x-linux-binutils) | 12931 | 12931 | 100.0 | Swedish <sv@li.org> | 
+ | [arm-gp2x-linux-glibc](/f13/package/arm-gp2x-linux-glibc) | 6326 | 6326 | 100.0 | Swedish <sv@li.org> | 
+ | [at-spi](/f13/package/at-spi) | 61 | 61 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [atk](/f13/package/atk) | 375 | 375 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [atomix](/f13/package/atomix) | 145 | 145 | 100.0 | Swedish <sv@li.org> | 
+ | [attr](/f13/package/attr) | 308 | 308 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [audacity](/f13/package/audacity) | 9628 | 9628 | 100.0 | swedish <musselasse@gmail.com> | 
+ | [authconfig](/f13/package/authconfig) | 1325 | 1325 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [avr-binutils](/f13/package/avr-binutils) | 13548 | 13548 | 100.0 | Swedish <sv@li.org> | 
+ | [avr-gcc](/f13/package/avr-gcc) | 59095 | 59095 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [avr-gdb](/f13/package/avr-gdb) | 4964 | 4964 | 100.0 | Swedish <sv@li.org> | 
+ | [bakery](/f13/package/bakery) | 134 | 134 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [balsa](/f13/package/balsa) | 6110 | 6110 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [banshee](/f13/package/banshee) | 5389 | 5389 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [beagle](/f13/package/beagle) | 1239 | 1239 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [binutils](/f13/package/binutils) | 13548 | 13548 | 100.0 | Swedish <sv@li.org> | 
+ | [bisho](/f13/package/bisho) | 131 | 131 | 100.0 |  | 
+ | [bison](/f13/package/bison) | 1012 | 1012 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [bittorrent](/f13/package/bittorrent) | 3904 | 3904 | 100.0 | LANGUAGE <bugs (at) bittorrent (dot) com> | 
+ | [blam](/f13/package/blam) | 359 | 359 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [blender](/f13/package/blender) | 251 | 251 | 100.0 |  | 
+ | [blobwars](/f13/package/blobwars) | 1163 | 1163 | 100.0 |  | 
+ | [bognor-regis](/f13/package/bognor-regis) | 27 | 27 | 100.0 |  | 
+ | [brasero](/f13/package/brasero) | 8918 | 8918 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [byobu](/f13/package/byobu) | 177 | 177 | 100.0 | Swedish <sv@li.org> | 
+ | [byzanz](/f13/package/byzanz) | 238 | 238 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [cairo-clock](/f13/package/cairo-clock) | 270 | 270 | 100.0 | Swedish <sv@li.org> | 
+ | [camorama](/f13/package/camorama) | 586 | 586 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [ccsm](/f13/package/ccsm) | 549 | 549 | 100.0 | Compiz Fusion Translators <i18n@lists.compiz-fusion.org> | 
+ | [celestia](/f13/package/celestia) | 1894 | 1894 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [cgit](/f13/package/cgit) | 3392 | 3392 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [cheese](/f13/package/cheese) | 2930 | 2930 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [childsplay](/f13/package/childsplay) | 1226 | 1226 | 100.0 |  | 
+ | [chkconfig](/f13/package/chkconfig) | 448 | 448 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [choqok](/f13/package/choqok) | 1854 | 1854 | 100.0 | Swedish <kde-i18n-doc@kde.org> | 
+ | [comix](/f13/package/comix) | 1326 | 1326 | 100.0 | Swedish <LL@li.org> | 
+ | [common-lisp-controller](/f13/package/common-lisp-controller) | 57 | 57 | 100.0 | Swedish <sv@li.org> | 
+ | [conduit](/f13/package/conduit) | 709 | 709 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [contact-lookup-applet](/f13/package/contact-lookup-applet) | 259 | 259 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [contacts](/f13/package/contacts) | 121 | 121 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [control-center](/f13/package/control-center) | 3480 | 3480 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [coreutils](/f13/package/coreutils) | 18529 | 18529 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [cowbell](/f13/package/cowbell) | 603 | 603 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [cycle](/f13/package/cycle) | 196 | 196 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [dalston](/f13/package/dalston) | 266 | 266 | 100.0 |  | 
+ | [darktable](/f13/package/darktable) | 3096 | 3096 | 100.0 | <> <> | 
+ | [dates](/f13/package/dates) | 239 | 239 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [dayplanner](/f13/package/dayplanner) | 1112 | 1112 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [dbmail](/f13/package/dbmail) | 457 | 457 | 100.0 | swedish <debian-l10n-swedish@lists.debian.org> | 
+ | [dcraw](/f13/package/dcraw) | 546 | 546 | 100.0 |  | 
+ | [deskbar-applet](/f13/package/deskbar-applet) | 2386 | 2386 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [desktop-effects](/f13/package/desktop-effects) | 148 | 148 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [devhelp](/f13/package/devhelp) | 414 | 414 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [dialog](/f13/package/dialog) | 25 | 25 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [diffutils](/f13/package/diffutils) | 1342 | 1342 | 100.0 | Swedish <sv@li.org> | 
+ | [digikam](/f13/package/digikam) | 23653 | 23653 | 100.0 | Swedish <kde-i18n-doc@kde.org> | 
+ | [doodle](/f13/package/doodle) | 684 | 684 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [drupal-calendar](/f13/package/drupal-calendar) | 480 | 480 | 100.0 | drupalsverige.se | 
+ | [drupal-views](/f13/package/drupal-views) | 8753 | 8753 | 100.0 | drupalsverige.se | 
+ | [drupal6-filefield](/f13/package/drupal6-filefield) | 878 | 878 | 100.0 | drupalsverige.se | 
+ | [drupal6-image](/f13/package/drupal6-image) | 2208 | 2208 | 100.0 | drupalsverige.se | 
+ | [e2fsprogs](/f13/package/e2fsprogs) | 5805 | 5805 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [ease](/f13/package/ease) | 8 | 8 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [emerald](/f13/package/emerald) | 774 | 774 | 100.0 | Compiz Fusion Translators <i18n@lists.compiz-fusion.org> | 
+ | [emerillon](/f13/package/emerillon) | 359 | 359 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [eog](/f13/package/eog) | 4800 | 4800 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [eog-plugins](/f13/package/eog-plugins) | 149 | 149 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [epiphany](/f13/package/epiphany) | 9092 | 9092 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [epiphany-extensions](/f13/package/epiphany-extensions) | 3977 | 3977 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [etckeeper](/f13/package/etckeeper) | 64 | 64 | 100.0 | Swedish <debian-l10n-swedish@lists.debian.org> | 
+ | [evince](/f13/package/evince) | 3311 | 3311 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [evolution-couchdb](/f13/package/evolution-couchdb) | 9 | 9 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [evolution-data-server](/f13/package/evolution-data-server) | 4914 | 4914 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [evolution-exchange](/f13/package/evolution-exchange) | 2204 | 2204 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [evolution-mapi](/f13/package/evolution-mapi) | 341 | 341 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [evolution-rss](/f13/package/evolution-rss) | 694 | 694 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [exo](/f13/package/exo) | 1598 | 1598 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [fantasdic](/f13/package/fantasdic) | 492 | 492 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [file-roller](/f13/package/file-roller) | 7115 | 7115 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [filezilla](/f13/package/filezilla) | 9145 | 9145 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [firstboot](/f13/package/firstboot) | 654 | 654 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [freedink](/f13/package/freedink) | 79 | 79 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [frozen-bubble](/f13/package/frozen-bubble) | 698 | 698 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [fvwm](/f13/package/fvwm) | 262 | 262 | 100.0 | Swedish | 
+ | [galeon](/f13/package/galeon) | 5994 | 5994 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [galternatives](/f13/package/galternatives) | 165 | 165 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [gaupol](/f13/package/gaupol) | 1484 | 1484 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [gcc](/f13/package/gcc) | 53910 | 53910 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [gcl](/f13/package/gcl) | 13108 | 13108 | 100.0 | Swedish <sv@li.org> | 
+ | [gcompris](/f13/package/gcompris) | 10871 | 10871 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [gconf-cleaner](/f13/package/gconf-cleaner) | 208 | 208 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [gconf-editor](/f13/package/gconf-editor) | 2834 | 2834 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [gdb](/f13/package/gdb) | 4964 | 4964 | 100.0 | Swedish <sv@li.org> | 
+ | [geany](/f13/package/geany) | 5419 | 5419 | 100.0 | Swedish <geany-i18n@uvena.de> | 
+ | [gedit](/f13/package/gedit) | 12561 | 12561 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [gedit-plugins](/f13/package/gedit-plugins) | 321 | 321 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [gentoo](/f13/package/gentoo) | 2107 | 2107 | 100.0 | Swedish <sv@li.org> | 
+ | [gettext](/f13/package/gettext) | 6857 | 6857 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [gftp](/f13/package/gftp) | 3375 | 3375 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [ggz-base-libs](/f13/package/ggz-base-libs) | 74 | 74 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [ggz-gtk-client](/f13/package/ggz-gtk-client) | 862 | 862 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [gimmix](/f13/package/gimmix) | 534 | 534 | 100.0 |  | 
+ | [gimp](/f13/package/gimp) | 26126 | 26126 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [gimp-help](/f13/package/gimp-help) | 529 | 529 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [git](/f13/package/git) | 3389 | 3389 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [git-cola](/f13/package/git-cola) | 1842 | 1842 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [gitweb-caching](/f13/package/gitweb-caching) | 3383 | 3383 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [glib2](/f13/package/glib2) | 2523 | 2523 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [glibc](/f13/package/glibc) | 7409 | 7409 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [glunarclock](/f13/package/glunarclock) | 226 | 226 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [gmediaserver](/f13/package/gmediaserver) | 1207 | 1207 | 100.0 | Swedish <sv@li.org> | 
+ | [gnomad2](/f13/package/gnomad2) | 703 | 703 | 100.0 | Swedish <sv@li.org> | 
+ | [gnome-applet-bubblemon](/f13/package/gnome-applet-bubblemon) | 38 | 38 | 100.0 | Swedish <johan.walles@gmail.com> | 
+ | [gnome-applet-music](/f13/package/gnome-applet-music) | 634 | 634 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [gnome-applet-netspeed](/f13/package/gnome-applet-netspeed) | 653 | 653 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [gnome-applets](/f13/package/gnome-applets) | 19785 | 19785 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [gnome-backgrounds](/f13/package/gnome-backgrounds) | 23 | 23 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [gnome-desktop](/f13/package/gnome-desktop) | 9925 | 9925 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [gnome-do](/f13/package/gnome-do) | 470 | 470 | 100.0 | Swedish <sv@li.org> | 
+ | [gnome-doc-utils](/f13/package/gnome-doc-utils) | 251 | 251 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [gnome-icon-theme](/f13/package/gnome-icon-theme) | 45 | 45 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [gnome-keyring](/f13/package/gnome-keyring) | 1246 | 1246 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [gnome-launch-box](/f13/package/gnome-launch-box) | 33 | 33 | 100.0 | Swedish <sv@li.org> | 
+ | [gnome-libs](/f13/package/gnome-libs) | 1085 | 1085 | 100.0 | Swedish <sv@li.org> | 
+ | [gnome-mag](/f13/package/gnome-mag) | 298 | 298 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [gnome-menus](/f13/package/gnome-menus) | 161 | 161 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [gnome-mime-data](/f13/package/gnome-mime-data) | 888 | 888 | 100.0 | Swedish <sv@li.org> | 
+ | [gnome-mud](/f13/package/gnome-mud) | 1070 | 1070 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [gnome-netstatus](/f13/package/gnome-netstatus) | 1207 | 1207 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [gnome-nettool](/f13/package/gnome-nettool) | 1131 | 1131 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [gnome-packagekit](/f13/package/gnome-packagekit) | 5976 | 5976 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [gnome-panel](/f13/package/gnome-panel) | 6292 | 6292 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [gnome-phone-manager](/f13/package/gnome-phone-manager) | 556 | 556 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [gnome-pilot](/f13/package/gnome-pilot) | 1743 | 1743 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [gnome-pilot-conduits](/f13/package/gnome-pilot-conduits) | 209 | 209 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [gnome-power-manager](/f13/package/gnome-power-manager) | 6591 | 6591 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [gnome-scan](/f13/package/gnome-scan) | 241 | 241 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [gnome-schedule](/f13/package/gnome-schedule) | 3409 | 3409 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [gnome-screensaver](/f13/package/gnome-screensaver) | 989 | 989 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [gnome-session](/f13/package/gnome-session) | 675 | 675 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [gnome-settings-daemon](/f13/package/gnome-settings-daemon) | 1735 | 1735 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [gnome-shell](/f13/package/gnome-shell) | 82 | 82 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [gnome-system-monitor](/f13/package/gnome-system-monitor) | 3774 | 3774 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [gnome-terminal](/f13/package/gnome-terminal) | 7767 | 7767 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [gnome-themes](/f13/package/gnome-themes) | 109 | 109 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [gnome-themes-extras](/f13/package/gnome-themes-extras) | 22 | 22 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [gnome-user-share](/f13/package/gnome-user-share) | 1457 | 1457 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [gnome-utils](/f13/package/gnome-utils) | 10065 | 10065 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [gnome-vfs2](/f13/package/gnome-vfs2) | 1519 | 1519 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [gnome-web-photo](/f13/package/gnome-web-photo) | 168 | 168 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [gnomebaker](/f13/package/gnomebaker) | 1186 | 1186 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [gnomeradio](/f13/package/gnomeradio) | 2212 | 2212 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [gnote](/f13/package/gnote) | 6430 | 6430 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [gnubiff](/f13/package/gnubiff) | 1181 | 1181 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [gnutls](/f13/package/gnutls) | 1061 | 1061 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [gok](/f13/package/gok) | 1915 | 1915 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [gpicview](/f13/package/gpicview) | 219 | 219 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [gpsdrive](/f13/package/gpsdrive) | 2311 | 2311 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [gstreamer-plugins-bad-free](/f13/package/gstreamer-plugins-bad-free) | 72 | 72 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [gstreamer-plugins-base](/f13/package/gstreamer-plugins-base) | 667 | 667 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [gstreamer-plugins-good](/f13/package/gstreamer-plugins-good) | 750 | 750 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [gtk+](/f13/package/gtk+) | 202 | 202 | 100.0 | Swedish <sv@li.org> | 
+ | [gtk-recordmydesktop](/f13/package/gtk-recordmydesktop) | 816 | 816 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [gtk-vnc](/f13/package/gtk-vnc) | 81 | 81 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [gtk2](/f13/package/gtk2) | 13704 | 13704 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [gtk2-engines](/f13/package/gtk2-engines) | 119 | 119 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [gtkhtml3](/f13/package/gtkhtml3) | 713 | 713 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [gtksourceview](/f13/package/gtksourceview) | 891 | 891 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [gtksourceview2](/f13/package/gtksourceview2) | 1413 | 1413 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [gtkspell](/f13/package/gtkspell) | 15 | 15 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [gucharmap](/f13/package/gucharmap) | 2538 | 2538 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [gvfs](/f13/package/gvfs) | 1936 | 1936 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [gwget](/f13/package/gwget) | 379 | 379 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [gxmessage](/f13/package/gxmessage) | 243 | 243 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [hamster-applet](/f13/package/hamster-applet) | 644 | 644 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [hddtemp](/f13/package/hddtemp) | 403 | 403 | 100.0 | Swedish <sv@li.org> | 
+ | [hello](/f13/package/hello) | 174 | 174 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [hornsey](/f13/package/hornsey) | 106 | 106 | 100.0 |  | 
+ | [hotssh](/f13/package/hotssh) | 150 | 150 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [imp](/f13/package/imp) | 5117 | 5117 | 100.0 | Swedish <i18n@lists.horde.org> | 
+ | [initscripts](/f13/package/initscripts) | 4407 | 4407 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [insight](/f13/package/insight) | 4964 | 4964 | 100.0 | Swedish <sv@li.org> | 
+ | [ircp-tray](/f13/package/ircp-tray) | 201 | 201 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [isomaster](/f13/package/isomaster) | 674 | 674 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [istanbul](/f13/package/istanbul) | 350 | 350 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [jwhois](/f13/package/jwhois) | 440 | 440 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [k3b](/f13/package/k3b) | 20429 | 20429 | 100.0 | Swedish <kde-i18n-doc@kde.org> | 
+ | [kaffeine](/f13/package/kaffeine) | 548 | 548 | 100.0 | Swedish <kde-i18n-doc@kde.org> | 
+ | [kbd](/f13/package/kbd) | 1660 | 1660 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [kbluetooth](/f13/package/kbluetooth) | 341 | 341 | 100.0 | Swedish <kde-i18n-doc@kde.org> | 
+ | [kcm-gtk](/f13/package/kcm-gtk) | 124 | 124 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [kcoloredit](/f13/package/kcoloredit) | 278 | 278 | 100.0 | Swedish <kde-i18n-doc@kde.org> | 
+ | [kde-partitionmanager](/f13/package/kde-partitionmanager) | 2732 | 2732 | 100.0 | Swedish <sv@li.org> | 
+ | [kde-plasma-quickaccess](/f13/package/kde-plasma-quickaccess) | 72 | 72 | 100.0 | Swedish <sv@li.org> | 
+ | [kdetv](/f13/package/kdetv) | 2206 | 2206 | 100.0 | Svenska <sv@li.org> | 
+ | [kdevelop](/f13/package/kdevelop) | 3493 | 3493 | 100.0 | Swedish <kde-i18n-doc@kde.org> | 
+ | [kdiff3](/f13/package/kdiff3) | 3528 | 3528 | 100.0 | Swedish <sv@li.org> | 
+ | [kdissert](/f13/package/kdissert) | 2027 | 2027 | 100.0 | Swedish <sv@li.org> | 
+ | [kerry](/f13/package/kerry) | 486 | 486 | 100.0 | Swedish <sv@li.org> | 
+ | [keurocalc](/f13/package/keurocalc) | 3042 | 3042 | 100.0 | Swedish <sv@li.org> | 
+ | [kftpgrabber](/f13/package/kftpgrabber) | 2237 | 2237 | 100.0 | Swedish <sv@li.org> | 
+ | [kgrab](/f13/package/kgrab) | 370 | 370 | 100.0 | Swedish <sv@li.org> | 
+ | [kiconedit](/f13/package/kiconedit) | 726 | 726 | 100.0 | Swedish <sv@li.org> | 
+ | [kile](/f13/package/kile) | 11114 | 11114 | 100.0 | Swedish <kde-i18n-doc@kde.org> | 
+ | [kio_gopher](/f13/package/kio_gopher) | 17 | 17 | 100.0 | Swedish <sv@li.org> | 
+ | [kio_sysinfo](/f13/package/kio_sysinfo) | 168 | 168 | 100.0 | Swedish <sv@li.org> | 
+ | [kipi-plugins](/f13/package/kipi-plugins) | 16077 | 16077 | 100.0 | Swedish <kde-i18n-doc@kde.org> | 
+ | [kmid2](/f13/package/kmid2) | 947 | 947 | 100.0 | Swedish <kde-i18n-doc@kde.org> | 
+ | [kmplayer](/f13/package/kmplayer) | 1248 | 1248 | 100.0 | Swedish <kde-i18n-doc@kde.org> | 
+ | [knemo](/f13/package/knemo) | 1186 | 1186 | 100.0 | Swedish <kde-i18n-doc@kde.org> | 
+ | [knetstats](/f13/package/knetstats) | 119 | 119 | 100.0 | Swedish <sv@li.org> | 
+ | [knights](/f13/package/knights) | 555 | 555 | 100.0 | Swedish <kde-i18n-doc@kde.org> | 
+ | [koffice-kivio](/f13/package/koffice-kivio) | 8417 | 8417 | 100.0 | Swedish <sv@li.org> | 
+ | [konq-plugins](/f13/package/konq-plugins) | 1692 | 1692 | 100.0 | Swedish <sv@li.org> | 
+ | [kopete-cryptography](/f13/package/kopete-cryptography) | 408 | 408 | 100.0 | Swedish <sv@li.org> | 
+ | [kpackagekit](/f13/package/kpackagekit) | 3590 | 3590 | 100.0 | Swedish <kde-i18n-doc@kde.org> | 
+ | [kphotoalbum](/f13/package/kphotoalbum) | 6333 | 6333 | 100.0 | Swedish <kde-i18n-doc@kde.org> | 
+ | [kpilot](/f13/package/kpilot) | 7156 | 7156 | 100.0 | Swedish <sv@li.org> | 
+ | [krecipes](/f13/package/krecipes) | 3087 | 3087 | 100.0 | Swedish <sv@li.org> | 
+ | [kronolith](/f13/package/kronolith) | 1443 | 1443 | 100.0 | Swedish <i18n@lists.horde.org> | 
+ | [krusader](/f13/package/krusader) | 7736 | 7736 | 100.0 | Swedish <kde-i18n-doc@kde.org> | 
+ | [ksig](/f13/package/ksig) | 85 | 85 | 100.0 | Swedish <sv@li.org> | 
+ | [kst](/f13/package/kst) | 7446 | 7446 | 100.0 | Swedish <sv@li.org> | 
+ | [ktorrent](/f13/package/ktorrent) | 7562 | 7562 | 100.0 | Swedish <kde-i18n-doc@kde.org> | 
+ | [kwebkitpart](/f13/package/kwebkitpart) | 477 | 477 | 100.0 | Swedish <kde-i18n-doc@kde.org> | 
+ | [labyrinth](/f13/package/labyrinth) | 146 | 146 | 100.0 |  | 
+ | [ldm](/f13/package/ldm) | 156 | 156 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [libbonobo](/f13/package/libbonobo) | 547 | 547 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [libbonoboui](/f13/package/libbonoboui) | 368 | 368 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [libconfuse](/f13/package/libconfuse) | 113 | 113 | 100.0 | None <martin@bzero.se> | 
+ | [libepc](/f13/package/libepc) | 146 | 146 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [libfm](/f13/package/libfm) | 480 | 480 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [libgdata](/f13/package/libgdata) | 464 | 464 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [libgdl](/f13/package/libgdl) | 613 | 613 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [libgnome](/f13/package/libgnome) | 1773 | 1773 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [libgnome-keyring](/f13/package/libgnome-keyring) | 44 | 44 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [libgnomecanvas](/f13/package/libgnomecanvas) | 378 | 378 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [libgnomecups](/f13/package/libgnomecups) | 210 | 210 | 100.0 | Swedish <sv@li.org> | 
+ | [libgnomekbd](/f13/package/libgnomekbd) | 286 | 286 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [libgnomeprint22](/f13/package/libgnomeprint22) | 168 | 168 | 100.0 | Swedish <sv@li.org> | 
+ | [libgnomeprintui22](/f13/package/libgnomeprintui22) | 481 | 481 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [libgnomeui](/f13/package/libgnomeui) | 1309 | 1309 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [libgsasl](/f13/package/libgsasl) | 518 | 518 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [libgsf](/f13/package/libgsf) | 843 | 843 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [libgtop2](/f13/package/libgtop2) | 126 | 126 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [libgweather](/f13/package/libgweather) | 6090 | 6090 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [libkexif](/f13/package/libkexif) | 25 | 25 | 100.0 | Svenska <sv@li.org> | 
+ | [libktorrent](/f13/package/libktorrent) | 417 | 417 | 100.0 | Swedish <kde-i18n-doc@kde.org> | 
+ | [libmx](/f13/package/libmx) | 40 | 40 | 100.0 |  | 
+ | [libpaper](/f13/package/libpaper) | 73 | 73 | 100.0 | Swedish <debian-l10n-swedish@lists.debian.org> | 
+ | [libsocialweb](/f13/package/libsocialweb) | 148 | 148 | 100.0 |  | 
+ | [libuser](/f13/package/libuser) | 1114 | 1114 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [libwnck](/f13/package/libwnck) | 1124 | 1124 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [libxfce4menu](/f13/package/libxfce4menu) | 31 | 31 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [libxfce4ui](/f13/package/libxfce4ui) | 136 | 136 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [libxfce4util](/f13/package/libxfce4util) | 413 | 413 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [libxfcegui4](/f13/package/libxfcegui4) | 234 | 234 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [licq](/f13/package/licq) | 30 | 30 | 100.0 | <erik@ejohansson.se> | 
+ | [liferea](/f13/package/liferea) | 2411 | 2411 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [lincity-ng](/f13/package/lincity-ng) | 1895 | 1895 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [linux_logo](/f13/package/linux_logo) | 45 | 45 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [ltsp](/f13/package/ltsp) | 462 | 462 | 100.0 | swedish <debian-l10n-swedish@lists.debian.org> | 
+ | [lxappearance](/f13/package/lxappearance) | 83 | 83 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [lxdm](/f13/package/lxdm) | 11 | 11 | 100.0 | Swedish <tp-sv@lists.debian.org> | 
+ | [lxinput](/f13/package/lxinput) | 70 | 70 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [lxlauncher](/f13/package/lxlauncher) | 51 | 51 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [lxmenu-data](/f13/package/lxmenu-data) | 97 | 97 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [lxmusic](/f13/package/lxmusic) | 196 | 196 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [lxpanel](/f13/package/lxpanel) | 892 | 892 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [lxrandr](/f13/package/lxrandr) | 102 | 102 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [lxsession](/f13/package/lxsession) | 37 | 37 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [lxsession-edit](/f13/package/lxsession-edit) | 58 | 58 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [lxshortcut](/f13/package/lxshortcut) | 43 | 43 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [lxtask](/f13/package/lxtask) | 122 | 122 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [lxterminal](/f13/package/lxterminal) | 129 | 129 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [lynx](/f13/package/lynx) | 8049 | 8049 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [lyx](/f13/package/lyx) | 14858 | 14858 | 100.0 | Swedish <lyx-docs@lists.lyx.org> | 
+ | [mail-notification](/f13/package/mail-notification) | 2185 | 2185 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [mesa](/f13/package/mesa) | 270 | 270 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [metacity](/f13/package/metacity) | 3798 | 3798 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [mingw32-atk](/f13/package/mingw32-atk) | 375 | 375 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [mingw32-binutils](/f13/package/mingw32-binutils) | 13547 | 13547 | 100.0 | Swedish <sv@li.org> | 
+ | [mingw32-gcc](/f13/package/mingw32-gcc) | 53910 | 53910 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [mingw32-gettext](/f13/package/mingw32-gettext) | 6844 | 6844 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [mingw32-glib2](/f13/package/mingw32-glib2) | 2523 | 2523 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [mingw32-gnutls](/f13/package/mingw32-gnutls) | 943 | 943 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [mingw32-gtk2](/f13/package/mingw32-gtk2) | 13704 | 13704 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [mingw32-gtkhtml3](/f13/package/mingw32-gtkhtml3) | 695 | 695 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [mlocate](/f13/package/mlocate) | 563 | 563 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [moblin-panel-applications](/f13/package/moblin-panel-applications) | 5 | 5 | 100.0 |  | 
+ | [moblin-panel-media](/f13/package/moblin-panel-media) | 55 | 55 | 100.0 |  | 
+ | [moblin-panel-myzone](/f13/package/moblin-panel-myzone) | 74 | 74 | 100.0 |  | 
+ | [moblin-panel-pasteboard](/f13/package/moblin-panel-pasteboard) | 22 | 22 | 100.0 |  | 
+ | [moblin-panel-people](/f13/package/moblin-panel-people) | 68 | 68 | 100.0 |  | 
+ | [moblin-panel-status](/f13/package/moblin-panel-status) | 76 | 76 | 100.0 |  | 
+ | [moin](/f13/package/moin) | 4971 | 4971 | 100.0 |  | 
+ | [mojito](/f13/package/mojito) | 136 | 136 | 100.0 |  | 
+ | [monkey-bubble](/f13/package/monkey-bubble) | 309 | 309 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [mousepad](/f13/package/mousepad) | 135 | 135 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [msp430-binutils](/f13/package/msp430-binutils) | 13547 | 13547 | 100.0 | Swedish <sv@li.org> | 
+ | [multimedia-menus](/f13/package/multimedia-menus) | 56 | 56 | 100.0 | Swedish <sv@li.org> | 
+ | [mutter-moblin](/f13/package/mutter-moblin) | 88 | 88 | 100.0 |  | 
+ | [mypaint](/f13/package/mypaint) | 1916 | 1916 | 100.0 |  | 
+ | [nautilus](/f13/package/nautilus) | 8815 | 8815 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [nautilus-image-converter](/f13/package/nautilus-image-converter) | 79 | 79 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [nautilus-open-terminal](/f13/package/nautilus-open-terminal) | 166 | 166 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [nautilus-search-tool](/f13/package/nautilus-search-tool) | 11 | 11 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [nautilus-sendto](/f13/package/nautilus-sendto) | 319 | 319 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [nautilus-sound-converter](/f13/package/nautilus-sound-converter) | 149 | 149 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [nbtk](/f13/package/nbtk) | 44 | 44 | 100.0 |  | 
+ | [net6](/f13/package/net6) | 304 | 304 | 100.0 | Swedish <sv@li.org> | 
+ | [newt](/f13/package/newt) | 4 | 4 | 100.0 | Swedish <sv@li.org> | 
+ | [notification-daemon](/f13/package/notification-daemon) | 99 | 99 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [nss-ldapd](/f13/package/nss-ldapd) | 438 | 438 | 100.0 | Swedish <debian-l10n-swedish@lists.debian.org> | 
+ | [nss-pam-ldapd](/f13/package/nss-pam-ldapd) | 438 | 438 | 100.0 | Swedish <debian-l10n-swedish@lists.debian.org> | 
+ | [obby](/f13/package/obby) | 159 | 159 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [oggconvert](/f13/package/oggconvert) | 132 | 132 | 100.0 | Swedish <sv@li.org> | 
+ | [openbox](/f13/package/openbox) | 504 | 504 | 100.0 | None | 
+ | [openswan](/f13/package/openswan) | 974 | 974 | 100.0 | Swedish <debian-l10n-swedish@lists.debian.org> | 
+ | [orage](/f13/package/orage) | 2110 | 2110 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [orca](/f13/package/orca) | 4011 | 4011 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [pam_krb5](/f13/package/pam_krb5) | 7 | 7 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [pan](/f13/package/pan) | 2274 | 2274 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [parcellite](/f13/package/parcellite) | 156 | 156 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [pcmanfm](/f13/package/pcmanfm) | 522 | 522 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [pessulus](/f13/package/pessulus) | 130 | 130 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [pida](/f13/package/pida) | 193 | 193 | 100.0 | Swedish <sv@li.org> | 
+ | [pidgin-gfire](/f13/package/pidgin-gfire) | 1173 | 1173 | 100.0 | Swedish <rockrobban@gmail.com> | 
+ | [pidgin-libnotify](/f13/package/pidgin-libnotify) | 36 | 36 | 100.0 | swedish | 
+ | [pino](/f13/package/pino) | 352 | 352 | 100.0 |  | 
+ | [pitivi](/f13/package/pitivi) | 1306 | 1306 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [planner](/f13/package/planner) | 1810 | 1810 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [pmount](/f13/package/pmount) | 723 | 723 | 100.0 | Swedish <sv@li.org> | 
+ | [polkit-gnome](/f13/package/polkit-gnome) | 311 | 311 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [polkit-kde](/f13/package/polkit-kde) | 82 | 82 | 100.0 | Swedish <kde-i18n-doc@kde.org> | 
+ | [pondus](/f13/package/pondus) | 321 | 321 | 100.0 | svenska <sv@li.org> | 
+ | [pootle](/f13/package/pootle) | 3562 | 3562 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [popt](/f13/package/popt) | 75 | 75 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [postr](/f13/package/postr) | 81 | 81 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [preupgrade](/f13/package/preupgrade) | 801 | 801 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [pybliographer](/f13/package/pybliographer) | 971 | 971 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [pykickstart](/f13/package/pykickstart) | 284 | 284 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [qt-recordmydesktop](/f13/package/qt-recordmydesktop) | 816 | 816 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [rabbitvcs](/f13/package/rabbitvcs) | 931 | 931 | 100.0 | Swedish | 
+ | [radiotray](/f13/package/radiotray) | 49 | 49 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [rapid-photo-downloader](/f13/package/rapid-photo-downloader) | 1915 | 1915 | 100.0 | Swedish <sv@li.org> | 
+ | [redhat-menus](/f13/package/redhat-menus) | 261 | 261 | 100.0 | Swedish <sv@li.org> | 
+ | [regexxer](/f13/package/regexxer) | 467 | 467 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [rekonq](/f13/package/rekonq) | 1352 | 1352 | 100.0 | Swedish <kde-i18n-doc@kde.org> | 
+ | [revelation](/f13/package/revelation) | 1899 | 1899 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [rhnsd](/f13/package/rhnsd) | 42 | 42 | 100.0 | Swedish <sv@li.org> | 
+ | [rhythmbox](/f13/package/rhythmbox) | 9816 | 9816 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [ristretto](/f13/package/ristretto) | 192 | 192 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [rsibreak](/f13/package/rsibreak) | 1304 | 1304 | 100.0 | Swedish <sv@li.org> | 
+ | [samba](/f13/package/samba) | 198 | 198 | 100.0 | Novell Language <language@novell.com> | 
+ | [seahorse](/f13/package/seahorse) | 6354 | 6354 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [seahorse-plugins](/f13/package/seahorse-plugins) | 3516 | 3516 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [setuptool](/f13/package/setuptool) | 55 | 55 | 100.0 | Swedish <sv@li.org> | 
+ | [shared-mime-info](/f13/package/shared-mime-info) | 1436 | 1436 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [simple-scan](/f13/package/simple-scan) | 597 | 597 | 100.0 | Swedish <sv@li.org> | 
+ | [sirius](/f13/package/sirius) | 154 | 154 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [skanlite](/f13/package/skanlite) | 142 | 142 | 100.0 | Swedish <kde-i18n-doc@kde.org> | 
+ | [skrooge](/f13/package/skrooge) | 5759 | 5759 | 100.0 | Swedish <kde-i18n-doc@kde.org> | 
+ | [smart](/f13/package/smart) | 4521 | 4521 | 100.0 | Swedish | 
+ | [smolt](/f13/package/smolt) | 1174 | 1174 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [sonata](/f13/package/sonata) | 1136 | 1136 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [sound-juicer](/f13/package/sound-juicer) | 3317 | 3317 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [soundmodem](/f13/package/soundmodem) | 91 | 91 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [specto](/f13/package/specto) | 675 | 675 | 100.0 | Swedish <sv@li.org> | 
+ | [speedcrunch](/f13/package/speedcrunch) | 18 | 18 | 100.0 | sv | 
+ | [spu-binutils](/f13/package/spu-binutils) | 13547 | 13547 | 100.0 | Swedish <sv@li.org> | 
+ | [squirrelmail](/f13/package/squirrelmail) | 9749 | 9749 | 100.0 | Swedish <squirrelmail-i18n@lists.sourceforge.net> | 
+ | [straw](/f13/package/straw) | 610 | 610 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [sugar](/f13/package/sugar) | 918 | 918 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-base](/f13/package/sugar-base) | 5 | 5 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-browse](/f13/package/sugar-browse) | 55 | 55 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-calculator](/f13/package/sugar-calculator) | 565 | 565 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-chat](/f13/package/sugar-chat) | 26 | 26 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-finance](/f13/package/sugar-finance) | 142 | 142 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-imageviewer](/f13/package/sugar-imageviewer) | 17 | 17 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-jukebox](/f13/package/sugar-jukebox) | 10 | 10 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-log](/f13/package/sugar-log) | 100 | 100 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-memorize](/f13/package/sugar-memorize) | 50 | 50 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-toolkit](/f13/package/sugar-toolkit) | 71 | 71 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-turtleart](/f13/package/sugar-turtleart) | 123 | 123 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-write](/f13/package/sugar-write) | 69 | 69 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [supertuxkart](/f13/package/supertuxkart) | 928 | 928 | 100.0 |  | 
+ | [switchdesk](/f13/package/switchdesk) | 139 | 139 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [synce-software-manager](/f13/package/synce-software-manager) | 134 | 134 | 100.0 | LANGUAGE <sv@li.org> | 
+ | [syncevolution](/f13/package/syncevolution) | 1115 | 1115 | 100.0 |  | 
+ | [sysstat](/f13/package/sysstat) | 194 | 194 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [system-config-audit](/f13/package/system-config-audit) | 1241 | 1241 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [system-config-bind](/f13/package/system-config-bind) | 9434 | 9434 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [system-config-date-docs](/f13/package/system-config-date-docs) | 728 | 728 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [system-config-display](/f13/package/system-config-display) | 415 | 415 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [system-config-httpd](/f13/package/system-config-httpd) | 866 | 866 | 100.0 | Swedish <sv@li.org> | 
+ | [system-config-lvm](/f13/package/system-config-lvm) | 2246 | 2246 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [system-config-netboot](/f13/package/system-config-netboot) | 1135 | 1135 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [system-config-nfs](/f13/package/system-config-nfs) | 332 | 332 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [system-config-nfs-docs](/f13/package/system-config-nfs-docs) | 1185 | 1185 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [system-config-rootpassword](/f13/package/system-config-rootpassword) | 116 | 116 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [system-config-samba-docs](/f13/package/system-config-samba-docs) | 1188 | 1188 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [system-config-services-docs](/f13/package/system-config-services-docs) | 453 | 453 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [system-config-users-docs](/f13/package/system-config-users-docs) | 1054 | 1054 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [system-switch-java](/f13/package/system-switch-java) | 81 | 81 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [system-switch-mail](/f13/package/system-switch-mail) | 158 | 158 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [tagtool](/f13/package/tagtool) | 958 | 958 | 100.0 | Swedish <sv@li.org> | 
+ | [tasks](/f13/package/tasks) | 314 | 314 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [tasque](/f13/package/tasque) | 245 | 245 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [tellico](/f13/package/tellico) | 5497 | 5497 | 100.0 | Swedish <kde-i18n-doc@kde.org> | 
+ | [texlive](/f13/package/texlive) | 4382 | 4382 | 100.0 | Swedish <sv@li.org> | 
+ | [thunar-shares-plugin](/f13/package/thunar-shares-plugin) | 220 | 220 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [tigervnc](/f13/package/tigervnc) | 188 | 188 | 100.0 | Swedish | 
+ | [tinyca2](/f13/package/tinyca2) | 1894 | 1894 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [tomboy](/f13/package/tomboy) | 7192 | 7192 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [totem-pl-parser](/f13/package/totem-pl-parser) | 28 | 28 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [tracker](/f13/package/tracker) | 1971 | 1971 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [transmission](/f13/package/transmission) | 1642 | 1642 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [turba](/f13/package/turba) | 1107 | 1107 | 100.0 | Swedish <dev@lists.horde.org> | 
+ | [upower](/f13/package/upower) | 113 | 113 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [usermode](/f13/package/usermode) | 562 | 562 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [viewnior](/f13/package/viewnior) | 387 | 387 | 100.0 | Swedish <sv@li.org> | 
+ | [vim](/f13/package/vim) | 8228 | 8228 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [vinagre](/f13/package/vinagre) | 2691 | 2691 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [vino](/f13/package/vino) | 1215 | 1215 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [virtaal](/f13/package/virtaal) | 1116 | 1116 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [vte](/f13/package/vte) | 116 | 116 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [wallpapoz](/f13/package/wallpapoz) | 395 | 395 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [wammu](/f13/package/wammu) | 4282 | 4282 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [watchdog](/f13/package/watchdog) | 97 | 97 | 100.0 | swedish <debian-l10n-swedish@lists.debian.org> | 
+ | [wget](/f13/package/wget) | 2260 | 2260 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [wol](/f13/package/wol) | 298 | 298 | 100.0 |  | 
+ | [xarchiver](/f13/package/xarchiver) | 1131 | 1131 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [xcdroast](/f13/package/xcdroast) | 8044 | 8044 | 100.0 | Swedish | 
+ | [xdg-user-dirs](/f13/package/xdg-user-dirs) | 28 | 28 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [xdg-user-dirs-gtk](/f13/package/xdg-user-dirs-gtk) | 81 | 81 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [xfce-utils](/f13/package/xfce-utils) | 131 | 131 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [xfce4-appfinder](/f13/package/xfce4-appfinder) | 84 | 84 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [xfce4-mixer](/f13/package/xfce4-mixer) | 181 | 181 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [xfce4-mpc-plugin](/f13/package/xfce4-mpc-plugin) | 80 | 80 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [xfce4-netload-plugin](/f13/package/xfce4-netload-plugin) | 68 | 68 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [xfce4-panel](/f13/package/xfce4-panel) | 540 | 540 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [xfce4-places-plugin](/f13/package/xfce4-places-plugin) | 75 | 75 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [xfce4-radio-plugin](/f13/package/xfce4-radio-plugin) | 42 | 42 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [xfce4-session](/f13/package/xfce4-session) | 990 | 990 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [xfce4-settings](/f13/package/xfce4-settings) | 1138 | 1138 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [xfce4-wavelan-plugin](/f13/package/xfce4-wavelan-plugin) | 49 | 49 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [xfce4-xfswitch-plugin](/f13/package/xfce4-xfswitch-plugin) | 20 | 20 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [xfce4-xkb-plugin](/f13/package/xfce4-xkb-plugin) | 64 | 64 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [xfconf](/f13/package/xfconf) | 421 | 421 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [xfdesktop](/f13/package/xfdesktop) | 1004 | 1004 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [xfprint](/f13/package/xfprint) | 337 | 337 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [xfwm4](/f13/package/xfwm4) | 797 | 797 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [xkeyboard-config](/f13/package/xkeyboard-config) | 1921 | 1921 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [xpad](/f13/package/xpad) | 363 | 363 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [yakuake](/f13/package/yakuake) | 1288 | 1288 | 100.0 | Swedish <sv@li.org> | 
+ | [yelp](/f13/package/yelp) | 1094 | 1094 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [yp-tools](/f13/package/yp-tools) | 869 | 869 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [yum](/f13/package/yum) | 2565 | 2565 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [zarafa-webaccess](/f13/package/zarafa-webaccess) | 2679 | 2679 | 100.0 | sv_SE <sv@li.org> | 
+ | [zenity](/f13/package/zenity) | 2941 | 2941 | 100.0 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [zeroinstall-injector](/f13/package/zeroinstall-injector) | 5736 | 5736 | 100.0 | Swedish <sv@li.org> | 
+ | [konversation](/f13/package/konversation) | 10181 | 10183 | 100.0 | Swedish <kde-i18n-doc@kde.org> | 
+ | [gramps](/f13/package/gramps) | 28475 | 28494 | 99.9 | Swedish <kde-i18n-doc@kde.org> | 
+ | [gambas](/f13/package/gambas) | 2472 | 2475 | 99.9 | LANGUAGE <LL@li.org> | 
+ | [kdevplatform](/f13/package/kdevplatform) | 6577 | 6585 | 99.9 | Swedish <kde-i18n-doc@kde.org> | 
+ | [hugin](/f13/package/hugin) | 6591 | 6602 | 99.8 | Svenska <se@li.org> | 
+ | [ghdl](/f13/package/ghdl) | 49821 | 49908 | 99.8 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [ganyremote](/f13/package/ganyremote) | 517 | 518 | 99.8 | Swedish | 
+ | [kanyremote](/f13/package/kanyremote) | 497 | 498 | 99.8 | Swedish | 
+ | [system-config-printer](/f13/package/system-config-printer) | 3102 | 3110 | 99.7 | Swedish <None> | 
+ | [xchat](/f13/package/xchat) | 5013 | 5027 | 99.7 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [dar](/f13/package/dar) | 5691 | 5708 | 99.7 | Svenska <sv@li.org> | 
+ | [libgpod](/f13/package/libgpod) | 931 | 934 | 99.7 | Svenska <sv@li.org> | 
+ | [arm-gp2x-linux-gcc](/f13/package/arm-gp2x-linux-gcc) | 40900 | 41043 | 99.7 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [bygfoot](/f13/package/bygfoot) | 3707 | 3720 | 99.7 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [scim](/f13/package/scim) | 1159 | 1164 | 99.6 |  | 
+ | [manaworld](/f13/package/manaworld) | 2473 | 2484 | 99.6 | Swedish <sv@li.org> | 
+ | [gnochm](/f13/package/gnochm) | 578 | 581 | 99.5 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [spacewalk-backend](/f13/package/spacewalk-backend) | 1902 | 1912 | 99.5 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [kdevelop-php](/f13/package/kdevelop-php) | 357 | 359 | 99.4 | Swedish <kde-i18n-doc@kde.org> | 
+ | [kBuild](/f13/package/kBuild) | 502 | 505 | 99.4 | Swedish <sv@li.org> | 
+ | [kde-plasma-networkmanagement](/f13/package/kde-plasma-networkmanagement) | 2407 | 2422 | 99.4 | Swedish <kde-i18n-doc@kde.org> | 
+ | [gcal](/f13/package/gcal) | 4904 | 4938 | 99.3 | Swedish <sv@li.org> | 
+ | [monsoon](/f13/package/monsoon) | 428 | 431 | 99.3 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [Miro](/f13/package/Miro) | 3312 | 3336 | 99.3 | Swedish <sv@li.org> | 
+ | [gqview](/f13/package/gqview) | 1708 | 1721 | 99.2 | Swedish <sv@li.org> | 
+ | [mingw32-libgpg-error](/f13/package/mingw32-libgpg-error) | 734 | 740 | 99.2 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [wine](/f13/package/wine) | 11673 | 11773 | 99.2 | none | 
+ | [xfce4-notes-plugin](/f13/package/xfce4-notes-plugin) | 110 | 111 | 99.1 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [gallery2](/f13/package/gallery2) | 17632 | 17793 | 99.1 | Swedish <gallery-devel@lists.sourceforge.net> | 
+ | [publican-fedora](/f13/package/publican-fedora) | 106 | 107 | 99.1 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [ingo](/f13/package/ingo) | 659 | 666 | 98.9 | Swedish <i18n@lists.horde.org> | 
+ | [findutils](/f13/package/findutils) | 2082 | 2105 | 98.9 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [tre](/f13/package/tre) | 424 | 429 | 98.8 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [pioneers](/f13/package/pioneers) | 2524 | 2554 | 98.8 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [poedit](/f13/package/poedit) | 1148 | 1162 | 98.8 | TEAM <TEAM@li.org> | 
+ | [gperiodic](/f13/package/gperiodic) | 1827 | 1850 | 98.8 | LANGUAGE <LL@li.org> | 
+ | [aumix](/f13/package/aumix) | 237 | 240 | 98.8 | Swedish <sv@li.org> | 
+ | [fslint](/f13/package/fslint) | 383 | 388 | 98.7 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [synce-trayicon](/f13/package/synce-trayicon) | 153 | 155 | 98.7 | Swedish <sv@li.org> | 
+ | [dexter](/f13/package/dexter) | 225 | 228 | 98.7 | Swedish <sv@li.org> | 
+ | [wdiff](/f13/package/wdiff) | 930 | 943 | 98.6 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [sane-backends](/f13/package/sane-backends) | 4291 | 4356 | 98.5 | Swedish <sv@li.org> | 
+ | [flex](/f13/package/flex) | 1052 | 1069 | 98.4 | Swedish <sv@li.org> | 
+ | [vdr](/f13/package/vdr) | 793 | 807 | 98.3 | Swedish | 
+ | [blueman](/f13/package/blueman) | 1352 | 1376 | 98.3 | Swedish <sv@li.org> | 
+ | [dpkg](/f13/package/dpkg) | 36835 | 37520 | 98.2 | Swedish <debian-l10n-swedish@lists.debian.org> | 
+ | [terminator](/f13/package/terminator) | 214 | 218 | 98.2 | Swedish <sv@li.org> | 
+ | [libgpg-error](/f13/package/libgpg-error) | 734 | 748 | 98.1 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [tar](/f13/package/tar) | 3185 | 3247 | 98.1 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [pinot](/f13/package/pinot) | 565 | 577 | 97.9 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [listen](/f13/package/listen) | 1745 | 1783 | 97.9 | Swedish <sv@li.org> | 
+ | [gphoto2](/f13/package/gphoto2) | 1486 | 1519 | 97.8 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [wxGTK](/f13/package/wxGTK) | 6359 | 6501 | 97.8 | wxWidgets translators <wx-translators@lists.wxwidgets.org> | 
+ | [gambas2](/f13/package/gambas2) | 3570 | 3656 | 97.6 | LANGUAGE <LL@li.org> | 
+ | [pidgin](/f13/package/pidgin) | 18263 | 18730 | 97.5 |  | 
+ | [catfish](/f13/package/catfish) | 74 | 76 | 97.4 | Swedish <sv@li.org> | 
+ | [Django](/f13/package/Django) | 3108 | 3193 | 97.3 | Django I18N <Django-I18N@googlegroups.com> | 
+ | [passwd](/f13/package/passwd) | 291 | 299 | 97.3 | none | 
+ | [qalculate-gtk](/f13/package/qalculate-gtk) | 2275 | 2342 | 97.1 | Swedish | 
+ | [qalculate-kde](/f13/package/qalculate-kde) | 1378 | 1420 | 97.0 | Swedish | 
+ | [system-config-services](/f13/package/system-config-services) | 392 | 404 | 97.0 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [gnupg](/f13/package/gnupg) | 8363 | 8629 | 96.9 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [easytag](/f13/package/easytag) | 5151 | 5315 | 96.9 | Swedish <LL@li.org> | 
+ | [gnome-disk-utility](/f13/package/gnome-disk-utility) | 4909 | 5071 | 96.8 | LANGUAGE <LL@li.org> | 
+ | [leafpad](/f13/package/leafpad) | 121 | 125 | 96.8 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [soundtracker](/f13/package/soundtracker) | 1593 | 1648 | 96.7 | Swedish <sv@li.org> | 
+ | [gtkpod](/f13/package/gtkpod) | 6583 | 6813 | 96.6 | Svenska <sv@li.org> | 
+ | [clementine](/f13/package/clementine) | 2487 | 2574 | 96.6 | Launchpad Swedish Translators <lp-l10n-sv@lists.launchpad.net> | 
+ | [rpm](/f13/package/rpm) | 3720 | 3851 | 96.6 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [CableSwig](/f13/package/CableSwig) | 1101 | 1140 | 96.6 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [gccxml](/f13/package/gccxml) | 1101 | 1140 | 96.6 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [epdfview](/f13/package/epdfview) | 466 | 483 | 96.5 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [xfbib](/f13/package/xfbib) | 216 | 224 | 96.4 | Swedish | 
+ | [jokosher](/f13/package/jokosher) | 1985 | 2059 | 96.4 | Swedish <sv@li.org> | 
+ | [nesc](/f13/package/nesc) | 1134 | 1178 | 96.3 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [ypbind](/f13/package/ypbind) | 378 | 393 | 96.2 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [wormux](/f13/package/wormux) | 1835 | 1916 | 95.8 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [pidgin-sipe](/f13/package/pidgin-sipe) | 648 | 678 | 95.6 | Novell Language <language@novell.com> | 
+ | [tvtime](/f13/package/tvtime) | 1169 | 1224 | 95.5 | Per von Zweigbergk <pvz@e.kth.se> | 
+ | [po4a](/f13/package/po4a) | 1812 | 1901 | 95.3 | Swedish <debian-l10n-swedish@lists.debian.org> | 
+ | [drgeo](/f13/package/drgeo) | 1891 | 1985 | 95.3 | Swedish <sv@li.org> | 
+ | [xdialog](/f13/package/xdialog) | 20 | 21 | 95.2 | Swedish <forsberg@cendio.se> | 
+ | [gxine](/f13/package/gxine) | 2610 | 2741 | 95.2 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [claws-mail](/f13/package/claws-mail) | 13982 | 14690 | 95.2 | Swedish | 
+ | [gscan2pdf](/f13/package/gscan2pdf) | 1300 | 1368 | 95.0 | Swedish <sv@li.org> | 
+ | [cups](/f13/package/cups) | 6981 | 7347 | 95.0 | Apple Inc. | 
+ | [newsbeuter](/f13/package/newsbeuter) | 1175 | 1237 | 95.0 |  | 
+ | [system-config-firewall](/f13/package/system-config-firewall) | 2663 | 2807 | 94.9 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [gnupg2](/f13/package/gnupg2) | 9896 | 10451 | 94.7 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [mutter](/f13/package/mutter) | 2307 | 2437 | 94.7 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [mutter-mbl](/f13/package/mutter-mbl) | 2307 | 2437 | 94.7 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [pidgin-musictracker](/f13/package/pidgin-musictracker) | 315 | 333 | 94.6 | Swedish <sv@li.org> | 
+ | [eiciel](/f13/package/eiciel) | 120 | 127 | 94.5 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [sentinella](/f13/package/sentinella) | 411 | 435 | 94.5 | Swedish <LL@li.org> | 
+ | [pam](/f13/package/pam) | 565 | 599 | 94.3 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [initng-conf-gtk](/f13/package/initng-conf-gtk) | 166 | 176 | 94.3 | Swedish | 
+ | [system-config-users](/f13/package/system-config-users) | 1373 | 1456 | 94.3 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [xlog](/f13/package/xlog) | 1358 | 1441 | 94.2 | <en@li.org> | 
+ | [giggle](/f13/package/giggle) | 297 | 316 | 94.0 | sv <sv@li.org> | 
+ | [bareftp](/f13/package/bareftp) | 421 | 448 | 94.0 |  | 
+ | [decibel-audio-player](/f13/package/decibel-audio-player) | 1401 | 1494 | 93.8 | Swedish <sv@li.org> | 
+ | [nautilus-terminal](/f13/package/nautilus-terminal) | 103 | 110 | 93.6 | Swedish <sv@li.org> | 
+ | [xmoto](/f13/package/xmoto) | 3355 | 3591 | 93.4 | Svenska <sv@li.org> | 
+ | [gigolo](/f13/package/gigolo) | 466 | 500 | 93.2 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [gstreamer](/f13/package/gstreamer) | 1703 | 1829 | 93.1 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [gnome-media](/f13/package/gnome-media) | 4530 | 4870 | 93.0 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [xfburn](/f13/package/xfburn) | 1209 | 1300 | 93.0 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [xmlcopyeditor](/f13/package/xmlcopyeditor) | 1218 | 1311 | 92.9 | LANGUAGE <LL@li.org> | 
+ | [gawk](/f13/package/gawk) | 2419 | 2604 | 92.9 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [griffith](/f13/package/griffith) | 1742 | 1876 | 92.9 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [network-manager-netbook](/f13/package/network-manager-netbook) | 439 | 473 | 92.8 | Novell Language <language@novell.com> | 
+ | [boswars](/f13/package/boswars) | 202 | 218 | 92.7 |  | 
+ | [gthumb](/f13/package/gthumb) | 10461 | 11333 | 92.3 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [mutt](/f13/package/mutt) | 4958 | 5377 | 92.2 | Swedish <sv@li.org> | 
+ | [gnome-applet-timer](/f13/package/gnome-applet-timer) | 258 | 280 | 92.1 | Swedish <sv@li.org> | 
+ | [cryptsetup-luks](/f13/package/cryptsetup-luks) | 993 | 1078 | 92.1 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [xfce4-weather-plugin](/f13/package/xfce4-weather-plugin) | 511 | 555 | 92.1 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [gliv](/f13/package/gliv) | 950 | 1034 | 91.9 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [lingot](/f13/package/lingot) | 118 | 129 | 91.5 | Swedish <sv@li.org> | 
+ | [gnome-hearts](/f13/package/gnome-hearts) | 374 | 409 | 91.4 | Swedish <sv@li.org> | 
+ | [gpodder](/f13/package/gpodder) | 2157 | 2360 | 91.4 | gPodder team <gpodder-devel@lists.berlios.de> | 
+ | [alexandria](/f13/package/alexandria) | 1075 | 1181 | 91.0 | Swedish <sv@li.org> | 
+ | [tuxpaint](/f13/package/tuxpaint) | 1132 | 1247 | 90.8 | <tp-sv@listor.tp-sv.se> | 
+ | [enscript](/f13/package/enscript) | 1659 | 1828 | 90.8 | Swedish <sv@li.org> | 
+ | [wxPython](/f13/package/wxPython) | 7964 | 8776 | 90.7 | wxWidgets translators <wx-translators@lists.wxwidgets.org> | 
+ | [system-config-language](/f13/package/system-config-language) | 293 | 323 | 90.7 | Swedish <sv@li.org> | 
+ | [gnome-user-docs](/f13/package/gnome-user-docs) | 71123 | 78576 | 90.5 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [drupal-cck](/f13/package/drupal-cck) | 2268 | 2508 | 90.4 | drupalsverige.se | 
+ | [system-config-keyboard](/f13/package/system-config-keyboard) | 169 | 187 | 90.4 | Swedish <sv@li.org> | 
+ | [bash](/f13/package/bash) | 9682 | 10715 | 90.4 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [sos](/f13/package/sos) | 241 | 267 | 90.3 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [mingw32-iconv](/f13/package/mingw32-iconv) | 303 | 336 | 90.2 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [workrave](/f13/package/workrave) | 1059 | 1176 | 90.1 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [scribes](/f13/package/scribes) | 2170 | 2420 | 89.7 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [asunder](/f13/package/asunder) | 403 | 450 | 89.6 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [xfmpc](/f13/package/xfmpc) | 116 | 130 | 89.2 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [gdmap](/f13/package/gdmap) | 124 | 139 | 89.2 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [linsmith](/f13/package/linsmith) | 600 | 673 | 89.2 | Svenska <sv@li.org> | 
+ | [sepostgresql](/f13/package/sepostgresql) | 9622 | 10803 | 89.1 | Swedish <sv@li.org> | 
+ | [renameutils](/f13/package/renameutils) | 1448 | 1629 | 88.9 | Swedish <sv@li.org> | 
+ | [gobby](/f13/package/gobby) | 778 | 876 | 88.8 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [tuxtype2](/f13/package/tuxtype2) | 71 | 80 | 88.8 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [gazpacho](/f13/package/gazpacho) | 628 | 708 | 88.7 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [kshutdown](/f13/package/kshutdown) | 687 | 776 | 88.5 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [glade2](/f13/package/glade2) | 5206 | 5910 | 88.1 | Swedish <sv@li.org> | 
+ | [jbrout](/f13/package/jbrout) | 303 | 344 | 88.1 |  | 
+ | [soundconverter](/f13/package/soundconverter) | 396 | 450 | 88.0 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [poker-engine](/f13/package/poker-engine) | 164 | 187 | 87.7 | <pokersource-users@gna.org> | 
+ | [pidgin-guifications](/f13/package/pidgin-guifications) | 442 | 505 | 87.5 | Swedish <sv@li.org> | 
+ | [gnome-video-effects](/f13/package/gnome-video-effects) | 14 | 16 | 87.5 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [monotone](/f13/package/monotone) | 9555 | 10925 | 87.5 | Richard Levitte <richard@levitte.org> | 
+ | [glade3](/f13/package/glade3) | 5460 | 6282 | 86.9 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [solang](/f13/package/solang) | 296 | 342 | 86.5 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [calibre](/f13/package/calibre) | 17265 | 19998 | 86.3 | Swedish <sv@li.org> | 
+ | [obconf](/f13/package/obconf) | 552 | 641 | 86.1 | Swedish | 
+ | [avahi](/f13/package/avahi) | 711 | 826 | 86.1 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [xmms](/f13/package/xmms) | 2958 | 3443 | 85.9 | Swedish <sv@li.org> | 
+ | [Terminal](/f13/package/Terminal) | 1021 | 1191 | 85.7 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [rawstudio](/f13/package/rawstudio) | 1307 | 1527 | 85.6 | Rawstudio development <rawstudio-dev@rawstudio.org> | 
+ | [empathy](/f13/package/empathy) | 4282 | 5018 | 85.3 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [mailody](/f13/package/mailody) | 668 | 783 | 85.3 | Swedish <sv@li.org> | 
+ | [python-kiwi](/f13/package/python-kiwi) | 193 | 228 | 84.6 | Swedish <sv@li.org> | 
+ | [sed](/f13/package/sed) | 490 | 581 | 84.3 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [slrn](/f13/package/slrn) | 4509 | 5351 | 84.3 | Swedish <sv@li.org> | 
+ | [totem](/f13/package/totem) | 5991 | 7112 | 84.2 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [pavucontrol](/f13/package/pavucontrol) | 198 | 237 | 83.5 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [gkrellm](/f13/package/gkrellm) | 3136 | 3783 | 82.9 | Swedish <sv@li.org> | 
+ | [gnome-dvb-daemon](/f13/package/gnome-dvb-daemon) | 667 | 806 | 82.8 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [pybackpack](/f13/package/pybackpack) | 918 | 1115 | 82.3 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [lifeograph](/f13/package/lifeograph) | 393 | 479 | 82.0 | Swedish <sv@li.org> | 
+ | [compiz-fusion](/f13/package/compiz-fusion) | 7339 | 8946 | 82.0 | Compiz Fusion Translators <i18n@lists.compiz-fusion.org> | 
+ | [compiz-fusion-extras](/f13/package/compiz-fusion-extras) | 7339 | 8946 | 82.0 | Compiz Fusion Translators <i18n@lists.compiz-fusion.org> | 
+ | [compiz-fusion-unsupported](/f13/package/compiz-fusion-unsupported) | 7339 | 8946 | 82.0 | Compiz Fusion Translators <i18n@lists.compiz-fusion.org> | 
+ | [gnubik](/f13/package/gnubik) | 178 | 217 | 82.0 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [gnome-activity-journal](/f13/package/gnome-activity-journal) | 259 | 316 | 82.0 | Swedish <sv@li.org> | 
+ | [nano](/f13/package/nano) | 2102 | 2570 | 81.8 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [recode](/f13/package/recode) | 672 | 829 | 81.1 | Swedish <sv@li.org> | 
+ | [xfce4-systemload-plugin](/f13/package/xfce4-systemload-plugin) | 51 | 63 | 81.0 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [klog](/f13/package/klog) | 1393 | 1738 | 80.1 | <sv@li.org> | 
+ | [linphone](/f13/package/linphone) | 1153 | 1440 | 80.1 | SWEDISH <SE@li.org> | 
+ | [libqalculate](/f13/package/libqalculate) | 5409 | 6764 | 80.0 | Swedish | 
+ | [homebank](/f13/package/homebank) | 1205 | 1509 | 79.9 | Swedish <sv@li.org> | 
+ | [gnokii](/f13/package/gnokii) | 4247 | 5326 | 79.7 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [ejabberd](/f13/package/ejabberd) | 1395 | 1753 | 79.6 |  | 
+ | [schroot](/f13/package/schroot) | 1039 | 1310 | 79.3 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [postgresql](/f13/package/postgresql) | 10924 | 13803 | 79.1 | Swedish <sv@li.org> | 
+ | [qof](/f13/package/qof) | 554 | 701 | 79.0 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [xchm](/f13/package/xchm) | 175 | 222 | 78.8 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [policycoreutils](/f13/package/policycoreutils) | 1155 | 1470 | 78.6 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [drupal-date](/f13/package/drupal-date) | 1366 | 1746 | 78.2 | drupalsverige.se | 
+ | [fotoxx](/f13/package/fotoxx) | 938 | 1203 | 78.0 | Swedish <kde-i18n-doc@kde.org> | 
+ | [sylpheed](/f13/package/sylpheed) | 5136 | 6615 | 77.6 | Swedish <sv@li.org> | 
+ | [f-spot](/f13/package/f-spot) | 5013 | 6478 | 77.4 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [indent](/f13/package/indent) | 210 | 272 | 77.2 | Swedish <sv@li.org> | 
+ | [ghex](/f13/package/ghex) | 2426 | 3147 | 77.1 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [pastebinit](/f13/package/pastebinit) | 127 | 165 | 77.0 | Swedish <sv@li.org> | 
+ | [parted](/f13/package/parted) | 3893 | 5066 | 76.8 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [system-config-kickstart](/f13/package/system-config-kickstart) | 846 | 1103 | 76.7 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [quodlibet](/f13/package/quodlibet) | 1533 | 2001 | 76.6 | SWEDISH | 
+ | [mtpaint](/f13/package/mtpaint) | 2341 | 3065 | 76.4 | Swedish <sv@li.org> | 
+ | [xchat-gnome](/f13/package/xchat-gnome) | 4643 | 6116 | 75.9 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [opensp](/f13/package/opensp) | 4379 | 5771 | 75.9 | Swedish <sv@li.org> | 
+ | [gnome-applet-window-picker](/f13/package/gnome-applet-window-picker) | 22 | 29 | 75.9 | Swedish | 
+ | [ncmpc](/f13/package/ncmpc) | 518 | 683 | 75.8 | sv <sv@li.org> | 
+ | [system-config-date](/f13/package/system-config-date) | 1323 | 1750 | 75.6 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [a2ps](/f13/package/a2ps) | 1142 | 1512 | 75.5 | Swedish <sv@li.org> | 
+ | [dia](/f13/package/dia) | 4652 | 6255 | 74.4 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [anaconda](/f13/package/anaconda) | 7217 | 9752 | 74.0 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [util-linux-ng](/f13/package/util-linux-ng) | 10453 | 14159 | 73.8 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [shotwell](/f13/package/shotwell) | 1672 | 2272 | 73.6 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [abook](/f13/package/abook) | 535 | 727 | 73.6 | none | 
+ | [xfce4-fsguard-plugin](/f13/package/xfce4-fsguard-plugin) | 47 | 64 | 73.4 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [purple-msn-pecan](/f13/package/purple-msn-pecan) | 703 | 960 | 73.2 | Swedish <sv@li.org> | 
+ | [clamtk](/f13/package/clamtk) | 589 | 805 | 73.2 | Launchpad Swedish Translators <lp-l10n-sv@lists.launchpad.net> | 
+ | [osmo](/f13/package/osmo) | 1246 | 1705 | 73.1 |  | 
+ | [psmisc](/f13/package/psmisc) | 510 | 699 | 73.0 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [system-config-samba](/f13/package/system-config-samba) | 388 | 535 | 72.5 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [minicom](/f13/package/minicom) | 1236 | 1716 | 72.0 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [jpoker](/f13/package/jpoker) | 256 | 357 | 71.7 | <pokersource-users@gna.org> | 
+ | [gajim](/f13/package/gajim) | 7736 | 10834 | 71.4 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [supertux](/f13/package/supertux) | 965 | 1361 | 70.9 | Swedish <supertux-devel@lists.lethargik.org> | 
+ | [gdesklets](/f13/package/gdesklets) | 1081 | 1528 | 70.7 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [kbackup](/f13/package/kbackup) | 443 | 627 | 70.7 | Svenska <sv@li.org> | 
+ | [gnome-bluetooth](/f13/package/gnome-bluetooth) | 1364 | 1947 | 70.1 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [wesnoth](/f13/package/wesnoth) | 156606 | 226922 | 69.0 | Swedish | 
+ | [gtg](/f13/package/gtg) | 1230 | 1788 | 68.8 | Swedish <sv@li.org> | 
+ | [liblicense](/f13/package/liblicense) | 45 | 66 | 68.2 | LANGUAGE <LL@li.org> | 
+ | [centerim](/f13/package/centerim) | 1916 | 2814 | 68.1 | swedish <sv@li.org> | 
+ | [help2man](/f13/package/help2man) | 347 | 511 | 67.9 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [make](/f13/package/make) | 1355 | 1997 | 67.9 | Swedish <sv@li.org> | 
+ | [ayttm](/f13/package/ayttm) | 1973 | 2912 | 67.8 | SV <pather@comhem.se> | 
+ | [xfce4-dict](/f13/package/xfce4-dict) | 340 | 502 | 67.7 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [compiz](/f13/package/compiz) | 2192 | 3250 | 67.4 | Compiz Fusion Translators <i18n@lists.compiz-fusion.org> | 
+ | [zarafa](/f13/package/zarafa) | 3838 | 5766 | 66.6 | sv_SE <sv@li.org> | 
+ | [gnome-commander](/f13/package/gnome-commander) | 5551 | 8362 | 66.4 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [ntfs-config](/f13/package/ntfs-config) | 235 | 357 | 65.8 | Swedish <sv@li.org> | 
+ | [ekiga](/f13/package/ekiga) | 6276 | 9580 | 65.5 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [gpa](/f13/package/gpa) | 1329 | 2042 | 65.1 | Swedish <sv@li.org> | 
+ | [sssd](/f13/package/sssd) | 826 | 1276 | 64.7 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [cherokee](/f13/package/cherokee) | 4334 | 6726 | 64.4 | Swedish <LL@li.org> | 
+ | [wlassistant](/f13/package/wlassistant) | 703 | 1091 | 64.4 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [subdownloader](/f13/package/subdownloader) | 619 | 968 | 63.9 | LANGUAGE <LL@li.org> | 
+ | [chmsee](/f13/package/chmsee) | 124 | 194 | 63.9 | Swedish <sv@li.org> | 
+ | [fish](/f13/package/fish) | 5671 | 8912 | 63.6 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [horde](/f13/package/horde) | 4464 | 7025 | 63.5 | Swedish <i18n@lists.horde.org> | 
+ | [deja-dup](/f13/package/deja-dup) | 703 | 1109 | 63.4 |  | 
+ | [mailman](/f13/package/mailman) | 13751 | 21904 | 62.8 | Swedish <information@arvika.se> | 
+ | [webkitgtk](/f13/package/webkitgtk) | 684 | 1093 | 62.6 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [sharutils](/f13/package/sharutils) | 652 | 1048 | 62.2 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [gbrainy](/f13/package/gbrainy) | 1159 | 1864 | 62.2 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [trackballs](/f13/package/trackballs) | 592 | 954 | 62.1 |  | 
+ | [im-chooser](/f13/package/im-chooser) | 132 | 213 | 62.0 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [gnome-subtitles](/f13/package/gnome-subtitles) | 1593 | 2574 | 61.9 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [vdr-ttxtsubs](/f13/package/vdr-ttxtsubs) | 67 | 110 | 60.9 | <vdr@linuxtv.org> | 
+ | [exaile](/f13/package/exaile) | 1683 | 2766 | 60.8 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [ardour](/f13/package/ardour) | 5505 | 9109 | 60.4 |  | 
+ | [krename](/f13/package/krename) | 1159 | 1926 | 60.2 | svenska <sv@li.org> | 
+ | [xsane](/f13/package/xsane) | 1938 | 3224 | 60.1 | LANGUAGE <sv@li.org> | 
+ | [rt3](/f13/package/rt3) | 4665 | 7812 | 59.7 |  | 
+ | [solfege](/f13/package/solfege) | 2371 | 3980 | 59.6 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [e16](/f13/package/e16) | 1654 | 2787 | 59.3 | Swedish <sv@li.org> | 
+ | [klavaro](/f13/package/klavaro) | 1114 | 1878 | 59.3 | SWEDISH <LL@li.org> | 
+ | [accountsdialog](/f13/package/accountsdialog) | 517 | 874 | 59.2 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [grub2](/f13/package/grub2) | 997 | 1687 | 59.1 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [gnome-globalmenu](/f13/package/gnome-globalmenu) | 192 | 325 | 59.1 | Swedish <sv@li.org> | 
+ | [fuse-encfs](/f13/package/fuse-encfs) | 774 | 1315 | 58.9 | Swedish <sv@li.org> | 
+ | [sabayon](/f13/package/sabayon) | 1283 | 2186 | 58.7 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [freeciv](/f13/package/freeciv) | 30431 | 53692 | 56.7 | Swedish <freeciv.sv@freelists.org> | 
+ | [gutenprint](/f13/package/gutenprint) | 5421 | 9583 | 56.6 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [gshutdown](/f13/package/gshutdown) | 276 | 492 | 56.1 |  | 
+ | [zeitgeist](/f13/package/zeitgeist) | 37 | 66 | 56.1 | Swedish <sv@li.org> | 
+ | [marlin](/f13/package/marlin) | 830 | 1508 | 55.0 | Swedish <sv@li.org> | 
+ | [geeqie](/f13/package/geeqie) | 1594 | 2909 | 54.8 | Swedish <sv@li.org> | 
+ | [inkscape](/f13/package/inkscape) | 13139 | 24035 | 54.7 | Svenska <sv@li.org> | 
+ | [gnotime](/f13/package/gnotime) | 1087 | 2008 | 54.1 | Swedish <sv@li.org> | 
+ | [openvas-client](/f13/package/openvas-client) | 2408 | 4463 | 54.0 | Swedish <openvas-devel@wald.intevation.org> | 
+ | [chronojump](/f13/package/chronojump) | 674 | 1261 | 53.4 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [gmusicbrowser](/f13/package/gmusicbrowser) | 1528 | 2867 | 53.3 | <se@li.org> | 
+ | [tuxmath](/f13/package/tuxmath) | 559 | 1051 | 53.2 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [subversion](/f13/package/subversion) | 9470 | 17903 | 52.9 | Swedish <sv@li.org> | 
+ | [smb4k](/f13/package/smb4k) | 3478 | 6580 | 52.9 | svenska <sv@li.org> | 
+ | [bzr-explorer](/f13/package/bzr-explorer) | 832 | 1576 | 52.8 | Swedish <sv@li.org> | 
+ | [nted](/f13/package/nted) | 681 | 1299 | 52.4 | Sv <LL@li.org> | 
+ | [flumotion](/f13/package/flumotion) | 1772 | 3391 | 52.3 | Swedish <fi@li.org> | 
+ | [setroubleshoot](/f13/package/setroubleshoot) | 292 | 563 | 51.9 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [gnome-specimen](/f13/package/gnome-specimen) | 29 | 56 | 51.8 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [Zim](/f13/package/Zim) | 645 | 1247 | 51.7 | Swedish | 
+ | [twitux](/f13/package/twitux) | 153 | 297 | 51.5 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [yum-rhn-plugin](/f13/package/yum-rhn-plugin) | 55 | 107 | 51.4 | Swedish <sv@li.org> | 
+ | [etoys](/f13/package/etoys) | 14273 | 27782 | 51.4 | Swedish <sv@li.org> | 
+ | [icewm](/f13/package/icewm) | 706 | 1376 | 51.3 | Swedish <sv@li.org> | 
+ | [gnome-applet-sensors](/f13/package/gnome-applet-sensors) | 150 | 298 | 50.3 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [grep](/f13/package/grep) | 408 | 827 | 49.3 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [gget](/f13/package/gget) | 313 | 637 | 49.1 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [gwibber](/f13/package/gwibber) | 22 | 45 | 48.9 | Swedish <sv@li.org> | 
+ | [kchmviewer](/f13/package/kchmviewer) | 475 | 972 | 48.9 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [parole](/f13/package/parole) | 214 | 439 | 48.7 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [genius](/f13/package/genius) | 3351 | 7005 | 47.8 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [setroubleshoot-plugins](/f13/package/setroubleshoot-plugins) | 3739 | 7818 | 47.8 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [shutter](/f13/package/shutter) | 1314 | 2763 | 47.6 | Swedish <sv@li.org> | 
+ | [meld](/f13/package/meld) | 1010 | 2174 | 46.5 | LANGUAGE <LL@li.org> | 
+ | [gtk-doc](/f13/package/gtk-doc) | 3079 | 6632 | 46.4 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [kexec-tools](/f13/package/kexec-tools) | 95 | 206 | 46.1 | Swedish <sv@li.org> | 
+ | [stellarium](/f13/package/stellarium) | 1092 | 2407 | 45.4 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [chromium-bsu](/f13/package/chromium-bsu) | 467 | 1030 | 45.3 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [evolution](/f13/package/evolution) | 25974 | 57759 | 45.0 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [cpio](/f13/package/cpio) | 873 | 1956 | 44.6 | Swedish <sv@li.org> | 
+ | [goffice](/f13/package/goffice) | 2019 | 4599 | 43.9 | Swedish <sv@li.org> | 
+ | [assogiate](/f13/package/assogiate) | 277 | 633 | 43.8 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [hitori](/f13/package/hitori) | 278 | 640 | 43.4 | English/GB <en@li.org> | 
+ | [gnucash](/f13/package/gnucash) | 11552 | 26680 | 43.3 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [tilda](/f13/package/tilda) | 171 | 396 | 43.2 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [aspell](/f13/package/aspell) | 741 | 1726 | 42.9 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [viking](/f13/package/viking) | 821 | 1926 | 42.6 | Swedish <sv@li.org> | 
+ | [poker-network](/f13/package/poker-network) | 389 | 913 | 42.6 | <pokersource-users@gna.org> | 
+ | [poker2d](/f13/package/poker2d) | 389 | 913 | 42.6 | <pokersource-users@gna.org> | 
+ | [glabels](/f13/package/glabels) | 782 | 1849 | 42.3 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [system-config-boot](/f13/package/system-config-boot) | 50 | 119 | 42.0 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [tuxpaint-stamps](/f13/package/tuxpaint-stamps) | 1099 | 2617 | 42.0 |  | 
+ | [anjuta](/f13/package/anjuta) | 8484 | 20460 | 41.5 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [picard](/f13/package/picard) | 542 | 1310 | 41.4 | Swedish <sv@li.org> | 
+ | [pychess](/f13/package/pychess) | 675 | 1671 | 40.4 |  | 
+ | [dc3dd](/f13/package/dc3dd) | 375 | 932 | 40.2 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [ario](/f13/package/ario) | 272 | 682 | 39.9 | Swedish <sv@li.org> | 
+ | [gnome-games](/f13/package/gnome-games) | 20281 | 50861 | 39.9 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [conglomerate](/f13/package/conglomerate) | 2503 | 6317 | 39.6 | Swedish <sv@li.org> | 
+ | [gparted](/f13/package/gparted) | 2302 | 5814 | 39.6 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [claws-mail-plugins](/f13/package/claws-mail-plugins) | 247 | 627 | 39.4 | Swedish | 
+ | [gnome-lirc-properties](/f13/package/gnome-lirc-properties) | 632 | 1612 | 39.2 | LANGUAGE <LL@li.org> | 
+ | [paprefs](/f13/package/paprefs) | 51 | 131 | 38.9 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [widelands](/f13/package/widelands) | 12977 | 33587 | 38.6 | Swedish <sv@li.org> | 
+ | [gnome-do-plugins](/f13/package/gnome-do-plugins) | 892 | 2323 | 38.4 | Swedish <sv@li.org> | 
+ | [enigma](/f13/package/enigma) | 2023 | 5295 | 38.2 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [xfce4-screenshooter](/f13/package/xfce4-screenshooter) | 170 | 448 | 37.9 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [nemiver](/f13/package/nemiver) | 1053 | 2814 | 37.4 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [xfce4-power-manager](/f13/package/xfce4-power-manager) | 258 | 694 | 37.2 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [mercurial](/f13/package/mercurial) | 12579 | 34038 | 37.0 | Swedish | 
+ | [gtkhash](/f13/package/gtkhash) | 24 | 65 | 36.9 | Swedish <sv@li.org> | 
+ | [phatch](/f13/package/phatch) | 924 | 2553 | 36.2 | Swedish <sv@li.org> | 
+ | [gmpc](/f13/package/gmpc) | 9 | 25 | 36.0 | Swedish <sv@li.org> | 
+ | [bluefish](/f13/package/bluefish) | 1359 | 3819 | 35.6 | Swedish <sv@li.org> | 
+ | [python-meh](/f13/package/python-meh) | 95 | 269 | 35.3 | Swedish <sv@li.org> | 
+ | [nicotine+](/f13/package/nicotine+) | 1459 | 4140 | 35.2 | Swedish <markus@samsonrourke.com> | 
+ | [libextractor](/f13/package/libextractor) | 598 | 1701 | 35.2 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [glom](/f13/package/glom) | 2247 | 6405 | 35.1 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [jpilot](/f13/package/jpilot) | 815 | 2327 | 35.0 | Swedish <sv@li.org> | 
+ | [gnomint](/f13/package/gnomint) | 1544 | 4412 | 35.0 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [transifex](/f13/package/transifex) | 1608 | 4658 | 34.5 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [moserial](/f13/package/moserial) | 863 | 2644 | 32.6 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [libgphoto2](/f13/package/libgphoto2) | 3426 | 10541 | 32.5 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [mousetweaks](/f13/package/mousetweaks) | 1387 | 4362 | 31.8 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [lock-keys-applet](/f13/package/lock-keys-applet) | 17 | 54 | 31.5 | Swedish <sv@li.org> | 
+ | [xiphos](/f13/package/xiphos) | 1193 | 3815 | 31.3 | LANGUAGE <LL@li.org> | 
+ | [compat-gcc-32](/f13/package/compat-gcc-32) | 6983 | 22342 | 31.3 | Swedish <sv@li.org> | 
+ | [msp430-gcc](/f13/package/msp430-gcc) | 6983 | 22342 | 31.3 | Swedish <sv@li.org> | 
+ | [gcalctool](/f13/package/gcalctool) | 2424 | 7861 | 30.8 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [fakeroot](/f13/package/fakeroot) | 473 | 1535 | 30.8 | LANGUAGE <LL@li.org> | 
+ | [vdr-skinsoppalusikka](/f13/package/vdr-skinsoppalusikka) | 42 | 137 | 30.7 | <vdr@linuxtv.org> | 
+ | [publican](/f13/package/publican) | 332 | 1094 | 30.3 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [midori](/f13/package/midori) | 589 | 1955 | 30.1 | Swedish | 
+ | [compat-libgda](/f13/package/compat-libgda) | 1896 | 6314 | 30.0 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [avant-window-navigator](/f13/package/avant-window-navigator) | 405 | 1380 | 29.3 | Swedish <sv@li.org> | 
+ | [backintime](/f13/package/backintime) | 129 | 441 | 29.3 | Swedish <sv@li.org> | 
+ | [system-config-kdump](/f13/package/system-config-kdump) | 235 | 807 | 29.1 | Swedish <sv@li.org> | 
+ | [bzr-gtk](/f13/package/bzr-gtk) | 317 | 1090 | 29.1 | Swedish <sv@li.org> | 
+ | [referencer](/f13/package/referencer) | 255 | 879 | 29.0 |  | 
+ | [gnome-color-manager](/f13/package/gnome-color-manager) | 498 | 1722 | 28.9 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [vidalia](/f13/package/vidalia) | 2612 | 9306 | 28.1 | none | 
+ | [xfce4-sensors-plugin](/f13/package/xfce4-sensors-plugin) | 96 | 346 | 27.7 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [notecase](/f13/package/notecase) | 314 | 1156 | 27.2 | NoteCase team | 
+ | [springlobby](/f13/package/springlobby) | 1273 | 4695 | 27.1 | Swedish | 
+ | [specspo](/f13/package/specspo) | 82762 | 305294 | 27.1 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [gtick](/f13/package/gtick) | 91 | 336 | 27.1 | Swedish <sv@li.org> | 
+ | [rhn-client-tools](/f13/package/rhn-client-tools) | 1281 | 4820 | 26.6 | Swedish <sv@li.org> | 
+ | [me-tv](/f13/package/me-tv) | 515 | 1961 | 26.3 | Swedish <sv@li.org> | 
+ | [pinfo](/f13/package/pinfo) | 83 | 321 | 25.9 | Swedish <sv@li.org> | 
+ | [abrt](/f13/package/abrt) | 421 | 1631 | 25.8 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [gnumeric](/f13/package/gnumeric) | 8818 | 35046 | 25.2 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [ufraw](/f13/package/ufraw) | 510 | 2139 | 23.8 | Swedish <LL@li.org> | 
+ | [libexif](/f13/package/libexif) | 1629 | 6968 | 23.4 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [vorbis-tools](/f13/package/vorbis-tools) | 789 | 3376 | 23.4 | Swedish <sv@li.org> | 
+ | [kicad](/f13/package/kicad) | 1451 | 6465 | 22.4 |  | 
+ | [gdeskcal](/f13/package/gdeskcal) | 19 | 85 | 22.4 | LANGUAGE <LL@li.org> | 
+ | [pgadmin3](/f13/package/pgadmin3) | 2159 | 9676 | 22.3 | pgAdmin Developers <pgadmin-hackers@postgresql.org> | 
+ | [gnome-applet-grandr](/f13/package/gnome-applet-grandr) | 4 | 18 | 22.2 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [quassel](/f13/package/quassel) | 909 | 4171 | 21.8 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [shadow-utils](/f13/package/shadow-utils) | 3967 | 18554 | 21.4 | Swedish <debian-l10n-swedish@lists.debian.org> | 
+ | [gitg](/f13/package/gitg) | 197 | 989 | 19.9 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [krb5-auth-dialog](/f13/package/krb5-auth-dialog) | 568 | 2869 | 19.8 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [gourmet](/f13/package/gourmet) | 1417 | 7294 | 19.4 | Swedish (Sweden) <sv_SE@li.org> | 
+ | [audacious](/f13/package/audacious) | 241 | 1297 | 18.6 | Sweden | 
+ | [stardict](/f13/package/stardict) | 453 | 2440 | 18.6 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [monodevelop](/f13/package/monodevelop) | 2860 | 15619 | 18.3 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [cinepaint](/f13/package/cinepaint) | 1338 | 7405 | 18.1 | Swedish <sv@li.org> | 
+ | [kdbg](/f13/package/kdbg) | 154 | 866 | 17.8 | (None) | 
+ | [virt-manager](/f13/package/virt-manager) | 771 | 4353 | 17.7 | Swedish <sv@li.org> | 
+ | [jmol](/f13/package/jmol) | 454 | 2731 | 16.6 | Swedish <sv@li.org> | 
+ | [thunar-vcs-plugin](/f13/package/thunar-vcs-plugin) | 82 | 498 | 16.5 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [xscreensaver](/f13/package/xscreensaver) | 1767 | 11190 | 15.8 | Swedish <sv@li.org> | 
+ | [lilypond](/f13/package/lilypond) | 396 | 2513 | 15.8 | Swedish <sv@li.org> | 
+ | [aria2](/f13/package/aria2) | 722 | 4630 | 15.6 | Swedish <sv@li.org> | 
+ | [avogadro](/f13/package/avogadro) | 635 | 4262 | 14.9 | Swedish <sv@li.org> | 
+ | [kflickr](/f13/package/kflickr) | 42 | 299 | 14.0 | Swedish <sv@li.org> | 
+ | [dasher](/f13/package/dasher) | 874 | 6463 | 13.5 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [umit](/f13/package/umit) | 603 | 4593 | 13.1 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [iso-codes](/f13/package/iso-codes) | 2440 | 19375 | 12.6 | Swedish | 
+ | [ikiwiki](/f13/package/ikiwiki) | 161 | 1280 | 12.6 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [compat-gcc-34](/f13/package/compat-gcc-34) | 3797 | 30879 | 12.3 | Swedish <sv@li.org> | 
+ | [mod_cluster](/f13/package/mod_cluster) | 39 | 327 | 11.9 | Swedish <sv@li.org> | 
+ | [gpointing-device-settings](/f13/package/gpointing-device-settings) | 20 | 169 | 11.8 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [pingus](/f13/package/pingus) | 323 | 2828 | 11.4 | sv <jan.moren@lucs.lu.se> | 
+ | [libgda](/f13/package/libgda) | 873 | 7730 | 11.3 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [tin](/f13/package/tin) | 1081 | 9698 | 11.1 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [xfce4-eyes-plugin](/f13/package/xfce4-eyes-plugin) | 1 | 9 | 11.1 | Swedish <sv@li.org> | 
+ | [libvirt](/f13/package/libvirt) | 2039 | 20183 | 10.1 | Swedish <sv@li.org> | 
+ | [nautilus-actions](/f13/package/nautilus-actions) | 334 | 3402 | 9.8 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [pulseaudio](/f13/package/pulseaudio) | 248 | 2849 | 8.7 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [gdm](/f13/package/gdm) | 2599 | 30109 | 8.6 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [qbzr](/f13/package/qbzr) | 105 | 1281 | 8.2 | Swedish <sv@li.org> | 
+ | [grsync](/f13/package/grsync) | 84 | 1088 | 7.7 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [xfce4-taskmanager](/f13/package/xfce4-taskmanager) | 9 | 123 | 7.3 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [kmymoney2](/f13/package/kmymoney2) | 1173 | 16796 | 7.0 | <sv@li.org> | 
+ | [ailurus](/f13/package/ailurus) | 554 | 8278 | 6.7 | none | 
+ | [gammu](/f13/package/gammu) | 764 | 13273 | 5.8 | none | 
+ | [xfce4-clipman-plugin](/f13/package/xfce4-clipman-plugin) | 12 | 234 | 5.1 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [pyroom](/f13/package/pyroom) | 21 | 411 | 5.1 | Swedish <sv@li.org> | 
+ | [tumbler](/f13/package/tumbler) | 10 | 245 | 4.1 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [boinc-client](/f13/package/boinc-client) | 160 | 4130 | 3.9 | LANGUAGE <LL@li.org> | 
+ | [eina](/f13/package/eina) | 32 | 1008 | 3.2 | Swedish <sv@li.org> | 
+ | [awn-extras-applets](/f13/package/awn-extras-applets) | 458 | 14433 | 3.2 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [elinks](/f13/package/elinks) | 357 | 12234 | 2.9 | Swedish <sv@li.org> | 
+ | [libhocr](/f13/package/libhocr) | 6 | 207 | 2.9 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [gnome-devel-docs](/f13/package/gnome-devel-docs) | 74 | 3487 | 2.1 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [denemo](/f13/package/denemo) | 78 | 4978 | 1.6 | Swedish <sv@li.org> | 
+ | [tortoisehg](/f13/package/tortoisehg) | 75 | 6301 | 1.2 | Swedish <sv@li.org> | 
+ | [tinyerp](/f13/package/tinyerp) | 11 | 1138 | 1.0 | FR <i18n-info@tinyerp.org> | 
+ | [vdr-epgsearch](/f13/package/vdr-epgsearch) | 4 | 2408 | 0.2 | <vdr@linuxtv.org> | 
+ | [sugar-tamtam](/f13/package/sugar-tamtam) | 2 | 2077 | 0.1 | LANGUAGE <LL@li.org> | 
+ | [rednotebook](/f13/package/rednotebook) | 1 | 1044 | 0.1 | Swedish <sv@li.org> | 
+ | [coccinella](/f13/package/coccinella) | 2 | 5071 | 0.0 | Swedish | 
+ | [bacula](/f13/package/bacula) | 0 | 21357 | 0.0 | Swedish <bacula-devel@lists.soureforge.net> | 
+ | [bacula2](/f13/package/bacula2) | 0 | 20287 | 0.0 | Swedish <bacula-devel@lists.soureforge.net> | 
+ | [bzflag](/f13/package/bzflag) | 0 | 0 | 0.0 |  | 
+ | [garcon](/f13/package/garcon) | 0 | 17 | 0.0 | Swedish <tp-sv@listor.tp-sv.se> | 
+ | [gcombust](/f13/package/gcombust) | 0 | 0 | 0.0 |  | 
+ | [gnome-applet-alarm-clock](/f13/package/gnome-applet-alarm-clock) | 0 | 417 | 0.0 | Swedish <sv@li.org> | 
+ | [gnome-gmail](/f13/package/gnome-gmail) | 0 | 268 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [imsettings](/f13/package/imsettings) | 0 | 979 | 0.0 | Swedish <sv@li.org> | 
+ | [libgxim](/f13/package/libgxim) | 0 | 130 | 0.0 | none | 
+ | [olpc-switch-desktop](/f13/package/olpc-switch-desktop) | 0 | 158 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [revisor](/f13/package/revisor) | 0 | 4171 | 0.0 |  | 
+ | [sugar-distance](/f13/package/sugar-distance) | 0 | 76 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-infoslicer](/f13/package/sugar-infoslicer) | 0 | 177 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-physics](/f13/package/sugar-physics) | 0 | 22 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-playgo](/f13/package/sugar-playgo) | 0 | 85 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-view-slides](/f13/package/sugar-view-slides) | 0 | 7 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-visualmatch](/f13/package/sugar-visualmatch) | 0 | 58 | 0.0 | LANGUAGE <LL@li.org> | 
 {.sortable}
 
 
@@ -991,19 +991,19 @@ We use the po metadata to get the language code and the team, but sometimes it f
 
 | Package | Lang from file path/name | polib error | Team |
 |---------|--------------------------|-------------|------|
- | [ardour]({{< ref "/f13/package/ardour.md" >}}) | /mnt/stockage/packages/f13/ardour/gtk2_ardour/po/sv.po | error-os |  | 
- | [blender]({{< ref "/f13/package/blender.md" >}}) | /mnt/stockage/packages/f13/blender/po/sv.po | error-os |  | 
- | [bzflag]({{< ref "/f13/package/bzflag.md" >}}) | /mnt/stockage/packages/f13/bzflag/data/l10n/bzflag_sv.po | error-unicode |  | 
- | [gambas]({{< ref "/f13/package/gambas.md" >}}) | /mnt/stockage/packages/f13/gambas/app/gambas/.lang/sv.po | error-unicode |  | 
- | [gcombust]({{< ref "/f13/package/gcombust.md" >}}) | /mnt/stockage/packages/f13/gcombust/po/sv.po | error-unicode |  | 
- | [gnome-applets]({{< ref "/f13/package/gnome-applets.md" >}}) | /mnt/stockage/packages/f13/gnome-applets/multiload/docs/sv/sv.po | error-os |  | 
- | [gnome-applets]({{< ref "/f13/package/gnome-applets.md" >}}) | /mnt/stockage/packages/f13/gnome-applets/stickynotes/docs/sv/sv.po | error-os |  | 
- | [gnome-utils]({{< ref "/f13/package/gnome-utils.md" >}}) | /mnt/stockage/packages/f13/gnome-utils/gsearchtool/help/sv/sv.po | error-os |  | 
- | [moin]({{< ref "/f13/package/moin.md" >}}) | /mnt/stockage/packages/f13/moin/MoinMoin/i18n/sv.MoinMoin.po | error-os |  | 
- | [pychess]({{< ref "/f13/package/pychess.md" >}}) | /mnt/stockage/packages/f13/pychess/lang/sv/LC_MESSAGES/pychess.po | error-os |  | 
- | [referencer]({{< ref "/f13/package/referencer.md" >}}) | /mnt/stockage/packages/f13/referencer/po/sv.po | error-os |  | 
- | [scim]({{< ref "/f13/package/scim.md" >}}) | /mnt/stockage/packages/f13/scim/po/sv.po | error-os |  | 
- | [trackballs]({{< ref "/f13/package/trackballs.md" >}}) | /mnt/stockage/packages/f13/trackballs/po/sv.po | error-unicode |  | 
+ | [ardour](/f13/package/ardour) | /mnt/stockage/packages/f13/ardour/gtk2_ardour/po/sv.po | error-os |  | 
+ | [blender](/f13/package/blender) | /mnt/stockage/packages/f13/blender/po/sv.po | error-os |  | 
+ | [bzflag](/f13/package/bzflag) | /mnt/stockage/packages/f13/bzflag/data/l10n/bzflag_sv.po | error-unicode |  | 
+ | [gambas](/f13/package/gambas) | /mnt/stockage/packages/f13/gambas/app/gambas/.lang/sv.po | error-unicode |  | 
+ | [gcombust](/f13/package/gcombust) | /mnt/stockage/packages/f13/gcombust/po/sv.po | error-unicode |  | 
+ | [gnome-applets](/f13/package/gnome-applets) | /mnt/stockage/packages/f13/gnome-applets/multiload/docs/sv/sv.po | error-os |  | 
+ | [gnome-applets](/f13/package/gnome-applets) | /mnt/stockage/packages/f13/gnome-applets/stickynotes/docs/sv/sv.po | error-os |  | 
+ | [gnome-utils](/f13/package/gnome-utils) | /mnt/stockage/packages/f13/gnome-utils/gsearchtool/help/sv/sv.po | error-os |  | 
+ | [moin](/f13/package/moin) | /mnt/stockage/packages/f13/moin/MoinMoin/i18n/sv.MoinMoin.po | error-os |  | 
+ | [pychess](/f13/package/pychess) | /mnt/stockage/packages/f13/pychess/lang/sv/LC_MESSAGES/pychess.po | error-os |  | 
+ | [referencer](/f13/package/referencer) | /mnt/stockage/packages/f13/referencer/po/sv.po | error-os |  | 
+ | [scim](/f13/package/scim) | /mnt/stockage/packages/f13/scim/po/sv.po | error-os |  | 
+ | [trackballs](/f13/package/trackballs) | /mnt/stockage/packages/f13/trackballs/po/sv.po | error-unicode |  | 
 {.sortable}
 
 
@@ -1014,8 +1014,8 @@ We use the calcstats from translate toolkit to get the translation progress, but
 
 | Package | Lang from file path/name | Team |
 |---------|--------------------------|------|
- | [bzflag]({{< ref "/f13/package/bzflag.md" >}}) | /mnt/stockage/packages/f13/bzflag/data/l10n/bzflag_sv.po |  | 
- | [gcombust]({{< ref "/f13/package/gcombust.md" >}}) | /mnt/stockage/packages/f13/gcombust/po/sv.po |  | 
+ | [bzflag](/f13/package/bzflag) | /mnt/stockage/packages/f13/bzflag/data/l10n/bzflag_sv.po |  | 
+ | [gcombust](/f13/package/gcombust) | /mnt/stockage/packages/f13/gcombust/po/sv.po |  | 
 {.sortable}
 
 

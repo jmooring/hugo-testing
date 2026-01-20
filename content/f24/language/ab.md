@@ -39,11 +39,11 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [stellarium]({{< ref "/f24/package/stellarium.md" >}}) | 3 | 23532 | 0.0 | Abkhazian <ab@li.org> | 
- | [openerp]({{< ref "/f24/package/openerp.md" >}}) | 3 | 23720 | 0.0 |  | 
- | [openerp7]({{< ref "/f24/package/openerp7.md" >}}) | 1 | 22637 | 0.0 | Abkhazian <ab@li.org> | 
- | [gscan2pdf]({{< ref "/f24/package/gscan2pdf.md" >}}) | 0 | 1839 | 0.0 | Abkhazian <ab@li.org> | 
- | [libreoffice]({{< ref "/f24/package/libreoffice.md" >}}) | 0 | 99688 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [stellarium](/f24/package/stellarium) | 3 | 23532 | 0.0 | Abkhazian <ab@li.org> | 
+ | [openerp](/f24/package/openerp) | 3 | 23720 | 0.0 |  | 
+ | [openerp7](/f24/package/openerp7) | 1 | 22637 | 0.0 | Abkhazian <ab@li.org> | 
+ | [gscan2pdf](/f24/package/gscan2pdf) | 0 | 1839 | 0.0 | Abkhazian <ab@li.org> | 
+ | [libreoffice](/f24/package/libreoffice) | 0 | 99688 | 0.0 | LANGUAGE <LL@li.org> | 
 {.sortable}
 
 

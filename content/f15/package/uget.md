@@ -18,17 +18,17 @@ The package uget (version 1.8.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [be]({{< ref "/f15/language/be.md" >}}) | 583 | 583 | 100.0 | /mnt/stockage/packages/f15/uget/po/be.po | 
- | [cs]({{< ref "/f15/language/cs.md" >}}) | 583 | 583 | 100.0 | /mnt/stockage/packages/f15/uget/po/cs.po | 
- | [it]({{< ref "/f15/language/it.md" >}}) | 583 | 583 | 100.0 | /mnt/stockage/packages/f15/uget/po/it.po | 
- | [zh_Hant]({{< ref "/f15/language/zh_Hant.md" >}}) | 551 | 583 | 94.5 | /mnt/stockage/packages/f15/uget/po/zh_TW.po | 
- | [zh_Hans]({{< ref "/f15/language/zh_Hans.md" >}}) | 535 | 583 | 91.8 | /mnt/stockage/packages/f15/uget/po/zh_CN.po | 
- | [ru]({{< ref "/f15/language/ru.md" >}}) | 1012 | 1166 | 86.8 | /mnt/stockage/packages/f15/uget/po/ru.po/mnt/stockage/packages/f15/uget/po/uk.po | 
- | [es]({{< ref "/f15/language/es.md" >}}) | 451 | 583 | 77.4 | /mnt/stockage/packages/f15/uget/po/es.po | 
- | [tr]({{< ref "/f15/language/tr.md" >}}) | 447 | 583 | 76.7 | /mnt/stockage/packages/f15/uget/po/tr.po | 
- | [de]({{< ref "/f15/language/de.md" >}}) | 347 | 583 | 59.5 | /mnt/stockage/packages/f15/uget/po/de.po | 
- | [fr]({{< ref "/f15/language/fr.md" >}}) | 37 | 583 | 6.3 | /mnt/stockage/packages/f15/uget/po/fr.po | 
- | [pl]({{< ref "/f15/language/pl.md" >}}) | 35 | 583 | 6.0 | /mnt/stockage/packages/f15/uget/po/pl.po | 
+ | [be](/f15/language/be) | 583 | 583 | 100.0 | /mnt/stockage/packages/f15/uget/po/be.po | 
+ | [cs](/f15/language/cs) | 583 | 583 | 100.0 | /mnt/stockage/packages/f15/uget/po/cs.po | 
+ | [it](/f15/language/it) | 583 | 583 | 100.0 | /mnt/stockage/packages/f15/uget/po/it.po | 
+ | [zh_Hant](/f15/language/zh_Hant) | 551 | 583 | 94.5 | /mnt/stockage/packages/f15/uget/po/zh_TW.po | 
+ | [zh_Hans](/f15/language/zh_Hans) | 535 | 583 | 91.8 | /mnt/stockage/packages/f15/uget/po/zh_CN.po | 
+ | [ru](/f15/language/ru) | 1012 | 1166 | 86.8 | /mnt/stockage/packages/f15/uget/po/ru.po/mnt/stockage/packages/f15/uget/po/uk.po | 
+ | [es](/f15/language/es) | 451 | 583 | 77.4 | /mnt/stockage/packages/f15/uget/po/es.po | 
+ | [tr](/f15/language/tr) | 447 | 583 | 76.7 | /mnt/stockage/packages/f15/uget/po/tr.po | 
+ | [de](/f15/language/de) | 347 | 583 | 59.5 | /mnt/stockage/packages/f15/uget/po/de.po | 
+ | [fr](/f15/language/fr) | 37 | 583 | 6.3 | /mnt/stockage/packages/f15/uget/po/fr.po | 
+ | [pl](/f15/language/pl) | 35 | 583 | 6.0 | /mnt/stockage/packages/f15/uget/po/pl.po | 
 {.sortable}
 
 

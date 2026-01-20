@@ -18,35 +18,35 @@ The package isoimagewriter (version 0.8):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [nl]({{< ref "/f36/language/nl.md" >}}) | 390 | 390 | 100.0 | /mnt/stockage/packages/f36/isoimagewriter/po/nl/isoimagewriter.po | 
- | [nn]({{< ref "/f36/language/nn.md" >}}) | 407 | 407 | 100.0 | /mnt/stockage/packages/f36/isoimagewriter/po/nn/isoimagewriter.po | 
- | [uk]({{< ref "/f36/language/uk.md" >}}) | 390 | 390 | 100.0 | /mnt/stockage/packages/f36/isoimagewriter/po/uk/isoimagewriter.po | 
- | [de]({{< ref "/f36/language/de.md" >}}) | 330 | 390 | 84.6 | /mnt/stockage/packages/f36/isoimagewriter/po/de/isoimagewriter.po | 
- | [ca]({{< ref "/f36/language/ca.md" >}}) | 266 | 390 | 68.2 | /mnt/stockage/packages/f36/isoimagewriter/po/ca/isoimagewriter.po | 
- | [ca@valencia]({{< ref "/f36/language/ca@valencia.md" >}}) | 266 | 390 | 68.2 | /mnt/stockage/packages/f36/isoimagewriter/po/ca@valencia/isoimagewriter.po | 
- | [el]({{< ref "/f36/language/el.md" >}}) | 266 | 390 | 68.2 | /mnt/stockage/packages/f36/isoimagewriter/po/el/isoimagewriter.po | 
- | [en_GB]({{< ref "/f36/language/en_GB.md" >}}) | 266 | 390 | 68.2 | /mnt/stockage/packages/f36/isoimagewriter/po/en_GB/isoimagewriter.po | 
- | [es]({{< ref "/f36/language/es.md" >}}) | 266 | 390 | 68.2 | /mnt/stockage/packages/f36/isoimagewriter/po/es/isoimagewriter.po | 
- | [fi]({{< ref "/f36/language/fi.md" >}}) | 266 | 390 | 68.2 | /mnt/stockage/packages/f36/isoimagewriter/po/fi/isoimagewriter.po | 
- | [fr]({{< ref "/f36/language/fr.md" >}}) | 266 | 390 | 68.2 | /mnt/stockage/packages/f36/isoimagewriter/po/fr/isoimagewriter.po | 
- | [gl]({{< ref "/f36/language/gl.md" >}}) | 266 | 390 | 68.2 | /mnt/stockage/packages/f36/isoimagewriter/po/gl/isoimagewriter.po | 
- | [id]({{< ref "/f36/language/id.md" >}}) | 266 | 390 | 68.2 | /mnt/stockage/packages/f36/isoimagewriter/po/id/isoimagewriter.po | 
- | [it]({{< ref "/f36/language/it.md" >}}) | 266 | 390 | 68.2 | /mnt/stockage/packages/f36/isoimagewriter/po/it/isoimagewriter.po | 
- | [ko]({{< ref "/f36/language/ko.md" >}}) | 266 | 390 | 68.2 | /mnt/stockage/packages/f36/isoimagewriter/po/ko/isoimagewriter.po | 
- | [lt]({{< ref "/f36/language/lt.md" >}}) | 266 | 390 | 68.2 | /mnt/stockage/packages/f36/isoimagewriter/po/lt/isoimagewriter.po | 
- | [pl]({{< ref "/f36/language/pl.md" >}}) | 266 | 390 | 68.2 | /mnt/stockage/packages/f36/isoimagewriter/po/pl/isoimagewriter.po | 
- | [pt]({{< ref "/f36/language/pt.md" >}}) | 266 | 390 | 68.2 | /mnt/stockage/packages/f36/isoimagewriter/po/pt/isoimagewriter.po | 
- | [pt_BR]({{< ref "/f36/language/pt_BR.md" >}}) | 266 | 390 | 68.2 | /mnt/stockage/packages/f36/isoimagewriter/po/pt_BR/isoimagewriter.po | 
- | [ru]({{< ref "/f36/language/ru.md" >}}) | 266 | 390 | 68.2 | /mnt/stockage/packages/f36/isoimagewriter/po/ru/isoimagewriter.po | 
- | [sv]({{< ref "/f36/language/sv.md" >}}) | 266 | 390 | 68.2 | /mnt/stockage/packages/f36/isoimagewriter/po/sv/isoimagewriter.po | 
- | [tr]({{< ref "/f36/language/tr.md" >}}) | 266 | 390 | 68.2 | /mnt/stockage/packages/f36/isoimagewriter/po/tr/isoimagewriter.po | 
- | [zh_Hant]({{< ref "/f36/language/zh_Hant.md" >}}) | 266 | 390 | 68.2 | /mnt/stockage/packages/f36/isoimagewriter/po/zh_TW/isoimagewriter.po | 
- | [da]({{< ref "/f36/language/da.md" >}}) | 264 | 390 | 67.7 | /mnt/stockage/packages/f36/isoimagewriter/po/da/isoimagewriter.po | 
- | [sk]({{< ref "/f36/language/sk.md" >}}) | 254 | 390 | 65.1 | /mnt/stockage/packages/f36/isoimagewriter/po/sk/isoimagewriter.po | 
- | [ia]({{< ref "/f36/language/ia.md" >}}) | 161 | 390 | 41.3 | /mnt/stockage/packages/f36/isoimagewriter/po/ia/isoimagewriter.po | 
- | [cs]({{< ref "/f36/language/cs.md" >}}) | 124 | 390 | 31.8 | /mnt/stockage/packages/f36/isoimagewriter/po/cs/isoimagewriter.po | 
- | [zh_Hans]({{< ref "/f36/language/zh_Hans.md" >}}) | 41 | 390 | 10.5 | /mnt/stockage/packages/f36/isoimagewriter/po/zh_CN/isoimagewriter.po | 
- | [ja]({{< ref "/f36/language/ja.md" >}}) | 0 | 390 | 0.0 | /mnt/stockage/packages/f36/isoimagewriter/po/ja/isoimagewriter.po | 
+ | [nl](/f36/language/nl) | 390 | 390 | 100.0 | /mnt/stockage/packages/f36/isoimagewriter/po/nl/isoimagewriter.po | 
+ | [nn](/f36/language/nn) | 407 | 407 | 100.0 | /mnt/stockage/packages/f36/isoimagewriter/po/nn/isoimagewriter.po | 
+ | [uk](/f36/language/uk) | 390 | 390 | 100.0 | /mnt/stockage/packages/f36/isoimagewriter/po/uk/isoimagewriter.po | 
+ | [de](/f36/language/de) | 330 | 390 | 84.6 | /mnt/stockage/packages/f36/isoimagewriter/po/de/isoimagewriter.po | 
+ | [ca](/f36/language/ca) | 266 | 390 | 68.2 | /mnt/stockage/packages/f36/isoimagewriter/po/ca/isoimagewriter.po | 
+ | [ca@valencia](/f36/language/ca@valencia) | 266 | 390 | 68.2 | /mnt/stockage/packages/f36/isoimagewriter/po/ca@valencia/isoimagewriter.po | 
+ | [el](/f36/language/el) | 266 | 390 | 68.2 | /mnt/stockage/packages/f36/isoimagewriter/po/el/isoimagewriter.po | 
+ | [en_GB](/f36/language/en_GB) | 266 | 390 | 68.2 | /mnt/stockage/packages/f36/isoimagewriter/po/en_GB/isoimagewriter.po | 
+ | [es](/f36/language/es) | 266 | 390 | 68.2 | /mnt/stockage/packages/f36/isoimagewriter/po/es/isoimagewriter.po | 
+ | [fi](/f36/language/fi) | 266 | 390 | 68.2 | /mnt/stockage/packages/f36/isoimagewriter/po/fi/isoimagewriter.po | 
+ | [fr](/f36/language/fr) | 266 | 390 | 68.2 | /mnt/stockage/packages/f36/isoimagewriter/po/fr/isoimagewriter.po | 
+ | [gl](/f36/language/gl) | 266 | 390 | 68.2 | /mnt/stockage/packages/f36/isoimagewriter/po/gl/isoimagewriter.po | 
+ | [id](/f36/language/id) | 266 | 390 | 68.2 | /mnt/stockage/packages/f36/isoimagewriter/po/id/isoimagewriter.po | 
+ | [it](/f36/language/it) | 266 | 390 | 68.2 | /mnt/stockage/packages/f36/isoimagewriter/po/it/isoimagewriter.po | 
+ | [ko](/f36/language/ko) | 266 | 390 | 68.2 | /mnt/stockage/packages/f36/isoimagewriter/po/ko/isoimagewriter.po | 
+ | [lt](/f36/language/lt) | 266 | 390 | 68.2 | /mnt/stockage/packages/f36/isoimagewriter/po/lt/isoimagewriter.po | 
+ | [pl](/f36/language/pl) | 266 | 390 | 68.2 | /mnt/stockage/packages/f36/isoimagewriter/po/pl/isoimagewriter.po | 
+ | [pt](/f36/language/pt) | 266 | 390 | 68.2 | /mnt/stockage/packages/f36/isoimagewriter/po/pt/isoimagewriter.po | 
+ | [pt_BR](/f36/language/pt_BR) | 266 | 390 | 68.2 | /mnt/stockage/packages/f36/isoimagewriter/po/pt_BR/isoimagewriter.po | 
+ | [ru](/f36/language/ru) | 266 | 390 | 68.2 | /mnt/stockage/packages/f36/isoimagewriter/po/ru/isoimagewriter.po | 
+ | [sv](/f36/language/sv) | 266 | 390 | 68.2 | /mnt/stockage/packages/f36/isoimagewriter/po/sv/isoimagewriter.po | 
+ | [tr](/f36/language/tr) | 266 | 390 | 68.2 | /mnt/stockage/packages/f36/isoimagewriter/po/tr/isoimagewriter.po | 
+ | [zh_Hant](/f36/language/zh_Hant) | 266 | 390 | 68.2 | /mnt/stockage/packages/f36/isoimagewriter/po/zh_TW/isoimagewriter.po | 
+ | [da](/f36/language/da) | 264 | 390 | 67.7 | /mnt/stockage/packages/f36/isoimagewriter/po/da/isoimagewriter.po | 
+ | [sk](/f36/language/sk) | 254 | 390 | 65.1 | /mnt/stockage/packages/f36/isoimagewriter/po/sk/isoimagewriter.po | 
+ | [ia](/f36/language/ia) | 161 | 390 | 41.3 | /mnt/stockage/packages/f36/isoimagewriter/po/ia/isoimagewriter.po | 
+ | [cs](/f36/language/cs) | 124 | 390 | 31.8 | /mnt/stockage/packages/f36/isoimagewriter/po/cs/isoimagewriter.po | 
+ | [zh_Hans](/f36/language/zh_Hans) | 41 | 390 | 10.5 | /mnt/stockage/packages/f36/isoimagewriter/po/zh_CN/isoimagewriter.po | 
+ | [ja](/f36/language/ja) | 0 | 390 | 0.0 | /mnt/stockage/packages/f36/isoimagewriter/po/ja/isoimagewriter.po | 
 {.sortable}
 
 

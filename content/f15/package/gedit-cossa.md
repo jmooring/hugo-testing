@@ -18,9 +18,9 @@ The package gedit-cossa (version 3.0.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f15/language/de.md" >}}) | 68 | 68 | 100.0 | /mnt/stockage/packages/f15/gedit-cossa/po/de.po | 
- | [es]({{< ref "/f15/language/es.md" >}}) | 68 | 68 | 100.0 | /mnt/stockage/packages/f15/gedit-cossa/po/es.po | 
- | [sl]({{< ref "/f15/language/sl.md" >}}) | 68 | 68 | 100.0 | /mnt/stockage/packages/f15/gedit-cossa/po/sl.po | 
+ | [de](/f15/language/de) | 68 | 68 | 100.0 | /mnt/stockage/packages/f15/gedit-cossa/po/de.po | 
+ | [es](/f15/language/es) | 68 | 68 | 100.0 | /mnt/stockage/packages/f15/gedit-cossa/po/es.po | 
+ | [sl](/f15/language/sl) | 68 | 68 | 100.0 | /mnt/stockage/packages/f15/gedit-cossa/po/sl.po | 
 {.sortable}
 
 

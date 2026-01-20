@@ -39,8 +39,8 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [deja-dup]({{< ref "/f32/package/deja-dup.md" >}}) | 246 | 1623 | 15.2 | Mon <mnw@li.org> | 
- | [snapd]({{< ref "/f32/package/snapd.md" >}}) | 48 | 4307 | 1.1 | Mon <mnw@li.org> | 
+ | [deja-dup](/f32/package/deja-dup) | 246 | 1623 | 15.2 | Mon <mnw@li.org> | 
+ | [snapd](/f32/package/snapd) | 48 | 4307 | 1.1 | Mon <mnw@li.org> | 
 {.sortable}
 
 

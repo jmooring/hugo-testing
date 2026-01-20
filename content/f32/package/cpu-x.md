@@ -18,34 +18,34 @@ The package cpu-x (version 4.1.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f32/language/fr.md" >}}) | 904 | 904 | 100.0 | /mnt/stockage/packages/f32/cpu-x/po/fr.po | 
- | [pt_BR]({{< ref "/f32/language/pt_BR.md" >}}) | 904 | 904 | 100.0 | /mnt/stockage/packages/f32/cpu-x/po/pt_BR.po | 
- | [tr]({{< ref "/f32/language/tr.md" >}}) | 904 | 904 | 100.0 | /mnt/stockage/packages/f32/cpu-x/po/tr.po | 
- | [zh_Hans]({{< ref "/f32/language/zh_Hans.md" >}}) | 904 | 904 | 100.0 | /mnt/stockage/packages/f32/cpu-x/po/zh.po | 
- | [it]({{< ref "/f32/language/it.md" >}}) | 898 | 904 | 99.3 | /mnt/stockage/packages/f32/cpu-x/po/it.po | 
- | [pl]({{< ref "/f32/language/pl.md" >}}) | 898 | 904 | 99.3 | /mnt/stockage/packages/f32/cpu-x/po/pl.po | 
- | [mr]({{< ref "/f32/language/mr.md" >}}) | 867 | 904 | 95.9 | /mnt/stockage/packages/f32/cpu-x/po/mr.po | 
- | [pt]({{< ref "/f32/language/pt.md" >}}) | 824 | 904 | 91.2 | /mnt/stockage/packages/f32/cpu-x/po/pt.po | 
- | [ru]({{< ref "/f32/language/ru.md" >}}) | 824 | 904 | 91.2 | /mnt/stockage/packages/f32/cpu-x/po/ru.po | 
- | [de]({{< ref "/f32/language/de.md" >}}) | 767 | 904 | 84.8 | /mnt/stockage/packages/f32/cpu-x/po/de.po | 
- | [ja]({{< ref "/f32/language/ja.md" >}}) | 722 | 904 | 79.9 | /mnt/stockage/packages/f32/cpu-x/po/ja.po | 
- | [nb_NO]({{< ref "/f32/language/nb_NO.md" >}}) | 720 | 904 | 79.6 | /mnt/stockage/packages/f32/cpu-x/po/nb_NO.po | 
- | [cs]({{< ref "/f32/language/cs.md" >}}) | 677 | 904 | 74.9 | /mnt/stockage/packages/f32/cpu-x/po/cs_CZ.po | 
- | [es]({{< ref "/f32/language/es.md" >}}) | 627 | 904 | 69.4 | /mnt/stockage/packages/f32/cpu-x/po/es.po | 
- | [zh_Hant]({{< ref "/f32/language/zh_Hant.md" >}}) | 372 | 904 | 41.2 | /mnt/stockage/packages/f32/cpu-x/po/zh_Hant.po | 
- | [id]({{< ref "/f32/language/id.md" >}}) | 324 | 904 | 35.8 | /mnt/stockage/packages/f32/cpu-x/po/id.po | 
- | [ar]({{< ref "/f32/language/ar.md" >}}) | 257 | 904 | 28.4 | /mnt/stockage/packages/f32/cpu-x/po/ar.po | 
- | [ms]({{< ref "/f32/language/ms.md" >}}) | 255 | 904 | 28.2 | /mnt/stockage/packages/f32/cpu-x/po/ms.po | 
- | [fi]({{< ref "/f32/language/fi.md" >}}) | 249 | 904 | 27.5 | /mnt/stockage/packages/f32/cpu-x/po/fi.po | 
- | [hu]({{< ref "/f32/language/hu.md" >}}) | 183 | 904 | 20.2 | /mnt/stockage/packages/f32/cpu-x/po/hu.po | 
- | [uk]({{< ref "/f32/language/uk.md" >}}) | 153 | 904 | 16.9 | /mnt/stockage/packages/f32/cpu-x/po/uk.po | 
- | [lv]({{< ref "/f32/language/lv.md" >}}) | 144 | 904 | 15.9 | /mnt/stockage/packages/f32/cpu-x/po/lv.po | 
- | [tzm]({{< ref "/f32/language/tzm.md" >}}) | 53 | 904 | 5.9 | /mnt/stockage/packages/f32/cpu-x/po/tzm.po | 
- | [da]({{< ref "/f32/language/da.md" >}}) | 52 | 904 | 5.8 | /mnt/stockage/packages/f32/cpu-x/po/da.po | 
- | [pa]({{< ref "/f32/language/pa.md" >}}) | 8 | 904 | 0.9 | /mnt/stockage/packages/f32/cpu-x/po/pa.po | 
- | [el]({{< ref "/f32/language/el.md" >}}) | 3 | 904 | 0.3 | /mnt/stockage/packages/f32/cpu-x/po/el.po | 
- | [ber]({{< ref "/f32/language/ber.md" >}}) | 0 | 904 | 0.0 | /mnt/stockage/packages/f32/cpu-x/po/ber.po | 
- | [ko]({{< ref "/f32/language/ko.md" >}}) | 0 | 904 | 0.0 | /mnt/stockage/packages/f32/cpu-x/po/ko.po | 
+ | [fr](/f32/language/fr) | 904 | 904 | 100.0 | /mnt/stockage/packages/f32/cpu-x/po/fr.po | 
+ | [pt_BR](/f32/language/pt_BR) | 904 | 904 | 100.0 | /mnt/stockage/packages/f32/cpu-x/po/pt_BR.po | 
+ | [tr](/f32/language/tr) | 904 | 904 | 100.0 | /mnt/stockage/packages/f32/cpu-x/po/tr.po | 
+ | [zh_Hans](/f32/language/zh_Hans) | 904 | 904 | 100.0 | /mnt/stockage/packages/f32/cpu-x/po/zh.po | 
+ | [it](/f32/language/it) | 898 | 904 | 99.3 | /mnt/stockage/packages/f32/cpu-x/po/it.po | 
+ | [pl](/f32/language/pl) | 898 | 904 | 99.3 | /mnt/stockage/packages/f32/cpu-x/po/pl.po | 
+ | [mr](/f32/language/mr) | 867 | 904 | 95.9 | /mnt/stockage/packages/f32/cpu-x/po/mr.po | 
+ | [pt](/f32/language/pt) | 824 | 904 | 91.2 | /mnt/stockage/packages/f32/cpu-x/po/pt.po | 
+ | [ru](/f32/language/ru) | 824 | 904 | 91.2 | /mnt/stockage/packages/f32/cpu-x/po/ru.po | 
+ | [de](/f32/language/de) | 767 | 904 | 84.8 | /mnt/stockage/packages/f32/cpu-x/po/de.po | 
+ | [ja](/f32/language/ja) | 722 | 904 | 79.9 | /mnt/stockage/packages/f32/cpu-x/po/ja.po | 
+ | [nb_NO](/f32/language/nb_NO) | 720 | 904 | 79.6 | /mnt/stockage/packages/f32/cpu-x/po/nb_NO.po | 
+ | [cs](/f32/language/cs) | 677 | 904 | 74.9 | /mnt/stockage/packages/f32/cpu-x/po/cs_CZ.po | 
+ | [es](/f32/language/es) | 627 | 904 | 69.4 | /mnt/stockage/packages/f32/cpu-x/po/es.po | 
+ | [zh_Hant](/f32/language/zh_Hant) | 372 | 904 | 41.2 | /mnt/stockage/packages/f32/cpu-x/po/zh_Hant.po | 
+ | [id](/f32/language/id) | 324 | 904 | 35.8 | /mnt/stockage/packages/f32/cpu-x/po/id.po | 
+ | [ar](/f32/language/ar) | 257 | 904 | 28.4 | /mnt/stockage/packages/f32/cpu-x/po/ar.po | 
+ | [ms](/f32/language/ms) | 255 | 904 | 28.2 | /mnt/stockage/packages/f32/cpu-x/po/ms.po | 
+ | [fi](/f32/language/fi) | 249 | 904 | 27.5 | /mnt/stockage/packages/f32/cpu-x/po/fi.po | 
+ | [hu](/f32/language/hu) | 183 | 904 | 20.2 | /mnt/stockage/packages/f32/cpu-x/po/hu.po | 
+ | [uk](/f32/language/uk) | 153 | 904 | 16.9 | /mnt/stockage/packages/f32/cpu-x/po/uk.po | 
+ | [lv](/f32/language/lv) | 144 | 904 | 15.9 | /mnt/stockage/packages/f32/cpu-x/po/lv.po | 
+ | [tzm](/f32/language/tzm) | 53 | 904 | 5.9 | /mnt/stockage/packages/f32/cpu-x/po/tzm.po | 
+ | [da](/f32/language/da) | 52 | 904 | 5.8 | /mnt/stockage/packages/f32/cpu-x/po/da.po | 
+ | [pa](/f32/language/pa) | 8 | 904 | 0.9 | /mnt/stockage/packages/f32/cpu-x/po/pa.po | 
+ | [el](/f32/language/el) | 3 | 904 | 0.3 | /mnt/stockage/packages/f32/cpu-x/po/el.po | 
+ | [ber](/f32/language/ber) | 0 | 904 | 0.0 | /mnt/stockage/packages/f32/cpu-x/po/ber.po | 
+ | [ko](/f32/language/ko) | 0 | 904 | 0.0 | /mnt/stockage/packages/f32/cpu-x/po/ko.po | 
 {.sortable}
 
 

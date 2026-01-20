@@ -18,26 +18,26 @@ The package trytond-stock-forecast (version 4.0.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f29/language/ca.md" >}}) | 174 | 174 | 100.0 | /mnt/stockage/packages/f29/trytond-stock-forecast/locale/ca_ES.po | 
- | [de]({{< ref "/f29/language/de.md" >}}) | 174 | 174 | 100.0 | /mnt/stockage/packages/f29/trytond-stock-forecast/locale/de_DE.po | 
- | [es]({{< ref "/f29/language/es.md" >}}) | 174 | 174 | 100.0 | /mnt/stockage/packages/f29/trytond-stock-forecast/locale/es_ES.po | 
- | [es_AR]({{< ref "/f29/language/es_AR.md" >}}) | 174 | 174 | 100.0 | /mnt/stockage/packages/f29/trytond-stock-forecast/locale/es_AR.po | 
- | [es_CO]({{< ref "/f29/language/es_CO.md" >}}) | 174 | 174 | 100.0 | /mnt/stockage/packages/f29/trytond-stock-forecast/locale/es_CO.po | 
- | [es_EC]({{< ref "/f29/language/es_EC.md" >}}) | 174 | 174 | 100.0 | /mnt/stockage/packages/f29/trytond-stock-forecast/locale/es_EC.po | 
- | [fr]({{< ref "/f29/language/fr.md" >}}) | 174 | 174 | 100.0 | /mnt/stockage/packages/f29/trytond-stock-forecast/locale/fr_FR.po | 
- | [pt_BR]({{< ref "/f29/language/pt_BR.md" >}}) | 174 | 174 | 100.0 | /mnt/stockage/packages/f29/trytond-stock-forecast/locale/pt_BR.po | 
- | [sl]({{< ref "/f29/language/sl.md" >}}) | 174 | 174 | 100.0 | /mnt/stockage/packages/f29/trytond-stock-forecast/locale/sl_SI.po | 
- | [ru]({{< ref "/f29/language/ru.md" >}}) | 172 | 174 | 98.9 | /mnt/stockage/packages/f29/trytond-stock-forecast/locale/ru_RU.po | 
- | [es_MX]({{< ref "/f29/language/es_MX.md" >}}) | 150 | 174 | 86.2 | /mnt/stockage/packages/f29/trytond-stock-forecast/locale/es_MX.po | 
- | [bg]({{< ref "/f29/language/bg.md" >}}) | 115 | 174 | 66.1 | /mnt/stockage/packages/f29/trytond-stock-forecast/locale/bg_BG.po | 
- | [hu]({{< ref "/f29/language/hu.md" >}}) | 111 | 174 | 63.8 | /mnt/stockage/packages/f29/trytond-stock-forecast/locale/hu_HU.po | 
- | [cs]({{< ref "/f29/language/cs.md" >}}) | 0 | 174 | 0.0 | /mnt/stockage/packages/f29/trytond-stock-forecast/locale/cs_CZ.po | 
- | [it]({{< ref "/f29/language/it.md" >}}) | 0 | 174 | 0.0 | /mnt/stockage/packages/f29/trytond-stock-forecast/locale/it_IT.po | 
- | [ja]({{< ref "/f29/language/ja.md" >}}) | 0 | 174 | 0.0 | /mnt/stockage/packages/f29/trytond-stock-forecast/locale/ja_JP.po | 
- | [lo]({{< ref "/f29/language/lo.md" >}}) | 0 | 174 | 0.0 | /mnt/stockage/packages/f29/trytond-stock-forecast/locale/lo_LA.po | 
- | [lt]({{< ref "/f29/language/lt.md" >}}) | 0 | 174 | 0.0 | /mnt/stockage/packages/f29/trytond-stock-forecast/locale/lt_LT.po | 
- | [nl]({{< ref "/f29/language/nl.md" >}}) | 0 | 174 | 0.0 | /mnt/stockage/packages/f29/trytond-stock-forecast/locale/nl_NL.po | 
- | [zh_Hans]({{< ref "/f29/language/zh_Hans.md" >}}) | 0 | 174 | 0.0 | /mnt/stockage/packages/f29/trytond-stock-forecast/locale/zh_CN.po | 
+ | [ca](/f29/language/ca) | 174 | 174 | 100.0 | /mnt/stockage/packages/f29/trytond-stock-forecast/locale/ca_ES.po | 
+ | [de](/f29/language/de) | 174 | 174 | 100.0 | /mnt/stockage/packages/f29/trytond-stock-forecast/locale/de_DE.po | 
+ | [es](/f29/language/es) | 174 | 174 | 100.0 | /mnt/stockage/packages/f29/trytond-stock-forecast/locale/es_ES.po | 
+ | [es_AR](/f29/language/es_AR) | 174 | 174 | 100.0 | /mnt/stockage/packages/f29/trytond-stock-forecast/locale/es_AR.po | 
+ | [es_CO](/f29/language/es_CO) | 174 | 174 | 100.0 | /mnt/stockage/packages/f29/trytond-stock-forecast/locale/es_CO.po | 
+ | [es_EC](/f29/language/es_EC) | 174 | 174 | 100.0 | /mnt/stockage/packages/f29/trytond-stock-forecast/locale/es_EC.po | 
+ | [fr](/f29/language/fr) | 174 | 174 | 100.0 | /mnt/stockage/packages/f29/trytond-stock-forecast/locale/fr_FR.po | 
+ | [pt_BR](/f29/language/pt_BR) | 174 | 174 | 100.0 | /mnt/stockage/packages/f29/trytond-stock-forecast/locale/pt_BR.po | 
+ | [sl](/f29/language/sl) | 174 | 174 | 100.0 | /mnt/stockage/packages/f29/trytond-stock-forecast/locale/sl_SI.po | 
+ | [ru](/f29/language/ru) | 172 | 174 | 98.9 | /mnt/stockage/packages/f29/trytond-stock-forecast/locale/ru_RU.po | 
+ | [es_MX](/f29/language/es_MX) | 150 | 174 | 86.2 | /mnt/stockage/packages/f29/trytond-stock-forecast/locale/es_MX.po | 
+ | [bg](/f29/language/bg) | 115 | 174 | 66.1 | /mnt/stockage/packages/f29/trytond-stock-forecast/locale/bg_BG.po | 
+ | [hu](/f29/language/hu) | 111 | 174 | 63.8 | /mnt/stockage/packages/f29/trytond-stock-forecast/locale/hu_HU.po | 
+ | [cs](/f29/language/cs) | 0 | 174 | 0.0 | /mnt/stockage/packages/f29/trytond-stock-forecast/locale/cs_CZ.po | 
+ | [it](/f29/language/it) | 0 | 174 | 0.0 | /mnt/stockage/packages/f29/trytond-stock-forecast/locale/it_IT.po | 
+ | [ja](/f29/language/ja) | 0 | 174 | 0.0 | /mnt/stockage/packages/f29/trytond-stock-forecast/locale/ja_JP.po | 
+ | [lo](/f29/language/lo) | 0 | 174 | 0.0 | /mnt/stockage/packages/f29/trytond-stock-forecast/locale/lo_LA.po | 
+ | [lt](/f29/language/lt) | 0 | 174 | 0.0 | /mnt/stockage/packages/f29/trytond-stock-forecast/locale/lt_LT.po | 
+ | [nl](/f29/language/nl) | 0 | 174 | 0.0 | /mnt/stockage/packages/f29/trytond-stock-forecast/locale/nl_NL.po | 
+ | [zh_Hans](/f29/language/zh_Hans) | 0 | 174 | 0.0 | /mnt/stockage/packages/f29/trytond-stock-forecast/locale/zh_CN.po | 
 {.sortable}
 
 

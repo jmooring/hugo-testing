@@ -18,15 +18,15 @@ The package cockpit-composer (version 41):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ja]({{< ref "/f35/language/ja.md" >}}) | 2011 | 2011 | 100.0 | /mnt/stockage/packages/f35/cockpit-composer/po/ja.po | 
- | [ko]({{< ref "/f35/language/ko.md" >}}) | 2011 | 2011 | 100.0 | /mnt/stockage/packages/f35/cockpit-composer/po/ko.po | 
- | [tr]({{< ref "/f35/language/tr.md" >}}) | 2011 | 2011 | 100.0 | /mnt/stockage/packages/f35/cockpit-composer/po/tr.po | 
- | [zh_Hans]({{< ref "/f35/language/zh_Hans.md" >}}) | 2011 | 2011 | 100.0 | /mnt/stockage/packages/f35/cockpit-composer/po/zh_CN.po | 
- | [uk]({{< ref "/f35/language/uk.md" >}}) | 1921 | 2011 | 95.5 | /mnt/stockage/packages/f35/cockpit-composer/po/uk.po | 
- | [fr]({{< ref "/f35/language/fr.md" >}}) | 966 | 2011 | 48.0 | /mnt/stockage/packages/f35/cockpit-composer/po/fr.po | 
- | [cs]({{< ref "/f35/language/cs.md" >}}) | 953 | 2011 | 47.4 | /mnt/stockage/packages/f35/cockpit-composer/po/cs.po | 
- | [de]({{< ref "/f35/language/de.md" >}}) | 731 | 2011 | 36.4 | /mnt/stockage/packages/f35/cockpit-composer/po/de.po | 
- | [ka]({{< ref "/f35/language/ka.md" >}}) | 602 | 2011 | 29.9 | /mnt/stockage/packages/f35/cockpit-composer/po/ka.po | 
+ | [ja](/f35/language/ja) | 2011 | 2011 | 100.0 | /mnt/stockage/packages/f35/cockpit-composer/po/ja.po | 
+ | [ko](/f35/language/ko) | 2011 | 2011 | 100.0 | /mnt/stockage/packages/f35/cockpit-composer/po/ko.po | 
+ | [tr](/f35/language/tr) | 2011 | 2011 | 100.0 | /mnt/stockage/packages/f35/cockpit-composer/po/tr.po | 
+ | [zh_Hans](/f35/language/zh_Hans) | 2011 | 2011 | 100.0 | /mnt/stockage/packages/f35/cockpit-composer/po/zh_CN.po | 
+ | [uk](/f35/language/uk) | 1921 | 2011 | 95.5 | /mnt/stockage/packages/f35/cockpit-composer/po/uk.po | 
+ | [fr](/f35/language/fr) | 966 | 2011 | 48.0 | /mnt/stockage/packages/f35/cockpit-composer/po/fr.po | 
+ | [cs](/f35/language/cs) | 953 | 2011 | 47.4 | /mnt/stockage/packages/f35/cockpit-composer/po/cs.po | 
+ | [de](/f35/language/de) | 731 | 2011 | 36.4 | /mnt/stockage/packages/f35/cockpit-composer/po/de.po | 
+ | [ka](/f35/language/ka) | 602 | 2011 | 29.9 | /mnt/stockage/packages/f35/cockpit-composer/po/ka.po | 
 {.sortable}
 
 

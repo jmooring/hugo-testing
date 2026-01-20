@@ -18,24 +18,24 @@ The package cgit (version 1.2.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [bg]({{< ref "/f34/language/bg.md" >}}) | 36106 | 36106 | 100.0 | /mnt/stockage/packages/f34/cgit/git-gui/po/bg.po/mnt/stockage/packages/f34/cgit/git-gui/po/glossary/bg.po/mnt/stockage/packages/f34/cgit/gitk-git/po/bg.po/mnt/stockage/packages/f34/cgit/po/bg.po | 
- | [de]({{< ref "/f34/language/de.md" >}}) | 35782 | 35782 | 100.0 | /mnt/stockage/packages/f34/cgit/git-gui/po/de.po/mnt/stockage/packages/f34/cgit/git-gui/po/glossary/de.po/mnt/stockage/packages/f34/cgit/gitk-git/po/de.po/mnt/stockage/packages/f34/cgit/po/de.po | 
- | [is]({{< ref "/f34/language/is.md" >}}) | 81 | 81 | 100.0 | /mnt/stockage/packages/f34/cgit/po/is.po | 
- | [ko]({{< ref "/f34/language/ko.md" >}}) | 24346 | 24346 | 100.0 | /mnt/stockage/packages/f34/cgit/po/ko.po | 
- | [pt]({{< ref "/f34/language/pt.md" >}}) | 25334 | 25334 | 100.0 | /mnt/stockage/packages/f34/cgit/git-gui/po/pt_pt.po/mnt/stockage/packages/f34/cgit/git-gui/po/glossary/pt_pt.po/mnt/stockage/packages/f34/cgit/gitk-git/po/pt_pt.po/mnt/stockage/packages/f34/cgit/po/pt_PT.po | 
- | [sv]({{< ref "/f34/language/sv.md" >}}) | 35890 | 35890 | 100.0 | /mnt/stockage/packages/f34/cgit/git-gui/po/sv.po/mnt/stockage/packages/f34/cgit/gitk-git/po/sv.po/mnt/stockage/packages/f34/cgit/po/sv.po | 
- | [vi]({{< ref "/f34/language/vi.md" >}}) | 35865 | 35865 | 100.0 | /mnt/stockage/packages/f34/cgit/git-gui/po/vi.po/mnt/stockage/packages/f34/cgit/gitk-git/po/vi.po/mnt/stockage/packages/f34/cgit/po/vi.po | 
- | [fr]({{< ref "/f34/language/fr.md" >}}) | 35776 | 35789 | 100.0 | /mnt/stockage/packages/f34/cgit/git-gui/po/fr.po/mnt/stockage/packages/f34/cgit/git-gui/po/glossary/fr.po/mnt/stockage/packages/f34/cgit/gitk-git/po/fr.po/mnt/stockage/packages/f34/cgit/po/fr.po | 
- | [ja]({{< ref "/f34/language/ja.md" >}}) | 3675 | 3677 | 99.9 | /mnt/stockage/packages/f34/cgit/git-gui/po/ja.po/mnt/stockage/packages/f34/cgit/gitk-git/po/ja.po | 
- | [zh_Hans]({{< ref "/f34/language/zh_Hans.md" >}}) | 67349 | 67496 | 99.8 | /mnt/stockage/packages/f34/cgit/git-gui/po/zh_cn.po/mnt/stockage/packages/f34/cgit/git-gui/po/glossary/zh_cn.po/mnt/stockage/packages/f34/cgit/gitk-git/po/zh_cn.po/mnt/stockage/packages/f34/cgit/po/zh_TW.po/mnt/stockage/packages/f34/cgit/po/zh_CN.po | 
- | [it]({{< ref "/f34/language/it.md" >}}) | 35608 | 35781 | 99.5 | /mnt/stockage/packages/f34/cgit/git-gui/po/it.po/mnt/stockage/packages/f34/cgit/git-gui/po/glossary/it.po/mnt/stockage/packages/f34/cgit/gitk-git/po/it.po/mnt/stockage/packages/f34/cgit/po/it.po | 
- | [es]({{< ref "/f34/language/es.md" >}}) | 32847 | 33348 | 98.5 | /mnt/stockage/packages/f34/cgit/gitk-git/po/es.po/mnt/stockage/packages/f34/cgit/po/es.po | 
- | [hu]({{< ref "/f34/language/hu.md" >}}) | 3304 | 3463 | 95.4 | /mnt/stockage/packages/f34/cgit/git-gui/po/hu.po/mnt/stockage/packages/f34/cgit/gitk-git/po/hu.po | 
- | [pt_BR]({{< ref "/f34/language/pt_BR.md" >}}) | 3391 | 3569 | 95.0 | /mnt/stockage/packages/f34/cgit/git-gui/po/pt_br.po/mnt/stockage/packages/f34/cgit/git-gui/po/glossary/pt_br.po/mnt/stockage/packages/f34/cgit/gitk-git/po/pt_br.po | 
- | [nb_NO]({{< ref "/f34/language/nb_NO.md" >}}) | 1882 | 2325 | 80.9 | /mnt/stockage/packages/f34/cgit/git-gui/po/nb.po | 
- | [ru]({{< ref "/f34/language/ru.md" >}}) | 27186 | 34189 | 79.5 | /mnt/stockage/packages/f34/cgit/git-gui/po/ru.po/mnt/stockage/packages/f34/cgit/gitk-git/po/ru.po/mnt/stockage/packages/f34/cgit/po/ru.po | 
- | [ca]({{< ref "/f34/language/ca.md" >}}) | 26274 | 33348 | 78.8 | /mnt/stockage/packages/f34/cgit/gitk-git/po/ca.po/mnt/stockage/packages/f34/cgit/po/ca.po | 
- | [el]({{< ref "/f34/language/el.md" >}}) | 9779 | 31237 | 31.3 | /mnt/stockage/packages/f34/cgit/git-gui/po/el.po/mnt/stockage/packages/f34/cgit/git-gui/po/glossary/el.po/mnt/stockage/packages/f34/cgit/po/el.po | 
+ | [bg](/f34/language/bg) | 36106 | 36106 | 100.0 | /mnt/stockage/packages/f34/cgit/git-gui/po/bg.po/mnt/stockage/packages/f34/cgit/git-gui/po/glossary/bg.po/mnt/stockage/packages/f34/cgit/gitk-git/po/bg.po/mnt/stockage/packages/f34/cgit/po/bg.po | 
+ | [de](/f34/language/de) | 35782 | 35782 | 100.0 | /mnt/stockage/packages/f34/cgit/git-gui/po/de.po/mnt/stockage/packages/f34/cgit/git-gui/po/glossary/de.po/mnt/stockage/packages/f34/cgit/gitk-git/po/de.po/mnt/stockage/packages/f34/cgit/po/de.po | 
+ | [is](/f34/language/is) | 81 | 81 | 100.0 | /mnt/stockage/packages/f34/cgit/po/is.po | 
+ | [ko](/f34/language/ko) | 24346 | 24346 | 100.0 | /mnt/stockage/packages/f34/cgit/po/ko.po | 
+ | [pt](/f34/language/pt) | 25334 | 25334 | 100.0 | /mnt/stockage/packages/f34/cgit/git-gui/po/pt_pt.po/mnt/stockage/packages/f34/cgit/git-gui/po/glossary/pt_pt.po/mnt/stockage/packages/f34/cgit/gitk-git/po/pt_pt.po/mnt/stockage/packages/f34/cgit/po/pt_PT.po | 
+ | [sv](/f34/language/sv) | 35890 | 35890 | 100.0 | /mnt/stockage/packages/f34/cgit/git-gui/po/sv.po/mnt/stockage/packages/f34/cgit/gitk-git/po/sv.po/mnt/stockage/packages/f34/cgit/po/sv.po | 
+ | [vi](/f34/language/vi) | 35865 | 35865 | 100.0 | /mnt/stockage/packages/f34/cgit/git-gui/po/vi.po/mnt/stockage/packages/f34/cgit/gitk-git/po/vi.po/mnt/stockage/packages/f34/cgit/po/vi.po | 
+ | [fr](/f34/language/fr) | 35776 | 35789 | 100.0 | /mnt/stockage/packages/f34/cgit/git-gui/po/fr.po/mnt/stockage/packages/f34/cgit/git-gui/po/glossary/fr.po/mnt/stockage/packages/f34/cgit/gitk-git/po/fr.po/mnt/stockage/packages/f34/cgit/po/fr.po | 
+ | [ja](/f34/language/ja) | 3675 | 3677 | 99.9 | /mnt/stockage/packages/f34/cgit/git-gui/po/ja.po/mnt/stockage/packages/f34/cgit/gitk-git/po/ja.po | 
+ | [zh_Hans](/f34/language/zh_Hans) | 67349 | 67496 | 99.8 | /mnt/stockage/packages/f34/cgit/git-gui/po/zh_cn.po/mnt/stockage/packages/f34/cgit/git-gui/po/glossary/zh_cn.po/mnt/stockage/packages/f34/cgit/gitk-git/po/zh_cn.po/mnt/stockage/packages/f34/cgit/po/zh_TW.po/mnt/stockage/packages/f34/cgit/po/zh_CN.po | 
+ | [it](/f34/language/it) | 35608 | 35781 | 99.5 | /mnt/stockage/packages/f34/cgit/git-gui/po/it.po/mnt/stockage/packages/f34/cgit/git-gui/po/glossary/it.po/mnt/stockage/packages/f34/cgit/gitk-git/po/it.po/mnt/stockage/packages/f34/cgit/po/it.po | 
+ | [es](/f34/language/es) | 32847 | 33348 | 98.5 | /mnt/stockage/packages/f34/cgit/gitk-git/po/es.po/mnt/stockage/packages/f34/cgit/po/es.po | 
+ | [hu](/f34/language/hu) | 3304 | 3463 | 95.4 | /mnt/stockage/packages/f34/cgit/git-gui/po/hu.po/mnt/stockage/packages/f34/cgit/gitk-git/po/hu.po | 
+ | [pt_BR](/f34/language/pt_BR) | 3391 | 3569 | 95.0 | /mnt/stockage/packages/f34/cgit/git-gui/po/pt_br.po/mnt/stockage/packages/f34/cgit/git-gui/po/glossary/pt_br.po/mnt/stockage/packages/f34/cgit/gitk-git/po/pt_br.po | 
+ | [nb_NO](/f34/language/nb_NO) | 1882 | 2325 | 80.9 | /mnt/stockage/packages/f34/cgit/git-gui/po/nb.po | 
+ | [ru](/f34/language/ru) | 27186 | 34189 | 79.5 | /mnt/stockage/packages/f34/cgit/git-gui/po/ru.po/mnt/stockage/packages/f34/cgit/gitk-git/po/ru.po/mnt/stockage/packages/f34/cgit/po/ru.po | 
+ | [ca](/f34/language/ca) | 26274 | 33348 | 78.8 | /mnt/stockage/packages/f34/cgit/gitk-git/po/ca.po/mnt/stockage/packages/f34/cgit/po/ca.po | 
+ | [el](/f34/language/el) | 9779 | 31237 | 31.3 | /mnt/stockage/packages/f34/cgit/git-gui/po/el.po/mnt/stockage/packages/f34/cgit/git-gui/po/glossary/el.po/mnt/stockage/packages/f34/cgit/po/el.po | 
 {.sortable}
 
 

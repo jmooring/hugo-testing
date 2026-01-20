@@ -18,7 +18,7 @@ The package R-expm (version 0.999.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f26/language/fr.md" >}}) | 36 | 122 | 29.5 | /mnt/stockage/packages/f26/R-expm/po/fr.po | 
+ | [fr](/f26/language/fr) | 36 | 122 | 29.5 | /mnt/stockage/packages/f26/R-expm/po/fr.po | 
 {.sortable}
 
 

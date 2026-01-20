@@ -38,10 +38,10 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [elementary-greeter]({{< ref "/f29/package/elementary-greeter.md" >}}) | 0 | 76 | 0.0 | Acehnese <ace@li.org> | 
- | [iso-codes]({{< ref "/f29/package/iso-codes.md" >}}) | 0 | 986 | 0.0 | Acehnese <https://hosted.weblate.org/projects/iso-codes/iso-3166-1/ace/> | 
- | [onboard]({{< ref "/f29/package/onboard.md" >}}) | 0 | 2318 | 0.0 | Acehnese <ace@li.org> | 
- | [pantheon-greeter]({{< ref "/f29/package/pantheon-greeter.md" >}}) | 0 | 29 | 0.0 | Acehnese <ace@li.org> | 
+ | [elementary-greeter](/f29/package/elementary-greeter) | 0 | 76 | 0.0 | Acehnese <ace@li.org> | 
+ | [iso-codes](/f29/package/iso-codes) | 0 | 986 | 0.0 | Acehnese <https://hosted.weblate.org/projects/iso-codes/iso-3166-1/ace/> | 
+ | [onboard](/f29/package/onboard) | 0 | 2318 | 0.0 | Acehnese <ace@li.org> | 
+ | [pantheon-greeter](/f29/package/pantheon-greeter) | 0 | 29 | 0.0 | Acehnese <ace@li.org> | 
 {.sortable}
 
 

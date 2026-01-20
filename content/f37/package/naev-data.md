@@ -18,15 +18,15 @@ The package naev-data (version 0.10.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ja]({{< ref "/f37/language/ja.md" >}}) | 296462 | 296462 | 100.0 | /mnt/stockage/packages/f37/naev-data/po/ja.po | 
- | [es]({{< ref "/f37/language/es.md" >}}) | 262241 | 296462 | 88.5 | /mnt/stockage/packages/f37/naev-data/po/es.po | 
- | [de]({{< ref "/f37/language/de.md" >}}) | 148637 | 296462 | 50.1 | /mnt/stockage/packages/f37/naev-data/po/de.po | 
- | [pt_BR]({{< ref "/f37/language/pt_BR.md" >}}) | 26679 | 296462 | 9.0 | /mnt/stockage/packages/f37/naev-data/po/pt_BR.po | 
- | [pt_PT]({{< ref "/f37/language/pt_PT.md" >}}) | 26450 | 296462 | 8.9 | /mnt/stockage/packages/f37/naev-data/po/pt_PT.po | 
- | [cs]({{< ref "/f37/language/cs.md" >}}) | 19403 | 296462 | 6.5 | /mnt/stockage/packages/f37/naev-data/po/cs.po | 
- | [it]({{< ref "/f37/language/it.md" >}}) | 17974 | 296462 | 6.1 | /mnt/stockage/packages/f37/naev-data/po/it.po | 
- | [ko]({{< ref "/f37/language/ko.md" >}}) | 11428 | 296462 | 3.9 | /mnt/stockage/packages/f37/naev-data/po/ko.po | 
- | [fr]({{< ref "/f37/language/fr.md" >}}) | 8783 | 296462 | 3.0 | /mnt/stockage/packages/f37/naev-data/po/fr.po | 
+ | [ja](/f37/language/ja) | 296462 | 296462 | 100.0 | /mnt/stockage/packages/f37/naev-data/po/ja.po | 
+ | [es](/f37/language/es) | 262241 | 296462 | 88.5 | /mnt/stockage/packages/f37/naev-data/po/es.po | 
+ | [de](/f37/language/de) | 148637 | 296462 | 50.1 | /mnt/stockage/packages/f37/naev-data/po/de.po | 
+ | [pt_BR](/f37/language/pt_BR) | 26679 | 296462 | 9.0 | /mnt/stockage/packages/f37/naev-data/po/pt_BR.po | 
+ | [pt_PT](/f37/language/pt_PT) | 26450 | 296462 | 8.9 | /mnt/stockage/packages/f37/naev-data/po/pt_PT.po | 
+ | [cs](/f37/language/cs) | 19403 | 296462 | 6.5 | /mnt/stockage/packages/f37/naev-data/po/cs.po | 
+ | [it](/f37/language/it) | 17974 | 296462 | 6.1 | /mnt/stockage/packages/f37/naev-data/po/it.po | 
+ | [ko](/f37/language/ko) | 11428 | 296462 | 3.9 | /mnt/stockage/packages/f37/naev-data/po/ko.po | 
+ | [fr](/f37/language/fr) | 8783 | 296462 | 3.0 | /mnt/stockage/packages/f37/naev-data/po/fr.po | 
 {.sortable}
 
 

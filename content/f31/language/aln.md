@@ -38,12 +38,12 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [certmonger]({{< ref "/f31/package/certmonger.md" >}}) | 0 | 2831 | 0.0 | Albanian Gheg (http://www.transifex.com/projects/p/certmonger/language/aln/) | 
- | [initial-setup]({{< ref "/f31/package/initial-setup.md" >}}) | 0 | 33 | 0.0 | Albanian Gheg (http://www.transifex.com/projects/p/initial-setup/language/aln/) | 
- | [policycoreutils]({{< ref "/f31/package/policycoreutils.md" >}}) | 0 | 7678 | 0.0 | Albanian Gheg (http://www.transifex.com/projects/p/fedora/language/aln/) | 
- | [python-meh]({{< ref "/f31/package/python-meh.md" >}}) | 0 | 109 | 0.0 | Albanian Gheg (http://www.transifex.com/projects/p/python-meh/language/aln/) | 
- | [setroubleshoot]({{< ref "/f31/package/setroubleshoot.md" >}}) | 0 | 660 | 0.0 | Albanian Gheg (http://www.transifex.com/projects/p/fedora/language/aln/) | 
- | [setroubleshoot-plugins]({{< ref "/f31/package/setroubleshoot-plugins.md" >}}) | 0 | 6208 | 0.0 | Albanian Gheg (http://www.transifex.com/projects/p/fedora/language/aln/) | 
+ | [certmonger](/f31/package/certmonger) | 0 | 2831 | 0.0 | Albanian Gheg (http://www.transifex.com/projects/p/certmonger/language/aln/) | 
+ | [initial-setup](/f31/package/initial-setup) | 0 | 33 | 0.0 | Albanian Gheg (http://www.transifex.com/projects/p/initial-setup/language/aln/) | 
+ | [policycoreutils](/f31/package/policycoreutils) | 0 | 7678 | 0.0 | Albanian Gheg (http://www.transifex.com/projects/p/fedora/language/aln/) | 
+ | [python-meh](/f31/package/python-meh) | 0 | 109 | 0.0 | Albanian Gheg (http://www.transifex.com/projects/p/python-meh/language/aln/) | 
+ | [setroubleshoot](/f31/package/setroubleshoot) | 0 | 660 | 0.0 | Albanian Gheg (http://www.transifex.com/projects/p/fedora/language/aln/) | 
+ | [setroubleshoot-plugins](/f31/package/setroubleshoot-plugins) | 0 | 6208 | 0.0 | Albanian Gheg (http://www.transifex.com/projects/p/fedora/language/aln/) | 
 {.sortable}
 
 

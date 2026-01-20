@@ -18,8 +18,8 @@ The package recapp (version 1.1.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ru]({{< ref "/f31/language/ru.md" >}}) | 156 | 156 | 100.0 | /mnt/stockage/packages/f31/recapp/po/ru.po | 
- | [it]({{< ref "/f31/language/it.md" >}}) | 144 | 156 | 92.3 | /mnt/stockage/packages/f31/recapp/po/it.po | 
+ | [ru](/f31/language/ru) | 156 | 156 | 100.0 | /mnt/stockage/packages/f31/recapp/po/ru.po | 
+ | [it](/f31/language/it) | 144 | 156 | 92.3 | /mnt/stockage/packages/f31/recapp/po/it.po | 
 {.sortable}
 
 

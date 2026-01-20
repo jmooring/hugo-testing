@@ -18,60 +18,60 @@ The package polari (version 3.30.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [as]({{< ref "/f29/language/as.md" >}}) | 373 | 373 | 100.0 | /mnt/stockage/packages/f29/polari/po/as.po | 
- | [be]({{< ref "/f29/language/be.md" >}}) | 811 | 811 | 100.0 | /mnt/stockage/packages/f29/polari/po/be.po | 
- | [bs]({{< ref "/f29/language/bs.md" >}}) | 382 | 382 | 100.0 | /mnt/stockage/packages/f29/polari/po/bs.po | 
- | [ca]({{< ref "/f29/language/ca.md" >}}) | 807 | 807 | 100.0 | /mnt/stockage/packages/f29/polari/po/ca.po | 
- | [ca@valencia]({{< ref "/f29/language/ca@valencia.md" >}}) | 790 | 790 | 100.0 | /mnt/stockage/packages/f29/polari/po/ca@valencia.po | 
- | [cs]({{< ref "/f29/language/cs.md" >}}) | 1982 | 1982 | 100.0 | /mnt/stockage/packages/f29/polari/help/cs/cs.po/mnt/stockage/packages/f29/polari/po/cs.po | 
- | [da]({{< ref "/f29/language/da.md" >}}) | 806 | 806 | 100.0 | /mnt/stockage/packages/f29/polari/po/da.po | 
- | [de]({{< ref "/f29/language/de.md" >}}) | 1982 | 1982 | 100.0 | /mnt/stockage/packages/f29/polari/help/de/de.po/mnt/stockage/packages/f29/polari/po/de.po | 
- | [el]({{< ref "/f29/language/el.md" >}}) | 811 | 811 | 100.0 | /mnt/stockage/packages/f29/polari/po/el.po | 
- | [en_GB]({{< ref "/f29/language/en_GB.md" >}}) | 810 | 810 | 100.0 | /mnt/stockage/packages/f29/polari/po/en_GB.po | 
- | [eo]({{< ref "/f29/language/eo.md" >}}) | 755 | 755 | 100.0 | /mnt/stockage/packages/f29/polari/po/eo.po | 
- | [es]({{< ref "/f29/language/es.md" >}}) | 1982 | 1982 | 100.0 | /mnt/stockage/packages/f29/polari/help/es/es.po/mnt/stockage/packages/f29/polari/po/es.po | 
- | [et]({{< ref "/f29/language/et.md" >}}) | 806 | 806 | 100.0 | /mnt/stockage/packages/f29/polari/po/et.po | 
- | [eu]({{< ref "/f29/language/eu.md" >}}) | 790 | 790 | 100.0 | /mnt/stockage/packages/f29/polari/po/eu.po | 
- | [fa]({{< ref "/f29/language/fa.md" >}}) | 790 | 790 | 100.0 | /mnt/stockage/packages/f29/polari/po/fa.po | 
- | [fi]({{< ref "/f29/language/fi.md" >}}) | 811 | 811 | 100.0 | /mnt/stockage/packages/f29/polari/po/fi.po | 
- | [fr]({{< ref "/f29/language/fr.md" >}}) | 1982 | 1982 | 100.0 | /mnt/stockage/packages/f29/polari/help/fr/fr.po/mnt/stockage/packages/f29/polari/po/fr.po | 
- | [fur]({{< ref "/f29/language/fur.md" >}}) | 811 | 811 | 100.0 | /mnt/stockage/packages/f29/polari/po/fur.po | 
- | [gl]({{< ref "/f29/language/gl.md" >}}) | 806 | 806 | 100.0 | /mnt/stockage/packages/f29/polari/po/gl.po | 
- | [he]({{< ref "/f29/language/he.md" >}}) | 633 | 633 | 100.0 | /mnt/stockage/packages/f29/polari/po/he.po | 
- | [hr]({{< ref "/f29/language/hr.md" >}}) | 810 | 810 | 100.0 | /mnt/stockage/packages/f29/polari/po/hr.po | 
- | [hu]({{< ref "/f29/language/hu.md" >}}) | 1977 | 1977 | 100.0 | /mnt/stockage/packages/f29/polari/help/hu/hu.po/mnt/stockage/packages/f29/polari/po/hu.po | 
- | [id]({{< ref "/f29/language/id.md" >}}) | 811 | 811 | 100.0 | /mnt/stockage/packages/f29/polari/po/id.po | 
- | [it]({{< ref "/f29/language/it.md" >}}) | 811 | 811 | 100.0 | /mnt/stockage/packages/f29/polari/po/it.po | 
- | [ko]({{< ref "/f29/language/ko.md" >}}) | 806 | 806 | 100.0 | /mnt/stockage/packages/f29/polari/po/ko.po | 
- | [lt]({{< ref "/f29/language/lt.md" >}}) | 811 | 811 | 100.0 | /mnt/stockage/packages/f29/polari/po/lt.po | 
- | [lv]({{< ref "/f29/language/lv.md" >}}) | 810 | 810 | 100.0 | /mnt/stockage/packages/f29/polari/po/lv.po | 
- | [nb_NO]({{< ref "/f29/language/nb_NO.md" >}}) | 810 | 810 | 100.0 | /mnt/stockage/packages/f29/polari/po/nb.po | 
- | [nl]({{< ref "/f29/language/nl.md" >}}) | 810 | 810 | 100.0 | /mnt/stockage/packages/f29/polari/po/nl.po | 
- | [pa]({{< ref "/f29/language/pa.md" >}}) | 225 | 225 | 100.0 | /mnt/stockage/packages/f29/polari/po/pa.po | 
- | [pl]({{< ref "/f29/language/pl.md" >}}) | 1982 | 1982 | 100.0 | /mnt/stockage/packages/f29/polari/help/pl/pl.po/mnt/stockage/packages/f29/polari/po/pl.po | 
- | [pt]({{< ref "/f29/language/pt.md" >}}) | 587 | 587 | 100.0 | /mnt/stockage/packages/f29/polari/po/pt.po | 
- | [pt_BR]({{< ref "/f29/language/pt_BR.md" >}}) | 1981 | 1981 | 100.0 | /mnt/stockage/packages/f29/polari/help/pt_BR/pt_BR.po/mnt/stockage/packages/f29/polari/po/pt_BR.po | 
- | [ro]({{< ref "/f29/language/ro.md" >}}) | 810 | 810 | 100.0 | /mnt/stockage/packages/f29/polari/po/ro.po | 
- | [ru]({{< ref "/f29/language/ru.md" >}}) | 810 | 810 | 100.0 | /mnt/stockage/packages/f29/polari/po/ru.po | 
- | [sk]({{< ref "/f29/language/sk.md" >}}) | 807 | 807 | 100.0 | /mnt/stockage/packages/f29/polari/po/sk.po | 
- | [sl]({{< ref "/f29/language/sl.md" >}}) | 811 | 811 | 100.0 | /mnt/stockage/packages/f29/polari/po/sl.po | 
- | [sr]({{< ref "/f29/language/sr.md" >}}) | 1617 | 1617 | 100.0 | /mnt/stockage/packages/f29/polari/po/sr@latin.po/mnt/stockage/packages/f29/polari/po/sr.po | 
- | [sv]({{< ref "/f29/language/sv.md" >}}) | 1982 | 1982 | 100.0 | /mnt/stockage/packages/f29/polari/help/sv/sv.po/mnt/stockage/packages/f29/polari/po/sv.po | 
- | [te]({{< ref "/f29/language/te.md" >}}) | 225 | 225 | 100.0 | /mnt/stockage/packages/f29/polari/po/te.po | 
- | [tr]({{< ref "/f29/language/tr.md" >}}) | 811 | 811 | 100.0 | /mnt/stockage/packages/f29/polari/po/tr.po | 
- | [uk]({{< ref "/f29/language/uk.md" >}}) | 714 | 714 | 100.0 | /mnt/stockage/packages/f29/polari/po/uk.po | 
- | [vi]({{< ref "/f29/language/vi.md" >}}) | 790 | 790 | 100.0 | /mnt/stockage/packages/f29/polari/po/vi.po | 
- | [zh_Hans]({{< ref "/f29/language/zh_Hans.md" >}}) | 807 | 807 | 100.0 | /mnt/stockage/packages/f29/polari/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f29/language/zh_Hant.md" >}}) | 811 | 811 | 100.0 | /mnt/stockage/packages/f29/polari/po/zh_TW.po | 
- | [zh_Hant_HK]({{< ref "/f29/language/zh_Hant_HK.md" >}}) | 113 | 113 | 100.0 | /mnt/stockage/packages/f29/polari/po/zh_HK.po | 
- | [ja]({{< ref "/f29/language/ja.md" >}}) | 558 | 563 | 99.1 | /mnt/stockage/packages/f29/polari/po/ja.po | 
- | [oc]({{< ref "/f29/language/oc.md" >}}) | 666 | 714 | 93.3 | /mnt/stockage/packages/f29/polari/po/oc.po | 
- | [ml]({{< ref "/f29/language/ml.md" >}}) | 594 | 771 | 77.0 | /mnt/stockage/packages/f29/polari/po/ml.po | 
- | [ar]({{< ref "/f29/language/ar.md" >}}) | 605 | 804 | 75.2 | /mnt/stockage/packages/f29/polari/po/ar.po | 
- | [af]({{< ref "/f29/language/af.md" >}}) | 375 | 807 | 46.5 | /mnt/stockage/packages/f29/polari/po/af.po | 
- | [ne]({{< ref "/f29/language/ne.md" >}}) | 285 | 732 | 38.9 | /mnt/stockage/packages/f29/polari/po/ne.po | 
- | [kk]({{< ref "/f29/language/kk.md" >}}) | 288 | 807 | 35.7 | /mnt/stockage/packages/f29/polari/po/kk.po | 
- | [tg]({{< ref "/f29/language/tg.md" >}}) | 124 | 375 | 33.1 | /mnt/stockage/packages/f29/polari/po/tg.po | 
+ | [as](/f29/language/as) | 373 | 373 | 100.0 | /mnt/stockage/packages/f29/polari/po/as.po | 
+ | [be](/f29/language/be) | 811 | 811 | 100.0 | /mnt/stockage/packages/f29/polari/po/be.po | 
+ | [bs](/f29/language/bs) | 382 | 382 | 100.0 | /mnt/stockage/packages/f29/polari/po/bs.po | 
+ | [ca](/f29/language/ca) | 807 | 807 | 100.0 | /mnt/stockage/packages/f29/polari/po/ca.po | 
+ | [ca@valencia](/f29/language/ca@valencia) | 790 | 790 | 100.0 | /mnt/stockage/packages/f29/polari/po/ca@valencia.po | 
+ | [cs](/f29/language/cs) | 1982 | 1982 | 100.0 | /mnt/stockage/packages/f29/polari/help/cs/cs.po/mnt/stockage/packages/f29/polari/po/cs.po | 
+ | [da](/f29/language/da) | 806 | 806 | 100.0 | /mnt/stockage/packages/f29/polari/po/da.po | 
+ | [de](/f29/language/de) | 1982 | 1982 | 100.0 | /mnt/stockage/packages/f29/polari/help/de/de.po/mnt/stockage/packages/f29/polari/po/de.po | 
+ | [el](/f29/language/el) | 811 | 811 | 100.0 | /mnt/stockage/packages/f29/polari/po/el.po | 
+ | [en_GB](/f29/language/en_GB) | 810 | 810 | 100.0 | /mnt/stockage/packages/f29/polari/po/en_GB.po | 
+ | [eo](/f29/language/eo) | 755 | 755 | 100.0 | /mnt/stockage/packages/f29/polari/po/eo.po | 
+ | [es](/f29/language/es) | 1982 | 1982 | 100.0 | /mnt/stockage/packages/f29/polari/help/es/es.po/mnt/stockage/packages/f29/polari/po/es.po | 
+ | [et](/f29/language/et) | 806 | 806 | 100.0 | /mnt/stockage/packages/f29/polari/po/et.po | 
+ | [eu](/f29/language/eu) | 790 | 790 | 100.0 | /mnt/stockage/packages/f29/polari/po/eu.po | 
+ | [fa](/f29/language/fa) | 790 | 790 | 100.0 | /mnt/stockage/packages/f29/polari/po/fa.po | 
+ | [fi](/f29/language/fi) | 811 | 811 | 100.0 | /mnt/stockage/packages/f29/polari/po/fi.po | 
+ | [fr](/f29/language/fr) | 1982 | 1982 | 100.0 | /mnt/stockage/packages/f29/polari/help/fr/fr.po/mnt/stockage/packages/f29/polari/po/fr.po | 
+ | [fur](/f29/language/fur) | 811 | 811 | 100.0 | /mnt/stockage/packages/f29/polari/po/fur.po | 
+ | [gl](/f29/language/gl) | 806 | 806 | 100.0 | /mnt/stockage/packages/f29/polari/po/gl.po | 
+ | [he](/f29/language/he) | 633 | 633 | 100.0 | /mnt/stockage/packages/f29/polari/po/he.po | 
+ | [hr](/f29/language/hr) | 810 | 810 | 100.0 | /mnt/stockage/packages/f29/polari/po/hr.po | 
+ | [hu](/f29/language/hu) | 1977 | 1977 | 100.0 | /mnt/stockage/packages/f29/polari/help/hu/hu.po/mnt/stockage/packages/f29/polari/po/hu.po | 
+ | [id](/f29/language/id) | 811 | 811 | 100.0 | /mnt/stockage/packages/f29/polari/po/id.po | 
+ | [it](/f29/language/it) | 811 | 811 | 100.0 | /mnt/stockage/packages/f29/polari/po/it.po | 
+ | [ko](/f29/language/ko) | 806 | 806 | 100.0 | /mnt/stockage/packages/f29/polari/po/ko.po | 
+ | [lt](/f29/language/lt) | 811 | 811 | 100.0 | /mnt/stockage/packages/f29/polari/po/lt.po | 
+ | [lv](/f29/language/lv) | 810 | 810 | 100.0 | /mnt/stockage/packages/f29/polari/po/lv.po | 
+ | [nb_NO](/f29/language/nb_NO) | 810 | 810 | 100.0 | /mnt/stockage/packages/f29/polari/po/nb.po | 
+ | [nl](/f29/language/nl) | 810 | 810 | 100.0 | /mnt/stockage/packages/f29/polari/po/nl.po | 
+ | [pa](/f29/language/pa) | 225 | 225 | 100.0 | /mnt/stockage/packages/f29/polari/po/pa.po | 
+ | [pl](/f29/language/pl) | 1982 | 1982 | 100.0 | /mnt/stockage/packages/f29/polari/help/pl/pl.po/mnt/stockage/packages/f29/polari/po/pl.po | 
+ | [pt](/f29/language/pt) | 587 | 587 | 100.0 | /mnt/stockage/packages/f29/polari/po/pt.po | 
+ | [pt_BR](/f29/language/pt_BR) | 1981 | 1981 | 100.0 | /mnt/stockage/packages/f29/polari/help/pt_BR/pt_BR.po/mnt/stockage/packages/f29/polari/po/pt_BR.po | 
+ | [ro](/f29/language/ro) | 810 | 810 | 100.0 | /mnt/stockage/packages/f29/polari/po/ro.po | 
+ | [ru](/f29/language/ru) | 810 | 810 | 100.0 | /mnt/stockage/packages/f29/polari/po/ru.po | 
+ | [sk](/f29/language/sk) | 807 | 807 | 100.0 | /mnt/stockage/packages/f29/polari/po/sk.po | 
+ | [sl](/f29/language/sl) | 811 | 811 | 100.0 | /mnt/stockage/packages/f29/polari/po/sl.po | 
+ | [sr](/f29/language/sr) | 1617 | 1617 | 100.0 | /mnt/stockage/packages/f29/polari/po/sr@latin.po/mnt/stockage/packages/f29/polari/po/sr.po | 
+ | [sv](/f29/language/sv) | 1982 | 1982 | 100.0 | /mnt/stockage/packages/f29/polari/help/sv/sv.po/mnt/stockage/packages/f29/polari/po/sv.po | 
+ | [te](/f29/language/te) | 225 | 225 | 100.0 | /mnt/stockage/packages/f29/polari/po/te.po | 
+ | [tr](/f29/language/tr) | 811 | 811 | 100.0 | /mnt/stockage/packages/f29/polari/po/tr.po | 
+ | [uk](/f29/language/uk) | 714 | 714 | 100.0 | /mnt/stockage/packages/f29/polari/po/uk.po | 
+ | [vi](/f29/language/vi) | 790 | 790 | 100.0 | /mnt/stockage/packages/f29/polari/po/vi.po | 
+ | [zh_Hans](/f29/language/zh_Hans) | 807 | 807 | 100.0 | /mnt/stockage/packages/f29/polari/po/zh_CN.po | 
+ | [zh_Hant](/f29/language/zh_Hant) | 811 | 811 | 100.0 | /mnt/stockage/packages/f29/polari/po/zh_TW.po | 
+ | [zh_Hant_HK](/f29/language/zh_Hant_HK) | 113 | 113 | 100.0 | /mnt/stockage/packages/f29/polari/po/zh_HK.po | 
+ | [ja](/f29/language/ja) | 558 | 563 | 99.1 | /mnt/stockage/packages/f29/polari/po/ja.po | 
+ | [oc](/f29/language/oc) | 666 | 714 | 93.3 | /mnt/stockage/packages/f29/polari/po/oc.po | 
+ | [ml](/f29/language/ml) | 594 | 771 | 77.0 | /mnt/stockage/packages/f29/polari/po/ml.po | 
+ | [ar](/f29/language/ar) | 605 | 804 | 75.2 | /mnt/stockage/packages/f29/polari/po/ar.po | 
+ | [af](/f29/language/af) | 375 | 807 | 46.5 | /mnt/stockage/packages/f29/polari/po/af.po | 
+ | [ne](/f29/language/ne) | 285 | 732 | 38.9 | /mnt/stockage/packages/f29/polari/po/ne.po | 
+ | [kk](/f29/language/kk) | 288 | 807 | 35.7 | /mnt/stockage/packages/f29/polari/po/kk.po | 
+ | [tg](/f29/language/tg) | 124 | 375 | 33.1 | /mnt/stockage/packages/f29/polari/po/tg.po | 
 {.sortable}
 
 

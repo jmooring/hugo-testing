@@ -18,10 +18,10 @@ The package pikdev (version 0.9.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f19/language/fr.md" >}}) | 1993 | 1993 | 100.0 | /mnt/stockage/packages/f19/pikdev/po/fr.po | 
- | [it]({{< ref "/f19/language/it.md" >}}) | 1993 | 1993 | 100.0 | /mnt/stockage/packages/f19/pikdev/po/it.po | 
- | [de]({{< ref "/f19/language/de.md" >}}) | 1368 | 1993 | 68.6 | /mnt/stockage/packages/f19/pikdev/po/de.po | 
- | [es]({{< ref "/f19/language/es.md" >}}) | 1268 | 1993 | 63.6 | /mnt/stockage/packages/f19/pikdev/po/es.po | 
+ | [fr](/f19/language/fr) | 1993 | 1993 | 100.0 | /mnt/stockage/packages/f19/pikdev/po/fr.po | 
+ | [it](/f19/language/it) | 1993 | 1993 | 100.0 | /mnt/stockage/packages/f19/pikdev/po/it.po | 
+ | [de](/f19/language/de) | 1368 | 1993 | 68.6 | /mnt/stockage/packages/f19/pikdev/po/de.po | 
+ | [es](/f19/language/es) | 1268 | 1993 | 63.6 | /mnt/stockage/packages/f19/pikdev/po/es.po | 
 {.sortable}
 
 

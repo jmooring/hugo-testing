@@ -38,11 +38,11 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [tuxpaint]({{< ref "/f35/package/tuxpaint.md" >}}) | 34 | 2286 | 1.5 | Bill Kendrick <nbs@sonic.net> | 
- | [cinnamon-translations]({{< ref "/f35/package/cinnamon-translations.md" >}}) | 51 | 13461 | 0.4 | Klingon <tlh@li.org> | 
- | [geeqie]({{< ref "/f35/package/geeqie.md" >}}) | 4 | 5446 | 0.1 |  | 
- | [deluge]({{< ref "/f35/package/deluge.md" >}}) | 0 | 4340 | 0.0 | Klingon <tlh@li.org> | 
- | [elementary-terminal]({{< ref "/f35/package/elementary-terminal.md" >}}) | 0 | 696 | 0.0 | Klingon <tlh@li.org> | 
+ | [tuxpaint](/f35/package/tuxpaint) | 34 | 2286 | 1.5 | Bill Kendrick <nbs@sonic.net> | 
+ | [cinnamon-translations](/f35/package/cinnamon-translations) | 51 | 13461 | 0.4 | Klingon <tlh@li.org> | 
+ | [geeqie](/f35/package/geeqie) | 4 | 5446 | 0.1 |  | 
+ | [deluge](/f35/package/deluge) | 0 | 4340 | 0.0 | Klingon <tlh@li.org> | 
+ | [elementary-terminal](/f35/package/elementary-terminal) | 0 | 696 | 0.0 | Klingon <tlh@li.org> | 
 {.sortable}
 
 

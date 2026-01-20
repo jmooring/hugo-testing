@@ -18,7 +18,7 @@ The package rrdtool (version 1.7.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [hu]({{< ref "/f27/language/hu.md" >}}) | 514 | 543 | 94.7 | /mnt/stockage/packages/f27/rrdtool/po/hu.po | 
+ | [hu](/f27/language/hu) | 514 | 543 | 94.7 | /mnt/stockage/packages/f27/rrdtool/po/hu.po | 
 {.sortable}
 
 

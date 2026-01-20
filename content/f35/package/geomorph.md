@@ -18,9 +18,9 @@ The package geomorph (version 0.62):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [en]({{< ref "/f35/language/en.md" >}}) | 1500 | 1508 | 99.5 | /mnt/stockage/packages/f35/geomorph/po/en.po | 
- | [fr]({{< ref "/f35/language/fr.md" >}}) | 1500 | 1508 | 99.5 | /mnt/stockage/packages/f35/geomorph/po/fr.po | 
- | [de]({{< ref "/f35/language/de.md" >}}) | 1472 | 1508 | 97.6 | /mnt/stockage/packages/f35/geomorph/po/de.po | 
+ | [en](/f35/language/en) | 1500 | 1508 | 99.5 | /mnt/stockage/packages/f35/geomorph/po/en.po | 
+ | [fr](/f35/language/fr) | 1500 | 1508 | 99.5 | /mnt/stockage/packages/f35/geomorph/po/fr.po | 
+ | [de](/f35/language/de) | 1472 | 1508 | 97.6 | /mnt/stockage/packages/f35/geomorph/po/de.po | 
 {.sortable}
 
 

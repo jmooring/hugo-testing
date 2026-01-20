@@ -18,15 +18,15 @@ The package sweep (version 0.9.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f9/language/de.md" >}}) | 2362 | 2397 | 98.5 | /mnt/stockage/packages/f9/sweep/po/de.po | 
- | [es]({{< ref "/f9/language/es.md" >}}) | 2362 | 2397 | 98.5 | /mnt/stockage/packages/f9/sweep/po/es_ES.po | 
- | [it]({{< ref "/f9/language/it.md" >}}) | 2362 | 2397 | 98.5 | /mnt/stockage/packages/f9/sweep/po/it.po | 
- | [pl]({{< ref "/f9/language/pl.md" >}}) | 2299 | 2397 | 95.9 | /mnt/stockage/packages/f9/sweep/po/pl.po | 
- | [el]({{< ref "/f9/language/el.md" >}}) | 2227 | 2397 | 92.9 | /mnt/stockage/packages/f9/sweep/po/el.po | 
- | [ru]({{< ref "/f9/language/ru.md" >}}) | 1828 | 2397 | 76.3 | /mnt/stockage/packages/f9/sweep/po/ru.po | 
- | [hu]({{< ref "/f9/language/hu.md" >}}) | 163 | 2397 | 6.8 | /mnt/stockage/packages/f9/sweep/po/hu.po | 
- | [fr]({{< ref "/f9/language/fr.md" >}}) | 125 | 2397 | 5.2 | /mnt/stockage/packages/f9/sweep/po/fr.po | 
- | [en_AU]({{< ref "/f9/language/en_AU.md" >}}) | 2 | 2397 | 0.1 | /mnt/stockage/packages/f9/sweep/po/en_AU.po | 
+ | [de](/f9/language/de) | 2362 | 2397 | 98.5 | /mnt/stockage/packages/f9/sweep/po/de.po | 
+ | [es](/f9/language/es) | 2362 | 2397 | 98.5 | /mnt/stockage/packages/f9/sweep/po/es_ES.po | 
+ | [it](/f9/language/it) | 2362 | 2397 | 98.5 | /mnt/stockage/packages/f9/sweep/po/it.po | 
+ | [pl](/f9/language/pl) | 2299 | 2397 | 95.9 | /mnt/stockage/packages/f9/sweep/po/pl.po | 
+ | [el](/f9/language/el) | 2227 | 2397 | 92.9 | /mnt/stockage/packages/f9/sweep/po/el.po | 
+ | [ru](/f9/language/ru) | 1828 | 2397 | 76.3 | /mnt/stockage/packages/f9/sweep/po/ru.po | 
+ | [hu](/f9/language/hu) | 163 | 2397 | 6.8 | /mnt/stockage/packages/f9/sweep/po/hu.po | 
+ | [fr](/f9/language/fr) | 125 | 2397 | 5.2 | /mnt/stockage/packages/f9/sweep/po/fr.po | 
+ | [en_AU](/f9/language/en_AU) | 2 | 2397 | 0.1 | /mnt/stockage/packages/f9/sweep/po/en_AU.po | 
 {.sortable}
 
 

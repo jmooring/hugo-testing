@@ -38,36 +38,36 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [grub2]({{< ref "/f17/package/grub2.md" >}}) | 5911 | 5911 | 100.0 | German <translation-team-de@lists.sourceforge.net> | 
- | [php-gettext]({{< ref "/f17/package/php-gettext.md" >}}) | 18 | 18 | 100.0 |  | 
- | [php-php-gettext]({{< ref "/f17/package/php-php-gettext.md" >}}) | 18 | 18 | 100.0 |  | 
- | [sectool]({{< ref "/f17/package/sectool.md" >}}) | 2411 | 2411 | 100.0 | German <fedora-trans-de@redhat.com> | 
- | [subsurface]({{< ref "/f17/package/subsurface.md" >}}) | 1597 | 1597 | 100.0 | German (Switzerland) (http://www.transifex.com/projects/p/subsurface/language/de_CH/) | 
- | [kicad]({{< ref "/f17/package/kicad.md" >}}) | 15393 | 15443 | 99.7 | Benno Achermann <bennoachermann@bluewin.ch> | 
- | [system-config-users-docs]({{< ref "/f17/package/system-config-users-docs.md" >}}) | 1054 | 1061 | 99.3 | German <fedora-trans-de@redhat.com> | 
- | [publican-fedora]({{< ref "/f17/package/publican-fedora.md" >}}) | 106 | 107 | 99.1 | <de@li.org> | 
- | [usermode]({{< ref "/f17/package/usermode.md" >}}) | 553 | 572 | 96.7 | LANGUAGE <LL@li.org> | 
- | [fuse-encfs]({{< ref "/f17/package/fuse-encfs.md" >}}) | 1080 | 1315 | 82.1 | German (Switzerland) <de_CH@li.org> | 
- | [libuser]({{< ref "/f17/package/libuser.md" >}}) | 1078 | 1489 | 72.4 | LANGUAGE <LL@li.org> | 
- | [sos]({{< ref "/f17/package/sos.md" >}}) | 174 | 267 | 65.2 | German <fedora-trans-de@redhat.com> | 
- | [pulseaudio]({{< ref "/f17/package/pulseaudio.md" >}}) | 1884 | 2946 | 64.0 | German <fedora-trans-de@redhat.com> | 
- | [system-config-samba]({{< ref "/f17/package/system-config-samba.md" >}}) | 351 | 571 | 61.5 | LANGUAGE <LL@li.org> | 
- | [pykickstart]({{< ref "/f17/package/pykickstart.md" >}}) | 209 | 343 | 60.9 | LANGUAGE <LL@li.org> | 
- | [anaconda]({{< ref "/f17/package/anaconda.md" >}}) | 4050 | 8297 | 48.8 | LANGUAGE <LL@li.org> | 
- | [publican]({{< ref "/f17/package/publican.md" >}}) | 354 | 1094 | 32.4 | <fedora-trans-de@redhat.com> | 
- | [volume_key]({{< ref "/f17/package/volume_key.md" >}}) | 186 | 745 | 25.0 | LANGUAGE <LL@li.org> | 
- | [gnomebaker]({{< ref "/f17/package/gnomebaker.md" >}}) | 271 | 1186 | 22.8 | German (Switzerland) <de_CH@li.org> | 
- | [pgadmin3]({{< ref "/f17/package/pgadmin3.md" >}}) | 2152 | 14829 | 14.5 | pgAdmin Developers <pgadmin-hackers@postgresql.org> | 
- | [firstboot]({{< ref "/f17/package/firstboot.md" >}}) | 0 | 571 | 0.0 | LANGUAGE <LL@li.org> | 
- | [im-chooser]({{< ref "/f17/package/im-chooser.md" >}}) | 0 | 226 | 0.0 | LANGUAGE <LL@li.org> | 
- | [imsettings]({{< ref "/f17/package/imsettings.md" >}}) | 0 | 404 | 0.0 | LANGUAGE <LL@li.org> | 
- | [mc]({{< ref "/f17/package/mc.md" >}}) | 0 | 3987 | 0.0 | German (Switzerland) (http://www.transifex.com/projects/p/mc/language/de_CH/) | 
- | [rhnsd]({{< ref "/f17/package/rhnsd.md" >}}) | 0 | 37 | 0.0 | LANGUAGE <LL@li.org> | 
- | [spacewalk-backend]({{< ref "/f17/package/spacewalk-backend.md" >}}) | 0 | 1895 | 0.0 | LANGUAGE <LL@li.org> | 
- | [system-config-date]({{< ref "/f17/package/system-config-date.md" >}}) | 0 | 503 | 0.0 | LANGUAGE <LL@li.org> | 
- | [system-config-services]({{< ref "/f17/package/system-config-services.md" >}}) | 0 | 518 | 0.0 | Swiss German (http://www.transifex.net/projects/p/fedora/team/de_CH/) | 
- | [system-config-users]({{< ref "/f17/package/system-config-users.md" >}}) | 0 | 1452 | 0.0 | LANGUAGE <LL@li.org> | 
- | [vidalia]({{< ref "/f17/package/vidalia.md" >}}) | 0 | 4655 | 0.0 | translations@vidalia-project.net | 
+ | [grub2](/f17/package/grub2) | 5911 | 5911 | 100.0 | German <translation-team-de@lists.sourceforge.net> | 
+ | [php-gettext](/f17/package/php-gettext) | 18 | 18 | 100.0 |  | 
+ | [php-php-gettext](/f17/package/php-php-gettext) | 18 | 18 | 100.0 |  | 
+ | [sectool](/f17/package/sectool) | 2411 | 2411 | 100.0 | German <fedora-trans-de@redhat.com> | 
+ | [subsurface](/f17/package/subsurface) | 1597 | 1597 | 100.0 | German (Switzerland) (http://www.transifex.com/projects/p/subsurface/language/de_CH/) | 
+ | [kicad](/f17/package/kicad) | 15393 | 15443 | 99.7 | Benno Achermann <bennoachermann@bluewin.ch> | 
+ | [system-config-users-docs](/f17/package/system-config-users-docs) | 1054 | 1061 | 99.3 | German <fedora-trans-de@redhat.com> | 
+ | [publican-fedora](/f17/package/publican-fedora) | 106 | 107 | 99.1 | <de@li.org> | 
+ | [usermode](/f17/package/usermode) | 553 | 572 | 96.7 | LANGUAGE <LL@li.org> | 
+ | [fuse-encfs](/f17/package/fuse-encfs) | 1080 | 1315 | 82.1 | German (Switzerland) <de_CH@li.org> | 
+ | [libuser](/f17/package/libuser) | 1078 | 1489 | 72.4 | LANGUAGE <LL@li.org> | 
+ | [sos](/f17/package/sos) | 174 | 267 | 65.2 | German <fedora-trans-de@redhat.com> | 
+ | [pulseaudio](/f17/package/pulseaudio) | 1884 | 2946 | 64.0 | German <fedora-trans-de@redhat.com> | 
+ | [system-config-samba](/f17/package/system-config-samba) | 351 | 571 | 61.5 | LANGUAGE <LL@li.org> | 
+ | [pykickstart](/f17/package/pykickstart) | 209 | 343 | 60.9 | LANGUAGE <LL@li.org> | 
+ | [anaconda](/f17/package/anaconda) | 4050 | 8297 | 48.8 | LANGUAGE <LL@li.org> | 
+ | [publican](/f17/package/publican) | 354 | 1094 | 32.4 | <fedora-trans-de@redhat.com> | 
+ | [volume_key](/f17/package/volume_key) | 186 | 745 | 25.0 | LANGUAGE <LL@li.org> | 
+ | [gnomebaker](/f17/package/gnomebaker) | 271 | 1186 | 22.8 | German (Switzerland) <de_CH@li.org> | 
+ | [pgadmin3](/f17/package/pgadmin3) | 2152 | 14829 | 14.5 | pgAdmin Developers <pgadmin-hackers@postgresql.org> | 
+ | [firstboot](/f17/package/firstboot) | 0 | 571 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [im-chooser](/f17/package/im-chooser) | 0 | 226 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [imsettings](/f17/package/imsettings) | 0 | 404 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [mc](/f17/package/mc) | 0 | 3987 | 0.0 | German (Switzerland) (http://www.transifex.com/projects/p/mc/language/de_CH/) | 
+ | [rhnsd](/f17/package/rhnsd) | 0 | 37 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [spacewalk-backend](/f17/package/spacewalk-backend) | 0 | 1895 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [system-config-date](/f17/package/system-config-date) | 0 | 503 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [system-config-services](/f17/package/system-config-services) | 0 | 518 | 0.0 | Swiss German (http://www.transifex.net/projects/p/fedora/team/de_CH/) | 
+ | [system-config-users](/f17/package/system-config-users) | 0 | 1452 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [vidalia](/f17/package/vidalia) | 0 | 4655 | 0.0 | translations@vidalia-project.net | 
 {.sortable}
 
 
@@ -79,8 +79,8 @@ We use the po metadata to get the language code and the team, but sometimes it f
 
 | Package | Lang from file path/name | polib error | Team |
 |---------|--------------------------|-------------|------|
- | [php-gettext]({{< ref "/f17/package/php-gettext.md" >}}) | /mnt/stockage/packages/f17/php-gettext/examples/locale/de_CH/LC_MESSAGES/messages.po | error-os |  | 
- | [php-php-gettext]({{< ref "/f17/package/php-php-gettext.md" >}}) | /mnt/stockage/packages/f17/php-php-gettext/examples/locale/de_CH/LC_MESSAGES/messages.po | error-os |  | 
+ | [php-gettext](/f17/package/php-gettext) | /mnt/stockage/packages/f17/php-gettext/examples/locale/de_CH/LC_MESSAGES/messages.po | error-os |  | 
+ | [php-php-gettext](/f17/package/php-php-gettext) | /mnt/stockage/packages/f17/php-php-gettext/examples/locale/de_CH/LC_MESSAGES/messages.po | error-os |  | 
 {.sortable}
 
 

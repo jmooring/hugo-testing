@@ -18,39 +18,39 @@ The package edgar (version 1.29):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f28/language/de.md" >}}) | 11474 | 11474 | 100.0 | /mnt/stockage/packages/f28/edgar/locale/de.po | 
- | [en_GB]({{< ref "/f28/language/en_GB.md" >}}) | 11474 | 11474 | 100.0 | /mnt/stockage/packages/f28/edgar/locale/en_GB.po | 
- | [en_US]({{< ref "/f28/language/en_US.md" >}}) | 11474 | 11474 | 100.0 | /mnt/stockage/packages/f28/edgar/locale/en_US.po | 
- | [fr]({{< ref "/f28/language/fr.md" >}}) | 11474 | 11474 | 100.0 | /mnt/stockage/packages/f28/edgar/locale/fr.po | 
- | [it]({{< ref "/f28/language/it.md" >}}) | 11474 | 11474 | 100.0 | /mnt/stockage/packages/f28/edgar/locale/it.po | 
- | [ja]({{< ref "/f28/language/ja.md" >}}) | 11474 | 11474 | 100.0 | /mnt/stockage/packages/f28/edgar/locale/ja.po | 
- | [ru]({{< ref "/f28/language/ru.md" >}}) | 11474 | 11474 | 100.0 | /mnt/stockage/packages/f28/edgar/locale/ru.po | 
- | [uk]({{< ref "/f28/language/uk.md" >}}) | 11474 | 11474 | 100.0 | /mnt/stockage/packages/f28/edgar/locale/uk.po | 
- | [nl]({{< ref "/f28/language/nl.md" >}}) | 11466 | 11474 | 99.9 | /mnt/stockage/packages/f28/edgar/locale/nl.po | 
- | [pt_BR]({{< ref "/f28/language/pt_BR.md" >}}) | 11466 | 11474 | 99.9 | /mnt/stockage/packages/f28/edgar/locale/pt_BR.po | 
- | [es]({{< ref "/f28/language/es.md" >}}) | 11435 | 11474 | 99.7 | /mnt/stockage/packages/f28/edgar/locale/es.po | 
- | [cs]({{< ref "/f28/language/cs.md" >}}) | 11364 | 11474 | 99.0 | /mnt/stockage/packages/f28/edgar/locale/cs.po | 
- | [zh_Hans]({{< ref "/f28/language/zh_Hans.md" >}}) | 3636 | 11474 | 31.7 | /mnt/stockage/packages/f28/edgar/locale/zh_CN.po | 
- | [sk]({{< ref "/f28/language/sk.md" >}}) | 2245 | 11474 | 19.6 | /mnt/stockage/packages/f28/edgar/locale/sk.po | 
- | [pl]({{< ref "/f28/language/pl.md" >}}) | 2015 | 11474 | 17.6 | /mnt/stockage/packages/f28/edgar/locale/pl.po | 
- | [pt]({{< ref "/f28/language/pt.md" >}}) | 960 | 11474 | 8.4 | /mnt/stockage/packages/f28/edgar/locale/pt.po | 
- | [ro]({{< ref "/f28/language/ro.md" >}}) | 860 | 11474 | 7.5 | /mnt/stockage/packages/f28/edgar/locale/ro.po | 
- | [fa]({{< ref "/f28/language/fa.md" >}}) | 792 | 11474 | 6.9 | /mnt/stockage/packages/f28/edgar/locale/fa.po | 
- | [el]({{< ref "/f28/language/el.md" >}}) | 436 | 11474 | 3.8 | /mnt/stockage/packages/f28/edgar/locale/el.po | 
- | [eo]({{< ref "/f28/language/eo.md" >}}) | 390 | 11474 | 3.4 | /mnt/stockage/packages/f28/edgar/locale/eo.po | 
- | [id]({{< ref "/f28/language/id.md" >}}) | 333 | 11474 | 2.9 | /mnt/stockage/packages/f28/edgar/locale/id.po | 
- | [ms]({{< ref "/f28/language/ms.md" >}}) | 200 | 11474 | 1.7 | /mnt/stockage/packages/f28/edgar/locale/ms.po | 
- | [da]({{< ref "/f28/language/da.md" >}}) | 4 | 11474 | 0.0 | /mnt/stockage/packages/f28/edgar/locale/da.po | 
- | [sv]({{< ref "/f28/language/sv.md" >}}) | 4 | 11474 | 0.0 | /mnt/stockage/packages/f28/edgar/locale/sv.po | 
- | [tr]({{< ref "/f28/language/tr.md" >}}) | 4 | 11474 | 0.0 | /mnt/stockage/packages/f28/edgar/locale/tr.po | 
- | [hi]({{< ref "/f28/language/hi.md" >}}) | 2 | 11474 | 0.0 | /mnt/stockage/packages/f28/edgar/locale/hi.po | 
- | [sr]({{< ref "/f28/language/sr.md" >}}) | 2 | 11474 | 0.0 | /mnt/stockage/packages/f28/edgar/locale/sr.po | 
- | [ar]({{< ref "/f28/language/ar.md" >}}) | 1 | 11474 | 0.0 | /mnt/stockage/packages/f28/edgar/locale/ar.po | 
- | [jv]({{< ref "/f28/language/jv.md" >}}) | 1 | 11474 | 0.0 | /mnt/stockage/packages/f28/edgar/locale/jv.po | 
- | [ko]({{< ref "/f28/language/ko.md" >}}) | 1 | 11474 | 0.0 | /mnt/stockage/packages/f28/edgar/locale/ko.po | 
- | [ta]({{< ref "/f28/language/ta.md" >}}) | 1 | 11474 | 0.0 | /mnt/stockage/packages/f28/edgar/locale/ta.po | 
- | [ur]({{< ref "/f28/language/ur.md" >}}) | 1 | 11474 | 0.0 | /mnt/stockage/packages/f28/edgar/locale/ur.po | 
- | [vi]({{< ref "/f28/language/vi.md" >}}) | 1 | 11474 | 0.0 | /mnt/stockage/packages/f28/edgar/locale/vi.po | 
+ | [de](/f28/language/de) | 11474 | 11474 | 100.0 | /mnt/stockage/packages/f28/edgar/locale/de.po | 
+ | [en_GB](/f28/language/en_GB) | 11474 | 11474 | 100.0 | /mnt/stockage/packages/f28/edgar/locale/en_GB.po | 
+ | [en_US](/f28/language/en_US) | 11474 | 11474 | 100.0 | /mnt/stockage/packages/f28/edgar/locale/en_US.po | 
+ | [fr](/f28/language/fr) | 11474 | 11474 | 100.0 | /mnt/stockage/packages/f28/edgar/locale/fr.po | 
+ | [it](/f28/language/it) | 11474 | 11474 | 100.0 | /mnt/stockage/packages/f28/edgar/locale/it.po | 
+ | [ja](/f28/language/ja) | 11474 | 11474 | 100.0 | /mnt/stockage/packages/f28/edgar/locale/ja.po | 
+ | [ru](/f28/language/ru) | 11474 | 11474 | 100.0 | /mnt/stockage/packages/f28/edgar/locale/ru.po | 
+ | [uk](/f28/language/uk) | 11474 | 11474 | 100.0 | /mnt/stockage/packages/f28/edgar/locale/uk.po | 
+ | [nl](/f28/language/nl) | 11466 | 11474 | 99.9 | /mnt/stockage/packages/f28/edgar/locale/nl.po | 
+ | [pt_BR](/f28/language/pt_BR) | 11466 | 11474 | 99.9 | /mnt/stockage/packages/f28/edgar/locale/pt_BR.po | 
+ | [es](/f28/language/es) | 11435 | 11474 | 99.7 | /mnt/stockage/packages/f28/edgar/locale/es.po | 
+ | [cs](/f28/language/cs) | 11364 | 11474 | 99.0 | /mnt/stockage/packages/f28/edgar/locale/cs.po | 
+ | [zh_Hans](/f28/language/zh_Hans) | 3636 | 11474 | 31.7 | /mnt/stockage/packages/f28/edgar/locale/zh_CN.po | 
+ | [sk](/f28/language/sk) | 2245 | 11474 | 19.6 | /mnt/stockage/packages/f28/edgar/locale/sk.po | 
+ | [pl](/f28/language/pl) | 2015 | 11474 | 17.6 | /mnt/stockage/packages/f28/edgar/locale/pl.po | 
+ | [pt](/f28/language/pt) | 960 | 11474 | 8.4 | /mnt/stockage/packages/f28/edgar/locale/pt.po | 
+ | [ro](/f28/language/ro) | 860 | 11474 | 7.5 | /mnt/stockage/packages/f28/edgar/locale/ro.po | 
+ | [fa](/f28/language/fa) | 792 | 11474 | 6.9 | /mnt/stockage/packages/f28/edgar/locale/fa.po | 
+ | [el](/f28/language/el) | 436 | 11474 | 3.8 | /mnt/stockage/packages/f28/edgar/locale/el.po | 
+ | [eo](/f28/language/eo) | 390 | 11474 | 3.4 | /mnt/stockage/packages/f28/edgar/locale/eo.po | 
+ | [id](/f28/language/id) | 333 | 11474 | 2.9 | /mnt/stockage/packages/f28/edgar/locale/id.po | 
+ | [ms](/f28/language/ms) | 200 | 11474 | 1.7 | /mnt/stockage/packages/f28/edgar/locale/ms.po | 
+ | [da](/f28/language/da) | 4 | 11474 | 0.0 | /mnt/stockage/packages/f28/edgar/locale/da.po | 
+ | [sv](/f28/language/sv) | 4 | 11474 | 0.0 | /mnt/stockage/packages/f28/edgar/locale/sv.po | 
+ | [tr](/f28/language/tr) | 4 | 11474 | 0.0 | /mnt/stockage/packages/f28/edgar/locale/tr.po | 
+ | [hi](/f28/language/hi) | 2 | 11474 | 0.0 | /mnt/stockage/packages/f28/edgar/locale/hi.po | 
+ | [sr](/f28/language/sr) | 2 | 11474 | 0.0 | /mnt/stockage/packages/f28/edgar/locale/sr.po | 
+ | [ar](/f28/language/ar) | 1 | 11474 | 0.0 | /mnt/stockage/packages/f28/edgar/locale/ar.po | 
+ | [jv](/f28/language/jv) | 1 | 11474 | 0.0 | /mnt/stockage/packages/f28/edgar/locale/jv.po | 
+ | [ko](/f28/language/ko) | 1 | 11474 | 0.0 | /mnt/stockage/packages/f28/edgar/locale/ko.po | 
+ | [ta](/f28/language/ta) | 1 | 11474 | 0.0 | /mnt/stockage/packages/f28/edgar/locale/ta.po | 
+ | [ur](/f28/language/ur) | 1 | 11474 | 0.0 | /mnt/stockage/packages/f28/edgar/locale/ur.po | 
+ | [vi](/f28/language/vi) | 1 | 11474 | 0.0 | /mnt/stockage/packages/f28/edgar/locale/vi.po | 
 {.sortable}
 
 

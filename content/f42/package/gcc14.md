@@ -18,30 +18,30 @@ The package gcc14 (version 14.2.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f42/language/de.md" >}}) | 137290 | 137290 | 100.0 | /mnt/stockage/packages/f42/gcc14/gcc/po/de.po/mnt/stockage/packages/f42/gcc14/libcpp/po/de.po/mnt/stockage/packages/f42/gcc14/libstdc++-v3/po/de.po | 
- | [fr]({{< ref "/f42/language/fr.md" >}}) | 137290 | 137290 | 100.0 | /mnt/stockage/packages/f42/gcc14/gcc/po/fr.po/mnt/stockage/packages/f42/gcc14/libcpp/po/fr.po/mnt/stockage/packages/f42/gcc14/libstdc++-v3/po/fr.po | 
- | [ro]({{< ref "/f42/language/ro.md" >}}) | 1761 | 1761 | 100.0 | /mnt/stockage/packages/f42/gcc14/libcpp/po/ro.po | 
- | [sv]({{< ref "/f42/language/sv.md" >}}) | 137285 | 137285 | 100.0 | /mnt/stockage/packages/f42/gcc14/gcc/po/sv.po/mnt/stockage/packages/f42/gcc14/libcpp/po/sv.po | 
- | [uk]({{< ref "/f42/language/uk.md" >}}) | 137285 | 137285 | 100.0 | /mnt/stockage/packages/f42/gcc14/gcc/po/uk.po/mnt/stockage/packages/f42/gcc14/libcpp/po/uk.po | 
- | [eo]({{< ref "/f42/language/eo.md" >}}) | 1512 | 1761 | 85.9 | /mnt/stockage/packages/f42/gcc14/libcpp/po/eo.po | 
- | [pt_BR]({{< ref "/f42/language/pt_BR.md" >}}) | 1419 | 1761 | 80.6 | /mnt/stockage/packages/f42/gcc14/libcpp/po/pt_BR.po | 
- | [ru]({{< ref "/f42/language/ru.md" >}}) | 76443 | 137285 | 55.7 | /mnt/stockage/packages/f42/gcc14/gcc/po/ru.po/mnt/stockage/packages/f42/gcc14/libcpp/po/ru.po | 
- | [ca]({{< ref "/f42/language/ca.md" >}}) | 914 | 1761 | 51.9 | /mnt/stockage/packages/f42/gcc14/libcpp/po/ca.po | 
- | [es]({{< ref "/f42/language/es.md" >}}) | 62703 | 137285 | 45.7 | /mnt/stockage/packages/f42/gcc14/gcc/po/es.po/mnt/stockage/packages/f42/gcc14/libcpp/po/es.po | 
- | [zh_Hans]({{< ref "/f42/language/zh_Hans.md" >}}) | 34571 | 137285 | 25.2 | /mnt/stockage/packages/f42/gcc14/gcc/po/zh_CN.po/mnt/stockage/packages/f42/gcc14/libcpp/po/zh_CN.po | 
- | [vi]({{< ref "/f42/language/vi.md" >}}) | 25442 | 137285 | 18.5 | /mnt/stockage/packages/f42/gcc14/gcc/po/vi.po/mnt/stockage/packages/f42/gcc14/libcpp/po/vi.po | 
- | [id]({{< ref "/f42/language/id.md" >}}) | 20037 | 137285 | 14.6 | /mnt/stockage/packages/f42/gcc14/gcc/po/id.po/mnt/stockage/packages/f42/gcc14/libcpp/po/id.po | 
- | [sr]({{< ref "/f42/language/sr.md" >}}) | 17484 | 137285 | 12.7 | /mnt/stockage/packages/f42/gcc14/gcc/po/sr.po/mnt/stockage/packages/f42/gcc14/libcpp/po/sr.po | 
- | [tr]({{< ref "/f42/language/tr.md" >}}) | 15356 | 137285 | 11.2 | /mnt/stockage/packages/f42/gcc14/gcc/po/tr.po/mnt/stockage/packages/f42/gcc14/libcpp/po/tr.po | 
- | [zh_Hant]({{< ref "/f42/language/zh_Hant.md" >}}) | 15016 | 137285 | 10.9 | /mnt/stockage/packages/f42/gcc14/gcc/po/zh_TW.po/mnt/stockage/packages/f42/gcc14/libcpp/po/zh_TW.po | 
- | [fi]({{< ref "/f42/language/fi.md" >}}) | 14749 | 137285 | 10.7 | /mnt/stockage/packages/f42/gcc14/gcc/po/fi.po/mnt/stockage/packages/f42/gcc14/libcpp/po/fi.po | 
- | [ja]({{< ref "/f42/language/ja.md" >}}) | 13854 | 137285 | 10.1 | /mnt/stockage/packages/f42/gcc14/gcc/po/ja.po/mnt/stockage/packages/f42/gcc14/libcpp/po/ja.po | 
- | [da]({{< ref "/f42/language/da.md" >}}) | 11104 | 137285 | 8.1 | /mnt/stockage/packages/f42/gcc14/gcc/po/da.po/mnt/stockage/packages/f42/gcc14/libcpp/po/da.po | 
- | [hr]({{< ref "/f42/language/hr.md" >}}) | 5977 | 135524 | 4.4 | /mnt/stockage/packages/f42/gcc14/gcc/po/hr.po | 
- | [nl]({{< ref "/f42/language/nl.md" >}}) | 5021 | 137285 | 3.7 | /mnt/stockage/packages/f42/gcc14/gcc/po/nl.po/mnt/stockage/packages/f42/gcc14/libcpp/po/nl.po | 
- | [ka]({{< ref "/f42/language/ka.md" >}}) | 626 | 137285 | 0.5 | /mnt/stockage/packages/f42/gcc14/gcc/po/ka.po/mnt/stockage/packages/f42/gcc14/libcpp/po/ka.po | 
- | [be]({{< ref "/f42/language/be.md" >}}) | 221 | 137285 | 0.2 | /mnt/stockage/packages/f42/gcc14/gcc/po/be.po/mnt/stockage/packages/f42/gcc14/libcpp/po/be.po | 
- | [el]({{< ref "/f42/language/el.md" >}}) | 176 | 137285 | 0.1 | /mnt/stockage/packages/f42/gcc14/gcc/po/el.po/mnt/stockage/packages/f42/gcc14/libcpp/po/el.po | 
+ | [de](/f42/language/de) | 137290 | 137290 | 100.0 | /mnt/stockage/packages/f42/gcc14/gcc/po/de.po/mnt/stockage/packages/f42/gcc14/libcpp/po/de.po/mnt/stockage/packages/f42/gcc14/libstdc++-v3/po/de.po | 
+ | [fr](/f42/language/fr) | 137290 | 137290 | 100.0 | /mnt/stockage/packages/f42/gcc14/gcc/po/fr.po/mnt/stockage/packages/f42/gcc14/libcpp/po/fr.po/mnt/stockage/packages/f42/gcc14/libstdc++-v3/po/fr.po | 
+ | [ro](/f42/language/ro) | 1761 | 1761 | 100.0 | /mnt/stockage/packages/f42/gcc14/libcpp/po/ro.po | 
+ | [sv](/f42/language/sv) | 137285 | 137285 | 100.0 | /mnt/stockage/packages/f42/gcc14/gcc/po/sv.po/mnt/stockage/packages/f42/gcc14/libcpp/po/sv.po | 
+ | [uk](/f42/language/uk) | 137285 | 137285 | 100.0 | /mnt/stockage/packages/f42/gcc14/gcc/po/uk.po/mnt/stockage/packages/f42/gcc14/libcpp/po/uk.po | 
+ | [eo](/f42/language/eo) | 1512 | 1761 | 85.9 | /mnt/stockage/packages/f42/gcc14/libcpp/po/eo.po | 
+ | [pt_BR](/f42/language/pt_BR) | 1419 | 1761 | 80.6 | /mnt/stockage/packages/f42/gcc14/libcpp/po/pt_BR.po | 
+ | [ru](/f42/language/ru) | 76443 | 137285 | 55.7 | /mnt/stockage/packages/f42/gcc14/gcc/po/ru.po/mnt/stockage/packages/f42/gcc14/libcpp/po/ru.po | 
+ | [ca](/f42/language/ca) | 914 | 1761 | 51.9 | /mnt/stockage/packages/f42/gcc14/libcpp/po/ca.po | 
+ | [es](/f42/language/es) | 62703 | 137285 | 45.7 | /mnt/stockage/packages/f42/gcc14/gcc/po/es.po/mnt/stockage/packages/f42/gcc14/libcpp/po/es.po | 
+ | [zh_Hans](/f42/language/zh_Hans) | 34571 | 137285 | 25.2 | /mnt/stockage/packages/f42/gcc14/gcc/po/zh_CN.po/mnt/stockage/packages/f42/gcc14/libcpp/po/zh_CN.po | 
+ | [vi](/f42/language/vi) | 25442 | 137285 | 18.5 | /mnt/stockage/packages/f42/gcc14/gcc/po/vi.po/mnt/stockage/packages/f42/gcc14/libcpp/po/vi.po | 
+ | [id](/f42/language/id) | 20037 | 137285 | 14.6 | /mnt/stockage/packages/f42/gcc14/gcc/po/id.po/mnt/stockage/packages/f42/gcc14/libcpp/po/id.po | 
+ | [sr](/f42/language/sr) | 17484 | 137285 | 12.7 | /mnt/stockage/packages/f42/gcc14/gcc/po/sr.po/mnt/stockage/packages/f42/gcc14/libcpp/po/sr.po | 
+ | [tr](/f42/language/tr) | 15356 | 137285 | 11.2 | /mnt/stockage/packages/f42/gcc14/gcc/po/tr.po/mnt/stockage/packages/f42/gcc14/libcpp/po/tr.po | 
+ | [zh_Hant](/f42/language/zh_Hant) | 15016 | 137285 | 10.9 | /mnt/stockage/packages/f42/gcc14/gcc/po/zh_TW.po/mnt/stockage/packages/f42/gcc14/libcpp/po/zh_TW.po | 
+ | [fi](/f42/language/fi) | 14749 | 137285 | 10.7 | /mnt/stockage/packages/f42/gcc14/gcc/po/fi.po/mnt/stockage/packages/f42/gcc14/libcpp/po/fi.po | 
+ | [ja](/f42/language/ja) | 13854 | 137285 | 10.1 | /mnt/stockage/packages/f42/gcc14/gcc/po/ja.po/mnt/stockage/packages/f42/gcc14/libcpp/po/ja.po | 
+ | [da](/f42/language/da) | 11104 | 137285 | 8.1 | /mnt/stockage/packages/f42/gcc14/gcc/po/da.po/mnt/stockage/packages/f42/gcc14/libcpp/po/da.po | 
+ | [hr](/f42/language/hr) | 5977 | 135524 | 4.4 | /mnt/stockage/packages/f42/gcc14/gcc/po/hr.po | 
+ | [nl](/f42/language/nl) | 5021 | 137285 | 3.7 | /mnt/stockage/packages/f42/gcc14/gcc/po/nl.po/mnt/stockage/packages/f42/gcc14/libcpp/po/nl.po | 
+ | [ka](/f42/language/ka) | 626 | 137285 | 0.5 | /mnt/stockage/packages/f42/gcc14/gcc/po/ka.po/mnt/stockage/packages/f42/gcc14/libcpp/po/ka.po | 
+ | [be](/f42/language/be) | 221 | 137285 | 0.2 | /mnt/stockage/packages/f42/gcc14/gcc/po/be.po/mnt/stockage/packages/f42/gcc14/libcpp/po/be.po | 
+ | [el](/f42/language/el) | 176 | 137285 | 0.1 | /mnt/stockage/packages/f42/gcc14/gcc/po/el.po/mnt/stockage/packages/f42/gcc14/libcpp/po/el.po | 
 {.sortable}
 
 

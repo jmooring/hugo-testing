@@ -18,21 +18,21 @@ The package NetworkManager-openvpn (version 0.3.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f7/language/cs.md" >}}) | 360 | 360 | 100.0 | /mnt/stockage/packages/f7/NetworkManager-openvpn/po/cs.po | 
- | [da]({{< ref "/f7/language/da.md" >}}) | 360 | 360 | 100.0 | /mnt/stockage/packages/f7/NetworkManager-openvpn/po/da.po | 
- | [fi]({{< ref "/f7/language/fi.md" >}}) | 360 | 360 | 100.0 | /mnt/stockage/packages/f7/NetworkManager-openvpn/po/fi.po | 
- | [pl]({{< ref "/f7/language/pl.md" >}}) | 360 | 360 | 100.0 | /mnt/stockage/packages/f7/NetworkManager-openvpn/po/pl.po | 
- | [vi]({{< ref "/f7/language/vi.md" >}}) | 360 | 360 | 100.0 | /mnt/stockage/packages/f7/NetworkManager-openvpn/po/vi.po | 
- | [sv]({{< ref "/f7/language/sv.md" >}}) | 150 | 360 | 41.7 | /mnt/stockage/packages/f7/NetworkManager-openvpn/po/sv.po | 
- | [de]({{< ref "/f7/language/de.md" >}}) | 6 | 360 | 1.7 | /mnt/stockage/packages/f7/NetworkManager-openvpn/po/de.po | 
- | [es]({{< ref "/f7/language/es.md" >}}) | 6 | 360 | 1.7 | /mnt/stockage/packages/f7/NetworkManager-openvpn/po/es.po | 
- | [fr]({{< ref "/f7/language/fr.md" >}}) | 6 | 360 | 1.7 | /mnt/stockage/packages/f7/NetworkManager-openvpn/po/fr.po | 
- | [hu]({{< ref "/f7/language/hu.md" >}}) | 6 | 360 | 1.7 | /mnt/stockage/packages/f7/NetworkManager-openvpn/po/hu.po | 
- | [it]({{< ref "/f7/language/it.md" >}}) | 6 | 360 | 1.7 | /mnt/stockage/packages/f7/NetworkManager-openvpn/po/it.po | 
- | [ja]({{< ref "/f7/language/ja.md" >}}) | 6 | 360 | 1.7 | /mnt/stockage/packages/f7/NetworkManager-openvpn/po/ja.po | 
- | [pt_BR]({{< ref "/f7/language/pt_BR.md" >}}) | 6 | 360 | 1.7 | /mnt/stockage/packages/f7/NetworkManager-openvpn/po/pt_BR.po | 
- | [zh_Hans]({{< ref "/f7/language/zh_Hans.md" >}}) | 6 | 360 | 1.7 | /mnt/stockage/packages/f7/NetworkManager-openvpn/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f7/language/zh_Hant.md" >}}) | 6 | 360 | 1.7 | /mnt/stockage/packages/f7/NetworkManager-openvpn/po/zh_TW.po | 
+ | [cs](/f7/language/cs) | 360 | 360 | 100.0 | /mnt/stockage/packages/f7/NetworkManager-openvpn/po/cs.po | 
+ | [da](/f7/language/da) | 360 | 360 | 100.0 | /mnt/stockage/packages/f7/NetworkManager-openvpn/po/da.po | 
+ | [fi](/f7/language/fi) | 360 | 360 | 100.0 | /mnt/stockage/packages/f7/NetworkManager-openvpn/po/fi.po | 
+ | [pl](/f7/language/pl) | 360 | 360 | 100.0 | /mnt/stockage/packages/f7/NetworkManager-openvpn/po/pl.po | 
+ | [vi](/f7/language/vi) | 360 | 360 | 100.0 | /mnt/stockage/packages/f7/NetworkManager-openvpn/po/vi.po | 
+ | [sv](/f7/language/sv) | 150 | 360 | 41.7 | /mnt/stockage/packages/f7/NetworkManager-openvpn/po/sv.po | 
+ | [de](/f7/language/de) | 6 | 360 | 1.7 | /mnt/stockage/packages/f7/NetworkManager-openvpn/po/de.po | 
+ | [es](/f7/language/es) | 6 | 360 | 1.7 | /mnt/stockage/packages/f7/NetworkManager-openvpn/po/es.po | 
+ | [fr](/f7/language/fr) | 6 | 360 | 1.7 | /mnt/stockage/packages/f7/NetworkManager-openvpn/po/fr.po | 
+ | [hu](/f7/language/hu) | 6 | 360 | 1.7 | /mnt/stockage/packages/f7/NetworkManager-openvpn/po/hu.po | 
+ | [it](/f7/language/it) | 6 | 360 | 1.7 | /mnt/stockage/packages/f7/NetworkManager-openvpn/po/it.po | 
+ | [ja](/f7/language/ja) | 6 | 360 | 1.7 | /mnt/stockage/packages/f7/NetworkManager-openvpn/po/ja.po | 
+ | [pt_BR](/f7/language/pt_BR) | 6 | 360 | 1.7 | /mnt/stockage/packages/f7/NetworkManager-openvpn/po/pt_BR.po | 
+ | [zh_Hans](/f7/language/zh_Hans) | 6 | 360 | 1.7 | /mnt/stockage/packages/f7/NetworkManager-openvpn/po/zh_CN.po | 
+ | [zh_Hant](/f7/language/zh_Hant) | 6 | 360 | 1.7 | /mnt/stockage/packages/f7/NetworkManager-openvpn/po/zh_TW.po | 
 {.sortable}
 
 

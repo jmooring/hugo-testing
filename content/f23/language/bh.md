@@ -38,7 +38,7 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [stellarium]({{< ref "/f23/package/stellarium.md" >}}) | 11 | 17168 | 0.1 | Bihari <bh@li.org> | 
+ | [stellarium](/f23/package/stellarium) | 11 | 17168 | 0.1 | Bihari <bh@li.org> | 
 {.sortable}
 
 

@@ -38,7 +38,7 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [wesnoth]({{< ref "/f38/package/wesnoth.md" >}}) | 417 | 339468 | 0.1 |  | 
+ | [wesnoth](/f38/package/wesnoth) | 417 | 339468 | 0.1 |  | 
 {.sortable}
 
 

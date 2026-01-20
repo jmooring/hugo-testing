@@ -40,14 +40,14 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [libreoffice]({{< ref "/f16/package/libreoffice.md" >}}) | 411563 | 533994 | 77.1 | LANGUAGE <LL@li.org> | 
- | [console-setup]({{< ref "/f16/package/console-setup.md" >}}) | 501 | 979 | 51.2 | bo <translation-team-bo@lists.sourceforge.net> | 
- | [tuxpaint]({{< ref "/f16/package/tuxpaint.md" >}}) | 61 | 1247 | 4.9 | LANGUAGE <LL@li.org> | 
- | [pootle]({{< ref "/f16/package/pootle.md" >}}) | 4 | 2424 | 0.2 | LANGUAGE <LL@li.org> | 
- | [gnomebaker]({{< ref "/f16/package/gnomebaker.md" >}}) | 0 | 1186 | 0.0 | Tibetan <bo@li.org> | 
- | [lightdm]({{< ref "/f16/package/lightdm.md" >}}) | 0 | 79 | 0.0 | Tibetan <bo@li.org> | 
- | [stellarium]({{< ref "/f16/package/stellarium.md" >}}) | 0 | 4618 | 0.0 | Tibetan <bo@li.org> | 
- | [vidalia]({{< ref "/f16/package/vidalia.md" >}}) | 0 | 10377 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [libreoffice](/f16/package/libreoffice) | 411563 | 533994 | 77.1 | LANGUAGE <LL@li.org> | 
+ | [console-setup](/f16/package/console-setup) | 501 | 979 | 51.2 | bo <translation-team-bo@lists.sourceforge.net> | 
+ | [tuxpaint](/f16/package/tuxpaint) | 61 | 1247 | 4.9 | LANGUAGE <LL@li.org> | 
+ | [pootle](/f16/package/pootle) | 4 | 2424 | 0.2 | LANGUAGE <LL@li.org> | 
+ | [gnomebaker](/f16/package/gnomebaker) | 0 | 1186 | 0.0 | Tibetan <bo@li.org> | 
+ | [lightdm](/f16/package/lightdm) | 0 | 79 | 0.0 | Tibetan <bo@li.org> | 
+ | [stellarium](/f16/package/stellarium) | 0 | 4618 | 0.0 | Tibetan <bo@li.org> | 
+ | [vidalia](/f16/package/vidalia) | 0 | 10377 | 0.0 | LANGUAGE <LL@li.org> | 
 {.sortable}
 
 

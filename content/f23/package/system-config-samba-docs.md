@@ -18,88 +18,88 @@ The package system-config-samba-docs (version 1.0.9):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f23/language/ar.md" >}}) | 1195 | 1195 | 100.0 | /mnt/stockage/packages/f23/system-config-samba-docs/doc/ar/ar.po | 
- | [de]({{< ref "/f23/language/de.md" >}}) | 1195 | 1195 | 100.0 | /mnt/stockage/packages/f23/system-config-samba-docs/doc/de/de.po | 
- | [es]({{< ref "/f23/language/es.md" >}}) | 1195 | 1195 | 100.0 | /mnt/stockage/packages/f23/system-config-samba-docs/doc/es/es.po | 
- | [it]({{< ref "/f23/language/it.md" >}}) | 1195 | 1195 | 100.0 | /mnt/stockage/packages/f23/system-config-samba-docs/doc/it/it.po | 
- | [ja]({{< ref "/f23/language/ja.md" >}}) | 1195 | 1195 | 100.0 | /mnt/stockage/packages/f23/system-config-samba-docs/doc/ja/ja.po | 
- | [nl]({{< ref "/f23/language/nl.md" >}}) | 1195 | 1195 | 100.0 | /mnt/stockage/packages/f23/system-config-samba-docs/doc/nl/nl.po | 
- | [pl]({{< ref "/f23/language/pl.md" >}}) | 1195 | 1195 | 100.0 | /mnt/stockage/packages/f23/system-config-samba-docs/doc/pl/pl.po | 
- | [pt]({{< ref "/f23/language/pt.md" >}}) | 1195 | 1195 | 100.0 | /mnt/stockage/packages/f23/system-config-samba-docs/doc/pt/pt.po | 
- | [pt_BR]({{< ref "/f23/language/pt_BR.md" >}}) | 1195 | 1195 | 100.0 | /mnt/stockage/packages/f23/system-config-samba-docs/doc/pt_BR/pt_BR.po | 
- | [ru]({{< ref "/f23/language/ru.md" >}}) | 1195 | 1195 | 100.0 | /mnt/stockage/packages/f23/system-config-samba-docs/doc/ru/ru.po | 
- | [sr]({{< ref "/f23/language/sr.md" >}}) | 1195 | 1195 | 100.0 | /mnt/stockage/packages/f23/system-config-samba-docs/doc/sr/sr.po | 
- | [sr_Latn]({{< ref "/f23/language/sr_Latn.md" >}}) | 1195 | 1195 | 100.0 | /mnt/stockage/packages/f23/system-config-samba-docs/doc/sr@latin/sr@latin.po | 
- | [sv]({{< ref "/f23/language/sv.md" >}}) | 1195 | 1195 | 100.0 | /mnt/stockage/packages/f23/system-config-samba-docs/doc/sv/sv.po | 
- | [uk]({{< ref "/f23/language/uk.md" >}}) | 1195 | 1195 | 100.0 | /mnt/stockage/packages/f23/system-config-samba-docs/doc/uk/uk.po | 
- | [zh_Hans]({{< ref "/f23/language/zh_Hans.md" >}}) | 1195 | 1195 | 100.0 | /mnt/stockage/packages/f23/system-config-samba-docs/doc/zh_CN/zh_CN.po | 
- | [zh_Hant]({{< ref "/f23/language/zh_Hant.md" >}}) | 1195 | 1195 | 100.0 | /mnt/stockage/packages/f23/system-config-samba-docs/doc/zh_TW/zh_TW.po | 
- | [ca]({{< ref "/f23/language/ca.md" >}}) | 1188 | 1195 | 99.4 | /mnt/stockage/packages/f23/system-config-samba-docs/doc/ca/ca.po | 
- | [el]({{< ref "/f23/language/el.md" >}}) | 1188 | 1195 | 99.4 | /mnt/stockage/packages/f23/system-config-samba-docs/doc/el/el.po | 
- | [fr]({{< ref "/f23/language/fr.md" >}}) | 1188 | 1195 | 99.4 | /mnt/stockage/packages/f23/system-config-samba-docs/doc/fr/fr.po | 
- | [gu]({{< ref "/f23/language/gu.md" >}}) | 1188 | 1195 | 99.4 | /mnt/stockage/packages/f23/system-config-samba-docs/doc/gu/gu.po | 
- | [hu]({{< ref "/f23/language/hu.md" >}}) | 1188 | 1195 | 99.4 | /mnt/stockage/packages/f23/system-config-samba-docs/doc/hu/hu.po | 
- | [kn]({{< ref "/f23/language/kn.md" >}}) | 1188 | 1195 | 99.4 | /mnt/stockage/packages/f23/system-config-samba-docs/doc/kn/kn.po | 
- | [ml]({{< ref "/f23/language/ml.md" >}}) | 1188 | 1195 | 99.4 | /mnt/stockage/packages/f23/system-config-samba-docs/doc/ml/ml.po | 
- | [ta]({{< ref "/f23/language/ta.md" >}}) | 1188 | 1195 | 99.4 | /mnt/stockage/packages/f23/system-config-samba-docs/doc/ta/ta.po | 
- | [cs]({{< ref "/f23/language/cs.md" >}}) | 849 | 1195 | 71.0 | /mnt/stockage/packages/f23/system-config-samba-docs/doc/cs/cs.po | 
- | [id]({{< ref "/f23/language/id.md" >}}) | 497 | 1195 | 41.6 | /mnt/stockage/packages/f23/system-config-samba-docs/doc/id/id.po | 
- | [mr]({{< ref "/f23/language/mr.md" >}}) | 486 | 1195 | 40.7 | /mnt/stockage/packages/f23/system-config-samba-docs/doc/mr/mr.po | 
- | [or]({{< ref "/f23/language/or.md" >}}) | 123 | 1195 | 10.3 | /mnt/stockage/packages/f23/system-config-samba-docs/doc/or/or.po | 
- | [is]({{< ref "/f23/language/is.md" >}}) | 51 | 1195 | 4.3 | /mnt/stockage/packages/f23/system-config-samba-docs/doc/is/is.po | 
- | [hi]({{< ref "/f23/language/hi.md" >}}) | 39 | 1195 | 3.3 | /mnt/stockage/packages/f23/system-config-samba-docs/doc/hi/hi.po | 
- | [bn_IN]({{< ref "/f23/language/bn_IN.md" >}}) | 8 | 1195 | 0.7 | /mnt/stockage/packages/f23/system-config-samba-docs/doc/bn_IN/bn_IN.po | 
- | [pa]({{< ref "/f23/language/pa.md" >}}) | 8 | 1195 | 0.7 | /mnt/stockage/packages/f23/system-config-samba-docs/doc/pa/pa.po | 
- | [da]({{< ref "/f23/language/da.md" >}}) | 7 | 1195 | 0.6 | /mnt/stockage/packages/f23/system-config-samba-docs/doc/da/da.po | 
- | [af]({{< ref "/f23/language/af.md" >}}) | 0 | 1195 | 0.0 | /mnt/stockage/packages/f23/system-config-samba-docs/doc/af/af.po | 
- | [am]({{< ref "/f23/language/am.md" >}}) | 0 | 1195 | 0.0 | /mnt/stockage/packages/f23/system-config-samba-docs/doc/am/am.po | 
- | [as]({{< ref "/f23/language/as.md" >}}) | 0 | 1195 | 0.0 | /mnt/stockage/packages/f23/system-config-samba-docs/doc/as/as.po | 
- | [az]({{< ref "/f23/language/az.md" >}}) | 0 | 1195 | 0.0 | /mnt/stockage/packages/f23/system-config-samba-docs/doc/az/az.po | 
- | [bal]({{< ref "/f23/language/bal.md" >}}) | 0 | 1195 | 0.0 | /mnt/stockage/packages/f23/system-config-samba-docs/doc/bal/bal.po | 
- | [be]({{< ref "/f23/language/be.md" >}}) | 0 | 1195 | 0.0 | /mnt/stockage/packages/f23/system-config-samba-docs/doc/be/be.po | 
- | [be_Latn]({{< ref "/f23/language/be_Latn.md" >}}) | 0 | 1195 | 0.0 | /mnt/stockage/packages/f23/system-config-samba-docs/doc/be@latin/be@latin.po | 
- | [bg]({{< ref "/f23/language/bg.md" >}}) | 0 | 1195 | 0.0 | /mnt/stockage/packages/f23/system-config-samba-docs/doc/bg/bg.po | 
- | [bn]({{< ref "/f23/language/bn.md" >}}) | 0 | 1195 | 0.0 | /mnt/stockage/packages/f23/system-config-samba-docs/doc/bn/bn.po | 
- | [bs]({{< ref "/f23/language/bs.md" >}}) | 0 | 1195 | 0.0 | /mnt/stockage/packages/f23/system-config-samba-docs/doc/bs/bs.po | 
- | [cy]({{< ref "/f23/language/cy.md" >}}) | 0 | 1195 | 0.0 | /mnt/stockage/packages/f23/system-config-samba-docs/doc/cy/cy.po | 
- | [dz]({{< ref "/f23/language/dz.md" >}}) | 0 | 1195 | 0.0 | /mnt/stockage/packages/f23/system-config-samba-docs/doc/dz/dz.po | 
- | [en_GB]({{< ref "/f23/language/en_GB.md" >}}) | 0 | 1195 | 0.0 | /mnt/stockage/packages/f23/system-config-samba-docs/doc/en_GB/en_GB.po | 
- | [et]({{< ref "/f23/language/et.md" >}}) | 0 | 1195 | 0.0 | /mnt/stockage/packages/f23/system-config-samba-docs/doc/et/et.po | 
- | [eu]({{< ref "/f23/language/eu.md" >}}) | 0 | 2390 | 0.0 | /mnt/stockage/packages/f23/system-config-samba-docs/doc/eu_ES/eu_ES.po/mnt/stockage/packages/f23/system-config-samba-docs/doc/eu/eu.po | 
- | [fa]({{< ref "/f23/language/fa.md" >}}) | 0 | 1195 | 0.0 | /mnt/stockage/packages/f23/system-config-samba-docs/doc/fa/fa.po | 
- | [fi]({{< ref "/f23/language/fi.md" >}}) | 0 | 1195 | 0.0 | /mnt/stockage/packages/f23/system-config-samba-docs/doc/fi/fi.po | 
- | [gl]({{< ref "/f23/language/gl.md" >}}) | 0 | 1195 | 0.0 | /mnt/stockage/packages/f23/system-config-samba-docs/doc/gl/gl.po | 
- | [he]({{< ref "/f23/language/he.md" >}}) | 0 | 1195 | 0.0 | /mnt/stockage/packages/f23/system-config-samba-docs/doc/he/he.po | 
- | [hr]({{< ref "/f23/language/hr.md" >}}) | 0 | 1195 | 0.0 | /mnt/stockage/packages/f23/system-config-samba-docs/doc/hr/hr.po | 
- | [hy]({{< ref "/f23/language/hy.md" >}}) | 0 | 1195 | 0.0 | /mnt/stockage/packages/f23/system-config-samba-docs/doc/hy/hy.po | 
- | [ilo]({{< ref "/f23/language/ilo.md" >}}) | 0 | 1195 | 0.0 | /mnt/stockage/packages/f23/system-config-samba-docs/doc/ilo/ilo.po | 
- | [ka]({{< ref "/f23/language/ka.md" >}}) | 0 | 1195 | 0.0 | /mnt/stockage/packages/f23/system-config-samba-docs/doc/ka/ka.po | 
- | [ko]({{< ref "/f23/language/ko.md" >}}) | 0 | 1195 | 0.0 | /mnt/stockage/packages/f23/system-config-samba-docs/doc/ko/ko.po | 
- | [ku]({{< ref "/f23/language/ku.md" >}}) | 0 | 1195 | 0.0 | /mnt/stockage/packages/f23/system-config-samba-docs/doc/ku/ku.po | 
- | [lo]({{< ref "/f23/language/lo.md" >}}) | 0 | 1195 | 0.0 | /mnt/stockage/packages/f23/system-config-samba-docs/doc/lo/lo.po | 
- | [lt]({{< ref "/f23/language/lt.md" >}}) | 0 | 1195 | 0.0 | /mnt/stockage/packages/f23/system-config-samba-docs/doc/lt/lt.po | 
- | [lv]({{< ref "/f23/language/lv.md" >}}) | 0 | 1195 | 0.0 | /mnt/stockage/packages/f23/system-config-samba-docs/doc/lv/lv.po | 
- | [mai]({{< ref "/f23/language/mai.md" >}}) | 0 | 1195 | 0.0 | /mnt/stockage/packages/f23/system-config-samba-docs/doc/mai/mai.po | 
- | [mk]({{< ref "/f23/language/mk.md" >}}) | 0 | 1195 | 0.0 | /mnt/stockage/packages/f23/system-config-samba-docs/doc/mk/mk.po | 
- | [mn]({{< ref "/f23/language/mn.md" >}}) | 0 | 1195 | 0.0 | /mnt/stockage/packages/f23/system-config-samba-docs/doc/mn/mn.po | 
- | [ms]({{< ref "/f23/language/ms.md" >}}) | 0 | 1195 | 0.0 | /mnt/stockage/packages/f23/system-config-samba-docs/doc/ms/ms.po | 
- | [my]({{< ref "/f23/language/my.md" >}}) | 0 | 1195 | 0.0 | /mnt/stockage/packages/f23/system-config-samba-docs/doc/my/my.po | 
- | [nb_NO]({{< ref "/f23/language/nb_NO.md" >}}) | 0 | 2390 | 0.0 | /mnt/stockage/packages/f23/system-config-samba-docs/doc/no/no.po/mnt/stockage/packages/f23/system-config-samba-docs/doc/nb/nb.po | 
- | [ne]({{< ref "/f23/language/ne.md" >}}) | 0 | 1195 | 0.0 | /mnt/stockage/packages/f23/system-config-samba-docs/doc/ne/ne.po | 
- | [nn]({{< ref "/f23/language/nn.md" >}}) | 0 | 1195 | 0.0 | /mnt/stockage/packages/f23/system-config-samba-docs/doc/nn/nn.po | 
- | [nso]({{< ref "/f23/language/nso.md" >}}) | 0 | 1195 | 0.0 | /mnt/stockage/packages/f23/system-config-samba-docs/doc/nso/nso.po | 
- | [ro]({{< ref "/f23/language/ro.md" >}}) | 0 | 1195 | 0.0 | /mnt/stockage/packages/f23/system-config-samba-docs/doc/ro/ro.po | 
- | [si]({{< ref "/f23/language/si.md" >}}) | 0 | 1195 | 0.0 | /mnt/stockage/packages/f23/system-config-samba-docs/doc/si/si.po | 
- | [sk]({{< ref "/f23/language/sk.md" >}}) | 0 | 1195 | 0.0 | /mnt/stockage/packages/f23/system-config-samba-docs/doc/sk/sk.po | 
- | [sl]({{< ref "/f23/language/sl.md" >}}) | 0 | 1195 | 0.0 | /mnt/stockage/packages/f23/system-config-samba-docs/doc/sl/sl.po | 
- | [sq]({{< ref "/f23/language/sq.md" >}}) | 0 | 1195 | 0.0 | /mnt/stockage/packages/f23/system-config-samba-docs/doc/sq/sq.po | 
- | [te]({{< ref "/f23/language/te.md" >}}) | 0 | 1195 | 0.0 | /mnt/stockage/packages/f23/system-config-samba-docs/doc/te/te.po | 
- | [th]({{< ref "/f23/language/th.md" >}}) | 0 | 1195 | 0.0 | /mnt/stockage/packages/f23/system-config-samba-docs/doc/th/th.po | 
- | [tl]({{< ref "/f23/language/tl.md" >}}) | 0 | 1195 | 0.0 | /mnt/stockage/packages/f23/system-config-samba-docs/doc/tl/tl.po | 
- | [tr]({{< ref "/f23/language/tr.md" >}}) | 0 | 1195 | 0.0 | /mnt/stockage/packages/f23/system-config-samba-docs/doc/tr/tr.po | 
- | [ur]({{< ref "/f23/language/ur.md" >}}) | 0 | 1195 | 0.0 | /mnt/stockage/packages/f23/system-config-samba-docs/doc/ur/ur.po | 
- | [vi]({{< ref "/f23/language/vi.md" >}}) | 0 | 1195 | 0.0 | /mnt/stockage/packages/f23/system-config-samba-docs/doc/vi/vi.po | 
- | [zu]({{< ref "/f23/language/zu.md" >}}) | 0 | 1195 | 0.0 | /mnt/stockage/packages/f23/system-config-samba-docs/doc/zu/zu.po | 
+ | [ar](/f23/language/ar) | 1195 | 1195 | 100.0 | /mnt/stockage/packages/f23/system-config-samba-docs/doc/ar/ar.po | 
+ | [de](/f23/language/de) | 1195 | 1195 | 100.0 | /mnt/stockage/packages/f23/system-config-samba-docs/doc/de/de.po | 
+ | [es](/f23/language/es) | 1195 | 1195 | 100.0 | /mnt/stockage/packages/f23/system-config-samba-docs/doc/es/es.po | 
+ | [it](/f23/language/it) | 1195 | 1195 | 100.0 | /mnt/stockage/packages/f23/system-config-samba-docs/doc/it/it.po | 
+ | [ja](/f23/language/ja) | 1195 | 1195 | 100.0 | /mnt/stockage/packages/f23/system-config-samba-docs/doc/ja/ja.po | 
+ | [nl](/f23/language/nl) | 1195 | 1195 | 100.0 | /mnt/stockage/packages/f23/system-config-samba-docs/doc/nl/nl.po | 
+ | [pl](/f23/language/pl) | 1195 | 1195 | 100.0 | /mnt/stockage/packages/f23/system-config-samba-docs/doc/pl/pl.po | 
+ | [pt](/f23/language/pt) | 1195 | 1195 | 100.0 | /mnt/stockage/packages/f23/system-config-samba-docs/doc/pt/pt.po | 
+ | [pt_BR](/f23/language/pt_BR) | 1195 | 1195 | 100.0 | /mnt/stockage/packages/f23/system-config-samba-docs/doc/pt_BR/pt_BR.po | 
+ | [ru](/f23/language/ru) | 1195 | 1195 | 100.0 | /mnt/stockage/packages/f23/system-config-samba-docs/doc/ru/ru.po | 
+ | [sr](/f23/language/sr) | 1195 | 1195 | 100.0 | /mnt/stockage/packages/f23/system-config-samba-docs/doc/sr/sr.po | 
+ | [sr_Latn](/f23/language/sr_Latn) | 1195 | 1195 | 100.0 | /mnt/stockage/packages/f23/system-config-samba-docs/doc/sr@latin/sr@latin.po | 
+ | [sv](/f23/language/sv) | 1195 | 1195 | 100.0 | /mnt/stockage/packages/f23/system-config-samba-docs/doc/sv/sv.po | 
+ | [uk](/f23/language/uk) | 1195 | 1195 | 100.0 | /mnt/stockage/packages/f23/system-config-samba-docs/doc/uk/uk.po | 
+ | [zh_Hans](/f23/language/zh_Hans) | 1195 | 1195 | 100.0 | /mnt/stockage/packages/f23/system-config-samba-docs/doc/zh_CN/zh_CN.po | 
+ | [zh_Hant](/f23/language/zh_Hant) | 1195 | 1195 | 100.0 | /mnt/stockage/packages/f23/system-config-samba-docs/doc/zh_TW/zh_TW.po | 
+ | [ca](/f23/language/ca) | 1188 | 1195 | 99.4 | /mnt/stockage/packages/f23/system-config-samba-docs/doc/ca/ca.po | 
+ | [el](/f23/language/el) | 1188 | 1195 | 99.4 | /mnt/stockage/packages/f23/system-config-samba-docs/doc/el/el.po | 
+ | [fr](/f23/language/fr) | 1188 | 1195 | 99.4 | /mnt/stockage/packages/f23/system-config-samba-docs/doc/fr/fr.po | 
+ | [gu](/f23/language/gu) | 1188 | 1195 | 99.4 | /mnt/stockage/packages/f23/system-config-samba-docs/doc/gu/gu.po | 
+ | [hu](/f23/language/hu) | 1188 | 1195 | 99.4 | /mnt/stockage/packages/f23/system-config-samba-docs/doc/hu/hu.po | 
+ | [kn](/f23/language/kn) | 1188 | 1195 | 99.4 | /mnt/stockage/packages/f23/system-config-samba-docs/doc/kn/kn.po | 
+ | [ml](/f23/language/ml) | 1188 | 1195 | 99.4 | /mnt/stockage/packages/f23/system-config-samba-docs/doc/ml/ml.po | 
+ | [ta](/f23/language/ta) | 1188 | 1195 | 99.4 | /mnt/stockage/packages/f23/system-config-samba-docs/doc/ta/ta.po | 
+ | [cs](/f23/language/cs) | 849 | 1195 | 71.0 | /mnt/stockage/packages/f23/system-config-samba-docs/doc/cs/cs.po | 
+ | [id](/f23/language/id) | 497 | 1195 | 41.6 | /mnt/stockage/packages/f23/system-config-samba-docs/doc/id/id.po | 
+ | [mr](/f23/language/mr) | 486 | 1195 | 40.7 | /mnt/stockage/packages/f23/system-config-samba-docs/doc/mr/mr.po | 
+ | [or](/f23/language/or) | 123 | 1195 | 10.3 | /mnt/stockage/packages/f23/system-config-samba-docs/doc/or/or.po | 
+ | [is](/f23/language/is) | 51 | 1195 | 4.3 | /mnt/stockage/packages/f23/system-config-samba-docs/doc/is/is.po | 
+ | [hi](/f23/language/hi) | 39 | 1195 | 3.3 | /mnt/stockage/packages/f23/system-config-samba-docs/doc/hi/hi.po | 
+ | [bn_IN](/f23/language/bn_IN) | 8 | 1195 | 0.7 | /mnt/stockage/packages/f23/system-config-samba-docs/doc/bn_IN/bn_IN.po | 
+ | [pa](/f23/language/pa) | 8 | 1195 | 0.7 | /mnt/stockage/packages/f23/system-config-samba-docs/doc/pa/pa.po | 
+ | [da](/f23/language/da) | 7 | 1195 | 0.6 | /mnt/stockage/packages/f23/system-config-samba-docs/doc/da/da.po | 
+ | [af](/f23/language/af) | 0 | 1195 | 0.0 | /mnt/stockage/packages/f23/system-config-samba-docs/doc/af/af.po | 
+ | [am](/f23/language/am) | 0 | 1195 | 0.0 | /mnt/stockage/packages/f23/system-config-samba-docs/doc/am/am.po | 
+ | [as](/f23/language/as) | 0 | 1195 | 0.0 | /mnt/stockage/packages/f23/system-config-samba-docs/doc/as/as.po | 
+ | [az](/f23/language/az) | 0 | 1195 | 0.0 | /mnt/stockage/packages/f23/system-config-samba-docs/doc/az/az.po | 
+ | [bal](/f23/language/bal) | 0 | 1195 | 0.0 | /mnt/stockage/packages/f23/system-config-samba-docs/doc/bal/bal.po | 
+ | [be](/f23/language/be) | 0 | 1195 | 0.0 | /mnt/stockage/packages/f23/system-config-samba-docs/doc/be/be.po | 
+ | [be_Latn](/f23/language/be_Latn) | 0 | 1195 | 0.0 | /mnt/stockage/packages/f23/system-config-samba-docs/doc/be@latin/be@latin.po | 
+ | [bg](/f23/language/bg) | 0 | 1195 | 0.0 | /mnt/stockage/packages/f23/system-config-samba-docs/doc/bg/bg.po | 
+ | [bn](/f23/language/bn) | 0 | 1195 | 0.0 | /mnt/stockage/packages/f23/system-config-samba-docs/doc/bn/bn.po | 
+ | [bs](/f23/language/bs) | 0 | 1195 | 0.0 | /mnt/stockage/packages/f23/system-config-samba-docs/doc/bs/bs.po | 
+ | [cy](/f23/language/cy) | 0 | 1195 | 0.0 | /mnt/stockage/packages/f23/system-config-samba-docs/doc/cy/cy.po | 
+ | [dz](/f23/language/dz) | 0 | 1195 | 0.0 | /mnt/stockage/packages/f23/system-config-samba-docs/doc/dz/dz.po | 
+ | [en_GB](/f23/language/en_GB) | 0 | 1195 | 0.0 | /mnt/stockage/packages/f23/system-config-samba-docs/doc/en_GB/en_GB.po | 
+ | [et](/f23/language/et) | 0 | 1195 | 0.0 | /mnt/stockage/packages/f23/system-config-samba-docs/doc/et/et.po | 
+ | [eu](/f23/language/eu) | 0 | 2390 | 0.0 | /mnt/stockage/packages/f23/system-config-samba-docs/doc/eu_ES/eu_ES.po/mnt/stockage/packages/f23/system-config-samba-docs/doc/eu/eu.po | 
+ | [fa](/f23/language/fa) | 0 | 1195 | 0.0 | /mnt/stockage/packages/f23/system-config-samba-docs/doc/fa/fa.po | 
+ | [fi](/f23/language/fi) | 0 | 1195 | 0.0 | /mnt/stockage/packages/f23/system-config-samba-docs/doc/fi/fi.po | 
+ | [gl](/f23/language/gl) | 0 | 1195 | 0.0 | /mnt/stockage/packages/f23/system-config-samba-docs/doc/gl/gl.po | 
+ | [he](/f23/language/he) | 0 | 1195 | 0.0 | /mnt/stockage/packages/f23/system-config-samba-docs/doc/he/he.po | 
+ | [hr](/f23/language/hr) | 0 | 1195 | 0.0 | /mnt/stockage/packages/f23/system-config-samba-docs/doc/hr/hr.po | 
+ | [hy](/f23/language/hy) | 0 | 1195 | 0.0 | /mnt/stockage/packages/f23/system-config-samba-docs/doc/hy/hy.po | 
+ | [ilo](/f23/language/ilo) | 0 | 1195 | 0.0 | /mnt/stockage/packages/f23/system-config-samba-docs/doc/ilo/ilo.po | 
+ | [ka](/f23/language/ka) | 0 | 1195 | 0.0 | /mnt/stockage/packages/f23/system-config-samba-docs/doc/ka/ka.po | 
+ | [ko](/f23/language/ko) | 0 | 1195 | 0.0 | /mnt/stockage/packages/f23/system-config-samba-docs/doc/ko/ko.po | 
+ | [ku](/f23/language/ku) | 0 | 1195 | 0.0 | /mnt/stockage/packages/f23/system-config-samba-docs/doc/ku/ku.po | 
+ | [lo](/f23/language/lo) | 0 | 1195 | 0.0 | /mnt/stockage/packages/f23/system-config-samba-docs/doc/lo/lo.po | 
+ | [lt](/f23/language/lt) | 0 | 1195 | 0.0 | /mnt/stockage/packages/f23/system-config-samba-docs/doc/lt/lt.po | 
+ | [lv](/f23/language/lv) | 0 | 1195 | 0.0 | /mnt/stockage/packages/f23/system-config-samba-docs/doc/lv/lv.po | 
+ | [mai](/f23/language/mai) | 0 | 1195 | 0.0 | /mnt/stockage/packages/f23/system-config-samba-docs/doc/mai/mai.po | 
+ | [mk](/f23/language/mk) | 0 | 1195 | 0.0 | /mnt/stockage/packages/f23/system-config-samba-docs/doc/mk/mk.po | 
+ | [mn](/f23/language/mn) | 0 | 1195 | 0.0 | /mnt/stockage/packages/f23/system-config-samba-docs/doc/mn/mn.po | 
+ | [ms](/f23/language/ms) | 0 | 1195 | 0.0 | /mnt/stockage/packages/f23/system-config-samba-docs/doc/ms/ms.po | 
+ | [my](/f23/language/my) | 0 | 1195 | 0.0 | /mnt/stockage/packages/f23/system-config-samba-docs/doc/my/my.po | 
+ | [nb_NO](/f23/language/nb_NO) | 0 | 2390 | 0.0 | /mnt/stockage/packages/f23/system-config-samba-docs/doc/no/no.po/mnt/stockage/packages/f23/system-config-samba-docs/doc/nb/nb.po | 
+ | [ne](/f23/language/ne) | 0 | 1195 | 0.0 | /mnt/stockage/packages/f23/system-config-samba-docs/doc/ne/ne.po | 
+ | [nn](/f23/language/nn) | 0 | 1195 | 0.0 | /mnt/stockage/packages/f23/system-config-samba-docs/doc/nn/nn.po | 
+ | [nso](/f23/language/nso) | 0 | 1195 | 0.0 | /mnt/stockage/packages/f23/system-config-samba-docs/doc/nso/nso.po | 
+ | [ro](/f23/language/ro) | 0 | 1195 | 0.0 | /mnt/stockage/packages/f23/system-config-samba-docs/doc/ro/ro.po | 
+ | [si](/f23/language/si) | 0 | 1195 | 0.0 | /mnt/stockage/packages/f23/system-config-samba-docs/doc/si/si.po | 
+ | [sk](/f23/language/sk) | 0 | 1195 | 0.0 | /mnt/stockage/packages/f23/system-config-samba-docs/doc/sk/sk.po | 
+ | [sl](/f23/language/sl) | 0 | 1195 | 0.0 | /mnt/stockage/packages/f23/system-config-samba-docs/doc/sl/sl.po | 
+ | [sq](/f23/language/sq) | 0 | 1195 | 0.0 | /mnt/stockage/packages/f23/system-config-samba-docs/doc/sq/sq.po | 
+ | [te](/f23/language/te) | 0 | 1195 | 0.0 | /mnt/stockage/packages/f23/system-config-samba-docs/doc/te/te.po | 
+ | [th](/f23/language/th) | 0 | 1195 | 0.0 | /mnt/stockage/packages/f23/system-config-samba-docs/doc/th/th.po | 
+ | [tl](/f23/language/tl) | 0 | 1195 | 0.0 | /mnt/stockage/packages/f23/system-config-samba-docs/doc/tl/tl.po | 
+ | [tr](/f23/language/tr) | 0 | 1195 | 0.0 | /mnt/stockage/packages/f23/system-config-samba-docs/doc/tr/tr.po | 
+ | [ur](/f23/language/ur) | 0 | 1195 | 0.0 | /mnt/stockage/packages/f23/system-config-samba-docs/doc/ur/ur.po | 
+ | [vi](/f23/language/vi) | 0 | 1195 | 0.0 | /mnt/stockage/packages/f23/system-config-samba-docs/doc/vi/vi.po | 
+ | [zu](/f23/language/zu) | 0 | 1195 | 0.0 | /mnt/stockage/packages/f23/system-config-samba-docs/doc/zu/zu.po | 
 {.sortable}
 
 

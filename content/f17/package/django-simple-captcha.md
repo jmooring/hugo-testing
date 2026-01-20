@@ -18,7 +18,7 @@ The package django-simple-captcha (version 0.3.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f17/language/fr.md" >}}) | 11 | 11 | 100.0 | /mnt/stockage/packages/f17/django-simple-captcha/captcha/locale/fr/LC_MESSAGES/django.po | 
+ | [fr](/f17/language/fr) | 11 | 11 | 100.0 | /mnt/stockage/packages/f17/django-simple-captcha/captcha/locale/fr/LC_MESSAGES/django.po | 
 {.sortable}
 
 

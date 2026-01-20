@@ -18,9 +18,9 @@ The package transifex-client (version 0.13.7):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [en]({{< ref "/f39/language/en.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f39/transifex-client/tests/project_dir/test_expressions/bulk/1.en.po/mnt/stockage/packages/f39/transifex-client/tests/project_dir/test_expressions/bulk/2_en.po | 
- | [error]({{< ref "/f39/language/error.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f39/transifex-client/tests/project_dir/test_expressions/bulk/1.en_SE.po/mnt/stockage/packages/f39/transifex-client/tests/project_dir/test_expressions/bulk/2_en_SE.po | 
- | [se]({{< ref "/f39/language/se.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f39/transifex-client/tests/project_dir/test_expressions/bulk/3 en_SE.po | 
+ | [en](/f39/language/en) | 0 | 0 | 0.0 | /mnt/stockage/packages/f39/transifex-client/tests/project_dir/test_expressions/bulk/1.en.po/mnt/stockage/packages/f39/transifex-client/tests/project_dir/test_expressions/bulk/2_en.po | 
+ | [error](/f39/language/error) | 0 | 0 | 0.0 | /mnt/stockage/packages/f39/transifex-client/tests/project_dir/test_expressions/bulk/1.en_SE.po/mnt/stockage/packages/f39/transifex-client/tests/project_dir/test_expressions/bulk/2_en_SE.po | 
+ | [se](/f39/language/se) | 0 | 0 | 0.0 | /mnt/stockage/packages/f39/transifex-client/tests/project_dir/test_expressions/bulk/3 en_SE.po | 
 {.sortable}
 
 

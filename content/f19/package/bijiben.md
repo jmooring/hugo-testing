@@ -18,27 +18,27 @@ The package bijiben (version 3.8.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f19/language/cs.md" >}}) | 98 | 98 | 100.0 | /mnt/stockage/packages/f19/bijiben/po/cs.po | 
- | [da]({{< ref "/f19/language/da.md" >}}) | 98 | 98 | 100.0 | /mnt/stockage/packages/f19/bijiben/po/da.po | 
- | [de]({{< ref "/f19/language/de.md" >}}) | 98 | 98 | 100.0 | /mnt/stockage/packages/f19/bijiben/po/de.po | 
- | [el]({{< ref "/f19/language/el.md" >}}) | 98 | 98 | 100.0 | /mnt/stockage/packages/f19/bijiben/po/el.po | 
- | [es]({{< ref "/f19/language/es.md" >}}) | 98 | 98 | 100.0 | /mnt/stockage/packages/f19/bijiben/po/es.po | 
- | [fi]({{< ref "/f19/language/fi.md" >}}) | 98 | 98 | 100.0 | /mnt/stockage/packages/f19/bijiben/po/fi.po | 
- | [fr]({{< ref "/f19/language/fr.md" >}}) | 98 | 98 | 100.0 | /mnt/stockage/packages/f19/bijiben/po/fr.po | 
- | [gl]({{< ref "/f19/language/gl.md" >}}) | 21 | 21 | 100.0 | /mnt/stockage/packages/f19/bijiben/po/gl.po | 
- | [hu]({{< ref "/f19/language/hu.md" >}}) | 98 | 98 | 100.0 | /mnt/stockage/packages/f19/bijiben/po/hu.po | 
- | [it]({{< ref "/f19/language/it.md" >}}) | 98 | 98 | 100.0 | /mnt/stockage/packages/f19/bijiben/po/it.po | 
- | [pa]({{< ref "/f19/language/pa.md" >}}) | 98 | 98 | 100.0 | /mnt/stockage/packages/f19/bijiben/po/pa.po | 
- | [pl]({{< ref "/f19/language/pl.md" >}}) | 98 | 98 | 100.0 | /mnt/stockage/packages/f19/bijiben/po/pl.po | 
- | [pt_BR]({{< ref "/f19/language/pt_BR.md" >}}) | 98 | 98 | 100.0 | /mnt/stockage/packages/f19/bijiben/po/pt_BR.po | 
- | [ru]({{< ref "/f19/language/ru.md" >}}) | 153 | 153 | 100.0 | /mnt/stockage/packages/f19/bijiben/po/ru.po | 
- | [sk]({{< ref "/f19/language/sk.md" >}}) | 98 | 98 | 100.0 | /mnt/stockage/packages/f19/bijiben/po/sk.po | 
- | [sl]({{< ref "/f19/language/sl.md" >}}) | 98 | 98 | 100.0 | /mnt/stockage/packages/f19/bijiben/po/sl.po | 
- | [sr]({{< ref "/f19/language/sr.md" >}}) | 196 | 196 | 100.0 | /mnt/stockage/packages/f19/bijiben/po/sr.po/mnt/stockage/packages/f19/bijiben/po/sr@latin.po | 
- | [zh_Hans]({{< ref "/f19/language/zh_Hans.md" >}}) | 98 | 98 | 100.0 | /mnt/stockage/packages/f19/bijiben/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f19/language/zh_Hant.md" >}}) | 196 | 196 | 100.0 | /mnt/stockage/packages/f19/bijiben/po/zh_HK.po/mnt/stockage/packages/f19/bijiben/po/zh_TW.po | 
- | [ca]({{< ref "/f19/language/ca.md" >}}) | 49 | 65 | 75.4 | /mnt/stockage/packages/f19/bijiben/po/ca.po | 
- | [tr]({{< ref "/f19/language/tr.md" >}}) | 79 | 163 | 48.5 | /mnt/stockage/packages/f19/bijiben/po/tr.po | 
+ | [cs](/f19/language/cs) | 98 | 98 | 100.0 | /mnt/stockage/packages/f19/bijiben/po/cs.po | 
+ | [da](/f19/language/da) | 98 | 98 | 100.0 | /mnt/stockage/packages/f19/bijiben/po/da.po | 
+ | [de](/f19/language/de) | 98 | 98 | 100.0 | /mnt/stockage/packages/f19/bijiben/po/de.po | 
+ | [el](/f19/language/el) | 98 | 98 | 100.0 | /mnt/stockage/packages/f19/bijiben/po/el.po | 
+ | [es](/f19/language/es) | 98 | 98 | 100.0 | /mnt/stockage/packages/f19/bijiben/po/es.po | 
+ | [fi](/f19/language/fi) | 98 | 98 | 100.0 | /mnt/stockage/packages/f19/bijiben/po/fi.po | 
+ | [fr](/f19/language/fr) | 98 | 98 | 100.0 | /mnt/stockage/packages/f19/bijiben/po/fr.po | 
+ | [gl](/f19/language/gl) | 21 | 21 | 100.0 | /mnt/stockage/packages/f19/bijiben/po/gl.po | 
+ | [hu](/f19/language/hu) | 98 | 98 | 100.0 | /mnt/stockage/packages/f19/bijiben/po/hu.po | 
+ | [it](/f19/language/it) | 98 | 98 | 100.0 | /mnt/stockage/packages/f19/bijiben/po/it.po | 
+ | [pa](/f19/language/pa) | 98 | 98 | 100.0 | /mnt/stockage/packages/f19/bijiben/po/pa.po | 
+ | [pl](/f19/language/pl) | 98 | 98 | 100.0 | /mnt/stockage/packages/f19/bijiben/po/pl.po | 
+ | [pt_BR](/f19/language/pt_BR) | 98 | 98 | 100.0 | /mnt/stockage/packages/f19/bijiben/po/pt_BR.po | 
+ | [ru](/f19/language/ru) | 153 | 153 | 100.0 | /mnt/stockage/packages/f19/bijiben/po/ru.po | 
+ | [sk](/f19/language/sk) | 98 | 98 | 100.0 | /mnt/stockage/packages/f19/bijiben/po/sk.po | 
+ | [sl](/f19/language/sl) | 98 | 98 | 100.0 | /mnt/stockage/packages/f19/bijiben/po/sl.po | 
+ | [sr](/f19/language/sr) | 196 | 196 | 100.0 | /mnt/stockage/packages/f19/bijiben/po/sr.po/mnt/stockage/packages/f19/bijiben/po/sr@latin.po | 
+ | [zh_Hans](/f19/language/zh_Hans) | 98 | 98 | 100.0 | /mnt/stockage/packages/f19/bijiben/po/zh_CN.po | 
+ | [zh_Hant](/f19/language/zh_Hant) | 196 | 196 | 100.0 | /mnt/stockage/packages/f19/bijiben/po/zh_HK.po/mnt/stockage/packages/f19/bijiben/po/zh_TW.po | 
+ | [ca](/f19/language/ca) | 49 | 65 | 75.4 | /mnt/stockage/packages/f19/bijiben/po/ca.po | 
+ | [tr](/f19/language/tr) | 79 | 163 | 48.5 | /mnt/stockage/packages/f19/bijiben/po/tr.po | 
 {.sortable}
 
 

@@ -18,7 +18,7 @@ The package photocollage (version 1.1.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f19/language/fr.md" >}}) | 61 | 61 | 100.0 | /mnt/stockage/packages/f19/photocollage/po/fr.po | 
+ | [fr](/f19/language/fr) | 61 | 61 | 100.0 | /mnt/stockage/packages/f19/photocollage/po/fr.po | 
 {.sortable}
 
 

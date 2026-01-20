@@ -18,29 +18,29 @@ The package islamic-menus (version 1.0.6):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f27/language/ar.md" >}}) | 5 | 5 | 100.0 | /mnt/stockage/packages/f27/islamic-menus/po/ar.po | 
- | [bn]({{< ref "/f27/language/bn.md" >}}) | 5 | 5 | 100.0 | /mnt/stockage/packages/f27/islamic-menus/po/bn.po | 
- | [bs]({{< ref "/f27/language/bs.md" >}}) | 5 | 5 | 100.0 | /mnt/stockage/packages/f27/islamic-menus/po/bs.po | 
- | [de]({{< ref "/f27/language/de.md" >}}) | 5 | 5 | 100.0 | /mnt/stockage/packages/f27/islamic-menus/po/de.po | 
- | [es]({{< ref "/f27/language/es.md" >}}) | 5 | 5 | 100.0 | /mnt/stockage/packages/f27/islamic-menus/po/es.po | 
- | [fa]({{< ref "/f27/language/fa.md" >}}) | 5 | 5 | 100.0 | /mnt/stockage/packages/f27/islamic-menus/po/fa.po | 
- | [fr]({{< ref "/f27/language/fr.md" >}}) | 5 | 5 | 100.0 | /mnt/stockage/packages/f27/islamic-menus/po/fr.po | 
- | [he]({{< ref "/f27/language/he.md" >}}) | 5 | 5 | 100.0 | /mnt/stockage/packages/f27/islamic-menus/po/he.po | 
- | [id]({{< ref "/f27/language/id.md" >}}) | 5 | 5 | 100.0 | /mnt/stockage/packages/f27/islamic-menus/po/id.po | 
- | [jv]({{< ref "/f27/language/jv.md" >}}) | 5 | 5 | 100.0 | /mnt/stockage/packages/f27/islamic-menus/po/jv.po | 
- | [ms]({{< ref "/f27/language/ms.md" >}}) | 5 | 5 | 100.0 | /mnt/stockage/packages/f27/islamic-menus/po/ms.po | 
- | [nds]({{< ref "/f27/language/nds.md" >}}) | 5 | 5 | 100.0 | /mnt/stockage/packages/f27/islamic-menus/po/nds.po | 
- | [nl]({{< ref "/f27/language/nl.md" >}}) | 5 | 5 | 100.0 | /mnt/stockage/packages/f27/islamic-menus/po/nl.po | 
- | [pt]({{< ref "/f27/language/pt.md" >}}) | 5 | 5 | 100.0 | /mnt/stockage/packages/f27/islamic-menus/po/pt.po | 
- | [ru]({{< ref "/f27/language/ru.md" >}}) | 5 | 5 | 100.0 | /mnt/stockage/packages/f27/islamic-menus/po/ru.po | 
- | [sr]({{< ref "/f27/language/sr.md" >}}) | 5 | 5 | 100.0 | /mnt/stockage/packages/f27/islamic-menus/po/sr.po | 
- | [ta]({{< ref "/f27/language/ta.md" >}}) | 5 | 5 | 100.0 | /mnt/stockage/packages/f27/islamic-menus/po/ta.po | 
- | [tr]({{< ref "/f27/language/tr.md" >}}) | 5 | 5 | 100.0 | /mnt/stockage/packages/f27/islamic-menus/po/tr.po | 
- | [ur]({{< ref "/f27/language/ur.md" >}}) | 5 | 5 | 100.0 | /mnt/stockage/packages/f27/islamic-menus/po/ur.po | 
- | [it]({{< ref "/f27/language/it.md" >}}) | 2 | 5 | 40.0 | /mnt/stockage/packages/f27/islamic-menus/po/it.po | 
- | [ps]({{< ref "/f27/language/ps.md" >}}) | 2 | 5 | 40.0 | /mnt/stockage/packages/f27/islamic-menus/po/ps.po | 
- | [hu]({{< ref "/f27/language/hu.md" >}}) | 0 | 5 | 0.0 | /mnt/stockage/packages/f27/islamic-menus/po/hu.po | 
- | [ku]({{< ref "/f27/language/ku.md" >}}) | 0 | 5 | 0.0 | /mnt/stockage/packages/f27/islamic-menus/po/ku.po | 
+ | [ar](/f27/language/ar) | 5 | 5 | 100.0 | /mnt/stockage/packages/f27/islamic-menus/po/ar.po | 
+ | [bn](/f27/language/bn) | 5 | 5 | 100.0 | /mnt/stockage/packages/f27/islamic-menus/po/bn.po | 
+ | [bs](/f27/language/bs) | 5 | 5 | 100.0 | /mnt/stockage/packages/f27/islamic-menus/po/bs.po | 
+ | [de](/f27/language/de) | 5 | 5 | 100.0 | /mnt/stockage/packages/f27/islamic-menus/po/de.po | 
+ | [es](/f27/language/es) | 5 | 5 | 100.0 | /mnt/stockage/packages/f27/islamic-menus/po/es.po | 
+ | [fa](/f27/language/fa) | 5 | 5 | 100.0 | /mnt/stockage/packages/f27/islamic-menus/po/fa.po | 
+ | [fr](/f27/language/fr) | 5 | 5 | 100.0 | /mnt/stockage/packages/f27/islamic-menus/po/fr.po | 
+ | [he](/f27/language/he) | 5 | 5 | 100.0 | /mnt/stockage/packages/f27/islamic-menus/po/he.po | 
+ | [id](/f27/language/id) | 5 | 5 | 100.0 | /mnt/stockage/packages/f27/islamic-menus/po/id.po | 
+ | [jv](/f27/language/jv) | 5 | 5 | 100.0 | /mnt/stockage/packages/f27/islamic-menus/po/jv.po | 
+ | [ms](/f27/language/ms) | 5 | 5 | 100.0 | /mnt/stockage/packages/f27/islamic-menus/po/ms.po | 
+ | [nds](/f27/language/nds) | 5 | 5 | 100.0 | /mnt/stockage/packages/f27/islamic-menus/po/nds.po | 
+ | [nl](/f27/language/nl) | 5 | 5 | 100.0 | /mnt/stockage/packages/f27/islamic-menus/po/nl.po | 
+ | [pt](/f27/language/pt) | 5 | 5 | 100.0 | /mnt/stockage/packages/f27/islamic-menus/po/pt.po | 
+ | [ru](/f27/language/ru) | 5 | 5 | 100.0 | /mnt/stockage/packages/f27/islamic-menus/po/ru.po | 
+ | [sr](/f27/language/sr) | 5 | 5 | 100.0 | /mnt/stockage/packages/f27/islamic-menus/po/sr.po | 
+ | [ta](/f27/language/ta) | 5 | 5 | 100.0 | /mnt/stockage/packages/f27/islamic-menus/po/ta.po | 
+ | [tr](/f27/language/tr) | 5 | 5 | 100.0 | /mnt/stockage/packages/f27/islamic-menus/po/tr.po | 
+ | [ur](/f27/language/ur) | 5 | 5 | 100.0 | /mnt/stockage/packages/f27/islamic-menus/po/ur.po | 
+ | [it](/f27/language/it) | 2 | 5 | 40.0 | /mnt/stockage/packages/f27/islamic-menus/po/it.po | 
+ | [ps](/f27/language/ps) | 2 | 5 | 40.0 | /mnt/stockage/packages/f27/islamic-menus/po/ps.po | 
+ | [hu](/f27/language/hu) | 0 | 5 | 0.0 | /mnt/stockage/packages/f27/islamic-menus/po/hu.po | 
+ | [ku](/f27/language/ku) | 0 | 5 | 0.0 | /mnt/stockage/packages/f27/islamic-menus/po/ku.po | 
 {.sortable}
 
 

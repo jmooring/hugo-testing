@@ -18,55 +18,55 @@ The package gnome-pilot-conduits (version 2.0.16):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f9/language/ca.md" >}}) | 209 | 209 | 100.0 | /mnt/stockage/packages/f9/gnome-pilot-conduits/po/ca.po | 
- | [cs]({{< ref "/f9/language/cs.md" >}}) | 209 | 209 | 100.0 | /mnt/stockage/packages/f9/gnome-pilot-conduits/po/cs.po | 
- | [dz]({{< ref "/f9/language/dz.md" >}}) | 209 | 209 | 100.0 | /mnt/stockage/packages/f9/gnome-pilot-conduits/po/dz.po | 
- | [en_GB]({{< ref "/f9/language/en_GB.md" >}}) | 209 | 209 | 100.0 | /mnt/stockage/packages/f9/gnome-pilot-conduits/po/en_GB.po | 
- | [es]({{< ref "/f9/language/es.md" >}}) | 209 | 209 | 100.0 | /mnt/stockage/packages/f9/gnome-pilot-conduits/po/es.po | 
- | [fi]({{< ref "/f9/language/fi.md" >}}) | 209 | 209 | 100.0 | /mnt/stockage/packages/f9/gnome-pilot-conduits/po/fi.po | 
- | [fr]({{< ref "/f9/language/fr.md" >}}) | 209 | 209 | 100.0 | /mnt/stockage/packages/f9/gnome-pilot-conduits/po/fr.po | 
- | [hu]({{< ref "/f9/language/hu.md" >}}) | 209 | 209 | 100.0 | /mnt/stockage/packages/f9/gnome-pilot-conduits/po/hu.po | 
- | [it]({{< ref "/f9/language/it.md" >}}) | 209 | 209 | 100.0 | /mnt/stockage/packages/f9/gnome-pilot-conduits/po/it.po | 
- | [ne]({{< ref "/f9/language/ne.md" >}}) | 209 | 209 | 100.0 | /mnt/stockage/packages/f9/gnome-pilot-conduits/po/ne.po | 
- | [nl]({{< ref "/f9/language/nl.md" >}}) | 209 | 209 | 100.0 | /mnt/stockage/packages/f9/gnome-pilot-conduits/po/nl.po | 
- | [sv]({{< ref "/f9/language/sv.md" >}}) | 209 | 209 | 100.0 | /mnt/stockage/packages/f9/gnome-pilot-conduits/po/sv.po | 
- | [vi]({{< ref "/f9/language/vi.md" >}}) | 209 | 209 | 100.0 | /mnt/stockage/packages/f9/gnome-pilot-conduits/po/vi.po | 
- | [zh_Hant]({{< ref "/f9/language/zh_Hant.md" >}}) | 196 | 209 | 93.8 | /mnt/stockage/packages/f9/gnome-pilot-conduits/po/zh_TW.po | 
- | [zh_Hant_HK]({{< ref "/f9/language/zh_Hant_HK.md" >}}) | 196 | 209 | 93.8 | /mnt/stockage/packages/f9/gnome-pilot-conduits/po/zh_HK.po | 
- | [lv]({{< ref "/f9/language/lv.md" >}}) | 191 | 209 | 91.4 | /mnt/stockage/packages/f9/gnome-pilot-conduits/po/lv.po | 
- | [bg]({{< ref "/f9/language/bg.md" >}}) | 177 | 209 | 84.7 | /mnt/stockage/packages/f9/gnome-pilot-conduits/po/bg.po | 
- | [de]({{< ref "/f9/language/de.md" >}}) | 177 | 209 | 84.7 | /mnt/stockage/packages/f9/gnome-pilot-conduits/po/de.po | 
- | [en_CA]({{< ref "/f9/language/en_CA.md" >}}) | 177 | 209 | 84.7 | /mnt/stockage/packages/f9/gnome-pilot-conduits/po/en_CA.po | 
- | [ja]({{< ref "/f9/language/ja.md" >}}) | 177 | 209 | 84.7 | /mnt/stockage/packages/f9/gnome-pilot-conduits/po/ja.po | 
- | [nb_NO]({{< ref "/f9/language/nb_NO.md" >}}) | 177 | 209 | 84.7 | /mnt/stockage/packages/f9/gnome-pilot-conduits/po/nb.po | 
- | [pt_BR]({{< ref "/f9/language/pt_BR.md" >}}) | 177 | 209 | 84.7 | /mnt/stockage/packages/f9/gnome-pilot-conduits/po/pt_BR.po | 
- | [sk]({{< ref "/f9/language/sk.md" >}}) | 177 | 209 | 84.7 | /mnt/stockage/packages/f9/gnome-pilot-conduits/po/sk.po | 
- | [sq]({{< ref "/f9/language/sq.md" >}}) | 177 | 209 | 84.7 | /mnt/stockage/packages/f9/gnome-pilot-conduits/po/sq.po | 
- | [uk]({{< ref "/f9/language/uk.md" >}}) | 177 | 209 | 84.7 | /mnt/stockage/packages/f9/gnome-pilot-conduits/po/uk.po | 
- | [wa]({{< ref "/f9/language/wa.md" >}}) | 177 | 209 | 84.7 | /mnt/stockage/packages/f9/gnome-pilot-conduits/po/wa.po | 
- | [xh]({{< ref "/f9/language/xh.md" >}}) | 177 | 209 | 84.7 | /mnt/stockage/packages/f9/gnome-pilot-conduits/po/xh.po | 
- | [pl]({{< ref "/f9/language/pl.md" >}}) | 154 | 209 | 73.7 | /mnt/stockage/packages/f9/gnome-pilot-conduits/po/pl.po | 
- | [tr]({{< ref "/f9/language/tr.md" >}}) | 154 | 209 | 73.7 | /mnt/stockage/packages/f9/gnome-pilot-conduits/po/tr.po | 
- | [az]({{< ref "/f9/language/az.md" >}}) | 142 | 209 | 67.9 | /mnt/stockage/packages/f9/gnome-pilot-conduits/po/az.po | 
- | [error]({{< ref "/f9/language/error.md" >}}) | 142 | 209 | 67.9 | /mnt/stockage/packages/f9/gnome-pilot-conduits/po/sr@Latn.po | 
- | [pt]({{< ref "/f9/language/pt.md" >}}) | 142 | 209 | 67.9 | /mnt/stockage/packages/f9/gnome-pilot-conduits/po/pt.po | 
- | [sr]({{< ref "/f9/language/sr.md" >}}) | 142 | 209 | 67.9 | /mnt/stockage/packages/f9/gnome-pilot-conduits/po/sr.po | 
- | [zh_Hans]({{< ref "/f9/language/zh_Hans.md" >}}) | 142 | 209 | 67.9 | /mnt/stockage/packages/f9/gnome-pilot-conduits/po/zh_CN.po | 
- | [el]({{< ref "/f9/language/el.md" >}}) | 114 | 209 | 54.5 | /mnt/stockage/packages/f9/gnome-pilot-conduits/po/el.po | 
- | [mk]({{< ref "/f9/language/mk.md" >}}) | 112 | 209 | 53.6 | /mnt/stockage/packages/f9/gnome-pilot-conduits/po/mk.po | 
- | [gl]({{< ref "/f9/language/gl.md" >}}) | 103 | 209 | 49.3 | /mnt/stockage/packages/f9/gnome-pilot-conduits/po/gl.po | 
- | [da]({{< ref "/f9/language/da.md" >}}) | 89 | 209 | 42.6 | /mnt/stockage/packages/f9/gnome-pilot-conduits/po/da.po | 
- | [ru]({{< ref "/f9/language/ru.md" >}}) | 89 | 209 | 42.6 | /mnt/stockage/packages/f9/gnome-pilot-conduits/po/ru.po | 
- | [be]({{< ref "/f9/language/be.md" >}}) | 67 | 209 | 32.1 | /mnt/stockage/packages/f9/gnome-pilot-conduits/po/be.po | 
- | [he]({{< ref "/f9/language/he.md" >}}) | 67 | 209 | 32.1 | /mnt/stockage/packages/f9/gnome-pilot-conduits/po/he.po | 
- | [ms]({{< ref "/f9/language/ms.md" >}}) | 67 | 209 | 32.1 | /mnt/stockage/packages/f9/gnome-pilot-conduits/po/ms.po | 
- | [oc]({{< ref "/f9/language/oc.md" >}}) | 48 | 209 | 23.0 | /mnt/stockage/packages/f9/gnome-pilot-conduits/po/oc.po | 
- | [pa]({{< ref "/f9/language/pa.md" >}}) | 46 | 209 | 22.0 | /mnt/stockage/packages/f9/gnome-pilot-conduits/po/pa.po | 
- | [nn]({{< ref "/f9/language/nn.md" >}}) | 14 | 209 | 6.7 | /mnt/stockage/packages/f9/gnome-pilot-conduits/po/nn.po | 
- | [hr]({{< ref "/f9/language/hr.md" >}}) | 10 | 209 | 4.8 | /mnt/stockage/packages/f9/gnome-pilot-conduits/po/hr.po | 
- | [ml]({{< ref "/f9/language/ml.md" >}}) | 4 | 209 | 1.9 | /mnt/stockage/packages/f9/gnome-pilot-conduits/po/ml.po | 
- | [rw]({{< ref "/f9/language/rw.md" >}}) | 3 | 209 | 1.4 | /mnt/stockage/packages/f9/gnome-pilot-conduits/po/rw.po | 
- | [ar]({{< ref "/f9/language/ar.md" >}}) | 1 | 209 | 0.5 | /mnt/stockage/packages/f9/gnome-pilot-conduits/po/ar.po | 
+ | [ca](/f9/language/ca) | 209 | 209 | 100.0 | /mnt/stockage/packages/f9/gnome-pilot-conduits/po/ca.po | 
+ | [cs](/f9/language/cs) | 209 | 209 | 100.0 | /mnt/stockage/packages/f9/gnome-pilot-conduits/po/cs.po | 
+ | [dz](/f9/language/dz) | 209 | 209 | 100.0 | /mnt/stockage/packages/f9/gnome-pilot-conduits/po/dz.po | 
+ | [en_GB](/f9/language/en_GB) | 209 | 209 | 100.0 | /mnt/stockage/packages/f9/gnome-pilot-conduits/po/en_GB.po | 
+ | [es](/f9/language/es) | 209 | 209 | 100.0 | /mnt/stockage/packages/f9/gnome-pilot-conduits/po/es.po | 
+ | [fi](/f9/language/fi) | 209 | 209 | 100.0 | /mnt/stockage/packages/f9/gnome-pilot-conduits/po/fi.po | 
+ | [fr](/f9/language/fr) | 209 | 209 | 100.0 | /mnt/stockage/packages/f9/gnome-pilot-conduits/po/fr.po | 
+ | [hu](/f9/language/hu) | 209 | 209 | 100.0 | /mnt/stockage/packages/f9/gnome-pilot-conduits/po/hu.po | 
+ | [it](/f9/language/it) | 209 | 209 | 100.0 | /mnt/stockage/packages/f9/gnome-pilot-conduits/po/it.po | 
+ | [ne](/f9/language/ne) | 209 | 209 | 100.0 | /mnt/stockage/packages/f9/gnome-pilot-conduits/po/ne.po | 
+ | [nl](/f9/language/nl) | 209 | 209 | 100.0 | /mnt/stockage/packages/f9/gnome-pilot-conduits/po/nl.po | 
+ | [sv](/f9/language/sv) | 209 | 209 | 100.0 | /mnt/stockage/packages/f9/gnome-pilot-conduits/po/sv.po | 
+ | [vi](/f9/language/vi) | 209 | 209 | 100.0 | /mnt/stockage/packages/f9/gnome-pilot-conduits/po/vi.po | 
+ | [zh_Hant](/f9/language/zh_Hant) | 196 | 209 | 93.8 | /mnt/stockage/packages/f9/gnome-pilot-conduits/po/zh_TW.po | 
+ | [zh_Hant_HK](/f9/language/zh_Hant_HK) | 196 | 209 | 93.8 | /mnt/stockage/packages/f9/gnome-pilot-conduits/po/zh_HK.po | 
+ | [lv](/f9/language/lv) | 191 | 209 | 91.4 | /mnt/stockage/packages/f9/gnome-pilot-conduits/po/lv.po | 
+ | [bg](/f9/language/bg) | 177 | 209 | 84.7 | /mnt/stockage/packages/f9/gnome-pilot-conduits/po/bg.po | 
+ | [de](/f9/language/de) | 177 | 209 | 84.7 | /mnt/stockage/packages/f9/gnome-pilot-conduits/po/de.po | 
+ | [en_CA](/f9/language/en_CA) | 177 | 209 | 84.7 | /mnt/stockage/packages/f9/gnome-pilot-conduits/po/en_CA.po | 
+ | [ja](/f9/language/ja) | 177 | 209 | 84.7 | /mnt/stockage/packages/f9/gnome-pilot-conduits/po/ja.po | 
+ | [nb_NO](/f9/language/nb_NO) | 177 | 209 | 84.7 | /mnt/stockage/packages/f9/gnome-pilot-conduits/po/nb.po | 
+ | [pt_BR](/f9/language/pt_BR) | 177 | 209 | 84.7 | /mnt/stockage/packages/f9/gnome-pilot-conduits/po/pt_BR.po | 
+ | [sk](/f9/language/sk) | 177 | 209 | 84.7 | /mnt/stockage/packages/f9/gnome-pilot-conduits/po/sk.po | 
+ | [sq](/f9/language/sq) | 177 | 209 | 84.7 | /mnt/stockage/packages/f9/gnome-pilot-conduits/po/sq.po | 
+ | [uk](/f9/language/uk) | 177 | 209 | 84.7 | /mnt/stockage/packages/f9/gnome-pilot-conduits/po/uk.po | 
+ | [wa](/f9/language/wa) | 177 | 209 | 84.7 | /mnt/stockage/packages/f9/gnome-pilot-conduits/po/wa.po | 
+ | [xh](/f9/language/xh) | 177 | 209 | 84.7 | /mnt/stockage/packages/f9/gnome-pilot-conduits/po/xh.po | 
+ | [pl](/f9/language/pl) | 154 | 209 | 73.7 | /mnt/stockage/packages/f9/gnome-pilot-conduits/po/pl.po | 
+ | [tr](/f9/language/tr) | 154 | 209 | 73.7 | /mnt/stockage/packages/f9/gnome-pilot-conduits/po/tr.po | 
+ | [az](/f9/language/az) | 142 | 209 | 67.9 | /mnt/stockage/packages/f9/gnome-pilot-conduits/po/az.po | 
+ | [error](/f9/language/error) | 142 | 209 | 67.9 | /mnt/stockage/packages/f9/gnome-pilot-conduits/po/sr@Latn.po | 
+ | [pt](/f9/language/pt) | 142 | 209 | 67.9 | /mnt/stockage/packages/f9/gnome-pilot-conduits/po/pt.po | 
+ | [sr](/f9/language/sr) | 142 | 209 | 67.9 | /mnt/stockage/packages/f9/gnome-pilot-conduits/po/sr.po | 
+ | [zh_Hans](/f9/language/zh_Hans) | 142 | 209 | 67.9 | /mnt/stockage/packages/f9/gnome-pilot-conduits/po/zh_CN.po | 
+ | [el](/f9/language/el) | 114 | 209 | 54.5 | /mnt/stockage/packages/f9/gnome-pilot-conduits/po/el.po | 
+ | [mk](/f9/language/mk) | 112 | 209 | 53.6 | /mnt/stockage/packages/f9/gnome-pilot-conduits/po/mk.po | 
+ | [gl](/f9/language/gl) | 103 | 209 | 49.3 | /mnt/stockage/packages/f9/gnome-pilot-conduits/po/gl.po | 
+ | [da](/f9/language/da) | 89 | 209 | 42.6 | /mnt/stockage/packages/f9/gnome-pilot-conduits/po/da.po | 
+ | [ru](/f9/language/ru) | 89 | 209 | 42.6 | /mnt/stockage/packages/f9/gnome-pilot-conduits/po/ru.po | 
+ | [be](/f9/language/be) | 67 | 209 | 32.1 | /mnt/stockage/packages/f9/gnome-pilot-conduits/po/be.po | 
+ | [he](/f9/language/he) | 67 | 209 | 32.1 | /mnt/stockage/packages/f9/gnome-pilot-conduits/po/he.po | 
+ | [ms](/f9/language/ms) | 67 | 209 | 32.1 | /mnt/stockage/packages/f9/gnome-pilot-conduits/po/ms.po | 
+ | [oc](/f9/language/oc) | 48 | 209 | 23.0 | /mnt/stockage/packages/f9/gnome-pilot-conduits/po/oc.po | 
+ | [pa](/f9/language/pa) | 46 | 209 | 22.0 | /mnt/stockage/packages/f9/gnome-pilot-conduits/po/pa.po | 
+ | [nn](/f9/language/nn) | 14 | 209 | 6.7 | /mnt/stockage/packages/f9/gnome-pilot-conduits/po/nn.po | 
+ | [hr](/f9/language/hr) | 10 | 209 | 4.8 | /mnt/stockage/packages/f9/gnome-pilot-conduits/po/hr.po | 
+ | [ml](/f9/language/ml) | 4 | 209 | 1.9 | /mnt/stockage/packages/f9/gnome-pilot-conduits/po/ml.po | 
+ | [rw](/f9/language/rw) | 3 | 209 | 1.4 | /mnt/stockage/packages/f9/gnome-pilot-conduits/po/rw.po | 
+ | [ar](/f9/language/ar) | 1 | 209 | 0.5 | /mnt/stockage/packages/f9/gnome-pilot-conduits/po/ar.po | 
 {.sortable}
 
 

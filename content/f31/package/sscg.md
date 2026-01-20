@@ -18,45 +18,45 @@ The package sscg (version 2.6.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [da]({{< ref "/f31/language/da.md" >}}) | 84 | 94 | 89.4 | /mnt/stockage/packages/f31/sscg/subprojects/popt/po/da.po | 
- | [nb_NO]({{< ref "/f31/language/nb_NO.md" >}}) | 84 | 94 | 89.4 | /mnt/stockage/packages/f31/sscg/subprojects/popt/po/nb.po | 
- | [nl]({{< ref "/f31/language/nl.md" >}}) | 84 | 94 | 89.4 | /mnt/stockage/packages/f31/sscg/subprojects/popt/po/nl.po | 
- | [uk]({{< ref "/f31/language/uk.md" >}}) | 84 | 94 | 89.4 | /mnt/stockage/packages/f31/sscg/subprojects/popt/po/uk.po | 
- | [cs]({{< ref "/f31/language/cs.md" >}}) | 78 | 94 | 83.0 | /mnt/stockage/packages/f31/sscg/subprojects/popt/po/cs.po | 
- | [de]({{< ref "/f31/language/de.md" >}}) | 78 | 94 | 83.0 | /mnt/stockage/packages/f31/sscg/subprojects/popt/po/de.po | 
- | [eo]({{< ref "/f31/language/eo.md" >}}) | 78 | 94 | 83.0 | /mnt/stockage/packages/f31/sscg/subprojects/popt/po/eo.po | 
- | [fi]({{< ref "/f31/language/fi.md" >}}) | 78 | 94 | 83.0 | /mnt/stockage/packages/f31/sscg/subprojects/popt/po/fi.po | 
- | [fr]({{< ref "/f31/language/fr.md" >}}) | 78 | 94 | 83.0 | /mnt/stockage/packages/f31/sscg/subprojects/popt/po/fr.po | 
- | [ga]({{< ref "/f31/language/ga.md" >}}) | 78 | 94 | 83.0 | /mnt/stockage/packages/f31/sscg/subprojects/popt/po/ga.po | 
- | [gl]({{< ref "/f31/language/gl.md" >}}) | 78 | 94 | 83.0 | /mnt/stockage/packages/f31/sscg/subprojects/popt/po/gl.po | 
- | [gu]({{< ref "/f31/language/gu.md" >}}) | 78 | 94 | 83.0 | /mnt/stockage/packages/f31/sscg/subprojects/popt/po/gu.po | 
- | [hr]({{< ref "/f31/language/hr.md" >}}) | 78 | 94 | 83.0 | /mnt/stockage/packages/f31/sscg/subprojects/popt/po/hr.po | 
- | [hu]({{< ref "/f31/language/hu.md" >}}) | 78 | 94 | 83.0 | /mnt/stockage/packages/f31/sscg/subprojects/popt/po/hu.po | 
- | [ia]({{< ref "/f31/language/ia.md" >}}) | 78 | 94 | 83.0 | /mnt/stockage/packages/f31/sscg/subprojects/popt/po/ia.po | 
- | [id]({{< ref "/f31/language/id.md" >}}) | 78 | 94 | 83.0 | /mnt/stockage/packages/f31/sscg/subprojects/popt/po/id.po | 
- | [it]({{< ref "/f31/language/it.md" >}}) | 78 | 94 | 83.0 | /mnt/stockage/packages/f31/sscg/subprojects/popt/po/it.po | 
- | [ja]({{< ref "/f31/language/ja.md" >}}) | 78 | 94 | 83.0 | /mnt/stockage/packages/f31/sscg/subprojects/popt/po/ja.po | 
- | [lv]({{< ref "/f31/language/lv.md" >}}) | 78 | 94 | 83.0 | /mnt/stockage/packages/f31/sscg/subprojects/popt/po/lv.po | 
- | [pl]({{< ref "/f31/language/pl.md" >}}) | 78 | 94 | 83.0 | /mnt/stockage/packages/f31/sscg/subprojects/popt/po/pl.po | 
- | [pt_BR]({{< ref "/f31/language/pt_BR.md" >}}) | 78 | 94 | 83.0 | /mnt/stockage/packages/f31/sscg/subprojects/popt/po/pt_BR.po | 
- | [ru]({{< ref "/f31/language/ru.md" >}}) | 78 | 94 | 83.0 | /mnt/stockage/packages/f31/sscg/subprojects/popt/po/ru.po | 
- | [sl]({{< ref "/f31/language/sl.md" >}}) | 78 | 94 | 83.0 | /mnt/stockage/packages/f31/sscg/subprojects/popt/po/sl.po | 
- | [sr]({{< ref "/f31/language/sr.md" >}}) | 78 | 94 | 83.0 | /mnt/stockage/packages/f31/sscg/subprojects/popt/po/sr.po | 
- | [sv]({{< ref "/f31/language/sv.md" >}}) | 78 | 94 | 83.0 | /mnt/stockage/packages/f31/sscg/subprojects/popt/po/sv.po | 
- | [ta]({{< ref "/f31/language/ta.md" >}}) | 78 | 94 | 83.0 | /mnt/stockage/packages/f31/sscg/subprojects/popt/po/ta.po | 
- | [th]({{< ref "/f31/language/th.md" >}}) | 78 | 94 | 83.0 | /mnt/stockage/packages/f31/sscg/subprojects/popt/po/th.po | 
- | [tr]({{< ref "/f31/language/tr.md" >}}) | 78 | 94 | 83.0 | /mnt/stockage/packages/f31/sscg/subprojects/popt/po/tr.po | 
- | [vi]({{< ref "/f31/language/vi.md" >}}) | 78 | 94 | 83.0 | /mnt/stockage/packages/f31/sscg/subprojects/popt/po/vi.po | 
- | [zh_Hans]({{< ref "/f31/language/zh_Hans.md" >}}) | 78 | 94 | 83.0 | /mnt/stockage/packages/f31/sscg/subprojects/popt/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f31/language/zh_Hant.md" >}}) | 78 | 94 | 83.0 | /mnt/stockage/packages/f31/sscg/subprojects/popt/po/zh_TW.po | 
- | [kn]({{< ref "/f31/language/kn.md" >}}) | 68 | 94 | 72.3 | /mnt/stockage/packages/f31/sscg/subprojects/popt/po/kn.po | 
- | [is]({{< ref "/f31/language/is.md" >}}) | 61 | 94 | 64.9 | /mnt/stockage/packages/f31/sscg/subprojects/popt/po/is.po | 
- | [ko]({{< ref "/f31/language/ko.md" >}}) | 61 | 94 | 64.9 | /mnt/stockage/packages/f31/sscg/subprojects/popt/po/ko.po | 
- | [pt]({{< ref "/f31/language/pt.md" >}}) | 61 | 94 | 64.9 | /mnt/stockage/packages/f31/sscg/subprojects/popt/po/pt.po | 
- | [es]({{< ref "/f31/language/es.md" >}}) | 48 | 94 | 51.1 | /mnt/stockage/packages/f31/sscg/subprojects/popt/po/es.po | 
- | [ro]({{< ref "/f31/language/ro.md" >}}) | 31 | 94 | 33.0 | /mnt/stockage/packages/f31/sscg/subprojects/popt/po/ro.po | 
- | [sk]({{< ref "/f31/language/sk.md" >}}) | 8 | 94 | 8.5 | /mnt/stockage/packages/f31/sscg/subprojects/popt/po/sk.po | 
- | [wa]({{< ref "/f31/language/wa.md" >}}) | 8 | 94 | 8.5 | /mnt/stockage/packages/f31/sscg/subprojects/popt/po/wa.po | 
+ | [da](/f31/language/da) | 84 | 94 | 89.4 | /mnt/stockage/packages/f31/sscg/subprojects/popt/po/da.po | 
+ | [nb_NO](/f31/language/nb_NO) | 84 | 94 | 89.4 | /mnt/stockage/packages/f31/sscg/subprojects/popt/po/nb.po | 
+ | [nl](/f31/language/nl) | 84 | 94 | 89.4 | /mnt/stockage/packages/f31/sscg/subprojects/popt/po/nl.po | 
+ | [uk](/f31/language/uk) | 84 | 94 | 89.4 | /mnt/stockage/packages/f31/sscg/subprojects/popt/po/uk.po | 
+ | [cs](/f31/language/cs) | 78 | 94 | 83.0 | /mnt/stockage/packages/f31/sscg/subprojects/popt/po/cs.po | 
+ | [de](/f31/language/de) | 78 | 94 | 83.0 | /mnt/stockage/packages/f31/sscg/subprojects/popt/po/de.po | 
+ | [eo](/f31/language/eo) | 78 | 94 | 83.0 | /mnt/stockage/packages/f31/sscg/subprojects/popt/po/eo.po | 
+ | [fi](/f31/language/fi) | 78 | 94 | 83.0 | /mnt/stockage/packages/f31/sscg/subprojects/popt/po/fi.po | 
+ | [fr](/f31/language/fr) | 78 | 94 | 83.0 | /mnt/stockage/packages/f31/sscg/subprojects/popt/po/fr.po | 
+ | [ga](/f31/language/ga) | 78 | 94 | 83.0 | /mnt/stockage/packages/f31/sscg/subprojects/popt/po/ga.po | 
+ | [gl](/f31/language/gl) | 78 | 94 | 83.0 | /mnt/stockage/packages/f31/sscg/subprojects/popt/po/gl.po | 
+ | [gu](/f31/language/gu) | 78 | 94 | 83.0 | /mnt/stockage/packages/f31/sscg/subprojects/popt/po/gu.po | 
+ | [hr](/f31/language/hr) | 78 | 94 | 83.0 | /mnt/stockage/packages/f31/sscg/subprojects/popt/po/hr.po | 
+ | [hu](/f31/language/hu) | 78 | 94 | 83.0 | /mnt/stockage/packages/f31/sscg/subprojects/popt/po/hu.po | 
+ | [ia](/f31/language/ia) | 78 | 94 | 83.0 | /mnt/stockage/packages/f31/sscg/subprojects/popt/po/ia.po | 
+ | [id](/f31/language/id) | 78 | 94 | 83.0 | /mnt/stockage/packages/f31/sscg/subprojects/popt/po/id.po | 
+ | [it](/f31/language/it) | 78 | 94 | 83.0 | /mnt/stockage/packages/f31/sscg/subprojects/popt/po/it.po | 
+ | [ja](/f31/language/ja) | 78 | 94 | 83.0 | /mnt/stockage/packages/f31/sscg/subprojects/popt/po/ja.po | 
+ | [lv](/f31/language/lv) | 78 | 94 | 83.0 | /mnt/stockage/packages/f31/sscg/subprojects/popt/po/lv.po | 
+ | [pl](/f31/language/pl) | 78 | 94 | 83.0 | /mnt/stockage/packages/f31/sscg/subprojects/popt/po/pl.po | 
+ | [pt_BR](/f31/language/pt_BR) | 78 | 94 | 83.0 | /mnt/stockage/packages/f31/sscg/subprojects/popt/po/pt_BR.po | 
+ | [ru](/f31/language/ru) | 78 | 94 | 83.0 | /mnt/stockage/packages/f31/sscg/subprojects/popt/po/ru.po | 
+ | [sl](/f31/language/sl) | 78 | 94 | 83.0 | /mnt/stockage/packages/f31/sscg/subprojects/popt/po/sl.po | 
+ | [sr](/f31/language/sr) | 78 | 94 | 83.0 | /mnt/stockage/packages/f31/sscg/subprojects/popt/po/sr.po | 
+ | [sv](/f31/language/sv) | 78 | 94 | 83.0 | /mnt/stockage/packages/f31/sscg/subprojects/popt/po/sv.po | 
+ | [ta](/f31/language/ta) | 78 | 94 | 83.0 | /mnt/stockage/packages/f31/sscg/subprojects/popt/po/ta.po | 
+ | [th](/f31/language/th) | 78 | 94 | 83.0 | /mnt/stockage/packages/f31/sscg/subprojects/popt/po/th.po | 
+ | [tr](/f31/language/tr) | 78 | 94 | 83.0 | /mnt/stockage/packages/f31/sscg/subprojects/popt/po/tr.po | 
+ | [vi](/f31/language/vi) | 78 | 94 | 83.0 | /mnt/stockage/packages/f31/sscg/subprojects/popt/po/vi.po | 
+ | [zh_Hans](/f31/language/zh_Hans) | 78 | 94 | 83.0 | /mnt/stockage/packages/f31/sscg/subprojects/popt/po/zh_CN.po | 
+ | [zh_Hant](/f31/language/zh_Hant) | 78 | 94 | 83.0 | /mnt/stockage/packages/f31/sscg/subprojects/popt/po/zh_TW.po | 
+ | [kn](/f31/language/kn) | 68 | 94 | 72.3 | /mnt/stockage/packages/f31/sscg/subprojects/popt/po/kn.po | 
+ | [is](/f31/language/is) | 61 | 94 | 64.9 | /mnt/stockage/packages/f31/sscg/subprojects/popt/po/is.po | 
+ | [ko](/f31/language/ko) | 61 | 94 | 64.9 | /mnt/stockage/packages/f31/sscg/subprojects/popt/po/ko.po | 
+ | [pt](/f31/language/pt) | 61 | 94 | 64.9 | /mnt/stockage/packages/f31/sscg/subprojects/popt/po/pt.po | 
+ | [es](/f31/language/es) | 48 | 94 | 51.1 | /mnt/stockage/packages/f31/sscg/subprojects/popt/po/es.po | 
+ | [ro](/f31/language/ro) | 31 | 94 | 33.0 | /mnt/stockage/packages/f31/sscg/subprojects/popt/po/ro.po | 
+ | [sk](/f31/language/sk) | 8 | 94 | 8.5 | /mnt/stockage/packages/f31/sscg/subprojects/popt/po/sk.po | 
+ | [wa](/f31/language/wa) | 8 | 94 | 8.5 | /mnt/stockage/packages/f31/sscg/subprojects/popt/po/wa.po | 
 {.sortable}
 
 

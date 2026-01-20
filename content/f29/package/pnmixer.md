@@ -18,16 +18,16 @@ The package pnmixer (version 0.7.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f29/language/de.md" >}}) | 358 | 358 | 100.0 | /mnt/stockage/packages/f29/pnmixer/po/de.po | 
- | [fr]({{< ref "/f29/language/fr.md" >}}) | 358 | 358 | 100.0 | /mnt/stockage/packages/f29/pnmixer/po/fr.po | 
- | [hr]({{< ref "/f29/language/hr.md" >}}) | 358 | 358 | 100.0 | /mnt/stockage/packages/f29/pnmixer/po/hr.po | 
- | [nl]({{< ref "/f29/language/nl.md" >}}) | 358 | 358 | 100.0 | /mnt/stockage/packages/f29/pnmixer/po/nl.po | 
- | [sr]({{< ref "/f29/language/sr.md" >}}) | 358 | 358 | 100.0 | /mnt/stockage/packages/f29/pnmixer/po/sr.po | 
- | [uk]({{< ref "/f29/language/uk.md" >}}) | 358 | 358 | 100.0 | /mnt/stockage/packages/f29/pnmixer/po/uk.po | 
- | [vi]({{< ref "/f29/language/vi.md" >}}) | 344 | 344 | 100.0 | /mnt/stockage/packages/f29/pnmixer/po/vi.po | 
- | [zh_Hans]({{< ref "/f29/language/zh_Hans.md" >}}) | 345 | 346 | 99.7 | /mnt/stockage/packages/f29/pnmixer/po/zh_CN.po | 
- | [ru]({{< ref "/f29/language/ru.md" >}}) | 276 | 346 | 79.8 | /mnt/stockage/packages/f29/pnmixer/po/ru.po | 
- | [it]({{< ref "/f29/language/it.md" >}}) | 181 | 344 | 52.6 | /mnt/stockage/packages/f29/pnmixer/po/it.po | 
+ | [de](/f29/language/de) | 358 | 358 | 100.0 | /mnt/stockage/packages/f29/pnmixer/po/de.po | 
+ | [fr](/f29/language/fr) | 358 | 358 | 100.0 | /mnt/stockage/packages/f29/pnmixer/po/fr.po | 
+ | [hr](/f29/language/hr) | 358 | 358 | 100.0 | /mnt/stockage/packages/f29/pnmixer/po/hr.po | 
+ | [nl](/f29/language/nl) | 358 | 358 | 100.0 | /mnt/stockage/packages/f29/pnmixer/po/nl.po | 
+ | [sr](/f29/language/sr) | 358 | 358 | 100.0 | /mnt/stockage/packages/f29/pnmixer/po/sr.po | 
+ | [uk](/f29/language/uk) | 358 | 358 | 100.0 | /mnt/stockage/packages/f29/pnmixer/po/uk.po | 
+ | [vi](/f29/language/vi) | 344 | 344 | 100.0 | /mnt/stockage/packages/f29/pnmixer/po/vi.po | 
+ | [zh_Hans](/f29/language/zh_Hans) | 345 | 346 | 99.7 | /mnt/stockage/packages/f29/pnmixer/po/zh_CN.po | 
+ | [ru](/f29/language/ru) | 276 | 346 | 79.8 | /mnt/stockage/packages/f29/pnmixer/po/ru.po | 
+ | [it](/f29/language/it) | 181 | 344 | 52.6 | /mnt/stockage/packages/f29/pnmixer/po/it.po | 
 {.sortable}
 
 

@@ -18,13 +18,13 @@ The package etherape (version 0.9.13):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f19/language/de.md" >}}) | 1022 | 1114 | 91.7 | /mnt/stockage/packages/f19/etherape/po/de.po | 
- | [es]({{< ref "/f19/language/es.md" >}}) | 1021 | 1114 | 91.7 | /mnt/stockage/packages/f19/etherape/po/es.po | 
- | [it]({{< ref "/f19/language/it.md" >}}) | 978 | 1114 | 87.8 | /mnt/stockage/packages/f19/etherape/po/it.po | 
- | [sv]({{< ref "/f19/language/sv.md" >}}) | 404 | 1114 | 36.3 | /mnt/stockage/packages/f19/etherape/po/sv.po | 
- | [nl]({{< ref "/f19/language/nl.md" >}}) | 390 | 1114 | 35.0 | /mnt/stockage/packages/f19/etherape/po/nl.po | 
- | [tr]({{< ref "/f19/language/tr.md" >}}) | 150 | 1114 | 13.5 | /mnt/stockage/packages/f19/etherape/po/tr.po | 
- | [fr]({{< ref "/f19/language/fr.md" >}}) | 104 | 1114 | 9.3 | /mnt/stockage/packages/f19/etherape/po/fr.po | 
+ | [de](/f19/language/de) | 1022 | 1114 | 91.7 | /mnt/stockage/packages/f19/etherape/po/de.po | 
+ | [es](/f19/language/es) | 1021 | 1114 | 91.7 | /mnt/stockage/packages/f19/etherape/po/es.po | 
+ | [it](/f19/language/it) | 978 | 1114 | 87.8 | /mnt/stockage/packages/f19/etherape/po/it.po | 
+ | [sv](/f19/language/sv) | 404 | 1114 | 36.3 | /mnt/stockage/packages/f19/etherape/po/sv.po | 
+ | [nl](/f19/language/nl) | 390 | 1114 | 35.0 | /mnt/stockage/packages/f19/etherape/po/nl.po | 
+ | [tr](/f19/language/tr) | 150 | 1114 | 13.5 | /mnt/stockage/packages/f19/etherape/po/tr.po | 
+ | [fr](/f19/language/fr) | 104 | 1114 | 9.3 | /mnt/stockage/packages/f19/etherape/po/fr.po | 
 {.sortable}
 
 

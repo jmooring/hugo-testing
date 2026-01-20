@@ -18,22 +18,22 @@ The package cryptsetup (version 1.7.5):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f25/language/cs.md" >}}) | 2500 | 2507 | 99.7 | /mnt/stockage/packages/f25/cryptsetup/po/cs.po | 
- | [da]({{< ref "/f25/language/da.md" >}}) | 2500 | 2507 | 99.7 | /mnt/stockage/packages/f25/cryptsetup/po/da.po | 
- | [de]({{< ref "/f25/language/de.md" >}}) | 2500 | 2507 | 99.7 | /mnt/stockage/packages/f25/cryptsetup/po/de.po | 
- | [es]({{< ref "/f25/language/es.md" >}}) | 2500 | 2507 | 99.7 | /mnt/stockage/packages/f25/cryptsetup/po/es.po | 
- | [fr]({{< ref "/f25/language/fr.md" >}}) | 2500 | 2507 | 99.7 | /mnt/stockage/packages/f25/cryptsetup/po/fr.po | 
- | [it]({{< ref "/f25/language/it.md" >}}) | 2500 | 2507 | 99.7 | /mnt/stockage/packages/f25/cryptsetup/po/it.po | 
- | [nl]({{< ref "/f25/language/nl.md" >}}) | 2500 | 2507 | 99.7 | /mnt/stockage/packages/f25/cryptsetup/po/nl.po | 
- | [pl]({{< ref "/f25/language/pl.md" >}}) | 2500 | 2507 | 99.7 | /mnt/stockage/packages/f25/cryptsetup/po/pl.po | 
- | [pt_BR]({{< ref "/f25/language/pt_BR.md" >}}) | 2500 | 2507 | 99.7 | /mnt/stockage/packages/f25/cryptsetup/po/pt_BR.po | 
- | [uk]({{< ref "/f25/language/uk.md" >}}) | 2500 | 2507 | 99.7 | /mnt/stockage/packages/f25/cryptsetup/po/uk.po | 
- | [vi]({{< ref "/f25/language/vi.md" >}}) | 2500 | 2507 | 99.7 | /mnt/stockage/packages/f25/cryptsetup/po/vi.po | 
- | [sr]({{< ref "/f25/language/sr.md" >}}) | 2494 | 2507 | 99.5 | /mnt/stockage/packages/f25/cryptsetup/po/sr.po | 
- | [sv]({{< ref "/f25/language/sv.md" >}}) | 2494 | 2507 | 99.5 | /mnt/stockage/packages/f25/cryptsetup/po/sv.po | 
- | [fi]({{< ref "/f25/language/fi.md" >}}) | 2403 | 2507 | 95.9 | /mnt/stockage/packages/f25/cryptsetup/po/fi.po | 
- | [zh_Hans]({{< ref "/f25/language/zh_Hans.md" >}}) | 2366 | 2507 | 94.4 | /mnt/stockage/packages/f25/cryptsetup/po/zh_CN.po | 
- | [id]({{< ref "/f25/language/id.md" >}}) | 703 | 2507 | 28.0 | /mnt/stockage/packages/f25/cryptsetup/po/id.po | 
+ | [cs](/f25/language/cs) | 2500 | 2507 | 99.7 | /mnt/stockage/packages/f25/cryptsetup/po/cs.po | 
+ | [da](/f25/language/da) | 2500 | 2507 | 99.7 | /mnt/stockage/packages/f25/cryptsetup/po/da.po | 
+ | [de](/f25/language/de) | 2500 | 2507 | 99.7 | /mnt/stockage/packages/f25/cryptsetup/po/de.po | 
+ | [es](/f25/language/es) | 2500 | 2507 | 99.7 | /mnt/stockage/packages/f25/cryptsetup/po/es.po | 
+ | [fr](/f25/language/fr) | 2500 | 2507 | 99.7 | /mnt/stockage/packages/f25/cryptsetup/po/fr.po | 
+ | [it](/f25/language/it) | 2500 | 2507 | 99.7 | /mnt/stockage/packages/f25/cryptsetup/po/it.po | 
+ | [nl](/f25/language/nl) | 2500 | 2507 | 99.7 | /mnt/stockage/packages/f25/cryptsetup/po/nl.po | 
+ | [pl](/f25/language/pl) | 2500 | 2507 | 99.7 | /mnt/stockage/packages/f25/cryptsetup/po/pl.po | 
+ | [pt_BR](/f25/language/pt_BR) | 2500 | 2507 | 99.7 | /mnt/stockage/packages/f25/cryptsetup/po/pt_BR.po | 
+ | [uk](/f25/language/uk) | 2500 | 2507 | 99.7 | /mnt/stockage/packages/f25/cryptsetup/po/uk.po | 
+ | [vi](/f25/language/vi) | 2500 | 2507 | 99.7 | /mnt/stockage/packages/f25/cryptsetup/po/vi.po | 
+ | [sr](/f25/language/sr) | 2494 | 2507 | 99.5 | /mnt/stockage/packages/f25/cryptsetup/po/sr.po | 
+ | [sv](/f25/language/sv) | 2494 | 2507 | 99.5 | /mnt/stockage/packages/f25/cryptsetup/po/sv.po | 
+ | [fi](/f25/language/fi) | 2403 | 2507 | 95.9 | /mnt/stockage/packages/f25/cryptsetup/po/fi.po | 
+ | [zh_Hans](/f25/language/zh_Hans) | 2366 | 2507 | 94.4 | /mnt/stockage/packages/f25/cryptsetup/po/zh_CN.po | 
+ | [id](/f25/language/id) | 703 | 2507 | 28.0 | /mnt/stockage/packages/f25/cryptsetup/po/id.po | 
 {.sortable}
 
 

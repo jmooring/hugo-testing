@@ -18,10 +18,10 @@ The package emelfm2 (version 0.4.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ru]({{< ref "/f10/language/ru.md" >}}) | 6182 | 6185 | 100.0 | /mnt/stockage/packages/f10/emelfm2/po/ru.po | 
- | [de]({{< ref "/f10/language/de.md" >}}) | 5725 | 6005 | 95.3 | /mnt/stockage/packages/f10/emelfm2/po/de.po | 
- | [fr]({{< ref "/f10/language/fr.md" >}}) | 5876 | 6185 | 95.0 | /mnt/stockage/packages/f10/emelfm2/po/fr.po | 
- | [ja]({{< ref "/f10/language/ja.md" >}}) | 4552 | 6185 | 73.6 | /mnt/stockage/packages/f10/emelfm2/po/ja.po | 
+ | [ru](/f10/language/ru) | 6182 | 6185 | 100.0 | /mnt/stockage/packages/f10/emelfm2/po/ru.po | 
+ | [de](/f10/language/de) | 5725 | 6005 | 95.3 | /mnt/stockage/packages/f10/emelfm2/po/de.po | 
+ | [fr](/f10/language/fr) | 5876 | 6185 | 95.0 | /mnt/stockage/packages/f10/emelfm2/po/fr.po | 
+ | [ja](/f10/language/ja) | 4552 | 6185 | 73.6 | /mnt/stockage/packages/f10/emelfm2/po/ja.po | 
 {.sortable}
 
 

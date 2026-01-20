@@ -18,30 +18,30 @@ The package subtitleeditor (version 0.53.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f27/language/cs.md" >}}) | 3496 | 3496 | 100.0 | /mnt/stockage/packages/f27/subtitleeditor/po/cs.po | 
- | [el]({{< ref "/f27/language/el.md" >}}) | 3297 | 3297 | 100.0 | /mnt/stockage/packages/f27/subtitleeditor/po/el.po | 
- | [en_GB]({{< ref "/f27/language/en_GB.md" >}}) | 1817 | 1817 | 100.0 | /mnt/stockage/packages/f27/subtitleeditor/po/en_GB.po | 
- | [eo]({{< ref "/f27/language/eo.md" >}}) | 3318 | 3318 | 100.0 | /mnt/stockage/packages/f27/subtitleeditor/po/eo.po | 
- | [lt]({{< ref "/f27/language/lt.md" >}}) | 3515 | 3515 | 100.0 | /mnt/stockage/packages/f27/subtitleeditor/po/lt.po | 
- | [pt_BR]({{< ref "/f27/language/pt_BR.md" >}}) | 3961 | 3961 | 100.0 | /mnt/stockage/packages/f27/subtitleeditor/po/pt_BR.po | 
- | [zh_Hant]({{< ref "/f27/language/zh_Hant.md" >}}) | 3515 | 3515 | 100.0 | /mnt/stockage/packages/f27/subtitleeditor/po/zh_TW.po | 
- | [gl]({{< ref "/f27/language/gl.md" >}}) | 3264 | 3318 | 98.4 | /mnt/stockage/packages/f27/subtitleeditor/po/gl.po | 
- | [ru]({{< ref "/f27/language/ru.md" >}}) | 3219 | 3297 | 97.6 | /mnt/stockage/packages/f27/subtitleeditor/po/ru.po | 
- | [pl]({{< ref "/f27/language/pl.md" >}}) | 3188 | 3318 | 96.1 | /mnt/stockage/packages/f27/subtitleeditor/po/pl.po | 
- | [es]({{< ref "/f27/language/es.md" >}}) | 3723 | 4010 | 92.8 | /mnt/stockage/packages/f27/subtitleeditor/po/es.po | 
- | [de]({{< ref "/f27/language/de.md" >}}) | 3724 | 4129 | 90.2 | /mnt/stockage/packages/f27/subtitleeditor/po/de.po | 
- | [bg]({{< ref "/f27/language/bg.md" >}}) | 2906 | 3297 | 88.1 | /mnt/stockage/packages/f27/subtitleeditor/po/bg.po | 
- | [fr]({{< ref "/f27/language/fr.md" >}}) | 2894 | 3297 | 87.8 | /mnt/stockage/packages/f27/subtitleeditor/po/fr.po | 
- | [zh_Hans]({{< ref "/f27/language/zh_Hans.md" >}}) | 2658 | 3297 | 80.6 | /mnt/stockage/packages/f27/subtitleeditor/po/zh_CN.po | 
- | [tr]({{< ref "/f27/language/tr.md" >}}) | 2419 | 3297 | 73.4 | /mnt/stockage/packages/f27/subtitleeditor/po/tr.po | 
- | [it]({{< ref "/f27/language/it.md" >}}) | 839 | 1817 | 46.2 | /mnt/stockage/packages/f27/subtitleeditor/po/it.po | 
- | [hu]({{< ref "/f27/language/hu.md" >}}) | 759 | 2128 | 35.7 | /mnt/stockage/packages/f27/subtitleeditor/po/hu.po | 
- | [pt]({{< ref "/f27/language/pt.md" >}}) | 383 | 1817 | 21.1 | /mnt/stockage/packages/f27/subtitleeditor/po/pt.po | 
- | [nl]({{< ref "/f27/language/nl.md" >}}) | 348 | 1817 | 19.2 | /mnt/stockage/packages/f27/subtitleeditor/po/nl.po | 
- | [pt_PT]({{< ref "/f27/language/pt_PT.md" >}}) | 304 | 1817 | 16.7 | /mnt/stockage/packages/f27/subtitleeditor/po/pt_PT.po | 
- | [sr]({{< ref "/f27/language/sr.md" >}}) | 238 | 1817 | 13.1 | /mnt/stockage/packages/f27/subtitleeditor/po/sr.po | 
- | [da]({{< ref "/f27/language/da.md" >}}) | 223 | 1817 | 12.3 | /mnt/stockage/packages/f27/subtitleeditor/po/da.po | 
- | [ca]({{< ref "/f27/language/ca.md" >}}) | 98 | 1817 | 5.4 | /mnt/stockage/packages/f27/subtitleeditor/po/ca.po | 
+ | [cs](/f27/language/cs) | 3496 | 3496 | 100.0 | /mnt/stockage/packages/f27/subtitleeditor/po/cs.po | 
+ | [el](/f27/language/el) | 3297 | 3297 | 100.0 | /mnt/stockage/packages/f27/subtitleeditor/po/el.po | 
+ | [en_GB](/f27/language/en_GB) | 1817 | 1817 | 100.0 | /mnt/stockage/packages/f27/subtitleeditor/po/en_GB.po | 
+ | [eo](/f27/language/eo) | 3318 | 3318 | 100.0 | /mnt/stockage/packages/f27/subtitleeditor/po/eo.po | 
+ | [lt](/f27/language/lt) | 3515 | 3515 | 100.0 | /mnt/stockage/packages/f27/subtitleeditor/po/lt.po | 
+ | [pt_BR](/f27/language/pt_BR) | 3961 | 3961 | 100.0 | /mnt/stockage/packages/f27/subtitleeditor/po/pt_BR.po | 
+ | [zh_Hant](/f27/language/zh_Hant) | 3515 | 3515 | 100.0 | /mnt/stockage/packages/f27/subtitleeditor/po/zh_TW.po | 
+ | [gl](/f27/language/gl) | 3264 | 3318 | 98.4 | /mnt/stockage/packages/f27/subtitleeditor/po/gl.po | 
+ | [ru](/f27/language/ru) | 3219 | 3297 | 97.6 | /mnt/stockage/packages/f27/subtitleeditor/po/ru.po | 
+ | [pl](/f27/language/pl) | 3188 | 3318 | 96.1 | /mnt/stockage/packages/f27/subtitleeditor/po/pl.po | 
+ | [es](/f27/language/es) | 3723 | 4010 | 92.8 | /mnt/stockage/packages/f27/subtitleeditor/po/es.po | 
+ | [de](/f27/language/de) | 3724 | 4129 | 90.2 | /mnt/stockage/packages/f27/subtitleeditor/po/de.po | 
+ | [bg](/f27/language/bg) | 2906 | 3297 | 88.1 | /mnt/stockage/packages/f27/subtitleeditor/po/bg.po | 
+ | [fr](/f27/language/fr) | 2894 | 3297 | 87.8 | /mnt/stockage/packages/f27/subtitleeditor/po/fr.po | 
+ | [zh_Hans](/f27/language/zh_Hans) | 2658 | 3297 | 80.6 | /mnt/stockage/packages/f27/subtitleeditor/po/zh_CN.po | 
+ | [tr](/f27/language/tr) | 2419 | 3297 | 73.4 | /mnt/stockage/packages/f27/subtitleeditor/po/tr.po | 
+ | [it](/f27/language/it) | 839 | 1817 | 46.2 | /mnt/stockage/packages/f27/subtitleeditor/po/it.po | 
+ | [hu](/f27/language/hu) | 759 | 2128 | 35.7 | /mnt/stockage/packages/f27/subtitleeditor/po/hu.po | 
+ | [pt](/f27/language/pt) | 383 | 1817 | 21.1 | /mnt/stockage/packages/f27/subtitleeditor/po/pt.po | 
+ | [nl](/f27/language/nl) | 348 | 1817 | 19.2 | /mnt/stockage/packages/f27/subtitleeditor/po/nl.po | 
+ | [pt_PT](/f27/language/pt_PT) | 304 | 1817 | 16.7 | /mnt/stockage/packages/f27/subtitleeditor/po/pt_PT.po | 
+ | [sr](/f27/language/sr) | 238 | 1817 | 13.1 | /mnt/stockage/packages/f27/subtitleeditor/po/sr.po | 
+ | [da](/f27/language/da) | 223 | 1817 | 12.3 | /mnt/stockage/packages/f27/subtitleeditor/po/da.po | 
+ | [ca](/f27/language/ca) | 98 | 1817 | 5.4 | /mnt/stockage/packages/f27/subtitleeditor/po/ca.po | 
 {.sortable}
 
 

@@ -18,8 +18,8 @@ The package nagios-plugins (version 2.4.12):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f43/language/fr.md" >}}) | 5087 | 10786 | 47.2 | /mnt/stockage/packages/f43/nagios-plugins/po/fr.po | 
- | [en]({{< ref "/f43/language/en.md" >}}) | 348 | 10786 | 3.2 | /mnt/stockage/packages/f43/nagios-plugins/po/de.po | 
+ | [fr](/f43/language/fr) | 5087 | 10786 | 47.2 | /mnt/stockage/packages/f43/nagios-plugins/po/fr.po | 
+ | [en](/f43/language/en) | 348 | 10786 | 3.2 | /mnt/stockage/packages/f43/nagios-plugins/po/de.po | 
 {.sortable}
 
 

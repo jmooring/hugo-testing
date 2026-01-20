@@ -18,10 +18,10 @@ The package fondo (version 1.3.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [es]({{< ref "/f29/language/es.md" >}}) | 503 | 503 | 100.0 | /mnt/stockage/packages/f29/fondo/po/es.po | 
- | [nl]({{< ref "/f29/language/nl.md" >}}) | 472 | 503 | 93.8 | /mnt/stockage/packages/f29/fondo/po/nl_NL.po | 
- | [fr]({{< ref "/f29/language/fr.md" >}}) | 368 | 503 | 73.2 | /mnt/stockage/packages/f29/fondo/po/fr.po | 
- | [pt_BR]({{< ref "/f29/language/pt_BR.md" >}}) | 367 | 503 | 73.0 | /mnt/stockage/packages/f29/fondo/po/pt_BR.po | 
+ | [es](/f29/language/es) | 503 | 503 | 100.0 | /mnt/stockage/packages/f29/fondo/po/es.po | 
+ | [nl](/f29/language/nl) | 472 | 503 | 93.8 | /mnt/stockage/packages/f29/fondo/po/nl_NL.po | 
+ | [fr](/f29/language/fr) | 368 | 503 | 73.2 | /mnt/stockage/packages/f29/fondo/po/fr.po | 
+ | [pt_BR](/f29/language/pt_BR) | 367 | 503 | 73.0 | /mnt/stockage/packages/f29/fondo/po/pt_BR.po | 
 {.sortable}
 
 

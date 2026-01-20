@@ -44,8 +44,8 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [abiword]({{< ref "/f43/package/abiword.md" >}}) | 4595 | 5451 | 84.3 | Ousmane Faty Ndongo, Dominique Rochefort, Cheikh Tidiane Guèye <direction@anafa.org> | 
- | [ccsm]({{< ref "/f43/package/ccsm.md" >}}) | 399 | 591 | 67.5 | Mandingo <mnk@li.org> | 
+ | [abiword](/f43/package/abiword) | 4595 | 5451 | 84.3 | Ousmane Faty Ndongo, Dominique Rochefort, Cheikh Tidiane Guèye <direction@anafa.org> | 
+ | [ccsm](/f43/package/ccsm) | 399 | 591 | 67.5 | Mandingo <mnk@li.org> | 
 {.sortable}
 
 

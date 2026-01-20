@@ -18,20 +18,20 @@ The package girara (version 0.3.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f32/language/de.md" >}}) | 226 | 226 | 100.0 | /mnt/stockage/packages/f32/girara/po/de.po | 
- | [nl]({{< ref "/f32/language/nl.md" >}}) | 226 | 226 | 100.0 | /mnt/stockage/packages/f32/girara/po/nl.po | 
- | [it]({{< ref "/f32/language/it.md" >}}) | 215 | 226 | 95.1 | /mnt/stockage/packages/f32/girara/po/it.po | 
- | [ru]({{< ref "/f32/language/ru.md" >}}) | 215 | 226 | 95.1 | /mnt/stockage/packages/f32/girara/po/ru.po | 
- | [fr]({{< ref "/f32/language/fr.md" >}}) | 206 | 226 | 91.2 | /mnt/stockage/packages/f32/girara/po/fr.po | 
- | [pl]({{< ref "/f32/language/pl.md" >}}) | 206 | 226 | 91.2 | /mnt/stockage/packages/f32/girara/po/pl.po | 
- | [pt_BR]({{< ref "/f32/language/pt_BR.md" >}}) | 206 | 226 | 91.2 | /mnt/stockage/packages/f32/girara/po/pt_BR.po | 
- | [el]({{< ref "/f32/language/el.md" >}}) | 173 | 226 | 76.5 | /mnt/stockage/packages/f32/girara/po/el.po | 
- | [es]({{< ref "/f32/language/es.md" >}}) | 173 | 226 | 76.5 | /mnt/stockage/packages/f32/girara/po/es.po | 
- | [tr]({{< ref "/f32/language/tr.md" >}}) | 173 | 226 | 76.5 | /mnt/stockage/packages/f32/girara/po/tr.po | 
- | [eo]({{< ref "/f32/language/eo.md" >}}) | 167 | 226 | 73.9 | /mnt/stockage/packages/f32/girara/po/eo.po | 
- | [ar]({{< ref "/f32/language/ar.md" >}}) | 0 | 226 | 0.0 | /mnt/stockage/packages/f32/girara/po/ar.po | 
- | [he]({{< ref "/f32/language/he.md" >}}) | 0 | 226 | 0.0 | /mnt/stockage/packages/f32/girara/po/he.po | 
- | [sv]({{< ref "/f32/language/sv.md" >}}) | 0 | 226 | 0.0 | /mnt/stockage/packages/f32/girara/po/sv.po | 
+ | [de](/f32/language/de) | 226 | 226 | 100.0 | /mnt/stockage/packages/f32/girara/po/de.po | 
+ | [nl](/f32/language/nl) | 226 | 226 | 100.0 | /mnt/stockage/packages/f32/girara/po/nl.po | 
+ | [it](/f32/language/it) | 215 | 226 | 95.1 | /mnt/stockage/packages/f32/girara/po/it.po | 
+ | [ru](/f32/language/ru) | 215 | 226 | 95.1 | /mnt/stockage/packages/f32/girara/po/ru.po | 
+ | [fr](/f32/language/fr) | 206 | 226 | 91.2 | /mnt/stockage/packages/f32/girara/po/fr.po | 
+ | [pl](/f32/language/pl) | 206 | 226 | 91.2 | /mnt/stockage/packages/f32/girara/po/pl.po | 
+ | [pt_BR](/f32/language/pt_BR) | 206 | 226 | 91.2 | /mnt/stockage/packages/f32/girara/po/pt_BR.po | 
+ | [el](/f32/language/el) | 173 | 226 | 76.5 | /mnt/stockage/packages/f32/girara/po/el.po | 
+ | [es](/f32/language/es) | 173 | 226 | 76.5 | /mnt/stockage/packages/f32/girara/po/es.po | 
+ | [tr](/f32/language/tr) | 173 | 226 | 76.5 | /mnt/stockage/packages/f32/girara/po/tr.po | 
+ | [eo](/f32/language/eo) | 167 | 226 | 73.9 | /mnt/stockage/packages/f32/girara/po/eo.po | 
+ | [ar](/f32/language/ar) | 0 | 226 | 0.0 | /mnt/stockage/packages/f32/girara/po/ar.po | 
+ | [he](/f32/language/he) | 0 | 226 | 0.0 | /mnt/stockage/packages/f32/girara/po/he.po | 
+ | [sv](/f32/language/sv) | 0 | 226 | 0.0 | /mnt/stockage/packages/f32/girara/po/sv.po | 
 {.sortable}
 
 

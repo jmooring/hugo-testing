@@ -18,29 +18,29 @@ The package katello-cli (version 1.3.5):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f20/language/de.md" >}}) | 2870 | 3089 | 92.9 | /mnt/stockage/packages/f20/katello-cli/locale/de/katello-cli.po | 
- | [es]({{< ref "/f20/language/es.md" >}}) | 2870 | 3089 | 92.9 | /mnt/stockage/packages/f20/katello-cli/locale/es/katello-cli.po | 
- | [fr]({{< ref "/f20/language/fr.md" >}}) | 2870 | 3089 | 92.9 | /mnt/stockage/packages/f20/katello-cli/locale/fr/katello-cli.po | 
- | [it]({{< ref "/f20/language/it.md" >}}) | 2870 | 3089 | 92.9 | /mnt/stockage/packages/f20/katello-cli/locale/it/katello-cli.po | 
- | [ja]({{< ref "/f20/language/ja.md" >}}) | 2870 | 3089 | 92.9 | /mnt/stockage/packages/f20/katello-cli/locale/ja/katello-cli.po | 
- | [ko]({{< ref "/f20/language/ko.md" >}}) | 2870 | 3089 | 92.9 | /mnt/stockage/packages/f20/katello-cli/locale/ko/katello-cli.po | 
- | [pt]({{< ref "/f20/language/pt.md" >}}) | 2870 | 3089 | 92.9 | /mnt/stockage/packages/f20/katello-cli/locale/pt/katello-cli.po | 
- | [ru]({{< ref "/f20/language/ru.md" >}}) | 2870 | 3089 | 92.9 | /mnt/stockage/packages/f20/katello-cli/locale/ru/katello-cli.po | 
- | [zh_Hant]({{< ref "/f20/language/zh_Hant.md" >}}) | 2870 | 3089 | 92.9 | /mnt/stockage/packages/f20/katello-cli/locale/zh_TW/katello-cli.po | 
- | [zh_Hans]({{< ref "/f20/language/zh_Hans.md" >}}) | 2863 | 3089 | 92.7 | /mnt/stockage/packages/f20/katello-cli/locale/zh_CN/katello-cli.po | 
- | [ta]({{< ref "/f20/language/ta.md" >}}) | 2436 | 3089 | 78.9 | /mnt/stockage/packages/f20/katello-cli/locale/ta/katello-cli.po | 
- | [pa]({{< ref "/f20/language/pa.md" >}}) | 2405 | 3089 | 77.9 | /mnt/stockage/packages/f20/katello-cli/locale/pa/katello-cli.po | 
- | [te]({{< ref "/f20/language/te.md" >}}) | 2397 | 3089 | 77.6 | /mnt/stockage/packages/f20/katello-cli/locale/te/katello-cli.po | 
- | [as]({{< ref "/f20/language/as.md" >}}) | 1534 | 3089 | 49.7 | /mnt/stockage/packages/f20/katello-cli/locale/as/katello-cli.po | 
- | [cs]({{< ref "/f20/language/cs.md" >}}) | 1052 | 3089 | 34.1 | /mnt/stockage/packages/f20/katello-cli/locale/cs/katello-cli.po | 
- | [gu]({{< ref "/f20/language/gu.md" >}}) | 351 | 3089 | 11.4 | /mnt/stockage/packages/f20/katello-cli/locale/gu/katello-cli.po | 
- | [bn]({{< ref "/f20/language/bn.md" >}}) | 8 | 3089 | 0.3 | /mnt/stockage/packages/f20/katello-cli/locale/bn/katello-cli.po | 
- | [hi]({{< ref "/f20/language/hi.md" >}}) | 8 | 3089 | 0.3 | /mnt/stockage/packages/f20/katello-cli/locale/hi/katello-cli.po | 
- | [kn]({{< ref "/f20/language/kn.md" >}}) | 8 | 3089 | 0.3 | /mnt/stockage/packages/f20/katello-cli/locale/kn/katello-cli.po | 
- | [mr]({{< ref "/f20/language/mr.md" >}}) | 8 | 3089 | 0.3 | /mnt/stockage/packages/f20/katello-cli/locale/mr/katello-cli.po | 
- | [or]({{< ref "/f20/language/or.md" >}}) | 8 | 3089 | 0.3 | /mnt/stockage/packages/f20/katello-cli/locale/or/katello-cli.po | 
- | [pt_BR]({{< ref "/f20/language/pt_BR.md" >}}) | 8 | 3089 | 0.3 | /mnt/stockage/packages/f20/katello-cli/locale/pt_BR/katello-cli.po | 
- | [ml]({{< ref "/f20/language/ml.md" >}}) | 0 | 4679 | 0.0 | /mnt/stockage/packages/f20/katello-cli/locale/ml/katello-cli.po | 
+ | [de](/f20/language/de) | 2870 | 3089 | 92.9 | /mnt/stockage/packages/f20/katello-cli/locale/de/katello-cli.po | 
+ | [es](/f20/language/es) | 2870 | 3089 | 92.9 | /mnt/stockage/packages/f20/katello-cli/locale/es/katello-cli.po | 
+ | [fr](/f20/language/fr) | 2870 | 3089 | 92.9 | /mnt/stockage/packages/f20/katello-cli/locale/fr/katello-cli.po | 
+ | [it](/f20/language/it) | 2870 | 3089 | 92.9 | /mnt/stockage/packages/f20/katello-cli/locale/it/katello-cli.po | 
+ | [ja](/f20/language/ja) | 2870 | 3089 | 92.9 | /mnt/stockage/packages/f20/katello-cli/locale/ja/katello-cli.po | 
+ | [ko](/f20/language/ko) | 2870 | 3089 | 92.9 | /mnt/stockage/packages/f20/katello-cli/locale/ko/katello-cli.po | 
+ | [pt](/f20/language/pt) | 2870 | 3089 | 92.9 | /mnt/stockage/packages/f20/katello-cli/locale/pt/katello-cli.po | 
+ | [ru](/f20/language/ru) | 2870 | 3089 | 92.9 | /mnt/stockage/packages/f20/katello-cli/locale/ru/katello-cli.po | 
+ | [zh_Hant](/f20/language/zh_Hant) | 2870 | 3089 | 92.9 | /mnt/stockage/packages/f20/katello-cli/locale/zh_TW/katello-cli.po | 
+ | [zh_Hans](/f20/language/zh_Hans) | 2863 | 3089 | 92.7 | /mnt/stockage/packages/f20/katello-cli/locale/zh_CN/katello-cli.po | 
+ | [ta](/f20/language/ta) | 2436 | 3089 | 78.9 | /mnt/stockage/packages/f20/katello-cli/locale/ta/katello-cli.po | 
+ | [pa](/f20/language/pa) | 2405 | 3089 | 77.9 | /mnt/stockage/packages/f20/katello-cli/locale/pa/katello-cli.po | 
+ | [te](/f20/language/te) | 2397 | 3089 | 77.6 | /mnt/stockage/packages/f20/katello-cli/locale/te/katello-cli.po | 
+ | [as](/f20/language/as) | 1534 | 3089 | 49.7 | /mnt/stockage/packages/f20/katello-cli/locale/as/katello-cli.po | 
+ | [cs](/f20/language/cs) | 1052 | 3089 | 34.1 | /mnt/stockage/packages/f20/katello-cli/locale/cs/katello-cli.po | 
+ | [gu](/f20/language/gu) | 351 | 3089 | 11.4 | /mnt/stockage/packages/f20/katello-cli/locale/gu/katello-cli.po | 
+ | [bn](/f20/language/bn) | 8 | 3089 | 0.3 | /mnt/stockage/packages/f20/katello-cli/locale/bn/katello-cli.po | 
+ | [hi](/f20/language/hi) | 8 | 3089 | 0.3 | /mnt/stockage/packages/f20/katello-cli/locale/hi/katello-cli.po | 
+ | [kn](/f20/language/kn) | 8 | 3089 | 0.3 | /mnt/stockage/packages/f20/katello-cli/locale/kn/katello-cli.po | 
+ | [mr](/f20/language/mr) | 8 | 3089 | 0.3 | /mnt/stockage/packages/f20/katello-cli/locale/mr/katello-cli.po | 
+ | [or](/f20/language/or) | 8 | 3089 | 0.3 | /mnt/stockage/packages/f20/katello-cli/locale/or/katello-cli.po | 
+ | [pt_BR](/f20/language/pt_BR) | 8 | 3089 | 0.3 | /mnt/stockage/packages/f20/katello-cli/locale/pt_BR/katello-cli.po | 
+ | [ml](/f20/language/ml) | 0 | 4679 | 0.0 | /mnt/stockage/packages/f20/katello-cli/locale/ml/katello-cli.po | 
 {.sortable}
 
 

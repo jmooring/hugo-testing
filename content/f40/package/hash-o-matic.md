@@ -18,34 +18,34 @@ The package hash-o-matic (version 1.0.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f40/language/ca.md" >}}) | 223 | 223 | 100.0 | /mnt/stockage/packages/f40/hash-o-matic/po/ca/hashomatic.po | 
- | [ca@valencia]({{< ref "/f40/language/ca@valencia.md" >}}) | 223 | 223 | 100.0 | /mnt/stockage/packages/f40/hash-o-matic/po/ca@valencia/hashomatic.po | 
- | [de]({{< ref "/f40/language/de.md" >}}) | 223 | 223 | 100.0 | /mnt/stockage/packages/f40/hash-o-matic/po/de/hashomatic.po | 
- | [en_GB]({{< ref "/f40/language/en_GB.md" >}}) | 223 | 223 | 100.0 | /mnt/stockage/packages/f40/hash-o-matic/po/en_GB/hashomatic.po | 
- | [eo]({{< ref "/f40/language/eo.md" >}}) | 223 | 223 | 100.0 | /mnt/stockage/packages/f40/hash-o-matic/po/eo/hashomatic.po | 
- | [es]({{< ref "/f40/language/es.md" >}}) | 223 | 223 | 100.0 | /mnt/stockage/packages/f40/hash-o-matic/po/es/hashomatic.po | 
- | [eu]({{< ref "/f40/language/eu.md" >}}) | 223 | 223 | 100.0 | /mnt/stockage/packages/f40/hash-o-matic/po/eu/hashomatic.po | 
- | [fr]({{< ref "/f40/language/fr.md" >}}) | 223 | 223 | 100.0 | /mnt/stockage/packages/f40/hash-o-matic/po/fr/hashomatic.po | 
- | [gl]({{< ref "/f40/language/gl.md" >}}) | 223 | 223 | 100.0 | /mnt/stockage/packages/f40/hash-o-matic/po/gl/hashomatic.po | 
- | [he]({{< ref "/f40/language/he.md" >}}) | 223 | 223 | 100.0 | /mnt/stockage/packages/f40/hash-o-matic/po/he/hashomatic.po | 
- | [ia]({{< ref "/f40/language/ia.md" >}}) | 223 | 223 | 100.0 | /mnt/stockage/packages/f40/hash-o-matic/po/ia/hashomatic.po | 
- | [it]({{< ref "/f40/language/it.md" >}}) | 223 | 223 | 100.0 | /mnt/stockage/packages/f40/hash-o-matic/po/it/hashomatic.po | 
- | [ka]({{< ref "/f40/language/ka.md" >}}) | 223 | 223 | 100.0 | /mnt/stockage/packages/f40/hash-o-matic/po/ka/hashomatic.po | 
- | [ko]({{< ref "/f40/language/ko.md" >}}) | 223 | 223 | 100.0 | /mnt/stockage/packages/f40/hash-o-matic/po/ko/hashomatic.po | 
- | [lv]({{< ref "/f40/language/lv.md" >}}) | 223 | 223 | 100.0 | /mnt/stockage/packages/f40/hash-o-matic/po/lv/hashomatic.po | 
- | [nl]({{< ref "/f40/language/nl.md" >}}) | 223 | 223 | 100.0 | /mnt/stockage/packages/f40/hash-o-matic/po/nl/hashomatic.po | 
- | [pl]({{< ref "/f40/language/pl.md" >}}) | 223 | 223 | 100.0 | /mnt/stockage/packages/f40/hash-o-matic/po/pl/hashomatic.po | 
- | [sl]({{< ref "/f40/language/sl.md" >}}) | 223 | 223 | 100.0 | /mnt/stockage/packages/f40/hash-o-matic/po/sl/hashomatic.po | 
- | [sv]({{< ref "/f40/language/sv.md" >}}) | 223 | 223 | 100.0 | /mnt/stockage/packages/f40/hash-o-matic/po/sv/hashomatic.po | 
- | [tr]({{< ref "/f40/language/tr.md" >}}) | 223 | 223 | 100.0 | /mnt/stockage/packages/f40/hash-o-matic/po/tr/hashomatic.po | 
- | [uk]({{< ref "/f40/language/uk.md" >}}) | 223 | 223 | 100.0 | /mnt/stockage/packages/f40/hash-o-matic/po/uk/hashomatic.po | 
- | [zh_Hant]({{< ref "/f40/language/zh_Hant.md" >}}) | 223 | 223 | 100.0 | /mnt/stockage/packages/f40/hash-o-matic/po/zh_TW/hashomatic.po | 
- | [sk]({{< ref "/f40/language/sk.md" >}}) | 109 | 223 | 48.9 | /mnt/stockage/packages/f40/hash-o-matic/po/sk/hashomatic.po | 
- | [cs]({{< ref "/f40/language/cs.md" >}}) | 105 | 223 | 47.1 | /mnt/stockage/packages/f40/hash-o-matic/po/cs/hashomatic.po | 
- | [zh_Hans]({{< ref "/f40/language/zh_Hans.md" >}}) | 92 | 223 | 41.3 | /mnt/stockage/packages/f40/hash-o-matic/po/zh_CN/hashomatic.po | 
- | [pa]({{< ref "/f40/language/pa.md" >}}) | 49 | 223 | 22.0 | /mnt/stockage/packages/f40/hash-o-matic/po/pa/hashomatic.po | 
- | [ast]({{< ref "/f40/language/ast.md" >}}) | 4 | 223 | 1.8 | /mnt/stockage/packages/f40/hash-o-matic/po/ast/hashomatic.po | 
- | [ru]({{< ref "/f40/language/ru.md" >}}) | 2 | 223 | 0.9 | /mnt/stockage/packages/f40/hash-o-matic/po/ru/hashomatic.po | 
+ | [ca](/f40/language/ca) | 223 | 223 | 100.0 | /mnt/stockage/packages/f40/hash-o-matic/po/ca/hashomatic.po | 
+ | [ca@valencia](/f40/language/ca@valencia) | 223 | 223 | 100.0 | /mnt/stockage/packages/f40/hash-o-matic/po/ca@valencia/hashomatic.po | 
+ | [de](/f40/language/de) | 223 | 223 | 100.0 | /mnt/stockage/packages/f40/hash-o-matic/po/de/hashomatic.po | 
+ | [en_GB](/f40/language/en_GB) | 223 | 223 | 100.0 | /mnt/stockage/packages/f40/hash-o-matic/po/en_GB/hashomatic.po | 
+ | [eo](/f40/language/eo) | 223 | 223 | 100.0 | /mnt/stockage/packages/f40/hash-o-matic/po/eo/hashomatic.po | 
+ | [es](/f40/language/es) | 223 | 223 | 100.0 | /mnt/stockage/packages/f40/hash-o-matic/po/es/hashomatic.po | 
+ | [eu](/f40/language/eu) | 223 | 223 | 100.0 | /mnt/stockage/packages/f40/hash-o-matic/po/eu/hashomatic.po | 
+ | [fr](/f40/language/fr) | 223 | 223 | 100.0 | /mnt/stockage/packages/f40/hash-o-matic/po/fr/hashomatic.po | 
+ | [gl](/f40/language/gl) | 223 | 223 | 100.0 | /mnt/stockage/packages/f40/hash-o-matic/po/gl/hashomatic.po | 
+ | [he](/f40/language/he) | 223 | 223 | 100.0 | /mnt/stockage/packages/f40/hash-o-matic/po/he/hashomatic.po | 
+ | [ia](/f40/language/ia) | 223 | 223 | 100.0 | /mnt/stockage/packages/f40/hash-o-matic/po/ia/hashomatic.po | 
+ | [it](/f40/language/it) | 223 | 223 | 100.0 | /mnt/stockage/packages/f40/hash-o-matic/po/it/hashomatic.po | 
+ | [ka](/f40/language/ka) | 223 | 223 | 100.0 | /mnt/stockage/packages/f40/hash-o-matic/po/ka/hashomatic.po | 
+ | [ko](/f40/language/ko) | 223 | 223 | 100.0 | /mnt/stockage/packages/f40/hash-o-matic/po/ko/hashomatic.po | 
+ | [lv](/f40/language/lv) | 223 | 223 | 100.0 | /mnt/stockage/packages/f40/hash-o-matic/po/lv/hashomatic.po | 
+ | [nl](/f40/language/nl) | 223 | 223 | 100.0 | /mnt/stockage/packages/f40/hash-o-matic/po/nl/hashomatic.po | 
+ | [pl](/f40/language/pl) | 223 | 223 | 100.0 | /mnt/stockage/packages/f40/hash-o-matic/po/pl/hashomatic.po | 
+ | [sl](/f40/language/sl) | 223 | 223 | 100.0 | /mnt/stockage/packages/f40/hash-o-matic/po/sl/hashomatic.po | 
+ | [sv](/f40/language/sv) | 223 | 223 | 100.0 | /mnt/stockage/packages/f40/hash-o-matic/po/sv/hashomatic.po | 
+ | [tr](/f40/language/tr) | 223 | 223 | 100.0 | /mnt/stockage/packages/f40/hash-o-matic/po/tr/hashomatic.po | 
+ | [uk](/f40/language/uk) | 223 | 223 | 100.0 | /mnt/stockage/packages/f40/hash-o-matic/po/uk/hashomatic.po | 
+ | [zh_Hant](/f40/language/zh_Hant) | 223 | 223 | 100.0 | /mnt/stockage/packages/f40/hash-o-matic/po/zh_TW/hashomatic.po | 
+ | [sk](/f40/language/sk) | 109 | 223 | 48.9 | /mnt/stockage/packages/f40/hash-o-matic/po/sk/hashomatic.po | 
+ | [cs](/f40/language/cs) | 105 | 223 | 47.1 | /mnt/stockage/packages/f40/hash-o-matic/po/cs/hashomatic.po | 
+ | [zh_Hans](/f40/language/zh_Hans) | 92 | 223 | 41.3 | /mnt/stockage/packages/f40/hash-o-matic/po/zh_CN/hashomatic.po | 
+ | [pa](/f40/language/pa) | 49 | 223 | 22.0 | /mnt/stockage/packages/f40/hash-o-matic/po/pa/hashomatic.po | 
+ | [ast](/f40/language/ast) | 4 | 223 | 1.8 | /mnt/stockage/packages/f40/hash-o-matic/po/ast/hashomatic.po | 
+ | [ru](/f40/language/ru) | 2 | 223 | 0.9 | /mnt/stockage/packages/f40/hash-o-matic/po/ru/hashomatic.po | 
 {.sortable}
 
 

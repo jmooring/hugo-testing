@@ -18,52 +18,52 @@ The package grilo-plugins (version 0.3.11):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [as]({{< ref "/f31/language/as.md" >}}) | 533 | 533 | 100.0 | /mnt/stockage/packages/f31/grilo-plugins/po/as.po | 
- | [bg]({{< ref "/f31/language/bg.md" >}}) | 536 | 536 | 100.0 | /mnt/stockage/packages/f31/grilo-plugins/po/bg.po | 
- | [bs]({{< ref "/f31/language/bs.md" >}}) | 554 | 554 | 100.0 | /mnt/stockage/packages/f31/grilo-plugins/po/bs.po | 
- | [ca]({{< ref "/f31/language/ca.md" >}}) | 537 | 537 | 100.0 | /mnt/stockage/packages/f31/grilo-plugins/po/ca.po | 
- | [ca@valencia]({{< ref "/f31/language/ca@valencia.md" >}}) | 536 | 536 | 100.0 | /mnt/stockage/packages/f31/grilo-plugins/po/ca@valencia.po | 
- | [cs]({{< ref "/f31/language/cs.md" >}}) | 1841 | 1841 | 100.0 | /mnt/stockage/packages/f31/grilo-plugins/help/cs/cs.po/mnt/stockage/packages/f31/grilo-plugins/po/cs.po | 
- | [da]({{< ref "/f31/language/da.md" >}}) | 537 | 537 | 100.0 | /mnt/stockage/packages/f31/grilo-plugins/po/da.po | 
- | [de]({{< ref "/f31/language/de.md" >}}) | 1841 | 1841 | 100.0 | /mnt/stockage/packages/f31/grilo-plugins/help/de/de.po/mnt/stockage/packages/f31/grilo-plugins/po/de.po | 
- | [el]({{< ref "/f31/language/el.md" >}}) | 537 | 537 | 100.0 | /mnt/stockage/packages/f31/grilo-plugins/po/el.po | 
- | [en_GB]({{< ref "/f31/language/en_GB.md" >}}) | 536 | 536 | 100.0 | /mnt/stockage/packages/f31/grilo-plugins/po/en_GB.po | 
- | [es]({{< ref "/f31/language/es.md" >}}) | 1841 | 1841 | 100.0 | /mnt/stockage/packages/f31/grilo-plugins/help/es/es.po/mnt/stockage/packages/f31/grilo-plugins/po/es.po | 
- | [eu]({{< ref "/f31/language/eu.md" >}}) | 537 | 537 | 100.0 | /mnt/stockage/packages/f31/grilo-plugins/po/eu.po | 
- | [fr]({{< ref "/f31/language/fr.md" >}}) | 537 | 537 | 100.0 | /mnt/stockage/packages/f31/grilo-plugins/po/fr.po | 
- | [fur]({{< ref "/f31/language/fur.md" >}}) | 537 | 537 | 100.0 | /mnt/stockage/packages/f31/grilo-plugins/po/fur.po | 
- | [gl]({{< ref "/f31/language/gl.md" >}}) | 537 | 537 | 100.0 | /mnt/stockage/packages/f31/grilo-plugins/po/gl.po | 
- | [he]({{< ref "/f31/language/he.md" >}}) | 536 | 536 | 100.0 | /mnt/stockage/packages/f31/grilo-plugins/po/he.po | 
- | [hr]({{< ref "/f31/language/hr.md" >}}) | 537 | 537 | 100.0 | /mnt/stockage/packages/f31/grilo-plugins/po/hr.po | 
- | [hu]({{< ref "/f31/language/hu.md" >}}) | 537 | 537 | 100.0 | /mnt/stockage/packages/f31/grilo-plugins/po/hu.po | 
- | [id]({{< ref "/f31/language/id.md" >}}) | 537 | 537 | 100.0 | /mnt/stockage/packages/f31/grilo-plugins/po/id.po | 
- | [it]({{< ref "/f31/language/it.md" >}}) | 537 | 537 | 100.0 | /mnt/stockage/packages/f31/grilo-plugins/po/it.po | 
- | [ja]({{< ref "/f31/language/ja.md" >}}) | 537 | 537 | 100.0 | /mnt/stockage/packages/f31/grilo-plugins/po/ja.po | 
- | [ko]({{< ref "/f31/language/ko.md" >}}) | 537 | 537 | 100.0 | /mnt/stockage/packages/f31/grilo-plugins/po/ko.po | 
- | [lt]({{< ref "/f31/language/lt.md" >}}) | 537 | 537 | 100.0 | /mnt/stockage/packages/f31/grilo-plugins/po/lt.po | 
- | [lv]({{< ref "/f31/language/lv.md" >}}) | 537 | 537 | 100.0 | /mnt/stockage/packages/f31/grilo-plugins/po/lv.po | 
- | [ms]({{< ref "/f31/language/ms.md" >}}) | 537 | 537 | 100.0 | /mnt/stockage/packages/f31/grilo-plugins/po/ms.po | 
- | [nl]({{< ref "/f31/language/nl.md" >}}) | 537 | 537 | 100.0 | /mnt/stockage/packages/f31/grilo-plugins/po/nl.po | 
- | [oc]({{< ref "/f31/language/oc.md" >}}) | 528 | 528 | 100.0 | /mnt/stockage/packages/f31/grilo-plugins/po/oc.po | 
- | [pl]({{< ref "/f31/language/pl.md" >}}) | 1841 | 1841 | 100.0 | /mnt/stockage/packages/f31/grilo-plugins/help/pl/pl.po/mnt/stockage/packages/f31/grilo-plugins/po/pl.po | 
- | [pt]({{< ref "/f31/language/pt.md" >}}) | 536 | 536 | 100.0 | /mnt/stockage/packages/f31/grilo-plugins/po/pt.po | 
- | [pt_BR]({{< ref "/f31/language/pt_BR.md" >}}) | 1841 | 1841 | 100.0 | /mnt/stockage/packages/f31/grilo-plugins/help/pt_BR/pt_BR.po/mnt/stockage/packages/f31/grilo-plugins/po/pt_BR.po | 
- | [ro]({{< ref "/f31/language/ro.md" >}}) | 537 | 537 | 100.0 | /mnt/stockage/packages/f31/grilo-plugins/po/ro.po | 
- | [ru]({{< ref "/f31/language/ru.md" >}}) | 528 | 528 | 100.0 | /mnt/stockage/packages/f31/grilo-plugins/po/ru.po | 
- | [sk]({{< ref "/f31/language/sk.md" >}}) | 537 | 537 | 100.0 | /mnt/stockage/packages/f31/grilo-plugins/po/sk.po | 
- | [sl]({{< ref "/f31/language/sl.md" >}}) | 537 | 537 | 100.0 | /mnt/stockage/packages/f31/grilo-plugins/po/sl.po | 
- | [sr]({{< ref "/f31/language/sr.md" >}}) | 1073 | 1073 | 100.0 | /mnt/stockage/packages/f31/grilo-plugins/po/sr@latin.po/mnt/stockage/packages/f31/grilo-plugins/po/sr.po | 
- | [sv]({{< ref "/f31/language/sv.md" >}}) | 1841 | 1841 | 100.0 | /mnt/stockage/packages/f31/grilo-plugins/help/sv/sv.po/mnt/stockage/packages/f31/grilo-plugins/po/sv.po | 
- | [tr]({{< ref "/f31/language/tr.md" >}}) | 537 | 537 | 100.0 | /mnt/stockage/packages/f31/grilo-plugins/po/tr.po | 
- | [uk]({{< ref "/f31/language/uk.md" >}}) | 483 | 483 | 100.0 | /mnt/stockage/packages/f31/grilo-plugins/po/uk.po | 
- | [zh_Hans]({{< ref "/f31/language/zh_Hans.md" >}}) | 536 | 536 | 100.0 | /mnt/stockage/packages/f31/grilo-plugins/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f31/language/zh_Hant.md" >}}) | 537 | 537 | 100.0 | /mnt/stockage/packages/f31/grilo-plugins/po/zh_TW.po | 
- | [zh_Hant_HK]({{< ref "/f31/language/zh_Hant_HK.md" >}}) | 533 | 533 | 100.0 | /mnt/stockage/packages/f31/grilo-plugins/po/zh_HK.po | 
- | [nb_NO]({{< ref "/f31/language/nb_NO.md" >}}) | 467 | 536 | 87.1 | /mnt/stockage/packages/f31/grilo-plugins/po/nb.po | 
- | [eo]({{< ref "/f31/language/eo.md" >}}) | 229 | 483 | 47.4 | /mnt/stockage/packages/f31/grilo-plugins/po/eo.po | 
- | [fi]({{< ref "/f31/language/fi.md" >}}) | 99 | 537 | 18.4 | /mnt/stockage/packages/f31/grilo-plugins/po/fi.po | 
- | [ne]({{< ref "/f31/language/ne.md" >}}) | 77 | 536 | 14.4 | /mnt/stockage/packages/f31/grilo-plugins/po/ne.po | 
- | [ml]({{< ref "/f31/language/ml.md" >}}) | 51 | 483 | 10.6 | /mnt/stockage/packages/f31/grilo-plugins/po/ml.po | 
+ | [as](/f31/language/as) | 533 | 533 | 100.0 | /mnt/stockage/packages/f31/grilo-plugins/po/as.po | 
+ | [bg](/f31/language/bg) | 536 | 536 | 100.0 | /mnt/stockage/packages/f31/grilo-plugins/po/bg.po | 
+ | [bs](/f31/language/bs) | 554 | 554 | 100.0 | /mnt/stockage/packages/f31/grilo-plugins/po/bs.po | 
+ | [ca](/f31/language/ca) | 537 | 537 | 100.0 | /mnt/stockage/packages/f31/grilo-plugins/po/ca.po | 
+ | [ca@valencia](/f31/language/ca@valencia) | 536 | 536 | 100.0 | /mnt/stockage/packages/f31/grilo-plugins/po/ca@valencia.po | 
+ | [cs](/f31/language/cs) | 1841 | 1841 | 100.0 | /mnt/stockage/packages/f31/grilo-plugins/help/cs/cs.po/mnt/stockage/packages/f31/grilo-plugins/po/cs.po | 
+ | [da](/f31/language/da) | 537 | 537 | 100.0 | /mnt/stockage/packages/f31/grilo-plugins/po/da.po | 
+ | [de](/f31/language/de) | 1841 | 1841 | 100.0 | /mnt/stockage/packages/f31/grilo-plugins/help/de/de.po/mnt/stockage/packages/f31/grilo-plugins/po/de.po | 
+ | [el](/f31/language/el) | 537 | 537 | 100.0 | /mnt/stockage/packages/f31/grilo-plugins/po/el.po | 
+ | [en_GB](/f31/language/en_GB) | 536 | 536 | 100.0 | /mnt/stockage/packages/f31/grilo-plugins/po/en_GB.po | 
+ | [es](/f31/language/es) | 1841 | 1841 | 100.0 | /mnt/stockage/packages/f31/grilo-plugins/help/es/es.po/mnt/stockage/packages/f31/grilo-plugins/po/es.po | 
+ | [eu](/f31/language/eu) | 537 | 537 | 100.0 | /mnt/stockage/packages/f31/grilo-plugins/po/eu.po | 
+ | [fr](/f31/language/fr) | 537 | 537 | 100.0 | /mnt/stockage/packages/f31/grilo-plugins/po/fr.po | 
+ | [fur](/f31/language/fur) | 537 | 537 | 100.0 | /mnt/stockage/packages/f31/grilo-plugins/po/fur.po | 
+ | [gl](/f31/language/gl) | 537 | 537 | 100.0 | /mnt/stockage/packages/f31/grilo-plugins/po/gl.po | 
+ | [he](/f31/language/he) | 536 | 536 | 100.0 | /mnt/stockage/packages/f31/grilo-plugins/po/he.po | 
+ | [hr](/f31/language/hr) | 537 | 537 | 100.0 | /mnt/stockage/packages/f31/grilo-plugins/po/hr.po | 
+ | [hu](/f31/language/hu) | 537 | 537 | 100.0 | /mnt/stockage/packages/f31/grilo-plugins/po/hu.po | 
+ | [id](/f31/language/id) | 537 | 537 | 100.0 | /mnt/stockage/packages/f31/grilo-plugins/po/id.po | 
+ | [it](/f31/language/it) | 537 | 537 | 100.0 | /mnt/stockage/packages/f31/grilo-plugins/po/it.po | 
+ | [ja](/f31/language/ja) | 537 | 537 | 100.0 | /mnt/stockage/packages/f31/grilo-plugins/po/ja.po | 
+ | [ko](/f31/language/ko) | 537 | 537 | 100.0 | /mnt/stockage/packages/f31/grilo-plugins/po/ko.po | 
+ | [lt](/f31/language/lt) | 537 | 537 | 100.0 | /mnt/stockage/packages/f31/grilo-plugins/po/lt.po | 
+ | [lv](/f31/language/lv) | 537 | 537 | 100.0 | /mnt/stockage/packages/f31/grilo-plugins/po/lv.po | 
+ | [ms](/f31/language/ms) | 537 | 537 | 100.0 | /mnt/stockage/packages/f31/grilo-plugins/po/ms.po | 
+ | [nl](/f31/language/nl) | 537 | 537 | 100.0 | /mnt/stockage/packages/f31/grilo-plugins/po/nl.po | 
+ | [oc](/f31/language/oc) | 528 | 528 | 100.0 | /mnt/stockage/packages/f31/grilo-plugins/po/oc.po | 
+ | [pl](/f31/language/pl) | 1841 | 1841 | 100.0 | /mnt/stockage/packages/f31/grilo-plugins/help/pl/pl.po/mnt/stockage/packages/f31/grilo-plugins/po/pl.po | 
+ | [pt](/f31/language/pt) | 536 | 536 | 100.0 | /mnt/stockage/packages/f31/grilo-plugins/po/pt.po | 
+ | [pt_BR](/f31/language/pt_BR) | 1841 | 1841 | 100.0 | /mnt/stockage/packages/f31/grilo-plugins/help/pt_BR/pt_BR.po/mnt/stockage/packages/f31/grilo-plugins/po/pt_BR.po | 
+ | [ro](/f31/language/ro) | 537 | 537 | 100.0 | /mnt/stockage/packages/f31/grilo-plugins/po/ro.po | 
+ | [ru](/f31/language/ru) | 528 | 528 | 100.0 | /mnt/stockage/packages/f31/grilo-plugins/po/ru.po | 
+ | [sk](/f31/language/sk) | 537 | 537 | 100.0 | /mnt/stockage/packages/f31/grilo-plugins/po/sk.po | 
+ | [sl](/f31/language/sl) | 537 | 537 | 100.0 | /mnt/stockage/packages/f31/grilo-plugins/po/sl.po | 
+ | [sr](/f31/language/sr) | 1073 | 1073 | 100.0 | /mnt/stockage/packages/f31/grilo-plugins/po/sr@latin.po/mnt/stockage/packages/f31/grilo-plugins/po/sr.po | 
+ | [sv](/f31/language/sv) | 1841 | 1841 | 100.0 | /mnt/stockage/packages/f31/grilo-plugins/help/sv/sv.po/mnt/stockage/packages/f31/grilo-plugins/po/sv.po | 
+ | [tr](/f31/language/tr) | 537 | 537 | 100.0 | /mnt/stockage/packages/f31/grilo-plugins/po/tr.po | 
+ | [uk](/f31/language/uk) | 483 | 483 | 100.0 | /mnt/stockage/packages/f31/grilo-plugins/po/uk.po | 
+ | [zh_Hans](/f31/language/zh_Hans) | 536 | 536 | 100.0 | /mnt/stockage/packages/f31/grilo-plugins/po/zh_CN.po | 
+ | [zh_Hant](/f31/language/zh_Hant) | 537 | 537 | 100.0 | /mnt/stockage/packages/f31/grilo-plugins/po/zh_TW.po | 
+ | [zh_Hant_HK](/f31/language/zh_Hant_HK) | 533 | 533 | 100.0 | /mnt/stockage/packages/f31/grilo-plugins/po/zh_HK.po | 
+ | [nb_NO](/f31/language/nb_NO) | 467 | 536 | 87.1 | /mnt/stockage/packages/f31/grilo-plugins/po/nb.po | 
+ | [eo](/f31/language/eo) | 229 | 483 | 47.4 | /mnt/stockage/packages/f31/grilo-plugins/po/eo.po | 
+ | [fi](/f31/language/fi) | 99 | 537 | 18.4 | /mnt/stockage/packages/f31/grilo-plugins/po/fi.po | 
+ | [ne](/f31/language/ne) | 77 | 536 | 14.4 | /mnt/stockage/packages/f31/grilo-plugins/po/ne.po | 
+ | [ml](/f31/language/ml) | 51 | 483 | 10.6 | /mnt/stockage/packages/f31/grilo-plugins/po/ml.po | 
 {.sortable}
 
 

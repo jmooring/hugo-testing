@@ -38,15 +38,15 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [gcin]({{< ref "/f8/package/gcin.md" >}}) | 145 | 145 | 100.0 | LANGUAGE <LL@li.org> | 
- | [python-nevow]({{< ref "/f8/package/python-nevow.md" >}}) | 14 | 14 | 100.0 | LANGUAGE <LL@li.org> | 
- | [gjots2]({{< ref "/f8/package/gjots2.md" >}}) | 837 | 906 | 92.4 | <en@li.org> | 
- | [gcalctool]({{< ref "/f8/package/gcalctool.md" >}}) | 842 | 915 | 92.0 |  | 
- | [listen]({{< ref "/f8/package/listen.md" >}}) | 649 | 747 | 86.9 | English (United States) <en_US@li.org> | 
- | [gnubg]({{< ref "/f8/package/gnubg.md" >}}) | 11975 | 18673 | 64.1 | none | 
- | [gnomebaker]({{< ref "/f8/package/gnomebaker.md" >}}) | 271 | 1167 | 23.2 | English (United States) <en_US@li.org> | 
- | [PyXML]({{< ref "/f8/package/PyXML.md" >}}) | 0 | 115 | 0.0 | English <en@translate.freefriends.org> | 
- | [compiz]({{< ref "/f8/package/compiz.md" >}}) | 0 | 2357 | 0.0 | English <i18n@suse.de> | 
+ | [gcin](/f8/package/gcin) | 145 | 145 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [python-nevow](/f8/package/python-nevow) | 14 | 14 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [gjots2](/f8/package/gjots2) | 837 | 906 | 92.4 | <en@li.org> | 
+ | [gcalctool](/f8/package/gcalctool) | 842 | 915 | 92.0 |  | 
+ | [listen](/f8/package/listen) | 649 | 747 | 86.9 | English (United States) <en_US@li.org> | 
+ | [gnubg](/f8/package/gnubg) | 11975 | 18673 | 64.1 | none | 
+ | [gnomebaker](/f8/package/gnomebaker) | 271 | 1167 | 23.2 | English (United States) <en_US@li.org> | 
+ | [PyXML](/f8/package/PyXML) | 0 | 115 | 0.0 | English <en@translate.freefriends.org> | 
+ | [compiz](/f8/package/compiz) | 0 | 2357 | 0.0 | English <i18n@suse.de> | 
 {.sortable}
 
 

@@ -18,17 +18,17 @@ The package fetchmail (version 6.3.7):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f7/language/de.md" >}}) | 3931 | 3931 | 100.0 | /mnt/stockage/packages/f7/fetchmail/po/de.po | 
- | [ja]({{< ref "/f7/language/ja.md" >}}) | 3931 | 3931 | 100.0 | /mnt/stockage/packages/f7/fetchmail/po/ja.po | 
- | [pl]({{< ref "/f7/language/pl.md" >}}) | 3931 | 3931 | 100.0 | /mnt/stockage/packages/f7/fetchmail/po/pl.po | 
- | [en_GB]({{< ref "/f7/language/en_GB.md" >}}) | 3876 | 3931 | 98.6 | /mnt/stockage/packages/f7/fetchmail/po/en_GB.po | 
- | [fr]({{< ref "/f7/language/fr.md" >}}) | 3863 | 3931 | 98.3 | /mnt/stockage/packages/f7/fetchmail/po/fr.po | 
- | [vi]({{< ref "/f7/language/vi.md" >}}) | 3859 | 3931 | 98.2 | /mnt/stockage/packages/f7/fetchmail/po/vi.po | 
- | [ru]({{< ref "/f7/language/ru.md" >}}) | 3850 | 3931 | 97.9 | /mnt/stockage/packages/f7/fetchmail/po/ru.po | 
- | [es]({{< ref "/f7/language/es.md" >}}) | 3843 | 3931 | 97.8 | /mnt/stockage/packages/f7/fetchmail/po/es.po | 
- | [ca]({{< ref "/f7/language/ca.md" >}}) | 3807 | 3931 | 96.8 | /mnt/stockage/packages/f7/fetchmail/po/ca.po | 
- | [sq]({{< ref "/f7/language/sq.md" >}}) | 3452 | 3931 | 87.8 | /mnt/stockage/packages/f7/fetchmail/po/sq.po | 
- | [cs]({{< ref "/f7/language/cs.md" >}}) | 3259 | 3931 | 82.9 | /mnt/stockage/packages/f7/fetchmail/po/cs.po | 
+ | [de](/f7/language/de) | 3931 | 3931 | 100.0 | /mnt/stockage/packages/f7/fetchmail/po/de.po | 
+ | [ja](/f7/language/ja) | 3931 | 3931 | 100.0 | /mnt/stockage/packages/f7/fetchmail/po/ja.po | 
+ | [pl](/f7/language/pl) | 3931 | 3931 | 100.0 | /mnt/stockage/packages/f7/fetchmail/po/pl.po | 
+ | [en_GB](/f7/language/en_GB) | 3876 | 3931 | 98.6 | /mnt/stockage/packages/f7/fetchmail/po/en_GB.po | 
+ | [fr](/f7/language/fr) | 3863 | 3931 | 98.3 | /mnt/stockage/packages/f7/fetchmail/po/fr.po | 
+ | [vi](/f7/language/vi) | 3859 | 3931 | 98.2 | /mnt/stockage/packages/f7/fetchmail/po/vi.po | 
+ | [ru](/f7/language/ru) | 3850 | 3931 | 97.9 | /mnt/stockage/packages/f7/fetchmail/po/ru.po | 
+ | [es](/f7/language/es) | 3843 | 3931 | 97.8 | /mnt/stockage/packages/f7/fetchmail/po/es.po | 
+ | [ca](/f7/language/ca) | 3807 | 3931 | 96.8 | /mnt/stockage/packages/f7/fetchmail/po/ca.po | 
+ | [sq](/f7/language/sq) | 3452 | 3931 | 87.8 | /mnt/stockage/packages/f7/fetchmail/po/sq.po | 
+ | [cs](/f7/language/cs) | 3259 | 3931 | 82.9 | /mnt/stockage/packages/f7/fetchmail/po/cs.po | 
 {.sortable}
 
 

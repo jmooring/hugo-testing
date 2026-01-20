@@ -18,201 +18,201 @@ The package elementary-notifications (version 0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f32/language/ar.md" >}}) | 3 | 3 | 100.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/ar.po | 
- | [ca]({{< ref "/f32/language/ca.md" >}}) | 3 | 3 | 100.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/ca.po | 
- | [cs]({{< ref "/f32/language/cs.md" >}}) | 3 | 3 | 100.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/cs.po | 
- | [da]({{< ref "/f32/language/da.md" >}}) | 3 | 3 | 100.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/da.po | 
- | [de]({{< ref "/f32/language/de.md" >}}) | 3 | 3 | 100.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/de.po | 
- | [en_AU]({{< ref "/f32/language/en_AU.md" >}}) | 3 | 3 | 100.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/en_AU.po | 
- | [en_CA]({{< ref "/f32/language/en_CA.md" >}}) | 3 | 3 | 100.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/en_CA.po | 
- | [en_GB]({{< ref "/f32/language/en_GB.md" >}}) | 3 | 3 | 100.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/en_GB.po | 
- | [eo]({{< ref "/f32/language/eo.md" >}}) | 3 | 3 | 100.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/eo.po | 
- | [es]({{< ref "/f32/language/es.md" >}}) | 3 | 3 | 100.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/es.po | 
- | [fi]({{< ref "/f32/language/fi.md" >}}) | 3 | 3 | 100.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/fi.po | 
- | [fr]({{< ref "/f32/language/fr.md" >}}) | 3 | 3 | 100.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/fr.po | 
- | [gl]({{< ref "/f32/language/gl.md" >}}) | 3 | 3 | 100.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/gl.po | 
- | [he]({{< ref "/f32/language/he.md" >}}) | 3 | 3 | 100.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/he.po | 
- | [it]({{< ref "/f32/language/it.md" >}}) | 3 | 3 | 100.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/it.po | 
- | [ja]({{< ref "/f32/language/ja.md" >}}) | 3 | 3 | 100.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/ja.po | 
- | [ko]({{< ref "/f32/language/ko.md" >}}) | 3 | 3 | 100.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/ko.po | 
- | [mr]({{< ref "/f32/language/mr.md" >}}) | 3 | 3 | 100.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/mr.po | 
- | [nl]({{< ref "/f32/language/nl.md" >}}) | 3 | 3 | 100.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/nl.po | 
- | [nn]({{< ref "/f32/language/nn.md" >}}) | 3 | 3 | 100.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/nn.po | 
- | [oc]({{< ref "/f32/language/oc.md" >}}) | 3 | 3 | 100.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/oc.po | 
- | [pl]({{< ref "/f32/language/pl.md" >}}) | 3 | 3 | 100.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/pl.po | 
- | [pt]({{< ref "/f32/language/pt.md" >}}) | 3 | 3 | 100.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/pt.po | 
- | [pt_BR]({{< ref "/f32/language/pt_BR.md" >}}) | 3 | 3 | 100.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/pt_BR.po | 
- | [ru]({{< ref "/f32/language/ru.md" >}}) | 3 | 3 | 100.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/ru.po | 
- | [sl]({{< ref "/f32/language/sl.md" >}}) | 3 | 3 | 100.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/sl.po | 
- | [tr]({{< ref "/f32/language/tr.md" >}}) | 3 | 3 | 100.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/tr.po | 
- | [uk]({{< ref "/f32/language/uk.md" >}}) | 3 | 3 | 100.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/uk.po | 
- | [zh_Hant]({{< ref "/f32/language/zh_Hant.md" >}}) | 3 | 3 | 100.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/zh_TW.po | 
- | [bs]({{< ref "/f32/language/bs.md" >}}) | 2 | 3 | 66.7 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/bs.po | 
- | [el]({{< ref "/f32/language/el.md" >}}) | 2 | 3 | 66.7 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/el.po | 
- | [lt]({{< ref "/f32/language/lt.md" >}}) | 2 | 3 | 66.7 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/lt.po | 
- | [sv]({{< ref "/f32/language/sv.md" >}}) | 2 | 3 | 66.7 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/sv.po | 
- | [nb_NO]({{< ref "/f32/language/nb_NO.md" >}}) | 3 | 6 | 50.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/no.po/mnt/stockage/packages/f32/elementary-notifications/po/extra/nb.po | 
- | [zh_Hans]({{< ref "/f32/language/zh_Hans.md" >}}) | 3 | 6 | 50.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/zh_CN.po/mnt/stockage/packages/f32/elementary-notifications/po/extra/zh.po | 
- | [hu]({{< ref "/f32/language/hu.md" >}}) | 1 | 3 | 33.3 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/hu.po | 
- | [szl]({{< ref "/f32/language/szl.md" >}}) | 1 | 3 | 33.3 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/szl.po | 
- | [aa]({{< ref "/f32/language/aa.md" >}}) | 0 | 3 | 0.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/aa.po | 
- | [ab]({{< ref "/f32/language/ab.md" >}}) | 0 | 3 | 0.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/ab.po | 
- | [ae]({{< ref "/f32/language/ae.md" >}}) | 0 | 3 | 0.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/ae.po | 
- | [af]({{< ref "/f32/language/af.md" >}}) | 0 | 3 | 0.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/af.po | 
- | [ak]({{< ref "/f32/language/ak.md" >}}) | 0 | 3 | 0.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/ak.po | 
- | [am]({{< ref "/f32/language/am.md" >}}) | 0 | 3 | 0.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/am.po | 
- | [an]({{< ref "/f32/language/an.md" >}}) | 0 | 3 | 0.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/an.po | 
- | [as]({{< ref "/f32/language/as.md" >}}) | 0 | 3 | 0.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/as.po | 
- | [ast]({{< ref "/f32/language/ast.md" >}}) | 0 | 3 | 0.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/ast.po | 
- | [av]({{< ref "/f32/language/av.md" >}}) | 0 | 3 | 0.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/av.po | 
- | [ay]({{< ref "/f32/language/ay.md" >}}) | 0 | 3 | 0.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/ay.po | 
- | [az]({{< ref "/f32/language/az.md" >}}) | 0 | 3 | 0.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/az.po | 
- | [ba]({{< ref "/f32/language/ba.md" >}}) | 0 | 3 | 0.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/ba.po | 
- | [be]({{< ref "/f32/language/be.md" >}}) | 0 | 3 | 0.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/be.po | 
- | [bg]({{< ref "/f32/language/bg.md" >}}) | 0 | 3 | 0.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/bg.po | 
- | [bh]({{< ref "/f32/language/bh.md" >}}) | 0 | 3 | 0.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/bh.po | 
- | [bi]({{< ref "/f32/language/bi.md" >}}) | 0 | 3 | 0.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/bi.po | 
- | [bm]({{< ref "/f32/language/bm.md" >}}) | 0 | 3 | 0.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/bm.po | 
- | [bn]({{< ref "/f32/language/bn.md" >}}) | 0 | 3 | 0.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/bn.po | 
- | [bo]({{< ref "/f32/language/bo.md" >}}) | 0 | 3 | 0.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/bo.po | 
- | [br]({{< ref "/f32/language/br.md" >}}) | 0 | 3 | 0.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/br.po | 
- | [ce]({{< ref "/f32/language/ce.md" >}}) | 0 | 3 | 0.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/ce.po | 
- | [ch]({{< ref "/f32/language/ch.md" >}}) | 0 | 3 | 0.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/ch.po | 
- | [ckb]({{< ref "/f32/language/ckb.md" >}}) | 0 | 3 | 0.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/ckb.po | 
- | [co]({{< ref "/f32/language/co.md" >}}) | 0 | 3 | 0.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/co.po | 
- | [cr]({{< ref "/f32/language/cr.md" >}}) | 0 | 3 | 0.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/cr.po | 
- | [cu]({{< ref "/f32/language/cu.md" >}}) | 0 | 3 | 0.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/cu.po | 
- | [cv]({{< ref "/f32/language/cv.md" >}}) | 0 | 3 | 0.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/cv.po | 
- | [cy]({{< ref "/f32/language/cy.md" >}}) | 0 | 3 | 0.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/cy.po | 
- | [dv]({{< ref "/f32/language/dv.md" >}}) | 0 | 3 | 0.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/dv.po | 
- | [dz]({{< ref "/f32/language/dz.md" >}}) | 0 | 3 | 0.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/dz.po | 
- | [ee]({{< ref "/f32/language/ee.md" >}}) | 0 | 3 | 0.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/ee.po | 
- | [et]({{< ref "/f32/language/et.md" >}}) | 0 | 3 | 0.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/et.po | 
- | [eu]({{< ref "/f32/language/eu.md" >}}) | 0 | 3 | 0.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/eu.po | 
- | [fa]({{< ref "/f32/language/fa.md" >}}) | 0 | 3 | 0.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/fa.po | 
- | [ff]({{< ref "/f32/language/ff.md" >}}) | 0 | 3 | 0.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/ff.po | 
- | [fj]({{< ref "/f32/language/fj.md" >}}) | 0 | 3 | 0.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/fj.po | 
- | [fo]({{< ref "/f32/language/fo.md" >}}) | 0 | 3 | 0.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/fo.po | 
- | [fr_CA]({{< ref "/f32/language/fr_CA.md" >}}) | 0 | 3 | 0.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/fr_CA.po | 
- | [fy]({{< ref "/f32/language/fy.md" >}}) | 0 | 3 | 0.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/fy.po | 
- | [ga]({{< ref "/f32/language/ga.md" >}}) | 0 | 3 | 0.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/ga.po | 
- | [gd]({{< ref "/f32/language/gd.md" >}}) | 0 | 3 | 0.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/gd.po | 
- | [gn]({{< ref "/f32/language/gn.md" >}}) | 0 | 3 | 0.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/gn.po | 
- | [gu]({{< ref "/f32/language/gu.md" >}}) | 0 | 3 | 0.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/gu.po | 
- | [gv]({{< ref "/f32/language/gv.md" >}}) | 0 | 3 | 0.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/gv.po | 
- | [ha]({{< ref "/f32/language/ha.md" >}}) | 0 | 3 | 0.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/ha.po | 
- | [hi]({{< ref "/f32/language/hi.md" >}}) | 0 | 3 | 0.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/hi.po | 
- | [ho]({{< ref "/f32/language/ho.md" >}}) | 0 | 3 | 0.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/ho.po | 
- | [hr]({{< ref "/f32/language/hr.md" >}}) | 0 | 3 | 0.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/hr.po | 
- | [ht]({{< ref "/f32/language/ht.md" >}}) | 0 | 3 | 0.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/ht.po | 
- | [hy]({{< ref "/f32/language/hy.md" >}}) | 0 | 3 | 0.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/hy.po | 
- | [hz]({{< ref "/f32/language/hz.md" >}}) | 0 | 3 | 0.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/hz.po | 
- | [ia]({{< ref "/f32/language/ia.md" >}}) | 0 | 3 | 0.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/ia.po | 
- | [id]({{< ref "/f32/language/id.md" >}}) | 0 | 3 | 0.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/id.po | 
- | [ie]({{< ref "/f32/language/ie.md" >}}) | 0 | 3 | 0.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/ie.po | 
- | [ig]({{< ref "/f32/language/ig.md" >}}) | 0 | 3 | 0.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/ig.po | 
- | [ii]({{< ref "/f32/language/ii.md" >}}) | 0 | 3 | 0.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/ii.po | 
- | [ik]({{< ref "/f32/language/ik.md" >}}) | 0 | 3 | 0.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/ik.po | 
- | [io]({{< ref "/f32/language/io.md" >}}) | 0 | 3 | 0.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/io.po | 
- | [is]({{< ref "/f32/language/is.md" >}}) | 0 | 3 | 0.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/is.po | 
- | [iu]({{< ref "/f32/language/iu.md" >}}) | 0 | 3 | 0.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/iu.po | 
- | [jv]({{< ref "/f32/language/jv.md" >}}) | 0 | 3 | 0.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/jv.po | 
- | [ka]({{< ref "/f32/language/ka.md" >}}) | 0 | 3 | 0.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/ka.po | 
- | [kg]({{< ref "/f32/language/kg.md" >}}) | 0 | 3 | 0.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/kg.po | 
- | [ki]({{< ref "/f32/language/ki.md" >}}) | 0 | 3 | 0.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/ki.po | 
- | [kj]({{< ref "/f32/language/kj.md" >}}) | 0 | 3 | 0.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/kj.po | 
- | [kk]({{< ref "/f32/language/kk.md" >}}) | 0 | 3 | 0.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/kk.po | 
- | [kl]({{< ref "/f32/language/kl.md" >}}) | 0 | 3 | 0.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/kl.po | 
- | [km]({{< ref "/f32/language/km.md" >}}) | 0 | 3 | 0.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/km.po | 
- | [kn]({{< ref "/f32/language/kn.md" >}}) | 0 | 3 | 0.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/kn.po | 
- | [kr]({{< ref "/f32/language/kr.md" >}}) | 0 | 3 | 0.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/kr.po | 
- | [ks]({{< ref "/f32/language/ks.md" >}}) | 0 | 3 | 0.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/ks.po | 
- | [ku]({{< ref "/f32/language/ku.md" >}}) | 0 | 3 | 0.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/ku.po | 
- | [kv]({{< ref "/f32/language/kv.md" >}}) | 0 | 3 | 0.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/kv.po | 
- | [kw]({{< ref "/f32/language/kw.md" >}}) | 0 | 3 | 0.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/kw.po | 
- | [ky]({{< ref "/f32/language/ky.md" >}}) | 0 | 3 | 0.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/ky.po | 
- | [la]({{< ref "/f32/language/la.md" >}}) | 0 | 3 | 0.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/la.po | 
- | [lb]({{< ref "/f32/language/lb.md" >}}) | 0 | 3 | 0.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/lb.po | 
- | [lg]({{< ref "/f32/language/lg.md" >}}) | 0 | 3 | 0.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/lg.po | 
- | [li]({{< ref "/f32/language/li.md" >}}) | 0 | 3 | 0.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/li.po | 
- | [ln]({{< ref "/f32/language/ln.md" >}}) | 0 | 3 | 0.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/ln.po | 
- | [lo]({{< ref "/f32/language/lo.md" >}}) | 0 | 3 | 0.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/lo.po | 
- | [lu]({{< ref "/f32/language/lu.md" >}}) | 0 | 3 | 0.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/lu.po | 
- | [lv]({{< ref "/f32/language/lv.md" >}}) | 0 | 3 | 0.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/lv.po | 
- | [mg]({{< ref "/f32/language/mg.md" >}}) | 0 | 3 | 0.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/mg.po | 
- | [mh]({{< ref "/f32/language/mh.md" >}}) | 0 | 3 | 0.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/mh.po | 
- | [mi]({{< ref "/f32/language/mi.md" >}}) | 0 | 3 | 0.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/mi.po | 
- | [mk]({{< ref "/f32/language/mk.md" >}}) | 0 | 3 | 0.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/mk.po | 
- | [ml]({{< ref "/f32/language/ml.md" >}}) | 0 | 3 | 0.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/ml.po | 
- | [mn]({{< ref "/f32/language/mn.md" >}}) | 0 | 3 | 0.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/mn.po | 
- | [ms]({{< ref "/f32/language/ms.md" >}}) | 0 | 3 | 0.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/ms.po | 
- | [mt]({{< ref "/f32/language/mt.md" >}}) | 0 | 3 | 0.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/mt.po | 
- | [my]({{< ref "/f32/language/my.md" >}}) | 0 | 3 | 0.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/my.po | 
- | [na]({{< ref "/f32/language/na.md" >}}) | 0 | 3 | 0.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/na.po | 
- | [nd]({{< ref "/f32/language/nd.md" >}}) | 0 | 3 | 0.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/nd.po | 
- | [ne]({{< ref "/f32/language/ne.md" >}}) | 0 | 3 | 0.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/ne.po | 
- | [ng]({{< ref "/f32/language/ng.md" >}}) | 0 | 3 | 0.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/ng.po | 
- | [nr]({{< ref "/f32/language/nr.md" >}}) | 0 | 3 | 0.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/nr.po | 
- | [nv]({{< ref "/f32/language/nv.md" >}}) | 0 | 3 | 0.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/nv.po | 
- | [ny]({{< ref "/f32/language/ny.md" >}}) | 0 | 3 | 0.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/ny.po | 
- | [oj]({{< ref "/f32/language/oj.md" >}}) | 0 | 3 | 0.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/oj.po | 
- | [om]({{< ref "/f32/language/om.md" >}}) | 0 | 3 | 0.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/om.po | 
- | [or]({{< ref "/f32/language/or.md" >}}) | 0 | 3 | 0.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/or.po | 
- | [os]({{< ref "/f32/language/os.md" >}}) | 0 | 3 | 0.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/os.po | 
- | [pa]({{< ref "/f32/language/pa.md" >}}) | 0 | 3 | 0.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/pa.po | 
- | [pi]({{< ref "/f32/language/pi.md" >}}) | 0 | 3 | 0.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/pi.po | 
- | [ps]({{< ref "/f32/language/ps.md" >}}) | 0 | 3 | 0.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/ps.po | 
- | [qu]({{< ref "/f32/language/qu.md" >}}) | 0 | 3 | 0.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/qu.po | 
- | [rm]({{< ref "/f32/language/rm.md" >}}) | 0 | 3 | 0.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/rm.po | 
- | [rn]({{< ref "/f32/language/rn.md" >}}) | 0 | 3 | 0.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/rn.po | 
- | [ro]({{< ref "/f32/language/ro.md" >}}) | 0 | 3 | 0.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/ro.po | 
- | [ro_MD]({{< ref "/f32/language/ro_MD.md" >}}) | 0 | 3 | 0.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/mo.po | 
- | [rue]({{< ref "/f32/language/rue.md" >}}) | 0 | 3 | 0.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/rue.po | 
- | [rw]({{< ref "/f32/language/rw.md" >}}) | 0 | 3 | 0.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/rw.po | 
- | [sa]({{< ref "/f32/language/sa.md" >}}) | 0 | 3 | 0.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/sa.po | 
- | [sc]({{< ref "/f32/language/sc.md" >}}) | 0 | 3 | 0.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/sc.po | 
- | [sd]({{< ref "/f32/language/sd.md" >}}) | 0 | 3 | 0.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/sd.po | 
- | [se]({{< ref "/f32/language/se.md" >}}) | 0 | 3 | 0.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/se.po | 
- | [sg]({{< ref "/f32/language/sg.md" >}}) | 0 | 3 | 0.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/sg.po | 
- | [si]({{< ref "/f32/language/si.md" >}}) | 0 | 3 | 0.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/si.po | 
- | [sk]({{< ref "/f32/language/sk.md" >}}) | 0 | 3 | 0.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/sk.po | 
- | [sm]({{< ref "/f32/language/sm.md" >}}) | 0 | 3 | 0.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/sm.po | 
- | [sma]({{< ref "/f32/language/sma.md" >}}) | 0 | 3 | 0.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/sma.po | 
- | [sn]({{< ref "/f32/language/sn.md" >}}) | 0 | 3 | 0.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/sn.po | 
- | [so]({{< ref "/f32/language/so.md" >}}) | 0 | 3 | 0.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/so.po | 
- | [sq]({{< ref "/f32/language/sq.md" >}}) | 0 | 3 | 0.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/sq.po | 
- | [sr]({{< ref "/f32/language/sr.md" >}}) | 0 | 3 | 0.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/sr.po | 
- | [ss]({{< ref "/f32/language/ss.md" >}}) | 0 | 3 | 0.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/ss.po | 
- | [st]({{< ref "/f32/language/st.md" >}}) | 0 | 3 | 0.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/st.po | 
- | [su]({{< ref "/f32/language/su.md" >}}) | 0 | 3 | 0.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/su.po | 
- | [sw]({{< ref "/f32/language/sw.md" >}}) | 0 | 3 | 0.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/sw.po | 
- | [ta]({{< ref "/f32/language/ta.md" >}}) | 0 | 3 | 0.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/ta.po | 
- | [te]({{< ref "/f32/language/te.md" >}}) | 0 | 3 | 0.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/te.po | 
- | [tg]({{< ref "/f32/language/tg.md" >}}) | 0 | 3 | 0.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/tg.po | 
- | [th]({{< ref "/f32/language/th.md" >}}) | 0 | 3 | 0.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/th.po | 
- | [ti]({{< ref "/f32/language/ti.md" >}}) | 0 | 3 | 0.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/ti.po | 
- | [tk]({{< ref "/f32/language/tk.md" >}}) | 0 | 3 | 0.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/tk.po | 
- | [tl]({{< ref "/f32/language/tl.md" >}}) | 0 | 3 | 0.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/tl.po | 
- | [tn]({{< ref "/f32/language/tn.md" >}}) | 0 | 3 | 0.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/tn.po | 
- | [to]({{< ref "/f32/language/to.md" >}}) | 0 | 3 | 0.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/to.po | 
- | [ts]({{< ref "/f32/language/ts.md" >}}) | 0 | 3 | 0.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/ts.po | 
- | [tt]({{< ref "/f32/language/tt.md" >}}) | 0 | 3 | 0.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/tt.po | 
- | [tw]({{< ref "/f32/language/tw.md" >}}) | 0 | 3 | 0.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/tw.po | 
- | [ty]({{< ref "/f32/language/ty.md" >}}) | 0 | 3 | 0.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/ty.po | 
- | [ug]({{< ref "/f32/language/ug.md" >}}) | 0 | 3 | 0.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/ug.po | 
- | [ur]({{< ref "/f32/language/ur.md" >}}) | 0 | 3 | 0.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/ur.po | 
- | [uz]({{< ref "/f32/language/uz.md" >}}) | 0 | 3 | 0.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/uz.po | 
- | [ve]({{< ref "/f32/language/ve.md" >}}) | 0 | 3 | 0.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/ve.po | 
- | [vi]({{< ref "/f32/language/vi.md" >}}) | 0 | 3 | 0.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/vi.po | 
- | [vo]({{< ref "/f32/language/vo.md" >}}) | 0 | 3 | 0.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/vo.po | 
- | [wa]({{< ref "/f32/language/wa.md" >}}) | 0 | 3 | 0.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/wa.po | 
- | [wo]({{< ref "/f32/language/wo.md" >}}) | 0 | 3 | 0.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/wo.po | 
- | [xh]({{< ref "/f32/language/xh.md" >}}) | 0 | 3 | 0.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/xh.po | 
- | [yi]({{< ref "/f32/language/yi.md" >}}) | 0 | 3 | 0.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/yi.po | 
- | [yo]({{< ref "/f32/language/yo.md" >}}) | 0 | 3 | 0.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/yo.po | 
- | [za]({{< ref "/f32/language/za.md" >}}) | 0 | 3 | 0.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/za.po | 
- | [zh_Hant_HK]({{< ref "/f32/language/zh_Hant_HK.md" >}}) | 0 | 3 | 0.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/zh_HK.po | 
- | [zu]({{< ref "/f32/language/zu.md" >}}) | 0 | 3 | 0.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/zu.po | 
+ | [ar](/f32/language/ar) | 3 | 3 | 100.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/ar.po | 
+ | [ca](/f32/language/ca) | 3 | 3 | 100.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/ca.po | 
+ | [cs](/f32/language/cs) | 3 | 3 | 100.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/cs.po | 
+ | [da](/f32/language/da) | 3 | 3 | 100.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/da.po | 
+ | [de](/f32/language/de) | 3 | 3 | 100.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/de.po | 
+ | [en_AU](/f32/language/en_AU) | 3 | 3 | 100.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/en_AU.po | 
+ | [en_CA](/f32/language/en_CA) | 3 | 3 | 100.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/en_CA.po | 
+ | [en_GB](/f32/language/en_GB) | 3 | 3 | 100.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/en_GB.po | 
+ | [eo](/f32/language/eo) | 3 | 3 | 100.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/eo.po | 
+ | [es](/f32/language/es) | 3 | 3 | 100.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/es.po | 
+ | [fi](/f32/language/fi) | 3 | 3 | 100.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/fi.po | 
+ | [fr](/f32/language/fr) | 3 | 3 | 100.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/fr.po | 
+ | [gl](/f32/language/gl) | 3 | 3 | 100.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/gl.po | 
+ | [he](/f32/language/he) | 3 | 3 | 100.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/he.po | 
+ | [it](/f32/language/it) | 3 | 3 | 100.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/it.po | 
+ | [ja](/f32/language/ja) | 3 | 3 | 100.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/ja.po | 
+ | [ko](/f32/language/ko) | 3 | 3 | 100.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/ko.po | 
+ | [mr](/f32/language/mr) | 3 | 3 | 100.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/mr.po | 
+ | [nl](/f32/language/nl) | 3 | 3 | 100.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/nl.po | 
+ | [nn](/f32/language/nn) | 3 | 3 | 100.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/nn.po | 
+ | [oc](/f32/language/oc) | 3 | 3 | 100.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/oc.po | 
+ | [pl](/f32/language/pl) | 3 | 3 | 100.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/pl.po | 
+ | [pt](/f32/language/pt) | 3 | 3 | 100.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/pt.po | 
+ | [pt_BR](/f32/language/pt_BR) | 3 | 3 | 100.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/pt_BR.po | 
+ | [ru](/f32/language/ru) | 3 | 3 | 100.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/ru.po | 
+ | [sl](/f32/language/sl) | 3 | 3 | 100.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/sl.po | 
+ | [tr](/f32/language/tr) | 3 | 3 | 100.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/tr.po | 
+ | [uk](/f32/language/uk) | 3 | 3 | 100.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/uk.po | 
+ | [zh_Hant](/f32/language/zh_Hant) | 3 | 3 | 100.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/zh_TW.po | 
+ | [bs](/f32/language/bs) | 2 | 3 | 66.7 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/bs.po | 
+ | [el](/f32/language/el) | 2 | 3 | 66.7 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/el.po | 
+ | [lt](/f32/language/lt) | 2 | 3 | 66.7 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/lt.po | 
+ | [sv](/f32/language/sv) | 2 | 3 | 66.7 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/sv.po | 
+ | [nb_NO](/f32/language/nb_NO) | 3 | 6 | 50.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/no.po/mnt/stockage/packages/f32/elementary-notifications/po/extra/nb.po | 
+ | [zh_Hans](/f32/language/zh_Hans) | 3 | 6 | 50.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/zh_CN.po/mnt/stockage/packages/f32/elementary-notifications/po/extra/zh.po | 
+ | [hu](/f32/language/hu) | 1 | 3 | 33.3 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/hu.po | 
+ | [szl](/f32/language/szl) | 1 | 3 | 33.3 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/szl.po | 
+ | [aa](/f32/language/aa) | 0 | 3 | 0.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/aa.po | 
+ | [ab](/f32/language/ab) | 0 | 3 | 0.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/ab.po | 
+ | [ae](/f32/language/ae) | 0 | 3 | 0.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/ae.po | 
+ | [af](/f32/language/af) | 0 | 3 | 0.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/af.po | 
+ | [ak](/f32/language/ak) | 0 | 3 | 0.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/ak.po | 
+ | [am](/f32/language/am) | 0 | 3 | 0.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/am.po | 
+ | [an](/f32/language/an) | 0 | 3 | 0.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/an.po | 
+ | [as](/f32/language/as) | 0 | 3 | 0.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/as.po | 
+ | [ast](/f32/language/ast) | 0 | 3 | 0.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/ast.po | 
+ | [av](/f32/language/av) | 0 | 3 | 0.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/av.po | 
+ | [ay](/f32/language/ay) | 0 | 3 | 0.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/ay.po | 
+ | [az](/f32/language/az) | 0 | 3 | 0.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/az.po | 
+ | [ba](/f32/language/ba) | 0 | 3 | 0.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/ba.po | 
+ | [be](/f32/language/be) | 0 | 3 | 0.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/be.po | 
+ | [bg](/f32/language/bg) | 0 | 3 | 0.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/bg.po | 
+ | [bh](/f32/language/bh) | 0 | 3 | 0.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/bh.po | 
+ | [bi](/f32/language/bi) | 0 | 3 | 0.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/bi.po | 
+ | [bm](/f32/language/bm) | 0 | 3 | 0.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/bm.po | 
+ | [bn](/f32/language/bn) | 0 | 3 | 0.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/bn.po | 
+ | [bo](/f32/language/bo) | 0 | 3 | 0.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/bo.po | 
+ | [br](/f32/language/br) | 0 | 3 | 0.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/br.po | 
+ | [ce](/f32/language/ce) | 0 | 3 | 0.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/ce.po | 
+ | [ch](/f32/language/ch) | 0 | 3 | 0.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/ch.po | 
+ | [ckb](/f32/language/ckb) | 0 | 3 | 0.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/ckb.po | 
+ | [co](/f32/language/co) | 0 | 3 | 0.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/co.po | 
+ | [cr](/f32/language/cr) | 0 | 3 | 0.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/cr.po | 
+ | [cu](/f32/language/cu) | 0 | 3 | 0.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/cu.po | 
+ | [cv](/f32/language/cv) | 0 | 3 | 0.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/cv.po | 
+ | [cy](/f32/language/cy) | 0 | 3 | 0.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/cy.po | 
+ | [dv](/f32/language/dv) | 0 | 3 | 0.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/dv.po | 
+ | [dz](/f32/language/dz) | 0 | 3 | 0.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/dz.po | 
+ | [ee](/f32/language/ee) | 0 | 3 | 0.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/ee.po | 
+ | [et](/f32/language/et) | 0 | 3 | 0.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/et.po | 
+ | [eu](/f32/language/eu) | 0 | 3 | 0.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/eu.po | 
+ | [fa](/f32/language/fa) | 0 | 3 | 0.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/fa.po | 
+ | [ff](/f32/language/ff) | 0 | 3 | 0.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/ff.po | 
+ | [fj](/f32/language/fj) | 0 | 3 | 0.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/fj.po | 
+ | [fo](/f32/language/fo) | 0 | 3 | 0.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/fo.po | 
+ | [fr_CA](/f32/language/fr_CA) | 0 | 3 | 0.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/fr_CA.po | 
+ | [fy](/f32/language/fy) | 0 | 3 | 0.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/fy.po | 
+ | [ga](/f32/language/ga) | 0 | 3 | 0.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/ga.po | 
+ | [gd](/f32/language/gd) | 0 | 3 | 0.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/gd.po | 
+ | [gn](/f32/language/gn) | 0 | 3 | 0.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/gn.po | 
+ | [gu](/f32/language/gu) | 0 | 3 | 0.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/gu.po | 
+ | [gv](/f32/language/gv) | 0 | 3 | 0.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/gv.po | 
+ | [ha](/f32/language/ha) | 0 | 3 | 0.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/ha.po | 
+ | [hi](/f32/language/hi) | 0 | 3 | 0.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/hi.po | 
+ | [ho](/f32/language/ho) | 0 | 3 | 0.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/ho.po | 
+ | [hr](/f32/language/hr) | 0 | 3 | 0.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/hr.po | 
+ | [ht](/f32/language/ht) | 0 | 3 | 0.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/ht.po | 
+ | [hy](/f32/language/hy) | 0 | 3 | 0.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/hy.po | 
+ | [hz](/f32/language/hz) | 0 | 3 | 0.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/hz.po | 
+ | [ia](/f32/language/ia) | 0 | 3 | 0.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/ia.po | 
+ | [id](/f32/language/id) | 0 | 3 | 0.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/id.po | 
+ | [ie](/f32/language/ie) | 0 | 3 | 0.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/ie.po | 
+ | [ig](/f32/language/ig) | 0 | 3 | 0.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/ig.po | 
+ | [ii](/f32/language/ii) | 0 | 3 | 0.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/ii.po | 
+ | [ik](/f32/language/ik) | 0 | 3 | 0.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/ik.po | 
+ | [io](/f32/language/io) | 0 | 3 | 0.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/io.po | 
+ | [is](/f32/language/is) | 0 | 3 | 0.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/is.po | 
+ | [iu](/f32/language/iu) | 0 | 3 | 0.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/iu.po | 
+ | [jv](/f32/language/jv) | 0 | 3 | 0.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/jv.po | 
+ | [ka](/f32/language/ka) | 0 | 3 | 0.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/ka.po | 
+ | [kg](/f32/language/kg) | 0 | 3 | 0.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/kg.po | 
+ | [ki](/f32/language/ki) | 0 | 3 | 0.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/ki.po | 
+ | [kj](/f32/language/kj) | 0 | 3 | 0.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/kj.po | 
+ | [kk](/f32/language/kk) | 0 | 3 | 0.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/kk.po | 
+ | [kl](/f32/language/kl) | 0 | 3 | 0.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/kl.po | 
+ | [km](/f32/language/km) | 0 | 3 | 0.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/km.po | 
+ | [kn](/f32/language/kn) | 0 | 3 | 0.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/kn.po | 
+ | [kr](/f32/language/kr) | 0 | 3 | 0.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/kr.po | 
+ | [ks](/f32/language/ks) | 0 | 3 | 0.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/ks.po | 
+ | [ku](/f32/language/ku) | 0 | 3 | 0.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/ku.po | 
+ | [kv](/f32/language/kv) | 0 | 3 | 0.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/kv.po | 
+ | [kw](/f32/language/kw) | 0 | 3 | 0.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/kw.po | 
+ | [ky](/f32/language/ky) | 0 | 3 | 0.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/ky.po | 
+ | [la](/f32/language/la) | 0 | 3 | 0.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/la.po | 
+ | [lb](/f32/language/lb) | 0 | 3 | 0.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/lb.po | 
+ | [lg](/f32/language/lg) | 0 | 3 | 0.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/lg.po | 
+ | [li](/f32/language/li) | 0 | 3 | 0.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/li.po | 
+ | [ln](/f32/language/ln) | 0 | 3 | 0.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/ln.po | 
+ | [lo](/f32/language/lo) | 0 | 3 | 0.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/lo.po | 
+ | [lu](/f32/language/lu) | 0 | 3 | 0.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/lu.po | 
+ | [lv](/f32/language/lv) | 0 | 3 | 0.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/lv.po | 
+ | [mg](/f32/language/mg) | 0 | 3 | 0.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/mg.po | 
+ | [mh](/f32/language/mh) | 0 | 3 | 0.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/mh.po | 
+ | [mi](/f32/language/mi) | 0 | 3 | 0.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/mi.po | 
+ | [mk](/f32/language/mk) | 0 | 3 | 0.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/mk.po | 
+ | [ml](/f32/language/ml) | 0 | 3 | 0.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/ml.po | 
+ | [mn](/f32/language/mn) | 0 | 3 | 0.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/mn.po | 
+ | [ms](/f32/language/ms) | 0 | 3 | 0.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/ms.po | 
+ | [mt](/f32/language/mt) | 0 | 3 | 0.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/mt.po | 
+ | [my](/f32/language/my) | 0 | 3 | 0.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/my.po | 
+ | [na](/f32/language/na) | 0 | 3 | 0.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/na.po | 
+ | [nd](/f32/language/nd) | 0 | 3 | 0.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/nd.po | 
+ | [ne](/f32/language/ne) | 0 | 3 | 0.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/ne.po | 
+ | [ng](/f32/language/ng) | 0 | 3 | 0.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/ng.po | 
+ | [nr](/f32/language/nr) | 0 | 3 | 0.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/nr.po | 
+ | [nv](/f32/language/nv) | 0 | 3 | 0.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/nv.po | 
+ | [ny](/f32/language/ny) | 0 | 3 | 0.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/ny.po | 
+ | [oj](/f32/language/oj) | 0 | 3 | 0.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/oj.po | 
+ | [om](/f32/language/om) | 0 | 3 | 0.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/om.po | 
+ | [or](/f32/language/or) | 0 | 3 | 0.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/or.po | 
+ | [os](/f32/language/os) | 0 | 3 | 0.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/os.po | 
+ | [pa](/f32/language/pa) | 0 | 3 | 0.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/pa.po | 
+ | [pi](/f32/language/pi) | 0 | 3 | 0.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/pi.po | 
+ | [ps](/f32/language/ps) | 0 | 3 | 0.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/ps.po | 
+ | [qu](/f32/language/qu) | 0 | 3 | 0.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/qu.po | 
+ | [rm](/f32/language/rm) | 0 | 3 | 0.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/rm.po | 
+ | [rn](/f32/language/rn) | 0 | 3 | 0.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/rn.po | 
+ | [ro](/f32/language/ro) | 0 | 3 | 0.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/ro.po | 
+ | [ro_MD](/f32/language/ro_MD) | 0 | 3 | 0.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/mo.po | 
+ | [rue](/f32/language/rue) | 0 | 3 | 0.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/rue.po | 
+ | [rw](/f32/language/rw) | 0 | 3 | 0.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/rw.po | 
+ | [sa](/f32/language/sa) | 0 | 3 | 0.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/sa.po | 
+ | [sc](/f32/language/sc) | 0 | 3 | 0.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/sc.po | 
+ | [sd](/f32/language/sd) | 0 | 3 | 0.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/sd.po | 
+ | [se](/f32/language/se) | 0 | 3 | 0.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/se.po | 
+ | [sg](/f32/language/sg) | 0 | 3 | 0.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/sg.po | 
+ | [si](/f32/language/si) | 0 | 3 | 0.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/si.po | 
+ | [sk](/f32/language/sk) | 0 | 3 | 0.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/sk.po | 
+ | [sm](/f32/language/sm) | 0 | 3 | 0.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/sm.po | 
+ | [sma](/f32/language/sma) | 0 | 3 | 0.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/sma.po | 
+ | [sn](/f32/language/sn) | 0 | 3 | 0.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/sn.po | 
+ | [so](/f32/language/so) | 0 | 3 | 0.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/so.po | 
+ | [sq](/f32/language/sq) | 0 | 3 | 0.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/sq.po | 
+ | [sr](/f32/language/sr) | 0 | 3 | 0.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/sr.po | 
+ | [ss](/f32/language/ss) | 0 | 3 | 0.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/ss.po | 
+ | [st](/f32/language/st) | 0 | 3 | 0.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/st.po | 
+ | [su](/f32/language/su) | 0 | 3 | 0.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/su.po | 
+ | [sw](/f32/language/sw) | 0 | 3 | 0.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/sw.po | 
+ | [ta](/f32/language/ta) | 0 | 3 | 0.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/ta.po | 
+ | [te](/f32/language/te) | 0 | 3 | 0.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/te.po | 
+ | [tg](/f32/language/tg) | 0 | 3 | 0.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/tg.po | 
+ | [th](/f32/language/th) | 0 | 3 | 0.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/th.po | 
+ | [ti](/f32/language/ti) | 0 | 3 | 0.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/ti.po | 
+ | [tk](/f32/language/tk) | 0 | 3 | 0.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/tk.po | 
+ | [tl](/f32/language/tl) | 0 | 3 | 0.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/tl.po | 
+ | [tn](/f32/language/tn) | 0 | 3 | 0.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/tn.po | 
+ | [to](/f32/language/to) | 0 | 3 | 0.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/to.po | 
+ | [ts](/f32/language/ts) | 0 | 3 | 0.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/ts.po | 
+ | [tt](/f32/language/tt) | 0 | 3 | 0.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/tt.po | 
+ | [tw](/f32/language/tw) | 0 | 3 | 0.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/tw.po | 
+ | [ty](/f32/language/ty) | 0 | 3 | 0.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/ty.po | 
+ | [ug](/f32/language/ug) | 0 | 3 | 0.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/ug.po | 
+ | [ur](/f32/language/ur) | 0 | 3 | 0.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/ur.po | 
+ | [uz](/f32/language/uz) | 0 | 3 | 0.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/uz.po | 
+ | [ve](/f32/language/ve) | 0 | 3 | 0.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/ve.po | 
+ | [vi](/f32/language/vi) | 0 | 3 | 0.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/vi.po | 
+ | [vo](/f32/language/vo) | 0 | 3 | 0.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/vo.po | 
+ | [wa](/f32/language/wa) | 0 | 3 | 0.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/wa.po | 
+ | [wo](/f32/language/wo) | 0 | 3 | 0.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/wo.po | 
+ | [xh](/f32/language/xh) | 0 | 3 | 0.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/xh.po | 
+ | [yi](/f32/language/yi) | 0 | 3 | 0.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/yi.po | 
+ | [yo](/f32/language/yo) | 0 | 3 | 0.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/yo.po | 
+ | [za](/f32/language/za) | 0 | 3 | 0.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/za.po | 
+ | [zh_Hant_HK](/f32/language/zh_Hant_HK) | 0 | 3 | 0.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/zh_HK.po | 
+ | [zu](/f32/language/zu) | 0 | 3 | 0.0 | /mnt/stockage/packages/f32/elementary-notifications/po/extra/zu.po | 
 {.sortable}
 
 

@@ -18,28 +18,28 @@ The package picard (version 0.9.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [nl]({{< ref "/f7/language/nl.md" >}}) | 561 | 633 | 88.6 | /mnt/stockage/packages/f7/picard/po/nl.po | 
- | [pl]({{< ref "/f7/language/pl.md" >}}) | 131 | 633 | 20.7 | /mnt/stockage/packages/f7/picard/po/pl.po | 
- | [de]({{< ref "/f7/language/de.md" >}}) | 49 | 633 | 7.7 | /mnt/stockage/packages/f7/picard/po/de.po | 
- | [nb_NO]({{< ref "/f7/language/nb_NO.md" >}}) | 49 | 633 | 7.7 | /mnt/stockage/packages/f7/picard/po/nb.po | 
- | [en_GB]({{< ref "/f7/language/en_GB.md" >}}) | 48 | 633 | 7.6 | /mnt/stockage/packages/f7/picard/po/en_GB.po | 
- | [es]({{< ref "/f7/language/es.md" >}}) | 47 | 633 | 7.4 | /mnt/stockage/packages/f7/picard/po/es.po | 
- | [fi]({{< ref "/f7/language/fi.md" >}}) | 47 | 633 | 7.4 | /mnt/stockage/packages/f7/picard/po/fi.po | 
- | [pt]({{< ref "/f7/language/pt.md" >}}) | 47 | 633 | 7.4 | /mnt/stockage/packages/f7/picard/po/pt.po | 
- | [pt_BR]({{< ref "/f7/language/pt_BR.md" >}}) | 47 | 633 | 7.4 | /mnt/stockage/packages/f7/picard/po/pt_BR.po | 
- | [ro]({{< ref "/f7/language/ro.md" >}}) | 47 | 633 | 7.4 | /mnt/stockage/packages/f7/picard/po/ro.po | 
- | [sk]({{< ref "/f7/language/sk.md" >}}) | 45 | 633 | 7.1 | /mnt/stockage/packages/f7/picard/po/sk.po | 
- | [fr]({{< ref "/f7/language/fr.md" >}}) | 43 | 633 | 6.8 | /mnt/stockage/packages/f7/picard/po/fr.po | 
- | [is]({{< ref "/f7/language/is.md" >}}) | 43 | 633 | 6.8 | /mnt/stockage/packages/f7/picard/po/is.po | 
- | [it]({{< ref "/f7/language/it.md" >}}) | 43 | 633 | 6.8 | /mnt/stockage/packages/f7/picard/po/it.po | 
- | [da]({{< ref "/f7/language/da.md" >}}) | 41 | 633 | 6.5 | /mnt/stockage/packages/f7/picard/po/da.po | 
- | [cs]({{< ref "/f7/language/cs.md" >}}) | 40 | 633 | 6.3 | /mnt/stockage/packages/f7/picard/po/cs.po | 
- | [ru]({{< ref "/f7/language/ru.md" >}}) | 38 | 633 | 6.0 | /mnt/stockage/packages/f7/picard/po/ru.po | 
- | [hu]({{< ref "/f7/language/hu.md" >}}) | 34 | 633 | 5.4 | /mnt/stockage/packages/f7/picard/po/hu.po | 
- | [sv]({{< ref "/f7/language/sv.md" >}}) | 24 | 633 | 3.8 | /mnt/stockage/packages/f7/picard/po/sv.po | 
- | [fy]({{< ref "/f7/language/fy.md" >}}) | 21 | 633 | 3.3 | /mnt/stockage/packages/f7/picard/po/fy.po | 
- | [ko]({{< ref "/f7/language/ko.md" >}}) | 3 | 633 | 0.5 | /mnt/stockage/packages/f7/picard/po/ko.po | 
- | [lt]({{< ref "/f7/language/lt.md" >}}) | 3 | 633 | 0.5 | /mnt/stockage/packages/f7/picard/po/lt.po | 
+ | [nl](/f7/language/nl) | 561 | 633 | 88.6 | /mnt/stockage/packages/f7/picard/po/nl.po | 
+ | [pl](/f7/language/pl) | 131 | 633 | 20.7 | /mnt/stockage/packages/f7/picard/po/pl.po | 
+ | [de](/f7/language/de) | 49 | 633 | 7.7 | /mnt/stockage/packages/f7/picard/po/de.po | 
+ | [nb_NO](/f7/language/nb_NO) | 49 | 633 | 7.7 | /mnt/stockage/packages/f7/picard/po/nb.po | 
+ | [en_GB](/f7/language/en_GB) | 48 | 633 | 7.6 | /mnt/stockage/packages/f7/picard/po/en_GB.po | 
+ | [es](/f7/language/es) | 47 | 633 | 7.4 | /mnt/stockage/packages/f7/picard/po/es.po | 
+ | [fi](/f7/language/fi) | 47 | 633 | 7.4 | /mnt/stockage/packages/f7/picard/po/fi.po | 
+ | [pt](/f7/language/pt) | 47 | 633 | 7.4 | /mnt/stockage/packages/f7/picard/po/pt.po | 
+ | [pt_BR](/f7/language/pt_BR) | 47 | 633 | 7.4 | /mnt/stockage/packages/f7/picard/po/pt_BR.po | 
+ | [ro](/f7/language/ro) | 47 | 633 | 7.4 | /mnt/stockage/packages/f7/picard/po/ro.po | 
+ | [sk](/f7/language/sk) | 45 | 633 | 7.1 | /mnt/stockage/packages/f7/picard/po/sk.po | 
+ | [fr](/f7/language/fr) | 43 | 633 | 6.8 | /mnt/stockage/packages/f7/picard/po/fr.po | 
+ | [is](/f7/language/is) | 43 | 633 | 6.8 | /mnt/stockage/packages/f7/picard/po/is.po | 
+ | [it](/f7/language/it) | 43 | 633 | 6.8 | /mnt/stockage/packages/f7/picard/po/it.po | 
+ | [da](/f7/language/da) | 41 | 633 | 6.5 | /mnt/stockage/packages/f7/picard/po/da.po | 
+ | [cs](/f7/language/cs) | 40 | 633 | 6.3 | /mnt/stockage/packages/f7/picard/po/cs.po | 
+ | [ru](/f7/language/ru) | 38 | 633 | 6.0 | /mnt/stockage/packages/f7/picard/po/ru.po | 
+ | [hu](/f7/language/hu) | 34 | 633 | 5.4 | /mnt/stockage/packages/f7/picard/po/hu.po | 
+ | [sv](/f7/language/sv) | 24 | 633 | 3.8 | /mnt/stockage/packages/f7/picard/po/sv.po | 
+ | [fy](/f7/language/fy) | 21 | 633 | 3.3 | /mnt/stockage/packages/f7/picard/po/fy.po | 
+ | [ko](/f7/language/ko) | 3 | 633 | 0.5 | /mnt/stockage/packages/f7/picard/po/ko.po | 
+ | [lt](/f7/language/lt) | 3 | 633 | 0.5 | /mnt/stockage/packages/f7/picard/po/lt.po | 
 {.sortable}
 
 

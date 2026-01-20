@@ -18,48 +18,48 @@ The package libxfce4windowing (version 4.20.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ast]({{< ref "/f42/language/ast.md" >}}) | 63 | 63 | 100.0 | /mnt/stockage/packages/f42/libxfce4windowing/po/ast.po | 
- | [bg]({{< ref "/f42/language/bg.md" >}}) | 63 | 63 | 100.0 | /mnt/stockage/packages/f42/libxfce4windowing/po/bg.po | 
- | [ca]({{< ref "/f42/language/ca.md" >}}) | 63 | 63 | 100.0 | /mnt/stockage/packages/f42/libxfce4windowing/po/ca.po | 
- | [cs]({{< ref "/f42/language/cs.md" >}}) | 63 | 63 | 100.0 | /mnt/stockage/packages/f42/libxfce4windowing/po/cs.po | 
- | [da]({{< ref "/f42/language/da.md" >}}) | 63 | 63 | 100.0 | /mnt/stockage/packages/f42/libxfce4windowing/po/da.po | 
- | [de]({{< ref "/f42/language/de.md" >}}) | 63 | 63 | 100.0 | /mnt/stockage/packages/f42/libxfce4windowing/po/de.po | 
- | [el]({{< ref "/f42/language/el.md" >}}) | 63 | 63 | 100.0 | /mnt/stockage/packages/f42/libxfce4windowing/po/el.po | 
- | [en_CA]({{< ref "/f42/language/en_CA.md" >}}) | 63 | 63 | 100.0 | /mnt/stockage/packages/f42/libxfce4windowing/po/en_CA.po | 
- | [en_GB]({{< ref "/f42/language/en_GB.md" >}}) | 63 | 63 | 100.0 | /mnt/stockage/packages/f42/libxfce4windowing/po/en_GB.po | 
- | [es]({{< ref "/f42/language/es.md" >}}) | 63 | 63 | 100.0 | /mnt/stockage/packages/f42/libxfce4windowing/po/es.po | 
- | [et]({{< ref "/f42/language/et.md" >}}) | 63 | 63 | 100.0 | /mnt/stockage/packages/f42/libxfce4windowing/po/et.po | 
- | [fi]({{< ref "/f42/language/fi.md" >}}) | 63 | 63 | 100.0 | /mnt/stockage/packages/f42/libxfce4windowing/po/fi.po | 
- | [fr]({{< ref "/f42/language/fr.md" >}}) | 63 | 63 | 100.0 | /mnt/stockage/packages/f42/libxfce4windowing/po/fr.po | 
- | [gl]({{< ref "/f42/language/gl.md" >}}) | 63 | 63 | 100.0 | /mnt/stockage/packages/f42/libxfce4windowing/po/gl.po | 
- | [he]({{< ref "/f42/language/he.md" >}}) | 63 | 63 | 100.0 | /mnt/stockage/packages/f42/libxfce4windowing/po/he.po | 
- | [hu]({{< ref "/f42/language/hu.md" >}}) | 63 | 63 | 100.0 | /mnt/stockage/packages/f42/libxfce4windowing/po/hu.po | 
- | [id]({{< ref "/f42/language/id.md" >}}) | 63 | 63 | 100.0 | /mnt/stockage/packages/f42/libxfce4windowing/po/id.po | 
- | [ie]({{< ref "/f42/language/ie.md" >}}) | 63 | 63 | 100.0 | /mnt/stockage/packages/f42/libxfce4windowing/po/ie.po | 
- | [it]({{< ref "/f42/language/it.md" >}}) | 63 | 63 | 100.0 | /mnt/stockage/packages/f42/libxfce4windowing/po/it.po | 
- | [ja]({{< ref "/f42/language/ja.md" >}}) | 63 | 63 | 100.0 | /mnt/stockage/packages/f42/libxfce4windowing/po/ja.po | 
- | [kk]({{< ref "/f42/language/kk.md" >}}) | 63 | 63 | 100.0 | /mnt/stockage/packages/f42/libxfce4windowing/po/kk.po | 
- | [ko]({{< ref "/f42/language/ko.md" >}}) | 63 | 63 | 100.0 | /mnt/stockage/packages/f42/libxfce4windowing/po/ko.po | 
- | [lt]({{< ref "/f42/language/lt.md" >}}) | 63 | 63 | 100.0 | /mnt/stockage/packages/f42/libxfce4windowing/po/lt.po | 
- | [nb_NO]({{< ref "/f42/language/nb_NO.md" >}}) | 63 | 63 | 100.0 | /mnt/stockage/packages/f42/libxfce4windowing/po/nb.po | 
- | [nl]({{< ref "/f42/language/nl.md" >}}) | 63 | 63 | 100.0 | /mnt/stockage/packages/f42/libxfce4windowing/po/nl.po | 
- | [oc]({{< ref "/f42/language/oc.md" >}}) | 63 | 63 | 100.0 | /mnt/stockage/packages/f42/libxfce4windowing/po/oc.po | 
- | [pl]({{< ref "/f42/language/pl.md" >}}) | 63 | 63 | 100.0 | /mnt/stockage/packages/f42/libxfce4windowing/po/pl.po | 
- | [pt]({{< ref "/f42/language/pt.md" >}}) | 63 | 63 | 100.0 | /mnt/stockage/packages/f42/libxfce4windowing/po/pt.po | 
- | [pt_BR]({{< ref "/f42/language/pt_BR.md" >}}) | 63 | 63 | 100.0 | /mnt/stockage/packages/f42/libxfce4windowing/po/pt_BR.po | 
- | [ro]({{< ref "/f42/language/ro.md" >}}) | 63 | 63 | 100.0 | /mnt/stockage/packages/f42/libxfce4windowing/po/ro.po | 
- | [ru]({{< ref "/f42/language/ru.md" >}}) | 63 | 63 | 100.0 | /mnt/stockage/packages/f42/libxfce4windowing/po/ru.po | 
- | [sk]({{< ref "/f42/language/sk.md" >}}) | 63 | 63 | 100.0 | /mnt/stockage/packages/f42/libxfce4windowing/po/sk.po | 
- | [sl]({{< ref "/f42/language/sl.md" >}}) | 63 | 63 | 100.0 | /mnt/stockage/packages/f42/libxfce4windowing/po/sl.po | 
- | [sq]({{< ref "/f42/language/sq.md" >}}) | 63 | 63 | 100.0 | /mnt/stockage/packages/f42/libxfce4windowing/po/sq.po | 
- | [sr]({{< ref "/f42/language/sr.md" >}}) | 63 | 63 | 100.0 | /mnt/stockage/packages/f42/libxfce4windowing/po/sr.po | 
- | [sv]({{< ref "/f42/language/sv.md" >}}) | 63 | 63 | 100.0 | /mnt/stockage/packages/f42/libxfce4windowing/po/sv.po | 
- | [tr]({{< ref "/f42/language/tr.md" >}}) | 63 | 63 | 100.0 | /mnt/stockage/packages/f42/libxfce4windowing/po/tr.po | 
- | [uk]({{< ref "/f42/language/uk.md" >}}) | 63 | 63 | 100.0 | /mnt/stockage/packages/f42/libxfce4windowing/po/uk.po | 
- | [zh_Hans]({{< ref "/f42/language/zh_Hans.md" >}}) | 63 | 63 | 100.0 | /mnt/stockage/packages/f42/libxfce4windowing/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f42/language/zh_Hant.md" >}}) | 63 | 63 | 100.0 | /mnt/stockage/packages/f42/libxfce4windowing/po/zh_TW.po | 
- | [ga]({{< ref "/f42/language/ga.md" >}}) | 39 | 63 | 61.9 | /mnt/stockage/packages/f42/libxfce4windowing/po/ga.po | 
- | [hr]({{< ref "/f42/language/hr.md" >}}) | 38 | 63 | 60.3 | /mnt/stockage/packages/f42/libxfce4windowing/po/hr.po | 
+ | [ast](/f42/language/ast) | 63 | 63 | 100.0 | /mnt/stockage/packages/f42/libxfce4windowing/po/ast.po | 
+ | [bg](/f42/language/bg) | 63 | 63 | 100.0 | /mnt/stockage/packages/f42/libxfce4windowing/po/bg.po | 
+ | [ca](/f42/language/ca) | 63 | 63 | 100.0 | /mnt/stockage/packages/f42/libxfce4windowing/po/ca.po | 
+ | [cs](/f42/language/cs) | 63 | 63 | 100.0 | /mnt/stockage/packages/f42/libxfce4windowing/po/cs.po | 
+ | [da](/f42/language/da) | 63 | 63 | 100.0 | /mnt/stockage/packages/f42/libxfce4windowing/po/da.po | 
+ | [de](/f42/language/de) | 63 | 63 | 100.0 | /mnt/stockage/packages/f42/libxfce4windowing/po/de.po | 
+ | [el](/f42/language/el) | 63 | 63 | 100.0 | /mnt/stockage/packages/f42/libxfce4windowing/po/el.po | 
+ | [en_CA](/f42/language/en_CA) | 63 | 63 | 100.0 | /mnt/stockage/packages/f42/libxfce4windowing/po/en_CA.po | 
+ | [en_GB](/f42/language/en_GB) | 63 | 63 | 100.0 | /mnt/stockage/packages/f42/libxfce4windowing/po/en_GB.po | 
+ | [es](/f42/language/es) | 63 | 63 | 100.0 | /mnt/stockage/packages/f42/libxfce4windowing/po/es.po | 
+ | [et](/f42/language/et) | 63 | 63 | 100.0 | /mnt/stockage/packages/f42/libxfce4windowing/po/et.po | 
+ | [fi](/f42/language/fi) | 63 | 63 | 100.0 | /mnt/stockage/packages/f42/libxfce4windowing/po/fi.po | 
+ | [fr](/f42/language/fr) | 63 | 63 | 100.0 | /mnt/stockage/packages/f42/libxfce4windowing/po/fr.po | 
+ | [gl](/f42/language/gl) | 63 | 63 | 100.0 | /mnt/stockage/packages/f42/libxfce4windowing/po/gl.po | 
+ | [he](/f42/language/he) | 63 | 63 | 100.0 | /mnt/stockage/packages/f42/libxfce4windowing/po/he.po | 
+ | [hu](/f42/language/hu) | 63 | 63 | 100.0 | /mnt/stockage/packages/f42/libxfce4windowing/po/hu.po | 
+ | [id](/f42/language/id) | 63 | 63 | 100.0 | /mnt/stockage/packages/f42/libxfce4windowing/po/id.po | 
+ | [ie](/f42/language/ie) | 63 | 63 | 100.0 | /mnt/stockage/packages/f42/libxfce4windowing/po/ie.po | 
+ | [it](/f42/language/it) | 63 | 63 | 100.0 | /mnt/stockage/packages/f42/libxfce4windowing/po/it.po | 
+ | [ja](/f42/language/ja) | 63 | 63 | 100.0 | /mnt/stockage/packages/f42/libxfce4windowing/po/ja.po | 
+ | [kk](/f42/language/kk) | 63 | 63 | 100.0 | /mnt/stockage/packages/f42/libxfce4windowing/po/kk.po | 
+ | [ko](/f42/language/ko) | 63 | 63 | 100.0 | /mnt/stockage/packages/f42/libxfce4windowing/po/ko.po | 
+ | [lt](/f42/language/lt) | 63 | 63 | 100.0 | /mnt/stockage/packages/f42/libxfce4windowing/po/lt.po | 
+ | [nb_NO](/f42/language/nb_NO) | 63 | 63 | 100.0 | /mnt/stockage/packages/f42/libxfce4windowing/po/nb.po | 
+ | [nl](/f42/language/nl) | 63 | 63 | 100.0 | /mnt/stockage/packages/f42/libxfce4windowing/po/nl.po | 
+ | [oc](/f42/language/oc) | 63 | 63 | 100.0 | /mnt/stockage/packages/f42/libxfce4windowing/po/oc.po | 
+ | [pl](/f42/language/pl) | 63 | 63 | 100.0 | /mnt/stockage/packages/f42/libxfce4windowing/po/pl.po | 
+ | [pt](/f42/language/pt) | 63 | 63 | 100.0 | /mnt/stockage/packages/f42/libxfce4windowing/po/pt.po | 
+ | [pt_BR](/f42/language/pt_BR) | 63 | 63 | 100.0 | /mnt/stockage/packages/f42/libxfce4windowing/po/pt_BR.po | 
+ | [ro](/f42/language/ro) | 63 | 63 | 100.0 | /mnt/stockage/packages/f42/libxfce4windowing/po/ro.po | 
+ | [ru](/f42/language/ru) | 63 | 63 | 100.0 | /mnt/stockage/packages/f42/libxfce4windowing/po/ru.po | 
+ | [sk](/f42/language/sk) | 63 | 63 | 100.0 | /mnt/stockage/packages/f42/libxfce4windowing/po/sk.po | 
+ | [sl](/f42/language/sl) | 63 | 63 | 100.0 | /mnt/stockage/packages/f42/libxfce4windowing/po/sl.po | 
+ | [sq](/f42/language/sq) | 63 | 63 | 100.0 | /mnt/stockage/packages/f42/libxfce4windowing/po/sq.po | 
+ | [sr](/f42/language/sr) | 63 | 63 | 100.0 | /mnt/stockage/packages/f42/libxfce4windowing/po/sr.po | 
+ | [sv](/f42/language/sv) | 63 | 63 | 100.0 | /mnt/stockage/packages/f42/libxfce4windowing/po/sv.po | 
+ | [tr](/f42/language/tr) | 63 | 63 | 100.0 | /mnt/stockage/packages/f42/libxfce4windowing/po/tr.po | 
+ | [uk](/f42/language/uk) | 63 | 63 | 100.0 | /mnt/stockage/packages/f42/libxfce4windowing/po/uk.po | 
+ | [zh_Hans](/f42/language/zh_Hans) | 63 | 63 | 100.0 | /mnt/stockage/packages/f42/libxfce4windowing/po/zh_CN.po | 
+ | [zh_Hant](/f42/language/zh_Hant) | 63 | 63 | 100.0 | /mnt/stockage/packages/f42/libxfce4windowing/po/zh_TW.po | 
+ | [ga](/f42/language/ga) | 39 | 63 | 61.9 | /mnt/stockage/packages/f42/libxfce4windowing/po/ga.po | 
+ | [hr](/f42/language/hr) | 38 | 63 | 60.3 | /mnt/stockage/packages/f42/libxfce4windowing/po/hr.po | 
 {.sortable}
 
 

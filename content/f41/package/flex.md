@@ -18,28 +18,28 @@ The package flex (version 2.6.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [error]({{< ref "/f41/language/error.md" >}}) | 2262 | 2262 | 100.0 | /mnt/stockage/packages/f41/flex/po/en@quot.po/mnt/stockage/packages/f41/flex/po/en@boldquot.po | 
- | [ca]({{< ref "/f41/language/ca.md" >}}) | 791 | 1131 | 69.9 | /mnt/stockage/packages/f41/flex/po/ca.po | 
- | [da]({{< ref "/f41/language/da.md" >}}) | 791 | 1131 | 69.9 | /mnt/stockage/packages/f41/flex/po/da.po | 
- | [de]({{< ref "/f41/language/de.md" >}}) | 791 | 1131 | 69.9 | /mnt/stockage/packages/f41/flex/po/de.po | 
- | [eo]({{< ref "/f41/language/eo.md" >}}) | 791 | 1131 | 69.9 | /mnt/stockage/packages/f41/flex/po/eo.po | 
- | [fi]({{< ref "/f41/language/fi.md" >}}) | 791 | 1131 | 69.9 | /mnt/stockage/packages/f41/flex/po/fi.po | 
- | [fr]({{< ref "/f41/language/fr.md" >}}) | 791 | 1131 | 69.9 | /mnt/stockage/packages/f41/flex/po/fr.po | 
- | [ga]({{< ref "/f41/language/ga.md" >}}) | 791 | 1131 | 69.9 | /mnt/stockage/packages/f41/flex/po/ga.po | 
- | [nl]({{< ref "/f41/language/nl.md" >}}) | 791 | 1131 | 69.9 | /mnt/stockage/packages/f41/flex/po/nl.po | 
- | [pl]({{< ref "/f41/language/pl.md" >}}) | 791 | 1131 | 69.9 | /mnt/stockage/packages/f41/flex/po/pl.po | 
- | [pt_BR]({{< ref "/f41/language/pt_BR.md" >}}) | 791 | 1131 | 69.9 | /mnt/stockage/packages/f41/flex/po/pt_BR.po | 
- | [ru]({{< ref "/f41/language/ru.md" >}}) | 791 | 1131 | 69.9 | /mnt/stockage/packages/f41/flex/po/ru.po | 
- | [sr]({{< ref "/f41/language/sr.md" >}}) | 791 | 1131 | 69.9 | /mnt/stockage/packages/f41/flex/po/sr.po | 
- | [sv]({{< ref "/f41/language/sv.md" >}}) | 791 | 1131 | 69.9 | /mnt/stockage/packages/f41/flex/po/sv.po | 
- | [vi]({{< ref "/f41/language/vi.md" >}}) | 791 | 1131 | 69.9 | /mnt/stockage/packages/f41/flex/po/vi.po | 
- | [zh_Hans]({{< ref "/f41/language/zh_Hans.md" >}}) | 791 | 1131 | 69.9 | /mnt/stockage/packages/f41/flex/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f41/language/zh_Hant.md" >}}) | 791 | 1131 | 69.9 | /mnt/stockage/packages/f41/flex/po/zh_TW.po | 
- | [ro]({{< ref "/f41/language/ro.md" >}}) | 723 | 1131 | 63.9 | /mnt/stockage/packages/f41/flex/po/ro.po | 
- | [tr]({{< ref "/f41/language/tr.md" >}}) | 723 | 1131 | 63.9 | /mnt/stockage/packages/f41/flex/po/tr.po | 
- | [es]({{< ref "/f41/language/es.md" >}}) | 604 | 1131 | 53.4 | /mnt/stockage/packages/f41/flex/po/es.po | 
- | [ko]({{< ref "/f41/language/ko.md" >}}) | 531 | 1131 | 46.9 | /mnt/stockage/packages/f41/flex/po/ko.po | 
- | [hr]({{< ref "/f41/language/hr.md" >}}) | 139 | 1131 | 12.3 | /mnt/stockage/packages/f41/flex/po/hr.po | 
+ | [error](/f41/language/error) | 2262 | 2262 | 100.0 | /mnt/stockage/packages/f41/flex/po/en@quot.po/mnt/stockage/packages/f41/flex/po/en@boldquot.po | 
+ | [ca](/f41/language/ca) | 791 | 1131 | 69.9 | /mnt/stockage/packages/f41/flex/po/ca.po | 
+ | [da](/f41/language/da) | 791 | 1131 | 69.9 | /mnt/stockage/packages/f41/flex/po/da.po | 
+ | [de](/f41/language/de) | 791 | 1131 | 69.9 | /mnt/stockage/packages/f41/flex/po/de.po | 
+ | [eo](/f41/language/eo) | 791 | 1131 | 69.9 | /mnt/stockage/packages/f41/flex/po/eo.po | 
+ | [fi](/f41/language/fi) | 791 | 1131 | 69.9 | /mnt/stockage/packages/f41/flex/po/fi.po | 
+ | [fr](/f41/language/fr) | 791 | 1131 | 69.9 | /mnt/stockage/packages/f41/flex/po/fr.po | 
+ | [ga](/f41/language/ga) | 791 | 1131 | 69.9 | /mnt/stockage/packages/f41/flex/po/ga.po | 
+ | [nl](/f41/language/nl) | 791 | 1131 | 69.9 | /mnt/stockage/packages/f41/flex/po/nl.po | 
+ | [pl](/f41/language/pl) | 791 | 1131 | 69.9 | /mnt/stockage/packages/f41/flex/po/pl.po | 
+ | [pt_BR](/f41/language/pt_BR) | 791 | 1131 | 69.9 | /mnt/stockage/packages/f41/flex/po/pt_BR.po | 
+ | [ru](/f41/language/ru) | 791 | 1131 | 69.9 | /mnt/stockage/packages/f41/flex/po/ru.po | 
+ | [sr](/f41/language/sr) | 791 | 1131 | 69.9 | /mnt/stockage/packages/f41/flex/po/sr.po | 
+ | [sv](/f41/language/sv) | 791 | 1131 | 69.9 | /mnt/stockage/packages/f41/flex/po/sv.po | 
+ | [vi](/f41/language/vi) | 791 | 1131 | 69.9 | /mnt/stockage/packages/f41/flex/po/vi.po | 
+ | [zh_Hans](/f41/language/zh_Hans) | 791 | 1131 | 69.9 | /mnt/stockage/packages/f41/flex/po/zh_CN.po | 
+ | [zh_Hant](/f41/language/zh_Hant) | 791 | 1131 | 69.9 | /mnt/stockage/packages/f41/flex/po/zh_TW.po | 
+ | [ro](/f41/language/ro) | 723 | 1131 | 63.9 | /mnt/stockage/packages/f41/flex/po/ro.po | 
+ | [tr](/f41/language/tr) | 723 | 1131 | 63.9 | /mnt/stockage/packages/f41/flex/po/tr.po | 
+ | [es](/f41/language/es) | 604 | 1131 | 53.4 | /mnt/stockage/packages/f41/flex/po/es.po | 
+ | [ko](/f41/language/ko) | 531 | 1131 | 46.9 | /mnt/stockage/packages/f41/flex/po/ko.po | 
+ | [hr](/f41/language/hr) | 139 | 1131 | 12.3 | /mnt/stockage/packages/f41/flex/po/hr.po | 
 {.sortable}
 
 

@@ -18,7 +18,7 @@ The package python-django-model-utils (version 2.6):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f26/language/de.md" >}}) | 11 | 11 | 100.0 | /mnt/stockage/packages/f26/python-django-model-utils/model_utils/locale/de/LC_MESSAGES/django.po | 
+ | [de](/f26/language/de) | 11 | 11 | 100.0 | /mnt/stockage/packages/f26/python-django-model-utils/model_utils/locale/de/LC_MESSAGES/django.po | 
 {.sortable}
 
 

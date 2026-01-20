@@ -38,13 +38,13 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [sequeler]({{< ref "/f33/package/sequeler.md" >}}) | 406 | 406 | 100.0 | Arabic (Egypt) <https://hosted.weblate.org/projects/sequeler/translations/ar_EG/> | 
- | [slick-greeter]({{< ref "/f33/package/slick-greeter.md" >}}) | 211 | 211 | 100.0 | anwar AL_iskandrany <anwareleskndrany13@gmail.com> | 
- | [lightdm-settings]({{< ref "/f33/package/lightdm-settings.md" >}}) | 310 | 321 | 96.6 | anwar AL_iskandrany <anwar eleskndrany13@gmail.com> | 
- | [xreader]({{< ref "/f33/package/xreader.md" >}}) | 1621 | 1693 | 95.7 | anwar AL_iskandrany <anwareleskndrany13@gmail.com> | 
- | [xed]({{< ref "/f33/package/xed.md" >}}) | 4351 | 4642 | 93.7 | anwar AL_iskandrany <anwareleskndrany13@gmail.com> | 
- | [cinnamon-translations]({{< ref "/f33/package/cinnamon-translations.md" >}}) | 21061 | 23046 | 91.4 | انور الاسكندرانى <anwareleskndrany13@gmail.com> | 
- | [blueberry]({{< ref "/f33/package/blueberry.md" >}}) | 141 | 166 | 84.9 | anwar AL_iskandrany <anwareleskndrany13@gmail.com> | 
+ | [sequeler](/f33/package/sequeler) | 406 | 406 | 100.0 | Arabic (Egypt) <https://hosted.weblate.org/projects/sequeler/translations/ar_EG/> | 
+ | [slick-greeter](/f33/package/slick-greeter) | 211 | 211 | 100.0 | anwar AL_iskandrany <anwareleskndrany13@gmail.com> | 
+ | [lightdm-settings](/f33/package/lightdm-settings) | 310 | 321 | 96.6 | anwar AL_iskandrany <anwar eleskndrany13@gmail.com> | 
+ | [xreader](/f33/package/xreader) | 1621 | 1693 | 95.7 | anwar AL_iskandrany <anwareleskndrany13@gmail.com> | 
+ | [xed](/f33/package/xed) | 4351 | 4642 | 93.7 | anwar AL_iskandrany <anwareleskndrany13@gmail.com> | 
+ | [cinnamon-translations](/f33/package/cinnamon-translations) | 21061 | 23046 | 91.4 | انور الاسكندرانى <anwareleskndrany13@gmail.com> | 
+ | [blueberry](/f33/package/blueberry) | 141 | 166 | 84.9 | anwar AL_iskandrany <anwareleskndrany13@gmail.com> | 
 {.sortable}
 
 

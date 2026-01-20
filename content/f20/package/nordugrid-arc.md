@@ -18,10 +18,10 @@ The package nordugrid-arc (version 5.0.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ru]({{< ref "/f20/language/ru.md" >}}) | 27436 | 27436 | 100.0 | /mnt/stockage/packages/f20/nordugrid-arc/po/ru.po | 
- | [sv]({{< ref "/f20/language/sv.md" >}}) | 4253 | 27436 | 15.5 | /mnt/stockage/packages/f20/nordugrid-arc/po/sv.po | 
- | [de]({{< ref "/f20/language/de.md" >}}) | 2521 | 27436 | 9.2 | /mnt/stockage/packages/f20/nordugrid-arc/po/de.po | 
- | [hu]({{< ref "/f20/language/hu.md" >}}) | 482 | 27436 | 1.8 | /mnt/stockage/packages/f20/nordugrid-arc/po/hu.po | 
+ | [ru](/f20/language/ru) | 27436 | 27436 | 100.0 | /mnt/stockage/packages/f20/nordugrid-arc/po/ru.po | 
+ | [sv](/f20/language/sv) | 4253 | 27436 | 15.5 | /mnt/stockage/packages/f20/nordugrid-arc/po/sv.po | 
+ | [de](/f20/language/de) | 2521 | 27436 | 9.2 | /mnt/stockage/packages/f20/nordugrid-arc/po/de.po | 
+ | [hu](/f20/language/hu) | 482 | 27436 | 1.8 | /mnt/stockage/packages/f20/nordugrid-arc/po/hu.po | 
 {.sortable}
 
 

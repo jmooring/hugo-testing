@@ -18,41 +18,41 @@ The package gnome-2048 (version 3.38.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [bs]({{< ref "/f35/language/bs.md" >}}) | 278 | 278 | 100.0 | /mnt/stockage/packages/f35/gnome-2048/po/bs.po | 
- | [cs]({{< ref "/f35/language/cs.md" >}}) | 417 | 417 | 100.0 | /mnt/stockage/packages/f35/gnome-2048/help/cs/cs.po/mnt/stockage/packages/f35/gnome-2048/po/cs.po | 
- | [da]({{< ref "/f35/language/da.md" >}}) | 417 | 417 | 100.0 | /mnt/stockage/packages/f35/gnome-2048/help/da/da.po/mnt/stockage/packages/f35/gnome-2048/po/da.po | 
- | [de]({{< ref "/f35/language/de.md" >}}) | 417 | 417 | 100.0 | /mnt/stockage/packages/f35/gnome-2048/help/de/de.po/mnt/stockage/packages/f35/gnome-2048/po/de.po | 
- | [el]({{< ref "/f35/language/el.md" >}}) | 324 | 324 | 100.0 | /mnt/stockage/packages/f35/gnome-2048/help/el/el.po/mnt/stockage/packages/f35/gnome-2048/po/el.po | 
- | [en_GB]({{< ref "/f35/language/en_GB.md" >}}) | 382 | 382 | 100.0 | /mnt/stockage/packages/f35/gnome-2048/po/en_GB.po | 
- | [es]({{< ref "/f35/language/es.md" >}}) | 417 | 417 | 100.0 | /mnt/stockage/packages/f35/gnome-2048/help/es/es.po/mnt/stockage/packages/f35/gnome-2048/po/es.po | 
- | [eu]({{< ref "/f35/language/eu.md" >}}) | 347 | 347 | 100.0 | /mnt/stockage/packages/f35/gnome-2048/po/eu.po | 
- | [fi]({{< ref "/f35/language/fi.md" >}}) | 382 | 382 | 100.0 | /mnt/stockage/packages/f35/gnome-2048/po/fi.po | 
- | [fr]({{< ref "/f35/language/fr.md" >}}) | 382 | 382 | 100.0 | /mnt/stockage/packages/f35/gnome-2048/po/fr.po | 
- | [fur]({{< ref "/f35/language/fur.md" >}}) | 350 | 350 | 100.0 | /mnt/stockage/packages/f35/gnome-2048/po/fur.po | 
- | [he]({{< ref "/f35/language/he.md" >}}) | 382 | 382 | 100.0 | /mnt/stockage/packages/f35/gnome-2048/po/he.po | 
- | [hr]({{< ref "/f35/language/hr.md" >}}) | 382 | 382 | 100.0 | /mnt/stockage/packages/f35/gnome-2048/po/hr.po | 
- | [hu]({{< ref "/f35/language/hu.md" >}}) | 417 | 417 | 100.0 | /mnt/stockage/packages/f35/gnome-2048/help/hu/hu.po/mnt/stockage/packages/f35/gnome-2048/po/hu.po | 
- | [id]({{< ref "/f35/language/id.md" >}}) | 382 | 382 | 100.0 | /mnt/stockage/packages/f35/gnome-2048/po/id.po | 
- | [it]({{< ref "/f35/language/it.md" >}}) | 301 | 301 | 100.0 | /mnt/stockage/packages/f35/gnome-2048/po/it.po | 
- | [lt]({{< ref "/f35/language/lt.md" >}}) | 382 | 382 | 100.0 | /mnt/stockage/packages/f35/gnome-2048/po/lt.po | 
- | [nl]({{< ref "/f35/language/nl.md" >}}) | 382 | 382 | 100.0 | /mnt/stockage/packages/f35/gnome-2048/po/nl.po | 
- | [pl]({{< ref "/f35/language/pl.md" >}}) | 417 | 417 | 100.0 | /mnt/stockage/packages/f35/gnome-2048/help/pl/pl.po/mnt/stockage/packages/f35/gnome-2048/po/pl.po | 
- | [pt]({{< ref "/f35/language/pt.md" >}}) | 301 | 301 | 100.0 | /mnt/stockage/packages/f35/gnome-2048/po/pt.po | 
- | [pt_BR]({{< ref "/f35/language/pt_BR.md" >}}) | 417 | 417 | 100.0 | /mnt/stockage/packages/f35/gnome-2048/help/pt_BR/pt_BR.po/mnt/stockage/packages/f35/gnome-2048/po/pt_BR.po | 
- | [ro]({{< ref "/f35/language/ro.md" >}}) | 417 | 417 | 100.0 | /mnt/stockage/packages/f35/gnome-2048/help/ro/ro.po/mnt/stockage/packages/f35/gnome-2048/po/ro.po | 
- | [ru]({{< ref "/f35/language/ru.md" >}}) | 301 | 301 | 100.0 | /mnt/stockage/packages/f35/gnome-2048/po/ru.po | 
- | [sk]({{< ref "/f35/language/sk.md" >}}) | 382 | 382 | 100.0 | /mnt/stockage/packages/f35/gnome-2048/po/sk.po | 
- | [sl]({{< ref "/f35/language/sl.md" >}}) | 306 | 306 | 100.0 | /mnt/stockage/packages/f35/gnome-2048/po/sl.po | 
- | [sr]({{< ref "/f35/language/sr.md" >}}) | 602 | 602 | 100.0 | /mnt/stockage/packages/f35/gnome-2048/po/sr@latin.po/mnt/stockage/packages/f35/gnome-2048/po/sr.po | 
- | [sv]({{< ref "/f35/language/sv.md" >}}) | 417 | 417 | 100.0 | /mnt/stockage/packages/f35/gnome-2048/help/sv/sv.po/mnt/stockage/packages/f35/gnome-2048/po/sv.po | 
- | [tr]({{< ref "/f35/language/tr.md" >}}) | 382 | 382 | 100.0 | /mnt/stockage/packages/f35/gnome-2048/po/tr.po | 
- | [uk]({{< ref "/f35/language/uk.md" >}}) | 417 | 417 | 100.0 | /mnt/stockage/packages/f35/gnome-2048/help/uk/uk.po/mnt/stockage/packages/f35/gnome-2048/po/uk.po | 
- | [zh_Hans]({{< ref "/f35/language/zh_Hans.md" >}}) | 416 | 416 | 100.0 | /mnt/stockage/packages/f35/gnome-2048/help/zh_CN/zh_CN.po/mnt/stockage/packages/f35/gnome-2048/po/zh_CN.po | 
- | [ca]({{< ref "/f35/language/ca.md" >}}) | 372 | 382 | 97.4 | /mnt/stockage/packages/f35/gnome-2048/po/ca.po | 
- | [ko]({{< ref "/f35/language/ko.md" >}}) | 331 | 382 | 86.6 | /mnt/stockage/packages/f35/gnome-2048/po/ko.po | 
- | [ckb]({{< ref "/f35/language/ckb.md" >}}) | 118 | 382 | 30.9 | /mnt/stockage/packages/f35/gnome-2048/po/ckb.po | 
- | [kk]({{< ref "/f35/language/kk.md" >}}) | 118 | 382 | 30.9 | /mnt/stockage/packages/f35/gnome-2048/po/kk.po | 
- | [nb_NO]({{< ref "/f35/language/nb_NO.md" >}}) | 44 | 301 | 14.6 | /mnt/stockage/packages/f35/gnome-2048/po/nb.po | 
+ | [bs](/f35/language/bs) | 278 | 278 | 100.0 | /mnt/stockage/packages/f35/gnome-2048/po/bs.po | 
+ | [cs](/f35/language/cs) | 417 | 417 | 100.0 | /mnt/stockage/packages/f35/gnome-2048/help/cs/cs.po/mnt/stockage/packages/f35/gnome-2048/po/cs.po | 
+ | [da](/f35/language/da) | 417 | 417 | 100.0 | /mnt/stockage/packages/f35/gnome-2048/help/da/da.po/mnt/stockage/packages/f35/gnome-2048/po/da.po | 
+ | [de](/f35/language/de) | 417 | 417 | 100.0 | /mnt/stockage/packages/f35/gnome-2048/help/de/de.po/mnt/stockage/packages/f35/gnome-2048/po/de.po | 
+ | [el](/f35/language/el) | 324 | 324 | 100.0 | /mnt/stockage/packages/f35/gnome-2048/help/el/el.po/mnt/stockage/packages/f35/gnome-2048/po/el.po | 
+ | [en_GB](/f35/language/en_GB) | 382 | 382 | 100.0 | /mnt/stockage/packages/f35/gnome-2048/po/en_GB.po | 
+ | [es](/f35/language/es) | 417 | 417 | 100.0 | /mnt/stockage/packages/f35/gnome-2048/help/es/es.po/mnt/stockage/packages/f35/gnome-2048/po/es.po | 
+ | [eu](/f35/language/eu) | 347 | 347 | 100.0 | /mnt/stockage/packages/f35/gnome-2048/po/eu.po | 
+ | [fi](/f35/language/fi) | 382 | 382 | 100.0 | /mnt/stockage/packages/f35/gnome-2048/po/fi.po | 
+ | [fr](/f35/language/fr) | 382 | 382 | 100.0 | /mnt/stockage/packages/f35/gnome-2048/po/fr.po | 
+ | [fur](/f35/language/fur) | 350 | 350 | 100.0 | /mnt/stockage/packages/f35/gnome-2048/po/fur.po | 
+ | [he](/f35/language/he) | 382 | 382 | 100.0 | /mnt/stockage/packages/f35/gnome-2048/po/he.po | 
+ | [hr](/f35/language/hr) | 382 | 382 | 100.0 | /mnt/stockage/packages/f35/gnome-2048/po/hr.po | 
+ | [hu](/f35/language/hu) | 417 | 417 | 100.0 | /mnt/stockage/packages/f35/gnome-2048/help/hu/hu.po/mnt/stockage/packages/f35/gnome-2048/po/hu.po | 
+ | [id](/f35/language/id) | 382 | 382 | 100.0 | /mnt/stockage/packages/f35/gnome-2048/po/id.po | 
+ | [it](/f35/language/it) | 301 | 301 | 100.0 | /mnt/stockage/packages/f35/gnome-2048/po/it.po | 
+ | [lt](/f35/language/lt) | 382 | 382 | 100.0 | /mnt/stockage/packages/f35/gnome-2048/po/lt.po | 
+ | [nl](/f35/language/nl) | 382 | 382 | 100.0 | /mnt/stockage/packages/f35/gnome-2048/po/nl.po | 
+ | [pl](/f35/language/pl) | 417 | 417 | 100.0 | /mnt/stockage/packages/f35/gnome-2048/help/pl/pl.po/mnt/stockage/packages/f35/gnome-2048/po/pl.po | 
+ | [pt](/f35/language/pt) | 301 | 301 | 100.0 | /mnt/stockage/packages/f35/gnome-2048/po/pt.po | 
+ | [pt_BR](/f35/language/pt_BR) | 417 | 417 | 100.0 | /mnt/stockage/packages/f35/gnome-2048/help/pt_BR/pt_BR.po/mnt/stockage/packages/f35/gnome-2048/po/pt_BR.po | 
+ | [ro](/f35/language/ro) | 417 | 417 | 100.0 | /mnt/stockage/packages/f35/gnome-2048/help/ro/ro.po/mnt/stockage/packages/f35/gnome-2048/po/ro.po | 
+ | [ru](/f35/language/ru) | 301 | 301 | 100.0 | /mnt/stockage/packages/f35/gnome-2048/po/ru.po | 
+ | [sk](/f35/language/sk) | 382 | 382 | 100.0 | /mnt/stockage/packages/f35/gnome-2048/po/sk.po | 
+ | [sl](/f35/language/sl) | 306 | 306 | 100.0 | /mnt/stockage/packages/f35/gnome-2048/po/sl.po | 
+ | [sr](/f35/language/sr) | 602 | 602 | 100.0 | /mnt/stockage/packages/f35/gnome-2048/po/sr@latin.po/mnt/stockage/packages/f35/gnome-2048/po/sr.po | 
+ | [sv](/f35/language/sv) | 417 | 417 | 100.0 | /mnt/stockage/packages/f35/gnome-2048/help/sv/sv.po/mnt/stockage/packages/f35/gnome-2048/po/sv.po | 
+ | [tr](/f35/language/tr) | 382 | 382 | 100.0 | /mnt/stockage/packages/f35/gnome-2048/po/tr.po | 
+ | [uk](/f35/language/uk) | 417 | 417 | 100.0 | /mnt/stockage/packages/f35/gnome-2048/help/uk/uk.po/mnt/stockage/packages/f35/gnome-2048/po/uk.po | 
+ | [zh_Hans](/f35/language/zh_Hans) | 416 | 416 | 100.0 | /mnt/stockage/packages/f35/gnome-2048/help/zh_CN/zh_CN.po/mnt/stockage/packages/f35/gnome-2048/po/zh_CN.po | 
+ | [ca](/f35/language/ca) | 372 | 382 | 97.4 | /mnt/stockage/packages/f35/gnome-2048/po/ca.po | 
+ | [ko](/f35/language/ko) | 331 | 382 | 86.6 | /mnt/stockage/packages/f35/gnome-2048/po/ko.po | 
+ | [ckb](/f35/language/ckb) | 118 | 382 | 30.9 | /mnt/stockage/packages/f35/gnome-2048/po/ckb.po | 
+ | [kk](/f35/language/kk) | 118 | 382 | 30.9 | /mnt/stockage/packages/f35/gnome-2048/po/kk.po | 
+ | [nb_NO](/f35/language/nb_NO) | 44 | 301 | 14.6 | /mnt/stockage/packages/f35/gnome-2048/po/nb.po | 
 {.sortable}
 
 

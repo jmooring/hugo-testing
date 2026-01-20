@@ -18,19 +18,19 @@ The package appeditor (version 1.1.4^20220103gitaeb0b13):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f37/language/ca.md" >}}) | 583 | 583 | 100.0 | /mnt/stockage/packages/f37/appeditor/po/ca.po | 
- | [es]({{< ref "/f37/language/es.md" >}}) | 583 | 583 | 100.0 | /mnt/stockage/packages/f37/appeditor/po/es.po | 
- | [it]({{< ref "/f37/language/it.md" >}}) | 583 | 583 | 100.0 | /mnt/stockage/packages/f37/appeditor/po/it.po | 
- | [nl]({{< ref "/f37/language/nl.md" >}}) | 583 | 583 | 100.0 | /mnt/stockage/packages/f37/appeditor/po/nl_NL.po | 
- | [pt]({{< ref "/f37/language/pt.md" >}}) | 583 | 583 | 100.0 | /mnt/stockage/packages/f37/appeditor/po/pt.po | 
- | [sv]({{< ref "/f37/language/sv.md" >}}) | 583 | 583 | 100.0 | /mnt/stockage/packages/f37/appeditor/po/sv.po | 
- | [tr]({{< ref "/f37/language/tr.md" >}}) | 583 | 583 | 100.0 | /mnt/stockage/packages/f37/appeditor/po/tr.po | 
- | [ja]({{< ref "/f37/language/ja.md" >}}) | 327 | 583 | 56.1 | /mnt/stockage/packages/f37/appeditor/po/ja.po | 
- | [ru]({{< ref "/f37/language/ru.md" >}}) | 288 | 583 | 49.4 | /mnt/stockage/packages/f37/appeditor/po/ru.po | 
- | [fr]({{< ref "/f37/language/fr.md" >}}) | 256 | 580 | 44.1 | /mnt/stockage/packages/f37/appeditor/po/fr.po | 
- | [de]({{< ref "/f37/language/de.md" >}}) | 187 | 583 | 32.1 | /mnt/stockage/packages/f37/appeditor/po/de.po | 
- | [lt]({{< ref "/f37/language/lt.md" >}}) | 171 | 580 | 29.5 | /mnt/stockage/packages/f37/appeditor/po/lt.po | 
- | [pt_BR]({{< ref "/f37/language/pt_BR.md" >}}) | 168 | 583 | 28.8 | /mnt/stockage/packages/f37/appeditor/po/pt_BR.po | 
+ | [ca](/f37/language/ca) | 583 | 583 | 100.0 | /mnt/stockage/packages/f37/appeditor/po/ca.po | 
+ | [es](/f37/language/es) | 583 | 583 | 100.0 | /mnt/stockage/packages/f37/appeditor/po/es.po | 
+ | [it](/f37/language/it) | 583 | 583 | 100.0 | /mnt/stockage/packages/f37/appeditor/po/it.po | 
+ | [nl](/f37/language/nl) | 583 | 583 | 100.0 | /mnt/stockage/packages/f37/appeditor/po/nl_NL.po | 
+ | [pt](/f37/language/pt) | 583 | 583 | 100.0 | /mnt/stockage/packages/f37/appeditor/po/pt.po | 
+ | [sv](/f37/language/sv) | 583 | 583 | 100.0 | /mnt/stockage/packages/f37/appeditor/po/sv.po | 
+ | [tr](/f37/language/tr) | 583 | 583 | 100.0 | /mnt/stockage/packages/f37/appeditor/po/tr.po | 
+ | [ja](/f37/language/ja) | 327 | 583 | 56.1 | /mnt/stockage/packages/f37/appeditor/po/ja.po | 
+ | [ru](/f37/language/ru) | 288 | 583 | 49.4 | /mnt/stockage/packages/f37/appeditor/po/ru.po | 
+ | [fr](/f37/language/fr) | 256 | 580 | 44.1 | /mnt/stockage/packages/f37/appeditor/po/fr.po | 
+ | [de](/f37/language/de) | 187 | 583 | 32.1 | /mnt/stockage/packages/f37/appeditor/po/de.po | 
+ | [lt](/f37/language/lt) | 171 | 580 | 29.5 | /mnt/stockage/packages/f37/appeditor/po/lt.po | 
+ | [pt_BR](/f37/language/pt_BR) | 168 | 583 | 28.8 | /mnt/stockage/packages/f37/appeditor/po/pt_BR.po | 
 {.sortable}
 
 

@@ -18,7 +18,7 @@ The package xfsprogs (version 3.0.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [pl]({{< ref "/f12/language/pl.md" >}}) | 15738 | 20347 | 77.3 | /mnt/stockage/packages/f12/xfsprogs/po/pl.po | 
+ | [pl](/f12/language/pl) | 15738 | 20347 | 77.3 | /mnt/stockage/packages/f12/xfsprogs/po/pl.po | 
 {.sortable}
 
 

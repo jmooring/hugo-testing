@@ -18,97 +18,97 @@ The package konsole5 (version 23.08.5):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f42/language/ar.md" >}}) | 3996 | 3996 | 100.0 | /mnt/stockage/packages/f42/konsole5/po/ar/konsole.po | 
- | [az]({{< ref "/f42/language/az.md" >}}) | 3996 | 3996 | 100.0 | /mnt/stockage/packages/f42/konsole5/po/az/konsole.po | 
- | [bg]({{< ref "/f42/language/bg.md" >}}) | 3996 | 3996 | 100.0 | /mnt/stockage/packages/f42/konsole5/po/bg/konsole.po | 
- | [ca]({{< ref "/f42/language/ca.md" >}}) | 3996 | 3996 | 100.0 | /mnt/stockage/packages/f42/konsole5/po/ca/konsole.po | 
- | [ca@valencia]({{< ref "/f42/language/ca@valencia.md" >}}) | 3996 | 3996 | 100.0 | /mnt/stockage/packages/f42/konsole5/po/ca@valencia/konsole.po | 
- | [en_GB]({{< ref "/f42/language/en_GB.md" >}}) | 3996 | 3996 | 100.0 | /mnt/stockage/packages/f42/konsole5/po/en_GB/konsole.po | 
- | [eo]({{< ref "/f42/language/eo.md" >}}) | 3996 | 3996 | 100.0 | /mnt/stockage/packages/f42/konsole5/po/eo/konsole.po | 
- | [es]({{< ref "/f42/language/es.md" >}}) | 3996 | 3996 | 100.0 | /mnt/stockage/packages/f42/konsole5/po/es/konsole.po | 
- | [eu]({{< ref "/f42/language/eu.md" >}}) | 3996 | 3996 | 100.0 | /mnt/stockage/packages/f42/konsole5/po/eu/konsole.po | 
- | [fi]({{< ref "/f42/language/fi.md" >}}) | 3996 | 3996 | 100.0 | /mnt/stockage/packages/f42/konsole5/po/fi/konsole.po | 
- | [fr]({{< ref "/f42/language/fr.md" >}}) | 3996 | 3996 | 100.0 | /mnt/stockage/packages/f42/konsole5/po/fr/konsole.po | 
- | [gl]({{< ref "/f42/language/gl.md" >}}) | 3996 | 3996 | 100.0 | /mnt/stockage/packages/f42/konsole5/po/gl/konsole.po | 
- | [ia]({{< ref "/f42/language/ia.md" >}}) | 3996 | 3996 | 100.0 | /mnt/stockage/packages/f42/konsole5/po/ia/konsole.po | 
- | [it]({{< ref "/f42/language/it.md" >}}) | 3996 | 3996 | 100.0 | /mnt/stockage/packages/f42/konsole5/po/it/konsole.po | 
- | [ko]({{< ref "/f42/language/ko.md" >}}) | 3996 | 3996 | 100.0 | /mnt/stockage/packages/f42/konsole5/po/ko/konsole.po | 
- | [nl]({{< ref "/f42/language/nl.md" >}}) | 3996 | 3996 | 100.0 | /mnt/stockage/packages/f42/konsole5/po/nl/konsole.po | 
- | [nn]({{< ref "/f42/language/nn.md" >}}) | 3996 | 3996 | 100.0 | /mnt/stockage/packages/f42/konsole5/po/nn/konsole.po | 
- | [pl]({{< ref "/f42/language/pl.md" >}}) | 3996 | 3996 | 100.0 | /mnt/stockage/packages/f42/konsole5/po/pl/konsole.po | 
- | [pt]({{< ref "/f42/language/pt.md" >}}) | 3996 | 3996 | 100.0 | /mnt/stockage/packages/f42/konsole5/po/pt/konsole.po | 
- | [ru]({{< ref "/f42/language/ru.md" >}}) | 3996 | 3996 | 100.0 | /mnt/stockage/packages/f42/konsole5/po/ru/konsole.po | 
- | [sl]({{< ref "/f42/language/sl.md" >}}) | 3996 | 3996 | 100.0 | /mnt/stockage/packages/f42/konsole5/po/sl/konsole.po | 
- | [sv]({{< ref "/f42/language/sv.md" >}}) | 3996 | 3996 | 100.0 | /mnt/stockage/packages/f42/konsole5/po/sv/konsole.po | 
- | [tr]({{< ref "/f42/language/tr.md" >}}) | 3996 | 3996 | 100.0 | /mnt/stockage/packages/f42/konsole5/po/tr/konsole.po | 
- | [uk]({{< ref "/f42/language/uk.md" >}}) | 3996 | 3996 | 100.0 | /mnt/stockage/packages/f42/konsole5/po/uk/konsole.po | 
- | [zh_Hans]({{< ref "/f42/language/zh_Hans.md" >}}) | 3996 | 3996 | 100.0 | /mnt/stockage/packages/f42/konsole5/po/zh_CN/konsole.po | 
- | [is]({{< ref "/f42/language/is.md" >}}) | 3983 | 3996 | 99.7 | /mnt/stockage/packages/f42/konsole5/po/is/konsole.po | 
- | [zh_Hant]({{< ref "/f42/language/zh_Hant.md" >}}) | 3983 | 3996 | 99.7 | /mnt/stockage/packages/f42/konsole5/po/zh_TW/konsole.po | 
- | [be]({{< ref "/f42/language/be.md" >}}) | 3932 | 3996 | 98.4 | /mnt/stockage/packages/f42/konsole5/po/be/konsole.po | 
- | [el]({{< ref "/f42/language/el.md" >}}) | 3921 | 3996 | 98.1 | /mnt/stockage/packages/f42/konsole5/po/el/konsole.po | 
- | [ka]({{< ref "/f42/language/ka.md" >}}) | 3904 | 3996 | 97.7 | /mnt/stockage/packages/f42/konsole5/po/ka/konsole.po | 
- | [pt_BR]({{< ref "/f42/language/pt_BR.md" >}}) | 3902 | 3996 | 97.6 | /mnt/stockage/packages/f42/konsole5/po/pt_BR/konsole.po | 
- | [de]({{< ref "/f42/language/de.md" >}}) | 3844 | 3996 | 96.2 | /mnt/stockage/packages/f42/konsole5/po/de/konsole.po | 
- | [ta]({{< ref "/f42/language/ta.md" >}}) | 3781 | 3996 | 94.6 | /mnt/stockage/packages/f42/konsole5/po/ta/konsole.po | 
- | [sk]({{< ref "/f42/language/sk.md" >}}) | 3701 | 3996 | 92.6 | /mnt/stockage/packages/f42/konsole5/po/sk/konsole.po | 
- | [hu]({{< ref "/f42/language/hu.md" >}}) | 3512 | 3996 | 87.9 | /mnt/stockage/packages/f42/konsole5/po/hu/konsole.po | 
- | [be_Latn]({{< ref "/f42/language/be_Latn.md" >}}) | 3401 | 3996 | 85.1 | /mnt/stockage/packages/f42/konsole5/po/be@latin/konsole.po | 
- | [ro]({{< ref "/f42/language/ro.md" >}}) | 3081 | 3996 | 77.1 | /mnt/stockage/packages/f42/konsole5/po/ro/konsole.po | 
- | [et]({{< ref "/f42/language/et.md" >}}) | 2785 | 3996 | 69.7 | /mnt/stockage/packages/f42/konsole5/po/et/konsole.po | 
- | [cs]({{< ref "/f42/language/cs.md" >}}) | 2774 | 3996 | 69.4 | /mnt/stockage/packages/f42/konsole5/po/cs/konsole.po | 
- | [sr]({{< ref "/f42/language/sr.md" >}}) | 2025 | 2951 | 68.6 | /mnt/stockage/packages/f42/konsole5/po/sr/konsole.po | 
- | [sr@ijekavian]({{< ref "/f42/language/sr@ijekavian.md" >}}) | 2025 | 2951 | 68.6 | /mnt/stockage/packages/f42/konsole5/po/sr@ijekavian/konsole.po | 
- | [sr@ijekavian_Latn]({{< ref "/f42/language/sr@ijekavian_Latn.md" >}}) | 2025 | 2951 | 68.6 | /mnt/stockage/packages/f42/konsole5/po/sr@ijekavianlatin/konsole.po | 
- | [sr_Latn]({{< ref "/f42/language/sr_Latn.md" >}}) | 2025 | 2951 | 68.6 | /mnt/stockage/packages/f42/konsole5/po/sr@latin/konsole.po | 
- | [da]({{< ref "/f42/language/da.md" >}}) | 2728 | 3996 | 68.3 | /mnt/stockage/packages/f42/konsole5/po/da/konsole.po | 
- | [id]({{< ref "/f42/language/id.md" >}}) | 2193 | 3996 | 54.9 | /mnt/stockage/packages/f42/konsole5/po/id/konsole.po | 
- | [ja]({{< ref "/f42/language/ja.md" >}}) | 1867 | 3996 | 46.7 | /mnt/stockage/packages/f42/konsole5/po/ja/konsole.po | 
- | [he]({{< ref "/f42/language/he.md" >}}) | 1677 | 3996 | 42.0 | /mnt/stockage/packages/f42/konsole5/po/he/konsole.po | 
- | [nb_NO]({{< ref "/f42/language/nb_NO.md" >}}) | 1589 | 3996 | 39.8 | /mnt/stockage/packages/f42/konsole5/po/nb/konsole.po | 
- | [nds]({{< ref "/f42/language/nds.md" >}}) | 1537 | 3996 | 38.5 | /mnt/stockage/packages/f42/konsole5/po/nds/konsole.po | 
- | [bs]({{< ref "/f42/language/bs.md" >}}) | 1528 | 3996 | 38.2 | /mnt/stockage/packages/f42/konsole5/po/bs/konsole.po | 
- | [lt]({{< ref "/f42/language/lt.md" >}}) | 1504 | 3996 | 37.6 | /mnt/stockage/packages/f42/konsole5/po/lt/konsole.po | 
- | [kk]({{< ref "/f42/language/kk.md" >}}) | 1474 | 3996 | 36.9 | /mnt/stockage/packages/f42/konsole5/po/kk/konsole.po | 
- | [pa]({{< ref "/f42/language/pa.md" >}}) | 1284 | 3996 | 32.1 | /mnt/stockage/packages/f42/konsole5/po/pa/konsole.po | 
- | [km]({{< ref "/f42/language/km.md" >}}) | 1175 | 3996 | 29.4 | /mnt/stockage/packages/f42/konsole5/po/km/konsole.po | 
- | [ie]({{< ref "/f42/language/ie.md" >}}) | 1034 | 3996 | 25.9 | /mnt/stockage/packages/f42/konsole5/po/ie/konsole.po | 
- | [mr]({{< ref "/f42/language/mr.md" >}}) | 1018 | 3996 | 25.5 | /mnt/stockage/packages/f42/konsole5/po/mr/konsole.po | 
- | [ug]({{< ref "/f42/language/ug.md" >}}) | 947 | 3996 | 23.7 | /mnt/stockage/packages/f42/konsole5/po/ug/konsole.po | 
- | [lv]({{< ref "/f42/language/lv.md" >}}) | 938 | 3996 | 23.5 | /mnt/stockage/packages/f42/konsole5/po/lv/konsole.po | 
- | [ga]({{< ref "/f42/language/ga.md" >}}) | 905 | 3996 | 22.6 | /mnt/stockage/packages/f42/konsole5/po/ga/konsole.po | 
- | [si]({{< ref "/f42/language/si.md" >}}) | 674 | 3996 | 16.9 | /mnt/stockage/packages/f42/konsole5/po/si/konsole.po | 
- | [hr]({{< ref "/f42/language/hr.md" >}}) | 667 | 3996 | 16.7 | /mnt/stockage/packages/f42/konsole5/po/hr/konsole.po | 
- | [th]({{< ref "/f42/language/th.md" >}}) | 660 | 3996 | 16.5 | /mnt/stockage/packages/f42/konsole5/po/th/konsole.po | 
- | [kn]({{< ref "/f42/language/kn.md" >}}) | 626 | 3996 | 15.7 | /mnt/stockage/packages/f42/konsole5/po/kn/konsole.po | 
- | [ml]({{< ref "/f42/language/ml.md" >}}) | 589 | 3996 | 14.7 | /mnt/stockage/packages/f42/konsole5/po/ml/konsole.po | 
- | [tg]({{< ref "/f42/language/tg.md" >}}) | 555 | 3996 | 13.9 | /mnt/stockage/packages/f42/konsole5/po/tg/konsole.po | 
- | [csb]({{< ref "/f42/language/csb.md" >}}) | 527 | 3996 | 13.2 | /mnt/stockage/packages/f42/konsole5/po/csb/konsole.po | 
- | [bn]({{< ref "/f42/language/bn.md" >}}) | 526 | 3996 | 13.2 | /mnt/stockage/packages/f42/konsole5/po/bn/konsole.po | 
- | [mk]({{< ref "/f42/language/mk.md" >}}) | 515 | 3996 | 12.9 | /mnt/stockage/packages/f42/konsole5/po/mk/konsole.po | 
- | [fy]({{< ref "/f42/language/fy.md" >}}) | 498 | 3996 | 12.5 | /mnt/stockage/packages/f42/konsole5/po/fy/konsole.po | 
- | [te]({{< ref "/f42/language/te.md" >}}) | 491 | 3996 | 12.3 | /mnt/stockage/packages/f42/konsole5/po/te/konsole.po | 
- | [hi]({{< ref "/f42/language/hi.md" >}}) | 473 | 3996 | 11.8 | /mnt/stockage/packages/f42/konsole5/po/hi/konsole.po | 
- | [hne]({{< ref "/f42/language/hne.md" >}}) | 473 | 3996 | 11.8 | /mnt/stockage/packages/f42/konsole5/po/hne/konsole.po | 
- | [mai]({{< ref "/f42/language/mai.md" >}}) | 464 | 3996 | 11.6 | /mnt/stockage/packages/f42/konsole5/po/mai/konsole.po | 
- | [gu]({{< ref "/f42/language/gu.md" >}}) | 448 | 3996 | 11.2 | /mnt/stockage/packages/f42/konsole5/po/gu/konsole.po | 
- | [wa]({{< ref "/f42/language/wa.md" >}}) | 415 | 3996 | 10.4 | /mnt/stockage/packages/f42/konsole5/po/wa/konsole.po | 
- | [hsb]({{< ref "/f42/language/hsb.md" >}}) | 367 | 3996 | 9.2 | /mnt/stockage/packages/f42/konsole5/po/hsb/konsole.po | 
- | [bn_IN]({{< ref "/f42/language/bn_IN.md" >}}) | 352 | 3996 | 8.8 | /mnt/stockage/packages/f42/konsole5/po/bn_IN/konsole.po | 
- | [fa]({{< ref "/f42/language/fa.md" >}}) | 346 | 3996 | 8.7 | /mnt/stockage/packages/f42/konsole5/po/fa/konsole.po | 
- | [se]({{< ref "/f42/language/se.md" >}}) | 339 | 3996 | 8.5 | /mnt/stockage/packages/f42/konsole5/po/se/konsole.po | 
- | [ne]({{< ref "/f42/language/ne.md" >}}) | 333 | 3996 | 8.3 | /mnt/stockage/packages/f42/konsole5/po/ne/konsole.po | 
- | [vi]({{< ref "/f42/language/vi.md" >}}) | 316 | 3996 | 7.9 | /mnt/stockage/packages/f42/konsole5/po/vi/konsole.po | 
- | [ku]({{< ref "/f42/language/ku.md" >}}) | 206 | 3996 | 5.2 | /mnt/stockage/packages/f42/konsole5/po/ku/konsole.po | 
- | [uz]({{< ref "/f42/language/uz.md" >}}) | 252 | 7992 | 3.2 | /mnt/stockage/packages/f42/konsole5/po/uz@cyrillic/konsole.po/mnt/stockage/packages/f42/konsole5/po/uz/konsole.po | 
- | [ms]({{< ref "/f42/language/ms.md" >}}) | 71 | 3996 | 1.8 | /mnt/stockage/packages/f42/konsole5/po/ms/konsole.po | 
- | [sq]({{< ref "/f42/language/sq.md" >}}) | 70 | 3996 | 1.8 | /mnt/stockage/packages/f42/konsole5/po/sq/konsole.po | 
- | [af]({{< ref "/f42/language/af.md" >}}) | 62 | 3996 | 1.6 | /mnt/stockage/packages/f42/konsole5/po/af/konsole.po | 
- | [br]({{< ref "/f42/language/br.md" >}}) | 62 | 3996 | 1.6 | /mnt/stockage/packages/f42/konsole5/po/br/konsole.po | 
- | [cy]({{< ref "/f42/language/cy.md" >}}) | 62 | 3996 | 1.6 | /mnt/stockage/packages/f42/konsole5/po/cy/konsole.po | 
- | [xh]({{< ref "/f42/language/xh.md" >}}) | 45 | 3996 | 1.1 | /mnt/stockage/packages/f42/konsole5/po/xh/konsole.po | 
- | [oc]({{< ref "/f42/language/oc.md" >}}) | 40 | 3996 | 1.0 | /mnt/stockage/packages/f42/konsole5/po/oc/konsole.po | 
- | [or]({{< ref "/f42/language/or.md" >}}) | 0 | 3996 | 0.0 | /mnt/stockage/packages/f42/konsole5/po/or/konsole.po | 
+ | [ar](/f42/language/ar) | 3996 | 3996 | 100.0 | /mnt/stockage/packages/f42/konsole5/po/ar/konsole.po | 
+ | [az](/f42/language/az) | 3996 | 3996 | 100.0 | /mnt/stockage/packages/f42/konsole5/po/az/konsole.po | 
+ | [bg](/f42/language/bg) | 3996 | 3996 | 100.0 | /mnt/stockage/packages/f42/konsole5/po/bg/konsole.po | 
+ | [ca](/f42/language/ca) | 3996 | 3996 | 100.0 | /mnt/stockage/packages/f42/konsole5/po/ca/konsole.po | 
+ | [ca@valencia](/f42/language/ca@valencia) | 3996 | 3996 | 100.0 | /mnt/stockage/packages/f42/konsole5/po/ca@valencia/konsole.po | 
+ | [en_GB](/f42/language/en_GB) | 3996 | 3996 | 100.0 | /mnt/stockage/packages/f42/konsole5/po/en_GB/konsole.po | 
+ | [eo](/f42/language/eo) | 3996 | 3996 | 100.0 | /mnt/stockage/packages/f42/konsole5/po/eo/konsole.po | 
+ | [es](/f42/language/es) | 3996 | 3996 | 100.0 | /mnt/stockage/packages/f42/konsole5/po/es/konsole.po | 
+ | [eu](/f42/language/eu) | 3996 | 3996 | 100.0 | /mnt/stockage/packages/f42/konsole5/po/eu/konsole.po | 
+ | [fi](/f42/language/fi) | 3996 | 3996 | 100.0 | /mnt/stockage/packages/f42/konsole5/po/fi/konsole.po | 
+ | [fr](/f42/language/fr) | 3996 | 3996 | 100.0 | /mnt/stockage/packages/f42/konsole5/po/fr/konsole.po | 
+ | [gl](/f42/language/gl) | 3996 | 3996 | 100.0 | /mnt/stockage/packages/f42/konsole5/po/gl/konsole.po | 
+ | [ia](/f42/language/ia) | 3996 | 3996 | 100.0 | /mnt/stockage/packages/f42/konsole5/po/ia/konsole.po | 
+ | [it](/f42/language/it) | 3996 | 3996 | 100.0 | /mnt/stockage/packages/f42/konsole5/po/it/konsole.po | 
+ | [ko](/f42/language/ko) | 3996 | 3996 | 100.0 | /mnt/stockage/packages/f42/konsole5/po/ko/konsole.po | 
+ | [nl](/f42/language/nl) | 3996 | 3996 | 100.0 | /mnt/stockage/packages/f42/konsole5/po/nl/konsole.po | 
+ | [nn](/f42/language/nn) | 3996 | 3996 | 100.0 | /mnt/stockage/packages/f42/konsole5/po/nn/konsole.po | 
+ | [pl](/f42/language/pl) | 3996 | 3996 | 100.0 | /mnt/stockage/packages/f42/konsole5/po/pl/konsole.po | 
+ | [pt](/f42/language/pt) | 3996 | 3996 | 100.0 | /mnt/stockage/packages/f42/konsole5/po/pt/konsole.po | 
+ | [ru](/f42/language/ru) | 3996 | 3996 | 100.0 | /mnt/stockage/packages/f42/konsole5/po/ru/konsole.po | 
+ | [sl](/f42/language/sl) | 3996 | 3996 | 100.0 | /mnt/stockage/packages/f42/konsole5/po/sl/konsole.po | 
+ | [sv](/f42/language/sv) | 3996 | 3996 | 100.0 | /mnt/stockage/packages/f42/konsole5/po/sv/konsole.po | 
+ | [tr](/f42/language/tr) | 3996 | 3996 | 100.0 | /mnt/stockage/packages/f42/konsole5/po/tr/konsole.po | 
+ | [uk](/f42/language/uk) | 3996 | 3996 | 100.0 | /mnt/stockage/packages/f42/konsole5/po/uk/konsole.po | 
+ | [zh_Hans](/f42/language/zh_Hans) | 3996 | 3996 | 100.0 | /mnt/stockage/packages/f42/konsole5/po/zh_CN/konsole.po | 
+ | [is](/f42/language/is) | 3983 | 3996 | 99.7 | /mnt/stockage/packages/f42/konsole5/po/is/konsole.po | 
+ | [zh_Hant](/f42/language/zh_Hant) | 3983 | 3996 | 99.7 | /mnt/stockage/packages/f42/konsole5/po/zh_TW/konsole.po | 
+ | [be](/f42/language/be) | 3932 | 3996 | 98.4 | /mnt/stockage/packages/f42/konsole5/po/be/konsole.po | 
+ | [el](/f42/language/el) | 3921 | 3996 | 98.1 | /mnt/stockage/packages/f42/konsole5/po/el/konsole.po | 
+ | [ka](/f42/language/ka) | 3904 | 3996 | 97.7 | /mnt/stockage/packages/f42/konsole5/po/ka/konsole.po | 
+ | [pt_BR](/f42/language/pt_BR) | 3902 | 3996 | 97.6 | /mnt/stockage/packages/f42/konsole5/po/pt_BR/konsole.po | 
+ | [de](/f42/language/de) | 3844 | 3996 | 96.2 | /mnt/stockage/packages/f42/konsole5/po/de/konsole.po | 
+ | [ta](/f42/language/ta) | 3781 | 3996 | 94.6 | /mnt/stockage/packages/f42/konsole5/po/ta/konsole.po | 
+ | [sk](/f42/language/sk) | 3701 | 3996 | 92.6 | /mnt/stockage/packages/f42/konsole5/po/sk/konsole.po | 
+ | [hu](/f42/language/hu) | 3512 | 3996 | 87.9 | /mnt/stockage/packages/f42/konsole5/po/hu/konsole.po | 
+ | [be_Latn](/f42/language/be_Latn) | 3401 | 3996 | 85.1 | /mnt/stockage/packages/f42/konsole5/po/be@latin/konsole.po | 
+ | [ro](/f42/language/ro) | 3081 | 3996 | 77.1 | /mnt/stockage/packages/f42/konsole5/po/ro/konsole.po | 
+ | [et](/f42/language/et) | 2785 | 3996 | 69.7 | /mnt/stockage/packages/f42/konsole5/po/et/konsole.po | 
+ | [cs](/f42/language/cs) | 2774 | 3996 | 69.4 | /mnt/stockage/packages/f42/konsole5/po/cs/konsole.po | 
+ | [sr](/f42/language/sr) | 2025 | 2951 | 68.6 | /mnt/stockage/packages/f42/konsole5/po/sr/konsole.po | 
+ | [sr@ijekavian](/f42/language/sr@ijekavian) | 2025 | 2951 | 68.6 | /mnt/stockage/packages/f42/konsole5/po/sr@ijekavian/konsole.po | 
+ | [sr@ijekavian_Latn](/f42/language/sr@ijekavian_Latn) | 2025 | 2951 | 68.6 | /mnt/stockage/packages/f42/konsole5/po/sr@ijekavianlatin/konsole.po | 
+ | [sr_Latn](/f42/language/sr_Latn) | 2025 | 2951 | 68.6 | /mnt/stockage/packages/f42/konsole5/po/sr@latin/konsole.po | 
+ | [da](/f42/language/da) | 2728 | 3996 | 68.3 | /mnt/stockage/packages/f42/konsole5/po/da/konsole.po | 
+ | [id](/f42/language/id) | 2193 | 3996 | 54.9 | /mnt/stockage/packages/f42/konsole5/po/id/konsole.po | 
+ | [ja](/f42/language/ja) | 1867 | 3996 | 46.7 | /mnt/stockage/packages/f42/konsole5/po/ja/konsole.po | 
+ | [he](/f42/language/he) | 1677 | 3996 | 42.0 | /mnt/stockage/packages/f42/konsole5/po/he/konsole.po | 
+ | [nb_NO](/f42/language/nb_NO) | 1589 | 3996 | 39.8 | /mnt/stockage/packages/f42/konsole5/po/nb/konsole.po | 
+ | [nds](/f42/language/nds) | 1537 | 3996 | 38.5 | /mnt/stockage/packages/f42/konsole5/po/nds/konsole.po | 
+ | [bs](/f42/language/bs) | 1528 | 3996 | 38.2 | /mnt/stockage/packages/f42/konsole5/po/bs/konsole.po | 
+ | [lt](/f42/language/lt) | 1504 | 3996 | 37.6 | /mnt/stockage/packages/f42/konsole5/po/lt/konsole.po | 
+ | [kk](/f42/language/kk) | 1474 | 3996 | 36.9 | /mnt/stockage/packages/f42/konsole5/po/kk/konsole.po | 
+ | [pa](/f42/language/pa) | 1284 | 3996 | 32.1 | /mnt/stockage/packages/f42/konsole5/po/pa/konsole.po | 
+ | [km](/f42/language/km) | 1175 | 3996 | 29.4 | /mnt/stockage/packages/f42/konsole5/po/km/konsole.po | 
+ | [ie](/f42/language/ie) | 1034 | 3996 | 25.9 | /mnt/stockage/packages/f42/konsole5/po/ie/konsole.po | 
+ | [mr](/f42/language/mr) | 1018 | 3996 | 25.5 | /mnt/stockage/packages/f42/konsole5/po/mr/konsole.po | 
+ | [ug](/f42/language/ug) | 947 | 3996 | 23.7 | /mnt/stockage/packages/f42/konsole5/po/ug/konsole.po | 
+ | [lv](/f42/language/lv) | 938 | 3996 | 23.5 | /mnt/stockage/packages/f42/konsole5/po/lv/konsole.po | 
+ | [ga](/f42/language/ga) | 905 | 3996 | 22.6 | /mnt/stockage/packages/f42/konsole5/po/ga/konsole.po | 
+ | [si](/f42/language/si) | 674 | 3996 | 16.9 | /mnt/stockage/packages/f42/konsole5/po/si/konsole.po | 
+ | [hr](/f42/language/hr) | 667 | 3996 | 16.7 | /mnt/stockage/packages/f42/konsole5/po/hr/konsole.po | 
+ | [th](/f42/language/th) | 660 | 3996 | 16.5 | /mnt/stockage/packages/f42/konsole5/po/th/konsole.po | 
+ | [kn](/f42/language/kn) | 626 | 3996 | 15.7 | /mnt/stockage/packages/f42/konsole5/po/kn/konsole.po | 
+ | [ml](/f42/language/ml) | 589 | 3996 | 14.7 | /mnt/stockage/packages/f42/konsole5/po/ml/konsole.po | 
+ | [tg](/f42/language/tg) | 555 | 3996 | 13.9 | /mnt/stockage/packages/f42/konsole5/po/tg/konsole.po | 
+ | [csb](/f42/language/csb) | 527 | 3996 | 13.2 | /mnt/stockage/packages/f42/konsole5/po/csb/konsole.po | 
+ | [bn](/f42/language/bn) | 526 | 3996 | 13.2 | /mnt/stockage/packages/f42/konsole5/po/bn/konsole.po | 
+ | [mk](/f42/language/mk) | 515 | 3996 | 12.9 | /mnt/stockage/packages/f42/konsole5/po/mk/konsole.po | 
+ | [fy](/f42/language/fy) | 498 | 3996 | 12.5 | /mnt/stockage/packages/f42/konsole5/po/fy/konsole.po | 
+ | [te](/f42/language/te) | 491 | 3996 | 12.3 | /mnt/stockage/packages/f42/konsole5/po/te/konsole.po | 
+ | [hi](/f42/language/hi) | 473 | 3996 | 11.8 | /mnt/stockage/packages/f42/konsole5/po/hi/konsole.po | 
+ | [hne](/f42/language/hne) | 473 | 3996 | 11.8 | /mnt/stockage/packages/f42/konsole5/po/hne/konsole.po | 
+ | [mai](/f42/language/mai) | 464 | 3996 | 11.6 | /mnt/stockage/packages/f42/konsole5/po/mai/konsole.po | 
+ | [gu](/f42/language/gu) | 448 | 3996 | 11.2 | /mnt/stockage/packages/f42/konsole5/po/gu/konsole.po | 
+ | [wa](/f42/language/wa) | 415 | 3996 | 10.4 | /mnt/stockage/packages/f42/konsole5/po/wa/konsole.po | 
+ | [hsb](/f42/language/hsb) | 367 | 3996 | 9.2 | /mnt/stockage/packages/f42/konsole5/po/hsb/konsole.po | 
+ | [bn_IN](/f42/language/bn_IN) | 352 | 3996 | 8.8 | /mnt/stockage/packages/f42/konsole5/po/bn_IN/konsole.po | 
+ | [fa](/f42/language/fa) | 346 | 3996 | 8.7 | /mnt/stockage/packages/f42/konsole5/po/fa/konsole.po | 
+ | [se](/f42/language/se) | 339 | 3996 | 8.5 | /mnt/stockage/packages/f42/konsole5/po/se/konsole.po | 
+ | [ne](/f42/language/ne) | 333 | 3996 | 8.3 | /mnt/stockage/packages/f42/konsole5/po/ne/konsole.po | 
+ | [vi](/f42/language/vi) | 316 | 3996 | 7.9 | /mnt/stockage/packages/f42/konsole5/po/vi/konsole.po | 
+ | [ku](/f42/language/ku) | 206 | 3996 | 5.2 | /mnt/stockage/packages/f42/konsole5/po/ku/konsole.po | 
+ | [uz](/f42/language/uz) | 252 | 7992 | 3.2 | /mnt/stockage/packages/f42/konsole5/po/uz@cyrillic/konsole.po/mnt/stockage/packages/f42/konsole5/po/uz/konsole.po | 
+ | [ms](/f42/language/ms) | 71 | 3996 | 1.8 | /mnt/stockage/packages/f42/konsole5/po/ms/konsole.po | 
+ | [sq](/f42/language/sq) | 70 | 3996 | 1.8 | /mnt/stockage/packages/f42/konsole5/po/sq/konsole.po | 
+ | [af](/f42/language/af) | 62 | 3996 | 1.6 | /mnt/stockage/packages/f42/konsole5/po/af/konsole.po | 
+ | [br](/f42/language/br) | 62 | 3996 | 1.6 | /mnt/stockage/packages/f42/konsole5/po/br/konsole.po | 
+ | [cy](/f42/language/cy) | 62 | 3996 | 1.6 | /mnt/stockage/packages/f42/konsole5/po/cy/konsole.po | 
+ | [xh](/f42/language/xh) | 45 | 3996 | 1.1 | /mnt/stockage/packages/f42/konsole5/po/xh/konsole.po | 
+ | [oc](/f42/language/oc) | 40 | 3996 | 1.0 | /mnt/stockage/packages/f42/konsole5/po/oc/konsole.po | 
+ | [or](/f42/language/or) | 0 | 3996 | 0.0 | /mnt/stockage/packages/f42/konsole5/po/or/konsole.po | 
 {.sortable}
 
 

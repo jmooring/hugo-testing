@@ -38,7 +38,7 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [koffice-kivio]({{< ref "/f17/package/koffice-kivio.md" >}}) | 27 | 2032 | 1.3 | Upper Sorbian | 
+ | [koffice-kivio](/f17/package/koffice-kivio) | 27 | 2032 | 1.3 | Upper Sorbian | 
 {.sortable}
 
 

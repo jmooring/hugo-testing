@@ -18,16 +18,16 @@ The package trytond-sale (version 2.6.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [bg]({{< ref "/f22/language/bg.md" >}}) | 564 | 564 | 100.0 | /mnt/stockage/packages/f22/trytond-sale/locale/bg_BG.po | 
- | [ca]({{< ref "/f22/language/ca.md" >}}) | 568 | 568 | 100.0 | /mnt/stockage/packages/f22/trytond-sale/locale/ca_ES.po | 
- | [de]({{< ref "/f22/language/de.md" >}}) | 578 | 578 | 100.0 | /mnt/stockage/packages/f22/trytond-sale/locale/de_DE.po | 
- | [es]({{< ref "/f22/language/es.md" >}}) | 568 | 568 | 100.0 | /mnt/stockage/packages/f22/trytond-sale/locale/es_ES.po | 
- | [es_AR]({{< ref "/f22/language/es_AR.md" >}}) | 568 | 568 | 100.0 | /mnt/stockage/packages/f22/trytond-sale/locale/es_AR.po | 
- | [es_CO]({{< ref "/f22/language/es_CO.md" >}}) | 568 | 568 | 100.0 | /mnt/stockage/packages/f22/trytond-sale/locale/es_CO.po | 
- | [fr]({{< ref "/f22/language/fr.md" >}}) | 747 | 747 | 100.0 | /mnt/stockage/packages/f22/trytond-sale/locale/fr_FR.po | 
- | [nl]({{< ref "/f22/language/nl.md" >}}) | 337 | 564 | 59.8 | /mnt/stockage/packages/f22/trytond-sale/locale/nl_NL.po | 
- | [cs]({{< ref "/f22/language/cs.md" >}}) | 0 | 564 | 0.0 | /mnt/stockage/packages/f22/trytond-sale/locale/cs_CZ.po | 
- | [ru]({{< ref "/f22/language/ru.md" >}}) | 0 | 564 | 0.0 | /mnt/stockage/packages/f22/trytond-sale/locale/ru_RU.po | 
+ | [bg](/f22/language/bg) | 564 | 564 | 100.0 | /mnt/stockage/packages/f22/trytond-sale/locale/bg_BG.po | 
+ | [ca](/f22/language/ca) | 568 | 568 | 100.0 | /mnt/stockage/packages/f22/trytond-sale/locale/ca_ES.po | 
+ | [de](/f22/language/de) | 578 | 578 | 100.0 | /mnt/stockage/packages/f22/trytond-sale/locale/de_DE.po | 
+ | [es](/f22/language/es) | 568 | 568 | 100.0 | /mnt/stockage/packages/f22/trytond-sale/locale/es_ES.po | 
+ | [es_AR](/f22/language/es_AR) | 568 | 568 | 100.0 | /mnt/stockage/packages/f22/trytond-sale/locale/es_AR.po | 
+ | [es_CO](/f22/language/es_CO) | 568 | 568 | 100.0 | /mnt/stockage/packages/f22/trytond-sale/locale/es_CO.po | 
+ | [fr](/f22/language/fr) | 747 | 747 | 100.0 | /mnt/stockage/packages/f22/trytond-sale/locale/fr_FR.po | 
+ | [nl](/f22/language/nl) | 337 | 564 | 59.8 | /mnt/stockage/packages/f22/trytond-sale/locale/nl_NL.po | 
+ | [cs](/f22/language/cs) | 0 | 564 | 0.0 | /mnt/stockage/packages/f22/trytond-sale/locale/cs_CZ.po | 
+ | [ru](/f22/language/ru) | 0 | 564 | 0.0 | /mnt/stockage/packages/f22/trytond-sale/locale/ru_RU.po | 
 {.sortable}
 
 

@@ -18,20 +18,20 @@ The package sdcc (version 3.7.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [da]({{< ref "/f28/language/da.md" >}}) | 7840 | 7840 | 100.0 | /mnt/stockage/packages/f28/sdcc/support/sdbinutils/bfd/po/da.po | 
- | [es]({{< ref "/f28/language/es.md" >}}) | 8369 | 8369 | 100.0 | /mnt/stockage/packages/f28/sdcc/support/sdbinutils/bfd/po/es.po | 
- | [fi]({{< ref "/f28/language/fi.md" >}}) | 9119 | 9119 | 100.0 | /mnt/stockage/packages/f28/sdcc/support/sdbinutils/bfd/po/fi.po | 
- | [fr]({{< ref "/f28/language/fr.md" >}}) | 8369 | 8369 | 100.0 | /mnt/stockage/packages/f28/sdcc/support/sdbinutils/bfd/po/fr.po | 
- | [id]({{< ref "/f28/language/id.md" >}}) | 6373 | 6373 | 100.0 | /mnt/stockage/packages/f28/sdcc/support/sdbinutils/bfd/po/id.po | 
- | [ro]({{< ref "/f28/language/ro.md" >}}) | 4098 | 4098 | 100.0 | /mnt/stockage/packages/f28/sdcc/support/sdbinutils/bfd/po/ro.po | 
- | [ru]({{< ref "/f28/language/ru.md" >}}) | 8369 | 8369 | 100.0 | /mnt/stockage/packages/f28/sdcc/support/sdbinutils/bfd/po/ru.po | 
- | [sv]({{< ref "/f28/language/sv.md" >}}) | 4098 | 4098 | 100.0 | /mnt/stockage/packages/f28/sdcc/support/sdbinutils/bfd/po/sv.po | 
- | [tr]({{< ref "/f28/language/tr.md" >}}) | 4098 | 4098 | 100.0 | /mnt/stockage/packages/f28/sdcc/support/sdbinutils/bfd/po/tr.po | 
- | [uk]({{< ref "/f28/language/uk.md" >}}) | 8369 | 8369 | 100.0 | /mnt/stockage/packages/f28/sdcc/support/sdbinutils/bfd/po/uk.po | 
- | [vi]({{< ref "/f28/language/vi.md" >}}) | 8369 | 8369 | 100.0 | /mnt/stockage/packages/f28/sdcc/support/sdbinutils/bfd/po/vi.po | 
- | [ja]({{< ref "/f28/language/ja.md" >}}) | 6811 | 8230 | 82.8 | /mnt/stockage/packages/f28/sdcc/support/sdbinutils/bfd/po/ja.po | 
- | [zh_Hans]({{< ref "/f28/language/zh_Hans.md" >}}) | 1837 | 3695 | 49.7 | /mnt/stockage/packages/f28/sdcc/support/sdbinutils/bfd/po/zh_CN.po | 
- | [rw]({{< ref "/f28/language/rw.md" >}}) | 2 | 4098 | 0.0 | /mnt/stockage/packages/f28/sdcc/support/sdbinutils/bfd/po/rw.po | 
+ | [da](/f28/language/da) | 7840 | 7840 | 100.0 | /mnt/stockage/packages/f28/sdcc/support/sdbinutils/bfd/po/da.po | 
+ | [es](/f28/language/es) | 8369 | 8369 | 100.0 | /mnt/stockage/packages/f28/sdcc/support/sdbinutils/bfd/po/es.po | 
+ | [fi](/f28/language/fi) | 9119 | 9119 | 100.0 | /mnt/stockage/packages/f28/sdcc/support/sdbinutils/bfd/po/fi.po | 
+ | [fr](/f28/language/fr) | 8369 | 8369 | 100.0 | /mnt/stockage/packages/f28/sdcc/support/sdbinutils/bfd/po/fr.po | 
+ | [id](/f28/language/id) | 6373 | 6373 | 100.0 | /mnt/stockage/packages/f28/sdcc/support/sdbinutils/bfd/po/id.po | 
+ | [ro](/f28/language/ro) | 4098 | 4098 | 100.0 | /mnt/stockage/packages/f28/sdcc/support/sdbinutils/bfd/po/ro.po | 
+ | [ru](/f28/language/ru) | 8369 | 8369 | 100.0 | /mnt/stockage/packages/f28/sdcc/support/sdbinutils/bfd/po/ru.po | 
+ | [sv](/f28/language/sv) | 4098 | 4098 | 100.0 | /mnt/stockage/packages/f28/sdcc/support/sdbinutils/bfd/po/sv.po | 
+ | [tr](/f28/language/tr) | 4098 | 4098 | 100.0 | /mnt/stockage/packages/f28/sdcc/support/sdbinutils/bfd/po/tr.po | 
+ | [uk](/f28/language/uk) | 8369 | 8369 | 100.0 | /mnt/stockage/packages/f28/sdcc/support/sdbinutils/bfd/po/uk.po | 
+ | [vi](/f28/language/vi) | 8369 | 8369 | 100.0 | /mnt/stockage/packages/f28/sdcc/support/sdbinutils/bfd/po/vi.po | 
+ | [ja](/f28/language/ja) | 6811 | 8230 | 82.8 | /mnt/stockage/packages/f28/sdcc/support/sdbinutils/bfd/po/ja.po | 
+ | [zh_Hans](/f28/language/zh_Hans) | 1837 | 3695 | 49.7 | /mnt/stockage/packages/f28/sdcc/support/sdbinutils/bfd/po/zh_CN.po | 
+ | [rw](/f28/language/rw) | 2 | 4098 | 0.0 | /mnt/stockage/packages/f28/sdcc/support/sdbinutils/bfd/po/rw.po | 
 {.sortable}
 
 

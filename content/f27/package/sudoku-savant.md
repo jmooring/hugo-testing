@@ -18,8 +18,8 @@ The package sudoku-savant (version 1.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f27/language/de.md" >}}) | 325 | 368 | 88.3 | /mnt/stockage/packages/f27/sudoku-savant/po/de.po | 
- | [fr]({{< ref "/f27/language/fr.md" >}}) | 237 | 368 | 64.4 | /mnt/stockage/packages/f27/sudoku-savant/po/fr.po | 
+ | [de](/f27/language/de) | 325 | 368 | 88.3 | /mnt/stockage/packages/f27/sudoku-savant/po/de.po | 
+ | [fr](/f27/language/fr) | 237 | 368 | 64.4 | /mnt/stockage/packages/f27/sudoku-savant/po/fr.po | 
 {.sortable}
 
 

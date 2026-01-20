@@ -18,27 +18,27 @@ The package python-formencode (version 1.2.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f17/language/fr.md" >}}) | 760 | 765 | 99.3 | /mnt/stockage/packages/f17/python-formencode/formencode/i18n/fr/LC_MESSAGES/FormEncode.po | 
- | [de]({{< ref "/f17/language/de.md" >}}) | 604 | 765 | 79.0 | /mnt/stockage/packages/f17/python-formencode/formencode/i18n/de/LC_MESSAGES/FormEncode.po | 
- | [tr]({{< ref "/f17/language/tr.md" >}}) | 600 | 765 | 78.4 | /mnt/stockage/packages/f17/python-formencode/formencode/i18n/tr/LC_MESSAGES/FormEncode.po | 
- | [it]({{< ref "/f17/language/it.md" >}}) | 558 | 765 | 72.9 | /mnt/stockage/packages/f17/python-formencode/formencode/i18n/it/LC_MESSAGES/FormEncode.po | 
- | [nl]({{< ref "/f17/language/nl.md" >}}) | 540 | 760 | 71.1 | /mnt/stockage/packages/f17/python-formencode/formencode/i18n/nl/LC_MESSAGES/FormEncode.po | 
- | [et]({{< ref "/f17/language/et.md" >}}) | 542 | 765 | 70.8 | /mnt/stockage/packages/f17/python-formencode/formencode/i18n/et/LC_MESSAGES/FormEncode.po | 
- | [el]({{< ref "/f17/language/el.md" >}}) | 540 | 765 | 70.6 | /mnt/stockage/packages/f17/python-formencode/formencode/i18n/el/LC_MESSAGES/FormEncode.po | 
- | [es]({{< ref "/f17/language/es.md" >}}) | 540 | 765 | 70.6 | /mnt/stockage/packages/f17/python-formencode/formencode/i18n/es/LC_MESSAGES/FormEncode.po | 
- | [ja]({{< ref "/f17/language/ja.md" >}}) | 540 | 765 | 70.6 | /mnt/stockage/packages/f17/python-formencode/formencode/i18n/ja/LC_MESSAGES/FormEncode.po | 
- | [nb_NO]({{< ref "/f17/language/nb_NO.md" >}}) | 540 | 765 | 70.6 | /mnt/stockage/packages/f17/python-formencode/formencode/i18n/nb_NO/LC_MESSAGES/FormEncode.po | 
- | [pl]({{< ref "/f17/language/pl.md" >}}) | 540 | 765 | 70.6 | /mnt/stockage/packages/f17/python-formencode/formencode/i18n/pl/LC_MESSAGES/FormEncode.po | 
- | [pt_BR]({{< ref "/f17/language/pt_BR.md" >}}) | 540 | 765 | 70.6 | /mnt/stockage/packages/f17/python-formencode/formencode/i18n/pt_BR/LC_MESSAGES/FormEncode.po | 
- | [pt_PT]({{< ref "/f17/language/pt_PT.md" >}}) | 540 | 765 | 70.6 | /mnt/stockage/packages/f17/python-formencode/formencode/i18n/pt_PT/LC_MESSAGES/FormEncode.po | 
- | [sk]({{< ref "/f17/language/sk.md" >}}) | 540 | 765 | 70.6 | /mnt/stockage/packages/f17/python-formencode/formencode/i18n/sk/LC_MESSAGES/FormEncode.po | 
- | [zh_Hans]({{< ref "/f17/language/zh_Hans.md" >}}) | 540 | 765 | 70.6 | /mnt/stockage/packages/f17/python-formencode/formencode/i18n/zh_CN/LC_MESSAGES/FormEncode.po | 
- | [zh_Hant]({{< ref "/f17/language/zh_Hant.md" >}}) | 540 | 765 | 70.6 | /mnt/stockage/packages/f17/python-formencode/formencode/i18n/zh_TW/LC_MESSAGES/FormEncode.po | 
- | [ru]({{< ref "/f17/language/ru.md" >}}) | 536 | 761 | 70.4 | /mnt/stockage/packages/f17/python-formencode/formencode/i18n/ru/LC_MESSAGES/FormEncode.po | 
- | [fi]({{< ref "/f17/language/fi.md" >}}) | 536 | 765 | 70.1 | /mnt/stockage/packages/f17/python-formencode/formencode/i18n/fi/LC_MESSAGES/FormEncode.po | 
- | [lt]({{< ref "/f17/language/lt.md" >}}) | 528 | 765 | 69.0 | /mnt/stockage/packages/f17/python-formencode/formencode/i18n/lt/LC_MESSAGES/FormEncode.po | 
- | [cs]({{< ref "/f17/language/cs.md" >}}) | 527 | 765 | 68.9 | /mnt/stockage/packages/f17/python-formencode/formencode/i18n/cs/LC_MESSAGES/FormEncode.po | 
- | [sl]({{< ref "/f17/language/sl.md" >}}) | 498 | 765 | 65.1 | /mnt/stockage/packages/f17/python-formencode/formencode/i18n/sl/LC_MESSAGES/FormEncode.po | 
+ | [fr](/f17/language/fr) | 760 | 765 | 99.3 | /mnt/stockage/packages/f17/python-formencode/formencode/i18n/fr/LC_MESSAGES/FormEncode.po | 
+ | [de](/f17/language/de) | 604 | 765 | 79.0 | /mnt/stockage/packages/f17/python-formencode/formencode/i18n/de/LC_MESSAGES/FormEncode.po | 
+ | [tr](/f17/language/tr) | 600 | 765 | 78.4 | /mnt/stockage/packages/f17/python-formencode/formencode/i18n/tr/LC_MESSAGES/FormEncode.po | 
+ | [it](/f17/language/it) | 558 | 765 | 72.9 | /mnt/stockage/packages/f17/python-formencode/formencode/i18n/it/LC_MESSAGES/FormEncode.po | 
+ | [nl](/f17/language/nl) | 540 | 760 | 71.1 | /mnt/stockage/packages/f17/python-formencode/formencode/i18n/nl/LC_MESSAGES/FormEncode.po | 
+ | [et](/f17/language/et) | 542 | 765 | 70.8 | /mnt/stockage/packages/f17/python-formencode/formencode/i18n/et/LC_MESSAGES/FormEncode.po | 
+ | [el](/f17/language/el) | 540 | 765 | 70.6 | /mnt/stockage/packages/f17/python-formencode/formencode/i18n/el/LC_MESSAGES/FormEncode.po | 
+ | [es](/f17/language/es) | 540 | 765 | 70.6 | /mnt/stockage/packages/f17/python-formencode/formencode/i18n/es/LC_MESSAGES/FormEncode.po | 
+ | [ja](/f17/language/ja) | 540 | 765 | 70.6 | /mnt/stockage/packages/f17/python-formencode/formencode/i18n/ja/LC_MESSAGES/FormEncode.po | 
+ | [nb_NO](/f17/language/nb_NO) | 540 | 765 | 70.6 | /mnt/stockage/packages/f17/python-formencode/formencode/i18n/nb_NO/LC_MESSAGES/FormEncode.po | 
+ | [pl](/f17/language/pl) | 540 | 765 | 70.6 | /mnt/stockage/packages/f17/python-formencode/formencode/i18n/pl/LC_MESSAGES/FormEncode.po | 
+ | [pt_BR](/f17/language/pt_BR) | 540 | 765 | 70.6 | /mnt/stockage/packages/f17/python-formencode/formencode/i18n/pt_BR/LC_MESSAGES/FormEncode.po | 
+ | [pt_PT](/f17/language/pt_PT) | 540 | 765 | 70.6 | /mnt/stockage/packages/f17/python-formencode/formencode/i18n/pt_PT/LC_MESSAGES/FormEncode.po | 
+ | [sk](/f17/language/sk) | 540 | 765 | 70.6 | /mnt/stockage/packages/f17/python-formencode/formencode/i18n/sk/LC_MESSAGES/FormEncode.po | 
+ | [zh_Hans](/f17/language/zh_Hans) | 540 | 765 | 70.6 | /mnt/stockage/packages/f17/python-formencode/formencode/i18n/zh_CN/LC_MESSAGES/FormEncode.po | 
+ | [zh_Hant](/f17/language/zh_Hant) | 540 | 765 | 70.6 | /mnt/stockage/packages/f17/python-formencode/formencode/i18n/zh_TW/LC_MESSAGES/FormEncode.po | 
+ | [ru](/f17/language/ru) | 536 | 761 | 70.4 | /mnt/stockage/packages/f17/python-formencode/formencode/i18n/ru/LC_MESSAGES/FormEncode.po | 
+ | [fi](/f17/language/fi) | 536 | 765 | 70.1 | /mnt/stockage/packages/f17/python-formencode/formencode/i18n/fi/LC_MESSAGES/FormEncode.po | 
+ | [lt](/f17/language/lt) | 528 | 765 | 69.0 | /mnt/stockage/packages/f17/python-formencode/formencode/i18n/lt/LC_MESSAGES/FormEncode.po | 
+ | [cs](/f17/language/cs) | 527 | 765 | 68.9 | /mnt/stockage/packages/f17/python-formencode/formencode/i18n/cs/LC_MESSAGES/FormEncode.po | 
+ | [sl](/f17/language/sl) | 498 | 765 | 65.1 | /mnt/stockage/packages/f17/python-formencode/formencode/i18n/sl/LC_MESSAGES/FormEncode.po | 
 {.sortable}
 
 

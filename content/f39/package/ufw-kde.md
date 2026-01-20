@@ -18,27 +18,27 @@ The package ufw-kde (version 0.5.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [bs]({{< ref "/f39/language/bs.md" >}}) | 815 | 815 | 100.0 | /mnt/stockage/packages/f39/ufw-kde/po/bs/kcm_ufw.po | 
- | [ca]({{< ref "/f39/language/ca.md" >}}) | 815 | 815 | 100.0 | /mnt/stockage/packages/f39/ufw-kde/po/ca/kcm_ufw.po | 
- | [ca@valencia]({{< ref "/f39/language/ca@valencia.md" >}}) | 815 | 815 | 100.0 | /mnt/stockage/packages/f39/ufw-kde/po/ca@valencia/kcm_ufw.po | 
- | [de]({{< ref "/f39/language/de.md" >}}) | 815 | 815 | 100.0 | /mnt/stockage/packages/f39/ufw-kde/po/de/kcm_ufw.po | 
- | [es]({{< ref "/f39/language/es.md" >}}) | 815 | 815 | 100.0 | /mnt/stockage/packages/f39/ufw-kde/po/es/kcm_ufw.po | 
- | [fr]({{< ref "/f39/language/fr.md" >}}) | 815 | 815 | 100.0 | /mnt/stockage/packages/f39/ufw-kde/po/fr/kcm_ufw.po | 
- | [gl]({{< ref "/f39/language/gl.md" >}}) | 815 | 815 | 100.0 | /mnt/stockage/packages/f39/ufw-kde/po/gl/kcm_ufw.po | 
- | [nl]({{< ref "/f39/language/nl.md" >}}) | 815 | 815 | 100.0 | /mnt/stockage/packages/f39/ufw-kde/po/nl/kcm_ufw.po | 
- | [pl]({{< ref "/f39/language/pl.md" >}}) | 815 | 815 | 100.0 | /mnt/stockage/packages/f39/ufw-kde/po/pl/kcm_ufw.po | 
- | [pt]({{< ref "/f39/language/pt.md" >}}) | 815 | 815 | 100.0 | /mnt/stockage/packages/f39/ufw-kde/po/pt/kcm_ufw.po | 
- | [pt_BR]({{< ref "/f39/language/pt_BR.md" >}}) | 815 | 815 | 100.0 | /mnt/stockage/packages/f39/ufw-kde/po/pt_BR/kcm_ufw.po | 
- | [sk]({{< ref "/f39/language/sk.md" >}}) | 815 | 815 | 100.0 | /mnt/stockage/packages/f39/ufw-kde/po/sk/kcm_ufw.po | 
- | [sv]({{< ref "/f39/language/sv.md" >}}) | 815 | 815 | 100.0 | /mnt/stockage/packages/f39/ufw-kde/po/sv/kcm_ufw.po | 
- | [uk]({{< ref "/f39/language/uk.md" >}}) | 815 | 815 | 100.0 | /mnt/stockage/packages/f39/ufw-kde/po/uk/kcm_ufw.po | 
- | [ko]({{< ref "/f39/language/ko.md" >}}) | 810 | 815 | 99.4 | /mnt/stockage/packages/f39/ufw-kde/po/ko/kcm_ufw.po | 
- | [fi]({{< ref "/f39/language/fi.md" >}}) | 808 | 815 | 99.1 | /mnt/stockage/packages/f39/ufw-kde/po/fi/kcm_ufw.po | 
- | [hu]({{< ref "/f39/language/hu.md" >}}) | 663 | 815 | 81.3 | /mnt/stockage/packages/f39/ufw-kde/po/hu/kcm_ufw.po | 
- | [cs]({{< ref "/f39/language/cs.md" >}}) | 199 | 815 | 24.4 | /mnt/stockage/packages/f39/ufw-kde/po/cs/kcm_ufw.po | 
- | [lt]({{< ref "/f39/language/lt.md" >}}) | 145 | 815 | 17.8 | /mnt/stockage/packages/f39/ufw-kde/po/lt/kcm_ufw.po | 
- | [ast]({{< ref "/f39/language/ast.md" >}}) | 4 | 815 | 0.5 | /mnt/stockage/packages/f39/ufw-kde/po/ast/kcm_ufw.po | 
- | [ja]({{< ref "/f39/language/ja.md" >}}) | 0 | 815 | 0.0 | /mnt/stockage/packages/f39/ufw-kde/po/ja/kcm_ufw.po | 
+ | [bs](/f39/language/bs) | 815 | 815 | 100.0 | /mnt/stockage/packages/f39/ufw-kde/po/bs/kcm_ufw.po | 
+ | [ca](/f39/language/ca) | 815 | 815 | 100.0 | /mnt/stockage/packages/f39/ufw-kde/po/ca/kcm_ufw.po | 
+ | [ca@valencia](/f39/language/ca@valencia) | 815 | 815 | 100.0 | /mnt/stockage/packages/f39/ufw-kde/po/ca@valencia/kcm_ufw.po | 
+ | [de](/f39/language/de) | 815 | 815 | 100.0 | /mnt/stockage/packages/f39/ufw-kde/po/de/kcm_ufw.po | 
+ | [es](/f39/language/es) | 815 | 815 | 100.0 | /mnt/stockage/packages/f39/ufw-kde/po/es/kcm_ufw.po | 
+ | [fr](/f39/language/fr) | 815 | 815 | 100.0 | /mnt/stockage/packages/f39/ufw-kde/po/fr/kcm_ufw.po | 
+ | [gl](/f39/language/gl) | 815 | 815 | 100.0 | /mnt/stockage/packages/f39/ufw-kde/po/gl/kcm_ufw.po | 
+ | [nl](/f39/language/nl) | 815 | 815 | 100.0 | /mnt/stockage/packages/f39/ufw-kde/po/nl/kcm_ufw.po | 
+ | [pl](/f39/language/pl) | 815 | 815 | 100.0 | /mnt/stockage/packages/f39/ufw-kde/po/pl/kcm_ufw.po | 
+ | [pt](/f39/language/pt) | 815 | 815 | 100.0 | /mnt/stockage/packages/f39/ufw-kde/po/pt/kcm_ufw.po | 
+ | [pt_BR](/f39/language/pt_BR) | 815 | 815 | 100.0 | /mnt/stockage/packages/f39/ufw-kde/po/pt_BR/kcm_ufw.po | 
+ | [sk](/f39/language/sk) | 815 | 815 | 100.0 | /mnt/stockage/packages/f39/ufw-kde/po/sk/kcm_ufw.po | 
+ | [sv](/f39/language/sv) | 815 | 815 | 100.0 | /mnt/stockage/packages/f39/ufw-kde/po/sv/kcm_ufw.po | 
+ | [uk](/f39/language/uk) | 815 | 815 | 100.0 | /mnt/stockage/packages/f39/ufw-kde/po/uk/kcm_ufw.po | 
+ | [ko](/f39/language/ko) | 810 | 815 | 99.4 | /mnt/stockage/packages/f39/ufw-kde/po/ko/kcm_ufw.po | 
+ | [fi](/f39/language/fi) | 808 | 815 | 99.1 | /mnt/stockage/packages/f39/ufw-kde/po/fi/kcm_ufw.po | 
+ | [hu](/f39/language/hu) | 663 | 815 | 81.3 | /mnt/stockage/packages/f39/ufw-kde/po/hu/kcm_ufw.po | 
+ | [cs](/f39/language/cs) | 199 | 815 | 24.4 | /mnt/stockage/packages/f39/ufw-kde/po/cs/kcm_ufw.po | 
+ | [lt](/f39/language/lt) | 145 | 815 | 17.8 | /mnt/stockage/packages/f39/ufw-kde/po/lt/kcm_ufw.po | 
+ | [ast](/f39/language/ast) | 4 | 815 | 0.5 | /mnt/stockage/packages/f39/ufw-kde/po/ast/kcm_ufw.po | 
+ | [ja](/f39/language/ja) | 0 | 815 | 0.0 | /mnt/stockage/packages/f39/ufw-kde/po/ja/kcm_ufw.po | 
 {.sortable}
 
 

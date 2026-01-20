@@ -18,82 +18,82 @@ The package mousetweaks (version 3.32.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [an]({{< ref "/f41/language/an.md" >}}) | 114 | 114 | 100.0 | /mnt/stockage/packages/f41/mousetweaks/po/an.po | 
- | [ar]({{< ref "/f41/language/ar.md" >}}) | 114 | 114 | 100.0 | /mnt/stockage/packages/f41/mousetweaks/po/ar.po | 
- | [as]({{< ref "/f41/language/as.md" >}}) | 114 | 114 | 100.0 | /mnt/stockage/packages/f41/mousetweaks/po/as.po | 
- | [ast]({{< ref "/f41/language/ast.md" >}}) | 730 | 730 | 100.0 | /mnt/stockage/packages/f41/mousetweaks/po/ast.po | 
- | [be]({{< ref "/f41/language/be.md" >}}) | 114 | 114 | 100.0 | /mnt/stockage/packages/f41/mousetweaks/po/be.po | 
- | [bg]({{< ref "/f41/language/bg.md" >}}) | 114 | 114 | 100.0 | /mnt/stockage/packages/f41/mousetweaks/po/bg.po | 
- | [bn]({{< ref "/f41/language/bn.md" >}}) | 730 | 730 | 100.0 | /mnt/stockage/packages/f41/mousetweaks/po/bn.po | 
- | [bn_IN]({{< ref "/f41/language/bn_IN.md" >}}) | 715 | 715 | 100.0 | /mnt/stockage/packages/f41/mousetweaks/po/bn_IN.po | 
- | [bs]({{< ref "/f41/language/bs.md" >}}) | 114 | 114 | 100.0 | /mnt/stockage/packages/f41/mousetweaks/po/bs.po | 
- | [ca]({{< ref "/f41/language/ca.md" >}}) | 114 | 114 | 100.0 | /mnt/stockage/packages/f41/mousetweaks/po/ca.po | 
- | [ca@valencia]({{< ref "/f41/language/ca@valencia.md" >}}) | 114 | 114 | 100.0 | /mnt/stockage/packages/f41/mousetweaks/po/ca@valencia.po | 
- | [cs]({{< ref "/f41/language/cs.md" >}}) | 131 | 131 | 100.0 | /mnt/stockage/packages/f41/mousetweaks/po/cs.po | 
- | [da]({{< ref "/f41/language/da.md" >}}) | 131 | 131 | 100.0 | /mnt/stockage/packages/f41/mousetweaks/po/da.po | 
- | [de]({{< ref "/f41/language/de.md" >}}) | 114 | 114 | 100.0 | /mnt/stockage/packages/f41/mousetweaks/po/de.po | 
- | [el]({{< ref "/f41/language/el.md" >}}) | 114 | 114 | 100.0 | /mnt/stockage/packages/f41/mousetweaks/po/el.po | 
- | [en_GB]({{< ref "/f41/language/en_GB.md" >}}) | 114 | 114 | 100.0 | /mnt/stockage/packages/f41/mousetweaks/po/en_GB.po | 
- | [eo]({{< ref "/f41/language/eo.md" >}}) | 114 | 114 | 100.0 | /mnt/stockage/packages/f41/mousetweaks/po/eo.po | 
- | [es]({{< ref "/f41/language/es.md" >}}) | 131 | 131 | 100.0 | /mnt/stockage/packages/f41/mousetweaks/po/es.po | 
- | [et]({{< ref "/f41/language/et.md" >}}) | 114 | 114 | 100.0 | /mnt/stockage/packages/f41/mousetweaks/po/et.po | 
- | [eu]({{< ref "/f41/language/eu.md" >}}) | 114 | 114 | 100.0 | /mnt/stockage/packages/f41/mousetweaks/po/eu.po | 
- | [fa]({{< ref "/f41/language/fa.md" >}}) | 114 | 114 | 100.0 | /mnt/stockage/packages/f41/mousetweaks/po/fa.po | 
- | [fr]({{< ref "/f41/language/fr.md" >}}) | 114 | 114 | 100.0 | /mnt/stockage/packages/f41/mousetweaks/po/fr.po | 
- | [fur]({{< ref "/f41/language/fur.md" >}}) | 114 | 114 | 100.0 | /mnt/stockage/packages/f41/mousetweaks/po/fur.po | 
- | [gd]({{< ref "/f41/language/gd.md" >}}) | 114 | 114 | 100.0 | /mnt/stockage/packages/f41/mousetweaks/po/gd.po | 
- | [gl]({{< ref "/f41/language/gl.md" >}}) | 114 | 114 | 100.0 | /mnt/stockage/packages/f41/mousetweaks/po/gl.po | 
- | [gu]({{< ref "/f41/language/gu.md" >}}) | 114 | 114 | 100.0 | /mnt/stockage/packages/f41/mousetweaks/po/gu.po | 
- | [he]({{< ref "/f41/language/he.md" >}}) | 114 | 114 | 100.0 | /mnt/stockage/packages/f41/mousetweaks/po/he.po | 
- | [hi]({{< ref "/f41/language/hi.md" >}}) | 114 | 114 | 100.0 | /mnt/stockage/packages/f41/mousetweaks/po/hi.po | 
- | [hr]({{< ref "/f41/language/hr.md" >}}) | 114 | 114 | 100.0 | /mnt/stockage/packages/f41/mousetweaks/po/hr.po | 
- | [ht]({{< ref "/f41/language/ht.md" >}}) | 114 | 114 | 100.0 | /mnt/stockage/packages/f41/mousetweaks/po/ht.po | 
- | [hu]({{< ref "/f41/language/hu.md" >}}) | 131 | 131 | 100.0 | /mnt/stockage/packages/f41/mousetweaks/po/hu.po | 
- | [id]({{< ref "/f41/language/id.md" >}}) | 131 | 131 | 100.0 | /mnt/stockage/packages/f41/mousetweaks/po/id.po | 
- | [it]({{< ref "/f41/language/it.md" >}}) | 131 | 131 | 100.0 | /mnt/stockage/packages/f41/mousetweaks/po/it.po | 
- | [ja]({{< ref "/f41/language/ja.md" >}}) | 114 | 114 | 100.0 | /mnt/stockage/packages/f41/mousetweaks/po/ja.po | 
- | [kk]({{< ref "/f41/language/kk.md" >}}) | 114 | 114 | 100.0 | /mnt/stockage/packages/f41/mousetweaks/po/kk.po | 
- | [kn]({{< ref "/f41/language/kn.md" >}}) | 715 | 715 | 100.0 | /mnt/stockage/packages/f41/mousetweaks/po/kn.po | 
- | [ko]({{< ref "/f41/language/ko.md" >}}) | 114 | 114 | 100.0 | /mnt/stockage/packages/f41/mousetweaks/po/ko.po | 
- | [lo]({{< ref "/f41/language/lo.md" >}}) | 114 | 114 | 100.0 | /mnt/stockage/packages/f41/mousetweaks/po/lo.po | 
- | [lt]({{< ref "/f41/language/lt.md" >}}) | 114 | 114 | 100.0 | /mnt/stockage/packages/f41/mousetweaks/po/lt.po | 
- | [lv]({{< ref "/f41/language/lv.md" >}}) | 114 | 114 | 100.0 | /mnt/stockage/packages/f41/mousetweaks/po/lv.po | 
- | [mk]({{< ref "/f41/language/mk.md" >}}) | 294 | 294 | 100.0 | /mnt/stockage/packages/f41/mousetweaks/po/mk.po | 
- | [ml]({{< ref "/f41/language/ml.md" >}}) | 114 | 114 | 100.0 | /mnt/stockage/packages/f41/mousetweaks/po/ml.po | 
- | [mr]({{< ref "/f41/language/mr.md" >}}) | 715 | 715 | 100.0 | /mnt/stockage/packages/f41/mousetweaks/po/mr.po | 
- | [nb_NO]({{< ref "/f41/language/nb_NO.md" >}}) | 114 | 114 | 100.0 | /mnt/stockage/packages/f41/mousetweaks/po/nb.po | 
- | [ne]({{< ref "/f41/language/ne.md" >}}) | 114 | 114 | 100.0 | /mnt/stockage/packages/f41/mousetweaks/po/ne.po | 
- | [nl]({{< ref "/f41/language/nl.md" >}}) | 131 | 131 | 100.0 | /mnt/stockage/packages/f41/mousetweaks/po/nl.po | 
- | [nn]({{< ref "/f41/language/nn.md" >}}) | 294 | 294 | 100.0 | /mnt/stockage/packages/f41/mousetweaks/po/nn.po | 
- | [oc]({{< ref "/f41/language/oc.md" >}}) | 114 | 114 | 100.0 | /mnt/stockage/packages/f41/mousetweaks/po/oc.po | 
- | [or]({{< ref "/f41/language/or.md" >}}) | 715 | 715 | 100.0 | /mnt/stockage/packages/f41/mousetweaks/po/or.po | 
- | [pa]({{< ref "/f41/language/pa.md" >}}) | 114 | 114 | 100.0 | /mnt/stockage/packages/f41/mousetweaks/po/pa.po | 
- | [pl]({{< ref "/f41/language/pl.md" >}}) | 131 | 131 | 100.0 | /mnt/stockage/packages/f41/mousetweaks/po/pl.po | 
- | [pt]({{< ref "/f41/language/pt.md" >}}) | 114 | 114 | 100.0 | /mnt/stockage/packages/f41/mousetweaks/po/pt.po | 
- | [pt_BR]({{< ref "/f41/language/pt_BR.md" >}}) | 131 | 131 | 100.0 | /mnt/stockage/packages/f41/mousetweaks/po/pt_BR.po | 
- | [ro]({{< ref "/f41/language/ro.md" >}}) | 114 | 114 | 100.0 | /mnt/stockage/packages/f41/mousetweaks/po/ro.po | 
- | [ru]({{< ref "/f41/language/ru.md" >}}) | 114 | 114 | 100.0 | /mnt/stockage/packages/f41/mousetweaks/po/ru.po | 
- | [sk]({{< ref "/f41/language/sk.md" >}}) | 114 | 114 | 100.0 | /mnt/stockage/packages/f41/mousetweaks/po/sk.po | 
- | [sl]({{< ref "/f41/language/sl.md" >}}) | 114 | 114 | 100.0 | /mnt/stockage/packages/f41/mousetweaks/po/sl.po | 
- | [sq]({{< ref "/f41/language/sq.md" >}}) | 426 | 426 | 100.0 | /mnt/stockage/packages/f41/mousetweaks/po/sq.po | 
- | [sr]({{< ref "/f41/language/sr.md" >}}) | 114 | 114 | 100.0 | /mnt/stockage/packages/f41/mousetweaks/po/sr.po | 
- | [sr_Latn]({{< ref "/f41/language/sr_Latn.md" >}}) | 114 | 114 | 100.0 | /mnt/stockage/packages/f41/mousetweaks/po/sr@latin.po | 
- | [sv]({{< ref "/f41/language/sv.md" >}}) | 131 | 131 | 100.0 | /mnt/stockage/packages/f41/mousetweaks/po/sv.po | 
- | [ta]({{< ref "/f41/language/ta.md" >}}) | 114 | 114 | 100.0 | /mnt/stockage/packages/f41/mousetweaks/po/ta.po | 
- | [te]({{< ref "/f41/language/te.md" >}}) | 114 | 114 | 100.0 | /mnt/stockage/packages/f41/mousetweaks/po/te.po | 
- | [tg]({{< ref "/f41/language/tg.md" >}}) | 114 | 114 | 100.0 | /mnt/stockage/packages/f41/mousetweaks/po/tg.po | 
- | [th]({{< ref "/f41/language/th.md" >}}) | 114 | 114 | 100.0 | /mnt/stockage/packages/f41/mousetweaks/po/th.po | 
- | [tr]({{< ref "/f41/language/tr.md" >}}) | 131 | 131 | 100.0 | /mnt/stockage/packages/f41/mousetweaks/po/tr.po | 
- | [ug]({{< ref "/f41/language/ug.md" >}}) | 114 | 114 | 100.0 | /mnt/stockage/packages/f41/mousetweaks/po/ug.po | 
- | [uk]({{< ref "/f41/language/uk.md" >}}) | 114 | 114 | 100.0 | /mnt/stockage/packages/f41/mousetweaks/po/uk.po | 
- | [vi]({{< ref "/f41/language/vi.md" >}}) | 114 | 114 | 100.0 | /mnt/stockage/packages/f41/mousetweaks/po/vi.po | 
- | [zh_Hans]({{< ref "/f41/language/zh_Hans.md" >}}) | 114 | 114 | 100.0 | /mnt/stockage/packages/f41/mousetweaks/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f41/language/zh_Hant.md" >}}) | 114 | 114 | 100.0 | /mnt/stockage/packages/f41/mousetweaks/po/zh_TW.po | 
- | [zh_Hant_HK]({{< ref "/f41/language/zh_Hant_HK.md" >}}) | 114 | 114 | 100.0 | /mnt/stockage/packages/f41/mousetweaks/po/zh_HK.po | 
- | [error]({{< ref "/f41/language/error.md" >}}) | 630 | 730 | 86.3 | /mnt/stockage/packages/f41/mousetweaks/po/en@shaw.po | 
- | [fi]({{< ref "/f41/language/fi.md" >}}) | 73 | 114 | 64.0 | /mnt/stockage/packages/f41/mousetweaks/po/fi.po | 
- | [is]({{< ref "/f41/language/is.md" >}}) | 29 | 114 | 25.4 | /mnt/stockage/packages/f41/mousetweaks/po/is.po | 
- | [mai]({{< ref "/f41/language/mai.md" >}}) | 16 | 715 | 2.2 | /mnt/stockage/packages/f41/mousetweaks/po/mai.po | 
+ | [an](/f41/language/an) | 114 | 114 | 100.0 | /mnt/stockage/packages/f41/mousetweaks/po/an.po | 
+ | [ar](/f41/language/ar) | 114 | 114 | 100.0 | /mnt/stockage/packages/f41/mousetweaks/po/ar.po | 
+ | [as](/f41/language/as) | 114 | 114 | 100.0 | /mnt/stockage/packages/f41/mousetweaks/po/as.po | 
+ | [ast](/f41/language/ast) | 730 | 730 | 100.0 | /mnt/stockage/packages/f41/mousetweaks/po/ast.po | 
+ | [be](/f41/language/be) | 114 | 114 | 100.0 | /mnt/stockage/packages/f41/mousetweaks/po/be.po | 
+ | [bg](/f41/language/bg) | 114 | 114 | 100.0 | /mnt/stockage/packages/f41/mousetweaks/po/bg.po | 
+ | [bn](/f41/language/bn) | 730 | 730 | 100.0 | /mnt/stockage/packages/f41/mousetweaks/po/bn.po | 
+ | [bn_IN](/f41/language/bn_IN) | 715 | 715 | 100.0 | /mnt/stockage/packages/f41/mousetweaks/po/bn_IN.po | 
+ | [bs](/f41/language/bs) | 114 | 114 | 100.0 | /mnt/stockage/packages/f41/mousetweaks/po/bs.po | 
+ | [ca](/f41/language/ca) | 114 | 114 | 100.0 | /mnt/stockage/packages/f41/mousetweaks/po/ca.po | 
+ | [ca@valencia](/f41/language/ca@valencia) | 114 | 114 | 100.0 | /mnt/stockage/packages/f41/mousetweaks/po/ca@valencia.po | 
+ | [cs](/f41/language/cs) | 131 | 131 | 100.0 | /mnt/stockage/packages/f41/mousetweaks/po/cs.po | 
+ | [da](/f41/language/da) | 131 | 131 | 100.0 | /mnt/stockage/packages/f41/mousetweaks/po/da.po | 
+ | [de](/f41/language/de) | 114 | 114 | 100.0 | /mnt/stockage/packages/f41/mousetweaks/po/de.po | 
+ | [el](/f41/language/el) | 114 | 114 | 100.0 | /mnt/stockage/packages/f41/mousetweaks/po/el.po | 
+ | [en_GB](/f41/language/en_GB) | 114 | 114 | 100.0 | /mnt/stockage/packages/f41/mousetweaks/po/en_GB.po | 
+ | [eo](/f41/language/eo) | 114 | 114 | 100.0 | /mnt/stockage/packages/f41/mousetweaks/po/eo.po | 
+ | [es](/f41/language/es) | 131 | 131 | 100.0 | /mnt/stockage/packages/f41/mousetweaks/po/es.po | 
+ | [et](/f41/language/et) | 114 | 114 | 100.0 | /mnt/stockage/packages/f41/mousetweaks/po/et.po | 
+ | [eu](/f41/language/eu) | 114 | 114 | 100.0 | /mnt/stockage/packages/f41/mousetweaks/po/eu.po | 
+ | [fa](/f41/language/fa) | 114 | 114 | 100.0 | /mnt/stockage/packages/f41/mousetweaks/po/fa.po | 
+ | [fr](/f41/language/fr) | 114 | 114 | 100.0 | /mnt/stockage/packages/f41/mousetweaks/po/fr.po | 
+ | [fur](/f41/language/fur) | 114 | 114 | 100.0 | /mnt/stockage/packages/f41/mousetweaks/po/fur.po | 
+ | [gd](/f41/language/gd) | 114 | 114 | 100.0 | /mnt/stockage/packages/f41/mousetweaks/po/gd.po | 
+ | [gl](/f41/language/gl) | 114 | 114 | 100.0 | /mnt/stockage/packages/f41/mousetweaks/po/gl.po | 
+ | [gu](/f41/language/gu) | 114 | 114 | 100.0 | /mnt/stockage/packages/f41/mousetweaks/po/gu.po | 
+ | [he](/f41/language/he) | 114 | 114 | 100.0 | /mnt/stockage/packages/f41/mousetweaks/po/he.po | 
+ | [hi](/f41/language/hi) | 114 | 114 | 100.0 | /mnt/stockage/packages/f41/mousetweaks/po/hi.po | 
+ | [hr](/f41/language/hr) | 114 | 114 | 100.0 | /mnt/stockage/packages/f41/mousetweaks/po/hr.po | 
+ | [ht](/f41/language/ht) | 114 | 114 | 100.0 | /mnt/stockage/packages/f41/mousetweaks/po/ht.po | 
+ | [hu](/f41/language/hu) | 131 | 131 | 100.0 | /mnt/stockage/packages/f41/mousetweaks/po/hu.po | 
+ | [id](/f41/language/id) | 131 | 131 | 100.0 | /mnt/stockage/packages/f41/mousetweaks/po/id.po | 
+ | [it](/f41/language/it) | 131 | 131 | 100.0 | /mnt/stockage/packages/f41/mousetweaks/po/it.po | 
+ | [ja](/f41/language/ja) | 114 | 114 | 100.0 | /mnt/stockage/packages/f41/mousetweaks/po/ja.po | 
+ | [kk](/f41/language/kk) | 114 | 114 | 100.0 | /mnt/stockage/packages/f41/mousetweaks/po/kk.po | 
+ | [kn](/f41/language/kn) | 715 | 715 | 100.0 | /mnt/stockage/packages/f41/mousetweaks/po/kn.po | 
+ | [ko](/f41/language/ko) | 114 | 114 | 100.0 | /mnt/stockage/packages/f41/mousetweaks/po/ko.po | 
+ | [lo](/f41/language/lo) | 114 | 114 | 100.0 | /mnt/stockage/packages/f41/mousetweaks/po/lo.po | 
+ | [lt](/f41/language/lt) | 114 | 114 | 100.0 | /mnt/stockage/packages/f41/mousetweaks/po/lt.po | 
+ | [lv](/f41/language/lv) | 114 | 114 | 100.0 | /mnt/stockage/packages/f41/mousetweaks/po/lv.po | 
+ | [mk](/f41/language/mk) | 294 | 294 | 100.0 | /mnt/stockage/packages/f41/mousetweaks/po/mk.po | 
+ | [ml](/f41/language/ml) | 114 | 114 | 100.0 | /mnt/stockage/packages/f41/mousetweaks/po/ml.po | 
+ | [mr](/f41/language/mr) | 715 | 715 | 100.0 | /mnt/stockage/packages/f41/mousetweaks/po/mr.po | 
+ | [nb_NO](/f41/language/nb_NO) | 114 | 114 | 100.0 | /mnt/stockage/packages/f41/mousetweaks/po/nb.po | 
+ | [ne](/f41/language/ne) | 114 | 114 | 100.0 | /mnt/stockage/packages/f41/mousetweaks/po/ne.po | 
+ | [nl](/f41/language/nl) | 131 | 131 | 100.0 | /mnt/stockage/packages/f41/mousetweaks/po/nl.po | 
+ | [nn](/f41/language/nn) | 294 | 294 | 100.0 | /mnt/stockage/packages/f41/mousetweaks/po/nn.po | 
+ | [oc](/f41/language/oc) | 114 | 114 | 100.0 | /mnt/stockage/packages/f41/mousetweaks/po/oc.po | 
+ | [or](/f41/language/or) | 715 | 715 | 100.0 | /mnt/stockage/packages/f41/mousetweaks/po/or.po | 
+ | [pa](/f41/language/pa) | 114 | 114 | 100.0 | /mnt/stockage/packages/f41/mousetweaks/po/pa.po | 
+ | [pl](/f41/language/pl) | 131 | 131 | 100.0 | /mnt/stockage/packages/f41/mousetweaks/po/pl.po | 
+ | [pt](/f41/language/pt) | 114 | 114 | 100.0 | /mnt/stockage/packages/f41/mousetweaks/po/pt.po | 
+ | [pt_BR](/f41/language/pt_BR) | 131 | 131 | 100.0 | /mnt/stockage/packages/f41/mousetweaks/po/pt_BR.po | 
+ | [ro](/f41/language/ro) | 114 | 114 | 100.0 | /mnt/stockage/packages/f41/mousetweaks/po/ro.po | 
+ | [ru](/f41/language/ru) | 114 | 114 | 100.0 | /mnt/stockage/packages/f41/mousetweaks/po/ru.po | 
+ | [sk](/f41/language/sk) | 114 | 114 | 100.0 | /mnt/stockage/packages/f41/mousetweaks/po/sk.po | 
+ | [sl](/f41/language/sl) | 114 | 114 | 100.0 | /mnt/stockage/packages/f41/mousetweaks/po/sl.po | 
+ | [sq](/f41/language/sq) | 426 | 426 | 100.0 | /mnt/stockage/packages/f41/mousetweaks/po/sq.po | 
+ | [sr](/f41/language/sr) | 114 | 114 | 100.0 | /mnt/stockage/packages/f41/mousetweaks/po/sr.po | 
+ | [sr_Latn](/f41/language/sr_Latn) | 114 | 114 | 100.0 | /mnt/stockage/packages/f41/mousetweaks/po/sr@latin.po | 
+ | [sv](/f41/language/sv) | 131 | 131 | 100.0 | /mnt/stockage/packages/f41/mousetweaks/po/sv.po | 
+ | [ta](/f41/language/ta) | 114 | 114 | 100.0 | /mnt/stockage/packages/f41/mousetweaks/po/ta.po | 
+ | [te](/f41/language/te) | 114 | 114 | 100.0 | /mnt/stockage/packages/f41/mousetweaks/po/te.po | 
+ | [tg](/f41/language/tg) | 114 | 114 | 100.0 | /mnt/stockage/packages/f41/mousetweaks/po/tg.po | 
+ | [th](/f41/language/th) | 114 | 114 | 100.0 | /mnt/stockage/packages/f41/mousetweaks/po/th.po | 
+ | [tr](/f41/language/tr) | 131 | 131 | 100.0 | /mnt/stockage/packages/f41/mousetweaks/po/tr.po | 
+ | [ug](/f41/language/ug) | 114 | 114 | 100.0 | /mnt/stockage/packages/f41/mousetweaks/po/ug.po | 
+ | [uk](/f41/language/uk) | 114 | 114 | 100.0 | /mnt/stockage/packages/f41/mousetweaks/po/uk.po | 
+ | [vi](/f41/language/vi) | 114 | 114 | 100.0 | /mnt/stockage/packages/f41/mousetweaks/po/vi.po | 
+ | [zh_Hans](/f41/language/zh_Hans) | 114 | 114 | 100.0 | /mnt/stockage/packages/f41/mousetweaks/po/zh_CN.po | 
+ | [zh_Hant](/f41/language/zh_Hant) | 114 | 114 | 100.0 | /mnt/stockage/packages/f41/mousetweaks/po/zh_TW.po | 
+ | [zh_Hant_HK](/f41/language/zh_Hant_HK) | 114 | 114 | 100.0 | /mnt/stockage/packages/f41/mousetweaks/po/zh_HK.po | 
+ | [error](/f41/language/error) | 630 | 730 | 86.3 | /mnt/stockage/packages/f41/mousetweaks/po/en@shaw.po | 
+ | [fi](/f41/language/fi) | 73 | 114 | 64.0 | /mnt/stockage/packages/f41/mousetweaks/po/fi.po | 
+ | [is](/f41/language/is) | 29 | 114 | 25.4 | /mnt/stockage/packages/f41/mousetweaks/po/is.po | 
+ | [mai](/f41/language/mai) | 16 | 715 | 2.2 | /mnt/stockage/packages/f41/mousetweaks/po/mai.po | 
 {.sortable}
 
 

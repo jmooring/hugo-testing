@@ -18,33 +18,33 @@ The package sugar-story (version 12):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ayc]({{< ref "/f21/language/ayc.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f21/sugar-story/po/ayc.po | 
- | [cs]({{< ref "/f21/language/cs.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f21/sugar-story/po/cs.po | 
- | [da]({{< ref "/f21/language/da.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f21/sugar-story/po/da.po | 
- | [el]({{< ref "/f21/language/el.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f21/sugar-story/po/el.po | 
- | [en]({{< ref "/f21/language/en.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f21/sugar-story/po/en.po | 
- | [en_GB]({{< ref "/f21/language/en_GB.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f21/sugar-story/po/en_GB.po | 
- | [en_US]({{< ref "/f21/language/en_US.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f21/sugar-story/po/en_US.po | 
- | [error]({{< ref "/f21/language/error.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f21/sugar-story/po/pbs.po | 
- | [es]({{< ref "/f21/language/es.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f21/sugar-story/po/es.po | 
- | [fr]({{< ref "/f21/language/fr.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f21/sugar-story/po/fr.po | 
- | [hy]({{< ref "/f21/language/hy.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f21/sugar-story/po/hy.po | 
- | [mi]({{< ref "/f21/language/mi.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f21/sugar-story/po/mi.po | 
- | [nl]({{< ref "/f21/language/nl.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f21/sugar-story/po/nl.po | 
- | [pt]({{< ref "/f21/language/pt.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f21/sugar-story/po/pt.po | 
- | [zh_Hans]({{< ref "/f21/language/zh_Hans.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f21/sugar-story/po/zh_CN.po | 
- | [pl]({{< ref "/f21/language/pl.md" >}}) | 20 | 24 | 83.3 | /mnt/stockage/packages/f21/sugar-story/po/pl.po | 
- | [hus]({{< ref "/f21/language/hus.md" >}}) | 17 | 24 | 70.8 | /mnt/stockage/packages/f21/sugar-story/po/hus.po | 
- | [pap]({{< ref "/f21/language/pap.md" >}}) | 4 | 24 | 16.7 | /mnt/stockage/packages/f21/sugar-story/po/pap.po | 
- | [id]({{< ref "/f21/language/id.md" >}}) | 0 | 24 | 0.0 | /mnt/stockage/packages/f21/sugar-story/po/id.po | 
- | [nah]({{< ref "/f21/language/nah.md" >}}) | 0 | 24 | 0.0 | /mnt/stockage/packages/f21/sugar-story/po/nah.po | 
- | [ne]({{< ref "/f21/language/ne.md" >}}) | 0 | 24 | 0.0 | /mnt/stockage/packages/f21/sugar-story/po/ne.po | 
- | [prs]({{< ref "/f21/language/prs.md" >}}) | 0 | 24 | 0.0 | /mnt/stockage/packages/f21/sugar-story/po/fa_AF.po | 
- | [qu]({{< ref "/f21/language/qu.md" >}}) | 0 | 24 | 0.0 | /mnt/stockage/packages/f21/sugar-story/po/quz.po | 
- | [rw]({{< ref "/f21/language/rw.md" >}}) | 0 | 24 | 0.0 | /mnt/stockage/packages/f21/sugar-story/po/rw.po | 
- | [sl]({{< ref "/f21/language/sl.md" >}}) | 0 | 24 | 0.0 | /mnt/stockage/packages/f21/sugar-story/po/sl.po | 
- | [tvl]({{< ref "/f21/language/tvl.md" >}}) | 0 | 24 | 0.0 | /mnt/stockage/packages/f21/sugar-story/po/tvl.po | 
- | [vi]({{< ref "/f21/language/vi.md" >}}) | 0 | 24 | 0.0 | /mnt/stockage/packages/f21/sugar-story/po/vi.po | 
+ | [ayc](/f21/language/ayc) | 24 | 24 | 100.0 | /mnt/stockage/packages/f21/sugar-story/po/ayc.po | 
+ | [cs](/f21/language/cs) | 24 | 24 | 100.0 | /mnt/stockage/packages/f21/sugar-story/po/cs.po | 
+ | [da](/f21/language/da) | 24 | 24 | 100.0 | /mnt/stockage/packages/f21/sugar-story/po/da.po | 
+ | [el](/f21/language/el) | 24 | 24 | 100.0 | /mnt/stockage/packages/f21/sugar-story/po/el.po | 
+ | [en](/f21/language/en) | 24 | 24 | 100.0 | /mnt/stockage/packages/f21/sugar-story/po/en.po | 
+ | [en_GB](/f21/language/en_GB) | 24 | 24 | 100.0 | /mnt/stockage/packages/f21/sugar-story/po/en_GB.po | 
+ | [en_US](/f21/language/en_US) | 24 | 24 | 100.0 | /mnt/stockage/packages/f21/sugar-story/po/en_US.po | 
+ | [error](/f21/language/error) | 24 | 24 | 100.0 | /mnt/stockage/packages/f21/sugar-story/po/pbs.po | 
+ | [es](/f21/language/es) | 24 | 24 | 100.0 | /mnt/stockage/packages/f21/sugar-story/po/es.po | 
+ | [fr](/f21/language/fr) | 24 | 24 | 100.0 | /mnt/stockage/packages/f21/sugar-story/po/fr.po | 
+ | [hy](/f21/language/hy) | 24 | 24 | 100.0 | /mnt/stockage/packages/f21/sugar-story/po/hy.po | 
+ | [mi](/f21/language/mi) | 24 | 24 | 100.0 | /mnt/stockage/packages/f21/sugar-story/po/mi.po | 
+ | [nl](/f21/language/nl) | 24 | 24 | 100.0 | /mnt/stockage/packages/f21/sugar-story/po/nl.po | 
+ | [pt](/f21/language/pt) | 24 | 24 | 100.0 | /mnt/stockage/packages/f21/sugar-story/po/pt.po | 
+ | [zh_Hans](/f21/language/zh_Hans) | 24 | 24 | 100.0 | /mnt/stockage/packages/f21/sugar-story/po/zh_CN.po | 
+ | [pl](/f21/language/pl) | 20 | 24 | 83.3 | /mnt/stockage/packages/f21/sugar-story/po/pl.po | 
+ | [hus](/f21/language/hus) | 17 | 24 | 70.8 | /mnt/stockage/packages/f21/sugar-story/po/hus.po | 
+ | [pap](/f21/language/pap) | 4 | 24 | 16.7 | /mnt/stockage/packages/f21/sugar-story/po/pap.po | 
+ | [id](/f21/language/id) | 0 | 24 | 0.0 | /mnt/stockage/packages/f21/sugar-story/po/id.po | 
+ | [nah](/f21/language/nah) | 0 | 24 | 0.0 | /mnt/stockage/packages/f21/sugar-story/po/nah.po | 
+ | [ne](/f21/language/ne) | 0 | 24 | 0.0 | /mnt/stockage/packages/f21/sugar-story/po/ne.po | 
+ | [prs](/f21/language/prs) | 0 | 24 | 0.0 | /mnt/stockage/packages/f21/sugar-story/po/fa_AF.po | 
+ | [qu](/f21/language/qu) | 0 | 24 | 0.0 | /mnt/stockage/packages/f21/sugar-story/po/quz.po | 
+ | [rw](/f21/language/rw) | 0 | 24 | 0.0 | /mnt/stockage/packages/f21/sugar-story/po/rw.po | 
+ | [sl](/f21/language/sl) | 0 | 24 | 0.0 | /mnt/stockage/packages/f21/sugar-story/po/sl.po | 
+ | [tvl](/f21/language/tvl) | 0 | 24 | 0.0 | /mnt/stockage/packages/f21/sugar-story/po/tvl.po | 
+ | [vi](/f21/language/vi) | 0 | 24 | 0.0 | /mnt/stockage/packages/f21/sugar-story/po/vi.po | 
 {.sortable}
 
 

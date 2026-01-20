@@ -18,8 +18,8 @@ The package php-ZendFramework (version 1.11.11):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [en]({{< ref "/f15/language/en.md" >}}) | 17 | 17 | 100.0 | /mnt/stockage/packages/f15/php-ZendFramework/tests/Zend/Translate/Adapter/_files/translation_en.po | 
- | [error]({{< ref "/f15/language/error.md" >}}) | 12 | 12 | 100.0 | /mnt/stockage/packages/f15/php-ZendFramework/tests/Zend/Translate/Adapter/_files/translation_otherencoding.po/mnt/stockage/packages/f15/php-ZendFramework/tests/Zend/Translate/Adapter/_files/translation_en2.po/mnt/stockage/packages/f15/php-ZendFramework/tests/Zend/Translate/Adapter/_files/translation_empty.po | 
+ | [en](/f15/language/en) | 17 | 17 | 100.0 | /mnt/stockage/packages/f15/php-ZendFramework/tests/Zend/Translate/Adapter/_files/translation_en.po | 
+ | [error](/f15/language/error) | 12 | 12 | 100.0 | /mnt/stockage/packages/f15/php-ZendFramework/tests/Zend/Translate/Adapter/_files/translation_otherencoding.po/mnt/stockage/packages/f15/php-ZendFramework/tests/Zend/Translate/Adapter/_files/translation_en2.po/mnt/stockage/packages/f15/php-ZendFramework/tests/Zend/Translate/Adapter/_files/translation_empty.po | 
 {.sortable}
 
 

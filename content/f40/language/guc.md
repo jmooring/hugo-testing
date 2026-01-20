@@ -38,7 +38,7 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [gtk-vnc]({{< ref "/f40/package/gtk-vnc.md" >}}) | 8 | 8 | 100.0 | Wayuunaiki | 
+ | [gtk-vnc](/f40/package/gtk-vnc) | 8 | 8 | 100.0 | Wayuunaiki | 
 {.sortable}
 
 

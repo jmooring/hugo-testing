@@ -18,15 +18,15 @@ The package gtkpod (version 0.99.12):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [it]({{< ref "/f7/language/it.md" >}}) | 7415 | 7415 | 100.0 | /mnt/stockage/packages/f7/gtkpod/po/it.po | 
- | [ro]({{< ref "/f7/language/ro.md" >}}) | 7415 | 7415 | 100.0 | /mnt/stockage/packages/f7/gtkpod/po/ro.po | 
- | [ru]({{< ref "/f7/language/ru.md" >}}) | 7236 | 7236 | 100.0 | /mnt/stockage/packages/f7/gtkpod/po/ru.po | 
- | [sv]({{< ref "/f7/language/sv.md" >}}) | 7415 | 7415 | 100.0 | /mnt/stockage/packages/f7/gtkpod/po/sv.po | 
- | [he]({{< ref "/f7/language/he.md" >}}) | 7302 | 7415 | 98.5 | /mnt/stockage/packages/f7/gtkpod/po/he.po | 
- | [fr]({{< ref "/f7/language/fr.md" >}}) | 6297 | 7415 | 84.9 | /mnt/stockage/packages/f7/gtkpod/po/fr.po | 
- | [es]({{< ref "/f7/language/es.md" >}}) | 6126 | 7415 | 82.6 | /mnt/stockage/packages/f7/gtkpod/po/es.po | 
- | [de]({{< ref "/f7/language/de.md" >}}) | 5121 | 7415 | 69.1 | /mnt/stockage/packages/f7/gtkpod/po/de.po | 
- | [ja]({{< ref "/f7/language/ja.md" >}}) | 3710 | 7415 | 50.0 | /mnt/stockage/packages/f7/gtkpod/po/ja.po | 
+ | [it](/f7/language/it) | 7415 | 7415 | 100.0 | /mnt/stockage/packages/f7/gtkpod/po/it.po | 
+ | [ro](/f7/language/ro) | 7415 | 7415 | 100.0 | /mnt/stockage/packages/f7/gtkpod/po/ro.po | 
+ | [ru](/f7/language/ru) | 7236 | 7236 | 100.0 | /mnt/stockage/packages/f7/gtkpod/po/ru.po | 
+ | [sv](/f7/language/sv) | 7415 | 7415 | 100.0 | /mnt/stockage/packages/f7/gtkpod/po/sv.po | 
+ | [he](/f7/language/he) | 7302 | 7415 | 98.5 | /mnt/stockage/packages/f7/gtkpod/po/he.po | 
+ | [fr](/f7/language/fr) | 6297 | 7415 | 84.9 | /mnt/stockage/packages/f7/gtkpod/po/fr.po | 
+ | [es](/f7/language/es) | 6126 | 7415 | 82.6 | /mnt/stockage/packages/f7/gtkpod/po/es.po | 
+ | [de](/f7/language/de) | 5121 | 7415 | 69.1 | /mnt/stockage/packages/f7/gtkpod/po/de.po | 
+ | [ja](/f7/language/ja) | 3710 | 7415 | 50.0 | /mnt/stockage/packages/f7/gtkpod/po/ja.po | 
 {.sortable}
 
 

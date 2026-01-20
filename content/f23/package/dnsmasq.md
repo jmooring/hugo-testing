@@ -18,16 +18,16 @@ The package dnsmasq (version 2.76):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [pl]({{< ref "/f23/language/pl.md" >}}) | 2846 | 2846 | 100.0 | /mnt/stockage/packages/f23/dnsmasq/po/pl.po | 
- | [de]({{< ref "/f23/language/de.md" >}}) | 2724 | 2846 | 95.7 | /mnt/stockage/packages/f23/dnsmasq/po/de.po | 
- | [fr]({{< ref "/f23/language/fr.md" >}}) | 2303 | 2846 | 80.9 | /mnt/stockage/packages/f23/dnsmasq/po/fr.po | 
- | [es]({{< ref "/f23/language/es.md" >}}) | 1440 | 2846 | 50.6 | /mnt/stockage/packages/f23/dnsmasq/po/es.po | 
- | [nb_NO]({{< ref "/f23/language/nb_NO.md" >}}) | 757 | 2846 | 26.6 | /mnt/stockage/packages/f23/dnsmasq/po/no.po | 
- | [ro]({{< ref "/f23/language/ro.md" >}}) | 757 | 2846 | 26.6 | /mnt/stockage/packages/f23/dnsmasq/po/ro.po | 
- | [id]({{< ref "/f23/language/id.md" >}}) | 745 | 2846 | 26.2 | /mnt/stockage/packages/f23/dnsmasq/po/id.po | 
- | [fi]({{< ref "/f23/language/fi.md" >}}) | 0 | 2846 | 0.0 | /mnt/stockage/packages/f23/dnsmasq/po/fi.po | 
- | [it]({{< ref "/f23/language/it.md" >}}) | 0 | 2846 | 0.0 | /mnt/stockage/packages/f23/dnsmasq/po/it.po | 
- | [pt]({{< ref "/f23/language/pt.md" >}}) | 0 | 2846 | 0.0 | /mnt/stockage/packages/f23/dnsmasq/po/pt_BR.po | 
+ | [pl](/f23/language/pl) | 2846 | 2846 | 100.0 | /mnt/stockage/packages/f23/dnsmasq/po/pl.po | 
+ | [de](/f23/language/de) | 2724 | 2846 | 95.7 | /mnt/stockage/packages/f23/dnsmasq/po/de.po | 
+ | [fr](/f23/language/fr) | 2303 | 2846 | 80.9 | /mnt/stockage/packages/f23/dnsmasq/po/fr.po | 
+ | [es](/f23/language/es) | 1440 | 2846 | 50.6 | /mnt/stockage/packages/f23/dnsmasq/po/es.po | 
+ | [nb_NO](/f23/language/nb_NO) | 757 | 2846 | 26.6 | /mnt/stockage/packages/f23/dnsmasq/po/no.po | 
+ | [ro](/f23/language/ro) | 757 | 2846 | 26.6 | /mnt/stockage/packages/f23/dnsmasq/po/ro.po | 
+ | [id](/f23/language/id) | 745 | 2846 | 26.2 | /mnt/stockage/packages/f23/dnsmasq/po/id.po | 
+ | [fi](/f23/language/fi) | 0 | 2846 | 0.0 | /mnt/stockage/packages/f23/dnsmasq/po/fi.po | 
+ | [it](/f23/language/it) | 0 | 2846 | 0.0 | /mnt/stockage/packages/f23/dnsmasq/po/it.po | 
+ | [pt](/f23/language/pt) | 0 | 2846 | 0.0 | /mnt/stockage/packages/f23/dnsmasq/po/pt_BR.po | 
 {.sortable}
 
 

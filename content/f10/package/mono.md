@@ -18,9 +18,9 @@ The package mono (version 2.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ja]({{< ref "/f10/language/ja.md" >}}) | 1335 | 6375 | 20.9 | /mnt/stockage/packages/f10/mono/po/mcs/ja.po | 
- | [es]({{< ref "/f10/language/es.md" >}}) | 1053 | 6375 | 16.5 | /mnt/stockage/packages/f10/mono/po/mcs/es.po | 
- | [de]({{< ref "/f10/language/de.md" >}}) | 590 | 6375 | 9.3 | /mnt/stockage/packages/f10/mono/po/mcs/de.po | 
+ | [ja](/f10/language/ja) | 1335 | 6375 | 20.9 | /mnt/stockage/packages/f10/mono/po/mcs/ja.po | 
+ | [es](/f10/language/es) | 1053 | 6375 | 16.5 | /mnt/stockage/packages/f10/mono/po/mcs/es.po | 
+ | [de](/f10/language/de) | 590 | 6375 | 9.3 | /mnt/stockage/packages/f10/mono/po/mcs/de.po | 
 {.sortable}
 
 

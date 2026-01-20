@@ -18,31 +18,31 @@ The package scummvm (version 2.1.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [da]({{< ref "/f31/language/da.md" >}}) | 5981 | 5981 | 100.0 | /mnt/stockage/packages/f31/scummvm/po/da.po | 
- | [el]({{< ref "/f31/language/el.md" >}}) | 5981 | 5981 | 100.0 | /mnt/stockage/packages/f31/scummvm/po/el.po | 
- | [es]({{< ref "/f31/language/es.md" >}}) | 5981 | 5981 | 100.0 | /mnt/stockage/packages/f31/scummvm/po/es_ES.po | 
- | [fi]({{< ref "/f31/language/fi.md" >}}) | 5981 | 5981 | 100.0 | /mnt/stockage/packages/f31/scummvm/po/fi_FI.po | 
- | [fr]({{< ref "/f31/language/fr.md" >}}) | 5981 | 5981 | 100.0 | /mnt/stockage/packages/f31/scummvm/po/fr_FR.po | 
- | [hu]({{< ref "/f31/language/hu.md" >}}) | 5981 | 5981 | 100.0 | /mnt/stockage/packages/f31/scummvm/po/hu_HU.po | 
- | [uk]({{< ref "/f31/language/uk.md" >}}) | 5981 | 5981 | 100.0 | /mnt/stockage/packages/f31/scummvm/po/uk_UA.po | 
- | [de]({{< ref "/f31/language/de.md" >}}) | 26165 | 26171 | 100.0 | /mnt/stockage/packages/f31/scummvm/devtools/create_prince/de.po/mnt/stockage/packages/f31/scummvm/po/de_DE.po | 
- | [nl]({{< ref "/f31/language/nl.md" >}}) | 5961 | 5981 | 99.7 | /mnt/stockage/packages/f31/scummvm/po/nl_NL.po | 
- | [ru]({{< ref "/f31/language/ru.md" >}}) | 26083 | 26171 | 99.7 | /mnt/stockage/packages/f31/scummvm/devtools/create_prince/ru.po/mnt/stockage/packages/f31/scummvm/po/ru_RU.po | 
- | [it]({{< ref "/f31/language/it.md" >}}) | 5880 | 5981 | 98.3 | /mnt/stockage/packages/f31/scummvm/po/it_IT.po | 
- | [he]({{< ref "/f31/language/he.md" >}}) | 5857 | 5981 | 97.9 | /mnt/stockage/packages/f31/scummvm/po/he.po | 
- | [sv]({{< ref "/f31/language/sv.md" >}}) | 4471 | 5981 | 74.8 | /mnt/stockage/packages/f31/scummvm/po/sv_SE.po | 
- | [cs]({{< ref "/f31/language/cs.md" >}}) | 4456 | 5981 | 74.5 | /mnt/stockage/packages/f31/scummvm/po/cs_CZ.po | 
- | [be]({{< ref "/f31/language/be.md" >}}) | 4250 | 5981 | 71.1 | /mnt/stockage/packages/f31/scummvm/po/be_BY.po | 
- | [gl]({{< ref "/f31/language/gl.md" >}}) | 4214 | 5981 | 70.5 | /mnt/stockage/packages/f31/scummvm/po/gl_ES.po | 
- | [pl]({{< ref "/f31/language/pl.md" >}}) | 3934 | 5981 | 65.8 | /mnt/stockage/packages/f31/scummvm/po/pl_PL.po | 
- | [pt_PT]({{< ref "/f31/language/pt_PT.md" >}}) | 3281 | 5981 | 54.9 | /mnt/stockage/packages/f31/scummvm/po/pt_PT.po | 
- | [nb_NO]({{< ref "/f31/language/nb_NO.md" >}}) | 2954 | 5981 | 49.4 | /mnt/stockage/packages/f31/scummvm/po/nb_NO.po | 
- | [error]({{< ref "/f31/language/error.md" >}}) | 2717 | 5981 | 45.4 | /mnt/stockage/packages/f31/scummvm/po/zh-Latn_CN.po | 
- | [eu]({{< ref "/f31/language/eu.md" >}}) | 2686 | 5981 | 44.9 | /mnt/stockage/packages/f31/scummvm/po/eu.po | 
- | [en]({{< ref "/f31/language/en.md" >}}) | 9930 | 23270 | 42.7 | /mnt/stockage/packages/f31/scummvm/devtools/create_prince/en.po/mnt/stockage/packages/f31/scummvm/devtools/create_supernova/strings1-en.po/mnt/stockage/packages/f31/scummvm/devtools/create_supernova/strings2-en.po | 
- | [ca]({{< ref "/f31/language/ca.md" >}}) | 2468 | 5981 | 41.3 | /mnt/stockage/packages/f31/scummvm/po/ca_ES.po | 
- | [pt_BR]({{< ref "/f31/language/pt_BR.md" >}}) | 2351 | 5981 | 39.3 | /mnt/stockage/packages/f31/scummvm/po/pt_BR.po | 
- | [nn]({{< ref "/f31/language/nn.md" >}}) | 2129 | 5981 | 35.6 | /mnt/stockage/packages/f31/scummvm/po/nn_NO.po | 
+ | [da](/f31/language/da) | 5981 | 5981 | 100.0 | /mnt/stockage/packages/f31/scummvm/po/da.po | 
+ | [el](/f31/language/el) | 5981 | 5981 | 100.0 | /mnt/stockage/packages/f31/scummvm/po/el.po | 
+ | [es](/f31/language/es) | 5981 | 5981 | 100.0 | /mnt/stockage/packages/f31/scummvm/po/es_ES.po | 
+ | [fi](/f31/language/fi) | 5981 | 5981 | 100.0 | /mnt/stockage/packages/f31/scummvm/po/fi_FI.po | 
+ | [fr](/f31/language/fr) | 5981 | 5981 | 100.0 | /mnt/stockage/packages/f31/scummvm/po/fr_FR.po | 
+ | [hu](/f31/language/hu) | 5981 | 5981 | 100.0 | /mnt/stockage/packages/f31/scummvm/po/hu_HU.po | 
+ | [uk](/f31/language/uk) | 5981 | 5981 | 100.0 | /mnt/stockage/packages/f31/scummvm/po/uk_UA.po | 
+ | [de](/f31/language/de) | 26165 | 26171 | 100.0 | /mnt/stockage/packages/f31/scummvm/devtools/create_prince/de.po/mnt/stockage/packages/f31/scummvm/po/de_DE.po | 
+ | [nl](/f31/language/nl) | 5961 | 5981 | 99.7 | /mnt/stockage/packages/f31/scummvm/po/nl_NL.po | 
+ | [ru](/f31/language/ru) | 26083 | 26171 | 99.7 | /mnt/stockage/packages/f31/scummvm/devtools/create_prince/ru.po/mnt/stockage/packages/f31/scummvm/po/ru_RU.po | 
+ | [it](/f31/language/it) | 5880 | 5981 | 98.3 | /mnt/stockage/packages/f31/scummvm/po/it_IT.po | 
+ | [he](/f31/language/he) | 5857 | 5981 | 97.9 | /mnt/stockage/packages/f31/scummvm/po/he.po | 
+ | [sv](/f31/language/sv) | 4471 | 5981 | 74.8 | /mnt/stockage/packages/f31/scummvm/po/sv_SE.po | 
+ | [cs](/f31/language/cs) | 4456 | 5981 | 74.5 | /mnt/stockage/packages/f31/scummvm/po/cs_CZ.po | 
+ | [be](/f31/language/be) | 4250 | 5981 | 71.1 | /mnt/stockage/packages/f31/scummvm/po/be_BY.po | 
+ | [gl](/f31/language/gl) | 4214 | 5981 | 70.5 | /mnt/stockage/packages/f31/scummvm/po/gl_ES.po | 
+ | [pl](/f31/language/pl) | 3934 | 5981 | 65.8 | /mnt/stockage/packages/f31/scummvm/po/pl_PL.po | 
+ | [pt_PT](/f31/language/pt_PT) | 3281 | 5981 | 54.9 | /mnt/stockage/packages/f31/scummvm/po/pt_PT.po | 
+ | [nb_NO](/f31/language/nb_NO) | 2954 | 5981 | 49.4 | /mnt/stockage/packages/f31/scummvm/po/nb_NO.po | 
+ | [error](/f31/language/error) | 2717 | 5981 | 45.4 | /mnt/stockage/packages/f31/scummvm/po/zh-Latn_CN.po | 
+ | [eu](/f31/language/eu) | 2686 | 5981 | 44.9 | /mnt/stockage/packages/f31/scummvm/po/eu.po | 
+ | [en](/f31/language/en) | 9930 | 23270 | 42.7 | /mnt/stockage/packages/f31/scummvm/devtools/create_prince/en.po/mnt/stockage/packages/f31/scummvm/devtools/create_supernova/strings1-en.po/mnt/stockage/packages/f31/scummvm/devtools/create_supernova/strings2-en.po | 
+ | [ca](/f31/language/ca) | 2468 | 5981 | 41.3 | /mnt/stockage/packages/f31/scummvm/po/ca_ES.po | 
+ | [pt_BR](/f31/language/pt_BR) | 2351 | 5981 | 39.3 | /mnt/stockage/packages/f31/scummvm/po/pt_BR.po | 
+ | [nn](/f31/language/nn) | 2129 | 5981 | 35.6 | /mnt/stockage/packages/f31/scummvm/po/nn_NO.po | 
 {.sortable}
 
 

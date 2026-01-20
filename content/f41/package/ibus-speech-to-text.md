@@ -18,7 +18,7 @@ The package ibus-speech-to-text (version 0.4.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f41/language/fr.md" >}}) | 449 | 453 | 99.1 | /mnt/stockage/packages/f41/ibus-speech-to-text/po/fr.po | 
+ | [fr](/f41/language/fr) | 449 | 453 | 99.1 | /mnt/stockage/packages/f41/ibus-speech-to-text/po/fr.po | 
 {.sortable}
 
 

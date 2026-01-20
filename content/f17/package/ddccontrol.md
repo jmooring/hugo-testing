@@ -18,13 +18,13 @@ The package ddccontrol (version 0.4.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f17/language/cs.md" >}}) | 1576 | 1576 | 100.0 | /mnt/stockage/packages/f17/ddccontrol/po/cs.po | 
- | [es]({{< ref "/f17/language/es.md" >}}) | 1547 | 1547 | 100.0 | /mnt/stockage/packages/f17/ddccontrol/po/es.po | 
- | [fr]({{< ref "/f17/language/fr.md" >}}) | 1547 | 1547 | 100.0 | /mnt/stockage/packages/f17/ddccontrol/po/fr.po | 
- | [pl]({{< ref "/f17/language/pl.md" >}}) | 1547 | 1547 | 100.0 | /mnt/stockage/packages/f17/ddccontrol/po/pl.po | 
- | [ru]({{< ref "/f17/language/ru.md" >}}) | 1327 | 1559 | 85.1 | /mnt/stockage/packages/f17/ddccontrol/po/ru.po | 
- | [zh_Hans]({{< ref "/f17/language/zh_Hans.md" >}}) | 1153 | 1547 | 74.5 | /mnt/stockage/packages/f17/ddccontrol/po/zh_CN.po | 
- | [de]({{< ref "/f17/language/de.md" >}}) | 22 | 1547 | 1.4 | /mnt/stockage/packages/f17/ddccontrol/po/de.po | 
+ | [cs](/f17/language/cs) | 1576 | 1576 | 100.0 | /mnt/stockage/packages/f17/ddccontrol/po/cs.po | 
+ | [es](/f17/language/es) | 1547 | 1547 | 100.0 | /mnt/stockage/packages/f17/ddccontrol/po/es.po | 
+ | [fr](/f17/language/fr) | 1547 | 1547 | 100.0 | /mnt/stockage/packages/f17/ddccontrol/po/fr.po | 
+ | [pl](/f17/language/pl) | 1547 | 1547 | 100.0 | /mnt/stockage/packages/f17/ddccontrol/po/pl.po | 
+ | [ru](/f17/language/ru) | 1327 | 1559 | 85.1 | /mnt/stockage/packages/f17/ddccontrol/po/ru.po | 
+ | [zh_Hans](/f17/language/zh_Hans) | 1153 | 1547 | 74.5 | /mnt/stockage/packages/f17/ddccontrol/po/zh_CN.po | 
+ | [de](/f17/language/de) | 22 | 1547 | 1.4 | /mnt/stockage/packages/f17/ddccontrol/po/de.po | 
 {.sortable}
 
 

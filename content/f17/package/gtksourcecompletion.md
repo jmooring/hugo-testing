@@ -18,9 +18,9 @@ The package gtksourcecompletion (version 0.7.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [es]({{< ref "/f17/language/es.md" >}}) | 11 | 11 | 100.0 | /mnt/stockage/packages/f17/gtksourcecompletion/po/es.po | 
- | [fr]({{< ref "/f17/language/fr.md" >}}) | 11 | 11 | 100.0 | /mnt/stockage/packages/f17/gtksourcecompletion/po/fr.po | 
- | [it]({{< ref "/f17/language/it.md" >}}) | 11 | 11 | 100.0 | /mnt/stockage/packages/f17/gtksourcecompletion/po/it.po | 
+ | [es](/f17/language/es) | 11 | 11 | 100.0 | /mnt/stockage/packages/f17/gtksourcecompletion/po/es.po | 
+ | [fr](/f17/language/fr) | 11 | 11 | 100.0 | /mnt/stockage/packages/f17/gtksourcecompletion/po/fr.po | 
+ | [it](/f17/language/it) | 11 | 11 | 100.0 | /mnt/stockage/packages/f17/gtksourcecompletion/po/it.po | 
 {.sortable}
 
 

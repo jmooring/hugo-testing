@@ -18,24 +18,24 @@ The package thonny (version 3.2.7):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [et]({{< ref "/f33/language/et.md" >}}) | 1490 | 1490 | 100.0 | /mnt/stockage/packages/f33/thonny/thonny/locale/et_EE/LC_MESSAGES/thonny.po | 
- | [ja]({{< ref "/f33/language/ja.md" >}}) | 695 | 695 | 100.0 | /mnt/stockage/packages/f33/thonny/thonny/locale/ja_JP/LC_MESSAGES/thonny.po | 
- | [lt]({{< ref "/f33/language/lt.md" >}}) | 1490 | 1490 | 100.0 | /mnt/stockage/packages/f33/thonny/thonny/locale/lt_LT/LC_MESSAGES/thonny.po | 
- | [pt]({{< ref "/f33/language/pt.md" >}}) | 1490 | 1490 | 100.0 | /mnt/stockage/packages/f33/thonny/thonny/locale/pt_PT/LC_MESSAGES/thonny.po | 
- | [ru]({{< ref "/f33/language/ru.md" >}}) | 1490 | 1490 | 100.0 | /mnt/stockage/packages/f33/thonny/thonny/locale/ru_RU/LC_MESSAGES/thonny.po | 
- | [tr]({{< ref "/f33/language/tr.md" >}}) | 1490 | 1490 | 100.0 | /mnt/stockage/packages/f33/thonny/thonny/locale/tr_TR/LC_MESSAGES/thonny.po | 
- | [uk]({{< ref "/f33/language/uk.md" >}}) | 1490 | 1490 | 100.0 | /mnt/stockage/packages/f33/thonny/thonny/locale/uk_UA/LC_MESSAGES/thonny.po | 
- | [zh_Hant]({{< ref "/f33/language/zh_Hant.md" >}}) | 1490 | 1490 | 100.0 | /mnt/stockage/packages/f33/thonny/thonny/locale/zh_TW/LC_MESSAGES/thonny.po | 
- | [fr]({{< ref "/f33/language/fr.md" >}}) | 1479 | 1490 | 99.3 | /mnt/stockage/packages/f33/thonny/thonny/locale/fr_FR/LC_MESSAGES/thonny.po | 
- | [el]({{< ref "/f33/language/el.md" >}}) | 1472 | 1490 | 98.8 | /mnt/stockage/packages/f33/thonny/thonny/locale/el_GR/LC_MESSAGES/thonny.po | 
- | [nl]({{< ref "/f33/language/nl.md" >}}) | 1444 | 1490 | 96.9 | /mnt/stockage/packages/f33/thonny/thonny/locale/nl_NL/LC_MESSAGES/thonny.po | 
- | [pl]({{< ref "/f33/language/pl.md" >}}) | 1419 | 1490 | 95.2 | /mnt/stockage/packages/f33/thonny/thonny/locale/pl_PL/LC_MESSAGES/thonny.po | 
- | [pt_BR]({{< ref "/f33/language/pt_BR.md" >}}) | 622 | 695 | 89.5 | /mnt/stockage/packages/f33/thonny/thonny/locale/pt_BR/LC_MESSAGES/thonny.po | 
- | [de]({{< ref "/f33/language/de.md" >}}) | 506 | 695 | 72.8 | /mnt/stockage/packages/f33/thonny/thonny/locale/de_DE/LC_MESSAGES/thonny.po | 
- | [it]({{< ref "/f33/language/it.md" >}}) | 830 | 1490 | 55.7 | /mnt/stockage/packages/f33/thonny/thonny/locale/it_IT/LC_MESSAGES/thonny.po | 
- | [es]({{< ref "/f33/language/es.md" >}}) | 668 | 1490 | 44.8 | /mnt/stockage/packages/f33/thonny/thonny/locale/es_ES/LC_MESSAGES/thonny.po | 
- | [zh_Hans]({{< ref "/f33/language/zh_Hans.md" >}}) | 2 | 1490 | 0.1 | /mnt/stockage/packages/f33/thonny/thonny/locale/zh_CN/LC_MESSAGES/thonny.po | 
- | [en_US]({{< ref "/f33/language/en_US.md" >}}) | 0 | 695 | 0.0 | /mnt/stockage/packages/f33/thonny/thonny/locale/en_US/LC_MESSAGES/thonny.po | 
+ | [et](/f33/language/et) | 1490 | 1490 | 100.0 | /mnt/stockage/packages/f33/thonny/thonny/locale/et_EE/LC_MESSAGES/thonny.po | 
+ | [ja](/f33/language/ja) | 695 | 695 | 100.0 | /mnt/stockage/packages/f33/thonny/thonny/locale/ja_JP/LC_MESSAGES/thonny.po | 
+ | [lt](/f33/language/lt) | 1490 | 1490 | 100.0 | /mnt/stockage/packages/f33/thonny/thonny/locale/lt_LT/LC_MESSAGES/thonny.po | 
+ | [pt](/f33/language/pt) | 1490 | 1490 | 100.0 | /mnt/stockage/packages/f33/thonny/thonny/locale/pt_PT/LC_MESSAGES/thonny.po | 
+ | [ru](/f33/language/ru) | 1490 | 1490 | 100.0 | /mnt/stockage/packages/f33/thonny/thonny/locale/ru_RU/LC_MESSAGES/thonny.po | 
+ | [tr](/f33/language/tr) | 1490 | 1490 | 100.0 | /mnt/stockage/packages/f33/thonny/thonny/locale/tr_TR/LC_MESSAGES/thonny.po | 
+ | [uk](/f33/language/uk) | 1490 | 1490 | 100.0 | /mnt/stockage/packages/f33/thonny/thonny/locale/uk_UA/LC_MESSAGES/thonny.po | 
+ | [zh_Hant](/f33/language/zh_Hant) | 1490 | 1490 | 100.0 | /mnt/stockage/packages/f33/thonny/thonny/locale/zh_TW/LC_MESSAGES/thonny.po | 
+ | [fr](/f33/language/fr) | 1479 | 1490 | 99.3 | /mnt/stockage/packages/f33/thonny/thonny/locale/fr_FR/LC_MESSAGES/thonny.po | 
+ | [el](/f33/language/el) | 1472 | 1490 | 98.8 | /mnt/stockage/packages/f33/thonny/thonny/locale/el_GR/LC_MESSAGES/thonny.po | 
+ | [nl](/f33/language/nl) | 1444 | 1490 | 96.9 | /mnt/stockage/packages/f33/thonny/thonny/locale/nl_NL/LC_MESSAGES/thonny.po | 
+ | [pl](/f33/language/pl) | 1419 | 1490 | 95.2 | /mnt/stockage/packages/f33/thonny/thonny/locale/pl_PL/LC_MESSAGES/thonny.po | 
+ | [pt_BR](/f33/language/pt_BR) | 622 | 695 | 89.5 | /mnt/stockage/packages/f33/thonny/thonny/locale/pt_BR/LC_MESSAGES/thonny.po | 
+ | [de](/f33/language/de) | 506 | 695 | 72.8 | /mnt/stockage/packages/f33/thonny/thonny/locale/de_DE/LC_MESSAGES/thonny.po | 
+ | [it](/f33/language/it) | 830 | 1490 | 55.7 | /mnt/stockage/packages/f33/thonny/thonny/locale/it_IT/LC_MESSAGES/thonny.po | 
+ | [es](/f33/language/es) | 668 | 1490 | 44.8 | /mnt/stockage/packages/f33/thonny/thonny/locale/es_ES/LC_MESSAGES/thonny.po | 
+ | [zh_Hans](/f33/language/zh_Hans) | 2 | 1490 | 0.1 | /mnt/stockage/packages/f33/thonny/thonny/locale/zh_CN/LC_MESSAGES/thonny.po | 
+ | [en_US](/f33/language/en_US) | 0 | 695 | 0.0 | /mnt/stockage/packages/f33/thonny/thonny/locale/en_US/LC_MESSAGES/thonny.po | 
 {.sortable}
 
 

@@ -18,26 +18,26 @@ The package accountsdialog (version 0.6):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f14/language/ar.md" >}}) | 886 | 886 | 100.0 | /mnt/stockage/packages/f14/accountsdialog/po/ar.po | 
- | [cs]({{< ref "/f14/language/cs.md" >}}) | 861 | 861 | 100.0 | /mnt/stockage/packages/f14/accountsdialog/po/cs.po | 
- | [de]({{< ref "/f14/language/de.md" >}}) | 861 | 861 | 100.0 | /mnt/stockage/packages/f14/accountsdialog/po/de.po | 
- | [en_GB]({{< ref "/f14/language/en_GB.md" >}}) | 837 | 837 | 100.0 | /mnt/stockage/packages/f14/accountsdialog/po/en_GB.po | 
- | [es]({{< ref "/f14/language/es.md" >}}) | 861 | 861 | 100.0 | /mnt/stockage/packages/f14/accountsdialog/po/es.po | 
- | [et]({{< ref "/f14/language/et.md" >}}) | 861 | 861 | 100.0 | /mnt/stockage/packages/f14/accountsdialog/po/et.po | 
- | [gl]({{< ref "/f14/language/gl.md" >}}) | 837 | 837 | 100.0 | /mnt/stockage/packages/f14/accountsdialog/po/gl.po | 
- | [hu]({{< ref "/f14/language/hu.md" >}}) | 858 | 858 | 100.0 | /mnt/stockage/packages/f14/accountsdialog/po/hu.po | 
- | [lt]({{< ref "/f14/language/lt.md" >}}) | 861 | 861 | 100.0 | /mnt/stockage/packages/f14/accountsdialog/po/lt.po | 
- | [pl]({{< ref "/f14/language/pl.md" >}}) | 861 | 861 | 100.0 | /mnt/stockage/packages/f14/accountsdialog/po/pl.po | 
- | [pt]({{< ref "/f14/language/pt.md" >}}) | 837 | 837 | 100.0 | /mnt/stockage/packages/f14/accountsdialog/po/pt.po | 
- | [sl]({{< ref "/f14/language/sl.md" >}}) | 861 | 861 | 100.0 | /mnt/stockage/packages/f14/accountsdialog/po/sl.po | 
- | [zh_Hans]({{< ref "/f14/language/zh_Hans.md" >}}) | 858 | 858 | 100.0 | /mnt/stockage/packages/f14/accountsdialog/po/zh_CN.po | 
- | [he]({{< ref "/f14/language/he.md" >}}) | 325 | 328 | 99.1 | /mnt/stockage/packages/f14/accountsdialog/po/he.po | 
- | [da]({{< ref "/f14/language/da.md" >}}) | 825 | 837 | 98.6 | /mnt/stockage/packages/f14/accountsdialog/po/da.po | 
- | [el]({{< ref "/f14/language/el.md" >}}) | 744 | 777 | 95.8 | /mnt/stockage/packages/f14/accountsdialog/po/el.po | 
- | [pa]({{< ref "/f14/language/pa.md" >}}) | 675 | 886 | 76.2 | /mnt/stockage/packages/f14/accountsdialog/po/pa.po | 
- | [nb_NO]({{< ref "/f14/language/nb_NO.md" >}}) | 541 | 837 | 64.6 | /mnt/stockage/packages/f14/accountsdialog/po/nb.po | 
- | [sv]({{< ref "/f14/language/sv.md" >}}) | 517 | 874 | 59.2 | /mnt/stockage/packages/f14/accountsdialog/po/sv.po | 
- | [it]({{< ref "/f14/language/it.md" >}}) | 323 | 886 | 36.5 | /mnt/stockage/packages/f14/accountsdialog/po/it.po | 
+ | [ar](/f14/language/ar) | 886 | 886 | 100.0 | /mnt/stockage/packages/f14/accountsdialog/po/ar.po | 
+ | [cs](/f14/language/cs) | 861 | 861 | 100.0 | /mnt/stockage/packages/f14/accountsdialog/po/cs.po | 
+ | [de](/f14/language/de) | 861 | 861 | 100.0 | /mnt/stockage/packages/f14/accountsdialog/po/de.po | 
+ | [en_GB](/f14/language/en_GB) | 837 | 837 | 100.0 | /mnt/stockage/packages/f14/accountsdialog/po/en_GB.po | 
+ | [es](/f14/language/es) | 861 | 861 | 100.0 | /mnt/stockage/packages/f14/accountsdialog/po/es.po | 
+ | [et](/f14/language/et) | 861 | 861 | 100.0 | /mnt/stockage/packages/f14/accountsdialog/po/et.po | 
+ | [gl](/f14/language/gl) | 837 | 837 | 100.0 | /mnt/stockage/packages/f14/accountsdialog/po/gl.po | 
+ | [hu](/f14/language/hu) | 858 | 858 | 100.0 | /mnt/stockage/packages/f14/accountsdialog/po/hu.po | 
+ | [lt](/f14/language/lt) | 861 | 861 | 100.0 | /mnt/stockage/packages/f14/accountsdialog/po/lt.po | 
+ | [pl](/f14/language/pl) | 861 | 861 | 100.0 | /mnt/stockage/packages/f14/accountsdialog/po/pl.po | 
+ | [pt](/f14/language/pt) | 837 | 837 | 100.0 | /mnt/stockage/packages/f14/accountsdialog/po/pt.po | 
+ | [sl](/f14/language/sl) | 861 | 861 | 100.0 | /mnt/stockage/packages/f14/accountsdialog/po/sl.po | 
+ | [zh_Hans](/f14/language/zh_Hans) | 858 | 858 | 100.0 | /mnt/stockage/packages/f14/accountsdialog/po/zh_CN.po | 
+ | [he](/f14/language/he) | 325 | 328 | 99.1 | /mnt/stockage/packages/f14/accountsdialog/po/he.po | 
+ | [da](/f14/language/da) | 825 | 837 | 98.6 | /mnt/stockage/packages/f14/accountsdialog/po/da.po | 
+ | [el](/f14/language/el) | 744 | 777 | 95.8 | /mnt/stockage/packages/f14/accountsdialog/po/el.po | 
+ | [pa](/f14/language/pa) | 675 | 886 | 76.2 | /mnt/stockage/packages/f14/accountsdialog/po/pa.po | 
+ | [nb_NO](/f14/language/nb_NO) | 541 | 837 | 64.6 | /mnt/stockage/packages/f14/accountsdialog/po/nb.po | 
+ | [sv](/f14/language/sv) | 517 | 874 | 59.2 | /mnt/stockage/packages/f14/accountsdialog/po/sv.po | 
+ | [it](/f14/language/it) | 323 | 886 | 36.5 | /mnt/stockage/packages/f14/accountsdialog/po/it.po | 
 {.sortable}
 
 

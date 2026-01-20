@@ -18,20 +18,20 @@ The package qt-recordmydesktop (version 0.3.7):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [el]({{< ref "/f7/language/el.md" >}}) | 816 | 816 | 100.0 | /mnt/stockage/packages/f7/qt-recordmydesktop/po/el.po | 
- | [es]({{< ref "/f7/language/es.md" >}}) | 816 | 816 | 100.0 | /mnt/stockage/packages/f7/qt-recordmydesktop/po/es.po | 
- | [fr]({{< ref "/f7/language/fr.md" >}}) | 816 | 816 | 100.0 | /mnt/stockage/packages/f7/qt-recordmydesktop/po/fr.po | 
- | [it]({{< ref "/f7/language/it.md" >}}) | 816 | 816 | 100.0 | /mnt/stockage/packages/f7/qt-recordmydesktop/po/it.po | 
- | [pt_BR]({{< ref "/f7/language/pt_BR.md" >}}) | 816 | 816 | 100.0 | /mnt/stockage/packages/f7/qt-recordmydesktop/po/pt_BR.po | 
- | [sv]({{< ref "/f7/language/sv.md" >}}) | 816 | 816 | 100.0 | /mnt/stockage/packages/f7/qt-recordmydesktop/po/sv.po | 
- | [ru]({{< ref "/f7/language/ru.md" >}}) | 710 | 816 | 87.0 | /mnt/stockage/packages/f7/qt-recordmydesktop/po/ru.po | 
- | [ca]({{< ref "/f7/language/ca.md" >}}) | 685 | 816 | 83.9 | /mnt/stockage/packages/f7/qt-recordmydesktop/po/ca.po | 
- | [pl]({{< ref "/f7/language/pl.md" >}}) | 673 | 816 | 82.5 | /mnt/stockage/packages/f7/qt-recordmydesktop/po/pl.po | 
- | [ar]({{< ref "/f7/language/ar.md" >}}) | 553 | 816 | 67.8 | /mnt/stockage/packages/f7/qt-recordmydesktop/po/ar.po | 
- | [ja]({{< ref "/f7/language/ja.md" >}}) | 553 | 816 | 67.8 | /mnt/stockage/packages/f7/qt-recordmydesktop/po/ja.po | 
- | [pt]({{< ref "/f7/language/pt.md" >}}) | 553 | 816 | 67.8 | /mnt/stockage/packages/f7/qt-recordmydesktop/po/pt.po | 
- | [tr]({{< ref "/f7/language/tr.md" >}}) | 553 | 816 | 67.8 | /mnt/stockage/packages/f7/qt-recordmydesktop/po/tr.po | 
- | [de]({{< ref "/f7/language/de.md" >}}) | 532 | 816 | 65.2 | /mnt/stockage/packages/f7/qt-recordmydesktop/po/de.po | 
+ | [el](/f7/language/el) | 816 | 816 | 100.0 | /mnt/stockage/packages/f7/qt-recordmydesktop/po/el.po | 
+ | [es](/f7/language/es) | 816 | 816 | 100.0 | /mnt/stockage/packages/f7/qt-recordmydesktop/po/es.po | 
+ | [fr](/f7/language/fr) | 816 | 816 | 100.0 | /mnt/stockage/packages/f7/qt-recordmydesktop/po/fr.po | 
+ | [it](/f7/language/it) | 816 | 816 | 100.0 | /mnt/stockage/packages/f7/qt-recordmydesktop/po/it.po | 
+ | [pt_BR](/f7/language/pt_BR) | 816 | 816 | 100.0 | /mnt/stockage/packages/f7/qt-recordmydesktop/po/pt_BR.po | 
+ | [sv](/f7/language/sv) | 816 | 816 | 100.0 | /mnt/stockage/packages/f7/qt-recordmydesktop/po/sv.po | 
+ | [ru](/f7/language/ru) | 710 | 816 | 87.0 | /mnt/stockage/packages/f7/qt-recordmydesktop/po/ru.po | 
+ | [ca](/f7/language/ca) | 685 | 816 | 83.9 | /mnt/stockage/packages/f7/qt-recordmydesktop/po/ca.po | 
+ | [pl](/f7/language/pl) | 673 | 816 | 82.5 | /mnt/stockage/packages/f7/qt-recordmydesktop/po/pl.po | 
+ | [ar](/f7/language/ar) | 553 | 816 | 67.8 | /mnt/stockage/packages/f7/qt-recordmydesktop/po/ar.po | 
+ | [ja](/f7/language/ja) | 553 | 816 | 67.8 | /mnt/stockage/packages/f7/qt-recordmydesktop/po/ja.po | 
+ | [pt](/f7/language/pt) | 553 | 816 | 67.8 | /mnt/stockage/packages/f7/qt-recordmydesktop/po/pt.po | 
+ | [tr](/f7/language/tr) | 553 | 816 | 67.8 | /mnt/stockage/packages/f7/qt-recordmydesktop/po/tr.po | 
+ | [de](/f7/language/de) | 532 | 816 | 65.2 | /mnt/stockage/packages/f7/qt-recordmydesktop/po/de.po | 
 {.sortable}
 
 

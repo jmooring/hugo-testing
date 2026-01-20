@@ -18,15 +18,15 @@ The package fldigi (version 4.2.04):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f38/language/ca.md" >}}) | 8184 | 8283 | 98.8 | /mnt/stockage/packages/f38/fldigi/po/ca.po | 
- | [pl]({{< ref "/f38/language/pl.md" >}}) | 8078 | 8283 | 97.5 | /mnt/stockage/packages/f38/fldigi/po/pl.po | 
- | [nl]({{< ref "/f38/language/nl.md" >}}) | 7183 | 8283 | 86.7 | /mnt/stockage/packages/f38/fldigi/po/nl.po | 
- | [it]({{< ref "/f38/language/it.md" >}}) | 5773 | 8283 | 69.7 | /mnt/stockage/packages/f38/fldigi/po/it.po | 
- | [ru]({{< ref "/f38/language/ru.md" >}}) | 5046 | 8283 | 60.9 | /mnt/stockage/packages/f38/fldigi/po/ru.po | 
- | [es]({{< ref "/f38/language/es.md" >}}) | 4391 | 8283 | 53.0 | /mnt/stockage/packages/f38/fldigi/po/es.po | 
- | [el]({{< ref "/f38/language/el.md" >}}) | 3999 | 8283 | 48.3 | /mnt/stockage/packages/f38/fldigi/po/el.po | 
- | [de]({{< ref "/f38/language/de.md" >}}) | 3256 | 8283 | 39.3 | /mnt/stockage/packages/f38/fldigi/po/de.po | 
- | [fr]({{< ref "/f38/language/fr.md" >}}) | 1136 | 8283 | 13.7 | /mnt/stockage/packages/f38/fldigi/po/fr.po | 
+ | [ca](/f38/language/ca) | 8184 | 8283 | 98.8 | /mnt/stockage/packages/f38/fldigi/po/ca.po | 
+ | [pl](/f38/language/pl) | 8078 | 8283 | 97.5 | /mnt/stockage/packages/f38/fldigi/po/pl.po | 
+ | [nl](/f38/language/nl) | 7183 | 8283 | 86.7 | /mnt/stockage/packages/f38/fldigi/po/nl.po | 
+ | [it](/f38/language/it) | 5773 | 8283 | 69.7 | /mnt/stockage/packages/f38/fldigi/po/it.po | 
+ | [ru](/f38/language/ru) | 5046 | 8283 | 60.9 | /mnt/stockage/packages/f38/fldigi/po/ru.po | 
+ | [es](/f38/language/es) | 4391 | 8283 | 53.0 | /mnt/stockage/packages/f38/fldigi/po/es.po | 
+ | [el](/f38/language/el) | 3999 | 8283 | 48.3 | /mnt/stockage/packages/f38/fldigi/po/el.po | 
+ | [de](/f38/language/de) | 3256 | 8283 | 39.3 | /mnt/stockage/packages/f38/fldigi/po/de.po | 
+ | [fr](/f38/language/fr) | 1136 | 8283 | 13.7 | /mnt/stockage/packages/f38/fldigi/po/fr.po | 
 {.sortable}
 
 

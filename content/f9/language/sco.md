@@ -38,7 +38,7 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [gnomad2]({{< ref "/f9/package/gnomad2.md" >}}) | 697 | 697 | 100.0 | Scots <sco@li.org> | 
+ | [gnomad2](/f9/package/gnomad2) | 697 | 697 | 100.0 | Scots <sco@li.org> | 
 {.sortable}
 
 

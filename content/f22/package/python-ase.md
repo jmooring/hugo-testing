@@ -18,10 +18,10 @@ The package python-ase (version 3.11.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [da]({{< ref "/f22/language/da.md" >}}) | 3260 | 3260 | 100.0 | /mnt/stockage/packages/f22/python-ase/ase/gui/po/da/LC_MESSAGES/ag.po | 
- | [en_GB]({{< ref "/f22/language/en_GB.md" >}}) | 3260 | 3260 | 100.0 | /mnt/stockage/packages/f22/python-ase/ase/gui/po/en_GB/LC_MESSAGES/ag.po | 
- | [es]({{< ref "/f22/language/es.md" >}}) | 3260 | 3260 | 100.0 | /mnt/stockage/packages/f22/python-ase/ase/gui/po/es/LC_MESSAGES/ag.po | 
- | [zh_Hans]({{< ref "/f22/language/zh_Hans.md" >}}) | 2598 | 3260 | 79.7 | /mnt/stockage/packages/f22/python-ase/ase/gui/po/zh_CN/LC_MESSAGES/ag.po | 
+ | [da](/f22/language/da) | 3260 | 3260 | 100.0 | /mnt/stockage/packages/f22/python-ase/ase/gui/po/da/LC_MESSAGES/ag.po | 
+ | [en_GB](/f22/language/en_GB) | 3260 | 3260 | 100.0 | /mnt/stockage/packages/f22/python-ase/ase/gui/po/en_GB/LC_MESSAGES/ag.po | 
+ | [es](/f22/language/es) | 3260 | 3260 | 100.0 | /mnt/stockage/packages/f22/python-ase/ase/gui/po/es/LC_MESSAGES/ag.po | 
+ | [zh_Hans](/f22/language/zh_Hans) | 2598 | 3260 | 79.7 | /mnt/stockage/packages/f22/python-ase/ase/gui/po/zh_CN/LC_MESSAGES/ag.po | 
 {.sortable}
 
 

@@ -38,15 +38,15 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [gnome-applets]({{< ref "/f13/package/gnome-applets.md" >}}) | 3858 | 3858 | 100.0 | Spanish <traductores@es.gnome.org> | 
- | [lxpanel]({{< ref "/f13/package/lxpanel.md" >}}) | 892 | 892 | 100.0 | Spanish <daniel@tunki.org> | 
- | [lxsession]({{< ref "/f13/package/lxsession.md" >}}) | 37 | 37 | 100.0 | Spanish <es@li.org> | 
- | [lxtask]({{< ref "/f13/package/lxtask.md" >}}) | 122 | 122 | 100.0 | Spanish <es@li.org> | 
- | [libgweather]({{< ref "/f13/package/libgweather.md" >}}) | 447 | 460 | 97.2 | Spanish <traductores@es.gnome.org> | 
- | [lxterminal]({{< ref "/f13/package/lxterminal.md" >}}) | 119 | 129 | 92.2 | Spanish <es@li.org> | 
- | [lxinput]({{< ref "/f13/package/lxinput.md" >}}) | 60 | 70 | 85.7 | LANGUAGE <LL@li.org> | 
- | [libfm]({{< ref "/f13/package/libfm.md" >}}) | 0 | 480 | 0.0 |  | 
- | [lxdm]({{< ref "/f13/package/lxdm.md" >}}) | 0 | 11 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [gnome-applets](/f13/package/gnome-applets) | 3858 | 3858 | 100.0 | Spanish <traductores@es.gnome.org> | 
+ | [lxpanel](/f13/package/lxpanel) | 892 | 892 | 100.0 | Spanish <daniel@tunki.org> | 
+ | [lxsession](/f13/package/lxsession) | 37 | 37 | 100.0 | Spanish <es@li.org> | 
+ | [lxtask](/f13/package/lxtask) | 122 | 122 | 100.0 | Spanish <es@li.org> | 
+ | [libgweather](/f13/package/libgweather) | 447 | 460 | 97.2 | Spanish <traductores@es.gnome.org> | 
+ | [lxterminal](/f13/package/lxterminal) | 119 | 129 | 92.2 | Spanish <es@li.org> | 
+ | [lxinput](/f13/package/lxinput) | 60 | 70 | 85.7 | LANGUAGE <LL@li.org> | 
+ | [libfm](/f13/package/libfm) | 0 | 480 | 0.0 |  | 
+ | [lxdm](/f13/package/lxdm) | 0 | 11 | 0.0 | LANGUAGE <LL@li.org> | 
 {.sortable}
 
 

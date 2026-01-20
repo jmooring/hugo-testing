@@ -18,11 +18,11 @@ The package ufraw (version 0.12):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [da]({{< ref "/f8/language/da.md" >}}) | 1561 | 1561 | 100.0 | /mnt/stockage/packages/f8/ufraw/po/da.po | 
- | [fr]({{< ref "/f8/language/fr.md" >}}) | 1561 | 1561 | 100.0 | /mnt/stockage/packages/f8/ufraw/po/fr.po | 
- | [ru]({{< ref "/f8/language/ru.md" >}}) | 1561 | 1561 | 100.0 | /mnt/stockage/packages/f8/ufraw/po/ru.po | 
- | [pt]({{< ref "/f8/language/pt.md" >}}) | 1476 | 1561 | 94.6 | /mnt/stockage/packages/f8/ufraw/po/pt.po | 
- | [ja]({{< ref "/f8/language/ja.md" >}}) | 1302 | 1561 | 83.4 | /mnt/stockage/packages/f8/ufraw/po/ja.po | 
+ | [da](/f8/language/da) | 1561 | 1561 | 100.0 | /mnt/stockage/packages/f8/ufraw/po/da.po | 
+ | [fr](/f8/language/fr) | 1561 | 1561 | 100.0 | /mnt/stockage/packages/f8/ufraw/po/fr.po | 
+ | [ru](/f8/language/ru) | 1561 | 1561 | 100.0 | /mnt/stockage/packages/f8/ufraw/po/ru.po | 
+ | [pt](/f8/language/pt) | 1476 | 1561 | 94.6 | /mnt/stockage/packages/f8/ufraw/po/pt.po | 
+ | [ja](/f8/language/ja) | 1302 | 1561 | 83.4 | /mnt/stockage/packages/f8/ufraw/po/ja.po | 
 {.sortable}
 
 

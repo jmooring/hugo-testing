@@ -18,14 +18,14 @@ The package alsa-utils (version 1.2.15.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ka]({{< ref "/f43/language/ka.md" >}}) | 1986 | 2470 | 80.4 | /mnt/stockage/packages/f43/alsa-utils/alsaconf/po/ka.po/mnt/stockage/packages/f43/alsa-utils/po/ka.po | 
- | [ru]({{< ref "/f43/language/ru.md" >}}) | 407 | 538 | 75.7 | /mnt/stockage/packages/f43/alsa-utils/alsaconf/po/ru.po | 
- | [sk]({{< ref "/f43/language/sk.md" >}}) | 1385 | 1934 | 71.6 | /mnt/stockage/packages/f43/alsa-utils/po/sk.po | 
- | [eu]({{< ref "/f43/language/eu.md" >}}) | 1367 | 1934 | 70.7 | /mnt/stockage/packages/f43/alsa-utils/po/eu.po | 
- | [ko]({{< ref "/f43/language/ko.md" >}}) | 1367 | 1934 | 70.7 | /mnt/stockage/packages/f43/alsa-utils/po/ko.po | 
- | [fr]({{< ref "/f43/language/fr.md" >}}) | 1332 | 1934 | 68.9 | /mnt/stockage/packages/f43/alsa-utils/po/fr.po | 
- | [ja]({{< ref "/f43/language/ja.md" >}}) | 1586 | 2472 | 64.2 | /mnt/stockage/packages/f43/alsa-utils/alsaconf/po/ja.po/mnt/stockage/packages/f43/alsa-utils/po/ja.po | 
- | [de]({{< ref "/f43/language/de.md" >}}) | 1229 | 1934 | 63.5 | /mnt/stockage/packages/f43/alsa-utils/po/de.po | 
+ | [ka](/f43/language/ka) | 1986 | 2470 | 80.4 | /mnt/stockage/packages/f43/alsa-utils/alsaconf/po/ka.po/mnt/stockage/packages/f43/alsa-utils/po/ka.po | 
+ | [ru](/f43/language/ru) | 407 | 538 | 75.7 | /mnt/stockage/packages/f43/alsa-utils/alsaconf/po/ru.po | 
+ | [sk](/f43/language/sk) | 1385 | 1934 | 71.6 | /mnt/stockage/packages/f43/alsa-utils/po/sk.po | 
+ | [eu](/f43/language/eu) | 1367 | 1934 | 70.7 | /mnt/stockage/packages/f43/alsa-utils/po/eu.po | 
+ | [ko](/f43/language/ko) | 1367 | 1934 | 70.7 | /mnt/stockage/packages/f43/alsa-utils/po/ko.po | 
+ | [fr](/f43/language/fr) | 1332 | 1934 | 68.9 | /mnt/stockage/packages/f43/alsa-utils/po/fr.po | 
+ | [ja](/f43/language/ja) | 1586 | 2472 | 64.2 | /mnt/stockage/packages/f43/alsa-utils/alsaconf/po/ja.po/mnt/stockage/packages/f43/alsa-utils/po/ja.po | 
+ | [de](/f43/language/de) | 1229 | 1934 | 63.5 | /mnt/stockage/packages/f43/alsa-utils/po/de.po | 
 {.sortable}
 
 

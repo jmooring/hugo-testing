@@ -18,13 +18,13 @@ The package msitools (version 0.92):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f18/language/cs.md" >}}) | 56 | 56 | 100.0 | /mnt/stockage/packages/f18/msitools/po/cs.po | 
- | [es]({{< ref "/f18/language/es.md" >}}) | 56 | 56 | 100.0 | /mnt/stockage/packages/f18/msitools/po/es.po | 
- | [pl]({{< ref "/f18/language/pl.md" >}}) | 56 | 56 | 100.0 | /mnt/stockage/packages/f18/msitools/po/pl.po | 
- | [pt_BR]({{< ref "/f18/language/pt_BR.md" >}}) | 56 | 56 | 100.0 | /mnt/stockage/packages/f18/msitools/po/pt_BR.po | 
- | [sl]({{< ref "/f18/language/sl.md" >}}) | 56 | 56 | 100.0 | /mnt/stockage/packages/f18/msitools/po/sl.po | 
- | [sr]({{< ref "/f18/language/sr.md" >}}) | 112 | 112 | 100.0 | /mnt/stockage/packages/f18/msitools/po/sr@latin.po/mnt/stockage/packages/f18/msitools/po/sr.po | 
- | [de]({{< ref "/f18/language/de.md" >}}) | 53 | 56 | 94.6 | /mnt/stockage/packages/f18/msitools/po/de.po | 
+ | [cs](/f18/language/cs) | 56 | 56 | 100.0 | /mnt/stockage/packages/f18/msitools/po/cs.po | 
+ | [es](/f18/language/es) | 56 | 56 | 100.0 | /mnt/stockage/packages/f18/msitools/po/es.po | 
+ | [pl](/f18/language/pl) | 56 | 56 | 100.0 | /mnt/stockage/packages/f18/msitools/po/pl.po | 
+ | [pt_BR](/f18/language/pt_BR) | 56 | 56 | 100.0 | /mnt/stockage/packages/f18/msitools/po/pt_BR.po | 
+ | [sl](/f18/language/sl) | 56 | 56 | 100.0 | /mnt/stockage/packages/f18/msitools/po/sl.po | 
+ | [sr](/f18/language/sr) | 112 | 112 | 100.0 | /mnt/stockage/packages/f18/msitools/po/sr@latin.po/mnt/stockage/packages/f18/msitools/po/sr.po | 
+ | [de](/f18/language/de) | 53 | 56 | 94.6 | /mnt/stockage/packages/f18/msitools/po/de.po | 
 {.sortable}
 
 

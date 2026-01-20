@@ -18,43 +18,43 @@ The package secrets (version 7.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f38/language/ca.md" >}}) | 1169 | 1169 | 100.0 | /mnt/stockage/packages/f38/secrets/po/ca.po | 
- | [cs]({{< ref "/f38/language/cs.md" >}}) | 998 | 998 | 100.0 | /mnt/stockage/packages/f38/secrets/po/cs.po | 
- | [da]({{< ref "/f38/language/da.md" >}}) | 1169 | 1169 | 100.0 | /mnt/stockage/packages/f38/secrets/po/da.po | 
- | [de]({{< ref "/f38/language/de.md" >}}) | 1170 | 1170 | 100.0 | /mnt/stockage/packages/f38/secrets/po/de.po | 
- | [en_GB]({{< ref "/f38/language/en_GB.md" >}}) | 1170 | 1170 | 100.0 | /mnt/stockage/packages/f38/secrets/po/en_GB.po | 
- | [es]({{< ref "/f38/language/es.md" >}}) | 1170 | 1170 | 100.0 | /mnt/stockage/packages/f38/secrets/po/es.po | 
- | [eu]({{< ref "/f38/language/eu.md" >}}) | 1170 | 1170 | 100.0 | /mnt/stockage/packages/f38/secrets/po/eu.po | 
- | [fi]({{< ref "/f38/language/fi.md" >}}) | 1170 | 1170 | 100.0 | /mnt/stockage/packages/f38/secrets/po/fi.po | 
- | [fr]({{< ref "/f38/language/fr.md" >}}) | 1170 | 1170 | 100.0 | /mnt/stockage/packages/f38/secrets/po/fr.po | 
- | [gl]({{< ref "/f38/language/gl.md" >}}) | 994 | 994 | 100.0 | /mnt/stockage/packages/f38/secrets/po/gl.po | 
- | [he]({{< ref "/f38/language/he.md" >}}) | 1170 | 1170 | 100.0 | /mnt/stockage/packages/f38/secrets/po/he.po | 
- | [hr]({{< ref "/f38/language/hr.md" >}}) | 1169 | 1169 | 100.0 | /mnt/stockage/packages/f38/secrets/po/hr.po | 
- | [hu]({{< ref "/f38/language/hu.md" >}}) | 1170 | 1170 | 100.0 | /mnt/stockage/packages/f38/secrets/po/hu.po | 
- | [id]({{< ref "/f38/language/id.md" >}}) | 1170 | 1170 | 100.0 | /mnt/stockage/packages/f38/secrets/po/id.po | 
- | [is]({{< ref "/f38/language/is.md" >}}) | 1169 | 1169 | 100.0 | /mnt/stockage/packages/f38/secrets/po/is.po | 
- | [it]({{< ref "/f38/language/it.md" >}}) | 1003 | 1003 | 100.0 | /mnt/stockage/packages/f38/secrets/po/it.po | 
- | [ko]({{< ref "/f38/language/ko.md" >}}) | 1170 | 1170 | 100.0 | /mnt/stockage/packages/f38/secrets/po/ko.po | 
- | [nb_NO]({{< ref "/f38/language/nb_NO.md" >}}) | 1001 | 1001 | 100.0 | /mnt/stockage/packages/f38/secrets/po/nb.po | 
- | [nl]({{< ref "/f38/language/nl.md" >}}) | 1170 | 1170 | 100.0 | /mnt/stockage/packages/f38/secrets/po/nl.po | 
- | [nn]({{< ref "/f38/language/nn.md" >}}) | 1003 | 1003 | 100.0 | /mnt/stockage/packages/f38/secrets/po/nn.po | 
- | [pl]({{< ref "/f38/language/pl.md" >}}) | 1170 | 1170 | 100.0 | /mnt/stockage/packages/f38/secrets/po/pl.po | 
- | [pt]({{< ref "/f38/language/pt.md" >}}) | 1170 | 1170 | 100.0 | /mnt/stockage/packages/f38/secrets/po/pt.po | 
- | [pt_BR]({{< ref "/f38/language/pt_BR.md" >}}) | 1169 | 1169 | 100.0 | /mnt/stockage/packages/f38/secrets/po/pt_BR.po | 
- | [ro]({{< ref "/f38/language/ro.md" >}}) | 994 | 994 | 100.0 | /mnt/stockage/packages/f38/secrets/po/ro.po | 
- | [ru]({{< ref "/f38/language/ru.md" >}}) | 1170 | 1170 | 100.0 | /mnt/stockage/packages/f38/secrets/po/ru.po | 
- | [sl]({{< ref "/f38/language/sl.md" >}}) | 1170 | 1170 | 100.0 | /mnt/stockage/packages/f38/secrets/po/sl.po | 
- | [sr]({{< ref "/f38/language/sr.md" >}}) | 1159 | 1159 | 100.0 | /mnt/stockage/packages/f38/secrets/po/sr.po | 
- | [sv]({{< ref "/f38/language/sv.md" >}}) | 1170 | 1170 | 100.0 | /mnt/stockage/packages/f38/secrets/po/sv.po | 
- | [tr]({{< ref "/f38/language/tr.md" >}}) | 1170 | 1170 | 100.0 | /mnt/stockage/packages/f38/secrets/po/tr.po | 
- | [uk]({{< ref "/f38/language/uk.md" >}}) | 1170 | 1170 | 100.0 | /mnt/stockage/packages/f38/secrets/po/uk.po | 
- | [vi]({{< ref "/f38/language/vi.md" >}}) | 994 | 994 | 100.0 | /mnt/stockage/packages/f38/secrets/po/vi.po | 
- | [zh_Hans]({{< ref "/f38/language/zh_Hans.md" >}}) | 1169 | 1169 | 100.0 | /mnt/stockage/packages/f38/secrets/po/zh_CN.po | 
- | [pa]({{< ref "/f38/language/pa.md" >}}) | 884 | 1050 | 84.2 | /mnt/stockage/packages/f38/secrets/po/pa.po | 
- | [ka]({{< ref "/f38/language/ka.md" >}}) | 881 | 1170 | 75.3 | /mnt/stockage/packages/f38/secrets/po/ka.po | 
- | [ie]({{< ref "/f38/language/ie.md" >}}) | 585 | 1169 | 50.0 | /mnt/stockage/packages/f38/secrets/po/ie.po | 
- | [oc]({{< ref "/f38/language/oc.md" >}}) | 207 | 1008 | 20.5 | /mnt/stockage/packages/f38/secrets/po/oc.po | 
- | [el]({{< ref "/f38/language/el.md" >}}) | 146 | 715 | 20.4 | /mnt/stockage/packages/f38/secrets/po/el.po | 
+ | [ca](/f38/language/ca) | 1169 | 1169 | 100.0 | /mnt/stockage/packages/f38/secrets/po/ca.po | 
+ | [cs](/f38/language/cs) | 998 | 998 | 100.0 | /mnt/stockage/packages/f38/secrets/po/cs.po | 
+ | [da](/f38/language/da) | 1169 | 1169 | 100.0 | /mnt/stockage/packages/f38/secrets/po/da.po | 
+ | [de](/f38/language/de) | 1170 | 1170 | 100.0 | /mnt/stockage/packages/f38/secrets/po/de.po | 
+ | [en_GB](/f38/language/en_GB) | 1170 | 1170 | 100.0 | /mnt/stockage/packages/f38/secrets/po/en_GB.po | 
+ | [es](/f38/language/es) | 1170 | 1170 | 100.0 | /mnt/stockage/packages/f38/secrets/po/es.po | 
+ | [eu](/f38/language/eu) | 1170 | 1170 | 100.0 | /mnt/stockage/packages/f38/secrets/po/eu.po | 
+ | [fi](/f38/language/fi) | 1170 | 1170 | 100.0 | /mnt/stockage/packages/f38/secrets/po/fi.po | 
+ | [fr](/f38/language/fr) | 1170 | 1170 | 100.0 | /mnt/stockage/packages/f38/secrets/po/fr.po | 
+ | [gl](/f38/language/gl) | 994 | 994 | 100.0 | /mnt/stockage/packages/f38/secrets/po/gl.po | 
+ | [he](/f38/language/he) | 1170 | 1170 | 100.0 | /mnt/stockage/packages/f38/secrets/po/he.po | 
+ | [hr](/f38/language/hr) | 1169 | 1169 | 100.0 | /mnt/stockage/packages/f38/secrets/po/hr.po | 
+ | [hu](/f38/language/hu) | 1170 | 1170 | 100.0 | /mnt/stockage/packages/f38/secrets/po/hu.po | 
+ | [id](/f38/language/id) | 1170 | 1170 | 100.0 | /mnt/stockage/packages/f38/secrets/po/id.po | 
+ | [is](/f38/language/is) | 1169 | 1169 | 100.0 | /mnt/stockage/packages/f38/secrets/po/is.po | 
+ | [it](/f38/language/it) | 1003 | 1003 | 100.0 | /mnt/stockage/packages/f38/secrets/po/it.po | 
+ | [ko](/f38/language/ko) | 1170 | 1170 | 100.0 | /mnt/stockage/packages/f38/secrets/po/ko.po | 
+ | [nb_NO](/f38/language/nb_NO) | 1001 | 1001 | 100.0 | /mnt/stockage/packages/f38/secrets/po/nb.po | 
+ | [nl](/f38/language/nl) | 1170 | 1170 | 100.0 | /mnt/stockage/packages/f38/secrets/po/nl.po | 
+ | [nn](/f38/language/nn) | 1003 | 1003 | 100.0 | /mnt/stockage/packages/f38/secrets/po/nn.po | 
+ | [pl](/f38/language/pl) | 1170 | 1170 | 100.0 | /mnt/stockage/packages/f38/secrets/po/pl.po | 
+ | [pt](/f38/language/pt) | 1170 | 1170 | 100.0 | /mnt/stockage/packages/f38/secrets/po/pt.po | 
+ | [pt_BR](/f38/language/pt_BR) | 1169 | 1169 | 100.0 | /mnt/stockage/packages/f38/secrets/po/pt_BR.po | 
+ | [ro](/f38/language/ro) | 994 | 994 | 100.0 | /mnt/stockage/packages/f38/secrets/po/ro.po | 
+ | [ru](/f38/language/ru) | 1170 | 1170 | 100.0 | /mnt/stockage/packages/f38/secrets/po/ru.po | 
+ | [sl](/f38/language/sl) | 1170 | 1170 | 100.0 | /mnt/stockage/packages/f38/secrets/po/sl.po | 
+ | [sr](/f38/language/sr) | 1159 | 1159 | 100.0 | /mnt/stockage/packages/f38/secrets/po/sr.po | 
+ | [sv](/f38/language/sv) | 1170 | 1170 | 100.0 | /mnt/stockage/packages/f38/secrets/po/sv.po | 
+ | [tr](/f38/language/tr) | 1170 | 1170 | 100.0 | /mnt/stockage/packages/f38/secrets/po/tr.po | 
+ | [uk](/f38/language/uk) | 1170 | 1170 | 100.0 | /mnt/stockage/packages/f38/secrets/po/uk.po | 
+ | [vi](/f38/language/vi) | 994 | 994 | 100.0 | /mnt/stockage/packages/f38/secrets/po/vi.po | 
+ | [zh_Hans](/f38/language/zh_Hans) | 1169 | 1169 | 100.0 | /mnt/stockage/packages/f38/secrets/po/zh_CN.po | 
+ | [pa](/f38/language/pa) | 884 | 1050 | 84.2 | /mnt/stockage/packages/f38/secrets/po/pa.po | 
+ | [ka](/f38/language/ka) | 881 | 1170 | 75.3 | /mnt/stockage/packages/f38/secrets/po/ka.po | 
+ | [ie](/f38/language/ie) | 585 | 1169 | 50.0 | /mnt/stockage/packages/f38/secrets/po/ie.po | 
+ | [oc](/f38/language/oc) | 207 | 1008 | 20.5 | /mnt/stockage/packages/f38/secrets/po/oc.po | 
+ | [el](/f38/language/el) | 146 | 715 | 20.4 | /mnt/stockage/packages/f38/secrets/po/el.po | 
 {.sortable}
 
 

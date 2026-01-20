@@ -18,10 +18,10 @@ The package gyachi (version 1.2.11):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [es]({{< ref "/f23/language/es.md" >}}) | 4176 | 4176 | 100.0 | /mnt/stockage/packages/f23/gyachi/po/es.po | 
- | [fr]({{< ref "/f23/language/fr.md" >}}) | 3331 | 4176 | 79.8 | /mnt/stockage/packages/f23/gyachi/po/fr.po | 
- | [sr]({{< ref "/f23/language/sr.md" >}}) | 2096 | 4184 | 50.1 | /mnt/stockage/packages/f23/gyachi/po/sr.po | 
- | [de]({{< ref "/f23/language/de.md" >}}) | 0 | 4176 | 0.0 | /mnt/stockage/packages/f23/gyachi/po/de.po | 
+ | [es](/f23/language/es) | 4176 | 4176 | 100.0 | /mnt/stockage/packages/f23/gyachi/po/es.po | 
+ | [fr](/f23/language/fr) | 3331 | 4176 | 79.8 | /mnt/stockage/packages/f23/gyachi/po/fr.po | 
+ | [sr](/f23/language/sr) | 2096 | 4184 | 50.1 | /mnt/stockage/packages/f23/gyachi/po/sr.po | 
+ | [de](/f23/language/de) | 0 | 4176 | 0.0 | /mnt/stockage/packages/f23/gyachi/po/de.po | 
 {.sortable}
 
 

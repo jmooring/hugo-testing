@@ -18,18 +18,18 @@ The package gtypist (version 2.9.5):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [pl]({{< ref "/f28/language/pl.md" >}}) | 556 | 556 | 100.0 | /mnt/stockage/packages/f28/gtypist/po/pl.po | 
- | [de]({{< ref "/f28/language/de.md" >}}) | 547 | 556 | 98.4 | /mnt/stockage/packages/f28/gtypist/po/de.po | 
- | [tr]({{< ref "/f28/language/tr.md" >}}) | 482 | 556 | 86.7 | /mnt/stockage/packages/f28/gtypist/po/tr.po | 
- | [zh_Hans]({{< ref "/f28/language/zh_Hans.md" >}}) | 449 | 556 | 80.8 | /mnt/stockage/packages/f28/gtypist/po/zh_CN.po | 
- | [eu]({{< ref "/f28/language/eu.md" >}}) | 443 | 556 | 79.7 | /mnt/stockage/packages/f28/gtypist/po/eu.po | 
- | [cs]({{< ref "/f28/language/cs.md" >}}) | 419 | 556 | 75.4 | /mnt/stockage/packages/f28/gtypist/po/cs.po | 
- | [es]({{< ref "/f28/language/es.md" >}}) | 419 | 556 | 75.4 | /mnt/stockage/packages/f28/gtypist/po/es.po | 
- | [fi]({{< ref "/f28/language/fi.md" >}}) | 419 | 556 | 75.4 | /mnt/stockage/packages/f28/gtypist/po/fi.po | 
- | [fr]({{< ref "/f28/language/fr.md" >}}) | 419 | 556 | 75.4 | /mnt/stockage/packages/f28/gtypist/po/fr.po | 
- | [ru]({{< ref "/f28/language/ru.md" >}}) | 419 | 556 | 75.4 | /mnt/stockage/packages/f28/gtypist/po/ru.po | 
- | [zh_Hant]({{< ref "/f28/language/zh_Hant.md" >}}) | 291 | 556 | 52.3 | /mnt/stockage/packages/f28/gtypist/po/zh_TW.po | 
- | [nl]({{< ref "/f28/language/nl.md" >}}) | 285 | 556 | 51.3 | /mnt/stockage/packages/f28/gtypist/po/nl.po | 
+ | [pl](/f28/language/pl) | 556 | 556 | 100.0 | /mnt/stockage/packages/f28/gtypist/po/pl.po | 
+ | [de](/f28/language/de) | 547 | 556 | 98.4 | /mnt/stockage/packages/f28/gtypist/po/de.po | 
+ | [tr](/f28/language/tr) | 482 | 556 | 86.7 | /mnt/stockage/packages/f28/gtypist/po/tr.po | 
+ | [zh_Hans](/f28/language/zh_Hans) | 449 | 556 | 80.8 | /mnt/stockage/packages/f28/gtypist/po/zh_CN.po | 
+ | [eu](/f28/language/eu) | 443 | 556 | 79.7 | /mnt/stockage/packages/f28/gtypist/po/eu.po | 
+ | [cs](/f28/language/cs) | 419 | 556 | 75.4 | /mnt/stockage/packages/f28/gtypist/po/cs.po | 
+ | [es](/f28/language/es) | 419 | 556 | 75.4 | /mnt/stockage/packages/f28/gtypist/po/es.po | 
+ | [fi](/f28/language/fi) | 419 | 556 | 75.4 | /mnt/stockage/packages/f28/gtypist/po/fi.po | 
+ | [fr](/f28/language/fr) | 419 | 556 | 75.4 | /mnt/stockage/packages/f28/gtypist/po/fr.po | 
+ | [ru](/f28/language/ru) | 419 | 556 | 75.4 | /mnt/stockage/packages/f28/gtypist/po/ru.po | 
+ | [zh_Hant](/f28/language/zh_Hant) | 291 | 556 | 52.3 | /mnt/stockage/packages/f28/gtypist/po/zh_TW.po | 
+ | [nl](/f28/language/nl) | 285 | 556 | 51.3 | /mnt/stockage/packages/f28/gtypist/po/nl.po | 
 {.sortable}
 
 

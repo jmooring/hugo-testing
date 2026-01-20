@@ -18,17 +18,17 @@ The package gnuchess (version 6.2.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [es]({{< ref "/f21/language/es.md" >}}) | 1068 | 1068 | 100.0 | /mnt/stockage/packages/f21/gnuchess/po/es.po | 
- | [nl]({{< ref "/f21/language/nl.md" >}}) | 1068 | 1068 | 100.0 | /mnt/stockage/packages/f21/gnuchess/po/nl.po | 
- | [uk]({{< ref "/f21/language/uk.md" >}}) | 1068 | 1068 | 100.0 | /mnt/stockage/packages/f21/gnuchess/po/uk.po | 
- | [vi]({{< ref "/f21/language/vi.md" >}}) | 1068 | 1068 | 100.0 | /mnt/stockage/packages/f21/gnuchess/po/vi.po | 
- | [eo]({{< ref "/f21/language/eo.md" >}}) | 1004 | 1068 | 94.0 | /mnt/stockage/packages/f21/gnuchess/po/eo.po | 
- | [fr]({{< ref "/f21/language/fr.md" >}}) | 1004 | 1068 | 94.0 | /mnt/stockage/packages/f21/gnuchess/po/fr.po | 
- | [nb_NO]({{< ref "/f21/language/nb_NO.md" >}}) | 1004 | 1068 | 94.0 | /mnt/stockage/packages/f21/gnuchess/po/nb.po | 
- | [pt_BR]({{< ref "/f21/language/pt_BR.md" >}}) | 1004 | 1068 | 94.0 | /mnt/stockage/packages/f21/gnuchess/po/pt_BR.po | 
- | [sr]({{< ref "/f21/language/sr.md" >}}) | 1004 | 1068 | 94.0 | /mnt/stockage/packages/f21/gnuchess/po/sr.po | 
- | [de]({{< ref "/f21/language/de.md" >}}) | 741 | 1068 | 69.4 | /mnt/stockage/packages/f21/gnuchess/po/de.po | 
- | [gl]({{< ref "/f21/language/gl.md" >}}) | 141 | 1068 | 13.2 | /mnt/stockage/packages/f21/gnuchess/po/gl.po | 
+ | [es](/f21/language/es) | 1068 | 1068 | 100.0 | /mnt/stockage/packages/f21/gnuchess/po/es.po | 
+ | [nl](/f21/language/nl) | 1068 | 1068 | 100.0 | /mnt/stockage/packages/f21/gnuchess/po/nl.po | 
+ | [uk](/f21/language/uk) | 1068 | 1068 | 100.0 | /mnt/stockage/packages/f21/gnuchess/po/uk.po | 
+ | [vi](/f21/language/vi) | 1068 | 1068 | 100.0 | /mnt/stockage/packages/f21/gnuchess/po/vi.po | 
+ | [eo](/f21/language/eo) | 1004 | 1068 | 94.0 | /mnt/stockage/packages/f21/gnuchess/po/eo.po | 
+ | [fr](/f21/language/fr) | 1004 | 1068 | 94.0 | /mnt/stockage/packages/f21/gnuchess/po/fr.po | 
+ | [nb_NO](/f21/language/nb_NO) | 1004 | 1068 | 94.0 | /mnt/stockage/packages/f21/gnuchess/po/nb.po | 
+ | [pt_BR](/f21/language/pt_BR) | 1004 | 1068 | 94.0 | /mnt/stockage/packages/f21/gnuchess/po/pt_BR.po | 
+ | [sr](/f21/language/sr) | 1004 | 1068 | 94.0 | /mnt/stockage/packages/f21/gnuchess/po/sr.po | 
+ | [de](/f21/language/de) | 741 | 1068 | 69.4 | /mnt/stockage/packages/f21/gnuchess/po/de.po | 
+ | [gl](/f21/language/gl) | 141 | 1068 | 13.2 | /mnt/stockage/packages/f21/gnuchess/po/gl.po | 
 {.sortable}
 
 

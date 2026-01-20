@@ -18,65 +18,65 @@ The package python-nikola (version 8.3.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [af]({{< ref "/f41/language/af.md" >}}) | 94 | 94 | 100.0 | /mnt/stockage/packages/f41/python-nikola/translations/nikola.messages/af.po | 
- | [ar]({{< ref "/f41/language/ar.md" >}}) | 94 | 94 | 100.0 | /mnt/stockage/packages/f41/python-nikola/translations/nikola.messages/ar.po | 
- | [ca]({{< ref "/f41/language/ca.md" >}}) | 94 | 94 | 100.0 | /mnt/stockage/packages/f41/python-nikola/translations/nikola.messages/ca.po | 
- | [de]({{< ref "/f41/language/de.md" >}}) | 94 | 94 | 100.0 | /mnt/stockage/packages/f41/python-nikola/translations/nikola.messages/de.po | 
- | [el]({{< ref "/f41/language/el.md" >}}) | 94 | 94 | 100.0 | /mnt/stockage/packages/f41/python-nikola/translations/nikola.messages/el.po | 
- | [en]({{< ref "/f41/language/en.md" >}}) | 94 | 94 | 100.0 | /mnt/stockage/packages/f41/python-nikola/translations/nikola.messages/en.po | 
- | [eo]({{< ref "/f41/language/eo.md" >}}) | 94 | 94 | 100.0 | /mnt/stockage/packages/f41/python-nikola/translations/nikola.messages/eo.po | 
- | [es]({{< ref "/f41/language/es.md" >}}) | 94 | 94 | 100.0 | /mnt/stockage/packages/f41/python-nikola/translations/nikola.messages/es.po | 
- | [fi]({{< ref "/f41/language/fi.md" >}}) | 94 | 94 | 100.0 | /mnt/stockage/packages/f41/python-nikola/translations/nikola.messages/fi.po | 
- | [fr]({{< ref "/f41/language/fr.md" >}}) | 94 | 94 | 100.0 | /mnt/stockage/packages/f41/python-nikola/translations/nikola.messages/fr.po | 
- | [fur]({{< ref "/f41/language/fur.md" >}}) | 94 | 94 | 100.0 | /mnt/stockage/packages/f41/python-nikola/translations/nikola.messages/fur.po | 
- | [hi]({{< ref "/f41/language/hi.md" >}}) | 94 | 94 | 100.0 | /mnt/stockage/packages/f41/python-nikola/translations/nikola.messages/hi.po | 
- | [ia]({{< ref "/f41/language/ia.md" >}}) | 94 | 94 | 100.0 | /mnt/stockage/packages/f41/python-nikola/translations/nikola.messages/ia.po | 
- | [id]({{< ref "/f41/language/id.md" >}}) | 94 | 94 | 100.0 | /mnt/stockage/packages/f41/python-nikola/translations/nikola.messages/id.po | 
- | [it]({{< ref "/f41/language/it.md" >}}) | 94 | 94 | 100.0 | /mnt/stockage/packages/f41/python-nikola/translations/nikola.messages/it.po | 
- | [ja]({{< ref "/f41/language/ja.md" >}}) | 94 | 94 | 100.0 | /mnt/stockage/packages/f41/python-nikola/translations/nikola.messages/ja.po | 
- | [ko]({{< ref "/f41/language/ko.md" >}}) | 94 | 94 | 100.0 | /mnt/stockage/packages/f41/python-nikola/translations/nikola.messages/ko.po | 
- | [mi]({{< ref "/f41/language/mi.md" >}}) | 94 | 94 | 100.0 | /mnt/stockage/packages/f41/python-nikola/translations/nikola.messages/mi.po | 
- | [ml]({{< ref "/f41/language/ml.md" >}}) | 94 | 94 | 100.0 | /mnt/stockage/packages/f41/python-nikola/translations/nikola.messages/ml.po | 
- | [mr]({{< ref "/f41/language/mr.md" >}}) | 94 | 94 | 100.0 | /mnt/stockage/packages/f41/python-nikola/translations/nikola.messages/mr.po | 
- | [nl]({{< ref "/f41/language/nl.md" >}}) | 94 | 94 | 100.0 | /mnt/stockage/packages/f41/python-nikola/translations/nikola.messages/nl.po | 
- | [oc]({{< ref "/f41/language/oc.md" >}}) | 94 | 94 | 100.0 | /mnt/stockage/packages/f41/python-nikola/translations/nikola.messages/oc.po | 
- | [pa]({{< ref "/f41/language/pa.md" >}}) | 94 | 94 | 100.0 | /mnt/stockage/packages/f41/python-nikola/translations/nikola.messages/pa.po | 
- | [pl]({{< ref "/f41/language/pl.md" >}}) | 94 | 94 | 100.0 | /mnt/stockage/packages/f41/python-nikola/translations/nikola.messages/pl.po | 
- | [pt]({{< ref "/f41/language/pt.md" >}}) | 94 | 94 | 100.0 | /mnt/stockage/packages/f41/python-nikola/translations/nikola.messages/pt.po | 
- | [pt_BR]({{< ref "/f41/language/pt_BR.md" >}}) | 94 | 94 | 100.0 | /mnt/stockage/packages/f41/python-nikola/translations/nikola.messages/pt_BR.po | 
- | [te]({{< ref "/f41/language/te.md" >}}) | 94 | 94 | 100.0 | /mnt/stockage/packages/f41/python-nikola/translations/nikola.messages/te.po | 
- | [tr]({{< ref "/f41/language/tr.md" >}}) | 94 | 94 | 100.0 | /mnt/stockage/packages/f41/python-nikola/translations/nikola.messages/tr.po | 
- | [uk]({{< ref "/f41/language/uk.md" >}}) | 94 | 94 | 100.0 | /mnt/stockage/packages/f41/python-nikola/translations/nikola.messages/uk.po | 
- | [ur]({{< ref "/f41/language/ur.md" >}}) | 94 | 94 | 100.0 | /mnt/stockage/packages/f41/python-nikola/translations/nikola.messages/ur.po | 
- | [vi]({{< ref "/f41/language/vi.md" >}}) | 94 | 94 | 100.0 | /mnt/stockage/packages/f41/python-nikola/translations/nikola.messages/vi.po | 
- | [zh_Hans]({{< ref "/f41/language/zh_Hans.md" >}}) | 94 | 94 | 100.0 | /mnt/stockage/packages/f41/python-nikola/translations/nikola.messages/zh_CN.po | 
- | [az]({{< ref "/f41/language/az.md" >}}) | 93 | 94 | 98.9 | /mnt/stockage/packages/f41/python-nikola/translations/nikola.messages/az.po | 
- | [et]({{< ref "/f41/language/et.md" >}}) | 93 | 94 | 98.9 | /mnt/stockage/packages/f41/python-nikola/translations/nikola.messages/et.po | 
- | [sk]({{< ref "/f41/language/sk.md" >}}) | 93 | 94 | 98.9 | /mnt/stockage/packages/f41/python-nikola/translations/nikola.messages/sk.po | 
- | [th]({{< ref "/f41/language/th.md" >}}) | 93 | 94 | 98.9 | /mnt/stockage/packages/f41/python-nikola/translations/nikola.messages/th.po | 
- | [hu]({{< ref "/f41/language/hu.md" >}}) | 91 | 94 | 96.8 | /mnt/stockage/packages/f41/python-nikola/translations/nikola.messages/hu.po | 
- | [ru]({{< ref "/f41/language/ru.md" >}}) | 91 | 94 | 96.8 | /mnt/stockage/packages/f41/python-nikola/translations/nikola.messages/ru.po | 
- | [zh_Hant]({{< ref "/f41/language/zh_Hant.md" >}}) | 91 | 94 | 96.8 | /mnt/stockage/packages/f41/python-nikola/translations/nikola.messages/zh_TW.po | 
- | [fa]({{< ref "/f41/language/fa.md" >}}) | 88 | 94 | 93.6 | /mnt/stockage/packages/f41/python-nikola/translations/nikola.messages/fa.po | 
- | [he]({{< ref "/f41/language/he.md" >}}) | 88 | 94 | 93.6 | /mnt/stockage/packages/f41/python-nikola/translations/nikola.messages/he.po | 
- | [bg]({{< ref "/f41/language/bg.md" >}}) | 86 | 94 | 91.5 | /mnt/stockage/packages/f41/python-nikola/translations/nikola.messages/bg.po | 
- | [bs]({{< ref "/f41/language/bs.md" >}}) | 86 | 94 | 91.5 | /mnt/stockage/packages/f41/python-nikola/translations/nikola.messages/bs.po | 
- | [eu]({{< ref "/f41/language/eu.md" >}}) | 86 | 94 | 91.5 | /mnt/stockage/packages/f41/python-nikola/translations/nikola.messages/eu.po | 
- | [gl]({{< ref "/f41/language/gl.md" >}}) | 86 | 94 | 91.5 | /mnt/stockage/packages/f41/python-nikola/translations/nikola.messages/gl.po | 
- | [hr]({{< ref "/f41/language/hr.md" >}}) | 86 | 94 | 91.5 | /mnt/stockage/packages/f41/python-nikola/translations/nikola.messages/hr.po | 
- | [lt]({{< ref "/f41/language/lt.md" >}}) | 86 | 94 | 91.5 | /mnt/stockage/packages/f41/python-nikola/translations/nikola.messages/lt.po | 
- | [sq]({{< ref "/f41/language/sq.md" >}}) | 86 | 94 | 91.5 | /mnt/stockage/packages/f41/python-nikola/translations/nikola.messages/sq.po | 
- | [nb_NO]({{< ref "/f41/language/nb_NO.md" >}}) | 80 | 94 | 85.1 | /mnt/stockage/packages/f41/python-nikola/translations/nikola.messages/nb.po | 
- | [sr]({{< ref "/f41/language/sr.md" >}}) | 80 | 94 | 85.1 | /mnt/stockage/packages/f41/python-nikola/translations/nikola.messages/sr.po | 
- | [sr_Latn]({{< ref "/f41/language/sr_Latn.md" >}}) | 80 | 94 | 85.1 | /mnt/stockage/packages/f41/python-nikola/translations/nikola.messages/sr@latin.po | 
- | [sv]({{< ref "/f41/language/sv.md" >}}) | 80 | 94 | 85.1 | /mnt/stockage/packages/f41/python-nikola/translations/nikola.messages/sv.po | 
- | [cs]({{< ref "/f41/language/cs.md" >}}) | 70 | 94 | 74.5 | /mnt/stockage/packages/f41/python-nikola/translations/nikola.messages/cs.po | 
- | [da]({{< ref "/f41/language/da.md" >}}) | 70 | 94 | 74.5 | /mnt/stockage/packages/f41/python-nikola/translations/nikola.messages/da.po | 
- | [sl]({{< ref "/f41/language/sl.md" >}}) | 70 | 94 | 74.5 | /mnt/stockage/packages/f41/python-nikola/translations/nikola.messages/sl.po | 
- | [tzm]({{< ref "/f41/language/tzm.md" >}}) | 8 | 94 | 8.5 | /mnt/stockage/packages/f41/python-nikola/translations/nikola.messages/tzm.po | 
- | [bn]({{< ref "/f41/language/bn.md" >}}) | 0 | 94 | 0.0 | /mnt/stockage/packages/f41/python-nikola/translations/nikola.messages/bn.po | 
- | [br]({{< ref "/f41/language/br.md" >}}) | 0 | 94 | 0.0 | /mnt/stockage/packages/f41/python-nikola/translations/nikola.messages/br.po | 
- | [ta]({{< ref "/f41/language/ta.md" >}}) | 0 | 94 | 0.0 | /mnt/stockage/packages/f41/python-nikola/translations/nikola.messages/ta.po | 
+ | [af](/f41/language/af) | 94 | 94 | 100.0 | /mnt/stockage/packages/f41/python-nikola/translations/nikola.messages/af.po | 
+ | [ar](/f41/language/ar) | 94 | 94 | 100.0 | /mnt/stockage/packages/f41/python-nikola/translations/nikola.messages/ar.po | 
+ | [ca](/f41/language/ca) | 94 | 94 | 100.0 | /mnt/stockage/packages/f41/python-nikola/translations/nikola.messages/ca.po | 
+ | [de](/f41/language/de) | 94 | 94 | 100.0 | /mnt/stockage/packages/f41/python-nikola/translations/nikola.messages/de.po | 
+ | [el](/f41/language/el) | 94 | 94 | 100.0 | /mnt/stockage/packages/f41/python-nikola/translations/nikola.messages/el.po | 
+ | [en](/f41/language/en) | 94 | 94 | 100.0 | /mnt/stockage/packages/f41/python-nikola/translations/nikola.messages/en.po | 
+ | [eo](/f41/language/eo) | 94 | 94 | 100.0 | /mnt/stockage/packages/f41/python-nikola/translations/nikola.messages/eo.po | 
+ | [es](/f41/language/es) | 94 | 94 | 100.0 | /mnt/stockage/packages/f41/python-nikola/translations/nikola.messages/es.po | 
+ | [fi](/f41/language/fi) | 94 | 94 | 100.0 | /mnt/stockage/packages/f41/python-nikola/translations/nikola.messages/fi.po | 
+ | [fr](/f41/language/fr) | 94 | 94 | 100.0 | /mnt/stockage/packages/f41/python-nikola/translations/nikola.messages/fr.po | 
+ | [fur](/f41/language/fur) | 94 | 94 | 100.0 | /mnt/stockage/packages/f41/python-nikola/translations/nikola.messages/fur.po | 
+ | [hi](/f41/language/hi) | 94 | 94 | 100.0 | /mnt/stockage/packages/f41/python-nikola/translations/nikola.messages/hi.po | 
+ | [ia](/f41/language/ia) | 94 | 94 | 100.0 | /mnt/stockage/packages/f41/python-nikola/translations/nikola.messages/ia.po | 
+ | [id](/f41/language/id) | 94 | 94 | 100.0 | /mnt/stockage/packages/f41/python-nikola/translations/nikola.messages/id.po | 
+ | [it](/f41/language/it) | 94 | 94 | 100.0 | /mnt/stockage/packages/f41/python-nikola/translations/nikola.messages/it.po | 
+ | [ja](/f41/language/ja) | 94 | 94 | 100.0 | /mnt/stockage/packages/f41/python-nikola/translations/nikola.messages/ja.po | 
+ | [ko](/f41/language/ko) | 94 | 94 | 100.0 | /mnt/stockage/packages/f41/python-nikola/translations/nikola.messages/ko.po | 
+ | [mi](/f41/language/mi) | 94 | 94 | 100.0 | /mnt/stockage/packages/f41/python-nikola/translations/nikola.messages/mi.po | 
+ | [ml](/f41/language/ml) | 94 | 94 | 100.0 | /mnt/stockage/packages/f41/python-nikola/translations/nikola.messages/ml.po | 
+ | [mr](/f41/language/mr) | 94 | 94 | 100.0 | /mnt/stockage/packages/f41/python-nikola/translations/nikola.messages/mr.po | 
+ | [nl](/f41/language/nl) | 94 | 94 | 100.0 | /mnt/stockage/packages/f41/python-nikola/translations/nikola.messages/nl.po | 
+ | [oc](/f41/language/oc) | 94 | 94 | 100.0 | /mnt/stockage/packages/f41/python-nikola/translations/nikola.messages/oc.po | 
+ | [pa](/f41/language/pa) | 94 | 94 | 100.0 | /mnt/stockage/packages/f41/python-nikola/translations/nikola.messages/pa.po | 
+ | [pl](/f41/language/pl) | 94 | 94 | 100.0 | /mnt/stockage/packages/f41/python-nikola/translations/nikola.messages/pl.po | 
+ | [pt](/f41/language/pt) | 94 | 94 | 100.0 | /mnt/stockage/packages/f41/python-nikola/translations/nikola.messages/pt.po | 
+ | [pt_BR](/f41/language/pt_BR) | 94 | 94 | 100.0 | /mnt/stockage/packages/f41/python-nikola/translations/nikola.messages/pt_BR.po | 
+ | [te](/f41/language/te) | 94 | 94 | 100.0 | /mnt/stockage/packages/f41/python-nikola/translations/nikola.messages/te.po | 
+ | [tr](/f41/language/tr) | 94 | 94 | 100.0 | /mnt/stockage/packages/f41/python-nikola/translations/nikola.messages/tr.po | 
+ | [uk](/f41/language/uk) | 94 | 94 | 100.0 | /mnt/stockage/packages/f41/python-nikola/translations/nikola.messages/uk.po | 
+ | [ur](/f41/language/ur) | 94 | 94 | 100.0 | /mnt/stockage/packages/f41/python-nikola/translations/nikola.messages/ur.po | 
+ | [vi](/f41/language/vi) | 94 | 94 | 100.0 | /mnt/stockage/packages/f41/python-nikola/translations/nikola.messages/vi.po | 
+ | [zh_Hans](/f41/language/zh_Hans) | 94 | 94 | 100.0 | /mnt/stockage/packages/f41/python-nikola/translations/nikola.messages/zh_CN.po | 
+ | [az](/f41/language/az) | 93 | 94 | 98.9 | /mnt/stockage/packages/f41/python-nikola/translations/nikola.messages/az.po | 
+ | [et](/f41/language/et) | 93 | 94 | 98.9 | /mnt/stockage/packages/f41/python-nikola/translations/nikola.messages/et.po | 
+ | [sk](/f41/language/sk) | 93 | 94 | 98.9 | /mnt/stockage/packages/f41/python-nikola/translations/nikola.messages/sk.po | 
+ | [th](/f41/language/th) | 93 | 94 | 98.9 | /mnt/stockage/packages/f41/python-nikola/translations/nikola.messages/th.po | 
+ | [hu](/f41/language/hu) | 91 | 94 | 96.8 | /mnt/stockage/packages/f41/python-nikola/translations/nikola.messages/hu.po | 
+ | [ru](/f41/language/ru) | 91 | 94 | 96.8 | /mnt/stockage/packages/f41/python-nikola/translations/nikola.messages/ru.po | 
+ | [zh_Hant](/f41/language/zh_Hant) | 91 | 94 | 96.8 | /mnt/stockage/packages/f41/python-nikola/translations/nikola.messages/zh_TW.po | 
+ | [fa](/f41/language/fa) | 88 | 94 | 93.6 | /mnt/stockage/packages/f41/python-nikola/translations/nikola.messages/fa.po | 
+ | [he](/f41/language/he) | 88 | 94 | 93.6 | /mnt/stockage/packages/f41/python-nikola/translations/nikola.messages/he.po | 
+ | [bg](/f41/language/bg) | 86 | 94 | 91.5 | /mnt/stockage/packages/f41/python-nikola/translations/nikola.messages/bg.po | 
+ | [bs](/f41/language/bs) | 86 | 94 | 91.5 | /mnt/stockage/packages/f41/python-nikola/translations/nikola.messages/bs.po | 
+ | [eu](/f41/language/eu) | 86 | 94 | 91.5 | /mnt/stockage/packages/f41/python-nikola/translations/nikola.messages/eu.po | 
+ | [gl](/f41/language/gl) | 86 | 94 | 91.5 | /mnt/stockage/packages/f41/python-nikola/translations/nikola.messages/gl.po | 
+ | [hr](/f41/language/hr) | 86 | 94 | 91.5 | /mnt/stockage/packages/f41/python-nikola/translations/nikola.messages/hr.po | 
+ | [lt](/f41/language/lt) | 86 | 94 | 91.5 | /mnt/stockage/packages/f41/python-nikola/translations/nikola.messages/lt.po | 
+ | [sq](/f41/language/sq) | 86 | 94 | 91.5 | /mnt/stockage/packages/f41/python-nikola/translations/nikola.messages/sq.po | 
+ | [nb_NO](/f41/language/nb_NO) | 80 | 94 | 85.1 | /mnt/stockage/packages/f41/python-nikola/translations/nikola.messages/nb.po | 
+ | [sr](/f41/language/sr) | 80 | 94 | 85.1 | /mnt/stockage/packages/f41/python-nikola/translations/nikola.messages/sr.po | 
+ | [sr_Latn](/f41/language/sr_Latn) | 80 | 94 | 85.1 | /mnt/stockage/packages/f41/python-nikola/translations/nikola.messages/sr@latin.po | 
+ | [sv](/f41/language/sv) | 80 | 94 | 85.1 | /mnt/stockage/packages/f41/python-nikola/translations/nikola.messages/sv.po | 
+ | [cs](/f41/language/cs) | 70 | 94 | 74.5 | /mnt/stockage/packages/f41/python-nikola/translations/nikola.messages/cs.po | 
+ | [da](/f41/language/da) | 70 | 94 | 74.5 | /mnt/stockage/packages/f41/python-nikola/translations/nikola.messages/da.po | 
+ | [sl](/f41/language/sl) | 70 | 94 | 74.5 | /mnt/stockage/packages/f41/python-nikola/translations/nikola.messages/sl.po | 
+ | [tzm](/f41/language/tzm) | 8 | 94 | 8.5 | /mnt/stockage/packages/f41/python-nikola/translations/nikola.messages/tzm.po | 
+ | [bn](/f41/language/bn) | 0 | 94 | 0.0 | /mnt/stockage/packages/f41/python-nikola/translations/nikola.messages/bn.po | 
+ | [br](/f41/language/br) | 0 | 94 | 0.0 | /mnt/stockage/packages/f41/python-nikola/translations/nikola.messages/br.po | 
+ | [ta](/f41/language/ta) | 0 | 94 | 0.0 | /mnt/stockage/packages/f41/python-nikola/translations/nikola.messages/ta.po | 
 {.sortable}
 
 

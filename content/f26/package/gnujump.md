@@ -18,8 +18,8 @@ The package gnujump (version 1.0.8):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [it]({{< ref "/f26/language/it.md" >}}) | 903 | 903 | 100.0 | /mnt/stockage/packages/f26/gnujump/po/it.po | 
- | [tr]({{< ref "/f26/language/tr.md" >}}) | 903 | 903 | 100.0 | /mnt/stockage/packages/f26/gnujump/po/tr.po | 
+ | [it](/f26/language/it) | 903 | 903 | 100.0 | /mnt/stockage/packages/f26/gnujump/po/it.po | 
+ | [tr](/f26/language/tr) | 903 | 903 | 100.0 | /mnt/stockage/packages/f26/gnujump/po/tr.po | 
 {.sortable}
 
 

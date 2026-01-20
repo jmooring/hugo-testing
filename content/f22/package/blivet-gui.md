@@ -18,9 +18,9 @@ The package blivet-gui (version 0.2.9):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [pl]({{< ref "/f22/language/pl.md" >}}) | 659 | 672 | 98.1 | /mnt/stockage/packages/f22/blivet-gui/po/pl.po | 
- | [ca]({{< ref "/f22/language/ca.md" >}}) | 519 | 672 | 77.2 | /mnt/stockage/packages/f22/blivet-gui/po/ca.po | 
- | [cs]({{< ref "/f22/language/cs.md" >}}) | 337 | 672 | 50.1 | /mnt/stockage/packages/f22/blivet-gui/po/cs.po | 
+ | [pl](/f22/language/pl) | 659 | 672 | 98.1 | /mnt/stockage/packages/f22/blivet-gui/po/pl.po | 
+ | [ca](/f22/language/ca) | 519 | 672 | 77.2 | /mnt/stockage/packages/f22/blivet-gui/po/ca.po | 
+ | [cs](/f22/language/cs) | 337 | 672 | 50.1 | /mnt/stockage/packages/f22/blivet-gui/po/cs.po | 
 {.sortable}
 
 

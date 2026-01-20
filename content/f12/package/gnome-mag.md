@@ -18,93 +18,93 @@ The package gnome-mag (version 0.15.9):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ang]({{< ref "/f12/language/ang.md" >}}) | 5 | 5 | 100.0 | /mnt/stockage/packages/f12/gnome-mag/po/ang.po | 
- | [ar]({{< ref "/f12/language/ar.md" >}}) | 298 | 298 | 100.0 | /mnt/stockage/packages/f12/gnome-mag/po/ar.po | 
- | [as]({{< ref "/f12/language/as.md" >}}) | 298 | 298 | 100.0 | /mnt/stockage/packages/f12/gnome-mag/po/as.po | 
- | [ast]({{< ref "/f12/language/ast.md" >}}) | 298 | 298 | 100.0 | /mnt/stockage/packages/f12/gnome-mag/po/ast.po | 
- | [az]({{< ref "/f12/language/az.md" >}}) | 5 | 5 | 100.0 | /mnt/stockage/packages/f12/gnome-mag/po/az.po | 
- | [be]({{< ref "/f12/language/be.md" >}}) | 12 | 12 | 100.0 | /mnt/stockage/packages/f12/gnome-mag/po/be.po | 
- | [bg]({{< ref "/f12/language/bg.md" >}}) | 298 | 298 | 100.0 | /mnt/stockage/packages/f12/gnome-mag/po/bg.po | 
- | [bn]({{< ref "/f12/language/bn.md" >}}) | 5 | 5 | 100.0 | /mnt/stockage/packages/f12/gnome-mag/po/bn.po | 
- | [bn_IN]({{< ref "/f12/language/bn_IN.md" >}}) | 298 | 298 | 100.0 | /mnt/stockage/packages/f12/gnome-mag/po/bn_IN.po | 
- | [bs]({{< ref "/f12/language/bs.md" >}}) | 5 | 5 | 100.0 | /mnt/stockage/packages/f12/gnome-mag/po/bs.po | 
- | [ca]({{< ref "/f12/language/ca.md" >}}) | 298 | 298 | 100.0 | /mnt/stockage/packages/f12/gnome-mag/po/ca.po | 
- | [ca@valencia]({{< ref "/f12/language/ca@valencia.md" >}}) | 298 | 298 | 100.0 | /mnt/stockage/packages/f12/gnome-mag/po/ca@valencia.po | 
- | [cs]({{< ref "/f12/language/cs.md" >}}) | 298 | 298 | 100.0 | /mnt/stockage/packages/f12/gnome-mag/po/cs.po | 
- | [cy]({{< ref "/f12/language/cy.md" >}}) | 5 | 5 | 100.0 | /mnt/stockage/packages/f12/gnome-mag/po/cy.po | 
- | [da]({{< ref "/f12/language/da.md" >}}) | 298 | 298 | 100.0 | /mnt/stockage/packages/f12/gnome-mag/po/da.po | 
- | [de]({{< ref "/f12/language/de.md" >}}) | 298 | 298 | 100.0 | /mnt/stockage/packages/f12/gnome-mag/po/de.po | 
- | [dz]({{< ref "/f12/language/dz.md" >}}) | 298 | 298 | 100.0 | /mnt/stockage/packages/f12/gnome-mag/po/dz.po | 
- | [el]({{< ref "/f12/language/el.md" >}}) | 298 | 298 | 100.0 | /mnt/stockage/packages/f12/gnome-mag/po/el.po | 
- | [en_CA]({{< ref "/f12/language/en_CA.md" >}}) | 297 | 297 | 100.0 | /mnt/stockage/packages/f12/gnome-mag/po/en_CA.po | 
- | [en_GB]({{< ref "/f12/language/en_GB.md" >}}) | 298 | 298 | 100.0 | /mnt/stockage/packages/f12/gnome-mag/po/en_GB.po | 
- | [eo]({{< ref "/f12/language/eo.md" >}}) | 5 | 5 | 100.0 | /mnt/stockage/packages/f12/gnome-mag/po/eo.po | 
- | [es]({{< ref "/f12/language/es.md" >}}) | 298 | 298 | 100.0 | /mnt/stockage/packages/f12/gnome-mag/po/es.po | 
- | [et]({{< ref "/f12/language/et.md" >}}) | 298 | 298 | 100.0 | /mnt/stockage/packages/f12/gnome-mag/po/et.po | 
- | [eu]({{< ref "/f12/language/eu.md" >}}) | 298 | 298 | 100.0 | /mnt/stockage/packages/f12/gnome-mag/po/eu.po | 
- | [fa]({{< ref "/f12/language/fa.md" >}}) | 5 | 5 | 100.0 | /mnt/stockage/packages/f12/gnome-mag/po/fa.po | 
- | [fi]({{< ref "/f12/language/fi.md" >}}) | 298 | 298 | 100.0 | /mnt/stockage/packages/f12/gnome-mag/po/fi.po | 
- | [fr]({{< ref "/f12/language/fr.md" >}}) | 298 | 298 | 100.0 | /mnt/stockage/packages/f12/gnome-mag/po/fr.po | 
- | [ga]({{< ref "/f12/language/ga.md" >}}) | 5 | 5 | 100.0 | /mnt/stockage/packages/f12/gnome-mag/po/ga.po | 
- | [gl]({{< ref "/f12/language/gl.md" >}}) | 298 | 298 | 100.0 | /mnt/stockage/packages/f12/gnome-mag/po/gl.po | 
- | [gu]({{< ref "/f12/language/gu.md" >}}) | 298 | 298 | 100.0 | /mnt/stockage/packages/f12/gnome-mag/po/gu.po | 
- | [he]({{< ref "/f12/language/he.md" >}}) | 298 | 298 | 100.0 | /mnt/stockage/packages/f12/gnome-mag/po/he.po | 
- | [hi]({{< ref "/f12/language/hi.md" >}}) | 298 | 298 | 100.0 | /mnt/stockage/packages/f12/gnome-mag/po/hi.po | 
- | [hr]({{< ref "/f12/language/hr.md" >}}) | 298 | 298 | 100.0 | /mnt/stockage/packages/f12/gnome-mag/po/hr.po | 
- | [hu]({{< ref "/f12/language/hu.md" >}}) | 298 | 298 | 100.0 | /mnt/stockage/packages/f12/gnome-mag/po/hu.po | 
- | [id]({{< ref "/f12/language/id.md" >}}) | 5 | 5 | 100.0 | /mnt/stockage/packages/f12/gnome-mag/po/id.po | 
- | [is]({{< ref "/f12/language/is.md" >}}) | 5 | 5 | 100.0 | /mnt/stockage/packages/f12/gnome-mag/po/is.po | 
- | [it]({{< ref "/f12/language/it.md" >}}) | 298 | 298 | 100.0 | /mnt/stockage/packages/f12/gnome-mag/po/it.po | 
- | [ja]({{< ref "/f12/language/ja.md" >}}) | 298 | 298 | 100.0 | /mnt/stockage/packages/f12/gnome-mag/po/ja.po | 
- | [ka]({{< ref "/f12/language/ka.md" >}}) | 5 | 5 | 100.0 | /mnt/stockage/packages/f12/gnome-mag/po/ka.po | 
- | [kn]({{< ref "/f12/language/kn.md" >}}) | 298 | 298 | 100.0 | /mnt/stockage/packages/f12/gnome-mag/po/kn.po | 
- | [ko]({{< ref "/f12/language/ko.md" >}}) | 298 | 298 | 100.0 | /mnt/stockage/packages/f12/gnome-mag/po/ko.po | 
- | [ku]({{< ref "/f12/language/ku.md" >}}) | 5 | 5 | 100.0 | /mnt/stockage/packages/f12/gnome-mag/po/ku.po | 
- | [ky]({{< ref "/f12/language/ky.md" >}}) | 5 | 5 | 100.0 | /mnt/stockage/packages/f12/gnome-mag/po/ky.po | 
- | [lt]({{< ref "/f12/language/lt.md" >}}) | 298 | 298 | 100.0 | /mnt/stockage/packages/f12/gnome-mag/po/lt.po | 
- | [lv]({{< ref "/f12/language/lv.md" >}}) | 298 | 298 | 100.0 | /mnt/stockage/packages/f12/gnome-mag/po/lv.po | 
- | [mg]({{< ref "/f12/language/mg.md" >}}) | 5 | 5 | 100.0 | /mnt/stockage/packages/f12/gnome-mag/po/mg.po | 
- | [mi]({{< ref "/f12/language/mi.md" >}}) | 5 | 5 | 100.0 | /mnt/stockage/packages/f12/gnome-mag/po/mi.po | 
- | [mk]({{< ref "/f12/language/mk.md" >}}) | 298 | 298 | 100.0 | /mnt/stockage/packages/f12/gnome-mag/po/mk.po | 
- | [ml]({{< ref "/f12/language/ml.md" >}}) | 298 | 298 | 100.0 | /mnt/stockage/packages/f12/gnome-mag/po/ml.po | 
- | [mn]({{< ref "/f12/language/mn.md" >}}) | 5 | 5 | 100.0 | /mnt/stockage/packages/f12/gnome-mag/po/mn.po | 
- | [mr]({{< ref "/f12/language/mr.md" >}}) | 298 | 298 | 100.0 | /mnt/stockage/packages/f12/gnome-mag/po/mr.po | 
- | [ms]({{< ref "/f12/language/ms.md" >}}) | 5 | 5 | 100.0 | /mnt/stockage/packages/f12/gnome-mag/po/ms.po | 
- | [nb_NO]({{< ref "/f12/language/nb_NO.md" >}}) | 298 | 298 | 100.0 | /mnt/stockage/packages/f12/gnome-mag/po/nb.po | 
- | [ne]({{< ref "/f12/language/ne.md" >}}) | 298 | 298 | 100.0 | /mnt/stockage/packages/f12/gnome-mag/po/ne.po | 
- | [nl]({{< ref "/f12/language/nl.md" >}}) | 298 | 298 | 100.0 | /mnt/stockage/packages/f12/gnome-mag/po/nl.po | 
- | [nn]({{< ref "/f12/language/nn.md" >}}) | 298 | 298 | 100.0 | /mnt/stockage/packages/f12/gnome-mag/po/nn.po | 
- | [or]({{< ref "/f12/language/or.md" >}}) | 298 | 298 | 100.0 | /mnt/stockage/packages/f12/gnome-mag/po/or.po | 
- | [pa]({{< ref "/f12/language/pa.md" >}}) | 298 | 298 | 100.0 | /mnt/stockage/packages/f12/gnome-mag/po/pa.po | 
- | [pl]({{< ref "/f12/language/pl.md" >}}) | 298 | 298 | 100.0 | /mnt/stockage/packages/f12/gnome-mag/po/pl.po | 
- | [pt]({{< ref "/f12/language/pt.md" >}}) | 298 | 298 | 100.0 | /mnt/stockage/packages/f12/gnome-mag/po/pt.po | 
- | [pt_BR]({{< ref "/f12/language/pt_BR.md" >}}) | 298 | 298 | 100.0 | /mnt/stockage/packages/f12/gnome-mag/po/pt_BR.po | 
- | [ro]({{< ref "/f12/language/ro.md" >}}) | 298 | 298 | 100.0 | /mnt/stockage/packages/f12/gnome-mag/po/ro.po | 
- | [ru]({{< ref "/f12/language/ru.md" >}}) | 298 | 298 | 100.0 | /mnt/stockage/packages/f12/gnome-mag/po/ru.po | 
- | [si]({{< ref "/f12/language/si.md" >}}) | 5 | 5 | 100.0 | /mnt/stockage/packages/f12/gnome-mag/po/si.po | 
- | [sk]({{< ref "/f12/language/sk.md" >}}) | 5 | 5 | 100.0 | /mnt/stockage/packages/f12/gnome-mag/po/sk.po | 
- | [sl]({{< ref "/f12/language/sl.md" >}}) | 298 | 298 | 100.0 | /mnt/stockage/packages/f12/gnome-mag/po/sl.po | 
- | [sq]({{< ref "/f12/language/sq.md" >}}) | 298 | 298 | 100.0 | /mnt/stockage/packages/f12/gnome-mag/po/sq.po | 
- | [sr]({{< ref "/f12/language/sr.md" >}}) | 298 | 298 | 100.0 | /mnt/stockage/packages/f12/gnome-mag/po/sr.po | 
- | [sr_Latn]({{< ref "/f12/language/sr_Latn.md" >}}) | 298 | 298 | 100.0 | /mnt/stockage/packages/f12/gnome-mag/po/sr@latin.po | 
- | [sv]({{< ref "/f12/language/sv.md" >}}) | 298 | 298 | 100.0 | /mnt/stockage/packages/f12/gnome-mag/po/sv.po | 
- | [ta]({{< ref "/f12/language/ta.md" >}}) | 298 | 298 | 100.0 | /mnt/stockage/packages/f12/gnome-mag/po/ta.po | 
- | [te]({{< ref "/f12/language/te.md" >}}) | 298 | 298 | 100.0 | /mnt/stockage/packages/f12/gnome-mag/po/te.po | 
- | [th]({{< ref "/f12/language/th.md" >}}) | 298 | 298 | 100.0 | /mnt/stockage/packages/f12/gnome-mag/po/th.po | 
- | [tk]({{< ref "/f12/language/tk.md" >}}) | 5 | 5 | 100.0 | /mnt/stockage/packages/f12/gnome-mag/po/tk.po | 
- | [tr]({{< ref "/f12/language/tr.md" >}}) | 298 | 298 | 100.0 | /mnt/stockage/packages/f12/gnome-mag/po/tr.po | 
- | [ug]({{< ref "/f12/language/ug.md" >}}) | 5 | 5 | 100.0 | /mnt/stockage/packages/f12/gnome-mag/po/ug.po | 
- | [uk]({{< ref "/f12/language/uk.md" >}}) | 298 | 298 | 100.0 | /mnt/stockage/packages/f12/gnome-mag/po/uk.po | 
- | [vi]({{< ref "/f12/language/vi.md" >}}) | 298 | 298 | 100.0 | /mnt/stockage/packages/f12/gnome-mag/po/vi.po | 
- | [zh_Hans]({{< ref "/f12/language/zh_Hans.md" >}}) | 298 | 298 | 100.0 | /mnt/stockage/packages/f12/gnome-mag/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f12/language/zh_Hant.md" >}}) | 298 | 298 | 100.0 | /mnt/stockage/packages/f12/gnome-mag/po/zh_TW.po | 
- | [zh_Hant_HK]({{< ref "/f12/language/zh_Hant_HK.md" >}}) | 298 | 298 | 100.0 | /mnt/stockage/packages/f12/gnome-mag/po/zh_HK.po | 
- | [be_Latn]({{< ref "/f12/language/be_Latn.md" >}}) | 87 | 298 | 29.2 | /mnt/stockage/packages/f12/gnome-mag/po/be@latin.po | 
- | [uz]({{< ref "/f12/language/uz.md" >}}) | 60 | 596 | 10.1 | /mnt/stockage/packages/f12/gnome-mag/po/uz.po/mnt/stockage/packages/f12/gnome-mag/po/uz@cyrillic.po | 
- | [br]({{< ref "/f12/language/br.md" >}}) | 24 | 298 | 8.1 | /mnt/stockage/packages/f12/gnome-mag/po/br.po | 
- | [mai]({{< ref "/f12/language/mai.md" >}}) | 15 | 298 | 5.0 | /mnt/stockage/packages/f12/gnome-mag/po/mai.po | 
- | [oc]({{< ref "/f12/language/oc.md" >}}) | 15 | 298 | 5.0 | /mnt/stockage/packages/f12/gnome-mag/po/oc.po | 
- | [rw]({{< ref "/f12/language/rw.md" >}}) | 0 | 5 | 0.0 | /mnt/stockage/packages/f12/gnome-mag/po/rw.po | 
+ | [ang](/f12/language/ang) | 5 | 5 | 100.0 | /mnt/stockage/packages/f12/gnome-mag/po/ang.po | 
+ | [ar](/f12/language/ar) | 298 | 298 | 100.0 | /mnt/stockage/packages/f12/gnome-mag/po/ar.po | 
+ | [as](/f12/language/as) | 298 | 298 | 100.0 | /mnt/stockage/packages/f12/gnome-mag/po/as.po | 
+ | [ast](/f12/language/ast) | 298 | 298 | 100.0 | /mnt/stockage/packages/f12/gnome-mag/po/ast.po | 
+ | [az](/f12/language/az) | 5 | 5 | 100.0 | /mnt/stockage/packages/f12/gnome-mag/po/az.po | 
+ | [be](/f12/language/be) | 12 | 12 | 100.0 | /mnt/stockage/packages/f12/gnome-mag/po/be.po | 
+ | [bg](/f12/language/bg) | 298 | 298 | 100.0 | /mnt/stockage/packages/f12/gnome-mag/po/bg.po | 
+ | [bn](/f12/language/bn) | 5 | 5 | 100.0 | /mnt/stockage/packages/f12/gnome-mag/po/bn.po | 
+ | [bn_IN](/f12/language/bn_IN) | 298 | 298 | 100.0 | /mnt/stockage/packages/f12/gnome-mag/po/bn_IN.po | 
+ | [bs](/f12/language/bs) | 5 | 5 | 100.0 | /mnt/stockage/packages/f12/gnome-mag/po/bs.po | 
+ | [ca](/f12/language/ca) | 298 | 298 | 100.0 | /mnt/stockage/packages/f12/gnome-mag/po/ca.po | 
+ | [ca@valencia](/f12/language/ca@valencia) | 298 | 298 | 100.0 | /mnt/stockage/packages/f12/gnome-mag/po/ca@valencia.po | 
+ | [cs](/f12/language/cs) | 298 | 298 | 100.0 | /mnt/stockage/packages/f12/gnome-mag/po/cs.po | 
+ | [cy](/f12/language/cy) | 5 | 5 | 100.0 | /mnt/stockage/packages/f12/gnome-mag/po/cy.po | 
+ | [da](/f12/language/da) | 298 | 298 | 100.0 | /mnt/stockage/packages/f12/gnome-mag/po/da.po | 
+ | [de](/f12/language/de) | 298 | 298 | 100.0 | /mnt/stockage/packages/f12/gnome-mag/po/de.po | 
+ | [dz](/f12/language/dz) | 298 | 298 | 100.0 | /mnt/stockage/packages/f12/gnome-mag/po/dz.po | 
+ | [el](/f12/language/el) | 298 | 298 | 100.0 | /mnt/stockage/packages/f12/gnome-mag/po/el.po | 
+ | [en_CA](/f12/language/en_CA) | 297 | 297 | 100.0 | /mnt/stockage/packages/f12/gnome-mag/po/en_CA.po | 
+ | [en_GB](/f12/language/en_GB) | 298 | 298 | 100.0 | /mnt/stockage/packages/f12/gnome-mag/po/en_GB.po | 
+ | [eo](/f12/language/eo) | 5 | 5 | 100.0 | /mnt/stockage/packages/f12/gnome-mag/po/eo.po | 
+ | [es](/f12/language/es) | 298 | 298 | 100.0 | /mnt/stockage/packages/f12/gnome-mag/po/es.po | 
+ | [et](/f12/language/et) | 298 | 298 | 100.0 | /mnt/stockage/packages/f12/gnome-mag/po/et.po | 
+ | [eu](/f12/language/eu) | 298 | 298 | 100.0 | /mnt/stockage/packages/f12/gnome-mag/po/eu.po | 
+ | [fa](/f12/language/fa) | 5 | 5 | 100.0 | /mnt/stockage/packages/f12/gnome-mag/po/fa.po | 
+ | [fi](/f12/language/fi) | 298 | 298 | 100.0 | /mnt/stockage/packages/f12/gnome-mag/po/fi.po | 
+ | [fr](/f12/language/fr) | 298 | 298 | 100.0 | /mnt/stockage/packages/f12/gnome-mag/po/fr.po | 
+ | [ga](/f12/language/ga) | 5 | 5 | 100.0 | /mnt/stockage/packages/f12/gnome-mag/po/ga.po | 
+ | [gl](/f12/language/gl) | 298 | 298 | 100.0 | /mnt/stockage/packages/f12/gnome-mag/po/gl.po | 
+ | [gu](/f12/language/gu) | 298 | 298 | 100.0 | /mnt/stockage/packages/f12/gnome-mag/po/gu.po | 
+ | [he](/f12/language/he) | 298 | 298 | 100.0 | /mnt/stockage/packages/f12/gnome-mag/po/he.po | 
+ | [hi](/f12/language/hi) | 298 | 298 | 100.0 | /mnt/stockage/packages/f12/gnome-mag/po/hi.po | 
+ | [hr](/f12/language/hr) | 298 | 298 | 100.0 | /mnt/stockage/packages/f12/gnome-mag/po/hr.po | 
+ | [hu](/f12/language/hu) | 298 | 298 | 100.0 | /mnt/stockage/packages/f12/gnome-mag/po/hu.po | 
+ | [id](/f12/language/id) | 5 | 5 | 100.0 | /mnt/stockage/packages/f12/gnome-mag/po/id.po | 
+ | [is](/f12/language/is) | 5 | 5 | 100.0 | /mnt/stockage/packages/f12/gnome-mag/po/is.po | 
+ | [it](/f12/language/it) | 298 | 298 | 100.0 | /mnt/stockage/packages/f12/gnome-mag/po/it.po | 
+ | [ja](/f12/language/ja) | 298 | 298 | 100.0 | /mnt/stockage/packages/f12/gnome-mag/po/ja.po | 
+ | [ka](/f12/language/ka) | 5 | 5 | 100.0 | /mnt/stockage/packages/f12/gnome-mag/po/ka.po | 
+ | [kn](/f12/language/kn) | 298 | 298 | 100.0 | /mnt/stockage/packages/f12/gnome-mag/po/kn.po | 
+ | [ko](/f12/language/ko) | 298 | 298 | 100.0 | /mnt/stockage/packages/f12/gnome-mag/po/ko.po | 
+ | [ku](/f12/language/ku) | 5 | 5 | 100.0 | /mnt/stockage/packages/f12/gnome-mag/po/ku.po | 
+ | [ky](/f12/language/ky) | 5 | 5 | 100.0 | /mnt/stockage/packages/f12/gnome-mag/po/ky.po | 
+ | [lt](/f12/language/lt) | 298 | 298 | 100.0 | /mnt/stockage/packages/f12/gnome-mag/po/lt.po | 
+ | [lv](/f12/language/lv) | 298 | 298 | 100.0 | /mnt/stockage/packages/f12/gnome-mag/po/lv.po | 
+ | [mg](/f12/language/mg) | 5 | 5 | 100.0 | /mnt/stockage/packages/f12/gnome-mag/po/mg.po | 
+ | [mi](/f12/language/mi) | 5 | 5 | 100.0 | /mnt/stockage/packages/f12/gnome-mag/po/mi.po | 
+ | [mk](/f12/language/mk) | 298 | 298 | 100.0 | /mnt/stockage/packages/f12/gnome-mag/po/mk.po | 
+ | [ml](/f12/language/ml) | 298 | 298 | 100.0 | /mnt/stockage/packages/f12/gnome-mag/po/ml.po | 
+ | [mn](/f12/language/mn) | 5 | 5 | 100.0 | /mnt/stockage/packages/f12/gnome-mag/po/mn.po | 
+ | [mr](/f12/language/mr) | 298 | 298 | 100.0 | /mnt/stockage/packages/f12/gnome-mag/po/mr.po | 
+ | [ms](/f12/language/ms) | 5 | 5 | 100.0 | /mnt/stockage/packages/f12/gnome-mag/po/ms.po | 
+ | [nb_NO](/f12/language/nb_NO) | 298 | 298 | 100.0 | /mnt/stockage/packages/f12/gnome-mag/po/nb.po | 
+ | [ne](/f12/language/ne) | 298 | 298 | 100.0 | /mnt/stockage/packages/f12/gnome-mag/po/ne.po | 
+ | [nl](/f12/language/nl) | 298 | 298 | 100.0 | /mnt/stockage/packages/f12/gnome-mag/po/nl.po | 
+ | [nn](/f12/language/nn) | 298 | 298 | 100.0 | /mnt/stockage/packages/f12/gnome-mag/po/nn.po | 
+ | [or](/f12/language/or) | 298 | 298 | 100.0 | /mnt/stockage/packages/f12/gnome-mag/po/or.po | 
+ | [pa](/f12/language/pa) | 298 | 298 | 100.0 | /mnt/stockage/packages/f12/gnome-mag/po/pa.po | 
+ | [pl](/f12/language/pl) | 298 | 298 | 100.0 | /mnt/stockage/packages/f12/gnome-mag/po/pl.po | 
+ | [pt](/f12/language/pt) | 298 | 298 | 100.0 | /mnt/stockage/packages/f12/gnome-mag/po/pt.po | 
+ | [pt_BR](/f12/language/pt_BR) | 298 | 298 | 100.0 | /mnt/stockage/packages/f12/gnome-mag/po/pt_BR.po | 
+ | [ro](/f12/language/ro) | 298 | 298 | 100.0 | /mnt/stockage/packages/f12/gnome-mag/po/ro.po | 
+ | [ru](/f12/language/ru) | 298 | 298 | 100.0 | /mnt/stockage/packages/f12/gnome-mag/po/ru.po | 
+ | [si](/f12/language/si) | 5 | 5 | 100.0 | /mnt/stockage/packages/f12/gnome-mag/po/si.po | 
+ | [sk](/f12/language/sk) | 5 | 5 | 100.0 | /mnt/stockage/packages/f12/gnome-mag/po/sk.po | 
+ | [sl](/f12/language/sl) | 298 | 298 | 100.0 | /mnt/stockage/packages/f12/gnome-mag/po/sl.po | 
+ | [sq](/f12/language/sq) | 298 | 298 | 100.0 | /mnt/stockage/packages/f12/gnome-mag/po/sq.po | 
+ | [sr](/f12/language/sr) | 298 | 298 | 100.0 | /mnt/stockage/packages/f12/gnome-mag/po/sr.po | 
+ | [sr_Latn](/f12/language/sr_Latn) | 298 | 298 | 100.0 | /mnt/stockage/packages/f12/gnome-mag/po/sr@latin.po | 
+ | [sv](/f12/language/sv) | 298 | 298 | 100.0 | /mnt/stockage/packages/f12/gnome-mag/po/sv.po | 
+ | [ta](/f12/language/ta) | 298 | 298 | 100.0 | /mnt/stockage/packages/f12/gnome-mag/po/ta.po | 
+ | [te](/f12/language/te) | 298 | 298 | 100.0 | /mnt/stockage/packages/f12/gnome-mag/po/te.po | 
+ | [th](/f12/language/th) | 298 | 298 | 100.0 | /mnt/stockage/packages/f12/gnome-mag/po/th.po | 
+ | [tk](/f12/language/tk) | 5 | 5 | 100.0 | /mnt/stockage/packages/f12/gnome-mag/po/tk.po | 
+ | [tr](/f12/language/tr) | 298 | 298 | 100.0 | /mnt/stockage/packages/f12/gnome-mag/po/tr.po | 
+ | [ug](/f12/language/ug) | 5 | 5 | 100.0 | /mnt/stockage/packages/f12/gnome-mag/po/ug.po | 
+ | [uk](/f12/language/uk) | 298 | 298 | 100.0 | /mnt/stockage/packages/f12/gnome-mag/po/uk.po | 
+ | [vi](/f12/language/vi) | 298 | 298 | 100.0 | /mnt/stockage/packages/f12/gnome-mag/po/vi.po | 
+ | [zh_Hans](/f12/language/zh_Hans) | 298 | 298 | 100.0 | /mnt/stockage/packages/f12/gnome-mag/po/zh_CN.po | 
+ | [zh_Hant](/f12/language/zh_Hant) | 298 | 298 | 100.0 | /mnt/stockage/packages/f12/gnome-mag/po/zh_TW.po | 
+ | [zh_Hant_HK](/f12/language/zh_Hant_HK) | 298 | 298 | 100.0 | /mnt/stockage/packages/f12/gnome-mag/po/zh_HK.po | 
+ | [be_Latn](/f12/language/be_Latn) | 87 | 298 | 29.2 | /mnt/stockage/packages/f12/gnome-mag/po/be@latin.po | 
+ | [uz](/f12/language/uz) | 60 | 596 | 10.1 | /mnt/stockage/packages/f12/gnome-mag/po/uz.po/mnt/stockage/packages/f12/gnome-mag/po/uz@cyrillic.po | 
+ | [br](/f12/language/br) | 24 | 298 | 8.1 | /mnt/stockage/packages/f12/gnome-mag/po/br.po | 
+ | [mai](/f12/language/mai) | 15 | 298 | 5.0 | /mnt/stockage/packages/f12/gnome-mag/po/mai.po | 
+ | [oc](/f12/language/oc) | 15 | 298 | 5.0 | /mnt/stockage/packages/f12/gnome-mag/po/oc.po | 
+ | [rw](/f12/language/rw) | 0 | 5 | 0.0 | /mnt/stockage/packages/f12/gnome-mag/po/rw.po | 
 {.sortable}
 
 

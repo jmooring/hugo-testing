@@ -18,68 +18,68 @@ The package libsoup (version 2.56.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [an]({{< ref "/f25/language/an.md" >}}) | 155 | 155 | 100.0 | /mnt/stockage/packages/f25/libsoup/po/an.po | 
- | [as]({{< ref "/f25/language/as.md" >}}) | 110 | 110 | 100.0 | /mnt/stockage/packages/f25/libsoup/po/as.po | 
- | [be]({{< ref "/f25/language/be.md" >}}) | 79 | 79 | 100.0 | /mnt/stockage/packages/f25/libsoup/po/be.po | 
- | [bg]({{< ref "/f25/language/bg.md" >}}) | 155 | 155 | 100.0 | /mnt/stockage/packages/f25/libsoup/po/bg.po | 
- | [bn_IN]({{< ref "/f25/language/bn_IN.md" >}}) | 110 | 110 | 100.0 | /mnt/stockage/packages/f25/libsoup/po/bn_IN.po | 
- | [bs]({{< ref "/f25/language/bs.md" >}}) | 110 | 110 | 100.0 | /mnt/stockage/packages/f25/libsoup/po/bs.po | 
- | [ca]({{< ref "/f25/language/ca.md" >}}) | 155 | 155 | 100.0 | /mnt/stockage/packages/f25/libsoup/po/ca.po | 
- | [ca@valencia]({{< ref "/f25/language/ca@valencia.md" >}}) | 110 | 110 | 100.0 | /mnt/stockage/packages/f25/libsoup/po/ca@valencia.po | 
- | [cs]({{< ref "/f25/language/cs.md" >}}) | 155 | 155 | 100.0 | /mnt/stockage/packages/f25/libsoup/po/cs.po | 
- | [da]({{< ref "/f25/language/da.md" >}}) | 155 | 155 | 100.0 | /mnt/stockage/packages/f25/libsoup/po/da.po | 
- | [de]({{< ref "/f25/language/de.md" >}}) | 155 | 155 | 100.0 | /mnt/stockage/packages/f25/libsoup/po/de.po | 
- | [el]({{< ref "/f25/language/el.md" >}}) | 155 | 155 | 100.0 | /mnt/stockage/packages/f25/libsoup/po/el.po | 
- | [en_GB]({{< ref "/f25/language/en_GB.md" >}}) | 155 | 155 | 100.0 | /mnt/stockage/packages/f25/libsoup/po/en_GB.po | 
- | [eo]({{< ref "/f25/language/eo.md" >}}) | 45 | 45 | 100.0 | /mnt/stockage/packages/f25/libsoup/po/eo.po | 
- | [es]({{< ref "/f25/language/es.md" >}}) | 155 | 155 | 100.0 | /mnt/stockage/packages/f25/libsoup/po/es.po | 
- | [et]({{< ref "/f25/language/et.md" >}}) | 79 | 79 | 100.0 | /mnt/stockage/packages/f25/libsoup/po/et.po | 
- | [eu]({{< ref "/f25/language/eu.md" >}}) | 155 | 155 | 100.0 | /mnt/stockage/packages/f25/libsoup/po/eu.po | 
- | [fa]({{< ref "/f25/language/fa.md" >}}) | 79 | 79 | 100.0 | /mnt/stockage/packages/f25/libsoup/po/fa.po | 
- | [fr]({{< ref "/f25/language/fr.md" >}}) | 155 | 155 | 100.0 | /mnt/stockage/packages/f25/libsoup/po/fr.po | 
- | [fur]({{< ref "/f25/language/fur.md" >}}) | 155 | 155 | 100.0 | /mnt/stockage/packages/f25/libsoup/po/fur.po | 
- | [gd]({{< ref "/f25/language/gd.md" >}}) | 155 | 155 | 100.0 | /mnt/stockage/packages/f25/libsoup/po/gd.po | 
- | [gl]({{< ref "/f25/language/gl.md" >}}) | 155 | 155 | 100.0 | /mnt/stockage/packages/f25/libsoup/po/gl.po | 
- | [gu]({{< ref "/f25/language/gu.md" >}}) | 110 | 110 | 100.0 | /mnt/stockage/packages/f25/libsoup/po/gu.po | 
- | [he]({{< ref "/f25/language/he.md" >}}) | 155 | 155 | 100.0 | /mnt/stockage/packages/f25/libsoup/po/he.po | 
- | [hi]({{< ref "/f25/language/hi.md" >}}) | 110 | 110 | 100.0 | /mnt/stockage/packages/f25/libsoup/po/hi.po | 
- | [hu]({{< ref "/f25/language/hu.md" >}}) | 155 | 155 | 100.0 | /mnt/stockage/packages/f25/libsoup/po/hu.po | 
- | [id]({{< ref "/f25/language/id.md" >}}) | 155 | 155 | 100.0 | /mnt/stockage/packages/f25/libsoup/po/id.po | 
- | [it]({{< ref "/f25/language/it.md" >}}) | 155 | 155 | 100.0 | /mnt/stockage/packages/f25/libsoup/po/it.po | 
- | [ja]({{< ref "/f25/language/ja.md" >}}) | 51 | 51 | 100.0 | /mnt/stockage/packages/f25/libsoup/po/ja.po | 
- | [kn]({{< ref "/f25/language/kn.md" >}}) | 110 | 110 | 100.0 | /mnt/stockage/packages/f25/libsoup/po/kn.po | 
- | [ko]({{< ref "/f25/language/ko.md" >}}) | 155 | 155 | 100.0 | /mnt/stockage/packages/f25/libsoup/po/ko.po | 
- | [lt]({{< ref "/f25/language/lt.md" >}}) | 155 | 155 | 100.0 | /mnt/stockage/packages/f25/libsoup/po/lt.po | 
- | [lv]({{< ref "/f25/language/lv.md" >}}) | 155 | 155 | 100.0 | /mnt/stockage/packages/f25/libsoup/po/lv.po | 
- | [ml]({{< ref "/f25/language/ml.md" >}}) | 79 | 79 | 100.0 | /mnt/stockage/packages/f25/libsoup/po/ml.po | 
- | [mr]({{< ref "/f25/language/mr.md" >}}) | 110 | 110 | 100.0 | /mnt/stockage/packages/f25/libsoup/po/mr.po | 
- | [nb_NO]({{< ref "/f25/language/nb_NO.md" >}}) | 155 | 155 | 100.0 | /mnt/stockage/packages/f25/libsoup/po/nb.po | 
- | [nl]({{< ref "/f25/language/nl.md" >}}) | 79 | 79 | 100.0 | /mnt/stockage/packages/f25/libsoup/po/nl.po | 
- | [oc]({{< ref "/f25/language/oc.md" >}}) | 155 | 155 | 100.0 | /mnt/stockage/packages/f25/libsoup/po/oc.po | 
- | [or]({{< ref "/f25/language/or.md" >}}) | 110 | 110 | 100.0 | /mnt/stockage/packages/f25/libsoup/po/or.po | 
- | [pa]({{< ref "/f25/language/pa.md" >}}) | 110 | 110 | 100.0 | /mnt/stockage/packages/f25/libsoup/po/pa.po | 
- | [pl]({{< ref "/f25/language/pl.md" >}}) | 155 | 155 | 100.0 | /mnt/stockage/packages/f25/libsoup/po/pl.po | 
- | [pt]({{< ref "/f25/language/pt.md" >}}) | 155 | 155 | 100.0 | /mnt/stockage/packages/f25/libsoup/po/pt.po | 
- | [pt_BR]({{< ref "/f25/language/pt_BR.md" >}}) | 155 | 155 | 100.0 | /mnt/stockage/packages/f25/libsoup/po/pt_BR.po | 
- | [ro]({{< ref "/f25/language/ro.md" >}}) | 27 | 27 | 100.0 | /mnt/stockage/packages/f25/libsoup/po/ro.po | 
- | [ru]({{< ref "/f25/language/ru.md" >}}) | 155 | 155 | 100.0 | /mnt/stockage/packages/f25/libsoup/po/ru.po | 
- | [sk]({{< ref "/f25/language/sk.md" >}}) | 155 | 155 | 100.0 | /mnt/stockage/packages/f25/libsoup/po/sk.po | 
- | [sl]({{< ref "/f25/language/sl.md" >}}) | 155 | 155 | 100.0 | /mnt/stockage/packages/f25/libsoup/po/sl.po | 
- | [sr]({{< ref "/f25/language/sr.md" >}}) | 155 | 155 | 100.0 | /mnt/stockage/packages/f25/libsoup/po/sr.po | 
- | [sr_Latn]({{< ref "/f25/language/sr_Latn.md" >}}) | 155 | 155 | 100.0 | /mnt/stockage/packages/f25/libsoup/po/sr@latin.po | 
- | [sv]({{< ref "/f25/language/sv.md" >}}) | 155 | 155 | 100.0 | /mnt/stockage/packages/f25/libsoup/po/sv.po | 
- | [ta]({{< ref "/f25/language/ta.md" >}}) | 110 | 110 | 100.0 | /mnt/stockage/packages/f25/libsoup/po/ta.po | 
- | [te]({{< ref "/f25/language/te.md" >}}) | 110 | 110 | 100.0 | /mnt/stockage/packages/f25/libsoup/po/te.po | 
- | [tg]({{< ref "/f25/language/tg.md" >}}) | 79 | 79 | 100.0 | /mnt/stockage/packages/f25/libsoup/po/tg.po | 
- | [th]({{< ref "/f25/language/th.md" >}}) | 155 | 155 | 100.0 | /mnt/stockage/packages/f25/libsoup/po/th.po | 
- | [tr]({{< ref "/f25/language/tr.md" >}}) | 155 | 155 | 100.0 | /mnt/stockage/packages/f25/libsoup/po/tr.po | 
- | [ug]({{< ref "/f25/language/ug.md" >}}) | 79 | 79 | 100.0 | /mnt/stockage/packages/f25/libsoup/po/ug.po | 
- | [uk]({{< ref "/f25/language/uk.md" >}}) | 110 | 110 | 100.0 | /mnt/stockage/packages/f25/libsoup/po/uk.po | 
- | [uz]({{< ref "/f25/language/uz.md" >}}) | 51 | 51 | 100.0 | /mnt/stockage/packages/f25/libsoup/po/uz@cyrillic.po | 
- | [vi]({{< ref "/f25/language/vi.md" >}}) | 155 | 155 | 100.0 | /mnt/stockage/packages/f25/libsoup/po/vi.po | 
- | [zh_Hans]({{< ref "/f25/language/zh_Hans.md" >}}) | 155 | 155 | 100.0 | /mnt/stockage/packages/f25/libsoup/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f25/language/zh_Hant.md" >}}) | 155 | 155 | 100.0 | /mnt/stockage/packages/f25/libsoup/po/zh_TW.po | 
- | [zh_Hant_HK]({{< ref "/f25/language/zh_Hant_HK.md" >}}) | 110 | 110 | 100.0 | /mnt/stockage/packages/f25/libsoup/po/zh_HK.po | 
+ | [an](/f25/language/an) | 155 | 155 | 100.0 | /mnt/stockage/packages/f25/libsoup/po/an.po | 
+ | [as](/f25/language/as) | 110 | 110 | 100.0 | /mnt/stockage/packages/f25/libsoup/po/as.po | 
+ | [be](/f25/language/be) | 79 | 79 | 100.0 | /mnt/stockage/packages/f25/libsoup/po/be.po | 
+ | [bg](/f25/language/bg) | 155 | 155 | 100.0 | /mnt/stockage/packages/f25/libsoup/po/bg.po | 
+ | [bn_IN](/f25/language/bn_IN) | 110 | 110 | 100.0 | /mnt/stockage/packages/f25/libsoup/po/bn_IN.po | 
+ | [bs](/f25/language/bs) | 110 | 110 | 100.0 | /mnt/stockage/packages/f25/libsoup/po/bs.po | 
+ | [ca](/f25/language/ca) | 155 | 155 | 100.0 | /mnt/stockage/packages/f25/libsoup/po/ca.po | 
+ | [ca@valencia](/f25/language/ca@valencia) | 110 | 110 | 100.0 | /mnt/stockage/packages/f25/libsoup/po/ca@valencia.po | 
+ | [cs](/f25/language/cs) | 155 | 155 | 100.0 | /mnt/stockage/packages/f25/libsoup/po/cs.po | 
+ | [da](/f25/language/da) | 155 | 155 | 100.0 | /mnt/stockage/packages/f25/libsoup/po/da.po | 
+ | [de](/f25/language/de) | 155 | 155 | 100.0 | /mnt/stockage/packages/f25/libsoup/po/de.po | 
+ | [el](/f25/language/el) | 155 | 155 | 100.0 | /mnt/stockage/packages/f25/libsoup/po/el.po | 
+ | [en_GB](/f25/language/en_GB) | 155 | 155 | 100.0 | /mnt/stockage/packages/f25/libsoup/po/en_GB.po | 
+ | [eo](/f25/language/eo) | 45 | 45 | 100.0 | /mnt/stockage/packages/f25/libsoup/po/eo.po | 
+ | [es](/f25/language/es) | 155 | 155 | 100.0 | /mnt/stockage/packages/f25/libsoup/po/es.po | 
+ | [et](/f25/language/et) | 79 | 79 | 100.0 | /mnt/stockage/packages/f25/libsoup/po/et.po | 
+ | [eu](/f25/language/eu) | 155 | 155 | 100.0 | /mnt/stockage/packages/f25/libsoup/po/eu.po | 
+ | [fa](/f25/language/fa) | 79 | 79 | 100.0 | /mnt/stockage/packages/f25/libsoup/po/fa.po | 
+ | [fr](/f25/language/fr) | 155 | 155 | 100.0 | /mnt/stockage/packages/f25/libsoup/po/fr.po | 
+ | [fur](/f25/language/fur) | 155 | 155 | 100.0 | /mnt/stockage/packages/f25/libsoup/po/fur.po | 
+ | [gd](/f25/language/gd) | 155 | 155 | 100.0 | /mnt/stockage/packages/f25/libsoup/po/gd.po | 
+ | [gl](/f25/language/gl) | 155 | 155 | 100.0 | /mnt/stockage/packages/f25/libsoup/po/gl.po | 
+ | [gu](/f25/language/gu) | 110 | 110 | 100.0 | /mnt/stockage/packages/f25/libsoup/po/gu.po | 
+ | [he](/f25/language/he) | 155 | 155 | 100.0 | /mnt/stockage/packages/f25/libsoup/po/he.po | 
+ | [hi](/f25/language/hi) | 110 | 110 | 100.0 | /mnt/stockage/packages/f25/libsoup/po/hi.po | 
+ | [hu](/f25/language/hu) | 155 | 155 | 100.0 | /mnt/stockage/packages/f25/libsoup/po/hu.po | 
+ | [id](/f25/language/id) | 155 | 155 | 100.0 | /mnt/stockage/packages/f25/libsoup/po/id.po | 
+ | [it](/f25/language/it) | 155 | 155 | 100.0 | /mnt/stockage/packages/f25/libsoup/po/it.po | 
+ | [ja](/f25/language/ja) | 51 | 51 | 100.0 | /mnt/stockage/packages/f25/libsoup/po/ja.po | 
+ | [kn](/f25/language/kn) | 110 | 110 | 100.0 | /mnt/stockage/packages/f25/libsoup/po/kn.po | 
+ | [ko](/f25/language/ko) | 155 | 155 | 100.0 | /mnt/stockage/packages/f25/libsoup/po/ko.po | 
+ | [lt](/f25/language/lt) | 155 | 155 | 100.0 | /mnt/stockage/packages/f25/libsoup/po/lt.po | 
+ | [lv](/f25/language/lv) | 155 | 155 | 100.0 | /mnt/stockage/packages/f25/libsoup/po/lv.po | 
+ | [ml](/f25/language/ml) | 79 | 79 | 100.0 | /mnt/stockage/packages/f25/libsoup/po/ml.po | 
+ | [mr](/f25/language/mr) | 110 | 110 | 100.0 | /mnt/stockage/packages/f25/libsoup/po/mr.po | 
+ | [nb_NO](/f25/language/nb_NO) | 155 | 155 | 100.0 | /mnt/stockage/packages/f25/libsoup/po/nb.po | 
+ | [nl](/f25/language/nl) | 79 | 79 | 100.0 | /mnt/stockage/packages/f25/libsoup/po/nl.po | 
+ | [oc](/f25/language/oc) | 155 | 155 | 100.0 | /mnt/stockage/packages/f25/libsoup/po/oc.po | 
+ | [or](/f25/language/or) | 110 | 110 | 100.0 | /mnt/stockage/packages/f25/libsoup/po/or.po | 
+ | [pa](/f25/language/pa) | 110 | 110 | 100.0 | /mnt/stockage/packages/f25/libsoup/po/pa.po | 
+ | [pl](/f25/language/pl) | 155 | 155 | 100.0 | /mnt/stockage/packages/f25/libsoup/po/pl.po | 
+ | [pt](/f25/language/pt) | 155 | 155 | 100.0 | /mnt/stockage/packages/f25/libsoup/po/pt.po | 
+ | [pt_BR](/f25/language/pt_BR) | 155 | 155 | 100.0 | /mnt/stockage/packages/f25/libsoup/po/pt_BR.po | 
+ | [ro](/f25/language/ro) | 27 | 27 | 100.0 | /mnt/stockage/packages/f25/libsoup/po/ro.po | 
+ | [ru](/f25/language/ru) | 155 | 155 | 100.0 | /mnt/stockage/packages/f25/libsoup/po/ru.po | 
+ | [sk](/f25/language/sk) | 155 | 155 | 100.0 | /mnt/stockage/packages/f25/libsoup/po/sk.po | 
+ | [sl](/f25/language/sl) | 155 | 155 | 100.0 | /mnt/stockage/packages/f25/libsoup/po/sl.po | 
+ | [sr](/f25/language/sr) | 155 | 155 | 100.0 | /mnt/stockage/packages/f25/libsoup/po/sr.po | 
+ | [sr_Latn](/f25/language/sr_Latn) | 155 | 155 | 100.0 | /mnt/stockage/packages/f25/libsoup/po/sr@latin.po | 
+ | [sv](/f25/language/sv) | 155 | 155 | 100.0 | /mnt/stockage/packages/f25/libsoup/po/sv.po | 
+ | [ta](/f25/language/ta) | 110 | 110 | 100.0 | /mnt/stockage/packages/f25/libsoup/po/ta.po | 
+ | [te](/f25/language/te) | 110 | 110 | 100.0 | /mnt/stockage/packages/f25/libsoup/po/te.po | 
+ | [tg](/f25/language/tg) | 79 | 79 | 100.0 | /mnt/stockage/packages/f25/libsoup/po/tg.po | 
+ | [th](/f25/language/th) | 155 | 155 | 100.0 | /mnt/stockage/packages/f25/libsoup/po/th.po | 
+ | [tr](/f25/language/tr) | 155 | 155 | 100.0 | /mnt/stockage/packages/f25/libsoup/po/tr.po | 
+ | [ug](/f25/language/ug) | 79 | 79 | 100.0 | /mnt/stockage/packages/f25/libsoup/po/ug.po | 
+ | [uk](/f25/language/uk) | 110 | 110 | 100.0 | /mnt/stockage/packages/f25/libsoup/po/uk.po | 
+ | [uz](/f25/language/uz) | 51 | 51 | 100.0 | /mnt/stockage/packages/f25/libsoup/po/uz@cyrillic.po | 
+ | [vi](/f25/language/vi) | 155 | 155 | 100.0 | /mnt/stockage/packages/f25/libsoup/po/vi.po | 
+ | [zh_Hans](/f25/language/zh_Hans) | 155 | 155 | 100.0 | /mnt/stockage/packages/f25/libsoup/po/zh_CN.po | 
+ | [zh_Hant](/f25/language/zh_Hant) | 155 | 155 | 100.0 | /mnt/stockage/packages/f25/libsoup/po/zh_TW.po | 
+ | [zh_Hant_HK](/f25/language/zh_Hant_HK) | 110 | 110 | 100.0 | /mnt/stockage/packages/f25/libsoup/po/zh_HK.po | 
 {.sortable}
 
 

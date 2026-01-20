@@ -18,26 +18,26 @@ The package 4Pane (version 7.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [it]({{< ref "/f34/language/it.md" >}}) | 12684 | 12684 | 100.0 | /mnt/stockage/packages/f34/4Pane/4pane-7.0/locale/it/LC_MESSAGES/it.po | 
- | [nl]({{< ref "/f34/language/nl.md" >}}) | 12684 | 12684 | 100.0 | /mnt/stockage/packages/f34/4Pane/4pane-7.0/locale/nl/LC_MESSAGES/nl.po | 
- | [de]({{< ref "/f34/language/de.md" >}}) | 12412 | 12684 | 97.9 | /mnt/stockage/packages/f34/4Pane/4pane-7.0/locale/de/LC_MESSAGES/de.po | 
- | [pt_BR]({{< ref "/f34/language/pt_BR.md" >}}) | 11934 | 12684 | 94.1 | /mnt/stockage/packages/f34/4Pane/4pane-7.0/locale/pt_BR/LC_MESSAGES/pt_BR.po | 
- | [da]({{< ref "/f34/language/da.md" >}}) | 9548 | 12684 | 75.3 | /mnt/stockage/packages/f34/4Pane/4pane-7.0/locale/da/LC_MESSAGES/da.po | 
- | [es]({{< ref "/f34/language/es.md" >}}) | 4771 | 12684 | 37.6 | /mnt/stockage/packages/f34/4Pane/4pane-7.0/locale/es/LC_MESSAGES/es.po | 
- | [uk]({{< ref "/f34/language/uk.md" >}}) | 3357 | 12684 | 26.5 | /mnt/stockage/packages/f34/4Pane/4pane-7.0/locale/uk_UA/LC_MESSAGES/uk_UA.po | 
- | [ru]({{< ref "/f34/language/ru.md" >}}) | 2884 | 12684 | 22.7 | /mnt/stockage/packages/f34/4Pane/4pane-7.0/locale/ru/LC_MESSAGES/ru.po | 
- | [fi]({{< ref "/f34/language/fi.md" >}}) | 2513 | 12684 | 19.8 | /mnt/stockage/packages/f34/4Pane/4pane-7.0/locale/fi_FI/LC_MESSAGES/fi_FI.po | 
- | [fr]({{< ref "/f34/language/fr.md" >}}) | 1355 | 25368 | 5.3 | /mnt/stockage/packages/f34/4Pane/4pane-7.0/locale/fr/LC_MESSAGES/fr.po/mnt/stockage/packages/f34/4Pane/4pane-7.0/locale/fr_FR/LC_MESSAGES/fr_FR.po | 
- | [pl]({{< ref "/f34/language/pl.md" >}}) | 621 | 12684 | 4.9 | /mnt/stockage/packages/f34/4Pane/4pane-7.0/locale/pl/LC_MESSAGES/pl.po | 
- | [ar]({{< ref "/f34/language/ar.md" >}}) | 580 | 12684 | 4.6 | /mnt/stockage/packages/f34/4Pane/4pane-7.0/locale/ar/LC_MESSAGES/ar.po | 
- | [fa]({{< ref "/f34/language/fa.md" >}}) | 558 | 12684 | 4.4 | /mnt/stockage/packages/f34/4Pane/4pane-7.0/locale/fa/LC_MESSAGES/fa.po | 
- | [tr]({{< ref "/f34/language/tr.md" >}}) | 541 | 12684 | 4.3 | /mnt/stockage/packages/f34/4Pane/4pane-7.0/locale/tr/LC_MESSAGES/tr.po | 
- | [ja]({{< ref "/f34/language/ja.md" >}}) | 532 | 12684 | 4.2 | /mnt/stockage/packages/f34/4Pane/4pane-7.0/locale/ja/LC_MESSAGES/ja.po | 
- | [ca]({{< ref "/f34/language/ca.md" >}}) | 486 | 12684 | 3.8 | /mnt/stockage/packages/f34/4Pane/4pane-7.0/locale/ca/LC_MESSAGES/ca.po | 
- | [et]({{< ref "/f34/language/et.md" >}}) | 198 | 12684 | 1.6 | /mnt/stockage/packages/f34/4Pane/4pane-7.0/locale/et/LC_MESSAGES/et.po | 
- | [el]({{< ref "/f34/language/el.md" >}}) | 166 | 12684 | 1.3 | /mnt/stockage/packages/f34/4Pane/4pane-7.0/locale/el/LC_MESSAGES/el.po | 
- | [zh_Hans]({{< ref "/f34/language/zh_Hans.md" >}}) | 46 | 12684 | 0.4 | /mnt/stockage/packages/f34/4Pane/4pane-7.0/locale/zh_CN/LC_MESSAGES/zh_CN.po | 
- | [vi]({{< ref "/f34/language/vi.md" >}}) | 40 | 12684 | 0.3 | /mnt/stockage/packages/f34/4Pane/4pane-7.0/locale/vi/LC_MESSAGES/vi.po | 
+ | [it](/f34/language/it) | 12684 | 12684 | 100.0 | /mnt/stockage/packages/f34/4Pane/4pane-7.0/locale/it/LC_MESSAGES/it.po | 
+ | [nl](/f34/language/nl) | 12684 | 12684 | 100.0 | /mnt/stockage/packages/f34/4Pane/4pane-7.0/locale/nl/LC_MESSAGES/nl.po | 
+ | [de](/f34/language/de) | 12412 | 12684 | 97.9 | /mnt/stockage/packages/f34/4Pane/4pane-7.0/locale/de/LC_MESSAGES/de.po | 
+ | [pt_BR](/f34/language/pt_BR) | 11934 | 12684 | 94.1 | /mnt/stockage/packages/f34/4Pane/4pane-7.0/locale/pt_BR/LC_MESSAGES/pt_BR.po | 
+ | [da](/f34/language/da) | 9548 | 12684 | 75.3 | /mnt/stockage/packages/f34/4Pane/4pane-7.0/locale/da/LC_MESSAGES/da.po | 
+ | [es](/f34/language/es) | 4771 | 12684 | 37.6 | /mnt/stockage/packages/f34/4Pane/4pane-7.0/locale/es/LC_MESSAGES/es.po | 
+ | [uk](/f34/language/uk) | 3357 | 12684 | 26.5 | /mnt/stockage/packages/f34/4Pane/4pane-7.0/locale/uk_UA/LC_MESSAGES/uk_UA.po | 
+ | [ru](/f34/language/ru) | 2884 | 12684 | 22.7 | /mnt/stockage/packages/f34/4Pane/4pane-7.0/locale/ru/LC_MESSAGES/ru.po | 
+ | [fi](/f34/language/fi) | 2513 | 12684 | 19.8 | /mnt/stockage/packages/f34/4Pane/4pane-7.0/locale/fi_FI/LC_MESSAGES/fi_FI.po | 
+ | [fr](/f34/language/fr) | 1355 | 25368 | 5.3 | /mnt/stockage/packages/f34/4Pane/4pane-7.0/locale/fr/LC_MESSAGES/fr.po/mnt/stockage/packages/f34/4Pane/4pane-7.0/locale/fr_FR/LC_MESSAGES/fr_FR.po | 
+ | [pl](/f34/language/pl) | 621 | 12684 | 4.9 | /mnt/stockage/packages/f34/4Pane/4pane-7.0/locale/pl/LC_MESSAGES/pl.po | 
+ | [ar](/f34/language/ar) | 580 | 12684 | 4.6 | /mnt/stockage/packages/f34/4Pane/4pane-7.0/locale/ar/LC_MESSAGES/ar.po | 
+ | [fa](/f34/language/fa) | 558 | 12684 | 4.4 | /mnt/stockage/packages/f34/4Pane/4pane-7.0/locale/fa/LC_MESSAGES/fa.po | 
+ | [tr](/f34/language/tr) | 541 | 12684 | 4.3 | /mnt/stockage/packages/f34/4Pane/4pane-7.0/locale/tr/LC_MESSAGES/tr.po | 
+ | [ja](/f34/language/ja) | 532 | 12684 | 4.2 | /mnt/stockage/packages/f34/4Pane/4pane-7.0/locale/ja/LC_MESSAGES/ja.po | 
+ | [ca](/f34/language/ca) | 486 | 12684 | 3.8 | /mnt/stockage/packages/f34/4Pane/4pane-7.0/locale/ca/LC_MESSAGES/ca.po | 
+ | [et](/f34/language/et) | 198 | 12684 | 1.6 | /mnt/stockage/packages/f34/4Pane/4pane-7.0/locale/et/LC_MESSAGES/et.po | 
+ | [el](/f34/language/el) | 166 | 12684 | 1.3 | /mnt/stockage/packages/f34/4Pane/4pane-7.0/locale/el/LC_MESSAGES/el.po | 
+ | [zh_Hans](/f34/language/zh_Hans) | 46 | 12684 | 0.4 | /mnt/stockage/packages/f34/4Pane/4pane-7.0/locale/zh_CN/LC_MESSAGES/zh_CN.po | 
+ | [vi](/f34/language/vi) | 40 | 12684 | 0.3 | /mnt/stockage/packages/f34/4Pane/4pane-7.0/locale/vi/LC_MESSAGES/vi.po | 
 {.sortable}
 
 

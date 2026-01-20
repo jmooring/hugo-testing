@@ -18,56 +18,56 @@ The package plymouth-kcm (version 6.4.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f41/language/ar.md" >}}) | 93 | 93 | 100.0 | /mnt/stockage/packages/f41/plymouth-kcm/po/ar/kcm_plymouth.po | 
- | [be]({{< ref "/f41/language/be.md" >}}) | 93 | 93 | 100.0 | /mnt/stockage/packages/f41/plymouth-kcm/po/be/kcm_plymouth.po | 
- | [bg]({{< ref "/f41/language/bg.md" >}}) | 93 | 93 | 100.0 | /mnt/stockage/packages/f41/plymouth-kcm/po/bg/kcm_plymouth.po | 
- | [ca]({{< ref "/f41/language/ca.md" >}}) | 93 | 93 | 100.0 | /mnt/stockage/packages/f41/plymouth-kcm/po/ca/kcm_plymouth.po | 
- | [ca@valencia]({{< ref "/f41/language/ca@valencia.md" >}}) | 93 | 93 | 100.0 | /mnt/stockage/packages/f41/plymouth-kcm/po/ca@valencia/kcm_plymouth.po | 
- | [cs]({{< ref "/f41/language/cs.md" >}}) | 93 | 93 | 100.0 | /mnt/stockage/packages/f41/plymouth-kcm/po/cs/kcm_plymouth.po | 
- | [de]({{< ref "/f41/language/de.md" >}}) | 93 | 93 | 100.0 | /mnt/stockage/packages/f41/plymouth-kcm/po/de/kcm_plymouth.po | 
- | [en_GB]({{< ref "/f41/language/en_GB.md" >}}) | 93 | 93 | 100.0 | /mnt/stockage/packages/f41/plymouth-kcm/po/en_GB/kcm_plymouth.po | 
- | [eo]({{< ref "/f41/language/eo.md" >}}) | 93 | 93 | 100.0 | /mnt/stockage/packages/f41/plymouth-kcm/po/eo/kcm_plymouth.po | 
- | [es]({{< ref "/f41/language/es.md" >}}) | 93 | 93 | 100.0 | /mnt/stockage/packages/f41/plymouth-kcm/po/es/kcm_plymouth.po | 
- | [eu]({{< ref "/f41/language/eu.md" >}}) | 93 | 93 | 100.0 | /mnt/stockage/packages/f41/plymouth-kcm/po/eu/kcm_plymouth.po | 
- | [fi]({{< ref "/f41/language/fi.md" >}}) | 93 | 93 | 100.0 | /mnt/stockage/packages/f41/plymouth-kcm/po/fi/kcm_plymouth.po | 
- | [fr]({{< ref "/f41/language/fr.md" >}}) | 93 | 93 | 100.0 | /mnt/stockage/packages/f41/plymouth-kcm/po/fr/kcm_plymouth.po | 
- | [gl]({{< ref "/f41/language/gl.md" >}}) | 93 | 93 | 100.0 | /mnt/stockage/packages/f41/plymouth-kcm/po/gl/kcm_plymouth.po | 
- | [he]({{< ref "/f41/language/he.md" >}}) | 93 | 93 | 100.0 | /mnt/stockage/packages/f41/plymouth-kcm/po/he/kcm_plymouth.po | 
- | [hi]({{< ref "/f41/language/hi.md" >}}) | 93 | 93 | 100.0 | /mnt/stockage/packages/f41/plymouth-kcm/po/hi/kcm_plymouth.po | 
- | [hu]({{< ref "/f41/language/hu.md" >}}) | 93 | 93 | 100.0 | /mnt/stockage/packages/f41/plymouth-kcm/po/hu/kcm_plymouth.po | 
- | [ia]({{< ref "/f41/language/ia.md" >}}) | 93 | 93 | 100.0 | /mnt/stockage/packages/f41/plymouth-kcm/po/ia/kcm_plymouth.po | 
- | [it]({{< ref "/f41/language/it.md" >}}) | 93 | 93 | 100.0 | /mnt/stockage/packages/f41/plymouth-kcm/po/it/kcm_plymouth.po | 
- | [ja]({{< ref "/f41/language/ja.md" >}}) | 93 | 93 | 100.0 | /mnt/stockage/packages/f41/plymouth-kcm/po/ja/kcm_plymouth.po | 
- | [ka]({{< ref "/f41/language/ka.md" >}}) | 93 | 93 | 100.0 | /mnt/stockage/packages/f41/plymouth-kcm/po/ka/kcm_plymouth.po | 
- | [ko]({{< ref "/f41/language/ko.md" >}}) | 93 | 93 | 100.0 | /mnt/stockage/packages/f41/plymouth-kcm/po/ko/kcm_plymouth.po | 
- | [lt]({{< ref "/f41/language/lt.md" >}}) | 93 | 93 | 100.0 | /mnt/stockage/packages/f41/plymouth-kcm/po/lt/kcm_plymouth.po | 
- | [lv]({{< ref "/f41/language/lv.md" >}}) | 93 | 93 | 100.0 | /mnt/stockage/packages/f41/plymouth-kcm/po/lv/kcm_plymouth.po | 
- | [nl]({{< ref "/f41/language/nl.md" >}}) | 93 | 93 | 100.0 | /mnt/stockage/packages/f41/plymouth-kcm/po/nl/kcm_plymouth.po | 
- | [nn]({{< ref "/f41/language/nn.md" >}}) | 93 | 93 | 100.0 | /mnt/stockage/packages/f41/plymouth-kcm/po/nn/kcm_plymouth.po | 
- | [pl]({{< ref "/f41/language/pl.md" >}}) | 93 | 93 | 100.0 | /mnt/stockage/packages/f41/plymouth-kcm/po/pl/kcm_plymouth.po | 
- | [pt_BR]({{< ref "/f41/language/pt_BR.md" >}}) | 93 | 93 | 100.0 | /mnt/stockage/packages/f41/plymouth-kcm/po/pt_BR/kcm_plymouth.po | 
- | [ro]({{< ref "/f41/language/ro.md" >}}) | 93 | 93 | 100.0 | /mnt/stockage/packages/f41/plymouth-kcm/po/ro/kcm_plymouth.po | 
- | [ru]({{< ref "/f41/language/ru.md" >}}) | 93 | 93 | 100.0 | /mnt/stockage/packages/f41/plymouth-kcm/po/ru/kcm_plymouth.po | 
- | [sa]({{< ref "/f41/language/sa.md" >}}) | 93 | 93 | 100.0 | /mnt/stockage/packages/f41/plymouth-kcm/po/sa/kcm_plymouth.po | 
- | [sl]({{< ref "/f41/language/sl.md" >}}) | 93 | 93 | 100.0 | /mnt/stockage/packages/f41/plymouth-kcm/po/sl/kcm_plymouth.po | 
- | [sv]({{< ref "/f41/language/sv.md" >}}) | 93 | 93 | 100.0 | /mnt/stockage/packages/f41/plymouth-kcm/po/sv/kcm_plymouth.po | 
- | [tr]({{< ref "/f41/language/tr.md" >}}) | 93 | 93 | 100.0 | /mnt/stockage/packages/f41/plymouth-kcm/po/tr/kcm_plymouth.po | 
- | [uk]({{< ref "/f41/language/uk.md" >}}) | 93 | 93 | 100.0 | /mnt/stockage/packages/f41/plymouth-kcm/po/uk/kcm_plymouth.po | 
- | [zh_Hans]({{< ref "/f41/language/zh_Hans.md" >}}) | 93 | 93 | 100.0 | /mnt/stockage/packages/f41/plymouth-kcm/po/zh_CN/kcm_plymouth.po | 
- | [zh_Hant]({{< ref "/f41/language/zh_Hant.md" >}}) | 93 | 93 | 100.0 | /mnt/stockage/packages/f41/plymouth-kcm/po/zh_TW/kcm_plymouth.po | 
- | [pt]({{< ref "/f41/language/pt.md" >}}) | 90 | 93 | 96.8 | /mnt/stockage/packages/f41/plymouth-kcm/po/pt/kcm_plymouth.po | 
- | [sk]({{< ref "/f41/language/sk.md" >}}) | 90 | 93 | 96.8 | /mnt/stockage/packages/f41/plymouth-kcm/po/sk/kcm_plymouth.po | 
- | [da]({{< ref "/f41/language/da.md" >}}) | 88 | 93 | 94.6 | /mnt/stockage/packages/f41/plymouth-kcm/po/da/kcm_plymouth.po | 
- | [el]({{< ref "/f41/language/el.md" >}}) | 88 | 93 | 94.6 | /mnt/stockage/packages/f41/plymouth-kcm/po/el/kcm_plymouth.po | 
- | [et]({{< ref "/f41/language/et.md" >}}) | 88 | 93 | 94.6 | /mnt/stockage/packages/f41/plymouth-kcm/po/et/kcm_plymouth.po | 
- | [id]({{< ref "/f41/language/id.md" >}}) | 88 | 93 | 94.6 | /mnt/stockage/packages/f41/plymouth-kcm/po/id/kcm_plymouth.po | 
- | [pa]({{< ref "/f41/language/pa.md" >}}) | 81 | 93 | 87.1 | /mnt/stockage/packages/f41/plymouth-kcm/po/pa/kcm_plymouth.po | 
- | [sr]({{< ref "/f41/language/sr.md" >}}) | 78 | 93 | 83.9 | /mnt/stockage/packages/f41/plymouth-kcm/po/sr/kcm_plymouth.po | 
- | [sr@ijekavian]({{< ref "/f41/language/sr@ijekavian.md" >}}) | 78 | 93 | 83.9 | /mnt/stockage/packages/f41/plymouth-kcm/po/sr@ijekavian/kcm_plymouth.po | 
- | [sr@ijekavian_Latn]({{< ref "/f41/language/sr@ijekavian_Latn.md" >}}) | 78 | 93 | 83.9 | /mnt/stockage/packages/f41/plymouth-kcm/po/sr@ijekavianlatin/kcm_plymouth.po | 
- | [sr_Latn]({{< ref "/f41/language/sr_Latn.md" >}}) | 78 | 93 | 83.9 | /mnt/stockage/packages/f41/plymouth-kcm/po/sr@latin/kcm_plymouth.po | 
- | [ast]({{< ref "/f41/language/ast.md" >}}) | 0 | 93 | 0.0 | /mnt/stockage/packages/f41/plymouth-kcm/po/ast/kcm_plymouth.po | 
- | [ml]({{< ref "/f41/language/ml.md" >}}) | 0 | 93 | 0.0 | /mnt/stockage/packages/f41/plymouth-kcm/po/ml/kcm_plymouth.po | 
+ | [ar](/f41/language/ar) | 93 | 93 | 100.0 | /mnt/stockage/packages/f41/plymouth-kcm/po/ar/kcm_plymouth.po | 
+ | [be](/f41/language/be) | 93 | 93 | 100.0 | /mnt/stockage/packages/f41/plymouth-kcm/po/be/kcm_plymouth.po | 
+ | [bg](/f41/language/bg) | 93 | 93 | 100.0 | /mnt/stockage/packages/f41/plymouth-kcm/po/bg/kcm_plymouth.po | 
+ | [ca](/f41/language/ca) | 93 | 93 | 100.0 | /mnt/stockage/packages/f41/plymouth-kcm/po/ca/kcm_plymouth.po | 
+ | [ca@valencia](/f41/language/ca@valencia) | 93 | 93 | 100.0 | /mnt/stockage/packages/f41/plymouth-kcm/po/ca@valencia/kcm_plymouth.po | 
+ | [cs](/f41/language/cs) | 93 | 93 | 100.0 | /mnt/stockage/packages/f41/plymouth-kcm/po/cs/kcm_plymouth.po | 
+ | [de](/f41/language/de) | 93 | 93 | 100.0 | /mnt/stockage/packages/f41/plymouth-kcm/po/de/kcm_plymouth.po | 
+ | [en_GB](/f41/language/en_GB) | 93 | 93 | 100.0 | /mnt/stockage/packages/f41/plymouth-kcm/po/en_GB/kcm_plymouth.po | 
+ | [eo](/f41/language/eo) | 93 | 93 | 100.0 | /mnt/stockage/packages/f41/plymouth-kcm/po/eo/kcm_plymouth.po | 
+ | [es](/f41/language/es) | 93 | 93 | 100.0 | /mnt/stockage/packages/f41/plymouth-kcm/po/es/kcm_plymouth.po | 
+ | [eu](/f41/language/eu) | 93 | 93 | 100.0 | /mnt/stockage/packages/f41/plymouth-kcm/po/eu/kcm_plymouth.po | 
+ | [fi](/f41/language/fi) | 93 | 93 | 100.0 | /mnt/stockage/packages/f41/plymouth-kcm/po/fi/kcm_plymouth.po | 
+ | [fr](/f41/language/fr) | 93 | 93 | 100.0 | /mnt/stockage/packages/f41/plymouth-kcm/po/fr/kcm_plymouth.po | 
+ | [gl](/f41/language/gl) | 93 | 93 | 100.0 | /mnt/stockage/packages/f41/plymouth-kcm/po/gl/kcm_plymouth.po | 
+ | [he](/f41/language/he) | 93 | 93 | 100.0 | /mnt/stockage/packages/f41/plymouth-kcm/po/he/kcm_plymouth.po | 
+ | [hi](/f41/language/hi) | 93 | 93 | 100.0 | /mnt/stockage/packages/f41/plymouth-kcm/po/hi/kcm_plymouth.po | 
+ | [hu](/f41/language/hu) | 93 | 93 | 100.0 | /mnt/stockage/packages/f41/plymouth-kcm/po/hu/kcm_plymouth.po | 
+ | [ia](/f41/language/ia) | 93 | 93 | 100.0 | /mnt/stockage/packages/f41/plymouth-kcm/po/ia/kcm_plymouth.po | 
+ | [it](/f41/language/it) | 93 | 93 | 100.0 | /mnt/stockage/packages/f41/plymouth-kcm/po/it/kcm_plymouth.po | 
+ | [ja](/f41/language/ja) | 93 | 93 | 100.0 | /mnt/stockage/packages/f41/plymouth-kcm/po/ja/kcm_plymouth.po | 
+ | [ka](/f41/language/ka) | 93 | 93 | 100.0 | /mnt/stockage/packages/f41/plymouth-kcm/po/ka/kcm_plymouth.po | 
+ | [ko](/f41/language/ko) | 93 | 93 | 100.0 | /mnt/stockage/packages/f41/plymouth-kcm/po/ko/kcm_plymouth.po | 
+ | [lt](/f41/language/lt) | 93 | 93 | 100.0 | /mnt/stockage/packages/f41/plymouth-kcm/po/lt/kcm_plymouth.po | 
+ | [lv](/f41/language/lv) | 93 | 93 | 100.0 | /mnt/stockage/packages/f41/plymouth-kcm/po/lv/kcm_plymouth.po | 
+ | [nl](/f41/language/nl) | 93 | 93 | 100.0 | /mnt/stockage/packages/f41/plymouth-kcm/po/nl/kcm_plymouth.po | 
+ | [nn](/f41/language/nn) | 93 | 93 | 100.0 | /mnt/stockage/packages/f41/plymouth-kcm/po/nn/kcm_plymouth.po | 
+ | [pl](/f41/language/pl) | 93 | 93 | 100.0 | /mnt/stockage/packages/f41/plymouth-kcm/po/pl/kcm_plymouth.po | 
+ | [pt_BR](/f41/language/pt_BR) | 93 | 93 | 100.0 | /mnt/stockage/packages/f41/plymouth-kcm/po/pt_BR/kcm_plymouth.po | 
+ | [ro](/f41/language/ro) | 93 | 93 | 100.0 | /mnt/stockage/packages/f41/plymouth-kcm/po/ro/kcm_plymouth.po | 
+ | [ru](/f41/language/ru) | 93 | 93 | 100.0 | /mnt/stockage/packages/f41/plymouth-kcm/po/ru/kcm_plymouth.po | 
+ | [sa](/f41/language/sa) | 93 | 93 | 100.0 | /mnt/stockage/packages/f41/plymouth-kcm/po/sa/kcm_plymouth.po | 
+ | [sl](/f41/language/sl) | 93 | 93 | 100.0 | /mnt/stockage/packages/f41/plymouth-kcm/po/sl/kcm_plymouth.po | 
+ | [sv](/f41/language/sv) | 93 | 93 | 100.0 | /mnt/stockage/packages/f41/plymouth-kcm/po/sv/kcm_plymouth.po | 
+ | [tr](/f41/language/tr) | 93 | 93 | 100.0 | /mnt/stockage/packages/f41/plymouth-kcm/po/tr/kcm_plymouth.po | 
+ | [uk](/f41/language/uk) | 93 | 93 | 100.0 | /mnt/stockage/packages/f41/plymouth-kcm/po/uk/kcm_plymouth.po | 
+ | [zh_Hans](/f41/language/zh_Hans) | 93 | 93 | 100.0 | /mnt/stockage/packages/f41/plymouth-kcm/po/zh_CN/kcm_plymouth.po | 
+ | [zh_Hant](/f41/language/zh_Hant) | 93 | 93 | 100.0 | /mnt/stockage/packages/f41/plymouth-kcm/po/zh_TW/kcm_plymouth.po | 
+ | [pt](/f41/language/pt) | 90 | 93 | 96.8 | /mnt/stockage/packages/f41/plymouth-kcm/po/pt/kcm_plymouth.po | 
+ | [sk](/f41/language/sk) | 90 | 93 | 96.8 | /mnt/stockage/packages/f41/plymouth-kcm/po/sk/kcm_plymouth.po | 
+ | [da](/f41/language/da) | 88 | 93 | 94.6 | /mnt/stockage/packages/f41/plymouth-kcm/po/da/kcm_plymouth.po | 
+ | [el](/f41/language/el) | 88 | 93 | 94.6 | /mnt/stockage/packages/f41/plymouth-kcm/po/el/kcm_plymouth.po | 
+ | [et](/f41/language/et) | 88 | 93 | 94.6 | /mnt/stockage/packages/f41/plymouth-kcm/po/et/kcm_plymouth.po | 
+ | [id](/f41/language/id) | 88 | 93 | 94.6 | /mnt/stockage/packages/f41/plymouth-kcm/po/id/kcm_plymouth.po | 
+ | [pa](/f41/language/pa) | 81 | 93 | 87.1 | /mnt/stockage/packages/f41/plymouth-kcm/po/pa/kcm_plymouth.po | 
+ | [sr](/f41/language/sr) | 78 | 93 | 83.9 | /mnt/stockage/packages/f41/plymouth-kcm/po/sr/kcm_plymouth.po | 
+ | [sr@ijekavian](/f41/language/sr@ijekavian) | 78 | 93 | 83.9 | /mnt/stockage/packages/f41/plymouth-kcm/po/sr@ijekavian/kcm_plymouth.po | 
+ | [sr@ijekavian_Latn](/f41/language/sr@ijekavian_Latn) | 78 | 93 | 83.9 | /mnt/stockage/packages/f41/plymouth-kcm/po/sr@ijekavianlatin/kcm_plymouth.po | 
+ | [sr_Latn](/f41/language/sr_Latn) | 78 | 93 | 83.9 | /mnt/stockage/packages/f41/plymouth-kcm/po/sr@latin/kcm_plymouth.po | 
+ | [ast](/f41/language/ast) | 0 | 93 | 0.0 | /mnt/stockage/packages/f41/plymouth-kcm/po/ast/kcm_plymouth.po | 
+ | [ml](/f41/language/ml) | 0 | 93 | 0.0 | /mnt/stockage/packages/f41/plymouth-kcm/po/ml/kcm_plymouth.po | 
 {.sortable}
 
 

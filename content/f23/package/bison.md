@@ -18,44 +18,44 @@ The package bison (version 3.0.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ast]({{< ref "/f23/language/ast.md" >}}) | 52 | 52 | 100.0 | /mnt/stockage/packages/f23/bison/runtime-po/ast.po | 
- | [de]({{< ref "/f23/language/de.md" >}}) | 1416 | 1416 | 100.0 | /mnt/stockage/packages/f23/bison/po/de.po/mnt/stockage/packages/f23/bison/runtime-po/de.po | 
- | [el]({{< ref "/f23/language/el.md" >}}) | 1416 | 1416 | 100.0 | /mnt/stockage/packages/f23/bison/po/el.po/mnt/stockage/packages/f23/bison/runtime-po/el.po | 
- | [eo]({{< ref "/f23/language/eo.md" >}}) | 1416 | 1416 | 100.0 | /mnt/stockage/packages/f23/bison/po/eo.po/mnt/stockage/packages/f23/bison/runtime-po/eo.po | 
- | [et]({{< ref "/f23/language/et.md" >}}) | 1416 | 1416 | 100.0 | /mnt/stockage/packages/f23/bison/po/et.po/mnt/stockage/packages/f23/bison/runtime-po/et.po | 
- | [fi]({{< ref "/f23/language/fi.md" >}}) | 1416 | 1416 | 100.0 | /mnt/stockage/packages/f23/bison/po/fi.po/mnt/stockage/packages/f23/bison/runtime-po/fi.po | 
- | [fr]({{< ref "/f23/language/fr.md" >}}) | 1416 | 1416 | 100.0 | /mnt/stockage/packages/f23/bison/po/fr.po/mnt/stockage/packages/f23/bison/runtime-po/fr.po | 
- | [gl]({{< ref "/f23/language/gl.md" >}}) | 52 | 52 | 100.0 | /mnt/stockage/packages/f23/bison/runtime-po/gl.po | 
- | [hu]({{< ref "/f23/language/hu.md" >}}) | 52 | 52 | 100.0 | /mnt/stockage/packages/f23/bison/runtime-po/hu.po | 
- | [ia]({{< ref "/f23/language/ia.md" >}}) | 52 | 52 | 100.0 | /mnt/stockage/packages/f23/bison/runtime-po/ia.po | 
- | [ky]({{< ref "/f23/language/ky.md" >}}) | 52 | 52 | 100.0 | /mnt/stockage/packages/f23/bison/runtime-po/ky.po | 
- | [lt]({{< ref "/f23/language/lt.md" >}}) | 52 | 52 | 100.0 | /mnt/stockage/packages/f23/bison/runtime-po/lt.po | 
- | [lv]({{< ref "/f23/language/lv.md" >}}) | 52 | 52 | 100.0 | /mnt/stockage/packages/f23/bison/runtime-po/lv.po | 
- | [nl]({{< ref "/f23/language/nl.md" >}}) | 1416 | 1416 | 100.0 | /mnt/stockage/packages/f23/bison/po/nl.po/mnt/stockage/packages/f23/bison/runtime-po/nl.po | 
- | [pl]({{< ref "/f23/language/pl.md" >}}) | 1416 | 1416 | 100.0 | /mnt/stockage/packages/f23/bison/po/pl.po/mnt/stockage/packages/f23/bison/runtime-po/pl.po | 
- | [pt_BR]({{< ref "/f23/language/pt_BR.md" >}}) | 1416 | 1416 | 100.0 | /mnt/stockage/packages/f23/bison/po/pt_BR.po/mnt/stockage/packages/f23/bison/runtime-po/pt_BR.po | 
- | [sl]({{< ref "/f23/language/sl.md" >}}) | 52 | 52 | 100.0 | /mnt/stockage/packages/f23/bison/runtime-po/sl.po | 
- | [sq]({{< ref "/f23/language/sq.md" >}}) | 52 | 52 | 100.0 | /mnt/stockage/packages/f23/bison/runtime-po/sq.po | 
- | [sr]({{< ref "/f23/language/sr.md" >}}) | 1416 | 1416 | 100.0 | /mnt/stockage/packages/f23/bison/po/sr.po/mnt/stockage/packages/f23/bison/runtime-po/sr.po | 
- | [sv]({{< ref "/f23/language/sv.md" >}}) | 1416 | 1416 | 100.0 | /mnt/stockage/packages/f23/bison/po/sv.po/mnt/stockage/packages/f23/bison/runtime-po/sv.po | 
- | [th]({{< ref "/f23/language/th.md" >}}) | 52 | 52 | 100.0 | /mnt/stockage/packages/f23/bison/runtime-po/th.po | 
- | [uk]({{< ref "/f23/language/uk.md" >}}) | 1416 | 1416 | 100.0 | /mnt/stockage/packages/f23/bison/po/uk.po/mnt/stockage/packages/f23/bison/runtime-po/uk.po | 
- | [vi]({{< ref "/f23/language/vi.md" >}}) | 1416 | 1416 | 100.0 | /mnt/stockage/packages/f23/bison/po/vi.po/mnt/stockage/packages/f23/bison/runtime-po/vi.po | 
- | [zh_Hant]({{< ref "/f23/language/zh_Hant.md" >}}) | 1416 | 1416 | 100.0 | /mnt/stockage/packages/f23/bison/po/zh_TW.po/mnt/stockage/packages/f23/bison/runtime-po/zh_TW.po | 
- | [es]({{< ref "/f23/language/es.md" >}}) | 1411 | 1416 | 99.6 | /mnt/stockage/packages/f23/bison/po/es.po/mnt/stockage/packages/f23/bison/runtime-po/es.po | 
- | [hr]({{< ref "/f23/language/hr.md" >}}) | 1060 | 1416 | 74.9 | /mnt/stockage/packages/f23/bison/po/hr.po/mnt/stockage/packages/f23/bison/runtime-po/hr.po | 
- | [ga]({{< ref "/f23/language/ga.md" >}}) | 750 | 1416 | 53.0 | /mnt/stockage/packages/f23/bison/po/ga.po/mnt/stockage/packages/f23/bison/runtime-po/ga.po | 
- | [id]({{< ref "/f23/language/id.md" >}}) | 594 | 1416 | 41.9 | /mnt/stockage/packages/f23/bison/po/id.po/mnt/stockage/packages/f23/bison/runtime-po/id.po | 
- | [ru]({{< ref "/f23/language/ru.md" >}}) | 514 | 1416 | 36.3 | /mnt/stockage/packages/f23/bison/po/ru.po/mnt/stockage/packages/f23/bison/runtime-po/ru.po | 
- | [ms]({{< ref "/f23/language/ms.md" >}}) | 508 | 1416 | 35.9 | /mnt/stockage/packages/f23/bison/po/ms.po/mnt/stockage/packages/f23/bison/runtime-po/ms.po | 
- | [nb_NO]({{< ref "/f23/language/nb_NO.md" >}}) | 396 | 1416 | 28.0 | /mnt/stockage/packages/f23/bison/po/nb.po/mnt/stockage/packages/f23/bison/runtime-po/nb.po | 
- | [ro]({{< ref "/f23/language/ro.md" >}}) | 396 | 1416 | 28.0 | /mnt/stockage/packages/f23/bison/po/ro.po/mnt/stockage/packages/f23/bison/runtime-po/ro.po | 
- | [it]({{< ref "/f23/language/it.md" >}}) | 393 | 1416 | 27.8 | /mnt/stockage/packages/f23/bison/po/it.po/mnt/stockage/packages/f23/bison/runtime-po/it.po | 
- | [tr]({{< ref "/f23/language/tr.md" >}}) | 392 | 1416 | 27.7 | /mnt/stockage/packages/f23/bison/po/tr.po/mnt/stockage/packages/f23/bison/runtime-po/tr.po | 
- | [da]({{< ref "/f23/language/da.md" >}}) | 387 | 1416 | 27.3 | /mnt/stockage/packages/f23/bison/po/da.po/mnt/stockage/packages/f23/bison/runtime-po/da.po | 
- | [ja]({{< ref "/f23/language/ja.md" >}}) | 371 | 1416 | 26.2 | /mnt/stockage/packages/f23/bison/po/ja.po/mnt/stockage/packages/f23/bison/runtime-po/ja.po | 
- | [zh_Hans]({{< ref "/f23/language/zh_Hans.md" >}}) | 359 | 1416 | 25.4 | /mnt/stockage/packages/f23/bison/po/zh_CN.po/mnt/stockage/packages/f23/bison/runtime-po/zh_CN.po | 
- | [pt]({{< ref "/f23/language/pt.md" >}}) | 115 | 1416 | 8.1 | /mnt/stockage/packages/f23/bison/po/pt.po/mnt/stockage/packages/f23/bison/runtime-po/pt.po | 
+ | [ast](/f23/language/ast) | 52 | 52 | 100.0 | /mnt/stockage/packages/f23/bison/runtime-po/ast.po | 
+ | [de](/f23/language/de) | 1416 | 1416 | 100.0 | /mnt/stockage/packages/f23/bison/po/de.po/mnt/stockage/packages/f23/bison/runtime-po/de.po | 
+ | [el](/f23/language/el) | 1416 | 1416 | 100.0 | /mnt/stockage/packages/f23/bison/po/el.po/mnt/stockage/packages/f23/bison/runtime-po/el.po | 
+ | [eo](/f23/language/eo) | 1416 | 1416 | 100.0 | /mnt/stockage/packages/f23/bison/po/eo.po/mnt/stockage/packages/f23/bison/runtime-po/eo.po | 
+ | [et](/f23/language/et) | 1416 | 1416 | 100.0 | /mnt/stockage/packages/f23/bison/po/et.po/mnt/stockage/packages/f23/bison/runtime-po/et.po | 
+ | [fi](/f23/language/fi) | 1416 | 1416 | 100.0 | /mnt/stockage/packages/f23/bison/po/fi.po/mnt/stockage/packages/f23/bison/runtime-po/fi.po | 
+ | [fr](/f23/language/fr) | 1416 | 1416 | 100.0 | /mnt/stockage/packages/f23/bison/po/fr.po/mnt/stockage/packages/f23/bison/runtime-po/fr.po | 
+ | [gl](/f23/language/gl) | 52 | 52 | 100.0 | /mnt/stockage/packages/f23/bison/runtime-po/gl.po | 
+ | [hu](/f23/language/hu) | 52 | 52 | 100.0 | /mnt/stockage/packages/f23/bison/runtime-po/hu.po | 
+ | [ia](/f23/language/ia) | 52 | 52 | 100.0 | /mnt/stockage/packages/f23/bison/runtime-po/ia.po | 
+ | [ky](/f23/language/ky) | 52 | 52 | 100.0 | /mnt/stockage/packages/f23/bison/runtime-po/ky.po | 
+ | [lt](/f23/language/lt) | 52 | 52 | 100.0 | /mnt/stockage/packages/f23/bison/runtime-po/lt.po | 
+ | [lv](/f23/language/lv) | 52 | 52 | 100.0 | /mnt/stockage/packages/f23/bison/runtime-po/lv.po | 
+ | [nl](/f23/language/nl) | 1416 | 1416 | 100.0 | /mnt/stockage/packages/f23/bison/po/nl.po/mnt/stockage/packages/f23/bison/runtime-po/nl.po | 
+ | [pl](/f23/language/pl) | 1416 | 1416 | 100.0 | /mnt/stockage/packages/f23/bison/po/pl.po/mnt/stockage/packages/f23/bison/runtime-po/pl.po | 
+ | [pt_BR](/f23/language/pt_BR) | 1416 | 1416 | 100.0 | /mnt/stockage/packages/f23/bison/po/pt_BR.po/mnt/stockage/packages/f23/bison/runtime-po/pt_BR.po | 
+ | [sl](/f23/language/sl) | 52 | 52 | 100.0 | /mnt/stockage/packages/f23/bison/runtime-po/sl.po | 
+ | [sq](/f23/language/sq) | 52 | 52 | 100.0 | /mnt/stockage/packages/f23/bison/runtime-po/sq.po | 
+ | [sr](/f23/language/sr) | 1416 | 1416 | 100.0 | /mnt/stockage/packages/f23/bison/po/sr.po/mnt/stockage/packages/f23/bison/runtime-po/sr.po | 
+ | [sv](/f23/language/sv) | 1416 | 1416 | 100.0 | /mnt/stockage/packages/f23/bison/po/sv.po/mnt/stockage/packages/f23/bison/runtime-po/sv.po | 
+ | [th](/f23/language/th) | 52 | 52 | 100.0 | /mnt/stockage/packages/f23/bison/runtime-po/th.po | 
+ | [uk](/f23/language/uk) | 1416 | 1416 | 100.0 | /mnt/stockage/packages/f23/bison/po/uk.po/mnt/stockage/packages/f23/bison/runtime-po/uk.po | 
+ | [vi](/f23/language/vi) | 1416 | 1416 | 100.0 | /mnt/stockage/packages/f23/bison/po/vi.po/mnt/stockage/packages/f23/bison/runtime-po/vi.po | 
+ | [zh_Hant](/f23/language/zh_Hant) | 1416 | 1416 | 100.0 | /mnt/stockage/packages/f23/bison/po/zh_TW.po/mnt/stockage/packages/f23/bison/runtime-po/zh_TW.po | 
+ | [es](/f23/language/es) | 1411 | 1416 | 99.6 | /mnt/stockage/packages/f23/bison/po/es.po/mnt/stockage/packages/f23/bison/runtime-po/es.po | 
+ | [hr](/f23/language/hr) | 1060 | 1416 | 74.9 | /mnt/stockage/packages/f23/bison/po/hr.po/mnt/stockage/packages/f23/bison/runtime-po/hr.po | 
+ | [ga](/f23/language/ga) | 750 | 1416 | 53.0 | /mnt/stockage/packages/f23/bison/po/ga.po/mnt/stockage/packages/f23/bison/runtime-po/ga.po | 
+ | [id](/f23/language/id) | 594 | 1416 | 41.9 | /mnt/stockage/packages/f23/bison/po/id.po/mnt/stockage/packages/f23/bison/runtime-po/id.po | 
+ | [ru](/f23/language/ru) | 514 | 1416 | 36.3 | /mnt/stockage/packages/f23/bison/po/ru.po/mnt/stockage/packages/f23/bison/runtime-po/ru.po | 
+ | [ms](/f23/language/ms) | 508 | 1416 | 35.9 | /mnt/stockage/packages/f23/bison/po/ms.po/mnt/stockage/packages/f23/bison/runtime-po/ms.po | 
+ | [nb_NO](/f23/language/nb_NO) | 396 | 1416 | 28.0 | /mnt/stockage/packages/f23/bison/po/nb.po/mnt/stockage/packages/f23/bison/runtime-po/nb.po | 
+ | [ro](/f23/language/ro) | 396 | 1416 | 28.0 | /mnt/stockage/packages/f23/bison/po/ro.po/mnt/stockage/packages/f23/bison/runtime-po/ro.po | 
+ | [it](/f23/language/it) | 393 | 1416 | 27.8 | /mnt/stockage/packages/f23/bison/po/it.po/mnt/stockage/packages/f23/bison/runtime-po/it.po | 
+ | [tr](/f23/language/tr) | 392 | 1416 | 27.7 | /mnt/stockage/packages/f23/bison/po/tr.po/mnt/stockage/packages/f23/bison/runtime-po/tr.po | 
+ | [da](/f23/language/da) | 387 | 1416 | 27.3 | /mnt/stockage/packages/f23/bison/po/da.po/mnt/stockage/packages/f23/bison/runtime-po/da.po | 
+ | [ja](/f23/language/ja) | 371 | 1416 | 26.2 | /mnt/stockage/packages/f23/bison/po/ja.po/mnt/stockage/packages/f23/bison/runtime-po/ja.po | 
+ | [zh_Hans](/f23/language/zh_Hans) | 359 | 1416 | 25.4 | /mnt/stockage/packages/f23/bison/po/zh_CN.po/mnt/stockage/packages/f23/bison/runtime-po/zh_CN.po | 
+ | [pt](/f23/language/pt) | 115 | 1416 | 8.1 | /mnt/stockage/packages/f23/bison/po/pt.po/mnt/stockage/packages/f23/bison/runtime-po/pt.po | 
 {.sortable}
 
 

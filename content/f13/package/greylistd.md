@@ -18,16 +18,16 @@ The package greylistd (version 0.8.7):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f13/language/cs.md" >}}) | 350 | 350 | 100.0 | /mnt/stockage/packages/f13/greylistd/debian/po/cs.po | 
- | [de]({{< ref "/f13/language/de.md" >}}) | 350 | 350 | 100.0 | /mnt/stockage/packages/f13/greylistd/debian/po/de.po | 
- | [es]({{< ref "/f13/language/es.md" >}}) | 350 | 350 | 100.0 | /mnt/stockage/packages/f13/greylistd/debian/po/es.po | 
- | [fr]({{< ref "/f13/language/fr.md" >}}) | 350 | 350 | 100.0 | /mnt/stockage/packages/f13/greylistd/debian/po/fr.po | 
- | [it]({{< ref "/f13/language/it.md" >}}) | 350 | 350 | 100.0 | /mnt/stockage/packages/f13/greylistd/debian/po/it.po | 
- | [ja]({{< ref "/f13/language/ja.md" >}}) | 350 | 350 | 100.0 | /mnt/stockage/packages/f13/greylistd/debian/po/ja.po | 
- | [nb_NO]({{< ref "/f13/language/nb_NO.md" >}}) | 350 | 350 | 100.0 | /mnt/stockage/packages/f13/greylistd/debian/po/nb.po | 
- | [nl]({{< ref "/f13/language/nl.md" >}}) | 350 | 350 | 100.0 | /mnt/stockage/packages/f13/greylistd/debian/po/nl.po | 
- | [pt]({{< ref "/f13/language/pt.md" >}}) | 350 | 350 | 100.0 | /mnt/stockage/packages/f13/greylistd/debian/po/pt.po | 
- | [vi]({{< ref "/f13/language/vi.md" >}}) | 350 | 350 | 100.0 | /mnt/stockage/packages/f13/greylistd/debian/po/vi.po | 
+ | [cs](/f13/language/cs) | 350 | 350 | 100.0 | /mnt/stockage/packages/f13/greylistd/debian/po/cs.po | 
+ | [de](/f13/language/de) | 350 | 350 | 100.0 | /mnt/stockage/packages/f13/greylistd/debian/po/de.po | 
+ | [es](/f13/language/es) | 350 | 350 | 100.0 | /mnt/stockage/packages/f13/greylistd/debian/po/es.po | 
+ | [fr](/f13/language/fr) | 350 | 350 | 100.0 | /mnt/stockage/packages/f13/greylistd/debian/po/fr.po | 
+ | [it](/f13/language/it) | 350 | 350 | 100.0 | /mnt/stockage/packages/f13/greylistd/debian/po/it.po | 
+ | [ja](/f13/language/ja) | 350 | 350 | 100.0 | /mnt/stockage/packages/f13/greylistd/debian/po/ja.po | 
+ | [nb_NO](/f13/language/nb_NO) | 350 | 350 | 100.0 | /mnt/stockage/packages/f13/greylistd/debian/po/nb.po | 
+ | [nl](/f13/language/nl) | 350 | 350 | 100.0 | /mnt/stockage/packages/f13/greylistd/debian/po/nl.po | 
+ | [pt](/f13/language/pt) | 350 | 350 | 100.0 | /mnt/stockage/packages/f13/greylistd/debian/po/pt.po | 
+ | [vi](/f13/language/vi) | 350 | 350 | 100.0 | /mnt/stockage/packages/f13/greylistd/debian/po/vi.po | 
 {.sortable}
 
 

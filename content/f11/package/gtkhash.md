@@ -18,13 +18,13 @@ The package gtkhash (version 0.3.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f11/language/cs.md" >}}) | 43 | 65 | 66.2 | /mnt/stockage/packages/f11/gtkhash/po/cs.po | 
- | [de]({{< ref "/f11/language/de.md" >}}) | 43 | 65 | 66.2 | /mnt/stockage/packages/f11/gtkhash/po/de.po | 
- | [es]({{< ref "/f11/language/es.md" >}}) | 43 | 65 | 66.2 | /mnt/stockage/packages/f11/gtkhash/po/es.po | 
- | [fr]({{< ref "/f11/language/fr.md" >}}) | 43 | 65 | 66.2 | /mnt/stockage/packages/f11/gtkhash/po/fr.po | 
- | [sv]({{< ref "/f11/language/sv.md" >}}) | 24 | 65 | 36.9 | /mnt/stockage/packages/f11/gtkhash/po/sv.po | 
- | [eo]({{< ref "/f11/language/eo.md" >}}) | 15 | 65 | 23.1 | /mnt/stockage/packages/f11/gtkhash/po/eo.po | 
- | [tr]({{< ref "/f11/language/tr.md" >}}) | 12 | 65 | 18.5 | /mnt/stockage/packages/f11/gtkhash/po/tr.po | 
+ | [cs](/f11/language/cs) | 43 | 65 | 66.2 | /mnt/stockage/packages/f11/gtkhash/po/cs.po | 
+ | [de](/f11/language/de) | 43 | 65 | 66.2 | /mnt/stockage/packages/f11/gtkhash/po/de.po | 
+ | [es](/f11/language/es) | 43 | 65 | 66.2 | /mnt/stockage/packages/f11/gtkhash/po/es.po | 
+ | [fr](/f11/language/fr) | 43 | 65 | 66.2 | /mnt/stockage/packages/f11/gtkhash/po/fr.po | 
+ | [sv](/f11/language/sv) | 24 | 65 | 36.9 | /mnt/stockage/packages/f11/gtkhash/po/sv.po | 
+ | [eo](/f11/language/eo) | 15 | 65 | 23.1 | /mnt/stockage/packages/f11/gtkhash/po/eo.po | 
+ | [tr](/f11/language/tr) | 12 | 65 | 18.5 | /mnt/stockage/packages/f11/gtkhash/po/tr.po | 
 {.sortable}
 
 

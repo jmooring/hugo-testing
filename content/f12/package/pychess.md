@@ -18,34 +18,34 @@ The package pychess (version 0.10):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [da]({{< ref "/f12/language/da.md" >}}) | 1671 | 1671 | 100.0 | /mnt/stockage/packages/f12/pychess/lang/da/LC_MESSAGES/pychess.po | 
- | [pt_BR]({{< ref "/f12/language/pt_BR.md" >}}) | 1698 | 1698 | 100.0 | /mnt/stockage/packages/f12/pychess/lang/pt_BR/LC_MESSAGES/pychess.po | 
- | [sl]({{< ref "/f12/language/sl.md" >}}) | 2294 | 2303 | 99.6 | /mnt/stockage/packages/f12/pychess/lang/sl/LC_MESSAGES/pychess.po | 
- | [pl]({{< ref "/f12/language/pl.md" >}}) | 1612 | 1671 | 96.5 | /mnt/stockage/packages/f12/pychess/lang/pl/LC_MESSAGES/pychess.po | 
- | [hu]({{< ref "/f12/language/hu.md" >}}) | 1990 | 2233 | 89.1 | /mnt/stockage/packages/f12/pychess/lang/hu/LC_MESSAGES/pychess.po | 
- | [et]({{< ref "/f12/language/et.md" >}}) | 1254 | 1671 | 75.0 | /mnt/stockage/packages/f12/pychess/lang/et/LC_MESSAGES/pychess.po | 
- | [it]({{< ref "/f12/language/it.md" >}}) | 1213 | 1671 | 72.6 | /mnt/stockage/packages/f12/pychess/lang/it/LC_MESSAGES/pychess.po | 
- | [ro]({{< ref "/f12/language/ro.md" >}}) | 1019 | 1671 | 61.0 | /mnt/stockage/packages/f12/pychess/lang/ro/LC_MESSAGES/pychess.po | 
- | [es]({{< ref "/f12/language/es.md" >}}) | 978 | 1671 | 58.5 | /mnt/stockage/packages/f12/pychess/lang/es/LC_MESSAGES/pychess.po | 
- | [de]({{< ref "/f12/language/de.md" >}}) | 842 | 1671 | 50.4 | /mnt/stockage/packages/f12/pychess/lang/de/LC_MESSAGES/pychess.po | 
- | [nl]({{< ref "/f12/language/nl.md" >}}) | 780 | 1671 | 46.7 | /mnt/stockage/packages/f12/pychess/lang/nl/LC_MESSAGES/pychess.po | 
- | [sv]({{< ref "/f12/language/sv.md" >}}) | 675 | 1671 | 40.4 | /mnt/stockage/packages/f12/pychess/lang/sv/LC_MESSAGES/pychess.po | 
- | [fr]({{< ref "/f12/language/fr.md" >}}) | 542 | 1671 | 32.4 | /mnt/stockage/packages/f12/pychess/lang/fr/LC_MESSAGES/pychess.po | 
- | [az]({{< ref "/f12/language/az.md" >}}) | 430 | 1671 | 25.7 | /mnt/stockage/packages/f12/pychess/lang/az/LC_MESSAGES/pychess.po | 
- | [pt]({{< ref "/f12/language/pt.md" >}}) | 409 | 1671 | 24.5 | /mnt/stockage/packages/f12/pychess/lang/pt/LC_MESSAGES/pychess.po | 
- | [ca]({{< ref "/f12/language/ca.md" >}}) | 399 | 1671 | 23.9 | /mnt/stockage/packages/f12/pychess/lang/ca/LC_MESSAGES/pychess.po | 
- | [ru]({{< ref "/f12/language/ru.md" >}}) | 387 | 1671 | 23.2 | /mnt/stockage/packages/f12/pychess/lang/ru/LC_MESSAGES/pychess.po | 
- | [tr]({{< ref "/f12/language/tr.md" >}}) | 371 | 1671 | 22.2 | /mnt/stockage/packages/f12/pychess/lang/tr/LC_MESSAGES/pychess.po | 
- | [cs]({{< ref "/f12/language/cs.md" >}}) | 319 | 1671 | 19.1 | /mnt/stockage/packages/f12/pychess/lang/cs/LC_MESSAGES/pychess.po | 
- | [el]({{< ref "/f12/language/el.md" >}}) | 61 | 1671 | 3.7 | /mnt/stockage/packages/f12/pychess/lang/el/LC_MESSAGES/pychess.po | 
- | [gl]({{< ref "/f12/language/gl.md" >}}) | 38 | 1671 | 2.3 | /mnt/stockage/packages/f12/pychess/lang/gl/LC_MESSAGES/pychess.po | 
- | [ja]({{< ref "/f12/language/ja.md" >}}) | 18 | 1671 | 1.1 | /mnt/stockage/packages/f12/pychess/lang/ja/LC_MESSAGES/pychess.po | 
- | [bg]({{< ref "/f12/language/bg.md" >}}) | 17 | 1671 | 1.0 | /mnt/stockage/packages/f12/pychess/lang/bg/LC_MESSAGES/pychess.po | 
- | [he]({{< ref "/f12/language/he.md" >}}) | 12 | 1671 | 0.7 | /mnt/stockage/packages/f12/pychess/lang/he/LC_MESSAGES/pychess.po | 
- | [hi]({{< ref "/f12/language/hi.md" >}}) | 12 | 1671 | 0.7 | /mnt/stockage/packages/f12/pychess/lang/hi/LC_MESSAGES/pychess.po | 
- | [wa]({{< ref "/f12/language/wa.md" >}}) | 12 | 1671 | 0.7 | /mnt/stockage/packages/f12/pychess/lang/wa/LC_MESSAGES/pychess.po | 
- | [eu]({{< ref "/f12/language/eu.md" >}}) | 0 | 1671 | 0.0 | /mnt/stockage/packages/f12/pychess/lang/eu/LC_MESSAGES/pychess.po | 
- | [hr]({{< ref "/f12/language/hr.md" >}}) | 0 | 1671 | 0.0 | /mnt/stockage/packages/f12/pychess/lang/hr/LC_MESSAGES/pychess.po | 
+ | [da](/f12/language/da) | 1671 | 1671 | 100.0 | /mnt/stockage/packages/f12/pychess/lang/da/LC_MESSAGES/pychess.po | 
+ | [pt_BR](/f12/language/pt_BR) | 1698 | 1698 | 100.0 | /mnt/stockage/packages/f12/pychess/lang/pt_BR/LC_MESSAGES/pychess.po | 
+ | [sl](/f12/language/sl) | 2294 | 2303 | 99.6 | /mnt/stockage/packages/f12/pychess/lang/sl/LC_MESSAGES/pychess.po | 
+ | [pl](/f12/language/pl) | 1612 | 1671 | 96.5 | /mnt/stockage/packages/f12/pychess/lang/pl/LC_MESSAGES/pychess.po | 
+ | [hu](/f12/language/hu) | 1990 | 2233 | 89.1 | /mnt/stockage/packages/f12/pychess/lang/hu/LC_MESSAGES/pychess.po | 
+ | [et](/f12/language/et) | 1254 | 1671 | 75.0 | /mnt/stockage/packages/f12/pychess/lang/et/LC_MESSAGES/pychess.po | 
+ | [it](/f12/language/it) | 1213 | 1671 | 72.6 | /mnt/stockage/packages/f12/pychess/lang/it/LC_MESSAGES/pychess.po | 
+ | [ro](/f12/language/ro) | 1019 | 1671 | 61.0 | /mnt/stockage/packages/f12/pychess/lang/ro/LC_MESSAGES/pychess.po | 
+ | [es](/f12/language/es) | 978 | 1671 | 58.5 | /mnt/stockage/packages/f12/pychess/lang/es/LC_MESSAGES/pychess.po | 
+ | [de](/f12/language/de) | 842 | 1671 | 50.4 | /mnt/stockage/packages/f12/pychess/lang/de/LC_MESSAGES/pychess.po | 
+ | [nl](/f12/language/nl) | 780 | 1671 | 46.7 | /mnt/stockage/packages/f12/pychess/lang/nl/LC_MESSAGES/pychess.po | 
+ | [sv](/f12/language/sv) | 675 | 1671 | 40.4 | /mnt/stockage/packages/f12/pychess/lang/sv/LC_MESSAGES/pychess.po | 
+ | [fr](/f12/language/fr) | 542 | 1671 | 32.4 | /mnt/stockage/packages/f12/pychess/lang/fr/LC_MESSAGES/pychess.po | 
+ | [az](/f12/language/az) | 430 | 1671 | 25.7 | /mnt/stockage/packages/f12/pychess/lang/az/LC_MESSAGES/pychess.po | 
+ | [pt](/f12/language/pt) | 409 | 1671 | 24.5 | /mnt/stockage/packages/f12/pychess/lang/pt/LC_MESSAGES/pychess.po | 
+ | [ca](/f12/language/ca) | 399 | 1671 | 23.9 | /mnt/stockage/packages/f12/pychess/lang/ca/LC_MESSAGES/pychess.po | 
+ | [ru](/f12/language/ru) | 387 | 1671 | 23.2 | /mnt/stockage/packages/f12/pychess/lang/ru/LC_MESSAGES/pychess.po | 
+ | [tr](/f12/language/tr) | 371 | 1671 | 22.2 | /mnt/stockage/packages/f12/pychess/lang/tr/LC_MESSAGES/pychess.po | 
+ | [cs](/f12/language/cs) | 319 | 1671 | 19.1 | /mnt/stockage/packages/f12/pychess/lang/cs/LC_MESSAGES/pychess.po | 
+ | [el](/f12/language/el) | 61 | 1671 | 3.7 | /mnt/stockage/packages/f12/pychess/lang/el/LC_MESSAGES/pychess.po | 
+ | [gl](/f12/language/gl) | 38 | 1671 | 2.3 | /mnt/stockage/packages/f12/pychess/lang/gl/LC_MESSAGES/pychess.po | 
+ | [ja](/f12/language/ja) | 18 | 1671 | 1.1 | /mnt/stockage/packages/f12/pychess/lang/ja/LC_MESSAGES/pychess.po | 
+ | [bg](/f12/language/bg) | 17 | 1671 | 1.0 | /mnt/stockage/packages/f12/pychess/lang/bg/LC_MESSAGES/pychess.po | 
+ | [he](/f12/language/he) | 12 | 1671 | 0.7 | /mnt/stockage/packages/f12/pychess/lang/he/LC_MESSAGES/pychess.po | 
+ | [hi](/f12/language/hi) | 12 | 1671 | 0.7 | /mnt/stockage/packages/f12/pychess/lang/hi/LC_MESSAGES/pychess.po | 
+ | [wa](/f12/language/wa) | 12 | 1671 | 0.7 | /mnt/stockage/packages/f12/pychess/lang/wa/LC_MESSAGES/pychess.po | 
+ | [eu](/f12/language/eu) | 0 | 1671 | 0.0 | /mnt/stockage/packages/f12/pychess/lang/eu/LC_MESSAGES/pychess.po | 
+ | [hr](/f12/language/hr) | 0 | 1671 | 0.0 | /mnt/stockage/packages/f12/pychess/lang/hr/LC_MESSAGES/pychess.po | 
 {.sortable}
 
 

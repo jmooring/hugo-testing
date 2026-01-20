@@ -18,30 +18,30 @@ The package vakzination (version 23.01.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f38/language/ca.md" >}}) | 112 | 112 | 100.0 | /mnt/stockage/packages/f38/vakzination/po/ca/vakzination.po | 
- | [ca@valencia]({{< ref "/f38/language/ca@valencia.md" >}}) | 112 | 112 | 100.0 | /mnt/stockage/packages/f38/vakzination/po/ca@valencia/vakzination.po | 
- | [es]({{< ref "/f38/language/es.md" >}}) | 112 | 112 | 100.0 | /mnt/stockage/packages/f38/vakzination/po/es/vakzination.po | 
- | [eu]({{< ref "/f38/language/eu.md" >}}) | 112 | 112 | 100.0 | /mnt/stockage/packages/f38/vakzination/po/eu/vakzination.po | 
- | [fr]({{< ref "/f38/language/fr.md" >}}) | 112 | 112 | 100.0 | /mnt/stockage/packages/f38/vakzination/po/fr/vakzination.po | 
- | [it]({{< ref "/f38/language/it.md" >}}) | 112 | 112 | 100.0 | /mnt/stockage/packages/f38/vakzination/po/it/vakzination.po | 
- | [ka]({{< ref "/f38/language/ka.md" >}}) | 112 | 112 | 100.0 | /mnt/stockage/packages/f38/vakzination/po/ka/vakzination.po | 
- | [nl]({{< ref "/f38/language/nl.md" >}}) | 112 | 112 | 100.0 | /mnt/stockage/packages/f38/vakzination/po/nl/vakzination.po | 
- | [pt]({{< ref "/f38/language/pt.md" >}}) | 112 | 112 | 100.0 | /mnt/stockage/packages/f38/vakzination/po/pt/vakzination.po | 
- | [sl]({{< ref "/f38/language/sl.md" >}}) | 112 | 112 | 100.0 | /mnt/stockage/packages/f38/vakzination/po/sl/vakzination.po | 
- | [tr]({{< ref "/f38/language/tr.md" >}}) | 112 | 112 | 100.0 | /mnt/stockage/packages/f38/vakzination/po/tr/vakzination.po | 
- | [uk]({{< ref "/f38/language/uk.md" >}}) | 112 | 112 | 100.0 | /mnt/stockage/packages/f38/vakzination/po/uk/vakzination.po | 
- | [cs]({{< ref "/f38/language/cs.md" >}}) | 101 | 112 | 90.2 | /mnt/stockage/packages/f38/vakzination/po/cs/vakzination.po | 
- | [de]({{< ref "/f38/language/de.md" >}}) | 90 | 112 | 80.4 | /mnt/stockage/packages/f38/vakzination/po/de/vakzination.po | 
- | [en_GB]({{< ref "/f38/language/en_GB.md" >}}) | 90 | 112 | 80.4 | /mnt/stockage/packages/f38/vakzination/po/en_GB/vakzination.po | 
- | [ko]({{< ref "/f38/language/ko.md" >}}) | 90 | 112 | 80.4 | /mnt/stockage/packages/f38/vakzination/po/ko/vakzination.po | 
- | [pl]({{< ref "/f38/language/pl.md" >}}) | 90 | 112 | 80.4 | /mnt/stockage/packages/f38/vakzination/po/pl/vakzination.po | 
- | [pt_BR]({{< ref "/f38/language/pt_BR.md" >}}) | 90 | 112 | 80.4 | /mnt/stockage/packages/f38/vakzination/po/pt_BR/vakzination.po | 
- | [sv]({{< ref "/f38/language/sv.md" >}}) | 90 | 112 | 80.4 | /mnt/stockage/packages/f38/vakzination/po/sv/vakzination.po | 
- | [el]({{< ref "/f38/language/el.md" >}}) | 88 | 112 | 78.6 | /mnt/stockage/packages/f38/vakzination/po/el/vakzination.po | 
- | [hu]({{< ref "/f38/language/hu.md" >}}) | 88 | 112 | 78.6 | /mnt/stockage/packages/f38/vakzination/po/hu/vakzination.po | 
- | [zh_Hans]({{< ref "/f38/language/zh_Hans.md" >}}) | 88 | 112 | 78.6 | /mnt/stockage/packages/f38/vakzination/po/zh_CN/vakzination.po | 
- | [pa]({{< ref "/f38/language/pa.md" >}}) | 77 | 112 | 68.8 | /mnt/stockage/packages/f38/vakzination/po/pa/vakzination.po | 
- | [sk]({{< ref "/f38/language/sk.md" >}}) | 53 | 112 | 47.3 | /mnt/stockage/packages/f38/vakzination/po/sk/vakzination.po | 
+ | [ca](/f38/language/ca) | 112 | 112 | 100.0 | /mnt/stockage/packages/f38/vakzination/po/ca/vakzination.po | 
+ | [ca@valencia](/f38/language/ca@valencia) | 112 | 112 | 100.0 | /mnt/stockage/packages/f38/vakzination/po/ca@valencia/vakzination.po | 
+ | [es](/f38/language/es) | 112 | 112 | 100.0 | /mnt/stockage/packages/f38/vakzination/po/es/vakzination.po | 
+ | [eu](/f38/language/eu) | 112 | 112 | 100.0 | /mnt/stockage/packages/f38/vakzination/po/eu/vakzination.po | 
+ | [fr](/f38/language/fr) | 112 | 112 | 100.0 | /mnt/stockage/packages/f38/vakzination/po/fr/vakzination.po | 
+ | [it](/f38/language/it) | 112 | 112 | 100.0 | /mnt/stockage/packages/f38/vakzination/po/it/vakzination.po | 
+ | [ka](/f38/language/ka) | 112 | 112 | 100.0 | /mnt/stockage/packages/f38/vakzination/po/ka/vakzination.po | 
+ | [nl](/f38/language/nl) | 112 | 112 | 100.0 | /mnt/stockage/packages/f38/vakzination/po/nl/vakzination.po | 
+ | [pt](/f38/language/pt) | 112 | 112 | 100.0 | /mnt/stockage/packages/f38/vakzination/po/pt/vakzination.po | 
+ | [sl](/f38/language/sl) | 112 | 112 | 100.0 | /mnt/stockage/packages/f38/vakzination/po/sl/vakzination.po | 
+ | [tr](/f38/language/tr) | 112 | 112 | 100.0 | /mnt/stockage/packages/f38/vakzination/po/tr/vakzination.po | 
+ | [uk](/f38/language/uk) | 112 | 112 | 100.0 | /mnt/stockage/packages/f38/vakzination/po/uk/vakzination.po | 
+ | [cs](/f38/language/cs) | 101 | 112 | 90.2 | /mnt/stockage/packages/f38/vakzination/po/cs/vakzination.po | 
+ | [de](/f38/language/de) | 90 | 112 | 80.4 | /mnt/stockage/packages/f38/vakzination/po/de/vakzination.po | 
+ | [en_GB](/f38/language/en_GB) | 90 | 112 | 80.4 | /mnt/stockage/packages/f38/vakzination/po/en_GB/vakzination.po | 
+ | [ko](/f38/language/ko) | 90 | 112 | 80.4 | /mnt/stockage/packages/f38/vakzination/po/ko/vakzination.po | 
+ | [pl](/f38/language/pl) | 90 | 112 | 80.4 | /mnt/stockage/packages/f38/vakzination/po/pl/vakzination.po | 
+ | [pt_BR](/f38/language/pt_BR) | 90 | 112 | 80.4 | /mnt/stockage/packages/f38/vakzination/po/pt_BR/vakzination.po | 
+ | [sv](/f38/language/sv) | 90 | 112 | 80.4 | /mnt/stockage/packages/f38/vakzination/po/sv/vakzination.po | 
+ | [el](/f38/language/el) | 88 | 112 | 78.6 | /mnt/stockage/packages/f38/vakzination/po/el/vakzination.po | 
+ | [hu](/f38/language/hu) | 88 | 112 | 78.6 | /mnt/stockage/packages/f38/vakzination/po/hu/vakzination.po | 
+ | [zh_Hans](/f38/language/zh_Hans) | 88 | 112 | 78.6 | /mnt/stockage/packages/f38/vakzination/po/zh_CN/vakzination.po | 
+ | [pa](/f38/language/pa) | 77 | 112 | 68.8 | /mnt/stockage/packages/f38/vakzination/po/pa/vakzination.po | 
+ | [sk](/f38/language/sk) | 53 | 112 | 47.3 | /mnt/stockage/packages/f38/vakzination/po/sk/vakzination.po | 
 {.sortable}
 
 

@@ -18,51 +18,51 @@ The package tecla (version 47.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f41/language/ar.md" >}}) | 9 | 9 | 100.0 | /mnt/stockage/packages/f41/tecla/po/ar.po | 
- | [be]({{< ref "/f41/language/be.md" >}}) | 16 | 16 | 100.0 | /mnt/stockage/packages/f41/tecla/po/be.po | 
- | [bg]({{< ref "/f41/language/bg.md" >}}) | 16 | 16 | 100.0 | /mnt/stockage/packages/f41/tecla/po/bg.po | 
- | [cs]({{< ref "/f41/language/cs.md" >}}) | 16 | 16 | 100.0 | /mnt/stockage/packages/f41/tecla/po/cs.po | 
- | [da]({{< ref "/f41/language/da.md" >}}) | 16 | 16 | 100.0 | /mnt/stockage/packages/f41/tecla/po/da.po | 
- | [de]({{< ref "/f41/language/de.md" >}}) | 16 | 16 | 100.0 | /mnt/stockage/packages/f41/tecla/po/de.po | 
- | [el]({{< ref "/f41/language/el.md" >}}) | 16 | 16 | 100.0 | /mnt/stockage/packages/f41/tecla/po/el.po | 
- | [en_GB]({{< ref "/f41/language/en_GB.md" >}}) | 16 | 16 | 100.0 | /mnt/stockage/packages/f41/tecla/po/en_GB.po | 
- | [eo]({{< ref "/f41/language/eo.md" >}}) | 6 | 6 | 100.0 | /mnt/stockage/packages/f41/tecla/po/eo.po | 
- | [es]({{< ref "/f41/language/es.md" >}}) | 16 | 16 | 100.0 | /mnt/stockage/packages/f41/tecla/po/es.po | 
- | [eu]({{< ref "/f41/language/eu.md" >}}) | 16 | 16 | 100.0 | /mnt/stockage/packages/f41/tecla/po/eu.po | 
- | [fa]({{< ref "/f41/language/fa.md" >}}) | 16 | 16 | 100.0 | /mnt/stockage/packages/f41/tecla/po/fa.po | 
- | [fi]({{< ref "/f41/language/fi.md" >}}) | 9 | 9 | 100.0 | /mnt/stockage/packages/f41/tecla/po/fi.po | 
- | [fr]({{< ref "/f41/language/fr.md" >}}) | 16 | 16 | 100.0 | /mnt/stockage/packages/f41/tecla/po/fr.po | 
- | [fur]({{< ref "/f41/language/fur.md" >}}) | 9 | 9 | 100.0 | /mnt/stockage/packages/f41/tecla/po/fur.po | 
- | [gl]({{< ref "/f41/language/gl.md" >}}) | 16 | 16 | 100.0 | /mnt/stockage/packages/f41/tecla/po/gl.po | 
- | [he]({{< ref "/f41/language/he.md" >}}) | 16 | 16 | 100.0 | /mnt/stockage/packages/f41/tecla/po/he.po | 
- | [hi]({{< ref "/f41/language/hi.md" >}}) | 9 | 9 | 100.0 | /mnt/stockage/packages/f41/tecla/po/hi.po | 
- | [hu]({{< ref "/f41/language/hu.md" >}}) | 16 | 16 | 100.0 | /mnt/stockage/packages/f41/tecla/po/hu.po | 
- | [id]({{< ref "/f41/language/id.md" >}}) | 16 | 16 | 100.0 | /mnt/stockage/packages/f41/tecla/po/id.po | 
- | [ie]({{< ref "/f41/language/ie.md" >}}) | 9 | 9 | 100.0 | /mnt/stockage/packages/f41/tecla/po/ie.po | 
- | [it]({{< ref "/f41/language/it.md" >}}) | 6 | 6 | 100.0 | /mnt/stockage/packages/f41/tecla/po/it.po | 
- | [ka]({{< ref "/f41/language/ka.md" >}}) | 16 | 16 | 100.0 | /mnt/stockage/packages/f41/tecla/po/ka.po | 
- | [kab]({{< ref "/f41/language/kab.md" >}}) | 9 | 9 | 100.0 | /mnt/stockage/packages/f41/tecla/po/kab.po | 
- | [ko]({{< ref "/f41/language/ko.md" >}}) | 9 | 9 | 100.0 | /mnt/stockage/packages/f41/tecla/po/ko.po | 
- | [lt]({{< ref "/f41/language/lt.md" >}}) | 16 | 16 | 100.0 | /mnt/stockage/packages/f41/tecla/po/lt.po | 
- | [lv]({{< ref "/f41/language/lv.md" >}}) | 16 | 16 | 100.0 | /mnt/stockage/packages/f41/tecla/po/lv.po | 
- | [ne]({{< ref "/f41/language/ne.md" >}}) | 9 | 9 | 100.0 | /mnt/stockage/packages/f41/tecla/po/ne.po | 
- | [nl]({{< ref "/f41/language/nl.md" >}}) | 9 | 9 | 100.0 | /mnt/stockage/packages/f41/tecla/po/nl.po | 
- | [oc]({{< ref "/f41/language/oc.md" >}}) | 16 | 16 | 100.0 | /mnt/stockage/packages/f41/tecla/po/oc.po | 
- | [pa]({{< ref "/f41/language/pa.md" >}}) | 6 | 6 | 100.0 | /mnt/stockage/packages/f41/tecla/po/pa.po | 
- | [pl]({{< ref "/f41/language/pl.md" >}}) | 16 | 16 | 100.0 | /mnt/stockage/packages/f41/tecla/po/pl.po | 
- | [pt]({{< ref "/f41/language/pt.md" >}}) | 16 | 16 | 100.0 | /mnt/stockage/packages/f41/tecla/po/pt.po | 
- | [pt_BR]({{< ref "/f41/language/pt_BR.md" >}}) | 16 | 16 | 100.0 | /mnt/stockage/packages/f41/tecla/po/pt_BR.po | 
- | [ro]({{< ref "/f41/language/ro.md" >}}) | 9 | 9 | 100.0 | /mnt/stockage/packages/f41/tecla/po/ro.po | 
- | [ru]({{< ref "/f41/language/ru.md" >}}) | 16 | 16 | 100.0 | /mnt/stockage/packages/f41/tecla/po/ru.po | 
- | [sk]({{< ref "/f41/language/sk.md" >}}) | 9 | 9 | 100.0 | /mnt/stockage/packages/f41/tecla/po/sk.po | 
- | [sl]({{< ref "/f41/language/sl.md" >}}) | 16 | 16 | 100.0 | /mnt/stockage/packages/f41/tecla/po/sl.po | 
- | [sr]({{< ref "/f41/language/sr.md" >}}) | 18 | 18 | 100.0 | /mnt/stockage/packages/f41/tecla/po/sr@latin.po/mnt/stockage/packages/f41/tecla/po/sr.po | 
- | [sv]({{< ref "/f41/language/sv.md" >}}) | 16 | 16 | 100.0 | /mnt/stockage/packages/f41/tecla/po/sv.po | 
- | [tr]({{< ref "/f41/language/tr.md" >}}) | 16 | 16 | 100.0 | /mnt/stockage/packages/f41/tecla/po/tr.po | 
- | [uk]({{< ref "/f41/language/uk.md" >}}) | 16 | 16 | 100.0 | /mnt/stockage/packages/f41/tecla/po/uk.po | 
- | [zh_Hans]({{< ref "/f41/language/zh_Hans.md" >}}) | 16 | 16 | 100.0 | /mnt/stockage/packages/f41/tecla/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f41/language/zh_Hant.md" >}}) | 6 | 6 | 100.0 | /mnt/stockage/packages/f41/tecla/po/zh_TW.po | 
- | [ca]({{< ref "/f41/language/ca.md" >}}) | 14 | 16 | 87.5 | /mnt/stockage/packages/f41/tecla/po/ca.po | 
+ | [ar](/f41/language/ar) | 9 | 9 | 100.0 | /mnt/stockage/packages/f41/tecla/po/ar.po | 
+ | [be](/f41/language/be) | 16 | 16 | 100.0 | /mnt/stockage/packages/f41/tecla/po/be.po | 
+ | [bg](/f41/language/bg) | 16 | 16 | 100.0 | /mnt/stockage/packages/f41/tecla/po/bg.po | 
+ | [cs](/f41/language/cs) | 16 | 16 | 100.0 | /mnt/stockage/packages/f41/tecla/po/cs.po | 
+ | [da](/f41/language/da) | 16 | 16 | 100.0 | /mnt/stockage/packages/f41/tecla/po/da.po | 
+ | [de](/f41/language/de) | 16 | 16 | 100.0 | /mnt/stockage/packages/f41/tecla/po/de.po | 
+ | [el](/f41/language/el) | 16 | 16 | 100.0 | /mnt/stockage/packages/f41/tecla/po/el.po | 
+ | [en_GB](/f41/language/en_GB) | 16 | 16 | 100.0 | /mnt/stockage/packages/f41/tecla/po/en_GB.po | 
+ | [eo](/f41/language/eo) | 6 | 6 | 100.0 | /mnt/stockage/packages/f41/tecla/po/eo.po | 
+ | [es](/f41/language/es) | 16 | 16 | 100.0 | /mnt/stockage/packages/f41/tecla/po/es.po | 
+ | [eu](/f41/language/eu) | 16 | 16 | 100.0 | /mnt/stockage/packages/f41/tecla/po/eu.po | 
+ | [fa](/f41/language/fa) | 16 | 16 | 100.0 | /mnt/stockage/packages/f41/tecla/po/fa.po | 
+ | [fi](/f41/language/fi) | 9 | 9 | 100.0 | /mnt/stockage/packages/f41/tecla/po/fi.po | 
+ | [fr](/f41/language/fr) | 16 | 16 | 100.0 | /mnt/stockage/packages/f41/tecla/po/fr.po | 
+ | [fur](/f41/language/fur) | 9 | 9 | 100.0 | /mnt/stockage/packages/f41/tecla/po/fur.po | 
+ | [gl](/f41/language/gl) | 16 | 16 | 100.0 | /mnt/stockage/packages/f41/tecla/po/gl.po | 
+ | [he](/f41/language/he) | 16 | 16 | 100.0 | /mnt/stockage/packages/f41/tecla/po/he.po | 
+ | [hi](/f41/language/hi) | 9 | 9 | 100.0 | /mnt/stockage/packages/f41/tecla/po/hi.po | 
+ | [hu](/f41/language/hu) | 16 | 16 | 100.0 | /mnt/stockage/packages/f41/tecla/po/hu.po | 
+ | [id](/f41/language/id) | 16 | 16 | 100.0 | /mnt/stockage/packages/f41/tecla/po/id.po | 
+ | [ie](/f41/language/ie) | 9 | 9 | 100.0 | /mnt/stockage/packages/f41/tecla/po/ie.po | 
+ | [it](/f41/language/it) | 6 | 6 | 100.0 | /mnt/stockage/packages/f41/tecla/po/it.po | 
+ | [ka](/f41/language/ka) | 16 | 16 | 100.0 | /mnt/stockage/packages/f41/tecla/po/ka.po | 
+ | [kab](/f41/language/kab) | 9 | 9 | 100.0 | /mnt/stockage/packages/f41/tecla/po/kab.po | 
+ | [ko](/f41/language/ko) | 9 | 9 | 100.0 | /mnt/stockage/packages/f41/tecla/po/ko.po | 
+ | [lt](/f41/language/lt) | 16 | 16 | 100.0 | /mnt/stockage/packages/f41/tecla/po/lt.po | 
+ | [lv](/f41/language/lv) | 16 | 16 | 100.0 | /mnt/stockage/packages/f41/tecla/po/lv.po | 
+ | [ne](/f41/language/ne) | 9 | 9 | 100.0 | /mnt/stockage/packages/f41/tecla/po/ne.po | 
+ | [nl](/f41/language/nl) | 9 | 9 | 100.0 | /mnt/stockage/packages/f41/tecla/po/nl.po | 
+ | [oc](/f41/language/oc) | 16 | 16 | 100.0 | /mnt/stockage/packages/f41/tecla/po/oc.po | 
+ | [pa](/f41/language/pa) | 6 | 6 | 100.0 | /mnt/stockage/packages/f41/tecla/po/pa.po | 
+ | [pl](/f41/language/pl) | 16 | 16 | 100.0 | /mnt/stockage/packages/f41/tecla/po/pl.po | 
+ | [pt](/f41/language/pt) | 16 | 16 | 100.0 | /mnt/stockage/packages/f41/tecla/po/pt.po | 
+ | [pt_BR](/f41/language/pt_BR) | 16 | 16 | 100.0 | /mnt/stockage/packages/f41/tecla/po/pt_BR.po | 
+ | [ro](/f41/language/ro) | 9 | 9 | 100.0 | /mnt/stockage/packages/f41/tecla/po/ro.po | 
+ | [ru](/f41/language/ru) | 16 | 16 | 100.0 | /mnt/stockage/packages/f41/tecla/po/ru.po | 
+ | [sk](/f41/language/sk) | 9 | 9 | 100.0 | /mnt/stockage/packages/f41/tecla/po/sk.po | 
+ | [sl](/f41/language/sl) | 16 | 16 | 100.0 | /mnt/stockage/packages/f41/tecla/po/sl.po | 
+ | [sr](/f41/language/sr) | 18 | 18 | 100.0 | /mnt/stockage/packages/f41/tecla/po/sr@latin.po/mnt/stockage/packages/f41/tecla/po/sr.po | 
+ | [sv](/f41/language/sv) | 16 | 16 | 100.0 | /mnt/stockage/packages/f41/tecla/po/sv.po | 
+ | [tr](/f41/language/tr) | 16 | 16 | 100.0 | /mnt/stockage/packages/f41/tecla/po/tr.po | 
+ | [uk](/f41/language/uk) | 16 | 16 | 100.0 | /mnt/stockage/packages/f41/tecla/po/uk.po | 
+ | [zh_Hans](/f41/language/zh_Hans) | 16 | 16 | 100.0 | /mnt/stockage/packages/f41/tecla/po/zh_CN.po | 
+ | [zh_Hant](/f41/language/zh_Hant) | 6 | 6 | 100.0 | /mnt/stockage/packages/f41/tecla/po/zh_TW.po | 
+ | [ca](/f41/language/ca) | 14 | 16 | 87.5 | /mnt/stockage/packages/f41/tecla/po/ca.po | 
 {.sortable}
 
 

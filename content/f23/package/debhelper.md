@@ -18,10 +18,10 @@ The package debhelper (version 9.20150628):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [pt]({{< ref "/f23/language/pt.md" >}}) | 14294 | 14633 | 97.7 | /mnt/stockage/packages/f23/debhelper/man/po4a/po/pt.po | 
- | [de]({{< ref "/f23/language/de.md" >}}) | 13700 | 14633 | 93.6 | /mnt/stockage/packages/f23/debhelper/man/po4a/po/de.po | 
- | [fr]({{< ref "/f23/language/fr.md" >}}) | 13288 | 14633 | 90.8 | /mnt/stockage/packages/f23/debhelper/man/po4a/po/fr.po | 
- | [es]({{< ref "/f23/language/es.md" >}}) | 12985 | 14633 | 88.7 | /mnt/stockage/packages/f23/debhelper/man/po4a/po/es.po | 
+ | [pt](/f23/language/pt) | 14294 | 14633 | 97.7 | /mnt/stockage/packages/f23/debhelper/man/po4a/po/pt.po | 
+ | [de](/f23/language/de) | 13700 | 14633 | 93.6 | /mnt/stockage/packages/f23/debhelper/man/po4a/po/de.po | 
+ | [fr](/f23/language/fr) | 13288 | 14633 | 90.8 | /mnt/stockage/packages/f23/debhelper/man/po4a/po/fr.po | 
+ | [es](/f23/language/es) | 12985 | 14633 | 88.7 | /mnt/stockage/packages/f23/debhelper/man/po4a/po/es.po | 
 {.sortable}
 
 

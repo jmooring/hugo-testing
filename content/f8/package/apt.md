@@ -18,12 +18,12 @@ The package apt (version 0.5.15lorg3.93):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ru]({{< ref "/f8/language/ru.md" >}}) | 3476 | 4114 | 84.5 | /mnt/stockage/packages/f8/apt/po/ru.po | 
- | [ja]({{< ref "/f8/language/ja.md" >}}) | 3446 | 4114 | 83.8 | /mnt/stockage/packages/f8/apt/po/ja.po | 
- | [pt_BR]({{< ref "/f8/language/pt_BR.md" >}}) | 2901 | 4114 | 70.5 | /mnt/stockage/packages/f8/apt/po/pt_BR.po | 
- | [de]({{< ref "/f8/language/de.md" >}}) | 2255 | 4114 | 54.8 | /mnt/stockage/packages/f8/apt/po/de_DE.po | 
- | [es]({{< ref "/f8/language/es.md" >}}) | 534 | 4114 | 13.0 | /mnt/stockage/packages/f8/apt/po/es_ES.po | 
- | [it]({{< ref "/f8/language/it.md" >}}) | 534 | 4114 | 13.0 | /mnt/stockage/packages/f8/apt/po/it_IT.po | 
+ | [ru](/f8/language/ru) | 3476 | 4114 | 84.5 | /mnt/stockage/packages/f8/apt/po/ru.po | 
+ | [ja](/f8/language/ja) | 3446 | 4114 | 83.8 | /mnt/stockage/packages/f8/apt/po/ja.po | 
+ | [pt_BR](/f8/language/pt_BR) | 2901 | 4114 | 70.5 | /mnt/stockage/packages/f8/apt/po/pt_BR.po | 
+ | [de](/f8/language/de) | 2255 | 4114 | 54.8 | /mnt/stockage/packages/f8/apt/po/de_DE.po | 
+ | [es](/f8/language/es) | 534 | 4114 | 13.0 | /mnt/stockage/packages/f8/apt/po/es_ES.po | 
+ | [it](/f8/language/it) | 534 | 4114 | 13.0 | /mnt/stockage/packages/f8/apt/po/it_IT.po | 
 {.sortable}
 
 

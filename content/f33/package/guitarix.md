@@ -18,11 +18,11 @@ The package guitarix (version 0.42.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ru]({{< ref "/f33/language/ru.md" >}}) | 2871 | 2871 | 100.0 | /mnt/stockage/packages/f33/guitarix/po/ru.po | 
- | [fr]({{< ref "/f33/language/fr.md" >}}) | 2947 | 2957 | 99.7 | /mnt/stockage/packages/f33/guitarix/po/fr.po | 
- | [it]({{< ref "/f33/language/it.md" >}}) | 743 | 2084 | 35.7 | /mnt/stockage/packages/f33/guitarix/po/it.po | 
- | [es]({{< ref "/f33/language/es.md" >}}) | 742 | 2084 | 35.6 | /mnt/stockage/packages/f33/guitarix/po/es.po | 
- | [sk]({{< ref "/f33/language/sk.md" >}}) | 905 | 2871 | 31.5 | /mnt/stockage/packages/f33/guitarix/po/sk.po | 
+ | [ru](/f33/language/ru) | 2871 | 2871 | 100.0 | /mnt/stockage/packages/f33/guitarix/po/ru.po | 
+ | [fr](/f33/language/fr) | 2947 | 2957 | 99.7 | /mnt/stockage/packages/f33/guitarix/po/fr.po | 
+ | [it](/f33/language/it) | 743 | 2084 | 35.7 | /mnt/stockage/packages/f33/guitarix/po/it.po | 
+ | [es](/f33/language/es) | 742 | 2084 | 35.6 | /mnt/stockage/packages/f33/guitarix/po/es.po | 
+ | [sk](/f33/language/sk) | 905 | 2871 | 31.5 | /mnt/stockage/packages/f33/guitarix/po/sk.po | 
 {.sortable}
 
 

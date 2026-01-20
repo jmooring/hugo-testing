@@ -18,43 +18,43 @@ The package mingw-libcharset (version 1.16):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [bg]({{< ref "/f36/language/bg.md" >}}) | 303 | 336 | 90.2 | /mnt/stockage/packages/f36/mingw-libcharset/po/bg.po | 
- | [cs]({{< ref "/f36/language/cs.md" >}}) | 303 | 336 | 90.2 | /mnt/stockage/packages/f36/mingw-libcharset/po/cs.po | 
- | [da]({{< ref "/f36/language/da.md" >}}) | 303 | 336 | 90.2 | /mnt/stockage/packages/f36/mingw-libcharset/po/da.po | 
- | [de]({{< ref "/f36/language/de.md" >}}) | 303 | 336 | 90.2 | /mnt/stockage/packages/f36/mingw-libcharset/po/de.po | 
- | [eo]({{< ref "/f36/language/eo.md" >}}) | 303 | 336 | 90.2 | /mnt/stockage/packages/f36/mingw-libcharset/po/eo.po | 
- | [et]({{< ref "/f36/language/et.md" >}}) | 303 | 336 | 90.2 | /mnt/stockage/packages/f36/mingw-libcharset/po/et.po | 
- | [fr]({{< ref "/f36/language/fr.md" >}}) | 303 | 336 | 90.2 | /mnt/stockage/packages/f36/mingw-libcharset/po/fr.po | 
- | [ga]({{< ref "/f36/language/ga.md" >}}) | 303 | 336 | 90.2 | /mnt/stockage/packages/f36/mingw-libcharset/po/ga.po | 
- | [hu]({{< ref "/f36/language/hu.md" >}}) | 303 | 336 | 90.2 | /mnt/stockage/packages/f36/mingw-libcharset/po/hu.po | 
- | [it]({{< ref "/f36/language/it.md" >}}) | 303 | 336 | 90.2 | /mnt/stockage/packages/f36/mingw-libcharset/po/it.po | 
- | [ja]({{< ref "/f36/language/ja.md" >}}) | 303 | 336 | 90.2 | /mnt/stockage/packages/f36/mingw-libcharset/po/ja.po | 
- | [nl]({{< ref "/f36/language/nl.md" >}}) | 303 | 336 | 90.2 | /mnt/stockage/packages/f36/mingw-libcharset/po/nl.po | 
- | [pl]({{< ref "/f36/language/pl.md" >}}) | 303 | 336 | 90.2 | /mnt/stockage/packages/f36/mingw-libcharset/po/pl.po | 
- | [pt_BR]({{< ref "/f36/language/pt_BR.md" >}}) | 303 | 336 | 90.2 | /mnt/stockage/packages/f36/mingw-libcharset/po/pt_BR.po | 
- | [ru]({{< ref "/f36/language/ru.md" >}}) | 303 | 336 | 90.2 | /mnt/stockage/packages/f36/mingw-libcharset/po/ru.po | 
- | [sk]({{< ref "/f36/language/sk.md" >}}) | 303 | 336 | 90.2 | /mnt/stockage/packages/f36/mingw-libcharset/po/sk.po | 
- | [sr]({{< ref "/f36/language/sr.md" >}}) | 303 | 336 | 90.2 | /mnt/stockage/packages/f36/mingw-libcharset/po/sr.po | 
- | [sv]({{< ref "/f36/language/sv.md" >}}) | 303 | 336 | 90.2 | /mnt/stockage/packages/f36/mingw-libcharset/po/sv.po | 
- | [uk]({{< ref "/f36/language/uk.md" >}}) | 303 | 336 | 90.2 | /mnt/stockage/packages/f36/mingw-libcharset/po/uk.po | 
- | [vi]({{< ref "/f36/language/vi.md" >}}) | 303 | 336 | 90.2 | /mnt/stockage/packages/f36/mingw-libcharset/po/vi.po | 
- | [zh_Hans]({{< ref "/f36/language/zh_Hans.md" >}}) | 303 | 336 | 90.2 | /mnt/stockage/packages/f36/mingw-libcharset/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f36/language/zh_Hant.md" >}}) | 303 | 336 | 90.2 | /mnt/stockage/packages/f36/mingw-libcharset/po/zh_TW.po | 
- | [es]({{< ref "/f36/language/es.md" >}}) | 297 | 336 | 88.4 | /mnt/stockage/packages/f36/mingw-libcharset/po/es.po | 
- | [fi]({{< ref "/f36/language/fi.md" >}}) | 297 | 336 | 88.4 | /mnt/stockage/packages/f36/mingw-libcharset/po/fi.po | 
- | [gl]({{< ref "/f36/language/gl.md" >}}) | 297 | 336 | 88.4 | /mnt/stockage/packages/f36/mingw-libcharset/po/gl.po | 
- | [hr]({{< ref "/f36/language/hr.md" >}}) | 297 | 336 | 88.4 | /mnt/stockage/packages/f36/mingw-libcharset/po/hr.po | 
- | [id]({{< ref "/f36/language/id.md" >}}) | 297 | 336 | 88.4 | /mnt/stockage/packages/f36/mingw-libcharset/po/id.po | 
- | [sl]({{< ref "/f36/language/sl.md" >}}) | 297 | 336 | 88.4 | /mnt/stockage/packages/f36/mingw-libcharset/po/sl.po | 
- | [wa]({{< ref "/f36/language/wa.md" >}}) | 297 | 336 | 88.4 | /mnt/stockage/packages/f36/mingw-libcharset/po/wa.po | 
- | [lt]({{< ref "/f36/language/lt.md" >}}) | 153 | 336 | 45.5 | /mnt/stockage/packages/f36/mingw-libcharset/po/lt.po | 
- | [af]({{< ref "/f36/language/af.md" >}}) | 15 | 336 | 4.5 | /mnt/stockage/packages/f36/mingw-libcharset/po/af.po | 
- | [ca]({{< ref "/f36/language/ca.md" >}}) | 15 | 336 | 4.5 | /mnt/stockage/packages/f36/mingw-libcharset/po/ca.po | 
- | [el]({{< ref "/f36/language/el.md" >}}) | 15 | 336 | 4.5 | /mnt/stockage/packages/f36/mingw-libcharset/po/el.po | 
- | [rm]({{< ref "/f36/language/rm.md" >}}) | 15 | 336 | 4.5 | /mnt/stockage/packages/f36/mingw-libcharset/po/rm.po | 
- | [ro]({{< ref "/f36/language/ro.md" >}}) | 15 | 336 | 4.5 | /mnt/stockage/packages/f36/mingw-libcharset/po/ro.po | 
- | [sq]({{< ref "/f36/language/sq.md" >}}) | 15 | 336 | 4.5 | /mnt/stockage/packages/f36/mingw-libcharset/po/sq.po | 
- | [tr]({{< ref "/f36/language/tr.md" >}}) | 15 | 336 | 4.5 | /mnt/stockage/packages/f36/mingw-libcharset/po/tr.po | 
+ | [bg](/f36/language/bg) | 303 | 336 | 90.2 | /mnt/stockage/packages/f36/mingw-libcharset/po/bg.po | 
+ | [cs](/f36/language/cs) | 303 | 336 | 90.2 | /mnt/stockage/packages/f36/mingw-libcharset/po/cs.po | 
+ | [da](/f36/language/da) | 303 | 336 | 90.2 | /mnt/stockage/packages/f36/mingw-libcharset/po/da.po | 
+ | [de](/f36/language/de) | 303 | 336 | 90.2 | /mnt/stockage/packages/f36/mingw-libcharset/po/de.po | 
+ | [eo](/f36/language/eo) | 303 | 336 | 90.2 | /mnt/stockage/packages/f36/mingw-libcharset/po/eo.po | 
+ | [et](/f36/language/et) | 303 | 336 | 90.2 | /mnt/stockage/packages/f36/mingw-libcharset/po/et.po | 
+ | [fr](/f36/language/fr) | 303 | 336 | 90.2 | /mnt/stockage/packages/f36/mingw-libcharset/po/fr.po | 
+ | [ga](/f36/language/ga) | 303 | 336 | 90.2 | /mnt/stockage/packages/f36/mingw-libcharset/po/ga.po | 
+ | [hu](/f36/language/hu) | 303 | 336 | 90.2 | /mnt/stockage/packages/f36/mingw-libcharset/po/hu.po | 
+ | [it](/f36/language/it) | 303 | 336 | 90.2 | /mnt/stockage/packages/f36/mingw-libcharset/po/it.po | 
+ | [ja](/f36/language/ja) | 303 | 336 | 90.2 | /mnt/stockage/packages/f36/mingw-libcharset/po/ja.po | 
+ | [nl](/f36/language/nl) | 303 | 336 | 90.2 | /mnt/stockage/packages/f36/mingw-libcharset/po/nl.po | 
+ | [pl](/f36/language/pl) | 303 | 336 | 90.2 | /mnt/stockage/packages/f36/mingw-libcharset/po/pl.po | 
+ | [pt_BR](/f36/language/pt_BR) | 303 | 336 | 90.2 | /mnt/stockage/packages/f36/mingw-libcharset/po/pt_BR.po | 
+ | [ru](/f36/language/ru) | 303 | 336 | 90.2 | /mnt/stockage/packages/f36/mingw-libcharset/po/ru.po | 
+ | [sk](/f36/language/sk) | 303 | 336 | 90.2 | /mnt/stockage/packages/f36/mingw-libcharset/po/sk.po | 
+ | [sr](/f36/language/sr) | 303 | 336 | 90.2 | /mnt/stockage/packages/f36/mingw-libcharset/po/sr.po | 
+ | [sv](/f36/language/sv) | 303 | 336 | 90.2 | /mnt/stockage/packages/f36/mingw-libcharset/po/sv.po | 
+ | [uk](/f36/language/uk) | 303 | 336 | 90.2 | /mnt/stockage/packages/f36/mingw-libcharset/po/uk.po | 
+ | [vi](/f36/language/vi) | 303 | 336 | 90.2 | /mnt/stockage/packages/f36/mingw-libcharset/po/vi.po | 
+ | [zh_Hans](/f36/language/zh_Hans) | 303 | 336 | 90.2 | /mnt/stockage/packages/f36/mingw-libcharset/po/zh_CN.po | 
+ | [zh_Hant](/f36/language/zh_Hant) | 303 | 336 | 90.2 | /mnt/stockage/packages/f36/mingw-libcharset/po/zh_TW.po | 
+ | [es](/f36/language/es) | 297 | 336 | 88.4 | /mnt/stockage/packages/f36/mingw-libcharset/po/es.po | 
+ | [fi](/f36/language/fi) | 297 | 336 | 88.4 | /mnt/stockage/packages/f36/mingw-libcharset/po/fi.po | 
+ | [gl](/f36/language/gl) | 297 | 336 | 88.4 | /mnt/stockage/packages/f36/mingw-libcharset/po/gl.po | 
+ | [hr](/f36/language/hr) | 297 | 336 | 88.4 | /mnt/stockage/packages/f36/mingw-libcharset/po/hr.po | 
+ | [id](/f36/language/id) | 297 | 336 | 88.4 | /mnt/stockage/packages/f36/mingw-libcharset/po/id.po | 
+ | [sl](/f36/language/sl) | 297 | 336 | 88.4 | /mnt/stockage/packages/f36/mingw-libcharset/po/sl.po | 
+ | [wa](/f36/language/wa) | 297 | 336 | 88.4 | /mnt/stockage/packages/f36/mingw-libcharset/po/wa.po | 
+ | [lt](/f36/language/lt) | 153 | 336 | 45.5 | /mnt/stockage/packages/f36/mingw-libcharset/po/lt.po | 
+ | [af](/f36/language/af) | 15 | 336 | 4.5 | /mnt/stockage/packages/f36/mingw-libcharset/po/af.po | 
+ | [ca](/f36/language/ca) | 15 | 336 | 4.5 | /mnt/stockage/packages/f36/mingw-libcharset/po/ca.po | 
+ | [el](/f36/language/el) | 15 | 336 | 4.5 | /mnt/stockage/packages/f36/mingw-libcharset/po/el.po | 
+ | [rm](/f36/language/rm) | 15 | 336 | 4.5 | /mnt/stockage/packages/f36/mingw-libcharset/po/rm.po | 
+ | [ro](/f36/language/ro) | 15 | 336 | 4.5 | /mnt/stockage/packages/f36/mingw-libcharset/po/ro.po | 
+ | [sq](/f36/language/sq) | 15 | 336 | 4.5 | /mnt/stockage/packages/f36/mingw-libcharset/po/sq.po | 
+ | [tr](/f36/language/tr) | 15 | 336 | 4.5 | /mnt/stockage/packages/f36/mingw-libcharset/po/tr.po | 
 {.sortable}
 
 

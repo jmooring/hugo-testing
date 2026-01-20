@@ -38,36 +38,36 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [mate-icon-theme]({{< ref "/f29/package/mate-icon-theme.md" >}}) | 4 | 4 | 100.0 | Piemontese (https://www.transifex.com/mate/teams/13566/pms/) | 
- | [mate-user-guide]({{< ref "/f29/package/mate-user-guide.md" >}}) | 5 | 5 | 100.0 | Piemontese (https://www.transifex.com/mate/teams/13566/pms/) | 
- | [python-caja]({{< ref "/f29/package/python-caja.md" >}}) | 6 | 6 | 100.0 | Piemontese (https://www.transifex.com/mate/teams/13566/pms/) | 
- | [eom]({{< ref "/f29/package/eom.md" >}}) | 153 | 1780 | 8.6 | Piemontese (https://www.transifex.com/mate/teams/13566/pms/) | 
- | [mate-media]({{< ref "/f29/package/mate-media.md" >}}) | 17 | 238 | 7.1 | Piemontese (https://www.transifex.com/mate/teams/13566/pms/) | 
- | [mozo]({{< ref "/f29/package/mozo.md" >}}) | 2 | 42 | 4.8 | Piemontese (https://www.transifex.com/mate/teams/13566/pms/) | 
- | [mate-calc]({{< ref "/f29/package/mate-calc.md" >}}) | 136 | 3178 | 4.3 | Piemontese (https://www.transifex.com/mate/teams/13566/pms/) | 
- | [mate-menu]({{< ref "/f29/package/mate-menu.md" >}}) | 12 | 316 | 3.8 | Piemontese (http://www.transifex.com/mate/MATE/language/pms/) | 
- | [atril]({{< ref "/f29/package/atril.md" >}}) | 59 | 1803 | 3.3 | Piemontese (https://www.transifex.com/mate/teams/13566/pms/) | 
- | [mate-sensors-applet]({{< ref "/f29/package/mate-sensors-applet.md" >}}) | 8 | 321 | 2.5 | Piemontese (https://www.transifex.com/mate/teams/13566/pms/) | 
- | [pluma]({{< ref "/f29/package/pluma.md" >}}) | 98 | 5292 | 1.9 | Piemontese (https://www.transifex.com/mate/teams/13566/pms/) | 
- | [libmatemixer]({{< ref "/f29/package/libmatemixer.md" >}}) | 3 | 242 | 1.2 | Piemontese (https://www.transifex.com/mate/teams/13566/pms/) | 
- | [mate-session-manager]({{< ref "/f29/package/mate-session-manager.md" >}}) | 8 | 691 | 1.2 | Piemontese (https://www.transifex.com/mate/teams/13566/pms/) | 
- | [mate-system-monitor]({{< ref "/f29/package/mate-system-monitor.md" >}}) | 16 | 1468 | 1.1 | Piemontese (https://www.transifex.com/mate/teams/13566/pms/) | 
- | [mate-utils]({{< ref "/f29/package/mate-utils.md" >}}) | 40 | 3783 | 1.1 | Piemontese (https://www.transifex.com/mate/teams/13566/pms/) | 
- | [mate-menus]({{< ref "/f29/package/mate-menus.md" >}}) | 1 | 97 | 1.0 | Piemontese (https://www.transifex.com/mate/teams/13566/pms/) | 
- | [caja-extensions]({{< ref "/f29/package/caja-extensions.md" >}}) | 5 | 584 | 0.9 | Piemontese (https://www.transifex.com/mate/teams/13566/pms/) | 
- | [mate-control-center]({{< ref "/f29/package/mate-control-center.md" >}}) | 22 | 2704 | 0.8 | Piemontese (https://www.transifex.com/mate/teams/13566/pms/) | 
- | [engrampa]({{< ref "/f29/package/engrampa.md" >}}) | 16 | 2015 | 0.8 | Piemontese (https://www.transifex.com/mate/teams/13566/pms/) | 
- | [caja]({{< ref "/f29/package/caja.md" >}}) | 61 | 9520 | 0.6 | Piemontese (https://www.transifex.com/mate/teams/13566/pms/) | 
- | [mate-applets]({{< ref "/f29/package/mate-applets.md" >}}) | 18 | 3424 | 0.5 | Piemontese (https://www.transifex.com/mate/teams/13566/pms/) | 
- | [mate-terminal]({{< ref "/f29/package/mate-terminal.md" >}}) | 23 | 4625 | 0.5 | Piemontese (https://www.transifex.com/mate/teams/13566/pms/) | 
- | [mate-settings-daemon]({{< ref "/f29/package/mate-settings-daemon.md" >}}) | 8 | 1840 | 0.4 | Piemontese (https://www.transifex.com/mate/teams/13566/pms/) | 
- | [mate-panel]({{< ref "/f29/package/mate-panel.md" >}}) | 23 | 5442 | 0.4 | Piemontese (https://www.transifex.com/mate/teams/13566/pms/) | 
- | [mate-power-manager]({{< ref "/f29/package/mate-power-manager.md" >}}) | 5 | 2724 | 0.2 | Piemontese (http://www.transifex.com/mate/MATE/language/pms/) | 
- | [onboard]({{< ref "/f29/package/onboard.md" >}}) | 1 | 2318 | 0.0 | Piemontese <pms@li.org> | 
- | [deluge]({{< ref "/f29/package/deluge.md" >}}) | 0 | 2644 | 0.0 | Piemontese <pms@li.org> | 
- | [mate-themes]({{< ref "/f29/package/mate-themes.md" >}}) | 0 | 60 | 0.0 | Piemontese (http://www.transifex.com/mate/MATE/language/pms/) | 
- | [sugar]({{< ref "/f29/package/sugar.md" >}}) | 0 | 2305 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-toolkit-gtk3]({{< ref "/f29/package/sugar-toolkit-gtk3.md" >}}) | 0 | 159 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [mate-icon-theme](/f29/package/mate-icon-theme) | 4 | 4 | 100.0 | Piemontese (https://www.transifex.com/mate/teams/13566/pms/) | 
+ | [mate-user-guide](/f29/package/mate-user-guide) | 5 | 5 | 100.0 | Piemontese (https://www.transifex.com/mate/teams/13566/pms/) | 
+ | [python-caja](/f29/package/python-caja) | 6 | 6 | 100.0 | Piemontese (https://www.transifex.com/mate/teams/13566/pms/) | 
+ | [eom](/f29/package/eom) | 153 | 1780 | 8.6 | Piemontese (https://www.transifex.com/mate/teams/13566/pms/) | 
+ | [mate-media](/f29/package/mate-media) | 17 | 238 | 7.1 | Piemontese (https://www.transifex.com/mate/teams/13566/pms/) | 
+ | [mozo](/f29/package/mozo) | 2 | 42 | 4.8 | Piemontese (https://www.transifex.com/mate/teams/13566/pms/) | 
+ | [mate-calc](/f29/package/mate-calc) | 136 | 3178 | 4.3 | Piemontese (https://www.transifex.com/mate/teams/13566/pms/) | 
+ | [mate-menu](/f29/package/mate-menu) | 12 | 316 | 3.8 | Piemontese (http://www.transifex.com/mate/MATE/language/pms/) | 
+ | [atril](/f29/package/atril) | 59 | 1803 | 3.3 | Piemontese (https://www.transifex.com/mate/teams/13566/pms/) | 
+ | [mate-sensors-applet](/f29/package/mate-sensors-applet) | 8 | 321 | 2.5 | Piemontese (https://www.transifex.com/mate/teams/13566/pms/) | 
+ | [pluma](/f29/package/pluma) | 98 | 5292 | 1.9 | Piemontese (https://www.transifex.com/mate/teams/13566/pms/) | 
+ | [libmatemixer](/f29/package/libmatemixer) | 3 | 242 | 1.2 | Piemontese (https://www.transifex.com/mate/teams/13566/pms/) | 
+ | [mate-session-manager](/f29/package/mate-session-manager) | 8 | 691 | 1.2 | Piemontese (https://www.transifex.com/mate/teams/13566/pms/) | 
+ | [mate-system-monitor](/f29/package/mate-system-monitor) | 16 | 1468 | 1.1 | Piemontese (https://www.transifex.com/mate/teams/13566/pms/) | 
+ | [mate-utils](/f29/package/mate-utils) | 40 | 3783 | 1.1 | Piemontese (https://www.transifex.com/mate/teams/13566/pms/) | 
+ | [mate-menus](/f29/package/mate-menus) | 1 | 97 | 1.0 | Piemontese (https://www.transifex.com/mate/teams/13566/pms/) | 
+ | [caja-extensions](/f29/package/caja-extensions) | 5 | 584 | 0.9 | Piemontese (https://www.transifex.com/mate/teams/13566/pms/) | 
+ | [mate-control-center](/f29/package/mate-control-center) | 22 | 2704 | 0.8 | Piemontese (https://www.transifex.com/mate/teams/13566/pms/) | 
+ | [engrampa](/f29/package/engrampa) | 16 | 2015 | 0.8 | Piemontese (https://www.transifex.com/mate/teams/13566/pms/) | 
+ | [caja](/f29/package/caja) | 61 | 9520 | 0.6 | Piemontese (https://www.transifex.com/mate/teams/13566/pms/) | 
+ | [mate-applets](/f29/package/mate-applets) | 18 | 3424 | 0.5 | Piemontese (https://www.transifex.com/mate/teams/13566/pms/) | 
+ | [mate-terminal](/f29/package/mate-terminal) | 23 | 4625 | 0.5 | Piemontese (https://www.transifex.com/mate/teams/13566/pms/) | 
+ | [mate-settings-daemon](/f29/package/mate-settings-daemon) | 8 | 1840 | 0.4 | Piemontese (https://www.transifex.com/mate/teams/13566/pms/) | 
+ | [mate-panel](/f29/package/mate-panel) | 23 | 5442 | 0.4 | Piemontese (https://www.transifex.com/mate/teams/13566/pms/) | 
+ | [mate-power-manager](/f29/package/mate-power-manager) | 5 | 2724 | 0.2 | Piemontese (http://www.transifex.com/mate/MATE/language/pms/) | 
+ | [onboard](/f29/package/onboard) | 1 | 2318 | 0.0 | Piemontese <pms@li.org> | 
+ | [deluge](/f29/package/deluge) | 0 | 2644 | 0.0 | Piemontese <pms@li.org> | 
+ | [mate-themes](/f29/package/mate-themes) | 0 | 60 | 0.0 | Piemontese (http://www.transifex.com/mate/MATE/language/pms/) | 
+ | [sugar](/f29/package/sugar) | 0 | 2305 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-toolkit-gtk3](/f29/package/sugar-toolkit-gtk3) | 0 | 159 | 0.0 | LANGUAGE <LL@li.org> | 
 {.sortable}
 
 

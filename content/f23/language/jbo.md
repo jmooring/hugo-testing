@@ -38,8 +38,8 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [supertux]({{< ref "/f23/package/supertux.md" >}}) | 229 | 2980 | 7.7 | Lojban (http://www.transifex.com/arctic-games/supertux/language/jbo/) | 
- | [gtg]({{< ref "/f23/package/gtg.md" >}}) | 2 | 3497 | 0.1 | Lojban <jbo@li.org> | 
+ | [supertux](/f23/package/supertux) | 229 | 2980 | 7.7 | Lojban (http://www.transifex.com/arctic-games/supertux/language/jbo/) | 
+ | [gtg](/f23/package/gtg) | 2 | 3497 | 0.1 | Lojban <jbo@li.org> | 
 {.sortable}
 
 

@@ -18,36 +18,36 @@ The package kerry (version 0.2.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [da]({{< ref "/f12/language/da.md" >}}) | 702 | 702 | 100.0 | /mnt/stockage/packages/f12/kerry/po/da/kcmbeagle.po/mnt/stockage/packages/f12/kerry/po/da/kerry.po | 
- | [de]({{< ref "/f12/language/de.md" >}}) | 702 | 702 | 100.0 | /mnt/stockage/packages/f12/kerry/po/de/kcmbeagle.po/mnt/stockage/packages/f12/kerry/po/de/kerry.po | 
- | [es]({{< ref "/f12/language/es.md" >}}) | 702 | 702 | 100.0 | /mnt/stockage/packages/f12/kerry/po/es/kcmbeagle.po/mnt/stockage/packages/f12/kerry/po/es/kerry.po | 
- | [ja]({{< ref "/f12/language/ja.md" >}}) | 702 | 702 | 100.0 | /mnt/stockage/packages/f12/kerry/po/ja/kcmbeagle.po/mnt/stockage/packages/f12/kerry/po/ja/kerry.po | 
- | [nl]({{< ref "/f12/language/nl.md" >}}) | 702 | 702 | 100.0 | /mnt/stockage/packages/f12/kerry/po/nl/kcmbeagle.po/mnt/stockage/packages/f12/kerry/po/nl/kerry.po | 
- | [pt]({{< ref "/f12/language/pt.md" >}}) | 702 | 702 | 100.0 | /mnt/stockage/packages/f12/kerry/po/pt/kcmbeagle.po/mnt/stockage/packages/f12/kerry/po/pt/kerry.po | 
- | [sv]({{< ref "/f12/language/sv.md" >}}) | 486 | 486 | 100.0 | /mnt/stockage/packages/f12/kerry/po/sv/kerry.po | 
- | [uk]({{< ref "/f12/language/uk.md" >}}) | 702 | 702 | 100.0 | /mnt/stockage/packages/f12/kerry/po/uk/kcmbeagle.po/mnt/stockage/packages/f12/kerry/po/uk/kerry.po | 
- | [fi]({{< ref "/f12/language/fi.md" >}}) | 698 | 702 | 99.4 | /mnt/stockage/packages/f12/kerry/po/fi/kcmbeagle.po/mnt/stockage/packages/f12/kerry/po/fi/kerry.po | 
- | [th]({{< ref "/f12/language/th.md" >}}) | 482 | 486 | 99.2 | /mnt/stockage/packages/f12/kerry/po/th/kerry.po | 
- | [cs]({{< ref "/f12/language/cs.md" >}}) | 471 | 486 | 96.9 | /mnt/stockage/packages/f12/kerry/po/cs/kerry.po | 
- | [tr]({{< ref "/f12/language/tr.md" >}}) | 644 | 702 | 91.7 | /mnt/stockage/packages/f12/kerry/po/tr/kcmbeagle.po/mnt/stockage/packages/f12/kerry/po/tr/kerry.po | 
- | [nn]({{< ref "/f12/language/nn.md" >}}) | 384 | 486 | 79.0 | /mnt/stockage/packages/f12/kerry/po/nn/kerry.po | 
- | [gl]({{< ref "/f12/language/gl.md" >}}) | 382 | 486 | 78.6 | /mnt/stockage/packages/f12/kerry/po/gl/kerry.po | 
- | [ka]({{< ref "/f12/language/ka.md" >}}) | 373 | 486 | 76.7 | /mnt/stockage/packages/f12/kerry/po/ka/kerry.po | 
- | [ca]({{< ref "/f12/language/ca.md" >}}) | 535 | 702 | 76.2 | /mnt/stockage/packages/f12/kerry/po/ca/kcmbeagle.po/mnt/stockage/packages/f12/kerry/po/ca/kerry.po | 
- | [it]({{< ref "/f12/language/it.md" >}}) | 334 | 486 | 68.7 | /mnt/stockage/packages/f12/kerry/po/it/kerry.po | 
- | [pl]({{< ref "/f12/language/pl.md" >}}) | 334 | 486 | 68.7 | /mnt/stockage/packages/f12/kerry/po/pl/kerry.po | 
- | [zh_Hans]({{< ref "/f12/language/zh_Hans.md" >}}) | 334 | 486 | 68.7 | /mnt/stockage/packages/f12/kerry/po/zh_CN/kerry.po | 
- | [pt_BR]({{< ref "/f12/language/pt_BR.md" >}}) | 330 | 486 | 67.9 | /mnt/stockage/packages/f12/kerry/po/pt_BR/kerry.po | 
- | [nb_NO]({{< ref "/f12/language/nb_NO.md" >}}) | 327 | 486 | 67.3 | /mnt/stockage/packages/f12/kerry/po/nb/kerry.po | 
- | [ga]({{< ref "/f12/language/ga.md" >}}) | 468 | 702 | 66.7 | /mnt/stockage/packages/f12/kerry/po/ga/kcmbeagle.po/mnt/stockage/packages/f12/kerry/po/ga/kerry.po | 
- | [fr]({{< ref "/f12/language/fr.md" >}}) | 323 | 486 | 66.5 | /mnt/stockage/packages/f12/kerry/po/fr/kerry.po | 
- | [hu]({{< ref "/f12/language/hu.md" >}}) | 323 | 486 | 66.5 | /mnt/stockage/packages/f12/kerry/po/hu/kerry.po | 
- | [zh_Hant]({{< ref "/f12/language/zh_Hant.md" >}}) | 323 | 486 | 66.5 | /mnt/stockage/packages/f12/kerry/po/zh_TW/kerry.po | 
- | [km]({{< ref "/f12/language/km.md" >}}) | 265 | 486 | 54.5 | /mnt/stockage/packages/f12/kerry/po/km/kerry.po | 
- | [ar]({{< ref "/f12/language/ar.md" >}}) | 272 | 702 | 38.7 | /mnt/stockage/packages/f12/kerry/po/ar/kcmbeagle.po/mnt/stockage/packages/f12/kerry/po/ar/kerry.po | 
- | [br]({{< ref "/f12/language/br.md" >}}) | 166 | 702 | 23.6 | /mnt/stockage/packages/f12/kerry/po/br/kcmbeagle.po/mnt/stockage/packages/f12/kerry/po/br/kerry.po | 
- | [el]({{< ref "/f12/language/el.md" >}}) | 49 | 702 | 7.0 | /mnt/stockage/packages/f12/kerry/po/el/kcmbeagle.po/mnt/stockage/packages/f12/kerry/po/el/kerry.po | 
- | [sk]({{< ref "/f12/language/sk.md" >}}) | 0 | 702 | 0.0 | /mnt/stockage/packages/f12/kerry/po/sk/kcmbeagle.po/mnt/stockage/packages/f12/kerry/po/sk/kerry.po | 
+ | [da](/f12/language/da) | 702 | 702 | 100.0 | /mnt/stockage/packages/f12/kerry/po/da/kcmbeagle.po/mnt/stockage/packages/f12/kerry/po/da/kerry.po | 
+ | [de](/f12/language/de) | 702 | 702 | 100.0 | /mnt/stockage/packages/f12/kerry/po/de/kcmbeagle.po/mnt/stockage/packages/f12/kerry/po/de/kerry.po | 
+ | [es](/f12/language/es) | 702 | 702 | 100.0 | /mnt/stockage/packages/f12/kerry/po/es/kcmbeagle.po/mnt/stockage/packages/f12/kerry/po/es/kerry.po | 
+ | [ja](/f12/language/ja) | 702 | 702 | 100.0 | /mnt/stockage/packages/f12/kerry/po/ja/kcmbeagle.po/mnt/stockage/packages/f12/kerry/po/ja/kerry.po | 
+ | [nl](/f12/language/nl) | 702 | 702 | 100.0 | /mnt/stockage/packages/f12/kerry/po/nl/kcmbeagle.po/mnt/stockage/packages/f12/kerry/po/nl/kerry.po | 
+ | [pt](/f12/language/pt) | 702 | 702 | 100.0 | /mnt/stockage/packages/f12/kerry/po/pt/kcmbeagle.po/mnt/stockage/packages/f12/kerry/po/pt/kerry.po | 
+ | [sv](/f12/language/sv) | 486 | 486 | 100.0 | /mnt/stockage/packages/f12/kerry/po/sv/kerry.po | 
+ | [uk](/f12/language/uk) | 702 | 702 | 100.0 | /mnt/stockage/packages/f12/kerry/po/uk/kcmbeagle.po/mnt/stockage/packages/f12/kerry/po/uk/kerry.po | 
+ | [fi](/f12/language/fi) | 698 | 702 | 99.4 | /mnt/stockage/packages/f12/kerry/po/fi/kcmbeagle.po/mnt/stockage/packages/f12/kerry/po/fi/kerry.po | 
+ | [th](/f12/language/th) | 482 | 486 | 99.2 | /mnt/stockage/packages/f12/kerry/po/th/kerry.po | 
+ | [cs](/f12/language/cs) | 471 | 486 | 96.9 | /mnt/stockage/packages/f12/kerry/po/cs/kerry.po | 
+ | [tr](/f12/language/tr) | 644 | 702 | 91.7 | /mnt/stockage/packages/f12/kerry/po/tr/kcmbeagle.po/mnt/stockage/packages/f12/kerry/po/tr/kerry.po | 
+ | [nn](/f12/language/nn) | 384 | 486 | 79.0 | /mnt/stockage/packages/f12/kerry/po/nn/kerry.po | 
+ | [gl](/f12/language/gl) | 382 | 486 | 78.6 | /mnt/stockage/packages/f12/kerry/po/gl/kerry.po | 
+ | [ka](/f12/language/ka) | 373 | 486 | 76.7 | /mnt/stockage/packages/f12/kerry/po/ka/kerry.po | 
+ | [ca](/f12/language/ca) | 535 | 702 | 76.2 | /mnt/stockage/packages/f12/kerry/po/ca/kcmbeagle.po/mnt/stockage/packages/f12/kerry/po/ca/kerry.po | 
+ | [it](/f12/language/it) | 334 | 486 | 68.7 | /mnt/stockage/packages/f12/kerry/po/it/kerry.po | 
+ | [pl](/f12/language/pl) | 334 | 486 | 68.7 | /mnt/stockage/packages/f12/kerry/po/pl/kerry.po | 
+ | [zh_Hans](/f12/language/zh_Hans) | 334 | 486 | 68.7 | /mnt/stockage/packages/f12/kerry/po/zh_CN/kerry.po | 
+ | [pt_BR](/f12/language/pt_BR) | 330 | 486 | 67.9 | /mnt/stockage/packages/f12/kerry/po/pt_BR/kerry.po | 
+ | [nb_NO](/f12/language/nb_NO) | 327 | 486 | 67.3 | /mnt/stockage/packages/f12/kerry/po/nb/kerry.po | 
+ | [ga](/f12/language/ga) | 468 | 702 | 66.7 | /mnt/stockage/packages/f12/kerry/po/ga/kcmbeagle.po/mnt/stockage/packages/f12/kerry/po/ga/kerry.po | 
+ | [fr](/f12/language/fr) | 323 | 486 | 66.5 | /mnt/stockage/packages/f12/kerry/po/fr/kerry.po | 
+ | [hu](/f12/language/hu) | 323 | 486 | 66.5 | /mnt/stockage/packages/f12/kerry/po/hu/kerry.po | 
+ | [zh_Hant](/f12/language/zh_Hant) | 323 | 486 | 66.5 | /mnt/stockage/packages/f12/kerry/po/zh_TW/kerry.po | 
+ | [km](/f12/language/km) | 265 | 486 | 54.5 | /mnt/stockage/packages/f12/kerry/po/km/kerry.po | 
+ | [ar](/f12/language/ar) | 272 | 702 | 38.7 | /mnt/stockage/packages/f12/kerry/po/ar/kcmbeagle.po/mnt/stockage/packages/f12/kerry/po/ar/kerry.po | 
+ | [br](/f12/language/br) | 166 | 702 | 23.6 | /mnt/stockage/packages/f12/kerry/po/br/kcmbeagle.po/mnt/stockage/packages/f12/kerry/po/br/kerry.po | 
+ | [el](/f12/language/el) | 49 | 702 | 7.0 | /mnt/stockage/packages/f12/kerry/po/el/kcmbeagle.po/mnt/stockage/packages/f12/kerry/po/el/kerry.po | 
+ | [sk](/f12/language/sk) | 0 | 702 | 0.0 | /mnt/stockage/packages/f12/kerry/po/sk/kcmbeagle.po/mnt/stockage/packages/f12/kerry/po/sk/kerry.po | 
 {.sortable}
 
 

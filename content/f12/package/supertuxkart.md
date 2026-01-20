@@ -18,21 +18,21 @@ The package supertuxkart (version 0.6.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f12/language/de.md" >}}) | 928 | 928 | 100.0 | /mnt/stockage/packages/f12/supertuxkart/data/po/de.po | 
- | [fi]({{< ref "/f12/language/fi.md" >}}) | 928 | 928 | 100.0 | /mnt/stockage/packages/f12/supertuxkart/data/po/fi.po | 
- | [gl]({{< ref "/f12/language/gl.md" >}}) | 928 | 928 | 100.0 | /mnt/stockage/packages/f12/supertuxkart/data/po/gl.po | 
- | [nl]({{< ref "/f12/language/nl.md" >}}) | 928 | 928 | 100.0 | /mnt/stockage/packages/f12/supertuxkart/data/po/nl.po | 
- | [pt_BR]({{< ref "/f12/language/pt_BR.md" >}}) | 928 | 928 | 100.0 | /mnt/stockage/packages/f12/supertuxkart/data/po/pt_BR.po | 
- | [sv]({{< ref "/f12/language/sv.md" >}}) | 928 | 928 | 100.0 | /mnt/stockage/packages/f12/supertuxkart/data/po/sv.po | 
- | [fr]({{< ref "/f12/language/fr.md" >}}) | 927 | 928 | 99.9 | /mnt/stockage/packages/f12/supertuxkart/data/po/fr.po | 
- | [cs]({{< ref "/f12/language/cs.md" >}}) | 804 | 807 | 99.6 | /mnt/stockage/packages/f12/supertuxkart/data/po/cs.po | 
- | [es]({{< ref "/f12/language/es.md" >}}) | 924 | 928 | 99.6 | /mnt/stockage/packages/f12/supertuxkart/data/po/es.po | 
- | [pl]({{< ref "/f12/language/pl.md" >}}) | 924 | 928 | 99.6 | /mnt/stockage/packages/f12/supertuxkart/data/po/pl.po | 
- | [sl]({{< ref "/f12/language/sl.md" >}}) | 820 | 824 | 99.5 | /mnt/stockage/packages/f12/supertuxkart/data/po/sl.po | 
- | [it]({{< ref "/f12/language/it.md" >}}) | 821 | 856 | 95.9 | /mnt/stockage/packages/f12/supertuxkart/data/po/it.po | 
- | [ga]({{< ref "/f12/language/ga.md" >}}) | 718 | 928 | 77.4 | /mnt/stockage/packages/f12/supertuxkart/data/po/ga.po | 
- | [ro]({{< ref "/f12/language/ro.md" >}}) | 663 | 907 | 73.1 | /mnt/stockage/packages/f12/supertuxkart/data/po/ro.po | 
- | [fr_CA]({{< ref "/f12/language/fr_CA.md" >}}) | 41 | 928 | 4.4 | /mnt/stockage/packages/f12/supertuxkart/data/po/fr_CA.po | 
+ | [de](/f12/language/de) | 928 | 928 | 100.0 | /mnt/stockage/packages/f12/supertuxkart/data/po/de.po | 
+ | [fi](/f12/language/fi) | 928 | 928 | 100.0 | /mnt/stockage/packages/f12/supertuxkart/data/po/fi.po | 
+ | [gl](/f12/language/gl) | 928 | 928 | 100.0 | /mnt/stockage/packages/f12/supertuxkart/data/po/gl.po | 
+ | [nl](/f12/language/nl) | 928 | 928 | 100.0 | /mnt/stockage/packages/f12/supertuxkart/data/po/nl.po | 
+ | [pt_BR](/f12/language/pt_BR) | 928 | 928 | 100.0 | /mnt/stockage/packages/f12/supertuxkart/data/po/pt_BR.po | 
+ | [sv](/f12/language/sv) | 928 | 928 | 100.0 | /mnt/stockage/packages/f12/supertuxkart/data/po/sv.po | 
+ | [fr](/f12/language/fr) | 927 | 928 | 99.9 | /mnt/stockage/packages/f12/supertuxkart/data/po/fr.po | 
+ | [cs](/f12/language/cs) | 804 | 807 | 99.6 | /mnt/stockage/packages/f12/supertuxkart/data/po/cs.po | 
+ | [es](/f12/language/es) | 924 | 928 | 99.6 | /mnt/stockage/packages/f12/supertuxkart/data/po/es.po | 
+ | [pl](/f12/language/pl) | 924 | 928 | 99.6 | /mnt/stockage/packages/f12/supertuxkart/data/po/pl.po | 
+ | [sl](/f12/language/sl) | 820 | 824 | 99.5 | /mnt/stockage/packages/f12/supertuxkart/data/po/sl.po | 
+ | [it](/f12/language/it) | 821 | 856 | 95.9 | /mnt/stockage/packages/f12/supertuxkart/data/po/it.po | 
+ | [ga](/f12/language/ga) | 718 | 928 | 77.4 | /mnt/stockage/packages/f12/supertuxkart/data/po/ga.po | 
+ | [ro](/f12/language/ro) | 663 | 907 | 73.1 | /mnt/stockage/packages/f12/supertuxkart/data/po/ro.po | 
+ | [fr_CA](/f12/language/fr_CA) | 41 | 928 | 4.4 | /mnt/stockage/packages/f12/supertuxkart/data/po/fr_CA.po | 
 {.sortable}
 
 

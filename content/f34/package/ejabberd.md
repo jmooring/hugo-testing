@@ -18,33 +18,33 @@ The package ejabberd (version 20.07):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f34/language/ca.md" >}}) | 2193 | 2193 | 100.0 | /mnt/stockage/packages/f34/ejabberd/priv/msgs/ca.po | 
- | [es]({{< ref "/f34/language/es.md" >}}) | 2193 | 2193 | 100.0 | /mnt/stockage/packages/f34/ejabberd/priv/msgs/es.po | 
- | [hu]({{< ref "/f34/language/hu.md" >}}) | 2185 | 2185 | 100.0 | /mnt/stockage/packages/f34/ejabberd/priv/msgs/hu.po | 
- | [ru]({{< ref "/f34/language/ru.md" >}}) | 2144 | 2185 | 98.1 | /mnt/stockage/packages/f34/ejabberd/priv/msgs/ru.po | 
- | [cs]({{< ref "/f34/language/cs.md" >}}) | 1873 | 2185 | 85.7 | /mnt/stockage/packages/f34/ejabberd/priv/msgs/cs.po | 
- | [de]({{< ref "/f34/language/de.md" >}}) | 1873 | 2185 | 85.7 | /mnt/stockage/packages/f34/ejabberd/priv/msgs/de.po | 
- | [gl]({{< ref "/f34/language/gl.md" >}}) | 1873 | 2185 | 85.7 | /mnt/stockage/packages/f34/ejabberd/priv/msgs/gl.po | 
- | [zh_Hans]({{< ref "/f34/language/zh_Hans.md" >}}) | 1869 | 2185 | 85.5 | /mnt/stockage/packages/f34/ejabberd/priv/msgs/zh.po | 
- | [pl]({{< ref "/f34/language/pl.md" >}}) | 1865 | 2185 | 85.4 | /mnt/stockage/packages/f34/ejabberd/priv/msgs/pl.po | 
- | [fr]({{< ref "/f34/language/fr.md" >}}) | 1861 | 2185 | 85.2 | /mnt/stockage/packages/f34/ejabberd/priv/msgs/fr.po | 
- | [el]({{< ref "/f34/language/el.md" >}}) | 1855 | 2185 | 84.9 | /mnt/stockage/packages/f34/ejabberd/priv/msgs/el.po | 
- | [pt_BR]({{< ref "/f34/language/pt_BR.md" >}}) | 1807 | 2185 | 82.7 | /mnt/stockage/packages/f34/ejabberd/priv/msgs/pt-br.po | 
- | [he]({{< ref "/f34/language/he.md" >}}) | 1627 | 2185 | 74.5 | /mnt/stockage/packages/f34/ejabberd/priv/msgs/he.po | 
- | [uk]({{< ref "/f34/language/uk.md" >}}) | 1424 | 2185 | 65.2 | /mnt/stockage/packages/f34/ejabberd/priv/msgs/uk.po | 
- | [wa]({{< ref "/f34/language/wa.md" >}}) | 1424 | 2185 | 65.2 | /mnt/stockage/packages/f34/ejabberd/priv/msgs/wa.po | 
- | [ja]({{< ref "/f34/language/ja.md" >}}) | 1422 | 2185 | 65.1 | /mnt/stockage/packages/f34/ejabberd/priv/msgs/ja.po | 
- | [eo]({{< ref "/f34/language/eo.md" >}}) | 1386 | 2185 | 63.4 | /mnt/stockage/packages/f34/ejabberd/priv/msgs/eo.po | 
- | [nl]({{< ref "/f34/language/nl.md" >}}) | 1386 | 2185 | 63.4 | /mnt/stockage/packages/f34/ejabberd/priv/msgs/nl.po | 
- | [it]({{< ref "/f34/language/it.md" >}}) | 1333 | 2185 | 61.0 | /mnt/stockage/packages/f34/ejabberd/priv/msgs/it.po | 
- | [nb_NO]({{< ref "/f34/language/nb_NO.md" >}}) | 1333 | 2185 | 61.0 | /mnt/stockage/packages/f34/ejabberd/priv/msgs/no.po | 
- | [sk]({{< ref "/f34/language/sk.md" >}}) | 1332 | 2185 | 61.0 | /mnt/stockage/packages/f34/ejabberd/priv/msgs/sk.po | 
- | [tr]({{< ref "/f34/language/tr.md" >}}) | 1332 | 2185 | 61.0 | /mnt/stockage/packages/f34/ejabberd/priv/msgs/tr.po | 
- | [id]({{< ref "/f34/language/id.md" >}}) | 1280 | 2185 | 58.6 | /mnt/stockage/packages/f34/ejabberd/priv/msgs/id.po | 
- | [sv]({{< ref "/f34/language/sv.md" >}}) | 973 | 2185 | 44.5 | /mnt/stockage/packages/f34/ejabberd/priv/msgs/sv.po | 
- | [vi]({{< ref "/f34/language/vi.md" >}}) | 753 | 2185 | 34.5 | /mnt/stockage/packages/f34/ejabberd/priv/msgs/vi.po | 
- | [th]({{< ref "/f34/language/th.md" >}}) | 745 | 2185 | 34.1 | /mnt/stockage/packages/f34/ejabberd/priv/msgs/th.po | 
- | [pt]({{< ref "/f34/language/pt.md" >}}) | 323 | 2185 | 14.8 | /mnt/stockage/packages/f34/ejabberd/priv/msgs/pt.po | 
+ | [ca](/f34/language/ca) | 2193 | 2193 | 100.0 | /mnt/stockage/packages/f34/ejabberd/priv/msgs/ca.po | 
+ | [es](/f34/language/es) | 2193 | 2193 | 100.0 | /mnt/stockage/packages/f34/ejabberd/priv/msgs/es.po | 
+ | [hu](/f34/language/hu) | 2185 | 2185 | 100.0 | /mnt/stockage/packages/f34/ejabberd/priv/msgs/hu.po | 
+ | [ru](/f34/language/ru) | 2144 | 2185 | 98.1 | /mnt/stockage/packages/f34/ejabberd/priv/msgs/ru.po | 
+ | [cs](/f34/language/cs) | 1873 | 2185 | 85.7 | /mnt/stockage/packages/f34/ejabberd/priv/msgs/cs.po | 
+ | [de](/f34/language/de) | 1873 | 2185 | 85.7 | /mnt/stockage/packages/f34/ejabberd/priv/msgs/de.po | 
+ | [gl](/f34/language/gl) | 1873 | 2185 | 85.7 | /mnt/stockage/packages/f34/ejabberd/priv/msgs/gl.po | 
+ | [zh_Hans](/f34/language/zh_Hans) | 1869 | 2185 | 85.5 | /mnt/stockage/packages/f34/ejabberd/priv/msgs/zh.po | 
+ | [pl](/f34/language/pl) | 1865 | 2185 | 85.4 | /mnt/stockage/packages/f34/ejabberd/priv/msgs/pl.po | 
+ | [fr](/f34/language/fr) | 1861 | 2185 | 85.2 | /mnt/stockage/packages/f34/ejabberd/priv/msgs/fr.po | 
+ | [el](/f34/language/el) | 1855 | 2185 | 84.9 | /mnt/stockage/packages/f34/ejabberd/priv/msgs/el.po | 
+ | [pt_BR](/f34/language/pt_BR) | 1807 | 2185 | 82.7 | /mnt/stockage/packages/f34/ejabberd/priv/msgs/pt-br.po | 
+ | [he](/f34/language/he) | 1627 | 2185 | 74.5 | /mnt/stockage/packages/f34/ejabberd/priv/msgs/he.po | 
+ | [uk](/f34/language/uk) | 1424 | 2185 | 65.2 | /mnt/stockage/packages/f34/ejabberd/priv/msgs/uk.po | 
+ | [wa](/f34/language/wa) | 1424 | 2185 | 65.2 | /mnt/stockage/packages/f34/ejabberd/priv/msgs/wa.po | 
+ | [ja](/f34/language/ja) | 1422 | 2185 | 65.1 | /mnt/stockage/packages/f34/ejabberd/priv/msgs/ja.po | 
+ | [eo](/f34/language/eo) | 1386 | 2185 | 63.4 | /mnt/stockage/packages/f34/ejabberd/priv/msgs/eo.po | 
+ | [nl](/f34/language/nl) | 1386 | 2185 | 63.4 | /mnt/stockage/packages/f34/ejabberd/priv/msgs/nl.po | 
+ | [it](/f34/language/it) | 1333 | 2185 | 61.0 | /mnt/stockage/packages/f34/ejabberd/priv/msgs/it.po | 
+ | [nb_NO](/f34/language/nb_NO) | 1333 | 2185 | 61.0 | /mnt/stockage/packages/f34/ejabberd/priv/msgs/no.po | 
+ | [sk](/f34/language/sk) | 1332 | 2185 | 61.0 | /mnt/stockage/packages/f34/ejabberd/priv/msgs/sk.po | 
+ | [tr](/f34/language/tr) | 1332 | 2185 | 61.0 | /mnt/stockage/packages/f34/ejabberd/priv/msgs/tr.po | 
+ | [id](/f34/language/id) | 1280 | 2185 | 58.6 | /mnt/stockage/packages/f34/ejabberd/priv/msgs/id.po | 
+ | [sv](/f34/language/sv) | 973 | 2185 | 44.5 | /mnt/stockage/packages/f34/ejabberd/priv/msgs/sv.po | 
+ | [vi](/f34/language/vi) | 753 | 2185 | 34.5 | /mnt/stockage/packages/f34/ejabberd/priv/msgs/vi.po | 
+ | [th](/f34/language/th) | 745 | 2185 | 34.1 | /mnt/stockage/packages/f34/ejabberd/priv/msgs/th.po | 
+ | [pt](/f34/language/pt) | 323 | 2185 | 14.8 | /mnt/stockage/packages/f34/ejabberd/priv/msgs/pt.po | 
 {.sortable}
 
 

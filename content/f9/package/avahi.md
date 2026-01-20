@@ -18,7 +18,7 @@ The package avahi (version 0.6.22):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f9/language/de.md" >}}) | 189 | 663 | 28.5 | /mnt/stockage/packages/f9/avahi/po/de.po | 
+ | [de](/f9/language/de) | 189 | 663 | 28.5 | /mnt/stockage/packages/f9/avahi/po/de.po | 
 {.sortable}
 
 

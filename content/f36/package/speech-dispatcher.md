@@ -18,15 +18,15 @@ The package speech-dispatcher (version 0.11.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [eo]({{< ref "/f36/language/eo.md" >}}) | 1427 | 1427 | 100.0 | /mnt/stockage/packages/f36/speech-dispatcher/po/eo.po | 
- | [fr]({{< ref "/f36/language/fr.md" >}}) | 1427 | 1427 | 100.0 | /mnt/stockage/packages/f36/speech-dispatcher/po/fr.po | 
- | [hu]({{< ref "/f36/language/hu.md" >}}) | 1427 | 1427 | 100.0 | /mnt/stockage/packages/f36/speech-dispatcher/po/hu.po | 
- | [pt]({{< ref "/f36/language/pt.md" >}}) | 1427 | 1427 | 100.0 | /mnt/stockage/packages/f36/speech-dispatcher/po/pt.po | 
- | [pt_BR]({{< ref "/f36/language/pt_BR.md" >}}) | 1427 | 1427 | 100.0 | /mnt/stockage/packages/f36/speech-dispatcher/po/pt_BR.po | 
- | [de]({{< ref "/f36/language/de.md" >}}) | 1364 | 1427 | 95.6 | /mnt/stockage/packages/f36/speech-dispatcher/po/de.po | 
- | [nb_NO]({{< ref "/f36/language/nb_NO.md" >}}) | 817 | 1427 | 57.3 | /mnt/stockage/packages/f36/speech-dispatcher/po/nb_NO.po | 
- | [cs]({{< ref "/f36/language/cs.md" >}}) | 285 | 1427 | 20.0 | /mnt/stockage/packages/f36/speech-dispatcher/po/cs.po | 
- | [ru]({{< ref "/f36/language/ru.md" >}}) | 17 | 1427 | 1.2 | /mnt/stockage/packages/f36/speech-dispatcher/po/ru.po | 
+ | [eo](/f36/language/eo) | 1427 | 1427 | 100.0 | /mnt/stockage/packages/f36/speech-dispatcher/po/eo.po | 
+ | [fr](/f36/language/fr) | 1427 | 1427 | 100.0 | /mnt/stockage/packages/f36/speech-dispatcher/po/fr.po | 
+ | [hu](/f36/language/hu) | 1427 | 1427 | 100.0 | /mnt/stockage/packages/f36/speech-dispatcher/po/hu.po | 
+ | [pt](/f36/language/pt) | 1427 | 1427 | 100.0 | /mnt/stockage/packages/f36/speech-dispatcher/po/pt.po | 
+ | [pt_BR](/f36/language/pt_BR) | 1427 | 1427 | 100.0 | /mnt/stockage/packages/f36/speech-dispatcher/po/pt_BR.po | 
+ | [de](/f36/language/de) | 1364 | 1427 | 95.6 | /mnt/stockage/packages/f36/speech-dispatcher/po/de.po | 
+ | [nb_NO](/f36/language/nb_NO) | 817 | 1427 | 57.3 | /mnt/stockage/packages/f36/speech-dispatcher/po/nb_NO.po | 
+ | [cs](/f36/language/cs) | 285 | 1427 | 20.0 | /mnt/stockage/packages/f36/speech-dispatcher/po/cs.po | 
+ | [ru](/f36/language/ru) | 17 | 1427 | 1.2 | /mnt/stockage/packages/f36/speech-dispatcher/po/ru.po | 
 {.sortable}
 
 

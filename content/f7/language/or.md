@@ -38,135 +38,135 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [alacarte]({{< ref "/f7/package/alacarte.md" >}}) | 74 | 74 | 100.0 | Oriya <oriya-group@lists.sarovar.org> | 
- | [at-spi]({{< ref "/f7/package/at-spi.md" >}}) | 4 | 4 | 100.0 | Oriya <oriya-group@lists.sarovar.org> | 
- | [atk]({{< ref "/f7/package/atk.md" >}}) | 370 | 370 | 100.0 | Oriya <oriya-group@lists.sarovar.org> | 
- | [authconfig]({{< ref "/f7/package/authconfig.md" >}}) | 1098 | 1098 | 100.0 | Oriya <oriya-group@lists.sarovar.org> | 
- | [chkconfig]({{< ref "/f7/package/chkconfig.md" >}}) | 430 | 430 | 100.0 | Oriya <oriya-group@lists.sarovar.org> | 
- | [compiz]({{< ref "/f7/package/compiz.md" >}}) | 66 | 66 | 100.0 | Oriya <oriya-group@lists.sarovar.org> | 
- | [dasher]({{< ref "/f7/package/dasher.md" >}}) | 311 | 311 | 100.0 | Oriya <oriya-group@lists.sarovar.org> | 
- | [eel2]({{< ref "/f7/package/eel2.md" >}}) | 235 | 235 | 100.0 | Oriya <oriya-group@lists.sarovar.org> | 
- | [eog]({{< ref "/f7/package/eog.md" >}}) | 706 | 706 | 100.0 | Oriya <oriya-group@lists.sarovar.org> | 
- | [evolution-webcal]({{< ref "/f7/package/evolution-webcal.md" >}}) | 180 | 180 | 100.0 | Oriya <oriya-group@lists.sarovar.org> | 
- | [file-roller]({{< ref "/f7/package/file-roller.md" >}}) | 952 | 952 | 100.0 | Oriya <oriya-group@lists.sarovar.org> | 
- | [firstboot]({{< ref "/f7/package/firstboot.md" >}}) | 598 | 598 | 100.0 | Oriya <oriya-group@lists.sarovar.org> | 
- | [gail]({{< ref "/f7/package/gail.md" >}}) | 170 | 170 | 100.0 | Oriya <oriya-group@lists.sarovar.org> | 
- | [gconf-editor]({{< ref "/f7/package/gconf-editor.md" >}}) | 332 | 332 | 100.0 | Oriya <oriya-group@lists.sarovar.org> | 
- | [gedit-plugins]({{< ref "/f7/package/gedit-plugins.md" >}}) | 281 | 281 | 100.0 | Oriya <oriya-group@lists.sarovar.org> | 
- | [gnome-backgrounds]({{< ref "/f7/package/gnome-backgrounds.md" >}}) | 18 | 18 | 100.0 | Oriya <oriya-group@lists.sarovar.org> | 
- | [gnome-desktop]({{< ref "/f7/package/gnome-desktop.md" >}}) | 323 | 323 | 100.0 | Oriya <oriya-group@lists.sarovar.org> | 
- | [gnome-doc-utils]({{< ref "/f7/package/gnome-doc-utils.md" >}}) | 212 | 212 | 100.0 | Oriya <oriya-group@lists.sarovar.org> | 
- | [gnome-icon-theme]({{< ref "/f7/package/gnome-icon-theme.md" >}}) | 50 | 50 | 100.0 | Oriya <oriya-group@lists.sarovar.org> | 
- | [gnome-keyring]({{< ref "/f7/package/gnome-keyring.md" >}}) | 711 | 711 | 100.0 | Oriya <oriya-group@lists.sarovar.org> | 
- | [gnome-keyring-manager]({{< ref "/f7/package/gnome-keyring-manager.md" >}}) | 365 | 365 | 100.0 | Oriya <oriya-group@lists.sarovar.org> | 
- | [gnome-mag]({{< ref "/f7/package/gnome-mag.md" >}}) | 5 | 5 | 100.0 | Oriya <oriya-group@lists.sarovar.org> | 
- | [gnome-media]({{< ref "/f7/package/gnome-media.md" >}}) | 1795 | 1795 | 100.0 | Oriya <oriya-group@lists.sarovar.org> | 
- | [gnome-menus]({{< ref "/f7/package/gnome-menus.md" >}}) | 136 | 136 | 100.0 | Oriya <oriya-group@lists.sarovar.org> | 
- | [gnome-netstatus]({{< ref "/f7/package/gnome-netstatus.md" >}}) | 425 | 425 | 100.0 | Oriya <oriya-group@lists.sarovar.org> | 
- | [gnome-nettool]({{< ref "/f7/package/gnome-nettool.md" >}}) | 535 | 535 | 100.0 | Oriya <oriya-group@lists.sarovar.org> | 
- | [gnome-panel]({{< ref "/f7/package/gnome-panel.md" >}}) | 4085 | 4085 | 100.0 | Oriya <oriya-group@lists.sarovar.org> | 
- | [gnome-session]({{< ref "/f7/package/gnome-session.md" >}}) | 563 | 563 | 100.0 | Oriya <oriya-group@lists.sarovar.org> | 
- | [gnome-themes]({{< ref "/f7/package/gnome-themes.md" >}}) | 104 | 104 | 100.0 | Oriya <oriya-group@lists.sarovar.org> | 
- | [gnome-vfs2]({{< ref "/f7/package/gnome-vfs2.md" >}}) | 1506 | 1506 | 100.0 | Oriya <oriya-group@lists.sarovar.org> | 
- | [gtk2-engines]({{< ref "/f7/package/gtk2-engines.md" >}}) | 83 | 83 | 100.0 | Oriya <oriya-group@lists.sarovar.org> | 
- | [hwbrowser]({{< ref "/f7/package/hwbrowser.md" >}}) | 117 | 117 | 100.0 | Oriya <oriya-group@lists.sarovar.org> | 
- | [im-chooser]({{< ref "/f7/package/im-chooser.md" >}}) | 125 | 125 | 100.0 | Oriya <oriya-group@lists.sarovar.org> | 
- | [initscripts]({{< ref "/f7/package/initscripts.md" >}}) | 3497 | 3497 | 100.0 | Oriya <oriya-group@lists.sarovar.org> | 
- | [kexec-tools]({{< ref "/f7/package/kexec-tools.md" >}}) | 206 | 206 | 100.0 | Oriya <oriya-group@lists.sarovar.org> | 
- | [kudzu]({{< ref "/f7/package/kudzu.md" >}}) | 73 | 73 | 100.0 | Oriya <oriya-group@lists.sarovar.org> | 
- | [libbonobo]({{< ref "/f7/package/libbonobo.md" >}}) | 524 | 524 | 100.0 | Oriya <oriya-group@lists.sarovar.org> | 
- | [libbonoboui]({{< ref "/f7/package/libbonoboui.md" >}}) | 361 | 361 | 100.0 | Oriya <oriya-group@lists.sarovar.org> | 
- | [libgnome]({{< ref "/f7/package/libgnome.md" >}}) | 1517 | 1517 | 100.0 | Oriya <oriya-group@lists.sarovar.org> | 
- | [libgnomeprint22]({{< ref "/f7/package/libgnomeprint22.md" >}}) | 168 | 168 | 100.0 | Oriya <oriya-group@lists.sarovar.org> | 
- | [libgnomeprintui22]({{< ref "/f7/package/libgnomeprintui22.md" >}}) | 472 | 472 | 100.0 | Oriya <oriya-group@lists.sarovar.org> | 
- | [libgnomeui]({{< ref "/f7/package/libgnomeui.md" >}}) | 1363 | 1363 | 100.0 | Oriya <oriya-group@lists.sarovar.org> | 
- | [libgtop2]({{< ref "/f7/package/libgtop2.md" >}}) | 134 | 134 | 100.0 | Oriya <oriya-group@lists.sarovar.org> | 
- | [libuser]({{< ref "/f7/package/libuser.md" >}}) | 1039 | 1039 | 100.0 | Oriya <oriya-group@lists.sarovar.org> | 
- | [libwnck]({{< ref "/f7/package/libwnck.md" >}}) | 88 | 88 | 100.0 | Oriya <oriya-group@lists.sarovar.org> | 
- | [metacity]({{< ref "/f7/package/metacity.md" >}}) | 7140 | 7140 | 100.0 |  | 
- | [nautilus-open-terminal]({{< ref "/f7/package/nautilus-open-terminal.md" >}}) | 24 | 24 | 100.0 | Oriya <oriya-group@lists.sarovar.org> | 
- | [nautilus-sendto]({{< ref "/f7/package/nautilus-sendto.md" >}}) | 56 | 56 | 100.0 | Oriya <oriya-group@lists.sarovar.org> | 
- | [pessulus]({{< ref "/f7/package/pessulus.md" >}}) | 88 | 88 | 100.0 | Oriya <oriya-group@lists.sarovar.org> | 
- | [pirut]({{< ref "/f7/package/pirut.md" >}}) | 815 | 815 | 100.0 | Oriya <oriya-group@lists.sarovar.org> | 
- | [policycoreutils]({{< ref "/f7/package/policycoreutils.md" >}}) | 1214 | 1214 | 100.0 | Oriya <oriya-group@lists.sarovar.org> | 
- | [pykickstart]({{< ref "/f7/package/pykickstart.md" >}}) | 240 | 240 | 100.0 | Oriya <oriya-group@lists.sarovar.org> | 
- | [rhgb]({{< ref "/f7/package/rhgb.md" >}}) | 121 | 121 | 100.0 | Oriya <oriya-group@lists.sarovar.org> | 
- | [rhpl]({{< ref "/f7/package/rhpl.md" >}}) | 185 | 185 | 100.0 | Oriya <oriya-group@lists.sarovar.org> | 
- | [rhpxl]({{< ref "/f7/package/rhpxl.md" >}}) | 136 | 136 | 100.0 | Oriya <oriya-group@lists.sarovar.org> | 
- | [sabayon]({{< ref "/f7/package/sabayon.md" >}}) | 816 | 816 | 100.0 | Oriya <oriya-group@lists.sarovar.org> | 
- | [setuptool]({{< ref "/f7/package/setuptool.md" >}}) | 60 | 60 | 100.0 | Oriya <oriya-group@lists.sarovar.org> | 
- | [switchdesk]({{< ref "/f7/package/switchdesk.md" >}}) | 137 | 137 | 100.0 | Oriya <oriya-group@lists.sarovar.org> | 
- | [system-config-boot]({{< ref "/f7/package/system-config-boot.md" >}}) | 41 | 41 | 100.0 | Oriya <oriya-group@lists.sarovar.org> | 
- | [system-config-display]({{< ref "/f7/package/system-config-display.md" >}}) | 398 | 398 | 100.0 | Oriya <oriya-group@lists.sarovar.org> | 
- | [system-config-httpd]({{< ref "/f7/package/system-config-httpd.md" >}}) | 858 | 858 | 100.0 | Oriya <oriya-group@lists.sarovar.org> | 
- | [system-config-keyboard]({{< ref "/f7/package/system-config-keyboard.md" >}}) | 78 | 78 | 100.0 | Oriya <oriya-group@lists.sarovar.org> | 
- | [system-config-kickstart]({{< ref "/f7/package/system-config-kickstart.md" >}}) | 1028 | 1028 | 100.0 | Oriya <oriya-group@lists.sarovar.org> | 
- | [system-config-language]({{< ref "/f7/package/system-config-language.md" >}}) | 49 | 49 | 100.0 | Oriya <oriya-group@lists.sarovar.org> | 
- | [system-config-nfs]({{< ref "/f7/package/system-config-nfs.md" >}}) | 318 | 318 | 100.0 | Oriya <oriya-group@lists.sarovar.org> | 
- | [system-config-rootpassword]({{< ref "/f7/package/system-config-rootpassword.md" >}}) | 50 | 50 | 100.0 | Oriya <oriya-group@lists.sarovar.org> | 
- | [system-config-securitylevel]({{< ref "/f7/package/system-config-securitylevel.md" >}}) | 1145 | 1145 | 100.0 | Oriya <oriya-group@lists.sarovar.org> | 
- | [system-config-services]({{< ref "/f7/package/system-config-services.md" >}}) | 232 | 232 | 100.0 | Oriya <oriya-group@lists.sarovar.org> | 
- | [system-config-soundcard]({{< ref "/f7/package/system-config-soundcard.md" >}}) | 224 | 224 | 100.0 | Oriya <oriya-group@lists.sarovar.org> | 
- | [system-switch-mail]({{< ref "/f7/package/system-switch-mail.md" >}}) | 134 | 134 | 100.0 | Oriya <oriya-group@lists.sarovar.org> | 
- | [usermode]({{< ref "/f7/package/usermode.md" >}}) | 570 | 570 | 100.0 | Oriya <oriya-group@lists.sarovar.org> | 
- | [vino]({{< ref "/f7/package/vino.md" >}}) | 544 | 544 | 100.0 | Oriya <oriya-group@lists.sarovar.org> | 
- | [vte]({{< ref "/f7/package/vte.md" >}}) | 96 | 96 | 100.0 | Oriya <oriya-group@lists.sarovar.org> | 
- | [yelp]({{< ref "/f7/package/yelp.md" >}}) | 957 | 957 | 100.0 | Oriya <oriya-group@lists.sarovar.org> | 
- | [zenity]({{< ref "/f7/package/zenity.md" >}}) | 427 | 427 | 100.0 | Oriya <oriya-group@lists.sarovar.org> | 
- | [anaconda]({{< ref "/f7/package/anaconda.md" >}}) | 9992 | 10112 | 98.8 | Oriya <oriya-group@lists.sarovar.org> | 
- | [autorun]({{< ref "/f7/package/autorun.md" >}}) | 303 | 307 | 98.7 | Oriya <oriya-group@lists.sarovar.org> | 
- | [glib2]({{< ref "/f7/package/glib2.md" >}}) | 1196 | 1213 | 98.6 | Oriya <oriya-group@lists.sarovar.org> | 
- | [system-config-lvm]({{< ref "/f7/package/system-config-lvm.md" >}}) | 2049 | 2084 | 98.3 | Oriya <oriya-group@lists.sarovar.org> | 
- | [system-config-network]({{< ref "/f7/package/system-config-network.md" >}}) | 2880 | 2955 | 97.5 | Oriya <oriya-group@lists.sarovar.org> | 
- | [libvirt]({{< ref "/f7/package/libvirt.md" >}}) | 2277 | 2337 | 97.4 | Oriya <oriya-group@lists.sarovar.org> | 
- | [system-config-date]({{< ref "/f7/package/system-config-date.md" >}}) | 964 | 1003 | 96.1 | Oriya <oriya-group@lists.sarovar.org> | 
- | [system-config-printer]({{< ref "/f7/package/system-config-printer.md" >}}) | 1248 | 1324 | 94.3 | Oriya <oriya-group@lists.sarovar.org> | 
- | [redhat-menus]({{< ref "/f7/package/redhat-menus.md" >}}) | 246 | 261 | 94.3 | Oriya <oriya-group@lists.sarovar.org> | 
- | [system-config-netboot]({{< ref "/f7/package/system-config-netboot.md" >}}) | 1018 | 1088 | 93.6 | Oriya <oriya-group@lists.sarovar.org> | 
- | [system-config-samba]({{< ref "/f7/package/system-config-samba.md" >}}) | 391 | 423 | 92.4 | Oriya <oriya-group@lists.sarovar.org> | 
- | [gcalctool]({{< ref "/f7/package/gcalctool.md" >}}) | 835 | 915 | 91.3 | Oriya <oriya-group@lists.sarovar.org> | 
- | [gnome-utils]({{< ref "/f7/package/gnome-utils.md" >}}) | 3678 | 4084 | 90.1 | Oriya <oriya-group@lists.sarovar.org> | 
- | [sound-juicer]({{< ref "/f7/package/sound-juicer.md" >}}) | 740 | 853 | 86.8 | Oriya <oriya-group@lists.sarovar.org> | 
- | [system-config-users]({{< ref "/f7/package/system-config-users.md" >}}) | 883 | 1031 | 85.6 | Oriya <oriya-group@lists.sarovar.org> | 
- | [evince]({{< ref "/f7/package/evince.md" >}}) | 688 | 847 | 81.2 | Oriya <oriya-group@lists.sarovar.org> | 
- | [deskbar-applet]({{< ref "/f7/package/deskbar-applet.md" >}}) | 585 | 721 | 81.1 | Oriya <oriya-group@lists.sarovar.org> | 
- | [gtk2]({{< ref "/f7/package/gtk2.md" >}}) | 9392 | 11602 | 81.0 | Oriya <oriya-group@lists.sarovar.org> | 
- | [gdm]({{< ref "/f7/package/gdm.md" >}}) | 4338 | 5481 | 79.1 | Oriya <oriya-group@lists.sarovar.org> | 
- | [gok]({{< ref "/f7/package/gok.md" >}}) | 1405 | 1867 | 75.3 | Oriya <oriya-group@lists.sarovar.org> | 
- | [gucharmap]({{< ref "/f7/package/gucharmap.md" >}}) | 580 | 772 | 75.1 | Oriya <oriya-group@lists.sarovar.org> | 
- | [totem]({{< ref "/f7/package/totem.md" >}}) | 1210 | 1821 | 66.4 | Oriya <oriya-group@lists.sarovar.org> | 
- | [virt-manager]({{< ref "/f7/package/virt-manager.md" >}}) | 1715 | 2763 | 62.1 | Oriya <oriya-group@lists.sarovar.org> | 
- | [gedit]({{< ref "/f7/package/gedit.md" >}}) | 2695 | 5063 | 53.2 | Oriya <oriya-group@lists.sarovar.org> | 
- | [fast-user-switch-applet]({{< ref "/f7/package/fast-user-switch-applet.md" >}}) | 530 | 1048 | 50.6 | Oriya <oriya-group@lists.sarovar.org> | 
- | [nautilus]({{< ref "/f7/package/nautilus.md" >}}) | 2927 | 6865 | 42.6 | Oriya <oriya-group@lists.sarovar.org> | 
- | [GConf2]({{< ref "/f7/package/GConf2.md" >}}) | 1644 | 4017 | 40.9 | Oriya <oriya-group@lists.sarovar.org> | 
- | [smolt]({{< ref "/f7/package/smolt.md" >}}) | 289 | 803 | 36.0 | Oriya <oriya-group@lists.sarovar.org> | 
- | [gnome-screensaver]({{< ref "/f7/package/gnome-screensaver.md" >}}) | 473 | 1339 | 35.3 | Oriya <oriya-group@lists.sarovar.org> | 
- | [gnome-volume-manager]({{< ref "/f7/package/gnome-volume-manager.md" >}}) | 389 | 1169 | 33.3 | Oriya <oriya-group@lists.sarovar.org> | 
- | [system-config-bind]({{< ref "/f7/package/system-config-bind.md" >}}) | 3058 | 9416 | 32.5 | Oriya <oriya-group@lists.sarovar.org> | 
- | [nautilus-cd-burner]({{< ref "/f7/package/nautilus-cd-burner.md" >}}) | 410 | 1267 | 32.4 | Oriya <oriya-group@lists.sarovar.org> | 
- | [gnome-applets]({{< ref "/f7/package/gnome-applets.md" >}}) | 1148 | 3788 | 30.3 | Oriya <oriya-group@lists.sarovar.org> | 
- | [evolution]({{< ref "/f7/package/evolution.md" >}}) | 4704 | 18871 | 24.9 | Oriya <oriya-group@lists.sarovar.org> | 
- | [bug-buddy]({{< ref "/f7/package/bug-buddy.md" >}}) | 201 | 830 | 24.2 | Oriya <oriya-group@lists.sarovar.org> | 
- | [tomboy]({{< ref "/f7/package/tomboy.md" >}}) | 185 | 963 | 19.2 | Oriya <oriya-group@lists.sarovar.org> | 
- | [control-center]({{< ref "/f7/package/control-center.md" >}}) | 652 | 3545 | 18.4 | Oriya <oriya-group@lists.sarovar.org> | 
- | [orca]({{< ref "/f7/package/orca.md" >}}) | 221 | 1323 | 16.7 | Oriya <oriya-group@lists.sarovar.org> | 
- | [gtkhtml3]({{< ref "/f7/package/gtkhtml3.md" >}}) | 147 | 912 | 16.1 | Oriya <oriya-group@lists.sarovar.org> | 
- | [gtkhtml38]({{< ref "/f7/package/gtkhtml38.md" >}}) | 147 | 912 | 16.1 | Oriya <oriya-group@lists.sarovar.org> | 
- | [evolution-data-server]({{< ref "/f7/package/evolution-data-server.md" >}}) | 782 | 4985 | 15.7 | Oriya <oriya-group@lists.sarovar.org> | 
- | [setroubleshoot]({{< ref "/f7/package/setroubleshoot.md" >}}) | 1001 | 7269 | 13.8 | Oriya <oriya-group@lists.sarovar.org> | 
- | [gstreamer-plugins-base]({{< ref "/f7/package/gstreamer-plugins-base.md" >}}) | 49 | 497 | 9.9 | Oriya <gora_mohanty@yahoo.co.in> | 
- | [gnome-system-monitor]({{< ref "/f7/package/gnome-system-monitor.md" >}}) | 82 | 847 | 9.7 | Oriya <oriya-group@lists.sarovar.org> | 
- | [gstreamer-plugins-good]({{< ref "/f7/package/gstreamer-plugins-good.md" >}}) | 42 | 502 | 8.4 | Oriya <gora_mohanty@yahoo.co.in> | 
- | [epiphany]({{< ref "/f7/package/epiphany.md" >}}) | 306 | 3966 | 7.7 | Oriya <oriya-group@lists.sarovar.org> | 
- | [glade3]({{< ref "/f7/package/glade3.md" >}}) | 210 | 2988 | 7.0 | Oriya <oriya-group@lists.sarovar.org> | 
- | [gtksourceview]({{< ref "/f7/package/gtksourceview.md" >}}) | 51 | 849 | 6.0 | Oriya <oriya-group@lists.sarovar.org> | 
- | [gnome-terminal]({{< ref "/f7/package/gnome-terminal.md" >}}) | 141 | 4595 | 3.1 | Oriya <oriya-group@lists.sarovar.org> | 
- | [evolution-connector]({{< ref "/f7/package/evolution-connector.md" >}}) | 30 | 1225 | 2.4 | Oriya <oriya-group@lists.sarovar.org> | 
- | [ekiga]({{< ref "/f7/package/ekiga.md" >}}) | 115 | 5167 | 2.2 | Oriya <oriya-group@lists.sarovar.org> | 
- | [gnome-games]({{< ref "/f7/package/gnome-games.md" >}}) | 146 | 7066 | 2.1 | Oriya <oriya-group@lists.sarovar.org> | 
- | [passwd]({{< ref "/f7/package/passwd.md" >}}) | 0 | 291 | 0.0 | none | 
- | [revisor]({{< ref "/f7/package/revisor.md" >}}) | 0 | 3320 | 0.0 |  | 
+ | [alacarte](/f7/package/alacarte) | 74 | 74 | 100.0 | Oriya <oriya-group@lists.sarovar.org> | 
+ | [at-spi](/f7/package/at-spi) | 4 | 4 | 100.0 | Oriya <oriya-group@lists.sarovar.org> | 
+ | [atk](/f7/package/atk) | 370 | 370 | 100.0 | Oriya <oriya-group@lists.sarovar.org> | 
+ | [authconfig](/f7/package/authconfig) | 1098 | 1098 | 100.0 | Oriya <oriya-group@lists.sarovar.org> | 
+ | [chkconfig](/f7/package/chkconfig) | 430 | 430 | 100.0 | Oriya <oriya-group@lists.sarovar.org> | 
+ | [compiz](/f7/package/compiz) | 66 | 66 | 100.0 | Oriya <oriya-group@lists.sarovar.org> | 
+ | [dasher](/f7/package/dasher) | 311 | 311 | 100.0 | Oriya <oriya-group@lists.sarovar.org> | 
+ | [eel2](/f7/package/eel2) | 235 | 235 | 100.0 | Oriya <oriya-group@lists.sarovar.org> | 
+ | [eog](/f7/package/eog) | 706 | 706 | 100.0 | Oriya <oriya-group@lists.sarovar.org> | 
+ | [evolution-webcal](/f7/package/evolution-webcal) | 180 | 180 | 100.0 | Oriya <oriya-group@lists.sarovar.org> | 
+ | [file-roller](/f7/package/file-roller) | 952 | 952 | 100.0 | Oriya <oriya-group@lists.sarovar.org> | 
+ | [firstboot](/f7/package/firstboot) | 598 | 598 | 100.0 | Oriya <oriya-group@lists.sarovar.org> | 
+ | [gail](/f7/package/gail) | 170 | 170 | 100.0 | Oriya <oriya-group@lists.sarovar.org> | 
+ | [gconf-editor](/f7/package/gconf-editor) | 332 | 332 | 100.0 | Oriya <oriya-group@lists.sarovar.org> | 
+ | [gedit-plugins](/f7/package/gedit-plugins) | 281 | 281 | 100.0 | Oriya <oriya-group@lists.sarovar.org> | 
+ | [gnome-backgrounds](/f7/package/gnome-backgrounds) | 18 | 18 | 100.0 | Oriya <oriya-group@lists.sarovar.org> | 
+ | [gnome-desktop](/f7/package/gnome-desktop) | 323 | 323 | 100.0 | Oriya <oriya-group@lists.sarovar.org> | 
+ | [gnome-doc-utils](/f7/package/gnome-doc-utils) | 212 | 212 | 100.0 | Oriya <oriya-group@lists.sarovar.org> | 
+ | [gnome-icon-theme](/f7/package/gnome-icon-theme) | 50 | 50 | 100.0 | Oriya <oriya-group@lists.sarovar.org> | 
+ | [gnome-keyring](/f7/package/gnome-keyring) | 711 | 711 | 100.0 | Oriya <oriya-group@lists.sarovar.org> | 
+ | [gnome-keyring-manager](/f7/package/gnome-keyring-manager) | 365 | 365 | 100.0 | Oriya <oriya-group@lists.sarovar.org> | 
+ | [gnome-mag](/f7/package/gnome-mag) | 5 | 5 | 100.0 | Oriya <oriya-group@lists.sarovar.org> | 
+ | [gnome-media](/f7/package/gnome-media) | 1795 | 1795 | 100.0 | Oriya <oriya-group@lists.sarovar.org> | 
+ | [gnome-menus](/f7/package/gnome-menus) | 136 | 136 | 100.0 | Oriya <oriya-group@lists.sarovar.org> | 
+ | [gnome-netstatus](/f7/package/gnome-netstatus) | 425 | 425 | 100.0 | Oriya <oriya-group@lists.sarovar.org> | 
+ | [gnome-nettool](/f7/package/gnome-nettool) | 535 | 535 | 100.0 | Oriya <oriya-group@lists.sarovar.org> | 
+ | [gnome-panel](/f7/package/gnome-panel) | 4085 | 4085 | 100.0 | Oriya <oriya-group@lists.sarovar.org> | 
+ | [gnome-session](/f7/package/gnome-session) | 563 | 563 | 100.0 | Oriya <oriya-group@lists.sarovar.org> | 
+ | [gnome-themes](/f7/package/gnome-themes) | 104 | 104 | 100.0 | Oriya <oriya-group@lists.sarovar.org> | 
+ | [gnome-vfs2](/f7/package/gnome-vfs2) | 1506 | 1506 | 100.0 | Oriya <oriya-group@lists.sarovar.org> | 
+ | [gtk2-engines](/f7/package/gtk2-engines) | 83 | 83 | 100.0 | Oriya <oriya-group@lists.sarovar.org> | 
+ | [hwbrowser](/f7/package/hwbrowser) | 117 | 117 | 100.0 | Oriya <oriya-group@lists.sarovar.org> | 
+ | [im-chooser](/f7/package/im-chooser) | 125 | 125 | 100.0 | Oriya <oriya-group@lists.sarovar.org> | 
+ | [initscripts](/f7/package/initscripts) | 3497 | 3497 | 100.0 | Oriya <oriya-group@lists.sarovar.org> | 
+ | [kexec-tools](/f7/package/kexec-tools) | 206 | 206 | 100.0 | Oriya <oriya-group@lists.sarovar.org> | 
+ | [kudzu](/f7/package/kudzu) | 73 | 73 | 100.0 | Oriya <oriya-group@lists.sarovar.org> | 
+ | [libbonobo](/f7/package/libbonobo) | 524 | 524 | 100.0 | Oriya <oriya-group@lists.sarovar.org> | 
+ | [libbonoboui](/f7/package/libbonoboui) | 361 | 361 | 100.0 | Oriya <oriya-group@lists.sarovar.org> | 
+ | [libgnome](/f7/package/libgnome) | 1517 | 1517 | 100.0 | Oriya <oriya-group@lists.sarovar.org> | 
+ | [libgnomeprint22](/f7/package/libgnomeprint22) | 168 | 168 | 100.0 | Oriya <oriya-group@lists.sarovar.org> | 
+ | [libgnomeprintui22](/f7/package/libgnomeprintui22) | 472 | 472 | 100.0 | Oriya <oriya-group@lists.sarovar.org> | 
+ | [libgnomeui](/f7/package/libgnomeui) | 1363 | 1363 | 100.0 | Oriya <oriya-group@lists.sarovar.org> | 
+ | [libgtop2](/f7/package/libgtop2) | 134 | 134 | 100.0 | Oriya <oriya-group@lists.sarovar.org> | 
+ | [libuser](/f7/package/libuser) | 1039 | 1039 | 100.0 | Oriya <oriya-group@lists.sarovar.org> | 
+ | [libwnck](/f7/package/libwnck) | 88 | 88 | 100.0 | Oriya <oriya-group@lists.sarovar.org> | 
+ | [metacity](/f7/package/metacity) | 7140 | 7140 | 100.0 |  | 
+ | [nautilus-open-terminal](/f7/package/nautilus-open-terminal) | 24 | 24 | 100.0 | Oriya <oriya-group@lists.sarovar.org> | 
+ | [nautilus-sendto](/f7/package/nautilus-sendto) | 56 | 56 | 100.0 | Oriya <oriya-group@lists.sarovar.org> | 
+ | [pessulus](/f7/package/pessulus) | 88 | 88 | 100.0 | Oriya <oriya-group@lists.sarovar.org> | 
+ | [pirut](/f7/package/pirut) | 815 | 815 | 100.0 | Oriya <oriya-group@lists.sarovar.org> | 
+ | [policycoreutils](/f7/package/policycoreutils) | 1214 | 1214 | 100.0 | Oriya <oriya-group@lists.sarovar.org> | 
+ | [pykickstart](/f7/package/pykickstart) | 240 | 240 | 100.0 | Oriya <oriya-group@lists.sarovar.org> | 
+ | [rhgb](/f7/package/rhgb) | 121 | 121 | 100.0 | Oriya <oriya-group@lists.sarovar.org> | 
+ | [rhpl](/f7/package/rhpl) | 185 | 185 | 100.0 | Oriya <oriya-group@lists.sarovar.org> | 
+ | [rhpxl](/f7/package/rhpxl) | 136 | 136 | 100.0 | Oriya <oriya-group@lists.sarovar.org> | 
+ | [sabayon](/f7/package/sabayon) | 816 | 816 | 100.0 | Oriya <oriya-group@lists.sarovar.org> | 
+ | [setuptool](/f7/package/setuptool) | 60 | 60 | 100.0 | Oriya <oriya-group@lists.sarovar.org> | 
+ | [switchdesk](/f7/package/switchdesk) | 137 | 137 | 100.0 | Oriya <oriya-group@lists.sarovar.org> | 
+ | [system-config-boot](/f7/package/system-config-boot) | 41 | 41 | 100.0 | Oriya <oriya-group@lists.sarovar.org> | 
+ | [system-config-display](/f7/package/system-config-display) | 398 | 398 | 100.0 | Oriya <oriya-group@lists.sarovar.org> | 
+ | [system-config-httpd](/f7/package/system-config-httpd) | 858 | 858 | 100.0 | Oriya <oriya-group@lists.sarovar.org> | 
+ | [system-config-keyboard](/f7/package/system-config-keyboard) | 78 | 78 | 100.0 | Oriya <oriya-group@lists.sarovar.org> | 
+ | [system-config-kickstart](/f7/package/system-config-kickstart) | 1028 | 1028 | 100.0 | Oriya <oriya-group@lists.sarovar.org> | 
+ | [system-config-language](/f7/package/system-config-language) | 49 | 49 | 100.0 | Oriya <oriya-group@lists.sarovar.org> | 
+ | [system-config-nfs](/f7/package/system-config-nfs) | 318 | 318 | 100.0 | Oriya <oriya-group@lists.sarovar.org> | 
+ | [system-config-rootpassword](/f7/package/system-config-rootpassword) | 50 | 50 | 100.0 | Oriya <oriya-group@lists.sarovar.org> | 
+ | [system-config-securitylevel](/f7/package/system-config-securitylevel) | 1145 | 1145 | 100.0 | Oriya <oriya-group@lists.sarovar.org> | 
+ | [system-config-services](/f7/package/system-config-services) | 232 | 232 | 100.0 | Oriya <oriya-group@lists.sarovar.org> | 
+ | [system-config-soundcard](/f7/package/system-config-soundcard) | 224 | 224 | 100.0 | Oriya <oriya-group@lists.sarovar.org> | 
+ | [system-switch-mail](/f7/package/system-switch-mail) | 134 | 134 | 100.0 | Oriya <oriya-group@lists.sarovar.org> | 
+ | [usermode](/f7/package/usermode) | 570 | 570 | 100.0 | Oriya <oriya-group@lists.sarovar.org> | 
+ | [vino](/f7/package/vino) | 544 | 544 | 100.0 | Oriya <oriya-group@lists.sarovar.org> | 
+ | [vte](/f7/package/vte) | 96 | 96 | 100.0 | Oriya <oriya-group@lists.sarovar.org> | 
+ | [yelp](/f7/package/yelp) | 957 | 957 | 100.0 | Oriya <oriya-group@lists.sarovar.org> | 
+ | [zenity](/f7/package/zenity) | 427 | 427 | 100.0 | Oriya <oriya-group@lists.sarovar.org> | 
+ | [anaconda](/f7/package/anaconda) | 9992 | 10112 | 98.8 | Oriya <oriya-group@lists.sarovar.org> | 
+ | [autorun](/f7/package/autorun) | 303 | 307 | 98.7 | Oriya <oriya-group@lists.sarovar.org> | 
+ | [glib2](/f7/package/glib2) | 1196 | 1213 | 98.6 | Oriya <oriya-group@lists.sarovar.org> | 
+ | [system-config-lvm](/f7/package/system-config-lvm) | 2049 | 2084 | 98.3 | Oriya <oriya-group@lists.sarovar.org> | 
+ | [system-config-network](/f7/package/system-config-network) | 2880 | 2955 | 97.5 | Oriya <oriya-group@lists.sarovar.org> | 
+ | [libvirt](/f7/package/libvirt) | 2277 | 2337 | 97.4 | Oriya <oriya-group@lists.sarovar.org> | 
+ | [system-config-date](/f7/package/system-config-date) | 964 | 1003 | 96.1 | Oriya <oriya-group@lists.sarovar.org> | 
+ | [system-config-printer](/f7/package/system-config-printer) | 1248 | 1324 | 94.3 | Oriya <oriya-group@lists.sarovar.org> | 
+ | [redhat-menus](/f7/package/redhat-menus) | 246 | 261 | 94.3 | Oriya <oriya-group@lists.sarovar.org> | 
+ | [system-config-netboot](/f7/package/system-config-netboot) | 1018 | 1088 | 93.6 | Oriya <oriya-group@lists.sarovar.org> | 
+ | [system-config-samba](/f7/package/system-config-samba) | 391 | 423 | 92.4 | Oriya <oriya-group@lists.sarovar.org> | 
+ | [gcalctool](/f7/package/gcalctool) | 835 | 915 | 91.3 | Oriya <oriya-group@lists.sarovar.org> | 
+ | [gnome-utils](/f7/package/gnome-utils) | 3678 | 4084 | 90.1 | Oriya <oriya-group@lists.sarovar.org> | 
+ | [sound-juicer](/f7/package/sound-juicer) | 740 | 853 | 86.8 | Oriya <oriya-group@lists.sarovar.org> | 
+ | [system-config-users](/f7/package/system-config-users) | 883 | 1031 | 85.6 | Oriya <oriya-group@lists.sarovar.org> | 
+ | [evince](/f7/package/evince) | 688 | 847 | 81.2 | Oriya <oriya-group@lists.sarovar.org> | 
+ | [deskbar-applet](/f7/package/deskbar-applet) | 585 | 721 | 81.1 | Oriya <oriya-group@lists.sarovar.org> | 
+ | [gtk2](/f7/package/gtk2) | 9392 | 11602 | 81.0 | Oriya <oriya-group@lists.sarovar.org> | 
+ | [gdm](/f7/package/gdm) | 4338 | 5481 | 79.1 | Oriya <oriya-group@lists.sarovar.org> | 
+ | [gok](/f7/package/gok) | 1405 | 1867 | 75.3 | Oriya <oriya-group@lists.sarovar.org> | 
+ | [gucharmap](/f7/package/gucharmap) | 580 | 772 | 75.1 | Oriya <oriya-group@lists.sarovar.org> | 
+ | [totem](/f7/package/totem) | 1210 | 1821 | 66.4 | Oriya <oriya-group@lists.sarovar.org> | 
+ | [virt-manager](/f7/package/virt-manager) | 1715 | 2763 | 62.1 | Oriya <oriya-group@lists.sarovar.org> | 
+ | [gedit](/f7/package/gedit) | 2695 | 5063 | 53.2 | Oriya <oriya-group@lists.sarovar.org> | 
+ | [fast-user-switch-applet](/f7/package/fast-user-switch-applet) | 530 | 1048 | 50.6 | Oriya <oriya-group@lists.sarovar.org> | 
+ | [nautilus](/f7/package/nautilus) | 2927 | 6865 | 42.6 | Oriya <oriya-group@lists.sarovar.org> | 
+ | [GConf2](/f7/package/GConf2) | 1644 | 4017 | 40.9 | Oriya <oriya-group@lists.sarovar.org> | 
+ | [smolt](/f7/package/smolt) | 289 | 803 | 36.0 | Oriya <oriya-group@lists.sarovar.org> | 
+ | [gnome-screensaver](/f7/package/gnome-screensaver) | 473 | 1339 | 35.3 | Oriya <oriya-group@lists.sarovar.org> | 
+ | [gnome-volume-manager](/f7/package/gnome-volume-manager) | 389 | 1169 | 33.3 | Oriya <oriya-group@lists.sarovar.org> | 
+ | [system-config-bind](/f7/package/system-config-bind) | 3058 | 9416 | 32.5 | Oriya <oriya-group@lists.sarovar.org> | 
+ | [nautilus-cd-burner](/f7/package/nautilus-cd-burner) | 410 | 1267 | 32.4 | Oriya <oriya-group@lists.sarovar.org> | 
+ | [gnome-applets](/f7/package/gnome-applets) | 1148 | 3788 | 30.3 | Oriya <oriya-group@lists.sarovar.org> | 
+ | [evolution](/f7/package/evolution) | 4704 | 18871 | 24.9 | Oriya <oriya-group@lists.sarovar.org> | 
+ | [bug-buddy](/f7/package/bug-buddy) | 201 | 830 | 24.2 | Oriya <oriya-group@lists.sarovar.org> | 
+ | [tomboy](/f7/package/tomboy) | 185 | 963 | 19.2 | Oriya <oriya-group@lists.sarovar.org> | 
+ | [control-center](/f7/package/control-center) | 652 | 3545 | 18.4 | Oriya <oriya-group@lists.sarovar.org> | 
+ | [orca](/f7/package/orca) | 221 | 1323 | 16.7 | Oriya <oriya-group@lists.sarovar.org> | 
+ | [gtkhtml3](/f7/package/gtkhtml3) | 147 | 912 | 16.1 | Oriya <oriya-group@lists.sarovar.org> | 
+ | [gtkhtml38](/f7/package/gtkhtml38) | 147 | 912 | 16.1 | Oriya <oriya-group@lists.sarovar.org> | 
+ | [evolution-data-server](/f7/package/evolution-data-server) | 782 | 4985 | 15.7 | Oriya <oriya-group@lists.sarovar.org> | 
+ | [setroubleshoot](/f7/package/setroubleshoot) | 1001 | 7269 | 13.8 | Oriya <oriya-group@lists.sarovar.org> | 
+ | [gstreamer-plugins-base](/f7/package/gstreamer-plugins-base) | 49 | 497 | 9.9 | Oriya <gora_mohanty@yahoo.co.in> | 
+ | [gnome-system-monitor](/f7/package/gnome-system-monitor) | 82 | 847 | 9.7 | Oriya <oriya-group@lists.sarovar.org> | 
+ | [gstreamer-plugins-good](/f7/package/gstreamer-plugins-good) | 42 | 502 | 8.4 | Oriya <gora_mohanty@yahoo.co.in> | 
+ | [epiphany](/f7/package/epiphany) | 306 | 3966 | 7.7 | Oriya <oriya-group@lists.sarovar.org> | 
+ | [glade3](/f7/package/glade3) | 210 | 2988 | 7.0 | Oriya <oriya-group@lists.sarovar.org> | 
+ | [gtksourceview](/f7/package/gtksourceview) | 51 | 849 | 6.0 | Oriya <oriya-group@lists.sarovar.org> | 
+ | [gnome-terminal](/f7/package/gnome-terminal) | 141 | 4595 | 3.1 | Oriya <oriya-group@lists.sarovar.org> | 
+ | [evolution-connector](/f7/package/evolution-connector) | 30 | 1225 | 2.4 | Oriya <oriya-group@lists.sarovar.org> | 
+ | [ekiga](/f7/package/ekiga) | 115 | 5167 | 2.2 | Oriya <oriya-group@lists.sarovar.org> | 
+ | [gnome-games](/f7/package/gnome-games) | 146 | 7066 | 2.1 | Oriya <oriya-group@lists.sarovar.org> | 
+ | [passwd](/f7/package/passwd) | 0 | 291 | 0.0 | none | 
+ | [revisor](/f7/package/revisor) | 0 | 3320 | 0.0 |  | 
 {.sortable}
 
 
@@ -178,7 +178,7 @@ We use the po metadata to get the language code and the team, but sometimes it f
 
 | Package | Lang from file path/name | polib error | Team |
 |---------|--------------------------|-------------|------|
- | [metacity]({{< ref "/f7/package/metacity.md" >}}) | /mnt/stockage/packages/f7/metacity/po/or.po | error-os |  | 
+ | [metacity](/f7/package/metacity) | /mnt/stockage/packages/f7/metacity/po/or.po | error-os |  | 
 {.sortable}
 
 

@@ -18,65 +18,65 @@ The package kdiamond (version 22.12.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f36/language/ar.md" >}}) | 122 | 122 | 100.0 | /mnt/stockage/packages/f36/kdiamond/po/ar/kdiamond.po | 
- | [bg]({{< ref "/f36/language/bg.md" >}}) | 122 | 122 | 100.0 | /mnt/stockage/packages/f36/kdiamond/po/bg/kdiamond.po | 
- | [bs]({{< ref "/f36/language/bs.md" >}}) | 122 | 122 | 100.0 | /mnt/stockage/packages/f36/kdiamond/po/bs/kdiamond.po | 
- | [ca]({{< ref "/f36/language/ca.md" >}}) | 122 | 122 | 100.0 | /mnt/stockage/packages/f36/kdiamond/po/ca/kdiamond.po | 
- | [ca@valencia]({{< ref "/f36/language/ca@valencia.md" >}}) | 122 | 122 | 100.0 | /mnt/stockage/packages/f36/kdiamond/po/ca@valencia/kdiamond.po | 
- | [cs]({{< ref "/f36/language/cs.md" >}}) | 122 | 122 | 100.0 | /mnt/stockage/packages/f36/kdiamond/po/cs/kdiamond.po | 
- | [da]({{< ref "/f36/language/da.md" >}}) | 122 | 122 | 100.0 | /mnt/stockage/packages/f36/kdiamond/po/da/kdiamond.po | 
- | [de]({{< ref "/f36/language/de.md" >}}) | 122 | 122 | 100.0 | /mnt/stockage/packages/f36/kdiamond/po/de/kdiamond.po | 
- | [el]({{< ref "/f36/language/el.md" >}}) | 122 | 122 | 100.0 | /mnt/stockage/packages/f36/kdiamond/po/el/kdiamond.po | 
- | [en_GB]({{< ref "/f36/language/en_GB.md" >}}) | 122 | 122 | 100.0 | /mnt/stockage/packages/f36/kdiamond/po/en_GB/kdiamond.po | 
- | [es]({{< ref "/f36/language/es.md" >}}) | 122 | 122 | 100.0 | /mnt/stockage/packages/f36/kdiamond/po/es/kdiamond.po | 
- | [et]({{< ref "/f36/language/et.md" >}}) | 122 | 122 | 100.0 | /mnt/stockage/packages/f36/kdiamond/po/et/kdiamond.po | 
- | [eu]({{< ref "/f36/language/eu.md" >}}) | 122 | 122 | 100.0 | /mnt/stockage/packages/f36/kdiamond/po/eu/kdiamond.po | 
- | [fi]({{< ref "/f36/language/fi.md" >}}) | 122 | 122 | 100.0 | /mnt/stockage/packages/f36/kdiamond/po/fi/kdiamond.po | 
- | [fr]({{< ref "/f36/language/fr.md" >}}) | 122 | 122 | 100.0 | /mnt/stockage/packages/f36/kdiamond/po/fr/kdiamond.po | 
- | [ga]({{< ref "/f36/language/ga.md" >}}) | 122 | 122 | 100.0 | /mnt/stockage/packages/f36/kdiamond/po/ga/kdiamond.po | 
- | [gl]({{< ref "/f36/language/gl.md" >}}) | 122 | 122 | 100.0 | /mnt/stockage/packages/f36/kdiamond/po/gl/kdiamond.po | 
- | [hu]({{< ref "/f36/language/hu.md" >}}) | 122 | 122 | 100.0 | /mnt/stockage/packages/f36/kdiamond/po/hu/kdiamond.po | 
- | [id]({{< ref "/f36/language/id.md" >}}) | 122 | 122 | 100.0 | /mnt/stockage/packages/f36/kdiamond/po/id/kdiamond.po | 
- | [it]({{< ref "/f36/language/it.md" >}}) | 122 | 122 | 100.0 | /mnt/stockage/packages/f36/kdiamond/po/it/kdiamond.po | 
- | [ja]({{< ref "/f36/language/ja.md" >}}) | 122 | 122 | 100.0 | /mnt/stockage/packages/f36/kdiamond/po/ja/kdiamond.po | 
- | [kk]({{< ref "/f36/language/kk.md" >}}) | 122 | 122 | 100.0 | /mnt/stockage/packages/f36/kdiamond/po/kk/kdiamond.po | 
- | [km]({{< ref "/f36/language/km.md" >}}) | 122 | 122 | 100.0 | /mnt/stockage/packages/f36/kdiamond/po/km/kdiamond.po | 
- | [ko]({{< ref "/f36/language/ko.md" >}}) | 122 | 122 | 100.0 | /mnt/stockage/packages/f36/kdiamond/po/ko/kdiamond.po | 
- | [lt]({{< ref "/f36/language/lt.md" >}}) | 122 | 122 | 100.0 | /mnt/stockage/packages/f36/kdiamond/po/lt/kdiamond.po | 
- | [nb_NO]({{< ref "/f36/language/nb_NO.md" >}}) | 122 | 122 | 100.0 | /mnt/stockage/packages/f36/kdiamond/po/nb/kdiamond.po | 
- | [nds]({{< ref "/f36/language/nds.md" >}}) | 122 | 122 | 100.0 | /mnt/stockage/packages/f36/kdiamond/po/nds/kdiamond.po | 
- | [nl]({{< ref "/f36/language/nl.md" >}}) | 122 | 122 | 100.0 | /mnt/stockage/packages/f36/kdiamond/po/nl/kdiamond.po | 
- | [nn]({{< ref "/f36/language/nn.md" >}}) | 122 | 122 | 100.0 | /mnt/stockage/packages/f36/kdiamond/po/nn/kdiamond.po | 
- | [pl]({{< ref "/f36/language/pl.md" >}}) | 122 | 122 | 100.0 | /mnt/stockage/packages/f36/kdiamond/po/pl/kdiamond.po | 
- | [pt]({{< ref "/f36/language/pt.md" >}}) | 122 | 122 | 100.0 | /mnt/stockage/packages/f36/kdiamond/po/pt/kdiamond.po | 
- | [pt_BR]({{< ref "/f36/language/pt_BR.md" >}}) | 122 | 122 | 100.0 | /mnt/stockage/packages/f36/kdiamond/po/pt_BR/kdiamond.po | 
- | [ru]({{< ref "/f36/language/ru.md" >}}) | 122 | 122 | 100.0 | /mnt/stockage/packages/f36/kdiamond/po/ru/kdiamond.po | 
- | [sk]({{< ref "/f36/language/sk.md" >}}) | 122 | 122 | 100.0 | /mnt/stockage/packages/f36/kdiamond/po/sk/kdiamond.po | 
- | [sl]({{< ref "/f36/language/sl.md" >}}) | 122 | 122 | 100.0 | /mnt/stockage/packages/f36/kdiamond/po/sl/kdiamond.po | 
- | [sr]({{< ref "/f36/language/sr.md" >}}) | 122 | 122 | 100.0 | /mnt/stockage/packages/f36/kdiamond/po/sr/kdiamond.po | 
- | [sr@ijekavian]({{< ref "/f36/language/sr@ijekavian.md" >}}) | 122 | 122 | 100.0 | /mnt/stockage/packages/f36/kdiamond/po/sr@ijekavian/kdiamond.po | 
- | [sr@ijekavian_Latn]({{< ref "/f36/language/sr@ijekavian_Latn.md" >}}) | 122 | 122 | 100.0 | /mnt/stockage/packages/f36/kdiamond/po/sr@ijekavianlatin/kdiamond.po | 
- | [sr_Latn]({{< ref "/f36/language/sr_Latn.md" >}}) | 122 | 122 | 100.0 | /mnt/stockage/packages/f36/kdiamond/po/sr@latin/kdiamond.po | 
- | [sv]({{< ref "/f36/language/sv.md" >}}) | 122 | 122 | 100.0 | /mnt/stockage/packages/f36/kdiamond/po/sv/kdiamond.po | 
- | [tr]({{< ref "/f36/language/tr.md" >}}) | 122 | 122 | 100.0 | /mnt/stockage/packages/f36/kdiamond/po/tr/kdiamond.po | 
- | [uk]({{< ref "/f36/language/uk.md" >}}) | 122 | 122 | 100.0 | /mnt/stockage/packages/f36/kdiamond/po/uk/kdiamond.po | 
- | [zh_Hans]({{< ref "/f36/language/zh_Hans.md" >}}) | 122 | 122 | 100.0 | /mnt/stockage/packages/f36/kdiamond/po/zh_CN/kdiamond.po | 
- | [zh_Hant]({{< ref "/f36/language/zh_Hant.md" >}}) | 122 | 122 | 100.0 | /mnt/stockage/packages/f36/kdiamond/po/zh_TW/kdiamond.po | 
- | [hne]({{< ref "/f36/language/hne.md" >}}) | 116 | 122 | 95.1 | /mnt/stockage/packages/f36/kdiamond/po/hne/kdiamond.po | 
- | [lv]({{< ref "/f36/language/lv.md" >}}) | 116 | 122 | 95.1 | /mnt/stockage/packages/f36/kdiamond/po/lv/kdiamond.po | 
- | [ro]({{< ref "/f36/language/ro.md" >}}) | 116 | 122 | 95.1 | /mnt/stockage/packages/f36/kdiamond/po/ro/kdiamond.po | 
- | [th]({{< ref "/f36/language/th.md" >}}) | 116 | 122 | 95.1 | /mnt/stockage/packages/f36/kdiamond/po/th/kdiamond.po | 
- | [hi]({{< ref "/f36/language/hi.md" >}}) | 87 | 122 | 71.3 | /mnt/stockage/packages/f36/kdiamond/po/hi/kdiamond.po | 
- | [gu]({{< ref "/f36/language/gu.md" >}}) | 75 | 122 | 61.5 | /mnt/stockage/packages/f36/kdiamond/po/gu/kdiamond.po | 
- | [ka]({{< ref "/f36/language/ka.md" >}}) | 59 | 122 | 48.4 | /mnt/stockage/packages/f36/kdiamond/po/ka/kdiamond.po | 
- | [mr]({{< ref "/f36/language/mr.md" >}}) | 50 | 122 | 41.0 | /mnt/stockage/packages/f36/kdiamond/po/mr/kdiamond.po | 
- | [sq]({{< ref "/f36/language/sq.md" >}}) | 44 | 122 | 36.1 | /mnt/stockage/packages/f36/kdiamond/po/sq/kdiamond.po | 
- | [ug]({{< ref "/f36/language/ug.md" >}}) | 32 | 122 | 26.2 | /mnt/stockage/packages/f36/kdiamond/po/ug/kdiamond.po | 
- | [eo]({{< ref "/f36/language/eo.md" >}}) | 28 | 122 | 23.0 | /mnt/stockage/packages/f36/kdiamond/po/eo/kdiamond.po | 
- | [mai]({{< ref "/f36/language/mai.md" >}}) | 12 | 122 | 9.8 | /mnt/stockage/packages/f36/kdiamond/po/mai/kdiamond.po | 
- | [ml]({{< ref "/f36/language/ml.md" >}}) | 2 | 122 | 1.6 | /mnt/stockage/packages/f36/kdiamond/po/ml/kdiamond.po | 
- | [hr]({{< ref "/f36/language/hr.md" >}}) | 0 | 122 | 0.0 | /mnt/stockage/packages/f36/kdiamond/po/hr/kdiamond.po | 
- | [is]({{< ref "/f36/language/is.md" >}}) | 0 | 122 | 0.0 | /mnt/stockage/packages/f36/kdiamond/po/is/kdiamond.po | 
+ | [ar](/f36/language/ar) | 122 | 122 | 100.0 | /mnt/stockage/packages/f36/kdiamond/po/ar/kdiamond.po | 
+ | [bg](/f36/language/bg) | 122 | 122 | 100.0 | /mnt/stockage/packages/f36/kdiamond/po/bg/kdiamond.po | 
+ | [bs](/f36/language/bs) | 122 | 122 | 100.0 | /mnt/stockage/packages/f36/kdiamond/po/bs/kdiamond.po | 
+ | [ca](/f36/language/ca) | 122 | 122 | 100.0 | /mnt/stockage/packages/f36/kdiamond/po/ca/kdiamond.po | 
+ | [ca@valencia](/f36/language/ca@valencia) | 122 | 122 | 100.0 | /mnt/stockage/packages/f36/kdiamond/po/ca@valencia/kdiamond.po | 
+ | [cs](/f36/language/cs) | 122 | 122 | 100.0 | /mnt/stockage/packages/f36/kdiamond/po/cs/kdiamond.po | 
+ | [da](/f36/language/da) | 122 | 122 | 100.0 | /mnt/stockage/packages/f36/kdiamond/po/da/kdiamond.po | 
+ | [de](/f36/language/de) | 122 | 122 | 100.0 | /mnt/stockage/packages/f36/kdiamond/po/de/kdiamond.po | 
+ | [el](/f36/language/el) | 122 | 122 | 100.0 | /mnt/stockage/packages/f36/kdiamond/po/el/kdiamond.po | 
+ | [en_GB](/f36/language/en_GB) | 122 | 122 | 100.0 | /mnt/stockage/packages/f36/kdiamond/po/en_GB/kdiamond.po | 
+ | [es](/f36/language/es) | 122 | 122 | 100.0 | /mnt/stockage/packages/f36/kdiamond/po/es/kdiamond.po | 
+ | [et](/f36/language/et) | 122 | 122 | 100.0 | /mnt/stockage/packages/f36/kdiamond/po/et/kdiamond.po | 
+ | [eu](/f36/language/eu) | 122 | 122 | 100.0 | /mnt/stockage/packages/f36/kdiamond/po/eu/kdiamond.po | 
+ | [fi](/f36/language/fi) | 122 | 122 | 100.0 | /mnt/stockage/packages/f36/kdiamond/po/fi/kdiamond.po | 
+ | [fr](/f36/language/fr) | 122 | 122 | 100.0 | /mnt/stockage/packages/f36/kdiamond/po/fr/kdiamond.po | 
+ | [ga](/f36/language/ga) | 122 | 122 | 100.0 | /mnt/stockage/packages/f36/kdiamond/po/ga/kdiamond.po | 
+ | [gl](/f36/language/gl) | 122 | 122 | 100.0 | /mnt/stockage/packages/f36/kdiamond/po/gl/kdiamond.po | 
+ | [hu](/f36/language/hu) | 122 | 122 | 100.0 | /mnt/stockage/packages/f36/kdiamond/po/hu/kdiamond.po | 
+ | [id](/f36/language/id) | 122 | 122 | 100.0 | /mnt/stockage/packages/f36/kdiamond/po/id/kdiamond.po | 
+ | [it](/f36/language/it) | 122 | 122 | 100.0 | /mnt/stockage/packages/f36/kdiamond/po/it/kdiamond.po | 
+ | [ja](/f36/language/ja) | 122 | 122 | 100.0 | /mnt/stockage/packages/f36/kdiamond/po/ja/kdiamond.po | 
+ | [kk](/f36/language/kk) | 122 | 122 | 100.0 | /mnt/stockage/packages/f36/kdiamond/po/kk/kdiamond.po | 
+ | [km](/f36/language/km) | 122 | 122 | 100.0 | /mnt/stockage/packages/f36/kdiamond/po/km/kdiamond.po | 
+ | [ko](/f36/language/ko) | 122 | 122 | 100.0 | /mnt/stockage/packages/f36/kdiamond/po/ko/kdiamond.po | 
+ | [lt](/f36/language/lt) | 122 | 122 | 100.0 | /mnt/stockage/packages/f36/kdiamond/po/lt/kdiamond.po | 
+ | [nb_NO](/f36/language/nb_NO) | 122 | 122 | 100.0 | /mnt/stockage/packages/f36/kdiamond/po/nb/kdiamond.po | 
+ | [nds](/f36/language/nds) | 122 | 122 | 100.0 | /mnt/stockage/packages/f36/kdiamond/po/nds/kdiamond.po | 
+ | [nl](/f36/language/nl) | 122 | 122 | 100.0 | /mnt/stockage/packages/f36/kdiamond/po/nl/kdiamond.po | 
+ | [nn](/f36/language/nn) | 122 | 122 | 100.0 | /mnt/stockage/packages/f36/kdiamond/po/nn/kdiamond.po | 
+ | [pl](/f36/language/pl) | 122 | 122 | 100.0 | /mnt/stockage/packages/f36/kdiamond/po/pl/kdiamond.po | 
+ | [pt](/f36/language/pt) | 122 | 122 | 100.0 | /mnt/stockage/packages/f36/kdiamond/po/pt/kdiamond.po | 
+ | [pt_BR](/f36/language/pt_BR) | 122 | 122 | 100.0 | /mnt/stockage/packages/f36/kdiamond/po/pt_BR/kdiamond.po | 
+ | [ru](/f36/language/ru) | 122 | 122 | 100.0 | /mnt/stockage/packages/f36/kdiamond/po/ru/kdiamond.po | 
+ | [sk](/f36/language/sk) | 122 | 122 | 100.0 | /mnt/stockage/packages/f36/kdiamond/po/sk/kdiamond.po | 
+ | [sl](/f36/language/sl) | 122 | 122 | 100.0 | /mnt/stockage/packages/f36/kdiamond/po/sl/kdiamond.po | 
+ | [sr](/f36/language/sr) | 122 | 122 | 100.0 | /mnt/stockage/packages/f36/kdiamond/po/sr/kdiamond.po | 
+ | [sr@ijekavian](/f36/language/sr@ijekavian) | 122 | 122 | 100.0 | /mnt/stockage/packages/f36/kdiamond/po/sr@ijekavian/kdiamond.po | 
+ | [sr@ijekavian_Latn](/f36/language/sr@ijekavian_Latn) | 122 | 122 | 100.0 | /mnt/stockage/packages/f36/kdiamond/po/sr@ijekavianlatin/kdiamond.po | 
+ | [sr_Latn](/f36/language/sr_Latn) | 122 | 122 | 100.0 | /mnt/stockage/packages/f36/kdiamond/po/sr@latin/kdiamond.po | 
+ | [sv](/f36/language/sv) | 122 | 122 | 100.0 | /mnt/stockage/packages/f36/kdiamond/po/sv/kdiamond.po | 
+ | [tr](/f36/language/tr) | 122 | 122 | 100.0 | /mnt/stockage/packages/f36/kdiamond/po/tr/kdiamond.po | 
+ | [uk](/f36/language/uk) | 122 | 122 | 100.0 | /mnt/stockage/packages/f36/kdiamond/po/uk/kdiamond.po | 
+ | [zh_Hans](/f36/language/zh_Hans) | 122 | 122 | 100.0 | /mnt/stockage/packages/f36/kdiamond/po/zh_CN/kdiamond.po | 
+ | [zh_Hant](/f36/language/zh_Hant) | 122 | 122 | 100.0 | /mnt/stockage/packages/f36/kdiamond/po/zh_TW/kdiamond.po | 
+ | [hne](/f36/language/hne) | 116 | 122 | 95.1 | /mnt/stockage/packages/f36/kdiamond/po/hne/kdiamond.po | 
+ | [lv](/f36/language/lv) | 116 | 122 | 95.1 | /mnt/stockage/packages/f36/kdiamond/po/lv/kdiamond.po | 
+ | [ro](/f36/language/ro) | 116 | 122 | 95.1 | /mnt/stockage/packages/f36/kdiamond/po/ro/kdiamond.po | 
+ | [th](/f36/language/th) | 116 | 122 | 95.1 | /mnt/stockage/packages/f36/kdiamond/po/th/kdiamond.po | 
+ | [hi](/f36/language/hi) | 87 | 122 | 71.3 | /mnt/stockage/packages/f36/kdiamond/po/hi/kdiamond.po | 
+ | [gu](/f36/language/gu) | 75 | 122 | 61.5 | /mnt/stockage/packages/f36/kdiamond/po/gu/kdiamond.po | 
+ | [ka](/f36/language/ka) | 59 | 122 | 48.4 | /mnt/stockage/packages/f36/kdiamond/po/ka/kdiamond.po | 
+ | [mr](/f36/language/mr) | 50 | 122 | 41.0 | /mnt/stockage/packages/f36/kdiamond/po/mr/kdiamond.po | 
+ | [sq](/f36/language/sq) | 44 | 122 | 36.1 | /mnt/stockage/packages/f36/kdiamond/po/sq/kdiamond.po | 
+ | [ug](/f36/language/ug) | 32 | 122 | 26.2 | /mnt/stockage/packages/f36/kdiamond/po/ug/kdiamond.po | 
+ | [eo](/f36/language/eo) | 28 | 122 | 23.0 | /mnt/stockage/packages/f36/kdiamond/po/eo/kdiamond.po | 
+ | [mai](/f36/language/mai) | 12 | 122 | 9.8 | /mnt/stockage/packages/f36/kdiamond/po/mai/kdiamond.po | 
+ | [ml](/f36/language/ml) | 2 | 122 | 1.6 | /mnt/stockage/packages/f36/kdiamond/po/ml/kdiamond.po | 
+ | [hr](/f36/language/hr) | 0 | 122 | 0.0 | /mnt/stockage/packages/f36/kdiamond/po/hr/kdiamond.po | 
+ | [is](/f36/language/is) | 0 | 122 | 0.0 | /mnt/stockage/packages/f36/kdiamond/po/is/kdiamond.po | 
 {.sortable}
 
 

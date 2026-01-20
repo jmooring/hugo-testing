@@ -18,26 +18,26 @@ The package indent (version 2.2.9):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f8/language/de.md" >}}) | 270 | 270 | 100.0 | /mnt/stockage/packages/f8/indent/po/de.po | 
- | [eo]({{< ref "/f8/language/eo.md" >}}) | 270 | 270 | 100.0 | /mnt/stockage/packages/f8/indent/po/eo.po | 
- | [et]({{< ref "/f8/language/et.md" >}}) | 270 | 270 | 100.0 | /mnt/stockage/packages/f8/indent/po/et.po | 
- | [fi]({{< ref "/f8/language/fi.md" >}}) | 270 | 270 | 100.0 | /mnt/stockage/packages/f8/indent/po/fi.po | 
- | [fr]({{< ref "/f8/language/fr.md" >}}) | 270 | 270 | 100.0 | /mnt/stockage/packages/f8/indent/po/fr.po | 
- | [it]({{< ref "/f8/language/it.md" >}}) | 270 | 270 | 100.0 | /mnt/stockage/packages/f8/indent/po/it.po | 
- | [pt_BR]({{< ref "/f8/language/pt_BR.md" >}}) | 270 | 270 | 100.0 | /mnt/stockage/packages/f8/indent/po/pt_BR.po | 
- | [sk]({{< ref "/f8/language/sk.md" >}}) | 270 | 270 | 100.0 | /mnt/stockage/packages/f8/indent/po/sk.po | 
- | [sv]({{< ref "/f8/language/sv.md" >}}) | 270 | 270 | 100.0 | /mnt/stockage/packages/f8/indent/po/sv.po | 
- | [tr]({{< ref "/f8/language/tr.md" >}}) | 270 | 270 | 100.0 | /mnt/stockage/packages/f8/indent/po/tr.po | 
- | [ca]({{< ref "/f8/language/ca.md" >}}) | 263 | 270 | 97.4 | /mnt/stockage/packages/f8/indent/po/ca.po | 
- | [gl]({{< ref "/f8/language/gl.md" >}}) | 263 | 270 | 97.4 | /mnt/stockage/packages/f8/indent/po/gl.po | 
- | [ja]({{< ref "/f8/language/ja.md" >}}) | 263 | 270 | 97.4 | /mnt/stockage/packages/f8/indent/po/ja.po | 
- | [ru]({{< ref "/f8/language/ru.md" >}}) | 263 | 270 | 97.4 | /mnt/stockage/packages/f8/indent/po/ru.po | 
- | [hu]({{< ref "/f8/language/hu.md" >}}) | 258 | 270 | 95.6 | /mnt/stockage/packages/f8/indent/po/hu.po | 
- | [error]({{< ref "/f8/language/error.md" >}}) | 246 | 270 | 91.1 | /mnt/stockage/packages/f8/indent/po/zh_TW.Big5.po | 
- | [nl]({{< ref "/f8/language/nl.md" >}}) | 210 | 270 | 77.8 | /mnt/stockage/packages/f8/indent/po/nl.po | 
- | [pl]({{< ref "/f8/language/pl.md" >}}) | 110 | 270 | 40.7 | /mnt/stockage/packages/f8/indent/po/pl.po | 
- | [ko]({{< ref "/f8/language/ko.md" >}}) | 98 | 270 | 36.3 | /mnt/stockage/packages/f8/indent/po/ko.po | 
- | [da]({{< ref "/f8/language/da.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f8/indent/po/da.po | 
+ | [de](/f8/language/de) | 270 | 270 | 100.0 | /mnt/stockage/packages/f8/indent/po/de.po | 
+ | [eo](/f8/language/eo) | 270 | 270 | 100.0 | /mnt/stockage/packages/f8/indent/po/eo.po | 
+ | [et](/f8/language/et) | 270 | 270 | 100.0 | /mnt/stockage/packages/f8/indent/po/et.po | 
+ | [fi](/f8/language/fi) | 270 | 270 | 100.0 | /mnt/stockage/packages/f8/indent/po/fi.po | 
+ | [fr](/f8/language/fr) | 270 | 270 | 100.0 | /mnt/stockage/packages/f8/indent/po/fr.po | 
+ | [it](/f8/language/it) | 270 | 270 | 100.0 | /mnt/stockage/packages/f8/indent/po/it.po | 
+ | [pt_BR](/f8/language/pt_BR) | 270 | 270 | 100.0 | /mnt/stockage/packages/f8/indent/po/pt_BR.po | 
+ | [sk](/f8/language/sk) | 270 | 270 | 100.0 | /mnt/stockage/packages/f8/indent/po/sk.po | 
+ | [sv](/f8/language/sv) | 270 | 270 | 100.0 | /mnt/stockage/packages/f8/indent/po/sv.po | 
+ | [tr](/f8/language/tr) | 270 | 270 | 100.0 | /mnt/stockage/packages/f8/indent/po/tr.po | 
+ | [ca](/f8/language/ca) | 263 | 270 | 97.4 | /mnt/stockage/packages/f8/indent/po/ca.po | 
+ | [gl](/f8/language/gl) | 263 | 270 | 97.4 | /mnt/stockage/packages/f8/indent/po/gl.po | 
+ | [ja](/f8/language/ja) | 263 | 270 | 97.4 | /mnt/stockage/packages/f8/indent/po/ja.po | 
+ | [ru](/f8/language/ru) | 263 | 270 | 97.4 | /mnt/stockage/packages/f8/indent/po/ru.po | 
+ | [hu](/f8/language/hu) | 258 | 270 | 95.6 | /mnt/stockage/packages/f8/indent/po/hu.po | 
+ | [error](/f8/language/error) | 246 | 270 | 91.1 | /mnt/stockage/packages/f8/indent/po/zh_TW.Big5.po | 
+ | [nl](/f8/language/nl) | 210 | 270 | 77.8 | /mnt/stockage/packages/f8/indent/po/nl.po | 
+ | [pl](/f8/language/pl) | 110 | 270 | 40.7 | /mnt/stockage/packages/f8/indent/po/pl.po | 
+ | [ko](/f8/language/ko) | 98 | 270 | 36.3 | /mnt/stockage/packages/f8/indent/po/ko.po | 
+ | [da](/f8/language/da) | 0 | 0 | 0.0 | /mnt/stockage/packages/f8/indent/po/da.po | 
 {.sortable}
 
 

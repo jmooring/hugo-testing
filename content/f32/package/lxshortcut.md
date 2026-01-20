@@ -18,65 +18,65 @@ The package lxshortcut (version 0.1.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f32/language/ar.md" >}}) | 43 | 43 | 100.0 | /mnt/stockage/packages/f32/lxshortcut/po/ar.po | 
- | [ast]({{< ref "/f32/language/ast.md" >}}) | 43 | 43 | 100.0 | /mnt/stockage/packages/f32/lxshortcut/po/ast.po | 
- | [be]({{< ref "/f32/language/be.md" >}}) | 43 | 43 | 100.0 | /mnt/stockage/packages/f32/lxshortcut/po/be.po | 
- | [bg]({{< ref "/f32/language/bg.md" >}}) | 43 | 43 | 100.0 | /mnt/stockage/packages/f32/lxshortcut/po/bg.po | 
- | [bn]({{< ref "/f32/language/bn.md" >}}) | 43 | 43 | 100.0 | /mnt/stockage/packages/f32/lxshortcut/po/bn.po | 
- | [bn_IN]({{< ref "/f32/language/bn_IN.md" >}}) | 43 | 43 | 100.0 | /mnt/stockage/packages/f32/lxshortcut/po/bn_IN.po | 
- | [ca]({{< ref "/f32/language/ca.md" >}}) | 43 | 43 | 100.0 | /mnt/stockage/packages/f32/lxshortcut/po/ca.po | 
- | [cs]({{< ref "/f32/language/cs.md" >}}) | 43 | 43 | 100.0 | /mnt/stockage/packages/f32/lxshortcut/po/cs.po | 
- | [da]({{< ref "/f32/language/da.md" >}}) | 43 | 43 | 100.0 | /mnt/stockage/packages/f32/lxshortcut/po/da.po | 
- | [de]({{< ref "/f32/language/de.md" >}}) | 43 | 43 | 100.0 | /mnt/stockage/packages/f32/lxshortcut/po/de.po | 
- | [el]({{< ref "/f32/language/el.md" >}}) | 43 | 43 | 100.0 | /mnt/stockage/packages/f32/lxshortcut/po/el.po | 
- | [en_GB]({{< ref "/f32/language/en_GB.md" >}}) | 43 | 43 | 100.0 | /mnt/stockage/packages/f32/lxshortcut/po/en_GB.po | 
- | [es]({{< ref "/f32/language/es.md" >}}) | 86 | 86 | 100.0 | /mnt/stockage/packages/f32/lxshortcut/po/es_VE.po/mnt/stockage/packages/f32/lxshortcut/po/es.po | 
- | [et]({{< ref "/f32/language/et.md" >}}) | 43 | 43 | 100.0 | /mnt/stockage/packages/f32/lxshortcut/po/et.po | 
- | [fa]({{< ref "/f32/language/fa.md" >}}) | 43 | 43 | 100.0 | /mnt/stockage/packages/f32/lxshortcut/po/fa.po | 
- | [fi]({{< ref "/f32/language/fi.md" >}}) | 43 | 43 | 100.0 | /mnt/stockage/packages/f32/lxshortcut/po/fi.po | 
- | [fo]({{< ref "/f32/language/fo.md" >}}) | 43 | 43 | 100.0 | /mnt/stockage/packages/f32/lxshortcut/po/fo.po | 
- | [fr]({{< ref "/f32/language/fr.md" >}}) | 43 | 43 | 100.0 | /mnt/stockage/packages/f32/lxshortcut/po/fr.po | 
- | [gl]({{< ref "/f32/language/gl.md" >}}) | 43 | 43 | 100.0 | /mnt/stockage/packages/f32/lxshortcut/po/gl.po | 
- | [he]({{< ref "/f32/language/he.md" >}}) | 43 | 43 | 100.0 | /mnt/stockage/packages/f32/lxshortcut/po/he.po | 
- | [hr]({{< ref "/f32/language/hr.md" >}}) | 43 | 43 | 100.0 | /mnt/stockage/packages/f32/lxshortcut/po/hr.po | 
- | [hu]({{< ref "/f32/language/hu.md" >}}) | 43 | 43 | 100.0 | /mnt/stockage/packages/f32/lxshortcut/po/hu.po | 
- | [id]({{< ref "/f32/language/id.md" >}}) | 43 | 43 | 100.0 | /mnt/stockage/packages/f32/lxshortcut/po/id.po | 
- | [it]({{< ref "/f32/language/it.md" >}}) | 43 | 43 | 100.0 | /mnt/stockage/packages/f32/lxshortcut/po/it.po | 
- | [ja]({{< ref "/f32/language/ja.md" >}}) | 43 | 43 | 100.0 | /mnt/stockage/packages/f32/lxshortcut/po/ja.po | 
- | [lg]({{< ref "/f32/language/lg.md" >}}) | 43 | 43 | 100.0 | /mnt/stockage/packages/f32/lxshortcut/po/lg.po | 
- | [lt]({{< ref "/f32/language/lt.md" >}}) | 43 | 43 | 100.0 | /mnt/stockage/packages/f32/lxshortcut/po/lt.po | 
- | [ms]({{< ref "/f32/language/ms.md" >}}) | 43 | 43 | 100.0 | /mnt/stockage/packages/f32/lxshortcut/po/ms.po | 
- | [nb_NO]({{< ref "/f32/language/nb_NO.md" >}}) | 43 | 43 | 100.0 | /mnt/stockage/packages/f32/lxshortcut/po/nb.po | 
- | [nl]({{< ref "/f32/language/nl.md" >}}) | 43 | 43 | 100.0 | /mnt/stockage/packages/f32/lxshortcut/po/nl.po | 
- | [nn]({{< ref "/f32/language/nn.md" >}}) | 43 | 43 | 100.0 | /mnt/stockage/packages/f32/lxshortcut/po/nn.po | 
- | [pl]({{< ref "/f32/language/pl.md" >}}) | 43 | 43 | 100.0 | /mnt/stockage/packages/f32/lxshortcut/po/pl.po | 
- | [pt]({{< ref "/f32/language/pt.md" >}}) | 43 | 43 | 100.0 | /mnt/stockage/packages/f32/lxshortcut/po/pt.po | 
- | [pt_BR]({{< ref "/f32/language/pt_BR.md" >}}) | 43 | 43 | 100.0 | /mnt/stockage/packages/f32/lxshortcut/po/pt_BR.po | 
- | [ro]({{< ref "/f32/language/ro.md" >}}) | 43 | 43 | 100.0 | /mnt/stockage/packages/f32/lxshortcut/po/ro.po | 
- | [ru]({{< ref "/f32/language/ru.md" >}}) | 43 | 43 | 100.0 | /mnt/stockage/packages/f32/lxshortcut/po/ru.po | 
- | [si]({{< ref "/f32/language/si.md" >}}) | 43 | 43 | 100.0 | /mnt/stockage/packages/f32/lxshortcut/po/si.po | 
- | [sk]({{< ref "/f32/language/sk.md" >}}) | 43 | 43 | 100.0 | /mnt/stockage/packages/f32/lxshortcut/po/sk.po | 
- | [sl]({{< ref "/f32/language/sl.md" >}}) | 43 | 43 | 100.0 | /mnt/stockage/packages/f32/lxshortcut/po/sl.po | 
- | [sr]({{< ref "/f32/language/sr.md" >}}) | 43 | 43 | 100.0 | /mnt/stockage/packages/f32/lxshortcut/po/sr.po | 
- | [sr_Latn]({{< ref "/f32/language/sr_Latn.md" >}}) | 43 | 43 | 100.0 | /mnt/stockage/packages/f32/lxshortcut/po/sr@latin.po | 
- | [sv]({{< ref "/f32/language/sv.md" >}}) | 43 | 43 | 100.0 | /mnt/stockage/packages/f32/lxshortcut/po/sv.po | 
- | [te]({{< ref "/f32/language/te.md" >}}) | 43 | 43 | 100.0 | /mnt/stockage/packages/f32/lxshortcut/po/te.po | 
- | [tr]({{< ref "/f32/language/tr.md" >}}) | 43 | 43 | 100.0 | /mnt/stockage/packages/f32/lxshortcut/po/tr.po | 
- | [tt]({{< ref "/f32/language/tt.md" >}}) | 43 | 43 | 100.0 | /mnt/stockage/packages/f32/lxshortcut/po/tt_RU.po | 
- | [uk]({{< ref "/f32/language/uk.md" >}}) | 43 | 43 | 100.0 | /mnt/stockage/packages/f32/lxshortcut/po/uk.po | 
- | [ur]({{< ref "/f32/language/ur.md" >}}) | 86 | 86 | 100.0 | /mnt/stockage/packages/f32/lxshortcut/po/ur_PK.po/mnt/stockage/packages/f32/lxshortcut/po/ur.po | 
- | [vi]({{< ref "/f32/language/vi.md" >}}) | 43 | 43 | 100.0 | /mnt/stockage/packages/f32/lxshortcut/po/vi.po | 
- | [zh_Hans]({{< ref "/f32/language/zh_Hans.md" >}}) | 43 | 43 | 100.0 | /mnt/stockage/packages/f32/lxshortcut/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f32/language/zh_Hant.md" >}}) | 43 | 43 | 100.0 | /mnt/stockage/packages/f32/lxshortcut/po/zh_TW.po | 
- | [af]({{< ref "/f32/language/af.md" >}}) | 38 | 43 | 88.4 | /mnt/stockage/packages/f32/lxshortcut/po/af.po | 
- | [km]({{< ref "/f32/language/km.md" >}}) | 25 | 43 | 58.1 | /mnt/stockage/packages/f32/lxshortcut/po/km.po | 
- | [frp]({{< ref "/f32/language/frp.md" >}}) | 23 | 43 | 53.5 | /mnt/stockage/packages/f32/lxshortcut/po/frp.po | 
- | [am]({{< ref "/f32/language/am.md" >}}) | 13 | 43 | 30.2 | /mnt/stockage/packages/f32/lxshortcut/po/am.po | 
- | [eu]({{< ref "/f32/language/eu.md" >}}) | 0 | 43 | 0.0 | /mnt/stockage/packages/f32/lxshortcut/po/eu.po | 
- | [ko]({{< ref "/f32/language/ko.md" >}}) | 0 | 43 | 0.0 | /mnt/stockage/packages/f32/lxshortcut/po/ko.po | 
- | [ml]({{< ref "/f32/language/ml.md" >}}) | 0 | 43 | 0.0 | /mnt/stockage/packages/f32/lxshortcut/po/ml.po | 
- | [ps]({{< ref "/f32/language/ps.md" >}}) | 0 | 43 | 0.0 | /mnt/stockage/packages/f32/lxshortcut/po/ps.po | 
- | [th]({{< ref "/f32/language/th.md" >}}) | 0 | 43 | 0.0 | /mnt/stockage/packages/f32/lxshortcut/po/th.po | 
+ | [ar](/f32/language/ar) | 43 | 43 | 100.0 | /mnt/stockage/packages/f32/lxshortcut/po/ar.po | 
+ | [ast](/f32/language/ast) | 43 | 43 | 100.0 | /mnt/stockage/packages/f32/lxshortcut/po/ast.po | 
+ | [be](/f32/language/be) | 43 | 43 | 100.0 | /mnt/stockage/packages/f32/lxshortcut/po/be.po | 
+ | [bg](/f32/language/bg) | 43 | 43 | 100.0 | /mnt/stockage/packages/f32/lxshortcut/po/bg.po | 
+ | [bn](/f32/language/bn) | 43 | 43 | 100.0 | /mnt/stockage/packages/f32/lxshortcut/po/bn.po | 
+ | [bn_IN](/f32/language/bn_IN) | 43 | 43 | 100.0 | /mnt/stockage/packages/f32/lxshortcut/po/bn_IN.po | 
+ | [ca](/f32/language/ca) | 43 | 43 | 100.0 | /mnt/stockage/packages/f32/lxshortcut/po/ca.po | 
+ | [cs](/f32/language/cs) | 43 | 43 | 100.0 | /mnt/stockage/packages/f32/lxshortcut/po/cs.po | 
+ | [da](/f32/language/da) | 43 | 43 | 100.0 | /mnt/stockage/packages/f32/lxshortcut/po/da.po | 
+ | [de](/f32/language/de) | 43 | 43 | 100.0 | /mnt/stockage/packages/f32/lxshortcut/po/de.po | 
+ | [el](/f32/language/el) | 43 | 43 | 100.0 | /mnt/stockage/packages/f32/lxshortcut/po/el.po | 
+ | [en_GB](/f32/language/en_GB) | 43 | 43 | 100.0 | /mnt/stockage/packages/f32/lxshortcut/po/en_GB.po | 
+ | [es](/f32/language/es) | 86 | 86 | 100.0 | /mnt/stockage/packages/f32/lxshortcut/po/es_VE.po/mnt/stockage/packages/f32/lxshortcut/po/es.po | 
+ | [et](/f32/language/et) | 43 | 43 | 100.0 | /mnt/stockage/packages/f32/lxshortcut/po/et.po | 
+ | [fa](/f32/language/fa) | 43 | 43 | 100.0 | /mnt/stockage/packages/f32/lxshortcut/po/fa.po | 
+ | [fi](/f32/language/fi) | 43 | 43 | 100.0 | /mnt/stockage/packages/f32/lxshortcut/po/fi.po | 
+ | [fo](/f32/language/fo) | 43 | 43 | 100.0 | /mnt/stockage/packages/f32/lxshortcut/po/fo.po | 
+ | [fr](/f32/language/fr) | 43 | 43 | 100.0 | /mnt/stockage/packages/f32/lxshortcut/po/fr.po | 
+ | [gl](/f32/language/gl) | 43 | 43 | 100.0 | /mnt/stockage/packages/f32/lxshortcut/po/gl.po | 
+ | [he](/f32/language/he) | 43 | 43 | 100.0 | /mnt/stockage/packages/f32/lxshortcut/po/he.po | 
+ | [hr](/f32/language/hr) | 43 | 43 | 100.0 | /mnt/stockage/packages/f32/lxshortcut/po/hr.po | 
+ | [hu](/f32/language/hu) | 43 | 43 | 100.0 | /mnt/stockage/packages/f32/lxshortcut/po/hu.po | 
+ | [id](/f32/language/id) | 43 | 43 | 100.0 | /mnt/stockage/packages/f32/lxshortcut/po/id.po | 
+ | [it](/f32/language/it) | 43 | 43 | 100.0 | /mnt/stockage/packages/f32/lxshortcut/po/it.po | 
+ | [ja](/f32/language/ja) | 43 | 43 | 100.0 | /mnt/stockage/packages/f32/lxshortcut/po/ja.po | 
+ | [lg](/f32/language/lg) | 43 | 43 | 100.0 | /mnt/stockage/packages/f32/lxshortcut/po/lg.po | 
+ | [lt](/f32/language/lt) | 43 | 43 | 100.0 | /mnt/stockage/packages/f32/lxshortcut/po/lt.po | 
+ | [ms](/f32/language/ms) | 43 | 43 | 100.0 | /mnt/stockage/packages/f32/lxshortcut/po/ms.po | 
+ | [nb_NO](/f32/language/nb_NO) | 43 | 43 | 100.0 | /mnt/stockage/packages/f32/lxshortcut/po/nb.po | 
+ | [nl](/f32/language/nl) | 43 | 43 | 100.0 | /mnt/stockage/packages/f32/lxshortcut/po/nl.po | 
+ | [nn](/f32/language/nn) | 43 | 43 | 100.0 | /mnt/stockage/packages/f32/lxshortcut/po/nn.po | 
+ | [pl](/f32/language/pl) | 43 | 43 | 100.0 | /mnt/stockage/packages/f32/lxshortcut/po/pl.po | 
+ | [pt](/f32/language/pt) | 43 | 43 | 100.0 | /mnt/stockage/packages/f32/lxshortcut/po/pt.po | 
+ | [pt_BR](/f32/language/pt_BR) | 43 | 43 | 100.0 | /mnt/stockage/packages/f32/lxshortcut/po/pt_BR.po | 
+ | [ro](/f32/language/ro) | 43 | 43 | 100.0 | /mnt/stockage/packages/f32/lxshortcut/po/ro.po | 
+ | [ru](/f32/language/ru) | 43 | 43 | 100.0 | /mnt/stockage/packages/f32/lxshortcut/po/ru.po | 
+ | [si](/f32/language/si) | 43 | 43 | 100.0 | /mnt/stockage/packages/f32/lxshortcut/po/si.po | 
+ | [sk](/f32/language/sk) | 43 | 43 | 100.0 | /mnt/stockage/packages/f32/lxshortcut/po/sk.po | 
+ | [sl](/f32/language/sl) | 43 | 43 | 100.0 | /mnt/stockage/packages/f32/lxshortcut/po/sl.po | 
+ | [sr](/f32/language/sr) | 43 | 43 | 100.0 | /mnt/stockage/packages/f32/lxshortcut/po/sr.po | 
+ | [sr_Latn](/f32/language/sr_Latn) | 43 | 43 | 100.0 | /mnt/stockage/packages/f32/lxshortcut/po/sr@latin.po | 
+ | [sv](/f32/language/sv) | 43 | 43 | 100.0 | /mnt/stockage/packages/f32/lxshortcut/po/sv.po | 
+ | [te](/f32/language/te) | 43 | 43 | 100.0 | /mnt/stockage/packages/f32/lxshortcut/po/te.po | 
+ | [tr](/f32/language/tr) | 43 | 43 | 100.0 | /mnt/stockage/packages/f32/lxshortcut/po/tr.po | 
+ | [tt](/f32/language/tt) | 43 | 43 | 100.0 | /mnt/stockage/packages/f32/lxshortcut/po/tt_RU.po | 
+ | [uk](/f32/language/uk) | 43 | 43 | 100.0 | /mnt/stockage/packages/f32/lxshortcut/po/uk.po | 
+ | [ur](/f32/language/ur) | 86 | 86 | 100.0 | /mnt/stockage/packages/f32/lxshortcut/po/ur_PK.po/mnt/stockage/packages/f32/lxshortcut/po/ur.po | 
+ | [vi](/f32/language/vi) | 43 | 43 | 100.0 | /mnt/stockage/packages/f32/lxshortcut/po/vi.po | 
+ | [zh_Hans](/f32/language/zh_Hans) | 43 | 43 | 100.0 | /mnt/stockage/packages/f32/lxshortcut/po/zh_CN.po | 
+ | [zh_Hant](/f32/language/zh_Hant) | 43 | 43 | 100.0 | /mnt/stockage/packages/f32/lxshortcut/po/zh_TW.po | 
+ | [af](/f32/language/af) | 38 | 43 | 88.4 | /mnt/stockage/packages/f32/lxshortcut/po/af.po | 
+ | [km](/f32/language/km) | 25 | 43 | 58.1 | /mnt/stockage/packages/f32/lxshortcut/po/km.po | 
+ | [frp](/f32/language/frp) | 23 | 43 | 53.5 | /mnt/stockage/packages/f32/lxshortcut/po/frp.po | 
+ | [am](/f32/language/am) | 13 | 43 | 30.2 | /mnt/stockage/packages/f32/lxshortcut/po/am.po | 
+ | [eu](/f32/language/eu) | 0 | 43 | 0.0 | /mnt/stockage/packages/f32/lxshortcut/po/eu.po | 
+ | [ko](/f32/language/ko) | 0 | 43 | 0.0 | /mnt/stockage/packages/f32/lxshortcut/po/ko.po | 
+ | [ml](/f32/language/ml) | 0 | 43 | 0.0 | /mnt/stockage/packages/f32/lxshortcut/po/ml.po | 
+ | [ps](/f32/language/ps) | 0 | 43 | 0.0 | /mnt/stockage/packages/f32/lxshortcut/po/ps.po | 
+ | [th](/f32/language/th) | 0 | 43 | 0.0 | /mnt/stockage/packages/f32/lxshortcut/po/th.po | 
 {.sortable}
 
 

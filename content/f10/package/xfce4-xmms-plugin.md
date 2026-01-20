@@ -18,18 +18,18 @@ The package xfce4-xmms-plugin (version 0.5.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f10/language/ca.md" >}}) | 52 | 52 | 100.0 | /mnt/stockage/packages/f10/xfce4-xmms-plugin/po/ca.po | 
- | [cs]({{< ref "/f10/language/cs.md" >}}) | 52 | 52 | 100.0 | /mnt/stockage/packages/f10/xfce4-xmms-plugin/po/cs.po | 
- | [de]({{< ref "/f10/language/de.md" >}}) | 52 | 52 | 100.0 | /mnt/stockage/packages/f10/xfce4-xmms-plugin/po/de.po | 
- | [eu]({{< ref "/f10/language/eu.md" >}}) | 52 | 52 | 100.0 | /mnt/stockage/packages/f10/xfce4-xmms-plugin/po/eu.po | 
- | [fr]({{< ref "/f10/language/fr.md" >}}) | 52 | 52 | 100.0 | /mnt/stockage/packages/f10/xfce4-xmms-plugin/po/fr.po | 
- | [hu]({{< ref "/f10/language/hu.md" >}}) | 52 | 52 | 100.0 | /mnt/stockage/packages/f10/xfce4-xmms-plugin/po/hu.po | 
- | [pl]({{< ref "/f10/language/pl.md" >}}) | 52 | 52 | 100.0 | /mnt/stockage/packages/f10/xfce4-xmms-plugin/po/pl.po | 
- | [tr]({{< ref "/f10/language/tr.md" >}}) | 52 | 52 | 100.0 | /mnt/stockage/packages/f10/xfce4-xmms-plugin/po/tr.po | 
- | [ja]({{< ref "/f10/language/ja.md" >}}) | 14 | 52 | 26.9 | /mnt/stockage/packages/f10/xfce4-xmms-plugin/po/ja.po | 
- | [ko]({{< ref "/f10/language/ko.md" >}}) | 14 | 52 | 26.9 | /mnt/stockage/packages/f10/xfce4-xmms-plugin/po/ko.po | 
- | [vi]({{< ref "/f10/language/vi.md" >}}) | 14 | 52 | 26.9 | /mnt/stockage/packages/f10/xfce4-xmms-plugin/po/vi.po | 
- | [lt]({{< ref "/f10/language/lt.md" >}}) | 0 | 52 | 0.0 | /mnt/stockage/packages/f10/xfce4-xmms-plugin/po/lt.po | 
+ | [ca](/f10/language/ca) | 52 | 52 | 100.0 | /mnt/stockage/packages/f10/xfce4-xmms-plugin/po/ca.po | 
+ | [cs](/f10/language/cs) | 52 | 52 | 100.0 | /mnt/stockage/packages/f10/xfce4-xmms-plugin/po/cs.po | 
+ | [de](/f10/language/de) | 52 | 52 | 100.0 | /mnt/stockage/packages/f10/xfce4-xmms-plugin/po/de.po | 
+ | [eu](/f10/language/eu) | 52 | 52 | 100.0 | /mnt/stockage/packages/f10/xfce4-xmms-plugin/po/eu.po | 
+ | [fr](/f10/language/fr) | 52 | 52 | 100.0 | /mnt/stockage/packages/f10/xfce4-xmms-plugin/po/fr.po | 
+ | [hu](/f10/language/hu) | 52 | 52 | 100.0 | /mnt/stockage/packages/f10/xfce4-xmms-plugin/po/hu.po | 
+ | [pl](/f10/language/pl) | 52 | 52 | 100.0 | /mnt/stockage/packages/f10/xfce4-xmms-plugin/po/pl.po | 
+ | [tr](/f10/language/tr) | 52 | 52 | 100.0 | /mnt/stockage/packages/f10/xfce4-xmms-plugin/po/tr.po | 
+ | [ja](/f10/language/ja) | 14 | 52 | 26.9 | /mnt/stockage/packages/f10/xfce4-xmms-plugin/po/ja.po | 
+ | [ko](/f10/language/ko) | 14 | 52 | 26.9 | /mnt/stockage/packages/f10/xfce4-xmms-plugin/po/ko.po | 
+ | [vi](/f10/language/vi) | 14 | 52 | 26.9 | /mnt/stockage/packages/f10/xfce4-xmms-plugin/po/vi.po | 
+ | [lt](/f10/language/lt) | 0 | 52 | 0.0 | /mnt/stockage/packages/f10/xfce4-xmms-plugin/po/lt.po | 
 {.sortable}
 
 

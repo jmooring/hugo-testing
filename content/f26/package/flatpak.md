@@ -18,19 +18,19 @@ The package flatpak (version 0.10.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [pl]({{< ref "/f26/language/pl.md" >}}) | 2916 | 2916 | 100.0 | /mnt/stockage/packages/f26/flatpak/po/pl.po | 
- | [id]({{< ref "/f26/language/id.md" >}}) | 2806 | 2916 | 96.2 | /mnt/stockage/packages/f26/flatpak/po/id.po | 
- | [sv]({{< ref "/f26/language/sv.md" >}}) | 2806 | 2916 | 96.2 | /mnt/stockage/packages/f26/flatpak/po/sv.po | 
- | [uk]({{< ref "/f26/language/uk.md" >}}) | 2707 | 2916 | 92.8 | /mnt/stockage/packages/f26/flatpak/po/uk.po | 
- | [cs]({{< ref "/f26/language/cs.md" >}}) | 2492 | 2916 | 85.5 | /mnt/stockage/packages/f26/flatpak/po/cs.po | 
- | [gl]({{< ref "/f26/language/gl.md" >}}) | 2423 | 2916 | 83.1 | /mnt/stockage/packages/f26/flatpak/po/gl.po | 
- | [es]({{< ref "/f26/language/es.md" >}}) | 2359 | 2916 | 80.9 | /mnt/stockage/packages/f26/flatpak/po/es.po | 
- | [pt_BR]({{< ref "/f26/language/pt_BR.md" >}}) | 2359 | 2916 | 80.9 | /mnt/stockage/packages/f26/flatpak/po/pt_BR.po | 
- | [hu]({{< ref "/f26/language/hu.md" >}}) | 2253 | 2916 | 77.3 | /mnt/stockage/packages/f26/flatpak/po/hu.po | 
- | [tr]({{< ref "/f26/language/tr.md" >}}) | 2189 | 2916 | 75.1 | /mnt/stockage/packages/f26/flatpak/po/tr.po | 
- | [de]({{< ref "/f26/language/de.md" >}}) | 2026 | 2916 | 69.5 | /mnt/stockage/packages/f26/flatpak/po/de.po | 
- | [ru]({{< ref "/f26/language/ru.md" >}}) | 2003 | 2916 | 68.7 | /mnt/stockage/packages/f26/flatpak/po/ru.po | 
- | [sk]({{< ref "/f26/language/sk.md" >}}) | 633 | 2916 | 21.7 | /mnt/stockage/packages/f26/flatpak/po/sk.po | 
+ | [pl](/f26/language/pl) | 2916 | 2916 | 100.0 | /mnt/stockage/packages/f26/flatpak/po/pl.po | 
+ | [id](/f26/language/id) | 2806 | 2916 | 96.2 | /mnt/stockage/packages/f26/flatpak/po/id.po | 
+ | [sv](/f26/language/sv) | 2806 | 2916 | 96.2 | /mnt/stockage/packages/f26/flatpak/po/sv.po | 
+ | [uk](/f26/language/uk) | 2707 | 2916 | 92.8 | /mnt/stockage/packages/f26/flatpak/po/uk.po | 
+ | [cs](/f26/language/cs) | 2492 | 2916 | 85.5 | /mnt/stockage/packages/f26/flatpak/po/cs.po | 
+ | [gl](/f26/language/gl) | 2423 | 2916 | 83.1 | /mnt/stockage/packages/f26/flatpak/po/gl.po | 
+ | [es](/f26/language/es) | 2359 | 2916 | 80.9 | /mnt/stockage/packages/f26/flatpak/po/es.po | 
+ | [pt_BR](/f26/language/pt_BR) | 2359 | 2916 | 80.9 | /mnt/stockage/packages/f26/flatpak/po/pt_BR.po | 
+ | [hu](/f26/language/hu) | 2253 | 2916 | 77.3 | /mnt/stockage/packages/f26/flatpak/po/hu.po | 
+ | [tr](/f26/language/tr) | 2189 | 2916 | 75.1 | /mnt/stockage/packages/f26/flatpak/po/tr.po | 
+ | [de](/f26/language/de) | 2026 | 2916 | 69.5 | /mnt/stockage/packages/f26/flatpak/po/de.po | 
+ | [ru](/f26/language/ru) | 2003 | 2916 | 68.7 | /mnt/stockage/packages/f26/flatpak/po/ru.po | 
+ | [sk](/f26/language/sk) | 633 | 2916 | 21.7 | /mnt/stockage/packages/f26/flatpak/po/sk.po | 
 {.sortable}
 
 

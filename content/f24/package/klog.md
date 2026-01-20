@@ -18,13 +18,13 @@ The package klog (version 0.5.6):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [es]({{< ref "/f24/language/es.md" >}}) | 1738 | 1738 | 100.0 | /mnt/stockage/packages/f24/klog/po/es.po | 
- | [sv]({{< ref "/f24/language/sv.md" >}}) | 1393 | 1738 | 80.1 | /mnt/stockage/packages/f24/klog/po/sv.po | 
- | [de]({{< ref "/f24/language/de.md" >}}) | 1391 | 1738 | 80.0 | /mnt/stockage/packages/f24/klog/po/de.po | 
- | [gl]({{< ref "/f24/language/gl.md" >}}) | 550 | 1738 | 31.6 | /mnt/stockage/packages/f24/klog/po/gl.po | 
- | [sr]({{< ref "/f24/language/sr.md" >}}) | 362 | 1738 | 20.8 | /mnt/stockage/packages/f24/klog/po/sr.po | 
- | [pt_BR]({{< ref "/f24/language/pt_BR.md" >}}) | 107 | 1738 | 6.2 | /mnt/stockage/packages/f24/klog/po/pt_BR.po | 
- | [pt]({{< ref "/f24/language/pt.md" >}}) | 106 | 1738 | 6.1 | /mnt/stockage/packages/f24/klog/po/pt.po | 
+ | [es](/f24/language/es) | 1738 | 1738 | 100.0 | /mnt/stockage/packages/f24/klog/po/es.po | 
+ | [sv](/f24/language/sv) | 1393 | 1738 | 80.1 | /mnt/stockage/packages/f24/klog/po/sv.po | 
+ | [de](/f24/language/de) | 1391 | 1738 | 80.0 | /mnt/stockage/packages/f24/klog/po/de.po | 
+ | [gl](/f24/language/gl) | 550 | 1738 | 31.6 | /mnt/stockage/packages/f24/klog/po/gl.po | 
+ | [sr](/f24/language/sr) | 362 | 1738 | 20.8 | /mnt/stockage/packages/f24/klog/po/sr.po | 
+ | [pt_BR](/f24/language/pt_BR) | 107 | 1738 | 6.2 | /mnt/stockage/packages/f24/klog/po/pt_BR.po | 
+ | [pt](/f24/language/pt) | 106 | 1738 | 6.1 | /mnt/stockage/packages/f24/klog/po/pt.po | 
 {.sortable}
 
 

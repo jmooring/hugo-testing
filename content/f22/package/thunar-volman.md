@@ -18,59 +18,59 @@ The package thunar-volman (version 0.8.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f22/language/ar.md" >}}) | 487 | 487 | 100.0 | /mnt/stockage/packages/f22/thunar-volman/po/ar.po | 
- | [ast]({{< ref "/f22/language/ast.md" >}}) | 487 | 487 | 100.0 | /mnt/stockage/packages/f22/thunar-volman/po/ast.po | 
- | [bg]({{< ref "/f22/language/bg.md" >}}) | 487 | 487 | 100.0 | /mnt/stockage/packages/f22/thunar-volman/po/bg.po | 
- | [cs]({{< ref "/f22/language/cs.md" >}}) | 487 | 487 | 100.0 | /mnt/stockage/packages/f22/thunar-volman/po/cs.po | 
- | [da]({{< ref "/f22/language/da.md" >}}) | 487 | 487 | 100.0 | /mnt/stockage/packages/f22/thunar-volman/po/da.po | 
- | [de]({{< ref "/f22/language/de.md" >}}) | 487 | 487 | 100.0 | /mnt/stockage/packages/f22/thunar-volman/po/de.po | 
- | [el]({{< ref "/f22/language/el.md" >}}) | 487 | 487 | 100.0 | /mnt/stockage/packages/f22/thunar-volman/po/el.po | 
- | [en_AU]({{< ref "/f22/language/en_AU.md" >}}) | 487 | 487 | 100.0 | /mnt/stockage/packages/f22/thunar-volman/po/en_AU.po | 
- | [es]({{< ref "/f22/language/es.md" >}}) | 487 | 487 | 100.0 | /mnt/stockage/packages/f22/thunar-volman/po/es.po | 
- | [fi]({{< ref "/f22/language/fi.md" >}}) | 487 | 487 | 100.0 | /mnt/stockage/packages/f22/thunar-volman/po/fi.po | 
- | [fr]({{< ref "/f22/language/fr.md" >}}) | 487 | 487 | 100.0 | /mnt/stockage/packages/f22/thunar-volman/po/fr.po | 
- | [he]({{< ref "/f22/language/he.md" >}}) | 487 | 487 | 100.0 | /mnt/stockage/packages/f22/thunar-volman/po/he.po | 
- | [hr]({{< ref "/f22/language/hr.md" >}}) | 487 | 487 | 100.0 | /mnt/stockage/packages/f22/thunar-volman/po/hr.po | 
- | [hu]({{< ref "/f22/language/hu.md" >}}) | 487 | 487 | 100.0 | /mnt/stockage/packages/f22/thunar-volman/po/hu.po | 
- | [id]({{< ref "/f22/language/id.md" >}}) | 487 | 487 | 100.0 | /mnt/stockage/packages/f22/thunar-volman/po/id.po | 
- | [is]({{< ref "/f22/language/is.md" >}}) | 487 | 487 | 100.0 | /mnt/stockage/packages/f22/thunar-volman/po/is.po | 
- | [it]({{< ref "/f22/language/it.md" >}}) | 487 | 487 | 100.0 | /mnt/stockage/packages/f22/thunar-volman/po/it.po | 
- | [ja]({{< ref "/f22/language/ja.md" >}}) | 487 | 487 | 100.0 | /mnt/stockage/packages/f22/thunar-volman/po/ja.po | 
- | [kk]({{< ref "/f22/language/kk.md" >}}) | 487 | 487 | 100.0 | /mnt/stockage/packages/f22/thunar-volman/po/kk.po | 
- | [ko]({{< ref "/f22/language/ko.md" >}}) | 487 | 487 | 100.0 | /mnt/stockage/packages/f22/thunar-volman/po/ko.po | 
- | [ms]({{< ref "/f22/language/ms.md" >}}) | 487 | 487 | 100.0 | /mnt/stockage/packages/f22/thunar-volman/po/ms.po | 
- | [nb_NO]({{< ref "/f22/language/nb_NO.md" >}}) | 487 | 487 | 100.0 | /mnt/stockage/packages/f22/thunar-volman/po/nb.po | 
- | [nl]({{< ref "/f22/language/nl.md" >}}) | 487 | 487 | 100.0 | /mnt/stockage/packages/f22/thunar-volman/po/nl.po | 
- | [oc]({{< ref "/f22/language/oc.md" >}}) | 487 | 487 | 100.0 | /mnt/stockage/packages/f22/thunar-volman/po/oc.po | 
- | [pl]({{< ref "/f22/language/pl.md" >}}) | 487 | 487 | 100.0 | /mnt/stockage/packages/f22/thunar-volman/po/pl.po | 
- | [pt]({{< ref "/f22/language/pt.md" >}}) | 487 | 487 | 100.0 | /mnt/stockage/packages/f22/thunar-volman/po/pt.po | 
- | [pt_BR]({{< ref "/f22/language/pt_BR.md" >}}) | 487 | 487 | 100.0 | /mnt/stockage/packages/f22/thunar-volman/po/pt_BR.po | 
- | [ro]({{< ref "/f22/language/ro.md" >}}) | 487 | 487 | 100.0 | /mnt/stockage/packages/f22/thunar-volman/po/ro.po | 
- | [ru]({{< ref "/f22/language/ru.md" >}}) | 487 | 487 | 100.0 | /mnt/stockage/packages/f22/thunar-volman/po/ru.po | 
- | [sk]({{< ref "/f22/language/sk.md" >}}) | 487 | 487 | 100.0 | /mnt/stockage/packages/f22/thunar-volman/po/sk.po | 
- | [sl]({{< ref "/f22/language/sl.md" >}}) | 487 | 487 | 100.0 | /mnt/stockage/packages/f22/thunar-volman/po/sl.po | 
- | [sr]({{< ref "/f22/language/sr.md" >}}) | 487 | 487 | 100.0 | /mnt/stockage/packages/f22/thunar-volman/po/sr.po | 
- | [sv]({{< ref "/f22/language/sv.md" >}}) | 487 | 487 | 100.0 | /mnt/stockage/packages/f22/thunar-volman/po/sv.po | 
- | [th]({{< ref "/f22/language/th.md" >}}) | 487 | 487 | 100.0 | /mnt/stockage/packages/f22/thunar-volman/po/th.po | 
- | [tr]({{< ref "/f22/language/tr.md" >}}) | 487 | 487 | 100.0 | /mnt/stockage/packages/f22/thunar-volman/po/tr.po | 
- | [ug]({{< ref "/f22/language/ug.md" >}}) | 487 | 487 | 100.0 | /mnt/stockage/packages/f22/thunar-volman/po/ug.po | 
- | [uk]({{< ref "/f22/language/uk.md" >}}) | 487 | 487 | 100.0 | /mnt/stockage/packages/f22/thunar-volman/po/uk.po | 
- | [zh_Hans]({{< ref "/f22/language/zh_Hans.md" >}}) | 487 | 487 | 100.0 | /mnt/stockage/packages/f22/thunar-volman/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f22/language/zh_Hant.md" >}}) | 487 | 487 | 100.0 | /mnt/stockage/packages/f22/thunar-volman/po/zh_TW.po | 
- | [zh_Hant_HK]({{< ref "/f22/language/zh_Hant_HK.md" >}}) | 487 | 487 | 100.0 | /mnt/stockage/packages/f22/thunar-volman/po/zh_HK.po | 
- | [ca]({{< ref "/f22/language/ca.md" >}}) | 479 | 487 | 98.4 | /mnt/stockage/packages/f22/thunar-volman/po/ca.po | 
- | [en_GB]({{< ref "/f22/language/en_GB.md" >}}) | 479 | 487 | 98.4 | /mnt/stockage/packages/f22/thunar-volman/po/en_GB.po | 
- | [eu]({{< ref "/f22/language/eu.md" >}}) | 479 | 487 | 98.4 | /mnt/stockage/packages/f22/thunar-volman/po/eu.po | 
- | [gl]({{< ref "/f22/language/gl.md" >}}) | 479 | 487 | 98.4 | /mnt/stockage/packages/f22/thunar-volman/po/gl.po | 
- | [lt]({{< ref "/f22/language/lt.md" >}}) | 459 | 487 | 94.3 | /mnt/stockage/packages/f22/thunar-volman/po/lt.po | 
- | [nn]({{< ref "/f22/language/nn.md" >}}) | 459 | 487 | 94.3 | /mnt/stockage/packages/f22/thunar-volman/po/nn.po | 
- | [te]({{< ref "/f22/language/te.md" >}}) | 341 | 487 | 70.0 | /mnt/stockage/packages/f22/thunar-volman/po/te.po | 
- | [vi]({{< ref "/f22/language/vi.md" >}}) | 305 | 487 | 62.6 | /mnt/stockage/packages/f22/thunar-volman/po/vi.po | 
- | [lv]({{< ref "/f22/language/lv.md" >}}) | 260 | 487 | 53.4 | /mnt/stockage/packages/f22/thunar-volman/po/lv.po | 
- | [sq]({{< ref "/f22/language/sq.md" >}}) | 260 | 487 | 53.4 | /mnt/stockage/packages/f22/thunar-volman/po/sq.po | 
- | [ur]({{< ref "/f22/language/ur.md" >}}) | 260 | 487 | 53.4 | /mnt/stockage/packages/f22/thunar-volman/po/ur.po | 
- | [ur_PK]({{< ref "/f22/language/ur_PK.md" >}}) | 260 | 487 | 53.4 | /mnt/stockage/packages/f22/thunar-volman/po/ur_PK.po | 
- | [be]({{< ref "/f22/language/be.md" >}}) | 137 | 483 | 28.4 | /mnt/stockage/packages/f22/thunar-volman/po/be.po | 
+ | [ar](/f22/language/ar) | 487 | 487 | 100.0 | /mnt/stockage/packages/f22/thunar-volman/po/ar.po | 
+ | [ast](/f22/language/ast) | 487 | 487 | 100.0 | /mnt/stockage/packages/f22/thunar-volman/po/ast.po | 
+ | [bg](/f22/language/bg) | 487 | 487 | 100.0 | /mnt/stockage/packages/f22/thunar-volman/po/bg.po | 
+ | [cs](/f22/language/cs) | 487 | 487 | 100.0 | /mnt/stockage/packages/f22/thunar-volman/po/cs.po | 
+ | [da](/f22/language/da) | 487 | 487 | 100.0 | /mnt/stockage/packages/f22/thunar-volman/po/da.po | 
+ | [de](/f22/language/de) | 487 | 487 | 100.0 | /mnt/stockage/packages/f22/thunar-volman/po/de.po | 
+ | [el](/f22/language/el) | 487 | 487 | 100.0 | /mnt/stockage/packages/f22/thunar-volman/po/el.po | 
+ | [en_AU](/f22/language/en_AU) | 487 | 487 | 100.0 | /mnt/stockage/packages/f22/thunar-volman/po/en_AU.po | 
+ | [es](/f22/language/es) | 487 | 487 | 100.0 | /mnt/stockage/packages/f22/thunar-volman/po/es.po | 
+ | [fi](/f22/language/fi) | 487 | 487 | 100.0 | /mnt/stockage/packages/f22/thunar-volman/po/fi.po | 
+ | [fr](/f22/language/fr) | 487 | 487 | 100.0 | /mnt/stockage/packages/f22/thunar-volman/po/fr.po | 
+ | [he](/f22/language/he) | 487 | 487 | 100.0 | /mnt/stockage/packages/f22/thunar-volman/po/he.po | 
+ | [hr](/f22/language/hr) | 487 | 487 | 100.0 | /mnt/stockage/packages/f22/thunar-volman/po/hr.po | 
+ | [hu](/f22/language/hu) | 487 | 487 | 100.0 | /mnt/stockage/packages/f22/thunar-volman/po/hu.po | 
+ | [id](/f22/language/id) | 487 | 487 | 100.0 | /mnt/stockage/packages/f22/thunar-volman/po/id.po | 
+ | [is](/f22/language/is) | 487 | 487 | 100.0 | /mnt/stockage/packages/f22/thunar-volman/po/is.po | 
+ | [it](/f22/language/it) | 487 | 487 | 100.0 | /mnt/stockage/packages/f22/thunar-volman/po/it.po | 
+ | [ja](/f22/language/ja) | 487 | 487 | 100.0 | /mnt/stockage/packages/f22/thunar-volman/po/ja.po | 
+ | [kk](/f22/language/kk) | 487 | 487 | 100.0 | /mnt/stockage/packages/f22/thunar-volman/po/kk.po | 
+ | [ko](/f22/language/ko) | 487 | 487 | 100.0 | /mnt/stockage/packages/f22/thunar-volman/po/ko.po | 
+ | [ms](/f22/language/ms) | 487 | 487 | 100.0 | /mnt/stockage/packages/f22/thunar-volman/po/ms.po | 
+ | [nb_NO](/f22/language/nb_NO) | 487 | 487 | 100.0 | /mnt/stockage/packages/f22/thunar-volman/po/nb.po | 
+ | [nl](/f22/language/nl) | 487 | 487 | 100.0 | /mnt/stockage/packages/f22/thunar-volman/po/nl.po | 
+ | [oc](/f22/language/oc) | 487 | 487 | 100.0 | /mnt/stockage/packages/f22/thunar-volman/po/oc.po | 
+ | [pl](/f22/language/pl) | 487 | 487 | 100.0 | /mnt/stockage/packages/f22/thunar-volman/po/pl.po | 
+ | [pt](/f22/language/pt) | 487 | 487 | 100.0 | /mnt/stockage/packages/f22/thunar-volman/po/pt.po | 
+ | [pt_BR](/f22/language/pt_BR) | 487 | 487 | 100.0 | /mnt/stockage/packages/f22/thunar-volman/po/pt_BR.po | 
+ | [ro](/f22/language/ro) | 487 | 487 | 100.0 | /mnt/stockage/packages/f22/thunar-volman/po/ro.po | 
+ | [ru](/f22/language/ru) | 487 | 487 | 100.0 | /mnt/stockage/packages/f22/thunar-volman/po/ru.po | 
+ | [sk](/f22/language/sk) | 487 | 487 | 100.0 | /mnt/stockage/packages/f22/thunar-volman/po/sk.po | 
+ | [sl](/f22/language/sl) | 487 | 487 | 100.0 | /mnt/stockage/packages/f22/thunar-volman/po/sl.po | 
+ | [sr](/f22/language/sr) | 487 | 487 | 100.0 | /mnt/stockage/packages/f22/thunar-volman/po/sr.po | 
+ | [sv](/f22/language/sv) | 487 | 487 | 100.0 | /mnt/stockage/packages/f22/thunar-volman/po/sv.po | 
+ | [th](/f22/language/th) | 487 | 487 | 100.0 | /mnt/stockage/packages/f22/thunar-volman/po/th.po | 
+ | [tr](/f22/language/tr) | 487 | 487 | 100.0 | /mnt/stockage/packages/f22/thunar-volman/po/tr.po | 
+ | [ug](/f22/language/ug) | 487 | 487 | 100.0 | /mnt/stockage/packages/f22/thunar-volman/po/ug.po | 
+ | [uk](/f22/language/uk) | 487 | 487 | 100.0 | /mnt/stockage/packages/f22/thunar-volman/po/uk.po | 
+ | [zh_Hans](/f22/language/zh_Hans) | 487 | 487 | 100.0 | /mnt/stockage/packages/f22/thunar-volman/po/zh_CN.po | 
+ | [zh_Hant](/f22/language/zh_Hant) | 487 | 487 | 100.0 | /mnt/stockage/packages/f22/thunar-volman/po/zh_TW.po | 
+ | [zh_Hant_HK](/f22/language/zh_Hant_HK) | 487 | 487 | 100.0 | /mnt/stockage/packages/f22/thunar-volman/po/zh_HK.po | 
+ | [ca](/f22/language/ca) | 479 | 487 | 98.4 | /mnt/stockage/packages/f22/thunar-volman/po/ca.po | 
+ | [en_GB](/f22/language/en_GB) | 479 | 487 | 98.4 | /mnt/stockage/packages/f22/thunar-volman/po/en_GB.po | 
+ | [eu](/f22/language/eu) | 479 | 487 | 98.4 | /mnt/stockage/packages/f22/thunar-volman/po/eu.po | 
+ | [gl](/f22/language/gl) | 479 | 487 | 98.4 | /mnt/stockage/packages/f22/thunar-volman/po/gl.po | 
+ | [lt](/f22/language/lt) | 459 | 487 | 94.3 | /mnt/stockage/packages/f22/thunar-volman/po/lt.po | 
+ | [nn](/f22/language/nn) | 459 | 487 | 94.3 | /mnt/stockage/packages/f22/thunar-volman/po/nn.po | 
+ | [te](/f22/language/te) | 341 | 487 | 70.0 | /mnt/stockage/packages/f22/thunar-volman/po/te.po | 
+ | [vi](/f22/language/vi) | 305 | 487 | 62.6 | /mnt/stockage/packages/f22/thunar-volman/po/vi.po | 
+ | [lv](/f22/language/lv) | 260 | 487 | 53.4 | /mnt/stockage/packages/f22/thunar-volman/po/lv.po | 
+ | [sq](/f22/language/sq) | 260 | 487 | 53.4 | /mnt/stockage/packages/f22/thunar-volman/po/sq.po | 
+ | [ur](/f22/language/ur) | 260 | 487 | 53.4 | /mnt/stockage/packages/f22/thunar-volman/po/ur.po | 
+ | [ur_PK](/f22/language/ur_PK) | 260 | 487 | 53.4 | /mnt/stockage/packages/f22/thunar-volman/po/ur_PK.po | 
+ | [be](/f22/language/be) | 137 | 483 | 28.4 | /mnt/stockage/packages/f22/thunar-volman/po/be.po | 
 {.sortable}
 
 

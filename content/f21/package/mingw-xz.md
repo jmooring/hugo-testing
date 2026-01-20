@@ -18,11 +18,11 @@ The package mingw-xz (version 5.1.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f21/language/fr.md" >}}) | 1201 | 1241 | 96.8 | /mnt/stockage/packages/f21/mingw-xz/po/fr.po | 
- | [pl]({{< ref "/f21/language/pl.md" >}}) | 1201 | 1241 | 96.8 | /mnt/stockage/packages/f21/mingw-xz/po/pl.po | 
- | [it]({{< ref "/f21/language/it.md" >}}) | 1186 | 1241 | 95.6 | /mnt/stockage/packages/f21/mingw-xz/po/it.po | 
- | [de]({{< ref "/f21/language/de.md" >}}) | 1181 | 1241 | 95.2 | /mnt/stockage/packages/f21/mingw-xz/po/de.po | 
- | [cs]({{< ref "/f21/language/cs.md" >}}) | 1130 | 1241 | 91.1 | /mnt/stockage/packages/f21/mingw-xz/po/cs.po | 
+ | [fr](/f21/language/fr) | 1201 | 1241 | 96.8 | /mnt/stockage/packages/f21/mingw-xz/po/fr.po | 
+ | [pl](/f21/language/pl) | 1201 | 1241 | 96.8 | /mnt/stockage/packages/f21/mingw-xz/po/pl.po | 
+ | [it](/f21/language/it) | 1186 | 1241 | 95.6 | /mnt/stockage/packages/f21/mingw-xz/po/it.po | 
+ | [de](/f21/language/de) | 1181 | 1241 | 95.2 | /mnt/stockage/packages/f21/mingw-xz/po/de.po | 
+ | [cs](/f21/language/cs) | 1130 | 1241 | 91.1 | /mnt/stockage/packages/f21/mingw-xz/po/cs.po | 
 {.sortable}
 
 

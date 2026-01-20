@@ -18,10 +18,10 @@ The package xfce4-smartbookmark-plugin (version 0.4.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [hu]({{< ref "/f11/language/hu.md" >}}) | 7 | 7 | 100.0 | /mnt/stockage/packages/f11/xfce4-smartbookmark-plugin/po/hu.po | 
- | [it]({{< ref "/f11/language/it.md" >}}) | 6 | 7 | 85.7 | /mnt/stockage/packages/f11/xfce4-smartbookmark-plugin/po/it.po | 
- | [fr]({{< ref "/f11/language/fr.md" >}}) | 4 | 7 | 57.1 | /mnt/stockage/packages/f11/xfce4-smartbookmark-plugin/po/fr.po | 
- | [zh_Hant]({{< ref "/f11/language/zh_Hant.md" >}}) | 4 | 7 | 57.1 | /mnt/stockage/packages/f11/xfce4-smartbookmark-plugin/po/zh_TW.po | 
+ | [hu](/f11/language/hu) | 7 | 7 | 100.0 | /mnt/stockage/packages/f11/xfce4-smartbookmark-plugin/po/hu.po | 
+ | [it](/f11/language/it) | 6 | 7 | 85.7 | /mnt/stockage/packages/f11/xfce4-smartbookmark-plugin/po/it.po | 
+ | [fr](/f11/language/fr) | 4 | 7 | 57.1 | /mnt/stockage/packages/f11/xfce4-smartbookmark-plugin/po/fr.po | 
+ | [zh_Hant](/f11/language/zh_Hant) | 4 | 7 | 57.1 | /mnt/stockage/packages/f11/xfce4-smartbookmark-plugin/po/zh_TW.po | 
 {.sortable}
 
 

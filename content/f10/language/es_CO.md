@@ -38,12 +38,12 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [gnome-applets]({{< ref "/f10/package/gnome-applets.md" >}}) | 3858 | 3858 | 100.0 | Spanish <traductores@es.gnome.org> | 
- | [libgweather]({{< ref "/f10/package/libgweather.md" >}}) | 447 | 460 | 97.2 | Spanish <traductores@es.gnome.org> | 
- | [liblicense]({{< ref "/f10/package/liblicense.md" >}}) | 44 | 66 | 66.7 | LANGUAGE <LL@li.org> | 
- | [pondus]({{< ref "/f10/package/pondus.md" >}}) | 175 | 268 | 65.3 | Spanish | 
- | [gnomebaker]({{< ref "/f10/package/gnomebaker.md" >}}) | 757 | 1186 | 63.8 | Spanish (Colombia) <es_CO@li.org> | 
- | [olpcsound]({{< ref "/f10/package/olpcsound.md" >}}) | 3313 | 12918 | 25.6 |  | 
+ | [gnome-applets](/f10/package/gnome-applets) | 3858 | 3858 | 100.0 | Spanish <traductores@es.gnome.org> | 
+ | [libgweather](/f10/package/libgweather) | 447 | 460 | 97.2 | Spanish <traductores@es.gnome.org> | 
+ | [liblicense](/f10/package/liblicense) | 44 | 66 | 66.7 | LANGUAGE <LL@li.org> | 
+ | [pondus](/f10/package/pondus) | 175 | 268 | 65.3 | Spanish | 
+ | [gnomebaker](/f10/package/gnomebaker) | 757 | 1186 | 63.8 | Spanish (Colombia) <es_CO@li.org> | 
+ | [olpcsound](/f10/package/olpcsound) | 3313 | 12918 | 25.6 |  | 
 {.sortable}
 
 

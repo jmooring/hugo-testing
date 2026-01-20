@@ -18,22 +18,22 @@ The package clawsker (version 1.3.7):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f38/language/ca.md" >}}) | 1603 | 1603 | 100.0 | /mnt/stockage/packages/f38/clawsker/po/ca.po | 
- | [da]({{< ref "/f38/language/da.md" >}}) | 1537 | 1537 | 100.0 | /mnt/stockage/packages/f38/clawsker/po/da.po | 
- | [de]({{< ref "/f38/language/de.md" >}}) | 1376 | 1376 | 100.0 | /mnt/stockage/packages/f38/clawsker/po/unmaint/de.po | 
- | [es]({{< ref "/f38/language/es.md" >}}) | 1603 | 1603 | 100.0 | /mnt/stockage/packages/f38/clawsker/po/es.po | 
- | [fr]({{< ref "/f38/language/fr.md" >}}) | 1603 | 1603 | 100.0 | /mnt/stockage/packages/f38/clawsker/po/fr.po | 
- | [id]({{< ref "/f38/language/id.md" >}}) | 1262 | 1262 | 100.0 | /mnt/stockage/packages/f38/clawsker/po/unmaint/id.po | 
- | [it]({{< ref "/f38/language/it.md" >}}) | 840 | 840 | 100.0 | /mnt/stockage/packages/f38/clawsker/po/unmaint/it.po | 
- | [nb_NO]({{< ref "/f38/language/nb_NO.md" >}}) | 1400 | 1400 | 100.0 | /mnt/stockage/packages/f38/clawsker/po/nb.po | 
- | [nl]({{< ref "/f38/language/nl.md" >}}) | 1603 | 1603 | 100.0 | /mnt/stockage/packages/f38/clawsker/po/nl.po | 
- | [pl]({{< ref "/f38/language/pl.md" >}}) | 1603 | 1603 | 100.0 | /mnt/stockage/packages/f38/clawsker/po/pl.po | 
- | [pt_BR]({{< ref "/f38/language/pt_BR.md" >}}) | 1440 | 1440 | 100.0 | /mnt/stockage/packages/f38/clawsker/po/pt_BR.po | 
- | [pt_PT]({{< ref "/f38/language/pt_PT.md" >}}) | 1440 | 1440 | 100.0 | /mnt/stockage/packages/f38/clawsker/po/pt_PT.po | 
- | [sr]({{< ref "/f38/language/sr.md" >}}) | 1312 | 1312 | 100.0 | /mnt/stockage/packages/f38/clawsker/po/unmaint/sr.po/mnt/stockage/packages/f38/clawsker/po/unmaint/sr@latin.po | 
- | [sv]({{< ref "/f38/language/sv.md" >}}) | 1603 | 1603 | 100.0 | /mnt/stockage/packages/f38/clawsker/po/sv.po | 
- | [tr]({{< ref "/f38/language/tr.md" >}}) | 1603 | 1603 | 100.0 | /mnt/stockage/packages/f38/clawsker/po/tr.po | 
- | [zh_Hant]({{< ref "/f38/language/zh_Hant.md" >}}) | 1511 | 1511 | 100.0 | /mnt/stockage/packages/f38/clawsker/po/zh_TW.po | 
+ | [ca](/f38/language/ca) | 1603 | 1603 | 100.0 | /mnt/stockage/packages/f38/clawsker/po/ca.po | 
+ | [da](/f38/language/da) | 1537 | 1537 | 100.0 | /mnt/stockage/packages/f38/clawsker/po/da.po | 
+ | [de](/f38/language/de) | 1376 | 1376 | 100.0 | /mnt/stockage/packages/f38/clawsker/po/unmaint/de.po | 
+ | [es](/f38/language/es) | 1603 | 1603 | 100.0 | /mnt/stockage/packages/f38/clawsker/po/es.po | 
+ | [fr](/f38/language/fr) | 1603 | 1603 | 100.0 | /mnt/stockage/packages/f38/clawsker/po/fr.po | 
+ | [id](/f38/language/id) | 1262 | 1262 | 100.0 | /mnt/stockage/packages/f38/clawsker/po/unmaint/id.po | 
+ | [it](/f38/language/it) | 840 | 840 | 100.0 | /mnt/stockage/packages/f38/clawsker/po/unmaint/it.po | 
+ | [nb_NO](/f38/language/nb_NO) | 1400 | 1400 | 100.0 | /mnt/stockage/packages/f38/clawsker/po/nb.po | 
+ | [nl](/f38/language/nl) | 1603 | 1603 | 100.0 | /mnt/stockage/packages/f38/clawsker/po/nl.po | 
+ | [pl](/f38/language/pl) | 1603 | 1603 | 100.0 | /mnt/stockage/packages/f38/clawsker/po/pl.po | 
+ | [pt_BR](/f38/language/pt_BR) | 1440 | 1440 | 100.0 | /mnt/stockage/packages/f38/clawsker/po/pt_BR.po | 
+ | [pt_PT](/f38/language/pt_PT) | 1440 | 1440 | 100.0 | /mnt/stockage/packages/f38/clawsker/po/pt_PT.po | 
+ | [sr](/f38/language/sr) | 1312 | 1312 | 100.0 | /mnt/stockage/packages/f38/clawsker/po/unmaint/sr.po/mnt/stockage/packages/f38/clawsker/po/unmaint/sr@latin.po | 
+ | [sv](/f38/language/sv) | 1603 | 1603 | 100.0 | /mnt/stockage/packages/f38/clawsker/po/sv.po | 
+ | [tr](/f38/language/tr) | 1603 | 1603 | 100.0 | /mnt/stockage/packages/f38/clawsker/po/tr.po | 
+ | [zh_Hant](/f38/language/zh_Hant) | 1511 | 1511 | 100.0 | /mnt/stockage/packages/f38/clawsker/po/zh_TW.po | 
 {.sortable}
 
 

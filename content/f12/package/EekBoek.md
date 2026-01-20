@@ -18,7 +18,7 @@ The package EekBoek (version 2.00.02):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [nl]({{< ref "/f12/language/nl.md" >}}) | 127 | 127 | 100.0 | /mnt/stockage/packages/f12/EekBoek/locale/ebwxshell-nl.po | 
+ | [nl](/f12/language/nl) | 127 | 127 | 100.0 | /mnt/stockage/packages/f12/EekBoek/locale/ebwxshell-nl.po | 
 {.sortable}
 
 

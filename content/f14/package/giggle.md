@@ -18,23 +18,23 @@ The package giggle (version 0.5):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f14/language/ca.md" >}}) | 339 | 339 | 100.0 | /mnt/stockage/packages/f14/giggle/po/ca.po | 
- | [cs]({{< ref "/f14/language/cs.md" >}}) | 630 | 630 | 100.0 | /mnt/stockage/packages/f14/giggle/po/cs.po | 
- | [de]({{< ref "/f14/language/de.md" >}}) | 630 | 630 | 100.0 | /mnt/stockage/packages/f14/giggle/po/de.po | 
- | [en_GB]({{< ref "/f14/language/en_GB.md" >}}) | 481 | 481 | 100.0 | /mnt/stockage/packages/f14/giggle/po/en_GB.po | 
- | [es]({{< ref "/f14/language/es.md" >}}) | 637 | 637 | 100.0 | /mnt/stockage/packages/f14/giggle/po/es.po | 
- | [fr]({{< ref "/f14/language/fr.md" >}}) | 630 | 630 | 100.0 | /mnt/stockage/packages/f14/giggle/po/fr.po | 
- | [gl]({{< ref "/f14/language/gl.md" >}}) | 630 | 630 | 100.0 | /mnt/stockage/packages/f14/giggle/po/gl.po | 
- | [pl]({{< ref "/f14/language/pl.md" >}}) | 630 | 630 | 100.0 | /mnt/stockage/packages/f14/giggle/po/pl.po | 
- | [ru]({{< ref "/f14/language/ru.md" >}}) | 515 | 515 | 100.0 | /mnt/stockage/packages/f14/giggle/po/ru.po | 
- | [sl]({{< ref "/f14/language/sl.md" >}}) | 630 | 630 | 100.0 | /mnt/stockage/packages/f14/giggle/po/sl.po | 
- | [vi]({{< ref "/f14/language/vi.md" >}}) | 312 | 312 | 100.0 | /mnt/stockage/packages/f14/giggle/po/vi.po | 
- | [ja]({{< ref "/f14/language/ja.md" >}}) | 294 | 312 | 94.2 | /mnt/stockage/packages/f14/giggle/po/ja.po | 
- | [sv]({{< ref "/f14/language/sv.md" >}}) | 297 | 316 | 94.0 | /mnt/stockage/packages/f14/giggle/po/sv.po | 
- | [zh_Hans]({{< ref "/f14/language/zh_Hans.md" >}}) | 409 | 515 | 79.4 | /mnt/stockage/packages/f14/giggle/po/zh_CN.po | 
- | [pa]({{< ref "/f14/language/pa.md" >}}) | 188 | 515 | 36.5 | /mnt/stockage/packages/f14/giggle/po/pa.po | 
- | [hu]({{< ref "/f14/language/hu.md" >}}) | 106 | 515 | 20.6 | /mnt/stockage/packages/f14/giggle/po/hu.po | 
- | [nb_NO]({{< ref "/f14/language/nb_NO.md" >}}) | 77 | 630 | 12.2 | /mnt/stockage/packages/f14/giggle/po/nb.po | 
+ | [ca](/f14/language/ca) | 339 | 339 | 100.0 | /mnt/stockage/packages/f14/giggle/po/ca.po | 
+ | [cs](/f14/language/cs) | 630 | 630 | 100.0 | /mnt/stockage/packages/f14/giggle/po/cs.po | 
+ | [de](/f14/language/de) | 630 | 630 | 100.0 | /mnt/stockage/packages/f14/giggle/po/de.po | 
+ | [en_GB](/f14/language/en_GB) | 481 | 481 | 100.0 | /mnt/stockage/packages/f14/giggle/po/en_GB.po | 
+ | [es](/f14/language/es) | 637 | 637 | 100.0 | /mnt/stockage/packages/f14/giggle/po/es.po | 
+ | [fr](/f14/language/fr) | 630 | 630 | 100.0 | /mnt/stockage/packages/f14/giggle/po/fr.po | 
+ | [gl](/f14/language/gl) | 630 | 630 | 100.0 | /mnt/stockage/packages/f14/giggle/po/gl.po | 
+ | [pl](/f14/language/pl) | 630 | 630 | 100.0 | /mnt/stockage/packages/f14/giggle/po/pl.po | 
+ | [ru](/f14/language/ru) | 515 | 515 | 100.0 | /mnt/stockage/packages/f14/giggle/po/ru.po | 
+ | [sl](/f14/language/sl) | 630 | 630 | 100.0 | /mnt/stockage/packages/f14/giggle/po/sl.po | 
+ | [vi](/f14/language/vi) | 312 | 312 | 100.0 | /mnt/stockage/packages/f14/giggle/po/vi.po | 
+ | [ja](/f14/language/ja) | 294 | 312 | 94.2 | /mnt/stockage/packages/f14/giggle/po/ja.po | 
+ | [sv](/f14/language/sv) | 297 | 316 | 94.0 | /mnt/stockage/packages/f14/giggle/po/sv.po | 
+ | [zh_Hans](/f14/language/zh_Hans) | 409 | 515 | 79.4 | /mnt/stockage/packages/f14/giggle/po/zh_CN.po | 
+ | [pa](/f14/language/pa) | 188 | 515 | 36.5 | /mnt/stockage/packages/f14/giggle/po/pa.po | 
+ | [hu](/f14/language/hu) | 106 | 515 | 20.6 | /mnt/stockage/packages/f14/giggle/po/hu.po | 
+ | [nb_NO](/f14/language/nb_NO) | 77 | 630 | 12.2 | /mnt/stockage/packages/f14/giggle/po/nb.po | 
 {.sortable}
 
 

@@ -18,11 +18,11 @@ The package procps-ng (version 3.3.10):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [uk]({{< ref "/f27/language/uk.md" >}}) | 9745 | 9745 | 100.0 | /mnt/stockage/packages/f27/procps-ng/man-po/uk.po/mnt/stockage/packages/f27/procps-ng/po/uk.po | 
- | [vi]({{< ref "/f27/language/vi.md" >}}) | 4534 | 4534 | 100.0 | /mnt/stockage/packages/f27/procps-ng/po/vi.po | 
- | [fr]({{< ref "/f27/language/fr.md" >}}) | 9743 | 9744 | 100.0 | /mnt/stockage/packages/f27/procps-ng/man-po/fr.po/mnt/stockage/packages/f27/procps-ng/po/fr.po | 
- | [de]({{< ref "/f27/language/de.md" >}}) | 8368 | 9745 | 85.9 | /mnt/stockage/packages/f27/procps-ng/man-po/de.po/mnt/stockage/packages/f27/procps-ng/po/de.po | 
- | [pl]({{< ref "/f27/language/pl.md" >}}) | 5076 | 9745 | 52.1 | /mnt/stockage/packages/f27/procps-ng/man-po/pl.po/mnt/stockage/packages/f27/procps-ng/po/pl.po | 
+ | [uk](/f27/language/uk) | 9745 | 9745 | 100.0 | /mnt/stockage/packages/f27/procps-ng/man-po/uk.po/mnt/stockage/packages/f27/procps-ng/po/uk.po | 
+ | [vi](/f27/language/vi) | 4534 | 4534 | 100.0 | /mnt/stockage/packages/f27/procps-ng/po/vi.po | 
+ | [fr](/f27/language/fr) | 9743 | 9744 | 100.0 | /mnt/stockage/packages/f27/procps-ng/man-po/fr.po/mnt/stockage/packages/f27/procps-ng/po/fr.po | 
+ | [de](/f27/language/de) | 8368 | 9745 | 85.9 | /mnt/stockage/packages/f27/procps-ng/man-po/de.po/mnt/stockage/packages/f27/procps-ng/po/de.po | 
+ | [pl](/f27/language/pl) | 5076 | 9745 | 52.1 | /mnt/stockage/packages/f27/procps-ng/man-po/pl.po/mnt/stockage/packages/f27/procps-ng/po/pl.po | 
 {.sortable}
 
 

@@ -18,40 +18,40 @@ The package pulseaudio (version 5.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [id]({{< ref "/f20/language/id.md" >}}) | 2946 | 2946 | 100.0 | /mnt/stockage/packages/f20/pulseaudio/po/id.po | 
- | [ja]({{< ref "/f20/language/ja.md" >}}) | 3303 | 3303 | 100.0 | /mnt/stockage/packages/f20/pulseaudio/po/ja.po | 
- | [pl]({{< ref "/f20/language/pl.md" >}}) | 3571 | 3571 | 100.0 | /mnt/stockage/packages/f20/pulseaudio/po/pl.po | 
- | [pt_BR]({{< ref "/f20/language/pt_BR.md" >}}) | 3554 | 3554 | 100.0 | /mnt/stockage/packages/f20/pulseaudio/po/pt_BR.po | 
- | [ru]({{< ref "/f20/language/ru.md" >}}) | 3570 | 3570 | 100.0 | /mnt/stockage/packages/f20/pulseaudio/po/ru.po | 
- | [uk]({{< ref "/f20/language/uk.md" >}}) | 3570 | 3570 | 100.0 | /mnt/stockage/packages/f20/pulseaudio/po/uk.po | 
- | [zh_Hant]({{< ref "/f20/language/zh_Hant.md" >}}) | 3303 | 3303 | 100.0 | /mnt/stockage/packages/f20/pulseaudio/po/zh_TW.po | 
- | [es]({{< ref "/f20/language/es.md" >}}) | 2012 | 3303 | 60.9 | /mnt/stockage/packages/f20/pulseaudio/po/es.po | 
- | [fi]({{< ref "/f20/language/fi.md" >}}) | 2012 | 3303 | 60.9 | /mnt/stockage/packages/f20/pulseaudio/po/fi.po | 
- | [fr]({{< ref "/f20/language/fr.md" >}}) | 2012 | 3303 | 60.9 | /mnt/stockage/packages/f20/pulseaudio/po/fr.po | 
- | [bn_IN]({{< ref "/f20/language/bn_IN.md" >}}) | 2010 | 3303 | 60.9 | /mnt/stockage/packages/f20/pulseaudio/po/bn_IN.po | 
- | [cs]({{< ref "/f20/language/cs.md" >}}) | 2010 | 3303 | 60.9 | /mnt/stockage/packages/f20/pulseaudio/po/cs.po | 
- | [gu]({{< ref "/f20/language/gu.md" >}}) | 2010 | 3303 | 60.9 | /mnt/stockage/packages/f20/pulseaudio/po/gu.po | 
- | [hi]({{< ref "/f20/language/hi.md" >}}) | 2010 | 3303 | 60.9 | /mnt/stockage/packages/f20/pulseaudio/po/hi.po | 
- | [hu]({{< ref "/f20/language/hu.md" >}}) | 2010 | 3303 | 60.9 | /mnt/stockage/packages/f20/pulseaudio/po/hu.po | 
- | [it]({{< ref "/f20/language/it.md" >}}) | 2010 | 3303 | 60.9 | /mnt/stockage/packages/f20/pulseaudio/po/it.po | 
- | [kn]({{< ref "/f20/language/kn.md" >}}) | 2010 | 3303 | 60.9 | /mnt/stockage/packages/f20/pulseaudio/po/kn.po | 
- | [ml]({{< ref "/f20/language/ml.md" >}}) | 2010 | 3303 | 60.9 | /mnt/stockage/packages/f20/pulseaudio/po/ml.po | 
- | [mr]({{< ref "/f20/language/mr.md" >}}) | 2010 | 3303 | 60.9 | /mnt/stockage/packages/f20/pulseaudio/po/mr.po | 
- | [nl]({{< ref "/f20/language/nl.md" >}}) | 2010 | 3303 | 60.9 | /mnt/stockage/packages/f20/pulseaudio/po/nl.po | 
- | [or]({{< ref "/f20/language/or.md" >}}) | 2010 | 3303 | 60.9 | /mnt/stockage/packages/f20/pulseaudio/po/or.po | 
- | [pa]({{< ref "/f20/language/pa.md" >}}) | 2010 | 3303 | 60.9 | /mnt/stockage/packages/f20/pulseaudio/po/pa.po | 
- | [sr]({{< ref "/f20/language/sr.md" >}}) | 2010 | 3303 | 60.9 | /mnt/stockage/packages/f20/pulseaudio/po/sr.po | 
- | [sr_Latn]({{< ref "/f20/language/sr_Latn.md" >}}) | 2010 | 3303 | 60.9 | /mnt/stockage/packages/f20/pulseaudio/po/sr@latin.po | 
- | [ta]({{< ref "/f20/language/ta.md" >}}) | 2010 | 3303 | 60.9 | /mnt/stockage/packages/f20/pulseaudio/po/ta.po | 
- | [te]({{< ref "/f20/language/te.md" >}}) | 2010 | 3303 | 60.9 | /mnt/stockage/packages/f20/pulseaudio/po/te.po | 
- | [zh_Hans]({{< ref "/f20/language/zh_Hans.md" >}}) | 2010 | 3303 | 60.9 | /mnt/stockage/packages/f20/pulseaudio/po/zh_CN.po | 
- | [as]({{< ref "/f20/language/as.md" >}}) | 2009 | 3303 | 60.8 | /mnt/stockage/packages/f20/pulseaudio/po/as.po | 
- | [ca]({{< ref "/f20/language/ca.md" >}}) | 1936 | 3303 | 58.6 | /mnt/stockage/packages/f20/pulseaudio/po/ca.po | 
- | [pt]({{< ref "/f20/language/pt.md" >}}) | 1931 | 3303 | 58.5 | /mnt/stockage/packages/f20/pulseaudio/po/pt.po | 
- | [de]({{< ref "/f20/language/de.md" >}}) | 3764 | 6606 | 57.0 | /mnt/stockage/packages/f20/pulseaudio/po/de_CH.po/mnt/stockage/packages/f20/pulseaudio/po/de.po | 
- | [sv]({{< ref "/f20/language/sv.md" >}}) | 245 | 3303 | 7.4 | /mnt/stockage/packages/f20/pulseaudio/po/sv.po | 
- | [el]({{< ref "/f20/language/el.md" >}}) | 217 | 3303 | 6.6 | /mnt/stockage/packages/f20/pulseaudio/po/el.po | 
- | [he]({{< ref "/f20/language/he.md" >}}) | 190 | 3303 | 5.8 | /mnt/stockage/packages/f20/pulseaudio/po/he.po | 
+ | [id](/f20/language/id) | 2946 | 2946 | 100.0 | /mnt/stockage/packages/f20/pulseaudio/po/id.po | 
+ | [ja](/f20/language/ja) | 3303 | 3303 | 100.0 | /mnt/stockage/packages/f20/pulseaudio/po/ja.po | 
+ | [pl](/f20/language/pl) | 3571 | 3571 | 100.0 | /mnt/stockage/packages/f20/pulseaudio/po/pl.po | 
+ | [pt_BR](/f20/language/pt_BR) | 3554 | 3554 | 100.0 | /mnt/stockage/packages/f20/pulseaudio/po/pt_BR.po | 
+ | [ru](/f20/language/ru) | 3570 | 3570 | 100.0 | /mnt/stockage/packages/f20/pulseaudio/po/ru.po | 
+ | [uk](/f20/language/uk) | 3570 | 3570 | 100.0 | /mnt/stockage/packages/f20/pulseaudio/po/uk.po | 
+ | [zh_Hant](/f20/language/zh_Hant) | 3303 | 3303 | 100.0 | /mnt/stockage/packages/f20/pulseaudio/po/zh_TW.po | 
+ | [es](/f20/language/es) | 2012 | 3303 | 60.9 | /mnt/stockage/packages/f20/pulseaudio/po/es.po | 
+ | [fi](/f20/language/fi) | 2012 | 3303 | 60.9 | /mnt/stockage/packages/f20/pulseaudio/po/fi.po | 
+ | [fr](/f20/language/fr) | 2012 | 3303 | 60.9 | /mnt/stockage/packages/f20/pulseaudio/po/fr.po | 
+ | [bn_IN](/f20/language/bn_IN) | 2010 | 3303 | 60.9 | /mnt/stockage/packages/f20/pulseaudio/po/bn_IN.po | 
+ | [cs](/f20/language/cs) | 2010 | 3303 | 60.9 | /mnt/stockage/packages/f20/pulseaudio/po/cs.po | 
+ | [gu](/f20/language/gu) | 2010 | 3303 | 60.9 | /mnt/stockage/packages/f20/pulseaudio/po/gu.po | 
+ | [hi](/f20/language/hi) | 2010 | 3303 | 60.9 | /mnt/stockage/packages/f20/pulseaudio/po/hi.po | 
+ | [hu](/f20/language/hu) | 2010 | 3303 | 60.9 | /mnt/stockage/packages/f20/pulseaudio/po/hu.po | 
+ | [it](/f20/language/it) | 2010 | 3303 | 60.9 | /mnt/stockage/packages/f20/pulseaudio/po/it.po | 
+ | [kn](/f20/language/kn) | 2010 | 3303 | 60.9 | /mnt/stockage/packages/f20/pulseaudio/po/kn.po | 
+ | [ml](/f20/language/ml) | 2010 | 3303 | 60.9 | /mnt/stockage/packages/f20/pulseaudio/po/ml.po | 
+ | [mr](/f20/language/mr) | 2010 | 3303 | 60.9 | /mnt/stockage/packages/f20/pulseaudio/po/mr.po | 
+ | [nl](/f20/language/nl) | 2010 | 3303 | 60.9 | /mnt/stockage/packages/f20/pulseaudio/po/nl.po | 
+ | [or](/f20/language/or) | 2010 | 3303 | 60.9 | /mnt/stockage/packages/f20/pulseaudio/po/or.po | 
+ | [pa](/f20/language/pa) | 2010 | 3303 | 60.9 | /mnt/stockage/packages/f20/pulseaudio/po/pa.po | 
+ | [sr](/f20/language/sr) | 2010 | 3303 | 60.9 | /mnt/stockage/packages/f20/pulseaudio/po/sr.po | 
+ | [sr_Latn](/f20/language/sr_Latn) | 2010 | 3303 | 60.9 | /mnt/stockage/packages/f20/pulseaudio/po/sr@latin.po | 
+ | [ta](/f20/language/ta) | 2010 | 3303 | 60.9 | /mnt/stockage/packages/f20/pulseaudio/po/ta.po | 
+ | [te](/f20/language/te) | 2010 | 3303 | 60.9 | /mnt/stockage/packages/f20/pulseaudio/po/te.po | 
+ | [zh_Hans](/f20/language/zh_Hans) | 2010 | 3303 | 60.9 | /mnt/stockage/packages/f20/pulseaudio/po/zh_CN.po | 
+ | [as](/f20/language/as) | 2009 | 3303 | 60.8 | /mnt/stockage/packages/f20/pulseaudio/po/as.po | 
+ | [ca](/f20/language/ca) | 1936 | 3303 | 58.6 | /mnt/stockage/packages/f20/pulseaudio/po/ca.po | 
+ | [pt](/f20/language/pt) | 1931 | 3303 | 58.5 | /mnt/stockage/packages/f20/pulseaudio/po/pt.po | 
+ | [de](/f20/language/de) | 3764 | 6606 | 57.0 | /mnt/stockage/packages/f20/pulseaudio/po/de_CH.po/mnt/stockage/packages/f20/pulseaudio/po/de.po | 
+ | [sv](/f20/language/sv) | 245 | 3303 | 7.4 | /mnt/stockage/packages/f20/pulseaudio/po/sv.po | 
+ | [el](/f20/language/el) | 217 | 3303 | 6.6 | /mnt/stockage/packages/f20/pulseaudio/po/el.po | 
+ | [he](/f20/language/he) | 190 | 3303 | 5.8 | /mnt/stockage/packages/f20/pulseaudio/po/he.po | 
 {.sortable}
 
 

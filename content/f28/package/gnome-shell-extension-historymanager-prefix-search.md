@@ -18,7 +18,7 @@ The package gnome-shell-extension-historymanager-prefix-search (version 12):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f28/language/cs.md" >}}) | 8 | 8 | 100.0 | /mnt/stockage/packages/f28/gnome-shell-extension-historymanager-prefix-search/po/cs_CZ.po | 
+ | [cs](/f28/language/cs) | 8 | 8 | 100.0 | /mnt/stockage/packages/f28/gnome-shell-extension-historymanager-prefix-search/po/cs_CZ.po | 
 {.sortable}
 
 

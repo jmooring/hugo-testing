@@ -18,20 +18,20 @@ The package mingw-gnutls (version 3.4.9):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [error]({{< ref "/f23/language/error.md" >}}) | 2988 | 2988 | 100.0 | /mnt/stockage/packages/f23/mingw-gnutls/po/en@boldquot.po/mnt/stockage/packages/f23/mingw-gnutls/po/en@quot.po | 
- | [cs]({{< ref "/f23/language/cs.md" >}}) | 1358 | 1494 | 90.9 | /mnt/stockage/packages/f23/mingw-gnutls/po/cs.po | 
- | [eo]({{< ref "/f23/language/eo.md" >}}) | 1358 | 1494 | 90.9 | /mnt/stockage/packages/f23/mingw-gnutls/po/eo.po | 
- | [fi]({{< ref "/f23/language/fi.md" >}}) | 1358 | 1494 | 90.9 | /mnt/stockage/packages/f23/mingw-gnutls/po/fi.po | 
- | [it]({{< ref "/f23/language/it.md" >}}) | 1358 | 1494 | 90.9 | /mnt/stockage/packages/f23/mingw-gnutls/po/it.po | 
- | [nl]({{< ref "/f23/language/nl.md" >}}) | 1358 | 1494 | 90.9 | /mnt/stockage/packages/f23/mingw-gnutls/po/nl.po | 
- | [pl]({{< ref "/f23/language/pl.md" >}}) | 1358 | 1494 | 90.9 | /mnt/stockage/packages/f23/mingw-gnutls/po/pl.po | 
- | [uk]({{< ref "/f23/language/uk.md" >}}) | 1358 | 1494 | 90.9 | /mnt/stockage/packages/f23/mingw-gnutls/po/uk.po | 
- | [vi]({{< ref "/f23/language/vi.md" >}}) | 1358 | 1494 | 90.9 | /mnt/stockage/packages/f23/mingw-gnutls/po/vi.po | 
- | [de]({{< ref "/f23/language/de.md" >}}) | 1263 | 1494 | 84.5 | /mnt/stockage/packages/f23/mingw-gnutls/po/de.po | 
- | [sv]({{< ref "/f23/language/sv.md" >}}) | 1184 | 1494 | 79.3 | /mnt/stockage/packages/f23/mingw-gnutls/po/sv.po | 
- | [fr]({{< ref "/f23/language/fr.md" >}}) | 916 | 1494 | 61.3 | /mnt/stockage/packages/f23/mingw-gnutls/po/fr.po | 
- | [zh_Hans]({{< ref "/f23/language/zh_Hans.md" >}}) | 781 | 1494 | 52.3 | /mnt/stockage/packages/f23/mingw-gnutls/po/zh_CN.po | 
- | [ms]({{< ref "/f23/language/ms.md" >}}) | 756 | 1494 | 50.6 | /mnt/stockage/packages/f23/mingw-gnutls/po/ms.po | 
+ | [error](/f23/language/error) | 2988 | 2988 | 100.0 | /mnt/stockage/packages/f23/mingw-gnutls/po/en@boldquot.po/mnt/stockage/packages/f23/mingw-gnutls/po/en@quot.po | 
+ | [cs](/f23/language/cs) | 1358 | 1494 | 90.9 | /mnt/stockage/packages/f23/mingw-gnutls/po/cs.po | 
+ | [eo](/f23/language/eo) | 1358 | 1494 | 90.9 | /mnt/stockage/packages/f23/mingw-gnutls/po/eo.po | 
+ | [fi](/f23/language/fi) | 1358 | 1494 | 90.9 | /mnt/stockage/packages/f23/mingw-gnutls/po/fi.po | 
+ | [it](/f23/language/it) | 1358 | 1494 | 90.9 | /mnt/stockage/packages/f23/mingw-gnutls/po/it.po | 
+ | [nl](/f23/language/nl) | 1358 | 1494 | 90.9 | /mnt/stockage/packages/f23/mingw-gnutls/po/nl.po | 
+ | [pl](/f23/language/pl) | 1358 | 1494 | 90.9 | /mnt/stockage/packages/f23/mingw-gnutls/po/pl.po | 
+ | [uk](/f23/language/uk) | 1358 | 1494 | 90.9 | /mnt/stockage/packages/f23/mingw-gnutls/po/uk.po | 
+ | [vi](/f23/language/vi) | 1358 | 1494 | 90.9 | /mnt/stockage/packages/f23/mingw-gnutls/po/vi.po | 
+ | [de](/f23/language/de) | 1263 | 1494 | 84.5 | /mnt/stockage/packages/f23/mingw-gnutls/po/de.po | 
+ | [sv](/f23/language/sv) | 1184 | 1494 | 79.3 | /mnt/stockage/packages/f23/mingw-gnutls/po/sv.po | 
+ | [fr](/f23/language/fr) | 916 | 1494 | 61.3 | /mnt/stockage/packages/f23/mingw-gnutls/po/fr.po | 
+ | [zh_Hans](/f23/language/zh_Hans) | 781 | 1494 | 52.3 | /mnt/stockage/packages/f23/mingw-gnutls/po/zh_CN.po | 
+ | [ms](/f23/language/ms) | 756 | 1494 | 50.6 | /mnt/stockage/packages/f23/mingw-gnutls/po/ms.po | 
 {.sortable}
 
 

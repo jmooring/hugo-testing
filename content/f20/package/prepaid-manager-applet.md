@@ -18,7 +18,7 @@ The package prepaid-manager-applet (version 0.0.3.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f20/language/de.md" >}}) | 65 | 154 | 42.2 | /mnt/stockage/packages/f20/prepaid-manager-applet/po/de.po | 
+ | [de](/f20/language/de) | 65 | 154 | 42.2 | /mnt/stockage/packages/f20/prepaid-manager-applet/po/de.po | 
 {.sortable}
 
 

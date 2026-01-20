@@ -18,57 +18,57 @@ The package kspaceduel (version 17.12.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [bs]({{< ref "/f27/language/bs.md" >}}) | 165 | 165 | 100.0 | /mnt/stockage/packages/f27/kspaceduel/po/bs/kspaceduel.po | 
- | [ca]({{< ref "/f27/language/ca.md" >}}) | 165 | 165 | 100.0 | /mnt/stockage/packages/f27/kspaceduel/po/ca/kspaceduel.po | 
- | [ca@valencia]({{< ref "/f27/language/ca@valencia.md" >}}) | 165 | 165 | 100.0 | /mnt/stockage/packages/f27/kspaceduel/po/ca@valencia/kspaceduel.po | 
- | [cs]({{< ref "/f27/language/cs.md" >}}) | 165 | 165 | 100.0 | /mnt/stockage/packages/f27/kspaceduel/po/cs/kspaceduel.po | 
- | [da]({{< ref "/f27/language/da.md" >}}) | 165 | 165 | 100.0 | /mnt/stockage/packages/f27/kspaceduel/po/da/kspaceduel.po | 
- | [de]({{< ref "/f27/language/de.md" >}}) | 165 | 165 | 100.0 | /mnt/stockage/packages/f27/kspaceduel/po/de/kspaceduel.po | 
- | [el]({{< ref "/f27/language/el.md" >}}) | 165 | 165 | 100.0 | /mnt/stockage/packages/f27/kspaceduel/po/el/kspaceduel.po | 
- | [en_GB]({{< ref "/f27/language/en_GB.md" >}}) | 165 | 165 | 100.0 | /mnt/stockage/packages/f27/kspaceduel/po/en_GB/kspaceduel.po | 
- | [es]({{< ref "/f27/language/es.md" >}}) | 165 | 165 | 100.0 | /mnt/stockage/packages/f27/kspaceduel/po/es/kspaceduel.po | 
- | [et]({{< ref "/f27/language/et.md" >}}) | 165 | 165 | 100.0 | /mnt/stockage/packages/f27/kspaceduel/po/et/kspaceduel.po | 
- | [eu]({{< ref "/f27/language/eu.md" >}}) | 165 | 165 | 100.0 | /mnt/stockage/packages/f27/kspaceduel/po/eu/kspaceduel.po | 
- | [fi]({{< ref "/f27/language/fi.md" >}}) | 165 | 165 | 100.0 | /mnt/stockage/packages/f27/kspaceduel/po/fi/kspaceduel.po | 
- | [fr]({{< ref "/f27/language/fr.md" >}}) | 165 | 165 | 100.0 | /mnt/stockage/packages/f27/kspaceduel/po/fr/kspaceduel.po | 
- | [ga]({{< ref "/f27/language/ga.md" >}}) | 165 | 165 | 100.0 | /mnt/stockage/packages/f27/kspaceduel/po/ga/kspaceduel.po | 
- | [gl]({{< ref "/f27/language/gl.md" >}}) | 165 | 165 | 100.0 | /mnt/stockage/packages/f27/kspaceduel/po/gl/kspaceduel.po | 
- | [hu]({{< ref "/f27/language/hu.md" >}}) | 165 | 165 | 100.0 | /mnt/stockage/packages/f27/kspaceduel/po/hu/kspaceduel.po | 
- | [it]({{< ref "/f27/language/it.md" >}}) | 165 | 165 | 100.0 | /mnt/stockage/packages/f27/kspaceduel/po/it/kspaceduel.po | 
- | [ja]({{< ref "/f27/language/ja.md" >}}) | 165 | 165 | 100.0 | /mnt/stockage/packages/f27/kspaceduel/po/ja/kspaceduel.po | 
- | [kk]({{< ref "/f27/language/kk.md" >}}) | 165 | 165 | 100.0 | /mnt/stockage/packages/f27/kspaceduel/po/kk/kspaceduel.po | 
- | [km]({{< ref "/f27/language/km.md" >}}) | 165 | 165 | 100.0 | /mnt/stockage/packages/f27/kspaceduel/po/km/kspaceduel.po | 
- | [lv]({{< ref "/f27/language/lv.md" >}}) | 165 | 165 | 100.0 | /mnt/stockage/packages/f27/kspaceduel/po/lv/kspaceduel.po | 
- | [nb_NO]({{< ref "/f27/language/nb_NO.md" >}}) | 165 | 165 | 100.0 | /mnt/stockage/packages/f27/kspaceduel/po/nb/kspaceduel.po | 
- | [nds]({{< ref "/f27/language/nds.md" >}}) | 165 | 165 | 100.0 | /mnt/stockage/packages/f27/kspaceduel/po/nds/kspaceduel.po | 
- | [nl]({{< ref "/f27/language/nl.md" >}}) | 165 | 165 | 100.0 | /mnt/stockage/packages/f27/kspaceduel/po/nl/kspaceduel.po | 
- | [nn]({{< ref "/f27/language/nn.md" >}}) | 165 | 165 | 100.0 | /mnt/stockage/packages/f27/kspaceduel/po/nn/kspaceduel.po | 
- | [pl]({{< ref "/f27/language/pl.md" >}}) | 165 | 165 | 100.0 | /mnt/stockage/packages/f27/kspaceduel/po/pl/kspaceduel.po | 
- | [pt]({{< ref "/f27/language/pt.md" >}}) | 165 | 165 | 100.0 | /mnt/stockage/packages/f27/kspaceduel/po/pt/kspaceduel.po | 
- | [pt_BR]({{< ref "/f27/language/pt_BR.md" >}}) | 165 | 165 | 100.0 | /mnt/stockage/packages/f27/kspaceduel/po/pt_BR/kspaceduel.po | 
- | [ro]({{< ref "/f27/language/ro.md" >}}) | 165 | 165 | 100.0 | /mnt/stockage/packages/f27/kspaceduel/po/ro/kspaceduel.po | 
- | [ru]({{< ref "/f27/language/ru.md" >}}) | 165 | 165 | 100.0 | /mnt/stockage/packages/f27/kspaceduel/po/ru/kspaceduel.po | 
- | [sk]({{< ref "/f27/language/sk.md" >}}) | 165 | 165 | 100.0 | /mnt/stockage/packages/f27/kspaceduel/po/sk/kspaceduel.po | 
- | [sl]({{< ref "/f27/language/sl.md" >}}) | 165 | 165 | 100.0 | /mnt/stockage/packages/f27/kspaceduel/po/sl/kspaceduel.po | 
- | [sr]({{< ref "/f27/language/sr.md" >}}) | 165 | 165 | 100.0 | /mnt/stockage/packages/f27/kspaceduel/po/sr/kspaceduel.po | 
- | [sv]({{< ref "/f27/language/sv.md" >}}) | 165 | 165 | 100.0 | /mnt/stockage/packages/f27/kspaceduel/po/sv/kspaceduel.po | 
- | [tr]({{< ref "/f27/language/tr.md" >}}) | 165 | 165 | 100.0 | /mnt/stockage/packages/f27/kspaceduel/po/tr/kspaceduel.po | 
- | [uk]({{< ref "/f27/language/uk.md" >}}) | 165 | 165 | 100.0 | /mnt/stockage/packages/f27/kspaceduel/po/uk/kspaceduel.po | 
- | [zh_Hans]({{< ref "/f27/language/zh_Hans.md" >}}) | 165 | 165 | 100.0 | /mnt/stockage/packages/f27/kspaceduel/po/zh_CN/kspaceduel.po | 
- | [zh_Hant]({{< ref "/f27/language/zh_Hant.md" >}}) | 165 | 165 | 100.0 | /mnt/stockage/packages/f27/kspaceduel/po/zh_TW/kspaceduel.po | 
- | [eo]({{< ref "/f27/language/eo.md" >}}) | 161 | 165 | 97.6 | /mnt/stockage/packages/f27/kspaceduel/po/eo/kspaceduel.po | 
- | [hi]({{< ref "/f27/language/hi.md" >}}) | 150 | 165 | 90.9 | /mnt/stockage/packages/f27/kspaceduel/po/hi/kspaceduel.po | 
- | [fa]({{< ref "/f27/language/fa.md" >}}) | 145 | 165 | 87.9 | /mnt/stockage/packages/f27/kspaceduel/po/fa/kspaceduel.po | 
- | [he]({{< ref "/f27/language/he.md" >}}) | 139 | 165 | 84.2 | /mnt/stockage/packages/f27/kspaceduel/po/he/kspaceduel.po | 
- | [hr]({{< ref "/f27/language/hr.md" >}}) | 139 | 165 | 84.2 | /mnt/stockage/packages/f27/kspaceduel/po/hr/kspaceduel.po | 
- | [is]({{< ref "/f27/language/is.md" >}}) | 139 | 165 | 84.2 | /mnt/stockage/packages/f27/kspaceduel/po/is/kspaceduel.po | 
- | [ar]({{< ref "/f27/language/ar.md" >}}) | 138 | 165 | 83.6 | /mnt/stockage/packages/f27/kspaceduel/po/ar/kspaceduel.po | 
- | [bg]({{< ref "/f27/language/bg.md" >}}) | 134 | 165 | 81.2 | /mnt/stockage/packages/f27/kspaceduel/po/bg/kspaceduel.po | 
- | [lt]({{< ref "/f27/language/lt.md" >}}) | 95 | 165 | 57.6 | /mnt/stockage/packages/f27/kspaceduel/po/lt/kspaceduel.po | 
- | [pa]({{< ref "/f27/language/pa.md" >}}) | 80 | 165 | 48.5 | /mnt/stockage/packages/f27/kspaceduel/po/pa/kspaceduel.po | 
- | [ug]({{< ref "/f27/language/ug.md" >}}) | 37 | 165 | 22.4 | /mnt/stockage/packages/f27/kspaceduel/po/ug/kspaceduel.po | 
- | [mr]({{< ref "/f27/language/mr.md" >}}) | 33 | 165 | 20.0 | /mnt/stockage/packages/f27/kspaceduel/po/mr/kspaceduel.po | 
- | [ast]({{< ref "/f27/language/ast.md" >}}) | 5 | 165 | 3.0 | /mnt/stockage/packages/f27/kspaceduel/po/ast/kspaceduel.po | 
+ | [bs](/f27/language/bs) | 165 | 165 | 100.0 | /mnt/stockage/packages/f27/kspaceduel/po/bs/kspaceduel.po | 
+ | [ca](/f27/language/ca) | 165 | 165 | 100.0 | /mnt/stockage/packages/f27/kspaceduel/po/ca/kspaceduel.po | 
+ | [ca@valencia](/f27/language/ca@valencia) | 165 | 165 | 100.0 | /mnt/stockage/packages/f27/kspaceduel/po/ca@valencia/kspaceduel.po | 
+ | [cs](/f27/language/cs) | 165 | 165 | 100.0 | /mnt/stockage/packages/f27/kspaceduel/po/cs/kspaceduel.po | 
+ | [da](/f27/language/da) | 165 | 165 | 100.0 | /mnt/stockage/packages/f27/kspaceduel/po/da/kspaceduel.po | 
+ | [de](/f27/language/de) | 165 | 165 | 100.0 | /mnt/stockage/packages/f27/kspaceduel/po/de/kspaceduel.po | 
+ | [el](/f27/language/el) | 165 | 165 | 100.0 | /mnt/stockage/packages/f27/kspaceduel/po/el/kspaceduel.po | 
+ | [en_GB](/f27/language/en_GB) | 165 | 165 | 100.0 | /mnt/stockage/packages/f27/kspaceduel/po/en_GB/kspaceduel.po | 
+ | [es](/f27/language/es) | 165 | 165 | 100.0 | /mnt/stockage/packages/f27/kspaceduel/po/es/kspaceduel.po | 
+ | [et](/f27/language/et) | 165 | 165 | 100.0 | /mnt/stockage/packages/f27/kspaceduel/po/et/kspaceduel.po | 
+ | [eu](/f27/language/eu) | 165 | 165 | 100.0 | /mnt/stockage/packages/f27/kspaceduel/po/eu/kspaceduel.po | 
+ | [fi](/f27/language/fi) | 165 | 165 | 100.0 | /mnt/stockage/packages/f27/kspaceduel/po/fi/kspaceduel.po | 
+ | [fr](/f27/language/fr) | 165 | 165 | 100.0 | /mnt/stockage/packages/f27/kspaceduel/po/fr/kspaceduel.po | 
+ | [ga](/f27/language/ga) | 165 | 165 | 100.0 | /mnt/stockage/packages/f27/kspaceduel/po/ga/kspaceduel.po | 
+ | [gl](/f27/language/gl) | 165 | 165 | 100.0 | /mnt/stockage/packages/f27/kspaceduel/po/gl/kspaceduel.po | 
+ | [hu](/f27/language/hu) | 165 | 165 | 100.0 | /mnt/stockage/packages/f27/kspaceduel/po/hu/kspaceduel.po | 
+ | [it](/f27/language/it) | 165 | 165 | 100.0 | /mnt/stockage/packages/f27/kspaceduel/po/it/kspaceduel.po | 
+ | [ja](/f27/language/ja) | 165 | 165 | 100.0 | /mnt/stockage/packages/f27/kspaceduel/po/ja/kspaceduel.po | 
+ | [kk](/f27/language/kk) | 165 | 165 | 100.0 | /mnt/stockage/packages/f27/kspaceduel/po/kk/kspaceduel.po | 
+ | [km](/f27/language/km) | 165 | 165 | 100.0 | /mnt/stockage/packages/f27/kspaceduel/po/km/kspaceduel.po | 
+ | [lv](/f27/language/lv) | 165 | 165 | 100.0 | /mnt/stockage/packages/f27/kspaceduel/po/lv/kspaceduel.po | 
+ | [nb_NO](/f27/language/nb_NO) | 165 | 165 | 100.0 | /mnt/stockage/packages/f27/kspaceduel/po/nb/kspaceduel.po | 
+ | [nds](/f27/language/nds) | 165 | 165 | 100.0 | /mnt/stockage/packages/f27/kspaceduel/po/nds/kspaceduel.po | 
+ | [nl](/f27/language/nl) | 165 | 165 | 100.0 | /mnt/stockage/packages/f27/kspaceduel/po/nl/kspaceduel.po | 
+ | [nn](/f27/language/nn) | 165 | 165 | 100.0 | /mnt/stockage/packages/f27/kspaceduel/po/nn/kspaceduel.po | 
+ | [pl](/f27/language/pl) | 165 | 165 | 100.0 | /mnt/stockage/packages/f27/kspaceduel/po/pl/kspaceduel.po | 
+ | [pt](/f27/language/pt) | 165 | 165 | 100.0 | /mnt/stockage/packages/f27/kspaceduel/po/pt/kspaceduel.po | 
+ | [pt_BR](/f27/language/pt_BR) | 165 | 165 | 100.0 | /mnt/stockage/packages/f27/kspaceduel/po/pt_BR/kspaceduel.po | 
+ | [ro](/f27/language/ro) | 165 | 165 | 100.0 | /mnt/stockage/packages/f27/kspaceduel/po/ro/kspaceduel.po | 
+ | [ru](/f27/language/ru) | 165 | 165 | 100.0 | /mnt/stockage/packages/f27/kspaceduel/po/ru/kspaceduel.po | 
+ | [sk](/f27/language/sk) | 165 | 165 | 100.0 | /mnt/stockage/packages/f27/kspaceduel/po/sk/kspaceduel.po | 
+ | [sl](/f27/language/sl) | 165 | 165 | 100.0 | /mnt/stockage/packages/f27/kspaceduel/po/sl/kspaceduel.po | 
+ | [sr](/f27/language/sr) | 165 | 165 | 100.0 | /mnt/stockage/packages/f27/kspaceduel/po/sr/kspaceduel.po | 
+ | [sv](/f27/language/sv) | 165 | 165 | 100.0 | /mnt/stockage/packages/f27/kspaceduel/po/sv/kspaceduel.po | 
+ | [tr](/f27/language/tr) | 165 | 165 | 100.0 | /mnt/stockage/packages/f27/kspaceduel/po/tr/kspaceduel.po | 
+ | [uk](/f27/language/uk) | 165 | 165 | 100.0 | /mnt/stockage/packages/f27/kspaceduel/po/uk/kspaceduel.po | 
+ | [zh_Hans](/f27/language/zh_Hans) | 165 | 165 | 100.0 | /mnt/stockage/packages/f27/kspaceduel/po/zh_CN/kspaceduel.po | 
+ | [zh_Hant](/f27/language/zh_Hant) | 165 | 165 | 100.0 | /mnt/stockage/packages/f27/kspaceduel/po/zh_TW/kspaceduel.po | 
+ | [eo](/f27/language/eo) | 161 | 165 | 97.6 | /mnt/stockage/packages/f27/kspaceduel/po/eo/kspaceduel.po | 
+ | [hi](/f27/language/hi) | 150 | 165 | 90.9 | /mnt/stockage/packages/f27/kspaceduel/po/hi/kspaceduel.po | 
+ | [fa](/f27/language/fa) | 145 | 165 | 87.9 | /mnt/stockage/packages/f27/kspaceduel/po/fa/kspaceduel.po | 
+ | [he](/f27/language/he) | 139 | 165 | 84.2 | /mnt/stockage/packages/f27/kspaceduel/po/he/kspaceduel.po | 
+ | [hr](/f27/language/hr) | 139 | 165 | 84.2 | /mnt/stockage/packages/f27/kspaceduel/po/hr/kspaceduel.po | 
+ | [is](/f27/language/is) | 139 | 165 | 84.2 | /mnt/stockage/packages/f27/kspaceduel/po/is/kspaceduel.po | 
+ | [ar](/f27/language/ar) | 138 | 165 | 83.6 | /mnt/stockage/packages/f27/kspaceduel/po/ar/kspaceduel.po | 
+ | [bg](/f27/language/bg) | 134 | 165 | 81.2 | /mnt/stockage/packages/f27/kspaceduel/po/bg/kspaceduel.po | 
+ | [lt](/f27/language/lt) | 95 | 165 | 57.6 | /mnt/stockage/packages/f27/kspaceduel/po/lt/kspaceduel.po | 
+ | [pa](/f27/language/pa) | 80 | 165 | 48.5 | /mnt/stockage/packages/f27/kspaceduel/po/pa/kspaceduel.po | 
+ | [ug](/f27/language/ug) | 37 | 165 | 22.4 | /mnt/stockage/packages/f27/kspaceduel/po/ug/kspaceduel.po | 
+ | [mr](/f27/language/mr) | 33 | 165 | 20.0 | /mnt/stockage/packages/f27/kspaceduel/po/mr/kspaceduel.po | 
+ | [ast](/f27/language/ast) | 5 | 165 | 3.0 | /mnt/stockage/packages/f27/kspaceduel/po/ast/kspaceduel.po | 
 {.sortable}
 
 

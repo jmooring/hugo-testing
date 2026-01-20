@@ -18,8 +18,8 @@ The package lbrickbuster2 (version 2.6):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f11/language/de.md" >}}) | 4328 | 4328 | 100.0 | /mnt/stockage/packages/f11/lbrickbuster2/po/de.po | 
- | [fr]({{< ref "/f11/language/fr.md" >}}) | 4328 | 4328 | 100.0 | /mnt/stockage/packages/f11/lbrickbuster2/po/fr.po | 
+ | [de](/f11/language/de) | 4328 | 4328 | 100.0 | /mnt/stockage/packages/f11/lbrickbuster2/po/de.po | 
+ | [fr](/f11/language/fr) | 4328 | 4328 | 100.0 | /mnt/stockage/packages/f11/lbrickbuster2/po/fr.po | 
 {.sortable}
 
 

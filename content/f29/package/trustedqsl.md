@@ -18,18 +18,18 @@ The package trustedqsl (version 2.4.7):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f29/language/de.md" >}}) | 4027 | 4027 | 100.0 | /mnt/stockage/packages/f29/trustedqsl/apps/lang/de/tqslapp.po | 
- | [es]({{< ref "/f29/language/es.md" >}}) | 4027 | 4027 | 100.0 | /mnt/stockage/packages/f29/trustedqsl/apps/lang/es/tqslapp.po | 
- | [fi]({{< ref "/f29/language/fi.md" >}}) | 4027 | 4027 | 100.0 | /mnt/stockage/packages/f29/trustedqsl/apps/lang/fi/tqslapp.po | 
- | [fr]({{< ref "/f29/language/fr.md" >}}) | 4027 | 4027 | 100.0 | /mnt/stockage/packages/f29/trustedqsl/apps/lang/fr/tqslapp.po | 
- | [it]({{< ref "/f29/language/it.md" >}}) | 4027 | 4027 | 100.0 | /mnt/stockage/packages/f29/trustedqsl/apps/lang/it/tqslapp.po | 
- | [ja]({{< ref "/f29/language/ja.md" >}}) | 4027 | 4027 | 100.0 | /mnt/stockage/packages/f29/trustedqsl/apps/lang/ja/tqslapp.po | 
- | [pl]({{< ref "/f29/language/pl.md" >}}) | 4012 | 4012 | 100.0 | /mnt/stockage/packages/f29/trustedqsl/apps/lang/pl_PL/tqslapp.po | 
- | [pt]({{< ref "/f29/language/pt.md" >}}) | 4023 | 4023 | 100.0 | /mnt/stockage/packages/f29/trustedqsl/apps/lang/pt/tqslapp.po | 
- | [ru]({{< ref "/f29/language/ru.md" >}}) | 4027 | 4027 | 100.0 | /mnt/stockage/packages/f29/trustedqsl/apps/lang/ru/tqslapp.po | 
- | [tr]({{< ref "/f29/language/tr.md" >}}) | 4078 | 4078 | 100.0 | /mnt/stockage/packages/f29/trustedqsl/apps/lang/tr_TR/tqslapp.po | 
- | [zh_Hans]({{< ref "/f29/language/zh_Hans.md" >}}) | 4027 | 4027 | 100.0 | /mnt/stockage/packages/f29/trustedqsl/apps/lang/zh/tqslapp.po | 
- | [hi]({{< ref "/f29/language/hi.md" >}}) | 8524 | 11722 | 72.7 | /mnt/stockage/packages/f29/trustedqsl/apps/lang/hi_IN/tqslapp.po/mnt/stockage/packages/f29/trustedqsl/apps/lang/hi_IN/wxstd.po | 
+ | [de](/f29/language/de) | 4027 | 4027 | 100.0 | /mnt/stockage/packages/f29/trustedqsl/apps/lang/de/tqslapp.po | 
+ | [es](/f29/language/es) | 4027 | 4027 | 100.0 | /mnt/stockage/packages/f29/trustedqsl/apps/lang/es/tqslapp.po | 
+ | [fi](/f29/language/fi) | 4027 | 4027 | 100.0 | /mnt/stockage/packages/f29/trustedqsl/apps/lang/fi/tqslapp.po | 
+ | [fr](/f29/language/fr) | 4027 | 4027 | 100.0 | /mnt/stockage/packages/f29/trustedqsl/apps/lang/fr/tqslapp.po | 
+ | [it](/f29/language/it) | 4027 | 4027 | 100.0 | /mnt/stockage/packages/f29/trustedqsl/apps/lang/it/tqslapp.po | 
+ | [ja](/f29/language/ja) | 4027 | 4027 | 100.0 | /mnt/stockage/packages/f29/trustedqsl/apps/lang/ja/tqslapp.po | 
+ | [pl](/f29/language/pl) | 4012 | 4012 | 100.0 | /mnt/stockage/packages/f29/trustedqsl/apps/lang/pl_PL/tqslapp.po | 
+ | [pt](/f29/language/pt) | 4023 | 4023 | 100.0 | /mnt/stockage/packages/f29/trustedqsl/apps/lang/pt/tqslapp.po | 
+ | [ru](/f29/language/ru) | 4027 | 4027 | 100.0 | /mnt/stockage/packages/f29/trustedqsl/apps/lang/ru/tqslapp.po | 
+ | [tr](/f29/language/tr) | 4078 | 4078 | 100.0 | /mnt/stockage/packages/f29/trustedqsl/apps/lang/tr_TR/tqslapp.po | 
+ | [zh_Hans](/f29/language/zh_Hans) | 4027 | 4027 | 100.0 | /mnt/stockage/packages/f29/trustedqsl/apps/lang/zh/tqslapp.po | 
+ | [hi](/f29/language/hi) | 8524 | 11722 | 72.7 | /mnt/stockage/packages/f29/trustedqsl/apps/lang/hi_IN/tqslapp.po/mnt/stockage/packages/f29/trustedqsl/apps/lang/hi_IN/wxstd.po | 
 {.sortable}
 
 

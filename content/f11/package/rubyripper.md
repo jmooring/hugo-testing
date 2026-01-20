@@ -18,13 +18,13 @@ The package rubyripper (version 0.5.5):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f11/language/de.md" >}}) | 1482 | 1482 | 100.0 | /mnt/stockage/packages/f11/rubyripper/locale/po/de/rubyripper.po | 
- | [es]({{< ref "/f11/language/es.md" >}}) | 1482 | 1482 | 100.0 | /mnt/stockage/packages/f11/rubyripper/locale/po/es/rubyripper.po | 
- | [hu]({{< ref "/f11/language/hu.md" >}}) | 1482 | 1482 | 100.0 | /mnt/stockage/packages/f11/rubyripper/locale/po/hu/rubyripper.po | 
- | [nl]({{< ref "/f11/language/nl.md" >}}) | 1482 | 1482 | 100.0 | /mnt/stockage/packages/f11/rubyripper/locale/po/nl/rubyripper.po | 
- | [ru]({{< ref "/f11/language/ru.md" >}}) | 1467 | 1482 | 99.0 | /mnt/stockage/packages/f11/rubyripper/locale/po/ru/rubyripper.po | 
- | [fr]({{< ref "/f11/language/fr.md" >}}) | 1434 | 1482 | 96.8 | /mnt/stockage/packages/f11/rubyripper/locale/po/fr/rubyripper.po | 
- | [se]({{< ref "/f11/language/se.md" >}}) | 1418 | 1482 | 95.7 | /mnt/stockage/packages/f11/rubyripper/locale/po/se/rubyripper.po | 
+ | [de](/f11/language/de) | 1482 | 1482 | 100.0 | /mnt/stockage/packages/f11/rubyripper/locale/po/de/rubyripper.po | 
+ | [es](/f11/language/es) | 1482 | 1482 | 100.0 | /mnt/stockage/packages/f11/rubyripper/locale/po/es/rubyripper.po | 
+ | [hu](/f11/language/hu) | 1482 | 1482 | 100.0 | /mnt/stockage/packages/f11/rubyripper/locale/po/hu/rubyripper.po | 
+ | [nl](/f11/language/nl) | 1482 | 1482 | 100.0 | /mnt/stockage/packages/f11/rubyripper/locale/po/nl/rubyripper.po | 
+ | [ru](/f11/language/ru) | 1467 | 1482 | 99.0 | /mnt/stockage/packages/f11/rubyripper/locale/po/ru/rubyripper.po | 
+ | [fr](/f11/language/fr) | 1434 | 1482 | 96.8 | /mnt/stockage/packages/f11/rubyripper/locale/po/fr/rubyripper.po | 
+ | [se](/f11/language/se) | 1418 | 1482 | 95.7 | /mnt/stockage/packages/f11/rubyripper/locale/po/se/rubyripper.po | 
 {.sortable}
 
 

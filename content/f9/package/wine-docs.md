@@ -18,15 +18,15 @@ The package wine-docs (version 0.9.59):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f9/language/ca.md" >}}) | 1206 | 1206 | 100.0 | /mnt/stockage/packages/f9/wine-docs/po4a/po/bin/ca.po | 
- | [it]({{< ref "/f9/language/it.md" >}}) | 1245 | 1245 | 100.0 | /mnt/stockage/packages/f9/wine-docs/po4a/po/bin/it.po/mnt/stockage/packages/f9/wine-docs/po4a/t/data-05/test2.it.po/mnt/stockage/packages/f9/wine-docs/po4a/t/data-23/dot5.it.po/mnt/stockage/packages/f9/wine-docs/po4a/t/data-23/escapes1.it.po | 
- | [fr]({{< ref "/f9/language/fr.md" >}}) | 34923 | 34926 | 100.0 | /mnt/stockage/packages/f9/wine-docs/fr/winelib-guide.po/mnt/stockage/packages/f9/wine-docs/fr/wineusr-guide.po/mnt/stockage/packages/f9/wine-docs/po4a/po/bin/fr.po/mnt/stockage/packages/f9/wine-docs/po4a/t/data-05/test0.fr.po/mnt/stockage/packages/f9/wine-docs/po4a/t/data-05/test2.fr.po/mnt/stockage/packages/f9/wine-docs/po4a/t/data-23/dot1.fr.po/mnt/stockage/packages/f9/wine-docs/po4a/t/data-23/null.fr.po/mnt/stockage/packages/f9/wine-docs/po4a/t/data-23/quotes.fr.po/mnt/stockage/packages/f9/wine-docs/po4a/t/data-24/simple.fr.po | 
- | [es]({{< ref "/f9/language/es.md" >}}) | 1212 | 1214 | 99.8 | /mnt/stockage/packages/f9/wine-docs/po4a/po/bin/es.po/mnt/stockage/packages/f9/wine-docs/po4a/t/data-05/test2.es.po | 
- | [error]({{< ref "/f9/language/error.md" >}}) | 57699 | 72200 | 79.9 | /mnt/stockage/packages/f9/wine-docs/po4a/po/pod/ca.po/mnt/stockage/packages/f9/wine-docs/po4a/po/pod/es.po/mnt/stockage/packages/f9/wine-docs/po4a/po/pod/fr.po/mnt/stockage/packages/f9/wine-docs/po4a/po/pod/it.po/mnt/stockage/packages/f9/wine-docs/po4a/t/data-02/pod.po | 
- | [de]({{< ref "/f9/language/de.md" >}}) | 272 | 1214 | 22.4 | /mnt/stockage/packages/f9/wine-docs/po4a/po/bin/de.po/mnt/stockage/packages/f9/wine-docs/po4a/t/data-05/test2.de.po | 
- | [bin]({{< ref "/f9/language/bin.md" >}}) | 182 | 1206 | 15.1 | /mnt/stockage/packages/f9/wine-docs/po4a/po/bin/af.po | 
- | [cs]({{< ref "/f9/language/cs.md" >}}) | 50 | 1206 | 4.1 | /mnt/stockage/packages/f9/wine-docs/po4a/po/bin/cs.po | 
- | [man]({{< ref "/f9/language/man.md" >}}) | 0 | 38 | 0.0 | /mnt/stockage/packages/f9/wine-docs/po4a/t/data-02/man.po | 
+ | [ca](/f9/language/ca) | 1206 | 1206 | 100.0 | /mnt/stockage/packages/f9/wine-docs/po4a/po/bin/ca.po | 
+ | [it](/f9/language/it) | 1245 | 1245 | 100.0 | /mnt/stockage/packages/f9/wine-docs/po4a/po/bin/it.po/mnt/stockage/packages/f9/wine-docs/po4a/t/data-05/test2.it.po/mnt/stockage/packages/f9/wine-docs/po4a/t/data-23/dot5.it.po/mnt/stockage/packages/f9/wine-docs/po4a/t/data-23/escapes1.it.po | 
+ | [fr](/f9/language/fr) | 34923 | 34926 | 100.0 | /mnt/stockage/packages/f9/wine-docs/fr/winelib-guide.po/mnt/stockage/packages/f9/wine-docs/fr/wineusr-guide.po/mnt/stockage/packages/f9/wine-docs/po4a/po/bin/fr.po/mnt/stockage/packages/f9/wine-docs/po4a/t/data-05/test0.fr.po/mnt/stockage/packages/f9/wine-docs/po4a/t/data-05/test2.fr.po/mnt/stockage/packages/f9/wine-docs/po4a/t/data-23/dot1.fr.po/mnt/stockage/packages/f9/wine-docs/po4a/t/data-23/null.fr.po/mnt/stockage/packages/f9/wine-docs/po4a/t/data-23/quotes.fr.po/mnt/stockage/packages/f9/wine-docs/po4a/t/data-24/simple.fr.po | 
+ | [es](/f9/language/es) | 1212 | 1214 | 99.8 | /mnt/stockage/packages/f9/wine-docs/po4a/po/bin/es.po/mnt/stockage/packages/f9/wine-docs/po4a/t/data-05/test2.es.po | 
+ | [error](/f9/language/error) | 57699 | 72200 | 79.9 | /mnt/stockage/packages/f9/wine-docs/po4a/po/pod/ca.po/mnt/stockage/packages/f9/wine-docs/po4a/po/pod/es.po/mnt/stockage/packages/f9/wine-docs/po4a/po/pod/fr.po/mnt/stockage/packages/f9/wine-docs/po4a/po/pod/it.po/mnt/stockage/packages/f9/wine-docs/po4a/t/data-02/pod.po | 
+ | [de](/f9/language/de) | 272 | 1214 | 22.4 | /mnt/stockage/packages/f9/wine-docs/po4a/po/bin/de.po/mnt/stockage/packages/f9/wine-docs/po4a/t/data-05/test2.de.po | 
+ | [bin](/f9/language/bin) | 182 | 1206 | 15.1 | /mnt/stockage/packages/f9/wine-docs/po4a/po/bin/af.po | 
+ | [cs](/f9/language/cs) | 50 | 1206 | 4.1 | /mnt/stockage/packages/f9/wine-docs/po4a/po/bin/cs.po | 
+ | [man](/f9/language/man) | 0 | 38 | 0.0 | /mnt/stockage/packages/f9/wine-docs/po4a/t/data-02/man.po | 
 {.sortable}
 
 

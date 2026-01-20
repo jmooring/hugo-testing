@@ -38,11 +38,11 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [python-django-taggit]({{< ref "/f38/package/python-django-taggit.md" >}}) | 30 | 30 | 100.0 |  | 
- | [python-django3]({{< ref "/f38/package/python-django3.md" >}}) | 3766 | 3781 | 99.6 | Arabic (Algeria) (http://www.transifex.com/django/django/language/ar_DZ/) | 
- | [python-django]({{< ref "/f38/package/python-django.md" >}}) | 3754 | 3848 | 97.6 | Arabic (Algeria) (http://www.transifex.com/django/django/language/ar_DZ/) | 
- | [gnome-shell-extension-dash-to-dock]({{< ref "/f38/package/gnome-shell-extension-dash-to-dock.md" >}}) | 357 | 423 | 84.4 | Faissal Chamekh <chamfay@gmail.com> | 
- | [siril]({{< ref "/f38/package/siril.md" >}}) | 4243 | 42913 | 9.9 | Arabic (Algeria) <https://weblate.pixls.us/projects/siril/siril-application-1-2/ar_DZ/> | 
+ | [python-django-taggit](/f38/package/python-django-taggit) | 30 | 30 | 100.0 |  | 
+ | [python-django3](/f38/package/python-django3) | 3766 | 3781 | 99.6 | Arabic (Algeria) (http://www.transifex.com/django/django/language/ar_DZ/) | 
+ | [python-django](/f38/package/python-django) | 3754 | 3848 | 97.6 | Arabic (Algeria) (http://www.transifex.com/django/django/language/ar_DZ/) | 
+ | [gnome-shell-extension-dash-to-dock](/f38/package/gnome-shell-extension-dash-to-dock) | 357 | 423 | 84.4 | Faissal Chamekh <chamfay@gmail.com> | 
+ | [siril](/f38/package/siril) | 4243 | 42913 | 9.9 | Arabic (Algeria) <https://weblate.pixls.us/projects/siril/siril-application-1-2/ar_DZ/> | 
 {.sortable}
 
 

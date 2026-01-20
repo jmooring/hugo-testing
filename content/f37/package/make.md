@@ -18,35 +18,35 @@ The package make (version 4.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [bg]({{< ref "/f37/language/bg.md" >}}) | 2265 | 2272 | 99.7 | /mnt/stockage/packages/f37/make/po/bg.po | 
- | [cs]({{< ref "/f37/language/cs.md" >}}) | 2265 | 2272 | 99.7 | /mnt/stockage/packages/f37/make/po/cs.po | 
- | [es]({{< ref "/f37/language/es.md" >}}) | 2265 | 2272 | 99.7 | /mnt/stockage/packages/f37/make/po/es.po | 
- | [hr]({{< ref "/f37/language/hr.md" >}}) | 2265 | 2272 | 99.7 | /mnt/stockage/packages/f37/make/po/hr.po | 
- | [ja]({{< ref "/f37/language/ja.md" >}}) | 2265 | 2272 | 99.7 | /mnt/stockage/packages/f37/make/po/ja.po | 
- | [ko]({{< ref "/f37/language/ko.md" >}}) | 2265 | 2272 | 99.7 | /mnt/stockage/packages/f37/make/po/ko.po | 
- | [nl]({{< ref "/f37/language/nl.md" >}}) | 2265 | 2272 | 99.7 | /mnt/stockage/packages/f37/make/po/nl.po | 
- | [pl]({{< ref "/f37/language/pl.md" >}}) | 2265 | 2272 | 99.7 | /mnt/stockage/packages/f37/make/po/pl.po | 
- | [pt]({{< ref "/f37/language/pt.md" >}}) | 2265 | 2272 | 99.7 | /mnt/stockage/packages/f37/make/po/pt.po | 
- | [ru]({{< ref "/f37/language/ru.md" >}}) | 2265 | 2272 | 99.7 | /mnt/stockage/packages/f37/make/po/ru.po | 
- | [sv]({{< ref "/f37/language/sv.md" >}}) | 2265 | 2272 | 99.7 | /mnt/stockage/packages/f37/make/po/sv.po | 
- | [uk]({{< ref "/f37/language/uk.md" >}}) | 2265 | 2272 | 99.7 | /mnt/stockage/packages/f37/make/po/uk.po | 
- | [vi]({{< ref "/f37/language/vi.md" >}}) | 2265 | 2272 | 99.7 | /mnt/stockage/packages/f37/make/po/vi.po | 
- | [zh_Hans]({{< ref "/f37/language/zh_Hans.md" >}}) | 2265 | 2272 | 99.7 | /mnt/stockage/packages/f37/make/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f37/language/zh_Hant.md" >}}) | 2265 | 2272 | 99.7 | /mnt/stockage/packages/f37/make/po/zh_TW.po | 
- | [it]({{< ref "/f37/language/it.md" >}}) | 2260 | 2272 | 99.5 | /mnt/stockage/packages/f37/make/po/it.po | 
- | [pt_BR]({{< ref "/f37/language/pt_BR.md" >}}) | 2260 | 2272 | 99.5 | /mnt/stockage/packages/f37/make/po/pt_BR.po | 
- | [da]({{< ref "/f37/language/da.md" >}}) | 2185 | 2272 | 96.2 | /mnt/stockage/packages/f37/make/po/da.po | 
- | [fr]({{< ref "/f37/language/fr.md" >}}) | 2185 | 2272 | 96.2 | /mnt/stockage/packages/f37/make/po/fr.po | 
- | [ga]({{< ref "/f37/language/ga.md" >}}) | 2185 | 2272 | 96.2 | /mnt/stockage/packages/f37/make/po/ga.po | 
- | [sr]({{< ref "/f37/language/sr.md" >}}) | 2185 | 2272 | 96.2 | /mnt/stockage/packages/f37/make/po/sr.po | 
- | [de]({{< ref "/f37/language/de.md" >}}) | 2182 | 2272 | 96.0 | /mnt/stockage/packages/f37/make/po/de.po | 
- | [id]({{< ref "/f37/language/id.md" >}}) | 2073 | 2272 | 91.2 | /mnt/stockage/packages/f37/make/po/id.po | 
- | [fi]({{< ref "/f37/language/fi.md" >}}) | 1515 | 2272 | 66.7 | /mnt/stockage/packages/f37/make/po/fi.po | 
- | [gl]({{< ref "/f37/language/gl.md" >}}) | 969 | 2272 | 42.6 | /mnt/stockage/packages/f37/make/po/gl.po | 
- | [tr]({{< ref "/f37/language/tr.md" >}}) | 834 | 2272 | 36.7 | /mnt/stockage/packages/f37/make/po/tr.po | 
- | [he]({{< ref "/f37/language/he.md" >}}) | 490 | 2272 | 21.6 | /mnt/stockage/packages/f37/make/po/he.po | 
- | [lt]({{< ref "/f37/language/lt.md" >}}) | 294 | 2272 | 12.9 | /mnt/stockage/packages/f37/make/po/lt.po | 
- | [be]({{< ref "/f37/language/be.md" >}}) | 231 | 2272 | 10.2 | /mnt/stockage/packages/f37/make/po/be.po | 
+ | [bg](/f37/language/bg) | 2265 | 2272 | 99.7 | /mnt/stockage/packages/f37/make/po/bg.po | 
+ | [cs](/f37/language/cs) | 2265 | 2272 | 99.7 | /mnt/stockage/packages/f37/make/po/cs.po | 
+ | [es](/f37/language/es) | 2265 | 2272 | 99.7 | /mnt/stockage/packages/f37/make/po/es.po | 
+ | [hr](/f37/language/hr) | 2265 | 2272 | 99.7 | /mnt/stockage/packages/f37/make/po/hr.po | 
+ | [ja](/f37/language/ja) | 2265 | 2272 | 99.7 | /mnt/stockage/packages/f37/make/po/ja.po | 
+ | [ko](/f37/language/ko) | 2265 | 2272 | 99.7 | /mnt/stockage/packages/f37/make/po/ko.po | 
+ | [nl](/f37/language/nl) | 2265 | 2272 | 99.7 | /mnt/stockage/packages/f37/make/po/nl.po | 
+ | [pl](/f37/language/pl) | 2265 | 2272 | 99.7 | /mnt/stockage/packages/f37/make/po/pl.po | 
+ | [pt](/f37/language/pt) | 2265 | 2272 | 99.7 | /mnt/stockage/packages/f37/make/po/pt.po | 
+ | [ru](/f37/language/ru) | 2265 | 2272 | 99.7 | /mnt/stockage/packages/f37/make/po/ru.po | 
+ | [sv](/f37/language/sv) | 2265 | 2272 | 99.7 | /mnt/stockage/packages/f37/make/po/sv.po | 
+ | [uk](/f37/language/uk) | 2265 | 2272 | 99.7 | /mnt/stockage/packages/f37/make/po/uk.po | 
+ | [vi](/f37/language/vi) | 2265 | 2272 | 99.7 | /mnt/stockage/packages/f37/make/po/vi.po | 
+ | [zh_Hans](/f37/language/zh_Hans) | 2265 | 2272 | 99.7 | /mnt/stockage/packages/f37/make/po/zh_CN.po | 
+ | [zh_Hant](/f37/language/zh_Hant) | 2265 | 2272 | 99.7 | /mnt/stockage/packages/f37/make/po/zh_TW.po | 
+ | [it](/f37/language/it) | 2260 | 2272 | 99.5 | /mnt/stockage/packages/f37/make/po/it.po | 
+ | [pt_BR](/f37/language/pt_BR) | 2260 | 2272 | 99.5 | /mnt/stockage/packages/f37/make/po/pt_BR.po | 
+ | [da](/f37/language/da) | 2185 | 2272 | 96.2 | /mnt/stockage/packages/f37/make/po/da.po | 
+ | [fr](/f37/language/fr) | 2185 | 2272 | 96.2 | /mnt/stockage/packages/f37/make/po/fr.po | 
+ | [ga](/f37/language/ga) | 2185 | 2272 | 96.2 | /mnt/stockage/packages/f37/make/po/ga.po | 
+ | [sr](/f37/language/sr) | 2185 | 2272 | 96.2 | /mnt/stockage/packages/f37/make/po/sr.po | 
+ | [de](/f37/language/de) | 2182 | 2272 | 96.0 | /mnt/stockage/packages/f37/make/po/de.po | 
+ | [id](/f37/language/id) | 2073 | 2272 | 91.2 | /mnt/stockage/packages/f37/make/po/id.po | 
+ | [fi](/f37/language/fi) | 1515 | 2272 | 66.7 | /mnt/stockage/packages/f37/make/po/fi.po | 
+ | [gl](/f37/language/gl) | 969 | 2272 | 42.6 | /mnt/stockage/packages/f37/make/po/gl.po | 
+ | [tr](/f37/language/tr) | 834 | 2272 | 36.7 | /mnt/stockage/packages/f37/make/po/tr.po | 
+ | [he](/f37/language/he) | 490 | 2272 | 21.6 | /mnt/stockage/packages/f37/make/po/he.po | 
+ | [lt](/f37/language/lt) | 294 | 2272 | 12.9 | /mnt/stockage/packages/f37/make/po/lt.po | 
+ | [be](/f37/language/be) | 231 | 2272 | 10.2 | /mnt/stockage/packages/f37/make/po/be.po | 
 {.sortable}
 
 

@@ -18,30 +18,30 @@ The package grip (version 4.1.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [da]({{< ref "/f33/language/da.md" >}}) | 1097 | 1097 | 100.0 | /mnt/stockage/packages/f33/grip/po/da.po | 
- | [de]({{< ref "/f33/language/de.md" >}}) | 1097 | 1097 | 100.0 | /mnt/stockage/packages/f33/grip/po/de.po | 
- | [ko]({{< ref "/f33/language/ko.md" >}}) | 1097 | 1097 | 100.0 | /mnt/stockage/packages/f33/grip/po/ko.po | 
- | [nb_NO]({{< ref "/f33/language/nb_NO.md" >}}) | 1097 | 1097 | 100.0 | /mnt/stockage/packages/f33/grip/po/nb.po | 
- | [nl]({{< ref "/f33/language/nl.md" >}}) | 1097 | 1097 | 100.0 | /mnt/stockage/packages/f33/grip/po/nl.po | 
- | [pt_BR]({{< ref "/f33/language/pt_BR.md" >}}) | 1097 | 1097 | 100.0 | /mnt/stockage/packages/f33/grip/po/pt_BR.po | 
- | [uk]({{< ref "/f33/language/uk.md" >}}) | 1097 | 1097 | 100.0 | /mnt/stockage/packages/f33/grip/po/uk.po | 
- | [es]({{< ref "/f33/language/es.md" >}}) | 1089 | 1097 | 99.3 | /mnt/stockage/packages/f33/grip/po/es.po | 
- | [fr]({{< ref "/f33/language/fr.md" >}}) | 1089 | 1097 | 99.3 | /mnt/stockage/packages/f33/grip/po/fr.po | 
- | [hu]({{< ref "/f33/language/hu.md" >}}) | 1089 | 1097 | 99.3 | /mnt/stockage/packages/f33/grip/po/hu.po | 
- | [ru]({{< ref "/f33/language/ru.md" >}}) | 1089 | 1097 | 99.3 | /mnt/stockage/packages/f33/grip/po/ru.po | 
- | [sr]({{< ref "/f33/language/sr.md" >}}) | 1089 | 1097 | 99.3 | /mnt/stockage/packages/f33/grip/po/sr.po | 
- | [vi]({{< ref "/f33/language/vi.md" >}}) | 1064 | 1097 | 97.0 | /mnt/stockage/packages/f33/grip/po/vi.po | 
- | [it]({{< ref "/f33/language/it.md" >}}) | 1062 | 1097 | 96.8 | /mnt/stockage/packages/f33/grip/po/it.po | 
- | [zh_Hans]({{< ref "/f33/language/zh_Hans.md" >}}) | 1050 | 1097 | 95.7 | /mnt/stockage/packages/f33/grip/po/zh_CN.po | 
- | [fur]({{< ref "/f33/language/fur.md" >}}) | 1048 | 1097 | 95.5 | /mnt/stockage/packages/f33/grip/po/fur.po | 
- | [pl]({{< ref "/f33/language/pl.md" >}}) | 979 | 1097 | 89.2 | /mnt/stockage/packages/f33/grip/po/pl.po | 
- | [ca]({{< ref "/f33/language/ca.md" >}}) | 819 | 1097 | 74.7 | /mnt/stockage/packages/f33/grip/po/ca.po | 
- | [fi]({{< ref "/f33/language/fi.md" >}}) | 819 | 1097 | 74.7 | /mnt/stockage/packages/f33/grip/po/fi.po | 
- | [ja]({{< ref "/f33/language/ja.md" >}}) | 819 | 1097 | 74.7 | /mnt/stockage/packages/f33/grip/po/ja.po | 
- | [bg]({{< ref "/f33/language/bg.md" >}}) | 741 | 1097 | 67.5 | /mnt/stockage/packages/f33/grip/po/bg.po | 
- | [be]({{< ref "/f33/language/be.md" >}}) | 661 | 1097 | 60.3 | /mnt/stockage/packages/f33/grip/po/be.po | 
- | [zh_Hant]({{< ref "/f33/language/zh_Hant.md" >}}) | 596 | 1097 | 54.3 | /mnt/stockage/packages/f33/grip/po/zh_TW.po | 
- | [zh_Hant_HK]({{< ref "/f33/language/zh_Hant_HK.md" >}}) | 596 | 1097 | 54.3 | /mnt/stockage/packages/f33/grip/po/zh_HK.po | 
+ | [da](/f33/language/da) | 1097 | 1097 | 100.0 | /mnt/stockage/packages/f33/grip/po/da.po | 
+ | [de](/f33/language/de) | 1097 | 1097 | 100.0 | /mnt/stockage/packages/f33/grip/po/de.po | 
+ | [ko](/f33/language/ko) | 1097 | 1097 | 100.0 | /mnt/stockage/packages/f33/grip/po/ko.po | 
+ | [nb_NO](/f33/language/nb_NO) | 1097 | 1097 | 100.0 | /mnt/stockage/packages/f33/grip/po/nb.po | 
+ | [nl](/f33/language/nl) | 1097 | 1097 | 100.0 | /mnt/stockage/packages/f33/grip/po/nl.po | 
+ | [pt_BR](/f33/language/pt_BR) | 1097 | 1097 | 100.0 | /mnt/stockage/packages/f33/grip/po/pt_BR.po | 
+ | [uk](/f33/language/uk) | 1097 | 1097 | 100.0 | /mnt/stockage/packages/f33/grip/po/uk.po | 
+ | [es](/f33/language/es) | 1089 | 1097 | 99.3 | /mnt/stockage/packages/f33/grip/po/es.po | 
+ | [fr](/f33/language/fr) | 1089 | 1097 | 99.3 | /mnt/stockage/packages/f33/grip/po/fr.po | 
+ | [hu](/f33/language/hu) | 1089 | 1097 | 99.3 | /mnt/stockage/packages/f33/grip/po/hu.po | 
+ | [ru](/f33/language/ru) | 1089 | 1097 | 99.3 | /mnt/stockage/packages/f33/grip/po/ru.po | 
+ | [sr](/f33/language/sr) | 1089 | 1097 | 99.3 | /mnt/stockage/packages/f33/grip/po/sr.po | 
+ | [vi](/f33/language/vi) | 1064 | 1097 | 97.0 | /mnt/stockage/packages/f33/grip/po/vi.po | 
+ | [it](/f33/language/it) | 1062 | 1097 | 96.8 | /mnt/stockage/packages/f33/grip/po/it.po | 
+ | [zh_Hans](/f33/language/zh_Hans) | 1050 | 1097 | 95.7 | /mnt/stockage/packages/f33/grip/po/zh_CN.po | 
+ | [fur](/f33/language/fur) | 1048 | 1097 | 95.5 | /mnt/stockage/packages/f33/grip/po/fur.po | 
+ | [pl](/f33/language/pl) | 979 | 1097 | 89.2 | /mnt/stockage/packages/f33/grip/po/pl.po | 
+ | [ca](/f33/language/ca) | 819 | 1097 | 74.7 | /mnt/stockage/packages/f33/grip/po/ca.po | 
+ | [fi](/f33/language/fi) | 819 | 1097 | 74.7 | /mnt/stockage/packages/f33/grip/po/fi.po | 
+ | [ja](/f33/language/ja) | 819 | 1097 | 74.7 | /mnt/stockage/packages/f33/grip/po/ja.po | 
+ | [bg](/f33/language/bg) | 741 | 1097 | 67.5 | /mnt/stockage/packages/f33/grip/po/bg.po | 
+ | [be](/f33/language/be) | 661 | 1097 | 60.3 | /mnt/stockage/packages/f33/grip/po/be.po | 
+ | [zh_Hant](/f33/language/zh_Hant) | 596 | 1097 | 54.3 | /mnt/stockage/packages/f33/grip/po/zh_TW.po | 
+ | [zh_Hant_HK](/f33/language/zh_Hant_HK) | 596 | 1097 | 54.3 | /mnt/stockage/packages/f33/grip/po/zh_HK.po | 
 {.sortable}
 
 

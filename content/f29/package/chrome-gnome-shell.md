@@ -18,34 +18,34 @@ The package chrome-gnome-shell (version 10.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f29/language/ca.md" >}}) | 331 | 331 | 100.0 | /mnt/stockage/packages/f29/chrome-gnome-shell/po/ca.po | 
- | [cs]({{< ref "/f29/language/cs.md" >}}) | 313 | 313 | 100.0 | /mnt/stockage/packages/f29/chrome-gnome-shell/po/cs.po | 
- | [da]({{< ref "/f29/language/da.md" >}}) | 313 | 313 | 100.0 | /mnt/stockage/packages/f29/chrome-gnome-shell/po/da.po | 
- | [de]({{< ref "/f29/language/de.md" >}}) | 313 | 313 | 100.0 | /mnt/stockage/packages/f29/chrome-gnome-shell/po/de.po | 
- | [es]({{< ref "/f29/language/es.md" >}}) | 313 | 313 | 100.0 | /mnt/stockage/packages/f29/chrome-gnome-shell/po/es.po | 
- | [fr]({{< ref "/f29/language/fr.md" >}}) | 331 | 331 | 100.0 | /mnt/stockage/packages/f29/chrome-gnome-shell/po/fr.po | 
- | [gd]({{< ref "/f29/language/gd.md" >}}) | 331 | 331 | 100.0 | /mnt/stockage/packages/f29/chrome-gnome-shell/po/gd.po | 
- | [gl]({{< ref "/f29/language/gl.md" >}}) | 329 | 329 | 100.0 | /mnt/stockage/packages/f29/chrome-gnome-shell/po/gl.po | 
- | [hr]({{< ref "/f29/language/hr.md" >}}) | 313 | 313 | 100.0 | /mnt/stockage/packages/f29/chrome-gnome-shell/po/hr.po | 
- | [hu]({{< ref "/f29/language/hu.md" >}}) | 313 | 313 | 100.0 | /mnt/stockage/packages/f29/chrome-gnome-shell/po/hu.po | 
- | [id]({{< ref "/f29/language/id.md" >}}) | 313 | 313 | 100.0 | /mnt/stockage/packages/f29/chrome-gnome-shell/po/id.po | 
- | [it]({{< ref "/f29/language/it.md" >}}) | 329 | 329 | 100.0 | /mnt/stockage/packages/f29/chrome-gnome-shell/po/it.po | 
- | [ko]({{< ref "/f29/language/ko.md" >}}) | 331 | 331 | 100.0 | /mnt/stockage/packages/f29/chrome-gnome-shell/po/ko.po | 
- | [nl]({{< ref "/f29/language/nl.md" >}}) | 313 | 313 | 100.0 | /mnt/stockage/packages/f29/chrome-gnome-shell/po/nl.po | 
- | [pl]({{< ref "/f29/language/pl.md" >}}) | 313 | 313 | 100.0 | /mnt/stockage/packages/f29/chrome-gnome-shell/po/pl.po | 
- | [pt_BR]({{< ref "/f29/language/pt_BR.md" >}}) | 313 | 313 | 100.0 | /mnt/stockage/packages/f29/chrome-gnome-shell/po/pt_BR.po | 
- | [ru]({{< ref "/f29/language/ru.md" >}}) | 313 | 313 | 100.0 | /mnt/stockage/packages/f29/chrome-gnome-shell/po/ru.po | 
- | [sk]({{< ref "/f29/language/sk.md" >}}) | 329 | 329 | 100.0 | /mnt/stockage/packages/f29/chrome-gnome-shell/po/sk.po | 
- | [sr]({{< ref "/f29/language/sr.md" >}}) | 313 | 313 | 100.0 | /mnt/stockage/packages/f29/chrome-gnome-shell/po/sr.po | 
- | [sv]({{< ref "/f29/language/sv.md" >}}) | 313 | 313 | 100.0 | /mnt/stockage/packages/f29/chrome-gnome-shell/po/sv.po | 
- | [tr]({{< ref "/f29/language/tr.md" >}}) | 313 | 313 | 100.0 | /mnt/stockage/packages/f29/chrome-gnome-shell/po/tr.po | 
- | [oc]({{< ref "/f29/language/oc.md" >}}) | 184 | 308 | 59.7 | /mnt/stockage/packages/f29/chrome-gnome-shell/po/oc.po | 
- | [et]({{< ref "/f29/language/et.md" >}}) | 162 | 313 | 51.8 | /mnt/stockage/packages/f29/chrome-gnome-shell/po/et.po | 
- | [fi]({{< ref "/f29/language/fi.md" >}}) | 139 | 313 | 44.4 | /mnt/stockage/packages/f29/chrome-gnome-shell/po/fi.po | 
- | [el]({{< ref "/f29/language/el.md" >}}) | 109 | 308 | 35.4 | /mnt/stockage/packages/f29/chrome-gnome-shell/po/el.po | 
- | [nb_NO]({{< ref "/f29/language/nb_NO.md" >}}) | 30 | 329 | 9.1 | /mnt/stockage/packages/f29/chrome-gnome-shell/po/nb.po | 
- | [sl]({{< ref "/f29/language/sl.md" >}}) | 14 | 308 | 4.5 | /mnt/stockage/packages/f29/chrome-gnome-shell/po/sl.po | 
- | [pt]({{< ref "/f29/language/pt.md" >}}) | 13 | 308 | 4.2 | /mnt/stockage/packages/f29/chrome-gnome-shell/po/pt.po | 
+ | [ca](/f29/language/ca) | 331 | 331 | 100.0 | /mnt/stockage/packages/f29/chrome-gnome-shell/po/ca.po | 
+ | [cs](/f29/language/cs) | 313 | 313 | 100.0 | /mnt/stockage/packages/f29/chrome-gnome-shell/po/cs.po | 
+ | [da](/f29/language/da) | 313 | 313 | 100.0 | /mnt/stockage/packages/f29/chrome-gnome-shell/po/da.po | 
+ | [de](/f29/language/de) | 313 | 313 | 100.0 | /mnt/stockage/packages/f29/chrome-gnome-shell/po/de.po | 
+ | [es](/f29/language/es) | 313 | 313 | 100.0 | /mnt/stockage/packages/f29/chrome-gnome-shell/po/es.po | 
+ | [fr](/f29/language/fr) | 331 | 331 | 100.0 | /mnt/stockage/packages/f29/chrome-gnome-shell/po/fr.po | 
+ | [gd](/f29/language/gd) | 331 | 331 | 100.0 | /mnt/stockage/packages/f29/chrome-gnome-shell/po/gd.po | 
+ | [gl](/f29/language/gl) | 329 | 329 | 100.0 | /mnt/stockage/packages/f29/chrome-gnome-shell/po/gl.po | 
+ | [hr](/f29/language/hr) | 313 | 313 | 100.0 | /mnt/stockage/packages/f29/chrome-gnome-shell/po/hr.po | 
+ | [hu](/f29/language/hu) | 313 | 313 | 100.0 | /mnt/stockage/packages/f29/chrome-gnome-shell/po/hu.po | 
+ | [id](/f29/language/id) | 313 | 313 | 100.0 | /mnt/stockage/packages/f29/chrome-gnome-shell/po/id.po | 
+ | [it](/f29/language/it) | 329 | 329 | 100.0 | /mnt/stockage/packages/f29/chrome-gnome-shell/po/it.po | 
+ | [ko](/f29/language/ko) | 331 | 331 | 100.0 | /mnt/stockage/packages/f29/chrome-gnome-shell/po/ko.po | 
+ | [nl](/f29/language/nl) | 313 | 313 | 100.0 | /mnt/stockage/packages/f29/chrome-gnome-shell/po/nl.po | 
+ | [pl](/f29/language/pl) | 313 | 313 | 100.0 | /mnt/stockage/packages/f29/chrome-gnome-shell/po/pl.po | 
+ | [pt_BR](/f29/language/pt_BR) | 313 | 313 | 100.0 | /mnt/stockage/packages/f29/chrome-gnome-shell/po/pt_BR.po | 
+ | [ru](/f29/language/ru) | 313 | 313 | 100.0 | /mnt/stockage/packages/f29/chrome-gnome-shell/po/ru.po | 
+ | [sk](/f29/language/sk) | 329 | 329 | 100.0 | /mnt/stockage/packages/f29/chrome-gnome-shell/po/sk.po | 
+ | [sr](/f29/language/sr) | 313 | 313 | 100.0 | /mnt/stockage/packages/f29/chrome-gnome-shell/po/sr.po | 
+ | [sv](/f29/language/sv) | 313 | 313 | 100.0 | /mnt/stockage/packages/f29/chrome-gnome-shell/po/sv.po | 
+ | [tr](/f29/language/tr) | 313 | 313 | 100.0 | /mnt/stockage/packages/f29/chrome-gnome-shell/po/tr.po | 
+ | [oc](/f29/language/oc) | 184 | 308 | 59.7 | /mnt/stockage/packages/f29/chrome-gnome-shell/po/oc.po | 
+ | [et](/f29/language/et) | 162 | 313 | 51.8 | /mnt/stockage/packages/f29/chrome-gnome-shell/po/et.po | 
+ | [fi](/f29/language/fi) | 139 | 313 | 44.4 | /mnt/stockage/packages/f29/chrome-gnome-shell/po/fi.po | 
+ | [el](/f29/language/el) | 109 | 308 | 35.4 | /mnt/stockage/packages/f29/chrome-gnome-shell/po/el.po | 
+ | [nb_NO](/f29/language/nb_NO) | 30 | 329 | 9.1 | /mnt/stockage/packages/f29/chrome-gnome-shell/po/nb.po | 
+ | [sl](/f29/language/sl) | 14 | 308 | 4.5 | /mnt/stockage/packages/f29/chrome-gnome-shell/po/sl.po | 
+ | [pt](/f29/language/pt) | 13 | 308 | 4.2 | /mnt/stockage/packages/f29/chrome-gnome-shell/po/pt.po | 
 {.sortable}
 
 

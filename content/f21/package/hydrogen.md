@@ -18,11 +18,11 @@ The package hydrogen (version 0.9.5.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [es]({{< ref "/f21/language/es.md" >}}) | 9726 | 9746 | 99.8 | /mnt/stockage/packages/f21/hydrogen/data/doc/manual_es.po/mnt/stockage/packages/f21/hydrogen/data/doc/tutorial_es.po | 
- | [ca]({{< ref "/f21/language/ca.md" >}}) | 7597 | 7630 | 99.6 | /mnt/stockage/packages/f21/hydrogen/data/doc/manual_ca.po | 
- | [fr]({{< ref "/f21/language/fr.md" >}}) | 6502 | 6563 | 99.1 | /mnt/stockage/packages/f21/hydrogen/data/doc/manual_fr.po/mnt/stockage/packages/f21/hydrogen/data/doc/tutorial_fr.po | 
- | [it]({{< ref "/f21/language/it.md" >}}) | 2471 | 9921 | 24.9 | /mnt/stockage/packages/f21/hydrogen/data/doc/manual_it.po/mnt/stockage/packages/f21/hydrogen/data/doc/tutorial_it.po | 
- | [nl]({{< ref "/f21/language/nl.md" >}}) | 381 | 7769 | 4.9 | /mnt/stockage/packages/f21/hydrogen/data/doc/manual_nl.po | 
+ | [es](/f21/language/es) | 9726 | 9746 | 99.8 | /mnt/stockage/packages/f21/hydrogen/data/doc/manual_es.po/mnt/stockage/packages/f21/hydrogen/data/doc/tutorial_es.po | 
+ | [ca](/f21/language/ca) | 7597 | 7630 | 99.6 | /mnt/stockage/packages/f21/hydrogen/data/doc/manual_ca.po | 
+ | [fr](/f21/language/fr) | 6502 | 6563 | 99.1 | /mnt/stockage/packages/f21/hydrogen/data/doc/manual_fr.po/mnt/stockage/packages/f21/hydrogen/data/doc/tutorial_fr.po | 
+ | [it](/f21/language/it) | 2471 | 9921 | 24.9 | /mnt/stockage/packages/f21/hydrogen/data/doc/manual_it.po/mnt/stockage/packages/f21/hydrogen/data/doc/tutorial_it.po | 
+ | [nl](/f21/language/nl) | 381 | 7769 | 4.9 | /mnt/stockage/packages/f21/hydrogen/data/doc/manual_nl.po | 
 {.sortable}
 
 

@@ -18,22 +18,22 @@ The package libidn (version 1.22):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [error]({{< ref "/f16/language/error.md" >}}) | 828 | 828 | 100.0 | /mnt/stockage/packages/f16/libidn/po/en@quot.po/mnt/stockage/packages/f16/libidn/po/en@boldquot.po | 
- | [cs]({{< ref "/f16/language/cs.md" >}}) | 339 | 414 | 81.9 | /mnt/stockage/packages/f16/libidn/po/cs.po | 
- | [eo]({{< ref "/f16/language/eo.md" >}}) | 339 | 414 | 81.9 | /mnt/stockage/packages/f16/libidn/po/eo.po | 
- | [fi]({{< ref "/f16/language/fi.md" >}}) | 339 | 414 | 81.9 | /mnt/stockage/packages/f16/libidn/po/fi.po | 
- | [fr]({{< ref "/f16/language/fr.md" >}}) | 339 | 414 | 81.9 | /mnt/stockage/packages/f16/libidn/po/fr.po | 
- | [zh_Hans]({{< ref "/f16/language/zh_Hans.md" >}}) | 339 | 414 | 81.9 | /mnt/stockage/packages/f16/libidn/po/zh_CN.po | 
- | [da]({{< ref "/f16/language/da.md" >}}) | 338 | 414 | 81.6 | /mnt/stockage/packages/f16/libidn/po/da.po | 
- | [de]({{< ref "/f16/language/de.md" >}}) | 338 | 414 | 81.6 | /mnt/stockage/packages/f16/libidn/po/de.po | 
- | [id]({{< ref "/f16/language/id.md" >}}) | 338 | 414 | 81.6 | /mnt/stockage/packages/f16/libidn/po/id.po | 
- | [it]({{< ref "/f16/language/it.md" >}}) | 338 | 414 | 81.6 | /mnt/stockage/packages/f16/libidn/po/it.po | 
- | [nl]({{< ref "/f16/language/nl.md" >}}) | 338 | 414 | 81.6 | /mnt/stockage/packages/f16/libidn/po/nl.po | 
- | [pl]({{< ref "/f16/language/pl.md" >}}) | 338 | 414 | 81.6 | /mnt/stockage/packages/f16/libidn/po/pl.po | 
- | [vi]({{< ref "/f16/language/vi.md" >}}) | 338 | 414 | 81.6 | /mnt/stockage/packages/f16/libidn/po/vi.po | 
- | [ja]({{< ref "/f16/language/ja.md" >}}) | 160 | 414 | 38.6 | /mnt/stockage/packages/f16/libidn/po/ja.po | 
- | [sr]({{< ref "/f16/language/sr.md" >}}) | 160 | 414 | 38.6 | /mnt/stockage/packages/f16/libidn/po/sr.po | 
- | [ro]({{< ref "/f16/language/ro.md" >}}) | 16 | 414 | 3.9 | /mnt/stockage/packages/f16/libidn/po/ro.po | 
+ | [error](/f16/language/error) | 828 | 828 | 100.0 | /mnt/stockage/packages/f16/libidn/po/en@quot.po/mnt/stockage/packages/f16/libidn/po/en@boldquot.po | 
+ | [cs](/f16/language/cs) | 339 | 414 | 81.9 | /mnt/stockage/packages/f16/libidn/po/cs.po | 
+ | [eo](/f16/language/eo) | 339 | 414 | 81.9 | /mnt/stockage/packages/f16/libidn/po/eo.po | 
+ | [fi](/f16/language/fi) | 339 | 414 | 81.9 | /mnt/stockage/packages/f16/libidn/po/fi.po | 
+ | [fr](/f16/language/fr) | 339 | 414 | 81.9 | /mnt/stockage/packages/f16/libidn/po/fr.po | 
+ | [zh_Hans](/f16/language/zh_Hans) | 339 | 414 | 81.9 | /mnt/stockage/packages/f16/libidn/po/zh_CN.po | 
+ | [da](/f16/language/da) | 338 | 414 | 81.6 | /mnt/stockage/packages/f16/libidn/po/da.po | 
+ | [de](/f16/language/de) | 338 | 414 | 81.6 | /mnt/stockage/packages/f16/libidn/po/de.po | 
+ | [id](/f16/language/id) | 338 | 414 | 81.6 | /mnt/stockage/packages/f16/libidn/po/id.po | 
+ | [it](/f16/language/it) | 338 | 414 | 81.6 | /mnt/stockage/packages/f16/libidn/po/it.po | 
+ | [nl](/f16/language/nl) | 338 | 414 | 81.6 | /mnt/stockage/packages/f16/libidn/po/nl.po | 
+ | [pl](/f16/language/pl) | 338 | 414 | 81.6 | /mnt/stockage/packages/f16/libidn/po/pl.po | 
+ | [vi](/f16/language/vi) | 338 | 414 | 81.6 | /mnt/stockage/packages/f16/libidn/po/vi.po | 
+ | [ja](/f16/language/ja) | 160 | 414 | 38.6 | /mnt/stockage/packages/f16/libidn/po/ja.po | 
+ | [sr](/f16/language/sr) | 160 | 414 | 38.6 | /mnt/stockage/packages/f16/libidn/po/sr.po | 
+ | [ro](/f16/language/ro) | 16 | 414 | 3.9 | /mnt/stockage/packages/f16/libidn/po/ro.po | 
 {.sortable}
 
 

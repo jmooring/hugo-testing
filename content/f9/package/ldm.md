@@ -18,19 +18,19 @@ The package ldm (version 2.0.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f9/language/de.md" >}}) | 160 | 160 | 100.0 | /mnt/stockage/packages/f9/ldm/po/de.po | 
- | [es]({{< ref "/f9/language/es.md" >}}) | 160 | 160 | 100.0 | /mnt/stockage/packages/f9/ldm/po/es.po | 
- | [eu]({{< ref "/f9/language/eu.md" >}}) | 160 | 160 | 100.0 | /mnt/stockage/packages/f9/ldm/po/eu.po | 
- | [fi]({{< ref "/f9/language/fi.md" >}}) | 160 | 160 | 100.0 | /mnt/stockage/packages/f9/ldm/po/fi.po | 
- | [fr]({{< ref "/f9/language/fr.md" >}}) | 160 | 160 | 100.0 | /mnt/stockage/packages/f9/ldm/po/fr.po | 
- | [ja]({{< ref "/f9/language/ja.md" >}}) | 160 | 160 | 100.0 | /mnt/stockage/packages/f9/ldm/po/ja.po | 
- | [nb_NO]({{< ref "/f9/language/nb_NO.md" >}}) | 160 | 160 | 100.0 | /mnt/stockage/packages/f9/ldm/po/nb.po | 
- | [pl]({{< ref "/f9/language/pl.md" >}}) | 160 | 160 | 100.0 | /mnt/stockage/packages/f9/ldm/po/pl.po | 
- | [pt]({{< ref "/f9/language/pt.md" >}}) | 160 | 160 | 100.0 | /mnt/stockage/packages/f9/ldm/po/pt.po | 
- | [ru]({{< ref "/f9/language/ru.md" >}}) | 160 | 160 | 100.0 | /mnt/stockage/packages/f9/ldm/po/ru.po | 
- | [sv]({{< ref "/f9/language/sv.md" >}}) | 160 | 160 | 100.0 | /mnt/stockage/packages/f9/ldm/po/sv.po | 
- | [vi]({{< ref "/f9/language/vi.md" >}}) | 160 | 160 | 100.0 | /mnt/stockage/packages/f9/ldm/po/vi.po | 
- | [hu]({{< ref "/f9/language/hu.md" >}}) | 140 | 160 | 87.5 | /mnt/stockage/packages/f9/ldm/po/hu.po | 
+ | [de](/f9/language/de) | 160 | 160 | 100.0 | /mnt/stockage/packages/f9/ldm/po/de.po | 
+ | [es](/f9/language/es) | 160 | 160 | 100.0 | /mnt/stockage/packages/f9/ldm/po/es.po | 
+ | [eu](/f9/language/eu) | 160 | 160 | 100.0 | /mnt/stockage/packages/f9/ldm/po/eu.po | 
+ | [fi](/f9/language/fi) | 160 | 160 | 100.0 | /mnt/stockage/packages/f9/ldm/po/fi.po | 
+ | [fr](/f9/language/fr) | 160 | 160 | 100.0 | /mnt/stockage/packages/f9/ldm/po/fr.po | 
+ | [ja](/f9/language/ja) | 160 | 160 | 100.0 | /mnt/stockage/packages/f9/ldm/po/ja.po | 
+ | [nb_NO](/f9/language/nb_NO) | 160 | 160 | 100.0 | /mnt/stockage/packages/f9/ldm/po/nb.po | 
+ | [pl](/f9/language/pl) | 160 | 160 | 100.0 | /mnt/stockage/packages/f9/ldm/po/pl.po | 
+ | [pt](/f9/language/pt) | 160 | 160 | 100.0 | /mnt/stockage/packages/f9/ldm/po/pt.po | 
+ | [ru](/f9/language/ru) | 160 | 160 | 100.0 | /mnt/stockage/packages/f9/ldm/po/ru.po | 
+ | [sv](/f9/language/sv) | 160 | 160 | 100.0 | /mnt/stockage/packages/f9/ldm/po/sv.po | 
+ | [vi](/f9/language/vi) | 160 | 160 | 100.0 | /mnt/stockage/packages/f9/ldm/po/vi.po | 
+ | [hu](/f9/language/hu) | 140 | 160 | 87.5 | /mnt/stockage/packages/f9/ldm/po/hu.po | 
 {.sortable}
 
 

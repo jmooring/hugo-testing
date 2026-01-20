@@ -38,15 +38,15 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [maliit-keyboard]({{< ref "/f36/package/maliit-keyboard.md" >}}) | 31 | 81 | 38.3 | Lojban <jbo@li.org> | 
- | [supertux]({{< ref "/f36/package/supertux.md" >}}) | 234 | 2866 | 8.2 | Lojban (http://www.transifex.com/arctic-games/supertux/language/jbo/) | 
- | [minetest]({{< ref "/f36/package/minetest.md" >}}) | 402 | 9523 | 4.2 | Lojban <https://hosted.weblate.org/projects/minetest/minetest/jbo/> | 
- | [fragments]({{< ref "/f36/package/fragments.md" >}}) | 49 | 2006 | 2.4 | Lojban (https://www.transifex.com/transmissionbt/teams/33778/jbo/) | 
- | [transmission]({{< ref "/f36/package/transmission.md" >}}) | 49 | 2441 | 2.0 | Lojban (https://app.transifex.com/transmissionbt/teams/33778/jbo/) | 
- | [elementary-files]({{< ref "/f36/package/elementary-files.md" >}}) | 0 | 3669 | 0.0 | Lojban <jbo@li.org> | 
- | [elementary-photos]({{< ref "/f36/package/elementary-photos.md" >}}) | 0 | 4011 | 0.0 | none | 
- | [supertuxkart]({{< ref "/f36/package/supertuxkart.md" >}}) | 0 | 0 | 0.0 |  | 
- | [switchboard]({{< ref "/f36/package/switchboard.md" >}}) | 0 | 148 | 0.0 | none | 
+ | [maliit-keyboard](/f36/package/maliit-keyboard) | 31 | 81 | 38.3 | Lojban <jbo@li.org> | 
+ | [supertux](/f36/package/supertux) | 234 | 2866 | 8.2 | Lojban (http://www.transifex.com/arctic-games/supertux/language/jbo/) | 
+ | [minetest](/f36/package/minetest) | 402 | 9523 | 4.2 | Lojban <https://hosted.weblate.org/projects/minetest/minetest/jbo/> | 
+ | [fragments](/f36/package/fragments) | 49 | 2006 | 2.4 | Lojban (https://www.transifex.com/transmissionbt/teams/33778/jbo/) | 
+ | [transmission](/f36/package/transmission) | 49 | 2441 | 2.0 | Lojban (https://app.transifex.com/transmissionbt/teams/33778/jbo/) | 
+ | [elementary-files](/f36/package/elementary-files) | 0 | 3669 | 0.0 | Lojban <jbo@li.org> | 
+ | [elementary-photos](/f36/package/elementary-photos) | 0 | 4011 | 0.0 | none | 
+ | [supertuxkart](/f36/package/supertuxkart) | 0 | 0 | 0.0 |  | 
+ | [switchboard](/f36/package/switchboard) | 0 | 148 | 0.0 | none | 
 {.sortable}
 
 

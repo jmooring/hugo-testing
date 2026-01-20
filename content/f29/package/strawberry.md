@@ -18,9 +18,9 @@ The package strawberry (version 0.6.5):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [es]({{< ref "/f29/language/es.md" >}}) | 3766 | 3766 | 100.0 | /mnt/stockage/packages/f29/strawberry/src/translations/es.po | 
- | [ru]({{< ref "/f29/language/ru.md" >}}) | 3766 | 3766 | 100.0 | /mnt/stockage/packages/f29/strawberry/src/translations/ru.po | 
- | [nb_NO]({{< ref "/f29/language/nb_NO.md" >}}) | 3434 | 3766 | 91.2 | /mnt/stockage/packages/f29/strawberry/src/translations/nb.po | 
+ | [es](/f29/language/es) | 3766 | 3766 | 100.0 | /mnt/stockage/packages/f29/strawberry/src/translations/es.po | 
+ | [ru](/f29/language/ru) | 3766 | 3766 | 100.0 | /mnt/stockage/packages/f29/strawberry/src/translations/ru.po | 
+ | [nb_NO](/f29/language/nb_NO) | 3434 | 3766 | 91.2 | /mnt/stockage/packages/f29/strawberry/src/translations/nb.po | 
 {.sortable}
 
 

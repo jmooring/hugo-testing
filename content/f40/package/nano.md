@@ -18,44 +18,44 @@ The package nano (version 7.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f40/language/ca.md" >}}) | 3486 | 3486 | 100.0 | /mnt/stockage/packages/f40/nano/po/ca.po | 
- | [de]({{< ref "/f40/language/de.md" >}}) | 3486 | 3486 | 100.0 | /mnt/stockage/packages/f40/nano/po/de.po | 
- | [eo]({{< ref "/f40/language/eo.md" >}}) | 3486 | 3486 | 100.0 | /mnt/stockage/packages/f40/nano/po/eo.po | 
- | [es]({{< ref "/f40/language/es.md" >}}) | 3486 | 3486 | 100.0 | /mnt/stockage/packages/f40/nano/po/es.po | 
- | [fr]({{< ref "/f40/language/fr.md" >}}) | 3486 | 3486 | 100.0 | /mnt/stockage/packages/f40/nano/po/fr.po | 
- | [hr]({{< ref "/f40/language/hr.md" >}}) | 3486 | 3486 | 100.0 | /mnt/stockage/packages/f40/nano/po/hr.po | 
- | [id]({{< ref "/f40/language/id.md" >}}) | 3486 | 3486 | 100.0 | /mnt/stockage/packages/f40/nano/po/id.po | 
- | [ja]({{< ref "/f40/language/ja.md" >}}) | 3486 | 3486 | 100.0 | /mnt/stockage/packages/f40/nano/po/ja.po | 
- | [ko]({{< ref "/f40/language/ko.md" >}}) | 3486 | 3486 | 100.0 | /mnt/stockage/packages/f40/nano/po/ko.po | 
- | [nb_NO]({{< ref "/f40/language/nb_NO.md" >}}) | 3486 | 3486 | 100.0 | /mnt/stockage/packages/f40/nano/po/nb.po | 
- | [nl]({{< ref "/f40/language/nl.md" >}}) | 3486 | 3486 | 100.0 | /mnt/stockage/packages/f40/nano/po/nl.po | 
- | [pl]({{< ref "/f40/language/pl.md" >}}) | 3486 | 3486 | 100.0 | /mnt/stockage/packages/f40/nano/po/pl.po | 
- | [ro]({{< ref "/f40/language/ro.md" >}}) | 3486 | 3486 | 100.0 | /mnt/stockage/packages/f40/nano/po/ro.po | 
- | [sk]({{< ref "/f40/language/sk.md" >}}) | 3486 | 3486 | 100.0 | /mnt/stockage/packages/f40/nano/po/sk.po | 
- | [sv]({{< ref "/f40/language/sv.md" >}}) | 3486 | 3486 | 100.0 | /mnt/stockage/packages/f40/nano/po/sv.po | 
- | [uk]({{< ref "/f40/language/uk.md" >}}) | 3486 | 3486 | 100.0 | /mnt/stockage/packages/f40/nano/po/uk.po | 
- | [zh_Hans]({{< ref "/f40/language/zh_Hans.md" >}}) | 3486 | 3486 | 100.0 | /mnt/stockage/packages/f40/nano/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f40/language/zh_Hant.md" >}}) | 3486 | 3486 | 100.0 | /mnt/stockage/packages/f40/nano/po/zh_TW.po | 
- | [sr]({{< ref "/f40/language/sr.md" >}}) | 3458 | 3486 | 99.2 | /mnt/stockage/packages/f40/nano/po/sr.po | 
- | [vi]({{< ref "/f40/language/vi.md" >}}) | 3449 | 3486 | 98.9 | /mnt/stockage/packages/f40/nano/po/vi.po | 
- | [da]({{< ref "/f40/language/da.md" >}}) | 3447 | 3486 | 98.9 | /mnt/stockage/packages/f40/nano/po/da.po | 
- | [tr]({{< ref "/f40/language/tr.md" >}}) | 3434 | 3486 | 98.5 | /mnt/stockage/packages/f40/nano/po/tr.po | 
- | [pt]({{< ref "/f40/language/pt.md" >}}) | 3423 | 3486 | 98.2 | /mnt/stockage/packages/f40/nano/po/pt.po | 
- | [sq]({{< ref "/f40/language/sq.md" >}}) | 3418 | 3486 | 98.0 | /mnt/stockage/packages/f40/nano/po/sq.po | 
- | [pt_BR]({{< ref "/f40/language/pt_BR.md" >}}) | 3379 | 3486 | 96.9 | /mnt/stockage/packages/f40/nano/po/pt_BR.po | 
- | [gl]({{< ref "/f40/language/gl.md" >}}) | 3358 | 3486 | 96.3 | /mnt/stockage/packages/f40/nano/po/gl.po | 
- | [ru]({{< ref "/f40/language/ru.md" >}}) | 3356 | 3486 | 96.3 | /mnt/stockage/packages/f40/nano/po/ru.po | 
- | [cs]({{< ref "/f40/language/cs.md" >}}) | 3303 | 3486 | 94.8 | /mnt/stockage/packages/f40/nano/po/cs.po | 
- | [it]({{< ref "/f40/language/it.md" >}}) | 2900 | 3486 | 83.2 | /mnt/stockage/packages/f40/nano/po/it.po | 
- | [hu]({{< ref "/f40/language/hu.md" >}}) | 2488 | 3486 | 71.4 | /mnt/stockage/packages/f40/nano/po/hu.po | 
- | [ga]({{< ref "/f40/language/ga.md" >}}) | 2399 | 3486 | 68.8 | /mnt/stockage/packages/f40/nano/po/ga.po | 
- | [fi]({{< ref "/f40/language/fi.md" >}}) | 2316 | 3486 | 66.4 | /mnt/stockage/packages/f40/nano/po/fi.po | 
- | [ms]({{< ref "/f40/language/ms.md" >}}) | 2218 | 3486 | 63.6 | /mnt/stockage/packages/f40/nano/po/ms.po | 
- | [sl]({{< ref "/f40/language/sl.md" >}}) | 1701 | 3486 | 48.8 | /mnt/stockage/packages/f40/nano/po/sl.po | 
- | [is]({{< ref "/f40/language/is.md" >}}) | 1540 | 3486 | 44.2 | /mnt/stockage/packages/f40/nano/po/is.po | 
- | [bg]({{< ref "/f40/language/bg.md" >}}) | 1506 | 3486 | 43.2 | /mnt/stockage/packages/f40/nano/po/bg.po | 
- | [eu]({{< ref "/f40/language/eu.md" >}}) | 1203 | 3486 | 34.5 | /mnt/stockage/packages/f40/nano/po/eu.po | 
- | [ka]({{< ref "/f40/language/ka.md" >}}) | 659 | 3486 | 18.9 | /mnt/stockage/packages/f40/nano/po/ka.po | 
+ | [ca](/f40/language/ca) | 3486 | 3486 | 100.0 | /mnt/stockage/packages/f40/nano/po/ca.po | 
+ | [de](/f40/language/de) | 3486 | 3486 | 100.0 | /mnt/stockage/packages/f40/nano/po/de.po | 
+ | [eo](/f40/language/eo) | 3486 | 3486 | 100.0 | /mnt/stockage/packages/f40/nano/po/eo.po | 
+ | [es](/f40/language/es) | 3486 | 3486 | 100.0 | /mnt/stockage/packages/f40/nano/po/es.po | 
+ | [fr](/f40/language/fr) | 3486 | 3486 | 100.0 | /mnt/stockage/packages/f40/nano/po/fr.po | 
+ | [hr](/f40/language/hr) | 3486 | 3486 | 100.0 | /mnt/stockage/packages/f40/nano/po/hr.po | 
+ | [id](/f40/language/id) | 3486 | 3486 | 100.0 | /mnt/stockage/packages/f40/nano/po/id.po | 
+ | [ja](/f40/language/ja) | 3486 | 3486 | 100.0 | /mnt/stockage/packages/f40/nano/po/ja.po | 
+ | [ko](/f40/language/ko) | 3486 | 3486 | 100.0 | /mnt/stockage/packages/f40/nano/po/ko.po | 
+ | [nb_NO](/f40/language/nb_NO) | 3486 | 3486 | 100.0 | /mnt/stockage/packages/f40/nano/po/nb.po | 
+ | [nl](/f40/language/nl) | 3486 | 3486 | 100.0 | /mnt/stockage/packages/f40/nano/po/nl.po | 
+ | [pl](/f40/language/pl) | 3486 | 3486 | 100.0 | /mnt/stockage/packages/f40/nano/po/pl.po | 
+ | [ro](/f40/language/ro) | 3486 | 3486 | 100.0 | /mnt/stockage/packages/f40/nano/po/ro.po | 
+ | [sk](/f40/language/sk) | 3486 | 3486 | 100.0 | /mnt/stockage/packages/f40/nano/po/sk.po | 
+ | [sv](/f40/language/sv) | 3486 | 3486 | 100.0 | /mnt/stockage/packages/f40/nano/po/sv.po | 
+ | [uk](/f40/language/uk) | 3486 | 3486 | 100.0 | /mnt/stockage/packages/f40/nano/po/uk.po | 
+ | [zh_Hans](/f40/language/zh_Hans) | 3486 | 3486 | 100.0 | /mnt/stockage/packages/f40/nano/po/zh_CN.po | 
+ | [zh_Hant](/f40/language/zh_Hant) | 3486 | 3486 | 100.0 | /mnt/stockage/packages/f40/nano/po/zh_TW.po | 
+ | [sr](/f40/language/sr) | 3458 | 3486 | 99.2 | /mnt/stockage/packages/f40/nano/po/sr.po | 
+ | [vi](/f40/language/vi) | 3449 | 3486 | 98.9 | /mnt/stockage/packages/f40/nano/po/vi.po | 
+ | [da](/f40/language/da) | 3447 | 3486 | 98.9 | /mnt/stockage/packages/f40/nano/po/da.po | 
+ | [tr](/f40/language/tr) | 3434 | 3486 | 98.5 | /mnt/stockage/packages/f40/nano/po/tr.po | 
+ | [pt](/f40/language/pt) | 3423 | 3486 | 98.2 | /mnt/stockage/packages/f40/nano/po/pt.po | 
+ | [sq](/f40/language/sq) | 3418 | 3486 | 98.0 | /mnt/stockage/packages/f40/nano/po/sq.po | 
+ | [pt_BR](/f40/language/pt_BR) | 3379 | 3486 | 96.9 | /mnt/stockage/packages/f40/nano/po/pt_BR.po | 
+ | [gl](/f40/language/gl) | 3358 | 3486 | 96.3 | /mnt/stockage/packages/f40/nano/po/gl.po | 
+ | [ru](/f40/language/ru) | 3356 | 3486 | 96.3 | /mnt/stockage/packages/f40/nano/po/ru.po | 
+ | [cs](/f40/language/cs) | 3303 | 3486 | 94.8 | /mnt/stockage/packages/f40/nano/po/cs.po | 
+ | [it](/f40/language/it) | 2900 | 3486 | 83.2 | /mnt/stockage/packages/f40/nano/po/it.po | 
+ | [hu](/f40/language/hu) | 2488 | 3486 | 71.4 | /mnt/stockage/packages/f40/nano/po/hu.po | 
+ | [ga](/f40/language/ga) | 2399 | 3486 | 68.8 | /mnt/stockage/packages/f40/nano/po/ga.po | 
+ | [fi](/f40/language/fi) | 2316 | 3486 | 66.4 | /mnt/stockage/packages/f40/nano/po/fi.po | 
+ | [ms](/f40/language/ms) | 2218 | 3486 | 63.6 | /mnt/stockage/packages/f40/nano/po/ms.po | 
+ | [sl](/f40/language/sl) | 1701 | 3486 | 48.8 | /mnt/stockage/packages/f40/nano/po/sl.po | 
+ | [is](/f40/language/is) | 1540 | 3486 | 44.2 | /mnt/stockage/packages/f40/nano/po/is.po | 
+ | [bg](/f40/language/bg) | 1506 | 3486 | 43.2 | /mnt/stockage/packages/f40/nano/po/bg.po | 
+ | [eu](/f40/language/eu) | 1203 | 3486 | 34.5 | /mnt/stockage/packages/f40/nano/po/eu.po | 
+ | [ka](/f40/language/ka) | 659 | 3486 | 18.9 | /mnt/stockage/packages/f40/nano/po/ka.po | 
 {.sortable}
 
 

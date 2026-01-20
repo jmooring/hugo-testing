@@ -18,7 +18,7 @@ The package gnome-firmware (version 3.34.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [en_GB]({{< ref "/f31/language/en_GB.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f31/gnome-firmware/po/en_GB.po | 
+ | [en_GB](/f31/language/en_GB) | 0 | 0 | 0.0 | /mnt/stockage/packages/f31/gnome-firmware/po/en_GB.po | 
 {.sortable}
 
 

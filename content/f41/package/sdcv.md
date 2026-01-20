@@ -18,13 +18,13 @@ The package sdcv (version 0.5.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ru]({{< ref "/f41/language/ru.md" >}}) | 147 | 147 | 100.0 | /mnt/stockage/packages/f41/sdcv/po/ru.po | 
- | [fr]({{< ref "/f41/language/fr.md" >}}) | 47 | 147 | 32.0 | /mnt/stockage/packages/f41/sdcv/po/fr.po | 
- | [sk]({{< ref "/f41/language/sk.md" >}}) | 43 | 147 | 29.3 | /mnt/stockage/packages/f41/sdcv/po/sk.po | 
- | [cs]({{< ref "/f41/language/cs.md" >}}) | 40 | 147 | 27.2 | /mnt/stockage/packages/f41/sdcv/po/cs.po | 
- | [zh_Hant]({{< ref "/f41/language/zh_Hant.md" >}}) | 40 | 147 | 27.2 | /mnt/stockage/packages/f41/sdcv/po/zh_TW.po | 
- | [uk]({{< ref "/f41/language/uk.md" >}}) | 34 | 147 | 23.1 | /mnt/stockage/packages/f41/sdcv/po/uk.po | 
- | [zh_Hans]({{< ref "/f41/language/zh_Hans.md" >}}) | 34 | 147 | 23.1 | /mnt/stockage/packages/f41/sdcv/po/zh_CN.po | 
+ | [ru](/f41/language/ru) | 147 | 147 | 100.0 | /mnt/stockage/packages/f41/sdcv/po/ru.po | 
+ | [fr](/f41/language/fr) | 47 | 147 | 32.0 | /mnt/stockage/packages/f41/sdcv/po/fr.po | 
+ | [sk](/f41/language/sk) | 43 | 147 | 29.3 | /mnt/stockage/packages/f41/sdcv/po/sk.po | 
+ | [cs](/f41/language/cs) | 40 | 147 | 27.2 | /mnt/stockage/packages/f41/sdcv/po/cs.po | 
+ | [zh_Hant](/f41/language/zh_Hant) | 40 | 147 | 27.2 | /mnt/stockage/packages/f41/sdcv/po/zh_TW.po | 
+ | [uk](/f41/language/uk) | 34 | 147 | 23.1 | /mnt/stockage/packages/f41/sdcv/po/uk.po | 
+ | [zh_Hans](/f41/language/zh_Hans) | 34 | 147 | 23.1 | /mnt/stockage/packages/f41/sdcv/po/zh_CN.po | 
 {.sortable}
 
 

@@ -18,22 +18,22 @@ The package python-django-taggit (version 1.1.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [eo]({{< ref "/f34/language/eo.md" >}}) | 29 | 29 | 100.0 | /mnt/stockage/packages/f34/python-django-taggit/taggit/locale/eo/LC_MESSAGES/django.po | 
- | [fi]({{< ref "/f34/language/fi.md" >}}) | 29 | 29 | 100.0 | /mnt/stockage/packages/f34/python-django-taggit/taggit/locale/fi/LC_MESSAGES/django.po | 
- | [ru]({{< ref "/f34/language/ru.md" >}}) | 29 | 29 | 100.0 | /mnt/stockage/packages/f34/python-django-taggit/taggit/locale/ru/LC_MESSAGES/django.po | 
- | [zh_Hans]({{< ref "/f34/language/zh_Hans.md" >}}) | 29 | 29 | 100.0 | /mnt/stockage/packages/f34/python-django-taggit/taggit/locale/zh_Hans/LC_MESSAGES/django.po | 
- | [cs]({{< ref "/f34/language/cs.md" >}}) | 28 | 29 | 96.6 | /mnt/stockage/packages/f34/python-django-taggit/taggit/locale/cs/LC_MESSAGES/django.po | 
- | [de]({{< ref "/f34/language/de.md" >}}) | 28 | 29 | 96.6 | /mnt/stockage/packages/f34/python-django-taggit/taggit/locale/de/LC_MESSAGES/django.po | 
- | [el]({{< ref "/f34/language/el.md" >}}) | 28 | 29 | 96.6 | /mnt/stockage/packages/f34/python-django-taggit/taggit/locale/el/LC_MESSAGES/django.po | 
- | [es]({{< ref "/f34/language/es.md" >}}) | 28 | 29 | 96.6 | /mnt/stockage/packages/f34/python-django-taggit/taggit/locale/es/LC_MESSAGES/django.po | 
- | [it]({{< ref "/f34/language/it.md" >}}) | 28 | 29 | 96.6 | /mnt/stockage/packages/f34/python-django-taggit/taggit/locale/it/LC_MESSAGES/django.po | 
- | [ja]({{< ref "/f34/language/ja.md" >}}) | 28 | 29 | 96.6 | /mnt/stockage/packages/f34/python-django-taggit/taggit/locale/ja/LC_MESSAGES/django.po | 
- | [nb_NO]({{< ref "/f34/language/nb_NO.md" >}}) | 28 | 29 | 96.6 | /mnt/stockage/packages/f34/python-django-taggit/taggit/locale/nb/LC_MESSAGES/django.po | 
- | [nl]({{< ref "/f34/language/nl.md" >}}) | 28 | 29 | 96.6 | /mnt/stockage/packages/f34/python-django-taggit/taggit/locale/nl/LC_MESSAGES/django.po | 
- | [pt_BR]({{< ref "/f34/language/pt_BR.md" >}}) | 28 | 29 | 96.6 | /mnt/stockage/packages/f34/python-django-taggit/taggit/locale/pt_BR/LC_MESSAGES/django.po | 
- | [tr]({{< ref "/f34/language/tr.md" >}}) | 28 | 29 | 96.6 | /mnt/stockage/packages/f34/python-django-taggit/taggit/locale/tr/LC_MESSAGES/django.po | 
- | [he]({{< ref "/f34/language/he.md" >}}) | 19 | 29 | 65.5 | /mnt/stockage/packages/f34/python-django-taggit/taggit/locale/he/LC_MESSAGES/django.po | 
- | [en]({{< ref "/f34/language/en.md" >}}) | 0 | 29 | 0.0 | /mnt/stockage/packages/f34/python-django-taggit/taggit/locale/en/LC_MESSAGES/django.po | 
+ | [eo](/f34/language/eo) | 29 | 29 | 100.0 | /mnt/stockage/packages/f34/python-django-taggit/taggit/locale/eo/LC_MESSAGES/django.po | 
+ | [fi](/f34/language/fi) | 29 | 29 | 100.0 | /mnt/stockage/packages/f34/python-django-taggit/taggit/locale/fi/LC_MESSAGES/django.po | 
+ | [ru](/f34/language/ru) | 29 | 29 | 100.0 | /mnt/stockage/packages/f34/python-django-taggit/taggit/locale/ru/LC_MESSAGES/django.po | 
+ | [zh_Hans](/f34/language/zh_Hans) | 29 | 29 | 100.0 | /mnt/stockage/packages/f34/python-django-taggit/taggit/locale/zh_Hans/LC_MESSAGES/django.po | 
+ | [cs](/f34/language/cs) | 28 | 29 | 96.6 | /mnt/stockage/packages/f34/python-django-taggit/taggit/locale/cs/LC_MESSAGES/django.po | 
+ | [de](/f34/language/de) | 28 | 29 | 96.6 | /mnt/stockage/packages/f34/python-django-taggit/taggit/locale/de/LC_MESSAGES/django.po | 
+ | [el](/f34/language/el) | 28 | 29 | 96.6 | /mnt/stockage/packages/f34/python-django-taggit/taggit/locale/el/LC_MESSAGES/django.po | 
+ | [es](/f34/language/es) | 28 | 29 | 96.6 | /mnt/stockage/packages/f34/python-django-taggit/taggit/locale/es/LC_MESSAGES/django.po | 
+ | [it](/f34/language/it) | 28 | 29 | 96.6 | /mnt/stockage/packages/f34/python-django-taggit/taggit/locale/it/LC_MESSAGES/django.po | 
+ | [ja](/f34/language/ja) | 28 | 29 | 96.6 | /mnt/stockage/packages/f34/python-django-taggit/taggit/locale/ja/LC_MESSAGES/django.po | 
+ | [nb_NO](/f34/language/nb_NO) | 28 | 29 | 96.6 | /mnt/stockage/packages/f34/python-django-taggit/taggit/locale/nb/LC_MESSAGES/django.po | 
+ | [nl](/f34/language/nl) | 28 | 29 | 96.6 | /mnt/stockage/packages/f34/python-django-taggit/taggit/locale/nl/LC_MESSAGES/django.po | 
+ | [pt_BR](/f34/language/pt_BR) | 28 | 29 | 96.6 | /mnt/stockage/packages/f34/python-django-taggit/taggit/locale/pt_BR/LC_MESSAGES/django.po | 
+ | [tr](/f34/language/tr) | 28 | 29 | 96.6 | /mnt/stockage/packages/f34/python-django-taggit/taggit/locale/tr/LC_MESSAGES/django.po | 
+ | [he](/f34/language/he) | 19 | 29 | 65.5 | /mnt/stockage/packages/f34/python-django-taggit/taggit/locale/he/LC_MESSAGES/django.po | 
+ | [en](/f34/language/en) | 0 | 29 | 0.0 | /mnt/stockage/packages/f34/python-django-taggit/taggit/locale/en/LC_MESSAGES/django.po | 
 {.sortable}
 
 

@@ -42,95 +42,95 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [gnome-menus]({{< ref "/f23/package/gnome-menus.md" >}}) | 116 | 157 | 73.9 | <en@li.org> | 
- | [mate-panel]({{< ref "/f23/package/mate-panel.md" >}}) | 2727 | 4387 | 62.2 | Hausa (http://www.transifex.com/mate/MATE/language/ha/) | 
- | [mate-menus]({{< ref "/f23/package/mate-menus.md" >}}) | 59 | 97 | 60.8 | Hausa (http://www.transifex.com/mate/MATE/language/ha/) | 
- | [metacity]({{< ref "/f23/package/metacity.md" >}}) | 2219 | 3808 | 58.3 | hausa | 
- | [muffin]({{< ref "/f23/package/muffin.md" >}}) | 2219 | 3808 | 58.3 | hausa | 
- | [mutter]({{< ref "/f23/package/mutter.md" >}}) | 2219 | 3808 | 58.3 | hausa | 
- | [gnome-desktop3]({{< ref "/f23/package/gnome-desktop3.md" >}}) | 203 | 349 | 58.2 | hausa | 
- | [nautilus]({{< ref "/f23/package/nautilus.md" >}}) | 3745 | 8144 | 46.0 | hausa | 
- | [marco]({{< ref "/f23/package/marco.md" >}}) | 1548 | 4096 | 37.8 | Hausa (http://www.transifex.com/mate/MATE/language/ha/) | 
- | [caja]({{< ref "/f23/package/caja.md" >}}) | 3038 | 9242 | 32.9 | Hausa (http://www.transifex.com/mate/MATE/language/ha/) | 
- | [gnome-session]({{< ref "/f23/package/gnome-session.md" >}}) | 117 | 722 | 16.2 | hausa | 
- | [cinnamon-session]({{< ref "/f23/package/cinnamon-session.md" >}}) | 100 | 678 | 14.7 | hausa | 
- | [kf5-kcmutils]({{< ref "/f23/package/kf5-kcmutils.md" >}}) | 43 | 563 | 7.6 | Hausa <kde-i18n-doc@lists.kde.org> | 
- | [mate-session-manager]({{< ref "/f23/package/mate-session-manager.md" >}}) | 45 | 681 | 6.6 | Hausa (http://www.transifex.com/mate/MATE/language/ha/) | 
- | [kf5-kross]({{< ref "/f23/package/kf5-kross.md" >}}) | 6 | 100 | 6.0 | Hausa <kde-i18n-doc@lists.kde.org> | 
- | [kf5-kxmlgui]({{< ref "/f23/package/kf5-kxmlgui.md" >}}) | 66 | 1548 | 4.3 | Hausa <kde-i18n-doc@lists.kde.org> | 
- | [kf5-kparts]({{< ref "/f23/package/kf5-kparts.md" >}}) | 4 | 104 | 3.8 | Hausa <kde-i18n-doc@lists.kde.org> | 
- | [kf5-kconfigwidgets]({{< ref "/f23/package/kf5-kconfigwidgets.md" >}}) | 12 | 325 | 3.7 | Hausa <kde-i18n-doc@lists.kde.org> | 
- | [kf5-kdeclarative]({{< ref "/f23/package/kf5-kdeclarative.md" >}}) | 4 | 109 | 3.7 | Hausa <kde-i18n-doc@lists.kde.org> | 
- | [kf5-kservice]({{< ref "/f23/package/kf5-kservice.md" >}}) | 4 | 170 | 2.4 | Hausa <kde-i18n-doc@lists.kde.org> | 
- | [kf5-knotifyconfig]({{< ref "/f23/package/kf5-knotifyconfig.md" >}}) | 2 | 129 | 1.6 | Hausa <kde-i18n-doc@lists.kde.org> | 
- | [isomaster]({{< ref "/f23/package/isomaster.md" >}}) | 7 | 674 | 1.0 | http://littlesvr.ca/ostd/ | 
- | [kf5-knewstuff]({{< ref "/f23/package/kf5-knewstuff.md" >}}) | 7 | 677 | 1.0 | Hausa <kde-i18n-doc@lists.kde.org> | 
- | [kf5-khtml]({{< ref "/f23/package/kf5-khtml.md" >}}) | 10 | 1723 | 0.6 | Hausa <kde-i18n-doc@lists.kde.org> | 
- | [kf5-kdelibs4support]({{< ref "/f23/package/kf5-kdelibs4support.md" >}}) | 10 | 4813 | 0.2 | Hausa <kde-i18n-doc@lists.kde.org> | 
- | [sugar-turtleart]({{< ref "/f23/package/sugar-turtleart.md" >}}) | 2 | 1459 | 0.1 | LANGUAGE <walter@sugarlabs.org> | 
- | [sugar]({{< ref "/f23/package/sugar.md" >}}) | 2 | 1733 | 0.1 | hausa | 
- | [cinnamon-desktop]({{< ref "/f23/package/cinnamon-desktop.md" >}}) | 0 | 231 | 0.0 | hausa | 
- | [kf5-kauth]({{< ref "/f23/package/kf5-kauth.md" >}}) | 0 | 58 | 0.0 | Hausa <kde-i18n-doc@lists.kde.org> | 
- | [kf5-kcodecs]({{< ref "/f23/package/kf5-kcodecs.md" >}}) | 0 | 348 | 0.0 | Hausa <kde-i18n-doc@lists.kde.org> | 
- | [kf5-kcompletion]({{< ref "/f23/package/kf5-kcompletion.md" >}}) | 0 | 20 | 0.0 | Hausa <kde-i18n-doc@lists.kde.org> | 
- | [kf5-kcoreaddons]({{< ref "/f23/package/kf5-kcoreaddons.md" >}}) | 0 | 275 | 0.0 | Hausa <kde-i18n-doc@lists.kde.org> | 
- | [kf5-kdesignerplugin]({{< ref "/f23/package/kf5-kdesignerplugin.md" >}}) | 0 | 54 | 0.0 | Hausa <kde-i18n-doc@lists.kde.org> | 
- | [kf5-kdnssd]({{< ref "/f23/package/kf5-kdnssd.md" >}}) | 0 | 3 | 0.0 | Hausa <kde-i18n-doc@lists.kde.org> | 
- | [kf5-kglobalaccel]({{< ref "/f23/package/kf5-kglobalaccel.md" >}}) | 0 | 71 | 0.0 | Hausa <kde-i18n-doc@lists.kde.org> | 
- | [kf5-ki18n]({{< ref "/f23/package/kf5-ki18n.md" >}}) | 0 | 124 | 0.0 | Hausa <kde-i18n-doc@lists.kde.org> | 
- | [kf5-kinit]({{< ref "/f23/package/kf5-kinit.md" >}}) | 0 | 134 | 0.0 | Hausa <kde-i18n-doc@lists.kde.org> | 
- | [kf5-kitemviews]({{< ref "/f23/package/kf5-kitemviews.md" >}}) | 0 | 7 | 0.0 | Hausa <kde-i18n-doc@lists.kde.org> | 
- | [kf5-kjobwidgets]({{< ref "/f23/package/kf5-kjobwidgets.md" >}}) | 0 | 141 | 0.0 | Hausa <kde-i18n-doc@lists.kde.org> | 
- | [kf5-kjsembed]({{< ref "/f23/package/kf5-kjsembed.md" >}}) | 0 | 248 | 0.0 | Hausa <kde-i18n-doc@lists.kde.org> | 
- | [kf5-knotifications]({{< ref "/f23/package/kf5-knotifications.md" >}}) | 0 | 18 | 0.0 | Hausa <kde-i18n-doc@lists.kde.org> | 
- | [kf5-kpty]({{< ref "/f23/package/kf5-kpty.md" >}}) | 0 | 15 | 0.0 | Hausa <kde-i18n-doc@lists.kde.org> | 
- | [kf5-ktextwidgets]({{< ref "/f23/package/kf5-ktextwidgets.md" >}}) | 0 | 462 | 0.0 | Hausa <kde-i18n-doc@lists.kde.org> | 
- | [kf5-kwidgetsaddons]({{< ref "/f23/package/kf5-kwidgetsaddons.md" >}}) | 0 | 1314 | 0.0 | Hausa <kde-i18n-doc@lists.kde.org> | 
- | [kf5-kwindowsystem]({{< ref "/f23/package/kf5-kwindowsystem.md" >}}) | 0 | 2 | 0.0 | Hausa <kde-i18n-doc@lists.kde.org> | 
- | [kf5-sonnet]({{< ref "/f23/package/kf5-sonnet.md" >}}) | 0 | 663 | 0.0 | Hausa <kde-i18n-doc@lists.kde.org> | 
- | [libmatekbd]({{< ref "/f23/package/libmatekbd.md" >}}) | 0 | 251 | 0.0 | Hausa (http://www.transifex.com/mate/MATE/language/ha/) | 
- | [mate-desktop]({{< ref "/f23/package/mate-desktop.md" >}}) | 0 | 2288 | 0.0 | Hausa (http://www.transifex.com/projects/p/MATE/language/ha/) | 
- | [mate-user-guide]({{< ref "/f23/package/mate-user-guide.md" >}}) | 0 | 5 | 0.0 | Hausa (http://www.transifex.com/mate/MATE/language/ha/) | 
- | [olpc-switch-desktop]({{< ref "/f23/package/olpc-switch-desktop.md" >}}) | 0 | 158 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-abacus]({{< ref "/f23/package/sugar-abacus.md" >}}) | 0 | 34 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-base]({{< ref "/f23/package/sugar-base.md" >}}) | 0 | 5 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-browse]({{< ref "/f23/package/sugar-browse.md" >}}) | 0 | 189 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-calculator]({{< ref "/f23/package/sugar-calculator.md" >}}) | 0 | 871 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-calendario]({{< ref "/f23/package/sugar-calendario.md" >}}) | 0 | 43 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-chat]({{< ref "/f23/package/sugar-chat.md" >}}) | 0 | 52 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-clock]({{< ref "/f23/package/sugar-clock.md" >}}) | 0 | 66 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-connect]({{< ref "/f23/package/sugar-connect.md" >}}) | 0 | 31 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-deducto]({{< ref "/f23/package/sugar-deducto.md" >}}) | 0 | 109 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-finance]({{< ref "/f23/package/sugar-finance.md" >}}) | 0 | 189 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-fototoon]({{< ref "/f23/package/sugar-fototoon.md" >}}) | 0 | 77 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-fractionbounce]({{< ref "/f23/package/sugar-fractionbounce.md" >}}) | 0 | 68 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-getiabooks]({{< ref "/f23/package/sugar-getiabooks.md" >}}) | 0 | 119 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-imageviewer]({{< ref "/f23/package/sugar-imageviewer.md" >}}) | 0 | 51 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-implode]({{< ref "/f23/package/sugar-implode.md" >}}) | 0 | 78 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-infoslicer]({{< ref "/f23/package/sugar-infoslicer.md" >}}) | 0 | 236 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-jukebox]({{< ref "/f23/package/sugar-jukebox.md" >}}) | 0 | 65 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-labyrinth]({{< ref "/f23/package/sugar-labyrinth.md" >}}) | 0 | 281 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-log]({{< ref "/f23/package/sugar-log.md" >}}) | 0 | 98 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-maze]({{< ref "/f23/package/sugar-maze.md" >}}) | 0 | 7 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-measure]({{< ref "/f23/package/sugar-measure.md" >}}) | 0 | 155 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-memorize]({{< ref "/f23/package/sugar-memorize.md" >}}) | 0 | 142 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-moon]({{< ref "/f23/package/sugar-moon.md" >}}) | 0 | 117 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-paint]({{< ref "/f23/package/sugar-paint.md" >}}) | 0 | 90 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-physics]({{< ref "/f23/package/sugar-physics.md" >}}) | 0 | 48 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-pippy]({{< ref "/f23/package/sugar-pippy.md" >}}) | 0 | 109 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-playgo]({{< ref "/f23/package/sugar-playgo.md" >}}) | 0 | 85 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-read]({{< ref "/f23/package/sugar-read.md" >}}) | 0 | 114 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-record]({{< ref "/f23/package/sugar-record.md" >}}) | 0 | 62 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-ruler]({{< ref "/f23/package/sugar-ruler.md" >}}) | 0 | 29 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-speak]({{< ref "/f23/package/sugar-speak.md" >}}) | 0 | 227 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-terminal]({{< ref "/f23/package/sugar-terminal.md" >}}) | 0 | 15 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-toolkit]({{< ref "/f23/package/sugar-toolkit.md" >}}) | 0 | 73 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-toolkit-gtk3]({{< ref "/f23/package/sugar-toolkit-gtk3.md" >}}) | 0 | 76 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-typing-turtle]({{< ref "/f23/package/sugar-typing-turtle.md" >}}) | 0 | 599 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-view-slides]({{< ref "/f23/package/sugar-view-slides.md" >}}) | 0 | 7 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-visualmatch]({{< ref "/f23/package/sugar-visualmatch.md" >}}) | 0 | 158 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-write]({{< ref "/f23/package/sugar-write.md" >}}) | 0 | 121 | 0.0 | LANGUAGE <LL@li.org> | 
- | [vidalia]({{< ref "/f23/package/vidalia.md" >}}) | 0 | 10369 | 0.0 | translations@vidalia-project.net | 
+ | [gnome-menus](/f23/package/gnome-menus) | 116 | 157 | 73.9 | <en@li.org> | 
+ | [mate-panel](/f23/package/mate-panel) | 2727 | 4387 | 62.2 | Hausa (http://www.transifex.com/mate/MATE/language/ha/) | 
+ | [mate-menus](/f23/package/mate-menus) | 59 | 97 | 60.8 | Hausa (http://www.transifex.com/mate/MATE/language/ha/) | 
+ | [metacity](/f23/package/metacity) | 2219 | 3808 | 58.3 | hausa | 
+ | [muffin](/f23/package/muffin) | 2219 | 3808 | 58.3 | hausa | 
+ | [mutter](/f23/package/mutter) | 2219 | 3808 | 58.3 | hausa | 
+ | [gnome-desktop3](/f23/package/gnome-desktop3) | 203 | 349 | 58.2 | hausa | 
+ | [nautilus](/f23/package/nautilus) | 3745 | 8144 | 46.0 | hausa | 
+ | [marco](/f23/package/marco) | 1548 | 4096 | 37.8 | Hausa (http://www.transifex.com/mate/MATE/language/ha/) | 
+ | [caja](/f23/package/caja) | 3038 | 9242 | 32.9 | Hausa (http://www.transifex.com/mate/MATE/language/ha/) | 
+ | [gnome-session](/f23/package/gnome-session) | 117 | 722 | 16.2 | hausa | 
+ | [cinnamon-session](/f23/package/cinnamon-session) | 100 | 678 | 14.7 | hausa | 
+ | [kf5-kcmutils](/f23/package/kf5-kcmutils) | 43 | 563 | 7.6 | Hausa <kde-i18n-doc@lists.kde.org> | 
+ | [mate-session-manager](/f23/package/mate-session-manager) | 45 | 681 | 6.6 | Hausa (http://www.transifex.com/mate/MATE/language/ha/) | 
+ | [kf5-kross](/f23/package/kf5-kross) | 6 | 100 | 6.0 | Hausa <kde-i18n-doc@lists.kde.org> | 
+ | [kf5-kxmlgui](/f23/package/kf5-kxmlgui) | 66 | 1548 | 4.3 | Hausa <kde-i18n-doc@lists.kde.org> | 
+ | [kf5-kparts](/f23/package/kf5-kparts) | 4 | 104 | 3.8 | Hausa <kde-i18n-doc@lists.kde.org> | 
+ | [kf5-kconfigwidgets](/f23/package/kf5-kconfigwidgets) | 12 | 325 | 3.7 | Hausa <kde-i18n-doc@lists.kde.org> | 
+ | [kf5-kdeclarative](/f23/package/kf5-kdeclarative) | 4 | 109 | 3.7 | Hausa <kde-i18n-doc@lists.kde.org> | 
+ | [kf5-kservice](/f23/package/kf5-kservice) | 4 | 170 | 2.4 | Hausa <kde-i18n-doc@lists.kde.org> | 
+ | [kf5-knotifyconfig](/f23/package/kf5-knotifyconfig) | 2 | 129 | 1.6 | Hausa <kde-i18n-doc@lists.kde.org> | 
+ | [isomaster](/f23/package/isomaster) | 7 | 674 | 1.0 | http://littlesvr.ca/ostd/ | 
+ | [kf5-knewstuff](/f23/package/kf5-knewstuff) | 7 | 677 | 1.0 | Hausa <kde-i18n-doc@lists.kde.org> | 
+ | [kf5-khtml](/f23/package/kf5-khtml) | 10 | 1723 | 0.6 | Hausa <kde-i18n-doc@lists.kde.org> | 
+ | [kf5-kdelibs4support](/f23/package/kf5-kdelibs4support) | 10 | 4813 | 0.2 | Hausa <kde-i18n-doc@lists.kde.org> | 
+ | [sugar-turtleart](/f23/package/sugar-turtleart) | 2 | 1459 | 0.1 | LANGUAGE <walter@sugarlabs.org> | 
+ | [sugar](/f23/package/sugar) | 2 | 1733 | 0.1 | hausa | 
+ | [cinnamon-desktop](/f23/package/cinnamon-desktop) | 0 | 231 | 0.0 | hausa | 
+ | [kf5-kauth](/f23/package/kf5-kauth) | 0 | 58 | 0.0 | Hausa <kde-i18n-doc@lists.kde.org> | 
+ | [kf5-kcodecs](/f23/package/kf5-kcodecs) | 0 | 348 | 0.0 | Hausa <kde-i18n-doc@lists.kde.org> | 
+ | [kf5-kcompletion](/f23/package/kf5-kcompletion) | 0 | 20 | 0.0 | Hausa <kde-i18n-doc@lists.kde.org> | 
+ | [kf5-kcoreaddons](/f23/package/kf5-kcoreaddons) | 0 | 275 | 0.0 | Hausa <kde-i18n-doc@lists.kde.org> | 
+ | [kf5-kdesignerplugin](/f23/package/kf5-kdesignerplugin) | 0 | 54 | 0.0 | Hausa <kde-i18n-doc@lists.kde.org> | 
+ | [kf5-kdnssd](/f23/package/kf5-kdnssd) | 0 | 3 | 0.0 | Hausa <kde-i18n-doc@lists.kde.org> | 
+ | [kf5-kglobalaccel](/f23/package/kf5-kglobalaccel) | 0 | 71 | 0.0 | Hausa <kde-i18n-doc@lists.kde.org> | 
+ | [kf5-ki18n](/f23/package/kf5-ki18n) | 0 | 124 | 0.0 | Hausa <kde-i18n-doc@lists.kde.org> | 
+ | [kf5-kinit](/f23/package/kf5-kinit) | 0 | 134 | 0.0 | Hausa <kde-i18n-doc@lists.kde.org> | 
+ | [kf5-kitemviews](/f23/package/kf5-kitemviews) | 0 | 7 | 0.0 | Hausa <kde-i18n-doc@lists.kde.org> | 
+ | [kf5-kjobwidgets](/f23/package/kf5-kjobwidgets) | 0 | 141 | 0.0 | Hausa <kde-i18n-doc@lists.kde.org> | 
+ | [kf5-kjsembed](/f23/package/kf5-kjsembed) | 0 | 248 | 0.0 | Hausa <kde-i18n-doc@lists.kde.org> | 
+ | [kf5-knotifications](/f23/package/kf5-knotifications) | 0 | 18 | 0.0 | Hausa <kde-i18n-doc@lists.kde.org> | 
+ | [kf5-kpty](/f23/package/kf5-kpty) | 0 | 15 | 0.0 | Hausa <kde-i18n-doc@lists.kde.org> | 
+ | [kf5-ktextwidgets](/f23/package/kf5-ktextwidgets) | 0 | 462 | 0.0 | Hausa <kde-i18n-doc@lists.kde.org> | 
+ | [kf5-kwidgetsaddons](/f23/package/kf5-kwidgetsaddons) | 0 | 1314 | 0.0 | Hausa <kde-i18n-doc@lists.kde.org> | 
+ | [kf5-kwindowsystem](/f23/package/kf5-kwindowsystem) | 0 | 2 | 0.0 | Hausa <kde-i18n-doc@lists.kde.org> | 
+ | [kf5-sonnet](/f23/package/kf5-sonnet) | 0 | 663 | 0.0 | Hausa <kde-i18n-doc@lists.kde.org> | 
+ | [libmatekbd](/f23/package/libmatekbd) | 0 | 251 | 0.0 | Hausa (http://www.transifex.com/mate/MATE/language/ha/) | 
+ | [mate-desktop](/f23/package/mate-desktop) | 0 | 2288 | 0.0 | Hausa (http://www.transifex.com/projects/p/MATE/language/ha/) | 
+ | [mate-user-guide](/f23/package/mate-user-guide) | 0 | 5 | 0.0 | Hausa (http://www.transifex.com/mate/MATE/language/ha/) | 
+ | [olpc-switch-desktop](/f23/package/olpc-switch-desktop) | 0 | 158 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-abacus](/f23/package/sugar-abacus) | 0 | 34 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-base](/f23/package/sugar-base) | 0 | 5 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-browse](/f23/package/sugar-browse) | 0 | 189 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-calculator](/f23/package/sugar-calculator) | 0 | 871 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-calendario](/f23/package/sugar-calendario) | 0 | 43 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-chat](/f23/package/sugar-chat) | 0 | 52 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-clock](/f23/package/sugar-clock) | 0 | 66 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-connect](/f23/package/sugar-connect) | 0 | 31 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-deducto](/f23/package/sugar-deducto) | 0 | 109 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-finance](/f23/package/sugar-finance) | 0 | 189 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-fototoon](/f23/package/sugar-fototoon) | 0 | 77 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-fractionbounce](/f23/package/sugar-fractionbounce) | 0 | 68 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-getiabooks](/f23/package/sugar-getiabooks) | 0 | 119 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-imageviewer](/f23/package/sugar-imageviewer) | 0 | 51 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-implode](/f23/package/sugar-implode) | 0 | 78 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-infoslicer](/f23/package/sugar-infoslicer) | 0 | 236 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-jukebox](/f23/package/sugar-jukebox) | 0 | 65 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-labyrinth](/f23/package/sugar-labyrinth) | 0 | 281 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-log](/f23/package/sugar-log) | 0 | 98 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-maze](/f23/package/sugar-maze) | 0 | 7 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-measure](/f23/package/sugar-measure) | 0 | 155 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-memorize](/f23/package/sugar-memorize) | 0 | 142 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-moon](/f23/package/sugar-moon) | 0 | 117 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-paint](/f23/package/sugar-paint) | 0 | 90 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-physics](/f23/package/sugar-physics) | 0 | 48 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-pippy](/f23/package/sugar-pippy) | 0 | 109 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-playgo](/f23/package/sugar-playgo) | 0 | 85 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-read](/f23/package/sugar-read) | 0 | 114 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-record](/f23/package/sugar-record) | 0 | 62 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-ruler](/f23/package/sugar-ruler) | 0 | 29 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-speak](/f23/package/sugar-speak) | 0 | 227 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-terminal](/f23/package/sugar-terminal) | 0 | 15 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-toolkit](/f23/package/sugar-toolkit) | 0 | 73 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-toolkit-gtk3](/f23/package/sugar-toolkit-gtk3) | 0 | 76 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-typing-turtle](/f23/package/sugar-typing-turtle) | 0 | 599 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-view-slides](/f23/package/sugar-view-slides) | 0 | 7 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-visualmatch](/f23/package/sugar-visualmatch) | 0 | 158 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-write](/f23/package/sugar-write) | 0 | 121 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [vidalia](/f23/package/vidalia) | 0 | 10369 | 0.0 | translations@vidalia-project.net | 
 {.sortable}
 
 

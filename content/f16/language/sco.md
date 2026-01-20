@@ -38,11 +38,11 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [gnomad2]({{< ref "/f16/package/gnomad2.md" >}}) | 697 | 697 | 100.0 | Scots <sco@li.org> | 
- | [pyroom]({{< ref "/f16/package/pyroom.md" >}}) | 21 | 411 | 5.1 | Scots <sco@li.org> | 
- | [picard]({{< ref "/f16/package/picard.md" >}}) | 29 | 1626 | 1.8 | Scots (http://www.transifex.net/projects/p/musicbrainz/language/sco/) | 
- | [stellarium]({{< ref "/f16/package/stellarium.md" >}}) | 30 | 4618 | 0.6 | Scots <sco@li.org> | 
- | [vidalia]({{< ref "/f16/package/vidalia.md" >}}) | 2 | 10369 | 0.0 | translations@vidalia-project.net | 
+ | [gnomad2](/f16/package/gnomad2) | 697 | 697 | 100.0 | Scots <sco@li.org> | 
+ | [pyroom](/f16/package/pyroom) | 21 | 411 | 5.1 | Scots <sco@li.org> | 
+ | [picard](/f16/package/picard) | 29 | 1626 | 1.8 | Scots (http://www.transifex.net/projects/p/musicbrainz/language/sco/) | 
+ | [stellarium](/f16/package/stellarium) | 30 | 4618 | 0.6 | Scots <sco@li.org> | 
+ | [vidalia](/f16/package/vidalia) | 2 | 10369 | 0.0 | translations@vidalia-project.net | 
 {.sortable}
 
 

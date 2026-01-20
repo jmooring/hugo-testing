@@ -18,7 +18,7 @@ The package kde-plasma-runcommand (version 2.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [pl]({{< ref "/f13/language/pl.md" >}}) | 11 | 13 | 84.6 | /mnt/stockage/packages/f13/kde-plasma-runcommand/applet/po/pl.po | 
+ | [pl](/f13/language/pl) | 11 | 13 | 84.6 | /mnt/stockage/packages/f13/kde-plasma-runcommand/applet/po/pl.po | 
 {.sortable}
 
 

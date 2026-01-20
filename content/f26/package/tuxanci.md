@@ -18,8 +18,8 @@ The package tuxanci (version 0.21.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f26/language/cs.md" >}}) | 674 | 674 | 100.0 | /mnt/stockage/packages/f26/tuxanci/po/cs_CZ.po | 
- | [de]({{< ref "/f26/language/de.md" >}}) | 626 | 674 | 92.9 | /mnt/stockage/packages/f26/tuxanci/po/de_DE.po | 
+ | [cs](/f26/language/cs) | 674 | 674 | 100.0 | /mnt/stockage/packages/f26/tuxanci/po/cs_CZ.po | 
+ | [de](/f26/language/de) | 626 | 674 | 92.9 | /mnt/stockage/packages/f26/tuxanci/po/de_DE.po | 
 {.sortable}
 
 

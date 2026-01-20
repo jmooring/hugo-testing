@@ -18,107 +18,107 @@ The package kf6-kcompletion (version 6.13.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f40/language/ar.md" >}}) | 18 | 18 | 100.0 | /mnt/stockage/packages/f40/kf6-kcompletion/poqm/ar/kcompletion6_qt.po | 
- | [az]({{< ref "/f40/language/az.md" >}}) | 18 | 18 | 100.0 | /mnt/stockage/packages/f40/kf6-kcompletion/poqm/az/kcompletion6_qt.po | 
- | [be]({{< ref "/f40/language/be.md" >}}) | 18 | 18 | 100.0 | /mnt/stockage/packages/f40/kf6-kcompletion/poqm/be/kcompletion6_qt.po | 
- | [bg]({{< ref "/f40/language/bg.md" >}}) | 18 | 18 | 100.0 | /mnt/stockage/packages/f40/kf6-kcompletion/poqm/bg/kcompletion6_qt.po | 
- | [ca]({{< ref "/f40/language/ca.md" >}}) | 18 | 18 | 100.0 | /mnt/stockage/packages/f40/kf6-kcompletion/poqm/ca/kcompletion6_qt.po | 
- | [ca@valencia]({{< ref "/f40/language/ca@valencia.md" >}}) | 18 | 18 | 100.0 | /mnt/stockage/packages/f40/kf6-kcompletion/poqm/ca@valencia/kcompletion6_qt.po | 
- | [cs]({{< ref "/f40/language/cs.md" >}}) | 18 | 18 | 100.0 | /mnt/stockage/packages/f40/kf6-kcompletion/poqm/cs/kcompletion6_qt.po | 
- | [da]({{< ref "/f40/language/da.md" >}}) | 18 | 18 | 100.0 | /mnt/stockage/packages/f40/kf6-kcompletion/poqm/da/kcompletion6_qt.po | 
- | [de]({{< ref "/f40/language/de.md" >}}) | 18 | 18 | 100.0 | /mnt/stockage/packages/f40/kf6-kcompletion/poqm/de/kcompletion6_qt.po | 
- | [el]({{< ref "/f40/language/el.md" >}}) | 18 | 18 | 100.0 | /mnt/stockage/packages/f40/kf6-kcompletion/poqm/el/kcompletion6_qt.po | 
- | [en_GB]({{< ref "/f40/language/en_GB.md" >}}) | 18 | 18 | 100.0 | /mnt/stockage/packages/f40/kf6-kcompletion/poqm/en_GB/kcompletion6_qt.po | 
- | [eo]({{< ref "/f40/language/eo.md" >}}) | 18 | 18 | 100.0 | /mnt/stockage/packages/f40/kf6-kcompletion/poqm/eo/kcompletion6_qt.po | 
- | [es]({{< ref "/f40/language/es.md" >}}) | 18 | 18 | 100.0 | /mnt/stockage/packages/f40/kf6-kcompletion/poqm/es/kcompletion6_qt.po | 
- | [et]({{< ref "/f40/language/et.md" >}}) | 18 | 18 | 100.0 | /mnt/stockage/packages/f40/kf6-kcompletion/poqm/et/kcompletion6_qt.po | 
- | [eu]({{< ref "/f40/language/eu.md" >}}) | 18 | 18 | 100.0 | /mnt/stockage/packages/f40/kf6-kcompletion/poqm/eu/kcompletion6_qt.po | 
- | [fi]({{< ref "/f40/language/fi.md" >}}) | 18 | 18 | 100.0 | /mnt/stockage/packages/f40/kf6-kcompletion/poqm/fi/kcompletion6_qt.po | 
- | [fr]({{< ref "/f40/language/fr.md" >}}) | 18 | 18 | 100.0 | /mnt/stockage/packages/f40/kf6-kcompletion/poqm/fr/kcompletion6_qt.po | 
- | [gl]({{< ref "/f40/language/gl.md" >}}) | 18 | 18 | 100.0 | /mnt/stockage/packages/f40/kf6-kcompletion/poqm/gl/kcompletion6_qt.po | 
- | [he]({{< ref "/f40/language/he.md" >}}) | 18 | 18 | 100.0 | /mnt/stockage/packages/f40/kf6-kcompletion/poqm/he/kcompletion6_qt.po | 
- | [hi]({{< ref "/f40/language/hi.md" >}}) | 18 | 18 | 100.0 | /mnt/stockage/packages/f40/kf6-kcompletion/poqm/hi/kcompletion6_qt.po | 
- | [hu]({{< ref "/f40/language/hu.md" >}}) | 18 | 18 | 100.0 | /mnt/stockage/packages/f40/kf6-kcompletion/poqm/hu/kcompletion6_qt.po | 
- | [ia]({{< ref "/f40/language/ia.md" >}}) | 18 | 18 | 100.0 | /mnt/stockage/packages/f40/kf6-kcompletion/poqm/ia/kcompletion6_qt.po | 
- | [is]({{< ref "/f40/language/is.md" >}}) | 18 | 18 | 100.0 | /mnt/stockage/packages/f40/kf6-kcompletion/poqm/is/kcompletion6_qt.po | 
- | [it]({{< ref "/f40/language/it.md" >}}) | 18 | 18 | 100.0 | /mnt/stockage/packages/f40/kf6-kcompletion/poqm/it/kcompletion6_qt.po | 
- | [ka]({{< ref "/f40/language/ka.md" >}}) | 18 | 18 | 100.0 | /mnt/stockage/packages/f40/kf6-kcompletion/poqm/ka/kcompletion6_qt.po | 
- | [ko]({{< ref "/f40/language/ko.md" >}}) | 18 | 18 | 100.0 | /mnt/stockage/packages/f40/kf6-kcompletion/poqm/ko/kcompletion6_qt.po | 
- | [lt]({{< ref "/f40/language/lt.md" >}}) | 18 | 18 | 100.0 | /mnt/stockage/packages/f40/kf6-kcompletion/poqm/lt/kcompletion6_qt.po | 
- | [lv]({{< ref "/f40/language/lv.md" >}}) | 18 | 18 | 100.0 | /mnt/stockage/packages/f40/kf6-kcompletion/poqm/lv/kcompletion6_qt.po | 
- | [nl]({{< ref "/f40/language/nl.md" >}}) | 18 | 18 | 100.0 | /mnt/stockage/packages/f40/kf6-kcompletion/poqm/nl/kcompletion6_qt.po | 
- | [nn]({{< ref "/f40/language/nn.md" >}}) | 18 | 18 | 100.0 | /mnt/stockage/packages/f40/kf6-kcompletion/poqm/nn/kcompletion6_qt.po | 
- | [pa]({{< ref "/f40/language/pa.md" >}}) | 18 | 18 | 100.0 | /mnt/stockage/packages/f40/kf6-kcompletion/poqm/pa/kcompletion6_qt.po | 
- | [pl]({{< ref "/f40/language/pl.md" >}}) | 18 | 18 | 100.0 | /mnt/stockage/packages/f40/kf6-kcompletion/poqm/pl/kcompletion6_qt.po | 
- | [pt]({{< ref "/f40/language/pt.md" >}}) | 18 | 18 | 100.0 | /mnt/stockage/packages/f40/kf6-kcompletion/poqm/pt/kcompletion6_qt.po | 
- | [pt_BR]({{< ref "/f40/language/pt_BR.md" >}}) | 18 | 18 | 100.0 | /mnt/stockage/packages/f40/kf6-kcompletion/poqm/pt_BR/kcompletion6_qt.po | 
- | [ro]({{< ref "/f40/language/ro.md" >}}) | 18 | 18 | 100.0 | /mnt/stockage/packages/f40/kf6-kcompletion/poqm/ro/kcompletion6_qt.po | 
- | [ru]({{< ref "/f40/language/ru.md" >}}) | 18 | 18 | 100.0 | /mnt/stockage/packages/f40/kf6-kcompletion/poqm/ru/kcompletion6_qt.po | 
- | [sa]({{< ref "/f40/language/sa.md" >}}) | 18 | 18 | 100.0 | /mnt/stockage/packages/f40/kf6-kcompletion/poqm/sa/kcompletion6_qt.po | 
- | [sk]({{< ref "/f40/language/sk.md" >}}) | 18 | 18 | 100.0 | /mnt/stockage/packages/f40/kf6-kcompletion/poqm/sk/kcompletion6_qt.po | 
- | [sl]({{< ref "/f40/language/sl.md" >}}) | 18 | 18 | 100.0 | /mnt/stockage/packages/f40/kf6-kcompletion/poqm/sl/kcompletion6_qt.po | 
- | [sv]({{< ref "/f40/language/sv.md" >}}) | 18 | 18 | 100.0 | /mnt/stockage/packages/f40/kf6-kcompletion/poqm/sv/kcompletion6_qt.po | 
- | [ta]({{< ref "/f40/language/ta.md" >}}) | 18 | 18 | 100.0 | /mnt/stockage/packages/f40/kf6-kcompletion/poqm/ta/kcompletion6_qt.po | 
- | [tr]({{< ref "/f40/language/tr.md" >}}) | 18 | 18 | 100.0 | /mnt/stockage/packages/f40/kf6-kcompletion/poqm/tr/kcompletion6_qt.po | 
- | [uk]({{< ref "/f40/language/uk.md" >}}) | 18 | 18 | 100.0 | /mnt/stockage/packages/f40/kf6-kcompletion/poqm/uk/kcompletion6_qt.po | 
- | [vi]({{< ref "/f40/language/vi.md" >}}) | 18 | 18 | 100.0 | /mnt/stockage/packages/f40/kf6-kcompletion/poqm/vi/kcompletion6_qt.po | 
- | [zh_Hans]({{< ref "/f40/language/zh_Hans.md" >}}) | 18 | 18 | 100.0 | /mnt/stockage/packages/f40/kf6-kcompletion/poqm/zh_CN/kcompletion6_qt.po | 
- | [zh_Hant]({{< ref "/f40/language/zh_Hant.md" >}}) | 18 | 18 | 100.0 | /mnt/stockage/packages/f40/kf6-kcompletion/poqm/zh_TW/kcompletion6_qt.po | 
- | [bs]({{< ref "/f40/language/bs.md" >}}) | 15 | 18 | 83.3 | /mnt/stockage/packages/f40/kf6-kcompletion/poqm/bs/kcompletion6_qt.po | 
- | [gd]({{< ref "/f40/language/gd.md" >}}) | 15 | 18 | 83.3 | /mnt/stockage/packages/f40/kf6-kcompletion/poqm/gd/kcompletion6_qt.po | 
- | [id]({{< ref "/f40/language/id.md" >}}) | 15 | 18 | 83.3 | /mnt/stockage/packages/f40/kf6-kcompletion/poqm/id/kcompletion6_qt.po | 
- | [ja]({{< ref "/f40/language/ja.md" >}}) | 15 | 18 | 83.3 | /mnt/stockage/packages/f40/kf6-kcompletion/poqm/ja/kcompletion6_qt.po | 
- | [mr]({{< ref "/f40/language/mr.md" >}}) | 15 | 18 | 83.3 | /mnt/stockage/packages/f40/kf6-kcompletion/poqm/mr/kcompletion6_qt.po | 
- | [nb_NO]({{< ref "/f40/language/nb_NO.md" >}}) | 15 | 18 | 83.3 | /mnt/stockage/packages/f40/kf6-kcompletion/poqm/nb/kcompletion6_qt.po | 
- | [nds]({{< ref "/f40/language/nds.md" >}}) | 15 | 18 | 83.3 | /mnt/stockage/packages/f40/kf6-kcompletion/poqm/nds/kcompletion6_qt.po | 
- | [sr]({{< ref "/f40/language/sr.md" >}}) | 15 | 18 | 83.3 | /mnt/stockage/packages/f40/kf6-kcompletion/poqm/sr/kcompletion6_qt.po | 
- | [sr@ijekavian]({{< ref "/f40/language/sr@ijekavian.md" >}}) | 15 | 18 | 83.3 | /mnt/stockage/packages/f40/kf6-kcompletion/poqm/sr@ijekavian/kcompletion6_qt.po | 
- | [sr@ijekavian_Latn]({{< ref "/f40/language/sr@ijekavian_Latn.md" >}}) | 15 | 18 | 83.3 | /mnt/stockage/packages/f40/kf6-kcompletion/poqm/sr@ijekavianlatin/kcompletion6_qt.po | 
- | [sr_Latn]({{< ref "/f40/language/sr_Latn.md" >}}) | 15 | 18 | 83.3 | /mnt/stockage/packages/f40/kf6-kcompletion/poqm/sr@latin/kcompletion6_qt.po | 
- | [tg]({{< ref "/f40/language/tg.md" >}}) | 15 | 18 | 83.3 | /mnt/stockage/packages/f40/kf6-kcompletion/poqm/tg/kcompletion6_qt.po | 
- | [af]({{< ref "/f40/language/af.md" >}}) | 0 | 18 | 0.0 | /mnt/stockage/packages/f40/kf6-kcompletion/poqm/af/kcompletion6_qt.po | 
- | [as]({{< ref "/f40/language/as.md" >}}) | 0 | 18 | 0.0 | /mnt/stockage/packages/f40/kf6-kcompletion/poqm/as/kcompletion6_qt.po | 
- | [ast]({{< ref "/f40/language/ast.md" >}}) | 0 | 18 | 0.0 | /mnt/stockage/packages/f40/kf6-kcompletion/poqm/ast/kcompletion6_qt.po | 
- | [be_Latn]({{< ref "/f40/language/be_Latn.md" >}}) | 0 | 18 | 0.0 | /mnt/stockage/packages/f40/kf6-kcompletion/poqm/be@latin/kcompletion6_qt.po | 
- | [bn]({{< ref "/f40/language/bn.md" >}}) | 0 | 18 | 0.0 | /mnt/stockage/packages/f40/kf6-kcompletion/poqm/bn/kcompletion6_qt.po | 
- | [bn_IN]({{< ref "/f40/language/bn_IN.md" >}}) | 0 | 18 | 0.0 | /mnt/stockage/packages/f40/kf6-kcompletion/poqm/bn_IN/kcompletion6_qt.po | 
- | [br]({{< ref "/f40/language/br.md" >}}) | 0 | 18 | 0.0 | /mnt/stockage/packages/f40/kf6-kcompletion/poqm/br/kcompletion6_qt.po | 
- | [crh]({{< ref "/f40/language/crh.md" >}}) | 0 | 18 | 0.0 | /mnt/stockage/packages/f40/kf6-kcompletion/poqm/crh/kcompletion6_qt.po | 
- | [csb]({{< ref "/f40/language/csb.md" >}}) | 0 | 18 | 0.0 | /mnt/stockage/packages/f40/kf6-kcompletion/poqm/csb/kcompletion6_qt.po | 
- | [cy]({{< ref "/f40/language/cy.md" >}}) | 0 | 18 | 0.0 | /mnt/stockage/packages/f40/kf6-kcompletion/poqm/cy/kcompletion6_qt.po | 
- | [fa]({{< ref "/f40/language/fa.md" >}}) | 0 | 18 | 0.0 | /mnt/stockage/packages/f40/kf6-kcompletion/poqm/fa/kcompletion6_qt.po | 
- | [fy]({{< ref "/f40/language/fy.md" >}}) | 0 | 18 | 0.0 | /mnt/stockage/packages/f40/kf6-kcompletion/poqm/fy/kcompletion6_qt.po | 
- | [ga]({{< ref "/f40/language/ga.md" >}}) | 0 | 18 | 0.0 | /mnt/stockage/packages/f40/kf6-kcompletion/poqm/ga/kcompletion6_qt.po | 
- | [gu]({{< ref "/f40/language/gu.md" >}}) | 0 | 18 | 0.0 | /mnt/stockage/packages/f40/kf6-kcompletion/poqm/gu/kcompletion6_qt.po | 
- | [ha]({{< ref "/f40/language/ha.md" >}}) | 0 | 18 | 0.0 | /mnt/stockage/packages/f40/kf6-kcompletion/poqm/ha/kcompletion6_qt.po | 
- | [hne]({{< ref "/f40/language/hne.md" >}}) | 0 | 18 | 0.0 | /mnt/stockage/packages/f40/kf6-kcompletion/poqm/hne/kcompletion6_qt.po | 
- | [hr]({{< ref "/f40/language/hr.md" >}}) | 0 | 18 | 0.0 | /mnt/stockage/packages/f40/kf6-kcompletion/poqm/hr/kcompletion6_qt.po | 
- | [hsb]({{< ref "/f40/language/hsb.md" >}}) | 0 | 18 | 0.0 | /mnt/stockage/packages/f40/kf6-kcompletion/poqm/hsb/kcompletion6_qt.po | 
- | [hy]({{< ref "/f40/language/hy.md" >}}) | 0 | 18 | 0.0 | /mnt/stockage/packages/f40/kf6-kcompletion/poqm/hy/kcompletion6_qt.po | 
- | [kk]({{< ref "/f40/language/kk.md" >}}) | 0 | 18 | 0.0 | /mnt/stockage/packages/f40/kf6-kcompletion/poqm/kk/kcompletion6_qt.po | 
- | [km]({{< ref "/f40/language/km.md" >}}) | 0 | 18 | 0.0 | /mnt/stockage/packages/f40/kf6-kcompletion/poqm/km/kcompletion6_qt.po | 
- | [kn]({{< ref "/f40/language/kn.md" >}}) | 0 | 18 | 0.0 | /mnt/stockage/packages/f40/kf6-kcompletion/poqm/kn/kcompletion6_qt.po | 
- | [ku]({{< ref "/f40/language/ku.md" >}}) | 0 | 18 | 0.0 | /mnt/stockage/packages/f40/kf6-kcompletion/poqm/ku/kcompletion6_qt.po | 
- | [lb]({{< ref "/f40/language/lb.md" >}}) | 0 | 18 | 0.0 | /mnt/stockage/packages/f40/kf6-kcompletion/poqm/lb/kcompletion6_qt.po | 
- | [mai]({{< ref "/f40/language/mai.md" >}}) | 0 | 18 | 0.0 | /mnt/stockage/packages/f40/kf6-kcompletion/poqm/mai/kcompletion6_qt.po | 
- | [mk]({{< ref "/f40/language/mk.md" >}}) | 0 | 18 | 0.0 | /mnt/stockage/packages/f40/kf6-kcompletion/poqm/mk/kcompletion6_qt.po | 
- | [ml]({{< ref "/f40/language/ml.md" >}}) | 0 | 18 | 0.0 | /mnt/stockage/packages/f40/kf6-kcompletion/poqm/ml/kcompletion6_qt.po | 
- | [ms]({{< ref "/f40/language/ms.md" >}}) | 0 | 18 | 0.0 | /mnt/stockage/packages/f40/kf6-kcompletion/poqm/ms/kcompletion6_qt.po | 
- | [ne]({{< ref "/f40/language/ne.md" >}}) | 0 | 18 | 0.0 | /mnt/stockage/packages/f40/kf6-kcompletion/poqm/ne/kcompletion6_qt.po | 
- | [oc]({{< ref "/f40/language/oc.md" >}}) | 0 | 18 | 0.0 | /mnt/stockage/packages/f40/kf6-kcompletion/poqm/oc/kcompletion6_qt.po | 
- | [or]({{< ref "/f40/language/or.md" >}}) | 0 | 18 | 0.0 | /mnt/stockage/packages/f40/kf6-kcompletion/poqm/or/kcompletion6_qt.po | 
- | [ps]({{< ref "/f40/language/ps.md" >}}) | 0 | 18 | 0.0 | /mnt/stockage/packages/f40/kf6-kcompletion/poqm/ps/kcompletion6_qt.po | 
- | [se]({{< ref "/f40/language/se.md" >}}) | 0 | 18 | 0.0 | /mnt/stockage/packages/f40/kf6-kcompletion/poqm/se/kcompletion6_qt.po | 
- | [si]({{< ref "/f40/language/si.md" >}}) | 0 | 18 | 0.0 | /mnt/stockage/packages/f40/kf6-kcompletion/poqm/si/kcompletion6_qt.po | 
- | [sq]({{< ref "/f40/language/sq.md" >}}) | 0 | 18 | 0.0 | /mnt/stockage/packages/f40/kf6-kcompletion/poqm/sq/kcompletion6_qt.po | 
- | [te]({{< ref "/f40/language/te.md" >}}) | 0 | 18 | 0.0 | /mnt/stockage/packages/f40/kf6-kcompletion/poqm/te/kcompletion6_qt.po | 
- | [th]({{< ref "/f40/language/th.md" >}}) | 0 | 18 | 0.0 | /mnt/stockage/packages/f40/kf6-kcompletion/poqm/th/kcompletion6_qt.po | 
- | [tt]({{< ref "/f40/language/tt.md" >}}) | 0 | 18 | 0.0 | /mnt/stockage/packages/f40/kf6-kcompletion/poqm/tt/kcompletion6_qt.po | 
- | [ug]({{< ref "/f40/language/ug.md" >}}) | 0 | 18 | 0.0 | /mnt/stockage/packages/f40/kf6-kcompletion/poqm/ug/kcompletion6_qt.po | 
- | [uz]({{< ref "/f40/language/uz.md" >}}) | 0 | 36 | 0.0 | /mnt/stockage/packages/f40/kf6-kcompletion/poqm/uz@cyrillic/kcompletion6_qt.po/mnt/stockage/packages/f40/kf6-kcompletion/poqm/uz/kcompletion6_qt.po | 
- | [wa]({{< ref "/f40/language/wa.md" >}}) | 0 | 18 | 0.0 | /mnt/stockage/packages/f40/kf6-kcompletion/poqm/wa/kcompletion6_qt.po | 
- | [xh]({{< ref "/f40/language/xh.md" >}}) | 0 | 18 | 0.0 | /mnt/stockage/packages/f40/kf6-kcompletion/poqm/xh/kcompletion6_qt.po | 
- | [zh_Hant_HK]({{< ref "/f40/language/zh_Hant_HK.md" >}}) | 0 | 18 | 0.0 | /mnt/stockage/packages/f40/kf6-kcompletion/poqm/zh_HK/kcompletion6_qt.po | 
+ | [ar](/f40/language/ar) | 18 | 18 | 100.0 | /mnt/stockage/packages/f40/kf6-kcompletion/poqm/ar/kcompletion6_qt.po | 
+ | [az](/f40/language/az) | 18 | 18 | 100.0 | /mnt/stockage/packages/f40/kf6-kcompletion/poqm/az/kcompletion6_qt.po | 
+ | [be](/f40/language/be) | 18 | 18 | 100.0 | /mnt/stockage/packages/f40/kf6-kcompletion/poqm/be/kcompletion6_qt.po | 
+ | [bg](/f40/language/bg) | 18 | 18 | 100.0 | /mnt/stockage/packages/f40/kf6-kcompletion/poqm/bg/kcompletion6_qt.po | 
+ | [ca](/f40/language/ca) | 18 | 18 | 100.0 | /mnt/stockage/packages/f40/kf6-kcompletion/poqm/ca/kcompletion6_qt.po | 
+ | [ca@valencia](/f40/language/ca@valencia) | 18 | 18 | 100.0 | /mnt/stockage/packages/f40/kf6-kcompletion/poqm/ca@valencia/kcompletion6_qt.po | 
+ | [cs](/f40/language/cs) | 18 | 18 | 100.0 | /mnt/stockage/packages/f40/kf6-kcompletion/poqm/cs/kcompletion6_qt.po | 
+ | [da](/f40/language/da) | 18 | 18 | 100.0 | /mnt/stockage/packages/f40/kf6-kcompletion/poqm/da/kcompletion6_qt.po | 
+ | [de](/f40/language/de) | 18 | 18 | 100.0 | /mnt/stockage/packages/f40/kf6-kcompletion/poqm/de/kcompletion6_qt.po | 
+ | [el](/f40/language/el) | 18 | 18 | 100.0 | /mnt/stockage/packages/f40/kf6-kcompletion/poqm/el/kcompletion6_qt.po | 
+ | [en_GB](/f40/language/en_GB) | 18 | 18 | 100.0 | /mnt/stockage/packages/f40/kf6-kcompletion/poqm/en_GB/kcompletion6_qt.po | 
+ | [eo](/f40/language/eo) | 18 | 18 | 100.0 | /mnt/stockage/packages/f40/kf6-kcompletion/poqm/eo/kcompletion6_qt.po | 
+ | [es](/f40/language/es) | 18 | 18 | 100.0 | /mnt/stockage/packages/f40/kf6-kcompletion/poqm/es/kcompletion6_qt.po | 
+ | [et](/f40/language/et) | 18 | 18 | 100.0 | /mnt/stockage/packages/f40/kf6-kcompletion/poqm/et/kcompletion6_qt.po | 
+ | [eu](/f40/language/eu) | 18 | 18 | 100.0 | /mnt/stockage/packages/f40/kf6-kcompletion/poqm/eu/kcompletion6_qt.po | 
+ | [fi](/f40/language/fi) | 18 | 18 | 100.0 | /mnt/stockage/packages/f40/kf6-kcompletion/poqm/fi/kcompletion6_qt.po | 
+ | [fr](/f40/language/fr) | 18 | 18 | 100.0 | /mnt/stockage/packages/f40/kf6-kcompletion/poqm/fr/kcompletion6_qt.po | 
+ | [gl](/f40/language/gl) | 18 | 18 | 100.0 | /mnt/stockage/packages/f40/kf6-kcompletion/poqm/gl/kcompletion6_qt.po | 
+ | [he](/f40/language/he) | 18 | 18 | 100.0 | /mnt/stockage/packages/f40/kf6-kcompletion/poqm/he/kcompletion6_qt.po | 
+ | [hi](/f40/language/hi) | 18 | 18 | 100.0 | /mnt/stockage/packages/f40/kf6-kcompletion/poqm/hi/kcompletion6_qt.po | 
+ | [hu](/f40/language/hu) | 18 | 18 | 100.0 | /mnt/stockage/packages/f40/kf6-kcompletion/poqm/hu/kcompletion6_qt.po | 
+ | [ia](/f40/language/ia) | 18 | 18 | 100.0 | /mnt/stockage/packages/f40/kf6-kcompletion/poqm/ia/kcompletion6_qt.po | 
+ | [is](/f40/language/is) | 18 | 18 | 100.0 | /mnt/stockage/packages/f40/kf6-kcompletion/poqm/is/kcompletion6_qt.po | 
+ | [it](/f40/language/it) | 18 | 18 | 100.0 | /mnt/stockage/packages/f40/kf6-kcompletion/poqm/it/kcompletion6_qt.po | 
+ | [ka](/f40/language/ka) | 18 | 18 | 100.0 | /mnt/stockage/packages/f40/kf6-kcompletion/poqm/ka/kcompletion6_qt.po | 
+ | [ko](/f40/language/ko) | 18 | 18 | 100.0 | /mnt/stockage/packages/f40/kf6-kcompletion/poqm/ko/kcompletion6_qt.po | 
+ | [lt](/f40/language/lt) | 18 | 18 | 100.0 | /mnt/stockage/packages/f40/kf6-kcompletion/poqm/lt/kcompletion6_qt.po | 
+ | [lv](/f40/language/lv) | 18 | 18 | 100.0 | /mnt/stockage/packages/f40/kf6-kcompletion/poqm/lv/kcompletion6_qt.po | 
+ | [nl](/f40/language/nl) | 18 | 18 | 100.0 | /mnt/stockage/packages/f40/kf6-kcompletion/poqm/nl/kcompletion6_qt.po | 
+ | [nn](/f40/language/nn) | 18 | 18 | 100.0 | /mnt/stockage/packages/f40/kf6-kcompletion/poqm/nn/kcompletion6_qt.po | 
+ | [pa](/f40/language/pa) | 18 | 18 | 100.0 | /mnt/stockage/packages/f40/kf6-kcompletion/poqm/pa/kcompletion6_qt.po | 
+ | [pl](/f40/language/pl) | 18 | 18 | 100.0 | /mnt/stockage/packages/f40/kf6-kcompletion/poqm/pl/kcompletion6_qt.po | 
+ | [pt](/f40/language/pt) | 18 | 18 | 100.0 | /mnt/stockage/packages/f40/kf6-kcompletion/poqm/pt/kcompletion6_qt.po | 
+ | [pt_BR](/f40/language/pt_BR) | 18 | 18 | 100.0 | /mnt/stockage/packages/f40/kf6-kcompletion/poqm/pt_BR/kcompletion6_qt.po | 
+ | [ro](/f40/language/ro) | 18 | 18 | 100.0 | /mnt/stockage/packages/f40/kf6-kcompletion/poqm/ro/kcompletion6_qt.po | 
+ | [ru](/f40/language/ru) | 18 | 18 | 100.0 | /mnt/stockage/packages/f40/kf6-kcompletion/poqm/ru/kcompletion6_qt.po | 
+ | [sa](/f40/language/sa) | 18 | 18 | 100.0 | /mnt/stockage/packages/f40/kf6-kcompletion/poqm/sa/kcompletion6_qt.po | 
+ | [sk](/f40/language/sk) | 18 | 18 | 100.0 | /mnt/stockage/packages/f40/kf6-kcompletion/poqm/sk/kcompletion6_qt.po | 
+ | [sl](/f40/language/sl) | 18 | 18 | 100.0 | /mnt/stockage/packages/f40/kf6-kcompletion/poqm/sl/kcompletion6_qt.po | 
+ | [sv](/f40/language/sv) | 18 | 18 | 100.0 | /mnt/stockage/packages/f40/kf6-kcompletion/poqm/sv/kcompletion6_qt.po | 
+ | [ta](/f40/language/ta) | 18 | 18 | 100.0 | /mnt/stockage/packages/f40/kf6-kcompletion/poqm/ta/kcompletion6_qt.po | 
+ | [tr](/f40/language/tr) | 18 | 18 | 100.0 | /mnt/stockage/packages/f40/kf6-kcompletion/poqm/tr/kcompletion6_qt.po | 
+ | [uk](/f40/language/uk) | 18 | 18 | 100.0 | /mnt/stockage/packages/f40/kf6-kcompletion/poqm/uk/kcompletion6_qt.po | 
+ | [vi](/f40/language/vi) | 18 | 18 | 100.0 | /mnt/stockage/packages/f40/kf6-kcompletion/poqm/vi/kcompletion6_qt.po | 
+ | [zh_Hans](/f40/language/zh_Hans) | 18 | 18 | 100.0 | /mnt/stockage/packages/f40/kf6-kcompletion/poqm/zh_CN/kcompletion6_qt.po | 
+ | [zh_Hant](/f40/language/zh_Hant) | 18 | 18 | 100.0 | /mnt/stockage/packages/f40/kf6-kcompletion/poqm/zh_TW/kcompletion6_qt.po | 
+ | [bs](/f40/language/bs) | 15 | 18 | 83.3 | /mnt/stockage/packages/f40/kf6-kcompletion/poqm/bs/kcompletion6_qt.po | 
+ | [gd](/f40/language/gd) | 15 | 18 | 83.3 | /mnt/stockage/packages/f40/kf6-kcompletion/poqm/gd/kcompletion6_qt.po | 
+ | [id](/f40/language/id) | 15 | 18 | 83.3 | /mnt/stockage/packages/f40/kf6-kcompletion/poqm/id/kcompletion6_qt.po | 
+ | [ja](/f40/language/ja) | 15 | 18 | 83.3 | /mnt/stockage/packages/f40/kf6-kcompletion/poqm/ja/kcompletion6_qt.po | 
+ | [mr](/f40/language/mr) | 15 | 18 | 83.3 | /mnt/stockage/packages/f40/kf6-kcompletion/poqm/mr/kcompletion6_qt.po | 
+ | [nb_NO](/f40/language/nb_NO) | 15 | 18 | 83.3 | /mnt/stockage/packages/f40/kf6-kcompletion/poqm/nb/kcompletion6_qt.po | 
+ | [nds](/f40/language/nds) | 15 | 18 | 83.3 | /mnt/stockage/packages/f40/kf6-kcompletion/poqm/nds/kcompletion6_qt.po | 
+ | [sr](/f40/language/sr) | 15 | 18 | 83.3 | /mnt/stockage/packages/f40/kf6-kcompletion/poqm/sr/kcompletion6_qt.po | 
+ | [sr@ijekavian](/f40/language/sr@ijekavian) | 15 | 18 | 83.3 | /mnt/stockage/packages/f40/kf6-kcompletion/poqm/sr@ijekavian/kcompletion6_qt.po | 
+ | [sr@ijekavian_Latn](/f40/language/sr@ijekavian_Latn) | 15 | 18 | 83.3 | /mnt/stockage/packages/f40/kf6-kcompletion/poqm/sr@ijekavianlatin/kcompletion6_qt.po | 
+ | [sr_Latn](/f40/language/sr_Latn) | 15 | 18 | 83.3 | /mnt/stockage/packages/f40/kf6-kcompletion/poqm/sr@latin/kcompletion6_qt.po | 
+ | [tg](/f40/language/tg) | 15 | 18 | 83.3 | /mnt/stockage/packages/f40/kf6-kcompletion/poqm/tg/kcompletion6_qt.po | 
+ | [af](/f40/language/af) | 0 | 18 | 0.0 | /mnt/stockage/packages/f40/kf6-kcompletion/poqm/af/kcompletion6_qt.po | 
+ | [as](/f40/language/as) | 0 | 18 | 0.0 | /mnt/stockage/packages/f40/kf6-kcompletion/poqm/as/kcompletion6_qt.po | 
+ | [ast](/f40/language/ast) | 0 | 18 | 0.0 | /mnt/stockage/packages/f40/kf6-kcompletion/poqm/ast/kcompletion6_qt.po | 
+ | [be_Latn](/f40/language/be_Latn) | 0 | 18 | 0.0 | /mnt/stockage/packages/f40/kf6-kcompletion/poqm/be@latin/kcompletion6_qt.po | 
+ | [bn](/f40/language/bn) | 0 | 18 | 0.0 | /mnt/stockage/packages/f40/kf6-kcompletion/poqm/bn/kcompletion6_qt.po | 
+ | [bn_IN](/f40/language/bn_IN) | 0 | 18 | 0.0 | /mnt/stockage/packages/f40/kf6-kcompletion/poqm/bn_IN/kcompletion6_qt.po | 
+ | [br](/f40/language/br) | 0 | 18 | 0.0 | /mnt/stockage/packages/f40/kf6-kcompletion/poqm/br/kcompletion6_qt.po | 
+ | [crh](/f40/language/crh) | 0 | 18 | 0.0 | /mnt/stockage/packages/f40/kf6-kcompletion/poqm/crh/kcompletion6_qt.po | 
+ | [csb](/f40/language/csb) | 0 | 18 | 0.0 | /mnt/stockage/packages/f40/kf6-kcompletion/poqm/csb/kcompletion6_qt.po | 
+ | [cy](/f40/language/cy) | 0 | 18 | 0.0 | /mnt/stockage/packages/f40/kf6-kcompletion/poqm/cy/kcompletion6_qt.po | 
+ | [fa](/f40/language/fa) | 0 | 18 | 0.0 | /mnt/stockage/packages/f40/kf6-kcompletion/poqm/fa/kcompletion6_qt.po | 
+ | [fy](/f40/language/fy) | 0 | 18 | 0.0 | /mnt/stockage/packages/f40/kf6-kcompletion/poqm/fy/kcompletion6_qt.po | 
+ | [ga](/f40/language/ga) | 0 | 18 | 0.0 | /mnt/stockage/packages/f40/kf6-kcompletion/poqm/ga/kcompletion6_qt.po | 
+ | [gu](/f40/language/gu) | 0 | 18 | 0.0 | /mnt/stockage/packages/f40/kf6-kcompletion/poqm/gu/kcompletion6_qt.po | 
+ | [ha](/f40/language/ha) | 0 | 18 | 0.0 | /mnt/stockage/packages/f40/kf6-kcompletion/poqm/ha/kcompletion6_qt.po | 
+ | [hne](/f40/language/hne) | 0 | 18 | 0.0 | /mnt/stockage/packages/f40/kf6-kcompletion/poqm/hne/kcompletion6_qt.po | 
+ | [hr](/f40/language/hr) | 0 | 18 | 0.0 | /mnt/stockage/packages/f40/kf6-kcompletion/poqm/hr/kcompletion6_qt.po | 
+ | [hsb](/f40/language/hsb) | 0 | 18 | 0.0 | /mnt/stockage/packages/f40/kf6-kcompletion/poqm/hsb/kcompletion6_qt.po | 
+ | [hy](/f40/language/hy) | 0 | 18 | 0.0 | /mnt/stockage/packages/f40/kf6-kcompletion/poqm/hy/kcompletion6_qt.po | 
+ | [kk](/f40/language/kk) | 0 | 18 | 0.0 | /mnt/stockage/packages/f40/kf6-kcompletion/poqm/kk/kcompletion6_qt.po | 
+ | [km](/f40/language/km) | 0 | 18 | 0.0 | /mnt/stockage/packages/f40/kf6-kcompletion/poqm/km/kcompletion6_qt.po | 
+ | [kn](/f40/language/kn) | 0 | 18 | 0.0 | /mnt/stockage/packages/f40/kf6-kcompletion/poqm/kn/kcompletion6_qt.po | 
+ | [ku](/f40/language/ku) | 0 | 18 | 0.0 | /mnt/stockage/packages/f40/kf6-kcompletion/poqm/ku/kcompletion6_qt.po | 
+ | [lb](/f40/language/lb) | 0 | 18 | 0.0 | /mnt/stockage/packages/f40/kf6-kcompletion/poqm/lb/kcompletion6_qt.po | 
+ | [mai](/f40/language/mai) | 0 | 18 | 0.0 | /mnt/stockage/packages/f40/kf6-kcompletion/poqm/mai/kcompletion6_qt.po | 
+ | [mk](/f40/language/mk) | 0 | 18 | 0.0 | /mnt/stockage/packages/f40/kf6-kcompletion/poqm/mk/kcompletion6_qt.po | 
+ | [ml](/f40/language/ml) | 0 | 18 | 0.0 | /mnt/stockage/packages/f40/kf6-kcompletion/poqm/ml/kcompletion6_qt.po | 
+ | [ms](/f40/language/ms) | 0 | 18 | 0.0 | /mnt/stockage/packages/f40/kf6-kcompletion/poqm/ms/kcompletion6_qt.po | 
+ | [ne](/f40/language/ne) | 0 | 18 | 0.0 | /mnt/stockage/packages/f40/kf6-kcompletion/poqm/ne/kcompletion6_qt.po | 
+ | [oc](/f40/language/oc) | 0 | 18 | 0.0 | /mnt/stockage/packages/f40/kf6-kcompletion/poqm/oc/kcompletion6_qt.po | 
+ | [or](/f40/language/or) | 0 | 18 | 0.0 | /mnt/stockage/packages/f40/kf6-kcompletion/poqm/or/kcompletion6_qt.po | 
+ | [ps](/f40/language/ps) | 0 | 18 | 0.0 | /mnt/stockage/packages/f40/kf6-kcompletion/poqm/ps/kcompletion6_qt.po | 
+ | [se](/f40/language/se) | 0 | 18 | 0.0 | /mnt/stockage/packages/f40/kf6-kcompletion/poqm/se/kcompletion6_qt.po | 
+ | [si](/f40/language/si) | 0 | 18 | 0.0 | /mnt/stockage/packages/f40/kf6-kcompletion/poqm/si/kcompletion6_qt.po | 
+ | [sq](/f40/language/sq) | 0 | 18 | 0.0 | /mnt/stockage/packages/f40/kf6-kcompletion/poqm/sq/kcompletion6_qt.po | 
+ | [te](/f40/language/te) | 0 | 18 | 0.0 | /mnt/stockage/packages/f40/kf6-kcompletion/poqm/te/kcompletion6_qt.po | 
+ | [th](/f40/language/th) | 0 | 18 | 0.0 | /mnt/stockage/packages/f40/kf6-kcompletion/poqm/th/kcompletion6_qt.po | 
+ | [tt](/f40/language/tt) | 0 | 18 | 0.0 | /mnt/stockage/packages/f40/kf6-kcompletion/poqm/tt/kcompletion6_qt.po | 
+ | [ug](/f40/language/ug) | 0 | 18 | 0.0 | /mnt/stockage/packages/f40/kf6-kcompletion/poqm/ug/kcompletion6_qt.po | 
+ | [uz](/f40/language/uz) | 0 | 36 | 0.0 | /mnt/stockage/packages/f40/kf6-kcompletion/poqm/uz@cyrillic/kcompletion6_qt.po/mnt/stockage/packages/f40/kf6-kcompletion/poqm/uz/kcompletion6_qt.po | 
+ | [wa](/f40/language/wa) | 0 | 18 | 0.0 | /mnt/stockage/packages/f40/kf6-kcompletion/poqm/wa/kcompletion6_qt.po | 
+ | [xh](/f40/language/xh) | 0 | 18 | 0.0 | /mnt/stockage/packages/f40/kf6-kcompletion/poqm/xh/kcompletion6_qt.po | 
+ | [zh_Hant_HK](/f40/language/zh_Hant_HK) | 0 | 18 | 0.0 | /mnt/stockage/packages/f40/kf6-kcompletion/poqm/zh_HK/kcompletion6_qt.po | 
 {.sortable}
 
 

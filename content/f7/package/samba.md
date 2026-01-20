@@ -18,21 +18,21 @@ The package samba (version 3.0.28a):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f7/language/ca.md" >}}) | 1530 | 1530 | 100.0 | /mnt/stockage/packages/f7/samba/packaging/Debian/debian-sarge/po/ca.po/mnt/stockage/packages/f7/samba/packaging/Debian/debian-unstable/po/ca.po | 
- | [cs]({{< ref "/f7/language/cs.md" >}}) | 1530 | 1530 | 100.0 | /mnt/stockage/packages/f7/samba/packaging/Debian/debian-sarge/po/cs.po/mnt/stockage/packages/f7/samba/packaging/Debian/debian-unstable/po/cs.po | 
- | [da]({{< ref "/f7/language/da.md" >}}) | 1530 | 1530 | 100.0 | /mnt/stockage/packages/f7/samba/packaging/Debian/debian-sarge/po/da.po/mnt/stockage/packages/f7/samba/packaging/Debian/debian-unstable/po/da.po | 
- | [de]({{< ref "/f7/language/de.md" >}}) | 765 | 765 | 100.0 | /mnt/stockage/packages/f7/samba/packaging/Debian/debian-unstable/po/de.po | 
- | [fr]({{< ref "/f7/language/fr.md" >}}) | 2295 | 2295 | 100.0 | /mnt/stockage/packages/f7/samba/packaging/Debian/debian-sarge/po/fr.po/mnt/stockage/packages/f7/samba/packaging/Debian/debian-unstable/po/fr.po/mnt/stockage/packages/f7/samba/packaging/Debian/debian-woody/po/fr.po | 
- | [it]({{< ref "/f7/language/it.md" >}}) | 1530 | 1530 | 100.0 | /mnt/stockage/packages/f7/samba/packaging/Debian/debian-sarge/po/it.po/mnt/stockage/packages/f7/samba/packaging/Debian/debian-unstable/po/it.po | 
- | [ja]({{< ref "/f7/language/ja.md" >}}) | 1530 | 1530 | 100.0 | /mnt/stockage/packages/f7/samba/packaging/Debian/debian-sarge/po/ja.po/mnt/stockage/packages/f7/samba/packaging/Debian/debian-unstable/po/ja.po | 
- | [nl]({{< ref "/f7/language/nl.md" >}}) | 2295 | 2295 | 100.0 | /mnt/stockage/packages/f7/samba/packaging/Debian/debian-sarge/po/nl.po/mnt/stockage/packages/f7/samba/packaging/Debian/debian-unstable/po/nl.po/mnt/stockage/packages/f7/samba/packaging/Debian/debian-woody/po/nl.po | 
- | [pt]({{< ref "/f7/language/pt.md" >}}) | 1530 | 1530 | 100.0 | /mnt/stockage/packages/f7/samba/packaging/Debian/debian-sarge/po/pt.po/mnt/stockage/packages/f7/samba/packaging/Debian/debian-unstable/po/pt.po | 
- | [ru]({{< ref "/f7/language/ru.md" >}}) | 1530 | 1530 | 100.0 | /mnt/stockage/packages/f7/samba/packaging/Debian/debian-sarge/po/ru.po/mnt/stockage/packages/f7/samba/packaging/Debian/debian-unstable/po/ru.po | 
- | [tr]({{< ref "/f7/language/tr.md" >}}) | 1530 | 1530 | 100.0 | /mnt/stockage/packages/f7/samba/packaging/Debian/debian-sarge/po/tr.po/mnt/stockage/packages/f7/samba/packaging/Debian/debian-unstable/po/tr.po | 
- | [vi]({{< ref "/f7/language/vi.md" >}}) | 765 | 765 | 100.0 | /mnt/stockage/packages/f7/samba/packaging/Debian/debian-unstable/po/vi.po | 
- | [pt_BR]({{< ref "/f7/language/pt_BR.md" >}}) | 2248 | 2295 | 98.0 | /mnt/stockage/packages/f7/samba/packaging/Debian/debian-sarge/po/pt_BR.po/mnt/stockage/packages/f7/samba/packaging/Debian/debian-unstable/po/pt_BR.po/mnt/stockage/packages/f7/samba/packaging/Debian/debian-woody/po/pt_BR.po | 
- | [sv]({{< ref "/f7/language/sv.md" >}}) | 724 | 765 | 94.6 | /mnt/stockage/packages/f7/samba/packaging/Debian/debian-unstable/po/sv.po | 
- | [es]({{< ref "/f7/language/es.md" >}}) | 2052 | 2295 | 89.4 | /mnt/stockage/packages/f7/samba/packaging/Debian/debian-sarge/po/es.po/mnt/stockage/packages/f7/samba/packaging/Debian/debian-unstable/po/es.po/mnt/stockage/packages/f7/samba/packaging/Debian/debian-woody/po/es.po | 
+ | [ca](/f7/language/ca) | 1530 | 1530 | 100.0 | /mnt/stockage/packages/f7/samba/packaging/Debian/debian-sarge/po/ca.po/mnt/stockage/packages/f7/samba/packaging/Debian/debian-unstable/po/ca.po | 
+ | [cs](/f7/language/cs) | 1530 | 1530 | 100.0 | /mnt/stockage/packages/f7/samba/packaging/Debian/debian-sarge/po/cs.po/mnt/stockage/packages/f7/samba/packaging/Debian/debian-unstable/po/cs.po | 
+ | [da](/f7/language/da) | 1530 | 1530 | 100.0 | /mnt/stockage/packages/f7/samba/packaging/Debian/debian-sarge/po/da.po/mnt/stockage/packages/f7/samba/packaging/Debian/debian-unstable/po/da.po | 
+ | [de](/f7/language/de) | 765 | 765 | 100.0 | /mnt/stockage/packages/f7/samba/packaging/Debian/debian-unstable/po/de.po | 
+ | [fr](/f7/language/fr) | 2295 | 2295 | 100.0 | /mnt/stockage/packages/f7/samba/packaging/Debian/debian-sarge/po/fr.po/mnt/stockage/packages/f7/samba/packaging/Debian/debian-unstable/po/fr.po/mnt/stockage/packages/f7/samba/packaging/Debian/debian-woody/po/fr.po | 
+ | [it](/f7/language/it) | 1530 | 1530 | 100.0 | /mnt/stockage/packages/f7/samba/packaging/Debian/debian-sarge/po/it.po/mnt/stockage/packages/f7/samba/packaging/Debian/debian-unstable/po/it.po | 
+ | [ja](/f7/language/ja) | 1530 | 1530 | 100.0 | /mnt/stockage/packages/f7/samba/packaging/Debian/debian-sarge/po/ja.po/mnt/stockage/packages/f7/samba/packaging/Debian/debian-unstable/po/ja.po | 
+ | [nl](/f7/language/nl) | 2295 | 2295 | 100.0 | /mnt/stockage/packages/f7/samba/packaging/Debian/debian-sarge/po/nl.po/mnt/stockage/packages/f7/samba/packaging/Debian/debian-unstable/po/nl.po/mnt/stockage/packages/f7/samba/packaging/Debian/debian-woody/po/nl.po | 
+ | [pt](/f7/language/pt) | 1530 | 1530 | 100.0 | /mnt/stockage/packages/f7/samba/packaging/Debian/debian-sarge/po/pt.po/mnt/stockage/packages/f7/samba/packaging/Debian/debian-unstable/po/pt.po | 
+ | [ru](/f7/language/ru) | 1530 | 1530 | 100.0 | /mnt/stockage/packages/f7/samba/packaging/Debian/debian-sarge/po/ru.po/mnt/stockage/packages/f7/samba/packaging/Debian/debian-unstable/po/ru.po | 
+ | [tr](/f7/language/tr) | 1530 | 1530 | 100.0 | /mnt/stockage/packages/f7/samba/packaging/Debian/debian-sarge/po/tr.po/mnt/stockage/packages/f7/samba/packaging/Debian/debian-unstable/po/tr.po | 
+ | [vi](/f7/language/vi) | 765 | 765 | 100.0 | /mnt/stockage/packages/f7/samba/packaging/Debian/debian-unstable/po/vi.po | 
+ | [pt_BR](/f7/language/pt_BR) | 2248 | 2295 | 98.0 | /mnt/stockage/packages/f7/samba/packaging/Debian/debian-sarge/po/pt_BR.po/mnt/stockage/packages/f7/samba/packaging/Debian/debian-unstable/po/pt_BR.po/mnt/stockage/packages/f7/samba/packaging/Debian/debian-woody/po/pt_BR.po | 
+ | [sv](/f7/language/sv) | 724 | 765 | 94.6 | /mnt/stockage/packages/f7/samba/packaging/Debian/debian-unstable/po/sv.po | 
+ | [es](/f7/language/es) | 2052 | 2295 | 89.4 | /mnt/stockage/packages/f7/samba/packaging/Debian/debian-sarge/po/es.po/mnt/stockage/packages/f7/samba/packaging/Debian/debian-unstable/po/es.po/mnt/stockage/packages/f7/samba/packaging/Debian/debian-woody/po/es.po | 
 {.sortable}
 
 

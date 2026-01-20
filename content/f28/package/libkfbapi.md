@@ -18,48 +18,48 @@ The package libkfbapi (version 1.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [bs]({{< ref "/f28/language/bs.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f28/libkfbapi/po/bs/libkfbapi.po | 
- | [cs]({{< ref "/f28/language/cs.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f28/libkfbapi/po/cs/libkfbapi.po | 
- | [da]({{< ref "/f28/language/da.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f28/libkfbapi/po/da/libkfbapi.po | 
- | [de]({{< ref "/f28/language/de.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f28/libkfbapi/po/de/libkfbapi.po | 
- | [el]({{< ref "/f28/language/el.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f28/libkfbapi/po/el/libkfbapi.po | 
- | [es]({{< ref "/f28/language/es.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f28/libkfbapi/po/es/libkfbapi.po | 
- | [et]({{< ref "/f28/language/et.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f28/libkfbapi/po/et/libkfbapi.po | 
- | [fi]({{< ref "/f28/language/fi.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f28/libkfbapi/po/fi/libkfbapi.po | 
- | [fr]({{< ref "/f28/language/fr.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f28/libkfbapi/po/fr/libkfbapi.po | 
- | [gl]({{< ref "/f28/language/gl.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f28/libkfbapi/po/gl/libkfbapi.po | 
- | [hu]({{< ref "/f28/language/hu.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f28/libkfbapi/po/hu/libkfbapi.po | 
- | [it]({{< ref "/f28/language/it.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f28/libkfbapi/po/it/libkfbapi.po | 
- | [kk]({{< ref "/f28/language/kk.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f28/libkfbapi/po/kk/libkfbapi.po | 
- | [km]({{< ref "/f28/language/km.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f28/libkfbapi/po/km/libkfbapi.po | 
- | [lt]({{< ref "/f28/language/lt.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f28/libkfbapi/po/lt/libkfbapi.po | 
- | [mr]({{< ref "/f28/language/mr.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f28/libkfbapi/po/mr/libkfbapi.po | 
- | [nb_NO]({{< ref "/f28/language/nb_NO.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f28/libkfbapi/po/nb/libkfbapi.po | 
- | [nl]({{< ref "/f28/language/nl.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f28/libkfbapi/po/nl/libkfbapi.po | 
- | [pl]({{< ref "/f28/language/pl.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f28/libkfbapi/po/pl/libkfbapi.po | 
- | [pt]({{< ref "/f28/language/pt.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f28/libkfbapi/po/pt/libkfbapi.po | 
- | [pt_BR]({{< ref "/f28/language/pt_BR.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f28/libkfbapi/po/pt_BR/libkfbapi.po | 
- | [ro]({{< ref "/f28/language/ro.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f28/libkfbapi/po/ro/libkfbapi.po | 
- | [ru]({{< ref "/f28/language/ru.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f28/libkfbapi/po/ru/libkfbapi.po | 
- | [sk]({{< ref "/f28/language/sk.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f28/libkfbapi/po/sk/libkfbapi.po | 
- | [sl]({{< ref "/f28/language/sl.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f28/libkfbapi/po/sl/libkfbapi.po | 
- | [sv]({{< ref "/f28/language/sv.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f28/libkfbapi/po/sv/libkfbapi.po | 
- | [tr]({{< ref "/f28/language/tr.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f28/libkfbapi/po/tr/libkfbapi.po | 
- | [uk]({{< ref "/f28/language/uk.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f28/libkfbapi/po/uk/libkfbapi.po | 
- | [zh_Hant]({{< ref "/f28/language/zh_Hant.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f28/libkfbapi/po/zh_TW/libkfbapi.po | 
- | [ga]({{< ref "/f28/language/ga.md" >}}) | 9 | 42 | 21.4 | /mnt/stockage/packages/f28/libkfbapi/po/ga/libkfbapi.po | 
- | [nds]({{< ref "/f28/language/nds.md" >}}) | 2 | 42 | 4.8 | /mnt/stockage/packages/f28/libkfbapi/po/nds/libkfbapi.po | 
- | [ar]({{< ref "/f28/language/ar.md" >}}) | 0 | 42 | 0.0 | /mnt/stockage/packages/f28/libkfbapi/po/ar/libkfbapi.po | 
- | [be]({{< ref "/f28/language/be.md" >}}) | 0 | 42 | 0.0 | /mnt/stockage/packages/f28/libkfbapi/po/be/libkfbapi.po | 
- | [en_GB]({{< ref "/f28/language/en_GB.md" >}}) | 0 | 42 | 0.0 | /mnt/stockage/packages/f28/libkfbapi/po/en_GB/libkfbapi.po | 
- | [eo]({{< ref "/f28/language/eo.md" >}}) | 0 | 42 | 0.0 | /mnt/stockage/packages/f28/libkfbapi/po/eo/libkfbapi.po | 
- | [hi]({{< ref "/f28/language/hi.md" >}}) | 0 | 42 | 0.0 | /mnt/stockage/packages/f28/libkfbapi/po/hi/libkfbapi.po | 
- | [ja]({{< ref "/f28/language/ja.md" >}}) | 0 | 42 | 0.0 | /mnt/stockage/packages/f28/libkfbapi/po/ja/libkfbapi.po | 
- | [mai]({{< ref "/f28/language/mai.md" >}}) | 0 | 42 | 0.0 | /mnt/stockage/packages/f28/libkfbapi/po/mai/libkfbapi.po | 
- | [nn]({{< ref "/f28/language/nn.md" >}}) | 0 | 42 | 0.0 | /mnt/stockage/packages/f28/libkfbapi/po/nn/libkfbapi.po | 
- | [oc]({{< ref "/f28/language/oc.md" >}}) | 0 | 42 | 0.0 | /mnt/stockage/packages/f28/libkfbapi/po/oc/libkfbapi.po | 
- | [pa]({{< ref "/f28/language/pa.md" >}}) | 0 | 42 | 0.0 | /mnt/stockage/packages/f28/libkfbapi/po/pa/libkfbapi.po | 
- | [ug]({{< ref "/f28/language/ug.md" >}}) | 0 | 42 | 0.0 | /mnt/stockage/packages/f28/libkfbapi/po/ug/libkfbapi.po | 
+ | [bs](/f28/language/bs) | 42 | 42 | 100.0 | /mnt/stockage/packages/f28/libkfbapi/po/bs/libkfbapi.po | 
+ | [cs](/f28/language/cs) | 42 | 42 | 100.0 | /mnt/stockage/packages/f28/libkfbapi/po/cs/libkfbapi.po | 
+ | [da](/f28/language/da) | 42 | 42 | 100.0 | /mnt/stockage/packages/f28/libkfbapi/po/da/libkfbapi.po | 
+ | [de](/f28/language/de) | 42 | 42 | 100.0 | /mnt/stockage/packages/f28/libkfbapi/po/de/libkfbapi.po | 
+ | [el](/f28/language/el) | 42 | 42 | 100.0 | /mnt/stockage/packages/f28/libkfbapi/po/el/libkfbapi.po | 
+ | [es](/f28/language/es) | 42 | 42 | 100.0 | /mnt/stockage/packages/f28/libkfbapi/po/es/libkfbapi.po | 
+ | [et](/f28/language/et) | 42 | 42 | 100.0 | /mnt/stockage/packages/f28/libkfbapi/po/et/libkfbapi.po | 
+ | [fi](/f28/language/fi) | 42 | 42 | 100.0 | /mnt/stockage/packages/f28/libkfbapi/po/fi/libkfbapi.po | 
+ | [fr](/f28/language/fr) | 42 | 42 | 100.0 | /mnt/stockage/packages/f28/libkfbapi/po/fr/libkfbapi.po | 
+ | [gl](/f28/language/gl) | 42 | 42 | 100.0 | /mnt/stockage/packages/f28/libkfbapi/po/gl/libkfbapi.po | 
+ | [hu](/f28/language/hu) | 42 | 42 | 100.0 | /mnt/stockage/packages/f28/libkfbapi/po/hu/libkfbapi.po | 
+ | [it](/f28/language/it) | 42 | 42 | 100.0 | /mnt/stockage/packages/f28/libkfbapi/po/it/libkfbapi.po | 
+ | [kk](/f28/language/kk) | 42 | 42 | 100.0 | /mnt/stockage/packages/f28/libkfbapi/po/kk/libkfbapi.po | 
+ | [km](/f28/language/km) | 42 | 42 | 100.0 | /mnt/stockage/packages/f28/libkfbapi/po/km/libkfbapi.po | 
+ | [lt](/f28/language/lt) | 42 | 42 | 100.0 | /mnt/stockage/packages/f28/libkfbapi/po/lt/libkfbapi.po | 
+ | [mr](/f28/language/mr) | 42 | 42 | 100.0 | /mnt/stockage/packages/f28/libkfbapi/po/mr/libkfbapi.po | 
+ | [nb_NO](/f28/language/nb_NO) | 42 | 42 | 100.0 | /mnt/stockage/packages/f28/libkfbapi/po/nb/libkfbapi.po | 
+ | [nl](/f28/language/nl) | 42 | 42 | 100.0 | /mnt/stockage/packages/f28/libkfbapi/po/nl/libkfbapi.po | 
+ | [pl](/f28/language/pl) | 42 | 42 | 100.0 | /mnt/stockage/packages/f28/libkfbapi/po/pl/libkfbapi.po | 
+ | [pt](/f28/language/pt) | 42 | 42 | 100.0 | /mnt/stockage/packages/f28/libkfbapi/po/pt/libkfbapi.po | 
+ | [pt_BR](/f28/language/pt_BR) | 42 | 42 | 100.0 | /mnt/stockage/packages/f28/libkfbapi/po/pt_BR/libkfbapi.po | 
+ | [ro](/f28/language/ro) | 42 | 42 | 100.0 | /mnt/stockage/packages/f28/libkfbapi/po/ro/libkfbapi.po | 
+ | [ru](/f28/language/ru) | 42 | 42 | 100.0 | /mnt/stockage/packages/f28/libkfbapi/po/ru/libkfbapi.po | 
+ | [sk](/f28/language/sk) | 42 | 42 | 100.0 | /mnt/stockage/packages/f28/libkfbapi/po/sk/libkfbapi.po | 
+ | [sl](/f28/language/sl) | 42 | 42 | 100.0 | /mnt/stockage/packages/f28/libkfbapi/po/sl/libkfbapi.po | 
+ | [sv](/f28/language/sv) | 42 | 42 | 100.0 | /mnt/stockage/packages/f28/libkfbapi/po/sv/libkfbapi.po | 
+ | [tr](/f28/language/tr) | 42 | 42 | 100.0 | /mnt/stockage/packages/f28/libkfbapi/po/tr/libkfbapi.po | 
+ | [uk](/f28/language/uk) | 42 | 42 | 100.0 | /mnt/stockage/packages/f28/libkfbapi/po/uk/libkfbapi.po | 
+ | [zh_Hant](/f28/language/zh_Hant) | 42 | 42 | 100.0 | /mnt/stockage/packages/f28/libkfbapi/po/zh_TW/libkfbapi.po | 
+ | [ga](/f28/language/ga) | 9 | 42 | 21.4 | /mnt/stockage/packages/f28/libkfbapi/po/ga/libkfbapi.po | 
+ | [nds](/f28/language/nds) | 2 | 42 | 4.8 | /mnt/stockage/packages/f28/libkfbapi/po/nds/libkfbapi.po | 
+ | [ar](/f28/language/ar) | 0 | 42 | 0.0 | /mnt/stockage/packages/f28/libkfbapi/po/ar/libkfbapi.po | 
+ | [be](/f28/language/be) | 0 | 42 | 0.0 | /mnt/stockage/packages/f28/libkfbapi/po/be/libkfbapi.po | 
+ | [en_GB](/f28/language/en_GB) | 0 | 42 | 0.0 | /mnt/stockage/packages/f28/libkfbapi/po/en_GB/libkfbapi.po | 
+ | [eo](/f28/language/eo) | 0 | 42 | 0.0 | /mnt/stockage/packages/f28/libkfbapi/po/eo/libkfbapi.po | 
+ | [hi](/f28/language/hi) | 0 | 42 | 0.0 | /mnt/stockage/packages/f28/libkfbapi/po/hi/libkfbapi.po | 
+ | [ja](/f28/language/ja) | 0 | 42 | 0.0 | /mnt/stockage/packages/f28/libkfbapi/po/ja/libkfbapi.po | 
+ | [mai](/f28/language/mai) | 0 | 42 | 0.0 | /mnt/stockage/packages/f28/libkfbapi/po/mai/libkfbapi.po | 
+ | [nn](/f28/language/nn) | 0 | 42 | 0.0 | /mnt/stockage/packages/f28/libkfbapi/po/nn/libkfbapi.po | 
+ | [oc](/f28/language/oc) | 0 | 42 | 0.0 | /mnt/stockage/packages/f28/libkfbapi/po/oc/libkfbapi.po | 
+ | [pa](/f28/language/pa) | 0 | 42 | 0.0 | /mnt/stockage/packages/f28/libkfbapi/po/pa/libkfbapi.po | 
+ | [ug](/f28/language/ug) | 0 | 42 | 0.0 | /mnt/stockage/packages/f28/libkfbapi/po/ug/libkfbapi.po | 
 {.sortable}
 
 

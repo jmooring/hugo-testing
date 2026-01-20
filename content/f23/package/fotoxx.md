@@ -18,15 +18,15 @@ The package fotoxx (version 15.07):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f23/language/ca.md" >}}) | 3555 | 3555 | 100.0 | /mnt/stockage/packages/f23/fotoxx/locales/translate-ca.po | 
- | [de]({{< ref "/f23/language/de.md" >}}) | 3555 | 3555 | 100.0 | /mnt/stockage/packages/f23/fotoxx/locales/translate-de.po | 
- | [en]({{< ref "/f23/language/en.md" >}}) | 3555 | 3555 | 100.0 | /mnt/stockage/packages/f23/fotoxx/locales/translate-en.po | 
- | [es]({{< ref "/f23/language/es.md" >}}) | 3555 | 3555 | 100.0 | /mnt/stockage/packages/f23/fotoxx/locales/translate-es.po | 
- | [pt]({{< ref "/f23/language/pt.md" >}}) | 3550 | 3555 | 99.9 | /mnt/stockage/packages/f23/fotoxx/locales/translate-pt.po | 
- | [it]({{< ref "/f23/language/it.md" >}}) | 3187 | 3555 | 89.6 | /mnt/stockage/packages/f23/fotoxx/locales/translate-it.po | 
- | [ru]({{< ref "/f23/language/ru.md" >}}) | 3174 | 3555 | 89.3 | /mnt/stockage/packages/f23/fotoxx/locales/translate-ru.po | 
- | [fr]({{< ref "/f23/language/fr.md" >}}) | 2987 | 3555 | 84.0 | /mnt/stockage/packages/f23/fotoxx/locales/translate-fr.po | 
- | [nl]({{< ref "/f23/language/nl.md" >}}) | 2861 | 3555 | 80.5 | /mnt/stockage/packages/f23/fotoxx/locales/translate-nl.po | 
+ | [ca](/f23/language/ca) | 3555 | 3555 | 100.0 | /mnt/stockage/packages/f23/fotoxx/locales/translate-ca.po | 
+ | [de](/f23/language/de) | 3555 | 3555 | 100.0 | /mnt/stockage/packages/f23/fotoxx/locales/translate-de.po | 
+ | [en](/f23/language/en) | 3555 | 3555 | 100.0 | /mnt/stockage/packages/f23/fotoxx/locales/translate-en.po | 
+ | [es](/f23/language/es) | 3555 | 3555 | 100.0 | /mnt/stockage/packages/f23/fotoxx/locales/translate-es.po | 
+ | [pt](/f23/language/pt) | 3550 | 3555 | 99.9 | /mnt/stockage/packages/f23/fotoxx/locales/translate-pt.po | 
+ | [it](/f23/language/it) | 3187 | 3555 | 89.6 | /mnt/stockage/packages/f23/fotoxx/locales/translate-it.po | 
+ | [ru](/f23/language/ru) | 3174 | 3555 | 89.3 | /mnt/stockage/packages/f23/fotoxx/locales/translate-ru.po | 
+ | [fr](/f23/language/fr) | 2987 | 3555 | 84.0 | /mnt/stockage/packages/f23/fotoxx/locales/translate-fr.po | 
+ | [nl](/f23/language/nl) | 2861 | 3555 | 80.5 | /mnt/stockage/packages/f23/fotoxx/locales/translate-nl.po | 
 {.sortable}
 
 

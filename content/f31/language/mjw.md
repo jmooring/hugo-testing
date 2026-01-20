@@ -38,49 +38,49 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [gnome-backgrounds]({{< ref "/f31/package/gnome-backgrounds.md" >}}) | 26 | 26 | 100.0 | Karbi <mjw@li.org> | 
- | [totem-pl-parser]({{< ref "/f31/package/totem-pl-parser.md" >}}) | 29 | 29 | 100.0 | Karbi <mjw@li.org> | 
- | [gdm]({{< ref "/f31/package/gdm.md" >}}) | 620 | 629 | 98.6 | Karbi <karbi.translation@gmail.com> | 
- | [libgnome-games-support]({{< ref "/f31/package/libgnome-games-support.md" >}}) | 42 | 43 | 97.7 | Karbi <mjw@li.org> | 
- | [gnome-bluetooth]({{< ref "/f31/package/gnome-bluetooth.md" >}}) | 249 | 373 | 66.8 | Karbi <karbi.translation@gmail.com> | 
- | [gnome-sound-recorder]({{< ref "/f31/package/gnome-sound-recorder.md" >}}) | 188 | 299 | 62.9 | Karbi <karbi.translation@gmail.com> | 
- | [sushi]({{< ref "/f31/package/sushi.md" >}}) | 13 | 22 | 59.1 | Karbi <karbi.translation@gmail.com> | 
- | [gnome-calendar]({{< ref "/f31/package/gnome-calendar.md" >}}) | 371 | 663 | 56.0 | Karbi <karbi.translation@gmail.com> | 
- | [gnome-initial-setup]({{< ref "/f31/package/gnome-initial-setup.md" >}}) | 437 | 852 | 51.3 | Karbi <karbi.translation@gmail.com> | 
- | [gspell]({{< ref "/f31/package/gspell.md" >}}) | 39 | 78 | 50.0 | Karbi <mjw@li.org> | 
- | [gnome-clocks]({{< ref "/f31/package/gnome-clocks.md" >}}) | 126 | 283 | 44.5 | Karbi <karbi.translation@gmail.com> | 
- | [gnome-shell]({{< ref "/f31/package/gnome-shell.md" >}}) | 946 | 2361 | 40.1 | Karbi <karbi.translation@gmail.com> | 
- | [gnome-weather]({{< ref "/f31/package/gnome-weather.md" >}}) | 77 | 194 | 39.7 | Karbi <mjw@li.org> | 
- | [baobab]({{< ref "/f31/package/baobab.md" >}}) | 102 | 275 | 37.1 | Karbi <karbi.translation@gmail.com> | 
- | [gnome-contacts]({{< ref "/f31/package/gnome-contacts.md" >}}) | 202 | 588 | 34.4 | Karbi <karbi.translation@gmail.com> | 
- | [gnome-calculator]({{< ref "/f31/package/gnome-calculator.md" >}}) | 554 | 1644 | 33.7 | Karbi <mjw@li.org> | 
- | [gnome-session]({{< ref "/f31/package/gnome-session.md" >}}) | 127 | 382 | 33.2 | Karbi <karbi.translation@gmail.com> | 
- | [gnome-documents]({{< ref "/f31/package/gnome-documents.md" >}}) | 178 | 558 | 31.9 | Karbi <mjw@li.org> | 
- | [totem]({{< ref "/f31/package/totem.md" >}}) | 429 | 1358 | 31.6 | Karbi <karbi.translation@gmail.com> | 
- | [simple-scan]({{< ref "/f31/package/simple-scan.md" >}}) | 262 | 836 | 31.3 | Karbi <mjw@li.org> | 
- | [gnome-user-share]({{< ref "/f31/package/gnome-user-share.md" >}}) | 15 | 49 | 30.6 | Karbi <karbi.translation@gmail.com> | 
- | [gnome-desktop3]({{< ref "/f31/package/gnome-desktop3.md" >}}) | 48 | 159 | 30.2 | Karbi <mjw@li.org> | 
- | [gnome-music]({{< ref "/f31/package/gnome-music.md" >}}) | 165 | 593 | 27.8 | Karbi <karbi.translation@gmail.com> | 
- | [gnome-shell-extensions]({{< ref "/f31/package/gnome-shell-extensions.md" >}}) | 68 | 249 | 27.3 | Karbi <karbi.translation@gmail.com> | 
- | [gnome-photos]({{< ref "/f31/package/gnome-photos.md" >}}) | 151 | 569 | 26.5 | Karbi <karbi.translation@gmail.com> | 
- | [gnome-control-center]({{< ref "/f31/package/gnome-control-center.md" >}}) | 1436 | 5708 | 25.2 | Karbi <karbi.translation@gmail.com> | 
- | [gnome-screenshot]({{< ref "/f31/package/gnome-screenshot.md" >}}) | 103 | 455 | 22.6 | Karbi <mjw@li.org> | 
- | [evince]({{< ref "/f31/package/evince.md" >}}) | 362 | 1650 | 21.9 | Karbi <karbi.translation@gmail.com> | 
- | [gnome-keyring]({{< ref "/f31/package/gnome-keyring.md" >}}) | 111 | 509 | 21.8 | Karbi <karbi.translation@gmail.com> | 
- | [eog]({{< ref "/f31/package/eog.md" >}}) | 316 | 1688 | 18.7 | Karbi <karbi.translation@gmail.com> | 
- | [gnome-maps]({{< ref "/f31/package/gnome-maps.md" >}}) | 238 | 1282 | 18.6 | Karbi <karbi.translation@gmail.com> | 
- | [rhythmbox]({{< ref "/f31/package/rhythmbox.md" >}}) | 683 | 3756 | 18.2 | Karbi <karbi.translation@gmail.com> | 
- | [nautilus]({{< ref "/f31/package/nautilus.md" >}}) | 855 | 5620 | 15.2 | Karbi <mjw@li.org> | 
- | [gnome-tweaks]({{< ref "/f31/package/gnome-tweaks.md" >}}) | 93 | 660 | 14.1 | Karbi <mjw@li.org> | 
- | [gnome-video-effects]({{< ref "/f31/package/gnome-video-effects.md" >}}) | 32 | 256 | 12.5 | Karbi <karbi.translation@gmail.com> | 
- | [gnome-software]({{< ref "/f31/package/gnome-software.md" >}}) | 472 | 3951 | 11.9 | Karbi <karbi.translation@gmail.com> | 
- | [gnome-disk-utility]({{< ref "/f31/package/gnome-disk-utility.md" >}}) | 467 | 3967 | 11.8 | Karbi <karbi.translation@gmail.com> | 
- | [gnome-online-accounts]({{< ref "/f31/package/gnome-online-accounts.md" >}}) | 75 | 657 | 11.4 | Karbi <mjw@li.org> | 
- | [cheese]({{< ref "/f31/package/cheese.md" >}}) | 62 | 631 | 9.8 | Karbi <mjw@li.org> | 
- | [gnome-terminal]({{< ref "/f31/package/gnome-terminal.md" >}}) | 233 | 2522 | 9.2 | Karbi <karbi.translation@gmail.com> | 
- | [shotwell]({{< ref "/f31/package/shotwell.md" >}}) | 462 | 6828 | 6.8 | Karbi <karbi.translation@gmail.com> | 
- | [vte291]({{< ref "/f31/package/vte291.md" >}}) | 1 | 31 | 3.2 | Karbi <karbi.translation@gmail.com> | 
- | [gedit]({{< ref "/f31/package/gedit.md" >}}) | 63 | 4304 | 1.5 | Karbi <karbi.translation@gmail.com> | 
+ | [gnome-backgrounds](/f31/package/gnome-backgrounds) | 26 | 26 | 100.0 | Karbi <mjw@li.org> | 
+ | [totem-pl-parser](/f31/package/totem-pl-parser) | 29 | 29 | 100.0 | Karbi <mjw@li.org> | 
+ | [gdm](/f31/package/gdm) | 620 | 629 | 98.6 | Karbi <karbi.translation@gmail.com> | 
+ | [libgnome-games-support](/f31/package/libgnome-games-support) | 42 | 43 | 97.7 | Karbi <mjw@li.org> | 
+ | [gnome-bluetooth](/f31/package/gnome-bluetooth) | 249 | 373 | 66.8 | Karbi <karbi.translation@gmail.com> | 
+ | [gnome-sound-recorder](/f31/package/gnome-sound-recorder) | 188 | 299 | 62.9 | Karbi <karbi.translation@gmail.com> | 
+ | [sushi](/f31/package/sushi) | 13 | 22 | 59.1 | Karbi <karbi.translation@gmail.com> | 
+ | [gnome-calendar](/f31/package/gnome-calendar) | 371 | 663 | 56.0 | Karbi <karbi.translation@gmail.com> | 
+ | [gnome-initial-setup](/f31/package/gnome-initial-setup) | 437 | 852 | 51.3 | Karbi <karbi.translation@gmail.com> | 
+ | [gspell](/f31/package/gspell) | 39 | 78 | 50.0 | Karbi <mjw@li.org> | 
+ | [gnome-clocks](/f31/package/gnome-clocks) | 126 | 283 | 44.5 | Karbi <karbi.translation@gmail.com> | 
+ | [gnome-shell](/f31/package/gnome-shell) | 946 | 2361 | 40.1 | Karbi <karbi.translation@gmail.com> | 
+ | [gnome-weather](/f31/package/gnome-weather) | 77 | 194 | 39.7 | Karbi <mjw@li.org> | 
+ | [baobab](/f31/package/baobab) | 102 | 275 | 37.1 | Karbi <karbi.translation@gmail.com> | 
+ | [gnome-contacts](/f31/package/gnome-contacts) | 202 | 588 | 34.4 | Karbi <karbi.translation@gmail.com> | 
+ | [gnome-calculator](/f31/package/gnome-calculator) | 554 | 1644 | 33.7 | Karbi <mjw@li.org> | 
+ | [gnome-session](/f31/package/gnome-session) | 127 | 382 | 33.2 | Karbi <karbi.translation@gmail.com> | 
+ | [gnome-documents](/f31/package/gnome-documents) | 178 | 558 | 31.9 | Karbi <mjw@li.org> | 
+ | [totem](/f31/package/totem) | 429 | 1358 | 31.6 | Karbi <karbi.translation@gmail.com> | 
+ | [simple-scan](/f31/package/simple-scan) | 262 | 836 | 31.3 | Karbi <mjw@li.org> | 
+ | [gnome-user-share](/f31/package/gnome-user-share) | 15 | 49 | 30.6 | Karbi <karbi.translation@gmail.com> | 
+ | [gnome-desktop3](/f31/package/gnome-desktop3) | 48 | 159 | 30.2 | Karbi <mjw@li.org> | 
+ | [gnome-music](/f31/package/gnome-music) | 165 | 593 | 27.8 | Karbi <karbi.translation@gmail.com> | 
+ | [gnome-shell-extensions](/f31/package/gnome-shell-extensions) | 68 | 249 | 27.3 | Karbi <karbi.translation@gmail.com> | 
+ | [gnome-photos](/f31/package/gnome-photos) | 151 | 569 | 26.5 | Karbi <karbi.translation@gmail.com> | 
+ | [gnome-control-center](/f31/package/gnome-control-center) | 1436 | 5708 | 25.2 | Karbi <karbi.translation@gmail.com> | 
+ | [gnome-screenshot](/f31/package/gnome-screenshot) | 103 | 455 | 22.6 | Karbi <mjw@li.org> | 
+ | [evince](/f31/package/evince) | 362 | 1650 | 21.9 | Karbi <karbi.translation@gmail.com> | 
+ | [gnome-keyring](/f31/package/gnome-keyring) | 111 | 509 | 21.8 | Karbi <karbi.translation@gmail.com> | 
+ | [eog](/f31/package/eog) | 316 | 1688 | 18.7 | Karbi <karbi.translation@gmail.com> | 
+ | [gnome-maps](/f31/package/gnome-maps) | 238 | 1282 | 18.6 | Karbi <karbi.translation@gmail.com> | 
+ | [rhythmbox](/f31/package/rhythmbox) | 683 | 3756 | 18.2 | Karbi <karbi.translation@gmail.com> | 
+ | [nautilus](/f31/package/nautilus) | 855 | 5620 | 15.2 | Karbi <mjw@li.org> | 
+ | [gnome-tweaks](/f31/package/gnome-tweaks) | 93 | 660 | 14.1 | Karbi <mjw@li.org> | 
+ | [gnome-video-effects](/f31/package/gnome-video-effects) | 32 | 256 | 12.5 | Karbi <karbi.translation@gmail.com> | 
+ | [gnome-software](/f31/package/gnome-software) | 472 | 3951 | 11.9 | Karbi <karbi.translation@gmail.com> | 
+ | [gnome-disk-utility](/f31/package/gnome-disk-utility) | 467 | 3967 | 11.8 | Karbi <karbi.translation@gmail.com> | 
+ | [gnome-online-accounts](/f31/package/gnome-online-accounts) | 75 | 657 | 11.4 | Karbi <mjw@li.org> | 
+ | [cheese](/f31/package/cheese) | 62 | 631 | 9.8 | Karbi <mjw@li.org> | 
+ | [gnome-terminal](/f31/package/gnome-terminal) | 233 | 2522 | 9.2 | Karbi <karbi.translation@gmail.com> | 
+ | [shotwell](/f31/package/shotwell) | 462 | 6828 | 6.8 | Karbi <karbi.translation@gmail.com> | 
+ | [vte291](/f31/package/vte291) | 1 | 31 | 3.2 | Karbi <karbi.translation@gmail.com> | 
+ | [gedit](/f31/package/gedit) | 63 | 4304 | 1.5 | Karbi <karbi.translation@gmail.com> | 
 {.sortable}
 
 

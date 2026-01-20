@@ -18,15 +18,15 @@ The package yakuake (version 2.7.5):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [da]({{< ref "/f8/language/da.md" >}}) | 87 | 87 | 100.0 | /mnt/stockage/packages/f8/yakuake/po/da/yakuake.po | 
- | [de]({{< ref "/f8/language/de.md" >}}) | 113 | 113 | 100.0 | /mnt/stockage/packages/f8/yakuake/po/de/yakuake.po | 
- | [it]({{< ref "/f8/language/it.md" >}}) | 87 | 87 | 100.0 | /mnt/stockage/packages/f8/yakuake/po/it/yakuake.po | 
- | [pt]({{< ref "/f8/language/pt.md" >}}) | 113 | 113 | 100.0 | /mnt/stockage/packages/f8/yakuake/po/pt/yakuake.po | 
- | [sv]({{< ref "/f8/language/sv.md" >}}) | 113 | 113 | 100.0 | /mnt/stockage/packages/f8/yakuake/po/sv/yakuake.po | 
- | [tr]({{< ref "/f8/language/tr.md" >}}) | 113 | 113 | 100.0 | /mnt/stockage/packages/f8/yakuake/po/tr/yakuake.po | 
- | [nl]({{< ref "/f8/language/nl.md" >}}) | 77 | 113 | 68.1 | /mnt/stockage/packages/f8/yakuake/po/nl/yakuake.po | 
- | [pt_BR]({{< ref "/f8/language/pt_BR.md" >}}) | 77 | 113 | 68.1 | /mnt/stockage/packages/f8/yakuake/po/pt_BR/yakuake.po | 
- | [ru]({{< ref "/f8/language/ru.md" >}}) | 77 | 113 | 68.1 | /mnt/stockage/packages/f8/yakuake/po/ru/yakuake.po | 
+ | [da](/f8/language/da) | 87 | 87 | 100.0 | /mnt/stockage/packages/f8/yakuake/po/da/yakuake.po | 
+ | [de](/f8/language/de) | 113 | 113 | 100.0 | /mnt/stockage/packages/f8/yakuake/po/de/yakuake.po | 
+ | [it](/f8/language/it) | 87 | 87 | 100.0 | /mnt/stockage/packages/f8/yakuake/po/it/yakuake.po | 
+ | [pt](/f8/language/pt) | 113 | 113 | 100.0 | /mnt/stockage/packages/f8/yakuake/po/pt/yakuake.po | 
+ | [sv](/f8/language/sv) | 113 | 113 | 100.0 | /mnt/stockage/packages/f8/yakuake/po/sv/yakuake.po | 
+ | [tr](/f8/language/tr) | 113 | 113 | 100.0 | /mnt/stockage/packages/f8/yakuake/po/tr/yakuake.po | 
+ | [nl](/f8/language/nl) | 77 | 113 | 68.1 | /mnt/stockage/packages/f8/yakuake/po/nl/yakuake.po | 
+ | [pt_BR](/f8/language/pt_BR) | 77 | 113 | 68.1 | /mnt/stockage/packages/f8/yakuake/po/pt_BR/yakuake.po | 
+ | [ru](/f8/language/ru) | 77 | 113 | 68.1 | /mnt/stockage/packages/f8/yakuake/po/ru/yakuake.po | 
 {.sortable}
 
 

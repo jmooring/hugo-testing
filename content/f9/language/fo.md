@@ -39,12 +39,12 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [tuxpaint]({{< ref "/f9/package/tuxpaint.md" >}}) | 587 | 591 | 99.3 | Faroese <morshus@morshus.com> | 
- | [squirrelmail]({{< ref "/f9/package/squirrelmail.md" >}}) | 7735 | 7899 | 97.9 | Faroese <squirrelmail-i18n@lists.sourceforge.net> | 
- | [isomaster]({{< ref "/f9/package/isomaster.md" >}}) | 399 | 672 | 59.4 | <LL@li.org> | 
- | [iso-codes]({{< ref "/f9/package/iso-codes.md" >}}) | 149 | 1082 | 13.8 | Faroese | 
- | [Miro]({{< ref "/f9/package/Miro.md" >}}) | 0 | 3616 | 0.0 | Faroese <fo@li.org> | 
- | [apcupsd]({{< ref "/f9/package/apcupsd.md" >}}) | 0 | 647 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [tuxpaint](/f9/package/tuxpaint) | 587 | 591 | 99.3 | Faroese <morshus@morshus.com> | 
+ | [squirrelmail](/f9/package/squirrelmail) | 7735 | 7899 | 97.9 | Faroese <squirrelmail-i18n@lists.sourceforge.net> | 
+ | [isomaster](/f9/package/isomaster) | 399 | 672 | 59.4 | <LL@li.org> | 
+ | [iso-codes](/f9/package/iso-codes) | 149 | 1082 | 13.8 | Faroese | 
+ | [Miro](/f9/package/Miro) | 0 | 3616 | 0.0 | Faroese <fo@li.org> | 
+ | [apcupsd](/f9/package/apcupsd) | 0 | 647 | 0.0 | LANGUAGE <LL@li.org> | 
 {.sortable}
 
 

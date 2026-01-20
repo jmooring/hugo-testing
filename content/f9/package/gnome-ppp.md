@@ -18,22 +18,22 @@ The package gnome-ppp (version 0.3.23):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f9/language/cs.md" >}}) | 240 | 260 | 92.3 | /mnt/stockage/packages/f9/gnome-ppp/po/cs.po | 
- | [ca]({{< ref "/f9/language/ca.md" >}}) | 237 | 260 | 91.2 | /mnt/stockage/packages/f9/gnome-ppp/po/ca.po | 
- | [de]({{< ref "/f9/language/de.md" >}}) | 237 | 260 | 91.2 | /mnt/stockage/packages/f9/gnome-ppp/po/de.po | 
- | [error]({{< ref "/f9/language/error.md" >}}) | 237 | 260 | 91.2 | /mnt/stockage/packages/f9/gnome-ppp/po/sr@Latn.po | 
- | [es]({{< ref "/f9/language/es.md" >}}) | 237 | 260 | 91.2 | /mnt/stockage/packages/f9/gnome-ppp/po/es.po | 
- | [it]({{< ref "/f9/language/it.md" >}}) | 237 | 260 | 91.2 | /mnt/stockage/packages/f9/gnome-ppp/po/it.po | 
- | [mk]({{< ref "/f9/language/mk.md" >}}) | 237 | 260 | 91.2 | /mnt/stockage/packages/f9/gnome-ppp/po/mk.po | 
- | [ru]({{< ref "/f9/language/ru.md" >}}) | 237 | 260 | 91.2 | /mnt/stockage/packages/f9/gnome-ppp/po/ru.po | 
- | [sr]({{< ref "/f9/language/sr.md" >}}) | 237 | 260 | 91.2 | /mnt/stockage/packages/f9/gnome-ppp/po/sr.po | 
- | [tr]({{< ref "/f9/language/tr.md" >}}) | 237 | 260 | 91.2 | /mnt/stockage/packages/f9/gnome-ppp/po/tr.po | 
- | [vi]({{< ref "/f9/language/vi.md" >}}) | 237 | 260 | 91.2 | /mnt/stockage/packages/f9/gnome-ppp/po/vi.po | 
- | [fr]({{< ref "/f9/language/fr.md" >}}) | 236 | 260 | 90.8 | /mnt/stockage/packages/f9/gnome-ppp/po/fr.po | 
- | [be]({{< ref "/f9/language/be.md" >}}) | 234 | 260 | 90.0 | /mnt/stockage/packages/f9/gnome-ppp/po/be.po | 
- | [pt_BR]({{< ref "/f9/language/pt_BR.md" >}}) | 234 | 260 | 90.0 | /mnt/stockage/packages/f9/gnome-ppp/po/pt_BR.po | 
- | [sv]({{< ref "/f9/language/sv.md" >}}) | 234 | 260 | 90.0 | /mnt/stockage/packages/f9/gnome-ppp/po/sv.po | 
- | [pl]({{< ref "/f9/language/pl.md" >}}) | 230 | 260 | 88.5 | /mnt/stockage/packages/f9/gnome-ppp/po/pl.po | 
+ | [cs](/f9/language/cs) | 240 | 260 | 92.3 | /mnt/stockage/packages/f9/gnome-ppp/po/cs.po | 
+ | [ca](/f9/language/ca) | 237 | 260 | 91.2 | /mnt/stockage/packages/f9/gnome-ppp/po/ca.po | 
+ | [de](/f9/language/de) | 237 | 260 | 91.2 | /mnt/stockage/packages/f9/gnome-ppp/po/de.po | 
+ | [error](/f9/language/error) | 237 | 260 | 91.2 | /mnt/stockage/packages/f9/gnome-ppp/po/sr@Latn.po | 
+ | [es](/f9/language/es) | 237 | 260 | 91.2 | /mnt/stockage/packages/f9/gnome-ppp/po/es.po | 
+ | [it](/f9/language/it) | 237 | 260 | 91.2 | /mnt/stockage/packages/f9/gnome-ppp/po/it.po | 
+ | [mk](/f9/language/mk) | 237 | 260 | 91.2 | /mnt/stockage/packages/f9/gnome-ppp/po/mk.po | 
+ | [ru](/f9/language/ru) | 237 | 260 | 91.2 | /mnt/stockage/packages/f9/gnome-ppp/po/ru.po | 
+ | [sr](/f9/language/sr) | 237 | 260 | 91.2 | /mnt/stockage/packages/f9/gnome-ppp/po/sr.po | 
+ | [tr](/f9/language/tr) | 237 | 260 | 91.2 | /mnt/stockage/packages/f9/gnome-ppp/po/tr.po | 
+ | [vi](/f9/language/vi) | 237 | 260 | 91.2 | /mnt/stockage/packages/f9/gnome-ppp/po/vi.po | 
+ | [fr](/f9/language/fr) | 236 | 260 | 90.8 | /mnt/stockage/packages/f9/gnome-ppp/po/fr.po | 
+ | [be](/f9/language/be) | 234 | 260 | 90.0 | /mnt/stockage/packages/f9/gnome-ppp/po/be.po | 
+ | [pt_BR](/f9/language/pt_BR) | 234 | 260 | 90.0 | /mnt/stockage/packages/f9/gnome-ppp/po/pt_BR.po | 
+ | [sv](/f9/language/sv) | 234 | 260 | 90.0 | /mnt/stockage/packages/f9/gnome-ppp/po/sv.po | 
+ | [pl](/f9/language/pl) | 230 | 260 | 88.5 | /mnt/stockage/packages/f9/gnome-ppp/po/pl.po | 
 {.sortable}
 
 

@@ -18,26 +18,26 @@ The package wireshark (version 4.6.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f43/language/cs.md" >}}) | 0 | 398 | 0.0 | /mnt/stockage/packages/f43/wireshark/packaging/debian/po/cs.po | 
- | [da]({{< ref "/f43/language/da.md" >}}) | 0 | 398 | 0.0 | /mnt/stockage/packages/f43/wireshark/packaging/debian/po/da.po | 
- | [de]({{< ref "/f43/language/de.md" >}}) | 0 | 398 | 0.0 | /mnt/stockage/packages/f43/wireshark/packaging/debian/po/de.po | 
- | [es]({{< ref "/f43/language/es.md" >}}) | 0 | 398 | 0.0 | /mnt/stockage/packages/f43/wireshark/packaging/debian/po/es.po | 
- | [eu]({{< ref "/f43/language/eu.md" >}}) | 0 | 398 | 0.0 | /mnt/stockage/packages/f43/wireshark/packaging/debian/po/eu.po | 
- | [fi]({{< ref "/f43/language/fi.md" >}}) | 0 | 398 | 0.0 | /mnt/stockage/packages/f43/wireshark/packaging/debian/po/fi.po | 
- | [fr]({{< ref "/f43/language/fr.md" >}}) | 0 | 398 | 0.0 | /mnt/stockage/packages/f43/wireshark/packaging/debian/po/fr.po | 
- | [ga]({{< ref "/f43/language/ga.md" >}}) | 0 | 398 | 0.0 | /mnt/stockage/packages/f43/wireshark/packaging/debian/po/ga_IE.po | 
- | [hu]({{< ref "/f43/language/hu.md" >}}) | 0 | 398 | 0.0 | /mnt/stockage/packages/f43/wireshark/packaging/debian/po/hu.po | 
- | [id]({{< ref "/f43/language/id.md" >}}) | 0 | 398 | 0.0 | /mnt/stockage/packages/f43/wireshark/packaging/debian/po/id.po | 
- | [it]({{< ref "/f43/language/it.md" >}}) | 0 | 398 | 0.0 | /mnt/stockage/packages/f43/wireshark/packaging/debian/po/it.po | 
- | [ja]({{< ref "/f43/language/ja.md" >}}) | 0 | 398 | 0.0 | /mnt/stockage/packages/f43/wireshark/packaging/debian/po/ja.po | 
- | [ko]({{< ref "/f43/language/ko.md" >}}) | 0 | 398 | 0.0 | /mnt/stockage/packages/f43/wireshark/packaging/debian/po/ko.po | 
- | [nl]({{< ref "/f43/language/nl.md" >}}) | 0 | 398 | 0.0 | /mnt/stockage/packages/f43/wireshark/packaging/debian/po/nl.po | 
- | [pt]({{< ref "/f43/language/pt.md" >}}) | 0 | 398 | 0.0 | /mnt/stockage/packages/f43/wireshark/packaging/debian/po/pt.po | 
- | [pt_BR]({{< ref "/f43/language/pt_BR.md" >}}) | 0 | 398 | 0.0 | /mnt/stockage/packages/f43/wireshark/packaging/debian/po/pt_BR.po | 
- | [ru]({{< ref "/f43/language/ru.md" >}}) | 0 | 398 | 0.0 | /mnt/stockage/packages/f43/wireshark/packaging/debian/po/ru.po | 
- | [sk]({{< ref "/f43/language/sk.md" >}}) | 0 | 398 | 0.0 | /mnt/stockage/packages/f43/wireshark/packaging/debian/po/sk.po | 
- | [sv]({{< ref "/f43/language/sv.md" >}}) | 0 | 398 | 0.0 | /mnt/stockage/packages/f43/wireshark/packaging/debian/po/sv.po | 
- | [vi]({{< ref "/f43/language/vi.md" >}}) | 0 | 398 | 0.0 | /mnt/stockage/packages/f43/wireshark/packaging/debian/po/vi.po | 
+ | [cs](/f43/language/cs) | 0 | 398 | 0.0 | /mnt/stockage/packages/f43/wireshark/packaging/debian/po/cs.po | 
+ | [da](/f43/language/da) | 0 | 398 | 0.0 | /mnt/stockage/packages/f43/wireshark/packaging/debian/po/da.po | 
+ | [de](/f43/language/de) | 0 | 398 | 0.0 | /mnt/stockage/packages/f43/wireshark/packaging/debian/po/de.po | 
+ | [es](/f43/language/es) | 0 | 398 | 0.0 | /mnt/stockage/packages/f43/wireshark/packaging/debian/po/es.po | 
+ | [eu](/f43/language/eu) | 0 | 398 | 0.0 | /mnt/stockage/packages/f43/wireshark/packaging/debian/po/eu.po | 
+ | [fi](/f43/language/fi) | 0 | 398 | 0.0 | /mnt/stockage/packages/f43/wireshark/packaging/debian/po/fi.po | 
+ | [fr](/f43/language/fr) | 0 | 398 | 0.0 | /mnt/stockage/packages/f43/wireshark/packaging/debian/po/fr.po | 
+ | [ga](/f43/language/ga) | 0 | 398 | 0.0 | /mnt/stockage/packages/f43/wireshark/packaging/debian/po/ga_IE.po | 
+ | [hu](/f43/language/hu) | 0 | 398 | 0.0 | /mnt/stockage/packages/f43/wireshark/packaging/debian/po/hu.po | 
+ | [id](/f43/language/id) | 0 | 398 | 0.0 | /mnt/stockage/packages/f43/wireshark/packaging/debian/po/id.po | 
+ | [it](/f43/language/it) | 0 | 398 | 0.0 | /mnt/stockage/packages/f43/wireshark/packaging/debian/po/it.po | 
+ | [ja](/f43/language/ja) | 0 | 398 | 0.0 | /mnt/stockage/packages/f43/wireshark/packaging/debian/po/ja.po | 
+ | [ko](/f43/language/ko) | 0 | 398 | 0.0 | /mnt/stockage/packages/f43/wireshark/packaging/debian/po/ko.po | 
+ | [nl](/f43/language/nl) | 0 | 398 | 0.0 | /mnt/stockage/packages/f43/wireshark/packaging/debian/po/nl.po | 
+ | [pt](/f43/language/pt) | 0 | 398 | 0.0 | /mnt/stockage/packages/f43/wireshark/packaging/debian/po/pt.po | 
+ | [pt_BR](/f43/language/pt_BR) | 0 | 398 | 0.0 | /mnt/stockage/packages/f43/wireshark/packaging/debian/po/pt_BR.po | 
+ | [ru](/f43/language/ru) | 0 | 398 | 0.0 | /mnt/stockage/packages/f43/wireshark/packaging/debian/po/ru.po | 
+ | [sk](/f43/language/sk) | 0 | 398 | 0.0 | /mnt/stockage/packages/f43/wireshark/packaging/debian/po/sk.po | 
+ | [sv](/f43/language/sv) | 0 | 398 | 0.0 | /mnt/stockage/packages/f43/wireshark/packaging/debian/po/sv.po | 
+ | [vi](/f43/language/vi) | 0 | 398 | 0.0 | /mnt/stockage/packages/f43/wireshark/packaging/debian/po/vi.po | 
 {.sortable}
 
 

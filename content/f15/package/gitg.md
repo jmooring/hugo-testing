@@ -18,22 +18,22 @@ The package gitg (version 0.2.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [da]({{< ref "/f15/language/da.md" >}}) | 1196 | 1196 | 100.0 | /mnt/stockage/packages/f15/gitg/po/da.po | 
- | [de]({{< ref "/f15/language/de.md" >}}) | 1304 | 1304 | 100.0 | /mnt/stockage/packages/f15/gitg/po/de.po | 
- | [en_GB]({{< ref "/f15/language/en_GB.md" >}}) | 1042 | 1042 | 100.0 | /mnt/stockage/packages/f15/gitg/po/en_GB.po | 
- | [es]({{< ref "/f15/language/es.md" >}}) | 1306 | 1306 | 100.0 | /mnt/stockage/packages/f15/gitg/po/es.po | 
- | [fr]({{< ref "/f15/language/fr.md" >}}) | 1306 | 1306 | 100.0 | /mnt/stockage/packages/f15/gitg/po/fr.po | 
- | [gl]({{< ref "/f15/language/gl.md" >}}) | 1306 | 1306 | 100.0 | /mnt/stockage/packages/f15/gitg/po/gl.po | 
- | [nl]({{< ref "/f15/language/nl.md" >}}) | 1178 | 1178 | 100.0 | /mnt/stockage/packages/f15/gitg/po/nl.po | 
- | [pt_BR]({{< ref "/f15/language/pt_BR.md" >}}) | 1306 | 1306 | 100.0 | /mnt/stockage/packages/f15/gitg/po/pt_BR.po | 
- | [ro]({{< ref "/f15/language/ro.md" >}}) | 1304 | 1304 | 100.0 | /mnt/stockage/packages/f15/gitg/po/ro.po | 
- | [sl]({{< ref "/f15/language/sl.md" >}}) | 1306 | 1306 | 100.0 | /mnt/stockage/packages/f15/gitg/po/sl.po | 
- | [it]({{< ref "/f15/language/it.md" >}}) | 1144 | 1196 | 95.7 | /mnt/stockage/packages/f15/gitg/po/it.po | 
- | [zh_Hans]({{< ref "/f15/language/zh_Hans.md" >}}) | 833 | 1196 | 69.6 | /mnt/stockage/packages/f15/gitg/po/zh_CN.po | 
- | [pa]({{< ref "/f15/language/pa.md" >}}) | 273 | 1237 | 22.1 | /mnt/stockage/packages/f15/gitg/po/pa.po | 
- | [sv]({{< ref "/f15/language/sv.md" >}}) | 197 | 989 | 19.9 | /mnt/stockage/packages/f15/gitg/po/sv.po | 
- | [nb_NO]({{< ref "/f15/language/nb_NO.md" >}}) | 12 | 1200 | 1.0 | /mnt/stockage/packages/f15/gitg/po/nb.po | 
- | [lt]({{< ref "/f15/language/lt.md" >}}) | 4 | 1042 | 0.4 | /mnt/stockage/packages/f15/gitg/po/lt.po | 
+ | [da](/f15/language/da) | 1196 | 1196 | 100.0 | /mnt/stockage/packages/f15/gitg/po/da.po | 
+ | [de](/f15/language/de) | 1304 | 1304 | 100.0 | /mnt/stockage/packages/f15/gitg/po/de.po | 
+ | [en_GB](/f15/language/en_GB) | 1042 | 1042 | 100.0 | /mnt/stockage/packages/f15/gitg/po/en_GB.po | 
+ | [es](/f15/language/es) | 1306 | 1306 | 100.0 | /mnt/stockage/packages/f15/gitg/po/es.po | 
+ | [fr](/f15/language/fr) | 1306 | 1306 | 100.0 | /mnt/stockage/packages/f15/gitg/po/fr.po | 
+ | [gl](/f15/language/gl) | 1306 | 1306 | 100.0 | /mnt/stockage/packages/f15/gitg/po/gl.po | 
+ | [nl](/f15/language/nl) | 1178 | 1178 | 100.0 | /mnt/stockage/packages/f15/gitg/po/nl.po | 
+ | [pt_BR](/f15/language/pt_BR) | 1306 | 1306 | 100.0 | /mnt/stockage/packages/f15/gitg/po/pt_BR.po | 
+ | [ro](/f15/language/ro) | 1304 | 1304 | 100.0 | /mnt/stockage/packages/f15/gitg/po/ro.po | 
+ | [sl](/f15/language/sl) | 1306 | 1306 | 100.0 | /mnt/stockage/packages/f15/gitg/po/sl.po | 
+ | [it](/f15/language/it) | 1144 | 1196 | 95.7 | /mnt/stockage/packages/f15/gitg/po/it.po | 
+ | [zh_Hans](/f15/language/zh_Hans) | 833 | 1196 | 69.6 | /mnt/stockage/packages/f15/gitg/po/zh_CN.po | 
+ | [pa](/f15/language/pa) | 273 | 1237 | 22.1 | /mnt/stockage/packages/f15/gitg/po/pa.po | 
+ | [sv](/f15/language/sv) | 197 | 989 | 19.9 | /mnt/stockage/packages/f15/gitg/po/sv.po | 
+ | [nb_NO](/f15/language/nb_NO) | 12 | 1200 | 1.0 | /mnt/stockage/packages/f15/gitg/po/nb.po | 
+ | [lt](/f15/language/lt) | 4 | 1042 | 0.4 | /mnt/stockage/packages/f15/gitg/po/lt.po | 
 {.sortable}
 
 

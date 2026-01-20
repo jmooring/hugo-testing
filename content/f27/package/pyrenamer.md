@@ -18,10 +18,10 @@ The package pyrenamer (version 0.6.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f27/language/de.md" >}}) | 820 | 820 | 100.0 | /mnt/stockage/packages/f27/pyrenamer/po/de.po | 
- | [en]({{< ref "/f27/language/en.md" >}}) | 820 | 820 | 100.0 | /mnt/stockage/packages/f27/pyrenamer/po/en.po | 
- | [es]({{< ref "/f27/language/es.md" >}}) | 820 | 820 | 100.0 | /mnt/stockage/packages/f27/pyrenamer/po/es.po | 
- | [fr]({{< ref "/f27/language/fr.md" >}}) | 820 | 820 | 100.0 | /mnt/stockage/packages/f27/pyrenamer/po/fr.po | 
+ | [de](/f27/language/de) | 820 | 820 | 100.0 | /mnt/stockage/packages/f27/pyrenamer/po/de.po | 
+ | [en](/f27/language/en) | 820 | 820 | 100.0 | /mnt/stockage/packages/f27/pyrenamer/po/en.po | 
+ | [es](/f27/language/es) | 820 | 820 | 100.0 | /mnt/stockage/packages/f27/pyrenamer/po/es.po | 
+ | [fr](/f27/language/fr) | 820 | 820 | 100.0 | /mnt/stockage/packages/f27/pyrenamer/po/fr.po | 
 {.sortable}
 
 

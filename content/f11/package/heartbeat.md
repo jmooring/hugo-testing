@@ -18,7 +18,7 @@ The package heartbeat (version 2.1.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [zh_Hans]({{< ref "/f11/language/zh_Hans.md" >}}) | 678 | 678 | 100.0 | /mnt/stockage/packages/f11/heartbeat/mgmt/client/haclient.zh_CN.po | 
+ | [zh_Hans](/f11/language/zh_Hans) | 678 | 678 | 100.0 | /mnt/stockage/packages/f11/heartbeat/mgmt/client/haclient.zh_CN.po | 
 {.sortable}
 
 

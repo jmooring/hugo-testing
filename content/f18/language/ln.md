@@ -41,9 +41,9 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [pootle]({{< ref "/f18/package/pootle.md" >}}) | 1362 | 5451 | 25.0 | LANGUAGE <LL@li.org> | 
- | [openerp]({{< ref "/f18/package/openerp.md" >}}) | 57 | 851 | 6.7 | Lingala <ln@li.org> | 
- | [vidalia]({{< ref "/f18/package/vidalia.md" >}}) | 0 | 10369 | 0.0 | translations@vidalia-project.net | 
+ | [pootle](/f18/package/pootle) | 1362 | 5451 | 25.0 | LANGUAGE <LL@li.org> | 
+ | [openerp](/f18/package/openerp) | 57 | 851 | 6.7 | Lingala <ln@li.org> | 
+ | [vidalia](/f18/package/vidalia) | 0 | 10369 | 0.0 | translations@vidalia-project.net | 
 {.sortable}
 
 

@@ -18,11 +18,11 @@ The package oyranos (version 0.3.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f16/language/de.md" >}}) | 2622 | 2969 | 88.3 | /mnt/stockage/packages/f16/oyranos/po/de.po | 
- | [cs]({{< ref "/f16/language/cs.md" >}}) | 891 | 2969 | 30.0 | /mnt/stockage/packages/f16/oyranos/po/cs.po | 
- | [eu]({{< ref "/f16/language/eu.md" >}}) | 274 | 2969 | 9.2 | /mnt/stockage/packages/f16/oyranos/po/eu.po | 
- | [fr]({{< ref "/f16/language/fr.md" >}}) | 98 | 2969 | 3.3 | /mnt/stockage/packages/f16/oyranos/po/fr.po | 
- | [eo]({{< ref "/f16/language/eo.md" >}}) | 38 | 2969 | 1.3 | /mnt/stockage/packages/f16/oyranos/po/eo.po | 
+ | [de](/f16/language/de) | 2622 | 2969 | 88.3 | /mnt/stockage/packages/f16/oyranos/po/de.po | 
+ | [cs](/f16/language/cs) | 891 | 2969 | 30.0 | /mnt/stockage/packages/f16/oyranos/po/cs.po | 
+ | [eu](/f16/language/eu) | 274 | 2969 | 9.2 | /mnt/stockage/packages/f16/oyranos/po/eu.po | 
+ | [fr](/f16/language/fr) | 98 | 2969 | 3.3 | /mnt/stockage/packages/f16/oyranos/po/fr.po | 
+ | [eo](/f16/language/eo) | 38 | 2969 | 1.3 | /mnt/stockage/packages/f16/oyranos/po/eo.po | 
 {.sortable}
 
 

@@ -18,51 +18,51 @@ The package ksystemstats (version 6.3.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f40/language/ar.md" >}}) | 947 | 947 | 100.0 | /mnt/stockage/packages/f40/ksystemstats/po/ar/ksystemstats_plugins.po | 
- | [bg]({{< ref "/f40/language/bg.md" >}}) | 947 | 947 | 100.0 | /mnt/stockage/packages/f40/ksystemstats/po/bg/ksystemstats_plugins.po | 
- | [ca]({{< ref "/f40/language/ca.md" >}}) | 947 | 947 | 100.0 | /mnt/stockage/packages/f40/ksystemstats/po/ca/ksystemstats_plugins.po | 
- | [ca@valencia]({{< ref "/f40/language/ca@valencia.md" >}}) | 947 | 947 | 100.0 | /mnt/stockage/packages/f40/ksystemstats/po/ca@valencia/ksystemstats_plugins.po | 
- | [en_GB]({{< ref "/f40/language/en_GB.md" >}}) | 947 | 947 | 100.0 | /mnt/stockage/packages/f40/ksystemstats/po/en_GB/ksystemstats_plugins.po | 
- | [eo]({{< ref "/f40/language/eo.md" >}}) | 947 | 947 | 100.0 | /mnt/stockage/packages/f40/ksystemstats/po/eo/ksystemstats_plugins.po | 
- | [es]({{< ref "/f40/language/es.md" >}}) | 947 | 947 | 100.0 | /mnt/stockage/packages/f40/ksystemstats/po/es/ksystemstats_plugins.po | 
- | [eu]({{< ref "/f40/language/eu.md" >}}) | 947 | 947 | 100.0 | /mnt/stockage/packages/f40/ksystemstats/po/eu/ksystemstats_plugins.po | 
- | [fi]({{< ref "/f40/language/fi.md" >}}) | 947 | 947 | 100.0 | /mnt/stockage/packages/f40/ksystemstats/po/fi/ksystemstats_plugins.po | 
- | [fr]({{< ref "/f40/language/fr.md" >}}) | 947 | 947 | 100.0 | /mnt/stockage/packages/f40/ksystemstats/po/fr/ksystemstats_plugins.po | 
- | [gl]({{< ref "/f40/language/gl.md" >}}) | 947 | 947 | 100.0 | /mnt/stockage/packages/f40/ksystemstats/po/gl/ksystemstats_plugins.po | 
- | [he]({{< ref "/f40/language/he.md" >}}) | 947 | 947 | 100.0 | /mnt/stockage/packages/f40/ksystemstats/po/he/ksystemstats_plugins.po | 
- | [hi]({{< ref "/f40/language/hi.md" >}}) | 947 | 947 | 100.0 | /mnt/stockage/packages/f40/ksystemstats/po/hi/ksystemstats_plugins.po | 
- | [hu]({{< ref "/f40/language/hu.md" >}}) | 947 | 947 | 100.0 | /mnt/stockage/packages/f40/ksystemstats/po/hu/ksystemstats_plugins.po | 
- | [ia]({{< ref "/f40/language/ia.md" >}}) | 947 | 947 | 100.0 | /mnt/stockage/packages/f40/ksystemstats/po/ia/ksystemstats_plugins.po | 
- | [ka]({{< ref "/f40/language/ka.md" >}}) | 947 | 947 | 100.0 | /mnt/stockage/packages/f40/ksystemstats/po/ka/ksystemstats_plugins.po | 
- | [ko]({{< ref "/f40/language/ko.md" >}}) | 947 | 947 | 100.0 | /mnt/stockage/packages/f40/ksystemstats/po/ko/ksystemstats_plugins.po | 
- | [nl]({{< ref "/f40/language/nl.md" >}}) | 947 | 947 | 100.0 | /mnt/stockage/packages/f40/ksystemstats/po/nl/ksystemstats_plugins.po | 
- | [pl]({{< ref "/f40/language/pl.md" >}}) | 947 | 947 | 100.0 | /mnt/stockage/packages/f40/ksystemstats/po/pl/ksystemstats_plugins.po | 
- | [pt_BR]({{< ref "/f40/language/pt_BR.md" >}}) | 947 | 947 | 100.0 | /mnt/stockage/packages/f40/ksystemstats/po/pt_BR/ksystemstats_plugins.po | 
- | [ru]({{< ref "/f40/language/ru.md" >}}) | 947 | 947 | 100.0 | /mnt/stockage/packages/f40/ksystemstats/po/ru/ksystemstats_plugins.po | 
- | [sa]({{< ref "/f40/language/sa.md" >}}) | 947 | 947 | 100.0 | /mnt/stockage/packages/f40/ksystemstats/po/sa/ksystemstats_plugins.po | 
- | [sl]({{< ref "/f40/language/sl.md" >}}) | 947 | 947 | 100.0 | /mnt/stockage/packages/f40/ksystemstats/po/sl/ksystemstats_plugins.po | 
- | [sv]({{< ref "/f40/language/sv.md" >}}) | 947 | 947 | 100.0 | /mnt/stockage/packages/f40/ksystemstats/po/sv/ksystemstats_plugins.po | 
- | [tr]({{< ref "/f40/language/tr.md" >}}) | 947 | 947 | 100.0 | /mnt/stockage/packages/f40/ksystemstats/po/tr/ksystemstats_plugins.po | 
- | [uk]({{< ref "/f40/language/uk.md" >}}) | 947 | 947 | 100.0 | /mnt/stockage/packages/f40/ksystemstats/po/uk/ksystemstats_plugins.po | 
- | [zh_Hans]({{< ref "/f40/language/zh_Hans.md" >}}) | 947 | 947 | 100.0 | /mnt/stockage/packages/f40/ksystemstats/po/zh_CN/ksystemstats_plugins.po | 
- | [zh_Hant]({{< ref "/f40/language/zh_Hant.md" >}}) | 947 | 947 | 100.0 | /mnt/stockage/packages/f40/ksystemstats/po/zh_TW/ksystemstats_plugins.po | 
- | [it]({{< ref "/f40/language/it.md" >}}) | 482 | 947 | 50.9 | /mnt/stockage/packages/f40/ksystemstats/po/it/ksystemstats_plugins.po | 
- | [de]({{< ref "/f40/language/de.md" >}}) | 476 | 947 | 50.3 | /mnt/stockage/packages/f40/ksystemstats/po/de/ksystemstats_plugins.po | 
- | [id]({{< ref "/f40/language/id.md" >}}) | 476 | 947 | 50.3 | /mnt/stockage/packages/f40/ksystemstats/po/id/ksystemstats_plugins.po | 
- | [lt]({{< ref "/f40/language/lt.md" >}}) | 476 | 947 | 50.3 | /mnt/stockage/packages/f40/ksystemstats/po/lt/ksystemstats_plugins.po | 
- | [nn]({{< ref "/f40/language/nn.md" >}}) | 476 | 947 | 50.3 | /mnt/stockage/packages/f40/ksystemstats/po/nn/ksystemstats_plugins.po | 
- | [pt]({{< ref "/f40/language/pt.md" >}}) | 476 | 947 | 50.3 | /mnt/stockage/packages/f40/ksystemstats/po/pt/ksystemstats_plugins.po | 
- | [vi]({{< ref "/f40/language/vi.md" >}}) | 476 | 947 | 50.3 | /mnt/stockage/packages/f40/ksystemstats/po/vi/ksystemstats_plugins.po | 
- | [az]({{< ref "/f40/language/az.md" >}}) | 428 | 947 | 45.2 | /mnt/stockage/packages/f40/ksystemstats/po/az/ksystemstats_plugins.po | 
- | [ro]({{< ref "/f40/language/ro.md" >}}) | 388 | 947 | 41.0 | /mnt/stockage/packages/f40/ksystemstats/po/ro/ksystemstats_plugins.po | 
- | [sk]({{< ref "/f40/language/sk.md" >}}) | 388 | 947 | 41.0 | /mnt/stockage/packages/f40/ksystemstats/po/sk/ksystemstats_plugins.po | 
- | [pa]({{< ref "/f40/language/pa.md" >}}) | 372 | 947 | 39.3 | /mnt/stockage/packages/f40/ksystemstats/po/pa/ksystemstats_plugins.po | 
- | [cs]({{< ref "/f40/language/cs.md" >}}) | 359 | 947 | 37.9 | /mnt/stockage/packages/f40/ksystemstats/po/cs/ksystemstats_plugins.po | 
- | [et]({{< ref "/f40/language/et.md" >}}) | 214 | 947 | 22.6 | /mnt/stockage/packages/f40/ksystemstats/po/et/ksystemstats_plugins.po | 
- | [ast]({{< ref "/f40/language/ast.md" >}}) | 59 | 947 | 6.2 | /mnt/stockage/packages/f40/ksystemstats/po/ast/ksystemstats_plugins.po | 
- | [ja]({{< ref "/f40/language/ja.md" >}}) | 57 | 947 | 6.0 | /mnt/stockage/packages/f40/ksystemstats/po/ja/ksystemstats_plugins.po | 
- | [ta]({{< ref "/f40/language/ta.md" >}}) | 24 | 947 | 2.5 | /mnt/stockage/packages/f40/ksystemstats/po/ta/ksystemstats_plugins.po | 
- | [da]({{< ref "/f40/language/da.md" >}}) | 0 | 947 | 0.0 | /mnt/stockage/packages/f40/ksystemstats/po/da/ksystemstats_plugins.po | 
+ | [ar](/f40/language/ar) | 947 | 947 | 100.0 | /mnt/stockage/packages/f40/ksystemstats/po/ar/ksystemstats_plugins.po | 
+ | [bg](/f40/language/bg) | 947 | 947 | 100.0 | /mnt/stockage/packages/f40/ksystemstats/po/bg/ksystemstats_plugins.po | 
+ | [ca](/f40/language/ca) | 947 | 947 | 100.0 | /mnt/stockage/packages/f40/ksystemstats/po/ca/ksystemstats_plugins.po | 
+ | [ca@valencia](/f40/language/ca@valencia) | 947 | 947 | 100.0 | /mnt/stockage/packages/f40/ksystemstats/po/ca@valencia/ksystemstats_plugins.po | 
+ | [en_GB](/f40/language/en_GB) | 947 | 947 | 100.0 | /mnt/stockage/packages/f40/ksystemstats/po/en_GB/ksystemstats_plugins.po | 
+ | [eo](/f40/language/eo) | 947 | 947 | 100.0 | /mnt/stockage/packages/f40/ksystemstats/po/eo/ksystemstats_plugins.po | 
+ | [es](/f40/language/es) | 947 | 947 | 100.0 | /mnt/stockage/packages/f40/ksystemstats/po/es/ksystemstats_plugins.po | 
+ | [eu](/f40/language/eu) | 947 | 947 | 100.0 | /mnt/stockage/packages/f40/ksystemstats/po/eu/ksystemstats_plugins.po | 
+ | [fi](/f40/language/fi) | 947 | 947 | 100.0 | /mnt/stockage/packages/f40/ksystemstats/po/fi/ksystemstats_plugins.po | 
+ | [fr](/f40/language/fr) | 947 | 947 | 100.0 | /mnt/stockage/packages/f40/ksystemstats/po/fr/ksystemstats_plugins.po | 
+ | [gl](/f40/language/gl) | 947 | 947 | 100.0 | /mnt/stockage/packages/f40/ksystemstats/po/gl/ksystemstats_plugins.po | 
+ | [he](/f40/language/he) | 947 | 947 | 100.0 | /mnt/stockage/packages/f40/ksystemstats/po/he/ksystemstats_plugins.po | 
+ | [hi](/f40/language/hi) | 947 | 947 | 100.0 | /mnt/stockage/packages/f40/ksystemstats/po/hi/ksystemstats_plugins.po | 
+ | [hu](/f40/language/hu) | 947 | 947 | 100.0 | /mnt/stockage/packages/f40/ksystemstats/po/hu/ksystemstats_plugins.po | 
+ | [ia](/f40/language/ia) | 947 | 947 | 100.0 | /mnt/stockage/packages/f40/ksystemstats/po/ia/ksystemstats_plugins.po | 
+ | [ka](/f40/language/ka) | 947 | 947 | 100.0 | /mnt/stockage/packages/f40/ksystemstats/po/ka/ksystemstats_plugins.po | 
+ | [ko](/f40/language/ko) | 947 | 947 | 100.0 | /mnt/stockage/packages/f40/ksystemstats/po/ko/ksystemstats_plugins.po | 
+ | [nl](/f40/language/nl) | 947 | 947 | 100.0 | /mnt/stockage/packages/f40/ksystemstats/po/nl/ksystemstats_plugins.po | 
+ | [pl](/f40/language/pl) | 947 | 947 | 100.0 | /mnt/stockage/packages/f40/ksystemstats/po/pl/ksystemstats_plugins.po | 
+ | [pt_BR](/f40/language/pt_BR) | 947 | 947 | 100.0 | /mnt/stockage/packages/f40/ksystemstats/po/pt_BR/ksystemstats_plugins.po | 
+ | [ru](/f40/language/ru) | 947 | 947 | 100.0 | /mnt/stockage/packages/f40/ksystemstats/po/ru/ksystemstats_plugins.po | 
+ | [sa](/f40/language/sa) | 947 | 947 | 100.0 | /mnt/stockage/packages/f40/ksystemstats/po/sa/ksystemstats_plugins.po | 
+ | [sl](/f40/language/sl) | 947 | 947 | 100.0 | /mnt/stockage/packages/f40/ksystemstats/po/sl/ksystemstats_plugins.po | 
+ | [sv](/f40/language/sv) | 947 | 947 | 100.0 | /mnt/stockage/packages/f40/ksystemstats/po/sv/ksystemstats_plugins.po | 
+ | [tr](/f40/language/tr) | 947 | 947 | 100.0 | /mnt/stockage/packages/f40/ksystemstats/po/tr/ksystemstats_plugins.po | 
+ | [uk](/f40/language/uk) | 947 | 947 | 100.0 | /mnt/stockage/packages/f40/ksystemstats/po/uk/ksystemstats_plugins.po | 
+ | [zh_Hans](/f40/language/zh_Hans) | 947 | 947 | 100.0 | /mnt/stockage/packages/f40/ksystemstats/po/zh_CN/ksystemstats_plugins.po | 
+ | [zh_Hant](/f40/language/zh_Hant) | 947 | 947 | 100.0 | /mnt/stockage/packages/f40/ksystemstats/po/zh_TW/ksystemstats_plugins.po | 
+ | [it](/f40/language/it) | 482 | 947 | 50.9 | /mnt/stockage/packages/f40/ksystemstats/po/it/ksystemstats_plugins.po | 
+ | [de](/f40/language/de) | 476 | 947 | 50.3 | /mnt/stockage/packages/f40/ksystemstats/po/de/ksystemstats_plugins.po | 
+ | [id](/f40/language/id) | 476 | 947 | 50.3 | /mnt/stockage/packages/f40/ksystemstats/po/id/ksystemstats_plugins.po | 
+ | [lt](/f40/language/lt) | 476 | 947 | 50.3 | /mnt/stockage/packages/f40/ksystemstats/po/lt/ksystemstats_plugins.po | 
+ | [nn](/f40/language/nn) | 476 | 947 | 50.3 | /mnt/stockage/packages/f40/ksystemstats/po/nn/ksystemstats_plugins.po | 
+ | [pt](/f40/language/pt) | 476 | 947 | 50.3 | /mnt/stockage/packages/f40/ksystemstats/po/pt/ksystemstats_plugins.po | 
+ | [vi](/f40/language/vi) | 476 | 947 | 50.3 | /mnt/stockage/packages/f40/ksystemstats/po/vi/ksystemstats_plugins.po | 
+ | [az](/f40/language/az) | 428 | 947 | 45.2 | /mnt/stockage/packages/f40/ksystemstats/po/az/ksystemstats_plugins.po | 
+ | [ro](/f40/language/ro) | 388 | 947 | 41.0 | /mnt/stockage/packages/f40/ksystemstats/po/ro/ksystemstats_plugins.po | 
+ | [sk](/f40/language/sk) | 388 | 947 | 41.0 | /mnt/stockage/packages/f40/ksystemstats/po/sk/ksystemstats_plugins.po | 
+ | [pa](/f40/language/pa) | 372 | 947 | 39.3 | /mnt/stockage/packages/f40/ksystemstats/po/pa/ksystemstats_plugins.po | 
+ | [cs](/f40/language/cs) | 359 | 947 | 37.9 | /mnt/stockage/packages/f40/ksystemstats/po/cs/ksystemstats_plugins.po | 
+ | [et](/f40/language/et) | 214 | 947 | 22.6 | /mnt/stockage/packages/f40/ksystemstats/po/et/ksystemstats_plugins.po | 
+ | [ast](/f40/language/ast) | 59 | 947 | 6.2 | /mnt/stockage/packages/f40/ksystemstats/po/ast/ksystemstats_plugins.po | 
+ | [ja](/f40/language/ja) | 57 | 947 | 6.0 | /mnt/stockage/packages/f40/ksystemstats/po/ja/ksystemstats_plugins.po | 
+ | [ta](/f40/language/ta) | 24 | 947 | 2.5 | /mnt/stockage/packages/f40/ksystemstats/po/ta/ksystemstats_plugins.po | 
+ | [da](/f40/language/da) | 0 | 947 | 0.0 | /mnt/stockage/packages/f40/ksystemstats/po/da/ksystemstats_plugins.po | 
 {.sortable}
 
 

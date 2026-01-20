@@ -38,9 +38,9 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [tuxpaint]({{< ref "/f34/package/tuxpaint.md" >}}) | 1137 | 1748 | 65.0 | Dogri | 
- | [gnucash]({{< ref "/f34/package/gnucash.md" >}}) | 15112 | 36666 | 41.2 | NONE | 
- | [inkscape]({{< ref "/f34/package/inkscape.md" >}}) | 17863 | 43605 | 41.0 | LANGUAGE <LL@li.org> | 
+ | [tuxpaint](/f34/package/tuxpaint) | 1137 | 1748 | 65.0 | Dogri | 
+ | [gnucash](/f34/package/gnucash) | 15112 | 36666 | 41.2 | NONE | 
+ | [inkscape](/f34/package/inkscape) | 17863 | 43605 | 41.0 | LANGUAGE <LL@li.org> | 
 {.sortable}
 
 

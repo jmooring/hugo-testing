@@ -18,23 +18,23 @@ The package xfce4-docklike-plugin (version 0.4.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f36/language/ca.md" >}}) | 131 | 132 | 99.2 | /mnt/stockage/packages/f36/xfce4-docklike-plugin/po/ca.po | 
- | [de]({{< ref "/f36/language/de.md" >}}) | 131 | 132 | 99.2 | /mnt/stockage/packages/f36/xfce4-docklike-plugin/po/de.po | 
- | [es]({{< ref "/f36/language/es.md" >}}) | 131 | 132 | 99.2 | /mnt/stockage/packages/f36/xfce4-docklike-plugin/po/es.po | 
- | [fr]({{< ref "/f36/language/fr.md" >}}) | 131 | 132 | 99.2 | /mnt/stockage/packages/f36/xfce4-docklike-plugin/po/fr.po | 
- | [id]({{< ref "/f36/language/id.md" >}}) | 131 | 132 | 99.2 | /mnt/stockage/packages/f36/xfce4-docklike-plugin/po/id.po | 
- | [it]({{< ref "/f36/language/it.md" >}}) | 131 | 132 | 99.2 | /mnt/stockage/packages/f36/xfce4-docklike-plugin/po/it.po | 
- | [ja]({{< ref "/f36/language/ja.md" >}}) | 131 | 132 | 99.2 | /mnt/stockage/packages/f36/xfce4-docklike-plugin/po/ja.po | 
- | [nl]({{< ref "/f36/language/nl.md" >}}) | 131 | 132 | 99.2 | /mnt/stockage/packages/f36/xfce4-docklike-plugin/po/nl.po | 
- | [pl]({{< ref "/f36/language/pl.md" >}}) | 131 | 132 | 99.2 | /mnt/stockage/packages/f36/xfce4-docklike-plugin/po/pl.po | 
- | [pt]({{< ref "/f36/language/pt.md" >}}) | 131 | 132 | 99.2 | /mnt/stockage/packages/f36/xfce4-docklike-plugin/po/pt.po | 
- | [tr]({{< ref "/f36/language/tr.md" >}}) | 131 | 132 | 99.2 | /mnt/stockage/packages/f36/xfce4-docklike-plugin/po/tr.po | 
- | [ru]({{< ref "/f36/language/ru.md" >}}) | 127 | 132 | 96.2 | /mnt/stockage/packages/f36/xfce4-docklike-plugin/po/ru.po | 
- | [da]({{< ref "/f36/language/da.md" >}}) | 100 | 132 | 75.8 | /mnt/stockage/packages/f36/xfce4-docklike-plugin/po/da.po | 
- | [fi]({{< ref "/f36/language/fi.md" >}}) | 100 | 132 | 75.8 | /mnt/stockage/packages/f36/xfce4-docklike-plugin/po/fi.po | 
- | [hr]({{< ref "/f36/language/hr.md" >}}) | 100 | 132 | 75.8 | /mnt/stockage/packages/f36/xfce4-docklike-plugin/po/hr.po | 
- | [el]({{< ref "/f36/language/el.md" >}}) | 77 | 132 | 58.3 | /mnt/stockage/packages/f36/xfce4-docklike-plugin/po/el.po | 
- | [pt_BR]({{< ref "/f36/language/pt_BR.md" >}}) | 77 | 132 | 58.3 | /mnt/stockage/packages/f36/xfce4-docklike-plugin/po/pt_BR.po | 
+ | [ca](/f36/language/ca) | 131 | 132 | 99.2 | /mnt/stockage/packages/f36/xfce4-docklike-plugin/po/ca.po | 
+ | [de](/f36/language/de) | 131 | 132 | 99.2 | /mnt/stockage/packages/f36/xfce4-docklike-plugin/po/de.po | 
+ | [es](/f36/language/es) | 131 | 132 | 99.2 | /mnt/stockage/packages/f36/xfce4-docklike-plugin/po/es.po | 
+ | [fr](/f36/language/fr) | 131 | 132 | 99.2 | /mnt/stockage/packages/f36/xfce4-docklike-plugin/po/fr.po | 
+ | [id](/f36/language/id) | 131 | 132 | 99.2 | /mnt/stockage/packages/f36/xfce4-docklike-plugin/po/id.po | 
+ | [it](/f36/language/it) | 131 | 132 | 99.2 | /mnt/stockage/packages/f36/xfce4-docklike-plugin/po/it.po | 
+ | [ja](/f36/language/ja) | 131 | 132 | 99.2 | /mnt/stockage/packages/f36/xfce4-docklike-plugin/po/ja.po | 
+ | [nl](/f36/language/nl) | 131 | 132 | 99.2 | /mnt/stockage/packages/f36/xfce4-docklike-plugin/po/nl.po | 
+ | [pl](/f36/language/pl) | 131 | 132 | 99.2 | /mnt/stockage/packages/f36/xfce4-docklike-plugin/po/pl.po | 
+ | [pt](/f36/language/pt) | 131 | 132 | 99.2 | /mnt/stockage/packages/f36/xfce4-docklike-plugin/po/pt.po | 
+ | [tr](/f36/language/tr) | 131 | 132 | 99.2 | /mnt/stockage/packages/f36/xfce4-docklike-plugin/po/tr.po | 
+ | [ru](/f36/language/ru) | 127 | 132 | 96.2 | /mnt/stockage/packages/f36/xfce4-docklike-plugin/po/ru.po | 
+ | [da](/f36/language/da) | 100 | 132 | 75.8 | /mnt/stockage/packages/f36/xfce4-docklike-plugin/po/da.po | 
+ | [fi](/f36/language/fi) | 100 | 132 | 75.8 | /mnt/stockage/packages/f36/xfce4-docklike-plugin/po/fi.po | 
+ | [hr](/f36/language/hr) | 100 | 132 | 75.8 | /mnt/stockage/packages/f36/xfce4-docklike-plugin/po/hr.po | 
+ | [el](/f36/language/el) | 77 | 132 | 58.3 | /mnt/stockage/packages/f36/xfce4-docklike-plugin/po/el.po | 
+ | [pt_BR](/f36/language/pt_BR) | 77 | 132 | 58.3 | /mnt/stockage/packages/f36/xfce4-docklike-plugin/po/pt_BR.po | 
 {.sortable}
 
 

@@ -18,8 +18,8 @@ The package php (version 5.3.8):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [en]({{< ref "/f14/language/en.md" >}}) | 14 | 14 | 100.0 | /mnt/stockage/packages/f14/php/ext/gettext/tests/locale/en/LC_CTYPE/dgettextTest.po/mnt/stockage/packages/f14/php/ext/gettext/tests/locale/en/LC_CTYPE/dgettextTest_switch.po/mnt/stockage/packages/f14/php/ext/gettext/tests/locale/en/LC_CTYPE/dgettextTest_switched.po/mnt/stockage/packages/f14/php/ext/gettext/tests/locale/en/LC_CTYPE/dngettextTest.po/mnt/stockage/packages/f14/php/ext/gettext/tests/locale/en/LC_MESSAGES/dgettextTest.po/mnt/stockage/packages/f14/php/ext/gettext/tests/locale/en/LC_MESSAGES/dgettextTest_switch.po/mnt/stockage/packages/f14/php/ext/gettext/tests/locale/en/LC_MESSAGES/dngettextTest.po/mnt/stockage/packages/f14/php/ext/gettext/tests/locale/en/LC_MESSAGES/messages.po | 
- | [fi]({{< ref "/f14/language/fi.md" >}}) | 2 | 2 | 100.0 | /mnt/stockage/packages/f14/php/ext/gettext/tests/locale/fi/LC_MESSAGES/messages.po | 
+ | [en](/f14/language/en) | 14 | 14 | 100.0 | /mnt/stockage/packages/f14/php/ext/gettext/tests/locale/en/LC_CTYPE/dgettextTest.po/mnt/stockage/packages/f14/php/ext/gettext/tests/locale/en/LC_CTYPE/dgettextTest_switch.po/mnt/stockage/packages/f14/php/ext/gettext/tests/locale/en/LC_CTYPE/dgettextTest_switched.po/mnt/stockage/packages/f14/php/ext/gettext/tests/locale/en/LC_CTYPE/dngettextTest.po/mnt/stockage/packages/f14/php/ext/gettext/tests/locale/en/LC_MESSAGES/dgettextTest.po/mnt/stockage/packages/f14/php/ext/gettext/tests/locale/en/LC_MESSAGES/dgettextTest_switch.po/mnt/stockage/packages/f14/php/ext/gettext/tests/locale/en/LC_MESSAGES/dngettextTest.po/mnt/stockage/packages/f14/php/ext/gettext/tests/locale/en/LC_MESSAGES/messages.po | 
+ | [fi](/f14/language/fi) | 2 | 2 | 100.0 | /mnt/stockage/packages/f14/php/ext/gettext/tests/locale/fi/LC_MESSAGES/messages.po | 
 {.sortable}
 
 

@@ -18,12 +18,12 @@ The package tiled (version 1.1.6):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f29/language/fr.md" >}}) | 2475 | 20878 | 11.9 | /mnt/stockage/packages/f29/tiled/docs/locale/fr/LC_MESSAGES/index.po/mnt/stockage/packages/f29/tiled/docs/locale/fr/LC_MESSAGES/manual.po/mnt/stockage/packages/f29/tiled/docs/locale/fr/LC_MESSAGES/reference.po | 
- | [ru]({{< ref "/f29/language/ru.md" >}}) | 135 | 6525 | 2.1 | /mnt/stockage/packages/f29/tiled/docs/locale/ru/LC_MESSAGES/reference.po | 
- | [nb_NO]({{< ref "/f29/language/nb_NO.md" >}}) | 394 | 20878 | 1.9 | /mnt/stockage/packages/f29/tiled/docs/locale/nb_NO/LC_MESSAGES/index.po/mnt/stockage/packages/f29/tiled/docs/locale/nb_NO/LC_MESSAGES/manual.po/mnt/stockage/packages/f29/tiled/docs/locale/nb_NO/LC_MESSAGES/reference.po | 
- | [hu]({{< ref "/f29/language/hu.md" >}}) | 218 | 20878 | 1.0 | /mnt/stockage/packages/f29/tiled/docs/locale/hu/LC_MESSAGES/index.po/mnt/stockage/packages/f29/tiled/docs/locale/hu/LC_MESSAGES/manual.po/mnt/stockage/packages/f29/tiled/docs/locale/hu/LC_MESSAGES/reference.po | 
- | [de]({{< ref "/f29/language/de.md" >}}) | 65 | 20878 | 0.3 | /mnt/stockage/packages/f29/tiled/docs/locale/de/LC_MESSAGES/index.po/mnt/stockage/packages/f29/tiled/docs/locale/de/LC_MESSAGES/manual.po/mnt/stockage/packages/f29/tiled/docs/locale/de/LC_MESSAGES/reference.po | 
- | [nl]({{< ref "/f29/language/nl.md" >}}) | 29 | 20878 | 0.1 | /mnt/stockage/packages/f29/tiled/docs/locale/nl/LC_MESSAGES/index.po/mnt/stockage/packages/f29/tiled/docs/locale/nl/LC_MESSAGES/manual.po/mnt/stockage/packages/f29/tiled/docs/locale/nl/LC_MESSAGES/reference.po | 
+ | [fr](/f29/language/fr) | 2475 | 20878 | 11.9 | /mnt/stockage/packages/f29/tiled/docs/locale/fr/LC_MESSAGES/index.po/mnt/stockage/packages/f29/tiled/docs/locale/fr/LC_MESSAGES/manual.po/mnt/stockage/packages/f29/tiled/docs/locale/fr/LC_MESSAGES/reference.po | 
+ | [ru](/f29/language/ru) | 135 | 6525 | 2.1 | /mnt/stockage/packages/f29/tiled/docs/locale/ru/LC_MESSAGES/reference.po | 
+ | [nb_NO](/f29/language/nb_NO) | 394 | 20878 | 1.9 | /mnt/stockage/packages/f29/tiled/docs/locale/nb_NO/LC_MESSAGES/index.po/mnt/stockage/packages/f29/tiled/docs/locale/nb_NO/LC_MESSAGES/manual.po/mnt/stockage/packages/f29/tiled/docs/locale/nb_NO/LC_MESSAGES/reference.po | 
+ | [hu](/f29/language/hu) | 218 | 20878 | 1.0 | /mnt/stockage/packages/f29/tiled/docs/locale/hu/LC_MESSAGES/index.po/mnt/stockage/packages/f29/tiled/docs/locale/hu/LC_MESSAGES/manual.po/mnt/stockage/packages/f29/tiled/docs/locale/hu/LC_MESSAGES/reference.po | 
+ | [de](/f29/language/de) | 65 | 20878 | 0.3 | /mnt/stockage/packages/f29/tiled/docs/locale/de/LC_MESSAGES/index.po/mnt/stockage/packages/f29/tiled/docs/locale/de/LC_MESSAGES/manual.po/mnt/stockage/packages/f29/tiled/docs/locale/de/LC_MESSAGES/reference.po | 
+ | [nl](/f29/language/nl) | 29 | 20878 | 0.1 | /mnt/stockage/packages/f29/tiled/docs/locale/nl/LC_MESSAGES/index.po/mnt/stockage/packages/f29/tiled/docs/locale/nl/LC_MESSAGES/manual.po/mnt/stockage/packages/f29/tiled/docs/locale/nl/LC_MESSAGES/reference.po | 
 {.sortable}
 
 

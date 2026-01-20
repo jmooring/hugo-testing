@@ -18,10 +18,10 @@ The package php-ZendFramework (version 1.12.9):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [en]({{< ref "/f19/language/en.md" >}}) | 17 | 17 | 100.0 | /mnt/stockage/packages/f19/php-ZendFramework/tests/Zend/Translate/Adapter/_files/translation_en.po | 
- | [error]({{< ref "/f19/language/error.md" >}}) | 12 | 12 | 100.0 | /mnt/stockage/packages/f19/php-ZendFramework/tests/Zend/Translate/Adapter/_files/translation_otherencoding.po/mnt/stockage/packages/f19/php-ZendFramework/tests/Zend/Translate/Adapter/_files/translation_en2.po/mnt/stockage/packages/f19/php-ZendFramework/tests/Zend/Translate/Adapter/_files/translation_empty.po | 
- | [fr]({{< ref "/f19/language/fr.md" >}}) | 8 | 8 | 100.0 | /mnt/stockage/packages/f19/php-ZendFramework/tests/Zend/Translate/Adapter/_files/translation_plural_fr.po | 
- | [tr]({{< ref "/f19/language/tr.md" >}}) | 8 | 8 | 100.0 | /mnt/stockage/packages/f19/php-ZendFramework/tests/Zend/Translate/Adapter/_files/translation_plural_tr.po | 
+ | [en](/f19/language/en) | 17 | 17 | 100.0 | /mnt/stockage/packages/f19/php-ZendFramework/tests/Zend/Translate/Adapter/_files/translation_en.po | 
+ | [error](/f19/language/error) | 12 | 12 | 100.0 | /mnt/stockage/packages/f19/php-ZendFramework/tests/Zend/Translate/Adapter/_files/translation_otherencoding.po/mnt/stockage/packages/f19/php-ZendFramework/tests/Zend/Translate/Adapter/_files/translation_en2.po/mnt/stockage/packages/f19/php-ZendFramework/tests/Zend/Translate/Adapter/_files/translation_empty.po | 
+ | [fr](/f19/language/fr) | 8 | 8 | 100.0 | /mnt/stockage/packages/f19/php-ZendFramework/tests/Zend/Translate/Adapter/_files/translation_plural_fr.po | 
+ | [tr](/f19/language/tr) | 8 | 8 | 100.0 | /mnt/stockage/packages/f19/php-ZendFramework/tests/Zend/Translate/Adapter/_files/translation_plural_tr.po | 
 {.sortable}
 
 

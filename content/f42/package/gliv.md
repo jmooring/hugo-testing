@@ -18,22 +18,22 @@ The package gliv (version 1.9.7):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f42/language/cs.md" >}}) | 1034 | 1034 | 100.0 | /mnt/stockage/packages/f42/gliv/po/cs.po | 
- | [de]({{< ref "/f42/language/de.md" >}}) | 1008 | 1008 | 100.0 | /mnt/stockage/packages/f42/gliv/po/de.po | 
- | [fr]({{< ref "/f42/language/fr.md" >}}) | 1034 | 1034 | 100.0 | /mnt/stockage/packages/f42/gliv/po/fr.po | 
- | [pt_BR]({{< ref "/f42/language/pt_BR.md" >}}) | 1034 | 1034 | 100.0 | /mnt/stockage/packages/f42/gliv/po/pt_BR.po | 
- | [pl]({{< ref "/f42/language/pl.md" >}}) | 1010 | 1034 | 97.7 | /mnt/stockage/packages/f42/gliv/po/pl.po | 
- | [da]({{< ref "/f42/language/da.md" >}}) | 991 | 1034 | 95.8 | /mnt/stockage/packages/f42/gliv/po/da.po | 
- | [fi]({{< ref "/f42/language/fi.md" >}}) | 991 | 1034 | 95.8 | /mnt/stockage/packages/f42/gliv/po/fi.po | 
- | [nl]({{< ref "/f42/language/nl.md" >}}) | 991 | 1034 | 95.8 | /mnt/stockage/packages/f42/gliv/po/nl.po | 
- | [vi]({{< ref "/f42/language/vi.md" >}}) | 991 | 1034 | 95.8 | /mnt/stockage/packages/f42/gliv/po/vi.po | 
- | [ru]({{< ref "/f42/language/ru.md" >}}) | 979 | 1034 | 94.7 | /mnt/stockage/packages/f42/gliv/po/ru.po | 
- | [sv]({{< ref "/f42/language/sv.md" >}}) | 950 | 1034 | 91.9 | /mnt/stockage/packages/f42/gliv/po/sv.po | 
- | [bg]({{< ref "/f42/language/bg.md" >}}) | 893 | 1034 | 86.4 | /mnt/stockage/packages/f42/gliv/po/bg.po | 
- | [ro]({{< ref "/f42/language/ro.md" >}}) | 671 | 1034 | 64.9 | /mnt/stockage/packages/f42/gliv/po/ro.po | 
- | [sk]({{< ref "/f42/language/sk.md" >}}) | 671 | 1034 | 64.9 | /mnt/stockage/packages/f42/gliv/po/sk.po | 
- | [tr]({{< ref "/f42/language/tr.md" >}}) | 642 | 1034 | 62.1 | /mnt/stockage/packages/f42/gliv/po/tr.po | 
- | [rw]({{< ref "/f42/language/rw.md" >}}) | 28 | 1034 | 2.7 | /mnt/stockage/packages/f42/gliv/po/rw.po | 
+ | [cs](/f42/language/cs) | 1034 | 1034 | 100.0 | /mnt/stockage/packages/f42/gliv/po/cs.po | 
+ | [de](/f42/language/de) | 1008 | 1008 | 100.0 | /mnt/stockage/packages/f42/gliv/po/de.po | 
+ | [fr](/f42/language/fr) | 1034 | 1034 | 100.0 | /mnt/stockage/packages/f42/gliv/po/fr.po | 
+ | [pt_BR](/f42/language/pt_BR) | 1034 | 1034 | 100.0 | /mnt/stockage/packages/f42/gliv/po/pt_BR.po | 
+ | [pl](/f42/language/pl) | 1010 | 1034 | 97.7 | /mnt/stockage/packages/f42/gliv/po/pl.po | 
+ | [da](/f42/language/da) | 991 | 1034 | 95.8 | /mnt/stockage/packages/f42/gliv/po/da.po | 
+ | [fi](/f42/language/fi) | 991 | 1034 | 95.8 | /mnt/stockage/packages/f42/gliv/po/fi.po | 
+ | [nl](/f42/language/nl) | 991 | 1034 | 95.8 | /mnt/stockage/packages/f42/gliv/po/nl.po | 
+ | [vi](/f42/language/vi) | 991 | 1034 | 95.8 | /mnt/stockage/packages/f42/gliv/po/vi.po | 
+ | [ru](/f42/language/ru) | 979 | 1034 | 94.7 | /mnt/stockage/packages/f42/gliv/po/ru.po | 
+ | [sv](/f42/language/sv) | 950 | 1034 | 91.9 | /mnt/stockage/packages/f42/gliv/po/sv.po | 
+ | [bg](/f42/language/bg) | 893 | 1034 | 86.4 | /mnt/stockage/packages/f42/gliv/po/bg.po | 
+ | [ro](/f42/language/ro) | 671 | 1034 | 64.9 | /mnt/stockage/packages/f42/gliv/po/ro.po | 
+ | [sk](/f42/language/sk) | 671 | 1034 | 64.9 | /mnt/stockage/packages/f42/gliv/po/sk.po | 
+ | [tr](/f42/language/tr) | 642 | 1034 | 62.1 | /mnt/stockage/packages/f42/gliv/po/tr.po | 
+ | [rw](/f42/language/rw) | 28 | 1034 | 2.7 | /mnt/stockage/packages/f42/gliv/po/rw.po | 
 {.sortable}
 
 

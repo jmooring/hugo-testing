@@ -18,10 +18,10 @@ The package kpartsplugin (version 0.0.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [da]({{< ref "/f29/language/da.md" >}}) | 58 | 90 | 64.4 | /mnt/stockage/packages/f29/kpartsplugin/po/da.po | 
- | [de]({{< ref "/f29/language/de.md" >}}) | 58 | 90 | 64.4 | /mnt/stockage/packages/f29/kpartsplugin/po/de.po | 
- | [pt]({{< ref "/f29/language/pt.md" >}}) | 56 | 90 | 62.2 | /mnt/stockage/packages/f29/kpartsplugin/po/pt.po | 
- | [ru]({{< ref "/f29/language/ru.md" >}}) | 56 | 90 | 62.2 | /mnt/stockage/packages/f29/kpartsplugin/po/ru.po | 
+ | [da](/f29/language/da) | 58 | 90 | 64.4 | /mnt/stockage/packages/f29/kpartsplugin/po/da.po | 
+ | [de](/f29/language/de) | 58 | 90 | 64.4 | /mnt/stockage/packages/f29/kpartsplugin/po/de.po | 
+ | [pt](/f29/language/pt) | 56 | 90 | 62.2 | /mnt/stockage/packages/f29/kpartsplugin/po/pt.po | 
+ | [ru](/f29/language/ru) | 56 | 90 | 62.2 | /mnt/stockage/packages/f29/kpartsplugin/po/ru.po | 
 {.sortable}
 
 

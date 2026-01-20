@@ -18,11 +18,11 @@ The package cpufrequtils (version 005):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f11/language/cs.md" >}}) | 538 | 538 | 100.0 | /mnt/stockage/packages/f11/cpufrequtils/po/cs.po | 
- | [de]({{< ref "/f11/language/de.md" >}}) | 538 | 538 | 100.0 | /mnt/stockage/packages/f11/cpufrequtils/po/de.po | 
- | [fr]({{< ref "/f11/language/fr.md" >}}) | 538 | 538 | 100.0 | /mnt/stockage/packages/f11/cpufrequtils/po/fr.po | 
- | [it]({{< ref "/f11/language/it.md" >}}) | 538 | 538 | 100.0 | /mnt/stockage/packages/f11/cpufrequtils/po/it.po | 
- | [pt]({{< ref "/f11/language/pt.md" >}}) | 538 | 538 | 100.0 | /mnt/stockage/packages/f11/cpufrequtils/po/pt.po | 
+ | [cs](/f11/language/cs) | 538 | 538 | 100.0 | /mnt/stockage/packages/f11/cpufrequtils/po/cs.po | 
+ | [de](/f11/language/de) | 538 | 538 | 100.0 | /mnt/stockage/packages/f11/cpufrequtils/po/de.po | 
+ | [fr](/f11/language/fr) | 538 | 538 | 100.0 | /mnt/stockage/packages/f11/cpufrequtils/po/fr.po | 
+ | [it](/f11/language/it) | 538 | 538 | 100.0 | /mnt/stockage/packages/f11/cpufrequtils/po/it.po | 
+ | [pt](/f11/language/pt) | 538 | 538 | 100.0 | /mnt/stockage/packages/f11/cpufrequtils/po/pt.po | 
 {.sortable}
 
 

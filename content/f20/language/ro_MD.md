@@ -38,7 +38,7 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [stellarium]({{< ref "/f20/package/stellarium.md" >}}) | 0 | 11181 | 0.0 | Moldavian <mo@li.org> | 
+ | [stellarium](/f20/package/stellarium) | 0 | 11181 | 0.0 | Moldavian <mo@li.org> | 
 {.sortable}
 
 

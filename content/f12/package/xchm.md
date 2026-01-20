@@ -18,25 +18,25 @@ The package xchm (version 1.17):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f12/language/fr.md" >}}) | 245 | 245 | 100.0 | /mnt/stockage/packages/f12/xchm/po/fr.po | 
- | [be]({{< ref "/f12/language/be.md" >}}) | 221 | 245 | 90.2 | /mnt/stockage/packages/f12/xchm/po/be.po | 
- | [pl]({{< ref "/f12/language/pl.md" >}}) | 221 | 245 | 90.2 | /mnt/stockage/packages/f12/xchm/po/pl.po | 
- | [ro]({{< ref "/f12/language/ro.md" >}}) | 219 | 245 | 89.4 | /mnt/stockage/packages/f12/xchm/po/ro.po | 
- | [pt_PT]({{< ref "/f12/language/pt_PT.md" >}}) | 198 | 245 | 80.8 | /mnt/stockage/packages/f12/xchm/po/pt_PT.po | 
- | [sv]({{< ref "/f12/language/sv.md" >}}) | 198 | 245 | 80.8 | /mnt/stockage/packages/f12/xchm/po/sv.po | 
- | [de]({{< ref "/f12/language/de.md" >}}) | 188 | 245 | 76.7 | /mnt/stockage/packages/f12/xchm/po/de.po | 
- | [uk]({{< ref "/f12/language/uk.md" >}}) | 158 | 245 | 64.5 | /mnt/stockage/packages/f12/xchm/po/uk.po | 
- | [pt_BR]({{< ref "/f12/language/pt_BR.md" >}}) | 156 | 245 | 63.7 | /mnt/stockage/packages/f12/xchm/po/pt_BR.po | 
- | [cs]({{< ref "/f12/language/cs.md" >}}) | 145 | 245 | 59.2 | /mnt/stockage/packages/f12/xchm/po/cs.po | 
- | [ru]({{< ref "/f12/language/ru.md" >}}) | 145 | 245 | 59.2 | /mnt/stockage/packages/f12/xchm/po/ru.po | 
- | [zh_Hans]({{< ref "/f12/language/zh_Hans.md" >}}) | 145 | 245 | 59.2 | /mnt/stockage/packages/f12/xchm/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f12/language/zh_Hant.md" >}}) | 145 | 245 | 59.2 | /mnt/stockage/packages/f12/xchm/po/zh_TW.po | 
- | [bg]({{< ref "/f12/language/bg.md" >}}) | 142 | 245 | 58.0 | /mnt/stockage/packages/f12/xchm/po/bg.po | 
- | [es]({{< ref "/f12/language/es.md" >}}) | 142 | 245 | 58.0 | /mnt/stockage/packages/f12/xchm/po/es.po | 
- | [hu]({{< ref "/f12/language/hu.md" >}}) | 142 | 245 | 58.0 | /mnt/stockage/packages/f12/xchm/po/hu.po | 
- | [it]({{< ref "/f12/language/it.md" >}}) | 142 | 245 | 58.0 | /mnt/stockage/packages/f12/xchm/po/it.po | 
- | [lv]({{< ref "/f12/language/lv.md" >}}) | 142 | 245 | 58.0 | /mnt/stockage/packages/f12/xchm/po/lv.po | 
- | [sk]({{< ref "/f12/language/sk.md" >}}) | 142 | 245 | 58.0 | /mnt/stockage/packages/f12/xchm/po/sk.po | 
+ | [fr](/f12/language/fr) | 245 | 245 | 100.0 | /mnt/stockage/packages/f12/xchm/po/fr.po | 
+ | [be](/f12/language/be) | 221 | 245 | 90.2 | /mnt/stockage/packages/f12/xchm/po/be.po | 
+ | [pl](/f12/language/pl) | 221 | 245 | 90.2 | /mnt/stockage/packages/f12/xchm/po/pl.po | 
+ | [ro](/f12/language/ro) | 219 | 245 | 89.4 | /mnt/stockage/packages/f12/xchm/po/ro.po | 
+ | [pt_PT](/f12/language/pt_PT) | 198 | 245 | 80.8 | /mnt/stockage/packages/f12/xchm/po/pt_PT.po | 
+ | [sv](/f12/language/sv) | 198 | 245 | 80.8 | /mnt/stockage/packages/f12/xchm/po/sv.po | 
+ | [de](/f12/language/de) | 188 | 245 | 76.7 | /mnt/stockage/packages/f12/xchm/po/de.po | 
+ | [uk](/f12/language/uk) | 158 | 245 | 64.5 | /mnt/stockage/packages/f12/xchm/po/uk.po | 
+ | [pt_BR](/f12/language/pt_BR) | 156 | 245 | 63.7 | /mnt/stockage/packages/f12/xchm/po/pt_BR.po | 
+ | [cs](/f12/language/cs) | 145 | 245 | 59.2 | /mnt/stockage/packages/f12/xchm/po/cs.po | 
+ | [ru](/f12/language/ru) | 145 | 245 | 59.2 | /mnt/stockage/packages/f12/xchm/po/ru.po | 
+ | [zh_Hans](/f12/language/zh_Hans) | 145 | 245 | 59.2 | /mnt/stockage/packages/f12/xchm/po/zh_CN.po | 
+ | [zh_Hant](/f12/language/zh_Hant) | 145 | 245 | 59.2 | /mnt/stockage/packages/f12/xchm/po/zh_TW.po | 
+ | [bg](/f12/language/bg) | 142 | 245 | 58.0 | /mnt/stockage/packages/f12/xchm/po/bg.po | 
+ | [es](/f12/language/es) | 142 | 245 | 58.0 | /mnt/stockage/packages/f12/xchm/po/es.po | 
+ | [hu](/f12/language/hu) | 142 | 245 | 58.0 | /mnt/stockage/packages/f12/xchm/po/hu.po | 
+ | [it](/f12/language/it) | 142 | 245 | 58.0 | /mnt/stockage/packages/f12/xchm/po/it.po | 
+ | [lv](/f12/language/lv) | 142 | 245 | 58.0 | /mnt/stockage/packages/f12/xchm/po/lv.po | 
+ | [sk](/f12/language/sk) | 142 | 245 | 58.0 | /mnt/stockage/packages/f12/xchm/po/sk.po | 
 {.sortable}
 
 

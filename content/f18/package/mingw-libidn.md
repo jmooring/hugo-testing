@@ -18,23 +18,23 @@ The package mingw-libidn (version 1.25):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f18/language/cs.md" >}}) | 414 | 414 | 100.0 | /mnt/stockage/packages/f18/mingw-libidn/po/cs.po | 
- | [de]({{< ref "/f18/language/de.md" >}}) | 414 | 414 | 100.0 | /mnt/stockage/packages/f18/mingw-libidn/po/de.po | 
- | [error]({{< ref "/f18/language/error.md" >}}) | 828 | 828 | 100.0 | /mnt/stockage/packages/f18/mingw-libidn/po/en@boldquot.po/mnt/stockage/packages/f18/mingw-libidn/po/en@quot.po | 
- | [fi]({{< ref "/f18/language/fi.md" >}}) | 414 | 414 | 100.0 | /mnt/stockage/packages/f18/mingw-libidn/po/fi.po | 
- | [fr]({{< ref "/f18/language/fr.md" >}}) | 414 | 414 | 100.0 | /mnt/stockage/packages/f18/mingw-libidn/po/fr.po | 
- | [id]({{< ref "/f18/language/id.md" >}}) | 414 | 414 | 100.0 | /mnt/stockage/packages/f18/mingw-libidn/po/id.po | 
- | [it]({{< ref "/f18/language/it.md" >}}) | 414 | 414 | 100.0 | /mnt/stockage/packages/f18/mingw-libidn/po/it.po | 
- | [nl]({{< ref "/f18/language/nl.md" >}}) | 414 | 414 | 100.0 | /mnt/stockage/packages/f18/mingw-libidn/po/nl.po | 
- | [pl]({{< ref "/f18/language/pl.md" >}}) | 414 | 414 | 100.0 | /mnt/stockage/packages/f18/mingw-libidn/po/pl.po | 
- | [sr]({{< ref "/f18/language/sr.md" >}}) | 414 | 414 | 100.0 | /mnt/stockage/packages/f18/mingw-libidn/po/sr.po | 
- | [uk]({{< ref "/f18/language/uk.md" >}}) | 414 | 414 | 100.0 | /mnt/stockage/packages/f18/mingw-libidn/po/uk.po | 
- | [zh_Hans]({{< ref "/f18/language/zh_Hans.md" >}}) | 414 | 414 | 100.0 | /mnt/stockage/packages/f18/mingw-libidn/po/zh_CN.po | 
- | [eo]({{< ref "/f18/language/eo.md" >}}) | 339 | 414 | 81.9 | /mnt/stockage/packages/f18/mingw-libidn/po/eo.po | 
- | [da]({{< ref "/f18/language/da.md" >}}) | 338 | 414 | 81.6 | /mnt/stockage/packages/f18/mingw-libidn/po/da.po | 
- | [vi]({{< ref "/f18/language/vi.md" >}}) | 338 | 414 | 81.6 | /mnt/stockage/packages/f18/mingw-libidn/po/vi.po | 
- | [ja]({{< ref "/f18/language/ja.md" >}}) | 160 | 414 | 38.6 | /mnt/stockage/packages/f18/mingw-libidn/po/ja.po | 
- | [ro]({{< ref "/f18/language/ro.md" >}}) | 16 | 414 | 3.9 | /mnt/stockage/packages/f18/mingw-libidn/po/ro.po | 
+ | [cs](/f18/language/cs) | 414 | 414 | 100.0 | /mnt/stockage/packages/f18/mingw-libidn/po/cs.po | 
+ | [de](/f18/language/de) | 414 | 414 | 100.0 | /mnt/stockage/packages/f18/mingw-libidn/po/de.po | 
+ | [error](/f18/language/error) | 828 | 828 | 100.0 | /mnt/stockage/packages/f18/mingw-libidn/po/en@boldquot.po/mnt/stockage/packages/f18/mingw-libidn/po/en@quot.po | 
+ | [fi](/f18/language/fi) | 414 | 414 | 100.0 | /mnt/stockage/packages/f18/mingw-libidn/po/fi.po | 
+ | [fr](/f18/language/fr) | 414 | 414 | 100.0 | /mnt/stockage/packages/f18/mingw-libidn/po/fr.po | 
+ | [id](/f18/language/id) | 414 | 414 | 100.0 | /mnt/stockage/packages/f18/mingw-libidn/po/id.po | 
+ | [it](/f18/language/it) | 414 | 414 | 100.0 | /mnt/stockage/packages/f18/mingw-libidn/po/it.po | 
+ | [nl](/f18/language/nl) | 414 | 414 | 100.0 | /mnt/stockage/packages/f18/mingw-libidn/po/nl.po | 
+ | [pl](/f18/language/pl) | 414 | 414 | 100.0 | /mnt/stockage/packages/f18/mingw-libidn/po/pl.po | 
+ | [sr](/f18/language/sr) | 414 | 414 | 100.0 | /mnt/stockage/packages/f18/mingw-libidn/po/sr.po | 
+ | [uk](/f18/language/uk) | 414 | 414 | 100.0 | /mnt/stockage/packages/f18/mingw-libidn/po/uk.po | 
+ | [zh_Hans](/f18/language/zh_Hans) | 414 | 414 | 100.0 | /mnt/stockage/packages/f18/mingw-libidn/po/zh_CN.po | 
+ | [eo](/f18/language/eo) | 339 | 414 | 81.9 | /mnt/stockage/packages/f18/mingw-libidn/po/eo.po | 
+ | [da](/f18/language/da) | 338 | 414 | 81.6 | /mnt/stockage/packages/f18/mingw-libidn/po/da.po | 
+ | [vi](/f18/language/vi) | 338 | 414 | 81.6 | /mnt/stockage/packages/f18/mingw-libidn/po/vi.po | 
+ | [ja](/f18/language/ja) | 160 | 414 | 38.6 | /mnt/stockage/packages/f18/mingw-libidn/po/ja.po | 
+ | [ro](/f18/language/ro) | 16 | 414 | 3.9 | /mnt/stockage/packages/f18/mingw-libidn/po/ro.po | 
 {.sortable}
 
 

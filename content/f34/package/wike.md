@@ -18,30 +18,30 @@ The package wike (version 1.8.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f34/language/de.md" >}}) | 459 | 459 | 100.0 | /mnt/stockage/packages/f34/wike/po/de.po | 
- | [es]({{< ref "/f34/language/es.md" >}}) | 459 | 459 | 100.0 | /mnt/stockage/packages/f34/wike/po/es.po | 
- | [eu]({{< ref "/f34/language/eu.md" >}}) | 459 | 459 | 100.0 | /mnt/stockage/packages/f34/wike/po/eu.po | 
- | [fa]({{< ref "/f34/language/fa.md" >}}) | 459 | 459 | 100.0 | /mnt/stockage/packages/f34/wike/po/fa.po | 
- | [fi]({{< ref "/f34/language/fi.md" >}}) | 459 | 459 | 100.0 | /mnt/stockage/packages/f34/wike/po/fi.po | 
- | [fr]({{< ref "/f34/language/fr.md" >}}) | 459 | 459 | 100.0 | /mnt/stockage/packages/f34/wike/po/fr.po | 
- | [gl]({{< ref "/f34/language/gl.md" >}}) | 390 | 390 | 100.0 | /mnt/stockage/packages/f34/wike/po/gl.po | 
- | [he]({{< ref "/f34/language/he.md" >}}) | 459 | 459 | 100.0 | /mnt/stockage/packages/f34/wike/po/he.po | 
- | [hr]({{< ref "/f34/language/hr.md" >}}) | 459 | 459 | 100.0 | /mnt/stockage/packages/f34/wike/po/hr.po | 
- | [it]({{< ref "/f34/language/it.md" >}}) | 459 | 459 | 100.0 | /mnt/stockage/packages/f34/wike/po/it.po | 
- | [nl]({{< ref "/f34/language/nl.md" >}}) | 459 | 459 | 100.0 | /mnt/stockage/packages/f34/wike/po/nl.po | 
- | [pl]({{< ref "/f34/language/pl.md" >}}) | 459 | 459 | 100.0 | /mnt/stockage/packages/f34/wike/po/pl.po | 
- | [pt_BR]({{< ref "/f34/language/pt_BR.md" >}}) | 459 | 459 | 100.0 | /mnt/stockage/packages/f34/wike/po/pt_BR.po | 
- | [ru]({{< ref "/f34/language/ru.md" >}}) | 459 | 459 | 100.0 | /mnt/stockage/packages/f34/wike/po/ru.po | 
- | [sv]({{< ref "/f34/language/sv.md" >}}) | 459 | 459 | 100.0 | /mnt/stockage/packages/f34/wike/po/sv.po | 
- | [tr]({{< ref "/f34/language/tr.md" >}}) | 459 | 459 | 100.0 | /mnt/stockage/packages/f34/wike/po/tr.po | 
- | [zh_Hant]({{< ref "/f34/language/zh_Hant.md" >}}) | 459 | 459 | 100.0 | /mnt/stockage/packages/f34/wike/po/zh.po | 
- | [bn]({{< ref "/f34/language/bn.md" >}}) | 458 | 459 | 99.8 | /mnt/stockage/packages/f34/wike/po/bn.po | 
- | [id]({{< ref "/f34/language/id.md" >}}) | 388 | 390 | 99.5 | /mnt/stockage/packages/f34/wike/po/id.po | 
- | [cs]({{< ref "/f34/language/cs.md" >}}) | 499 | 504 | 99.0 | /mnt/stockage/packages/f34/wike/po/cs.po | 
- | [ja]({{< ref "/f34/language/ja.md" >}}) | 440 | 459 | 95.9 | /mnt/stockage/packages/f34/wike/po/ja.po | 
- | [ia]({{< ref "/f34/language/ia.md" >}}) | 380 | 459 | 82.8 | /mnt/stockage/packages/f34/wike/po/ia.po | 
- | [el]({{< ref "/f34/language/el.md" >}}) | 252 | 390 | 64.6 | /mnt/stockage/packages/f34/wike/po/el.po | 
- | [ca]({{< ref "/f34/language/ca.md" >}}) | 31 | 459 | 6.8 | /mnt/stockage/packages/f34/wike/po/ca.po | 
+ | [de](/f34/language/de) | 459 | 459 | 100.0 | /mnt/stockage/packages/f34/wike/po/de.po | 
+ | [es](/f34/language/es) | 459 | 459 | 100.0 | /mnt/stockage/packages/f34/wike/po/es.po | 
+ | [eu](/f34/language/eu) | 459 | 459 | 100.0 | /mnt/stockage/packages/f34/wike/po/eu.po | 
+ | [fa](/f34/language/fa) | 459 | 459 | 100.0 | /mnt/stockage/packages/f34/wike/po/fa.po | 
+ | [fi](/f34/language/fi) | 459 | 459 | 100.0 | /mnt/stockage/packages/f34/wike/po/fi.po | 
+ | [fr](/f34/language/fr) | 459 | 459 | 100.0 | /mnt/stockage/packages/f34/wike/po/fr.po | 
+ | [gl](/f34/language/gl) | 390 | 390 | 100.0 | /mnt/stockage/packages/f34/wike/po/gl.po | 
+ | [he](/f34/language/he) | 459 | 459 | 100.0 | /mnt/stockage/packages/f34/wike/po/he.po | 
+ | [hr](/f34/language/hr) | 459 | 459 | 100.0 | /mnt/stockage/packages/f34/wike/po/hr.po | 
+ | [it](/f34/language/it) | 459 | 459 | 100.0 | /mnt/stockage/packages/f34/wike/po/it.po | 
+ | [nl](/f34/language/nl) | 459 | 459 | 100.0 | /mnt/stockage/packages/f34/wike/po/nl.po | 
+ | [pl](/f34/language/pl) | 459 | 459 | 100.0 | /mnt/stockage/packages/f34/wike/po/pl.po | 
+ | [pt_BR](/f34/language/pt_BR) | 459 | 459 | 100.0 | /mnt/stockage/packages/f34/wike/po/pt_BR.po | 
+ | [ru](/f34/language/ru) | 459 | 459 | 100.0 | /mnt/stockage/packages/f34/wike/po/ru.po | 
+ | [sv](/f34/language/sv) | 459 | 459 | 100.0 | /mnt/stockage/packages/f34/wike/po/sv.po | 
+ | [tr](/f34/language/tr) | 459 | 459 | 100.0 | /mnt/stockage/packages/f34/wike/po/tr.po | 
+ | [zh_Hant](/f34/language/zh_Hant) | 459 | 459 | 100.0 | /mnt/stockage/packages/f34/wike/po/zh.po | 
+ | [bn](/f34/language/bn) | 458 | 459 | 99.8 | /mnt/stockage/packages/f34/wike/po/bn.po | 
+ | [id](/f34/language/id) | 388 | 390 | 99.5 | /mnt/stockage/packages/f34/wike/po/id.po | 
+ | [cs](/f34/language/cs) | 499 | 504 | 99.0 | /mnt/stockage/packages/f34/wike/po/cs.po | 
+ | [ja](/f34/language/ja) | 440 | 459 | 95.9 | /mnt/stockage/packages/f34/wike/po/ja.po | 
+ | [ia](/f34/language/ia) | 380 | 459 | 82.8 | /mnt/stockage/packages/f34/wike/po/ia.po | 
+ | [el](/f34/language/el) | 252 | 390 | 64.6 | /mnt/stockage/packages/f34/wike/po/el.po | 
+ | [ca](/f34/language/ca) | 31 | 459 | 6.8 | /mnt/stockage/packages/f34/wike/po/ca.po | 
 {.sortable}
 
 

@@ -18,8 +18,8 @@ The package wastesedge (version 0.3.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [it]({{< ref "/f15/language/it.md" >}}) | 19975 | 19975 | 100.0 | /mnt/stockage/packages/f15/wastesedge/po/it.po | 
- | [nl]({{< ref "/f15/language/nl.md" >}}) | 19975 | 19975 | 100.0 | /mnt/stockage/packages/f15/wastesedge/po/nl.po | 
+ | [it](/f15/language/it) | 19975 | 19975 | 100.0 | /mnt/stockage/packages/f15/wastesedge/po/it.po | 
+ | [nl](/f15/language/nl) | 19975 | 19975 | 100.0 | /mnt/stockage/packages/f15/wastesedge/po/nl.po | 
 {.sortable}
 
 

@@ -18,10 +18,10 @@ The package libqalculate (version 3.1.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [sv]({{< ref "/f31/language/sv.md" >}}) | 8713 | 10152 | 85.8 | /mnt/stockage/packages/f31/libqalculate/po/sv.po/mnt/stockage/packages/f31/libqalculate/po-defs/sv.po | 
- | [nl]({{< ref "/f31/language/nl.md" >}}) | 5857 | 10152 | 57.7 | /mnt/stockage/packages/f31/libqalculate/po/nl.po/mnt/stockage/packages/f31/libqalculate/po-defs/nl.po | 
- | [zh_Hans]({{< ref "/f31/language/zh_Hans.md" >}}) | 5454 | 10152 | 53.7 | /mnt/stockage/packages/f31/libqalculate/po/zh_CN.po/mnt/stockage/packages/f31/libqalculate/po-defs/zh_CN.po | 
- | [fr]({{< ref "/f31/language/fr.md" >}}) | 5114 | 10152 | 50.4 | /mnt/stockage/packages/f31/libqalculate/po/fr.po/mnt/stockage/packages/f31/libqalculate/po-defs/fr.po | 
+ | [sv](/f31/language/sv) | 8713 | 10152 | 85.8 | /mnt/stockage/packages/f31/libqalculate/po/sv.po/mnt/stockage/packages/f31/libqalculate/po-defs/sv.po | 
+ | [nl](/f31/language/nl) | 5857 | 10152 | 57.7 | /mnt/stockage/packages/f31/libqalculate/po/nl.po/mnt/stockage/packages/f31/libqalculate/po-defs/nl.po | 
+ | [zh_Hans](/f31/language/zh_Hans) | 5454 | 10152 | 53.7 | /mnt/stockage/packages/f31/libqalculate/po/zh_CN.po/mnt/stockage/packages/f31/libqalculate/po-defs/zh_CN.po | 
+ | [fr](/f31/language/fr) | 5114 | 10152 | 50.4 | /mnt/stockage/packages/f31/libqalculate/po/fr.po/mnt/stockage/packages/f31/libqalculate/po-defs/fr.po | 
 {.sortable}
 
 

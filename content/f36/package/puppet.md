@@ -18,8 +18,8 @@ The package puppet (version 7.20.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [en]({{< ref "/f36/language/en.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f36/puppet/locales/en/puppet.po/mnt/stockage/packages/f36/puppet/spec/fixtures/integration/l10n/envs/prod/modules/demo/locales/ja/puppet-l10n.po | 
- | [ja]({{< ref "/f36/language/ja.md" >}}) | 619 | 619 | 100.0 | /mnt/stockage/packages/f36/puppet/locales/ja/puppetlabs-augeas_core.po/mnt/stockage/packages/f36/puppet/locales/ja/puppetlabs-cron_core.po/mnt/stockage/packages/f36/puppet/locales/ja/puppetlabs-host_core.po/mnt/stockage/packages/f36/puppet/locales/ja/puppetlabs-mount_core.po/mnt/stockage/packages/f36/puppet/locales/ja/puppetlabs-selinux_core.po/mnt/stockage/packages/f36/puppet/locales/ja/puppetlabs-sshkeys_core.po/mnt/stockage/packages/f36/puppet/locales/ja/puppetlabs-yumrepo_core.po/mnt/stockage/packages/f36/puppet/locales/ja/puppetlabs-zfs_core.po/mnt/stockage/packages/f36/puppet/locales/ja/puppetlabs-zone_core.po | 
+ | [en](/f36/language/en) | 4 | 4 | 100.0 | /mnt/stockage/packages/f36/puppet/locales/en/puppet.po/mnt/stockage/packages/f36/puppet/spec/fixtures/integration/l10n/envs/prod/modules/demo/locales/ja/puppet-l10n.po | 
+ | [ja](/f36/language/ja) | 619 | 619 | 100.0 | /mnt/stockage/packages/f36/puppet/locales/ja/puppetlabs-augeas_core.po/mnt/stockage/packages/f36/puppet/locales/ja/puppetlabs-cron_core.po/mnt/stockage/packages/f36/puppet/locales/ja/puppetlabs-host_core.po/mnt/stockage/packages/f36/puppet/locales/ja/puppetlabs-mount_core.po/mnt/stockage/packages/f36/puppet/locales/ja/puppetlabs-selinux_core.po/mnt/stockage/packages/f36/puppet/locales/ja/puppetlabs-sshkeys_core.po/mnt/stockage/packages/f36/puppet/locales/ja/puppetlabs-yumrepo_core.po/mnt/stockage/packages/f36/puppet/locales/ja/puppetlabs-zfs_core.po/mnt/stockage/packages/f36/puppet/locales/ja/puppetlabs-zone_core.po | 
 {.sortable}
 
 

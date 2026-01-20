@@ -18,12 +18,12 @@ The package w3m (version 0.5.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [it]({{< ref "/f34/language/it.md" >}}) | 953 | 953 | 100.0 | /mnt/stockage/packages/f34/w3m/po/it.po | 
- | [sv]({{< ref "/f34/language/sv.md" >}}) | 953 | 953 | 100.0 | /mnt/stockage/packages/f34/w3m/po/sv_SE.po | 
- | [ja]({{< ref "/f34/language/ja.md" >}}) | 943 | 953 | 99.0 | /mnt/stockage/packages/f34/w3m/po/ja.po | 
- | [de]({{< ref "/f34/language/de.md" >}}) | 907 | 953 | 95.2 | /mnt/stockage/packages/f34/w3m/po/de.po | 
- | [zh_Hant]({{< ref "/f34/language/zh_Hant.md" >}}) | 907 | 953 | 95.2 | /mnt/stockage/packages/f34/w3m/po/zh_TW.po | 
- | [zh_Hans]({{< ref "/f34/language/zh_Hans.md" >}}) | 903 | 953 | 94.8 | /mnt/stockage/packages/f34/w3m/po/zh_CN.po | 
+ | [it](/f34/language/it) | 953 | 953 | 100.0 | /mnt/stockage/packages/f34/w3m/po/it.po | 
+ | [sv](/f34/language/sv) | 953 | 953 | 100.0 | /mnt/stockage/packages/f34/w3m/po/sv_SE.po | 
+ | [ja](/f34/language/ja) | 943 | 953 | 99.0 | /mnt/stockage/packages/f34/w3m/po/ja.po | 
+ | [de](/f34/language/de) | 907 | 953 | 95.2 | /mnt/stockage/packages/f34/w3m/po/de.po | 
+ | [zh_Hant](/f34/language/zh_Hant) | 907 | 953 | 95.2 | /mnt/stockage/packages/f34/w3m/po/zh_TW.po | 
+ | [zh_Hans](/f34/language/zh_Hans) | 903 | 953 | 94.8 | /mnt/stockage/packages/f34/w3m/po/zh_CN.po | 
 {.sortable}
 
 

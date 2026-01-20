@@ -18,17 +18,17 @@ The package tin (version 2.6.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [en_GB]({{< ref "/f40/language/en_GB.md" >}}) | 37428 | 37428 | 100.0 | /mnt/stockage/packages/f40/tin/doc/l10n/en_GB.po/mnt/stockage/packages/f40/tin/po/en_GB.po | 
- | [et]({{< ref "/f40/language/et.md" >}}) | 11275 | 11945 | 94.4 | /mnt/stockage/packages/f40/tin/po/et.po | 
- | [fr]({{< ref "/f40/language/fr.md" >}}) | 11273 | 11945 | 94.4 | /mnt/stockage/packages/f40/tin/po/fr.po | 
- | [tr]({{< ref "/f40/language/tr.md" >}}) | 10303 | 11945 | 86.3 | /mnt/stockage/packages/f40/tin/po/tr.po | 
- | [zh_Hans]({{< ref "/f40/language/zh_Hans.md" >}}) | 10027 | 11945 | 83.9 | /mnt/stockage/packages/f40/tin/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f40/language/zh_Hant.md" >}}) | 10027 | 11945 | 83.9 | /mnt/stockage/packages/f40/tin/po/zh_TW.po | 
- | [da]({{< ref "/f40/language/da.md" >}}) | 9228 | 11945 | 77.3 | /mnt/stockage/packages/f40/tin/po/da.po | 
- | [de]({{< ref "/f40/language/de.md" >}}) | 24743 | 37428 | 66.1 | /mnt/stockage/packages/f40/tin/doc/l10n/de.po/mnt/stockage/packages/f40/tin/po/de.po | 
- | [ru]({{< ref "/f40/language/ru.md" >}}) | 6576 | 11945 | 55.1 | /mnt/stockage/packages/f40/tin/po/ru.po | 
- | [sv]({{< ref "/f40/language/sv.md" >}}) | 996 | 11945 | 8.3 | /mnt/stockage/packages/f40/tin/po/sv.po | 
- | [es]({{< ref "/f40/language/es.md" >}}) | 1145 | 37428 | 3.1 | /mnt/stockage/packages/f40/tin/doc/l10n/es.po/mnt/stockage/packages/f40/tin/po/es.po | 
+ | [en_GB](/f40/language/en_GB) | 37428 | 37428 | 100.0 | /mnt/stockage/packages/f40/tin/doc/l10n/en_GB.po/mnt/stockage/packages/f40/tin/po/en_GB.po | 
+ | [et](/f40/language/et) | 11275 | 11945 | 94.4 | /mnt/stockage/packages/f40/tin/po/et.po | 
+ | [fr](/f40/language/fr) | 11273 | 11945 | 94.4 | /mnt/stockage/packages/f40/tin/po/fr.po | 
+ | [tr](/f40/language/tr) | 10303 | 11945 | 86.3 | /mnt/stockage/packages/f40/tin/po/tr.po | 
+ | [zh_Hans](/f40/language/zh_Hans) | 10027 | 11945 | 83.9 | /mnt/stockage/packages/f40/tin/po/zh_CN.po | 
+ | [zh_Hant](/f40/language/zh_Hant) | 10027 | 11945 | 83.9 | /mnt/stockage/packages/f40/tin/po/zh_TW.po | 
+ | [da](/f40/language/da) | 9228 | 11945 | 77.3 | /mnt/stockage/packages/f40/tin/po/da.po | 
+ | [de](/f40/language/de) | 24743 | 37428 | 66.1 | /mnt/stockage/packages/f40/tin/doc/l10n/de.po/mnt/stockage/packages/f40/tin/po/de.po | 
+ | [ru](/f40/language/ru) | 6576 | 11945 | 55.1 | /mnt/stockage/packages/f40/tin/po/ru.po | 
+ | [sv](/f40/language/sv) | 996 | 11945 | 8.3 | /mnt/stockage/packages/f40/tin/po/sv.po | 
+ | [es](/f40/language/es) | 1145 | 37428 | 3.1 | /mnt/stockage/packages/f40/tin/doc/l10n/es.po/mnt/stockage/packages/f40/tin/po/es.po | 
 {.sortable}
 
 

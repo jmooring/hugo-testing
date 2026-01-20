@@ -18,7 +18,7 @@ The package dbus-java (version 2.5.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [en_GB]({{< ref "/f11/language/en_GB.md" >}}) | 628 | 628 | 100.0 | /mnt/stockage/packages/f11/dbus-java/translations/en_GB.po | 
+ | [en_GB](/f11/language/en_GB) | 628 | 628 | 100.0 | /mnt/stockage/packages/f11/dbus-java/translations/en_GB.po | 
 {.sortable}
 
 

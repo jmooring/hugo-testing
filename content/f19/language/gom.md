@@ -38,7 +38,7 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [sugar-browse]({{< ref "/f19/package/sugar-browse.md" >}}) | 0 | 134 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-browse](/f19/package/sugar-browse) | 0 | 134 | 0.0 | LANGUAGE <LL@li.org> | 
 {.sortable}
 
 

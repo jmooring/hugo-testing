@@ -18,15 +18,15 @@ The package solaar (version 0.9.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f26/language/de.md" >}}) | 411 | 411 | 100.0 | /mnt/stockage/packages/f26/solaar/po/de.po | 
- | [en]({{< ref "/f26/language/en.md" >}}) | 140 | 140 | 100.0 | /mnt/stockage/packages/f26/solaar/packaging/debian/po/en.po | 
- | [es]({{< ref "/f26/language/es.md" >}}) | 411 | 411 | 100.0 | /mnt/stockage/packages/f26/solaar/po/es.po | 
- | [fr]({{< ref "/f26/language/fr.md" >}}) | 411 | 411 | 100.0 | /mnt/stockage/packages/f26/solaar/po/fr.po | 
- | [sv]({{< ref "/f26/language/sv.md" >}}) | 411 | 411 | 100.0 | /mnt/stockage/packages/f26/solaar/po/sv.po | 
- | [zh_Hans]({{< ref "/f26/language/zh_Hans.md" >}}) | 411 | 411 | 100.0 | /mnt/stockage/packages/f26/solaar/po/zh_CN.po | 
- | [pl]({{< ref "/f26/language/pl.md" >}}) | 398 | 411 | 96.8 | /mnt/stockage/packages/f26/solaar/po/pl.po | 
- | [ro]({{< ref "/f26/language/ro.md" >}}) | 375 | 411 | 91.2 | /mnt/stockage/packages/f26/solaar/po/ro.po | 
- | [el]({{< ref "/f26/language/el.md" >}}) | 338 | 411 | 82.2 | /mnt/stockage/packages/f26/solaar/po/el.po | 
+ | [de](/f26/language/de) | 411 | 411 | 100.0 | /mnt/stockage/packages/f26/solaar/po/de.po | 
+ | [en](/f26/language/en) | 140 | 140 | 100.0 | /mnt/stockage/packages/f26/solaar/packaging/debian/po/en.po | 
+ | [es](/f26/language/es) | 411 | 411 | 100.0 | /mnt/stockage/packages/f26/solaar/po/es.po | 
+ | [fr](/f26/language/fr) | 411 | 411 | 100.0 | /mnt/stockage/packages/f26/solaar/po/fr.po | 
+ | [sv](/f26/language/sv) | 411 | 411 | 100.0 | /mnt/stockage/packages/f26/solaar/po/sv.po | 
+ | [zh_Hans](/f26/language/zh_Hans) | 411 | 411 | 100.0 | /mnt/stockage/packages/f26/solaar/po/zh_CN.po | 
+ | [pl](/f26/language/pl) | 398 | 411 | 96.8 | /mnt/stockage/packages/f26/solaar/po/pl.po | 
+ | [ro](/f26/language/ro) | 375 | 411 | 91.2 | /mnt/stockage/packages/f26/solaar/po/ro.po | 
+ | [el](/f26/language/el) | 338 | 411 | 82.2 | /mnt/stockage/packages/f26/solaar/po/el.po | 
 {.sortable}
 
 

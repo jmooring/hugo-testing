@@ -18,21 +18,21 @@ The package unixcw (version 3.5.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f24/language/cs.md" >}}) | 85 | 85 | 100.0 | /mnt/stockage/packages/f24/unixcw/debian/po/cs.po | 
- | [da]({{< ref "/f24/language/da.md" >}}) | 85 | 85 | 100.0 | /mnt/stockage/packages/f24/unixcw/debian/po/da.po | 
- | [de]({{< ref "/f24/language/de.md" >}}) | 85 | 85 | 100.0 | /mnt/stockage/packages/f24/unixcw/debian/po/de.po | 
- | [es]({{< ref "/f24/language/es.md" >}}) | 85 | 85 | 100.0 | /mnt/stockage/packages/f24/unixcw/debian/po/es.po | 
- | [fr]({{< ref "/f24/language/fr.md" >}}) | 85 | 85 | 100.0 | /mnt/stockage/packages/f24/unixcw/debian/po/fr.po | 
- | [id]({{< ref "/f24/language/id.md" >}}) | 85 | 85 | 100.0 | /mnt/stockage/packages/f24/unixcw/debian/po/id.po | 
- | [it]({{< ref "/f24/language/it.md" >}}) | 85 | 85 | 100.0 | /mnt/stockage/packages/f24/unixcw/debian/po/it.po | 
- | [ja]({{< ref "/f24/language/ja.md" >}}) | 85 | 85 | 100.0 | /mnt/stockage/packages/f24/unixcw/debian/po/ja.po | 
- | [nl]({{< ref "/f24/language/nl.md" >}}) | 85 | 85 | 100.0 | /mnt/stockage/packages/f24/unixcw/debian/po/nl.po | 
- | [pl]({{< ref "/f24/language/pl.md" >}}) | 85 | 85 | 100.0 | /mnt/stockage/packages/f24/unixcw/debian/po/pl.po | 
- | [pt]({{< ref "/f24/language/pt.md" >}}) | 85 | 85 | 100.0 | /mnt/stockage/packages/f24/unixcw/debian/po/pt.po | 
- | [ru]({{< ref "/f24/language/ru.md" >}}) | 85 | 85 | 100.0 | /mnt/stockage/packages/f24/unixcw/debian/po/ru.po | 
- | [sk]({{< ref "/f24/language/sk.md" >}}) | 85 | 85 | 100.0 | /mnt/stockage/packages/f24/unixcw/debian/po/sk.po | 
- | [sv]({{< ref "/f24/language/sv.md" >}}) | 85 | 85 | 100.0 | /mnt/stockage/packages/f24/unixcw/debian/po/sv.po | 
- | [ast]({{< ref "/f24/language/ast.md" >}}) | 0 | 85 | 0.0 | /mnt/stockage/packages/f24/unixcw/debian/po/ast.po | 
+ | [cs](/f24/language/cs) | 85 | 85 | 100.0 | /mnt/stockage/packages/f24/unixcw/debian/po/cs.po | 
+ | [da](/f24/language/da) | 85 | 85 | 100.0 | /mnt/stockage/packages/f24/unixcw/debian/po/da.po | 
+ | [de](/f24/language/de) | 85 | 85 | 100.0 | /mnt/stockage/packages/f24/unixcw/debian/po/de.po | 
+ | [es](/f24/language/es) | 85 | 85 | 100.0 | /mnt/stockage/packages/f24/unixcw/debian/po/es.po | 
+ | [fr](/f24/language/fr) | 85 | 85 | 100.0 | /mnt/stockage/packages/f24/unixcw/debian/po/fr.po | 
+ | [id](/f24/language/id) | 85 | 85 | 100.0 | /mnt/stockage/packages/f24/unixcw/debian/po/id.po | 
+ | [it](/f24/language/it) | 85 | 85 | 100.0 | /mnt/stockage/packages/f24/unixcw/debian/po/it.po | 
+ | [ja](/f24/language/ja) | 85 | 85 | 100.0 | /mnt/stockage/packages/f24/unixcw/debian/po/ja.po | 
+ | [nl](/f24/language/nl) | 85 | 85 | 100.0 | /mnt/stockage/packages/f24/unixcw/debian/po/nl.po | 
+ | [pl](/f24/language/pl) | 85 | 85 | 100.0 | /mnt/stockage/packages/f24/unixcw/debian/po/pl.po | 
+ | [pt](/f24/language/pt) | 85 | 85 | 100.0 | /mnt/stockage/packages/f24/unixcw/debian/po/pt.po | 
+ | [ru](/f24/language/ru) | 85 | 85 | 100.0 | /mnt/stockage/packages/f24/unixcw/debian/po/ru.po | 
+ | [sk](/f24/language/sk) | 85 | 85 | 100.0 | /mnt/stockage/packages/f24/unixcw/debian/po/sk.po | 
+ | [sv](/f24/language/sv) | 85 | 85 | 100.0 | /mnt/stockage/packages/f24/unixcw/debian/po/sv.po | 
+ | [ast](/f24/language/ast) | 0 | 85 | 0.0 | /mnt/stockage/packages/f24/unixcw/debian/po/ast.po | 
 {.sortable}
 
 

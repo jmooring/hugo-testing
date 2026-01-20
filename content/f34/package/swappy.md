@@ -18,11 +18,11 @@ The package swappy (version 1.4.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f34/language/de.md" >}}) | 19 | 19 | 100.0 | /mnt/stockage/packages/f34/swappy/src/po/de.po | 
- | [en]({{< ref "/f34/language/en.md" >}}) | 19 | 19 | 100.0 | /mnt/stockage/packages/f34/swappy/src/po/en.po | 
- | [fr]({{< ref "/f34/language/fr.md" >}}) | 19 | 19 | 100.0 | /mnt/stockage/packages/f34/swappy/src/po/fr.po | 
- | [pt_BR]({{< ref "/f34/language/pt_BR.md" >}}) | 19 | 19 | 100.0 | /mnt/stockage/packages/f34/swappy/src/po/pt_BR.po | 
- | [tr]({{< ref "/f34/language/tr.md" >}}) | 19 | 19 | 100.0 | /mnt/stockage/packages/f34/swappy/src/po/tr.po | 
+ | [de](/f34/language/de) | 19 | 19 | 100.0 | /mnt/stockage/packages/f34/swappy/src/po/de.po | 
+ | [en](/f34/language/en) | 19 | 19 | 100.0 | /mnt/stockage/packages/f34/swappy/src/po/en.po | 
+ | [fr](/f34/language/fr) | 19 | 19 | 100.0 | /mnt/stockage/packages/f34/swappy/src/po/fr.po | 
+ | [pt_BR](/f34/language/pt_BR) | 19 | 19 | 100.0 | /mnt/stockage/packages/f34/swappy/src/po/pt_BR.po | 
+ | [tr](/f34/language/tr) | 19 | 19 | 100.0 | /mnt/stockage/packages/f34/swappy/src/po/tr.po | 
 {.sortable}
 
 

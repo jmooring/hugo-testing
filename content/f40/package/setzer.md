@@ -18,11 +18,11 @@ The package setzer (version 65):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [es]({{< ref "/f40/language/es.md" >}}) | 3110 | 3110 | 100.0 | /mnt/stockage/packages/f40/setzer/po/es.po | 
- | [it]({{< ref "/f40/language/it.md" >}}) | 2508 | 3110 | 80.6 | /mnt/stockage/packages/f40/setzer/po/it.po | 
- | [pt_BR]({{< ref "/f40/language/pt_BR.md" >}}) | 2412 | 3110 | 77.6 | /mnt/stockage/packages/f40/setzer/po/pt_BR.po | 
- | [de]({{< ref "/f40/language/de.md" >}}) | 2221 | 3110 | 71.4 | /mnt/stockage/packages/f40/setzer/po/de.po | 
- | [zh_Hans]({{< ref "/f40/language/zh_Hans.md" >}}) | 1007 | 3110 | 32.4 | /mnt/stockage/packages/f40/setzer/po/zh_CN.po | 
+ | [es](/f40/language/es) | 3110 | 3110 | 100.0 | /mnt/stockage/packages/f40/setzer/po/es.po | 
+ | [it](/f40/language/it) | 2508 | 3110 | 80.6 | /mnt/stockage/packages/f40/setzer/po/it.po | 
+ | [pt_BR](/f40/language/pt_BR) | 2412 | 3110 | 77.6 | /mnt/stockage/packages/f40/setzer/po/pt_BR.po | 
+ | [de](/f40/language/de) | 2221 | 3110 | 71.4 | /mnt/stockage/packages/f40/setzer/po/de.po | 
+ | [zh_Hans](/f40/language/zh_Hans) | 1007 | 3110 | 32.4 | /mnt/stockage/packages/f40/setzer/po/zh_CN.po | 
 {.sortable}
 
 

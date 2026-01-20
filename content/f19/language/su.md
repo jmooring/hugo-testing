@@ -38,9 +38,9 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [stellarium]({{< ref "/f19/package/stellarium.md" >}}) | 3 | 11181 | 0.0 | Sundanese <su@li.org> | 
- | [owncloud]({{< ref "/f19/package/owncloud.md" >}}) | 0 | 7225 | 0.0 | Sundanese (http://www.transifex.com/projects/p/owncloud/language/su/) | 
- | [vidalia]({{< ref "/f19/package/vidalia.md" >}}) | 0 | 10369 | 0.0 | translations@vidalia-project.net | 
+ | [stellarium](/f19/package/stellarium) | 3 | 11181 | 0.0 | Sundanese <su@li.org> | 
+ | [owncloud](/f19/package/owncloud) | 0 | 7225 | 0.0 | Sundanese (http://www.transifex.com/projects/p/owncloud/language/su/) | 
+ | [vidalia](/f19/package/vidalia) | 0 | 10369 | 0.0 | translations@vidalia-project.net | 
 {.sortable}
 
 

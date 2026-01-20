@@ -18,13 +18,13 @@ The package xen (version 4.7.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f25/language/de.md" >}}) | 32 | 32 | 100.0 | /mnt/stockage/packages/f25/xen/tools/qemu-xen/po/de_DE.po | 
- | [fr]({{< ref "/f25/language/fr.md" >}}) | 32 | 32 | 100.0 | /mnt/stockage/packages/f25/xen/tools/qemu-xen/po/fr_FR.po | 
- | [hu]({{< ref "/f25/language/hu.md" >}}) | 22 | 22 | 100.0 | /mnt/stockage/packages/f25/xen/tools/qemu-xen/po/hu.po | 
- | [it]({{< ref "/f25/language/it.md" >}}) | 31 | 31 | 100.0 | /mnt/stockage/packages/f25/xen/tools/qemu-xen/po/it.po | 
- | [tr]({{< ref "/f25/language/tr.md" >}}) | 22 | 22 | 100.0 | /mnt/stockage/packages/f25/xen/tools/qemu-xen/po/tr.po | 
- | [zh_Hans]({{< ref "/f25/language/zh_Hans.md" >}}) | 32 | 32 | 100.0 | /mnt/stockage/packages/f25/xen/tools/qemu-xen/po/zh_CN.po | 
- | [error]({{< ref "/f25/language/error.md" >}}) | 0 | 22 | 0.0 | /mnt/stockage/packages/f25/xen/tools/qemu-xen/po/messages.po | 
+ | [de](/f25/language/de) | 32 | 32 | 100.0 | /mnt/stockage/packages/f25/xen/tools/qemu-xen/po/de_DE.po | 
+ | [fr](/f25/language/fr) | 32 | 32 | 100.0 | /mnt/stockage/packages/f25/xen/tools/qemu-xen/po/fr_FR.po | 
+ | [hu](/f25/language/hu) | 22 | 22 | 100.0 | /mnt/stockage/packages/f25/xen/tools/qemu-xen/po/hu.po | 
+ | [it](/f25/language/it) | 31 | 31 | 100.0 | /mnt/stockage/packages/f25/xen/tools/qemu-xen/po/it.po | 
+ | [tr](/f25/language/tr) | 22 | 22 | 100.0 | /mnt/stockage/packages/f25/xen/tools/qemu-xen/po/tr.po | 
+ | [zh_Hans](/f25/language/zh_Hans) | 32 | 32 | 100.0 | /mnt/stockage/packages/f25/xen/tools/qemu-xen/po/zh_CN.po | 
+ | [error](/f25/language/error) | 0 | 22 | 0.0 | /mnt/stockage/packages/f25/xen/tools/qemu-xen/po/messages.po | 
 {.sortable}
 
 

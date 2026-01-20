@@ -18,29 +18,29 @@ The package python-fedora (version 0.6.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [uk]({{< ref "/f21/language/uk.md" >}}) | 214 | 214 | 100.0 | /mnt/stockage/packages/f21/python-fedora/translations/uk.po | 
- | [da]({{< ref "/f21/language/da.md" >}}) | 212 | 214 | 99.1 | /mnt/stockage/packages/f21/python-fedora/translations/da.po | 
- | [es]({{< ref "/f21/language/es.md" >}}) | 212 | 214 | 99.1 | /mnt/stockage/packages/f21/python-fedora/translations/es.po | 
- | [fr]({{< ref "/f21/language/fr.md" >}}) | 212 | 214 | 99.1 | /mnt/stockage/packages/f21/python-fedora/translations/fr.po | 
- | [hu]({{< ref "/f21/language/hu.md" >}}) | 212 | 214 | 99.1 | /mnt/stockage/packages/f21/python-fedora/translations/hu.po | 
- | [it]({{< ref "/f21/language/it.md" >}}) | 212 | 214 | 99.1 | /mnt/stockage/packages/f21/python-fedora/translations/it.po | 
- | [ja]({{< ref "/f21/language/ja.md" >}}) | 212 | 214 | 99.1 | /mnt/stockage/packages/f21/python-fedora/translations/ja.po | 
- | [nl]({{< ref "/f21/language/nl.md" >}}) | 212 | 214 | 99.1 | /mnt/stockage/packages/f21/python-fedora/translations/nl.po | 
- | [pl]({{< ref "/f21/language/pl.md" >}}) | 212 | 214 | 99.1 | /mnt/stockage/packages/f21/python-fedora/translations/pl.po | 
- | [pt_BR]({{< ref "/f21/language/pt_BR.md" >}}) | 212 | 214 | 99.1 | /mnt/stockage/packages/f21/python-fedora/translations/pt_BR.po | 
- | [sv]({{< ref "/f21/language/sv.md" >}}) | 212 | 214 | 99.1 | /mnt/stockage/packages/f21/python-fedora/translations/sv.po | 
- | [zh_Hans]({{< ref "/f21/language/zh_Hans.md" >}}) | 212 | 214 | 99.1 | /mnt/stockage/packages/f21/python-fedora/translations/zh_CN.po | 
- | [ca]({{< ref "/f21/language/ca.md" >}}) | 197 | 214 | 92.1 | /mnt/stockage/packages/f21/python-fedora/translations/ca.po | 
- | [th]({{< ref "/f21/language/th.md" >}}) | 197 | 214 | 92.1 | /mnt/stockage/packages/f21/python-fedora/translations/th.po | 
- | [de]({{< ref "/f21/language/de.md" >}}) | 139 | 214 | 65.0 | /mnt/stockage/packages/f21/python-fedora/translations/de.po | 
- | [pt]({{< ref "/f21/language/pt.md" >}}) | 78 | 214 | 36.4 | /mnt/stockage/packages/f21/python-fedora/translations/pt.po | 
- | [tr]({{< ref "/f21/language/tr.md" >}}) | 67 | 214 | 31.3 | /mnt/stockage/packages/f21/python-fedora/translations/tr.po | 
- | [zh_Hant]({{< ref "/f21/language/zh_Hant.md" >}}) | 61 | 214 | 28.5 | /mnt/stockage/packages/f21/python-fedora/translations/zh_TW.po | 
- | [cs]({{< ref "/f21/language/cs.md" >}}) | 49 | 214 | 22.9 | /mnt/stockage/packages/f21/python-fedora/translations/cs.po | 
- | [ru]({{< ref "/f21/language/ru.md" >}}) | 29 | 214 | 13.6 | /mnt/stockage/packages/f21/python-fedora/translations/ru.po | 
- | [el]({{< ref "/f21/language/el.md" >}}) | 0 | 214 | 0.0 | /mnt/stockage/packages/f21/python-fedora/translations/el_GR.po | 
- | [id]({{< ref "/f21/language/id.md" >}}) | 0 | 214 | 0.0 | /mnt/stockage/packages/f21/python-fedora/translations/id.po | 
- | [nb_NO]({{< ref "/f21/language/nb_NO.md" >}}) | 0 | 214 | 0.0 | /mnt/stockage/packages/f21/python-fedora/translations/nb.po | 
+ | [uk](/f21/language/uk) | 214 | 214 | 100.0 | /mnt/stockage/packages/f21/python-fedora/translations/uk.po | 
+ | [da](/f21/language/da) | 212 | 214 | 99.1 | /mnt/stockage/packages/f21/python-fedora/translations/da.po | 
+ | [es](/f21/language/es) | 212 | 214 | 99.1 | /mnt/stockage/packages/f21/python-fedora/translations/es.po | 
+ | [fr](/f21/language/fr) | 212 | 214 | 99.1 | /mnt/stockage/packages/f21/python-fedora/translations/fr.po | 
+ | [hu](/f21/language/hu) | 212 | 214 | 99.1 | /mnt/stockage/packages/f21/python-fedora/translations/hu.po | 
+ | [it](/f21/language/it) | 212 | 214 | 99.1 | /mnt/stockage/packages/f21/python-fedora/translations/it.po | 
+ | [ja](/f21/language/ja) | 212 | 214 | 99.1 | /mnt/stockage/packages/f21/python-fedora/translations/ja.po | 
+ | [nl](/f21/language/nl) | 212 | 214 | 99.1 | /mnt/stockage/packages/f21/python-fedora/translations/nl.po | 
+ | [pl](/f21/language/pl) | 212 | 214 | 99.1 | /mnt/stockage/packages/f21/python-fedora/translations/pl.po | 
+ | [pt_BR](/f21/language/pt_BR) | 212 | 214 | 99.1 | /mnt/stockage/packages/f21/python-fedora/translations/pt_BR.po | 
+ | [sv](/f21/language/sv) | 212 | 214 | 99.1 | /mnt/stockage/packages/f21/python-fedora/translations/sv.po | 
+ | [zh_Hans](/f21/language/zh_Hans) | 212 | 214 | 99.1 | /mnt/stockage/packages/f21/python-fedora/translations/zh_CN.po | 
+ | [ca](/f21/language/ca) | 197 | 214 | 92.1 | /mnt/stockage/packages/f21/python-fedora/translations/ca.po | 
+ | [th](/f21/language/th) | 197 | 214 | 92.1 | /mnt/stockage/packages/f21/python-fedora/translations/th.po | 
+ | [de](/f21/language/de) | 139 | 214 | 65.0 | /mnt/stockage/packages/f21/python-fedora/translations/de.po | 
+ | [pt](/f21/language/pt) | 78 | 214 | 36.4 | /mnt/stockage/packages/f21/python-fedora/translations/pt.po | 
+ | [tr](/f21/language/tr) | 67 | 214 | 31.3 | /mnt/stockage/packages/f21/python-fedora/translations/tr.po | 
+ | [zh_Hant](/f21/language/zh_Hant) | 61 | 214 | 28.5 | /mnt/stockage/packages/f21/python-fedora/translations/zh_TW.po | 
+ | [cs](/f21/language/cs) | 49 | 214 | 22.9 | /mnt/stockage/packages/f21/python-fedora/translations/cs.po | 
+ | [ru](/f21/language/ru) | 29 | 214 | 13.6 | /mnt/stockage/packages/f21/python-fedora/translations/ru.po | 
+ | [el](/f21/language/el) | 0 | 214 | 0.0 | /mnt/stockage/packages/f21/python-fedora/translations/el_GR.po | 
+ | [id](/f21/language/id) | 0 | 214 | 0.0 | /mnt/stockage/packages/f21/python-fedora/translations/id.po | 
+ | [nb_NO](/f21/language/nb_NO) | 0 | 214 | 0.0 | /mnt/stockage/packages/f21/python-fedora/translations/nb.po | 
 {.sortable}
 
 

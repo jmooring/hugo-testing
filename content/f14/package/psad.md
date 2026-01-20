@@ -18,18 +18,18 @@ The package psad (version 2.1.7):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f14/language/fr.md" >}}) | 432 | 432 | 100.0 | /mnt/stockage/packages/f14/psad/deps/whois/po/fr.po | 
- | [it]({{< ref "/f14/language/it.md" >}}) | 432 | 432 | 100.0 | /mnt/stockage/packages/f14/psad/deps/whois/po/it.po | 
- | [cs]({{< ref "/f14/language/cs.md" >}}) | 338 | 432 | 78.2 | /mnt/stockage/packages/f14/psad/deps/whois/po/cs.po | 
- | [pl]({{< ref "/f14/language/pl.md" >}}) | 338 | 432 | 78.2 | /mnt/stockage/packages/f14/psad/deps/whois/po/pl.po | 
- | [el]({{< ref "/f14/language/el.md" >}}) | 327 | 432 | 75.7 | /mnt/stockage/packages/f14/psad/deps/whois/po/el.po | 
- | [ja]({{< ref "/f14/language/ja.md" >}}) | 327 | 432 | 75.7 | /mnt/stockage/packages/f14/psad/deps/whois/po/ja.po | 
- | [pt_BR]({{< ref "/f14/language/pt_BR.md" >}}) | 327 | 432 | 75.7 | /mnt/stockage/packages/f14/psad/deps/whois/po/pt_BR.po | 
- | [ru]({{< ref "/f14/language/ru.md" >}}) | 327 | 432 | 75.7 | /mnt/stockage/packages/f14/psad/deps/whois/po/ru.po | 
- | [de]({{< ref "/f14/language/de.md" >}}) | 135 | 432 | 31.2 | /mnt/stockage/packages/f14/psad/deps/whois/po/de.po | 
- | [eu]({{< ref "/f14/language/eu.md" >}}) | 113 | 432 | 26.2 | /mnt/stockage/packages/f14/psad/deps/whois/po/eu.po | 
- | [es]({{< ref "/f14/language/es.md" >}}) | 91 | 432 | 21.1 | /mnt/stockage/packages/f14/psad/deps/whois/po/es.po | 
- | [nb_NO]({{< ref "/f14/language/nb_NO.md" >}}) | 15 | 432 | 3.5 | /mnt/stockage/packages/f14/psad/deps/whois/po/no.po | 
+ | [fr](/f14/language/fr) | 432 | 432 | 100.0 | /mnt/stockage/packages/f14/psad/deps/whois/po/fr.po | 
+ | [it](/f14/language/it) | 432 | 432 | 100.0 | /mnt/stockage/packages/f14/psad/deps/whois/po/it.po | 
+ | [cs](/f14/language/cs) | 338 | 432 | 78.2 | /mnt/stockage/packages/f14/psad/deps/whois/po/cs.po | 
+ | [pl](/f14/language/pl) | 338 | 432 | 78.2 | /mnt/stockage/packages/f14/psad/deps/whois/po/pl.po | 
+ | [el](/f14/language/el) | 327 | 432 | 75.7 | /mnt/stockage/packages/f14/psad/deps/whois/po/el.po | 
+ | [ja](/f14/language/ja) | 327 | 432 | 75.7 | /mnt/stockage/packages/f14/psad/deps/whois/po/ja.po | 
+ | [pt_BR](/f14/language/pt_BR) | 327 | 432 | 75.7 | /mnt/stockage/packages/f14/psad/deps/whois/po/pt_BR.po | 
+ | [ru](/f14/language/ru) | 327 | 432 | 75.7 | /mnt/stockage/packages/f14/psad/deps/whois/po/ru.po | 
+ | [de](/f14/language/de) | 135 | 432 | 31.2 | /mnt/stockage/packages/f14/psad/deps/whois/po/de.po | 
+ | [eu](/f14/language/eu) | 113 | 432 | 26.2 | /mnt/stockage/packages/f14/psad/deps/whois/po/eu.po | 
+ | [es](/f14/language/es) | 91 | 432 | 21.1 | /mnt/stockage/packages/f14/psad/deps/whois/po/es.po | 
+ | [nb_NO](/f14/language/nb_NO) | 15 | 432 | 3.5 | /mnt/stockage/packages/f14/psad/deps/whois/po/no.po | 
 {.sortable}
 
 

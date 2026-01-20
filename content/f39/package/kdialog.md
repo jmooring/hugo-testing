@@ -18,95 +18,95 @@ The package kdialog (version 23.08.5):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [bg]({{< ref "/f39/language/bg.md" >}}) | 391 | 391 | 100.0 | /mnt/stockage/packages/f39/kdialog/po/bg/kdialog.po | 
- | [ca]({{< ref "/f39/language/ca.md" >}}) | 391 | 391 | 100.0 | /mnt/stockage/packages/f39/kdialog/po/ca/kdialog.po | 
- | [ca@valencia]({{< ref "/f39/language/ca@valencia.md" >}}) | 391 | 391 | 100.0 | /mnt/stockage/packages/f39/kdialog/po/ca@valencia/kdialog.po | 
- | [de]({{< ref "/f39/language/de.md" >}}) | 391 | 391 | 100.0 | /mnt/stockage/packages/f39/kdialog/po/de/kdialog.po | 
- | [en_GB]({{< ref "/f39/language/en_GB.md" >}}) | 391 | 391 | 100.0 | /mnt/stockage/packages/f39/kdialog/po/en_GB/kdialog.po | 
- | [eo]({{< ref "/f39/language/eo.md" >}}) | 391 | 391 | 100.0 | /mnt/stockage/packages/f39/kdialog/po/eo/kdialog.po | 
- | [es]({{< ref "/f39/language/es.md" >}}) | 391 | 391 | 100.0 | /mnt/stockage/packages/f39/kdialog/po/es/kdialog.po | 
- | [eu]({{< ref "/f39/language/eu.md" >}}) | 391 | 391 | 100.0 | /mnt/stockage/packages/f39/kdialog/po/eu/kdialog.po | 
- | [fi]({{< ref "/f39/language/fi.md" >}}) | 391 | 391 | 100.0 | /mnt/stockage/packages/f39/kdialog/po/fi/kdialog.po | 
- | [fr]({{< ref "/f39/language/fr.md" >}}) | 391 | 391 | 100.0 | /mnt/stockage/packages/f39/kdialog/po/fr/kdialog.po | 
- | [gl]({{< ref "/f39/language/gl.md" >}}) | 391 | 391 | 100.0 | /mnt/stockage/packages/f39/kdialog/po/gl/kdialog.po | 
- | [ia]({{< ref "/f39/language/ia.md" >}}) | 391 | 391 | 100.0 | /mnt/stockage/packages/f39/kdialog/po/ia/kdialog.po | 
- | [it]({{< ref "/f39/language/it.md" >}}) | 391 | 391 | 100.0 | /mnt/stockage/packages/f39/kdialog/po/it/kdialog.po | 
- | [ka]({{< ref "/f39/language/ka.md" >}}) | 391 | 391 | 100.0 | /mnt/stockage/packages/f39/kdialog/po/ka/kdialog.po | 
- | [ko]({{< ref "/f39/language/ko.md" >}}) | 391 | 391 | 100.0 | /mnt/stockage/packages/f39/kdialog/po/ko/kdialog.po | 
- | [nl]({{< ref "/f39/language/nl.md" >}}) | 391 | 391 | 100.0 | /mnt/stockage/packages/f39/kdialog/po/nl/kdialog.po | 
- | [nn]({{< ref "/f39/language/nn.md" >}}) | 391 | 391 | 100.0 | /mnt/stockage/packages/f39/kdialog/po/nn/kdialog.po | 
- | [pl]({{< ref "/f39/language/pl.md" >}}) | 391 | 391 | 100.0 | /mnt/stockage/packages/f39/kdialog/po/pl/kdialog.po | 
- | [pt]({{< ref "/f39/language/pt.md" >}}) | 391 | 391 | 100.0 | /mnt/stockage/packages/f39/kdialog/po/pt/kdialog.po | 
- | [pt_BR]({{< ref "/f39/language/pt_BR.md" >}}) | 391 | 391 | 100.0 | /mnt/stockage/packages/f39/kdialog/po/pt_BR/kdialog.po | 
- | [ru]({{< ref "/f39/language/ru.md" >}}) | 391 | 391 | 100.0 | /mnt/stockage/packages/f39/kdialog/po/ru/kdialog.po | 
- | [sk]({{< ref "/f39/language/sk.md" >}}) | 391 | 391 | 100.0 | /mnt/stockage/packages/f39/kdialog/po/sk/kdialog.po | 
- | [sl]({{< ref "/f39/language/sl.md" >}}) | 391 | 391 | 100.0 | /mnt/stockage/packages/f39/kdialog/po/sl/kdialog.po | 
- | [sv]({{< ref "/f39/language/sv.md" >}}) | 391 | 391 | 100.0 | /mnt/stockage/packages/f39/kdialog/po/sv/kdialog.po | 
- | [tr]({{< ref "/f39/language/tr.md" >}}) | 391 | 391 | 100.0 | /mnt/stockage/packages/f39/kdialog/po/tr/kdialog.po | 
- | [uk]({{< ref "/f39/language/uk.md" >}}) | 391 | 391 | 100.0 | /mnt/stockage/packages/f39/kdialog/po/uk/kdialog.po | 
- | [zh_Hans]({{< ref "/f39/language/zh_Hans.md" >}}) | 391 | 391 | 100.0 | /mnt/stockage/packages/f39/kdialog/po/zh_CN/kdialog.po | 
- | [be]({{< ref "/f39/language/be.md" >}}) | 376 | 391 | 96.2 | /mnt/stockage/packages/f39/kdialog/po/be/kdialog.po | 
- | [el]({{< ref "/f39/language/el.md" >}}) | 376 | 391 | 96.2 | /mnt/stockage/packages/f39/kdialog/po/el/kdialog.po | 
- | [et]({{< ref "/f39/language/et.md" >}}) | 376 | 391 | 96.2 | /mnt/stockage/packages/f39/kdialog/po/et/kdialog.po | 
- | [hi]({{< ref "/f39/language/hi.md" >}}) | 376 | 391 | 96.2 | /mnt/stockage/packages/f39/kdialog/po/hi/kdialog.po | 
- | [hu]({{< ref "/f39/language/hu.md" >}}) | 376 | 391 | 96.2 | /mnt/stockage/packages/f39/kdialog/po/hu/kdialog.po | 
- | [ro]({{< ref "/f39/language/ro.md" >}}) | 376 | 391 | 96.2 | /mnt/stockage/packages/f39/kdialog/po/ro/kdialog.po | 
- | [vi]({{< ref "/f39/language/vi.md" >}}) | 376 | 391 | 96.2 | /mnt/stockage/packages/f39/kdialog/po/vi/kdialog.po | 
- | [sr]({{< ref "/f39/language/sr.md" >}}) | 344 | 359 | 95.8 | /mnt/stockage/packages/f39/kdialog/po/sr/kdialog.po | 
- | [sr@ijekavian]({{< ref "/f39/language/sr@ijekavian.md" >}}) | 344 | 359 | 95.8 | /mnt/stockage/packages/f39/kdialog/po/sr@ijekavian/kdialog.po | 
- | [sr@ijekavian_Latn]({{< ref "/f39/language/sr@ijekavian_Latn.md" >}}) | 344 | 359 | 95.8 | /mnt/stockage/packages/f39/kdialog/po/sr@ijekavianlatin/kdialog.po | 
- | [sr_Latn]({{< ref "/f39/language/sr_Latn.md" >}}) | 344 | 359 | 95.8 | /mnt/stockage/packages/f39/kdialog/po/sr@latin/kdialog.po | 
- | [is]({{< ref "/f39/language/is.md" >}}) | 332 | 391 | 84.9 | /mnt/stockage/packages/f39/kdialog/po/is/kdialog.po | 
- | [zh_Hant]({{< ref "/f39/language/zh_Hant.md" >}}) | 322 | 391 | 82.4 | /mnt/stockage/packages/f39/kdialog/po/zh_TW/kdialog.po | 
- | [cs]({{< ref "/f39/language/cs.md" >}}) | 309 | 391 | 79.0 | /mnt/stockage/packages/f39/kdialog/po/cs/kdialog.po | 
- | [da]({{< ref "/f39/language/da.md" >}}) | 307 | 391 | 78.5 | /mnt/stockage/packages/f39/kdialog/po/da/kdialog.po | 
- | [ar]({{< ref "/f39/language/ar.md" >}}) | 278 | 391 | 71.1 | /mnt/stockage/packages/f39/kdialog/po/ar/kdialog.po | 
- | [pa]({{< ref "/f39/language/pa.md" >}}) | 239 | 391 | 61.1 | /mnt/stockage/packages/f39/kdialog/po/pa/kdialog.po | 
- | [ta]({{< ref "/f39/language/ta.md" >}}) | 233 | 391 | 59.6 | /mnt/stockage/packages/f39/kdialog/po/ta/kdialog.po | 
- | [bs]({{< ref "/f39/language/bs.md" >}}) | 231 | 391 | 59.1 | /mnt/stockage/packages/f39/kdialog/po/bs/kdialog.po | 
- | [id]({{< ref "/f39/language/id.md" >}}) | 231 | 391 | 59.1 | /mnt/stockage/packages/f39/kdialog/po/id/kdialog.po | 
- | [kk]({{< ref "/f39/language/kk.md" >}}) | 231 | 391 | 59.1 | /mnt/stockage/packages/f39/kdialog/po/kk/kdialog.po | 
- | [nb_NO]({{< ref "/f39/language/nb_NO.md" >}}) | 231 | 391 | 59.1 | /mnt/stockage/packages/f39/kdialog/po/nb/kdialog.po | 
- | [nds]({{< ref "/f39/language/nds.md" >}}) | 231 | 391 | 59.1 | /mnt/stockage/packages/f39/kdialog/po/nds/kdialog.po | 
- | [lt]({{< ref "/f39/language/lt.md" >}}) | 220 | 391 | 56.3 | /mnt/stockage/packages/f39/kdialog/po/lt/kdialog.po | 
- | [ga]({{< ref "/f39/language/ga.md" >}}) | 217 | 391 | 55.5 | /mnt/stockage/packages/f39/kdialog/po/ga/kdialog.po | 
- | [km]({{< ref "/f39/language/km.md" >}}) | 217 | 391 | 55.5 | /mnt/stockage/packages/f39/kdialog/po/km/kdialog.po | 
- | [lv]({{< ref "/f39/language/lv.md" >}}) | 217 | 391 | 55.5 | /mnt/stockage/packages/f39/kdialog/po/lv/kdialog.po | 
- | [mr]({{< ref "/f39/language/mr.md" >}}) | 217 | 391 | 55.5 | /mnt/stockage/packages/f39/kdialog/po/mr/kdialog.po | 
- | [si]({{< ref "/f39/language/si.md" >}}) | 217 | 391 | 55.5 | /mnt/stockage/packages/f39/kdialog/po/si/kdialog.po | 
- | [ug]({{< ref "/f39/language/ug.md" >}}) | 217 | 391 | 55.5 | /mnt/stockage/packages/f39/kdialog/po/ug/kdialog.po | 
- | [he]({{< ref "/f39/language/he.md" >}}) | 215 | 391 | 55.0 | /mnt/stockage/packages/f39/kdialog/po/he/kdialog.po | 
- | [hr]({{< ref "/f39/language/hr.md" >}}) | 209 | 391 | 53.5 | /mnt/stockage/packages/f39/kdialog/po/hr/kdialog.po | 
- | [th]({{< ref "/f39/language/th.md" >}}) | 209 | 391 | 53.5 | /mnt/stockage/packages/f39/kdialog/po/th/kdialog.po | 
- | [ms]({{< ref "/f39/language/ms.md" >}}) | 191 | 391 | 48.8 | /mnt/stockage/packages/f39/kdialog/po/ms/kdialog.po | 
- | [ja]({{< ref "/f39/language/ja.md" >}}) | 190 | 391 | 48.6 | /mnt/stockage/packages/f39/kdialog/po/ja/kdialog.po | 
- | [csb]({{< ref "/f39/language/csb.md" >}}) | 185 | 391 | 47.3 | /mnt/stockage/packages/f39/kdialog/po/csb/kdialog.po | 
- | [fy]({{< ref "/f39/language/fy.md" >}}) | 185 | 391 | 47.3 | /mnt/stockage/packages/f39/kdialog/po/fy/kdialog.po | 
- | [kn]({{< ref "/f39/language/kn.md" >}}) | 185 | 391 | 47.3 | /mnt/stockage/packages/f39/kdialog/po/kn/kdialog.po | 
- | [mk]({{< ref "/f39/language/mk.md" >}}) | 185 | 391 | 47.3 | /mnt/stockage/packages/f39/kdialog/po/mk/kdialog.po | 
- | [wa]({{< ref "/f39/language/wa.md" >}}) | 185 | 391 | 47.3 | /mnt/stockage/packages/f39/kdialog/po/wa/kdialog.po | 
- | [be_Latn]({{< ref "/f39/language/be_Latn.md" >}}) | 179 | 391 | 45.8 | /mnt/stockage/packages/f39/kdialog/po/be@latin/kdialog.po | 
- | [gu]({{< ref "/f39/language/gu.md" >}}) | 179 | 391 | 45.8 | /mnt/stockage/packages/f39/kdialog/po/gu/kdialog.po | 
- | [hne]({{< ref "/f39/language/hne.md" >}}) | 179 | 391 | 45.8 | /mnt/stockage/packages/f39/kdialog/po/hne/kdialog.po | 
- | [ml]({{< ref "/f39/language/ml.md" >}}) | 179 | 391 | 45.8 | /mnt/stockage/packages/f39/kdialog/po/ml/kdialog.po | 
- | [bn_IN]({{< ref "/f39/language/bn_IN.md" >}}) | 157 | 391 | 40.2 | /mnt/stockage/packages/f39/kdialog/po/bn_IN/kdialog.po | 
- | [fa]({{< ref "/f39/language/fa.md" >}}) | 157 | 391 | 40.2 | /mnt/stockage/packages/f39/kdialog/po/fa/kdialog.po | 
- | [ne]({{< ref "/f39/language/ne.md" >}}) | 157 | 391 | 40.2 | /mnt/stockage/packages/f39/kdialog/po/ne/kdialog.po | 
- | [tg]({{< ref "/f39/language/tg.md" >}}) | 134 | 391 | 34.3 | /mnt/stockage/packages/f39/kdialog/po/tg/kdialog.po | 
- | [af]({{< ref "/f39/language/af.md" >}}) | 130 | 391 | 33.2 | /mnt/stockage/packages/f39/kdialog/po/af/kdialog.po | 
- | [ku]({{< ref "/f39/language/ku.md" >}}) | 125 | 391 | 32.0 | /mnt/stockage/packages/f39/kdialog/po/ku/kdialog.po | 
- | [mai]({{< ref "/f39/language/mai.md" >}}) | 110 | 391 | 28.1 | /mnt/stockage/packages/f39/kdialog/po/mai/kdialog.po | 
- | [cy]({{< ref "/f39/language/cy.md" >}}) | 100 | 391 | 25.6 | /mnt/stockage/packages/f39/kdialog/po/cy/kdialog.po | 
- | [bn]({{< ref "/f39/language/bn.md" >}}) | 90 | 391 | 23.0 | /mnt/stockage/packages/f39/kdialog/po/bn/kdialog.po | 
- | [xh]({{< ref "/f39/language/xh.md" >}}) | 81 | 391 | 20.7 | /mnt/stockage/packages/f39/kdialog/po/xh/kdialog.po | 
- | [uz]({{< ref "/f39/language/uz.md" >}}) | 154 | 782 | 19.7 | /mnt/stockage/packages/f39/kdialog/po/uz@cyrillic/kdialog.po/mnt/stockage/packages/f39/kdialog/po/uz/kdialog.po | 
- | [se]({{< ref "/f39/language/se.md" >}}) | 62 | 391 | 15.9 | /mnt/stockage/packages/f39/kdialog/po/se/kdialog.po | 
- | [hsb]({{< ref "/f39/language/hsb.md" >}}) | 58 | 391 | 14.8 | /mnt/stockage/packages/f39/kdialog/po/hsb/kdialog.po | 
- | [sq]({{< ref "/f39/language/sq.md" >}}) | 25 | 391 | 6.4 | /mnt/stockage/packages/f39/kdialog/po/sq/kdialog.po | 
- | [br]({{< ref "/f39/language/br.md" >}}) | 17 | 391 | 4.3 | /mnt/stockage/packages/f39/kdialog/po/br/kdialog.po | 
- | [te]({{< ref "/f39/language/te.md" >}}) | 10 | 391 | 2.6 | /mnt/stockage/packages/f39/kdialog/po/te/kdialog.po | 
- | [oc]({{< ref "/f39/language/oc.md" >}}) | 8 | 391 | 2.0 | /mnt/stockage/packages/f39/kdialog/po/oc/kdialog.po | 
- | [or]({{< ref "/f39/language/or.md" >}}) | 0 | 391 | 0.0 | /mnt/stockage/packages/f39/kdialog/po/or/kdialog.po | 
+ | [bg](/f39/language/bg) | 391 | 391 | 100.0 | /mnt/stockage/packages/f39/kdialog/po/bg/kdialog.po | 
+ | [ca](/f39/language/ca) | 391 | 391 | 100.0 | /mnt/stockage/packages/f39/kdialog/po/ca/kdialog.po | 
+ | [ca@valencia](/f39/language/ca@valencia) | 391 | 391 | 100.0 | /mnt/stockage/packages/f39/kdialog/po/ca@valencia/kdialog.po | 
+ | [de](/f39/language/de) | 391 | 391 | 100.0 | /mnt/stockage/packages/f39/kdialog/po/de/kdialog.po | 
+ | [en_GB](/f39/language/en_GB) | 391 | 391 | 100.0 | /mnt/stockage/packages/f39/kdialog/po/en_GB/kdialog.po | 
+ | [eo](/f39/language/eo) | 391 | 391 | 100.0 | /mnt/stockage/packages/f39/kdialog/po/eo/kdialog.po | 
+ | [es](/f39/language/es) | 391 | 391 | 100.0 | /mnt/stockage/packages/f39/kdialog/po/es/kdialog.po | 
+ | [eu](/f39/language/eu) | 391 | 391 | 100.0 | /mnt/stockage/packages/f39/kdialog/po/eu/kdialog.po | 
+ | [fi](/f39/language/fi) | 391 | 391 | 100.0 | /mnt/stockage/packages/f39/kdialog/po/fi/kdialog.po | 
+ | [fr](/f39/language/fr) | 391 | 391 | 100.0 | /mnt/stockage/packages/f39/kdialog/po/fr/kdialog.po | 
+ | [gl](/f39/language/gl) | 391 | 391 | 100.0 | /mnt/stockage/packages/f39/kdialog/po/gl/kdialog.po | 
+ | [ia](/f39/language/ia) | 391 | 391 | 100.0 | /mnt/stockage/packages/f39/kdialog/po/ia/kdialog.po | 
+ | [it](/f39/language/it) | 391 | 391 | 100.0 | /mnt/stockage/packages/f39/kdialog/po/it/kdialog.po | 
+ | [ka](/f39/language/ka) | 391 | 391 | 100.0 | /mnt/stockage/packages/f39/kdialog/po/ka/kdialog.po | 
+ | [ko](/f39/language/ko) | 391 | 391 | 100.0 | /mnt/stockage/packages/f39/kdialog/po/ko/kdialog.po | 
+ | [nl](/f39/language/nl) | 391 | 391 | 100.0 | /mnt/stockage/packages/f39/kdialog/po/nl/kdialog.po | 
+ | [nn](/f39/language/nn) | 391 | 391 | 100.0 | /mnt/stockage/packages/f39/kdialog/po/nn/kdialog.po | 
+ | [pl](/f39/language/pl) | 391 | 391 | 100.0 | /mnt/stockage/packages/f39/kdialog/po/pl/kdialog.po | 
+ | [pt](/f39/language/pt) | 391 | 391 | 100.0 | /mnt/stockage/packages/f39/kdialog/po/pt/kdialog.po | 
+ | [pt_BR](/f39/language/pt_BR) | 391 | 391 | 100.0 | /mnt/stockage/packages/f39/kdialog/po/pt_BR/kdialog.po | 
+ | [ru](/f39/language/ru) | 391 | 391 | 100.0 | /mnt/stockage/packages/f39/kdialog/po/ru/kdialog.po | 
+ | [sk](/f39/language/sk) | 391 | 391 | 100.0 | /mnt/stockage/packages/f39/kdialog/po/sk/kdialog.po | 
+ | [sl](/f39/language/sl) | 391 | 391 | 100.0 | /mnt/stockage/packages/f39/kdialog/po/sl/kdialog.po | 
+ | [sv](/f39/language/sv) | 391 | 391 | 100.0 | /mnt/stockage/packages/f39/kdialog/po/sv/kdialog.po | 
+ | [tr](/f39/language/tr) | 391 | 391 | 100.0 | /mnt/stockage/packages/f39/kdialog/po/tr/kdialog.po | 
+ | [uk](/f39/language/uk) | 391 | 391 | 100.0 | /mnt/stockage/packages/f39/kdialog/po/uk/kdialog.po | 
+ | [zh_Hans](/f39/language/zh_Hans) | 391 | 391 | 100.0 | /mnt/stockage/packages/f39/kdialog/po/zh_CN/kdialog.po | 
+ | [be](/f39/language/be) | 376 | 391 | 96.2 | /mnt/stockage/packages/f39/kdialog/po/be/kdialog.po | 
+ | [el](/f39/language/el) | 376 | 391 | 96.2 | /mnt/stockage/packages/f39/kdialog/po/el/kdialog.po | 
+ | [et](/f39/language/et) | 376 | 391 | 96.2 | /mnt/stockage/packages/f39/kdialog/po/et/kdialog.po | 
+ | [hi](/f39/language/hi) | 376 | 391 | 96.2 | /mnt/stockage/packages/f39/kdialog/po/hi/kdialog.po | 
+ | [hu](/f39/language/hu) | 376 | 391 | 96.2 | /mnt/stockage/packages/f39/kdialog/po/hu/kdialog.po | 
+ | [ro](/f39/language/ro) | 376 | 391 | 96.2 | /mnt/stockage/packages/f39/kdialog/po/ro/kdialog.po | 
+ | [vi](/f39/language/vi) | 376 | 391 | 96.2 | /mnt/stockage/packages/f39/kdialog/po/vi/kdialog.po | 
+ | [sr](/f39/language/sr) | 344 | 359 | 95.8 | /mnt/stockage/packages/f39/kdialog/po/sr/kdialog.po | 
+ | [sr@ijekavian](/f39/language/sr@ijekavian) | 344 | 359 | 95.8 | /mnt/stockage/packages/f39/kdialog/po/sr@ijekavian/kdialog.po | 
+ | [sr@ijekavian_Latn](/f39/language/sr@ijekavian_Latn) | 344 | 359 | 95.8 | /mnt/stockage/packages/f39/kdialog/po/sr@ijekavianlatin/kdialog.po | 
+ | [sr_Latn](/f39/language/sr_Latn) | 344 | 359 | 95.8 | /mnt/stockage/packages/f39/kdialog/po/sr@latin/kdialog.po | 
+ | [is](/f39/language/is) | 332 | 391 | 84.9 | /mnt/stockage/packages/f39/kdialog/po/is/kdialog.po | 
+ | [zh_Hant](/f39/language/zh_Hant) | 322 | 391 | 82.4 | /mnt/stockage/packages/f39/kdialog/po/zh_TW/kdialog.po | 
+ | [cs](/f39/language/cs) | 309 | 391 | 79.0 | /mnt/stockage/packages/f39/kdialog/po/cs/kdialog.po | 
+ | [da](/f39/language/da) | 307 | 391 | 78.5 | /mnt/stockage/packages/f39/kdialog/po/da/kdialog.po | 
+ | [ar](/f39/language/ar) | 278 | 391 | 71.1 | /mnt/stockage/packages/f39/kdialog/po/ar/kdialog.po | 
+ | [pa](/f39/language/pa) | 239 | 391 | 61.1 | /mnt/stockage/packages/f39/kdialog/po/pa/kdialog.po | 
+ | [ta](/f39/language/ta) | 233 | 391 | 59.6 | /mnt/stockage/packages/f39/kdialog/po/ta/kdialog.po | 
+ | [bs](/f39/language/bs) | 231 | 391 | 59.1 | /mnt/stockage/packages/f39/kdialog/po/bs/kdialog.po | 
+ | [id](/f39/language/id) | 231 | 391 | 59.1 | /mnt/stockage/packages/f39/kdialog/po/id/kdialog.po | 
+ | [kk](/f39/language/kk) | 231 | 391 | 59.1 | /mnt/stockage/packages/f39/kdialog/po/kk/kdialog.po | 
+ | [nb_NO](/f39/language/nb_NO) | 231 | 391 | 59.1 | /mnt/stockage/packages/f39/kdialog/po/nb/kdialog.po | 
+ | [nds](/f39/language/nds) | 231 | 391 | 59.1 | /mnt/stockage/packages/f39/kdialog/po/nds/kdialog.po | 
+ | [lt](/f39/language/lt) | 220 | 391 | 56.3 | /mnt/stockage/packages/f39/kdialog/po/lt/kdialog.po | 
+ | [ga](/f39/language/ga) | 217 | 391 | 55.5 | /mnt/stockage/packages/f39/kdialog/po/ga/kdialog.po | 
+ | [km](/f39/language/km) | 217 | 391 | 55.5 | /mnt/stockage/packages/f39/kdialog/po/km/kdialog.po | 
+ | [lv](/f39/language/lv) | 217 | 391 | 55.5 | /mnt/stockage/packages/f39/kdialog/po/lv/kdialog.po | 
+ | [mr](/f39/language/mr) | 217 | 391 | 55.5 | /mnt/stockage/packages/f39/kdialog/po/mr/kdialog.po | 
+ | [si](/f39/language/si) | 217 | 391 | 55.5 | /mnt/stockage/packages/f39/kdialog/po/si/kdialog.po | 
+ | [ug](/f39/language/ug) | 217 | 391 | 55.5 | /mnt/stockage/packages/f39/kdialog/po/ug/kdialog.po | 
+ | [he](/f39/language/he) | 215 | 391 | 55.0 | /mnt/stockage/packages/f39/kdialog/po/he/kdialog.po | 
+ | [hr](/f39/language/hr) | 209 | 391 | 53.5 | /mnt/stockage/packages/f39/kdialog/po/hr/kdialog.po | 
+ | [th](/f39/language/th) | 209 | 391 | 53.5 | /mnt/stockage/packages/f39/kdialog/po/th/kdialog.po | 
+ | [ms](/f39/language/ms) | 191 | 391 | 48.8 | /mnt/stockage/packages/f39/kdialog/po/ms/kdialog.po | 
+ | [ja](/f39/language/ja) | 190 | 391 | 48.6 | /mnt/stockage/packages/f39/kdialog/po/ja/kdialog.po | 
+ | [csb](/f39/language/csb) | 185 | 391 | 47.3 | /mnt/stockage/packages/f39/kdialog/po/csb/kdialog.po | 
+ | [fy](/f39/language/fy) | 185 | 391 | 47.3 | /mnt/stockage/packages/f39/kdialog/po/fy/kdialog.po | 
+ | [kn](/f39/language/kn) | 185 | 391 | 47.3 | /mnt/stockage/packages/f39/kdialog/po/kn/kdialog.po | 
+ | [mk](/f39/language/mk) | 185 | 391 | 47.3 | /mnt/stockage/packages/f39/kdialog/po/mk/kdialog.po | 
+ | [wa](/f39/language/wa) | 185 | 391 | 47.3 | /mnt/stockage/packages/f39/kdialog/po/wa/kdialog.po | 
+ | [be_Latn](/f39/language/be_Latn) | 179 | 391 | 45.8 | /mnt/stockage/packages/f39/kdialog/po/be@latin/kdialog.po | 
+ | [gu](/f39/language/gu) | 179 | 391 | 45.8 | /mnt/stockage/packages/f39/kdialog/po/gu/kdialog.po | 
+ | [hne](/f39/language/hne) | 179 | 391 | 45.8 | /mnt/stockage/packages/f39/kdialog/po/hne/kdialog.po | 
+ | [ml](/f39/language/ml) | 179 | 391 | 45.8 | /mnt/stockage/packages/f39/kdialog/po/ml/kdialog.po | 
+ | [bn_IN](/f39/language/bn_IN) | 157 | 391 | 40.2 | /mnt/stockage/packages/f39/kdialog/po/bn_IN/kdialog.po | 
+ | [fa](/f39/language/fa) | 157 | 391 | 40.2 | /mnt/stockage/packages/f39/kdialog/po/fa/kdialog.po | 
+ | [ne](/f39/language/ne) | 157 | 391 | 40.2 | /mnt/stockage/packages/f39/kdialog/po/ne/kdialog.po | 
+ | [tg](/f39/language/tg) | 134 | 391 | 34.3 | /mnt/stockage/packages/f39/kdialog/po/tg/kdialog.po | 
+ | [af](/f39/language/af) | 130 | 391 | 33.2 | /mnt/stockage/packages/f39/kdialog/po/af/kdialog.po | 
+ | [ku](/f39/language/ku) | 125 | 391 | 32.0 | /mnt/stockage/packages/f39/kdialog/po/ku/kdialog.po | 
+ | [mai](/f39/language/mai) | 110 | 391 | 28.1 | /mnt/stockage/packages/f39/kdialog/po/mai/kdialog.po | 
+ | [cy](/f39/language/cy) | 100 | 391 | 25.6 | /mnt/stockage/packages/f39/kdialog/po/cy/kdialog.po | 
+ | [bn](/f39/language/bn) | 90 | 391 | 23.0 | /mnt/stockage/packages/f39/kdialog/po/bn/kdialog.po | 
+ | [xh](/f39/language/xh) | 81 | 391 | 20.7 | /mnt/stockage/packages/f39/kdialog/po/xh/kdialog.po | 
+ | [uz](/f39/language/uz) | 154 | 782 | 19.7 | /mnt/stockage/packages/f39/kdialog/po/uz@cyrillic/kdialog.po/mnt/stockage/packages/f39/kdialog/po/uz/kdialog.po | 
+ | [se](/f39/language/se) | 62 | 391 | 15.9 | /mnt/stockage/packages/f39/kdialog/po/se/kdialog.po | 
+ | [hsb](/f39/language/hsb) | 58 | 391 | 14.8 | /mnt/stockage/packages/f39/kdialog/po/hsb/kdialog.po | 
+ | [sq](/f39/language/sq) | 25 | 391 | 6.4 | /mnt/stockage/packages/f39/kdialog/po/sq/kdialog.po | 
+ | [br](/f39/language/br) | 17 | 391 | 4.3 | /mnt/stockage/packages/f39/kdialog/po/br/kdialog.po | 
+ | [te](/f39/language/te) | 10 | 391 | 2.6 | /mnt/stockage/packages/f39/kdialog/po/te/kdialog.po | 
+ | [oc](/f39/language/oc) | 8 | 391 | 2.0 | /mnt/stockage/packages/f39/kdialog/po/oc/kdialog.po | 
+ | [or](/f39/language/or) | 0 | 391 | 0.0 | /mnt/stockage/packages/f39/kdialog/po/or/kdialog.po | 
 {.sortable}
 
 

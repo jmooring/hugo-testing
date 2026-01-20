@@ -18,8 +18,8 @@ The package dar (version 2.5.15):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f27/language/fr.md" >}}) | 11975 | 11975 | 100.0 | /mnt/stockage/packages/f27/dar/po/fr.po | 
- | [sv]({{< ref "/f27/language/sv.md" >}}) | 8676 | 11975 | 72.5 | /mnt/stockage/packages/f27/dar/po/sv.po | 
+ | [fr](/f27/language/fr) | 11975 | 11975 | 100.0 | /mnt/stockage/packages/f27/dar/po/fr.po | 
+ | [sv](/f27/language/sv) | 8676 | 11975 | 72.5 | /mnt/stockage/packages/f27/dar/po/sv.po | 
 {.sortable}
 
 

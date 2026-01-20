@@ -18,38 +18,38 @@ The package xfce4-screenshooter (version 1.5.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [bg]({{< ref "/f11/language/bg.md" >}}) | 223 | 223 | 100.0 | /mnt/stockage/packages/f11/xfce4-screenshooter/po/bg.po | 
- | [ca]({{< ref "/f11/language/ca.md" >}}) | 223 | 223 | 100.0 | /mnt/stockage/packages/f11/xfce4-screenshooter/po/ca.po | 
- | [cs]({{< ref "/f11/language/cs.md" >}}) | 223 | 223 | 100.0 | /mnt/stockage/packages/f11/xfce4-screenshooter/po/cs.po | 
- | [da]({{< ref "/f11/language/da.md" >}}) | 223 | 223 | 100.0 | /mnt/stockage/packages/f11/xfce4-screenshooter/po/da.po | 
- | [de]({{< ref "/f11/language/de.md" >}}) | 223 | 223 | 100.0 | /mnt/stockage/packages/f11/xfce4-screenshooter/po/de.po | 
- | [el]({{< ref "/f11/language/el.md" >}}) | 223 | 223 | 100.0 | /mnt/stockage/packages/f11/xfce4-screenshooter/po/el.po | 
- | [en_GB]({{< ref "/f11/language/en_GB.md" >}}) | 223 | 223 | 100.0 | /mnt/stockage/packages/f11/xfce4-screenshooter/po/en_GB.po | 
- | [es]({{< ref "/f11/language/es.md" >}}) | 223 | 223 | 100.0 | /mnt/stockage/packages/f11/xfce4-screenshooter/po/es.po | 
- | [et]({{< ref "/f11/language/et.md" >}}) | 223 | 223 | 100.0 | /mnt/stockage/packages/f11/xfce4-screenshooter/po/et.po | 
- | [eu]({{< ref "/f11/language/eu.md" >}}) | 223 | 223 | 100.0 | /mnt/stockage/packages/f11/xfce4-screenshooter/po/eu.po | 
- | [fi]({{< ref "/f11/language/fi.md" >}}) | 223 | 223 | 100.0 | /mnt/stockage/packages/f11/xfce4-screenshooter/po/fi.po | 
- | [fr]({{< ref "/f11/language/fr.md" >}}) | 223 | 223 | 100.0 | /mnt/stockage/packages/f11/xfce4-screenshooter/po/fr.po | 
- | [it]({{< ref "/f11/language/it.md" >}}) | 223 | 223 | 100.0 | /mnt/stockage/packages/f11/xfce4-screenshooter/po/it.po | 
- | [ja]({{< ref "/f11/language/ja.md" >}}) | 223 | 223 | 100.0 | /mnt/stockage/packages/f11/xfce4-screenshooter/po/ja.po | 
- | [nb_NO]({{< ref "/f11/language/nb_NO.md" >}}) | 223 | 223 | 100.0 | /mnt/stockage/packages/f11/xfce4-screenshooter/po/nb_NO.po | 
- | [nl]({{< ref "/f11/language/nl.md" >}}) | 223 | 223 | 100.0 | /mnt/stockage/packages/f11/xfce4-screenshooter/po/nl.po | 
- | [pl]({{< ref "/f11/language/pl.md" >}}) | 223 | 223 | 100.0 | /mnt/stockage/packages/f11/xfce4-screenshooter/po/pl.po | 
- | [pt_BR]({{< ref "/f11/language/pt_BR.md" >}}) | 223 | 223 | 100.0 | /mnt/stockage/packages/f11/xfce4-screenshooter/po/pt_BR.po | 
- | [pt_PT]({{< ref "/f11/language/pt_PT.md" >}}) | 223 | 223 | 100.0 | /mnt/stockage/packages/f11/xfce4-screenshooter/po/pt_PT.po | 
- | [sv]({{< ref "/f11/language/sv.md" >}}) | 223 | 223 | 100.0 | /mnt/stockage/packages/f11/xfce4-screenshooter/po/sv.po | 
- | [tr]({{< ref "/f11/language/tr.md" >}}) | 223 | 223 | 100.0 | /mnt/stockage/packages/f11/xfce4-screenshooter/po/tr.po | 
- | [uk]({{< ref "/f11/language/uk.md" >}}) | 223 | 223 | 100.0 | /mnt/stockage/packages/f11/xfce4-screenshooter/po/uk.po | 
- | [zh_Hans]({{< ref "/f11/language/zh_Hans.md" >}}) | 223 | 223 | 100.0 | /mnt/stockage/packages/f11/xfce4-screenshooter/po/zh_CN.po | 
- | [id]({{< ref "/f11/language/id.md" >}}) | 209 | 223 | 93.7 | /mnt/stockage/packages/f11/xfce4-screenshooter/po/id.po | 
- | [hu]({{< ref "/f11/language/hu.md" >}}) | 57 | 223 | 25.6 | /mnt/stockage/packages/f11/xfce4-screenshooter/po/hu.po | 
- | [sq]({{< ref "/f11/language/sq.md" >}}) | 40 | 223 | 17.9 | /mnt/stockage/packages/f11/xfce4-screenshooter/po/sq.po | 
- | [hr]({{< ref "/f11/language/hr.md" >}}) | 31 | 223 | 13.9 | /mnt/stockage/packages/f11/xfce4-screenshooter/po/hr.po | 
- | [gl]({{< ref "/f11/language/gl.md" >}}) | 3 | 223 | 1.3 | /mnt/stockage/packages/f11/xfce4-screenshooter/po/gl.po | 
- | [ar]({{< ref "/f11/language/ar.md" >}}) | 0 | 223 | 0.0 | /mnt/stockage/packages/f11/xfce4-screenshooter/po/ar.po | 
- | [lv]({{< ref "/f11/language/lv.md" >}}) | 0 | 223 | 0.0 | /mnt/stockage/packages/f11/xfce4-screenshooter/po/lv.po | 
- | [ur]({{< ref "/f11/language/ur.md" >}}) | 0 | 223 | 0.0 | /mnt/stockage/packages/f11/xfce4-screenshooter/po/ur.po | 
- | [zh_Hant]({{< ref "/f11/language/zh_Hant.md" >}}) | 0 | 223 | 0.0 | /mnt/stockage/packages/f11/xfce4-screenshooter/po/zh_TW.po | 
+ | [bg](/f11/language/bg) | 223 | 223 | 100.0 | /mnt/stockage/packages/f11/xfce4-screenshooter/po/bg.po | 
+ | [ca](/f11/language/ca) | 223 | 223 | 100.0 | /mnt/stockage/packages/f11/xfce4-screenshooter/po/ca.po | 
+ | [cs](/f11/language/cs) | 223 | 223 | 100.0 | /mnt/stockage/packages/f11/xfce4-screenshooter/po/cs.po | 
+ | [da](/f11/language/da) | 223 | 223 | 100.0 | /mnt/stockage/packages/f11/xfce4-screenshooter/po/da.po | 
+ | [de](/f11/language/de) | 223 | 223 | 100.0 | /mnt/stockage/packages/f11/xfce4-screenshooter/po/de.po | 
+ | [el](/f11/language/el) | 223 | 223 | 100.0 | /mnt/stockage/packages/f11/xfce4-screenshooter/po/el.po | 
+ | [en_GB](/f11/language/en_GB) | 223 | 223 | 100.0 | /mnt/stockage/packages/f11/xfce4-screenshooter/po/en_GB.po | 
+ | [es](/f11/language/es) | 223 | 223 | 100.0 | /mnt/stockage/packages/f11/xfce4-screenshooter/po/es.po | 
+ | [et](/f11/language/et) | 223 | 223 | 100.0 | /mnt/stockage/packages/f11/xfce4-screenshooter/po/et.po | 
+ | [eu](/f11/language/eu) | 223 | 223 | 100.0 | /mnt/stockage/packages/f11/xfce4-screenshooter/po/eu.po | 
+ | [fi](/f11/language/fi) | 223 | 223 | 100.0 | /mnt/stockage/packages/f11/xfce4-screenshooter/po/fi.po | 
+ | [fr](/f11/language/fr) | 223 | 223 | 100.0 | /mnt/stockage/packages/f11/xfce4-screenshooter/po/fr.po | 
+ | [it](/f11/language/it) | 223 | 223 | 100.0 | /mnt/stockage/packages/f11/xfce4-screenshooter/po/it.po | 
+ | [ja](/f11/language/ja) | 223 | 223 | 100.0 | /mnt/stockage/packages/f11/xfce4-screenshooter/po/ja.po | 
+ | [nb_NO](/f11/language/nb_NO) | 223 | 223 | 100.0 | /mnt/stockage/packages/f11/xfce4-screenshooter/po/nb_NO.po | 
+ | [nl](/f11/language/nl) | 223 | 223 | 100.0 | /mnt/stockage/packages/f11/xfce4-screenshooter/po/nl.po | 
+ | [pl](/f11/language/pl) | 223 | 223 | 100.0 | /mnt/stockage/packages/f11/xfce4-screenshooter/po/pl.po | 
+ | [pt_BR](/f11/language/pt_BR) | 223 | 223 | 100.0 | /mnt/stockage/packages/f11/xfce4-screenshooter/po/pt_BR.po | 
+ | [pt_PT](/f11/language/pt_PT) | 223 | 223 | 100.0 | /mnt/stockage/packages/f11/xfce4-screenshooter/po/pt_PT.po | 
+ | [sv](/f11/language/sv) | 223 | 223 | 100.0 | /mnt/stockage/packages/f11/xfce4-screenshooter/po/sv.po | 
+ | [tr](/f11/language/tr) | 223 | 223 | 100.0 | /mnt/stockage/packages/f11/xfce4-screenshooter/po/tr.po | 
+ | [uk](/f11/language/uk) | 223 | 223 | 100.0 | /mnt/stockage/packages/f11/xfce4-screenshooter/po/uk.po | 
+ | [zh_Hans](/f11/language/zh_Hans) | 223 | 223 | 100.0 | /mnt/stockage/packages/f11/xfce4-screenshooter/po/zh_CN.po | 
+ | [id](/f11/language/id) | 209 | 223 | 93.7 | /mnt/stockage/packages/f11/xfce4-screenshooter/po/id.po | 
+ | [hu](/f11/language/hu) | 57 | 223 | 25.6 | /mnt/stockage/packages/f11/xfce4-screenshooter/po/hu.po | 
+ | [sq](/f11/language/sq) | 40 | 223 | 17.9 | /mnt/stockage/packages/f11/xfce4-screenshooter/po/sq.po | 
+ | [hr](/f11/language/hr) | 31 | 223 | 13.9 | /mnt/stockage/packages/f11/xfce4-screenshooter/po/hr.po | 
+ | [gl](/f11/language/gl) | 3 | 223 | 1.3 | /mnt/stockage/packages/f11/xfce4-screenshooter/po/gl.po | 
+ | [ar](/f11/language/ar) | 0 | 223 | 0.0 | /mnt/stockage/packages/f11/xfce4-screenshooter/po/ar.po | 
+ | [lv](/f11/language/lv) | 0 | 223 | 0.0 | /mnt/stockage/packages/f11/xfce4-screenshooter/po/lv.po | 
+ | [ur](/f11/language/ur) | 0 | 223 | 0.0 | /mnt/stockage/packages/f11/xfce4-screenshooter/po/ur.po | 
+ | [zh_Hant](/f11/language/zh_Hant) | 0 | 223 | 0.0 | /mnt/stockage/packages/f11/xfce4-screenshooter/po/zh_TW.po | 
 {.sortable}
 
 

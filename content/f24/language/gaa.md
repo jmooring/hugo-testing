@@ -38,7 +38,7 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [mintmenu]({{< ref "/f24/package/mintmenu.md" >}}) | 4 | 50 | 8.0 | Ga <gaa@li.org> | 
+ | [mintmenu](/f24/package/mintmenu) | 4 | 50 | 8.0 | Ga <gaa@li.org> | 
 {.sortable}
 
 

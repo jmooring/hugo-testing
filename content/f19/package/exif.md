@@ -18,26 +18,26 @@ The package exif (version 0.6.21):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f19/language/cs.md" >}}) | 296 | 296 | 100.0 | /mnt/stockage/packages/f19/exif/po/cs.po | 
- | [da]({{< ref "/f19/language/da.md" >}}) | 296 | 296 | 100.0 | /mnt/stockage/packages/f19/exif/po/da.po | 
- | [de]({{< ref "/f19/language/de.md" >}}) | 296 | 296 | 100.0 | /mnt/stockage/packages/f19/exif/po/de.po | 
- | [fi]({{< ref "/f19/language/fi.md" >}}) | 296 | 296 | 100.0 | /mnt/stockage/packages/f19/exif/po/fi.po | 
- | [hr]({{< ref "/f19/language/hr.md" >}}) | 296 | 296 | 100.0 | /mnt/stockage/packages/f19/exif/po/hr.po | 
- | [id]({{< ref "/f19/language/id.md" >}}) | 296 | 296 | 100.0 | /mnt/stockage/packages/f19/exif/po/id.po | 
- | [is]({{< ref "/f19/language/is.md" >}}) | 296 | 296 | 100.0 | /mnt/stockage/packages/f19/exif/po/is.po | 
- | [it]({{< ref "/f19/language/it.md" >}}) | 296 | 296 | 100.0 | /mnt/stockage/packages/f19/exif/po/it.po | 
- | [lv]({{< ref "/f19/language/lv.md" >}}) | 296 | 296 | 100.0 | /mnt/stockage/packages/f19/exif/po/lv.po | 
- | [nl]({{< ref "/f19/language/nl.md" >}}) | 296 | 296 | 100.0 | /mnt/stockage/packages/f19/exif/po/nl.po | 
- | [pl]({{< ref "/f19/language/pl.md" >}}) | 296 | 296 | 100.0 | /mnt/stockage/packages/f19/exif/po/pl.po | 
- | [sk]({{< ref "/f19/language/sk.md" >}}) | 296 | 296 | 100.0 | /mnt/stockage/packages/f19/exif/po/sk.po | 
- | [sr]({{< ref "/f19/language/sr.md" >}}) | 296 | 296 | 100.0 | /mnt/stockage/packages/f19/exif/po/sr.po | 
- | [sv]({{< ref "/f19/language/sv.md" >}}) | 296 | 296 | 100.0 | /mnt/stockage/packages/f19/exif/po/sv.po | 
- | [vi]({{< ref "/f19/language/vi.md" >}}) | 296 | 296 | 100.0 | /mnt/stockage/packages/f19/exif/po/vi.po | 
- | [zh_Hans]({{< ref "/f19/language/zh_Hans.md" >}}) | 296 | 296 | 100.0 | /mnt/stockage/packages/f19/exif/po/zh_CN.po | 
- | [gl]({{< ref "/f19/language/gl.md" >}}) | 267 | 296 | 90.2 | /mnt/stockage/packages/f19/exif/po/gl.po | 
- | [ro]({{< ref "/f19/language/ro.md" >}}) | 198 | 296 | 66.9 | /mnt/stockage/packages/f19/exif/po/ro.po | 
- | [fr]({{< ref "/f19/language/fr.md" >}}) | 145 | 296 | 49.0 | /mnt/stockage/packages/f19/exif/po/fr.po | 
- | [es]({{< ref "/f19/language/es.md" >}}) | 128 | 296 | 43.2 | /mnt/stockage/packages/f19/exif/po/es.po | 
+ | [cs](/f19/language/cs) | 296 | 296 | 100.0 | /mnt/stockage/packages/f19/exif/po/cs.po | 
+ | [da](/f19/language/da) | 296 | 296 | 100.0 | /mnt/stockage/packages/f19/exif/po/da.po | 
+ | [de](/f19/language/de) | 296 | 296 | 100.0 | /mnt/stockage/packages/f19/exif/po/de.po | 
+ | [fi](/f19/language/fi) | 296 | 296 | 100.0 | /mnt/stockage/packages/f19/exif/po/fi.po | 
+ | [hr](/f19/language/hr) | 296 | 296 | 100.0 | /mnt/stockage/packages/f19/exif/po/hr.po | 
+ | [id](/f19/language/id) | 296 | 296 | 100.0 | /mnt/stockage/packages/f19/exif/po/id.po | 
+ | [is](/f19/language/is) | 296 | 296 | 100.0 | /mnt/stockage/packages/f19/exif/po/is.po | 
+ | [it](/f19/language/it) | 296 | 296 | 100.0 | /mnt/stockage/packages/f19/exif/po/it.po | 
+ | [lv](/f19/language/lv) | 296 | 296 | 100.0 | /mnt/stockage/packages/f19/exif/po/lv.po | 
+ | [nl](/f19/language/nl) | 296 | 296 | 100.0 | /mnt/stockage/packages/f19/exif/po/nl.po | 
+ | [pl](/f19/language/pl) | 296 | 296 | 100.0 | /mnt/stockage/packages/f19/exif/po/pl.po | 
+ | [sk](/f19/language/sk) | 296 | 296 | 100.0 | /mnt/stockage/packages/f19/exif/po/sk.po | 
+ | [sr](/f19/language/sr) | 296 | 296 | 100.0 | /mnt/stockage/packages/f19/exif/po/sr.po | 
+ | [sv](/f19/language/sv) | 296 | 296 | 100.0 | /mnt/stockage/packages/f19/exif/po/sv.po | 
+ | [vi](/f19/language/vi) | 296 | 296 | 100.0 | /mnt/stockage/packages/f19/exif/po/vi.po | 
+ | [zh_Hans](/f19/language/zh_Hans) | 296 | 296 | 100.0 | /mnt/stockage/packages/f19/exif/po/zh_CN.po | 
+ | [gl](/f19/language/gl) | 267 | 296 | 90.2 | /mnt/stockage/packages/f19/exif/po/gl.po | 
+ | [ro](/f19/language/ro) | 198 | 296 | 66.9 | /mnt/stockage/packages/f19/exif/po/ro.po | 
+ | [fr](/f19/language/fr) | 145 | 296 | 49.0 | /mnt/stockage/packages/f19/exif/po/fr.po | 
+ | [es](/f19/language/es) | 128 | 296 | 43.2 | /mnt/stockage/packages/f19/exif/po/es.po | 
 {.sortable}
 
 

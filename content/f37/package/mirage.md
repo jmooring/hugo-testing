@@ -18,19 +18,19 @@ The package mirage (version 0.9.5.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [uk]({{< ref "/f37/language/uk.md" >}}) | 844 | 844 | 100.0 | /mnt/stockage/packages/f37/mirage/po/ua.po | 
- | [nl]({{< ref "/f37/language/nl.md" >}}) | 802 | 817 | 98.2 | /mnt/stockage/packages/f37/mirage/po/nl.po | 
- | [cs]({{< ref "/f37/language/cs.md" >}}) | 608 | 817 | 74.4 | /mnt/stockage/packages/f37/mirage/po/cs.po | 
- | [fr]({{< ref "/f37/language/fr.md" >}}) | 608 | 817 | 74.4 | /mnt/stockage/packages/f37/mirage/po/fr.po | 
- | [hu]({{< ref "/f37/language/hu.md" >}}) | 608 | 817 | 74.4 | /mnt/stockage/packages/f37/mirage/po/hu.po | 
- | [pl]({{< ref "/f37/language/pl.md" >}}) | 608 | 817 | 74.4 | /mnt/stockage/packages/f37/mirage/po/pl.po | 
- | [pt_BR]({{< ref "/f37/language/pt_BR.md" >}}) | 608 | 817 | 74.4 | /mnt/stockage/packages/f37/mirage/po/pt_BR.po | 
- | [zh_Hans]({{< ref "/f37/language/zh_Hans.md" >}}) | 608 | 817 | 74.4 | /mnt/stockage/packages/f37/mirage/po/zh_CN.po | 
- | [de]({{< ref "/f37/language/de.md" >}}) | 583 | 817 | 71.4 | /mnt/stockage/packages/f37/mirage/po/de.po | 
- | [es]({{< ref "/f37/language/es.md" >}}) | 583 | 817 | 71.4 | /mnt/stockage/packages/f37/mirage/po/es.po | 
- | [it]({{< ref "/f37/language/it.md" >}}) | 581 | 817 | 71.1 | /mnt/stockage/packages/f37/mirage/po/it.po | 
- | [ru]({{< ref "/f37/language/ru.md" >}}) | 250 | 817 | 30.6 | /mnt/stockage/packages/f37/mirage/po/ru.po | 
- | [error]({{< ref "/f37/language/error.md" >}}) | 0 | 817 | 0.0 | /mnt/stockage/packages/f37/mirage/po/messages.po | 
+ | [uk](/f37/language/uk) | 844 | 844 | 100.0 | /mnt/stockage/packages/f37/mirage/po/ua.po | 
+ | [nl](/f37/language/nl) | 802 | 817 | 98.2 | /mnt/stockage/packages/f37/mirage/po/nl.po | 
+ | [cs](/f37/language/cs) | 608 | 817 | 74.4 | /mnt/stockage/packages/f37/mirage/po/cs.po | 
+ | [fr](/f37/language/fr) | 608 | 817 | 74.4 | /mnt/stockage/packages/f37/mirage/po/fr.po | 
+ | [hu](/f37/language/hu) | 608 | 817 | 74.4 | /mnt/stockage/packages/f37/mirage/po/hu.po | 
+ | [pl](/f37/language/pl) | 608 | 817 | 74.4 | /mnt/stockage/packages/f37/mirage/po/pl.po | 
+ | [pt_BR](/f37/language/pt_BR) | 608 | 817 | 74.4 | /mnt/stockage/packages/f37/mirage/po/pt_BR.po | 
+ | [zh_Hans](/f37/language/zh_Hans) | 608 | 817 | 74.4 | /mnt/stockage/packages/f37/mirage/po/zh_CN.po | 
+ | [de](/f37/language/de) | 583 | 817 | 71.4 | /mnt/stockage/packages/f37/mirage/po/de.po | 
+ | [es](/f37/language/es) | 583 | 817 | 71.4 | /mnt/stockage/packages/f37/mirage/po/es.po | 
+ | [it](/f37/language/it) | 581 | 817 | 71.1 | /mnt/stockage/packages/f37/mirage/po/it.po | 
+ | [ru](/f37/language/ru) | 250 | 817 | 30.6 | /mnt/stockage/packages/f37/mirage/po/ru.po | 
+ | [error](/f37/language/error) | 0 | 817 | 0.0 | /mnt/stockage/packages/f37/mirage/po/messages.po | 
 {.sortable}
 
 

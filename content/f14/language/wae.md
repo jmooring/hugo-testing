@@ -39,7 +39,7 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [rednotebook]({{< ref "/f14/package/rednotebook.md" >}}) | 460 | 978 | 47.0 | Walser <wae@li.org> | 
+ | [rednotebook](/f14/package/rednotebook) | 460 | 978 | 47.0 | Walser <wae@li.org> | 
 {.sortable}
 
 

@@ -18,54 +18,54 @@ The package alleyoop (version 0.9.8):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f29/language/ca.md" >}}) | 351 | 351 | 100.0 | /mnt/stockage/packages/f29/alleyoop/po/ca.po | 
- | [cs]({{< ref "/f29/language/cs.md" >}}) | 351 | 351 | 100.0 | /mnt/stockage/packages/f29/alleyoop/po/cs.po | 
- | [da]({{< ref "/f29/language/da.md" >}}) | 351 | 351 | 100.0 | /mnt/stockage/packages/f29/alleyoop/po/da.po | 
- | [de]({{< ref "/f29/language/de.md" >}}) | 351 | 351 | 100.0 | /mnt/stockage/packages/f29/alleyoop/po/de.po | 
- | [dz]({{< ref "/f29/language/dz.md" >}}) | 351 | 351 | 100.0 | /mnt/stockage/packages/f29/alleyoop/po/dz.po | 
- | [el]({{< ref "/f29/language/el.md" >}}) | 351 | 351 | 100.0 | /mnt/stockage/packages/f29/alleyoop/po/el.po | 
- | [en_CA]({{< ref "/f29/language/en_CA.md" >}}) | 351 | 351 | 100.0 | /mnt/stockage/packages/f29/alleyoop/po/en_CA.po | 
- | [en_GB]({{< ref "/f29/language/en_GB.md" >}}) | 351 | 351 | 100.0 | /mnt/stockage/packages/f29/alleyoop/po/en_GB.po | 
- | [es]({{< ref "/f29/language/es.md" >}}) | 351 | 351 | 100.0 | /mnt/stockage/packages/f29/alleyoop/po/es.po | 
- | [eu]({{< ref "/f29/language/eu.md" >}}) | 351 | 351 | 100.0 | /mnt/stockage/packages/f29/alleyoop/po/eu.po | 
- | [fi]({{< ref "/f29/language/fi.md" >}}) | 351 | 351 | 100.0 | /mnt/stockage/packages/f29/alleyoop/po/fi.po | 
- | [fr]({{< ref "/f29/language/fr.md" >}}) | 351 | 351 | 100.0 | /mnt/stockage/packages/f29/alleyoop/po/fr.po | 
- | [gl]({{< ref "/f29/language/gl.md" >}}) | 351 | 351 | 100.0 | /mnt/stockage/packages/f29/alleyoop/po/gl.po | 
- | [hr]({{< ref "/f29/language/hr.md" >}}) | 342 | 342 | 100.0 | /mnt/stockage/packages/f29/alleyoop/po/hr.po | 
- | [hu]({{< ref "/f29/language/hu.md" >}}) | 351 | 351 | 100.0 | /mnt/stockage/packages/f29/alleyoop/po/hu.po | 
- | [id]({{< ref "/f29/language/id.md" >}}) | 351 | 351 | 100.0 | /mnt/stockage/packages/f29/alleyoop/po/id.po | 
- | [ja]({{< ref "/f29/language/ja.md" >}}) | 351 | 351 | 100.0 | /mnt/stockage/packages/f29/alleyoop/po/ja.po | 
- | [lv]({{< ref "/f29/language/lv.md" >}}) | 351 | 351 | 100.0 | /mnt/stockage/packages/f29/alleyoop/po/lv.po | 
- | [mk]({{< ref "/f29/language/mk.md" >}}) | 348 | 348 | 100.0 | /mnt/stockage/packages/f29/alleyoop/po/mk.po | 
- | [ne]({{< ref "/f29/language/ne.md" >}}) | 351 | 351 | 100.0 | /mnt/stockage/packages/f29/alleyoop/po/ne.po | 
- | [nl]({{< ref "/f29/language/nl.md" >}}) | 351 | 351 | 100.0 | /mnt/stockage/packages/f29/alleyoop/po/nl.po | 
- | [pt]({{< ref "/f29/language/pt.md" >}}) | 351 | 351 | 100.0 | /mnt/stockage/packages/f29/alleyoop/po/pt.po | 
- | [pt_BR]({{< ref "/f29/language/pt_BR.md" >}}) | 351 | 351 | 100.0 | /mnt/stockage/packages/f29/alleyoop/po/pt_BR.po | 
- | [ru]({{< ref "/f29/language/ru.md" >}}) | 351 | 351 | 100.0 | /mnt/stockage/packages/f29/alleyoop/po/ru.po | 
- | [sk]({{< ref "/f29/language/sk.md" >}}) | 351 | 351 | 100.0 | /mnt/stockage/packages/f29/alleyoop/po/sk.po | 
- | [sl]({{< ref "/f29/language/sl.md" >}}) | 351 | 351 | 100.0 | /mnt/stockage/packages/f29/alleyoop/po/sl.po | 
- | [sq]({{< ref "/f29/language/sq.md" >}}) | 351 | 351 | 100.0 | /mnt/stockage/packages/f29/alleyoop/po/sq.po | 
- | [sv]({{< ref "/f29/language/sv.md" >}}) | 351 | 351 | 100.0 | /mnt/stockage/packages/f29/alleyoop/po/sv.po | 
- | [tr]({{< ref "/f29/language/tr.md" >}}) | 342 | 342 | 100.0 | /mnt/stockage/packages/f29/alleyoop/po/tr.po | 
- | [uk]({{< ref "/f29/language/uk.md" >}}) | 342 | 342 | 100.0 | /mnt/stockage/packages/f29/alleyoop/po/uk.po | 
- | [zh_Hans]({{< ref "/f29/language/zh_Hans.md" >}}) | 351 | 351 | 100.0 | /mnt/stockage/packages/f29/alleyoop/po/zh_CN.po | 
- | [ro]({{< ref "/f29/language/ro.md" >}}) | 348 | 351 | 99.1 | /mnt/stockage/packages/f29/alleyoop/po/ro.po | 
- | [sr]({{< ref "/f29/language/sr.md" >}}) | 688 | 702 | 98.0 | /mnt/stockage/packages/f29/alleyoop/po/sr@latin.po/mnt/stockage/packages/f29/alleyoop/po/sr.po | 
- | [vi]({{< ref "/f29/language/vi.md" >}}) | 343 | 351 | 97.7 | /mnt/stockage/packages/f29/alleyoop/po/vi.po | 
- | [ms]({{< ref "/f29/language/ms.md" >}}) | 328 | 342 | 95.9 | /mnt/stockage/packages/f29/alleyoop/po/ms.po | 
- | [it]({{< ref "/f29/language/it.md" >}}) | 310 | 342 | 90.6 | /mnt/stockage/packages/f29/alleyoop/po/it.po | 
- | [mn]({{< ref "/f29/language/mn.md" >}}) | 285 | 342 | 83.3 | /mnt/stockage/packages/f29/alleyoop/po/mn.po | 
- | [pl]({{< ref "/f29/language/pl.md" >}}) | 268 | 342 | 78.4 | /mnt/stockage/packages/f29/alleyoop/po/pl.po | 
- | [nb_NO]({{< ref "/f29/language/nb_NO.md" >}}) | 248 | 351 | 70.7 | /mnt/stockage/packages/f29/alleyoop/po/nb.po | 
- | [az]({{< ref "/f29/language/az.md" >}}) | 194 | 342 | 56.7 | /mnt/stockage/packages/f29/alleyoop/po/az.po | 
- | [gu]({{< ref "/f29/language/gu.md" >}}) | 177 | 342 | 51.8 | /mnt/stockage/packages/f29/alleyoop/po/gu.po | 
- | [pa]({{< ref "/f29/language/pa.md" >}}) | 89 | 346 | 25.7 | /mnt/stockage/packages/f29/alleyoop/po/pa.po | 
- | [oc]({{< ref "/f29/language/oc.md" >}}) | 78 | 351 | 22.2 | /mnt/stockage/packages/f29/alleyoop/po/oc.po | 
- | [eo]({{< ref "/f29/language/eo.md" >}}) | 69 | 351 | 19.7 | /mnt/stockage/packages/f29/alleyoop/po/eo.po | 
- | [ga]({{< ref "/f29/language/ga.md" >}}) | 66 | 342 | 19.3 | /mnt/stockage/packages/f29/alleyoop/po/ga.po | 
- | [ar]({{< ref "/f29/language/ar.md" >}}) | 17 | 351 | 4.8 | /mnt/stockage/packages/f29/alleyoop/po/ar.po | 
- | [ml]({{< ref "/f29/language/ml.md" >}}) | 16 | 343 | 4.7 | /mnt/stockage/packages/f29/alleyoop/po/ml.po | 
- | [rw]({{< ref "/f29/language/rw.md" >}}) | 6 | 342 | 1.8 | /mnt/stockage/packages/f29/alleyoop/po/rw.po | 
+ | [ca](/f29/language/ca) | 351 | 351 | 100.0 | /mnt/stockage/packages/f29/alleyoop/po/ca.po | 
+ | [cs](/f29/language/cs) | 351 | 351 | 100.0 | /mnt/stockage/packages/f29/alleyoop/po/cs.po | 
+ | [da](/f29/language/da) | 351 | 351 | 100.0 | /mnt/stockage/packages/f29/alleyoop/po/da.po | 
+ | [de](/f29/language/de) | 351 | 351 | 100.0 | /mnt/stockage/packages/f29/alleyoop/po/de.po | 
+ | [dz](/f29/language/dz) | 351 | 351 | 100.0 | /mnt/stockage/packages/f29/alleyoop/po/dz.po | 
+ | [el](/f29/language/el) | 351 | 351 | 100.0 | /mnt/stockage/packages/f29/alleyoop/po/el.po | 
+ | [en_CA](/f29/language/en_CA) | 351 | 351 | 100.0 | /mnt/stockage/packages/f29/alleyoop/po/en_CA.po | 
+ | [en_GB](/f29/language/en_GB) | 351 | 351 | 100.0 | /mnt/stockage/packages/f29/alleyoop/po/en_GB.po | 
+ | [es](/f29/language/es) | 351 | 351 | 100.0 | /mnt/stockage/packages/f29/alleyoop/po/es.po | 
+ | [eu](/f29/language/eu) | 351 | 351 | 100.0 | /mnt/stockage/packages/f29/alleyoop/po/eu.po | 
+ | [fi](/f29/language/fi) | 351 | 351 | 100.0 | /mnt/stockage/packages/f29/alleyoop/po/fi.po | 
+ | [fr](/f29/language/fr) | 351 | 351 | 100.0 | /mnt/stockage/packages/f29/alleyoop/po/fr.po | 
+ | [gl](/f29/language/gl) | 351 | 351 | 100.0 | /mnt/stockage/packages/f29/alleyoop/po/gl.po | 
+ | [hr](/f29/language/hr) | 342 | 342 | 100.0 | /mnt/stockage/packages/f29/alleyoop/po/hr.po | 
+ | [hu](/f29/language/hu) | 351 | 351 | 100.0 | /mnt/stockage/packages/f29/alleyoop/po/hu.po | 
+ | [id](/f29/language/id) | 351 | 351 | 100.0 | /mnt/stockage/packages/f29/alleyoop/po/id.po | 
+ | [ja](/f29/language/ja) | 351 | 351 | 100.0 | /mnt/stockage/packages/f29/alleyoop/po/ja.po | 
+ | [lv](/f29/language/lv) | 351 | 351 | 100.0 | /mnt/stockage/packages/f29/alleyoop/po/lv.po | 
+ | [mk](/f29/language/mk) | 348 | 348 | 100.0 | /mnt/stockage/packages/f29/alleyoop/po/mk.po | 
+ | [ne](/f29/language/ne) | 351 | 351 | 100.0 | /mnt/stockage/packages/f29/alleyoop/po/ne.po | 
+ | [nl](/f29/language/nl) | 351 | 351 | 100.0 | /mnt/stockage/packages/f29/alleyoop/po/nl.po | 
+ | [pt](/f29/language/pt) | 351 | 351 | 100.0 | /mnt/stockage/packages/f29/alleyoop/po/pt.po | 
+ | [pt_BR](/f29/language/pt_BR) | 351 | 351 | 100.0 | /mnt/stockage/packages/f29/alleyoop/po/pt_BR.po | 
+ | [ru](/f29/language/ru) | 351 | 351 | 100.0 | /mnt/stockage/packages/f29/alleyoop/po/ru.po | 
+ | [sk](/f29/language/sk) | 351 | 351 | 100.0 | /mnt/stockage/packages/f29/alleyoop/po/sk.po | 
+ | [sl](/f29/language/sl) | 351 | 351 | 100.0 | /mnt/stockage/packages/f29/alleyoop/po/sl.po | 
+ | [sq](/f29/language/sq) | 351 | 351 | 100.0 | /mnt/stockage/packages/f29/alleyoop/po/sq.po | 
+ | [sv](/f29/language/sv) | 351 | 351 | 100.0 | /mnt/stockage/packages/f29/alleyoop/po/sv.po | 
+ | [tr](/f29/language/tr) | 342 | 342 | 100.0 | /mnt/stockage/packages/f29/alleyoop/po/tr.po | 
+ | [uk](/f29/language/uk) | 342 | 342 | 100.0 | /mnt/stockage/packages/f29/alleyoop/po/uk.po | 
+ | [zh_Hans](/f29/language/zh_Hans) | 351 | 351 | 100.0 | /mnt/stockage/packages/f29/alleyoop/po/zh_CN.po | 
+ | [ro](/f29/language/ro) | 348 | 351 | 99.1 | /mnt/stockage/packages/f29/alleyoop/po/ro.po | 
+ | [sr](/f29/language/sr) | 688 | 702 | 98.0 | /mnt/stockage/packages/f29/alleyoop/po/sr@latin.po/mnt/stockage/packages/f29/alleyoop/po/sr.po | 
+ | [vi](/f29/language/vi) | 343 | 351 | 97.7 | /mnt/stockage/packages/f29/alleyoop/po/vi.po | 
+ | [ms](/f29/language/ms) | 328 | 342 | 95.9 | /mnt/stockage/packages/f29/alleyoop/po/ms.po | 
+ | [it](/f29/language/it) | 310 | 342 | 90.6 | /mnt/stockage/packages/f29/alleyoop/po/it.po | 
+ | [mn](/f29/language/mn) | 285 | 342 | 83.3 | /mnt/stockage/packages/f29/alleyoop/po/mn.po | 
+ | [pl](/f29/language/pl) | 268 | 342 | 78.4 | /mnt/stockage/packages/f29/alleyoop/po/pl.po | 
+ | [nb_NO](/f29/language/nb_NO) | 248 | 351 | 70.7 | /mnt/stockage/packages/f29/alleyoop/po/nb.po | 
+ | [az](/f29/language/az) | 194 | 342 | 56.7 | /mnt/stockage/packages/f29/alleyoop/po/az.po | 
+ | [gu](/f29/language/gu) | 177 | 342 | 51.8 | /mnt/stockage/packages/f29/alleyoop/po/gu.po | 
+ | [pa](/f29/language/pa) | 89 | 346 | 25.7 | /mnt/stockage/packages/f29/alleyoop/po/pa.po | 
+ | [oc](/f29/language/oc) | 78 | 351 | 22.2 | /mnt/stockage/packages/f29/alleyoop/po/oc.po | 
+ | [eo](/f29/language/eo) | 69 | 351 | 19.7 | /mnt/stockage/packages/f29/alleyoop/po/eo.po | 
+ | [ga](/f29/language/ga) | 66 | 342 | 19.3 | /mnt/stockage/packages/f29/alleyoop/po/ga.po | 
+ | [ar](/f29/language/ar) | 17 | 351 | 4.8 | /mnt/stockage/packages/f29/alleyoop/po/ar.po | 
+ | [ml](/f29/language/ml) | 16 | 343 | 4.7 | /mnt/stockage/packages/f29/alleyoop/po/ml.po | 
+ | [rw](/f29/language/rw) | 6 | 342 | 1.8 | /mnt/stockage/packages/f29/alleyoop/po/rw.po | 
 {.sortable}
 
 

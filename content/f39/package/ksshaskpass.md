@@ -18,54 +18,54 @@ The package ksshaskpass (version 5.27.11):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f39/language/ar.md" >}}) | 51 | 51 | 100.0 | /mnt/stockage/packages/f39/ksshaskpass/po/ar/ksshaskpass.po | 
- | [ca]({{< ref "/f39/language/ca.md" >}}) | 51 | 51 | 100.0 | /mnt/stockage/packages/f39/ksshaskpass/po/ca/ksshaskpass.po | 
- | [ca@valencia]({{< ref "/f39/language/ca@valencia.md" >}}) | 51 | 51 | 100.0 | /mnt/stockage/packages/f39/ksshaskpass/po/ca@valencia/ksshaskpass.po | 
- | [cs]({{< ref "/f39/language/cs.md" >}}) | 51 | 51 | 100.0 | /mnt/stockage/packages/f39/ksshaskpass/po/cs/ksshaskpass.po | 
- | [de]({{< ref "/f39/language/de.md" >}}) | 51 | 51 | 100.0 | /mnt/stockage/packages/f39/ksshaskpass/po/de/ksshaskpass.po | 
- | [en_GB]({{< ref "/f39/language/en_GB.md" >}}) | 51 | 51 | 100.0 | /mnt/stockage/packages/f39/ksshaskpass/po/en_GB/ksshaskpass.po | 
- | [es]({{< ref "/f39/language/es.md" >}}) | 51 | 51 | 100.0 | /mnt/stockage/packages/f39/ksshaskpass/po/es/ksshaskpass.po | 
- | [eu]({{< ref "/f39/language/eu.md" >}}) | 51 | 51 | 100.0 | /mnt/stockage/packages/f39/ksshaskpass/po/eu/ksshaskpass.po | 
- | [fi]({{< ref "/f39/language/fi.md" >}}) | 51 | 51 | 100.0 | /mnt/stockage/packages/f39/ksshaskpass/po/fi/ksshaskpass.po | 
- | [fr]({{< ref "/f39/language/fr.md" >}}) | 51 | 51 | 100.0 | /mnt/stockage/packages/f39/ksshaskpass/po/fr/ksshaskpass.po | 
- | [gl]({{< ref "/f39/language/gl.md" >}}) | 51 | 51 | 100.0 | /mnt/stockage/packages/f39/ksshaskpass/po/gl/ksshaskpass.po | 
- | [ia]({{< ref "/f39/language/ia.md" >}}) | 51 | 51 | 100.0 | /mnt/stockage/packages/f39/ksshaskpass/po/ia/ksshaskpass.po | 
- | [it]({{< ref "/f39/language/it.md" >}}) | 51 | 51 | 100.0 | /mnt/stockage/packages/f39/ksshaskpass/po/it/ksshaskpass.po | 
- | [ka]({{< ref "/f39/language/ka.md" >}}) | 51 | 51 | 100.0 | /mnt/stockage/packages/f39/ksshaskpass/po/ka/ksshaskpass.po | 
- | [ko]({{< ref "/f39/language/ko.md" >}}) | 51 | 51 | 100.0 | /mnt/stockage/packages/f39/ksshaskpass/po/ko/ksshaskpass.po | 
- | [nl]({{< ref "/f39/language/nl.md" >}}) | 51 | 51 | 100.0 | /mnt/stockage/packages/f39/ksshaskpass/po/nl/ksshaskpass.po | 
- | [nn]({{< ref "/f39/language/nn.md" >}}) | 51 | 51 | 100.0 | /mnt/stockage/packages/f39/ksshaskpass/po/nn/ksshaskpass.po | 
- | [pl]({{< ref "/f39/language/pl.md" >}}) | 51 | 51 | 100.0 | /mnt/stockage/packages/f39/ksshaskpass/po/pl/ksshaskpass.po | 
- | [pt]({{< ref "/f39/language/pt.md" >}}) | 51 | 51 | 100.0 | /mnt/stockage/packages/f39/ksshaskpass/po/pt/ksshaskpass.po | 
- | [pt_BR]({{< ref "/f39/language/pt_BR.md" >}}) | 51 | 51 | 100.0 | /mnt/stockage/packages/f39/ksshaskpass/po/pt_BR/ksshaskpass.po | 
- | [ro]({{< ref "/f39/language/ro.md" >}}) | 51 | 51 | 100.0 | /mnt/stockage/packages/f39/ksshaskpass/po/ro/ksshaskpass.po | 
- | [ru]({{< ref "/f39/language/ru.md" >}}) | 51 | 51 | 100.0 | /mnt/stockage/packages/f39/ksshaskpass/po/ru/ksshaskpass.po | 
- | [sk]({{< ref "/f39/language/sk.md" >}}) | 51 | 51 | 100.0 | /mnt/stockage/packages/f39/ksshaskpass/po/sk/ksshaskpass.po | 
- | [sl]({{< ref "/f39/language/sl.md" >}}) | 51 | 51 | 100.0 | /mnt/stockage/packages/f39/ksshaskpass/po/sl/ksshaskpass.po | 
- | [sv]({{< ref "/f39/language/sv.md" >}}) | 51 | 51 | 100.0 | /mnt/stockage/packages/f39/ksshaskpass/po/sv/ksshaskpass.po | 
- | [tr]({{< ref "/f39/language/tr.md" >}}) | 51 | 51 | 100.0 | /mnt/stockage/packages/f39/ksshaskpass/po/tr/ksshaskpass.po | 
- | [uk]({{< ref "/f39/language/uk.md" >}}) | 51 | 51 | 100.0 | /mnt/stockage/packages/f39/ksshaskpass/po/uk/ksshaskpass.po | 
- | [vi]({{< ref "/f39/language/vi.md" >}}) | 51 | 51 | 100.0 | /mnt/stockage/packages/f39/ksshaskpass/po/vi/ksshaskpass.po | 
- | [zh_Hans]({{< ref "/f39/language/zh_Hans.md" >}}) | 51 | 51 | 100.0 | /mnt/stockage/packages/f39/ksshaskpass/po/zh_CN/ksshaskpass.po | 
- | [da]({{< ref "/f39/language/da.md" >}}) | 50 | 51 | 98.0 | /mnt/stockage/packages/f39/ksshaskpass/po/da/ksshaskpass.po | 
- | [el]({{< ref "/f39/language/el.md" >}}) | 50 | 51 | 98.0 | /mnt/stockage/packages/f39/ksshaskpass/po/el/ksshaskpass.po | 
- | [et]({{< ref "/f39/language/et.md" >}}) | 50 | 51 | 98.0 | /mnt/stockage/packages/f39/ksshaskpass/po/et/ksshaskpass.po | 
- | [hi]({{< ref "/f39/language/hi.md" >}}) | 50 | 51 | 98.0 | /mnt/stockage/packages/f39/ksshaskpass/po/hi/ksshaskpass.po | 
- | [hu]({{< ref "/f39/language/hu.md" >}}) | 50 | 51 | 98.0 | /mnt/stockage/packages/f39/ksshaskpass/po/hu/ksshaskpass.po | 
- | [id]({{< ref "/f39/language/id.md" >}}) | 50 | 51 | 98.0 | /mnt/stockage/packages/f39/ksshaskpass/po/id/ksshaskpass.po | 
- | [lt]({{< ref "/f39/language/lt.md" >}}) | 50 | 51 | 98.0 | /mnt/stockage/packages/f39/ksshaskpass/po/lt/ksshaskpass.po | 
- | [zh_Hant]({{< ref "/f39/language/zh_Hant.md" >}}) | 50 | 51 | 98.0 | /mnt/stockage/packages/f39/ksshaskpass/po/zh_TW/ksshaskpass.po | 
- | [pa]({{< ref "/f39/language/pa.md" >}}) | 43 | 51 | 84.3 | /mnt/stockage/packages/f39/ksshaskpass/po/pa/ksshaskpass.po | 
- | [sr]({{< ref "/f39/language/sr.md" >}}) | 34 | 50 | 68.0 | /mnt/stockage/packages/f39/ksshaskpass/po/sr/ksshaskpass.po | 
- | [sr@ijekavian]({{< ref "/f39/language/sr@ijekavian.md" >}}) | 34 | 50 | 68.0 | /mnt/stockage/packages/f39/ksshaskpass/po/sr@ijekavian/ksshaskpass.po | 
- | [sr@ijekavian_Latn]({{< ref "/f39/language/sr@ijekavian_Latn.md" >}}) | 34 | 50 | 68.0 | /mnt/stockage/packages/f39/ksshaskpass/po/sr@ijekavianlatin/ksshaskpass.po | 
- | [sr_Latn]({{< ref "/f39/language/sr_Latn.md" >}}) | 34 | 50 | 68.0 | /mnt/stockage/packages/f39/ksshaskpass/po/sr@latin/ksshaskpass.po | 
- | [bs]({{< ref "/f39/language/bs.md" >}}) | 34 | 51 | 66.7 | /mnt/stockage/packages/f39/ksshaskpass/po/bs/ksshaskpass.po | 
- | [nb_NO]({{< ref "/f39/language/nb_NO.md" >}}) | 34 | 51 | 66.7 | /mnt/stockage/packages/f39/ksshaskpass/po/nb/ksshaskpass.po | 
- | [tg]({{< ref "/f39/language/tg.md" >}}) | 34 | 51 | 66.7 | /mnt/stockage/packages/f39/ksshaskpass/po/tg/ksshaskpass.po | 
- | [he]({{< ref "/f39/language/he.md" >}}) | 30 | 51 | 58.8 | /mnt/stockage/packages/f39/ksshaskpass/po/he/ksshaskpass.po | 
- | [ml]({{< ref "/f39/language/ml.md" >}}) | 2 | 51 | 3.9 | /mnt/stockage/packages/f39/ksshaskpass/po/ml/ksshaskpass.po | 
- | [ja]({{< ref "/f39/language/ja.md" >}}) | 0 | 51 | 0.0 | /mnt/stockage/packages/f39/ksshaskpass/po/ja/ksshaskpass.po | 
+ | [ar](/f39/language/ar) | 51 | 51 | 100.0 | /mnt/stockage/packages/f39/ksshaskpass/po/ar/ksshaskpass.po | 
+ | [ca](/f39/language/ca) | 51 | 51 | 100.0 | /mnt/stockage/packages/f39/ksshaskpass/po/ca/ksshaskpass.po | 
+ | [ca@valencia](/f39/language/ca@valencia) | 51 | 51 | 100.0 | /mnt/stockage/packages/f39/ksshaskpass/po/ca@valencia/ksshaskpass.po | 
+ | [cs](/f39/language/cs) | 51 | 51 | 100.0 | /mnt/stockage/packages/f39/ksshaskpass/po/cs/ksshaskpass.po | 
+ | [de](/f39/language/de) | 51 | 51 | 100.0 | /mnt/stockage/packages/f39/ksshaskpass/po/de/ksshaskpass.po | 
+ | [en_GB](/f39/language/en_GB) | 51 | 51 | 100.0 | /mnt/stockage/packages/f39/ksshaskpass/po/en_GB/ksshaskpass.po | 
+ | [es](/f39/language/es) | 51 | 51 | 100.0 | /mnt/stockage/packages/f39/ksshaskpass/po/es/ksshaskpass.po | 
+ | [eu](/f39/language/eu) | 51 | 51 | 100.0 | /mnt/stockage/packages/f39/ksshaskpass/po/eu/ksshaskpass.po | 
+ | [fi](/f39/language/fi) | 51 | 51 | 100.0 | /mnt/stockage/packages/f39/ksshaskpass/po/fi/ksshaskpass.po | 
+ | [fr](/f39/language/fr) | 51 | 51 | 100.0 | /mnt/stockage/packages/f39/ksshaskpass/po/fr/ksshaskpass.po | 
+ | [gl](/f39/language/gl) | 51 | 51 | 100.0 | /mnt/stockage/packages/f39/ksshaskpass/po/gl/ksshaskpass.po | 
+ | [ia](/f39/language/ia) | 51 | 51 | 100.0 | /mnt/stockage/packages/f39/ksshaskpass/po/ia/ksshaskpass.po | 
+ | [it](/f39/language/it) | 51 | 51 | 100.0 | /mnt/stockage/packages/f39/ksshaskpass/po/it/ksshaskpass.po | 
+ | [ka](/f39/language/ka) | 51 | 51 | 100.0 | /mnt/stockage/packages/f39/ksshaskpass/po/ka/ksshaskpass.po | 
+ | [ko](/f39/language/ko) | 51 | 51 | 100.0 | /mnt/stockage/packages/f39/ksshaskpass/po/ko/ksshaskpass.po | 
+ | [nl](/f39/language/nl) | 51 | 51 | 100.0 | /mnt/stockage/packages/f39/ksshaskpass/po/nl/ksshaskpass.po | 
+ | [nn](/f39/language/nn) | 51 | 51 | 100.0 | /mnt/stockage/packages/f39/ksshaskpass/po/nn/ksshaskpass.po | 
+ | [pl](/f39/language/pl) | 51 | 51 | 100.0 | /mnt/stockage/packages/f39/ksshaskpass/po/pl/ksshaskpass.po | 
+ | [pt](/f39/language/pt) | 51 | 51 | 100.0 | /mnt/stockage/packages/f39/ksshaskpass/po/pt/ksshaskpass.po | 
+ | [pt_BR](/f39/language/pt_BR) | 51 | 51 | 100.0 | /mnt/stockage/packages/f39/ksshaskpass/po/pt_BR/ksshaskpass.po | 
+ | [ro](/f39/language/ro) | 51 | 51 | 100.0 | /mnt/stockage/packages/f39/ksshaskpass/po/ro/ksshaskpass.po | 
+ | [ru](/f39/language/ru) | 51 | 51 | 100.0 | /mnt/stockage/packages/f39/ksshaskpass/po/ru/ksshaskpass.po | 
+ | [sk](/f39/language/sk) | 51 | 51 | 100.0 | /mnt/stockage/packages/f39/ksshaskpass/po/sk/ksshaskpass.po | 
+ | [sl](/f39/language/sl) | 51 | 51 | 100.0 | /mnt/stockage/packages/f39/ksshaskpass/po/sl/ksshaskpass.po | 
+ | [sv](/f39/language/sv) | 51 | 51 | 100.0 | /mnt/stockage/packages/f39/ksshaskpass/po/sv/ksshaskpass.po | 
+ | [tr](/f39/language/tr) | 51 | 51 | 100.0 | /mnt/stockage/packages/f39/ksshaskpass/po/tr/ksshaskpass.po | 
+ | [uk](/f39/language/uk) | 51 | 51 | 100.0 | /mnt/stockage/packages/f39/ksshaskpass/po/uk/ksshaskpass.po | 
+ | [vi](/f39/language/vi) | 51 | 51 | 100.0 | /mnt/stockage/packages/f39/ksshaskpass/po/vi/ksshaskpass.po | 
+ | [zh_Hans](/f39/language/zh_Hans) | 51 | 51 | 100.0 | /mnt/stockage/packages/f39/ksshaskpass/po/zh_CN/ksshaskpass.po | 
+ | [da](/f39/language/da) | 50 | 51 | 98.0 | /mnt/stockage/packages/f39/ksshaskpass/po/da/ksshaskpass.po | 
+ | [el](/f39/language/el) | 50 | 51 | 98.0 | /mnt/stockage/packages/f39/ksshaskpass/po/el/ksshaskpass.po | 
+ | [et](/f39/language/et) | 50 | 51 | 98.0 | /mnt/stockage/packages/f39/ksshaskpass/po/et/ksshaskpass.po | 
+ | [hi](/f39/language/hi) | 50 | 51 | 98.0 | /mnt/stockage/packages/f39/ksshaskpass/po/hi/ksshaskpass.po | 
+ | [hu](/f39/language/hu) | 50 | 51 | 98.0 | /mnt/stockage/packages/f39/ksshaskpass/po/hu/ksshaskpass.po | 
+ | [id](/f39/language/id) | 50 | 51 | 98.0 | /mnt/stockage/packages/f39/ksshaskpass/po/id/ksshaskpass.po | 
+ | [lt](/f39/language/lt) | 50 | 51 | 98.0 | /mnt/stockage/packages/f39/ksshaskpass/po/lt/ksshaskpass.po | 
+ | [zh_Hant](/f39/language/zh_Hant) | 50 | 51 | 98.0 | /mnt/stockage/packages/f39/ksshaskpass/po/zh_TW/ksshaskpass.po | 
+ | [pa](/f39/language/pa) | 43 | 51 | 84.3 | /mnt/stockage/packages/f39/ksshaskpass/po/pa/ksshaskpass.po | 
+ | [sr](/f39/language/sr) | 34 | 50 | 68.0 | /mnt/stockage/packages/f39/ksshaskpass/po/sr/ksshaskpass.po | 
+ | [sr@ijekavian](/f39/language/sr@ijekavian) | 34 | 50 | 68.0 | /mnt/stockage/packages/f39/ksshaskpass/po/sr@ijekavian/ksshaskpass.po | 
+ | [sr@ijekavian_Latn](/f39/language/sr@ijekavian_Latn) | 34 | 50 | 68.0 | /mnt/stockage/packages/f39/ksshaskpass/po/sr@ijekavianlatin/ksshaskpass.po | 
+ | [sr_Latn](/f39/language/sr_Latn) | 34 | 50 | 68.0 | /mnt/stockage/packages/f39/ksshaskpass/po/sr@latin/ksshaskpass.po | 
+ | [bs](/f39/language/bs) | 34 | 51 | 66.7 | /mnt/stockage/packages/f39/ksshaskpass/po/bs/ksshaskpass.po | 
+ | [nb_NO](/f39/language/nb_NO) | 34 | 51 | 66.7 | /mnt/stockage/packages/f39/ksshaskpass/po/nb/ksshaskpass.po | 
+ | [tg](/f39/language/tg) | 34 | 51 | 66.7 | /mnt/stockage/packages/f39/ksshaskpass/po/tg/ksshaskpass.po | 
+ | [he](/f39/language/he) | 30 | 51 | 58.8 | /mnt/stockage/packages/f39/ksshaskpass/po/he/ksshaskpass.po | 
+ | [ml](/f39/language/ml) | 2 | 51 | 3.9 | /mnt/stockage/packages/f39/ksshaskpass/po/ml/ksshaskpass.po | 
+ | [ja](/f39/language/ja) | 0 | 51 | 0.0 | /mnt/stockage/packages/f39/ksshaskpass/po/ja/ksshaskpass.po | 
 {.sortable}
 
 

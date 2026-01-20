@@ -38,7 +38,7 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [stellarium]({{< ref "/f22/package/stellarium.md" >}}) | 1 | 15825 | 0.0 | Avaric <av@li.org> | 
+ | [stellarium](/f22/package/stellarium) | 1 | 15825 | 0.0 | Avaric <av@li.org> | 
 {.sortable}
 
 

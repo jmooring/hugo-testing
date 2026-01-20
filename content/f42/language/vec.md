@@ -42,13 +42,13 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [xfce4-panel]({{< ref "/f42/package/xfce4-panel.md" >}}) | 2031 | 2045 | 99.3 | Venetian (https://app.transifex.com/xfce/teams/16840/vec/) | 
- | [tuxpaint-stamps]({{< ref "/f42/package/tuxpaint-stamps.md" >}}) | 3220 | 3249 | 99.1 | none | 
- | [slick-greeter]({{< ref "/f42/package/slick-greeter.md" >}}) | 211 | 216 | 97.7 | Venetian <vec@li.org> | 
- | [libxfce4ui]({{< ref "/f42/package/libxfce4ui.md" >}}) | 799 | 1017 | 78.6 | Venetian (https://app.transifex.com/xfce/teams/16840/vec/) | 
- | [libreoffice]({{< ref "/f42/package/libreoffice.md" >}}) | 94867 | 175879 | 53.9 | Venetian <https://translations.documentfoundation.org/projects/libo_ui-master/accessibilitymessages/vec/> | 
- | [stellarium]({{< ref "/f42/package/stellarium.md" >}}) | 286 | 756 | 37.8 | Venetian (https://app.transifex.com/stellarium/teams/80998/vec/) | 
- | [tuxpaint]({{< ref "/f42/package/tuxpaint.md" >}}) | 1148 | 5355 | 21.4 | none | 
+ | [xfce4-panel](/f42/package/xfce4-panel) | 2031 | 2045 | 99.3 | Venetian (https://app.transifex.com/xfce/teams/16840/vec/) | 
+ | [tuxpaint-stamps](/f42/package/tuxpaint-stamps) | 3220 | 3249 | 99.1 | none | 
+ | [slick-greeter](/f42/package/slick-greeter) | 211 | 216 | 97.7 | Venetian <vec@li.org> | 
+ | [libxfce4ui](/f42/package/libxfce4ui) | 799 | 1017 | 78.6 | Venetian (https://app.transifex.com/xfce/teams/16840/vec/) | 
+ | [libreoffice](/f42/package/libreoffice) | 94867 | 175879 | 53.9 | Venetian <https://translations.documentfoundation.org/projects/libo_ui-master/accessibilitymessages/vec/> | 
+ | [stellarium](/f42/package/stellarium) | 286 | 756 | 37.8 | Venetian (https://app.transifex.com/stellarium/teams/80998/vec/) | 
+ | [tuxpaint](/f42/package/tuxpaint) | 1148 | 5355 | 21.4 | none | 
 {.sortable}
 
 

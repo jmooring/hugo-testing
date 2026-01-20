@@ -18,91 +18,91 @@ The package mate-character-map (version 1.6.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f17/language/ar.md" >}}) | 863 | 863 | 100.0 | /mnt/stockage/packages/f17/mate-character-map/po/ar.po | 
- | [as]({{< ref "/f17/language/as.md" >}}) | 803 | 803 | 100.0 | /mnt/stockage/packages/f17/mate-character-map/po/as.po | 
- | [ast]({{< ref "/f17/language/ast.md" >}}) | 803 | 803 | 100.0 | /mnt/stockage/packages/f17/mate-character-map/po/ast.po | 
- | [az]({{< ref "/f17/language/az.md" >}}) | 507 | 507 | 100.0 | /mnt/stockage/packages/f17/mate-character-map/po/az.po | 
- | [bn]({{< ref "/f17/language/bn.md" >}}) | 863 | 863 | 100.0 | /mnt/stockage/packages/f17/mate-character-map/po/bn.po | 
- | [bn_IN]({{< ref "/f17/language/bn_IN.md" >}}) | 803 | 803 | 100.0 | /mnt/stockage/packages/f17/mate-character-map/po/bn_IN.po | 
- | [bs]({{< ref "/f17/language/bs.md" >}}) | 507 | 507 | 100.0 | /mnt/stockage/packages/f17/mate-character-map/po/bs.po | 
- | [ca]({{< ref "/f17/language/ca.md" >}}) | 2463 | 2463 | 100.0 | /mnt/stockage/packages/f17/mate-character-map/help/ca/ca.po/mnt/stockage/packages/f17/mate-character-map/po/ca.po | 
- | [ca@valencia]({{< ref "/f17/language/ca@valencia.md" >}}) | 863 | 863 | 100.0 | /mnt/stockage/packages/f17/mate-character-map/po/ca@valencia.po | 
- | [cs]({{< ref "/f17/language/cs.md" >}}) | 2538 | 2538 | 100.0 | /mnt/stockage/packages/f17/mate-character-map/help/cs/cs.po/mnt/stockage/packages/f17/mate-character-map/po/cs.po | 
- | [cy]({{< ref "/f17/language/cy.md" >}}) | 747 | 747 | 100.0 | /mnt/stockage/packages/f17/mate-character-map/po/cy.po | 
- | [da]({{< ref "/f17/language/da.md" >}}) | 863 | 863 | 100.0 | /mnt/stockage/packages/f17/mate-character-map/po/da.po | 
- | [de]({{< ref "/f17/language/de.md" >}}) | 2538 | 2538 | 100.0 | /mnt/stockage/packages/f17/mate-character-map/help/de/de.po/mnt/stockage/packages/f17/mate-character-map/po/de.po | 
- | [dz]({{< ref "/f17/language/dz.md" >}}) | 772 | 772 | 100.0 | /mnt/stockage/packages/f17/mate-character-map/po/dz.po | 
- | [el]({{< ref "/f17/language/el.md" >}}) | 2538 | 2538 | 100.0 | /mnt/stockage/packages/f17/mate-character-map/help/el/el.po/mnt/stockage/packages/f17/mate-character-map/po/el.po | 
- | [en_CA]({{< ref "/f17/language/en_CA.md" >}}) | 555 | 555 | 100.0 | /mnt/stockage/packages/f17/mate-character-map/po/en_CA.po | 
- | [en_GB]({{< ref "/f17/language/en_GB.md" >}}) | 2538 | 2538 | 100.0 | /mnt/stockage/packages/f17/mate-character-map/help/en_GB/en_GB.po/mnt/stockage/packages/f17/mate-character-map/po/en_GB.po | 
- | [es]({{< ref "/f17/language/es.md" >}}) | 2538 | 2538 | 100.0 | /mnt/stockage/packages/f17/mate-character-map/help/es/es.po/mnt/stockage/packages/f17/mate-character-map/po/es.po | 
- | [et]({{< ref "/f17/language/et.md" >}}) | 863 | 863 | 100.0 | /mnt/stockage/packages/f17/mate-character-map/po/et.po | 
- | [eu]({{< ref "/f17/language/eu.md" >}}) | 863 | 863 | 100.0 | /mnt/stockage/packages/f17/mate-character-map/po/eu.po | 
- | [fi]({{< ref "/f17/language/fi.md" >}}) | 2538 | 2538 | 100.0 | /mnt/stockage/packages/f17/mate-character-map/help/fi/fi.po/mnt/stockage/packages/f17/mate-character-map/po/fi.po | 
- | [fr]({{< ref "/f17/language/fr.md" >}}) | 2538 | 2538 | 100.0 | /mnt/stockage/packages/f17/mate-character-map/help/fr/fr.po/mnt/stockage/packages/f17/mate-character-map/po/fr.po | 
- | [gl]({{< ref "/f17/language/gl.md" >}}) | 863 | 863 | 100.0 | /mnt/stockage/packages/f17/mate-character-map/po/gl.po | 
- | [hi]({{< ref "/f17/language/hi.md" >}}) | 803 | 803 | 100.0 | /mnt/stockage/packages/f17/mate-character-map/po/hi.po | 
- | [hu]({{< ref "/f17/language/hu.md" >}}) | 863 | 863 | 100.0 | /mnt/stockage/packages/f17/mate-character-map/po/hu.po | 
- | [id]({{< ref "/f17/language/id.md" >}}) | 863 | 863 | 100.0 | /mnt/stockage/packages/f17/mate-character-map/po/id.po | 
- | [is]({{< ref "/f17/language/is.md" >}}) | 803 | 803 | 100.0 | /mnt/stockage/packages/f17/mate-character-map/po/is.po | 
- | [it]({{< ref "/f17/language/it.md" >}}) | 863 | 863 | 100.0 | /mnt/stockage/packages/f17/mate-character-map/po/it.po | 
- | [ja]({{< ref "/f17/language/ja.md" >}}) | 863 | 863 | 100.0 | /mnt/stockage/packages/f17/mate-character-map/po/ja.po | 
- | [kn]({{< ref "/f17/language/kn.md" >}}) | 803 | 803 | 100.0 | /mnt/stockage/packages/f17/mate-character-map/po/kn.po | 
- | [ko]({{< ref "/f17/language/ko.md" >}}) | 2463 | 2463 | 100.0 | /mnt/stockage/packages/f17/mate-character-map/help/ko/ko.po/mnt/stockage/packages/f17/mate-character-map/po/ko.po | 
- | [lt]({{< ref "/f17/language/lt.md" >}}) | 863 | 863 | 100.0 | /mnt/stockage/packages/f17/mate-character-map/po/lt.po | 
- | [lv]({{< ref "/f17/language/lv.md" >}}) | 772 | 772 | 100.0 | /mnt/stockage/packages/f17/mate-character-map/po/lv.po | 
- | [mk]({{< ref "/f17/language/mk.md" >}}) | 782 | 782 | 100.0 | /mnt/stockage/packages/f17/mate-character-map/po/mk.po | 
- | [ml]({{< ref "/f17/language/ml.md" >}}) | 803 | 803 | 100.0 | /mnt/stockage/packages/f17/mate-character-map/po/ml.po | 
- | [mn]({{< ref "/f17/language/mn.md" >}}) | 507 | 507 | 100.0 | /mnt/stockage/packages/f17/mate-character-map/po/mn.po | 
- | [mr]({{< ref "/f17/language/mr.md" >}}) | 803 | 803 | 100.0 | /mnt/stockage/packages/f17/mate-character-map/po/mr.po | 
- | [nb_NO]({{< ref "/f17/language/nb_NO.md" >}}) | 863 | 863 | 100.0 | /mnt/stockage/packages/f17/mate-character-map/po/nb.po | 
- | [ne]({{< ref "/f17/language/ne.md" >}}) | 776 | 776 | 100.0 | /mnt/stockage/packages/f17/mate-character-map/po/ne.po | 
- | [nl]({{< ref "/f17/language/nl.md" >}}) | 863 | 863 | 100.0 | /mnt/stockage/packages/f17/mate-character-map/po/nl.po | 
- | [nn]({{< ref "/f17/language/nn.md" >}}) | 779 | 779 | 100.0 | /mnt/stockage/packages/f17/mate-character-map/po/nn.po | 
- | [or]({{< ref "/f17/language/or.md" >}}) | 803 | 803 | 100.0 | /mnt/stockage/packages/f17/mate-character-map/po/or.po | 
- | [pa]({{< ref "/f17/language/pa.md" >}}) | 863 | 863 | 100.0 | /mnt/stockage/packages/f17/mate-character-map/po/pa.po | 
- | [pl]({{< ref "/f17/language/pl.md" >}}) | 863 | 863 | 100.0 | /mnt/stockage/packages/f17/mate-character-map/po/pl.po | 
- | [pt]({{< ref "/f17/language/pt.md" >}}) | 863 | 863 | 100.0 | /mnt/stockage/packages/f17/mate-character-map/po/pt.po | 
- | [pt_BR]({{< ref "/f17/language/pt_BR.md" >}}) | 2463 | 2463 | 100.0 | /mnt/stockage/packages/f17/mate-character-map/help/pt_BR/pt_BR.po/mnt/stockage/packages/f17/mate-character-map/po/pt_BR.po | 
- | [ro]({{< ref "/f17/language/ro.md" >}}) | 863 | 863 | 100.0 | /mnt/stockage/packages/f17/mate-character-map/po/ro.po | 
- | [ru]({{< ref "/f17/language/ru.md" >}}) | 2463 | 2463 | 100.0 | /mnt/stockage/packages/f17/mate-character-map/help/ru/ru.po/mnt/stockage/packages/f17/mate-character-map/po/ru.po | 
- | [sl]({{< ref "/f17/language/sl.md" >}}) | 863 | 863 | 100.0 | /mnt/stockage/packages/f17/mate-character-map/po/sl.po | 
- | [sq]({{< ref "/f17/language/sq.md" >}}) | 782 | 782 | 100.0 | /mnt/stockage/packages/f17/mate-character-map/po/sq.po | 
- | [sr]({{< ref "/f17/language/sr.md" >}}) | 863 | 863 | 100.0 | /mnt/stockage/packages/f17/mate-character-map/po/sr.po | 
- | [sr_Latn]({{< ref "/f17/language/sr_Latn.md" >}}) | 863 | 863 | 100.0 | /mnt/stockage/packages/f17/mate-character-map/po/sr@latin.po | 
- | [sv]({{< ref "/f17/language/sv.md" >}}) | 2538 | 2538 | 100.0 | /mnt/stockage/packages/f17/mate-character-map/help/sv/sv.po/mnt/stockage/packages/f17/mate-character-map/po/sv.po | 
- | [ta]({{< ref "/f17/language/ta.md" >}}) | 863 | 863 | 100.0 | /mnt/stockage/packages/f17/mate-character-map/po/ta.po | 
- | [te]({{< ref "/f17/language/te.md" >}}) | 803 | 803 | 100.0 | /mnt/stockage/packages/f17/mate-character-map/po/te.po | 
- | [tr]({{< ref "/f17/language/tr.md" >}}) | 803 | 803 | 100.0 | /mnt/stockage/packages/f17/mate-character-map/po/tr.po | 
- | [uk]({{< ref "/f17/language/uk.md" >}}) | 863 | 863 | 100.0 | /mnt/stockage/packages/f17/mate-character-map/po/uk.po | 
- | [vi]({{< ref "/f17/language/vi.md" >}}) | 2463 | 2463 | 100.0 | /mnt/stockage/packages/f17/mate-character-map/help/vi/vi.po/mnt/stockage/packages/f17/mate-character-map/po/vi.po | 
- | [wa]({{< ref "/f17/language/wa.md" >}}) | 552 | 552 | 100.0 | /mnt/stockage/packages/f17/mate-character-map/po/wa.po | 
- | [xh]({{< ref "/f17/language/xh.md" >}}) | 507 | 507 | 100.0 | /mnt/stockage/packages/f17/mate-character-map/po/xh.po | 
- | [zh_Hans]({{< ref "/f17/language/zh_Hans.md" >}}) | 2538 | 2538 | 100.0 | /mnt/stockage/packages/f17/mate-character-map/help/zh_CN/zh_CN.po/mnt/stockage/packages/f17/mate-character-map/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f17/language/zh_Hant.md" >}}) | 863 | 863 | 100.0 | /mnt/stockage/packages/f17/mate-character-map/po/zh_TW.po | 
- | [zh_Hant_HK]({{< ref "/f17/language/zh_Hant_HK.md" >}}) | 863 | 863 | 100.0 | /mnt/stockage/packages/f17/mate-character-map/po/zh_HK.po | 
- | [sk]({{< ref "/f17/language/sk.md" >}}) | 779 | 782 | 99.6 | /mnt/stockage/packages/f17/mate-character-map/po/sk.po | 
- | [th]({{< ref "/f17/language/th.md" >}}) | 858 | 863 | 99.4 | /mnt/stockage/packages/f17/mate-character-map/po/th.po | 
- | [eo]({{< ref "/f17/language/eo.md" >}}) | 840 | 863 | 97.3 | /mnt/stockage/packages/f17/mate-character-map/po/eo.po | 
- | [he]({{< ref "/f17/language/he.md" >}}) | 819 | 863 | 94.9 | /mnt/stockage/packages/f17/mate-character-map/po/he.po | 
- | [gu]({{< ref "/f17/language/gu.md" >}}) | 796 | 863 | 92.2 | /mnt/stockage/packages/f17/mate-character-map/po/gu.po | 
- | [fa]({{< ref "/f17/language/fa.md" >}}) | 466 | 507 | 91.9 | /mnt/stockage/packages/f17/mate-character-map/po/fa.po | 
- | [ms]({{< ref "/f17/language/ms.md" >}}) | 467 | 518 | 90.2 | /mnt/stockage/packages/f17/mate-character-map/po/ms.po | 
- | [mai]({{< ref "/f17/language/mai.md" >}}) | 716 | 803 | 89.2 | /mnt/stockage/packages/f17/mate-character-map/po/mai.po | 
- | [hr]({{< ref "/f17/language/hr.md" >}}) | 700 | 803 | 87.2 | /mnt/stockage/packages/f17/mate-character-map/po/hr.po | 
- | [af]({{< ref "/f17/language/af.md" >}}) | 675 | 803 | 84.1 | /mnt/stockage/packages/f17/mate-character-map/po/af.po | 
- | [be_Latn]({{< ref "/f17/language/be_Latn.md" >}}) | 530 | 782 | 67.8 | /mnt/stockage/packages/f17/mate-character-map/po/be@latin.po | 
- | [ga]({{< ref "/f17/language/ga.md" >}}) | 518 | 782 | 66.2 | /mnt/stockage/packages/f17/mate-character-map/po/ga.po | 
- | [error]({{< ref "/f17/language/error.md" >}}) | 526 | 863 | 61.0 | /mnt/stockage/packages/f17/mate-character-map/po/en@shaw.po | 
- | [bg]({{< ref "/f17/language/bg.md" >}}) | 1402 | 2548 | 55.0 | /mnt/stockage/packages/f17/mate-character-map/help/bg/bg.po/mnt/stockage/packages/f17/mate-character-map/po/bg.po | 
- | [be]({{< ref "/f17/language/be.md" >}}) | 214 | 534 | 40.1 | /mnt/stockage/packages/f17/mate-character-map/po/be.po | 
- | [rw]({{< ref "/f17/language/rw.md" >}}) | 151 | 507 | 29.8 | /mnt/stockage/packages/f17/mate-character-map/po/rw.po | 
- | [ka]({{< ref "/f17/language/ka.md" >}}) | 208 | 747 | 27.8 | /mnt/stockage/packages/f17/mate-character-map/po/ka.po | 
- | [br]({{< ref "/f17/language/br.md" >}}) | 178 | 803 | 22.2 | /mnt/stockage/packages/f17/mate-character-map/po/br.po | 
- | [am]({{< ref "/f17/language/am.md" >}}) | 35 | 208 | 16.8 | /mnt/stockage/packages/f17/mate-character-map/po/am.po | 
- | [si]({{< ref "/f17/language/si.md" >}}) | 45 | 776 | 5.8 | /mnt/stockage/packages/f17/mate-character-map/po/si.po | 
- | [oc]({{< ref "/f17/language/oc.md" >}}) | 137 | 2403 | 5.7 | /mnt/stockage/packages/f17/mate-character-map/help/oc/oc.po/mnt/stockage/packages/f17/mate-character-map/po/oc.po | 
- | [mi]({{< ref "/f17/language/mi.md" >}}) | 0 | 507 | 0.0 | /mnt/stockage/packages/f17/mate-character-map/po/mi.po | 
+ | [ar](/f17/language/ar) | 863 | 863 | 100.0 | /mnt/stockage/packages/f17/mate-character-map/po/ar.po | 
+ | [as](/f17/language/as) | 803 | 803 | 100.0 | /mnt/stockage/packages/f17/mate-character-map/po/as.po | 
+ | [ast](/f17/language/ast) | 803 | 803 | 100.0 | /mnt/stockage/packages/f17/mate-character-map/po/ast.po | 
+ | [az](/f17/language/az) | 507 | 507 | 100.0 | /mnt/stockage/packages/f17/mate-character-map/po/az.po | 
+ | [bn](/f17/language/bn) | 863 | 863 | 100.0 | /mnt/stockage/packages/f17/mate-character-map/po/bn.po | 
+ | [bn_IN](/f17/language/bn_IN) | 803 | 803 | 100.0 | /mnt/stockage/packages/f17/mate-character-map/po/bn_IN.po | 
+ | [bs](/f17/language/bs) | 507 | 507 | 100.0 | /mnt/stockage/packages/f17/mate-character-map/po/bs.po | 
+ | [ca](/f17/language/ca) | 2463 | 2463 | 100.0 | /mnt/stockage/packages/f17/mate-character-map/help/ca/ca.po/mnt/stockage/packages/f17/mate-character-map/po/ca.po | 
+ | [ca@valencia](/f17/language/ca@valencia) | 863 | 863 | 100.0 | /mnt/stockage/packages/f17/mate-character-map/po/ca@valencia.po | 
+ | [cs](/f17/language/cs) | 2538 | 2538 | 100.0 | /mnt/stockage/packages/f17/mate-character-map/help/cs/cs.po/mnt/stockage/packages/f17/mate-character-map/po/cs.po | 
+ | [cy](/f17/language/cy) | 747 | 747 | 100.0 | /mnt/stockage/packages/f17/mate-character-map/po/cy.po | 
+ | [da](/f17/language/da) | 863 | 863 | 100.0 | /mnt/stockage/packages/f17/mate-character-map/po/da.po | 
+ | [de](/f17/language/de) | 2538 | 2538 | 100.0 | /mnt/stockage/packages/f17/mate-character-map/help/de/de.po/mnt/stockage/packages/f17/mate-character-map/po/de.po | 
+ | [dz](/f17/language/dz) | 772 | 772 | 100.0 | /mnt/stockage/packages/f17/mate-character-map/po/dz.po | 
+ | [el](/f17/language/el) | 2538 | 2538 | 100.0 | /mnt/stockage/packages/f17/mate-character-map/help/el/el.po/mnt/stockage/packages/f17/mate-character-map/po/el.po | 
+ | [en_CA](/f17/language/en_CA) | 555 | 555 | 100.0 | /mnt/stockage/packages/f17/mate-character-map/po/en_CA.po | 
+ | [en_GB](/f17/language/en_GB) | 2538 | 2538 | 100.0 | /mnt/stockage/packages/f17/mate-character-map/help/en_GB/en_GB.po/mnt/stockage/packages/f17/mate-character-map/po/en_GB.po | 
+ | [es](/f17/language/es) | 2538 | 2538 | 100.0 | /mnt/stockage/packages/f17/mate-character-map/help/es/es.po/mnt/stockage/packages/f17/mate-character-map/po/es.po | 
+ | [et](/f17/language/et) | 863 | 863 | 100.0 | /mnt/stockage/packages/f17/mate-character-map/po/et.po | 
+ | [eu](/f17/language/eu) | 863 | 863 | 100.0 | /mnt/stockage/packages/f17/mate-character-map/po/eu.po | 
+ | [fi](/f17/language/fi) | 2538 | 2538 | 100.0 | /mnt/stockage/packages/f17/mate-character-map/help/fi/fi.po/mnt/stockage/packages/f17/mate-character-map/po/fi.po | 
+ | [fr](/f17/language/fr) | 2538 | 2538 | 100.0 | /mnt/stockage/packages/f17/mate-character-map/help/fr/fr.po/mnt/stockage/packages/f17/mate-character-map/po/fr.po | 
+ | [gl](/f17/language/gl) | 863 | 863 | 100.0 | /mnt/stockage/packages/f17/mate-character-map/po/gl.po | 
+ | [hi](/f17/language/hi) | 803 | 803 | 100.0 | /mnt/stockage/packages/f17/mate-character-map/po/hi.po | 
+ | [hu](/f17/language/hu) | 863 | 863 | 100.0 | /mnt/stockage/packages/f17/mate-character-map/po/hu.po | 
+ | [id](/f17/language/id) | 863 | 863 | 100.0 | /mnt/stockage/packages/f17/mate-character-map/po/id.po | 
+ | [is](/f17/language/is) | 803 | 803 | 100.0 | /mnt/stockage/packages/f17/mate-character-map/po/is.po | 
+ | [it](/f17/language/it) | 863 | 863 | 100.0 | /mnt/stockage/packages/f17/mate-character-map/po/it.po | 
+ | [ja](/f17/language/ja) | 863 | 863 | 100.0 | /mnt/stockage/packages/f17/mate-character-map/po/ja.po | 
+ | [kn](/f17/language/kn) | 803 | 803 | 100.0 | /mnt/stockage/packages/f17/mate-character-map/po/kn.po | 
+ | [ko](/f17/language/ko) | 2463 | 2463 | 100.0 | /mnt/stockage/packages/f17/mate-character-map/help/ko/ko.po/mnt/stockage/packages/f17/mate-character-map/po/ko.po | 
+ | [lt](/f17/language/lt) | 863 | 863 | 100.0 | /mnt/stockage/packages/f17/mate-character-map/po/lt.po | 
+ | [lv](/f17/language/lv) | 772 | 772 | 100.0 | /mnt/stockage/packages/f17/mate-character-map/po/lv.po | 
+ | [mk](/f17/language/mk) | 782 | 782 | 100.0 | /mnt/stockage/packages/f17/mate-character-map/po/mk.po | 
+ | [ml](/f17/language/ml) | 803 | 803 | 100.0 | /mnt/stockage/packages/f17/mate-character-map/po/ml.po | 
+ | [mn](/f17/language/mn) | 507 | 507 | 100.0 | /mnt/stockage/packages/f17/mate-character-map/po/mn.po | 
+ | [mr](/f17/language/mr) | 803 | 803 | 100.0 | /mnt/stockage/packages/f17/mate-character-map/po/mr.po | 
+ | [nb_NO](/f17/language/nb_NO) | 863 | 863 | 100.0 | /mnt/stockage/packages/f17/mate-character-map/po/nb.po | 
+ | [ne](/f17/language/ne) | 776 | 776 | 100.0 | /mnt/stockage/packages/f17/mate-character-map/po/ne.po | 
+ | [nl](/f17/language/nl) | 863 | 863 | 100.0 | /mnt/stockage/packages/f17/mate-character-map/po/nl.po | 
+ | [nn](/f17/language/nn) | 779 | 779 | 100.0 | /mnt/stockage/packages/f17/mate-character-map/po/nn.po | 
+ | [or](/f17/language/or) | 803 | 803 | 100.0 | /mnt/stockage/packages/f17/mate-character-map/po/or.po | 
+ | [pa](/f17/language/pa) | 863 | 863 | 100.0 | /mnt/stockage/packages/f17/mate-character-map/po/pa.po | 
+ | [pl](/f17/language/pl) | 863 | 863 | 100.0 | /mnt/stockage/packages/f17/mate-character-map/po/pl.po | 
+ | [pt](/f17/language/pt) | 863 | 863 | 100.0 | /mnt/stockage/packages/f17/mate-character-map/po/pt.po | 
+ | [pt_BR](/f17/language/pt_BR) | 2463 | 2463 | 100.0 | /mnt/stockage/packages/f17/mate-character-map/help/pt_BR/pt_BR.po/mnt/stockage/packages/f17/mate-character-map/po/pt_BR.po | 
+ | [ro](/f17/language/ro) | 863 | 863 | 100.0 | /mnt/stockage/packages/f17/mate-character-map/po/ro.po | 
+ | [ru](/f17/language/ru) | 2463 | 2463 | 100.0 | /mnt/stockage/packages/f17/mate-character-map/help/ru/ru.po/mnt/stockage/packages/f17/mate-character-map/po/ru.po | 
+ | [sl](/f17/language/sl) | 863 | 863 | 100.0 | /mnt/stockage/packages/f17/mate-character-map/po/sl.po | 
+ | [sq](/f17/language/sq) | 782 | 782 | 100.0 | /mnt/stockage/packages/f17/mate-character-map/po/sq.po | 
+ | [sr](/f17/language/sr) | 863 | 863 | 100.0 | /mnt/stockage/packages/f17/mate-character-map/po/sr.po | 
+ | [sr_Latn](/f17/language/sr_Latn) | 863 | 863 | 100.0 | /mnt/stockage/packages/f17/mate-character-map/po/sr@latin.po | 
+ | [sv](/f17/language/sv) | 2538 | 2538 | 100.0 | /mnt/stockage/packages/f17/mate-character-map/help/sv/sv.po/mnt/stockage/packages/f17/mate-character-map/po/sv.po | 
+ | [ta](/f17/language/ta) | 863 | 863 | 100.0 | /mnt/stockage/packages/f17/mate-character-map/po/ta.po | 
+ | [te](/f17/language/te) | 803 | 803 | 100.0 | /mnt/stockage/packages/f17/mate-character-map/po/te.po | 
+ | [tr](/f17/language/tr) | 803 | 803 | 100.0 | /mnt/stockage/packages/f17/mate-character-map/po/tr.po | 
+ | [uk](/f17/language/uk) | 863 | 863 | 100.0 | /mnt/stockage/packages/f17/mate-character-map/po/uk.po | 
+ | [vi](/f17/language/vi) | 2463 | 2463 | 100.0 | /mnt/stockage/packages/f17/mate-character-map/help/vi/vi.po/mnt/stockage/packages/f17/mate-character-map/po/vi.po | 
+ | [wa](/f17/language/wa) | 552 | 552 | 100.0 | /mnt/stockage/packages/f17/mate-character-map/po/wa.po | 
+ | [xh](/f17/language/xh) | 507 | 507 | 100.0 | /mnt/stockage/packages/f17/mate-character-map/po/xh.po | 
+ | [zh_Hans](/f17/language/zh_Hans) | 2538 | 2538 | 100.0 | /mnt/stockage/packages/f17/mate-character-map/help/zh_CN/zh_CN.po/mnt/stockage/packages/f17/mate-character-map/po/zh_CN.po | 
+ | [zh_Hant](/f17/language/zh_Hant) | 863 | 863 | 100.0 | /mnt/stockage/packages/f17/mate-character-map/po/zh_TW.po | 
+ | [zh_Hant_HK](/f17/language/zh_Hant_HK) | 863 | 863 | 100.0 | /mnt/stockage/packages/f17/mate-character-map/po/zh_HK.po | 
+ | [sk](/f17/language/sk) | 779 | 782 | 99.6 | /mnt/stockage/packages/f17/mate-character-map/po/sk.po | 
+ | [th](/f17/language/th) | 858 | 863 | 99.4 | /mnt/stockage/packages/f17/mate-character-map/po/th.po | 
+ | [eo](/f17/language/eo) | 840 | 863 | 97.3 | /mnt/stockage/packages/f17/mate-character-map/po/eo.po | 
+ | [he](/f17/language/he) | 819 | 863 | 94.9 | /mnt/stockage/packages/f17/mate-character-map/po/he.po | 
+ | [gu](/f17/language/gu) | 796 | 863 | 92.2 | /mnt/stockage/packages/f17/mate-character-map/po/gu.po | 
+ | [fa](/f17/language/fa) | 466 | 507 | 91.9 | /mnt/stockage/packages/f17/mate-character-map/po/fa.po | 
+ | [ms](/f17/language/ms) | 467 | 518 | 90.2 | /mnt/stockage/packages/f17/mate-character-map/po/ms.po | 
+ | [mai](/f17/language/mai) | 716 | 803 | 89.2 | /mnt/stockage/packages/f17/mate-character-map/po/mai.po | 
+ | [hr](/f17/language/hr) | 700 | 803 | 87.2 | /mnt/stockage/packages/f17/mate-character-map/po/hr.po | 
+ | [af](/f17/language/af) | 675 | 803 | 84.1 | /mnt/stockage/packages/f17/mate-character-map/po/af.po | 
+ | [be_Latn](/f17/language/be_Latn) | 530 | 782 | 67.8 | /mnt/stockage/packages/f17/mate-character-map/po/be@latin.po | 
+ | [ga](/f17/language/ga) | 518 | 782 | 66.2 | /mnt/stockage/packages/f17/mate-character-map/po/ga.po | 
+ | [error](/f17/language/error) | 526 | 863 | 61.0 | /mnt/stockage/packages/f17/mate-character-map/po/en@shaw.po | 
+ | [bg](/f17/language/bg) | 1402 | 2548 | 55.0 | /mnt/stockage/packages/f17/mate-character-map/help/bg/bg.po/mnt/stockage/packages/f17/mate-character-map/po/bg.po | 
+ | [be](/f17/language/be) | 214 | 534 | 40.1 | /mnt/stockage/packages/f17/mate-character-map/po/be.po | 
+ | [rw](/f17/language/rw) | 151 | 507 | 29.8 | /mnt/stockage/packages/f17/mate-character-map/po/rw.po | 
+ | [ka](/f17/language/ka) | 208 | 747 | 27.8 | /mnt/stockage/packages/f17/mate-character-map/po/ka.po | 
+ | [br](/f17/language/br) | 178 | 803 | 22.2 | /mnt/stockage/packages/f17/mate-character-map/po/br.po | 
+ | [am](/f17/language/am) | 35 | 208 | 16.8 | /mnt/stockage/packages/f17/mate-character-map/po/am.po | 
+ | [si](/f17/language/si) | 45 | 776 | 5.8 | /mnt/stockage/packages/f17/mate-character-map/po/si.po | 
+ | [oc](/f17/language/oc) | 137 | 2403 | 5.7 | /mnt/stockage/packages/f17/mate-character-map/help/oc/oc.po/mnt/stockage/packages/f17/mate-character-map/po/oc.po | 
+ | [mi](/f17/language/mi) | 0 | 507 | 0.0 | /mnt/stockage/packages/f17/mate-character-map/po/mi.po | 
 {.sortable}
 
 

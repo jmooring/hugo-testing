@@ -38,38 +38,38 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [epiphany]({{< ref "/f25/package/epiphany.md" >}}) | 2764 | 3044 | 90.8 | Manx <reuben03@live.com> | 
- | [nautilus]({{< ref "/f25/package/nautilus.md" >}}) | 7500 | 8884 | 84.4 | Manx <gv@li.org> | 
- | [totem]({{< ref "/f25/package/totem.md" >}}) | 2169 | 2585 | 83.9 | Manx <gv@li.org> | 
- | [mate-menu]({{< ref "/f25/package/mate-menu.md" >}}) | 241 | 300 | 80.3 | Manx <gv@li.org> | 
- | [gnome-menus]({{< ref "/f25/package/gnome-menus.md" >}}) | 84 | 125 | 67.2 | Manx <gv@li.org> | 
- | [gobby]({{< ref "/f25/package/gobby.md" >}}) | 529 | 900 | 58.8 | Manx <gv@li.org> | 
- | [xplayer]({{< ref "/f25/package/xplayer.md" >}}) | 1019 | 1957 | 52.1 | Manx <gv@li.org> | 
- | [gdm]({{< ref "/f25/package/gdm.md" >}}) | 206 | 650 | 31.7 | Manx <gv@li.org> | 
- | [mintmenu]({{< ref "/f25/package/mintmenu.md" >}}) | 1360 | 6466 | 21.0 | Manx <gv@li.org> | 
- | [cinnamon-translations]({{< ref "/f25/package/cinnamon-translations.md" >}}) | 900 | 6278 | 14.3 | Manx <gv@li.org> | 
- | [librfm]({{< ref "/f25/package/librfm.md" >}}) | 168 | 2397 | 7.0 | Manx <reuben03@live.com> | 
- | [rodent]({{< ref "/f25/package/rodent.md" >}}) | 145 | 9634 | 1.5 | Manx <reuben03@live.com> | 
- | [transmission]({{< ref "/f25/package/transmission.md" >}}) | 27 | 1809 | 1.5 | Manx <gv@li.org> | 
- | [isomaster]({{< ref "/f25/package/isomaster.md" >}}) | 9 | 674 | 1.3 | http://littlesvr.ca/ostd/ | 
- | [stellarium]({{< ref "/f25/package/stellarium.md" >}}) | 12 | 23532 | 0.1 | Manx <gv@li.org> | 
- | [appcenter]({{< ref "/f25/package/appcenter.md" >}}) | 0 | 681 | 0.0 | LANGUAGE <LL@li.org> | 
- | [audience]({{< ref "/f25/package/audience.md" >}}) | 0 | 106 | 0.0 |  | 
- | [maya-calendar]({{< ref "/f25/package/maya-calendar.md" >}}) | 0 | 394 | 0.0 | LANGUAGE <LL@li.org> | 
- | [noise]({{< ref "/f25/package/noise.md" >}}) | 0 | 1322 | 0.0 | LANGUAGE <LL@li.org> | 
- | [pantheon-agent-polkit]({{< ref "/f25/package/pantheon-agent-polkit.md" >}}) | 0 | 15 | 0.0 | LANGUAGE <LL@li.org> | 
- | [pantheon-calculator]({{< ref "/f25/package/pantheon-calculator.md" >}}) | 0 | 52 | 0.0 | LANGUAGE <LL@li.org> | 
- | [pantheon-files]({{< ref "/f25/package/pantheon-files.md" >}}) | 0 | 2487 | 0.0 | LANGUAGE <LL@li.org> | 
- | [pantheon-photos]({{< ref "/f25/package/pantheon-photos.md" >}}) | 0 | 3977 | 0.0 | LANGUAGE <LL@li.org> | 
- | [scratch-text-editor]({{< ref "/f25/package/scratch-text-editor.md" >}}) | 0 | 681 | 0.0 | LANGUAGE <LL@li.org> | 
- | [screenshot-tool]({{< ref "/f25/package/screenshot-tool.md" >}}) | 0 | 146 | 0.0 | LANGUAGE <LL@li.org> | 
- | [switchboard]({{< ref "/f25/package/switchboard.md" >}}) | 0 | 41 | 0.0 | LANGUAGE <LL@li.org> | 
- | [switchboard-plug-a11y]({{< ref "/f25/package/switchboard-plug-a11y.md" >}}) | 0 | 210 | 0.0 | LANGUAGE <LL@li.org> | 
- | [switchboard-plug-about]({{< ref "/f25/package/switchboard-plug-about.md" >}}) | 0 | 72 | 0.0 | LANGUAGE <LL@li.org> | 
- | [switchboard-plug-display]({{< ref "/f25/package/switchboard-plug-display.md" >}}) | 0 | 33 | 0.0 | LANGUAGE <LL@li.org> | 
- | [switchboard-plug-pantheon-shell]({{< ref "/f25/package/switchboard-plug-pantheon-shell.md" >}}) | 0 | 132 | 0.0 |  | 
- | [switchboard-plug-printers]({{< ref "/f25/package/switchboard-plug-printers.md" >}}) | 0 | 288 | 0.0 | LANGUAGE <LL@li.org> | 
- | [vocal]({{< ref "/f25/package/vocal.md" >}}) | 0 | 377 | 0.0 | Manx <gv@li.org> | 
+ | [epiphany](/f25/package/epiphany) | 2764 | 3044 | 90.8 | Manx <reuben03@live.com> | 
+ | [nautilus](/f25/package/nautilus) | 7500 | 8884 | 84.4 | Manx <gv@li.org> | 
+ | [totem](/f25/package/totem) | 2169 | 2585 | 83.9 | Manx <gv@li.org> | 
+ | [mate-menu](/f25/package/mate-menu) | 241 | 300 | 80.3 | Manx <gv@li.org> | 
+ | [gnome-menus](/f25/package/gnome-menus) | 84 | 125 | 67.2 | Manx <gv@li.org> | 
+ | [gobby](/f25/package/gobby) | 529 | 900 | 58.8 | Manx <gv@li.org> | 
+ | [xplayer](/f25/package/xplayer) | 1019 | 1957 | 52.1 | Manx <gv@li.org> | 
+ | [gdm](/f25/package/gdm) | 206 | 650 | 31.7 | Manx <gv@li.org> | 
+ | [mintmenu](/f25/package/mintmenu) | 1360 | 6466 | 21.0 | Manx <gv@li.org> | 
+ | [cinnamon-translations](/f25/package/cinnamon-translations) | 900 | 6278 | 14.3 | Manx <gv@li.org> | 
+ | [librfm](/f25/package/librfm) | 168 | 2397 | 7.0 | Manx <reuben03@live.com> | 
+ | [rodent](/f25/package/rodent) | 145 | 9634 | 1.5 | Manx <reuben03@live.com> | 
+ | [transmission](/f25/package/transmission) | 27 | 1809 | 1.5 | Manx <gv@li.org> | 
+ | [isomaster](/f25/package/isomaster) | 9 | 674 | 1.3 | http://littlesvr.ca/ostd/ | 
+ | [stellarium](/f25/package/stellarium) | 12 | 23532 | 0.1 | Manx <gv@li.org> | 
+ | [appcenter](/f25/package/appcenter) | 0 | 681 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [audience](/f25/package/audience) | 0 | 106 | 0.0 |  | 
+ | [maya-calendar](/f25/package/maya-calendar) | 0 | 394 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [noise](/f25/package/noise) | 0 | 1322 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [pantheon-agent-polkit](/f25/package/pantheon-agent-polkit) | 0 | 15 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [pantheon-calculator](/f25/package/pantheon-calculator) | 0 | 52 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [pantheon-files](/f25/package/pantheon-files) | 0 | 2487 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [pantheon-photos](/f25/package/pantheon-photos) | 0 | 3977 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [scratch-text-editor](/f25/package/scratch-text-editor) | 0 | 681 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [screenshot-tool](/f25/package/screenshot-tool) | 0 | 146 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [switchboard](/f25/package/switchboard) | 0 | 41 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [switchboard-plug-a11y](/f25/package/switchboard-plug-a11y) | 0 | 210 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [switchboard-plug-about](/f25/package/switchboard-plug-about) | 0 | 72 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [switchboard-plug-display](/f25/package/switchboard-plug-display) | 0 | 33 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [switchboard-plug-pantheon-shell](/f25/package/switchboard-plug-pantheon-shell) | 0 | 132 | 0.0 |  | 
+ | [switchboard-plug-printers](/f25/package/switchboard-plug-printers) | 0 | 288 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [vocal](/f25/package/vocal) | 0 | 377 | 0.0 | Manx <gv@li.org> | 
 {.sortable}
 
 

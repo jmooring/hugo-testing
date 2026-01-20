@@ -18,13 +18,13 @@ The package apt (version 0.5.15lorg3.95):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [pt_PT]({{< ref "/f12/language/pt_PT.md" >}}) | 3713 | 4113 | 90.3 | /mnt/stockage/packages/f12/apt/po/pt_PT.po | 
- | [ru]({{< ref "/f12/language/ru.md" >}}) | 3476 | 4113 | 84.5 | /mnt/stockage/packages/f12/apt/po/ru.po | 
- | [ja]({{< ref "/f12/language/ja.md" >}}) | 3436 | 4113 | 83.5 | /mnt/stockage/packages/f12/apt/po/ja.po | 
- | [pt_BR]({{< ref "/f12/language/pt_BR.md" >}}) | 2901 | 4113 | 70.5 | /mnt/stockage/packages/f12/apt/po/pt_BR.po | 
- | [de]({{< ref "/f12/language/de.md" >}}) | 2255 | 4113 | 54.8 | /mnt/stockage/packages/f12/apt/po/de_DE.po | 
- | [es]({{< ref "/f12/language/es.md" >}}) | 534 | 4113 | 13.0 | /mnt/stockage/packages/f12/apt/po/es_ES.po | 
- | [it]({{< ref "/f12/language/it.md" >}}) | 534 | 4113 | 13.0 | /mnt/stockage/packages/f12/apt/po/it_IT.po | 
+ | [pt_PT](/f12/language/pt_PT) | 3713 | 4113 | 90.3 | /mnt/stockage/packages/f12/apt/po/pt_PT.po | 
+ | [ru](/f12/language/ru) | 3476 | 4113 | 84.5 | /mnt/stockage/packages/f12/apt/po/ru.po | 
+ | [ja](/f12/language/ja) | 3436 | 4113 | 83.5 | /mnt/stockage/packages/f12/apt/po/ja.po | 
+ | [pt_BR](/f12/language/pt_BR) | 2901 | 4113 | 70.5 | /mnt/stockage/packages/f12/apt/po/pt_BR.po | 
+ | [de](/f12/language/de) | 2255 | 4113 | 54.8 | /mnt/stockage/packages/f12/apt/po/de_DE.po | 
+ | [es](/f12/language/es) | 534 | 4113 | 13.0 | /mnt/stockage/packages/f12/apt/po/es_ES.po | 
+ | [it](/f12/language/it) | 534 | 4113 | 13.0 | /mnt/stockage/packages/f12/apt/po/it_IT.po | 
 {.sortable}
 
 

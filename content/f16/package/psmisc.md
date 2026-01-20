@@ -18,30 +18,30 @@ The package psmisc (version 22.16):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f16/language/cs.md" >}}) | 691 | 920 | 75.1 | /mnt/stockage/packages/f16/psmisc/po/cs.po | 
- | [de]({{< ref "/f16/language/de.md" >}}) | 691 | 920 | 75.1 | /mnt/stockage/packages/f16/psmisc/po/de.po | 
- | [eo]({{< ref "/f16/language/eo.md" >}}) | 691 | 920 | 75.1 | /mnt/stockage/packages/f16/psmisc/po/eo.po | 
- | [eu]({{< ref "/f16/language/eu.md" >}}) | 691 | 920 | 75.1 | /mnt/stockage/packages/f16/psmisc/po/eu.po | 
- | [fi]({{< ref "/f16/language/fi.md" >}}) | 691 | 920 | 75.1 | /mnt/stockage/packages/f16/psmisc/po/fi.po | 
- | [fr]({{< ref "/f16/language/fr.md" >}}) | 691 | 920 | 75.1 | /mnt/stockage/packages/f16/psmisc/po/fr.po | 
- | [id]({{< ref "/f16/language/id.md" >}}) | 691 | 920 | 75.1 | /mnt/stockage/packages/f16/psmisc/po/id.po | 
- | [it]({{< ref "/f16/language/it.md" >}}) | 691 | 920 | 75.1 | /mnt/stockage/packages/f16/psmisc/po/it.po | 
- | [nl]({{< ref "/f16/language/nl.md" >}}) | 691 | 920 | 75.1 | /mnt/stockage/packages/f16/psmisc/po/nl.po | 
- | [pl]({{< ref "/f16/language/pl.md" >}}) | 691 | 920 | 75.1 | /mnt/stockage/packages/f16/psmisc/po/pl.po | 
- | [pt_BR]({{< ref "/f16/language/pt_BR.md" >}}) | 691 | 920 | 75.1 | /mnt/stockage/packages/f16/psmisc/po/pt_BR.po | 
- | [ru]({{< ref "/f16/language/ru.md" >}}) | 691 | 920 | 75.1 | /mnt/stockage/packages/f16/psmisc/po/ru.po | 
- | [vi]({{< ref "/f16/language/vi.md" >}}) | 691 | 920 | 75.1 | /mnt/stockage/packages/f16/psmisc/po/vi.po | 
- | [sv]({{< ref "/f16/language/sv.md" >}}) | 589 | 920 | 64.0 | /mnt/stockage/packages/f16/psmisc/po/sv.po | 
- | [hu]({{< ref "/f16/language/hu.md" >}}) | 376 | 920 | 40.9 | /mnt/stockage/packages/f16/psmisc/po/hu.po | 
- | [el]({{< ref "/f16/language/el.md" >}}) | 340 | 920 | 37.0 | /mnt/stockage/packages/f16/psmisc/po/el.po | 
- | [zh_Hans]({{< ref "/f16/language/zh_Hans.md" >}}) | 340 | 920 | 37.0 | /mnt/stockage/packages/f16/psmisc/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f16/language/zh_Hant.md" >}}) | 340 | 920 | 37.0 | /mnt/stockage/packages/f16/psmisc/po/zh_TW.po | 
- | [bg]({{< ref "/f16/language/bg.md" >}}) | 270 | 920 | 29.3 | /mnt/stockage/packages/f16/psmisc/po/bg.po | 
- | [ja]({{< ref "/f16/language/ja.md" >}}) | 270 | 920 | 29.3 | /mnt/stockage/packages/f16/psmisc/po/ja.po | 
- | [nb_NO]({{< ref "/f16/language/nb_NO.md" >}}) | 270 | 920 | 29.3 | /mnt/stockage/packages/f16/psmisc/po/nb.po | 
- | [ca]({{< ref "/f16/language/ca.md" >}}) | 91 | 920 | 9.9 | /mnt/stockage/packages/f16/psmisc/po/ca.po | 
- | [ro]({{< ref "/f16/language/ro.md" >}}) | 91 | 920 | 9.9 | /mnt/stockage/packages/f16/psmisc/po/ro.po | 
- | [pt]({{< ref "/f16/language/pt.md" >}}) | 20 | 920 | 2.2 | /mnt/stockage/packages/f16/psmisc/po/pt.po | 
+ | [cs](/f16/language/cs) | 691 | 920 | 75.1 | /mnt/stockage/packages/f16/psmisc/po/cs.po | 
+ | [de](/f16/language/de) | 691 | 920 | 75.1 | /mnt/stockage/packages/f16/psmisc/po/de.po | 
+ | [eo](/f16/language/eo) | 691 | 920 | 75.1 | /mnt/stockage/packages/f16/psmisc/po/eo.po | 
+ | [eu](/f16/language/eu) | 691 | 920 | 75.1 | /mnt/stockage/packages/f16/psmisc/po/eu.po | 
+ | [fi](/f16/language/fi) | 691 | 920 | 75.1 | /mnt/stockage/packages/f16/psmisc/po/fi.po | 
+ | [fr](/f16/language/fr) | 691 | 920 | 75.1 | /mnt/stockage/packages/f16/psmisc/po/fr.po | 
+ | [id](/f16/language/id) | 691 | 920 | 75.1 | /mnt/stockage/packages/f16/psmisc/po/id.po | 
+ | [it](/f16/language/it) | 691 | 920 | 75.1 | /mnt/stockage/packages/f16/psmisc/po/it.po | 
+ | [nl](/f16/language/nl) | 691 | 920 | 75.1 | /mnt/stockage/packages/f16/psmisc/po/nl.po | 
+ | [pl](/f16/language/pl) | 691 | 920 | 75.1 | /mnt/stockage/packages/f16/psmisc/po/pl.po | 
+ | [pt_BR](/f16/language/pt_BR) | 691 | 920 | 75.1 | /mnt/stockage/packages/f16/psmisc/po/pt_BR.po | 
+ | [ru](/f16/language/ru) | 691 | 920 | 75.1 | /mnt/stockage/packages/f16/psmisc/po/ru.po | 
+ | [vi](/f16/language/vi) | 691 | 920 | 75.1 | /mnt/stockage/packages/f16/psmisc/po/vi.po | 
+ | [sv](/f16/language/sv) | 589 | 920 | 64.0 | /mnt/stockage/packages/f16/psmisc/po/sv.po | 
+ | [hu](/f16/language/hu) | 376 | 920 | 40.9 | /mnt/stockage/packages/f16/psmisc/po/hu.po | 
+ | [el](/f16/language/el) | 340 | 920 | 37.0 | /mnt/stockage/packages/f16/psmisc/po/el.po | 
+ | [zh_Hans](/f16/language/zh_Hans) | 340 | 920 | 37.0 | /mnt/stockage/packages/f16/psmisc/po/zh_CN.po | 
+ | [zh_Hant](/f16/language/zh_Hant) | 340 | 920 | 37.0 | /mnt/stockage/packages/f16/psmisc/po/zh_TW.po | 
+ | [bg](/f16/language/bg) | 270 | 920 | 29.3 | /mnt/stockage/packages/f16/psmisc/po/bg.po | 
+ | [ja](/f16/language/ja) | 270 | 920 | 29.3 | /mnt/stockage/packages/f16/psmisc/po/ja.po | 
+ | [nb_NO](/f16/language/nb_NO) | 270 | 920 | 29.3 | /mnt/stockage/packages/f16/psmisc/po/nb.po | 
+ | [ca](/f16/language/ca) | 91 | 920 | 9.9 | /mnt/stockage/packages/f16/psmisc/po/ca.po | 
+ | [ro](/f16/language/ro) | 91 | 920 | 9.9 | /mnt/stockage/packages/f16/psmisc/po/ro.po | 
+ | [pt](/f16/language/pt) | 20 | 920 | 2.2 | /mnt/stockage/packages/f16/psmisc/po/pt.po | 
 {.sortable}
 
 

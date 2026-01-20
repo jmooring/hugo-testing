@@ -18,20 +18,20 @@ The package gshutdown (version 0.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f38/language/ca.md" >}}) | 492 | 492 | 100.0 | /mnt/stockage/packages/f38/gshutdown/po/ca.po | 
- | [fr]({{< ref "/f38/language/fr.md" >}}) | 489 | 492 | 99.4 | /mnt/stockage/packages/f38/gshutdown/po/fr.po | 
- | [it]({{< ref "/f38/language/it.md" >}}) | 489 | 492 | 99.4 | /mnt/stockage/packages/f38/gshutdown/po/it.po | 
- | [ru]({{< ref "/f38/language/ru.md" >}}) | 489 | 492 | 99.4 | /mnt/stockage/packages/f38/gshutdown/po/ru.po | 
- | [da]({{< ref "/f38/language/da.md" >}}) | 391 | 492 | 79.5 | /mnt/stockage/packages/f38/gshutdown/po/da.po | 
- | [es]({{< ref "/f38/language/es.md" >}}) | 391 | 492 | 79.5 | /mnt/stockage/packages/f38/gshutdown/po/es.po | 
- | [pt]({{< ref "/f38/language/pt.md" >}}) | 391 | 492 | 79.5 | /mnt/stockage/packages/f38/gshutdown/po/pt.po | 
- | [error]({{< ref "/f38/language/error.md" >}}) | 388 | 492 | 78.9 | /mnt/stockage/packages/f38/gshutdown/po/sr@Latn.po | 
- | [sr]({{< ref "/f38/language/sr.md" >}}) | 388 | 492 | 78.9 | /mnt/stockage/packages/f38/gshutdown/po/sr.po | 
- | [pl]({{< ref "/f38/language/pl.md" >}}) | 387 | 492 | 78.7 | /mnt/stockage/packages/f38/gshutdown/po/pl.po | 
- | [hu]({{< ref "/f38/language/hu.md" >}}) | 384 | 492 | 78.0 | /mnt/stockage/packages/f38/gshutdown/po/hu.po | 
- | [de]({{< ref "/f38/language/de.md" >}}) | 366 | 492 | 74.4 | /mnt/stockage/packages/f38/gshutdown/po/de.po | 
- | [nb_NO]({{< ref "/f38/language/nb_NO.md" >}}) | 300 | 492 | 61.0 | /mnt/stockage/packages/f38/gshutdown/po/no.po | 
- | [sv]({{< ref "/f38/language/sv.md" >}}) | 276 | 492 | 56.1 | /mnt/stockage/packages/f38/gshutdown/po/sv.po | 
+ | [ca](/f38/language/ca) | 492 | 492 | 100.0 | /mnt/stockage/packages/f38/gshutdown/po/ca.po | 
+ | [fr](/f38/language/fr) | 489 | 492 | 99.4 | /mnt/stockage/packages/f38/gshutdown/po/fr.po | 
+ | [it](/f38/language/it) | 489 | 492 | 99.4 | /mnt/stockage/packages/f38/gshutdown/po/it.po | 
+ | [ru](/f38/language/ru) | 489 | 492 | 99.4 | /mnt/stockage/packages/f38/gshutdown/po/ru.po | 
+ | [da](/f38/language/da) | 391 | 492 | 79.5 | /mnt/stockage/packages/f38/gshutdown/po/da.po | 
+ | [es](/f38/language/es) | 391 | 492 | 79.5 | /mnt/stockage/packages/f38/gshutdown/po/es.po | 
+ | [pt](/f38/language/pt) | 391 | 492 | 79.5 | /mnt/stockage/packages/f38/gshutdown/po/pt.po | 
+ | [error](/f38/language/error) | 388 | 492 | 78.9 | /mnt/stockage/packages/f38/gshutdown/po/sr@Latn.po | 
+ | [sr](/f38/language/sr) | 388 | 492 | 78.9 | /mnt/stockage/packages/f38/gshutdown/po/sr.po | 
+ | [pl](/f38/language/pl) | 387 | 492 | 78.7 | /mnt/stockage/packages/f38/gshutdown/po/pl.po | 
+ | [hu](/f38/language/hu) | 384 | 492 | 78.0 | /mnt/stockage/packages/f38/gshutdown/po/hu.po | 
+ | [de](/f38/language/de) | 366 | 492 | 74.4 | /mnt/stockage/packages/f38/gshutdown/po/de.po | 
+ | [nb_NO](/f38/language/nb_NO) | 300 | 492 | 61.0 | /mnt/stockage/packages/f38/gshutdown/po/no.po | 
+ | [sv](/f38/language/sv) | 276 | 492 | 56.1 | /mnt/stockage/packages/f38/gshutdown/po/sv.po | 
 {.sortable}
 
 

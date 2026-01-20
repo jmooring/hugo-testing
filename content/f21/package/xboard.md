@@ -18,17 +18,17 @@ The package xboard (version 4.7.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [uk]({{< ref "/f21/language/uk.md" >}}) | 2342 | 2411 | 97.1 | /mnt/stockage/packages/f21/xboard/po/uk.po | 
- | [da]({{< ref "/f21/language/da.md" >}}) | 2038 | 2411 | 84.5 | /mnt/stockage/packages/f21/xboard/po/da.po | 
- | [de]({{< ref "/f21/language/de.md" >}}) | 1741 | 2411 | 72.2 | /mnt/stockage/packages/f21/xboard/po/de.po | 
- | [it]({{< ref "/f21/language/it.md" >}}) | 908 | 2411 | 37.7 | /mnt/stockage/packages/f21/xboard/po/it.po | 
- | [es]({{< ref "/f21/language/es.md" >}}) | 905 | 2411 | 37.5 | /mnt/stockage/packages/f21/xboard/po/es.po | 
- | [ru]({{< ref "/f21/language/ru.md" >}}) | 901 | 2411 | 37.4 | /mnt/stockage/packages/f21/xboard/po/ru.po | 
- | [zh_Hans]({{< ref "/f21/language/zh_Hans.md" >}}) | 900 | 2411 | 37.3 | /mnt/stockage/packages/f21/xboard/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f21/language/zh_Hant.md" >}}) | 899 | 2411 | 37.3 | /mnt/stockage/packages/f21/xboard/po/zh_TW.po | 
- | [zh_Hant_HK]({{< ref "/f21/language/zh_Hant_HK.md" >}}) | 899 | 2411 | 37.3 | /mnt/stockage/packages/f21/xboard/po/zh_HK.po | 
- | [vi]({{< ref "/f21/language/vi.md" >}}) | 137 | 2411 | 5.7 | /mnt/stockage/packages/f21/xboard/po/vi.po | 
- | [tr]({{< ref "/f21/language/tr.md" >}}) | 85 | 2411 | 3.5 | /mnt/stockage/packages/f21/xboard/po/tr.po | 
+ | [uk](/f21/language/uk) | 2342 | 2411 | 97.1 | /mnt/stockage/packages/f21/xboard/po/uk.po | 
+ | [da](/f21/language/da) | 2038 | 2411 | 84.5 | /mnt/stockage/packages/f21/xboard/po/da.po | 
+ | [de](/f21/language/de) | 1741 | 2411 | 72.2 | /mnt/stockage/packages/f21/xboard/po/de.po | 
+ | [it](/f21/language/it) | 908 | 2411 | 37.7 | /mnt/stockage/packages/f21/xboard/po/it.po | 
+ | [es](/f21/language/es) | 905 | 2411 | 37.5 | /mnt/stockage/packages/f21/xboard/po/es.po | 
+ | [ru](/f21/language/ru) | 901 | 2411 | 37.4 | /mnt/stockage/packages/f21/xboard/po/ru.po | 
+ | [zh_Hans](/f21/language/zh_Hans) | 900 | 2411 | 37.3 | /mnt/stockage/packages/f21/xboard/po/zh_CN.po | 
+ | [zh_Hant](/f21/language/zh_Hant) | 899 | 2411 | 37.3 | /mnt/stockage/packages/f21/xboard/po/zh_TW.po | 
+ | [zh_Hant_HK](/f21/language/zh_Hant_HK) | 899 | 2411 | 37.3 | /mnt/stockage/packages/f21/xboard/po/zh_HK.po | 
+ | [vi](/f21/language/vi) | 137 | 2411 | 5.7 | /mnt/stockage/packages/f21/xboard/po/vi.po | 
+ | [tr](/f21/language/tr) | 85 | 2411 | 3.5 | /mnt/stockage/packages/f21/xboard/po/tr.po | 
 {.sortable}
 
 

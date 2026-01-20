@@ -18,10 +18,10 @@ The package davfs2 (version 1.5.6):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f30/language/de.md" >}}) | 1033 | 1033 | 100.0 | /mnt/stockage/packages/f30/davfs2/po/de.po | 
- | [man]({{< ref "/f30/language/man.md" >}}) | 5725 | 5725 | 100.0 | /mnt/stockage/packages/f30/davfs2/man/de/davfs2.conf.5.po/mnt/stockage/packages/f30/davfs2/man/de/mount.davfs.8.po/mnt/stockage/packages/f30/davfs2/man/de/umount.davfs.8.po | 
- | [cs]({{< ref "/f30/language/cs.md" >}}) | 815 | 1033 | 78.9 | /mnt/stockage/packages/f30/davfs2/po/cs.po | 
- | [es]({{< ref "/f30/language/es.md" >}}) | 1090 | 2740 | 39.8 | /mnt/stockage/packages/f30/davfs2/man/es/davfs2.conf.5.po | 
+ | [de](/f30/language/de) | 1033 | 1033 | 100.0 | /mnt/stockage/packages/f30/davfs2/po/de.po | 
+ | [man](/f30/language/man) | 5725 | 5725 | 100.0 | /mnt/stockage/packages/f30/davfs2/man/de/davfs2.conf.5.po/mnt/stockage/packages/f30/davfs2/man/de/mount.davfs.8.po/mnt/stockage/packages/f30/davfs2/man/de/umount.davfs.8.po | 
+ | [cs](/f30/language/cs) | 815 | 1033 | 78.9 | /mnt/stockage/packages/f30/davfs2/po/cs.po | 
+ | [es](/f30/language/es) | 1090 | 2740 | 39.8 | /mnt/stockage/packages/f30/davfs2/man/es/davfs2.conf.5.po | 
 {.sortable}
 
 

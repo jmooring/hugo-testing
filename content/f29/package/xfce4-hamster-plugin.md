@@ -18,11 +18,11 @@ The package xfce4-hamster-plugin (version 1.7):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f29/language/de.md" >}}) | 41 | 41 | 100.0 | /mnt/stockage/packages/f29/xfce4-hamster-plugin/po/de.po | 
- | [es]({{< ref "/f29/language/es.md" >}}) | 41 | 41 | 100.0 | /mnt/stockage/packages/f29/xfce4-hamster-plugin/po/es.po | 
- | [tr]({{< ref "/f29/language/tr.md" >}}) | 41 | 41 | 100.0 | /mnt/stockage/packages/f29/xfce4-hamster-plugin/po/tr.po | 
- | [ru]({{< ref "/f29/language/ru.md" >}}) | 35 | 41 | 85.4 | /mnt/stockage/packages/f29/xfce4-hamster-plugin/po/ru.po | 
- | [uk]({{< ref "/f29/language/uk.md" >}}) | 35 | 41 | 85.4 | /mnt/stockage/packages/f29/xfce4-hamster-plugin/po/uk.po | 
+ | [de](/f29/language/de) | 41 | 41 | 100.0 | /mnt/stockage/packages/f29/xfce4-hamster-plugin/po/de.po | 
+ | [es](/f29/language/es) | 41 | 41 | 100.0 | /mnt/stockage/packages/f29/xfce4-hamster-plugin/po/es.po | 
+ | [tr](/f29/language/tr) | 41 | 41 | 100.0 | /mnt/stockage/packages/f29/xfce4-hamster-plugin/po/tr.po | 
+ | [ru](/f29/language/ru) | 35 | 41 | 85.4 | /mnt/stockage/packages/f29/xfce4-hamster-plugin/po/ru.po | 
+ | [uk](/f29/language/uk) | 35 | 41 | 85.4 | /mnt/stockage/packages/f29/xfce4-hamster-plugin/po/uk.po | 
 {.sortable}
 
 

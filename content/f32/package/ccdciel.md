@@ -18,14 +18,14 @@ The package ccdciel (version 0.9.73):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f32/language/fr.md" >}}) | 6130 | 6166 | 99.4 | /mnt/stockage/packages/f32/ccdciel/data/language/ccdciel.fr.po/mnt/stockage/packages/f32/ccdciel/data/language/ccdciel_hints.fr.po | 
- | [en_GB]({{< ref "/f32/language/en_GB.md" >}}) | 6126 | 6166 | 99.4 | /mnt/stockage/packages/f32/ccdciel/data/language/ccdciel.en_GB.po/mnt/stockage/packages/f32/ccdciel/data/language/ccdciel_hints.en_GB.po | 
- | [cs]({{< ref "/f32/language/cs.md" >}}) | 6104 | 6166 | 99.0 | /mnt/stockage/packages/f32/ccdciel/data/language/ccdciel.cs.po/mnt/stockage/packages/f32/ccdciel/data/language/ccdciel_hints.cs.po | 
- | [ru]({{< ref "/f32/language/ru.md" >}}) | 6030 | 6166 | 97.8 | /mnt/stockage/packages/f32/ccdciel/data/language/ccdciel.ru.po/mnt/stockage/packages/f32/ccdciel/data/language/ccdciel_hints.ru.po | 
- | [de]({{< ref "/f32/language/de.md" >}}) | 6008 | 6166 | 97.4 | /mnt/stockage/packages/f32/ccdciel/data/language/ccdciel.de.po/mnt/stockage/packages/f32/ccdciel/data/language/ccdciel_hints.de.po | 
- | [es]({{< ref "/f32/language/es.md" >}}) | 5976 | 6166 | 96.9 | /mnt/stockage/packages/f32/ccdciel/data/language/ccdciel.es.po/mnt/stockage/packages/f32/ccdciel/data/language/ccdciel_hints.es.po | 
- | [it]({{< ref "/f32/language/it.md" >}}) | 1759 | 6166 | 28.5 | /mnt/stockage/packages/f32/ccdciel/data/language/ccdciel.it.po/mnt/stockage/packages/f32/ccdciel/data/language/ccdciel_hints.it.po | 
- | [ku]({{< ref "/f32/language/ku.md" >}}) | 37 | 4846 | 0.8 | /mnt/stockage/packages/f32/ccdciel/data/language/ccdciel.ku.po | 
+ | [fr](/f32/language/fr) | 6130 | 6166 | 99.4 | /mnt/stockage/packages/f32/ccdciel/data/language/ccdciel.fr.po/mnt/stockage/packages/f32/ccdciel/data/language/ccdciel_hints.fr.po | 
+ | [en_GB](/f32/language/en_GB) | 6126 | 6166 | 99.4 | /mnt/stockage/packages/f32/ccdciel/data/language/ccdciel.en_GB.po/mnt/stockage/packages/f32/ccdciel/data/language/ccdciel_hints.en_GB.po | 
+ | [cs](/f32/language/cs) | 6104 | 6166 | 99.0 | /mnt/stockage/packages/f32/ccdciel/data/language/ccdciel.cs.po/mnt/stockage/packages/f32/ccdciel/data/language/ccdciel_hints.cs.po | 
+ | [ru](/f32/language/ru) | 6030 | 6166 | 97.8 | /mnt/stockage/packages/f32/ccdciel/data/language/ccdciel.ru.po/mnt/stockage/packages/f32/ccdciel/data/language/ccdciel_hints.ru.po | 
+ | [de](/f32/language/de) | 6008 | 6166 | 97.4 | /mnt/stockage/packages/f32/ccdciel/data/language/ccdciel.de.po/mnt/stockage/packages/f32/ccdciel/data/language/ccdciel_hints.de.po | 
+ | [es](/f32/language/es) | 5976 | 6166 | 96.9 | /mnt/stockage/packages/f32/ccdciel/data/language/ccdciel.es.po/mnt/stockage/packages/f32/ccdciel/data/language/ccdciel_hints.es.po | 
+ | [it](/f32/language/it) | 1759 | 6166 | 28.5 | /mnt/stockage/packages/f32/ccdciel/data/language/ccdciel.it.po/mnt/stockage/packages/f32/ccdciel/data/language/ccdciel_hints.it.po | 
+ | [ku](/f32/language/ku) | 37 | 4846 | 0.8 | /mnt/stockage/packages/f32/ccdciel/data/language/ccdciel.ku.po | 
 {.sortable}
 
 

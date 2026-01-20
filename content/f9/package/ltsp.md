@@ -18,15 +18,15 @@ The package ltsp (version 5.1.7):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f9/language/ca.md" >}}) | 272 | 272 | 100.0 | /mnt/stockage/packages/f9/ltsp/po/ca.po | 
- | [de]({{< ref "/f9/language/de.md" >}}) | 272 | 272 | 100.0 | /mnt/stockage/packages/f9/ltsp/po/de.po | 
- | [es]({{< ref "/f9/language/es.md" >}}) | 239 | 239 | 100.0 | /mnt/stockage/packages/f9/ltsp/po/es.po | 
- | [fi]({{< ref "/f9/language/fi.md" >}}) | 272 | 272 | 100.0 | /mnt/stockage/packages/f9/ltsp/po/fi.po | 
- | [fr]({{< ref "/f9/language/fr.md" >}}) | 272 | 272 | 100.0 | /mnt/stockage/packages/f9/ltsp/po/fr.po | 
- | [pt_BR]({{< ref "/f9/language/pt_BR.md" >}}) | 263 | 263 | 100.0 | /mnt/stockage/packages/f9/ltsp/po/pt_BR.po | 
- | [ru]({{< ref "/f9/language/ru.md" >}}) | 282 | 282 | 100.0 | /mnt/stockage/packages/f9/ltsp/po/ru.po/mnt/stockage/packages/f9/ltsp/server/configs/ALTLinux/po/ltsp-login.ru.po | 
- | [uk]({{< ref "/f9/language/uk.md" >}}) | 10 | 10 | 100.0 | /mnt/stockage/packages/f9/ltsp/server/configs/ALTLinux/po/ltsp-login.uk.po | 
- | [vi]({{< ref "/f9/language/vi.md" >}}) | 272 | 272 | 100.0 | /mnt/stockage/packages/f9/ltsp/po/vi.po | 
+ | [ca](/f9/language/ca) | 272 | 272 | 100.0 | /mnt/stockage/packages/f9/ltsp/po/ca.po | 
+ | [de](/f9/language/de) | 272 | 272 | 100.0 | /mnt/stockage/packages/f9/ltsp/po/de.po | 
+ | [es](/f9/language/es) | 239 | 239 | 100.0 | /mnt/stockage/packages/f9/ltsp/po/es.po | 
+ | [fi](/f9/language/fi) | 272 | 272 | 100.0 | /mnt/stockage/packages/f9/ltsp/po/fi.po | 
+ | [fr](/f9/language/fr) | 272 | 272 | 100.0 | /mnt/stockage/packages/f9/ltsp/po/fr.po | 
+ | [pt_BR](/f9/language/pt_BR) | 263 | 263 | 100.0 | /mnt/stockage/packages/f9/ltsp/po/pt_BR.po | 
+ | [ru](/f9/language/ru) | 282 | 282 | 100.0 | /mnt/stockage/packages/f9/ltsp/po/ru.po/mnt/stockage/packages/f9/ltsp/server/configs/ALTLinux/po/ltsp-login.ru.po | 
+ | [uk](/f9/language/uk) | 10 | 10 | 100.0 | /mnt/stockage/packages/f9/ltsp/server/configs/ALTLinux/po/ltsp-login.uk.po | 
+ | [vi](/f9/language/vi) | 272 | 272 | 100.0 | /mnt/stockage/packages/f9/ltsp/po/vi.po | 
 {.sortable}
 
 

@@ -18,57 +18,57 @@ The package pitivi (version 2023.03):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ast]({{< ref "/f39/language/ast.md" >}}) | 1313 | 1313 | 100.0 | /mnt/stockage/packages/f39/pitivi/po/ast.po | 
- | [bs]({{< ref "/f39/language/bs.md" >}}) | 1635 | 1635 | 100.0 | /mnt/stockage/packages/f39/pitivi/po/bs.po | 
- | [ca@valencia]({{< ref "/f39/language/ca@valencia.md" >}}) | 1602 | 1602 | 100.0 | /mnt/stockage/packages/f39/pitivi/po/ca@valencia.po | 
- | [cs]({{< ref "/f39/language/cs.md" >}}) | 10623 | 10623 | 100.0 | /mnt/stockage/packages/f39/pitivi/help/cs/cs.po/mnt/stockage/packages/f39/pitivi/po/cs.po | 
- | [da]({{< ref "/f39/language/da.md" >}}) | 2482 | 2482 | 100.0 | /mnt/stockage/packages/f39/pitivi/po/da.po | 
- | [en_GB]({{< ref "/f39/language/en_GB.md" >}}) | 1550 | 1550 | 100.0 | /mnt/stockage/packages/f39/pitivi/po/en_GB.po | 
- | [et]({{< ref "/f39/language/et.md" >}}) | 1706 | 1706 | 100.0 | /mnt/stockage/packages/f39/pitivi/po/et.po | 
- | [eu]({{< ref "/f39/language/eu.md" >}}) | 2482 | 2482 | 100.0 | /mnt/stockage/packages/f39/pitivi/po/eu.po | 
- | [gl]({{< ref "/f39/language/gl.md" >}}) | 1498 | 1498 | 100.0 | /mnt/stockage/packages/f39/pitivi/po/gl.po | 
- | [hu]({{< ref "/f39/language/hu.md" >}}) | 2281 | 2281 | 100.0 | /mnt/stockage/packages/f39/pitivi/po/hu.po | 
- | [id]({{< ref "/f39/language/id.md" >}}) | 2483 | 2483 | 100.0 | /mnt/stockage/packages/f39/pitivi/po/id.po | 
- | [it]({{< ref "/f39/language/it.md" >}}) | 2216 | 2216 | 100.0 | /mnt/stockage/packages/f39/pitivi/po/it.po | 
- | [lt]({{< ref "/f39/language/lt.md" >}}) | 2482 | 2482 | 100.0 | /mnt/stockage/packages/f39/pitivi/po/lt.po | 
- | [lv]({{< ref "/f39/language/lv.md" >}}) | 2098 | 2098 | 100.0 | /mnt/stockage/packages/f39/pitivi/po/lv.po | 
- | [nl]({{< ref "/f39/language/nl.md" >}}) | 1463 | 1463 | 100.0 | /mnt/stockage/packages/f39/pitivi/po/nl.po | 
- | [pl]({{< ref "/f39/language/pl.md" >}}) | 2483 | 2483 | 100.0 | /mnt/stockage/packages/f39/pitivi/po/pl.po | 
- | [pt]({{< ref "/f39/language/pt.md" >}}) | 1983 | 1983 | 100.0 | /mnt/stockage/packages/f39/pitivi/po/pt.po | 
- | [pt_BR]({{< ref "/f39/language/pt_BR.md" >}}) | 2482 | 2482 | 100.0 | /mnt/stockage/packages/f39/pitivi/po/pt_BR.po | 
- | [ru]({{< ref "/f39/language/ru.md" >}}) | 2482 | 2482 | 100.0 | /mnt/stockage/packages/f39/pitivi/po/ru.po | 
- | [sk]({{< ref "/f39/language/sk.md" >}}) | 2410 | 2410 | 100.0 | /mnt/stockage/packages/f39/pitivi/po/sk.po | 
- | [sr]({{< ref "/f39/language/sr.md" >}}) | 4536 | 4536 | 100.0 | /mnt/stockage/packages/f39/pitivi/po/sr@latin.po/mnt/stockage/packages/f39/pitivi/po/sr.po | 
- | [sv]({{< ref "/f39/language/sv.md" >}}) | 10702 | 10702 | 100.0 | /mnt/stockage/packages/f39/pitivi/help/sv/sv.po/mnt/stockage/packages/f39/pitivi/po/sv.po | 
- | [tr]({{< ref "/f39/language/tr.md" >}}) | 2482 | 2482 | 100.0 | /mnt/stockage/packages/f39/pitivi/po/tr.po | 
- | [uk]({{< ref "/f39/language/uk.md" >}}) | 10702 | 10702 | 100.0 | /mnt/stockage/packages/f39/pitivi/help/uk/uk.po/mnt/stockage/packages/f39/pitivi/po/uk.po | 
- | [zh_Hans]({{< ref "/f39/language/zh_Hans.md" >}}) | 2482 | 2482 | 100.0 | /mnt/stockage/packages/f39/pitivi/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f39/language/zh_Hant.md" >}}) | 2085 | 2085 | 100.0 | /mnt/stockage/packages/f39/pitivi/po/zh_TW.po | 
- | [bg]({{< ref "/f39/language/bg.md" >}}) | 1461 | 1463 | 99.9 | /mnt/stockage/packages/f39/pitivi/po/bg.po | 
- | [ja]({{< ref "/f39/language/ja.md" >}}) | 1584 | 1603 | 98.8 | /mnt/stockage/packages/f39/pitivi/po/ja.po | 
- | [el]({{< ref "/f39/language/el.md" >}}) | 8629 | 9002 | 95.9 | /mnt/stockage/packages/f39/pitivi/help/el/el.po/mnt/stockage/packages/f39/pitivi/po/el.po | 
- | [zh_Hant_HK]({{< ref "/f39/language/zh_Hant_HK.md" >}}) | 1424 | 1495 | 95.3 | /mnt/stockage/packages/f39/pitivi/po/zh_HK.po | 
- | [es]({{< ref "/f39/language/es.md" >}}) | 10068 | 10610 | 94.9 | /mnt/stockage/packages/f39/pitivi/help/es/es.po/mnt/stockage/packages/f39/pitivi/po/es.po | 
- | [vi]({{< ref "/f39/language/vi.md" >}}) | 1239 | 1340 | 92.5 | /mnt/stockage/packages/f39/pitivi/po/vi.po | 
- | [sl]({{< ref "/f39/language/sl.md" >}}) | 7663 | 8312 | 92.2 | /mnt/stockage/packages/f39/pitivi/help/sl/sl.po/mnt/stockage/packages/f39/pitivi/po/sl.po | 
- | [ca]({{< ref "/f39/language/ca.md" >}}) | 9753 | 10649 | 91.6 | /mnt/stockage/packages/f39/pitivi/help/ca/ca.po/mnt/stockage/packages/f39/pitivi/po/ca.po | 
- | [ku]({{< ref "/f39/language/ku.md" >}}) | 1196 | 1313 | 91.1 | /mnt/stockage/packages/f39/pitivi/po/ku.po | 
- | [de]({{< ref "/f39/language/de.md" >}}) | 7664 | 10262 | 74.7 | /mnt/stockage/packages/f39/pitivi/help/de/de.po/mnt/stockage/packages/f39/pitivi/po/de.po | 
- | [ko]({{< ref "/f39/language/ko.md" >}}) | 1086 | 1527 | 71.1 | /mnt/stockage/packages/f39/pitivi/po/ko.po | 
- | [dz]({{< ref "/f39/language/dz.md" >}}) | 698 | 987 | 70.7 | /mnt/stockage/packages/f39/pitivi/po/dz.po | 
- | [fr]({{< ref "/f39/language/fr.md" >}}) | 6661 | 9473 | 70.3 | /mnt/stockage/packages/f39/pitivi/help/fr/fr.po/mnt/stockage/packages/f39/pitivi/po/fr.po | 
- | [fi]({{< ref "/f39/language/fi.md" >}}) | 1678 | 2410 | 69.6 | /mnt/stockage/packages/f39/pitivi/po/fi.po | 
- | [nb_NO]({{< ref "/f39/language/nb_NO.md" >}}) | 1082 | 1555 | 69.6 | /mnt/stockage/packages/f39/pitivi/po/nb.po | 
- | [ro]({{< ref "/f39/language/ro.md" >}}) | 1284 | 2033 | 63.2 | /mnt/stockage/packages/f39/pitivi/po/ro.po | 
- | [te]({{< ref "/f39/language/te.md" >}}) | 737 | 1603 | 46.0 | /mnt/stockage/packages/f39/pitivi/po/te.po | 
- | [oc]({{< ref "/f39/language/oc.md" >}}) | 736 | 1603 | 45.9 | /mnt/stockage/packages/f39/pitivi/po/oc.po | 
- | [he]({{< ref "/f39/language/he.md" >}}) | 593 | 1602 | 37.0 | /mnt/stockage/packages/f39/pitivi/po/he.po | 
- | [pa]({{< ref "/f39/language/pa.md" >}}) | 293 | 987 | 29.7 | /mnt/stockage/packages/f39/pitivi/po/pa.po | 
- | [eo]({{< ref "/f39/language/eo.md" >}}) | 372 | 2125 | 17.5 | /mnt/stockage/packages/f39/pitivi/po/eo.po | 
- | [nds]({{< ref "/f39/language/nds.md" >}}) | 207 | 1313 | 15.8 | /mnt/stockage/packages/f39/pitivi/po/nds.po | 
- | [ar]({{< ref "/f39/language/ar.md" >}}) | 24 | 1465 | 1.6 | /mnt/stockage/packages/f39/pitivi/po/ar.po | 
- | [mr]({{< ref "/f39/language/mr.md" >}}) | 10 | 1013 | 1.0 | /mnt/stockage/packages/f39/pitivi/po/mr.po | 
- | [gu]({{< ref "/f39/language/gu.md" >}}) | 9 | 1013 | 0.9 | /mnt/stockage/packages/f39/pitivi/po/gu.po | 
+ | [ast](/f39/language/ast) | 1313 | 1313 | 100.0 | /mnt/stockage/packages/f39/pitivi/po/ast.po | 
+ | [bs](/f39/language/bs) | 1635 | 1635 | 100.0 | /mnt/stockage/packages/f39/pitivi/po/bs.po | 
+ | [ca@valencia](/f39/language/ca@valencia) | 1602 | 1602 | 100.0 | /mnt/stockage/packages/f39/pitivi/po/ca@valencia.po | 
+ | [cs](/f39/language/cs) | 10623 | 10623 | 100.0 | /mnt/stockage/packages/f39/pitivi/help/cs/cs.po/mnt/stockage/packages/f39/pitivi/po/cs.po | 
+ | [da](/f39/language/da) | 2482 | 2482 | 100.0 | /mnt/stockage/packages/f39/pitivi/po/da.po | 
+ | [en_GB](/f39/language/en_GB) | 1550 | 1550 | 100.0 | /mnt/stockage/packages/f39/pitivi/po/en_GB.po | 
+ | [et](/f39/language/et) | 1706 | 1706 | 100.0 | /mnt/stockage/packages/f39/pitivi/po/et.po | 
+ | [eu](/f39/language/eu) | 2482 | 2482 | 100.0 | /mnt/stockage/packages/f39/pitivi/po/eu.po | 
+ | [gl](/f39/language/gl) | 1498 | 1498 | 100.0 | /mnt/stockage/packages/f39/pitivi/po/gl.po | 
+ | [hu](/f39/language/hu) | 2281 | 2281 | 100.0 | /mnt/stockage/packages/f39/pitivi/po/hu.po | 
+ | [id](/f39/language/id) | 2483 | 2483 | 100.0 | /mnt/stockage/packages/f39/pitivi/po/id.po | 
+ | [it](/f39/language/it) | 2216 | 2216 | 100.0 | /mnt/stockage/packages/f39/pitivi/po/it.po | 
+ | [lt](/f39/language/lt) | 2482 | 2482 | 100.0 | /mnt/stockage/packages/f39/pitivi/po/lt.po | 
+ | [lv](/f39/language/lv) | 2098 | 2098 | 100.0 | /mnt/stockage/packages/f39/pitivi/po/lv.po | 
+ | [nl](/f39/language/nl) | 1463 | 1463 | 100.0 | /mnt/stockage/packages/f39/pitivi/po/nl.po | 
+ | [pl](/f39/language/pl) | 2483 | 2483 | 100.0 | /mnt/stockage/packages/f39/pitivi/po/pl.po | 
+ | [pt](/f39/language/pt) | 1983 | 1983 | 100.0 | /mnt/stockage/packages/f39/pitivi/po/pt.po | 
+ | [pt_BR](/f39/language/pt_BR) | 2482 | 2482 | 100.0 | /mnt/stockage/packages/f39/pitivi/po/pt_BR.po | 
+ | [ru](/f39/language/ru) | 2482 | 2482 | 100.0 | /mnt/stockage/packages/f39/pitivi/po/ru.po | 
+ | [sk](/f39/language/sk) | 2410 | 2410 | 100.0 | /mnt/stockage/packages/f39/pitivi/po/sk.po | 
+ | [sr](/f39/language/sr) | 4536 | 4536 | 100.0 | /mnt/stockage/packages/f39/pitivi/po/sr@latin.po/mnt/stockage/packages/f39/pitivi/po/sr.po | 
+ | [sv](/f39/language/sv) | 10702 | 10702 | 100.0 | /mnt/stockage/packages/f39/pitivi/help/sv/sv.po/mnt/stockage/packages/f39/pitivi/po/sv.po | 
+ | [tr](/f39/language/tr) | 2482 | 2482 | 100.0 | /mnt/stockage/packages/f39/pitivi/po/tr.po | 
+ | [uk](/f39/language/uk) | 10702 | 10702 | 100.0 | /mnt/stockage/packages/f39/pitivi/help/uk/uk.po/mnt/stockage/packages/f39/pitivi/po/uk.po | 
+ | [zh_Hans](/f39/language/zh_Hans) | 2482 | 2482 | 100.0 | /mnt/stockage/packages/f39/pitivi/po/zh_CN.po | 
+ | [zh_Hant](/f39/language/zh_Hant) | 2085 | 2085 | 100.0 | /mnt/stockage/packages/f39/pitivi/po/zh_TW.po | 
+ | [bg](/f39/language/bg) | 1461 | 1463 | 99.9 | /mnt/stockage/packages/f39/pitivi/po/bg.po | 
+ | [ja](/f39/language/ja) | 1584 | 1603 | 98.8 | /mnt/stockage/packages/f39/pitivi/po/ja.po | 
+ | [el](/f39/language/el) | 8629 | 9002 | 95.9 | /mnt/stockage/packages/f39/pitivi/help/el/el.po/mnt/stockage/packages/f39/pitivi/po/el.po | 
+ | [zh_Hant_HK](/f39/language/zh_Hant_HK) | 1424 | 1495 | 95.3 | /mnt/stockage/packages/f39/pitivi/po/zh_HK.po | 
+ | [es](/f39/language/es) | 10068 | 10610 | 94.9 | /mnt/stockage/packages/f39/pitivi/help/es/es.po/mnt/stockage/packages/f39/pitivi/po/es.po | 
+ | [vi](/f39/language/vi) | 1239 | 1340 | 92.5 | /mnt/stockage/packages/f39/pitivi/po/vi.po | 
+ | [sl](/f39/language/sl) | 7663 | 8312 | 92.2 | /mnt/stockage/packages/f39/pitivi/help/sl/sl.po/mnt/stockage/packages/f39/pitivi/po/sl.po | 
+ | [ca](/f39/language/ca) | 9753 | 10649 | 91.6 | /mnt/stockage/packages/f39/pitivi/help/ca/ca.po/mnt/stockage/packages/f39/pitivi/po/ca.po | 
+ | [ku](/f39/language/ku) | 1196 | 1313 | 91.1 | /mnt/stockage/packages/f39/pitivi/po/ku.po | 
+ | [de](/f39/language/de) | 7664 | 10262 | 74.7 | /mnt/stockage/packages/f39/pitivi/help/de/de.po/mnt/stockage/packages/f39/pitivi/po/de.po | 
+ | [ko](/f39/language/ko) | 1086 | 1527 | 71.1 | /mnt/stockage/packages/f39/pitivi/po/ko.po | 
+ | [dz](/f39/language/dz) | 698 | 987 | 70.7 | /mnt/stockage/packages/f39/pitivi/po/dz.po | 
+ | [fr](/f39/language/fr) | 6661 | 9473 | 70.3 | /mnt/stockage/packages/f39/pitivi/help/fr/fr.po/mnt/stockage/packages/f39/pitivi/po/fr.po | 
+ | [fi](/f39/language/fi) | 1678 | 2410 | 69.6 | /mnt/stockage/packages/f39/pitivi/po/fi.po | 
+ | [nb_NO](/f39/language/nb_NO) | 1082 | 1555 | 69.6 | /mnt/stockage/packages/f39/pitivi/po/nb.po | 
+ | [ro](/f39/language/ro) | 1284 | 2033 | 63.2 | /mnt/stockage/packages/f39/pitivi/po/ro.po | 
+ | [te](/f39/language/te) | 737 | 1603 | 46.0 | /mnt/stockage/packages/f39/pitivi/po/te.po | 
+ | [oc](/f39/language/oc) | 736 | 1603 | 45.9 | /mnt/stockage/packages/f39/pitivi/po/oc.po | 
+ | [he](/f39/language/he) | 593 | 1602 | 37.0 | /mnt/stockage/packages/f39/pitivi/po/he.po | 
+ | [pa](/f39/language/pa) | 293 | 987 | 29.7 | /mnt/stockage/packages/f39/pitivi/po/pa.po | 
+ | [eo](/f39/language/eo) | 372 | 2125 | 17.5 | /mnt/stockage/packages/f39/pitivi/po/eo.po | 
+ | [nds](/f39/language/nds) | 207 | 1313 | 15.8 | /mnt/stockage/packages/f39/pitivi/po/nds.po | 
+ | [ar](/f39/language/ar) | 24 | 1465 | 1.6 | /mnt/stockage/packages/f39/pitivi/po/ar.po | 
+ | [mr](/f39/language/mr) | 10 | 1013 | 1.0 | /mnt/stockage/packages/f39/pitivi/po/mr.po | 
+ | [gu](/f39/language/gu) | 9 | 1013 | 0.9 | /mnt/stockage/packages/f39/pitivi/po/gu.po | 
 {.sortable}
 
 

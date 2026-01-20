@@ -18,70 +18,70 @@ The package system-config-display (version 1.0.51):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [as]({{< ref "/f7/language/as.md" >}}) | 398 | 398 | 100.0 | /mnt/stockage/packages/f7/system-config-display/po/as.po | 
- | [bg]({{< ref "/f7/language/bg.md" >}}) | 398 | 398 | 100.0 | /mnt/stockage/packages/f7/system-config-display/po/bg.po | 
- | [bn_IN]({{< ref "/f7/language/bn_IN.md" >}}) | 398 | 398 | 100.0 | /mnt/stockage/packages/f7/system-config-display/po/bn_IN.po | 
- | [bs]({{< ref "/f7/language/bs.md" >}}) | 398 | 398 | 100.0 | /mnt/stockage/packages/f7/system-config-display/po/bs.po | 
- | [ca]({{< ref "/f7/language/ca.md" >}}) | 398 | 398 | 100.0 | /mnt/stockage/packages/f7/system-config-display/po/ca.po | 
- | [cs]({{< ref "/f7/language/cs.md" >}}) | 398 | 398 | 100.0 | /mnt/stockage/packages/f7/system-config-display/po/cs.po | 
- | [de]({{< ref "/f7/language/de.md" >}}) | 398 | 398 | 100.0 | /mnt/stockage/packages/f7/system-config-display/po/de.po | 
- | [el]({{< ref "/f7/language/el.md" >}}) | 398 | 398 | 100.0 | /mnt/stockage/packages/f7/system-config-display/po/el.po | 
- | [error]({{< ref "/f7/language/error.md" >}}) | 398 | 398 | 100.0 | /mnt/stockage/packages/f7/system-config-display/po/sr@Latn.po | 
- | [es]({{< ref "/f7/language/es.md" >}}) | 398 | 398 | 100.0 | /mnt/stockage/packages/f7/system-config-display/po/es.po | 
- | [fi]({{< ref "/f7/language/fi.md" >}}) | 398 | 398 | 100.0 | /mnt/stockage/packages/f7/system-config-display/po/fi.po | 
- | [fr]({{< ref "/f7/language/fr.md" >}}) | 398 | 398 | 100.0 | /mnt/stockage/packages/f7/system-config-display/po/fr.po | 
- | [gu]({{< ref "/f7/language/gu.md" >}}) | 398 | 398 | 100.0 | /mnt/stockage/packages/f7/system-config-display/po/gu.po | 
- | [hi]({{< ref "/f7/language/hi.md" >}}) | 398 | 398 | 100.0 | /mnt/stockage/packages/f7/system-config-display/po/hi.po | 
- | [hr]({{< ref "/f7/language/hr.md" >}}) | 398 | 398 | 100.0 | /mnt/stockage/packages/f7/system-config-display/po/hr.po | 
- | [hu]({{< ref "/f7/language/hu.md" >}}) | 398 | 398 | 100.0 | /mnt/stockage/packages/f7/system-config-display/po/hu.po | 
- | [id]({{< ref "/f7/language/id.md" >}}) | 398 | 398 | 100.0 | /mnt/stockage/packages/f7/system-config-display/po/id.po | 
- | [is]({{< ref "/f7/language/is.md" >}}) | 398 | 398 | 100.0 | /mnt/stockage/packages/f7/system-config-display/po/is.po | 
- | [it]({{< ref "/f7/language/it.md" >}}) | 398 | 398 | 100.0 | /mnt/stockage/packages/f7/system-config-display/po/it.po | 
- | [ja]({{< ref "/f7/language/ja.md" >}}) | 398 | 398 | 100.0 | /mnt/stockage/packages/f7/system-config-display/po/ja.po | 
- | [ko]({{< ref "/f7/language/ko.md" >}}) | 398 | 398 | 100.0 | /mnt/stockage/packages/f7/system-config-display/po/ko.po | 
- | [ml]({{< ref "/f7/language/ml.md" >}}) | 398 | 398 | 100.0 | /mnt/stockage/packages/f7/system-config-display/po/ml.po | 
- | [mr]({{< ref "/f7/language/mr.md" >}}) | 398 | 398 | 100.0 | /mnt/stockage/packages/f7/system-config-display/po/mr.po | 
- | [ms]({{< ref "/f7/language/ms.md" >}}) | 398 | 398 | 100.0 | /mnt/stockage/packages/f7/system-config-display/po/ms.po | 
- | [nl]({{< ref "/f7/language/nl.md" >}}) | 398 | 398 | 100.0 | /mnt/stockage/packages/f7/system-config-display/po/nl.po | 
- | [or]({{< ref "/f7/language/or.md" >}}) | 398 | 398 | 100.0 | /mnt/stockage/packages/f7/system-config-display/po/or.po | 
- | [pa]({{< ref "/f7/language/pa.md" >}}) | 398 | 398 | 100.0 | /mnt/stockage/packages/f7/system-config-display/po/pa.po | 
- | [pl]({{< ref "/f7/language/pl.md" >}}) | 398 | 398 | 100.0 | /mnt/stockage/packages/f7/system-config-display/po/pl.po | 
- | [pt]({{< ref "/f7/language/pt.md" >}}) | 398 | 398 | 100.0 | /mnt/stockage/packages/f7/system-config-display/po/pt.po | 
- | [pt_BR]({{< ref "/f7/language/pt_BR.md" >}}) | 398 | 398 | 100.0 | /mnt/stockage/packages/f7/system-config-display/po/pt_BR.po | 
- | [ro]({{< ref "/f7/language/ro.md" >}}) | 398 | 398 | 100.0 | /mnt/stockage/packages/f7/system-config-display/po/ro.po | 
- | [ru]({{< ref "/f7/language/ru.md" >}}) | 398 | 398 | 100.0 | /mnt/stockage/packages/f7/system-config-display/po/ru.po | 
- | [sk]({{< ref "/f7/language/sk.md" >}}) | 398 | 398 | 100.0 | /mnt/stockage/packages/f7/system-config-display/po/sk.po | 
- | [sr]({{< ref "/f7/language/sr.md" >}}) | 398 | 398 | 100.0 | /mnt/stockage/packages/f7/system-config-display/po/sr.po | 
- | [sv]({{< ref "/f7/language/sv.md" >}}) | 398 | 398 | 100.0 | /mnt/stockage/packages/f7/system-config-display/po/sv.po | 
- | [ta]({{< ref "/f7/language/ta.md" >}}) | 398 | 398 | 100.0 | /mnt/stockage/packages/f7/system-config-display/po/ta.po | 
- | [te]({{< ref "/f7/language/te.md" >}}) | 398 | 398 | 100.0 | /mnt/stockage/packages/f7/system-config-display/po/te.po | 
- | [tr]({{< ref "/f7/language/tr.md" >}}) | 398 | 398 | 100.0 | /mnt/stockage/packages/f7/system-config-display/po/tr.po | 
- | [uk]({{< ref "/f7/language/uk.md" >}}) | 398 | 398 | 100.0 | /mnt/stockage/packages/f7/system-config-display/po/uk.po | 
- | [zh_Hans]({{< ref "/f7/language/zh_Hans.md" >}}) | 398 | 398 | 100.0 | /mnt/stockage/packages/f7/system-config-display/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f7/language/zh_Hant.md" >}}) | 398 | 398 | 100.0 | /mnt/stockage/packages/f7/system-config-display/po/zh_TW.po | 
- | [cy]({{< ref "/f7/language/cy.md" >}}) | 394 | 398 | 99.0 | /mnt/stockage/packages/f7/system-config-display/po/cy.po | 
- | [da]({{< ref "/f7/language/da.md" >}}) | 394 | 398 | 99.0 | /mnt/stockage/packages/f7/system-config-display/po/da.po | 
- | [en_GB]({{< ref "/f7/language/en_GB.md" >}}) | 394 | 398 | 99.0 | /mnt/stockage/packages/f7/system-config-display/po/en_GB.po | 
- | [lv]({{< ref "/f7/language/lv.md" >}}) | 394 | 398 | 99.0 | /mnt/stockage/packages/f7/system-config-display/po/lv.po | 
- | [sl]({{< ref "/f7/language/sl.md" >}}) | 394 | 398 | 99.0 | /mnt/stockage/packages/f7/system-config-display/po/sl.po | 
- | [bn]({{< ref "/f7/language/bn.md" >}}) | 391 | 398 | 98.2 | /mnt/stockage/packages/f7/system-config-display/po/bn.po | 
- | [nb_NO]({{< ref "/f7/language/nb_NO.md" >}}) | 598 | 796 | 75.1 | /mnt/stockage/packages/f7/system-config-display/po/nb.po/mnt/stockage/packages/f7/system-config-display/po/no.po | 
- | [et]({{< ref "/f7/language/et.md" >}}) | 252 | 398 | 63.3 | /mnt/stockage/packages/f7/system-config-display/po/et.po | 
- | [mk]({{< ref "/f7/language/mk.md" >}}) | 252 | 398 | 63.3 | /mnt/stockage/packages/f7/system-config-display/po/mk.po | 
- | [ar]({{< ref "/f7/language/ar.md" >}}) | 200 | 398 | 50.3 | /mnt/stockage/packages/f7/system-config-display/po/ar.po | 
- | [fa]({{< ref "/f7/language/fa.md" >}}) | 200 | 398 | 50.3 | /mnt/stockage/packages/f7/system-config-display/po/fa.po | 
- | [lt]({{< ref "/f7/language/lt.md" >}}) | 200 | 398 | 50.3 | /mnt/stockage/packages/f7/system-config-display/po/lt.po | 
- | [vi]({{< ref "/f7/language/vi.md" >}}) | 185 | 398 | 46.5 | /mnt/stockage/packages/f7/system-config-display/po/vi.po | 
- | [ka]({{< ref "/f7/language/ka.md" >}}) | 29 | 398 | 7.3 | /mnt/stockage/packages/f7/system-config-display/po/ka.po | 
- | [he]({{< ref "/f7/language/he.md" >}}) | 0 | 398 | 0.0 | /mnt/stockage/packages/f7/system-config-display/po/he.po | 
- | [hy]({{< ref "/f7/language/hy.md" >}}) | 0 | 398 | 0.0 | /mnt/stockage/packages/f7/system-config-display/po/hy.po | 
- | [kn]({{< ref "/f7/language/kn.md" >}}) | 0 | 398 | 0.0 | /mnt/stockage/packages/f7/system-config-display/po/kn.po | 
- | [ku]({{< ref "/f7/language/ku.md" >}}) | 0 | 398 | 0.0 | /mnt/stockage/packages/f7/system-config-display/po/ku.po | 
- | [lo]({{< ref "/f7/language/lo.md" >}}) | 0 | 398 | 0.0 | /mnt/stockage/packages/f7/system-config-display/po/lo.po | 
- | [my]({{< ref "/f7/language/my.md" >}}) | 0 | 398 | 0.0 | /mnt/stockage/packages/f7/system-config-display/po/my.po | 
- | [si]({{< ref "/f7/language/si.md" >}}) | 0 | 398 | 0.0 | /mnt/stockage/packages/f7/system-config-display/po/si.po | 
- | [sq]({{< ref "/f7/language/sq.md" >}}) | 0 | 398 | 0.0 | /mnt/stockage/packages/f7/system-config-display/po/sq.po | 
- | [ur]({{< ref "/f7/language/ur.md" >}}) | 0 | 398 | 0.0 | /mnt/stockage/packages/f7/system-config-display/po/ur.po | 
+ | [as](/f7/language/as) | 398 | 398 | 100.0 | /mnt/stockage/packages/f7/system-config-display/po/as.po | 
+ | [bg](/f7/language/bg) | 398 | 398 | 100.0 | /mnt/stockage/packages/f7/system-config-display/po/bg.po | 
+ | [bn_IN](/f7/language/bn_IN) | 398 | 398 | 100.0 | /mnt/stockage/packages/f7/system-config-display/po/bn_IN.po | 
+ | [bs](/f7/language/bs) | 398 | 398 | 100.0 | /mnt/stockage/packages/f7/system-config-display/po/bs.po | 
+ | [ca](/f7/language/ca) | 398 | 398 | 100.0 | /mnt/stockage/packages/f7/system-config-display/po/ca.po | 
+ | [cs](/f7/language/cs) | 398 | 398 | 100.0 | /mnt/stockage/packages/f7/system-config-display/po/cs.po | 
+ | [de](/f7/language/de) | 398 | 398 | 100.0 | /mnt/stockage/packages/f7/system-config-display/po/de.po | 
+ | [el](/f7/language/el) | 398 | 398 | 100.0 | /mnt/stockage/packages/f7/system-config-display/po/el.po | 
+ | [error](/f7/language/error) | 398 | 398 | 100.0 | /mnt/stockage/packages/f7/system-config-display/po/sr@Latn.po | 
+ | [es](/f7/language/es) | 398 | 398 | 100.0 | /mnt/stockage/packages/f7/system-config-display/po/es.po | 
+ | [fi](/f7/language/fi) | 398 | 398 | 100.0 | /mnt/stockage/packages/f7/system-config-display/po/fi.po | 
+ | [fr](/f7/language/fr) | 398 | 398 | 100.0 | /mnt/stockage/packages/f7/system-config-display/po/fr.po | 
+ | [gu](/f7/language/gu) | 398 | 398 | 100.0 | /mnt/stockage/packages/f7/system-config-display/po/gu.po | 
+ | [hi](/f7/language/hi) | 398 | 398 | 100.0 | /mnt/stockage/packages/f7/system-config-display/po/hi.po | 
+ | [hr](/f7/language/hr) | 398 | 398 | 100.0 | /mnt/stockage/packages/f7/system-config-display/po/hr.po | 
+ | [hu](/f7/language/hu) | 398 | 398 | 100.0 | /mnt/stockage/packages/f7/system-config-display/po/hu.po | 
+ | [id](/f7/language/id) | 398 | 398 | 100.0 | /mnt/stockage/packages/f7/system-config-display/po/id.po | 
+ | [is](/f7/language/is) | 398 | 398 | 100.0 | /mnt/stockage/packages/f7/system-config-display/po/is.po | 
+ | [it](/f7/language/it) | 398 | 398 | 100.0 | /mnt/stockage/packages/f7/system-config-display/po/it.po | 
+ | [ja](/f7/language/ja) | 398 | 398 | 100.0 | /mnt/stockage/packages/f7/system-config-display/po/ja.po | 
+ | [ko](/f7/language/ko) | 398 | 398 | 100.0 | /mnt/stockage/packages/f7/system-config-display/po/ko.po | 
+ | [ml](/f7/language/ml) | 398 | 398 | 100.0 | /mnt/stockage/packages/f7/system-config-display/po/ml.po | 
+ | [mr](/f7/language/mr) | 398 | 398 | 100.0 | /mnt/stockage/packages/f7/system-config-display/po/mr.po | 
+ | [ms](/f7/language/ms) | 398 | 398 | 100.0 | /mnt/stockage/packages/f7/system-config-display/po/ms.po | 
+ | [nl](/f7/language/nl) | 398 | 398 | 100.0 | /mnt/stockage/packages/f7/system-config-display/po/nl.po | 
+ | [or](/f7/language/or) | 398 | 398 | 100.0 | /mnt/stockage/packages/f7/system-config-display/po/or.po | 
+ | [pa](/f7/language/pa) | 398 | 398 | 100.0 | /mnt/stockage/packages/f7/system-config-display/po/pa.po | 
+ | [pl](/f7/language/pl) | 398 | 398 | 100.0 | /mnt/stockage/packages/f7/system-config-display/po/pl.po | 
+ | [pt](/f7/language/pt) | 398 | 398 | 100.0 | /mnt/stockage/packages/f7/system-config-display/po/pt.po | 
+ | [pt_BR](/f7/language/pt_BR) | 398 | 398 | 100.0 | /mnt/stockage/packages/f7/system-config-display/po/pt_BR.po | 
+ | [ro](/f7/language/ro) | 398 | 398 | 100.0 | /mnt/stockage/packages/f7/system-config-display/po/ro.po | 
+ | [ru](/f7/language/ru) | 398 | 398 | 100.0 | /mnt/stockage/packages/f7/system-config-display/po/ru.po | 
+ | [sk](/f7/language/sk) | 398 | 398 | 100.0 | /mnt/stockage/packages/f7/system-config-display/po/sk.po | 
+ | [sr](/f7/language/sr) | 398 | 398 | 100.0 | /mnt/stockage/packages/f7/system-config-display/po/sr.po | 
+ | [sv](/f7/language/sv) | 398 | 398 | 100.0 | /mnt/stockage/packages/f7/system-config-display/po/sv.po | 
+ | [ta](/f7/language/ta) | 398 | 398 | 100.0 | /mnt/stockage/packages/f7/system-config-display/po/ta.po | 
+ | [te](/f7/language/te) | 398 | 398 | 100.0 | /mnt/stockage/packages/f7/system-config-display/po/te.po | 
+ | [tr](/f7/language/tr) | 398 | 398 | 100.0 | /mnt/stockage/packages/f7/system-config-display/po/tr.po | 
+ | [uk](/f7/language/uk) | 398 | 398 | 100.0 | /mnt/stockage/packages/f7/system-config-display/po/uk.po | 
+ | [zh_Hans](/f7/language/zh_Hans) | 398 | 398 | 100.0 | /mnt/stockage/packages/f7/system-config-display/po/zh_CN.po | 
+ | [zh_Hant](/f7/language/zh_Hant) | 398 | 398 | 100.0 | /mnt/stockage/packages/f7/system-config-display/po/zh_TW.po | 
+ | [cy](/f7/language/cy) | 394 | 398 | 99.0 | /mnt/stockage/packages/f7/system-config-display/po/cy.po | 
+ | [da](/f7/language/da) | 394 | 398 | 99.0 | /mnt/stockage/packages/f7/system-config-display/po/da.po | 
+ | [en_GB](/f7/language/en_GB) | 394 | 398 | 99.0 | /mnt/stockage/packages/f7/system-config-display/po/en_GB.po | 
+ | [lv](/f7/language/lv) | 394 | 398 | 99.0 | /mnt/stockage/packages/f7/system-config-display/po/lv.po | 
+ | [sl](/f7/language/sl) | 394 | 398 | 99.0 | /mnt/stockage/packages/f7/system-config-display/po/sl.po | 
+ | [bn](/f7/language/bn) | 391 | 398 | 98.2 | /mnt/stockage/packages/f7/system-config-display/po/bn.po | 
+ | [nb_NO](/f7/language/nb_NO) | 598 | 796 | 75.1 | /mnt/stockage/packages/f7/system-config-display/po/nb.po/mnt/stockage/packages/f7/system-config-display/po/no.po | 
+ | [et](/f7/language/et) | 252 | 398 | 63.3 | /mnt/stockage/packages/f7/system-config-display/po/et.po | 
+ | [mk](/f7/language/mk) | 252 | 398 | 63.3 | /mnt/stockage/packages/f7/system-config-display/po/mk.po | 
+ | [ar](/f7/language/ar) | 200 | 398 | 50.3 | /mnt/stockage/packages/f7/system-config-display/po/ar.po | 
+ | [fa](/f7/language/fa) | 200 | 398 | 50.3 | /mnt/stockage/packages/f7/system-config-display/po/fa.po | 
+ | [lt](/f7/language/lt) | 200 | 398 | 50.3 | /mnt/stockage/packages/f7/system-config-display/po/lt.po | 
+ | [vi](/f7/language/vi) | 185 | 398 | 46.5 | /mnt/stockage/packages/f7/system-config-display/po/vi.po | 
+ | [ka](/f7/language/ka) | 29 | 398 | 7.3 | /mnt/stockage/packages/f7/system-config-display/po/ka.po | 
+ | [he](/f7/language/he) | 0 | 398 | 0.0 | /mnt/stockage/packages/f7/system-config-display/po/he.po | 
+ | [hy](/f7/language/hy) | 0 | 398 | 0.0 | /mnt/stockage/packages/f7/system-config-display/po/hy.po | 
+ | [kn](/f7/language/kn) | 0 | 398 | 0.0 | /mnt/stockage/packages/f7/system-config-display/po/kn.po | 
+ | [ku](/f7/language/ku) | 0 | 398 | 0.0 | /mnt/stockage/packages/f7/system-config-display/po/ku.po | 
+ | [lo](/f7/language/lo) | 0 | 398 | 0.0 | /mnt/stockage/packages/f7/system-config-display/po/lo.po | 
+ | [my](/f7/language/my) | 0 | 398 | 0.0 | /mnt/stockage/packages/f7/system-config-display/po/my.po | 
+ | [si](/f7/language/si) | 0 | 398 | 0.0 | /mnt/stockage/packages/f7/system-config-display/po/si.po | 
+ | [sq](/f7/language/sq) | 0 | 398 | 0.0 | /mnt/stockage/packages/f7/system-config-display/po/sq.po | 
+ | [ur](/f7/language/ur) | 0 | 398 | 0.0 | /mnt/stockage/packages/f7/system-config-display/po/ur.po | 
 {.sortable}
 
 

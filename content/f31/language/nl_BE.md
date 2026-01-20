@@ -38,17 +38,17 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [picard]({{< ref "/f31/package/picard.md" >}}) | 386 | 386 | 100.0 | Dutch (Belgium) (http://www.transifex.com/musicbrainz/musicbrainz/language/nl_BE/) | 
- | [clamtk]({{< ref "/f31/package/clamtk.md" >}}) | 677 | 688 | 98.4 | LANGUAGE <LL@li.org> | 
- | [siril]({{< ref "/f31/package/siril.md" >}}) | 12740 | 13745 | 92.7 | Dutch <antoine.hoeffelman[-at-]gmail.com> | 
- | [gtkhash]({{< ref "/f31/package/gtkhash.md" >}}) | 197 | 213 | 92.5 | Flemish <https://hosted.weblate.org/projects/gtkhash/translations/nl_BE/> | 
- | [dino]({{< ref "/f31/package/dino.md" >}}) | 767 | 839 | 91.4 | Flemish <https://hosted.weblate.org/projects/dino/translations/nl_BE/> | 
- | [gnome-shell-extension-gsconnect]({{< ref "/f31/package/gnome-shell-extension-gsconnect.md" >}}) | 364 | 530 | 68.7 | Dutch <vistausss@outlook.com> | 
- | [lollypop]({{< ref "/f31/package/lollypop.md" >}}) | 617 | 1367 | 45.1 | Flemish <https://hosted.weblate.org/projects/gnumdk/lollypop/nl_BE/> | 
- | [gourmet]({{< ref "/f31/package/gourmet.md" >}}) | 660 | 3939 | 16.8 | Dutch (Belgium) <nl_BE@li.org> | 
- | [gnomebaker]({{< ref "/f31/package/gnomebaker.md" >}}) | 117 | 1186 | 9.9 | Dutch (Belgium) <nl_BE@li.org> | 
- | [bubblemail]({{< ref "/f31/package/bubblemail.md" >}}) | 0 | 463 | 0.0 | none | 
- | [gnome-shell-extension-bubblemail]({{< ref "/f31/package/gnome-shell-extension-bubblemail.md" >}}) | 0 | 91 | 0.0 | none | 
+ | [picard](/f31/package/picard) | 386 | 386 | 100.0 | Dutch (Belgium) (http://www.transifex.com/musicbrainz/musicbrainz/language/nl_BE/) | 
+ | [clamtk](/f31/package/clamtk) | 677 | 688 | 98.4 | LANGUAGE <LL@li.org> | 
+ | [siril](/f31/package/siril) | 12740 | 13745 | 92.7 | Dutch <antoine.hoeffelman[-at-]gmail.com> | 
+ | [gtkhash](/f31/package/gtkhash) | 197 | 213 | 92.5 | Flemish <https://hosted.weblate.org/projects/gtkhash/translations/nl_BE/> | 
+ | [dino](/f31/package/dino) | 767 | 839 | 91.4 | Flemish <https://hosted.weblate.org/projects/dino/translations/nl_BE/> | 
+ | [gnome-shell-extension-gsconnect](/f31/package/gnome-shell-extension-gsconnect) | 364 | 530 | 68.7 | Dutch <vistausss@outlook.com> | 
+ | [lollypop](/f31/package/lollypop) | 617 | 1367 | 45.1 | Flemish <https://hosted.weblate.org/projects/gnumdk/lollypop/nl_BE/> | 
+ | [gourmet](/f31/package/gourmet) | 660 | 3939 | 16.8 | Dutch (Belgium) <nl_BE@li.org> | 
+ | [gnomebaker](/f31/package/gnomebaker) | 117 | 1186 | 9.9 | Dutch (Belgium) <nl_BE@li.org> | 
+ | [bubblemail](/f31/package/bubblemail) | 0 | 463 | 0.0 | none | 
+ | [gnome-shell-extension-bubblemail](/f31/package/gnome-shell-extension-bubblemail) | 0 | 91 | 0.0 | none | 
 {.sortable}
 
 

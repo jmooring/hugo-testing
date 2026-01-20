@@ -18,15 +18,15 @@ The package python-virtinst (version 0.500.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [es]({{< ref "/f12/language/es.md" >}}) | 3216 | 3291 | 97.7 | /mnt/stockage/packages/f12/python-virtinst/po/es.po | 
- | [it]({{< ref "/f12/language/it.md" >}}) | 3216 | 3291 | 97.7 | /mnt/stockage/packages/f12/python-virtinst/po/it.po | 
- | [pl]({{< ref "/f12/language/pl.md" >}}) | 3216 | 3291 | 97.7 | /mnt/stockage/packages/f12/python-virtinst/po/pl.po | 
- | [zh_Hans]({{< ref "/f12/language/zh_Hans.md" >}}) | 2554 | 3291 | 77.6 | /mnt/stockage/packages/f12/python-virtinst/po/zh_CN.po | 
- | [pt_BR]({{< ref "/f12/language/pt_BR.md" >}}) | 1663 | 3291 | 50.5 | /mnt/stockage/packages/f12/python-virtinst/po/pt_BR.po | 
- | [sr]({{< ref "/f12/language/sr.md" >}}) | 868 | 3291 | 26.4 | /mnt/stockage/packages/f12/python-virtinst/po/sr.po | 
- | [sr_Latn]({{< ref "/f12/language/sr_Latn.md" >}}) | 868 | 3291 | 26.4 | /mnt/stockage/packages/f12/python-virtinst/po/sr@latin.po | 
- | [fr]({{< ref "/f12/language/fr.md" >}}) | 830 | 3291 | 25.2 | /mnt/stockage/packages/f12/python-virtinst/po/fr.po | 
- | [ja]({{< ref "/f12/language/ja.md" >}}) | 606 | 3291 | 18.4 | /mnt/stockage/packages/f12/python-virtinst/po/ja.po | 
+ | [es](/f12/language/es) | 3216 | 3291 | 97.7 | /mnt/stockage/packages/f12/python-virtinst/po/es.po | 
+ | [it](/f12/language/it) | 3216 | 3291 | 97.7 | /mnt/stockage/packages/f12/python-virtinst/po/it.po | 
+ | [pl](/f12/language/pl) | 3216 | 3291 | 97.7 | /mnt/stockage/packages/f12/python-virtinst/po/pl.po | 
+ | [zh_Hans](/f12/language/zh_Hans) | 2554 | 3291 | 77.6 | /mnt/stockage/packages/f12/python-virtinst/po/zh_CN.po | 
+ | [pt_BR](/f12/language/pt_BR) | 1663 | 3291 | 50.5 | /mnt/stockage/packages/f12/python-virtinst/po/pt_BR.po | 
+ | [sr](/f12/language/sr) | 868 | 3291 | 26.4 | /mnt/stockage/packages/f12/python-virtinst/po/sr.po | 
+ | [sr_Latn](/f12/language/sr_Latn) | 868 | 3291 | 26.4 | /mnt/stockage/packages/f12/python-virtinst/po/sr@latin.po | 
+ | [fr](/f12/language/fr) | 830 | 3291 | 25.2 | /mnt/stockage/packages/f12/python-virtinst/po/fr.po | 
+ | [ja](/f12/language/ja) | 606 | 3291 | 18.4 | /mnt/stockage/packages/f12/python-virtinst/po/ja.po | 
 {.sortable}
 
 

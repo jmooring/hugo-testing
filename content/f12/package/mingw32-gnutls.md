@@ -18,14 +18,14 @@ The package mingw32-gnutls (version 2.6.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [error]({{< ref "/f12/language/error.md" >}}) | 1886 | 1886 | 100.0 | /mnt/stockage/packages/f12/mingw32-gnutls/po/en@boldquot.po/mnt/stockage/packages/f12/mingw32-gnutls/po/en@quot.po | 
- | [fr]({{< ref "/f12/language/fr.md" >}}) | 943 | 943 | 100.0 | /mnt/stockage/packages/f12/mingw32-gnutls/po/fr.po | 
- | [nl]({{< ref "/f12/language/nl.md" >}}) | 943 | 943 | 100.0 | /mnt/stockage/packages/f12/mingw32-gnutls/po/nl.po | 
- | [pl]({{< ref "/f12/language/pl.md" >}}) | 943 | 943 | 100.0 | /mnt/stockage/packages/f12/mingw32-gnutls/po/pl.po | 
- | [sv]({{< ref "/f12/language/sv.md" >}}) | 943 | 943 | 100.0 | /mnt/stockage/packages/f12/mingw32-gnutls/po/sv.po | 
- | [vi]({{< ref "/f12/language/vi.md" >}}) | 943 | 943 | 100.0 | /mnt/stockage/packages/f12/mingw32-gnutls/po/vi.po | 
- | [ms]({{< ref "/f12/language/ms.md" >}}) | 848 | 943 | 89.9 | /mnt/stockage/packages/f12/mingw32-gnutls/po/ms.po | 
- | [de]({{< ref "/f12/language/de.md" >}}) | 575 | 943 | 61.0 | /mnt/stockage/packages/f12/mingw32-gnutls/po/de.po | 
+ | [error](/f12/language/error) | 1886 | 1886 | 100.0 | /mnt/stockage/packages/f12/mingw32-gnutls/po/en@boldquot.po/mnt/stockage/packages/f12/mingw32-gnutls/po/en@quot.po | 
+ | [fr](/f12/language/fr) | 943 | 943 | 100.0 | /mnt/stockage/packages/f12/mingw32-gnutls/po/fr.po | 
+ | [nl](/f12/language/nl) | 943 | 943 | 100.0 | /mnt/stockage/packages/f12/mingw32-gnutls/po/nl.po | 
+ | [pl](/f12/language/pl) | 943 | 943 | 100.0 | /mnt/stockage/packages/f12/mingw32-gnutls/po/pl.po | 
+ | [sv](/f12/language/sv) | 943 | 943 | 100.0 | /mnt/stockage/packages/f12/mingw32-gnutls/po/sv.po | 
+ | [vi](/f12/language/vi) | 943 | 943 | 100.0 | /mnt/stockage/packages/f12/mingw32-gnutls/po/vi.po | 
+ | [ms](/f12/language/ms) | 848 | 943 | 89.9 | /mnt/stockage/packages/f12/mingw32-gnutls/po/ms.po | 
+ | [de](/f12/language/de) | 575 | 943 | 61.0 | /mnt/stockage/packages/f12/mingw32-gnutls/po/de.po | 
 {.sortable}
 
 

@@ -18,24 +18,24 @@ The package dos2unix (version 7.3.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [da]({{< ref "/f26/language/da.md" >}}) | 993 | 993 | 100.0 | /mnt/stockage/packages/f26/dos2unix/po/da.po | 
- | [ja]({{< ref "/f26/language/ja.md" >}}) | 993 | 993 | 100.0 | /mnt/stockage/packages/f26/dos2unix/po/ja.po | 
- | [nb_NO]({{< ref "/f26/language/nb_NO.md" >}}) | 993 | 993 | 100.0 | /mnt/stockage/packages/f26/dos2unix/po/nb.po | 
- | [ru]({{< ref "/f26/language/ru.md" >}}) | 993 | 993 | 100.0 | /mnt/stockage/packages/f26/dos2unix/po/ru.po | 
- | [de]({{< ref "/f26/language/de.md" >}}) | 4730 | 4736 | 99.9 | /mnt/stockage/packages/f26/dos2unix/po/de.po/mnt/stockage/packages/f26/dos2unix/po-man/de.po | 
- | [fr]({{< ref "/f26/language/fr.md" >}}) | 4730 | 4736 | 99.9 | /mnt/stockage/packages/f26/dos2unix/po/fr.po/mnt/stockage/packages/f26/dos2unix/po-man/fr.po | 
- | [pl]({{< ref "/f26/language/pl.md" >}}) | 4730 | 4736 | 99.9 | /mnt/stockage/packages/f26/dos2unix/po/pl.po/mnt/stockage/packages/f26/dos2unix/po-man/pl.po | 
- | [pt_BR]({{< ref "/f26/language/pt_BR.md" >}}) | 4730 | 4736 | 99.9 | /mnt/stockage/packages/f26/dos2unix/po/pt_BR.po/mnt/stockage/packages/f26/dos2unix/po-man/pt_BR.po | 
- | [sv]({{< ref "/f26/language/sv.md" >}}) | 4730 | 4736 | 99.9 | /mnt/stockage/packages/f26/dos2unix/po/sv.po/mnt/stockage/packages/f26/dos2unix/po-man/sv.po | 
- | [uk]({{< ref "/f26/language/uk.md" >}}) | 4730 | 4736 | 99.9 | /mnt/stockage/packages/f26/dos2unix/po/uk.po/mnt/stockage/packages/f26/dos2unix/po-man/uk.po | 
- | [zh_Hans]({{< ref "/f26/language/zh_Hans.md" >}}) | 4716 | 4736 | 99.6 | /mnt/stockage/packages/f26/dos2unix/po/zh_CN.po/mnt/stockage/packages/f26/dos2unix/po-man/zh_CN.po | 
- | [sr]({{< ref "/f26/language/sr.md" >}}) | 979 | 993 | 98.6 | /mnt/stockage/packages/f26/dos2unix/po/sr.po | 
- | [vi]({{< ref "/f26/language/vi.md" >}}) | 883 | 993 | 88.9 | /mnt/stockage/packages/f26/dos2unix/po/vi.po | 
- | [nl]({{< ref "/f26/language/nl.md" >}}) | 4190 | 4736 | 88.5 | /mnt/stockage/packages/f26/dos2unix/po/nl.po/mnt/stockage/packages/f26/dos2unix/po-man/nl.po | 
- | [hu]({{< ref "/f26/language/hu.md" >}}) | 847 | 993 | 85.3 | /mnt/stockage/packages/f26/dos2unix/po/hu.po | 
- | [eo]({{< ref "/f26/language/eo.md" >}}) | 815 | 993 | 82.1 | /mnt/stockage/packages/f26/dos2unix/po/eo.po | 
- | [es]({{< ref "/f26/language/es.md" >}}) | 3871 | 4736 | 81.7 | /mnt/stockage/packages/f26/dos2unix/po/es.po/mnt/stockage/packages/f26/dos2unix/po-man/es.po | 
- | [zh_Hant]({{< ref "/f26/language/zh_Hant.md" >}}) | 670 | 993 | 67.5 | /mnt/stockage/packages/f26/dos2unix/po/zh_TW.po | 
+ | [da](/f26/language/da) | 993 | 993 | 100.0 | /mnt/stockage/packages/f26/dos2unix/po/da.po | 
+ | [ja](/f26/language/ja) | 993 | 993 | 100.0 | /mnt/stockage/packages/f26/dos2unix/po/ja.po | 
+ | [nb_NO](/f26/language/nb_NO) | 993 | 993 | 100.0 | /mnt/stockage/packages/f26/dos2unix/po/nb.po | 
+ | [ru](/f26/language/ru) | 993 | 993 | 100.0 | /mnt/stockage/packages/f26/dos2unix/po/ru.po | 
+ | [de](/f26/language/de) | 4730 | 4736 | 99.9 | /mnt/stockage/packages/f26/dos2unix/po/de.po/mnt/stockage/packages/f26/dos2unix/po-man/de.po | 
+ | [fr](/f26/language/fr) | 4730 | 4736 | 99.9 | /mnt/stockage/packages/f26/dos2unix/po/fr.po/mnt/stockage/packages/f26/dos2unix/po-man/fr.po | 
+ | [pl](/f26/language/pl) | 4730 | 4736 | 99.9 | /mnt/stockage/packages/f26/dos2unix/po/pl.po/mnt/stockage/packages/f26/dos2unix/po-man/pl.po | 
+ | [pt_BR](/f26/language/pt_BR) | 4730 | 4736 | 99.9 | /mnt/stockage/packages/f26/dos2unix/po/pt_BR.po/mnt/stockage/packages/f26/dos2unix/po-man/pt_BR.po | 
+ | [sv](/f26/language/sv) | 4730 | 4736 | 99.9 | /mnt/stockage/packages/f26/dos2unix/po/sv.po/mnt/stockage/packages/f26/dos2unix/po-man/sv.po | 
+ | [uk](/f26/language/uk) | 4730 | 4736 | 99.9 | /mnt/stockage/packages/f26/dos2unix/po/uk.po/mnt/stockage/packages/f26/dos2unix/po-man/uk.po | 
+ | [zh_Hans](/f26/language/zh_Hans) | 4716 | 4736 | 99.6 | /mnt/stockage/packages/f26/dos2unix/po/zh_CN.po/mnt/stockage/packages/f26/dos2unix/po-man/zh_CN.po | 
+ | [sr](/f26/language/sr) | 979 | 993 | 98.6 | /mnt/stockage/packages/f26/dos2unix/po/sr.po | 
+ | [vi](/f26/language/vi) | 883 | 993 | 88.9 | /mnt/stockage/packages/f26/dos2unix/po/vi.po | 
+ | [nl](/f26/language/nl) | 4190 | 4736 | 88.5 | /mnt/stockage/packages/f26/dos2unix/po/nl.po/mnt/stockage/packages/f26/dos2unix/po-man/nl.po | 
+ | [hu](/f26/language/hu) | 847 | 993 | 85.3 | /mnt/stockage/packages/f26/dos2unix/po/hu.po | 
+ | [eo](/f26/language/eo) | 815 | 993 | 82.1 | /mnt/stockage/packages/f26/dos2unix/po/eo.po | 
+ | [es](/f26/language/es) | 3871 | 4736 | 81.7 | /mnt/stockage/packages/f26/dos2unix/po/es.po/mnt/stockage/packages/f26/dos2unix/po-man/es.po | 
+ | [zh_Hant](/f26/language/zh_Hant) | 670 | 993 | 67.5 | /mnt/stockage/packages/f26/dos2unix/po/zh_TW.po | 
 {.sortable}
 
 

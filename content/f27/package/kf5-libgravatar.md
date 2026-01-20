@@ -18,34 +18,34 @@ The package kf5-libgravatar (version 17.12.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f27/language/ca.md" >}}) | 27 | 27 | 100.0 | /mnt/stockage/packages/f27/kf5-libgravatar/po/ca/libgravatar.po | 
- | [ca@valencia]({{< ref "/f27/language/ca@valencia.md" >}}) | 27 | 27 | 100.0 | /mnt/stockage/packages/f27/kf5-libgravatar/po/ca@valencia/libgravatar.po | 
- | [de]({{< ref "/f27/language/de.md" >}}) | 27 | 27 | 100.0 | /mnt/stockage/packages/f27/kf5-libgravatar/po/de/libgravatar.po | 
- | [en_GB]({{< ref "/f27/language/en_GB.md" >}}) | 27 | 27 | 100.0 | /mnt/stockage/packages/f27/kf5-libgravatar/po/en_GB/libgravatar.po | 
- | [es]({{< ref "/f27/language/es.md" >}}) | 27 | 27 | 100.0 | /mnt/stockage/packages/f27/kf5-libgravatar/po/es/libgravatar.po | 
- | [et]({{< ref "/f27/language/et.md" >}}) | 27 | 27 | 100.0 | /mnt/stockage/packages/f27/kf5-libgravatar/po/et/libgravatar.po | 
- | [fi]({{< ref "/f27/language/fi.md" >}}) | 27 | 27 | 100.0 | /mnt/stockage/packages/f27/kf5-libgravatar/po/fi/libgravatar.po | 
- | [fr]({{< ref "/f27/language/fr.md" >}}) | 27 | 27 | 100.0 | /mnt/stockage/packages/f27/kf5-libgravatar/po/fr/libgravatar.po | 
- | [gl]({{< ref "/f27/language/gl.md" >}}) | 27 | 27 | 100.0 | /mnt/stockage/packages/f27/kf5-libgravatar/po/gl/libgravatar.po | 
- | [it]({{< ref "/f27/language/it.md" >}}) | 27 | 27 | 100.0 | /mnt/stockage/packages/f27/kf5-libgravatar/po/it/libgravatar.po | 
- | [ko]({{< ref "/f27/language/ko.md" >}}) | 27 | 27 | 100.0 | /mnt/stockage/packages/f27/kf5-libgravatar/po/ko/libgravatar.po | 
- | [nl]({{< ref "/f27/language/nl.md" >}}) | 27 | 27 | 100.0 | /mnt/stockage/packages/f27/kf5-libgravatar/po/nl/libgravatar.po | 
- | [pl]({{< ref "/f27/language/pl.md" >}}) | 27 | 27 | 100.0 | /mnt/stockage/packages/f27/kf5-libgravatar/po/pl/libgravatar.po | 
- | [pt]({{< ref "/f27/language/pt.md" >}}) | 27 | 27 | 100.0 | /mnt/stockage/packages/f27/kf5-libgravatar/po/pt/libgravatar.po | 
- | [pt_BR]({{< ref "/f27/language/pt_BR.md" >}}) | 27 | 27 | 100.0 | /mnt/stockage/packages/f27/kf5-libgravatar/po/pt_BR/libgravatar.po | 
- | [ru]({{< ref "/f27/language/ru.md" >}}) | 27 | 27 | 100.0 | /mnt/stockage/packages/f27/kf5-libgravatar/po/ru/libgravatar.po | 
- | [sk]({{< ref "/f27/language/sk.md" >}}) | 27 | 27 | 100.0 | /mnt/stockage/packages/f27/kf5-libgravatar/po/sk/libgravatar.po | 
- | [sl]({{< ref "/f27/language/sl.md" >}}) | 27 | 27 | 100.0 | /mnt/stockage/packages/f27/kf5-libgravatar/po/sl/libgravatar.po | 
- | [sr]({{< ref "/f27/language/sr.md" >}}) | 27 | 27 | 100.0 | /mnt/stockage/packages/f27/kf5-libgravatar/po/sr/libgravatar.po | 
- | [sv]({{< ref "/f27/language/sv.md" >}}) | 27 | 27 | 100.0 | /mnt/stockage/packages/f27/kf5-libgravatar/po/sv/libgravatar.po | 
- | [tr]({{< ref "/f27/language/tr.md" >}}) | 27 | 27 | 100.0 | /mnt/stockage/packages/f27/kf5-libgravatar/po/tr/libgravatar.po | 
- | [uk]({{< ref "/f27/language/uk.md" >}}) | 27 | 27 | 100.0 | /mnt/stockage/packages/f27/kf5-libgravatar/po/uk/libgravatar.po | 
- | [zh_Hans]({{< ref "/f27/language/zh_Hans.md" >}}) | 27 | 27 | 100.0 | /mnt/stockage/packages/f27/kf5-libgravatar/po/zh_CN/libgravatar.po | 
- | [cs]({{< ref "/f27/language/cs.md" >}}) | 15 | 27 | 55.6 | /mnt/stockage/packages/f27/kf5-libgravatar/po/cs/libgravatar.po | 
- | [da]({{< ref "/f27/language/da.md" >}}) | 7 | 27 | 25.9 | /mnt/stockage/packages/f27/kf5-libgravatar/po/da/libgravatar.po | 
- | [ast]({{< ref "/f27/language/ast.md" >}}) | 1 | 27 | 3.7 | /mnt/stockage/packages/f27/kf5-libgravatar/po/ast/libgravatar.po | 
- | [ja]({{< ref "/f27/language/ja.md" >}}) | 0 | 27 | 0.0 | /mnt/stockage/packages/f27/kf5-libgravatar/po/ja/libgravatar.po | 
- | [zh_Hant]({{< ref "/f27/language/zh_Hant.md" >}}) | 0 | 27 | 0.0 | /mnt/stockage/packages/f27/kf5-libgravatar/po/zh_TW/libgravatar.po | 
+ | [ca](/f27/language/ca) | 27 | 27 | 100.0 | /mnt/stockage/packages/f27/kf5-libgravatar/po/ca/libgravatar.po | 
+ | [ca@valencia](/f27/language/ca@valencia) | 27 | 27 | 100.0 | /mnt/stockage/packages/f27/kf5-libgravatar/po/ca@valencia/libgravatar.po | 
+ | [de](/f27/language/de) | 27 | 27 | 100.0 | /mnt/stockage/packages/f27/kf5-libgravatar/po/de/libgravatar.po | 
+ | [en_GB](/f27/language/en_GB) | 27 | 27 | 100.0 | /mnt/stockage/packages/f27/kf5-libgravatar/po/en_GB/libgravatar.po | 
+ | [es](/f27/language/es) | 27 | 27 | 100.0 | /mnt/stockage/packages/f27/kf5-libgravatar/po/es/libgravatar.po | 
+ | [et](/f27/language/et) | 27 | 27 | 100.0 | /mnt/stockage/packages/f27/kf5-libgravatar/po/et/libgravatar.po | 
+ | [fi](/f27/language/fi) | 27 | 27 | 100.0 | /mnt/stockage/packages/f27/kf5-libgravatar/po/fi/libgravatar.po | 
+ | [fr](/f27/language/fr) | 27 | 27 | 100.0 | /mnt/stockage/packages/f27/kf5-libgravatar/po/fr/libgravatar.po | 
+ | [gl](/f27/language/gl) | 27 | 27 | 100.0 | /mnt/stockage/packages/f27/kf5-libgravatar/po/gl/libgravatar.po | 
+ | [it](/f27/language/it) | 27 | 27 | 100.0 | /mnt/stockage/packages/f27/kf5-libgravatar/po/it/libgravatar.po | 
+ | [ko](/f27/language/ko) | 27 | 27 | 100.0 | /mnt/stockage/packages/f27/kf5-libgravatar/po/ko/libgravatar.po | 
+ | [nl](/f27/language/nl) | 27 | 27 | 100.0 | /mnt/stockage/packages/f27/kf5-libgravatar/po/nl/libgravatar.po | 
+ | [pl](/f27/language/pl) | 27 | 27 | 100.0 | /mnt/stockage/packages/f27/kf5-libgravatar/po/pl/libgravatar.po | 
+ | [pt](/f27/language/pt) | 27 | 27 | 100.0 | /mnt/stockage/packages/f27/kf5-libgravatar/po/pt/libgravatar.po | 
+ | [pt_BR](/f27/language/pt_BR) | 27 | 27 | 100.0 | /mnt/stockage/packages/f27/kf5-libgravatar/po/pt_BR/libgravatar.po | 
+ | [ru](/f27/language/ru) | 27 | 27 | 100.0 | /mnt/stockage/packages/f27/kf5-libgravatar/po/ru/libgravatar.po | 
+ | [sk](/f27/language/sk) | 27 | 27 | 100.0 | /mnt/stockage/packages/f27/kf5-libgravatar/po/sk/libgravatar.po | 
+ | [sl](/f27/language/sl) | 27 | 27 | 100.0 | /mnt/stockage/packages/f27/kf5-libgravatar/po/sl/libgravatar.po | 
+ | [sr](/f27/language/sr) | 27 | 27 | 100.0 | /mnt/stockage/packages/f27/kf5-libgravatar/po/sr/libgravatar.po | 
+ | [sv](/f27/language/sv) | 27 | 27 | 100.0 | /mnt/stockage/packages/f27/kf5-libgravatar/po/sv/libgravatar.po | 
+ | [tr](/f27/language/tr) | 27 | 27 | 100.0 | /mnt/stockage/packages/f27/kf5-libgravatar/po/tr/libgravatar.po | 
+ | [uk](/f27/language/uk) | 27 | 27 | 100.0 | /mnt/stockage/packages/f27/kf5-libgravatar/po/uk/libgravatar.po | 
+ | [zh_Hans](/f27/language/zh_Hans) | 27 | 27 | 100.0 | /mnt/stockage/packages/f27/kf5-libgravatar/po/zh_CN/libgravatar.po | 
+ | [cs](/f27/language/cs) | 15 | 27 | 55.6 | /mnt/stockage/packages/f27/kf5-libgravatar/po/cs/libgravatar.po | 
+ | [da](/f27/language/da) | 7 | 27 | 25.9 | /mnt/stockage/packages/f27/kf5-libgravatar/po/da/libgravatar.po | 
+ | [ast](/f27/language/ast) | 1 | 27 | 3.7 | /mnt/stockage/packages/f27/kf5-libgravatar/po/ast/libgravatar.po | 
+ | [ja](/f27/language/ja) | 0 | 27 | 0.0 | /mnt/stockage/packages/f27/kf5-libgravatar/po/ja/libgravatar.po | 
+ | [zh_Hant](/f27/language/zh_Hant) | 0 | 27 | 0.0 | /mnt/stockage/packages/f27/kf5-libgravatar/po/zh_TW/libgravatar.po | 
 {.sortable}
 
 

@@ -18,95 +18,95 @@ The package zenity (version 3.28.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f28/language/ar.md" >}}) | 674 | 674 | 100.0 | /mnt/stockage/packages/f28/zenity/po/ar.po | 
- | [as]({{< ref "/f28/language/as.md" >}}) | 841 | 841 | 100.0 | /mnt/stockage/packages/f28/zenity/po/as.po | 
- | [ast]({{< ref "/f28/language/ast.md" >}}) | 612 | 612 | 100.0 | /mnt/stockage/packages/f28/zenity/po/ast.po | 
- | [be]({{< ref "/f28/language/be.md" >}}) | 891 | 891 | 100.0 | /mnt/stockage/packages/f28/zenity/po/be.po | 
- | [be_Latn]({{< ref "/f28/language/be_Latn.md" >}}) | 582 | 582 | 100.0 | /mnt/stockage/packages/f28/zenity/po/be@latin.po | 
- | [bg]({{< ref "/f28/language/bg.md" >}}) | 3060 | 3060 | 100.0 | /mnt/stockage/packages/f28/zenity/help/bg/bg.po/mnt/stockage/packages/f28/zenity/po/bg.po | 
- | [bn]({{< ref "/f28/language/bn.md" >}}) | 592 | 592 | 100.0 | /mnt/stockage/packages/f28/zenity/po/bn.po | 
- | [bn_IN]({{< ref "/f28/language/bn_IN.md" >}}) | 674 | 674 | 100.0 | /mnt/stockage/packages/f28/zenity/po/bn_IN.po | 
- | [bs]({{< ref "/f28/language/bs.md" >}}) | 877 | 877 | 100.0 | /mnt/stockage/packages/f28/zenity/po/bs.po | 
- | [ca]({{< ref "/f28/language/ca.md" >}}) | 3270 | 3270 | 100.0 | /mnt/stockage/packages/f28/zenity/help/ca/ca.po/mnt/stockage/packages/f28/zenity/po/ca.po | 
- | [ca@valencia]({{< ref "/f28/language/ca@valencia.md" >}}) | 891 | 891 | 100.0 | /mnt/stockage/packages/f28/zenity/po/ca@valencia.po | 
- | [cs]({{< ref "/f28/language/cs.md" >}}) | 3888 | 3888 | 100.0 | /mnt/stockage/packages/f28/zenity/help/cs/cs.po/mnt/stockage/packages/f28/zenity/po/cs.po | 
- | [cy]({{< ref "/f28/language/cy.md" >}}) | 427 | 427 | 100.0 | /mnt/stockage/packages/f28/zenity/po/cy.po | 
- | [da]({{< ref "/f28/language/da.md" >}}) | 3888 | 3888 | 100.0 | /mnt/stockage/packages/f28/zenity/help/da/da.po/mnt/stockage/packages/f28/zenity/po/da.po | 
- | [dz]({{< ref "/f28/language/dz.md" >}}) | 554 | 554 | 100.0 | /mnt/stockage/packages/f28/zenity/po/dz.po | 
- | [el]({{< ref "/f28/language/el.md" >}}) | 3888 | 3888 | 100.0 | /mnt/stockage/packages/f28/zenity/help/el/el.po/mnt/stockage/packages/f28/zenity/po/el.po | 
- | [en_CA]({{< ref "/f28/language/en_CA.md" >}}) | 559 | 559 | 100.0 | /mnt/stockage/packages/f28/zenity/po/en_CA.po | 
- | [en_GB]({{< ref "/f28/language/en_GB.md" >}}) | 3240 | 3240 | 100.0 | /mnt/stockage/packages/f28/zenity/help/en_GB/en_GB.po/mnt/stockage/packages/f28/zenity/po/en_GB.po | 
- | [error]({{< ref "/f28/language/error.md" >}}) | 612 | 612 | 100.0 | /mnt/stockage/packages/f28/zenity/po/en@shaw.po | 
- | [es]({{< ref "/f28/language/es.md" >}}) | 3888 | 3888 | 100.0 | /mnt/stockage/packages/f28/zenity/help/es/es.po/mnt/stockage/packages/f28/zenity/po/es.po | 
- | [et]({{< ref "/f28/language/et.md" >}}) | 783 | 783 | 100.0 | /mnt/stockage/packages/f28/zenity/po/et.po | 
- | [eu]({{< ref "/f28/language/eu.md" >}}) | 3216 | 3216 | 100.0 | /mnt/stockage/packages/f28/zenity/help/eu/eu.po/mnt/stockage/packages/f28/zenity/po/eu.po | 
- | [fa]({{< ref "/f28/language/fa.md" >}}) | 775 | 775 | 100.0 | /mnt/stockage/packages/f28/zenity/po/fa.po | 
- | [fr]({{< ref "/f28/language/fr.md" >}}) | 3888 | 3888 | 100.0 | /mnt/stockage/packages/f28/zenity/help/fr/fr.po/mnt/stockage/packages/f28/zenity/po/fr.po | 
- | [fur]({{< ref "/f28/language/fur.md" >}}) | 896 | 896 | 100.0 | /mnt/stockage/packages/f28/zenity/po/fur.po | 
- | [gu]({{< ref "/f28/language/gu.md" >}}) | 674 | 674 | 100.0 | /mnt/stockage/packages/f28/zenity/po/gu.po | 
- | [he]({{< ref "/f28/language/he.md" >}}) | 834 | 834 | 100.0 | /mnt/stockage/packages/f28/zenity/po/he.po | 
- | [hi]({{< ref "/f28/language/hi.md" >}}) | 742 | 742 | 100.0 | /mnt/stockage/packages/f28/zenity/po/hi.po | 
- | [hr]({{< ref "/f28/language/hr.md" >}}) | 896 | 896 | 100.0 | /mnt/stockage/packages/f28/zenity/po/hr.po | 
- | [hu]({{< ref "/f28/language/hu.md" >}}) | 3888 | 3888 | 100.0 | /mnt/stockage/packages/f28/zenity/help/hu/hu.po/mnt/stockage/packages/f28/zenity/po/hu.po | 
- | [id]({{< ref "/f28/language/id.md" >}}) | 896 | 896 | 100.0 | /mnt/stockage/packages/f28/zenity/po/id.po | 
- | [it]({{< ref "/f28/language/it.md" >}}) | 896 | 896 | 100.0 | /mnt/stockage/packages/f28/zenity/po/it.po | 
- | [kn]({{< ref "/f28/language/kn.md" >}}) | 582 | 582 | 100.0 | /mnt/stockage/packages/f28/zenity/po/kn.po | 
- | [ko]({{< ref "/f28/language/ko.md" >}}) | 896 | 896 | 100.0 | /mnt/stockage/packages/f28/zenity/po/ko.po | 
- | [lt]({{< ref "/f28/language/lt.md" >}}) | 896 | 896 | 100.0 | /mnt/stockage/packages/f28/zenity/po/lt.po | 
- | [lv]({{< ref "/f28/language/lv.md" >}}) | 896 | 896 | 100.0 | /mnt/stockage/packages/f28/zenity/po/lv.po | 
- | [mg]({{< ref "/f28/language/mg.md" >}}) | 541 | 541 | 100.0 | /mnt/stockage/packages/f28/zenity/po/mg.po | 
- | [mk]({{< ref "/f28/language/mk.md" >}}) | 582 | 582 | 100.0 | /mnt/stockage/packages/f28/zenity/po/mk.po | 
- | [mr]({{< ref "/f28/language/mr.md" >}}) | 582 | 582 | 100.0 | /mnt/stockage/packages/f28/zenity/po/mr.po | 
- | [nb_NO]({{< ref "/f28/language/nb_NO.md" >}}) | 891 | 891 | 100.0 | /mnt/stockage/packages/f28/zenity/po/nb.po | 
- | [ne]({{< ref "/f28/language/ne.md" >}}) | 559 | 559 | 100.0 | /mnt/stockage/packages/f28/zenity/po/ne.po | 
- | [nl]({{< ref "/f28/language/nl.md" >}}) | 896 | 896 | 100.0 | /mnt/stockage/packages/f28/zenity/po/nl.po | 
- | [nn]({{< ref "/f28/language/nn.md" >}}) | 674 | 674 | 100.0 | /mnt/stockage/packages/f28/zenity/po/nn.po | 
- | [or]({{< ref "/f28/language/or.md" >}}) | 674 | 674 | 100.0 | /mnt/stockage/packages/f28/zenity/po/or.po | 
- | [pa]({{< ref "/f28/language/pa.md" >}}) | 751 | 751 | 100.0 | /mnt/stockage/packages/f28/zenity/po/pa.po | 
- | [pl]({{< ref "/f28/language/pl.md" >}}) | 3888 | 3888 | 100.0 | /mnt/stockage/packages/f28/zenity/help/pl/pl.po/mnt/stockage/packages/f28/zenity/po/pl.po | 
- | [pt]({{< ref "/f28/language/pt.md" >}}) | 891 | 891 | 100.0 | /mnt/stockage/packages/f28/zenity/po/pt.po | 
- | [pt_BR]({{< ref "/f28/language/pt_BR.md" >}}) | 3888 | 3888 | 100.0 | /mnt/stockage/packages/f28/zenity/help/pt_BR/pt_BR.po/mnt/stockage/packages/f28/zenity/po/pt_BR.po | 
- | [ro]({{< ref "/f28/language/ro.md" >}}) | 896 | 896 | 100.0 | /mnt/stockage/packages/f28/zenity/po/ro.po | 
- | [ru]({{< ref "/f28/language/ru.md" >}}) | 3270 | 3270 | 100.0 | /mnt/stockage/packages/f28/zenity/help/ru/ru.po/mnt/stockage/packages/f28/zenity/po/ru.po | 
- | [si]({{< ref "/f28/language/si.md" >}}) | 559 | 559 | 100.0 | /mnt/stockage/packages/f28/zenity/po/si.po | 
- | [sk]({{< ref "/f28/language/sk.md" >}}) | 896 | 896 | 100.0 | /mnt/stockage/packages/f28/zenity/po/sk.po | 
- | [sq]({{< ref "/f28/language/sq.md" >}}) | 582 | 582 | 100.0 | /mnt/stockage/packages/f28/zenity/po/sq.po | 
- | [sr]({{< ref "/f28/language/sr.md" >}}) | 1792 | 1792 | 100.0 | /mnt/stockage/packages/f28/zenity/po/sr.po/mnt/stockage/packages/f28/zenity/po/sr@latin.po | 
- | [sv]({{< ref "/f28/language/sv.md" >}}) | 3888 | 3888 | 100.0 | /mnt/stockage/packages/f28/zenity/help/sv/sv.po/mnt/stockage/packages/f28/zenity/po/sv.po | 
- | [ta]({{< ref "/f28/language/ta.md" >}}) | 775 | 775 | 100.0 | /mnt/stockage/packages/f28/zenity/po/ta.po | 
- | [te]({{< ref "/f28/language/te.md" >}}) | 742 | 742 | 100.0 | /mnt/stockage/packages/f28/zenity/po/te.po | 
- | [th]({{< ref "/f28/language/th.md" >}}) | 891 | 891 | 100.0 | /mnt/stockage/packages/f28/zenity/po/th.po | 
- | [tr]({{< ref "/f28/language/tr.md" >}}) | 896 | 896 | 100.0 | /mnt/stockage/packages/f28/zenity/po/tr.po | 
- | [ug]({{< ref "/f28/language/ug.md" >}}) | 775 | 775 | 100.0 | /mnt/stockage/packages/f28/zenity/po/ug.po | 
- | [uk]({{< ref "/f28/language/uk.md" >}}) | 3130 | 3130 | 100.0 | /mnt/stockage/packages/f28/zenity/help/uk/uk.po/mnt/stockage/packages/f28/zenity/po/uk.po | 
- | [vi]({{< ref "/f28/language/vi.md" >}}) | 834 | 834 | 100.0 | /mnt/stockage/packages/f28/zenity/po/vi.po | 
- | [zh_Hant]({{< ref "/f28/language/zh_Hant.md" >}}) | 896 | 896 | 100.0 | /mnt/stockage/packages/f28/zenity/po/zh_TW.po | 
- | [zh_Hant_HK]({{< ref "/f28/language/zh_Hant_HK.md" >}}) | 841 | 841 | 100.0 | /mnt/stockage/packages/f28/zenity/po/zh_HK.po | 
- | [ja]({{< ref "/f28/language/ja.md" >}}) | 3722 | 3733 | 99.7 | /mnt/stockage/packages/f28/zenity/help/ja/ja.po/mnt/stockage/packages/f28/zenity/po/ja.po | 
- | [zh_Hans]({{< ref "/f28/language/zh_Hans.md" >}}) | 3746 | 3790 | 98.8 | /mnt/stockage/packages/f28/zenity/help/zh_CN/zh_CN.po/mnt/stockage/packages/f28/zenity/po/zh_CN.po | 
- | [de]({{< ref "/f28/language/de.md" >}}) | 3824 | 3888 | 98.4 | /mnt/stockage/packages/f28/zenity/help/de/de.po/mnt/stockage/packages/f28/zenity/po/de.po | 
- | [mai]({{< ref "/f28/language/mai.md" >}}) | 551 | 579 | 95.2 | /mnt/stockage/packages/f28/zenity/po/mai.po | 
- | [gl]({{< ref "/f28/language/gl.md" >}}) | 3546 | 3795 | 93.4 | /mnt/stockage/packages/f28/zenity/help/gl/gl.po/mnt/stockage/packages/f28/zenity/po/gl.po | 
- | [fi]({{< ref "/f28/language/fi.md" >}}) | 3054 | 3270 | 93.4 | /mnt/stockage/packages/f28/zenity/help/fi/fi.po/mnt/stockage/packages/f28/zenity/po/fi.po | 
- | [xh]({{< ref "/f28/language/xh.md" >}}) | 359 | 394 | 91.1 | /mnt/stockage/packages/f28/zenity/po/xh.po | 
- | [ml]({{< ref "/f28/language/ml.md" >}}) | 756 | 891 | 84.8 | /mnt/stockage/packages/f28/zenity/po/ml.po | 
- | [ka]({{< ref "/f28/language/ka.md" >}}) | 421 | 541 | 77.8 | /mnt/stockage/packages/f28/zenity/po/ka.po | 
- | [eo]({{< ref "/f28/language/eo.md" >}}) | 619 | 896 | 69.1 | /mnt/stockage/packages/f28/zenity/po/eo.po | 
- | [az]({{< ref "/f28/language/az.md" >}}) | 272 | 394 | 69.0 | /mnt/stockage/packages/f28/zenity/po/az.po | 
- | [ms]({{< ref "/f28/language/ms.md" >}}) | 272 | 394 | 69.0 | /mnt/stockage/packages/f28/zenity/po/ms.po | 
- | [mn]({{< ref "/f28/language/mn.md" >}}) | 256 | 394 | 65.0 | /mnt/stockage/packages/f28/zenity/po/mn.po | 
- | [ga]({{< ref "/f28/language/ga.md" >}}) | 329 | 589 | 55.9 | /mnt/stockage/packages/f28/zenity/po/ga.po | 
- | [kk]({{< ref "/f28/language/kk.md" >}}) | 335 | 891 | 37.6 | /mnt/stockage/packages/f28/zenity/po/kk.po | 
- | [ps]({{< ref "/f28/language/ps.md" >}}) | 210 | 582 | 36.1 | /mnt/stockage/packages/f28/zenity/po/ps.po | 
- | [is]({{< ref "/f28/language/is.md" >}}) | 139 | 394 | 35.3 | /mnt/stockage/packages/f28/zenity/po/is.po | 
- | [oc]({{< ref "/f28/language/oc.md" >}}) | 1125 | 3216 | 35.0 | /mnt/stockage/packages/f28/zenity/help/oc/oc.po/mnt/stockage/packages/f28/zenity/po/oc.po | 
- | [sl]({{< ref "/f28/language/sl.md" >}}) | 966 | 3275 | 29.5 | /mnt/stockage/packages/f28/zenity/help/sl/sl.po/mnt/stockage/packages/f28/zenity/po/sl.po | 
- | [am]({{< ref "/f28/language/am.md" >}}) | 70 | 394 | 17.8 | /mnt/stockage/packages/f28/zenity/po/am.po | 
- | [af]({{< ref "/f28/language/af.md" >}}) | 88 | 686 | 12.8 | /mnt/stockage/packages/f28/zenity/po/af.po | 
- | [tg]({{< ref "/f28/language/tg.md" >}}) | 76 | 775 | 9.8 | /mnt/stockage/packages/f28/zenity/po/tg.po | 
- | [ku]({{< ref "/f28/language/ku.md" >}}) | 20 | 394 | 5.1 | /mnt/stockage/packages/f28/zenity/po/ku.po | 
- | [rw]({{< ref "/f28/language/rw.md" >}}) | 13 | 394 | 3.3 | /mnt/stockage/packages/f28/zenity/po/rw.po | 
- | [mi]({{< ref "/f28/language/mi.md" >}}) | 0 | 394 | 0.0 | /mnt/stockage/packages/f28/zenity/po/mi.po | 
+ | [ar](/f28/language/ar) | 674 | 674 | 100.0 | /mnt/stockage/packages/f28/zenity/po/ar.po | 
+ | [as](/f28/language/as) | 841 | 841 | 100.0 | /mnt/stockage/packages/f28/zenity/po/as.po | 
+ | [ast](/f28/language/ast) | 612 | 612 | 100.0 | /mnt/stockage/packages/f28/zenity/po/ast.po | 
+ | [be](/f28/language/be) | 891 | 891 | 100.0 | /mnt/stockage/packages/f28/zenity/po/be.po | 
+ | [be_Latn](/f28/language/be_Latn) | 582 | 582 | 100.0 | /mnt/stockage/packages/f28/zenity/po/be@latin.po | 
+ | [bg](/f28/language/bg) | 3060 | 3060 | 100.0 | /mnt/stockage/packages/f28/zenity/help/bg/bg.po/mnt/stockage/packages/f28/zenity/po/bg.po | 
+ | [bn](/f28/language/bn) | 592 | 592 | 100.0 | /mnt/stockage/packages/f28/zenity/po/bn.po | 
+ | [bn_IN](/f28/language/bn_IN) | 674 | 674 | 100.0 | /mnt/stockage/packages/f28/zenity/po/bn_IN.po | 
+ | [bs](/f28/language/bs) | 877 | 877 | 100.0 | /mnt/stockage/packages/f28/zenity/po/bs.po | 
+ | [ca](/f28/language/ca) | 3270 | 3270 | 100.0 | /mnt/stockage/packages/f28/zenity/help/ca/ca.po/mnt/stockage/packages/f28/zenity/po/ca.po | 
+ | [ca@valencia](/f28/language/ca@valencia) | 891 | 891 | 100.0 | /mnt/stockage/packages/f28/zenity/po/ca@valencia.po | 
+ | [cs](/f28/language/cs) | 3888 | 3888 | 100.0 | /mnt/stockage/packages/f28/zenity/help/cs/cs.po/mnt/stockage/packages/f28/zenity/po/cs.po | 
+ | [cy](/f28/language/cy) | 427 | 427 | 100.0 | /mnt/stockage/packages/f28/zenity/po/cy.po | 
+ | [da](/f28/language/da) | 3888 | 3888 | 100.0 | /mnt/stockage/packages/f28/zenity/help/da/da.po/mnt/stockage/packages/f28/zenity/po/da.po | 
+ | [dz](/f28/language/dz) | 554 | 554 | 100.0 | /mnt/stockage/packages/f28/zenity/po/dz.po | 
+ | [el](/f28/language/el) | 3888 | 3888 | 100.0 | /mnt/stockage/packages/f28/zenity/help/el/el.po/mnt/stockage/packages/f28/zenity/po/el.po | 
+ | [en_CA](/f28/language/en_CA) | 559 | 559 | 100.0 | /mnt/stockage/packages/f28/zenity/po/en_CA.po | 
+ | [en_GB](/f28/language/en_GB) | 3240 | 3240 | 100.0 | /mnt/stockage/packages/f28/zenity/help/en_GB/en_GB.po/mnt/stockage/packages/f28/zenity/po/en_GB.po | 
+ | [error](/f28/language/error) | 612 | 612 | 100.0 | /mnt/stockage/packages/f28/zenity/po/en@shaw.po | 
+ | [es](/f28/language/es) | 3888 | 3888 | 100.0 | /mnt/stockage/packages/f28/zenity/help/es/es.po/mnt/stockage/packages/f28/zenity/po/es.po | 
+ | [et](/f28/language/et) | 783 | 783 | 100.0 | /mnt/stockage/packages/f28/zenity/po/et.po | 
+ | [eu](/f28/language/eu) | 3216 | 3216 | 100.0 | /mnt/stockage/packages/f28/zenity/help/eu/eu.po/mnt/stockage/packages/f28/zenity/po/eu.po | 
+ | [fa](/f28/language/fa) | 775 | 775 | 100.0 | /mnt/stockage/packages/f28/zenity/po/fa.po | 
+ | [fr](/f28/language/fr) | 3888 | 3888 | 100.0 | /mnt/stockage/packages/f28/zenity/help/fr/fr.po/mnt/stockage/packages/f28/zenity/po/fr.po | 
+ | [fur](/f28/language/fur) | 896 | 896 | 100.0 | /mnt/stockage/packages/f28/zenity/po/fur.po | 
+ | [gu](/f28/language/gu) | 674 | 674 | 100.0 | /mnt/stockage/packages/f28/zenity/po/gu.po | 
+ | [he](/f28/language/he) | 834 | 834 | 100.0 | /mnt/stockage/packages/f28/zenity/po/he.po | 
+ | [hi](/f28/language/hi) | 742 | 742 | 100.0 | /mnt/stockage/packages/f28/zenity/po/hi.po | 
+ | [hr](/f28/language/hr) | 896 | 896 | 100.0 | /mnt/stockage/packages/f28/zenity/po/hr.po | 
+ | [hu](/f28/language/hu) | 3888 | 3888 | 100.0 | /mnt/stockage/packages/f28/zenity/help/hu/hu.po/mnt/stockage/packages/f28/zenity/po/hu.po | 
+ | [id](/f28/language/id) | 896 | 896 | 100.0 | /mnt/stockage/packages/f28/zenity/po/id.po | 
+ | [it](/f28/language/it) | 896 | 896 | 100.0 | /mnt/stockage/packages/f28/zenity/po/it.po | 
+ | [kn](/f28/language/kn) | 582 | 582 | 100.0 | /mnt/stockage/packages/f28/zenity/po/kn.po | 
+ | [ko](/f28/language/ko) | 896 | 896 | 100.0 | /mnt/stockage/packages/f28/zenity/po/ko.po | 
+ | [lt](/f28/language/lt) | 896 | 896 | 100.0 | /mnt/stockage/packages/f28/zenity/po/lt.po | 
+ | [lv](/f28/language/lv) | 896 | 896 | 100.0 | /mnt/stockage/packages/f28/zenity/po/lv.po | 
+ | [mg](/f28/language/mg) | 541 | 541 | 100.0 | /mnt/stockage/packages/f28/zenity/po/mg.po | 
+ | [mk](/f28/language/mk) | 582 | 582 | 100.0 | /mnt/stockage/packages/f28/zenity/po/mk.po | 
+ | [mr](/f28/language/mr) | 582 | 582 | 100.0 | /mnt/stockage/packages/f28/zenity/po/mr.po | 
+ | [nb_NO](/f28/language/nb_NO) | 891 | 891 | 100.0 | /mnt/stockage/packages/f28/zenity/po/nb.po | 
+ | [ne](/f28/language/ne) | 559 | 559 | 100.0 | /mnt/stockage/packages/f28/zenity/po/ne.po | 
+ | [nl](/f28/language/nl) | 896 | 896 | 100.0 | /mnt/stockage/packages/f28/zenity/po/nl.po | 
+ | [nn](/f28/language/nn) | 674 | 674 | 100.0 | /mnt/stockage/packages/f28/zenity/po/nn.po | 
+ | [or](/f28/language/or) | 674 | 674 | 100.0 | /mnt/stockage/packages/f28/zenity/po/or.po | 
+ | [pa](/f28/language/pa) | 751 | 751 | 100.0 | /mnt/stockage/packages/f28/zenity/po/pa.po | 
+ | [pl](/f28/language/pl) | 3888 | 3888 | 100.0 | /mnt/stockage/packages/f28/zenity/help/pl/pl.po/mnt/stockage/packages/f28/zenity/po/pl.po | 
+ | [pt](/f28/language/pt) | 891 | 891 | 100.0 | /mnt/stockage/packages/f28/zenity/po/pt.po | 
+ | [pt_BR](/f28/language/pt_BR) | 3888 | 3888 | 100.0 | /mnt/stockage/packages/f28/zenity/help/pt_BR/pt_BR.po/mnt/stockage/packages/f28/zenity/po/pt_BR.po | 
+ | [ro](/f28/language/ro) | 896 | 896 | 100.0 | /mnt/stockage/packages/f28/zenity/po/ro.po | 
+ | [ru](/f28/language/ru) | 3270 | 3270 | 100.0 | /mnt/stockage/packages/f28/zenity/help/ru/ru.po/mnt/stockage/packages/f28/zenity/po/ru.po | 
+ | [si](/f28/language/si) | 559 | 559 | 100.0 | /mnt/stockage/packages/f28/zenity/po/si.po | 
+ | [sk](/f28/language/sk) | 896 | 896 | 100.0 | /mnt/stockage/packages/f28/zenity/po/sk.po | 
+ | [sq](/f28/language/sq) | 582 | 582 | 100.0 | /mnt/stockage/packages/f28/zenity/po/sq.po | 
+ | [sr](/f28/language/sr) | 1792 | 1792 | 100.0 | /mnt/stockage/packages/f28/zenity/po/sr.po/mnt/stockage/packages/f28/zenity/po/sr@latin.po | 
+ | [sv](/f28/language/sv) | 3888 | 3888 | 100.0 | /mnt/stockage/packages/f28/zenity/help/sv/sv.po/mnt/stockage/packages/f28/zenity/po/sv.po | 
+ | [ta](/f28/language/ta) | 775 | 775 | 100.0 | /mnt/stockage/packages/f28/zenity/po/ta.po | 
+ | [te](/f28/language/te) | 742 | 742 | 100.0 | /mnt/stockage/packages/f28/zenity/po/te.po | 
+ | [th](/f28/language/th) | 891 | 891 | 100.0 | /mnt/stockage/packages/f28/zenity/po/th.po | 
+ | [tr](/f28/language/tr) | 896 | 896 | 100.0 | /mnt/stockage/packages/f28/zenity/po/tr.po | 
+ | [ug](/f28/language/ug) | 775 | 775 | 100.0 | /mnt/stockage/packages/f28/zenity/po/ug.po | 
+ | [uk](/f28/language/uk) | 3130 | 3130 | 100.0 | /mnt/stockage/packages/f28/zenity/help/uk/uk.po/mnt/stockage/packages/f28/zenity/po/uk.po | 
+ | [vi](/f28/language/vi) | 834 | 834 | 100.0 | /mnt/stockage/packages/f28/zenity/po/vi.po | 
+ | [zh_Hant](/f28/language/zh_Hant) | 896 | 896 | 100.0 | /mnt/stockage/packages/f28/zenity/po/zh_TW.po | 
+ | [zh_Hant_HK](/f28/language/zh_Hant_HK) | 841 | 841 | 100.0 | /mnt/stockage/packages/f28/zenity/po/zh_HK.po | 
+ | [ja](/f28/language/ja) | 3722 | 3733 | 99.7 | /mnt/stockage/packages/f28/zenity/help/ja/ja.po/mnt/stockage/packages/f28/zenity/po/ja.po | 
+ | [zh_Hans](/f28/language/zh_Hans) | 3746 | 3790 | 98.8 | /mnt/stockage/packages/f28/zenity/help/zh_CN/zh_CN.po/mnt/stockage/packages/f28/zenity/po/zh_CN.po | 
+ | [de](/f28/language/de) | 3824 | 3888 | 98.4 | /mnt/stockage/packages/f28/zenity/help/de/de.po/mnt/stockage/packages/f28/zenity/po/de.po | 
+ | [mai](/f28/language/mai) | 551 | 579 | 95.2 | /mnt/stockage/packages/f28/zenity/po/mai.po | 
+ | [gl](/f28/language/gl) | 3546 | 3795 | 93.4 | /mnt/stockage/packages/f28/zenity/help/gl/gl.po/mnt/stockage/packages/f28/zenity/po/gl.po | 
+ | [fi](/f28/language/fi) | 3054 | 3270 | 93.4 | /mnt/stockage/packages/f28/zenity/help/fi/fi.po/mnt/stockage/packages/f28/zenity/po/fi.po | 
+ | [xh](/f28/language/xh) | 359 | 394 | 91.1 | /mnt/stockage/packages/f28/zenity/po/xh.po | 
+ | [ml](/f28/language/ml) | 756 | 891 | 84.8 | /mnt/stockage/packages/f28/zenity/po/ml.po | 
+ | [ka](/f28/language/ka) | 421 | 541 | 77.8 | /mnt/stockage/packages/f28/zenity/po/ka.po | 
+ | [eo](/f28/language/eo) | 619 | 896 | 69.1 | /mnt/stockage/packages/f28/zenity/po/eo.po | 
+ | [az](/f28/language/az) | 272 | 394 | 69.0 | /mnt/stockage/packages/f28/zenity/po/az.po | 
+ | [ms](/f28/language/ms) | 272 | 394 | 69.0 | /mnt/stockage/packages/f28/zenity/po/ms.po | 
+ | [mn](/f28/language/mn) | 256 | 394 | 65.0 | /mnt/stockage/packages/f28/zenity/po/mn.po | 
+ | [ga](/f28/language/ga) | 329 | 589 | 55.9 | /mnt/stockage/packages/f28/zenity/po/ga.po | 
+ | [kk](/f28/language/kk) | 335 | 891 | 37.6 | /mnt/stockage/packages/f28/zenity/po/kk.po | 
+ | [ps](/f28/language/ps) | 210 | 582 | 36.1 | /mnt/stockage/packages/f28/zenity/po/ps.po | 
+ | [is](/f28/language/is) | 139 | 394 | 35.3 | /mnt/stockage/packages/f28/zenity/po/is.po | 
+ | [oc](/f28/language/oc) | 1125 | 3216 | 35.0 | /mnt/stockage/packages/f28/zenity/help/oc/oc.po/mnt/stockage/packages/f28/zenity/po/oc.po | 
+ | [sl](/f28/language/sl) | 966 | 3275 | 29.5 | /mnt/stockage/packages/f28/zenity/help/sl/sl.po/mnt/stockage/packages/f28/zenity/po/sl.po | 
+ | [am](/f28/language/am) | 70 | 394 | 17.8 | /mnt/stockage/packages/f28/zenity/po/am.po | 
+ | [af](/f28/language/af) | 88 | 686 | 12.8 | /mnt/stockage/packages/f28/zenity/po/af.po | 
+ | [tg](/f28/language/tg) | 76 | 775 | 9.8 | /mnt/stockage/packages/f28/zenity/po/tg.po | 
+ | [ku](/f28/language/ku) | 20 | 394 | 5.1 | /mnt/stockage/packages/f28/zenity/po/ku.po | 
+ | [rw](/f28/language/rw) | 13 | 394 | 3.3 | /mnt/stockage/packages/f28/zenity/po/rw.po | 
+ | [mi](/f28/language/mi) | 0 | 394 | 0.0 | /mnt/stockage/packages/f28/zenity/po/mi.po | 
 {.sortable}
 
 

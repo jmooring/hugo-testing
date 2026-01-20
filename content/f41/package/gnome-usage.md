@@ -18,45 +18,45 @@ The package gnome-usage (version 46.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [be]({{< ref "/f41/language/be.md" >}}) | 419 | 419 | 100.0 | /mnt/stockage/packages/f41/gnome-usage/po/be.po | 
- | [ca]({{< ref "/f41/language/ca.md" >}}) | 170 | 170 | 100.0 | /mnt/stockage/packages/f41/gnome-usage/po/ca.po | 
- | [da]({{< ref "/f41/language/da.md" >}}) | 419 | 419 | 100.0 | /mnt/stockage/packages/f41/gnome-usage/po/da.po | 
- | [de]({{< ref "/f41/language/de.md" >}}) | 419 | 419 | 100.0 | /mnt/stockage/packages/f41/gnome-usage/po/de.po | 
- | [en_GB]({{< ref "/f41/language/en_GB.md" >}}) | 380 | 380 | 100.0 | /mnt/stockage/packages/f41/gnome-usage/po/en_GB.po | 
- | [eu]({{< ref "/f41/language/eu.md" >}}) | 419 | 419 | 100.0 | /mnt/stockage/packages/f41/gnome-usage/po/eu.po | 
- | [fa]({{< ref "/f41/language/fa.md" >}}) | 419 | 419 | 100.0 | /mnt/stockage/packages/f41/gnome-usage/po/fa.po | 
- | [fr]({{< ref "/f41/language/fr.md" >}}) | 165 | 165 | 100.0 | /mnt/stockage/packages/f41/gnome-usage/po/fr.po | 
- | [fur]({{< ref "/f41/language/fur.md" >}}) | 170 | 170 | 100.0 | /mnt/stockage/packages/f41/gnome-usage/po/fur.po | 
- | [gl]({{< ref "/f41/language/gl.md" >}}) | 380 | 380 | 100.0 | /mnt/stockage/packages/f41/gnome-usage/po/gl.po | 
- | [hi]({{< ref "/f41/language/hi.md" >}}) | 419 | 419 | 100.0 | /mnt/stockage/packages/f41/gnome-usage/po/hi.po | 
- | [hr]({{< ref "/f41/language/hr.md" >}}) | 170 | 170 | 100.0 | /mnt/stockage/packages/f41/gnome-usage/po/hr.po | 
- | [hu]({{< ref "/f41/language/hu.md" >}}) | 419 | 419 | 100.0 | /mnt/stockage/packages/f41/gnome-usage/po/hu.po | 
- | [id]({{< ref "/f41/language/id.md" >}}) | 419 | 419 | 100.0 | /mnt/stockage/packages/f41/gnome-usage/po/id.po | 
- | [it]({{< ref "/f41/language/it.md" >}}) | 165 | 165 | 100.0 | /mnt/stockage/packages/f41/gnome-usage/po/it.po | 
- | [ja]({{< ref "/f41/language/ja.md" >}}) | 170 | 170 | 100.0 | /mnt/stockage/packages/f41/gnome-usage/po/ja.po | 
- | [ko]({{< ref "/f41/language/ko.md" >}}) | 165 | 165 | 100.0 | /mnt/stockage/packages/f41/gnome-usage/po/ko.po | 
- | [nl]({{< ref "/f41/language/nl.md" >}}) | 170 | 170 | 100.0 | /mnt/stockage/packages/f41/gnome-usage/po/nl.po | 
- | [pl]({{< ref "/f41/language/pl.md" >}}) | 419 | 419 | 100.0 | /mnt/stockage/packages/f41/gnome-usage/po/pl.po | 
- | [pt]({{< ref "/f41/language/pt.md" >}}) | 380 | 380 | 100.0 | /mnt/stockage/packages/f41/gnome-usage/po/pt.po | 
- | [pt_BR]({{< ref "/f41/language/pt_BR.md" >}}) | 419 | 419 | 100.0 | /mnt/stockage/packages/f41/gnome-usage/po/pt_BR.po | 
- | [ro]({{< ref "/f41/language/ro.md" >}}) | 380 | 380 | 100.0 | /mnt/stockage/packages/f41/gnome-usage/po/ro.po | 
- | [ru]({{< ref "/f41/language/ru.md" >}}) | 419 | 419 | 100.0 | /mnt/stockage/packages/f41/gnome-usage/po/ru.po | 
- | [sk]({{< ref "/f41/language/sk.md" >}}) | 165 | 165 | 100.0 | /mnt/stockage/packages/f41/gnome-usage/po/sk.po | 
- | [sl]({{< ref "/f41/language/sl.md" >}}) | 419 | 419 | 100.0 | /mnt/stockage/packages/f41/gnome-usage/po/sl.po | 
- | [sr]({{< ref "/f41/language/sr.md" >}}) | 408 | 408 | 100.0 | /mnt/stockage/packages/f41/gnome-usage/po/sr@latin.po/mnt/stockage/packages/f41/gnome-usage/po/sr.po | 
- | [sv]({{< ref "/f41/language/sv.md" >}}) | 419 | 419 | 100.0 | /mnt/stockage/packages/f41/gnome-usage/po/sv.po | 
- | [tr]({{< ref "/f41/language/tr.md" >}}) | 419 | 419 | 100.0 | /mnt/stockage/packages/f41/gnome-usage/po/tr.po | 
- | [uk]({{< ref "/f41/language/uk.md" >}}) | 419 | 419 | 100.0 | /mnt/stockage/packages/f41/gnome-usage/po/uk.po | 
- | [zh_Hans]({{< ref "/f41/language/zh_Hans.md" >}}) | 419 | 419 | 100.0 | /mnt/stockage/packages/f41/gnome-usage/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f41/language/zh_Hant.md" >}}) | 400 | 400 | 100.0 | /mnt/stockage/packages/f41/gnome-usage/po/zh_TW.po | 
- | [oc]({{< ref "/f41/language/oc.md" >}}) | 259 | 260 | 99.6 | /mnt/stockage/packages/f41/gnome-usage/po/oc.po | 
- | [he]({{< ref "/f41/language/he.md" >}}) | 410 | 419 | 97.9 | /mnt/stockage/packages/f41/gnome-usage/po/he.po | 
- | [el]({{< ref "/f41/language/el.md" >}}) | 134 | 254 | 52.8 | /mnt/stockage/packages/f41/gnome-usage/po/el.po | 
- | [cs]({{< ref "/f41/language/cs.md" >}}) | 211 | 419 | 50.4 | /mnt/stockage/packages/f41/gnome-usage/po/cs.po | 
- | [fi]({{< ref "/f41/language/fi.md" >}}) | 207 | 419 | 49.4 | /mnt/stockage/packages/f41/gnome-usage/po/fi.po | 
- | [ka]({{< ref "/f41/language/ka.md" >}}) | 193 | 419 | 46.1 | /mnt/stockage/packages/f41/gnome-usage/po/ka.po | 
- | [es]({{< ref "/f41/language/es.md" >}}) | 162 | 419 | 38.7 | /mnt/stockage/packages/f41/gnome-usage/po/es.po | 
- | [nb_NO]({{< ref "/f41/language/nb_NO.md" >}}) | 66 | 205 | 32.2 | /mnt/stockage/packages/f41/gnome-usage/po/nb.po | 
+ | [be](/f41/language/be) | 419 | 419 | 100.0 | /mnt/stockage/packages/f41/gnome-usage/po/be.po | 
+ | [ca](/f41/language/ca) | 170 | 170 | 100.0 | /mnt/stockage/packages/f41/gnome-usage/po/ca.po | 
+ | [da](/f41/language/da) | 419 | 419 | 100.0 | /mnt/stockage/packages/f41/gnome-usage/po/da.po | 
+ | [de](/f41/language/de) | 419 | 419 | 100.0 | /mnt/stockage/packages/f41/gnome-usage/po/de.po | 
+ | [en_GB](/f41/language/en_GB) | 380 | 380 | 100.0 | /mnt/stockage/packages/f41/gnome-usage/po/en_GB.po | 
+ | [eu](/f41/language/eu) | 419 | 419 | 100.0 | /mnt/stockage/packages/f41/gnome-usage/po/eu.po | 
+ | [fa](/f41/language/fa) | 419 | 419 | 100.0 | /mnt/stockage/packages/f41/gnome-usage/po/fa.po | 
+ | [fr](/f41/language/fr) | 165 | 165 | 100.0 | /mnt/stockage/packages/f41/gnome-usage/po/fr.po | 
+ | [fur](/f41/language/fur) | 170 | 170 | 100.0 | /mnt/stockage/packages/f41/gnome-usage/po/fur.po | 
+ | [gl](/f41/language/gl) | 380 | 380 | 100.0 | /mnt/stockage/packages/f41/gnome-usage/po/gl.po | 
+ | [hi](/f41/language/hi) | 419 | 419 | 100.0 | /mnt/stockage/packages/f41/gnome-usage/po/hi.po | 
+ | [hr](/f41/language/hr) | 170 | 170 | 100.0 | /mnt/stockage/packages/f41/gnome-usage/po/hr.po | 
+ | [hu](/f41/language/hu) | 419 | 419 | 100.0 | /mnt/stockage/packages/f41/gnome-usage/po/hu.po | 
+ | [id](/f41/language/id) | 419 | 419 | 100.0 | /mnt/stockage/packages/f41/gnome-usage/po/id.po | 
+ | [it](/f41/language/it) | 165 | 165 | 100.0 | /mnt/stockage/packages/f41/gnome-usage/po/it.po | 
+ | [ja](/f41/language/ja) | 170 | 170 | 100.0 | /mnt/stockage/packages/f41/gnome-usage/po/ja.po | 
+ | [ko](/f41/language/ko) | 165 | 165 | 100.0 | /mnt/stockage/packages/f41/gnome-usage/po/ko.po | 
+ | [nl](/f41/language/nl) | 170 | 170 | 100.0 | /mnt/stockage/packages/f41/gnome-usage/po/nl.po | 
+ | [pl](/f41/language/pl) | 419 | 419 | 100.0 | /mnt/stockage/packages/f41/gnome-usage/po/pl.po | 
+ | [pt](/f41/language/pt) | 380 | 380 | 100.0 | /mnt/stockage/packages/f41/gnome-usage/po/pt.po | 
+ | [pt_BR](/f41/language/pt_BR) | 419 | 419 | 100.0 | /mnt/stockage/packages/f41/gnome-usage/po/pt_BR.po | 
+ | [ro](/f41/language/ro) | 380 | 380 | 100.0 | /mnt/stockage/packages/f41/gnome-usage/po/ro.po | 
+ | [ru](/f41/language/ru) | 419 | 419 | 100.0 | /mnt/stockage/packages/f41/gnome-usage/po/ru.po | 
+ | [sk](/f41/language/sk) | 165 | 165 | 100.0 | /mnt/stockage/packages/f41/gnome-usage/po/sk.po | 
+ | [sl](/f41/language/sl) | 419 | 419 | 100.0 | /mnt/stockage/packages/f41/gnome-usage/po/sl.po | 
+ | [sr](/f41/language/sr) | 408 | 408 | 100.0 | /mnt/stockage/packages/f41/gnome-usage/po/sr@latin.po/mnt/stockage/packages/f41/gnome-usage/po/sr.po | 
+ | [sv](/f41/language/sv) | 419 | 419 | 100.0 | /mnt/stockage/packages/f41/gnome-usage/po/sv.po | 
+ | [tr](/f41/language/tr) | 419 | 419 | 100.0 | /mnt/stockage/packages/f41/gnome-usage/po/tr.po | 
+ | [uk](/f41/language/uk) | 419 | 419 | 100.0 | /mnt/stockage/packages/f41/gnome-usage/po/uk.po | 
+ | [zh_Hans](/f41/language/zh_Hans) | 419 | 419 | 100.0 | /mnt/stockage/packages/f41/gnome-usage/po/zh_CN.po | 
+ | [zh_Hant](/f41/language/zh_Hant) | 400 | 400 | 100.0 | /mnt/stockage/packages/f41/gnome-usage/po/zh_TW.po | 
+ | [oc](/f41/language/oc) | 259 | 260 | 99.6 | /mnt/stockage/packages/f41/gnome-usage/po/oc.po | 
+ | [he](/f41/language/he) | 410 | 419 | 97.9 | /mnt/stockage/packages/f41/gnome-usage/po/he.po | 
+ | [el](/f41/language/el) | 134 | 254 | 52.8 | /mnt/stockage/packages/f41/gnome-usage/po/el.po | 
+ | [cs](/f41/language/cs) | 211 | 419 | 50.4 | /mnt/stockage/packages/f41/gnome-usage/po/cs.po | 
+ | [fi](/f41/language/fi) | 207 | 419 | 49.4 | /mnt/stockage/packages/f41/gnome-usage/po/fi.po | 
+ | [ka](/f41/language/ka) | 193 | 419 | 46.1 | /mnt/stockage/packages/f41/gnome-usage/po/ka.po | 
+ | [es](/f41/language/es) | 162 | 419 | 38.7 | /mnt/stockage/packages/f41/gnome-usage/po/es.po | 
+ | [nb_NO](/f41/language/nb_NO) | 66 | 205 | 32.2 | /mnt/stockage/packages/f41/gnome-usage/po/nb.po | 
 {.sortable}
 
 

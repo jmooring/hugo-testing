@@ -18,50 +18,50 @@ The package nemiver (version 0.9.6):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [as]({{< ref "/f37/language/as.md" >}}) | 1341 | 1341 | 100.0 | /mnt/stockage/packages/f37/nemiver/po/as.po | 
- | [bs]({{< ref "/f37/language/bs.md" >}}) | 1341 | 1341 | 100.0 | /mnt/stockage/packages/f37/nemiver/po/bs.po | 
- | [ca]({{< ref "/f37/language/ca.md" >}}) | 1341 | 1341 | 100.0 | /mnt/stockage/packages/f37/nemiver/po/ca.po | 
- | [ca@valencia]({{< ref "/f37/language/ca@valencia.md" >}}) | 1280 | 1280 | 100.0 | /mnt/stockage/packages/f37/nemiver/po/ca@valencia.po | 
- | [cs]({{< ref "/f37/language/cs.md" >}}) | 4205 | 4205 | 100.0 | /mnt/stockage/packages/f37/nemiver/help/cs/cs.po/mnt/stockage/packages/f37/nemiver/po/cs.po | 
- | [da]({{< ref "/f37/language/da.md" >}}) | 1341 | 1341 | 100.0 | /mnt/stockage/packages/f37/nemiver/po/da.po | 
- | [de]({{< ref "/f37/language/de.md" >}}) | 4205 | 4205 | 100.0 | /mnt/stockage/packages/f37/nemiver/help/de/de.po/mnt/stockage/packages/f37/nemiver/po/de.po | 
- | [dz]({{< ref "/f37/language/dz.md" >}}) | 675 | 675 | 100.0 | /mnt/stockage/packages/f37/nemiver/po/dz.po | 
- | [el]({{< ref "/f37/language/el.md" >}}) | 4205 | 4205 | 100.0 | /mnt/stockage/packages/f37/nemiver/help/el/el.po/mnt/stockage/packages/f37/nemiver/po/el.po | 
- | [en_GB]({{< ref "/f37/language/en_GB.md" >}}) | 1265 | 1265 | 100.0 | /mnt/stockage/packages/f37/nemiver/po/en_GB.po | 
- | [es]({{< ref "/f37/language/es.md" >}}) | 4205 | 4205 | 100.0 | /mnt/stockage/packages/f37/nemiver/help/es/es.po/mnt/stockage/packages/f37/nemiver/po/es.po | 
- | [eu]({{< ref "/f37/language/eu.md" >}}) | 1341 | 1341 | 100.0 | /mnt/stockage/packages/f37/nemiver/po/eu.po | 
- | [fr]({{< ref "/f37/language/fr.md" >}}) | 4205 | 4205 | 100.0 | /mnt/stockage/packages/f37/nemiver/help/fr/fr.po/mnt/stockage/packages/f37/nemiver/po/fr.po | 
- | [gl]({{< ref "/f37/language/gl.md" >}}) | 4199 | 4199 | 100.0 | /mnt/stockage/packages/f37/nemiver/help/gl/gl.po/mnt/stockage/packages/f37/nemiver/po/gl.po | 
- | [hu]({{< ref "/f37/language/hu.md" >}}) | 1341 | 1341 | 100.0 | /mnt/stockage/packages/f37/nemiver/po/hu.po | 
- | [id]({{< ref "/f37/language/id.md" >}}) | 1341 | 1341 | 100.0 | /mnt/stockage/packages/f37/nemiver/po/id.po | 
- | [it]({{< ref "/f37/language/it.md" >}}) | 1341 | 1341 | 100.0 | /mnt/stockage/packages/f37/nemiver/po/it.po | 
- | [ko]({{< ref "/f37/language/ko.md" >}}) | 1341 | 1341 | 100.0 | /mnt/stockage/packages/f37/nemiver/po/ko.po | 
- | [lt]({{< ref "/f37/language/lt.md" >}}) | 1341 | 1341 | 100.0 | /mnt/stockage/packages/f37/nemiver/po/lt.po | 
- | [lv]({{< ref "/f37/language/lv.md" >}}) | 1341 | 1341 | 100.0 | /mnt/stockage/packages/f37/nemiver/po/lv.po | 
- | [pl]({{< ref "/f37/language/pl.md" >}}) | 1341 | 1341 | 100.0 | /mnt/stockage/packages/f37/nemiver/po/pl.po | 
- | [pt]({{< ref "/f37/language/pt.md" >}}) | 1341 | 1341 | 100.0 | /mnt/stockage/packages/f37/nemiver/po/pt.po | 
- | [ru]({{< ref "/f37/language/ru.md" >}}) | 1341 | 1341 | 100.0 | /mnt/stockage/packages/f37/nemiver/po/ru.po | 
- | [sk]({{< ref "/f37/language/sk.md" >}}) | 1341 | 1341 | 100.0 | /mnt/stockage/packages/f37/nemiver/po/sk.po | 
- | [sr]({{< ref "/f37/language/sr.md" >}}) | 2682 | 2682 | 100.0 | /mnt/stockage/packages/f37/nemiver/po/sr.po/mnt/stockage/packages/f37/nemiver/po/sr@latin.po | 
- | [tr]({{< ref "/f37/language/tr.md" >}}) | 1341 | 1341 | 100.0 | /mnt/stockage/packages/f37/nemiver/po/tr.po | 
- | [ug]({{< ref "/f37/language/ug.md" >}}) | 1272 | 1272 | 100.0 | /mnt/stockage/packages/f37/nemiver/po/ug.po | 
- | [zh_Hans]({{< ref "/f37/language/zh_Hans.md" >}}) | 4199 | 4199 | 100.0 | /mnt/stockage/packages/f37/nemiver/help/zh_CN/zh_CN.po/mnt/stockage/packages/f37/nemiver/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f37/language/zh_Hant.md" >}}) | 2682 | 2682 | 100.0 | /mnt/stockage/packages/f37/nemiver/po/zh_HK.po/mnt/stockage/packages/f37/nemiver/po/zh_TW.po | 
- | [ro]({{< ref "/f37/language/ro.md" >}}) | 1101 | 1102 | 99.9 | /mnt/stockage/packages/f37/nemiver/po/ro.po | 
- | [ja]({{< ref "/f37/language/ja.md" >}}) | 1265 | 1272 | 99.4 | /mnt/stockage/packages/f37/nemiver/po/ja.po | 
- | [nl]({{< ref "/f37/language/nl.md" >}}) | 409 | 420 | 97.4 | /mnt/stockage/packages/f37/nemiver/po/nl.po | 
- | [pt_BR]({{< ref "/f37/language/pt_BR.md" >}}) | 2826 | 4205 | 67.2 | /mnt/stockage/packages/f37/nemiver/help/pt_BR/pt_BR.po/mnt/stockage/packages/f37/nemiver/po/pt_BR.po | 
- | [th]({{< ref "/f37/language/th.md" >}}) | 830 | 1341 | 61.9 | /mnt/stockage/packages/f37/nemiver/po/th.po | 
- | [fi]({{< ref "/f37/language/fi.md" >}}) | 797 | 1341 | 59.4 | /mnt/stockage/packages/f37/nemiver/po/fi.po | 
- | [nb_NO]({{< ref "/f37/language/nb_NO.md" >}}) | 736 | 1341 | 54.9 | /mnt/stockage/packages/f37/nemiver/po/nb.po | 
- | [sv]({{< ref "/f37/language/sv.md" >}}) | 1426 | 4205 | 33.9 | /mnt/stockage/packages/f37/nemiver/help/sv/sv.po/mnt/stockage/packages/f37/nemiver/po/sv.po | 
- | [sl]({{< ref "/f37/language/sl.md" >}}) | 1408 | 4199 | 33.5 | /mnt/stockage/packages/f37/nemiver/help/sl/sl.po/mnt/stockage/packages/f37/nemiver/po/sl.po | 
- | [eo]({{< ref "/f37/language/eo.md" >}}) | 282 | 1341 | 21.0 | /mnt/stockage/packages/f37/nemiver/po/eo.po | 
- | [ml]({{< ref "/f37/language/ml.md" >}}) | 195 | 1266 | 15.4 | /mnt/stockage/packages/f37/nemiver/po/ml.po | 
- | [ar]({{< ref "/f37/language/ar.md" >}}) | 112 | 902 | 12.4 | /mnt/stockage/packages/f37/nemiver/po/ar.po | 
- | [hi]({{< ref "/f37/language/hi.md" >}}) | 144 | 1265 | 11.4 | /mnt/stockage/packages/f37/nemiver/po/hi.po | 
- | [oc]({{< ref "/f37/language/oc.md" >}}) | 236 | 2754 | 8.6 | /mnt/stockage/packages/f37/nemiver/help/oc/oc.po/mnt/stockage/packages/f37/nemiver/po/oc.po | 
- | [tg]({{< ref "/f37/language/tg.md" >}}) | 87 | 1272 | 6.8 | /mnt/stockage/packages/f37/nemiver/po/tg.po | 
+ | [as](/f37/language/as) | 1341 | 1341 | 100.0 | /mnt/stockage/packages/f37/nemiver/po/as.po | 
+ | [bs](/f37/language/bs) | 1341 | 1341 | 100.0 | /mnt/stockage/packages/f37/nemiver/po/bs.po | 
+ | [ca](/f37/language/ca) | 1341 | 1341 | 100.0 | /mnt/stockage/packages/f37/nemiver/po/ca.po | 
+ | [ca@valencia](/f37/language/ca@valencia) | 1280 | 1280 | 100.0 | /mnt/stockage/packages/f37/nemiver/po/ca@valencia.po | 
+ | [cs](/f37/language/cs) | 4205 | 4205 | 100.0 | /mnt/stockage/packages/f37/nemiver/help/cs/cs.po/mnt/stockage/packages/f37/nemiver/po/cs.po | 
+ | [da](/f37/language/da) | 1341 | 1341 | 100.0 | /mnt/stockage/packages/f37/nemiver/po/da.po | 
+ | [de](/f37/language/de) | 4205 | 4205 | 100.0 | /mnt/stockage/packages/f37/nemiver/help/de/de.po/mnt/stockage/packages/f37/nemiver/po/de.po | 
+ | [dz](/f37/language/dz) | 675 | 675 | 100.0 | /mnt/stockage/packages/f37/nemiver/po/dz.po | 
+ | [el](/f37/language/el) | 4205 | 4205 | 100.0 | /mnt/stockage/packages/f37/nemiver/help/el/el.po/mnt/stockage/packages/f37/nemiver/po/el.po | 
+ | [en_GB](/f37/language/en_GB) | 1265 | 1265 | 100.0 | /mnt/stockage/packages/f37/nemiver/po/en_GB.po | 
+ | [es](/f37/language/es) | 4205 | 4205 | 100.0 | /mnt/stockage/packages/f37/nemiver/help/es/es.po/mnt/stockage/packages/f37/nemiver/po/es.po | 
+ | [eu](/f37/language/eu) | 1341 | 1341 | 100.0 | /mnt/stockage/packages/f37/nemiver/po/eu.po | 
+ | [fr](/f37/language/fr) | 4205 | 4205 | 100.0 | /mnt/stockage/packages/f37/nemiver/help/fr/fr.po/mnt/stockage/packages/f37/nemiver/po/fr.po | 
+ | [gl](/f37/language/gl) | 4199 | 4199 | 100.0 | /mnt/stockage/packages/f37/nemiver/help/gl/gl.po/mnt/stockage/packages/f37/nemiver/po/gl.po | 
+ | [hu](/f37/language/hu) | 1341 | 1341 | 100.0 | /mnt/stockage/packages/f37/nemiver/po/hu.po | 
+ | [id](/f37/language/id) | 1341 | 1341 | 100.0 | /mnt/stockage/packages/f37/nemiver/po/id.po | 
+ | [it](/f37/language/it) | 1341 | 1341 | 100.0 | /mnt/stockage/packages/f37/nemiver/po/it.po | 
+ | [ko](/f37/language/ko) | 1341 | 1341 | 100.0 | /mnt/stockage/packages/f37/nemiver/po/ko.po | 
+ | [lt](/f37/language/lt) | 1341 | 1341 | 100.0 | /mnt/stockage/packages/f37/nemiver/po/lt.po | 
+ | [lv](/f37/language/lv) | 1341 | 1341 | 100.0 | /mnt/stockage/packages/f37/nemiver/po/lv.po | 
+ | [pl](/f37/language/pl) | 1341 | 1341 | 100.0 | /mnt/stockage/packages/f37/nemiver/po/pl.po | 
+ | [pt](/f37/language/pt) | 1341 | 1341 | 100.0 | /mnt/stockage/packages/f37/nemiver/po/pt.po | 
+ | [ru](/f37/language/ru) | 1341 | 1341 | 100.0 | /mnt/stockage/packages/f37/nemiver/po/ru.po | 
+ | [sk](/f37/language/sk) | 1341 | 1341 | 100.0 | /mnt/stockage/packages/f37/nemiver/po/sk.po | 
+ | [sr](/f37/language/sr) | 2682 | 2682 | 100.0 | /mnt/stockage/packages/f37/nemiver/po/sr.po/mnt/stockage/packages/f37/nemiver/po/sr@latin.po | 
+ | [tr](/f37/language/tr) | 1341 | 1341 | 100.0 | /mnt/stockage/packages/f37/nemiver/po/tr.po | 
+ | [ug](/f37/language/ug) | 1272 | 1272 | 100.0 | /mnt/stockage/packages/f37/nemiver/po/ug.po | 
+ | [zh_Hans](/f37/language/zh_Hans) | 4199 | 4199 | 100.0 | /mnt/stockage/packages/f37/nemiver/help/zh_CN/zh_CN.po/mnt/stockage/packages/f37/nemiver/po/zh_CN.po | 
+ | [zh_Hant](/f37/language/zh_Hant) | 2682 | 2682 | 100.0 | /mnt/stockage/packages/f37/nemiver/po/zh_HK.po/mnt/stockage/packages/f37/nemiver/po/zh_TW.po | 
+ | [ro](/f37/language/ro) | 1101 | 1102 | 99.9 | /mnt/stockage/packages/f37/nemiver/po/ro.po | 
+ | [ja](/f37/language/ja) | 1265 | 1272 | 99.4 | /mnt/stockage/packages/f37/nemiver/po/ja.po | 
+ | [nl](/f37/language/nl) | 409 | 420 | 97.4 | /mnt/stockage/packages/f37/nemiver/po/nl.po | 
+ | [pt_BR](/f37/language/pt_BR) | 2826 | 4205 | 67.2 | /mnt/stockage/packages/f37/nemiver/help/pt_BR/pt_BR.po/mnt/stockage/packages/f37/nemiver/po/pt_BR.po | 
+ | [th](/f37/language/th) | 830 | 1341 | 61.9 | /mnt/stockage/packages/f37/nemiver/po/th.po | 
+ | [fi](/f37/language/fi) | 797 | 1341 | 59.4 | /mnt/stockage/packages/f37/nemiver/po/fi.po | 
+ | [nb_NO](/f37/language/nb_NO) | 736 | 1341 | 54.9 | /mnt/stockage/packages/f37/nemiver/po/nb.po | 
+ | [sv](/f37/language/sv) | 1426 | 4205 | 33.9 | /mnt/stockage/packages/f37/nemiver/help/sv/sv.po/mnt/stockage/packages/f37/nemiver/po/sv.po | 
+ | [sl](/f37/language/sl) | 1408 | 4199 | 33.5 | /mnt/stockage/packages/f37/nemiver/help/sl/sl.po/mnt/stockage/packages/f37/nemiver/po/sl.po | 
+ | [eo](/f37/language/eo) | 282 | 1341 | 21.0 | /mnt/stockage/packages/f37/nemiver/po/eo.po | 
+ | [ml](/f37/language/ml) | 195 | 1266 | 15.4 | /mnt/stockage/packages/f37/nemiver/po/ml.po | 
+ | [ar](/f37/language/ar) | 112 | 902 | 12.4 | /mnt/stockage/packages/f37/nemiver/po/ar.po | 
+ | [hi](/f37/language/hi) | 144 | 1265 | 11.4 | /mnt/stockage/packages/f37/nemiver/po/hi.po | 
+ | [oc](/f37/language/oc) | 236 | 2754 | 8.6 | /mnt/stockage/packages/f37/nemiver/help/oc/oc.po/mnt/stockage/packages/f37/nemiver/po/oc.po | 
+ | [tg](/f37/language/tg) | 87 | 1272 | 6.8 | /mnt/stockage/packages/f37/nemiver/po/tg.po | 
 {.sortable}
 
 

@@ -18,12 +18,12 @@ The package classified-ads (version 0.12):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fi]({{< ref "/f27/language/fi.md" >}}) | 2025 | 2025 | 100.0 | /mnt/stockage/packages/f27/classified-ads/po/fi.po | 
- | [sv]({{< ref "/f27/language/sv.md" >}}) | 1950 | 1950 | 100.0 | /mnt/stockage/packages/f27/classified-ads/po/sv.po | 
- | [uk]({{< ref "/f27/language/uk.md" >}}) | 2025 | 2025 | 100.0 | /mnt/stockage/packages/f27/classified-ads/po/uk.po | 
- | [es]({{< ref "/f27/language/es.md" >}}) | 2019 | 2025 | 99.7 | /mnt/stockage/packages/f27/classified-ads/po/es.po | 
- | [da]({{< ref "/f27/language/da.md" >}}) | 1774 | 1950 | 91.0 | /mnt/stockage/packages/f27/classified-ads/po/da.po | 
- | [de]({{< ref "/f27/language/de.md" >}}) | 1152 | 1950 | 59.1 | /mnt/stockage/packages/f27/classified-ads/po/de.po | 
+ | [fi](/f27/language/fi) | 2025 | 2025 | 100.0 | /mnt/stockage/packages/f27/classified-ads/po/fi.po | 
+ | [sv](/f27/language/sv) | 1950 | 1950 | 100.0 | /mnt/stockage/packages/f27/classified-ads/po/sv.po | 
+ | [uk](/f27/language/uk) | 2025 | 2025 | 100.0 | /mnt/stockage/packages/f27/classified-ads/po/uk.po | 
+ | [es](/f27/language/es) | 2019 | 2025 | 99.7 | /mnt/stockage/packages/f27/classified-ads/po/es.po | 
+ | [da](/f27/language/da) | 1774 | 1950 | 91.0 | /mnt/stockage/packages/f27/classified-ads/po/da.po | 
+ | [de](/f27/language/de) | 1152 | 1950 | 59.1 | /mnt/stockage/packages/f27/classified-ads/po/de.po | 
 {.sortable}
 
 

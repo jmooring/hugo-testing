@@ -44,7 +44,7 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [libreoffice]({{< ref "/f43/package/libreoffice.md" >}}) | 32492 | 177999 | 18.3 | Kurdish (Northern) <https://translations.documentfoundation.org/projects/libo_ui-25-8/avmediamessages/kmr_LATN/> | 
+ | [libreoffice](/f43/package/libreoffice) | 32492 | 177999 | 18.3 | Kurdish (Northern) <https://translations.documentfoundation.org/projects/libo_ui-25-8/avmediamessages/kmr_LATN/> | 
 {.sortable}
 
 

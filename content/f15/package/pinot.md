@@ -18,19 +18,19 @@ The package pinot (version 0.97):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [es]({{< ref "/f15/language/es.md" >}}) | 593 | 593 | 100.0 | /mnt/stockage/packages/f15/pinot/po/es.po | 
- | [fr]({{< ref "/f15/language/fr.md" >}}) | 593 | 593 | 100.0 | /mnt/stockage/packages/f15/pinot/po/fr.po | 
- | [it]({{< ref "/f15/language/it.md" >}}) | 593 | 593 | 100.0 | /mnt/stockage/packages/f15/pinot/po/it.po | 
- | [nl]({{< ref "/f15/language/nl.md" >}}) | 593 | 593 | 100.0 | /mnt/stockage/packages/f15/pinot/po/nl.po | 
- | [pt_BR]({{< ref "/f15/language/pt_BR.md" >}}) | 593 | 593 | 100.0 | /mnt/stockage/packages/f15/pinot/po/pt_BR.po | 
- | [ru]({{< ref "/f15/language/ru.md" >}}) | 593 | 593 | 100.0 | /mnt/stockage/packages/f15/pinot/po/ru.po | 
- | [he]({{< ref "/f15/language/he.md" >}}) | 580 | 593 | 97.8 | /mnt/stockage/packages/f15/pinot/po/he.po | 
- | [de]({{< ref "/f15/language/de.md" >}}) | 577 | 593 | 97.3 | /mnt/stockage/packages/f15/pinot/po/de.po | 
- | [pt]({{< ref "/f15/language/pt.md" >}}) | 575 | 593 | 97.0 | /mnt/stockage/packages/f15/pinot/po/pt.po | 
- | [ja]({{< ref "/f15/language/ja.md" >}}) | 573 | 593 | 96.6 | /mnt/stockage/packages/f15/pinot/po/ja.po | 
- | [sv]({{< ref "/f15/language/sv.md" >}}) | 565 | 593 | 95.3 | /mnt/stockage/packages/f15/pinot/po/sv.po | 
- | [zh_Hans]({{< ref "/f15/language/zh_Hans.md" >}}) | 400 | 593 | 67.5 | /mnt/stockage/packages/f15/pinot/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f15/language/zh_Hant.md" >}}) | 395 | 593 | 66.6 | /mnt/stockage/packages/f15/pinot/po/zh_TW.po | 
+ | [es](/f15/language/es) | 593 | 593 | 100.0 | /mnt/stockage/packages/f15/pinot/po/es.po | 
+ | [fr](/f15/language/fr) | 593 | 593 | 100.0 | /mnt/stockage/packages/f15/pinot/po/fr.po | 
+ | [it](/f15/language/it) | 593 | 593 | 100.0 | /mnt/stockage/packages/f15/pinot/po/it.po | 
+ | [nl](/f15/language/nl) | 593 | 593 | 100.0 | /mnt/stockage/packages/f15/pinot/po/nl.po | 
+ | [pt_BR](/f15/language/pt_BR) | 593 | 593 | 100.0 | /mnt/stockage/packages/f15/pinot/po/pt_BR.po | 
+ | [ru](/f15/language/ru) | 593 | 593 | 100.0 | /mnt/stockage/packages/f15/pinot/po/ru.po | 
+ | [he](/f15/language/he) | 580 | 593 | 97.8 | /mnt/stockage/packages/f15/pinot/po/he.po | 
+ | [de](/f15/language/de) | 577 | 593 | 97.3 | /mnt/stockage/packages/f15/pinot/po/de.po | 
+ | [pt](/f15/language/pt) | 575 | 593 | 97.0 | /mnt/stockage/packages/f15/pinot/po/pt.po | 
+ | [ja](/f15/language/ja) | 573 | 593 | 96.6 | /mnt/stockage/packages/f15/pinot/po/ja.po | 
+ | [sv](/f15/language/sv) | 565 | 593 | 95.3 | /mnt/stockage/packages/f15/pinot/po/sv.po | 
+ | [zh_Hans](/f15/language/zh_Hans) | 400 | 593 | 67.5 | /mnt/stockage/packages/f15/pinot/po/zh_CN.po | 
+ | [zh_Hant](/f15/language/zh_Hant) | 395 | 593 | 66.6 | /mnt/stockage/packages/f15/pinot/po/zh_TW.po | 
 {.sortable}
 
 

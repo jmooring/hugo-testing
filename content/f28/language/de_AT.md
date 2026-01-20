@@ -38,17 +38,17 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [perl-libintl-perl]({{< ref "/f28/package/perl-libintl-perl.md" >}}) | 3 | 3 | 100.0 | German <de@li.org> | 
- | [kanyremote]({{< ref "/f28/package/kanyremote.md" >}}) | 479 | 484 | 99.0 | Austrian | 
- | [ganyremote]({{< ref "/f28/package/ganyremote.md" >}}) | 495 | 517 | 95.7 | Austrian | 
- | [gnomebaker]({{< ref "/f28/package/gnomebaker.md" >}}) | 1008 | 1186 | 85.0 | German (Austria) <de_AT@li.org> | 
- | [fuse-encfs]({{< ref "/f28/package/fuse-encfs.md" >}}) | 1041 | 1289 | 80.8 | German (Austria) <de_AT@li.org> | 
- | [pingus]({{< ref "/f28/package/pingus.md" >}}) | 17 | 25 | 68.0 | LANGUAGE <LL@li.org> | 
- | [supertux]({{< ref "/f28/package/supertux.md" >}}) | 17 | 25 | 68.0 | LANGUAGE <LL@li.org> | 
- | [gpsdrive]({{< ref "/f28/package/gpsdrive.md" >}}) | 424 | 2505 | 16.9 | german <de@li.org> | 
- | [gourmet]({{< ref "/f28/package/gourmet.md" >}}) | 554 | 3939 | 14.1 | German (Austria) <de_AT@li.org> | 
- | [texi2html]({{< ref "/f28/package/texi2html.md" >}}) | 5 | 1665 | 0.3 | German <guido@imperia.net> | 
- | [texinfo]({{< ref "/f28/package/texinfo.md" >}}) | 5 | 5404 | 0.1 | German <de@li.org> | 
+ | [perl-libintl-perl](/f28/package/perl-libintl-perl) | 3 | 3 | 100.0 | German <de@li.org> | 
+ | [kanyremote](/f28/package/kanyremote) | 479 | 484 | 99.0 | Austrian | 
+ | [ganyremote](/f28/package/ganyremote) | 495 | 517 | 95.7 | Austrian | 
+ | [gnomebaker](/f28/package/gnomebaker) | 1008 | 1186 | 85.0 | German (Austria) <de_AT@li.org> | 
+ | [fuse-encfs](/f28/package/fuse-encfs) | 1041 | 1289 | 80.8 | German (Austria) <de_AT@li.org> | 
+ | [pingus](/f28/package/pingus) | 17 | 25 | 68.0 | LANGUAGE <LL@li.org> | 
+ | [supertux](/f28/package/supertux) | 17 | 25 | 68.0 | LANGUAGE <LL@li.org> | 
+ | [gpsdrive](/f28/package/gpsdrive) | 424 | 2505 | 16.9 | german <de@li.org> | 
+ | [gourmet](/f28/package/gourmet) | 554 | 3939 | 14.1 | German (Austria) <de_AT@li.org> | 
+ | [texi2html](/f28/package/texi2html) | 5 | 1665 | 0.3 | German <guido@imperia.net> | 
+ | [texinfo](/f28/package/texinfo) | 5 | 5404 | 0.1 | German <de@li.org> | 
 {.sortable}
 
 

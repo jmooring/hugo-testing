@@ -18,7 +18,7 @@ The package chmsee (version 1.0.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [zh_Hans]({{< ref "/f11/language/zh_Hans.md" >}}) | 115 | 115 | 100.0 | /mnt/stockage/packages/f11/chmsee/po/zh_CN.po | 
+ | [zh_Hans](/f11/language/zh_Hans) | 115 | 115 | 100.0 | /mnt/stockage/packages/f11/chmsee/po/zh_CN.po | 
 {.sortable}
 
 

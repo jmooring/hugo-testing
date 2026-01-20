@@ -18,12 +18,12 @@ The package trackballs (version 1.3.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f33/language/de.md" >}}) | 1631 | 1631 | 100.0 | /mnt/stockage/packages/f33/trackballs/po/de.po | 
- | [fr]({{< ref "/f33/language/fr.md" >}}) | 1631 | 1631 | 100.0 | /mnt/stockage/packages/f33/trackballs/po/fr.po | 
- | [hu]({{< ref "/f33/language/hu.md" >}}) | 719 | 1631 | 44.1 | /mnt/stockage/packages/f33/trackballs/po/hu.po | 
- | [sk]({{< ref "/f33/language/sk.md" >}}) | 695 | 1631 | 42.6 | /mnt/stockage/packages/f33/trackballs/po/sk.po | 
- | [it]({{< ref "/f33/language/it.md" >}}) | 649 | 1631 | 39.8 | /mnt/stockage/packages/f33/trackballs/po/it.po | 
- | [sv]({{< ref "/f33/language/sv.md" >}}) | 512 | 1631 | 31.4 | /mnt/stockage/packages/f33/trackballs/po/sv.po | 
+ | [de](/f33/language/de) | 1631 | 1631 | 100.0 | /mnt/stockage/packages/f33/trackballs/po/de.po | 
+ | [fr](/f33/language/fr) | 1631 | 1631 | 100.0 | /mnt/stockage/packages/f33/trackballs/po/fr.po | 
+ | [hu](/f33/language/hu) | 719 | 1631 | 44.1 | /mnt/stockage/packages/f33/trackballs/po/hu.po | 
+ | [sk](/f33/language/sk) | 695 | 1631 | 42.6 | /mnt/stockage/packages/f33/trackballs/po/sk.po | 
+ | [it](/f33/language/it) | 649 | 1631 | 39.8 | /mnt/stockage/packages/f33/trackballs/po/it.po | 
+ | [sv](/f33/language/sv) | 512 | 1631 | 31.4 | /mnt/stockage/packages/f33/trackballs/po/sv.po | 
 {.sortable}
 
 

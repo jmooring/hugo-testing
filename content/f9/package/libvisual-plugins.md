@@ -18,8 +18,8 @@ The package libvisual-plugins (version 0.4.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [es]({{< ref "/f9/language/es.md" >}}) | 354 | 600 | 59.0 | /mnt/stockage/packages/f9/libvisual-plugins/po/es_ES.po | 
- | [es_AR]({{< ref "/f9/language/es_AR.md" >}}) | 354 | 600 | 59.0 | /mnt/stockage/packages/f9/libvisual-plugins/po/es_AR.po | 
+ | [es](/f9/language/es) | 354 | 600 | 59.0 | /mnt/stockage/packages/f9/libvisual-plugins/po/es_ES.po | 
+ | [es_AR](/f9/language/es_AR) | 354 | 600 | 59.0 | /mnt/stockage/packages/f9/libvisual-plugins/po/es_AR.po | 
 {.sortable}
 
 

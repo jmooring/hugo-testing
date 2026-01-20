@@ -38,11 +38,11 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [postgresql]({{< ref "/f10/package/postgresql.md" >}}) | 7055 | 9103 | 77.5 | <cs@li.org> | 
- | [sepostgresql]({{< ref "/f10/package/sepostgresql.md" >}}) | 7055 | 9103 | 77.5 | <cs@li.org> | 
- | [tinyerp]({{< ref "/f10/package/tinyerp.md" >}}) | 1416 | 2276 | 62.2 | FR <i18n-info@tinyerp.org> | 
- | [wine-docs]({{< ref "/f10/package/wine-docs.md" >}}) | 182 | 1206 | 15.1 | AF | 
- | [po4a]({{< ref "/f10/package/po4a.md" >}}) | 180 | 1613 | 11.2 | AF | 
+ | [postgresql](/f10/package/postgresql) | 7055 | 9103 | 77.5 | <cs@li.org> | 
+ | [sepostgresql](/f10/package/sepostgresql) | 7055 | 9103 | 77.5 | <cs@li.org> | 
+ | [tinyerp](/f10/package/tinyerp) | 1416 | 2276 | 62.2 | FR <i18n-info@tinyerp.org> | 
+ | [wine-docs](/f10/package/wine-docs) | 182 | 1206 | 15.1 | AF | 
+ | [po4a](/f10/package/po4a) | 180 | 1613 | 11.2 | AF | 
 {.sortable}
 
 

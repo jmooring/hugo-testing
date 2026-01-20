@@ -40,7 +40,7 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [stellarium]({{< ref "/f24/package/stellarium.md" >}}) | 0 | 23532 | 0.0 | Afar <aa@li.org> | 
+ | [stellarium](/f24/package/stellarium) | 0 | 23532 | 0.0 | Afar <aa@li.org> | 
 {.sortable}
 
 

@@ -18,23 +18,23 @@ The package tepl (version 4.2.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f30/language/cs.md" >}}) | 217 | 217 | 100.0 | /mnt/stockage/packages/f30/tepl/po/cs.po | 
- | [da]({{< ref "/f30/language/da.md" >}}) | 217 | 217 | 100.0 | /mnt/stockage/packages/f30/tepl/po/da.po | 
- | [de]({{< ref "/f30/language/de.md" >}}) | 217 | 217 | 100.0 | /mnt/stockage/packages/f30/tepl/po/de.po | 
- | [es]({{< ref "/f30/language/es.md" >}}) | 217 | 217 | 100.0 | /mnt/stockage/packages/f30/tepl/po/es.po | 
- | [eu]({{< ref "/f30/language/eu.md" >}}) | 217 | 217 | 100.0 | /mnt/stockage/packages/f30/tepl/po/eu.po | 
- | [hu]({{< ref "/f30/language/hu.md" >}}) | 217 | 217 | 100.0 | /mnt/stockage/packages/f30/tepl/po/hu.po | 
- | [id]({{< ref "/f30/language/id.md" >}}) | 217 | 217 | 100.0 | /mnt/stockage/packages/f30/tepl/po/id.po | 
- | [nl]({{< ref "/f30/language/nl.md" >}}) | 217 | 217 | 100.0 | /mnt/stockage/packages/f30/tepl/po/nl.po | 
- | [pl]({{< ref "/f30/language/pl.md" >}}) | 217 | 217 | 100.0 | /mnt/stockage/packages/f30/tepl/po/pl.po | 
- | [pt_BR]({{< ref "/f30/language/pt_BR.md" >}}) | 217 | 217 | 100.0 | /mnt/stockage/packages/f30/tepl/po/pt_BR.po | 
- | [ro]({{< ref "/f30/language/ro.md" >}}) | 217 | 217 | 100.0 | /mnt/stockage/packages/f30/tepl/po/ro.po | 
- | [sr]({{< ref "/f30/language/sr.md" >}}) | 217 | 217 | 100.0 | /mnt/stockage/packages/f30/tepl/po/sr.po | 
- | [sv]({{< ref "/f30/language/sv.md" >}}) | 217 | 217 | 100.0 | /mnt/stockage/packages/f30/tepl/po/sv.po | 
- | [uk]({{< ref "/f30/language/uk.md" >}}) | 115 | 217 | 53.0 | /mnt/stockage/packages/f30/tepl/po/uk.po | 
- | [fur]({{< ref "/f30/language/fur.md" >}}) | 114 | 217 | 52.5 | /mnt/stockage/packages/f30/tepl/po/fur.po | 
- | [ru]({{< ref "/f30/language/ru.md" >}}) | 114 | 217 | 52.5 | /mnt/stockage/packages/f30/tepl/po/ru.po | 
- | [sl]({{< ref "/f30/language/sl.md" >}}) | 44 | 217 | 20.3 | /mnt/stockage/packages/f30/tepl/po/sl.po | 
+ | [cs](/f30/language/cs) | 217 | 217 | 100.0 | /mnt/stockage/packages/f30/tepl/po/cs.po | 
+ | [da](/f30/language/da) | 217 | 217 | 100.0 | /mnt/stockage/packages/f30/tepl/po/da.po | 
+ | [de](/f30/language/de) | 217 | 217 | 100.0 | /mnt/stockage/packages/f30/tepl/po/de.po | 
+ | [es](/f30/language/es) | 217 | 217 | 100.0 | /mnt/stockage/packages/f30/tepl/po/es.po | 
+ | [eu](/f30/language/eu) | 217 | 217 | 100.0 | /mnt/stockage/packages/f30/tepl/po/eu.po | 
+ | [hu](/f30/language/hu) | 217 | 217 | 100.0 | /mnt/stockage/packages/f30/tepl/po/hu.po | 
+ | [id](/f30/language/id) | 217 | 217 | 100.0 | /mnt/stockage/packages/f30/tepl/po/id.po | 
+ | [nl](/f30/language/nl) | 217 | 217 | 100.0 | /mnt/stockage/packages/f30/tepl/po/nl.po | 
+ | [pl](/f30/language/pl) | 217 | 217 | 100.0 | /mnt/stockage/packages/f30/tepl/po/pl.po | 
+ | [pt_BR](/f30/language/pt_BR) | 217 | 217 | 100.0 | /mnt/stockage/packages/f30/tepl/po/pt_BR.po | 
+ | [ro](/f30/language/ro) | 217 | 217 | 100.0 | /mnt/stockage/packages/f30/tepl/po/ro.po | 
+ | [sr](/f30/language/sr) | 217 | 217 | 100.0 | /mnt/stockage/packages/f30/tepl/po/sr.po | 
+ | [sv](/f30/language/sv) | 217 | 217 | 100.0 | /mnt/stockage/packages/f30/tepl/po/sv.po | 
+ | [uk](/f30/language/uk) | 115 | 217 | 53.0 | /mnt/stockage/packages/f30/tepl/po/uk.po | 
+ | [fur](/f30/language/fur) | 114 | 217 | 52.5 | /mnt/stockage/packages/f30/tepl/po/fur.po | 
+ | [ru](/f30/language/ru) | 114 | 217 | 52.5 | /mnt/stockage/packages/f30/tepl/po/ru.po | 
+ | [sl](/f30/language/sl) | 44 | 217 | 20.3 | /mnt/stockage/packages/f30/tepl/po/sl.po | 
 {.sortable}
 
 

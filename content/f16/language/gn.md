@@ -40,10 +40,10 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [lxmenu-data]({{< ref "/f16/package/lxmenu-data.md" >}}) | 53 | 97 | 54.6 |  | 
- | [gnome-menus]({{< ref "/f16/package/gnome-menus.md" >}}) | 71 | 133 | 53.4 |  | 
- | [mate-menus]({{< ref "/f16/package/mate-menus.md" >}}) | 71 | 133 | 53.4 |  | 
- | [stellarium]({{< ref "/f16/package/stellarium.md" >}}) | 0 | 7138 | 0.0 | Guarani <gn@li.org> | 
+ | [lxmenu-data](/f16/package/lxmenu-data) | 53 | 97 | 54.6 |  | 
+ | [gnome-menus](/f16/package/gnome-menus) | 71 | 133 | 53.4 |  | 
+ | [mate-menus](/f16/package/mate-menus) | 71 | 133 | 53.4 |  | 
+ | [stellarium](/f16/package/stellarium) | 0 | 7138 | 0.0 | Guarani <gn@li.org> | 
 {.sortable}
 
 

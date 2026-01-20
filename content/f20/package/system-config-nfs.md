@@ -18,74 +18,74 @@ The package system-config-nfs (version 1.4.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f20/language/ar.md" >}}) | 332 | 332 | 100.0 | /mnt/stockage/packages/f20/system-config-nfs/po/ar.po | 
- | [as]({{< ref "/f20/language/as.md" >}}) | 332 | 332 | 100.0 | /mnt/stockage/packages/f20/system-config-nfs/po/as.po | 
- | [ast]({{< ref "/f20/language/ast.md" >}}) | 332 | 332 | 100.0 | /mnt/stockage/packages/f20/system-config-nfs/po/ast.po | 
- | [bg]({{< ref "/f20/language/bg.md" >}}) | 332 | 332 | 100.0 | /mnt/stockage/packages/f20/system-config-nfs/po/bg.po | 
- | [bn_IN]({{< ref "/f20/language/bn_IN.md" >}}) | 332 | 332 | 100.0 | /mnt/stockage/packages/f20/system-config-nfs/po/bn_IN.po | 
- | [ca]({{< ref "/f20/language/ca.md" >}}) | 332 | 332 | 100.0 | /mnt/stockage/packages/f20/system-config-nfs/po/ca.po | 
- | [cs]({{< ref "/f20/language/cs.md" >}}) | 332 | 332 | 100.0 | /mnt/stockage/packages/f20/system-config-nfs/po/cs.po | 
- | [da]({{< ref "/f20/language/da.md" >}}) | 332 | 332 | 100.0 | /mnt/stockage/packages/f20/system-config-nfs/po/da.po | 
- | [de]({{< ref "/f20/language/de.md" >}}) | 332 | 332 | 100.0 | /mnt/stockage/packages/f20/system-config-nfs/po/de.po | 
- | [el]({{< ref "/f20/language/el.md" >}}) | 332 | 332 | 100.0 | /mnt/stockage/packages/f20/system-config-nfs/po/el.po | 
- | [es]({{< ref "/f20/language/es.md" >}}) | 332 | 332 | 100.0 | /mnt/stockage/packages/f20/system-config-nfs/po/es.po | 
- | [fi]({{< ref "/f20/language/fi.md" >}}) | 332 | 332 | 100.0 | /mnt/stockage/packages/f20/system-config-nfs/po/fi.po | 
- | [fr]({{< ref "/f20/language/fr.md" >}}) | 332 | 332 | 100.0 | /mnt/stockage/packages/f20/system-config-nfs/po/fr.po | 
- | [gu]({{< ref "/f20/language/gu.md" >}}) | 332 | 332 | 100.0 | /mnt/stockage/packages/f20/system-config-nfs/po/gu.po | 
- | [he]({{< ref "/f20/language/he.md" >}}) | 332 | 332 | 100.0 | /mnt/stockage/packages/f20/system-config-nfs/po/he.po | 
- | [hi]({{< ref "/f20/language/hi.md" >}}) | 332 | 332 | 100.0 | /mnt/stockage/packages/f20/system-config-nfs/po/hi.po | 
- | [hu]({{< ref "/f20/language/hu.md" >}}) | 332 | 332 | 100.0 | /mnt/stockage/packages/f20/system-config-nfs/po/hu.po | 
- | [id]({{< ref "/f20/language/id.md" >}}) | 332 | 332 | 100.0 | /mnt/stockage/packages/f20/system-config-nfs/po/id.po | 
- | [is]({{< ref "/f20/language/is.md" >}}) | 332 | 332 | 100.0 | /mnt/stockage/packages/f20/system-config-nfs/po/is.po | 
- | [it]({{< ref "/f20/language/it.md" >}}) | 332 | 332 | 100.0 | /mnt/stockage/packages/f20/system-config-nfs/po/it.po | 
- | [ja]({{< ref "/f20/language/ja.md" >}}) | 332 | 332 | 100.0 | /mnt/stockage/packages/f20/system-config-nfs/po/ja.po | 
- | [ka]({{< ref "/f20/language/ka.md" >}}) | 332 | 332 | 100.0 | /mnt/stockage/packages/f20/system-config-nfs/po/ka.po | 
- | [kn]({{< ref "/f20/language/kn.md" >}}) | 332 | 332 | 100.0 | /mnt/stockage/packages/f20/system-config-nfs/po/kn.po | 
- | [ko]({{< ref "/f20/language/ko.md" >}}) | 332 | 332 | 100.0 | /mnt/stockage/packages/f20/system-config-nfs/po/ko.po | 
- | [mai]({{< ref "/f20/language/mai.md" >}}) | 332 | 332 | 100.0 | /mnt/stockage/packages/f20/system-config-nfs/po/mai.po | 
- | [ml]({{< ref "/f20/language/ml.md" >}}) | 332 | 332 | 100.0 | /mnt/stockage/packages/f20/system-config-nfs/po/ml.po | 
- | [mr]({{< ref "/f20/language/mr.md" >}}) | 332 | 332 | 100.0 | /mnt/stockage/packages/f20/system-config-nfs/po/mr.po | 
- | [nb_NO]({{< ref "/f20/language/nb_NO.md" >}}) | 332 | 332 | 100.0 | /mnt/stockage/packages/f20/system-config-nfs/po/nb.po | 
- | [nl]({{< ref "/f20/language/nl.md" >}}) | 332 | 332 | 100.0 | /mnt/stockage/packages/f20/system-config-nfs/po/nl.po | 
- | [or]({{< ref "/f20/language/or.md" >}}) | 332 | 332 | 100.0 | /mnt/stockage/packages/f20/system-config-nfs/po/or.po | 
- | [pa]({{< ref "/f20/language/pa.md" >}}) | 332 | 332 | 100.0 | /mnt/stockage/packages/f20/system-config-nfs/po/pa.po | 
- | [pl]({{< ref "/f20/language/pl.md" >}}) | 332 | 332 | 100.0 | /mnt/stockage/packages/f20/system-config-nfs/po/pl.po | 
- | [pt]({{< ref "/f20/language/pt.md" >}}) | 332 | 332 | 100.0 | /mnt/stockage/packages/f20/system-config-nfs/po/pt.po | 
- | [pt_BR]({{< ref "/f20/language/pt_BR.md" >}}) | 332 | 332 | 100.0 | /mnt/stockage/packages/f20/system-config-nfs/po/pt_BR.po | 
- | [ru]({{< ref "/f20/language/ru.md" >}}) | 332 | 332 | 100.0 | /mnt/stockage/packages/f20/system-config-nfs/po/ru.po | 
- | [si]({{< ref "/f20/language/si.md" >}}) | 332 | 332 | 100.0 | /mnt/stockage/packages/f20/system-config-nfs/po/si.po | 
- | [sk]({{< ref "/f20/language/sk.md" >}}) | 332 | 332 | 100.0 | /mnt/stockage/packages/f20/system-config-nfs/po/sk.po | 
- | [sr]({{< ref "/f20/language/sr.md" >}}) | 332 | 332 | 100.0 | /mnt/stockage/packages/f20/system-config-nfs/po/sr.po | 
- | [sr_Latn]({{< ref "/f20/language/sr_Latn.md" >}}) | 332 | 332 | 100.0 | /mnt/stockage/packages/f20/system-config-nfs/po/sr@latin.po | 
- | [sv]({{< ref "/f20/language/sv.md" >}}) | 332 | 332 | 100.0 | /mnt/stockage/packages/f20/system-config-nfs/po/sv.po | 
- | [ta]({{< ref "/f20/language/ta.md" >}}) | 332 | 332 | 100.0 | /mnt/stockage/packages/f20/system-config-nfs/po/ta.po | 
- | [te]({{< ref "/f20/language/te.md" >}}) | 332 | 332 | 100.0 | /mnt/stockage/packages/f20/system-config-nfs/po/te.po | 
- | [th]({{< ref "/f20/language/th.md" >}}) | 332 | 332 | 100.0 | /mnt/stockage/packages/f20/system-config-nfs/po/th.po | 
- | [uk]({{< ref "/f20/language/uk.md" >}}) | 332 | 332 | 100.0 | /mnt/stockage/packages/f20/system-config-nfs/po/uk.po | 
- | [zh_Hans]({{< ref "/f20/language/zh_Hans.md" >}}) | 332 | 332 | 100.0 | /mnt/stockage/packages/f20/system-config-nfs/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f20/language/zh_Hant.md" >}}) | 332 | 332 | 100.0 | /mnt/stockage/packages/f20/system-config-nfs/po/zh_TW.po | 
- | [bs]({{< ref "/f20/language/bs.md" >}}) | 306 | 332 | 92.2 | /mnt/stockage/packages/f20/system-config-nfs/po/bs.po | 
- | [en_GB]({{< ref "/f20/language/en_GB.md" >}}) | 306 | 332 | 92.2 | /mnt/stockage/packages/f20/system-config-nfs/po/en_GB.po | 
- | [hr]({{< ref "/f20/language/hr.md" >}}) | 306 | 332 | 92.2 | /mnt/stockage/packages/f20/system-config-nfs/po/hr.po | 
- | [lv]({{< ref "/f20/language/lv.md" >}}) | 306 | 332 | 92.2 | /mnt/stockage/packages/f20/system-config-nfs/po/lv.po | 
- | [ms]({{< ref "/f20/language/ms.md" >}}) | 306 | 332 | 92.2 | /mnt/stockage/packages/f20/system-config-nfs/po/ms.po | 
- | [ro]({{< ref "/f20/language/ro.md" >}}) | 306 | 332 | 92.2 | /mnt/stockage/packages/f20/system-config-nfs/po/ro.po | 
- | [bn]({{< ref "/f20/language/bn.md" >}}) | 286 | 332 | 86.1 | /mnt/stockage/packages/f20/system-config-nfs/po/bn.po | 
- | [et]({{< ref "/f20/language/et.md" >}}) | 270 | 332 | 81.3 | /mnt/stockage/packages/f20/system-config-nfs/po/et.po | 
- | [mk]({{< ref "/f20/language/mk.md" >}}) | 220 | 332 | 66.3 | /mnt/stockage/packages/f20/system-config-nfs/po/mk.po | 
- | [cy]({{< ref "/f20/language/cy.md" >}}) | 185 | 332 | 55.7 | /mnt/stockage/packages/f20/system-config-nfs/po/cy.po | 
- | [sl]({{< ref "/f20/language/sl.md" >}}) | 62 | 332 | 18.7 | /mnt/stockage/packages/f20/system-config-nfs/po/sl.po | 
- | [tr]({{< ref "/f20/language/tr.md" >}}) | 62 | 332 | 18.7 | /mnt/stockage/packages/f20/system-config-nfs/po/tr.po | 
- | [fa]({{< ref "/f20/language/fa.md" >}}) | 56 | 332 | 16.9 | /mnt/stockage/packages/f20/system-config-nfs/po/fa.po | 
- | [vi]({{< ref "/f20/language/vi.md" >}}) | 49 | 332 | 14.8 | /mnt/stockage/packages/f20/system-config-nfs/po/vi.po | 
- | [eu]({{< ref "/f20/language/eu.md" >}}) | 45 | 332 | 13.6 | /mnt/stockage/packages/f20/system-config-nfs/po/eu.po | 
- | [nds]({{< ref "/f20/language/nds.md" >}}) | 12 | 332 | 3.6 | /mnt/stockage/packages/f20/system-config-nfs/po/nds.po | 
- | [hy]({{< ref "/f20/language/hy.md" >}}) | 0 | 332 | 0.0 | /mnt/stockage/packages/f20/system-config-nfs/po/hy.po | 
- | [ku]({{< ref "/f20/language/ku.md" >}}) | 0 | 332 | 0.0 | /mnt/stockage/packages/f20/system-config-nfs/po/ku.po | 
- | [lo]({{< ref "/f20/language/lo.md" >}}) | 0 | 332 | 0.0 | /mnt/stockage/packages/f20/system-config-nfs/po/lo.po | 
- | [my]({{< ref "/f20/language/my.md" >}}) | 0 | 332 | 0.0 | /mnt/stockage/packages/f20/system-config-nfs/po/my.po | 
- | [sq]({{< ref "/f20/language/sq.md" >}}) | 0 | 332 | 0.0 | /mnt/stockage/packages/f20/system-config-nfs/po/sq.po | 
- | [ur]({{< ref "/f20/language/ur.md" >}}) | 0 | 332 | 0.0 | /mnt/stockage/packages/f20/system-config-nfs/po/ur.po | 
+ | [ar](/f20/language/ar) | 332 | 332 | 100.0 | /mnt/stockage/packages/f20/system-config-nfs/po/ar.po | 
+ | [as](/f20/language/as) | 332 | 332 | 100.0 | /mnt/stockage/packages/f20/system-config-nfs/po/as.po | 
+ | [ast](/f20/language/ast) | 332 | 332 | 100.0 | /mnt/stockage/packages/f20/system-config-nfs/po/ast.po | 
+ | [bg](/f20/language/bg) | 332 | 332 | 100.0 | /mnt/stockage/packages/f20/system-config-nfs/po/bg.po | 
+ | [bn_IN](/f20/language/bn_IN) | 332 | 332 | 100.0 | /mnt/stockage/packages/f20/system-config-nfs/po/bn_IN.po | 
+ | [ca](/f20/language/ca) | 332 | 332 | 100.0 | /mnt/stockage/packages/f20/system-config-nfs/po/ca.po | 
+ | [cs](/f20/language/cs) | 332 | 332 | 100.0 | /mnt/stockage/packages/f20/system-config-nfs/po/cs.po | 
+ | [da](/f20/language/da) | 332 | 332 | 100.0 | /mnt/stockage/packages/f20/system-config-nfs/po/da.po | 
+ | [de](/f20/language/de) | 332 | 332 | 100.0 | /mnt/stockage/packages/f20/system-config-nfs/po/de.po | 
+ | [el](/f20/language/el) | 332 | 332 | 100.0 | /mnt/stockage/packages/f20/system-config-nfs/po/el.po | 
+ | [es](/f20/language/es) | 332 | 332 | 100.0 | /mnt/stockage/packages/f20/system-config-nfs/po/es.po | 
+ | [fi](/f20/language/fi) | 332 | 332 | 100.0 | /mnt/stockage/packages/f20/system-config-nfs/po/fi.po | 
+ | [fr](/f20/language/fr) | 332 | 332 | 100.0 | /mnt/stockage/packages/f20/system-config-nfs/po/fr.po | 
+ | [gu](/f20/language/gu) | 332 | 332 | 100.0 | /mnt/stockage/packages/f20/system-config-nfs/po/gu.po | 
+ | [he](/f20/language/he) | 332 | 332 | 100.0 | /mnt/stockage/packages/f20/system-config-nfs/po/he.po | 
+ | [hi](/f20/language/hi) | 332 | 332 | 100.0 | /mnt/stockage/packages/f20/system-config-nfs/po/hi.po | 
+ | [hu](/f20/language/hu) | 332 | 332 | 100.0 | /mnt/stockage/packages/f20/system-config-nfs/po/hu.po | 
+ | [id](/f20/language/id) | 332 | 332 | 100.0 | /mnt/stockage/packages/f20/system-config-nfs/po/id.po | 
+ | [is](/f20/language/is) | 332 | 332 | 100.0 | /mnt/stockage/packages/f20/system-config-nfs/po/is.po | 
+ | [it](/f20/language/it) | 332 | 332 | 100.0 | /mnt/stockage/packages/f20/system-config-nfs/po/it.po | 
+ | [ja](/f20/language/ja) | 332 | 332 | 100.0 | /mnt/stockage/packages/f20/system-config-nfs/po/ja.po | 
+ | [ka](/f20/language/ka) | 332 | 332 | 100.0 | /mnt/stockage/packages/f20/system-config-nfs/po/ka.po | 
+ | [kn](/f20/language/kn) | 332 | 332 | 100.0 | /mnt/stockage/packages/f20/system-config-nfs/po/kn.po | 
+ | [ko](/f20/language/ko) | 332 | 332 | 100.0 | /mnt/stockage/packages/f20/system-config-nfs/po/ko.po | 
+ | [mai](/f20/language/mai) | 332 | 332 | 100.0 | /mnt/stockage/packages/f20/system-config-nfs/po/mai.po | 
+ | [ml](/f20/language/ml) | 332 | 332 | 100.0 | /mnt/stockage/packages/f20/system-config-nfs/po/ml.po | 
+ | [mr](/f20/language/mr) | 332 | 332 | 100.0 | /mnt/stockage/packages/f20/system-config-nfs/po/mr.po | 
+ | [nb_NO](/f20/language/nb_NO) | 332 | 332 | 100.0 | /mnt/stockage/packages/f20/system-config-nfs/po/nb.po | 
+ | [nl](/f20/language/nl) | 332 | 332 | 100.0 | /mnt/stockage/packages/f20/system-config-nfs/po/nl.po | 
+ | [or](/f20/language/or) | 332 | 332 | 100.0 | /mnt/stockage/packages/f20/system-config-nfs/po/or.po | 
+ | [pa](/f20/language/pa) | 332 | 332 | 100.0 | /mnt/stockage/packages/f20/system-config-nfs/po/pa.po | 
+ | [pl](/f20/language/pl) | 332 | 332 | 100.0 | /mnt/stockage/packages/f20/system-config-nfs/po/pl.po | 
+ | [pt](/f20/language/pt) | 332 | 332 | 100.0 | /mnt/stockage/packages/f20/system-config-nfs/po/pt.po | 
+ | [pt_BR](/f20/language/pt_BR) | 332 | 332 | 100.0 | /mnt/stockage/packages/f20/system-config-nfs/po/pt_BR.po | 
+ | [ru](/f20/language/ru) | 332 | 332 | 100.0 | /mnt/stockage/packages/f20/system-config-nfs/po/ru.po | 
+ | [si](/f20/language/si) | 332 | 332 | 100.0 | /mnt/stockage/packages/f20/system-config-nfs/po/si.po | 
+ | [sk](/f20/language/sk) | 332 | 332 | 100.0 | /mnt/stockage/packages/f20/system-config-nfs/po/sk.po | 
+ | [sr](/f20/language/sr) | 332 | 332 | 100.0 | /mnt/stockage/packages/f20/system-config-nfs/po/sr.po | 
+ | [sr_Latn](/f20/language/sr_Latn) | 332 | 332 | 100.0 | /mnt/stockage/packages/f20/system-config-nfs/po/sr@latin.po | 
+ | [sv](/f20/language/sv) | 332 | 332 | 100.0 | /mnt/stockage/packages/f20/system-config-nfs/po/sv.po | 
+ | [ta](/f20/language/ta) | 332 | 332 | 100.0 | /mnt/stockage/packages/f20/system-config-nfs/po/ta.po | 
+ | [te](/f20/language/te) | 332 | 332 | 100.0 | /mnt/stockage/packages/f20/system-config-nfs/po/te.po | 
+ | [th](/f20/language/th) | 332 | 332 | 100.0 | /mnt/stockage/packages/f20/system-config-nfs/po/th.po | 
+ | [uk](/f20/language/uk) | 332 | 332 | 100.0 | /mnt/stockage/packages/f20/system-config-nfs/po/uk.po | 
+ | [zh_Hans](/f20/language/zh_Hans) | 332 | 332 | 100.0 | /mnt/stockage/packages/f20/system-config-nfs/po/zh_CN.po | 
+ | [zh_Hant](/f20/language/zh_Hant) | 332 | 332 | 100.0 | /mnt/stockage/packages/f20/system-config-nfs/po/zh_TW.po | 
+ | [bs](/f20/language/bs) | 306 | 332 | 92.2 | /mnt/stockage/packages/f20/system-config-nfs/po/bs.po | 
+ | [en_GB](/f20/language/en_GB) | 306 | 332 | 92.2 | /mnt/stockage/packages/f20/system-config-nfs/po/en_GB.po | 
+ | [hr](/f20/language/hr) | 306 | 332 | 92.2 | /mnt/stockage/packages/f20/system-config-nfs/po/hr.po | 
+ | [lv](/f20/language/lv) | 306 | 332 | 92.2 | /mnt/stockage/packages/f20/system-config-nfs/po/lv.po | 
+ | [ms](/f20/language/ms) | 306 | 332 | 92.2 | /mnt/stockage/packages/f20/system-config-nfs/po/ms.po | 
+ | [ro](/f20/language/ro) | 306 | 332 | 92.2 | /mnt/stockage/packages/f20/system-config-nfs/po/ro.po | 
+ | [bn](/f20/language/bn) | 286 | 332 | 86.1 | /mnt/stockage/packages/f20/system-config-nfs/po/bn.po | 
+ | [et](/f20/language/et) | 270 | 332 | 81.3 | /mnt/stockage/packages/f20/system-config-nfs/po/et.po | 
+ | [mk](/f20/language/mk) | 220 | 332 | 66.3 | /mnt/stockage/packages/f20/system-config-nfs/po/mk.po | 
+ | [cy](/f20/language/cy) | 185 | 332 | 55.7 | /mnt/stockage/packages/f20/system-config-nfs/po/cy.po | 
+ | [sl](/f20/language/sl) | 62 | 332 | 18.7 | /mnt/stockage/packages/f20/system-config-nfs/po/sl.po | 
+ | [tr](/f20/language/tr) | 62 | 332 | 18.7 | /mnt/stockage/packages/f20/system-config-nfs/po/tr.po | 
+ | [fa](/f20/language/fa) | 56 | 332 | 16.9 | /mnt/stockage/packages/f20/system-config-nfs/po/fa.po | 
+ | [vi](/f20/language/vi) | 49 | 332 | 14.8 | /mnt/stockage/packages/f20/system-config-nfs/po/vi.po | 
+ | [eu](/f20/language/eu) | 45 | 332 | 13.6 | /mnt/stockage/packages/f20/system-config-nfs/po/eu.po | 
+ | [nds](/f20/language/nds) | 12 | 332 | 3.6 | /mnt/stockage/packages/f20/system-config-nfs/po/nds.po | 
+ | [hy](/f20/language/hy) | 0 | 332 | 0.0 | /mnt/stockage/packages/f20/system-config-nfs/po/hy.po | 
+ | [ku](/f20/language/ku) | 0 | 332 | 0.0 | /mnt/stockage/packages/f20/system-config-nfs/po/ku.po | 
+ | [lo](/f20/language/lo) | 0 | 332 | 0.0 | /mnt/stockage/packages/f20/system-config-nfs/po/lo.po | 
+ | [my](/f20/language/my) | 0 | 332 | 0.0 | /mnt/stockage/packages/f20/system-config-nfs/po/my.po | 
+ | [sq](/f20/language/sq) | 0 | 332 | 0.0 | /mnt/stockage/packages/f20/system-config-nfs/po/sq.po | 
+ | [ur](/f20/language/ur) | 0 | 332 | 0.0 | /mnt/stockage/packages/f20/system-config-nfs/po/ur.po | 
 {.sortable}
 
 

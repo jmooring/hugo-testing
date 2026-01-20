@@ -18,13 +18,13 @@ The package vdr-femon (version 1.6.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fi]({{< ref "/f10/language/fi.md" >}}) | 345 | 345 | 100.0 | /mnt/stockage/packages/f10/vdr-femon/po/fi_FI.po | 
- | [it]({{< ref "/f10/language/it.md" >}}) | 345 | 345 | 100.0 | /mnt/stockage/packages/f10/vdr-femon/po/it_IT.po | 
- | [fr]({{< ref "/f10/language/fr.md" >}}) | 310 | 345 | 89.9 | /mnt/stockage/packages/f10/vdr-femon/po/fr_FR.po | 
- | [de]({{< ref "/f10/language/de.md" >}}) | 173 | 345 | 50.1 | /mnt/stockage/packages/f10/vdr-femon/po/de_DE.po | 
- | [es]({{< ref "/f10/language/es.md" >}}) | 162 | 345 | 47.0 | /mnt/stockage/packages/f10/vdr-femon/po/es_ES.po | 
- | [et]({{< ref "/f10/language/et.md" >}}) | 159 | 345 | 46.1 | /mnt/stockage/packages/f10/vdr-femon/po/et_EE.po | 
- | [ru]({{< ref "/f10/language/ru.md" >}}) | 65 | 345 | 18.8 | /mnt/stockage/packages/f10/vdr-femon/po/ru_RU.po | 
+ | [fi](/f10/language/fi) | 345 | 345 | 100.0 | /mnt/stockage/packages/f10/vdr-femon/po/fi_FI.po | 
+ | [it](/f10/language/it) | 345 | 345 | 100.0 | /mnt/stockage/packages/f10/vdr-femon/po/it_IT.po | 
+ | [fr](/f10/language/fr) | 310 | 345 | 89.9 | /mnt/stockage/packages/f10/vdr-femon/po/fr_FR.po | 
+ | [de](/f10/language/de) | 173 | 345 | 50.1 | /mnt/stockage/packages/f10/vdr-femon/po/de_DE.po | 
+ | [es](/f10/language/es) | 162 | 345 | 47.0 | /mnt/stockage/packages/f10/vdr-femon/po/es_ES.po | 
+ | [et](/f10/language/et) | 159 | 345 | 46.1 | /mnt/stockage/packages/f10/vdr-femon/po/et_EE.po | 
+ | [ru](/f10/language/ru) | 65 | 345 | 18.8 | /mnt/stockage/packages/f10/vdr-femon/po/ru_RU.po | 
 {.sortable}
 
 

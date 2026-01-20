@@ -41,34 +41,34 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [newt]({{< ref "/f31/package/newt.md" >}}) | 4 | 4 | 100.0 | Balochi <fedora-trans-bal@redhat.com> | 
- | [setuptool]({{< ref "/f31/package/setuptool.md" >}}) | 55 | 55 | 100.0 | Balochi <fedora-trans-bal@redhat.com> | 
- | [chkconfig]({{< ref "/f31/package/chkconfig.md" >}}) | 413 | 555 | 74.4 | Balochi <trans-bal@lists.fedoraproject.org> | 
- | [system-switch-mail]({{< ref "/f31/package/system-switch-mail.md" >}}) | 9 | 101 | 8.9 | Balochi <fedora-trans-bal@redhat.com> | 
- | [policycoreutils]({{< ref "/f31/package/policycoreutils.md" >}}) | 7 | 4493 | 0.2 | Baluchi | 
- | [anaconda]({{< ref "/f31/package/anaconda.md" >}}) | 0 | 7193 | 0.0 | Balochi (http://www.transifex.com/projects/p/anaconda/language/bal/) | 
- | [certmonger]({{< ref "/f31/package/certmonger.md" >}}) | 0 | 2831 | 0.0 | Balochi (http://www.transifex.com/projects/p/certmonger/language/bal/) | 
- | [entangle]({{< ref "/f31/package/entangle.md" >}}) | 0 | 953 | 0.0 | Baluchi | 
- | [initial-setup]({{< ref "/f31/package/initial-setup.md" >}}) | 0 | 33 | 0.0 | Baluchi | 
- | [initscripts]({{< ref "/f31/package/initscripts.md" >}}) | 0 | 1001 | 0.0 | Balochi <trans-bal@lists.fedoraproject.org> | 
- | [libosinfo]({{< ref "/f31/package/libosinfo.md" >}}) | 0 | 777 | 0.0 | Baluchi | 
- | [libvirt]({{< ref "/f31/package/libvirt.md" >}}) | 0 | 64581 | 0.0 | Baluchi | 
- | [libvirt-glib]({{< ref "/f31/package/libvirt-glib.md" >}}) | 0 | 153 | 0.0 | Balochi (http://www.transifex.com/projects/p/libvirt-glib/language/bal/) | 
- | [libvirt-sandbox]({{< ref "/f31/package/libvirt-sandbox.md" >}}) | 0 | 617 | 0.0 | Balochi <trans-bal@lists.fedoraproject.org> | 
- | [mingw-libosinfo]({{< ref "/f31/package/mingw-libosinfo.md" >}}) | 0 | 777 | 0.0 | Baluchi | 
- | [mingw-libvirt]({{< ref "/f31/package/mingw-libvirt.md" >}}) | 0 | 64090 | 0.0 | Baluchi | 
- | [mingw-libvirt-glib]({{< ref "/f31/package/mingw-libvirt-glib.md" >}}) | 0 | 153 | 0.0 | Balochi (http://www.transifex.com/projects/p/libvirt-glib/language/bal/) | 
- | [mingw-osinfo-db-tools]({{< ref "/f31/package/mingw-osinfo-db-tools.md" >}}) | 0 | 222 | 0.0 | Baluchi | 
- | [osinfo-db-tools]({{< ref "/f31/package/osinfo-db-tools.md" >}}) | 0 | 222 | 0.0 | Baluchi | 
- | [pam]({{< ref "/f31/package/pam.md" >}}) | 0 | 597 | 0.0 | Balochi <trans-bal@lists.fedoraproject.org> | 
- | [pykickstart]({{< ref "/f31/package/pykickstart.md" >}}) | 0 | 1605 | 0.0 | Baluchi | 
- | [python-fedora]({{< ref "/f31/package/python-fedora.md" >}}) | 0 | 214 | 0.0 | Baluchi | 
- | [python-meh]({{< ref "/f31/package/python-meh.md" >}}) | 0 | 109 | 0.0 | Baluchi | 
- | [python-simpleline]({{< ref "/f31/package/python-simpleline.md" >}}) | 0 | 42 | 0.0 | Baluchi | 
- | [setroubleshoot]({{< ref "/f31/package/setroubleshoot.md" >}}) | 0 | 660 | 0.0 | Balochi (http://www.transifex.com/projects/p/fedora/language/bal/) | 
- | [setroubleshoot-plugins]({{< ref "/f31/package/setroubleshoot-plugins.md" >}}) | 0 | 6208 | 0.0 | Balochi (http://www.transifex.com/projects/p/fedora/language/bal/) | 
- | [system-config-users-docs]({{< ref "/f31/package/system-config-users-docs.md" >}}) | 0 | 1061 | 0.0 | LANGUAGE <LL@li.org> | 
- | [virt-viewer]({{< ref "/f31/package/virt-viewer.md" >}}) | 0 | 835 | 0.0 | Baluchi | 
+ | [newt](/f31/package/newt) | 4 | 4 | 100.0 | Balochi <fedora-trans-bal@redhat.com> | 
+ | [setuptool](/f31/package/setuptool) | 55 | 55 | 100.0 | Balochi <fedora-trans-bal@redhat.com> | 
+ | [chkconfig](/f31/package/chkconfig) | 413 | 555 | 74.4 | Balochi <trans-bal@lists.fedoraproject.org> | 
+ | [system-switch-mail](/f31/package/system-switch-mail) | 9 | 101 | 8.9 | Balochi <fedora-trans-bal@redhat.com> | 
+ | [policycoreutils](/f31/package/policycoreutils) | 7 | 4493 | 0.2 | Baluchi | 
+ | [anaconda](/f31/package/anaconda) | 0 | 7193 | 0.0 | Balochi (http://www.transifex.com/projects/p/anaconda/language/bal/) | 
+ | [certmonger](/f31/package/certmonger) | 0 | 2831 | 0.0 | Balochi (http://www.transifex.com/projects/p/certmonger/language/bal/) | 
+ | [entangle](/f31/package/entangle) | 0 | 953 | 0.0 | Baluchi | 
+ | [initial-setup](/f31/package/initial-setup) | 0 | 33 | 0.0 | Baluchi | 
+ | [initscripts](/f31/package/initscripts) | 0 | 1001 | 0.0 | Balochi <trans-bal@lists.fedoraproject.org> | 
+ | [libosinfo](/f31/package/libosinfo) | 0 | 777 | 0.0 | Baluchi | 
+ | [libvirt](/f31/package/libvirt) | 0 | 64581 | 0.0 | Baluchi | 
+ | [libvirt-glib](/f31/package/libvirt-glib) | 0 | 153 | 0.0 | Balochi (http://www.transifex.com/projects/p/libvirt-glib/language/bal/) | 
+ | [libvirt-sandbox](/f31/package/libvirt-sandbox) | 0 | 617 | 0.0 | Balochi <trans-bal@lists.fedoraproject.org> | 
+ | [mingw-libosinfo](/f31/package/mingw-libosinfo) | 0 | 777 | 0.0 | Baluchi | 
+ | [mingw-libvirt](/f31/package/mingw-libvirt) | 0 | 64090 | 0.0 | Baluchi | 
+ | [mingw-libvirt-glib](/f31/package/mingw-libvirt-glib) | 0 | 153 | 0.0 | Balochi (http://www.transifex.com/projects/p/libvirt-glib/language/bal/) | 
+ | [mingw-osinfo-db-tools](/f31/package/mingw-osinfo-db-tools) | 0 | 222 | 0.0 | Baluchi | 
+ | [osinfo-db-tools](/f31/package/osinfo-db-tools) | 0 | 222 | 0.0 | Baluchi | 
+ | [pam](/f31/package/pam) | 0 | 597 | 0.0 | Balochi <trans-bal@lists.fedoraproject.org> | 
+ | [pykickstart](/f31/package/pykickstart) | 0 | 1605 | 0.0 | Baluchi | 
+ | [python-fedora](/f31/package/python-fedora) | 0 | 214 | 0.0 | Baluchi | 
+ | [python-meh](/f31/package/python-meh) | 0 | 109 | 0.0 | Baluchi | 
+ | [python-simpleline](/f31/package/python-simpleline) | 0 | 42 | 0.0 | Baluchi | 
+ | [setroubleshoot](/f31/package/setroubleshoot) | 0 | 660 | 0.0 | Balochi (http://www.transifex.com/projects/p/fedora/language/bal/) | 
+ | [setroubleshoot-plugins](/f31/package/setroubleshoot-plugins) | 0 | 6208 | 0.0 | Balochi (http://www.transifex.com/projects/p/fedora/language/bal/) | 
+ | [system-config-users-docs](/f31/package/system-config-users-docs) | 0 | 1061 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [virt-viewer](/f31/package/virt-viewer) | 0 | 835 | 0.0 | Baluchi | 
 {.sortable}
 
 

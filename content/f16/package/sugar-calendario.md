@@ -18,7 +18,7 @@ The package sugar-calendario (version 3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [es]({{< ref "/f16/language/es.md" >}}) | 36 | 36 | 100.0 | /mnt/stockage/packages/f16/sugar-calendario/po/es.po | 
+ | [es](/f16/language/es) | 36 | 36 | 100.0 | /mnt/stockage/packages/f16/sugar-calendario/po/es.po | 
 {.sortable}
 
 

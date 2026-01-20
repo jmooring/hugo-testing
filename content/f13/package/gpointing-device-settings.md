@@ -18,19 +18,19 @@ The package gpointing-device-settings (version 1.5.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f13/language/cs.md" >}}) | 184 | 184 | 100.0 | /mnt/stockage/packages/f13/gpointing-device-settings/po/cs.po | 
- | [es]({{< ref "/f13/language/es.md" >}}) | 184 | 184 | 100.0 | /mnt/stockage/packages/f13/gpointing-device-settings/po/es.po | 
- | [sl]({{< ref "/f13/language/sl.md" >}}) | 184 | 184 | 100.0 | /mnt/stockage/packages/f13/gpointing-device-settings/po/sl.po | 
- | [fr]({{< ref "/f13/language/fr.md" >}}) | 156 | 169 | 92.3 | /mnt/stockage/packages/f13/gpointing-device-settings/po/fr.po | 
- | [gl]({{< ref "/f13/language/gl.md" >}}) | 156 | 169 | 92.3 | /mnt/stockage/packages/f13/gpointing-device-settings/po/gl.po | 
- | [pt]({{< ref "/f13/language/pt.md" >}}) | 156 | 169 | 92.3 | /mnt/stockage/packages/f13/gpointing-device-settings/po/pt.po | 
- | [de]({{< ref "/f13/language/de.md" >}}) | 175 | 199 | 87.9 | /mnt/stockage/packages/f13/gpointing-device-settings/po/de.po | 
- | [ja]({{< ref "/f13/language/ja.md" >}}) | 144 | 169 | 85.2 | /mnt/stockage/packages/f13/gpointing-device-settings/po/ja.po | 
- | [en_GB]({{< ref "/f13/language/en_GB.md" >}}) | 120 | 169 | 71.0 | /mnt/stockage/packages/f13/gpointing-device-settings/po/en_GB.po | 
- | [zh_Hans]({{< ref "/f13/language/zh_Hans.md" >}}) | 114 | 169 | 67.5 | /mnt/stockage/packages/f13/gpointing-device-settings/po/zh_CN.po | 
- | [pa]({{< ref "/f13/language/pa.md" >}}) | 87 | 169 | 51.5 | /mnt/stockage/packages/f13/gpointing-device-settings/po/pa.po | 
- | [el]({{< ref "/f13/language/el.md" >}}) | 24 | 169 | 14.2 | /mnt/stockage/packages/f13/gpointing-device-settings/po/el.po | 
- | [sv]({{< ref "/f13/language/sv.md" >}}) | 20 | 169 | 11.8 | /mnt/stockage/packages/f13/gpointing-device-settings/po/sv.po | 
+ | [cs](/f13/language/cs) | 184 | 184 | 100.0 | /mnt/stockage/packages/f13/gpointing-device-settings/po/cs.po | 
+ | [es](/f13/language/es) | 184 | 184 | 100.0 | /mnt/stockage/packages/f13/gpointing-device-settings/po/es.po | 
+ | [sl](/f13/language/sl) | 184 | 184 | 100.0 | /mnt/stockage/packages/f13/gpointing-device-settings/po/sl.po | 
+ | [fr](/f13/language/fr) | 156 | 169 | 92.3 | /mnt/stockage/packages/f13/gpointing-device-settings/po/fr.po | 
+ | [gl](/f13/language/gl) | 156 | 169 | 92.3 | /mnt/stockage/packages/f13/gpointing-device-settings/po/gl.po | 
+ | [pt](/f13/language/pt) | 156 | 169 | 92.3 | /mnt/stockage/packages/f13/gpointing-device-settings/po/pt.po | 
+ | [de](/f13/language/de) | 175 | 199 | 87.9 | /mnt/stockage/packages/f13/gpointing-device-settings/po/de.po | 
+ | [ja](/f13/language/ja) | 144 | 169 | 85.2 | /mnt/stockage/packages/f13/gpointing-device-settings/po/ja.po | 
+ | [en_GB](/f13/language/en_GB) | 120 | 169 | 71.0 | /mnt/stockage/packages/f13/gpointing-device-settings/po/en_GB.po | 
+ | [zh_Hans](/f13/language/zh_Hans) | 114 | 169 | 67.5 | /mnt/stockage/packages/f13/gpointing-device-settings/po/zh_CN.po | 
+ | [pa](/f13/language/pa) | 87 | 169 | 51.5 | /mnt/stockage/packages/f13/gpointing-device-settings/po/pa.po | 
+ | [el](/f13/language/el) | 24 | 169 | 14.2 | /mnt/stockage/packages/f13/gpointing-device-settings/po/el.po | 
+ | [sv](/f13/language/sv) | 20 | 169 | 11.8 | /mnt/stockage/packages/f13/gpointing-device-settings/po/sv.po | 
 {.sortable}
 
 

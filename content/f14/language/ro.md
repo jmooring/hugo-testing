@@ -45,559 +45,559 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [GConf2]({{< ref "/f14/package/GConf2.md" >}}) | 4035 | 4035 | 100.0 | Română <gnomero-list@lists.sourceforge.net> | 
- | [NetworkManager]({{< ref "/f14/package/NetworkManager.md" >}}) | 2037 | 2037 | 100.0 | Gnome Romanian Team <gnomero-list@lists.sourceforge.net> | 
- | [NetworkManager-pptp]({{< ref "/f14/package/NetworkManager-pptp.md" >}}) | 115 | 115 | 100.0 | Gnome Romanian Team <gnomero-list@lists.sourceforge.net> | 
- | [ORBit]({{< ref "/f14/package/ORBit.md" >}}) | 8 | 8 | 100.0 | LANGUAGE <LL@li.org> | 
- | [Terminal]({{< ref "/f14/package/Terminal.md" >}}) | 1193 | 1193 | 100.0 | Romanian <xfce-i18n@xfce.org> | 
- | [Thunar]({{< ref "/f14/package/Thunar.md" >}}) | 3865 | 3865 | 100.0 | Romanian <xfce-i18n@xfce.org> | 
- | [alacarte]({{< ref "/f14/package/alacarte.md" >}}) | 42 | 42 | 100.0 | Gnome Romanian Team <gnomero-list@lists.sourceforge.net> | 
- | [anerley]({{< ref "/f14/package/anerley.md" >}}) | 5 | 5 | 100.0 | Moblin Romania <live@moblin.ro> | 
- | [at-spi]({{< ref "/f14/package/at-spi.md" >}}) | 61 | 61 | 100.0 | Romanian GNOME Team <gnomero-list@lists.sourceforge.net> | 
- | [at-spi2-atk]({{< ref "/f14/package/at-spi2-atk.md" >}}) | 61 | 61 | 100.0 | Romanian GNOME Team <gnomero-list@lists.sourceforge.net> | 
- | [atk]({{< ref "/f14/package/atk.md" >}}) | 375 | 375 | 100.0 | Romanian <gnomero-list@lists.sourceforge.net> | 
- | [avr-gdb]({{< ref "/f14/package/avr-gdb.md" >}}) | 4961 | 4961 | 100.0 | Romanian <translation-team-ro@lists.sourceforge.net> | 
- | [balsa]({{< ref "/f14/package/balsa.md" >}}) | 5426 | 5426 | 100.0 | Romanian <gnomero-list@lists.sourceforge.net> | 
- | [bisho]({{< ref "/f14/package/bisho.md" >}}) | 143 | 143 | 100.0 | Moblin Romania <live@moblin.ro> | 
- | [bittorrent]({{< ref "/f14/package/bittorrent.md" >}}) | 3904 | 3904 | 100.0 | Lupoiu Victor Alexandru ( lupoiu [dot] victor [at] gmail[dot]com ) | 
- | [bognor-regis]({{< ref "/f14/package/bognor-regis.md" >}}) | 27 | 27 | 100.0 | Moblin Romania <live@moblin.ro> | 
- | [brasero]({{< ref "/f14/package/brasero.md" >}}) | 5552 | 5552 | 100.0 | Romanian Gnome Team <gnomero-list@lists.sourceforge.net> | 
- | [bygfoot]({{< ref "/f14/package/bygfoot.md" >}}) | 3720 | 3720 | 100.0 | Romanian <(Corectat şi completat Mihai Floran)> | 
- | [caribou]({{< ref "/f14/package/caribou.md" >}}) | 16 | 16 | 100.0 | Romanian Gnome Team <gnomero-list@lists.sourceforge.net> | 
- | [cheese]({{< ref "/f14/package/cheese.md" >}}) | 654 | 654 | 100.0 | Romanian GNOME Team <gnomero-list@lists.sourceforge.net> | 
- | [control-center]({{< ref "/f14/package/control-center.md" >}}) | 3526 | 3526 | 100.0 | Romanian Gnome Team <gnomero-list@lists.sourceforge.net> | 
- | [darktable]({{< ref "/f14/package/darktable.md" >}}) | 3633 | 3633 | 100.0 |  | 
- | [dasher]({{< ref "/f14/package/dasher.md" >}}) | 526 | 526 | 100.0 | Gnome Romanian Team <gnomero-list@lists.sourceforge.net> | 
- | [deskbar-applet]({{< ref "/f14/package/deskbar-applet.md" >}}) | 1670 | 1670 | 100.0 | Romanian GNOME Team <gnomero-list@lists.sourceforge.net> | 
- | [devhelp]({{< ref "/f14/package/devhelp.md" >}}) | 436 | 436 | 100.0 | Romanian Gnome Team <gnomero-list@lists.sourceforge.net> | 
- | [docky]({{< ref "/f14/package/docky.md" >}}) | 599 | 599 | 100.0 | Romanian <ro@li.org> | 
- | [empathy]({{< ref "/f14/package/empathy.md" >}}) | 3623 | 3623 | 100.0 | Romanian Gnome Team <gnomero-list@lists.sourceforge.net> | 
- | [eog]({{< ref "/f14/package/eog.md" >}}) | 1527 | 1527 | 100.0 | Romanian GNOME Team <gnomero-list@lists.sourceforge.net> | 
- | [epiphany]({{< ref "/f14/package/epiphany.md" >}}) | 3073 | 3073 | 100.0 | Romanian GNOME Team <gnomero-list@lists.sourceforge.net> | 
- | [epiphany-extensions]({{< ref "/f14/package/epiphany-extensions.md" >}}) | 888 | 888 | 100.0 | Gnome Romanian Team <gnomero-list@lists.sourceforge.net> | 
- | [evince]({{< ref "/f14/package/evince.md" >}}) | 1493 | 1493 | 100.0 | Romanian Gnome Team <gnomero-list@lists.sourceforge.net> | 
- | [evolution-exchange]({{< ref "/f14/package/evolution-exchange.md" >}}) | 2204 | 2204 | 100.0 | Romanian GNOME Team <gnomero-list@lists.sourceforge.net> | 
- | [evolution-mapi]({{< ref "/f14/package/evolution-mapi.md" >}}) | 518 | 518 | 100.0 | Romanian Gnome Team <gnomero-list@lists.sourceforge.net> | 
- | [exo]({{< ref "/f14/package/exo.md" >}}) | 1598 | 1598 | 100.0 | Romanian | 
- | [f-spot]({{< ref "/f14/package/f-spot.md" >}}) | 3729 | 3729 | 100.0 | Romanian Gnome Team <gnomero-list@lists.sourceforge.net> | 
- | [file-roller]({{< ref "/f14/package/file-roller.md" >}}) | 1370 | 1370 | 100.0 | Romanian GNOME Team <gnomero-list@lists.sourceforge.net> | 
- | [filezilla]({{< ref "/f14/package/filezilla.md" >}}) | 9145 | 9145 | 100.0 | MunteAlb, Laurențiu Anisie <muntealb@gmail.com> | 
- | [galeon]({{< ref "/f14/package/galeon.md" >}}) | 5575 | 5575 | 100.0 | Romanian <gnomero-list@lists.sourceforge.net> | 
- | [gbrainy]({{< ref "/f14/package/gbrainy.md" >}}) | 8683 | 8683 | 100.0 | Romanian Gnome Team <gnomero-list@lists.sourceforge.net> | 
- | [gconf-editor]({{< ref "/f14/package/gconf-editor.md" >}}) | 336 | 336 | 100.0 | Gnome Romanian Team <gnomero-list@lists.sourceforge.net> | 
- | [gdb]({{< ref "/f14/package/gdb.md" >}}) | 4961 | 4961 | 100.0 | Romanian <translation-team-ro@lists.sourceforge.net> | 
- | [gdm]({{< ref "/f14/package/gdm.md" >}}) | 1306 | 1306 | 100.0 | Romanian Gnome Team <gnomero-list@lists.sourceforge.net> | 
- | [gedit]({{< ref "/f14/package/gedit.md" >}}) | 5004 | 5004 | 100.0 | Gnome Romanian Team <gnomero-list@lists.sourceforge.net> | 
- | [gedit-plugins]({{< ref "/f14/package/gedit-plugins.md" >}}) | 3535 | 3535 | 100.0 | română <ro@li.org> | 
- | [geeqie]({{< ref "/f14/package/geeqie.md" >}}) | 3614 | 3614 | 100.0 | Romanian <rtfs-project@sourceforge.net> | 
- | [ggz-gtk-client]({{< ref "/f14/package/ggz-gtk-client.md" >}}) | 7 | 7 | 100.0 | Română <gnomero@lists.sourceforge.net> | 
- | [ghex]({{< ref "/f14/package/ghex.md" >}}) | 363 | 363 | 100.0 | Romanian <ro@li.org> | 
- | [gimp]({{< ref "/f14/package/gimp.md" >}}) | 26056 | 26056 | 100.0 | Gnome Romanian Team <gnomero-list@lists.sourceforge.net> | 
- | [gitg]({{< ref "/f14/package/gitg.md" >}}) | 1304 | 1304 | 100.0 | Romanian Gnome Team <gnomero-list@lists.sourceforge.net> | 
- | [glunarclock]({{< ref "/f14/package/glunarclock.md" >}}) | 226 | 226 | 100.0 | Romanian <translation-team-ro@lists.sourceforge.net> | 
- | [gmpc]({{< ref "/f14/package/gmpc.md" >}}) | 25 | 25 | 100.0 | Romanian <ro@li.org> | 
- | [gnome-applets]({{< ref "/f14/package/gnome-applets.md" >}}) | 3407 | 3407 | 100.0 | Romanian Gnome Team <gnomero-list@lists.sourceforge.net> | 
- | [gnome-backgrounds]({{< ref "/f14/package/gnome-backgrounds.md" >}}) | 23 | 23 | 100.0 | Gnome Romanian Team <gnomero-list@lists.sourceforge.net> | 
- | [gnome-bluetooth]({{< ref "/f14/package/gnome-bluetooth.md" >}}) | 664 | 664 | 100.0 | Romanian GNOME Team <gnomero-list@lists.sourceforge.net> | 
- | [gnome-desktop]({{< ref "/f14/package/gnome-desktop.md" >}}) | 438 | 438 | 100.0 | Romanian Gnome Team <gnomero-list@lists.sourceforge.net> | 
- | [gnome-desktop3]({{< ref "/f14/package/gnome-desktop3.md" >}}) | 349 | 349 | 100.0 | Gnome Romanian Team <gnomero-list@lists.sourceforge.net> | 
- | [gnome-disk-utility]({{< ref "/f14/package/gnome-disk-utility.md" >}}) | 4544 | 4544 | 100.0 | Romanian GNOME Team <gnomero-list@lists.sourceforge.net> | 
- | [gnome-doc-utils]({{< ref "/f14/package/gnome-doc-utils.md" >}}) | 251 | 251 | 100.0 | Romanian GNOME Team <gnomero-list@lists.sourceforge.net> | 
- | [gnome-games]({{< ref "/f14/package/gnome-games.md" >}}) | 7094 | 7094 | 100.0 | Romanian GNOME Team <gnomero-list@lists.sourceforge.net> | 
- | [gnome-icon-theme]({{< ref "/f14/package/gnome-icon-theme.md" >}}) | 20 | 20 | 100.0 | Romanian <gnomero-list@lists.sourceforge.net> | 
- | [gnome-keyring]({{< ref "/f14/package/gnome-keyring.md" >}}) | 1246 | 1246 | 100.0 | Romanian GNOME Team <gnomero-list@lists.sourceforge.net> | 
- | [gnome-mag]({{< ref "/f14/package/gnome-mag.md" >}}) | 298 | 298 | 100.0 | Gnome Romanian Team <gnomero-list@lists.sourceforge.net> | 
- | [gnome-menus]({{< ref "/f14/package/gnome-menus.md" >}}) | 161 | 161 | 100.0 | Romanian <gnomero-list@lists.sourceforge.net> | 
- | [gnome-mime-data]({{< ref "/f14/package/gnome-mime-data.md" >}}) | 887 | 887 | 100.0 | <@li.org> | 
- | [gnome-netstatus]({{< ref "/f14/package/gnome-netstatus.md" >}}) | 418 | 418 | 100.0 | Romanian <gnomero-list@lists.sourceforge.net> | 
- | [gnome-nettool]({{< ref "/f14/package/gnome-nettool.md" >}}) | 617 | 617 | 100.0 | Gnome Romanian Team <gnomero-list@lists.sourceforge.net> | 
- | [gnome-packagekit]({{< ref "/f14/package/gnome-packagekit.md" >}}) | 5361 | 5361 | 100.0 | Romanian GNOME Team <gnomero-list@lists.sourceforge.net> | 
- | [gnome-panel]({{< ref "/f14/package/gnome-panel.md" >}}) | 4556 | 4556 | 100.0 | Romanian GNOME Team <gnomero-list@lists.sourceforge.net> | 
- | [gnome-power-manager]({{< ref "/f14/package/gnome-power-manager.md" >}}) | 2727 | 2727 | 100.0 | Romanian GNOME Team <gnomero-list@lists.sourceforge.net> | 
- | [gnome-screensaver]({{< ref "/f14/package/gnome-screensaver.md" >}}) | 989 | 989 | 100.0 | Romanian <gnomero-list@lists.sourceforge.net> | 
- | [gnome-session]({{< ref "/f14/package/gnome-session.md" >}}) | 638 | 638 | 100.0 | Gnome Romanian Team <gnomero-list@lists.sourceforge.net> | 
- | [gnome-settings-daemon]({{< ref "/f14/package/gnome-settings-daemon.md" >}}) | 1988 | 1988 | 100.0 | Romanian Gnome Team <gnomero-list@lists.sourceforge.net> | 
- | [gnome-shell]({{< ref "/f14/package/gnome-shell.md" >}}) | 115 | 115 | 100.0 | Romanian <gnomero-list@lists.sourceforge.net> | 
- | [gnome-subtitles]({{< ref "/f14/package/gnome-subtitles.md" >}}) | 2719 | 2719 | 100.0 | Romanian Gnome Team <gnomero-list@lists.sourceforge.net> | 
- | [gnome-system-monitor]({{< ref "/f14/package/gnome-system-monitor.md" >}}) | 933 | 933 | 100.0 | Romanian <gnomero-list@lists.sourceforge.net> | 
- | [gnome-terminal]({{< ref "/f14/package/gnome-terminal.md" >}}) | 4141 | 4141 | 100.0 | Romanian GNOME Team <gnomero-list@lists.sourceforge.net> | 
- | [gnome-themes]({{< ref "/f14/package/gnome-themes.md" >}}) | 109 | 109 | 100.0 | Gnome Romanian Team <gnomero-list@lists.sourceforge.net> | 
- | [gnome-user-share]({{< ref "/f14/package/gnome-user-share.md" >}}) | 333 | 333 | 100.0 | Romanian Gnome Team <gnomero-list@lists.sourceforge.net> | 
- | [gnome-utils]({{< ref "/f14/package/gnome-utils.md" >}}) | 3921 | 3921 | 100.0 | Gnome Romanian Team <gnomero-list@lists.sourceforge.net> | 
- | [gnome-vfs2]({{< ref "/f14/package/gnome-vfs2.md" >}}) | 1519 | 1519 | 100.0 | Gnome Romanian Team <gnomero-list@lists.sourceforge.net> | 
- | [gnome-video-effects]({{< ref "/f14/package/gnome-video-effects.md" >}}) | 26 | 26 | 100.0 | Romanian Gnome Team <gnomero-list@lists.sourceforge.net> | 
- | [gnote]({{< ref "/f14/package/gnote.md" >}}) | 2283 | 2283 | 100.0 | Romanian Gnome Team <gnomero-list@lists.sourceforge.net> | 
- | [gok]({{< ref "/f14/package/gok.md" >}}) | 1915 | 1915 | 100.0 | Romanian GNOME Team <gnomero-list@lists.sourceforge.net> | 
- | [gparted]({{< ref "/f14/package/gparted.md" >}}) | 1581 | 1581 | 100.0 | Romanian GNOME Team <gnomero-list@lists.sourceforge.net> | 
- | [gstreamer-plugins-bad-free]({{< ref "/f14/package/gstreamer-plugins-bad-free.md" >}}) | 72 | 72 | 100.0 | Romanian <translation-team-ro@lists.sourceforge.net> | 
- | [gtk+]({{< ref "/f14/package/gtk+.md" >}}) | 202 | 202 | 100.0 | Romanian <ro@li.org> | 
- | [gtk-vnc]({{< ref "/f14/package/gtk-vnc.md" >}}) | 8 | 8 | 100.0 | Romanian Gnome Team <gnomero-list@lists.sourceforge.net> | 
- | [gtk2-engines]({{< ref "/f14/package/gtk2-engines.md" >}}) | 119 | 119 | 100.0 | Gnome Romanian Team <gnomero-list@lists.sourceforge.net> | 
- | [gtk3-engines]({{< ref "/f14/package/gtk3-engines.md" >}}) | 119 | 119 | 100.0 | Gnome Romanian Team <gnomero-list@lists.sourceforge.net> | 
- | [gtkhtml3]({{< ref "/f14/package/gtkhtml3.md" >}}) | 713 | 713 | 100.0 | Romanian GNOME Team <gnomero-list@lists.sourceforge.net> | 
- | [gtksourceview]({{< ref "/f14/package/gtksourceview.md" >}}) | 821 | 821 | 100.0 | Romanian <gnomero-list@lists.sourceforge.net> | 
- | [gtksourceview2]({{< ref "/f14/package/gtksourceview2.md" >}}) | 1413 | 1413 | 100.0 | Romanian GNOME Team <gnomero-list@lists.sourceforge.net> | 
- | [gtksourceview3]({{< ref "/f14/package/gtksourceview3.md" >}}) | 1413 | 1413 | 100.0 | Romanian GNOME Team <gnomero-list@lists.sourceforge.net> | 
- | [gtkspell]({{< ref "/f14/package/gtkspell.md" >}}) | 11 | 11 | 100.0 | Romanian <translation-team-ro@lists.sourceforge.net> | 
- | [gucharmap]({{< ref "/f14/package/gucharmap.md" >}}) | 863 | 863 | 100.0 | Romanian Gnome Team <gnomero-list@lists.sourceforge.net> | 
- | [gvfs]({{< ref "/f14/package/gvfs.md" >}}) | 1983 | 1983 | 100.0 | Romanian Gnome Team <gnomero-list@lists.sourceforge.net> | 
- | [hamster-applet]({{< ref "/f14/package/hamster-applet.md" >}}) | 717 | 717 | 100.0 | Romanian Gnome Team <gnomero-list@lists.sourceforge.net> | 
- | [horde]({{< ref "/f14/package/horde.md" >}}) | 773 | 773 | 100.0 | ROMANIAN <i18n@lists.horde.org> | 
- | [ingo]({{< ref "/f14/package/ingo.md" >}}) | 418 | 418 | 100.0 | Romanian <i18n@lists.horde.org> | 
- | [insight]({{< ref "/f14/package/insight.md" >}}) | 4961 | 4961 | 100.0 | Romanian <translation-team-ro@lists.sourceforge.net> | 
- | [isomaster]({{< ref "/f14/package/isomaster.md" >}}) | 674 | 674 | 100.0 | English <en@li.org> | 
- | [kbd]({{< ref "/f14/package/kbd.md" >}}) | 1641 | 1641 | 100.0 | Romanian <translation-team-ro@lists.sourceforge.net> | 
- | [kgrab]({{< ref "/f14/package/kgrab.md" >}}) | 370 | 370 | 100.0 | Română <kde-i18n-ro@kde.org> | 
- | [kiconedit]({{< ref "/f14/package/kiconedit.md" >}}) | 726 | 726 | 100.0 | Romanian <kde-i18n-ro@lists.kde.org> | 
- | [kio_gopher]({{< ref "/f14/package/kio_gopher.md" >}}) | 17 | 17 | 100.0 | Romanian <kde-i18n-ro@lists.kde.org> | 
- | [konq-plugins]({{< ref "/f14/package/konq-plugins.md" >}}) | 1692 | 1692 | 100.0 | Romanian <kde-i18n-ro@lists.kde.org> | 
- | [kronolith]({{< ref "/f14/package/kronolith.md" >}}) | 401 | 401 | 100.0 | Romanian <i18n@lists.horde.org> | 
- | [ksig]({{< ref "/f14/package/ksig.md" >}}) | 85 | 85 | 100.0 | Romanian <kde-i18n-ro@kde.org> | 
- | [libbonobo]({{< ref "/f14/package/libbonobo.md" >}}) | 543 | 543 | 100.0 | Romanian <gnomero-list@lists.sourceforge.net> | 
- | [libbonoboui]({{< ref "/f14/package/libbonoboui.md" >}}) | 368 | 368 | 100.0 | Romanian <gnomero-list@lists.sourceforge.net> | 
- | [libgdl]({{< ref "/f14/package/libgdl.md" >}}) | 600 | 600 | 100.0 | Gnome Romanian Team <gnomero-list@lists.sourceforge.net> | 
- | [libgnome]({{< ref "/f14/package/libgnome.md" >}}) | 1773 | 1773 | 100.0 | <gnomero-list@lists.sourceforge.net> | 
- | [libgnome-keyring]({{< ref "/f14/package/libgnome-keyring.md" >}}) | 44 | 44 | 100.0 | Romanian <gnomero-list@lists.sourceforge.net> | 
- | [libgnomecanvas]({{< ref "/f14/package/libgnomecanvas.md" >}}) | 378 | 378 | 100.0 | Romanian <gnomero-list@lists.sourceforge.net> | 
- | [libgnomekbd]({{< ref "/f14/package/libgnomekbd.md" >}}) | 286 | 286 | 100.0 | Romanian GNOME Team <gnomero-list@lists.sourceforge.net> | 
- | [libgnomeprint22]({{< ref "/f14/package/libgnomeprint22.md" >}}) | 168 | 168 | 100.0 | Romanian <gnomero-list@lists.sourceforge.net> | 
- | [libgnomeprintui22]({{< ref "/f14/package/libgnomeprintui22.md" >}}) | 481 | 481 | 100.0 | română <gnomero-list@lists.sourceforge.net> | 
- | [libgnomeui]({{< ref "/f14/package/libgnomeui.md" >}}) | 1226 | 1226 | 100.0 | <gnomero-list@lists.sourceforge.net> | 
- | [libgtop2]({{< ref "/f14/package/libgtop2.md" >}}) | 126 | 126 | 100.0 | Romanian <gnomero-list@lists.sourceforge.net> | 
- | [libgweather]({{< ref "/f14/package/libgweather.md" >}}) | 6090 | 6090 | 100.0 | Romanian GNOME Team <gnomero-list@lists.sourceforge.net> | 
- | [libmx]({{< ref "/f14/package/libmx.md" >}}) | 40 | 40 | 100.0 | Moblin Romania <live@moblin.ro> | 
- | [libsocialweb]({{< ref "/f14/package/libsocialweb.md" >}}) | 136 | 136 | 100.0 | Moblin Romania <live@moblin.ro> | 
- | [libwnck]({{< ref "/f14/package/libwnck.md" >}}) | 1124 | 1124 | 100.0 | Romanian GNOME Team <gnomero-list@lists.sourceforge.net> | 
- | [libxfce4menu]({{< ref "/f14/package/libxfce4menu.md" >}}) | 31 | 31 | 100.0 | Romanian | 
- | [libxfce4util]({{< ref "/f14/package/libxfce4util.md" >}}) | 413 | 413 | 100.0 | Romanian | 
- | [libxfcegui4]({{< ref "/f14/package/libxfcegui4.md" >}}) | 234 | 234 | 100.0 | Romanian | 
- | [licq]({{< ref "/f14/package/licq.md" >}}) | 30 | 30 | 100.0 | Romanian <ro@li.org> | 
- | [liferea]({{< ref "/f14/package/liferea.md" >}}) | 2411 | 2411 | 100.0 | Romanian <translation-team-ro@lists.sourceforge.net> | 
- | [lxmenu-data]({{< ref "/f14/package/lxmenu-data.md" >}}) | 97 | 97 | 100.0 | Romanian <gnomero-list@lists.sourceforge.net> | 
- | [lxsession]({{< ref "/f14/package/lxsession.md" >}}) | 37 | 37 | 100.0 | Romanian <LL@li.org> | 
- | [metacity]({{< ref "/f14/package/metacity.md" >}}) | 3798 | 3798 | 100.0 | Romanian GNOME Team <gnomero-list@lists.sourceforge.net> | 
- | [midori]({{< ref "/f14/package/midori.md" >}}) | 2458 | 2458 | 100.0 | Romanian <xfce-i18n@xfce.org> | 
- | [mingw-gdb]({{< ref "/f14/package/mingw-gdb.md" >}}) | 4961 | 4961 | 100.0 | Romanian <translation-team-ro@lists.sourceforge.net> | 
- | [mingw32-atk]({{< ref "/f14/package/mingw32-atk.md" >}}) | 375 | 375 | 100.0 | Romanian <gnomero-list@lists.sourceforge.net> | 
- | [mingw32-gtkhtml3]({{< ref "/f14/package/mingw32-gtkhtml3.md" >}}) | 713 | 713 | 100.0 | Romanian GNOME Team <gnomero-list@lists.sourceforge.net> | 
- | [moblin-panel-applications]({{< ref "/f14/package/moblin-panel-applications.md" >}}) | 5 | 5 | 100.0 | Moblin Romania <live@moblin.ro> | 
- | [moblin-panel-media]({{< ref "/f14/package/moblin-panel-media.md" >}}) | 55 | 55 | 100.0 | Moblin Romania <live@moblin.ro> | 
- | [moblin-panel-myzone]({{< ref "/f14/package/moblin-panel-myzone.md" >}}) | 66 | 66 | 100.0 | Moblin Romania <live@moblin.ro> | 
- | [moblin-panel-people]({{< ref "/f14/package/moblin-panel-people.md" >}}) | 44 | 44 | 100.0 | Moblin Romania <live@moblin.ro> | 
- | [moblin-panel-status]({{< ref "/f14/package/moblin-panel-status.md" >}}) | 76 | 76 | 100.0 | Moblin Romania <live@moblin.ro> | 
- | [mousetweaks]({{< ref "/f14/package/mousetweaks.md" >}}) | 698 | 698 | 100.0 | Romanian Gnome Team <gnomero-list@lists.sourceforge.net> | 
- | [mutter]({{< ref "/f14/package/mutter.md" >}}) | 3864 | 3864 | 100.0 | Gnome Romanian Team <gnomero-list@lists.sourceforge.net> | 
- | [mutter-mbl]({{< ref "/f14/package/mutter-mbl.md" >}}) | 3864 | 3864 | 100.0 | Gnome Romanian Team <gnomero-list@lists.sourceforge.net> | 
- | [mutter-moblin]({{< ref "/f14/package/mutter-moblin.md" >}}) | 88 | 88 | 100.0 | Moblin Romania <live@moblin.ro> | 
- | [nautilus]({{< ref "/f14/package/nautilus.md" >}}) | 8891 | 8891 | 100.0 | Romanian Gnome Team <gnomero-list@lists.sourceforge.net> | 
- | [nautilus-open-terminal]({{< ref "/f14/package/nautilus-open-terminal.md" >}}) | 166 | 166 | 100.0 | Română <gnomero-list@lists.sourceforge.net> | 
- | [nautilus-sendto]({{< ref "/f14/package/nautilus-sendto.md" >}}) | 316 | 316 | 100.0 | Romanian <gnomero-list@lists.sourceforge.net> | 
- | [nbtk]({{< ref "/f14/package/nbtk.md" >}}) | 44 | 44 | 100.0 | Moblin Romania <live@moblin.ro> | 
- | [netactview]({{< ref "/f14/package/netactview.md" >}}) | 279 | 279 | 100.0 | Romanian | 
- | [newt]({{< ref "/f14/package/newt.md" >}}) | 4 | 4 | 100.0 | Romanian <Romanian> | 
- | [oggconvert]({{< ref "/f14/package/oggconvert.md" >}}) | 132 | 132 | 100.0 | Romanian <ro@li.org> | 
- | [orca]({{< ref "/f14/package/orca.md" >}}) | 4011 | 4011 | 100.0 | Romanian GNOME Team <gnomero-list@lists.sourceforge.net> | 
- | [pam_krb5]({{< ref "/f14/package/pam_krb5.md" >}}) | 7 | 7 | 100.0 | Romanian <gnomero-list@lists.sourceforge.net> | 
- | [parcellite]({{< ref "/f14/package/parcellite.md" >}}) | 149 | 149 | 100.0 |  | 
- | [pessulus]({{< ref "/f14/package/pessulus.md" >}}) | 130 | 130 | 100.0 | Romanian <gnomero-list@lists.sourceforge.net> | 
- | [pidgin]({{< ref "/f14/package/pidgin.md" >}}) | 18328 | 18328 | 100.0 | Romanian (http://www.transifex.net/projects/p/pidgin/team/ro/) | 
- | [pidgin-gfire]({{< ref "/f14/package/pidgin-gfire.md" >}}) | 1173 | 1173 | 100.0 |  | 
- | [pidgin-musictracker]({{< ref "/f14/package/pidgin-musictracker.md" >}}) | 333 | 333 | 100.0 | Romanian <ro@li.org> | 
- | [pino]({{< ref "/f14/package/pino.md" >}}) | 352 | 352 | 100.0 | Romanian <none@email.com> | 
- | [pitivi]({{< ref "/f14/package/pitivi.md" >}}) | 1306 | 1306 | 100.0 | Gnome Romanian Team <gnomero-list@lists.sourceforge.net> | 
- | [pmount]({{< ref "/f14/package/pmount.md" >}}) | 723 | 723 | 100.0 | Romanian <ro@li.org> | 
- | [pootle]({{< ref "/f14/package/pootle.md" >}}) | 2424 | 2424 | 100.0 | Romanian | 
- | [postgresql]({{< ref "/f14/package/postgresql.md" >}}) | 2696 | 2696 | 100.0 | Română <en@li.org> | 
- | [powertop]({{< ref "/f14/package/powertop.md" >}}) | 1041 | 1041 | 100.0 | Moblin Romania <live@moblin.ro> | 
- | [prozilla]({{< ref "/f14/package/prozilla.md" >}}) | 913 | 913 | 100.0 | RTFS <rtfs-project@lists.sourceforge.net> | 
- | [pybliographer]({{< ref "/f14/package/pybliographer.md" >}}) | 965 | 965 | 100.0 | Romanian Gnome Team <gnomero-list@lists.sourceforge.net> | 
- | [quitcount]({{< ref "/f14/package/quitcount.md" >}}) | 166 | 166 | 100.0 | Ubuntu Romanian Quality Assurance | 
- | [radiotray]({{< ref "/f14/package/radiotray.md" >}}) | 95 | 95 | 100.0 | Romanian (http://www.transifex.net/projects/p/radiotray/team/ro/) | 
- | [redhat-menus]({{< ref "/f14/package/redhat-menus.md" >}}) | 261 | 261 | 100.0 | <en@li.org> | 
- | [rednotebook]({{< ref "/f14/package/rednotebook.md" >}}) | 978 | 978 | 100.0 | Romanian <ro@li.org> | 
- | [rhnsd]({{< ref "/f14/package/rhnsd.md" >}}) | 42 | 42 | 100.0 | Romanian <gnomero-list@lists.sourceforge.net> | 
- | [sabayon]({{< ref "/f14/package/sabayon.md" >}}) | 743 | 743 | 100.0 | Gnome Romanian Team <gnomero-list@lists.sourceforge.net> | 
- | [seahorse]({{< ref "/f14/package/seahorse.md" >}}) | 3061 | 3061 | 100.0 | Romanian GNOME Team <gnomero-list@lists.sourceforge.net> | 
- | [seahorse-plugins]({{< ref "/f14/package/seahorse-plugins.md" >}}) | 1148 | 1148 | 100.0 | Romanian <gnomero-list@lists.sourceforge.net> | 
- | [shared-mime-info]({{< ref "/f14/package/shared-mime-info.md" >}}) | 1569 | 1569 | 100.0 | Romanian Gnome Team <gnomero-list@lists.sourceforge.net> | 
- | [shotwell]({{< ref "/f14/package/shotwell.md" >}}) | 3707 | 3707 | 100.0 | LANGUAGE <LL@li.org> | 
- | [simple-scan]({{< ref "/f14/package/simple-scan.md" >}}) | 651 | 651 | 100.0 | Romanian <translation-team-ro@lists.sourceforge.net> | 
- | [sound-juicer]({{< ref "/f14/package/sound-juicer.md" >}}) | 986 | 986 | 100.0 | Romanian Gnome Team <gnomero-list@lists.sourceforge.net> | 
- | [steghide]({{< ref "/f14/package/steghide.md" >}}) | 1859 | 1859 | 100.0 | ROMANIAN <lacroix-iv(NO SPAM)@go.ro> | 
- | [subdownloader]({{< ref "/f14/package/subdownloader.md" >}}) | 968 | 968 | 100.0 | Romanian Gnome Team <gnomero-list@lists.sourceforge.net> | 
- | [sugar-connect]({{< ref "/f14/package/sugar-connect.md" >}}) | 31 | 31 | 100.0 | LANGUAGE <LL@li.org> | 
- | [switchdesk]({{< ref "/f14/package/switchdesk.md" >}}) | 137 | 137 | 100.0 | Romanian <gnomero-list@lists.sourceforge.net> | 
- | [syncevolution]({{< ref "/f14/package/syncevolution.md" >}}) | 564 | 564 | 100.0 | Moblin Romania <live@moblin.ro> | 
- | [sysstat]({{< ref "/f14/package/sysstat.md" >}}) | 234 | 234 | 100.0 | Romanian | 
- | [system-config-httpd]({{< ref "/f14/package/system-config-httpd.md" >}}) | 858 | 858 | 100.0 | <ro@li.org> | 
- | [system-config-netboot]({{< ref "/f14/package/system-config-netboot.md" >}}) | 1103 | 1103 | 100.0 | <ro@li.org> | 
- | [system-switch-java]({{< ref "/f14/package/system-switch-java.md" >}}) | 81 | 81 | 100.0 | Romanian | 
- | [system-switch-mail]({{< ref "/f14/package/system-switch-mail.md" >}}) | 134 | 134 | 100.0 | Romanian <gnomero-list@lists.sourceforge.net> | 
- | [tasks]({{< ref "/f14/package/tasks.md" >}}) | 301 | 301 | 100.0 | Romanian Gnome Team <gnomero-list@lists.sourceforge.net> | 
- | [terminator]({{< ref "/f14/package/terminator.md" >}}) | 339 | 339 | 100.0 | Romanian <ro@li.org> | 
- | [texlive]({{< ref "/f14/package/texlive.md" >}}) | 4382 | 4382 | 100.0 | Romanian <translation-team-ro@lists.sourceforge.net> | 
- | [tomboy]({{< ref "/f14/package/tomboy.md" >}}) | 3104 | 3104 | 100.0 | Romanian Gnome Team <gnomero-list@lists.sourceforge.net> | 
- | [toppler]({{< ref "/f14/package/toppler.md" >}}) | 552 | 552 | 100.0 | Romanian <debian-l10n-romanian@lists.debian.org> | 
- | [totem]({{< ref "/f14/package/totem.md" >}}) | 2699 | 2699 | 100.0 | Romanian Gnome Team <gnomero-list@lists.sourceforge.net> | 
- | [totem-pl-parser]({{< ref "/f14/package/totem-pl-parser.md" >}}) | 28 | 28 | 100.0 | RGnome Romanian Team <gnomero-list@lists.sourceforge.net> | 
- | [turba]({{< ref "/f14/package/turba.md" >}}) | 502 | 502 | 100.0 | Romanian <i18n@lists.horde.org> | 
- | [txt2regex]({{< ref "/f14/package/txt2regex.md" >}}) | 277 | 277 | 100.0 | Romanian team | 
- | [vinagre]({{< ref "/f14/package/vinagre.md" >}}) | 1599 | 1599 | 100.0 | Romanian GNOME Team <gnomero-list@lists.sourceforge.net> | 
- | [vino]({{< ref "/f14/package/vino.md" >}}) | 1215 | 1215 | 100.0 | Romanian <gnomero-list@lists.sourceforge.net> | 
- | [vte]({{< ref "/f14/package/vte.md" >}}) | 80 | 80 | 100.0 | Romanian Gnome Team <gnomero-list@lists.sourceforge.net> | 
- | [xcdroast]({{< ref "/f14/package/xcdroast.md" >}}) | 8044 | 8044 | 100.0 | Romanian <jamess@linuxwaves.com> | 
- | [xdg-user-dirs]({{< ref "/f14/package/xdg-user-dirs.md" >}}) | 28 | 28 | 100.0 | Romanian <translation-team-ro@lists.sourceforge.net> | 
- | [xfce-utils]({{< ref "/f14/package/xfce-utils.md" >}}) | 131 | 131 | 100.0 | Romanian <xfce-i18n@xfce.org> | 
- | [xfce4-appfinder]({{< ref "/f14/package/xfce4-appfinder.md" >}}) | 84 | 84 | 100.0 | Romanian <xfce-i18n@xfce.org> | 
- | [xfce4-icon-theme]({{< ref "/f14/package/xfce4-icon-theme.md" >}}) | 8 | 8 | 100.0 | Romanian | 
- | [xfce4-places-plugin]({{< ref "/f14/package/xfce4-places-plugin.md" >}}) | 75 | 75 | 100.0 | Romanian <debian-l10n-romanian@lists.debian.org> | 
- | [xfce4-session]({{< ref "/f14/package/xfce4-session.md" >}}) | 988 | 988 | 100.0 | Romanian <xfce-i18n@xfce.org> | 
- | [xfce4-xkb-plugin]({{< ref "/f14/package/xfce4-xkb-plugin.md" >}}) | 64 | 64 | 100.0 | Romanian <debian-l10n-romanian@lists.debian.org> | 
- | [xfconf]({{< ref "/f14/package/xfconf.md" >}}) | 421 | 421 | 100.0 | Romanian | 
- | [xfdesktop]({{< ref "/f14/package/xfdesktop.md" >}}) | 1002 | 1002 | 100.0 | Romanian <xfce-i18n@xfce.org> | 
- | [xfwm4]({{< ref "/f14/package/xfwm4.md" >}}) | 797 | 797 | 100.0 | Romanian <xfce-i18n@xfce.org> | 
- | [yelp]({{< ref "/f14/package/yelp.md" >}}) | 1094 | 1094 | 100.0 | Română <gnomero@lists.sourceforge.net> | 
- | [yelp-xsl]({{< ref "/f14/package/yelp-xsl.md" >}}) | 249 | 249 | 100.0 | Gnome Romanian Team <gnomero-list@lists.sourceforge.net> | 
- | [zenity]({{< ref "/f14/package/zenity.md" >}}) | 631 | 631 | 100.0 | Romanian Gnome Team <gnomero-list@lists.sourceforge.net> | 
- | [gtk2]({{< ref "/f14/package/gtk2.md" >}}) | 13699 | 13704 | 100.0 | Romanian GNOME Team <gnomero-list@lists.sourceforge.net> | 
- | [mingw32-gtk2]({{< ref "/f14/package/mingw32-gtk2.md" >}}) | 13699 | 13704 | 100.0 | Romanian GNOME Team <gnomero-list@lists.sourceforge.net> | 
- | [gnupg]({{< ref "/f14/package/gnupg.md" >}}) | 8622 | 8629 | 99.9 | Romanian <translation-team-ro@lists.sourceforge.net> | 
- | [nemiver]({{< ref "/f14/package/nemiver.md" >}}) | 1101 | 1102 | 99.9 | Romanian Gnome Team <gnomero-list@lists.sourceforge.net> | 
- | [bluedevil]({{< ref "/f14/package/bluedevil.md" >}}) | 603 | 604 | 99.8 | Romanian <kde-i18n-ro@kde.org> | 
- | [sepostgresql]({{< ref "/f14/package/sepostgresql.md" >}}) | 4900 | 4910 | 99.8 | Română <max@oceanline.ro> | 
- | [ekiga]({{< ref "/f14/package/ekiga.md" >}}) | 4034 | 4043 | 99.8 | Romanian <gnomero-list@lists.sourceforge.net> | 
- | [gambas2]({{< ref "/f14/package/gambas2.md" >}}) | 2589 | 2596 | 99.7 | LANGUAGE <LL@li.org> | 
- | [xfprint]({{< ref "/f14/package/xfprint.md" >}}) | 321 | 322 | 99.7 | Romanian <gnomero-list@lists.sourceforge.net> | 
- | [glib2]({{< ref "/f14/package/glib2.md" >}}) | 4389 | 4403 | 99.7 | Romanian Gnome Team <gnomero-list@lists.sourceforge.net> | 
- | [mingw32-glib2]({{< ref "/f14/package/mingw32-glib2.md" >}}) | 4389 | 4403 | 99.7 | Romanian Gnome Team <gnomero-list@lists.sourceforge.net> | 
- | [gwget]({{< ref "/f14/package/gwget.md" >}}) | 274 | 275 | 99.6 | Romanian <gnomero-list@lists.sourceforge.net> | 
- | [evolution]({{< ref "/f14/package/evolution.md" >}}) | 21479 | 21558 | 99.6 | Romanian Gnome Team <gnomero-list@lists.sourceforge.net> | 
- | [celestia]({{< ref "/f14/package/celestia.md" >}}) | 1971 | 1979 | 99.6 | LANGUAGE <LL@li.org> | 
- | [gtk3]({{< ref "/f14/package/gtk3.md" >}}) | 11936 | 11998 | 99.5 | Romanian GNOME Team <gnomero-list@lists.sourceforge.net> | 
- | [xfce4-panel]({{< ref "/f14/package/xfce4-panel.md" >}}) | 537 | 540 | 99.4 | Romanian <xfce-i18n@xfce.org> | 
- | [aspell]({{< ref "/f14/package/aspell.md" >}}) | 1715 | 1726 | 99.4 | Romanian <translation-team-ro@lists.sourceforge.net> | 
- | [gdk-pixbuf2]({{< ref "/f14/package/gdk-pixbuf2.md" >}}) | 1297 | 1313 | 98.8 | Romanian GNOME Team <gnomero-list@lists.sourceforge.net> | 
- | [mingw32-gdk-pixbuf]({{< ref "/f14/package/mingw32-gdk-pixbuf.md" >}}) | 1297 | 1313 | 98.8 | Romanian GNOME Team <gnomero-list@lists.sourceforge.net> | 
- | [rhythmbox]({{< ref "/f14/package/rhythmbox.md" >}}) | 10004 | 10151 | 98.6 | Romanian Gnome Team <gnomero-list@lists.sourceforge.net> | 
- | [squirrelmail]({{< ref "/f14/package/squirrelmail.md" >}}) | 8203 | 8325 | 98.5 | Romanian <squirrelmail-i18n@lists.sourceforge.net> | 
- | [ario]({{< ref "/f14/package/ario.md" >}}) | 768 | 780 | 98.5 | Romanian <ro@li.org> | 
- | [usermode]({{< ref "/f14/package/usermode.md" >}}) | 570 | 579 | 98.4 | Romanian <gnomero-list@lists.sourceforge.net> | 
- | [flex]({{< ref "/f14/package/flex.md" >}}) | 1052 | 1069 | 98.4 | Romanian <translation-team-ro@lists.sourceforge.net> | 
- | [gpsdrive]({{< ref "/f14/package/gpsdrive.md" >}}) | 1590 | 1616 | 98.4 | Romanian <translation-team-ro@lists.sourceforge.net> | 
- | [poedit]({{< ref "/f14/package/poedit.md" >}}) | 1143 | 1162 | 98.4 | MunteAlb, Romanian Translators for Free Software <muntealb@gmail.com> | 
- | [vdr]({{< ref "/f14/package/vdr.md" >}}) | 793 | 807 | 98.3 | Romanian | 
- | [pinfo]({{< ref "/f14/package/pinfo.md" >}}) | 315 | 321 | 98.1 | Romanian <debian-l10n-romanian@lists.debian.org> | 
- | [sylpheed]({{< ref "/f14/package/sylpheed.md" >}}) | 6765 | 6904 | 98.0 | Gnome Romanian Team <gnomero-list@lists.sourceforge.net> | 
- | [gnome-media]({{< ref "/f14/package/gnome-media.md" >}}) | 1208 | 1238 | 97.6 | Romanian Gnome Team <gnomero-list@lists.sourceforge.net> | 
- | [evolution-data-server]({{< ref "/f14/package/evolution-data-server.md" >}}) | 4363 | 4482 | 97.3 | Romanian GNOME Team <gnomero-list@lists.sourceforge.net> | 
- | [wormux]({{< ref "/f14/package/wormux.md" >}}) | 1865 | 1916 | 97.3 | Romanian <debian-l10n-romanian@lists.debian.org> | 
- | [passwd]({{< ref "/f14/package/passwd.md" >}}) | 291 | 299 | 97.3 | <ro@li.org> | 
- | [sugar-write]({{< ref "/f14/package/sugar-write.md" >}}) | 71 | 73 | 97.3 | LANGUAGE <LL@li.org> | 
- | [dexter]({{< ref "/f14/package/dexter.md" >}}) | 221 | 228 | 96.9 | Romanian <ro@li.org> | 
- | [gstreamer]({{< ref "/f14/package/gstreamer.md" >}}) | 1828 | 1898 | 96.3 | Romanian <translation-team-ro@lists.sourceforge.net> | 
- | [kmymoney]({{< ref "/f14/package/kmymoney.md" >}}) | 17964 | 18793 | 95.6 | Romanian <kde-i18n-ro@kde.org> | 
- | [kdesvn]({{< ref "/f14/package/kdesvn.md" >}}) | 4095 | 4287 | 95.5 | Romanian <kde-i18n-doc@lists.kde.org> | 
- | [gstreamer-plugins-good]({{< ref "/f14/package/gstreamer-plugins-good.md" >}}) | 750 | 788 | 95.2 | Romanian <translation-team-ro@lists.sourceforge.net> | 
- | [gcalctool]({{< ref "/f14/package/gcalctool.md" >}}) | 1073 | 1128 | 95.1 | Romanian Gnome Team <gnomero-list@lists.sourceforge.net> | 
- | [xaos]({{< ref "/f14/package/xaos.md" >}}) | 858 | 907 | 94.6 | The XaoS Development Team <xaos-devel@lists.sf.net> | 
- | [kopete-cryptography]({{< ref "/f14/package/kopete-cryptography.md" >}}) | 384 | 408 | 94.1 | Romanian <kde-i18n-ro@lists.kde.org> | 
- | [sentinella]({{< ref "/f14/package/sentinella.md" >}}) | 409 | 435 | 94.0 | Romanian <vasilescu.laura@gmail.com> | 
- | [polkit-kde]({{< ref "/f14/package/polkit-kde.md" >}}) | 86 | 92 | 93.5 | Română <kde-i18n-ro@kde.org> | 
- | [rygel]({{< ref "/f14/package/rygel.md" >}}) | 554 | 597 | 92.8 | Romanian Gnome Team <gnomero-list@lists.sourceforge.net> | 
- | [system-config-nfs]({{< ref "/f14/package/system-config-nfs.md" >}}) | 306 | 332 | 92.2 | <ro@li.org> | 
- | [xmms]({{< ref "/f14/package/xmms.md" >}}) | 3164 | 3443 | 91.9 | Romanian | 
- | [gftp]({{< ref "/f14/package/gftp.md" >}}) | 3096 | 3375 | 91.7 | Română <gnomero@lists.sourceforge.net> | 
- | [jwhois]({{< ref "/f14/package/jwhois.md" >}}) | 401 | 440 | 91.1 | Romanian <translation-team-ro@lists.sourceforge.net> | 
- | [gnome-libs]({{< ref "/f14/package/gnome-libs.md" >}}) | 988 | 1085 | 91.1 | Romanian <ro@li.org> | 
- | [Django]({{< ref "/f14/package/Django.md" >}}) | 3616 | 3975 | 91.0 | Romanian <None> | 
- | [wxPython]({{< ref "/f14/package/wxPython.md" >}}) | 2067 | 2275 | 90.9 | Romanian GNOME Team <gnomero-list@lists.sourceforge.net> | 
- | [kbluetooth]({{< ref "/f14/package/kbluetooth.md" >}}) | 303 | 341 | 88.9 | Română <kde-i18n-ro@kde.org> | 
- | [xchm]({{< ref "/f14/package/xchm.md" >}}) | 196 | 222 | 88.3 | Romanian <debian-l10n-romanian@lists.debian.org> | 
- | [shutter]({{< ref "/f14/package/shutter.md" >}}) | 2633 | 2990 | 88.1 | Romanian | 
- | [avahi]({{< ref "/f14/package/avahi.md" >}}) | 758 | 865 | 87.6 | Romanian <LL@li.org> | 
- | [xfce4-notes-plugin]({{< ref "/f14/package/xfce4-notes-plugin.md" >}}) | 97 | 111 | 87.4 | Romanian <debian-l10n-romanian@lists.debian.org> | 
- | [pidgin-libnotify]({{< ref "/f14/package/pidgin-libnotify.md" >}}) | 31 | 36 | 86.1 | <ro@li.org> | 
- | [workrave]({{< ref "/f14/package/workrave.md" >}}) | 1054 | 1227 | 85.9 | Romanian <LL@li.org> | 
- | [kio_sysinfo]({{< ref "/f14/package/kio_sysinfo.md" >}}) | 144 | 168 | 85.7 | Romanian <kde-i18n-ro@lists.kde.org> | 
- | [lxinput]({{< ref "/f14/package/lxinput.md" >}}) | 60 | 70 | 85.7 | Romanian <LL@li.org> | 
- | [dpkg]({{< ref "/f14/package/dpkg.md" >}}) | 8563 | 10019 | 85.5 | Romanian <debian-l10n-romanian@lists.debian.org> | 
- | [setuptool]({{< ref "/f14/package/setuptool.md" >}}) | 47 | 55 | 85.5 | Romanian <gnomero-list@lists.sourceforge.net> | 
- | [WindowMaker]({{< ref "/f14/package/WindowMaker.md" >}}) | 530 | 629 | 84.3 | Romanian | 
- | [gnome-applet-netspeed]({{< ref "/f14/package/gnome-applet-netspeed.md" >}}) | 111 | 132 | 84.1 | Romanian | 
- | [libgsasl]({{< ref "/f14/package/libgsasl.md" >}}) | 435 | 518 | 84.0 | Romanian <translation-team-ro@lists.sourceforge.net> | 
- | [kcoloredit]({{< ref "/f14/package/kcoloredit.md" >}}) | 232 | 278 | 83.5 | Romanian <kde-i18n-ro@lists.kde.org> | 
- | [mingw32-libgpg-error]({{< ref "/f14/package/mingw32-libgpg-error.md" >}}) | 614 | 740 | 83.0 | Romanian <translation-team-ro@lists.sourceforge.net> | 
- | [kde-plasma-networkmanagement]({{< ref "/f14/package/kde-plasma-networkmanagement.md" >}}) | 2378 | 2870 | 82.9 | Romanian <kde-i18n-ro@kde.org> | 
- | [clamtk]({{< ref "/f14/package/clamtk.md" >}}) | 666 | 805 | 82.7 | LANGUAGE <LL@li.org> | 
- | [gthumb]({{< ref "/f14/package/gthumb.md" >}}) | 2884 | 3512 | 82.1 | Gnome Romanian Team <gnomero-list@lists.sourceforge.net> | 
- | [gphoto2]({{< ref "/f14/package/gphoto2.md" >}}) | 1270 | 1551 | 81.9 | Romanian <translation-team-ro@lists.sourceforge.net> | 
- | [system-config-printer]({{< ref "/f14/package/system-config-printer.md" >}}) | 2546 | 3120 | 81.6 | Romanian <None> | 
- | [system-config-network]({{< ref "/f14/package/system-config-network.md" >}}) | 2457 | 3022 | 81.3 | <ro@li.org> | 
- | [libgpg-error]({{< ref "/f14/package/libgpg-error.md" >}}) | 614 | 761 | 80.7 | Romanian <translation-team-ro@lists.sourceforge.net> | 
- | [gnome-color-manager]({{< ref "/f14/package/gnome-color-manager.md" >}}) | 1942 | 2413 | 80.5 | Romanian Gnome Team <gnomero-list@lists.sourceforge.net> | 
- | [chkconfig]({{< ref "/f14/package/chkconfig.md" >}}) | 963 | 1220 | 78.9 | Romanian <LL@li.org> | 
- | [homebank]({{< ref "/f14/package/homebank.md" >}}) | 1186 | 1509 | 78.6 | Romanian <ro@li.org> | 
- | [supertux]({{< ref "/f14/package/supertux.md" >}}) | 1140 | 1456 | 78.3 | English | 
- | [gnome-activity-journal]({{< ref "/f14/package/gnome-activity-journal.md" >}}) | 247 | 316 | 78.2 | Romanian <ro@li.org> | 
- | [sed]({{< ref "/f14/package/sed.md" >}}) | 454 | 581 | 78.1 | Romanian <translation-team-ro@lists.sourceforge.net> | 
- | [gnucash]({{< ref "/f14/package/gnucash.md" >}}) | 20531 | 26312 | 78.0 | American English <kde-i18n-doc@lists.kde.org> | 
- | [sugar-read]({{< ref "/f14/package/sugar-read.md" >}}) | 21 | 27 | 77.8 | LANGUAGE <LL@li.org> | 
- | [gnome-do]({{< ref "/f14/package/gnome-do.md" >}}) | 473 | 612 | 77.3 | Romanian <ro@li.org> | 
- | [mingw32-gettext]({{< ref "/f14/package/mingw32-gettext.md" >}}) | 5269 | 6844 | 77.0 | Romanian <translation-team-ro@lists.sourceforge.net> | 
- | [sugar-chat]({{< ref "/f14/package/sugar-chat.md" >}}) | 16 | 21 | 76.2 | LANGUAGE <LL@li.org> | 
- | [kde-partitionmanager]({{< ref "/f14/package/kde-partitionmanager.md" >}}) | 2077 | 2732 | 76.0 | Română <kde-i18n-ro@kde.org> | 
- | [gnome-applet-window-picker]({{< ref "/f14/package/gnome-applet-window-picker.md" >}}) | 22 | 29 | 75.9 | Romanian | 
- | [decibel-audio-player]({{< ref "/f14/package/decibel-audio-player.md" >}}) | 1133 | 1494 | 75.8 | Romanian <ro@li.org> | 
- | [evolution-rspam]({{< ref "/f14/package/evolution-rspam.md" >}}) | 147 | 194 | 75.8 | Romanian <RO@li.org> | 
- | [synapse]({{< ref "/f14/package/synapse.md" >}}) | 396 | 535 | 74.0 | Romanian <ro@li.org> | 
- | [gpodder]({{< ref "/f14/package/gpodder.md" >}}) | 1744 | 2360 | 73.9 | Gherhardt Mathisz <gmathisz@gmail.com> | 
- | [kmplayer]({{< ref "/f14/package/kmplayer.md" >}}) | 922 | 1248 | 73.9 | Romanian <kde-i18n-ro@lists.kde.org> | 
- | [Miro]({{< ref "/f14/package/Miro.md" >}}) | 2448 | 3336 | 73.4 |  | 
- | [fuse-encfs]({{< ref "/f14/package/fuse-encfs.md" >}}) | 962 | 1315 | 73.2 | Romanian <ro@li.org> | 
- | [supertuxkart]({{< ref "/f14/package/supertuxkart.md" >}}) | 663 | 907 | 73.1 |  | 
- | [wine]({{< ref "/f14/package/wine.md" >}}) | 8545 | 11786 | 72.5 | none | 
- | [gstreamer-plugins-base]({{< ref "/f14/package/gstreamer-plugins-base.md" >}}) | 645 | 891 | 72.4 | Romanian <translation-team-ro@lists.sourceforge.net> | 
- | [libgpod]({{< ref "/f14/package/libgpod.md" >}}) | 761 | 1053 | 72.3 | Romanian <tradu@softwareliber.ro> | 
- | [minicom]({{< ref "/f14/package/minicom.md" >}}) | 1228 | 1716 | 71.6 | Romanian <translation-team-ro@lists.sourceforge.net> | 
- | [gettext]({{< ref "/f14/package/gettext.md" >}}) | 4891 | 6857 | 71.3 | Romanian <translation-team-ro@lists.sourceforge.net> | 
- | [imp]({{< ref "/f14/package/imp.md" >}}) | 1562 | 2190 | 71.3 | Romanian <i18n@lists.horde.org> | 
- | [xiphos]({{< ref "/f14/package/xiphos.md" >}}) | 2679 | 3815 | 70.2 | Xiphos <nick.laurentiu.nica@gmail.com> | 
- | [rapid-photo-downloader]({{< ref "/f14/package/rapid-photo-downloader.md" >}}) | 943 | 1352 | 69.7 | Romanian <ro@li.org> | 
- | [quodlibet]({{< ref "/f14/package/quodlibet.md" >}}) | 1599 | 2295 | 69.7 | Română <gnomero@lists.sourceforge.net> | 
- | [childsplay]({{< ref "/f14/package/childsplay.md" >}}) | 851 | 1226 | 69.4 | ROMANIAN <p_b_richardson@yahoo.co.uk> | 
- | [sugar-surf]({{< ref "/f14/package/sugar-surf.md" >}}) | 36 | 52 | 69.2 | LANGUAGE <LL@li.org> | 
- | [glade2]({{< ref "/f14/package/glade2.md" >}}) | 4013 | 5840 | 68.7 | Romanian <gnome-ro@pelican.level7.ro> | 
- | [gawk]({{< ref "/f14/package/gawk.md" >}}) | 1758 | 2604 | 67.5 | Romanian <translation-team-ro@lists.sourceforge.net> | 
- | [sugar-browse]({{< ref "/f14/package/sugar-browse.md" >}}) | 38 | 57 | 66.7 | LANGUAGE <LL@li.org> | 
- | [gnome-globalmenu]({{< ref "/f14/package/gnome-globalmenu.md" >}}) | 216 | 325 | 66.5 | Romanian <ro@li.org> | 
- | [transmission]({{< ref "/f14/package/transmission.md" >}}) | 1001 | 1508 | 66.4 | LANGUAGE <LL@li.org> | 
- | [mailman]({{< ref "/f14/package/mailman.md" >}}) | 14522 | 21886 | 66.4 | Romanian <en@li.org> | 
- | [easytag]({{< ref "/f14/package/easytag.md" >}}) | 3514 | 5315 | 66.1 | Romanian <pauliuc@gmx.net> | 
- | [ktorrent]({{< ref "/f14/package/ktorrent.md" >}}) | 5244 | 7950 | 66.0 | Romanian <kde-i18n-ro@kde.org> | 
- | [compiz]({{< ref "/f14/package/compiz.md" >}}) | 2120 | 3250 | 65.2 | Română <kde-i18n-ro@kde.org> | 
- | [gliv]({{< ref "/f14/package/gliv.md" >}}) | 671 | 1034 | 64.9 | Romanian <translation-team-ro@lists.sourceforge.net> | 
- | [chmsee]({{< ref "/f14/package/chmsee.md" >}}) | 125 | 194 | 64.4 | Romanian <ro@li.org> | 
- | [xfce4-cpugraph-plugin]({{< ref "/f14/package/xfce4-cpugraph-plugin.md" >}}) | 45 | 71 | 63.4 | Romanian <debian-l10n-romanian@lists.debian.org> | 
- | [xsane]({{< ref "/f14/package/xsane.md" >}}) | 2037 | 3224 | 63.2 | <C@li.org> | 
- | [hornsey]({{< ref "/f14/package/hornsey.md" >}}) | 59 | 95 | 62.1 | Moblin Romania <live@moblin.ro> | 
- | [frozen-bubble]({{< ref "/f14/package/frozen-bubble.md" >}}) | 432 | 698 | 61.9 | LANGUAGE <LL@li.org> | 
- | [galculator]({{< ref "/f14/package/galculator.md" >}}) | 492 | 798 | 61.7 |  | 
- | [pychess]({{< ref "/f14/package/pychess.md" >}}) | 1019 | 1671 | 61.0 | Romanian <ro@li.org> | 
- | [gnupg2]({{< ref "/f14/package/gnupg2.md" >}}) | 6390 | 10491 | 60.9 | Romanian <translation-team-ro@lists.sourceforge.net> | 
- | [gtkpod]({{< ref "/f14/package/gtkpod.md" >}}) | 4032 | 6644 | 60.7 | Romanian <tradu@softwareliber.ro> | 
- | [kaffeine]({{< ref "/f14/package/kaffeine.md" >}}) | 355 | 590 | 60.2 | Română <kde-i18n-ro@kde.org> | 
- | [skanlite]({{< ref "/f14/package/skanlite.md" >}}) | 102 | 173 | 59.0 | Romanian <kde-i18n-ro@lists.kde.org> | 
- | [springlobby]({{< ref "/f14/package/springlobby.md" >}}) | 2721 | 4695 | 58.0 | Romanian <ro@li.org> | 
- | [yum-rhn-plugin]({{< ref "/f14/package/yum-rhn-plugin.md" >}}) | 62 | 107 | 57.9 | <ro@li.org> | 
- | [system-config-samba]({{< ref "/f14/package/system-config-samba.md" >}}) | 306 | 533 | 57.4 | Romanian (http://www.transifex.net/projects/p/fedora/team/ro/) | 
- | [authconfig]({{< ref "/f14/package/authconfig.md" >}}) | 767 | 1342 | 57.2 | Romanian <LL@li.org> | 
- | [yakuake]({{< ref "/f14/package/yakuake.md" >}}) | 819 | 1439 | 56.9 | Română <kde-i18n-ro@kde.org> | 
- | [gnubik]({{< ref "/f14/package/gnubik.md" >}}) | 120 | 217 | 55.3 | Romanian <translation-team-ro@lists.sourceforge.net> | 
- | [avr-binutils]({{< ref "/f14/package/avr-binutils.md" >}}) | 6415 | 11814 | 54.3 | Romanian <translation-team-ro@lists.sourceforge.net> | 
- | [binutils]({{< ref "/f14/package/binutils.md" >}}) | 6415 | 11814 | 54.3 | Romanian <translation-team-ro@lists.sourceforge.net> | 
- | [mingw32-binutils]({{< ref "/f14/package/mingw32-binutils.md" >}}) | 6415 | 11814 | 54.3 | Romanian <translation-team-ro@lists.sourceforge.net> | 
- | [msp430-binutils]({{< ref "/f14/package/msp430-binutils.md" >}}) | 6415 | 11814 | 54.3 | Romanian <translation-team-ro@lists.sourceforge.net> | 
- | [sh-elf-binutils]({{< ref "/f14/package/sh-elf-binutils.md" >}}) | 6415 | 11814 | 54.3 | Romanian <translation-team-ro@lists.sourceforge.net> | 
- | [spu-binutils]({{< ref "/f14/package/spu-binutils.md" >}}) | 6415 | 11814 | 54.3 | Romanian <translation-team-ro@lists.sourceforge.net> | 
- | [system-config-users]({{< ref "/f14/package/system-config-users.md" >}}) | 782 | 1456 | 53.7 | Romanian (http://www.transifex.net/projects/p/fedora/team/ro/) | 
- | [arm-gp2x-linux-binutils]({{< ref "/f14/package/arm-gp2x-linux-binutils.md" >}}) | 5929 | 11328 | 52.3 | Romanian <translation-team-ro@lists.sourceforge.net> | 
- | [dialog]({{< ref "/f14/package/dialog.md" >}}) | 13 | 25 | 52.0 | Romanian <translation-team-ro@lists.sourceforge.net> | 
- | [geany]({{< ref "/f14/package/geany.md" >}}) | 2870 | 5586 | 51.4 | Romanian | 
- | [stellarium]({{< ref "/f14/package/stellarium.md" >}}) | 1706 | 3362 | 50.7 | Romanian <ro@li.org> | 
- | [popt]({{< ref "/f14/package/popt.md" >}}) | 38 | 75 | 50.7 | Romanian <ro@li.org> | 
- | [gambas3]({{< ref "/f14/package/gambas3.md" >}}) | 2213 | 4382 | 50.5 | LANGUAGE <LL@li.org> | 
- | [blender]({{< ref "/f14/package/blender.md" >}}) | 8064 | 16031 | 50.3 | Romanian <ro@li.org> | 
- | [kaudiocreator]({{< ref "/f14/package/kaudiocreator.md" >}}) | 566 | 1136 | 49.8 | Romanian <kde-i18n-ro@lists.kde.org> | 
- | [warzone2100]({{< ref "/f14/package/warzone2100.md" >}}) | 6362 | 12782 | 49.8 | Romanian <ro@li.org> | 
- | [icewm]({{< ref "/f14/package/icewm.md" >}}) | 682 | 1376 | 49.6 | Romanian <ro@li.org> | 
- | [nano]({{< ref "/f14/package/nano.md" >}}) | 1263 | 2570 | 49.1 | Romanian <translation-team-ro@lists.sourceforge.net> | 
- | [kpackagekit]({{< ref "/f14/package/kpackagekit.md" >}}) | 1791 | 3646 | 49.1 | Română <kde-i18n-ro@kde.org> | 
- | [gnome-commander]({{< ref "/f14/package/gnome-commander.md" >}}) | 3874 | 7896 | 49.1 | Romanian <gnomero-list@lists.sourceforge.net> | 
- | [specto]({{< ref "/f14/package/specto.md" >}}) | 325 | 675 | 48.1 |  | 
- | [fslint]({{< ref "/f14/package/fslint.md" >}}) | 185 | 388 | 47.7 | Romanian <translation-team-ro@lists.sourceforge.net> | 
- | [meego-panel-zones]({{< ref "/f14/package/meego-panel-zones.md" >}}) | 26 | 55 | 47.3 | Moblin Romania <live@moblin.ro> | 
- | [nautilus-terminal]({{< ref "/f14/package/nautilus-terminal.md" >}}) | 52 | 110 | 47.3 | Romanian <ro@li.org> | 
- | [gallery2]({{< ref "/f14/package/gallery2.md" >}}) | 8410 | 17793 | 47.3 | <none> | 
- | [bison]({{< ref "/f14/package/bison.md" >}}) | 504 | 1103 | 45.7 | Romanian <translation-team-ro@lists.sourceforge.net> | 
- | [initscripts]({{< ref "/f14/package/initscripts.md" >}}) | 1944 | 4349 | 44.7 | Romanian <fedora-trans-list@redhat.com> | 
- | [k3b]({{< ref "/f14/package/k3b.md" >}}) | 9057 | 20423 | 44.3 | Română <kde-i18n-ro@kde.org> | 
- | [system-config-date]({{< ref "/f14/package/system-config-date.md" >}}) | 792 | 1800 | 44.0 | Romanian (http://www.transifex.net/projects/p/fedora/team/ro/) | 
- | [man-db]({{< ref "/f14/package/man-db.md" >}}) | 601 | 1394 | 43.1 | Romanian <translation-team-ro@lists.sourceforge.net> | 
- | [gummi]({{< ref "/f14/package/gummi.md" >}}) | 226 | 530 | 42.6 | LANGUAGE <LL@li.org> | 
- | [anaconda]({{< ref "/f14/package/anaconda.md" >}}) | 4047 | 9741 | 41.5 | Romanian <LL@li.org> | 
- | [tar]({{< ref "/f14/package/tar.md" >}}) | 1369 | 3306 | 41.4 | Romanian <translation-team-ro@lists.sourceforge.net> | 
- | [picard]({{< ref "/f14/package/picard.md" >}}) | 542 | 1311 | 41.3 | Romanian <ro@li.org> | 
- | [dia]({{< ref "/f14/package/dia.md" >}}) | 2336 | 5711 | 40.9 | romanian <ro@li.org> | 
- | [kBuild]({{< ref "/f14/package/kBuild.md" >}}) | 204 | 505 | 40.4 | Romanian <translation-team-ro@lists.sourceforge.net> | 
- | [centerim]({{< ref "/f14/package/centerim.md" >}}) | 1115 | 2814 | 39.6 | Romanian <ro@li.org> | 
- | [kwebkitpart]({{< ref "/f14/package/kwebkitpart.md" >}}) | 186 | 477 | 39.0 | Română <kde-i18n-ro@kde.org> | 
- | [evolution-rss]({{< ref "/f14/package/evolution-rss.md" >}}) | 228 | 591 | 38.6 | Romanian <RO@li.org> | 
- | [vidalia]({{< ref "/f14/package/vidalia.md" >}}) | 3588 | 9306 | 38.6 | translations@vidalia-project.net | 
- | [shadow-utils]({{< ref "/f14/package/shadow-utils.md" >}}) | 1229 | 3221 | 38.2 | Romanian <debian-l10n-romanian@lists.debian.org> | 
- | [xfce4-screenshooter]({{< ref "/f14/package/xfce4-screenshooter.md" >}}) | 170 | 448 | 37.9 | Romanian <debian-l10n-romanian@lists.debian.org> | 
- | [gcompris]({{< ref "/f14/package/gcompris.md" >}}) | 3884 | 10248 | 37.9 | <en@li.org> | 
- | [libktorrent]({{< ref "/f14/package/libktorrent.md" >}}) | 192 | 507 | 37.9 | Romanian <kde-i18n-ro@kde.org> | 
- | [gimp-lqr-plugin]({{< ref "/f14/package/gimp-lqr-plugin.md" >}}) | 312 | 825 | 37.8 | Romanian <ro@li.org> | 
- | [listen]({{< ref "/f14/package/listen.md" >}}) | 671 | 1783 | 37.6 | Romanian <ro@li.org> | 
- | [inkscape]({{< ref "/f14/package/inkscape.md" >}}) | 9951 | 26528 | 37.5 | Gnome Romanian Team <gnomero-list@lists.sourceforge.net> | 
- | [system-config-keyboard]({{< ref "/f14/package/system-config-keyboard.md" >}}) | 70 | 187 | 37.4 | Romanian <ro_team@linux360.ro> | 
- | [audacious]({{< ref "/f14/package/audacious.md" >}}) | 446 | 1198 | 37.2 | Romanian | 
- | [anjuta]({{< ref "/f14/package/anjuta.md" >}}) | 2862 | 7797 | 36.7 | Gnome Romanian Team <gnomero-list@lists.sourceforge.net> | 
- | [lyx]({{< ref "/f14/package/lyx.md" >}}) | 6196 | 16954 | 36.5 | Romanian <ro-kde@yahoogroups.com> | 
- | [moin]({{< ref "/f14/package/moin.md" >}}) | 1780 | 4971 | 35.8 |  | 
- | [mc]({{< ref "/f14/package/mc.md" >}}) | 1298 | 3661 | 35.5 | Romanian (http://www.transifex.net/projects/p/mc/team/ro/) | 
- | [firstboot]({{< ref "/f14/package/firstboot.md" >}}) | 231 | 654 | 35.3 | <fedora-ro@googlegroups.com> | 
- | [system-config-boot]({{< ref "/f14/package/system-config-boot.md" >}}) | 41 | 119 | 34.5 | Romanian <traduceri@maimult.ro> | 
- | [sugar-calculator]({{< ref "/f14/package/sugar-calculator.md" >}}) | 198 | 593 | 33.4 |  | 
- | [digikam]({{< ref "/f14/package/digikam.md" >}}) | 7764 | 23653 | 32.8 | Romanian <kde-i18n-ro@kde.org> | 
- | [knights]({{< ref "/f14/package/knights.md" >}}) | 178 | 555 | 32.1 | Romanian <kde-i18n-ro@kde.org> | 
- | [tuxpaint]({{< ref "/f14/package/tuxpaint.md" >}}) | 390 | 1247 | 31.3 | Romanian <ro@li.org> | 
- | [freeciv]({{< ref "/f14/package/freeciv.md" >}}) | 15957 | 53692 | 29.7 | romanian <debian-l10n-romanian@lists.debian.org> | 
- | [pgadmin3]({{< ref "/f14/package/pgadmin3.md" >}}) | 2825 | 9676 | 29.2 | The pgAdmin Development Team <pgadmin-hackers@postgresql.org> | 
- | [libuser]({{< ref "/f14/package/libuser.md" >}}) | 324 | 1114 | 29.1 | Romanian <gnomero-list@lists.sourceforge.net> | 
- | [gnome-applet-bubblemon]({{< ref "/f14/package/gnome-applet-bubblemon.md" >}}) | 11 | 38 | 28.9 | Romanian <ro@li.org> | 
- | [tracker]({{< ref "/f14/package/tracker.md" >}}) | 519 | 1870 | 27.8 | Romanian <ro@li.org> | 
- | [libextractor]({{< ref "/f14/package/libextractor.md" >}}) | 462 | 1701 | 27.2 | Romanian <translation-team-ro@lists.sourceforge.net> | 
- | [gtick]({{< ref "/f14/package/gtick.md" >}}) | 91 | 336 | 27.1 | Romanian <translation-team-ro@lists.sourceforge.net> | 
- | [findutils]({{< ref "/f14/package/findutils.md" >}}) | 570 | 2109 | 27.0 | Romanian <translation-team-ro@lists.sourceforge.net> | 
- | [sugar]({{< ref "/f14/package/sugar.md" >}}) | 63 | 234 | 26.9 | LANGUAGE <LL@li.org> | 
- | [clementine]({{< ref "/f14/package/clementine.md" >}}) | 841 | 3158 | 26.6 | Romanian <ro@li.org> | 
- | [boinc-client]({{< ref "/f14/package/boinc-client.md" >}}) | 1080 | 4130 | 26.2 | BOINC Development Team <rwalton@ssl.berkeley.edu> | 
- | [choqok]({{< ref "/f14/package/choqok.md" >}}) | 474 | 1914 | 24.8 | Română <kde-i18n-ro@kde.org> | 
- | [vorbis-tools]({{< ref "/f14/package/vorbis-tools.md" >}}) | 957 | 4109 | 23.3 | Romanian <translation-team-ro@lists.sourceforge.net> | 
- | [gnomebaker]({{< ref "/f14/package/gnomebaker.md" >}}) | 271 | 1167 | 23.2 | Romanian <ro@li.org> | 
- | [system-config-firewall]({{< ref "/f14/package/system-config-firewall.md" >}}) | 650 | 2807 | 23.2 | Romanian <gnomero-list@lists.sourceforge.net> | 
- | [kipi-plugins]({{< ref "/f14/package/kipi-plugins.md" >}}) | 3673 | 15879 | 23.1 | Română <kde-i18n-ro@kde.org> | 
- | [exaile]({{< ref "/f14/package/exaile.md" >}}) | 500 | 2176 | 23.0 | Romanian <ro@li.org> | 
- | [PackageKit]({{< ref "/f14/package/PackageKit.md" >}}) | 372 | 1619 | 23.0 | Romanian <None> | 
- | [rabbitvcs]({{< ref "/f14/package/rabbitvcs.md" >}}) | 348 | 1524 | 22.8 | Romanian <ro@li.org> | 
- | [wget]({{< ref "/f14/package/wget.md" >}}) | 487 | 2260 | 21.5 | Romanian <translation-team-ro@lists.sourceforge.net> | 
- | [xpad]({{< ref "/f14/package/xpad.md" >}}) | 74 | 363 | 20.4 | Romanian <translation-team-ro@lists.sourceforge.net> | 
- | [phatch]({{< ref "/f14/package/phatch.md" >}}) | 517 | 2553 | 20.3 | Romanian <ro@li.org> | 
- | [system-config-kdump]({{< ref "/f14/package/system-config-kdump.md" >}}) | 162 | 807 | 20.1 | <ro@li.org> | 
- | [gnome-gmail]({{< ref "/f14/package/gnome-gmail.md" >}}) | 72 | 359 | 20.1 | LANGUAGE <LL@li.org> | 
- | [grisbi]({{< ref "/f14/package/grisbi.md" >}}) | 2213 | 11193 | 19.8 | <bucuresti@free.fr> | 
- | [kdiff3]({{< ref "/f14/package/kdiff3.md" >}}) | 716 | 3644 | 19.6 | Romanian <kde-i18n-ro@kde.org> | 
- | [desktop-effects]({{< ref "/f14/package/desktop-effects.md" >}}) | 29 | 148 | 19.6 | <ro@li.org> | 
- | [iso-codes]({{< ref "/f14/package/iso-codes.md" >}}) | 3746 | 19696 | 19.0 | Romanian <translation-team-ro@lists.sourceforge.net> | 
- | [gnue-common]({{< ref "/f14/package/gnue-common.md" >}}) | 403 | 2132 | 18.9 | Romanian | 
- | [tinyerp]({{< ref "/f14/package/tinyerp.md" >}}) | 211 | 1138 | 18.5 | FR <i18n-info@tinyerp.org> | 
- | [notecase]({{< ref "/f14/package/notecase.md" >}}) | 214 | 1156 | 18.5 | Adi Oporanu <AdiOporanu@home.ro> | 
- | [coreutils]({{< ref "/f14/package/coreutils.md" >}}) | 3312 | 18613 | 17.8 | Romanian <translation-team-ro@lists.sourceforge.net> | 
- | [qof]({{< ref "/f14/package/qof.md" >}}) | 121 | 701 | 17.3 | Romanian <translation-team-ro@lists.sourceforge.net> | 
- | [gnome-applet-sensors]({{< ref "/f14/package/gnome-applet-sensors.md" >}}) | 51 | 298 | 17.1 | Romanian | 
- | [backintime]({{< ref "/f14/package/backintime.md" >}}) | 154 | 919 | 16.8 | Romanian <ro@li.org> | 
- | [parted]({{< ref "/f14/package/parted.md" >}}) | 826 | 5139 | 16.1 | Romanian <translation-team-ro@lists.sourceforge.net> | 
- | [hello]({{< ref "/f14/package/hello.md" >}}) | 30 | 193 | 15.5 | Romanian <translation-team-ro@lists.sourceforge.net> | 
- | [bluefish]({{< ref "/f14/package/bluefish.md" >}}) | 570 | 3819 | 14.9 | <ro@li.org> | 
- | [calibre]({{< ref "/f14/package/calibre.md" >}}) | 2984 | 19998 | 14.9 | Romanian <ro@li.org> | 
- | [wdiff]({{< ref "/f14/package/wdiff.md" >}}) | 138 | 943 | 14.6 | Romanian <translation-team-ro@lists.sourceforge.net> | 
- | [akonadi-googledata]({{< ref "/f14/package/akonadi-googledata.md" >}}) | 12 | 86 | 14.0 | Română <kde-i18n-ro@kde.org> | 
- | [cinepaint]({{< ref "/f14/package/cinepaint.md" >}}) | 1019 | 7405 | 13.8 | Română <ro@li.org> | 
- | [gxneur]({{< ref "/f14/package/gxneur.md" >}}) | 97 | 721 | 13.5 | Romanian <ro@li.org> | 
- | [gwibber]({{< ref "/f14/package/gwibber.md" >}}) | 6 | 45 | 13.3 | Romanian <ro@li.org> | 
- | [pan]({{< ref "/f14/package/pan.md" >}}) | 298 | 2288 | 13.0 | Romanian <gnomero-list@lists.sourceforge.net> | 
- | [knemo]({{< ref "/f14/package/knemo.md" >}}) | 154 | 1186 | 13.0 | Română <kde-i18n-ro@kde.org> | 
- | [system-config-rootpassword]({{< ref "/f14/package/system-config-rootpassword.md" >}}) | 15 | 116 | 12.9 | Romanian <fedora-trans-list@redhat.com> | 
- | [mercurial]({{< ref "/f14/package/mercurial.md" >}}) | 3890 | 31291 | 12.4 | Romanian <> | 
- | [audacious-plugins]({{< ref "/f14/package/audacious-plugins.md" >}}) | 807 | 6700 | 12.0 | Romanian <audacious@atheme.org> | 
- | [krusader]({{< ref "/f14/package/krusader.md" >}}) | 891 | 7750 | 11.5 | Română <kde-i18n-ro@kde.org> | 
- | [avant-window-navigator]({{< ref "/f14/package/avant-window-navigator.md" >}}) | 186 | 1655 | 11.2 | Romanian <ro@li.org> | 
- | [system-config-language]({{< ref "/f14/package/system-config-language.md" >}}) | 36 | 323 | 11.1 | Romanian | 
- | [xfce4-eyes-plugin]({{< ref "/f14/package/xfce4-eyes-plugin.md" >}}) | 1 | 9 | 11.1 | Romanian <gnomero-list@lists.sourceforge.net> | 
- | [audacity]({{< ref "/f14/package/audacity.md" >}}) | 1040 | 9886 | 10.5 | Manuel R. Ciosici <manuelciosici@yahoo.com> | 
- | [cpio]({{< ref "/f14/package/cpio.md" >}}) | 190 | 1837 | 10.3 | Romanian <translation-team-ro@lists.sourceforge.net> | 
- | [psmisc]({{< ref "/f14/package/psmisc.md" >}}) | 91 | 899 | 10.1 | Romanian <translation-team-ro@lists.sourceforge.net> | 
- | [me-tv]({{< ref "/f14/package/me-tv.md" >}}) | 195 | 1937 | 10.1 | Romanian <ro@li.org> | 
- | [kmldonkey]({{< ref "/f14/package/kmldonkey.md" >}}) | 144 | 1830 | 7.9 | Română <kde-i18n-ro@kde.org> | 
- | [gnumeric]({{< ref "/f14/package/gnumeric.md" >}}) | 2638 | 35046 | 7.5 | Romanian <gnomero-list@lists.sourceforge.net> | 
- | [libxfce4ui]({{< ref "/f14/package/libxfce4ui.md" >}}) | 10 | 136 | 7.4 | Romanian | 
- | [enlightenment]({{< ref "/f14/package/enlightenment.md" >}}) | 477 | 6756 | 7.1 | Romanian <ro@li.org> | 
- | [rsibreak]({{< ref "/f14/package/rsibreak.md" >}}) | 88 | 1304 | 6.7 | Romanian <kde-i18n-ro@lists.kde.org> | 
- | [pinta]({{< ref "/f14/package/pinta.md" >}}) | 65 | 978 | 6.6 | Romanian <ro@li.org> | 
- | [goffice]({{< ref "/f14/package/goffice.md" >}}) | 301 | 4599 | 6.5 | Romanian <gnomero-list@lists.sourceforge.net> | 
- | [kdbg]({{< ref "/f14/package/kdbg.md" >}}) | 52 | 866 | 6.0 | Romanian <LL@li.org> | 
- | [grep]({{< ref "/f14/package/grep.md" >}}) | 57 | 950 | 6.0 | Romanian <translation-team-ro@lists.sourceforge.net> | 
- | [system-config-services]({{< ref "/f14/package/system-config-services.md" >}}) | 24 | 404 | 5.9 | Romanian <gnomero-list@lists.sourceforge.net> | 
- | [kphotoalbum]({{< ref "/f14/package/kphotoalbum.md" >}}) | 367 | 6333 | 5.8 | Romanian <kde-i18n-ro@lists.kde.org> | 
- | [gnotime]({{< ref "/f14/package/gnotime.md" >}}) | 114 | 2008 | 5.7 | Romanian <ro@li.org> | 
- | [speedcrunch]({{< ref "/f14/package/speedcrunch.md" >}}) | 1 | 18 | 5.6 | ro | 
- | [libvirt]({{< ref "/f14/package/libvirt.md" >}}) | 1098 | 20546 | 5.3 | none | 
- | [kile]({{< ref "/f14/package/kile.md" >}}) | 573 | 11114 | 5.2 | Romanian <kde-i18n-ro@lists.kde.org> | 
- | [pyroom]({{< ref "/f14/package/pyroom.md" >}}) | 21 | 411 | 5.1 | Romanian <ro@li.org> | 
- | [mod_cluster]({{< ref "/f14/package/mod_cluster.md" >}}) | 15 | 327 | 4.6 | Romanian <translation-team-ro@lists.sourceforge.net> | 
- | [mingw32-iconv]({{< ref "/f14/package/mingw32-iconv.md" >}}) | 15 | 336 | 4.5 | Romanian <translation-team-ro@lists.sourceforge.net> | 
- | [gtg]({{< ref "/f14/package/gtg.md" >}}) | 78 | 1780 | 4.4 | Romanian <ro@li.org> | 
- | [bash]({{< ref "/f14/package/bash.md" >}}) | 436 | 10715 | 4.1 | Romanian <translation-team-ro@lists.sourceforge.net> | 
- | [mingw32-libidn]({{< ref "/f14/package/mingw32-libidn.md" >}}) | 16 | 413 | 3.9 | Romanian <translation-team-ro@lists.sourceforge.net> | 
- | [libidn]({{< ref "/f14/package/libidn.md" >}}) | 16 | 414 | 3.9 | Romanian <translation-team-ro@lists.sourceforge.net> | 
- | [blueman]({{< ref "/f14/package/blueman.md" >}}) | 48 | 1376 | 3.5 | Romanian <ro@li.org> | 
- | [rhn-client-tools]({{< ref "/f14/package/rhn-client-tools.md" >}}) | 155 | 4820 | 3.2 | Romanian <gafton+po@redhat.com> | 
- | [jokosher]({{< ref "/f14/package/jokosher.md" >}}) | 66 | 2059 | 3.2 | Romanian <ro@li.org> | 
- | [elinks]({{< ref "/f14/package/elinks.md" >}}) | 359 | 12234 | 2.9 | Romanian <translation-team-ro@lists.sourceforge.net> | 
- | [virt-manager]({{< ref "/f14/package/virt-manager.md" >}}) | 126 | 4398 | 2.9 | <ro@li.org> | 
- | [koffice-kivio]({{< ref "/f14/package/koffice-kivio.md" >}}) | 218 | 8417 | 2.6 | Romanian <ro-kde@egroups.com> | 
- | [sugar-pippy]({{< ref "/f14/package/sugar-pippy.md" >}}) | 1 | 40 | 2.5 | LANGUAGE <LL@li.org> | 
- | [kpilot]({{< ref "/f14/package/kpilot.md" >}}) | 176 | 7156 | 2.5 | Română <kde-i18n-ro@kde.org> | 
- | [tellico]({{< ref "/f14/package/tellico.md" >}}) | 132 | 5621 | 2.3 | Română <ro@li.org> | 
- | [transifex]({{< ref "/f14/package/transifex.md" >}}) | 127 | 5460 | 2.3 | Romanian <None> | 
- | [xfce4-settings]({{< ref "/f14/package/xfce4-settings.md" >}}) | 15 | 1138 | 1.3 | Romanian <xfce-i18n@xfce.org> | 
- | [gnubiff]({{< ref "/f14/package/gnubiff.md" >}}) | 13 | 1181 | 1.1 | Romanian <translation-team-ro@lists.sourceforge.net> | 
- | [xneur]({{< ref "/f14/package/xneur.md" >}}) | 16 | 1628 | 1.0 | Romanian <ro@li.org> | 
- | [im-chooser]({{< ref "/f14/package/im-chooser.md" >}}) | 2 | 213 | 0.9 | none <gnomero-list@lists.sourceforge.net> | 
- | [system-config-bind]({{< ref "/f14/package/system-config-bind.md" >}}) | 78 | 9419 | 0.8 | <ro@li.org> | 
- | [skrooge]({{< ref "/f14/package/skrooge.md" >}}) | 39 | 6361 | 0.6 | Română <kde-i18n-ro@kde.org> | 
- | [orage]({{< ref "/f14/package/orage.md" >}}) | 12 | 2110 | 0.6 | Romanian <gnomero-list@lists.sourceforge.net> | 
- | [ailurus]({{< ref "/f14/package/ailurus.md" >}}) | 26 | 8506 | 0.3 | none | 
- | [etoys]({{< ref "/f14/package/etoys.md" >}}) | 86 | 29994 | 0.3 |  | 
- | [spacewalk-backend]({{< ref "/f14/package/spacewalk-backend.md" >}}) | 5 | 1912 | 0.3 | Romanian <rhns-i18n@redhat.com> | 
- | [wesnoth]({{< ref "/f14/package/wesnoth.md" >}}) | 559 | 226908 | 0.2 |  | 
- | [kdetv]({{< ref "/f14/package/kdetv.md" >}}) | 5 | 2206 | 0.2 | Romanian <kde-i18n-ro@kde.org> | 
- | [sugar-turtleart]({{< ref "/f14/package/sugar-turtleart.md" >}}) | 2 | 1208 | 0.2 | LANGUAGE <walter@sugarlabs.org> | 
- | [vdr-epgsearch]({{< ref "/f14/package/vdr-epgsearch.md" >}}) | 3 | 2408 | 0.1 | <vdr@linuxtv.org> | 
- | [krecipes]({{< ref "/f14/package/krecipes.md" >}}) | 3 | 3087 | 0.1 | Romanian <ro-kde@yahoogroups.com> | 
- | [deja-dup]({{< ref "/f14/package/deja-dup.md" >}}) | 1 | 1111 | 0.1 | Romanian <ro@li.org> | 
- | [kst]({{< ref "/f14/package/kst.md" >}}) | 4 | 7446 | 0.1 | Romanian <ro-kde@egroups.com> | 
- | [LabPlot]({{< ref "/f14/package/LabPlot.md" >}}) | 0 | 3250 | 0.0 | LANGUAGE <LL@li.org> | 
- | [freedink]({{< ref "/f14/package/freedink.md" >}}) | 0 | 82 | 0.0 | Romanian <translation-team-ro@lists.sourceforge.net> | 
- | [imsettings]({{< ref "/f14/package/imsettings.md" >}}) | 0 | 979 | 0.0 | none <gnomero-list@lists.sourceforge.net> | 
- | [jeta]({{< ref "/f14/package/jeta.md" >}}) | 0 | 0 | 0.0 | Romanian <i18n@lists.horde.org> | 
- | [libfm]({{< ref "/f14/package/libfm.md" >}}) | 0 | 659 | 0.0 | LANGUAGE <LL@li.org> | 
- | [libgxim]({{< ref "/f14/package/libgxim.md" >}}) | 0 | 130 | 0.0 | none | 
- | [mailody]({{< ref "/f14/package/mailody.md" >}}) | 0 | 783 | 0.0 | Romanian <kde-i18n-ro@kde.org> | 
- | [nautilus-pastebin]({{< ref "/f14/package/nautilus-pastebin.md" >}}) | 0 | 84 | 0.0 | Romanian <ro@li.org> | 
- | [ntfs-config]({{< ref "/f14/package/ntfs-config.md" >}}) | 0 | 357 | 0.0 | Romanian <ro@li.org> | 
- | [olpc-switch-desktop]({{< ref "/f14/package/olpc-switch-desktop.md" >}}) | 0 | 158 | 0.0 | LANGUAGE <LL@li.org> | 
- | [pastebinit]({{< ref "/f14/package/pastebinit.md" >}}) | 0 | 165 | 0.0 | Romanian <ro@li.org> | 
- | [policycoreutils]({{< ref "/f14/package/policycoreutils.md" >}}) | 0 | 1470 | 0.0 | LANGUAGE <LL@li.org> | 
- | [pykickstart]({{< ref "/f14/package/pykickstart.md" >}}) | 0 | 338 | 0.0 | LANGUAGE <LL@li.org> | 
- | [setroubleshoot]({{< ref "/f14/package/setroubleshoot.md" >}}) | 0 | 563 | 0.0 | LANGUAGE <LL@li.org> | 
- | [setroubleshoot-plugins]({{< ref "/f14/package/setroubleshoot-plugins.md" >}}) | 0 | 7818 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sos]({{< ref "/f14/package/sos.md" >}}) | 0 | 267 | 0.0 | none | 
- | [specspo]({{< ref "/f14/package/specspo.md" >}}) | 0 | 305286 | 0.0 | English <LL@li.org> | 
- | [sssd]({{< ref "/f14/package/sssd.md" >}}) | 0 | 10388 | 0.0 | Romanian (http://www.transifex.net/projects/p/fedora/team/ro/) | 
- | [sugar-base]({{< ref "/f14/package/sugar-base.md" >}}) | 0 | 5 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-clock]({{< ref "/f14/package/sugar-clock.md" >}}) | 0 | 38 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-finance]({{< ref "/f14/package/sugar-finance.md" >}}) | 0 | 142 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-imageviewer]({{< ref "/f14/package/sugar-imageviewer.md" >}}) | 0 | 17 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-infoslicer]({{< ref "/f14/package/sugar-infoslicer.md" >}}) | 0 | 177 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-jukebox]({{< ref "/f14/package/sugar-jukebox.md" >}}) | 0 | 10 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-log]({{< ref "/f14/package/sugar-log.md" >}}) | 0 | 100 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-memorize]({{< ref "/f14/package/sugar-memorize.md" >}}) | 0 | 52 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-moon]({{< ref "/f14/package/sugar-moon.md" >}}) | 0 | 90 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-physics]({{< ref "/f14/package/sugar-physics.md" >}}) | 0 | 22 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-playgo]({{< ref "/f14/package/sugar-playgo.md" >}}) | 0 | 85 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-tamtam]({{< ref "/f14/package/sugar-tamtam.md" >}}) | 0 | 2070 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-terminal]({{< ref "/f14/package/sugar-terminal.md" >}}) | 0 | 6 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-toolkit]({{< ref "/f14/package/sugar-toolkit.md" >}}) | 0 | 59 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-view-slides]({{< ref "/f14/package/sugar-view-slides.md" >}}) | 0 | 7 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-visualmatch]({{< ref "/f14/package/sugar-visualmatch.md" >}}) | 0 | 58 | 0.0 | LANGUAGE <LL@li.org> | 
- | [system-config-date-docs]({{< ref "/f14/package/system-config-date-docs.md" >}}) | 0 | 739 | 0.0 | LANGUAGE <LL@li.org> | 
- | [system-config-nfs-docs]({{< ref "/f14/package/system-config-nfs-docs.md" >}}) | 0 | 1192 | 0.0 | LANGUAGE <LL@li.org> | 
- | [system-config-samba-docs]({{< ref "/f14/package/system-config-samba-docs.md" >}}) | 0 | 1195 | 0.0 | LANGUAGE <LL@li.org> | 
- | [system-config-services-docs]({{< ref "/f14/package/system-config-services-docs.md" >}}) | 0 | 638 | 0.0 | LANGUAGE <LL@li.org> | 
- | [system-config-users-docs]({{< ref "/f14/package/system-config-users-docs.md" >}}) | 0 | 1061 | 0.0 | LANGUAGE <LL@li.org> | 
- | [tuxpaint-stamps]({{< ref "/f14/package/tuxpaint-stamps.md" >}}) | 0 | 2617 | 0.0 |  | 
+ | [GConf2](/f14/package/GConf2) | 4035 | 4035 | 100.0 | Română <gnomero-list@lists.sourceforge.net> | 
+ | [NetworkManager](/f14/package/NetworkManager) | 2037 | 2037 | 100.0 | Gnome Romanian Team <gnomero-list@lists.sourceforge.net> | 
+ | [NetworkManager-pptp](/f14/package/NetworkManager-pptp) | 115 | 115 | 100.0 | Gnome Romanian Team <gnomero-list@lists.sourceforge.net> | 
+ | [ORBit](/f14/package/ORBit) | 8 | 8 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [Terminal](/f14/package/Terminal) | 1193 | 1193 | 100.0 | Romanian <xfce-i18n@xfce.org> | 
+ | [Thunar](/f14/package/Thunar) | 3865 | 3865 | 100.0 | Romanian <xfce-i18n@xfce.org> | 
+ | [alacarte](/f14/package/alacarte) | 42 | 42 | 100.0 | Gnome Romanian Team <gnomero-list@lists.sourceforge.net> | 
+ | [anerley](/f14/package/anerley) | 5 | 5 | 100.0 | Moblin Romania <live@moblin.ro> | 
+ | [at-spi](/f14/package/at-spi) | 61 | 61 | 100.0 | Romanian GNOME Team <gnomero-list@lists.sourceforge.net> | 
+ | [at-spi2-atk](/f14/package/at-spi2-atk) | 61 | 61 | 100.0 | Romanian GNOME Team <gnomero-list@lists.sourceforge.net> | 
+ | [atk](/f14/package/atk) | 375 | 375 | 100.0 | Romanian <gnomero-list@lists.sourceforge.net> | 
+ | [avr-gdb](/f14/package/avr-gdb) | 4961 | 4961 | 100.0 | Romanian <translation-team-ro@lists.sourceforge.net> | 
+ | [balsa](/f14/package/balsa) | 5426 | 5426 | 100.0 | Romanian <gnomero-list@lists.sourceforge.net> | 
+ | [bisho](/f14/package/bisho) | 143 | 143 | 100.0 | Moblin Romania <live@moblin.ro> | 
+ | [bittorrent](/f14/package/bittorrent) | 3904 | 3904 | 100.0 | Lupoiu Victor Alexandru ( lupoiu [dot] victor [at] gmail[dot]com ) | 
+ | [bognor-regis](/f14/package/bognor-regis) | 27 | 27 | 100.0 | Moblin Romania <live@moblin.ro> | 
+ | [brasero](/f14/package/brasero) | 5552 | 5552 | 100.0 | Romanian Gnome Team <gnomero-list@lists.sourceforge.net> | 
+ | [bygfoot](/f14/package/bygfoot) | 3720 | 3720 | 100.0 | Romanian <(Corectat şi completat Mihai Floran)> | 
+ | [caribou](/f14/package/caribou) | 16 | 16 | 100.0 | Romanian Gnome Team <gnomero-list@lists.sourceforge.net> | 
+ | [cheese](/f14/package/cheese) | 654 | 654 | 100.0 | Romanian GNOME Team <gnomero-list@lists.sourceforge.net> | 
+ | [control-center](/f14/package/control-center) | 3526 | 3526 | 100.0 | Romanian Gnome Team <gnomero-list@lists.sourceforge.net> | 
+ | [darktable](/f14/package/darktable) | 3633 | 3633 | 100.0 |  | 
+ | [dasher](/f14/package/dasher) | 526 | 526 | 100.0 | Gnome Romanian Team <gnomero-list@lists.sourceforge.net> | 
+ | [deskbar-applet](/f14/package/deskbar-applet) | 1670 | 1670 | 100.0 | Romanian GNOME Team <gnomero-list@lists.sourceforge.net> | 
+ | [devhelp](/f14/package/devhelp) | 436 | 436 | 100.0 | Romanian Gnome Team <gnomero-list@lists.sourceforge.net> | 
+ | [docky](/f14/package/docky) | 599 | 599 | 100.0 | Romanian <ro@li.org> | 
+ | [empathy](/f14/package/empathy) | 3623 | 3623 | 100.0 | Romanian Gnome Team <gnomero-list@lists.sourceforge.net> | 
+ | [eog](/f14/package/eog) | 1527 | 1527 | 100.0 | Romanian GNOME Team <gnomero-list@lists.sourceforge.net> | 
+ | [epiphany](/f14/package/epiphany) | 3073 | 3073 | 100.0 | Romanian GNOME Team <gnomero-list@lists.sourceforge.net> | 
+ | [epiphany-extensions](/f14/package/epiphany-extensions) | 888 | 888 | 100.0 | Gnome Romanian Team <gnomero-list@lists.sourceforge.net> | 
+ | [evince](/f14/package/evince) | 1493 | 1493 | 100.0 | Romanian Gnome Team <gnomero-list@lists.sourceforge.net> | 
+ | [evolution-exchange](/f14/package/evolution-exchange) | 2204 | 2204 | 100.0 | Romanian GNOME Team <gnomero-list@lists.sourceforge.net> | 
+ | [evolution-mapi](/f14/package/evolution-mapi) | 518 | 518 | 100.0 | Romanian Gnome Team <gnomero-list@lists.sourceforge.net> | 
+ | [exo](/f14/package/exo) | 1598 | 1598 | 100.0 | Romanian | 
+ | [f-spot](/f14/package/f-spot) | 3729 | 3729 | 100.0 | Romanian Gnome Team <gnomero-list@lists.sourceforge.net> | 
+ | [file-roller](/f14/package/file-roller) | 1370 | 1370 | 100.0 | Romanian GNOME Team <gnomero-list@lists.sourceforge.net> | 
+ | [filezilla](/f14/package/filezilla) | 9145 | 9145 | 100.0 | MunteAlb, Laurențiu Anisie <muntealb@gmail.com> | 
+ | [galeon](/f14/package/galeon) | 5575 | 5575 | 100.0 | Romanian <gnomero-list@lists.sourceforge.net> | 
+ | [gbrainy](/f14/package/gbrainy) | 8683 | 8683 | 100.0 | Romanian Gnome Team <gnomero-list@lists.sourceforge.net> | 
+ | [gconf-editor](/f14/package/gconf-editor) | 336 | 336 | 100.0 | Gnome Romanian Team <gnomero-list@lists.sourceforge.net> | 
+ | [gdb](/f14/package/gdb) | 4961 | 4961 | 100.0 | Romanian <translation-team-ro@lists.sourceforge.net> | 
+ | [gdm](/f14/package/gdm) | 1306 | 1306 | 100.0 | Romanian Gnome Team <gnomero-list@lists.sourceforge.net> | 
+ | [gedit](/f14/package/gedit) | 5004 | 5004 | 100.0 | Gnome Romanian Team <gnomero-list@lists.sourceforge.net> | 
+ | [gedit-plugins](/f14/package/gedit-plugins) | 3535 | 3535 | 100.0 | română <ro@li.org> | 
+ | [geeqie](/f14/package/geeqie) | 3614 | 3614 | 100.0 | Romanian <rtfs-project@sourceforge.net> | 
+ | [ggz-gtk-client](/f14/package/ggz-gtk-client) | 7 | 7 | 100.0 | Română <gnomero@lists.sourceforge.net> | 
+ | [ghex](/f14/package/ghex) | 363 | 363 | 100.0 | Romanian <ro@li.org> | 
+ | [gimp](/f14/package/gimp) | 26056 | 26056 | 100.0 | Gnome Romanian Team <gnomero-list@lists.sourceforge.net> | 
+ | [gitg](/f14/package/gitg) | 1304 | 1304 | 100.0 | Romanian Gnome Team <gnomero-list@lists.sourceforge.net> | 
+ | [glunarclock](/f14/package/glunarclock) | 226 | 226 | 100.0 | Romanian <translation-team-ro@lists.sourceforge.net> | 
+ | [gmpc](/f14/package/gmpc) | 25 | 25 | 100.0 | Romanian <ro@li.org> | 
+ | [gnome-applets](/f14/package/gnome-applets) | 3407 | 3407 | 100.0 | Romanian Gnome Team <gnomero-list@lists.sourceforge.net> | 
+ | [gnome-backgrounds](/f14/package/gnome-backgrounds) | 23 | 23 | 100.0 | Gnome Romanian Team <gnomero-list@lists.sourceforge.net> | 
+ | [gnome-bluetooth](/f14/package/gnome-bluetooth) | 664 | 664 | 100.0 | Romanian GNOME Team <gnomero-list@lists.sourceforge.net> | 
+ | [gnome-desktop](/f14/package/gnome-desktop) | 438 | 438 | 100.0 | Romanian Gnome Team <gnomero-list@lists.sourceforge.net> | 
+ | [gnome-desktop3](/f14/package/gnome-desktop3) | 349 | 349 | 100.0 | Gnome Romanian Team <gnomero-list@lists.sourceforge.net> | 
+ | [gnome-disk-utility](/f14/package/gnome-disk-utility) | 4544 | 4544 | 100.0 | Romanian GNOME Team <gnomero-list@lists.sourceforge.net> | 
+ | [gnome-doc-utils](/f14/package/gnome-doc-utils) | 251 | 251 | 100.0 | Romanian GNOME Team <gnomero-list@lists.sourceforge.net> | 
+ | [gnome-games](/f14/package/gnome-games) | 7094 | 7094 | 100.0 | Romanian GNOME Team <gnomero-list@lists.sourceforge.net> | 
+ | [gnome-icon-theme](/f14/package/gnome-icon-theme) | 20 | 20 | 100.0 | Romanian <gnomero-list@lists.sourceforge.net> | 
+ | [gnome-keyring](/f14/package/gnome-keyring) | 1246 | 1246 | 100.0 | Romanian GNOME Team <gnomero-list@lists.sourceforge.net> | 
+ | [gnome-mag](/f14/package/gnome-mag) | 298 | 298 | 100.0 | Gnome Romanian Team <gnomero-list@lists.sourceforge.net> | 
+ | [gnome-menus](/f14/package/gnome-menus) | 161 | 161 | 100.0 | Romanian <gnomero-list@lists.sourceforge.net> | 
+ | [gnome-mime-data](/f14/package/gnome-mime-data) | 887 | 887 | 100.0 | <@li.org> | 
+ | [gnome-netstatus](/f14/package/gnome-netstatus) | 418 | 418 | 100.0 | Romanian <gnomero-list@lists.sourceforge.net> | 
+ | [gnome-nettool](/f14/package/gnome-nettool) | 617 | 617 | 100.0 | Gnome Romanian Team <gnomero-list@lists.sourceforge.net> | 
+ | [gnome-packagekit](/f14/package/gnome-packagekit) | 5361 | 5361 | 100.0 | Romanian GNOME Team <gnomero-list@lists.sourceforge.net> | 
+ | [gnome-panel](/f14/package/gnome-panel) | 4556 | 4556 | 100.0 | Romanian GNOME Team <gnomero-list@lists.sourceforge.net> | 
+ | [gnome-power-manager](/f14/package/gnome-power-manager) | 2727 | 2727 | 100.0 | Romanian GNOME Team <gnomero-list@lists.sourceforge.net> | 
+ | [gnome-screensaver](/f14/package/gnome-screensaver) | 989 | 989 | 100.0 | Romanian <gnomero-list@lists.sourceforge.net> | 
+ | [gnome-session](/f14/package/gnome-session) | 638 | 638 | 100.0 | Gnome Romanian Team <gnomero-list@lists.sourceforge.net> | 
+ | [gnome-settings-daemon](/f14/package/gnome-settings-daemon) | 1988 | 1988 | 100.0 | Romanian Gnome Team <gnomero-list@lists.sourceforge.net> | 
+ | [gnome-shell](/f14/package/gnome-shell) | 115 | 115 | 100.0 | Romanian <gnomero-list@lists.sourceforge.net> | 
+ | [gnome-subtitles](/f14/package/gnome-subtitles) | 2719 | 2719 | 100.0 | Romanian Gnome Team <gnomero-list@lists.sourceforge.net> | 
+ | [gnome-system-monitor](/f14/package/gnome-system-monitor) | 933 | 933 | 100.0 | Romanian <gnomero-list@lists.sourceforge.net> | 
+ | [gnome-terminal](/f14/package/gnome-terminal) | 4141 | 4141 | 100.0 | Romanian GNOME Team <gnomero-list@lists.sourceforge.net> | 
+ | [gnome-themes](/f14/package/gnome-themes) | 109 | 109 | 100.0 | Gnome Romanian Team <gnomero-list@lists.sourceforge.net> | 
+ | [gnome-user-share](/f14/package/gnome-user-share) | 333 | 333 | 100.0 | Romanian Gnome Team <gnomero-list@lists.sourceforge.net> | 
+ | [gnome-utils](/f14/package/gnome-utils) | 3921 | 3921 | 100.0 | Gnome Romanian Team <gnomero-list@lists.sourceforge.net> | 
+ | [gnome-vfs2](/f14/package/gnome-vfs2) | 1519 | 1519 | 100.0 | Gnome Romanian Team <gnomero-list@lists.sourceforge.net> | 
+ | [gnome-video-effects](/f14/package/gnome-video-effects) | 26 | 26 | 100.0 | Romanian Gnome Team <gnomero-list@lists.sourceforge.net> | 
+ | [gnote](/f14/package/gnote) | 2283 | 2283 | 100.0 | Romanian Gnome Team <gnomero-list@lists.sourceforge.net> | 
+ | [gok](/f14/package/gok) | 1915 | 1915 | 100.0 | Romanian GNOME Team <gnomero-list@lists.sourceforge.net> | 
+ | [gparted](/f14/package/gparted) | 1581 | 1581 | 100.0 | Romanian GNOME Team <gnomero-list@lists.sourceforge.net> | 
+ | [gstreamer-plugins-bad-free](/f14/package/gstreamer-plugins-bad-free) | 72 | 72 | 100.0 | Romanian <translation-team-ro@lists.sourceforge.net> | 
+ | [gtk+](/f14/package/gtk+) | 202 | 202 | 100.0 | Romanian <ro@li.org> | 
+ | [gtk-vnc](/f14/package/gtk-vnc) | 8 | 8 | 100.0 | Romanian Gnome Team <gnomero-list@lists.sourceforge.net> | 
+ | [gtk2-engines](/f14/package/gtk2-engines) | 119 | 119 | 100.0 | Gnome Romanian Team <gnomero-list@lists.sourceforge.net> | 
+ | [gtk3-engines](/f14/package/gtk3-engines) | 119 | 119 | 100.0 | Gnome Romanian Team <gnomero-list@lists.sourceforge.net> | 
+ | [gtkhtml3](/f14/package/gtkhtml3) | 713 | 713 | 100.0 | Romanian GNOME Team <gnomero-list@lists.sourceforge.net> | 
+ | [gtksourceview](/f14/package/gtksourceview) | 821 | 821 | 100.0 | Romanian <gnomero-list@lists.sourceforge.net> | 
+ | [gtksourceview2](/f14/package/gtksourceview2) | 1413 | 1413 | 100.0 | Romanian GNOME Team <gnomero-list@lists.sourceforge.net> | 
+ | [gtksourceview3](/f14/package/gtksourceview3) | 1413 | 1413 | 100.0 | Romanian GNOME Team <gnomero-list@lists.sourceforge.net> | 
+ | [gtkspell](/f14/package/gtkspell) | 11 | 11 | 100.0 | Romanian <translation-team-ro@lists.sourceforge.net> | 
+ | [gucharmap](/f14/package/gucharmap) | 863 | 863 | 100.0 | Romanian Gnome Team <gnomero-list@lists.sourceforge.net> | 
+ | [gvfs](/f14/package/gvfs) | 1983 | 1983 | 100.0 | Romanian Gnome Team <gnomero-list@lists.sourceforge.net> | 
+ | [hamster-applet](/f14/package/hamster-applet) | 717 | 717 | 100.0 | Romanian Gnome Team <gnomero-list@lists.sourceforge.net> | 
+ | [horde](/f14/package/horde) | 773 | 773 | 100.0 | ROMANIAN <i18n@lists.horde.org> | 
+ | [ingo](/f14/package/ingo) | 418 | 418 | 100.0 | Romanian <i18n@lists.horde.org> | 
+ | [insight](/f14/package/insight) | 4961 | 4961 | 100.0 | Romanian <translation-team-ro@lists.sourceforge.net> | 
+ | [isomaster](/f14/package/isomaster) | 674 | 674 | 100.0 | English <en@li.org> | 
+ | [kbd](/f14/package/kbd) | 1641 | 1641 | 100.0 | Romanian <translation-team-ro@lists.sourceforge.net> | 
+ | [kgrab](/f14/package/kgrab) | 370 | 370 | 100.0 | Română <kde-i18n-ro@kde.org> | 
+ | [kiconedit](/f14/package/kiconedit) | 726 | 726 | 100.0 | Romanian <kde-i18n-ro@lists.kde.org> | 
+ | [kio_gopher](/f14/package/kio_gopher) | 17 | 17 | 100.0 | Romanian <kde-i18n-ro@lists.kde.org> | 
+ | [konq-plugins](/f14/package/konq-plugins) | 1692 | 1692 | 100.0 | Romanian <kde-i18n-ro@lists.kde.org> | 
+ | [kronolith](/f14/package/kronolith) | 401 | 401 | 100.0 | Romanian <i18n@lists.horde.org> | 
+ | [ksig](/f14/package/ksig) | 85 | 85 | 100.0 | Romanian <kde-i18n-ro@kde.org> | 
+ | [libbonobo](/f14/package/libbonobo) | 543 | 543 | 100.0 | Romanian <gnomero-list@lists.sourceforge.net> | 
+ | [libbonoboui](/f14/package/libbonoboui) | 368 | 368 | 100.0 | Romanian <gnomero-list@lists.sourceforge.net> | 
+ | [libgdl](/f14/package/libgdl) | 600 | 600 | 100.0 | Gnome Romanian Team <gnomero-list@lists.sourceforge.net> | 
+ | [libgnome](/f14/package/libgnome) | 1773 | 1773 | 100.0 | <gnomero-list@lists.sourceforge.net> | 
+ | [libgnome-keyring](/f14/package/libgnome-keyring) | 44 | 44 | 100.0 | Romanian <gnomero-list@lists.sourceforge.net> | 
+ | [libgnomecanvas](/f14/package/libgnomecanvas) | 378 | 378 | 100.0 | Romanian <gnomero-list@lists.sourceforge.net> | 
+ | [libgnomekbd](/f14/package/libgnomekbd) | 286 | 286 | 100.0 | Romanian GNOME Team <gnomero-list@lists.sourceforge.net> | 
+ | [libgnomeprint22](/f14/package/libgnomeprint22) | 168 | 168 | 100.0 | Romanian <gnomero-list@lists.sourceforge.net> | 
+ | [libgnomeprintui22](/f14/package/libgnomeprintui22) | 481 | 481 | 100.0 | română <gnomero-list@lists.sourceforge.net> | 
+ | [libgnomeui](/f14/package/libgnomeui) | 1226 | 1226 | 100.0 | <gnomero-list@lists.sourceforge.net> | 
+ | [libgtop2](/f14/package/libgtop2) | 126 | 126 | 100.0 | Romanian <gnomero-list@lists.sourceforge.net> | 
+ | [libgweather](/f14/package/libgweather) | 6090 | 6090 | 100.0 | Romanian GNOME Team <gnomero-list@lists.sourceforge.net> | 
+ | [libmx](/f14/package/libmx) | 40 | 40 | 100.0 | Moblin Romania <live@moblin.ro> | 
+ | [libsocialweb](/f14/package/libsocialweb) | 136 | 136 | 100.0 | Moblin Romania <live@moblin.ro> | 
+ | [libwnck](/f14/package/libwnck) | 1124 | 1124 | 100.0 | Romanian GNOME Team <gnomero-list@lists.sourceforge.net> | 
+ | [libxfce4menu](/f14/package/libxfce4menu) | 31 | 31 | 100.0 | Romanian | 
+ | [libxfce4util](/f14/package/libxfce4util) | 413 | 413 | 100.0 | Romanian | 
+ | [libxfcegui4](/f14/package/libxfcegui4) | 234 | 234 | 100.0 | Romanian | 
+ | [licq](/f14/package/licq) | 30 | 30 | 100.0 | Romanian <ro@li.org> | 
+ | [liferea](/f14/package/liferea) | 2411 | 2411 | 100.0 | Romanian <translation-team-ro@lists.sourceforge.net> | 
+ | [lxmenu-data](/f14/package/lxmenu-data) | 97 | 97 | 100.0 | Romanian <gnomero-list@lists.sourceforge.net> | 
+ | [lxsession](/f14/package/lxsession) | 37 | 37 | 100.0 | Romanian <LL@li.org> | 
+ | [metacity](/f14/package/metacity) | 3798 | 3798 | 100.0 | Romanian GNOME Team <gnomero-list@lists.sourceforge.net> | 
+ | [midori](/f14/package/midori) | 2458 | 2458 | 100.0 | Romanian <xfce-i18n@xfce.org> | 
+ | [mingw-gdb](/f14/package/mingw-gdb) | 4961 | 4961 | 100.0 | Romanian <translation-team-ro@lists.sourceforge.net> | 
+ | [mingw32-atk](/f14/package/mingw32-atk) | 375 | 375 | 100.0 | Romanian <gnomero-list@lists.sourceforge.net> | 
+ | [mingw32-gtkhtml3](/f14/package/mingw32-gtkhtml3) | 713 | 713 | 100.0 | Romanian GNOME Team <gnomero-list@lists.sourceforge.net> | 
+ | [moblin-panel-applications](/f14/package/moblin-panel-applications) | 5 | 5 | 100.0 | Moblin Romania <live@moblin.ro> | 
+ | [moblin-panel-media](/f14/package/moblin-panel-media) | 55 | 55 | 100.0 | Moblin Romania <live@moblin.ro> | 
+ | [moblin-panel-myzone](/f14/package/moblin-panel-myzone) | 66 | 66 | 100.0 | Moblin Romania <live@moblin.ro> | 
+ | [moblin-panel-people](/f14/package/moblin-panel-people) | 44 | 44 | 100.0 | Moblin Romania <live@moblin.ro> | 
+ | [moblin-panel-status](/f14/package/moblin-panel-status) | 76 | 76 | 100.0 | Moblin Romania <live@moblin.ro> | 
+ | [mousetweaks](/f14/package/mousetweaks) | 698 | 698 | 100.0 | Romanian Gnome Team <gnomero-list@lists.sourceforge.net> | 
+ | [mutter](/f14/package/mutter) | 3864 | 3864 | 100.0 | Gnome Romanian Team <gnomero-list@lists.sourceforge.net> | 
+ | [mutter-mbl](/f14/package/mutter-mbl) | 3864 | 3864 | 100.0 | Gnome Romanian Team <gnomero-list@lists.sourceforge.net> | 
+ | [mutter-moblin](/f14/package/mutter-moblin) | 88 | 88 | 100.0 | Moblin Romania <live@moblin.ro> | 
+ | [nautilus](/f14/package/nautilus) | 8891 | 8891 | 100.0 | Romanian Gnome Team <gnomero-list@lists.sourceforge.net> | 
+ | [nautilus-open-terminal](/f14/package/nautilus-open-terminal) | 166 | 166 | 100.0 | Română <gnomero-list@lists.sourceforge.net> | 
+ | [nautilus-sendto](/f14/package/nautilus-sendto) | 316 | 316 | 100.0 | Romanian <gnomero-list@lists.sourceforge.net> | 
+ | [nbtk](/f14/package/nbtk) | 44 | 44 | 100.0 | Moblin Romania <live@moblin.ro> | 
+ | [netactview](/f14/package/netactview) | 279 | 279 | 100.0 | Romanian | 
+ | [newt](/f14/package/newt) | 4 | 4 | 100.0 | Romanian <Romanian> | 
+ | [oggconvert](/f14/package/oggconvert) | 132 | 132 | 100.0 | Romanian <ro@li.org> | 
+ | [orca](/f14/package/orca) | 4011 | 4011 | 100.0 | Romanian GNOME Team <gnomero-list@lists.sourceforge.net> | 
+ | [pam_krb5](/f14/package/pam_krb5) | 7 | 7 | 100.0 | Romanian <gnomero-list@lists.sourceforge.net> | 
+ | [parcellite](/f14/package/parcellite) | 149 | 149 | 100.0 |  | 
+ | [pessulus](/f14/package/pessulus) | 130 | 130 | 100.0 | Romanian <gnomero-list@lists.sourceforge.net> | 
+ | [pidgin](/f14/package/pidgin) | 18328 | 18328 | 100.0 | Romanian (http://www.transifex.net/projects/p/pidgin/team/ro/) | 
+ | [pidgin-gfire](/f14/package/pidgin-gfire) | 1173 | 1173 | 100.0 |  | 
+ | [pidgin-musictracker](/f14/package/pidgin-musictracker) | 333 | 333 | 100.0 | Romanian <ro@li.org> | 
+ | [pino](/f14/package/pino) | 352 | 352 | 100.0 | Romanian <none@email.com> | 
+ | [pitivi](/f14/package/pitivi) | 1306 | 1306 | 100.0 | Gnome Romanian Team <gnomero-list@lists.sourceforge.net> | 
+ | [pmount](/f14/package/pmount) | 723 | 723 | 100.0 | Romanian <ro@li.org> | 
+ | [pootle](/f14/package/pootle) | 2424 | 2424 | 100.0 | Romanian | 
+ | [postgresql](/f14/package/postgresql) | 2696 | 2696 | 100.0 | Română <en@li.org> | 
+ | [powertop](/f14/package/powertop) | 1041 | 1041 | 100.0 | Moblin Romania <live@moblin.ro> | 
+ | [prozilla](/f14/package/prozilla) | 913 | 913 | 100.0 | RTFS <rtfs-project@lists.sourceforge.net> | 
+ | [pybliographer](/f14/package/pybliographer) | 965 | 965 | 100.0 | Romanian Gnome Team <gnomero-list@lists.sourceforge.net> | 
+ | [quitcount](/f14/package/quitcount) | 166 | 166 | 100.0 | Ubuntu Romanian Quality Assurance | 
+ | [radiotray](/f14/package/radiotray) | 95 | 95 | 100.0 | Romanian (http://www.transifex.net/projects/p/radiotray/team/ro/) | 
+ | [redhat-menus](/f14/package/redhat-menus) | 261 | 261 | 100.0 | <en@li.org> | 
+ | [rednotebook](/f14/package/rednotebook) | 978 | 978 | 100.0 | Romanian <ro@li.org> | 
+ | [rhnsd](/f14/package/rhnsd) | 42 | 42 | 100.0 | Romanian <gnomero-list@lists.sourceforge.net> | 
+ | [sabayon](/f14/package/sabayon) | 743 | 743 | 100.0 | Gnome Romanian Team <gnomero-list@lists.sourceforge.net> | 
+ | [seahorse](/f14/package/seahorse) | 3061 | 3061 | 100.0 | Romanian GNOME Team <gnomero-list@lists.sourceforge.net> | 
+ | [seahorse-plugins](/f14/package/seahorse-plugins) | 1148 | 1148 | 100.0 | Romanian <gnomero-list@lists.sourceforge.net> | 
+ | [shared-mime-info](/f14/package/shared-mime-info) | 1569 | 1569 | 100.0 | Romanian Gnome Team <gnomero-list@lists.sourceforge.net> | 
+ | [shotwell](/f14/package/shotwell) | 3707 | 3707 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [simple-scan](/f14/package/simple-scan) | 651 | 651 | 100.0 | Romanian <translation-team-ro@lists.sourceforge.net> | 
+ | [sound-juicer](/f14/package/sound-juicer) | 986 | 986 | 100.0 | Romanian Gnome Team <gnomero-list@lists.sourceforge.net> | 
+ | [steghide](/f14/package/steghide) | 1859 | 1859 | 100.0 | ROMANIAN <lacroix-iv(NO SPAM)@go.ro> | 
+ | [subdownloader](/f14/package/subdownloader) | 968 | 968 | 100.0 | Romanian Gnome Team <gnomero-list@lists.sourceforge.net> | 
+ | [sugar-connect](/f14/package/sugar-connect) | 31 | 31 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [switchdesk](/f14/package/switchdesk) | 137 | 137 | 100.0 | Romanian <gnomero-list@lists.sourceforge.net> | 
+ | [syncevolution](/f14/package/syncevolution) | 564 | 564 | 100.0 | Moblin Romania <live@moblin.ro> | 
+ | [sysstat](/f14/package/sysstat) | 234 | 234 | 100.0 | Romanian | 
+ | [system-config-httpd](/f14/package/system-config-httpd) | 858 | 858 | 100.0 | <ro@li.org> | 
+ | [system-config-netboot](/f14/package/system-config-netboot) | 1103 | 1103 | 100.0 | <ro@li.org> | 
+ | [system-switch-java](/f14/package/system-switch-java) | 81 | 81 | 100.0 | Romanian | 
+ | [system-switch-mail](/f14/package/system-switch-mail) | 134 | 134 | 100.0 | Romanian <gnomero-list@lists.sourceforge.net> | 
+ | [tasks](/f14/package/tasks) | 301 | 301 | 100.0 | Romanian Gnome Team <gnomero-list@lists.sourceforge.net> | 
+ | [terminator](/f14/package/terminator) | 339 | 339 | 100.0 | Romanian <ro@li.org> | 
+ | [texlive](/f14/package/texlive) | 4382 | 4382 | 100.0 | Romanian <translation-team-ro@lists.sourceforge.net> | 
+ | [tomboy](/f14/package/tomboy) | 3104 | 3104 | 100.0 | Romanian Gnome Team <gnomero-list@lists.sourceforge.net> | 
+ | [toppler](/f14/package/toppler) | 552 | 552 | 100.0 | Romanian <debian-l10n-romanian@lists.debian.org> | 
+ | [totem](/f14/package/totem) | 2699 | 2699 | 100.0 | Romanian Gnome Team <gnomero-list@lists.sourceforge.net> | 
+ | [totem-pl-parser](/f14/package/totem-pl-parser) | 28 | 28 | 100.0 | RGnome Romanian Team <gnomero-list@lists.sourceforge.net> | 
+ | [turba](/f14/package/turba) | 502 | 502 | 100.0 | Romanian <i18n@lists.horde.org> | 
+ | [txt2regex](/f14/package/txt2regex) | 277 | 277 | 100.0 | Romanian team | 
+ | [vinagre](/f14/package/vinagre) | 1599 | 1599 | 100.0 | Romanian GNOME Team <gnomero-list@lists.sourceforge.net> | 
+ | [vino](/f14/package/vino) | 1215 | 1215 | 100.0 | Romanian <gnomero-list@lists.sourceforge.net> | 
+ | [vte](/f14/package/vte) | 80 | 80 | 100.0 | Romanian Gnome Team <gnomero-list@lists.sourceforge.net> | 
+ | [xcdroast](/f14/package/xcdroast) | 8044 | 8044 | 100.0 | Romanian <jamess@linuxwaves.com> | 
+ | [xdg-user-dirs](/f14/package/xdg-user-dirs) | 28 | 28 | 100.0 | Romanian <translation-team-ro@lists.sourceforge.net> | 
+ | [xfce-utils](/f14/package/xfce-utils) | 131 | 131 | 100.0 | Romanian <xfce-i18n@xfce.org> | 
+ | [xfce4-appfinder](/f14/package/xfce4-appfinder) | 84 | 84 | 100.0 | Romanian <xfce-i18n@xfce.org> | 
+ | [xfce4-icon-theme](/f14/package/xfce4-icon-theme) | 8 | 8 | 100.0 | Romanian | 
+ | [xfce4-places-plugin](/f14/package/xfce4-places-plugin) | 75 | 75 | 100.0 | Romanian <debian-l10n-romanian@lists.debian.org> | 
+ | [xfce4-session](/f14/package/xfce4-session) | 988 | 988 | 100.0 | Romanian <xfce-i18n@xfce.org> | 
+ | [xfce4-xkb-plugin](/f14/package/xfce4-xkb-plugin) | 64 | 64 | 100.0 | Romanian <debian-l10n-romanian@lists.debian.org> | 
+ | [xfconf](/f14/package/xfconf) | 421 | 421 | 100.0 | Romanian | 
+ | [xfdesktop](/f14/package/xfdesktop) | 1002 | 1002 | 100.0 | Romanian <xfce-i18n@xfce.org> | 
+ | [xfwm4](/f14/package/xfwm4) | 797 | 797 | 100.0 | Romanian <xfce-i18n@xfce.org> | 
+ | [yelp](/f14/package/yelp) | 1094 | 1094 | 100.0 | Română <gnomero@lists.sourceforge.net> | 
+ | [yelp-xsl](/f14/package/yelp-xsl) | 249 | 249 | 100.0 | Gnome Romanian Team <gnomero-list@lists.sourceforge.net> | 
+ | [zenity](/f14/package/zenity) | 631 | 631 | 100.0 | Romanian Gnome Team <gnomero-list@lists.sourceforge.net> | 
+ | [gtk2](/f14/package/gtk2) | 13699 | 13704 | 100.0 | Romanian GNOME Team <gnomero-list@lists.sourceforge.net> | 
+ | [mingw32-gtk2](/f14/package/mingw32-gtk2) | 13699 | 13704 | 100.0 | Romanian GNOME Team <gnomero-list@lists.sourceforge.net> | 
+ | [gnupg](/f14/package/gnupg) | 8622 | 8629 | 99.9 | Romanian <translation-team-ro@lists.sourceforge.net> | 
+ | [nemiver](/f14/package/nemiver) | 1101 | 1102 | 99.9 | Romanian Gnome Team <gnomero-list@lists.sourceforge.net> | 
+ | [bluedevil](/f14/package/bluedevil) | 603 | 604 | 99.8 | Romanian <kde-i18n-ro@kde.org> | 
+ | [sepostgresql](/f14/package/sepostgresql) | 4900 | 4910 | 99.8 | Română <max@oceanline.ro> | 
+ | [ekiga](/f14/package/ekiga) | 4034 | 4043 | 99.8 | Romanian <gnomero-list@lists.sourceforge.net> | 
+ | [gambas2](/f14/package/gambas2) | 2589 | 2596 | 99.7 | LANGUAGE <LL@li.org> | 
+ | [xfprint](/f14/package/xfprint) | 321 | 322 | 99.7 | Romanian <gnomero-list@lists.sourceforge.net> | 
+ | [glib2](/f14/package/glib2) | 4389 | 4403 | 99.7 | Romanian Gnome Team <gnomero-list@lists.sourceforge.net> | 
+ | [mingw32-glib2](/f14/package/mingw32-glib2) | 4389 | 4403 | 99.7 | Romanian Gnome Team <gnomero-list@lists.sourceforge.net> | 
+ | [gwget](/f14/package/gwget) | 274 | 275 | 99.6 | Romanian <gnomero-list@lists.sourceforge.net> | 
+ | [evolution](/f14/package/evolution) | 21479 | 21558 | 99.6 | Romanian Gnome Team <gnomero-list@lists.sourceforge.net> | 
+ | [celestia](/f14/package/celestia) | 1971 | 1979 | 99.6 | LANGUAGE <LL@li.org> | 
+ | [gtk3](/f14/package/gtk3) | 11936 | 11998 | 99.5 | Romanian GNOME Team <gnomero-list@lists.sourceforge.net> | 
+ | [xfce4-panel](/f14/package/xfce4-panel) | 537 | 540 | 99.4 | Romanian <xfce-i18n@xfce.org> | 
+ | [aspell](/f14/package/aspell) | 1715 | 1726 | 99.4 | Romanian <translation-team-ro@lists.sourceforge.net> | 
+ | [gdk-pixbuf2](/f14/package/gdk-pixbuf2) | 1297 | 1313 | 98.8 | Romanian GNOME Team <gnomero-list@lists.sourceforge.net> | 
+ | [mingw32-gdk-pixbuf](/f14/package/mingw32-gdk-pixbuf) | 1297 | 1313 | 98.8 | Romanian GNOME Team <gnomero-list@lists.sourceforge.net> | 
+ | [rhythmbox](/f14/package/rhythmbox) | 10004 | 10151 | 98.6 | Romanian Gnome Team <gnomero-list@lists.sourceforge.net> | 
+ | [squirrelmail](/f14/package/squirrelmail) | 8203 | 8325 | 98.5 | Romanian <squirrelmail-i18n@lists.sourceforge.net> | 
+ | [ario](/f14/package/ario) | 768 | 780 | 98.5 | Romanian <ro@li.org> | 
+ | [usermode](/f14/package/usermode) | 570 | 579 | 98.4 | Romanian <gnomero-list@lists.sourceforge.net> | 
+ | [flex](/f14/package/flex) | 1052 | 1069 | 98.4 | Romanian <translation-team-ro@lists.sourceforge.net> | 
+ | [gpsdrive](/f14/package/gpsdrive) | 1590 | 1616 | 98.4 | Romanian <translation-team-ro@lists.sourceforge.net> | 
+ | [poedit](/f14/package/poedit) | 1143 | 1162 | 98.4 | MunteAlb, Romanian Translators for Free Software <muntealb@gmail.com> | 
+ | [vdr](/f14/package/vdr) | 793 | 807 | 98.3 | Romanian | 
+ | [pinfo](/f14/package/pinfo) | 315 | 321 | 98.1 | Romanian <debian-l10n-romanian@lists.debian.org> | 
+ | [sylpheed](/f14/package/sylpheed) | 6765 | 6904 | 98.0 | Gnome Romanian Team <gnomero-list@lists.sourceforge.net> | 
+ | [gnome-media](/f14/package/gnome-media) | 1208 | 1238 | 97.6 | Romanian Gnome Team <gnomero-list@lists.sourceforge.net> | 
+ | [evolution-data-server](/f14/package/evolution-data-server) | 4363 | 4482 | 97.3 | Romanian GNOME Team <gnomero-list@lists.sourceforge.net> | 
+ | [wormux](/f14/package/wormux) | 1865 | 1916 | 97.3 | Romanian <debian-l10n-romanian@lists.debian.org> | 
+ | [passwd](/f14/package/passwd) | 291 | 299 | 97.3 | <ro@li.org> | 
+ | [sugar-write](/f14/package/sugar-write) | 71 | 73 | 97.3 | LANGUAGE <LL@li.org> | 
+ | [dexter](/f14/package/dexter) | 221 | 228 | 96.9 | Romanian <ro@li.org> | 
+ | [gstreamer](/f14/package/gstreamer) | 1828 | 1898 | 96.3 | Romanian <translation-team-ro@lists.sourceforge.net> | 
+ | [kmymoney](/f14/package/kmymoney) | 17964 | 18793 | 95.6 | Romanian <kde-i18n-ro@kde.org> | 
+ | [kdesvn](/f14/package/kdesvn) | 4095 | 4287 | 95.5 | Romanian <kde-i18n-doc@lists.kde.org> | 
+ | [gstreamer-plugins-good](/f14/package/gstreamer-plugins-good) | 750 | 788 | 95.2 | Romanian <translation-team-ro@lists.sourceforge.net> | 
+ | [gcalctool](/f14/package/gcalctool) | 1073 | 1128 | 95.1 | Romanian Gnome Team <gnomero-list@lists.sourceforge.net> | 
+ | [xaos](/f14/package/xaos) | 858 | 907 | 94.6 | The XaoS Development Team <xaos-devel@lists.sf.net> | 
+ | [kopete-cryptography](/f14/package/kopete-cryptography) | 384 | 408 | 94.1 | Romanian <kde-i18n-ro@lists.kde.org> | 
+ | [sentinella](/f14/package/sentinella) | 409 | 435 | 94.0 | Romanian <vasilescu.laura@gmail.com> | 
+ | [polkit-kde](/f14/package/polkit-kde) | 86 | 92 | 93.5 | Română <kde-i18n-ro@kde.org> | 
+ | [rygel](/f14/package/rygel) | 554 | 597 | 92.8 | Romanian Gnome Team <gnomero-list@lists.sourceforge.net> | 
+ | [system-config-nfs](/f14/package/system-config-nfs) | 306 | 332 | 92.2 | <ro@li.org> | 
+ | [xmms](/f14/package/xmms) | 3164 | 3443 | 91.9 | Romanian | 
+ | [gftp](/f14/package/gftp) | 3096 | 3375 | 91.7 | Română <gnomero@lists.sourceforge.net> | 
+ | [jwhois](/f14/package/jwhois) | 401 | 440 | 91.1 | Romanian <translation-team-ro@lists.sourceforge.net> | 
+ | [gnome-libs](/f14/package/gnome-libs) | 988 | 1085 | 91.1 | Romanian <ro@li.org> | 
+ | [Django](/f14/package/Django) | 3616 | 3975 | 91.0 | Romanian <None> | 
+ | [wxPython](/f14/package/wxPython) | 2067 | 2275 | 90.9 | Romanian GNOME Team <gnomero-list@lists.sourceforge.net> | 
+ | [kbluetooth](/f14/package/kbluetooth) | 303 | 341 | 88.9 | Română <kde-i18n-ro@kde.org> | 
+ | [xchm](/f14/package/xchm) | 196 | 222 | 88.3 | Romanian <debian-l10n-romanian@lists.debian.org> | 
+ | [shutter](/f14/package/shutter) | 2633 | 2990 | 88.1 | Romanian | 
+ | [avahi](/f14/package/avahi) | 758 | 865 | 87.6 | Romanian <LL@li.org> | 
+ | [xfce4-notes-plugin](/f14/package/xfce4-notes-plugin) | 97 | 111 | 87.4 | Romanian <debian-l10n-romanian@lists.debian.org> | 
+ | [pidgin-libnotify](/f14/package/pidgin-libnotify) | 31 | 36 | 86.1 | <ro@li.org> | 
+ | [workrave](/f14/package/workrave) | 1054 | 1227 | 85.9 | Romanian <LL@li.org> | 
+ | [kio_sysinfo](/f14/package/kio_sysinfo) | 144 | 168 | 85.7 | Romanian <kde-i18n-ro@lists.kde.org> | 
+ | [lxinput](/f14/package/lxinput) | 60 | 70 | 85.7 | Romanian <LL@li.org> | 
+ | [dpkg](/f14/package/dpkg) | 8563 | 10019 | 85.5 | Romanian <debian-l10n-romanian@lists.debian.org> | 
+ | [setuptool](/f14/package/setuptool) | 47 | 55 | 85.5 | Romanian <gnomero-list@lists.sourceforge.net> | 
+ | [WindowMaker](/f14/package/WindowMaker) | 530 | 629 | 84.3 | Romanian | 
+ | [gnome-applet-netspeed](/f14/package/gnome-applet-netspeed) | 111 | 132 | 84.1 | Romanian | 
+ | [libgsasl](/f14/package/libgsasl) | 435 | 518 | 84.0 | Romanian <translation-team-ro@lists.sourceforge.net> | 
+ | [kcoloredit](/f14/package/kcoloredit) | 232 | 278 | 83.5 | Romanian <kde-i18n-ro@lists.kde.org> | 
+ | [mingw32-libgpg-error](/f14/package/mingw32-libgpg-error) | 614 | 740 | 83.0 | Romanian <translation-team-ro@lists.sourceforge.net> | 
+ | [kde-plasma-networkmanagement](/f14/package/kde-plasma-networkmanagement) | 2378 | 2870 | 82.9 | Romanian <kde-i18n-ro@kde.org> | 
+ | [clamtk](/f14/package/clamtk) | 666 | 805 | 82.7 | LANGUAGE <LL@li.org> | 
+ | [gthumb](/f14/package/gthumb) | 2884 | 3512 | 82.1 | Gnome Romanian Team <gnomero-list@lists.sourceforge.net> | 
+ | [gphoto2](/f14/package/gphoto2) | 1270 | 1551 | 81.9 | Romanian <translation-team-ro@lists.sourceforge.net> | 
+ | [system-config-printer](/f14/package/system-config-printer) | 2546 | 3120 | 81.6 | Romanian <None> | 
+ | [system-config-network](/f14/package/system-config-network) | 2457 | 3022 | 81.3 | <ro@li.org> | 
+ | [libgpg-error](/f14/package/libgpg-error) | 614 | 761 | 80.7 | Romanian <translation-team-ro@lists.sourceforge.net> | 
+ | [gnome-color-manager](/f14/package/gnome-color-manager) | 1942 | 2413 | 80.5 | Romanian Gnome Team <gnomero-list@lists.sourceforge.net> | 
+ | [chkconfig](/f14/package/chkconfig) | 963 | 1220 | 78.9 | Romanian <LL@li.org> | 
+ | [homebank](/f14/package/homebank) | 1186 | 1509 | 78.6 | Romanian <ro@li.org> | 
+ | [supertux](/f14/package/supertux) | 1140 | 1456 | 78.3 | English | 
+ | [gnome-activity-journal](/f14/package/gnome-activity-journal) | 247 | 316 | 78.2 | Romanian <ro@li.org> | 
+ | [sed](/f14/package/sed) | 454 | 581 | 78.1 | Romanian <translation-team-ro@lists.sourceforge.net> | 
+ | [gnucash](/f14/package/gnucash) | 20531 | 26312 | 78.0 | American English <kde-i18n-doc@lists.kde.org> | 
+ | [sugar-read](/f14/package/sugar-read) | 21 | 27 | 77.8 | LANGUAGE <LL@li.org> | 
+ | [gnome-do](/f14/package/gnome-do) | 473 | 612 | 77.3 | Romanian <ro@li.org> | 
+ | [mingw32-gettext](/f14/package/mingw32-gettext) | 5269 | 6844 | 77.0 | Romanian <translation-team-ro@lists.sourceforge.net> | 
+ | [sugar-chat](/f14/package/sugar-chat) | 16 | 21 | 76.2 | LANGUAGE <LL@li.org> | 
+ | [kde-partitionmanager](/f14/package/kde-partitionmanager) | 2077 | 2732 | 76.0 | Română <kde-i18n-ro@kde.org> | 
+ | [gnome-applet-window-picker](/f14/package/gnome-applet-window-picker) | 22 | 29 | 75.9 | Romanian | 
+ | [decibel-audio-player](/f14/package/decibel-audio-player) | 1133 | 1494 | 75.8 | Romanian <ro@li.org> | 
+ | [evolution-rspam](/f14/package/evolution-rspam) | 147 | 194 | 75.8 | Romanian <RO@li.org> | 
+ | [synapse](/f14/package/synapse) | 396 | 535 | 74.0 | Romanian <ro@li.org> | 
+ | [gpodder](/f14/package/gpodder) | 1744 | 2360 | 73.9 | Gherhardt Mathisz <gmathisz@gmail.com> | 
+ | [kmplayer](/f14/package/kmplayer) | 922 | 1248 | 73.9 | Romanian <kde-i18n-ro@lists.kde.org> | 
+ | [Miro](/f14/package/Miro) | 2448 | 3336 | 73.4 |  | 
+ | [fuse-encfs](/f14/package/fuse-encfs) | 962 | 1315 | 73.2 | Romanian <ro@li.org> | 
+ | [supertuxkart](/f14/package/supertuxkart) | 663 | 907 | 73.1 |  | 
+ | [wine](/f14/package/wine) | 8545 | 11786 | 72.5 | none | 
+ | [gstreamer-plugins-base](/f14/package/gstreamer-plugins-base) | 645 | 891 | 72.4 | Romanian <translation-team-ro@lists.sourceforge.net> | 
+ | [libgpod](/f14/package/libgpod) | 761 | 1053 | 72.3 | Romanian <tradu@softwareliber.ro> | 
+ | [minicom](/f14/package/minicom) | 1228 | 1716 | 71.6 | Romanian <translation-team-ro@lists.sourceforge.net> | 
+ | [gettext](/f14/package/gettext) | 4891 | 6857 | 71.3 | Romanian <translation-team-ro@lists.sourceforge.net> | 
+ | [imp](/f14/package/imp) | 1562 | 2190 | 71.3 | Romanian <i18n@lists.horde.org> | 
+ | [xiphos](/f14/package/xiphos) | 2679 | 3815 | 70.2 | Xiphos <nick.laurentiu.nica@gmail.com> | 
+ | [rapid-photo-downloader](/f14/package/rapid-photo-downloader) | 943 | 1352 | 69.7 | Romanian <ro@li.org> | 
+ | [quodlibet](/f14/package/quodlibet) | 1599 | 2295 | 69.7 | Română <gnomero@lists.sourceforge.net> | 
+ | [childsplay](/f14/package/childsplay) | 851 | 1226 | 69.4 | ROMANIAN <p_b_richardson@yahoo.co.uk> | 
+ | [sugar-surf](/f14/package/sugar-surf) | 36 | 52 | 69.2 | LANGUAGE <LL@li.org> | 
+ | [glade2](/f14/package/glade2) | 4013 | 5840 | 68.7 | Romanian <gnome-ro@pelican.level7.ro> | 
+ | [gawk](/f14/package/gawk) | 1758 | 2604 | 67.5 | Romanian <translation-team-ro@lists.sourceforge.net> | 
+ | [sugar-browse](/f14/package/sugar-browse) | 38 | 57 | 66.7 | LANGUAGE <LL@li.org> | 
+ | [gnome-globalmenu](/f14/package/gnome-globalmenu) | 216 | 325 | 66.5 | Romanian <ro@li.org> | 
+ | [transmission](/f14/package/transmission) | 1001 | 1508 | 66.4 | LANGUAGE <LL@li.org> | 
+ | [mailman](/f14/package/mailman) | 14522 | 21886 | 66.4 | Romanian <en@li.org> | 
+ | [easytag](/f14/package/easytag) | 3514 | 5315 | 66.1 | Romanian <pauliuc@gmx.net> | 
+ | [ktorrent](/f14/package/ktorrent) | 5244 | 7950 | 66.0 | Romanian <kde-i18n-ro@kde.org> | 
+ | [compiz](/f14/package/compiz) | 2120 | 3250 | 65.2 | Română <kde-i18n-ro@kde.org> | 
+ | [gliv](/f14/package/gliv) | 671 | 1034 | 64.9 | Romanian <translation-team-ro@lists.sourceforge.net> | 
+ | [chmsee](/f14/package/chmsee) | 125 | 194 | 64.4 | Romanian <ro@li.org> | 
+ | [xfce4-cpugraph-plugin](/f14/package/xfce4-cpugraph-plugin) | 45 | 71 | 63.4 | Romanian <debian-l10n-romanian@lists.debian.org> | 
+ | [xsane](/f14/package/xsane) | 2037 | 3224 | 63.2 | <C@li.org> | 
+ | [hornsey](/f14/package/hornsey) | 59 | 95 | 62.1 | Moblin Romania <live@moblin.ro> | 
+ | [frozen-bubble](/f14/package/frozen-bubble) | 432 | 698 | 61.9 | LANGUAGE <LL@li.org> | 
+ | [galculator](/f14/package/galculator) | 492 | 798 | 61.7 |  | 
+ | [pychess](/f14/package/pychess) | 1019 | 1671 | 61.0 | Romanian <ro@li.org> | 
+ | [gnupg2](/f14/package/gnupg2) | 6390 | 10491 | 60.9 | Romanian <translation-team-ro@lists.sourceforge.net> | 
+ | [gtkpod](/f14/package/gtkpod) | 4032 | 6644 | 60.7 | Romanian <tradu@softwareliber.ro> | 
+ | [kaffeine](/f14/package/kaffeine) | 355 | 590 | 60.2 | Română <kde-i18n-ro@kde.org> | 
+ | [skanlite](/f14/package/skanlite) | 102 | 173 | 59.0 | Romanian <kde-i18n-ro@lists.kde.org> | 
+ | [springlobby](/f14/package/springlobby) | 2721 | 4695 | 58.0 | Romanian <ro@li.org> | 
+ | [yum-rhn-plugin](/f14/package/yum-rhn-plugin) | 62 | 107 | 57.9 | <ro@li.org> | 
+ | [system-config-samba](/f14/package/system-config-samba) | 306 | 533 | 57.4 | Romanian (http://www.transifex.net/projects/p/fedora/team/ro/) | 
+ | [authconfig](/f14/package/authconfig) | 767 | 1342 | 57.2 | Romanian <LL@li.org> | 
+ | [yakuake](/f14/package/yakuake) | 819 | 1439 | 56.9 | Română <kde-i18n-ro@kde.org> | 
+ | [gnubik](/f14/package/gnubik) | 120 | 217 | 55.3 | Romanian <translation-team-ro@lists.sourceforge.net> | 
+ | [avr-binutils](/f14/package/avr-binutils) | 6415 | 11814 | 54.3 | Romanian <translation-team-ro@lists.sourceforge.net> | 
+ | [binutils](/f14/package/binutils) | 6415 | 11814 | 54.3 | Romanian <translation-team-ro@lists.sourceforge.net> | 
+ | [mingw32-binutils](/f14/package/mingw32-binutils) | 6415 | 11814 | 54.3 | Romanian <translation-team-ro@lists.sourceforge.net> | 
+ | [msp430-binutils](/f14/package/msp430-binutils) | 6415 | 11814 | 54.3 | Romanian <translation-team-ro@lists.sourceforge.net> | 
+ | [sh-elf-binutils](/f14/package/sh-elf-binutils) | 6415 | 11814 | 54.3 | Romanian <translation-team-ro@lists.sourceforge.net> | 
+ | [spu-binutils](/f14/package/spu-binutils) | 6415 | 11814 | 54.3 | Romanian <translation-team-ro@lists.sourceforge.net> | 
+ | [system-config-users](/f14/package/system-config-users) | 782 | 1456 | 53.7 | Romanian (http://www.transifex.net/projects/p/fedora/team/ro/) | 
+ | [arm-gp2x-linux-binutils](/f14/package/arm-gp2x-linux-binutils) | 5929 | 11328 | 52.3 | Romanian <translation-team-ro@lists.sourceforge.net> | 
+ | [dialog](/f14/package/dialog) | 13 | 25 | 52.0 | Romanian <translation-team-ro@lists.sourceforge.net> | 
+ | [geany](/f14/package/geany) | 2870 | 5586 | 51.4 | Romanian | 
+ | [stellarium](/f14/package/stellarium) | 1706 | 3362 | 50.7 | Romanian <ro@li.org> | 
+ | [popt](/f14/package/popt) | 38 | 75 | 50.7 | Romanian <ro@li.org> | 
+ | [gambas3](/f14/package/gambas3) | 2213 | 4382 | 50.5 | LANGUAGE <LL@li.org> | 
+ | [blender](/f14/package/blender) | 8064 | 16031 | 50.3 | Romanian <ro@li.org> | 
+ | [kaudiocreator](/f14/package/kaudiocreator) | 566 | 1136 | 49.8 | Romanian <kde-i18n-ro@lists.kde.org> | 
+ | [warzone2100](/f14/package/warzone2100) | 6362 | 12782 | 49.8 | Romanian <ro@li.org> | 
+ | [icewm](/f14/package/icewm) | 682 | 1376 | 49.6 | Romanian <ro@li.org> | 
+ | [nano](/f14/package/nano) | 1263 | 2570 | 49.1 | Romanian <translation-team-ro@lists.sourceforge.net> | 
+ | [kpackagekit](/f14/package/kpackagekit) | 1791 | 3646 | 49.1 | Română <kde-i18n-ro@kde.org> | 
+ | [gnome-commander](/f14/package/gnome-commander) | 3874 | 7896 | 49.1 | Romanian <gnomero-list@lists.sourceforge.net> | 
+ | [specto](/f14/package/specto) | 325 | 675 | 48.1 |  | 
+ | [fslint](/f14/package/fslint) | 185 | 388 | 47.7 | Romanian <translation-team-ro@lists.sourceforge.net> | 
+ | [meego-panel-zones](/f14/package/meego-panel-zones) | 26 | 55 | 47.3 | Moblin Romania <live@moblin.ro> | 
+ | [nautilus-terminal](/f14/package/nautilus-terminal) | 52 | 110 | 47.3 | Romanian <ro@li.org> | 
+ | [gallery2](/f14/package/gallery2) | 8410 | 17793 | 47.3 | <none> | 
+ | [bison](/f14/package/bison) | 504 | 1103 | 45.7 | Romanian <translation-team-ro@lists.sourceforge.net> | 
+ | [initscripts](/f14/package/initscripts) | 1944 | 4349 | 44.7 | Romanian <fedora-trans-list@redhat.com> | 
+ | [k3b](/f14/package/k3b) | 9057 | 20423 | 44.3 | Română <kde-i18n-ro@kde.org> | 
+ | [system-config-date](/f14/package/system-config-date) | 792 | 1800 | 44.0 | Romanian (http://www.transifex.net/projects/p/fedora/team/ro/) | 
+ | [man-db](/f14/package/man-db) | 601 | 1394 | 43.1 | Romanian <translation-team-ro@lists.sourceforge.net> | 
+ | [gummi](/f14/package/gummi) | 226 | 530 | 42.6 | LANGUAGE <LL@li.org> | 
+ | [anaconda](/f14/package/anaconda) | 4047 | 9741 | 41.5 | Romanian <LL@li.org> | 
+ | [tar](/f14/package/tar) | 1369 | 3306 | 41.4 | Romanian <translation-team-ro@lists.sourceforge.net> | 
+ | [picard](/f14/package/picard) | 542 | 1311 | 41.3 | Romanian <ro@li.org> | 
+ | [dia](/f14/package/dia) | 2336 | 5711 | 40.9 | romanian <ro@li.org> | 
+ | [kBuild](/f14/package/kBuild) | 204 | 505 | 40.4 | Romanian <translation-team-ro@lists.sourceforge.net> | 
+ | [centerim](/f14/package/centerim) | 1115 | 2814 | 39.6 | Romanian <ro@li.org> | 
+ | [kwebkitpart](/f14/package/kwebkitpart) | 186 | 477 | 39.0 | Română <kde-i18n-ro@kde.org> | 
+ | [evolution-rss](/f14/package/evolution-rss) | 228 | 591 | 38.6 | Romanian <RO@li.org> | 
+ | [vidalia](/f14/package/vidalia) | 3588 | 9306 | 38.6 | translations@vidalia-project.net | 
+ | [shadow-utils](/f14/package/shadow-utils) | 1229 | 3221 | 38.2 | Romanian <debian-l10n-romanian@lists.debian.org> | 
+ | [xfce4-screenshooter](/f14/package/xfce4-screenshooter) | 170 | 448 | 37.9 | Romanian <debian-l10n-romanian@lists.debian.org> | 
+ | [gcompris](/f14/package/gcompris) | 3884 | 10248 | 37.9 | <en@li.org> | 
+ | [libktorrent](/f14/package/libktorrent) | 192 | 507 | 37.9 | Romanian <kde-i18n-ro@kde.org> | 
+ | [gimp-lqr-plugin](/f14/package/gimp-lqr-plugin) | 312 | 825 | 37.8 | Romanian <ro@li.org> | 
+ | [listen](/f14/package/listen) | 671 | 1783 | 37.6 | Romanian <ro@li.org> | 
+ | [inkscape](/f14/package/inkscape) | 9951 | 26528 | 37.5 | Gnome Romanian Team <gnomero-list@lists.sourceforge.net> | 
+ | [system-config-keyboard](/f14/package/system-config-keyboard) | 70 | 187 | 37.4 | Romanian <ro_team@linux360.ro> | 
+ | [audacious](/f14/package/audacious) | 446 | 1198 | 37.2 | Romanian | 
+ | [anjuta](/f14/package/anjuta) | 2862 | 7797 | 36.7 | Gnome Romanian Team <gnomero-list@lists.sourceforge.net> | 
+ | [lyx](/f14/package/lyx) | 6196 | 16954 | 36.5 | Romanian <ro-kde@yahoogroups.com> | 
+ | [moin](/f14/package/moin) | 1780 | 4971 | 35.8 |  | 
+ | [mc](/f14/package/mc) | 1298 | 3661 | 35.5 | Romanian (http://www.transifex.net/projects/p/mc/team/ro/) | 
+ | [firstboot](/f14/package/firstboot) | 231 | 654 | 35.3 | <fedora-ro@googlegroups.com> | 
+ | [system-config-boot](/f14/package/system-config-boot) | 41 | 119 | 34.5 | Romanian <traduceri@maimult.ro> | 
+ | [sugar-calculator](/f14/package/sugar-calculator) | 198 | 593 | 33.4 |  | 
+ | [digikam](/f14/package/digikam) | 7764 | 23653 | 32.8 | Romanian <kde-i18n-ro@kde.org> | 
+ | [knights](/f14/package/knights) | 178 | 555 | 32.1 | Romanian <kde-i18n-ro@kde.org> | 
+ | [tuxpaint](/f14/package/tuxpaint) | 390 | 1247 | 31.3 | Romanian <ro@li.org> | 
+ | [freeciv](/f14/package/freeciv) | 15957 | 53692 | 29.7 | romanian <debian-l10n-romanian@lists.debian.org> | 
+ | [pgadmin3](/f14/package/pgadmin3) | 2825 | 9676 | 29.2 | The pgAdmin Development Team <pgadmin-hackers@postgresql.org> | 
+ | [libuser](/f14/package/libuser) | 324 | 1114 | 29.1 | Romanian <gnomero-list@lists.sourceforge.net> | 
+ | [gnome-applet-bubblemon](/f14/package/gnome-applet-bubblemon) | 11 | 38 | 28.9 | Romanian <ro@li.org> | 
+ | [tracker](/f14/package/tracker) | 519 | 1870 | 27.8 | Romanian <ro@li.org> | 
+ | [libextractor](/f14/package/libextractor) | 462 | 1701 | 27.2 | Romanian <translation-team-ro@lists.sourceforge.net> | 
+ | [gtick](/f14/package/gtick) | 91 | 336 | 27.1 | Romanian <translation-team-ro@lists.sourceforge.net> | 
+ | [findutils](/f14/package/findutils) | 570 | 2109 | 27.0 | Romanian <translation-team-ro@lists.sourceforge.net> | 
+ | [sugar](/f14/package/sugar) | 63 | 234 | 26.9 | LANGUAGE <LL@li.org> | 
+ | [clementine](/f14/package/clementine) | 841 | 3158 | 26.6 | Romanian <ro@li.org> | 
+ | [boinc-client](/f14/package/boinc-client) | 1080 | 4130 | 26.2 | BOINC Development Team <rwalton@ssl.berkeley.edu> | 
+ | [choqok](/f14/package/choqok) | 474 | 1914 | 24.8 | Română <kde-i18n-ro@kde.org> | 
+ | [vorbis-tools](/f14/package/vorbis-tools) | 957 | 4109 | 23.3 | Romanian <translation-team-ro@lists.sourceforge.net> | 
+ | [gnomebaker](/f14/package/gnomebaker) | 271 | 1167 | 23.2 | Romanian <ro@li.org> | 
+ | [system-config-firewall](/f14/package/system-config-firewall) | 650 | 2807 | 23.2 | Romanian <gnomero-list@lists.sourceforge.net> | 
+ | [kipi-plugins](/f14/package/kipi-plugins) | 3673 | 15879 | 23.1 | Română <kde-i18n-ro@kde.org> | 
+ | [exaile](/f14/package/exaile) | 500 | 2176 | 23.0 | Romanian <ro@li.org> | 
+ | [PackageKit](/f14/package/PackageKit) | 372 | 1619 | 23.0 | Romanian <None> | 
+ | [rabbitvcs](/f14/package/rabbitvcs) | 348 | 1524 | 22.8 | Romanian <ro@li.org> | 
+ | [wget](/f14/package/wget) | 487 | 2260 | 21.5 | Romanian <translation-team-ro@lists.sourceforge.net> | 
+ | [xpad](/f14/package/xpad) | 74 | 363 | 20.4 | Romanian <translation-team-ro@lists.sourceforge.net> | 
+ | [phatch](/f14/package/phatch) | 517 | 2553 | 20.3 | Romanian <ro@li.org> | 
+ | [system-config-kdump](/f14/package/system-config-kdump) | 162 | 807 | 20.1 | <ro@li.org> | 
+ | [gnome-gmail](/f14/package/gnome-gmail) | 72 | 359 | 20.1 | LANGUAGE <LL@li.org> | 
+ | [grisbi](/f14/package/grisbi) | 2213 | 11193 | 19.8 | <bucuresti@free.fr> | 
+ | [kdiff3](/f14/package/kdiff3) | 716 | 3644 | 19.6 | Romanian <kde-i18n-ro@kde.org> | 
+ | [desktop-effects](/f14/package/desktop-effects) | 29 | 148 | 19.6 | <ro@li.org> | 
+ | [iso-codes](/f14/package/iso-codes) | 3746 | 19696 | 19.0 | Romanian <translation-team-ro@lists.sourceforge.net> | 
+ | [gnue-common](/f14/package/gnue-common) | 403 | 2132 | 18.9 | Romanian | 
+ | [tinyerp](/f14/package/tinyerp) | 211 | 1138 | 18.5 | FR <i18n-info@tinyerp.org> | 
+ | [notecase](/f14/package/notecase) | 214 | 1156 | 18.5 | Adi Oporanu <AdiOporanu@home.ro> | 
+ | [coreutils](/f14/package/coreutils) | 3312 | 18613 | 17.8 | Romanian <translation-team-ro@lists.sourceforge.net> | 
+ | [qof](/f14/package/qof) | 121 | 701 | 17.3 | Romanian <translation-team-ro@lists.sourceforge.net> | 
+ | [gnome-applet-sensors](/f14/package/gnome-applet-sensors) | 51 | 298 | 17.1 | Romanian | 
+ | [backintime](/f14/package/backintime) | 154 | 919 | 16.8 | Romanian <ro@li.org> | 
+ | [parted](/f14/package/parted) | 826 | 5139 | 16.1 | Romanian <translation-team-ro@lists.sourceforge.net> | 
+ | [hello](/f14/package/hello) | 30 | 193 | 15.5 | Romanian <translation-team-ro@lists.sourceforge.net> | 
+ | [bluefish](/f14/package/bluefish) | 570 | 3819 | 14.9 | <ro@li.org> | 
+ | [calibre](/f14/package/calibre) | 2984 | 19998 | 14.9 | Romanian <ro@li.org> | 
+ | [wdiff](/f14/package/wdiff) | 138 | 943 | 14.6 | Romanian <translation-team-ro@lists.sourceforge.net> | 
+ | [akonadi-googledata](/f14/package/akonadi-googledata) | 12 | 86 | 14.0 | Română <kde-i18n-ro@kde.org> | 
+ | [cinepaint](/f14/package/cinepaint) | 1019 | 7405 | 13.8 | Română <ro@li.org> | 
+ | [gxneur](/f14/package/gxneur) | 97 | 721 | 13.5 | Romanian <ro@li.org> | 
+ | [gwibber](/f14/package/gwibber) | 6 | 45 | 13.3 | Romanian <ro@li.org> | 
+ | [pan](/f14/package/pan) | 298 | 2288 | 13.0 | Romanian <gnomero-list@lists.sourceforge.net> | 
+ | [knemo](/f14/package/knemo) | 154 | 1186 | 13.0 | Română <kde-i18n-ro@kde.org> | 
+ | [system-config-rootpassword](/f14/package/system-config-rootpassword) | 15 | 116 | 12.9 | Romanian <fedora-trans-list@redhat.com> | 
+ | [mercurial](/f14/package/mercurial) | 3890 | 31291 | 12.4 | Romanian <> | 
+ | [audacious-plugins](/f14/package/audacious-plugins) | 807 | 6700 | 12.0 | Romanian <audacious@atheme.org> | 
+ | [krusader](/f14/package/krusader) | 891 | 7750 | 11.5 | Română <kde-i18n-ro@kde.org> | 
+ | [avant-window-navigator](/f14/package/avant-window-navigator) | 186 | 1655 | 11.2 | Romanian <ro@li.org> | 
+ | [system-config-language](/f14/package/system-config-language) | 36 | 323 | 11.1 | Romanian | 
+ | [xfce4-eyes-plugin](/f14/package/xfce4-eyes-plugin) | 1 | 9 | 11.1 | Romanian <gnomero-list@lists.sourceforge.net> | 
+ | [audacity](/f14/package/audacity) | 1040 | 9886 | 10.5 | Manuel R. Ciosici <manuelciosici@yahoo.com> | 
+ | [cpio](/f14/package/cpio) | 190 | 1837 | 10.3 | Romanian <translation-team-ro@lists.sourceforge.net> | 
+ | [psmisc](/f14/package/psmisc) | 91 | 899 | 10.1 | Romanian <translation-team-ro@lists.sourceforge.net> | 
+ | [me-tv](/f14/package/me-tv) | 195 | 1937 | 10.1 | Romanian <ro@li.org> | 
+ | [kmldonkey](/f14/package/kmldonkey) | 144 | 1830 | 7.9 | Română <kde-i18n-ro@kde.org> | 
+ | [gnumeric](/f14/package/gnumeric) | 2638 | 35046 | 7.5 | Romanian <gnomero-list@lists.sourceforge.net> | 
+ | [libxfce4ui](/f14/package/libxfce4ui) | 10 | 136 | 7.4 | Romanian | 
+ | [enlightenment](/f14/package/enlightenment) | 477 | 6756 | 7.1 | Romanian <ro@li.org> | 
+ | [rsibreak](/f14/package/rsibreak) | 88 | 1304 | 6.7 | Romanian <kde-i18n-ro@lists.kde.org> | 
+ | [pinta](/f14/package/pinta) | 65 | 978 | 6.6 | Romanian <ro@li.org> | 
+ | [goffice](/f14/package/goffice) | 301 | 4599 | 6.5 | Romanian <gnomero-list@lists.sourceforge.net> | 
+ | [kdbg](/f14/package/kdbg) | 52 | 866 | 6.0 | Romanian <LL@li.org> | 
+ | [grep](/f14/package/grep) | 57 | 950 | 6.0 | Romanian <translation-team-ro@lists.sourceforge.net> | 
+ | [system-config-services](/f14/package/system-config-services) | 24 | 404 | 5.9 | Romanian <gnomero-list@lists.sourceforge.net> | 
+ | [kphotoalbum](/f14/package/kphotoalbum) | 367 | 6333 | 5.8 | Romanian <kde-i18n-ro@lists.kde.org> | 
+ | [gnotime](/f14/package/gnotime) | 114 | 2008 | 5.7 | Romanian <ro@li.org> | 
+ | [speedcrunch](/f14/package/speedcrunch) | 1 | 18 | 5.6 | ro | 
+ | [libvirt](/f14/package/libvirt) | 1098 | 20546 | 5.3 | none | 
+ | [kile](/f14/package/kile) | 573 | 11114 | 5.2 | Romanian <kde-i18n-ro@lists.kde.org> | 
+ | [pyroom](/f14/package/pyroom) | 21 | 411 | 5.1 | Romanian <ro@li.org> | 
+ | [mod_cluster](/f14/package/mod_cluster) | 15 | 327 | 4.6 | Romanian <translation-team-ro@lists.sourceforge.net> | 
+ | [mingw32-iconv](/f14/package/mingw32-iconv) | 15 | 336 | 4.5 | Romanian <translation-team-ro@lists.sourceforge.net> | 
+ | [gtg](/f14/package/gtg) | 78 | 1780 | 4.4 | Romanian <ro@li.org> | 
+ | [bash](/f14/package/bash) | 436 | 10715 | 4.1 | Romanian <translation-team-ro@lists.sourceforge.net> | 
+ | [mingw32-libidn](/f14/package/mingw32-libidn) | 16 | 413 | 3.9 | Romanian <translation-team-ro@lists.sourceforge.net> | 
+ | [libidn](/f14/package/libidn) | 16 | 414 | 3.9 | Romanian <translation-team-ro@lists.sourceforge.net> | 
+ | [blueman](/f14/package/blueman) | 48 | 1376 | 3.5 | Romanian <ro@li.org> | 
+ | [rhn-client-tools](/f14/package/rhn-client-tools) | 155 | 4820 | 3.2 | Romanian <gafton+po@redhat.com> | 
+ | [jokosher](/f14/package/jokosher) | 66 | 2059 | 3.2 | Romanian <ro@li.org> | 
+ | [elinks](/f14/package/elinks) | 359 | 12234 | 2.9 | Romanian <translation-team-ro@lists.sourceforge.net> | 
+ | [virt-manager](/f14/package/virt-manager) | 126 | 4398 | 2.9 | <ro@li.org> | 
+ | [koffice-kivio](/f14/package/koffice-kivio) | 218 | 8417 | 2.6 | Romanian <ro-kde@egroups.com> | 
+ | [sugar-pippy](/f14/package/sugar-pippy) | 1 | 40 | 2.5 | LANGUAGE <LL@li.org> | 
+ | [kpilot](/f14/package/kpilot) | 176 | 7156 | 2.5 | Română <kde-i18n-ro@kde.org> | 
+ | [tellico](/f14/package/tellico) | 132 | 5621 | 2.3 | Română <ro@li.org> | 
+ | [transifex](/f14/package/transifex) | 127 | 5460 | 2.3 | Romanian <None> | 
+ | [xfce4-settings](/f14/package/xfce4-settings) | 15 | 1138 | 1.3 | Romanian <xfce-i18n@xfce.org> | 
+ | [gnubiff](/f14/package/gnubiff) | 13 | 1181 | 1.1 | Romanian <translation-team-ro@lists.sourceforge.net> | 
+ | [xneur](/f14/package/xneur) | 16 | 1628 | 1.0 | Romanian <ro@li.org> | 
+ | [im-chooser](/f14/package/im-chooser) | 2 | 213 | 0.9 | none <gnomero-list@lists.sourceforge.net> | 
+ | [system-config-bind](/f14/package/system-config-bind) | 78 | 9419 | 0.8 | <ro@li.org> | 
+ | [skrooge](/f14/package/skrooge) | 39 | 6361 | 0.6 | Română <kde-i18n-ro@kde.org> | 
+ | [orage](/f14/package/orage) | 12 | 2110 | 0.6 | Romanian <gnomero-list@lists.sourceforge.net> | 
+ | [ailurus](/f14/package/ailurus) | 26 | 8506 | 0.3 | none | 
+ | [etoys](/f14/package/etoys) | 86 | 29994 | 0.3 |  | 
+ | [spacewalk-backend](/f14/package/spacewalk-backend) | 5 | 1912 | 0.3 | Romanian <rhns-i18n@redhat.com> | 
+ | [wesnoth](/f14/package/wesnoth) | 559 | 226908 | 0.2 |  | 
+ | [kdetv](/f14/package/kdetv) | 5 | 2206 | 0.2 | Romanian <kde-i18n-ro@kde.org> | 
+ | [sugar-turtleart](/f14/package/sugar-turtleart) | 2 | 1208 | 0.2 | LANGUAGE <walter@sugarlabs.org> | 
+ | [vdr-epgsearch](/f14/package/vdr-epgsearch) | 3 | 2408 | 0.1 | <vdr@linuxtv.org> | 
+ | [krecipes](/f14/package/krecipes) | 3 | 3087 | 0.1 | Romanian <ro-kde@yahoogroups.com> | 
+ | [deja-dup](/f14/package/deja-dup) | 1 | 1111 | 0.1 | Romanian <ro@li.org> | 
+ | [kst](/f14/package/kst) | 4 | 7446 | 0.1 | Romanian <ro-kde@egroups.com> | 
+ | [LabPlot](/f14/package/LabPlot) | 0 | 3250 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [freedink](/f14/package/freedink) | 0 | 82 | 0.0 | Romanian <translation-team-ro@lists.sourceforge.net> | 
+ | [imsettings](/f14/package/imsettings) | 0 | 979 | 0.0 | none <gnomero-list@lists.sourceforge.net> | 
+ | [jeta](/f14/package/jeta) | 0 | 0 | 0.0 | Romanian <i18n@lists.horde.org> | 
+ | [libfm](/f14/package/libfm) | 0 | 659 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [libgxim](/f14/package/libgxim) | 0 | 130 | 0.0 | none | 
+ | [mailody](/f14/package/mailody) | 0 | 783 | 0.0 | Romanian <kde-i18n-ro@kde.org> | 
+ | [nautilus-pastebin](/f14/package/nautilus-pastebin) | 0 | 84 | 0.0 | Romanian <ro@li.org> | 
+ | [ntfs-config](/f14/package/ntfs-config) | 0 | 357 | 0.0 | Romanian <ro@li.org> | 
+ | [olpc-switch-desktop](/f14/package/olpc-switch-desktop) | 0 | 158 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [pastebinit](/f14/package/pastebinit) | 0 | 165 | 0.0 | Romanian <ro@li.org> | 
+ | [policycoreutils](/f14/package/policycoreutils) | 0 | 1470 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [pykickstart](/f14/package/pykickstart) | 0 | 338 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [setroubleshoot](/f14/package/setroubleshoot) | 0 | 563 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [setroubleshoot-plugins](/f14/package/setroubleshoot-plugins) | 0 | 7818 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sos](/f14/package/sos) | 0 | 267 | 0.0 | none | 
+ | [specspo](/f14/package/specspo) | 0 | 305286 | 0.0 | English <LL@li.org> | 
+ | [sssd](/f14/package/sssd) | 0 | 10388 | 0.0 | Romanian (http://www.transifex.net/projects/p/fedora/team/ro/) | 
+ | [sugar-base](/f14/package/sugar-base) | 0 | 5 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-clock](/f14/package/sugar-clock) | 0 | 38 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-finance](/f14/package/sugar-finance) | 0 | 142 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-imageviewer](/f14/package/sugar-imageviewer) | 0 | 17 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-infoslicer](/f14/package/sugar-infoslicer) | 0 | 177 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-jukebox](/f14/package/sugar-jukebox) | 0 | 10 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-log](/f14/package/sugar-log) | 0 | 100 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-memorize](/f14/package/sugar-memorize) | 0 | 52 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-moon](/f14/package/sugar-moon) | 0 | 90 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-physics](/f14/package/sugar-physics) | 0 | 22 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-playgo](/f14/package/sugar-playgo) | 0 | 85 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-tamtam](/f14/package/sugar-tamtam) | 0 | 2070 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-terminal](/f14/package/sugar-terminal) | 0 | 6 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-toolkit](/f14/package/sugar-toolkit) | 0 | 59 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-view-slides](/f14/package/sugar-view-slides) | 0 | 7 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-visualmatch](/f14/package/sugar-visualmatch) | 0 | 58 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [system-config-date-docs](/f14/package/system-config-date-docs) | 0 | 739 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [system-config-nfs-docs](/f14/package/system-config-nfs-docs) | 0 | 1192 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [system-config-samba-docs](/f14/package/system-config-samba-docs) | 0 | 1195 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [system-config-services-docs](/f14/package/system-config-services-docs) | 0 | 638 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [system-config-users-docs](/f14/package/system-config-users-docs) | 0 | 1061 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [tuxpaint-stamps](/f14/package/tuxpaint-stamps) | 0 | 2617 | 0.0 |  | 
 {.sortable}
 
 
@@ -609,9 +609,9 @@ We use the po metadata to get the language code and the team, but sometimes it f
 
 | Package | Lang from file path/name | polib error | Team |
 |---------|--------------------------|-------------|------|
- | [moin]({{< ref "/f14/package/moin.md" >}}) | /mnt/stockage/packages/f14/moin/MoinMoin/i18n/ro.MoinMoin.po | error-os |  | 
- | [prozilla]({{< ref "/f14/package/prozilla.md" >}}) | /mnt/stockage/packages/f14/prozilla/po/ro.po | error-unicode |  | 
- | [sugar-calculator]({{< ref "/f14/package/sugar-calculator.md" >}}) | /mnt/stockage/packages/f14/sugar-calculator/po/ro.po | error-os |  | 
+ | [moin](/f14/package/moin) | /mnt/stockage/packages/f14/moin/MoinMoin/i18n/ro.MoinMoin.po | error-os |  | 
+ | [prozilla](/f14/package/prozilla) | /mnt/stockage/packages/f14/prozilla/po/ro.po | error-unicode |  | 
+ | [sugar-calculator](/f14/package/sugar-calculator) | /mnt/stockage/packages/f14/sugar-calculator/po/ro.po | error-os |  | 
 {.sortable}
 
 
@@ -622,7 +622,7 @@ We use the calcstats from translate toolkit to get the translation progress, but
 
 | Package | Lang from file path/name | Team |
 |---------|--------------------------|------|
- | [prozilla]({{< ref "/f14/package/prozilla.md" >}}) | /mnt/stockage/packages/f14/prozilla/po/ro.po |  | 
+ | [prozilla](/f14/package/prozilla) | /mnt/stockage/packages/f14/prozilla/po/ro.po |  | 
 {.sortable}
 
 

@@ -18,16 +18,16 @@ The package dnsmasq (version 2.85):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f32/language/de.md" >}}) | 3204 | 3204 | 100.0 | /mnt/stockage/packages/f32/dnsmasq/po/de.po | 
- | [pl]({{< ref "/f32/language/pl.md" >}}) | 2760 | 3191 | 86.5 | /mnt/stockage/packages/f32/dnsmasq/po/pl.po | 
- | [fr]({{< ref "/f32/language/fr.md" >}}) | 2248 | 3191 | 70.4 | /mnt/stockage/packages/f32/dnsmasq/po/fr.po | 
- | [es]({{< ref "/f32/language/es.md" >}}) | 1397 | 3191 | 43.8 | /mnt/stockage/packages/f32/dnsmasq/po/es.po | 
- | [nb_NO]({{< ref "/f32/language/nb_NO.md" >}}) | 738 | 3191 | 23.1 | /mnt/stockage/packages/f32/dnsmasq/po/no.po | 
- | [ro]({{< ref "/f32/language/ro.md" >}}) | 738 | 3191 | 23.1 | /mnt/stockage/packages/f32/dnsmasq/po/ro.po | 
- | [id]({{< ref "/f32/language/id.md" >}}) | 726 | 3191 | 22.8 | /mnt/stockage/packages/f32/dnsmasq/po/id.po | 
- | [fi]({{< ref "/f32/language/fi.md" >}}) | 0 | 3191 | 0.0 | /mnt/stockage/packages/f32/dnsmasq/po/fi.po | 
- | [it]({{< ref "/f32/language/it.md" >}}) | 0 | 3191 | 0.0 | /mnt/stockage/packages/f32/dnsmasq/po/it.po | 
- | [pt]({{< ref "/f32/language/pt.md" >}}) | 0 | 3191 | 0.0 | /mnt/stockage/packages/f32/dnsmasq/po/pt_BR.po | 
+ | [de](/f32/language/de) | 3204 | 3204 | 100.0 | /mnt/stockage/packages/f32/dnsmasq/po/de.po | 
+ | [pl](/f32/language/pl) | 2760 | 3191 | 86.5 | /mnt/stockage/packages/f32/dnsmasq/po/pl.po | 
+ | [fr](/f32/language/fr) | 2248 | 3191 | 70.4 | /mnt/stockage/packages/f32/dnsmasq/po/fr.po | 
+ | [es](/f32/language/es) | 1397 | 3191 | 43.8 | /mnt/stockage/packages/f32/dnsmasq/po/es.po | 
+ | [nb_NO](/f32/language/nb_NO) | 738 | 3191 | 23.1 | /mnt/stockage/packages/f32/dnsmasq/po/no.po | 
+ | [ro](/f32/language/ro) | 738 | 3191 | 23.1 | /mnt/stockage/packages/f32/dnsmasq/po/ro.po | 
+ | [id](/f32/language/id) | 726 | 3191 | 22.8 | /mnt/stockage/packages/f32/dnsmasq/po/id.po | 
+ | [fi](/f32/language/fi) | 0 | 3191 | 0.0 | /mnt/stockage/packages/f32/dnsmasq/po/fi.po | 
+ | [it](/f32/language/it) | 0 | 3191 | 0.0 | /mnt/stockage/packages/f32/dnsmasq/po/it.po | 
+ | [pt](/f32/language/pt) | 0 | 3191 | 0.0 | /mnt/stockage/packages/f32/dnsmasq/po/pt_BR.po | 
 {.sortable}
 
 

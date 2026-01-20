@@ -18,7 +18,7 @@ The package libtranslate (version 0.99):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f35/language/fr.md" >}}) | 1174 | 1174 | 100.0 | /mnt/stockage/packages/f35/libtranslate/po/fr.po | 
+ | [fr](/f35/language/fr) | 1174 | 1174 | 100.0 | /mnt/stockage/packages/f35/libtranslate/po/fr.po | 
 {.sortable}
 
 

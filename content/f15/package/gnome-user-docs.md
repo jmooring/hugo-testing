@@ -18,14 +18,14 @@ The package gnome-user-docs (version 3.0.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [sl]({{< ref "/f15/language/sl.md" >}}) | 46953 | 46953 | 100.0 | /mnt/stockage/packages/f15/gnome-user-docs/gnome-help/sl/sl.po | 
- | [sv]({{< ref "/f15/language/sv.md" >}}) | 40300 | 40300 | 100.0 | /mnt/stockage/packages/f15/gnome-user-docs/gnome-help/sv/sv.po | 
- | [es]({{< ref "/f15/language/es.md" >}}) | 36592 | 45974 | 79.6 | /mnt/stockage/packages/f15/gnome-user-docs/gnome-help/es/es.po | 
- | [de]({{< ref "/f15/language/de.md" >}}) | 12 | 16 | 75.0 | /mnt/stockage/packages/f15/gnome-user-docs/gnome-help/de/de.po | 
- | [vi]({{< ref "/f15/language/vi.md" >}}) | 16417 | 46897 | 35.0 | /mnt/stockage/packages/f15/gnome-user-docs/gnome-help/vi/vi.po | 
- | [gl]({{< ref "/f15/language/gl.md" >}}) | 1918 | 46797 | 4.1 | /mnt/stockage/packages/f15/gnome-user-docs/gnome-help/gl/gl.po | 
- | [hi]({{< ref "/f15/language/hi.md" >}}) | 1500 | 46797 | 3.2 | /mnt/stockage/packages/f15/gnome-user-docs/gnome-help/hi/hi.po | 
- | [fi]({{< ref "/f15/language/fi.md" >}}) | 511 | 46688 | 1.1 | /mnt/stockage/packages/f15/gnome-user-docs/gnome-help/fi/fi.po | 
+ | [sl](/f15/language/sl) | 46953 | 46953 | 100.0 | /mnt/stockage/packages/f15/gnome-user-docs/gnome-help/sl/sl.po | 
+ | [sv](/f15/language/sv) | 40300 | 40300 | 100.0 | /mnt/stockage/packages/f15/gnome-user-docs/gnome-help/sv/sv.po | 
+ | [es](/f15/language/es) | 36592 | 45974 | 79.6 | /mnt/stockage/packages/f15/gnome-user-docs/gnome-help/es/es.po | 
+ | [de](/f15/language/de) | 12 | 16 | 75.0 | /mnt/stockage/packages/f15/gnome-user-docs/gnome-help/de/de.po | 
+ | [vi](/f15/language/vi) | 16417 | 46897 | 35.0 | /mnt/stockage/packages/f15/gnome-user-docs/gnome-help/vi/vi.po | 
+ | [gl](/f15/language/gl) | 1918 | 46797 | 4.1 | /mnt/stockage/packages/f15/gnome-user-docs/gnome-help/gl/gl.po | 
+ | [hi](/f15/language/hi) | 1500 | 46797 | 3.2 | /mnt/stockage/packages/f15/gnome-user-docs/gnome-help/hi/hi.po | 
+ | [fi](/f15/language/fi) | 511 | 46688 | 1.1 | /mnt/stockage/packages/f15/gnome-user-docs/gnome-help/fi/fi.po | 
 {.sortable}
 
 

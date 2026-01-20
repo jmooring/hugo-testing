@@ -18,24 +18,24 @@ The package newsboat (version 2.16.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f31/language/de.md" >}}) | 1476 | 1476 | 100.0 | /mnt/stockage/packages/f31/newsboat/po/de.po | 
- | [pl]({{< ref "/f31/language/pl.md" >}}) | 1423 | 1476 | 96.4 | /mnt/stockage/packages/f31/newsboat/po/pl.po | 
- | [ru]({{< ref "/f31/language/ru.md" >}}) | 1423 | 1476 | 96.4 | /mnt/stockage/packages/f31/newsboat/po/ru.po | 
- | [uk]({{< ref "/f31/language/uk.md" >}}) | 1423 | 1476 | 96.4 | /mnt/stockage/packages/f31/newsboat/po/uk.po | 
- | [sv]({{< ref "/f31/language/sv.md" >}}) | 1405 | 1476 | 95.2 | /mnt/stockage/packages/f31/newsboat/po/sv.po | 
- | [it]({{< ref "/f31/language/it.md" >}}) | 1397 | 1476 | 94.6 | /mnt/stockage/packages/f31/newsboat/po/it.po | 
- | [fr]({{< ref "/f31/language/fr.md" >}}) | 1350 | 1476 | 91.5 | /mnt/stockage/packages/f31/newsboat/po/fr.po | 
- | [pt_BR]({{< ref "/f31/language/pt_BR.md" >}}) | 1350 | 1476 | 91.5 | /mnt/stockage/packages/f31/newsboat/po/pt_BR.po | 
- | [sk]({{< ref "/f31/language/sk.md" >}}) | 1319 | 1476 | 89.4 | /mnt/stockage/packages/f31/newsboat/po/sk.po | 
- | [es]({{< ref "/f31/language/es.md" >}}) | 2447 | 2952 | 82.9 | /mnt/stockage/packages/f31/newsboat/po/es_ES.po/mnt/stockage/packages/f31/newsboat/po/es.po | 
- | [nl]({{< ref "/f31/language/nl.md" >}}) | 1188 | 1476 | 80.5 | /mnt/stockage/packages/f31/newsboat/po/nl.po | 
- | [nb_NO]({{< ref "/f31/language/nb_NO.md" >}}) | 1128 | 1476 | 76.4 | /mnt/stockage/packages/f31/newsboat/po/nb.po | 
- | [ca]({{< ref "/f31/language/ca.md" >}}) | 1120 | 1476 | 75.9 | /mnt/stockage/packages/f31/newsboat/po/ca.po | 
- | [hu]({{< ref "/f31/language/hu.md" >}}) | 1087 | 1476 | 73.6 | /mnt/stockage/packages/f31/newsboat/po/hu.po | 
- | [zh_Hant]({{< ref "/f31/language/zh_Hant.md" >}}) | 1087 | 1476 | 73.6 | /mnt/stockage/packages/f31/newsboat/po/zh_TW.po | 
- | [tr]({{< ref "/f31/language/tr.md" >}}) | 936 | 1476 | 63.4 | /mnt/stockage/packages/f31/newsboat/po/tr.po | 
- | [zh_Hans]({{< ref "/f31/language/zh_Hans.md" >}}) | 805 | 1476 | 54.5 | /mnt/stockage/packages/f31/newsboat/po/zh.po | 
- | [ja]({{< ref "/f31/language/ja.md" >}}) | 240 | 1476 | 16.3 | /mnt/stockage/packages/f31/newsboat/po/ja.po | 
+ | [de](/f31/language/de) | 1476 | 1476 | 100.0 | /mnt/stockage/packages/f31/newsboat/po/de.po | 
+ | [pl](/f31/language/pl) | 1423 | 1476 | 96.4 | /mnt/stockage/packages/f31/newsboat/po/pl.po | 
+ | [ru](/f31/language/ru) | 1423 | 1476 | 96.4 | /mnt/stockage/packages/f31/newsboat/po/ru.po | 
+ | [uk](/f31/language/uk) | 1423 | 1476 | 96.4 | /mnt/stockage/packages/f31/newsboat/po/uk.po | 
+ | [sv](/f31/language/sv) | 1405 | 1476 | 95.2 | /mnt/stockage/packages/f31/newsboat/po/sv.po | 
+ | [it](/f31/language/it) | 1397 | 1476 | 94.6 | /mnt/stockage/packages/f31/newsboat/po/it.po | 
+ | [fr](/f31/language/fr) | 1350 | 1476 | 91.5 | /mnt/stockage/packages/f31/newsboat/po/fr.po | 
+ | [pt_BR](/f31/language/pt_BR) | 1350 | 1476 | 91.5 | /mnt/stockage/packages/f31/newsboat/po/pt_BR.po | 
+ | [sk](/f31/language/sk) | 1319 | 1476 | 89.4 | /mnt/stockage/packages/f31/newsboat/po/sk.po | 
+ | [es](/f31/language/es) | 2447 | 2952 | 82.9 | /mnt/stockage/packages/f31/newsboat/po/es_ES.po/mnt/stockage/packages/f31/newsboat/po/es.po | 
+ | [nl](/f31/language/nl) | 1188 | 1476 | 80.5 | /mnt/stockage/packages/f31/newsboat/po/nl.po | 
+ | [nb_NO](/f31/language/nb_NO) | 1128 | 1476 | 76.4 | /mnt/stockage/packages/f31/newsboat/po/nb.po | 
+ | [ca](/f31/language/ca) | 1120 | 1476 | 75.9 | /mnt/stockage/packages/f31/newsboat/po/ca.po | 
+ | [hu](/f31/language/hu) | 1087 | 1476 | 73.6 | /mnt/stockage/packages/f31/newsboat/po/hu.po | 
+ | [zh_Hant](/f31/language/zh_Hant) | 1087 | 1476 | 73.6 | /mnt/stockage/packages/f31/newsboat/po/zh_TW.po | 
+ | [tr](/f31/language/tr) | 936 | 1476 | 63.4 | /mnt/stockage/packages/f31/newsboat/po/tr.po | 
+ | [zh_Hans](/f31/language/zh_Hans) | 805 | 1476 | 54.5 | /mnt/stockage/packages/f31/newsboat/po/zh.po | 
+ | [ja](/f31/language/ja) | 240 | 1476 | 16.3 | /mnt/stockage/packages/f31/newsboat/po/ja.po | 
 {.sortable}
 
 

@@ -18,19 +18,19 @@ The package gpa (version 0.9.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f14/language/de.md" >}}) | 2908 | 3815 | 76.2 | /mnt/stockage/packages/f14/gpa/po/de.po | 
- | [sv]({{< ref "/f14/language/sv.md" >}}) | 2270 | 3815 | 59.5 | /mnt/stockage/packages/f14/gpa/po/sv.po | 
- | [fr]({{< ref "/f14/language/fr.md" >}}) | 1977 | 3815 | 51.8 | /mnt/stockage/packages/f14/gpa/po/fr.po | 
- | [ar]({{< ref "/f14/language/ar.md" >}}) | 1565 | 3815 | 41.0 | /mnt/stockage/packages/f14/gpa/po/ar.po | 
- | [es]({{< ref "/f14/language/es.md" >}}) | 1565 | 3815 | 41.0 | /mnt/stockage/packages/f14/gpa/po/es.po | 
- | [ru]({{< ref "/f14/language/ru.md" >}}) | 1565 | 3815 | 41.0 | /mnt/stockage/packages/f14/gpa/po/ru.po | 
- | [cs]({{< ref "/f14/language/cs.md" >}}) | 1298 | 3815 | 34.0 | /mnt/stockage/packages/f14/gpa/po/cs.po | 
- | [pl]({{< ref "/f14/language/pl.md" >}}) | 1243 | 3815 | 32.6 | /mnt/stockage/packages/f14/gpa/po/pl.po | 
- | [ja]({{< ref "/f14/language/ja.md" >}}) | 1241 | 3815 | 32.5 | /mnt/stockage/packages/f14/gpa/po/ja.po | 
- | [error]({{< ref "/f14/language/error.md" >}}) | 1238 | 3815 | 32.5 | /mnt/stockage/packages/f14/gpa/po/zh_TW.Big5.po | 
- | [tr]({{< ref "/f14/language/tr.md" >}}) | 1238 | 3815 | 32.5 | /mnt/stockage/packages/f14/gpa/po/tr.po | 
- | [nl]({{< ref "/f14/language/nl.md" >}}) | 1226 | 3815 | 32.1 | /mnt/stockage/packages/f14/gpa/po/nl.po | 
- | [pt_BR]({{< ref "/f14/language/pt_BR.md" >}}) | 1028 | 3815 | 26.9 | /mnt/stockage/packages/f14/gpa/po/pt_BR.po | 
+ | [de](/f14/language/de) | 2908 | 3815 | 76.2 | /mnt/stockage/packages/f14/gpa/po/de.po | 
+ | [sv](/f14/language/sv) | 2270 | 3815 | 59.5 | /mnt/stockage/packages/f14/gpa/po/sv.po | 
+ | [fr](/f14/language/fr) | 1977 | 3815 | 51.8 | /mnt/stockage/packages/f14/gpa/po/fr.po | 
+ | [ar](/f14/language/ar) | 1565 | 3815 | 41.0 | /mnt/stockage/packages/f14/gpa/po/ar.po | 
+ | [es](/f14/language/es) | 1565 | 3815 | 41.0 | /mnt/stockage/packages/f14/gpa/po/es.po | 
+ | [ru](/f14/language/ru) | 1565 | 3815 | 41.0 | /mnt/stockage/packages/f14/gpa/po/ru.po | 
+ | [cs](/f14/language/cs) | 1298 | 3815 | 34.0 | /mnt/stockage/packages/f14/gpa/po/cs.po | 
+ | [pl](/f14/language/pl) | 1243 | 3815 | 32.6 | /mnt/stockage/packages/f14/gpa/po/pl.po | 
+ | [ja](/f14/language/ja) | 1241 | 3815 | 32.5 | /mnt/stockage/packages/f14/gpa/po/ja.po | 
+ | [error](/f14/language/error) | 1238 | 3815 | 32.5 | /mnt/stockage/packages/f14/gpa/po/zh_TW.Big5.po | 
+ | [tr](/f14/language/tr) | 1238 | 3815 | 32.5 | /mnt/stockage/packages/f14/gpa/po/tr.po | 
+ | [nl](/f14/language/nl) | 1226 | 3815 | 32.1 | /mnt/stockage/packages/f14/gpa/po/nl.po | 
+ | [pt_BR](/f14/language/pt_BR) | 1028 | 3815 | 26.9 | /mnt/stockage/packages/f14/gpa/po/pt_BR.po | 
 {.sortable}
 
 

@@ -18,28 +18,28 @@ The package libepc (version 0.4.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f16/language/ca.md" >}}) | 141 | 141 | 100.0 | /mnt/stockage/packages/f16/libepc/po/ca.po | 
- | [cs]({{< ref "/f16/language/cs.md" >}}) | 147 | 147 | 100.0 | /mnt/stockage/packages/f16/libepc/po/cs.po | 
- | [da]({{< ref "/f16/language/da.md" >}}) | 147 | 147 | 100.0 | /mnt/stockage/packages/f16/libepc/po/da.po | 
- | [de]({{< ref "/f16/language/de.md" >}}) | 147 | 147 | 100.0 | /mnt/stockage/packages/f16/libepc/po/de.po | 
- | [el]({{< ref "/f16/language/el.md" >}}) | 141 | 141 | 100.0 | /mnt/stockage/packages/f16/libepc/po/el.po | 
- | [en_GB]({{< ref "/f16/language/en_GB.md" >}}) | 141 | 141 | 100.0 | /mnt/stockage/packages/f16/libepc/po/en_GB.po | 
- | [es]({{< ref "/f16/language/es.md" >}}) | 147 | 147 | 100.0 | /mnt/stockage/packages/f16/libepc/po/es.po | 
- | [fi]({{< ref "/f16/language/fi.md" >}}) | 146 | 146 | 100.0 | /mnt/stockage/packages/f16/libepc/po/fi.po | 
- | [fr]({{< ref "/f16/language/fr.md" >}}) | 147 | 147 | 100.0 | /mnt/stockage/packages/f16/libepc/po/fr.po | 
- | [gl]({{< ref "/f16/language/gl.md" >}}) | 147 | 147 | 100.0 | /mnt/stockage/packages/f16/libepc/po/gl.po | 
- | [it]({{< ref "/f16/language/it.md" >}}) | 147 | 147 | 100.0 | /mnt/stockage/packages/f16/libepc/po/it.po | 
- | [ja]({{< ref "/f16/language/ja.md" >}}) | 146 | 146 | 100.0 | /mnt/stockage/packages/f16/libepc/po/ja.po | 
- | [lv]({{< ref "/f16/language/lv.md" >}}) | 147 | 147 | 100.0 | /mnt/stockage/packages/f16/libepc/po/lv.po | 
- | [pl]({{< ref "/f16/language/pl.md" >}}) | 147 | 147 | 100.0 | /mnt/stockage/packages/f16/libepc/po/pl.po | 
- | [pt_BR]({{< ref "/f16/language/pt_BR.md" >}}) | 147 | 147 | 100.0 | /mnt/stockage/packages/f16/libepc/po/pt_BR.po | 
- | [sl]({{< ref "/f16/language/sl.md" >}}) | 147 | 147 | 100.0 | /mnt/stockage/packages/f16/libepc/po/sl.po | 
- | [sv]({{< ref "/f16/language/sv.md" >}}) | 147 | 147 | 100.0 | /mnt/stockage/packages/f16/libepc/po/sv.po | 
- | [th]({{< ref "/f16/language/th.md" >}}) | 147 | 147 | 100.0 | /mnt/stockage/packages/f16/libepc/po/th.po | 
- | [zh_Hans]({{< ref "/f16/language/zh_Hans.md" >}}) | 147 | 147 | 100.0 | /mnt/stockage/packages/f16/libepc/po/zh_CN.po | 
- | [id]({{< ref "/f16/language/id.md" >}}) | 144 | 147 | 98.0 | /mnt/stockage/packages/f16/libepc/po/id.po | 
- | [nb_NO]({{< ref "/f16/language/nb_NO.md" >}}) | 27 | 146 | 18.5 | /mnt/stockage/packages/f16/libepc/po/nb.po | 
- | [ar]({{< ref "/f16/language/ar.md" >}}) | 23 | 146 | 15.8 | /mnt/stockage/packages/f16/libepc/po/ar.po | 
+ | [ca](/f16/language/ca) | 141 | 141 | 100.0 | /mnt/stockage/packages/f16/libepc/po/ca.po | 
+ | [cs](/f16/language/cs) | 147 | 147 | 100.0 | /mnt/stockage/packages/f16/libepc/po/cs.po | 
+ | [da](/f16/language/da) | 147 | 147 | 100.0 | /mnt/stockage/packages/f16/libepc/po/da.po | 
+ | [de](/f16/language/de) | 147 | 147 | 100.0 | /mnt/stockage/packages/f16/libepc/po/de.po | 
+ | [el](/f16/language/el) | 141 | 141 | 100.0 | /mnt/stockage/packages/f16/libepc/po/el.po | 
+ | [en_GB](/f16/language/en_GB) | 141 | 141 | 100.0 | /mnt/stockage/packages/f16/libepc/po/en_GB.po | 
+ | [es](/f16/language/es) | 147 | 147 | 100.0 | /mnt/stockage/packages/f16/libepc/po/es.po | 
+ | [fi](/f16/language/fi) | 146 | 146 | 100.0 | /mnt/stockage/packages/f16/libepc/po/fi.po | 
+ | [fr](/f16/language/fr) | 147 | 147 | 100.0 | /mnt/stockage/packages/f16/libepc/po/fr.po | 
+ | [gl](/f16/language/gl) | 147 | 147 | 100.0 | /mnt/stockage/packages/f16/libepc/po/gl.po | 
+ | [it](/f16/language/it) | 147 | 147 | 100.0 | /mnt/stockage/packages/f16/libepc/po/it.po | 
+ | [ja](/f16/language/ja) | 146 | 146 | 100.0 | /mnt/stockage/packages/f16/libepc/po/ja.po | 
+ | [lv](/f16/language/lv) | 147 | 147 | 100.0 | /mnt/stockage/packages/f16/libepc/po/lv.po | 
+ | [pl](/f16/language/pl) | 147 | 147 | 100.0 | /mnt/stockage/packages/f16/libepc/po/pl.po | 
+ | [pt_BR](/f16/language/pt_BR) | 147 | 147 | 100.0 | /mnt/stockage/packages/f16/libepc/po/pt_BR.po | 
+ | [sl](/f16/language/sl) | 147 | 147 | 100.0 | /mnt/stockage/packages/f16/libepc/po/sl.po | 
+ | [sv](/f16/language/sv) | 147 | 147 | 100.0 | /mnt/stockage/packages/f16/libepc/po/sv.po | 
+ | [th](/f16/language/th) | 147 | 147 | 100.0 | /mnt/stockage/packages/f16/libepc/po/th.po | 
+ | [zh_Hans](/f16/language/zh_Hans) | 147 | 147 | 100.0 | /mnt/stockage/packages/f16/libepc/po/zh_CN.po | 
+ | [id](/f16/language/id) | 144 | 147 | 98.0 | /mnt/stockage/packages/f16/libepc/po/id.po | 
+ | [nb_NO](/f16/language/nb_NO) | 27 | 146 | 18.5 | /mnt/stockage/packages/f16/libepc/po/nb.po | 
+ | [ar](/f16/language/ar) | 23 | 146 | 15.8 | /mnt/stockage/packages/f16/libepc/po/ar.po | 
 {.sortable}
 
 

@@ -18,80 +18,80 @@ The package kaddressbook (version 23.04.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f37/language/ar.md" >}}) | 1151 | 1151 | 100.0 | /mnt/stockage/packages/f37/kaddressbook/po/ar/kaddressbook.po | 
- | [az]({{< ref "/f37/language/az.md" >}}) | 1151 | 1151 | 100.0 | /mnt/stockage/packages/f37/kaddressbook/po/az/kaddressbook.po | 
- | [bg]({{< ref "/f37/language/bg.md" >}}) | 1151 | 1151 | 100.0 | /mnt/stockage/packages/f37/kaddressbook/po/bg/kaddressbook.po | 
- | [ca]({{< ref "/f37/language/ca.md" >}}) | 1151 | 1151 | 100.0 | /mnt/stockage/packages/f37/kaddressbook/po/ca/kaddressbook.po | 
- | [ca@valencia]({{< ref "/f37/language/ca@valencia.md" >}}) | 1151 | 1151 | 100.0 | /mnt/stockage/packages/f37/kaddressbook/po/ca@valencia/kaddressbook.po | 
- | [de]({{< ref "/f37/language/de.md" >}}) | 1151 | 1151 | 100.0 | /mnt/stockage/packages/f37/kaddressbook/po/de/kaddressbook.po | 
- | [el]({{< ref "/f37/language/el.md" >}}) | 1151 | 1151 | 100.0 | /mnt/stockage/packages/f37/kaddressbook/po/el/kaddressbook.po | 
- | [en_GB]({{< ref "/f37/language/en_GB.md" >}}) | 1151 | 1151 | 100.0 | /mnt/stockage/packages/f37/kaddressbook/po/en_GB/kaddressbook.po | 
- | [es]({{< ref "/f37/language/es.md" >}}) | 1151 | 1151 | 100.0 | /mnt/stockage/packages/f37/kaddressbook/po/es/kaddressbook.po | 
- | [eu]({{< ref "/f37/language/eu.md" >}}) | 1151 | 1151 | 100.0 | /mnt/stockage/packages/f37/kaddressbook/po/eu/kaddressbook.po | 
- | [fi]({{< ref "/f37/language/fi.md" >}}) | 1151 | 1151 | 100.0 | /mnt/stockage/packages/f37/kaddressbook/po/fi/kaddressbook.po | 
- | [fr]({{< ref "/f37/language/fr.md" >}}) | 1151 | 1151 | 100.0 | /mnt/stockage/packages/f37/kaddressbook/po/fr/kaddressbook.po | 
- | [gl]({{< ref "/f37/language/gl.md" >}}) | 1151 | 1151 | 100.0 | /mnt/stockage/packages/f37/kaddressbook/po/gl/kaddressbook.po | 
- | [hu]({{< ref "/f37/language/hu.md" >}}) | 1151 | 1151 | 100.0 | /mnt/stockage/packages/f37/kaddressbook/po/hu/kaddressbook.po | 
- | [ia]({{< ref "/f37/language/ia.md" >}}) | 1151 | 1151 | 100.0 | /mnt/stockage/packages/f37/kaddressbook/po/ia/kaddressbook.po | 
- | [it]({{< ref "/f37/language/it.md" >}}) | 1151 | 1151 | 100.0 | /mnt/stockage/packages/f37/kaddressbook/po/it/kaddressbook.po | 
- | [ka]({{< ref "/f37/language/ka.md" >}}) | 1151 | 1151 | 100.0 | /mnt/stockage/packages/f37/kaddressbook/po/ka/kaddressbook.po | 
- | [ko]({{< ref "/f37/language/ko.md" >}}) | 1151 | 1151 | 100.0 | /mnt/stockage/packages/f37/kaddressbook/po/ko/kaddressbook.po | 
- | [nl]({{< ref "/f37/language/nl.md" >}}) | 1151 | 1151 | 100.0 | /mnt/stockage/packages/f37/kaddressbook/po/nl/kaddressbook.po | 
- | [pl]({{< ref "/f37/language/pl.md" >}}) | 1151 | 1151 | 100.0 | /mnt/stockage/packages/f37/kaddressbook/po/pl/kaddressbook.po | 
- | [pt]({{< ref "/f37/language/pt.md" >}}) | 1151 | 1151 | 100.0 | /mnt/stockage/packages/f37/kaddressbook/po/pt/kaddressbook.po | 
- | [pt_BR]({{< ref "/f37/language/pt_BR.md" >}}) | 1151 | 1151 | 100.0 | /mnt/stockage/packages/f37/kaddressbook/po/pt_BR/kaddressbook.po | 
- | [ru]({{< ref "/f37/language/ru.md" >}}) | 1151 | 1151 | 100.0 | /mnt/stockage/packages/f37/kaddressbook/po/ru/kaddressbook.po | 
- | [sl]({{< ref "/f37/language/sl.md" >}}) | 1151 | 1151 | 100.0 | /mnt/stockage/packages/f37/kaddressbook/po/sl/kaddressbook.po | 
- | [sv]({{< ref "/f37/language/sv.md" >}}) | 1151 | 1151 | 100.0 | /mnt/stockage/packages/f37/kaddressbook/po/sv/kaddressbook.po | 
- | [tr]({{< ref "/f37/language/tr.md" >}}) | 1151 | 1151 | 100.0 | /mnt/stockage/packages/f37/kaddressbook/po/tr/kaddressbook.po | 
- | [uk]({{< ref "/f37/language/uk.md" >}}) | 1151 | 1151 | 100.0 | /mnt/stockage/packages/f37/kaddressbook/po/uk/kaddressbook.po | 
- | [zh_Hans]({{< ref "/f37/language/zh_Hans.md" >}}) | 1151 | 1151 | 100.0 | /mnt/stockage/packages/f37/kaddressbook/po/zh_CN/kaddressbook.po | 
- | [zh_Hant]({{< ref "/f37/language/zh_Hant.md" >}}) | 1151 | 1151 | 100.0 | /mnt/stockage/packages/f37/kaddressbook/po/zh_TW/kaddressbook.po | 
- | [eo]({{< ref "/f37/language/eo.md" >}}) | 1141 | 1151 | 99.1 | /mnt/stockage/packages/f37/kaddressbook/po/eo/kaddressbook.po | 
- | [da]({{< ref "/f37/language/da.md" >}}) | 1103 | 1151 | 95.8 | /mnt/stockage/packages/f37/kaddressbook/po/da/kaddressbook.po | 
- | [et]({{< ref "/f37/language/et.md" >}}) | 1103 | 1151 | 95.8 | /mnt/stockage/packages/f37/kaddressbook/po/et/kaddressbook.po | 
- | [sk]({{< ref "/f37/language/sk.md" >}}) | 1079 | 1151 | 93.7 | /mnt/stockage/packages/f37/kaddressbook/po/sk/kaddressbook.po | 
- | [sr]({{< ref "/f37/language/sr.md" >}}) | 731 | 783 | 93.4 | /mnt/stockage/packages/f37/kaddressbook/po/sr/kaddressbook.po | 
- | [sr@ijekavian]({{< ref "/f37/language/sr@ijekavian.md" >}}) | 731 | 783 | 93.4 | /mnt/stockage/packages/f37/kaddressbook/po/sr@ijekavian/kaddressbook.po | 
- | [sr@ijekavian_Latn]({{< ref "/f37/language/sr@ijekavian_Latn.md" >}}) | 731 | 783 | 93.4 | /mnt/stockage/packages/f37/kaddressbook/po/sr@ijekavianlatin/kaddressbook.po | 
- | [sr_Latn]({{< ref "/f37/language/sr_Latn.md" >}}) | 731 | 783 | 93.4 | /mnt/stockage/packages/f37/kaddressbook/po/sr@latin/kaddressbook.po | 
- | [nds]({{< ref "/f37/language/nds.md" >}}) | 978 | 1151 | 85.0 | /mnt/stockage/packages/f37/kaddressbook/po/nds/kaddressbook.po | 
- | [bs]({{< ref "/f37/language/bs.md" >}}) | 957 | 1151 | 83.1 | /mnt/stockage/packages/f37/kaddressbook/po/bs/kaddressbook.po | 
- | [kk]({{< ref "/f37/language/kk.md" >}}) | 953 | 1151 | 82.8 | /mnt/stockage/packages/f37/kaddressbook/po/kk/kaddressbook.po | 
- | [km]({{< ref "/f37/language/km.md" >}}) | 950 | 1151 | 82.5 | /mnt/stockage/packages/f37/kaddressbook/po/km/kaddressbook.po | 
- | [mr]({{< ref "/f37/language/mr.md" >}}) | 950 | 1151 | 82.5 | /mnt/stockage/packages/f37/kaddressbook/po/mr/kaddressbook.po | 
- | [nb_NO]({{< ref "/f37/language/nb_NO.md" >}}) | 666 | 1151 | 57.9 | /mnt/stockage/packages/f37/kaddressbook/po/nb/kaddressbook.po | 
- | [cs]({{< ref "/f37/language/cs.md" >}}) | 659 | 1151 | 57.3 | /mnt/stockage/packages/f37/kaddressbook/po/cs/kaddressbook.po | 
- | [lt]({{< ref "/f37/language/lt.md" >}}) | 525 | 1151 | 45.6 | /mnt/stockage/packages/f37/kaddressbook/po/lt/kaddressbook.po | 
- | [nn]({{< ref "/f37/language/nn.md" >}}) | 439 | 1151 | 38.1 | /mnt/stockage/packages/f37/kaddressbook/po/nn/kaddressbook.po | 
- | [ja]({{< ref "/f37/language/ja.md" >}}) | 259 | 1151 | 22.5 | /mnt/stockage/packages/f37/kaddressbook/po/ja/kaddressbook.po | 
- | [ga]({{< ref "/f37/language/ga.md" >}}) | 238 | 1151 | 20.7 | /mnt/stockage/packages/f37/kaddressbook/po/ga/kaddressbook.po | 
- | [ro]({{< ref "/f37/language/ro.md" >}}) | 166 | 1151 | 14.4 | /mnt/stockage/packages/f37/kaddressbook/po/ro/kaddressbook.po | 
- | [lv]({{< ref "/f37/language/lv.md" >}}) | 164 | 1151 | 14.2 | /mnt/stockage/packages/f37/kaddressbook/po/lv/kaddressbook.po | 
- | [pa]({{< ref "/f37/language/pa.md" >}}) | 133 | 1151 | 11.6 | /mnt/stockage/packages/f37/kaddressbook/po/pa/kaddressbook.po | 
- | [ne]({{< ref "/f37/language/ne.md" >}}) | 103 | 1151 | 8.9 | /mnt/stockage/packages/f37/kaddressbook/po/ne/kaddressbook.po | 
- | [th]({{< ref "/f37/language/th.md" >}}) | 103 | 1151 | 8.9 | /mnt/stockage/packages/f37/kaddressbook/po/th/kaddressbook.po | 
- | [fa]({{< ref "/f37/language/fa.md" >}}) | 90 | 1151 | 7.8 | /mnt/stockage/packages/f37/kaddressbook/po/fa/kaddressbook.po | 
- | [ug]({{< ref "/f37/language/ug.md" >}}) | 86 | 1151 | 7.5 | /mnt/stockage/packages/f37/kaddressbook/po/ug/kaddressbook.po | 
- | [be]({{< ref "/f37/language/be.md" >}}) | 84 | 1151 | 7.3 | /mnt/stockage/packages/f37/kaddressbook/po/be/kaddressbook.po | 
- | [ta]({{< ref "/f37/language/ta.md" >}}) | 84 | 1151 | 7.3 | /mnt/stockage/packages/f37/kaddressbook/po/ta/kaddressbook.po | 
- | [se]({{< ref "/f37/language/se.md" >}}) | 82 | 1151 | 7.1 | /mnt/stockage/packages/f37/kaddressbook/po/se/kaddressbook.po | 
- | [br]({{< ref "/f37/language/br.md" >}}) | 80 | 1151 | 7.0 | /mnt/stockage/packages/f37/kaddressbook/po/br/kaddressbook.po | 
- | [cy]({{< ref "/f37/language/cy.md" >}}) | 75 | 1151 | 6.5 | /mnt/stockage/packages/f37/kaddressbook/po/cy/kaddressbook.po | 
- | [fy]({{< ref "/f37/language/fy.md" >}}) | 75 | 1151 | 6.5 | /mnt/stockage/packages/f37/kaddressbook/po/fy/kaddressbook.po | 
- | [is]({{< ref "/f37/language/is.md" >}}) | 75 | 1151 | 6.5 | /mnt/stockage/packages/f37/kaddressbook/po/is/kaddressbook.po | 
- | [mk]({{< ref "/f37/language/mk.md" >}}) | 75 | 1151 | 6.5 | /mnt/stockage/packages/f37/kaddressbook/po/mk/kaddressbook.po | 
- | [ms]({{< ref "/f37/language/ms.md" >}}) | 75 | 1151 | 6.5 | /mnt/stockage/packages/f37/kaddressbook/po/ms/kaddressbook.po | 
- | [he]({{< ref "/f37/language/he.md" >}}) | 73 | 1151 | 6.3 | /mnt/stockage/packages/f37/kaddressbook/po/he/kaddressbook.po | 
- | [tg]({{< ref "/f37/language/tg.md" >}}) | 73 | 1151 | 6.3 | /mnt/stockage/packages/f37/kaddressbook/po/tg/kaddressbook.po | 
- | [xh]({{< ref "/f37/language/xh.md" >}}) | 58 | 1151 | 5.0 | /mnt/stockage/packages/f37/kaddressbook/po/xh/kaddressbook.po | 
- | [bn]({{< ref "/f37/language/bn.md" >}}) | 56 | 1151 | 4.9 | /mnt/stockage/packages/f37/kaddressbook/po/bn/kaddressbook.po | 
- | [uz]({{< ref "/f37/language/uz.md" >}}) | 112 | 2302 | 4.9 | /mnt/stockage/packages/f37/kaddressbook/po/uz@cyrillic/kaddressbook.po/mnt/stockage/packages/f37/kaddressbook/po/uz/kaddressbook.po | 
- | [hr]({{< ref "/f37/language/hr.md" >}}) | 55 | 1151 | 4.8 | /mnt/stockage/packages/f37/kaddressbook/po/hr/kaddressbook.po | 
- | [af]({{< ref "/f37/language/af.md" >}}) | 53 | 1151 | 4.6 | /mnt/stockage/packages/f37/kaddressbook/po/af/kaddressbook.po | 
- | [mai]({{< ref "/f37/language/mai.md" >}}) | 49 | 1151 | 4.3 | /mnt/stockage/packages/f37/kaddressbook/po/mai/kaddressbook.po | 
- | [vi]({{< ref "/f37/language/vi.md" >}}) | 10 | 1151 | 0.9 | /mnt/stockage/packages/f37/kaddressbook/po/vi/kaddressbook.po | 
- | [sq]({{< ref "/f37/language/sq.md" >}}) | 4 | 1151 | 0.3 | /mnt/stockage/packages/f37/kaddressbook/po/sq/kaddressbook.po | 
+ | [ar](/f37/language/ar) | 1151 | 1151 | 100.0 | /mnt/stockage/packages/f37/kaddressbook/po/ar/kaddressbook.po | 
+ | [az](/f37/language/az) | 1151 | 1151 | 100.0 | /mnt/stockage/packages/f37/kaddressbook/po/az/kaddressbook.po | 
+ | [bg](/f37/language/bg) | 1151 | 1151 | 100.0 | /mnt/stockage/packages/f37/kaddressbook/po/bg/kaddressbook.po | 
+ | [ca](/f37/language/ca) | 1151 | 1151 | 100.0 | /mnt/stockage/packages/f37/kaddressbook/po/ca/kaddressbook.po | 
+ | [ca@valencia](/f37/language/ca@valencia) | 1151 | 1151 | 100.0 | /mnt/stockage/packages/f37/kaddressbook/po/ca@valencia/kaddressbook.po | 
+ | [de](/f37/language/de) | 1151 | 1151 | 100.0 | /mnt/stockage/packages/f37/kaddressbook/po/de/kaddressbook.po | 
+ | [el](/f37/language/el) | 1151 | 1151 | 100.0 | /mnt/stockage/packages/f37/kaddressbook/po/el/kaddressbook.po | 
+ | [en_GB](/f37/language/en_GB) | 1151 | 1151 | 100.0 | /mnt/stockage/packages/f37/kaddressbook/po/en_GB/kaddressbook.po | 
+ | [es](/f37/language/es) | 1151 | 1151 | 100.0 | /mnt/stockage/packages/f37/kaddressbook/po/es/kaddressbook.po | 
+ | [eu](/f37/language/eu) | 1151 | 1151 | 100.0 | /mnt/stockage/packages/f37/kaddressbook/po/eu/kaddressbook.po | 
+ | [fi](/f37/language/fi) | 1151 | 1151 | 100.0 | /mnt/stockage/packages/f37/kaddressbook/po/fi/kaddressbook.po | 
+ | [fr](/f37/language/fr) | 1151 | 1151 | 100.0 | /mnt/stockage/packages/f37/kaddressbook/po/fr/kaddressbook.po | 
+ | [gl](/f37/language/gl) | 1151 | 1151 | 100.0 | /mnt/stockage/packages/f37/kaddressbook/po/gl/kaddressbook.po | 
+ | [hu](/f37/language/hu) | 1151 | 1151 | 100.0 | /mnt/stockage/packages/f37/kaddressbook/po/hu/kaddressbook.po | 
+ | [ia](/f37/language/ia) | 1151 | 1151 | 100.0 | /mnt/stockage/packages/f37/kaddressbook/po/ia/kaddressbook.po | 
+ | [it](/f37/language/it) | 1151 | 1151 | 100.0 | /mnt/stockage/packages/f37/kaddressbook/po/it/kaddressbook.po | 
+ | [ka](/f37/language/ka) | 1151 | 1151 | 100.0 | /mnt/stockage/packages/f37/kaddressbook/po/ka/kaddressbook.po | 
+ | [ko](/f37/language/ko) | 1151 | 1151 | 100.0 | /mnt/stockage/packages/f37/kaddressbook/po/ko/kaddressbook.po | 
+ | [nl](/f37/language/nl) | 1151 | 1151 | 100.0 | /mnt/stockage/packages/f37/kaddressbook/po/nl/kaddressbook.po | 
+ | [pl](/f37/language/pl) | 1151 | 1151 | 100.0 | /mnt/stockage/packages/f37/kaddressbook/po/pl/kaddressbook.po | 
+ | [pt](/f37/language/pt) | 1151 | 1151 | 100.0 | /mnt/stockage/packages/f37/kaddressbook/po/pt/kaddressbook.po | 
+ | [pt_BR](/f37/language/pt_BR) | 1151 | 1151 | 100.0 | /mnt/stockage/packages/f37/kaddressbook/po/pt_BR/kaddressbook.po | 
+ | [ru](/f37/language/ru) | 1151 | 1151 | 100.0 | /mnt/stockage/packages/f37/kaddressbook/po/ru/kaddressbook.po | 
+ | [sl](/f37/language/sl) | 1151 | 1151 | 100.0 | /mnt/stockage/packages/f37/kaddressbook/po/sl/kaddressbook.po | 
+ | [sv](/f37/language/sv) | 1151 | 1151 | 100.0 | /mnt/stockage/packages/f37/kaddressbook/po/sv/kaddressbook.po | 
+ | [tr](/f37/language/tr) | 1151 | 1151 | 100.0 | /mnt/stockage/packages/f37/kaddressbook/po/tr/kaddressbook.po | 
+ | [uk](/f37/language/uk) | 1151 | 1151 | 100.0 | /mnt/stockage/packages/f37/kaddressbook/po/uk/kaddressbook.po | 
+ | [zh_Hans](/f37/language/zh_Hans) | 1151 | 1151 | 100.0 | /mnt/stockage/packages/f37/kaddressbook/po/zh_CN/kaddressbook.po | 
+ | [zh_Hant](/f37/language/zh_Hant) | 1151 | 1151 | 100.0 | /mnt/stockage/packages/f37/kaddressbook/po/zh_TW/kaddressbook.po | 
+ | [eo](/f37/language/eo) | 1141 | 1151 | 99.1 | /mnt/stockage/packages/f37/kaddressbook/po/eo/kaddressbook.po | 
+ | [da](/f37/language/da) | 1103 | 1151 | 95.8 | /mnt/stockage/packages/f37/kaddressbook/po/da/kaddressbook.po | 
+ | [et](/f37/language/et) | 1103 | 1151 | 95.8 | /mnt/stockage/packages/f37/kaddressbook/po/et/kaddressbook.po | 
+ | [sk](/f37/language/sk) | 1079 | 1151 | 93.7 | /mnt/stockage/packages/f37/kaddressbook/po/sk/kaddressbook.po | 
+ | [sr](/f37/language/sr) | 731 | 783 | 93.4 | /mnt/stockage/packages/f37/kaddressbook/po/sr/kaddressbook.po | 
+ | [sr@ijekavian](/f37/language/sr@ijekavian) | 731 | 783 | 93.4 | /mnt/stockage/packages/f37/kaddressbook/po/sr@ijekavian/kaddressbook.po | 
+ | [sr@ijekavian_Latn](/f37/language/sr@ijekavian_Latn) | 731 | 783 | 93.4 | /mnt/stockage/packages/f37/kaddressbook/po/sr@ijekavianlatin/kaddressbook.po | 
+ | [sr_Latn](/f37/language/sr_Latn) | 731 | 783 | 93.4 | /mnt/stockage/packages/f37/kaddressbook/po/sr@latin/kaddressbook.po | 
+ | [nds](/f37/language/nds) | 978 | 1151 | 85.0 | /mnt/stockage/packages/f37/kaddressbook/po/nds/kaddressbook.po | 
+ | [bs](/f37/language/bs) | 957 | 1151 | 83.1 | /mnt/stockage/packages/f37/kaddressbook/po/bs/kaddressbook.po | 
+ | [kk](/f37/language/kk) | 953 | 1151 | 82.8 | /mnt/stockage/packages/f37/kaddressbook/po/kk/kaddressbook.po | 
+ | [km](/f37/language/km) | 950 | 1151 | 82.5 | /mnt/stockage/packages/f37/kaddressbook/po/km/kaddressbook.po | 
+ | [mr](/f37/language/mr) | 950 | 1151 | 82.5 | /mnt/stockage/packages/f37/kaddressbook/po/mr/kaddressbook.po | 
+ | [nb_NO](/f37/language/nb_NO) | 666 | 1151 | 57.9 | /mnt/stockage/packages/f37/kaddressbook/po/nb/kaddressbook.po | 
+ | [cs](/f37/language/cs) | 659 | 1151 | 57.3 | /mnt/stockage/packages/f37/kaddressbook/po/cs/kaddressbook.po | 
+ | [lt](/f37/language/lt) | 525 | 1151 | 45.6 | /mnt/stockage/packages/f37/kaddressbook/po/lt/kaddressbook.po | 
+ | [nn](/f37/language/nn) | 439 | 1151 | 38.1 | /mnt/stockage/packages/f37/kaddressbook/po/nn/kaddressbook.po | 
+ | [ja](/f37/language/ja) | 259 | 1151 | 22.5 | /mnt/stockage/packages/f37/kaddressbook/po/ja/kaddressbook.po | 
+ | [ga](/f37/language/ga) | 238 | 1151 | 20.7 | /mnt/stockage/packages/f37/kaddressbook/po/ga/kaddressbook.po | 
+ | [ro](/f37/language/ro) | 166 | 1151 | 14.4 | /mnt/stockage/packages/f37/kaddressbook/po/ro/kaddressbook.po | 
+ | [lv](/f37/language/lv) | 164 | 1151 | 14.2 | /mnt/stockage/packages/f37/kaddressbook/po/lv/kaddressbook.po | 
+ | [pa](/f37/language/pa) | 133 | 1151 | 11.6 | /mnt/stockage/packages/f37/kaddressbook/po/pa/kaddressbook.po | 
+ | [ne](/f37/language/ne) | 103 | 1151 | 8.9 | /mnt/stockage/packages/f37/kaddressbook/po/ne/kaddressbook.po | 
+ | [th](/f37/language/th) | 103 | 1151 | 8.9 | /mnt/stockage/packages/f37/kaddressbook/po/th/kaddressbook.po | 
+ | [fa](/f37/language/fa) | 90 | 1151 | 7.8 | /mnt/stockage/packages/f37/kaddressbook/po/fa/kaddressbook.po | 
+ | [ug](/f37/language/ug) | 86 | 1151 | 7.5 | /mnt/stockage/packages/f37/kaddressbook/po/ug/kaddressbook.po | 
+ | [be](/f37/language/be) | 84 | 1151 | 7.3 | /mnt/stockage/packages/f37/kaddressbook/po/be/kaddressbook.po | 
+ | [ta](/f37/language/ta) | 84 | 1151 | 7.3 | /mnt/stockage/packages/f37/kaddressbook/po/ta/kaddressbook.po | 
+ | [se](/f37/language/se) | 82 | 1151 | 7.1 | /mnt/stockage/packages/f37/kaddressbook/po/se/kaddressbook.po | 
+ | [br](/f37/language/br) | 80 | 1151 | 7.0 | /mnt/stockage/packages/f37/kaddressbook/po/br/kaddressbook.po | 
+ | [cy](/f37/language/cy) | 75 | 1151 | 6.5 | /mnt/stockage/packages/f37/kaddressbook/po/cy/kaddressbook.po | 
+ | [fy](/f37/language/fy) | 75 | 1151 | 6.5 | /mnt/stockage/packages/f37/kaddressbook/po/fy/kaddressbook.po | 
+ | [is](/f37/language/is) | 75 | 1151 | 6.5 | /mnt/stockage/packages/f37/kaddressbook/po/is/kaddressbook.po | 
+ | [mk](/f37/language/mk) | 75 | 1151 | 6.5 | /mnt/stockage/packages/f37/kaddressbook/po/mk/kaddressbook.po | 
+ | [ms](/f37/language/ms) | 75 | 1151 | 6.5 | /mnt/stockage/packages/f37/kaddressbook/po/ms/kaddressbook.po | 
+ | [he](/f37/language/he) | 73 | 1151 | 6.3 | /mnt/stockage/packages/f37/kaddressbook/po/he/kaddressbook.po | 
+ | [tg](/f37/language/tg) | 73 | 1151 | 6.3 | /mnt/stockage/packages/f37/kaddressbook/po/tg/kaddressbook.po | 
+ | [xh](/f37/language/xh) | 58 | 1151 | 5.0 | /mnt/stockage/packages/f37/kaddressbook/po/xh/kaddressbook.po | 
+ | [bn](/f37/language/bn) | 56 | 1151 | 4.9 | /mnt/stockage/packages/f37/kaddressbook/po/bn/kaddressbook.po | 
+ | [uz](/f37/language/uz) | 112 | 2302 | 4.9 | /mnt/stockage/packages/f37/kaddressbook/po/uz@cyrillic/kaddressbook.po/mnt/stockage/packages/f37/kaddressbook/po/uz/kaddressbook.po | 
+ | [hr](/f37/language/hr) | 55 | 1151 | 4.8 | /mnt/stockage/packages/f37/kaddressbook/po/hr/kaddressbook.po | 
+ | [af](/f37/language/af) | 53 | 1151 | 4.6 | /mnt/stockage/packages/f37/kaddressbook/po/af/kaddressbook.po | 
+ | [mai](/f37/language/mai) | 49 | 1151 | 4.3 | /mnt/stockage/packages/f37/kaddressbook/po/mai/kaddressbook.po | 
+ | [vi](/f37/language/vi) | 10 | 1151 | 0.9 | /mnt/stockage/packages/f37/kaddressbook/po/vi/kaddressbook.po | 
+ | [sq](/f37/language/sq) | 4 | 1151 | 0.3 | /mnt/stockage/packages/f37/kaddressbook/po/sq/kaddressbook.po | 
 {.sortable}
 
 

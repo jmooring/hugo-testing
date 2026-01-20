@@ -38,7 +38,7 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [xmoto]({{< ref "/f12/package/xmoto.md" >}}) | 3307 | 3529 | 93.7 | <XMoto> | 
+ | [xmoto](/f12/package/xmoto) | 3307 | 3529 | 93.7 | <XMoto> | 
 {.sortable}
 
 

@@ -18,7 +18,7 @@ The package python-jupyter-server (version 2.12.5):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [zh_Hans]({{< ref "/f40/language/zh_Hans.md" >}}) | 1119 | 1530 | 73.1 | /mnt/stockage/packages/f40/python-jupyter-server/jupyter_server/i18n/zh_CN/LC_MESSAGES/nbui.po/mnt/stockage/packages/f40/python-jupyter-server/jupyter_server/i18n/zh_CN/LC_MESSAGES/notebook.po | 
+ | [zh_Hans](/f40/language/zh_Hans) | 1119 | 1530 | 73.1 | /mnt/stockage/packages/f40/python-jupyter-server/jupyter_server/i18n/zh_CN/LC_MESSAGES/nbui.po/mnt/stockage/packages/f40/python-jupyter-server/jupyter_server/i18n/zh_CN/LC_MESSAGES/notebook.po | 
 {.sortable}
 
 

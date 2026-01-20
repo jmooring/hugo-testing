@@ -18,87 +18,87 @@ The package vino (version 3.4.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [as]({{< ref "/f17/language/as.md" >}}) | 1209 | 1209 | 100.0 | /mnt/stockage/packages/f17/vino/po/as.po | 
- | [ast]({{< ref "/f17/language/ast.md" >}}) | 1215 | 1215 | 100.0 | /mnt/stockage/packages/f17/vino/po/ast.po | 
- | [az]({{< ref "/f17/language/az.md" >}}) | 540 | 540 | 100.0 | /mnt/stockage/packages/f17/vino/po/az.po | 
- | [bg]({{< ref "/f17/language/bg.md" >}}) | 1209 | 1209 | 100.0 | /mnt/stockage/packages/f17/vino/po/bg.po | 
- | [bn]({{< ref "/f17/language/bn.md" >}}) | 1215 | 1215 | 100.0 | /mnt/stockage/packages/f17/vino/po/bn.po | 
- | [bn_IN]({{< ref "/f17/language/bn_IN.md" >}}) | 1184 | 1184 | 100.0 | /mnt/stockage/packages/f17/vino/po/bn_IN.po | 
- | [bs]({{< ref "/f17/language/bs.md" >}}) | 540 | 540 | 100.0 | /mnt/stockage/packages/f17/vino/po/bs.po | 
- | [ca]({{< ref "/f17/language/ca.md" >}}) | 1209 | 1209 | 100.0 | /mnt/stockage/packages/f17/vino/po/ca.po | 
- | [ca@valencia]({{< ref "/f17/language/ca@valencia.md" >}}) | 1209 | 1209 | 100.0 | /mnt/stockage/packages/f17/vino/po/ca@valencia.po | 
- | [cs]({{< ref "/f17/language/cs.md" >}}) | 1209 | 1209 | 100.0 | /mnt/stockage/packages/f17/vino/po/cs.po | 
- | [cy]({{< ref "/f17/language/cy.md" >}}) | 544 | 544 | 100.0 | /mnt/stockage/packages/f17/vino/po/cy.po | 
- | [da]({{< ref "/f17/language/da.md" >}}) | 1209 | 1209 | 100.0 | /mnt/stockage/packages/f17/vino/po/da.po | 
- | [de]({{< ref "/f17/language/de.md" >}}) | 1209 | 1209 | 100.0 | /mnt/stockage/packages/f17/vino/po/de.po | 
- | [dz]({{< ref "/f17/language/dz.md" >}}) | 816 | 816 | 100.0 | /mnt/stockage/packages/f17/vino/po/dz.po | 
- | [el]({{< ref "/f17/language/el.md" >}}) | 1215 | 1215 | 100.0 | /mnt/stockage/packages/f17/vino/po/el.po | 
- | [en_CA]({{< ref "/f17/language/en_CA.md" >}}) | 544 | 544 | 100.0 | /mnt/stockage/packages/f17/vino/po/en_CA.po | 
- | [en_GB]({{< ref "/f17/language/en_GB.md" >}}) | 1209 | 1209 | 100.0 | /mnt/stockage/packages/f17/vino/po/en_GB.po | 
- | [es]({{< ref "/f17/language/es.md" >}}) | 1209 | 1209 | 100.0 | /mnt/stockage/packages/f17/vino/po/es.po | 
- | [et]({{< ref "/f17/language/et.md" >}}) | 1209 | 1209 | 100.0 | /mnt/stockage/packages/f17/vino/po/et.po | 
- | [eu]({{< ref "/f17/language/eu.md" >}}) | 1209 | 1209 | 100.0 | /mnt/stockage/packages/f17/vino/po/eu.po | 
- | [fa]({{< ref "/f17/language/fa.md" >}}) | 1209 | 1209 | 100.0 | /mnt/stockage/packages/f17/vino/po/fa.po | 
- | [fi]({{< ref "/f17/language/fi.md" >}}) | 1209 | 1209 | 100.0 | /mnt/stockage/packages/f17/vino/po/fi.po | 
- | [fr]({{< ref "/f17/language/fr.md" >}}) | 1209 | 1209 | 100.0 | /mnt/stockage/packages/f17/vino/po/fr.po | 
- | [gl]({{< ref "/f17/language/gl.md" >}}) | 1209 | 1209 | 100.0 | /mnt/stockage/packages/f17/vino/po/gl.po | 
- | [gu]({{< ref "/f17/language/gu.md" >}}) | 1209 | 1209 | 100.0 | /mnt/stockage/packages/f17/vino/po/gu.po | 
- | [he]({{< ref "/f17/language/he.md" >}}) | 1209 | 1209 | 100.0 | /mnt/stockage/packages/f17/vino/po/he.po | 
- | [hi]({{< ref "/f17/language/hi.md" >}}) | 1209 | 1209 | 100.0 | /mnt/stockage/packages/f17/vino/po/hi.po | 
- | [hu]({{< ref "/f17/language/hu.md" >}}) | 1209 | 1209 | 100.0 | /mnt/stockage/packages/f17/vino/po/hu.po | 
- | [id]({{< ref "/f17/language/id.md" >}}) | 1209 | 1209 | 100.0 | /mnt/stockage/packages/f17/vino/po/id.po | 
- | [it]({{< ref "/f17/language/it.md" >}}) | 1209 | 1209 | 100.0 | /mnt/stockage/packages/f17/vino/po/it.po | 
- | [ja]({{< ref "/f17/language/ja.md" >}}) | 1209 | 1209 | 100.0 | /mnt/stockage/packages/f17/vino/po/ja.po | 
- | [ka]({{< ref "/f17/language/ka.md" >}}) | 544 | 544 | 100.0 | /mnt/stockage/packages/f17/vino/po/ka.po | 
- | [kn]({{< ref "/f17/language/kn.md" >}}) | 1215 | 1215 | 100.0 | /mnt/stockage/packages/f17/vino/po/kn.po | 
- | [ko]({{< ref "/f17/language/ko.md" >}}) | 1209 | 1209 | 100.0 | /mnt/stockage/packages/f17/vino/po/ko.po | 
- | [lt]({{< ref "/f17/language/lt.md" >}}) | 1209 | 1209 | 100.0 | /mnt/stockage/packages/f17/vino/po/lt.po | 
- | [lv]({{< ref "/f17/language/lv.md" >}}) | 1209 | 1209 | 100.0 | /mnt/stockage/packages/f17/vino/po/lv.po | 
- | [mk]({{< ref "/f17/language/mk.md" >}}) | 1075 | 1075 | 100.0 | /mnt/stockage/packages/f17/vino/po/mk.po | 
- | [ml]({{< ref "/f17/language/ml.md" >}}) | 1215 | 1215 | 100.0 | /mnt/stockage/packages/f17/vino/po/ml.po | 
- | [mr]({{< ref "/f17/language/mr.md" >}}) | 1215 | 1215 | 100.0 | /mnt/stockage/packages/f17/vino/po/mr.po | 
- | [nb_NO]({{< ref "/f17/language/nb_NO.md" >}}) | 1209 | 1209 | 100.0 | /mnt/stockage/packages/f17/vino/po/nb.po | 
- | [ne]({{< ref "/f17/language/ne.md" >}}) | 838 | 838 | 100.0 | /mnt/stockage/packages/f17/vino/po/ne.po | 
- | [nl]({{< ref "/f17/language/nl.md" >}}) | 1194 | 1194 | 100.0 | /mnt/stockage/packages/f17/vino/po/nl.po | 
- | [nn]({{< ref "/f17/language/nn.md" >}}) | 1215 | 1215 | 100.0 | /mnt/stockage/packages/f17/vino/po/nn.po | 
- | [or]({{< ref "/f17/language/or.md" >}}) | 1184 | 1184 | 100.0 | /mnt/stockage/packages/f17/vino/po/or.po | 
- | [pa]({{< ref "/f17/language/pa.md" >}}) | 1209 | 1209 | 100.0 | /mnt/stockage/packages/f17/vino/po/pa.po | 
- | [pl]({{< ref "/f17/language/pl.md" >}}) | 1209 | 1209 | 100.0 | /mnt/stockage/packages/f17/vino/po/pl.po | 
- | [pt]({{< ref "/f17/language/pt.md" >}}) | 1209 | 1209 | 100.0 | /mnt/stockage/packages/f17/vino/po/pt.po | 
- | [pt_BR]({{< ref "/f17/language/pt_BR.md" >}}) | 1209 | 1209 | 100.0 | /mnt/stockage/packages/f17/vino/po/pt_BR.po | 
- | [ro]({{< ref "/f17/language/ro.md" >}}) | 1184 | 1184 | 100.0 | /mnt/stockage/packages/f17/vino/po/ro.po | 
- | [ru]({{< ref "/f17/language/ru.md" >}}) | 1209 | 1209 | 100.0 | /mnt/stockage/packages/f17/vino/po/ru.po | 
- | [sl]({{< ref "/f17/language/sl.md" >}}) | 1209 | 1209 | 100.0 | /mnt/stockage/packages/f17/vino/po/sl.po | 
- | [sq]({{< ref "/f17/language/sq.md" >}}) | 1031 | 1031 | 100.0 | /mnt/stockage/packages/f17/vino/po/sq.po | 
- | [sr]({{< ref "/f17/language/sr.md" >}}) | 2418 | 2418 | 100.0 | /mnt/stockage/packages/f17/vino/po/sr@latin.po/mnt/stockage/packages/f17/vino/po/sr.po | 
- | [sv]({{< ref "/f17/language/sv.md" >}}) | 1209 | 1209 | 100.0 | /mnt/stockage/packages/f17/vino/po/sv.po | 
- | [ta]({{< ref "/f17/language/ta.md" >}}) | 1209 | 1209 | 100.0 | /mnt/stockage/packages/f17/vino/po/ta.po | 
- | [te]({{< ref "/f17/language/te.md" >}}) | 1209 | 1209 | 100.0 | /mnt/stockage/packages/f17/vino/po/te.po | 
- | [th]({{< ref "/f17/language/th.md" >}}) | 1194 | 1194 | 100.0 | /mnt/stockage/packages/f17/vino/po/th.po | 
- | [tr]({{< ref "/f17/language/tr.md" >}}) | 1209 | 1209 | 100.0 | /mnt/stockage/packages/f17/vino/po/tr.po | 
- | [ug]({{< ref "/f17/language/ug.md" >}}) | 1194 | 1194 | 100.0 | /mnt/stockage/packages/f17/vino/po/ug.po | 
- | [uk]({{< ref "/f17/language/uk.md" >}}) | 1209 | 1209 | 100.0 | /mnt/stockage/packages/f17/vino/po/uk.po | 
- | [vi]({{< ref "/f17/language/vi.md" >}}) | 1051 | 1051 | 100.0 | /mnt/stockage/packages/f17/vino/po/vi.po | 
- | [xh]({{< ref "/f17/language/xh.md" >}}) | 540 | 540 | 100.0 | /mnt/stockage/packages/f17/vino/po/xh.po | 
- | [zh_Hans]({{< ref "/f17/language/zh_Hans.md" >}}) | 1209 | 1209 | 100.0 | /mnt/stockage/packages/f17/vino/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f17/language/zh_Hant.md" >}}) | 2418 | 2418 | 100.0 | /mnt/stockage/packages/f17/vino/po/zh_HK.po/mnt/stockage/packages/f17/vino/po/zh_TW.po | 
- | [sk]({{< ref "/f17/language/sk.md" >}}) | 825 | 993 | 83.1 | /mnt/stockage/packages/f17/vino/po/sk.po | 
- | [mn]({{< ref "/f17/language/mn.md" >}}) | 395 | 540 | 73.1 | /mnt/stockage/packages/f17/vino/po/mn.po | 
- | [ar]({{< ref "/f17/language/ar.md" >}}) | 880 | 1209 | 72.8 | /mnt/stockage/packages/f17/vino/po/ar.po | 
- | [wa]({{< ref "/f17/language/wa.md" >}}) | 392 | 540 | 72.6 | /mnt/stockage/packages/f17/vino/po/wa.po | 
- | [error]({{< ref "/f17/language/error.md" >}}) | 764 | 1215 | 62.9 | /mnt/stockage/packages/f17/vino/po/en@shaw.po | 
- | [hr]({{< ref "/f17/language/hr.md" >}}) | 626 | 1031 | 60.7 | /mnt/stockage/packages/f17/vino/po/hr.po | 
- | [si]({{< ref "/f17/language/si.md" >}}) | 479 | 816 | 58.7 | /mnt/stockage/packages/f17/vino/po/si.po | 
- | [be]({{< ref "/f17/language/be.md" >}}) | 696 | 1194 | 58.3 | /mnt/stockage/packages/f17/vino/po/be.po | 
- | [ms]({{< ref "/f17/language/ms.md" >}}) | 313 | 540 | 58.0 | /mnt/stockage/packages/f17/vino/po/ms.po | 
- | [be_Latn]({{< ref "/f17/language/be_Latn.md" >}}) | 500 | 1054 | 47.4 | /mnt/stockage/packages/f17/vino/po/be@latin.po | 
- | [mai]({{< ref "/f17/language/mai.md" >}}) | 554 | 1215 | 45.6 | /mnt/stockage/packages/f17/vino/po/mai.po | 
- | [eo]({{< ref "/f17/language/eo.md" >}}) | 440 | 1209 | 36.4 | /mnt/stockage/packages/f17/vino/po/eo.po | 
- | [oc]({{< ref "/f17/language/oc.md" >}}) | 197 | 983 | 20.0 | /mnt/stockage/packages/f17/vino/po/oc.po | 
- | [kk]({{< ref "/f17/language/kk.md" >}}) | 108 | 1207 | 8.9 | /mnt/stockage/packages/f17/vino/po/kk.po | 
- | [ga]({{< ref "/f17/language/ga.md" >}}) | 52 | 1215 | 4.3 | /mnt/stockage/packages/f17/vino/po/ga.po | 
- | [ku]({{< ref "/f17/language/ku.md" >}}) | 13 | 540 | 2.4 | /mnt/stockage/packages/f17/vino/po/ku.po | 
- | [rw]({{< ref "/f17/language/rw.md" >}}) | 2 | 540 | 0.4 | /mnt/stockage/packages/f17/vino/po/rw.po | 
+ | [as](/f17/language/as) | 1209 | 1209 | 100.0 | /mnt/stockage/packages/f17/vino/po/as.po | 
+ | [ast](/f17/language/ast) | 1215 | 1215 | 100.0 | /mnt/stockage/packages/f17/vino/po/ast.po | 
+ | [az](/f17/language/az) | 540 | 540 | 100.0 | /mnt/stockage/packages/f17/vino/po/az.po | 
+ | [bg](/f17/language/bg) | 1209 | 1209 | 100.0 | /mnt/stockage/packages/f17/vino/po/bg.po | 
+ | [bn](/f17/language/bn) | 1215 | 1215 | 100.0 | /mnt/stockage/packages/f17/vino/po/bn.po | 
+ | [bn_IN](/f17/language/bn_IN) | 1184 | 1184 | 100.0 | /mnt/stockage/packages/f17/vino/po/bn_IN.po | 
+ | [bs](/f17/language/bs) | 540 | 540 | 100.0 | /mnt/stockage/packages/f17/vino/po/bs.po | 
+ | [ca](/f17/language/ca) | 1209 | 1209 | 100.0 | /mnt/stockage/packages/f17/vino/po/ca.po | 
+ | [ca@valencia](/f17/language/ca@valencia) | 1209 | 1209 | 100.0 | /mnt/stockage/packages/f17/vino/po/ca@valencia.po | 
+ | [cs](/f17/language/cs) | 1209 | 1209 | 100.0 | /mnt/stockage/packages/f17/vino/po/cs.po | 
+ | [cy](/f17/language/cy) | 544 | 544 | 100.0 | /mnt/stockage/packages/f17/vino/po/cy.po | 
+ | [da](/f17/language/da) | 1209 | 1209 | 100.0 | /mnt/stockage/packages/f17/vino/po/da.po | 
+ | [de](/f17/language/de) | 1209 | 1209 | 100.0 | /mnt/stockage/packages/f17/vino/po/de.po | 
+ | [dz](/f17/language/dz) | 816 | 816 | 100.0 | /mnt/stockage/packages/f17/vino/po/dz.po | 
+ | [el](/f17/language/el) | 1215 | 1215 | 100.0 | /mnt/stockage/packages/f17/vino/po/el.po | 
+ | [en_CA](/f17/language/en_CA) | 544 | 544 | 100.0 | /mnt/stockage/packages/f17/vino/po/en_CA.po | 
+ | [en_GB](/f17/language/en_GB) | 1209 | 1209 | 100.0 | /mnt/stockage/packages/f17/vino/po/en_GB.po | 
+ | [es](/f17/language/es) | 1209 | 1209 | 100.0 | /mnt/stockage/packages/f17/vino/po/es.po | 
+ | [et](/f17/language/et) | 1209 | 1209 | 100.0 | /mnt/stockage/packages/f17/vino/po/et.po | 
+ | [eu](/f17/language/eu) | 1209 | 1209 | 100.0 | /mnt/stockage/packages/f17/vino/po/eu.po | 
+ | [fa](/f17/language/fa) | 1209 | 1209 | 100.0 | /mnt/stockage/packages/f17/vino/po/fa.po | 
+ | [fi](/f17/language/fi) | 1209 | 1209 | 100.0 | /mnt/stockage/packages/f17/vino/po/fi.po | 
+ | [fr](/f17/language/fr) | 1209 | 1209 | 100.0 | /mnt/stockage/packages/f17/vino/po/fr.po | 
+ | [gl](/f17/language/gl) | 1209 | 1209 | 100.0 | /mnt/stockage/packages/f17/vino/po/gl.po | 
+ | [gu](/f17/language/gu) | 1209 | 1209 | 100.0 | /mnt/stockage/packages/f17/vino/po/gu.po | 
+ | [he](/f17/language/he) | 1209 | 1209 | 100.0 | /mnt/stockage/packages/f17/vino/po/he.po | 
+ | [hi](/f17/language/hi) | 1209 | 1209 | 100.0 | /mnt/stockage/packages/f17/vino/po/hi.po | 
+ | [hu](/f17/language/hu) | 1209 | 1209 | 100.0 | /mnt/stockage/packages/f17/vino/po/hu.po | 
+ | [id](/f17/language/id) | 1209 | 1209 | 100.0 | /mnt/stockage/packages/f17/vino/po/id.po | 
+ | [it](/f17/language/it) | 1209 | 1209 | 100.0 | /mnt/stockage/packages/f17/vino/po/it.po | 
+ | [ja](/f17/language/ja) | 1209 | 1209 | 100.0 | /mnt/stockage/packages/f17/vino/po/ja.po | 
+ | [ka](/f17/language/ka) | 544 | 544 | 100.0 | /mnt/stockage/packages/f17/vino/po/ka.po | 
+ | [kn](/f17/language/kn) | 1215 | 1215 | 100.0 | /mnt/stockage/packages/f17/vino/po/kn.po | 
+ | [ko](/f17/language/ko) | 1209 | 1209 | 100.0 | /mnt/stockage/packages/f17/vino/po/ko.po | 
+ | [lt](/f17/language/lt) | 1209 | 1209 | 100.0 | /mnt/stockage/packages/f17/vino/po/lt.po | 
+ | [lv](/f17/language/lv) | 1209 | 1209 | 100.0 | /mnt/stockage/packages/f17/vino/po/lv.po | 
+ | [mk](/f17/language/mk) | 1075 | 1075 | 100.0 | /mnt/stockage/packages/f17/vino/po/mk.po | 
+ | [ml](/f17/language/ml) | 1215 | 1215 | 100.0 | /mnt/stockage/packages/f17/vino/po/ml.po | 
+ | [mr](/f17/language/mr) | 1215 | 1215 | 100.0 | /mnt/stockage/packages/f17/vino/po/mr.po | 
+ | [nb_NO](/f17/language/nb_NO) | 1209 | 1209 | 100.0 | /mnt/stockage/packages/f17/vino/po/nb.po | 
+ | [ne](/f17/language/ne) | 838 | 838 | 100.0 | /mnt/stockage/packages/f17/vino/po/ne.po | 
+ | [nl](/f17/language/nl) | 1194 | 1194 | 100.0 | /mnt/stockage/packages/f17/vino/po/nl.po | 
+ | [nn](/f17/language/nn) | 1215 | 1215 | 100.0 | /mnt/stockage/packages/f17/vino/po/nn.po | 
+ | [or](/f17/language/or) | 1184 | 1184 | 100.0 | /mnt/stockage/packages/f17/vino/po/or.po | 
+ | [pa](/f17/language/pa) | 1209 | 1209 | 100.0 | /mnt/stockage/packages/f17/vino/po/pa.po | 
+ | [pl](/f17/language/pl) | 1209 | 1209 | 100.0 | /mnt/stockage/packages/f17/vino/po/pl.po | 
+ | [pt](/f17/language/pt) | 1209 | 1209 | 100.0 | /mnt/stockage/packages/f17/vino/po/pt.po | 
+ | [pt_BR](/f17/language/pt_BR) | 1209 | 1209 | 100.0 | /mnt/stockage/packages/f17/vino/po/pt_BR.po | 
+ | [ro](/f17/language/ro) | 1184 | 1184 | 100.0 | /mnt/stockage/packages/f17/vino/po/ro.po | 
+ | [ru](/f17/language/ru) | 1209 | 1209 | 100.0 | /mnt/stockage/packages/f17/vino/po/ru.po | 
+ | [sl](/f17/language/sl) | 1209 | 1209 | 100.0 | /mnt/stockage/packages/f17/vino/po/sl.po | 
+ | [sq](/f17/language/sq) | 1031 | 1031 | 100.0 | /mnt/stockage/packages/f17/vino/po/sq.po | 
+ | [sr](/f17/language/sr) | 2418 | 2418 | 100.0 | /mnt/stockage/packages/f17/vino/po/sr@latin.po/mnt/stockage/packages/f17/vino/po/sr.po | 
+ | [sv](/f17/language/sv) | 1209 | 1209 | 100.0 | /mnt/stockage/packages/f17/vino/po/sv.po | 
+ | [ta](/f17/language/ta) | 1209 | 1209 | 100.0 | /mnt/stockage/packages/f17/vino/po/ta.po | 
+ | [te](/f17/language/te) | 1209 | 1209 | 100.0 | /mnt/stockage/packages/f17/vino/po/te.po | 
+ | [th](/f17/language/th) | 1194 | 1194 | 100.0 | /mnt/stockage/packages/f17/vino/po/th.po | 
+ | [tr](/f17/language/tr) | 1209 | 1209 | 100.0 | /mnt/stockage/packages/f17/vino/po/tr.po | 
+ | [ug](/f17/language/ug) | 1194 | 1194 | 100.0 | /mnt/stockage/packages/f17/vino/po/ug.po | 
+ | [uk](/f17/language/uk) | 1209 | 1209 | 100.0 | /mnt/stockage/packages/f17/vino/po/uk.po | 
+ | [vi](/f17/language/vi) | 1051 | 1051 | 100.0 | /mnt/stockage/packages/f17/vino/po/vi.po | 
+ | [xh](/f17/language/xh) | 540 | 540 | 100.0 | /mnt/stockage/packages/f17/vino/po/xh.po | 
+ | [zh_Hans](/f17/language/zh_Hans) | 1209 | 1209 | 100.0 | /mnt/stockage/packages/f17/vino/po/zh_CN.po | 
+ | [zh_Hant](/f17/language/zh_Hant) | 2418 | 2418 | 100.0 | /mnt/stockage/packages/f17/vino/po/zh_HK.po/mnt/stockage/packages/f17/vino/po/zh_TW.po | 
+ | [sk](/f17/language/sk) | 825 | 993 | 83.1 | /mnt/stockage/packages/f17/vino/po/sk.po | 
+ | [mn](/f17/language/mn) | 395 | 540 | 73.1 | /mnt/stockage/packages/f17/vino/po/mn.po | 
+ | [ar](/f17/language/ar) | 880 | 1209 | 72.8 | /mnt/stockage/packages/f17/vino/po/ar.po | 
+ | [wa](/f17/language/wa) | 392 | 540 | 72.6 | /mnt/stockage/packages/f17/vino/po/wa.po | 
+ | [error](/f17/language/error) | 764 | 1215 | 62.9 | /mnt/stockage/packages/f17/vino/po/en@shaw.po | 
+ | [hr](/f17/language/hr) | 626 | 1031 | 60.7 | /mnt/stockage/packages/f17/vino/po/hr.po | 
+ | [si](/f17/language/si) | 479 | 816 | 58.7 | /mnt/stockage/packages/f17/vino/po/si.po | 
+ | [be](/f17/language/be) | 696 | 1194 | 58.3 | /mnt/stockage/packages/f17/vino/po/be.po | 
+ | [ms](/f17/language/ms) | 313 | 540 | 58.0 | /mnt/stockage/packages/f17/vino/po/ms.po | 
+ | [be_Latn](/f17/language/be_Latn) | 500 | 1054 | 47.4 | /mnt/stockage/packages/f17/vino/po/be@latin.po | 
+ | [mai](/f17/language/mai) | 554 | 1215 | 45.6 | /mnt/stockage/packages/f17/vino/po/mai.po | 
+ | [eo](/f17/language/eo) | 440 | 1209 | 36.4 | /mnt/stockage/packages/f17/vino/po/eo.po | 
+ | [oc](/f17/language/oc) | 197 | 983 | 20.0 | /mnt/stockage/packages/f17/vino/po/oc.po | 
+ | [kk](/f17/language/kk) | 108 | 1207 | 8.9 | /mnt/stockage/packages/f17/vino/po/kk.po | 
+ | [ga](/f17/language/ga) | 52 | 1215 | 4.3 | /mnt/stockage/packages/f17/vino/po/ga.po | 
+ | [ku](/f17/language/ku) | 13 | 540 | 2.4 | /mnt/stockage/packages/f17/vino/po/ku.po | 
+ | [rw](/f17/language/rw) | 2 | 540 | 0.4 | /mnt/stockage/packages/f17/vino/po/rw.po | 
 {.sortable}
 
 

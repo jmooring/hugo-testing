@@ -18,8 +18,8 @@ The package lvm2 (version 2.02.39):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f10/language/de.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f10/lvm2/po/de.po | 
- | [error]({{< ref "/f10/language/error.md" >}}) | 0 | 10785 | 0.0 | /mnt/stockage/packages/f10/lvm2/po/lvm2.po/mnt/stockage/packages/f10/lvm2/po/device-mapper.po | 
+ | [de](/f10/language/de) | 0 | 0 | 0.0 | /mnt/stockage/packages/f10/lvm2/po/de.po | 
+ | [error](/f10/language/error) | 0 | 10785 | 0.0 | /mnt/stockage/packages/f10/lvm2/po/lvm2.po/mnt/stockage/packages/f10/lvm2/po/device-mapper.po | 
 {.sortable}
 
 

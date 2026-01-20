@@ -18,72 +18,72 @@ The package evince (version 0.8.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f7/language/ar.md" >}}) | 986 | 986 | 100.0 | /mnt/stockage/packages/f7/evince/po/ar.po | 
- | [be]({{< ref "/f7/language/be.md" >}}) | 984 | 984 | 100.0 | /mnt/stockage/packages/f7/evince/po/be.po | 
- | [bg]({{< ref "/f7/language/bg.md" >}}) | 2739 | 2739 | 100.0 | /mnt/stockage/packages/f7/evince/help/bg/bg.po/mnt/stockage/packages/f7/evince/po/bg.po | 
- | [bn]({{< ref "/f7/language/bn.md" >}}) | 847 | 847 | 100.0 | /mnt/stockage/packages/f7/evince/po/bn.po | 
- | [bn_IN]({{< ref "/f7/language/bn_IN.md" >}}) | 847 | 847 | 100.0 | /mnt/stockage/packages/f7/evince/po/bn_IN.po | 
- | [cs]({{< ref "/f7/language/cs.md" >}}) | 986 | 986 | 100.0 | /mnt/stockage/packages/f7/evince/po/cs.po | 
- | [cy]({{< ref "/f7/language/cy.md" >}}) | 730 | 730 | 100.0 | /mnt/stockage/packages/f7/evince/po/cy.po | 
- | [da]({{< ref "/f7/language/da.md" >}}) | 986 | 986 | 100.0 | /mnt/stockage/packages/f7/evince/po/da.po | 
- | [de]({{< ref "/f7/language/de.md" >}}) | 986 | 986 | 100.0 | /mnt/stockage/packages/f7/evince/po/de.po | 
- | [dz]({{< ref "/f7/language/dz.md" >}}) | 986 | 986 | 100.0 | /mnt/stockage/packages/f7/evince/po/dz.po | 
- | [el]({{< ref "/f7/language/el.md" >}}) | 2750 | 2750 | 100.0 | /mnt/stockage/packages/f7/evince/help/el/el.po/mnt/stockage/packages/f7/evince/po/el.po | 
- | [en_CA]({{< ref "/f7/language/en_CA.md" >}}) | 720 | 720 | 100.0 | /mnt/stockage/packages/f7/evince/po/en_CA.po | 
- | [en_GB]({{< ref "/f7/language/en_GB.md" >}}) | 2762 | 2762 | 100.0 | /mnt/stockage/packages/f7/evince/help/en_GB/en_GB.po/mnt/stockage/packages/f7/evince/po/en_GB.po | 
- | [error]({{< ref "/f7/language/error.md" >}}) | 986 | 986 | 100.0 | /mnt/stockage/packages/f7/evince/po/sr@Latn.po | 
- | [es]({{< ref "/f7/language/es.md" >}}) | 2753 | 2753 | 100.0 | /mnt/stockage/packages/f7/evince/help/es/es.po/mnt/stockage/packages/f7/evince/po/es.po | 
- | [et]({{< ref "/f7/language/et.md" >}}) | 986 | 986 | 100.0 | /mnt/stockage/packages/f7/evince/po/et.po | 
- | [eu]({{< ref "/f7/language/eu.md" >}}) | 986 | 986 | 100.0 | /mnt/stockage/packages/f7/evince/po/eu.po | 
- | [fa]({{< ref "/f7/language/fa.md" >}}) | 732 | 732 | 100.0 | /mnt/stockage/packages/f7/evince/po/fa.po | 
- | [fi]({{< ref "/f7/language/fi.md" >}}) | 2750 | 2750 | 100.0 | /mnt/stockage/packages/f7/evince/help/fi/fi.po/mnt/stockage/packages/f7/evince/po/fi.po | 
- | [fr]({{< ref "/f7/language/fr.md" >}}) | 2762 | 2762 | 100.0 | /mnt/stockage/packages/f7/evince/help/fr/fr.po/mnt/stockage/packages/f7/evince/po/fr.po | 
- | [gl]({{< ref "/f7/language/gl.md" >}}) | 847 | 847 | 100.0 | /mnt/stockage/packages/f7/evince/po/gl.po | 
- | [gu]({{< ref "/f7/language/gu.md" >}}) | 986 | 986 | 100.0 | /mnt/stockage/packages/f7/evince/po/gu.po | 
- | [he]({{< ref "/f7/language/he.md" >}}) | 986 | 986 | 100.0 | /mnt/stockage/packages/f7/evince/po/he.po | 
- | [hu]({{< ref "/f7/language/hu.md" >}}) | 986 | 986 | 100.0 | /mnt/stockage/packages/f7/evince/po/hu.po | 
- | [id]({{< ref "/f7/language/id.md" >}}) | 806 | 806 | 100.0 | /mnt/stockage/packages/f7/evince/po/id.po | 
- | [it]({{< ref "/f7/language/it.md" >}}) | 2750 | 2750 | 100.0 | /mnt/stockage/packages/f7/evince/help/it/it.po/mnt/stockage/packages/f7/evince/po/it.po | 
- | [ja]({{< ref "/f7/language/ja.md" >}}) | 986 | 986 | 100.0 | /mnt/stockage/packages/f7/evince/po/ja.po | 
- | [ka]({{< ref "/f7/language/ka.md" >}}) | 842 | 842 | 100.0 | /mnt/stockage/packages/f7/evince/po/ka.po | 
- | [ko]({{< ref "/f7/language/ko.md" >}}) | 986 | 986 | 100.0 | /mnt/stockage/packages/f7/evince/po/ko.po | 
- | [lt]({{< ref "/f7/language/lt.md" >}}) | 986 | 986 | 100.0 | /mnt/stockage/packages/f7/evince/po/lt.po | 
- | [lv]({{< ref "/f7/language/lv.md" >}}) | 946 | 946 | 100.0 | /mnt/stockage/packages/f7/evince/po/lv.po | 
- | [mk]({{< ref "/f7/language/mk.md" >}}) | 986 | 986 | 100.0 | /mnt/stockage/packages/f7/evince/po/mk.po | 
- | [nb_NO]({{< ref "/f7/language/nb_NO.md" >}}) | 986 | 986 | 100.0 | /mnt/stockage/packages/f7/evince/po/nb.po | 
- | [ne]({{< ref "/f7/language/ne.md" >}}) | 730 | 730 | 100.0 | /mnt/stockage/packages/f7/evince/po/ne.po | 
- | [nn]({{< ref "/f7/language/nn.md" >}}) | 847 | 847 | 100.0 | /mnt/stockage/packages/f7/evince/po/nn.po | 
- | [pa]({{< ref "/f7/language/pa.md" >}}) | 986 | 986 | 100.0 | /mnt/stockage/packages/f7/evince/po/pa.po | 
- | [pl]({{< ref "/f7/language/pl.md" >}}) | 986 | 986 | 100.0 | /mnt/stockage/packages/f7/evince/po/pl.po | 
- | [pt]({{< ref "/f7/language/pt.md" >}}) | 986 | 986 | 100.0 | /mnt/stockage/packages/f7/evince/po/pt.po | 
- | [pt_BR]({{< ref "/f7/language/pt_BR.md" >}}) | 986 | 986 | 100.0 | /mnt/stockage/packages/f7/evince/po/pt_BR.po | 
- | [ro]({{< ref "/f7/language/ro.md" >}}) | 986 | 986 | 100.0 | /mnt/stockage/packages/f7/evince/po/ro.po | 
- | [ru]({{< ref "/f7/language/ru.md" >}}) | 2750 | 2750 | 100.0 | /mnt/stockage/packages/f7/evince/help/ru/ru.po/mnt/stockage/packages/f7/evince/po/ru.po | 
- | [sk]({{< ref "/f7/language/sk.md" >}}) | 913 | 913 | 100.0 | /mnt/stockage/packages/f7/evince/po/sk.po | 
- | [sl]({{< ref "/f7/language/sl.md" >}}) | 986 | 986 | 100.0 | /mnt/stockage/packages/f7/evince/po/sl.po | 
- | [sq]({{< ref "/f7/language/sq.md" >}}) | 730 | 730 | 100.0 | /mnt/stockage/packages/f7/evince/po/sq.po | 
- | [sv]({{< ref "/f7/language/sv.md" >}}) | 2753 | 2753 | 100.0 | /mnt/stockage/packages/f7/evince/help/sv/sv.po/mnt/stockage/packages/f7/evince/po/sv.po | 
- | [ta]({{< ref "/f7/language/ta.md" >}}) | 806 | 806 | 100.0 | /mnt/stockage/packages/f7/evince/po/ta.po | 
- | [th]({{< ref "/f7/language/th.md" >}}) | 995 | 995 | 100.0 | /mnt/stockage/packages/f7/evince/po/th.po | 
- | [tr]({{< ref "/f7/language/tr.md" >}}) | 847 | 847 | 100.0 | /mnt/stockage/packages/f7/evince/po/tr.po | 
- | [uk]({{< ref "/f7/language/uk.md" >}}) | 2753 | 2753 | 100.0 | /mnt/stockage/packages/f7/evince/help/uk/uk.po/mnt/stockage/packages/f7/evince/po/uk.po | 
- | [vi]({{< ref "/f7/language/vi.md" >}}) | 986 | 986 | 100.0 | /mnt/stockage/packages/f7/evince/po/vi.po | 
- | [wa]({{< ref "/f7/language/wa.md" >}}) | 601 | 601 | 100.0 | /mnt/stockage/packages/f7/evince/po/wa.po | 
- | [zh_Hans]({{< ref "/f7/language/zh_Hans.md" >}}) | 986 | 986 | 100.0 | /mnt/stockage/packages/f7/evince/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f7/language/zh_Hant.md" >}}) | 986 | 986 | 100.0 | /mnt/stockage/packages/f7/evince/po/zh_TW.po | 
- | [zh_Hant_HK]({{< ref "/f7/language/zh_Hant_HK.md" >}}) | 986 | 986 | 100.0 | /mnt/stockage/packages/f7/evince/po/zh_HK.po | 
- | [mr]({{< ref "/f7/language/mr.md" >}}) | 809 | 847 | 95.5 | /mnt/stockage/packages/f7/evince/po/mr.po | 
- | [hi]({{< ref "/f7/language/hi.md" >}}) | 719 | 847 | 84.9 | /mnt/stockage/packages/f7/evince/po/hi.po | 
- | [ca]({{< ref "/f7/language/ca.md" >}}) | 2328 | 2750 | 84.7 | /mnt/stockage/packages/f7/evince/help/ca/ca.po/mnt/stockage/packages/f7/evince/po/ca.po | 
- | [mg]({{< ref "/f7/language/mg.md" >}}) | 817 | 986 | 82.9 | /mnt/stockage/packages/f7/evince/po/mg.po | 
- | [or]({{< ref "/f7/language/or.md" >}}) | 688 | 847 | 81.2 | /mnt/stockage/packages/f7/evince/po/or.po | 
- | [ml]({{< ref "/f7/language/ml.md" >}}) | 682 | 847 | 80.5 | /mnt/stockage/packages/f7/evince/po/ml.po | 
- | [ku]({{< ref "/f7/language/ku.md" >}}) | 716 | 986 | 72.6 | /mnt/stockage/packages/f7/evince/po/ku.po | 
- | [nl]({{< ref "/f7/language/nl.md" >}}) | 1949 | 2750 | 70.9 | /mnt/stockage/packages/f7/evince/help/nl/nl.po/mnt/stockage/packages/f7/evince/po/nl.po | 
- | [sr]({{< ref "/f7/language/sr.md" >}}) | 1507 | 2754 | 54.7 | /mnt/stockage/packages/f7/evince/help/sr/sr.po/mnt/stockage/packages/f7/evince/po/sr.po | 
- | [br]({{< ref "/f7/language/br.md" >}}) | 246 | 730 | 33.7 | /mnt/stockage/packages/f7/evince/po/br.po | 
- | [oc]({{< ref "/f7/language/oc.md" >}}) | 161 | 986 | 16.3 | /mnt/stockage/packages/f7/evince/po/oc.po | 
- | [rw]({{< ref "/f7/language/rw.md" >}}) | 25 | 599 | 4.2 | /mnt/stockage/packages/f7/evince/po/rw.po | 
+ | [ar](/f7/language/ar) | 986 | 986 | 100.0 | /mnt/stockage/packages/f7/evince/po/ar.po | 
+ | [be](/f7/language/be) | 984 | 984 | 100.0 | /mnt/stockage/packages/f7/evince/po/be.po | 
+ | [bg](/f7/language/bg) | 2739 | 2739 | 100.0 | /mnt/stockage/packages/f7/evince/help/bg/bg.po/mnt/stockage/packages/f7/evince/po/bg.po | 
+ | [bn](/f7/language/bn) | 847 | 847 | 100.0 | /mnt/stockage/packages/f7/evince/po/bn.po | 
+ | [bn_IN](/f7/language/bn_IN) | 847 | 847 | 100.0 | /mnt/stockage/packages/f7/evince/po/bn_IN.po | 
+ | [cs](/f7/language/cs) | 986 | 986 | 100.0 | /mnt/stockage/packages/f7/evince/po/cs.po | 
+ | [cy](/f7/language/cy) | 730 | 730 | 100.0 | /mnt/stockage/packages/f7/evince/po/cy.po | 
+ | [da](/f7/language/da) | 986 | 986 | 100.0 | /mnt/stockage/packages/f7/evince/po/da.po | 
+ | [de](/f7/language/de) | 986 | 986 | 100.0 | /mnt/stockage/packages/f7/evince/po/de.po | 
+ | [dz](/f7/language/dz) | 986 | 986 | 100.0 | /mnt/stockage/packages/f7/evince/po/dz.po | 
+ | [el](/f7/language/el) | 2750 | 2750 | 100.0 | /mnt/stockage/packages/f7/evince/help/el/el.po/mnt/stockage/packages/f7/evince/po/el.po | 
+ | [en_CA](/f7/language/en_CA) | 720 | 720 | 100.0 | /mnt/stockage/packages/f7/evince/po/en_CA.po | 
+ | [en_GB](/f7/language/en_GB) | 2762 | 2762 | 100.0 | /mnt/stockage/packages/f7/evince/help/en_GB/en_GB.po/mnt/stockage/packages/f7/evince/po/en_GB.po | 
+ | [error](/f7/language/error) | 986 | 986 | 100.0 | /mnt/stockage/packages/f7/evince/po/sr@Latn.po | 
+ | [es](/f7/language/es) | 2753 | 2753 | 100.0 | /mnt/stockage/packages/f7/evince/help/es/es.po/mnt/stockage/packages/f7/evince/po/es.po | 
+ | [et](/f7/language/et) | 986 | 986 | 100.0 | /mnt/stockage/packages/f7/evince/po/et.po | 
+ | [eu](/f7/language/eu) | 986 | 986 | 100.0 | /mnt/stockage/packages/f7/evince/po/eu.po | 
+ | [fa](/f7/language/fa) | 732 | 732 | 100.0 | /mnt/stockage/packages/f7/evince/po/fa.po | 
+ | [fi](/f7/language/fi) | 2750 | 2750 | 100.0 | /mnt/stockage/packages/f7/evince/help/fi/fi.po/mnt/stockage/packages/f7/evince/po/fi.po | 
+ | [fr](/f7/language/fr) | 2762 | 2762 | 100.0 | /mnt/stockage/packages/f7/evince/help/fr/fr.po/mnt/stockage/packages/f7/evince/po/fr.po | 
+ | [gl](/f7/language/gl) | 847 | 847 | 100.0 | /mnt/stockage/packages/f7/evince/po/gl.po | 
+ | [gu](/f7/language/gu) | 986 | 986 | 100.0 | /mnt/stockage/packages/f7/evince/po/gu.po | 
+ | [he](/f7/language/he) | 986 | 986 | 100.0 | /mnt/stockage/packages/f7/evince/po/he.po | 
+ | [hu](/f7/language/hu) | 986 | 986 | 100.0 | /mnt/stockage/packages/f7/evince/po/hu.po | 
+ | [id](/f7/language/id) | 806 | 806 | 100.0 | /mnt/stockage/packages/f7/evince/po/id.po | 
+ | [it](/f7/language/it) | 2750 | 2750 | 100.0 | /mnt/stockage/packages/f7/evince/help/it/it.po/mnt/stockage/packages/f7/evince/po/it.po | 
+ | [ja](/f7/language/ja) | 986 | 986 | 100.0 | /mnt/stockage/packages/f7/evince/po/ja.po | 
+ | [ka](/f7/language/ka) | 842 | 842 | 100.0 | /mnt/stockage/packages/f7/evince/po/ka.po | 
+ | [ko](/f7/language/ko) | 986 | 986 | 100.0 | /mnt/stockage/packages/f7/evince/po/ko.po | 
+ | [lt](/f7/language/lt) | 986 | 986 | 100.0 | /mnt/stockage/packages/f7/evince/po/lt.po | 
+ | [lv](/f7/language/lv) | 946 | 946 | 100.0 | /mnt/stockage/packages/f7/evince/po/lv.po | 
+ | [mk](/f7/language/mk) | 986 | 986 | 100.0 | /mnt/stockage/packages/f7/evince/po/mk.po | 
+ | [nb_NO](/f7/language/nb_NO) | 986 | 986 | 100.0 | /mnt/stockage/packages/f7/evince/po/nb.po | 
+ | [ne](/f7/language/ne) | 730 | 730 | 100.0 | /mnt/stockage/packages/f7/evince/po/ne.po | 
+ | [nn](/f7/language/nn) | 847 | 847 | 100.0 | /mnt/stockage/packages/f7/evince/po/nn.po | 
+ | [pa](/f7/language/pa) | 986 | 986 | 100.0 | /mnt/stockage/packages/f7/evince/po/pa.po | 
+ | [pl](/f7/language/pl) | 986 | 986 | 100.0 | /mnt/stockage/packages/f7/evince/po/pl.po | 
+ | [pt](/f7/language/pt) | 986 | 986 | 100.0 | /mnt/stockage/packages/f7/evince/po/pt.po | 
+ | [pt_BR](/f7/language/pt_BR) | 986 | 986 | 100.0 | /mnt/stockage/packages/f7/evince/po/pt_BR.po | 
+ | [ro](/f7/language/ro) | 986 | 986 | 100.0 | /mnt/stockage/packages/f7/evince/po/ro.po | 
+ | [ru](/f7/language/ru) | 2750 | 2750 | 100.0 | /mnt/stockage/packages/f7/evince/help/ru/ru.po/mnt/stockage/packages/f7/evince/po/ru.po | 
+ | [sk](/f7/language/sk) | 913 | 913 | 100.0 | /mnt/stockage/packages/f7/evince/po/sk.po | 
+ | [sl](/f7/language/sl) | 986 | 986 | 100.0 | /mnt/stockage/packages/f7/evince/po/sl.po | 
+ | [sq](/f7/language/sq) | 730 | 730 | 100.0 | /mnt/stockage/packages/f7/evince/po/sq.po | 
+ | [sv](/f7/language/sv) | 2753 | 2753 | 100.0 | /mnt/stockage/packages/f7/evince/help/sv/sv.po/mnt/stockage/packages/f7/evince/po/sv.po | 
+ | [ta](/f7/language/ta) | 806 | 806 | 100.0 | /mnt/stockage/packages/f7/evince/po/ta.po | 
+ | [th](/f7/language/th) | 995 | 995 | 100.0 | /mnt/stockage/packages/f7/evince/po/th.po | 
+ | [tr](/f7/language/tr) | 847 | 847 | 100.0 | /mnt/stockage/packages/f7/evince/po/tr.po | 
+ | [uk](/f7/language/uk) | 2753 | 2753 | 100.0 | /mnt/stockage/packages/f7/evince/help/uk/uk.po/mnt/stockage/packages/f7/evince/po/uk.po | 
+ | [vi](/f7/language/vi) | 986 | 986 | 100.0 | /mnt/stockage/packages/f7/evince/po/vi.po | 
+ | [wa](/f7/language/wa) | 601 | 601 | 100.0 | /mnt/stockage/packages/f7/evince/po/wa.po | 
+ | [zh_Hans](/f7/language/zh_Hans) | 986 | 986 | 100.0 | /mnt/stockage/packages/f7/evince/po/zh_CN.po | 
+ | [zh_Hant](/f7/language/zh_Hant) | 986 | 986 | 100.0 | /mnt/stockage/packages/f7/evince/po/zh_TW.po | 
+ | [zh_Hant_HK](/f7/language/zh_Hant_HK) | 986 | 986 | 100.0 | /mnt/stockage/packages/f7/evince/po/zh_HK.po | 
+ | [mr](/f7/language/mr) | 809 | 847 | 95.5 | /mnt/stockage/packages/f7/evince/po/mr.po | 
+ | [hi](/f7/language/hi) | 719 | 847 | 84.9 | /mnt/stockage/packages/f7/evince/po/hi.po | 
+ | [ca](/f7/language/ca) | 2328 | 2750 | 84.7 | /mnt/stockage/packages/f7/evince/help/ca/ca.po/mnt/stockage/packages/f7/evince/po/ca.po | 
+ | [mg](/f7/language/mg) | 817 | 986 | 82.9 | /mnt/stockage/packages/f7/evince/po/mg.po | 
+ | [or](/f7/language/or) | 688 | 847 | 81.2 | /mnt/stockage/packages/f7/evince/po/or.po | 
+ | [ml](/f7/language/ml) | 682 | 847 | 80.5 | /mnt/stockage/packages/f7/evince/po/ml.po | 
+ | [ku](/f7/language/ku) | 716 | 986 | 72.6 | /mnt/stockage/packages/f7/evince/po/ku.po | 
+ | [nl](/f7/language/nl) | 1949 | 2750 | 70.9 | /mnt/stockage/packages/f7/evince/help/nl/nl.po/mnt/stockage/packages/f7/evince/po/nl.po | 
+ | [sr](/f7/language/sr) | 1507 | 2754 | 54.7 | /mnt/stockage/packages/f7/evince/help/sr/sr.po/mnt/stockage/packages/f7/evince/po/sr.po | 
+ | [br](/f7/language/br) | 246 | 730 | 33.7 | /mnt/stockage/packages/f7/evince/po/br.po | 
+ | [oc](/f7/language/oc) | 161 | 986 | 16.3 | /mnt/stockage/packages/f7/evince/po/oc.po | 
+ | [rw](/f7/language/rw) | 25 | 599 | 4.2 | /mnt/stockage/packages/f7/evince/po/rw.po | 
 {.sortable}
 
 

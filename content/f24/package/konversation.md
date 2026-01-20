@@ -18,44 +18,44 @@ The package konversation (version 1.7.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f24/language/ca.md" >}}) | 10294 | 10294 | 100.0 | /mnt/stockage/packages/f24/konversation/po/ca/konversation.po | 
- | [ca@valencia]({{< ref "/f24/language/ca@valencia.md" >}}) | 10294 | 10294 | 100.0 | /mnt/stockage/packages/f24/konversation/po/ca@valencia/konversation.po | 
- | [es]({{< ref "/f24/language/es.md" >}}) | 10294 | 10294 | 100.0 | /mnt/stockage/packages/f24/konversation/po/es/konversation.po | 
- | [it]({{< ref "/f24/language/it.md" >}}) | 10294 | 10294 | 100.0 | /mnt/stockage/packages/f24/konversation/po/it/konversation.po | 
- | [nl]({{< ref "/f24/language/nl.md" >}}) | 10294 | 10294 | 100.0 | /mnt/stockage/packages/f24/konversation/po/nl/konversation.po | 
- | [pl]({{< ref "/f24/language/pl.md" >}}) | 10294 | 10294 | 100.0 | /mnt/stockage/packages/f24/konversation/po/pl/konversation.po | 
- | [pt]({{< ref "/f24/language/pt.md" >}}) | 10294 | 10294 | 100.0 | /mnt/stockage/packages/f24/konversation/po/pt/konversation.po | 
- | [sk]({{< ref "/f24/language/sk.md" >}}) | 10294 | 10294 | 100.0 | /mnt/stockage/packages/f24/konversation/po/sk/konversation.po | 
- | [sr]({{< ref "/f24/language/sr.md" >}}) | 10294 | 10294 | 100.0 | /mnt/stockage/packages/f24/konversation/po/sr/konversation.po | 
- | [sr@ijekavian]({{< ref "/f24/language/sr@ijekavian.md" >}}) | 10294 | 10294 | 100.0 | /mnt/stockage/packages/f24/konversation/po/sr@ijekavian/konversation.po | 
- | [sr@ijekavian_Latn]({{< ref "/f24/language/sr@ijekavian_Latn.md" >}}) | 10294 | 10294 | 100.0 | /mnt/stockage/packages/f24/konversation/po/sr@ijekavianlatin/konversation.po | 
- | [sr_Latn]({{< ref "/f24/language/sr_Latn.md" >}}) | 10294 | 10294 | 100.0 | /mnt/stockage/packages/f24/konversation/po/sr@latin/konversation.po | 
- | [sv]({{< ref "/f24/language/sv.md" >}}) | 10294 | 10294 | 100.0 | /mnt/stockage/packages/f24/konversation/po/sv/konversation.po | 
- | [uk]({{< ref "/f24/language/uk.md" >}}) | 10294 | 10294 | 100.0 | /mnt/stockage/packages/f24/konversation/po/uk/konversation.po | 
- | [da]({{< ref "/f24/language/da.md" >}}) | 10265 | 10294 | 99.7 | /mnt/stockage/packages/f24/konversation/po/da/konversation.po | 
- | [zh_Hant]({{< ref "/f24/language/zh_Hant.md" >}}) | 10265 | 10294 | 99.7 | /mnt/stockage/packages/f24/konversation/po/zh_TW/konversation.po | 
- | [sl]({{< ref "/f24/language/sl.md" >}}) | 10204 | 10294 | 99.1 | /mnt/stockage/packages/f24/konversation/po/sl/konversation.po | 
- | [de]({{< ref "/f24/language/de.md" >}}) | 10190 | 10294 | 99.0 | /mnt/stockage/packages/f24/konversation/po/de/konversation.po | 
- | [tr]({{< ref "/f24/language/tr.md" >}}) | 10186 | 10294 | 99.0 | /mnt/stockage/packages/f24/konversation/po/tr/konversation.po | 
- | [en_GB]({{< ref "/f24/language/en_GB.md" >}}) | 10169 | 10294 | 98.8 | /mnt/stockage/packages/f24/konversation/po/en_GB/konversation.po | 
- | [et]({{< ref "/f24/language/et.md" >}}) | 10169 | 10294 | 98.8 | /mnt/stockage/packages/f24/konversation/po/et/konversation.po | 
- | [fi]({{< ref "/f24/language/fi.md" >}}) | 10169 | 10294 | 98.8 | /mnt/stockage/packages/f24/konversation/po/fi/konversation.po | 
- | [gl]({{< ref "/f24/language/gl.md" >}}) | 10169 | 10294 | 98.8 | /mnt/stockage/packages/f24/konversation/po/gl/konversation.po | 
- | [pt_BR]({{< ref "/f24/language/pt_BR.md" >}}) | 10159 | 10294 | 98.7 | /mnt/stockage/packages/f24/konversation/po/pt_BR/konversation.po | 
- | [bs]({{< ref "/f24/language/bs.md" >}}) | 10075 | 10294 | 97.9 | /mnt/stockage/packages/f24/konversation/po/bs/konversation.po | 
- | [el]({{< ref "/f24/language/el.md" >}}) | 10075 | 10294 | 97.9 | /mnt/stockage/packages/f24/konversation/po/el/konversation.po | 
- | [nb_NO]({{< ref "/f24/language/nb_NO.md" >}}) | 10046 | 10294 | 97.6 | /mnt/stockage/packages/f24/konversation/po/nb/konversation.po | 
- | [hu]({{< ref "/f24/language/hu.md" >}}) | 10040 | 10294 | 97.5 | /mnt/stockage/packages/f24/konversation/po/hu/konversation.po | 
- | [nds]({{< ref "/f24/language/nds.md" >}}) | 10027 | 10294 | 97.4 | /mnt/stockage/packages/f24/konversation/po/nds/konversation.po | 
- | [ru]({{< ref "/f24/language/ru.md" >}}) | 9997 | 10294 | 97.1 | /mnt/stockage/packages/f24/konversation/po/ru/konversation.po | 
- | [fr]({{< ref "/f24/language/fr.md" >}}) | 9720 | 10294 | 94.4 | /mnt/stockage/packages/f24/konversation/po/fr/konversation.po | 
- | [kk]({{< ref "/f24/language/kk.md" >}}) | 9692 | 10294 | 94.2 | /mnt/stockage/packages/f24/konversation/po/kk/konversation.po | 
- | [km]({{< ref "/f24/language/km.md" >}}) | 9630 | 10294 | 93.5 | /mnt/stockage/packages/f24/konversation/po/km/konversation.po | 
- | [lt]({{< ref "/f24/language/lt.md" >}}) | 8355 | 10294 | 81.2 | /mnt/stockage/packages/f24/konversation/po/lt/konversation.po | 
- | [zh_Hans]({{< ref "/f24/language/zh_Hans.md" >}}) | 7362 | 10294 | 71.5 | /mnt/stockage/packages/f24/konversation/po/zh_CN/konversation.po | 
- | [he_IL]({{< ref "/f24/language/he_IL.md" >}}) | 5627 | 10294 | 54.7 | /mnt/stockage/packages/f24/konversation/po/he/konversation.po | 
- | [bg]({{< ref "/f24/language/bg.md" >}}) | 5364 | 10294 | 52.1 | /mnt/stockage/packages/f24/konversation/po/bg/konversation.po | 
- | [cs]({{< ref "/f24/language/cs.md" >}}) | 4301 | 10294 | 41.8 | /mnt/stockage/packages/f24/konversation/po/cs/konversation.po | 
+ | [ca](/f24/language/ca) | 10294 | 10294 | 100.0 | /mnt/stockage/packages/f24/konversation/po/ca/konversation.po | 
+ | [ca@valencia](/f24/language/ca@valencia) | 10294 | 10294 | 100.0 | /mnt/stockage/packages/f24/konversation/po/ca@valencia/konversation.po | 
+ | [es](/f24/language/es) | 10294 | 10294 | 100.0 | /mnt/stockage/packages/f24/konversation/po/es/konversation.po | 
+ | [it](/f24/language/it) | 10294 | 10294 | 100.0 | /mnt/stockage/packages/f24/konversation/po/it/konversation.po | 
+ | [nl](/f24/language/nl) | 10294 | 10294 | 100.0 | /mnt/stockage/packages/f24/konversation/po/nl/konversation.po | 
+ | [pl](/f24/language/pl) | 10294 | 10294 | 100.0 | /mnt/stockage/packages/f24/konversation/po/pl/konversation.po | 
+ | [pt](/f24/language/pt) | 10294 | 10294 | 100.0 | /mnt/stockage/packages/f24/konversation/po/pt/konversation.po | 
+ | [sk](/f24/language/sk) | 10294 | 10294 | 100.0 | /mnt/stockage/packages/f24/konversation/po/sk/konversation.po | 
+ | [sr](/f24/language/sr) | 10294 | 10294 | 100.0 | /mnt/stockage/packages/f24/konversation/po/sr/konversation.po | 
+ | [sr@ijekavian](/f24/language/sr@ijekavian) | 10294 | 10294 | 100.0 | /mnt/stockage/packages/f24/konversation/po/sr@ijekavian/konversation.po | 
+ | [sr@ijekavian_Latn](/f24/language/sr@ijekavian_Latn) | 10294 | 10294 | 100.0 | /mnt/stockage/packages/f24/konversation/po/sr@ijekavianlatin/konversation.po | 
+ | [sr_Latn](/f24/language/sr_Latn) | 10294 | 10294 | 100.0 | /mnt/stockage/packages/f24/konversation/po/sr@latin/konversation.po | 
+ | [sv](/f24/language/sv) | 10294 | 10294 | 100.0 | /mnt/stockage/packages/f24/konversation/po/sv/konversation.po | 
+ | [uk](/f24/language/uk) | 10294 | 10294 | 100.0 | /mnt/stockage/packages/f24/konversation/po/uk/konversation.po | 
+ | [da](/f24/language/da) | 10265 | 10294 | 99.7 | /mnt/stockage/packages/f24/konversation/po/da/konversation.po | 
+ | [zh_Hant](/f24/language/zh_Hant) | 10265 | 10294 | 99.7 | /mnt/stockage/packages/f24/konversation/po/zh_TW/konversation.po | 
+ | [sl](/f24/language/sl) | 10204 | 10294 | 99.1 | /mnt/stockage/packages/f24/konversation/po/sl/konversation.po | 
+ | [de](/f24/language/de) | 10190 | 10294 | 99.0 | /mnt/stockage/packages/f24/konversation/po/de/konversation.po | 
+ | [tr](/f24/language/tr) | 10186 | 10294 | 99.0 | /mnt/stockage/packages/f24/konversation/po/tr/konversation.po | 
+ | [en_GB](/f24/language/en_GB) | 10169 | 10294 | 98.8 | /mnt/stockage/packages/f24/konversation/po/en_GB/konversation.po | 
+ | [et](/f24/language/et) | 10169 | 10294 | 98.8 | /mnt/stockage/packages/f24/konversation/po/et/konversation.po | 
+ | [fi](/f24/language/fi) | 10169 | 10294 | 98.8 | /mnt/stockage/packages/f24/konversation/po/fi/konversation.po | 
+ | [gl](/f24/language/gl) | 10169 | 10294 | 98.8 | /mnt/stockage/packages/f24/konversation/po/gl/konversation.po | 
+ | [pt_BR](/f24/language/pt_BR) | 10159 | 10294 | 98.7 | /mnt/stockage/packages/f24/konversation/po/pt_BR/konversation.po | 
+ | [bs](/f24/language/bs) | 10075 | 10294 | 97.9 | /mnt/stockage/packages/f24/konversation/po/bs/konversation.po | 
+ | [el](/f24/language/el) | 10075 | 10294 | 97.9 | /mnt/stockage/packages/f24/konversation/po/el/konversation.po | 
+ | [nb_NO](/f24/language/nb_NO) | 10046 | 10294 | 97.6 | /mnt/stockage/packages/f24/konversation/po/nb/konversation.po | 
+ | [hu](/f24/language/hu) | 10040 | 10294 | 97.5 | /mnt/stockage/packages/f24/konversation/po/hu/konversation.po | 
+ | [nds](/f24/language/nds) | 10027 | 10294 | 97.4 | /mnt/stockage/packages/f24/konversation/po/nds/konversation.po | 
+ | [ru](/f24/language/ru) | 9997 | 10294 | 97.1 | /mnt/stockage/packages/f24/konversation/po/ru/konversation.po | 
+ | [fr](/f24/language/fr) | 9720 | 10294 | 94.4 | /mnt/stockage/packages/f24/konversation/po/fr/konversation.po | 
+ | [kk](/f24/language/kk) | 9692 | 10294 | 94.2 | /mnt/stockage/packages/f24/konversation/po/kk/konversation.po | 
+ | [km](/f24/language/km) | 9630 | 10294 | 93.5 | /mnt/stockage/packages/f24/konversation/po/km/konversation.po | 
+ | [lt](/f24/language/lt) | 8355 | 10294 | 81.2 | /mnt/stockage/packages/f24/konversation/po/lt/konversation.po | 
+ | [zh_Hans](/f24/language/zh_Hans) | 7362 | 10294 | 71.5 | /mnt/stockage/packages/f24/konversation/po/zh_CN/konversation.po | 
+ | [he_IL](/f24/language/he_IL) | 5627 | 10294 | 54.7 | /mnt/stockage/packages/f24/konversation/po/he/konversation.po | 
+ | [bg](/f24/language/bg) | 5364 | 10294 | 52.1 | /mnt/stockage/packages/f24/konversation/po/bg/konversation.po | 
+ | [cs](/f24/language/cs) | 4301 | 10294 | 41.8 | /mnt/stockage/packages/f24/konversation/po/cs/konversation.po | 
 {.sortable}
 
 

@@ -38,13 +38,13 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [libgweather]({{< ref "/f21/package/libgweather.md" >}}) | 447 | 460 | 97.2 | Spanish <traductores@es.gnome.org> | 
- | [mate-applets]({{< ref "/f21/package/mate-applets.md" >}}) | 1814 | 2283 | 79.5 | Spanish (Ecuador) (http://www.transifex.com/projects/p/MATE/language/es_EC/) | 
- | [libmateweather]({{< ref "/f21/package/libmateweather.md" >}}) | 361 | 487 | 74.1 | Spanish (Ecuador) (http://www.transifex.com/projects/p/MATE/language/es_EC/) | 
- | [openerp]({{< ref "/f21/package/openerp.md" >}}) | 30337 | 55898 | 54.3 | Spanish (Ecuador) <es_EC@li.org> | 
- | [openerp7]({{< ref "/f21/package/openerp7.md" >}}) | 17290 | 48417 | 35.7 | Spanish (Ecuador) <es_EC@li.org> | 
- | [openerp-client]({{< ref "/f21/package/openerp-client.md" >}}) | 2354 | 7729 | 30.5 | Spanish (Ecuador) <es_EC@li.org> | 
- | [mate-desktop]({{< ref "/f21/package/mate-desktop.md" >}}) | 0 | 2288 | 0.0 | Spanish (Ecuador) (http://www.transifex.com/projects/p/MATE/language/es_EC/) | 
+ | [libgweather](/f21/package/libgweather) | 447 | 460 | 97.2 | Spanish <traductores@es.gnome.org> | 
+ | [mate-applets](/f21/package/mate-applets) | 1814 | 2283 | 79.5 | Spanish (Ecuador) (http://www.transifex.com/projects/p/MATE/language/es_EC/) | 
+ | [libmateweather](/f21/package/libmateweather) | 361 | 487 | 74.1 | Spanish (Ecuador) (http://www.transifex.com/projects/p/MATE/language/es_EC/) | 
+ | [openerp](/f21/package/openerp) | 30337 | 55898 | 54.3 | Spanish (Ecuador) <es_EC@li.org> | 
+ | [openerp7](/f21/package/openerp7) | 17290 | 48417 | 35.7 | Spanish (Ecuador) <es_EC@li.org> | 
+ | [openerp-client](/f21/package/openerp-client) | 2354 | 7729 | 30.5 | Spanish (Ecuador) <es_EC@li.org> | 
+ | [mate-desktop](/f21/package/mate-desktop) | 0 | 2288 | 0.0 | Spanish (Ecuador) (http://www.transifex.com/projects/p/MATE/language/es_EC/) | 
 {.sortable}
 
 

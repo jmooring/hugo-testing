@@ -18,26 +18,26 @@ The package lifeograph (version 0.11.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [gl]({{< ref "/f18/language/gl.md" >}}) | 856 | 856 | 100.0 | /mnt/stockage/packages/f18/lifeograph/po/gl.po | 
- | [tr]({{< ref "/f18/language/tr.md" >}}) | 856 | 856 | 100.0 | /mnt/stockage/packages/f18/lifeograph/po/tr.po | 
- | [es]({{< ref "/f18/language/es.md" >}}) | 823 | 856 | 96.1 | /mnt/stockage/packages/f18/lifeograph/po/es.po | 
- | [sr]({{< ref "/f18/language/sr.md" >}}) | 813 | 856 | 95.0 | /mnt/stockage/packages/f18/lifeograph/po/sr.po | 
- | [ru]({{< ref "/f18/language/ru.md" >}}) | 757 | 856 | 88.4 | /mnt/stockage/packages/f18/lifeograph/po/ru.po | 
- | [cs]({{< ref "/f18/language/cs.md" >}}) | 730 | 856 | 85.3 | /mnt/stockage/packages/f18/lifeograph/po/cs.po | 
- | [it]({{< ref "/f18/language/it.md" >}}) | 613 | 856 | 71.6 | /mnt/stockage/packages/f18/lifeograph/po/it.po | 
- | [hu]({{< ref "/f18/language/hu.md" >}}) | 557 | 856 | 65.1 | /mnt/stockage/packages/f18/lifeograph/po/hu.po | 
- | [fr]({{< ref "/f18/language/fr.md" >}}) | 544 | 856 | 63.6 | /mnt/stockage/packages/f18/lifeograph/po/fr.po | 
- | [eu]({{< ref "/f18/language/eu.md" >}}) | 533 | 856 | 62.3 | /mnt/stockage/packages/f18/lifeograph/po/eu.po | 
- | [de]({{< ref "/f18/language/de.md" >}}) | 499 | 856 | 58.3 | /mnt/stockage/packages/f18/lifeograph/po/de.po | 
- | [pl]({{< ref "/f18/language/pl.md" >}}) | 463 | 856 | 54.1 | /mnt/stockage/packages/f18/lifeograph/po/pl.po | 
- | [nl]({{< ref "/f18/language/nl.md" >}}) | 431 | 856 | 50.4 | /mnt/stockage/packages/f18/lifeograph/po/nl.po | 
- | [uk]({{< ref "/f18/language/uk.md" >}}) | 390 | 856 | 45.6 | /mnt/stockage/packages/f18/lifeograph/po/uk.po | 
- | [ro]({{< ref "/f18/language/ro.md" >}}) | 371 | 856 | 43.3 | /mnt/stockage/packages/f18/lifeograph/po/ro.po | 
- | [sv]({{< ref "/f18/language/sv.md" >}}) | 362 | 856 | 42.3 | /mnt/stockage/packages/f18/lifeograph/po/sv.po | 
- | [pt_BR]({{< ref "/f18/language/pt_BR.md" >}}) | 346 | 856 | 40.4 | /mnt/stockage/packages/f18/lifeograph/po/pt_BR.po | 
- | [zh_Hans]({{< ref "/f18/language/zh_Hans.md" >}}) | 345 | 856 | 40.3 | /mnt/stockage/packages/f18/lifeograph/po/zh_CN.po | 
- | [he]({{< ref "/f18/language/he.md" >}}) | 309 | 856 | 36.1 | /mnt/stockage/packages/f18/lifeograph/po/he.po | 
- | [ar]({{< ref "/f18/language/ar.md" >}}) | 282 | 856 | 32.9 | /mnt/stockage/packages/f18/lifeograph/po/ar.po | 
+ | [gl](/f18/language/gl) | 856 | 856 | 100.0 | /mnt/stockage/packages/f18/lifeograph/po/gl.po | 
+ | [tr](/f18/language/tr) | 856 | 856 | 100.0 | /mnt/stockage/packages/f18/lifeograph/po/tr.po | 
+ | [es](/f18/language/es) | 823 | 856 | 96.1 | /mnt/stockage/packages/f18/lifeograph/po/es.po | 
+ | [sr](/f18/language/sr) | 813 | 856 | 95.0 | /mnt/stockage/packages/f18/lifeograph/po/sr.po | 
+ | [ru](/f18/language/ru) | 757 | 856 | 88.4 | /mnt/stockage/packages/f18/lifeograph/po/ru.po | 
+ | [cs](/f18/language/cs) | 730 | 856 | 85.3 | /mnt/stockage/packages/f18/lifeograph/po/cs.po | 
+ | [it](/f18/language/it) | 613 | 856 | 71.6 | /mnt/stockage/packages/f18/lifeograph/po/it.po | 
+ | [hu](/f18/language/hu) | 557 | 856 | 65.1 | /mnt/stockage/packages/f18/lifeograph/po/hu.po | 
+ | [fr](/f18/language/fr) | 544 | 856 | 63.6 | /mnt/stockage/packages/f18/lifeograph/po/fr.po | 
+ | [eu](/f18/language/eu) | 533 | 856 | 62.3 | /mnt/stockage/packages/f18/lifeograph/po/eu.po | 
+ | [de](/f18/language/de) | 499 | 856 | 58.3 | /mnt/stockage/packages/f18/lifeograph/po/de.po | 
+ | [pl](/f18/language/pl) | 463 | 856 | 54.1 | /mnt/stockage/packages/f18/lifeograph/po/pl.po | 
+ | [nl](/f18/language/nl) | 431 | 856 | 50.4 | /mnt/stockage/packages/f18/lifeograph/po/nl.po | 
+ | [uk](/f18/language/uk) | 390 | 856 | 45.6 | /mnt/stockage/packages/f18/lifeograph/po/uk.po | 
+ | [ro](/f18/language/ro) | 371 | 856 | 43.3 | /mnt/stockage/packages/f18/lifeograph/po/ro.po | 
+ | [sv](/f18/language/sv) | 362 | 856 | 42.3 | /mnt/stockage/packages/f18/lifeograph/po/sv.po | 
+ | [pt_BR](/f18/language/pt_BR) | 346 | 856 | 40.4 | /mnt/stockage/packages/f18/lifeograph/po/pt_BR.po | 
+ | [zh_Hans](/f18/language/zh_Hans) | 345 | 856 | 40.3 | /mnt/stockage/packages/f18/lifeograph/po/zh_CN.po | 
+ | [he](/f18/language/he) | 309 | 856 | 36.1 | /mnt/stockage/packages/f18/lifeograph/po/he.po | 
+ | [ar](/f18/language/ar) | 282 | 856 | 32.9 | /mnt/stockage/packages/f18/lifeograph/po/ar.po | 
 {.sortable}
 
 

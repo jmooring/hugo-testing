@@ -18,13 +18,13 @@ The package partclone (version 0.3.40):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ru]({{< ref "/f42/language/ru.md" >}}) | 220 | 265 | 83.0 | /mnt/stockage/packages/f42/partclone/po/ru.po | 
- | [de]({{< ref "/f42/language/de.md" >}}) | 206 | 265 | 77.7 | /mnt/stockage/packages/f42/partclone/po/de.po | 
- | [fr]({{< ref "/f42/language/fr.md" >}}) | 206 | 265 | 77.7 | /mnt/stockage/packages/f42/partclone/po/fr_FR.po | 
- | [pt_BR]({{< ref "/f42/language/pt_BR.md" >}}) | 197 | 265 | 74.3 | /mnt/stockage/packages/f42/partclone/po/pt_BR.po | 
- | [vi]({{< ref "/f42/language/vi.md" >}}) | 186 | 265 | 70.2 | /mnt/stockage/packages/f42/partclone/po/vi.po | 
- | [zh_Hans]({{< ref "/f42/language/zh_Hans.md" >}}) | 151 | 265 | 57.0 | /mnt/stockage/packages/f42/partclone/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f42/language/zh_Hant.md" >}}) | 123 | 265 | 46.4 | /mnt/stockage/packages/f42/partclone/po/zh_TW.po | 
+ | [ru](/f42/language/ru) | 220 | 265 | 83.0 | /mnt/stockage/packages/f42/partclone/po/ru.po | 
+ | [de](/f42/language/de) | 206 | 265 | 77.7 | /mnt/stockage/packages/f42/partclone/po/de.po | 
+ | [fr](/f42/language/fr) | 206 | 265 | 77.7 | /mnt/stockage/packages/f42/partclone/po/fr_FR.po | 
+ | [pt_BR](/f42/language/pt_BR) | 197 | 265 | 74.3 | /mnt/stockage/packages/f42/partclone/po/pt_BR.po | 
+ | [vi](/f42/language/vi) | 186 | 265 | 70.2 | /mnt/stockage/packages/f42/partclone/po/vi.po | 
+ | [zh_Hans](/f42/language/zh_Hans) | 151 | 265 | 57.0 | /mnt/stockage/packages/f42/partclone/po/zh_CN.po | 
+ | [zh_Hant](/f42/language/zh_Hant) | 123 | 265 | 46.4 | /mnt/stockage/packages/f42/partclone/po/zh_TW.po | 
 {.sortable}
 
 

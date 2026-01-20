@@ -18,13 +18,13 @@ The package chromium-bsu (version 0.9.15):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [bg]({{< ref "/f15/language/bg.md" >}}) | 1034 | 1034 | 100.0 | /mnt/stockage/packages/f15/chromium-bsu/po/bg.po | 
- | [de]({{< ref "/f15/language/de.md" >}}) | 1034 | 1034 | 100.0 | /mnt/stockage/packages/f15/chromium-bsu/po/de.po | 
- | [es]({{< ref "/f15/language/es.md" >}}) | 1034 | 1034 | 100.0 | /mnt/stockage/packages/f15/chromium-bsu/po/es.po | 
- | [zh_Hant]({{< ref "/f15/language/zh_Hant.md" >}}) | 1020 | 1034 | 98.6 | /mnt/stockage/packages/f15/chromium-bsu/po/zh_TW.po | 
- | [fr]({{< ref "/f15/language/fr.md" >}}) | 1015 | 1034 | 98.2 | /mnt/stockage/packages/f15/chromium-bsu/po/fr.po | 
- | [it]({{< ref "/f15/language/it.md" >}}) | 966 | 1034 | 93.4 | /mnt/stockage/packages/f15/chromium-bsu/po/it.po | 
- | [sv]({{< ref "/f15/language/sv.md" >}}) | 919 | 1034 | 88.9 | /mnt/stockage/packages/f15/chromium-bsu/po/sv.po | 
+ | [bg](/f15/language/bg) | 1034 | 1034 | 100.0 | /mnt/stockage/packages/f15/chromium-bsu/po/bg.po | 
+ | [de](/f15/language/de) | 1034 | 1034 | 100.0 | /mnt/stockage/packages/f15/chromium-bsu/po/de.po | 
+ | [es](/f15/language/es) | 1034 | 1034 | 100.0 | /mnt/stockage/packages/f15/chromium-bsu/po/es.po | 
+ | [zh_Hant](/f15/language/zh_Hant) | 1020 | 1034 | 98.6 | /mnt/stockage/packages/f15/chromium-bsu/po/zh_TW.po | 
+ | [fr](/f15/language/fr) | 1015 | 1034 | 98.2 | /mnt/stockage/packages/f15/chromium-bsu/po/fr.po | 
+ | [it](/f15/language/it) | 966 | 1034 | 93.4 | /mnt/stockage/packages/f15/chromium-bsu/po/it.po | 
+ | [sv](/f15/language/sv) | 919 | 1034 | 88.9 | /mnt/stockage/packages/f15/chromium-bsu/po/sv.po | 
 {.sortable}
 
 

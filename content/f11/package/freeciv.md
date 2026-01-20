@@ -18,36 +18,36 @@ The package freeciv (version 2.2.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f11/language/ca.md" >}}) | 52514 | 52514 | 100.0 | /mnt/stockage/packages/f11/freeciv/po/ca.po | 
- | [es]({{< ref "/f11/language/es.md" >}}) | 52514 | 52514 | 100.0 | /mnt/stockage/packages/f11/freeciv/po/es.po | 
- | [fr]({{< ref "/f11/language/fr.md" >}}) | 48905 | 52514 | 93.1 | /mnt/stockage/packages/f11/freeciv/po/fr.po | 
- | [da]({{< ref "/f11/language/da.md" >}}) | 45456 | 52514 | 86.6 | /mnt/stockage/packages/f11/freeciv/po/da.po | 
- | [fi]({{< ref "/f11/language/fi.md" >}}) | 31665 | 52514 | 60.3 | /mnt/stockage/packages/f11/freeciv/po/fi.po | 
- | [sv]({{< ref "/f11/language/sv.md" >}}) | 28035 | 52514 | 53.4 | /mnt/stockage/packages/f11/freeciv/po/sv.po | 
- | [de]({{< ref "/f11/language/de.md" >}}) | 27920 | 52514 | 53.2 | /mnt/stockage/packages/f11/freeciv/po/de.po | 
- | [uk]({{< ref "/f11/language/uk.md" >}}) | 24013 | 52514 | 45.7 | /mnt/stockage/packages/f11/freeciv/po/uk.po | 
- | [et]({{< ref "/f11/language/et.md" >}}) | 23290 | 52514 | 44.4 | /mnt/stockage/packages/f11/freeciv/po/et.po | 
- | [ja]({{< ref "/f11/language/ja.md" >}}) | 22327 | 52514 | 42.5 | /mnt/stockage/packages/f11/freeciv/po/ja.po | 
- | [nl]({{< ref "/f11/language/nl.md" >}}) | 21730 | 52514 | 41.4 | /mnt/stockage/packages/f11/freeciv/po/nl.po | 
- | [ru]({{< ref "/f11/language/ru.md" >}}) | 21723 | 52514 | 41.4 | /mnt/stockage/packages/f11/freeciv/po/ru.po | 
- | [tr]({{< ref "/f11/language/tr.md" >}}) | 20764 | 52514 | 39.5 | /mnt/stockage/packages/f11/freeciv/po/tr.po | 
- | [cs]({{< ref "/f11/language/cs.md" >}}) | 19002 | 52514 | 36.2 | /mnt/stockage/packages/f11/freeciv/po/cs.po | 
- | [pl]({{< ref "/f11/language/pl.md" >}}) | 18984 | 52514 | 36.2 | /mnt/stockage/packages/f11/freeciv/po/pl.po | 
- | [nb_NO]({{< ref "/f11/language/nb_NO.md" >}}) | 35864 | 105028 | 34.1 | /mnt/stockage/packages/f11/freeciv/po/no.po/mnt/stockage/packages/f11/freeciv/po/nb.po | 
- | [zh_Hans]({{< ref "/f11/language/zh_Hans.md" >}}) | 17757 | 52514 | 33.8 | /mnt/stockage/packages/f11/freeciv/po/zh_CN.po | 
- | [ro]({{< ref "/f11/language/ro.md" >}}) | 16080 | 52514 | 30.6 | /mnt/stockage/packages/f11/freeciv/po/ro.po | 
- | [it]({{< ref "/f11/language/it.md" >}}) | 15100 | 52514 | 28.8 | /mnt/stockage/packages/f11/freeciv/po/it.po | 
- | [el]({{< ref "/f11/language/el.md" >}}) | 13779 | 52514 | 26.2 | /mnt/stockage/packages/f11/freeciv/po/el.po | 
- | [lt]({{< ref "/f11/language/lt.md" >}}) | 12987 | 52514 | 24.7 | /mnt/stockage/packages/f11/freeciv/po/lt.po | 
- | [eo]({{< ref "/f11/language/eo.md" >}}) | 12776 | 52514 | 24.3 | /mnt/stockage/packages/f11/freeciv/po/eo.po | 
- | [ar]({{< ref "/f11/language/ar.md" >}}) | 11039 | 52514 | 21.0 | /mnt/stockage/packages/f11/freeciv/po/ar.po | 
- | [hu]({{< ref "/f11/language/hu.md" >}}) | 10906 | 52514 | 20.8 | /mnt/stockage/packages/f11/freeciv/po/hu.po | 
- | [pt]({{< ref "/f11/language/pt.md" >}}) | 10815 | 52514 | 20.6 | /mnt/stockage/packages/f11/freeciv/po/pt.po | 
- | [pt_BR]({{< ref "/f11/language/pt_BR.md" >}}) | 6978 | 52514 | 13.3 | /mnt/stockage/packages/f11/freeciv/po/pt_BR.po | 
- | [ko]({{< ref "/f11/language/ko.md" >}}) | 6197 | 52514 | 11.8 | /mnt/stockage/packages/f11/freeciv/po/ko.po | 
- | [fa]({{< ref "/f11/language/fa.md" >}}) | 5125 | 52514 | 9.8 | /mnt/stockage/packages/f11/freeciv/po/fa.po | 
- | [he]({{< ref "/f11/language/he.md" >}}) | 5115 | 52514 | 9.7 | /mnt/stockage/packages/f11/freeciv/po/he.po | 
- | [en_GB]({{< ref "/f11/language/en_GB.md" >}}) | 748 | 52514 | 1.4 | /mnt/stockage/packages/f11/freeciv/po/en_GB.po | 
+ | [ca](/f11/language/ca) | 52514 | 52514 | 100.0 | /mnt/stockage/packages/f11/freeciv/po/ca.po | 
+ | [es](/f11/language/es) | 52514 | 52514 | 100.0 | /mnt/stockage/packages/f11/freeciv/po/es.po | 
+ | [fr](/f11/language/fr) | 48905 | 52514 | 93.1 | /mnt/stockage/packages/f11/freeciv/po/fr.po | 
+ | [da](/f11/language/da) | 45456 | 52514 | 86.6 | /mnt/stockage/packages/f11/freeciv/po/da.po | 
+ | [fi](/f11/language/fi) | 31665 | 52514 | 60.3 | /mnt/stockage/packages/f11/freeciv/po/fi.po | 
+ | [sv](/f11/language/sv) | 28035 | 52514 | 53.4 | /mnt/stockage/packages/f11/freeciv/po/sv.po | 
+ | [de](/f11/language/de) | 27920 | 52514 | 53.2 | /mnt/stockage/packages/f11/freeciv/po/de.po | 
+ | [uk](/f11/language/uk) | 24013 | 52514 | 45.7 | /mnt/stockage/packages/f11/freeciv/po/uk.po | 
+ | [et](/f11/language/et) | 23290 | 52514 | 44.4 | /mnt/stockage/packages/f11/freeciv/po/et.po | 
+ | [ja](/f11/language/ja) | 22327 | 52514 | 42.5 | /mnt/stockage/packages/f11/freeciv/po/ja.po | 
+ | [nl](/f11/language/nl) | 21730 | 52514 | 41.4 | /mnt/stockage/packages/f11/freeciv/po/nl.po | 
+ | [ru](/f11/language/ru) | 21723 | 52514 | 41.4 | /mnt/stockage/packages/f11/freeciv/po/ru.po | 
+ | [tr](/f11/language/tr) | 20764 | 52514 | 39.5 | /mnt/stockage/packages/f11/freeciv/po/tr.po | 
+ | [cs](/f11/language/cs) | 19002 | 52514 | 36.2 | /mnt/stockage/packages/f11/freeciv/po/cs.po | 
+ | [pl](/f11/language/pl) | 18984 | 52514 | 36.2 | /mnt/stockage/packages/f11/freeciv/po/pl.po | 
+ | [nb_NO](/f11/language/nb_NO) | 35864 | 105028 | 34.1 | /mnt/stockage/packages/f11/freeciv/po/no.po/mnt/stockage/packages/f11/freeciv/po/nb.po | 
+ | [zh_Hans](/f11/language/zh_Hans) | 17757 | 52514 | 33.8 | /mnt/stockage/packages/f11/freeciv/po/zh_CN.po | 
+ | [ro](/f11/language/ro) | 16080 | 52514 | 30.6 | /mnt/stockage/packages/f11/freeciv/po/ro.po | 
+ | [it](/f11/language/it) | 15100 | 52514 | 28.8 | /mnt/stockage/packages/f11/freeciv/po/it.po | 
+ | [el](/f11/language/el) | 13779 | 52514 | 26.2 | /mnt/stockage/packages/f11/freeciv/po/el.po | 
+ | [lt](/f11/language/lt) | 12987 | 52514 | 24.7 | /mnt/stockage/packages/f11/freeciv/po/lt.po | 
+ | [eo](/f11/language/eo) | 12776 | 52514 | 24.3 | /mnt/stockage/packages/f11/freeciv/po/eo.po | 
+ | [ar](/f11/language/ar) | 11039 | 52514 | 21.0 | /mnt/stockage/packages/f11/freeciv/po/ar.po | 
+ | [hu](/f11/language/hu) | 10906 | 52514 | 20.8 | /mnt/stockage/packages/f11/freeciv/po/hu.po | 
+ | [pt](/f11/language/pt) | 10815 | 52514 | 20.6 | /mnt/stockage/packages/f11/freeciv/po/pt.po | 
+ | [pt_BR](/f11/language/pt_BR) | 6978 | 52514 | 13.3 | /mnt/stockage/packages/f11/freeciv/po/pt_BR.po | 
+ | [ko](/f11/language/ko) | 6197 | 52514 | 11.8 | /mnt/stockage/packages/f11/freeciv/po/ko.po | 
+ | [fa](/f11/language/fa) | 5125 | 52514 | 9.8 | /mnt/stockage/packages/f11/freeciv/po/fa.po | 
+ | [he](/f11/language/he) | 5115 | 52514 | 9.7 | /mnt/stockage/packages/f11/freeciv/po/he.po | 
+ | [en_GB](/f11/language/en_GB) | 748 | 52514 | 1.4 | /mnt/stockage/packages/f11/freeciv/po/en_GB.po | 
 {.sortable}
 
 

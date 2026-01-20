@@ -18,26 +18,26 @@ The package gnome-break-timer (version 2.0.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [sv]({{< ref "/f37/language/sv.md" >}}) | 475 | 596 | 79.7 | /mnt/stockage/packages/f37/gnome-break-timer/po/sv.po | 
- | [bs]({{< ref "/f37/language/bs.md" >}}) | 461 | 596 | 77.3 | /mnt/stockage/packages/f37/gnome-break-timer/po/bs.po | 
- | [cs]({{< ref "/f37/language/cs.md" >}}) | 461 | 596 | 77.3 | /mnt/stockage/packages/f37/gnome-break-timer/po/cs.po | 
- | [da]({{< ref "/f37/language/da.md" >}}) | 461 | 596 | 77.3 | /mnt/stockage/packages/f37/gnome-break-timer/po/da.po | 
- | [de]({{< ref "/f37/language/de.md" >}}) | 461 | 596 | 77.3 | /mnt/stockage/packages/f37/gnome-break-timer/po/de.po | 
- | [el]({{< ref "/f37/language/el.md" >}}) | 461 | 596 | 77.3 | /mnt/stockage/packages/f37/gnome-break-timer/po/el.po | 
- | [es]({{< ref "/f37/language/es.md" >}}) | 461 | 596 | 77.3 | /mnt/stockage/packages/f37/gnome-break-timer/po/es.po | 
- | [fr]({{< ref "/f37/language/fr.md" >}}) | 461 | 596 | 77.3 | /mnt/stockage/packages/f37/gnome-break-timer/po/fr.po | 
- | [hu]({{< ref "/f37/language/hu.md" >}}) | 461 | 596 | 77.3 | /mnt/stockage/packages/f37/gnome-break-timer/po/hu.po | 
- | [id]({{< ref "/f37/language/id.md" >}}) | 461 | 596 | 77.3 | /mnt/stockage/packages/f37/gnome-break-timer/po/id.po | 
- | [lt]({{< ref "/f37/language/lt.md" >}}) | 461 | 596 | 77.3 | /mnt/stockage/packages/f37/gnome-break-timer/po/lt.po | 
- | [oc]({{< ref "/f37/language/oc.md" >}}) | 461 | 596 | 77.3 | /mnt/stockage/packages/f37/gnome-break-timer/po/oc.po | 
- | [pl]({{< ref "/f37/language/pl.md" >}}) | 461 | 596 | 77.3 | /mnt/stockage/packages/f37/gnome-break-timer/po/pl.po | 
- | [pt]({{< ref "/f37/language/pt.md" >}}) | 461 | 596 | 77.3 | /mnt/stockage/packages/f37/gnome-break-timer/po/pt.po | 
- | [pt_BR]({{< ref "/f37/language/pt_BR.md" >}}) | 461 | 596 | 77.3 | /mnt/stockage/packages/f37/gnome-break-timer/po/pt_BR.po | 
- | [sl]({{< ref "/f37/language/sl.md" >}}) | 461 | 596 | 77.3 | /mnt/stockage/packages/f37/gnome-break-timer/po/sl.po | 
- | [sr]({{< ref "/f37/language/sr.md" >}}) | 922 | 1192 | 77.3 | /mnt/stockage/packages/f37/gnome-break-timer/po/sr@latin.po/mnt/stockage/packages/f37/gnome-break-timer/po/sr.po | 
- | [tr]({{< ref "/f37/language/tr.md" >}}) | 461 | 596 | 77.3 | /mnt/stockage/packages/f37/gnome-break-timer/po/tr.po | 
- | [zh_Hans]({{< ref "/f37/language/zh_Hans.md" >}}) | 461 | 596 | 77.3 | /mnt/stockage/packages/f37/gnome-break-timer/po/zh_CN.po | 
- | [gl]({{< ref "/f37/language/gl.md" >}}) | 390 | 596 | 65.4 | /mnt/stockage/packages/f37/gnome-break-timer/po/gl.po | 
+ | [sv](/f37/language/sv) | 475 | 596 | 79.7 | /mnt/stockage/packages/f37/gnome-break-timer/po/sv.po | 
+ | [bs](/f37/language/bs) | 461 | 596 | 77.3 | /mnt/stockage/packages/f37/gnome-break-timer/po/bs.po | 
+ | [cs](/f37/language/cs) | 461 | 596 | 77.3 | /mnt/stockage/packages/f37/gnome-break-timer/po/cs.po | 
+ | [da](/f37/language/da) | 461 | 596 | 77.3 | /mnt/stockage/packages/f37/gnome-break-timer/po/da.po | 
+ | [de](/f37/language/de) | 461 | 596 | 77.3 | /mnt/stockage/packages/f37/gnome-break-timer/po/de.po | 
+ | [el](/f37/language/el) | 461 | 596 | 77.3 | /mnt/stockage/packages/f37/gnome-break-timer/po/el.po | 
+ | [es](/f37/language/es) | 461 | 596 | 77.3 | /mnt/stockage/packages/f37/gnome-break-timer/po/es.po | 
+ | [fr](/f37/language/fr) | 461 | 596 | 77.3 | /mnt/stockage/packages/f37/gnome-break-timer/po/fr.po | 
+ | [hu](/f37/language/hu) | 461 | 596 | 77.3 | /mnt/stockage/packages/f37/gnome-break-timer/po/hu.po | 
+ | [id](/f37/language/id) | 461 | 596 | 77.3 | /mnt/stockage/packages/f37/gnome-break-timer/po/id.po | 
+ | [lt](/f37/language/lt) | 461 | 596 | 77.3 | /mnt/stockage/packages/f37/gnome-break-timer/po/lt.po | 
+ | [oc](/f37/language/oc) | 461 | 596 | 77.3 | /mnt/stockage/packages/f37/gnome-break-timer/po/oc.po | 
+ | [pl](/f37/language/pl) | 461 | 596 | 77.3 | /mnt/stockage/packages/f37/gnome-break-timer/po/pl.po | 
+ | [pt](/f37/language/pt) | 461 | 596 | 77.3 | /mnt/stockage/packages/f37/gnome-break-timer/po/pt.po | 
+ | [pt_BR](/f37/language/pt_BR) | 461 | 596 | 77.3 | /mnt/stockage/packages/f37/gnome-break-timer/po/pt_BR.po | 
+ | [sl](/f37/language/sl) | 461 | 596 | 77.3 | /mnt/stockage/packages/f37/gnome-break-timer/po/sl.po | 
+ | [sr](/f37/language/sr) | 922 | 1192 | 77.3 | /mnt/stockage/packages/f37/gnome-break-timer/po/sr@latin.po/mnt/stockage/packages/f37/gnome-break-timer/po/sr.po | 
+ | [tr](/f37/language/tr) | 461 | 596 | 77.3 | /mnt/stockage/packages/f37/gnome-break-timer/po/tr.po | 
+ | [zh_Hans](/f37/language/zh_Hans) | 461 | 596 | 77.3 | /mnt/stockage/packages/f37/gnome-break-timer/po/zh_CN.po | 
+ | [gl](/f37/language/gl) | 390 | 596 | 65.4 | /mnt/stockage/packages/f37/gnome-break-timer/po/gl.po | 
 {.sortable}
 
 

@@ -38,8 +38,8 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [wine-docs]({{< ref "/f29/package/wine-docs.md" >}}) | 182 | 1206 | 15.1 | AF | 
- | [libreoffice]({{< ref "/f29/package/libreoffice.md" >}}) | 0 | 0 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [wine-docs](/f29/package/wine-docs) | 182 | 1206 | 15.1 | AF | 
+ | [libreoffice](/f29/package/libreoffice) | 0 | 0 | 0.0 | LANGUAGE <LL@li.org> | 
 {.sortable}
 
 

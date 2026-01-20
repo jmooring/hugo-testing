@@ -18,8 +18,8 @@ The package xblast (version 2.10.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f32/language/fr.md" >}}) | 568 | 947 | 60.0 | /mnt/stockage/packages/f32/xblast/po/fr.po | 
- | [de]({{< ref "/f32/language/de.md" >}}) | 399 | 947 | 42.1 | /mnt/stockage/packages/f32/xblast/po/de.po | 
+ | [fr](/f32/language/fr) | 568 | 947 | 60.0 | /mnt/stockage/packages/f32/xblast/po/fr.po | 
+ | [de](/f32/language/de) | 399 | 947 | 42.1 | /mnt/stockage/packages/f32/xblast/po/de.po | 
 {.sortable}
 
 

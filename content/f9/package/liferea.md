@@ -18,21 +18,21 @@ The package liferea (version 1.4.13):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [be_Latn]({{< ref "/f9/language/be_Latn.md" >}}) | 2494 | 2494 | 100.0 | /mnt/stockage/packages/f9/liferea/po/be@latin.po | 
- | [de]({{< ref "/f9/language/de.md" >}}) | 2492 | 2492 | 100.0 | /mnt/stockage/packages/f9/liferea/po/de.po | 
- | [fr]({{< ref "/f9/language/fr.md" >}}) | 2494 | 2494 | 100.0 | /mnt/stockage/packages/f9/liferea/po/fr.po | 
- | [ja]({{< ref "/f9/language/ja.md" >}}) | 2494 | 2494 | 100.0 | /mnt/stockage/packages/f9/liferea/po/ja.po | 
- | [pt]({{< ref "/f9/language/pt.md" >}}) | 2491 | 2491 | 100.0 | /mnt/stockage/packages/f9/liferea/po/pt.po | 
- | [pt_BR]({{< ref "/f9/language/pt_BR.md" >}}) | 2492 | 2492 | 100.0 | /mnt/stockage/packages/f9/liferea/po/pt_BR.po | 
- | [tr]({{< ref "/f9/language/tr.md" >}}) | 2699 | 2699 | 100.0 | /mnt/stockage/packages/f9/liferea/po/tr.po | 
- | [sv]({{< ref "/f9/language/sv.md" >}}) | 2454 | 2492 | 98.5 | /mnt/stockage/packages/f9/liferea/po/sv.po | 
- | [ar]({{< ref "/f9/language/ar.md" >}}) | 2451 | 2492 | 98.4 | /mnt/stockage/packages/f9/liferea/po/ar.po | 
- | [es]({{< ref "/f9/language/es.md" >}}) | 2450 | 2492 | 98.3 | /mnt/stockage/packages/f9/liferea/po/es.po | 
- | [it]({{< ref "/f9/language/it.md" >}}) | 2306 | 2474 | 93.2 | /mnt/stockage/packages/f9/liferea/po/it.po | 
- | [eu]({{< ref "/f9/language/eu.md" >}}) | 2128 | 2492 | 85.4 | /mnt/stockage/packages/f9/liferea/po/eu.po | 
- | [ca]({{< ref "/f9/language/ca.md" >}}) | 2078 | 2492 | 83.4 | /mnt/stockage/packages/f9/liferea/po/ca.po | 
- | [ru]({{< ref "/f9/language/ru.md" >}}) | 1417 | 2492 | 56.9 | /mnt/stockage/packages/f9/liferea/po/ru.po | 
- | [pl]({{< ref "/f9/language/pl.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f9/liferea/po/pl.po | 
+ | [be_Latn](/f9/language/be_Latn) | 2494 | 2494 | 100.0 | /mnt/stockage/packages/f9/liferea/po/be@latin.po | 
+ | [de](/f9/language/de) | 2492 | 2492 | 100.0 | /mnt/stockage/packages/f9/liferea/po/de.po | 
+ | [fr](/f9/language/fr) | 2494 | 2494 | 100.0 | /mnt/stockage/packages/f9/liferea/po/fr.po | 
+ | [ja](/f9/language/ja) | 2494 | 2494 | 100.0 | /mnt/stockage/packages/f9/liferea/po/ja.po | 
+ | [pt](/f9/language/pt) | 2491 | 2491 | 100.0 | /mnt/stockage/packages/f9/liferea/po/pt.po | 
+ | [pt_BR](/f9/language/pt_BR) | 2492 | 2492 | 100.0 | /mnt/stockage/packages/f9/liferea/po/pt_BR.po | 
+ | [tr](/f9/language/tr) | 2699 | 2699 | 100.0 | /mnt/stockage/packages/f9/liferea/po/tr.po | 
+ | [sv](/f9/language/sv) | 2454 | 2492 | 98.5 | /mnt/stockage/packages/f9/liferea/po/sv.po | 
+ | [ar](/f9/language/ar) | 2451 | 2492 | 98.4 | /mnt/stockage/packages/f9/liferea/po/ar.po | 
+ | [es](/f9/language/es) | 2450 | 2492 | 98.3 | /mnt/stockage/packages/f9/liferea/po/es.po | 
+ | [it](/f9/language/it) | 2306 | 2474 | 93.2 | /mnt/stockage/packages/f9/liferea/po/it.po | 
+ | [eu](/f9/language/eu) | 2128 | 2492 | 85.4 | /mnt/stockage/packages/f9/liferea/po/eu.po | 
+ | [ca](/f9/language/ca) | 2078 | 2492 | 83.4 | /mnt/stockage/packages/f9/liferea/po/ca.po | 
+ | [ru](/f9/language/ru) | 1417 | 2492 | 56.9 | /mnt/stockage/packages/f9/liferea/po/ru.po | 
+ | [pl](/f9/language/pl) | 0 | 0 | 0.0 | /mnt/stockage/packages/f9/liferea/po/pl.po | 
 {.sortable}
 
 

@@ -18,29 +18,29 @@ The package virt-v2v (version 2.8.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [uk]({{< ref "/f42/language/uk.md" >}}) | 14645 | 22717 | 64.5 | /mnt/stockage/packages/f42/virt-v2v/po/uk.po/mnt/stockage/packages/f42/virt-v2v/po-docs/uk.po | 
- | [ka]({{< ref "/f42/language/ka.md" >}}) | 171 | 436 | 39.2 | /mnt/stockage/packages/f42/virt-v2v/po/ka.po | 
- | [pl]({{< ref "/f42/language/pl.md" >}}) | 40 | 436 | 9.2 | /mnt/stockage/packages/f42/virt-v2v/po/pl.po | 
- | [mr]({{< ref "/f42/language/mr.md" >}}) | 26 | 436 | 6.0 | /mnt/stockage/packages/f42/virt-v2v/po/mr.po | 
- | [pa]({{< ref "/f42/language/pa.md" >}}) | 26 | 436 | 6.0 | /mnt/stockage/packages/f42/virt-v2v/po/pa.po | 
- | [gu]({{< ref "/f42/language/gu.md" >}}) | 22 | 436 | 5.0 | /mnt/stockage/packages/f42/virt-v2v/po/gu.po | 
- | [en_GB]({{< ref "/f42/language/en_GB.md" >}}) | 392 | 22281 | 1.8 | /mnt/stockage/packages/f42/virt-v2v/po-docs/en_GB.po | 
- | [fi]({{< ref "/f42/language/fi.md" >}}) | 376 | 22717 | 1.7 | /mnt/stockage/packages/f42/virt-v2v/po/fi.po/mnt/stockage/packages/f42/virt-v2v/po-docs/fi.po | 
- | [hi]({{< ref "/f42/language/hi.md" >}}) | 6 | 436 | 1.4 | /mnt/stockage/packages/f42/virt-v2v/po/hi.po | 
- | [kn]({{< ref "/f42/language/kn.md" >}}) | 6 | 436 | 1.4 | /mnt/stockage/packages/f42/virt-v2v/po/kn.po | 
- | [ml]({{< ref "/f42/language/ml.md" >}}) | 6 | 436 | 1.4 | /mnt/stockage/packages/f42/virt-v2v/po/ml.po | 
- | [or]({{< ref "/f42/language/or.md" >}}) | 6 | 436 | 1.4 | /mnt/stockage/packages/f42/virt-v2v/po/or.po | 
- | [de]({{< ref "/f42/language/de.md" >}}) | 225 | 22717 | 1.0 | /mnt/stockage/packages/f42/virt-v2v/po/de.po/mnt/stockage/packages/f42/virt-v2v/po-docs/de.po | 
- | [ja]({{< ref "/f42/language/ja.md" >}}) | 180 | 22717 | 0.8 | /mnt/stockage/packages/f42/virt-v2v/po/ja.po/mnt/stockage/packages/f42/virt-v2v/po-docs/ja.po | 
- | [cs]({{< ref "/f42/language/cs.md" >}}) | 86 | 22717 | 0.4 | /mnt/stockage/packages/f42/virt-v2v/po/cs.po/mnt/stockage/packages/f42/virt-v2v/po-docs/cs.po | 
- | [fr]({{< ref "/f42/language/fr.md" >}}) | 84 | 22717 | 0.4 | /mnt/stockage/packages/f42/virt-v2v/po/fr.po/mnt/stockage/packages/f42/virt-v2v/po-docs/fr.po | 
- | [es]({{< ref "/f42/language/es.md" >}}) | 56 | 22717 | 0.2 | /mnt/stockage/packages/f42/virt-v2v/po/es.po/mnt/stockage/packages/f42/virt-v2v/po-docs/es.po | 
- | [nl]({{< ref "/f42/language/nl.md" >}}) | 39 | 22717 | 0.2 | /mnt/stockage/packages/f42/virt-v2v/po/nl.po/mnt/stockage/packages/f42/virt-v2v/po-docs/nl.po | 
- | [pt_BR]({{< ref "/f42/language/pt_BR.md" >}}) | 20 | 22281 | 0.1 | /mnt/stockage/packages/f42/virt-v2v/po-docs/pt_BR.po | 
- | [tg]({{< ref "/f42/language/tg.md" >}}) | 18 | 22281 | 0.1 | /mnt/stockage/packages/f42/virt-v2v/po-docs/tg.po | 
- | [eu]({{< ref "/f42/language/eu.md" >}}) | 10 | 22281 | 0.0 | /mnt/stockage/packages/f42/virt-v2v/po-docs/eu.po | 
- | [zh_Hans]({{< ref "/f42/language/zh_Hans.md" >}}) | 3 | 22281 | 0.0 | /mnt/stockage/packages/f42/virt-v2v/po-docs/zh_CN.po | 
- | [si]({{< ref "/f42/language/si.md" >}}) | 1 | 22717 | 0.0 | /mnt/stockage/packages/f42/virt-v2v/po/si.po/mnt/stockage/packages/f42/virt-v2v/po-docs/si.po | 
+ | [uk](/f42/language/uk) | 14645 | 22717 | 64.5 | /mnt/stockage/packages/f42/virt-v2v/po/uk.po/mnt/stockage/packages/f42/virt-v2v/po-docs/uk.po | 
+ | [ka](/f42/language/ka) | 171 | 436 | 39.2 | /mnt/stockage/packages/f42/virt-v2v/po/ka.po | 
+ | [pl](/f42/language/pl) | 40 | 436 | 9.2 | /mnt/stockage/packages/f42/virt-v2v/po/pl.po | 
+ | [mr](/f42/language/mr) | 26 | 436 | 6.0 | /mnt/stockage/packages/f42/virt-v2v/po/mr.po | 
+ | [pa](/f42/language/pa) | 26 | 436 | 6.0 | /mnt/stockage/packages/f42/virt-v2v/po/pa.po | 
+ | [gu](/f42/language/gu) | 22 | 436 | 5.0 | /mnt/stockage/packages/f42/virt-v2v/po/gu.po | 
+ | [en_GB](/f42/language/en_GB) | 392 | 22281 | 1.8 | /mnt/stockage/packages/f42/virt-v2v/po-docs/en_GB.po | 
+ | [fi](/f42/language/fi) | 376 | 22717 | 1.7 | /mnt/stockage/packages/f42/virt-v2v/po/fi.po/mnt/stockage/packages/f42/virt-v2v/po-docs/fi.po | 
+ | [hi](/f42/language/hi) | 6 | 436 | 1.4 | /mnt/stockage/packages/f42/virt-v2v/po/hi.po | 
+ | [kn](/f42/language/kn) | 6 | 436 | 1.4 | /mnt/stockage/packages/f42/virt-v2v/po/kn.po | 
+ | [ml](/f42/language/ml) | 6 | 436 | 1.4 | /mnt/stockage/packages/f42/virt-v2v/po/ml.po | 
+ | [or](/f42/language/or) | 6 | 436 | 1.4 | /mnt/stockage/packages/f42/virt-v2v/po/or.po | 
+ | [de](/f42/language/de) | 225 | 22717 | 1.0 | /mnt/stockage/packages/f42/virt-v2v/po/de.po/mnt/stockage/packages/f42/virt-v2v/po-docs/de.po | 
+ | [ja](/f42/language/ja) | 180 | 22717 | 0.8 | /mnt/stockage/packages/f42/virt-v2v/po/ja.po/mnt/stockage/packages/f42/virt-v2v/po-docs/ja.po | 
+ | [cs](/f42/language/cs) | 86 | 22717 | 0.4 | /mnt/stockage/packages/f42/virt-v2v/po/cs.po/mnt/stockage/packages/f42/virt-v2v/po-docs/cs.po | 
+ | [fr](/f42/language/fr) | 84 | 22717 | 0.4 | /mnt/stockage/packages/f42/virt-v2v/po/fr.po/mnt/stockage/packages/f42/virt-v2v/po-docs/fr.po | 
+ | [es](/f42/language/es) | 56 | 22717 | 0.2 | /mnt/stockage/packages/f42/virt-v2v/po/es.po/mnt/stockage/packages/f42/virt-v2v/po-docs/es.po | 
+ | [nl](/f42/language/nl) | 39 | 22717 | 0.2 | /mnt/stockage/packages/f42/virt-v2v/po/nl.po/mnt/stockage/packages/f42/virt-v2v/po-docs/nl.po | 
+ | [pt_BR](/f42/language/pt_BR) | 20 | 22281 | 0.1 | /mnt/stockage/packages/f42/virt-v2v/po-docs/pt_BR.po | 
+ | [tg](/f42/language/tg) | 18 | 22281 | 0.1 | /mnt/stockage/packages/f42/virt-v2v/po-docs/tg.po | 
+ | [eu](/f42/language/eu) | 10 | 22281 | 0.0 | /mnt/stockage/packages/f42/virt-v2v/po-docs/eu.po | 
+ | [zh_Hans](/f42/language/zh_Hans) | 3 | 22281 | 0.0 | /mnt/stockage/packages/f42/virt-v2v/po-docs/zh_CN.po | 
+ | [si](/f42/language/si) | 1 | 22717 | 0.0 | /mnt/stockage/packages/f42/virt-v2v/po/si.po/mnt/stockage/packages/f42/virt-v2v/po-docs/si.po | 
 {.sortable}
 
 

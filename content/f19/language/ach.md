@@ -38,10 +38,10 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [pootle]({{< ref "/f19/package/pootle.md" >}}) | 2424 | 2424 | 100.0 | LANGUAGE <LL@li.org> | 
- | [virtaal]({{< ref "/f19/package/virtaal.md" >}}) | 1618 | 1653 | 97.9 | LANGUAGE <LL@li.org> | 
- | [abrt]({{< ref "/f19/package/abrt.md" >}}) | 0 | 2722 | 0.0 | Acoli (http://www.transifex.com/projects/p/fedora/language/ach/) | 
- | [owncloud]({{< ref "/f19/package/owncloud.md" >}}) | 0 | 7225 | 0.0 | Acoli (http://www.transifex.com/projects/p/owncloud/language/ach/) | 
+ | [pootle](/f19/package/pootle) | 2424 | 2424 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [virtaal](/f19/package/virtaal) | 1618 | 1653 | 97.9 | LANGUAGE <LL@li.org> | 
+ | [abrt](/f19/package/abrt) | 0 | 2722 | 0.0 | Acoli (http://www.transifex.com/projects/p/fedora/language/ach/) | 
+ | [owncloud](/f19/package/owncloud) | 0 | 7225 | 0.0 | Acoli (http://www.transifex.com/projects/p/owncloud/language/ach/) | 
 {.sortable}
 
 

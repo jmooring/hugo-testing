@@ -18,25 +18,25 @@ The package avr-gcc (version 4.6.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [es]({{< ref "/f15/language/es.md" >}}) | 66396 | 66396 | 100.0 | /mnt/stockage/packages/f15/avr-gcc/gcc/po/es.po/mnt/stockage/packages/f15/avr-gcc/libcpp/po/es.po | 
- | [sv]({{< ref "/f15/language/sv.md" >}}) | 66396 | 66396 | 100.0 | /mnt/stockage/packages/f15/avr-gcc/gcc/po/sv.po/mnt/stockage/packages/f15/avr-gcc/libcpp/po/sv.po | 
- | [uk]({{< ref "/f15/language/uk.md" >}}) | 1111 | 1268 | 87.6 | /mnt/stockage/packages/f15/avr-gcc/libcpp/po/uk.po | 
- | [zh_Hans]({{< ref "/f15/language/zh_Hans.md" >}}) | 58016 | 66396 | 87.4 | /mnt/stockage/packages/f15/avr-gcc/gcc/po/zh_CN.po/mnt/stockage/packages/f15/avr-gcc/libcpp/po/zh_CN.po | 
- | [ca]({{< ref "/f15/language/ca.md" >}}) | 1043 | 1268 | 82.3 | /mnt/stockage/packages/f15/avr-gcc/libcpp/po/ca.po | 
- | [de]({{< ref "/f15/language/de.md" >}}) | 53562 | 66401 | 80.7 | /mnt/stockage/packages/f15/avr-gcc/gcc/po/de.po/mnt/stockage/packages/f15/avr-gcc/libcpp/po/de.po/mnt/stockage/packages/f15/avr-gcc/libstdc++-v3/po/de.po | 
- | [id]({{< ref "/f15/language/id.md" >}}) | 45384 | 66396 | 68.4 | /mnt/stockage/packages/f15/avr-gcc/gcc/po/id.po/mnt/stockage/packages/f15/avr-gcc/libcpp/po/id.po | 
- | [sr]({{< ref "/f15/language/sr.md" >}}) | 32894 | 65128 | 50.5 | /mnt/stockage/packages/f15/avr-gcc/gcc/po/sr.po | 
- | [tr]({{< ref "/f15/language/tr.md" >}}) | 30124 | 66396 | 45.4 | /mnt/stockage/packages/f15/avr-gcc/gcc/po/tr.po/mnt/stockage/packages/f15/avr-gcc/libcpp/po/tr.po | 
- | [zh_Hant]({{< ref "/f15/language/zh_Hant.md" >}}) | 26733 | 66396 | 40.3 | /mnt/stockage/packages/f15/avr-gcc/gcc/po/zh_TW.po/mnt/stockage/packages/f15/avr-gcc/libcpp/po/zh_TW.po | 
- | [ja]({{< ref "/f15/language/ja.md" >}}) | 26283 | 66396 | 39.6 | /mnt/stockage/packages/f15/avr-gcc/gcc/po/ja.po/mnt/stockage/packages/f15/avr-gcc/libcpp/po/ja.po | 
- | [ru]({{< ref "/f15/language/ru.md" >}}) | 24108 | 66396 | 36.3 | /mnt/stockage/packages/f15/avr-gcc/gcc/po/ru.po/mnt/stockage/packages/f15/avr-gcc/libcpp/po/ru.po | 
- | [vi]({{< ref "/f15/language/vi.md" >}}) | 13599 | 66396 | 20.5 | /mnt/stockage/packages/f15/avr-gcc/gcc/po/vi.po/mnt/stockage/packages/f15/avr-gcc/libcpp/po/vi.po | 
- | [fr]({{< ref "/f15/language/fr.md" >}}) | 12195 | 66401 | 18.4 | /mnt/stockage/packages/f15/avr-gcc/gcc/po/fr.po/mnt/stockage/packages/f15/avr-gcc/libcpp/po/fr.po/mnt/stockage/packages/f15/avr-gcc/libstdc++-v3/po/fr.po | 
- | [da]({{< ref "/f15/language/da.md" >}}) | 8946 | 66396 | 13.5 | /mnt/stockage/packages/f15/avr-gcc/gcc/po/da.po/mnt/stockage/packages/f15/avr-gcc/libcpp/po/da.po | 
- | [fi]({{< ref "/f15/language/fi.md" >}}) | 8173 | 66396 | 12.3 | /mnt/stockage/packages/f15/avr-gcc/gcc/po/fi.po/mnt/stockage/packages/f15/avr-gcc/libcpp/po/fi.po | 
- | [nl]({{< ref "/f15/language/nl.md" >}}) | 5101 | 66396 | 7.7 | /mnt/stockage/packages/f15/avr-gcc/gcc/po/nl.po/mnt/stockage/packages/f15/avr-gcc/libcpp/po/nl.po | 
- | [be]({{< ref "/f15/language/be.md" >}}) | 427 | 66396 | 0.6 | /mnt/stockage/packages/f15/avr-gcc/gcc/po/be.po/mnt/stockage/packages/f15/avr-gcc/libcpp/po/be.po | 
- | [el]({{< ref "/f15/language/el.md" >}}) | 421 | 66396 | 0.6 | /mnt/stockage/packages/f15/avr-gcc/gcc/po/el.po/mnt/stockage/packages/f15/avr-gcc/libcpp/po/el.po | 
+ | [es](/f15/language/es) | 66396 | 66396 | 100.0 | /mnt/stockage/packages/f15/avr-gcc/gcc/po/es.po/mnt/stockage/packages/f15/avr-gcc/libcpp/po/es.po | 
+ | [sv](/f15/language/sv) | 66396 | 66396 | 100.0 | /mnt/stockage/packages/f15/avr-gcc/gcc/po/sv.po/mnt/stockage/packages/f15/avr-gcc/libcpp/po/sv.po | 
+ | [uk](/f15/language/uk) | 1111 | 1268 | 87.6 | /mnt/stockage/packages/f15/avr-gcc/libcpp/po/uk.po | 
+ | [zh_Hans](/f15/language/zh_Hans) | 58016 | 66396 | 87.4 | /mnt/stockage/packages/f15/avr-gcc/gcc/po/zh_CN.po/mnt/stockage/packages/f15/avr-gcc/libcpp/po/zh_CN.po | 
+ | [ca](/f15/language/ca) | 1043 | 1268 | 82.3 | /mnt/stockage/packages/f15/avr-gcc/libcpp/po/ca.po | 
+ | [de](/f15/language/de) | 53562 | 66401 | 80.7 | /mnt/stockage/packages/f15/avr-gcc/gcc/po/de.po/mnt/stockage/packages/f15/avr-gcc/libcpp/po/de.po/mnt/stockage/packages/f15/avr-gcc/libstdc++-v3/po/de.po | 
+ | [id](/f15/language/id) | 45384 | 66396 | 68.4 | /mnt/stockage/packages/f15/avr-gcc/gcc/po/id.po/mnt/stockage/packages/f15/avr-gcc/libcpp/po/id.po | 
+ | [sr](/f15/language/sr) | 32894 | 65128 | 50.5 | /mnt/stockage/packages/f15/avr-gcc/gcc/po/sr.po | 
+ | [tr](/f15/language/tr) | 30124 | 66396 | 45.4 | /mnt/stockage/packages/f15/avr-gcc/gcc/po/tr.po/mnt/stockage/packages/f15/avr-gcc/libcpp/po/tr.po | 
+ | [zh_Hant](/f15/language/zh_Hant) | 26733 | 66396 | 40.3 | /mnt/stockage/packages/f15/avr-gcc/gcc/po/zh_TW.po/mnt/stockage/packages/f15/avr-gcc/libcpp/po/zh_TW.po | 
+ | [ja](/f15/language/ja) | 26283 | 66396 | 39.6 | /mnt/stockage/packages/f15/avr-gcc/gcc/po/ja.po/mnt/stockage/packages/f15/avr-gcc/libcpp/po/ja.po | 
+ | [ru](/f15/language/ru) | 24108 | 66396 | 36.3 | /mnt/stockage/packages/f15/avr-gcc/gcc/po/ru.po/mnt/stockage/packages/f15/avr-gcc/libcpp/po/ru.po | 
+ | [vi](/f15/language/vi) | 13599 | 66396 | 20.5 | /mnt/stockage/packages/f15/avr-gcc/gcc/po/vi.po/mnt/stockage/packages/f15/avr-gcc/libcpp/po/vi.po | 
+ | [fr](/f15/language/fr) | 12195 | 66401 | 18.4 | /mnt/stockage/packages/f15/avr-gcc/gcc/po/fr.po/mnt/stockage/packages/f15/avr-gcc/libcpp/po/fr.po/mnt/stockage/packages/f15/avr-gcc/libstdc++-v3/po/fr.po | 
+ | [da](/f15/language/da) | 8946 | 66396 | 13.5 | /mnt/stockage/packages/f15/avr-gcc/gcc/po/da.po/mnt/stockage/packages/f15/avr-gcc/libcpp/po/da.po | 
+ | [fi](/f15/language/fi) | 8173 | 66396 | 12.3 | /mnt/stockage/packages/f15/avr-gcc/gcc/po/fi.po/mnt/stockage/packages/f15/avr-gcc/libcpp/po/fi.po | 
+ | [nl](/f15/language/nl) | 5101 | 66396 | 7.7 | /mnt/stockage/packages/f15/avr-gcc/gcc/po/nl.po/mnt/stockage/packages/f15/avr-gcc/libcpp/po/nl.po | 
+ | [be](/f15/language/be) | 427 | 66396 | 0.6 | /mnt/stockage/packages/f15/avr-gcc/gcc/po/be.po/mnt/stockage/packages/f15/avr-gcc/libcpp/po/be.po | 
+ | [el](/f15/language/el) | 421 | 66396 | 0.6 | /mnt/stockage/packages/f15/avr-gcc/gcc/po/el.po/mnt/stockage/packages/f15/avr-gcc/libcpp/po/el.po | 
 {.sortable}
 
 

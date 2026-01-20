@@ -18,23 +18,23 @@ The package googsystray (version 1.3.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f24/language/fr.md" >}}) | 759 | 759 | 100.0 | /mnt/stockage/packages/f24/googsystray/googsystray/po/fr.po | 
- | [it]({{< ref "/f24/language/it.md" >}}) | 759 | 759 | 100.0 | /mnt/stockage/packages/f24/googsystray/googsystray/po/it.po | 
- | [nl]({{< ref "/f24/language/nl.md" >}}) | 759 | 759 | 100.0 | /mnt/stockage/packages/f24/googsystray/googsystray/po/nl.po | 
- | [zh_Hans]({{< ref "/f24/language/zh_Hans.md" >}}) | 759 | 759 | 100.0 | /mnt/stockage/packages/f24/googsystray/googsystray/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f24/language/zh_Hant.md" >}}) | 759 | 759 | 100.0 | /mnt/stockage/packages/f24/googsystray/googsystray/po/zh_TW.po | 
- | [ru]({{< ref "/f24/language/ru.md" >}}) | 756 | 759 | 99.6 | /mnt/stockage/packages/f24/googsystray/googsystray/po/ru.po | 
- | [hu]({{< ref "/f24/language/hu.md" >}}) | 751 | 759 | 98.9 | /mnt/stockage/packages/f24/googsystray/googsystray/po/hu.po | 
- | [de]({{< ref "/f24/language/de.md" >}}) | 750 | 759 | 98.8 | /mnt/stockage/packages/f24/googsystray/googsystray/po/de.po | 
- | [es]({{< ref "/f24/language/es.md" >}}) | 728 | 759 | 95.9 | /mnt/stockage/packages/f24/googsystray/googsystray/po/es.po | 
- | [ja]({{< ref "/f24/language/ja.md" >}}) | 503 | 759 | 66.3 | /mnt/stockage/packages/f24/googsystray/googsystray/po/ja.po | 
- | [fi]({{< ref "/f24/language/fi.md" >}}) | 0 | 759 | 0.0 | /mnt/stockage/packages/f24/googsystray/googsystray/po/fi.po | 
- | [he]({{< ref "/f24/language/he.md" >}}) | 0 | 759 | 0.0 | /mnt/stockage/packages/f24/googsystray/googsystray/po/he.po | 
- | [nb_NO]({{< ref "/f24/language/nb_NO.md" >}}) | 0 | 759 | 0.0 | /mnt/stockage/packages/f24/googsystray/googsystray/po/no.po | 
- | [pl]({{< ref "/f24/language/pl.md" >}}) | 0 | 759 | 0.0 | /mnt/stockage/packages/f24/googsystray/googsystray/po/pl.po | 
- | [pt]({{< ref "/f24/language/pt.md" >}}) | 0 | 759 | 0.0 | /mnt/stockage/packages/f24/googsystray/googsystray/po/pt.po | 
- | [tr]({{< ref "/f24/language/tr.md" >}}) | 0 | 759 | 0.0 | /mnt/stockage/packages/f24/googsystray/googsystray/po/tr.po | 
- | [uk]({{< ref "/f24/language/uk.md" >}}) | 0 | 759 | 0.0 | /mnt/stockage/packages/f24/googsystray/googsystray/po/uk.po | 
+ | [fr](/f24/language/fr) | 759 | 759 | 100.0 | /mnt/stockage/packages/f24/googsystray/googsystray/po/fr.po | 
+ | [it](/f24/language/it) | 759 | 759 | 100.0 | /mnt/stockage/packages/f24/googsystray/googsystray/po/it.po | 
+ | [nl](/f24/language/nl) | 759 | 759 | 100.0 | /mnt/stockage/packages/f24/googsystray/googsystray/po/nl.po | 
+ | [zh_Hans](/f24/language/zh_Hans) | 759 | 759 | 100.0 | /mnt/stockage/packages/f24/googsystray/googsystray/po/zh_CN.po | 
+ | [zh_Hant](/f24/language/zh_Hant) | 759 | 759 | 100.0 | /mnt/stockage/packages/f24/googsystray/googsystray/po/zh_TW.po | 
+ | [ru](/f24/language/ru) | 756 | 759 | 99.6 | /mnt/stockage/packages/f24/googsystray/googsystray/po/ru.po | 
+ | [hu](/f24/language/hu) | 751 | 759 | 98.9 | /mnt/stockage/packages/f24/googsystray/googsystray/po/hu.po | 
+ | [de](/f24/language/de) | 750 | 759 | 98.8 | /mnt/stockage/packages/f24/googsystray/googsystray/po/de.po | 
+ | [es](/f24/language/es) | 728 | 759 | 95.9 | /mnt/stockage/packages/f24/googsystray/googsystray/po/es.po | 
+ | [ja](/f24/language/ja) | 503 | 759 | 66.3 | /mnt/stockage/packages/f24/googsystray/googsystray/po/ja.po | 
+ | [fi](/f24/language/fi) | 0 | 759 | 0.0 | /mnt/stockage/packages/f24/googsystray/googsystray/po/fi.po | 
+ | [he](/f24/language/he) | 0 | 759 | 0.0 | /mnt/stockage/packages/f24/googsystray/googsystray/po/he.po | 
+ | [nb_NO](/f24/language/nb_NO) | 0 | 759 | 0.0 | /mnt/stockage/packages/f24/googsystray/googsystray/po/no.po | 
+ | [pl](/f24/language/pl) | 0 | 759 | 0.0 | /mnt/stockage/packages/f24/googsystray/googsystray/po/pl.po | 
+ | [pt](/f24/language/pt) | 0 | 759 | 0.0 | /mnt/stockage/packages/f24/googsystray/googsystray/po/pt.po | 
+ | [tr](/f24/language/tr) | 0 | 759 | 0.0 | /mnt/stockage/packages/f24/googsystray/googsystray/po/tr.po | 
+ | [uk](/f24/language/uk) | 0 | 759 | 0.0 | /mnt/stockage/packages/f24/googsystray/googsystray/po/uk.po | 
 {.sortable}
 
 

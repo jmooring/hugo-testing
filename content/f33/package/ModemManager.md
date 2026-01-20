@@ -18,23 +18,23 @@ The package ModemManager (version 1.14.10):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [id]({{< ref "/f33/language/id.md" >}}) | 147 | 147 | 100.0 | /mnt/stockage/packages/f33/ModemManager/po/id.po | 
- | [it]({{< ref "/f33/language/it.md" >}}) | 147 | 147 | 100.0 | /mnt/stockage/packages/f33/ModemManager/po/it.po | 
- | [pl]({{< ref "/f33/language/pl.md" >}}) | 147 | 147 | 100.0 | /mnt/stockage/packages/f33/ModemManager/po/pl.po | 
- | [pt_BR]({{< ref "/f33/language/pt_BR.md" >}}) | 147 | 147 | 100.0 | /mnt/stockage/packages/f33/ModemManager/po/pt_BR.po | 
- | [ru]({{< ref "/f33/language/ru.md" >}}) | 147 | 147 | 100.0 | /mnt/stockage/packages/f33/ModemManager/po/ru.po | 
- | [sk]({{< ref "/f33/language/sk.md" >}}) | 147 | 147 | 100.0 | /mnt/stockage/packages/f33/ModemManager/po/sk.po | 
- | [sv]({{< ref "/f33/language/sv.md" >}}) | 147 | 147 | 100.0 | /mnt/stockage/packages/f33/ModemManager/po/sv.po | 
- | [tr]({{< ref "/f33/language/tr.md" >}}) | 147 | 147 | 100.0 | /mnt/stockage/packages/f33/ModemManager/po/tr.po | 
- | [uk]({{< ref "/f33/language/uk.md" >}}) | 147 | 147 | 100.0 | /mnt/stockage/packages/f33/ModemManager/po/uk.po | 
- | [cs]({{< ref "/f33/language/cs.md" >}}) | 134 | 147 | 91.2 | /mnt/stockage/packages/f33/ModemManager/po/cs.po | 
- | [da]({{< ref "/f33/language/da.md" >}}) | 134 | 147 | 91.2 | /mnt/stockage/packages/f33/ModemManager/po/da.po | 
- | [fr]({{< ref "/f33/language/fr.md" >}}) | 134 | 147 | 91.2 | /mnt/stockage/packages/f33/ModemManager/po/fr.po | 
- | [fur]({{< ref "/f33/language/fur.md" >}}) | 134 | 147 | 91.2 | /mnt/stockage/packages/f33/ModemManager/po/fur.po | 
- | [hu]({{< ref "/f33/language/hu.md" >}}) | 134 | 147 | 91.2 | /mnt/stockage/packages/f33/ModemManager/po/hu.po | 
- | [lt]({{< ref "/f33/language/lt.md" >}}) | 134 | 147 | 91.2 | /mnt/stockage/packages/f33/ModemManager/po/lt.po | 
- | [zh_Hans]({{< ref "/f33/language/zh_Hans.md" >}}) | 134 | 147 | 91.2 | /mnt/stockage/packages/f33/ModemManager/po/zh_CN.po | 
- | [de]({{< ref "/f33/language/de.md" >}}) | 105 | 147 | 71.4 | /mnt/stockage/packages/f33/ModemManager/po/de.po | 
+ | [id](/f33/language/id) | 147 | 147 | 100.0 | /mnt/stockage/packages/f33/ModemManager/po/id.po | 
+ | [it](/f33/language/it) | 147 | 147 | 100.0 | /mnt/stockage/packages/f33/ModemManager/po/it.po | 
+ | [pl](/f33/language/pl) | 147 | 147 | 100.0 | /mnt/stockage/packages/f33/ModemManager/po/pl.po | 
+ | [pt_BR](/f33/language/pt_BR) | 147 | 147 | 100.0 | /mnt/stockage/packages/f33/ModemManager/po/pt_BR.po | 
+ | [ru](/f33/language/ru) | 147 | 147 | 100.0 | /mnt/stockage/packages/f33/ModemManager/po/ru.po | 
+ | [sk](/f33/language/sk) | 147 | 147 | 100.0 | /mnt/stockage/packages/f33/ModemManager/po/sk.po | 
+ | [sv](/f33/language/sv) | 147 | 147 | 100.0 | /mnt/stockage/packages/f33/ModemManager/po/sv.po | 
+ | [tr](/f33/language/tr) | 147 | 147 | 100.0 | /mnt/stockage/packages/f33/ModemManager/po/tr.po | 
+ | [uk](/f33/language/uk) | 147 | 147 | 100.0 | /mnt/stockage/packages/f33/ModemManager/po/uk.po | 
+ | [cs](/f33/language/cs) | 134 | 147 | 91.2 | /mnt/stockage/packages/f33/ModemManager/po/cs.po | 
+ | [da](/f33/language/da) | 134 | 147 | 91.2 | /mnt/stockage/packages/f33/ModemManager/po/da.po | 
+ | [fr](/f33/language/fr) | 134 | 147 | 91.2 | /mnt/stockage/packages/f33/ModemManager/po/fr.po | 
+ | [fur](/f33/language/fur) | 134 | 147 | 91.2 | /mnt/stockage/packages/f33/ModemManager/po/fur.po | 
+ | [hu](/f33/language/hu) | 134 | 147 | 91.2 | /mnt/stockage/packages/f33/ModemManager/po/hu.po | 
+ | [lt](/f33/language/lt) | 134 | 147 | 91.2 | /mnt/stockage/packages/f33/ModemManager/po/lt.po | 
+ | [zh_Hans](/f33/language/zh_Hans) | 134 | 147 | 91.2 | /mnt/stockage/packages/f33/ModemManager/po/zh_CN.po | 
+ | [de](/f33/language/de) | 105 | 147 | 71.4 | /mnt/stockage/packages/f33/ModemManager/po/de.po | 
 {.sortable}
 
 

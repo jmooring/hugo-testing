@@ -38,11 +38,11 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [mintmenu]({{< ref "/f23/package/mintmenu.md" >}}) | 43 | 1910 | 2.3 | Chuvash <cv@li.org> | 
- | [stellarium]({{< ref "/f23/package/stellarium.md" >}}) | 107 | 17168 | 0.6 | Chuvash <cv@li.org> | 
- | [libmatekbd]({{< ref "/f23/package/libmatekbd.md" >}}) | 0 | 251 | 0.0 | Chuvash (http://www.transifex.com/mate/MATE/language/cv/) | 
- | [mate-desktop]({{< ref "/f23/package/mate-desktop.md" >}}) | 0 | 2288 | 0.0 | Chuvash (http://www.transifex.com/projects/p/MATE/language/cv/) | 
- | [mate-user-guide]({{< ref "/f23/package/mate-user-guide.md" >}}) | 0 | 5 | 0.0 | Chuvash (http://www.transifex.com/mate/MATE/language/cv/) | 
+ | [mintmenu](/f23/package/mintmenu) | 43 | 1910 | 2.3 | Chuvash <cv@li.org> | 
+ | [stellarium](/f23/package/stellarium) | 107 | 17168 | 0.6 | Chuvash <cv@li.org> | 
+ | [libmatekbd](/f23/package/libmatekbd) | 0 | 251 | 0.0 | Chuvash (http://www.transifex.com/mate/MATE/language/cv/) | 
+ | [mate-desktop](/f23/package/mate-desktop) | 0 | 2288 | 0.0 | Chuvash (http://www.transifex.com/projects/p/MATE/language/cv/) | 
+ | [mate-user-guide](/f23/package/mate-user-guide) | 0 | 5 | 0.0 | Chuvash (http://www.transifex.com/mate/MATE/language/cv/) | 
 {.sortable}
 
 

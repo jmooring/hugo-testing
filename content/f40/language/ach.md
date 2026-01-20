@@ -38,43 +38,43 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [sugar]({{< ref "/f40/package/sugar.md" >}}) | 2305 | 2305 | 100.0 | LANGUAGE <LL@li.org> | 
- | [sugar-abacus]({{< ref "/f40/package/sugar-abacus.md" >}}) | 28 | 28 | 100.0 | LANGUAGE <LL@li.org> | 
- | [sugar-calculator]({{< ref "/f40/package/sugar-calculator.md" >}}) | 866 | 866 | 100.0 | LANGUAGE <LL@li.org> | 
- | [sugar-chat]({{< ref "/f40/package/sugar-chat.md" >}}) | 137 | 137 | 100.0 | LANGUAGE <LL@li.org> | 
- | [sugar-clock]({{< ref "/f40/package/sugar-clock.md" >}}) | 66 | 66 | 100.0 | LANGUAGE <LL@li.org> | 
- | [sugar-colordeducto]({{< ref "/f40/package/sugar-colordeducto.md" >}}) | 109 | 109 | 100.0 | LANGUAGE <LL@li.org> | 
- | [sugar-deducto]({{< ref "/f40/package/sugar-deducto.md" >}}) | 107 | 107 | 100.0 | LANGUAGE <LL@li.org> | 
- | [sugar-dimensions]({{< ref "/f40/package/sugar-dimensions.md" >}}) | 176 | 176 | 100.0 | LANGUAGE <LL@li.org> | 
- | [sugar-distance]({{< ref "/f40/package/sugar-distance.md" >}}) | 99 | 99 | 100.0 | LANGUAGE <LL@li.org> | 
- | [sugar-finance]({{< ref "/f40/package/sugar-finance.md" >}}) | 258 | 258 | 100.0 | LANGUAGE <LL@li.org> | 
- | [sugar-flipsticks]({{< ref "/f40/package/sugar-flipsticks.md" >}}) | 151 | 151 | 100.0 | LANGUAGE <LL@li.org> | 
- | [sugar-imageviewer]({{< ref "/f40/package/sugar-imageviewer.md" >}}) | 58 | 58 | 100.0 | LANGUAGE <LL@li.org> | 
- | [sugar-implode]({{< ref "/f40/package/sugar-implode.md" >}}) | 77 | 77 | 100.0 | LANGUAGE <LL@li.org> | 
- | [sugar-log]({{< ref "/f40/package/sugar-log.md" >}}) | 98 | 98 | 100.0 | LANGUAGE <LL@li.org> | 
- | [sugar-maze]({{< ref "/f40/package/sugar-maze.md" >}}) | 7 | 7 | 100.0 | LANGUAGE <LL@li.org> | 
- | [sugar-memorize]({{< ref "/f40/package/sugar-memorize.md" >}}) | 142 | 142 | 100.0 | LANGUAGE <LL@li.org> | 
- | [sugar-physics]({{< ref "/f40/package/sugar-physics.md" >}}) | 48 | 48 | 100.0 | LANGUAGE <LL@li.org> | 
- | [sugar-pippy]({{< ref "/f40/package/sugar-pippy.md" >}}) | 282 | 282 | 100.0 | LANGUAGE <LL@li.org> | 
- | [sugar-read]({{< ref "/f40/package/sugar-read.md" >}}) | 137 | 137 | 100.0 | LANGUAGE <LL@li.org> | 
- | [sugar-record]({{< ref "/f40/package/sugar-record.md" >}}) | 62 | 62 | 100.0 | LANGUAGE <LL@li.org> | 
- | [sugar-speak]({{< ref "/f40/package/sugar-speak.md" >}}) | 227 | 227 | 100.0 | LANGUAGE <LL@li.org> | 
- | [sugar-stopwatch]({{< ref "/f40/package/sugar-stopwatch.md" >}}) | 5 | 5 | 100.0 | LANGUAGE <LL@li.org> | 
- | [sugar-story]({{< ref "/f40/package/sugar-story.md" >}}) | 71 | 71 | 100.0 | LANGUAGE <LL@li.org> | 
- | [sugar-terminal]({{< ref "/f40/package/sugar-terminal.md" >}}) | 121 | 121 | 100.0 | LANGUAGE <LL@li.org> | 
- | [sugar-toolkit-gtk3]({{< ref "/f40/package/sugar-toolkit-gtk3.md" >}}) | 213 | 213 | 100.0 | LANGUAGE <LL@li.org> | 
- | [sugar-view-slides]({{< ref "/f40/package/sugar-view-slides.md" >}}) | 60 | 60 | 100.0 | LANGUAGE <LL@li.org> | 
- | [sugar-write]({{< ref "/f40/package/sugar-write.md" >}}) | 121 | 121 | 100.0 | LANGUAGE <LL@li.org> | 
- | [sugar-xoeditor]({{< ref "/f40/package/sugar-xoeditor.md" >}}) | 29 | 29 | 100.0 | LANGUAGE <LL@li.org> | 
- | [sugar-yupana]({{< ref "/f40/package/sugar-yupana.md" >}}) | 30 | 30 | 100.0 | LANGUAGE <LL@li.org> | 
- | [sugar-browse]({{< ref "/f40/package/sugar-browse.md" >}}) | 331 | 334 | 99.1 | LANGUAGE <LL@li.org> | 
- | [iso-codes]({{< ref "/f40/package/iso-codes.md" >}}) | 264 | 989 | 26.7 | Acholi <https://hosted.weblate.org/projects/iso-codes/iso-3166-1/ach/> | 
- | [vlc]({{< ref "/f40/package/vlc.md" >}}) | 2134 | 34779 | 6.1 | Acoli (https://app.transifex.com/yaron/teams/16553/ach/) | 
- | [avahi]({{< ref "/f40/package/avahi.md" >}}) | 0 | 868 | 0.0 | Acoli (http://www.transifex.com/lennart/avahi/language/ach/) | 
- | [initial-setup]({{< ref "/f40/package/initial-setup.md" >}}) | 0 | 33 | 0.0 | Acoli (http://www.transifex.com/projects/p/initial-setup/language/ach/) | 
- | [python-django-rest-framework]({{< ref "/f40/package/python-django-rest-framework.md" >}}) | 0 | 582 | 0.0 | Acoli (http://www.transifex.com/django-rest-framework-1/django-rest-framework/language/ach/) | 
- | [python-meh]({{< ref "/f40/package/python-meh.md" >}}) | 0 | 109 | 0.0 | Acoli (http://www.transifex.com/projects/p/python-meh/language/ach/) | 
- | [supertux]({{< ref "/f40/package/supertux.md" >}}) | 0 | 63 | 0.0 | Acoli (https://www.transifex.com/arctic-games/teams/95/ach/) | 
+ | [sugar](/f40/package/sugar) | 2305 | 2305 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-abacus](/f40/package/sugar-abacus) | 28 | 28 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-calculator](/f40/package/sugar-calculator) | 866 | 866 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-chat](/f40/package/sugar-chat) | 137 | 137 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-clock](/f40/package/sugar-clock) | 66 | 66 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-colordeducto](/f40/package/sugar-colordeducto) | 109 | 109 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-deducto](/f40/package/sugar-deducto) | 107 | 107 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-dimensions](/f40/package/sugar-dimensions) | 176 | 176 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-distance](/f40/package/sugar-distance) | 99 | 99 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-finance](/f40/package/sugar-finance) | 258 | 258 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-flipsticks](/f40/package/sugar-flipsticks) | 151 | 151 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-imageviewer](/f40/package/sugar-imageviewer) | 58 | 58 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-implode](/f40/package/sugar-implode) | 77 | 77 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-log](/f40/package/sugar-log) | 98 | 98 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-maze](/f40/package/sugar-maze) | 7 | 7 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-memorize](/f40/package/sugar-memorize) | 142 | 142 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-physics](/f40/package/sugar-physics) | 48 | 48 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-pippy](/f40/package/sugar-pippy) | 282 | 282 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-read](/f40/package/sugar-read) | 137 | 137 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-record](/f40/package/sugar-record) | 62 | 62 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-speak](/f40/package/sugar-speak) | 227 | 227 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-stopwatch](/f40/package/sugar-stopwatch) | 5 | 5 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-story](/f40/package/sugar-story) | 71 | 71 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-terminal](/f40/package/sugar-terminal) | 121 | 121 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-toolkit-gtk3](/f40/package/sugar-toolkit-gtk3) | 213 | 213 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-view-slides](/f40/package/sugar-view-slides) | 60 | 60 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-write](/f40/package/sugar-write) | 121 | 121 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-xoeditor](/f40/package/sugar-xoeditor) | 29 | 29 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-yupana](/f40/package/sugar-yupana) | 30 | 30 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-browse](/f40/package/sugar-browse) | 331 | 334 | 99.1 | LANGUAGE <LL@li.org> | 
+ | [iso-codes](/f40/package/iso-codes) | 264 | 989 | 26.7 | Acholi <https://hosted.weblate.org/projects/iso-codes/iso-3166-1/ach/> | 
+ | [vlc](/f40/package/vlc) | 2134 | 34779 | 6.1 | Acoli (https://app.transifex.com/yaron/teams/16553/ach/) | 
+ | [avahi](/f40/package/avahi) | 0 | 868 | 0.0 | Acoli (http://www.transifex.com/lennart/avahi/language/ach/) | 
+ | [initial-setup](/f40/package/initial-setup) | 0 | 33 | 0.0 | Acoli (http://www.transifex.com/projects/p/initial-setup/language/ach/) | 
+ | [python-django-rest-framework](/f40/package/python-django-rest-framework) | 0 | 582 | 0.0 | Acoli (http://www.transifex.com/django-rest-framework-1/django-rest-framework/language/ach/) | 
+ | [python-meh](/f40/package/python-meh) | 0 | 109 | 0.0 | Acoli (http://www.transifex.com/projects/p/python-meh/language/ach/) | 
+ | [supertux](/f40/package/supertux) | 0 | 63 | 0.0 | Acoli (https://www.transifex.com/arctic-games/teams/95/ach/) | 
 {.sortable}
 
 

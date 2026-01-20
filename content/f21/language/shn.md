@@ -39,14 +39,14 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [shutter]({{< ref "/f21/package/shutter.md" >}}) | 361 | 2614 | 13.8 | Shan <shn@li.org> | 
- | [mintmenu]({{< ref "/f21/package/mintmenu.md" >}}) | 15 | 1276 | 1.2 | Shan <shn@li.org> | 
- | [cinnamon-translations]({{< ref "/f21/package/cinnamon-translations.md" >}}) | 14 | 7059 | 0.2 | Shan <shn@li.org> | 
- | [deja-dup]({{< ref "/f21/package/deja-dup.md" >}}) | 0 | 1824 | 0.0 | Shan <shn@li.org> | 
- | [gwibber]({{< ref "/f21/package/gwibber.md" >}}) | 0 | 769 | 0.0 | Shan <shn@li.org> | 
- | [lightdm]({{< ref "/f21/package/lightdm.md" >}}) | 0 | 79 | 0.0 | Shan <shn@li.org> | 
- | [remmina]({{< ref "/f21/package/remmina.md" >}}) | 0 | 1175 | 0.0 | Shan <shn@li.org> | 
- | [simple-scan]({{< ref "/f21/package/simple-scan.md" >}}) | 0 | 577 | 0.0 | Shan <shn@li.org> | 
+ | [shutter](/f21/package/shutter) | 361 | 2614 | 13.8 | Shan <shn@li.org> | 
+ | [mintmenu](/f21/package/mintmenu) | 15 | 1276 | 1.2 | Shan <shn@li.org> | 
+ | [cinnamon-translations](/f21/package/cinnamon-translations) | 14 | 7059 | 0.2 | Shan <shn@li.org> | 
+ | [deja-dup](/f21/package/deja-dup) | 0 | 1824 | 0.0 | Shan <shn@li.org> | 
+ | [gwibber](/f21/package/gwibber) | 0 | 769 | 0.0 | Shan <shn@li.org> | 
+ | [lightdm](/f21/package/lightdm) | 0 | 79 | 0.0 | Shan <shn@li.org> | 
+ | [remmina](/f21/package/remmina) | 0 | 1175 | 0.0 | Shan <shn@li.org> | 
+ | [simple-scan](/f21/package/simple-scan) | 0 | 577 | 0.0 | Shan <shn@li.org> | 
 {.sortable}
 
 

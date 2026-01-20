@@ -18,10 +18,10 @@ The package axel (version 2.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f12/language/de.md" >}}) | 358 | 375 | 95.5 | /mnt/stockage/packages/f12/axel/de.po | 
- | [ru]({{< ref "/f12/language/ru.md" >}}) | 192 | 375 | 51.2 | /mnt/stockage/packages/f12/axel/ru.po | 
- | [zh_Hans]({{< ref "/f12/language/zh_Hans.md" >}}) | 175 | 375 | 46.7 | /mnt/stockage/packages/f12/axel/zh_CN.po | 
- | [nl]({{< ref "/f12/language/nl.md" >}}) | 163 | 375 | 43.5 | /mnt/stockage/packages/f12/axel/nl.po | 
+ | [de](/f12/language/de) | 358 | 375 | 95.5 | /mnt/stockage/packages/f12/axel/de.po | 
+ | [ru](/f12/language/ru) | 192 | 375 | 51.2 | /mnt/stockage/packages/f12/axel/ru.po | 
+ | [zh_Hans](/f12/language/zh_Hans) | 175 | 375 | 46.7 | /mnt/stockage/packages/f12/axel/zh_CN.po | 
+ | [nl](/f12/language/nl) | 163 | 375 | 43.5 | /mnt/stockage/packages/f12/axel/nl.po | 
 {.sortable}
 
 

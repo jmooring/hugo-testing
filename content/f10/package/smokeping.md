@@ -18,11 +18,11 @@ The package smokeping (version 2.4.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f10/language/de.md" >}}) | 34 | 34 | 100.0 | /mnt/stockage/packages/f10/smokeping/qooxdoo/source/translation/de.po | 
- | [en]({{< ref "/f10/language/en.md" >}}) | 34 | 34 | 100.0 | /mnt/stockage/packages/f10/smokeping/qooxdoo/source/translation/en.po | 
- | [error]({{< ref "/f10/language/error.md" >}}) | 0 | 34 | 0.0 | /mnt/stockage/packages/f10/smokeping/qooxdoo/source/translation/C.po | 
- | [fr]({{< ref "/f10/language/fr.md" >}}) | 0 | 34 | 0.0 | /mnt/stockage/packages/f10/smokeping/qooxdoo/source/translation/fr.po | 
- | [it]({{< ref "/f10/language/it.md" >}}) | 0 | 72 | 0.0 | /mnt/stockage/packages/f10/smokeping/qooxdoo/source/translation/it.po | 
+ | [de](/f10/language/de) | 34 | 34 | 100.0 | /mnt/stockage/packages/f10/smokeping/qooxdoo/source/translation/de.po | 
+ | [en](/f10/language/en) | 34 | 34 | 100.0 | /mnt/stockage/packages/f10/smokeping/qooxdoo/source/translation/en.po | 
+ | [error](/f10/language/error) | 0 | 34 | 0.0 | /mnt/stockage/packages/f10/smokeping/qooxdoo/source/translation/C.po | 
+ | [fr](/f10/language/fr) | 0 | 34 | 0.0 | /mnt/stockage/packages/f10/smokeping/qooxdoo/source/translation/fr.po | 
+ | [it](/f10/language/it) | 0 | 72 | 0.0 | /mnt/stockage/packages/f10/smokeping/qooxdoo/source/translation/it.po | 
 {.sortable}
 
 

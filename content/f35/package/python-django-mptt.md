@@ -18,22 +18,22 @@ The package python-django-mptt (version 0.12.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [da]({{< ref "/f35/language/da.md" >}}) | 188 | 188 | 100.0 | /mnt/stockage/packages/f35/python-django-mptt/mptt/locale/da/LC_MESSAGES/django.po | 
- | [de]({{< ref "/f35/language/de.md" >}}) | 249 | 249 | 100.0 | /mnt/stockage/packages/f35/python-django-mptt/mptt/locale/de/LC_MESSAGES/django.po | 
- | [es_AR]({{< ref "/f35/language/es_AR.md" >}}) | 188 | 188 | 100.0 | /mnt/stockage/packages/f35/python-django-mptt/mptt/locale/es_AR/LC_MESSAGES/django.po | 
- | [fi]({{< ref "/f35/language/fi.md" >}}) | 246 | 246 | 100.0 | /mnt/stockage/packages/f35/python-django-mptt/mptt/locale/fi/LC_MESSAGES/django.po | 
- | [fr]({{< ref "/f35/language/fr.md" >}}) | 249 | 249 | 100.0 | /mnt/stockage/packages/f35/python-django-mptt/mptt/locale/fr/LC_MESSAGES/django.po | 
- | [hu]({{< ref "/f35/language/hu.md" >}}) | 249 | 249 | 100.0 | /mnt/stockage/packages/f35/python-django-mptt/mptt/locale/hu/LC_MESSAGES/django.po | 
- | [it]({{< ref "/f35/language/it.md" >}}) | 249 | 249 | 100.0 | /mnt/stockage/packages/f35/python-django-mptt/mptt/locale/it/LC_MESSAGES/django.po | 
- | [mn]({{< ref "/f35/language/mn.md" >}}) | 188 | 188 | 100.0 | /mnt/stockage/packages/f35/python-django-mptt/mptt/locale/mn/LC_MESSAGES/django.po | 
- | [pl]({{< ref "/f35/language/pl.md" >}}) | 210 | 210 | 100.0 | /mnt/stockage/packages/f35/python-django-mptt/mptt/locale/pl/LC_MESSAGES/django.po | 
- | [pt_BR]({{< ref "/f35/language/pt_BR.md" >}}) | 188 | 188 | 100.0 | /mnt/stockage/packages/f35/python-django-mptt/mptt/locale/pt_BR/LC_MESSAGES/django.po | 
- | [ru]({{< ref "/f35/language/ru.md" >}}) | 246 | 246 | 100.0 | /mnt/stockage/packages/f35/python-django-mptt/mptt/locale/ru/LC_MESSAGES/django.po | 
- | [uk]({{< ref "/f35/language/uk.md" >}}) | 249 | 249 | 100.0 | /mnt/stockage/packages/f35/python-django-mptt/mptt/locale/uk/LC_MESSAGES/django.po | 
- | [zh_Hans]({{< ref "/f35/language/zh_Hans.md" >}}) | 249 | 249 | 100.0 | /mnt/stockage/packages/f35/python-django-mptt/mptt/locale/zh_Hans/LC_MESSAGES/django.po | 
- | [zh_Hant]({{< ref "/f35/language/zh_Hant.md" >}}) | 249 | 249 | 100.0 | /mnt/stockage/packages/f35/python-django-mptt/mptt/locale/zh_Hant/LC_MESSAGES/django.po | 
- | [es]({{< ref "/f35/language/es.md" >}}) | 248 | 252 | 98.4 | /mnt/stockage/packages/f35/python-django-mptt/mptt/locale/es/LC_MESSAGES/django.po | 
- | [nb_NO]({{< ref "/f35/language/nb_NO.md" >}}) | 236 | 241 | 97.9 | /mnt/stockage/packages/f35/python-django-mptt/mptt/locale/nb/LC_MESSAGES/django.po | 
+ | [da](/f35/language/da) | 188 | 188 | 100.0 | /mnt/stockage/packages/f35/python-django-mptt/mptt/locale/da/LC_MESSAGES/django.po | 
+ | [de](/f35/language/de) | 249 | 249 | 100.0 | /mnt/stockage/packages/f35/python-django-mptt/mptt/locale/de/LC_MESSAGES/django.po | 
+ | [es_AR](/f35/language/es_AR) | 188 | 188 | 100.0 | /mnt/stockage/packages/f35/python-django-mptt/mptt/locale/es_AR/LC_MESSAGES/django.po | 
+ | [fi](/f35/language/fi) | 246 | 246 | 100.0 | /mnt/stockage/packages/f35/python-django-mptt/mptt/locale/fi/LC_MESSAGES/django.po | 
+ | [fr](/f35/language/fr) | 249 | 249 | 100.0 | /mnt/stockage/packages/f35/python-django-mptt/mptt/locale/fr/LC_MESSAGES/django.po | 
+ | [hu](/f35/language/hu) | 249 | 249 | 100.0 | /mnt/stockage/packages/f35/python-django-mptt/mptt/locale/hu/LC_MESSAGES/django.po | 
+ | [it](/f35/language/it) | 249 | 249 | 100.0 | /mnt/stockage/packages/f35/python-django-mptt/mptt/locale/it/LC_MESSAGES/django.po | 
+ | [mn](/f35/language/mn) | 188 | 188 | 100.0 | /mnt/stockage/packages/f35/python-django-mptt/mptt/locale/mn/LC_MESSAGES/django.po | 
+ | [pl](/f35/language/pl) | 210 | 210 | 100.0 | /mnt/stockage/packages/f35/python-django-mptt/mptt/locale/pl/LC_MESSAGES/django.po | 
+ | [pt_BR](/f35/language/pt_BR) | 188 | 188 | 100.0 | /mnt/stockage/packages/f35/python-django-mptt/mptt/locale/pt_BR/LC_MESSAGES/django.po | 
+ | [ru](/f35/language/ru) | 246 | 246 | 100.0 | /mnt/stockage/packages/f35/python-django-mptt/mptt/locale/ru/LC_MESSAGES/django.po | 
+ | [uk](/f35/language/uk) | 249 | 249 | 100.0 | /mnt/stockage/packages/f35/python-django-mptt/mptt/locale/uk/LC_MESSAGES/django.po | 
+ | [zh_Hans](/f35/language/zh_Hans) | 249 | 249 | 100.0 | /mnt/stockage/packages/f35/python-django-mptt/mptt/locale/zh_Hans/LC_MESSAGES/django.po | 
+ | [zh_Hant](/f35/language/zh_Hant) | 249 | 249 | 100.0 | /mnt/stockage/packages/f35/python-django-mptt/mptt/locale/zh_Hant/LC_MESSAGES/django.po | 
+ | [es](/f35/language/es) | 248 | 252 | 98.4 | /mnt/stockage/packages/f35/python-django-mptt/mptt/locale/es/LC_MESSAGES/django.po | 
+ | [nb_NO](/f35/language/nb_NO) | 236 | 241 | 97.9 | /mnt/stockage/packages/f35/python-django-mptt/mptt/locale/nb/LC_MESSAGES/django.po | 
 {.sortable}
 
 

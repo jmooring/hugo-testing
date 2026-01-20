@@ -18,95 +18,95 @@ The package libmatecanvas (version 1.4.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f16/language/ar.md" >}}) | 378 | 378 | 100.0 | /mnt/stockage/packages/f16/libmatecanvas/po/ar.po | 
- | [as]({{< ref "/f16/language/as.md" >}}) | 378 | 378 | 100.0 | /mnt/stockage/packages/f16/libmatecanvas/po/as.po | 
- | [ast]({{< ref "/f16/language/ast.md" >}}) | 378 | 378 | 100.0 | /mnt/stockage/packages/f16/libmatecanvas/po/ast.po | 
- | [bg]({{< ref "/f16/language/bg.md" >}}) | 378 | 378 | 100.0 | /mnt/stockage/packages/f16/libmatecanvas/po/bg.po | 
- | [bn]({{< ref "/f16/language/bn.md" >}}) | 378 | 378 | 100.0 | /mnt/stockage/packages/f16/libmatecanvas/po/bn.po | 
- | [bn_IN]({{< ref "/f16/language/bn_IN.md" >}}) | 378 | 378 | 100.0 | /mnt/stockage/packages/f16/libmatecanvas/po/bn_IN.po | 
- | [ca]({{< ref "/f16/language/ca.md" >}}) | 378 | 378 | 100.0 | /mnt/stockage/packages/f16/libmatecanvas/po/ca.po | 
- | [ca@valencia]({{< ref "/f16/language/ca@valencia.md" >}}) | 378 | 378 | 100.0 | /mnt/stockage/packages/f16/libmatecanvas/po/ca@valencia.po | 
- | [crh]({{< ref "/f16/language/crh.md" >}}) | 378 | 378 | 100.0 | /mnt/stockage/packages/f16/libmatecanvas/po/crh.po | 
- | [cs]({{< ref "/f16/language/cs.md" >}}) | 378 | 378 | 100.0 | /mnt/stockage/packages/f16/libmatecanvas/po/cs.po | 
- | [cy]({{< ref "/f16/language/cy.md" >}}) | 378 | 378 | 100.0 | /mnt/stockage/packages/f16/libmatecanvas/po/cy.po | 
- | [da]({{< ref "/f16/language/da.md" >}}) | 378 | 378 | 100.0 | /mnt/stockage/packages/f16/libmatecanvas/po/da.po | 
- | [de]({{< ref "/f16/language/de.md" >}}) | 378 | 378 | 100.0 | /mnt/stockage/packages/f16/libmatecanvas/po/de.po | 
- | [dz]({{< ref "/f16/language/dz.md" >}}) | 378 | 378 | 100.0 | /mnt/stockage/packages/f16/libmatecanvas/po/dz.po | 
- | [el]({{< ref "/f16/language/el.md" >}}) | 378 | 378 | 100.0 | /mnt/stockage/packages/f16/libmatecanvas/po/el.po | 
- | [en_CA]({{< ref "/f16/language/en_CA.md" >}}) | 378 | 378 | 100.0 | /mnt/stockage/packages/f16/libmatecanvas/po/en_CA.po | 
- | [en_GB]({{< ref "/f16/language/en_GB.md" >}}) | 378 | 378 | 100.0 | /mnt/stockage/packages/f16/libmatecanvas/po/en_GB.po | 
- | [eo]({{< ref "/f16/language/eo.md" >}}) | 378 | 378 | 100.0 | /mnt/stockage/packages/f16/libmatecanvas/po/eo.po | 
- | [es]({{< ref "/f16/language/es.md" >}}) | 378 | 378 | 100.0 | /mnt/stockage/packages/f16/libmatecanvas/po/es.po | 
- | [et]({{< ref "/f16/language/et.md" >}}) | 378 | 378 | 100.0 | /mnt/stockage/packages/f16/libmatecanvas/po/et.po | 
- | [eu]({{< ref "/f16/language/eu.md" >}}) | 378 | 378 | 100.0 | /mnt/stockage/packages/f16/libmatecanvas/po/eu.po | 
- | [fi]({{< ref "/f16/language/fi.md" >}}) | 378 | 378 | 100.0 | /mnt/stockage/packages/f16/libmatecanvas/po/fi.po | 
- | [fr]({{< ref "/f16/language/fr.md" >}}) | 378 | 378 | 100.0 | /mnt/stockage/packages/f16/libmatecanvas/po/fr.po | 
- | [gl]({{< ref "/f16/language/gl.md" >}}) | 378 | 378 | 100.0 | /mnt/stockage/packages/f16/libmatecanvas/po/gl.po | 
- | [gu]({{< ref "/f16/language/gu.md" >}}) | 378 | 378 | 100.0 | /mnt/stockage/packages/f16/libmatecanvas/po/gu.po | 
- | [he]({{< ref "/f16/language/he.md" >}}) | 378 | 378 | 100.0 | /mnt/stockage/packages/f16/libmatecanvas/po/he.po | 
- | [hi]({{< ref "/f16/language/hi.md" >}}) | 378 | 378 | 100.0 | /mnt/stockage/packages/f16/libmatecanvas/po/hi.po | 
- | [hr]({{< ref "/f16/language/hr.md" >}}) | 378 | 378 | 100.0 | /mnt/stockage/packages/f16/libmatecanvas/po/hr.po | 
- | [hu]({{< ref "/f16/language/hu.md" >}}) | 378 | 378 | 100.0 | /mnt/stockage/packages/f16/libmatecanvas/po/hu.po | 
- | [id]({{< ref "/f16/language/id.md" >}}) | 378 | 378 | 100.0 | /mnt/stockage/packages/f16/libmatecanvas/po/id.po | 
- | [it]({{< ref "/f16/language/it.md" >}}) | 378 | 378 | 100.0 | /mnt/stockage/packages/f16/libmatecanvas/po/it.po | 
- | [ja]({{< ref "/f16/language/ja.md" >}}) | 378 | 378 | 100.0 | /mnt/stockage/packages/f16/libmatecanvas/po/ja.po | 
- | [ka]({{< ref "/f16/language/ka.md" >}}) | 378 | 378 | 100.0 | /mnt/stockage/packages/f16/libmatecanvas/po/ka.po | 
- | [kn]({{< ref "/f16/language/kn.md" >}}) | 378 | 378 | 100.0 | /mnt/stockage/packages/f16/libmatecanvas/po/kn.po | 
- | [ko]({{< ref "/f16/language/ko.md" >}}) | 378 | 378 | 100.0 | /mnt/stockage/packages/f16/libmatecanvas/po/ko.po | 
- | [lt]({{< ref "/f16/language/lt.md" >}}) | 378 | 378 | 100.0 | /mnt/stockage/packages/f16/libmatecanvas/po/lt.po | 
- | [lv]({{< ref "/f16/language/lv.md" >}}) | 378 | 378 | 100.0 | /mnt/stockage/packages/f16/libmatecanvas/po/lv.po | 
- | [mai]({{< ref "/f16/language/mai.md" >}}) | 378 | 378 | 100.0 | /mnt/stockage/packages/f16/libmatecanvas/po/mai.po | 
- | [mk]({{< ref "/f16/language/mk.md" >}}) | 378 | 378 | 100.0 | /mnt/stockage/packages/f16/libmatecanvas/po/mk.po | 
- | [ml]({{< ref "/f16/language/ml.md" >}}) | 378 | 378 | 100.0 | /mnt/stockage/packages/f16/libmatecanvas/po/ml.po | 
- | [mn]({{< ref "/f16/language/mn.md" >}}) | 378 | 378 | 100.0 | /mnt/stockage/packages/f16/libmatecanvas/po/mn.po | 
- | [mr]({{< ref "/f16/language/mr.md" >}}) | 378 | 378 | 100.0 | /mnt/stockage/packages/f16/libmatecanvas/po/mr.po | 
- | [nb_NO]({{< ref "/f16/language/nb_NO.md" >}}) | 378 | 378 | 100.0 | /mnt/stockage/packages/f16/libmatecanvas/po/nb.po | 
- | [ne]({{< ref "/f16/language/ne.md" >}}) | 378 | 378 | 100.0 | /mnt/stockage/packages/f16/libmatecanvas/po/ne.po | 
- | [nl]({{< ref "/f16/language/nl.md" >}}) | 378 | 378 | 100.0 | /mnt/stockage/packages/f16/libmatecanvas/po/nl.po | 
- | [nn]({{< ref "/f16/language/nn.md" >}}) | 378 | 378 | 100.0 | /mnt/stockage/packages/f16/libmatecanvas/po/nn.po | 
- | [or]({{< ref "/f16/language/or.md" >}}) | 378 | 378 | 100.0 | /mnt/stockage/packages/f16/libmatecanvas/po/or.po | 
- | [pa]({{< ref "/f16/language/pa.md" >}}) | 378 | 378 | 100.0 | /mnt/stockage/packages/f16/libmatecanvas/po/pa.po | 
- | [pl]({{< ref "/f16/language/pl.md" >}}) | 378 | 378 | 100.0 | /mnt/stockage/packages/f16/libmatecanvas/po/pl.po | 
- | [pt]({{< ref "/f16/language/pt.md" >}}) | 378 | 378 | 100.0 | /mnt/stockage/packages/f16/libmatecanvas/po/pt.po | 
- | [pt_BR]({{< ref "/f16/language/pt_BR.md" >}}) | 378 | 378 | 100.0 | /mnt/stockage/packages/f16/libmatecanvas/po/pt_BR.po | 
- | [ro]({{< ref "/f16/language/ro.md" >}}) | 378 | 378 | 100.0 | /mnt/stockage/packages/f16/libmatecanvas/po/ro.po | 
- | [ru]({{< ref "/f16/language/ru.md" >}}) | 378 | 378 | 100.0 | /mnt/stockage/packages/f16/libmatecanvas/po/ru.po | 
- | [sk]({{< ref "/f16/language/sk.md" >}}) | 378 | 378 | 100.0 | /mnt/stockage/packages/f16/libmatecanvas/po/sk.po | 
- | [sl]({{< ref "/f16/language/sl.md" >}}) | 378 | 378 | 100.0 | /mnt/stockage/packages/f16/libmatecanvas/po/sl.po | 
- | [sq]({{< ref "/f16/language/sq.md" >}}) | 378 | 378 | 100.0 | /mnt/stockage/packages/f16/libmatecanvas/po/sq.po | 
- | [sr]({{< ref "/f16/language/sr.md" >}}) | 378 | 378 | 100.0 | /mnt/stockage/packages/f16/libmatecanvas/po/sr.po | 
- | [sr@ijekavian]({{< ref "/f16/language/sr@ijekavian.md" >}}) | 357 | 357 | 100.0 | /mnt/stockage/packages/f16/libmatecanvas/po/sr@ije.po | 
- | [sr_Latn]({{< ref "/f16/language/sr_Latn.md" >}}) | 378 | 378 | 100.0 | /mnt/stockage/packages/f16/libmatecanvas/po/sr@latin.po | 
- | [sv]({{< ref "/f16/language/sv.md" >}}) | 378 | 378 | 100.0 | /mnt/stockage/packages/f16/libmatecanvas/po/sv.po | 
- | [ta]({{< ref "/f16/language/ta.md" >}}) | 378 | 378 | 100.0 | /mnt/stockage/packages/f16/libmatecanvas/po/ta.po | 
- | [te]({{< ref "/f16/language/te.md" >}}) | 378 | 378 | 100.0 | /mnt/stockage/packages/f16/libmatecanvas/po/te.po | 
- | [th]({{< ref "/f16/language/th.md" >}}) | 378 | 378 | 100.0 | /mnt/stockage/packages/f16/libmatecanvas/po/th.po | 
- | [tr]({{< ref "/f16/language/tr.md" >}}) | 378 | 378 | 100.0 | /mnt/stockage/packages/f16/libmatecanvas/po/tr.po | 
- | [uk]({{< ref "/f16/language/uk.md" >}}) | 378 | 378 | 100.0 | /mnt/stockage/packages/f16/libmatecanvas/po/uk.po | 
- | [vi]({{< ref "/f16/language/vi.md" >}}) | 378 | 378 | 100.0 | /mnt/stockage/packages/f16/libmatecanvas/po/vi.po | 
- | [zh_Hans]({{< ref "/f16/language/zh_Hans.md" >}}) | 378 | 378 | 100.0 | /mnt/stockage/packages/f16/libmatecanvas/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f16/language/zh_Hant.md" >}}) | 378 | 378 | 100.0 | /mnt/stockage/packages/f16/libmatecanvas/po/zh_TW.po | 
- | [zh_Hant_HK]({{< ref "/f16/language/zh_Hant_HK.md" >}}) | 378 | 378 | 100.0 | /mnt/stockage/packages/f16/libmatecanvas/po/zh_HK.po | 
- | [mg]({{< ref "/f16/language/mg.md" >}}) | 356 | 378 | 94.2 | /mnt/stockage/packages/f16/libmatecanvas/po/mg.po | 
- | [az]({{< ref "/f16/language/az.md" >}}) | 353 | 378 | 93.4 | /mnt/stockage/packages/f16/libmatecanvas/po/az.po | 
- | [be]({{< ref "/f16/language/be.md" >}}) | 353 | 378 | 93.4 | /mnt/stockage/packages/f16/libmatecanvas/po/be.po | 
- | [bs]({{< ref "/f16/language/bs.md" >}}) | 353 | 378 | 93.4 | /mnt/stockage/packages/f16/libmatecanvas/po/bs.po | 
- | [ms]({{< ref "/f16/language/ms.md" >}}) | 353 | 378 | 93.4 | /mnt/stockage/packages/f16/libmatecanvas/po/ms.po | 
- | [tt]({{< ref "/f16/language/tt.md" >}}) | 353 | 378 | 93.4 | /mnt/stockage/packages/f16/libmatecanvas/po/tt.po | 
- | [xh]({{< ref "/f16/language/xh.md" >}}) | 353 | 378 | 93.4 | /mnt/stockage/packages/f16/libmatecanvas/po/xh.po | 
- | [fa]({{< ref "/f16/language/fa.md" >}}) | 340 | 378 | 89.9 | /mnt/stockage/packages/f16/libmatecanvas/po/fa.po | 
- | [is]({{< ref "/f16/language/is.md" >}}) | 335 | 378 | 88.6 | /mnt/stockage/packages/f16/libmatecanvas/po/is.po | 
- | [li]({{< ref "/f16/language/li.md" >}}) | 335 | 378 | 88.6 | /mnt/stockage/packages/f16/libmatecanvas/po/li.po | 
- | [yi]({{< ref "/f16/language/yi.md" >}}) | 335 | 378 | 88.6 | /mnt/stockage/packages/f16/libmatecanvas/po/yi.po | 
- | [wa]({{< ref "/f16/language/wa.md" >}}) | 324 | 378 | 85.7 | /mnt/stockage/packages/f16/libmatecanvas/po/wa.po | 
- | [error]({{< ref "/f16/language/error.md" >}}) | 318 | 378 | 84.1 | /mnt/stockage/packages/f16/libmatecanvas/po/en@shaw.po | 
- | [ga]({{< ref "/f16/language/ga.md" >}}) | 128 | 378 | 33.9 | /mnt/stockage/packages/f16/libmatecanvas/po/ga.po | 
- | [am]({{< ref "/f16/language/am.md" >}}) | 41 | 378 | 10.8 | /mnt/stockage/packages/f16/libmatecanvas/po/am.po | 
- | [br]({{< ref "/f16/language/br.md" >}}) | 30 | 378 | 7.9 | /mnt/stockage/packages/f16/libmatecanvas/po/br.po | 
- | [oc]({{< ref "/f16/language/oc.md" >}}) | 29 | 378 | 7.7 | /mnt/stockage/packages/f16/libmatecanvas/po/oc.po | 
- | [rw]({{< ref "/f16/language/rw.md" >}}) | 23 | 378 | 6.1 | /mnt/stockage/packages/f16/libmatecanvas/po/rw.po | 
- | [ku]({{< ref "/f16/language/ku.md" >}}) | 16 | 378 | 4.2 | /mnt/stockage/packages/f16/libmatecanvas/po/ku.po | 
- | [ang]({{< ref "/f16/language/ang.md" >}}) | 14 | 357 | 3.9 | /mnt/stockage/packages/f16/libmatecanvas/po/ang.po | 
+ | [ar](/f16/language/ar) | 378 | 378 | 100.0 | /mnt/stockage/packages/f16/libmatecanvas/po/ar.po | 
+ | [as](/f16/language/as) | 378 | 378 | 100.0 | /mnt/stockage/packages/f16/libmatecanvas/po/as.po | 
+ | [ast](/f16/language/ast) | 378 | 378 | 100.0 | /mnt/stockage/packages/f16/libmatecanvas/po/ast.po | 
+ | [bg](/f16/language/bg) | 378 | 378 | 100.0 | /mnt/stockage/packages/f16/libmatecanvas/po/bg.po | 
+ | [bn](/f16/language/bn) | 378 | 378 | 100.0 | /mnt/stockage/packages/f16/libmatecanvas/po/bn.po | 
+ | [bn_IN](/f16/language/bn_IN) | 378 | 378 | 100.0 | /mnt/stockage/packages/f16/libmatecanvas/po/bn_IN.po | 
+ | [ca](/f16/language/ca) | 378 | 378 | 100.0 | /mnt/stockage/packages/f16/libmatecanvas/po/ca.po | 
+ | [ca@valencia](/f16/language/ca@valencia) | 378 | 378 | 100.0 | /mnt/stockage/packages/f16/libmatecanvas/po/ca@valencia.po | 
+ | [crh](/f16/language/crh) | 378 | 378 | 100.0 | /mnt/stockage/packages/f16/libmatecanvas/po/crh.po | 
+ | [cs](/f16/language/cs) | 378 | 378 | 100.0 | /mnt/stockage/packages/f16/libmatecanvas/po/cs.po | 
+ | [cy](/f16/language/cy) | 378 | 378 | 100.0 | /mnt/stockage/packages/f16/libmatecanvas/po/cy.po | 
+ | [da](/f16/language/da) | 378 | 378 | 100.0 | /mnt/stockage/packages/f16/libmatecanvas/po/da.po | 
+ | [de](/f16/language/de) | 378 | 378 | 100.0 | /mnt/stockage/packages/f16/libmatecanvas/po/de.po | 
+ | [dz](/f16/language/dz) | 378 | 378 | 100.0 | /mnt/stockage/packages/f16/libmatecanvas/po/dz.po | 
+ | [el](/f16/language/el) | 378 | 378 | 100.0 | /mnt/stockage/packages/f16/libmatecanvas/po/el.po | 
+ | [en_CA](/f16/language/en_CA) | 378 | 378 | 100.0 | /mnt/stockage/packages/f16/libmatecanvas/po/en_CA.po | 
+ | [en_GB](/f16/language/en_GB) | 378 | 378 | 100.0 | /mnt/stockage/packages/f16/libmatecanvas/po/en_GB.po | 
+ | [eo](/f16/language/eo) | 378 | 378 | 100.0 | /mnt/stockage/packages/f16/libmatecanvas/po/eo.po | 
+ | [es](/f16/language/es) | 378 | 378 | 100.0 | /mnt/stockage/packages/f16/libmatecanvas/po/es.po | 
+ | [et](/f16/language/et) | 378 | 378 | 100.0 | /mnt/stockage/packages/f16/libmatecanvas/po/et.po | 
+ | [eu](/f16/language/eu) | 378 | 378 | 100.0 | /mnt/stockage/packages/f16/libmatecanvas/po/eu.po | 
+ | [fi](/f16/language/fi) | 378 | 378 | 100.0 | /mnt/stockage/packages/f16/libmatecanvas/po/fi.po | 
+ | [fr](/f16/language/fr) | 378 | 378 | 100.0 | /mnt/stockage/packages/f16/libmatecanvas/po/fr.po | 
+ | [gl](/f16/language/gl) | 378 | 378 | 100.0 | /mnt/stockage/packages/f16/libmatecanvas/po/gl.po | 
+ | [gu](/f16/language/gu) | 378 | 378 | 100.0 | /mnt/stockage/packages/f16/libmatecanvas/po/gu.po | 
+ | [he](/f16/language/he) | 378 | 378 | 100.0 | /mnt/stockage/packages/f16/libmatecanvas/po/he.po | 
+ | [hi](/f16/language/hi) | 378 | 378 | 100.0 | /mnt/stockage/packages/f16/libmatecanvas/po/hi.po | 
+ | [hr](/f16/language/hr) | 378 | 378 | 100.0 | /mnt/stockage/packages/f16/libmatecanvas/po/hr.po | 
+ | [hu](/f16/language/hu) | 378 | 378 | 100.0 | /mnt/stockage/packages/f16/libmatecanvas/po/hu.po | 
+ | [id](/f16/language/id) | 378 | 378 | 100.0 | /mnt/stockage/packages/f16/libmatecanvas/po/id.po | 
+ | [it](/f16/language/it) | 378 | 378 | 100.0 | /mnt/stockage/packages/f16/libmatecanvas/po/it.po | 
+ | [ja](/f16/language/ja) | 378 | 378 | 100.0 | /mnt/stockage/packages/f16/libmatecanvas/po/ja.po | 
+ | [ka](/f16/language/ka) | 378 | 378 | 100.0 | /mnt/stockage/packages/f16/libmatecanvas/po/ka.po | 
+ | [kn](/f16/language/kn) | 378 | 378 | 100.0 | /mnt/stockage/packages/f16/libmatecanvas/po/kn.po | 
+ | [ko](/f16/language/ko) | 378 | 378 | 100.0 | /mnt/stockage/packages/f16/libmatecanvas/po/ko.po | 
+ | [lt](/f16/language/lt) | 378 | 378 | 100.0 | /mnt/stockage/packages/f16/libmatecanvas/po/lt.po | 
+ | [lv](/f16/language/lv) | 378 | 378 | 100.0 | /mnt/stockage/packages/f16/libmatecanvas/po/lv.po | 
+ | [mai](/f16/language/mai) | 378 | 378 | 100.0 | /mnt/stockage/packages/f16/libmatecanvas/po/mai.po | 
+ | [mk](/f16/language/mk) | 378 | 378 | 100.0 | /mnt/stockage/packages/f16/libmatecanvas/po/mk.po | 
+ | [ml](/f16/language/ml) | 378 | 378 | 100.0 | /mnt/stockage/packages/f16/libmatecanvas/po/ml.po | 
+ | [mn](/f16/language/mn) | 378 | 378 | 100.0 | /mnt/stockage/packages/f16/libmatecanvas/po/mn.po | 
+ | [mr](/f16/language/mr) | 378 | 378 | 100.0 | /mnt/stockage/packages/f16/libmatecanvas/po/mr.po | 
+ | [nb_NO](/f16/language/nb_NO) | 378 | 378 | 100.0 | /mnt/stockage/packages/f16/libmatecanvas/po/nb.po | 
+ | [ne](/f16/language/ne) | 378 | 378 | 100.0 | /mnt/stockage/packages/f16/libmatecanvas/po/ne.po | 
+ | [nl](/f16/language/nl) | 378 | 378 | 100.0 | /mnt/stockage/packages/f16/libmatecanvas/po/nl.po | 
+ | [nn](/f16/language/nn) | 378 | 378 | 100.0 | /mnt/stockage/packages/f16/libmatecanvas/po/nn.po | 
+ | [or](/f16/language/or) | 378 | 378 | 100.0 | /mnt/stockage/packages/f16/libmatecanvas/po/or.po | 
+ | [pa](/f16/language/pa) | 378 | 378 | 100.0 | /mnt/stockage/packages/f16/libmatecanvas/po/pa.po | 
+ | [pl](/f16/language/pl) | 378 | 378 | 100.0 | /mnt/stockage/packages/f16/libmatecanvas/po/pl.po | 
+ | [pt](/f16/language/pt) | 378 | 378 | 100.0 | /mnt/stockage/packages/f16/libmatecanvas/po/pt.po | 
+ | [pt_BR](/f16/language/pt_BR) | 378 | 378 | 100.0 | /mnt/stockage/packages/f16/libmatecanvas/po/pt_BR.po | 
+ | [ro](/f16/language/ro) | 378 | 378 | 100.0 | /mnt/stockage/packages/f16/libmatecanvas/po/ro.po | 
+ | [ru](/f16/language/ru) | 378 | 378 | 100.0 | /mnt/stockage/packages/f16/libmatecanvas/po/ru.po | 
+ | [sk](/f16/language/sk) | 378 | 378 | 100.0 | /mnt/stockage/packages/f16/libmatecanvas/po/sk.po | 
+ | [sl](/f16/language/sl) | 378 | 378 | 100.0 | /mnt/stockage/packages/f16/libmatecanvas/po/sl.po | 
+ | [sq](/f16/language/sq) | 378 | 378 | 100.0 | /mnt/stockage/packages/f16/libmatecanvas/po/sq.po | 
+ | [sr](/f16/language/sr) | 378 | 378 | 100.0 | /mnt/stockage/packages/f16/libmatecanvas/po/sr.po | 
+ | [sr@ijekavian](/f16/language/sr@ijekavian) | 357 | 357 | 100.0 | /mnt/stockage/packages/f16/libmatecanvas/po/sr@ije.po | 
+ | [sr_Latn](/f16/language/sr_Latn) | 378 | 378 | 100.0 | /mnt/stockage/packages/f16/libmatecanvas/po/sr@latin.po | 
+ | [sv](/f16/language/sv) | 378 | 378 | 100.0 | /mnt/stockage/packages/f16/libmatecanvas/po/sv.po | 
+ | [ta](/f16/language/ta) | 378 | 378 | 100.0 | /mnt/stockage/packages/f16/libmatecanvas/po/ta.po | 
+ | [te](/f16/language/te) | 378 | 378 | 100.0 | /mnt/stockage/packages/f16/libmatecanvas/po/te.po | 
+ | [th](/f16/language/th) | 378 | 378 | 100.0 | /mnt/stockage/packages/f16/libmatecanvas/po/th.po | 
+ | [tr](/f16/language/tr) | 378 | 378 | 100.0 | /mnt/stockage/packages/f16/libmatecanvas/po/tr.po | 
+ | [uk](/f16/language/uk) | 378 | 378 | 100.0 | /mnt/stockage/packages/f16/libmatecanvas/po/uk.po | 
+ | [vi](/f16/language/vi) | 378 | 378 | 100.0 | /mnt/stockage/packages/f16/libmatecanvas/po/vi.po | 
+ | [zh_Hans](/f16/language/zh_Hans) | 378 | 378 | 100.0 | /mnt/stockage/packages/f16/libmatecanvas/po/zh_CN.po | 
+ | [zh_Hant](/f16/language/zh_Hant) | 378 | 378 | 100.0 | /mnt/stockage/packages/f16/libmatecanvas/po/zh_TW.po | 
+ | [zh_Hant_HK](/f16/language/zh_Hant_HK) | 378 | 378 | 100.0 | /mnt/stockage/packages/f16/libmatecanvas/po/zh_HK.po | 
+ | [mg](/f16/language/mg) | 356 | 378 | 94.2 | /mnt/stockage/packages/f16/libmatecanvas/po/mg.po | 
+ | [az](/f16/language/az) | 353 | 378 | 93.4 | /mnt/stockage/packages/f16/libmatecanvas/po/az.po | 
+ | [be](/f16/language/be) | 353 | 378 | 93.4 | /mnt/stockage/packages/f16/libmatecanvas/po/be.po | 
+ | [bs](/f16/language/bs) | 353 | 378 | 93.4 | /mnt/stockage/packages/f16/libmatecanvas/po/bs.po | 
+ | [ms](/f16/language/ms) | 353 | 378 | 93.4 | /mnt/stockage/packages/f16/libmatecanvas/po/ms.po | 
+ | [tt](/f16/language/tt) | 353 | 378 | 93.4 | /mnt/stockage/packages/f16/libmatecanvas/po/tt.po | 
+ | [xh](/f16/language/xh) | 353 | 378 | 93.4 | /mnt/stockage/packages/f16/libmatecanvas/po/xh.po | 
+ | [fa](/f16/language/fa) | 340 | 378 | 89.9 | /mnt/stockage/packages/f16/libmatecanvas/po/fa.po | 
+ | [is](/f16/language/is) | 335 | 378 | 88.6 | /mnt/stockage/packages/f16/libmatecanvas/po/is.po | 
+ | [li](/f16/language/li) | 335 | 378 | 88.6 | /mnt/stockage/packages/f16/libmatecanvas/po/li.po | 
+ | [yi](/f16/language/yi) | 335 | 378 | 88.6 | /mnt/stockage/packages/f16/libmatecanvas/po/yi.po | 
+ | [wa](/f16/language/wa) | 324 | 378 | 85.7 | /mnt/stockage/packages/f16/libmatecanvas/po/wa.po | 
+ | [error](/f16/language/error) | 318 | 378 | 84.1 | /mnt/stockage/packages/f16/libmatecanvas/po/en@shaw.po | 
+ | [ga](/f16/language/ga) | 128 | 378 | 33.9 | /mnt/stockage/packages/f16/libmatecanvas/po/ga.po | 
+ | [am](/f16/language/am) | 41 | 378 | 10.8 | /mnt/stockage/packages/f16/libmatecanvas/po/am.po | 
+ | [br](/f16/language/br) | 30 | 378 | 7.9 | /mnt/stockage/packages/f16/libmatecanvas/po/br.po | 
+ | [oc](/f16/language/oc) | 29 | 378 | 7.7 | /mnt/stockage/packages/f16/libmatecanvas/po/oc.po | 
+ | [rw](/f16/language/rw) | 23 | 378 | 6.1 | /mnt/stockage/packages/f16/libmatecanvas/po/rw.po | 
+ | [ku](/f16/language/ku) | 16 | 378 | 4.2 | /mnt/stockage/packages/f16/libmatecanvas/po/ku.po | 
+ | [ang](/f16/language/ang) | 14 | 357 | 3.9 | /mnt/stockage/packages/f16/libmatecanvas/po/ang.po | 
 {.sortable}
 
 

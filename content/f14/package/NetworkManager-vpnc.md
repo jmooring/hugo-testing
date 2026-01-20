@@ -18,53 +18,53 @@ The package NetworkManager-vpnc (version 0.8.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [as]({{< ref "/f14/language/as.md" >}}) | 139 | 139 | 100.0 | /mnt/stockage/packages/f14/NetworkManager-vpnc/po/as.po | 
- | [bg]({{< ref "/f14/language/bg.md" >}}) | 143 | 143 | 100.0 | /mnt/stockage/packages/f14/NetworkManager-vpnc/po/bg.po | 
- | [bn_IN]({{< ref "/f14/language/bn_IN.md" >}}) | 139 | 139 | 100.0 | /mnt/stockage/packages/f14/NetworkManager-vpnc/po/bn_IN.po | 
- | [ca]({{< ref "/f14/language/ca.md" >}}) | 139 | 139 | 100.0 | /mnt/stockage/packages/f14/NetworkManager-vpnc/po/ca.po | 
- | [cs]({{< ref "/f14/language/cs.md" >}}) | 143 | 143 | 100.0 | /mnt/stockage/packages/f14/NetworkManager-vpnc/po/cs.po | 
- | [da]({{< ref "/f14/language/da.md" >}}) | 139 | 139 | 100.0 | /mnt/stockage/packages/f14/NetworkManager-vpnc/po/da.po | 
- | [de]({{< ref "/f14/language/de.md" >}}) | 143 | 143 | 100.0 | /mnt/stockage/packages/f14/NetworkManager-vpnc/po/de.po | 
- | [dz]({{< ref "/f14/language/dz.md" >}}) | 328 | 328 | 100.0 | /mnt/stockage/packages/f14/NetworkManager-vpnc/po/dz.po | 
- | [el]({{< ref "/f14/language/el.md" >}}) | 143 | 143 | 100.0 | /mnt/stockage/packages/f14/NetworkManager-vpnc/po/el.po | 
- | [en_GB]({{< ref "/f14/language/en_GB.md" >}}) | 303 | 303 | 100.0 | /mnt/stockage/packages/f14/NetworkManager-vpnc/po/en_GB.po | 
- | [es]({{< ref "/f14/language/es.md" >}}) | 143 | 143 | 100.0 | /mnt/stockage/packages/f14/NetworkManager-vpnc/po/es.po | 
- | [et]({{< ref "/f14/language/et.md" >}}) | 143 | 143 | 100.0 | /mnt/stockage/packages/f14/NetworkManager-vpnc/po/et.po | 
- | [eu]({{< ref "/f14/language/eu.md" >}}) | 143 | 143 | 100.0 | /mnt/stockage/packages/f14/NetworkManager-vpnc/po/eu.po | 
- | [fi]({{< ref "/f14/language/fi.md" >}}) | 144 | 144 | 100.0 | /mnt/stockage/packages/f14/NetworkManager-vpnc/po/fi.po | 
- | [fr]({{< ref "/f14/language/fr.md" >}}) | 143 | 143 | 100.0 | /mnt/stockage/packages/f14/NetworkManager-vpnc/po/fr.po | 
- | [gl]({{< ref "/f14/language/gl.md" >}}) | 143 | 143 | 100.0 | /mnt/stockage/packages/f14/NetworkManager-vpnc/po/gl.po | 
- | [gu]({{< ref "/f14/language/gu.md" >}}) | 139 | 139 | 100.0 | /mnt/stockage/packages/f14/NetworkManager-vpnc/po/gu.po | 
- | [hu]({{< ref "/f14/language/hu.md" >}}) | 143 | 143 | 100.0 | /mnt/stockage/packages/f14/NetworkManager-vpnc/po/hu.po | 
- | [id]({{< ref "/f14/language/id.md" >}}) | 143 | 143 | 100.0 | /mnt/stockage/packages/f14/NetworkManager-vpnc/po/id.po | 
- | [it]({{< ref "/f14/language/it.md" >}}) | 143 | 143 | 100.0 | /mnt/stockage/packages/f14/NetworkManager-vpnc/po/it.po | 
- | [ja]({{< ref "/f14/language/ja.md" >}}) | 347 | 347 | 100.0 | /mnt/stockage/packages/f14/NetworkManager-vpnc/po/ja.po | 
- | [ka]({{< ref "/f14/language/ka.md" >}}) | 328 | 328 | 100.0 | /mnt/stockage/packages/f14/NetworkManager-vpnc/po/ka.po | 
- | [kn]({{< ref "/f14/language/kn.md" >}}) | 139 | 139 | 100.0 | /mnt/stockage/packages/f14/NetworkManager-vpnc/po/kn.po | 
- | [ko]({{< ref "/f14/language/ko.md" >}}) | 376 | 376 | 100.0 | /mnt/stockage/packages/f14/NetworkManager-vpnc/po/ko.po | 
- | [lt]({{< ref "/f14/language/lt.md" >}}) | 143 | 143 | 100.0 | /mnt/stockage/packages/f14/NetworkManager-vpnc/po/lt.po | 
- | [lv]({{< ref "/f14/language/lv.md" >}}) | 143 | 143 | 100.0 | /mnt/stockage/packages/f14/NetworkManager-vpnc/po/lv.po | 
- | [mr]({{< ref "/f14/language/mr.md" >}}) | 139 | 139 | 100.0 | /mnt/stockage/packages/f14/NetworkManager-vpnc/po/mr.po | 
- | [nb_NO]({{< ref "/f14/language/nb_NO.md" >}}) | 303 | 303 | 100.0 | /mnt/stockage/packages/f14/NetworkManager-vpnc/po/nb.po | 
- | [nl]({{< ref "/f14/language/nl.md" >}}) | 139 | 139 | 100.0 | /mnt/stockage/packages/f14/NetworkManager-vpnc/po/nl.po | 
- | [or]({{< ref "/f14/language/or.md" >}}) | 139 | 139 | 100.0 | /mnt/stockage/packages/f14/NetworkManager-vpnc/po/or.po | 
- | [pa]({{< ref "/f14/language/pa.md" >}}) | 143 | 143 | 100.0 | /mnt/stockage/packages/f14/NetworkManager-vpnc/po/pa.po | 
- | [pl]({{< ref "/f14/language/pl.md" >}}) | 143 | 143 | 100.0 | /mnt/stockage/packages/f14/NetworkManager-vpnc/po/pl.po | 
- | [pt]({{< ref "/f14/language/pt.md" >}}) | 143 | 143 | 100.0 | /mnt/stockage/packages/f14/NetworkManager-vpnc/po/pt.po | 
- | [pt_BR]({{< ref "/f14/language/pt_BR.md" >}}) | 139 | 139 | 100.0 | /mnt/stockage/packages/f14/NetworkManager-vpnc/po/pt_BR.po | 
- | [ru]({{< ref "/f14/language/ru.md" >}}) | 143 | 143 | 100.0 | /mnt/stockage/packages/f14/NetworkManager-vpnc/po/ru.po | 
- | [sl]({{< ref "/f14/language/sl.md" >}}) | 143 | 143 | 100.0 | /mnt/stockage/packages/f14/NetworkManager-vpnc/po/sl.po | 
- | [sv]({{< ref "/f14/language/sv.md" >}}) | 143 | 143 | 100.0 | /mnt/stockage/packages/f14/NetworkManager-vpnc/po/sv.po | 
- | [ta]({{< ref "/f14/language/ta.md" >}}) | 139 | 139 | 100.0 | /mnt/stockage/packages/f14/NetworkManager-vpnc/po/ta.po | 
- | [te]({{< ref "/f14/language/te.md" >}}) | 139 | 139 | 100.0 | /mnt/stockage/packages/f14/NetworkManager-vpnc/po/te.po | 
- | [th]({{< ref "/f14/language/th.md" >}}) | 328 | 328 | 100.0 | /mnt/stockage/packages/f14/NetworkManager-vpnc/po/th.po | 
- | [uk]({{< ref "/f14/language/uk.md" >}}) | 143 | 143 | 100.0 | /mnt/stockage/packages/f14/NetworkManager-vpnc/po/uk.po | 
- | [vi]({{< ref "/f14/language/vi.md" >}}) | 303 | 303 | 100.0 | /mnt/stockage/packages/f14/NetworkManager-vpnc/po/vi.po | 
- | [zh_Hans]({{< ref "/f14/language/zh_Hans.md" >}}) | 139 | 139 | 100.0 | /mnt/stockage/packages/f14/NetworkManager-vpnc/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f14/language/zh_Hant.md" >}}) | 137 | 139 | 98.6 | /mnt/stockage/packages/f14/NetworkManager-vpnc/po/zh_TW.po | 
- | [zh_Hant_HK]({{< ref "/f14/language/zh_Hant_HK.md" >}}) | 137 | 139 | 98.6 | /mnt/stockage/packages/f14/NetworkManager-vpnc/po/zh_HK.po | 
- | [mk]({{< ref "/f14/language/mk.md" >}}) | 129 | 133 | 97.0 | /mnt/stockage/packages/f14/NetworkManager-vpnc/po/mk.po | 
- | [ar]({{< ref "/f14/language/ar.md" >}}) | 89 | 133 | 66.9 | /mnt/stockage/packages/f14/NetworkManager-vpnc/po/ar.po | 
+ | [as](/f14/language/as) | 139 | 139 | 100.0 | /mnt/stockage/packages/f14/NetworkManager-vpnc/po/as.po | 
+ | [bg](/f14/language/bg) | 143 | 143 | 100.0 | /mnt/stockage/packages/f14/NetworkManager-vpnc/po/bg.po | 
+ | [bn_IN](/f14/language/bn_IN) | 139 | 139 | 100.0 | /mnt/stockage/packages/f14/NetworkManager-vpnc/po/bn_IN.po | 
+ | [ca](/f14/language/ca) | 139 | 139 | 100.0 | /mnt/stockage/packages/f14/NetworkManager-vpnc/po/ca.po | 
+ | [cs](/f14/language/cs) | 143 | 143 | 100.0 | /mnt/stockage/packages/f14/NetworkManager-vpnc/po/cs.po | 
+ | [da](/f14/language/da) | 139 | 139 | 100.0 | /mnt/stockage/packages/f14/NetworkManager-vpnc/po/da.po | 
+ | [de](/f14/language/de) | 143 | 143 | 100.0 | /mnt/stockage/packages/f14/NetworkManager-vpnc/po/de.po | 
+ | [dz](/f14/language/dz) | 328 | 328 | 100.0 | /mnt/stockage/packages/f14/NetworkManager-vpnc/po/dz.po | 
+ | [el](/f14/language/el) | 143 | 143 | 100.0 | /mnt/stockage/packages/f14/NetworkManager-vpnc/po/el.po | 
+ | [en_GB](/f14/language/en_GB) | 303 | 303 | 100.0 | /mnt/stockage/packages/f14/NetworkManager-vpnc/po/en_GB.po | 
+ | [es](/f14/language/es) | 143 | 143 | 100.0 | /mnt/stockage/packages/f14/NetworkManager-vpnc/po/es.po | 
+ | [et](/f14/language/et) | 143 | 143 | 100.0 | /mnt/stockage/packages/f14/NetworkManager-vpnc/po/et.po | 
+ | [eu](/f14/language/eu) | 143 | 143 | 100.0 | /mnt/stockage/packages/f14/NetworkManager-vpnc/po/eu.po | 
+ | [fi](/f14/language/fi) | 144 | 144 | 100.0 | /mnt/stockage/packages/f14/NetworkManager-vpnc/po/fi.po | 
+ | [fr](/f14/language/fr) | 143 | 143 | 100.0 | /mnt/stockage/packages/f14/NetworkManager-vpnc/po/fr.po | 
+ | [gl](/f14/language/gl) | 143 | 143 | 100.0 | /mnt/stockage/packages/f14/NetworkManager-vpnc/po/gl.po | 
+ | [gu](/f14/language/gu) | 139 | 139 | 100.0 | /mnt/stockage/packages/f14/NetworkManager-vpnc/po/gu.po | 
+ | [hu](/f14/language/hu) | 143 | 143 | 100.0 | /mnt/stockage/packages/f14/NetworkManager-vpnc/po/hu.po | 
+ | [id](/f14/language/id) | 143 | 143 | 100.0 | /mnt/stockage/packages/f14/NetworkManager-vpnc/po/id.po | 
+ | [it](/f14/language/it) | 143 | 143 | 100.0 | /mnt/stockage/packages/f14/NetworkManager-vpnc/po/it.po | 
+ | [ja](/f14/language/ja) | 347 | 347 | 100.0 | /mnt/stockage/packages/f14/NetworkManager-vpnc/po/ja.po | 
+ | [ka](/f14/language/ka) | 328 | 328 | 100.0 | /mnt/stockage/packages/f14/NetworkManager-vpnc/po/ka.po | 
+ | [kn](/f14/language/kn) | 139 | 139 | 100.0 | /mnt/stockage/packages/f14/NetworkManager-vpnc/po/kn.po | 
+ | [ko](/f14/language/ko) | 376 | 376 | 100.0 | /mnt/stockage/packages/f14/NetworkManager-vpnc/po/ko.po | 
+ | [lt](/f14/language/lt) | 143 | 143 | 100.0 | /mnt/stockage/packages/f14/NetworkManager-vpnc/po/lt.po | 
+ | [lv](/f14/language/lv) | 143 | 143 | 100.0 | /mnt/stockage/packages/f14/NetworkManager-vpnc/po/lv.po | 
+ | [mr](/f14/language/mr) | 139 | 139 | 100.0 | /mnt/stockage/packages/f14/NetworkManager-vpnc/po/mr.po | 
+ | [nb_NO](/f14/language/nb_NO) | 303 | 303 | 100.0 | /mnt/stockage/packages/f14/NetworkManager-vpnc/po/nb.po | 
+ | [nl](/f14/language/nl) | 139 | 139 | 100.0 | /mnt/stockage/packages/f14/NetworkManager-vpnc/po/nl.po | 
+ | [or](/f14/language/or) | 139 | 139 | 100.0 | /mnt/stockage/packages/f14/NetworkManager-vpnc/po/or.po | 
+ | [pa](/f14/language/pa) | 143 | 143 | 100.0 | /mnt/stockage/packages/f14/NetworkManager-vpnc/po/pa.po | 
+ | [pl](/f14/language/pl) | 143 | 143 | 100.0 | /mnt/stockage/packages/f14/NetworkManager-vpnc/po/pl.po | 
+ | [pt](/f14/language/pt) | 143 | 143 | 100.0 | /mnt/stockage/packages/f14/NetworkManager-vpnc/po/pt.po | 
+ | [pt_BR](/f14/language/pt_BR) | 139 | 139 | 100.0 | /mnt/stockage/packages/f14/NetworkManager-vpnc/po/pt_BR.po | 
+ | [ru](/f14/language/ru) | 143 | 143 | 100.0 | /mnt/stockage/packages/f14/NetworkManager-vpnc/po/ru.po | 
+ | [sl](/f14/language/sl) | 143 | 143 | 100.0 | /mnt/stockage/packages/f14/NetworkManager-vpnc/po/sl.po | 
+ | [sv](/f14/language/sv) | 143 | 143 | 100.0 | /mnt/stockage/packages/f14/NetworkManager-vpnc/po/sv.po | 
+ | [ta](/f14/language/ta) | 139 | 139 | 100.0 | /mnt/stockage/packages/f14/NetworkManager-vpnc/po/ta.po | 
+ | [te](/f14/language/te) | 139 | 139 | 100.0 | /mnt/stockage/packages/f14/NetworkManager-vpnc/po/te.po | 
+ | [th](/f14/language/th) | 328 | 328 | 100.0 | /mnt/stockage/packages/f14/NetworkManager-vpnc/po/th.po | 
+ | [uk](/f14/language/uk) | 143 | 143 | 100.0 | /mnt/stockage/packages/f14/NetworkManager-vpnc/po/uk.po | 
+ | [vi](/f14/language/vi) | 303 | 303 | 100.0 | /mnt/stockage/packages/f14/NetworkManager-vpnc/po/vi.po | 
+ | [zh_Hans](/f14/language/zh_Hans) | 139 | 139 | 100.0 | /mnt/stockage/packages/f14/NetworkManager-vpnc/po/zh_CN.po | 
+ | [zh_Hant](/f14/language/zh_Hant) | 137 | 139 | 98.6 | /mnt/stockage/packages/f14/NetworkManager-vpnc/po/zh_TW.po | 
+ | [zh_Hant_HK](/f14/language/zh_Hant_HK) | 137 | 139 | 98.6 | /mnt/stockage/packages/f14/NetworkManager-vpnc/po/zh_HK.po | 
+ | [mk](/f14/language/mk) | 129 | 133 | 97.0 | /mnt/stockage/packages/f14/NetworkManager-vpnc/po/mk.po | 
+ | [ar](/f14/language/ar) | 89 | 133 | 66.9 | /mnt/stockage/packages/f14/NetworkManager-vpnc/po/ar.po | 
 {.sortable}
 
 

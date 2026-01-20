@@ -18,31 +18,31 @@ The package gambas (version 1.0.19):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [en]({{< ref "/f8/language/en.md" >}}) | 415 | 415 | 100.0 | /mnt/stockage/packages/f8/gambas/examples/Games/Concent/.lang/en.po | 
- | [pl]({{< ref "/f8/language/pl.md" >}}) | 2435 | 2435 | 100.0 | /mnt/stockage/packages/f8/gambas/app/gambas-database-manager/.lang/pl.po/mnt/stockage/packages/f8/gambas/app/gambas/.lang/pl.po | 
- | [ru]({{< ref "/f8/language/ru.md" >}}) | 2475 | 2475 | 100.0 | /mnt/stockage/packages/f8/gambas/app/gambas-database-manager/.lang/ru.po/mnt/stockage/packages/f8/gambas/app/gambas/.lang/ru.po | 
- | [hu]({{< ref "/f8/language/hu.md" >}}) | 1885 | 1887 | 99.9 | /mnt/stockage/packages/f8/gambas/app/gambas/.lang/hu.po | 
- | [sv]({{< ref "/f8/language/sv.md" >}}) | 2472 | 2475 | 99.9 | /mnt/stockage/packages/f8/gambas/app/gambas-database-manager/.lang/sv.po/mnt/stockage/packages/f8/gambas/app/gambas/.lang/sv.po | 
- | [pt]({{< ref "/f8/language/pt.md" >}}) | 1898 | 1901 | 99.8 | /mnt/stockage/packages/f8/gambas/app/gambas/.lang/pt.po | 
- | [hr]({{< ref "/f8/language/hr.md" >}}) | 1883 | 1886 | 99.8 | /mnt/stockage/packages/f8/gambas/app/gambas/.lang/hr.po | 
- | [es]({{< ref "/f8/language/es.md" >}}) | 2486 | 2491 | 99.8 | /mnt/stockage/packages/f8/gambas/app/gambas-database-manager/.lang/es.po/mnt/stockage/packages/f8/gambas/app/gambas/.lang/es.po/mnt/stockage/packages/f8/gambas/examples/Networking/UDPServerClient/.lang/es.po | 
- | [ja]({{< ref "/f8/language/ja.md" >}}) | 2446 | 2452 | 99.8 | /mnt/stockage/packages/f8/gambas/app/gambas-database-manager/.lang/ja.po/mnt/stockage/packages/f8/gambas/app/gambas/.lang/ja.po | 
- | [id]({{< ref "/f8/language/id.md" >}}) | 1896 | 1901 | 99.7 | /mnt/stockage/packages/f8/gambas/app/gambas/.lang/id.po | 
- | [it]({{< ref "/f8/language/it.md" >}}) | 2454 | 2464 | 99.6 | /mnt/stockage/packages/f8/gambas/app/gambas-database-manager/.lang/it.po/mnt/stockage/packages/f8/gambas/app/gambas/.lang/it.po | 
- | [pt_BR]({{< ref "/f8/language/pt_BR.md" >}}) | 2434 | 2446 | 99.5 | /mnt/stockage/packages/f8/gambas/app/gambas-database-manager/.lang/pt_BR.po/mnt/stockage/packages/f8/gambas/app/gambas/.lang/pt_BR.po | 
- | [tr]({{< ref "/f8/language/tr.md" >}}) | 2453 | 2473 | 99.2 | /mnt/stockage/packages/f8/gambas/app/gambas-database-manager/.lang/tr.po/mnt/stockage/packages/f8/gambas/app/gambas/.lang/tr.po | 
- | [cs]({{< ref "/f8/language/cs.md" >}}) | 1871 | 1903 | 98.3 | /mnt/stockage/packages/f8/gambas/app/gambas/.lang/cs.po | 
- | [zh_Hans]({{< ref "/f8/language/zh_Hans.md" >}}) | 2390 | 2431 | 98.3 | /mnt/stockage/packages/f8/gambas/app/gambas-database-manager/.lang/zh.po/mnt/stockage/packages/f8/gambas/app/gambas/.lang/zh.po | 
- | [de]({{< ref "/f8/language/de.md" >}}) | 2421 | 2471 | 98.0 | /mnt/stockage/packages/f8/gambas/app/gambas-database-manager/.lang/de.po/mnt/stockage/packages/f8/gambas/app/gambas/.lang/de.po | 
- | [sl]({{< ref "/f8/language/sl.md" >}}) | 1836 | 1901 | 96.6 | /mnt/stockage/packages/f8/gambas/app/gambas/.lang/sl.po | 
- | [nl]({{< ref "/f8/language/nl.md" >}}) | 2345 | 2431 | 96.5 | /mnt/stockage/packages/f8/gambas/app/gambas-database-manager/.lang/nl.po/mnt/stockage/packages/f8/gambas/app/gambas/.lang/nl.po | 
- | [zh_Hant]({{< ref "/f8/language/zh_Hant.md" >}}) | 2304 | 2436 | 94.6 | /mnt/stockage/packages/f8/gambas/app/gambas-database-manager/.lang/zh_TW.po/mnt/stockage/packages/f8/gambas/app/gambas/.lang/zh_TW.po | 
- | [fr]({{< ref "/f8/language/fr.md" >}}) | 2312 | 2477 | 93.3 | /mnt/stockage/packages/f8/gambas/app/gambas-database-manager/.lang/fr.po/mnt/stockage/packages/f8/gambas/app/gambas/.lang/fr.po/mnt/stockage/packages/f8/gambas/examples/Basic/Blights/.lang/fr.po/mnt/stockage/packages/f8/gambas/examples/Exec/Console/.lang/fr.po | 
- | [nb_NO]({{< ref "/f8/language/nb_NO.md" >}}) | 2171 | 2435 | 89.2 | /mnt/stockage/packages/f8/gambas/app/gambas-database-manager/.lang/no.po/mnt/stockage/packages/f8/gambas/app/gambas/.lang/no.po | 
- | [cy]({{< ref "/f8/language/cy.md" >}}) | 1229 | 1886 | 65.2 | /mnt/stockage/packages/f8/gambas/app/gambas/.lang/cy.po | 
- | [gl]({{< ref "/f8/language/gl.md" >}}) | 1212 | 1886 | 64.3 | /mnt/stockage/packages/f8/gambas/app/gambas/.lang/gl_ES.po | 
- | [ar]({{< ref "/f8/language/ar.md" >}}) | 987 | 1887 | 52.3 | /mnt/stockage/packages/f8/gambas/app/gambas/.lang/ar.po | 
- | [gd]({{< ref "/f8/language/gd.md" >}}) | 0 | 1891 | 0.0 | /mnt/stockage/packages/f8/gambas/app/gambas/.lang/gd_GB.po | 
+ | [en](/f8/language/en) | 415 | 415 | 100.0 | /mnt/stockage/packages/f8/gambas/examples/Games/Concent/.lang/en.po | 
+ | [pl](/f8/language/pl) | 2435 | 2435 | 100.0 | /mnt/stockage/packages/f8/gambas/app/gambas-database-manager/.lang/pl.po/mnt/stockage/packages/f8/gambas/app/gambas/.lang/pl.po | 
+ | [ru](/f8/language/ru) | 2475 | 2475 | 100.0 | /mnt/stockage/packages/f8/gambas/app/gambas-database-manager/.lang/ru.po/mnt/stockage/packages/f8/gambas/app/gambas/.lang/ru.po | 
+ | [hu](/f8/language/hu) | 1885 | 1887 | 99.9 | /mnt/stockage/packages/f8/gambas/app/gambas/.lang/hu.po | 
+ | [sv](/f8/language/sv) | 2472 | 2475 | 99.9 | /mnt/stockage/packages/f8/gambas/app/gambas-database-manager/.lang/sv.po/mnt/stockage/packages/f8/gambas/app/gambas/.lang/sv.po | 
+ | [pt](/f8/language/pt) | 1898 | 1901 | 99.8 | /mnt/stockage/packages/f8/gambas/app/gambas/.lang/pt.po | 
+ | [hr](/f8/language/hr) | 1883 | 1886 | 99.8 | /mnt/stockage/packages/f8/gambas/app/gambas/.lang/hr.po | 
+ | [es](/f8/language/es) | 2486 | 2491 | 99.8 | /mnt/stockage/packages/f8/gambas/app/gambas-database-manager/.lang/es.po/mnt/stockage/packages/f8/gambas/app/gambas/.lang/es.po/mnt/stockage/packages/f8/gambas/examples/Networking/UDPServerClient/.lang/es.po | 
+ | [ja](/f8/language/ja) | 2446 | 2452 | 99.8 | /mnt/stockage/packages/f8/gambas/app/gambas-database-manager/.lang/ja.po/mnt/stockage/packages/f8/gambas/app/gambas/.lang/ja.po | 
+ | [id](/f8/language/id) | 1896 | 1901 | 99.7 | /mnt/stockage/packages/f8/gambas/app/gambas/.lang/id.po | 
+ | [it](/f8/language/it) | 2454 | 2464 | 99.6 | /mnt/stockage/packages/f8/gambas/app/gambas-database-manager/.lang/it.po/mnt/stockage/packages/f8/gambas/app/gambas/.lang/it.po | 
+ | [pt_BR](/f8/language/pt_BR) | 2434 | 2446 | 99.5 | /mnt/stockage/packages/f8/gambas/app/gambas-database-manager/.lang/pt_BR.po/mnt/stockage/packages/f8/gambas/app/gambas/.lang/pt_BR.po | 
+ | [tr](/f8/language/tr) | 2453 | 2473 | 99.2 | /mnt/stockage/packages/f8/gambas/app/gambas-database-manager/.lang/tr.po/mnt/stockage/packages/f8/gambas/app/gambas/.lang/tr.po | 
+ | [cs](/f8/language/cs) | 1871 | 1903 | 98.3 | /mnt/stockage/packages/f8/gambas/app/gambas/.lang/cs.po | 
+ | [zh_Hans](/f8/language/zh_Hans) | 2390 | 2431 | 98.3 | /mnt/stockage/packages/f8/gambas/app/gambas-database-manager/.lang/zh.po/mnt/stockage/packages/f8/gambas/app/gambas/.lang/zh.po | 
+ | [de](/f8/language/de) | 2421 | 2471 | 98.0 | /mnt/stockage/packages/f8/gambas/app/gambas-database-manager/.lang/de.po/mnt/stockage/packages/f8/gambas/app/gambas/.lang/de.po | 
+ | [sl](/f8/language/sl) | 1836 | 1901 | 96.6 | /mnt/stockage/packages/f8/gambas/app/gambas/.lang/sl.po | 
+ | [nl](/f8/language/nl) | 2345 | 2431 | 96.5 | /mnt/stockage/packages/f8/gambas/app/gambas-database-manager/.lang/nl.po/mnt/stockage/packages/f8/gambas/app/gambas/.lang/nl.po | 
+ | [zh_Hant](/f8/language/zh_Hant) | 2304 | 2436 | 94.6 | /mnt/stockage/packages/f8/gambas/app/gambas-database-manager/.lang/zh_TW.po/mnt/stockage/packages/f8/gambas/app/gambas/.lang/zh_TW.po | 
+ | [fr](/f8/language/fr) | 2312 | 2477 | 93.3 | /mnt/stockage/packages/f8/gambas/app/gambas-database-manager/.lang/fr.po/mnt/stockage/packages/f8/gambas/app/gambas/.lang/fr.po/mnt/stockage/packages/f8/gambas/examples/Basic/Blights/.lang/fr.po/mnt/stockage/packages/f8/gambas/examples/Exec/Console/.lang/fr.po | 
+ | [nb_NO](/f8/language/nb_NO) | 2171 | 2435 | 89.2 | /mnt/stockage/packages/f8/gambas/app/gambas-database-manager/.lang/no.po/mnt/stockage/packages/f8/gambas/app/gambas/.lang/no.po | 
+ | [cy](/f8/language/cy) | 1229 | 1886 | 65.2 | /mnt/stockage/packages/f8/gambas/app/gambas/.lang/cy.po | 
+ | [gl](/f8/language/gl) | 1212 | 1886 | 64.3 | /mnt/stockage/packages/f8/gambas/app/gambas/.lang/gl_ES.po | 
+ | [ar](/f8/language/ar) | 987 | 1887 | 52.3 | /mnt/stockage/packages/f8/gambas/app/gambas/.lang/ar.po | 
+ | [gd](/f8/language/gd) | 0 | 1891 | 0.0 | /mnt/stockage/packages/f8/gambas/app/gambas/.lang/gd_GB.po | 
 {.sortable}
 
 

@@ -18,8 +18,8 @@ The package ctpl (version 0.3.5):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [it]({{< ref "/f43/language/it.md" >}}) | 400 | 400 | 100.0 | /mnt/stockage/packages/f43/ctpl/po/it.po | 
- | [fr]({{< ref "/f43/language/fr.md" >}}) | 391 | 400 | 97.8 | /mnt/stockage/packages/f43/ctpl/po/fr.po | 
+ | [it](/f43/language/it) | 400 | 400 | 100.0 | /mnt/stockage/packages/f43/ctpl/po/it.po | 
+ | [fr](/f43/language/fr) | 391 | 400 | 97.8 | /mnt/stockage/packages/f43/ctpl/po/fr.po | 
 {.sortable}
 
 

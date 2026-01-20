@@ -18,11 +18,11 @@ The package partclone (version 0.3.20):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [pt_BR]({{< ref "/f34/language/pt_BR.md" >}}) | 202 | 229 | 88.2 | /mnt/stockage/packages/f34/partclone/po/pt_BR.po | 
- | [vi]({{< ref "/f34/language/vi.md" >}}) | 167 | 229 | 72.9 | /mnt/stockage/packages/f34/partclone/po/vi.po | 
- | [zh_Hans]({{< ref "/f34/language/zh_Hans.md" >}}) | 129 | 229 | 56.3 | /mnt/stockage/packages/f34/partclone/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f34/language/zh_Hant.md" >}}) | 129 | 229 | 56.3 | /mnt/stockage/packages/f34/partclone/po/zh_TW.po | 
- | [fr]({{< ref "/f34/language/fr.md" >}}) | 91 | 229 | 39.7 | /mnt/stockage/packages/f34/partclone/po/fr_FR.po | 
+ | [pt_BR](/f34/language/pt_BR) | 202 | 229 | 88.2 | /mnt/stockage/packages/f34/partclone/po/pt_BR.po | 
+ | [vi](/f34/language/vi) | 167 | 229 | 72.9 | /mnt/stockage/packages/f34/partclone/po/vi.po | 
+ | [zh_Hans](/f34/language/zh_Hans) | 129 | 229 | 56.3 | /mnt/stockage/packages/f34/partclone/po/zh_CN.po | 
+ | [zh_Hant](/f34/language/zh_Hant) | 129 | 229 | 56.3 | /mnt/stockage/packages/f34/partclone/po/zh_TW.po | 
+ | [fr](/f34/language/fr) | 91 | 229 | 39.7 | /mnt/stockage/packages/f34/partclone/po/fr_FR.po | 
 {.sortable}
 
 

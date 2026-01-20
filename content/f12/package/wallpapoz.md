@@ -18,19 +18,19 @@ The package wallpapoz (version 0.4.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f12/language/cs.md" >}}) | 400 | 400 | 100.0 | /mnt/stockage/packages/f12/wallpapoz/share/locale/cs/LC_MESSAGES/wallpapoz.po | 
- | [de]({{< ref "/f12/language/de.md" >}}) | 395 | 395 | 100.0 | /mnt/stockage/packages/f12/wallpapoz/share/locale/de/LC_MESSAGES/wallpapoz.po | 
- | [es]({{< ref "/f12/language/es.md" >}}) | 395 | 395 | 100.0 | /mnt/stockage/packages/f12/wallpapoz/share/locale/es/LC_MESSAGES/wallpapoz.po | 
- | [fr]({{< ref "/f12/language/fr.md" >}}) | 395 | 395 | 100.0 | /mnt/stockage/packages/f12/wallpapoz/share/locale/fr/LC_MESSAGES/wallpapoz.po | 
- | [hu]({{< ref "/f12/language/hu.md" >}}) | 395 | 395 | 100.0 | /mnt/stockage/packages/f12/wallpapoz/share/locale/hu/LC_MESSAGES/wallpapoz.po | 
- | [id]({{< ref "/f12/language/id.md" >}}) | 400 | 400 | 100.0 | /mnt/stockage/packages/f12/wallpapoz/share/locale/id/LC_MESSAGES/wallpapoz.po | 
- | [it]({{< ref "/f12/language/it.md" >}}) | 395 | 395 | 100.0 | /mnt/stockage/packages/f12/wallpapoz/share/locale/it/LC_MESSAGES/wallpapoz.po | 
- | [ja]({{< ref "/f12/language/ja.md" >}}) | 395 | 395 | 100.0 | /mnt/stockage/packages/f12/wallpapoz/share/locale/ja/LC_MESSAGES/wallpapoz.po | 
- | [pl]({{< ref "/f12/language/pl.md" >}}) | 400 | 400 | 100.0 | /mnt/stockage/packages/f12/wallpapoz/share/locale/pl/LC_MESSAGES/wallpapoz.po | 
- | [sv]({{< ref "/f12/language/sv.md" >}}) | 395 | 395 | 100.0 | /mnt/stockage/packages/f12/wallpapoz/share/locale/sv/LC_MESSAGES/wallpapoz.po | 
- | [tr]({{< ref "/f12/language/tr.md" >}}) | 395 | 395 | 100.0 | /mnt/stockage/packages/f12/wallpapoz/share/locale/tr/LC_MESSAGES/wallpapoz.po | 
- | [zh_Hans]({{< ref "/f12/language/zh_Hans.md" >}}) | 395 | 395 | 100.0 | /mnt/stockage/packages/f12/wallpapoz/share/locale/zh_CN/LC_MESSAGES/wallpapoz.po | 
- | [ru]({{< ref "/f12/language/ru.md" >}}) | 387 | 395 | 98.0 | /mnt/stockage/packages/f12/wallpapoz/share/locale/ru/LC_MESSAGES/wallpapoz.po | 
+ | [cs](/f12/language/cs) | 400 | 400 | 100.0 | /mnt/stockage/packages/f12/wallpapoz/share/locale/cs/LC_MESSAGES/wallpapoz.po | 
+ | [de](/f12/language/de) | 395 | 395 | 100.0 | /mnt/stockage/packages/f12/wallpapoz/share/locale/de/LC_MESSAGES/wallpapoz.po | 
+ | [es](/f12/language/es) | 395 | 395 | 100.0 | /mnt/stockage/packages/f12/wallpapoz/share/locale/es/LC_MESSAGES/wallpapoz.po | 
+ | [fr](/f12/language/fr) | 395 | 395 | 100.0 | /mnt/stockage/packages/f12/wallpapoz/share/locale/fr/LC_MESSAGES/wallpapoz.po | 
+ | [hu](/f12/language/hu) | 395 | 395 | 100.0 | /mnt/stockage/packages/f12/wallpapoz/share/locale/hu/LC_MESSAGES/wallpapoz.po | 
+ | [id](/f12/language/id) | 400 | 400 | 100.0 | /mnt/stockage/packages/f12/wallpapoz/share/locale/id/LC_MESSAGES/wallpapoz.po | 
+ | [it](/f12/language/it) | 395 | 395 | 100.0 | /mnt/stockage/packages/f12/wallpapoz/share/locale/it/LC_MESSAGES/wallpapoz.po | 
+ | [ja](/f12/language/ja) | 395 | 395 | 100.0 | /mnt/stockage/packages/f12/wallpapoz/share/locale/ja/LC_MESSAGES/wallpapoz.po | 
+ | [pl](/f12/language/pl) | 400 | 400 | 100.0 | /mnt/stockage/packages/f12/wallpapoz/share/locale/pl/LC_MESSAGES/wallpapoz.po | 
+ | [sv](/f12/language/sv) | 395 | 395 | 100.0 | /mnt/stockage/packages/f12/wallpapoz/share/locale/sv/LC_MESSAGES/wallpapoz.po | 
+ | [tr](/f12/language/tr) | 395 | 395 | 100.0 | /mnt/stockage/packages/f12/wallpapoz/share/locale/tr/LC_MESSAGES/wallpapoz.po | 
+ | [zh_Hans](/f12/language/zh_Hans) | 395 | 395 | 100.0 | /mnt/stockage/packages/f12/wallpapoz/share/locale/zh_CN/LC_MESSAGES/wallpapoz.po | 
+ | [ru](/f12/language/ru) | 387 | 395 | 98.0 | /mnt/stockage/packages/f12/wallpapoz/share/locale/ru/LC_MESSAGES/wallpapoz.po | 
 {.sortable}
 
 

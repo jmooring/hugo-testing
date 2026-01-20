@@ -18,40 +18,40 @@ The package xfce4-mount-plugin (version 0.6.7):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [es]({{< ref "/f22/language/es.md" >}}) | 362 | 362 | 100.0 | /mnt/stockage/packages/f22/xfce4-mount-plugin/po/es.po | 
- | [nl]({{< ref "/f22/language/nl.md" >}}) | 362 | 362 | 100.0 | /mnt/stockage/packages/f22/xfce4-mount-plugin/po/nl.po | 
- | [ru]({{< ref "/f22/language/ru.md" >}}) | 341 | 341 | 100.0 | /mnt/stockage/packages/f22/xfce4-mount-plugin/po/ru.po | 
- | [ar]({{< ref "/f22/language/ar.md" >}}) | 338 | 341 | 99.1 | /mnt/stockage/packages/f22/xfce4-mount-plugin/po/ar.po | 
- | [ast]({{< ref "/f22/language/ast.md" >}}) | 338 | 341 | 99.1 | /mnt/stockage/packages/f22/xfce4-mount-plugin/po/ast.po | 
- | [cs]({{< ref "/f22/language/cs.md" >}}) | 338 | 341 | 99.1 | /mnt/stockage/packages/f22/xfce4-mount-plugin/po/cs.po | 
- | [da]({{< ref "/f22/language/da.md" >}}) | 338 | 341 | 99.1 | /mnt/stockage/packages/f22/xfce4-mount-plugin/po/da.po | 
- | [de]({{< ref "/f22/language/de.md" >}}) | 338 | 341 | 99.1 | /mnt/stockage/packages/f22/xfce4-mount-plugin/po/de.po | 
- | [el]({{< ref "/f22/language/el.md" >}}) | 338 | 341 | 99.1 | /mnt/stockage/packages/f22/xfce4-mount-plugin/po/el.po | 
- | [eu]({{< ref "/f22/language/eu.md" >}}) | 338 | 341 | 99.1 | /mnt/stockage/packages/f22/xfce4-mount-plugin/po/eu.po | 
- | [fr]({{< ref "/f22/language/fr.md" >}}) | 338 | 341 | 99.1 | /mnt/stockage/packages/f22/xfce4-mount-plugin/po/fr.po | 
- | [hu]({{< ref "/f22/language/hu.md" >}}) | 338 | 341 | 99.1 | /mnt/stockage/packages/f22/xfce4-mount-plugin/po/hu.po | 
- | [id]({{< ref "/f22/language/id.md" >}}) | 338 | 341 | 99.1 | /mnt/stockage/packages/f22/xfce4-mount-plugin/po/id.po | 
- | [ja]({{< ref "/f22/language/ja.md" >}}) | 338 | 341 | 99.1 | /mnt/stockage/packages/f22/xfce4-mount-plugin/po/ja.po | 
- | [ko]({{< ref "/f22/language/ko.md" >}}) | 338 | 341 | 99.1 | /mnt/stockage/packages/f22/xfce4-mount-plugin/po/ko.po | 
- | [pl]({{< ref "/f22/language/pl.md" >}}) | 338 | 341 | 99.1 | /mnt/stockage/packages/f22/xfce4-mount-plugin/po/pl.po | 
- | [pt]({{< ref "/f22/language/pt.md" >}}) | 338 | 341 | 99.1 | /mnt/stockage/packages/f22/xfce4-mount-plugin/po/pt.po | 
- | [pt_BR]({{< ref "/f22/language/pt_BR.md" >}}) | 338 | 341 | 99.1 | /mnt/stockage/packages/f22/xfce4-mount-plugin/po/pt_BR.po | 
- | [sv]({{< ref "/f22/language/sv.md" >}}) | 338 | 341 | 99.1 | /mnt/stockage/packages/f22/xfce4-mount-plugin/po/sv.po | 
- | [tr]({{< ref "/f22/language/tr.md" >}}) | 338 | 341 | 99.1 | /mnt/stockage/packages/f22/xfce4-mount-plugin/po/tr.po | 
- | [uk]({{< ref "/f22/language/uk.md" >}}) | 338 | 341 | 99.1 | /mnt/stockage/packages/f22/xfce4-mount-plugin/po/uk.po | 
- | [zh_Hans]({{< ref "/f22/language/zh_Hans.md" >}}) | 338 | 341 | 99.1 | /mnt/stockage/packages/f22/xfce4-mount-plugin/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f22/language/zh_Hant.md" >}}) | 338 | 341 | 99.1 | /mnt/stockage/packages/f22/xfce4-mount-plugin/po/zh_TW.po | 
- | [en_GB]({{< ref "/f22/language/en_GB.md" >}}) | 305 | 341 | 89.4 | /mnt/stockage/packages/f22/xfce4-mount-plugin/po/en_GB.po | 
- | [lt]({{< ref "/f22/language/lt.md" >}}) | 305 | 341 | 89.4 | /mnt/stockage/packages/f22/xfce4-mount-plugin/po/lt.po | 
- | [fi]({{< ref "/f22/language/fi.md" >}}) | 303 | 341 | 88.9 | /mnt/stockage/packages/f22/xfce4-mount-plugin/po/fi.po | 
- | [ca]({{< ref "/f22/language/ca.md" >}}) | 294 | 341 | 86.2 | /mnt/stockage/packages/f22/xfce4-mount-plugin/po/ca.po | 
- | [gl]({{< ref "/f22/language/gl.md" >}}) | 294 | 341 | 86.2 | /mnt/stockage/packages/f22/xfce4-mount-plugin/po/gl.po | 
- | [nb_NO]({{< ref "/f22/language/nb_NO.md" >}}) | 294 | 341 | 86.2 | /mnt/stockage/packages/f22/xfce4-mount-plugin/po/nb.po | 
- | [it]({{< ref "/f22/language/it.md" >}}) | 311 | 362 | 85.9 | /mnt/stockage/packages/f22/xfce4-mount-plugin/po/it.po | 
- | [lv]({{< ref "/f22/language/lv.md" >}}) | 244 | 341 | 71.6 | /mnt/stockage/packages/f22/xfce4-mount-plugin/po/lv.po | 
- | [ur]({{< ref "/f22/language/ur.md" >}}) | 488 | 682 | 71.6 | /mnt/stockage/packages/f22/xfce4-mount-plugin/po/ur.po/mnt/stockage/packages/f22/xfce4-mount-plugin/po/ur_PK.po | 
- | [sq]({{< ref "/f22/language/sq.md" >}}) | 242 | 341 | 71.0 | /mnt/stockage/packages/f22/xfce4-mount-plugin/po/sq.po | 
- | [vi]({{< ref "/f22/language/vi.md" >}}) | 39 | 341 | 11.4 | /mnt/stockage/packages/f22/xfce4-mount-plugin/po/vi.po | 
+ | [es](/f22/language/es) | 362 | 362 | 100.0 | /mnt/stockage/packages/f22/xfce4-mount-plugin/po/es.po | 
+ | [nl](/f22/language/nl) | 362 | 362 | 100.0 | /mnt/stockage/packages/f22/xfce4-mount-plugin/po/nl.po | 
+ | [ru](/f22/language/ru) | 341 | 341 | 100.0 | /mnt/stockage/packages/f22/xfce4-mount-plugin/po/ru.po | 
+ | [ar](/f22/language/ar) | 338 | 341 | 99.1 | /mnt/stockage/packages/f22/xfce4-mount-plugin/po/ar.po | 
+ | [ast](/f22/language/ast) | 338 | 341 | 99.1 | /mnt/stockage/packages/f22/xfce4-mount-plugin/po/ast.po | 
+ | [cs](/f22/language/cs) | 338 | 341 | 99.1 | /mnt/stockage/packages/f22/xfce4-mount-plugin/po/cs.po | 
+ | [da](/f22/language/da) | 338 | 341 | 99.1 | /mnt/stockage/packages/f22/xfce4-mount-plugin/po/da.po | 
+ | [de](/f22/language/de) | 338 | 341 | 99.1 | /mnt/stockage/packages/f22/xfce4-mount-plugin/po/de.po | 
+ | [el](/f22/language/el) | 338 | 341 | 99.1 | /mnt/stockage/packages/f22/xfce4-mount-plugin/po/el.po | 
+ | [eu](/f22/language/eu) | 338 | 341 | 99.1 | /mnt/stockage/packages/f22/xfce4-mount-plugin/po/eu.po | 
+ | [fr](/f22/language/fr) | 338 | 341 | 99.1 | /mnt/stockage/packages/f22/xfce4-mount-plugin/po/fr.po | 
+ | [hu](/f22/language/hu) | 338 | 341 | 99.1 | /mnt/stockage/packages/f22/xfce4-mount-plugin/po/hu.po | 
+ | [id](/f22/language/id) | 338 | 341 | 99.1 | /mnt/stockage/packages/f22/xfce4-mount-plugin/po/id.po | 
+ | [ja](/f22/language/ja) | 338 | 341 | 99.1 | /mnt/stockage/packages/f22/xfce4-mount-plugin/po/ja.po | 
+ | [ko](/f22/language/ko) | 338 | 341 | 99.1 | /mnt/stockage/packages/f22/xfce4-mount-plugin/po/ko.po | 
+ | [pl](/f22/language/pl) | 338 | 341 | 99.1 | /mnt/stockage/packages/f22/xfce4-mount-plugin/po/pl.po | 
+ | [pt](/f22/language/pt) | 338 | 341 | 99.1 | /mnt/stockage/packages/f22/xfce4-mount-plugin/po/pt.po | 
+ | [pt_BR](/f22/language/pt_BR) | 338 | 341 | 99.1 | /mnt/stockage/packages/f22/xfce4-mount-plugin/po/pt_BR.po | 
+ | [sv](/f22/language/sv) | 338 | 341 | 99.1 | /mnt/stockage/packages/f22/xfce4-mount-plugin/po/sv.po | 
+ | [tr](/f22/language/tr) | 338 | 341 | 99.1 | /mnt/stockage/packages/f22/xfce4-mount-plugin/po/tr.po | 
+ | [uk](/f22/language/uk) | 338 | 341 | 99.1 | /mnt/stockage/packages/f22/xfce4-mount-plugin/po/uk.po | 
+ | [zh_Hans](/f22/language/zh_Hans) | 338 | 341 | 99.1 | /mnt/stockage/packages/f22/xfce4-mount-plugin/po/zh_CN.po | 
+ | [zh_Hant](/f22/language/zh_Hant) | 338 | 341 | 99.1 | /mnt/stockage/packages/f22/xfce4-mount-plugin/po/zh_TW.po | 
+ | [en_GB](/f22/language/en_GB) | 305 | 341 | 89.4 | /mnt/stockage/packages/f22/xfce4-mount-plugin/po/en_GB.po | 
+ | [lt](/f22/language/lt) | 305 | 341 | 89.4 | /mnt/stockage/packages/f22/xfce4-mount-plugin/po/lt.po | 
+ | [fi](/f22/language/fi) | 303 | 341 | 88.9 | /mnt/stockage/packages/f22/xfce4-mount-plugin/po/fi.po | 
+ | [ca](/f22/language/ca) | 294 | 341 | 86.2 | /mnt/stockage/packages/f22/xfce4-mount-plugin/po/ca.po | 
+ | [gl](/f22/language/gl) | 294 | 341 | 86.2 | /mnt/stockage/packages/f22/xfce4-mount-plugin/po/gl.po | 
+ | [nb_NO](/f22/language/nb_NO) | 294 | 341 | 86.2 | /mnt/stockage/packages/f22/xfce4-mount-plugin/po/nb.po | 
+ | [it](/f22/language/it) | 311 | 362 | 85.9 | /mnt/stockage/packages/f22/xfce4-mount-plugin/po/it.po | 
+ | [lv](/f22/language/lv) | 244 | 341 | 71.6 | /mnt/stockage/packages/f22/xfce4-mount-plugin/po/lv.po | 
+ | [ur](/f22/language/ur) | 488 | 682 | 71.6 | /mnt/stockage/packages/f22/xfce4-mount-plugin/po/ur.po/mnt/stockage/packages/f22/xfce4-mount-plugin/po/ur_PK.po | 
+ | [sq](/f22/language/sq) | 242 | 341 | 71.0 | /mnt/stockage/packages/f22/xfce4-mount-plugin/po/sq.po | 
+ | [vi](/f22/language/vi) | 39 | 341 | 11.4 | /mnt/stockage/packages/f22/xfce4-mount-plugin/po/vi.po | 
 {.sortable}
 
 

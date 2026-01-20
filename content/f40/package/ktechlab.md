@@ -18,30 +18,30 @@ The package ktechlab (version 0.51.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f40/language/ca.md" >}}) | 3704 | 3704 | 100.0 | /mnt/stockage/packages/f40/ktechlab/po/ca/ktechlab.po | 
- | [ca@valencia]({{< ref "/f40/language/ca@valencia.md" >}}) | 3704 | 3704 | 100.0 | /mnt/stockage/packages/f40/ktechlab/po/ca@valencia/ktechlab.po | 
- | [en_GB]({{< ref "/f40/language/en_GB.md" >}}) | 3704 | 3704 | 100.0 | /mnt/stockage/packages/f40/ktechlab/po/en_GB/ktechlab.po | 
- | [es]({{< ref "/f40/language/es.md" >}}) | 3704 | 3704 | 100.0 | /mnt/stockage/packages/f40/ktechlab/po/es/ktechlab.po | 
- | [fr]({{< ref "/f40/language/fr.md" >}}) | 3704 | 3704 | 100.0 | /mnt/stockage/packages/f40/ktechlab/po/fr/ktechlab.po | 
- | [it]({{< ref "/f40/language/it.md" >}}) | 3704 | 3704 | 100.0 | /mnt/stockage/packages/f40/ktechlab/po/it/ktechlab.po | 
- | [nl]({{< ref "/f40/language/nl.md" >}}) | 3704 | 3704 | 100.0 | /mnt/stockage/packages/f40/ktechlab/po/nl/ktechlab.po | 
- | [pl]({{< ref "/f40/language/pl.md" >}}) | 3704 | 3704 | 100.0 | /mnt/stockage/packages/f40/ktechlab/po/pl/ktechlab.po | 
- | [pt]({{< ref "/f40/language/pt.md" >}}) | 3704 | 3704 | 100.0 | /mnt/stockage/packages/f40/ktechlab/po/pt/ktechlab.po | 
- | [pt_BR]({{< ref "/f40/language/pt_BR.md" >}}) | 3704 | 3704 | 100.0 | /mnt/stockage/packages/f40/ktechlab/po/pt_BR/ktechlab.po | 
- | [ru]({{< ref "/f40/language/ru.md" >}}) | 3704 | 3704 | 100.0 | /mnt/stockage/packages/f40/ktechlab/po/ru/ktechlab.po | 
- | [sl]({{< ref "/f40/language/sl.md" >}}) | 3704 | 3704 | 100.0 | /mnt/stockage/packages/f40/ktechlab/po/sl/ktechlab.po | 
- | [tr]({{< ref "/f40/language/tr.md" >}}) | 3704 | 3704 | 100.0 | /mnt/stockage/packages/f40/ktechlab/po/tr/ktechlab.po | 
- | [uk]({{< ref "/f40/language/uk.md" >}}) | 3704 | 3704 | 100.0 | /mnt/stockage/packages/f40/ktechlab/po/uk/ktechlab.po | 
- | [sv]({{< ref "/f40/language/sv.md" >}}) | 3659 | 3704 | 98.8 | /mnt/stockage/packages/f40/ktechlab/po/sv/ktechlab.po | 
- | [gl]({{< ref "/f40/language/gl.md" >}}) | 3646 | 3704 | 98.4 | /mnt/stockage/packages/f40/ktechlab/po/gl/ktechlab.po | 
- | [ko]({{< ref "/f40/language/ko.md" >}}) | 3612 | 3704 | 97.5 | /mnt/stockage/packages/f40/ktechlab/po/ko/ktechlab.po | 
- | [hu]({{< ref "/f40/language/hu.md" >}}) | 2684 | 3704 | 72.5 | /mnt/stockage/packages/f40/ktechlab/po/hu/ktechlab.po | 
- | [de]({{< ref "/f40/language/de.md" >}}) | 2369 | 3704 | 64.0 | /mnt/stockage/packages/f40/ktechlab/po/de/ktechlab.po | 
- | [sk]({{< ref "/f40/language/sk.md" >}}) | 2111 | 3704 | 57.0 | /mnt/stockage/packages/f40/ktechlab/po/sk/ktechlab.po | 
- | [et]({{< ref "/f40/language/et.md" >}}) | 1529 | 3704 | 41.3 | /mnt/stockage/packages/f40/ktechlab/po/et/ktechlab.po | 
- | [ka]({{< ref "/f40/language/ka.md" >}}) | 661 | 3704 | 17.8 | /mnt/stockage/packages/f40/ktechlab/po/ka/ktechlab.po | 
- | [cs]({{< ref "/f40/language/cs.md" >}}) | 605 | 3704 | 16.3 | /mnt/stockage/packages/f40/ktechlab/po/cs/ktechlab.po | 
- | [zh_Hans]({{< ref "/f40/language/zh_Hans.md" >}}) | 16 | 3704 | 0.4 | /mnt/stockage/packages/f40/ktechlab/po/zh_CN/ktechlab.po | 
+ | [ca](/f40/language/ca) | 3704 | 3704 | 100.0 | /mnt/stockage/packages/f40/ktechlab/po/ca/ktechlab.po | 
+ | [ca@valencia](/f40/language/ca@valencia) | 3704 | 3704 | 100.0 | /mnt/stockage/packages/f40/ktechlab/po/ca@valencia/ktechlab.po | 
+ | [en_GB](/f40/language/en_GB) | 3704 | 3704 | 100.0 | /mnt/stockage/packages/f40/ktechlab/po/en_GB/ktechlab.po | 
+ | [es](/f40/language/es) | 3704 | 3704 | 100.0 | /mnt/stockage/packages/f40/ktechlab/po/es/ktechlab.po | 
+ | [fr](/f40/language/fr) | 3704 | 3704 | 100.0 | /mnt/stockage/packages/f40/ktechlab/po/fr/ktechlab.po | 
+ | [it](/f40/language/it) | 3704 | 3704 | 100.0 | /mnt/stockage/packages/f40/ktechlab/po/it/ktechlab.po | 
+ | [nl](/f40/language/nl) | 3704 | 3704 | 100.0 | /mnt/stockage/packages/f40/ktechlab/po/nl/ktechlab.po | 
+ | [pl](/f40/language/pl) | 3704 | 3704 | 100.0 | /mnt/stockage/packages/f40/ktechlab/po/pl/ktechlab.po | 
+ | [pt](/f40/language/pt) | 3704 | 3704 | 100.0 | /mnt/stockage/packages/f40/ktechlab/po/pt/ktechlab.po | 
+ | [pt_BR](/f40/language/pt_BR) | 3704 | 3704 | 100.0 | /mnt/stockage/packages/f40/ktechlab/po/pt_BR/ktechlab.po | 
+ | [ru](/f40/language/ru) | 3704 | 3704 | 100.0 | /mnt/stockage/packages/f40/ktechlab/po/ru/ktechlab.po | 
+ | [sl](/f40/language/sl) | 3704 | 3704 | 100.0 | /mnt/stockage/packages/f40/ktechlab/po/sl/ktechlab.po | 
+ | [tr](/f40/language/tr) | 3704 | 3704 | 100.0 | /mnt/stockage/packages/f40/ktechlab/po/tr/ktechlab.po | 
+ | [uk](/f40/language/uk) | 3704 | 3704 | 100.0 | /mnt/stockage/packages/f40/ktechlab/po/uk/ktechlab.po | 
+ | [sv](/f40/language/sv) | 3659 | 3704 | 98.8 | /mnt/stockage/packages/f40/ktechlab/po/sv/ktechlab.po | 
+ | [gl](/f40/language/gl) | 3646 | 3704 | 98.4 | /mnt/stockage/packages/f40/ktechlab/po/gl/ktechlab.po | 
+ | [ko](/f40/language/ko) | 3612 | 3704 | 97.5 | /mnt/stockage/packages/f40/ktechlab/po/ko/ktechlab.po | 
+ | [hu](/f40/language/hu) | 2684 | 3704 | 72.5 | /mnt/stockage/packages/f40/ktechlab/po/hu/ktechlab.po | 
+ | [de](/f40/language/de) | 2369 | 3704 | 64.0 | /mnt/stockage/packages/f40/ktechlab/po/de/ktechlab.po | 
+ | [sk](/f40/language/sk) | 2111 | 3704 | 57.0 | /mnt/stockage/packages/f40/ktechlab/po/sk/ktechlab.po | 
+ | [et](/f40/language/et) | 1529 | 3704 | 41.3 | /mnt/stockage/packages/f40/ktechlab/po/et/ktechlab.po | 
+ | [ka](/f40/language/ka) | 661 | 3704 | 17.8 | /mnt/stockage/packages/f40/ktechlab/po/ka/ktechlab.po | 
+ | [cs](/f40/language/cs) | 605 | 3704 | 16.3 | /mnt/stockage/packages/f40/ktechlab/po/cs/ktechlab.po | 
+ | [zh_Hans](/f40/language/zh_Hans) | 16 | 3704 | 0.4 | /mnt/stockage/packages/f40/ktechlab/po/zh_CN/ktechlab.po | 
 {.sortable}
 
 

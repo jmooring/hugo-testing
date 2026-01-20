@@ -18,7 +18,7 @@ The package ibus-rawcode (version 1.3.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [zh_Hans]({{< ref "/f21/language/zh_Hans.md" >}}) | 0 | 6 | 0.0 | /mnt/stockage/packages/f21/ibus-rawcode/po/zh_CN.po | 
+ | [zh_Hans](/f21/language/zh_Hans) | 0 | 6 | 0.0 | /mnt/stockage/packages/f21/ibus-rawcode/po/zh_CN.po | 
 {.sortable}
 
 

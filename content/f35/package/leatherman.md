@@ -18,7 +18,7 @@ The package leatherman (version 1.12.8):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f35/language/fr.md" >}}) | 47 | 47 | 100.0 | /mnt/stockage/packages/f35/leatherman/locale/locales/fr.po/mnt/stockage/packages/f35/leatherman/logging/locales/fr.po | 
+ | [fr](/f35/language/fr) | 47 | 47 | 100.0 | /mnt/stockage/packages/f35/leatherman/locale/locales/fr.po/mnt/stockage/packages/f35/leatherman/logging/locales/fr.po | 
 {.sortable}
 
 

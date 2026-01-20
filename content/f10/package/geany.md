@@ -18,31 +18,31 @@ The package geany (version 0.17):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f10/language/de.md" >}}) | 5182 | 5182 | 100.0 | /mnt/stockage/packages/f10/geany/po/de.po | 
- | [hu]({{< ref "/f10/language/hu.md" >}}) | 5182 | 5182 | 100.0 | /mnt/stockage/packages/f10/geany/po/hu.po | 
- | [be]({{< ref "/f10/language/be.md" >}}) | 5177 | 5182 | 99.9 | /mnt/stockage/packages/f10/geany/po/be.po | 
- | [es]({{< ref "/f10/language/es.md" >}}) | 5177 | 5182 | 99.9 | /mnt/stockage/packages/f10/geany/po/es.po | 
- | [ja]({{< ref "/f10/language/ja.md" >}}) | 5177 | 5182 | 99.9 | /mnt/stockage/packages/f10/geany/po/ja.po | 
- | [pt_BR]({{< ref "/f10/language/pt_BR.md" >}}) | 5177 | 5182 | 99.9 | /mnt/stockage/packages/f10/geany/po/pt_BR.po | 
- | [sv]({{< ref "/f10/language/sv.md" >}}) | 5177 | 5182 | 99.9 | /mnt/stockage/packages/f10/geany/po/sv.po | 
- | [zh_Hans]({{< ref "/f10/language/zh_Hans.md" >}}) | 5177 | 5182 | 99.9 | /mnt/stockage/packages/f10/geany/po/zh_CN.po | 
- | [ru]({{< ref "/f10/language/ru.md" >}}) | 5176 | 5182 | 99.9 | /mnt/stockage/packages/f10/geany/po/ru.po | 
- | [cs]({{< ref "/f10/language/cs.md" >}}) | 5171 | 5182 | 99.8 | /mnt/stockage/packages/f10/geany/po/cs.po | 
- | [fr]({{< ref "/f10/language/fr.md" >}}) | 5143 | 5182 | 99.2 | /mnt/stockage/packages/f10/geany/po/fr.po | 
- | [tr]({{< ref "/f10/language/tr.md" >}}) | 5132 | 5182 | 99.0 | /mnt/stockage/packages/f10/geany/po/tr.po | 
- | [fi]({{< ref "/f10/language/fi.md" >}}) | 4934 | 5182 | 95.2 | /mnt/stockage/packages/f10/geany/po/fi.po | 
- | [vi]({{< ref "/f10/language/vi.md" >}}) | 4930 | 5182 | 95.1 | /mnt/stockage/packages/f10/geany/po/vi.po | 
- | [ca]({{< ref "/f10/language/ca.md" >}}) | 4925 | 5182 | 95.0 | /mnt/stockage/packages/f10/geany/po/ca.po | 
- | [en_GB]({{< ref "/f10/language/en_GB.md" >}}) | 4925 | 5182 | 95.0 | /mnt/stockage/packages/f10/geany/po/en_GB.po | 
- | [it]({{< ref "/f10/language/it.md" >}}) | 3837 | 5182 | 74.0 | /mnt/stockage/packages/f10/geany/po/it.po | 
- | [ko]({{< ref "/f10/language/ko.md" >}}) | 3789 | 5182 | 73.1 | /mnt/stockage/packages/f10/geany/po/ko.po | 
- | [ro]({{< ref "/f10/language/ro.md" >}}) | 3260 | 5182 | 62.9 | /mnt/stockage/packages/f10/geany/po/ro.po | 
- | [el]({{< ref "/f10/language/el.md" >}}) | 2869 | 5182 | 55.4 | /mnt/stockage/packages/f10/geany/po/el.po | 
- | [uk]({{< ref "/f10/language/uk.md" >}}) | 2814 | 5182 | 54.3 | /mnt/stockage/packages/f10/geany/po/uk.po | 
- | [pl]({{< ref "/f10/language/pl.md" >}}) | 2571 | 5182 | 49.6 | /mnt/stockage/packages/f10/geany/po/pl.po | 
- | [bg]({{< ref "/f10/language/bg.md" >}}) | 2478 | 5182 | 47.8 | /mnt/stockage/packages/f10/geany/po/bg.po | 
- | [nl]({{< ref "/f10/language/nl.md" >}}) | 1097 | 5182 | 21.2 | /mnt/stockage/packages/f10/geany/po/nl.po | 
- | [zh_Hant]({{< ref "/f10/language/zh_Hant.md" >}}) | 598 | 5182 | 11.5 | /mnt/stockage/packages/f10/geany/po/zh_TW.po | 
+ | [de](/f10/language/de) | 5182 | 5182 | 100.0 | /mnt/stockage/packages/f10/geany/po/de.po | 
+ | [hu](/f10/language/hu) | 5182 | 5182 | 100.0 | /mnt/stockage/packages/f10/geany/po/hu.po | 
+ | [be](/f10/language/be) | 5177 | 5182 | 99.9 | /mnt/stockage/packages/f10/geany/po/be.po | 
+ | [es](/f10/language/es) | 5177 | 5182 | 99.9 | /mnt/stockage/packages/f10/geany/po/es.po | 
+ | [ja](/f10/language/ja) | 5177 | 5182 | 99.9 | /mnt/stockage/packages/f10/geany/po/ja.po | 
+ | [pt_BR](/f10/language/pt_BR) | 5177 | 5182 | 99.9 | /mnt/stockage/packages/f10/geany/po/pt_BR.po | 
+ | [sv](/f10/language/sv) | 5177 | 5182 | 99.9 | /mnt/stockage/packages/f10/geany/po/sv.po | 
+ | [zh_Hans](/f10/language/zh_Hans) | 5177 | 5182 | 99.9 | /mnt/stockage/packages/f10/geany/po/zh_CN.po | 
+ | [ru](/f10/language/ru) | 5176 | 5182 | 99.9 | /mnt/stockage/packages/f10/geany/po/ru.po | 
+ | [cs](/f10/language/cs) | 5171 | 5182 | 99.8 | /mnt/stockage/packages/f10/geany/po/cs.po | 
+ | [fr](/f10/language/fr) | 5143 | 5182 | 99.2 | /mnt/stockage/packages/f10/geany/po/fr.po | 
+ | [tr](/f10/language/tr) | 5132 | 5182 | 99.0 | /mnt/stockage/packages/f10/geany/po/tr.po | 
+ | [fi](/f10/language/fi) | 4934 | 5182 | 95.2 | /mnt/stockage/packages/f10/geany/po/fi.po | 
+ | [vi](/f10/language/vi) | 4930 | 5182 | 95.1 | /mnt/stockage/packages/f10/geany/po/vi.po | 
+ | [ca](/f10/language/ca) | 4925 | 5182 | 95.0 | /mnt/stockage/packages/f10/geany/po/ca.po | 
+ | [en_GB](/f10/language/en_GB) | 4925 | 5182 | 95.0 | /mnt/stockage/packages/f10/geany/po/en_GB.po | 
+ | [it](/f10/language/it) | 3837 | 5182 | 74.0 | /mnt/stockage/packages/f10/geany/po/it.po | 
+ | [ko](/f10/language/ko) | 3789 | 5182 | 73.1 | /mnt/stockage/packages/f10/geany/po/ko.po | 
+ | [ro](/f10/language/ro) | 3260 | 5182 | 62.9 | /mnt/stockage/packages/f10/geany/po/ro.po | 
+ | [el](/f10/language/el) | 2869 | 5182 | 55.4 | /mnt/stockage/packages/f10/geany/po/el.po | 
+ | [uk](/f10/language/uk) | 2814 | 5182 | 54.3 | /mnt/stockage/packages/f10/geany/po/uk.po | 
+ | [pl](/f10/language/pl) | 2571 | 5182 | 49.6 | /mnt/stockage/packages/f10/geany/po/pl.po | 
+ | [bg](/f10/language/bg) | 2478 | 5182 | 47.8 | /mnt/stockage/packages/f10/geany/po/bg.po | 
+ | [nl](/f10/language/nl) | 1097 | 5182 | 21.2 | /mnt/stockage/packages/f10/geany/po/nl.po | 
+ | [zh_Hant](/f10/language/zh_Hant) | 598 | 5182 | 11.5 | /mnt/stockage/packages/f10/geany/po/zh_TW.po | 
 {.sortable}
 
 

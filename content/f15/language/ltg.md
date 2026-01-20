@@ -38,7 +38,7 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [gnome-do]({{< ref "/f15/package/gnome-do.md" >}}) | 19 | 612 | 3.1 | Latgalian <ltg@li.org> | 
+ | [gnome-do](/f15/package/gnome-do) | 19 | 612 | 3.1 | Latgalian <ltg@li.org> | 
 {.sortable}
 
 

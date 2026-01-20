@@ -18,106 +18,106 @@ The package setroubleshoot-plugins (version 3.3.6):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f24/language/de.md" >}}) | 6235 | 6235 | 100.0 | /mnt/stockage/packages/f24/setroubleshoot-plugins/po/de.po | 
- | [es]({{< ref "/f24/language/es.md" >}}) | 6235 | 6235 | 100.0 | /mnt/stockage/packages/f24/setroubleshoot-plugins/po/es.po | 
- | [fr]({{< ref "/f24/language/fr.md" >}}) | 6235 | 6235 | 100.0 | /mnt/stockage/packages/f24/setroubleshoot-plugins/po/fr.po | 
- | [it]({{< ref "/f24/language/it.md" >}}) | 6235 | 6235 | 100.0 | /mnt/stockage/packages/f24/setroubleshoot-plugins/po/it.po | 
- | [ja]({{< ref "/f24/language/ja.md" >}}) | 6235 | 6235 | 100.0 | /mnt/stockage/packages/f24/setroubleshoot-plugins/po/ja.po | 
- | [ko]({{< ref "/f24/language/ko.md" >}}) | 6235 | 6235 | 100.0 | /mnt/stockage/packages/f24/setroubleshoot-plugins/po/ko.po | 
- | [pl]({{< ref "/f24/language/pl.md" >}}) | 6235 | 6235 | 100.0 | /mnt/stockage/packages/f24/setroubleshoot-plugins/po/pl.po | 
- | [pt_BR]({{< ref "/f24/language/pt_BR.md" >}}) | 6235 | 6235 | 100.0 | /mnt/stockage/packages/f24/setroubleshoot-plugins/po/pt_BR.po | 
- | [sv]({{< ref "/f24/language/sv.md" >}}) | 6235 | 6235 | 100.0 | /mnt/stockage/packages/f24/setroubleshoot-plugins/po/sv.po | 
- | [uk]({{< ref "/f24/language/uk.md" >}}) | 6235 | 6235 | 100.0 | /mnt/stockage/packages/f24/setroubleshoot-plugins/po/uk.po | 
- | [zh_Hans]({{< ref "/f24/language/zh_Hans.md" >}}) | 6235 | 6235 | 100.0 | /mnt/stockage/packages/f24/setroubleshoot-plugins/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f24/language/zh_Hant.md" >}}) | 6235 | 6235 | 100.0 | /mnt/stockage/packages/f24/setroubleshoot-plugins/po/zh_TW.po | 
- | [nl]({{< ref "/f24/language/nl.md" >}}) | 3812 | 6235 | 61.1 | /mnt/stockage/packages/f24/setroubleshoot-plugins/po/nl.po | 
- | [ru]({{< ref "/f24/language/ru.md" >}}) | 3812 | 6235 | 61.1 | /mnt/stockage/packages/f24/setroubleshoot-plugins/po/ru.po | 
- | [as]({{< ref "/f24/language/as.md" >}}) | 3545 | 6235 | 56.9 | /mnt/stockage/packages/f24/setroubleshoot-plugins/po/as.po | 
- | [gu]({{< ref "/f24/language/gu.md" >}}) | 3545 | 6235 | 56.9 | /mnt/stockage/packages/f24/setroubleshoot-plugins/po/gu.po | 
- | [hu]({{< ref "/f24/language/hu.md" >}}) | 3545 | 6235 | 56.9 | /mnt/stockage/packages/f24/setroubleshoot-plugins/po/hu.po | 
- | [kn]({{< ref "/f24/language/kn.md" >}}) | 3545 | 6235 | 56.9 | /mnt/stockage/packages/f24/setroubleshoot-plugins/po/kn.po | 
- | [ml]({{< ref "/f24/language/ml.md" >}}) | 3545 | 6235 | 56.9 | /mnt/stockage/packages/f24/setroubleshoot-plugins/po/ml.po | 
- | [mr]({{< ref "/f24/language/mr.md" >}}) | 3545 | 6235 | 56.9 | /mnt/stockage/packages/f24/setroubleshoot-plugins/po/mr.po | 
- | [or]({{< ref "/f24/language/or.md" >}}) | 3545 | 6235 | 56.9 | /mnt/stockage/packages/f24/setroubleshoot-plugins/po/or.po | 
- | [pa]({{< ref "/f24/language/pa.md" >}}) | 3545 | 6235 | 56.9 | /mnt/stockage/packages/f24/setroubleshoot-plugins/po/pa.po | 
- | [ta]({{< ref "/f24/language/ta.md" >}}) | 3545 | 6235 | 56.9 | /mnt/stockage/packages/f24/setroubleshoot-plugins/po/ta.po | 
- | [hi]({{< ref "/f24/language/hi.md" >}}) | 3516 | 6235 | 56.4 | /mnt/stockage/packages/f24/setroubleshoot-plugins/po/hi.po | 
- | [te]({{< ref "/f24/language/te.md" >}}) | 3516 | 6235 | 56.4 | /mnt/stockage/packages/f24/setroubleshoot-plugins/po/te.po | 
- | [bg]({{< ref "/f24/language/bg.md" >}}) | 3433 | 6235 | 55.1 | /mnt/stockage/packages/f24/setroubleshoot-plugins/po/bg.po | 
- | [bn_IN]({{< ref "/f24/language/bn_IN.md" >}}) | 3433 | 6235 | 55.1 | /mnt/stockage/packages/f24/setroubleshoot-plugins/po/bn_IN.po | 
- | [bn]({{< ref "/f24/language/bn.md" >}}) | 3161 | 6235 | 50.7 | /mnt/stockage/packages/f24/setroubleshoot-plugins/po/bn.po | 
- | [pt]({{< ref "/f24/language/pt.md" >}}) | 2227 | 6235 | 35.7 | /mnt/stockage/packages/f24/setroubleshoot-plugins/po/pt.po | 
- | [en_GB]({{< ref "/f24/language/en_GB.md" >}}) | 1975 | 6235 | 31.7 | /mnt/stockage/packages/f24/setroubleshoot-plugins/po/en_GB.po | 
- | [ca]({{< ref "/f24/language/ca.md" >}}) | 1965 | 6235 | 31.5 | /mnt/stockage/packages/f24/setroubleshoot-plugins/po/ca.po | 
- | [sr]({{< ref "/f24/language/sr.md" >}}) | 980 | 6235 | 15.7 | /mnt/stockage/packages/f24/setroubleshoot-plugins/po/sr.po | 
- | [cs]({{< ref "/f24/language/cs.md" >}}) | 369 | 6235 | 5.9 | /mnt/stockage/packages/f24/setroubleshoot-plugins/po/cs.po | 
- | [da]({{< ref "/f24/language/da.md" >}}) | 214 | 6235 | 3.4 | /mnt/stockage/packages/f24/setroubleshoot-plugins/po/da.po | 
- | [fi]({{< ref "/f24/language/fi.md" >}}) | 49 | 6235 | 0.8 | /mnt/stockage/packages/f24/setroubleshoot-plugins/po/fi.po | 
- | [eu]({{< ref "/f24/language/eu.md" >}}) | 23 | 6235 | 0.4 | /mnt/stockage/packages/f24/setroubleshoot-plugins/po/eu.po | 
- | [af]({{< ref "/f24/language/af.md" >}}) | 0 | 9830 | 0.0 | /mnt/stockage/packages/f24/setroubleshoot-plugins/po/af.po | 
- | [aln]({{< ref "/f24/language/aln.md" >}}) | 0 | 9830 | 0.0 | /mnt/stockage/packages/f24/setroubleshoot-plugins/po/aln.po | 
- | [am]({{< ref "/f24/language/am.md" >}}) | 0 | 9830 | 0.0 | /mnt/stockage/packages/f24/setroubleshoot-plugins/po/am.po | 
- | [ar]({{< ref "/f24/language/ar.md" >}}) | 0 | 9830 | 0.0 | /mnt/stockage/packages/f24/setroubleshoot-plugins/po/ar.po | 
- | [ast]({{< ref "/f24/language/ast.md" >}}) | 0 | 9830 | 0.0 | /mnt/stockage/packages/f24/setroubleshoot-plugins/po/ast.po | 
- | [az]({{< ref "/f24/language/az.md" >}}) | 0 | 9830 | 0.0 | /mnt/stockage/packages/f24/setroubleshoot-plugins/po/az.po | 
- | [bal]({{< ref "/f24/language/bal.md" >}}) | 0 | 9830 | 0.0 | /mnt/stockage/packages/f24/setroubleshoot-plugins/po/bal.po | 
- | [be]({{< ref "/f24/language/be.md" >}}) | 0 | 9830 | 0.0 | /mnt/stockage/packages/f24/setroubleshoot-plugins/po/be.po | 
- | [bo]({{< ref "/f24/language/bo.md" >}}) | 0 | 9830 | 0.0 | /mnt/stockage/packages/f24/setroubleshoot-plugins/po/bo.po | 
- | [br]({{< ref "/f24/language/br.md" >}}) | 0 | 9830 | 0.0 | /mnt/stockage/packages/f24/setroubleshoot-plugins/po/br.po | 
- | [brx]({{< ref "/f24/language/brx.md" >}}) | 0 | 9830 | 0.0 | /mnt/stockage/packages/f24/setroubleshoot-plugins/po/brx.po | 
- | [bs]({{< ref "/f24/language/bs.md" >}}) | 0 | 9830 | 0.0 | /mnt/stockage/packages/f24/setroubleshoot-plugins/po/bs.po | 
- | [cy]({{< ref "/f24/language/cy.md" >}}) | 0 | 9830 | 0.0 | /mnt/stockage/packages/f24/setroubleshoot-plugins/po/cy.po | 
- | [dz]({{< ref "/f24/language/dz.md" >}}) | 0 | 9830 | 0.0 | /mnt/stockage/packages/f24/setroubleshoot-plugins/po/dz.po | 
- | [el]({{< ref "/f24/language/el.md" >}}) | 0 | 9830 | 0.0 | /mnt/stockage/packages/f24/setroubleshoot-plugins/po/el.po | 
- | [eo]({{< ref "/f24/language/eo.md" >}}) | 0 | 9830 | 0.0 | /mnt/stockage/packages/f24/setroubleshoot-plugins/po/eo.po | 
- | [et]({{< ref "/f24/language/et.md" >}}) | 0 | 9830 | 0.0 | /mnt/stockage/packages/f24/setroubleshoot-plugins/po/et.po | 
- | [fa]({{< ref "/f24/language/fa.md" >}}) | 0 | 9830 | 0.0 | /mnt/stockage/packages/f24/setroubleshoot-plugins/po/fa.po | 
- | [ga]({{< ref "/f24/language/ga.md" >}}) | 0 | 9830 | 0.0 | /mnt/stockage/packages/f24/setroubleshoot-plugins/po/ga.po | 
- | [gl]({{< ref "/f24/language/gl.md" >}}) | 0 | 9830 | 0.0 | /mnt/stockage/packages/f24/setroubleshoot-plugins/po/gl.po | 
- | [he]({{< ref "/f24/language/he.md" >}}) | 0 | 9830 | 0.0 | /mnt/stockage/packages/f24/setroubleshoot-plugins/po/he.po | 
- | [hr]({{< ref "/f24/language/hr.md" >}}) | 0 | 9830 | 0.0 | /mnt/stockage/packages/f24/setroubleshoot-plugins/po/hr.po | 
- | [hy]({{< ref "/f24/language/hy.md" >}}) | 0 | 9830 | 0.0 | /mnt/stockage/packages/f24/setroubleshoot-plugins/po/hy.po | 
- | [ia]({{< ref "/f24/language/ia.md" >}}) | 0 | 9830 | 0.0 | /mnt/stockage/packages/f24/setroubleshoot-plugins/po/ia.po | 
- | [id]({{< ref "/f24/language/id.md" >}}) | 0 | 207370 | 0.0 | /mnt/stockage/packages/f24/setroubleshoot-plugins/po/yi.po/mnt/stockage/packages/f24/setroubleshoot-plugins/po/wa.po/mnt/stockage/packages/f24/setroubleshoot-plugins/po/uz@cyrillic.po/mnt/stockage/packages/f24/setroubleshoot-plugins/po/uz.po/mnt/stockage/packages/f24/setroubleshoot-plugins/po/ug.po/mnt/stockage/packages/f24/setroubleshoot-plugins/po/tt.po/mnt/stockage/packages/f24/setroubleshoot-plugins/po/tk.po/mnt/stockage/packages/f24/setroubleshoot-plugins/po/rw.po/mnt/stockage/packages/f24/setroubleshoot-plugins/po/ps.po/mnt/stockage/packages/f24/setroubleshoot-plugins/po/oc.po/mnt/stockage/packages/f24/setroubleshoot-plugins/po/mi.po/mnt/stockage/packages/f24/setroubleshoot-plugins/po/li.po/mnt/stockage/packages/f24/setroubleshoot-plugins/po/lg.po/mnt/stockage/packages/f24/setroubleshoot-plugins/po/kg.po/mnt/stockage/packages/f24/setroubleshoot-plugins/po/io.po/mnt/stockage/packages/f24/setroubleshoot-plugins/po/id.po/mnt/stockage/packages/f24/setroubleshoot-plugins/po/en@shaw.po/mnt/stockage/packages/f24/setroubleshoot-plugins/po/crh.po/mnt/stockage/packages/f24/setroubleshoot-plugins/po/ca@valencia.po/mnt/stockage/packages/f24/setroubleshoot-plugins/po/be@latin.po/mnt/stockage/packages/f24/setroubleshoot-plugins/po/ang.po | 
- | [ilo]({{< ref "/f24/language/ilo.md" >}}) | 0 | 9830 | 0.0 | /mnt/stockage/packages/f24/setroubleshoot-plugins/po/ilo.po | 
- | [is]({{< ref "/f24/language/is.md" >}}) | 0 | 9830 | 0.0 | /mnt/stockage/packages/f24/setroubleshoot-plugins/po/is.po | 
- | [ka]({{< ref "/f24/language/ka.md" >}}) | 0 | 9830 | 0.0 | /mnt/stockage/packages/f24/setroubleshoot-plugins/po/ka.po | 
- | [kk]({{< ref "/f24/language/kk.md" >}}) | 0 | 9830 | 0.0 | /mnt/stockage/packages/f24/setroubleshoot-plugins/po/kk.po | 
- | [km]({{< ref "/f24/language/km.md" >}}) | 0 | 9830 | 0.0 | /mnt/stockage/packages/f24/setroubleshoot-plugins/po/km.po | 
- | [ks]({{< ref "/f24/language/ks.md" >}}) | 0 | 9830 | 0.0 | /mnt/stockage/packages/f24/setroubleshoot-plugins/po/ks.po | 
- | [ku]({{< ref "/f24/language/ku.md" >}}) | 0 | 9830 | 0.0 | /mnt/stockage/packages/f24/setroubleshoot-plugins/po/ku.po | 
- | [ky]({{< ref "/f24/language/ky.md" >}}) | 0 | 9830 | 0.0 | /mnt/stockage/packages/f24/setroubleshoot-plugins/po/ky.po | 
- | [la]({{< ref "/f24/language/la.md" >}}) | 0 | 9830 | 0.0 | /mnt/stockage/packages/f24/setroubleshoot-plugins/po/la.po | 
- | [lo]({{< ref "/f24/language/lo.md" >}}) | 0 | 9830 | 0.0 | /mnt/stockage/packages/f24/setroubleshoot-plugins/po/lo.po | 
- | [lt]({{< ref "/f24/language/lt.md" >}}) | 0 | 9830 | 0.0 | /mnt/stockage/packages/f24/setroubleshoot-plugins/po/lt.po | 
- | [lv]({{< ref "/f24/language/lv.md" >}}) | 0 | 9830 | 0.0 | /mnt/stockage/packages/f24/setroubleshoot-plugins/po/lv.po | 
- | [mai]({{< ref "/f24/language/mai.md" >}}) | 0 | 9830 | 0.0 | /mnt/stockage/packages/f24/setroubleshoot-plugins/po/mai.po | 
- | [mg]({{< ref "/f24/language/mg.md" >}}) | 0 | 9830 | 0.0 | /mnt/stockage/packages/f24/setroubleshoot-plugins/po/mg.po | 
- | [mk]({{< ref "/f24/language/mk.md" >}}) | 0 | 9830 | 0.0 | /mnt/stockage/packages/f24/setroubleshoot-plugins/po/mk.po | 
- | [mn]({{< ref "/f24/language/mn.md" >}}) | 0 | 9830 | 0.0 | /mnt/stockage/packages/f24/setroubleshoot-plugins/po/mn.po | 
- | [ms]({{< ref "/f24/language/ms.md" >}}) | 0 | 9830 | 0.0 | /mnt/stockage/packages/f24/setroubleshoot-plugins/po/ms.po | 
- | [my]({{< ref "/f24/language/my.md" >}}) | 0 | 9830 | 0.0 | /mnt/stockage/packages/f24/setroubleshoot-plugins/po/my.po | 
- | [nb_NO]({{< ref "/f24/language/nb_NO.md" >}}) | 0 | 9830 | 0.0 | /mnt/stockage/packages/f24/setroubleshoot-plugins/po/nb.po | 
- | [nds]({{< ref "/f24/language/nds.md" >}}) | 0 | 9830 | 0.0 | /mnt/stockage/packages/f24/setroubleshoot-plugins/po/nds.po | 
- | [ne]({{< ref "/f24/language/ne.md" >}}) | 0 | 9830 | 0.0 | /mnt/stockage/packages/f24/setroubleshoot-plugins/po/ne.po | 
- | [nn]({{< ref "/f24/language/nn.md" >}}) | 0 | 9830 | 0.0 | /mnt/stockage/packages/f24/setroubleshoot-plugins/po/nn.po | 
- | [nso]({{< ref "/f24/language/nso.md" >}}) | 0 | 9830 | 0.0 | /mnt/stockage/packages/f24/setroubleshoot-plugins/po/nso.po | 
- | [ro]({{< ref "/f24/language/ro.md" >}}) | 0 | 9830 | 0.0 | /mnt/stockage/packages/f24/setroubleshoot-plugins/po/ro.po | 
- | [si]({{< ref "/f24/language/si.md" >}}) | 0 | 9830 | 0.0 | /mnt/stockage/packages/f24/setroubleshoot-plugins/po/si.po | 
- | [sk]({{< ref "/f24/language/sk.md" >}}) | 0 | 9830 | 0.0 | /mnt/stockage/packages/f24/setroubleshoot-plugins/po/sk.po | 
- | [sl]({{< ref "/f24/language/sl.md" >}}) | 0 | 9830 | 0.0 | /mnt/stockage/packages/f24/setroubleshoot-plugins/po/sl.po | 
- | [sq]({{< ref "/f24/language/sq.md" >}}) | 0 | 9830 | 0.0 | /mnt/stockage/packages/f24/setroubleshoot-plugins/po/sq.po | 
- | [sr_Latn]({{< ref "/f24/language/sr_Latn.md" >}}) | 0 | 9830 | 0.0 | /mnt/stockage/packages/f24/setroubleshoot-plugins/po/sr@latin.po | 
- | [tg]({{< ref "/f24/language/tg.md" >}}) | 0 | 9830 | 0.0 | /mnt/stockage/packages/f24/setroubleshoot-plugins/po/tg.po | 
- | [th]({{< ref "/f24/language/th.md" >}}) | 0 | 9830 | 0.0 | /mnt/stockage/packages/f24/setroubleshoot-plugins/po/th.po | 
- | [tl]({{< ref "/f24/language/tl.md" >}}) | 0 | 9830 | 0.0 | /mnt/stockage/packages/f24/setroubleshoot-plugins/po/tl.po | 
- | [tr]({{< ref "/f24/language/tr.md" >}}) | 0 | 9830 | 0.0 | /mnt/stockage/packages/f24/setroubleshoot-plugins/po/tr.po | 
- | [ur]({{< ref "/f24/language/ur.md" >}}) | 0 | 9830 | 0.0 | /mnt/stockage/packages/f24/setroubleshoot-plugins/po/ur.po | 
- | [vi]({{< ref "/f24/language/vi.md" >}}) | 0 | 9830 | 0.0 | /mnt/stockage/packages/f24/setroubleshoot-plugins/po/vi.po | 
- | [wo]({{< ref "/f24/language/wo.md" >}}) | 0 | 9830 | 0.0 | /mnt/stockage/packages/f24/setroubleshoot-plugins/po/wo.po | 
- | [xh]({{< ref "/f24/language/xh.md" >}}) | 0 | 9830 | 0.0 | /mnt/stockage/packages/f24/setroubleshoot-plugins/po/xh.po | 
- | [zh_Hant_HK]({{< ref "/f24/language/zh_Hant_HK.md" >}}) | 0 | 9830 | 0.0 | /mnt/stockage/packages/f24/setroubleshoot-plugins/po/zh_HK.po | 
- | [zu]({{< ref "/f24/language/zu.md" >}}) | 0 | 9830 | 0.0 | /mnt/stockage/packages/f24/setroubleshoot-plugins/po/zu.po | 
+ | [de](/f24/language/de) | 6235 | 6235 | 100.0 | /mnt/stockage/packages/f24/setroubleshoot-plugins/po/de.po | 
+ | [es](/f24/language/es) | 6235 | 6235 | 100.0 | /mnt/stockage/packages/f24/setroubleshoot-plugins/po/es.po | 
+ | [fr](/f24/language/fr) | 6235 | 6235 | 100.0 | /mnt/stockage/packages/f24/setroubleshoot-plugins/po/fr.po | 
+ | [it](/f24/language/it) | 6235 | 6235 | 100.0 | /mnt/stockage/packages/f24/setroubleshoot-plugins/po/it.po | 
+ | [ja](/f24/language/ja) | 6235 | 6235 | 100.0 | /mnt/stockage/packages/f24/setroubleshoot-plugins/po/ja.po | 
+ | [ko](/f24/language/ko) | 6235 | 6235 | 100.0 | /mnt/stockage/packages/f24/setroubleshoot-plugins/po/ko.po | 
+ | [pl](/f24/language/pl) | 6235 | 6235 | 100.0 | /mnt/stockage/packages/f24/setroubleshoot-plugins/po/pl.po | 
+ | [pt_BR](/f24/language/pt_BR) | 6235 | 6235 | 100.0 | /mnt/stockage/packages/f24/setroubleshoot-plugins/po/pt_BR.po | 
+ | [sv](/f24/language/sv) | 6235 | 6235 | 100.0 | /mnt/stockage/packages/f24/setroubleshoot-plugins/po/sv.po | 
+ | [uk](/f24/language/uk) | 6235 | 6235 | 100.0 | /mnt/stockage/packages/f24/setroubleshoot-plugins/po/uk.po | 
+ | [zh_Hans](/f24/language/zh_Hans) | 6235 | 6235 | 100.0 | /mnt/stockage/packages/f24/setroubleshoot-plugins/po/zh_CN.po | 
+ | [zh_Hant](/f24/language/zh_Hant) | 6235 | 6235 | 100.0 | /mnt/stockage/packages/f24/setroubleshoot-plugins/po/zh_TW.po | 
+ | [nl](/f24/language/nl) | 3812 | 6235 | 61.1 | /mnt/stockage/packages/f24/setroubleshoot-plugins/po/nl.po | 
+ | [ru](/f24/language/ru) | 3812 | 6235 | 61.1 | /mnt/stockage/packages/f24/setroubleshoot-plugins/po/ru.po | 
+ | [as](/f24/language/as) | 3545 | 6235 | 56.9 | /mnt/stockage/packages/f24/setroubleshoot-plugins/po/as.po | 
+ | [gu](/f24/language/gu) | 3545 | 6235 | 56.9 | /mnt/stockage/packages/f24/setroubleshoot-plugins/po/gu.po | 
+ | [hu](/f24/language/hu) | 3545 | 6235 | 56.9 | /mnt/stockage/packages/f24/setroubleshoot-plugins/po/hu.po | 
+ | [kn](/f24/language/kn) | 3545 | 6235 | 56.9 | /mnt/stockage/packages/f24/setroubleshoot-plugins/po/kn.po | 
+ | [ml](/f24/language/ml) | 3545 | 6235 | 56.9 | /mnt/stockage/packages/f24/setroubleshoot-plugins/po/ml.po | 
+ | [mr](/f24/language/mr) | 3545 | 6235 | 56.9 | /mnt/stockage/packages/f24/setroubleshoot-plugins/po/mr.po | 
+ | [or](/f24/language/or) | 3545 | 6235 | 56.9 | /mnt/stockage/packages/f24/setroubleshoot-plugins/po/or.po | 
+ | [pa](/f24/language/pa) | 3545 | 6235 | 56.9 | /mnt/stockage/packages/f24/setroubleshoot-plugins/po/pa.po | 
+ | [ta](/f24/language/ta) | 3545 | 6235 | 56.9 | /mnt/stockage/packages/f24/setroubleshoot-plugins/po/ta.po | 
+ | [hi](/f24/language/hi) | 3516 | 6235 | 56.4 | /mnt/stockage/packages/f24/setroubleshoot-plugins/po/hi.po | 
+ | [te](/f24/language/te) | 3516 | 6235 | 56.4 | /mnt/stockage/packages/f24/setroubleshoot-plugins/po/te.po | 
+ | [bg](/f24/language/bg) | 3433 | 6235 | 55.1 | /mnt/stockage/packages/f24/setroubleshoot-plugins/po/bg.po | 
+ | [bn_IN](/f24/language/bn_IN) | 3433 | 6235 | 55.1 | /mnt/stockage/packages/f24/setroubleshoot-plugins/po/bn_IN.po | 
+ | [bn](/f24/language/bn) | 3161 | 6235 | 50.7 | /mnt/stockage/packages/f24/setroubleshoot-plugins/po/bn.po | 
+ | [pt](/f24/language/pt) | 2227 | 6235 | 35.7 | /mnt/stockage/packages/f24/setroubleshoot-plugins/po/pt.po | 
+ | [en_GB](/f24/language/en_GB) | 1975 | 6235 | 31.7 | /mnt/stockage/packages/f24/setroubleshoot-plugins/po/en_GB.po | 
+ | [ca](/f24/language/ca) | 1965 | 6235 | 31.5 | /mnt/stockage/packages/f24/setroubleshoot-plugins/po/ca.po | 
+ | [sr](/f24/language/sr) | 980 | 6235 | 15.7 | /mnt/stockage/packages/f24/setroubleshoot-plugins/po/sr.po | 
+ | [cs](/f24/language/cs) | 369 | 6235 | 5.9 | /mnt/stockage/packages/f24/setroubleshoot-plugins/po/cs.po | 
+ | [da](/f24/language/da) | 214 | 6235 | 3.4 | /mnt/stockage/packages/f24/setroubleshoot-plugins/po/da.po | 
+ | [fi](/f24/language/fi) | 49 | 6235 | 0.8 | /mnt/stockage/packages/f24/setroubleshoot-plugins/po/fi.po | 
+ | [eu](/f24/language/eu) | 23 | 6235 | 0.4 | /mnt/stockage/packages/f24/setroubleshoot-plugins/po/eu.po | 
+ | [af](/f24/language/af) | 0 | 9830 | 0.0 | /mnt/stockage/packages/f24/setroubleshoot-plugins/po/af.po | 
+ | [aln](/f24/language/aln) | 0 | 9830 | 0.0 | /mnt/stockage/packages/f24/setroubleshoot-plugins/po/aln.po | 
+ | [am](/f24/language/am) | 0 | 9830 | 0.0 | /mnt/stockage/packages/f24/setroubleshoot-plugins/po/am.po | 
+ | [ar](/f24/language/ar) | 0 | 9830 | 0.0 | /mnt/stockage/packages/f24/setroubleshoot-plugins/po/ar.po | 
+ | [ast](/f24/language/ast) | 0 | 9830 | 0.0 | /mnt/stockage/packages/f24/setroubleshoot-plugins/po/ast.po | 
+ | [az](/f24/language/az) | 0 | 9830 | 0.0 | /mnt/stockage/packages/f24/setroubleshoot-plugins/po/az.po | 
+ | [bal](/f24/language/bal) | 0 | 9830 | 0.0 | /mnt/stockage/packages/f24/setroubleshoot-plugins/po/bal.po | 
+ | [be](/f24/language/be) | 0 | 9830 | 0.0 | /mnt/stockage/packages/f24/setroubleshoot-plugins/po/be.po | 
+ | [bo](/f24/language/bo) | 0 | 9830 | 0.0 | /mnt/stockage/packages/f24/setroubleshoot-plugins/po/bo.po | 
+ | [br](/f24/language/br) | 0 | 9830 | 0.0 | /mnt/stockage/packages/f24/setroubleshoot-plugins/po/br.po | 
+ | [brx](/f24/language/brx) | 0 | 9830 | 0.0 | /mnt/stockage/packages/f24/setroubleshoot-plugins/po/brx.po | 
+ | [bs](/f24/language/bs) | 0 | 9830 | 0.0 | /mnt/stockage/packages/f24/setroubleshoot-plugins/po/bs.po | 
+ | [cy](/f24/language/cy) | 0 | 9830 | 0.0 | /mnt/stockage/packages/f24/setroubleshoot-plugins/po/cy.po | 
+ | [dz](/f24/language/dz) | 0 | 9830 | 0.0 | /mnt/stockage/packages/f24/setroubleshoot-plugins/po/dz.po | 
+ | [el](/f24/language/el) | 0 | 9830 | 0.0 | /mnt/stockage/packages/f24/setroubleshoot-plugins/po/el.po | 
+ | [eo](/f24/language/eo) | 0 | 9830 | 0.0 | /mnt/stockage/packages/f24/setroubleshoot-plugins/po/eo.po | 
+ | [et](/f24/language/et) | 0 | 9830 | 0.0 | /mnt/stockage/packages/f24/setroubleshoot-plugins/po/et.po | 
+ | [fa](/f24/language/fa) | 0 | 9830 | 0.0 | /mnt/stockage/packages/f24/setroubleshoot-plugins/po/fa.po | 
+ | [ga](/f24/language/ga) | 0 | 9830 | 0.0 | /mnt/stockage/packages/f24/setroubleshoot-plugins/po/ga.po | 
+ | [gl](/f24/language/gl) | 0 | 9830 | 0.0 | /mnt/stockage/packages/f24/setroubleshoot-plugins/po/gl.po | 
+ | [he](/f24/language/he) | 0 | 9830 | 0.0 | /mnt/stockage/packages/f24/setroubleshoot-plugins/po/he.po | 
+ | [hr](/f24/language/hr) | 0 | 9830 | 0.0 | /mnt/stockage/packages/f24/setroubleshoot-plugins/po/hr.po | 
+ | [hy](/f24/language/hy) | 0 | 9830 | 0.0 | /mnt/stockage/packages/f24/setroubleshoot-plugins/po/hy.po | 
+ | [ia](/f24/language/ia) | 0 | 9830 | 0.0 | /mnt/stockage/packages/f24/setroubleshoot-plugins/po/ia.po | 
+ | [id](/f24/language/id) | 0 | 207370 | 0.0 | /mnt/stockage/packages/f24/setroubleshoot-plugins/po/yi.po/mnt/stockage/packages/f24/setroubleshoot-plugins/po/wa.po/mnt/stockage/packages/f24/setroubleshoot-plugins/po/uz@cyrillic.po/mnt/stockage/packages/f24/setroubleshoot-plugins/po/uz.po/mnt/stockage/packages/f24/setroubleshoot-plugins/po/ug.po/mnt/stockage/packages/f24/setroubleshoot-plugins/po/tt.po/mnt/stockage/packages/f24/setroubleshoot-plugins/po/tk.po/mnt/stockage/packages/f24/setroubleshoot-plugins/po/rw.po/mnt/stockage/packages/f24/setroubleshoot-plugins/po/ps.po/mnt/stockage/packages/f24/setroubleshoot-plugins/po/oc.po/mnt/stockage/packages/f24/setroubleshoot-plugins/po/mi.po/mnt/stockage/packages/f24/setroubleshoot-plugins/po/li.po/mnt/stockage/packages/f24/setroubleshoot-plugins/po/lg.po/mnt/stockage/packages/f24/setroubleshoot-plugins/po/kg.po/mnt/stockage/packages/f24/setroubleshoot-plugins/po/io.po/mnt/stockage/packages/f24/setroubleshoot-plugins/po/id.po/mnt/stockage/packages/f24/setroubleshoot-plugins/po/en@shaw.po/mnt/stockage/packages/f24/setroubleshoot-plugins/po/crh.po/mnt/stockage/packages/f24/setroubleshoot-plugins/po/ca@valencia.po/mnt/stockage/packages/f24/setroubleshoot-plugins/po/be@latin.po/mnt/stockage/packages/f24/setroubleshoot-plugins/po/ang.po | 
+ | [ilo](/f24/language/ilo) | 0 | 9830 | 0.0 | /mnt/stockage/packages/f24/setroubleshoot-plugins/po/ilo.po | 
+ | [is](/f24/language/is) | 0 | 9830 | 0.0 | /mnt/stockage/packages/f24/setroubleshoot-plugins/po/is.po | 
+ | [ka](/f24/language/ka) | 0 | 9830 | 0.0 | /mnt/stockage/packages/f24/setroubleshoot-plugins/po/ka.po | 
+ | [kk](/f24/language/kk) | 0 | 9830 | 0.0 | /mnt/stockage/packages/f24/setroubleshoot-plugins/po/kk.po | 
+ | [km](/f24/language/km) | 0 | 9830 | 0.0 | /mnt/stockage/packages/f24/setroubleshoot-plugins/po/km.po | 
+ | [ks](/f24/language/ks) | 0 | 9830 | 0.0 | /mnt/stockage/packages/f24/setroubleshoot-plugins/po/ks.po | 
+ | [ku](/f24/language/ku) | 0 | 9830 | 0.0 | /mnt/stockage/packages/f24/setroubleshoot-plugins/po/ku.po | 
+ | [ky](/f24/language/ky) | 0 | 9830 | 0.0 | /mnt/stockage/packages/f24/setroubleshoot-plugins/po/ky.po | 
+ | [la](/f24/language/la) | 0 | 9830 | 0.0 | /mnt/stockage/packages/f24/setroubleshoot-plugins/po/la.po | 
+ | [lo](/f24/language/lo) | 0 | 9830 | 0.0 | /mnt/stockage/packages/f24/setroubleshoot-plugins/po/lo.po | 
+ | [lt](/f24/language/lt) | 0 | 9830 | 0.0 | /mnt/stockage/packages/f24/setroubleshoot-plugins/po/lt.po | 
+ | [lv](/f24/language/lv) | 0 | 9830 | 0.0 | /mnt/stockage/packages/f24/setroubleshoot-plugins/po/lv.po | 
+ | [mai](/f24/language/mai) | 0 | 9830 | 0.0 | /mnt/stockage/packages/f24/setroubleshoot-plugins/po/mai.po | 
+ | [mg](/f24/language/mg) | 0 | 9830 | 0.0 | /mnt/stockage/packages/f24/setroubleshoot-plugins/po/mg.po | 
+ | [mk](/f24/language/mk) | 0 | 9830 | 0.0 | /mnt/stockage/packages/f24/setroubleshoot-plugins/po/mk.po | 
+ | [mn](/f24/language/mn) | 0 | 9830 | 0.0 | /mnt/stockage/packages/f24/setroubleshoot-plugins/po/mn.po | 
+ | [ms](/f24/language/ms) | 0 | 9830 | 0.0 | /mnt/stockage/packages/f24/setroubleshoot-plugins/po/ms.po | 
+ | [my](/f24/language/my) | 0 | 9830 | 0.0 | /mnt/stockage/packages/f24/setroubleshoot-plugins/po/my.po | 
+ | [nb_NO](/f24/language/nb_NO) | 0 | 9830 | 0.0 | /mnt/stockage/packages/f24/setroubleshoot-plugins/po/nb.po | 
+ | [nds](/f24/language/nds) | 0 | 9830 | 0.0 | /mnt/stockage/packages/f24/setroubleshoot-plugins/po/nds.po | 
+ | [ne](/f24/language/ne) | 0 | 9830 | 0.0 | /mnt/stockage/packages/f24/setroubleshoot-plugins/po/ne.po | 
+ | [nn](/f24/language/nn) | 0 | 9830 | 0.0 | /mnt/stockage/packages/f24/setroubleshoot-plugins/po/nn.po | 
+ | [nso](/f24/language/nso) | 0 | 9830 | 0.0 | /mnt/stockage/packages/f24/setroubleshoot-plugins/po/nso.po | 
+ | [ro](/f24/language/ro) | 0 | 9830 | 0.0 | /mnt/stockage/packages/f24/setroubleshoot-plugins/po/ro.po | 
+ | [si](/f24/language/si) | 0 | 9830 | 0.0 | /mnt/stockage/packages/f24/setroubleshoot-plugins/po/si.po | 
+ | [sk](/f24/language/sk) | 0 | 9830 | 0.0 | /mnt/stockage/packages/f24/setroubleshoot-plugins/po/sk.po | 
+ | [sl](/f24/language/sl) | 0 | 9830 | 0.0 | /mnt/stockage/packages/f24/setroubleshoot-plugins/po/sl.po | 
+ | [sq](/f24/language/sq) | 0 | 9830 | 0.0 | /mnt/stockage/packages/f24/setroubleshoot-plugins/po/sq.po | 
+ | [sr_Latn](/f24/language/sr_Latn) | 0 | 9830 | 0.0 | /mnt/stockage/packages/f24/setroubleshoot-plugins/po/sr@latin.po | 
+ | [tg](/f24/language/tg) | 0 | 9830 | 0.0 | /mnt/stockage/packages/f24/setroubleshoot-plugins/po/tg.po | 
+ | [th](/f24/language/th) | 0 | 9830 | 0.0 | /mnt/stockage/packages/f24/setroubleshoot-plugins/po/th.po | 
+ | [tl](/f24/language/tl) | 0 | 9830 | 0.0 | /mnt/stockage/packages/f24/setroubleshoot-plugins/po/tl.po | 
+ | [tr](/f24/language/tr) | 0 | 9830 | 0.0 | /mnt/stockage/packages/f24/setroubleshoot-plugins/po/tr.po | 
+ | [ur](/f24/language/ur) | 0 | 9830 | 0.0 | /mnt/stockage/packages/f24/setroubleshoot-plugins/po/ur.po | 
+ | [vi](/f24/language/vi) | 0 | 9830 | 0.0 | /mnt/stockage/packages/f24/setroubleshoot-plugins/po/vi.po | 
+ | [wo](/f24/language/wo) | 0 | 9830 | 0.0 | /mnt/stockage/packages/f24/setroubleshoot-plugins/po/wo.po | 
+ | [xh](/f24/language/xh) | 0 | 9830 | 0.0 | /mnt/stockage/packages/f24/setroubleshoot-plugins/po/xh.po | 
+ | [zh_Hant_HK](/f24/language/zh_Hant_HK) | 0 | 9830 | 0.0 | /mnt/stockage/packages/f24/setroubleshoot-plugins/po/zh_HK.po | 
+ | [zu](/f24/language/zu) | 0 | 9830 | 0.0 | /mnt/stockage/packages/f24/setroubleshoot-plugins/po/zu.po | 
 {.sortable}
 
 

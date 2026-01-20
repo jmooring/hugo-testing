@@ -39,12 +39,12 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [libreoffice]({{< ref "/f22/package/libreoffice.md" >}}) | 31991 | 98222 | 32.6 | LANGUAGE <LL@li.org> | 
- | [tuxpaint]({{< ref "/f22/package/tuxpaint.md" >}}) | 475 | 1591 | 29.9 | LANGUAGE <LL@li.org> | 
- | [koffice-kivio]({{< ref "/f22/package/koffice-kivio.md" >}}) | 1896 | 8417 | 22.5 | <en@li.org> | 
- | [iso-codes]({{< ref "/f22/package/iso-codes.md" >}}) | 321 | 22430 | 1.4 | Venda <venda@translate.org.za> | 
- | [calibre]({{< ref "/f22/package/calibre.md" >}}) | 47 | 147028 | 0.0 | Venda (http://www.transifex.com/calibre/calibre/language/ve/) | 
- | [vidalia]({{< ref "/f22/package/vidalia.md" >}}) | 0 | 10369 | 0.0 | translations@vidalia-project.net | 
+ | [libreoffice](/f22/package/libreoffice) | 31991 | 98222 | 32.6 | LANGUAGE <LL@li.org> | 
+ | [tuxpaint](/f22/package/tuxpaint) | 475 | 1591 | 29.9 | LANGUAGE <LL@li.org> | 
+ | [koffice-kivio](/f22/package/koffice-kivio) | 1896 | 8417 | 22.5 | <en@li.org> | 
+ | [iso-codes](/f22/package/iso-codes) | 321 | 22430 | 1.4 | Venda <venda@translate.org.za> | 
+ | [calibre](/f22/package/calibre) | 47 | 147028 | 0.0 | Venda (http://www.transifex.com/calibre/calibre/language/ve/) | 
+ | [vidalia](/f22/package/vidalia) | 0 | 10369 | 0.0 | translations@vidalia-project.net | 
 {.sortable}
 
 

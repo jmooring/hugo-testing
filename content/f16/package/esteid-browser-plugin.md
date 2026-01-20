@@ -18,8 +18,8 @@ The package esteid-browser-plugin (version 1.3.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [et]({{< ref "/f16/language/et.md" >}}) | 94 | 94 | 100.0 | /mnt/stockage/packages/f16/esteid-browser-plugin/po/et.po | 
- | [ru]({{< ref "/f16/language/ru.md" >}}) | 94 | 94 | 100.0 | /mnt/stockage/packages/f16/esteid-browser-plugin/po/ru.po | 
+ | [et](/f16/language/et) | 94 | 94 | 100.0 | /mnt/stockage/packages/f16/esteid-browser-plugin/po/et.po | 
+ | [ru](/f16/language/ru) | 94 | 94 | 100.0 | /mnt/stockage/packages/f16/esteid-browser-plugin/po/ru.po | 
 {.sortable}
 
 

@@ -18,14 +18,14 @@ The package ease (version 0.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f13/language/de.md" >}}) | 571 | 571 | 100.0 | /mnt/stockage/packages/f13/ease/po/de.po | 
- | [es]({{< ref "/f13/language/es.md" >}}) | 571 | 571 | 100.0 | /mnt/stockage/packages/f13/ease/po/es.po | 
- | [pt_BR]({{< ref "/f13/language/pt_BR.md" >}}) | 515 | 515 | 100.0 | /mnt/stockage/packages/f13/ease/po/pt_BR.po | 
- | [sl]({{< ref "/f13/language/sl.md" >}}) | 571 | 571 | 100.0 | /mnt/stockage/packages/f13/ease/po/sl.po | 
- | [sv]({{< ref "/f13/language/sv.md" >}}) | 8 | 8 | 100.0 | /mnt/stockage/packages/f13/ease/po/sv.po | 
- | [zh_Hans]({{< ref "/f13/language/zh_Hans.md" >}}) | 523 | 571 | 91.6 | /mnt/stockage/packages/f13/ease/po/zh_CN.po | 
- | [cs]({{< ref "/f13/language/cs.md" >}}) | 320 | 515 | 62.1 | /mnt/stockage/packages/f13/ease/po/cs.po | 
- | [fr]({{< ref "/f13/language/fr.md" >}}) | 18 | 344 | 5.2 | /mnt/stockage/packages/f13/ease/po/fr.po | 
+ | [de](/f13/language/de) | 571 | 571 | 100.0 | /mnt/stockage/packages/f13/ease/po/de.po | 
+ | [es](/f13/language/es) | 571 | 571 | 100.0 | /mnt/stockage/packages/f13/ease/po/es.po | 
+ | [pt_BR](/f13/language/pt_BR) | 515 | 515 | 100.0 | /mnt/stockage/packages/f13/ease/po/pt_BR.po | 
+ | [sl](/f13/language/sl) | 571 | 571 | 100.0 | /mnt/stockage/packages/f13/ease/po/sl.po | 
+ | [sv](/f13/language/sv) | 8 | 8 | 100.0 | /mnt/stockage/packages/f13/ease/po/sv.po | 
+ | [zh_Hans](/f13/language/zh_Hans) | 523 | 571 | 91.6 | /mnt/stockage/packages/f13/ease/po/zh_CN.po | 
+ | [cs](/f13/language/cs) | 320 | 515 | 62.1 | /mnt/stockage/packages/f13/ease/po/cs.po | 
+ | [fr](/f13/language/fr) | 18 | 344 | 5.2 | /mnt/stockage/packages/f13/ease/po/fr.po | 
 {.sortable}
 
 

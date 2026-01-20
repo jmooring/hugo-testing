@@ -39,18 +39,18 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [slick-greeter]({{< ref "/f40/package/slick-greeter.md" >}}) | 60 | 216 | 27.8 | Shan <shn@li.org> | 
- | [shutter]({{< ref "/f40/package/shutter.md" >}}) | 361 | 2614 | 13.8 | Shan <shn@li.org> | 
- | [simple-scan]({{< ref "/f40/package/simple-scan.md" >}}) | 4 | 589 | 0.7 | Shan <shn@li.org> | 
- | [cinnamon-translations]({{< ref "/f40/package/cinnamon-translations.md" >}}) | 48 | 19026 | 0.3 | Shan <shn@li.org> | 
- | [transmission]({{< ref "/f40/package/transmission.md" >}}) | 4 | 2441 | 0.2 | Shan <shn@li.org> | 
- | [remmina]({{< ref "/f40/package/remmina.md" >}}) | 3 | 5396 | 0.1 | Shan <https://hosted.weblate.org/projects/remmina/remmina/shn/> | 
- | [deja-dup]({{< ref "/f40/package/deja-dup.md" >}}) | 0 | 1623 | 0.0 | Shan <shn@li.org> | 
- | [lightdm]({{< ref "/f40/package/lightdm.md" >}}) | 0 | 163 | 0.0 | Shan <shn@li.org> | 
- | [pyhoca-gui]({{< ref "/f40/package/pyhoca-gui.md" >}}) | 0 | 1865 | 0.0 | none | 
- | [python-django-mailman3]({{< ref "/f40/package/python-django-mailman3.md" >}}) | 0 | 355 | 0.0 | LANGUAGE <LL@li.org> | 
- | [python-hyperkitty]({{< ref "/f40/package/python-hyperkitty.md" >}}) | 0 | 951 | 0.0 | LANGUAGE <LL@li.org> | 
- | [python-postorius]({{< ref "/f40/package/python-postorius.md" >}}) | 0 | 5054 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [slick-greeter](/f40/package/slick-greeter) | 60 | 216 | 27.8 | Shan <shn@li.org> | 
+ | [shutter](/f40/package/shutter) | 361 | 2614 | 13.8 | Shan <shn@li.org> | 
+ | [simple-scan](/f40/package/simple-scan) | 4 | 589 | 0.7 | Shan <shn@li.org> | 
+ | [cinnamon-translations](/f40/package/cinnamon-translations) | 48 | 19026 | 0.3 | Shan <shn@li.org> | 
+ | [transmission](/f40/package/transmission) | 4 | 2441 | 0.2 | Shan <shn@li.org> | 
+ | [remmina](/f40/package/remmina) | 3 | 5396 | 0.1 | Shan <https://hosted.weblate.org/projects/remmina/remmina/shn/> | 
+ | [deja-dup](/f40/package/deja-dup) | 0 | 1623 | 0.0 | Shan <shn@li.org> | 
+ | [lightdm](/f40/package/lightdm) | 0 | 163 | 0.0 | Shan <shn@li.org> | 
+ | [pyhoca-gui](/f40/package/pyhoca-gui) | 0 | 1865 | 0.0 | none | 
+ | [python-django-mailman3](/f40/package/python-django-mailman3) | 0 | 355 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [python-hyperkitty](/f40/package/python-hyperkitty) | 0 | 951 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [python-postorius](/f40/package/python-postorius) | 0 | 5054 | 0.0 | LANGUAGE <LL@li.org> | 
 {.sortable}
 
 

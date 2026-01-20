@@ -18,27 +18,27 @@ The package alexandria (version 0.7.8):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [pl]({{< ref "/f34/language/pl.md" >}}) | 1212 | 1212 | 100.0 | /mnt/stockage/packages/f34/alexandria/po/pl.po | 
- | [nl]({{< ref "/f34/language/nl.md" >}}) | 1137 | 1212 | 93.8 | /mnt/stockage/packages/f34/alexandria/po/nl.po | 
- | [de]({{< ref "/f34/language/de.md" >}}) | 1039 | 1212 | 85.7 | /mnt/stockage/packages/f34/alexandria/po/de.po | 
- | [el]({{< ref "/f34/language/el.md" >}}) | 1039 | 1212 | 85.7 | /mnt/stockage/packages/f34/alexandria/po/el.po | 
- | [es]({{< ref "/f34/language/es.md" >}}) | 1039 | 1212 | 85.7 | /mnt/stockage/packages/f34/alexandria/po/es.po | 
- | [mk]({{< ref "/f34/language/mk.md" >}}) | 1039 | 1212 | 85.7 | /mnt/stockage/packages/f34/alexandria/po/mk.po | 
- | [ru]({{< ref "/f34/language/ru.md" >}}) | 1029 | 1212 | 84.9 | /mnt/stockage/packages/f34/alexandria/po/ru.po | 
- | [sk]({{< ref "/f34/language/sk.md" >}}) | 1023 | 1212 | 84.4 | /mnt/stockage/packages/f34/alexandria/po/sk.po | 
- | [sv]({{< ref "/f34/language/sv.md" >}}) | 957 | 1212 | 79.0 | /mnt/stockage/packages/f34/alexandria/po/sv.po | 
- | [fr]({{< ref "/f34/language/fr.md" >}}) | 955 | 1212 | 78.8 | /mnt/stockage/packages/f34/alexandria/po/fr.po | 
- | [gl]({{< ref "/f34/language/gl.md" >}}) | 955 | 1212 | 78.8 | /mnt/stockage/packages/f34/alexandria/po/gl.po | 
- | [it]({{< ref "/f34/language/it.md" >}}) | 955 | 1212 | 78.8 | /mnt/stockage/packages/f34/alexandria/po/it.po | 
- | [ja]({{< ref "/f34/language/ja.md" >}}) | 955 | 1212 | 78.8 | /mnt/stockage/packages/f34/alexandria/po/ja.po | 
- | [nb_NO]({{< ref "/f34/language/nb_NO.md" >}}) | 955 | 1212 | 78.8 | /mnt/stockage/packages/f34/alexandria/po/nb.po | 
- | [pt_BR]({{< ref "/f34/language/pt_BR.md" >}}) | 955 | 1212 | 78.8 | /mnt/stockage/packages/f34/alexandria/po/pt_BR.po | 
- | [zh_Hant]({{< ref "/f34/language/zh_Hant.md" >}}) | 955 | 1212 | 78.8 | /mnt/stockage/packages/f34/alexandria/po/zh_TW.po | 
- | [pt]({{< ref "/f34/language/pt.md" >}}) | 949 | 1212 | 78.3 | /mnt/stockage/packages/f34/alexandria/po/pt.po | 
- | [cs]({{< ref "/f34/language/cs.md" >}}) | 901 | 1212 | 74.3 | /mnt/stockage/packages/f34/alexandria/po/cs.po | 
- | [uk]({{< ref "/f34/language/uk.md" >}}) | 829 | 1212 | 68.4 | /mnt/stockage/packages/f34/alexandria/po/uk.po | 
- | [ga]({{< ref "/f34/language/ga.md" >}}) | 511 | 1212 | 42.2 | /mnt/stockage/packages/f34/alexandria/po/ga.po | 
- | [cy]({{< ref "/f34/language/cy.md" >}}) | 473 | 1212 | 39.0 | /mnt/stockage/packages/f34/alexandria/po/cy.po | 
+ | [pl](/f34/language/pl) | 1212 | 1212 | 100.0 | /mnt/stockage/packages/f34/alexandria/po/pl.po | 
+ | [nl](/f34/language/nl) | 1137 | 1212 | 93.8 | /mnt/stockage/packages/f34/alexandria/po/nl.po | 
+ | [de](/f34/language/de) | 1039 | 1212 | 85.7 | /mnt/stockage/packages/f34/alexandria/po/de.po | 
+ | [el](/f34/language/el) | 1039 | 1212 | 85.7 | /mnt/stockage/packages/f34/alexandria/po/el.po | 
+ | [es](/f34/language/es) | 1039 | 1212 | 85.7 | /mnt/stockage/packages/f34/alexandria/po/es.po | 
+ | [mk](/f34/language/mk) | 1039 | 1212 | 85.7 | /mnt/stockage/packages/f34/alexandria/po/mk.po | 
+ | [ru](/f34/language/ru) | 1029 | 1212 | 84.9 | /mnt/stockage/packages/f34/alexandria/po/ru.po | 
+ | [sk](/f34/language/sk) | 1023 | 1212 | 84.4 | /mnt/stockage/packages/f34/alexandria/po/sk.po | 
+ | [sv](/f34/language/sv) | 957 | 1212 | 79.0 | /mnt/stockage/packages/f34/alexandria/po/sv.po | 
+ | [fr](/f34/language/fr) | 955 | 1212 | 78.8 | /mnt/stockage/packages/f34/alexandria/po/fr.po | 
+ | [gl](/f34/language/gl) | 955 | 1212 | 78.8 | /mnt/stockage/packages/f34/alexandria/po/gl.po | 
+ | [it](/f34/language/it) | 955 | 1212 | 78.8 | /mnt/stockage/packages/f34/alexandria/po/it.po | 
+ | [ja](/f34/language/ja) | 955 | 1212 | 78.8 | /mnt/stockage/packages/f34/alexandria/po/ja.po | 
+ | [nb_NO](/f34/language/nb_NO) | 955 | 1212 | 78.8 | /mnt/stockage/packages/f34/alexandria/po/nb.po | 
+ | [pt_BR](/f34/language/pt_BR) | 955 | 1212 | 78.8 | /mnt/stockage/packages/f34/alexandria/po/pt_BR.po | 
+ | [zh_Hant](/f34/language/zh_Hant) | 955 | 1212 | 78.8 | /mnt/stockage/packages/f34/alexandria/po/zh_TW.po | 
+ | [pt](/f34/language/pt) | 949 | 1212 | 78.3 | /mnt/stockage/packages/f34/alexandria/po/pt.po | 
+ | [cs](/f34/language/cs) | 901 | 1212 | 74.3 | /mnt/stockage/packages/f34/alexandria/po/cs.po | 
+ | [uk](/f34/language/uk) | 829 | 1212 | 68.4 | /mnt/stockage/packages/f34/alexandria/po/uk.po | 
+ | [ga](/f34/language/ga) | 511 | 1212 | 42.2 | /mnt/stockage/packages/f34/alexandria/po/ga.po | 
+ | [cy](/f34/language/cy) | 473 | 1212 | 39.0 | /mnt/stockage/packages/f34/alexandria/po/cy.po | 
 {.sortable}
 
 

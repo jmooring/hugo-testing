@@ -18,14 +18,14 @@ The package procps-ng (version 3.3.16):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f33/language/fr.md" >}}) | 4640 | 4640 | 100.0 | /mnt/stockage/packages/f33/procps-ng/po/fr.po | 
- | [pl]({{< ref "/f33/language/pl.md" >}}) | 4640 | 4640 | 100.0 | /mnt/stockage/packages/f33/procps-ng/po/pl.po | 
- | [pt_BR]({{< ref "/f33/language/pt_BR.md" >}}) | 4640 | 4640 | 100.0 | /mnt/stockage/packages/f33/procps-ng/po/pt_BR.po | 
- | [sv]({{< ref "/f33/language/sv.md" >}}) | 4640 | 4640 | 100.0 | /mnt/stockage/packages/f33/procps-ng/po/sv.po | 
- | [uk]({{< ref "/f33/language/uk.md" >}}) | 4640 | 4640 | 100.0 | /mnt/stockage/packages/f33/procps-ng/po/uk.po | 
- | [vi]({{< ref "/f33/language/vi.md" >}}) | 3989 | 4640 | 86.0 | /mnt/stockage/packages/f33/procps-ng/po/vi.po | 
- | [de]({{< ref "/f33/language/de.md" >}}) | 3580 | 4640 | 77.2 | /mnt/stockage/packages/f33/procps-ng/po/de.po | 
- | [zh_Hans]({{< ref "/f33/language/zh_Hans.md" >}}) | 158 | 4640 | 3.4 | /mnt/stockage/packages/f33/procps-ng/po/zh_CN.po | 
+ | [fr](/f33/language/fr) | 4640 | 4640 | 100.0 | /mnt/stockage/packages/f33/procps-ng/po/fr.po | 
+ | [pl](/f33/language/pl) | 4640 | 4640 | 100.0 | /mnt/stockage/packages/f33/procps-ng/po/pl.po | 
+ | [pt_BR](/f33/language/pt_BR) | 4640 | 4640 | 100.0 | /mnt/stockage/packages/f33/procps-ng/po/pt_BR.po | 
+ | [sv](/f33/language/sv) | 4640 | 4640 | 100.0 | /mnt/stockage/packages/f33/procps-ng/po/sv.po | 
+ | [uk](/f33/language/uk) | 4640 | 4640 | 100.0 | /mnt/stockage/packages/f33/procps-ng/po/uk.po | 
+ | [vi](/f33/language/vi) | 3989 | 4640 | 86.0 | /mnt/stockage/packages/f33/procps-ng/po/vi.po | 
+ | [de](/f33/language/de) | 3580 | 4640 | 77.2 | /mnt/stockage/packages/f33/procps-ng/po/de.po | 
+ | [zh_Hans](/f33/language/zh_Hans) | 158 | 4640 | 3.4 | /mnt/stockage/packages/f33/procps-ng/po/zh_CN.po | 
 {.sortable}
 
 

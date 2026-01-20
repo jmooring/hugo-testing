@@ -41,31 +41,31 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [newt]({{< ref "/f19/package/newt.md" >}}) | 4 | 4 | 100.0 | Balochi <fedora-trans-bal@redhat.com> | 
- | [pessulus]({{< ref "/f19/package/pessulus.md" >}}) | 88 | 88 | 100.0 | Balochi <mostafa@daneshvar.org.uk> | 
- | [setuptool]({{< ref "/f19/package/setuptool.md" >}}) | 55 | 55 | 100.0 | Balochi <fedora-trans-bal@redhat.com> | 
- | [system-switch-mail]({{< ref "/f19/package/system-switch-mail.md" >}}) | 158 | 158 | 100.0 | Balochi <fedora-trans-bal@redhat.com> | 
- | [chkconfig]({{< ref "/f19/package/chkconfig.md" >}}) | 423 | 487 | 86.9 | Balochi <trans-bal@lists.fedoraproject.org> | 
- | [authconfig]({{< ref "/f19/package/authconfig.md" >}}) | 925 | 1638 | 56.5 | Balochi <trans-bal@lists.fedoraproject.org> | 
- | [anaconda]({{< ref "/f19/package/anaconda.md" >}}) | 1 | 4951 | 0.0 | Balochi <trans-bal@lists.fedoraproject.org> | 
- | [transifex]({{< ref "/f19/package/transifex.md" >}}) | 1 | 6018 | 0.0 | LANGUAGE <LL@li.org> | 
- | [abrt]({{< ref "/f19/package/abrt.md" >}}) | 0 | 2722 | 0.0 | Balochi (http://www.transifex.com/projects/p/fedora/language/bal/) | 
- | [firstboot]({{< ref "/f19/package/firstboot.md" >}}) | 0 | 571 | 0.0 | Balochi <trans-bal@lists.fedoraproject.org> | 
- | [initscripts]({{< ref "/f19/package/initscripts.md" >}}) | 0 | 1003 | 0.0 | Balochi <trans-bal@lists.fedoraproject.org> | 
- | [libreport]({{< ref "/f19/package/libreport.md" >}}) | 0 | 3139 | 0.0 | Balochi (http://www.transifex.com/projects/p/fedora/language/bal/) | 
- | [liveusb-creator]({{< ref "/f19/package/liveusb-creator.md" >}}) | 0 | 480 | 0.0 | Balochi (http://www.transifex.com/projects/p/fedora/language/bal/) | 
- | [python-meh]({{< ref "/f19/package/python-meh.md" >}}) | 0 | 83 | 0.0 | Balochi <trans-bal@lists.fedoraproject.org> | 
- | [rhnsd]({{< ref "/f19/package/rhnsd.md" >}}) | 0 | 37 | 0.0 | Balochi <trans-bal@lists.fedoraproject.org> | 
- | [spacewalk-backend]({{< ref "/f19/package/spacewalk-backend.md" >}}) | 0 | 1895 | 0.0 | Balochi <trans-bal@lists.fedoraproject.org> | 
- | [system-config-date]({{< ref "/f19/package/system-config-date.md" >}}) | 0 | 503 | 0.0 | Balochi <trans-bal@lists.fedoraproject.org> | 
- | [system-config-date-docs]({{< ref "/f19/package/system-config-date-docs.md" >}}) | 0 | 761 | 0.0 | LANGUAGE <LL@li.org> | 
- | [system-config-kickstart]({{< ref "/f19/package/system-config-kickstart.md" >}}) | 0 | 1144 | 0.0 | Balochi <trans-bal@lists.fedoraproject.org> | 
- | [system-config-network]({{< ref "/f19/package/system-config-network.md" >}}) | 0 | 3032 | 0.0 | Balochi <trans-bal@lists.fedoraproject.org> | 
- | [system-config-nfs-docs]({{< ref "/f19/package/system-config-nfs-docs.md" >}}) | 0 | 1192 | 0.0 | LANGUAGE <LL@li.org> | 
- | [system-config-samba-docs]({{< ref "/f19/package/system-config-samba-docs.md" >}}) | 0 | 1195 | 0.0 | LANGUAGE <LL@li.org> | 
- | [system-config-services]({{< ref "/f19/package/system-config-services.md" >}}) | 0 | 518 | 0.0 | Balochi <trans-bal@lists.fedoraproject.org> | 
- | [system-config-services-docs]({{< ref "/f19/package/system-config-services-docs.md" >}}) | 0 | 638 | 0.0 | LANGUAGE <LL@li.org> | 
- | [system-config-users-docs]({{< ref "/f19/package/system-config-users-docs.md" >}}) | 0 | 1061 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [newt](/f19/package/newt) | 4 | 4 | 100.0 | Balochi <fedora-trans-bal@redhat.com> | 
+ | [pessulus](/f19/package/pessulus) | 88 | 88 | 100.0 | Balochi <mostafa@daneshvar.org.uk> | 
+ | [setuptool](/f19/package/setuptool) | 55 | 55 | 100.0 | Balochi <fedora-trans-bal@redhat.com> | 
+ | [system-switch-mail](/f19/package/system-switch-mail) | 158 | 158 | 100.0 | Balochi <fedora-trans-bal@redhat.com> | 
+ | [chkconfig](/f19/package/chkconfig) | 423 | 487 | 86.9 | Balochi <trans-bal@lists.fedoraproject.org> | 
+ | [authconfig](/f19/package/authconfig) | 925 | 1638 | 56.5 | Balochi <trans-bal@lists.fedoraproject.org> | 
+ | [anaconda](/f19/package/anaconda) | 1 | 4951 | 0.0 | Balochi <trans-bal@lists.fedoraproject.org> | 
+ | [transifex](/f19/package/transifex) | 1 | 6018 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [abrt](/f19/package/abrt) | 0 | 2722 | 0.0 | Balochi (http://www.transifex.com/projects/p/fedora/language/bal/) | 
+ | [firstboot](/f19/package/firstboot) | 0 | 571 | 0.0 | Balochi <trans-bal@lists.fedoraproject.org> | 
+ | [initscripts](/f19/package/initscripts) | 0 | 1003 | 0.0 | Balochi <trans-bal@lists.fedoraproject.org> | 
+ | [libreport](/f19/package/libreport) | 0 | 3139 | 0.0 | Balochi (http://www.transifex.com/projects/p/fedora/language/bal/) | 
+ | [liveusb-creator](/f19/package/liveusb-creator) | 0 | 480 | 0.0 | Balochi (http://www.transifex.com/projects/p/fedora/language/bal/) | 
+ | [python-meh](/f19/package/python-meh) | 0 | 83 | 0.0 | Balochi <trans-bal@lists.fedoraproject.org> | 
+ | [rhnsd](/f19/package/rhnsd) | 0 | 37 | 0.0 | Balochi <trans-bal@lists.fedoraproject.org> | 
+ | [spacewalk-backend](/f19/package/spacewalk-backend) | 0 | 1895 | 0.0 | Balochi <trans-bal@lists.fedoraproject.org> | 
+ | [system-config-date](/f19/package/system-config-date) | 0 | 503 | 0.0 | Balochi <trans-bal@lists.fedoraproject.org> | 
+ | [system-config-date-docs](/f19/package/system-config-date-docs) | 0 | 761 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [system-config-kickstart](/f19/package/system-config-kickstart) | 0 | 1144 | 0.0 | Balochi <trans-bal@lists.fedoraproject.org> | 
+ | [system-config-network](/f19/package/system-config-network) | 0 | 3032 | 0.0 | Balochi <trans-bal@lists.fedoraproject.org> | 
+ | [system-config-nfs-docs](/f19/package/system-config-nfs-docs) | 0 | 1192 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [system-config-samba-docs](/f19/package/system-config-samba-docs) | 0 | 1195 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [system-config-services](/f19/package/system-config-services) | 0 | 518 | 0.0 | Balochi <trans-bal@lists.fedoraproject.org> | 
+ | [system-config-services-docs](/f19/package/system-config-services-docs) | 0 | 638 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [system-config-users-docs](/f19/package/system-config-users-docs) | 0 | 1061 | 0.0 | LANGUAGE <LL@li.org> | 
 {.sortable}
 
 

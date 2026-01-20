@@ -18,50 +18,50 @@ The package ktp-send-file (version 18.08.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [bs]({{< ref "/f28/language/bs.md" >}}) | 60 | 60 | 100.0 | /mnt/stockage/packages/f28/ktp-send-file/po/bs/ktp-send-file.po | 
- | [ca]({{< ref "/f28/language/ca.md" >}}) | 60 | 60 | 100.0 | /mnt/stockage/packages/f28/ktp-send-file/po/ca/ktp-send-file.po | 
- | [ca@valencia]({{< ref "/f28/language/ca@valencia.md" >}}) | 60 | 60 | 100.0 | /mnt/stockage/packages/f28/ktp-send-file/po/ca@valencia/ktp-send-file.po | 
- | [cs]({{< ref "/f28/language/cs.md" >}}) | 60 | 60 | 100.0 | /mnt/stockage/packages/f28/ktp-send-file/po/cs/ktp-send-file.po | 
- | [da]({{< ref "/f28/language/da.md" >}}) | 60 | 60 | 100.0 | /mnt/stockage/packages/f28/ktp-send-file/po/da/ktp-send-file.po | 
- | [de]({{< ref "/f28/language/de.md" >}}) | 60 | 60 | 100.0 | /mnt/stockage/packages/f28/ktp-send-file/po/de/ktp-send-file.po | 
- | [el]({{< ref "/f28/language/el.md" >}}) | 60 | 60 | 100.0 | /mnt/stockage/packages/f28/ktp-send-file/po/el/ktp-send-file.po | 
- | [en_GB]({{< ref "/f28/language/en_GB.md" >}}) | 60 | 60 | 100.0 | /mnt/stockage/packages/f28/ktp-send-file/po/en_GB/ktp-send-file.po | 
- | [es]({{< ref "/f28/language/es.md" >}}) | 60 | 60 | 100.0 | /mnt/stockage/packages/f28/ktp-send-file/po/es/ktp-send-file.po | 
- | [et]({{< ref "/f28/language/et.md" >}}) | 60 | 60 | 100.0 | /mnt/stockage/packages/f28/ktp-send-file/po/et/ktp-send-file.po | 
- | [fi]({{< ref "/f28/language/fi.md" >}}) | 60 | 60 | 100.0 | /mnt/stockage/packages/f28/ktp-send-file/po/fi/ktp-send-file.po | 
- | [fr]({{< ref "/f28/language/fr.md" >}}) | 60 | 60 | 100.0 | /mnt/stockage/packages/f28/ktp-send-file/po/fr/ktp-send-file.po | 
- | [gl]({{< ref "/f28/language/gl.md" >}}) | 60 | 60 | 100.0 | /mnt/stockage/packages/f28/ktp-send-file/po/gl/ktp-send-file.po | 
- | [hu]({{< ref "/f28/language/hu.md" >}}) | 60 | 60 | 100.0 | /mnt/stockage/packages/f28/ktp-send-file/po/hu/ktp-send-file.po | 
- | [it]({{< ref "/f28/language/it.md" >}}) | 60 | 60 | 100.0 | /mnt/stockage/packages/f28/ktp-send-file/po/it/ktp-send-file.po | 
- | [ko]({{< ref "/f28/language/ko.md" >}}) | 60 | 60 | 100.0 | /mnt/stockage/packages/f28/ktp-send-file/po/ko/ktp-send-file.po | 
- | [nl]({{< ref "/f28/language/nl.md" >}}) | 60 | 60 | 100.0 | /mnt/stockage/packages/f28/ktp-send-file/po/nl/ktp-send-file.po | 
- | [nn]({{< ref "/f28/language/nn.md" >}}) | 60 | 60 | 100.0 | /mnt/stockage/packages/f28/ktp-send-file/po/nn/ktp-send-file.po | 
- | [pl]({{< ref "/f28/language/pl.md" >}}) | 60 | 60 | 100.0 | /mnt/stockage/packages/f28/ktp-send-file/po/pl/ktp-send-file.po | 
- | [pt]({{< ref "/f28/language/pt.md" >}}) | 60 | 60 | 100.0 | /mnt/stockage/packages/f28/ktp-send-file/po/pt/ktp-send-file.po | 
- | [pt_BR]({{< ref "/f28/language/pt_BR.md" >}}) | 60 | 60 | 100.0 | /mnt/stockage/packages/f28/ktp-send-file/po/pt_BR/ktp-send-file.po | 
- | [ro]({{< ref "/f28/language/ro.md" >}}) | 60 | 60 | 100.0 | /mnt/stockage/packages/f28/ktp-send-file/po/ro/ktp-send-file.po | 
- | [ru]({{< ref "/f28/language/ru.md" >}}) | 60 | 60 | 100.0 | /mnt/stockage/packages/f28/ktp-send-file/po/ru/ktp-send-file.po | 
- | [sk]({{< ref "/f28/language/sk.md" >}}) | 60 | 60 | 100.0 | /mnt/stockage/packages/f28/ktp-send-file/po/sk/ktp-send-file.po | 
- | [sl]({{< ref "/f28/language/sl.md" >}}) | 60 | 60 | 100.0 | /mnt/stockage/packages/f28/ktp-send-file/po/sl/ktp-send-file.po | 
- | [sr]({{< ref "/f28/language/sr.md" >}}) | 60 | 60 | 100.0 | /mnt/stockage/packages/f28/ktp-send-file/po/sr/ktp-send-file.po | 
- | [sv]({{< ref "/f28/language/sv.md" >}}) | 60 | 60 | 100.0 | /mnt/stockage/packages/f28/ktp-send-file/po/sv/ktp-send-file.po | 
- | [tr]({{< ref "/f28/language/tr.md" >}}) | 60 | 60 | 100.0 | /mnt/stockage/packages/f28/ktp-send-file/po/tr/ktp-send-file.po | 
- | [uk]({{< ref "/f28/language/uk.md" >}}) | 60 | 60 | 100.0 | /mnt/stockage/packages/f28/ktp-send-file/po/uk/ktp-send-file.po | 
- | [zh_Hans]({{< ref "/f28/language/zh_Hans.md" >}}) | 60 | 60 | 100.0 | /mnt/stockage/packages/f28/ktp-send-file/po/zh_CN/ktp-send-file.po | 
- | [zh_Hant]({{< ref "/f28/language/zh_Hant.md" >}}) | 60 | 60 | 100.0 | /mnt/stockage/packages/f28/ktp-send-file/po/zh_TW/ktp-send-file.po | 
- | [ia]({{< ref "/f28/language/ia.md" >}}) | 55 | 60 | 91.7 | /mnt/stockage/packages/f28/ktp-send-file/po/ia/ktp-send-file.po | 
- | [kk]({{< ref "/f28/language/kk.md" >}}) | 55 | 60 | 91.7 | /mnt/stockage/packages/f28/ktp-send-file/po/kk/ktp-send-file.po | 
- | [lt]({{< ref "/f28/language/lt.md" >}}) | 55 | 60 | 91.7 | /mnt/stockage/packages/f28/ktp-send-file/po/lt/ktp-send-file.po | 
- | [nb_NO]({{< ref "/f28/language/nb_NO.md" >}}) | 55 | 60 | 91.7 | /mnt/stockage/packages/f28/ktp-send-file/po/nb/ktp-send-file.po | 
- | [nds]({{< ref "/f28/language/nds.md" >}}) | 55 | 60 | 91.7 | /mnt/stockage/packages/f28/ktp-send-file/po/nds/ktp-send-file.po | 
- | [ar]({{< ref "/f28/language/ar.md" >}}) | 52 | 60 | 86.7 | /mnt/stockage/packages/f28/ktp-send-file/po/ar/ktp-send-file.po | 
- | [ast]({{< ref "/f28/language/ast.md" >}}) | 50 | 60 | 83.3 | /mnt/stockage/packages/f28/ktp-send-file/po/ast/ktp-send-file.po | 
- | [ga]({{< ref "/f28/language/ga.md" >}}) | 33 | 60 | 55.0 | /mnt/stockage/packages/f28/ktp-send-file/po/ga/ktp-send-file.po | 
- | [km]({{< ref "/f28/language/km.md" >}}) | 33 | 60 | 55.0 | /mnt/stockage/packages/f28/ktp-send-file/po/km/ktp-send-file.po | 
- | [mr]({{< ref "/f28/language/mr.md" >}}) | 21 | 60 | 35.0 | /mnt/stockage/packages/f28/ktp-send-file/po/mr/ktp-send-file.po | 
- | [ug]({{< ref "/f28/language/ug.md" >}}) | 16 | 60 | 26.7 | /mnt/stockage/packages/f28/ktp-send-file/po/ug/ktp-send-file.po | 
- | [pa]({{< ref "/f28/language/pa.md" >}}) | 9 | 60 | 15.0 | /mnt/stockage/packages/f28/ktp-send-file/po/pa/ktp-send-file.po | 
- | [ja]({{< ref "/f28/language/ja.md" >}}) | 0 | 60 | 0.0 | /mnt/stockage/packages/f28/ktp-send-file/po/ja/ktp-send-file.po | 
+ | [bs](/f28/language/bs) | 60 | 60 | 100.0 | /mnt/stockage/packages/f28/ktp-send-file/po/bs/ktp-send-file.po | 
+ | [ca](/f28/language/ca) | 60 | 60 | 100.0 | /mnt/stockage/packages/f28/ktp-send-file/po/ca/ktp-send-file.po | 
+ | [ca@valencia](/f28/language/ca@valencia) | 60 | 60 | 100.0 | /mnt/stockage/packages/f28/ktp-send-file/po/ca@valencia/ktp-send-file.po | 
+ | [cs](/f28/language/cs) | 60 | 60 | 100.0 | /mnt/stockage/packages/f28/ktp-send-file/po/cs/ktp-send-file.po | 
+ | [da](/f28/language/da) | 60 | 60 | 100.0 | /mnt/stockage/packages/f28/ktp-send-file/po/da/ktp-send-file.po | 
+ | [de](/f28/language/de) | 60 | 60 | 100.0 | /mnt/stockage/packages/f28/ktp-send-file/po/de/ktp-send-file.po | 
+ | [el](/f28/language/el) | 60 | 60 | 100.0 | /mnt/stockage/packages/f28/ktp-send-file/po/el/ktp-send-file.po | 
+ | [en_GB](/f28/language/en_GB) | 60 | 60 | 100.0 | /mnt/stockage/packages/f28/ktp-send-file/po/en_GB/ktp-send-file.po | 
+ | [es](/f28/language/es) | 60 | 60 | 100.0 | /mnt/stockage/packages/f28/ktp-send-file/po/es/ktp-send-file.po | 
+ | [et](/f28/language/et) | 60 | 60 | 100.0 | /mnt/stockage/packages/f28/ktp-send-file/po/et/ktp-send-file.po | 
+ | [fi](/f28/language/fi) | 60 | 60 | 100.0 | /mnt/stockage/packages/f28/ktp-send-file/po/fi/ktp-send-file.po | 
+ | [fr](/f28/language/fr) | 60 | 60 | 100.0 | /mnt/stockage/packages/f28/ktp-send-file/po/fr/ktp-send-file.po | 
+ | [gl](/f28/language/gl) | 60 | 60 | 100.0 | /mnt/stockage/packages/f28/ktp-send-file/po/gl/ktp-send-file.po | 
+ | [hu](/f28/language/hu) | 60 | 60 | 100.0 | /mnt/stockage/packages/f28/ktp-send-file/po/hu/ktp-send-file.po | 
+ | [it](/f28/language/it) | 60 | 60 | 100.0 | /mnt/stockage/packages/f28/ktp-send-file/po/it/ktp-send-file.po | 
+ | [ko](/f28/language/ko) | 60 | 60 | 100.0 | /mnt/stockage/packages/f28/ktp-send-file/po/ko/ktp-send-file.po | 
+ | [nl](/f28/language/nl) | 60 | 60 | 100.0 | /mnt/stockage/packages/f28/ktp-send-file/po/nl/ktp-send-file.po | 
+ | [nn](/f28/language/nn) | 60 | 60 | 100.0 | /mnt/stockage/packages/f28/ktp-send-file/po/nn/ktp-send-file.po | 
+ | [pl](/f28/language/pl) | 60 | 60 | 100.0 | /mnt/stockage/packages/f28/ktp-send-file/po/pl/ktp-send-file.po | 
+ | [pt](/f28/language/pt) | 60 | 60 | 100.0 | /mnt/stockage/packages/f28/ktp-send-file/po/pt/ktp-send-file.po | 
+ | [pt_BR](/f28/language/pt_BR) | 60 | 60 | 100.0 | /mnt/stockage/packages/f28/ktp-send-file/po/pt_BR/ktp-send-file.po | 
+ | [ro](/f28/language/ro) | 60 | 60 | 100.0 | /mnt/stockage/packages/f28/ktp-send-file/po/ro/ktp-send-file.po | 
+ | [ru](/f28/language/ru) | 60 | 60 | 100.0 | /mnt/stockage/packages/f28/ktp-send-file/po/ru/ktp-send-file.po | 
+ | [sk](/f28/language/sk) | 60 | 60 | 100.0 | /mnt/stockage/packages/f28/ktp-send-file/po/sk/ktp-send-file.po | 
+ | [sl](/f28/language/sl) | 60 | 60 | 100.0 | /mnt/stockage/packages/f28/ktp-send-file/po/sl/ktp-send-file.po | 
+ | [sr](/f28/language/sr) | 60 | 60 | 100.0 | /mnt/stockage/packages/f28/ktp-send-file/po/sr/ktp-send-file.po | 
+ | [sv](/f28/language/sv) | 60 | 60 | 100.0 | /mnt/stockage/packages/f28/ktp-send-file/po/sv/ktp-send-file.po | 
+ | [tr](/f28/language/tr) | 60 | 60 | 100.0 | /mnt/stockage/packages/f28/ktp-send-file/po/tr/ktp-send-file.po | 
+ | [uk](/f28/language/uk) | 60 | 60 | 100.0 | /mnt/stockage/packages/f28/ktp-send-file/po/uk/ktp-send-file.po | 
+ | [zh_Hans](/f28/language/zh_Hans) | 60 | 60 | 100.0 | /mnt/stockage/packages/f28/ktp-send-file/po/zh_CN/ktp-send-file.po | 
+ | [zh_Hant](/f28/language/zh_Hant) | 60 | 60 | 100.0 | /mnt/stockage/packages/f28/ktp-send-file/po/zh_TW/ktp-send-file.po | 
+ | [ia](/f28/language/ia) | 55 | 60 | 91.7 | /mnt/stockage/packages/f28/ktp-send-file/po/ia/ktp-send-file.po | 
+ | [kk](/f28/language/kk) | 55 | 60 | 91.7 | /mnt/stockage/packages/f28/ktp-send-file/po/kk/ktp-send-file.po | 
+ | [lt](/f28/language/lt) | 55 | 60 | 91.7 | /mnt/stockage/packages/f28/ktp-send-file/po/lt/ktp-send-file.po | 
+ | [nb_NO](/f28/language/nb_NO) | 55 | 60 | 91.7 | /mnt/stockage/packages/f28/ktp-send-file/po/nb/ktp-send-file.po | 
+ | [nds](/f28/language/nds) | 55 | 60 | 91.7 | /mnt/stockage/packages/f28/ktp-send-file/po/nds/ktp-send-file.po | 
+ | [ar](/f28/language/ar) | 52 | 60 | 86.7 | /mnt/stockage/packages/f28/ktp-send-file/po/ar/ktp-send-file.po | 
+ | [ast](/f28/language/ast) | 50 | 60 | 83.3 | /mnt/stockage/packages/f28/ktp-send-file/po/ast/ktp-send-file.po | 
+ | [ga](/f28/language/ga) | 33 | 60 | 55.0 | /mnt/stockage/packages/f28/ktp-send-file/po/ga/ktp-send-file.po | 
+ | [km](/f28/language/km) | 33 | 60 | 55.0 | /mnt/stockage/packages/f28/ktp-send-file/po/km/ktp-send-file.po | 
+ | [mr](/f28/language/mr) | 21 | 60 | 35.0 | /mnt/stockage/packages/f28/ktp-send-file/po/mr/ktp-send-file.po | 
+ | [ug](/f28/language/ug) | 16 | 60 | 26.7 | /mnt/stockage/packages/f28/ktp-send-file/po/ug/ktp-send-file.po | 
+ | [pa](/f28/language/pa) | 9 | 60 | 15.0 | /mnt/stockage/packages/f28/ktp-send-file/po/pa/ktp-send-file.po | 
+ | [ja](/f28/language/ja) | 0 | 60 | 0.0 | /mnt/stockage/packages/f28/ktp-send-file/po/ja/ktp-send-file.po | 
 {.sortable}
 
 

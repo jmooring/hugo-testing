@@ -18,16 +18,16 @@ The package trytond-company-work-time (version 2.6.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [bg]({{< ref "/f19/language/bg.md" >}}) | 18 | 18 | 100.0 | /mnt/stockage/packages/f19/trytond-company-work-time/locale/bg_BG.po | 
- | [ca]({{< ref "/f19/language/ca.md" >}}) | 18 | 18 | 100.0 | /mnt/stockage/packages/f19/trytond-company-work-time/locale/ca_ES.po | 
- | [de]({{< ref "/f19/language/de.md" >}}) | 18 | 18 | 100.0 | /mnt/stockage/packages/f19/trytond-company-work-time/locale/de_DE.po | 
- | [es]({{< ref "/f19/language/es.md" >}}) | 18 | 18 | 100.0 | /mnt/stockage/packages/f19/trytond-company-work-time/locale/es_ES.po | 
- | [es_AR]({{< ref "/f19/language/es_AR.md" >}}) | 18 | 18 | 100.0 | /mnt/stockage/packages/f19/trytond-company-work-time/locale/es_AR.po | 
- | [es_CO]({{< ref "/f19/language/es_CO.md" >}}) | 18 | 18 | 100.0 | /mnt/stockage/packages/f19/trytond-company-work-time/locale/es_CO.po | 
- | [fr]({{< ref "/f19/language/fr.md" >}}) | 20 | 20 | 100.0 | /mnt/stockage/packages/f19/trytond-company-work-time/locale/fr_FR.po | 
- | [cs]({{< ref "/f19/language/cs.md" >}}) | 0 | 18 | 0.0 | /mnt/stockage/packages/f19/trytond-company-work-time/locale/cs_CZ.po | 
- | [nl]({{< ref "/f19/language/nl.md" >}}) | 0 | 18 | 0.0 | /mnt/stockage/packages/f19/trytond-company-work-time/locale/nl_NL.po | 
- | [ru]({{< ref "/f19/language/ru.md" >}}) | 0 | 18 | 0.0 | /mnt/stockage/packages/f19/trytond-company-work-time/locale/ru_RU.po | 
+ | [bg](/f19/language/bg) | 18 | 18 | 100.0 | /mnt/stockage/packages/f19/trytond-company-work-time/locale/bg_BG.po | 
+ | [ca](/f19/language/ca) | 18 | 18 | 100.0 | /mnt/stockage/packages/f19/trytond-company-work-time/locale/ca_ES.po | 
+ | [de](/f19/language/de) | 18 | 18 | 100.0 | /mnt/stockage/packages/f19/trytond-company-work-time/locale/de_DE.po | 
+ | [es](/f19/language/es) | 18 | 18 | 100.0 | /mnt/stockage/packages/f19/trytond-company-work-time/locale/es_ES.po | 
+ | [es_AR](/f19/language/es_AR) | 18 | 18 | 100.0 | /mnt/stockage/packages/f19/trytond-company-work-time/locale/es_AR.po | 
+ | [es_CO](/f19/language/es_CO) | 18 | 18 | 100.0 | /mnt/stockage/packages/f19/trytond-company-work-time/locale/es_CO.po | 
+ | [fr](/f19/language/fr) | 20 | 20 | 100.0 | /mnt/stockage/packages/f19/trytond-company-work-time/locale/fr_FR.po | 
+ | [cs](/f19/language/cs) | 0 | 18 | 0.0 | /mnt/stockage/packages/f19/trytond-company-work-time/locale/cs_CZ.po | 
+ | [nl](/f19/language/nl) | 0 | 18 | 0.0 | /mnt/stockage/packages/f19/trytond-company-work-time/locale/nl_NL.po | 
+ | [ru](/f19/language/ru) | 0 | 18 | 0.0 | /mnt/stockage/packages/f19/trytond-company-work-time/locale/ru_RU.po | 
 {.sortable}
 
 

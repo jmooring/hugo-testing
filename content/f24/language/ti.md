@@ -40,9 +40,9 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [iso-codes]({{< ref "/f24/package/iso-codes.md" >}}) | 387 | 15707 | 2.5 | Tigrinya | 
- | [libreoffice]({{< ref "/f24/package/libreoffice.md" >}}) | 495 | 99688 | 0.5 | LANGUAGE <LL@li.org> | 
- | [calibre]({{< ref "/f24/package/calibre.md" >}}) | 151 | 152264 | 0.1 | Tigrinya (http://www.transifex.com/calibre/calibre/language/ti/) | 
+ | [iso-codes](/f24/package/iso-codes) | 387 | 15707 | 2.5 | Tigrinya | 
+ | [libreoffice](/f24/package/libreoffice) | 495 | 99688 | 0.5 | LANGUAGE <LL@li.org> | 
+ | [calibre](/f24/package/calibre) | 151 | 152264 | 0.1 | Tigrinya (http://www.transifex.com/calibre/calibre/language/ti/) | 
 {.sortable}
 
 

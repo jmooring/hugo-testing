@@ -18,23 +18,23 @@ The package minigalaxy (version 1.2.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f36/language/cs.md" >}}) | 408 | 408 | 100.0 | /mnt/stockage/packages/f36/minigalaxy/data/po/cs_CZ.po | 
- | [el]({{< ref "/f36/language/el.md" >}}) | 407 | 407 | 100.0 | /mnt/stockage/packages/f36/minigalaxy/data/po/el.po | 
- | [zh_Hans]({{< ref "/f36/language/zh_Hans.md" >}}) | 348 | 349 | 99.7 | /mnt/stockage/packages/f36/minigalaxy/data/po/zh_CN.po | 
- | [ru]({{< ref "/f36/language/ru.md" >}}) | 345 | 349 | 98.9 | /mnt/stockage/packages/f36/minigalaxy/data/po/ru_RU.po | 
- | [uk]({{< ref "/f36/language/uk.md" >}}) | 683 | 699 | 97.7 | /mnt/stockage/packages/f36/minigalaxy/data/po/uk.po/mnt/stockage/packages/f36/minigalaxy/data/po/ro.po | 
- | [nb_NO]({{< ref "/f36/language/nb_NO.md" >}}) | 735 | 757 | 97.1 | /mnt/stockage/packages/f36/minigalaxy/data/po/nn_NO.po/mnt/stockage/packages/f36/minigalaxy/data/po/nb_NO.po | 
- | [de]({{< ref "/f36/language/de.md" >}}) | 334 | 349 | 95.7 | /mnt/stockage/packages/f36/minigalaxy/data/po/de.po | 
- | [fi]({{< ref "/f36/language/fi.md" >}}) | 334 | 349 | 95.7 | /mnt/stockage/packages/f36/minigalaxy/data/po/fi.po | 
- | [fr]({{< ref "/f36/language/fr.md" >}}) | 334 | 349 | 95.7 | /mnt/stockage/packages/f36/minigalaxy/data/po/fr.po | 
- | [nl]({{< ref "/f36/language/nl.md" >}}) | 334 | 349 | 95.7 | /mnt/stockage/packages/f36/minigalaxy/data/po/nl.po | 
- | [sv]({{< ref "/f36/language/sv.md" >}}) | 333 | 349 | 95.4 | /mnt/stockage/packages/f36/minigalaxy/data/po/sv_SE.po | 
- | [tr]({{< ref "/f36/language/tr.md" >}}) | 333 | 349 | 95.4 | /mnt/stockage/packages/f36/minigalaxy/data/po/tr.po | 
- | [es]({{< ref "/f36/language/es.md" >}}) | 705 | 748 | 94.3 | /mnt/stockage/packages/f36/minigalaxy/data/po/es_ES.po/mnt/stockage/packages/f36/minigalaxy/data/po/es.po | 
- | [pl]({{< ref "/f36/language/pl.md" >}}) | 325 | 349 | 93.1 | /mnt/stockage/packages/f36/minigalaxy/data/po/pl.po | 
- | [it]({{< ref "/f36/language/it.md" >}}) | 221 | 349 | 63.3 | /mnt/stockage/packages/f36/minigalaxy/data/po/it_IT.po | 
- | [pt_BR]({{< ref "/f36/language/pt_BR.md" >}}) | 193 | 349 | 55.3 | /mnt/stockage/packages/f36/minigalaxy/data/po/pt_BR.po | 
- | [zh_Hant]({{< ref "/f36/language/zh_Hant.md" >}}) | 193 | 349 | 55.3 | /mnt/stockage/packages/f36/minigalaxy/data/po/zh_TW.po | 
+ | [cs](/f36/language/cs) | 408 | 408 | 100.0 | /mnt/stockage/packages/f36/minigalaxy/data/po/cs_CZ.po | 
+ | [el](/f36/language/el) | 407 | 407 | 100.0 | /mnt/stockage/packages/f36/minigalaxy/data/po/el.po | 
+ | [zh_Hans](/f36/language/zh_Hans) | 348 | 349 | 99.7 | /mnt/stockage/packages/f36/minigalaxy/data/po/zh_CN.po | 
+ | [ru](/f36/language/ru) | 345 | 349 | 98.9 | /mnt/stockage/packages/f36/minigalaxy/data/po/ru_RU.po | 
+ | [uk](/f36/language/uk) | 683 | 699 | 97.7 | /mnt/stockage/packages/f36/minigalaxy/data/po/uk.po/mnt/stockage/packages/f36/minigalaxy/data/po/ro.po | 
+ | [nb_NO](/f36/language/nb_NO) | 735 | 757 | 97.1 | /mnt/stockage/packages/f36/minigalaxy/data/po/nn_NO.po/mnt/stockage/packages/f36/minigalaxy/data/po/nb_NO.po | 
+ | [de](/f36/language/de) | 334 | 349 | 95.7 | /mnt/stockage/packages/f36/minigalaxy/data/po/de.po | 
+ | [fi](/f36/language/fi) | 334 | 349 | 95.7 | /mnt/stockage/packages/f36/minigalaxy/data/po/fi.po | 
+ | [fr](/f36/language/fr) | 334 | 349 | 95.7 | /mnt/stockage/packages/f36/minigalaxy/data/po/fr.po | 
+ | [nl](/f36/language/nl) | 334 | 349 | 95.7 | /mnt/stockage/packages/f36/minigalaxy/data/po/nl.po | 
+ | [sv](/f36/language/sv) | 333 | 349 | 95.4 | /mnt/stockage/packages/f36/minigalaxy/data/po/sv_SE.po | 
+ | [tr](/f36/language/tr) | 333 | 349 | 95.4 | /mnt/stockage/packages/f36/minigalaxy/data/po/tr.po | 
+ | [es](/f36/language/es) | 705 | 748 | 94.3 | /mnt/stockage/packages/f36/minigalaxy/data/po/es_ES.po/mnt/stockage/packages/f36/minigalaxy/data/po/es.po | 
+ | [pl](/f36/language/pl) | 325 | 349 | 93.1 | /mnt/stockage/packages/f36/minigalaxy/data/po/pl.po | 
+ | [it](/f36/language/it) | 221 | 349 | 63.3 | /mnt/stockage/packages/f36/minigalaxy/data/po/it_IT.po | 
+ | [pt_BR](/f36/language/pt_BR) | 193 | 349 | 55.3 | /mnt/stockage/packages/f36/minigalaxy/data/po/pt_BR.po | 
+ | [zh_Hant](/f36/language/zh_Hant) | 193 | 349 | 55.3 | /mnt/stockage/packages/f36/minigalaxy/data/po/zh_TW.po | 
 {.sortable}
 
 

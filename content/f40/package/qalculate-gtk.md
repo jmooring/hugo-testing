@@ -18,16 +18,16 @@ The package qalculate-gtk (version 4.9.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ru]({{< ref "/f40/language/ru.md" >}}) | 4288 | 4349 | 98.6 | /mnt/stockage/packages/f40/qalculate-gtk/po/ru.po | 
- | [sv]({{< ref "/f40/language/sv.md" >}}) | 4256 | 4349 | 97.9 | /mnt/stockage/packages/f40/qalculate-gtk/po/sv.po | 
- | [es]({{< ref "/f40/language/es.md" >}}) | 4233 | 4349 | 97.3 | /mnt/stockage/packages/f40/qalculate-gtk/po/es.po | 
- | [de]({{< ref "/f40/language/de.md" >}}) | 4220 | 4349 | 97.0 | /mnt/stockage/packages/f40/qalculate-gtk/po/de.po | 
- | [ca]({{< ref "/f40/language/ca.md" >}}) | 4185 | 4349 | 96.2 | /mnt/stockage/packages/f40/qalculate-gtk/po/ca.po | 
- | [zh_Hans]({{< ref "/f40/language/zh_Hans.md" >}}) | 4128 | 4349 | 94.9 | /mnt/stockage/packages/f40/qalculate-gtk/po/zh_CN.po | 
- | [pt_BR]({{< ref "/f40/language/pt_BR.md" >}}) | 3924 | 4349 | 90.2 | /mnt/stockage/packages/f40/qalculate-gtk/po/pt_BR.po | 
- | [sl]({{< ref "/f40/language/sl.md" >}}) | 3899 | 4349 | 89.7 | /mnt/stockage/packages/f40/qalculate-gtk/po/sl.po | 
- | [fr]({{< ref "/f40/language/fr.md" >}}) | 3367 | 4349 | 77.4 | /mnt/stockage/packages/f40/qalculate-gtk/po/fr.po | 
- | [nl]({{< ref "/f40/language/nl.md" >}}) | 2072 | 4349 | 47.6 | /mnt/stockage/packages/f40/qalculate-gtk/po/nl.po | 
+ | [ru](/f40/language/ru) | 4288 | 4349 | 98.6 | /mnt/stockage/packages/f40/qalculate-gtk/po/ru.po | 
+ | [sv](/f40/language/sv) | 4256 | 4349 | 97.9 | /mnt/stockage/packages/f40/qalculate-gtk/po/sv.po | 
+ | [es](/f40/language/es) | 4233 | 4349 | 97.3 | /mnt/stockage/packages/f40/qalculate-gtk/po/es.po | 
+ | [de](/f40/language/de) | 4220 | 4349 | 97.0 | /mnt/stockage/packages/f40/qalculate-gtk/po/de.po | 
+ | [ca](/f40/language/ca) | 4185 | 4349 | 96.2 | /mnt/stockage/packages/f40/qalculate-gtk/po/ca.po | 
+ | [zh_Hans](/f40/language/zh_Hans) | 4128 | 4349 | 94.9 | /mnt/stockage/packages/f40/qalculate-gtk/po/zh_CN.po | 
+ | [pt_BR](/f40/language/pt_BR) | 3924 | 4349 | 90.2 | /mnt/stockage/packages/f40/qalculate-gtk/po/pt_BR.po | 
+ | [sl](/f40/language/sl) | 3899 | 4349 | 89.7 | /mnt/stockage/packages/f40/qalculate-gtk/po/sl.po | 
+ | [fr](/f40/language/fr) | 3367 | 4349 | 77.4 | /mnt/stockage/packages/f40/qalculate-gtk/po/fr.po | 
+ | [nl](/f40/language/nl) | 2072 | 4349 | 47.6 | /mnt/stockage/packages/f40/qalculate-gtk/po/nl.po | 
 {.sortable}
 
 

@@ -18,18 +18,18 @@ The package gtk-gnutella (version 0.96.9):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [es]({{< ref "/f13/language/es.md" >}}) | 12140 | 12925 | 93.9 | /mnt/stockage/packages/f13/gtk-gnutella/po/es.po | 
- | [nb_NO]({{< ref "/f13/language/nb_NO.md" >}}) | 12042 | 12925 | 93.2 | /mnt/stockage/packages/f13/gtk-gnutella/po/nb.po | 
- | [ja]({{< ref "/f13/language/ja.md" >}}) | 11304 | 12925 | 87.5 | /mnt/stockage/packages/f13/gtk-gnutella/po/ja.po | 
- | [fr]({{< ref "/f13/language/fr.md" >}}) | 11193 | 12925 | 86.6 | /mnt/stockage/packages/f13/gtk-gnutella/po/fr.po | 
- | [nl]({{< ref "/f13/language/nl.md" >}}) | 9122 | 12925 | 70.6 | /mnt/stockage/packages/f13/gtk-gnutella/po/nl.po | 
- | [it]({{< ref "/f13/language/it.md" >}}) | 8294 | 12925 | 64.2 | /mnt/stockage/packages/f13/gtk-gnutella/po/it.po | 
- | [de]({{< ref "/f13/language/de.md" >}}) | 7763 | 12925 | 60.1 | /mnt/stockage/packages/f13/gtk-gnutella/po/de.po | 
- | [el]({{< ref "/f13/language/el.md" >}}) | 7099 | 12925 | 54.9 | /mnt/stockage/packages/f13/gtk-gnutella/po/el.po | 
- | [zh_Hans]({{< ref "/f13/language/zh_Hans.md" >}}) | 4604 | 12253 | 37.6 | /mnt/stockage/packages/f13/gtk-gnutella/po/zh_CN.po | 
- | [hu]({{< ref "/f13/language/hu.md" >}}) | 2937 | 12925 | 22.7 | /mnt/stockage/packages/f13/gtk-gnutella/po/hu.po | 
- | [tr]({{< ref "/f13/language/tr.md" >}}) | 425 | 12925 | 3.3 | /mnt/stockage/packages/f13/gtk-gnutella/po/tr.po | 
- | [uk]({{< ref "/f13/language/uk.md" >}}) | 341 | 12925 | 2.6 | /mnt/stockage/packages/f13/gtk-gnutella/po/uk.po | 
+ | [es](/f13/language/es) | 12140 | 12925 | 93.9 | /mnt/stockage/packages/f13/gtk-gnutella/po/es.po | 
+ | [nb_NO](/f13/language/nb_NO) | 12042 | 12925 | 93.2 | /mnt/stockage/packages/f13/gtk-gnutella/po/nb.po | 
+ | [ja](/f13/language/ja) | 11304 | 12925 | 87.5 | /mnt/stockage/packages/f13/gtk-gnutella/po/ja.po | 
+ | [fr](/f13/language/fr) | 11193 | 12925 | 86.6 | /mnt/stockage/packages/f13/gtk-gnutella/po/fr.po | 
+ | [nl](/f13/language/nl) | 9122 | 12925 | 70.6 | /mnt/stockage/packages/f13/gtk-gnutella/po/nl.po | 
+ | [it](/f13/language/it) | 8294 | 12925 | 64.2 | /mnt/stockage/packages/f13/gtk-gnutella/po/it.po | 
+ | [de](/f13/language/de) | 7763 | 12925 | 60.1 | /mnt/stockage/packages/f13/gtk-gnutella/po/de.po | 
+ | [el](/f13/language/el) | 7099 | 12925 | 54.9 | /mnt/stockage/packages/f13/gtk-gnutella/po/el.po | 
+ | [zh_Hans](/f13/language/zh_Hans) | 4604 | 12253 | 37.6 | /mnt/stockage/packages/f13/gtk-gnutella/po/zh_CN.po | 
+ | [hu](/f13/language/hu) | 2937 | 12925 | 22.7 | /mnt/stockage/packages/f13/gtk-gnutella/po/hu.po | 
+ | [tr](/f13/language/tr) | 425 | 12925 | 3.3 | /mnt/stockage/packages/f13/gtk-gnutella/po/tr.po | 
+ | [uk](/f13/language/uk) | 341 | 12925 | 2.6 | /mnt/stockage/packages/f13/gtk-gnutella/po/uk.po | 
 {.sortable}
 
 

@@ -18,7 +18,7 @@ The package phoc (version 0.47.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f41/language/de.md" >}}) | 6 | 9 | 66.7 | /mnt/stockage/packages/f41/phoc/po/de.po | 
+ | [de](/f41/language/de) | 6 | 9 | 66.7 | /mnt/stockage/packages/f41/phoc/po/de.po | 
 {.sortable}
 
 

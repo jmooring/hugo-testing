@@ -18,58 +18,58 @@ The package xfce4-dict (version 0.8.8):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [be]({{< ref "/f41/language/be.md" >}}) | 531 | 531 | 100.0 | /mnt/stockage/packages/f41/xfce4-dict/po/be.po | 
- | [bg]({{< ref "/f41/language/bg.md" >}}) | 531 | 531 | 100.0 | /mnt/stockage/packages/f41/xfce4-dict/po/bg.po | 
- | [ca]({{< ref "/f41/language/ca.md" >}}) | 531 | 531 | 100.0 | /mnt/stockage/packages/f41/xfce4-dict/po/ca.po | 
- | [cs]({{< ref "/f41/language/cs.md" >}}) | 531 | 531 | 100.0 | /mnt/stockage/packages/f41/xfce4-dict/po/cs.po | 
- | [da]({{< ref "/f41/language/da.md" >}}) | 531 | 531 | 100.0 | /mnt/stockage/packages/f41/xfce4-dict/po/da.po | 
- | [de]({{< ref "/f41/language/de.md" >}}) | 531 | 531 | 100.0 | /mnt/stockage/packages/f41/xfce4-dict/po/de.po | 
- | [en_GB]({{< ref "/f41/language/en_GB.md" >}}) | 531 | 531 | 100.0 | /mnt/stockage/packages/f41/xfce4-dict/po/en_GB.po | 
- | [es]({{< ref "/f41/language/es.md" >}}) | 531 | 531 | 100.0 | /mnt/stockage/packages/f41/xfce4-dict/po/es.po | 
- | [et]({{< ref "/f41/language/et.md" >}}) | 531 | 531 | 100.0 | /mnt/stockage/packages/f41/xfce4-dict/po/et.po | 
- | [eu]({{< ref "/f41/language/eu.md" >}}) | 531 | 531 | 100.0 | /mnt/stockage/packages/f41/xfce4-dict/po/eu.po | 
- | [fr]({{< ref "/f41/language/fr.md" >}}) | 531 | 531 | 100.0 | /mnt/stockage/packages/f41/xfce4-dict/po/fr.po | 
- | [gl]({{< ref "/f41/language/gl.md" >}}) | 531 | 531 | 100.0 | /mnt/stockage/packages/f41/xfce4-dict/po/gl.po | 
- | [he]({{< ref "/f41/language/he.md" >}}) | 531 | 531 | 100.0 | /mnt/stockage/packages/f41/xfce4-dict/po/he.po | 
- | [hr]({{< ref "/f41/language/hr.md" >}}) | 531 | 531 | 100.0 | /mnt/stockage/packages/f41/xfce4-dict/po/hr.po | 
- | [hu]({{< ref "/f41/language/hu.md" >}}) | 531 | 531 | 100.0 | /mnt/stockage/packages/f41/xfce4-dict/po/hu.po | 
- | [id]({{< ref "/f41/language/id.md" >}}) | 531 | 531 | 100.0 | /mnt/stockage/packages/f41/xfce4-dict/po/id.po | 
- | [it]({{< ref "/f41/language/it.md" >}}) | 531 | 531 | 100.0 | /mnt/stockage/packages/f41/xfce4-dict/po/it.po | 
- | [ja]({{< ref "/f41/language/ja.md" >}}) | 531 | 531 | 100.0 | /mnt/stockage/packages/f41/xfce4-dict/po/ja.po | 
- | [kk]({{< ref "/f41/language/kk.md" >}}) | 531 | 531 | 100.0 | /mnt/stockage/packages/f41/xfce4-dict/po/kk.po | 
- | [ko]({{< ref "/f41/language/ko.md" >}}) | 531 | 531 | 100.0 | /mnt/stockage/packages/f41/xfce4-dict/po/ko.po | 
- | [lt]({{< ref "/f41/language/lt.md" >}}) | 531 | 531 | 100.0 | /mnt/stockage/packages/f41/xfce4-dict/po/lt.po | 
- | [ms]({{< ref "/f41/language/ms.md" >}}) | 531 | 531 | 100.0 | /mnt/stockage/packages/f41/xfce4-dict/po/ms.po | 
- | [nb_NO]({{< ref "/f41/language/nb_NO.md" >}}) | 531 | 531 | 100.0 | /mnt/stockage/packages/f41/xfce4-dict/po/nb.po | 
- | [nl]({{< ref "/f41/language/nl.md" >}}) | 531 | 531 | 100.0 | /mnt/stockage/packages/f41/xfce4-dict/po/nl.po | 
- | [oc]({{< ref "/f41/language/oc.md" >}}) | 531 | 531 | 100.0 | /mnt/stockage/packages/f41/xfce4-dict/po/oc.po | 
- | [pl]({{< ref "/f41/language/pl.md" >}}) | 531 | 531 | 100.0 | /mnt/stockage/packages/f41/xfce4-dict/po/pl.po | 
- | [pt]({{< ref "/f41/language/pt.md" >}}) | 531 | 531 | 100.0 | /mnt/stockage/packages/f41/xfce4-dict/po/pt.po | 
- | [pt_BR]({{< ref "/f41/language/pt_BR.md" >}}) | 531 | 531 | 100.0 | /mnt/stockage/packages/f41/xfce4-dict/po/pt_BR.po | 
- | [ru]({{< ref "/f41/language/ru.md" >}}) | 531 | 531 | 100.0 | /mnt/stockage/packages/f41/xfce4-dict/po/ru.po | 
- | [sl]({{< ref "/f41/language/sl.md" >}}) | 531 | 531 | 100.0 | /mnt/stockage/packages/f41/xfce4-dict/po/sl.po | 
- | [sq]({{< ref "/f41/language/sq.md" >}}) | 531 | 531 | 100.0 | /mnt/stockage/packages/f41/xfce4-dict/po/sq.po | 
- | [sr]({{< ref "/f41/language/sr.md" >}}) | 531 | 531 | 100.0 | /mnt/stockage/packages/f41/xfce4-dict/po/sr.po | 
- | [sv]({{< ref "/f41/language/sv.md" >}}) | 531 | 531 | 100.0 | /mnt/stockage/packages/f41/xfce4-dict/po/sv.po | 
- | [th]({{< ref "/f41/language/th.md" >}}) | 531 | 531 | 100.0 | /mnt/stockage/packages/f41/xfce4-dict/po/th.po | 
- | [tr]({{< ref "/f41/language/tr.md" >}}) | 531 | 531 | 100.0 | /mnt/stockage/packages/f41/xfce4-dict/po/tr.po | 
- | [uk]({{< ref "/f41/language/uk.md" >}}) | 531 | 531 | 100.0 | /mnt/stockage/packages/f41/xfce4-dict/po/uk.po | 
- | [zh_Hans]({{< ref "/f41/language/zh_Hans.md" >}}) | 531 | 531 | 100.0 | /mnt/stockage/packages/f41/xfce4-dict/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f41/language/zh_Hant.md" >}}) | 531 | 531 | 100.0 | /mnt/stockage/packages/f41/xfce4-dict/po/zh_TW.po | 
- | [el]({{< ref "/f41/language/el.md" >}}) | 524 | 531 | 98.7 | /mnt/stockage/packages/f41/xfce4-dict/po/el.po | 
- | [fi]({{< ref "/f41/language/fi.md" >}}) | 524 | 531 | 98.7 | /mnt/stockage/packages/f41/xfce4-dict/po/fi.po | 
- | [hy]({{< ref "/f41/language/hy.md" >}}) | 1048 | 1062 | 98.7 | /mnt/stockage/packages/f41/xfce4-dict/po/hye.po/mnt/stockage/packages/f41/xfce4-dict/po/hy_AM.po | 
- | [en_AU]({{< ref "/f41/language/en_AU.md" >}}) | 521 | 531 | 98.1 | /mnt/stockage/packages/f41/xfce4-dict/po/en_AU.po | 
- | [is]({{< ref "/f41/language/is.md" >}}) | 521 | 531 | 98.1 | /mnt/stockage/packages/f41/xfce4-dict/po/is.po | 
- | [sk]({{< ref "/f41/language/sk.md" >}}) | 521 | 531 | 98.1 | /mnt/stockage/packages/f41/xfce4-dict/po/sk.po | 
- | [ast]({{< ref "/f41/language/ast.md" >}}) | 512 | 527 | 97.2 | /mnt/stockage/packages/f41/xfce4-dict/po/ast.po | 
- | [ar]({{< ref "/f41/language/ar.md" >}}) | 512 | 531 | 96.4 | /mnt/stockage/packages/f41/xfce4-dict/po/ar.po | 
- | [ug]({{< ref "/f41/language/ug.md" >}}) | 509 | 531 | 95.9 | /mnt/stockage/packages/f41/xfce4-dict/po/ug.po | 
- | [lv]({{< ref "/f41/language/lv.md" >}}) | 486 | 531 | 91.5 | /mnt/stockage/packages/f41/xfce4-dict/po/lv.po | 
- | [vi]({{< ref "/f41/language/vi.md" >}}) | 432 | 531 | 81.4 | /mnt/stockage/packages/f41/xfce4-dict/po/vi.po | 
- | [ur]({{< ref "/f41/language/ur.md" >}}) | 323 | 531 | 60.8 | /mnt/stockage/packages/f41/xfce4-dict/po/ur.po | 
- | [ur_PK]({{< ref "/f41/language/ur_PK.md" >}}) | 323 | 531 | 60.8 | /mnt/stockage/packages/f41/xfce4-dict/po/ur_PK.po | 
- | [fa]({{< ref "/f41/language/fa.md" >}}) | 259 | 531 | 48.8 | /mnt/stockage/packages/f41/xfce4-dict/po/fa_IR.po | 
+ | [be](/f41/language/be) | 531 | 531 | 100.0 | /mnt/stockage/packages/f41/xfce4-dict/po/be.po | 
+ | [bg](/f41/language/bg) | 531 | 531 | 100.0 | /mnt/stockage/packages/f41/xfce4-dict/po/bg.po | 
+ | [ca](/f41/language/ca) | 531 | 531 | 100.0 | /mnt/stockage/packages/f41/xfce4-dict/po/ca.po | 
+ | [cs](/f41/language/cs) | 531 | 531 | 100.0 | /mnt/stockage/packages/f41/xfce4-dict/po/cs.po | 
+ | [da](/f41/language/da) | 531 | 531 | 100.0 | /mnt/stockage/packages/f41/xfce4-dict/po/da.po | 
+ | [de](/f41/language/de) | 531 | 531 | 100.0 | /mnt/stockage/packages/f41/xfce4-dict/po/de.po | 
+ | [en_GB](/f41/language/en_GB) | 531 | 531 | 100.0 | /mnt/stockage/packages/f41/xfce4-dict/po/en_GB.po | 
+ | [es](/f41/language/es) | 531 | 531 | 100.0 | /mnt/stockage/packages/f41/xfce4-dict/po/es.po | 
+ | [et](/f41/language/et) | 531 | 531 | 100.0 | /mnt/stockage/packages/f41/xfce4-dict/po/et.po | 
+ | [eu](/f41/language/eu) | 531 | 531 | 100.0 | /mnt/stockage/packages/f41/xfce4-dict/po/eu.po | 
+ | [fr](/f41/language/fr) | 531 | 531 | 100.0 | /mnt/stockage/packages/f41/xfce4-dict/po/fr.po | 
+ | [gl](/f41/language/gl) | 531 | 531 | 100.0 | /mnt/stockage/packages/f41/xfce4-dict/po/gl.po | 
+ | [he](/f41/language/he) | 531 | 531 | 100.0 | /mnt/stockage/packages/f41/xfce4-dict/po/he.po | 
+ | [hr](/f41/language/hr) | 531 | 531 | 100.0 | /mnt/stockage/packages/f41/xfce4-dict/po/hr.po | 
+ | [hu](/f41/language/hu) | 531 | 531 | 100.0 | /mnt/stockage/packages/f41/xfce4-dict/po/hu.po | 
+ | [id](/f41/language/id) | 531 | 531 | 100.0 | /mnt/stockage/packages/f41/xfce4-dict/po/id.po | 
+ | [it](/f41/language/it) | 531 | 531 | 100.0 | /mnt/stockage/packages/f41/xfce4-dict/po/it.po | 
+ | [ja](/f41/language/ja) | 531 | 531 | 100.0 | /mnt/stockage/packages/f41/xfce4-dict/po/ja.po | 
+ | [kk](/f41/language/kk) | 531 | 531 | 100.0 | /mnt/stockage/packages/f41/xfce4-dict/po/kk.po | 
+ | [ko](/f41/language/ko) | 531 | 531 | 100.0 | /mnt/stockage/packages/f41/xfce4-dict/po/ko.po | 
+ | [lt](/f41/language/lt) | 531 | 531 | 100.0 | /mnt/stockage/packages/f41/xfce4-dict/po/lt.po | 
+ | [ms](/f41/language/ms) | 531 | 531 | 100.0 | /mnt/stockage/packages/f41/xfce4-dict/po/ms.po | 
+ | [nb_NO](/f41/language/nb_NO) | 531 | 531 | 100.0 | /mnt/stockage/packages/f41/xfce4-dict/po/nb.po | 
+ | [nl](/f41/language/nl) | 531 | 531 | 100.0 | /mnt/stockage/packages/f41/xfce4-dict/po/nl.po | 
+ | [oc](/f41/language/oc) | 531 | 531 | 100.0 | /mnt/stockage/packages/f41/xfce4-dict/po/oc.po | 
+ | [pl](/f41/language/pl) | 531 | 531 | 100.0 | /mnt/stockage/packages/f41/xfce4-dict/po/pl.po | 
+ | [pt](/f41/language/pt) | 531 | 531 | 100.0 | /mnt/stockage/packages/f41/xfce4-dict/po/pt.po | 
+ | [pt_BR](/f41/language/pt_BR) | 531 | 531 | 100.0 | /mnt/stockage/packages/f41/xfce4-dict/po/pt_BR.po | 
+ | [ru](/f41/language/ru) | 531 | 531 | 100.0 | /mnt/stockage/packages/f41/xfce4-dict/po/ru.po | 
+ | [sl](/f41/language/sl) | 531 | 531 | 100.0 | /mnt/stockage/packages/f41/xfce4-dict/po/sl.po | 
+ | [sq](/f41/language/sq) | 531 | 531 | 100.0 | /mnt/stockage/packages/f41/xfce4-dict/po/sq.po | 
+ | [sr](/f41/language/sr) | 531 | 531 | 100.0 | /mnt/stockage/packages/f41/xfce4-dict/po/sr.po | 
+ | [sv](/f41/language/sv) | 531 | 531 | 100.0 | /mnt/stockage/packages/f41/xfce4-dict/po/sv.po | 
+ | [th](/f41/language/th) | 531 | 531 | 100.0 | /mnt/stockage/packages/f41/xfce4-dict/po/th.po | 
+ | [tr](/f41/language/tr) | 531 | 531 | 100.0 | /mnt/stockage/packages/f41/xfce4-dict/po/tr.po | 
+ | [uk](/f41/language/uk) | 531 | 531 | 100.0 | /mnt/stockage/packages/f41/xfce4-dict/po/uk.po | 
+ | [zh_Hans](/f41/language/zh_Hans) | 531 | 531 | 100.0 | /mnt/stockage/packages/f41/xfce4-dict/po/zh_CN.po | 
+ | [zh_Hant](/f41/language/zh_Hant) | 531 | 531 | 100.0 | /mnt/stockage/packages/f41/xfce4-dict/po/zh_TW.po | 
+ | [el](/f41/language/el) | 524 | 531 | 98.7 | /mnt/stockage/packages/f41/xfce4-dict/po/el.po | 
+ | [fi](/f41/language/fi) | 524 | 531 | 98.7 | /mnt/stockage/packages/f41/xfce4-dict/po/fi.po | 
+ | [hy](/f41/language/hy) | 1048 | 1062 | 98.7 | /mnt/stockage/packages/f41/xfce4-dict/po/hye.po/mnt/stockage/packages/f41/xfce4-dict/po/hy_AM.po | 
+ | [en_AU](/f41/language/en_AU) | 521 | 531 | 98.1 | /mnt/stockage/packages/f41/xfce4-dict/po/en_AU.po | 
+ | [is](/f41/language/is) | 521 | 531 | 98.1 | /mnt/stockage/packages/f41/xfce4-dict/po/is.po | 
+ | [sk](/f41/language/sk) | 521 | 531 | 98.1 | /mnt/stockage/packages/f41/xfce4-dict/po/sk.po | 
+ | [ast](/f41/language/ast) | 512 | 527 | 97.2 | /mnt/stockage/packages/f41/xfce4-dict/po/ast.po | 
+ | [ar](/f41/language/ar) | 512 | 531 | 96.4 | /mnt/stockage/packages/f41/xfce4-dict/po/ar.po | 
+ | [ug](/f41/language/ug) | 509 | 531 | 95.9 | /mnt/stockage/packages/f41/xfce4-dict/po/ug.po | 
+ | [lv](/f41/language/lv) | 486 | 531 | 91.5 | /mnt/stockage/packages/f41/xfce4-dict/po/lv.po | 
+ | [vi](/f41/language/vi) | 432 | 531 | 81.4 | /mnt/stockage/packages/f41/xfce4-dict/po/vi.po | 
+ | [ur](/f41/language/ur) | 323 | 531 | 60.8 | /mnt/stockage/packages/f41/xfce4-dict/po/ur.po | 
+ | [ur_PK](/f41/language/ur_PK) | 323 | 531 | 60.8 | /mnt/stockage/packages/f41/xfce4-dict/po/ur_PK.po | 
+ | [fa](/f41/language/fa) | 259 | 531 | 48.8 | /mnt/stockage/packages/f41/xfce4-dict/po/fa_IR.po | 
 {.sortable}
 
 

@@ -18,10 +18,10 @@ The package ibus-cangjie (version 2.5.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [pt_BR]({{< ref "/f41/language/pt_BR.md" >}}) | 152 | 152 | 100.0 | /mnt/stockage/packages/f41/ibus-cangjie/po/pt_BR.po | 
- | [zh_Hans]({{< ref "/f41/language/zh_Hans.md" >}}) | 334 | 334 | 100.0 | /mnt/stockage/packages/f41/ibus-cangjie/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f41/language/zh_Hant.md" >}}) | 334 | 334 | 100.0 | /mnt/stockage/packages/f41/ibus-cangjie/po/zh_TW.po | 
- | [zh_Hant_HK]({{< ref "/f41/language/zh_Hant_HK.md" >}}) | 334 | 334 | 100.0 | /mnt/stockage/packages/f41/ibus-cangjie/po/zh_HK.po | 
+ | [pt_BR](/f41/language/pt_BR) | 152 | 152 | 100.0 | /mnt/stockage/packages/f41/ibus-cangjie/po/pt_BR.po | 
+ | [zh_Hans](/f41/language/zh_Hans) | 334 | 334 | 100.0 | /mnt/stockage/packages/f41/ibus-cangjie/po/zh_CN.po | 
+ | [zh_Hant](/f41/language/zh_Hant) | 334 | 334 | 100.0 | /mnt/stockage/packages/f41/ibus-cangjie/po/zh_TW.po | 
+ | [zh_Hant_HK](/f41/language/zh_Hant_HK) | 334 | 334 | 100.0 | /mnt/stockage/packages/f41/ibus-cangjie/po/zh_HK.po | 
 {.sortable}
 
 

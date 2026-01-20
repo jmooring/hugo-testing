@@ -18,12 +18,12 @@ The package rust (version 1.30.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f27/language/de.md" >}}) | 1378 | 1392 | 99.0 | /mnt/stockage/packages/f27/rust/src/vendor/lzma-sys/xz-5.2.3/po/de.po | 
- | [it]({{< ref "/f27/language/it.md" >}}) | 1360 | 1392 | 97.7 | /mnt/stockage/packages/f27/rust/src/vendor/lzma-sys/xz-5.2.3/po/it.po | 
- | [pl]({{< ref "/f27/language/pl.md" >}}) | 1360 | 1392 | 97.7 | /mnt/stockage/packages/f27/rust/src/vendor/lzma-sys/xz-5.2.3/po/pl.po | 
- | [vi]({{< ref "/f27/language/vi.md" >}}) | 1360 | 1392 | 97.7 | /mnt/stockage/packages/f27/rust/src/vendor/lzma-sys/xz-5.2.3/po/vi.po | 
- | [fr]({{< ref "/f27/language/fr.md" >}}) | 1259 | 1392 | 90.4 | /mnt/stockage/packages/f27/rust/src/vendor/lzma-sys/xz-5.2.3/po/fr.po | 
- | [cs]({{< ref "/f27/language/cs.md" >}}) | 1130 | 1392 | 81.2 | /mnt/stockage/packages/f27/rust/src/vendor/lzma-sys/xz-5.2.3/po/cs.po | 
+ | [de](/f27/language/de) | 1378 | 1392 | 99.0 | /mnt/stockage/packages/f27/rust/src/vendor/lzma-sys/xz-5.2.3/po/de.po | 
+ | [it](/f27/language/it) | 1360 | 1392 | 97.7 | /mnt/stockage/packages/f27/rust/src/vendor/lzma-sys/xz-5.2.3/po/it.po | 
+ | [pl](/f27/language/pl) | 1360 | 1392 | 97.7 | /mnt/stockage/packages/f27/rust/src/vendor/lzma-sys/xz-5.2.3/po/pl.po | 
+ | [vi](/f27/language/vi) | 1360 | 1392 | 97.7 | /mnt/stockage/packages/f27/rust/src/vendor/lzma-sys/xz-5.2.3/po/vi.po | 
+ | [fr](/f27/language/fr) | 1259 | 1392 | 90.4 | /mnt/stockage/packages/f27/rust/src/vendor/lzma-sys/xz-5.2.3/po/fr.po | 
+ | [cs](/f27/language/cs) | 1130 | 1392 | 81.2 | /mnt/stockage/packages/f27/rust/src/vendor/lzma-sys/xz-5.2.3/po/cs.po | 
 {.sortable}
 
 

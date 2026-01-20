@@ -18,11 +18,11 @@ The package specto (version 0.2.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f8/language/fr.md" >}}) | 637 | 637 | 100.0 | /mnt/stockage/packages/f8/specto/po/fr/specto.po | 
- | [it]({{< ref "/f8/language/it.md" >}}) | 615 | 615 | 100.0 | /mnt/stockage/packages/f8/specto/po/it/specto.po | 
- | [ro]({{< ref "/f8/language/ro.md" >}}) | 366 | 366 | 100.0 | /mnt/stockage/packages/f8/specto/po/ro/specto.po | 
- | [sv]({{< ref "/f8/language/sv.md" >}}) | 615 | 615 | 100.0 | /mnt/stockage/packages/f8/specto/po/sv/specto.po | 
- | [de]({{< ref "/f8/language/de.md" >}}) | 612 | 615 | 99.5 | /mnt/stockage/packages/f8/specto/po/de/specto.po | 
+ | [fr](/f8/language/fr) | 637 | 637 | 100.0 | /mnt/stockage/packages/f8/specto/po/fr/specto.po | 
+ | [it](/f8/language/it) | 615 | 615 | 100.0 | /mnt/stockage/packages/f8/specto/po/it/specto.po | 
+ | [ro](/f8/language/ro) | 366 | 366 | 100.0 | /mnt/stockage/packages/f8/specto/po/ro/specto.po | 
+ | [sv](/f8/language/sv) | 615 | 615 | 100.0 | /mnt/stockage/packages/f8/specto/po/sv/specto.po | 
+ | [de](/f8/language/de) | 612 | 615 | 99.5 | /mnt/stockage/packages/f8/specto/po/de/specto.po | 
 {.sortable}
 
 

@@ -18,83 +18,83 @@ The package gnome-doc-utils (version 0.20.10):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f35/language/ar.md" >}}) | 251 | 251 | 100.0 | /mnt/stockage/packages/f35/gnome-doc-utils/po/ar.po | 
- | [as]({{< ref "/f35/language/as.md" >}}) | 251 | 251 | 100.0 | /mnt/stockage/packages/f35/gnome-doc-utils/po/as.po | 
- | [ast]({{< ref "/f35/language/ast.md" >}}) | 251 | 251 | 100.0 | /mnt/stockage/packages/f35/gnome-doc-utils/po/ast.po | 
- | [be]({{< ref "/f35/language/be.md" >}}) | 251 | 251 | 100.0 | /mnt/stockage/packages/f35/gnome-doc-utils/po/be.po | 
- | [be_Latn]({{< ref "/f35/language/be_Latn.md" >}}) | 238 | 238 | 100.0 | /mnt/stockage/packages/f35/gnome-doc-utils/po/be@latin.po | 
- | [bg]({{< ref "/f35/language/bg.md" >}}) | 251 | 251 | 100.0 | /mnt/stockage/packages/f35/gnome-doc-utils/po/bg.po | 
- | [bn]({{< ref "/f35/language/bn.md" >}}) | 251 | 251 | 100.0 | /mnt/stockage/packages/f35/gnome-doc-utils/po/bn.po | 
- | [bn_IN]({{< ref "/f35/language/bn_IN.md" >}}) | 251 | 251 | 100.0 | /mnt/stockage/packages/f35/gnome-doc-utils/po/bn_IN.po | 
- | [ca]({{< ref "/f35/language/ca.md" >}}) | 502 | 502 | 100.0 | /mnt/stockage/packages/f35/gnome-doc-utils/po/ca.po/mnt/stockage/packages/f35/gnome-doc-utils/po/ca@valencia.po | 
- | [cs]({{< ref "/f35/language/cs.md" >}}) | 251 | 251 | 100.0 | /mnt/stockage/packages/f35/gnome-doc-utils/po/cs.po | 
- | [cy]({{< ref "/f35/language/cy.md" >}}) | 213 | 213 | 100.0 | /mnt/stockage/packages/f35/gnome-doc-utils/po/cy.po | 
- | [da]({{< ref "/f35/language/da.md" >}}) | 251 | 251 | 100.0 | /mnt/stockage/packages/f35/gnome-doc-utils/po/da.po | 
- | [dz]({{< ref "/f35/language/dz.md" >}}) | 238 | 238 | 100.0 | /mnt/stockage/packages/f35/gnome-doc-utils/po/dz.po | 
- | [el]({{< ref "/f35/language/el.md" >}}) | 251 | 251 | 100.0 | /mnt/stockage/packages/f35/gnome-doc-utils/po/el.po | 
- | [en_CA]({{< ref "/f35/language/en_CA.md" >}}) | 238 | 238 | 100.0 | /mnt/stockage/packages/f35/gnome-doc-utils/po/en_CA.po | 
- | [en_GB]({{< ref "/f35/language/en_GB.md" >}}) | 251 | 251 | 100.0 | /mnt/stockage/packages/f35/gnome-doc-utils/po/en_GB.po | 
- | [eo]({{< ref "/f35/language/eo.md" >}}) | 251 | 251 | 100.0 | /mnt/stockage/packages/f35/gnome-doc-utils/po/eo.po | 
- | [es]({{< ref "/f35/language/es.md" >}}) | 251 | 251 | 100.0 | /mnt/stockage/packages/f35/gnome-doc-utils/po/es.po | 
- | [et]({{< ref "/f35/language/et.md" >}}) | 251 | 251 | 100.0 | /mnt/stockage/packages/f35/gnome-doc-utils/po/et.po | 
- | [eu]({{< ref "/f35/language/eu.md" >}}) | 251 | 251 | 100.0 | /mnt/stockage/packages/f35/gnome-doc-utils/po/eu.po | 
- | [fa]({{< ref "/f35/language/fa.md" >}}) | 251 | 251 | 100.0 | /mnt/stockage/packages/f35/gnome-doc-utils/po/fa.po | 
- | [fi]({{< ref "/f35/language/fi.md" >}}) | 251 | 251 | 100.0 | /mnt/stockage/packages/f35/gnome-doc-utils/po/fi.po | 
- | [fr]({{< ref "/f35/language/fr.md" >}}) | 251 | 251 | 100.0 | /mnt/stockage/packages/f35/gnome-doc-utils/po/fr.po | 
- | [ga]({{< ref "/f35/language/ga.md" >}}) | 249 | 249 | 100.0 | /mnt/stockage/packages/f35/gnome-doc-utils/po/ga.po | 
- | [gl]({{< ref "/f35/language/gl.md" >}}) | 251 | 251 | 100.0 | /mnt/stockage/packages/f35/gnome-doc-utils/po/gl.po | 
- | [gu]({{< ref "/f35/language/gu.md" >}}) | 251 | 251 | 100.0 | /mnt/stockage/packages/f35/gnome-doc-utils/po/gu.po | 
- | [he]({{< ref "/f35/language/he.md" >}}) | 251 | 251 | 100.0 | /mnt/stockage/packages/f35/gnome-doc-utils/po/he.po | 
- | [hi]({{< ref "/f35/language/hi.md" >}}) | 249 | 249 | 100.0 | /mnt/stockage/packages/f35/gnome-doc-utils/po/hi.po | 
- | [hu]({{< ref "/f35/language/hu.md" >}}) | 251 | 251 | 100.0 | /mnt/stockage/packages/f35/gnome-doc-utils/po/hu.po | 
- | [id]({{< ref "/f35/language/id.md" >}}) | 251 | 251 | 100.0 | /mnt/stockage/packages/f35/gnome-doc-utils/po/id.po | 
- | [it]({{< ref "/f35/language/it.md" >}}) | 251 | 251 | 100.0 | /mnt/stockage/packages/f35/gnome-doc-utils/po/it.po | 
- | [ja]({{< ref "/f35/language/ja.md" >}}) | 251 | 251 | 100.0 | /mnt/stockage/packages/f35/gnome-doc-utils/po/ja.po | 
- | [ka]({{< ref "/f35/language/ka.md" >}}) | 213 | 213 | 100.0 | /mnt/stockage/packages/f35/gnome-doc-utils/po/ka.po | 
- | [km]({{< ref "/f35/language/km.md" >}}) | 251 | 251 | 100.0 | /mnt/stockage/packages/f35/gnome-doc-utils/po/km.po | 
- | [kn]({{< ref "/f35/language/kn.md" >}}) | 249 | 249 | 100.0 | /mnt/stockage/packages/f35/gnome-doc-utils/po/kn.po | 
- | [ko]({{< ref "/f35/language/ko.md" >}}) | 251 | 251 | 100.0 | /mnt/stockage/packages/f35/gnome-doc-utils/po/ko.po | 
- | [lt]({{< ref "/f35/language/lt.md" >}}) | 251 | 251 | 100.0 | /mnt/stockage/packages/f35/gnome-doc-utils/po/lt.po | 
- | [lv]({{< ref "/f35/language/lv.md" >}}) | 251 | 251 | 100.0 | /mnt/stockage/packages/f35/gnome-doc-utils/po/lv.po | 
- | [mg]({{< ref "/f35/language/mg.md" >}}) | 213 | 213 | 100.0 | /mnt/stockage/packages/f35/gnome-doc-utils/po/mg.po | 
- | [mk]({{< ref "/f35/language/mk.md" >}}) | 238 | 238 | 100.0 | /mnt/stockage/packages/f35/gnome-doc-utils/po/mk.po | 
- | [ml]({{< ref "/f35/language/ml.md" >}}) | 249 | 249 | 100.0 | /mnt/stockage/packages/f35/gnome-doc-utils/po/ml.po | 
- | [mn]({{< ref "/f35/language/mn.md" >}}) | 213 | 213 | 100.0 | /mnt/stockage/packages/f35/gnome-doc-utils/po/mn.po | 
- | [mr]({{< ref "/f35/language/mr.md" >}}) | 249 | 249 | 100.0 | /mnt/stockage/packages/f35/gnome-doc-utils/po/mr.po | 
- | [nb_NO]({{< ref "/f35/language/nb_NO.md" >}}) | 251 | 251 | 100.0 | /mnt/stockage/packages/f35/gnome-doc-utils/po/nb.po | 
- | [ne]({{< ref "/f35/language/ne.md" >}}) | 238 | 238 | 100.0 | /mnt/stockage/packages/f35/gnome-doc-utils/po/ne.po | 
- | [nl]({{< ref "/f35/language/nl.md" >}}) | 251 | 251 | 100.0 | /mnt/stockage/packages/f35/gnome-doc-utils/po/nl.po | 
- | [nn]({{< ref "/f35/language/nn.md" >}}) | 251 | 251 | 100.0 | /mnt/stockage/packages/f35/gnome-doc-utils/po/nn.po | 
- | [or]({{< ref "/f35/language/or.md" >}}) | 251 | 251 | 100.0 | /mnt/stockage/packages/f35/gnome-doc-utils/po/or.po | 
- | [pa]({{< ref "/f35/language/pa.md" >}}) | 251 | 251 | 100.0 | /mnt/stockage/packages/f35/gnome-doc-utils/po/pa.po | 
- | [pl]({{< ref "/f35/language/pl.md" >}}) | 251 | 251 | 100.0 | /mnt/stockage/packages/f35/gnome-doc-utils/po/pl.po | 
- | [pt]({{< ref "/f35/language/pt.md" >}}) | 251 | 251 | 100.0 | /mnt/stockage/packages/f35/gnome-doc-utils/po/pt.po | 
- | [pt_BR]({{< ref "/f35/language/pt_BR.md" >}}) | 251 | 251 | 100.0 | /mnt/stockage/packages/f35/gnome-doc-utils/po/pt_BR.po | 
- | [ro]({{< ref "/f35/language/ro.md" >}}) | 251 | 251 | 100.0 | /mnt/stockage/packages/f35/gnome-doc-utils/po/ro.po | 
- | [ru]({{< ref "/f35/language/ru.md" >}}) | 251 | 251 | 100.0 | /mnt/stockage/packages/f35/gnome-doc-utils/po/ru.po | 
- | [sl]({{< ref "/f35/language/sl.md" >}}) | 251 | 251 | 100.0 | /mnt/stockage/packages/f35/gnome-doc-utils/po/sl.po | 
- | [sq]({{< ref "/f35/language/sq.md" >}}) | 238 | 238 | 100.0 | /mnt/stockage/packages/f35/gnome-doc-utils/po/sq.po | 
- | [sr]({{< ref "/f35/language/sr.md" >}}) | 251 | 251 | 100.0 | /mnt/stockage/packages/f35/gnome-doc-utils/po/sr.po | 
- | [sr_Latn]({{< ref "/f35/language/sr_Latn.md" >}}) | 251 | 251 | 100.0 | /mnt/stockage/packages/f35/gnome-doc-utils/po/sr@latin.po | 
- | [sv]({{< ref "/f35/language/sv.md" >}}) | 251 | 251 | 100.0 | /mnt/stockage/packages/f35/gnome-doc-utils/po/sv.po | 
- | [ta]({{< ref "/f35/language/ta.md" >}}) | 251 | 251 | 100.0 | /mnt/stockage/packages/f35/gnome-doc-utils/po/ta.po | 
- | [te]({{< ref "/f35/language/te.md" >}}) | 251 | 251 | 100.0 | /mnt/stockage/packages/f35/gnome-doc-utils/po/te.po | 
- | [th]({{< ref "/f35/language/th.md" >}}) | 251 | 251 | 100.0 | /mnt/stockage/packages/f35/gnome-doc-utils/po/th.po | 
- | [tr]({{< ref "/f35/language/tr.md" >}}) | 251 | 251 | 100.0 | /mnt/stockage/packages/f35/gnome-doc-utils/po/tr.po | 
- | [ug]({{< ref "/f35/language/ug.md" >}}) | 251 | 251 | 100.0 | /mnt/stockage/packages/f35/gnome-doc-utils/po/ug.po | 
- | [uk]({{< ref "/f35/language/uk.md" >}}) | 251 | 251 | 100.0 | /mnt/stockage/packages/f35/gnome-doc-utils/po/uk.po | 
- | [vi]({{< ref "/f35/language/vi.md" >}}) | 251 | 251 | 100.0 | /mnt/stockage/packages/f35/gnome-doc-utils/po/vi.po | 
- | [zh_Hans]({{< ref "/f35/language/zh_Hans.md" >}}) | 251 | 251 | 100.0 | /mnt/stockage/packages/f35/gnome-doc-utils/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f35/language/zh_Hant.md" >}}) | 251 | 251 | 100.0 | /mnt/stockage/packages/f35/gnome-doc-utils/po/zh_TW.po | 
- | [zh_Hant_HK]({{< ref "/f35/language/zh_Hant_HK.md" >}}) | 251 | 251 | 100.0 | /mnt/stockage/packages/f35/gnome-doc-utils/po/zh_HK.po | 
- | [mai]({{< ref "/f35/language/mai.md" >}}) | 216 | 249 | 86.7 | /mnt/stockage/packages/f35/gnome-doc-utils/po/mai.po | 
- | [de]({{< ref "/f35/language/de.md" >}}) | 2751 | 5892 | 46.7 | /mnt/stockage/packages/f35/gnome-doc-utils/doc/gnome-doc-make/de/de.po/mnt/stockage/packages/f35/gnome-doc-utils/doc/xslt/de/de.po/mnt/stockage/packages/f35/gnome-doc-utils/po/de.po | 
- | [sk]({{< ref "/f35/language/sk.md" >}}) | 46 | 201 | 22.9 | /mnt/stockage/packages/f35/gnome-doc-utils/po/sk.po | 
- | [oc]({{< ref "/f35/language/oc.md" >}}) | 40 | 238 | 16.8 | /mnt/stockage/packages/f35/gnome-doc-utils/po/oc.po | 
- | [error]({{< ref "/f35/language/error.md" >}}) | 41 | 251 | 16.3 | /mnt/stockage/packages/f35/gnome-doc-utils/po/en@shaw.po | 
- | [wa]({{< ref "/f35/language/wa.md" >}}) | 19 | 199 | 9.5 | /mnt/stockage/packages/f35/gnome-doc-utils/po/wa.po | 
- | [uz]({{< ref "/f35/language/uz.md" >}}) | 38 | 476 | 8.0 | /mnt/stockage/packages/f35/gnome-doc-utils/po/uz@cyrillic.po/mnt/stockage/packages/f35/gnome-doc-utils/po/uz.po | 
- | [rw]({{< ref "/f35/language/rw.md" >}}) | 6 | 199 | 3.0 | /mnt/stockage/packages/f35/gnome-doc-utils/po/rw.po | 
+ | [ar](/f35/language/ar) | 251 | 251 | 100.0 | /mnt/stockage/packages/f35/gnome-doc-utils/po/ar.po | 
+ | [as](/f35/language/as) | 251 | 251 | 100.0 | /mnt/stockage/packages/f35/gnome-doc-utils/po/as.po | 
+ | [ast](/f35/language/ast) | 251 | 251 | 100.0 | /mnt/stockage/packages/f35/gnome-doc-utils/po/ast.po | 
+ | [be](/f35/language/be) | 251 | 251 | 100.0 | /mnt/stockage/packages/f35/gnome-doc-utils/po/be.po | 
+ | [be_Latn](/f35/language/be_Latn) | 238 | 238 | 100.0 | /mnt/stockage/packages/f35/gnome-doc-utils/po/be@latin.po | 
+ | [bg](/f35/language/bg) | 251 | 251 | 100.0 | /mnt/stockage/packages/f35/gnome-doc-utils/po/bg.po | 
+ | [bn](/f35/language/bn) | 251 | 251 | 100.0 | /mnt/stockage/packages/f35/gnome-doc-utils/po/bn.po | 
+ | [bn_IN](/f35/language/bn_IN) | 251 | 251 | 100.0 | /mnt/stockage/packages/f35/gnome-doc-utils/po/bn_IN.po | 
+ | [ca](/f35/language/ca) | 502 | 502 | 100.0 | /mnt/stockage/packages/f35/gnome-doc-utils/po/ca.po/mnt/stockage/packages/f35/gnome-doc-utils/po/ca@valencia.po | 
+ | [cs](/f35/language/cs) | 251 | 251 | 100.0 | /mnt/stockage/packages/f35/gnome-doc-utils/po/cs.po | 
+ | [cy](/f35/language/cy) | 213 | 213 | 100.0 | /mnt/stockage/packages/f35/gnome-doc-utils/po/cy.po | 
+ | [da](/f35/language/da) | 251 | 251 | 100.0 | /mnt/stockage/packages/f35/gnome-doc-utils/po/da.po | 
+ | [dz](/f35/language/dz) | 238 | 238 | 100.0 | /mnt/stockage/packages/f35/gnome-doc-utils/po/dz.po | 
+ | [el](/f35/language/el) | 251 | 251 | 100.0 | /mnt/stockage/packages/f35/gnome-doc-utils/po/el.po | 
+ | [en_CA](/f35/language/en_CA) | 238 | 238 | 100.0 | /mnt/stockage/packages/f35/gnome-doc-utils/po/en_CA.po | 
+ | [en_GB](/f35/language/en_GB) | 251 | 251 | 100.0 | /mnt/stockage/packages/f35/gnome-doc-utils/po/en_GB.po | 
+ | [eo](/f35/language/eo) | 251 | 251 | 100.0 | /mnt/stockage/packages/f35/gnome-doc-utils/po/eo.po | 
+ | [es](/f35/language/es) | 251 | 251 | 100.0 | /mnt/stockage/packages/f35/gnome-doc-utils/po/es.po | 
+ | [et](/f35/language/et) | 251 | 251 | 100.0 | /mnt/stockage/packages/f35/gnome-doc-utils/po/et.po | 
+ | [eu](/f35/language/eu) | 251 | 251 | 100.0 | /mnt/stockage/packages/f35/gnome-doc-utils/po/eu.po | 
+ | [fa](/f35/language/fa) | 251 | 251 | 100.0 | /mnt/stockage/packages/f35/gnome-doc-utils/po/fa.po | 
+ | [fi](/f35/language/fi) | 251 | 251 | 100.0 | /mnt/stockage/packages/f35/gnome-doc-utils/po/fi.po | 
+ | [fr](/f35/language/fr) | 251 | 251 | 100.0 | /mnt/stockage/packages/f35/gnome-doc-utils/po/fr.po | 
+ | [ga](/f35/language/ga) | 249 | 249 | 100.0 | /mnt/stockage/packages/f35/gnome-doc-utils/po/ga.po | 
+ | [gl](/f35/language/gl) | 251 | 251 | 100.0 | /mnt/stockage/packages/f35/gnome-doc-utils/po/gl.po | 
+ | [gu](/f35/language/gu) | 251 | 251 | 100.0 | /mnt/stockage/packages/f35/gnome-doc-utils/po/gu.po | 
+ | [he](/f35/language/he) | 251 | 251 | 100.0 | /mnt/stockage/packages/f35/gnome-doc-utils/po/he.po | 
+ | [hi](/f35/language/hi) | 249 | 249 | 100.0 | /mnt/stockage/packages/f35/gnome-doc-utils/po/hi.po | 
+ | [hu](/f35/language/hu) | 251 | 251 | 100.0 | /mnt/stockage/packages/f35/gnome-doc-utils/po/hu.po | 
+ | [id](/f35/language/id) | 251 | 251 | 100.0 | /mnt/stockage/packages/f35/gnome-doc-utils/po/id.po | 
+ | [it](/f35/language/it) | 251 | 251 | 100.0 | /mnt/stockage/packages/f35/gnome-doc-utils/po/it.po | 
+ | [ja](/f35/language/ja) | 251 | 251 | 100.0 | /mnt/stockage/packages/f35/gnome-doc-utils/po/ja.po | 
+ | [ka](/f35/language/ka) | 213 | 213 | 100.0 | /mnt/stockage/packages/f35/gnome-doc-utils/po/ka.po | 
+ | [km](/f35/language/km) | 251 | 251 | 100.0 | /mnt/stockage/packages/f35/gnome-doc-utils/po/km.po | 
+ | [kn](/f35/language/kn) | 249 | 249 | 100.0 | /mnt/stockage/packages/f35/gnome-doc-utils/po/kn.po | 
+ | [ko](/f35/language/ko) | 251 | 251 | 100.0 | /mnt/stockage/packages/f35/gnome-doc-utils/po/ko.po | 
+ | [lt](/f35/language/lt) | 251 | 251 | 100.0 | /mnt/stockage/packages/f35/gnome-doc-utils/po/lt.po | 
+ | [lv](/f35/language/lv) | 251 | 251 | 100.0 | /mnt/stockage/packages/f35/gnome-doc-utils/po/lv.po | 
+ | [mg](/f35/language/mg) | 213 | 213 | 100.0 | /mnt/stockage/packages/f35/gnome-doc-utils/po/mg.po | 
+ | [mk](/f35/language/mk) | 238 | 238 | 100.0 | /mnt/stockage/packages/f35/gnome-doc-utils/po/mk.po | 
+ | [ml](/f35/language/ml) | 249 | 249 | 100.0 | /mnt/stockage/packages/f35/gnome-doc-utils/po/ml.po | 
+ | [mn](/f35/language/mn) | 213 | 213 | 100.0 | /mnt/stockage/packages/f35/gnome-doc-utils/po/mn.po | 
+ | [mr](/f35/language/mr) | 249 | 249 | 100.0 | /mnt/stockage/packages/f35/gnome-doc-utils/po/mr.po | 
+ | [nb_NO](/f35/language/nb_NO) | 251 | 251 | 100.0 | /mnt/stockage/packages/f35/gnome-doc-utils/po/nb.po | 
+ | [ne](/f35/language/ne) | 238 | 238 | 100.0 | /mnt/stockage/packages/f35/gnome-doc-utils/po/ne.po | 
+ | [nl](/f35/language/nl) | 251 | 251 | 100.0 | /mnt/stockage/packages/f35/gnome-doc-utils/po/nl.po | 
+ | [nn](/f35/language/nn) | 251 | 251 | 100.0 | /mnt/stockage/packages/f35/gnome-doc-utils/po/nn.po | 
+ | [or](/f35/language/or) | 251 | 251 | 100.0 | /mnt/stockage/packages/f35/gnome-doc-utils/po/or.po | 
+ | [pa](/f35/language/pa) | 251 | 251 | 100.0 | /mnt/stockage/packages/f35/gnome-doc-utils/po/pa.po | 
+ | [pl](/f35/language/pl) | 251 | 251 | 100.0 | /mnt/stockage/packages/f35/gnome-doc-utils/po/pl.po | 
+ | [pt](/f35/language/pt) | 251 | 251 | 100.0 | /mnt/stockage/packages/f35/gnome-doc-utils/po/pt.po | 
+ | [pt_BR](/f35/language/pt_BR) | 251 | 251 | 100.0 | /mnt/stockage/packages/f35/gnome-doc-utils/po/pt_BR.po | 
+ | [ro](/f35/language/ro) | 251 | 251 | 100.0 | /mnt/stockage/packages/f35/gnome-doc-utils/po/ro.po | 
+ | [ru](/f35/language/ru) | 251 | 251 | 100.0 | /mnt/stockage/packages/f35/gnome-doc-utils/po/ru.po | 
+ | [sl](/f35/language/sl) | 251 | 251 | 100.0 | /mnt/stockage/packages/f35/gnome-doc-utils/po/sl.po | 
+ | [sq](/f35/language/sq) | 238 | 238 | 100.0 | /mnt/stockage/packages/f35/gnome-doc-utils/po/sq.po | 
+ | [sr](/f35/language/sr) | 251 | 251 | 100.0 | /mnt/stockage/packages/f35/gnome-doc-utils/po/sr.po | 
+ | [sr_Latn](/f35/language/sr_Latn) | 251 | 251 | 100.0 | /mnt/stockage/packages/f35/gnome-doc-utils/po/sr@latin.po | 
+ | [sv](/f35/language/sv) | 251 | 251 | 100.0 | /mnt/stockage/packages/f35/gnome-doc-utils/po/sv.po | 
+ | [ta](/f35/language/ta) | 251 | 251 | 100.0 | /mnt/stockage/packages/f35/gnome-doc-utils/po/ta.po | 
+ | [te](/f35/language/te) | 251 | 251 | 100.0 | /mnt/stockage/packages/f35/gnome-doc-utils/po/te.po | 
+ | [th](/f35/language/th) | 251 | 251 | 100.0 | /mnt/stockage/packages/f35/gnome-doc-utils/po/th.po | 
+ | [tr](/f35/language/tr) | 251 | 251 | 100.0 | /mnt/stockage/packages/f35/gnome-doc-utils/po/tr.po | 
+ | [ug](/f35/language/ug) | 251 | 251 | 100.0 | /mnt/stockage/packages/f35/gnome-doc-utils/po/ug.po | 
+ | [uk](/f35/language/uk) | 251 | 251 | 100.0 | /mnt/stockage/packages/f35/gnome-doc-utils/po/uk.po | 
+ | [vi](/f35/language/vi) | 251 | 251 | 100.0 | /mnt/stockage/packages/f35/gnome-doc-utils/po/vi.po | 
+ | [zh_Hans](/f35/language/zh_Hans) | 251 | 251 | 100.0 | /mnt/stockage/packages/f35/gnome-doc-utils/po/zh_CN.po | 
+ | [zh_Hant](/f35/language/zh_Hant) | 251 | 251 | 100.0 | /mnt/stockage/packages/f35/gnome-doc-utils/po/zh_TW.po | 
+ | [zh_Hant_HK](/f35/language/zh_Hant_HK) | 251 | 251 | 100.0 | /mnt/stockage/packages/f35/gnome-doc-utils/po/zh_HK.po | 
+ | [mai](/f35/language/mai) | 216 | 249 | 86.7 | /mnt/stockage/packages/f35/gnome-doc-utils/po/mai.po | 
+ | [de](/f35/language/de) | 2751 | 5892 | 46.7 | /mnt/stockage/packages/f35/gnome-doc-utils/doc/gnome-doc-make/de/de.po/mnt/stockage/packages/f35/gnome-doc-utils/doc/xslt/de/de.po/mnt/stockage/packages/f35/gnome-doc-utils/po/de.po | 
+ | [sk](/f35/language/sk) | 46 | 201 | 22.9 | /mnt/stockage/packages/f35/gnome-doc-utils/po/sk.po | 
+ | [oc](/f35/language/oc) | 40 | 238 | 16.8 | /mnt/stockage/packages/f35/gnome-doc-utils/po/oc.po | 
+ | [error](/f35/language/error) | 41 | 251 | 16.3 | /mnt/stockage/packages/f35/gnome-doc-utils/po/en@shaw.po | 
+ | [wa](/f35/language/wa) | 19 | 199 | 9.5 | /mnt/stockage/packages/f35/gnome-doc-utils/po/wa.po | 
+ | [uz](/f35/language/uz) | 38 | 476 | 8.0 | /mnt/stockage/packages/f35/gnome-doc-utils/po/uz@cyrillic.po/mnt/stockage/packages/f35/gnome-doc-utils/po/uz.po | 
+ | [rw](/f35/language/rw) | 6 | 199 | 3.0 | /mnt/stockage/packages/f35/gnome-doc-utils/po/rw.po | 
 {.sortable}
 
 

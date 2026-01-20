@@ -18,18 +18,18 @@ The package iputils (version 20221126):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f36/language/cs.md" >}}) | 1124 | 1124 | 100.0 | /mnt/stockage/packages/f36/iputils/po/cs.po | 
- | [fi]({{< ref "/f36/language/fi.md" >}}) | 1124 | 1124 | 100.0 | /mnt/stockage/packages/f36/iputils/po/fi.po | 
- | [ka]({{< ref "/f36/language/ka.md" >}}) | 1124 | 1124 | 100.0 | /mnt/stockage/packages/f36/iputils/po/ka.po | 
- | [ko]({{< ref "/f36/language/ko.md" >}}) | 1124 | 1124 | 100.0 | /mnt/stockage/packages/f36/iputils/po/ko.po | 
- | [tr]({{< ref "/f36/language/tr.md" >}}) | 1124 | 1124 | 100.0 | /mnt/stockage/packages/f36/iputils/po/tr.po | 
- | [uk]({{< ref "/f36/language/uk.md" >}}) | 1124 | 1124 | 100.0 | /mnt/stockage/packages/f36/iputils/po/uk.po | 
- | [ja]({{< ref "/f36/language/ja.md" >}}) | 1064 | 1124 | 94.7 | /mnt/stockage/packages/f36/iputils/po/ja.po | 
- | [pt_BR]({{< ref "/f36/language/pt_BR.md" >}}) | 1057 | 1124 | 94.0 | /mnt/stockage/packages/f36/iputils/po/pt_BR.po | 
- | [id]({{< ref "/f36/language/id.md" >}}) | 1050 | 1124 | 93.4 | /mnt/stockage/packages/f36/iputils/po/id.po | 
- | [de]({{< ref "/f36/language/de.md" >}}) | 830 | 1124 | 73.8 | /mnt/stockage/packages/f36/iputils/po/de.po | 
- | [zh_Hans]({{< ref "/f36/language/zh_Hans.md" >}}) | 788 | 1124 | 70.1 | /mnt/stockage/packages/f36/iputils/po/zh_CN.po | 
- | [fr]({{< ref "/f36/language/fr.md" >}}) | 641 | 1124 | 57.0 | /mnt/stockage/packages/f36/iputils/po/fr.po | 
+ | [cs](/f36/language/cs) | 1124 | 1124 | 100.0 | /mnt/stockage/packages/f36/iputils/po/cs.po | 
+ | [fi](/f36/language/fi) | 1124 | 1124 | 100.0 | /mnt/stockage/packages/f36/iputils/po/fi.po | 
+ | [ka](/f36/language/ka) | 1124 | 1124 | 100.0 | /mnt/stockage/packages/f36/iputils/po/ka.po | 
+ | [ko](/f36/language/ko) | 1124 | 1124 | 100.0 | /mnt/stockage/packages/f36/iputils/po/ko.po | 
+ | [tr](/f36/language/tr) | 1124 | 1124 | 100.0 | /mnt/stockage/packages/f36/iputils/po/tr.po | 
+ | [uk](/f36/language/uk) | 1124 | 1124 | 100.0 | /mnt/stockage/packages/f36/iputils/po/uk.po | 
+ | [ja](/f36/language/ja) | 1064 | 1124 | 94.7 | /mnt/stockage/packages/f36/iputils/po/ja.po | 
+ | [pt_BR](/f36/language/pt_BR) | 1057 | 1124 | 94.0 | /mnt/stockage/packages/f36/iputils/po/pt_BR.po | 
+ | [id](/f36/language/id) | 1050 | 1124 | 93.4 | /mnt/stockage/packages/f36/iputils/po/id.po | 
+ | [de](/f36/language/de) | 830 | 1124 | 73.8 | /mnt/stockage/packages/f36/iputils/po/de.po | 
+ | [zh_Hans](/f36/language/zh_Hans) | 788 | 1124 | 70.1 | /mnt/stockage/packages/f36/iputils/po/zh_CN.po | 
+ | [fr](/f36/language/fr) | 641 | 1124 | 57.0 | /mnt/stockage/packages/f36/iputils/po/fr.po | 
 {.sortable}
 
 

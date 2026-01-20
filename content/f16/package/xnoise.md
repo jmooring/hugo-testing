@@ -18,18 +18,18 @@ The package xnoise (version 0.1.31):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f16/language/de.md" >}}) | 553 | 553 | 100.0 | /mnt/stockage/packages/f16/xnoise/po/de.po | 
- | [pl]({{< ref "/f16/language/pl.md" >}}) | 553 | 553 | 100.0 | /mnt/stockage/packages/f16/xnoise/po/pl.po | 
- | [pt]({{< ref "/f16/language/pt.md" >}}) | 553 | 553 | 100.0 | /mnt/stockage/packages/f16/xnoise/po/pt.po | 
- | [he]({{< ref "/f16/language/he.md" >}}) | 548 | 553 | 99.1 | /mnt/stockage/packages/f16/xnoise/po/he.po | 
- | [es]({{< ref "/f16/language/es.md" >}}) | 543 | 553 | 98.2 | /mnt/stockage/packages/f16/xnoise/po/es.po | 
- | [ru]({{< ref "/f16/language/ru.md" >}}) | 542 | 553 | 98.0 | /mnt/stockage/packages/f16/xnoise/po/ru.po | 
- | [cs]({{< ref "/f16/language/cs.md" >}}) | 523 | 553 | 94.6 | /mnt/stockage/packages/f16/xnoise/po/cs.po | 
- | [it]({{< ref "/f16/language/it.md" >}}) | 523 | 553 | 94.6 | /mnt/stockage/packages/f16/xnoise/po/it.po | 
- | [es_CO]({{< ref "/f16/language/es_CO.md" >}}) | 483 | 553 | 87.3 | /mnt/stockage/packages/f16/xnoise/po/es_CO.po | 
- | [fr]({{< ref "/f16/language/fr.md" >}}) | 474 | 553 | 85.7 | /mnt/stockage/packages/f16/xnoise/po/fr.po | 
- | [zh_Hant]({{< ref "/f16/language/zh_Hant.md" >}}) | 238 | 553 | 43.0 | /mnt/stockage/packages/f16/xnoise/po/zh_TW.po | 
- | [hu]({{< ref "/f16/language/hu.md" >}}) | 196 | 553 | 35.4 | /mnt/stockage/packages/f16/xnoise/po/hu.po | 
+ | [de](/f16/language/de) | 553 | 553 | 100.0 | /mnt/stockage/packages/f16/xnoise/po/de.po | 
+ | [pl](/f16/language/pl) | 553 | 553 | 100.0 | /mnt/stockage/packages/f16/xnoise/po/pl.po | 
+ | [pt](/f16/language/pt) | 553 | 553 | 100.0 | /mnt/stockage/packages/f16/xnoise/po/pt.po | 
+ | [he](/f16/language/he) | 548 | 553 | 99.1 | /mnt/stockage/packages/f16/xnoise/po/he.po | 
+ | [es](/f16/language/es) | 543 | 553 | 98.2 | /mnt/stockage/packages/f16/xnoise/po/es.po | 
+ | [ru](/f16/language/ru) | 542 | 553 | 98.0 | /mnt/stockage/packages/f16/xnoise/po/ru.po | 
+ | [cs](/f16/language/cs) | 523 | 553 | 94.6 | /mnt/stockage/packages/f16/xnoise/po/cs.po | 
+ | [it](/f16/language/it) | 523 | 553 | 94.6 | /mnt/stockage/packages/f16/xnoise/po/it.po | 
+ | [es_CO](/f16/language/es_CO) | 483 | 553 | 87.3 | /mnt/stockage/packages/f16/xnoise/po/es_CO.po | 
+ | [fr](/f16/language/fr) | 474 | 553 | 85.7 | /mnt/stockage/packages/f16/xnoise/po/fr.po | 
+ | [zh_Hant](/f16/language/zh_Hant) | 238 | 553 | 43.0 | /mnt/stockage/packages/f16/xnoise/po/zh_TW.po | 
+ | [hu](/f16/language/hu) | 196 | 553 | 35.4 | /mnt/stockage/packages/f16/xnoise/po/hu.po | 
 {.sortable}
 
 

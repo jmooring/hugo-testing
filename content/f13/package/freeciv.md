@@ -18,36 +18,36 @@ The package freeciv (version 2.2.5):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f13/language/ca.md" >}}) | 53692 | 53692 | 100.0 | /mnt/stockage/packages/f13/freeciv/po/ca.po | 
- | [es]({{< ref "/f13/language/es.md" >}}) | 53692 | 53692 | 100.0 | /mnt/stockage/packages/f13/freeciv/po/es.po | 
- | [fr]({{< ref "/f13/language/fr.md" >}}) | 53692 | 53692 | 100.0 | /mnt/stockage/packages/f13/freeciv/po/fr.po | 
- | [it]({{< ref "/f13/language/it.md" >}}) | 53692 | 53692 | 100.0 | /mnt/stockage/packages/f13/freeciv/po/it.po | 
- | [ja]({{< ref "/f13/language/ja.md" >}}) | 53692 | 53692 | 100.0 | /mnt/stockage/packages/f13/freeciv/po/ja.po | 
- | [pl]({{< ref "/f13/language/pl.md" >}}) | 53692 | 53692 | 100.0 | /mnt/stockage/packages/f13/freeciv/po/pl.po | 
- | [pt_BR]({{< ref "/f13/language/pt_BR.md" >}}) | 53467 | 53692 | 99.6 | /mnt/stockage/packages/f13/freeciv/po/pt_BR.po | 
- | [da]({{< ref "/f13/language/da.md" >}}) | 53318 | 53692 | 99.3 | /mnt/stockage/packages/f13/freeciv/po/da.po | 
- | [ru]({{< ref "/f13/language/ru.md" >}}) | 50229 | 53692 | 93.6 | /mnt/stockage/packages/f13/freeciv/po/ru.po | 
- | [fi]({{< ref "/f13/language/fi.md" >}}) | 39645 | 53692 | 73.8 | /mnt/stockage/packages/f13/freeciv/po/fi.po | 
- | [uk]({{< ref "/f13/language/uk.md" >}}) | 34889 | 53692 | 65.0 | /mnt/stockage/packages/f13/freeciv/po/uk.po | 
- | [sv]({{< ref "/f13/language/sv.md" >}}) | 30431 | 53692 | 56.7 | /mnt/stockage/packages/f13/freeciv/po/sv.po | 
- | [de]({{< ref "/f13/language/de.md" >}}) | 27693 | 53692 | 51.6 | /mnt/stockage/packages/f13/freeciv/po/de.po | 
- | [et]({{< ref "/f13/language/et.md" >}}) | 23103 | 53692 | 43.0 | /mnt/stockage/packages/f13/freeciv/po/et.po | 
- | [nl]({{< ref "/f13/language/nl.md" >}}) | 21548 | 53692 | 40.1 | /mnt/stockage/packages/f13/freeciv/po/nl.po | 
- | [tr]({{< ref "/f13/language/tr.md" >}}) | 20594 | 53692 | 38.4 | /mnt/stockage/packages/f13/freeciv/po/tr.po | 
- | [cs]({{< ref "/f13/language/cs.md" >}}) | 18815 | 53692 | 35.0 | /mnt/stockage/packages/f13/freeciv/po/cs.po | 
- | [nb_NO]({{< ref "/f13/language/nb_NO.md" >}}) | 35500 | 107384 | 33.1 | /mnt/stockage/packages/f13/freeciv/po/nb.po/mnt/stockage/packages/f13/freeciv/po/no.po | 
- | [zh_Hans]({{< ref "/f13/language/zh_Hans.md" >}}) | 17575 | 53692 | 32.7 | /mnt/stockage/packages/f13/freeciv/po/zh_CN.po | 
- | [ro]({{< ref "/f13/language/ro.md" >}}) | 15957 | 53692 | 29.7 | /mnt/stockage/packages/f13/freeciv/po/ro.po | 
- | [el]({{< ref "/f13/language/el.md" >}}) | 13625 | 53692 | 25.4 | /mnt/stockage/packages/f13/freeciv/po/el.po | 
- | [lt]({{< ref "/f13/language/lt.md" >}}) | 12946 | 53692 | 24.1 | /mnt/stockage/packages/f13/freeciv/po/lt.po | 
- | [eo]({{< ref "/f13/language/eo.md" >}}) | 12708 | 53692 | 23.7 | /mnt/stockage/packages/f13/freeciv/po/eo.po | 
- | [ko]({{< ref "/f13/language/ko.md" >}}) | 11552 | 53692 | 21.5 | /mnt/stockage/packages/f13/freeciv/po/ko.po | 
- | [ar]({{< ref "/f13/language/ar.md" >}}) | 10963 | 53692 | 20.4 | /mnt/stockage/packages/f13/freeciv/po/ar.po | 
- | [hu]({{< ref "/f13/language/hu.md" >}}) | 10804 | 53692 | 20.1 | /mnt/stockage/packages/f13/freeciv/po/hu.po | 
- | [pt]({{< ref "/f13/language/pt.md" >}}) | 10659 | 53692 | 19.9 | /mnt/stockage/packages/f13/freeciv/po/pt.po | 
- | [fa]({{< ref "/f13/language/fa.md" >}}) | 5094 | 53692 | 9.5 | /mnt/stockage/packages/f13/freeciv/po/fa.po | 
- | [he]({{< ref "/f13/language/he.md" >}}) | 5082 | 53692 | 9.5 | /mnt/stockage/packages/f13/freeciv/po/he.po | 
- | [en_GB]({{< ref "/f13/language/en_GB.md" >}}) | 1438 | 53692 | 2.7 | /mnt/stockage/packages/f13/freeciv/po/en_GB.po | 
+ | [ca](/f13/language/ca) | 53692 | 53692 | 100.0 | /mnt/stockage/packages/f13/freeciv/po/ca.po | 
+ | [es](/f13/language/es) | 53692 | 53692 | 100.0 | /mnt/stockage/packages/f13/freeciv/po/es.po | 
+ | [fr](/f13/language/fr) | 53692 | 53692 | 100.0 | /mnt/stockage/packages/f13/freeciv/po/fr.po | 
+ | [it](/f13/language/it) | 53692 | 53692 | 100.0 | /mnt/stockage/packages/f13/freeciv/po/it.po | 
+ | [ja](/f13/language/ja) | 53692 | 53692 | 100.0 | /mnt/stockage/packages/f13/freeciv/po/ja.po | 
+ | [pl](/f13/language/pl) | 53692 | 53692 | 100.0 | /mnt/stockage/packages/f13/freeciv/po/pl.po | 
+ | [pt_BR](/f13/language/pt_BR) | 53467 | 53692 | 99.6 | /mnt/stockage/packages/f13/freeciv/po/pt_BR.po | 
+ | [da](/f13/language/da) | 53318 | 53692 | 99.3 | /mnt/stockage/packages/f13/freeciv/po/da.po | 
+ | [ru](/f13/language/ru) | 50229 | 53692 | 93.6 | /mnt/stockage/packages/f13/freeciv/po/ru.po | 
+ | [fi](/f13/language/fi) | 39645 | 53692 | 73.8 | /mnt/stockage/packages/f13/freeciv/po/fi.po | 
+ | [uk](/f13/language/uk) | 34889 | 53692 | 65.0 | /mnt/stockage/packages/f13/freeciv/po/uk.po | 
+ | [sv](/f13/language/sv) | 30431 | 53692 | 56.7 | /mnt/stockage/packages/f13/freeciv/po/sv.po | 
+ | [de](/f13/language/de) | 27693 | 53692 | 51.6 | /mnt/stockage/packages/f13/freeciv/po/de.po | 
+ | [et](/f13/language/et) | 23103 | 53692 | 43.0 | /mnt/stockage/packages/f13/freeciv/po/et.po | 
+ | [nl](/f13/language/nl) | 21548 | 53692 | 40.1 | /mnt/stockage/packages/f13/freeciv/po/nl.po | 
+ | [tr](/f13/language/tr) | 20594 | 53692 | 38.4 | /mnt/stockage/packages/f13/freeciv/po/tr.po | 
+ | [cs](/f13/language/cs) | 18815 | 53692 | 35.0 | /mnt/stockage/packages/f13/freeciv/po/cs.po | 
+ | [nb_NO](/f13/language/nb_NO) | 35500 | 107384 | 33.1 | /mnt/stockage/packages/f13/freeciv/po/nb.po/mnt/stockage/packages/f13/freeciv/po/no.po | 
+ | [zh_Hans](/f13/language/zh_Hans) | 17575 | 53692 | 32.7 | /mnt/stockage/packages/f13/freeciv/po/zh_CN.po | 
+ | [ro](/f13/language/ro) | 15957 | 53692 | 29.7 | /mnt/stockage/packages/f13/freeciv/po/ro.po | 
+ | [el](/f13/language/el) | 13625 | 53692 | 25.4 | /mnt/stockage/packages/f13/freeciv/po/el.po | 
+ | [lt](/f13/language/lt) | 12946 | 53692 | 24.1 | /mnt/stockage/packages/f13/freeciv/po/lt.po | 
+ | [eo](/f13/language/eo) | 12708 | 53692 | 23.7 | /mnt/stockage/packages/f13/freeciv/po/eo.po | 
+ | [ko](/f13/language/ko) | 11552 | 53692 | 21.5 | /mnt/stockage/packages/f13/freeciv/po/ko.po | 
+ | [ar](/f13/language/ar) | 10963 | 53692 | 20.4 | /mnt/stockage/packages/f13/freeciv/po/ar.po | 
+ | [hu](/f13/language/hu) | 10804 | 53692 | 20.1 | /mnt/stockage/packages/f13/freeciv/po/hu.po | 
+ | [pt](/f13/language/pt) | 10659 | 53692 | 19.9 | /mnt/stockage/packages/f13/freeciv/po/pt.po | 
+ | [fa](/f13/language/fa) | 5094 | 53692 | 9.5 | /mnt/stockage/packages/f13/freeciv/po/fa.po | 
+ | [he](/f13/language/he) | 5082 | 53692 | 9.5 | /mnt/stockage/packages/f13/freeciv/po/he.po | 
+ | [en_GB](/f13/language/en_GB) | 1438 | 53692 | 2.7 | /mnt/stockage/packages/f13/freeciv/po/en_GB.po | 
 {.sortable}
 
 

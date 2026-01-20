@@ -18,43 +18,43 @@ The package apcupsd (version 3.14.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [et]({{< ref "/f7/language/et.md" >}}) | 647 | 647 | 100.0 | /mnt/stockage/packages/f7/apcupsd/src/po/et_EE.po | 
- | [fr]({{< ref "/f7/language/fr.md" >}}) | 638 | 647 | 98.6 | /mnt/stockage/packages/f7/apcupsd/src/po/fr.po | 
- | [it]({{< ref "/f7/language/it.md" >}}) | 226 | 647 | 34.9 | /mnt/stockage/packages/f7/apcupsd/src/po/it.po | 
- | [ca]({{< ref "/f7/language/ca.md" >}}) | 0 | 647 | 0.0 | /mnt/stockage/packages/f7/apcupsd/src/po/ca.po | 
- | [cs]({{< ref "/f7/language/cs.md" >}}) | 0 | 647 | 0.0 | /mnt/stockage/packages/f7/apcupsd/src/po/cs.po | 
- | [da]({{< ref "/f7/language/da.md" >}}) | 0 | 647 | 0.0 | /mnt/stockage/packages/f7/apcupsd/src/po/da.po | 
- | [de]({{< ref "/f7/language/de.md" >}}) | 0 | 647 | 0.0 | /mnt/stockage/packages/f7/apcupsd/src/po/de.po | 
- | [el]({{< ref "/f7/language/el.md" >}}) | 0 | 647 | 0.0 | /mnt/stockage/packages/f7/apcupsd/src/po/el.po | 
- | [error]({{< ref "/f7/language/error.md" >}}) | 0 | 1294 | 0.0 | /mnt/stockage/packages/f7/apcupsd/src/po/zh_TW.Big5.po/mnt/stockage/packages/f7/apcupsd/src/po/gr_GR.po | 
- | [es]({{< ref "/f7/language/es.md" >}}) | 0 | 647 | 0.0 | /mnt/stockage/packages/f7/apcupsd/src/po/es.po | 
- | [eu]({{< ref "/f7/language/eu.md" >}}) | 0 | 647 | 0.0 | /mnt/stockage/packages/f7/apcupsd/src/po/eu_ES.po | 
- | [fi]({{< ref "/f7/language/fi.md" >}}) | 0 | 647 | 0.0 | /mnt/stockage/packages/f7/apcupsd/src/po/fi.po | 
- | [fo]({{< ref "/f7/language/fo.md" >}}) | 0 | 647 | 0.0 | /mnt/stockage/packages/f7/apcupsd/src/po/fo_FO.po | 
- | [ga]({{< ref "/f7/language/ga.md" >}}) | 0 | 647 | 0.0 | /mnt/stockage/packages/f7/apcupsd/src/po/ga_IE.po | 
- | [he]({{< ref "/f7/language/he.md" >}}) | 0 | 647 | 0.0 | /mnt/stockage/packages/f7/apcupsd/src/po/iw_IL.po | 
- | [hr]({{< ref "/f7/language/hr.md" >}}) | 0 | 647 | 0.0 | /mnt/stockage/packages/f7/apcupsd/src/po/hr.po | 
- | [hu]({{< ref "/f7/language/hu.md" >}}) | 0 | 647 | 0.0 | /mnt/stockage/packages/f7/apcupsd/src/po/hu.po | 
- | [id]({{< ref "/f7/language/id.md" >}}) | 0 | 647 | 0.0 | /mnt/stockage/packages/f7/apcupsd/src/po/in_ID.po | 
- | [is]({{< ref "/f7/language/is.md" >}}) | 0 | 1941 | 0.0 | /mnt/stockage/packages/f7/apcupsd/src/po/is_is.po/mnt/stockage/packages/f7/apcupsd/src/po/is_IS.po/mnt/stockage/packages/f7/apcupsd/src/po/is.po | 
- | [ja]({{< ref "/f7/language/ja.md" >}}) | 0 | 647 | 0.0 | /mnt/stockage/packages/f7/apcupsd/src/po/ja.po | 
- | [kl]({{< ref "/f7/language/kl.md" >}}) | 0 | 647 | 0.0 | /mnt/stockage/packages/f7/apcupsd/src/po/kl_GL.po | 
- | [ko]({{< ref "/f7/language/ko.md" >}}) | 0 | 647 | 0.0 | /mnt/stockage/packages/f7/apcupsd/src/po/ko.po | 
- | [lt]({{< ref "/f7/language/lt.md" >}}) | 0 | 647 | 0.0 | /mnt/stockage/packages/f7/apcupsd/src/po/lt_LT.po | 
- | [lv]({{< ref "/f7/language/lv.md" >}}) | 0 | 647 | 0.0 | /mnt/stockage/packages/f7/apcupsd/src/po/lv_LV.po | 
- | [nb_NO]({{< ref "/f7/language/nb_NO.md" >}}) | 0 | 647 | 0.0 | /mnt/stockage/packages/f7/apcupsd/src/po/no.po | 
- | [nl]({{< ref "/f7/language/nl.md" >}}) | 0 | 647 | 0.0 | /mnt/stockage/packages/f7/apcupsd/src/po/nl.po | 
- | [pl]({{< ref "/f7/language/pl.md" >}}) | 0 | 647 | 0.0 | /mnt/stockage/packages/f7/apcupsd/src/po/pl.po | 
- | [pt]({{< ref "/f7/language/pt.md" >}}) | 0 | 647 | 0.0 | /mnt/stockage/packages/f7/apcupsd/src/po/pt.po | 
- | [ro]({{< ref "/f7/language/ro.md" >}}) | 0 | 647 | 0.0 | /mnt/stockage/packages/f7/apcupsd/src/po/ro_RO.po | 
- | [ru]({{< ref "/f7/language/ru.md" >}}) | 0 | 647 | 0.0 | /mnt/stockage/packages/f7/apcupsd/src/po/ru.po | 
- | [sk]({{< ref "/f7/language/sk.md" >}}) | 0 | 647 | 0.0 | /mnt/stockage/packages/f7/apcupsd/src/po/sk.po | 
- | [sl]({{< ref "/f7/language/sl.md" >}}) | 0 | 647 | 0.0 | /mnt/stockage/packages/f7/apcupsd/src/po/sl.po | 
- | [sr]({{< ref "/f7/language/sr.md" >}}) | 0 | 647 | 0.0 | /mnt/stockage/packages/f7/apcupsd/src/po/sr.po | 
- | [sv]({{< ref "/f7/language/sv.md" >}}) | 0 | 647 | 0.0 | /mnt/stockage/packages/f7/apcupsd/src/po/sv.po | 
- | [tr]({{< ref "/f7/language/tr.md" >}}) | 0 | 647 | 0.0 | /mnt/stockage/packages/f7/apcupsd/src/po/tr.po | 
- | [uk]({{< ref "/f7/language/uk.md" >}}) | 0 | 647 | 0.0 | /mnt/stockage/packages/f7/apcupsd/src/po/uk_UA.po | 
- | [wa]({{< ref "/f7/language/wa.md" >}}) | 0 | 647 | 0.0 | /mnt/stockage/packages/f7/apcupsd/src/po/wa.po | 
+ | [et](/f7/language/et) | 647 | 647 | 100.0 | /mnt/stockage/packages/f7/apcupsd/src/po/et_EE.po | 
+ | [fr](/f7/language/fr) | 638 | 647 | 98.6 | /mnt/stockage/packages/f7/apcupsd/src/po/fr.po | 
+ | [it](/f7/language/it) | 226 | 647 | 34.9 | /mnt/stockage/packages/f7/apcupsd/src/po/it.po | 
+ | [ca](/f7/language/ca) | 0 | 647 | 0.0 | /mnt/stockage/packages/f7/apcupsd/src/po/ca.po | 
+ | [cs](/f7/language/cs) | 0 | 647 | 0.0 | /mnt/stockage/packages/f7/apcupsd/src/po/cs.po | 
+ | [da](/f7/language/da) | 0 | 647 | 0.0 | /mnt/stockage/packages/f7/apcupsd/src/po/da.po | 
+ | [de](/f7/language/de) | 0 | 647 | 0.0 | /mnt/stockage/packages/f7/apcupsd/src/po/de.po | 
+ | [el](/f7/language/el) | 0 | 647 | 0.0 | /mnt/stockage/packages/f7/apcupsd/src/po/el.po | 
+ | [error](/f7/language/error) | 0 | 1294 | 0.0 | /mnt/stockage/packages/f7/apcupsd/src/po/zh_TW.Big5.po/mnt/stockage/packages/f7/apcupsd/src/po/gr_GR.po | 
+ | [es](/f7/language/es) | 0 | 647 | 0.0 | /mnt/stockage/packages/f7/apcupsd/src/po/es.po | 
+ | [eu](/f7/language/eu) | 0 | 647 | 0.0 | /mnt/stockage/packages/f7/apcupsd/src/po/eu_ES.po | 
+ | [fi](/f7/language/fi) | 0 | 647 | 0.0 | /mnt/stockage/packages/f7/apcupsd/src/po/fi.po | 
+ | [fo](/f7/language/fo) | 0 | 647 | 0.0 | /mnt/stockage/packages/f7/apcupsd/src/po/fo_FO.po | 
+ | [ga](/f7/language/ga) | 0 | 647 | 0.0 | /mnt/stockage/packages/f7/apcupsd/src/po/ga_IE.po | 
+ | [he](/f7/language/he) | 0 | 647 | 0.0 | /mnt/stockage/packages/f7/apcupsd/src/po/iw_IL.po | 
+ | [hr](/f7/language/hr) | 0 | 647 | 0.0 | /mnt/stockage/packages/f7/apcupsd/src/po/hr.po | 
+ | [hu](/f7/language/hu) | 0 | 647 | 0.0 | /mnt/stockage/packages/f7/apcupsd/src/po/hu.po | 
+ | [id](/f7/language/id) | 0 | 647 | 0.0 | /mnt/stockage/packages/f7/apcupsd/src/po/in_ID.po | 
+ | [is](/f7/language/is) | 0 | 1941 | 0.0 | /mnt/stockage/packages/f7/apcupsd/src/po/is_is.po/mnt/stockage/packages/f7/apcupsd/src/po/is_IS.po/mnt/stockage/packages/f7/apcupsd/src/po/is.po | 
+ | [ja](/f7/language/ja) | 0 | 647 | 0.0 | /mnt/stockage/packages/f7/apcupsd/src/po/ja.po | 
+ | [kl](/f7/language/kl) | 0 | 647 | 0.0 | /mnt/stockage/packages/f7/apcupsd/src/po/kl_GL.po | 
+ | [ko](/f7/language/ko) | 0 | 647 | 0.0 | /mnt/stockage/packages/f7/apcupsd/src/po/ko.po | 
+ | [lt](/f7/language/lt) | 0 | 647 | 0.0 | /mnt/stockage/packages/f7/apcupsd/src/po/lt_LT.po | 
+ | [lv](/f7/language/lv) | 0 | 647 | 0.0 | /mnt/stockage/packages/f7/apcupsd/src/po/lv_LV.po | 
+ | [nb_NO](/f7/language/nb_NO) | 0 | 647 | 0.0 | /mnt/stockage/packages/f7/apcupsd/src/po/no.po | 
+ | [nl](/f7/language/nl) | 0 | 647 | 0.0 | /mnt/stockage/packages/f7/apcupsd/src/po/nl.po | 
+ | [pl](/f7/language/pl) | 0 | 647 | 0.0 | /mnt/stockage/packages/f7/apcupsd/src/po/pl.po | 
+ | [pt](/f7/language/pt) | 0 | 647 | 0.0 | /mnt/stockage/packages/f7/apcupsd/src/po/pt.po | 
+ | [ro](/f7/language/ro) | 0 | 647 | 0.0 | /mnt/stockage/packages/f7/apcupsd/src/po/ro_RO.po | 
+ | [ru](/f7/language/ru) | 0 | 647 | 0.0 | /mnt/stockage/packages/f7/apcupsd/src/po/ru.po | 
+ | [sk](/f7/language/sk) | 0 | 647 | 0.0 | /mnt/stockage/packages/f7/apcupsd/src/po/sk.po | 
+ | [sl](/f7/language/sl) | 0 | 647 | 0.0 | /mnt/stockage/packages/f7/apcupsd/src/po/sl.po | 
+ | [sr](/f7/language/sr) | 0 | 647 | 0.0 | /mnt/stockage/packages/f7/apcupsd/src/po/sr.po | 
+ | [sv](/f7/language/sv) | 0 | 647 | 0.0 | /mnt/stockage/packages/f7/apcupsd/src/po/sv.po | 
+ | [tr](/f7/language/tr) | 0 | 647 | 0.0 | /mnt/stockage/packages/f7/apcupsd/src/po/tr.po | 
+ | [uk](/f7/language/uk) | 0 | 647 | 0.0 | /mnt/stockage/packages/f7/apcupsd/src/po/uk_UA.po | 
+ | [wa](/f7/language/wa) | 0 | 647 | 0.0 | /mnt/stockage/packages/f7/apcupsd/src/po/wa.po | 
 {.sortable}
 
 

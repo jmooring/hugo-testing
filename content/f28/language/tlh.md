@@ -38,11 +38,11 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [pantheon-terminal]({{< ref "/f28/package/pantheon-terminal.md" >}}) | 2 | 188 | 1.1 | Klingon <tlh@li.org> | 
- | [cinnamon-translations]({{< ref "/f28/package/cinnamon-translations.md" >}}) | 62 | 12720 | 0.5 | Klingon <tlh@li.org> | 
- | [deluge]({{< ref "/f28/package/deluge.md" >}}) | 3 | 2644 | 0.1 | Klingon; tlhIngan-Hol <tlh@li.org> | 
- | [geeqie]({{< ref "/f28/package/geeqie.md" >}}) | 4 | 4348 | 0.1 |  | 
- | [openerp]({{< ref "/f28/package/openerp.md" >}}) | 2 | 45885 | 0.0 |  | 
+ | [pantheon-terminal](/f28/package/pantheon-terminal) | 2 | 188 | 1.1 | Klingon <tlh@li.org> | 
+ | [cinnamon-translations](/f28/package/cinnamon-translations) | 62 | 12720 | 0.5 | Klingon <tlh@li.org> | 
+ | [deluge](/f28/package/deluge) | 3 | 2644 | 0.1 | Klingon; tlhIngan-Hol <tlh@li.org> | 
+ | [geeqie](/f28/package/geeqie) | 4 | 4348 | 0.1 |  | 
+ | [openerp](/f28/package/openerp) | 2 | 45885 | 0.0 |  | 
 {.sortable}
 
 

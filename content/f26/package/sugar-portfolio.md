@@ -18,36 +18,36 @@ The package sugar-portfolio (version 49):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ay]({{< ref "/f26/language/ay.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f26/sugar-portfolio/po/aym.po | 
- | [ayc]({{< ref "/f26/language/ayc.md" >}}) | 60 | 60 | 100.0 | /mnt/stockage/packages/f26/sugar-portfolio/po/ayc.po | 
- | [ca]({{< ref "/f26/language/ca.md" >}}) | 60 | 60 | 100.0 | /mnt/stockage/packages/f26/sugar-portfolio/po/ca.po | 
- | [da]({{< ref "/f26/language/da.md" >}}) | 60 | 60 | 100.0 | /mnt/stockage/packages/f26/sugar-portfolio/po/da.po | 
- | [de]({{< ref "/f26/language/de.md" >}}) | 60 | 60 | 100.0 | /mnt/stockage/packages/f26/sugar-portfolio/po/de.po | 
- | [en]({{< ref "/f26/language/en.md" >}}) | 60 | 60 | 100.0 | /mnt/stockage/packages/f26/sugar-portfolio/po/en.po | 
- | [en_GB]({{< ref "/f26/language/en_GB.md" >}}) | 60 | 60 | 100.0 | /mnt/stockage/packages/f26/sugar-portfolio/po/en_GB.po | 
- | [en_US]({{< ref "/f26/language/en_US.md" >}}) | 60 | 60 | 100.0 | /mnt/stockage/packages/f26/sugar-portfolio/po/en_US.po | 
- | [es]({{< ref "/f26/language/es.md" >}}) | 63 | 63 | 100.0 | /mnt/stockage/packages/f26/sugar-portfolio/po/es.po | 
- | [fr]({{< ref "/f26/language/fr.md" >}}) | 60 | 60 | 100.0 | /mnt/stockage/packages/f26/sugar-portfolio/po/fr.po | 
- | [hy]({{< ref "/f26/language/hy.md" >}}) | 60 | 60 | 100.0 | /mnt/stockage/packages/f26/sugar-portfolio/po/hy.po | 
- | [id]({{< ref "/f26/language/id.md" >}}) | 60 | 60 | 100.0 | /mnt/stockage/packages/f26/sugar-portfolio/po/id.po | 
- | [ne]({{< ref "/f26/language/ne.md" >}}) | 60 | 60 | 100.0 | /mnt/stockage/packages/f26/sugar-portfolio/po/ne.po | 
- | [nl]({{< ref "/f26/language/nl.md" >}}) | 60 | 60 | 100.0 | /mnt/stockage/packages/f26/sugar-portfolio/po/nl.po | 
- | [pap]({{< ref "/f26/language/pap.md" >}}) | 60 | 60 | 100.0 | /mnt/stockage/packages/f26/sugar-portfolio/po/pap.po | 
- | [pl]({{< ref "/f26/language/pl.md" >}}) | 60 | 60 | 100.0 | /mnt/stockage/packages/f26/sugar-portfolio/po/pl.po | 
- | [pt]({{< ref "/f26/language/pt.md" >}}) | 60 | 60 | 100.0 | /mnt/stockage/packages/f26/sugar-portfolio/po/pt.po | 
- | [qu]({{< ref "/f26/language/qu.md" >}}) | 60 | 60 | 100.0 | /mnt/stockage/packages/f26/sugar-portfolio/po/quz.po | 
- | [zh_Hans]({{< ref "/f26/language/zh_Hans.md" >}}) | 60 | 60 | 100.0 | /mnt/stockage/packages/f26/sugar-portfolio/po/zh_CN.po | 
- | [el]({{< ref "/f26/language/el.md" >}}) | 53 | 60 | 88.3 | /mnt/stockage/packages/f26/sugar-portfolio/po/el.po | 
- | [mi]({{< ref "/f26/language/mi.md" >}}) | 41 | 60 | 68.3 | /mnt/stockage/packages/f26/sugar-portfolio/po/mi.po | 
- | [th]({{< ref "/f26/language/th.md" >}}) | 39 | 60 | 65.0 | /mnt/stockage/packages/f26/sugar-portfolio/po/th.po | 
- | [hus]({{< ref "/f26/language/hus.md" >}}) | 29 | 60 | 48.3 | /mnt/stockage/packages/f26/sugar-portfolio/po/hus.po | 
- | [si]({{< ref "/f26/language/si.md" >}}) | 29 | 60 | 48.3 | /mnt/stockage/packages/f26/sugar-portfolio/po/si.po | 
- | [ta]({{< ref "/f26/language/ta.md" >}}) | 29 | 60 | 48.3 | /mnt/stockage/packages/f26/sugar-portfolio/po/ta.po | 
- | [mn]({{< ref "/f26/language/mn.md" >}}) | 15 | 60 | 25.0 | /mnt/stockage/packages/f26/sugar-portfolio/po/mn.po | 
- | [error]({{< ref "/f26/language/error.md" >}}) | 41 | 180 | 22.8 | /mnt/stockage/packages/f26/sugar-portfolio/po/quy.po/mnt/stockage/packages/f26/sugar-portfolio/po/pbs.po/mnt/stockage/packages/f26/sugar-portfolio/po/agr.po | 
- | [km]({{< ref "/f26/language/km.md" >}}) | 2 | 60 | 3.3 | /mnt/stockage/packages/f26/sugar-portfolio/po/km.po | 
- | [son]({{< ref "/f26/language/son.md" >}}) | 0 | 60 | 0.0 | /mnt/stockage/packages/f26/sugar-portfolio/po/son.po | 
- | [te]({{< ref "/f26/language/te.md" >}}) | 0 | 60 | 0.0 | /mnt/stockage/packages/f26/sugar-portfolio/po/te.po | 
+ | [ay](/f26/language/ay) | 42 | 42 | 100.0 | /mnt/stockage/packages/f26/sugar-portfolio/po/aym.po | 
+ | [ayc](/f26/language/ayc) | 60 | 60 | 100.0 | /mnt/stockage/packages/f26/sugar-portfolio/po/ayc.po | 
+ | [ca](/f26/language/ca) | 60 | 60 | 100.0 | /mnt/stockage/packages/f26/sugar-portfolio/po/ca.po | 
+ | [da](/f26/language/da) | 60 | 60 | 100.0 | /mnt/stockage/packages/f26/sugar-portfolio/po/da.po | 
+ | [de](/f26/language/de) | 60 | 60 | 100.0 | /mnt/stockage/packages/f26/sugar-portfolio/po/de.po | 
+ | [en](/f26/language/en) | 60 | 60 | 100.0 | /mnt/stockage/packages/f26/sugar-portfolio/po/en.po | 
+ | [en_GB](/f26/language/en_GB) | 60 | 60 | 100.0 | /mnt/stockage/packages/f26/sugar-portfolio/po/en_GB.po | 
+ | [en_US](/f26/language/en_US) | 60 | 60 | 100.0 | /mnt/stockage/packages/f26/sugar-portfolio/po/en_US.po | 
+ | [es](/f26/language/es) | 63 | 63 | 100.0 | /mnt/stockage/packages/f26/sugar-portfolio/po/es.po | 
+ | [fr](/f26/language/fr) | 60 | 60 | 100.0 | /mnt/stockage/packages/f26/sugar-portfolio/po/fr.po | 
+ | [hy](/f26/language/hy) | 60 | 60 | 100.0 | /mnt/stockage/packages/f26/sugar-portfolio/po/hy.po | 
+ | [id](/f26/language/id) | 60 | 60 | 100.0 | /mnt/stockage/packages/f26/sugar-portfolio/po/id.po | 
+ | [ne](/f26/language/ne) | 60 | 60 | 100.0 | /mnt/stockage/packages/f26/sugar-portfolio/po/ne.po | 
+ | [nl](/f26/language/nl) | 60 | 60 | 100.0 | /mnt/stockage/packages/f26/sugar-portfolio/po/nl.po | 
+ | [pap](/f26/language/pap) | 60 | 60 | 100.0 | /mnt/stockage/packages/f26/sugar-portfolio/po/pap.po | 
+ | [pl](/f26/language/pl) | 60 | 60 | 100.0 | /mnt/stockage/packages/f26/sugar-portfolio/po/pl.po | 
+ | [pt](/f26/language/pt) | 60 | 60 | 100.0 | /mnt/stockage/packages/f26/sugar-portfolio/po/pt.po | 
+ | [qu](/f26/language/qu) | 60 | 60 | 100.0 | /mnt/stockage/packages/f26/sugar-portfolio/po/quz.po | 
+ | [zh_Hans](/f26/language/zh_Hans) | 60 | 60 | 100.0 | /mnt/stockage/packages/f26/sugar-portfolio/po/zh_CN.po | 
+ | [el](/f26/language/el) | 53 | 60 | 88.3 | /mnt/stockage/packages/f26/sugar-portfolio/po/el.po | 
+ | [mi](/f26/language/mi) | 41 | 60 | 68.3 | /mnt/stockage/packages/f26/sugar-portfolio/po/mi.po | 
+ | [th](/f26/language/th) | 39 | 60 | 65.0 | /mnt/stockage/packages/f26/sugar-portfolio/po/th.po | 
+ | [hus](/f26/language/hus) | 29 | 60 | 48.3 | /mnt/stockage/packages/f26/sugar-portfolio/po/hus.po | 
+ | [si](/f26/language/si) | 29 | 60 | 48.3 | /mnt/stockage/packages/f26/sugar-portfolio/po/si.po | 
+ | [ta](/f26/language/ta) | 29 | 60 | 48.3 | /mnt/stockage/packages/f26/sugar-portfolio/po/ta.po | 
+ | [mn](/f26/language/mn) | 15 | 60 | 25.0 | /mnt/stockage/packages/f26/sugar-portfolio/po/mn.po | 
+ | [error](/f26/language/error) | 41 | 180 | 22.8 | /mnt/stockage/packages/f26/sugar-portfolio/po/quy.po/mnt/stockage/packages/f26/sugar-portfolio/po/pbs.po/mnt/stockage/packages/f26/sugar-portfolio/po/agr.po | 
+ | [km](/f26/language/km) | 2 | 60 | 3.3 | /mnt/stockage/packages/f26/sugar-portfolio/po/km.po | 
+ | [son](/f26/language/son) | 0 | 60 | 0.0 | /mnt/stockage/packages/f26/sugar-portfolio/po/son.po | 
+ | [te](/f26/language/te) | 0 | 60 | 0.0 | /mnt/stockage/packages/f26/sugar-portfolio/po/te.po | 
 {.sortable}
 
 

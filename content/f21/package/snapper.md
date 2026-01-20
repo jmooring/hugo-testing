@@ -18,29 +18,29 @@ The package snapper (version 0.2.5):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f21/language/ar.md" >}}) | 639 | 639 | 100.0 | /mnt/stockage/packages/f21/snapper/po/ar.po | 
- | [ca]({{< ref "/f21/language/ca.md" >}}) | 639 | 639 | 100.0 | /mnt/stockage/packages/f21/snapper/po/ca.po | 
- | [cs]({{< ref "/f21/language/cs.md" >}}) | 639 | 639 | 100.0 | /mnt/stockage/packages/f21/snapper/po/cs.po | 
- | [de]({{< ref "/f21/language/de.md" >}}) | 639 | 639 | 100.0 | /mnt/stockage/packages/f21/snapper/po/de.po | 
- | [es]({{< ref "/f21/language/es.md" >}}) | 639 | 639 | 100.0 | /mnt/stockage/packages/f21/snapper/po/es.po | 
- | [fr]({{< ref "/f21/language/fr.md" >}}) | 639 | 639 | 100.0 | /mnt/stockage/packages/f21/snapper/po/fr.po | 
- | [hu]({{< ref "/f21/language/hu.md" >}}) | 639 | 639 | 100.0 | /mnt/stockage/packages/f21/snapper/po/hu.po | 
- | [it]({{< ref "/f21/language/it.md" >}}) | 639 | 639 | 100.0 | /mnt/stockage/packages/f21/snapper/po/it.po | 
- | [ja]({{< ref "/f21/language/ja.md" >}}) | 639 | 639 | 100.0 | /mnt/stockage/packages/f21/snapper/po/ja.po | 
- | [ko]({{< ref "/f21/language/ko.md" >}}) | 639 | 639 | 100.0 | /mnt/stockage/packages/f21/snapper/po/ko.po | 
- | [nl]({{< ref "/f21/language/nl.md" >}}) | 639 | 639 | 100.0 | /mnt/stockage/packages/f21/snapper/po/nl.po | 
- | [pt_BR]({{< ref "/f21/language/pt_BR.md" >}}) | 639 | 639 | 100.0 | /mnt/stockage/packages/f21/snapper/po/pt_BR.po | 
- | [ru]({{< ref "/f21/language/ru.md" >}}) | 639 | 639 | 100.0 | /mnt/stockage/packages/f21/snapper/po/ru.po | 
- | [sv]({{< ref "/f21/language/sv.md" >}}) | 639 | 639 | 100.0 | /mnt/stockage/packages/f21/snapper/po/sv.po | 
- | [uk]({{< ref "/f21/language/uk.md" >}}) | 639 | 639 | 100.0 | /mnt/stockage/packages/f21/snapper/po/uk.po | 
- | [zh_Hant]({{< ref "/f21/language/zh_Hant.md" >}}) | 1278 | 1278 | 100.0 | /mnt/stockage/packages/f21/snapper/po/zh_TW.po/mnt/stockage/packages/f21/snapper/po/zh_CN.po | 
- | [da]({{< ref "/f21/language/da.md" >}}) | 498 | 639 | 77.9 | /mnt/stockage/packages/f21/snapper/po/da.po | 
- | [el]({{< ref "/f21/language/el.md" >}}) | 498 | 639 | 77.9 | /mnt/stockage/packages/f21/snapper/po/el.po | 
- | [fi]({{< ref "/f21/language/fi.md" >}}) | 498 | 639 | 77.9 | /mnt/stockage/packages/f21/snapper/po/fi.po | 
- | [nb_NO]({{< ref "/f21/language/nb_NO.md" >}}) | 498 | 639 | 77.9 | /mnt/stockage/packages/f21/snapper/po/nb.po | 
- | [pl]({{< ref "/f21/language/pl.md" >}}) | 498 | 639 | 77.9 | /mnt/stockage/packages/f21/snapper/po/pl.po | 
- | [km]({{< ref "/f21/language/km.md" >}}) | 392 | 639 | 61.3 | /mnt/stockage/packages/f21/snapper/po/km.po | 
- | [tr]({{< ref "/f21/language/tr.md" >}}) | 361 | 639 | 56.5 | /mnt/stockage/packages/f21/snapper/po/tr.po | 
+ | [ar](/f21/language/ar) | 639 | 639 | 100.0 | /mnt/stockage/packages/f21/snapper/po/ar.po | 
+ | [ca](/f21/language/ca) | 639 | 639 | 100.0 | /mnt/stockage/packages/f21/snapper/po/ca.po | 
+ | [cs](/f21/language/cs) | 639 | 639 | 100.0 | /mnt/stockage/packages/f21/snapper/po/cs.po | 
+ | [de](/f21/language/de) | 639 | 639 | 100.0 | /mnt/stockage/packages/f21/snapper/po/de.po | 
+ | [es](/f21/language/es) | 639 | 639 | 100.0 | /mnt/stockage/packages/f21/snapper/po/es.po | 
+ | [fr](/f21/language/fr) | 639 | 639 | 100.0 | /mnt/stockage/packages/f21/snapper/po/fr.po | 
+ | [hu](/f21/language/hu) | 639 | 639 | 100.0 | /mnt/stockage/packages/f21/snapper/po/hu.po | 
+ | [it](/f21/language/it) | 639 | 639 | 100.0 | /mnt/stockage/packages/f21/snapper/po/it.po | 
+ | [ja](/f21/language/ja) | 639 | 639 | 100.0 | /mnt/stockage/packages/f21/snapper/po/ja.po | 
+ | [ko](/f21/language/ko) | 639 | 639 | 100.0 | /mnt/stockage/packages/f21/snapper/po/ko.po | 
+ | [nl](/f21/language/nl) | 639 | 639 | 100.0 | /mnt/stockage/packages/f21/snapper/po/nl.po | 
+ | [pt_BR](/f21/language/pt_BR) | 639 | 639 | 100.0 | /mnt/stockage/packages/f21/snapper/po/pt_BR.po | 
+ | [ru](/f21/language/ru) | 639 | 639 | 100.0 | /mnt/stockage/packages/f21/snapper/po/ru.po | 
+ | [sv](/f21/language/sv) | 639 | 639 | 100.0 | /mnt/stockage/packages/f21/snapper/po/sv.po | 
+ | [uk](/f21/language/uk) | 639 | 639 | 100.0 | /mnt/stockage/packages/f21/snapper/po/uk.po | 
+ | [zh_Hant](/f21/language/zh_Hant) | 1278 | 1278 | 100.0 | /mnt/stockage/packages/f21/snapper/po/zh_TW.po/mnt/stockage/packages/f21/snapper/po/zh_CN.po | 
+ | [da](/f21/language/da) | 498 | 639 | 77.9 | /mnt/stockage/packages/f21/snapper/po/da.po | 
+ | [el](/f21/language/el) | 498 | 639 | 77.9 | /mnt/stockage/packages/f21/snapper/po/el.po | 
+ | [fi](/f21/language/fi) | 498 | 639 | 77.9 | /mnt/stockage/packages/f21/snapper/po/fi.po | 
+ | [nb_NO](/f21/language/nb_NO) | 498 | 639 | 77.9 | /mnt/stockage/packages/f21/snapper/po/nb.po | 
+ | [pl](/f21/language/pl) | 498 | 639 | 77.9 | /mnt/stockage/packages/f21/snapper/po/pl.po | 
+ | [km](/f21/language/km) | 392 | 639 | 61.3 | /mnt/stockage/packages/f21/snapper/po/km.po | 
+ | [tr](/f21/language/tr) | 361 | 639 | 56.5 | /mnt/stockage/packages/f21/snapper/po/tr.po | 
 {.sortable}
 
 

@@ -18,12 +18,12 @@ The package fotoxx (version 18.01.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f26/language/ca.md" >}}) | 4689 | 4689 | 100.0 | /mnt/stockage/packages/f26/fotoxx/locales/translate-ca.po | 
- | [en]({{< ref "/f26/language/en.md" >}}) | 9378 | 9378 | 100.0 | /mnt/stockage/packages/f26/fotoxx/locales/translate-fr.po/mnt/stockage/packages/f26/fotoxx/locales/translate-en.po | 
- | [es]({{< ref "/f26/language/es.md" >}}) | 4689 | 4689 | 100.0 | /mnt/stockage/packages/f26/fotoxx/locales/translate-es.po | 
- | [it]({{< ref "/f26/language/it.md" >}}) | 4689 | 4689 | 100.0 | /mnt/stockage/packages/f26/fotoxx/locales/translate-it.po | 
- | [pt]({{< ref "/f26/language/pt.md" >}}) | 4689 | 4689 | 100.0 | /mnt/stockage/packages/f26/fotoxx/locales/translate-pt.po | 
- | [de]({{< ref "/f26/language/de.md" >}}) | 4684 | 4689 | 99.9 | /mnt/stockage/packages/f26/fotoxx/locales/translate-de.po | 
+ | [ca](/f26/language/ca) | 4689 | 4689 | 100.0 | /mnt/stockage/packages/f26/fotoxx/locales/translate-ca.po | 
+ | [en](/f26/language/en) | 9378 | 9378 | 100.0 | /mnt/stockage/packages/f26/fotoxx/locales/translate-fr.po/mnt/stockage/packages/f26/fotoxx/locales/translate-en.po | 
+ | [es](/f26/language/es) | 4689 | 4689 | 100.0 | /mnt/stockage/packages/f26/fotoxx/locales/translate-es.po | 
+ | [it](/f26/language/it) | 4689 | 4689 | 100.0 | /mnt/stockage/packages/f26/fotoxx/locales/translate-it.po | 
+ | [pt](/f26/language/pt) | 4689 | 4689 | 100.0 | /mnt/stockage/packages/f26/fotoxx/locales/translate-pt.po | 
+ | [de](/f26/language/de) | 4684 | 4689 | 99.9 | /mnt/stockage/packages/f26/fotoxx/locales/translate-de.po | 
 {.sortable}
 
 

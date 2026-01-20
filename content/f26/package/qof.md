@@ -18,18 +18,18 @@ The package qof (version 0.8.7):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f26/language/cs.md" >}}) | 554 | 554 | 100.0 | /mnt/stockage/packages/f26/qof/po/cs.po | 
- | [de]({{< ref "/f26/language/de.md" >}}) | 554 | 554 | 100.0 | /mnt/stockage/packages/f26/qof/po/de.po | 
- | [fr]({{< ref "/f26/language/fr.md" >}}) | 554 | 554 | 100.0 | /mnt/stockage/packages/f26/qof/po/fr.po | 
- | [id]({{< ref "/f26/language/id.md" >}}) | 554 | 554 | 100.0 | /mnt/stockage/packages/f26/qof/po/id.po | 
- | [it]({{< ref "/f26/language/it.md" >}}) | 554 | 554 | 100.0 | /mnt/stockage/packages/f26/qof/po/it.po | 
- | [pt]({{< ref "/f26/language/pt.md" >}}) | 554 | 554 | 100.0 | /mnt/stockage/packages/f26/qof/po/pt.po | 
- | [pt_BR]({{< ref "/f26/language/pt_BR.md" >}}) | 554 | 554 | 100.0 | /mnt/stockage/packages/f26/qof/po/pt_BR.po | 
- | [ru]({{< ref "/f26/language/ru.md" >}}) | 554 | 554 | 100.0 | /mnt/stockage/packages/f26/qof/po/ru.po | 
- | [sv]({{< ref "/f26/language/sv.md" >}}) | 554 | 554 | 100.0 | /mnt/stockage/packages/f26/qof/po/sv.po | 
- | [vi]({{< ref "/f26/language/vi.md" >}}) | 554 | 554 | 100.0 | /mnt/stockage/packages/f26/qof/po/vi.po | 
- | [zh_Hans]({{< ref "/f26/language/zh_Hans.md" >}}) | 554 | 554 | 100.0 | /mnt/stockage/packages/f26/qof/po/zh_CN.po | 
- | [ro]({{< ref "/f26/language/ro.md" >}}) | 121 | 554 | 21.8 | /mnt/stockage/packages/f26/qof/po/ro.po | 
+ | [cs](/f26/language/cs) | 554 | 554 | 100.0 | /mnt/stockage/packages/f26/qof/po/cs.po | 
+ | [de](/f26/language/de) | 554 | 554 | 100.0 | /mnt/stockage/packages/f26/qof/po/de.po | 
+ | [fr](/f26/language/fr) | 554 | 554 | 100.0 | /mnt/stockage/packages/f26/qof/po/fr.po | 
+ | [id](/f26/language/id) | 554 | 554 | 100.0 | /mnt/stockage/packages/f26/qof/po/id.po | 
+ | [it](/f26/language/it) | 554 | 554 | 100.0 | /mnt/stockage/packages/f26/qof/po/it.po | 
+ | [pt](/f26/language/pt) | 554 | 554 | 100.0 | /mnt/stockage/packages/f26/qof/po/pt.po | 
+ | [pt_BR](/f26/language/pt_BR) | 554 | 554 | 100.0 | /mnt/stockage/packages/f26/qof/po/pt_BR.po | 
+ | [ru](/f26/language/ru) | 554 | 554 | 100.0 | /mnt/stockage/packages/f26/qof/po/ru.po | 
+ | [sv](/f26/language/sv) | 554 | 554 | 100.0 | /mnt/stockage/packages/f26/qof/po/sv.po | 
+ | [vi](/f26/language/vi) | 554 | 554 | 100.0 | /mnt/stockage/packages/f26/qof/po/vi.po | 
+ | [zh_Hans](/f26/language/zh_Hans) | 554 | 554 | 100.0 | /mnt/stockage/packages/f26/qof/po/zh_CN.po | 
+ | [ro](/f26/language/ro) | 121 | 554 | 21.8 | /mnt/stockage/packages/f26/qof/po/ro.po | 
 {.sortable}
 
 

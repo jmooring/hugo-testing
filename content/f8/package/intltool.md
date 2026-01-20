@@ -18,10 +18,10 @@ The package intltool (version 0.36.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [az]({{< ref "/f8/language/az.md" >}}) | 10 | 10 | 100.0 | /mnt/stockage/packages/f8/intltool/tests/cases/az.po | 
- | [fr]({{< ref "/f8/language/fr.md" >}}) | 76 | 76 | 100.0 | /mnt/stockage/packages/f8/intltool/tests/cases/fr_FR.po/mnt/stockage/packages/f8/intltool/tests/cases/fr.po | 
- | [fr_BE]({{< ref "/f8/language/fr_BE.md" >}}) | 9 | 10 | 90.0 | /mnt/stockage/packages/f8/intltool/tests/cases/fr_BE.po | 
- | [error]({{< ref "/f8/language/error.md" >}}) | 238 | 303 | 78.5 | /mnt/stockage/packages/f8/intltool/tests/cases/test.po/mnt/stockage/packages/f8/intltool/tests/cases/test-quoted.po/mnt/stockage/packages/f8/intltool/tests/cases/spacepreserve.po/mnt/stockage/packages/f8/intltool/tests/cases/schemasmerge2.po/mnt/stockage/packages/f8/intltool/tests/cases/schemasmerge1.po/mnt/stockage/packages/f8/intltool/tests/cases/merge6.po/mnt/stockage/packages/f8/intltool/tests/cases/extract9.po | 
+ | [az](/f8/language/az) | 10 | 10 | 100.0 | /mnt/stockage/packages/f8/intltool/tests/cases/az.po | 
+ | [fr](/f8/language/fr) | 76 | 76 | 100.0 | /mnt/stockage/packages/f8/intltool/tests/cases/fr_FR.po/mnt/stockage/packages/f8/intltool/tests/cases/fr.po | 
+ | [fr_BE](/f8/language/fr_BE) | 9 | 10 | 90.0 | /mnt/stockage/packages/f8/intltool/tests/cases/fr_BE.po | 
+ | [error](/f8/language/error) | 238 | 303 | 78.5 | /mnt/stockage/packages/f8/intltool/tests/cases/test.po/mnt/stockage/packages/f8/intltool/tests/cases/test-quoted.po/mnt/stockage/packages/f8/intltool/tests/cases/spacepreserve.po/mnt/stockage/packages/f8/intltool/tests/cases/schemasmerge2.po/mnt/stockage/packages/f8/intltool/tests/cases/schemasmerge1.po/mnt/stockage/packages/f8/intltool/tests/cases/merge6.po/mnt/stockage/packages/f8/intltool/tests/cases/extract9.po | 
 {.sortable}
 
 

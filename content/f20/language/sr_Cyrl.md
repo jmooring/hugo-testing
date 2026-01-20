@@ -38,11 +38,11 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [im-chooser]({{< ref "/f20/package/im-chooser.md" >}}) | 54 | 237 | 22.8 | LANGUAGE <LL@li.org> | 
- | [publican]({{< ref "/f20/package/publican.md" >}}) | 1206 | 5487 | 22.0 | Serbian <trans-sr@lists.fedoraproject.org> | 
- | [wine]({{< ref "/f20/package/wine.md" >}}) | 2218 | 14311 | 15.5 | Serbian (Cyrillic) | 
- | [imsettings]({{< ref "/f20/package/imsettings.md" >}}) | 49 | 440 | 11.1 | LANGUAGE <LL@li.org> | 
- | [fonts-tweak-tool]({{< ref "/f20/package/fonts-tweak-tool.md" >}}) | 0 | 164 | 0.0 | Serbian (Cyrillic) | 
+ | [im-chooser](/f20/package/im-chooser) | 54 | 237 | 22.8 | LANGUAGE <LL@li.org> | 
+ | [publican](/f20/package/publican) | 1206 | 5487 | 22.0 | Serbian <trans-sr@lists.fedoraproject.org> | 
+ | [wine](/f20/package/wine) | 2218 | 14311 | 15.5 | Serbian (Cyrillic) | 
+ | [imsettings](/f20/package/imsettings) | 49 | 440 | 11.1 | LANGUAGE <LL@li.org> | 
+ | [fonts-tweak-tool](/f20/package/fonts-tweak-tool) | 0 | 164 | 0.0 | Serbian (Cyrillic) | 
 {.sortable}
 
 

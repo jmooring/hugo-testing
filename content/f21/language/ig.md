@@ -38,66 +38,66 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [marco]({{< ref "/f21/package/marco.md" >}}) | 1641 | 2187 | 75.0 | Igbo (http://www.transifex.com/projects/p/MATE/language/ig/) | 
- | [gnome-menus]({{< ref "/f21/package/gnome-menus.md" >}}) | 116 | 157 | 73.9 | <en@li.org> | 
- | [mate-panel]({{< ref "/f21/package/mate-panel.md" >}}) | 2751 | 4237 | 64.9 | LANGUAGE <LL@li.org> | 
- | [epiphany]({{< ref "/f21/package/epiphany.md" >}}) | 1949 | 3004 | 64.9 | Igbo | 
- | [mate-menus]({{< ref "/f21/package/mate-menus.md" >}}) | 59 | 97 | 60.8 | Igbo (http://www.transifex.com/projects/p/MATE/language/ig/) | 
- | [metacity]({{< ref "/f21/package/metacity.md" >}}) | 2294 | 3808 | 60.2 | Igbo | 
- | [muffin]({{< ref "/f21/package/muffin.md" >}}) | 2294 | 3808 | 60.2 | Igbo | 
- | [mutter]({{< ref "/f21/package/mutter.md" >}}) | 2294 | 3808 | 60.2 | Igbo | 
- | [gnome-desktop]({{< ref "/f21/package/gnome-desktop.md" >}}) | 203 | 349 | 58.2 | Igbo | 
- | [gnome-desktop3]({{< ref "/f21/package/gnome-desktop3.md" >}}) | 203 | 349 | 58.2 | Igbo | 
- | [nautilus]({{< ref "/f21/package/nautilus.md" >}}) | 3745 | 8144 | 46.0 | Igbo | 
- | [caja]({{< ref "/f21/package/caja.md" >}}) | 3038 | 9223 | 32.9 | Igbo (http://www.transifex.com/projects/p/MATE/language/ig/) | 
- | [gnome-session]({{< ref "/f21/package/gnome-session.md" >}}) | 117 | 722 | 16.2 | Igbo | 
- | [cinnamon-session]({{< ref "/f21/package/cinnamon-session.md" >}}) | 100 | 678 | 14.7 | Igbo | 
- | [mate-session-manager]({{< ref "/f21/package/mate-session-manager.md" >}}) | 45 | 665 | 6.8 | Igbo (http://www.transifex.com/projects/p/MATE/language/ig/) | 
- | [librfm]({{< ref "/f21/package/librfm.md" >}}) | 110 | 2396 | 4.6 | Igbo | 
- | [mate-desktop]({{< ref "/f21/package/mate-desktop.md" >}}) | 52 | 2396 | 2.2 | Igbo (http://www.transifex.com/projects/p/MATE/language/ig/) | 
- | [isomaster]({{< ref "/f21/package/isomaster.md" >}}) | 9 | 674 | 1.3 | http://littlesvr.ca/ostd/ | 
- | [rodent]({{< ref "/f21/package/rodent.md" >}}) | 102 | 9634 | 1.1 | Igbo | 
- | [sugar-turtleart]({{< ref "/f21/package/sugar-turtleart.md" >}}) | 2 | 3077 | 0.1 | LANGUAGE <walter@sugarlabs.org> | 
- | [sugar]({{< ref "/f21/package/sugar.md" >}}) | 1 | 1733 | 0.1 | Igbo | 
- | [cinnamon-desktop]({{< ref "/f21/package/cinnamon-desktop.md" >}}) | 0 | 231 | 0.0 | Igbo | 
- | [olpc-switch-desktop]({{< ref "/f21/package/olpc-switch-desktop.md" >}}) | 0 | 158 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-abacus]({{< ref "/f21/package/sugar-abacus.md" >}}) | 0 | 68 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-base]({{< ref "/f21/package/sugar-base.md" >}}) | 0 | 5 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-browse]({{< ref "/f21/package/sugar-browse.md" >}}) | 0 | 189 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-calculator]({{< ref "/f21/package/sugar-calculator.md" >}}) | 0 | 871 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-calendario]({{< ref "/f21/package/sugar-calendario.md" >}}) | 0 | 43 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-chat]({{< ref "/f21/package/sugar-chat.md" >}}) | 0 | 52 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-clock]({{< ref "/f21/package/sugar-clock.md" >}}) | 0 | 59 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-connect]({{< ref "/f21/package/sugar-connect.md" >}}) | 0 | 31 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-deducto]({{< ref "/f21/package/sugar-deducto.md" >}}) | 0 | 109 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-finance]({{< ref "/f21/package/sugar-finance.md" >}}) | 0 | 143 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-fototoon]({{< ref "/f21/package/sugar-fototoon.md" >}}) | 0 | 77 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-fractionbounce]({{< ref "/f21/package/sugar-fractionbounce.md" >}}) | 0 | 68 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-getiabooks]({{< ref "/f21/package/sugar-getiabooks.md" >}}) | 0 | 81 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-imageviewer]({{< ref "/f21/package/sugar-imageviewer.md" >}}) | 0 | 51 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-implode]({{< ref "/f21/package/sugar-implode.md" >}}) | 0 | 78 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-infoslicer]({{< ref "/f21/package/sugar-infoslicer.md" >}}) | 0 | 236 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-jukebox]({{< ref "/f21/package/sugar-jukebox.md" >}}) | 0 | 65 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-labyrinth]({{< ref "/f21/package/sugar-labyrinth.md" >}}) | 0 | 281 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-log]({{< ref "/f21/package/sugar-log.md" >}}) | 0 | 98 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-maze]({{< ref "/f21/package/sugar-maze.md" >}}) | 0 | 7 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-measure]({{< ref "/f21/package/sugar-measure.md" >}}) | 0 | 310 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-memorize]({{< ref "/f21/package/sugar-memorize.md" >}}) | 0 | 142 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-moon]({{< ref "/f21/package/sugar-moon.md" >}}) | 0 | 117 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-paint]({{< ref "/f21/package/sugar-paint.md" >}}) | 0 | 90 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-physics]({{< ref "/f21/package/sugar-physics.md" >}}) | 0 | 48 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-pippy]({{< ref "/f21/package/sugar-pippy.md" >}}) | 0 | 109 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-playgo]({{< ref "/f21/package/sugar-playgo.md" >}}) | 0 | 85 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-read]({{< ref "/f21/package/sugar-read.md" >}}) | 0 | 114 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-ruler]({{< ref "/f21/package/sugar-ruler.md" >}}) | 0 | 29 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-speak]({{< ref "/f21/package/sugar-speak.md" >}}) | 0 | 227 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-terminal]({{< ref "/f21/package/sugar-terminal.md" >}}) | 0 | 15 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-toolkit]({{< ref "/f21/package/sugar-toolkit.md" >}}) | 0 | 73 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-toolkit-gtk3]({{< ref "/f21/package/sugar-toolkit-gtk3.md" >}}) | 0 | 76 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-typing-turtle]({{< ref "/f21/package/sugar-typing-turtle.md" >}}) | 0 | 599 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-view-slides]({{< ref "/f21/package/sugar-view-slides.md" >}}) | 0 | 7 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-visualmatch]({{< ref "/f21/package/sugar-visualmatch.md" >}}) | 0 | 158 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-write]({{< ref "/f21/package/sugar-write.md" >}}) | 0 | 121 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [marco](/f21/package/marco) | 1641 | 2187 | 75.0 | Igbo (http://www.transifex.com/projects/p/MATE/language/ig/) | 
+ | [gnome-menus](/f21/package/gnome-menus) | 116 | 157 | 73.9 | <en@li.org> | 
+ | [mate-panel](/f21/package/mate-panel) | 2751 | 4237 | 64.9 | LANGUAGE <LL@li.org> | 
+ | [epiphany](/f21/package/epiphany) | 1949 | 3004 | 64.9 | Igbo | 
+ | [mate-menus](/f21/package/mate-menus) | 59 | 97 | 60.8 | Igbo (http://www.transifex.com/projects/p/MATE/language/ig/) | 
+ | [metacity](/f21/package/metacity) | 2294 | 3808 | 60.2 | Igbo | 
+ | [muffin](/f21/package/muffin) | 2294 | 3808 | 60.2 | Igbo | 
+ | [mutter](/f21/package/mutter) | 2294 | 3808 | 60.2 | Igbo | 
+ | [gnome-desktop](/f21/package/gnome-desktop) | 203 | 349 | 58.2 | Igbo | 
+ | [gnome-desktop3](/f21/package/gnome-desktop3) | 203 | 349 | 58.2 | Igbo | 
+ | [nautilus](/f21/package/nautilus) | 3745 | 8144 | 46.0 | Igbo | 
+ | [caja](/f21/package/caja) | 3038 | 9223 | 32.9 | Igbo (http://www.transifex.com/projects/p/MATE/language/ig/) | 
+ | [gnome-session](/f21/package/gnome-session) | 117 | 722 | 16.2 | Igbo | 
+ | [cinnamon-session](/f21/package/cinnamon-session) | 100 | 678 | 14.7 | Igbo | 
+ | [mate-session-manager](/f21/package/mate-session-manager) | 45 | 665 | 6.8 | Igbo (http://www.transifex.com/projects/p/MATE/language/ig/) | 
+ | [librfm](/f21/package/librfm) | 110 | 2396 | 4.6 | Igbo | 
+ | [mate-desktop](/f21/package/mate-desktop) | 52 | 2396 | 2.2 | Igbo (http://www.transifex.com/projects/p/MATE/language/ig/) | 
+ | [isomaster](/f21/package/isomaster) | 9 | 674 | 1.3 | http://littlesvr.ca/ostd/ | 
+ | [rodent](/f21/package/rodent) | 102 | 9634 | 1.1 | Igbo | 
+ | [sugar-turtleart](/f21/package/sugar-turtleart) | 2 | 3077 | 0.1 | LANGUAGE <walter@sugarlabs.org> | 
+ | [sugar](/f21/package/sugar) | 1 | 1733 | 0.1 | Igbo | 
+ | [cinnamon-desktop](/f21/package/cinnamon-desktop) | 0 | 231 | 0.0 | Igbo | 
+ | [olpc-switch-desktop](/f21/package/olpc-switch-desktop) | 0 | 158 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-abacus](/f21/package/sugar-abacus) | 0 | 68 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-base](/f21/package/sugar-base) | 0 | 5 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-browse](/f21/package/sugar-browse) | 0 | 189 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-calculator](/f21/package/sugar-calculator) | 0 | 871 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-calendario](/f21/package/sugar-calendario) | 0 | 43 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-chat](/f21/package/sugar-chat) | 0 | 52 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-clock](/f21/package/sugar-clock) | 0 | 59 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-connect](/f21/package/sugar-connect) | 0 | 31 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-deducto](/f21/package/sugar-deducto) | 0 | 109 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-finance](/f21/package/sugar-finance) | 0 | 143 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-fototoon](/f21/package/sugar-fototoon) | 0 | 77 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-fractionbounce](/f21/package/sugar-fractionbounce) | 0 | 68 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-getiabooks](/f21/package/sugar-getiabooks) | 0 | 81 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-imageviewer](/f21/package/sugar-imageviewer) | 0 | 51 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-implode](/f21/package/sugar-implode) | 0 | 78 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-infoslicer](/f21/package/sugar-infoslicer) | 0 | 236 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-jukebox](/f21/package/sugar-jukebox) | 0 | 65 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-labyrinth](/f21/package/sugar-labyrinth) | 0 | 281 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-log](/f21/package/sugar-log) | 0 | 98 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-maze](/f21/package/sugar-maze) | 0 | 7 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-measure](/f21/package/sugar-measure) | 0 | 310 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-memorize](/f21/package/sugar-memorize) | 0 | 142 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-moon](/f21/package/sugar-moon) | 0 | 117 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-paint](/f21/package/sugar-paint) | 0 | 90 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-physics](/f21/package/sugar-physics) | 0 | 48 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-pippy](/f21/package/sugar-pippy) | 0 | 109 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-playgo](/f21/package/sugar-playgo) | 0 | 85 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-read](/f21/package/sugar-read) | 0 | 114 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-ruler](/f21/package/sugar-ruler) | 0 | 29 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-speak](/f21/package/sugar-speak) | 0 | 227 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-terminal](/f21/package/sugar-terminal) | 0 | 15 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-toolkit](/f21/package/sugar-toolkit) | 0 | 73 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-toolkit-gtk3](/f21/package/sugar-toolkit-gtk3) | 0 | 76 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-typing-turtle](/f21/package/sugar-typing-turtle) | 0 | 599 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-view-slides](/f21/package/sugar-view-slides) | 0 | 7 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-visualmatch](/f21/package/sugar-visualmatch) | 0 | 158 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-write](/f21/package/sugar-write) | 0 | 121 | 0.0 | LANGUAGE <LL@li.org> | 
 {.sortable}
 
 

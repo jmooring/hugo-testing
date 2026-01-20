@@ -18,9 +18,9 @@ The package goocanvas (version 0.9):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [es]({{< ref "/f8/language/es.md" >}}) | 904 | 1192 | 75.8 | /mnt/stockage/packages/f8/goocanvas/po/es.po | 
- | [ja]({{< ref "/f8/language/ja.md" >}}) | 894 | 1192 | 75.0 | /mnt/stockage/packages/f8/goocanvas/po/ja.po | 
- | [en_GB]({{< ref "/f8/language/en_GB.md" >}}) | 0 | 1192 | 0.0 | /mnt/stockage/packages/f8/goocanvas/po/en_GB.po | 
+ | [es](/f8/language/es) | 904 | 1192 | 75.8 | /mnt/stockage/packages/f8/goocanvas/po/es.po | 
+ | [ja](/f8/language/ja) | 894 | 1192 | 75.0 | /mnt/stockage/packages/f8/goocanvas/po/ja.po | 
+ | [en_GB](/f8/language/en_GB) | 0 | 1192 | 0.0 | /mnt/stockage/packages/f8/goocanvas/po/en_GB.po | 
 {.sortable}
 
 

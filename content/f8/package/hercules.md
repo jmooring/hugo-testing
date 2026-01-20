@@ -18,8 +18,8 @@ The package hercules (version 3.05):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [nl]({{< ref "/f8/language/nl.md" >}}) | 31 | 9019 | 0.3 | /mnt/stockage/packages/f8/hercules/po/nl.po | 
- | [de]({{< ref "/f8/language/de.md" >}}) | 20 | 9019 | 0.2 | /mnt/stockage/packages/f8/hercules/po/de.po | 
+ | [nl](/f8/language/nl) | 31 | 9019 | 0.3 | /mnt/stockage/packages/f8/hercules/po/nl.po | 
+ | [de](/f8/language/de) | 20 | 9019 | 0.2 | /mnt/stockage/packages/f8/hercules/po/de.po | 
 {.sortable}
 
 

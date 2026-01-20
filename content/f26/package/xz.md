@@ -18,12 +18,12 @@ The package xz (version 5.2.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f26/language/de.md" >}}) | 1378 | 1392 | 99.0 | /mnt/stockage/packages/f26/xz/po/de.po | 
- | [it]({{< ref "/f26/language/it.md" >}}) | 1360 | 1392 | 97.7 | /mnt/stockage/packages/f26/xz/po/it.po | 
- | [pl]({{< ref "/f26/language/pl.md" >}}) | 1360 | 1392 | 97.7 | /mnt/stockage/packages/f26/xz/po/pl.po | 
- | [vi]({{< ref "/f26/language/vi.md" >}}) | 1360 | 1392 | 97.7 | /mnt/stockage/packages/f26/xz/po/vi.po | 
- | [fr]({{< ref "/f26/language/fr.md" >}}) | 1259 | 1392 | 90.4 | /mnt/stockage/packages/f26/xz/po/fr.po | 
- | [cs]({{< ref "/f26/language/cs.md" >}}) | 1130 | 1392 | 81.2 | /mnt/stockage/packages/f26/xz/po/cs.po | 
+ | [de](/f26/language/de) | 1378 | 1392 | 99.0 | /mnt/stockage/packages/f26/xz/po/de.po | 
+ | [it](/f26/language/it) | 1360 | 1392 | 97.7 | /mnt/stockage/packages/f26/xz/po/it.po | 
+ | [pl](/f26/language/pl) | 1360 | 1392 | 97.7 | /mnt/stockage/packages/f26/xz/po/pl.po | 
+ | [vi](/f26/language/vi) | 1360 | 1392 | 97.7 | /mnt/stockage/packages/f26/xz/po/vi.po | 
+ | [fr](/f26/language/fr) | 1259 | 1392 | 90.4 | /mnt/stockage/packages/f26/xz/po/fr.po | 
+ | [cs](/f26/language/cs) | 1130 | 1392 | 81.2 | /mnt/stockage/packages/f26/xz/po/cs.po | 
 {.sortable}
 
 

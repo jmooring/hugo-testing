@@ -18,8 +18,8 @@ The package scim-anthy (version 1.2.7):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ja]({{< ref "/f30/language/ja.md" >}}) | 1915 | 1916 | 99.9 | /mnt/stockage/packages/f30/scim-anthy/po/ja.po | 
- | [de]({{< ref "/f30/language/de.md" >}}) | 1315 | 1916 | 68.6 | /mnt/stockage/packages/f30/scim-anthy/po/de.po | 
+ | [ja](/f30/language/ja) | 1915 | 1916 | 99.9 | /mnt/stockage/packages/f30/scim-anthy/po/ja.po | 
+ | [de](/f30/language/de) | 1315 | 1916 | 68.6 | /mnt/stockage/packages/f30/scim-anthy/po/de.po | 
 {.sortable}
 
 

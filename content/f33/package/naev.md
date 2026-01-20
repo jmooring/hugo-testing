@@ -18,9 +18,9 @@ The package naev (version 0.8.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f33/language/de.md" >}}) | 165843 | 166442 | 99.6 | /mnt/stockage/packages/f33/naev/po/de.po | 
- | [ko]({{< ref "/f33/language/ko.md" >}}) | 13468 | 173899 | 7.7 | /mnt/stockage/packages/f33/naev/po/ko.po | 
- | [ja]({{< ref "/f33/language/ja.md" >}}) | 239 | 103781 | 0.2 | /mnt/stockage/packages/f33/naev/po/ja.po | 
+ | [de](/f33/language/de) | 165843 | 166442 | 99.6 | /mnt/stockage/packages/f33/naev/po/de.po | 
+ | [ko](/f33/language/ko) | 13468 | 173899 | 7.7 | /mnt/stockage/packages/f33/naev/po/ko.po | 
+ | [ja](/f33/language/ja) | 239 | 103781 | 0.2 | /mnt/stockage/packages/f33/naev/po/ja.po | 
 {.sortable}
 
 

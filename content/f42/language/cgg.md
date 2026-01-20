@@ -38,9 +38,9 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [abiword]({{< ref "/f42/package/abiword.md" >}}) | 4460 | 5510 | 80.9 | LANGUAGE <LL@li.org> | 
- | [tuxpaint]({{< ref "/f42/package/tuxpaint.md" >}}) | 1098 | 5355 | 20.5 | none | 
- | [vlc]({{< ref "/f42/package/vlc.md" >}}) | 1398 | 34814 | 4.0 | Chiga (https://app.transifex.com/yaron/teams/16553/cgg/) | 
+ | [abiword](/f42/package/abiword) | 4460 | 5510 | 80.9 | LANGUAGE <LL@li.org> | 
+ | [tuxpaint](/f42/package/tuxpaint) | 1098 | 5355 | 20.5 | none | 
+ | [vlc](/f42/package/vlc) | 1398 | 34814 | 4.0 | Chiga (https://app.transifex.com/yaron/teams/16553/cgg/) | 
 {.sortable}
 
 

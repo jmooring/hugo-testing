@@ -18,10 +18,10 @@ The package GMT (version 6.0.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [es]({{< ref "/f31/language/es.md" >}}) | 88 | 88 | 100.0 | /mnt/stockage/packages/f31/GMT/doc/rst/themes/rtd/locale/es/LC_MESSAGES/sphinx.po | 
- | [nl]({{< ref "/f31/language/nl.md" >}}) | 88 | 88 | 100.0 | /mnt/stockage/packages/f31/GMT/doc/rst/themes/rtd/locale/nl/LC_MESSAGES/sphinx.po | 
- | [en]({{< ref "/f31/language/en.md" >}}) | 0 | 88 | 0.0 | /mnt/stockage/packages/f31/GMT/doc/rst/themes/rtd/locale/en/LC_MESSAGES/sphinx.po | 
- | [ru]({{< ref "/f31/language/ru.md" >}}) | 0 | 88 | 0.0 | /mnt/stockage/packages/f31/GMT/doc/rst/themes/rtd/locale/ru/LC_MESSAGES/sphinx.po | 
+ | [es](/f31/language/es) | 88 | 88 | 100.0 | /mnt/stockage/packages/f31/GMT/doc/rst/themes/rtd/locale/es/LC_MESSAGES/sphinx.po | 
+ | [nl](/f31/language/nl) | 88 | 88 | 100.0 | /mnt/stockage/packages/f31/GMT/doc/rst/themes/rtd/locale/nl/LC_MESSAGES/sphinx.po | 
+ | [en](/f31/language/en) | 0 | 88 | 0.0 | /mnt/stockage/packages/f31/GMT/doc/rst/themes/rtd/locale/en/LC_MESSAGES/sphinx.po | 
+ | [ru](/f31/language/ru) | 0 | 88 | 0.0 | /mnt/stockage/packages/f31/GMT/doc/rst/themes/rtd/locale/ru/LC_MESSAGES/sphinx.po | 
 {.sortable}
 
 

@@ -18,37 +18,37 @@ The package kBuild (version 0.1.9998):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [it]({{< ref "/f24/language/it.md" >}}) | 505 | 505 | 100.0 | /mnt/stockage/packages/f24/kBuild/src/sed/po/it.po | 
- | [ca]({{< ref "/f24/language/ca.md" >}}) | 502 | 505 | 99.4 | /mnt/stockage/packages/f24/kBuild/src/sed/po/ca.po | 
- | [et]({{< ref "/f24/language/et.md" >}}) | 502 | 505 | 99.4 | /mnt/stockage/packages/f24/kBuild/src/sed/po/et.po | 
- | [fr]({{< ref "/f24/language/fr.md" >}}) | 502 | 505 | 99.4 | /mnt/stockage/packages/f24/kBuild/src/sed/po/fr.po | 
- | [ga]({{< ref "/f24/language/ga.md" >}}) | 502 | 505 | 99.4 | /mnt/stockage/packages/f24/kBuild/src/sed/po/ga.po | 
- | [pl]({{< ref "/f24/language/pl.md" >}}) | 502 | 505 | 99.4 | /mnt/stockage/packages/f24/kBuild/src/sed/po/pl.po | 
- | [ru]({{< ref "/f24/language/ru.md" >}}) | 502 | 505 | 99.4 | /mnt/stockage/packages/f24/kBuild/src/sed/po/ru.po | 
- | [sv]({{< ref "/f24/language/sv.md" >}}) | 502 | 505 | 99.4 | /mnt/stockage/packages/f24/kBuild/src/sed/po/sv.po | 
- | [ja]({{< ref "/f24/language/ja.md" >}}) | 493 | 505 | 97.6 | /mnt/stockage/packages/f24/kBuild/src/sed/po/ja.po | 
- | [nl]({{< ref "/f24/language/nl.md" >}}) | 493 | 505 | 97.6 | /mnt/stockage/packages/f24/kBuild/src/sed/po/nl.po | 
- | [af]({{< ref "/f24/language/af.md" >}}) | 204 | 505 | 40.4 | /mnt/stockage/packages/f24/kBuild/src/sed/po/af.po | 
- | [da]({{< ref "/f24/language/da.md" >}}) | 204 | 505 | 40.4 | /mnt/stockage/packages/f24/kBuild/src/sed/po/da.po | 
- | [de]({{< ref "/f24/language/de.md" >}}) | 204 | 505 | 40.4 | /mnt/stockage/packages/f24/kBuild/src/sed/po/de.po | 
- | [eo]({{< ref "/f24/language/eo.md" >}}) | 204 | 505 | 40.4 | /mnt/stockage/packages/f24/kBuild/src/sed/po/eo.po | 
- | [es]({{< ref "/f24/language/es.md" >}}) | 204 | 505 | 40.4 | /mnt/stockage/packages/f24/kBuild/src/sed/po/es.po | 
- | [fi]({{< ref "/f24/language/fi.md" >}}) | 204 | 505 | 40.4 | /mnt/stockage/packages/f24/kBuild/src/sed/po/fi.po | 
- | [hu]({{< ref "/f24/language/hu.md" >}}) | 204 | 505 | 40.4 | /mnt/stockage/packages/f24/kBuild/src/sed/po/hu.po | 
- | [id]({{< ref "/f24/language/id.md" >}}) | 204 | 505 | 40.4 | /mnt/stockage/packages/f24/kBuild/src/sed/po/id.po | 
- | [ro]({{< ref "/f24/language/ro.md" >}}) | 204 | 505 | 40.4 | /mnt/stockage/packages/f24/kBuild/src/sed/po/ro.po | 
- | [sk]({{< ref "/f24/language/sk.md" >}}) | 204 | 505 | 40.4 | /mnt/stockage/packages/f24/kBuild/src/sed/po/sk.po | 
- | [sl]({{< ref "/f24/language/sl.md" >}}) | 204 | 505 | 40.4 | /mnt/stockage/packages/f24/kBuild/src/sed/po/sl.po | 
- | [sr]({{< ref "/f24/language/sr.md" >}}) | 204 | 505 | 40.4 | /mnt/stockage/packages/f24/kBuild/src/sed/po/sr.po | 
- | [tr]({{< ref "/f24/language/tr.md" >}}) | 204 | 505 | 40.4 | /mnt/stockage/packages/f24/kBuild/src/sed/po/tr.po | 
- | [gl]({{< ref "/f24/language/gl.md" >}}) | 199 | 505 | 39.4 | /mnt/stockage/packages/f24/kBuild/src/sed/po/gl.po | 
- | [pt_BR]({{< ref "/f24/language/pt_BR.md" >}}) | 199 | 505 | 39.4 | /mnt/stockage/packages/f24/kBuild/src/sed/po/pt_BR.po | 
- | [el]({{< ref "/f24/language/el.md" >}}) | 121 | 505 | 24.0 | /mnt/stockage/packages/f24/kBuild/src/sed/po/el.po | 
- | [hr]({{< ref "/f24/language/hr.md" >}}) | 110 | 505 | 21.8 | /mnt/stockage/packages/f24/kBuild/src/sed/po/hr.po | 
- | [cs]({{< ref "/f24/language/cs.md" >}}) | 106 | 505 | 21.0 | /mnt/stockage/packages/f24/kBuild/src/sed/po/cs.po | 
- | [he]({{< ref "/f24/language/he.md" >}}) | 106 | 505 | 21.0 | /mnt/stockage/packages/f24/kBuild/src/sed/po/he.po | 
- | [ko]({{< ref "/f24/language/ko.md" >}}) | 106 | 505 | 21.0 | /mnt/stockage/packages/f24/kBuild/src/sed/po/ko.po | 
- | [zh_Hans]({{< ref "/f24/language/zh_Hans.md" >}}) | 75 | 505 | 14.9 | /mnt/stockage/packages/f24/kBuild/src/sed/po/zh_CN.po | 
+ | [it](/f24/language/it) | 505 | 505 | 100.0 | /mnt/stockage/packages/f24/kBuild/src/sed/po/it.po | 
+ | [ca](/f24/language/ca) | 502 | 505 | 99.4 | /mnt/stockage/packages/f24/kBuild/src/sed/po/ca.po | 
+ | [et](/f24/language/et) | 502 | 505 | 99.4 | /mnt/stockage/packages/f24/kBuild/src/sed/po/et.po | 
+ | [fr](/f24/language/fr) | 502 | 505 | 99.4 | /mnt/stockage/packages/f24/kBuild/src/sed/po/fr.po | 
+ | [ga](/f24/language/ga) | 502 | 505 | 99.4 | /mnt/stockage/packages/f24/kBuild/src/sed/po/ga.po | 
+ | [pl](/f24/language/pl) | 502 | 505 | 99.4 | /mnt/stockage/packages/f24/kBuild/src/sed/po/pl.po | 
+ | [ru](/f24/language/ru) | 502 | 505 | 99.4 | /mnt/stockage/packages/f24/kBuild/src/sed/po/ru.po | 
+ | [sv](/f24/language/sv) | 502 | 505 | 99.4 | /mnt/stockage/packages/f24/kBuild/src/sed/po/sv.po | 
+ | [ja](/f24/language/ja) | 493 | 505 | 97.6 | /mnt/stockage/packages/f24/kBuild/src/sed/po/ja.po | 
+ | [nl](/f24/language/nl) | 493 | 505 | 97.6 | /mnt/stockage/packages/f24/kBuild/src/sed/po/nl.po | 
+ | [af](/f24/language/af) | 204 | 505 | 40.4 | /mnt/stockage/packages/f24/kBuild/src/sed/po/af.po | 
+ | [da](/f24/language/da) | 204 | 505 | 40.4 | /mnt/stockage/packages/f24/kBuild/src/sed/po/da.po | 
+ | [de](/f24/language/de) | 204 | 505 | 40.4 | /mnt/stockage/packages/f24/kBuild/src/sed/po/de.po | 
+ | [eo](/f24/language/eo) | 204 | 505 | 40.4 | /mnt/stockage/packages/f24/kBuild/src/sed/po/eo.po | 
+ | [es](/f24/language/es) | 204 | 505 | 40.4 | /mnt/stockage/packages/f24/kBuild/src/sed/po/es.po | 
+ | [fi](/f24/language/fi) | 204 | 505 | 40.4 | /mnt/stockage/packages/f24/kBuild/src/sed/po/fi.po | 
+ | [hu](/f24/language/hu) | 204 | 505 | 40.4 | /mnt/stockage/packages/f24/kBuild/src/sed/po/hu.po | 
+ | [id](/f24/language/id) | 204 | 505 | 40.4 | /mnt/stockage/packages/f24/kBuild/src/sed/po/id.po | 
+ | [ro](/f24/language/ro) | 204 | 505 | 40.4 | /mnt/stockage/packages/f24/kBuild/src/sed/po/ro.po | 
+ | [sk](/f24/language/sk) | 204 | 505 | 40.4 | /mnt/stockage/packages/f24/kBuild/src/sed/po/sk.po | 
+ | [sl](/f24/language/sl) | 204 | 505 | 40.4 | /mnt/stockage/packages/f24/kBuild/src/sed/po/sl.po | 
+ | [sr](/f24/language/sr) | 204 | 505 | 40.4 | /mnt/stockage/packages/f24/kBuild/src/sed/po/sr.po | 
+ | [tr](/f24/language/tr) | 204 | 505 | 40.4 | /mnt/stockage/packages/f24/kBuild/src/sed/po/tr.po | 
+ | [gl](/f24/language/gl) | 199 | 505 | 39.4 | /mnt/stockage/packages/f24/kBuild/src/sed/po/gl.po | 
+ | [pt_BR](/f24/language/pt_BR) | 199 | 505 | 39.4 | /mnt/stockage/packages/f24/kBuild/src/sed/po/pt_BR.po | 
+ | [el](/f24/language/el) | 121 | 505 | 24.0 | /mnt/stockage/packages/f24/kBuild/src/sed/po/el.po | 
+ | [hr](/f24/language/hr) | 110 | 505 | 21.8 | /mnt/stockage/packages/f24/kBuild/src/sed/po/hr.po | 
+ | [cs](/f24/language/cs) | 106 | 505 | 21.0 | /mnt/stockage/packages/f24/kBuild/src/sed/po/cs.po | 
+ | [he](/f24/language/he) | 106 | 505 | 21.0 | /mnt/stockage/packages/f24/kBuild/src/sed/po/he.po | 
+ | [ko](/f24/language/ko) | 106 | 505 | 21.0 | /mnt/stockage/packages/f24/kBuild/src/sed/po/ko.po | 
+ | [zh_Hans](/f24/language/zh_Hans) | 75 | 505 | 14.9 | /mnt/stockage/packages/f24/kBuild/src/sed/po/zh_CN.po | 
 {.sortable}
 
 

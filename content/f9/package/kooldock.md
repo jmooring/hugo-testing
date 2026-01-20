@@ -18,10 +18,10 @@ The package kooldock (version 0.4.6):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [es]({{< ref "/f9/language/es.md" >}}) | 592 | 592 | 100.0 | /mnt/stockage/packages/f9/kooldock/kooldock/po/es.po | 
- | [pl]({{< ref "/f9/language/pl.md" >}}) | 613 | 613 | 100.0 | /mnt/stockage/packages/f9/kooldock/kooldock/po/pl.po | 
- | [sv]({{< ref "/f9/language/sv.md" >}}) | 592 | 592 | 100.0 | /mnt/stockage/packages/f9/kooldock/kooldock/po/sv.po | 
- | [fr]({{< ref "/f9/language/fr.md" >}}) | 588 | 592 | 99.3 | /mnt/stockage/packages/f9/kooldock/kooldock/po/fr.po | 
+ | [es](/f9/language/es) | 592 | 592 | 100.0 | /mnt/stockage/packages/f9/kooldock/kooldock/po/es.po | 
+ | [pl](/f9/language/pl) | 613 | 613 | 100.0 | /mnt/stockage/packages/f9/kooldock/kooldock/po/pl.po | 
+ | [sv](/f9/language/sv) | 592 | 592 | 100.0 | /mnt/stockage/packages/f9/kooldock/kooldock/po/sv.po | 
+ | [fr](/f9/language/fr) | 588 | 592 | 99.3 | /mnt/stockage/packages/f9/kooldock/kooldock/po/fr.po | 
 {.sortable}
 
 

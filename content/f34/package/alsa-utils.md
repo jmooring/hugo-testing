@@ -18,12 +18,12 @@ The package alsa-utils (version 1.2.6):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [sk]({{< ref "/f34/language/sk.md" >}}) | 1812 | 1877 | 96.5 | /mnt/stockage/packages/f34/alsa-utils/po/sk.po | 
- | [eu]({{< ref "/f34/language/eu.md" >}}) | 1751 | 1877 | 93.3 | /mnt/stockage/packages/f34/alsa-utils/po/eu.po | 
- | [fr]({{< ref "/f34/language/fr.md" >}}) | 1716 | 1877 | 91.4 | /mnt/stockage/packages/f34/alsa-utils/po/fr.po | 
- | [ru]({{< ref "/f34/language/ru.md" >}}) | 407 | 538 | 75.7 | /mnt/stockage/packages/f34/alsa-utils/alsaconf/po/ru.po | 
- | [ja]({{< ref "/f34/language/ja.md" >}}) | 1586 | 2415 | 65.7 | /mnt/stockage/packages/f34/alsa-utils/alsaconf/po/ja.po/mnt/stockage/packages/f34/alsa-utils/po/ja.po | 
- | [de]({{< ref "/f34/language/de.md" >}}) | 1229 | 1877 | 65.5 | /mnt/stockage/packages/f34/alsa-utils/po/de.po | 
+ | [sk](/f34/language/sk) | 1812 | 1877 | 96.5 | /mnt/stockage/packages/f34/alsa-utils/po/sk.po | 
+ | [eu](/f34/language/eu) | 1751 | 1877 | 93.3 | /mnt/stockage/packages/f34/alsa-utils/po/eu.po | 
+ | [fr](/f34/language/fr) | 1716 | 1877 | 91.4 | /mnt/stockage/packages/f34/alsa-utils/po/fr.po | 
+ | [ru](/f34/language/ru) | 407 | 538 | 75.7 | /mnt/stockage/packages/f34/alsa-utils/alsaconf/po/ru.po | 
+ | [ja](/f34/language/ja) | 1586 | 2415 | 65.7 | /mnt/stockage/packages/f34/alsa-utils/alsaconf/po/ja.po/mnt/stockage/packages/f34/alsa-utils/po/ja.po | 
+ | [de](/f34/language/de) | 1229 | 1877 | 65.5 | /mnt/stockage/packages/f34/alsa-utils/po/de.po | 
 {.sortable}
 
 

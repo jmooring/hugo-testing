@@ -18,14 +18,14 @@ The package giac (version 1.7.0.13):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f34/language/fr.md" >}}) | 7806 | 8239 | 94.7 | /mnt/stockage/packages/f34/giac/po/fr.po | 
- | [de]({{< ref "/f34/language/de.md" >}}) | 4686 | 8239 | 56.9 | /mnt/stockage/packages/f34/giac/po/de.po | 
- | [es]({{< ref "/f34/language/es.md" >}}) | 4462 | 8239 | 54.2 | /mnt/stockage/packages/f34/giac/po/es.po | 
- | [pt]({{< ref "/f34/language/pt.md" >}}) | 4210 | 8239 | 51.1 | /mnt/stockage/packages/f34/giac/po/pt.po | 
- | [zh_Hans]({{< ref "/f34/language/zh_Hans.md" >}}) | 4210 | 8239 | 51.1 | /mnt/stockage/packages/f34/giac/po/zh.po | 
- | [el]({{< ref "/f34/language/el.md" >}}) | 3214 | 8239 | 39.0 | /mnt/stockage/packages/f34/giac/po/el.po | 
- | [en]({{< ref "/f34/language/en.md" >}}) | 2860 | 8239 | 34.7 | /mnt/stockage/packages/f34/giac/po/en.po | 
- | [it]({{< ref "/f34/language/it.md" >}}) | 0 | 8239 | 0.0 | /mnt/stockage/packages/f34/giac/po/it.po | 
+ | [fr](/f34/language/fr) | 7806 | 8239 | 94.7 | /mnt/stockage/packages/f34/giac/po/fr.po | 
+ | [de](/f34/language/de) | 4686 | 8239 | 56.9 | /mnt/stockage/packages/f34/giac/po/de.po | 
+ | [es](/f34/language/es) | 4462 | 8239 | 54.2 | /mnt/stockage/packages/f34/giac/po/es.po | 
+ | [pt](/f34/language/pt) | 4210 | 8239 | 51.1 | /mnt/stockage/packages/f34/giac/po/pt.po | 
+ | [zh_Hans](/f34/language/zh_Hans) | 4210 | 8239 | 51.1 | /mnt/stockage/packages/f34/giac/po/zh.po | 
+ | [el](/f34/language/el) | 3214 | 8239 | 39.0 | /mnt/stockage/packages/f34/giac/po/el.po | 
+ | [en](/f34/language/en) | 2860 | 8239 | 34.7 | /mnt/stockage/packages/f34/giac/po/en.po | 
+ | [it](/f34/language/it) | 0 | 8239 | 0.0 | /mnt/stockage/packages/f34/giac/po/it.po | 
 {.sortable}
 
 

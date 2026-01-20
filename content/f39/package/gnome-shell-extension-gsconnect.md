@@ -18,39 +18,39 @@ The package gnome-shell-extension-gsconnect (version 56):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar_SA]({{< ref "/f39/language/ar_SA.md" >}}) | 834 | 834 | 100.0 | /mnt/stockage/packages/f39/gnome-shell-extension-gsconnect/po/ar.po | 
- | [cs]({{< ref "/f39/language/cs.md" >}}) | 834 | 834 | 100.0 | /mnt/stockage/packages/f39/gnome-shell-extension-gsconnect/po/cs.po | 
- | [de]({{< ref "/f39/language/de.md" >}}) | 834 | 834 | 100.0 | /mnt/stockage/packages/f39/gnome-shell-extension-gsconnect/po/de.po | 
- | [el]({{< ref "/f39/language/el.md" >}}) | 829 | 829 | 100.0 | /mnt/stockage/packages/f39/gnome-shell-extension-gsconnect/po/el.po | 
- | [es]({{< ref "/f39/language/es.md" >}}) | 834 | 834 | 100.0 | /mnt/stockage/packages/f39/gnome-shell-extension-gsconnect/po/es.po | 
- | [fr]({{< ref "/f39/language/fr.md" >}}) | 834 | 834 | 100.0 | /mnt/stockage/packages/f39/gnome-shell-extension-gsconnect/po/fr.po | 
- | [hu]({{< ref "/f39/language/hu.md" >}}) | 834 | 834 | 100.0 | /mnt/stockage/packages/f39/gnome-shell-extension-gsconnect/po/hu.po | 
- | [it]({{< ref "/f39/language/it.md" >}}) | 834 | 834 | 100.0 | /mnt/stockage/packages/f39/gnome-shell-extension-gsconnect/po/it.po | 
- | [pl]({{< ref "/f39/language/pl.md" >}}) | 834 | 834 | 100.0 | /mnt/stockage/packages/f39/gnome-shell-extension-gsconnect/po/pl.po | 
- | [pt_PT]({{< ref "/f39/language/pt_PT.md" >}}) | 834 | 834 | 100.0 | /mnt/stockage/packages/f39/gnome-shell-extension-gsconnect/po/pt.po | 
- | [ru]({{< ref "/f39/language/ru.md" >}}) | 834 | 834 | 100.0 | /mnt/stockage/packages/f39/gnome-shell-extension-gsconnect/po/ru.po | 
- | [uk]({{< ref "/f39/language/uk.md" >}}) | 834 | 834 | 100.0 | /mnt/stockage/packages/f39/gnome-shell-extension-gsconnect/po/uk.po | 
- | [fa]({{< ref "/f39/language/fa.md" >}}) | 824 | 834 | 98.8 | /mnt/stockage/packages/f39/gnome-shell-extension-gsconnect/po/fa.po | 
- | [lt]({{< ref "/f39/language/lt.md" >}}) | 802 | 834 | 96.2 | /mnt/stockage/packages/f39/gnome-shell-extension-gsconnect/po/lt.po | 
- | [sv]({{< ref "/f39/language/sv.md" >}}) | 780 | 834 | 93.5 | /mnt/stockage/packages/f39/gnome-shell-extension-gsconnect/po/sv.po | 
- | [fi]({{< ref "/f39/language/fi.md" >}}) | 769 | 834 | 92.2 | /mnt/stockage/packages/f39/gnome-shell-extension-gsconnect/po/fi.po | 
- | [ko]({{< ref "/f39/language/ko.md" >}}) | 769 | 834 | 92.2 | /mnt/stockage/packages/f39/gnome-shell-extension-gsconnect/po/ko.po | 
- | [nl]({{< ref "/f39/language/nl.md" >}}) | 743 | 829 | 89.6 | /mnt/stockage/packages/f39/gnome-shell-extension-gsconnect/po/nl.po | 
- | [sk]({{< ref "/f39/language/sk.md" >}}) | 743 | 829 | 89.6 | /mnt/stockage/packages/f39/gnome-shell-extension-gsconnect/po/sk.po | 
- | [be]({{< ref "/f39/language/be.md" >}}) | 747 | 834 | 89.6 | /mnt/stockage/packages/f39/gnome-shell-extension-gsconnect/po/be.po | 
- | [et]({{< ref "/f39/language/et.md" >}}) | 747 | 834 | 89.6 | /mnt/stockage/packages/f39/gnome-shell-extension-gsconnect/po/et.po | 
- | [pt_BR]({{< ref "/f39/language/pt_BR.md" >}}) | 747 | 834 | 89.6 | /mnt/stockage/packages/f39/gnome-shell-extension-gsconnect/po/pt_BR.po | 
- | [zh_Hans]({{< ref "/f39/language/zh_Hans.md" >}}) | 712 | 834 | 85.4 | /mnt/stockage/packages/f39/gnome-shell-extension-gsconnect/po/zh_CN.po | 
- | [tr]({{< ref "/f39/language/tr.md" >}}) | 693 | 834 | 83.1 | /mnt/stockage/packages/f39/gnome-shell-extension-gsconnect/po/tr.po | 
- | [gl]({{< ref "/f39/language/gl.md" >}}) | 602 | 834 | 72.2 | /mnt/stockage/packages/f39/gnome-shell-extension-gsconnect/po/gl.po | 
- | [fy]({{< ref "/f39/language/fy.md" >}}) | 590 | 834 | 70.7 | /mnt/stockage/packages/f39/gnome-shell-extension-gsconnect/po/fy.po | 
- | [ca]({{< ref "/f39/language/ca.md" >}}) | 579 | 834 | 69.4 | /mnt/stockage/packages/f39/gnome-shell-extension-gsconnect/po/ca.po | 
- | [da]({{< ref "/f39/language/da.md" >}}) | 535 | 834 | 64.1 | /mnt/stockage/packages/f39/gnome-shell-extension-gsconnect/po/da.po | 
- | [id]({{< ref "/f39/language/id.md" >}}) | 500 | 834 | 60.0 | /mnt/stockage/packages/f39/gnome-shell-extension-gsconnect/po/id.po | 
- | [zh_Hant]({{< ref "/f39/language/zh_Hant.md" >}}) | 471 | 834 | 56.5 | /mnt/stockage/packages/f39/gnome-shell-extension-gsconnect/po/zh_TW.po | 
- | [sr_Latn]({{< ref "/f39/language/sr_Latn.md" >}}) | 416 | 834 | 49.9 | /mnt/stockage/packages/f39/gnome-shell-extension-gsconnect/po/sr@latin.po | 
- | [nl_BE]({{< ref "/f39/language/nl_BE.md" >}}) | 319 | 829 | 38.5 | /mnt/stockage/packages/f39/gnome-shell-extension-gsconnect/po/nl_BE.po | 
- | [sr]({{< ref "/f39/language/sr.md" >}}) | 295 | 834 | 35.4 | /mnt/stockage/packages/f39/gnome-shell-extension-gsconnect/po/sr.po | 
+ | [ar_SA](/f39/language/ar_SA) | 834 | 834 | 100.0 | /mnt/stockage/packages/f39/gnome-shell-extension-gsconnect/po/ar.po | 
+ | [cs](/f39/language/cs) | 834 | 834 | 100.0 | /mnt/stockage/packages/f39/gnome-shell-extension-gsconnect/po/cs.po | 
+ | [de](/f39/language/de) | 834 | 834 | 100.0 | /mnt/stockage/packages/f39/gnome-shell-extension-gsconnect/po/de.po | 
+ | [el](/f39/language/el) | 829 | 829 | 100.0 | /mnt/stockage/packages/f39/gnome-shell-extension-gsconnect/po/el.po | 
+ | [es](/f39/language/es) | 834 | 834 | 100.0 | /mnt/stockage/packages/f39/gnome-shell-extension-gsconnect/po/es.po | 
+ | [fr](/f39/language/fr) | 834 | 834 | 100.0 | /mnt/stockage/packages/f39/gnome-shell-extension-gsconnect/po/fr.po | 
+ | [hu](/f39/language/hu) | 834 | 834 | 100.0 | /mnt/stockage/packages/f39/gnome-shell-extension-gsconnect/po/hu.po | 
+ | [it](/f39/language/it) | 834 | 834 | 100.0 | /mnt/stockage/packages/f39/gnome-shell-extension-gsconnect/po/it.po | 
+ | [pl](/f39/language/pl) | 834 | 834 | 100.0 | /mnt/stockage/packages/f39/gnome-shell-extension-gsconnect/po/pl.po | 
+ | [pt_PT](/f39/language/pt_PT) | 834 | 834 | 100.0 | /mnt/stockage/packages/f39/gnome-shell-extension-gsconnect/po/pt.po | 
+ | [ru](/f39/language/ru) | 834 | 834 | 100.0 | /mnt/stockage/packages/f39/gnome-shell-extension-gsconnect/po/ru.po | 
+ | [uk](/f39/language/uk) | 834 | 834 | 100.0 | /mnt/stockage/packages/f39/gnome-shell-extension-gsconnect/po/uk.po | 
+ | [fa](/f39/language/fa) | 824 | 834 | 98.8 | /mnt/stockage/packages/f39/gnome-shell-extension-gsconnect/po/fa.po | 
+ | [lt](/f39/language/lt) | 802 | 834 | 96.2 | /mnt/stockage/packages/f39/gnome-shell-extension-gsconnect/po/lt.po | 
+ | [sv](/f39/language/sv) | 780 | 834 | 93.5 | /mnt/stockage/packages/f39/gnome-shell-extension-gsconnect/po/sv.po | 
+ | [fi](/f39/language/fi) | 769 | 834 | 92.2 | /mnt/stockage/packages/f39/gnome-shell-extension-gsconnect/po/fi.po | 
+ | [ko](/f39/language/ko) | 769 | 834 | 92.2 | /mnt/stockage/packages/f39/gnome-shell-extension-gsconnect/po/ko.po | 
+ | [nl](/f39/language/nl) | 743 | 829 | 89.6 | /mnt/stockage/packages/f39/gnome-shell-extension-gsconnect/po/nl.po | 
+ | [sk](/f39/language/sk) | 743 | 829 | 89.6 | /mnt/stockage/packages/f39/gnome-shell-extension-gsconnect/po/sk.po | 
+ | [be](/f39/language/be) | 747 | 834 | 89.6 | /mnt/stockage/packages/f39/gnome-shell-extension-gsconnect/po/be.po | 
+ | [et](/f39/language/et) | 747 | 834 | 89.6 | /mnt/stockage/packages/f39/gnome-shell-extension-gsconnect/po/et.po | 
+ | [pt_BR](/f39/language/pt_BR) | 747 | 834 | 89.6 | /mnt/stockage/packages/f39/gnome-shell-extension-gsconnect/po/pt_BR.po | 
+ | [zh_Hans](/f39/language/zh_Hans) | 712 | 834 | 85.4 | /mnt/stockage/packages/f39/gnome-shell-extension-gsconnect/po/zh_CN.po | 
+ | [tr](/f39/language/tr) | 693 | 834 | 83.1 | /mnt/stockage/packages/f39/gnome-shell-extension-gsconnect/po/tr.po | 
+ | [gl](/f39/language/gl) | 602 | 834 | 72.2 | /mnt/stockage/packages/f39/gnome-shell-extension-gsconnect/po/gl.po | 
+ | [fy](/f39/language/fy) | 590 | 834 | 70.7 | /mnt/stockage/packages/f39/gnome-shell-extension-gsconnect/po/fy.po | 
+ | [ca](/f39/language/ca) | 579 | 834 | 69.4 | /mnt/stockage/packages/f39/gnome-shell-extension-gsconnect/po/ca.po | 
+ | [da](/f39/language/da) | 535 | 834 | 64.1 | /mnt/stockage/packages/f39/gnome-shell-extension-gsconnect/po/da.po | 
+ | [id](/f39/language/id) | 500 | 834 | 60.0 | /mnt/stockage/packages/f39/gnome-shell-extension-gsconnect/po/id.po | 
+ | [zh_Hant](/f39/language/zh_Hant) | 471 | 834 | 56.5 | /mnt/stockage/packages/f39/gnome-shell-extension-gsconnect/po/zh_TW.po | 
+ | [sr_Latn](/f39/language/sr_Latn) | 416 | 834 | 49.9 | /mnt/stockage/packages/f39/gnome-shell-extension-gsconnect/po/sr@latin.po | 
+ | [nl_BE](/f39/language/nl_BE) | 319 | 829 | 38.5 | /mnt/stockage/packages/f39/gnome-shell-extension-gsconnect/po/nl_BE.po | 
+ | [sr](/f39/language/sr) | 295 | 834 | 35.4 | /mnt/stockage/packages/f39/gnome-shell-extension-gsconnect/po/sr.po | 
 {.sortable}
 
 

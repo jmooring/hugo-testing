@@ -18,8 +18,8 @@ The package perl-Locale-Msgfmt (version 0.14):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ja]({{< ref "/f14/language/ja.md" >}}) | 1243 | 1262 | 98.5 | /mnt/stockage/packages/f14/perl-Locale-Msgfmt/t/samples/ja.po | 
- | [error]({{< ref "/f14/language/error.md" >}}) | 5 | 6 | 83.3 | /mnt/stockage/packages/f14/perl-Locale-Msgfmt/t/samples/ngettext.po/mnt/stockage/packages/f14/perl-Locale-Msgfmt/t/samples/basic.po/mnt/stockage/packages/f14/perl-Locale-Msgfmt/t/samples/context.po | 
+ | [ja](/f14/language/ja) | 1243 | 1262 | 98.5 | /mnt/stockage/packages/f14/perl-Locale-Msgfmt/t/samples/ja.po | 
+ | [error](/f14/language/error) | 5 | 6 | 83.3 | /mnt/stockage/packages/f14/perl-Locale-Msgfmt/t/samples/ngettext.po/mnt/stockage/packages/f14/perl-Locale-Msgfmt/t/samples/basic.po/mnt/stockage/packages/f14/perl-Locale-Msgfmt/t/samples/context.po | 
 {.sortable}
 
 

@@ -18,7 +18,7 @@ The package ecryptfs-utils (version 101):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f16/language/ca.md" >}}) | 82 | 82 | 100.0 | /mnt/stockage/packages/f16/ecryptfs-utils/po/ca.po | 
+ | [ca](/f16/language/ca) | 82 | 82 | 100.0 | /mnt/stockage/packages/f16/ecryptfs-utils/po/ca.po | 
 {.sortable}
 
 

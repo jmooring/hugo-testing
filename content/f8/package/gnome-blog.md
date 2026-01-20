@@ -18,38 +18,38 @@ The package gnome-blog (version 0.9.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [bg]({{< ref "/f8/language/bg.md" >}}) | 349 | 349 | 100.0 | /mnt/stockage/packages/f8/gnome-blog/po/bg.po | 
- | [ca]({{< ref "/f8/language/ca.md" >}}) | 349 | 349 | 100.0 | /mnt/stockage/packages/f8/gnome-blog/po/ca.po | 
- | [cs]({{< ref "/f8/language/cs.md" >}}) | 349 | 349 | 100.0 | /mnt/stockage/packages/f8/gnome-blog/po/cs.po | 
- | [de]({{< ref "/f8/language/de.md" >}}) | 349 | 349 | 100.0 | /mnt/stockage/packages/f8/gnome-blog/po/de.po | 
- | [en_CA]({{< ref "/f8/language/en_CA.md" >}}) | 349 | 349 | 100.0 | /mnt/stockage/packages/f8/gnome-blog/po/en_CA.po | 
- | [en_GB]({{< ref "/f8/language/en_GB.md" >}}) | 349 | 349 | 100.0 | /mnt/stockage/packages/f8/gnome-blog/po/en_GB.po | 
- | [es]({{< ref "/f8/language/es.md" >}}) | 349 | 349 | 100.0 | /mnt/stockage/packages/f8/gnome-blog/po/es.po | 
- | [fi]({{< ref "/f8/language/fi.md" >}}) | 346 | 346 | 100.0 | /mnt/stockage/packages/f8/gnome-blog/po/fi.po | 
- | [gl]({{< ref "/f8/language/gl.md" >}}) | 346 | 346 | 100.0 | /mnt/stockage/packages/f8/gnome-blog/po/gl.po | 
- | [hu]({{< ref "/f8/language/hu.md" >}}) | 349 | 349 | 100.0 | /mnt/stockage/packages/f8/gnome-blog/po/hu.po | 
- | [ja]({{< ref "/f8/language/ja.md" >}}) | 349 | 349 | 100.0 | /mnt/stockage/packages/f8/gnome-blog/po/ja.po | 
- | [ne]({{< ref "/f8/language/ne.md" >}}) | 349 | 349 | 100.0 | /mnt/stockage/packages/f8/gnome-blog/po/ne.po | 
- | [nl]({{< ref "/f8/language/nl.md" >}}) | 349 | 349 | 100.0 | /mnt/stockage/packages/f8/gnome-blog/po/nl.po | 
- | [pt_BR]({{< ref "/f8/language/pt_BR.md" >}}) | 349 | 349 | 100.0 | /mnt/stockage/packages/f8/gnome-blog/po/pt_BR.po | 
- | [sv]({{< ref "/f8/language/sv.md" >}}) | 346 | 346 | 100.0 | /mnt/stockage/packages/f8/gnome-blog/po/sv.po | 
- | [uk]({{< ref "/f8/language/uk.md" >}}) | 349 | 349 | 100.0 | /mnt/stockage/packages/f8/gnome-blog/po/uk.po | 
- | [vi]({{< ref "/f8/language/vi.md" >}}) | 349 | 349 | 100.0 | /mnt/stockage/packages/f8/gnome-blog/po/vi.po | 
- | [zh_Hans]({{< ref "/f8/language/zh_Hans.md" >}}) | 332 | 332 | 100.0 | /mnt/stockage/packages/f8/gnome-blog/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f8/language/zh_Hant.md" >}}) | 349 | 349 | 100.0 | /mnt/stockage/packages/f8/gnome-blog/po/zh_TW.po | 
- | [error]({{< ref "/f8/language/error.md" >}}) | 332 | 349 | 95.1 | /mnt/stockage/packages/f8/gnome-blog/po/sr@Latn.po | 
- | [fr]({{< ref "/f8/language/fr.md" >}}) | 332 | 349 | 95.1 | /mnt/stockage/packages/f8/gnome-blog/po/fr.po | 
- | [sr]({{< ref "/f8/language/sr.md" >}}) | 332 | 349 | 95.1 | /mnt/stockage/packages/f8/gnome-blog/po/sr.po | 
- | [ms]({{< ref "/f8/language/ms.md" >}}) | 173 | 349 | 49.6 | /mnt/stockage/packages/f8/gnome-blog/po/ms.po | 
- | [pt]({{< ref "/f8/language/pt.md" >}}) | 173 | 349 | 49.6 | /mnt/stockage/packages/f8/gnome-blog/po/pt.po | 
- | [et]({{< ref "/f8/language/et.md" >}}) | 139 | 349 | 39.8 | /mnt/stockage/packages/f8/gnome-blog/po/et.po | 
- | [az]({{< ref "/f8/language/az.md" >}}) | 120 | 349 | 34.4 | /mnt/stockage/packages/f8/gnome-blog/po/az.po | 
- | [it]({{< ref "/f8/language/it.md" >}}) | 82 | 349 | 23.5 | /mnt/stockage/packages/f8/gnome-blog/po/it.po | 
- | [pl]({{< ref "/f8/language/pl.md" >}}) | 55 | 349 | 15.8 | /mnt/stockage/packages/f8/gnome-blog/po/pl.po | 
- | [nb_NO]({{< ref "/f8/language/nb_NO.md" >}}) | 48 | 349 | 13.8 | /mnt/stockage/packages/f8/gnome-blog/po/nb.po | 
- | [hr]({{< ref "/f8/language/hr.md" >}}) | 17 | 349 | 4.9 | /mnt/stockage/packages/f8/gnome-blog/po/hr.po | 
- | [sq]({{< ref "/f8/language/sq.md" >}}) | 17 | 349 | 4.9 | /mnt/stockage/packages/f8/gnome-blog/po/sq.po | 
- | [rw]({{< ref "/f8/language/rw.md" >}}) | 7 | 349 | 2.0 | /mnt/stockage/packages/f8/gnome-blog/po/rw.po | 
+ | [bg](/f8/language/bg) | 349 | 349 | 100.0 | /mnt/stockage/packages/f8/gnome-blog/po/bg.po | 
+ | [ca](/f8/language/ca) | 349 | 349 | 100.0 | /mnt/stockage/packages/f8/gnome-blog/po/ca.po | 
+ | [cs](/f8/language/cs) | 349 | 349 | 100.0 | /mnt/stockage/packages/f8/gnome-blog/po/cs.po | 
+ | [de](/f8/language/de) | 349 | 349 | 100.0 | /mnt/stockage/packages/f8/gnome-blog/po/de.po | 
+ | [en_CA](/f8/language/en_CA) | 349 | 349 | 100.0 | /mnt/stockage/packages/f8/gnome-blog/po/en_CA.po | 
+ | [en_GB](/f8/language/en_GB) | 349 | 349 | 100.0 | /mnt/stockage/packages/f8/gnome-blog/po/en_GB.po | 
+ | [es](/f8/language/es) | 349 | 349 | 100.0 | /mnt/stockage/packages/f8/gnome-blog/po/es.po | 
+ | [fi](/f8/language/fi) | 346 | 346 | 100.0 | /mnt/stockage/packages/f8/gnome-blog/po/fi.po | 
+ | [gl](/f8/language/gl) | 346 | 346 | 100.0 | /mnt/stockage/packages/f8/gnome-blog/po/gl.po | 
+ | [hu](/f8/language/hu) | 349 | 349 | 100.0 | /mnt/stockage/packages/f8/gnome-blog/po/hu.po | 
+ | [ja](/f8/language/ja) | 349 | 349 | 100.0 | /mnt/stockage/packages/f8/gnome-blog/po/ja.po | 
+ | [ne](/f8/language/ne) | 349 | 349 | 100.0 | /mnt/stockage/packages/f8/gnome-blog/po/ne.po | 
+ | [nl](/f8/language/nl) | 349 | 349 | 100.0 | /mnt/stockage/packages/f8/gnome-blog/po/nl.po | 
+ | [pt_BR](/f8/language/pt_BR) | 349 | 349 | 100.0 | /mnt/stockage/packages/f8/gnome-blog/po/pt_BR.po | 
+ | [sv](/f8/language/sv) | 346 | 346 | 100.0 | /mnt/stockage/packages/f8/gnome-blog/po/sv.po | 
+ | [uk](/f8/language/uk) | 349 | 349 | 100.0 | /mnt/stockage/packages/f8/gnome-blog/po/uk.po | 
+ | [vi](/f8/language/vi) | 349 | 349 | 100.0 | /mnt/stockage/packages/f8/gnome-blog/po/vi.po | 
+ | [zh_Hans](/f8/language/zh_Hans) | 332 | 332 | 100.0 | /mnt/stockage/packages/f8/gnome-blog/po/zh_CN.po | 
+ | [zh_Hant](/f8/language/zh_Hant) | 349 | 349 | 100.0 | /mnt/stockage/packages/f8/gnome-blog/po/zh_TW.po | 
+ | [error](/f8/language/error) | 332 | 349 | 95.1 | /mnt/stockage/packages/f8/gnome-blog/po/sr@Latn.po | 
+ | [fr](/f8/language/fr) | 332 | 349 | 95.1 | /mnt/stockage/packages/f8/gnome-blog/po/fr.po | 
+ | [sr](/f8/language/sr) | 332 | 349 | 95.1 | /mnt/stockage/packages/f8/gnome-blog/po/sr.po | 
+ | [ms](/f8/language/ms) | 173 | 349 | 49.6 | /mnt/stockage/packages/f8/gnome-blog/po/ms.po | 
+ | [pt](/f8/language/pt) | 173 | 349 | 49.6 | /mnt/stockage/packages/f8/gnome-blog/po/pt.po | 
+ | [et](/f8/language/et) | 139 | 349 | 39.8 | /mnt/stockage/packages/f8/gnome-blog/po/et.po | 
+ | [az](/f8/language/az) | 120 | 349 | 34.4 | /mnt/stockage/packages/f8/gnome-blog/po/az.po | 
+ | [it](/f8/language/it) | 82 | 349 | 23.5 | /mnt/stockage/packages/f8/gnome-blog/po/it.po | 
+ | [pl](/f8/language/pl) | 55 | 349 | 15.8 | /mnt/stockage/packages/f8/gnome-blog/po/pl.po | 
+ | [nb_NO](/f8/language/nb_NO) | 48 | 349 | 13.8 | /mnt/stockage/packages/f8/gnome-blog/po/nb.po | 
+ | [hr](/f8/language/hr) | 17 | 349 | 4.9 | /mnt/stockage/packages/f8/gnome-blog/po/hr.po | 
+ | [sq](/f8/language/sq) | 17 | 349 | 4.9 | /mnt/stockage/packages/f8/gnome-blog/po/sq.po | 
+ | [rw](/f8/language/rw) | 7 | 349 | 2.0 | /mnt/stockage/packages/f8/gnome-blog/po/rw.po | 
 {.sortable}
 
 

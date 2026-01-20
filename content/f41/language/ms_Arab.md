@@ -38,7 +38,7 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [minetest]({{< ref "/f41/package/minetest.md" >}}) | 3092 | 10452 | 29.6 | Malay (Jawi) <https://hosted.weblate.org/projects/minetest/minetest/ms_Arab/> | 
+ | [minetest](/f41/package/minetest) | 3092 | 10452 | 29.6 | Malay (Jawi) <https://hosted.weblate.org/projects/minetest/minetest/ms_Arab/> | 
 {.sortable}
 
 

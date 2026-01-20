@@ -18,9 +18,9 @@ The package pdfshuffler (version 0.3.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f10/language/de.md" >}}) | 47 | 47 | 100.0 | /mnt/stockage/packages/f10/pdfshuffler/po/de.po | 
- | [el]({{< ref "/f10/language/el.md" >}}) | 47 | 47 | 100.0 | /mnt/stockage/packages/f10/pdfshuffler/po/el.po | 
- | [es]({{< ref "/f10/language/es.md" >}}) | 47 | 47 | 100.0 | /mnt/stockage/packages/f10/pdfshuffler/po/es.po | 
+ | [de](/f10/language/de) | 47 | 47 | 100.0 | /mnt/stockage/packages/f10/pdfshuffler/po/de.po | 
+ | [el](/f10/language/el) | 47 | 47 | 100.0 | /mnt/stockage/packages/f10/pdfshuffler/po/el.po | 
+ | [es](/f10/language/es) | 47 | 47 | 100.0 | /mnt/stockage/packages/f10/pdfshuffler/po/es.po | 
 {.sortable}
 
 

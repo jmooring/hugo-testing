@@ -18,12 +18,12 @@ The package wxGlade (version 0.7.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ja]({{< ref "/f24/language/ja.md" >}}) | 2012 | 2012 | 100.0 | /mnt/stockage/packages/f24/wxGlade/po/ja.po | 
- | [ko]({{< ref "/f24/language/ko.md" >}}) | 761 | 761 | 100.0 | /mnt/stockage/packages/f24/wxGlade/po/ko.po | 
- | [it]({{< ref "/f24/language/it.md" >}}) | 197 | 284 | 69.4 | /mnt/stockage/packages/f24/wxGlade/po/it.po | 
- | [fr]({{< ref "/f24/language/fr.md" >}}) | 337 | 1403 | 24.0 | /mnt/stockage/packages/f24/wxGlade/po/fr.po | 
- | [de]({{< ref "/f24/language/de.md" >}}) | 0 | 1406 | 0.0 | /mnt/stockage/packages/f24/wxGlade/po/de.po | 
- | [en]({{< ref "/f24/language/en.md" >}}) | 0 | 284 | 0.0 | /mnt/stockage/packages/f24/wxGlade/po/en.po | 
+ | [ja](/f24/language/ja) | 2012 | 2012 | 100.0 | /mnt/stockage/packages/f24/wxGlade/po/ja.po | 
+ | [ko](/f24/language/ko) | 761 | 761 | 100.0 | /mnt/stockage/packages/f24/wxGlade/po/ko.po | 
+ | [it](/f24/language/it) | 197 | 284 | 69.4 | /mnt/stockage/packages/f24/wxGlade/po/it.po | 
+ | [fr](/f24/language/fr) | 337 | 1403 | 24.0 | /mnt/stockage/packages/f24/wxGlade/po/fr.po | 
+ | [de](/f24/language/de) | 0 | 1406 | 0.0 | /mnt/stockage/packages/f24/wxGlade/po/de.po | 
+ | [en](/f24/language/en) | 0 | 284 | 0.0 | /mnt/stockage/packages/f24/wxGlade/po/en.po | 
 {.sortable}
 
 

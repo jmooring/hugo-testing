@@ -18,36 +18,36 @@ The package xfce4-diskperf-plugin (version 2.3.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ast]({{< ref "/f15/language/ast.md" >}}) | 185 | 185 | 100.0 | /mnt/stockage/packages/f15/xfce4-diskperf-plugin/po/ast.po | 
- | [ca]({{< ref "/f15/language/ca.md" >}}) | 185 | 185 | 100.0 | /mnt/stockage/packages/f15/xfce4-diskperf-plugin/po/ca.po | 
- | [cs]({{< ref "/f15/language/cs.md" >}}) | 185 | 185 | 100.0 | /mnt/stockage/packages/f15/xfce4-diskperf-plugin/po/cs.po | 
- | [da]({{< ref "/f15/language/da.md" >}}) | 185 | 185 | 100.0 | /mnt/stockage/packages/f15/xfce4-diskperf-plugin/po/da.po | 
- | [de]({{< ref "/f15/language/de.md" >}}) | 185 | 185 | 100.0 | /mnt/stockage/packages/f15/xfce4-diskperf-plugin/po/de.po | 
- | [el]({{< ref "/f15/language/el.md" >}}) | 185 | 185 | 100.0 | /mnt/stockage/packages/f15/xfce4-diskperf-plugin/po/el.po | 
- | [en_GB]({{< ref "/f15/language/en_GB.md" >}}) | 185 | 185 | 100.0 | /mnt/stockage/packages/f15/xfce4-diskperf-plugin/po/en_GB.po | 
- | [es]({{< ref "/f15/language/es.md" >}}) | 185 | 185 | 100.0 | /mnt/stockage/packages/f15/xfce4-diskperf-plugin/po/es.po | 
- | [eu]({{< ref "/f15/language/eu.md" >}}) | 185 | 185 | 100.0 | /mnt/stockage/packages/f15/xfce4-diskperf-plugin/po/eu.po | 
- | [fr]({{< ref "/f15/language/fr.md" >}}) | 185 | 185 | 100.0 | /mnt/stockage/packages/f15/xfce4-diskperf-plugin/po/fr.po | 
- | [gl]({{< ref "/f15/language/gl.md" >}}) | 185 | 185 | 100.0 | /mnt/stockage/packages/f15/xfce4-diskperf-plugin/po/gl.po | 
- | [hu]({{< ref "/f15/language/hu.md" >}}) | 185 | 185 | 100.0 | /mnt/stockage/packages/f15/xfce4-diskperf-plugin/po/hu.po | 
- | [id]({{< ref "/f15/language/id.md" >}}) | 185 | 185 | 100.0 | /mnt/stockage/packages/f15/xfce4-diskperf-plugin/po/id.po | 
- | [it]({{< ref "/f15/language/it.md" >}}) | 185 | 185 | 100.0 | /mnt/stockage/packages/f15/xfce4-diskperf-plugin/po/it.po | 
- | [ja]({{< ref "/f15/language/ja.md" >}}) | 185 | 185 | 100.0 | /mnt/stockage/packages/f15/xfce4-diskperf-plugin/po/ja.po | 
- | [lv]({{< ref "/f15/language/lv.md" >}}) | 185 | 185 | 100.0 | /mnt/stockage/packages/f15/xfce4-diskperf-plugin/po/lv.po | 
- | [nb_NO]({{< ref "/f15/language/nb_NO.md" >}}) | 185 | 185 | 100.0 | /mnt/stockage/packages/f15/xfce4-diskperf-plugin/po/nb.po | 
- | [pl]({{< ref "/f15/language/pl.md" >}}) | 185 | 185 | 100.0 | /mnt/stockage/packages/f15/xfce4-diskperf-plugin/po/pl.po | 
- | [pt]({{< ref "/f15/language/pt.md" >}}) | 185 | 185 | 100.0 | /mnt/stockage/packages/f15/xfce4-diskperf-plugin/po/pt.po | 
- | [pt_BR]({{< ref "/f15/language/pt_BR.md" >}}) | 185 | 185 | 100.0 | /mnt/stockage/packages/f15/xfce4-diskperf-plugin/po/pt_BR.po | 
- | [ru]({{< ref "/f15/language/ru.md" >}}) | 185 | 185 | 100.0 | /mnt/stockage/packages/f15/xfce4-diskperf-plugin/po/ru.po | 
- | [sq]({{< ref "/f15/language/sq.md" >}}) | 185 | 185 | 100.0 | /mnt/stockage/packages/f15/xfce4-diskperf-plugin/po/sq.po | 
- | [sv]({{< ref "/f15/language/sv.md" >}}) | 185 | 185 | 100.0 | /mnt/stockage/packages/f15/xfce4-diskperf-plugin/po/sv.po | 
- | [tr]({{< ref "/f15/language/tr.md" >}}) | 185 | 185 | 100.0 | /mnt/stockage/packages/f15/xfce4-diskperf-plugin/po/tr.po | 
- | [ug]({{< ref "/f15/language/ug.md" >}}) | 185 | 185 | 100.0 | /mnt/stockage/packages/f15/xfce4-diskperf-plugin/po/ug.po | 
- | [uk]({{< ref "/f15/language/uk.md" >}}) | 181 | 181 | 100.0 | /mnt/stockage/packages/f15/xfce4-diskperf-plugin/po/uk.po | 
- | [ur]({{< ref "/f15/language/ur.md" >}}) | 185 | 185 | 100.0 | /mnt/stockage/packages/f15/xfce4-diskperf-plugin/po/ur.po | 
- | [ur_PK]({{< ref "/f15/language/ur_PK.md" >}}) | 185 | 185 | 100.0 | /mnt/stockage/packages/f15/xfce4-diskperf-plugin/po/ur_PK.po | 
- | [zh_Hans]({{< ref "/f15/language/zh_Hans.md" >}}) | 185 | 185 | 100.0 | /mnt/stockage/packages/f15/xfce4-diskperf-plugin/po/zh_CN.po | 
- | [pa]({{< ref "/f15/language/pa.md" >}}) | 99 | 185 | 53.5 | /mnt/stockage/packages/f15/xfce4-diskperf-plugin/po/pa.po | 
+ | [ast](/f15/language/ast) | 185 | 185 | 100.0 | /mnt/stockage/packages/f15/xfce4-diskperf-plugin/po/ast.po | 
+ | [ca](/f15/language/ca) | 185 | 185 | 100.0 | /mnt/stockage/packages/f15/xfce4-diskperf-plugin/po/ca.po | 
+ | [cs](/f15/language/cs) | 185 | 185 | 100.0 | /mnt/stockage/packages/f15/xfce4-diskperf-plugin/po/cs.po | 
+ | [da](/f15/language/da) | 185 | 185 | 100.0 | /mnt/stockage/packages/f15/xfce4-diskperf-plugin/po/da.po | 
+ | [de](/f15/language/de) | 185 | 185 | 100.0 | /mnt/stockage/packages/f15/xfce4-diskperf-plugin/po/de.po | 
+ | [el](/f15/language/el) | 185 | 185 | 100.0 | /mnt/stockage/packages/f15/xfce4-diskperf-plugin/po/el.po | 
+ | [en_GB](/f15/language/en_GB) | 185 | 185 | 100.0 | /mnt/stockage/packages/f15/xfce4-diskperf-plugin/po/en_GB.po | 
+ | [es](/f15/language/es) | 185 | 185 | 100.0 | /mnt/stockage/packages/f15/xfce4-diskperf-plugin/po/es.po | 
+ | [eu](/f15/language/eu) | 185 | 185 | 100.0 | /mnt/stockage/packages/f15/xfce4-diskperf-plugin/po/eu.po | 
+ | [fr](/f15/language/fr) | 185 | 185 | 100.0 | /mnt/stockage/packages/f15/xfce4-diskperf-plugin/po/fr.po | 
+ | [gl](/f15/language/gl) | 185 | 185 | 100.0 | /mnt/stockage/packages/f15/xfce4-diskperf-plugin/po/gl.po | 
+ | [hu](/f15/language/hu) | 185 | 185 | 100.0 | /mnt/stockage/packages/f15/xfce4-diskperf-plugin/po/hu.po | 
+ | [id](/f15/language/id) | 185 | 185 | 100.0 | /mnt/stockage/packages/f15/xfce4-diskperf-plugin/po/id.po | 
+ | [it](/f15/language/it) | 185 | 185 | 100.0 | /mnt/stockage/packages/f15/xfce4-diskperf-plugin/po/it.po | 
+ | [ja](/f15/language/ja) | 185 | 185 | 100.0 | /mnt/stockage/packages/f15/xfce4-diskperf-plugin/po/ja.po | 
+ | [lv](/f15/language/lv) | 185 | 185 | 100.0 | /mnt/stockage/packages/f15/xfce4-diskperf-plugin/po/lv.po | 
+ | [nb_NO](/f15/language/nb_NO) | 185 | 185 | 100.0 | /mnt/stockage/packages/f15/xfce4-diskperf-plugin/po/nb.po | 
+ | [pl](/f15/language/pl) | 185 | 185 | 100.0 | /mnt/stockage/packages/f15/xfce4-diskperf-plugin/po/pl.po | 
+ | [pt](/f15/language/pt) | 185 | 185 | 100.0 | /mnt/stockage/packages/f15/xfce4-diskperf-plugin/po/pt.po | 
+ | [pt_BR](/f15/language/pt_BR) | 185 | 185 | 100.0 | /mnt/stockage/packages/f15/xfce4-diskperf-plugin/po/pt_BR.po | 
+ | [ru](/f15/language/ru) | 185 | 185 | 100.0 | /mnt/stockage/packages/f15/xfce4-diskperf-plugin/po/ru.po | 
+ | [sq](/f15/language/sq) | 185 | 185 | 100.0 | /mnt/stockage/packages/f15/xfce4-diskperf-plugin/po/sq.po | 
+ | [sv](/f15/language/sv) | 185 | 185 | 100.0 | /mnt/stockage/packages/f15/xfce4-diskperf-plugin/po/sv.po | 
+ | [tr](/f15/language/tr) | 185 | 185 | 100.0 | /mnt/stockage/packages/f15/xfce4-diskperf-plugin/po/tr.po | 
+ | [ug](/f15/language/ug) | 185 | 185 | 100.0 | /mnt/stockage/packages/f15/xfce4-diskperf-plugin/po/ug.po | 
+ | [uk](/f15/language/uk) | 181 | 181 | 100.0 | /mnt/stockage/packages/f15/xfce4-diskperf-plugin/po/uk.po | 
+ | [ur](/f15/language/ur) | 185 | 185 | 100.0 | /mnt/stockage/packages/f15/xfce4-diskperf-plugin/po/ur.po | 
+ | [ur_PK](/f15/language/ur_PK) | 185 | 185 | 100.0 | /mnt/stockage/packages/f15/xfce4-diskperf-plugin/po/ur_PK.po | 
+ | [zh_Hans](/f15/language/zh_Hans) | 185 | 185 | 100.0 | /mnt/stockage/packages/f15/xfce4-diskperf-plugin/po/zh_CN.po | 
+ | [pa](/f15/language/pa) | 99 | 185 | 53.5 | /mnt/stockage/packages/f15/xfce4-diskperf-plugin/po/pa.po | 
 {.sortable}
 
 

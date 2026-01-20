@@ -18,16 +18,16 @@ The package gnutls (version 2.8.6):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f14/language/cs.md" >}}) | 1061 | 1061 | 100.0 | /mnt/stockage/packages/f14/gnutls/lib/po/cs.po | 
- | [error]({{< ref "/f14/language/error.md" >}}) | 2122 | 2122 | 100.0 | /mnt/stockage/packages/f14/gnutls/lib/po/en@boldquot.po/mnt/stockage/packages/f14/gnutls/lib/po/en@quot.po | 
- | [fr]({{< ref "/f14/language/fr.md" >}}) | 1061 | 1061 | 100.0 | /mnt/stockage/packages/f14/gnutls/lib/po/fr.po | 
- | [pl]({{< ref "/f14/language/pl.md" >}}) | 1061 | 1061 | 100.0 | /mnt/stockage/packages/f14/gnutls/lib/po/pl.po | 
- | [sv]({{< ref "/f14/language/sv.md" >}}) | 1061 | 1061 | 100.0 | /mnt/stockage/packages/f14/gnutls/lib/po/sv.po | 
- | [vi]({{< ref "/f14/language/vi.md" >}}) | 1061 | 1061 | 100.0 | /mnt/stockage/packages/f14/gnutls/lib/po/vi.po | 
- | [nl]({{< ref "/f14/language/nl.md" >}}) | 1045 | 1061 | 98.5 | /mnt/stockage/packages/f14/gnutls/lib/po/nl.po | 
- | [zh_Hans]({{< ref "/f14/language/zh_Hans.md" >}}) | 876 | 1061 | 82.6 | /mnt/stockage/packages/f14/gnutls/lib/po/zh_CN.po | 
- | [ms]({{< ref "/f14/language/ms.md" >}}) | 852 | 1061 | 80.3 | /mnt/stockage/packages/f14/gnutls/lib/po/ms.po | 
- | [de]({{< ref "/f14/language/de.md" >}}) | 561 | 1061 | 52.9 | /mnt/stockage/packages/f14/gnutls/lib/po/de.po | 
+ | [cs](/f14/language/cs) | 1061 | 1061 | 100.0 | /mnt/stockage/packages/f14/gnutls/lib/po/cs.po | 
+ | [error](/f14/language/error) | 2122 | 2122 | 100.0 | /mnt/stockage/packages/f14/gnutls/lib/po/en@boldquot.po/mnt/stockage/packages/f14/gnutls/lib/po/en@quot.po | 
+ | [fr](/f14/language/fr) | 1061 | 1061 | 100.0 | /mnt/stockage/packages/f14/gnutls/lib/po/fr.po | 
+ | [pl](/f14/language/pl) | 1061 | 1061 | 100.0 | /mnt/stockage/packages/f14/gnutls/lib/po/pl.po | 
+ | [sv](/f14/language/sv) | 1061 | 1061 | 100.0 | /mnt/stockage/packages/f14/gnutls/lib/po/sv.po | 
+ | [vi](/f14/language/vi) | 1061 | 1061 | 100.0 | /mnt/stockage/packages/f14/gnutls/lib/po/vi.po | 
+ | [nl](/f14/language/nl) | 1045 | 1061 | 98.5 | /mnt/stockage/packages/f14/gnutls/lib/po/nl.po | 
+ | [zh_Hans](/f14/language/zh_Hans) | 876 | 1061 | 82.6 | /mnt/stockage/packages/f14/gnutls/lib/po/zh_CN.po | 
+ | [ms](/f14/language/ms) | 852 | 1061 | 80.3 | /mnt/stockage/packages/f14/gnutls/lib/po/ms.po | 
+ | [de](/f14/language/de) | 561 | 1061 | 52.9 | /mnt/stockage/packages/f14/gnutls/lib/po/de.po | 
 {.sortable}
 
 

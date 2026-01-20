@@ -18,37 +18,37 @@ The package deepin-qml-widgets (version 2.3.6):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [am]({{< ref "/f32/language/am.md" >}}) | 18 | 18 | 100.0 | /mnt/stockage/packages/f32/deepin-qml-widgets/locale/am.po | 
- | [ar]({{< ref "/f32/language/ar.md" >}}) | 18 | 18 | 100.0 | /mnt/stockage/packages/f32/deepin-qml-widgets/locale/ar.po | 
- | [bg]({{< ref "/f32/language/bg.md" >}}) | 18 | 18 | 100.0 | /mnt/stockage/packages/f32/deepin-qml-widgets/locale/bg.po | 
- | [cs]({{< ref "/f32/language/cs.md" >}}) | 18 | 18 | 100.0 | /mnt/stockage/packages/f32/deepin-qml-widgets/locale/cs.po | 
- | [da]({{< ref "/f32/language/da.md" >}}) | 18 | 18 | 100.0 | /mnt/stockage/packages/f32/deepin-qml-widgets/locale/da.po | 
- | [el]({{< ref "/f32/language/el.md" >}}) | 36 | 36 | 100.0 | /mnt/stockage/packages/f32/deepin-qml-widgets/locale/el_GR.po/mnt/stockage/packages/f32/deepin-qml-widgets/locale/el.po | 
- | [en_AU]({{< ref "/f32/language/en_AU.md" >}}) | 18 | 18 | 100.0 | /mnt/stockage/packages/f32/deepin-qml-widgets/locale/en_AU.po | 
- | [es]({{< ref "/f32/language/es.md" >}}) | 18 | 18 | 100.0 | /mnt/stockage/packages/f32/deepin-qml-widgets/locale/es.po | 
- | [es_AR]({{< ref "/f32/language/es_AR.md" >}}) | 18 | 18 | 100.0 | /mnt/stockage/packages/f32/deepin-qml-widgets/locale/es_AR.po | 
- | [fr]({{< ref "/f32/language/fr.md" >}}) | 18 | 18 | 100.0 | /mnt/stockage/packages/f32/deepin-qml-widgets/locale/fr.po | 
- | [gl]({{< ref "/f32/language/gl.md" >}}) | 36 | 36 | 100.0 | /mnt/stockage/packages/f32/deepin-qml-widgets/locale/gl_ES.po/mnt/stockage/packages/f32/deepin-qml-widgets/locale/gl.po | 
- | [he]({{< ref "/f32/language/he.md" >}}) | 18 | 18 | 100.0 | /mnt/stockage/packages/f32/deepin-qml-widgets/locale/he.po | 
- | [hi]({{< ref "/f32/language/hi.md" >}}) | 18 | 18 | 100.0 | /mnt/stockage/packages/f32/deepin-qml-widgets/locale/hi.po | 
- | [hr]({{< ref "/f32/language/hr.md" >}}) | 18 | 18 | 100.0 | /mnt/stockage/packages/f32/deepin-qml-widgets/locale/hr.po | 
- | [hu]({{< ref "/f32/language/hu.md" >}}) | 18 | 18 | 100.0 | /mnt/stockage/packages/f32/deepin-qml-widgets/locale/hu.po | 
- | [id]({{< ref "/f32/language/id.md" >}}) | 36 | 36 | 100.0 | /mnt/stockage/packages/f32/deepin-qml-widgets/locale/id_ID.po/mnt/stockage/packages/f32/deepin-qml-widgets/locale/id.po | 
- | [it]({{< ref "/f32/language/it.md" >}}) | 18 | 18 | 100.0 | /mnt/stockage/packages/f32/deepin-qml-widgets/locale/it.po | 
- | [nb_NO]({{< ref "/f32/language/nb_NO.md" >}}) | 18 | 18 | 100.0 | /mnt/stockage/packages/f32/deepin-qml-widgets/locale/nb.po | 
- | [nl]({{< ref "/f32/language/nl.md" >}}) | 18 | 18 | 100.0 | /mnt/stockage/packages/f32/deepin-qml-widgets/locale/nl.po | 
- | [pt]({{< ref "/f32/language/pt.md" >}}) | 18 | 18 | 100.0 | /mnt/stockage/packages/f32/deepin-qml-widgets/locale/pt.po | 
- | [pt_BR]({{< ref "/f32/language/pt_BR.md" >}}) | 18 | 18 | 100.0 | /mnt/stockage/packages/f32/deepin-qml-widgets/locale/pt_BR.po | 
- | [ro]({{< ref "/f32/language/ro.md" >}}) | 18 | 18 | 100.0 | /mnt/stockage/packages/f32/deepin-qml-widgets/locale/ro.po | 
- | [ru]({{< ref "/f32/language/ru.md" >}}) | 18 | 18 | 100.0 | /mnt/stockage/packages/f32/deepin-qml-widgets/locale/ru.po | 
- | [sk]({{< ref "/f32/language/sk.md" >}}) | 18 | 18 | 100.0 | /mnt/stockage/packages/f32/deepin-qml-widgets/locale/sk.po | 
- | [sv]({{< ref "/f32/language/sv.md" >}}) | 18 | 18 | 100.0 | /mnt/stockage/packages/f32/deepin-qml-widgets/locale/sv_SE.po | 
- | [tr]({{< ref "/f32/language/tr.md" >}}) | 18 | 18 | 100.0 | /mnt/stockage/packages/f32/deepin-qml-widgets/locale/tr.po | 
- | [zh_Hans]({{< ref "/f32/language/zh_Hans.md" >}}) | 18 | 18 | 100.0 | /mnt/stockage/packages/f32/deepin-qml-widgets/locale/zh_CN.po | 
- | [zh_Hant]({{< ref "/f32/language/zh_Hant.md" >}}) | 18 | 18 | 100.0 | /mnt/stockage/packages/f32/deepin-qml-widgets/locale/zh_TW.po | 
- | [de]({{< ref "/f32/language/de.md" >}}) | 35 | 36 | 97.2 | /mnt/stockage/packages/f32/deepin-qml-widgets/locale/de_DE.po/mnt/stockage/packages/f32/deepin-qml-widgets/locale/de.po | 
- | [pl]({{< ref "/f32/language/pl.md" >}}) | 35 | 36 | 97.2 | /mnt/stockage/packages/f32/deepin-qml-widgets/locale/pl_PL.po/mnt/stockage/packages/f32/deepin-qml-widgets/locale/pl.po | 
- | [ast]({{< ref "/f32/language/ast.md" >}}) | 16 | 18 | 88.9 | /mnt/stockage/packages/f32/deepin-qml-widgets/locale/ast.po | 
+ | [am](/f32/language/am) | 18 | 18 | 100.0 | /mnt/stockage/packages/f32/deepin-qml-widgets/locale/am.po | 
+ | [ar](/f32/language/ar) | 18 | 18 | 100.0 | /mnt/stockage/packages/f32/deepin-qml-widgets/locale/ar.po | 
+ | [bg](/f32/language/bg) | 18 | 18 | 100.0 | /mnt/stockage/packages/f32/deepin-qml-widgets/locale/bg.po | 
+ | [cs](/f32/language/cs) | 18 | 18 | 100.0 | /mnt/stockage/packages/f32/deepin-qml-widgets/locale/cs.po | 
+ | [da](/f32/language/da) | 18 | 18 | 100.0 | /mnt/stockage/packages/f32/deepin-qml-widgets/locale/da.po | 
+ | [el](/f32/language/el) | 36 | 36 | 100.0 | /mnt/stockage/packages/f32/deepin-qml-widgets/locale/el_GR.po/mnt/stockage/packages/f32/deepin-qml-widgets/locale/el.po | 
+ | [en_AU](/f32/language/en_AU) | 18 | 18 | 100.0 | /mnt/stockage/packages/f32/deepin-qml-widgets/locale/en_AU.po | 
+ | [es](/f32/language/es) | 18 | 18 | 100.0 | /mnt/stockage/packages/f32/deepin-qml-widgets/locale/es.po | 
+ | [es_AR](/f32/language/es_AR) | 18 | 18 | 100.0 | /mnt/stockage/packages/f32/deepin-qml-widgets/locale/es_AR.po | 
+ | [fr](/f32/language/fr) | 18 | 18 | 100.0 | /mnt/stockage/packages/f32/deepin-qml-widgets/locale/fr.po | 
+ | [gl](/f32/language/gl) | 36 | 36 | 100.0 | /mnt/stockage/packages/f32/deepin-qml-widgets/locale/gl_ES.po/mnt/stockage/packages/f32/deepin-qml-widgets/locale/gl.po | 
+ | [he](/f32/language/he) | 18 | 18 | 100.0 | /mnt/stockage/packages/f32/deepin-qml-widgets/locale/he.po | 
+ | [hi](/f32/language/hi) | 18 | 18 | 100.0 | /mnt/stockage/packages/f32/deepin-qml-widgets/locale/hi.po | 
+ | [hr](/f32/language/hr) | 18 | 18 | 100.0 | /mnt/stockage/packages/f32/deepin-qml-widgets/locale/hr.po | 
+ | [hu](/f32/language/hu) | 18 | 18 | 100.0 | /mnt/stockage/packages/f32/deepin-qml-widgets/locale/hu.po | 
+ | [id](/f32/language/id) | 36 | 36 | 100.0 | /mnt/stockage/packages/f32/deepin-qml-widgets/locale/id_ID.po/mnt/stockage/packages/f32/deepin-qml-widgets/locale/id.po | 
+ | [it](/f32/language/it) | 18 | 18 | 100.0 | /mnt/stockage/packages/f32/deepin-qml-widgets/locale/it.po | 
+ | [nb_NO](/f32/language/nb_NO) | 18 | 18 | 100.0 | /mnt/stockage/packages/f32/deepin-qml-widgets/locale/nb.po | 
+ | [nl](/f32/language/nl) | 18 | 18 | 100.0 | /mnt/stockage/packages/f32/deepin-qml-widgets/locale/nl.po | 
+ | [pt](/f32/language/pt) | 18 | 18 | 100.0 | /mnt/stockage/packages/f32/deepin-qml-widgets/locale/pt.po | 
+ | [pt_BR](/f32/language/pt_BR) | 18 | 18 | 100.0 | /mnt/stockage/packages/f32/deepin-qml-widgets/locale/pt_BR.po | 
+ | [ro](/f32/language/ro) | 18 | 18 | 100.0 | /mnt/stockage/packages/f32/deepin-qml-widgets/locale/ro.po | 
+ | [ru](/f32/language/ru) | 18 | 18 | 100.0 | /mnt/stockage/packages/f32/deepin-qml-widgets/locale/ru.po | 
+ | [sk](/f32/language/sk) | 18 | 18 | 100.0 | /mnt/stockage/packages/f32/deepin-qml-widgets/locale/sk.po | 
+ | [sv](/f32/language/sv) | 18 | 18 | 100.0 | /mnt/stockage/packages/f32/deepin-qml-widgets/locale/sv_SE.po | 
+ | [tr](/f32/language/tr) | 18 | 18 | 100.0 | /mnt/stockage/packages/f32/deepin-qml-widgets/locale/tr.po | 
+ | [zh_Hans](/f32/language/zh_Hans) | 18 | 18 | 100.0 | /mnt/stockage/packages/f32/deepin-qml-widgets/locale/zh_CN.po | 
+ | [zh_Hant](/f32/language/zh_Hant) | 18 | 18 | 100.0 | /mnt/stockage/packages/f32/deepin-qml-widgets/locale/zh_TW.po | 
+ | [de](/f32/language/de) | 35 | 36 | 97.2 | /mnt/stockage/packages/f32/deepin-qml-widgets/locale/de_DE.po/mnt/stockage/packages/f32/deepin-qml-widgets/locale/de.po | 
+ | [pl](/f32/language/pl) | 35 | 36 | 97.2 | /mnt/stockage/packages/f32/deepin-qml-widgets/locale/pl_PL.po/mnt/stockage/packages/f32/deepin-qml-widgets/locale/pl.po | 
+ | [ast](/f32/language/ast) | 16 | 18 | 88.9 | /mnt/stockage/packages/f32/deepin-qml-widgets/locale/ast.po | 
 {.sortable}
 
 

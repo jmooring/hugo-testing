@@ -38,13 +38,13 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [squirrelmail]({{< ref "/f16/package/squirrelmail.md" >}}) | 18710 | 18710 | 100.0 | Bengali <ankur-bd-l10n@googlegroups.com> | 
- | [firstboot]({{< ref "/f16/package/firstboot.md" >}}) | 0 | 596 | 0.0 | LANGUAGE <LL@li.org> | 
- | [im-chooser]({{< ref "/f16/package/im-chooser.md" >}}) | 0 | 226 | 0.0 | LANGUAGE <LL@li.org> | 
- | [imsettings]({{< ref "/f16/package/imsettings.md" >}}) | 0 | 404 | 0.0 | LANGUAGE <LL@li.org> | 
- | [pykickstart]({{< ref "/f16/package/pykickstart.md" >}}) | 0 | 342 | 0.0 | LANGUAGE <LL@li.org> | 
- | [system-config-date]({{< ref "/f16/package/system-config-date.md" >}}) | 0 | 503 | 0.0 | LANGUAGE <LL@li.org> | 
- | [system-config-users]({{< ref "/f16/package/system-config-users.md" >}}) | 0 | 1452 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [squirrelmail](/f16/package/squirrelmail) | 18710 | 18710 | 100.0 | Bengali <ankur-bd-l10n@googlegroups.com> | 
+ | [firstboot](/f16/package/firstboot) | 0 | 596 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [im-chooser](/f16/package/im-chooser) | 0 | 226 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [imsettings](/f16/package/imsettings) | 0 | 404 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [pykickstart](/f16/package/pykickstart) | 0 | 342 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [system-config-date](/f16/package/system-config-date) | 0 | 503 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [system-config-users](/f16/package/system-config-users) | 0 | 1452 | 0.0 | LANGUAGE <LL@li.org> | 
 {.sortable}
 
 

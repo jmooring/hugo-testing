@@ -38,11 +38,11 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [tuxpaint]({{< ref "/f24/package/tuxpaint.md" >}}) | 1557 | 1591 | 97.9 | LANGUAGE <harveyginter@gmail.com> | 
- | [openerp]({{< ref "/f24/package/openerp.md" >}}) | 2 | 633 | 0.3 | Inuktitut <iu@li.org> | 
- | [deluge]({{< ref "/f24/package/deluge.md" >}}) | 0 | 2644 | 0.0 | Inuktitut <iu@li.org> | 
- | [gnome-do]({{< ref "/f24/package/gnome-do.md" >}}) | 0 | 612 | 0.0 | Inuktitut <iu@li.org> | 
- | [openerp-client]({{< ref "/f24/package/openerp-client.md" >}}) | 0 | 7729 | 0.0 | Inuktitut <iu@li.org> | 
+ | [tuxpaint](/f24/package/tuxpaint) | 1557 | 1591 | 97.9 | LANGUAGE <harveyginter@gmail.com> | 
+ | [openerp](/f24/package/openerp) | 2 | 633 | 0.3 | Inuktitut <iu@li.org> | 
+ | [deluge](/f24/package/deluge) | 0 | 2644 | 0.0 | Inuktitut <iu@li.org> | 
+ | [gnome-do](/f24/package/gnome-do) | 0 | 612 | 0.0 | Inuktitut <iu@li.org> | 
+ | [openerp-client](/f24/package/openerp-client) | 0 | 7729 | 0.0 | Inuktitut <iu@li.org> | 
 {.sortable}
 
 

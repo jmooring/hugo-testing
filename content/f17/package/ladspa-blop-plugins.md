@@ -18,8 +18,8 @@ The package ladspa-blop-plugins (version 0.2.8):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f17/language/de.md" >}}) | 88 | 377 | 23.3 | /mnt/stockage/packages/f17/ladspa-blop-plugins/po/de.po | 
- | [en_GB]({{< ref "/f17/language/en_GB.md" >}}) | 0 | 377 | 0.0 | /mnt/stockage/packages/f17/ladspa-blop-plugins/po/en_GB.po | 
+ | [de](/f17/language/de) | 88 | 377 | 23.3 | /mnt/stockage/packages/f17/ladspa-blop-plugins/po/de.po | 
+ | [en_GB](/f17/language/en_GB) | 0 | 377 | 0.0 | /mnt/stockage/packages/f17/ladspa-blop-plugins/po/en_GB.po | 
 {.sortable}
 
 

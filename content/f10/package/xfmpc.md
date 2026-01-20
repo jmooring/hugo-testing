@@ -18,18 +18,18 @@ The package xfmpc (version 0.0.7):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [da]({{< ref "/f10/language/da.md" >}}) | 31 | 31 | 100.0 | /mnt/stockage/packages/f10/xfmpc/po/da.po | 
- | [en_GB]({{< ref "/f10/language/en_GB.md" >}}) | 31 | 31 | 100.0 | /mnt/stockage/packages/f10/xfmpc/po/en_GB.po | 
- | [fi]({{< ref "/f10/language/fi.md" >}}) | 31 | 31 | 100.0 | /mnt/stockage/packages/f10/xfmpc/po/fi.po | 
- | [id]({{< ref "/f10/language/id.md" >}}) | 31 | 31 | 100.0 | /mnt/stockage/packages/f10/xfmpc/po/id.po | 
- | [pt_BR]({{< ref "/f10/language/pt_BR.md" >}}) | 31 | 31 | 100.0 | /mnt/stockage/packages/f10/xfmpc/po/pt_BR.po | 
- | [uk]({{< ref "/f10/language/uk.md" >}}) | 31 | 31 | 100.0 | /mnt/stockage/packages/f10/xfmpc/po/uk.po | 
- | [nl]({{< ref "/f10/language/nl.md" >}}) | 30 | 31 | 96.8 | /mnt/stockage/packages/f10/xfmpc/po/nl.po | 
- | [fr]({{< ref "/f10/language/fr.md" >}}) | 29 | 31 | 93.5 | /mnt/stockage/packages/f10/xfmpc/po/fr.po | 
- | [de]({{< ref "/f10/language/de.md" >}}) | 27 | 31 | 87.1 | /mnt/stockage/packages/f10/xfmpc/po/de.po | 
- | [ja]({{< ref "/f10/language/ja.md" >}}) | 27 | 31 | 87.1 | /mnt/stockage/packages/f10/xfmpc/po/ja.po | 
- | [gl]({{< ref "/f10/language/gl.md" >}}) | 4 | 31 | 12.9 | /mnt/stockage/packages/f10/xfmpc/po/gl.po | 
- | [ar]({{< ref "/f10/language/ar.md" >}}) | 0 | 31 | 0.0 | /mnt/stockage/packages/f10/xfmpc/po/ar.po | 
+ | [da](/f10/language/da) | 31 | 31 | 100.0 | /mnt/stockage/packages/f10/xfmpc/po/da.po | 
+ | [en_GB](/f10/language/en_GB) | 31 | 31 | 100.0 | /mnt/stockage/packages/f10/xfmpc/po/en_GB.po | 
+ | [fi](/f10/language/fi) | 31 | 31 | 100.0 | /mnt/stockage/packages/f10/xfmpc/po/fi.po | 
+ | [id](/f10/language/id) | 31 | 31 | 100.0 | /mnt/stockage/packages/f10/xfmpc/po/id.po | 
+ | [pt_BR](/f10/language/pt_BR) | 31 | 31 | 100.0 | /mnt/stockage/packages/f10/xfmpc/po/pt_BR.po | 
+ | [uk](/f10/language/uk) | 31 | 31 | 100.0 | /mnt/stockage/packages/f10/xfmpc/po/uk.po | 
+ | [nl](/f10/language/nl) | 30 | 31 | 96.8 | /mnt/stockage/packages/f10/xfmpc/po/nl.po | 
+ | [fr](/f10/language/fr) | 29 | 31 | 93.5 | /mnt/stockage/packages/f10/xfmpc/po/fr.po | 
+ | [de](/f10/language/de) | 27 | 31 | 87.1 | /mnt/stockage/packages/f10/xfmpc/po/de.po | 
+ | [ja](/f10/language/ja) | 27 | 31 | 87.1 | /mnt/stockage/packages/f10/xfmpc/po/ja.po | 
+ | [gl](/f10/language/gl) | 4 | 31 | 12.9 | /mnt/stockage/packages/f10/xfmpc/po/gl.po | 
+ | [ar](/f10/language/ar) | 0 | 31 | 0.0 | /mnt/stockage/packages/f10/xfmpc/po/ar.po | 
 {.sortable}
 
 

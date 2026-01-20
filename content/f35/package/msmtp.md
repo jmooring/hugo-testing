@@ -18,13 +18,13 @@ The package msmtp (version 1.8.21):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [eo]({{< ref "/f35/language/eo.md" >}}) | 1820 | 1825 | 99.7 | /mnt/stockage/packages/f35/msmtp/po/eo.po | 
- | [fr]({{< ref "/f35/language/fr.md" >}}) | 1820 | 1825 | 99.7 | /mnt/stockage/packages/f35/msmtp/po/fr.po | 
- | [sr]({{< ref "/f35/language/sr.md" >}}) | 1820 | 1825 | 99.7 | /mnt/stockage/packages/f35/msmtp/po/sr.po | 
- | [uk]({{< ref "/f35/language/uk.md" >}}) | 1820 | 1825 | 99.7 | /mnt/stockage/packages/f35/msmtp/po/uk.po | 
- | [pt_BR]({{< ref "/f35/language/pt_BR.md" >}}) | 1752 | 1825 | 96.0 | /mnt/stockage/packages/f35/msmtp/po/pt_BR.po | 
- | [de]({{< ref "/f35/language/de.md" >}}) | 1747 | 1825 | 95.7 | /mnt/stockage/packages/f35/msmtp/po/de.po | 
- | [ta]({{< ref "/f35/language/ta.md" >}}) | 398 | 1825 | 21.8 | /mnt/stockage/packages/f35/msmtp/po/ta.po | 
+ | [eo](/f35/language/eo) | 1820 | 1825 | 99.7 | /mnt/stockage/packages/f35/msmtp/po/eo.po | 
+ | [fr](/f35/language/fr) | 1820 | 1825 | 99.7 | /mnt/stockage/packages/f35/msmtp/po/fr.po | 
+ | [sr](/f35/language/sr) | 1820 | 1825 | 99.7 | /mnt/stockage/packages/f35/msmtp/po/sr.po | 
+ | [uk](/f35/language/uk) | 1820 | 1825 | 99.7 | /mnt/stockage/packages/f35/msmtp/po/uk.po | 
+ | [pt_BR](/f35/language/pt_BR) | 1752 | 1825 | 96.0 | /mnt/stockage/packages/f35/msmtp/po/pt_BR.po | 
+ | [de](/f35/language/de) | 1747 | 1825 | 95.7 | /mnt/stockage/packages/f35/msmtp/po/de.po | 
+ | [ta](/f35/language/ta) | 398 | 1825 | 21.8 | /mnt/stockage/packages/f35/msmtp/po/ta.po | 
 {.sortable}
 
 

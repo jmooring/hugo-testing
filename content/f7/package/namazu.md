@@ -18,12 +18,12 @@ The package namazu (version 2.0.18):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [error]({{< ref "/f7/language/error.md" >}}) | 1052 | 1052 | 100.0 | /mnt/stockage/packages/f7/namazu/po/ja_JP.SJIS.po | 
- | [ja]({{< ref "/f7/language/ja.md" >}}) | 1052 | 1052 | 100.0 | /mnt/stockage/packages/f7/namazu/po/ja.po | 
- | [fr]({{< ref "/f7/language/fr.md" >}}) | 1044 | 1052 | 99.2 | /mnt/stockage/packages/f7/namazu/po/fr.po | 
- | [es]({{< ref "/f7/language/es.md" >}}) | 983 | 1052 | 93.4 | /mnt/stockage/packages/f7/namazu/po/es.po | 
- | [de]({{< ref "/f7/language/de.md" >}}) | 1 | 1052 | 0.1 | /mnt/stockage/packages/f7/namazu/po/de.po | 
- | [pl]({{< ref "/f7/language/pl.md" >}}) | 1 | 1052 | 0.1 | /mnt/stockage/packages/f7/namazu/po/pl.po | 
+ | [error](/f7/language/error) | 1052 | 1052 | 100.0 | /mnt/stockage/packages/f7/namazu/po/ja_JP.SJIS.po | 
+ | [ja](/f7/language/ja) | 1052 | 1052 | 100.0 | /mnt/stockage/packages/f7/namazu/po/ja.po | 
+ | [fr](/f7/language/fr) | 1044 | 1052 | 99.2 | /mnt/stockage/packages/f7/namazu/po/fr.po | 
+ | [es](/f7/language/es) | 983 | 1052 | 93.4 | /mnt/stockage/packages/f7/namazu/po/es.po | 
+ | [de](/f7/language/de) | 1 | 1052 | 0.1 | /mnt/stockage/packages/f7/namazu/po/de.po | 
+ | [pl](/f7/language/pl) | 1 | 1052 | 0.1 | /mnt/stockage/packages/f7/namazu/po/pl.po | 
 {.sortable}
 
 

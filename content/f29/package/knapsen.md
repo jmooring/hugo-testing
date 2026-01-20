@@ -18,7 +18,7 @@ The package knapsen (version 1.0.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [hu]({{< ref "/f29/language/hu.md" >}}) | 134 | 139 | 96.4 | /mnt/stockage/packages/f29/knapsen/po/hu.po | 
+ | [hu](/f29/language/hu) | 134 | 139 | 96.4 | /mnt/stockage/packages/f29/knapsen/po/hu.po | 
 {.sortable}
 
 

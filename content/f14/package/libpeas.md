@@ -18,21 +18,21 @@ The package libpeas (version 0.5.5):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f14/language/cs.md" >}}) | 3 | 3 | 100.0 | /mnt/stockage/packages/f14/libpeas/po/cs.po | 
- | [da]({{< ref "/f14/language/da.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f14/libpeas/po/da.po | 
- | [de]({{< ref "/f14/language/de.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f14/libpeas/po/de.po | 
- | [es]({{< ref "/f14/language/es.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f14/libpeas/po/es.po | 
- | [fr]({{< ref "/f14/language/fr.md" >}}) | 3 | 3 | 100.0 | /mnt/stockage/packages/f14/libpeas/po/fr.po | 
- | [gl]({{< ref "/f14/language/gl.md" >}}) | 11 | 11 | 100.0 | /mnt/stockage/packages/f14/libpeas/po/gl.po | 
- | [hu]({{< ref "/f14/language/hu.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f14/libpeas/po/hu.po | 
- | [nb_NO]({{< ref "/f14/language/nb_NO.md" >}}) | 11 | 11 | 100.0 | /mnt/stockage/packages/f14/libpeas/po/nb.po | 
- | [nds]({{< ref "/f14/language/nds.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f14/libpeas/po/nds.po | 
- | [pl]({{< ref "/f14/language/pl.md" >}}) | 11 | 11 | 100.0 | /mnt/stockage/packages/f14/libpeas/po/pl.po | 
- | [pt]({{< ref "/f14/language/pt.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f14/libpeas/po/pt.po | 
- | [pt_BR]({{< ref "/f14/language/pt_BR.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f14/libpeas/po/pt_BR.po | 
- | [sl]({{< ref "/f14/language/sl.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f14/libpeas/po/sl.po | 
- | [sv]({{< ref "/f14/language/sv.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f14/libpeas/po/sv.po | 
- | [zh_Hans]({{< ref "/f14/language/zh_Hans.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f14/libpeas/po/zh_CN.po | 
+ | [cs](/f14/language/cs) | 3 | 3 | 100.0 | /mnt/stockage/packages/f14/libpeas/po/cs.po | 
+ | [da](/f14/language/da) | 24 | 24 | 100.0 | /mnt/stockage/packages/f14/libpeas/po/da.po | 
+ | [de](/f14/language/de) | 24 | 24 | 100.0 | /mnt/stockage/packages/f14/libpeas/po/de.po | 
+ | [es](/f14/language/es) | 24 | 24 | 100.0 | /mnt/stockage/packages/f14/libpeas/po/es.po | 
+ | [fr](/f14/language/fr) | 3 | 3 | 100.0 | /mnt/stockage/packages/f14/libpeas/po/fr.po | 
+ | [gl](/f14/language/gl) | 11 | 11 | 100.0 | /mnt/stockage/packages/f14/libpeas/po/gl.po | 
+ | [hu](/f14/language/hu) | 24 | 24 | 100.0 | /mnt/stockage/packages/f14/libpeas/po/hu.po | 
+ | [nb_NO](/f14/language/nb_NO) | 11 | 11 | 100.0 | /mnt/stockage/packages/f14/libpeas/po/nb.po | 
+ | [nds](/f14/language/nds) | 24 | 24 | 100.0 | /mnt/stockage/packages/f14/libpeas/po/nds.po | 
+ | [pl](/f14/language/pl) | 11 | 11 | 100.0 | /mnt/stockage/packages/f14/libpeas/po/pl.po | 
+ | [pt](/f14/language/pt) | 24 | 24 | 100.0 | /mnt/stockage/packages/f14/libpeas/po/pt.po | 
+ | [pt_BR](/f14/language/pt_BR) | 24 | 24 | 100.0 | /mnt/stockage/packages/f14/libpeas/po/pt_BR.po | 
+ | [sl](/f14/language/sl) | 24 | 24 | 100.0 | /mnt/stockage/packages/f14/libpeas/po/sl.po | 
+ | [sv](/f14/language/sv) | 24 | 24 | 100.0 | /mnt/stockage/packages/f14/libpeas/po/sv.po | 
+ | [zh_Hans](/f14/language/zh_Hans) | 24 | 24 | 100.0 | /mnt/stockage/packages/f14/libpeas/po/zh_CN.po | 
 {.sortable}
 
 

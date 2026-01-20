@@ -18,20 +18,20 @@ The package kio_mtp (version 0.75):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f31/language/ca.md" >}}) | 17 | 17 | 100.0 | /mnt/stockage/packages/f31/kio_mtp/po/ca/kio_mtp.po | 
- | [de]({{< ref "/f31/language/de.md" >}}) | 17 | 17 | 100.0 | /mnt/stockage/packages/f31/kio_mtp/po/de/kio_mtp.po | 
- | [es]({{< ref "/f31/language/es.md" >}}) | 17 | 17 | 100.0 | /mnt/stockage/packages/f31/kio_mtp/po/es/kio_mtp.po | 
- | [fi]({{< ref "/f31/language/fi.md" >}}) | 17 | 17 | 100.0 | /mnt/stockage/packages/f31/kio_mtp/po/fi/kio_mtp.po | 
- | [hu]({{< ref "/f31/language/hu.md" >}}) | 17 | 17 | 100.0 | /mnt/stockage/packages/f31/kio_mtp/po/hu/kio_mtp.po | 
- | [it]({{< ref "/f31/language/it.md" >}}) | 17 | 17 | 100.0 | /mnt/stockage/packages/f31/kio_mtp/po/it/kio_mtp.po | 
- | [ko]({{< ref "/f31/language/ko.md" >}}) | 17 | 17 | 100.0 | /mnt/stockage/packages/f31/kio_mtp/po/ko/kio_mtp.po | 
- | [nl]({{< ref "/f31/language/nl.md" >}}) | 17 | 17 | 100.0 | /mnt/stockage/packages/f31/kio_mtp/po/nl/kio_mtp.po | 
- | [pl]({{< ref "/f31/language/pl.md" >}}) | 17 | 17 | 100.0 | /mnt/stockage/packages/f31/kio_mtp/po/pl/kio_mtp.po | 
- | [pt]({{< ref "/f31/language/pt.md" >}}) | 17 | 17 | 100.0 | /mnt/stockage/packages/f31/kio_mtp/po/pt/kio_mtp.po | 
- | [pt_BR]({{< ref "/f31/language/pt_BR.md" >}}) | 17 | 17 | 100.0 | /mnt/stockage/packages/f31/kio_mtp/po/pt_BR/kio_mtp.po | 
- | [sk]({{< ref "/f31/language/sk.md" >}}) | 17 | 17 | 100.0 | /mnt/stockage/packages/f31/kio_mtp/po/sk/kio_mtp.po | 
- | [sv]({{< ref "/f31/language/sv.md" >}}) | 17 | 17 | 100.0 | /mnt/stockage/packages/f31/kio_mtp/po/sv/kio_mtp.po | 
- | [uk]({{< ref "/f31/language/uk.md" >}}) | 17 | 17 | 100.0 | /mnt/stockage/packages/f31/kio_mtp/po/uk/kio_mtp.po | 
+ | [ca](/f31/language/ca) | 17 | 17 | 100.0 | /mnt/stockage/packages/f31/kio_mtp/po/ca/kio_mtp.po | 
+ | [de](/f31/language/de) | 17 | 17 | 100.0 | /mnt/stockage/packages/f31/kio_mtp/po/de/kio_mtp.po | 
+ | [es](/f31/language/es) | 17 | 17 | 100.0 | /mnt/stockage/packages/f31/kio_mtp/po/es/kio_mtp.po | 
+ | [fi](/f31/language/fi) | 17 | 17 | 100.0 | /mnt/stockage/packages/f31/kio_mtp/po/fi/kio_mtp.po | 
+ | [hu](/f31/language/hu) | 17 | 17 | 100.0 | /mnt/stockage/packages/f31/kio_mtp/po/hu/kio_mtp.po | 
+ | [it](/f31/language/it) | 17 | 17 | 100.0 | /mnt/stockage/packages/f31/kio_mtp/po/it/kio_mtp.po | 
+ | [ko](/f31/language/ko) | 17 | 17 | 100.0 | /mnt/stockage/packages/f31/kio_mtp/po/ko/kio_mtp.po | 
+ | [nl](/f31/language/nl) | 17 | 17 | 100.0 | /mnt/stockage/packages/f31/kio_mtp/po/nl/kio_mtp.po | 
+ | [pl](/f31/language/pl) | 17 | 17 | 100.0 | /mnt/stockage/packages/f31/kio_mtp/po/pl/kio_mtp.po | 
+ | [pt](/f31/language/pt) | 17 | 17 | 100.0 | /mnt/stockage/packages/f31/kio_mtp/po/pt/kio_mtp.po | 
+ | [pt_BR](/f31/language/pt_BR) | 17 | 17 | 100.0 | /mnt/stockage/packages/f31/kio_mtp/po/pt_BR/kio_mtp.po | 
+ | [sk](/f31/language/sk) | 17 | 17 | 100.0 | /mnt/stockage/packages/f31/kio_mtp/po/sk/kio_mtp.po | 
+ | [sv](/f31/language/sv) | 17 | 17 | 100.0 | /mnt/stockage/packages/f31/kio_mtp/po/sv/kio_mtp.po | 
+ | [uk](/f31/language/uk) | 17 | 17 | 100.0 | /mnt/stockage/packages/f31/kio_mtp/po/uk/kio_mtp.po | 
 {.sortable}
 
 

@@ -18,15 +18,15 @@ The package trac-accountmanager-plugin (version 0.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f19/language/de.md" >}}) | 1119 | 1119 | 100.0 | /mnt/stockage/packages/f19/trac-accountmanager-plugin/acct_mgr/locale/de/LC_MESSAGES/acct_mgr.po | 
- | [ja]({{< ref "/f19/language/ja.md" >}}) | 1009 | 1009 | 100.0 | /mnt/stockage/packages/f19/trac-accountmanager-plugin/acct_mgr/locale/ja/LC_MESSAGES/acct_mgr.po | 
- | [sv]({{< ref "/f19/language/sv.md" >}}) | 1009 | 1009 | 100.0 | /mnt/stockage/packages/f19/trac-accountmanager-plugin/acct_mgr/locale/sv/LC_MESSAGES/acct_mgr.po | 
- | [ru]({{< ref "/f19/language/ru.md" >}}) | 990 | 1009 | 98.1 | /mnt/stockage/packages/f19/trac-accountmanager-plugin/acct_mgr/locale/ru/LC_MESSAGES/acct_mgr.po | 
- | [it]({{< ref "/f19/language/it.md" >}}) | 810 | 1009 | 80.3 | /mnt/stockage/packages/f19/trac-accountmanager-plugin/acct_mgr/locale/it/LC_MESSAGES/acct_mgr.po | 
- | [cs]({{< ref "/f19/language/cs.md" >}}) | 623 | 1009 | 61.7 | /mnt/stockage/packages/f19/trac-accountmanager-plugin/acct_mgr/locale/cs/LC_MESSAGES/acct_mgr.po | 
- | [es]({{< ref "/f19/language/es.md" >}}) | 601 | 1009 | 59.6 | /mnt/stockage/packages/f19/trac-accountmanager-plugin/acct_mgr/locale/es/LC_MESSAGES/acct_mgr.po | 
- | [nl]({{< ref "/f19/language/nl.md" >}}) | 601 | 1009 | 59.6 | /mnt/stockage/packages/f19/trac-accountmanager-plugin/acct_mgr/locale/nl/LC_MESSAGES/acct_mgr.po | 
- | [fr]({{< ref "/f19/language/fr.md" >}}) | 326 | 1009 | 32.3 | /mnt/stockage/packages/f19/trac-accountmanager-plugin/acct_mgr/locale/fr/LC_MESSAGES/acct_mgr.po | 
+ | [de](/f19/language/de) | 1119 | 1119 | 100.0 | /mnt/stockage/packages/f19/trac-accountmanager-plugin/acct_mgr/locale/de/LC_MESSAGES/acct_mgr.po | 
+ | [ja](/f19/language/ja) | 1009 | 1009 | 100.0 | /mnt/stockage/packages/f19/trac-accountmanager-plugin/acct_mgr/locale/ja/LC_MESSAGES/acct_mgr.po | 
+ | [sv](/f19/language/sv) | 1009 | 1009 | 100.0 | /mnt/stockage/packages/f19/trac-accountmanager-plugin/acct_mgr/locale/sv/LC_MESSAGES/acct_mgr.po | 
+ | [ru](/f19/language/ru) | 990 | 1009 | 98.1 | /mnt/stockage/packages/f19/trac-accountmanager-plugin/acct_mgr/locale/ru/LC_MESSAGES/acct_mgr.po | 
+ | [it](/f19/language/it) | 810 | 1009 | 80.3 | /mnt/stockage/packages/f19/trac-accountmanager-plugin/acct_mgr/locale/it/LC_MESSAGES/acct_mgr.po | 
+ | [cs](/f19/language/cs) | 623 | 1009 | 61.7 | /mnt/stockage/packages/f19/trac-accountmanager-plugin/acct_mgr/locale/cs/LC_MESSAGES/acct_mgr.po | 
+ | [es](/f19/language/es) | 601 | 1009 | 59.6 | /mnt/stockage/packages/f19/trac-accountmanager-plugin/acct_mgr/locale/es/LC_MESSAGES/acct_mgr.po | 
+ | [nl](/f19/language/nl) | 601 | 1009 | 59.6 | /mnt/stockage/packages/f19/trac-accountmanager-plugin/acct_mgr/locale/nl/LC_MESSAGES/acct_mgr.po | 
+ | [fr](/f19/language/fr) | 326 | 1009 | 32.3 | /mnt/stockage/packages/f19/trac-accountmanager-plugin/acct_mgr/locale/fr/LC_MESSAGES/acct_mgr.po | 
 {.sortable}
 
 

@@ -18,24 +18,24 @@ The package revelation (version 0.5.5):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [eu]({{< ref "/f40/language/eu.md" >}}) | 1751 | 2427 | 72.1 | /mnt/stockage/packages/f40/revelation/po/eu.po | 
- | [es]({{< ref "/f40/language/es.md" >}}) | 1713 | 2427 | 70.6 | /mnt/stockage/packages/f40/revelation/po/es.po | 
- | [nl]({{< ref "/f40/language/nl.md" >}}) | 1632 | 2427 | 67.2 | /mnt/stockage/packages/f40/revelation/po/nl.po | 
- | [ca]({{< ref "/f40/language/ca.md" >}}) | 1522 | 2427 | 62.7 | /mnt/stockage/packages/f40/revelation/po/ca.po | 
- | [fr]({{< ref "/f40/language/fr.md" >}}) | 1522 | 2427 | 62.7 | /mnt/stockage/packages/f40/revelation/po/fr.po | 
- | [pt_BR]({{< ref "/f40/language/pt_BR.md" >}}) | 1522 | 2427 | 62.7 | /mnt/stockage/packages/f40/revelation/po/pt_BR.po | 
- | [zh_Hans]({{< ref "/f40/language/zh_Hans.md" >}}) | 1522 | 2427 | 62.7 | /mnt/stockage/packages/f40/revelation/po/zh.po | 
- | [ru]({{< ref "/f40/language/ru.md" >}}) | 1520 | 2427 | 62.6 | /mnt/stockage/packages/f40/revelation/po/ru.po | 
- | [de]({{< ref "/f40/language/de.md" >}}) | 1480 | 2427 | 61.0 | /mnt/stockage/packages/f40/revelation/po/de.po | 
- | [pl]({{< ref "/f40/language/pl.md" >}}) | 1480 | 2427 | 61.0 | /mnt/stockage/packages/f40/revelation/po/pl.po | 
- | [uk]({{< ref "/f40/language/uk.md" >}}) | 1411 | 2427 | 58.1 | /mnt/stockage/packages/f40/revelation/po/uk.po | 
- | [sv]({{< ref "/f40/language/sv.md" >}}) | 1409 | 2427 | 58.1 | /mnt/stockage/packages/f40/revelation/po/sv.po | 
- | [cs]({{< ref "/f40/language/cs.md" >}}) | 971 | 2427 | 40.0 | /mnt/stockage/packages/f40/revelation/po/cs.po | 
- | [lt]({{< ref "/f40/language/lt.md" >}}) | 759 | 2427 | 31.3 | /mnt/stockage/packages/f40/revelation/po/lt.po | 
- | [fi]({{< ref "/f40/language/fi.md" >}}) | 747 | 2427 | 30.8 | /mnt/stockage/packages/f40/revelation/po/fi.po | 
- | [et]({{< ref "/f40/language/et.md" >}}) | 500 | 2427 | 20.6 | /mnt/stockage/packages/f40/revelation/po/et.po | 
- | [it]({{< ref "/f40/language/it.md" >}}) | 349 | 2427 | 14.4 | /mnt/stockage/packages/f40/revelation/po/it_IT.po | 
- | [sr]({{< ref "/f40/language/sr.md" >}}) | 77 | 2427 | 3.2 | /mnt/stockage/packages/f40/revelation/po/sr_RS.po | 
+ | [eu](/f40/language/eu) | 1751 | 2427 | 72.1 | /mnt/stockage/packages/f40/revelation/po/eu.po | 
+ | [es](/f40/language/es) | 1713 | 2427 | 70.6 | /mnt/stockage/packages/f40/revelation/po/es.po | 
+ | [nl](/f40/language/nl) | 1632 | 2427 | 67.2 | /mnt/stockage/packages/f40/revelation/po/nl.po | 
+ | [ca](/f40/language/ca) | 1522 | 2427 | 62.7 | /mnt/stockage/packages/f40/revelation/po/ca.po | 
+ | [fr](/f40/language/fr) | 1522 | 2427 | 62.7 | /mnt/stockage/packages/f40/revelation/po/fr.po | 
+ | [pt_BR](/f40/language/pt_BR) | 1522 | 2427 | 62.7 | /mnt/stockage/packages/f40/revelation/po/pt_BR.po | 
+ | [zh_Hans](/f40/language/zh_Hans) | 1522 | 2427 | 62.7 | /mnt/stockage/packages/f40/revelation/po/zh.po | 
+ | [ru](/f40/language/ru) | 1520 | 2427 | 62.6 | /mnt/stockage/packages/f40/revelation/po/ru.po | 
+ | [de](/f40/language/de) | 1480 | 2427 | 61.0 | /mnt/stockage/packages/f40/revelation/po/de.po | 
+ | [pl](/f40/language/pl) | 1480 | 2427 | 61.0 | /mnt/stockage/packages/f40/revelation/po/pl.po | 
+ | [uk](/f40/language/uk) | 1411 | 2427 | 58.1 | /mnt/stockage/packages/f40/revelation/po/uk.po | 
+ | [sv](/f40/language/sv) | 1409 | 2427 | 58.1 | /mnt/stockage/packages/f40/revelation/po/sv.po | 
+ | [cs](/f40/language/cs) | 971 | 2427 | 40.0 | /mnt/stockage/packages/f40/revelation/po/cs.po | 
+ | [lt](/f40/language/lt) | 759 | 2427 | 31.3 | /mnt/stockage/packages/f40/revelation/po/lt.po | 
+ | [fi](/f40/language/fi) | 747 | 2427 | 30.8 | /mnt/stockage/packages/f40/revelation/po/fi.po | 
+ | [et](/f40/language/et) | 500 | 2427 | 20.6 | /mnt/stockage/packages/f40/revelation/po/et.po | 
+ | [it](/f40/language/it) | 349 | 2427 | 14.4 | /mnt/stockage/packages/f40/revelation/po/it_IT.po | 
+ | [sr](/f40/language/sr) | 77 | 2427 | 3.2 | /mnt/stockage/packages/f40/revelation/po/sr_RS.po | 
 {.sortable}
 
 

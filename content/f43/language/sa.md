@@ -44,299 +44,299 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [accessibility-inspector]({{< ref "/f43/package/accessibility-inspector.md" >}}) | 197 | 197 | 100.0 | Sanskrit <kde-i18n-doc@kde.org> | 
- | [akonadi-calendar-tools]({{< ref "/f43/package/akonadi-calendar-tools.md" >}}) | 760 | 760 | 100.0 | Sanskrit <kde-i18n-doc@kde.org> | 
- | [akonadi-import-wizard]({{< ref "/f43/package/akonadi-import-wizard.md" >}}) | 394 | 394 | 100.0 | Sanskrit <kde-i18n-doc@kde.org> | 
- | [akonadi-mime]({{< ref "/f43/package/akonadi-mime.md" >}}) | 581 | 581 | 100.0 | Sanskrit <kde-i18n-doc@kde.org> | 
- | [akonadi-notes]({{< ref "/f43/package/akonadi-notes.md" >}}) | 2 | 2 | 100.0 | Sanskrit <kde-i18n-doc@kde.org> | 
- | [akonadi-search]({{< ref "/f43/package/akonadi-search.md" >}}) | 67 | 67 | 100.0 | Sanskrit <kde-i18n-doc@kde.org> | 
- | [analitza]({{< ref "/f43/package/analitza.md" >}}) | 999 | 999 | 100.0 | Sanskrit <kde-i18n-doc@kde.org> | 
- | [atlantik]({{< ref "/f43/package/atlantik.md" >}}) | 566 | 566 | 100.0 | Sanskrit <kde-i18n-doc@kde.org> | 
- | [audiocd-kio]({{< ref "/f43/package/audiocd-kio.md" >}}) | 905 | 905 | 100.0 | Sanskrit <kde-i18n-doc@kde.org> | 
- | [blinken]({{< ref "/f43/package/blinken.md" >}}) | 134 | 134 | 100.0 | Sanskrit <kde-i18n-doc@kde.org> | 
- | [bomber]({{< ref "/f43/package/bomber.md" >}}) | 110 | 110 | 100.0 | Sanskrit <kde-i18n-doc@kde.org> | 
- | [bovo]({{< ref "/f43/package/bovo.md" >}}) | 82 | 82 | 100.0 | Sanskrit <kde-i18n-doc@kde.org> | 
- | [calindori]({{< ref "/f43/package/calindori.md" >}}) | 550 | 550 | 100.0 | Sanskrit <kde-i18n-doc@kde.org> | 
- | [colord-kde]({{< ref "/f43/package/colord-kde.md" >}}) | 282 | 282 | 100.0 | Sanskrit <kde-i18n-doc@kde.org> | 
- | [francis]({{< ref "/f43/package/francis.md" >}}) | 78 | 78 | 100.0 | Sanskrit <kde-i18n-doc@kde.org> | 
- | [gcompris-qt]({{< ref "/f43/package/gcompris-qt.md" >}}) | 36856 | 36856 | 100.0 | Sanskrit <kde-i18n-doc@kde.org> | 
- | [ghostwriter]({{< ref "/f43/package/ghostwriter.md" >}}) | 1326 | 1326 | 100.0 | Sanskrit <kde-i18n-doc@kde.org> | 
- | [granatier]({{< ref "/f43/package/granatier.md" >}}) | 243 | 243 | 100.0 | Sanskrit <kde-i18n-doc@kde.org> | 
- | [grantlee-editor]({{< ref "/f43/package/grantlee-editor.md" >}}) | 532 | 532 | 100.0 | Sanskrit <kde-i18n-doc@kde.org> | 
- | [grantleetheme]({{< ref "/f43/package/grantleetheme.md" >}}) | 14 | 14 | 100.0 | Sanskrit <kde-i18n-doc@kde.org> | 
- | [k3b]({{< ref "/f43/package/k3b.md" >}}) | 20145 | 20145 | 100.0 | Sanskrit <kde-i18n-doc@kde.org> | 
- | [kaccounts-integration]({{< ref "/f43/package/kaccounts-integration.md" >}}) | 150 | 150 | 100.0 | Sanskrit <kde-i18n-doc@kde.org> | 
- | [kaccounts-providers]({{< ref "/f43/package/kaccounts-providers.md" >}}) | 77 | 77 | 100.0 | Sanskrit <kde-i18n-doc@kde.org> | 
- | [kaddressbook]({{< ref "/f43/package/kaddressbook.md" >}}) | 1148 | 1148 | 100.0 | Sanskrit <kde-i18n-doc@kde.org> | 
- | [kalm]({{< ref "/f43/package/kalm.md" >}}) | 555 | 555 | 100.0 | Sanskrit <kde-i18n-doc@kde.org> | 
- | [kamera]({{< ref "/f43/package/kamera.md" >}}) | 272 | 272 | 100.0 | Sanskrit <kde-i18n-doc@kde.org> | 
- | [kanagram]({{< ref "/f43/package/kanagram.md" >}}) | 527 | 527 | 100.0 | Sanskrit <kde-i18n-doc@kde.org> | 
- | [kapman]({{< ref "/f43/package/kapman.md" >}}) | 115 | 115 | 100.0 | Sanskrit <kde-i18n-doc@kde.org> | 
- | [kdesdk-kioslaves]({{< ref "/f43/package/kdesdk-kioslaves.md" >}}) | 84 | 84 | 100.0 | Sanskrit <kde-i18n-doc@kde.org> | 
- | [kdevelop-php]({{< ref "/f43/package/kdevelop-php.md" >}}) | 535 | 535 | 100.0 | Sanskrit <kde-i18n-doc@kde.org> | 
- | [kdialog]({{< ref "/f43/package/kdialog.md" >}}) | 403 | 403 | 100.0 | Sanskrit <kde-i18n-doc@kde.org> | 
- | [kdiamond]({{< ref "/f43/package/kdiamond.md" >}}) | 124 | 124 | 100.0 | Sanskrit <kde-i18n-doc@kde.org> | 
- | [keditbookmarks]({{< ref "/f43/package/keditbookmarks.md" >}}) | 470 | 470 | 100.0 | Sanskrit <kde-i18n-doc@kde.org> | 
- | [kf6-baloo]({{< ref "/f43/package/kf6-baloo.md" >}}) | 869 | 869 | 100.0 | Sanskrit <kde-i18n-doc@kde.org> | 
- | [kf6-kauth]({{< ref "/f43/package/kf6-kauth.md" >}}) | 73 | 73 | 100.0 | Sanskrit <kde-i18n-doc@kde.org> | 
- | [kf6-kbookmarks]({{< ref "/f43/package/kf6-kbookmarks.md" >}}) | 179 | 179 | 100.0 | Sanskrit <kde-i18n-doc@kde.org> | 
- | [kf6-kcodecs]({{< ref "/f43/package/kf6-kcodecs.md" >}}) | 370 | 370 | 100.0 | Sanskrit <kde-i18n-doc@kde.org> | 
- | [kf6-kcolorscheme]({{< ref "/f43/package/kf6-kcolorscheme.md" >}}) | 1 | 1 | 100.0 | Sanskrit <kde-i18n-doc@kde.org> | 
- | [kf6-kcompletion]({{< ref "/f43/package/kf6-kcompletion.md" >}}) | 18 | 18 | 100.0 | Sanskrit <kde-i18n-doc@kde.org> | 
- | [kf6-kconfigwidgets]({{< ref "/f43/package/kf6-kconfigwidgets.md" >}}) | 312 | 312 | 100.0 | Sanskrit <kde-i18n-doc@kde.org> | 
- | [kf6-kdav]({{< ref "/f43/package/kf6-kdav.md" >}}) | 185 | 185 | 100.0 | Sanskrit <kde-i18n-doc@kde.org> | 
- | [kf6-kdbusaddons]({{< ref "/f43/package/kf6-kdbusaddons.md" >}}) | 48 | 48 | 100.0 | Sanskrit <kde-i18n-doc@kde.org> | 
- | [kf6-kdeclarative]({{< ref "/f43/package/kf6-kdeclarative.md" >}}) | 169 | 169 | 100.0 | Sanskrit <kde-i18n-doc@kde.org> | 
- | [kf6-kdesu]({{< ref "/f43/package/kf6-kdesu.md" >}}) | 19 | 19 | 100.0 | Sanskrit <kde-i18n-doc@kde.org> | 
- | [kf6-kdnssd]({{< ref "/f43/package/kf6-kdnssd.md" >}}) | 3 | 3 | 100.0 | Sanskrit <kde-i18n-doc@kde.org> | 
- | [kf6-kdoctools]({{< ref "/f43/package/kf6-kdoctools.md" >}}) | 8 | 8 | 100.0 | Sanskrit <kde-i18n-doc@kde.org> | 
- | [kf6-kglobalaccel]({{< ref "/f43/package/kf6-kglobalaccel.md" >}}) | 34 | 34 | 100.0 | Sanskrit <kde-i18n-doc@kde.org> | 
- | [kf6-kholidays]({{< ref "/f43/package/kf6-kholidays.md" >}}) | 150 | 150 | 100.0 | Sanskrit <kde-i18n-doc@kde.org> | 
- | [kf6-ki18n]({{< ref "/f43/package/kf6-ki18n.md" >}}) | 124 | 124 | 100.0 | Sanskrit <kde-i18n-doc@kde.org> | 
- | [kf6-kiconthemes]({{< ref "/f43/package/kf6-kiconthemes.md" >}}) | 46 | 46 | 100.0 | Sanskrit <kde-i18n-doc@kde.org> | 
- | [kf6-kitemviews]({{< ref "/f43/package/kf6-kitemviews.md" >}}) | 6 | 6 | 100.0 | Sanskrit <kde-i18n-doc@kde.org> | 
- | [kf6-knotifyconfig]({{< ref "/f43/package/kf6-knotifyconfig.md" >}}) | 19 | 19 | 100.0 | Sanskrit <kde-i18n-doc@kde.org> | 
- | [kf6-kpackage]({{< ref "/f43/package/kf6-kpackage.md" >}}) | 338 | 338 | 100.0 | Sanskrit <kde-i18n-doc@kde.org> | 
- | [kf6-kparts]({{< ref "/f43/package/kf6-kparts.md" >}}) | 57 | 57 | 100.0 | Sanskrit <kde-i18n-doc@kde.org> | 
- | [kf6-kpeople]({{< ref "/f43/package/kf6-kpeople.md" >}}) | 15 | 15 | 100.0 | Sanskrit <kde-i18n-doc@kde.org> | 
- | [kf6-kpty]({{< ref "/f43/package/kf6-kpty.md" >}}) | 15 | 15 | 100.0 | Sanskrit <kde-i18n-doc@kde.org> | 
- | [kf6-kservice]({{< ref "/f43/package/kf6-kservice.md" >}}) | 45 | 45 | 100.0 | Sanskrit <kde-i18n-doc@kde.org> | 
- | [kf6-kstatusnotifieritem]({{< ref "/f43/package/kf6-kstatusnotifieritem.md" >}}) | 3 | 3 | 100.0 | Sanskrit <kde-i18n-doc@kde.org> | 
- | [kf6-ksvg]({{< ref "/f43/package/kf6-ksvg.md" >}}) | 4 | 4 | 100.0 | Sanskrit <kde-i18n-doc@kde.org> | 
- | [kf6-ktextwidgets]({{< ref "/f43/package/kf6-ktextwidgets.md" >}}) | 473 | 473 | 100.0 | Sanskrit <kde-i18n-doc@kde.org> | 
- | [kf6-kuserfeedback]({{< ref "/f43/package/kf6-kuserfeedback.md" >}}) | 1157 | 1157 | 100.0 | Sanskrit <kde-i18n-doc@kde.org> | 
- | [kf6-kwidgetsaddons]({{< ref "/f43/package/kf6-kwidgetsaddons.md" >}}) | 1277 | 1277 | 100.0 | Sanskrit <kde-i18n-doc@kde.org> | 
- | [kf6-kwindowsystem]({{< ref "/f43/package/kf6-kwindowsystem.md" >}}) | 2 | 2 | 100.0 | Sanskrit <kde-i18n-doc@kde.org> | 
- | [kf6-purpose]({{< ref "/f43/package/kf6-purpose.md" >}}) | 319 | 319 | 100.0 | Sanskrit <kde-i18n-doc@kde.org> | 
- | [kf6-qqc2-desktop-style]({{< ref "/f43/package/kf6-qqc2-desktop-style.md" >}}) | 22 | 22 | 100.0 | Sanskrit <kde-i18n-doc@kde.org> | 
- | [kf6-sonnet]({{< ref "/f43/package/kf6-sonnet.md" >}}) | 684 | 684 | 100.0 | Sanskrit <kde-i18n-doc@kde.org> | 
- | [kfind]({{< ref "/f43/package/kfind.md" >}}) | 517 | 517 | 100.0 | Sanskrit <kde-i18n-doc@kde.org> | 
- | [kfourinline]({{< ref "/f43/package/kfourinline.md" >}}) | 384 | 384 | 100.0 | Sanskrit <kde-i18n-doc@kde.org> | 
- | [kgeography]({{< ref "/f43/package/kgeography.md" >}}) | 10043 | 10043 | 100.0 | Sanskrit <kde-i18n-doc@kde.org> | 
- | [kget]({{< ref "/f43/package/kget.md" >}}) | 2767 | 2767 | 100.0 | Sanskrit <kde-i18n-doc@kde.org> | 
- | [kgoldrunner]({{< ref "/f43/package/kgoldrunner.md" >}}) | 28047 | 28047 | 100.0 | Sanskrit <kde-i18n-doc@kde.org> | 
- | [kgpg]({{< ref "/f43/package/kgpg.md" >}}) | 4912 | 4912 | 100.0 | Sanskrit <kde-i18n-doc@kde.org> | 
- | [khelpcenter]({{< ref "/f43/package/khelpcenter.md" >}}) | 221 | 221 | 100.0 | Sanskrit <kde-i18n-doc@kde.org> | 
- | [kidentitymanagement]({{< ref "/f43/package/kidentitymanagement.md" >}}) | 260 | 260 | 100.0 | Sanskrit <kde-i18n-doc@kde.org> | 
- | [kigo]({{< ref "/f43/package/kigo.md" >}}) | 508 | 508 | 100.0 | Sanskrit <kde-i18n-doc@kde.org> | 
- | [killbots]({{< ref "/f43/package/killbots.md" >}}) | 637 | 637 | 100.0 | Sanskrit <kde-i18n-doc@kde.org> | 
- | [kimagemapeditor]({{< ref "/f43/package/kimagemapeditor.md" >}}) | 620 | 620 | 100.0 | Sanskrit <kde-i18n-doc@kde.org> | 
- | [kimap]({{< ref "/f43/package/kimap.md" >}}) | 118 | 118 | 100.0 | Sanskrit <kde-i18n-doc@kde.org> | 
- | [kio-gdrive]({{< ref "/f43/package/kio-gdrive.md" >}}) | 78 | 78 | 100.0 | Sanskrit <kde-i18n-doc@kde.org> | 
- | [kirigami-gallery]({{< ref "/f43/package/kirigami-gallery.md" >}}) | 982 | 982 | 100.0 | Sanskrit <kde-i18n-doc@kde.org> | 
- | [kiriki]({{< ref "/f43/package/kiriki.md" >}}) | 145 | 145 | 100.0 | Sanskrit <kde-i18n-doc@kde.org> | 
- | [kitinerary]({{< ref "/f43/package/kitinerary.md" >}}) | 108 | 108 | 100.0 | Sanskrit <kde-i18n-doc@kde.org> | 
- | [kjumpingcube]({{< ref "/f43/package/kjumpingcube.md" >}}) | 413 | 413 | 100.0 | Sanskrit <kde-i18n-doc@kde.org> | 
- | [kldap]({{< ref "/f43/package/kldap.md" >}}) | 215 | 215 | 100.0 | Sanskrit <kde-i18n-doc@kde.org> | 
- | [klettres]({{< ref "/f43/package/klettres.md" >}}) | 440 | 440 | 100.0 | Sanskrit <kde-i18n-doc@kde.org> | 
- | [klickety]({{< ref "/f43/package/klickety.md" >}}) | 178 | 178 | 100.0 | Sanskrit <kde-i18n-doc@kde.org> | 
- | [klines]({{< ref "/f43/package/klines.md" >}}) | 99 | 99 | 100.0 | Sanskrit <kde-i18n-doc@kde.org> | 
- | [kmag]({{< ref "/f43/package/kmag.md" >}}) | 432 | 432 | 100.0 | Sanskrit <kde-i18n-doc@kde.org> | 
- | [kmahjongg]({{< ref "/f43/package/kmahjongg.md" >}}) | 359 | 359 | 100.0 | Sanskrit <kde-i18n-doc@kde.org> | 
- | [kmime]({{< ref "/f43/package/kmime.md" >}}) | 152 | 152 | 100.0 | Sanskrit <kde-i18n-doc@kde.org> | 
- | [kmines]({{< ref "/f43/package/kmines.md" >}}) | 164 | 164 | 100.0 | Sanskrit <kde-i18n-doc@kde.org> | 
- | [kmix]({{< ref "/f43/package/kmix.md" >}}) | 1159 | 1159 | 100.0 | Sanskrit <kde-i18n-doc@kde.org> | 
- | [kmousetool]({{< ref "/f43/package/kmousetool.md" >}}) | 147 | 147 | 100.0 | Sanskrit <kde-i18n-doc@kde.org> | 
- | [kmouth]({{< ref "/f43/package/kmouth.md" >}}) | 1474 | 1474 | 100.0 | Sanskrit <kde-i18n-doc@kde.org> | 
- | [kmplot]({{< ref "/f43/package/kmplot.md" >}}) | 2501 | 2501 | 100.0 | Sanskrit <kde-i18n-doc@kde.org> | 
- | [knavalbattle]({{< ref "/f43/package/knavalbattle.md" >}}) | 401 | 401 | 100.0 | Sanskrit <kde-i18n-doc@kde.org> | 
- | [knetwalk]({{< ref "/f43/package/knetwalk.md" >}}) | 236 | 236 | 100.0 | Sanskrit <kde-i18n-doc@kde.org> | 
- | [knights]({{< ref "/f43/package/knights.md" >}}) | 797 | 797 | 100.0 | Sanskrit <kde-i18n-doc@kde.org> | 
- | [kolf]({{< ref "/f43/package/kolf.md" >}}) | 405 | 405 | 100.0 | Sanskrit <kde-i18n-doc@kde.org> | 
- | [kollision]({{< ref "/f43/package/kollision.md" >}}) | 109 | 109 | 100.0 | Sanskrit <kde-i18n-doc@kde.org> | 
- | [kongress]({{< ref "/f43/package/kongress.md" >}}) | 176 | 176 | 100.0 | Sanskrit <kde-i18n-doc@kde.org> | 
- | [konquest]({{< ref "/f43/package/konquest.md" >}}) | 248 | 248 | 100.0 | Sanskrit <kde-i18n-doc@kde.org> | 
- | [kontactinterface]({{< ref "/f43/package/kontactinterface.md" >}}) | 4 | 4 | 100.0 | Sanskrit <kde-i18n-doc@kde.org> | 
- | [kontrast]({{< ref "/f43/package/kontrast.md" >}}) | 327 | 327 | 100.0 | Sanskrit <kde-i18n-doc@kde.org> | 
- | [kopeninghours]({{< ref "/f43/package/kopeninghours.md" >}}) | 160 | 160 | 100.0 | Sanskrit <kde-i18n-doc@kde.org> | 
- | [kphotoalbum]({{< ref "/f43/package/kphotoalbum.md" >}}) | 9043 | 9043 | 100.0 | Sanskrit <kde-i18n-doc@kde.org> | 
- | [kpimtextedit]({{< ref "/f43/package/kpimtextedit.md" >}}) | 274 | 274 | 100.0 | Sanskrit <kde-i18n-doc@kde.org> | 
- | [kreversi]({{< ref "/f43/package/kreversi.md" >}}) | 404 | 404 | 100.0 | Sanskrit <kde-i18n-doc@kde.org> | 
- | [krfb]({{< ref "/f43/package/krfb.md" >}}) | 734 | 734 | 100.0 | Sanskrit <kde-i18n-doc@kde.org> | 
- | [kruler]({{< ref "/f43/package/kruler.md" >}}) | 158 | 158 | 100.0 | Sanskrit <kde-i18n-doc@kde.org> | 
- | [ksanecore]({{< ref "/f43/package/ksanecore.md" >}}) | 59 | 59 | 100.0 | Sanskrit <kde-i18n-doc@kde.org> | 
- | [kshisen]({{< ref "/f43/package/kshisen.md" >}}) | 667 | 667 | 100.0 | Sanskrit <kde-i18n-doc@kde.org> | 
- | [ksirk]({{< ref "/f43/package/ksirk.md" >}}) | 4725 | 4725 | 100.0 | Sanskrit <kde-i18n-doc@kde.org> | 
- | [ksmtp]({{< ref "/f43/package/ksmtp.md" >}}) | 86 | 86 | 100.0 | Sanskrit <kde-i18n-doc@kde.org> | 
- | [ksnakeduel]({{< ref "/f43/package/ksnakeduel.md" >}}) | 243 | 243 | 100.0 | Sanskrit <kde-i18n-doc@kde.org> | 
- | [kspaceduel]({{< ref "/f43/package/kspaceduel.md" >}}) | 165 | 165 | 100.0 | Sanskrit <kde-i18n-doc@kde.org> | 
- | [ksquares]({{< ref "/f43/package/ksquares.md" >}}) | 293 | 293 | 100.0 | Sanskrit <kde-i18n-doc@kde.org> | 
- | [ksystemlog]({{< ref "/f43/package/ksystemlog.md" >}}) | 3101 | 3101 | 100.0 | Sanskrit <kde-i18n-doc@kde.org> | 
- | [kteatime]({{< ref "/f43/package/kteatime.md" >}}) | 203 | 203 | 100.0 | Sanskrit <kde-i18n-doc@kde.org> | 
- | [ktimer]({{< ref "/f43/package/ktimer.md" >}}) | 258 | 258 | 100.0 | Sanskrit <kde-i18n-doc@kde.org> | 
- | [ktnef]({{< ref "/f43/package/ktnef.md" >}}) | 355 | 355 | 100.0 | Sanskrit <kde-i18n-doc@kde.org> | 
- | [ktuberling]({{< ref "/f43/package/ktuberling.md" >}}) | 158 | 158 | 100.0 | Sanskrit <kde-i18n-doc@kde.org> | 
- | [kturtle]({{< ref "/f43/package/kturtle.md" >}}) | 1538 | 1538 | 100.0 | Sanskrit <kde-i18n-doc@kde.org> | 
- | [kubrick]({{< ref "/f43/package/kubrick.md" >}}) | 1213 | 1213 | 100.0 | Sanskrit <kde-i18n-doc@kde.org> | 
- | [libgravatar]({{< ref "/f43/package/libgravatar.md" >}}) | 25 | 25 | 100.0 | Sanskrit <kde-i18n-doc@kde.org> | 
- | [libkdegames]({{< ref "/f43/package/libkdegames.md" >}}) | 316 | 316 | 100.0 | Sanskrit <kde-i18n-doc@kde.org> | 
- | [libkdepim]({{< ref "/f43/package/libkdepim.md" >}}) | 36 | 36 | 100.0 | Sanskrit <kde-i18n-doc@kde.org> | 
- | [libkeduvocdocument]({{< ref "/f43/package/libkeduvocdocument.md" >}}) | 171 | 171 | 100.0 | Sanskrit <kde-i18n-doc@kde.org> | 
- | [libkgapi]({{< ref "/f43/package/libkgapi.md" >}}) | 378 | 378 | 100.0 | Sanskrit <kde-i18n-doc@kde.org> | 
- | [libkmahjongg]({{< ref "/f43/package/libkmahjongg.md" >}}) | 11 | 11 | 100.0 | Sanskrit <kde-i18n-doc@kde.org> | 
- | [libkomparediff2]({{< ref "/f43/package/libkomparediff2.md" >}}) | 143 | 143 | 100.0 | Sanskrit <kde-i18n-doc@kde.org> | 
- | [libksane]({{< ref "/f43/package/libksane.md" >}}) | 284 | 284 | 100.0 | Sanskrit <kde-i18n-doc@kde.org> | 
- | [libktorrent]({{< ref "/f43/package/libktorrent.md" >}}) | 465 | 465 | 100.0 | Sanskrit <kde-i18n-doc@kde.org> | 
- | [lskat]({{< ref "/f43/package/lskat.md" >}}) | 266 | 266 | 100.0 | Sanskrit <kde-i18n-doc@kde.org> | 
- | [mailimporter]({{< ref "/f43/package/mailimporter.md" >}}) | 1405 | 1405 | 100.0 | Sanskrit <kde-i18n-doc@kde.org> | 
- | [markdownpart]({{< ref "/f43/package/markdownpart.md" >}}) | 23 | 23 | 100.0 | Sanskrit <kde-i18n-doc@kde.org> | 
- | [massif-visualizer]({{< ref "/f43/package/massif-visualizer.md" >}}) | 360 | 360 | 100.0 | Sanskrit <kde-i18n-doc@kde.org> | 
- | [mbox-importer]({{< ref "/f43/package/mbox-importer.md" >}}) | 40 | 40 | 100.0 | Sanskrit <kde-i18n-doc@kde.org> | 
- | [palapeli]({{< ref "/f43/package/palapeli.md" >}}) | 1525 | 1525 | 100.0 | Sanskrit <kde-i18n-doc@kde.org> | 
- | [parley]({{< ref "/f43/package/parley.md" >}}) | 3433 | 3433 | 100.0 | Sanskrit <kde-i18n-doc@kde.org> | 
- | [picmi]({{< ref "/f43/package/picmi.md" >}}) | 202 | 202 | 100.0 | Sanskrit <kde-i18n-doc@kde.org> | 
- | [pim-data-exporter]({{< ref "/f43/package/pim-data-exporter.md" >}}) | 794 | 794 | 100.0 | Sanskrit <kde-i18n-doc@kde.org> | 
- | [plasma-pass]({{< ref "/f43/package/plasma-pass.md" >}}) | 22 | 22 | 100.0 | Sanskrit <kde-i18n-doc@kde.org> | 
- | [skanlite]({{< ref "/f43/package/skanlite.md" >}}) | 186 | 186 | 100.0 | Sanskrit <kde-i18n-doc@kde.org> | 
- | [svgpart]({{< ref "/f43/package/svgpart.md" >}}) | 3 | 3 | 100.0 | Sanskrit <kde-i18n-doc@kde.org> | 
- | [sweeper]({{< ref "/f43/package/sweeper.md" >}}) | 228 | 228 | 100.0 | Sanskrit <kde-i18n-doc@kde.org> | 
- | [vakzination]({{< ref "/f43/package/vakzination.md" >}}) | 147 | 147 | 100.0 | Sanskrit <kde-i18n-doc@kde.org> | 
- | [yakuake]({{< ref "/f43/package/yakuake.md" >}}) | 1671 | 1671 | 100.0 | Sanskrit <kde-i18n-doc@kde.org> | 
- | [zanshin]({{< ref "/f43/package/zanshin.md" >}}) | 495 | 495 | 100.0 | Sanskrit <kde-i18n-doc@kde.org> | 
- | [calligra]({{< ref "/f43/package/calligra.md" >}}) | 30217 | 30218 | 100.0 | Sanskrit <kde-i18n-doc@kde.org> | 
- | [marble]({{< ref "/f43/package/marble.md" >}}) | 11661 | 11664 | 100.0 | Sanskrit <kde-i18n-doc@kde.org> | 
- | [calendarsupport]({{< ref "/f43/package/calendarsupport.md" >}}) | 2758 | 2759 | 100.0 | Sanskrit <kde-i18n-doc@kde.org> | 
- | [libksieve]({{< ref "/f43/package/libksieve.md" >}}) | 3132 | 3134 | 99.9 | Sanskrit <kde-i18n-doc@kde.org> | 
- | [akonadi-contacts]({{< ref "/f43/package/akonadi-contacts.md" >}}) | 1128 | 1129 | 99.9 | Sanskrit <kde-i18n-doc@kde.org> | 
- | [cantor]({{< ref "/f43/package/cantor.md" >}}) | 3982 | 3987 | 99.9 | Sanskrit <kde-i18n-doc@kde.org> | 
- | [kpat]({{< ref "/f43/package/kpat.md" >}}) | 588 | 589 | 99.8 | Sanskrit <kde-i18n-doc@kde.org> | 
- | [khangman]({{< ref "/f43/package/khangman.md" >}}) | 449 | 450 | 99.8 | Sanskrit <kde-i18n-doc@kde.org> | 
- | [kpmcore]({{< ref "/f43/package/kpmcore.md" >}}) | 3289 | 3297 | 99.8 | Sanskrit <kde-i18n-doc@kde.org> | 
- | [messagelib]({{< ref "/f43/package/messagelib.md" >}}) | 7615 | 7634 | 99.8 | Sanskrit <kde-i18n-doc@kde.org> | 
- | [mailcommon]({{< ref "/f43/package/mailcommon.md" >}}) | 2796 | 2803 | 99.8 | Sanskrit <kde-i18n-doc@kde.org> | 
- | [akregator]({{< ref "/f43/package/akregator.md" >}}) | 1888 | 1893 | 99.7 | Sanskrit <kde-i18n-doc@kde.org> | 
- | [kwalletmanager5]({{< ref "/f43/package/kwalletmanager5.md" >}}) | 825 | 828 | 99.6 | Sanskrit <kde-i18n-doc@kde.org> | 
- | [kf6-kwallet]({{< ref "/f43/package/kf6-kwallet.md" >}}) | 1180 | 1185 | 99.6 | Sanskrit <kde-i18n-doc@kde.org> | 
- | [kf6-solid]({{< ref "/f43/package/kf6-solid.md" >}}) | 602 | 605 | 99.5 | Sanskrit <kde-i18n-doc@kde.org> | 
- | [kf6-ktexteditor]({{< ref "/f43/package/kf6-ktexteditor.md" >}}) | 9407 | 9463 | 99.4 | Sanskrit <kde-i18n-doc@kde.org> | 
- | [akonadiconsole]({{< ref "/f43/package/akonadiconsole.md" >}}) | 772 | 777 | 99.4 | Sanskrit <kde-i18n-doc@kde.org> | 
- | [konversation]({{< ref "/f43/package/konversation.md" >}}) | 10327 | 10405 | 99.3 | Sanskrit <kde-i18n-doc@kde.org> | 
- | [kajongg]({{< ref "/f43/package/kajongg.md" >}}) | 2480 | 2499 | 99.2 | Sanskrit <kde-i18n-doc@kde.org> | 
- | [krecorder]({{< ref "/f43/package/krecorder.md" >}}) | 127 | 128 | 99.2 | Sanskrit <kde-i18n-doc@kde.org> | 
- | [isoimagewriter]({{< ref "/f43/package/isoimagewriter.md" >}}) | 452 | 456 | 99.1 | Sanskrit <kde-i18n-doc@kde.org> | 
- | [kf6-kconfig]({{< ref "/f43/package/kf6-kconfig.md" >}}) | 545 | 550 | 99.1 | Sanskrit <kde-i18n-doc@kde.org> | 
- | [kmail]({{< ref "/f43/package/kmail.md" >}}) | 9056 | 9140 | 99.1 | Sanskrit <kde-i18n-doc@kde.org> | 
- | [kolourpaint]({{< ref "/f43/package/kolourpaint.md" >}}) | 2635 | 2661 | 99.0 | Sanskrit <kde-i18n-doc@kde.org> | 
- | [kf6-kcmutils]({{< ref "/f43/package/kf6-kcmutils.md" >}}) | 198 | 200 | 99.0 | Sanskrit <kde-i18n-doc@kde.org> | 
- | [kosmindoormap]({{< ref "/f43/package/kosmindoormap.md" >}}) | 616 | 623 | 98.9 | Sanskrit <kde-i18n-doc@kde.org> | 
- | [akonadi-calendar]({{< ref "/f43/package/akonadi-calendar.md" >}}) | 2353 | 2380 | 98.9 | Sanskrit <kde-i18n-doc@kde.org> | 
- | [kalarm]({{< ref "/f43/package/kalarm.md" >}}) | 8442 | 8539 | 98.9 | Sanskrit <kde-i18n-doc@kde.org> | 
- | [kf6-kunitconversion]({{< ref "/f43/package/kf6-kunitconversion.md" >}}) | 5825 | 5894 | 98.8 | Sanskrit <kde-i18n-doc@kde.org> | 
- | [kio-extras]({{< ref "/f43/package/kio-extras.md" >}}) | 2893 | 2928 | 98.8 | Sanskrit <kde-i18n-doc@kde.org> | 
- | [lokalize]({{< ref "/f43/package/lokalize.md" >}}) | 4037 | 4086 | 98.8 | Sanskrit <kde-i18n-doc@kde.org> | 
- | [skladnik]({{< ref "/f43/package/skladnik.md" >}}) | 152 | 154 | 98.7 | Sanskrit <kde-i18n-doc@kde.org> | 
- | [gwenview]({{< ref "/f43/package/gwenview.md" >}}) | 2063 | 2091 | 98.7 | Sanskrit <kde-i18n-doc@kde.org> | 
- | [libkleo]({{< ref "/f43/package/libkleo.md" >}}) | 2992 | 3034 | 98.6 | Sanskrit <kde-i18n-doc@kde.org> | 
- | [kgraphviewer]({{< ref "/f43/package/kgraphviewer.md" >}}) | 1176 | 1193 | 98.6 | Sanskrit <kde-i18n-doc@kde.org> | 
- | [kwordquiz]({{< ref "/f43/package/kwordquiz.md" >}}) | 254 | 258 | 98.4 | Sanskrit <kde-i18n-doc@kde.org> | 
- | [kwave]({{< ref "/f43/package/kwave.md" >}}) | 5730 | 5821 | 98.4 | Sanskrit <kde-i18n-doc@kde.org> | 
- | [ktextaddons]({{< ref "/f43/package/ktextaddons.md" >}}) | 1054 | 1071 | 98.4 | Sanskrit <kde-i18n-doc@kde.org> | 
- | [kweathercore]({{< ref "/f43/package/kweathercore.md" >}}) | 120 | 122 | 98.4 | Sanskrit <kde-i18n-doc@kde.org> | 
- | [kdf]({{< ref "/f43/package/kdf.md" >}}) | 174 | 177 | 98.3 | Sanskrit <kde-i18n-doc@kde.org> | 
- | [ark]({{< ref "/f43/package/ark.md" >}}) | 1947 | 1982 | 98.2 | Sanskrit <kde-i18n-doc@kde.org> | 
- | [falkon]({{< ref "/f43/package/falkon.md" >}}) | 4764 | 4853 | 98.2 | Sanskrit <kde-i18n-doc@kde.org> | 
- | [kf6-kxmlgui]({{< ref "/f43/package/kf6-kxmlgui.md" >}}) | 1265 | 1289 | 98.1 | Sanskrit <kde-i18n-doc@kde.org> | 
- | [pimcommon]({{< ref "/f43/package/pimcommon.md" >}}) | 866 | 884 | 98.0 | Sanskrit <kde-i18n-doc@kde.org> | 
- | [konqueror]({{< ref "/f43/package/konqueror.md" >}}) | 8690 | 8873 | 97.9 | Sanskrit <kde-i18n-doc@kde.org> | 
- | [kf6-kjobwidgets]({{< ref "/f43/package/kf6-kjobwidgets.md" >}}) | 136 | 139 | 97.8 | Sanskrit <kde-i18n-doc@kde.org> | 
- | [kalgebra]({{< ref "/f43/package/kalgebra.md" >}}) | 270 | 276 | 97.8 | Sanskrit <kde-i18n-doc@kde.org> | 
- | [dolphin-plugins]({{< ref "/f43/package/dolphin-plugins.md" >}}) | 1571 | 1607 | 97.8 | Sanskrit <kde-i18n-doc@kde.org> | 
- | [kmailtransport]({{< ref "/f43/package/kmailtransport.md" >}}) | 654 | 669 | 97.8 | Sanskrit <kde-i18n-doc@kde.org> | 
- | [kf6-kcontacts]({{< ref "/f43/package/kf6-kcontacts.md" >}}) | 168 | 172 | 97.7 | Sanskrit <kde-i18n-doc@kde.org> | 
- | [pim-sieve-editor]({{< ref "/f43/package/pim-sieve-editor.md" >}}) | 459 | 470 | 97.7 | Sanskrit <kde-i18n-doc@kde.org> | 
- | [kdevelop]({{< ref "/f43/package/kdevelop.md" >}}) | 15537 | 15918 | 97.6 | Sanskrit <kde-i18n-doc@kde.org> | 
- | [ktorrent]({{< ref "/f43/package/ktorrent.md" >}}) | 7321 | 7525 | 97.3 | Sanskrit <kde-i18n-doc@kde.org> | 
- | [akonadi-server]({{< ref "/f43/package/akonadi-server.md" >}}) | 2975 | 3062 | 97.2 | Sanskrit <kde-i18n-doc@kde.org> | 
- | [konsole]({{< ref "/f43/package/konsole.md" >}}) | 4158 | 4282 | 97.1 | Sanskrit <kde-i18n-doc@kde.org> | 
- | [kiten]({{< ref "/f43/package/kiten.md" >}}) | 632 | 651 | 97.1 | Sanskrit <kde-i18n-doc@kde.org> | 
- | [kalk]({{< ref "/f43/package/kalk.md" >}}) | 66 | 68 | 97.1 | Sanskrit <kde-i18n-doc@kde.org> | 
- | [qmlkonsole]({{< ref "/f43/package/qmlkonsole.md" >}}) | 161 | 166 | 97.0 | Sanskrit <kde-i18n-doc@kde.org> | 
- | [kasts]({{< ref "/f43/package/kasts.md" >}}) | 1319 | 1362 | 96.8 | Sanskrit <kde-i18n-doc@kde.org> | 
- | [alligator]({{< ref "/f43/package/alligator.md" >}}) | 184 | 190 | 96.8 | Sanskrit <kde-i18n-doc@kde.org> | 
- | [kmail-account-wizard]({{< ref "/f43/package/kmail-account-wizard.md" >}}) | 272 | 281 | 96.8 | Sanskrit <kde-i18n-doc@kde.org> | 
- | [kf6-kfilemetadata]({{< ref "/f43/package/kf6-kfilemetadata.md" >}}) | 299 | 309 | 96.8 | Sanskrit <kde-i18n-doc@kde.org> | 
- | [incidenceeditor]({{< ref "/f43/package/incidenceeditor.md" >}}) | 2197 | 2280 | 96.4 | Sanskrit <kde-i18n-doc@kde.org> | 
- | [keysmith]({{< ref "/f43/package/keysmith.md" >}}) | 292 | 304 | 96.1 | Sanskrit <kde-i18n-doc@kde.org> | 
- | [krdc]({{< ref "/f43/package/krdc.md" >}}) | 1155 | 1205 | 95.9 | Sanskrit <kde-i18n-doc@kde.org> | 
- | [plasmatube]({{< ref "/f43/package/plasmatube.md" >}}) | 495 | 517 | 95.7 | Sanskrit <kde-i18n-doc@kde.org> | 
- | [kleopatra]({{< ref "/f43/package/kleopatra.md" >}}) | 12632 | 13218 | 95.6 | Sanskrit <kde-i18n-doc@kde.org> | 
- | [elisa-player]({{< ref "/f43/package/elisa-player.md" >}}) | 785 | 822 | 95.5 | Sanskrit <kde-i18n-doc@kde.org> | 
- | [kf6-knewstuff]({{< ref "/f43/package/kf6-knewstuff.md" >}}) | 987 | 1034 | 95.5 | Sanskrit <kde-i18n-doc@kde.org> | 
- | [kompare]({{< ref "/f43/package/kompare.md" >}}) | 1345 | 1413 | 95.2 | Sanskrit <kde-i18n-doc@kde.org> | 
- | [arianna]({{< ref "/f43/package/arianna.md" >}}) | 166 | 175 | 94.9 | Sanskrit <kde-i18n-doc@kde.org> | 
- | [kf6-syntax-highlighting]({{< ref "/f43/package/kf6-syntax-highlighting.md" >}}) | 695 | 735 | 94.6 | Sanskrit <kde-i18n-doc@kde.org> | 
- | [filelight]({{< ref "/f43/package/filelight.md" >}}) | 268 | 284 | 94.4 | Sanskrit <kde-i18n-doc@kde.org> | 
- | [mimetreeparser]({{< ref "/f43/package/mimetreeparser.md" >}}) | 267 | 283 | 94.3 | Sanskrit <kde-i18n-doc@kde.org> | 
- | [okular]({{< ref "/f43/package/okular.md" >}}) | 5571 | 5919 | 94.1 | Sanskrit <kde-i18n-doc@kde.org> | 
- | [audiotube]({{< ref "/f43/package/audiotube.md" >}}) | 222 | 236 | 94.1 | Sanskrit <kde-i18n-doc@kde.org> | 
- | [kf6-kio]({{< ref "/f43/package/kf6-kio.md" >}}) | 8076 | 8607 | 93.8 | Sanskrit <kde-i18n-doc@kde.org> | 
- | [kf6-kirigami-addons]({{< ref "/f43/package/kf6-kirigami-addons.md" >}}) | 650 | 693 | 93.8 | Sanskrit <kde-i18n-doc@kde.org> | 
- | [kate]({{< ref "/f43/package/kate.md" >}}) | 8174 | 8843 | 92.4 | Sanskrit <kde-i18n-doc@kde.org> | 
- | [audex]({{< ref "/f43/package/audex.md" >}}) | 2349 | 2542 | 92.4 | Sanskrit <kde-i18n-doc@kde.org> | 
- | [ksudoku]({{< ref "/f43/package/ksudoku.md" >}}) | 1663 | 1849 | 89.9 | Sanskrit <kde-i18n-doc@kde.org> | 
- | [kf6-kirigami]({{< ref "/f43/package/kf6-kirigami.md" >}}) | 84 | 94 | 89.4 | Sanskrit <kde-i18n-doc@kde.org> | 
- | [eventviews]({{< ref "/f43/package/eventviews.md" >}}) | 3131 | 3564 | 87.9 | Sanskrit <kde-i18n-doc@kde.org> | 
- | [kontact]({{< ref "/f43/package/kontact.md" >}}) | 434 | 495 | 87.7 | Sanskrit <kde-i18n-doc@kde.org> | 
- | [kf6-karchive]({{< ref "/f43/package/kf6-karchive.md" >}}) | 469 | 540 | 86.9 | Sanskrit <kde-i18n-doc@kde.org> | 
- | [dolphin]({{< ref "/f43/package/dolphin.md" >}}) | 5987 | 6943 | 86.2 | Sanskrit <kde-i18n-doc@kde.org> | 
- | [itinerary]({{< ref "/f43/package/itinerary.md" >}}) | 2432 | 2821 | 86.2 | Sanskrit <kde-i18n-doc@kde.org> | 
- | [kapptemplate]({{< ref "/f43/package/kapptemplate.md" >}}) | 193 | 226 | 85.4 | Sanskrit <kde-i18n-doc@kde.org> | 
- | [kf6-kcoreaddons]({{< ref "/f43/package/kf6-kcoreaddons.md" >}}) | 408 | 485 | 84.1 | Sanskrit <kde-i18n-doc@kde.org> | 
- | [merkuro]({{< ref "/f43/package/merkuro.md" >}}) | 1635 | 1956 | 83.6 | Sanskrit <kde-i18n-doc@kde.org> | 
- | [baloo-widgets]({{< ref "/f43/package/baloo-widgets.md" >}}) | 55 | 70 | 78.6 | Sanskrit <kde-i18n-doc@kde.org> | 
- | [kjournald]({{< ref "/f43/package/kjournald.md" >}}) | 101 | 130 | 77.7 | Sanskrit <kde-i18n-doc@kde.org> | 
- | [neochat]({{< ref "/f43/package/neochat.md" >}}) | 3531 | 4815 | 73.3 | Sanskrit <kde-i18n-doc@kde.org> | 
- | [korganizer]({{< ref "/f43/package/korganizer.md" >}}) | 5826 | 8057 | 72.3 | Sanskrit <kde-i18n-doc@kde.org> | 
- | [juk]({{< ref "/f43/package/juk.md" >}}) | 1043 | 1452 | 71.8 | Sanskrit <kde-i18n-doc@kde.org> | 
- | [qrca]({{< ref "/f43/package/qrca.md" >}}) | 99 | 138 | 71.7 | Sanskrit <kde-i18n-doc@kde.org> | 
- | [plasma-settings]({{< ref "/f43/package/plasma-settings.md" >}}) | 63 | 88 | 71.6 | Sanskrit <kde-i18n-doc@kde.org> | 
- | [kweather]({{< ref "/f43/package/kweather.md" >}}) | 153 | 215 | 71.2 | Sanskrit <kde-i18n-doc@kde.org> | 
- | [klevernotes]({{< ref "/f43/package/klevernotes.md" >}}) | 684 | 962 | 71.1 | Sanskrit <kde-i18n-doc@kde.org> | 
- | [skanpage]({{< ref "/f43/package/skanpage.md" >}}) | 257 | 378 | 68.0 | Sanskrit <kde-i18n-doc@kde.org> | 
- | [plasma-bigscreen]({{< ref "/f43/package/plasma-bigscreen.md" >}}) | 113 | 201 | 56.2 | Sanskrit <kde-i18n-doc@kde.org> | 
- | [ktrip]({{< ref "/f43/package/ktrip.md" >}}) | 72 | 144 | 50.0 | Sanskrit <kde-i18n-doc@kde.org> | 
- | [kunifiedpush]({{< ref "/f43/package/kunifiedpush.md" >}}) | 90 | 180 | 50.0 | Sanskrit <kde-i18n-doc@kde.org> | 
- | [plasma-camera]({{< ref "/f43/package/plasma-camera.md" >}}) | 55 | 133 | 41.4 | Sanskrit <kde-i18n-doc@kde.org> | 
- | [haruna]({{< ref "/f43/package/haruna.md" >}}) | 962 | 2345 | 41.0 | Sanskrit <kde-i18n-doc@kde.org> | 
- | [inkscape]({{< ref "/f43/package/inkscape.md" >}}) | 16801 | 51528 | 32.6 | Hindi <Indlinux> | 
- | [angelfish]({{< ref "/f43/package/angelfish.md" >}}) | 238 | 769 | 30.9 | Sanskrit <kde-i18n-doc@kde.org> | 
- | [slick-greeter]({{< ref "/f43/package/slick-greeter.md" >}}) | 66 | 216 | 30.6 | Sanskrit <sa@li.org> | 
- | [koko]({{< ref "/f43/package/koko.md" >}}) | 174 | 577 | 30.2 | Sanskrit <kde-i18n-doc@kde.org> | 
- | [libreoffice]({{< ref "/f43/package/libreoffice.md" >}}) | 48868 | 178000 | 27.5 | LANGUAGE <LL@li.org> | 
- | [kpublictransport]({{< ref "/f43/package/kpublictransport.md" >}}) | 36 | 193 | 18.7 | Sanskrit <kde-i18n-doc@kde.org> | 
- | [dragon]({{< ref "/f43/package/dragon.md" >}}) | 14 | 170 | 8.2 | Sanskrit <kde-i18n-doc@kde.org> | 
- | [avogadro2]({{< ref "/f43/package/avogadro2.md" >}}) | 34 | 461 | 7.4 | Sanskrit <https://hosted.weblate.org/projects/avogadro/avogadroapp/sa/> | 
- | [elementary-calculator]({{< ref "/f43/package/elementary-calculator.md" >}}) | 2 | 174 | 1.1 | Sanskrit <https://weblate.elementary.io/projects/calculator/calculator/sa/> | 
- | [cinnamon-translations]({{< ref "/f43/package/cinnamon-translations.md" >}}) | 3 | 7533 | 0.0 | Sanskrit <sa@li.org> | 
- | [avogadro2-libs]({{< ref "/f43/package/avogadro2-libs.md" >}}) | 1 | 5676 | 0.0 | Sanskrit <https://hosted.weblate.org/projects/avogadro/avogadrolibs/sa/> | 
- | [bookworm]({{< ref "/f43/package/bookworm.md" >}}) | 0 | 795 | 0.0 |  | 
- | [dippi]({{< ref "/f43/package/dippi.md" >}}) | 0 | 1653 | 0.0 | none | 
- | [elementary-calendar]({{< ref "/f43/package/elementary-calendar.md" >}}) | 0 | 670 | 0.0 | LANGUAGE <LL@li.org> | 
- | [elementary-camera]({{< ref "/f43/package/elementary-camera.md" >}}) | 0 | 141 | 0.0 |  | 
- | [elementary-code]({{< ref "/f43/package/elementary-code.md" >}}) | 0 | 2228 | 0.0 | LANGUAGE <LL@li.org> | 
- | [elementary-files]({{< ref "/f43/package/elementary-files.md" >}}) | 0 | 2656 | 0.0 | LANGUAGE <LL@li.org> | 
- | [elementary-icon-theme]({{< ref "/f43/package/elementary-icon-theme.md" >}}) | 0 | 349 | 0.0 | none | 
- | [elementary-mail]({{< ref "/f43/package/elementary-mail.md" >}}) | 0 | 861 | 0.0 |  | 
- | [elementary-music]({{< ref "/f43/package/elementary-music.md" >}}) | 0 | 231 | 0.0 | LANGUAGE <LL@li.org> | 
- | [elementary-notifications]({{< ref "/f43/package/elementary-notifications.md" >}}) | 0 | 42 | 0.0 | none | 
- | [elementary-onboarding]({{< ref "/f43/package/elementary-onboarding.md" >}}) | 0 | 317 | 0.0 | none | 
- | [elementary-photos]({{< ref "/f43/package/elementary-photos.md" >}}) | 0 | 2862 | 0.0 | LANGUAGE <LL@li.org> | 
- | [elementary-screenshot]({{< ref "/f43/package/elementary-screenshot.md" >}}) | 0 | 128 | 0.0 | LANGUAGE <LL@li.org> | 
- | [elementary-settings-daemon]({{< ref "/f43/package/elementary-settings-daemon.md" >}}) | 0 | 303 | 0.0 | none | 
- | [gala]({{< ref "/f43/package/gala.md" >}}) | 0 | 319 | 0.0 | none | 
- | [granite]({{< ref "/f43/package/granite.md" >}}) | 0 | 498 | 0.0 |  | 
- | [granite-7]({{< ref "/f43/package/granite-7.md" >}}) | 0 | 596 | 0.0 |  | 
- | [kf6-knotifications]({{< ref "/f43/package/kf6-knotifications.md" >}}) | 0 | 0 | 0.0 | Sanskrit <kde-i18n-doc@kde.org> | 
- | [pyhoca-gui]({{< ref "/f43/package/pyhoca-gui.md" >}}) | 0 | 1865 | 0.0 | none | 
- | [python-django-mailman3]({{< ref "/f43/package/python-django-mailman3.md" >}}) | 0 | 467 | 0.0 | LANGUAGE <LL@li.org> | 
- | [python-hyperkitty]({{< ref "/f43/package/python-hyperkitty.md" >}}) | 0 | 937 | 0.0 | LANGUAGE <LL@li.org> | 
- | [python-postorius]({{< ref "/f43/package/python-postorius.md" >}}) | 0 | 5165 | 0.0 | LANGUAGE <LL@li.org> | 
- | [regextester]({{< ref "/f43/package/regextester.md" >}}) | 0 | 104 | 0.0 | none | 
- | [wingpanel]({{< ref "/f43/package/wingpanel.md" >}}) | 0 | 57 | 0.0 | none | 
- | [wingpanel-indicator-a11y]({{< ref "/f43/package/wingpanel-indicator-a11y.md" >}}) | 0 | 55 | 0.0 | none | 
- | [wingpanel-indicator-bluetooth]({{< ref "/f43/package/wingpanel-indicator-bluetooth.md" >}}) | 0 | 80 | 0.0 | none | 
- | [wingpanel-indicator-datetime]({{< ref "/f43/package/wingpanel-indicator-datetime.md" >}}) | 0 | 103 | 0.0 |  | 
- | [wingpanel-indicator-keyboard]({{< ref "/f43/package/wingpanel-indicator-keyboard.md" >}}) | 0 | 56 | 0.0 |  | 
+ | [accessibility-inspector](/f43/package/accessibility-inspector) | 197 | 197 | 100.0 | Sanskrit <kde-i18n-doc@kde.org> | 
+ | [akonadi-calendar-tools](/f43/package/akonadi-calendar-tools) | 760 | 760 | 100.0 | Sanskrit <kde-i18n-doc@kde.org> | 
+ | [akonadi-import-wizard](/f43/package/akonadi-import-wizard) | 394 | 394 | 100.0 | Sanskrit <kde-i18n-doc@kde.org> | 
+ | [akonadi-mime](/f43/package/akonadi-mime) | 581 | 581 | 100.0 | Sanskrit <kde-i18n-doc@kde.org> | 
+ | [akonadi-notes](/f43/package/akonadi-notes) | 2 | 2 | 100.0 | Sanskrit <kde-i18n-doc@kde.org> | 
+ | [akonadi-search](/f43/package/akonadi-search) | 67 | 67 | 100.0 | Sanskrit <kde-i18n-doc@kde.org> | 
+ | [analitza](/f43/package/analitza) | 999 | 999 | 100.0 | Sanskrit <kde-i18n-doc@kde.org> | 
+ | [atlantik](/f43/package/atlantik) | 566 | 566 | 100.0 | Sanskrit <kde-i18n-doc@kde.org> | 
+ | [audiocd-kio](/f43/package/audiocd-kio) | 905 | 905 | 100.0 | Sanskrit <kde-i18n-doc@kde.org> | 
+ | [blinken](/f43/package/blinken) | 134 | 134 | 100.0 | Sanskrit <kde-i18n-doc@kde.org> | 
+ | [bomber](/f43/package/bomber) | 110 | 110 | 100.0 | Sanskrit <kde-i18n-doc@kde.org> | 
+ | [bovo](/f43/package/bovo) | 82 | 82 | 100.0 | Sanskrit <kde-i18n-doc@kde.org> | 
+ | [calindori](/f43/package/calindori) | 550 | 550 | 100.0 | Sanskrit <kde-i18n-doc@kde.org> | 
+ | [colord-kde](/f43/package/colord-kde) | 282 | 282 | 100.0 | Sanskrit <kde-i18n-doc@kde.org> | 
+ | [francis](/f43/package/francis) | 78 | 78 | 100.0 | Sanskrit <kde-i18n-doc@kde.org> | 
+ | [gcompris-qt](/f43/package/gcompris-qt) | 36856 | 36856 | 100.0 | Sanskrit <kde-i18n-doc@kde.org> | 
+ | [ghostwriter](/f43/package/ghostwriter) | 1326 | 1326 | 100.0 | Sanskrit <kde-i18n-doc@kde.org> | 
+ | [granatier](/f43/package/granatier) | 243 | 243 | 100.0 | Sanskrit <kde-i18n-doc@kde.org> | 
+ | [grantlee-editor](/f43/package/grantlee-editor) | 532 | 532 | 100.0 | Sanskrit <kde-i18n-doc@kde.org> | 
+ | [grantleetheme](/f43/package/grantleetheme) | 14 | 14 | 100.0 | Sanskrit <kde-i18n-doc@kde.org> | 
+ | [k3b](/f43/package/k3b) | 20145 | 20145 | 100.0 | Sanskrit <kde-i18n-doc@kde.org> | 
+ | [kaccounts-integration](/f43/package/kaccounts-integration) | 150 | 150 | 100.0 | Sanskrit <kde-i18n-doc@kde.org> | 
+ | [kaccounts-providers](/f43/package/kaccounts-providers) | 77 | 77 | 100.0 | Sanskrit <kde-i18n-doc@kde.org> | 
+ | [kaddressbook](/f43/package/kaddressbook) | 1148 | 1148 | 100.0 | Sanskrit <kde-i18n-doc@kde.org> | 
+ | [kalm](/f43/package/kalm) | 555 | 555 | 100.0 | Sanskrit <kde-i18n-doc@kde.org> | 
+ | [kamera](/f43/package/kamera) | 272 | 272 | 100.0 | Sanskrit <kde-i18n-doc@kde.org> | 
+ | [kanagram](/f43/package/kanagram) | 527 | 527 | 100.0 | Sanskrit <kde-i18n-doc@kde.org> | 
+ | [kapman](/f43/package/kapman) | 115 | 115 | 100.0 | Sanskrit <kde-i18n-doc@kde.org> | 
+ | [kdesdk-kioslaves](/f43/package/kdesdk-kioslaves) | 84 | 84 | 100.0 | Sanskrit <kde-i18n-doc@kde.org> | 
+ | [kdevelop-php](/f43/package/kdevelop-php) | 535 | 535 | 100.0 | Sanskrit <kde-i18n-doc@kde.org> | 
+ | [kdialog](/f43/package/kdialog) | 403 | 403 | 100.0 | Sanskrit <kde-i18n-doc@kde.org> | 
+ | [kdiamond](/f43/package/kdiamond) | 124 | 124 | 100.0 | Sanskrit <kde-i18n-doc@kde.org> | 
+ | [keditbookmarks](/f43/package/keditbookmarks) | 470 | 470 | 100.0 | Sanskrit <kde-i18n-doc@kde.org> | 
+ | [kf6-baloo](/f43/package/kf6-baloo) | 869 | 869 | 100.0 | Sanskrit <kde-i18n-doc@kde.org> | 
+ | [kf6-kauth](/f43/package/kf6-kauth) | 73 | 73 | 100.0 | Sanskrit <kde-i18n-doc@kde.org> | 
+ | [kf6-kbookmarks](/f43/package/kf6-kbookmarks) | 179 | 179 | 100.0 | Sanskrit <kde-i18n-doc@kde.org> | 
+ | [kf6-kcodecs](/f43/package/kf6-kcodecs) | 370 | 370 | 100.0 | Sanskrit <kde-i18n-doc@kde.org> | 
+ | [kf6-kcolorscheme](/f43/package/kf6-kcolorscheme) | 1 | 1 | 100.0 | Sanskrit <kde-i18n-doc@kde.org> | 
+ | [kf6-kcompletion](/f43/package/kf6-kcompletion) | 18 | 18 | 100.0 | Sanskrit <kde-i18n-doc@kde.org> | 
+ | [kf6-kconfigwidgets](/f43/package/kf6-kconfigwidgets) | 312 | 312 | 100.0 | Sanskrit <kde-i18n-doc@kde.org> | 
+ | [kf6-kdav](/f43/package/kf6-kdav) | 185 | 185 | 100.0 | Sanskrit <kde-i18n-doc@kde.org> | 
+ | [kf6-kdbusaddons](/f43/package/kf6-kdbusaddons) | 48 | 48 | 100.0 | Sanskrit <kde-i18n-doc@kde.org> | 
+ | [kf6-kdeclarative](/f43/package/kf6-kdeclarative) | 169 | 169 | 100.0 | Sanskrit <kde-i18n-doc@kde.org> | 
+ | [kf6-kdesu](/f43/package/kf6-kdesu) | 19 | 19 | 100.0 | Sanskrit <kde-i18n-doc@kde.org> | 
+ | [kf6-kdnssd](/f43/package/kf6-kdnssd) | 3 | 3 | 100.0 | Sanskrit <kde-i18n-doc@kde.org> | 
+ | [kf6-kdoctools](/f43/package/kf6-kdoctools) | 8 | 8 | 100.0 | Sanskrit <kde-i18n-doc@kde.org> | 
+ | [kf6-kglobalaccel](/f43/package/kf6-kglobalaccel) | 34 | 34 | 100.0 | Sanskrit <kde-i18n-doc@kde.org> | 
+ | [kf6-kholidays](/f43/package/kf6-kholidays) | 150 | 150 | 100.0 | Sanskrit <kde-i18n-doc@kde.org> | 
+ | [kf6-ki18n](/f43/package/kf6-ki18n) | 124 | 124 | 100.0 | Sanskrit <kde-i18n-doc@kde.org> | 
+ | [kf6-kiconthemes](/f43/package/kf6-kiconthemes) | 46 | 46 | 100.0 | Sanskrit <kde-i18n-doc@kde.org> | 
+ | [kf6-kitemviews](/f43/package/kf6-kitemviews) | 6 | 6 | 100.0 | Sanskrit <kde-i18n-doc@kde.org> | 
+ | [kf6-knotifyconfig](/f43/package/kf6-knotifyconfig) | 19 | 19 | 100.0 | Sanskrit <kde-i18n-doc@kde.org> | 
+ | [kf6-kpackage](/f43/package/kf6-kpackage) | 338 | 338 | 100.0 | Sanskrit <kde-i18n-doc@kde.org> | 
+ | [kf6-kparts](/f43/package/kf6-kparts) | 57 | 57 | 100.0 | Sanskrit <kde-i18n-doc@kde.org> | 
+ | [kf6-kpeople](/f43/package/kf6-kpeople) | 15 | 15 | 100.0 | Sanskrit <kde-i18n-doc@kde.org> | 
+ | [kf6-kpty](/f43/package/kf6-kpty) | 15 | 15 | 100.0 | Sanskrit <kde-i18n-doc@kde.org> | 
+ | [kf6-kservice](/f43/package/kf6-kservice) | 45 | 45 | 100.0 | Sanskrit <kde-i18n-doc@kde.org> | 
+ | [kf6-kstatusnotifieritem](/f43/package/kf6-kstatusnotifieritem) | 3 | 3 | 100.0 | Sanskrit <kde-i18n-doc@kde.org> | 
+ | [kf6-ksvg](/f43/package/kf6-ksvg) | 4 | 4 | 100.0 | Sanskrit <kde-i18n-doc@kde.org> | 
+ | [kf6-ktextwidgets](/f43/package/kf6-ktextwidgets) | 473 | 473 | 100.0 | Sanskrit <kde-i18n-doc@kde.org> | 
+ | [kf6-kuserfeedback](/f43/package/kf6-kuserfeedback) | 1157 | 1157 | 100.0 | Sanskrit <kde-i18n-doc@kde.org> | 
+ | [kf6-kwidgetsaddons](/f43/package/kf6-kwidgetsaddons) | 1277 | 1277 | 100.0 | Sanskrit <kde-i18n-doc@kde.org> | 
+ | [kf6-kwindowsystem](/f43/package/kf6-kwindowsystem) | 2 | 2 | 100.0 | Sanskrit <kde-i18n-doc@kde.org> | 
+ | [kf6-purpose](/f43/package/kf6-purpose) | 319 | 319 | 100.0 | Sanskrit <kde-i18n-doc@kde.org> | 
+ | [kf6-qqc2-desktop-style](/f43/package/kf6-qqc2-desktop-style) | 22 | 22 | 100.0 | Sanskrit <kde-i18n-doc@kde.org> | 
+ | [kf6-sonnet](/f43/package/kf6-sonnet) | 684 | 684 | 100.0 | Sanskrit <kde-i18n-doc@kde.org> | 
+ | [kfind](/f43/package/kfind) | 517 | 517 | 100.0 | Sanskrit <kde-i18n-doc@kde.org> | 
+ | [kfourinline](/f43/package/kfourinline) | 384 | 384 | 100.0 | Sanskrit <kde-i18n-doc@kde.org> | 
+ | [kgeography](/f43/package/kgeography) | 10043 | 10043 | 100.0 | Sanskrit <kde-i18n-doc@kde.org> | 
+ | [kget](/f43/package/kget) | 2767 | 2767 | 100.0 | Sanskrit <kde-i18n-doc@kde.org> | 
+ | [kgoldrunner](/f43/package/kgoldrunner) | 28047 | 28047 | 100.0 | Sanskrit <kde-i18n-doc@kde.org> | 
+ | [kgpg](/f43/package/kgpg) | 4912 | 4912 | 100.0 | Sanskrit <kde-i18n-doc@kde.org> | 
+ | [khelpcenter](/f43/package/khelpcenter) | 221 | 221 | 100.0 | Sanskrit <kde-i18n-doc@kde.org> | 
+ | [kidentitymanagement](/f43/package/kidentitymanagement) | 260 | 260 | 100.0 | Sanskrit <kde-i18n-doc@kde.org> | 
+ | [kigo](/f43/package/kigo) | 508 | 508 | 100.0 | Sanskrit <kde-i18n-doc@kde.org> | 
+ | [killbots](/f43/package/killbots) | 637 | 637 | 100.0 | Sanskrit <kde-i18n-doc@kde.org> | 
+ | [kimagemapeditor](/f43/package/kimagemapeditor) | 620 | 620 | 100.0 | Sanskrit <kde-i18n-doc@kde.org> | 
+ | [kimap](/f43/package/kimap) | 118 | 118 | 100.0 | Sanskrit <kde-i18n-doc@kde.org> | 
+ | [kio-gdrive](/f43/package/kio-gdrive) | 78 | 78 | 100.0 | Sanskrit <kde-i18n-doc@kde.org> | 
+ | [kirigami-gallery](/f43/package/kirigami-gallery) | 982 | 982 | 100.0 | Sanskrit <kde-i18n-doc@kde.org> | 
+ | [kiriki](/f43/package/kiriki) | 145 | 145 | 100.0 | Sanskrit <kde-i18n-doc@kde.org> | 
+ | [kitinerary](/f43/package/kitinerary) | 108 | 108 | 100.0 | Sanskrit <kde-i18n-doc@kde.org> | 
+ | [kjumpingcube](/f43/package/kjumpingcube) | 413 | 413 | 100.0 | Sanskrit <kde-i18n-doc@kde.org> | 
+ | [kldap](/f43/package/kldap) | 215 | 215 | 100.0 | Sanskrit <kde-i18n-doc@kde.org> | 
+ | [klettres](/f43/package/klettres) | 440 | 440 | 100.0 | Sanskrit <kde-i18n-doc@kde.org> | 
+ | [klickety](/f43/package/klickety) | 178 | 178 | 100.0 | Sanskrit <kde-i18n-doc@kde.org> | 
+ | [klines](/f43/package/klines) | 99 | 99 | 100.0 | Sanskrit <kde-i18n-doc@kde.org> | 
+ | [kmag](/f43/package/kmag) | 432 | 432 | 100.0 | Sanskrit <kde-i18n-doc@kde.org> | 
+ | [kmahjongg](/f43/package/kmahjongg) | 359 | 359 | 100.0 | Sanskrit <kde-i18n-doc@kde.org> | 
+ | [kmime](/f43/package/kmime) | 152 | 152 | 100.0 | Sanskrit <kde-i18n-doc@kde.org> | 
+ | [kmines](/f43/package/kmines) | 164 | 164 | 100.0 | Sanskrit <kde-i18n-doc@kde.org> | 
+ | [kmix](/f43/package/kmix) | 1159 | 1159 | 100.0 | Sanskrit <kde-i18n-doc@kde.org> | 
+ | [kmousetool](/f43/package/kmousetool) | 147 | 147 | 100.0 | Sanskrit <kde-i18n-doc@kde.org> | 
+ | [kmouth](/f43/package/kmouth) | 1474 | 1474 | 100.0 | Sanskrit <kde-i18n-doc@kde.org> | 
+ | [kmplot](/f43/package/kmplot) | 2501 | 2501 | 100.0 | Sanskrit <kde-i18n-doc@kde.org> | 
+ | [knavalbattle](/f43/package/knavalbattle) | 401 | 401 | 100.0 | Sanskrit <kde-i18n-doc@kde.org> | 
+ | [knetwalk](/f43/package/knetwalk) | 236 | 236 | 100.0 | Sanskrit <kde-i18n-doc@kde.org> | 
+ | [knights](/f43/package/knights) | 797 | 797 | 100.0 | Sanskrit <kde-i18n-doc@kde.org> | 
+ | [kolf](/f43/package/kolf) | 405 | 405 | 100.0 | Sanskrit <kde-i18n-doc@kde.org> | 
+ | [kollision](/f43/package/kollision) | 109 | 109 | 100.0 | Sanskrit <kde-i18n-doc@kde.org> | 
+ | [kongress](/f43/package/kongress) | 176 | 176 | 100.0 | Sanskrit <kde-i18n-doc@kde.org> | 
+ | [konquest](/f43/package/konquest) | 248 | 248 | 100.0 | Sanskrit <kde-i18n-doc@kde.org> | 
+ | [kontactinterface](/f43/package/kontactinterface) | 4 | 4 | 100.0 | Sanskrit <kde-i18n-doc@kde.org> | 
+ | [kontrast](/f43/package/kontrast) | 327 | 327 | 100.0 | Sanskrit <kde-i18n-doc@kde.org> | 
+ | [kopeninghours](/f43/package/kopeninghours) | 160 | 160 | 100.0 | Sanskrit <kde-i18n-doc@kde.org> | 
+ | [kphotoalbum](/f43/package/kphotoalbum) | 9043 | 9043 | 100.0 | Sanskrit <kde-i18n-doc@kde.org> | 
+ | [kpimtextedit](/f43/package/kpimtextedit) | 274 | 274 | 100.0 | Sanskrit <kde-i18n-doc@kde.org> | 
+ | [kreversi](/f43/package/kreversi) | 404 | 404 | 100.0 | Sanskrit <kde-i18n-doc@kde.org> | 
+ | [krfb](/f43/package/krfb) | 734 | 734 | 100.0 | Sanskrit <kde-i18n-doc@kde.org> | 
+ | [kruler](/f43/package/kruler) | 158 | 158 | 100.0 | Sanskrit <kde-i18n-doc@kde.org> | 
+ | [ksanecore](/f43/package/ksanecore) | 59 | 59 | 100.0 | Sanskrit <kde-i18n-doc@kde.org> | 
+ | [kshisen](/f43/package/kshisen) | 667 | 667 | 100.0 | Sanskrit <kde-i18n-doc@kde.org> | 
+ | [ksirk](/f43/package/ksirk) | 4725 | 4725 | 100.0 | Sanskrit <kde-i18n-doc@kde.org> | 
+ | [ksmtp](/f43/package/ksmtp) | 86 | 86 | 100.0 | Sanskrit <kde-i18n-doc@kde.org> | 
+ | [ksnakeduel](/f43/package/ksnakeduel) | 243 | 243 | 100.0 | Sanskrit <kde-i18n-doc@kde.org> | 
+ | [kspaceduel](/f43/package/kspaceduel) | 165 | 165 | 100.0 | Sanskrit <kde-i18n-doc@kde.org> | 
+ | [ksquares](/f43/package/ksquares) | 293 | 293 | 100.0 | Sanskrit <kde-i18n-doc@kde.org> | 
+ | [ksystemlog](/f43/package/ksystemlog) | 3101 | 3101 | 100.0 | Sanskrit <kde-i18n-doc@kde.org> | 
+ | [kteatime](/f43/package/kteatime) | 203 | 203 | 100.0 | Sanskrit <kde-i18n-doc@kde.org> | 
+ | [ktimer](/f43/package/ktimer) | 258 | 258 | 100.0 | Sanskrit <kde-i18n-doc@kde.org> | 
+ | [ktnef](/f43/package/ktnef) | 355 | 355 | 100.0 | Sanskrit <kde-i18n-doc@kde.org> | 
+ | [ktuberling](/f43/package/ktuberling) | 158 | 158 | 100.0 | Sanskrit <kde-i18n-doc@kde.org> | 
+ | [kturtle](/f43/package/kturtle) | 1538 | 1538 | 100.0 | Sanskrit <kde-i18n-doc@kde.org> | 
+ | [kubrick](/f43/package/kubrick) | 1213 | 1213 | 100.0 | Sanskrit <kde-i18n-doc@kde.org> | 
+ | [libgravatar](/f43/package/libgravatar) | 25 | 25 | 100.0 | Sanskrit <kde-i18n-doc@kde.org> | 
+ | [libkdegames](/f43/package/libkdegames) | 316 | 316 | 100.0 | Sanskrit <kde-i18n-doc@kde.org> | 
+ | [libkdepim](/f43/package/libkdepim) | 36 | 36 | 100.0 | Sanskrit <kde-i18n-doc@kde.org> | 
+ | [libkeduvocdocument](/f43/package/libkeduvocdocument) | 171 | 171 | 100.0 | Sanskrit <kde-i18n-doc@kde.org> | 
+ | [libkgapi](/f43/package/libkgapi) | 378 | 378 | 100.0 | Sanskrit <kde-i18n-doc@kde.org> | 
+ | [libkmahjongg](/f43/package/libkmahjongg) | 11 | 11 | 100.0 | Sanskrit <kde-i18n-doc@kde.org> | 
+ | [libkomparediff2](/f43/package/libkomparediff2) | 143 | 143 | 100.0 | Sanskrit <kde-i18n-doc@kde.org> | 
+ | [libksane](/f43/package/libksane) | 284 | 284 | 100.0 | Sanskrit <kde-i18n-doc@kde.org> | 
+ | [libktorrent](/f43/package/libktorrent) | 465 | 465 | 100.0 | Sanskrit <kde-i18n-doc@kde.org> | 
+ | [lskat](/f43/package/lskat) | 266 | 266 | 100.0 | Sanskrit <kde-i18n-doc@kde.org> | 
+ | [mailimporter](/f43/package/mailimporter) | 1405 | 1405 | 100.0 | Sanskrit <kde-i18n-doc@kde.org> | 
+ | [markdownpart](/f43/package/markdownpart) | 23 | 23 | 100.0 | Sanskrit <kde-i18n-doc@kde.org> | 
+ | [massif-visualizer](/f43/package/massif-visualizer) | 360 | 360 | 100.0 | Sanskrit <kde-i18n-doc@kde.org> | 
+ | [mbox-importer](/f43/package/mbox-importer) | 40 | 40 | 100.0 | Sanskrit <kde-i18n-doc@kde.org> | 
+ | [palapeli](/f43/package/palapeli) | 1525 | 1525 | 100.0 | Sanskrit <kde-i18n-doc@kde.org> | 
+ | [parley](/f43/package/parley) | 3433 | 3433 | 100.0 | Sanskrit <kde-i18n-doc@kde.org> | 
+ | [picmi](/f43/package/picmi) | 202 | 202 | 100.0 | Sanskrit <kde-i18n-doc@kde.org> | 
+ | [pim-data-exporter](/f43/package/pim-data-exporter) | 794 | 794 | 100.0 | Sanskrit <kde-i18n-doc@kde.org> | 
+ | [plasma-pass](/f43/package/plasma-pass) | 22 | 22 | 100.0 | Sanskrit <kde-i18n-doc@kde.org> | 
+ | [skanlite](/f43/package/skanlite) | 186 | 186 | 100.0 | Sanskrit <kde-i18n-doc@kde.org> | 
+ | [svgpart](/f43/package/svgpart) | 3 | 3 | 100.0 | Sanskrit <kde-i18n-doc@kde.org> | 
+ | [sweeper](/f43/package/sweeper) | 228 | 228 | 100.0 | Sanskrit <kde-i18n-doc@kde.org> | 
+ | [vakzination](/f43/package/vakzination) | 147 | 147 | 100.0 | Sanskrit <kde-i18n-doc@kde.org> | 
+ | [yakuake](/f43/package/yakuake) | 1671 | 1671 | 100.0 | Sanskrit <kde-i18n-doc@kde.org> | 
+ | [zanshin](/f43/package/zanshin) | 495 | 495 | 100.0 | Sanskrit <kde-i18n-doc@kde.org> | 
+ | [calligra](/f43/package/calligra) | 30217 | 30218 | 100.0 | Sanskrit <kde-i18n-doc@kde.org> | 
+ | [marble](/f43/package/marble) | 11661 | 11664 | 100.0 | Sanskrit <kde-i18n-doc@kde.org> | 
+ | [calendarsupport](/f43/package/calendarsupport) | 2758 | 2759 | 100.0 | Sanskrit <kde-i18n-doc@kde.org> | 
+ | [libksieve](/f43/package/libksieve) | 3132 | 3134 | 99.9 | Sanskrit <kde-i18n-doc@kde.org> | 
+ | [akonadi-contacts](/f43/package/akonadi-contacts) | 1128 | 1129 | 99.9 | Sanskrit <kde-i18n-doc@kde.org> | 
+ | [cantor](/f43/package/cantor) | 3982 | 3987 | 99.9 | Sanskrit <kde-i18n-doc@kde.org> | 
+ | [kpat](/f43/package/kpat) | 588 | 589 | 99.8 | Sanskrit <kde-i18n-doc@kde.org> | 
+ | [khangman](/f43/package/khangman) | 449 | 450 | 99.8 | Sanskrit <kde-i18n-doc@kde.org> | 
+ | [kpmcore](/f43/package/kpmcore) | 3289 | 3297 | 99.8 | Sanskrit <kde-i18n-doc@kde.org> | 
+ | [messagelib](/f43/package/messagelib) | 7615 | 7634 | 99.8 | Sanskrit <kde-i18n-doc@kde.org> | 
+ | [mailcommon](/f43/package/mailcommon) | 2796 | 2803 | 99.8 | Sanskrit <kde-i18n-doc@kde.org> | 
+ | [akregator](/f43/package/akregator) | 1888 | 1893 | 99.7 | Sanskrit <kde-i18n-doc@kde.org> | 
+ | [kwalletmanager5](/f43/package/kwalletmanager5) | 825 | 828 | 99.6 | Sanskrit <kde-i18n-doc@kde.org> | 
+ | [kf6-kwallet](/f43/package/kf6-kwallet) | 1180 | 1185 | 99.6 | Sanskrit <kde-i18n-doc@kde.org> | 
+ | [kf6-solid](/f43/package/kf6-solid) | 602 | 605 | 99.5 | Sanskrit <kde-i18n-doc@kde.org> | 
+ | [kf6-ktexteditor](/f43/package/kf6-ktexteditor) | 9407 | 9463 | 99.4 | Sanskrit <kde-i18n-doc@kde.org> | 
+ | [akonadiconsole](/f43/package/akonadiconsole) | 772 | 777 | 99.4 | Sanskrit <kde-i18n-doc@kde.org> | 
+ | [konversation](/f43/package/konversation) | 10327 | 10405 | 99.3 | Sanskrit <kde-i18n-doc@kde.org> | 
+ | [kajongg](/f43/package/kajongg) | 2480 | 2499 | 99.2 | Sanskrit <kde-i18n-doc@kde.org> | 
+ | [krecorder](/f43/package/krecorder) | 127 | 128 | 99.2 | Sanskrit <kde-i18n-doc@kde.org> | 
+ | [isoimagewriter](/f43/package/isoimagewriter) | 452 | 456 | 99.1 | Sanskrit <kde-i18n-doc@kde.org> | 
+ | [kf6-kconfig](/f43/package/kf6-kconfig) | 545 | 550 | 99.1 | Sanskrit <kde-i18n-doc@kde.org> | 
+ | [kmail](/f43/package/kmail) | 9056 | 9140 | 99.1 | Sanskrit <kde-i18n-doc@kde.org> | 
+ | [kolourpaint](/f43/package/kolourpaint) | 2635 | 2661 | 99.0 | Sanskrit <kde-i18n-doc@kde.org> | 
+ | [kf6-kcmutils](/f43/package/kf6-kcmutils) | 198 | 200 | 99.0 | Sanskrit <kde-i18n-doc@kde.org> | 
+ | [kosmindoormap](/f43/package/kosmindoormap) | 616 | 623 | 98.9 | Sanskrit <kde-i18n-doc@kde.org> | 
+ | [akonadi-calendar](/f43/package/akonadi-calendar) | 2353 | 2380 | 98.9 | Sanskrit <kde-i18n-doc@kde.org> | 
+ | [kalarm](/f43/package/kalarm) | 8442 | 8539 | 98.9 | Sanskrit <kde-i18n-doc@kde.org> | 
+ | [kf6-kunitconversion](/f43/package/kf6-kunitconversion) | 5825 | 5894 | 98.8 | Sanskrit <kde-i18n-doc@kde.org> | 
+ | [kio-extras](/f43/package/kio-extras) | 2893 | 2928 | 98.8 | Sanskrit <kde-i18n-doc@kde.org> | 
+ | [lokalize](/f43/package/lokalize) | 4037 | 4086 | 98.8 | Sanskrit <kde-i18n-doc@kde.org> | 
+ | [skladnik](/f43/package/skladnik) | 152 | 154 | 98.7 | Sanskrit <kde-i18n-doc@kde.org> | 
+ | [gwenview](/f43/package/gwenview) | 2063 | 2091 | 98.7 | Sanskrit <kde-i18n-doc@kde.org> | 
+ | [libkleo](/f43/package/libkleo) | 2992 | 3034 | 98.6 | Sanskrit <kde-i18n-doc@kde.org> | 
+ | [kgraphviewer](/f43/package/kgraphviewer) | 1176 | 1193 | 98.6 | Sanskrit <kde-i18n-doc@kde.org> | 
+ | [kwordquiz](/f43/package/kwordquiz) | 254 | 258 | 98.4 | Sanskrit <kde-i18n-doc@kde.org> | 
+ | [kwave](/f43/package/kwave) | 5730 | 5821 | 98.4 | Sanskrit <kde-i18n-doc@kde.org> | 
+ | [ktextaddons](/f43/package/ktextaddons) | 1054 | 1071 | 98.4 | Sanskrit <kde-i18n-doc@kde.org> | 
+ | [kweathercore](/f43/package/kweathercore) | 120 | 122 | 98.4 | Sanskrit <kde-i18n-doc@kde.org> | 
+ | [kdf](/f43/package/kdf) | 174 | 177 | 98.3 | Sanskrit <kde-i18n-doc@kde.org> | 
+ | [ark](/f43/package/ark) | 1947 | 1982 | 98.2 | Sanskrit <kde-i18n-doc@kde.org> | 
+ | [falkon](/f43/package/falkon) | 4764 | 4853 | 98.2 | Sanskrit <kde-i18n-doc@kde.org> | 
+ | [kf6-kxmlgui](/f43/package/kf6-kxmlgui) | 1265 | 1289 | 98.1 | Sanskrit <kde-i18n-doc@kde.org> | 
+ | [pimcommon](/f43/package/pimcommon) | 866 | 884 | 98.0 | Sanskrit <kde-i18n-doc@kde.org> | 
+ | [konqueror](/f43/package/konqueror) | 8690 | 8873 | 97.9 | Sanskrit <kde-i18n-doc@kde.org> | 
+ | [kf6-kjobwidgets](/f43/package/kf6-kjobwidgets) | 136 | 139 | 97.8 | Sanskrit <kde-i18n-doc@kde.org> | 
+ | [kalgebra](/f43/package/kalgebra) | 270 | 276 | 97.8 | Sanskrit <kde-i18n-doc@kde.org> | 
+ | [dolphin-plugins](/f43/package/dolphin-plugins) | 1571 | 1607 | 97.8 | Sanskrit <kde-i18n-doc@kde.org> | 
+ | [kmailtransport](/f43/package/kmailtransport) | 654 | 669 | 97.8 | Sanskrit <kde-i18n-doc@kde.org> | 
+ | [kf6-kcontacts](/f43/package/kf6-kcontacts) | 168 | 172 | 97.7 | Sanskrit <kde-i18n-doc@kde.org> | 
+ | [pim-sieve-editor](/f43/package/pim-sieve-editor) | 459 | 470 | 97.7 | Sanskrit <kde-i18n-doc@kde.org> | 
+ | [kdevelop](/f43/package/kdevelop) | 15537 | 15918 | 97.6 | Sanskrit <kde-i18n-doc@kde.org> | 
+ | [ktorrent](/f43/package/ktorrent) | 7321 | 7525 | 97.3 | Sanskrit <kde-i18n-doc@kde.org> | 
+ | [akonadi-server](/f43/package/akonadi-server) | 2975 | 3062 | 97.2 | Sanskrit <kde-i18n-doc@kde.org> | 
+ | [konsole](/f43/package/konsole) | 4158 | 4282 | 97.1 | Sanskrit <kde-i18n-doc@kde.org> | 
+ | [kiten](/f43/package/kiten) | 632 | 651 | 97.1 | Sanskrit <kde-i18n-doc@kde.org> | 
+ | [kalk](/f43/package/kalk) | 66 | 68 | 97.1 | Sanskrit <kde-i18n-doc@kde.org> | 
+ | [qmlkonsole](/f43/package/qmlkonsole) | 161 | 166 | 97.0 | Sanskrit <kde-i18n-doc@kde.org> | 
+ | [kasts](/f43/package/kasts) | 1319 | 1362 | 96.8 | Sanskrit <kde-i18n-doc@kde.org> | 
+ | [alligator](/f43/package/alligator) | 184 | 190 | 96.8 | Sanskrit <kde-i18n-doc@kde.org> | 
+ | [kmail-account-wizard](/f43/package/kmail-account-wizard) | 272 | 281 | 96.8 | Sanskrit <kde-i18n-doc@kde.org> | 
+ | [kf6-kfilemetadata](/f43/package/kf6-kfilemetadata) | 299 | 309 | 96.8 | Sanskrit <kde-i18n-doc@kde.org> | 
+ | [incidenceeditor](/f43/package/incidenceeditor) | 2197 | 2280 | 96.4 | Sanskrit <kde-i18n-doc@kde.org> | 
+ | [keysmith](/f43/package/keysmith) | 292 | 304 | 96.1 | Sanskrit <kde-i18n-doc@kde.org> | 
+ | [krdc](/f43/package/krdc) | 1155 | 1205 | 95.9 | Sanskrit <kde-i18n-doc@kde.org> | 
+ | [plasmatube](/f43/package/plasmatube) | 495 | 517 | 95.7 | Sanskrit <kde-i18n-doc@kde.org> | 
+ | [kleopatra](/f43/package/kleopatra) | 12632 | 13218 | 95.6 | Sanskrit <kde-i18n-doc@kde.org> | 
+ | [elisa-player](/f43/package/elisa-player) | 785 | 822 | 95.5 | Sanskrit <kde-i18n-doc@kde.org> | 
+ | [kf6-knewstuff](/f43/package/kf6-knewstuff) | 987 | 1034 | 95.5 | Sanskrit <kde-i18n-doc@kde.org> | 
+ | [kompare](/f43/package/kompare) | 1345 | 1413 | 95.2 | Sanskrit <kde-i18n-doc@kde.org> | 
+ | [arianna](/f43/package/arianna) | 166 | 175 | 94.9 | Sanskrit <kde-i18n-doc@kde.org> | 
+ | [kf6-syntax-highlighting](/f43/package/kf6-syntax-highlighting) | 695 | 735 | 94.6 | Sanskrit <kde-i18n-doc@kde.org> | 
+ | [filelight](/f43/package/filelight) | 268 | 284 | 94.4 | Sanskrit <kde-i18n-doc@kde.org> | 
+ | [mimetreeparser](/f43/package/mimetreeparser) | 267 | 283 | 94.3 | Sanskrit <kde-i18n-doc@kde.org> | 
+ | [okular](/f43/package/okular) | 5571 | 5919 | 94.1 | Sanskrit <kde-i18n-doc@kde.org> | 
+ | [audiotube](/f43/package/audiotube) | 222 | 236 | 94.1 | Sanskrit <kde-i18n-doc@kde.org> | 
+ | [kf6-kio](/f43/package/kf6-kio) | 8076 | 8607 | 93.8 | Sanskrit <kde-i18n-doc@kde.org> | 
+ | [kf6-kirigami-addons](/f43/package/kf6-kirigami-addons) | 650 | 693 | 93.8 | Sanskrit <kde-i18n-doc@kde.org> | 
+ | [kate](/f43/package/kate) | 8174 | 8843 | 92.4 | Sanskrit <kde-i18n-doc@kde.org> | 
+ | [audex](/f43/package/audex) | 2349 | 2542 | 92.4 | Sanskrit <kde-i18n-doc@kde.org> | 
+ | [ksudoku](/f43/package/ksudoku) | 1663 | 1849 | 89.9 | Sanskrit <kde-i18n-doc@kde.org> | 
+ | [kf6-kirigami](/f43/package/kf6-kirigami) | 84 | 94 | 89.4 | Sanskrit <kde-i18n-doc@kde.org> | 
+ | [eventviews](/f43/package/eventviews) | 3131 | 3564 | 87.9 | Sanskrit <kde-i18n-doc@kde.org> | 
+ | [kontact](/f43/package/kontact) | 434 | 495 | 87.7 | Sanskrit <kde-i18n-doc@kde.org> | 
+ | [kf6-karchive](/f43/package/kf6-karchive) | 469 | 540 | 86.9 | Sanskrit <kde-i18n-doc@kde.org> | 
+ | [dolphin](/f43/package/dolphin) | 5987 | 6943 | 86.2 | Sanskrit <kde-i18n-doc@kde.org> | 
+ | [itinerary](/f43/package/itinerary) | 2432 | 2821 | 86.2 | Sanskrit <kde-i18n-doc@kde.org> | 
+ | [kapptemplate](/f43/package/kapptemplate) | 193 | 226 | 85.4 | Sanskrit <kde-i18n-doc@kde.org> | 
+ | [kf6-kcoreaddons](/f43/package/kf6-kcoreaddons) | 408 | 485 | 84.1 | Sanskrit <kde-i18n-doc@kde.org> | 
+ | [merkuro](/f43/package/merkuro) | 1635 | 1956 | 83.6 | Sanskrit <kde-i18n-doc@kde.org> | 
+ | [baloo-widgets](/f43/package/baloo-widgets) | 55 | 70 | 78.6 | Sanskrit <kde-i18n-doc@kde.org> | 
+ | [kjournald](/f43/package/kjournald) | 101 | 130 | 77.7 | Sanskrit <kde-i18n-doc@kde.org> | 
+ | [neochat](/f43/package/neochat) | 3531 | 4815 | 73.3 | Sanskrit <kde-i18n-doc@kde.org> | 
+ | [korganizer](/f43/package/korganizer) | 5826 | 8057 | 72.3 | Sanskrit <kde-i18n-doc@kde.org> | 
+ | [juk](/f43/package/juk) | 1043 | 1452 | 71.8 | Sanskrit <kde-i18n-doc@kde.org> | 
+ | [qrca](/f43/package/qrca) | 99 | 138 | 71.7 | Sanskrit <kde-i18n-doc@kde.org> | 
+ | [plasma-settings](/f43/package/plasma-settings) | 63 | 88 | 71.6 | Sanskrit <kde-i18n-doc@kde.org> | 
+ | [kweather](/f43/package/kweather) | 153 | 215 | 71.2 | Sanskrit <kde-i18n-doc@kde.org> | 
+ | [klevernotes](/f43/package/klevernotes) | 684 | 962 | 71.1 | Sanskrit <kde-i18n-doc@kde.org> | 
+ | [skanpage](/f43/package/skanpage) | 257 | 378 | 68.0 | Sanskrit <kde-i18n-doc@kde.org> | 
+ | [plasma-bigscreen](/f43/package/plasma-bigscreen) | 113 | 201 | 56.2 | Sanskrit <kde-i18n-doc@kde.org> | 
+ | [ktrip](/f43/package/ktrip) | 72 | 144 | 50.0 | Sanskrit <kde-i18n-doc@kde.org> | 
+ | [kunifiedpush](/f43/package/kunifiedpush) | 90 | 180 | 50.0 | Sanskrit <kde-i18n-doc@kde.org> | 
+ | [plasma-camera](/f43/package/plasma-camera) | 55 | 133 | 41.4 | Sanskrit <kde-i18n-doc@kde.org> | 
+ | [haruna](/f43/package/haruna) | 962 | 2345 | 41.0 | Sanskrit <kde-i18n-doc@kde.org> | 
+ | [inkscape](/f43/package/inkscape) | 16801 | 51528 | 32.6 | Hindi <Indlinux> | 
+ | [angelfish](/f43/package/angelfish) | 238 | 769 | 30.9 | Sanskrit <kde-i18n-doc@kde.org> | 
+ | [slick-greeter](/f43/package/slick-greeter) | 66 | 216 | 30.6 | Sanskrit <sa@li.org> | 
+ | [koko](/f43/package/koko) | 174 | 577 | 30.2 | Sanskrit <kde-i18n-doc@kde.org> | 
+ | [libreoffice](/f43/package/libreoffice) | 48868 | 178000 | 27.5 | LANGUAGE <LL@li.org> | 
+ | [kpublictransport](/f43/package/kpublictransport) | 36 | 193 | 18.7 | Sanskrit <kde-i18n-doc@kde.org> | 
+ | [dragon](/f43/package/dragon) | 14 | 170 | 8.2 | Sanskrit <kde-i18n-doc@kde.org> | 
+ | [avogadro2](/f43/package/avogadro2) | 34 | 461 | 7.4 | Sanskrit <https://hosted.weblate.org/projects/avogadro/avogadroapp/sa/> | 
+ | [elementary-calculator](/f43/package/elementary-calculator) | 2 | 174 | 1.1 | Sanskrit <https://weblate.elementary.io/projects/calculator/calculator/sa/> | 
+ | [cinnamon-translations](/f43/package/cinnamon-translations) | 3 | 7533 | 0.0 | Sanskrit <sa@li.org> | 
+ | [avogadro2-libs](/f43/package/avogadro2-libs) | 1 | 5676 | 0.0 | Sanskrit <https://hosted.weblate.org/projects/avogadro/avogadrolibs/sa/> | 
+ | [bookworm](/f43/package/bookworm) | 0 | 795 | 0.0 |  | 
+ | [dippi](/f43/package/dippi) | 0 | 1653 | 0.0 | none | 
+ | [elementary-calendar](/f43/package/elementary-calendar) | 0 | 670 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [elementary-camera](/f43/package/elementary-camera) | 0 | 141 | 0.0 |  | 
+ | [elementary-code](/f43/package/elementary-code) | 0 | 2228 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [elementary-files](/f43/package/elementary-files) | 0 | 2656 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [elementary-icon-theme](/f43/package/elementary-icon-theme) | 0 | 349 | 0.0 | none | 
+ | [elementary-mail](/f43/package/elementary-mail) | 0 | 861 | 0.0 |  | 
+ | [elementary-music](/f43/package/elementary-music) | 0 | 231 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [elementary-notifications](/f43/package/elementary-notifications) | 0 | 42 | 0.0 | none | 
+ | [elementary-onboarding](/f43/package/elementary-onboarding) | 0 | 317 | 0.0 | none | 
+ | [elementary-photos](/f43/package/elementary-photos) | 0 | 2862 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [elementary-screenshot](/f43/package/elementary-screenshot) | 0 | 128 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [elementary-settings-daemon](/f43/package/elementary-settings-daemon) | 0 | 303 | 0.0 | none | 
+ | [gala](/f43/package/gala) | 0 | 319 | 0.0 | none | 
+ | [granite](/f43/package/granite) | 0 | 498 | 0.0 |  | 
+ | [granite-7](/f43/package/granite-7) | 0 | 596 | 0.0 |  | 
+ | [kf6-knotifications](/f43/package/kf6-knotifications) | 0 | 0 | 0.0 | Sanskrit <kde-i18n-doc@kde.org> | 
+ | [pyhoca-gui](/f43/package/pyhoca-gui) | 0 | 1865 | 0.0 | none | 
+ | [python-django-mailman3](/f43/package/python-django-mailman3) | 0 | 467 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [python-hyperkitty](/f43/package/python-hyperkitty) | 0 | 937 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [python-postorius](/f43/package/python-postorius) | 0 | 5165 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [regextester](/f43/package/regextester) | 0 | 104 | 0.0 | none | 
+ | [wingpanel](/f43/package/wingpanel) | 0 | 57 | 0.0 | none | 
+ | [wingpanel-indicator-a11y](/f43/package/wingpanel-indicator-a11y) | 0 | 55 | 0.0 | none | 
+ | [wingpanel-indicator-bluetooth](/f43/package/wingpanel-indicator-bluetooth) | 0 | 80 | 0.0 | none | 
+ | [wingpanel-indicator-datetime](/f43/package/wingpanel-indicator-datetime) | 0 | 103 | 0.0 |  | 
+ | [wingpanel-indicator-keyboard](/f43/package/wingpanel-indicator-keyboard) | 0 | 56 | 0.0 |  | 
 {.sortable}
 
 

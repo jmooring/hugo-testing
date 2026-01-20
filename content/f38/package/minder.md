@@ -18,18 +18,18 @@ The package minder (version 1.16.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [eu]({{< ref "/f38/language/eu.md" >}}) | 1423 | 1423 | 100.0 | /mnt/stockage/packages/f38/minder/po/eu.po | 
- | [it]({{< ref "/f38/language/it.md" >}}) | 2343 | 2349 | 99.7 | /mnt/stockage/packages/f38/minder/po/it.po | 
- | [de]({{< ref "/f38/language/de.md" >}}) | 2319 | 2349 | 98.7 | /mnt/stockage/packages/f38/minder/po/de.po | 
- | [zh_Hans]({{< ref "/f38/language/zh_Hans.md" >}}) | 2260 | 2349 | 96.2 | /mnt/stockage/packages/f38/minder/po/zh_CN.po | 
- | [pt]({{< ref "/f38/language/pt.md" >}}) | 3569 | 7392 | 48.3 | /mnt/stockage/packages/f38/minder/po/pt.po/mnt/stockage/packages/f38/minder/po/extra/pt.po | 
- | [ru]({{< ref "/f38/language/ru.md" >}}) | 3167 | 7392 | 42.8 | /mnt/stockage/packages/f38/minder/po/ru.po/mnt/stockage/packages/f38/minder/po/extra/ru.po | 
- | [cs]({{< ref "/f38/language/cs.md" >}}) | 2066 | 7392 | 27.9 | /mnt/stockage/packages/f38/minder/po/cs.po/mnt/stockage/packages/f38/minder/po/extra/cs.po | 
- | [fr]({{< ref "/f38/language/fr.md" >}}) | 1944 | 7392 | 26.3 | /mnt/stockage/packages/f38/minder/po/fr.po/mnt/stockage/packages/f38/minder/po/extra/fr.po | 
- | [nl]({{< ref "/f38/language/nl.md" >}}) | 500 | 2349 | 21.3 | /mnt/stockage/packages/f38/minder/po/nl.po | 
- | [pl]({{< ref "/f38/language/pl.md" >}}) | 1021 | 7392 | 13.8 | /mnt/stockage/packages/f38/minder/po/pl.po/mnt/stockage/packages/f38/minder/po/extra/pl.po | 
- | [pt_BR]({{< ref "/f38/language/pt_BR.md" >}}) | 826 | 7392 | 11.2 | /mnt/stockage/packages/f38/minder/po/pt_BR.po/mnt/stockage/packages/f38/minder/po/extra/pt_BR.po | 
- | [es]({{< ref "/f38/language/es.md" >}}) | 568 | 7392 | 7.7 | /mnt/stockage/packages/f38/minder/po/es.po/mnt/stockage/packages/f38/minder/po/extra/es.po | 
+ | [eu](/f38/language/eu) | 1423 | 1423 | 100.0 | /mnt/stockage/packages/f38/minder/po/eu.po | 
+ | [it](/f38/language/it) | 2343 | 2349 | 99.7 | /mnt/stockage/packages/f38/minder/po/it.po | 
+ | [de](/f38/language/de) | 2319 | 2349 | 98.7 | /mnt/stockage/packages/f38/minder/po/de.po | 
+ | [zh_Hans](/f38/language/zh_Hans) | 2260 | 2349 | 96.2 | /mnt/stockage/packages/f38/minder/po/zh_CN.po | 
+ | [pt](/f38/language/pt) | 3569 | 7392 | 48.3 | /mnt/stockage/packages/f38/minder/po/pt.po/mnt/stockage/packages/f38/minder/po/extra/pt.po | 
+ | [ru](/f38/language/ru) | 3167 | 7392 | 42.8 | /mnt/stockage/packages/f38/minder/po/ru.po/mnt/stockage/packages/f38/minder/po/extra/ru.po | 
+ | [cs](/f38/language/cs) | 2066 | 7392 | 27.9 | /mnt/stockage/packages/f38/minder/po/cs.po/mnt/stockage/packages/f38/minder/po/extra/cs.po | 
+ | [fr](/f38/language/fr) | 1944 | 7392 | 26.3 | /mnt/stockage/packages/f38/minder/po/fr.po/mnt/stockage/packages/f38/minder/po/extra/fr.po | 
+ | [nl](/f38/language/nl) | 500 | 2349 | 21.3 | /mnt/stockage/packages/f38/minder/po/nl.po | 
+ | [pl](/f38/language/pl) | 1021 | 7392 | 13.8 | /mnt/stockage/packages/f38/minder/po/pl.po/mnt/stockage/packages/f38/minder/po/extra/pl.po | 
+ | [pt_BR](/f38/language/pt_BR) | 826 | 7392 | 11.2 | /mnt/stockage/packages/f38/minder/po/pt_BR.po/mnt/stockage/packages/f38/minder/po/extra/pt_BR.po | 
+ | [es](/f38/language/es) | 568 | 7392 | 7.7 | /mnt/stockage/packages/f38/minder/po/es.po/mnt/stockage/packages/f38/minder/po/extra/es.po | 
 {.sortable}
 
 

@@ -18,39 +18,39 @@ The package skanpage (version 23.04.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f37/language/ar.md" >}}) | 244 | 244 | 100.0 | /mnt/stockage/packages/f37/skanpage/po/ar/skanpage.po | 
- | [be]({{< ref "/f37/language/be.md" >}}) | 244 | 244 | 100.0 | /mnt/stockage/packages/f37/skanpage/po/be/skanpage.po | 
- | [bg]({{< ref "/f37/language/bg.md" >}}) | 244 | 244 | 100.0 | /mnt/stockage/packages/f37/skanpage/po/bg/skanpage.po | 
- | [ca]({{< ref "/f37/language/ca.md" >}}) | 244 | 244 | 100.0 | /mnt/stockage/packages/f37/skanpage/po/ca/skanpage.po | 
- | [ca@valencia]({{< ref "/f37/language/ca@valencia.md" >}}) | 244 | 244 | 100.0 | /mnt/stockage/packages/f37/skanpage/po/ca@valencia/skanpage.po | 
- | [cs]({{< ref "/f37/language/cs.md" >}}) | 244 | 244 | 100.0 | /mnt/stockage/packages/f37/skanpage/po/cs/skanpage.po | 
- | [de]({{< ref "/f37/language/de.md" >}}) | 244 | 244 | 100.0 | /mnt/stockage/packages/f37/skanpage/po/de/skanpage.po | 
- | [en_GB]({{< ref "/f37/language/en_GB.md" >}}) | 244 | 244 | 100.0 | /mnt/stockage/packages/f37/skanpage/po/en_GB/skanpage.po | 
- | [es]({{< ref "/f37/language/es.md" >}}) | 244 | 244 | 100.0 | /mnt/stockage/packages/f37/skanpage/po/es/skanpage.po | 
- | [eu]({{< ref "/f37/language/eu.md" >}}) | 244 | 244 | 100.0 | /mnt/stockage/packages/f37/skanpage/po/eu/skanpage.po | 
- | [fi]({{< ref "/f37/language/fi.md" >}}) | 244 | 244 | 100.0 | /mnt/stockage/packages/f37/skanpage/po/fi/skanpage.po | 
- | [fr]({{< ref "/f37/language/fr.md" >}}) | 244 | 244 | 100.0 | /mnt/stockage/packages/f37/skanpage/po/fr/skanpage.po | 
- | [ia]({{< ref "/f37/language/ia.md" >}}) | 244 | 244 | 100.0 | /mnt/stockage/packages/f37/skanpage/po/ia/skanpage.po | 
- | [is]({{< ref "/f37/language/is.md" >}}) | 244 | 244 | 100.0 | /mnt/stockage/packages/f37/skanpage/po/is/skanpage.po | 
- | [it]({{< ref "/f37/language/it.md" >}}) | 244 | 244 | 100.0 | /mnt/stockage/packages/f37/skanpage/po/it/skanpage.po | 
- | [ka]({{< ref "/f37/language/ka.md" >}}) | 244 | 244 | 100.0 | /mnt/stockage/packages/f37/skanpage/po/ka/skanpage.po | 
- | [ko]({{< ref "/f37/language/ko.md" >}}) | 244 | 244 | 100.0 | /mnt/stockage/packages/f37/skanpage/po/ko/skanpage.po | 
- | [nl]({{< ref "/f37/language/nl.md" >}}) | 244 | 244 | 100.0 | /mnt/stockage/packages/f37/skanpage/po/nl/skanpage.po | 
- | [pl]({{< ref "/f37/language/pl.md" >}}) | 244 | 244 | 100.0 | /mnt/stockage/packages/f37/skanpage/po/pl/skanpage.po | 
- | [pt]({{< ref "/f37/language/pt.md" >}}) | 244 | 244 | 100.0 | /mnt/stockage/packages/f37/skanpage/po/pt/skanpage.po | 
- | [pt_BR]({{< ref "/f37/language/pt_BR.md" >}}) | 244 | 244 | 100.0 | /mnt/stockage/packages/f37/skanpage/po/pt_BR/skanpage.po | 
- | [ru]({{< ref "/f37/language/ru.md" >}}) | 244 | 244 | 100.0 | /mnt/stockage/packages/f37/skanpage/po/ru/skanpage.po | 
- | [sl]({{< ref "/f37/language/sl.md" >}}) | 244 | 244 | 100.0 | /mnt/stockage/packages/f37/skanpage/po/sl/skanpage.po | 
- | [sv]({{< ref "/f37/language/sv.md" >}}) | 244 | 244 | 100.0 | /mnt/stockage/packages/f37/skanpage/po/sv/skanpage.po | 
- | [tr]({{< ref "/f37/language/tr.md" >}}) | 244 | 244 | 100.0 | /mnt/stockage/packages/f37/skanpage/po/tr/skanpage.po | 
- | [uk]({{< ref "/f37/language/uk.md" >}}) | 244 | 244 | 100.0 | /mnt/stockage/packages/f37/skanpage/po/uk/skanpage.po | 
- | [zh_Hans]({{< ref "/f37/language/zh_Hans.md" >}}) | 244 | 244 | 100.0 | /mnt/stockage/packages/f37/skanpage/po/zh_CN/skanpage.po | 
- | [zh_Hant]({{< ref "/f37/language/zh_Hant.md" >}}) | 244 | 244 | 100.0 | /mnt/stockage/packages/f37/skanpage/po/zh_TW/skanpage.po | 
- | [id]({{< ref "/f37/language/id.md" >}}) | 163 | 244 | 66.8 | /mnt/stockage/packages/f37/skanpage/po/id/skanpage.po | 
- | [sk]({{< ref "/f37/language/sk.md" >}}) | 123 | 244 | 50.4 | /mnt/stockage/packages/f37/skanpage/po/sk/skanpage.po | 
- | [el]({{< ref "/f37/language/el.md" >}}) | 116 | 244 | 47.5 | /mnt/stockage/packages/f37/skanpage/po/el/skanpage.po | 
- | [ja]({{< ref "/f37/language/ja.md" >}}) | 0 | 244 | 0.0 | /mnt/stockage/packages/f37/skanpage/po/ja/skanpage.po | 
- | [lt]({{< ref "/f37/language/lt.md" >}}) | 0 | 244 | 0.0 | /mnt/stockage/packages/f37/skanpage/po/lt/skanpage.po | 
+ | [ar](/f37/language/ar) | 244 | 244 | 100.0 | /mnt/stockage/packages/f37/skanpage/po/ar/skanpage.po | 
+ | [be](/f37/language/be) | 244 | 244 | 100.0 | /mnt/stockage/packages/f37/skanpage/po/be/skanpage.po | 
+ | [bg](/f37/language/bg) | 244 | 244 | 100.0 | /mnt/stockage/packages/f37/skanpage/po/bg/skanpage.po | 
+ | [ca](/f37/language/ca) | 244 | 244 | 100.0 | /mnt/stockage/packages/f37/skanpage/po/ca/skanpage.po | 
+ | [ca@valencia](/f37/language/ca@valencia) | 244 | 244 | 100.0 | /mnt/stockage/packages/f37/skanpage/po/ca@valencia/skanpage.po | 
+ | [cs](/f37/language/cs) | 244 | 244 | 100.0 | /mnt/stockage/packages/f37/skanpage/po/cs/skanpage.po | 
+ | [de](/f37/language/de) | 244 | 244 | 100.0 | /mnt/stockage/packages/f37/skanpage/po/de/skanpage.po | 
+ | [en_GB](/f37/language/en_GB) | 244 | 244 | 100.0 | /mnt/stockage/packages/f37/skanpage/po/en_GB/skanpage.po | 
+ | [es](/f37/language/es) | 244 | 244 | 100.0 | /mnt/stockage/packages/f37/skanpage/po/es/skanpage.po | 
+ | [eu](/f37/language/eu) | 244 | 244 | 100.0 | /mnt/stockage/packages/f37/skanpage/po/eu/skanpage.po | 
+ | [fi](/f37/language/fi) | 244 | 244 | 100.0 | /mnt/stockage/packages/f37/skanpage/po/fi/skanpage.po | 
+ | [fr](/f37/language/fr) | 244 | 244 | 100.0 | /mnt/stockage/packages/f37/skanpage/po/fr/skanpage.po | 
+ | [ia](/f37/language/ia) | 244 | 244 | 100.0 | /mnt/stockage/packages/f37/skanpage/po/ia/skanpage.po | 
+ | [is](/f37/language/is) | 244 | 244 | 100.0 | /mnt/stockage/packages/f37/skanpage/po/is/skanpage.po | 
+ | [it](/f37/language/it) | 244 | 244 | 100.0 | /mnt/stockage/packages/f37/skanpage/po/it/skanpage.po | 
+ | [ka](/f37/language/ka) | 244 | 244 | 100.0 | /mnt/stockage/packages/f37/skanpage/po/ka/skanpage.po | 
+ | [ko](/f37/language/ko) | 244 | 244 | 100.0 | /mnt/stockage/packages/f37/skanpage/po/ko/skanpage.po | 
+ | [nl](/f37/language/nl) | 244 | 244 | 100.0 | /mnt/stockage/packages/f37/skanpage/po/nl/skanpage.po | 
+ | [pl](/f37/language/pl) | 244 | 244 | 100.0 | /mnt/stockage/packages/f37/skanpage/po/pl/skanpage.po | 
+ | [pt](/f37/language/pt) | 244 | 244 | 100.0 | /mnt/stockage/packages/f37/skanpage/po/pt/skanpage.po | 
+ | [pt_BR](/f37/language/pt_BR) | 244 | 244 | 100.0 | /mnt/stockage/packages/f37/skanpage/po/pt_BR/skanpage.po | 
+ | [ru](/f37/language/ru) | 244 | 244 | 100.0 | /mnt/stockage/packages/f37/skanpage/po/ru/skanpage.po | 
+ | [sl](/f37/language/sl) | 244 | 244 | 100.0 | /mnt/stockage/packages/f37/skanpage/po/sl/skanpage.po | 
+ | [sv](/f37/language/sv) | 244 | 244 | 100.0 | /mnt/stockage/packages/f37/skanpage/po/sv/skanpage.po | 
+ | [tr](/f37/language/tr) | 244 | 244 | 100.0 | /mnt/stockage/packages/f37/skanpage/po/tr/skanpage.po | 
+ | [uk](/f37/language/uk) | 244 | 244 | 100.0 | /mnt/stockage/packages/f37/skanpage/po/uk/skanpage.po | 
+ | [zh_Hans](/f37/language/zh_Hans) | 244 | 244 | 100.0 | /mnt/stockage/packages/f37/skanpage/po/zh_CN/skanpage.po | 
+ | [zh_Hant](/f37/language/zh_Hant) | 244 | 244 | 100.0 | /mnt/stockage/packages/f37/skanpage/po/zh_TW/skanpage.po | 
+ | [id](/f37/language/id) | 163 | 244 | 66.8 | /mnt/stockage/packages/f37/skanpage/po/id/skanpage.po | 
+ | [sk](/f37/language/sk) | 123 | 244 | 50.4 | /mnt/stockage/packages/f37/skanpage/po/sk/skanpage.po | 
+ | [el](/f37/language/el) | 116 | 244 | 47.5 | /mnt/stockage/packages/f37/skanpage/po/el/skanpage.po | 
+ | [ja](/f37/language/ja) | 0 | 244 | 0.0 | /mnt/stockage/packages/f37/skanpage/po/ja/skanpage.po | 
+ | [lt](/f37/language/lt) | 0 | 244 | 0.0 | /mnt/stockage/packages/f37/skanpage/po/lt/skanpage.po | 
 {.sortable}
 
 

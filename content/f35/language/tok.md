@@ -38,11 +38,11 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [lagrange]({{< ref "/f35/package/lagrange.md" >}}) | 1826 | 1832 | 99.7 | Toki Pona <http://weblate.skyjake.fi/projects/lagrange/ui/tok/> | 
- | [kf5-kxmlgui]({{< ref "/f35/package/kf5-kxmlgui.md" >}}) | 1543 | 1574 | 98.0 | toki pona | 
- | [kf5-kcoreaddons]({{< ref "/f35/package/kf5-kcoreaddons.md" >}}) | 524 | 540 | 97.0 | toki pona | 
- | [kf5-kio]({{< ref "/f35/package/kf5-kio.md" >}}) | 7539 | 11908 | 63.3 | Toki Pona <http://weblate.blackquill.cc/projects/ante-toki-pi-ilo-kde/base/tok/> | 
- | [neochat]({{< ref "/f35/package/neochat.md" >}}) | 208 | 1194 | 17.4 | Toki Pona <http://weblate.blackquill.cc/projects/ante-toki-pi-ilo-kde/neochat/tok/> | 
+ | [lagrange](/f35/package/lagrange) | 1826 | 1832 | 99.7 | Toki Pona <http://weblate.skyjake.fi/projects/lagrange/ui/tok/> | 
+ | [kf5-kxmlgui](/f35/package/kf5-kxmlgui) | 1543 | 1574 | 98.0 | toki pona | 
+ | [kf5-kcoreaddons](/f35/package/kf5-kcoreaddons) | 524 | 540 | 97.0 | toki pona | 
+ | [kf5-kio](/f35/package/kf5-kio) | 7539 | 11908 | 63.3 | Toki Pona <http://weblate.blackquill.cc/projects/ante-toki-pi-ilo-kde/base/tok/> | 
+ | [neochat](/f35/package/neochat) | 208 | 1194 | 17.4 | Toki Pona <http://weblate.blackquill.cc/projects/ante-toki-pi-ilo-kde/neochat/tok/> | 
 {.sortable}
 
 

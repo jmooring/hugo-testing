@@ -18,26 +18,26 @@ The package istanbul (version 0.2.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [bg]({{< ref "/f22/language/bg.md" >}}) | 325 | 325 | 100.0 | /mnt/stockage/packages/f22/istanbul/po/bg.po | 
- | [ca]({{< ref "/f22/language/ca.md" >}}) | 325 | 325 | 100.0 | /mnt/stockage/packages/f22/istanbul/po/ca.po | 
- | [dz]({{< ref "/f22/language/dz.md" >}}) | 350 | 350 | 100.0 | /mnt/stockage/packages/f22/istanbul/po/dz.po | 
- | [en_GB]({{< ref "/f22/language/en_GB.md" >}}) | 350 | 350 | 100.0 | /mnt/stockage/packages/f22/istanbul/po/en_GB.po | 
- | [error]({{< ref "/f22/language/error.md" >}}) | 72 | 72 | 100.0 | /mnt/stockage/packages/f22/istanbul/po/sr@Latn.po | 
- | [es]({{< ref "/f22/language/es.md" >}}) | 350 | 350 | 100.0 | /mnt/stockage/packages/f22/istanbul/po/es.po | 
- | [fi]({{< ref "/f22/language/fi.md" >}}) | 350 | 350 | 100.0 | /mnt/stockage/packages/f22/istanbul/po/fi.po | 
- | [hi]({{< ref "/f22/language/hi.md" >}}) | 89 | 89 | 100.0 | /mnt/stockage/packages/f22/istanbul/po/hi.po | 
- | [hu]({{< ref "/f22/language/hu.md" >}}) | 350 | 350 | 100.0 | /mnt/stockage/packages/f22/istanbul/po/hu.po | 
- | [it]({{< ref "/f22/language/it.md" >}}) | 78 | 78 | 100.0 | /mnt/stockage/packages/f22/istanbul/po/it.po | 
- | [ja]({{< ref "/f22/language/ja.md" >}}) | 196 | 196 | 100.0 | /mnt/stockage/packages/f22/istanbul/po/ja.po | 
- | [mk]({{< ref "/f22/language/mk.md" >}}) | 304 | 304 | 100.0 | /mnt/stockage/packages/f22/istanbul/po/mk.po | 
- | [nl]({{< ref "/f22/language/nl.md" >}}) | 350 | 350 | 100.0 | /mnt/stockage/packages/f22/istanbul/po/nl.po | 
- | [pa]({{< ref "/f22/language/pa.md" >}}) | 350 | 350 | 100.0 | /mnt/stockage/packages/f22/istanbul/po/pa.po | 
- | [pt_BR]({{< ref "/f22/language/pt_BR.md" >}}) | 350 | 350 | 100.0 | /mnt/stockage/packages/f22/istanbul/po/pt_BR.po | 
- | [sr]({{< ref "/f22/language/sr.md" >}}) | 72 | 72 | 100.0 | /mnt/stockage/packages/f22/istanbul/po/sr.po | 
- | [sv]({{< ref "/f22/language/sv.md" >}}) | 350 | 350 | 100.0 | /mnt/stockage/packages/f22/istanbul/po/sv.po | 
- | [vi]({{< ref "/f22/language/vi.md" >}}) | 325 | 325 | 100.0 | /mnt/stockage/packages/f22/istanbul/po/vi.po | 
- | [zh_Hans]({{< ref "/f22/language/zh_Hans.md" >}}) | 108 | 108 | 100.0 | /mnt/stockage/packages/f22/istanbul/po/zh_CN.po | 
- | [ar]({{< ref "/f22/language/ar.md" >}}) | 0 | 350 | 0.0 | /mnt/stockage/packages/f22/istanbul/po/ar.po | 
+ | [bg](/f22/language/bg) | 325 | 325 | 100.0 | /mnt/stockage/packages/f22/istanbul/po/bg.po | 
+ | [ca](/f22/language/ca) | 325 | 325 | 100.0 | /mnt/stockage/packages/f22/istanbul/po/ca.po | 
+ | [dz](/f22/language/dz) | 350 | 350 | 100.0 | /mnt/stockage/packages/f22/istanbul/po/dz.po | 
+ | [en_GB](/f22/language/en_GB) | 350 | 350 | 100.0 | /mnt/stockage/packages/f22/istanbul/po/en_GB.po | 
+ | [error](/f22/language/error) | 72 | 72 | 100.0 | /mnt/stockage/packages/f22/istanbul/po/sr@Latn.po | 
+ | [es](/f22/language/es) | 350 | 350 | 100.0 | /mnt/stockage/packages/f22/istanbul/po/es.po | 
+ | [fi](/f22/language/fi) | 350 | 350 | 100.0 | /mnt/stockage/packages/f22/istanbul/po/fi.po | 
+ | [hi](/f22/language/hi) | 89 | 89 | 100.0 | /mnt/stockage/packages/f22/istanbul/po/hi.po | 
+ | [hu](/f22/language/hu) | 350 | 350 | 100.0 | /mnt/stockage/packages/f22/istanbul/po/hu.po | 
+ | [it](/f22/language/it) | 78 | 78 | 100.0 | /mnt/stockage/packages/f22/istanbul/po/it.po | 
+ | [ja](/f22/language/ja) | 196 | 196 | 100.0 | /mnt/stockage/packages/f22/istanbul/po/ja.po | 
+ | [mk](/f22/language/mk) | 304 | 304 | 100.0 | /mnt/stockage/packages/f22/istanbul/po/mk.po | 
+ | [nl](/f22/language/nl) | 350 | 350 | 100.0 | /mnt/stockage/packages/f22/istanbul/po/nl.po | 
+ | [pa](/f22/language/pa) | 350 | 350 | 100.0 | /mnt/stockage/packages/f22/istanbul/po/pa.po | 
+ | [pt_BR](/f22/language/pt_BR) | 350 | 350 | 100.0 | /mnt/stockage/packages/f22/istanbul/po/pt_BR.po | 
+ | [sr](/f22/language/sr) | 72 | 72 | 100.0 | /mnt/stockage/packages/f22/istanbul/po/sr.po | 
+ | [sv](/f22/language/sv) | 350 | 350 | 100.0 | /mnt/stockage/packages/f22/istanbul/po/sv.po | 
+ | [vi](/f22/language/vi) | 325 | 325 | 100.0 | /mnt/stockage/packages/f22/istanbul/po/vi.po | 
+ | [zh_Hans](/f22/language/zh_Hans) | 108 | 108 | 100.0 | /mnt/stockage/packages/f22/istanbul/po/zh_CN.po | 
+ | [ar](/f22/language/ar) | 0 | 350 | 0.0 | /mnt/stockage/packages/f22/istanbul/po/ar.po | 
 {.sortable}
 
 

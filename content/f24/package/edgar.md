@@ -18,37 +18,37 @@ The package edgar (version 1.26):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f24/language/de.md" >}}) | 11475 | 11475 | 100.0 | /mnt/stockage/packages/f24/edgar/locale/de.po | 
- | [fr]({{< ref "/f24/language/fr.md" >}}) | 11475 | 11475 | 100.0 | /mnt/stockage/packages/f24/edgar/locale/fr.po | 
- | [it]({{< ref "/f24/language/it.md" >}}) | 11475 | 11475 | 100.0 | /mnt/stockage/packages/f24/edgar/locale/it.po | 
- | [ja]({{< ref "/f24/language/ja.md" >}}) | 11475 | 11475 | 100.0 | /mnt/stockage/packages/f24/edgar/locale/ja.po | 
- | [nl]({{< ref "/f24/language/nl.md" >}}) | 11475 | 11475 | 100.0 | /mnt/stockage/packages/f24/edgar/locale/nl.po | 
- | [pt_BR]({{< ref "/f24/language/pt_BR.md" >}}) | 11475 | 11475 | 100.0 | /mnt/stockage/packages/f24/edgar/locale/pt_BR.po | 
- | [ru]({{< ref "/f24/language/ru.md" >}}) | 11475 | 11475 | 100.0 | /mnt/stockage/packages/f24/edgar/locale/ru.po | 
- | [uk]({{< ref "/f24/language/uk.md" >}}) | 11475 | 11475 | 100.0 | /mnt/stockage/packages/f24/edgar/locale/uk.po | 
- | [en_US]({{< ref "/f24/language/en_US.md" >}}) | 11473 | 11475 | 100.0 | /mnt/stockage/packages/f24/edgar/locale/en_US.po | 
- | [es]({{< ref "/f24/language/es.md" >}}) | 11444 | 11475 | 99.7 | /mnt/stockage/packages/f24/edgar/locale/es.po | 
- | [cs]({{< ref "/f24/language/cs.md" >}}) | 11373 | 11475 | 99.1 | /mnt/stockage/packages/f24/edgar/locale/cs.po | 
- | [zh_Hans]({{< ref "/f24/language/zh_Hans.md" >}}) | 3635 | 11475 | 31.7 | /mnt/stockage/packages/f24/edgar/locale/zh_CN.po | 
- | [sk]({{< ref "/f24/language/sk.md" >}}) | 2245 | 11475 | 19.6 | /mnt/stockage/packages/f24/edgar/locale/sk.po | 
- | [pl]({{< ref "/f24/language/pl.md" >}}) | 2015 | 11475 | 17.6 | /mnt/stockage/packages/f24/edgar/locale/pl.po | 
- | [pt]({{< ref "/f24/language/pt.md" >}}) | 960 | 11475 | 8.4 | /mnt/stockage/packages/f24/edgar/locale/pt.po | 
- | [ro]({{< ref "/f24/language/ro.md" >}}) | 860 | 11475 | 7.5 | /mnt/stockage/packages/f24/edgar/locale/ro.po | 
- | [fa]({{< ref "/f24/language/fa.md" >}}) | 792 | 11475 | 6.9 | /mnt/stockage/packages/f24/edgar/locale/fa.po | 
- | [el]({{< ref "/f24/language/el.md" >}}) | 436 | 11475 | 3.8 | /mnt/stockage/packages/f24/edgar/locale/el.po | 
- | [ms]({{< ref "/f24/language/ms.md" >}}) | 200 | 11475 | 1.7 | /mnt/stockage/packages/f24/edgar/locale/ms.po | 
- | [da]({{< ref "/f24/language/da.md" >}}) | 4 | 11475 | 0.0 | /mnt/stockage/packages/f24/edgar/locale/da.po | 
- | [sv]({{< ref "/f24/language/sv.md" >}}) | 4 | 11475 | 0.0 | /mnt/stockage/packages/f24/edgar/locale/sv.po | 
- | [tr]({{< ref "/f24/language/tr.md" >}}) | 4 | 11475 | 0.0 | /mnt/stockage/packages/f24/edgar/locale/tr.po | 
- | [hi]({{< ref "/f24/language/hi.md" >}}) | 2 | 11475 | 0.0 | /mnt/stockage/packages/f24/edgar/locale/hi.po | 
- | [sr]({{< ref "/f24/language/sr.md" >}}) | 2 | 11475 | 0.0 | /mnt/stockage/packages/f24/edgar/locale/sr.po | 
- | [ar]({{< ref "/f24/language/ar.md" >}}) | 1 | 11475 | 0.0 | /mnt/stockage/packages/f24/edgar/locale/ar.po | 
- | [eo]({{< ref "/f24/language/eo.md" >}}) | 1 | 11475 | 0.0 | /mnt/stockage/packages/f24/edgar/locale/eo.po | 
- | [jv]({{< ref "/f24/language/jv.md" >}}) | 1 | 11475 | 0.0 | /mnt/stockage/packages/f24/edgar/locale/jv.po | 
- | [ko]({{< ref "/f24/language/ko.md" >}}) | 1 | 11475 | 0.0 | /mnt/stockage/packages/f24/edgar/locale/ko.po | 
- | [ta]({{< ref "/f24/language/ta.md" >}}) | 1 | 11475 | 0.0 | /mnt/stockage/packages/f24/edgar/locale/ta.po | 
- | [ur]({{< ref "/f24/language/ur.md" >}}) | 1 | 11475 | 0.0 | /mnt/stockage/packages/f24/edgar/locale/ur.po | 
- | [vi]({{< ref "/f24/language/vi.md" >}}) | 1 | 11475 | 0.0 | /mnt/stockage/packages/f24/edgar/locale/vi.po | 
+ | [de](/f24/language/de) | 11475 | 11475 | 100.0 | /mnt/stockage/packages/f24/edgar/locale/de.po | 
+ | [fr](/f24/language/fr) | 11475 | 11475 | 100.0 | /mnt/stockage/packages/f24/edgar/locale/fr.po | 
+ | [it](/f24/language/it) | 11475 | 11475 | 100.0 | /mnt/stockage/packages/f24/edgar/locale/it.po | 
+ | [ja](/f24/language/ja) | 11475 | 11475 | 100.0 | /mnt/stockage/packages/f24/edgar/locale/ja.po | 
+ | [nl](/f24/language/nl) | 11475 | 11475 | 100.0 | /mnt/stockage/packages/f24/edgar/locale/nl.po | 
+ | [pt_BR](/f24/language/pt_BR) | 11475 | 11475 | 100.0 | /mnt/stockage/packages/f24/edgar/locale/pt_BR.po | 
+ | [ru](/f24/language/ru) | 11475 | 11475 | 100.0 | /mnt/stockage/packages/f24/edgar/locale/ru.po | 
+ | [uk](/f24/language/uk) | 11475 | 11475 | 100.0 | /mnt/stockage/packages/f24/edgar/locale/uk.po | 
+ | [en_US](/f24/language/en_US) | 11473 | 11475 | 100.0 | /mnt/stockage/packages/f24/edgar/locale/en_US.po | 
+ | [es](/f24/language/es) | 11444 | 11475 | 99.7 | /mnt/stockage/packages/f24/edgar/locale/es.po | 
+ | [cs](/f24/language/cs) | 11373 | 11475 | 99.1 | /mnt/stockage/packages/f24/edgar/locale/cs.po | 
+ | [zh_Hans](/f24/language/zh_Hans) | 3635 | 11475 | 31.7 | /mnt/stockage/packages/f24/edgar/locale/zh_CN.po | 
+ | [sk](/f24/language/sk) | 2245 | 11475 | 19.6 | /mnt/stockage/packages/f24/edgar/locale/sk.po | 
+ | [pl](/f24/language/pl) | 2015 | 11475 | 17.6 | /mnt/stockage/packages/f24/edgar/locale/pl.po | 
+ | [pt](/f24/language/pt) | 960 | 11475 | 8.4 | /mnt/stockage/packages/f24/edgar/locale/pt.po | 
+ | [ro](/f24/language/ro) | 860 | 11475 | 7.5 | /mnt/stockage/packages/f24/edgar/locale/ro.po | 
+ | [fa](/f24/language/fa) | 792 | 11475 | 6.9 | /mnt/stockage/packages/f24/edgar/locale/fa.po | 
+ | [el](/f24/language/el) | 436 | 11475 | 3.8 | /mnt/stockage/packages/f24/edgar/locale/el.po | 
+ | [ms](/f24/language/ms) | 200 | 11475 | 1.7 | /mnt/stockage/packages/f24/edgar/locale/ms.po | 
+ | [da](/f24/language/da) | 4 | 11475 | 0.0 | /mnt/stockage/packages/f24/edgar/locale/da.po | 
+ | [sv](/f24/language/sv) | 4 | 11475 | 0.0 | /mnt/stockage/packages/f24/edgar/locale/sv.po | 
+ | [tr](/f24/language/tr) | 4 | 11475 | 0.0 | /mnt/stockage/packages/f24/edgar/locale/tr.po | 
+ | [hi](/f24/language/hi) | 2 | 11475 | 0.0 | /mnt/stockage/packages/f24/edgar/locale/hi.po | 
+ | [sr](/f24/language/sr) | 2 | 11475 | 0.0 | /mnt/stockage/packages/f24/edgar/locale/sr.po | 
+ | [ar](/f24/language/ar) | 1 | 11475 | 0.0 | /mnt/stockage/packages/f24/edgar/locale/ar.po | 
+ | [eo](/f24/language/eo) | 1 | 11475 | 0.0 | /mnt/stockage/packages/f24/edgar/locale/eo.po | 
+ | [jv](/f24/language/jv) | 1 | 11475 | 0.0 | /mnt/stockage/packages/f24/edgar/locale/jv.po | 
+ | [ko](/f24/language/ko) | 1 | 11475 | 0.0 | /mnt/stockage/packages/f24/edgar/locale/ko.po | 
+ | [ta](/f24/language/ta) | 1 | 11475 | 0.0 | /mnt/stockage/packages/f24/edgar/locale/ta.po | 
+ | [ur](/f24/language/ur) | 1 | 11475 | 0.0 | /mnt/stockage/packages/f24/edgar/locale/ur.po | 
+ | [vi](/f24/language/vi) | 1 | 11475 | 0.0 | /mnt/stockage/packages/f24/edgar/locale/vi.po | 
 {.sortable}
 
 

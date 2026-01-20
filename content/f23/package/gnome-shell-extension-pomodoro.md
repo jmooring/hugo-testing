@@ -18,17 +18,17 @@ The package gnome-shell-extension-pomodoro (version 0.11.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f23/language/ca.md" >}}) | 282 | 282 | 100.0 | /mnt/stockage/packages/f23/gnome-shell-extension-pomodoro/po/ca.po | 
- | [de]({{< ref "/f23/language/de.md" >}}) | 282 | 282 | 100.0 | /mnt/stockage/packages/f23/gnome-shell-extension-pomodoro/po/de.po | 
- | [fr]({{< ref "/f23/language/fr.md" >}}) | 339 | 339 | 100.0 | /mnt/stockage/packages/f23/gnome-shell-extension-pomodoro/po/fr.po | 
- | [pl]({{< ref "/f23/language/pl.md" >}}) | 338 | 339 | 99.7 | /mnt/stockage/packages/f23/gnome-shell-extension-pomodoro/po/pl.po | 
- | [es]({{< ref "/f23/language/es.md" >}}) | 171 | 282 | 60.6 | /mnt/stockage/packages/f23/gnome-shell-extension-pomodoro/po/es.po | 
- | [pt_BR]({{< ref "/f23/language/pt_BR.md" >}}) | 139 | 339 | 41.0 | /mnt/stockage/packages/f23/gnome-shell-extension-pomodoro/po/pt_BR.po | 
- | [ru]({{< ref "/f23/language/ru.md" >}}) | 28 | 282 | 9.9 | /mnt/stockage/packages/f23/gnome-shell-extension-pomodoro/po/ru.po | 
- | [hu]({{< ref "/f23/language/hu.md" >}}) | 26 | 282 | 9.2 | /mnt/stockage/packages/f23/gnome-shell-extension-pomodoro/po/hu.po | 
- | [zh_Hans]({{< ref "/f23/language/zh_Hans.md" >}}) | 25 | 282 | 8.9 | /mnt/stockage/packages/f23/gnome-shell-extension-pomodoro/po/zh_CN.po | 
- | [fa]({{< ref "/f23/language/fa.md" >}}) | 24 | 282 | 8.5 | /mnt/stockage/packages/f23/gnome-shell-extension-pomodoro/po/fa.po | 
- | [cs]({{< ref "/f23/language/cs.md" >}}) | 12 | 282 | 4.3 | /mnt/stockage/packages/f23/gnome-shell-extension-pomodoro/po/cs.po | 
+ | [ca](/f23/language/ca) | 282 | 282 | 100.0 | /mnt/stockage/packages/f23/gnome-shell-extension-pomodoro/po/ca.po | 
+ | [de](/f23/language/de) | 282 | 282 | 100.0 | /mnt/stockage/packages/f23/gnome-shell-extension-pomodoro/po/de.po | 
+ | [fr](/f23/language/fr) | 339 | 339 | 100.0 | /mnt/stockage/packages/f23/gnome-shell-extension-pomodoro/po/fr.po | 
+ | [pl](/f23/language/pl) | 338 | 339 | 99.7 | /mnt/stockage/packages/f23/gnome-shell-extension-pomodoro/po/pl.po | 
+ | [es](/f23/language/es) | 171 | 282 | 60.6 | /mnt/stockage/packages/f23/gnome-shell-extension-pomodoro/po/es.po | 
+ | [pt_BR](/f23/language/pt_BR) | 139 | 339 | 41.0 | /mnt/stockage/packages/f23/gnome-shell-extension-pomodoro/po/pt_BR.po | 
+ | [ru](/f23/language/ru) | 28 | 282 | 9.9 | /mnt/stockage/packages/f23/gnome-shell-extension-pomodoro/po/ru.po | 
+ | [hu](/f23/language/hu) | 26 | 282 | 9.2 | /mnt/stockage/packages/f23/gnome-shell-extension-pomodoro/po/hu.po | 
+ | [zh_Hans](/f23/language/zh_Hans) | 25 | 282 | 8.9 | /mnt/stockage/packages/f23/gnome-shell-extension-pomodoro/po/zh_CN.po | 
+ | [fa](/f23/language/fa) | 24 | 282 | 8.5 | /mnt/stockage/packages/f23/gnome-shell-extension-pomodoro/po/fa.po | 
+ | [cs](/f23/language/cs) | 12 | 282 | 4.3 | /mnt/stockage/packages/f23/gnome-shell-extension-pomodoro/po/cs.po | 
 {.sortable}
 
 

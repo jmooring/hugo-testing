@@ -18,19 +18,19 @@ The package postgis (version 3.5.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ja]({{< ref "/f42/language/ja.md" >}}) | 99770 | 99771 | 100.0 | /mnt/stockage/packages/f42/postgis/doc/po/ja/postgis-manual.po | 
- | [fr]({{< ref "/f42/language/fr.md" >}}) | 97944 | 99771 | 98.2 | /mnt/stockage/packages/f42/postgis/doc/po/fr/postgis-manual.po | 
- | [zh_Hans]({{< ref "/f42/language/zh_Hans.md" >}}) | 97404 | 99771 | 97.6 | /mnt/stockage/packages/f42/postgis/doc/po/zh_Hans/postgis-manual.po | 
- | [de]({{< ref "/f42/language/de.md" >}}) | 50969 | 99771 | 51.1 | /mnt/stockage/packages/f42/postgis/doc/po/de/postgis-manual.po | 
- | [pt_BR]({{< ref "/f42/language/pt_BR.md" >}}) | 43560 | 99771 | 43.7 | /mnt/stockage/packages/f42/postgis/doc/po/pt_BR/postgis-manual.po | 
- | [ko]({{< ref "/f42/language/ko.md" >}}) | 43243 | 99771 | 43.3 | /mnt/stockage/packages/f42/postgis/doc/po/ko_KR/postgis-manual.po | 
- | [it]({{< ref "/f42/language/it.md" >}}) | 22014 | 99771 | 22.1 | /mnt/stockage/packages/f42/postgis/doc/po/it_IT/postgis-manual.po | 
- | [es]({{< ref "/f42/language/es.md" >}}) | 19444 | 99771 | 19.5 | /mnt/stockage/packages/f42/postgis/doc/po/es/postgis-manual.po | 
- | [pl]({{< ref "/f42/language/pl.md" >}}) | 848 | 99771 | 0.8 | /mnt/stockage/packages/f42/postgis/doc/po/pl/postgis-manual.po | 
- | [ru]({{< ref "/f42/language/ru.md" >}}) | 425 | 99771 | 0.4 | /mnt/stockage/packages/f42/postgis/doc/po/ru/postgis-manual.po | 
- | [ro]({{< ref "/f42/language/ro.md" >}}) | 266 | 99771 | 0.3 | /mnt/stockage/packages/f42/postgis/doc/po/ro/postgis-manual.po | 
- | [ka]({{< ref "/f42/language/ka.md" >}}) | 107 | 99771 | 0.1 | /mnt/stockage/packages/f42/postgis/doc/po/ka/postgis-manual.po | 
- | [uk]({{< ref "/f42/language/uk.md" >}}) | 0 | 99771 | 0.0 | /mnt/stockage/packages/f42/postgis/doc/po/uk/postgis-manual.po | 
+ | [ja](/f42/language/ja) | 99770 | 99771 | 100.0 | /mnt/stockage/packages/f42/postgis/doc/po/ja/postgis-manual.po | 
+ | [fr](/f42/language/fr) | 97944 | 99771 | 98.2 | /mnt/stockage/packages/f42/postgis/doc/po/fr/postgis-manual.po | 
+ | [zh_Hans](/f42/language/zh_Hans) | 97404 | 99771 | 97.6 | /mnt/stockage/packages/f42/postgis/doc/po/zh_Hans/postgis-manual.po | 
+ | [de](/f42/language/de) | 50969 | 99771 | 51.1 | /mnt/stockage/packages/f42/postgis/doc/po/de/postgis-manual.po | 
+ | [pt_BR](/f42/language/pt_BR) | 43560 | 99771 | 43.7 | /mnt/stockage/packages/f42/postgis/doc/po/pt_BR/postgis-manual.po | 
+ | [ko](/f42/language/ko) | 43243 | 99771 | 43.3 | /mnt/stockage/packages/f42/postgis/doc/po/ko_KR/postgis-manual.po | 
+ | [it](/f42/language/it) | 22014 | 99771 | 22.1 | /mnt/stockage/packages/f42/postgis/doc/po/it_IT/postgis-manual.po | 
+ | [es](/f42/language/es) | 19444 | 99771 | 19.5 | /mnt/stockage/packages/f42/postgis/doc/po/es/postgis-manual.po | 
+ | [pl](/f42/language/pl) | 848 | 99771 | 0.8 | /mnt/stockage/packages/f42/postgis/doc/po/pl/postgis-manual.po | 
+ | [ru](/f42/language/ru) | 425 | 99771 | 0.4 | /mnt/stockage/packages/f42/postgis/doc/po/ru/postgis-manual.po | 
+ | [ro](/f42/language/ro) | 266 | 99771 | 0.3 | /mnt/stockage/packages/f42/postgis/doc/po/ro/postgis-manual.po | 
+ | [ka](/f42/language/ka) | 107 | 99771 | 0.1 | /mnt/stockage/packages/f42/postgis/doc/po/ka/postgis-manual.po | 
+ | [uk](/f42/language/uk) | 0 | 99771 | 0.0 | /mnt/stockage/packages/f42/postgis/doc/po/uk/postgis-manual.po | 
 {.sortable}
 
 

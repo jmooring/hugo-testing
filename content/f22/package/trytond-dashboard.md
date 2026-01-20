@@ -18,16 +18,16 @@ The package trytond-dashboard (version 2.6.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f22/language/de.md" >}}) | 40 | 40 | 100.0 | /mnt/stockage/packages/f22/trytond-dashboard/locale/de_DE.po | 
- | [es_AR]({{< ref "/f22/language/es_AR.md" >}}) | 40 | 40 | 100.0 | /mnt/stockage/packages/f22/trytond-dashboard/locale/es_AR.po | 
- | [fr]({{< ref "/f22/language/fr.md" >}}) | 54 | 54 | 100.0 | /mnt/stockage/packages/f22/trytond-dashboard/locale/fr_FR.po | 
- | [bg]({{< ref "/f22/language/bg.md" >}}) | 38 | 40 | 95.0 | /mnt/stockage/packages/f22/trytond-dashboard/locale/bg_BG.po | 
- | [ca]({{< ref "/f22/language/ca.md" >}}) | 38 | 40 | 95.0 | /mnt/stockage/packages/f22/trytond-dashboard/locale/ca_ES.po | 
- | [es]({{< ref "/f22/language/es.md" >}}) | 38 | 40 | 95.0 | /mnt/stockage/packages/f22/trytond-dashboard/locale/es_ES.po | 
- | [es_CO]({{< ref "/f22/language/es_CO.md" >}}) | 38 | 40 | 95.0 | /mnt/stockage/packages/f22/trytond-dashboard/locale/es_CO.po | 
- | [nl]({{< ref "/f22/language/nl.md" >}}) | 29 | 40 | 72.5 | /mnt/stockage/packages/f22/trytond-dashboard/locale/nl_NL.po | 
- | [ru]({{< ref "/f22/language/ru.md" >}}) | 29 | 40 | 72.5 | /mnt/stockage/packages/f22/trytond-dashboard/locale/ru_RU.po | 
- | [cs]({{< ref "/f22/language/cs.md" >}}) | 0 | 39 | 0.0 | /mnt/stockage/packages/f22/trytond-dashboard/locale/cs_CZ.po | 
+ | [de](/f22/language/de) | 40 | 40 | 100.0 | /mnt/stockage/packages/f22/trytond-dashboard/locale/de_DE.po | 
+ | [es_AR](/f22/language/es_AR) | 40 | 40 | 100.0 | /mnt/stockage/packages/f22/trytond-dashboard/locale/es_AR.po | 
+ | [fr](/f22/language/fr) | 54 | 54 | 100.0 | /mnt/stockage/packages/f22/trytond-dashboard/locale/fr_FR.po | 
+ | [bg](/f22/language/bg) | 38 | 40 | 95.0 | /mnt/stockage/packages/f22/trytond-dashboard/locale/bg_BG.po | 
+ | [ca](/f22/language/ca) | 38 | 40 | 95.0 | /mnt/stockage/packages/f22/trytond-dashboard/locale/ca_ES.po | 
+ | [es](/f22/language/es) | 38 | 40 | 95.0 | /mnt/stockage/packages/f22/trytond-dashboard/locale/es_ES.po | 
+ | [es_CO](/f22/language/es_CO) | 38 | 40 | 95.0 | /mnt/stockage/packages/f22/trytond-dashboard/locale/es_CO.po | 
+ | [nl](/f22/language/nl) | 29 | 40 | 72.5 | /mnt/stockage/packages/f22/trytond-dashboard/locale/nl_NL.po | 
+ | [ru](/f22/language/ru) | 29 | 40 | 72.5 | /mnt/stockage/packages/f22/trytond-dashboard/locale/ru_RU.po | 
+ | [cs](/f22/language/cs) | 0 | 39 | 0.0 | /mnt/stockage/packages/f22/trytond-dashboard/locale/cs_CZ.po | 
 {.sortable}
 
 

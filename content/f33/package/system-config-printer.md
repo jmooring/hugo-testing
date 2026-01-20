@@ -18,70 +18,70 @@ The package system-config-printer (version 1.5.15):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [he]({{< ref "/f33/language/he.md" >}}) | 3465 | 3465 | 100.0 | /mnt/stockage/packages/f33/system-config-printer/po/he.po | 
- | [pl]({{< ref "/f33/language/pl.md" >}}) | 3465 | 3465 | 100.0 | /mnt/stockage/packages/f33/system-config-printer/po/pl.po | 
- | [sv]({{< ref "/f33/language/sv.md" >}}) | 3465 | 3465 | 100.0 | /mnt/stockage/packages/f33/system-config-printer/po/sv.po | 
- | [tr]({{< ref "/f33/language/tr.md" >}}) | 3465 | 3465 | 100.0 | /mnt/stockage/packages/f33/system-config-printer/po/tr.po | 
- | [uk]({{< ref "/f33/language/uk.md" >}}) | 3465 | 3465 | 100.0 | /mnt/stockage/packages/f33/system-config-printer/po/uk.po | 
- | [oc]({{< ref "/f33/language/oc.md" >}}) | 3453 | 3465 | 99.7 | /mnt/stockage/packages/f33/system-config-printer/po/oc.po | 
- | [da]({{< ref "/f33/language/da.md" >}}) | 3414 | 3465 | 98.5 | /mnt/stockage/packages/f33/system-config-printer/po/da.po | 
- | [fr]({{< ref "/f33/language/fr.md" >}}) | 3394 | 3465 | 98.0 | /mnt/stockage/packages/f33/system-config-printer/po/fr.po | 
- | [de]({{< ref "/f33/language/de.md" >}}) | 3377 | 3465 | 97.5 | /mnt/stockage/packages/f33/system-config-printer/po/de.po | 
- | [hu]({{< ref "/f33/language/hu.md" >}}) | 3377 | 3465 | 97.5 | /mnt/stockage/packages/f33/system-config-printer/po/hu.po | 
- | [it]({{< ref "/f33/language/it.md" >}}) | 3377 | 3465 | 97.5 | /mnt/stockage/packages/f33/system-config-printer/po/it.po | 
- | [ko]({{< ref "/f33/language/ko.md" >}}) | 3377 | 3465 | 97.5 | /mnt/stockage/packages/f33/system-config-printer/po/ko.po | 
- | [nl]({{< ref "/f33/language/nl.md" >}}) | 3377 | 3465 | 97.5 | /mnt/stockage/packages/f33/system-config-printer/po/nl.po | 
- | [sk]({{< ref "/f33/language/sk.md" >}}) | 3377 | 3465 | 97.5 | /mnt/stockage/packages/f33/system-config-printer/po/sk.po | 
- | [es]({{< ref "/f33/language/es.md" >}}) | 3356 | 3465 | 96.9 | /mnt/stockage/packages/f33/system-config-printer/po/es.po | 
- | [fi]({{< ref "/f33/language/fi.md" >}}) | 3279 | 3465 | 94.6 | /mnt/stockage/packages/f33/system-config-printer/po/fi.po | 
- | [pt]({{< ref "/f33/language/pt.md" >}}) | 3198 | 3465 | 92.3 | /mnt/stockage/packages/f33/system-config-printer/po/pt.po | 
- | [id]({{< ref "/f33/language/id.md" >}}) | 3191 | 3465 | 92.1 | /mnt/stockage/packages/f33/system-config-printer/po/id.po | 
- | [ca]({{< ref "/f33/language/ca.md" >}}) | 3131 | 3465 | 90.4 | /mnt/stockage/packages/f33/system-config-printer/po/ca.po | 
- | [nb_NO]({{< ref "/f33/language/nb_NO.md" >}}) | 3094 | 3465 | 89.3 | /mnt/stockage/packages/f33/system-config-printer/po/nb.po | 
- | [zh_Hans]({{< ref "/f33/language/zh_Hans.md" >}}) | 3092 | 3465 | 89.2 | /mnt/stockage/packages/f33/system-config-printer/po/zh_CN.po | 
- | [cs]({{< ref "/f33/language/cs.md" >}}) | 3086 | 3465 | 89.1 | /mnt/stockage/packages/f33/system-config-printer/po/cs.po | 
- | [nn]({{< ref "/f33/language/nn.md" >}}) | 3086 | 3465 | 89.1 | /mnt/stockage/packages/f33/system-config-printer/po/nn.po | 
- | [pt_BR]({{< ref "/f33/language/pt_BR.md" >}}) | 3086 | 3465 | 89.1 | /mnt/stockage/packages/f33/system-config-printer/po/pt_BR.po | 
- | [zh_Hant]({{< ref "/f33/language/zh_Hant.md" >}}) | 3086 | 3465 | 89.1 | /mnt/stockage/packages/f33/system-config-printer/po/zh_TW.po | 
- | [ru]({{< ref "/f33/language/ru.md" >}}) | 3079 | 3465 | 88.9 | /mnt/stockage/packages/f33/system-config-printer/po/ru.po | 
- | [sr]({{< ref "/f33/language/sr.md" >}}) | 3079 | 3465 | 88.9 | /mnt/stockage/packages/f33/system-config-printer/po/sr.po | 
- | [el]({{< ref "/f33/language/el.md" >}}) | 3078 | 3465 | 88.8 | /mnt/stockage/packages/f33/system-config-printer/po/el.po | 
- | [ar]({{< ref "/f33/language/ar.md" >}}) | 3036 | 3465 | 87.6 | /mnt/stockage/packages/f33/system-config-printer/po/ar.po | 
- | [as]({{< ref "/f33/language/as.md" >}}) | 3033 | 3465 | 87.5 | /mnt/stockage/packages/f33/system-config-printer/po/as.po | 
- | [bg]({{< ref "/f33/language/bg.md" >}}) | 3033 | 3465 | 87.5 | /mnt/stockage/packages/f33/system-config-printer/po/bg.po | 
- | [gu]({{< ref "/f33/language/gu.md" >}}) | 3033 | 3465 | 87.5 | /mnt/stockage/packages/f33/system-config-printer/po/gu.po | 
- | [ml]({{< ref "/f33/language/ml.md" >}}) | 3033 | 3465 | 87.5 | /mnt/stockage/packages/f33/system-config-printer/po/ml.po | 
- | [or]({{< ref "/f33/language/or.md" >}}) | 3033 | 3465 | 87.5 | /mnt/stockage/packages/f33/system-config-printer/po/or.po | 
- | [te]({{< ref "/f33/language/te.md" >}}) | 3033 | 3465 | 87.5 | /mnt/stockage/packages/f33/system-config-printer/po/te.po | 
- | [en_GB]({{< ref "/f33/language/en_GB.md" >}}) | 3030 | 3465 | 87.4 | /mnt/stockage/packages/f33/system-config-printer/po/en_GB.po | 
- | [et]({{< ref "/f33/language/et.md" >}}) | 3030 | 3465 | 87.4 | /mnt/stockage/packages/f33/system-config-printer/po/et.po | 
- | [ja]({{< ref "/f33/language/ja.md" >}}) | 3030 | 3465 | 87.4 | /mnt/stockage/packages/f33/system-config-printer/po/ja.po | 
- | [kn]({{< ref "/f33/language/kn.md" >}}) | 3030 | 3465 | 87.4 | /mnt/stockage/packages/f33/system-config-printer/po/kn.po | 
- | [pa]({{< ref "/f33/language/pa.md" >}}) | 3030 | 3465 | 87.4 | /mnt/stockage/packages/f33/system-config-printer/po/pa.po | 
- | [bn_IN]({{< ref "/f33/language/bn_IN.md" >}}) | 3026 | 3465 | 87.3 | /mnt/stockage/packages/f33/system-config-printer/po/bn_IN.po | 
- | [hi]({{< ref "/f33/language/hi.md" >}}) | 3026 | 3465 | 87.3 | /mnt/stockage/packages/f33/system-config-printer/po/hi.po | 
- | [lv]({{< ref "/f33/language/lv.md" >}}) | 3026 | 3465 | 87.3 | /mnt/stockage/packages/f33/system-config-printer/po/lv.po | 
- | [mr]({{< ref "/f33/language/mr.md" >}}) | 3026 | 3465 | 87.3 | /mnt/stockage/packages/f33/system-config-printer/po/mr.po | 
- | [sl]({{< ref "/f33/language/sl.md" >}}) | 3026 | 3465 | 87.3 | /mnt/stockage/packages/f33/system-config-printer/po/sl.po | 
- | [ta]({{< ref "/f33/language/ta.md" >}}) | 3026 | 3465 | 87.3 | /mnt/stockage/packages/f33/system-config-printer/po/ta.po | 
- | [bn]({{< ref "/f33/language/bn.md" >}}) | 3010 | 3465 | 86.9 | /mnt/stockage/packages/f33/system-config-printer/po/bn.po | 
- | [sr_Latn]({{< ref "/f33/language/sr_Latn.md" >}}) | 2726 | 3465 | 78.7 | /mnt/stockage/packages/f33/system-config-printer/po/sr@latin.po | 
- | [br]({{< ref "/f33/language/br.md" >}}) | 2649 | 3465 | 76.5 | /mnt/stockage/packages/f33/system-config-printer/po/br.po | 
- | [lt]({{< ref "/f33/language/lt.md" >}}) | 2461 | 3465 | 71.0 | /mnt/stockage/packages/f33/system-config-printer/po/lt.po | 
- | [ro]({{< ref "/f33/language/ro.md" >}}) | 2332 | 3465 | 67.3 | /mnt/stockage/packages/f33/system-config-printer/po/ro.po | 
- | [th]({{< ref "/f33/language/th.md" >}}) | 2249 | 3465 | 64.9 | /mnt/stockage/packages/f33/system-config-printer/po/th.po | 
- | [fur]({{< ref "/f33/language/fur.md" >}}) | 1184 | 3465 | 34.2 | /mnt/stockage/packages/f33/system-config-printer/po/fur.po | 
- | [vi]({{< ref "/f33/language/vi.md" >}}) | 1166 | 3465 | 33.7 | /mnt/stockage/packages/f33/system-config-printer/po/vi.po | 
- | [hr]({{< ref "/f33/language/hr.md" >}}) | 785 | 3465 | 22.7 | /mnt/stockage/packages/f33/system-config-printer/po/hr.po | 
- | [fa]({{< ref "/f33/language/fa.md" >}}) | 703 | 3465 | 20.3 | /mnt/stockage/packages/f33/system-config-printer/po/fa.po | 
- | [ast]({{< ref "/f33/language/ast.md" >}}) | 629 | 3465 | 18.2 | /mnt/stockage/packages/f33/system-config-printer/po/ast.po | 
- | [bs]({{< ref "/f33/language/bs.md" >}}) | 515 | 3465 | 14.9 | /mnt/stockage/packages/f33/system-config-printer/po/bs.po | 
- | [is]({{< ref "/f33/language/is.md" >}}) | 429 | 3465 | 12.4 | /mnt/stockage/packages/f33/system-config-printer/po/is.po | 
- | [nds]({{< ref "/f33/language/nds.md" >}}) | 135 | 3465 | 3.9 | /mnt/stockage/packages/f33/system-config-printer/po/nds.po | 
- | [mai]({{< ref "/f33/language/mai.md" >}}) | 110 | 3465 | 3.2 | /mnt/stockage/packages/f33/system-config-printer/po/mai.po | 
- | [ms]({{< ref "/f33/language/ms.md" >}}) | 92 | 3465 | 2.7 | /mnt/stockage/packages/f33/system-config-printer/po/ms.po | 
- | [si]({{< ref "/f33/language/si.md" >}}) | 21 | 3465 | 0.6 | /mnt/stockage/packages/f33/system-config-printer/po/si.po | 
- | [cy]({{< ref "/f33/language/cy.md" >}}) | 12 | 3465 | 0.3 | /mnt/stockage/packages/f33/system-config-printer/po/cy.po | 
+ | [he](/f33/language/he) | 3465 | 3465 | 100.0 | /mnt/stockage/packages/f33/system-config-printer/po/he.po | 
+ | [pl](/f33/language/pl) | 3465 | 3465 | 100.0 | /mnt/stockage/packages/f33/system-config-printer/po/pl.po | 
+ | [sv](/f33/language/sv) | 3465 | 3465 | 100.0 | /mnt/stockage/packages/f33/system-config-printer/po/sv.po | 
+ | [tr](/f33/language/tr) | 3465 | 3465 | 100.0 | /mnt/stockage/packages/f33/system-config-printer/po/tr.po | 
+ | [uk](/f33/language/uk) | 3465 | 3465 | 100.0 | /mnt/stockage/packages/f33/system-config-printer/po/uk.po | 
+ | [oc](/f33/language/oc) | 3453 | 3465 | 99.7 | /mnt/stockage/packages/f33/system-config-printer/po/oc.po | 
+ | [da](/f33/language/da) | 3414 | 3465 | 98.5 | /mnt/stockage/packages/f33/system-config-printer/po/da.po | 
+ | [fr](/f33/language/fr) | 3394 | 3465 | 98.0 | /mnt/stockage/packages/f33/system-config-printer/po/fr.po | 
+ | [de](/f33/language/de) | 3377 | 3465 | 97.5 | /mnt/stockage/packages/f33/system-config-printer/po/de.po | 
+ | [hu](/f33/language/hu) | 3377 | 3465 | 97.5 | /mnt/stockage/packages/f33/system-config-printer/po/hu.po | 
+ | [it](/f33/language/it) | 3377 | 3465 | 97.5 | /mnt/stockage/packages/f33/system-config-printer/po/it.po | 
+ | [ko](/f33/language/ko) | 3377 | 3465 | 97.5 | /mnt/stockage/packages/f33/system-config-printer/po/ko.po | 
+ | [nl](/f33/language/nl) | 3377 | 3465 | 97.5 | /mnt/stockage/packages/f33/system-config-printer/po/nl.po | 
+ | [sk](/f33/language/sk) | 3377 | 3465 | 97.5 | /mnt/stockage/packages/f33/system-config-printer/po/sk.po | 
+ | [es](/f33/language/es) | 3356 | 3465 | 96.9 | /mnt/stockage/packages/f33/system-config-printer/po/es.po | 
+ | [fi](/f33/language/fi) | 3279 | 3465 | 94.6 | /mnt/stockage/packages/f33/system-config-printer/po/fi.po | 
+ | [pt](/f33/language/pt) | 3198 | 3465 | 92.3 | /mnt/stockage/packages/f33/system-config-printer/po/pt.po | 
+ | [id](/f33/language/id) | 3191 | 3465 | 92.1 | /mnt/stockage/packages/f33/system-config-printer/po/id.po | 
+ | [ca](/f33/language/ca) | 3131 | 3465 | 90.4 | /mnt/stockage/packages/f33/system-config-printer/po/ca.po | 
+ | [nb_NO](/f33/language/nb_NO) | 3094 | 3465 | 89.3 | /mnt/stockage/packages/f33/system-config-printer/po/nb.po | 
+ | [zh_Hans](/f33/language/zh_Hans) | 3092 | 3465 | 89.2 | /mnt/stockage/packages/f33/system-config-printer/po/zh_CN.po | 
+ | [cs](/f33/language/cs) | 3086 | 3465 | 89.1 | /mnt/stockage/packages/f33/system-config-printer/po/cs.po | 
+ | [nn](/f33/language/nn) | 3086 | 3465 | 89.1 | /mnt/stockage/packages/f33/system-config-printer/po/nn.po | 
+ | [pt_BR](/f33/language/pt_BR) | 3086 | 3465 | 89.1 | /mnt/stockage/packages/f33/system-config-printer/po/pt_BR.po | 
+ | [zh_Hant](/f33/language/zh_Hant) | 3086 | 3465 | 89.1 | /mnt/stockage/packages/f33/system-config-printer/po/zh_TW.po | 
+ | [ru](/f33/language/ru) | 3079 | 3465 | 88.9 | /mnt/stockage/packages/f33/system-config-printer/po/ru.po | 
+ | [sr](/f33/language/sr) | 3079 | 3465 | 88.9 | /mnt/stockage/packages/f33/system-config-printer/po/sr.po | 
+ | [el](/f33/language/el) | 3078 | 3465 | 88.8 | /mnt/stockage/packages/f33/system-config-printer/po/el.po | 
+ | [ar](/f33/language/ar) | 3036 | 3465 | 87.6 | /mnt/stockage/packages/f33/system-config-printer/po/ar.po | 
+ | [as](/f33/language/as) | 3033 | 3465 | 87.5 | /mnt/stockage/packages/f33/system-config-printer/po/as.po | 
+ | [bg](/f33/language/bg) | 3033 | 3465 | 87.5 | /mnt/stockage/packages/f33/system-config-printer/po/bg.po | 
+ | [gu](/f33/language/gu) | 3033 | 3465 | 87.5 | /mnt/stockage/packages/f33/system-config-printer/po/gu.po | 
+ | [ml](/f33/language/ml) | 3033 | 3465 | 87.5 | /mnt/stockage/packages/f33/system-config-printer/po/ml.po | 
+ | [or](/f33/language/or) | 3033 | 3465 | 87.5 | /mnt/stockage/packages/f33/system-config-printer/po/or.po | 
+ | [te](/f33/language/te) | 3033 | 3465 | 87.5 | /mnt/stockage/packages/f33/system-config-printer/po/te.po | 
+ | [en_GB](/f33/language/en_GB) | 3030 | 3465 | 87.4 | /mnt/stockage/packages/f33/system-config-printer/po/en_GB.po | 
+ | [et](/f33/language/et) | 3030 | 3465 | 87.4 | /mnt/stockage/packages/f33/system-config-printer/po/et.po | 
+ | [ja](/f33/language/ja) | 3030 | 3465 | 87.4 | /mnt/stockage/packages/f33/system-config-printer/po/ja.po | 
+ | [kn](/f33/language/kn) | 3030 | 3465 | 87.4 | /mnt/stockage/packages/f33/system-config-printer/po/kn.po | 
+ | [pa](/f33/language/pa) | 3030 | 3465 | 87.4 | /mnt/stockage/packages/f33/system-config-printer/po/pa.po | 
+ | [bn_IN](/f33/language/bn_IN) | 3026 | 3465 | 87.3 | /mnt/stockage/packages/f33/system-config-printer/po/bn_IN.po | 
+ | [hi](/f33/language/hi) | 3026 | 3465 | 87.3 | /mnt/stockage/packages/f33/system-config-printer/po/hi.po | 
+ | [lv](/f33/language/lv) | 3026 | 3465 | 87.3 | /mnt/stockage/packages/f33/system-config-printer/po/lv.po | 
+ | [mr](/f33/language/mr) | 3026 | 3465 | 87.3 | /mnt/stockage/packages/f33/system-config-printer/po/mr.po | 
+ | [sl](/f33/language/sl) | 3026 | 3465 | 87.3 | /mnt/stockage/packages/f33/system-config-printer/po/sl.po | 
+ | [ta](/f33/language/ta) | 3026 | 3465 | 87.3 | /mnt/stockage/packages/f33/system-config-printer/po/ta.po | 
+ | [bn](/f33/language/bn) | 3010 | 3465 | 86.9 | /mnt/stockage/packages/f33/system-config-printer/po/bn.po | 
+ | [sr_Latn](/f33/language/sr_Latn) | 2726 | 3465 | 78.7 | /mnt/stockage/packages/f33/system-config-printer/po/sr@latin.po | 
+ | [br](/f33/language/br) | 2649 | 3465 | 76.5 | /mnt/stockage/packages/f33/system-config-printer/po/br.po | 
+ | [lt](/f33/language/lt) | 2461 | 3465 | 71.0 | /mnt/stockage/packages/f33/system-config-printer/po/lt.po | 
+ | [ro](/f33/language/ro) | 2332 | 3465 | 67.3 | /mnt/stockage/packages/f33/system-config-printer/po/ro.po | 
+ | [th](/f33/language/th) | 2249 | 3465 | 64.9 | /mnt/stockage/packages/f33/system-config-printer/po/th.po | 
+ | [fur](/f33/language/fur) | 1184 | 3465 | 34.2 | /mnt/stockage/packages/f33/system-config-printer/po/fur.po | 
+ | [vi](/f33/language/vi) | 1166 | 3465 | 33.7 | /mnt/stockage/packages/f33/system-config-printer/po/vi.po | 
+ | [hr](/f33/language/hr) | 785 | 3465 | 22.7 | /mnt/stockage/packages/f33/system-config-printer/po/hr.po | 
+ | [fa](/f33/language/fa) | 703 | 3465 | 20.3 | /mnt/stockage/packages/f33/system-config-printer/po/fa.po | 
+ | [ast](/f33/language/ast) | 629 | 3465 | 18.2 | /mnt/stockage/packages/f33/system-config-printer/po/ast.po | 
+ | [bs](/f33/language/bs) | 515 | 3465 | 14.9 | /mnt/stockage/packages/f33/system-config-printer/po/bs.po | 
+ | [is](/f33/language/is) | 429 | 3465 | 12.4 | /mnt/stockage/packages/f33/system-config-printer/po/is.po | 
+ | [nds](/f33/language/nds) | 135 | 3465 | 3.9 | /mnt/stockage/packages/f33/system-config-printer/po/nds.po | 
+ | [mai](/f33/language/mai) | 110 | 3465 | 3.2 | /mnt/stockage/packages/f33/system-config-printer/po/mai.po | 
+ | [ms](/f33/language/ms) | 92 | 3465 | 2.7 | /mnt/stockage/packages/f33/system-config-printer/po/ms.po | 
+ | [si](/f33/language/si) | 21 | 3465 | 0.6 | /mnt/stockage/packages/f33/system-config-printer/po/si.po | 
+ | [cy](/f33/language/cy) | 12 | 3465 | 0.3 | /mnt/stockage/packages/f33/system-config-printer/po/cy.po | 
 {.sortable}
 
 

@@ -18,12 +18,12 @@ The package ndisc6 (version 1.0.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f35/language/cs.md" >}}) | 1016 | 1016 | 100.0 | /mnt/stockage/packages/f35/ndisc6/po/cs.po | 
- | [de]({{< ref "/f35/language/de.md" >}}) | 1016 | 1016 | 100.0 | /mnt/stockage/packages/f35/ndisc6/po/de.po | 
- | [fr]({{< ref "/f35/language/fr.md" >}}) | 1016 | 1016 | 100.0 | /mnt/stockage/packages/f35/ndisc6/po/fr.po | 
- | [sv]({{< ref "/f35/language/sv.md" >}}) | 1016 | 1016 | 100.0 | /mnt/stockage/packages/f35/ndisc6/po/sv.po | 
- | [en_GB]({{< ref "/f35/language/en_GB.md" >}}) | 527 | 1016 | 51.9 | /mnt/stockage/packages/f35/ndisc6/po/en_GB.po | 
- | [en]({{< ref "/f35/language/en.md" >}}) | 525 | 1016 | 51.7 | /mnt/stockage/packages/f35/ndisc6/po/en.po | 
+ | [cs](/f35/language/cs) | 1016 | 1016 | 100.0 | /mnt/stockage/packages/f35/ndisc6/po/cs.po | 
+ | [de](/f35/language/de) | 1016 | 1016 | 100.0 | /mnt/stockage/packages/f35/ndisc6/po/de.po | 
+ | [fr](/f35/language/fr) | 1016 | 1016 | 100.0 | /mnt/stockage/packages/f35/ndisc6/po/fr.po | 
+ | [sv](/f35/language/sv) | 1016 | 1016 | 100.0 | /mnt/stockage/packages/f35/ndisc6/po/sv.po | 
+ | [en_GB](/f35/language/en_GB) | 527 | 1016 | 51.9 | /mnt/stockage/packages/f35/ndisc6/po/en_GB.po | 
+ | [en](/f35/language/en) | 525 | 1016 | 51.7 | /mnt/stockage/packages/f35/ndisc6/po/en.po | 
 {.sortable}
 
 

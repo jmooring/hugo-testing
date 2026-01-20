@@ -18,18 +18,18 @@ The package gxine (version 0.5.903):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [zh_Hans]({{< ref "/f11/language/zh_Hans.md" >}}) | 2735 | 2736 | 100.0 | /mnt/stockage/packages/f11/gxine/misc/po/zh_CN.po/mnt/stockage/packages/f11/gxine/po/zh_CN.po | 
- | [de]({{< ref "/f11/language/de.md" >}}) | 2703 | 2736 | 98.8 | /mnt/stockage/packages/f11/gxine/misc/po/de.po/mnt/stockage/packages/f11/gxine/po/de.po | 
- | [it]({{< ref "/f11/language/it.md" >}}) | 2703 | 2736 | 98.8 | /mnt/stockage/packages/f11/gxine/misc/po/it.po/mnt/stockage/packages/f11/gxine/po/it.po | 
- | [sv]({{< ref "/f11/language/sv.md" >}}) | 2703 | 2736 | 98.8 | /mnt/stockage/packages/f11/gxine/misc/po/sv.po/mnt/stockage/packages/f11/gxine/po/sv.po | 
- | [ru]({{< ref "/f11/language/ru.md" >}}) | 2702 | 2736 | 98.8 | /mnt/stockage/packages/f11/gxine/misc/po/ru.po/mnt/stockage/packages/f11/gxine/po/ru.po | 
- | [es]({{< ref "/f11/language/es.md" >}}) | 2638 | 2736 | 96.4 | /mnt/stockage/packages/f11/gxine/misc/po/es.po/mnt/stockage/packages/f11/gxine/po/es.po | 
- | [uk]({{< ref "/f11/language/uk.md" >}}) | 2590 | 2736 | 94.7 | /mnt/stockage/packages/f11/gxine/misc/po/uk.po/mnt/stockage/packages/f11/gxine/po/uk.po | 
- | [cs]({{< ref "/f11/language/cs.md" >}}) | 2208 | 2736 | 80.7 | /mnt/stockage/packages/f11/gxine/misc/po/cs.po/mnt/stockage/packages/f11/gxine/po/cs.po | 
- | [fr]({{< ref "/f11/language/fr.md" >}}) | 1923 | 2736 | 70.3 | /mnt/stockage/packages/f11/gxine/misc/po/fr.po/mnt/stockage/packages/f11/gxine/po/fr.po | 
- | [pl]({{< ref "/f11/language/pl.md" >}}) | 1563 | 2736 | 57.1 | /mnt/stockage/packages/f11/gxine/misc/po/pl.po/mnt/stockage/packages/f11/gxine/po/pl.po | 
- | [ja]({{< ref "/f11/language/ja.md" >}}) | 1347 | 2736 | 49.2 | /mnt/stockage/packages/f11/gxine/misc/po/ja.po/mnt/stockage/packages/f11/gxine/po/ja.po | 
- | [fi]({{< ref "/f11/language/fi.md" >}}) | 567 | 2736 | 20.7 | /mnt/stockage/packages/f11/gxine/misc/po/fi.po/mnt/stockage/packages/f11/gxine/po/fi.po | 
+ | [zh_Hans](/f11/language/zh_Hans) | 2735 | 2736 | 100.0 | /mnt/stockage/packages/f11/gxine/misc/po/zh_CN.po/mnt/stockage/packages/f11/gxine/po/zh_CN.po | 
+ | [de](/f11/language/de) | 2703 | 2736 | 98.8 | /mnt/stockage/packages/f11/gxine/misc/po/de.po/mnt/stockage/packages/f11/gxine/po/de.po | 
+ | [it](/f11/language/it) | 2703 | 2736 | 98.8 | /mnt/stockage/packages/f11/gxine/misc/po/it.po/mnt/stockage/packages/f11/gxine/po/it.po | 
+ | [sv](/f11/language/sv) | 2703 | 2736 | 98.8 | /mnt/stockage/packages/f11/gxine/misc/po/sv.po/mnt/stockage/packages/f11/gxine/po/sv.po | 
+ | [ru](/f11/language/ru) | 2702 | 2736 | 98.8 | /mnt/stockage/packages/f11/gxine/misc/po/ru.po/mnt/stockage/packages/f11/gxine/po/ru.po | 
+ | [es](/f11/language/es) | 2638 | 2736 | 96.4 | /mnt/stockage/packages/f11/gxine/misc/po/es.po/mnt/stockage/packages/f11/gxine/po/es.po | 
+ | [uk](/f11/language/uk) | 2590 | 2736 | 94.7 | /mnt/stockage/packages/f11/gxine/misc/po/uk.po/mnt/stockage/packages/f11/gxine/po/uk.po | 
+ | [cs](/f11/language/cs) | 2208 | 2736 | 80.7 | /mnt/stockage/packages/f11/gxine/misc/po/cs.po/mnt/stockage/packages/f11/gxine/po/cs.po | 
+ | [fr](/f11/language/fr) | 1923 | 2736 | 70.3 | /mnt/stockage/packages/f11/gxine/misc/po/fr.po/mnt/stockage/packages/f11/gxine/po/fr.po | 
+ | [pl](/f11/language/pl) | 1563 | 2736 | 57.1 | /mnt/stockage/packages/f11/gxine/misc/po/pl.po/mnt/stockage/packages/f11/gxine/po/pl.po | 
+ | [ja](/f11/language/ja) | 1347 | 2736 | 49.2 | /mnt/stockage/packages/f11/gxine/misc/po/ja.po/mnt/stockage/packages/f11/gxine/po/ja.po | 
+ | [fi](/f11/language/fi) | 567 | 2736 | 20.7 | /mnt/stockage/packages/f11/gxine/misc/po/fi.po/mnt/stockage/packages/f11/gxine/po/fi.po | 
 {.sortable}
 
 

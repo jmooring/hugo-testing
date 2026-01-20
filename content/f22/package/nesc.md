@@ -18,22 +18,22 @@ The package nesc (version 1.3.5):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f22/language/de.md" >}}) | 1178 | 1178 | 100.0 | /mnt/stockage/packages/f22/nesc/libcpp/po/de.po | 
- | [es]({{< ref "/f22/language/es.md" >}}) | 1178 | 1178 | 100.0 | /mnt/stockage/packages/f22/nesc/libcpp/po/es.po | 
- | [nl]({{< ref "/f22/language/nl.md" >}}) | 1178 | 1178 | 100.0 | /mnt/stockage/packages/f22/nesc/libcpp/po/nl.po | 
- | [vi]({{< ref "/f22/language/vi.md" >}}) | 1178 | 1178 | 100.0 | /mnt/stockage/packages/f22/nesc/libcpp/po/vi.po | 
- | [zh_Hans]({{< ref "/f22/language/zh_Hans.md" >}}) | 1178 | 1178 | 100.0 | /mnt/stockage/packages/f22/nesc/libcpp/po/zh_CN.po | 
- | [sv]({{< ref "/f22/language/sv.md" >}}) | 1134 | 1178 | 96.3 | /mnt/stockage/packages/f22/nesc/libcpp/po/sv.po | 
- | [tr]({{< ref "/f22/language/tr.md" >}}) | 1134 | 1178 | 96.3 | /mnt/stockage/packages/f22/nesc/libcpp/po/tr.po | 
- | [uk]({{< ref "/f22/language/uk.md" >}}) | 1134 | 1178 | 96.3 | /mnt/stockage/packages/f22/nesc/libcpp/po/uk.po | 
- | [zh_Hant]({{< ref "/f22/language/zh_Hant.md" >}}) | 1095 | 1178 | 93.0 | /mnt/stockage/packages/f22/nesc/libcpp/po/zh_TW.po | 
- | [fr]({{< ref "/f22/language/fr.md" >}}) | 1070 | 1178 | 90.8 | /mnt/stockage/packages/f22/nesc/libcpp/po/fr.po | 
- | [ca]({{< ref "/f22/language/ca.md" >}}) | 1066 | 1178 | 90.5 | /mnt/stockage/packages/f22/nesc/libcpp/po/ca.po | 
- | [da]({{< ref "/f22/language/da.md" >}}) | 853 | 1178 | 72.4 | /mnt/stockage/packages/f22/nesc/libcpp/po/da.po | 
- | [ja]({{< ref "/f22/language/ja.md" >}}) | 499 | 1178 | 42.4 | /mnt/stockage/packages/f22/nesc/libcpp/po/ja.po | 
- | [be]({{< ref "/f22/language/be.md" >}}) | 25 | 1178 | 2.1 | /mnt/stockage/packages/f22/nesc/libcpp/po/be.po | 
- | [el]({{< ref "/f22/language/el.md" >}}) | 15 | 1178 | 1.3 | /mnt/stockage/packages/f22/nesc/libcpp/po/el.po | 
- | [rw]({{< ref "/f22/language/rw.md" >}}) | 0 | 1140 | 0.0 | /mnt/stockage/packages/f22/nesc/libcpp/po/rw.po | 
+ | [de](/f22/language/de) | 1178 | 1178 | 100.0 | /mnt/stockage/packages/f22/nesc/libcpp/po/de.po | 
+ | [es](/f22/language/es) | 1178 | 1178 | 100.0 | /mnt/stockage/packages/f22/nesc/libcpp/po/es.po | 
+ | [nl](/f22/language/nl) | 1178 | 1178 | 100.0 | /mnt/stockage/packages/f22/nesc/libcpp/po/nl.po | 
+ | [vi](/f22/language/vi) | 1178 | 1178 | 100.0 | /mnt/stockage/packages/f22/nesc/libcpp/po/vi.po | 
+ | [zh_Hans](/f22/language/zh_Hans) | 1178 | 1178 | 100.0 | /mnt/stockage/packages/f22/nesc/libcpp/po/zh_CN.po | 
+ | [sv](/f22/language/sv) | 1134 | 1178 | 96.3 | /mnt/stockage/packages/f22/nesc/libcpp/po/sv.po | 
+ | [tr](/f22/language/tr) | 1134 | 1178 | 96.3 | /mnt/stockage/packages/f22/nesc/libcpp/po/tr.po | 
+ | [uk](/f22/language/uk) | 1134 | 1178 | 96.3 | /mnt/stockage/packages/f22/nesc/libcpp/po/uk.po | 
+ | [zh_Hant](/f22/language/zh_Hant) | 1095 | 1178 | 93.0 | /mnt/stockage/packages/f22/nesc/libcpp/po/zh_TW.po | 
+ | [fr](/f22/language/fr) | 1070 | 1178 | 90.8 | /mnt/stockage/packages/f22/nesc/libcpp/po/fr.po | 
+ | [ca](/f22/language/ca) | 1066 | 1178 | 90.5 | /mnt/stockage/packages/f22/nesc/libcpp/po/ca.po | 
+ | [da](/f22/language/da) | 853 | 1178 | 72.4 | /mnt/stockage/packages/f22/nesc/libcpp/po/da.po | 
+ | [ja](/f22/language/ja) | 499 | 1178 | 42.4 | /mnt/stockage/packages/f22/nesc/libcpp/po/ja.po | 
+ | [be](/f22/language/be) | 25 | 1178 | 2.1 | /mnt/stockage/packages/f22/nesc/libcpp/po/be.po | 
+ | [el](/f22/language/el) | 15 | 1178 | 1.3 | /mnt/stockage/packages/f22/nesc/libcpp/po/el.po | 
+ | [rw](/f22/language/rw) | 0 | 1140 | 0.0 | /mnt/stockage/packages/f22/nesc/libcpp/po/rw.po | 
 {.sortable}
 
 

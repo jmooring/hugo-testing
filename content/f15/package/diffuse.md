@@ -18,13 +18,13 @@ The package diffuse (version 0.4.5):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f15/language/de.md" >}}) | 976 | 976 | 100.0 | /mnt/stockage/packages/f15/diffuse/translations/de.po | 
- | [it]({{< ref "/f15/language/it.md" >}}) | 976 | 976 | 100.0 | /mnt/stockage/packages/f15/diffuse/translations/it.po | 
- | [ja]({{< ref "/f15/language/ja.md" >}}) | 976 | 976 | 100.0 | /mnt/stockage/packages/f15/diffuse/translations/ja.po | 
- | [ko]({{< ref "/f15/language/ko.md" >}}) | 976 | 976 | 100.0 | /mnt/stockage/packages/f15/diffuse/translations/ko.po | 
- | [ru]({{< ref "/f15/language/ru.md" >}}) | 976 | 976 | 100.0 | /mnt/stockage/packages/f15/diffuse/translations/ru.po | 
- | [zh_Hans]({{< ref "/f15/language/zh_Hans.md" >}}) | 831 | 976 | 85.1 | /mnt/stockage/packages/f15/diffuse/translations/zh_CN.po | 
- | [es]({{< ref "/f15/language/es.md" >}}) | 752 | 976 | 77.0 | /mnt/stockage/packages/f15/diffuse/translations/es.po | 
+ | [de](/f15/language/de) | 976 | 976 | 100.0 | /mnt/stockage/packages/f15/diffuse/translations/de.po | 
+ | [it](/f15/language/it) | 976 | 976 | 100.0 | /mnt/stockage/packages/f15/diffuse/translations/it.po | 
+ | [ja](/f15/language/ja) | 976 | 976 | 100.0 | /mnt/stockage/packages/f15/diffuse/translations/ja.po | 
+ | [ko](/f15/language/ko) | 976 | 976 | 100.0 | /mnt/stockage/packages/f15/diffuse/translations/ko.po | 
+ | [ru](/f15/language/ru) | 976 | 976 | 100.0 | /mnt/stockage/packages/f15/diffuse/translations/ru.po | 
+ | [zh_Hans](/f15/language/zh_Hans) | 831 | 976 | 85.1 | /mnt/stockage/packages/f15/diffuse/translations/zh_CN.po | 
+ | [es](/f15/language/es) | 752 | 976 | 77.0 | /mnt/stockage/packages/f15/diffuse/translations/es.po | 
 {.sortable}
 
 

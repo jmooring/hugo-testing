@@ -18,54 +18,54 @@ The package webkit2gtk3 (version 2.34.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [as]({{< ref "/f33/language/as.md" >}}) | 1543 | 1543 | 100.0 | /mnt/stockage/packages/f33/webkit2gtk3/Source/WebCore/platform/gtk/po/as.po | 
- | [bg]({{< ref "/f33/language/bg.md" >}}) | 1606 | 1606 | 100.0 | /mnt/stockage/packages/f33/webkit2gtk3/Source/WebCore/platform/gtk/po/bg.po | 
- | [da]({{< ref "/f33/language/da.md" >}}) | 2617 | 2617 | 100.0 | /mnt/stockage/packages/f33/webkit2gtk3/Source/WebCore/platform/gtk/po/da.po | 
- | [en_GB]({{< ref "/f33/language/en_GB.md" >}}) | 2702 | 2702 | 100.0 | /mnt/stockage/packages/f33/webkit2gtk3/Source/WebCore/platform/gtk/po/en_GB.po | 
- | [fr]({{< ref "/f33/language/fr.md" >}}) | 2652 | 2652 | 100.0 | /mnt/stockage/packages/f33/webkit2gtk3/Source/WebCore/platform/gtk/po/fr.po | 
- | [gu]({{< ref "/f33/language/gu.md" >}}) | 1545 | 1545 | 100.0 | /mnt/stockage/packages/f33/webkit2gtk3/Source/WebCore/platform/gtk/po/gu.po | 
- | [he]({{< ref "/f33/language/he.md" >}}) | 1567 | 1567 | 100.0 | /mnt/stockage/packages/f33/webkit2gtk3/Source/WebCore/platform/gtk/po/he.po | 
- | [hi]({{< ref "/f33/language/hi.md" >}}) | 1526 | 1526 | 100.0 | /mnt/stockage/packages/f33/webkit2gtk3/Source/WebCore/platform/gtk/po/hi.po | 
- | [hu]({{< ref "/f33/language/hu.md" >}}) | 1647 | 1647 | 100.0 | /mnt/stockage/packages/f33/webkit2gtk3/Source/WebCore/platform/gtk/po/hu.po | 
- | [kn]({{< ref "/f33/language/kn.md" >}}) | 1551 | 1551 | 100.0 | /mnt/stockage/packages/f33/webkit2gtk3/Source/WebCore/platform/gtk/po/kn.po | 
- | [mr]({{< ref "/f33/language/mr.md" >}}) | 1526 | 1526 | 100.0 | /mnt/stockage/packages/f33/webkit2gtk3/Source/WebCore/platform/gtk/po/mr.po | 
- | [or]({{< ref "/f33/language/or.md" >}}) | 1526 | 1526 | 100.0 | /mnt/stockage/packages/f33/webkit2gtk3/Source/WebCore/platform/gtk/po/or.po | 
- | [pl]({{< ref "/f33/language/pl.md" >}}) | 2652 | 2652 | 100.0 | /mnt/stockage/packages/f33/webkit2gtk3/Source/WebCore/platform/gtk/po/pl.po | 
- | [pt_BR]({{< ref "/f33/language/pt_BR.md" >}}) | 2617 | 2617 | 100.0 | /mnt/stockage/packages/f33/webkit2gtk3/Source/WebCore/platform/gtk/po/pt_BR.po | 
- | [sv]({{< ref "/f33/language/sv.md" >}}) | 2652 | 2652 | 100.0 | /mnt/stockage/packages/f33/webkit2gtk3/Source/WebCore/platform/gtk/po/sv.po | 
- | [ta]({{< ref "/f33/language/ta.md" >}}) | 1545 | 1545 | 100.0 | /mnt/stockage/packages/f33/webkit2gtk3/Source/WebCore/platform/gtk/po/ta.po | 
- | [te]({{< ref "/f33/language/te.md" >}}) | 1526 | 1526 | 100.0 | /mnt/stockage/packages/f33/webkit2gtk3/Source/WebCore/platform/gtk/po/te.po | 
- | [tr]({{< ref "/f33/language/tr.md" >}}) | 1606 | 1606 | 100.0 | /mnt/stockage/packages/f33/webkit2gtk3/Source/WebCore/platform/gtk/po/tr.po | 
- | [uk]({{< ref "/f33/language/uk.md" >}}) | 2652 | 2652 | 100.0 | /mnt/stockage/packages/f33/webkit2gtk3/Source/WebCore/platform/gtk/po/uk.po | 
- | [zh_Hans]({{< ref "/f33/language/zh_Hans.md" >}}) | 2607 | 2607 | 100.0 | /mnt/stockage/packages/f33/webkit2gtk3/Source/WebCore/platform/gtk/po/zh_CN.po | 
- | [ko]({{< ref "/f33/language/ko.md" >}}) | 2622 | 2623 | 100.0 | /mnt/stockage/packages/f33/webkit2gtk3/Source/WebCore/platform/gtk/po/ko.po | 
- | [it]({{< ref "/f33/language/it.md" >}}) | 2277 | 2278 | 100.0 | /mnt/stockage/packages/f33/webkit2gtk3/Source/WebCore/platform/gtk/po/it.po | 
- | [el]({{< ref "/f33/language/el.md" >}}) | 1605 | 1606 | 99.9 | /mnt/stockage/packages/f33/webkit2gtk3/Source/WebCore/platform/gtk/po/el.po | 
- | [ja]({{< ref "/f33/language/ja.md" >}}) | 2682 | 2708 | 99.0 | /mnt/stockage/packages/f33/webkit2gtk3/Source/WebCore/platform/gtk/po/ja.po | 
- | [gl]({{< ref "/f33/language/gl.md" >}}) | 2647 | 2686 | 98.5 | /mnt/stockage/packages/f33/webkit2gtk3/Source/WebCore/platform/gtk/po/gl.po | 
- | [de]({{< ref "/f33/language/de.md" >}}) | 2139 | 2386 | 89.6 | /mnt/stockage/packages/f33/webkit2gtk3/Source/WebCore/platform/gtk/po/de.po | 
- | [nl]({{< ref "/f33/language/nl.md" >}}) | 2407 | 2699 | 89.2 | /mnt/stockage/packages/f33/webkit2gtk3/Source/WebCore/platform/gtk/po/nl.po | 
- | [id]({{< ref "/f33/language/id.md" >}}) | 1880 | 2235 | 84.1 | /mnt/stockage/packages/f33/webkit2gtk3/Source/WebCore/platform/gtk/po/id.po | 
- | [es]({{< ref "/f33/language/es.md" >}}) | 1721 | 2338 | 73.6 | /mnt/stockage/packages/f33/webkit2gtk3/Source/WebCore/platform/gtk/po/es.po | 
- | [ro]({{< ref "/f33/language/ro.md" >}}) | 1834 | 2623 | 69.9 | /mnt/stockage/packages/f33/webkit2gtk3/Source/WebCore/platform/gtk/po/ro.po | 
- | [sl]({{< ref "/f33/language/sl.md" >}}) | 1889 | 2710 | 69.7 | /mnt/stockage/packages/f33/webkit2gtk3/Source/WebCore/platform/gtk/po/sl.po | 
- | [en_CA]({{< ref "/f33/language/en_CA.md" >}}) | 1441 | 2621 | 55.0 | /mnt/stockage/packages/f33/webkit2gtk3/Source/WebCore/platform/gtk/po/en_CA.po | 
- | [pt]({{< ref "/f33/language/pt.md" >}}) | 1375 | 2623 | 52.4 | /mnt/stockage/packages/f33/webkit2gtk3/Source/WebCore/platform/gtk/po/pt.po | 
- | [cs]({{< ref "/f33/language/cs.md" >}}) | 1295 | 2623 | 49.4 | /mnt/stockage/packages/f33/webkit2gtk3/Source/WebCore/platform/gtk/po/cs.po | 
- | [ar]({{< ref "/f33/language/ar.md" >}}) | 1073 | 2623 | 40.9 | /mnt/stockage/packages/f33/webkit2gtk3/Source/WebCore/platform/gtk/po/ar.po | 
- | [sr]({{< ref "/f33/language/sr.md" >}}) | 2146 | 5246 | 40.9 | /mnt/stockage/packages/f33/webkit2gtk3/Source/WebCore/platform/gtk/po/sr@latin.po/mnt/stockage/packages/f33/webkit2gtk3/Source/WebCore/platform/gtk/po/sr.po | 
- | [eu]({{< ref "/f33/language/eu.md" >}}) | 1066 | 2623 | 40.6 | /mnt/stockage/packages/f33/webkit2gtk3/Source/WebCore/platform/gtk/po/eu.po | 
- | [vi]({{< ref "/f33/language/vi.md" >}}) | 1062 | 2623 | 40.5 | /mnt/stockage/packages/f33/webkit2gtk3/Source/WebCore/platform/gtk/po/vi.po | 
- | [lt]({{< ref "/f33/language/lt.md" >}}) | 1052 | 2623 | 40.1 | /mnt/stockage/packages/f33/webkit2gtk3/Source/WebCore/platform/gtk/po/lt.po | 
- | [et]({{< ref "/f33/language/et.md" >}}) | 969 | 2623 | 36.9 | /mnt/stockage/packages/f33/webkit2gtk3/Source/WebCore/platform/gtk/po/et.po | 
- | [ca]({{< ref "/f33/language/ca.md" >}}) | 462 | 1567 | 29.5 | /mnt/stockage/packages/f33/webkit2gtk3/Source/WebCore/platform/gtk/po/ca.po | 
- | [lv]({{< ref "/f33/language/lv.md" >}}) | 671 | 2623 | 25.6 | /mnt/stockage/packages/f33/webkit2gtk3/Source/WebCore/platform/gtk/po/lv.po | 
- | [pa]({{< ref "/f33/language/pa.md" >}}) | 671 | 2623 | 25.6 | /mnt/stockage/packages/f33/webkit2gtk3/Source/WebCore/platform/gtk/po/pa.po | 
- | [ru]({{< ref "/f33/language/ru.md" >}}) | 605 | 2623 | 23.1 | /mnt/stockage/packages/f33/webkit2gtk3/Source/WebCore/platform/gtk/po/ru.po | 
- | [fi]({{< ref "/f33/language/fi.md" >}}) | 291 | 1599 | 18.2 | /mnt/stockage/packages/f33/webkit2gtk3/Source/WebCore/platform/gtk/po/fi.po | 
- | [ml]({{< ref "/f33/language/ml.md" >}}) | 429 | 2681 | 16.0 | /mnt/stockage/packages/f33/webkit2gtk3/Source/WebCore/platform/gtk/po/ml.po | 
- | [eo]({{< ref "/f33/language/eo.md" >}}) | 303 | 2623 | 11.6 | /mnt/stockage/packages/f33/webkit2gtk3/Source/WebCore/platform/gtk/po/eo.po | 
- | [nb_NO]({{< ref "/f33/language/nb_NO.md" >}}) | 215 | 2623 | 8.2 | /mnt/stockage/packages/f33/webkit2gtk3/Source/WebCore/platform/gtk/po/nb.po | 
+ | [as](/f33/language/as) | 1543 | 1543 | 100.0 | /mnt/stockage/packages/f33/webkit2gtk3/Source/WebCore/platform/gtk/po/as.po | 
+ | [bg](/f33/language/bg) | 1606 | 1606 | 100.0 | /mnt/stockage/packages/f33/webkit2gtk3/Source/WebCore/platform/gtk/po/bg.po | 
+ | [da](/f33/language/da) | 2617 | 2617 | 100.0 | /mnt/stockage/packages/f33/webkit2gtk3/Source/WebCore/platform/gtk/po/da.po | 
+ | [en_GB](/f33/language/en_GB) | 2702 | 2702 | 100.0 | /mnt/stockage/packages/f33/webkit2gtk3/Source/WebCore/platform/gtk/po/en_GB.po | 
+ | [fr](/f33/language/fr) | 2652 | 2652 | 100.0 | /mnt/stockage/packages/f33/webkit2gtk3/Source/WebCore/platform/gtk/po/fr.po | 
+ | [gu](/f33/language/gu) | 1545 | 1545 | 100.0 | /mnt/stockage/packages/f33/webkit2gtk3/Source/WebCore/platform/gtk/po/gu.po | 
+ | [he](/f33/language/he) | 1567 | 1567 | 100.0 | /mnt/stockage/packages/f33/webkit2gtk3/Source/WebCore/platform/gtk/po/he.po | 
+ | [hi](/f33/language/hi) | 1526 | 1526 | 100.0 | /mnt/stockage/packages/f33/webkit2gtk3/Source/WebCore/platform/gtk/po/hi.po | 
+ | [hu](/f33/language/hu) | 1647 | 1647 | 100.0 | /mnt/stockage/packages/f33/webkit2gtk3/Source/WebCore/platform/gtk/po/hu.po | 
+ | [kn](/f33/language/kn) | 1551 | 1551 | 100.0 | /mnt/stockage/packages/f33/webkit2gtk3/Source/WebCore/platform/gtk/po/kn.po | 
+ | [mr](/f33/language/mr) | 1526 | 1526 | 100.0 | /mnt/stockage/packages/f33/webkit2gtk3/Source/WebCore/platform/gtk/po/mr.po | 
+ | [or](/f33/language/or) | 1526 | 1526 | 100.0 | /mnt/stockage/packages/f33/webkit2gtk3/Source/WebCore/platform/gtk/po/or.po | 
+ | [pl](/f33/language/pl) | 2652 | 2652 | 100.0 | /mnt/stockage/packages/f33/webkit2gtk3/Source/WebCore/platform/gtk/po/pl.po | 
+ | [pt_BR](/f33/language/pt_BR) | 2617 | 2617 | 100.0 | /mnt/stockage/packages/f33/webkit2gtk3/Source/WebCore/platform/gtk/po/pt_BR.po | 
+ | [sv](/f33/language/sv) | 2652 | 2652 | 100.0 | /mnt/stockage/packages/f33/webkit2gtk3/Source/WebCore/platform/gtk/po/sv.po | 
+ | [ta](/f33/language/ta) | 1545 | 1545 | 100.0 | /mnt/stockage/packages/f33/webkit2gtk3/Source/WebCore/platform/gtk/po/ta.po | 
+ | [te](/f33/language/te) | 1526 | 1526 | 100.0 | /mnt/stockage/packages/f33/webkit2gtk3/Source/WebCore/platform/gtk/po/te.po | 
+ | [tr](/f33/language/tr) | 1606 | 1606 | 100.0 | /mnt/stockage/packages/f33/webkit2gtk3/Source/WebCore/platform/gtk/po/tr.po | 
+ | [uk](/f33/language/uk) | 2652 | 2652 | 100.0 | /mnt/stockage/packages/f33/webkit2gtk3/Source/WebCore/platform/gtk/po/uk.po | 
+ | [zh_Hans](/f33/language/zh_Hans) | 2607 | 2607 | 100.0 | /mnt/stockage/packages/f33/webkit2gtk3/Source/WebCore/platform/gtk/po/zh_CN.po | 
+ | [ko](/f33/language/ko) | 2622 | 2623 | 100.0 | /mnt/stockage/packages/f33/webkit2gtk3/Source/WebCore/platform/gtk/po/ko.po | 
+ | [it](/f33/language/it) | 2277 | 2278 | 100.0 | /mnt/stockage/packages/f33/webkit2gtk3/Source/WebCore/platform/gtk/po/it.po | 
+ | [el](/f33/language/el) | 1605 | 1606 | 99.9 | /mnt/stockage/packages/f33/webkit2gtk3/Source/WebCore/platform/gtk/po/el.po | 
+ | [ja](/f33/language/ja) | 2682 | 2708 | 99.0 | /mnt/stockage/packages/f33/webkit2gtk3/Source/WebCore/platform/gtk/po/ja.po | 
+ | [gl](/f33/language/gl) | 2647 | 2686 | 98.5 | /mnt/stockage/packages/f33/webkit2gtk3/Source/WebCore/platform/gtk/po/gl.po | 
+ | [de](/f33/language/de) | 2139 | 2386 | 89.6 | /mnt/stockage/packages/f33/webkit2gtk3/Source/WebCore/platform/gtk/po/de.po | 
+ | [nl](/f33/language/nl) | 2407 | 2699 | 89.2 | /mnt/stockage/packages/f33/webkit2gtk3/Source/WebCore/platform/gtk/po/nl.po | 
+ | [id](/f33/language/id) | 1880 | 2235 | 84.1 | /mnt/stockage/packages/f33/webkit2gtk3/Source/WebCore/platform/gtk/po/id.po | 
+ | [es](/f33/language/es) | 1721 | 2338 | 73.6 | /mnt/stockage/packages/f33/webkit2gtk3/Source/WebCore/platform/gtk/po/es.po | 
+ | [ro](/f33/language/ro) | 1834 | 2623 | 69.9 | /mnt/stockage/packages/f33/webkit2gtk3/Source/WebCore/platform/gtk/po/ro.po | 
+ | [sl](/f33/language/sl) | 1889 | 2710 | 69.7 | /mnt/stockage/packages/f33/webkit2gtk3/Source/WebCore/platform/gtk/po/sl.po | 
+ | [en_CA](/f33/language/en_CA) | 1441 | 2621 | 55.0 | /mnt/stockage/packages/f33/webkit2gtk3/Source/WebCore/platform/gtk/po/en_CA.po | 
+ | [pt](/f33/language/pt) | 1375 | 2623 | 52.4 | /mnt/stockage/packages/f33/webkit2gtk3/Source/WebCore/platform/gtk/po/pt.po | 
+ | [cs](/f33/language/cs) | 1295 | 2623 | 49.4 | /mnt/stockage/packages/f33/webkit2gtk3/Source/WebCore/platform/gtk/po/cs.po | 
+ | [ar](/f33/language/ar) | 1073 | 2623 | 40.9 | /mnt/stockage/packages/f33/webkit2gtk3/Source/WebCore/platform/gtk/po/ar.po | 
+ | [sr](/f33/language/sr) | 2146 | 5246 | 40.9 | /mnt/stockage/packages/f33/webkit2gtk3/Source/WebCore/platform/gtk/po/sr@latin.po/mnt/stockage/packages/f33/webkit2gtk3/Source/WebCore/platform/gtk/po/sr.po | 
+ | [eu](/f33/language/eu) | 1066 | 2623 | 40.6 | /mnt/stockage/packages/f33/webkit2gtk3/Source/WebCore/platform/gtk/po/eu.po | 
+ | [vi](/f33/language/vi) | 1062 | 2623 | 40.5 | /mnt/stockage/packages/f33/webkit2gtk3/Source/WebCore/platform/gtk/po/vi.po | 
+ | [lt](/f33/language/lt) | 1052 | 2623 | 40.1 | /mnt/stockage/packages/f33/webkit2gtk3/Source/WebCore/platform/gtk/po/lt.po | 
+ | [et](/f33/language/et) | 969 | 2623 | 36.9 | /mnt/stockage/packages/f33/webkit2gtk3/Source/WebCore/platform/gtk/po/et.po | 
+ | [ca](/f33/language/ca) | 462 | 1567 | 29.5 | /mnt/stockage/packages/f33/webkit2gtk3/Source/WebCore/platform/gtk/po/ca.po | 
+ | [lv](/f33/language/lv) | 671 | 2623 | 25.6 | /mnt/stockage/packages/f33/webkit2gtk3/Source/WebCore/platform/gtk/po/lv.po | 
+ | [pa](/f33/language/pa) | 671 | 2623 | 25.6 | /mnt/stockage/packages/f33/webkit2gtk3/Source/WebCore/platform/gtk/po/pa.po | 
+ | [ru](/f33/language/ru) | 605 | 2623 | 23.1 | /mnt/stockage/packages/f33/webkit2gtk3/Source/WebCore/platform/gtk/po/ru.po | 
+ | [fi](/f33/language/fi) | 291 | 1599 | 18.2 | /mnt/stockage/packages/f33/webkit2gtk3/Source/WebCore/platform/gtk/po/fi.po | 
+ | [ml](/f33/language/ml) | 429 | 2681 | 16.0 | /mnt/stockage/packages/f33/webkit2gtk3/Source/WebCore/platform/gtk/po/ml.po | 
+ | [eo](/f33/language/eo) | 303 | 2623 | 11.6 | /mnt/stockage/packages/f33/webkit2gtk3/Source/WebCore/platform/gtk/po/eo.po | 
+ | [nb_NO](/f33/language/nb_NO) | 215 | 2623 | 8.2 | /mnt/stockage/packages/f33/webkit2gtk3/Source/WebCore/platform/gtk/po/nb.po | 
 {.sortable}
 
 

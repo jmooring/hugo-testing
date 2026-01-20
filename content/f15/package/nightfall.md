@@ -18,9 +18,9 @@ The package nightfall (version 1.62):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f15/language/de.md" >}}) | 3530 | 3530 | 100.0 | /mnt/stockage/packages/f15/nightfall/po/de.po | 
- | [it]({{< ref "/f15/language/it.md" >}}) | 3451 | 3451 | 100.0 | /mnt/stockage/packages/f15/nightfall/po/it.po | 
- | [error]({{< ref "/f15/language/error.md" >}}) | 6218 | 6248 | 99.5 | /mnt/stockage/packages/f15/nightfall/po/de1.po/mnt/stockage/packages/f15/nightfall/po/de_1.42.po | 
+ | [de](/f15/language/de) | 3530 | 3530 | 100.0 | /mnt/stockage/packages/f15/nightfall/po/de.po | 
+ | [it](/f15/language/it) | 3451 | 3451 | 100.0 | /mnt/stockage/packages/f15/nightfall/po/it.po | 
+ | [error](/f15/language/error) | 6218 | 6248 | 99.5 | /mnt/stockage/packages/f15/nightfall/po/de1.po/mnt/stockage/packages/f15/nightfall/po/de_1.42.po | 
 {.sortable}
 
 

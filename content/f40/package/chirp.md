@@ -18,21 +18,21 @@ The package chirp (version 0.4.0^20240429gitcab8248e):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [es]({{< ref "/f40/language/es.md" >}}) | 5230 | 5230 | 100.0 | /mnt/stockage/packages/f40/chirp/chirp/locale/es.po | 
- | [it]({{< ref "/f40/language/it.md" >}}) | 5230 | 5230 | 100.0 | /mnt/stockage/packages/f40/chirp/chirp/locale/it.po | 
- | [tr]({{< ref "/f40/language/tr.md" >}}) | 5030 | 5230 | 96.2 | /mnt/stockage/packages/f40/chirp/chirp/locale/tr_TR.po | 
- | [fr]({{< ref "/f40/language/fr.md" >}}) | 4651 | 5230 | 88.9 | /mnt/stockage/packages/f40/chirp/chirp/locale/fr.po | 
- | [ru]({{< ref "/f40/language/ru.md" >}}) | 4501 | 5230 | 86.1 | /mnt/stockage/packages/f40/chirp/chirp/locale/ru.po | 
- | [pl]({{< ref "/f40/language/pl.md" >}}) | 1259 | 5230 | 24.1 | /mnt/stockage/packages/f40/chirp/chirp/locale/pl.po | 
- | [ja]({{< ref "/f40/language/ja.md" >}}) | 745 | 5230 | 14.2 | /mnt/stockage/packages/f40/chirp/chirp/locale/ja_JP.po | 
- | [zh_Hans]({{< ref "/f40/language/zh_Hans.md" >}}) | 582 | 5230 | 11.1 | /mnt/stockage/packages/f40/chirp/chirp/locale/zh_CN.po | 
- | [el]({{< ref "/f40/language/el.md" >}}) | 508 | 5230 | 9.7 | /mnt/stockage/packages/f40/chirp/chirp/locale/el.po | 
- | [de]({{< ref "/f40/language/de.md" >}}) | 36 | 5230 | 0.7 | /mnt/stockage/packages/f40/chirp/chirp/locale/de.po | 
- | [hu]({{< ref "/f40/language/hu.md" >}}) | 36 | 5230 | 0.7 | /mnt/stockage/packages/f40/chirp/chirp/locale/hu.po | 
- | [nl]({{< ref "/f40/language/nl.md" >}}) | 35 | 5230 | 0.7 | /mnt/stockage/packages/f40/chirp/chirp/locale/nl.po | 
- | [pt_BR]({{< ref "/f40/language/pt_BR.md" >}}) | 35 | 5230 | 0.7 | /mnt/stockage/packages/f40/chirp/chirp/locale/pt_BR.po | 
- | [uk]({{< ref "/f40/language/uk.md" >}}) | 23 | 5230 | 0.4 | /mnt/stockage/packages/f40/chirp/chirp/locale/uk_UA.po | 
- | [en_US]({{< ref "/f40/language/en_US.md" >}}) | 2 | 5230 | 0.0 | /mnt/stockage/packages/f40/chirp/chirp/locale/en_US.po | 
+ | [es](/f40/language/es) | 5230 | 5230 | 100.0 | /mnt/stockage/packages/f40/chirp/chirp/locale/es.po | 
+ | [it](/f40/language/it) | 5230 | 5230 | 100.0 | /mnt/stockage/packages/f40/chirp/chirp/locale/it.po | 
+ | [tr](/f40/language/tr) | 5030 | 5230 | 96.2 | /mnt/stockage/packages/f40/chirp/chirp/locale/tr_TR.po | 
+ | [fr](/f40/language/fr) | 4651 | 5230 | 88.9 | /mnt/stockage/packages/f40/chirp/chirp/locale/fr.po | 
+ | [ru](/f40/language/ru) | 4501 | 5230 | 86.1 | /mnt/stockage/packages/f40/chirp/chirp/locale/ru.po | 
+ | [pl](/f40/language/pl) | 1259 | 5230 | 24.1 | /mnt/stockage/packages/f40/chirp/chirp/locale/pl.po | 
+ | [ja](/f40/language/ja) | 745 | 5230 | 14.2 | /mnt/stockage/packages/f40/chirp/chirp/locale/ja_JP.po | 
+ | [zh_Hans](/f40/language/zh_Hans) | 582 | 5230 | 11.1 | /mnt/stockage/packages/f40/chirp/chirp/locale/zh_CN.po | 
+ | [el](/f40/language/el) | 508 | 5230 | 9.7 | /mnt/stockage/packages/f40/chirp/chirp/locale/el.po | 
+ | [de](/f40/language/de) | 36 | 5230 | 0.7 | /mnt/stockage/packages/f40/chirp/chirp/locale/de.po | 
+ | [hu](/f40/language/hu) | 36 | 5230 | 0.7 | /mnt/stockage/packages/f40/chirp/chirp/locale/hu.po | 
+ | [nl](/f40/language/nl) | 35 | 5230 | 0.7 | /mnt/stockage/packages/f40/chirp/chirp/locale/nl.po | 
+ | [pt_BR](/f40/language/pt_BR) | 35 | 5230 | 0.7 | /mnt/stockage/packages/f40/chirp/chirp/locale/pt_BR.po | 
+ | [uk](/f40/language/uk) | 23 | 5230 | 0.4 | /mnt/stockage/packages/f40/chirp/chirp/locale/uk_UA.po | 
+ | [en_US](/f40/language/en_US) | 2 | 5230 | 0.0 | /mnt/stockage/packages/f40/chirp/chirp/locale/en_US.po | 
 {.sortable}
 
 

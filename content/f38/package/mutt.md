@@ -18,36 +18,36 @@ The package mutt (version 2.2.12):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f38/language/ca.md" >}}) | 6717 | 6729 | 99.8 | /mnt/stockage/packages/f38/mutt/po/ca.po | 
- | [cs]({{< ref "/f38/language/cs.md" >}}) | 6717 | 6729 | 99.8 | /mnt/stockage/packages/f38/mutt/po/cs.po | 
- | [fi]({{< ref "/f38/language/fi.md" >}}) | 6717 | 6729 | 99.8 | /mnt/stockage/packages/f38/mutt/po/fi.po | 
- | [fr]({{< ref "/f38/language/fr.md" >}}) | 6717 | 6729 | 99.8 | /mnt/stockage/packages/f38/mutt/po/fr.po | 
- | [pl]({{< ref "/f38/language/pl.md" >}}) | 6717 | 6729 | 99.8 | /mnt/stockage/packages/f38/mutt/po/pl.po | 
- | [ru]({{< ref "/f38/language/ru.md" >}}) | 6717 | 6729 | 99.8 | /mnt/stockage/packages/f38/mutt/po/ru.po | 
- | [tr]({{< ref "/f38/language/tr.md" >}}) | 6717 | 6729 | 99.8 | /mnt/stockage/packages/f38/mutt/po/tr.po | 
- | [uk]({{< ref "/f38/language/uk.md" >}}) | 6717 | 6729 | 99.8 | /mnt/stockage/packages/f38/mutt/po/uk.po | 
- | [de]({{< ref "/f38/language/de.md" >}}) | 6716 | 6729 | 99.8 | /mnt/stockage/packages/f38/mutt/po/de.po | 
- | [ja]({{< ref "/f38/language/ja.md" >}}) | 6642 | 6729 | 98.7 | /mnt/stockage/packages/f38/mutt/po/ja.po | 
- | [eo]({{< ref "/f38/language/eo.md" >}}) | 6581 | 6729 | 97.8 | /mnt/stockage/packages/f38/mutt/po/eo.po | 
- | [da]({{< ref "/f38/language/da.md" >}}) | 6395 | 6729 | 95.0 | /mnt/stockage/packages/f38/mutt/po/da.po | 
- | [nl]({{< ref "/f38/language/nl.md" >}}) | 6072 | 6729 | 90.2 | /mnt/stockage/packages/f38/mutt/po/nl.po | 
- | [zh_Hans]({{< ref "/f38/language/zh_Hans.md" >}}) | 5741 | 6729 | 85.3 | /mnt/stockage/packages/f38/mutt/po/zh_CN.po | 
- | [it]({{< ref "/f38/language/it.md" >}}) | 4576 | 6729 | 68.0 | /mnt/stockage/packages/f38/mutt/po/it.po | 
- | [sv]({{< ref "/f38/language/sv.md" >}}) | 4465 | 6729 | 66.4 | /mnt/stockage/packages/f38/mutt/po/sv.po | 
- | [eu]({{< ref "/f38/language/eu.md" >}}) | 4361 | 6729 | 64.8 | /mnt/stockage/packages/f38/mutt/po/eu.po | 
- | [id]({{< ref "/f38/language/id.md" >}}) | 4328 | 6729 | 64.3 | /mnt/stockage/packages/f38/mutt/po/id.po | 
- | [ga]({{< ref "/f38/language/ga.md" >}}) | 4325 | 6729 | 64.3 | /mnt/stockage/packages/f38/mutt/po/ga.po | 
- | [el]({{< ref "/f38/language/el.md" >}}) | 3532 | 6729 | 52.5 | /mnt/stockage/packages/f38/mutt/po/el.po | 
- | [ko]({{< ref "/f38/language/ko.md" >}}) | 3464 | 6729 | 51.5 | /mnt/stockage/packages/f38/mutt/po/ko.po | 
- | [bg]({{< ref "/f38/language/bg.md" >}}) | 3435 | 6729 | 51.0 | /mnt/stockage/packages/f38/mutt/po/bg.po | 
- | [hu]({{< ref "/f38/language/hu.md" >}}) | 3424 | 6729 | 50.9 | /mnt/stockage/packages/f38/mutt/po/hu.po | 
- | [et]({{< ref "/f38/language/et.md" >}}) | 3326 | 6729 | 49.4 | /mnt/stockage/packages/f38/mutt/po/et.po | 
- | [zh_Hant]({{< ref "/f38/language/zh_Hant.md" >}}) | 3066 | 6729 | 45.6 | /mnt/stockage/packages/f38/mutt/po/zh_TW.po | 
- | [es]({{< ref "/f38/language/es.md" >}}) | 2996 | 6729 | 44.5 | /mnt/stockage/packages/f38/mutt/po/es.po | 
- | [gl]({{< ref "/f38/language/gl.md" >}}) | 2947 | 6729 | 43.8 | /mnt/stockage/packages/f38/mutt/po/gl.po | 
- | [lt]({{< ref "/f38/language/lt.md" >}}) | 2890 | 6729 | 42.9 | /mnt/stockage/packages/f38/mutt/po/lt.po | 
- | [pt_BR]({{< ref "/f38/language/pt_BR.md" >}}) | 2614 | 6729 | 38.8 | /mnt/stockage/packages/f38/mutt/po/pt_BR.po | 
- | [sk]({{< ref "/f38/language/sk.md" >}}) | 2151 | 6729 | 32.0 | /mnt/stockage/packages/f38/mutt/po/sk.po | 
+ | [ca](/f38/language/ca) | 6717 | 6729 | 99.8 | /mnt/stockage/packages/f38/mutt/po/ca.po | 
+ | [cs](/f38/language/cs) | 6717 | 6729 | 99.8 | /mnt/stockage/packages/f38/mutt/po/cs.po | 
+ | [fi](/f38/language/fi) | 6717 | 6729 | 99.8 | /mnt/stockage/packages/f38/mutt/po/fi.po | 
+ | [fr](/f38/language/fr) | 6717 | 6729 | 99.8 | /mnt/stockage/packages/f38/mutt/po/fr.po | 
+ | [pl](/f38/language/pl) | 6717 | 6729 | 99.8 | /mnt/stockage/packages/f38/mutt/po/pl.po | 
+ | [ru](/f38/language/ru) | 6717 | 6729 | 99.8 | /mnt/stockage/packages/f38/mutt/po/ru.po | 
+ | [tr](/f38/language/tr) | 6717 | 6729 | 99.8 | /mnt/stockage/packages/f38/mutt/po/tr.po | 
+ | [uk](/f38/language/uk) | 6717 | 6729 | 99.8 | /mnt/stockage/packages/f38/mutt/po/uk.po | 
+ | [de](/f38/language/de) | 6716 | 6729 | 99.8 | /mnt/stockage/packages/f38/mutt/po/de.po | 
+ | [ja](/f38/language/ja) | 6642 | 6729 | 98.7 | /mnt/stockage/packages/f38/mutt/po/ja.po | 
+ | [eo](/f38/language/eo) | 6581 | 6729 | 97.8 | /mnt/stockage/packages/f38/mutt/po/eo.po | 
+ | [da](/f38/language/da) | 6395 | 6729 | 95.0 | /mnt/stockage/packages/f38/mutt/po/da.po | 
+ | [nl](/f38/language/nl) | 6072 | 6729 | 90.2 | /mnt/stockage/packages/f38/mutt/po/nl.po | 
+ | [zh_Hans](/f38/language/zh_Hans) | 5741 | 6729 | 85.3 | /mnt/stockage/packages/f38/mutt/po/zh_CN.po | 
+ | [it](/f38/language/it) | 4576 | 6729 | 68.0 | /mnt/stockage/packages/f38/mutt/po/it.po | 
+ | [sv](/f38/language/sv) | 4465 | 6729 | 66.4 | /mnt/stockage/packages/f38/mutt/po/sv.po | 
+ | [eu](/f38/language/eu) | 4361 | 6729 | 64.8 | /mnt/stockage/packages/f38/mutt/po/eu.po | 
+ | [id](/f38/language/id) | 4328 | 6729 | 64.3 | /mnt/stockage/packages/f38/mutt/po/id.po | 
+ | [ga](/f38/language/ga) | 4325 | 6729 | 64.3 | /mnt/stockage/packages/f38/mutt/po/ga.po | 
+ | [el](/f38/language/el) | 3532 | 6729 | 52.5 | /mnt/stockage/packages/f38/mutt/po/el.po | 
+ | [ko](/f38/language/ko) | 3464 | 6729 | 51.5 | /mnt/stockage/packages/f38/mutt/po/ko.po | 
+ | [bg](/f38/language/bg) | 3435 | 6729 | 51.0 | /mnt/stockage/packages/f38/mutt/po/bg.po | 
+ | [hu](/f38/language/hu) | 3424 | 6729 | 50.9 | /mnt/stockage/packages/f38/mutt/po/hu.po | 
+ | [et](/f38/language/et) | 3326 | 6729 | 49.4 | /mnt/stockage/packages/f38/mutt/po/et.po | 
+ | [zh_Hant](/f38/language/zh_Hant) | 3066 | 6729 | 45.6 | /mnt/stockage/packages/f38/mutt/po/zh_TW.po | 
+ | [es](/f38/language/es) | 2996 | 6729 | 44.5 | /mnt/stockage/packages/f38/mutt/po/es.po | 
+ | [gl](/f38/language/gl) | 2947 | 6729 | 43.8 | /mnt/stockage/packages/f38/mutt/po/gl.po | 
+ | [lt](/f38/language/lt) | 2890 | 6729 | 42.9 | /mnt/stockage/packages/f38/mutt/po/lt.po | 
+ | [pt_BR](/f38/language/pt_BR) | 2614 | 6729 | 38.8 | /mnt/stockage/packages/f38/mutt/po/pt_BR.po | 
+ | [sk](/f38/language/sk) | 2151 | 6729 | 32.0 | /mnt/stockage/packages/f38/mutt/po/sk.po | 
 {.sortable}
 
 

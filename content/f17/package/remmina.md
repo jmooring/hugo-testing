@@ -18,31 +18,31 @@ The package remmina (version 1.0.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f17/language/cs.md" >}}) | 1024 | 1024 | 100.0 | /mnt/stockage/packages/f17/remmina/remmina-plugins/po/cs.po/mnt/stockage/packages/f17/remmina/remmina/po/cs.po | 
- | [lt]({{< ref "/f17/language/lt.md" >}}) | 1024 | 1024 | 100.0 | /mnt/stockage/packages/f17/remmina/remmina-plugins/po/lt.po/mnt/stockage/packages/f17/remmina/remmina/po/lt.po | 
- | [ru]({{< ref "/f17/language/ru.md" >}}) | 1024 | 1024 | 100.0 | /mnt/stockage/packages/f17/remmina/remmina-plugins/po/ru.po/mnt/stockage/packages/f17/remmina/remmina/po/ru.po | 
- | [zh_Hans]({{< ref "/f17/language/zh_Hans.md" >}}) | 1024 | 1024 | 100.0 | /mnt/stockage/packages/f17/remmina/remmina-plugins/po/zh_CN.po/mnt/stockage/packages/f17/remmina/remmina/po/zh_CN.po | 
- | [es]({{< ref "/f17/language/es.md" >}}) | 1009 | 1024 | 98.5 | /mnt/stockage/packages/f17/remmina/remmina-plugins/po/es.po/mnt/stockage/packages/f17/remmina/remmina/po/es.po | 
- | [pl]({{< ref "/f17/language/pl.md" >}}) | 993 | 1024 | 97.0 | /mnt/stockage/packages/f17/remmina/remmina-plugins/po/pl.po/mnt/stockage/packages/f17/remmina/remmina/po/pl.po | 
- | [it]({{< ref "/f17/language/it.md" >}}) | 981 | 1024 | 95.8 | /mnt/stockage/packages/f17/remmina/remmina-plugins/po/it.po/mnt/stockage/packages/f17/remmina/remmina/po/it.po | 
- | [nl]({{< ref "/f17/language/nl.md" >}}) | 963 | 1024 | 94.0 | /mnt/stockage/packages/f17/remmina/remmina-plugins/po/nl.po/mnt/stockage/packages/f17/remmina/remmina/po/nl.po | 
- | [bg]({{< ref "/f17/language/bg.md" >}}) | 951 | 1024 | 92.9 | /mnt/stockage/packages/f17/remmina/remmina-plugins/po/bg.po/mnt/stockage/packages/f17/remmina/remmina/po/bg.po | 
- | [da]({{< ref "/f17/language/da.md" >}}) | 951 | 1024 | 92.9 | /mnt/stockage/packages/f17/remmina/remmina-plugins/po/da.po/mnt/stockage/packages/f17/remmina/remmina/po/da.po | 
- | [pt_BR]({{< ref "/f17/language/pt_BR.md" >}}) | 951 | 1024 | 92.9 | /mnt/stockage/packages/f17/remmina/remmina-plugins/po/pt_BR.po/mnt/stockage/packages/f17/remmina/remmina/po/pt_BR.po | 
- | [tr]({{< ref "/f17/language/tr.md" >}}) | 951 | 1024 | 92.9 | /mnt/stockage/packages/f17/remmina/remmina-plugins/po/tr.po/mnt/stockage/packages/f17/remmina/remmina/po/tr.po | 
- | [uk]({{< ref "/f17/language/uk.md" >}}) | 951 | 1024 | 92.9 | /mnt/stockage/packages/f17/remmina/remmina-plugins/po/uk.po/mnt/stockage/packages/f17/remmina/remmina/po/uk.po | 
- | [hu]({{< ref "/f17/language/hu.md" >}}) | 943 | 1024 | 92.1 | /mnt/stockage/packages/f17/remmina/remmina-plugins/po/hu.po/mnt/stockage/packages/f17/remmina/remmina/po/hu.po | 
- | [th]({{< ref "/f17/language/th.md" >}}) | 936 | 1024 | 91.4 | /mnt/stockage/packages/f17/remmina/remmina-plugins/po/th.po/mnt/stockage/packages/f17/remmina/remmina/po/th.po | 
- | [fr]({{< ref "/f17/language/fr.md" >}}) | 928 | 1024 | 90.6 | /mnt/stockage/packages/f17/remmina/remmina-plugins/po/fr.po/mnt/stockage/packages/f17/remmina/remmina/po/fr.po | 
- | [eu]({{< ref "/f17/language/eu.md" >}}) | 732 | 1024 | 71.5 | /mnt/stockage/packages/f17/remmina/remmina-plugins/po/eu.po/mnt/stockage/packages/f17/remmina/remmina/po/eu.po | 
- | [de]({{< ref "/f17/language/de.md" >}}) | 683 | 1024 | 66.7 | /mnt/stockage/packages/f17/remmina/remmina-plugins/po/de.po/mnt/stockage/packages/f17/remmina/remmina/po/de.po | 
- | [kk]({{< ref "/f17/language/kk.md" >}}) | 637 | 1024 | 62.2 | /mnt/stockage/packages/f17/remmina/remmina-plugins/po/kk.po/mnt/stockage/packages/f17/remmina/remmina/po/kk.po | 
- | [sk]({{< ref "/f17/language/sk.md" >}}) | 530 | 1024 | 51.8 | /mnt/stockage/packages/f17/remmina/remmina-plugins/po/sk.po/mnt/stockage/packages/f17/remmina/remmina/po/sk.po | 
- | [el]({{< ref "/f17/language/el.md" >}}) | 468 | 1024 | 45.7 | /mnt/stockage/packages/f17/remmina/remmina-plugins/po/el.po/mnt/stockage/packages/f17/remmina/remmina/po/el.po | 
- | [sv]({{< ref "/f17/language/sv.md" >}}) | 441 | 1024 | 43.1 | /mnt/stockage/packages/f17/remmina/remmina-plugins/po/sv.po/mnt/stockage/packages/f17/remmina/remmina/po/sv.po | 
- | [pt_PT]({{< ref "/f17/language/pt_PT.md" >}}) | 290 | 1024 | 28.3 | /mnt/stockage/packages/f17/remmina/remmina-plugins/po/pt_PT.po/mnt/stockage/packages/f17/remmina/remmina/po/pt_PT.po | 
- | [ca]({{< ref "/f17/language/ca.md" >}}) | 200 | 830 | 24.1 | /mnt/stockage/packages/f17/remmina/remmina/po/ca.po | 
- | [id]({{< ref "/f17/language/id.md" >}}) | 91 | 1024 | 8.9 | /mnt/stockage/packages/f17/remmina/remmina-plugins/po/id.po/mnt/stockage/packages/f17/remmina/remmina/po/id.po | 
+ | [cs](/f17/language/cs) | 1024 | 1024 | 100.0 | /mnt/stockage/packages/f17/remmina/remmina-plugins/po/cs.po/mnt/stockage/packages/f17/remmina/remmina/po/cs.po | 
+ | [lt](/f17/language/lt) | 1024 | 1024 | 100.0 | /mnt/stockage/packages/f17/remmina/remmina-plugins/po/lt.po/mnt/stockage/packages/f17/remmina/remmina/po/lt.po | 
+ | [ru](/f17/language/ru) | 1024 | 1024 | 100.0 | /mnt/stockage/packages/f17/remmina/remmina-plugins/po/ru.po/mnt/stockage/packages/f17/remmina/remmina/po/ru.po | 
+ | [zh_Hans](/f17/language/zh_Hans) | 1024 | 1024 | 100.0 | /mnt/stockage/packages/f17/remmina/remmina-plugins/po/zh_CN.po/mnt/stockage/packages/f17/remmina/remmina/po/zh_CN.po | 
+ | [es](/f17/language/es) | 1009 | 1024 | 98.5 | /mnt/stockage/packages/f17/remmina/remmina-plugins/po/es.po/mnt/stockage/packages/f17/remmina/remmina/po/es.po | 
+ | [pl](/f17/language/pl) | 993 | 1024 | 97.0 | /mnt/stockage/packages/f17/remmina/remmina-plugins/po/pl.po/mnt/stockage/packages/f17/remmina/remmina/po/pl.po | 
+ | [it](/f17/language/it) | 981 | 1024 | 95.8 | /mnt/stockage/packages/f17/remmina/remmina-plugins/po/it.po/mnt/stockage/packages/f17/remmina/remmina/po/it.po | 
+ | [nl](/f17/language/nl) | 963 | 1024 | 94.0 | /mnt/stockage/packages/f17/remmina/remmina-plugins/po/nl.po/mnt/stockage/packages/f17/remmina/remmina/po/nl.po | 
+ | [bg](/f17/language/bg) | 951 | 1024 | 92.9 | /mnt/stockage/packages/f17/remmina/remmina-plugins/po/bg.po/mnt/stockage/packages/f17/remmina/remmina/po/bg.po | 
+ | [da](/f17/language/da) | 951 | 1024 | 92.9 | /mnt/stockage/packages/f17/remmina/remmina-plugins/po/da.po/mnt/stockage/packages/f17/remmina/remmina/po/da.po | 
+ | [pt_BR](/f17/language/pt_BR) | 951 | 1024 | 92.9 | /mnt/stockage/packages/f17/remmina/remmina-plugins/po/pt_BR.po/mnt/stockage/packages/f17/remmina/remmina/po/pt_BR.po | 
+ | [tr](/f17/language/tr) | 951 | 1024 | 92.9 | /mnt/stockage/packages/f17/remmina/remmina-plugins/po/tr.po/mnt/stockage/packages/f17/remmina/remmina/po/tr.po | 
+ | [uk](/f17/language/uk) | 951 | 1024 | 92.9 | /mnt/stockage/packages/f17/remmina/remmina-plugins/po/uk.po/mnt/stockage/packages/f17/remmina/remmina/po/uk.po | 
+ | [hu](/f17/language/hu) | 943 | 1024 | 92.1 | /mnt/stockage/packages/f17/remmina/remmina-plugins/po/hu.po/mnt/stockage/packages/f17/remmina/remmina/po/hu.po | 
+ | [th](/f17/language/th) | 936 | 1024 | 91.4 | /mnt/stockage/packages/f17/remmina/remmina-plugins/po/th.po/mnt/stockage/packages/f17/remmina/remmina/po/th.po | 
+ | [fr](/f17/language/fr) | 928 | 1024 | 90.6 | /mnt/stockage/packages/f17/remmina/remmina-plugins/po/fr.po/mnt/stockage/packages/f17/remmina/remmina/po/fr.po | 
+ | [eu](/f17/language/eu) | 732 | 1024 | 71.5 | /mnt/stockage/packages/f17/remmina/remmina-plugins/po/eu.po/mnt/stockage/packages/f17/remmina/remmina/po/eu.po | 
+ | [de](/f17/language/de) | 683 | 1024 | 66.7 | /mnt/stockage/packages/f17/remmina/remmina-plugins/po/de.po/mnt/stockage/packages/f17/remmina/remmina/po/de.po | 
+ | [kk](/f17/language/kk) | 637 | 1024 | 62.2 | /mnt/stockage/packages/f17/remmina/remmina-plugins/po/kk.po/mnt/stockage/packages/f17/remmina/remmina/po/kk.po | 
+ | [sk](/f17/language/sk) | 530 | 1024 | 51.8 | /mnt/stockage/packages/f17/remmina/remmina-plugins/po/sk.po/mnt/stockage/packages/f17/remmina/remmina/po/sk.po | 
+ | [el](/f17/language/el) | 468 | 1024 | 45.7 | /mnt/stockage/packages/f17/remmina/remmina-plugins/po/el.po/mnt/stockage/packages/f17/remmina/remmina/po/el.po | 
+ | [sv](/f17/language/sv) | 441 | 1024 | 43.1 | /mnt/stockage/packages/f17/remmina/remmina-plugins/po/sv.po/mnt/stockage/packages/f17/remmina/remmina/po/sv.po | 
+ | [pt_PT](/f17/language/pt_PT) | 290 | 1024 | 28.3 | /mnt/stockage/packages/f17/remmina/remmina-plugins/po/pt_PT.po/mnt/stockage/packages/f17/remmina/remmina/po/pt_PT.po | 
+ | [ca](/f17/language/ca) | 200 | 830 | 24.1 | /mnt/stockage/packages/f17/remmina/remmina/po/ca.po | 
+ | [id](/f17/language/id) | 91 | 1024 | 8.9 | /mnt/stockage/packages/f17/remmina/remmina-plugins/po/id.po/mnt/stockage/packages/f17/remmina/remmina/po/id.po | 
 {.sortable}
 
 

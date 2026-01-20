@@ -18,14 +18,14 @@ The package transmission-remote-gtk (version 1.0.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f16/language/fr.md" >}}) | 657 | 657 | 100.0 | /mnt/stockage/packages/f16/transmission-remote-gtk/po/fr.po | 
- | [uk]({{< ref "/f16/language/uk.md" >}}) | 657 | 657 | 100.0 | /mnt/stockage/packages/f16/transmission-remote-gtk/po/uk.po | 
- | [lt]({{< ref "/f16/language/lt.md" >}}) | 651 | 657 | 99.1 | /mnt/stockage/packages/f16/transmission-remote-gtk/po/lt.po | 
- | [ru]({{< ref "/f16/language/ru.md" >}}) | 623 | 643 | 96.9 | /mnt/stockage/packages/f16/transmission-remote-gtk/po/ru.po | 
- | [es]({{< ref "/f16/language/es.md" >}}) | 607 | 657 | 92.4 | /mnt/stockage/packages/f16/transmission-remote-gtk/po/es.po | 
- | [de]({{< ref "/f16/language/de.md" >}}) | 485 | 657 | 73.8 | /mnt/stockage/packages/f16/transmission-remote-gtk/po/de.po | 
- | [pl]({{< ref "/f16/language/pl.md" >}}) | 430 | 657 | 65.4 | /mnt/stockage/packages/f16/transmission-remote-gtk/po/pl.po | 
- | [ko]({{< ref "/f16/language/ko.md" >}}) | 357 | 657 | 54.3 | /mnt/stockage/packages/f16/transmission-remote-gtk/po/ko.po | 
+ | [fr](/f16/language/fr) | 657 | 657 | 100.0 | /mnt/stockage/packages/f16/transmission-remote-gtk/po/fr.po | 
+ | [uk](/f16/language/uk) | 657 | 657 | 100.0 | /mnt/stockage/packages/f16/transmission-remote-gtk/po/uk.po | 
+ | [lt](/f16/language/lt) | 651 | 657 | 99.1 | /mnt/stockage/packages/f16/transmission-remote-gtk/po/lt.po | 
+ | [ru](/f16/language/ru) | 623 | 643 | 96.9 | /mnt/stockage/packages/f16/transmission-remote-gtk/po/ru.po | 
+ | [es](/f16/language/es) | 607 | 657 | 92.4 | /mnt/stockage/packages/f16/transmission-remote-gtk/po/es.po | 
+ | [de](/f16/language/de) | 485 | 657 | 73.8 | /mnt/stockage/packages/f16/transmission-remote-gtk/po/de.po | 
+ | [pl](/f16/language/pl) | 430 | 657 | 65.4 | /mnt/stockage/packages/f16/transmission-remote-gtk/po/pl.po | 
+ | [ko](/f16/language/ko) | 357 | 657 | 54.3 | /mnt/stockage/packages/f16/transmission-remote-gtk/po/ko.po | 
 {.sortable}
 
 

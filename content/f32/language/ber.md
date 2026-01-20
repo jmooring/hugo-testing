@@ -38,12 +38,12 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [blueberry]({{< ref "/f32/package/blueberry.md" >}}) | 13 | 162 | 8.0 | Berber (Other) <ber@li.org> | 
- | [shutter]({{< ref "/f32/package/shutter.md" >}}) | 62 | 2448 | 2.5 | Berber (Other) <ber@li.org> | 
- | [cinnamon-translations]({{< ref "/f32/package/cinnamon-translations.md" >}}) | 4 | 775 | 0.5 | Berber (Other) <ber@li.org> | 
- | [cpu-x]({{< ref "/f32/package/cpu-x.md" >}}) | 0 | 904 | 0.0 | none | 
- | [remmina]({{< ref "/f32/package/remmina.md" >}}) | 0 | 3790 | 0.0 | none | 
- | [stellarium]({{< ref "/f32/package/stellarium.md" >}}) | 0 | 19772 | 0.0 | Berber (Other) <ber@li.org> | 
+ | [blueberry](/f32/package/blueberry) | 13 | 162 | 8.0 | Berber (Other) <ber@li.org> | 
+ | [shutter](/f32/package/shutter) | 62 | 2448 | 2.5 | Berber (Other) <ber@li.org> | 
+ | [cinnamon-translations](/f32/package/cinnamon-translations) | 4 | 775 | 0.5 | Berber (Other) <ber@li.org> | 
+ | [cpu-x](/f32/package/cpu-x) | 0 | 904 | 0.0 | none | 
+ | [remmina](/f32/package/remmina) | 0 | 3790 | 0.0 | none | 
+ | [stellarium](/f32/package/stellarium) | 0 | 19772 | 0.0 | Berber (Other) <ber@li.org> | 
 {.sortable}
 
 

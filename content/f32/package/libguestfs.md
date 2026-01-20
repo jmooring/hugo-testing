@@ -18,29 +18,29 @@ The package libguestfs (version 1.44.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [uk]({{< ref "/f32/language/uk.md" >}}) | 184521 | 197988 | 93.2 | /mnt/stockage/packages/f32/libguestfs/po/uk.po/mnt/stockage/packages/f32/libguestfs/po-docs/uk.po | 
- | [en_GB]({{< ref "/f32/language/en_GB.md" >}}) | 95281 | 197988 | 48.1 | /mnt/stockage/packages/f32/libguestfs/po/en_GB.po/mnt/stockage/packages/f32/libguestfs/po-docs/en_GB.po | 
- | [pl]({{< ref "/f32/language/pl.md" >}}) | 3256 | 15733 | 20.7 | /mnt/stockage/packages/f32/libguestfs/po/pl.po | 
- | [ja]({{< ref "/f32/language/ja.md" >}}) | 36178 | 197988 | 18.3 | /mnt/stockage/packages/f32/libguestfs/po/ja.po/mnt/stockage/packages/f32/libguestfs/po-docs/ja.po | 
- | [pa]({{< ref "/f32/language/pa.md" >}}) | 2573 | 15733 | 16.4 | /mnt/stockage/packages/f32/libguestfs/po/pa.po | 
- | [mr]({{< ref "/f32/language/mr.md" >}}) | 2564 | 15733 | 16.3 | /mnt/stockage/packages/f32/libguestfs/po/mr.po | 
- | [fr]({{< ref "/f32/language/fr.md" >}}) | 24494 | 197988 | 12.4 | /mnt/stockage/packages/f32/libguestfs/po/fr.po/mnt/stockage/packages/f32/libguestfs/po-docs/fr.po | 
- | [gu]({{< ref "/f32/language/gu.md" >}}) | 1617 | 15733 | 10.3 | /mnt/stockage/packages/f32/libguestfs/po/gu.po | 
- | [hi]({{< ref "/f32/language/hi.md" >}}) | 1414 | 15733 | 9.0 | /mnt/stockage/packages/f32/libguestfs/po/hi.po | 
- | [kn]({{< ref "/f32/language/kn.md" >}}) | 1404 | 15733 | 8.9 | /mnt/stockage/packages/f32/libguestfs/po/kn.po | 
- | [or]({{< ref "/f32/language/or.md" >}}) | 1373 | 15733 | 8.7 | /mnt/stockage/packages/f32/libguestfs/po/or.po | 
- | [ml]({{< ref "/f32/language/ml.md" >}}) | 1363 | 15733 | 8.7 | /mnt/stockage/packages/f32/libguestfs/po/ml.po | 
- | [ta]({{< ref "/f32/language/ta.md" >}}) | 1349 | 15733 | 8.6 | /mnt/stockage/packages/f32/libguestfs/po/ta.po | 
- | [te]({{< ref "/f32/language/te.md" >}}) | 1349 | 15733 | 8.6 | /mnt/stockage/packages/f32/libguestfs/po/te.po | 
- | [es]({{< ref "/f32/language/es.md" >}}) | 4809 | 197988 | 2.4 | /mnt/stockage/packages/f32/libguestfs/po/es.po/mnt/stockage/packages/f32/libguestfs/po-docs/es.po | 
- | [de]({{< ref "/f32/language/de.md" >}}) | 4346 | 197988 | 2.2 | /mnt/stockage/packages/f32/libguestfs/po/de.po/mnt/stockage/packages/f32/libguestfs/po-docs/de.po | 
- | [nl]({{< ref "/f32/language/nl.md" >}}) | 3734 | 197988 | 1.9 | /mnt/stockage/packages/f32/libguestfs/po/nl.po/mnt/stockage/packages/f32/libguestfs/po-docs/nl.po | 
- | [zh_Hans]({{< ref "/f32/language/zh_Hans.md" >}}) | 235 | 197988 | 0.1 | /mnt/stockage/packages/f32/libguestfs/po/zh_CN.po/mnt/stockage/packages/f32/libguestfs/po-docs/zh_CN.po | 
- | [eu]({{< ref "/f32/language/eu.md" >}}) | 191 | 197988 | 0.1 | /mnt/stockage/packages/f32/libguestfs/po/eu.po/mnt/stockage/packages/f32/libguestfs/po-docs/eu.po | 
- | [cs]({{< ref "/f32/language/cs.md" >}}) | 166 | 197988 | 0.1 | /mnt/stockage/packages/f32/libguestfs/po/cs.po/mnt/stockage/packages/f32/libguestfs/po-docs/cs.po | 
- | [ru]({{< ref "/f32/language/ru.md" >}}) | 12 | 15733 | 0.1 | /mnt/stockage/packages/f32/libguestfs/po/ru.po | 
- | [tg]({{< ref "/f32/language/tg.md" >}}) | 112 | 197988 | 0.1 | /mnt/stockage/packages/f32/libguestfs/po/tg.po/mnt/stockage/packages/f32/libguestfs/po-docs/tg.po | 
- | [pt_BR]({{< ref "/f32/language/pt_BR.md" >}}) | 8 | 182255 | 0.0 | /mnt/stockage/packages/f32/libguestfs/po-docs/pt_BR.po | 
+ | [uk](/f32/language/uk) | 184521 | 197988 | 93.2 | /mnt/stockage/packages/f32/libguestfs/po/uk.po/mnt/stockage/packages/f32/libguestfs/po-docs/uk.po | 
+ | [en_GB](/f32/language/en_GB) | 95281 | 197988 | 48.1 | /mnt/stockage/packages/f32/libguestfs/po/en_GB.po/mnt/stockage/packages/f32/libguestfs/po-docs/en_GB.po | 
+ | [pl](/f32/language/pl) | 3256 | 15733 | 20.7 | /mnt/stockage/packages/f32/libguestfs/po/pl.po | 
+ | [ja](/f32/language/ja) | 36178 | 197988 | 18.3 | /mnt/stockage/packages/f32/libguestfs/po/ja.po/mnt/stockage/packages/f32/libguestfs/po-docs/ja.po | 
+ | [pa](/f32/language/pa) | 2573 | 15733 | 16.4 | /mnt/stockage/packages/f32/libguestfs/po/pa.po | 
+ | [mr](/f32/language/mr) | 2564 | 15733 | 16.3 | /mnt/stockage/packages/f32/libguestfs/po/mr.po | 
+ | [fr](/f32/language/fr) | 24494 | 197988 | 12.4 | /mnt/stockage/packages/f32/libguestfs/po/fr.po/mnt/stockage/packages/f32/libguestfs/po-docs/fr.po | 
+ | [gu](/f32/language/gu) | 1617 | 15733 | 10.3 | /mnt/stockage/packages/f32/libguestfs/po/gu.po | 
+ | [hi](/f32/language/hi) | 1414 | 15733 | 9.0 | /mnt/stockage/packages/f32/libguestfs/po/hi.po | 
+ | [kn](/f32/language/kn) | 1404 | 15733 | 8.9 | /mnt/stockage/packages/f32/libguestfs/po/kn.po | 
+ | [or](/f32/language/or) | 1373 | 15733 | 8.7 | /mnt/stockage/packages/f32/libguestfs/po/or.po | 
+ | [ml](/f32/language/ml) | 1363 | 15733 | 8.7 | /mnt/stockage/packages/f32/libguestfs/po/ml.po | 
+ | [ta](/f32/language/ta) | 1349 | 15733 | 8.6 | /mnt/stockage/packages/f32/libguestfs/po/ta.po | 
+ | [te](/f32/language/te) | 1349 | 15733 | 8.6 | /mnt/stockage/packages/f32/libguestfs/po/te.po | 
+ | [es](/f32/language/es) | 4809 | 197988 | 2.4 | /mnt/stockage/packages/f32/libguestfs/po/es.po/mnt/stockage/packages/f32/libguestfs/po-docs/es.po | 
+ | [de](/f32/language/de) | 4346 | 197988 | 2.2 | /mnt/stockage/packages/f32/libguestfs/po/de.po/mnt/stockage/packages/f32/libguestfs/po-docs/de.po | 
+ | [nl](/f32/language/nl) | 3734 | 197988 | 1.9 | /mnt/stockage/packages/f32/libguestfs/po/nl.po/mnt/stockage/packages/f32/libguestfs/po-docs/nl.po | 
+ | [zh_Hans](/f32/language/zh_Hans) | 235 | 197988 | 0.1 | /mnt/stockage/packages/f32/libguestfs/po/zh_CN.po/mnt/stockage/packages/f32/libguestfs/po-docs/zh_CN.po | 
+ | [eu](/f32/language/eu) | 191 | 197988 | 0.1 | /mnt/stockage/packages/f32/libguestfs/po/eu.po/mnt/stockage/packages/f32/libguestfs/po-docs/eu.po | 
+ | [cs](/f32/language/cs) | 166 | 197988 | 0.1 | /mnt/stockage/packages/f32/libguestfs/po/cs.po/mnt/stockage/packages/f32/libguestfs/po-docs/cs.po | 
+ | [ru](/f32/language/ru) | 12 | 15733 | 0.1 | /mnt/stockage/packages/f32/libguestfs/po/ru.po | 
+ | [tg](/f32/language/tg) | 112 | 197988 | 0.1 | /mnt/stockage/packages/f32/libguestfs/po/tg.po/mnt/stockage/packages/f32/libguestfs/po-docs/tg.po | 
+ | [pt_BR](/f32/language/pt_BR) | 8 | 182255 | 0.0 | /mnt/stockage/packages/f32/libguestfs/po-docs/pt_BR.po | 
 {.sortable}
 
 

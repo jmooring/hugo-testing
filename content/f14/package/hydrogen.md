@@ -18,11 +18,11 @@ The package hydrogen (version 0.9.5):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [es]({{< ref "/f14/language/es.md" >}}) | 7628 | 7648 | 99.7 | /mnt/stockage/packages/f14/hydrogen/data/doc/manual_es.po | 
- | [ca]({{< ref "/f14/language/ca.md" >}}) | 7597 | 7630 | 99.6 | /mnt/stockage/packages/f14/hydrogen/data/doc/manual_ca.po | 
- | [fr]({{< ref "/f14/language/fr.md" >}}) | 6502 | 6563 | 99.1 | /mnt/stockage/packages/f14/hydrogen/data/doc/manual_fr.po/mnt/stockage/packages/f14/hydrogen/data/doc/tutorial_fr.po | 
- | [it]({{< ref "/f14/language/it.md" >}}) | 2471 | 9921 | 24.9 | /mnt/stockage/packages/f14/hydrogen/data/doc/manual_it.po/mnt/stockage/packages/f14/hydrogen/data/doc/tutorial_it.po | 
- | [nl]({{< ref "/f14/language/nl.md" >}}) | 381 | 7769 | 4.9 | /mnt/stockage/packages/f14/hydrogen/data/doc/manual_nl.po | 
+ | [es](/f14/language/es) | 7628 | 7648 | 99.7 | /mnt/stockage/packages/f14/hydrogen/data/doc/manual_es.po | 
+ | [ca](/f14/language/ca) | 7597 | 7630 | 99.6 | /mnt/stockage/packages/f14/hydrogen/data/doc/manual_ca.po | 
+ | [fr](/f14/language/fr) | 6502 | 6563 | 99.1 | /mnt/stockage/packages/f14/hydrogen/data/doc/manual_fr.po/mnt/stockage/packages/f14/hydrogen/data/doc/tutorial_fr.po | 
+ | [it](/f14/language/it) | 2471 | 9921 | 24.9 | /mnt/stockage/packages/f14/hydrogen/data/doc/manual_it.po/mnt/stockage/packages/f14/hydrogen/data/doc/tutorial_it.po | 
+ | [nl](/f14/language/nl) | 381 | 7769 | 4.9 | /mnt/stockage/packages/f14/hydrogen/data/doc/manual_nl.po | 
 {.sortable}
 
 

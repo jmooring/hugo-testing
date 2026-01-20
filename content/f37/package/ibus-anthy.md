@@ -18,21 +18,21 @@ The package ibus-anthy (version 1.5.14):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f37/language/ca.md" >}}) | 705 | 705 | 100.0 | /mnt/stockage/packages/f37/ibus-anthy/po/ca.po | 
- | [de]({{< ref "/f37/language/de.md" >}}) | 705 | 705 | 100.0 | /mnt/stockage/packages/f37/ibus-anthy/po/de.po | 
- | [es]({{< ref "/f37/language/es.md" >}}) | 705 | 705 | 100.0 | /mnt/stockage/packages/f37/ibus-anthy/po/es.po | 
- | [fr]({{< ref "/f37/language/fr.md" >}}) | 705 | 705 | 100.0 | /mnt/stockage/packages/f37/ibus-anthy/po/fr.po | 
- | [ja]({{< ref "/f37/language/ja.md" >}}) | 705 | 705 | 100.0 | /mnt/stockage/packages/f37/ibus-anthy/po/ja.po | 
- | [ko]({{< ref "/f37/language/ko.md" >}}) | 705 | 705 | 100.0 | /mnt/stockage/packages/f37/ibus-anthy/po/ko.po | 
- | [pt_BR]({{< ref "/f37/language/pt_BR.md" >}}) | 740 | 740 | 100.0 | /mnt/stockage/packages/f37/ibus-anthy/po/pt_BR.po | 
- | [tr]({{< ref "/f37/language/tr.md" >}}) | 705 | 705 | 100.0 | /mnt/stockage/packages/f37/ibus-anthy/po/tr.po | 
- | [uk]({{< ref "/f37/language/uk.md" >}}) | 705 | 705 | 100.0 | /mnt/stockage/packages/f37/ibus-anthy/po/uk.po | 
- | [hu]({{< ref "/f37/language/hu.md" >}}) | 564 | 705 | 80.0 | /mnt/stockage/packages/f37/ibus-anthy/po/hu.po | 
- | [fi]({{< ref "/f37/language/fi.md" >}}) | 167 | 705 | 23.7 | /mnt/stockage/packages/f37/ibus-anthy/po/fi.po | 
- | [el]({{< ref "/f37/language/el.md" >}}) | 141 | 740 | 19.1 | /mnt/stockage/packages/f37/ibus-anthy/po/el.po | 
- | [pt_PT]({{< ref "/f37/language/pt_PT.md" >}}) | 122 | 705 | 17.3 | /mnt/stockage/packages/f37/ibus-anthy/po/pt_PT.po | 
- | [zh_Hans]({{< ref "/f37/language/zh_Hans.md" >}}) | 73 | 740 | 9.9 | /mnt/stockage/packages/f37/ibus-anthy/po/zh_CN.po | 
- | [cs]({{< ref "/f37/language/cs.md" >}}) | 37 | 740 | 5.0 | /mnt/stockage/packages/f37/ibus-anthy/po/cs.po | 
+ | [ca](/f37/language/ca) | 705 | 705 | 100.0 | /mnt/stockage/packages/f37/ibus-anthy/po/ca.po | 
+ | [de](/f37/language/de) | 705 | 705 | 100.0 | /mnt/stockage/packages/f37/ibus-anthy/po/de.po | 
+ | [es](/f37/language/es) | 705 | 705 | 100.0 | /mnt/stockage/packages/f37/ibus-anthy/po/es.po | 
+ | [fr](/f37/language/fr) | 705 | 705 | 100.0 | /mnt/stockage/packages/f37/ibus-anthy/po/fr.po | 
+ | [ja](/f37/language/ja) | 705 | 705 | 100.0 | /mnt/stockage/packages/f37/ibus-anthy/po/ja.po | 
+ | [ko](/f37/language/ko) | 705 | 705 | 100.0 | /mnt/stockage/packages/f37/ibus-anthy/po/ko.po | 
+ | [pt_BR](/f37/language/pt_BR) | 740 | 740 | 100.0 | /mnt/stockage/packages/f37/ibus-anthy/po/pt_BR.po | 
+ | [tr](/f37/language/tr) | 705 | 705 | 100.0 | /mnt/stockage/packages/f37/ibus-anthy/po/tr.po | 
+ | [uk](/f37/language/uk) | 705 | 705 | 100.0 | /mnt/stockage/packages/f37/ibus-anthy/po/uk.po | 
+ | [hu](/f37/language/hu) | 564 | 705 | 80.0 | /mnt/stockage/packages/f37/ibus-anthy/po/hu.po | 
+ | [fi](/f37/language/fi) | 167 | 705 | 23.7 | /mnt/stockage/packages/f37/ibus-anthy/po/fi.po | 
+ | [el](/f37/language/el) | 141 | 740 | 19.1 | /mnt/stockage/packages/f37/ibus-anthy/po/el.po | 
+ | [pt_PT](/f37/language/pt_PT) | 122 | 705 | 17.3 | /mnt/stockage/packages/f37/ibus-anthy/po/pt_PT.po | 
+ | [zh_Hans](/f37/language/zh_Hans) | 73 | 740 | 9.9 | /mnt/stockage/packages/f37/ibus-anthy/po/zh_CN.po | 
+ | [cs](/f37/language/cs) | 37 | 740 | 5.0 | /mnt/stockage/packages/f37/ibus-anthy/po/cs.po | 
 {.sortable}
 
 

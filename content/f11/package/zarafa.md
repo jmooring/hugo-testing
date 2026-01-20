@@ -18,16 +18,16 @@ The package zarafa (version 6.30.14):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [da]({{< ref "/f11/language/da.md" >}}) | 1003 | 1019 | 98.4 | /mnt/stockage/packages/f11/zarafa/po/da_DK.po | 
- | [de]({{< ref "/f11/language/de.md" >}}) | 1003 | 1019 | 98.4 | /mnt/stockage/packages/f11/zarafa/po/de_DE.po | 
- | [nl]({{< ref "/f11/language/nl.md" >}}) | 995 | 1019 | 97.6 | /mnt/stockage/packages/f11/zarafa/po/nl_NL.po | 
- | [ca]({{< ref "/f11/language/ca.md" >}}) | 994 | 1019 | 97.5 | /mnt/stockage/packages/f11/zarafa/po/ca_ES.po | 
- | [es]({{< ref "/f11/language/es.md" >}}) | 994 | 1019 | 97.5 | /mnt/stockage/packages/f11/zarafa/po/es_ES.po | 
- | [fi]({{< ref "/f11/language/fi.md" >}}) | 994 | 1019 | 97.5 | /mnt/stockage/packages/f11/zarafa/po/fi_FI.po | 
- | [fr]({{< ref "/f11/language/fr.md" >}}) | 994 | 1019 | 97.5 | /mnt/stockage/packages/f11/zarafa/po/fr_FR.po | 
- | [it]({{< ref "/f11/language/it.md" >}}) | 994 | 1019 | 97.5 | /mnt/stockage/packages/f11/zarafa/po/it_IT.po | 
- | [pt_PT]({{< ref "/f11/language/pt_PT.md" >}}) | 994 | 1019 | 97.5 | /mnt/stockage/packages/f11/zarafa/po/pt_PT.po | 
- | [sv]({{< ref "/f11/language/sv.md" >}}) | 994 | 1019 | 97.5 | /mnt/stockage/packages/f11/zarafa/po/sv_SE.po | 
+ | [da](/f11/language/da) | 1003 | 1019 | 98.4 | /mnt/stockage/packages/f11/zarafa/po/da_DK.po | 
+ | [de](/f11/language/de) | 1003 | 1019 | 98.4 | /mnt/stockage/packages/f11/zarafa/po/de_DE.po | 
+ | [nl](/f11/language/nl) | 995 | 1019 | 97.6 | /mnt/stockage/packages/f11/zarafa/po/nl_NL.po | 
+ | [ca](/f11/language/ca) | 994 | 1019 | 97.5 | /mnt/stockage/packages/f11/zarafa/po/ca_ES.po | 
+ | [es](/f11/language/es) | 994 | 1019 | 97.5 | /mnt/stockage/packages/f11/zarafa/po/es_ES.po | 
+ | [fi](/f11/language/fi) | 994 | 1019 | 97.5 | /mnt/stockage/packages/f11/zarafa/po/fi_FI.po | 
+ | [fr](/f11/language/fr) | 994 | 1019 | 97.5 | /mnt/stockage/packages/f11/zarafa/po/fr_FR.po | 
+ | [it](/f11/language/it) | 994 | 1019 | 97.5 | /mnt/stockage/packages/f11/zarafa/po/it_IT.po | 
+ | [pt_PT](/f11/language/pt_PT) | 994 | 1019 | 97.5 | /mnt/stockage/packages/f11/zarafa/po/pt_PT.po | 
+ | [sv](/f11/language/sv) | 994 | 1019 | 97.5 | /mnt/stockage/packages/f11/zarafa/po/sv_SE.po | 
 {.sortable}
 
 

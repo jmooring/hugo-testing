@@ -18,11 +18,11 @@ The package joe (version 4.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [zh_Hant]({{< ref "/f24/language/zh_Hant.md" >}}) | 1265 | 2027 | 62.4 | /mnt/stockage/packages/f24/joe/po/zh_TW.po | 
- | [ru]({{< ref "/f24/language/ru.md" >}}) | 1121 | 2027 | 55.3 | /mnt/stockage/packages/f24/joe/po/ru.po | 
- | [uk]({{< ref "/f24/language/uk.md" >}}) | 1121 | 2027 | 55.3 | /mnt/stockage/packages/f24/joe/po/uk.po | 
- | [de]({{< ref "/f24/language/de.md" >}}) | 1100 | 2027 | 54.3 | /mnt/stockage/packages/f24/joe/po/de.po | 
- | [fr]({{< ref "/f24/language/fr.md" >}}) | 1021 | 2027 | 50.4 | /mnt/stockage/packages/f24/joe/po/fr.po | 
+ | [zh_Hant](/f24/language/zh_Hant) | 1265 | 2027 | 62.4 | /mnt/stockage/packages/f24/joe/po/zh_TW.po | 
+ | [ru](/f24/language/ru) | 1121 | 2027 | 55.3 | /mnt/stockage/packages/f24/joe/po/ru.po | 
+ | [uk](/f24/language/uk) | 1121 | 2027 | 55.3 | /mnt/stockage/packages/f24/joe/po/uk.po | 
+ | [de](/f24/language/de) | 1100 | 2027 | 54.3 | /mnt/stockage/packages/f24/joe/po/de.po | 
+ | [fr](/f24/language/fr) | 1021 | 2027 | 50.4 | /mnt/stockage/packages/f24/joe/po/fr.po | 
 {.sortable}
 
 

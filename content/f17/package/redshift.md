@@ -18,25 +18,25 @@ The package redshift (version 1.7):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [da]({{< ref "/f17/language/da.md" >}}) | 444 | 562 | 79.0 | /mnt/stockage/packages/f17/redshift/po/da.po | 
- | [de]({{< ref "/f17/language/de.md" >}}) | 444 | 562 | 79.0 | /mnt/stockage/packages/f17/redshift/po/de.po | 
- | [es]({{< ref "/f17/language/es.md" >}}) | 444 | 562 | 79.0 | /mnt/stockage/packages/f17/redshift/po/es.po | 
- | [fr]({{< ref "/f17/language/fr.md" >}}) | 444 | 562 | 79.0 | /mnt/stockage/packages/f17/redshift/po/fr.po | 
- | [it]({{< ref "/f17/language/it.md" >}}) | 444 | 562 | 79.0 | /mnt/stockage/packages/f17/redshift/po/it.po | 
- | [pl]({{< ref "/f17/language/pl.md" >}}) | 444 | 562 | 79.0 | /mnt/stockage/packages/f17/redshift/po/pl.po | 
- | [pt_BR]({{< ref "/f17/language/pt_BR.md" >}}) | 444 | 562 | 79.0 | /mnt/stockage/packages/f17/redshift/po/pt_BR.po | 
- | [ru]({{< ref "/f17/language/ru.md" >}}) | 437 | 562 | 77.8 | /mnt/stockage/packages/f17/redshift/po/ru.po | 
- | [eu]({{< ref "/f17/language/eu.md" >}}) | 367 | 562 | 65.3 | /mnt/stockage/packages/f17/redshift/po/eu.po | 
- | [lt]({{< ref "/f17/language/lt.md" >}}) | 367 | 562 | 65.3 | /mnt/stockage/packages/f17/redshift/po/lt.po | 
- | [fi]({{< ref "/f17/language/fi.md" >}}) | 350 | 562 | 62.3 | /mnt/stockage/packages/f17/redshift/po/fi.po | 
- | [cs]({{< ref "/f17/language/cs.md" >}}) | 242 | 562 | 43.1 | /mnt/stockage/packages/f17/redshift/po/cs.po | 
- | [gl]({{< ref "/f17/language/gl.md" >}}) | 212 | 562 | 37.7 | /mnt/stockage/packages/f17/redshift/po/gl.po | 
- | [he]({{< ref "/f17/language/he.md" >}}) | 60 | 562 | 10.7 | /mnt/stockage/packages/f17/redshift/po/he.po | 
- | [nl]({{< ref "/f17/language/nl.md" >}}) | 49 | 562 | 8.7 | /mnt/stockage/packages/f17/redshift/po/nl.po | 
- | [ca]({{< ref "/f17/language/ca.md" >}}) | 25 | 562 | 4.4 | /mnt/stockage/packages/f17/redshift/po/ca.po | 
- | [ka]({{< ref "/f17/language/ka.md" >}}) | 1 | 562 | 0.2 | /mnt/stockage/packages/f17/redshift/po/ka.po | 
- | [zh_Hans]({{< ref "/f17/language/zh_Hans.md" >}}) | 1 | 562 | 0.2 | /mnt/stockage/packages/f17/redshift/po/zh_CN.po | 
- | [ar]({{< ref "/f17/language/ar.md" >}}) | 0 | 562 | 0.0 | /mnt/stockage/packages/f17/redshift/po/ar.po | 
+ | [da](/f17/language/da) | 444 | 562 | 79.0 | /mnt/stockage/packages/f17/redshift/po/da.po | 
+ | [de](/f17/language/de) | 444 | 562 | 79.0 | /mnt/stockage/packages/f17/redshift/po/de.po | 
+ | [es](/f17/language/es) | 444 | 562 | 79.0 | /mnt/stockage/packages/f17/redshift/po/es.po | 
+ | [fr](/f17/language/fr) | 444 | 562 | 79.0 | /mnt/stockage/packages/f17/redshift/po/fr.po | 
+ | [it](/f17/language/it) | 444 | 562 | 79.0 | /mnt/stockage/packages/f17/redshift/po/it.po | 
+ | [pl](/f17/language/pl) | 444 | 562 | 79.0 | /mnt/stockage/packages/f17/redshift/po/pl.po | 
+ | [pt_BR](/f17/language/pt_BR) | 444 | 562 | 79.0 | /mnt/stockage/packages/f17/redshift/po/pt_BR.po | 
+ | [ru](/f17/language/ru) | 437 | 562 | 77.8 | /mnt/stockage/packages/f17/redshift/po/ru.po | 
+ | [eu](/f17/language/eu) | 367 | 562 | 65.3 | /mnt/stockage/packages/f17/redshift/po/eu.po | 
+ | [lt](/f17/language/lt) | 367 | 562 | 65.3 | /mnt/stockage/packages/f17/redshift/po/lt.po | 
+ | [fi](/f17/language/fi) | 350 | 562 | 62.3 | /mnt/stockage/packages/f17/redshift/po/fi.po | 
+ | [cs](/f17/language/cs) | 242 | 562 | 43.1 | /mnt/stockage/packages/f17/redshift/po/cs.po | 
+ | [gl](/f17/language/gl) | 212 | 562 | 37.7 | /mnt/stockage/packages/f17/redshift/po/gl.po | 
+ | [he](/f17/language/he) | 60 | 562 | 10.7 | /mnt/stockage/packages/f17/redshift/po/he.po | 
+ | [nl](/f17/language/nl) | 49 | 562 | 8.7 | /mnt/stockage/packages/f17/redshift/po/nl.po | 
+ | [ca](/f17/language/ca) | 25 | 562 | 4.4 | /mnt/stockage/packages/f17/redshift/po/ca.po | 
+ | [ka](/f17/language/ka) | 1 | 562 | 0.2 | /mnt/stockage/packages/f17/redshift/po/ka.po | 
+ | [zh_Hans](/f17/language/zh_Hans) | 1 | 562 | 0.2 | /mnt/stockage/packages/f17/redshift/po/zh_CN.po | 
+ | [ar](/f17/language/ar) | 0 | 562 | 0.0 | /mnt/stockage/packages/f17/redshift/po/ar.po | 
 {.sortable}
 
 

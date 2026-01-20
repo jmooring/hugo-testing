@@ -18,42 +18,42 @@ The package liferea (version 1.10.17):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f21/language/ca.md" >}}) | 2264 | 2264 | 100.0 | /mnt/stockage/packages/f21/liferea/po/ca.po | 
- | [da]({{< ref "/f21/language/da.md" >}}) | 2271 | 2271 | 100.0 | /mnt/stockage/packages/f21/liferea/po/da.po | 
- | [de]({{< ref "/f21/language/de.md" >}}) | 2264 | 2264 | 100.0 | /mnt/stockage/packages/f21/liferea/po/de.po | 
- | [eu]({{< ref "/f21/language/eu.md" >}}) | 2271 | 2271 | 100.0 | /mnt/stockage/packages/f21/liferea/po/eu.po | 
- | [fi]({{< ref "/f21/language/fi.md" >}}) | 2264 | 2264 | 100.0 | /mnt/stockage/packages/f21/liferea/po/fi.po | 
- | [fr]({{< ref "/f21/language/fr.md" >}}) | 2272 | 2272 | 100.0 | /mnt/stockage/packages/f21/liferea/po/fr.po | 
- | [hu]({{< ref "/f21/language/hu.md" >}}) | 2264 | 2264 | 100.0 | /mnt/stockage/packages/f21/liferea/po/hu.po | 
- | [it]({{< ref "/f21/language/it.md" >}}) | 2264 | 2264 | 100.0 | /mnt/stockage/packages/f21/liferea/po/it.po | 
- | [nl]({{< ref "/f21/language/nl.md" >}}) | 2271 | 2271 | 100.0 | /mnt/stockage/packages/f21/liferea/po/nl.po | 
- | [pl]({{< ref "/f21/language/pl.md" >}}) | 2264 | 2264 | 100.0 | /mnt/stockage/packages/f21/liferea/po/pl.po | 
- | [ru]({{< ref "/f21/language/ru.md" >}}) | 2258 | 2258 | 100.0 | /mnt/stockage/packages/f21/liferea/po/ru.po | 
- | [uk]({{< ref "/f21/language/uk.md" >}}) | 2271 | 2271 | 100.0 | /mnt/stockage/packages/f21/liferea/po/uk.po | 
- | [vi]({{< ref "/f21/language/vi.md" >}}) | 2271 | 2271 | 100.0 | /mnt/stockage/packages/f21/liferea/po/vi.po | 
- | [sq]({{< ref "/f21/language/sq.md" >}}) | 2146 | 2264 | 94.8 | /mnt/stockage/packages/f21/liferea/po/sq.po | 
- | [he]({{< ref "/f21/language/he.md" >}}) | 2067 | 2222 | 93.0 | /mnt/stockage/packages/f21/liferea/po/he.po | 
- | [ja]({{< ref "/f21/language/ja.md" >}}) | 2087 | 2264 | 92.2 | /mnt/stockage/packages/f21/liferea/po/ja.po | 
- | [lv]({{< ref "/f21/language/lv.md" >}}) | 2087 | 2264 | 92.2 | /mnt/stockage/packages/f21/liferea/po/lv.po | 
- | [ar]({{< ref "/f21/language/ar.md" >}}) | 2295 | 2495 | 92.0 | /mnt/stockage/packages/f21/liferea/po/ar.po | 
- | [sv]({{< ref "/f21/language/sv.md" >}}) | 2060 | 2264 | 91.0 | /mnt/stockage/packages/f21/liferea/po/sv.po | 
- | [ast]({{< ref "/f21/language/ast.md" >}}) | 1963 | 2264 | 86.7 | /mnt/stockage/packages/f21/liferea/po/ast.po | 
- | [ro]({{< ref "/f21/language/ro.md" >}}) | 1828 | 2264 | 80.7 | /mnt/stockage/packages/f21/liferea/po/ro.po | 
- | [pt_BR]({{< ref "/f21/language/pt_BR.md" >}}) | 1825 | 2264 | 80.6 | /mnt/stockage/packages/f21/liferea/po/pt_BR.po | 
- | [es]({{< ref "/f21/language/es.md" >}}) | 1823 | 2264 | 80.5 | /mnt/stockage/packages/f21/liferea/po/es.po | 
- | [gl]({{< ref "/f21/language/gl.md" >}}) | 1822 | 2264 | 80.5 | /mnt/stockage/packages/f21/liferea/po/gl.po | 
- | [pt]({{< ref "/f21/language/pt.md" >}}) | 1822 | 2264 | 80.5 | /mnt/stockage/packages/f21/liferea/po/pt.po | 
- | [sk]({{< ref "/f21/language/sk.md" >}}) | 1784 | 2264 | 78.8 | /mnt/stockage/packages/f21/liferea/po/sk.po | 
- | [zh_Hans]({{< ref "/f21/language/zh_Hans.md" >}}) | 1753 | 2264 | 77.4 | /mnt/stockage/packages/f21/liferea/po/zh_CN.po | 
- | [cs]({{< ref "/f21/language/cs.md" >}}) | 1433 | 2264 | 63.3 | /mnt/stockage/packages/f21/liferea/po/cs.po | 
- | [be_Latn]({{< ref "/f21/language/be_Latn.md" >}}) | 1414 | 2264 | 62.5 | /mnt/stockage/packages/f21/liferea/po/be@latin.po | 
- | [tr]({{< ref "/f21/language/tr.md" >}}) | 1410 | 2264 | 62.3 | /mnt/stockage/packages/f21/liferea/po/tr.po | 
- | [el]({{< ref "/f21/language/el.md" >}}) | 1409 | 2264 | 62.2 | /mnt/stockage/packages/f21/liferea/po/el.po | 
- | [lt]({{< ref "/f21/language/lt.md" >}}) | 1339 | 2264 | 59.1 | /mnt/stockage/packages/f21/liferea/po/lt.po | 
- | [bg]({{< ref "/f21/language/bg.md" >}}) | 798 | 2264 | 35.2 | /mnt/stockage/packages/f21/liferea/po/bg.po | 
- | [ko]({{< ref "/f21/language/ko.md" >}}) | 774 | 2264 | 34.2 | /mnt/stockage/packages/f21/liferea/po/ko.po | 
- | [zh_Hant]({{< ref "/f21/language/zh_Hant.md" >}}) | 752 | 2264 | 33.2 | /mnt/stockage/packages/f21/liferea/po/zh_TW.po | 
- | [mk]({{< ref "/f21/language/mk.md" >}}) | 541 | 2264 | 23.9 | /mnt/stockage/packages/f21/liferea/po/mk.po | 
+ | [ca](/f21/language/ca) | 2264 | 2264 | 100.0 | /mnt/stockage/packages/f21/liferea/po/ca.po | 
+ | [da](/f21/language/da) | 2271 | 2271 | 100.0 | /mnt/stockage/packages/f21/liferea/po/da.po | 
+ | [de](/f21/language/de) | 2264 | 2264 | 100.0 | /mnt/stockage/packages/f21/liferea/po/de.po | 
+ | [eu](/f21/language/eu) | 2271 | 2271 | 100.0 | /mnt/stockage/packages/f21/liferea/po/eu.po | 
+ | [fi](/f21/language/fi) | 2264 | 2264 | 100.0 | /mnt/stockage/packages/f21/liferea/po/fi.po | 
+ | [fr](/f21/language/fr) | 2272 | 2272 | 100.0 | /mnt/stockage/packages/f21/liferea/po/fr.po | 
+ | [hu](/f21/language/hu) | 2264 | 2264 | 100.0 | /mnt/stockage/packages/f21/liferea/po/hu.po | 
+ | [it](/f21/language/it) | 2264 | 2264 | 100.0 | /mnt/stockage/packages/f21/liferea/po/it.po | 
+ | [nl](/f21/language/nl) | 2271 | 2271 | 100.0 | /mnt/stockage/packages/f21/liferea/po/nl.po | 
+ | [pl](/f21/language/pl) | 2264 | 2264 | 100.0 | /mnt/stockage/packages/f21/liferea/po/pl.po | 
+ | [ru](/f21/language/ru) | 2258 | 2258 | 100.0 | /mnt/stockage/packages/f21/liferea/po/ru.po | 
+ | [uk](/f21/language/uk) | 2271 | 2271 | 100.0 | /mnt/stockage/packages/f21/liferea/po/uk.po | 
+ | [vi](/f21/language/vi) | 2271 | 2271 | 100.0 | /mnt/stockage/packages/f21/liferea/po/vi.po | 
+ | [sq](/f21/language/sq) | 2146 | 2264 | 94.8 | /mnt/stockage/packages/f21/liferea/po/sq.po | 
+ | [he](/f21/language/he) | 2067 | 2222 | 93.0 | /mnt/stockage/packages/f21/liferea/po/he.po | 
+ | [ja](/f21/language/ja) | 2087 | 2264 | 92.2 | /mnt/stockage/packages/f21/liferea/po/ja.po | 
+ | [lv](/f21/language/lv) | 2087 | 2264 | 92.2 | /mnt/stockage/packages/f21/liferea/po/lv.po | 
+ | [ar](/f21/language/ar) | 2295 | 2495 | 92.0 | /mnt/stockage/packages/f21/liferea/po/ar.po | 
+ | [sv](/f21/language/sv) | 2060 | 2264 | 91.0 | /mnt/stockage/packages/f21/liferea/po/sv.po | 
+ | [ast](/f21/language/ast) | 1963 | 2264 | 86.7 | /mnt/stockage/packages/f21/liferea/po/ast.po | 
+ | [ro](/f21/language/ro) | 1828 | 2264 | 80.7 | /mnt/stockage/packages/f21/liferea/po/ro.po | 
+ | [pt_BR](/f21/language/pt_BR) | 1825 | 2264 | 80.6 | /mnt/stockage/packages/f21/liferea/po/pt_BR.po | 
+ | [es](/f21/language/es) | 1823 | 2264 | 80.5 | /mnt/stockage/packages/f21/liferea/po/es.po | 
+ | [gl](/f21/language/gl) | 1822 | 2264 | 80.5 | /mnt/stockage/packages/f21/liferea/po/gl.po | 
+ | [pt](/f21/language/pt) | 1822 | 2264 | 80.5 | /mnt/stockage/packages/f21/liferea/po/pt.po | 
+ | [sk](/f21/language/sk) | 1784 | 2264 | 78.8 | /mnt/stockage/packages/f21/liferea/po/sk.po | 
+ | [zh_Hans](/f21/language/zh_Hans) | 1753 | 2264 | 77.4 | /mnt/stockage/packages/f21/liferea/po/zh_CN.po | 
+ | [cs](/f21/language/cs) | 1433 | 2264 | 63.3 | /mnt/stockage/packages/f21/liferea/po/cs.po | 
+ | [be_Latn](/f21/language/be_Latn) | 1414 | 2264 | 62.5 | /mnt/stockage/packages/f21/liferea/po/be@latin.po | 
+ | [tr](/f21/language/tr) | 1410 | 2264 | 62.3 | /mnt/stockage/packages/f21/liferea/po/tr.po | 
+ | [el](/f21/language/el) | 1409 | 2264 | 62.2 | /mnt/stockage/packages/f21/liferea/po/el.po | 
+ | [lt](/f21/language/lt) | 1339 | 2264 | 59.1 | /mnt/stockage/packages/f21/liferea/po/lt.po | 
+ | [bg](/f21/language/bg) | 798 | 2264 | 35.2 | /mnt/stockage/packages/f21/liferea/po/bg.po | 
+ | [ko](/f21/language/ko) | 774 | 2264 | 34.2 | /mnt/stockage/packages/f21/liferea/po/ko.po | 
+ | [zh_Hant](/f21/language/zh_Hant) | 752 | 2264 | 33.2 | /mnt/stockage/packages/f21/liferea/po/zh_TW.po | 
+ | [mk](/f21/language/mk) | 541 | 2264 | 23.9 | /mnt/stockage/packages/f21/liferea/po/mk.po | 
 {.sortable}
 
 

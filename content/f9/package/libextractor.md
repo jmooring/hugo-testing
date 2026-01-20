@@ -18,12 +18,12 @@ The package libextractor (version 0.5.19a):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ga]({{< ref "/f9/language/ga.md" >}}) | 773 | 777 | 99.5 | /mnt/stockage/packages/f9/libextractor/po/ga.po | 
- | [sv]({{< ref "/f9/language/sv.md" >}}) | 773 | 777 | 99.5 | /mnt/stockage/packages/f9/libextractor/po/sv.po | 
- | [vi]({{< ref "/f9/language/vi.md" >}}) | 773 | 777 | 99.5 | /mnt/stockage/packages/f9/libextractor/po/vi.po | 
- | [de]({{< ref "/f9/language/de.md" >}}) | 753 | 777 | 96.9 | /mnt/stockage/packages/f9/libextractor/po/de.po | 
- | [ro]({{< ref "/f9/language/ro.md" >}}) | 594 | 777 | 76.4 | /mnt/stockage/packages/f9/libextractor/po/ro.po | 
- | [rw]({{< ref "/f9/language/rw.md" >}}) | 16 | 777 | 2.1 | /mnt/stockage/packages/f9/libextractor/po/rw.po | 
+ | [ga](/f9/language/ga) | 773 | 777 | 99.5 | /mnt/stockage/packages/f9/libextractor/po/ga.po | 
+ | [sv](/f9/language/sv) | 773 | 777 | 99.5 | /mnt/stockage/packages/f9/libextractor/po/sv.po | 
+ | [vi](/f9/language/vi) | 773 | 777 | 99.5 | /mnt/stockage/packages/f9/libextractor/po/vi.po | 
+ | [de](/f9/language/de) | 753 | 777 | 96.9 | /mnt/stockage/packages/f9/libextractor/po/de.po | 
+ | [ro](/f9/language/ro) | 594 | 777 | 76.4 | /mnt/stockage/packages/f9/libextractor/po/ro.po | 
+ | [rw](/f9/language/rw) | 16 | 777 | 2.1 | /mnt/stockage/packages/f9/libextractor/po/rw.po | 
 {.sortable}
 
 

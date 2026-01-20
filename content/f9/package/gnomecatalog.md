@@ -18,9 +18,9 @@ The package gnomecatalog (version 0.3.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [es]({{< ref "/f9/language/es.md" >}}) | 124 | 124 | 100.0 | /mnt/stockage/packages/f9/gnomecatalog/po/es.po | 
- | [pl]({{< ref "/f9/language/pl.md" >}}) | 100 | 127 | 78.7 | /mnt/stockage/packages/f9/gnomecatalog/po/pl.po | 
- | [en]({{< ref "/f9/language/en.md" >}}) | 0 | 127 | 0.0 | /mnt/stockage/packages/f9/gnomecatalog/po/en.po | 
+ | [es](/f9/language/es) | 124 | 124 | 100.0 | /mnt/stockage/packages/f9/gnomecatalog/po/es.po | 
+ | [pl](/f9/language/pl) | 100 | 127 | 78.7 | /mnt/stockage/packages/f9/gnomecatalog/po/pl.po | 
+ | [en](/f9/language/en) | 0 | 127 | 0.0 | /mnt/stockage/packages/f9/gnomecatalog/po/en.po | 
 {.sortable}
 
 

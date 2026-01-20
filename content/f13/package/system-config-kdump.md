@@ -18,81 +18,81 @@ The package system-config-kdump (version 2.0.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [bn_IN]({{< ref "/f13/language/bn_IN.md" >}}) | 807 | 807 | 100.0 | /mnt/stockage/packages/f13/system-config-kdump/po/bn_IN.po | 
- | [es]({{< ref "/f13/language/es.md" >}}) | 807 | 807 | 100.0 | /mnt/stockage/packages/f13/system-config-kdump/po/es.po | 
- | [gu]({{< ref "/f13/language/gu.md" >}}) | 807 | 807 | 100.0 | /mnt/stockage/packages/f13/system-config-kdump/po/gu.po | 
- | [ml]({{< ref "/f13/language/ml.md" >}}) | 807 | 807 | 100.0 | /mnt/stockage/packages/f13/system-config-kdump/po/ml.po | 
- | [mr]({{< ref "/f13/language/mr.md" >}}) | 807 | 807 | 100.0 | /mnt/stockage/packages/f13/system-config-kdump/po/mr.po | 
- | [nl]({{< ref "/f13/language/nl.md" >}}) | 807 | 807 | 100.0 | /mnt/stockage/packages/f13/system-config-kdump/po/nl.po | 
- | [or]({{< ref "/f13/language/or.md" >}}) | 807 | 807 | 100.0 | /mnt/stockage/packages/f13/system-config-kdump/po/or.po | 
- | [pa]({{< ref "/f13/language/pa.md" >}}) | 807 | 807 | 100.0 | /mnt/stockage/packages/f13/system-config-kdump/po/pa.po | 
- | [pl]({{< ref "/f13/language/pl.md" >}}) | 807 | 807 | 100.0 | /mnt/stockage/packages/f13/system-config-kdump/po/pl.po | 
- | [ru]({{< ref "/f13/language/ru.md" >}}) | 807 | 807 | 100.0 | /mnt/stockage/packages/f13/system-config-kdump/po/ru.po | 
- | [fi]({{< ref "/f13/language/fi.md" >}}) | 804 | 807 | 99.6 | /mnt/stockage/packages/f13/system-config-kdump/po/fi.po | 
- | [hu]({{< ref "/f13/language/hu.md" >}}) | 533 | 807 | 66.0 | /mnt/stockage/packages/f13/system-config-kdump/po/hu.po | 
- | [as]({{< ref "/f13/language/as.md" >}}) | 235 | 807 | 29.1 | /mnt/stockage/packages/f13/system-config-kdump/po/as.po | 
- | [ast]({{< ref "/f13/language/ast.md" >}}) | 235 | 807 | 29.1 | /mnt/stockage/packages/f13/system-config-kdump/po/ast.po | 
- | [bg]({{< ref "/f13/language/bg.md" >}}) | 235 | 807 | 29.1 | /mnt/stockage/packages/f13/system-config-kdump/po/bg.po | 
- | [ca]({{< ref "/f13/language/ca.md" >}}) | 235 | 807 | 29.1 | /mnt/stockage/packages/f13/system-config-kdump/po/ca.po | 
- | [cs]({{< ref "/f13/language/cs.md" >}}) | 235 | 807 | 29.1 | /mnt/stockage/packages/f13/system-config-kdump/po/cs.po | 
- | [da]({{< ref "/f13/language/da.md" >}}) | 235 | 807 | 29.1 | /mnt/stockage/packages/f13/system-config-kdump/po/da.po | 
- | [de]({{< ref "/f13/language/de.md" >}}) | 235 | 807 | 29.1 | /mnt/stockage/packages/f13/system-config-kdump/po/de.po | 
- | [el]({{< ref "/f13/language/el.md" >}}) | 235 | 807 | 29.1 | /mnt/stockage/packages/f13/system-config-kdump/po/el.po | 
- | [en_GB]({{< ref "/f13/language/en_GB.md" >}}) | 235 | 807 | 29.1 | /mnt/stockage/packages/f13/system-config-kdump/po/en_GB.po | 
- | [fr]({{< ref "/f13/language/fr.md" >}}) | 235 | 807 | 29.1 | /mnt/stockage/packages/f13/system-config-kdump/po/fr.po | 
- | [hi]({{< ref "/f13/language/hi.md" >}}) | 235 | 807 | 29.1 | /mnt/stockage/packages/f13/system-config-kdump/po/hi.po | 
- | [hr]({{< ref "/f13/language/hr.md" >}}) | 235 | 807 | 29.1 | /mnt/stockage/packages/f13/system-config-kdump/po/hr.po | 
- | [id]({{< ref "/f13/language/id.md" >}}) | 235 | 807 | 29.1 | /mnt/stockage/packages/f13/system-config-kdump/po/id.po | 
- | [it]({{< ref "/f13/language/it.md" >}}) | 235 | 807 | 29.1 | /mnt/stockage/packages/f13/system-config-kdump/po/it.po | 
- | [ja]({{< ref "/f13/language/ja.md" >}}) | 235 | 807 | 29.1 | /mnt/stockage/packages/f13/system-config-kdump/po/ja.po | 
- | [kn]({{< ref "/f13/language/kn.md" >}}) | 235 | 807 | 29.1 | /mnt/stockage/packages/f13/system-config-kdump/po/kn.po | 
- | [ko]({{< ref "/f13/language/ko.md" >}}) | 235 | 807 | 29.1 | /mnt/stockage/packages/f13/system-config-kdump/po/ko.po | 
- | [mai]({{< ref "/f13/language/mai.md" >}}) | 235 | 807 | 29.1 | /mnt/stockage/packages/f13/system-config-kdump/po/mai.po | 
- | [ms]({{< ref "/f13/language/ms.md" >}}) | 235 | 807 | 29.1 | /mnt/stockage/packages/f13/system-config-kdump/po/ms.po | 
- | [pt]({{< ref "/f13/language/pt.md" >}}) | 235 | 807 | 29.1 | /mnt/stockage/packages/f13/system-config-kdump/po/pt.po | 
- | [pt_BR]({{< ref "/f13/language/pt_BR.md" >}}) | 235 | 807 | 29.1 | /mnt/stockage/packages/f13/system-config-kdump/po/pt_BR.po | 
- | [sk]({{< ref "/f13/language/sk.md" >}}) | 235 | 807 | 29.1 | /mnt/stockage/packages/f13/system-config-kdump/po/sk.po | 
- | [sr]({{< ref "/f13/language/sr.md" >}}) | 235 | 807 | 29.1 | /mnt/stockage/packages/f13/system-config-kdump/po/sr.po | 
- | [sr_Latn]({{< ref "/f13/language/sr_Latn.md" >}}) | 235 | 807 | 29.1 | /mnt/stockage/packages/f13/system-config-kdump/po/sr@latin.po | 
- | [sv]({{< ref "/f13/language/sv.md" >}}) | 235 | 807 | 29.1 | /mnt/stockage/packages/f13/system-config-kdump/po/sv.po | 
- | [ta]({{< ref "/f13/language/ta.md" >}}) | 235 | 807 | 29.1 | /mnt/stockage/packages/f13/system-config-kdump/po/ta.po | 
- | [te]({{< ref "/f13/language/te.md" >}}) | 235 | 807 | 29.1 | /mnt/stockage/packages/f13/system-config-kdump/po/te.po | 
- | [uk]({{< ref "/f13/language/uk.md" >}}) | 235 | 807 | 29.1 | /mnt/stockage/packages/f13/system-config-kdump/po/uk.po | 
- | [zh_Hans]({{< ref "/f13/language/zh_Hans.md" >}}) | 235 | 807 | 29.1 | /mnt/stockage/packages/f13/system-config-kdump/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f13/language/zh_Hant.md" >}}) | 235 | 807 | 29.1 | /mnt/stockage/packages/f13/system-config-kdump/po/zh_TW.po | 
- | [bs]({{< ref "/f13/language/bs.md" >}}) | 224 | 807 | 27.8 | /mnt/stockage/packages/f13/system-config-kdump/po/bs.po | 
- | [lv]({{< ref "/f13/language/lv.md" >}}) | 224 | 807 | 27.8 | /mnt/stockage/packages/f13/system-config-kdump/po/lv.po | 
- | [ro]({{< ref "/f13/language/ro.md" >}}) | 162 | 807 | 20.1 | /mnt/stockage/packages/f13/system-config-kdump/po/ro.po | 
- | [sl]({{< ref "/f13/language/sl.md" >}}) | 151 | 807 | 18.7 | /mnt/stockage/packages/f13/system-config-kdump/po/sl.po | 
- | [mk]({{< ref "/f13/language/mk.md" >}}) | 138 | 807 | 17.1 | /mnt/stockage/packages/f13/system-config-kdump/po/mk.po | 
- | [is]({{< ref "/f13/language/is.md" >}}) | 34 | 807 | 4.2 | /mnt/stockage/packages/f13/system-config-kdump/po/is.po | 
- | [nb_NO]({{< ref "/f13/language/nb_NO.md" >}}) | 33 | 807 | 4.1 | /mnt/stockage/packages/f13/system-config-kdump/po/nb.po | 
- | [af]({{< ref "/f13/language/af.md" >}}) | 0 | 807 | 0.0 | /mnt/stockage/packages/f13/system-config-kdump/po/af.po | 
- | [am]({{< ref "/f13/language/am.md" >}}) | 0 | 807 | 0.0 | /mnt/stockage/packages/f13/system-config-kdump/po/am.po | 
- | [ar]({{< ref "/f13/language/ar.md" >}}) | 0 | 807 | 0.0 | /mnt/stockage/packages/f13/system-config-kdump/po/ar.po | 
- | [be]({{< ref "/f13/language/be.md" >}}) | 0 | 807 | 0.0 | /mnt/stockage/packages/f13/system-config-kdump/po/be.po | 
- | [bn]({{< ref "/f13/language/bn.md" >}}) | 0 | 807 | 0.0 | /mnt/stockage/packages/f13/system-config-kdump/po/bn.po | 
- | [cy]({{< ref "/f13/language/cy.md" >}}) | 0 | 807 | 0.0 | /mnt/stockage/packages/f13/system-config-kdump/po/cy.po | 
- | [et]({{< ref "/f13/language/et.md" >}}) | 0 | 807 | 0.0 | /mnt/stockage/packages/f13/system-config-kdump/po/et.po | 
- | [eu]({{< ref "/f13/language/eu.md" >}}) | 0 | 807 | 0.0 | /mnt/stockage/packages/f13/system-config-kdump/po/eu_ES.po | 
- | [fa]({{< ref "/f13/language/fa.md" >}}) | 0 | 807 | 0.0 | /mnt/stockage/packages/f13/system-config-kdump/po/fa.po | 
- | [gl]({{< ref "/f13/language/gl.md" >}}) | 0 | 807 | 0.0 | /mnt/stockage/packages/f13/system-config-kdump/po/gl.po | 
- | [he]({{< ref "/f13/language/he.md" >}}) | 0 | 807 | 0.0 | /mnt/stockage/packages/f13/system-config-kdump/po/he.po | 
- | [hy]({{< ref "/f13/language/hy.md" >}}) | 0 | 807 | 0.0 | /mnt/stockage/packages/f13/system-config-kdump/po/hy.po | 
- | [ka]({{< ref "/f13/language/ka.md" >}}) | 0 | 807 | 0.0 | /mnt/stockage/packages/f13/system-config-kdump/po/ka.po | 
- | [ku]({{< ref "/f13/language/ku.md" >}}) | 0 | 807 | 0.0 | /mnt/stockage/packages/f13/system-config-kdump/po/ku.po | 
- | [lo]({{< ref "/f13/language/lo.md" >}}) | 0 | 807 | 0.0 | /mnt/stockage/packages/f13/system-config-kdump/po/lo.po | 
- | [lt]({{< ref "/f13/language/lt.md" >}}) | 0 | 807 | 0.0 | /mnt/stockage/packages/f13/system-config-kdump/po/lt.po | 
- | [my]({{< ref "/f13/language/my.md" >}}) | 0 | 807 | 0.0 | /mnt/stockage/packages/f13/system-config-kdump/po/my.po | 
- | [nn]({{< ref "/f13/language/nn.md" >}}) | 0 | 807 | 0.0 | /mnt/stockage/packages/f13/system-config-kdump/po/nn.po | 
- | [nso]({{< ref "/f13/language/nso.md" >}}) | 0 | 807 | 0.0 | /mnt/stockage/packages/f13/system-config-kdump/po/nso.po | 
- | [si]({{< ref "/f13/language/si.md" >}}) | 0 | 807 | 0.0 | /mnt/stockage/packages/f13/system-config-kdump/po/si.po | 
- | [sq]({{< ref "/f13/language/sq.md" >}}) | 0 | 807 | 0.0 | /mnt/stockage/packages/f13/system-config-kdump/po/sq.po | 
- | [th]({{< ref "/f13/language/th.md" >}}) | 0 | 807 | 0.0 | /mnt/stockage/packages/f13/system-config-kdump/po/th.po | 
- | [tr]({{< ref "/f13/language/tr.md" >}}) | 0 | 807 | 0.0 | /mnt/stockage/packages/f13/system-config-kdump/po/tr.po | 
- | [ur]({{< ref "/f13/language/ur.md" >}}) | 0 | 807 | 0.0 | /mnt/stockage/packages/f13/system-config-kdump/po/ur.po | 
- | [vi]({{< ref "/f13/language/vi.md" >}}) | 0 | 807 | 0.0 | /mnt/stockage/packages/f13/system-config-kdump/po/vi.po | 
- | [zu]({{< ref "/f13/language/zu.md" >}}) | 0 | 807 | 0.0 | /mnt/stockage/packages/f13/system-config-kdump/po/zu.po | 
+ | [bn_IN](/f13/language/bn_IN) | 807 | 807 | 100.0 | /mnt/stockage/packages/f13/system-config-kdump/po/bn_IN.po | 
+ | [es](/f13/language/es) | 807 | 807 | 100.0 | /mnt/stockage/packages/f13/system-config-kdump/po/es.po | 
+ | [gu](/f13/language/gu) | 807 | 807 | 100.0 | /mnt/stockage/packages/f13/system-config-kdump/po/gu.po | 
+ | [ml](/f13/language/ml) | 807 | 807 | 100.0 | /mnt/stockage/packages/f13/system-config-kdump/po/ml.po | 
+ | [mr](/f13/language/mr) | 807 | 807 | 100.0 | /mnt/stockage/packages/f13/system-config-kdump/po/mr.po | 
+ | [nl](/f13/language/nl) | 807 | 807 | 100.0 | /mnt/stockage/packages/f13/system-config-kdump/po/nl.po | 
+ | [or](/f13/language/or) | 807 | 807 | 100.0 | /mnt/stockage/packages/f13/system-config-kdump/po/or.po | 
+ | [pa](/f13/language/pa) | 807 | 807 | 100.0 | /mnt/stockage/packages/f13/system-config-kdump/po/pa.po | 
+ | [pl](/f13/language/pl) | 807 | 807 | 100.0 | /mnt/stockage/packages/f13/system-config-kdump/po/pl.po | 
+ | [ru](/f13/language/ru) | 807 | 807 | 100.0 | /mnt/stockage/packages/f13/system-config-kdump/po/ru.po | 
+ | [fi](/f13/language/fi) | 804 | 807 | 99.6 | /mnt/stockage/packages/f13/system-config-kdump/po/fi.po | 
+ | [hu](/f13/language/hu) | 533 | 807 | 66.0 | /mnt/stockage/packages/f13/system-config-kdump/po/hu.po | 
+ | [as](/f13/language/as) | 235 | 807 | 29.1 | /mnt/stockage/packages/f13/system-config-kdump/po/as.po | 
+ | [ast](/f13/language/ast) | 235 | 807 | 29.1 | /mnt/stockage/packages/f13/system-config-kdump/po/ast.po | 
+ | [bg](/f13/language/bg) | 235 | 807 | 29.1 | /mnt/stockage/packages/f13/system-config-kdump/po/bg.po | 
+ | [ca](/f13/language/ca) | 235 | 807 | 29.1 | /mnt/stockage/packages/f13/system-config-kdump/po/ca.po | 
+ | [cs](/f13/language/cs) | 235 | 807 | 29.1 | /mnt/stockage/packages/f13/system-config-kdump/po/cs.po | 
+ | [da](/f13/language/da) | 235 | 807 | 29.1 | /mnt/stockage/packages/f13/system-config-kdump/po/da.po | 
+ | [de](/f13/language/de) | 235 | 807 | 29.1 | /mnt/stockage/packages/f13/system-config-kdump/po/de.po | 
+ | [el](/f13/language/el) | 235 | 807 | 29.1 | /mnt/stockage/packages/f13/system-config-kdump/po/el.po | 
+ | [en_GB](/f13/language/en_GB) | 235 | 807 | 29.1 | /mnt/stockage/packages/f13/system-config-kdump/po/en_GB.po | 
+ | [fr](/f13/language/fr) | 235 | 807 | 29.1 | /mnt/stockage/packages/f13/system-config-kdump/po/fr.po | 
+ | [hi](/f13/language/hi) | 235 | 807 | 29.1 | /mnt/stockage/packages/f13/system-config-kdump/po/hi.po | 
+ | [hr](/f13/language/hr) | 235 | 807 | 29.1 | /mnt/stockage/packages/f13/system-config-kdump/po/hr.po | 
+ | [id](/f13/language/id) | 235 | 807 | 29.1 | /mnt/stockage/packages/f13/system-config-kdump/po/id.po | 
+ | [it](/f13/language/it) | 235 | 807 | 29.1 | /mnt/stockage/packages/f13/system-config-kdump/po/it.po | 
+ | [ja](/f13/language/ja) | 235 | 807 | 29.1 | /mnt/stockage/packages/f13/system-config-kdump/po/ja.po | 
+ | [kn](/f13/language/kn) | 235 | 807 | 29.1 | /mnt/stockage/packages/f13/system-config-kdump/po/kn.po | 
+ | [ko](/f13/language/ko) | 235 | 807 | 29.1 | /mnt/stockage/packages/f13/system-config-kdump/po/ko.po | 
+ | [mai](/f13/language/mai) | 235 | 807 | 29.1 | /mnt/stockage/packages/f13/system-config-kdump/po/mai.po | 
+ | [ms](/f13/language/ms) | 235 | 807 | 29.1 | /mnt/stockage/packages/f13/system-config-kdump/po/ms.po | 
+ | [pt](/f13/language/pt) | 235 | 807 | 29.1 | /mnt/stockage/packages/f13/system-config-kdump/po/pt.po | 
+ | [pt_BR](/f13/language/pt_BR) | 235 | 807 | 29.1 | /mnt/stockage/packages/f13/system-config-kdump/po/pt_BR.po | 
+ | [sk](/f13/language/sk) | 235 | 807 | 29.1 | /mnt/stockage/packages/f13/system-config-kdump/po/sk.po | 
+ | [sr](/f13/language/sr) | 235 | 807 | 29.1 | /mnt/stockage/packages/f13/system-config-kdump/po/sr.po | 
+ | [sr_Latn](/f13/language/sr_Latn) | 235 | 807 | 29.1 | /mnt/stockage/packages/f13/system-config-kdump/po/sr@latin.po | 
+ | [sv](/f13/language/sv) | 235 | 807 | 29.1 | /mnt/stockage/packages/f13/system-config-kdump/po/sv.po | 
+ | [ta](/f13/language/ta) | 235 | 807 | 29.1 | /mnt/stockage/packages/f13/system-config-kdump/po/ta.po | 
+ | [te](/f13/language/te) | 235 | 807 | 29.1 | /mnt/stockage/packages/f13/system-config-kdump/po/te.po | 
+ | [uk](/f13/language/uk) | 235 | 807 | 29.1 | /mnt/stockage/packages/f13/system-config-kdump/po/uk.po | 
+ | [zh_Hans](/f13/language/zh_Hans) | 235 | 807 | 29.1 | /mnt/stockage/packages/f13/system-config-kdump/po/zh_CN.po | 
+ | [zh_Hant](/f13/language/zh_Hant) | 235 | 807 | 29.1 | /mnt/stockage/packages/f13/system-config-kdump/po/zh_TW.po | 
+ | [bs](/f13/language/bs) | 224 | 807 | 27.8 | /mnt/stockage/packages/f13/system-config-kdump/po/bs.po | 
+ | [lv](/f13/language/lv) | 224 | 807 | 27.8 | /mnt/stockage/packages/f13/system-config-kdump/po/lv.po | 
+ | [ro](/f13/language/ro) | 162 | 807 | 20.1 | /mnt/stockage/packages/f13/system-config-kdump/po/ro.po | 
+ | [sl](/f13/language/sl) | 151 | 807 | 18.7 | /mnt/stockage/packages/f13/system-config-kdump/po/sl.po | 
+ | [mk](/f13/language/mk) | 138 | 807 | 17.1 | /mnt/stockage/packages/f13/system-config-kdump/po/mk.po | 
+ | [is](/f13/language/is) | 34 | 807 | 4.2 | /mnt/stockage/packages/f13/system-config-kdump/po/is.po | 
+ | [nb_NO](/f13/language/nb_NO) | 33 | 807 | 4.1 | /mnt/stockage/packages/f13/system-config-kdump/po/nb.po | 
+ | [af](/f13/language/af) | 0 | 807 | 0.0 | /mnt/stockage/packages/f13/system-config-kdump/po/af.po | 
+ | [am](/f13/language/am) | 0 | 807 | 0.0 | /mnt/stockage/packages/f13/system-config-kdump/po/am.po | 
+ | [ar](/f13/language/ar) | 0 | 807 | 0.0 | /mnt/stockage/packages/f13/system-config-kdump/po/ar.po | 
+ | [be](/f13/language/be) | 0 | 807 | 0.0 | /mnt/stockage/packages/f13/system-config-kdump/po/be.po | 
+ | [bn](/f13/language/bn) | 0 | 807 | 0.0 | /mnt/stockage/packages/f13/system-config-kdump/po/bn.po | 
+ | [cy](/f13/language/cy) | 0 | 807 | 0.0 | /mnt/stockage/packages/f13/system-config-kdump/po/cy.po | 
+ | [et](/f13/language/et) | 0 | 807 | 0.0 | /mnt/stockage/packages/f13/system-config-kdump/po/et.po | 
+ | [eu](/f13/language/eu) | 0 | 807 | 0.0 | /mnt/stockage/packages/f13/system-config-kdump/po/eu_ES.po | 
+ | [fa](/f13/language/fa) | 0 | 807 | 0.0 | /mnt/stockage/packages/f13/system-config-kdump/po/fa.po | 
+ | [gl](/f13/language/gl) | 0 | 807 | 0.0 | /mnt/stockage/packages/f13/system-config-kdump/po/gl.po | 
+ | [he](/f13/language/he) | 0 | 807 | 0.0 | /mnt/stockage/packages/f13/system-config-kdump/po/he.po | 
+ | [hy](/f13/language/hy) | 0 | 807 | 0.0 | /mnt/stockage/packages/f13/system-config-kdump/po/hy.po | 
+ | [ka](/f13/language/ka) | 0 | 807 | 0.0 | /mnt/stockage/packages/f13/system-config-kdump/po/ka.po | 
+ | [ku](/f13/language/ku) | 0 | 807 | 0.0 | /mnt/stockage/packages/f13/system-config-kdump/po/ku.po | 
+ | [lo](/f13/language/lo) | 0 | 807 | 0.0 | /mnt/stockage/packages/f13/system-config-kdump/po/lo.po | 
+ | [lt](/f13/language/lt) | 0 | 807 | 0.0 | /mnt/stockage/packages/f13/system-config-kdump/po/lt.po | 
+ | [my](/f13/language/my) | 0 | 807 | 0.0 | /mnt/stockage/packages/f13/system-config-kdump/po/my.po | 
+ | [nn](/f13/language/nn) | 0 | 807 | 0.0 | /mnt/stockage/packages/f13/system-config-kdump/po/nn.po | 
+ | [nso](/f13/language/nso) | 0 | 807 | 0.0 | /mnt/stockage/packages/f13/system-config-kdump/po/nso.po | 
+ | [si](/f13/language/si) | 0 | 807 | 0.0 | /mnt/stockage/packages/f13/system-config-kdump/po/si.po | 
+ | [sq](/f13/language/sq) | 0 | 807 | 0.0 | /mnt/stockage/packages/f13/system-config-kdump/po/sq.po | 
+ | [th](/f13/language/th) | 0 | 807 | 0.0 | /mnt/stockage/packages/f13/system-config-kdump/po/th.po | 
+ | [tr](/f13/language/tr) | 0 | 807 | 0.0 | /mnt/stockage/packages/f13/system-config-kdump/po/tr.po | 
+ | [ur](/f13/language/ur) | 0 | 807 | 0.0 | /mnt/stockage/packages/f13/system-config-kdump/po/ur.po | 
+ | [vi](/f13/language/vi) | 0 | 807 | 0.0 | /mnt/stockage/packages/f13/system-config-kdump/po/vi.po | 
+ | [zu](/f13/language/zu) | 0 | 807 | 0.0 | /mnt/stockage/packages/f13/system-config-kdump/po/zu.po | 
 {.sortable}
 
 

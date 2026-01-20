@@ -18,8 +18,8 @@ The package grantlee-qt5 (version 5.0.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f23/language/de.md" >}}) | 19 | 27 | 70.4 | /mnt/stockage/packages/f23/grantlee-qt5/examples/contacts/de_DE.po/mnt/stockage/packages/f23/grantlee-qt5/examples/contacts/themes/gettext/dopey/de_DE/LC_MESSAGES/dopey.po | 
- | [fr]({{< ref "/f23/language/fr.md" >}}) | 19 | 27 | 70.4 | /mnt/stockage/packages/f23/grantlee-qt5/examples/contacts/fr_FR.po/mnt/stockage/packages/f23/grantlee-qt5/examples/contacts/themes/gettext/dopey/fr_FR/LC_MESSAGES/dopey.po | 
+ | [de](/f23/language/de) | 19 | 27 | 70.4 | /mnt/stockage/packages/f23/grantlee-qt5/examples/contacts/de_DE.po/mnt/stockage/packages/f23/grantlee-qt5/examples/contacts/themes/gettext/dopey/de_DE/LC_MESSAGES/dopey.po | 
+ | [fr](/f23/language/fr) | 19 | 27 | 70.4 | /mnt/stockage/packages/f23/grantlee-qt5/examples/contacts/fr_FR.po/mnt/stockage/packages/f23/grantlee-qt5/examples/contacts/themes/gettext/dopey/fr_FR/LC_MESSAGES/dopey.po | 
 {.sortable}
 
 

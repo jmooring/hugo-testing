@@ -38,9 +38,9 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [tuxpaint]({{< ref "/f10/package/tuxpaint.md" >}}) | 34 | 761 | 4.5 | Bill Kendrick <nbs@sonic.net> | 
- | [bittorrent]({{< ref "/f10/package/bittorrent.md" >}}) | 13 | 3906 | 0.3 | LANGUAGE <LL@li.org> | 
- | [deluge]({{< ref "/f10/package/deluge.md" >}}) | 3 | 1998 | 0.2 | Klingon; tlhIngan-Hol <tlh@li.org> | 
+ | [tuxpaint](/f10/package/tuxpaint) | 34 | 761 | 4.5 | Bill Kendrick <nbs@sonic.net> | 
+ | [bittorrent](/f10/package/bittorrent) | 13 | 3906 | 0.3 | LANGUAGE <LL@li.org> | 
+ | [deluge](/f10/package/deluge) | 3 | 1998 | 0.2 | Klingon; tlhIngan-Hol <tlh@li.org> | 
 {.sortable}
 
 

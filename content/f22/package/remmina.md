@@ -18,61 +18,61 @@ The package remmina (version 1.2.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [es]({{< ref "/f22/language/es.md" >}}) | 1153 | 1153 | 100.0 | /mnt/stockage/packages/f22/remmina/remmina/po/es.po | 
- | [de]({{< ref "/f22/language/de.md" >}}) | 1149 | 1150 | 99.9 | /mnt/stockage/packages/f22/remmina/remmina/po/de.po | 
- | [uz]({{< ref "/f22/language/uz.md" >}}) | 1197 | 1200 | 99.8 | /mnt/stockage/packages/f22/remmina/remmina/po/uz@cyrillic.po | 
- | [it]({{< ref "/f22/language/it.md" >}}) | 1210 | 1215 | 99.6 | /mnt/stockage/packages/f22/remmina/remmina/po/it.po | 
- | [en_AU]({{< ref "/f22/language/en_AU.md" >}}) | 1133 | 1200 | 94.4 | /mnt/stockage/packages/f22/remmina/remmina/po/en_AU.po | 
- | [en_GB]({{< ref "/f22/language/en_GB.md" >}}) | 1133 | 1200 | 94.4 | /mnt/stockage/packages/f22/remmina/remmina/po/en_GB.po | 
- | [ru]({{< ref "/f22/language/ru.md" >}}) | 1087 | 1165 | 93.3 | /mnt/stockage/packages/f22/remmina/remmina/po/ru.po | 
- | [ast]({{< ref "/f22/language/ast.md" >}}) | 1072 | 1150 | 93.2 | /mnt/stockage/packages/f22/remmina/remmina/po/ast.po | 
- | [bs]({{< ref "/f22/language/bs.md" >}}) | 1072 | 1150 | 93.2 | /mnt/stockage/packages/f22/remmina/remmina/po/bs.po | 
- | [cs]({{< ref "/f22/language/cs.md" >}}) | 1072 | 1150 | 93.2 | /mnt/stockage/packages/f22/remmina/remmina/po/cs.po | 
- | [el]({{< ref "/f22/language/el.md" >}}) | 1072 | 1150 | 93.2 | /mnt/stockage/packages/f22/remmina/remmina/po/el.po | 
- | [eu]({{< ref "/f22/language/eu.md" >}}) | 1072 | 1150 | 93.2 | /mnt/stockage/packages/f22/remmina/remmina/po/eu.po | 
- | [fr]({{< ref "/f22/language/fr.md" >}}) | 1072 | 1150 | 93.2 | /mnt/stockage/packages/f22/remmina/remmina/po/fr.po | 
- | [gl]({{< ref "/f22/language/gl.md" >}}) | 1072 | 1150 | 93.2 | /mnt/stockage/packages/f22/remmina/remmina/po/gl.po | 
- | [he]({{< ref "/f22/language/he.md" >}}) | 1072 | 1150 | 93.2 | /mnt/stockage/packages/f22/remmina/remmina/po/he.po | 
- | [hu]({{< ref "/f22/language/hu.md" >}}) | 1072 | 1150 | 93.2 | /mnt/stockage/packages/f22/remmina/remmina/po/hu.po | 
- | [ja]({{< ref "/f22/language/ja.md" >}}) | 1072 | 1150 | 93.2 | /mnt/stockage/packages/f22/remmina/remmina/po/ja.po | 
- | [ko]({{< ref "/f22/language/ko.md" >}}) | 1072 | 1150 | 93.2 | /mnt/stockage/packages/f22/remmina/remmina/po/ko.po | 
- | [lt]({{< ref "/f22/language/lt.md" >}}) | 1072 | 1150 | 93.2 | /mnt/stockage/packages/f22/remmina/remmina/po/lt.po | 
- | [lv]({{< ref "/f22/language/lv.md" >}}) | 1072 | 1150 | 93.2 | /mnt/stockage/packages/f22/remmina/remmina/po/lv.po | 
- | [ms]({{< ref "/f22/language/ms.md" >}}) | 1072 | 1150 | 93.2 | /mnt/stockage/packages/f22/remmina/remmina/po/ms.po | 
- | [nb_NO]({{< ref "/f22/language/nb_NO.md" >}}) | 1072 | 1150 | 93.2 | /mnt/stockage/packages/f22/remmina/remmina/po/nb.po | 
- | [nl]({{< ref "/f22/language/nl.md" >}}) | 1072 | 1150 | 93.2 | /mnt/stockage/packages/f22/remmina/remmina/po/nl.po | 
- | [oc]({{< ref "/f22/language/oc.md" >}}) | 1072 | 1150 | 93.2 | /mnt/stockage/packages/f22/remmina/remmina/po/oc.po | 
- | [pt]({{< ref "/f22/language/pt.md" >}}) | 2144 | 2300 | 93.2 | /mnt/stockage/packages/f22/remmina/remmina/po/pt_PT.po/mnt/stockage/packages/f22/remmina/remmina/po/pt.po | 
- | [pt_BR]({{< ref "/f22/language/pt_BR.md" >}}) | 1072 | 1150 | 93.2 | /mnt/stockage/packages/f22/remmina/remmina/po/pt_BR.po | 
- | [ro]({{< ref "/f22/language/ro.md" >}}) | 1072 | 1150 | 93.2 | /mnt/stockage/packages/f22/remmina/remmina/po/ro.po | 
- | [sl]({{< ref "/f22/language/sl.md" >}}) | 1072 | 1150 | 93.2 | /mnt/stockage/packages/f22/remmina/remmina/po/sl.po | 
- | [tr]({{< ref "/f22/language/tr.md" >}}) | 1072 | 1150 | 93.2 | /mnt/stockage/packages/f22/remmina/remmina/po/tr.po | 
- | [ug]({{< ref "/f22/language/ug.md" >}}) | 1072 | 1150 | 93.2 | /mnt/stockage/packages/f22/remmina/remmina/po/ug.po | 
- | [uk]({{< ref "/f22/language/uk.md" >}}) | 1072 | 1150 | 93.2 | /mnt/stockage/packages/f22/remmina/remmina/po/uk.po | 
- | [zh_Hans]({{< ref "/f22/language/zh_Hans.md" >}}) | 1072 | 1150 | 93.2 | /mnt/stockage/packages/f22/remmina/remmina/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f22/language/zh_Hant.md" >}}) | 1072 | 1150 | 93.2 | /mnt/stockage/packages/f22/remmina/remmina/po/zh_TW.po | 
- | [pl]({{< ref "/f22/language/pl.md" >}}) | 1002 | 1150 | 87.1 | /mnt/stockage/packages/f22/remmina/remmina/po/pl.po | 
- | [ca]({{< ref "/f22/language/ca.md" >}}) | 1852 | 2300 | 80.5 | /mnt/stockage/packages/f22/remmina/remmina/po/ca@valencia.po/mnt/stockage/packages/f22/remmina/remmina/po/ca.po | 
- | [sv]({{< ref "/f22/language/sv.md" >}}) | 865 | 1150 | 75.2 | /mnt/stockage/packages/f22/remmina/remmina/po/sv.po | 
- | [fi]({{< ref "/f22/language/fi.md" >}}) | 815 | 1150 | 70.9 | /mnt/stockage/packages/f22/remmina/remmina/po/fi.po | 
- | [bg]({{< ref "/f22/language/bg.md" >}}) | 780 | 1150 | 67.8 | /mnt/stockage/packages/f22/remmina/remmina/po/bg.po | 
- | [da]({{< ref "/f22/language/da.md" >}}) | 780 | 1150 | 67.8 | /mnt/stockage/packages/f22/remmina/remmina/po/da.po | 
- | [th]({{< ref "/f22/language/th.md" >}}) | 722 | 1150 | 62.8 | /mnt/stockage/packages/f22/remmina/remmina/po/th.po | 
- | [sr]({{< ref "/f22/language/sr.md" >}}) | 639 | 1150 | 55.6 | /mnt/stockage/packages/f22/remmina/remmina/po/sr.po | 
- | [sk]({{< ref "/f22/language/sk.md" >}}) | 630 | 1150 | 54.8 | /mnt/stockage/packages/f22/remmina/remmina/po/sk.po | 
- | [et]({{< ref "/f22/language/et.md" >}}) | 444 | 1150 | 38.6 | /mnt/stockage/packages/f22/remmina/remmina/po/et.po | 
- | [kk]({{< ref "/f22/language/kk.md" >}}) | 436 | 1150 | 37.9 | /mnt/stockage/packages/f22/remmina/remmina/po/kk.po | 
- | [km]({{< ref "/f22/language/km.md" >}}) | 254 | 1150 | 22.1 | /mnt/stockage/packages/f22/remmina/remmina/po/km.po | 
- | [sq]({{< ref "/f22/language/sq.md" >}}) | 199 | 1150 | 17.3 | /mnt/stockage/packages/f22/remmina/remmina/po/sq.po | 
- | [id]({{< ref "/f22/language/id.md" >}}) | 112 | 1150 | 9.7 | /mnt/stockage/packages/f22/remmina/remmina/po/id.po | 
- | [hr]({{< ref "/f22/language/hr.md" >}}) | 99 | 1150 | 8.6 | /mnt/stockage/packages/f22/remmina/remmina/po/hr.po | 
- | [si]({{< ref "/f22/language/si.md" >}}) | 64 | 1150 | 5.6 | /mnt/stockage/packages/f22/remmina/remmina/po/si.po | 
- | [kn]({{< ref "/f22/language/kn.md" >}}) | 33 | 1150 | 2.9 | /mnt/stockage/packages/f22/remmina/remmina/po/kn.po | 
- | [bn]({{< ref "/f22/language/bn.md" >}}) | 32 | 1150 | 2.8 | /mnt/stockage/packages/f22/remmina/remmina/po/bn.po | 
- | [my]({{< ref "/f22/language/my.md" >}}) | 30 | 1150 | 2.6 | /mnt/stockage/packages/f22/remmina/remmina/po/my.po | 
- | [te]({{< ref "/f22/language/te.md" >}}) | 9 | 1150 | 0.8 | /mnt/stockage/packages/f22/remmina/remmina/po/te.po | 
- | [ar]({{< ref "/f22/language/ar.md" >}}) | 1 | 1150 | 0.1 | /mnt/stockage/packages/f22/remmina/remmina/po/ar.po | 
- | [shn]({{< ref "/f22/language/shn.md" >}}) | 0 | 1150 | 0.0 | /mnt/stockage/packages/f22/remmina/remmina/po/shn.po | 
+ | [es](/f22/language/es) | 1153 | 1153 | 100.0 | /mnt/stockage/packages/f22/remmina/remmina/po/es.po | 
+ | [de](/f22/language/de) | 1149 | 1150 | 99.9 | /mnt/stockage/packages/f22/remmina/remmina/po/de.po | 
+ | [uz](/f22/language/uz) | 1197 | 1200 | 99.8 | /mnt/stockage/packages/f22/remmina/remmina/po/uz@cyrillic.po | 
+ | [it](/f22/language/it) | 1210 | 1215 | 99.6 | /mnt/stockage/packages/f22/remmina/remmina/po/it.po | 
+ | [en_AU](/f22/language/en_AU) | 1133 | 1200 | 94.4 | /mnt/stockage/packages/f22/remmina/remmina/po/en_AU.po | 
+ | [en_GB](/f22/language/en_GB) | 1133 | 1200 | 94.4 | /mnt/stockage/packages/f22/remmina/remmina/po/en_GB.po | 
+ | [ru](/f22/language/ru) | 1087 | 1165 | 93.3 | /mnt/stockage/packages/f22/remmina/remmina/po/ru.po | 
+ | [ast](/f22/language/ast) | 1072 | 1150 | 93.2 | /mnt/stockage/packages/f22/remmina/remmina/po/ast.po | 
+ | [bs](/f22/language/bs) | 1072 | 1150 | 93.2 | /mnt/stockage/packages/f22/remmina/remmina/po/bs.po | 
+ | [cs](/f22/language/cs) | 1072 | 1150 | 93.2 | /mnt/stockage/packages/f22/remmina/remmina/po/cs.po | 
+ | [el](/f22/language/el) | 1072 | 1150 | 93.2 | /mnt/stockage/packages/f22/remmina/remmina/po/el.po | 
+ | [eu](/f22/language/eu) | 1072 | 1150 | 93.2 | /mnt/stockage/packages/f22/remmina/remmina/po/eu.po | 
+ | [fr](/f22/language/fr) | 1072 | 1150 | 93.2 | /mnt/stockage/packages/f22/remmina/remmina/po/fr.po | 
+ | [gl](/f22/language/gl) | 1072 | 1150 | 93.2 | /mnt/stockage/packages/f22/remmina/remmina/po/gl.po | 
+ | [he](/f22/language/he) | 1072 | 1150 | 93.2 | /mnt/stockage/packages/f22/remmina/remmina/po/he.po | 
+ | [hu](/f22/language/hu) | 1072 | 1150 | 93.2 | /mnt/stockage/packages/f22/remmina/remmina/po/hu.po | 
+ | [ja](/f22/language/ja) | 1072 | 1150 | 93.2 | /mnt/stockage/packages/f22/remmina/remmina/po/ja.po | 
+ | [ko](/f22/language/ko) | 1072 | 1150 | 93.2 | /mnt/stockage/packages/f22/remmina/remmina/po/ko.po | 
+ | [lt](/f22/language/lt) | 1072 | 1150 | 93.2 | /mnt/stockage/packages/f22/remmina/remmina/po/lt.po | 
+ | [lv](/f22/language/lv) | 1072 | 1150 | 93.2 | /mnt/stockage/packages/f22/remmina/remmina/po/lv.po | 
+ | [ms](/f22/language/ms) | 1072 | 1150 | 93.2 | /mnt/stockage/packages/f22/remmina/remmina/po/ms.po | 
+ | [nb_NO](/f22/language/nb_NO) | 1072 | 1150 | 93.2 | /mnt/stockage/packages/f22/remmina/remmina/po/nb.po | 
+ | [nl](/f22/language/nl) | 1072 | 1150 | 93.2 | /mnt/stockage/packages/f22/remmina/remmina/po/nl.po | 
+ | [oc](/f22/language/oc) | 1072 | 1150 | 93.2 | /mnt/stockage/packages/f22/remmina/remmina/po/oc.po | 
+ | [pt](/f22/language/pt) | 2144 | 2300 | 93.2 | /mnt/stockage/packages/f22/remmina/remmina/po/pt_PT.po/mnt/stockage/packages/f22/remmina/remmina/po/pt.po | 
+ | [pt_BR](/f22/language/pt_BR) | 1072 | 1150 | 93.2 | /mnt/stockage/packages/f22/remmina/remmina/po/pt_BR.po | 
+ | [ro](/f22/language/ro) | 1072 | 1150 | 93.2 | /mnt/stockage/packages/f22/remmina/remmina/po/ro.po | 
+ | [sl](/f22/language/sl) | 1072 | 1150 | 93.2 | /mnt/stockage/packages/f22/remmina/remmina/po/sl.po | 
+ | [tr](/f22/language/tr) | 1072 | 1150 | 93.2 | /mnt/stockage/packages/f22/remmina/remmina/po/tr.po | 
+ | [ug](/f22/language/ug) | 1072 | 1150 | 93.2 | /mnt/stockage/packages/f22/remmina/remmina/po/ug.po | 
+ | [uk](/f22/language/uk) | 1072 | 1150 | 93.2 | /mnt/stockage/packages/f22/remmina/remmina/po/uk.po | 
+ | [zh_Hans](/f22/language/zh_Hans) | 1072 | 1150 | 93.2 | /mnt/stockage/packages/f22/remmina/remmina/po/zh_CN.po | 
+ | [zh_Hant](/f22/language/zh_Hant) | 1072 | 1150 | 93.2 | /mnt/stockage/packages/f22/remmina/remmina/po/zh_TW.po | 
+ | [pl](/f22/language/pl) | 1002 | 1150 | 87.1 | /mnt/stockage/packages/f22/remmina/remmina/po/pl.po | 
+ | [ca](/f22/language/ca) | 1852 | 2300 | 80.5 | /mnt/stockage/packages/f22/remmina/remmina/po/ca@valencia.po/mnt/stockage/packages/f22/remmina/remmina/po/ca.po | 
+ | [sv](/f22/language/sv) | 865 | 1150 | 75.2 | /mnt/stockage/packages/f22/remmina/remmina/po/sv.po | 
+ | [fi](/f22/language/fi) | 815 | 1150 | 70.9 | /mnt/stockage/packages/f22/remmina/remmina/po/fi.po | 
+ | [bg](/f22/language/bg) | 780 | 1150 | 67.8 | /mnt/stockage/packages/f22/remmina/remmina/po/bg.po | 
+ | [da](/f22/language/da) | 780 | 1150 | 67.8 | /mnt/stockage/packages/f22/remmina/remmina/po/da.po | 
+ | [th](/f22/language/th) | 722 | 1150 | 62.8 | /mnt/stockage/packages/f22/remmina/remmina/po/th.po | 
+ | [sr](/f22/language/sr) | 639 | 1150 | 55.6 | /mnt/stockage/packages/f22/remmina/remmina/po/sr.po | 
+ | [sk](/f22/language/sk) | 630 | 1150 | 54.8 | /mnt/stockage/packages/f22/remmina/remmina/po/sk.po | 
+ | [et](/f22/language/et) | 444 | 1150 | 38.6 | /mnt/stockage/packages/f22/remmina/remmina/po/et.po | 
+ | [kk](/f22/language/kk) | 436 | 1150 | 37.9 | /mnt/stockage/packages/f22/remmina/remmina/po/kk.po | 
+ | [km](/f22/language/km) | 254 | 1150 | 22.1 | /mnt/stockage/packages/f22/remmina/remmina/po/km.po | 
+ | [sq](/f22/language/sq) | 199 | 1150 | 17.3 | /mnt/stockage/packages/f22/remmina/remmina/po/sq.po | 
+ | [id](/f22/language/id) | 112 | 1150 | 9.7 | /mnt/stockage/packages/f22/remmina/remmina/po/id.po | 
+ | [hr](/f22/language/hr) | 99 | 1150 | 8.6 | /mnt/stockage/packages/f22/remmina/remmina/po/hr.po | 
+ | [si](/f22/language/si) | 64 | 1150 | 5.6 | /mnt/stockage/packages/f22/remmina/remmina/po/si.po | 
+ | [kn](/f22/language/kn) | 33 | 1150 | 2.9 | /mnt/stockage/packages/f22/remmina/remmina/po/kn.po | 
+ | [bn](/f22/language/bn) | 32 | 1150 | 2.8 | /mnt/stockage/packages/f22/remmina/remmina/po/bn.po | 
+ | [my](/f22/language/my) | 30 | 1150 | 2.6 | /mnt/stockage/packages/f22/remmina/remmina/po/my.po | 
+ | [te](/f22/language/te) | 9 | 1150 | 0.8 | /mnt/stockage/packages/f22/remmina/remmina/po/te.po | 
+ | [ar](/f22/language/ar) | 1 | 1150 | 0.1 | /mnt/stockage/packages/f22/remmina/remmina/po/ar.po | 
+ | [shn](/f22/language/shn) | 0 | 1150 | 0.0 | /mnt/stockage/packages/f22/remmina/remmina/po/shn.po | 
 {.sortable}
 
 

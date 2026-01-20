@@ -18,28 +18,28 @@ The package libvirt-glib (version 5.0.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f43/language/cs.md" >}}) | 158 | 158 | 100.0 | /mnt/stockage/packages/f43/libvirt-glib/po/cs.po | 
- | [de]({{< ref "/f43/language/de.md" >}}) | 158 | 158 | 100.0 | /mnt/stockage/packages/f43/libvirt-glib/po/de.po | 
- | [es]({{< ref "/f43/language/es.md" >}}) | 158 | 158 | 100.0 | /mnt/stockage/packages/f43/libvirt-glib/po/es.po | 
- | [fi]({{< ref "/f43/language/fi.md" >}}) | 158 | 158 | 100.0 | /mnt/stockage/packages/f43/libvirt-glib/po/fi.po | 
- | [fr]({{< ref "/f43/language/fr.md" >}}) | 158 | 158 | 100.0 | /mnt/stockage/packages/f43/libvirt-glib/po/fr.po | 
- | [id]({{< ref "/f43/language/id.md" >}}) | 158 | 158 | 100.0 | /mnt/stockage/packages/f43/libvirt-glib/po/id.po | 
- | [it]({{< ref "/f43/language/it.md" >}}) | 158 | 158 | 100.0 | /mnt/stockage/packages/f43/libvirt-glib/po/it.po | 
- | [ka]({{< ref "/f43/language/ka.md" >}}) | 158 | 158 | 100.0 | /mnt/stockage/packages/f43/libvirt-glib/po/ka.po | 
- | [ko]({{< ref "/f43/language/ko.md" >}}) | 158 | 158 | 100.0 | /mnt/stockage/packages/f43/libvirt-glib/po/ko.po | 
- | [pl]({{< ref "/f43/language/pl.md" >}}) | 158 | 158 | 100.0 | /mnt/stockage/packages/f43/libvirt-glib/po/pl.po | 
- | [pt_BR]({{< ref "/f43/language/pt_BR.md" >}}) | 158 | 158 | 100.0 | /mnt/stockage/packages/f43/libvirt-glib/po/pt_BR.po | 
- | [ro]({{< ref "/f43/language/ro.md" >}}) | 158 | 158 | 100.0 | /mnt/stockage/packages/f43/libvirt-glib/po/ro.po | 
- | [ru]({{< ref "/f43/language/ru.md" >}}) | 158 | 158 | 100.0 | /mnt/stockage/packages/f43/libvirt-glib/po/ru.po | 
- | [sv]({{< ref "/f43/language/sv.md" >}}) | 158 | 158 | 100.0 | /mnt/stockage/packages/f43/libvirt-glib/po/sv.po | 
- | [tr]({{< ref "/f43/language/tr.md" >}}) | 158 | 158 | 100.0 | /mnt/stockage/packages/f43/libvirt-glib/po/tr.po | 
- | [uk]({{< ref "/f43/language/uk.md" >}}) | 158 | 158 | 100.0 | /mnt/stockage/packages/f43/libvirt-glib/po/uk.po | 
- | [ca]({{< ref "/f43/language/ca.md" >}}) | 153 | 158 | 96.8 | /mnt/stockage/packages/f43/libvirt-glib/po/ca.po | 
- | [en_GB]({{< ref "/f43/language/en_GB.md" >}}) | 129 | 158 | 81.6 | /mnt/stockage/packages/f43/libvirt-glib/po/en_GB.po | 
- | [hi]({{< ref "/f43/language/hi.md" >}}) | 129 | 158 | 81.6 | /mnt/stockage/packages/f43/libvirt-glib/po/hi.po | 
- | [ja]({{< ref "/f43/language/ja.md" >}}) | 129 | 158 | 81.6 | /mnt/stockage/packages/f43/libvirt-glib/po/ja.po | 
- | [nl]({{< ref "/f43/language/nl.md" >}}) | 17 | 158 | 10.8 | /mnt/stockage/packages/f43/libvirt-glib/po/nl.po | 
- | [si]({{< ref "/f43/language/si.md" >}}) | 0 | 158 | 0.0 | /mnt/stockage/packages/f43/libvirt-glib/po/si.po | 
+ | [cs](/f43/language/cs) | 158 | 158 | 100.0 | /mnt/stockage/packages/f43/libvirt-glib/po/cs.po | 
+ | [de](/f43/language/de) | 158 | 158 | 100.0 | /mnt/stockage/packages/f43/libvirt-glib/po/de.po | 
+ | [es](/f43/language/es) | 158 | 158 | 100.0 | /mnt/stockage/packages/f43/libvirt-glib/po/es.po | 
+ | [fi](/f43/language/fi) | 158 | 158 | 100.0 | /mnt/stockage/packages/f43/libvirt-glib/po/fi.po | 
+ | [fr](/f43/language/fr) | 158 | 158 | 100.0 | /mnt/stockage/packages/f43/libvirt-glib/po/fr.po | 
+ | [id](/f43/language/id) | 158 | 158 | 100.0 | /mnt/stockage/packages/f43/libvirt-glib/po/id.po | 
+ | [it](/f43/language/it) | 158 | 158 | 100.0 | /mnt/stockage/packages/f43/libvirt-glib/po/it.po | 
+ | [ka](/f43/language/ka) | 158 | 158 | 100.0 | /mnt/stockage/packages/f43/libvirt-glib/po/ka.po | 
+ | [ko](/f43/language/ko) | 158 | 158 | 100.0 | /mnt/stockage/packages/f43/libvirt-glib/po/ko.po | 
+ | [pl](/f43/language/pl) | 158 | 158 | 100.0 | /mnt/stockage/packages/f43/libvirt-glib/po/pl.po | 
+ | [pt_BR](/f43/language/pt_BR) | 158 | 158 | 100.0 | /mnt/stockage/packages/f43/libvirt-glib/po/pt_BR.po | 
+ | [ro](/f43/language/ro) | 158 | 158 | 100.0 | /mnt/stockage/packages/f43/libvirt-glib/po/ro.po | 
+ | [ru](/f43/language/ru) | 158 | 158 | 100.0 | /mnt/stockage/packages/f43/libvirt-glib/po/ru.po | 
+ | [sv](/f43/language/sv) | 158 | 158 | 100.0 | /mnt/stockage/packages/f43/libvirt-glib/po/sv.po | 
+ | [tr](/f43/language/tr) | 158 | 158 | 100.0 | /mnt/stockage/packages/f43/libvirt-glib/po/tr.po | 
+ | [uk](/f43/language/uk) | 158 | 158 | 100.0 | /mnt/stockage/packages/f43/libvirt-glib/po/uk.po | 
+ | [ca](/f43/language/ca) | 153 | 158 | 96.8 | /mnt/stockage/packages/f43/libvirt-glib/po/ca.po | 
+ | [en_GB](/f43/language/en_GB) | 129 | 158 | 81.6 | /mnt/stockage/packages/f43/libvirt-glib/po/en_GB.po | 
+ | [hi](/f43/language/hi) | 129 | 158 | 81.6 | /mnt/stockage/packages/f43/libvirt-glib/po/hi.po | 
+ | [ja](/f43/language/ja) | 129 | 158 | 81.6 | /mnt/stockage/packages/f43/libvirt-glib/po/ja.po | 
+ | [nl](/f43/language/nl) | 17 | 158 | 10.8 | /mnt/stockage/packages/f43/libvirt-glib/po/nl.po | 
+ | [si](/f43/language/si) | 0 | 158 | 0.0 | /mnt/stockage/packages/f43/libvirt-glib/po/si.po | 
 {.sortable}
 
 

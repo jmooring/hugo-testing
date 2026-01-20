@@ -18,38 +18,38 @@ The package gnome-user-share (version 0.11):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [bg]({{< ref "/f8/language/bg.md" >}}) | 70 | 70 | 100.0 | /mnt/stockage/packages/f8/gnome-user-share/po/bg.po | 
- | [ca]({{< ref "/f8/language/ca.md" >}}) | 75 | 75 | 100.0 | /mnt/stockage/packages/f8/gnome-user-share/po/ca.po | 
- | [cs]({{< ref "/f8/language/cs.md" >}}) | 75 | 75 | 100.0 | /mnt/stockage/packages/f8/gnome-user-share/po/cs.po | 
- | [de]({{< ref "/f8/language/de.md" >}}) | 61 | 61 | 100.0 | /mnt/stockage/packages/f8/gnome-user-share/po/de.po | 
- | [dz]({{< ref "/f8/language/dz.md" >}}) | 75 | 75 | 100.0 | /mnt/stockage/packages/f8/gnome-user-share/po/dz.po | 
- | [el]({{< ref "/f8/language/el.md" >}}) | 61 | 61 | 100.0 | /mnt/stockage/packages/f8/gnome-user-share/po/el.po | 
- | [en_CA]({{< ref "/f8/language/en_CA.md" >}}) | 70 | 70 | 100.0 | /mnt/stockage/packages/f8/gnome-user-share/po/en_CA.po | 
- | [en_GB]({{< ref "/f8/language/en_GB.md" >}}) | 75 | 75 | 100.0 | /mnt/stockage/packages/f8/gnome-user-share/po/en_GB.po | 
- | [fi]({{< ref "/f8/language/fi.md" >}}) | 75 | 75 | 100.0 | /mnt/stockage/packages/f8/gnome-user-share/po/fi.po | 
- | [fr]({{< ref "/f8/language/fr.md" >}}) | 75 | 75 | 100.0 | /mnt/stockage/packages/f8/gnome-user-share/po/fr.po | 
- | [gl]({{< ref "/f8/language/gl.md" >}}) | 75 | 75 | 100.0 | /mnt/stockage/packages/f8/gnome-user-share/po/gl.po | 
- | [gu]({{< ref "/f8/language/gu.md" >}}) | 75 | 75 | 100.0 | /mnt/stockage/packages/f8/gnome-user-share/po/gu.po | 
- | [ja]({{< ref "/f8/language/ja.md" >}}) | 70 | 70 | 100.0 | /mnt/stockage/packages/f8/gnome-user-share/po/ja.po | 
- | [lt]({{< ref "/f8/language/lt.md" >}}) | 61 | 61 | 100.0 | /mnt/stockage/packages/f8/gnome-user-share/po/lt.po | 
- | [nb_NO]({{< ref "/f8/language/nb_NO.md" >}}) | 75 | 75 | 100.0 | /mnt/stockage/packages/f8/gnome-user-share/po/nb.po | 
- | [ne]({{< ref "/f8/language/ne.md" >}}) | 75 | 75 | 100.0 | /mnt/stockage/packages/f8/gnome-user-share/po/ne.po | 
- | [nl]({{< ref "/f8/language/nl.md" >}}) | 75 | 75 | 100.0 | /mnt/stockage/packages/f8/gnome-user-share/po/nl.po | 
- | [pa]({{< ref "/f8/language/pa.md" >}}) | 75 | 75 | 100.0 | /mnt/stockage/packages/f8/gnome-user-share/po/pa.po | 
- | [ru]({{< ref "/f8/language/ru.md" >}}) | 75 | 75 | 100.0 | /mnt/stockage/packages/f8/gnome-user-share/po/ru.po | 
- | [sk]({{< ref "/f8/language/sk.md" >}}) | 70 | 70 | 100.0 | /mnt/stockage/packages/f8/gnome-user-share/po/sk.po | 
- | [sq]({{< ref "/f8/language/sq.md" >}}) | 61 | 61 | 100.0 | /mnt/stockage/packages/f8/gnome-user-share/po/sq.po | 
- | [sv]({{< ref "/f8/language/sv.md" >}}) | 75 | 75 | 100.0 | /mnt/stockage/packages/f8/gnome-user-share/po/sv.po | 
- | [uk]({{< ref "/f8/language/uk.md" >}}) | 61 | 61 | 100.0 | /mnt/stockage/packages/f8/gnome-user-share/po/uk.po | 
- | [vi]({{< ref "/f8/language/vi.md" >}}) | 75 | 75 | 100.0 | /mnt/stockage/packages/f8/gnome-user-share/po/vi.po | 
- | [zh_Hant]({{< ref "/f8/language/zh_Hant.md" >}}) | 61 | 61 | 100.0 | /mnt/stockage/packages/f8/gnome-user-share/po/zh_TW.po | 
- | [hu]({{< ref "/f8/language/hu.md" >}}) | 70 | 75 | 93.3 | /mnt/stockage/packages/f8/gnome-user-share/po/hu.po | 
- | [pt_BR]({{< ref "/f8/language/pt_BR.md" >}}) | 54 | 75 | 72.0 | /mnt/stockage/packages/f8/gnome-user-share/po/pt_BR.po | 
- | [da]({{< ref "/f8/language/da.md" >}}) | 28 | 61 | 45.9 | /mnt/stockage/packages/f8/gnome-user-share/po/da.po | 
- | [it]({{< ref "/f8/language/it.md" >}}) | 28 | 61 | 45.9 | /mnt/stockage/packages/f8/gnome-user-share/po/it.po | 
- | [ko]({{< ref "/f8/language/ko.md" >}}) | 28 | 61 | 45.9 | /mnt/stockage/packages/f8/gnome-user-share/po/ko.po | 
- | [rw]({{< ref "/f8/language/rw.md" >}}) | 2 | 61 | 3.3 | /mnt/stockage/packages/f8/gnome-user-share/po/rw.po | 
- | [ar]({{< ref "/f8/language/ar.md" >}}) | 0 | 75 | 0.0 | /mnt/stockage/packages/f8/gnome-user-share/po/ar.po | 
+ | [bg](/f8/language/bg) | 70 | 70 | 100.0 | /mnt/stockage/packages/f8/gnome-user-share/po/bg.po | 
+ | [ca](/f8/language/ca) | 75 | 75 | 100.0 | /mnt/stockage/packages/f8/gnome-user-share/po/ca.po | 
+ | [cs](/f8/language/cs) | 75 | 75 | 100.0 | /mnt/stockage/packages/f8/gnome-user-share/po/cs.po | 
+ | [de](/f8/language/de) | 61 | 61 | 100.0 | /mnt/stockage/packages/f8/gnome-user-share/po/de.po | 
+ | [dz](/f8/language/dz) | 75 | 75 | 100.0 | /mnt/stockage/packages/f8/gnome-user-share/po/dz.po | 
+ | [el](/f8/language/el) | 61 | 61 | 100.0 | /mnt/stockage/packages/f8/gnome-user-share/po/el.po | 
+ | [en_CA](/f8/language/en_CA) | 70 | 70 | 100.0 | /mnt/stockage/packages/f8/gnome-user-share/po/en_CA.po | 
+ | [en_GB](/f8/language/en_GB) | 75 | 75 | 100.0 | /mnt/stockage/packages/f8/gnome-user-share/po/en_GB.po | 
+ | [fi](/f8/language/fi) | 75 | 75 | 100.0 | /mnt/stockage/packages/f8/gnome-user-share/po/fi.po | 
+ | [fr](/f8/language/fr) | 75 | 75 | 100.0 | /mnt/stockage/packages/f8/gnome-user-share/po/fr.po | 
+ | [gl](/f8/language/gl) | 75 | 75 | 100.0 | /mnt/stockage/packages/f8/gnome-user-share/po/gl.po | 
+ | [gu](/f8/language/gu) | 75 | 75 | 100.0 | /mnt/stockage/packages/f8/gnome-user-share/po/gu.po | 
+ | [ja](/f8/language/ja) | 70 | 70 | 100.0 | /mnt/stockage/packages/f8/gnome-user-share/po/ja.po | 
+ | [lt](/f8/language/lt) | 61 | 61 | 100.0 | /mnt/stockage/packages/f8/gnome-user-share/po/lt.po | 
+ | [nb_NO](/f8/language/nb_NO) | 75 | 75 | 100.0 | /mnt/stockage/packages/f8/gnome-user-share/po/nb.po | 
+ | [ne](/f8/language/ne) | 75 | 75 | 100.0 | /mnt/stockage/packages/f8/gnome-user-share/po/ne.po | 
+ | [nl](/f8/language/nl) | 75 | 75 | 100.0 | /mnt/stockage/packages/f8/gnome-user-share/po/nl.po | 
+ | [pa](/f8/language/pa) | 75 | 75 | 100.0 | /mnt/stockage/packages/f8/gnome-user-share/po/pa.po | 
+ | [ru](/f8/language/ru) | 75 | 75 | 100.0 | /mnt/stockage/packages/f8/gnome-user-share/po/ru.po | 
+ | [sk](/f8/language/sk) | 70 | 70 | 100.0 | /mnt/stockage/packages/f8/gnome-user-share/po/sk.po | 
+ | [sq](/f8/language/sq) | 61 | 61 | 100.0 | /mnt/stockage/packages/f8/gnome-user-share/po/sq.po | 
+ | [sv](/f8/language/sv) | 75 | 75 | 100.0 | /mnt/stockage/packages/f8/gnome-user-share/po/sv.po | 
+ | [uk](/f8/language/uk) | 61 | 61 | 100.0 | /mnt/stockage/packages/f8/gnome-user-share/po/uk.po | 
+ | [vi](/f8/language/vi) | 75 | 75 | 100.0 | /mnt/stockage/packages/f8/gnome-user-share/po/vi.po | 
+ | [zh_Hant](/f8/language/zh_Hant) | 61 | 61 | 100.0 | /mnt/stockage/packages/f8/gnome-user-share/po/zh_TW.po | 
+ | [hu](/f8/language/hu) | 70 | 75 | 93.3 | /mnt/stockage/packages/f8/gnome-user-share/po/hu.po | 
+ | [pt_BR](/f8/language/pt_BR) | 54 | 75 | 72.0 | /mnt/stockage/packages/f8/gnome-user-share/po/pt_BR.po | 
+ | [da](/f8/language/da) | 28 | 61 | 45.9 | /mnt/stockage/packages/f8/gnome-user-share/po/da.po | 
+ | [it](/f8/language/it) | 28 | 61 | 45.9 | /mnt/stockage/packages/f8/gnome-user-share/po/it.po | 
+ | [ko](/f8/language/ko) | 28 | 61 | 45.9 | /mnt/stockage/packages/f8/gnome-user-share/po/ko.po | 
+ | [rw](/f8/language/rw) | 2 | 61 | 3.3 | /mnt/stockage/packages/f8/gnome-user-share/po/rw.po | 
+ | [ar](/f8/language/ar) | 0 | 75 | 0.0 | /mnt/stockage/packages/f8/gnome-user-share/po/ar.po | 
 {.sortable}
 
 

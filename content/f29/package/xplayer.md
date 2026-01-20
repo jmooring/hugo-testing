@@ -18,103 +18,103 @@ The package xplayer (version 2.0.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f29/language/ca.md" >}}) | 6447 | 6447 | 100.0 | /mnt/stockage/packages/f29/xplayer/help/ca/ca.po/mnt/stockage/packages/f29/xplayer/po/ca.po | 
- | [cs]({{< ref "/f29/language/cs.md" >}}) | 6553 | 6553 | 100.0 | /mnt/stockage/packages/f29/xplayer/help/cs/cs.po/mnt/stockage/packages/f29/xplayer/po/cs.po | 
- | [da]({{< ref "/f29/language/da.md" >}}) | 6447 | 6447 | 100.0 | /mnt/stockage/packages/f29/xplayer/help/da/da.po/mnt/stockage/packages/f29/xplayer/po/da.po | 
- | [de]({{< ref "/f29/language/de.md" >}}) | 6553 | 6553 | 100.0 | /mnt/stockage/packages/f29/xplayer/help/de/de.po/mnt/stockage/packages/f29/xplayer/po/de.po | 
- | [en_GB]({{< ref "/f29/language/en_GB.md" >}}) | 6390 | 6390 | 100.0 | /mnt/stockage/packages/f29/xplayer/help/en_GB/en_GB.po/mnt/stockage/packages/f29/xplayer/po/en_GB.po | 
- | [es]({{< ref "/f29/language/es.md" >}}) | 6553 | 6553 | 100.0 | /mnt/stockage/packages/f29/xplayer/help/es/es.po/mnt/stockage/packages/f29/xplayer/po/es.po | 
- | [et]({{< ref "/f29/language/et.md" >}}) | 1952 | 1952 | 100.0 | /mnt/stockage/packages/f29/xplayer/po/et.po | 
- | [eu]({{< ref "/f29/language/eu.md" >}}) | 4503 | 4503 | 100.0 | /mnt/stockage/packages/f29/xplayer/help/eu/eu.po/mnt/stockage/packages/f29/xplayer/po/eu.po | 
- | [fr]({{< ref "/f29/language/fr.md" >}}) | 6447 | 6447 | 100.0 | /mnt/stockage/packages/f29/xplayer/help/fr/fr.po/mnt/stockage/packages/f29/xplayer/po/fr.po | 
- | [hu]({{< ref "/f29/language/hu.md" >}}) | 1952 | 1952 | 100.0 | /mnt/stockage/packages/f29/xplayer/po/hu.po | 
- | [ia]({{< ref "/f29/language/ia.md" >}}) | 1952 | 1952 | 100.0 | /mnt/stockage/packages/f29/xplayer/po/ia.po | 
- | [is]({{< ref "/f29/language/is.md" >}}) | 1952 | 1952 | 100.0 | /mnt/stockage/packages/f29/xplayer/po/is.po | 
- | [ko]({{< ref "/f29/language/ko.md" >}}) | 1952 | 1952 | 100.0 | /mnt/stockage/packages/f29/xplayer/po/ko.po | 
- | [lt]({{< ref "/f29/language/lt.md" >}}) | 1952 | 1952 | 100.0 | /mnt/stockage/packages/f29/xplayer/po/lt.po | 
- | [nl]({{< ref "/f29/language/nl.md" >}}) | 1952 | 1952 | 100.0 | /mnt/stockage/packages/f29/xplayer/po/nl.po | 
- | [pl]({{< ref "/f29/language/pl.md" >}}) | 6447 | 6447 | 100.0 | /mnt/stockage/packages/f29/xplayer/help/pl/pl.po/mnt/stockage/packages/f29/xplayer/po/pl.po | 
- | [pt]({{< ref "/f29/language/pt.md" >}}) | 1952 | 1952 | 100.0 | /mnt/stockage/packages/f29/xplayer/po/pt.po | 
- | [pt_BR]({{< ref "/f29/language/pt_BR.md" >}}) | 6553 | 6553 | 100.0 | /mnt/stockage/packages/f29/xplayer/help/pt_BR/pt_BR.po/mnt/stockage/packages/f29/xplayer/po/pt_BR.po | 
- | [ru]({{< ref "/f29/language/ru.md" >}}) | 6447 | 6447 | 100.0 | /mnt/stockage/packages/f29/xplayer/help/ru/ru.po/mnt/stockage/packages/f29/xplayer/po/ru.po | 
- | [sk]({{< ref "/f29/language/sk.md" >}}) | 1952 | 1952 | 100.0 | /mnt/stockage/packages/f29/xplayer/po/sk.po | 
- | [tr]({{< ref "/f29/language/tr.md" >}}) | 1952 | 1952 | 100.0 | /mnt/stockage/packages/f29/xplayer/po/tr.po | 
- | [uk]({{< ref "/f29/language/uk.md" >}}) | 6447 | 6447 | 100.0 | /mnt/stockage/packages/f29/xplayer/help/uk/uk.po/mnt/stockage/packages/f29/xplayer/po/uk.po | 
- | [zh_Hans]({{< ref "/f29/language/zh_Hans.md" >}}) | 6447 | 6447 | 100.0 | /mnt/stockage/packages/f29/xplayer/help/zh_CN/zh_CN.po/mnt/stockage/packages/f29/xplayer/po/zh_CN.po | 
- | [fi]({{< ref "/f29/language/fi.md" >}}) | 6434 | 6442 | 99.9 | /mnt/stockage/packages/f29/xplayer/help/fi/fi.po/mnt/stockage/packages/f29/xplayer/po/fi.po | 
- | [el]({{< ref "/f29/language/el.md" >}}) | 6544 | 6553 | 99.9 | /mnt/stockage/packages/f29/xplayer/help/el/el.po/mnt/stockage/packages/f29/xplayer/po/el.po | 
- | [sr]({{< ref "/f29/language/sr.md" >}}) | 3895 | 3904 | 99.8 | /mnt/stockage/packages/f29/xplayer/po/sr@latin.po/mnt/stockage/packages/f29/xplayer/po/sr.po | 
- | [ro]({{< ref "/f29/language/ro.md" >}}) | 6423 | 6447 | 99.6 | /mnt/stockage/packages/f29/xplayer/help/ro/ro.po/mnt/stockage/packages/f29/xplayer/po/ro.po | 
- | [hr]({{< ref "/f29/language/hr.md" >}}) | 5140 | 5160 | 99.6 | /mnt/stockage/packages/f29/xplayer/help/hr/hr.po/mnt/stockage/packages/f29/xplayer/po/hr.po | 
- | [am]({{< ref "/f29/language/am.md" >}}) | 1943 | 1952 | 99.5 | /mnt/stockage/packages/f29/xplayer/po/am.po | 
- | [ar_EG]({{< ref "/f29/language/ar_EG.md" >}}) | 1943 | 1952 | 99.5 | /mnt/stockage/packages/f29/xplayer/po/ar.po | 
- | [he]({{< ref "/f29/language/he.md" >}}) | 1943 | 1952 | 99.5 | /mnt/stockage/packages/f29/xplayer/po/he.po | 
- | [id]({{< ref "/f29/language/id.md" >}}) | 1943 | 1952 | 99.5 | /mnt/stockage/packages/f29/xplayer/po/id.po | 
- | [nb_NO]({{< ref "/f29/language/nb_NO.md" >}}) | 1943 | 1952 | 99.5 | /mnt/stockage/packages/f29/xplayer/po/nb.po | 
- | [th]({{< ref "/f29/language/th.md" >}}) | 1943 | 1952 | 99.5 | /mnt/stockage/packages/f29/xplayer/po/th.po | 
- | [gl]({{< ref "/f29/language/gl.md" >}}) | 6410 | 6447 | 99.4 | /mnt/stockage/packages/f29/xplayer/help/gl/gl.po/mnt/stockage/packages/f29/xplayer/po/gl.po | 
- | [be]({{< ref "/f29/language/be.md" >}}) | 1923 | 1952 | 98.5 | /mnt/stockage/packages/f29/xplayer/po/be.po | 
- | [hi]({{< ref "/f29/language/hi.md" >}}) | 1923 | 1952 | 98.5 | /mnt/stockage/packages/f29/xplayer/po/hi.po | 
- | [mr]({{< ref "/f29/language/mr.md" >}}) | 1923 | 1952 | 98.5 | /mnt/stockage/packages/f29/xplayer/po/mr.po | 
- | [vi]({{< ref "/f29/language/vi.md" >}}) | 1923 | 1952 | 98.5 | /mnt/stockage/packages/f29/xplayer/po/vi.po | 
- | [en_US]({{< ref "/f29/language/en_US.md" >}}) | 1920 | 1952 | 98.4 | /mnt/stockage/packages/f29/xplayer/po/ta.po | 
- | [gu]({{< ref "/f29/language/gu.md" >}}) | 1915 | 1952 | 98.1 | /mnt/stockage/packages/f29/xplayer/po/gu.po | 
- | [lv]({{< ref "/f29/language/lv.md" >}}) | 1915 | 1952 | 98.1 | /mnt/stockage/packages/f29/xplayer/po/lv.po | 
- | [or]({{< ref "/f29/language/or.md" >}}) | 1915 | 1952 | 98.1 | /mnt/stockage/packages/f29/xplayer/po/or.po | 
- | [kn]({{< ref "/f29/language/kn.md" >}}) | 1914 | 1952 | 98.1 | /mnt/stockage/packages/f29/xplayer/po/kn.po | 
- | [as]({{< ref "/f29/language/as.md" >}}) | 1912 | 1952 | 98.0 | /mnt/stockage/packages/f29/xplayer/po/as.po | 
- | [ca@valencia]({{< ref "/f29/language/ca@valencia.md" >}}) | 1909 | 1952 | 97.8 | /mnt/stockage/packages/f29/xplayer/po/ca@valencia.po | 
- | [crh]({{< ref "/f29/language/crh.md" >}}) | 1907 | 1952 | 97.7 | /mnt/stockage/packages/f29/xplayer/po/crh.po | 
- | [fa]({{< ref "/f29/language/fa.md" >}}) | 1907 | 1952 | 97.7 | /mnt/stockage/packages/f29/xplayer/po/fa.po | 
- | [ml]({{< ref "/f29/language/ml.md" >}}) | 1907 | 1952 | 97.7 | /mnt/stockage/packages/f29/xplayer/po/ml.po | 
- | [ug]({{< ref "/f29/language/ug.md" >}}) | 1907 | 1952 | 97.7 | /mnt/stockage/packages/f29/xplayer/po/ug.po | 
- | [km]({{< ref "/f29/language/km.md" >}}) | 1849 | 1952 | 94.7 | /mnt/stockage/packages/f29/xplayer/po/km.po | 
- | [zh_Hant]({{< ref "/f29/language/zh_Hant.md" >}}) | 5800 | 6455 | 89.9 | /mnt/stockage/packages/f29/xplayer/help/zh_TW/zh_TW.po/mnt/stockage/packages/f29/xplayer/po/zh_TW.po/mnt/stockage/packages/f29/xplayer/po/zh_HK.po | 
- | [kab]({{< ref "/f29/language/kab.md" >}}) | 1662 | 1952 | 85.1 | /mnt/stockage/packages/f29/xplayer/po/kab.po | 
- | [mk]({{< ref "/f29/language/mk.md" >}}) | 1656 | 1952 | 84.8 | /mnt/stockage/packages/f29/xplayer/po/mk.po | 
- | [it]({{< ref "/f29/language/it.md" >}}) | 5435 | 6442 | 84.4 | /mnt/stockage/packages/f29/xplayer/help/it/it.po/mnt/stockage/packages/f29/xplayer/po/it.po | 
- | [sv]({{< ref "/f29/language/sv.md" >}}) | 5276 | 6393 | 82.5 | /mnt/stockage/packages/f29/xplayer/help/sv/sv.po/mnt/stockage/packages/f29/xplayer/po/sv.po | 
- | [ast]({{< ref "/f29/language/ast.md" >}}) | 1605 | 1952 | 82.2 | /mnt/stockage/packages/f29/xplayer/po/ast.po | 
- | [en_CA]({{< ref "/f29/language/en_CA.md" >}}) | 1605 | 1952 | 82.2 | /mnt/stockage/packages/f29/xplayer/po/en_CA.po | 
- | [eo]({{< ref "/f29/language/eo.md" >}}) | 1605 | 1952 | 82.2 | /mnt/stockage/packages/f29/xplayer/po/eo.po | 
- | [zh_Hant_HK]({{< ref "/f29/language/zh_Hant_HK.md" >}}) | 1914 | 2551 | 75.0 | /mnt/stockage/packages/f29/xplayer/help/zh_HK/zh_HK.po | 
- | [ur]({{< ref "/f29/language/ur.md" >}}) | 1408 | 1952 | 72.1 | /mnt/stockage/packages/f29/xplayer/po/ur.po | 
- | [zu]({{< ref "/f29/language/zu.md" >}}) | 1276 | 1952 | 65.4 | /mnt/stockage/packages/f29/xplayer/po/zu.po | 
- | [pa]({{< ref "/f29/language/pa.md" >}}) | 2801 | 4290 | 65.3 | /mnt/stockage/packages/f29/xplayer/help/pa/pa.po/mnt/stockage/packages/f29/xplayer/po/pa.po | 
- | [nn]({{< ref "/f29/language/nn.md" >}}) | 1244 | 1952 | 63.7 | /mnt/stockage/packages/f29/xplayer/po/nn.po | 
- | [af]({{< ref "/f29/language/af.md" >}}) | 1234 | 1952 | 63.2 | /mnt/stockage/packages/f29/xplayer/po/af.po | 
- | [bn]({{< ref "/f29/language/bn.md" >}}) | 1206 | 1952 | 61.8 | /mnt/stockage/packages/f29/xplayer/po/bn.po | 
- | [bn_IN]({{< ref "/f29/language/bn_IN.md" >}}) | 1142 | 1952 | 58.5 | /mnt/stockage/packages/f29/xplayer/po/bn_IN.po | 
- | [be_Latn]({{< ref "/f29/language/be_Latn.md" >}}) | 1067 | 1952 | 54.7 | /mnt/stockage/packages/f29/xplayer/po/be@latin.po | 
- | [gv]({{< ref "/f29/language/gv.md" >}}) | 1005 | 1952 | 51.5 | /mnt/stockage/packages/f29/xplayer/po/gv.po | 
- | [sq]({{< ref "/f29/language/sq.md" >}}) | 994 | 1952 | 50.9 | /mnt/stockage/packages/f29/xplayer/po/sq.po | 
- | [ja]({{< ref "/f29/language/ja.md" >}}) | 3081 | 6447 | 47.8 | /mnt/stockage/packages/f29/xplayer/help/ja/ja.po/mnt/stockage/packages/f29/xplayer/po/ja.po | 
- | [error]({{< ref "/f29/language/error.md" >}}) | 906 | 1952 | 46.4 | /mnt/stockage/packages/f29/xplayer/po/en@shaw.po | 
- | [oc]({{< ref "/f29/language/oc.md" >}}) | 1855 | 4503 | 41.2 | /mnt/stockage/packages/f29/xplayer/help/oc/oc.po/mnt/stockage/packages/f29/xplayer/po/oc.po | 
- | [ne]({{< ref "/f29/language/ne.md" >}}) | 723 | 1952 | 37.0 | /mnt/stockage/packages/f29/xplayer/po/ne.po | 
- | [dz]({{< ref "/f29/language/dz.md" >}}) | 687 | 1952 | 35.2 | /mnt/stockage/packages/f29/xplayer/po/dz.po | 
- | [ga]({{< ref "/f29/language/ga.md" >}}) | 676 | 1952 | 34.6 | /mnt/stockage/packages/f29/xplayer/po/ga.po | 
- | [br]({{< ref "/f29/language/br.md" >}}) | 673 | 1952 | 34.5 | /mnt/stockage/packages/f29/xplayer/po/br.po | 
- | [sl]({{< ref "/f29/language/sl.md" >}}) | 1969 | 6447 | 30.5 | /mnt/stockage/packages/f29/xplayer/help/sl/sl.po/mnt/stockage/packages/f29/xplayer/po/sl.po | 
- | [te]({{< ref "/f29/language/te.md" >}}) | 1953 | 6447 | 30.3 | /mnt/stockage/packages/f29/xplayer/help/te/te.po/mnt/stockage/packages/f29/xplayer/po/te.po | 
- | [bg]({{< ref "/f29/language/bg.md" >}}) | 1952 | 6447 | 30.3 | /mnt/stockage/packages/f29/xplayer/help/bg/bg.po/mnt/stockage/packages/f29/xplayer/po/bg.po | 
- | [mai]({{< ref "/f29/language/mai.md" >}}) | 578 | 1952 | 29.6 | /mnt/stockage/packages/f29/xplayer/po/mai.po | 
- | [ku]({{< ref "/f29/language/ku.md" >}}) | 550 | 1952 | 28.2 | /mnt/stockage/packages/f29/xplayer/po/ku.po | 
- | [kk]({{< ref "/f29/language/kk.md" >}}) | 476 | 1952 | 24.4 | /mnt/stockage/packages/f29/xplayer/po/kk.po | 
- | [si]({{< ref "/f29/language/si.md" >}}) | 469 | 1952 | 24.0 | /mnt/stockage/packages/f29/xplayer/po/si.po | 
- | [ka]({{< ref "/f29/language/ka.md" >}}) | 466 | 1952 | 23.9 | /mnt/stockage/packages/f29/xplayer/po/ka.po | 
- | [cy]({{< ref "/f29/language/cy.md" >}}) | 453 | 1952 | 23.2 | /mnt/stockage/packages/f29/xplayer/po/cy.po | 
- | [mg]({{< ref "/f29/language/mg.md" >}}) | 425 | 1952 | 21.8 | /mnt/stockage/packages/f29/xplayer/po/mg.po | 
- | [ms]({{< ref "/f29/language/ms.md" >}}) | 364 | 1952 | 18.6 | /mnt/stockage/packages/f29/xplayer/po/ms.po | 
- | [xh]({{< ref "/f29/language/xh.md" >}}) | 344 | 1952 | 17.6 | /mnt/stockage/packages/f29/xplayer/po/xh.po | 
- | [my]({{< ref "/f29/language/my.md" >}}) | 338 | 1952 | 17.3 | /mnt/stockage/packages/f29/xplayer/po/my.po | 
- | [az]({{< ref "/f29/language/az.md" >}}) | 331 | 1952 | 17.0 | /mnt/stockage/packages/f29/xplayer/po/az.po | 
- | [ky]({{< ref "/f29/language/ky.md" >}}) | 232 | 1952 | 11.9 | /mnt/stockage/packages/f29/xplayer/po/ky.po | 
- | [wa]({{< ref "/f29/language/wa.md" >}}) | 120 | 1952 | 6.1 | /mnt/stockage/packages/f29/xplayer/po/wa.po | 
- | [bs]({{< ref "/f29/language/bs.md" >}}) | 39 | 1952 | 2.0 | /mnt/stockage/packages/f29/xplayer/po/bs.po | 
- | [rw]({{< ref "/f29/language/rw.md" >}}) | 19 | 1952 | 1.0 | /mnt/stockage/packages/f29/xplayer/po/rw.po | 
- | [la]({{< ref "/f29/language/la.md" >}}) | 10 | 1952 | 0.5 | /mnt/stockage/packages/f29/xplayer/po/la.po | 
- | [tg]({{< ref "/f29/language/tg.md" >}}) | 0 | 1952 | 0.0 | /mnt/stockage/packages/f29/xplayer/po/tg.po | 
+ | [ca](/f29/language/ca) | 6447 | 6447 | 100.0 | /mnt/stockage/packages/f29/xplayer/help/ca/ca.po/mnt/stockage/packages/f29/xplayer/po/ca.po | 
+ | [cs](/f29/language/cs) | 6553 | 6553 | 100.0 | /mnt/stockage/packages/f29/xplayer/help/cs/cs.po/mnt/stockage/packages/f29/xplayer/po/cs.po | 
+ | [da](/f29/language/da) | 6447 | 6447 | 100.0 | /mnt/stockage/packages/f29/xplayer/help/da/da.po/mnt/stockage/packages/f29/xplayer/po/da.po | 
+ | [de](/f29/language/de) | 6553 | 6553 | 100.0 | /mnt/stockage/packages/f29/xplayer/help/de/de.po/mnt/stockage/packages/f29/xplayer/po/de.po | 
+ | [en_GB](/f29/language/en_GB) | 6390 | 6390 | 100.0 | /mnt/stockage/packages/f29/xplayer/help/en_GB/en_GB.po/mnt/stockage/packages/f29/xplayer/po/en_GB.po | 
+ | [es](/f29/language/es) | 6553 | 6553 | 100.0 | /mnt/stockage/packages/f29/xplayer/help/es/es.po/mnt/stockage/packages/f29/xplayer/po/es.po | 
+ | [et](/f29/language/et) | 1952 | 1952 | 100.0 | /mnt/stockage/packages/f29/xplayer/po/et.po | 
+ | [eu](/f29/language/eu) | 4503 | 4503 | 100.0 | /mnt/stockage/packages/f29/xplayer/help/eu/eu.po/mnt/stockage/packages/f29/xplayer/po/eu.po | 
+ | [fr](/f29/language/fr) | 6447 | 6447 | 100.0 | /mnt/stockage/packages/f29/xplayer/help/fr/fr.po/mnt/stockage/packages/f29/xplayer/po/fr.po | 
+ | [hu](/f29/language/hu) | 1952 | 1952 | 100.0 | /mnt/stockage/packages/f29/xplayer/po/hu.po | 
+ | [ia](/f29/language/ia) | 1952 | 1952 | 100.0 | /mnt/stockage/packages/f29/xplayer/po/ia.po | 
+ | [is](/f29/language/is) | 1952 | 1952 | 100.0 | /mnt/stockage/packages/f29/xplayer/po/is.po | 
+ | [ko](/f29/language/ko) | 1952 | 1952 | 100.0 | /mnt/stockage/packages/f29/xplayer/po/ko.po | 
+ | [lt](/f29/language/lt) | 1952 | 1952 | 100.0 | /mnt/stockage/packages/f29/xplayer/po/lt.po | 
+ | [nl](/f29/language/nl) | 1952 | 1952 | 100.0 | /mnt/stockage/packages/f29/xplayer/po/nl.po | 
+ | [pl](/f29/language/pl) | 6447 | 6447 | 100.0 | /mnt/stockage/packages/f29/xplayer/help/pl/pl.po/mnt/stockage/packages/f29/xplayer/po/pl.po | 
+ | [pt](/f29/language/pt) | 1952 | 1952 | 100.0 | /mnt/stockage/packages/f29/xplayer/po/pt.po | 
+ | [pt_BR](/f29/language/pt_BR) | 6553 | 6553 | 100.0 | /mnt/stockage/packages/f29/xplayer/help/pt_BR/pt_BR.po/mnt/stockage/packages/f29/xplayer/po/pt_BR.po | 
+ | [ru](/f29/language/ru) | 6447 | 6447 | 100.0 | /mnt/stockage/packages/f29/xplayer/help/ru/ru.po/mnt/stockage/packages/f29/xplayer/po/ru.po | 
+ | [sk](/f29/language/sk) | 1952 | 1952 | 100.0 | /mnt/stockage/packages/f29/xplayer/po/sk.po | 
+ | [tr](/f29/language/tr) | 1952 | 1952 | 100.0 | /mnt/stockage/packages/f29/xplayer/po/tr.po | 
+ | [uk](/f29/language/uk) | 6447 | 6447 | 100.0 | /mnt/stockage/packages/f29/xplayer/help/uk/uk.po/mnt/stockage/packages/f29/xplayer/po/uk.po | 
+ | [zh_Hans](/f29/language/zh_Hans) | 6447 | 6447 | 100.0 | /mnt/stockage/packages/f29/xplayer/help/zh_CN/zh_CN.po/mnt/stockage/packages/f29/xplayer/po/zh_CN.po | 
+ | [fi](/f29/language/fi) | 6434 | 6442 | 99.9 | /mnt/stockage/packages/f29/xplayer/help/fi/fi.po/mnt/stockage/packages/f29/xplayer/po/fi.po | 
+ | [el](/f29/language/el) | 6544 | 6553 | 99.9 | /mnt/stockage/packages/f29/xplayer/help/el/el.po/mnt/stockage/packages/f29/xplayer/po/el.po | 
+ | [sr](/f29/language/sr) | 3895 | 3904 | 99.8 | /mnt/stockage/packages/f29/xplayer/po/sr@latin.po/mnt/stockage/packages/f29/xplayer/po/sr.po | 
+ | [ro](/f29/language/ro) | 6423 | 6447 | 99.6 | /mnt/stockage/packages/f29/xplayer/help/ro/ro.po/mnt/stockage/packages/f29/xplayer/po/ro.po | 
+ | [hr](/f29/language/hr) | 5140 | 5160 | 99.6 | /mnt/stockage/packages/f29/xplayer/help/hr/hr.po/mnt/stockage/packages/f29/xplayer/po/hr.po | 
+ | [am](/f29/language/am) | 1943 | 1952 | 99.5 | /mnt/stockage/packages/f29/xplayer/po/am.po | 
+ | [ar_EG](/f29/language/ar_EG) | 1943 | 1952 | 99.5 | /mnt/stockage/packages/f29/xplayer/po/ar.po | 
+ | [he](/f29/language/he) | 1943 | 1952 | 99.5 | /mnt/stockage/packages/f29/xplayer/po/he.po | 
+ | [id](/f29/language/id) | 1943 | 1952 | 99.5 | /mnt/stockage/packages/f29/xplayer/po/id.po | 
+ | [nb_NO](/f29/language/nb_NO) | 1943 | 1952 | 99.5 | /mnt/stockage/packages/f29/xplayer/po/nb.po | 
+ | [th](/f29/language/th) | 1943 | 1952 | 99.5 | /mnt/stockage/packages/f29/xplayer/po/th.po | 
+ | [gl](/f29/language/gl) | 6410 | 6447 | 99.4 | /mnt/stockage/packages/f29/xplayer/help/gl/gl.po/mnt/stockage/packages/f29/xplayer/po/gl.po | 
+ | [be](/f29/language/be) | 1923 | 1952 | 98.5 | /mnt/stockage/packages/f29/xplayer/po/be.po | 
+ | [hi](/f29/language/hi) | 1923 | 1952 | 98.5 | /mnt/stockage/packages/f29/xplayer/po/hi.po | 
+ | [mr](/f29/language/mr) | 1923 | 1952 | 98.5 | /mnt/stockage/packages/f29/xplayer/po/mr.po | 
+ | [vi](/f29/language/vi) | 1923 | 1952 | 98.5 | /mnt/stockage/packages/f29/xplayer/po/vi.po | 
+ | [en_US](/f29/language/en_US) | 1920 | 1952 | 98.4 | /mnt/stockage/packages/f29/xplayer/po/ta.po | 
+ | [gu](/f29/language/gu) | 1915 | 1952 | 98.1 | /mnt/stockage/packages/f29/xplayer/po/gu.po | 
+ | [lv](/f29/language/lv) | 1915 | 1952 | 98.1 | /mnt/stockage/packages/f29/xplayer/po/lv.po | 
+ | [or](/f29/language/or) | 1915 | 1952 | 98.1 | /mnt/stockage/packages/f29/xplayer/po/or.po | 
+ | [kn](/f29/language/kn) | 1914 | 1952 | 98.1 | /mnt/stockage/packages/f29/xplayer/po/kn.po | 
+ | [as](/f29/language/as) | 1912 | 1952 | 98.0 | /mnt/stockage/packages/f29/xplayer/po/as.po | 
+ | [ca@valencia](/f29/language/ca@valencia) | 1909 | 1952 | 97.8 | /mnt/stockage/packages/f29/xplayer/po/ca@valencia.po | 
+ | [crh](/f29/language/crh) | 1907 | 1952 | 97.7 | /mnt/stockage/packages/f29/xplayer/po/crh.po | 
+ | [fa](/f29/language/fa) | 1907 | 1952 | 97.7 | /mnt/stockage/packages/f29/xplayer/po/fa.po | 
+ | [ml](/f29/language/ml) | 1907 | 1952 | 97.7 | /mnt/stockage/packages/f29/xplayer/po/ml.po | 
+ | [ug](/f29/language/ug) | 1907 | 1952 | 97.7 | /mnt/stockage/packages/f29/xplayer/po/ug.po | 
+ | [km](/f29/language/km) | 1849 | 1952 | 94.7 | /mnt/stockage/packages/f29/xplayer/po/km.po | 
+ | [zh_Hant](/f29/language/zh_Hant) | 5800 | 6455 | 89.9 | /mnt/stockage/packages/f29/xplayer/help/zh_TW/zh_TW.po/mnt/stockage/packages/f29/xplayer/po/zh_TW.po/mnt/stockage/packages/f29/xplayer/po/zh_HK.po | 
+ | [kab](/f29/language/kab) | 1662 | 1952 | 85.1 | /mnt/stockage/packages/f29/xplayer/po/kab.po | 
+ | [mk](/f29/language/mk) | 1656 | 1952 | 84.8 | /mnt/stockage/packages/f29/xplayer/po/mk.po | 
+ | [it](/f29/language/it) | 5435 | 6442 | 84.4 | /mnt/stockage/packages/f29/xplayer/help/it/it.po/mnt/stockage/packages/f29/xplayer/po/it.po | 
+ | [sv](/f29/language/sv) | 5276 | 6393 | 82.5 | /mnt/stockage/packages/f29/xplayer/help/sv/sv.po/mnt/stockage/packages/f29/xplayer/po/sv.po | 
+ | [ast](/f29/language/ast) | 1605 | 1952 | 82.2 | /mnt/stockage/packages/f29/xplayer/po/ast.po | 
+ | [en_CA](/f29/language/en_CA) | 1605 | 1952 | 82.2 | /mnt/stockage/packages/f29/xplayer/po/en_CA.po | 
+ | [eo](/f29/language/eo) | 1605 | 1952 | 82.2 | /mnt/stockage/packages/f29/xplayer/po/eo.po | 
+ | [zh_Hant_HK](/f29/language/zh_Hant_HK) | 1914 | 2551 | 75.0 | /mnt/stockage/packages/f29/xplayer/help/zh_HK/zh_HK.po | 
+ | [ur](/f29/language/ur) | 1408 | 1952 | 72.1 | /mnt/stockage/packages/f29/xplayer/po/ur.po | 
+ | [zu](/f29/language/zu) | 1276 | 1952 | 65.4 | /mnt/stockage/packages/f29/xplayer/po/zu.po | 
+ | [pa](/f29/language/pa) | 2801 | 4290 | 65.3 | /mnt/stockage/packages/f29/xplayer/help/pa/pa.po/mnt/stockage/packages/f29/xplayer/po/pa.po | 
+ | [nn](/f29/language/nn) | 1244 | 1952 | 63.7 | /mnt/stockage/packages/f29/xplayer/po/nn.po | 
+ | [af](/f29/language/af) | 1234 | 1952 | 63.2 | /mnt/stockage/packages/f29/xplayer/po/af.po | 
+ | [bn](/f29/language/bn) | 1206 | 1952 | 61.8 | /mnt/stockage/packages/f29/xplayer/po/bn.po | 
+ | [bn_IN](/f29/language/bn_IN) | 1142 | 1952 | 58.5 | /mnt/stockage/packages/f29/xplayer/po/bn_IN.po | 
+ | [be_Latn](/f29/language/be_Latn) | 1067 | 1952 | 54.7 | /mnt/stockage/packages/f29/xplayer/po/be@latin.po | 
+ | [gv](/f29/language/gv) | 1005 | 1952 | 51.5 | /mnt/stockage/packages/f29/xplayer/po/gv.po | 
+ | [sq](/f29/language/sq) | 994 | 1952 | 50.9 | /mnt/stockage/packages/f29/xplayer/po/sq.po | 
+ | [ja](/f29/language/ja) | 3081 | 6447 | 47.8 | /mnt/stockage/packages/f29/xplayer/help/ja/ja.po/mnt/stockage/packages/f29/xplayer/po/ja.po | 
+ | [error](/f29/language/error) | 906 | 1952 | 46.4 | /mnt/stockage/packages/f29/xplayer/po/en@shaw.po | 
+ | [oc](/f29/language/oc) | 1855 | 4503 | 41.2 | /mnt/stockage/packages/f29/xplayer/help/oc/oc.po/mnt/stockage/packages/f29/xplayer/po/oc.po | 
+ | [ne](/f29/language/ne) | 723 | 1952 | 37.0 | /mnt/stockage/packages/f29/xplayer/po/ne.po | 
+ | [dz](/f29/language/dz) | 687 | 1952 | 35.2 | /mnt/stockage/packages/f29/xplayer/po/dz.po | 
+ | [ga](/f29/language/ga) | 676 | 1952 | 34.6 | /mnt/stockage/packages/f29/xplayer/po/ga.po | 
+ | [br](/f29/language/br) | 673 | 1952 | 34.5 | /mnt/stockage/packages/f29/xplayer/po/br.po | 
+ | [sl](/f29/language/sl) | 1969 | 6447 | 30.5 | /mnt/stockage/packages/f29/xplayer/help/sl/sl.po/mnt/stockage/packages/f29/xplayer/po/sl.po | 
+ | [te](/f29/language/te) | 1953 | 6447 | 30.3 | /mnt/stockage/packages/f29/xplayer/help/te/te.po/mnt/stockage/packages/f29/xplayer/po/te.po | 
+ | [bg](/f29/language/bg) | 1952 | 6447 | 30.3 | /mnt/stockage/packages/f29/xplayer/help/bg/bg.po/mnt/stockage/packages/f29/xplayer/po/bg.po | 
+ | [mai](/f29/language/mai) | 578 | 1952 | 29.6 | /mnt/stockage/packages/f29/xplayer/po/mai.po | 
+ | [ku](/f29/language/ku) | 550 | 1952 | 28.2 | /mnt/stockage/packages/f29/xplayer/po/ku.po | 
+ | [kk](/f29/language/kk) | 476 | 1952 | 24.4 | /mnt/stockage/packages/f29/xplayer/po/kk.po | 
+ | [si](/f29/language/si) | 469 | 1952 | 24.0 | /mnt/stockage/packages/f29/xplayer/po/si.po | 
+ | [ka](/f29/language/ka) | 466 | 1952 | 23.9 | /mnt/stockage/packages/f29/xplayer/po/ka.po | 
+ | [cy](/f29/language/cy) | 453 | 1952 | 23.2 | /mnt/stockage/packages/f29/xplayer/po/cy.po | 
+ | [mg](/f29/language/mg) | 425 | 1952 | 21.8 | /mnt/stockage/packages/f29/xplayer/po/mg.po | 
+ | [ms](/f29/language/ms) | 364 | 1952 | 18.6 | /mnt/stockage/packages/f29/xplayer/po/ms.po | 
+ | [xh](/f29/language/xh) | 344 | 1952 | 17.6 | /mnt/stockage/packages/f29/xplayer/po/xh.po | 
+ | [my](/f29/language/my) | 338 | 1952 | 17.3 | /mnt/stockage/packages/f29/xplayer/po/my.po | 
+ | [az](/f29/language/az) | 331 | 1952 | 17.0 | /mnt/stockage/packages/f29/xplayer/po/az.po | 
+ | [ky](/f29/language/ky) | 232 | 1952 | 11.9 | /mnt/stockage/packages/f29/xplayer/po/ky.po | 
+ | [wa](/f29/language/wa) | 120 | 1952 | 6.1 | /mnt/stockage/packages/f29/xplayer/po/wa.po | 
+ | [bs](/f29/language/bs) | 39 | 1952 | 2.0 | /mnt/stockage/packages/f29/xplayer/po/bs.po | 
+ | [rw](/f29/language/rw) | 19 | 1952 | 1.0 | /mnt/stockage/packages/f29/xplayer/po/rw.po | 
+ | [la](/f29/language/la) | 10 | 1952 | 0.5 | /mnt/stockage/packages/f29/xplayer/po/la.po | 
+ | [tg](/f29/language/tg) | 0 | 1952 | 0.0 | /mnt/stockage/packages/f29/xplayer/po/tg.po | 
 {.sortable}
 
 

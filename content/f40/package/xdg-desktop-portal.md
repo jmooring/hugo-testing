@@ -18,37 +18,37 @@ The package xdg-desktop-portal (version 1.18.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [be]({{< ref "/f40/language/be.md" >}}) | 254 | 254 | 100.0 | /mnt/stockage/packages/f40/xdg-desktop-portal/po/be.po | 
- | [ca]({{< ref "/f40/language/ca.md" >}}) | 254 | 254 | 100.0 | /mnt/stockage/packages/f40/xdg-desktop-portal/po/ca.po | 
- | [cs]({{< ref "/f40/language/cs.md" >}}) | 254 | 254 | 100.0 | /mnt/stockage/packages/f40/xdg-desktop-portal/po/cs.po | 
- | [gl]({{< ref "/f40/language/gl.md" >}}) | 254 | 254 | 100.0 | /mnt/stockage/packages/f40/xdg-desktop-portal/po/gl.po | 
- | [hu]({{< ref "/f40/language/hu.md" >}}) | 254 | 254 | 100.0 | /mnt/stockage/packages/f40/xdg-desktop-portal/po/hu.po | 
- | [id]({{< ref "/f40/language/id.md" >}}) | 254 | 254 | 100.0 | /mnt/stockage/packages/f40/xdg-desktop-portal/po/id.po | 
- | [ka]({{< ref "/f40/language/ka.md" >}}) | 254 | 254 | 100.0 | /mnt/stockage/packages/f40/xdg-desktop-portal/po/ka.po | 
- | [oc]({{< ref "/f40/language/oc.md" >}}) | 254 | 254 | 100.0 | /mnt/stockage/packages/f40/xdg-desktop-portal/po/oc.po | 
- | [pl]({{< ref "/f40/language/pl.md" >}}) | 254 | 254 | 100.0 | /mnt/stockage/packages/f40/xdg-desktop-portal/po/pl.po | 
- | [ru]({{< ref "/f40/language/ru.md" >}}) | 254 | 254 | 100.0 | /mnt/stockage/packages/f40/xdg-desktop-portal/po/ru.po | 
- | [sv]({{< ref "/f40/language/sv.md" >}}) | 254 | 254 | 100.0 | /mnt/stockage/packages/f40/xdg-desktop-portal/po/sv.po | 
- | [tr]({{< ref "/f40/language/tr.md" >}}) | 254 | 254 | 100.0 | /mnt/stockage/packages/f40/xdg-desktop-portal/po/tr.po | 
- | [uk]({{< ref "/f40/language/uk.md" >}}) | 254 | 254 | 100.0 | /mnt/stockage/packages/f40/xdg-desktop-portal/po/uk.po | 
- | [zh_Hans]({{< ref "/f40/language/zh_Hans.md" >}}) | 254 | 254 | 100.0 | /mnt/stockage/packages/f40/xdg-desktop-portal/po/zh_CN.po | 
- | [da]({{< ref "/f40/language/da.md" >}}) | 221 | 254 | 87.0 | /mnt/stockage/packages/f40/xdg-desktop-portal/po/da.po | 
- | [es]({{< ref "/f40/language/es.md" >}}) | 221 | 254 | 87.0 | /mnt/stockage/packages/f40/xdg-desktop-portal/po/es.po | 
- | [he]({{< ref "/f40/language/he.md" >}}) | 221 | 254 | 87.0 | /mnt/stockage/packages/f40/xdg-desktop-portal/po/he.po | 
- | [hi]({{< ref "/f40/language/hi.md" >}}) | 221 | 254 | 87.0 | /mnt/stockage/packages/f40/xdg-desktop-portal/po/hi.po | 
- | [hr]({{< ref "/f40/language/hr.md" >}}) | 221 | 254 | 87.0 | /mnt/stockage/packages/f40/xdg-desktop-portal/po/hr.po | 
- | [it]({{< ref "/f40/language/it.md" >}}) | 221 | 254 | 87.0 | /mnt/stockage/packages/f40/xdg-desktop-portal/po/it.po | 
- | [lt]({{< ref "/f40/language/lt.md" >}}) | 221 | 254 | 87.0 | /mnt/stockage/packages/f40/xdg-desktop-portal/po/lt.po | 
- | [nl]({{< ref "/f40/language/nl.md" >}}) | 221 | 254 | 87.0 | /mnt/stockage/packages/f40/xdg-desktop-portal/po/nl.po | 
- | [pt]({{< ref "/f40/language/pt.md" >}}) | 221 | 254 | 87.0 | /mnt/stockage/packages/f40/xdg-desktop-portal/po/pt.po | 
- | [pt_BR]({{< ref "/f40/language/pt_BR.md" >}}) | 221 | 254 | 87.0 | /mnt/stockage/packages/f40/xdg-desktop-portal/po/pt_BR.po | 
- | [ro]({{< ref "/f40/language/ro.md" >}}) | 221 | 254 | 87.0 | /mnt/stockage/packages/f40/xdg-desktop-portal/po/ro.po | 
- | [sk]({{< ref "/f40/language/sk.md" >}}) | 221 | 254 | 87.0 | /mnt/stockage/packages/f40/xdg-desktop-portal/po/sk.po | 
- | [zh_Hant]({{< ref "/f40/language/zh_Hant.md" >}}) | 221 | 254 | 87.0 | /mnt/stockage/packages/f40/xdg-desktop-portal/po/zh_TW.po | 
- | [en_GB]({{< ref "/f40/language/en_GB.md" >}}) | 175 | 254 | 68.9 | /mnt/stockage/packages/f40/xdg-desktop-portal/po/en_GB.po | 
- | [de]({{< ref "/f40/language/de.md" >}}) | 88 | 254 | 34.6 | /mnt/stockage/packages/f40/xdg-desktop-portal/po/de.po | 
- | [fr]({{< ref "/f40/language/fr.md" >}}) | 88 | 254 | 34.6 | /mnt/stockage/packages/f40/xdg-desktop-portal/po/fr.po | 
- | [sr]({{< ref "/f40/language/sr.md" >}}) | 88 | 254 | 34.6 | /mnt/stockage/packages/f40/xdg-desktop-portal/po/sr.po | 
+ | [be](/f40/language/be) | 254 | 254 | 100.0 | /mnt/stockage/packages/f40/xdg-desktop-portal/po/be.po | 
+ | [ca](/f40/language/ca) | 254 | 254 | 100.0 | /mnt/stockage/packages/f40/xdg-desktop-portal/po/ca.po | 
+ | [cs](/f40/language/cs) | 254 | 254 | 100.0 | /mnt/stockage/packages/f40/xdg-desktop-portal/po/cs.po | 
+ | [gl](/f40/language/gl) | 254 | 254 | 100.0 | /mnt/stockage/packages/f40/xdg-desktop-portal/po/gl.po | 
+ | [hu](/f40/language/hu) | 254 | 254 | 100.0 | /mnt/stockage/packages/f40/xdg-desktop-portal/po/hu.po | 
+ | [id](/f40/language/id) | 254 | 254 | 100.0 | /mnt/stockage/packages/f40/xdg-desktop-portal/po/id.po | 
+ | [ka](/f40/language/ka) | 254 | 254 | 100.0 | /mnt/stockage/packages/f40/xdg-desktop-portal/po/ka.po | 
+ | [oc](/f40/language/oc) | 254 | 254 | 100.0 | /mnt/stockage/packages/f40/xdg-desktop-portal/po/oc.po | 
+ | [pl](/f40/language/pl) | 254 | 254 | 100.0 | /mnt/stockage/packages/f40/xdg-desktop-portal/po/pl.po | 
+ | [ru](/f40/language/ru) | 254 | 254 | 100.0 | /mnt/stockage/packages/f40/xdg-desktop-portal/po/ru.po | 
+ | [sv](/f40/language/sv) | 254 | 254 | 100.0 | /mnt/stockage/packages/f40/xdg-desktop-portal/po/sv.po | 
+ | [tr](/f40/language/tr) | 254 | 254 | 100.0 | /mnt/stockage/packages/f40/xdg-desktop-portal/po/tr.po | 
+ | [uk](/f40/language/uk) | 254 | 254 | 100.0 | /mnt/stockage/packages/f40/xdg-desktop-portal/po/uk.po | 
+ | [zh_Hans](/f40/language/zh_Hans) | 254 | 254 | 100.0 | /mnt/stockage/packages/f40/xdg-desktop-portal/po/zh_CN.po | 
+ | [da](/f40/language/da) | 221 | 254 | 87.0 | /mnt/stockage/packages/f40/xdg-desktop-portal/po/da.po | 
+ | [es](/f40/language/es) | 221 | 254 | 87.0 | /mnt/stockage/packages/f40/xdg-desktop-portal/po/es.po | 
+ | [he](/f40/language/he) | 221 | 254 | 87.0 | /mnt/stockage/packages/f40/xdg-desktop-portal/po/he.po | 
+ | [hi](/f40/language/hi) | 221 | 254 | 87.0 | /mnt/stockage/packages/f40/xdg-desktop-portal/po/hi.po | 
+ | [hr](/f40/language/hr) | 221 | 254 | 87.0 | /mnt/stockage/packages/f40/xdg-desktop-portal/po/hr.po | 
+ | [it](/f40/language/it) | 221 | 254 | 87.0 | /mnt/stockage/packages/f40/xdg-desktop-portal/po/it.po | 
+ | [lt](/f40/language/lt) | 221 | 254 | 87.0 | /mnt/stockage/packages/f40/xdg-desktop-portal/po/lt.po | 
+ | [nl](/f40/language/nl) | 221 | 254 | 87.0 | /mnt/stockage/packages/f40/xdg-desktop-portal/po/nl.po | 
+ | [pt](/f40/language/pt) | 221 | 254 | 87.0 | /mnt/stockage/packages/f40/xdg-desktop-portal/po/pt.po | 
+ | [pt_BR](/f40/language/pt_BR) | 221 | 254 | 87.0 | /mnt/stockage/packages/f40/xdg-desktop-portal/po/pt_BR.po | 
+ | [ro](/f40/language/ro) | 221 | 254 | 87.0 | /mnt/stockage/packages/f40/xdg-desktop-portal/po/ro.po | 
+ | [sk](/f40/language/sk) | 221 | 254 | 87.0 | /mnt/stockage/packages/f40/xdg-desktop-portal/po/sk.po | 
+ | [zh_Hant](/f40/language/zh_Hant) | 221 | 254 | 87.0 | /mnt/stockage/packages/f40/xdg-desktop-portal/po/zh_TW.po | 
+ | [en_GB](/f40/language/en_GB) | 175 | 254 | 68.9 | /mnt/stockage/packages/f40/xdg-desktop-portal/po/en_GB.po | 
+ | [de](/f40/language/de) | 88 | 254 | 34.6 | /mnt/stockage/packages/f40/xdg-desktop-portal/po/de.po | 
+ | [fr](/f40/language/fr) | 88 | 254 | 34.6 | /mnt/stockage/packages/f40/xdg-desktop-portal/po/fr.po | 
+ | [sr](/f40/language/sr) | 88 | 254 | 34.6 | /mnt/stockage/packages/f40/xdg-desktop-portal/po/sr.po | 
 {.sortable}
 
 

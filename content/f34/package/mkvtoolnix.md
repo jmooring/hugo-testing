@@ -18,31 +18,31 @@ The package mkvtoolnix (version 67.0.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f34/language/de.md" >}}) | 42471 | 42471 | 100.0 | /mnt/stockage/packages/f34/mkvtoolnix/doc/man/po4a/po/de.po/mnt/stockage/packages/f34/mkvtoolnix/po/de.po | 
- | [fr]({{< ref "/f34/language/fr.md" >}}) | 42471 | 42471 | 100.0 | /mnt/stockage/packages/f34/mkvtoolnix/doc/man/po4a/po/fr.po/mnt/stockage/packages/f34/mkvtoolnix/po/fr.po | 
- | [zh_Hans]({{< ref "/f34/language/zh_Hans.md" >}}) | 42471 | 42471 | 100.0 | /mnt/stockage/packages/f34/mkvtoolnix/doc/man/po4a/po/zh_CN.po/mnt/stockage/packages/f34/mkvtoolnix/po/zh_CN.po | 
- | [zh_Hans_SG]({{< ref "/f34/language/zh_Hans_SG.md" >}}) | 24129 | 24129 | 100.0 | /mnt/stockage/packages/f34/mkvtoolnix/po/zh_SG.po | 
- | [zh_Hant]({{< ref "/f34/language/zh_Hant.md" >}}) | 42471 | 42471 | 100.0 | /mnt/stockage/packages/f34/mkvtoolnix/doc/man/po4a/po/zh_TW.po/mnt/stockage/packages/f34/mkvtoolnix/po/zh_TW.po | 
- | [uk]({{< ref "/f34/language/uk.md" >}}) | 41969 | 42471 | 98.8 | /mnt/stockage/packages/f34/mkvtoolnix/doc/man/po4a/po/uk.po/mnt/stockage/packages/f34/mkvtoolnix/po/uk.po | 
- | [ca]({{< ref "/f34/language/ca.md" >}}) | 41936 | 42471 | 98.7 | /mnt/stockage/packages/f34/mkvtoolnix/doc/man/po4a/po/ca.po/mnt/stockage/packages/f34/mkvtoolnix/po/ca.po | 
- | [pt_BR]({{< ref "/f34/language/pt_BR.md" >}}) | 23814 | 24129 | 98.7 | /mnt/stockage/packages/f34/mkvtoolnix/po/pt_BR.po | 
- | [es]({{< ref "/f34/language/es.md" >}}) | 41802 | 42471 | 98.4 | /mnt/stockage/packages/f34/mkvtoolnix/doc/man/po4a/po/es.po/mnt/stockage/packages/f34/mkvtoolnix/po/es.po | 
- | [tr]({{< ref "/f34/language/tr.md" >}}) | 23737 | 24129 | 98.4 | /mnt/stockage/packages/f34/mkvtoolnix/po/tr.po | 
- | [pt]({{< ref "/f34/language/pt.md" >}}) | 23672 | 24129 | 98.1 | /mnt/stockage/packages/f34/mkvtoolnix/po/pt.po | 
- | [sr_Latn]({{< ref "/f34/language/sr_Latn.md" >}}) | 20305 | 24129 | 84.2 | /mnt/stockage/packages/f34/mkvtoolnix/po/sr_RS@latin.po | 
- | [eu]({{< ref "/f34/language/eu.md" >}}) | 20152 | 24129 | 83.5 | /mnt/stockage/packages/f34/mkvtoolnix/po/eu.po | 
- | [sr]({{< ref "/f34/language/sr.md" >}}) | 20103 | 24129 | 83.3 | /mnt/stockage/packages/f34/mkvtoolnix/po/sr_RS.po | 
- | [nl]({{< ref "/f34/language/nl.md" >}}) | 34124 | 42471 | 80.3 | /mnt/stockage/packages/f34/mkvtoolnix/doc/man/po4a/po/nl.po/mnt/stockage/packages/f34/mkvtoolnix/po/nl.po | 
- | [ru]({{< ref "/f34/language/ru.md" >}}) | 33329 | 42471 | 78.5 | /mnt/stockage/packages/f34/mkvtoolnix/doc/man/po4a/po/ru.po/mnt/stockage/packages/f34/mkvtoolnix/po/ru.po | 
- | [cs]({{< ref "/f34/language/cs.md" >}}) | 17287 | 24129 | 71.6 | /mnt/stockage/packages/f34/mkvtoolnix/po/cs.po | 
- | [ja]({{< ref "/f34/language/ja.md" >}}) | 29929 | 42471 | 70.5 | /mnt/stockage/packages/f34/mkvtoolnix/doc/man/po4a/po/ja.po/mnt/stockage/packages/f34/mkvtoolnix/po/ja.po | 
- | [it]({{< ref "/f34/language/it.md" >}}) | 28440 | 42471 | 67.0 | /mnt/stockage/packages/f34/mkvtoolnix/doc/man/po4a/po/it.po/mnt/stockage/packages/f34/mkvtoolnix/po/it.po | 
- | [pl]({{< ref "/f34/language/pl.md" >}}) | 23619 | 42471 | 55.6 | /mnt/stockage/packages/f34/mkvtoolnix/doc/man/po4a/po/pl.po/mnt/stockage/packages/f34/mkvtoolnix/po/pl.po | 
- | [ko]({{< ref "/f34/language/ko.md" >}}) | 22321 | 42471 | 52.6 | /mnt/stockage/packages/f34/mkvtoolnix/doc/man/po4a/po/ko.po/mnt/stockage/packages/f34/mkvtoolnix/po/ko.po | 
- | [bg]({{< ref "/f34/language/bg.md" >}}) | 18914 | 42471 | 44.5 | /mnt/stockage/packages/f34/mkvtoolnix/doc/man/po4a/po/bg.po/mnt/stockage/packages/f34/mkvtoolnix/po/bg.po | 
- | [ro]({{< ref "/f34/language/ro.md" >}}) | 4438 | 24129 | 18.4 | /mnt/stockage/packages/f34/mkvtoolnix/po/ro.po | 
- | [sv]({{< ref "/f34/language/sv.md" >}}) | 2154 | 24129 | 8.9 | /mnt/stockage/packages/f34/mkvtoolnix/po/sv.po | 
- | [lt]({{< ref "/f34/language/lt.md" >}}) | 1107 | 24129 | 4.6 | /mnt/stockage/packages/f34/mkvtoolnix/po/lt.po | 
+ | [de](/f34/language/de) | 42471 | 42471 | 100.0 | /mnt/stockage/packages/f34/mkvtoolnix/doc/man/po4a/po/de.po/mnt/stockage/packages/f34/mkvtoolnix/po/de.po | 
+ | [fr](/f34/language/fr) | 42471 | 42471 | 100.0 | /mnt/stockage/packages/f34/mkvtoolnix/doc/man/po4a/po/fr.po/mnt/stockage/packages/f34/mkvtoolnix/po/fr.po | 
+ | [zh_Hans](/f34/language/zh_Hans) | 42471 | 42471 | 100.0 | /mnt/stockage/packages/f34/mkvtoolnix/doc/man/po4a/po/zh_CN.po/mnt/stockage/packages/f34/mkvtoolnix/po/zh_CN.po | 
+ | [zh_Hans_SG](/f34/language/zh_Hans_SG) | 24129 | 24129 | 100.0 | /mnt/stockage/packages/f34/mkvtoolnix/po/zh_SG.po | 
+ | [zh_Hant](/f34/language/zh_Hant) | 42471 | 42471 | 100.0 | /mnt/stockage/packages/f34/mkvtoolnix/doc/man/po4a/po/zh_TW.po/mnt/stockage/packages/f34/mkvtoolnix/po/zh_TW.po | 
+ | [uk](/f34/language/uk) | 41969 | 42471 | 98.8 | /mnt/stockage/packages/f34/mkvtoolnix/doc/man/po4a/po/uk.po/mnt/stockage/packages/f34/mkvtoolnix/po/uk.po | 
+ | [ca](/f34/language/ca) | 41936 | 42471 | 98.7 | /mnt/stockage/packages/f34/mkvtoolnix/doc/man/po4a/po/ca.po/mnt/stockage/packages/f34/mkvtoolnix/po/ca.po | 
+ | [pt_BR](/f34/language/pt_BR) | 23814 | 24129 | 98.7 | /mnt/stockage/packages/f34/mkvtoolnix/po/pt_BR.po | 
+ | [es](/f34/language/es) | 41802 | 42471 | 98.4 | /mnt/stockage/packages/f34/mkvtoolnix/doc/man/po4a/po/es.po/mnt/stockage/packages/f34/mkvtoolnix/po/es.po | 
+ | [tr](/f34/language/tr) | 23737 | 24129 | 98.4 | /mnt/stockage/packages/f34/mkvtoolnix/po/tr.po | 
+ | [pt](/f34/language/pt) | 23672 | 24129 | 98.1 | /mnt/stockage/packages/f34/mkvtoolnix/po/pt.po | 
+ | [sr_Latn](/f34/language/sr_Latn) | 20305 | 24129 | 84.2 | /mnt/stockage/packages/f34/mkvtoolnix/po/sr_RS@latin.po | 
+ | [eu](/f34/language/eu) | 20152 | 24129 | 83.5 | /mnt/stockage/packages/f34/mkvtoolnix/po/eu.po | 
+ | [sr](/f34/language/sr) | 20103 | 24129 | 83.3 | /mnt/stockage/packages/f34/mkvtoolnix/po/sr_RS.po | 
+ | [nl](/f34/language/nl) | 34124 | 42471 | 80.3 | /mnt/stockage/packages/f34/mkvtoolnix/doc/man/po4a/po/nl.po/mnt/stockage/packages/f34/mkvtoolnix/po/nl.po | 
+ | [ru](/f34/language/ru) | 33329 | 42471 | 78.5 | /mnt/stockage/packages/f34/mkvtoolnix/doc/man/po4a/po/ru.po/mnt/stockage/packages/f34/mkvtoolnix/po/ru.po | 
+ | [cs](/f34/language/cs) | 17287 | 24129 | 71.6 | /mnt/stockage/packages/f34/mkvtoolnix/po/cs.po | 
+ | [ja](/f34/language/ja) | 29929 | 42471 | 70.5 | /mnt/stockage/packages/f34/mkvtoolnix/doc/man/po4a/po/ja.po/mnt/stockage/packages/f34/mkvtoolnix/po/ja.po | 
+ | [it](/f34/language/it) | 28440 | 42471 | 67.0 | /mnt/stockage/packages/f34/mkvtoolnix/doc/man/po4a/po/it.po/mnt/stockage/packages/f34/mkvtoolnix/po/it.po | 
+ | [pl](/f34/language/pl) | 23619 | 42471 | 55.6 | /mnt/stockage/packages/f34/mkvtoolnix/doc/man/po4a/po/pl.po/mnt/stockage/packages/f34/mkvtoolnix/po/pl.po | 
+ | [ko](/f34/language/ko) | 22321 | 42471 | 52.6 | /mnt/stockage/packages/f34/mkvtoolnix/doc/man/po4a/po/ko.po/mnt/stockage/packages/f34/mkvtoolnix/po/ko.po | 
+ | [bg](/f34/language/bg) | 18914 | 42471 | 44.5 | /mnt/stockage/packages/f34/mkvtoolnix/doc/man/po4a/po/bg.po/mnt/stockage/packages/f34/mkvtoolnix/po/bg.po | 
+ | [ro](/f34/language/ro) | 4438 | 24129 | 18.4 | /mnt/stockage/packages/f34/mkvtoolnix/po/ro.po | 
+ | [sv](/f34/language/sv) | 2154 | 24129 | 8.9 | /mnt/stockage/packages/f34/mkvtoolnix/po/sv.po | 
+ | [lt](/f34/language/lt) | 1107 | 24129 | 4.6 | /mnt/stockage/packages/f34/mkvtoolnix/po/lt.po | 
 {.sortable}
 
 

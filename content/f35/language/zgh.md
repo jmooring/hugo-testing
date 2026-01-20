@@ -38,13 +38,13 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [xapps]({{< ref "/f35/package/xapps.md" >}}) | 18 | 73 | 24.7 | Standard Moroccan Tamazight <zgh@li.org> | 
- | [blueberry]({{< ref "/f35/package/blueberry.md" >}}) | 39 | 166 | 23.5 | Standard Moroccan Tamazight <zgh@li.org> | 
- | [slick-greeter]({{< ref "/f35/package/slick-greeter.md" >}}) | 37 | 211 | 17.5 | Standard Moroccan Tamazight <zgh@li.org> | 
- | [lightdm-settings]({{< ref "/f35/package/lightdm-settings.md" >}}) | 40 | 321 | 12.5 | Standard Moroccan Tamazight <zgh@li.org> | 
- | [xreader]({{< ref "/f35/package/xreader.md" >}}) | 104 | 1620 | 6.4 | Standard Moroccan Tamazight <zgh@li.org> | 
- | [xed]({{< ref "/f35/package/xed.md" >}}) | 213 | 3760 | 5.7 | Standard Moroccan Tamazight <zgh@li.org> | 
- | [cinnamon-translations]({{< ref "/f35/package/cinnamon-translations.md" >}}) | 411 | 18226 | 2.3 | Standard Moroccan Tamazight <zgh@li.org> | 
+ | [xapps](/f35/package/xapps) | 18 | 73 | 24.7 | Standard Moroccan Tamazight <zgh@li.org> | 
+ | [blueberry](/f35/package/blueberry) | 39 | 166 | 23.5 | Standard Moroccan Tamazight <zgh@li.org> | 
+ | [slick-greeter](/f35/package/slick-greeter) | 37 | 211 | 17.5 | Standard Moroccan Tamazight <zgh@li.org> | 
+ | [lightdm-settings](/f35/package/lightdm-settings) | 40 | 321 | 12.5 | Standard Moroccan Tamazight <zgh@li.org> | 
+ | [xreader](/f35/package/xreader) | 104 | 1620 | 6.4 | Standard Moroccan Tamazight <zgh@li.org> | 
+ | [xed](/f35/package/xed) | 213 | 3760 | 5.7 | Standard Moroccan Tamazight <zgh@li.org> | 
+ | [cinnamon-translations](/f35/package/cinnamon-translations) | 411 | 18226 | 2.3 | Standard Moroccan Tamazight <zgh@li.org> | 
 {.sortable}
 
 

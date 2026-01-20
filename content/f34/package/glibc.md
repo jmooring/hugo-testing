@@ -18,43 +18,43 @@ The package glibc (version 2.33):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [be]({{< ref "/f34/language/be.md" >}}) | 3343 | 3343 | 100.0 | /mnt/stockage/packages/f34/glibc/po/be.po | 
- | [bg]({{< ref "/f34/language/bg.md" >}}) | 7746 | 7746 | 100.0 | /mnt/stockage/packages/f34/glibc/po/bg.po | 
- | [ca]({{< ref "/f34/language/ca.md" >}}) | 7608 | 7608 | 100.0 | /mnt/stockage/packages/f34/glibc/po/ca.po | 
- | [cs]({{< ref "/f34/language/cs.md" >}}) | 7746 | 7746 | 100.0 | /mnt/stockage/packages/f34/glibc/po/cs.po | 
- | [da]({{< ref "/f34/language/da.md" >}}) | 6203 | 6203 | 100.0 | /mnt/stockage/packages/f34/glibc/po/da.po | 
- | [de]({{< ref "/f34/language/de.md" >}}) | 7747 | 7747 | 100.0 | /mnt/stockage/packages/f34/glibc/intl/tst-gettext4-de.po/mnt/stockage/packages/f34/glibc/po/de.po | 
- | [el]({{< ref "/f34/language/el.md" >}}) | 2868 | 2868 | 100.0 | /mnt/stockage/packages/f34/glibc/po/el.po | 
- | [eo]({{< ref "/f34/language/eo.md" >}}) | 3583 | 3583 | 100.0 | /mnt/stockage/packages/f34/glibc/po/eo.po | 
- | [es]({{< ref "/f34/language/es.md" >}}) | 6988 | 6988 | 100.0 | /mnt/stockage/packages/f34/glibc/po/es.po | 
- | [fi]({{< ref "/f34/language/fi.md" >}}) | 6258 | 6258 | 100.0 | /mnt/stockage/packages/f34/glibc/po/fi.po | 
- | [fr]({{< ref "/f34/language/fr.md" >}}) | 7747 | 7747 | 100.0 | /mnt/stockage/packages/f34/glibc/intl/tst-gettext4-fr.po/mnt/stockage/packages/f34/glibc/po/fr.po | 
- | [gl]({{< ref "/f34/language/gl.md" >}}) | 4730 | 4730 | 100.0 | /mnt/stockage/packages/f34/glibc/po/gl.po | 
- | [hr]({{< ref "/f34/language/hr.md" >}}) | 7746 | 7746 | 100.0 | /mnt/stockage/packages/f34/glibc/po/hr.po | 
- | [hu]({{< ref "/f34/language/hu.md" >}}) | 1540 | 1540 | 100.0 | /mnt/stockage/packages/f34/glibc/po/hu.po | 
- | [ia]({{< ref "/f34/language/ia.md" >}}) | 3191 | 3191 | 100.0 | /mnt/stockage/packages/f34/glibc/po/ia.po | 
- | [id]({{< ref "/f34/language/id.md" >}}) | 6203 | 6203 | 100.0 | /mnt/stockage/packages/f34/glibc/po/id.po | 
- | [it]({{< ref "/f34/language/it.md" >}}) | 6522 | 6522 | 100.0 | /mnt/stockage/packages/f34/glibc/po/it.po | 
- | [ja]({{< ref "/f34/language/ja.md" >}}) | 6483 | 6483 | 100.0 | /mnt/stockage/packages/f34/glibc/po/ja.po | 
- | [ko]({{< ref "/f34/language/ko.md" >}}) | 7746 | 7746 | 100.0 | /mnt/stockage/packages/f34/glibc/po/ko.po | 
- | [lt]({{< ref "/f34/language/lt.md" >}}) | 1518 | 1518 | 100.0 | /mnt/stockage/packages/f34/glibc/po/lt.po | 
- | [nb_NO]({{< ref "/f34/language/nb_NO.md" >}}) | 2925 | 2925 | 100.0 | /mnt/stockage/packages/f34/glibc/po/nb.po | 
- | [nl]({{< ref "/f34/language/nl.md" >}}) | 7746 | 7746 | 100.0 | /mnt/stockage/packages/f34/glibc/po/nl.po | 
- | [pl]({{< ref "/f34/language/pl.md" >}}) | 7746 | 7746 | 100.0 | /mnt/stockage/packages/f34/glibc/po/pl.po | 
- | [pt]({{< ref "/f34/language/pt.md" >}}) | 7746 | 7746 | 100.0 | /mnt/stockage/packages/f34/glibc/po/pt.po | 
- | [pt_BR]({{< ref "/f34/language/pt_BR.md" >}}) | 7746 | 7746 | 100.0 | /mnt/stockage/packages/f34/glibc/po/pt_BR.po | 
- | [ru]({{< ref "/f34/language/ru.md" >}}) | 7746 | 7746 | 100.0 | /mnt/stockage/packages/f34/glibc/po/ru.po | 
- | [rw]({{< ref "/f34/language/rw.md" >}}) | 17 | 17 | 100.0 | /mnt/stockage/packages/f34/glibc/po/rw.po | 
- | [sk]({{< ref "/f34/language/sk.md" >}}) | 4777 | 4777 | 100.0 | /mnt/stockage/packages/f34/glibc/po/sk.po | 
- | [sl]({{< ref "/f34/language/sl.md" >}}) | 2665 | 2665 | 100.0 | /mnt/stockage/packages/f34/glibc/po/sl.po | 
- | [sr]({{< ref "/f34/language/sr.md" >}}) | 7746 | 7746 | 100.0 | /mnt/stockage/packages/f34/glibc/po/sr.po | 
- | [sv]({{< ref "/f34/language/sv.md" >}}) | 7746 | 7746 | 100.0 | /mnt/stockage/packages/f34/glibc/po/sv.po | 
- | [tr]({{< ref "/f34/language/tr.md" >}}) | 7746 | 7746 | 100.0 | /mnt/stockage/packages/f34/glibc/po/tr.po | 
- | [uk]({{< ref "/f34/language/uk.md" >}}) | 7746 | 7746 | 100.0 | /mnt/stockage/packages/f34/glibc/po/uk.po | 
- | [vi]({{< ref "/f34/language/vi.md" >}}) | 7608 | 7608 | 100.0 | /mnt/stockage/packages/f34/glibc/po/vi.po | 
- | [zh_Hans]({{< ref "/f34/language/zh_Hans.md" >}}) | 7608 | 7608 | 100.0 | /mnt/stockage/packages/f34/glibc/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f34/language/zh_Hant.md" >}}) | 7723 | 7723 | 100.0 | /mnt/stockage/packages/f34/glibc/po/zh_TW.po | 
- | [en_GB]({{< ref "/f34/language/en_GB.md" >}}) | 64 | 5369 | 1.2 | /mnt/stockage/packages/f34/glibc/po/en_GB.po | 
+ | [be](/f34/language/be) | 3343 | 3343 | 100.0 | /mnt/stockage/packages/f34/glibc/po/be.po | 
+ | [bg](/f34/language/bg) | 7746 | 7746 | 100.0 | /mnt/stockage/packages/f34/glibc/po/bg.po | 
+ | [ca](/f34/language/ca) | 7608 | 7608 | 100.0 | /mnt/stockage/packages/f34/glibc/po/ca.po | 
+ | [cs](/f34/language/cs) | 7746 | 7746 | 100.0 | /mnt/stockage/packages/f34/glibc/po/cs.po | 
+ | [da](/f34/language/da) | 6203 | 6203 | 100.0 | /mnt/stockage/packages/f34/glibc/po/da.po | 
+ | [de](/f34/language/de) | 7747 | 7747 | 100.0 | /mnt/stockage/packages/f34/glibc/intl/tst-gettext4-de.po/mnt/stockage/packages/f34/glibc/po/de.po | 
+ | [el](/f34/language/el) | 2868 | 2868 | 100.0 | /mnt/stockage/packages/f34/glibc/po/el.po | 
+ | [eo](/f34/language/eo) | 3583 | 3583 | 100.0 | /mnt/stockage/packages/f34/glibc/po/eo.po | 
+ | [es](/f34/language/es) | 6988 | 6988 | 100.0 | /mnt/stockage/packages/f34/glibc/po/es.po | 
+ | [fi](/f34/language/fi) | 6258 | 6258 | 100.0 | /mnt/stockage/packages/f34/glibc/po/fi.po | 
+ | [fr](/f34/language/fr) | 7747 | 7747 | 100.0 | /mnt/stockage/packages/f34/glibc/intl/tst-gettext4-fr.po/mnt/stockage/packages/f34/glibc/po/fr.po | 
+ | [gl](/f34/language/gl) | 4730 | 4730 | 100.0 | /mnt/stockage/packages/f34/glibc/po/gl.po | 
+ | [hr](/f34/language/hr) | 7746 | 7746 | 100.0 | /mnt/stockage/packages/f34/glibc/po/hr.po | 
+ | [hu](/f34/language/hu) | 1540 | 1540 | 100.0 | /mnt/stockage/packages/f34/glibc/po/hu.po | 
+ | [ia](/f34/language/ia) | 3191 | 3191 | 100.0 | /mnt/stockage/packages/f34/glibc/po/ia.po | 
+ | [id](/f34/language/id) | 6203 | 6203 | 100.0 | /mnt/stockage/packages/f34/glibc/po/id.po | 
+ | [it](/f34/language/it) | 6522 | 6522 | 100.0 | /mnt/stockage/packages/f34/glibc/po/it.po | 
+ | [ja](/f34/language/ja) | 6483 | 6483 | 100.0 | /mnt/stockage/packages/f34/glibc/po/ja.po | 
+ | [ko](/f34/language/ko) | 7746 | 7746 | 100.0 | /mnt/stockage/packages/f34/glibc/po/ko.po | 
+ | [lt](/f34/language/lt) | 1518 | 1518 | 100.0 | /mnt/stockage/packages/f34/glibc/po/lt.po | 
+ | [nb_NO](/f34/language/nb_NO) | 2925 | 2925 | 100.0 | /mnt/stockage/packages/f34/glibc/po/nb.po | 
+ | [nl](/f34/language/nl) | 7746 | 7746 | 100.0 | /mnt/stockage/packages/f34/glibc/po/nl.po | 
+ | [pl](/f34/language/pl) | 7746 | 7746 | 100.0 | /mnt/stockage/packages/f34/glibc/po/pl.po | 
+ | [pt](/f34/language/pt) | 7746 | 7746 | 100.0 | /mnt/stockage/packages/f34/glibc/po/pt.po | 
+ | [pt_BR](/f34/language/pt_BR) | 7746 | 7746 | 100.0 | /mnt/stockage/packages/f34/glibc/po/pt_BR.po | 
+ | [ru](/f34/language/ru) | 7746 | 7746 | 100.0 | /mnt/stockage/packages/f34/glibc/po/ru.po | 
+ | [rw](/f34/language/rw) | 17 | 17 | 100.0 | /mnt/stockage/packages/f34/glibc/po/rw.po | 
+ | [sk](/f34/language/sk) | 4777 | 4777 | 100.0 | /mnt/stockage/packages/f34/glibc/po/sk.po | 
+ | [sl](/f34/language/sl) | 2665 | 2665 | 100.0 | /mnt/stockage/packages/f34/glibc/po/sl.po | 
+ | [sr](/f34/language/sr) | 7746 | 7746 | 100.0 | /mnt/stockage/packages/f34/glibc/po/sr.po | 
+ | [sv](/f34/language/sv) | 7746 | 7746 | 100.0 | /mnt/stockage/packages/f34/glibc/po/sv.po | 
+ | [tr](/f34/language/tr) | 7746 | 7746 | 100.0 | /mnt/stockage/packages/f34/glibc/po/tr.po | 
+ | [uk](/f34/language/uk) | 7746 | 7746 | 100.0 | /mnt/stockage/packages/f34/glibc/po/uk.po | 
+ | [vi](/f34/language/vi) | 7608 | 7608 | 100.0 | /mnt/stockage/packages/f34/glibc/po/vi.po | 
+ | [zh_Hans](/f34/language/zh_Hans) | 7608 | 7608 | 100.0 | /mnt/stockage/packages/f34/glibc/po/zh_CN.po | 
+ | [zh_Hant](/f34/language/zh_Hant) | 7723 | 7723 | 100.0 | /mnt/stockage/packages/f34/glibc/po/zh_TW.po | 
+ | [en_GB](/f34/language/en_GB) | 64 | 5369 | 1.2 | /mnt/stockage/packages/f34/glibc/po/en_GB.po | 
 {.sortable}
 
 

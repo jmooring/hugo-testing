@@ -18,22 +18,22 @@ The package fpc (version 3.2.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [da]({{< ref "/f35/language/da.md" >}}) | 201 | 201 | 100.0 | /mnt/stockage/packages/f35/fpc/install/debian/po/da.po | 
- | [de]({{< ref "/f35/language/de.md" >}}) | 205 | 205 | 100.0 | /mnt/stockage/packages/f35/fpc/fpcsrc/packages/fcl-base/examples/intl/restest.de.po/mnt/stockage/packages/f35/fpc/fpcsrc/utils/fpdoc/intl/dglobals.de.po/mnt/stockage/packages/f35/fpc/fpcsrc/utils/fpdoc/intl/dwriter.de.po/mnt/stockage/packages/f35/fpc/fpcsrc/utils/fpdoc/intl/fpdoc.de.po/mnt/stockage/packages/f35/fpc/fpcsrc/utils/fpdoc/intl/fpdocmk.de.po/mnt/stockage/packages/f35/fpc/fpcsrc/utils/fpdoc/intl/fpdocstr.de.po/mnt/stockage/packages/f35/fpc/fpcsrc/utils/fpdoc/intl/makeskel.de.po/mnt/stockage/packages/f35/fpc/install/debian/po/de.po | 
- | [error]({{< ref "/f35/language/error.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f35/fpc/fpcsrc/packages/fcl-base/examples/intl/restest.pb.po | 
- | [es]({{< ref "/f35/language/es.md" >}}) | 201 | 201 | 100.0 | /mnt/stockage/packages/f35/fpc/install/debian/po/es.po | 
- | [fr]({{< ref "/f35/language/fr.md" >}}) | 201 | 201 | 100.0 | /mnt/stockage/packages/f35/fpc/fpcsrc/packages/fcl-base/examples/intl/restest.fr.po/mnt/stockage/packages/f35/fpc/install/debian/po/fr.po | 
- | [hu]({{< ref "/f35/language/hu.md" >}}) | 201 | 201 | 100.0 | /mnt/stockage/packages/f35/fpc/install/debian/po/hu.po | 
- | [it]({{< ref "/f35/language/it.md" >}}) | 201 | 201 | 100.0 | /mnt/stockage/packages/f35/fpc/install/debian/po/it.po | 
- | [ja]({{< ref "/f35/language/ja.md" >}}) | 201 | 201 | 100.0 | /mnt/stockage/packages/f35/fpc/install/debian/po/ja.po | 
- | [nl]({{< ref "/f35/language/nl.md" >}}) | 204 | 204 | 100.0 | /mnt/stockage/packages/f35/fpc/fpcsrc/packages/fcl-base/examples/intl/restest.nl.po/mnt/stockage/packages/f35/fpc/install/debian/po/nl.po | 
- | [pl]({{< ref "/f35/language/pl.md" >}}) | 201 | 201 | 100.0 | /mnt/stockage/packages/f35/fpc/install/debian/po/pl.po | 
- | [pt]({{< ref "/f35/language/pt.md" >}}) | 201 | 201 | 100.0 | /mnt/stockage/packages/f35/fpc/install/debian/po/pt.po | 
- | [pt_BR]({{< ref "/f35/language/pt_BR.md" >}}) | 201 | 201 | 100.0 | /mnt/stockage/packages/f35/fpc/install/debian/po/pt_BR.po | 
- | [ru]({{< ref "/f35/language/ru.md" >}}) | 205 | 205 | 100.0 | /mnt/stockage/packages/f35/fpc/fpcsrc/packages/fcl-base/examples/intl/restest.ru.po/mnt/stockage/packages/f35/fpc/install/debian/po/ru.po | 
- | [sk]({{< ref "/f35/language/sk.md" >}}) | 275 | 275 | 100.0 | /mnt/stockage/packages/f35/fpc/fpcsrc/utils/fpdoc/intl/dglobals.sk.po/mnt/stockage/packages/f35/fpc/install/debian/po/sk.po | 
- | [sv]({{< ref "/f35/language/sv.md" >}}) | 201 | 201 | 100.0 | /mnt/stockage/packages/f35/fpc/install/debian/po/sv.po | 
- | [cs]({{< ref "/f35/language/cs.md" >}}) | 203 | 205 | 99.0 | /mnt/stockage/packages/f35/fpc/fpcsrc/packages/fcl-base/examples/intl/restest.cs.po/mnt/stockage/packages/f35/fpc/install/debian/po/cs.po | 
+ | [da](/f35/language/da) | 201 | 201 | 100.0 | /mnt/stockage/packages/f35/fpc/install/debian/po/da.po | 
+ | [de](/f35/language/de) | 205 | 205 | 100.0 | /mnt/stockage/packages/f35/fpc/fpcsrc/packages/fcl-base/examples/intl/restest.de.po/mnt/stockage/packages/f35/fpc/fpcsrc/utils/fpdoc/intl/dglobals.de.po/mnt/stockage/packages/f35/fpc/fpcsrc/utils/fpdoc/intl/dwriter.de.po/mnt/stockage/packages/f35/fpc/fpcsrc/utils/fpdoc/intl/fpdoc.de.po/mnt/stockage/packages/f35/fpc/fpcsrc/utils/fpdoc/intl/fpdocmk.de.po/mnt/stockage/packages/f35/fpc/fpcsrc/utils/fpdoc/intl/fpdocstr.de.po/mnt/stockage/packages/f35/fpc/fpcsrc/utils/fpdoc/intl/makeskel.de.po/mnt/stockage/packages/f35/fpc/install/debian/po/de.po | 
+ | [error](/f35/language/error) | 4 | 4 | 100.0 | /mnt/stockage/packages/f35/fpc/fpcsrc/packages/fcl-base/examples/intl/restest.pb.po | 
+ | [es](/f35/language/es) | 201 | 201 | 100.0 | /mnt/stockage/packages/f35/fpc/install/debian/po/es.po | 
+ | [fr](/f35/language/fr) | 201 | 201 | 100.0 | /mnt/stockage/packages/f35/fpc/fpcsrc/packages/fcl-base/examples/intl/restest.fr.po/mnt/stockage/packages/f35/fpc/install/debian/po/fr.po | 
+ | [hu](/f35/language/hu) | 201 | 201 | 100.0 | /mnt/stockage/packages/f35/fpc/install/debian/po/hu.po | 
+ | [it](/f35/language/it) | 201 | 201 | 100.0 | /mnt/stockage/packages/f35/fpc/install/debian/po/it.po | 
+ | [ja](/f35/language/ja) | 201 | 201 | 100.0 | /mnt/stockage/packages/f35/fpc/install/debian/po/ja.po | 
+ | [nl](/f35/language/nl) | 204 | 204 | 100.0 | /mnt/stockage/packages/f35/fpc/fpcsrc/packages/fcl-base/examples/intl/restest.nl.po/mnt/stockage/packages/f35/fpc/install/debian/po/nl.po | 
+ | [pl](/f35/language/pl) | 201 | 201 | 100.0 | /mnt/stockage/packages/f35/fpc/install/debian/po/pl.po | 
+ | [pt](/f35/language/pt) | 201 | 201 | 100.0 | /mnt/stockage/packages/f35/fpc/install/debian/po/pt.po | 
+ | [pt_BR](/f35/language/pt_BR) | 201 | 201 | 100.0 | /mnt/stockage/packages/f35/fpc/install/debian/po/pt_BR.po | 
+ | [ru](/f35/language/ru) | 205 | 205 | 100.0 | /mnt/stockage/packages/f35/fpc/fpcsrc/packages/fcl-base/examples/intl/restest.ru.po/mnt/stockage/packages/f35/fpc/install/debian/po/ru.po | 
+ | [sk](/f35/language/sk) | 275 | 275 | 100.0 | /mnt/stockage/packages/f35/fpc/fpcsrc/utils/fpdoc/intl/dglobals.sk.po/mnt/stockage/packages/f35/fpc/install/debian/po/sk.po | 
+ | [sv](/f35/language/sv) | 201 | 201 | 100.0 | /mnt/stockage/packages/f35/fpc/install/debian/po/sv.po | 
+ | [cs](/f35/language/cs) | 203 | 205 | 99.0 | /mnt/stockage/packages/f35/fpc/fpcsrc/packages/fcl-base/examples/intl/restest.cs.po/mnt/stockage/packages/f35/fpc/install/debian/po/cs.po | 
 {.sortable}
 
 

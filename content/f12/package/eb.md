@@ -18,7 +18,7 @@ The package eb (version 4.4.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ja]({{< ref "/f12/language/ja.md" >}}) | 1073 | 1073 | 100.0 | /mnt/stockage/packages/f12/eb/po-eb/ja.po/mnt/stockage/packages/f12/eb/po-ebutils/ja.po | 
+ | [ja](/f12/language/ja) | 1073 | 1073 | 100.0 | /mnt/stockage/packages/f12/eb/po-eb/ja.po/mnt/stockage/packages/f12/eb/po-ebutils/ja.po | 
 {.sortable}
 
 

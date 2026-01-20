@@ -18,42 +18,42 @@ The package turba (version 2.1.7):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f9/language/cs.md" >}}) | 1308 | 1308 | 100.0 | /mnt/stockage/packages/f9/turba/po/cs_CZ.po | 
- | [da]({{< ref "/f9/language/da.md" >}}) | 1307 | 1307 | 100.0 | /mnt/stockage/packages/f9/turba/po/da_DK.po | 
- | [de]({{< ref "/f9/language/de.md" >}}) | 1273 | 1273 | 100.0 | /mnt/stockage/packages/f9/turba/po/de_DE.po | 
- | [el]({{< ref "/f9/language/el.md" >}}) | 1488 | 1488 | 100.0 | /mnt/stockage/packages/f9/turba/po/el_GR.po | 
- | [es]({{< ref "/f9/language/es.md" >}}) | 1273 | 1273 | 100.0 | /mnt/stockage/packages/f9/turba/po/es_ES.po | 
- | [et]({{< ref "/f9/language/et.md" >}}) | 1273 | 1273 | 100.0 | /mnt/stockage/packages/f9/turba/po/et_EE.po | 
- | [fi]({{< ref "/f9/language/fi.md" >}}) | 1273 | 1273 | 100.0 | /mnt/stockage/packages/f9/turba/po/fi_FI.po | 
- | [fr]({{< ref "/f9/language/fr.md" >}}) | 1307 | 1307 | 100.0 | /mnt/stockage/packages/f9/turba/po/fr_FR.po | 
- | [ja]({{< ref "/f9/language/ja.md" >}}) | 1273 | 1273 | 100.0 | /mnt/stockage/packages/f9/turba/po/ja_JP.po | 
- | [nl]({{< ref "/f9/language/nl.md" >}}) | 1308 | 1308 | 100.0 | /mnt/stockage/packages/f9/turba/po/nl_NL.po | 
- | [pt_BR]({{< ref "/f9/language/pt_BR.md" >}}) | 1301 | 1301 | 100.0 | /mnt/stockage/packages/f9/turba/po/pt_BR.po | 
- | [pt_PT]({{< ref "/f9/language/pt_PT.md" >}}) | 1308 | 1308 | 100.0 | /mnt/stockage/packages/f9/turba/po/pt_PT.po | 
- | [sk]({{< ref "/f9/language/sk.md" >}}) | 1307 | 1307 | 100.0 | /mnt/stockage/packages/f9/turba/po/sk_SK.po | 
- | [sv]({{< ref "/f9/language/sv.md" >}}) | 1345 | 1345 | 100.0 | /mnt/stockage/packages/f9/turba/po/sv_SE.po | 
- | [zh_Hans]({{< ref "/f9/language/zh_Hans.md" >}}) | 1252 | 1252 | 100.0 | /mnt/stockage/packages/f9/turba/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f9/language/zh_Hant.md" >}}) | 1310 | 1310 | 100.0 | /mnt/stockage/packages/f9/turba/po/zh_TW.po | 
- | [hu]({{< ref "/f9/language/hu.md" >}}) | 1297 | 1307 | 99.2 | /mnt/stockage/packages/f9/turba/po/hu_HU.po | 
- | [it]({{< ref "/f9/language/it.md" >}}) | 1295 | 1307 | 99.1 | /mnt/stockage/packages/f9/turba/po/it_IT.po | 
- | [ca]({{< ref "/f9/language/ca.md" >}}) | 1287 | 1307 | 98.5 | /mnt/stockage/packages/f9/turba/po/ca_ES.po | 
- | [pl]({{< ref "/f9/language/pl.md" >}}) | 1252 | 1273 | 98.4 | /mnt/stockage/packages/f9/turba/po/pl_PL.po | 
- | [sl]({{< ref "/f9/language/sl.md" >}}) | 1242 | 1478 | 84.0 | /mnt/stockage/packages/f9/turba/po/sl_SI.po | 
- | [fa]({{< ref "/f9/language/fa.md" >}}) | 1035 | 1252 | 82.7 | /mnt/stockage/packages/f9/turba/po/fa_IR.po | 
- | [tr]({{< ref "/f9/language/tr.md" >}}) | 760 | 1252 | 60.7 | /mnt/stockage/packages/f9/turba/po/tr_TR.po | 
- | [lt]({{< ref "/f9/language/lt.md" >}}) | 731 | 1252 | 58.4 | /mnt/stockage/packages/f9/turba/po/lt_LT.po | 
- | [ko]({{< ref "/f9/language/ko.md" >}}) | 601 | 1252 | 48.0 | /mnt/stockage/packages/f9/turba/po/ko_KR.po | 
- | [ru]({{< ref "/f9/language/ru.md" >}}) | 493 | 1394 | 35.4 | /mnt/stockage/packages/f9/turba/po/ru_RU.po | 
- | [is]({{< ref "/f9/language/is.md" >}}) | 141 | 956 | 14.7 | /mnt/stockage/packages/f9/turba/po/is_IS.po | 
- | [error]({{< ref "/f9/language/error.md" >}}) | 180 | 1252 | 14.4 | /mnt/stockage/packages/f9/turba/po/ar_SY.po | 
- | [bg]({{< ref "/f9/language/bg.md" >}}) | 156 | 1252 | 12.5 | /mnt/stockage/packages/f9/turba/po/bg_BG.po | 
- | [nb_NO]({{< ref "/f9/language/nb_NO.md" >}}) | 148 | 1252 | 11.8 | /mnt/stockage/packages/f9/turba/po/nb_NO.po | 
- | [gl]({{< ref "/f9/language/gl.md" >}}) | 99 | 1252 | 7.9 | /mnt/stockage/packages/f9/turba/po/gl_ES.po | 
- | [nn]({{< ref "/f9/language/nn.md" >}}) | 83 | 1252 | 6.6 | /mnt/stockage/packages/f9/turba/po/nn_NO.po | 
- | [lv]({{< ref "/f9/language/lv.md" >}}) | 80 | 1252 | 6.4 | /mnt/stockage/packages/f9/turba/po/lv_LV.po | 
- | [ro]({{< ref "/f9/language/ro.md" >}}) | 80 | 1252 | 6.4 | /mnt/stockage/packages/f9/turba/po/ro_RO.po | 
- | [mk]({{< ref "/f9/language/mk.md" >}}) | 51 | 1252 | 4.1 | /mnt/stockage/packages/f9/turba/po/mk_MK.po | 
- | [uk]({{< ref "/f9/language/uk.md" >}}) | 51 | 1252 | 4.1 | /mnt/stockage/packages/f9/turba/po/uk_UA.po | 
+ | [cs](/f9/language/cs) | 1308 | 1308 | 100.0 | /mnt/stockage/packages/f9/turba/po/cs_CZ.po | 
+ | [da](/f9/language/da) | 1307 | 1307 | 100.0 | /mnt/stockage/packages/f9/turba/po/da_DK.po | 
+ | [de](/f9/language/de) | 1273 | 1273 | 100.0 | /mnt/stockage/packages/f9/turba/po/de_DE.po | 
+ | [el](/f9/language/el) | 1488 | 1488 | 100.0 | /mnt/stockage/packages/f9/turba/po/el_GR.po | 
+ | [es](/f9/language/es) | 1273 | 1273 | 100.0 | /mnt/stockage/packages/f9/turba/po/es_ES.po | 
+ | [et](/f9/language/et) | 1273 | 1273 | 100.0 | /mnt/stockage/packages/f9/turba/po/et_EE.po | 
+ | [fi](/f9/language/fi) | 1273 | 1273 | 100.0 | /mnt/stockage/packages/f9/turba/po/fi_FI.po | 
+ | [fr](/f9/language/fr) | 1307 | 1307 | 100.0 | /mnt/stockage/packages/f9/turba/po/fr_FR.po | 
+ | [ja](/f9/language/ja) | 1273 | 1273 | 100.0 | /mnt/stockage/packages/f9/turba/po/ja_JP.po | 
+ | [nl](/f9/language/nl) | 1308 | 1308 | 100.0 | /mnt/stockage/packages/f9/turba/po/nl_NL.po | 
+ | [pt_BR](/f9/language/pt_BR) | 1301 | 1301 | 100.0 | /mnt/stockage/packages/f9/turba/po/pt_BR.po | 
+ | [pt_PT](/f9/language/pt_PT) | 1308 | 1308 | 100.0 | /mnt/stockage/packages/f9/turba/po/pt_PT.po | 
+ | [sk](/f9/language/sk) | 1307 | 1307 | 100.0 | /mnt/stockage/packages/f9/turba/po/sk_SK.po | 
+ | [sv](/f9/language/sv) | 1345 | 1345 | 100.0 | /mnt/stockage/packages/f9/turba/po/sv_SE.po | 
+ | [zh_Hans](/f9/language/zh_Hans) | 1252 | 1252 | 100.0 | /mnt/stockage/packages/f9/turba/po/zh_CN.po | 
+ | [zh_Hant](/f9/language/zh_Hant) | 1310 | 1310 | 100.0 | /mnt/stockage/packages/f9/turba/po/zh_TW.po | 
+ | [hu](/f9/language/hu) | 1297 | 1307 | 99.2 | /mnt/stockage/packages/f9/turba/po/hu_HU.po | 
+ | [it](/f9/language/it) | 1295 | 1307 | 99.1 | /mnt/stockage/packages/f9/turba/po/it_IT.po | 
+ | [ca](/f9/language/ca) | 1287 | 1307 | 98.5 | /mnt/stockage/packages/f9/turba/po/ca_ES.po | 
+ | [pl](/f9/language/pl) | 1252 | 1273 | 98.4 | /mnt/stockage/packages/f9/turba/po/pl_PL.po | 
+ | [sl](/f9/language/sl) | 1242 | 1478 | 84.0 | /mnt/stockage/packages/f9/turba/po/sl_SI.po | 
+ | [fa](/f9/language/fa) | 1035 | 1252 | 82.7 | /mnt/stockage/packages/f9/turba/po/fa_IR.po | 
+ | [tr](/f9/language/tr) | 760 | 1252 | 60.7 | /mnt/stockage/packages/f9/turba/po/tr_TR.po | 
+ | [lt](/f9/language/lt) | 731 | 1252 | 58.4 | /mnt/stockage/packages/f9/turba/po/lt_LT.po | 
+ | [ko](/f9/language/ko) | 601 | 1252 | 48.0 | /mnt/stockage/packages/f9/turba/po/ko_KR.po | 
+ | [ru](/f9/language/ru) | 493 | 1394 | 35.4 | /mnt/stockage/packages/f9/turba/po/ru_RU.po | 
+ | [is](/f9/language/is) | 141 | 956 | 14.7 | /mnt/stockage/packages/f9/turba/po/is_IS.po | 
+ | [error](/f9/language/error) | 180 | 1252 | 14.4 | /mnt/stockage/packages/f9/turba/po/ar_SY.po | 
+ | [bg](/f9/language/bg) | 156 | 1252 | 12.5 | /mnt/stockage/packages/f9/turba/po/bg_BG.po | 
+ | [nb_NO](/f9/language/nb_NO) | 148 | 1252 | 11.8 | /mnt/stockage/packages/f9/turba/po/nb_NO.po | 
+ | [gl](/f9/language/gl) | 99 | 1252 | 7.9 | /mnt/stockage/packages/f9/turba/po/gl_ES.po | 
+ | [nn](/f9/language/nn) | 83 | 1252 | 6.6 | /mnt/stockage/packages/f9/turba/po/nn_NO.po | 
+ | [lv](/f9/language/lv) | 80 | 1252 | 6.4 | /mnt/stockage/packages/f9/turba/po/lv_LV.po | 
+ | [ro](/f9/language/ro) | 80 | 1252 | 6.4 | /mnt/stockage/packages/f9/turba/po/ro_RO.po | 
+ | [mk](/f9/language/mk) | 51 | 1252 | 4.1 | /mnt/stockage/packages/f9/turba/po/mk_MK.po | 
+ | [uk](/f9/language/uk) | 51 | 1252 | 4.1 | /mnt/stockage/packages/f9/turba/po/uk_UA.po | 
 {.sortable}
 
 

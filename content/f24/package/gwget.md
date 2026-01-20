@@ -18,48 +18,48 @@ The package gwget (version 1.0.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [bg]({{< ref "/f24/language/bg.md" >}}) | 507 | 507 | 100.0 | /mnt/stockage/packages/f24/gwget/po/bg.po | 
- | [ca]({{< ref "/f24/language/ca.md" >}}) | 522 | 522 | 100.0 | /mnt/stockage/packages/f24/gwget/po/ca.po | 
- | [cs]({{< ref "/f24/language/cs.md" >}}) | 379 | 379 | 100.0 | /mnt/stockage/packages/f24/gwget/po/cs.po | 
- | [da]({{< ref "/f24/language/da.md" >}}) | 426 | 426 | 100.0 | /mnt/stockage/packages/f24/gwget/po/da.po | 
- | [de]({{< ref "/f24/language/de.md" >}}) | 379 | 379 | 100.0 | /mnt/stockage/packages/f24/gwget/po/de.po | 
- | [dz]({{< ref "/f24/language/dz.md" >}}) | 542 | 542 | 100.0 | /mnt/stockage/packages/f24/gwget/po/dz.po | 
- | [en_CA]({{< ref "/f24/language/en_CA.md" >}}) | 521 | 521 | 100.0 | /mnt/stockage/packages/f24/gwget/po/en_CA.po | 
- | [en_GB]({{< ref "/f24/language/en_GB.md" >}}) | 541 | 541 | 100.0 | /mnt/stockage/packages/f24/gwget/po/en_GB.po | 
- | [es]({{< ref "/f24/language/es.md" >}}) | 379 | 379 | 100.0 | /mnt/stockage/packages/f24/gwget/po/es.po | 
- | [eu]({{< ref "/f24/language/eu.md" >}}) | 379 | 379 | 100.0 | /mnt/stockage/packages/f24/gwget/po/eu.po | 
- | [fi]({{< ref "/f24/language/fi.md" >}}) | 553 | 553 | 100.0 | /mnt/stockage/packages/f24/gwget/po/fi.po | 
- | [fr]({{< ref "/f24/language/fr.md" >}}) | 379 | 379 | 100.0 | /mnt/stockage/packages/f24/gwget/po/fr.po | 
- | [he]({{< ref "/f24/language/he.md" >}}) | 545 | 545 | 100.0 | /mnt/stockage/packages/f24/gwget/po/he.po | 
- | [hu]({{< ref "/f24/language/hu.md" >}}) | 379 | 379 | 100.0 | /mnt/stockage/packages/f24/gwget/po/hu.po | 
- | [it]({{< ref "/f24/language/it.md" >}}) | 379 | 379 | 100.0 | /mnt/stockage/packages/f24/gwget/po/it.po | 
- | [lt]({{< ref "/f24/language/lt.md" >}}) | 426 | 426 | 100.0 | /mnt/stockage/packages/f24/gwget/po/lt.po | 
- | [lv]({{< ref "/f24/language/lv.md" >}}) | 543 | 543 | 100.0 | /mnt/stockage/packages/f24/gwget/po/lv.po | 
- | [mk]({{< ref "/f24/language/mk.md" >}}) | 269 | 269 | 100.0 | /mnt/stockage/packages/f24/gwget/po/mk.po | 
- | [ne]({{< ref "/f24/language/ne.md" >}}) | 553 | 553 | 100.0 | /mnt/stockage/packages/f24/gwget/po/ne.po | 
- | [nl]({{< ref "/f24/language/nl.md" >}}) | 525 | 525 | 100.0 | /mnt/stockage/packages/f24/gwget/po/nl.po | 
- | [pa]({{< ref "/f24/language/pa.md" >}}) | 269 | 269 | 100.0 | /mnt/stockage/packages/f24/gwget/po/pa.po | 
- | [pl]({{< ref "/f24/language/pl.md" >}}) | 571 | 571 | 100.0 | /mnt/stockage/packages/f24/gwget/po/pl.po | 
- | [pt]({{< ref "/f24/language/pt.md" >}}) | 379 | 379 | 100.0 | /mnt/stockage/packages/f24/gwget/po/pt.po | 
- | [pt_BR]({{< ref "/f24/language/pt_BR.md" >}}) | 379 | 379 | 100.0 | /mnt/stockage/packages/f24/gwget/po/pt_BR.po | 
- | [ru]({{< ref "/f24/language/ru.md" >}}) | 379 | 379 | 100.0 | /mnt/stockage/packages/f24/gwget/po/ru.po | 
- | [sk]({{< ref "/f24/language/sk.md" >}}) | 512 | 512 | 100.0 | /mnt/stockage/packages/f24/gwget/po/sk.po | 
- | [sq]({{< ref "/f24/language/sq.md" >}}) | 426 | 426 | 100.0 | /mnt/stockage/packages/f24/gwget/po/sq.po | 
- | [sv]({{< ref "/f24/language/sv.md" >}}) | 379 | 379 | 100.0 | /mnt/stockage/packages/f24/gwget/po/sv.po | 
- | [th]({{< ref "/f24/language/th.md" >}}) | 553 | 553 | 100.0 | /mnt/stockage/packages/f24/gwget/po/th.po | 
- | [uk]({{< ref "/f24/language/uk.md" >}}) | 507 | 507 | 100.0 | /mnt/stockage/packages/f24/gwget/po/uk.po | 
- | [vi]({{< ref "/f24/language/vi.md" >}}) | 525 | 525 | 100.0 | /mnt/stockage/packages/f24/gwget/po/vi.po | 
- | [zh_Hant]({{< ref "/f24/language/zh_Hant.md" >}}) | 507 | 507 | 100.0 | /mnt/stockage/packages/f24/gwget/po/zh_TW.po | 
- | [zh_Hant_HK]({{< ref "/f24/language/zh_Hant_HK.md" >}}) | 507 | 507 | 100.0 | /mnt/stockage/packages/f24/gwget/po/zh_HK.po | 
- | [ro]({{< ref "/f24/language/ro.md" >}}) | 274 | 275 | 99.6 | /mnt/stockage/packages/f24/gwget/po/ro.po | 
- | [ar]({{< ref "/f24/language/ar.md" >}}) | 526 | 550 | 95.6 | /mnt/stockage/packages/f24/gwget/po/ar.po | 
- | [tr]({{< ref "/f24/language/tr.md" >}}) | 141 | 154 | 91.6 | /mnt/stockage/packages/f24/gwget/po/tr.po | 
- | [ja]({{< ref "/f24/language/ja.md" >}}) | 128 | 154 | 83.1 | /mnt/stockage/packages/f24/gwget/po/ja.po | 
- | [el]({{< ref "/f24/language/el.md" >}}) | 430 | 525 | 81.9 | /mnt/stockage/packages/f24/gwget/po/el.po | 
- | [nb_NO]({{< ref "/f24/language/nb_NO.md" >}}) | 72 | 553 | 13.0 | /mnt/stockage/packages/f24/gwget/po/nb.po | 
- | [oc]({{< ref "/f24/language/oc.md" >}}) | 65 | 545 | 11.9 | /mnt/stockage/packages/f24/gwget/po/oc.po | 
- | [rw]({{< ref "/f24/language/rw.md" >}}) | 32 | 458 | 7.0 | /mnt/stockage/packages/f24/gwget/po/rw.po | 
- | [zh_Hans]({{< ref "/f24/language/zh_Hans.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f24/gwget/po/zh_CN.po | 
+ | [bg](/f24/language/bg) | 507 | 507 | 100.0 | /mnt/stockage/packages/f24/gwget/po/bg.po | 
+ | [ca](/f24/language/ca) | 522 | 522 | 100.0 | /mnt/stockage/packages/f24/gwget/po/ca.po | 
+ | [cs](/f24/language/cs) | 379 | 379 | 100.0 | /mnt/stockage/packages/f24/gwget/po/cs.po | 
+ | [da](/f24/language/da) | 426 | 426 | 100.0 | /mnt/stockage/packages/f24/gwget/po/da.po | 
+ | [de](/f24/language/de) | 379 | 379 | 100.0 | /mnt/stockage/packages/f24/gwget/po/de.po | 
+ | [dz](/f24/language/dz) | 542 | 542 | 100.0 | /mnt/stockage/packages/f24/gwget/po/dz.po | 
+ | [en_CA](/f24/language/en_CA) | 521 | 521 | 100.0 | /mnt/stockage/packages/f24/gwget/po/en_CA.po | 
+ | [en_GB](/f24/language/en_GB) | 541 | 541 | 100.0 | /mnt/stockage/packages/f24/gwget/po/en_GB.po | 
+ | [es](/f24/language/es) | 379 | 379 | 100.0 | /mnt/stockage/packages/f24/gwget/po/es.po | 
+ | [eu](/f24/language/eu) | 379 | 379 | 100.0 | /mnt/stockage/packages/f24/gwget/po/eu.po | 
+ | [fi](/f24/language/fi) | 553 | 553 | 100.0 | /mnt/stockage/packages/f24/gwget/po/fi.po | 
+ | [fr](/f24/language/fr) | 379 | 379 | 100.0 | /mnt/stockage/packages/f24/gwget/po/fr.po | 
+ | [he](/f24/language/he) | 545 | 545 | 100.0 | /mnt/stockage/packages/f24/gwget/po/he.po | 
+ | [hu](/f24/language/hu) | 379 | 379 | 100.0 | /mnt/stockage/packages/f24/gwget/po/hu.po | 
+ | [it](/f24/language/it) | 379 | 379 | 100.0 | /mnt/stockage/packages/f24/gwget/po/it.po | 
+ | [lt](/f24/language/lt) | 426 | 426 | 100.0 | /mnt/stockage/packages/f24/gwget/po/lt.po | 
+ | [lv](/f24/language/lv) | 543 | 543 | 100.0 | /mnt/stockage/packages/f24/gwget/po/lv.po | 
+ | [mk](/f24/language/mk) | 269 | 269 | 100.0 | /mnt/stockage/packages/f24/gwget/po/mk.po | 
+ | [ne](/f24/language/ne) | 553 | 553 | 100.0 | /mnt/stockage/packages/f24/gwget/po/ne.po | 
+ | [nl](/f24/language/nl) | 525 | 525 | 100.0 | /mnt/stockage/packages/f24/gwget/po/nl.po | 
+ | [pa](/f24/language/pa) | 269 | 269 | 100.0 | /mnt/stockage/packages/f24/gwget/po/pa.po | 
+ | [pl](/f24/language/pl) | 571 | 571 | 100.0 | /mnt/stockage/packages/f24/gwget/po/pl.po | 
+ | [pt](/f24/language/pt) | 379 | 379 | 100.0 | /mnt/stockage/packages/f24/gwget/po/pt.po | 
+ | [pt_BR](/f24/language/pt_BR) | 379 | 379 | 100.0 | /mnt/stockage/packages/f24/gwget/po/pt_BR.po | 
+ | [ru](/f24/language/ru) | 379 | 379 | 100.0 | /mnt/stockage/packages/f24/gwget/po/ru.po | 
+ | [sk](/f24/language/sk) | 512 | 512 | 100.0 | /mnt/stockage/packages/f24/gwget/po/sk.po | 
+ | [sq](/f24/language/sq) | 426 | 426 | 100.0 | /mnt/stockage/packages/f24/gwget/po/sq.po | 
+ | [sv](/f24/language/sv) | 379 | 379 | 100.0 | /mnt/stockage/packages/f24/gwget/po/sv.po | 
+ | [th](/f24/language/th) | 553 | 553 | 100.0 | /mnt/stockage/packages/f24/gwget/po/th.po | 
+ | [uk](/f24/language/uk) | 507 | 507 | 100.0 | /mnt/stockage/packages/f24/gwget/po/uk.po | 
+ | [vi](/f24/language/vi) | 525 | 525 | 100.0 | /mnt/stockage/packages/f24/gwget/po/vi.po | 
+ | [zh_Hant](/f24/language/zh_Hant) | 507 | 507 | 100.0 | /mnt/stockage/packages/f24/gwget/po/zh_TW.po | 
+ | [zh_Hant_HK](/f24/language/zh_Hant_HK) | 507 | 507 | 100.0 | /mnt/stockage/packages/f24/gwget/po/zh_HK.po | 
+ | [ro](/f24/language/ro) | 274 | 275 | 99.6 | /mnt/stockage/packages/f24/gwget/po/ro.po | 
+ | [ar](/f24/language/ar) | 526 | 550 | 95.6 | /mnt/stockage/packages/f24/gwget/po/ar.po | 
+ | [tr](/f24/language/tr) | 141 | 154 | 91.6 | /mnt/stockage/packages/f24/gwget/po/tr.po | 
+ | [ja](/f24/language/ja) | 128 | 154 | 83.1 | /mnt/stockage/packages/f24/gwget/po/ja.po | 
+ | [el](/f24/language/el) | 430 | 525 | 81.9 | /mnt/stockage/packages/f24/gwget/po/el.po | 
+ | [nb_NO](/f24/language/nb_NO) | 72 | 553 | 13.0 | /mnt/stockage/packages/f24/gwget/po/nb.po | 
+ | [oc](/f24/language/oc) | 65 | 545 | 11.9 | /mnt/stockage/packages/f24/gwget/po/oc.po | 
+ | [rw](/f24/language/rw) | 32 | 458 | 7.0 | /mnt/stockage/packages/f24/gwget/po/rw.po | 
+ | [zh_Hans](/f24/language/zh_Hans) | 0 | 0 | 0.0 | /mnt/stockage/packages/f24/gwget/po/zh_CN.po | 
 {.sortable}
 
 

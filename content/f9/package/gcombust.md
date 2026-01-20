@@ -18,22 +18,22 @@ The package gcombust (version 0.1.55):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f9/language/de.md" >}}) | 3941 | 4009 | 98.3 | /mnt/stockage/packages/f9/gcombust/po/de.po | 
- | [hu]({{< ref "/f9/language/hu.md" >}}) | 3941 | 4009 | 98.3 | /mnt/stockage/packages/f9/gcombust/po/hu.po | 
- | [da]({{< ref "/f9/language/da.md" >}}) | 3784 | 4009 | 94.4 | /mnt/stockage/packages/f9/gcombust/po/da.po | 
- | [pl]({{< ref "/f9/language/pl.md" >}}) | 3760 | 4009 | 93.8 | /mnt/stockage/packages/f9/gcombust/po/pl.po | 
- | [es]({{< ref "/f9/language/es.md" >}}) | 2112 | 4009 | 52.7 | /mnt/stockage/packages/f9/gcombust/po/es.po | 
- | [sk]({{< ref "/f9/language/sk.md" >}}) | 2088 | 4009 | 52.1 | /mnt/stockage/packages/f9/gcombust/po/sk.po | 
- | [ru]({{< ref "/f9/language/ru.md" >}}) | 2081 | 4009 | 51.9 | /mnt/stockage/packages/f9/gcombust/po/ru.po | 
- | [nl]({{< ref "/f9/language/nl.md" >}}) | 2059 | 4009 | 51.4 | /mnt/stockage/packages/f9/gcombust/po/nl.po | 
- | [gl]({{< ref "/f9/language/gl.md" >}}) | 2046 | 4009 | 51.0 | /mnt/stockage/packages/f9/gcombust/po/gl.po | 
- | [hr]({{< ref "/f9/language/hr.md" >}}) | 2044 | 4009 | 51.0 | /mnt/stockage/packages/f9/gcombust/po/hr.po | 
- | [ja]({{< ref "/f9/language/ja.md" >}}) | 2018 | 4009 | 50.3 | /mnt/stockage/packages/f9/gcombust/po/ja.po | 
- | [fr]({{< ref "/f9/language/fr.md" >}}) | 1529 | 4009 | 38.1 | /mnt/stockage/packages/f9/gcombust/po/fr.po | 
- | [ko]({{< ref "/f9/language/ko.md" >}}) | 1154 | 4009 | 28.8 | /mnt/stockage/packages/f9/gcombust/po/ko.po | 
- | [nb_NO]({{< ref "/f9/language/nb_NO.md" >}}) | 859 | 4009 | 21.4 | /mnt/stockage/packages/f9/gcombust/po/no.po | 
- | [it]({{< ref "/f9/language/it.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f9/gcombust/po/it.po | 
- | [sv]({{< ref "/f9/language/sv.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f9/gcombust/po/sv.po | 
+ | [de](/f9/language/de) | 3941 | 4009 | 98.3 | /mnt/stockage/packages/f9/gcombust/po/de.po | 
+ | [hu](/f9/language/hu) | 3941 | 4009 | 98.3 | /mnt/stockage/packages/f9/gcombust/po/hu.po | 
+ | [da](/f9/language/da) | 3784 | 4009 | 94.4 | /mnt/stockage/packages/f9/gcombust/po/da.po | 
+ | [pl](/f9/language/pl) | 3760 | 4009 | 93.8 | /mnt/stockage/packages/f9/gcombust/po/pl.po | 
+ | [es](/f9/language/es) | 2112 | 4009 | 52.7 | /mnt/stockage/packages/f9/gcombust/po/es.po | 
+ | [sk](/f9/language/sk) | 2088 | 4009 | 52.1 | /mnt/stockage/packages/f9/gcombust/po/sk.po | 
+ | [ru](/f9/language/ru) | 2081 | 4009 | 51.9 | /mnt/stockage/packages/f9/gcombust/po/ru.po | 
+ | [nl](/f9/language/nl) | 2059 | 4009 | 51.4 | /mnt/stockage/packages/f9/gcombust/po/nl.po | 
+ | [gl](/f9/language/gl) | 2046 | 4009 | 51.0 | /mnt/stockage/packages/f9/gcombust/po/gl.po | 
+ | [hr](/f9/language/hr) | 2044 | 4009 | 51.0 | /mnt/stockage/packages/f9/gcombust/po/hr.po | 
+ | [ja](/f9/language/ja) | 2018 | 4009 | 50.3 | /mnt/stockage/packages/f9/gcombust/po/ja.po | 
+ | [fr](/f9/language/fr) | 1529 | 4009 | 38.1 | /mnt/stockage/packages/f9/gcombust/po/fr.po | 
+ | [ko](/f9/language/ko) | 1154 | 4009 | 28.8 | /mnt/stockage/packages/f9/gcombust/po/ko.po | 
+ | [nb_NO](/f9/language/nb_NO) | 859 | 4009 | 21.4 | /mnt/stockage/packages/f9/gcombust/po/no.po | 
+ | [it](/f9/language/it) | 0 | 0 | 0.0 | /mnt/stockage/packages/f9/gcombust/po/it.po | 
+ | [sv](/f9/language/sv) | 0 | 0 | 0.0 | /mnt/stockage/packages/f9/gcombust/po/sv.po | 
 {.sortable}
 
 

@@ -18,38 +18,38 @@ The package texinfo (version 6.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f24/language/ar.md" >}}) | 19 | 19 | 100.0 | /mnt/stockage/packages/f24/texinfo/tp/maintain/lib/libintl-perl/sample/simplecal/po/ar.po | 
- | [cs]({{< ref "/f24/language/cs.md" >}}) | 5459 | 5459 | 100.0 | /mnt/stockage/packages/f24/texinfo/po/cs.po | 
- | [es]({{< ref "/f24/language/es.md" >}}) | 6008 | 6008 | 100.0 | /mnt/stockage/packages/f24/texinfo/po/es.po/mnt/stockage/packages/f24/texinfo/po_document/es.po | 
- | [fr]({{< ref "/f24/language/fr.md" >}}) | 6027 | 6027 | 100.0 | /mnt/stockage/packages/f24/texinfo/po/fr.po/mnt/stockage/packages/f24/texinfo/po_document/fr.po/mnt/stockage/packages/f24/texinfo/tp/maintain/lib/libintl-perl/sample/simplecal/po/fr.po | 
- | [ga]({{< ref "/f24/language/ga.md" >}}) | 19 | 19 | 100.0 | /mnt/stockage/packages/f24/texinfo/tp/maintain/lib/libintl-perl/sample/simplecal/po/ga.po | 
- | [nl]({{< ref "/f24/language/nl.md" >}}) | 6027 | 6027 | 100.0 | /mnt/stockage/packages/f24/texinfo/po/nl.po/mnt/stockage/packages/f24/texinfo/po_document/nl.po/mnt/stockage/packages/f24/texinfo/tp/maintain/lib/libintl-perl/sample/simplecal/po/nl.po | 
- | [pl]({{< ref "/f24/language/pl.md" >}}) | 6008 | 6008 | 100.0 | /mnt/stockage/packages/f24/texinfo/po/pl.po/mnt/stockage/packages/f24/texinfo/po_document/pl.po | 
- | [ru]({{< ref "/f24/language/ru.md" >}}) | 5478 | 5478 | 100.0 | /mnt/stockage/packages/f24/texinfo/po/ru.po/mnt/stockage/packages/f24/texinfo/tp/maintain/lib/libintl-perl/sample/simplecal/po/ru.po | 
- | [uk]({{< ref "/f24/language/uk.md" >}}) | 6008 | 6008 | 100.0 | /mnt/stockage/packages/f24/texinfo/po/uk.po/mnt/stockage/packages/f24/texinfo/po_document/uk.po | 
- | [vi]({{< ref "/f24/language/vi.md" >}}) | 5459 | 5459 | 100.0 | /mnt/stockage/packages/f24/texinfo/po/vi.po | 
- | [ca]({{< ref "/f24/language/ca.md" >}}) | 5940 | 6008 | 98.9 | /mnt/stockage/packages/f24/texinfo/po/ca.po/mnt/stockage/packages/f24/texinfo/po_document/ca.us-ascii.po | 
- | [eo]({{< ref "/f24/language/eo.md" >}}) | 5940 | 6008 | 98.9 | /mnt/stockage/packages/f24/texinfo/po/eo.po/mnt/stockage/packages/f24/texinfo/po_document/eo.po | 
- | [de]({{< ref "/f24/language/de.md" >}}) | 5980 | 6065 | 98.6 | /mnt/stockage/packages/f24/texinfo/po/de.po/mnt/stockage/packages/f24/texinfo/po_document/de.us-ascii.po/mnt/stockage/packages/f24/texinfo/tp/maintain/lib/libintl-perl/sample/simplecal/po/de.po/mnt/stockage/packages/f24/texinfo/tp/maintain/lib/libintl-perl/tests/po/additional.de.po/mnt/stockage/packages/f24/texinfo/tp/maintain/lib/libintl-perl/tests/po/existing.de.po | 
- | [tr]({{< ref "/f24/language/tr.md" >}}) | 5374 | 5459 | 98.4 | /mnt/stockage/packages/f24/texinfo/po/tr.po | 
- | [pt_BR]({{< ref "/f24/language/pt_BR.md" >}}) | 5752 | 6027 | 95.4 | /mnt/stockage/packages/f24/texinfo/po/pt_BR.po/mnt/stockage/packages/f24/texinfo/po_document/pt_BR.us-ascii.po/mnt/stockage/packages/f24/texinfo/tp/maintain/lib/libintl-perl/sample/simplecal/po/pt_BR.po | 
- | [it]({{< ref "/f24/language/it.md" >}}) | 4870 | 6027 | 80.8 | /mnt/stockage/packages/f24/texinfo/po/it.po/mnt/stockage/packages/f24/texinfo/po_document/it.po/mnt/stockage/packages/f24/texinfo/tp/maintain/lib/libintl-perl/sample/simplecal/po/it.po | 
- | [id]({{< ref "/f24/language/id.md" >}}) | 4316 | 5459 | 79.1 | /mnt/stockage/packages/f24/texinfo/po/id.po | 
- | [hr]({{< ref "/f24/language/hr.md" >}}) | 3956 | 5459 | 72.5 | /mnt/stockage/packages/f24/texinfo/po/hr.po | 
- | [da]({{< ref "/f24/language/da.md" >}}) | 3822 | 5459 | 70.0 | /mnt/stockage/packages/f24/texinfo/po/da.po | 
- | [ar_SA]({{< ref "/f24/language/ar_SA.md" >}}) | 12 | 19 | 63.2 | /mnt/stockage/packages/f24/texinfo/tp/maintain/lib/libintl-perl/sample/simplecal/po/ar_SA.po | 
- | [pt]({{< ref "/f24/language/pt.md" >}}) | 316 | 568 | 55.6 | /mnt/stockage/packages/f24/texinfo/po_document/pt.us-ascii.po/mnt/stockage/packages/f24/texinfo/tp/maintain/lib/libintl-perl/sample/simplecal/po/pt.po | 
- | [ja]({{< ref "/f24/language/ja.md" >}}) | 2296 | 5459 | 42.1 | /mnt/stockage/packages/f24/texinfo/po/ja.po | 
- | [sv]({{< ref "/f24/language/sv.md" >}}) | 1797 | 5459 | 32.9 | /mnt/stockage/packages/f24/texinfo/po/sv.po | 
- | [zh_Hans]({{< ref "/f24/language/zh_Hans.md" >}}) | 1782 | 5459 | 32.6 | /mnt/stockage/packages/f24/texinfo/po/zh_CN.po | 
- | [sl]({{< ref "/f24/language/sl.md" >}}) | 1776 | 5459 | 32.5 | /mnt/stockage/packages/f24/texinfo/po/sl.po | 
- | [hu]({{< ref "/f24/language/hu.md" >}}) | 1748 | 6008 | 29.1 | /mnt/stockage/packages/f24/texinfo/po/hu.po/mnt/stockage/packages/f24/texinfo/po_document/hu.po | 
- | [ro]({{< ref "/f24/language/ro.md" >}}) | 1302 | 5459 | 23.9 | /mnt/stockage/packages/f24/texinfo/po/ro.po | 
- | [he]({{< ref "/f24/language/he.md" >}}) | 1267 | 5459 | 23.2 | /mnt/stockage/packages/f24/texinfo/po/he.po | 
- | [nb_NO]({{< ref "/f24/language/nb_NO.md" >}}) | 1326 | 6008 | 22.1 | /mnt/stockage/packages/f24/texinfo/po/nb.po/mnt/stockage/packages/f24/texinfo/po_document/no.us-ascii.po | 
- | [zh_Hant]({{< ref "/f24/language/zh_Hant.md" >}}) | 1094 | 5459 | 20.0 | /mnt/stockage/packages/f24/texinfo/po/zh_TW.po | 
- | [de_AT]({{< ref "/f24/language/de_AT.md" >}}) | 5 | 5481 | 0.1 | /mnt/stockage/packages/f24/texinfo/po/de_AT.po/mnt/stockage/packages/f24/texinfo/tp/maintain/lib/libintl-perl/sample/simplecal/po/de_AT.po/mnt/stockage/packages/f24/texinfo/tp/maintain/lib/libintl-perl/tests/po/additional.de_AT.po/mnt/stockage/packages/f24/texinfo/tp/maintain/lib/libintl-perl/tests/po/existing.de_AT.po | 
- | [rw]({{< ref "/f24/language/rw.md" >}}) | 2 | 5459 | 0.0 | /mnt/stockage/packages/f24/texinfo/po/rw.po | 
+ | [ar](/f24/language/ar) | 19 | 19 | 100.0 | /mnt/stockage/packages/f24/texinfo/tp/maintain/lib/libintl-perl/sample/simplecal/po/ar.po | 
+ | [cs](/f24/language/cs) | 5459 | 5459 | 100.0 | /mnt/stockage/packages/f24/texinfo/po/cs.po | 
+ | [es](/f24/language/es) | 6008 | 6008 | 100.0 | /mnt/stockage/packages/f24/texinfo/po/es.po/mnt/stockage/packages/f24/texinfo/po_document/es.po | 
+ | [fr](/f24/language/fr) | 6027 | 6027 | 100.0 | /mnt/stockage/packages/f24/texinfo/po/fr.po/mnt/stockage/packages/f24/texinfo/po_document/fr.po/mnt/stockage/packages/f24/texinfo/tp/maintain/lib/libintl-perl/sample/simplecal/po/fr.po | 
+ | [ga](/f24/language/ga) | 19 | 19 | 100.0 | /mnt/stockage/packages/f24/texinfo/tp/maintain/lib/libintl-perl/sample/simplecal/po/ga.po | 
+ | [nl](/f24/language/nl) | 6027 | 6027 | 100.0 | /mnt/stockage/packages/f24/texinfo/po/nl.po/mnt/stockage/packages/f24/texinfo/po_document/nl.po/mnt/stockage/packages/f24/texinfo/tp/maintain/lib/libintl-perl/sample/simplecal/po/nl.po | 
+ | [pl](/f24/language/pl) | 6008 | 6008 | 100.0 | /mnt/stockage/packages/f24/texinfo/po/pl.po/mnt/stockage/packages/f24/texinfo/po_document/pl.po | 
+ | [ru](/f24/language/ru) | 5478 | 5478 | 100.0 | /mnt/stockage/packages/f24/texinfo/po/ru.po/mnt/stockage/packages/f24/texinfo/tp/maintain/lib/libintl-perl/sample/simplecal/po/ru.po | 
+ | [uk](/f24/language/uk) | 6008 | 6008 | 100.0 | /mnt/stockage/packages/f24/texinfo/po/uk.po/mnt/stockage/packages/f24/texinfo/po_document/uk.po | 
+ | [vi](/f24/language/vi) | 5459 | 5459 | 100.0 | /mnt/stockage/packages/f24/texinfo/po/vi.po | 
+ | [ca](/f24/language/ca) | 5940 | 6008 | 98.9 | /mnt/stockage/packages/f24/texinfo/po/ca.po/mnt/stockage/packages/f24/texinfo/po_document/ca.us-ascii.po | 
+ | [eo](/f24/language/eo) | 5940 | 6008 | 98.9 | /mnt/stockage/packages/f24/texinfo/po/eo.po/mnt/stockage/packages/f24/texinfo/po_document/eo.po | 
+ | [de](/f24/language/de) | 5980 | 6065 | 98.6 | /mnt/stockage/packages/f24/texinfo/po/de.po/mnt/stockage/packages/f24/texinfo/po_document/de.us-ascii.po/mnt/stockage/packages/f24/texinfo/tp/maintain/lib/libintl-perl/sample/simplecal/po/de.po/mnt/stockage/packages/f24/texinfo/tp/maintain/lib/libintl-perl/tests/po/additional.de.po/mnt/stockage/packages/f24/texinfo/tp/maintain/lib/libintl-perl/tests/po/existing.de.po | 
+ | [tr](/f24/language/tr) | 5374 | 5459 | 98.4 | /mnt/stockage/packages/f24/texinfo/po/tr.po | 
+ | [pt_BR](/f24/language/pt_BR) | 5752 | 6027 | 95.4 | /mnt/stockage/packages/f24/texinfo/po/pt_BR.po/mnt/stockage/packages/f24/texinfo/po_document/pt_BR.us-ascii.po/mnt/stockage/packages/f24/texinfo/tp/maintain/lib/libintl-perl/sample/simplecal/po/pt_BR.po | 
+ | [it](/f24/language/it) | 4870 | 6027 | 80.8 | /mnt/stockage/packages/f24/texinfo/po/it.po/mnt/stockage/packages/f24/texinfo/po_document/it.po/mnt/stockage/packages/f24/texinfo/tp/maintain/lib/libintl-perl/sample/simplecal/po/it.po | 
+ | [id](/f24/language/id) | 4316 | 5459 | 79.1 | /mnt/stockage/packages/f24/texinfo/po/id.po | 
+ | [hr](/f24/language/hr) | 3956 | 5459 | 72.5 | /mnt/stockage/packages/f24/texinfo/po/hr.po | 
+ | [da](/f24/language/da) | 3822 | 5459 | 70.0 | /mnt/stockage/packages/f24/texinfo/po/da.po | 
+ | [ar_SA](/f24/language/ar_SA) | 12 | 19 | 63.2 | /mnt/stockage/packages/f24/texinfo/tp/maintain/lib/libintl-perl/sample/simplecal/po/ar_SA.po | 
+ | [pt](/f24/language/pt) | 316 | 568 | 55.6 | /mnt/stockage/packages/f24/texinfo/po_document/pt.us-ascii.po/mnt/stockage/packages/f24/texinfo/tp/maintain/lib/libintl-perl/sample/simplecal/po/pt.po | 
+ | [ja](/f24/language/ja) | 2296 | 5459 | 42.1 | /mnt/stockage/packages/f24/texinfo/po/ja.po | 
+ | [sv](/f24/language/sv) | 1797 | 5459 | 32.9 | /mnt/stockage/packages/f24/texinfo/po/sv.po | 
+ | [zh_Hans](/f24/language/zh_Hans) | 1782 | 5459 | 32.6 | /mnt/stockage/packages/f24/texinfo/po/zh_CN.po | 
+ | [sl](/f24/language/sl) | 1776 | 5459 | 32.5 | /mnt/stockage/packages/f24/texinfo/po/sl.po | 
+ | [hu](/f24/language/hu) | 1748 | 6008 | 29.1 | /mnt/stockage/packages/f24/texinfo/po/hu.po/mnt/stockage/packages/f24/texinfo/po_document/hu.po | 
+ | [ro](/f24/language/ro) | 1302 | 5459 | 23.9 | /mnt/stockage/packages/f24/texinfo/po/ro.po | 
+ | [he](/f24/language/he) | 1267 | 5459 | 23.2 | /mnt/stockage/packages/f24/texinfo/po/he.po | 
+ | [nb_NO](/f24/language/nb_NO) | 1326 | 6008 | 22.1 | /mnt/stockage/packages/f24/texinfo/po/nb.po/mnt/stockage/packages/f24/texinfo/po_document/no.us-ascii.po | 
+ | [zh_Hant](/f24/language/zh_Hant) | 1094 | 5459 | 20.0 | /mnt/stockage/packages/f24/texinfo/po/zh_TW.po | 
+ | [de_AT](/f24/language/de_AT) | 5 | 5481 | 0.1 | /mnt/stockage/packages/f24/texinfo/po/de_AT.po/mnt/stockage/packages/f24/texinfo/tp/maintain/lib/libintl-perl/sample/simplecal/po/de_AT.po/mnt/stockage/packages/f24/texinfo/tp/maintain/lib/libintl-perl/tests/po/additional.de_AT.po/mnt/stockage/packages/f24/texinfo/tp/maintain/lib/libintl-perl/tests/po/existing.de_AT.po | 
+ | [rw](/f24/language/rw) | 2 | 5459 | 0.0 | /mnt/stockage/packages/f24/texinfo/po/rw.po | 
 {.sortable}
 
 

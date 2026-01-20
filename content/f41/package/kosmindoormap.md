@@ -18,40 +18,40 @@ The package kosmindoormap (version 25.04.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f41/language/ar.md" >}}) | 616 | 616 | 100.0 | /mnt/stockage/packages/f41/kosmindoormap/po/ar/kosmindoormap.po | 
- | [ca]({{< ref "/f41/language/ca.md" >}}) | 616 | 616 | 100.0 | /mnt/stockage/packages/f41/kosmindoormap/po/ca/kosmindoormap.po | 
- | [ca@valencia]({{< ref "/f41/language/ca@valencia.md" >}}) | 616 | 616 | 100.0 | /mnt/stockage/packages/f41/kosmindoormap/po/ca@valencia/kosmindoormap.po | 
- | [en_GB]({{< ref "/f41/language/en_GB.md" >}}) | 616 | 616 | 100.0 | /mnt/stockage/packages/f41/kosmindoormap/po/en_GB/kosmindoormap.po | 
- | [eo]({{< ref "/f41/language/eo.md" >}}) | 616 | 616 | 100.0 | /mnt/stockage/packages/f41/kosmindoormap/po/eo/kosmindoormap.po | 
- | [es]({{< ref "/f41/language/es.md" >}}) | 616 | 616 | 100.0 | /mnt/stockage/packages/f41/kosmindoormap/po/es/kosmindoormap.po | 
- | [eu]({{< ref "/f41/language/eu.md" >}}) | 616 | 616 | 100.0 | /mnt/stockage/packages/f41/kosmindoormap/po/eu/kosmindoormap.po | 
- | [fr]({{< ref "/f41/language/fr.md" >}}) | 616 | 616 | 100.0 | /mnt/stockage/packages/f41/kosmindoormap/po/fr/kosmindoormap.po | 
- | [gl]({{< ref "/f41/language/gl.md" >}}) | 616 | 616 | 100.0 | /mnt/stockage/packages/f41/kosmindoormap/po/gl/kosmindoormap.po | 
- | [he]({{< ref "/f41/language/he.md" >}}) | 616 | 616 | 100.0 | /mnt/stockage/packages/f41/kosmindoormap/po/he/kosmindoormap.po | 
- | [hi]({{< ref "/f41/language/hi.md" >}}) | 616 | 616 | 100.0 | /mnt/stockage/packages/f41/kosmindoormap/po/hi/kosmindoormap.po | 
- | [it]({{< ref "/f41/language/it.md" >}}) | 616 | 616 | 100.0 | /mnt/stockage/packages/f41/kosmindoormap/po/it/kosmindoormap.po | 
- | [ka]({{< ref "/f41/language/ka.md" >}}) | 616 | 616 | 100.0 | /mnt/stockage/packages/f41/kosmindoormap/po/ka/kosmindoormap.po | 
- | [ko]({{< ref "/f41/language/ko.md" >}}) | 616 | 616 | 100.0 | /mnt/stockage/packages/f41/kosmindoormap/po/ko/kosmindoormap.po | 
- | [nl]({{< ref "/f41/language/nl.md" >}}) | 616 | 616 | 100.0 | /mnt/stockage/packages/f41/kosmindoormap/po/nl/kosmindoormap.po | 
- | [pl]({{< ref "/f41/language/pl.md" >}}) | 616 | 616 | 100.0 | /mnt/stockage/packages/f41/kosmindoormap/po/pl/kosmindoormap.po | 
- | [ru]({{< ref "/f41/language/ru.md" >}}) | 616 | 616 | 100.0 | /mnt/stockage/packages/f41/kosmindoormap/po/ru/kosmindoormap.po | 
- | [sa]({{< ref "/f41/language/sa.md" >}}) | 616 | 616 | 100.0 | /mnt/stockage/packages/f41/kosmindoormap/po/sa/kosmindoormap.po | 
- | [sl]({{< ref "/f41/language/sl.md" >}}) | 616 | 616 | 100.0 | /mnt/stockage/packages/f41/kosmindoormap/po/sl/kosmindoormap.po | 
- | [sv]({{< ref "/f41/language/sv.md" >}}) | 616 | 616 | 100.0 | /mnt/stockage/packages/f41/kosmindoormap/po/sv/kosmindoormap.po | 
- | [tr]({{< ref "/f41/language/tr.md" >}}) | 616 | 616 | 100.0 | /mnt/stockage/packages/f41/kosmindoormap/po/tr/kosmindoormap.po | 
- | [uk]({{< ref "/f41/language/uk.md" >}}) | 616 | 616 | 100.0 | /mnt/stockage/packages/f41/kosmindoormap/po/uk/kosmindoormap.po | 
- | [fi]({{< ref "/f41/language/fi.md" >}}) | 578 | 616 | 93.8 | /mnt/stockage/packages/f41/kosmindoormap/po/fi/kosmindoormap.po | 
- | [zh_Hant]({{< ref "/f41/language/zh_Hant.md" >}}) | 500 | 616 | 81.2 | /mnt/stockage/packages/f41/kosmindoormap/po/zh_TW/kosmindoormap.po | 
- | [pt]({{< ref "/f41/language/pt.md" >}}) | 450 | 616 | 73.1 | /mnt/stockage/packages/f41/kosmindoormap/po/pt/kosmindoormap.po | 
- | [cs]({{< ref "/f41/language/cs.md" >}}) | 427 | 616 | 69.3 | /mnt/stockage/packages/f41/kosmindoormap/po/cs/kosmindoormap.po | 
- | [de]({{< ref "/f41/language/de.md" >}}) | 421 | 616 | 68.3 | /mnt/stockage/packages/f41/kosmindoormap/po/de/kosmindoormap.po | 
- | [pt_BR]({{< ref "/f41/language/pt_BR.md" >}}) | 282 | 616 | 45.8 | /mnt/stockage/packages/f41/kosmindoormap/po/pt_BR/kosmindoormap.po | 
- | [sk]({{< ref "/f41/language/sk.md" >}}) | 186 | 616 | 30.2 | /mnt/stockage/packages/f41/kosmindoormap/po/sk/kosmindoormap.po | 
- | [ia]({{< ref "/f41/language/ia.md" >}}) | 168 | 616 | 27.3 | /mnt/stockage/packages/f41/kosmindoormap/po/ia/kosmindoormap.po | 
- | [zh_Hans]({{< ref "/f41/language/zh_Hans.md" >}}) | 164 | 616 | 26.6 | /mnt/stockage/packages/f41/kosmindoormap/po/zh_CN/kosmindoormap.po | 
- | [ast]({{< ref "/f41/language/ast.md" >}}) | 2 | 616 | 0.3 | /mnt/stockage/packages/f41/kosmindoormap/po/ast/kosmindoormap.po | 
- | [ja]({{< ref "/f41/language/ja.md" >}}) | 0 | 616 | 0.0 | /mnt/stockage/packages/f41/kosmindoormap/po/ja/kosmindoormap.po | 
- | [lt]({{< ref "/f41/language/lt.md" >}}) | 0 | 616 | 0.0 | /mnt/stockage/packages/f41/kosmindoormap/po/lt/kosmindoormap.po | 
+ | [ar](/f41/language/ar) | 616 | 616 | 100.0 | /mnt/stockage/packages/f41/kosmindoormap/po/ar/kosmindoormap.po | 
+ | [ca](/f41/language/ca) | 616 | 616 | 100.0 | /mnt/stockage/packages/f41/kosmindoormap/po/ca/kosmindoormap.po | 
+ | [ca@valencia](/f41/language/ca@valencia) | 616 | 616 | 100.0 | /mnt/stockage/packages/f41/kosmindoormap/po/ca@valencia/kosmindoormap.po | 
+ | [en_GB](/f41/language/en_GB) | 616 | 616 | 100.0 | /mnt/stockage/packages/f41/kosmindoormap/po/en_GB/kosmindoormap.po | 
+ | [eo](/f41/language/eo) | 616 | 616 | 100.0 | /mnt/stockage/packages/f41/kosmindoormap/po/eo/kosmindoormap.po | 
+ | [es](/f41/language/es) | 616 | 616 | 100.0 | /mnt/stockage/packages/f41/kosmindoormap/po/es/kosmindoormap.po | 
+ | [eu](/f41/language/eu) | 616 | 616 | 100.0 | /mnt/stockage/packages/f41/kosmindoormap/po/eu/kosmindoormap.po | 
+ | [fr](/f41/language/fr) | 616 | 616 | 100.0 | /mnt/stockage/packages/f41/kosmindoormap/po/fr/kosmindoormap.po | 
+ | [gl](/f41/language/gl) | 616 | 616 | 100.0 | /mnt/stockage/packages/f41/kosmindoormap/po/gl/kosmindoormap.po | 
+ | [he](/f41/language/he) | 616 | 616 | 100.0 | /mnt/stockage/packages/f41/kosmindoormap/po/he/kosmindoormap.po | 
+ | [hi](/f41/language/hi) | 616 | 616 | 100.0 | /mnt/stockage/packages/f41/kosmindoormap/po/hi/kosmindoormap.po | 
+ | [it](/f41/language/it) | 616 | 616 | 100.0 | /mnt/stockage/packages/f41/kosmindoormap/po/it/kosmindoormap.po | 
+ | [ka](/f41/language/ka) | 616 | 616 | 100.0 | /mnt/stockage/packages/f41/kosmindoormap/po/ka/kosmindoormap.po | 
+ | [ko](/f41/language/ko) | 616 | 616 | 100.0 | /mnt/stockage/packages/f41/kosmindoormap/po/ko/kosmindoormap.po | 
+ | [nl](/f41/language/nl) | 616 | 616 | 100.0 | /mnt/stockage/packages/f41/kosmindoormap/po/nl/kosmindoormap.po | 
+ | [pl](/f41/language/pl) | 616 | 616 | 100.0 | /mnt/stockage/packages/f41/kosmindoormap/po/pl/kosmindoormap.po | 
+ | [ru](/f41/language/ru) | 616 | 616 | 100.0 | /mnt/stockage/packages/f41/kosmindoormap/po/ru/kosmindoormap.po | 
+ | [sa](/f41/language/sa) | 616 | 616 | 100.0 | /mnt/stockage/packages/f41/kosmindoormap/po/sa/kosmindoormap.po | 
+ | [sl](/f41/language/sl) | 616 | 616 | 100.0 | /mnt/stockage/packages/f41/kosmindoormap/po/sl/kosmindoormap.po | 
+ | [sv](/f41/language/sv) | 616 | 616 | 100.0 | /mnt/stockage/packages/f41/kosmindoormap/po/sv/kosmindoormap.po | 
+ | [tr](/f41/language/tr) | 616 | 616 | 100.0 | /mnt/stockage/packages/f41/kosmindoormap/po/tr/kosmindoormap.po | 
+ | [uk](/f41/language/uk) | 616 | 616 | 100.0 | /mnt/stockage/packages/f41/kosmindoormap/po/uk/kosmindoormap.po | 
+ | [fi](/f41/language/fi) | 578 | 616 | 93.8 | /mnt/stockage/packages/f41/kosmindoormap/po/fi/kosmindoormap.po | 
+ | [zh_Hant](/f41/language/zh_Hant) | 500 | 616 | 81.2 | /mnt/stockage/packages/f41/kosmindoormap/po/zh_TW/kosmindoormap.po | 
+ | [pt](/f41/language/pt) | 450 | 616 | 73.1 | /mnt/stockage/packages/f41/kosmindoormap/po/pt/kosmindoormap.po | 
+ | [cs](/f41/language/cs) | 427 | 616 | 69.3 | /mnt/stockage/packages/f41/kosmindoormap/po/cs/kosmindoormap.po | 
+ | [de](/f41/language/de) | 421 | 616 | 68.3 | /mnt/stockage/packages/f41/kosmindoormap/po/de/kosmindoormap.po | 
+ | [pt_BR](/f41/language/pt_BR) | 282 | 616 | 45.8 | /mnt/stockage/packages/f41/kosmindoormap/po/pt_BR/kosmindoormap.po | 
+ | [sk](/f41/language/sk) | 186 | 616 | 30.2 | /mnt/stockage/packages/f41/kosmindoormap/po/sk/kosmindoormap.po | 
+ | [ia](/f41/language/ia) | 168 | 616 | 27.3 | /mnt/stockage/packages/f41/kosmindoormap/po/ia/kosmindoormap.po | 
+ | [zh_Hans](/f41/language/zh_Hans) | 164 | 616 | 26.6 | /mnt/stockage/packages/f41/kosmindoormap/po/zh_CN/kosmindoormap.po | 
+ | [ast](/f41/language/ast) | 2 | 616 | 0.3 | /mnt/stockage/packages/f41/kosmindoormap/po/ast/kosmindoormap.po | 
+ | [ja](/f41/language/ja) | 0 | 616 | 0.0 | /mnt/stockage/packages/f41/kosmindoormap/po/ja/kosmindoormap.po | 
+ | [lt](/f41/language/lt) | 0 | 616 | 0.0 | /mnt/stockage/packages/f41/kosmindoormap/po/lt/kosmindoormap.po | 
 {.sortable}
 
 

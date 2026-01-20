@@ -18,17 +18,17 @@ The package cura (version 15.04.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [es]({{< ref "/f26/language/es.md" >}}) | 5229 | 5232 | 99.9 | /mnt/stockage/packages/f26/cura/resources/locale/es/LC_MESSAGES/Cura.po | 
- | [ru]({{< ref "/f26/language/ru.md" >}}) | 5216 | 5232 | 99.7 | /mnt/stockage/packages/f26/cura/resources/locale/ru/LC_MESSAGES/Cura.po | 
- | [it]({{< ref "/f26/language/it.md" >}}) | 4988 | 5232 | 95.3 | /mnt/stockage/packages/f26/cura/resources/locale/it/LC_MESSAGES/Cura.po | 
- | [ko]({{< ref "/f26/language/ko.md" >}}) | 4988 | 5232 | 95.3 | /mnt/stockage/packages/f26/cura/resources/locale/ko/LC_MESSAGES/Cura.po | 
- | [de]({{< ref "/f26/language/de.md" >}}) | 4884 | 5232 | 93.3 | /mnt/stockage/packages/f26/cura/resources/locale/de/LC_MESSAGES/Cura.po | 
- | [fr]({{< ref "/f26/language/fr.md" >}}) | 4884 | 5232 | 93.3 | /mnt/stockage/packages/f26/cura/resources/locale/fr/LC_MESSAGES/Cura.po | 
- | [cs]({{< ref "/f26/language/cs.md" >}}) | 4375 | 5232 | 83.6 | /mnt/stockage/packages/f26/cura/resources/locale/cs/LC_MESSAGES/Cura.po | 
- | [zh_Hans]({{< ref "/f26/language/zh_Hans.md" >}}) | 4155 | 5232 | 79.4 | /mnt/stockage/packages/f26/cura/resources/locale/zh/LC_MESSAGES/Cura.po | 
- | [nl]({{< ref "/f26/language/nl.md" >}}) | 2910 | 5232 | 55.6 | /mnt/stockage/packages/f26/cura/resources/locale/nl/LC_MESSAGES/Cura.po | 
- | [error]({{< ref "/f26/language/error.md" >}}) | 2817 | 5232 | 53.8 | /mnt/stockage/packages/f26/cura/resources/locale/po/LC_MESSAGES/Cura.po | 
- | [en]({{< ref "/f26/language/en.md" >}}) | 4132 | 10464 | 39.5 | /mnt/stockage/packages/f26/cura/resources/locale/en/LC_MESSAGES/Cura.po/mnt/stockage/packages/f26/cura/resources/locale/tr/LC_MESSAGES/Cura.po | 
+ | [es](/f26/language/es) | 5229 | 5232 | 99.9 | /mnt/stockage/packages/f26/cura/resources/locale/es/LC_MESSAGES/Cura.po | 
+ | [ru](/f26/language/ru) | 5216 | 5232 | 99.7 | /mnt/stockage/packages/f26/cura/resources/locale/ru/LC_MESSAGES/Cura.po | 
+ | [it](/f26/language/it) | 4988 | 5232 | 95.3 | /mnt/stockage/packages/f26/cura/resources/locale/it/LC_MESSAGES/Cura.po | 
+ | [ko](/f26/language/ko) | 4988 | 5232 | 95.3 | /mnt/stockage/packages/f26/cura/resources/locale/ko/LC_MESSAGES/Cura.po | 
+ | [de](/f26/language/de) | 4884 | 5232 | 93.3 | /mnt/stockage/packages/f26/cura/resources/locale/de/LC_MESSAGES/Cura.po | 
+ | [fr](/f26/language/fr) | 4884 | 5232 | 93.3 | /mnt/stockage/packages/f26/cura/resources/locale/fr/LC_MESSAGES/Cura.po | 
+ | [cs](/f26/language/cs) | 4375 | 5232 | 83.6 | /mnt/stockage/packages/f26/cura/resources/locale/cs/LC_MESSAGES/Cura.po | 
+ | [zh_Hans](/f26/language/zh_Hans) | 4155 | 5232 | 79.4 | /mnt/stockage/packages/f26/cura/resources/locale/zh/LC_MESSAGES/Cura.po | 
+ | [nl](/f26/language/nl) | 2910 | 5232 | 55.6 | /mnt/stockage/packages/f26/cura/resources/locale/nl/LC_MESSAGES/Cura.po | 
+ | [error](/f26/language/error) | 2817 | 5232 | 53.8 | /mnt/stockage/packages/f26/cura/resources/locale/po/LC_MESSAGES/Cura.po | 
+ | [en](/f26/language/en) | 4132 | 10464 | 39.5 | /mnt/stockage/packages/f26/cura/resources/locale/en/LC_MESSAGES/Cura.po/mnt/stockage/packages/f26/cura/resources/locale/tr/LC_MESSAGES/Cura.po | 
 {.sortable}
 
 

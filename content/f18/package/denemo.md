@@ -18,14 +18,14 @@ The package denemo (version 0.9.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f18/language/cs.md" >}}) | 795 | 1097 | 72.5 | /mnt/stockage/packages/f18/denemo/po/cs.po | 
- | [ja]({{< ref "/f18/language/ja.md" >}}) | 747 | 1097 | 68.1 | /mnt/stockage/packages/f18/denemo/po/ja.po | 
- | [pl]({{< ref "/f18/language/pl.md" >}}) | 586 | 1097 | 53.4 | /mnt/stockage/packages/f18/denemo/po/pl.po | 
- | [de]({{< ref "/f18/language/de.md" >}}) | 521 | 1097 | 47.5 | /mnt/stockage/packages/f18/denemo/po/de.po | 
- | [fr]({{< ref "/f18/language/fr.md" >}}) | 328 | 1097 | 29.9 | /mnt/stockage/packages/f18/denemo/po/fr.po | 
- | [sv]({{< ref "/f18/language/sv.md" >}}) | 54 | 1097 | 4.9 | /mnt/stockage/packages/f18/denemo/po/sv.po | 
- | [es]({{< ref "/f18/language/es.md" >}}) | 0 | 1097 | 0.0 | /mnt/stockage/packages/f18/denemo/po/es.po | 
- | [it]({{< ref "/f18/language/it.md" >}}) | 0 | 1097 | 0.0 | /mnt/stockage/packages/f18/denemo/po/it.po | 
+ | [cs](/f18/language/cs) | 795 | 1097 | 72.5 | /mnt/stockage/packages/f18/denemo/po/cs.po | 
+ | [ja](/f18/language/ja) | 747 | 1097 | 68.1 | /mnt/stockage/packages/f18/denemo/po/ja.po | 
+ | [pl](/f18/language/pl) | 586 | 1097 | 53.4 | /mnt/stockage/packages/f18/denemo/po/pl.po | 
+ | [de](/f18/language/de) | 521 | 1097 | 47.5 | /mnt/stockage/packages/f18/denemo/po/de.po | 
+ | [fr](/f18/language/fr) | 328 | 1097 | 29.9 | /mnt/stockage/packages/f18/denemo/po/fr.po | 
+ | [sv](/f18/language/sv) | 54 | 1097 | 4.9 | /mnt/stockage/packages/f18/denemo/po/sv.po | 
+ | [es](/f18/language/es) | 0 | 1097 | 0.0 | /mnt/stockage/packages/f18/denemo/po/es.po | 
+ | [it](/f18/language/it) | 0 | 1097 | 0.0 | /mnt/stockage/packages/f18/denemo/po/it.po | 
 {.sortable}
 
 

@@ -18,52 +18,52 @@ The package krusader (version 2.5.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f27/language/ca.md" >}}) | 7908 | 7908 | 100.0 | /mnt/stockage/packages/f27/krusader/po/ca/krusader.po | 
- | [ca@valencia]({{< ref "/f27/language/ca@valencia.md" >}}) | 7908 | 7908 | 100.0 | /mnt/stockage/packages/f27/krusader/po/ca@valencia/krusader.po | 
- | [en_GB]({{< ref "/f27/language/en_GB.md" >}}) | 7908 | 7908 | 100.0 | /mnt/stockage/packages/f27/krusader/po/en_GB/krusader.po | 
- | [es]({{< ref "/f27/language/es.md" >}}) | 7908 | 7908 | 100.0 | /mnt/stockage/packages/f27/krusader/po/es/krusader.po | 
- | [nl]({{< ref "/f27/language/nl.md" >}}) | 7908 | 7908 | 100.0 | /mnt/stockage/packages/f27/krusader/po/nl/krusader.po | 
- | [pl]({{< ref "/f27/language/pl.md" >}}) | 7908 | 7908 | 100.0 | /mnt/stockage/packages/f27/krusader/po/pl/krusader.po | 
- | [pt]({{< ref "/f27/language/pt.md" >}}) | 7908 | 7908 | 100.0 | /mnt/stockage/packages/f27/krusader/po/pt/krusader.po | 
- | [sv]({{< ref "/f27/language/sv.md" >}}) | 7908 | 7908 | 100.0 | /mnt/stockage/packages/f27/krusader/po/sv/krusader.po | 
- | [uk]({{< ref "/f27/language/uk.md" >}}) | 7908 | 7908 | 100.0 | /mnt/stockage/packages/f27/krusader/po/uk/krusader.po | 
- | [sr]({{< ref "/f27/language/sr.md" >}}) | 7899 | 7901 | 100.0 | /mnt/stockage/packages/f27/krusader/po/sr/krusader.po | 
- | [sr@ijekavian]({{< ref "/f27/language/sr@ijekavian.md" >}}) | 7899 | 7901 | 100.0 | /mnt/stockage/packages/f27/krusader/po/sr@ijekavian/krusader.po | 
- | [sr@ijekavian_Latn]({{< ref "/f27/language/sr@ijekavian_Latn.md" >}}) | 7899 | 7901 | 100.0 | /mnt/stockage/packages/f27/krusader/po/sr@ijekavianlatin/krusader.po | 
- | [sr_Latn]({{< ref "/f27/language/sr_Latn.md" >}}) | 7899 | 7901 | 100.0 | /mnt/stockage/packages/f27/krusader/po/sr@latin/krusader.po | 
- | [it]({{< ref "/f27/language/it.md" >}}) | 7901 | 7908 | 99.9 | /mnt/stockage/packages/f27/krusader/po/it/krusader.po | 
- | [sl]({{< ref "/f27/language/sl.md" >}}) | 7901 | 7908 | 99.9 | /mnt/stockage/packages/f27/krusader/po/sl/krusader.po | 
- | [cs]({{< ref "/f27/language/cs.md" >}}) | 7879 | 7908 | 99.6 | /mnt/stockage/packages/f27/krusader/po/cs/krusader.po | 
- | [de]({{< ref "/f27/language/de.md" >}}) | 7847 | 7908 | 99.2 | /mnt/stockage/packages/f27/krusader/po/de/krusader.po | 
- | [pt_BR]({{< ref "/f27/language/pt_BR.md" >}}) | 7815 | 7908 | 98.8 | /mnt/stockage/packages/f27/krusader/po/pt_BR/krusader.po | 
- | [gl]({{< ref "/f27/language/gl.md" >}}) | 7790 | 7908 | 98.5 | /mnt/stockage/packages/f27/krusader/po/gl/krusader.po | 
- | [da]({{< ref "/f27/language/da.md" >}}) | 7368 | 7908 | 93.2 | /mnt/stockage/packages/f27/krusader/po/da/krusader.po | 
- | [fi]({{< ref "/f27/language/fi.md" >}}) | 7368 | 7908 | 93.2 | /mnt/stockage/packages/f27/krusader/po/fi/krusader.po | 
- | [sk]({{< ref "/f27/language/sk.md" >}}) | 6725 | 7908 | 85.0 | /mnt/stockage/packages/f27/krusader/po/sk/krusader.po | 
- | [el]({{< ref "/f27/language/el.md" >}}) | 6648 | 7908 | 84.1 | /mnt/stockage/packages/f27/krusader/po/el/krusader.po | 
- | [tr]({{< ref "/f27/language/tr.md" >}}) | 6648 | 7908 | 84.1 | /mnt/stockage/packages/f27/krusader/po/tr/krusader.po | 
- | [nb_NO]({{< ref "/f27/language/nb_NO.md" >}}) | 6623 | 7908 | 83.8 | /mnt/stockage/packages/f27/krusader/po/nb/krusader.po | 
- | [bs]({{< ref "/f27/language/bs.md" >}}) | 6603 | 7908 | 83.5 | /mnt/stockage/packages/f27/krusader/po/bs/krusader.po | 
- | [fr]({{< ref "/f27/language/fr.md" >}}) | 6603 | 7908 | 83.5 | /mnt/stockage/packages/f27/krusader/po/fr/krusader.po | 
- | [hu]({{< ref "/f27/language/hu.md" >}}) | 6603 | 7908 | 83.5 | /mnt/stockage/packages/f27/krusader/po/hu/krusader.po | 
- | [nds]({{< ref "/f27/language/nds.md" >}}) | 6603 | 7908 | 83.5 | /mnt/stockage/packages/f27/krusader/po/nds/krusader.po | 
- | [bg]({{< ref "/f27/language/bg.md" >}}) | 6558 | 7908 | 82.9 | /mnt/stockage/packages/f27/krusader/po/bg/krusader.po | 
- | [et]({{< ref "/f27/language/et.md" >}}) | 6558 | 7908 | 82.9 | /mnt/stockage/packages/f27/krusader/po/et/krusader.po | 
- | [ru]({{< ref "/f27/language/ru.md" >}}) | 6558 | 7908 | 82.9 | /mnt/stockage/packages/f27/krusader/po/ru/krusader.po | 
- | [ro]({{< ref "/f27/language/ro.md" >}}) | 5306 | 7908 | 67.1 | /mnt/stockage/packages/f27/krusader/po/ro/krusader.po | 
- | [lt]({{< ref "/f27/language/lt.md" >}}) | 4052 | 7908 | 51.2 | /mnt/stockage/packages/f27/krusader/po/lt/krusader.po | 
- | [ko]({{< ref "/f27/language/ko.md" >}}) | 3518 | 7908 | 44.5 | /mnt/stockage/packages/f27/krusader/po/ko/krusader.po | 
- | [zh_Hans]({{< ref "/f27/language/zh_Hans.md" >}}) | 3156 | 7908 | 39.9 | /mnt/stockage/packages/f27/krusader/po/zh_CN/krusader.po | 
- | [ja]({{< ref "/f27/language/ja.md" >}}) | 1726 | 7908 | 21.8 | /mnt/stockage/packages/f27/krusader/po/ja/krusader.po | 
- | [ga]({{< ref "/f27/language/ga.md" >}}) | 666 | 7908 | 8.4 | /mnt/stockage/packages/f27/krusader/po/ga/krusader.po | 
- | [pa]({{< ref "/f27/language/pa.md" >}}) | 657 | 7908 | 8.3 | /mnt/stockage/packages/f27/krusader/po/pa/krusader.po | 
- | [ug]({{< ref "/f27/language/ug.md" >}}) | 619 | 7908 | 7.8 | /mnt/stockage/packages/f27/krusader/po/ug/krusader.po | 
- | [zh_Hant]({{< ref "/f27/language/zh_Hant.md" >}}) | 613 | 7908 | 7.8 | /mnt/stockage/packages/f27/krusader/po/zh_TW/krusader.po | 
- | [eo]({{< ref "/f27/language/eo.md" >}}) | 527 | 7908 | 6.7 | /mnt/stockage/packages/f27/krusader/po/eo/krusader.po | 
- | [mai]({{< ref "/f27/language/mai.md" >}}) | 400 | 7908 | 5.1 | /mnt/stockage/packages/f27/krusader/po/mai/krusader.po | 
- | [mr]({{< ref "/f27/language/mr.md" >}}) | 306 | 7908 | 3.9 | /mnt/stockage/packages/f27/krusader/po/mr/krusader.po | 
- | [ast]({{< ref "/f27/language/ast.md" >}}) | 41 | 7908 | 0.5 | /mnt/stockage/packages/f27/krusader/po/ast/krusader.po | 
- | [hr]({{< ref "/f27/language/hr.md" >}}) | 1 | 7908 | 0.0 | /mnt/stockage/packages/f27/krusader/po/hr/krusader.po | 
+ | [ca](/f27/language/ca) | 7908 | 7908 | 100.0 | /mnt/stockage/packages/f27/krusader/po/ca/krusader.po | 
+ | [ca@valencia](/f27/language/ca@valencia) | 7908 | 7908 | 100.0 | /mnt/stockage/packages/f27/krusader/po/ca@valencia/krusader.po | 
+ | [en_GB](/f27/language/en_GB) | 7908 | 7908 | 100.0 | /mnt/stockage/packages/f27/krusader/po/en_GB/krusader.po | 
+ | [es](/f27/language/es) | 7908 | 7908 | 100.0 | /mnt/stockage/packages/f27/krusader/po/es/krusader.po | 
+ | [nl](/f27/language/nl) | 7908 | 7908 | 100.0 | /mnt/stockage/packages/f27/krusader/po/nl/krusader.po | 
+ | [pl](/f27/language/pl) | 7908 | 7908 | 100.0 | /mnt/stockage/packages/f27/krusader/po/pl/krusader.po | 
+ | [pt](/f27/language/pt) | 7908 | 7908 | 100.0 | /mnt/stockage/packages/f27/krusader/po/pt/krusader.po | 
+ | [sv](/f27/language/sv) | 7908 | 7908 | 100.0 | /mnt/stockage/packages/f27/krusader/po/sv/krusader.po | 
+ | [uk](/f27/language/uk) | 7908 | 7908 | 100.0 | /mnt/stockage/packages/f27/krusader/po/uk/krusader.po | 
+ | [sr](/f27/language/sr) | 7899 | 7901 | 100.0 | /mnt/stockage/packages/f27/krusader/po/sr/krusader.po | 
+ | [sr@ijekavian](/f27/language/sr@ijekavian) | 7899 | 7901 | 100.0 | /mnt/stockage/packages/f27/krusader/po/sr@ijekavian/krusader.po | 
+ | [sr@ijekavian_Latn](/f27/language/sr@ijekavian_Latn) | 7899 | 7901 | 100.0 | /mnt/stockage/packages/f27/krusader/po/sr@ijekavianlatin/krusader.po | 
+ | [sr_Latn](/f27/language/sr_Latn) | 7899 | 7901 | 100.0 | /mnt/stockage/packages/f27/krusader/po/sr@latin/krusader.po | 
+ | [it](/f27/language/it) | 7901 | 7908 | 99.9 | /mnt/stockage/packages/f27/krusader/po/it/krusader.po | 
+ | [sl](/f27/language/sl) | 7901 | 7908 | 99.9 | /mnt/stockage/packages/f27/krusader/po/sl/krusader.po | 
+ | [cs](/f27/language/cs) | 7879 | 7908 | 99.6 | /mnt/stockage/packages/f27/krusader/po/cs/krusader.po | 
+ | [de](/f27/language/de) | 7847 | 7908 | 99.2 | /mnt/stockage/packages/f27/krusader/po/de/krusader.po | 
+ | [pt_BR](/f27/language/pt_BR) | 7815 | 7908 | 98.8 | /mnt/stockage/packages/f27/krusader/po/pt_BR/krusader.po | 
+ | [gl](/f27/language/gl) | 7790 | 7908 | 98.5 | /mnt/stockage/packages/f27/krusader/po/gl/krusader.po | 
+ | [da](/f27/language/da) | 7368 | 7908 | 93.2 | /mnt/stockage/packages/f27/krusader/po/da/krusader.po | 
+ | [fi](/f27/language/fi) | 7368 | 7908 | 93.2 | /mnt/stockage/packages/f27/krusader/po/fi/krusader.po | 
+ | [sk](/f27/language/sk) | 6725 | 7908 | 85.0 | /mnt/stockage/packages/f27/krusader/po/sk/krusader.po | 
+ | [el](/f27/language/el) | 6648 | 7908 | 84.1 | /mnt/stockage/packages/f27/krusader/po/el/krusader.po | 
+ | [tr](/f27/language/tr) | 6648 | 7908 | 84.1 | /mnt/stockage/packages/f27/krusader/po/tr/krusader.po | 
+ | [nb_NO](/f27/language/nb_NO) | 6623 | 7908 | 83.8 | /mnt/stockage/packages/f27/krusader/po/nb/krusader.po | 
+ | [bs](/f27/language/bs) | 6603 | 7908 | 83.5 | /mnt/stockage/packages/f27/krusader/po/bs/krusader.po | 
+ | [fr](/f27/language/fr) | 6603 | 7908 | 83.5 | /mnt/stockage/packages/f27/krusader/po/fr/krusader.po | 
+ | [hu](/f27/language/hu) | 6603 | 7908 | 83.5 | /mnt/stockage/packages/f27/krusader/po/hu/krusader.po | 
+ | [nds](/f27/language/nds) | 6603 | 7908 | 83.5 | /mnt/stockage/packages/f27/krusader/po/nds/krusader.po | 
+ | [bg](/f27/language/bg) | 6558 | 7908 | 82.9 | /mnt/stockage/packages/f27/krusader/po/bg/krusader.po | 
+ | [et](/f27/language/et) | 6558 | 7908 | 82.9 | /mnt/stockage/packages/f27/krusader/po/et/krusader.po | 
+ | [ru](/f27/language/ru) | 6558 | 7908 | 82.9 | /mnt/stockage/packages/f27/krusader/po/ru/krusader.po | 
+ | [ro](/f27/language/ro) | 5306 | 7908 | 67.1 | /mnt/stockage/packages/f27/krusader/po/ro/krusader.po | 
+ | [lt](/f27/language/lt) | 4052 | 7908 | 51.2 | /mnt/stockage/packages/f27/krusader/po/lt/krusader.po | 
+ | [ko](/f27/language/ko) | 3518 | 7908 | 44.5 | /mnt/stockage/packages/f27/krusader/po/ko/krusader.po | 
+ | [zh_Hans](/f27/language/zh_Hans) | 3156 | 7908 | 39.9 | /mnt/stockage/packages/f27/krusader/po/zh_CN/krusader.po | 
+ | [ja](/f27/language/ja) | 1726 | 7908 | 21.8 | /mnt/stockage/packages/f27/krusader/po/ja/krusader.po | 
+ | [ga](/f27/language/ga) | 666 | 7908 | 8.4 | /mnt/stockage/packages/f27/krusader/po/ga/krusader.po | 
+ | [pa](/f27/language/pa) | 657 | 7908 | 8.3 | /mnt/stockage/packages/f27/krusader/po/pa/krusader.po | 
+ | [ug](/f27/language/ug) | 619 | 7908 | 7.8 | /mnt/stockage/packages/f27/krusader/po/ug/krusader.po | 
+ | [zh_Hant](/f27/language/zh_Hant) | 613 | 7908 | 7.8 | /mnt/stockage/packages/f27/krusader/po/zh_TW/krusader.po | 
+ | [eo](/f27/language/eo) | 527 | 7908 | 6.7 | /mnt/stockage/packages/f27/krusader/po/eo/krusader.po | 
+ | [mai](/f27/language/mai) | 400 | 7908 | 5.1 | /mnt/stockage/packages/f27/krusader/po/mai/krusader.po | 
+ | [mr](/f27/language/mr) | 306 | 7908 | 3.9 | /mnt/stockage/packages/f27/krusader/po/mr/krusader.po | 
+ | [ast](/f27/language/ast) | 41 | 7908 | 0.5 | /mnt/stockage/packages/f27/krusader/po/ast/krusader.po | 
+ | [hr](/f27/language/hr) | 1 | 7908 | 0.0 | /mnt/stockage/packages/f27/krusader/po/hr/krusader.po | 
 {.sortable}
 
 

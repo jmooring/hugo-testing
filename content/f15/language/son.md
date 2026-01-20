@@ -38,20 +38,20 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [pootle]({{< ref "/f15/package/pootle.md" >}}) | 6525 | 6525 | 100.0 | LANGUAGE <LL@li.org> | 
- | [virtaal]({{< ref "/f15/package/virtaal.md" >}}) | 1653 | 1653 | 100.0 | LANGUAGE <LL@li.org> | 
- | [tuxpaint]({{< ref "/f15/package/tuxpaint.md" >}}) | 1187 | 1247 | 95.2 | Songhoy <songhoy@bagoundie.net> | 
- | [sugar-labyrinth]({{< ref "/f15/package/sugar-labyrinth.md" >}}) | 44 | 254 | 17.3 | LANGUAGE <LL@li.org> | 
- | [sugar-abacus]({{< ref "/f15/package/sugar-abacus.md" >}}) | 0 | 24 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-clock]({{< ref "/f15/package/sugar-clock.md" >}}) | 0 | 38 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-infoslicer]({{< ref "/f15/package/sugar-infoslicer.md" >}}) | 0 | 184 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-measure]({{< ref "/f15/package/sugar-measure.md" >}}) | 0 | 111 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-memorize]({{< ref "/f15/package/sugar-memorize.md" >}}) | 0 | 90 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-moon]({{< ref "/f15/package/sugar-moon.md" >}}) | 0 | 91 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-portfolio]({{< ref "/f15/package/sugar-portfolio.md" >}}) | 0 | 64 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-ruler]({{< ref "/f15/package/sugar-ruler.md" >}}) | 0 | 5 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-visualmatch]({{< ref "/f15/package/sugar-visualmatch.md" >}}) | 0 | 141 | 0.0 | LANGUAGE <LL@li.org> | 
- | [vidalia]({{< ref "/f15/package/vidalia.md" >}}) | 0 | 10375 | 0.0 | translations@vidalia-project.net | 
+ | [pootle](/f15/package/pootle) | 6525 | 6525 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [virtaal](/f15/package/virtaal) | 1653 | 1653 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [tuxpaint](/f15/package/tuxpaint) | 1187 | 1247 | 95.2 | Songhoy <songhoy@bagoundie.net> | 
+ | [sugar-labyrinth](/f15/package/sugar-labyrinth) | 44 | 254 | 17.3 | LANGUAGE <LL@li.org> | 
+ | [sugar-abacus](/f15/package/sugar-abacus) | 0 | 24 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-clock](/f15/package/sugar-clock) | 0 | 38 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-infoslicer](/f15/package/sugar-infoslicer) | 0 | 184 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-measure](/f15/package/sugar-measure) | 0 | 111 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-memorize](/f15/package/sugar-memorize) | 0 | 90 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-moon](/f15/package/sugar-moon) | 0 | 91 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-portfolio](/f15/package/sugar-portfolio) | 0 | 64 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-ruler](/f15/package/sugar-ruler) | 0 | 5 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-visualmatch](/f15/package/sugar-visualmatch) | 0 | 141 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [vidalia](/f15/package/vidalia) | 0 | 10375 | 0.0 | translations@vidalia-project.net | 
 {.sortable}
 
 

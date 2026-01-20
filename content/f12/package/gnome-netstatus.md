@@ -18,88 +18,88 @@ The package gnome-netstatus (version 2.28.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f12/language/ar.md" >}}) | 418 | 418 | 100.0 | /mnt/stockage/packages/f12/gnome-netstatus/po/ar.po | 
- | [as]({{< ref "/f12/language/as.md" >}}) | 418 | 418 | 100.0 | /mnt/stockage/packages/f12/gnome-netstatus/po/as.po | 
- | [be_Latn]({{< ref "/f12/language/be_Latn.md" >}}) | 417 | 417 | 100.0 | /mnt/stockage/packages/f12/gnome-netstatus/po/be@latin.po | 
- | [bg]({{< ref "/f12/language/bg.md" >}}) | 1225 | 1225 | 100.0 | /mnt/stockage/packages/f12/gnome-netstatus/help/bg/bg.po/mnt/stockage/packages/f12/gnome-netstatus/po/bg.po | 
- | [bn]({{< ref "/f12/language/bn.md" >}}) | 417 | 417 | 100.0 | /mnt/stockage/packages/f12/gnome-netstatus/po/bn.po | 
- | [bn_IN]({{< ref "/f12/language/bn_IN.md" >}}) | 418 | 418 | 100.0 | /mnt/stockage/packages/f12/gnome-netstatus/po/bn_IN.po | 
- | [ca]({{< ref "/f12/language/ca.md" >}}) | 1207 | 1207 | 100.0 | /mnt/stockage/packages/f12/gnome-netstatus/help/ca/ca.po/mnt/stockage/packages/f12/gnome-netstatus/po/ca.po | 
- | [ca@valencia]({{< ref "/f12/language/ca@valencia.md" >}}) | 418 | 418 | 100.0 | /mnt/stockage/packages/f12/gnome-netstatus/po/ca@valencia.po | 
- | [crh]({{< ref "/f12/language/crh.md" >}}) | 418 | 418 | 100.0 | /mnt/stockage/packages/f12/gnome-netstatus/po/crh.po | 
- | [cs]({{< ref "/f12/language/cs.md" >}}) | 1207 | 1207 | 100.0 | /mnt/stockage/packages/f12/gnome-netstatus/help/cs/cs.po/mnt/stockage/packages/f12/gnome-netstatus/po/cs.po | 
- | [cy]({{< ref "/f12/language/cy.md" >}}) | 418 | 418 | 100.0 | /mnt/stockage/packages/f12/gnome-netstatus/po/cy.po | 
- | [da]({{< ref "/f12/language/da.md" >}}) | 418 | 418 | 100.0 | /mnt/stockage/packages/f12/gnome-netstatus/po/da.po | 
- | [de]({{< ref "/f12/language/de.md" >}}) | 1207 | 1207 | 100.0 | /mnt/stockage/packages/f12/gnome-netstatus/help/de/de.po/mnt/stockage/packages/f12/gnome-netstatus/po/de.po | 
- | [dz]({{< ref "/f12/language/dz.md" >}}) | 417 | 417 | 100.0 | /mnt/stockage/packages/f12/gnome-netstatus/po/dz.po | 
- | [el]({{< ref "/f12/language/el.md" >}}) | 1207 | 1207 | 100.0 | /mnt/stockage/packages/f12/gnome-netstatus/help/el/el.po/mnt/stockage/packages/f12/gnome-netstatus/po/el.po | 
- | [en_CA]({{< ref "/f12/language/en_CA.md" >}}) | 417 | 417 | 100.0 | /mnt/stockage/packages/f12/gnome-netstatus/po/en_CA.po | 
- | [en_GB]({{< ref "/f12/language/en_GB.md" >}}) | 1207 | 1207 | 100.0 | /mnt/stockage/packages/f12/gnome-netstatus/help/en_GB/en_GB.po/mnt/stockage/packages/f12/gnome-netstatus/po/en_GB.po | 
- | [es]({{< ref "/f12/language/es.md" >}}) | 1207 | 1207 | 100.0 | /mnt/stockage/packages/f12/gnome-netstatus/help/es/es.po/mnt/stockage/packages/f12/gnome-netstatus/po/es.po | 
- | [et]({{< ref "/f12/language/et.md" >}}) | 418 | 418 | 100.0 | /mnt/stockage/packages/f12/gnome-netstatus/po/et.po | 
- | [eu]({{< ref "/f12/language/eu.md" >}}) | 418 | 418 | 100.0 | /mnt/stockage/packages/f12/gnome-netstatus/po/eu.po | 
- | [fi]({{< ref "/f12/language/fi.md" >}}) | 418 | 418 | 100.0 | /mnt/stockage/packages/f12/gnome-netstatus/po/fi.po | 
- | [fr]({{< ref "/f12/language/fr.md" >}}) | 1207 | 1207 | 100.0 | /mnt/stockage/packages/f12/gnome-netstatus/help/fr/fr.po/mnt/stockage/packages/f12/gnome-netstatus/po/fr.po | 
- | [gl]({{< ref "/f12/language/gl.md" >}}) | 418 | 418 | 100.0 | /mnt/stockage/packages/f12/gnome-netstatus/po/gl.po | 
- | [gu]({{< ref "/f12/language/gu.md" >}}) | 418 | 418 | 100.0 | /mnt/stockage/packages/f12/gnome-netstatus/po/gu.po | 
- | [he]({{< ref "/f12/language/he.md" >}}) | 418 | 418 | 100.0 | /mnt/stockage/packages/f12/gnome-netstatus/po/he.po | 
- | [hi]({{< ref "/f12/language/hi.md" >}}) | 418 | 418 | 100.0 | /mnt/stockage/packages/f12/gnome-netstatus/po/hi.po | 
- | [hr]({{< ref "/f12/language/hr.md" >}}) | 417 | 417 | 100.0 | /mnt/stockage/packages/f12/gnome-netstatus/po/hr.po | 
- | [hu]({{< ref "/f12/language/hu.md" >}}) | 418 | 418 | 100.0 | /mnt/stockage/packages/f12/gnome-netstatus/po/hu.po | 
- | [is]({{< ref "/f12/language/is.md" >}}) | 417 | 417 | 100.0 | /mnt/stockage/packages/f12/gnome-netstatus/po/is.po | 
- | [it]({{< ref "/f12/language/it.md" >}}) | 1207 | 1207 | 100.0 | /mnt/stockage/packages/f12/gnome-netstatus/help/it/it.po/mnt/stockage/packages/f12/gnome-netstatus/po/it.po | 
- | [ja]({{< ref "/f12/language/ja.md" >}}) | 418 | 418 | 100.0 | /mnt/stockage/packages/f12/gnome-netstatus/po/ja.po | 
- | [kn]({{< ref "/f12/language/kn.md" >}}) | 418 | 418 | 100.0 | /mnt/stockage/packages/f12/gnome-netstatus/po/kn.po | 
- | [ko]({{< ref "/f12/language/ko.md" >}}) | 418 | 418 | 100.0 | /mnt/stockage/packages/f12/gnome-netstatus/po/ko.po | 
- | [ku]({{< ref "/f12/language/ku.md" >}}) | 417 | 417 | 100.0 | /mnt/stockage/packages/f12/gnome-netstatus/po/ku.po | 
- | [lt]({{< ref "/f12/language/lt.md" >}}) | 418 | 418 | 100.0 | /mnt/stockage/packages/f12/gnome-netstatus/po/lt.po | 
- | [lv]({{< ref "/f12/language/lv.md" >}}) | 418 | 418 | 100.0 | /mnt/stockage/packages/f12/gnome-netstatus/po/lv.po | 
- | [ml]({{< ref "/f12/language/ml.md" >}}) | 418 | 418 | 100.0 | /mnt/stockage/packages/f12/gnome-netstatus/po/ml.po | 
- | [mr]({{< ref "/f12/language/mr.md" >}}) | 418 | 418 | 100.0 | /mnt/stockage/packages/f12/gnome-netstatus/po/mr.po | 
- | [nb_NO]({{< ref "/f12/language/nb_NO.md" >}}) | 418 | 418 | 100.0 | /mnt/stockage/packages/f12/gnome-netstatus/po/nb.po | 
- | [ne]({{< ref "/f12/language/ne.md" >}}) | 417 | 417 | 100.0 | /mnt/stockage/packages/f12/gnome-netstatus/po/ne.po | 
- | [nn]({{< ref "/f12/language/nn.md" >}}) | 417 | 417 | 100.0 | /mnt/stockage/packages/f12/gnome-netstatus/po/nn.po | 
- | [or]({{< ref "/f12/language/or.md" >}}) | 418 | 418 | 100.0 | /mnt/stockage/packages/f12/gnome-netstatus/po/or.po | 
- | [pa]({{< ref "/f12/language/pa.md" >}}) | 1225 | 1225 | 100.0 | /mnt/stockage/packages/f12/gnome-netstatus/help/pa/pa.po/mnt/stockage/packages/f12/gnome-netstatus/po/pa.po | 
- | [pl]({{< ref "/f12/language/pl.md" >}}) | 418 | 418 | 100.0 | /mnt/stockage/packages/f12/gnome-netstatus/po/pl.po | 
- | [pt]({{< ref "/f12/language/pt.md" >}}) | 418 | 418 | 100.0 | /mnt/stockage/packages/f12/gnome-netstatus/po/pt.po | 
- | [pt_BR]({{< ref "/f12/language/pt_BR.md" >}}) | 418 | 418 | 100.0 | /mnt/stockage/packages/f12/gnome-netstatus/po/pt_BR.po | 
- | [ro]({{< ref "/f12/language/ro.md" >}}) | 418 | 418 | 100.0 | /mnt/stockage/packages/f12/gnome-netstatus/po/ro.po | 
- | [ru]({{< ref "/f12/language/ru.md" >}}) | 1219 | 1219 | 100.0 | /mnt/stockage/packages/f12/gnome-netstatus/help/ru/ru.po/mnt/stockage/packages/f12/gnome-netstatus/po/ru.po | 
- | [sk]({{< ref "/f12/language/sk.md" >}}) | 417 | 417 | 100.0 | /mnt/stockage/packages/f12/gnome-netstatus/po/sk.po | 
- | [sl]({{< ref "/f12/language/sl.md" >}}) | 418 | 418 | 100.0 | /mnt/stockage/packages/f12/gnome-netstatus/po/sl.po | 
- | [sq]({{< ref "/f12/language/sq.md" >}}) | 417 | 417 | 100.0 | /mnt/stockage/packages/f12/gnome-netstatus/po/sq.po | 
- | [sr]({{< ref "/f12/language/sr.md" >}}) | 418 | 418 | 100.0 | /mnt/stockage/packages/f12/gnome-netstatus/po/sr.po | 
- | [sr_Latn]({{< ref "/f12/language/sr_Latn.md" >}}) | 418 | 418 | 100.0 | /mnt/stockage/packages/f12/gnome-netstatus/po/sr@latin.po | 
- | [sv]({{< ref "/f12/language/sv.md" >}}) | 1207 | 1207 | 100.0 | /mnt/stockage/packages/f12/gnome-netstatus/help/sv/sv.po/mnt/stockage/packages/f12/gnome-netstatus/po/sv.po | 
- | [ta]({{< ref "/f12/language/ta.md" >}}) | 418 | 418 | 100.0 | /mnt/stockage/packages/f12/gnome-netstatus/po/ta.po | 
- | [te]({{< ref "/f12/language/te.md" >}}) | 418 | 418 | 100.0 | /mnt/stockage/packages/f12/gnome-netstatus/po/te.po | 
- | [th]({{< ref "/f12/language/th.md" >}}) | 1207 | 1207 | 100.0 | /mnt/stockage/packages/f12/gnome-netstatus/help/th/th.po/mnt/stockage/packages/f12/gnome-netstatus/po/th.po | 
- | [tr]({{< ref "/f12/language/tr.md" >}}) | 418 | 418 | 100.0 | /mnt/stockage/packages/f12/gnome-netstatus/po/tr.po | 
- | [uk]({{< ref "/f12/language/uk.md" >}}) | 1223 | 1223 | 100.0 | /mnt/stockage/packages/f12/gnome-netstatus/help/uk/uk.po/mnt/stockage/packages/f12/gnome-netstatus/po/uk.po | 
- | [vi]({{< ref "/f12/language/vi.md" >}}) | 418 | 418 | 100.0 | /mnt/stockage/packages/f12/gnome-netstatus/po/vi.po | 
- | [zh_Hant]({{< ref "/f12/language/zh_Hant.md" >}}) | 418 | 418 | 100.0 | /mnt/stockage/packages/f12/gnome-netstatus/po/zh_TW.po | 
- | [zh_Hant_HK]({{< ref "/f12/language/zh_Hant_HK.md" >}}) | 418 | 418 | 100.0 | /mnt/stockage/packages/f12/gnome-netstatus/po/zh_HK.po | 
- | [mg]({{< ref "/f12/language/mg.md" >}}) | 417 | 425 | 98.1 | /mnt/stockage/packages/f12/gnome-netstatus/po/mg.po | 
- | [fur]({{< ref "/f12/language/fur.md" >}}) | 409 | 417 | 98.1 | /mnt/stockage/packages/f12/gnome-netstatus/po/fur.po | 
- | [az]({{< ref "/f12/language/az.md" >}}) | 404 | 417 | 96.9 | /mnt/stockage/packages/f12/gnome-netstatus/po/az.po | 
- | [id]({{< ref "/f12/language/id.md" >}}) | 404 | 417 | 96.9 | /mnt/stockage/packages/f12/gnome-netstatus/po/id.po | 
- | [mai]({{< ref "/f12/language/mai.md" >}}) | 404 | 418 | 96.7 | /mnt/stockage/packages/f12/gnome-netstatus/po/mai.po | 
- | [nl]({{< ref "/f12/language/nl.md" >}}) | 1183 | 1225 | 96.6 | /mnt/stockage/packages/f12/gnome-netstatus/help/nl/nl.po/mnt/stockage/packages/f12/gnome-netstatus/po/nl.po | 
- | [ms]({{< ref "/f12/language/ms.md" >}}) | 400 | 417 | 95.9 | /mnt/stockage/packages/f12/gnome-netstatus/po/ms.po | 
- | [fa]({{< ref "/f12/language/fa.md" >}}) | 378 | 417 | 90.6 | /mnt/stockage/packages/f12/gnome-netstatus/po/fa.po | 
- | [mn]({{< ref "/f12/language/mn.md" >}}) | 350 | 417 | 83.9 | /mnt/stockage/packages/f12/gnome-netstatus/po/mn.po | 
- | [bs]({{< ref "/f12/language/bs.md" >}}) | 319 | 417 | 76.5 | /mnt/stockage/packages/f12/gnome-netstatus/po/bs.po | 
- | [xh]({{< ref "/f12/language/xh.md" >}}) | 302 | 417 | 72.4 | /mnt/stockage/packages/f12/gnome-netstatus/po/xh.po | 
- | [af]({{< ref "/f12/language/af.md" >}}) | 287 | 417 | 68.8 | /mnt/stockage/packages/f12/gnome-netstatus/po/af.po | 
- | [uz]({{< ref "/f12/language/uz.md" >}}) | 322 | 834 | 38.6 | /mnt/stockage/packages/f12/gnome-netstatus/po/uz.po/mnt/stockage/packages/f12/gnome-netstatus/po/uz@cyrillic.po | 
- | [zh_Hans]({{< ref "/f12/language/zh_Hans.md" >}}) | 417 | 1206 | 34.6 | /mnt/stockage/packages/f12/gnome-netstatus/help/zh_CN/zh_CN.po/mnt/stockage/packages/f12/gnome-netstatus/po/zh_CN.po | 
- | [ka]({{< ref "/f12/language/ka.md" >}}) | 128 | 417 | 30.7 | /mnt/stockage/packages/f12/gnome-netstatus/po/ka.po | 
- | [ga]({{< ref "/f12/language/ga.md" >}}) | 115 | 418 | 27.5 | /mnt/stockage/packages/f12/gnome-netstatus/po/ga.po | 
- | [wa]({{< ref "/f12/language/wa.md" >}}) | 101 | 417 | 24.2 | /mnt/stockage/packages/f12/gnome-netstatus/po/wa.po | 
- | [oc]({{< ref "/f12/language/oc.md" >}}) | 212 | 1224 | 17.3 | /mnt/stockage/packages/f12/gnome-netstatus/help/oc/oc.po/mnt/stockage/packages/f12/gnome-netstatus/po/oc.po | 
- | [ps]({{< ref "/f12/language/ps.md" >}}) | 71 | 418 | 17.0 | /mnt/stockage/packages/f12/gnome-netstatus/po/ps.po | 
- | [rw]({{< ref "/f12/language/rw.md" >}}) | 13 | 417 | 3.1 | /mnt/stockage/packages/f12/gnome-netstatus/po/rw.po | 
+ | [ar](/f12/language/ar) | 418 | 418 | 100.0 | /mnt/stockage/packages/f12/gnome-netstatus/po/ar.po | 
+ | [as](/f12/language/as) | 418 | 418 | 100.0 | /mnt/stockage/packages/f12/gnome-netstatus/po/as.po | 
+ | [be_Latn](/f12/language/be_Latn) | 417 | 417 | 100.0 | /mnt/stockage/packages/f12/gnome-netstatus/po/be@latin.po | 
+ | [bg](/f12/language/bg) | 1225 | 1225 | 100.0 | /mnt/stockage/packages/f12/gnome-netstatus/help/bg/bg.po/mnt/stockage/packages/f12/gnome-netstatus/po/bg.po | 
+ | [bn](/f12/language/bn) | 417 | 417 | 100.0 | /mnt/stockage/packages/f12/gnome-netstatus/po/bn.po | 
+ | [bn_IN](/f12/language/bn_IN) | 418 | 418 | 100.0 | /mnt/stockage/packages/f12/gnome-netstatus/po/bn_IN.po | 
+ | [ca](/f12/language/ca) | 1207 | 1207 | 100.0 | /mnt/stockage/packages/f12/gnome-netstatus/help/ca/ca.po/mnt/stockage/packages/f12/gnome-netstatus/po/ca.po | 
+ | [ca@valencia](/f12/language/ca@valencia) | 418 | 418 | 100.0 | /mnt/stockage/packages/f12/gnome-netstatus/po/ca@valencia.po | 
+ | [crh](/f12/language/crh) | 418 | 418 | 100.0 | /mnt/stockage/packages/f12/gnome-netstatus/po/crh.po | 
+ | [cs](/f12/language/cs) | 1207 | 1207 | 100.0 | /mnt/stockage/packages/f12/gnome-netstatus/help/cs/cs.po/mnt/stockage/packages/f12/gnome-netstatus/po/cs.po | 
+ | [cy](/f12/language/cy) | 418 | 418 | 100.0 | /mnt/stockage/packages/f12/gnome-netstatus/po/cy.po | 
+ | [da](/f12/language/da) | 418 | 418 | 100.0 | /mnt/stockage/packages/f12/gnome-netstatus/po/da.po | 
+ | [de](/f12/language/de) | 1207 | 1207 | 100.0 | /mnt/stockage/packages/f12/gnome-netstatus/help/de/de.po/mnt/stockage/packages/f12/gnome-netstatus/po/de.po | 
+ | [dz](/f12/language/dz) | 417 | 417 | 100.0 | /mnt/stockage/packages/f12/gnome-netstatus/po/dz.po | 
+ | [el](/f12/language/el) | 1207 | 1207 | 100.0 | /mnt/stockage/packages/f12/gnome-netstatus/help/el/el.po/mnt/stockage/packages/f12/gnome-netstatus/po/el.po | 
+ | [en_CA](/f12/language/en_CA) | 417 | 417 | 100.0 | /mnt/stockage/packages/f12/gnome-netstatus/po/en_CA.po | 
+ | [en_GB](/f12/language/en_GB) | 1207 | 1207 | 100.0 | /mnt/stockage/packages/f12/gnome-netstatus/help/en_GB/en_GB.po/mnt/stockage/packages/f12/gnome-netstatus/po/en_GB.po | 
+ | [es](/f12/language/es) | 1207 | 1207 | 100.0 | /mnt/stockage/packages/f12/gnome-netstatus/help/es/es.po/mnt/stockage/packages/f12/gnome-netstatus/po/es.po | 
+ | [et](/f12/language/et) | 418 | 418 | 100.0 | /mnt/stockage/packages/f12/gnome-netstatus/po/et.po | 
+ | [eu](/f12/language/eu) | 418 | 418 | 100.0 | /mnt/stockage/packages/f12/gnome-netstatus/po/eu.po | 
+ | [fi](/f12/language/fi) | 418 | 418 | 100.0 | /mnt/stockage/packages/f12/gnome-netstatus/po/fi.po | 
+ | [fr](/f12/language/fr) | 1207 | 1207 | 100.0 | /mnt/stockage/packages/f12/gnome-netstatus/help/fr/fr.po/mnt/stockage/packages/f12/gnome-netstatus/po/fr.po | 
+ | [gl](/f12/language/gl) | 418 | 418 | 100.0 | /mnt/stockage/packages/f12/gnome-netstatus/po/gl.po | 
+ | [gu](/f12/language/gu) | 418 | 418 | 100.0 | /mnt/stockage/packages/f12/gnome-netstatus/po/gu.po | 
+ | [he](/f12/language/he) | 418 | 418 | 100.0 | /mnt/stockage/packages/f12/gnome-netstatus/po/he.po | 
+ | [hi](/f12/language/hi) | 418 | 418 | 100.0 | /mnt/stockage/packages/f12/gnome-netstatus/po/hi.po | 
+ | [hr](/f12/language/hr) | 417 | 417 | 100.0 | /mnt/stockage/packages/f12/gnome-netstatus/po/hr.po | 
+ | [hu](/f12/language/hu) | 418 | 418 | 100.0 | /mnt/stockage/packages/f12/gnome-netstatus/po/hu.po | 
+ | [is](/f12/language/is) | 417 | 417 | 100.0 | /mnt/stockage/packages/f12/gnome-netstatus/po/is.po | 
+ | [it](/f12/language/it) | 1207 | 1207 | 100.0 | /mnt/stockage/packages/f12/gnome-netstatus/help/it/it.po/mnt/stockage/packages/f12/gnome-netstatus/po/it.po | 
+ | [ja](/f12/language/ja) | 418 | 418 | 100.0 | /mnt/stockage/packages/f12/gnome-netstatus/po/ja.po | 
+ | [kn](/f12/language/kn) | 418 | 418 | 100.0 | /mnt/stockage/packages/f12/gnome-netstatus/po/kn.po | 
+ | [ko](/f12/language/ko) | 418 | 418 | 100.0 | /mnt/stockage/packages/f12/gnome-netstatus/po/ko.po | 
+ | [ku](/f12/language/ku) | 417 | 417 | 100.0 | /mnt/stockage/packages/f12/gnome-netstatus/po/ku.po | 
+ | [lt](/f12/language/lt) | 418 | 418 | 100.0 | /mnt/stockage/packages/f12/gnome-netstatus/po/lt.po | 
+ | [lv](/f12/language/lv) | 418 | 418 | 100.0 | /mnt/stockage/packages/f12/gnome-netstatus/po/lv.po | 
+ | [ml](/f12/language/ml) | 418 | 418 | 100.0 | /mnt/stockage/packages/f12/gnome-netstatus/po/ml.po | 
+ | [mr](/f12/language/mr) | 418 | 418 | 100.0 | /mnt/stockage/packages/f12/gnome-netstatus/po/mr.po | 
+ | [nb_NO](/f12/language/nb_NO) | 418 | 418 | 100.0 | /mnt/stockage/packages/f12/gnome-netstatus/po/nb.po | 
+ | [ne](/f12/language/ne) | 417 | 417 | 100.0 | /mnt/stockage/packages/f12/gnome-netstatus/po/ne.po | 
+ | [nn](/f12/language/nn) | 417 | 417 | 100.0 | /mnt/stockage/packages/f12/gnome-netstatus/po/nn.po | 
+ | [or](/f12/language/or) | 418 | 418 | 100.0 | /mnt/stockage/packages/f12/gnome-netstatus/po/or.po | 
+ | [pa](/f12/language/pa) | 1225 | 1225 | 100.0 | /mnt/stockage/packages/f12/gnome-netstatus/help/pa/pa.po/mnt/stockage/packages/f12/gnome-netstatus/po/pa.po | 
+ | [pl](/f12/language/pl) | 418 | 418 | 100.0 | /mnt/stockage/packages/f12/gnome-netstatus/po/pl.po | 
+ | [pt](/f12/language/pt) | 418 | 418 | 100.0 | /mnt/stockage/packages/f12/gnome-netstatus/po/pt.po | 
+ | [pt_BR](/f12/language/pt_BR) | 418 | 418 | 100.0 | /mnt/stockage/packages/f12/gnome-netstatus/po/pt_BR.po | 
+ | [ro](/f12/language/ro) | 418 | 418 | 100.0 | /mnt/stockage/packages/f12/gnome-netstatus/po/ro.po | 
+ | [ru](/f12/language/ru) | 1219 | 1219 | 100.0 | /mnt/stockage/packages/f12/gnome-netstatus/help/ru/ru.po/mnt/stockage/packages/f12/gnome-netstatus/po/ru.po | 
+ | [sk](/f12/language/sk) | 417 | 417 | 100.0 | /mnt/stockage/packages/f12/gnome-netstatus/po/sk.po | 
+ | [sl](/f12/language/sl) | 418 | 418 | 100.0 | /mnt/stockage/packages/f12/gnome-netstatus/po/sl.po | 
+ | [sq](/f12/language/sq) | 417 | 417 | 100.0 | /mnt/stockage/packages/f12/gnome-netstatus/po/sq.po | 
+ | [sr](/f12/language/sr) | 418 | 418 | 100.0 | /mnt/stockage/packages/f12/gnome-netstatus/po/sr.po | 
+ | [sr_Latn](/f12/language/sr_Latn) | 418 | 418 | 100.0 | /mnt/stockage/packages/f12/gnome-netstatus/po/sr@latin.po | 
+ | [sv](/f12/language/sv) | 1207 | 1207 | 100.0 | /mnt/stockage/packages/f12/gnome-netstatus/help/sv/sv.po/mnt/stockage/packages/f12/gnome-netstatus/po/sv.po | 
+ | [ta](/f12/language/ta) | 418 | 418 | 100.0 | /mnt/stockage/packages/f12/gnome-netstatus/po/ta.po | 
+ | [te](/f12/language/te) | 418 | 418 | 100.0 | /mnt/stockage/packages/f12/gnome-netstatus/po/te.po | 
+ | [th](/f12/language/th) | 1207 | 1207 | 100.0 | /mnt/stockage/packages/f12/gnome-netstatus/help/th/th.po/mnt/stockage/packages/f12/gnome-netstatus/po/th.po | 
+ | [tr](/f12/language/tr) | 418 | 418 | 100.0 | /mnt/stockage/packages/f12/gnome-netstatus/po/tr.po | 
+ | [uk](/f12/language/uk) | 1223 | 1223 | 100.0 | /mnt/stockage/packages/f12/gnome-netstatus/help/uk/uk.po/mnt/stockage/packages/f12/gnome-netstatus/po/uk.po | 
+ | [vi](/f12/language/vi) | 418 | 418 | 100.0 | /mnt/stockage/packages/f12/gnome-netstatus/po/vi.po | 
+ | [zh_Hant](/f12/language/zh_Hant) | 418 | 418 | 100.0 | /mnt/stockage/packages/f12/gnome-netstatus/po/zh_TW.po | 
+ | [zh_Hant_HK](/f12/language/zh_Hant_HK) | 418 | 418 | 100.0 | /mnt/stockage/packages/f12/gnome-netstatus/po/zh_HK.po | 
+ | [mg](/f12/language/mg) | 417 | 425 | 98.1 | /mnt/stockage/packages/f12/gnome-netstatus/po/mg.po | 
+ | [fur](/f12/language/fur) | 409 | 417 | 98.1 | /mnt/stockage/packages/f12/gnome-netstatus/po/fur.po | 
+ | [az](/f12/language/az) | 404 | 417 | 96.9 | /mnt/stockage/packages/f12/gnome-netstatus/po/az.po | 
+ | [id](/f12/language/id) | 404 | 417 | 96.9 | /mnt/stockage/packages/f12/gnome-netstatus/po/id.po | 
+ | [mai](/f12/language/mai) | 404 | 418 | 96.7 | /mnt/stockage/packages/f12/gnome-netstatus/po/mai.po | 
+ | [nl](/f12/language/nl) | 1183 | 1225 | 96.6 | /mnt/stockage/packages/f12/gnome-netstatus/help/nl/nl.po/mnt/stockage/packages/f12/gnome-netstatus/po/nl.po | 
+ | [ms](/f12/language/ms) | 400 | 417 | 95.9 | /mnt/stockage/packages/f12/gnome-netstatus/po/ms.po | 
+ | [fa](/f12/language/fa) | 378 | 417 | 90.6 | /mnt/stockage/packages/f12/gnome-netstatus/po/fa.po | 
+ | [mn](/f12/language/mn) | 350 | 417 | 83.9 | /mnt/stockage/packages/f12/gnome-netstatus/po/mn.po | 
+ | [bs](/f12/language/bs) | 319 | 417 | 76.5 | /mnt/stockage/packages/f12/gnome-netstatus/po/bs.po | 
+ | [xh](/f12/language/xh) | 302 | 417 | 72.4 | /mnt/stockage/packages/f12/gnome-netstatus/po/xh.po | 
+ | [af](/f12/language/af) | 287 | 417 | 68.8 | /mnt/stockage/packages/f12/gnome-netstatus/po/af.po | 
+ | [uz](/f12/language/uz) | 322 | 834 | 38.6 | /mnt/stockage/packages/f12/gnome-netstatus/po/uz.po/mnt/stockage/packages/f12/gnome-netstatus/po/uz@cyrillic.po | 
+ | [zh_Hans](/f12/language/zh_Hans) | 417 | 1206 | 34.6 | /mnt/stockage/packages/f12/gnome-netstatus/help/zh_CN/zh_CN.po/mnt/stockage/packages/f12/gnome-netstatus/po/zh_CN.po | 
+ | [ka](/f12/language/ka) | 128 | 417 | 30.7 | /mnt/stockage/packages/f12/gnome-netstatus/po/ka.po | 
+ | [ga](/f12/language/ga) | 115 | 418 | 27.5 | /mnt/stockage/packages/f12/gnome-netstatus/po/ga.po | 
+ | [wa](/f12/language/wa) | 101 | 417 | 24.2 | /mnt/stockage/packages/f12/gnome-netstatus/po/wa.po | 
+ | [oc](/f12/language/oc) | 212 | 1224 | 17.3 | /mnt/stockage/packages/f12/gnome-netstatus/help/oc/oc.po/mnt/stockage/packages/f12/gnome-netstatus/po/oc.po | 
+ | [ps](/f12/language/ps) | 71 | 418 | 17.0 | /mnt/stockage/packages/f12/gnome-netstatus/po/ps.po | 
+ | [rw](/f12/language/rw) | 13 | 417 | 3.1 | /mnt/stockage/packages/f12/gnome-netstatus/po/rw.po | 
 {.sortable}
 
 

@@ -18,10 +18,10 @@ The package gaupol (version 0.15):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f13/language/ca.md" >}}) | 1296 | 1296 | 100.0 | /mnt/stockage/packages/f13/gaupol/po/ca.po | 
- | [es]({{< ref "/f13/language/es.md" >}}) | 1402 | 1402 | 100.0 | /mnt/stockage/packages/f13/gaupol/po/es.po | 
- | [sv]({{< ref "/f13/language/sv.md" >}}) | 1484 | 1484 | 100.0 | /mnt/stockage/packages/f13/gaupol/po/sv.po | 
- | [pl]({{< ref "/f13/language/pl.md" >}}) | 1481 | 1484 | 99.8 | /mnt/stockage/packages/f13/gaupol/po/pl.po | 
+ | [ca](/f13/language/ca) | 1296 | 1296 | 100.0 | /mnt/stockage/packages/f13/gaupol/po/ca.po | 
+ | [es](/f13/language/es) | 1402 | 1402 | 100.0 | /mnt/stockage/packages/f13/gaupol/po/es.po | 
+ | [sv](/f13/language/sv) | 1484 | 1484 | 100.0 | /mnt/stockage/packages/f13/gaupol/po/sv.po | 
+ | [pl](/f13/language/pl) | 1481 | 1484 | 99.8 | /mnt/stockage/packages/f13/gaupol/po/pl.po | 
 {.sortable}
 
 

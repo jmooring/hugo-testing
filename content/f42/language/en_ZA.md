@@ -38,20 +38,20 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [libreoffice]({{< ref "/f42/package/libreoffice.md" >}}) | 308155 | 773628 | 39.8 | LANGUAGE <LL@li.org> | 
- | [tuxpaint]({{< ref "/f42/package/tuxpaint.md" >}}) | 563 | 5355 | 10.5 | English (South African) <en_za@li.org> | 
- | [wingpanel]({{< ref "/f42/package/wingpanel.md" >}}) | 2 | 57 | 3.5 | none | 
- | [cinnamon-translations]({{< ref "/f42/package/cinnamon-translations.md" >}}) | 4 | 7533 | 0.1 | English (South Africa) <en_ZA@li.org> | 
- | [elementary-calculator]({{< ref "/f42/package/elementary-calculator.md" >}}) | 0 | 174 | 0.0 | none | 
- | [elementary-calendar]({{< ref "/f42/package/elementary-calendar.md" >}}) | 0 | 670 | 0.0 | none | 
- | [elementary-icon-theme]({{< ref "/f42/package/elementary-icon-theme.md" >}}) | 0 | 349 | 0.0 | none | 
- | [elementary-notifications]({{< ref "/f42/package/elementary-notifications.md" >}}) | 0 | 42 | 0.0 | none | 
- | [elementary-settings-daemon]({{< ref "/f42/package/elementary-settings-daemon.md" >}}) | 0 | 303 | 0.0 | none | 
- | [gala]({{< ref "/f42/package/gala.md" >}}) | 0 | 319 | 0.0 | none | 
- | [granite-7]({{< ref "/f42/package/granite-7.md" >}}) | 0 | 596 | 0.0 | none | 
- | [wingpanel-indicator-bluetooth]({{< ref "/f42/package/wingpanel-indicator-bluetooth.md" >}}) | 0 | 80 | 0.0 | none | 
- | [wingpanel-indicator-datetime]({{< ref "/f42/package/wingpanel-indicator-datetime.md" >}}) | 0 | 103 | 0.0 | none | 
- | [wingpanel-indicator-keyboard]({{< ref "/f42/package/wingpanel-indicator-keyboard.md" >}}) | 0 | 56 | 0.0 | none | 
+ | [libreoffice](/f42/package/libreoffice) | 308155 | 773628 | 39.8 | LANGUAGE <LL@li.org> | 
+ | [tuxpaint](/f42/package/tuxpaint) | 563 | 5355 | 10.5 | English (South African) <en_za@li.org> | 
+ | [wingpanel](/f42/package/wingpanel) | 2 | 57 | 3.5 | none | 
+ | [cinnamon-translations](/f42/package/cinnamon-translations) | 4 | 7533 | 0.1 | English (South Africa) <en_ZA@li.org> | 
+ | [elementary-calculator](/f42/package/elementary-calculator) | 0 | 174 | 0.0 | none | 
+ | [elementary-calendar](/f42/package/elementary-calendar) | 0 | 670 | 0.0 | none | 
+ | [elementary-icon-theme](/f42/package/elementary-icon-theme) | 0 | 349 | 0.0 | none | 
+ | [elementary-notifications](/f42/package/elementary-notifications) | 0 | 42 | 0.0 | none | 
+ | [elementary-settings-daemon](/f42/package/elementary-settings-daemon) | 0 | 303 | 0.0 | none | 
+ | [gala](/f42/package/gala) | 0 | 319 | 0.0 | none | 
+ | [granite-7](/f42/package/granite-7) | 0 | 596 | 0.0 | none | 
+ | [wingpanel-indicator-bluetooth](/f42/package/wingpanel-indicator-bluetooth) | 0 | 80 | 0.0 | none | 
+ | [wingpanel-indicator-datetime](/f42/package/wingpanel-indicator-datetime) | 0 | 103 | 0.0 | none | 
+ | [wingpanel-indicator-keyboard](/f42/package/wingpanel-indicator-keyboard) | 0 | 56 | 0.0 | none | 
 {.sortable}
 
 

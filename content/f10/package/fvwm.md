@@ -18,11 +18,11 @@ The package fvwm (version 2.5.26):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f10/language/de.md" >}}) | 262 | 262 | 100.0 | /mnt/stockage/packages/f10/fvwm/po/fvwm.de.po/mnt/stockage/packages/f10/fvwm/po/FvwmScript.de.po/mnt/stockage/packages/f10/fvwm/po/FvwmTaskBar.de.po | 
- | [sv]({{< ref "/f10/language/sv.md" >}}) | 262 | 262 | 100.0 | /mnt/stockage/packages/f10/fvwm/po/fvwm.sv_SE.po/mnt/stockage/packages/f10/fvwm/po/FvwmScript.sv_SE.po/mnt/stockage/packages/f10/fvwm/po/FvwmTaskBar.sv_SE.po | 
- | [fr]({{< ref "/f10/language/fr.md" >}}) | 254 | 262 | 96.9 | /mnt/stockage/packages/f10/fvwm/po/fvwm.fr.po/mnt/stockage/packages/f10/fvwm/po/FvwmScript.fr.po/mnt/stockage/packages/f10/fvwm/po/FvwmTaskBar.fr.po | 
- | [zh_Hans]({{< ref "/f10/language/zh_Hans.md" >}}) | 242 | 262 | 92.4 | /mnt/stockage/packages/f10/fvwm/po/fvwm.zh_CN.po/mnt/stockage/packages/f10/fvwm/po/FvwmScript.zh_CN.po/mnt/stockage/packages/f10/fvwm/po/FvwmTaskBar.zh_CN.po | 
- | [ar]({{< ref "/f10/language/ar.md" >}}) | 194 | 262 | 74.0 | /mnt/stockage/packages/f10/fvwm/po/fvwm.ar.po/mnt/stockage/packages/f10/fvwm/po/FvwmScript.ar.po/mnt/stockage/packages/f10/fvwm/po/FvwmTaskBar.ar.po | 
+ | [de](/f10/language/de) | 262 | 262 | 100.0 | /mnt/stockage/packages/f10/fvwm/po/fvwm.de.po/mnt/stockage/packages/f10/fvwm/po/FvwmScript.de.po/mnt/stockage/packages/f10/fvwm/po/FvwmTaskBar.de.po | 
+ | [sv](/f10/language/sv) | 262 | 262 | 100.0 | /mnt/stockage/packages/f10/fvwm/po/fvwm.sv_SE.po/mnt/stockage/packages/f10/fvwm/po/FvwmScript.sv_SE.po/mnt/stockage/packages/f10/fvwm/po/FvwmTaskBar.sv_SE.po | 
+ | [fr](/f10/language/fr) | 254 | 262 | 96.9 | /mnt/stockage/packages/f10/fvwm/po/fvwm.fr.po/mnt/stockage/packages/f10/fvwm/po/FvwmScript.fr.po/mnt/stockage/packages/f10/fvwm/po/FvwmTaskBar.fr.po | 
+ | [zh_Hans](/f10/language/zh_Hans) | 242 | 262 | 92.4 | /mnt/stockage/packages/f10/fvwm/po/fvwm.zh_CN.po/mnt/stockage/packages/f10/fvwm/po/FvwmScript.zh_CN.po/mnt/stockage/packages/f10/fvwm/po/FvwmTaskBar.zh_CN.po | 
+ | [ar](/f10/language/ar) | 194 | 262 | 74.0 | /mnt/stockage/packages/f10/fvwm/po/fvwm.ar.po/mnt/stockage/packages/f10/fvwm/po/FvwmScript.ar.po/mnt/stockage/packages/f10/fvwm/po/FvwmTaskBar.ar.po | 
 {.sortable}
 
 

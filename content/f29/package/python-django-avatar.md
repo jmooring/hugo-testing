@@ -18,16 +18,16 @@ The package python-django-avatar (version 4.1.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f29/language/de.md" >}}) | 124 | 124 | 100.0 | /mnt/stockage/packages/f29/python-django-avatar/avatar/locale/de/LC_MESSAGES/django.po | 
- | [it]({{< ref "/f29/language/it.md" >}}) | 123 | 124 | 99.2 | /mnt/stockage/packages/f29/python-django-avatar/avatar/locale/it/LC_MESSAGES/django.po | 
- | [es]({{< ref "/f29/language/es.md" >}}) | 119 | 124 | 96.0 | /mnt/stockage/packages/f29/python-django-avatar/avatar/locale/es/LC_MESSAGES/django.po | 
- | [ja]({{< ref "/f29/language/ja.md" >}}) | 119 | 124 | 96.0 | /mnt/stockage/packages/f29/python-django-avatar/avatar/locale/ja/LC_MESSAGES/django.po | 
- | [nl]({{< ref "/f29/language/nl.md" >}}) | 119 | 124 | 96.0 | /mnt/stockage/packages/f29/python-django-avatar/avatar/locale/nl/LC_MESSAGES/django.po | 
- | [pl]({{< ref "/f29/language/pl.md" >}}) | 119 | 124 | 96.0 | /mnt/stockage/packages/f29/python-django-avatar/avatar/locale/pl/LC_MESSAGES/django.po | 
- | [zh_Hans]({{< ref "/f29/language/zh_Hans.md" >}}) | 119 | 124 | 96.0 | /mnt/stockage/packages/f29/python-django-avatar/avatar/locale/zh_CN/LC_MESSAGES/django.po | 
- | [fr]({{< ref "/f29/language/fr.md" >}}) | 110 | 124 | 88.7 | /mnt/stockage/packages/f29/python-django-avatar/avatar/locale/fr/LC_MESSAGES/django.po | 
- | [ru]({{< ref "/f29/language/ru.md" >}}) | 102 | 124 | 82.3 | /mnt/stockage/packages/f29/python-django-avatar/avatar/locale/ru/LC_MESSAGES/django.po | 
- | [pt_BR]({{< ref "/f29/language/pt_BR.md" >}}) | 98 | 124 | 79.0 | /mnt/stockage/packages/f29/python-django-avatar/avatar/locale/pt_BR/LC_MESSAGES/django.po | 
+ | [de](/f29/language/de) | 124 | 124 | 100.0 | /mnt/stockage/packages/f29/python-django-avatar/avatar/locale/de/LC_MESSAGES/django.po | 
+ | [it](/f29/language/it) | 123 | 124 | 99.2 | /mnt/stockage/packages/f29/python-django-avatar/avatar/locale/it/LC_MESSAGES/django.po | 
+ | [es](/f29/language/es) | 119 | 124 | 96.0 | /mnt/stockage/packages/f29/python-django-avatar/avatar/locale/es/LC_MESSAGES/django.po | 
+ | [ja](/f29/language/ja) | 119 | 124 | 96.0 | /mnt/stockage/packages/f29/python-django-avatar/avatar/locale/ja/LC_MESSAGES/django.po | 
+ | [nl](/f29/language/nl) | 119 | 124 | 96.0 | /mnt/stockage/packages/f29/python-django-avatar/avatar/locale/nl/LC_MESSAGES/django.po | 
+ | [pl](/f29/language/pl) | 119 | 124 | 96.0 | /mnt/stockage/packages/f29/python-django-avatar/avatar/locale/pl/LC_MESSAGES/django.po | 
+ | [zh_Hans](/f29/language/zh_Hans) | 119 | 124 | 96.0 | /mnt/stockage/packages/f29/python-django-avatar/avatar/locale/zh_CN/LC_MESSAGES/django.po | 
+ | [fr](/f29/language/fr) | 110 | 124 | 88.7 | /mnt/stockage/packages/f29/python-django-avatar/avatar/locale/fr/LC_MESSAGES/django.po | 
+ | [ru](/f29/language/ru) | 102 | 124 | 82.3 | /mnt/stockage/packages/f29/python-django-avatar/avatar/locale/ru/LC_MESSAGES/django.po | 
+ | [pt_BR](/f29/language/pt_BR) | 98 | 124 | 79.0 | /mnt/stockage/packages/f29/python-django-avatar/avatar/locale/pt_BR/LC_MESSAGES/django.po | 
 {.sortable}
 
 

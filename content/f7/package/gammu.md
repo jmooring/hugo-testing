@@ -18,12 +18,12 @@ The package gammu (version 1.17.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f7/language/de.md" >}}) | 3298 | 3772 | 87.4 | /mnt/stockage/packages/f7/gammu/locale/de/gammu.po | 
- | [cs]({{< ref "/f7/language/cs.md" >}}) | 1665 | 3772 | 44.1 | /mnt/stockage/packages/f7/gammu/locale/cs/gammu.po | 
- | [es]({{< ref "/f7/language/es.md" >}}) | 1543 | 3772 | 40.9 | /mnt/stockage/packages/f7/gammu/locale/es/gammu.po | 
- | [ru]({{< ref "/f7/language/ru.md" >}}) | 1281 | 3772 | 34.0 | /mnt/stockage/packages/f7/gammu/locale/ru/gammu.po | 
- | [it]({{< ref "/f7/language/it.md" >}}) | 795 | 3772 | 21.1 | /mnt/stockage/packages/f7/gammu/locale/it/gammu.po | 
- | [pl]({{< ref "/f7/language/pl.md" >}}) | 623 | 3772 | 16.5 | /mnt/stockage/packages/f7/gammu/locale/pl/gammu.po | 
+ | [de](/f7/language/de) | 3298 | 3772 | 87.4 | /mnt/stockage/packages/f7/gammu/locale/de/gammu.po | 
+ | [cs](/f7/language/cs) | 1665 | 3772 | 44.1 | /mnt/stockage/packages/f7/gammu/locale/cs/gammu.po | 
+ | [es](/f7/language/es) | 1543 | 3772 | 40.9 | /mnt/stockage/packages/f7/gammu/locale/es/gammu.po | 
+ | [ru](/f7/language/ru) | 1281 | 3772 | 34.0 | /mnt/stockage/packages/f7/gammu/locale/ru/gammu.po | 
+ | [it](/f7/language/it) | 795 | 3772 | 21.1 | /mnt/stockage/packages/f7/gammu/locale/it/gammu.po | 
+ | [pl](/f7/language/pl) | 623 | 3772 | 16.5 | /mnt/stockage/packages/f7/gammu/locale/pl/gammu.po | 
 {.sortable}
 
 

@@ -18,35 +18,35 @@ The package marknote (version 1.3.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f43/language/ca.md" >}}) | 313 | 317 | 98.7 | /mnt/stockage/packages/f43/marknote/po/ca/marknote.po | 
- | [ca@valencia]({{< ref "/f43/language/ca@valencia.md" >}}) | 313 | 317 | 98.7 | /mnt/stockage/packages/f43/marknote/po/ca@valencia/marknote.po | 
- | [en_GB]({{< ref "/f43/language/en_GB.md" >}}) | 313 | 317 | 98.7 | /mnt/stockage/packages/f43/marknote/po/en_GB/marknote.po | 
- | [es]({{< ref "/f43/language/es.md" >}}) | 313 | 317 | 98.7 | /mnt/stockage/packages/f43/marknote/po/es/marknote.po | 
- | [gl]({{< ref "/f43/language/gl.md" >}}) | 313 | 317 | 98.7 | /mnt/stockage/packages/f43/marknote/po/gl/marknote.po | 
- | [he]({{< ref "/f43/language/he.md" >}}) | 313 | 317 | 98.7 | /mnt/stockage/packages/f43/marknote/po/he/marknote.po | 
- | [ia]({{< ref "/f43/language/ia.md" >}}) | 313 | 317 | 98.7 | /mnt/stockage/packages/f43/marknote/po/ia/marknote.po | 
- | [it]({{< ref "/f43/language/it.md" >}}) | 313 | 317 | 98.7 | /mnt/stockage/packages/f43/marknote/po/it/marknote.po | 
- | [ka]({{< ref "/f43/language/ka.md" >}}) | 313 | 317 | 98.7 | /mnt/stockage/packages/f43/marknote/po/ka/marknote.po | 
- | [nl]({{< ref "/f43/language/nl.md" >}}) | 313 | 317 | 98.7 | /mnt/stockage/packages/f43/marknote/po/nl/marknote.po | 
- | [sl]({{< ref "/f43/language/sl.md" >}}) | 313 | 317 | 98.7 | /mnt/stockage/packages/f43/marknote/po/sl/marknote.po | 
- | [sv]({{< ref "/f43/language/sv.md" >}}) | 313 | 317 | 98.7 | /mnt/stockage/packages/f43/marknote/po/sv/marknote.po | 
- | [tr]({{< ref "/f43/language/tr.md" >}}) | 313 | 317 | 98.7 | /mnt/stockage/packages/f43/marknote/po/tr/marknote.po | 
- | [uk]({{< ref "/f43/language/uk.md" >}}) | 313 | 317 | 98.7 | /mnt/stockage/packages/f43/marknote/po/uk/marknote.po | 
- | [eo]({{< ref "/f43/language/eo.md" >}}) | 292 | 317 | 92.1 | /mnt/stockage/packages/f43/marknote/po/eo/marknote.po | 
- | [fr]({{< ref "/f43/language/fr.md" >}}) | 275 | 317 | 86.8 | /mnt/stockage/packages/f43/marknote/po/fr/marknote.po | 
- | [zh_Hant]({{< ref "/f43/language/zh_Hant.md" >}}) | 275 | 317 | 86.8 | /mnt/stockage/packages/f43/marknote/po/zh_TW/marknote.po | 
- | [pl]({{< ref "/f43/language/pl.md" >}}) | 274 | 317 | 86.4 | /mnt/stockage/packages/f43/marknote/po/pl/marknote.po | 
- | [cs]({{< ref "/f43/language/cs.md" >}}) | 259 | 317 | 81.7 | /mnt/stockage/packages/f43/marknote/po/cs/marknote.po | 
- | [pt_BR]({{< ref "/f43/language/pt_BR.md" >}}) | 212 | 317 | 66.9 | /mnt/stockage/packages/f43/marknote/po/pt_BR/marknote.po | 
- | [eu]({{< ref "/f43/language/eu.md" >}}) | 186 | 317 | 58.7 | /mnt/stockage/packages/f43/marknote/po/eu/marknote.po | 
- | [zh_Hans]({{< ref "/f43/language/zh_Hans.md" >}}) | 179 | 317 | 56.5 | /mnt/stockage/packages/f43/marknote/po/zh_CN/marknote.po | 
- | [nn]({{< ref "/f43/language/nn.md" >}}) | 75 | 317 | 23.7 | /mnt/stockage/packages/f43/marknote/po/nn/marknote.po | 
- | [fi]({{< ref "/f43/language/fi.md" >}}) | 46 | 317 | 14.5 | /mnt/stockage/packages/f43/marknote/po/fi/marknote.po | 
- | [ko]({{< ref "/f43/language/ko.md" >}}) | 46 | 317 | 14.5 | /mnt/stockage/packages/f43/marknote/po/ko/marknote.po | 
- | [lv]({{< ref "/f43/language/lv.md" >}}) | 46 | 317 | 14.5 | /mnt/stockage/packages/f43/marknote/po/lv/marknote.po | 
- | [de]({{< ref "/f43/language/de.md" >}}) | 33 | 317 | 10.4 | /mnt/stockage/packages/f43/marknote/po/de/marknote.po | 
- | [sk]({{< ref "/f43/language/sk.md" >}}) | 22 | 317 | 6.9 | /mnt/stockage/packages/f43/marknote/po/sk/marknote.po | 
- | [ast]({{< ref "/f43/language/ast.md" >}}) | 1 | 317 | 0.3 | /mnt/stockage/packages/f43/marknote/po/ast/marknote.po | 
+ | [ca](/f43/language/ca) | 313 | 317 | 98.7 | /mnt/stockage/packages/f43/marknote/po/ca/marknote.po | 
+ | [ca@valencia](/f43/language/ca@valencia) | 313 | 317 | 98.7 | /mnt/stockage/packages/f43/marknote/po/ca@valencia/marknote.po | 
+ | [en_GB](/f43/language/en_GB) | 313 | 317 | 98.7 | /mnt/stockage/packages/f43/marknote/po/en_GB/marknote.po | 
+ | [es](/f43/language/es) | 313 | 317 | 98.7 | /mnt/stockage/packages/f43/marknote/po/es/marknote.po | 
+ | [gl](/f43/language/gl) | 313 | 317 | 98.7 | /mnt/stockage/packages/f43/marknote/po/gl/marknote.po | 
+ | [he](/f43/language/he) | 313 | 317 | 98.7 | /mnt/stockage/packages/f43/marknote/po/he/marknote.po | 
+ | [ia](/f43/language/ia) | 313 | 317 | 98.7 | /mnt/stockage/packages/f43/marknote/po/ia/marknote.po | 
+ | [it](/f43/language/it) | 313 | 317 | 98.7 | /mnt/stockage/packages/f43/marknote/po/it/marknote.po | 
+ | [ka](/f43/language/ka) | 313 | 317 | 98.7 | /mnt/stockage/packages/f43/marknote/po/ka/marknote.po | 
+ | [nl](/f43/language/nl) | 313 | 317 | 98.7 | /mnt/stockage/packages/f43/marknote/po/nl/marknote.po | 
+ | [sl](/f43/language/sl) | 313 | 317 | 98.7 | /mnt/stockage/packages/f43/marknote/po/sl/marknote.po | 
+ | [sv](/f43/language/sv) | 313 | 317 | 98.7 | /mnt/stockage/packages/f43/marknote/po/sv/marknote.po | 
+ | [tr](/f43/language/tr) | 313 | 317 | 98.7 | /mnt/stockage/packages/f43/marknote/po/tr/marknote.po | 
+ | [uk](/f43/language/uk) | 313 | 317 | 98.7 | /mnt/stockage/packages/f43/marknote/po/uk/marknote.po | 
+ | [eo](/f43/language/eo) | 292 | 317 | 92.1 | /mnt/stockage/packages/f43/marknote/po/eo/marknote.po | 
+ | [fr](/f43/language/fr) | 275 | 317 | 86.8 | /mnt/stockage/packages/f43/marknote/po/fr/marknote.po | 
+ | [zh_Hant](/f43/language/zh_Hant) | 275 | 317 | 86.8 | /mnt/stockage/packages/f43/marknote/po/zh_TW/marknote.po | 
+ | [pl](/f43/language/pl) | 274 | 317 | 86.4 | /mnt/stockage/packages/f43/marknote/po/pl/marknote.po | 
+ | [cs](/f43/language/cs) | 259 | 317 | 81.7 | /mnt/stockage/packages/f43/marknote/po/cs/marknote.po | 
+ | [pt_BR](/f43/language/pt_BR) | 212 | 317 | 66.9 | /mnt/stockage/packages/f43/marknote/po/pt_BR/marknote.po | 
+ | [eu](/f43/language/eu) | 186 | 317 | 58.7 | /mnt/stockage/packages/f43/marknote/po/eu/marknote.po | 
+ | [zh_Hans](/f43/language/zh_Hans) | 179 | 317 | 56.5 | /mnt/stockage/packages/f43/marknote/po/zh_CN/marknote.po | 
+ | [nn](/f43/language/nn) | 75 | 317 | 23.7 | /mnt/stockage/packages/f43/marknote/po/nn/marknote.po | 
+ | [fi](/f43/language/fi) | 46 | 317 | 14.5 | /mnt/stockage/packages/f43/marknote/po/fi/marknote.po | 
+ | [ko](/f43/language/ko) | 46 | 317 | 14.5 | /mnt/stockage/packages/f43/marknote/po/ko/marknote.po | 
+ | [lv](/f43/language/lv) | 46 | 317 | 14.5 | /mnt/stockage/packages/f43/marknote/po/lv/marknote.po | 
+ | [de](/f43/language/de) | 33 | 317 | 10.4 | /mnt/stockage/packages/f43/marknote/po/de/marknote.po | 
+ | [sk](/f43/language/sk) | 22 | 317 | 6.9 | /mnt/stockage/packages/f43/marknote/po/sk/marknote.po | 
+ | [ast](/f43/language/ast) | 1 | 317 | 0.3 | /mnt/stockage/packages/f43/marknote/po/ast/marknote.po | 
 {.sortable}
 
 

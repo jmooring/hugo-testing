@@ -18,42 +18,42 @@ The package qtwebkit (version 2.3.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f21/language/ar.md" >}}) | 1093 | 1093 | 100.0 | /mnt/stockage/packages/f21/qtwebkit/Source/WebKit/gtk/po/ar.po | 
- | [bg]({{< ref "/f21/language/bg.md" >}}) | 1130 | 1130 | 100.0 | /mnt/stockage/packages/f21/qtwebkit/Source/WebKit/gtk/po/bg.po | 
- | [de]({{< ref "/f21/language/de.md" >}}) | 1472 | 1472 | 100.0 | /mnt/stockage/packages/f21/qtwebkit/Source/WebKit/gtk/po/de.po | 
- | [el]({{< ref "/f21/language/el.md" >}}) | 688 | 688 | 100.0 | /mnt/stockage/packages/f21/qtwebkit/Source/WebKit/gtk/po/el.po | 
- | [en]({{< ref "/f21/language/en.md" >}}) | 1472 | 1472 | 100.0 | /mnt/stockage/packages/f21/qtwebkit/Source/WebKit/gtk/po/en_CA.po | 
- | [es]({{< ref "/f21/language/es.md" >}}) | 1472 | 1472 | 100.0 | /mnt/stockage/packages/f21/qtwebkit/Source/WebKit/gtk/po/es.po | 
- | [eu]({{< ref "/f21/language/eu.md" >}}) | 1093 | 1093 | 100.0 | /mnt/stockage/packages/f21/qtwebkit/Source/WebKit/gtk/po/eu.po | 
- | [fr]({{< ref "/f21/language/fr.md" >}}) | 1198 | 1198 | 100.0 | /mnt/stockage/packages/f21/qtwebkit/Source/WebKit/gtk/po/fr.po | 
- | [hu]({{< ref "/f21/language/hu.md" >}}) | 1074 | 1074 | 100.0 | /mnt/stockage/packages/f21/qtwebkit/Source/WebKit/gtk/po/hu.po | 
- | [id]({{< ref "/f21/language/id.md" >}}) | 1821 | 1821 | 100.0 | /mnt/stockage/packages/f21/qtwebkit/Source/WebKit/gtk/po/id.po | 
- | [it]({{< ref "/f21/language/it.md" >}}) | 1472 | 1472 | 100.0 | /mnt/stockage/packages/f21/qtwebkit/Source/WebKit/gtk/po/it.po | 
- | [lt]({{< ref "/f21/language/lt.md" >}}) | 1074 | 1074 | 100.0 | /mnt/stockage/packages/f21/qtwebkit/Source/WebKit/gtk/po/lt.po | 
- | [lv]({{< ref "/f21/language/lv.md" >}}) | 688 | 688 | 100.0 | /mnt/stockage/packages/f21/qtwebkit/Source/WebKit/gtk/po/lv.po | 
- | [mr]({{< ref "/f21/language/mr.md" >}}) | 1821 | 1821 | 100.0 | /mnt/stockage/packages/f21/qtwebkit/Source/WebKit/gtk/po/mr.po | 
- | [nl]({{< ref "/f21/language/nl.md" >}}) | 1404 | 1404 | 100.0 | /mnt/stockage/packages/f21/qtwebkit/Source/WebKit/gtk/po/nl.po | 
- | [pl]({{< ref "/f21/language/pl.md" >}}) | 1472 | 1472 | 100.0 | /mnt/stockage/packages/f21/qtwebkit/Source/WebKit/gtk/po/pl.po | 
- | [pt]({{< ref "/f21/language/pt.md" >}}) | 1404 | 1404 | 100.0 | /mnt/stockage/packages/f21/qtwebkit/Source/WebKit/gtk/po/pt.po | 
- | [pt_BR]({{< ref "/f21/language/pt_BR.md" >}}) | 1093 | 1093 | 100.0 | /mnt/stockage/packages/f21/qtwebkit/Source/WebKit/gtk/po/pt_BR.po | 
- | [sl]({{< ref "/f21/language/sl.md" >}}) | 1472 | 1472 | 100.0 | /mnt/stockage/packages/f21/qtwebkit/Source/WebKit/gtk/po/sl.po | 
- | [sr]({{< ref "/f21/language/sr.md" >}}) | 1093 | 1093 | 100.0 | /mnt/stockage/packages/f21/qtwebkit/Source/WebKit/gtk/po/sr.po | 
- | [sr_Latn]({{< ref "/f21/language/sr_Latn.md" >}}) | 1093 | 1093 | 100.0 | /mnt/stockage/packages/f21/qtwebkit/Source/WebKit/gtk/po/sr@latin.po | 
- | [zh_Hans]({{< ref "/f21/language/zh_Hans.md" >}}) | 1093 | 1093 | 100.0 | /mnt/stockage/packages/f21/qtwebkit/Source/WebKit/gtk/po/zh_CN.po | 
- | [ko]({{< ref "/f21/language/ko.md" >}}) | 1431 | 1436 | 99.7 | /mnt/stockage/packages/f21/qtwebkit/Source/WebKit/gtk/po/ko.po | 
- | [vi]({{< ref "/f21/language/vi.md" >}}) | 1082 | 1093 | 99.0 | /mnt/stockage/packages/f21/qtwebkit/Source/WebKit/gtk/po/vi.po | 
- | [gl]({{< ref "/f21/language/gl.md" >}}) | 1445 | 1472 | 98.2 | /mnt/stockage/packages/f21/qtwebkit/Source/WebKit/gtk/po/gl.po | 
- | [gu]({{< ref "/f21/language/gu.md" >}}) | 1072 | 1093 | 98.1 | /mnt/stockage/packages/f21/qtwebkit/Source/WebKit/gtk/po/gu.po | 
- | [en_GB]({{< ref "/f21/language/en_GB.md" >}}) | 1443 | 1472 | 98.0 | /mnt/stockage/packages/f21/qtwebkit/Source/WebKit/gtk/po/en_GB.po | 
- | [cs]({{< ref "/f21/language/cs.md" >}}) | 1059 | 1093 | 96.9 | /mnt/stockage/packages/f21/qtwebkit/Source/WebKit/gtk/po/cs.po | 
- | [uk]({{< ref "/f21/language/uk.md" >}}) | 1209 | 1253 | 96.5 | /mnt/stockage/packages/f21/qtwebkit/Source/WebKit/gtk/po/uk.po | 
- | [et]({{< ref "/f21/language/et.md" >}}) | 991 | 1074 | 92.3 | /mnt/stockage/packages/f21/qtwebkit/Source/WebKit/gtk/po/et.po | 
- | [he]({{< ref "/f21/language/he.md" >}}) | 684 | 1093 | 62.6 | /mnt/stockage/packages/f21/qtwebkit/Source/WebKit/gtk/po/he.po | 
- | [pa]({{< ref "/f21/language/pa.md" >}}) | 684 | 1093 | 62.6 | /mnt/stockage/packages/f21/qtwebkit/Source/WebKit/gtk/po/pa.po | 
- | [sv]({{< ref "/f21/language/sv.md" >}}) | 684 | 1093 | 62.6 | /mnt/stockage/packages/f21/qtwebkit/Source/WebKit/gtk/po/sv.po | 
- | [ru]({{< ref "/f21/language/ru.md" >}}) | 618 | 1093 | 56.5 | /mnt/stockage/packages/f21/qtwebkit/Source/WebKit/gtk/po/ru.po | 
- | [eo]({{< ref "/f21/language/eo.md" >}}) | 313 | 1472 | 21.3 | /mnt/stockage/packages/f21/qtwebkit/Source/WebKit/gtk/po/eo.po | 
- | [nb_NO]({{< ref "/f21/language/nb_NO.md" >}}) | 218 | 1253 | 17.4 | /mnt/stockage/packages/f21/qtwebkit/Source/WebKit/gtk/po/nb.po | 
+ | [ar](/f21/language/ar) | 1093 | 1093 | 100.0 | /mnt/stockage/packages/f21/qtwebkit/Source/WebKit/gtk/po/ar.po | 
+ | [bg](/f21/language/bg) | 1130 | 1130 | 100.0 | /mnt/stockage/packages/f21/qtwebkit/Source/WebKit/gtk/po/bg.po | 
+ | [de](/f21/language/de) | 1472 | 1472 | 100.0 | /mnt/stockage/packages/f21/qtwebkit/Source/WebKit/gtk/po/de.po | 
+ | [el](/f21/language/el) | 688 | 688 | 100.0 | /mnt/stockage/packages/f21/qtwebkit/Source/WebKit/gtk/po/el.po | 
+ | [en](/f21/language/en) | 1472 | 1472 | 100.0 | /mnt/stockage/packages/f21/qtwebkit/Source/WebKit/gtk/po/en_CA.po | 
+ | [es](/f21/language/es) | 1472 | 1472 | 100.0 | /mnt/stockage/packages/f21/qtwebkit/Source/WebKit/gtk/po/es.po | 
+ | [eu](/f21/language/eu) | 1093 | 1093 | 100.0 | /mnt/stockage/packages/f21/qtwebkit/Source/WebKit/gtk/po/eu.po | 
+ | [fr](/f21/language/fr) | 1198 | 1198 | 100.0 | /mnt/stockage/packages/f21/qtwebkit/Source/WebKit/gtk/po/fr.po | 
+ | [hu](/f21/language/hu) | 1074 | 1074 | 100.0 | /mnt/stockage/packages/f21/qtwebkit/Source/WebKit/gtk/po/hu.po | 
+ | [id](/f21/language/id) | 1821 | 1821 | 100.0 | /mnt/stockage/packages/f21/qtwebkit/Source/WebKit/gtk/po/id.po | 
+ | [it](/f21/language/it) | 1472 | 1472 | 100.0 | /mnt/stockage/packages/f21/qtwebkit/Source/WebKit/gtk/po/it.po | 
+ | [lt](/f21/language/lt) | 1074 | 1074 | 100.0 | /mnt/stockage/packages/f21/qtwebkit/Source/WebKit/gtk/po/lt.po | 
+ | [lv](/f21/language/lv) | 688 | 688 | 100.0 | /mnt/stockage/packages/f21/qtwebkit/Source/WebKit/gtk/po/lv.po | 
+ | [mr](/f21/language/mr) | 1821 | 1821 | 100.0 | /mnt/stockage/packages/f21/qtwebkit/Source/WebKit/gtk/po/mr.po | 
+ | [nl](/f21/language/nl) | 1404 | 1404 | 100.0 | /mnt/stockage/packages/f21/qtwebkit/Source/WebKit/gtk/po/nl.po | 
+ | [pl](/f21/language/pl) | 1472 | 1472 | 100.0 | /mnt/stockage/packages/f21/qtwebkit/Source/WebKit/gtk/po/pl.po | 
+ | [pt](/f21/language/pt) | 1404 | 1404 | 100.0 | /mnt/stockage/packages/f21/qtwebkit/Source/WebKit/gtk/po/pt.po | 
+ | [pt_BR](/f21/language/pt_BR) | 1093 | 1093 | 100.0 | /mnt/stockage/packages/f21/qtwebkit/Source/WebKit/gtk/po/pt_BR.po | 
+ | [sl](/f21/language/sl) | 1472 | 1472 | 100.0 | /mnt/stockage/packages/f21/qtwebkit/Source/WebKit/gtk/po/sl.po | 
+ | [sr](/f21/language/sr) | 1093 | 1093 | 100.0 | /mnt/stockage/packages/f21/qtwebkit/Source/WebKit/gtk/po/sr.po | 
+ | [sr_Latn](/f21/language/sr_Latn) | 1093 | 1093 | 100.0 | /mnt/stockage/packages/f21/qtwebkit/Source/WebKit/gtk/po/sr@latin.po | 
+ | [zh_Hans](/f21/language/zh_Hans) | 1093 | 1093 | 100.0 | /mnt/stockage/packages/f21/qtwebkit/Source/WebKit/gtk/po/zh_CN.po | 
+ | [ko](/f21/language/ko) | 1431 | 1436 | 99.7 | /mnt/stockage/packages/f21/qtwebkit/Source/WebKit/gtk/po/ko.po | 
+ | [vi](/f21/language/vi) | 1082 | 1093 | 99.0 | /mnt/stockage/packages/f21/qtwebkit/Source/WebKit/gtk/po/vi.po | 
+ | [gl](/f21/language/gl) | 1445 | 1472 | 98.2 | /mnt/stockage/packages/f21/qtwebkit/Source/WebKit/gtk/po/gl.po | 
+ | [gu](/f21/language/gu) | 1072 | 1093 | 98.1 | /mnt/stockage/packages/f21/qtwebkit/Source/WebKit/gtk/po/gu.po | 
+ | [en_GB](/f21/language/en_GB) | 1443 | 1472 | 98.0 | /mnt/stockage/packages/f21/qtwebkit/Source/WebKit/gtk/po/en_GB.po | 
+ | [cs](/f21/language/cs) | 1059 | 1093 | 96.9 | /mnt/stockage/packages/f21/qtwebkit/Source/WebKit/gtk/po/cs.po | 
+ | [uk](/f21/language/uk) | 1209 | 1253 | 96.5 | /mnt/stockage/packages/f21/qtwebkit/Source/WebKit/gtk/po/uk.po | 
+ | [et](/f21/language/et) | 991 | 1074 | 92.3 | /mnt/stockage/packages/f21/qtwebkit/Source/WebKit/gtk/po/et.po | 
+ | [he](/f21/language/he) | 684 | 1093 | 62.6 | /mnt/stockage/packages/f21/qtwebkit/Source/WebKit/gtk/po/he.po | 
+ | [pa](/f21/language/pa) | 684 | 1093 | 62.6 | /mnt/stockage/packages/f21/qtwebkit/Source/WebKit/gtk/po/pa.po | 
+ | [sv](/f21/language/sv) | 684 | 1093 | 62.6 | /mnt/stockage/packages/f21/qtwebkit/Source/WebKit/gtk/po/sv.po | 
+ | [ru](/f21/language/ru) | 618 | 1093 | 56.5 | /mnt/stockage/packages/f21/qtwebkit/Source/WebKit/gtk/po/ru.po | 
+ | [eo](/f21/language/eo) | 313 | 1472 | 21.3 | /mnt/stockage/packages/f21/qtwebkit/Source/WebKit/gtk/po/eo.po | 
+ | [nb_NO](/f21/language/nb_NO) | 218 | 1253 | 17.4 | /mnt/stockage/packages/f21/qtwebkit/Source/WebKit/gtk/po/nb.po | 
 {.sortable}
 
 

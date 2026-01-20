@@ -18,17 +18,17 @@ The package mojomojo (version 1.06):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [pl]({{< ref "/f18/language/pl.md" >}}) | 1828 | 1842 | 99.2 | /mnt/stockage/packages/f18/mojomojo/lib/MojoMojo/I18N/pl.js.po/mnt/stockage/packages/f18/mojomojo/lib/MojoMojo/I18N/pl.po | 
- | [nb_NO]({{< ref "/f18/language/nb_NO.md" >}}) | 2252 | 2289 | 98.4 | /mnt/stockage/packages/f18/mojomojo/lib/MojoMojo/I18N/no.js.po/mnt/stockage/packages/f18/mojomojo/lib/MojoMojo/I18N/no.po | 
- | [es]({{< ref "/f18/language/es.md" >}}) | 2040 | 2099 | 97.2 | /mnt/stockage/packages/f18/mojomojo/lib/MojoMojo/I18N/es.js.po/mnt/stockage/packages/f18/mojomojo/lib/MojoMojo/I18N/es.po | 
- | [it]({{< ref "/f18/language/it.md" >}}) | 1724 | 1857 | 92.8 | /mnt/stockage/packages/f18/mojomojo/lib/MojoMojo/I18N/it.js.po/mnt/stockage/packages/f18/mojomojo/lib/MojoMojo/I18N/it.po | 
- | [ru]({{< ref "/f18/language/ru.md" >}}) | 1773 | 2228 | 79.6 | /mnt/stockage/packages/f18/mojomojo/lib/MojoMojo/I18N/ru.js.po/mnt/stockage/packages/f18/mojomojo/lib/MojoMojo/I18N/ru.po | 
- | [de]({{< ref "/f18/language/de.md" >}}) | 1487 | 2202 | 67.5 | /mnt/stockage/packages/f18/mojomojo/lib/MojoMojo/I18N/de.js.po/mnt/stockage/packages/f18/mojomojo/lib/MojoMojo/I18N/de.po | 
- | [fr]({{< ref "/f18/language/fr.md" >}}) | 1314 | 2129 | 61.7 | /mnt/stockage/packages/f18/mojomojo/lib/MojoMojo/I18N/fr.js.po/mnt/stockage/packages/f18/mojomojo/lib/MojoMojo/I18N/fr.po | 
- | [ko]({{< ref "/f18/language/ko.md" >}}) | 720 | 1739 | 41.4 | /mnt/stockage/packages/f18/mojomojo/lib/MojoMojo/I18N/ko.po | 
- | [ca]({{< ref "/f18/language/ca.md" >}}) | 633 | 1927 | 32.8 | /mnt/stockage/packages/f18/mojomojo/lib/MojoMojo/I18N/ca.js.po/mnt/stockage/packages/f18/mojomojo/lib/MojoMojo/I18N/ca.po | 
- | [ja]({{< ref "/f18/language/ja.md" >}}) | 588 | 1902 | 30.9 | /mnt/stockage/packages/f18/mojomojo/lib/MojoMojo/I18N/ja.js.po/mnt/stockage/packages/f18/mojomojo/lib/MojoMojo/I18N/ja.po | 
- | [en]({{< ref "/f18/language/en.md" >}}) | 260 | 1823 | 14.3 | /mnt/stockage/packages/f18/mojomojo/lib/MojoMojo/I18N/en.js.po/mnt/stockage/packages/f18/mojomojo/lib/MojoMojo/I18N/en.po | 
+ | [pl](/f18/language/pl) | 1828 | 1842 | 99.2 | /mnt/stockage/packages/f18/mojomojo/lib/MojoMojo/I18N/pl.js.po/mnt/stockage/packages/f18/mojomojo/lib/MojoMojo/I18N/pl.po | 
+ | [nb_NO](/f18/language/nb_NO) | 2252 | 2289 | 98.4 | /mnt/stockage/packages/f18/mojomojo/lib/MojoMojo/I18N/no.js.po/mnt/stockage/packages/f18/mojomojo/lib/MojoMojo/I18N/no.po | 
+ | [es](/f18/language/es) | 2040 | 2099 | 97.2 | /mnt/stockage/packages/f18/mojomojo/lib/MojoMojo/I18N/es.js.po/mnt/stockage/packages/f18/mojomojo/lib/MojoMojo/I18N/es.po | 
+ | [it](/f18/language/it) | 1724 | 1857 | 92.8 | /mnt/stockage/packages/f18/mojomojo/lib/MojoMojo/I18N/it.js.po/mnt/stockage/packages/f18/mojomojo/lib/MojoMojo/I18N/it.po | 
+ | [ru](/f18/language/ru) | 1773 | 2228 | 79.6 | /mnt/stockage/packages/f18/mojomojo/lib/MojoMojo/I18N/ru.js.po/mnt/stockage/packages/f18/mojomojo/lib/MojoMojo/I18N/ru.po | 
+ | [de](/f18/language/de) | 1487 | 2202 | 67.5 | /mnt/stockage/packages/f18/mojomojo/lib/MojoMojo/I18N/de.js.po/mnt/stockage/packages/f18/mojomojo/lib/MojoMojo/I18N/de.po | 
+ | [fr](/f18/language/fr) | 1314 | 2129 | 61.7 | /mnt/stockage/packages/f18/mojomojo/lib/MojoMojo/I18N/fr.js.po/mnt/stockage/packages/f18/mojomojo/lib/MojoMojo/I18N/fr.po | 
+ | [ko](/f18/language/ko) | 720 | 1739 | 41.4 | /mnt/stockage/packages/f18/mojomojo/lib/MojoMojo/I18N/ko.po | 
+ | [ca](/f18/language/ca) | 633 | 1927 | 32.8 | /mnt/stockage/packages/f18/mojomojo/lib/MojoMojo/I18N/ca.js.po/mnt/stockage/packages/f18/mojomojo/lib/MojoMojo/I18N/ca.po | 
+ | [ja](/f18/language/ja) | 588 | 1902 | 30.9 | /mnt/stockage/packages/f18/mojomojo/lib/MojoMojo/I18N/ja.js.po/mnt/stockage/packages/f18/mojomojo/lib/MojoMojo/I18N/ja.po | 
+ | [en](/f18/language/en) | 260 | 1823 | 14.3 | /mnt/stockage/packages/f18/mojomojo/lib/MojoMojo/I18N/en.js.po/mnt/stockage/packages/f18/mojomojo/lib/MojoMojo/I18N/en.po | 
 {.sortable}
 
 

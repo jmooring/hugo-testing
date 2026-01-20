@@ -18,16 +18,16 @@ The package trytond-country (version 2.6.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f23/language/de.md" >}}) | 6995 | 6995 | 100.0 | /mnt/stockage/packages/f23/trytond-country/locale/de_DE.po | 
- | [es]({{< ref "/f23/language/es.md" >}}) | 6997 | 6997 | 100.0 | /mnt/stockage/packages/f23/trytond-country/locale/es_ES.po | 
- | [es_AR]({{< ref "/f23/language/es_AR.md" >}}) | 6997 | 6997 | 100.0 | /mnt/stockage/packages/f23/trytond-country/locale/es_AR.po | 
- | [es_CO]({{< ref "/f23/language/es_CO.md" >}}) | 6997 | 6997 | 100.0 | /mnt/stockage/packages/f23/trytond-country/locale/es_CO.po | 
- | [fr]({{< ref "/f23/language/fr.md" >}}) | 7156 | 7156 | 100.0 | /mnt/stockage/packages/f23/trytond-country/locale/fr_FR.po | 
- | [bg]({{< ref "/f23/language/bg.md" >}}) | 6972 | 6993 | 99.7 | /mnt/stockage/packages/f23/trytond-country/locale/bg_BG.po | 
- | [cs]({{< ref "/f23/language/cs.md" >}}) | 6781 | 6993 | 97.0 | /mnt/stockage/packages/f23/trytond-country/locale/cs_CZ.po | 
- | [nl]({{< ref "/f23/language/nl.md" >}}) | 6781 | 6993 | 97.0 | /mnt/stockage/packages/f23/trytond-country/locale/nl_NL.po | 
- | [ca]({{< ref "/f23/language/ca.md" >}}) | 667 | 6997 | 9.5 | /mnt/stockage/packages/f23/trytond-country/locale/ca_ES.po | 
- | [ru]({{< ref "/f23/language/ru.md" >}}) | 492 | 6993 | 7.0 | /mnt/stockage/packages/f23/trytond-country/locale/ru_RU.po | 
+ | [de](/f23/language/de) | 6995 | 6995 | 100.0 | /mnt/stockage/packages/f23/trytond-country/locale/de_DE.po | 
+ | [es](/f23/language/es) | 6997 | 6997 | 100.0 | /mnt/stockage/packages/f23/trytond-country/locale/es_ES.po | 
+ | [es_AR](/f23/language/es_AR) | 6997 | 6997 | 100.0 | /mnt/stockage/packages/f23/trytond-country/locale/es_AR.po | 
+ | [es_CO](/f23/language/es_CO) | 6997 | 6997 | 100.0 | /mnt/stockage/packages/f23/trytond-country/locale/es_CO.po | 
+ | [fr](/f23/language/fr) | 7156 | 7156 | 100.0 | /mnt/stockage/packages/f23/trytond-country/locale/fr_FR.po | 
+ | [bg](/f23/language/bg) | 6972 | 6993 | 99.7 | /mnt/stockage/packages/f23/trytond-country/locale/bg_BG.po | 
+ | [cs](/f23/language/cs) | 6781 | 6993 | 97.0 | /mnt/stockage/packages/f23/trytond-country/locale/cs_CZ.po | 
+ | [nl](/f23/language/nl) | 6781 | 6993 | 97.0 | /mnt/stockage/packages/f23/trytond-country/locale/nl_NL.po | 
+ | [ca](/f23/language/ca) | 667 | 6997 | 9.5 | /mnt/stockage/packages/f23/trytond-country/locale/ca_ES.po | 
+ | [ru](/f23/language/ru) | 492 | 6993 | 7.0 | /mnt/stockage/packages/f23/trytond-country/locale/ru_RU.po | 
 {.sortable}
 
 

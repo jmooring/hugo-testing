@@ -18,13 +18,13 @@ The package libgpod (version 0.5.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [es]({{< ref "/f8/language/es.md" >}}) | 842 | 842 | 100.0 | /mnt/stockage/packages/f8/libgpod/po/es.po | 
- | [it]({{< ref "/f8/language/it.md" >}}) | 842 | 842 | 100.0 | /mnt/stockage/packages/f8/libgpod/po/it.po | 
- | [de]({{< ref "/f8/language/de.md" >}}) | 738 | 842 | 87.6 | /mnt/stockage/packages/f8/libgpod/po/de.po | 
- | [fr]({{< ref "/f8/language/fr.md" >}}) | 738 | 842 | 87.6 | /mnt/stockage/packages/f8/libgpod/po/fr.po | 
- | [sv]({{< ref "/f8/language/sv.md" >}}) | 729 | 842 | 86.6 | /mnt/stockage/packages/f8/libgpod/po/sv.po | 
- | [ja]({{< ref "/f8/language/ja.md" >}}) | 713 | 842 | 84.7 | /mnt/stockage/packages/f8/libgpod/po/ja.po | 
- | [he]({{< ref "/f8/language/he.md" >}}) | 205 | 842 | 24.3 | /mnt/stockage/packages/f8/libgpod/po/he.po | 
+ | [es](/f8/language/es) | 842 | 842 | 100.0 | /mnt/stockage/packages/f8/libgpod/po/es.po | 
+ | [it](/f8/language/it) | 842 | 842 | 100.0 | /mnt/stockage/packages/f8/libgpod/po/it.po | 
+ | [de](/f8/language/de) | 738 | 842 | 87.6 | /mnt/stockage/packages/f8/libgpod/po/de.po | 
+ | [fr](/f8/language/fr) | 738 | 842 | 87.6 | /mnt/stockage/packages/f8/libgpod/po/fr.po | 
+ | [sv](/f8/language/sv) | 729 | 842 | 86.6 | /mnt/stockage/packages/f8/libgpod/po/sv.po | 
+ | [ja](/f8/language/ja) | 713 | 842 | 84.7 | /mnt/stockage/packages/f8/libgpod/po/ja.po | 
+ | [he](/f8/language/he) | 205 | 842 | 24.3 | /mnt/stockage/packages/f8/libgpod/po/he.po | 
 {.sortable}
 
 

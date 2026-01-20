@@ -18,9 +18,9 @@ The package csmash (version 0.6.6):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f7/language/fr.md" >}}) | 118 | 291 | 40.5 | /mnt/stockage/packages/f7/csmash/po/fr.po | 
- | [de]({{< ref "/f7/language/de.md" >}}) | 99 | 291 | 34.0 | /mnt/stockage/packages/f7/csmash/po/de.po | 
- | [ja]({{< ref "/f7/language/ja.md" >}}) | 42 | 291 | 14.4 | /mnt/stockage/packages/f7/csmash/po/ja.po | 
+ | [fr](/f7/language/fr) | 118 | 291 | 40.5 | /mnt/stockage/packages/f7/csmash/po/fr.po | 
+ | [de](/f7/language/de) | 99 | 291 | 34.0 | /mnt/stockage/packages/f7/csmash/po/de.po | 
+ | [ja](/f7/language/ja) | 42 | 291 | 14.4 | /mnt/stockage/packages/f7/csmash/po/ja.po | 
 {.sortable}
 
 

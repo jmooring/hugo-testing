@@ -18,57 +18,57 @@ The package libpwquality (version 1.4.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f34/language/cs.md" >}}) | 345 | 345 | 100.0 | /mnt/stockage/packages/f34/libpwquality/po/cs.po | 
- | [pl]({{< ref "/f34/language/pl.md" >}}) | 345 | 345 | 100.0 | /mnt/stockage/packages/f34/libpwquality/po/pl.po | 
- | [tr]({{< ref "/f34/language/tr.md" >}}) | 345 | 345 | 100.0 | /mnt/stockage/packages/f34/libpwquality/po/tr.po | 
- | [uk]({{< ref "/f34/language/uk.md" >}}) | 345 | 345 | 100.0 | /mnt/stockage/packages/f34/libpwquality/po/uk.po | 
- | [as]({{< ref "/f34/language/as.md" >}}) | 333 | 345 | 96.5 | /mnt/stockage/packages/f34/libpwquality/po/as.po | 
- | [bg]({{< ref "/f34/language/bg.md" >}}) | 333 | 345 | 96.5 | /mnt/stockage/packages/f34/libpwquality/po/bg.po | 
- | [bn_IN]({{< ref "/f34/language/bn_IN.md" >}}) | 333 | 345 | 96.5 | /mnt/stockage/packages/f34/libpwquality/po/bn_IN.po | 
- | [ca]({{< ref "/f34/language/ca.md" >}}) | 333 | 345 | 96.5 | /mnt/stockage/packages/f34/libpwquality/po/ca.po | 
- | [da]({{< ref "/f34/language/da.md" >}}) | 333 | 345 | 96.5 | /mnt/stockage/packages/f34/libpwquality/po/da.po | 
- | [de]({{< ref "/f34/language/de.md" >}}) | 333 | 345 | 96.5 | /mnt/stockage/packages/f34/libpwquality/po/de.po | 
- | [es]({{< ref "/f34/language/es.md" >}}) | 333 | 345 | 96.5 | /mnt/stockage/packages/f34/libpwquality/po/es.po | 
- | [fi]({{< ref "/f34/language/fi.md" >}}) | 333 | 345 | 96.5 | /mnt/stockage/packages/f34/libpwquality/po/fi.po | 
- | [fr]({{< ref "/f34/language/fr.md" >}}) | 333 | 345 | 96.5 | /mnt/stockage/packages/f34/libpwquality/po/fr.po | 
- | [fur]({{< ref "/f34/language/fur.md" >}}) | 333 | 345 | 96.5 | /mnt/stockage/packages/f34/libpwquality/po/fur.po | 
- | [gu]({{< ref "/f34/language/gu.md" >}}) | 333 | 345 | 96.5 | /mnt/stockage/packages/f34/libpwquality/po/gu.po | 
- | [he]({{< ref "/f34/language/he.md" >}}) | 333 | 345 | 96.5 | /mnt/stockage/packages/f34/libpwquality/po/he.po | 
- | [hi]({{< ref "/f34/language/hi.md" >}}) | 333 | 345 | 96.5 | /mnt/stockage/packages/f34/libpwquality/po/hi.po | 
- | [hu]({{< ref "/f34/language/hu.md" >}}) | 333 | 345 | 96.5 | /mnt/stockage/packages/f34/libpwquality/po/hu.po | 
- | [id]({{< ref "/f34/language/id.md" >}}) | 333 | 345 | 96.5 | /mnt/stockage/packages/f34/libpwquality/po/id.po | 
- | [it]({{< ref "/f34/language/it.md" >}}) | 333 | 345 | 96.5 | /mnt/stockage/packages/f34/libpwquality/po/it.po | 
- | [ja]({{< ref "/f34/language/ja.md" >}}) | 333 | 345 | 96.5 | /mnt/stockage/packages/f34/libpwquality/po/ja.po | 
- | [km]({{< ref "/f34/language/km.md" >}}) | 333 | 345 | 96.5 | /mnt/stockage/packages/f34/libpwquality/po/km.po | 
- | [kn]({{< ref "/f34/language/kn.md" >}}) | 333 | 345 | 96.5 | /mnt/stockage/packages/f34/libpwquality/po/kn.po | 
- | [ko]({{< ref "/f34/language/ko.md" >}}) | 333 | 345 | 96.5 | /mnt/stockage/packages/f34/libpwquality/po/ko.po | 
- | [ml]({{< ref "/f34/language/ml.md" >}}) | 333 | 345 | 96.5 | /mnt/stockage/packages/f34/libpwquality/po/ml.po | 
- | [mr]({{< ref "/f34/language/mr.md" >}}) | 333 | 345 | 96.5 | /mnt/stockage/packages/f34/libpwquality/po/mr.po | 
- | [nb_NO]({{< ref "/f34/language/nb_NO.md" >}}) | 333 | 345 | 96.5 | /mnt/stockage/packages/f34/libpwquality/po/nb.po | 
- | [nl]({{< ref "/f34/language/nl.md" >}}) | 333 | 345 | 96.5 | /mnt/stockage/packages/f34/libpwquality/po/nl.po | 
- | [or]({{< ref "/f34/language/or.md" >}}) | 333 | 345 | 96.5 | /mnt/stockage/packages/f34/libpwquality/po/or.po | 
- | [pa]({{< ref "/f34/language/pa.md" >}}) | 333 | 345 | 96.5 | /mnt/stockage/packages/f34/libpwquality/po/pa.po | 
- | [pt]({{< ref "/f34/language/pt.md" >}}) | 333 | 345 | 96.5 | /mnt/stockage/packages/f34/libpwquality/po/pt.po | 
- | [pt_BR]({{< ref "/f34/language/pt_BR.md" >}}) | 333 | 345 | 96.5 | /mnt/stockage/packages/f34/libpwquality/po/pt_BR.po | 
- | [ru]({{< ref "/f34/language/ru.md" >}}) | 333 | 345 | 96.5 | /mnt/stockage/packages/f34/libpwquality/po/ru.po | 
- | [sk]({{< ref "/f34/language/sk.md" >}}) | 333 | 345 | 96.5 | /mnt/stockage/packages/f34/libpwquality/po/sk.po | 
- | [sr]({{< ref "/f34/language/sr.md" >}}) | 333 | 345 | 96.5 | /mnt/stockage/packages/f34/libpwquality/po/sr.po | 
- | [sv]({{< ref "/f34/language/sv.md" >}}) | 333 | 345 | 96.5 | /mnt/stockage/packages/f34/libpwquality/po/sv.po | 
- | [ta]({{< ref "/f34/language/ta.md" >}}) | 333 | 345 | 96.5 | /mnt/stockage/packages/f34/libpwquality/po/ta.po | 
- | [te]({{< ref "/f34/language/te.md" >}}) | 333 | 345 | 96.5 | /mnt/stockage/packages/f34/libpwquality/po/te.po | 
- | [zh_Hans]({{< ref "/f34/language/zh_Hans.md" >}}) | 333 | 345 | 96.5 | /mnt/stockage/packages/f34/libpwquality/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f34/language/zh_Hant.md" >}}) | 333 | 345 | 96.5 | /mnt/stockage/packages/f34/libpwquality/po/zh_TW.po | 
- | [kk]({{< ref "/f34/language/kk.md" >}}) | 165 | 345 | 47.8 | /mnt/stockage/packages/f34/libpwquality/po/kk.po | 
- | [eu]({{< ref "/f34/language/eu.md" >}}) | 98 | 345 | 28.4 | /mnt/stockage/packages/f34/libpwquality/po/eu.po | 
- | [sq]({{< ref "/f34/language/sq.md" >}}) | 54 | 345 | 15.7 | /mnt/stockage/packages/f34/libpwquality/po/sq.po | 
- | [ur]({{< ref "/f34/language/ur.md" >}}) | 23 | 345 | 6.7 | /mnt/stockage/packages/f34/libpwquality/po/ur.po | 
- | [ar]({{< ref "/f34/language/ar.md" >}}) | 8 | 345 | 2.3 | /mnt/stockage/packages/f34/libpwquality/po/ar.po | 
- | [si]({{< ref "/f34/language/si.md" >}}) | 8 | 345 | 2.3 | /mnt/stockage/packages/f34/libpwquality/po/si.po | 
- | [sr_Latn]({{< ref "/f34/language/sr_Latn.md" >}}) | 8 | 345 | 2.3 | /mnt/stockage/packages/f34/libpwquality/po/sr@latin.po | 
- | [vi]({{< ref "/f34/language/vi.md" >}}) | 8 | 345 | 2.3 | /mnt/stockage/packages/f34/libpwquality/po/vi.po | 
- | [zu]({{< ref "/f34/language/zu.md" >}}) | 8 | 345 | 2.3 | /mnt/stockage/packages/f34/libpwquality/po/zu.po | 
- | [az]({{< ref "/f34/language/az.md" >}}) | 0 | 345 | 0.0 | /mnt/stockage/packages/f34/libpwquality/po/az.po | 
- | [fa]({{< ref "/f34/language/fa.md" >}}) | 0 | 345 | 0.0 | /mnt/stockage/packages/f34/libpwquality/po/fa.po | 
+ | [cs](/f34/language/cs) | 345 | 345 | 100.0 | /mnt/stockage/packages/f34/libpwquality/po/cs.po | 
+ | [pl](/f34/language/pl) | 345 | 345 | 100.0 | /mnt/stockage/packages/f34/libpwquality/po/pl.po | 
+ | [tr](/f34/language/tr) | 345 | 345 | 100.0 | /mnt/stockage/packages/f34/libpwquality/po/tr.po | 
+ | [uk](/f34/language/uk) | 345 | 345 | 100.0 | /mnt/stockage/packages/f34/libpwquality/po/uk.po | 
+ | [as](/f34/language/as) | 333 | 345 | 96.5 | /mnt/stockage/packages/f34/libpwquality/po/as.po | 
+ | [bg](/f34/language/bg) | 333 | 345 | 96.5 | /mnt/stockage/packages/f34/libpwquality/po/bg.po | 
+ | [bn_IN](/f34/language/bn_IN) | 333 | 345 | 96.5 | /mnt/stockage/packages/f34/libpwquality/po/bn_IN.po | 
+ | [ca](/f34/language/ca) | 333 | 345 | 96.5 | /mnt/stockage/packages/f34/libpwquality/po/ca.po | 
+ | [da](/f34/language/da) | 333 | 345 | 96.5 | /mnt/stockage/packages/f34/libpwquality/po/da.po | 
+ | [de](/f34/language/de) | 333 | 345 | 96.5 | /mnt/stockage/packages/f34/libpwquality/po/de.po | 
+ | [es](/f34/language/es) | 333 | 345 | 96.5 | /mnt/stockage/packages/f34/libpwquality/po/es.po | 
+ | [fi](/f34/language/fi) | 333 | 345 | 96.5 | /mnt/stockage/packages/f34/libpwquality/po/fi.po | 
+ | [fr](/f34/language/fr) | 333 | 345 | 96.5 | /mnt/stockage/packages/f34/libpwquality/po/fr.po | 
+ | [fur](/f34/language/fur) | 333 | 345 | 96.5 | /mnt/stockage/packages/f34/libpwquality/po/fur.po | 
+ | [gu](/f34/language/gu) | 333 | 345 | 96.5 | /mnt/stockage/packages/f34/libpwquality/po/gu.po | 
+ | [he](/f34/language/he) | 333 | 345 | 96.5 | /mnt/stockage/packages/f34/libpwquality/po/he.po | 
+ | [hi](/f34/language/hi) | 333 | 345 | 96.5 | /mnt/stockage/packages/f34/libpwquality/po/hi.po | 
+ | [hu](/f34/language/hu) | 333 | 345 | 96.5 | /mnt/stockage/packages/f34/libpwquality/po/hu.po | 
+ | [id](/f34/language/id) | 333 | 345 | 96.5 | /mnt/stockage/packages/f34/libpwquality/po/id.po | 
+ | [it](/f34/language/it) | 333 | 345 | 96.5 | /mnt/stockage/packages/f34/libpwquality/po/it.po | 
+ | [ja](/f34/language/ja) | 333 | 345 | 96.5 | /mnt/stockage/packages/f34/libpwquality/po/ja.po | 
+ | [km](/f34/language/km) | 333 | 345 | 96.5 | /mnt/stockage/packages/f34/libpwquality/po/km.po | 
+ | [kn](/f34/language/kn) | 333 | 345 | 96.5 | /mnt/stockage/packages/f34/libpwquality/po/kn.po | 
+ | [ko](/f34/language/ko) | 333 | 345 | 96.5 | /mnt/stockage/packages/f34/libpwquality/po/ko.po | 
+ | [ml](/f34/language/ml) | 333 | 345 | 96.5 | /mnt/stockage/packages/f34/libpwquality/po/ml.po | 
+ | [mr](/f34/language/mr) | 333 | 345 | 96.5 | /mnt/stockage/packages/f34/libpwquality/po/mr.po | 
+ | [nb_NO](/f34/language/nb_NO) | 333 | 345 | 96.5 | /mnt/stockage/packages/f34/libpwquality/po/nb.po | 
+ | [nl](/f34/language/nl) | 333 | 345 | 96.5 | /mnt/stockage/packages/f34/libpwquality/po/nl.po | 
+ | [or](/f34/language/or) | 333 | 345 | 96.5 | /mnt/stockage/packages/f34/libpwquality/po/or.po | 
+ | [pa](/f34/language/pa) | 333 | 345 | 96.5 | /mnt/stockage/packages/f34/libpwquality/po/pa.po | 
+ | [pt](/f34/language/pt) | 333 | 345 | 96.5 | /mnt/stockage/packages/f34/libpwquality/po/pt.po | 
+ | [pt_BR](/f34/language/pt_BR) | 333 | 345 | 96.5 | /mnt/stockage/packages/f34/libpwquality/po/pt_BR.po | 
+ | [ru](/f34/language/ru) | 333 | 345 | 96.5 | /mnt/stockage/packages/f34/libpwquality/po/ru.po | 
+ | [sk](/f34/language/sk) | 333 | 345 | 96.5 | /mnt/stockage/packages/f34/libpwquality/po/sk.po | 
+ | [sr](/f34/language/sr) | 333 | 345 | 96.5 | /mnt/stockage/packages/f34/libpwquality/po/sr.po | 
+ | [sv](/f34/language/sv) | 333 | 345 | 96.5 | /mnt/stockage/packages/f34/libpwquality/po/sv.po | 
+ | [ta](/f34/language/ta) | 333 | 345 | 96.5 | /mnt/stockage/packages/f34/libpwquality/po/ta.po | 
+ | [te](/f34/language/te) | 333 | 345 | 96.5 | /mnt/stockage/packages/f34/libpwquality/po/te.po | 
+ | [zh_Hans](/f34/language/zh_Hans) | 333 | 345 | 96.5 | /mnt/stockage/packages/f34/libpwquality/po/zh_CN.po | 
+ | [zh_Hant](/f34/language/zh_Hant) | 333 | 345 | 96.5 | /mnt/stockage/packages/f34/libpwquality/po/zh_TW.po | 
+ | [kk](/f34/language/kk) | 165 | 345 | 47.8 | /mnt/stockage/packages/f34/libpwquality/po/kk.po | 
+ | [eu](/f34/language/eu) | 98 | 345 | 28.4 | /mnt/stockage/packages/f34/libpwquality/po/eu.po | 
+ | [sq](/f34/language/sq) | 54 | 345 | 15.7 | /mnt/stockage/packages/f34/libpwquality/po/sq.po | 
+ | [ur](/f34/language/ur) | 23 | 345 | 6.7 | /mnt/stockage/packages/f34/libpwquality/po/ur.po | 
+ | [ar](/f34/language/ar) | 8 | 345 | 2.3 | /mnt/stockage/packages/f34/libpwquality/po/ar.po | 
+ | [si](/f34/language/si) | 8 | 345 | 2.3 | /mnt/stockage/packages/f34/libpwquality/po/si.po | 
+ | [sr_Latn](/f34/language/sr_Latn) | 8 | 345 | 2.3 | /mnt/stockage/packages/f34/libpwquality/po/sr@latin.po | 
+ | [vi](/f34/language/vi) | 8 | 345 | 2.3 | /mnt/stockage/packages/f34/libpwquality/po/vi.po | 
+ | [zu](/f34/language/zu) | 8 | 345 | 2.3 | /mnt/stockage/packages/f34/libpwquality/po/zu.po | 
+ | [az](/f34/language/az) | 0 | 345 | 0.0 | /mnt/stockage/packages/f34/libpwquality/po/az.po | 
+ | [fa](/f34/language/fa) | 0 | 345 | 0.0 | /mnt/stockage/packages/f34/libpwquality/po/fa.po | 
 {.sortable}
 
 

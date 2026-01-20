@@ -18,10 +18,10 @@ The package ndisc6 (version 1.0.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f13/language/cs.md" >}}) | 989 | 989 | 100.0 | /mnt/stockage/packages/f13/ndisc6/po/cs.po | 
- | [de]({{< ref "/f13/language/de.md" >}}) | 989 | 989 | 100.0 | /mnt/stockage/packages/f13/ndisc6/po/de.po | 
- | [fr]({{< ref "/f13/language/fr.md" >}}) | 989 | 989 | 100.0 | /mnt/stockage/packages/f13/ndisc6/po/fr.po | 
- | [en]({{< ref "/f13/language/en.md" >}}) | 521 | 989 | 52.7 | /mnt/stockage/packages/f13/ndisc6/po/en.po | 
+ | [cs](/f13/language/cs) | 989 | 989 | 100.0 | /mnt/stockage/packages/f13/ndisc6/po/cs.po | 
+ | [de](/f13/language/de) | 989 | 989 | 100.0 | /mnt/stockage/packages/f13/ndisc6/po/de.po | 
+ | [fr](/f13/language/fr) | 989 | 989 | 100.0 | /mnt/stockage/packages/f13/ndisc6/po/fr.po | 
+ | [en](/f13/language/en) | 521 | 989 | 52.7 | /mnt/stockage/packages/f13/ndisc6/po/en.po | 
 {.sortable}
 
 

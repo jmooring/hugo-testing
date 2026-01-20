@@ -18,7 +18,7 @@ The package nntpgrab (version 0.2.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [nl]({{< ref "/f9/language/nl.md" >}}) | 800 | 805 | 99.4 | /mnt/stockage/packages/f9/nntpgrab/po/nl.po | 
+ | [nl](/f9/language/nl) | 800 | 805 | 99.4 | /mnt/stockage/packages/f9/nntpgrab/po/nl.po | 
 {.sortable}
 
 

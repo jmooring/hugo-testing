@@ -41,8 +41,8 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [pidgin]({{< ref "/f8/package/pidgin.md" >}}) | 14073 | 15654 | 89.9 | Catalan <tradgnome@softcatala.net> | 
- | [wesnoth]({{< ref "/f8/package/wesnoth.md" >}}) | 14492 | 119067 | 12.2 | none | 
+ | [pidgin](/f8/package/pidgin) | 14073 | 15654 | 89.9 | Catalan <tradgnome@softcatala.net> | 
+ | [wesnoth](/f8/package/wesnoth) | 14492 | 119067 | 12.2 | none | 
 {.sortable}
 
 

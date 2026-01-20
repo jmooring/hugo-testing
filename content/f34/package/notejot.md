@@ -18,23 +18,23 @@ The package notejot (version 2.7.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f34/language/fr.md" >}}) | 34 | 34 | 100.0 | /mnt/stockage/packages/f34/notejot/po/extra/fr.po | 
- | [nl]({{< ref "/f34/language/nl.md" >}}) | 274 | 274 | 100.0 | /mnt/stockage/packages/f34/notejot/po/nl.po/mnt/stockage/packages/f34/notejot/po/extra/nl.po | 
- | [sv]({{< ref "/f34/language/sv.md" >}}) | 274 | 274 | 100.0 | /mnt/stockage/packages/f34/notejot/po/sv.po/mnt/stockage/packages/f34/notejot/po/extra/sv.po | 
- | [it]({{< ref "/f34/language/it.md" >}}) | 211 | 274 | 77.0 | /mnt/stockage/packages/f34/notejot/po/it.po/mnt/stockage/packages/f34/notejot/po/extra/it.po | 
- | [es]({{< ref "/f34/language/es.md" >}}) | 230 | 527 | 43.6 | /mnt/stockage/packages/f34/notejot/po/fr.po/mnt/stockage/packages/f34/notejot/po/es.po/mnt/stockage/packages/f34/notejot/po/extra/es.po | 
- | [da]({{< ref "/f34/language/da.md" >}}) | 39 | 274 | 14.2 | /mnt/stockage/packages/f34/notejot/po/da.po/mnt/stockage/packages/f34/notejot/po/extra/da.po | 
- | [de]({{< ref "/f34/language/de.md" >}}) | 39 | 274 | 14.2 | /mnt/stockage/packages/f34/notejot/po/de_DE.po/mnt/stockage/packages/f34/notejot/po/extra/de_DE.po | 
- | [gl]({{< ref "/f34/language/gl.md" >}}) | 39 | 274 | 14.2 | /mnt/stockage/packages/f34/notejot/po/gl.po/mnt/stockage/packages/f34/notejot/po/extra/gl.po | 
- | [ja]({{< ref "/f34/language/ja.md" >}}) | 39 | 274 | 14.2 | /mnt/stockage/packages/f34/notejot/po/ja.po/mnt/stockage/packages/f34/notejot/po/extra/ja.po | 
- | [lt]({{< ref "/f34/language/lt.md" >}}) | 39 | 274 | 14.2 | /mnt/stockage/packages/f34/notejot/po/lt.po/mnt/stockage/packages/f34/notejot/po/extra/lt.po | 
- | [pt]({{< ref "/f34/language/pt.md" >}}) | 39 | 274 | 14.2 | /mnt/stockage/packages/f34/notejot/po/pt.po/mnt/stockage/packages/f34/notejot/po/extra/pt.po | 
- | [ru]({{< ref "/f34/language/ru.md" >}}) | 39 | 274 | 14.2 | /mnt/stockage/packages/f34/notejot/po/ru.po/mnt/stockage/packages/f34/notejot/po/extra/ru.po | 
- | [cs]({{< ref "/f34/language/cs.md" >}}) | 10 | 274 | 3.6 | /mnt/stockage/packages/f34/notejot/po/cs.po/mnt/stockage/packages/f34/notejot/po/extra/cs.po | 
- | [pl]({{< ref "/f34/language/pl.md" >}}) | 8 | 274 | 2.9 | /mnt/stockage/packages/f34/notejot/po/pl.po/mnt/stockage/packages/f34/notejot/po/extra/pl.po | 
- | [ca]({{< ref "/f34/language/ca.md" >}}) | 5 | 274 | 1.8 | /mnt/stockage/packages/f34/notejot/po/ca.po/mnt/stockage/packages/f34/notejot/po/extra/ca.po | 
- | [tr]({{< ref "/f34/language/tr.md" >}}) | 5 | 274 | 1.8 | /mnt/stockage/packages/f34/notejot/po/tr_TR.po/mnt/stockage/packages/f34/notejot/po/extra/tr_TR.po | 
- | [pt_BR]({{< ref "/f34/language/pt_BR.md" >}}) | 3 | 274 | 1.1 | /mnt/stockage/packages/f34/notejot/po/pt_BR.po/mnt/stockage/packages/f34/notejot/po/extra/pt_BR.po | 
+ | [fr](/f34/language/fr) | 34 | 34 | 100.0 | /mnt/stockage/packages/f34/notejot/po/extra/fr.po | 
+ | [nl](/f34/language/nl) | 274 | 274 | 100.0 | /mnt/stockage/packages/f34/notejot/po/nl.po/mnt/stockage/packages/f34/notejot/po/extra/nl.po | 
+ | [sv](/f34/language/sv) | 274 | 274 | 100.0 | /mnt/stockage/packages/f34/notejot/po/sv.po/mnt/stockage/packages/f34/notejot/po/extra/sv.po | 
+ | [it](/f34/language/it) | 211 | 274 | 77.0 | /mnt/stockage/packages/f34/notejot/po/it.po/mnt/stockage/packages/f34/notejot/po/extra/it.po | 
+ | [es](/f34/language/es) | 230 | 527 | 43.6 | /mnt/stockage/packages/f34/notejot/po/fr.po/mnt/stockage/packages/f34/notejot/po/es.po/mnt/stockage/packages/f34/notejot/po/extra/es.po | 
+ | [da](/f34/language/da) | 39 | 274 | 14.2 | /mnt/stockage/packages/f34/notejot/po/da.po/mnt/stockage/packages/f34/notejot/po/extra/da.po | 
+ | [de](/f34/language/de) | 39 | 274 | 14.2 | /mnt/stockage/packages/f34/notejot/po/de_DE.po/mnt/stockage/packages/f34/notejot/po/extra/de_DE.po | 
+ | [gl](/f34/language/gl) | 39 | 274 | 14.2 | /mnt/stockage/packages/f34/notejot/po/gl.po/mnt/stockage/packages/f34/notejot/po/extra/gl.po | 
+ | [ja](/f34/language/ja) | 39 | 274 | 14.2 | /mnt/stockage/packages/f34/notejot/po/ja.po/mnt/stockage/packages/f34/notejot/po/extra/ja.po | 
+ | [lt](/f34/language/lt) | 39 | 274 | 14.2 | /mnt/stockage/packages/f34/notejot/po/lt.po/mnt/stockage/packages/f34/notejot/po/extra/lt.po | 
+ | [pt](/f34/language/pt) | 39 | 274 | 14.2 | /mnt/stockage/packages/f34/notejot/po/pt.po/mnt/stockage/packages/f34/notejot/po/extra/pt.po | 
+ | [ru](/f34/language/ru) | 39 | 274 | 14.2 | /mnt/stockage/packages/f34/notejot/po/ru.po/mnt/stockage/packages/f34/notejot/po/extra/ru.po | 
+ | [cs](/f34/language/cs) | 10 | 274 | 3.6 | /mnt/stockage/packages/f34/notejot/po/cs.po/mnt/stockage/packages/f34/notejot/po/extra/cs.po | 
+ | [pl](/f34/language/pl) | 8 | 274 | 2.9 | /mnt/stockage/packages/f34/notejot/po/pl.po/mnt/stockage/packages/f34/notejot/po/extra/pl.po | 
+ | [ca](/f34/language/ca) | 5 | 274 | 1.8 | /mnt/stockage/packages/f34/notejot/po/ca.po/mnt/stockage/packages/f34/notejot/po/extra/ca.po | 
+ | [tr](/f34/language/tr) | 5 | 274 | 1.8 | /mnt/stockage/packages/f34/notejot/po/tr_TR.po/mnt/stockage/packages/f34/notejot/po/extra/tr_TR.po | 
+ | [pt_BR](/f34/language/pt_BR) | 3 | 274 | 1.1 | /mnt/stockage/packages/f34/notejot/po/pt_BR.po/mnt/stockage/packages/f34/notejot/po/extra/pt_BR.po | 
 {.sortable}
 
 

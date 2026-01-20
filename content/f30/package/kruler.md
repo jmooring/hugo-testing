@@ -18,59 +18,59 @@ The package kruler (version 18.12.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f30/language/ca.md" >}}) | 184 | 184 | 100.0 | /mnt/stockage/packages/f30/kruler/po/ca/kruler.po | 
- | [ca@valencia]({{< ref "/f30/language/ca@valencia.md" >}}) | 184 | 184 | 100.0 | /mnt/stockage/packages/f30/kruler/po/ca@valencia/kruler.po | 
- | [cs]({{< ref "/f30/language/cs.md" >}}) | 184 | 184 | 100.0 | /mnt/stockage/packages/f30/kruler/po/cs/kruler.po | 
- | [da]({{< ref "/f30/language/da.md" >}}) | 184 | 184 | 100.0 | /mnt/stockage/packages/f30/kruler/po/da/kruler.po | 
- | [de]({{< ref "/f30/language/de.md" >}}) | 184 | 184 | 100.0 | /mnt/stockage/packages/f30/kruler/po/de/kruler.po | 
- | [el]({{< ref "/f30/language/el.md" >}}) | 184 | 184 | 100.0 | /mnt/stockage/packages/f30/kruler/po/el/kruler.po | 
- | [en_GB]({{< ref "/f30/language/en_GB.md" >}}) | 184 | 184 | 100.0 | /mnt/stockage/packages/f30/kruler/po/en_GB/kruler.po | 
- | [es]({{< ref "/f30/language/es.md" >}}) | 184 | 184 | 100.0 | /mnt/stockage/packages/f30/kruler/po/es/kruler.po | 
- | [eu]({{< ref "/f30/language/eu.md" >}}) | 184 | 184 | 100.0 | /mnt/stockage/packages/f30/kruler/po/eu/kruler.po | 
- | [fi]({{< ref "/f30/language/fi.md" >}}) | 184 | 184 | 100.0 | /mnt/stockage/packages/f30/kruler/po/fi/kruler.po | 
- | [fr]({{< ref "/f30/language/fr.md" >}}) | 184 | 184 | 100.0 | /mnt/stockage/packages/f30/kruler/po/fr/kruler.po | 
- | [gl]({{< ref "/f30/language/gl.md" >}}) | 184 | 184 | 100.0 | /mnt/stockage/packages/f30/kruler/po/gl/kruler.po | 
- | [ia]({{< ref "/f30/language/ia.md" >}}) | 184 | 184 | 100.0 | /mnt/stockage/packages/f30/kruler/po/ia/kruler.po | 
- | [id]({{< ref "/f30/language/id.md" >}}) | 184 | 184 | 100.0 | /mnt/stockage/packages/f30/kruler/po/id/kruler.po | 
- | [is]({{< ref "/f30/language/is.md" >}}) | 184 | 184 | 100.0 | /mnt/stockage/packages/f30/kruler/po/is/kruler.po | 
- | [it]({{< ref "/f30/language/it.md" >}}) | 184 | 184 | 100.0 | /mnt/stockage/packages/f30/kruler/po/it/kruler.po | 
- | [ko]({{< ref "/f30/language/ko.md" >}}) | 184 | 184 | 100.0 | /mnt/stockage/packages/f30/kruler/po/ko/kruler.po | 
- | [nl]({{< ref "/f30/language/nl.md" >}}) | 184 | 184 | 100.0 | /mnt/stockage/packages/f30/kruler/po/nl/kruler.po | 
- | [nn]({{< ref "/f30/language/nn.md" >}}) | 184 | 184 | 100.0 | /mnt/stockage/packages/f30/kruler/po/nn/kruler.po | 
- | [pl]({{< ref "/f30/language/pl.md" >}}) | 184 | 184 | 100.0 | /mnt/stockage/packages/f30/kruler/po/pl/kruler.po | 
- | [pt]({{< ref "/f30/language/pt.md" >}}) | 184 | 184 | 100.0 | /mnt/stockage/packages/f30/kruler/po/pt/kruler.po | 
- | [pt_BR]({{< ref "/f30/language/pt_BR.md" >}}) | 184 | 184 | 100.0 | /mnt/stockage/packages/f30/kruler/po/pt_BR/kruler.po | 
- | [ru]({{< ref "/f30/language/ru.md" >}}) | 184 | 184 | 100.0 | /mnt/stockage/packages/f30/kruler/po/ru/kruler.po | 
- | [sk]({{< ref "/f30/language/sk.md" >}}) | 184 | 184 | 100.0 | /mnt/stockage/packages/f30/kruler/po/sk/kruler.po | 
- | [sl]({{< ref "/f30/language/sl.md" >}}) | 184 | 184 | 100.0 | /mnt/stockage/packages/f30/kruler/po/sl/kruler.po | 
- | [sr]({{< ref "/f30/language/sr.md" >}}) | 184 | 184 | 100.0 | /mnt/stockage/packages/f30/kruler/po/sr/kruler.po | 
- | [sv]({{< ref "/f30/language/sv.md" >}}) | 184 | 184 | 100.0 | /mnt/stockage/packages/f30/kruler/po/sv/kruler.po | 
- | [tr]({{< ref "/f30/language/tr.md" >}}) | 184 | 184 | 100.0 | /mnt/stockage/packages/f30/kruler/po/tr/kruler.po | 
- | [uk]({{< ref "/f30/language/uk.md" >}}) | 184 | 184 | 100.0 | /mnt/stockage/packages/f30/kruler/po/uk/kruler.po | 
- | [zh_Hans]({{< ref "/f30/language/zh_Hans.md" >}}) | 184 | 184 | 100.0 | /mnt/stockage/packages/f30/kruler/po/zh_CN/kruler.po | 
- | [zh_Hant]({{< ref "/f30/language/zh_Hant.md" >}}) | 184 | 184 | 100.0 | /mnt/stockage/packages/f30/kruler/po/zh_TW/kruler.po | 
- | [et]({{< ref "/f30/language/et.md" >}}) | 150 | 184 | 81.5 | /mnt/stockage/packages/f30/kruler/po/et/kruler.po | 
- | [nb_NO]({{< ref "/f30/language/nb_NO.md" >}}) | 133 | 184 | 72.3 | /mnt/stockage/packages/f30/kruler/po/nb/kruler.po | 
- | [ar]({{< ref "/f30/language/ar.md" >}}) | 130 | 184 | 70.7 | /mnt/stockage/packages/f30/kruler/po/ar/kruler.po | 
- | [bs]({{< ref "/f30/language/bs.md" >}}) | 130 | 184 | 70.7 | /mnt/stockage/packages/f30/kruler/po/bs/kruler.po | 
- | [en_US]({{< ref "/f30/language/en_US.md" >}}) | 130 | 184 | 70.7 | /mnt/stockage/packages/f30/kruler/po/mr/kruler.po | 
- | [hr]({{< ref "/f30/language/hr.md" >}}) | 130 | 184 | 70.7 | /mnt/stockage/packages/f30/kruler/po/hr/kruler.po | 
- | [hu]({{< ref "/f30/language/hu.md" >}}) | 130 | 184 | 70.7 | /mnt/stockage/packages/f30/kruler/po/hu/kruler.po | 
- | [kk]({{< ref "/f30/language/kk.md" >}}) | 130 | 184 | 70.7 | /mnt/stockage/packages/f30/kruler/po/kk/kruler.po | 
- | [km]({{< ref "/f30/language/km.md" >}}) | 130 | 184 | 70.7 | /mnt/stockage/packages/f30/kruler/po/km/kruler.po | 
- | [lt]({{< ref "/f30/language/lt.md" >}}) | 130 | 184 | 70.7 | /mnt/stockage/packages/f30/kruler/po/lt/kruler.po | 
- | [nds]({{< ref "/f30/language/nds.md" >}}) | 130 | 184 | 70.7 | /mnt/stockage/packages/f30/kruler/po/nds/kruler.po | 
- | [lv]({{< ref "/f30/language/lv.md" >}}) | 127 | 184 | 69.0 | /mnt/stockage/packages/f30/kruler/po/lv/kruler.po | 
- | [bg]({{< ref "/f30/language/bg.md" >}}) | 124 | 184 | 67.4 | /mnt/stockage/packages/f30/kruler/po/bg/kruler.po | 
- | [ja]({{< ref "/f30/language/ja.md" >}}) | 115 | 184 | 62.5 | /mnt/stockage/packages/f30/kruler/po/ja/kruler.po | 
- | [pa]({{< ref "/f30/language/pa.md" >}}) | 59 | 184 | 32.1 | /mnt/stockage/packages/f30/kruler/po/pa/kruler.po | 
- | [ga]({{< ref "/f30/language/ga.md" >}}) | 54 | 184 | 29.3 | /mnt/stockage/packages/f30/kruler/po/ga/kruler.po | 
- | [eo]({{< ref "/f30/language/eo.md" >}}) | 37 | 184 | 20.1 | /mnt/stockage/packages/f30/kruler/po/eo/kruler.po | 
- | [ug]({{< ref "/f30/language/ug.md" >}}) | 31 | 184 | 16.8 | /mnt/stockage/packages/f30/kruler/po/ug/kruler.po | 
- | [ro]({{< ref "/f30/language/ro.md" >}}) | 17 | 184 | 9.2 | /mnt/stockage/packages/f30/kruler/po/ro/kruler.po | 
- | [hi]({{< ref "/f30/language/hi.md" >}}) | 16 | 184 | 8.7 | /mnt/stockage/packages/f30/kruler/po/hi/kruler.po | 
- | [fa]({{< ref "/f30/language/fa.md" >}}) | 12 | 184 | 6.5 | /mnt/stockage/packages/f30/kruler/po/fa/kruler.po | 
- | [he]({{< ref "/f30/language/he.md" >}}) | 12 | 184 | 6.5 | /mnt/stockage/packages/f30/kruler/po/he/kruler.po | 
+ | [ca](/f30/language/ca) | 184 | 184 | 100.0 | /mnt/stockage/packages/f30/kruler/po/ca/kruler.po | 
+ | [ca@valencia](/f30/language/ca@valencia) | 184 | 184 | 100.0 | /mnt/stockage/packages/f30/kruler/po/ca@valencia/kruler.po | 
+ | [cs](/f30/language/cs) | 184 | 184 | 100.0 | /mnt/stockage/packages/f30/kruler/po/cs/kruler.po | 
+ | [da](/f30/language/da) | 184 | 184 | 100.0 | /mnt/stockage/packages/f30/kruler/po/da/kruler.po | 
+ | [de](/f30/language/de) | 184 | 184 | 100.0 | /mnt/stockage/packages/f30/kruler/po/de/kruler.po | 
+ | [el](/f30/language/el) | 184 | 184 | 100.0 | /mnt/stockage/packages/f30/kruler/po/el/kruler.po | 
+ | [en_GB](/f30/language/en_GB) | 184 | 184 | 100.0 | /mnt/stockage/packages/f30/kruler/po/en_GB/kruler.po | 
+ | [es](/f30/language/es) | 184 | 184 | 100.0 | /mnt/stockage/packages/f30/kruler/po/es/kruler.po | 
+ | [eu](/f30/language/eu) | 184 | 184 | 100.0 | /mnt/stockage/packages/f30/kruler/po/eu/kruler.po | 
+ | [fi](/f30/language/fi) | 184 | 184 | 100.0 | /mnt/stockage/packages/f30/kruler/po/fi/kruler.po | 
+ | [fr](/f30/language/fr) | 184 | 184 | 100.0 | /mnt/stockage/packages/f30/kruler/po/fr/kruler.po | 
+ | [gl](/f30/language/gl) | 184 | 184 | 100.0 | /mnt/stockage/packages/f30/kruler/po/gl/kruler.po | 
+ | [ia](/f30/language/ia) | 184 | 184 | 100.0 | /mnt/stockage/packages/f30/kruler/po/ia/kruler.po | 
+ | [id](/f30/language/id) | 184 | 184 | 100.0 | /mnt/stockage/packages/f30/kruler/po/id/kruler.po | 
+ | [is](/f30/language/is) | 184 | 184 | 100.0 | /mnt/stockage/packages/f30/kruler/po/is/kruler.po | 
+ | [it](/f30/language/it) | 184 | 184 | 100.0 | /mnt/stockage/packages/f30/kruler/po/it/kruler.po | 
+ | [ko](/f30/language/ko) | 184 | 184 | 100.0 | /mnt/stockage/packages/f30/kruler/po/ko/kruler.po | 
+ | [nl](/f30/language/nl) | 184 | 184 | 100.0 | /mnt/stockage/packages/f30/kruler/po/nl/kruler.po | 
+ | [nn](/f30/language/nn) | 184 | 184 | 100.0 | /mnt/stockage/packages/f30/kruler/po/nn/kruler.po | 
+ | [pl](/f30/language/pl) | 184 | 184 | 100.0 | /mnt/stockage/packages/f30/kruler/po/pl/kruler.po | 
+ | [pt](/f30/language/pt) | 184 | 184 | 100.0 | /mnt/stockage/packages/f30/kruler/po/pt/kruler.po | 
+ | [pt_BR](/f30/language/pt_BR) | 184 | 184 | 100.0 | /mnt/stockage/packages/f30/kruler/po/pt_BR/kruler.po | 
+ | [ru](/f30/language/ru) | 184 | 184 | 100.0 | /mnt/stockage/packages/f30/kruler/po/ru/kruler.po | 
+ | [sk](/f30/language/sk) | 184 | 184 | 100.0 | /mnt/stockage/packages/f30/kruler/po/sk/kruler.po | 
+ | [sl](/f30/language/sl) | 184 | 184 | 100.0 | /mnt/stockage/packages/f30/kruler/po/sl/kruler.po | 
+ | [sr](/f30/language/sr) | 184 | 184 | 100.0 | /mnt/stockage/packages/f30/kruler/po/sr/kruler.po | 
+ | [sv](/f30/language/sv) | 184 | 184 | 100.0 | /mnt/stockage/packages/f30/kruler/po/sv/kruler.po | 
+ | [tr](/f30/language/tr) | 184 | 184 | 100.0 | /mnt/stockage/packages/f30/kruler/po/tr/kruler.po | 
+ | [uk](/f30/language/uk) | 184 | 184 | 100.0 | /mnt/stockage/packages/f30/kruler/po/uk/kruler.po | 
+ | [zh_Hans](/f30/language/zh_Hans) | 184 | 184 | 100.0 | /mnt/stockage/packages/f30/kruler/po/zh_CN/kruler.po | 
+ | [zh_Hant](/f30/language/zh_Hant) | 184 | 184 | 100.0 | /mnt/stockage/packages/f30/kruler/po/zh_TW/kruler.po | 
+ | [et](/f30/language/et) | 150 | 184 | 81.5 | /mnt/stockage/packages/f30/kruler/po/et/kruler.po | 
+ | [nb_NO](/f30/language/nb_NO) | 133 | 184 | 72.3 | /mnt/stockage/packages/f30/kruler/po/nb/kruler.po | 
+ | [ar](/f30/language/ar) | 130 | 184 | 70.7 | /mnt/stockage/packages/f30/kruler/po/ar/kruler.po | 
+ | [bs](/f30/language/bs) | 130 | 184 | 70.7 | /mnt/stockage/packages/f30/kruler/po/bs/kruler.po | 
+ | [en_US](/f30/language/en_US) | 130 | 184 | 70.7 | /mnt/stockage/packages/f30/kruler/po/mr/kruler.po | 
+ | [hr](/f30/language/hr) | 130 | 184 | 70.7 | /mnt/stockage/packages/f30/kruler/po/hr/kruler.po | 
+ | [hu](/f30/language/hu) | 130 | 184 | 70.7 | /mnt/stockage/packages/f30/kruler/po/hu/kruler.po | 
+ | [kk](/f30/language/kk) | 130 | 184 | 70.7 | /mnt/stockage/packages/f30/kruler/po/kk/kruler.po | 
+ | [km](/f30/language/km) | 130 | 184 | 70.7 | /mnt/stockage/packages/f30/kruler/po/km/kruler.po | 
+ | [lt](/f30/language/lt) | 130 | 184 | 70.7 | /mnt/stockage/packages/f30/kruler/po/lt/kruler.po | 
+ | [nds](/f30/language/nds) | 130 | 184 | 70.7 | /mnt/stockage/packages/f30/kruler/po/nds/kruler.po | 
+ | [lv](/f30/language/lv) | 127 | 184 | 69.0 | /mnt/stockage/packages/f30/kruler/po/lv/kruler.po | 
+ | [bg](/f30/language/bg) | 124 | 184 | 67.4 | /mnt/stockage/packages/f30/kruler/po/bg/kruler.po | 
+ | [ja](/f30/language/ja) | 115 | 184 | 62.5 | /mnt/stockage/packages/f30/kruler/po/ja/kruler.po | 
+ | [pa](/f30/language/pa) | 59 | 184 | 32.1 | /mnt/stockage/packages/f30/kruler/po/pa/kruler.po | 
+ | [ga](/f30/language/ga) | 54 | 184 | 29.3 | /mnt/stockage/packages/f30/kruler/po/ga/kruler.po | 
+ | [eo](/f30/language/eo) | 37 | 184 | 20.1 | /mnt/stockage/packages/f30/kruler/po/eo/kruler.po | 
+ | [ug](/f30/language/ug) | 31 | 184 | 16.8 | /mnt/stockage/packages/f30/kruler/po/ug/kruler.po | 
+ | [ro](/f30/language/ro) | 17 | 184 | 9.2 | /mnt/stockage/packages/f30/kruler/po/ro/kruler.po | 
+ | [hi](/f30/language/hi) | 16 | 184 | 8.7 | /mnt/stockage/packages/f30/kruler/po/hi/kruler.po | 
+ | [fa](/f30/language/fa) | 12 | 184 | 6.5 | /mnt/stockage/packages/f30/kruler/po/fa/kruler.po | 
+ | [he](/f30/language/he) | 12 | 184 | 6.5 | /mnt/stockage/packages/f30/kruler/po/he/kruler.po | 
 {.sortable}
 
 

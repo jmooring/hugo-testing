@@ -18,22 +18,22 @@ The package unixcw (version 3.5.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f31/language/cs.md" >}}) | 85 | 85 | 100.0 | /mnt/stockage/packages/f31/unixcw/debian/po/cs.po | 
- | [da]({{< ref "/f31/language/da.md" >}}) | 85 | 85 | 100.0 | /mnt/stockage/packages/f31/unixcw/debian/po/da.po | 
- | [de]({{< ref "/f31/language/de.md" >}}) | 85 | 85 | 100.0 | /mnt/stockage/packages/f31/unixcw/debian/po/de.po | 
- | [es]({{< ref "/f31/language/es.md" >}}) | 85 | 85 | 100.0 | /mnt/stockage/packages/f31/unixcw/debian/po/es.po | 
- | [fr]({{< ref "/f31/language/fr.md" >}}) | 85 | 85 | 100.0 | /mnt/stockage/packages/f31/unixcw/debian/po/fr.po | 
- | [id]({{< ref "/f31/language/id.md" >}}) | 85 | 85 | 100.0 | /mnt/stockage/packages/f31/unixcw/debian/po/id.po | 
- | [it]({{< ref "/f31/language/it.md" >}}) | 85 | 85 | 100.0 | /mnt/stockage/packages/f31/unixcw/debian/po/it.po | 
- | [ja]({{< ref "/f31/language/ja.md" >}}) | 85 | 85 | 100.0 | /mnt/stockage/packages/f31/unixcw/debian/po/ja.po | 
- | [nl]({{< ref "/f31/language/nl.md" >}}) | 85 | 85 | 100.0 | /mnt/stockage/packages/f31/unixcw/debian/po/nl.po | 
- | [pl]({{< ref "/f31/language/pl.md" >}}) | 85 | 85 | 100.0 | /mnt/stockage/packages/f31/unixcw/debian/po/pl.po | 
- | [pt]({{< ref "/f31/language/pt.md" >}}) | 85 | 85 | 100.0 | /mnt/stockage/packages/f31/unixcw/debian/po/pt.po | 
- | [pt_BR]({{< ref "/f31/language/pt_BR.md" >}}) | 85 | 85 | 100.0 | /mnt/stockage/packages/f31/unixcw/debian/po/pt_BR.po | 
- | [ru]({{< ref "/f31/language/ru.md" >}}) | 85 | 85 | 100.0 | /mnt/stockage/packages/f31/unixcw/debian/po/ru.po | 
- | [sk]({{< ref "/f31/language/sk.md" >}}) | 85 | 85 | 100.0 | /mnt/stockage/packages/f31/unixcw/debian/po/sk.po | 
- | [sv]({{< ref "/f31/language/sv.md" >}}) | 85 | 85 | 100.0 | /mnt/stockage/packages/f31/unixcw/debian/po/sv.po | 
- | [ast]({{< ref "/f31/language/ast.md" >}}) | 0 | 85 | 0.0 | /mnt/stockage/packages/f31/unixcw/debian/po/ast.po | 
+ | [cs](/f31/language/cs) | 85 | 85 | 100.0 | /mnt/stockage/packages/f31/unixcw/debian/po/cs.po | 
+ | [da](/f31/language/da) | 85 | 85 | 100.0 | /mnt/stockage/packages/f31/unixcw/debian/po/da.po | 
+ | [de](/f31/language/de) | 85 | 85 | 100.0 | /mnt/stockage/packages/f31/unixcw/debian/po/de.po | 
+ | [es](/f31/language/es) | 85 | 85 | 100.0 | /mnt/stockage/packages/f31/unixcw/debian/po/es.po | 
+ | [fr](/f31/language/fr) | 85 | 85 | 100.0 | /mnt/stockage/packages/f31/unixcw/debian/po/fr.po | 
+ | [id](/f31/language/id) | 85 | 85 | 100.0 | /mnt/stockage/packages/f31/unixcw/debian/po/id.po | 
+ | [it](/f31/language/it) | 85 | 85 | 100.0 | /mnt/stockage/packages/f31/unixcw/debian/po/it.po | 
+ | [ja](/f31/language/ja) | 85 | 85 | 100.0 | /mnt/stockage/packages/f31/unixcw/debian/po/ja.po | 
+ | [nl](/f31/language/nl) | 85 | 85 | 100.0 | /mnt/stockage/packages/f31/unixcw/debian/po/nl.po | 
+ | [pl](/f31/language/pl) | 85 | 85 | 100.0 | /mnt/stockage/packages/f31/unixcw/debian/po/pl.po | 
+ | [pt](/f31/language/pt) | 85 | 85 | 100.0 | /mnt/stockage/packages/f31/unixcw/debian/po/pt.po | 
+ | [pt_BR](/f31/language/pt_BR) | 85 | 85 | 100.0 | /mnt/stockage/packages/f31/unixcw/debian/po/pt_BR.po | 
+ | [ru](/f31/language/ru) | 85 | 85 | 100.0 | /mnt/stockage/packages/f31/unixcw/debian/po/ru.po | 
+ | [sk](/f31/language/sk) | 85 | 85 | 100.0 | /mnt/stockage/packages/f31/unixcw/debian/po/sk.po | 
+ | [sv](/f31/language/sv) | 85 | 85 | 100.0 | /mnt/stockage/packages/f31/unixcw/debian/po/sv.po | 
+ | [ast](/f31/language/ast) | 0 | 85 | 0.0 | /mnt/stockage/packages/f31/unixcw/debian/po/ast.po | 
 {.sortable}
 
 

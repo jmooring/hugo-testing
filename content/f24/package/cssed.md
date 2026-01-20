@@ -18,12 +18,12 @@ The package cssed (version 0.4.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [es]({{< ref "/f24/language/es.md" >}}) | 3417 | 3437 | 99.4 | /mnt/stockage/packages/f24/cssed/po/es.po | 
- | [fr]({{< ref "/f24/language/fr.md" >}}) | 2999 | 3437 | 87.3 | /mnt/stockage/packages/f24/cssed/po/fr.po | 
- | [ca]({{< ref "/f24/language/ca.md" >}}) | 2790 | 3437 | 81.2 | /mnt/stockage/packages/f24/cssed/po/ca.po | 
- | [de]({{< ref "/f24/language/de.md" >}}) | 1252 | 3437 | 36.4 | /mnt/stockage/packages/f24/cssed/po/de.po | 
- | [gl]({{< ref "/f24/language/gl.md" >}}) | 1020 | 3437 | 29.7 | /mnt/stockage/packages/f24/cssed/po/gl.po | 
- | [it]({{< ref "/f24/language/it.md" >}}) | 940 | 3437 | 27.3 | /mnt/stockage/packages/f24/cssed/po/it.po | 
+ | [es](/f24/language/es) | 3417 | 3437 | 99.4 | /mnt/stockage/packages/f24/cssed/po/es.po | 
+ | [fr](/f24/language/fr) | 2999 | 3437 | 87.3 | /mnt/stockage/packages/f24/cssed/po/fr.po | 
+ | [ca](/f24/language/ca) | 2790 | 3437 | 81.2 | /mnt/stockage/packages/f24/cssed/po/ca.po | 
+ | [de](/f24/language/de) | 1252 | 3437 | 36.4 | /mnt/stockage/packages/f24/cssed/po/de.po | 
+ | [gl](/f24/language/gl) | 1020 | 3437 | 29.7 | /mnt/stockage/packages/f24/cssed/po/gl.po | 
+ | [it](/f24/language/it) | 940 | 3437 | 27.3 | /mnt/stockage/packages/f24/cssed/po/it.po | 
 {.sortable}
 
 

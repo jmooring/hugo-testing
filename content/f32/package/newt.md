@@ -18,80 +18,80 @@ The package newt (version 0.52.21):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f32/language/ar.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f32/newt/po/ar.po | 
- | [as]({{< ref "/f32/language/as.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f32/newt/po/as.po | 
- | [ast]({{< ref "/f32/language/ast.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f32/newt/po/ast.po | 
- | [bal]({{< ref "/f32/language/bal.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f32/newt/po/bal.po | 
- | [bg]({{< ref "/f32/language/bg.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f32/newt/po/bg.po | 
- | [bn]({{< ref "/f32/language/bn.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f32/newt/po/bn.po | 
- | [bn_IN]({{< ref "/f32/language/bn_IN.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f32/newt/po/bn_IN.po | 
- | [bs]({{< ref "/f32/language/bs.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f32/newt/po/bs.po | 
- | [ca]({{< ref "/f32/language/ca.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f32/newt/po/ca.po | 
- | [cs]({{< ref "/f32/language/cs.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f32/newt/po/cs.po | 
- | [cy]({{< ref "/f32/language/cy.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f32/newt/po/cy.po | 
- | [da]({{< ref "/f32/language/da.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f32/newt/po/da.po | 
- | [de]({{< ref "/f32/language/de.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f32/newt/po/de.po | 
- | [dz]({{< ref "/f32/language/dz.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f32/newt/po/dz.po | 
- | [el]({{< ref "/f32/language/el.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f32/newt/po/el.po | 
- | [eo]({{< ref "/f32/language/eo.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f32/newt/po/eo.po | 
- | [es]({{< ref "/f32/language/es.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f32/newt/po/es.po | 
- | [et]({{< ref "/f32/language/et.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f32/newt/po/et.po | 
- | [eu]({{< ref "/f32/language/eu.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f32/newt/po/eu.po | 
- | [fa]({{< ref "/f32/language/fa.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f32/newt/po/fa.po | 
- | [fi]({{< ref "/f32/language/fi.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f32/newt/po/fi.po | 
- | [fr]({{< ref "/f32/language/fr.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f32/newt/po/fr.po | 
- | [ga]({{< ref "/f32/language/ga.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f32/newt/po/ga.po | 
- | [gl]({{< ref "/f32/language/gl.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f32/newt/po/gl.po | 
- | [gu]({{< ref "/f32/language/gu.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f32/newt/po/gu.po | 
- | [he]({{< ref "/f32/language/he.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f32/newt/po/he.po | 
- | [hi]({{< ref "/f32/language/hi.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f32/newt/po/hi.po | 
- | [hr]({{< ref "/f32/language/hr.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f32/newt/po/hr.po | 
- | [hu]({{< ref "/f32/language/hu.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f32/newt/po/hu.po | 
- | [ia]({{< ref "/f32/language/ia.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f32/newt/po/ia.po | 
- | [id]({{< ref "/f32/language/id.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f32/newt/po/id.po | 
- | [it]({{< ref "/f32/language/it.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f32/newt/po/it.po | 
- | [ja]({{< ref "/f32/language/ja.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f32/newt/po/ja.po | 
- | [ka]({{< ref "/f32/language/ka.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f32/newt/po/ka.po | 
- | [km]({{< ref "/f32/language/km.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f32/newt/po/km.po | 
- | [kn]({{< ref "/f32/language/kn.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f32/newt/po/kn.po | 
- | [ko]({{< ref "/f32/language/ko.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f32/newt/po/ko.po | 
- | [ku]({{< ref "/f32/language/ku.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f32/newt/po/ku.po | 
- | [lt]({{< ref "/f32/language/lt.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f32/newt/po/lt.po | 
- | [lv]({{< ref "/f32/language/lv.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f32/newt/po/lv.po | 
- | [mg]({{< ref "/f32/language/mg.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f32/newt/po/mg.po | 
- | [mk]({{< ref "/f32/language/mk.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f32/newt/po/mk.po | 
- | [ml]({{< ref "/f32/language/ml.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f32/newt/po/ml.po | 
- | [mr]({{< ref "/f32/language/mr.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f32/newt/po/mr.po | 
- | [ms]({{< ref "/f32/language/ms.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f32/newt/po/ms.po | 
- | [nb_NO]({{< ref "/f32/language/nb_NO.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f32/newt/po/nb.po | 
- | [nds]({{< ref "/f32/language/nds.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f32/newt/po/nds.po | 
- | [ne]({{< ref "/f32/language/ne.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f32/newt/po/ne.po | 
- | [nl]({{< ref "/f32/language/nl.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f32/newt/po/nl.po | 
- | [nn]({{< ref "/f32/language/nn.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f32/newt/po/nn.po | 
- | [pa]({{< ref "/f32/language/pa.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f32/newt/po/pa.po | 
- | [pl]({{< ref "/f32/language/pl.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f32/newt/po/pl.po | 
- | [pt]({{< ref "/f32/language/pt.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f32/newt/po/pt.po | 
- | [pt_BR]({{< ref "/f32/language/pt_BR.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f32/newt/po/pt_BR.po | 
- | [ro]({{< ref "/f32/language/ro.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f32/newt/po/ro.po | 
- | [ru]({{< ref "/f32/language/ru.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f32/newt/po/ru.po | 
- | [sk]({{< ref "/f32/language/sk.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f32/newt/po/sk.po | 
- | [sl]({{< ref "/f32/language/sl.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f32/newt/po/sl.po | 
- | [sq]({{< ref "/f32/language/sq.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f32/newt/po/sq.po | 
- | [sr]({{< ref "/f32/language/sr.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f32/newt/po/sr.po | 
- | [sr_Latn]({{< ref "/f32/language/sr_Latn.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f32/newt/po/sr@latin.po | 
- | [sv]({{< ref "/f32/language/sv.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f32/newt/po/sv.po | 
- | [ta]({{< ref "/f32/language/ta.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f32/newt/po/ta.po | 
- | [te]({{< ref "/f32/language/te.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f32/newt/po/te.po | 
- | [tg]({{< ref "/f32/language/tg.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f32/newt/po/tg.po | 
- | [th]({{< ref "/f32/language/th.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f32/newt/po/th.po | 
- | [tl]({{< ref "/f32/language/tl.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f32/newt/po/tl.po | 
- | [tr]({{< ref "/f32/language/tr.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f32/newt/po/tr.po | 
- | [uk]({{< ref "/f32/language/uk.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f32/newt/po/uk.po | 
- | [vi]({{< ref "/f32/language/vi.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f32/newt/po/vi.po | 
- | [wo]({{< ref "/f32/language/wo.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f32/newt/po/wo.po | 
- | [xh]({{< ref "/f32/language/xh.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f32/newt/po/xh.po | 
- | [zh_Hans]({{< ref "/f32/language/zh_Hans.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f32/newt/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f32/language/zh_Hant.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f32/newt/po/zh_TW.po | 
+ | [ar](/f32/language/ar) | 4 | 4 | 100.0 | /mnt/stockage/packages/f32/newt/po/ar.po | 
+ | [as](/f32/language/as) | 4 | 4 | 100.0 | /mnt/stockage/packages/f32/newt/po/as.po | 
+ | [ast](/f32/language/ast) | 4 | 4 | 100.0 | /mnt/stockage/packages/f32/newt/po/ast.po | 
+ | [bal](/f32/language/bal) | 4 | 4 | 100.0 | /mnt/stockage/packages/f32/newt/po/bal.po | 
+ | [bg](/f32/language/bg) | 4 | 4 | 100.0 | /mnt/stockage/packages/f32/newt/po/bg.po | 
+ | [bn](/f32/language/bn) | 4 | 4 | 100.0 | /mnt/stockage/packages/f32/newt/po/bn.po | 
+ | [bn_IN](/f32/language/bn_IN) | 4 | 4 | 100.0 | /mnt/stockage/packages/f32/newt/po/bn_IN.po | 
+ | [bs](/f32/language/bs) | 4 | 4 | 100.0 | /mnt/stockage/packages/f32/newt/po/bs.po | 
+ | [ca](/f32/language/ca) | 4 | 4 | 100.0 | /mnt/stockage/packages/f32/newt/po/ca.po | 
+ | [cs](/f32/language/cs) | 4 | 4 | 100.0 | /mnt/stockage/packages/f32/newt/po/cs.po | 
+ | [cy](/f32/language/cy) | 4 | 4 | 100.0 | /mnt/stockage/packages/f32/newt/po/cy.po | 
+ | [da](/f32/language/da) | 4 | 4 | 100.0 | /mnt/stockage/packages/f32/newt/po/da.po | 
+ | [de](/f32/language/de) | 4 | 4 | 100.0 | /mnt/stockage/packages/f32/newt/po/de.po | 
+ | [dz](/f32/language/dz) | 4 | 4 | 100.0 | /mnt/stockage/packages/f32/newt/po/dz.po | 
+ | [el](/f32/language/el) | 4 | 4 | 100.0 | /mnt/stockage/packages/f32/newt/po/el.po | 
+ | [eo](/f32/language/eo) | 4 | 4 | 100.0 | /mnt/stockage/packages/f32/newt/po/eo.po | 
+ | [es](/f32/language/es) | 4 | 4 | 100.0 | /mnt/stockage/packages/f32/newt/po/es.po | 
+ | [et](/f32/language/et) | 4 | 4 | 100.0 | /mnt/stockage/packages/f32/newt/po/et.po | 
+ | [eu](/f32/language/eu) | 4 | 4 | 100.0 | /mnt/stockage/packages/f32/newt/po/eu.po | 
+ | [fa](/f32/language/fa) | 4 | 4 | 100.0 | /mnt/stockage/packages/f32/newt/po/fa.po | 
+ | [fi](/f32/language/fi) | 4 | 4 | 100.0 | /mnt/stockage/packages/f32/newt/po/fi.po | 
+ | [fr](/f32/language/fr) | 4 | 4 | 100.0 | /mnt/stockage/packages/f32/newt/po/fr.po | 
+ | [ga](/f32/language/ga) | 4 | 4 | 100.0 | /mnt/stockage/packages/f32/newt/po/ga.po | 
+ | [gl](/f32/language/gl) | 4 | 4 | 100.0 | /mnt/stockage/packages/f32/newt/po/gl.po | 
+ | [gu](/f32/language/gu) | 4 | 4 | 100.0 | /mnt/stockage/packages/f32/newt/po/gu.po | 
+ | [he](/f32/language/he) | 4 | 4 | 100.0 | /mnt/stockage/packages/f32/newt/po/he.po | 
+ | [hi](/f32/language/hi) | 4 | 4 | 100.0 | /mnt/stockage/packages/f32/newt/po/hi.po | 
+ | [hr](/f32/language/hr) | 4 | 4 | 100.0 | /mnt/stockage/packages/f32/newt/po/hr.po | 
+ | [hu](/f32/language/hu) | 4 | 4 | 100.0 | /mnt/stockage/packages/f32/newt/po/hu.po | 
+ | [ia](/f32/language/ia) | 4 | 4 | 100.0 | /mnt/stockage/packages/f32/newt/po/ia.po | 
+ | [id](/f32/language/id) | 4 | 4 | 100.0 | /mnt/stockage/packages/f32/newt/po/id.po | 
+ | [it](/f32/language/it) | 4 | 4 | 100.0 | /mnt/stockage/packages/f32/newt/po/it.po | 
+ | [ja](/f32/language/ja) | 4 | 4 | 100.0 | /mnt/stockage/packages/f32/newt/po/ja.po | 
+ | [ka](/f32/language/ka) | 4 | 4 | 100.0 | /mnt/stockage/packages/f32/newt/po/ka.po | 
+ | [km](/f32/language/km) | 4 | 4 | 100.0 | /mnt/stockage/packages/f32/newt/po/km.po | 
+ | [kn](/f32/language/kn) | 4 | 4 | 100.0 | /mnt/stockage/packages/f32/newt/po/kn.po | 
+ | [ko](/f32/language/ko) | 4 | 4 | 100.0 | /mnt/stockage/packages/f32/newt/po/ko.po | 
+ | [ku](/f32/language/ku) | 4 | 4 | 100.0 | /mnt/stockage/packages/f32/newt/po/ku.po | 
+ | [lt](/f32/language/lt) | 4 | 4 | 100.0 | /mnt/stockage/packages/f32/newt/po/lt.po | 
+ | [lv](/f32/language/lv) | 4 | 4 | 100.0 | /mnt/stockage/packages/f32/newt/po/lv.po | 
+ | [mg](/f32/language/mg) | 4 | 4 | 100.0 | /mnt/stockage/packages/f32/newt/po/mg.po | 
+ | [mk](/f32/language/mk) | 4 | 4 | 100.0 | /mnt/stockage/packages/f32/newt/po/mk.po | 
+ | [ml](/f32/language/ml) | 4 | 4 | 100.0 | /mnt/stockage/packages/f32/newt/po/ml.po | 
+ | [mr](/f32/language/mr) | 4 | 4 | 100.0 | /mnt/stockage/packages/f32/newt/po/mr.po | 
+ | [ms](/f32/language/ms) | 4 | 4 | 100.0 | /mnt/stockage/packages/f32/newt/po/ms.po | 
+ | [nb_NO](/f32/language/nb_NO) | 4 | 4 | 100.0 | /mnt/stockage/packages/f32/newt/po/nb.po | 
+ | [nds](/f32/language/nds) | 4 | 4 | 100.0 | /mnt/stockage/packages/f32/newt/po/nds.po | 
+ | [ne](/f32/language/ne) | 4 | 4 | 100.0 | /mnt/stockage/packages/f32/newt/po/ne.po | 
+ | [nl](/f32/language/nl) | 4 | 4 | 100.0 | /mnt/stockage/packages/f32/newt/po/nl.po | 
+ | [nn](/f32/language/nn) | 4 | 4 | 100.0 | /mnt/stockage/packages/f32/newt/po/nn.po | 
+ | [pa](/f32/language/pa) | 4 | 4 | 100.0 | /mnt/stockage/packages/f32/newt/po/pa.po | 
+ | [pl](/f32/language/pl) | 4 | 4 | 100.0 | /mnt/stockage/packages/f32/newt/po/pl.po | 
+ | [pt](/f32/language/pt) | 4 | 4 | 100.0 | /mnt/stockage/packages/f32/newt/po/pt.po | 
+ | [pt_BR](/f32/language/pt_BR) | 4 | 4 | 100.0 | /mnt/stockage/packages/f32/newt/po/pt_BR.po | 
+ | [ro](/f32/language/ro) | 4 | 4 | 100.0 | /mnt/stockage/packages/f32/newt/po/ro.po | 
+ | [ru](/f32/language/ru) | 4 | 4 | 100.0 | /mnt/stockage/packages/f32/newt/po/ru.po | 
+ | [sk](/f32/language/sk) | 4 | 4 | 100.0 | /mnt/stockage/packages/f32/newt/po/sk.po | 
+ | [sl](/f32/language/sl) | 4 | 4 | 100.0 | /mnt/stockage/packages/f32/newt/po/sl.po | 
+ | [sq](/f32/language/sq) | 4 | 4 | 100.0 | /mnt/stockage/packages/f32/newt/po/sq.po | 
+ | [sr](/f32/language/sr) | 4 | 4 | 100.0 | /mnt/stockage/packages/f32/newt/po/sr.po | 
+ | [sr_Latn](/f32/language/sr_Latn) | 4 | 4 | 100.0 | /mnt/stockage/packages/f32/newt/po/sr@latin.po | 
+ | [sv](/f32/language/sv) | 4 | 4 | 100.0 | /mnt/stockage/packages/f32/newt/po/sv.po | 
+ | [ta](/f32/language/ta) | 4 | 4 | 100.0 | /mnt/stockage/packages/f32/newt/po/ta.po | 
+ | [te](/f32/language/te) | 4 | 4 | 100.0 | /mnt/stockage/packages/f32/newt/po/te.po | 
+ | [tg](/f32/language/tg) | 4 | 4 | 100.0 | /mnt/stockage/packages/f32/newt/po/tg.po | 
+ | [th](/f32/language/th) | 4 | 4 | 100.0 | /mnt/stockage/packages/f32/newt/po/th.po | 
+ | [tl](/f32/language/tl) | 4 | 4 | 100.0 | /mnt/stockage/packages/f32/newt/po/tl.po | 
+ | [tr](/f32/language/tr) | 4 | 4 | 100.0 | /mnt/stockage/packages/f32/newt/po/tr.po | 
+ | [uk](/f32/language/uk) | 4 | 4 | 100.0 | /mnt/stockage/packages/f32/newt/po/uk.po | 
+ | [vi](/f32/language/vi) | 4 | 4 | 100.0 | /mnt/stockage/packages/f32/newt/po/vi.po | 
+ | [wo](/f32/language/wo) | 4 | 4 | 100.0 | /mnt/stockage/packages/f32/newt/po/wo.po | 
+ | [xh](/f32/language/xh) | 4 | 4 | 100.0 | /mnt/stockage/packages/f32/newt/po/xh.po | 
+ | [zh_Hans](/f32/language/zh_Hans) | 4 | 4 | 100.0 | /mnt/stockage/packages/f32/newt/po/zh_CN.po | 
+ | [zh_Hant](/f32/language/zh_Hant) | 4 | 4 | 100.0 | /mnt/stockage/packages/f32/newt/po/zh_TW.po | 
 {.sortable}
 
 

@@ -18,15 +18,15 @@ The package kchmviewer (version 4.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ru]({{< ref "/f10/language/ru.md" >}}) | 336 | 436 | 77.1 | /mnt/stockage/packages/f10/kchmviewer/po/ru.po | 
- | [sv]({{< ref "/f10/language/sv.md" >}}) | 309 | 436 | 70.9 | /mnt/stockage/packages/f10/kchmviewer/po/sv.po | 
- | [it]({{< ref "/f10/language/it.md" >}}) | 174 | 436 | 39.9 | /mnt/stockage/packages/f10/kchmviewer/po/it.po | 
- | [cs]({{< ref "/f10/language/cs.md" >}}) | 163 | 436 | 37.4 | /mnt/stockage/packages/f10/kchmviewer/po/cs.po | 
- | [error]({{< ref "/f10/language/error.md" >}}) | 163 | 436 | 37.4 | /mnt/stockage/packages/f10/kchmviewer/po/du.po | 
- | [fr]({{< ref "/f10/language/fr.md" >}}) | 163 | 436 | 37.4 | /mnt/stockage/packages/f10/kchmviewer/po/fr.po | 
- | [zh_Hans]({{< ref "/f10/language/zh_Hans.md" >}}) | 163 | 436 | 37.4 | /mnt/stockage/packages/f10/kchmviewer/po/zh_CN.po | 
- | [hu]({{< ref "/f10/language/hu.md" >}}) | 150 | 436 | 34.4 | /mnt/stockage/packages/f10/kchmviewer/po/hu.po | 
- | [tr]({{< ref "/f10/language/tr.md" >}}) | 150 | 436 | 34.4 | /mnt/stockage/packages/f10/kchmviewer/po/tr.po | 
+ | [ru](/f10/language/ru) | 336 | 436 | 77.1 | /mnt/stockage/packages/f10/kchmviewer/po/ru.po | 
+ | [sv](/f10/language/sv) | 309 | 436 | 70.9 | /mnt/stockage/packages/f10/kchmviewer/po/sv.po | 
+ | [it](/f10/language/it) | 174 | 436 | 39.9 | /mnt/stockage/packages/f10/kchmviewer/po/it.po | 
+ | [cs](/f10/language/cs) | 163 | 436 | 37.4 | /mnt/stockage/packages/f10/kchmviewer/po/cs.po | 
+ | [error](/f10/language/error) | 163 | 436 | 37.4 | /mnt/stockage/packages/f10/kchmviewer/po/du.po | 
+ | [fr](/f10/language/fr) | 163 | 436 | 37.4 | /mnt/stockage/packages/f10/kchmviewer/po/fr.po | 
+ | [zh_Hans](/f10/language/zh_Hans) | 163 | 436 | 37.4 | /mnt/stockage/packages/f10/kchmviewer/po/zh_CN.po | 
+ | [hu](/f10/language/hu) | 150 | 436 | 34.4 | /mnt/stockage/packages/f10/kchmviewer/po/hu.po | 
+ | [tr](/f10/language/tr) | 150 | 436 | 34.4 | /mnt/stockage/packages/f10/kchmviewer/po/tr.po | 
 {.sortable}
 
 

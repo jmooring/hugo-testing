@@ -38,23 +38,23 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [tuxpaint]({{< ref "/f24/package/tuxpaint.md" >}}) | 475 | 1591 | 29.9 |  | 
- | [blivet-gui]({{< ref "/f24/package/blivet-gui.md" >}}) | 0 | 711 | 0.0 | Twi | 
- | [dnf-plugin-system-upgrade]({{< ref "/f24/package/dnf-plugin-system-upgrade.md" >}}) | 0 | 211 | 0.0 | Twi | 
- | [dnf-plugins-extras]({{< ref "/f24/package/dnf-plugins-extras.md" >}}) | 0 | 375 | 0.0 | Twi | 
- | [docker-anaconda-addon]({{< ref "/f24/package/docker-anaconda-addon.md" >}}) | 0 | 27 | 0.0 | Twi | 
- | [entangle]({{< ref "/f24/package/entangle.md" >}}) | 0 | 935 | 0.0 | Twi | 
- | [initial-setup]({{< ref "/f24/package/initial-setup.md" >}}) | 0 | 33 | 0.0 | Twi | 
- | [libbytesize]({{< ref "/f24/package/libbytesize.md" >}}) | 0 | 17 | 0.0 | Twi | 
- | [libosinfo]({{< ref "/f24/package/libosinfo.md" >}}) | 0 | 2049 | 0.0 | Twi | 
- | [libvirt-glib]({{< ref "/f24/package/libvirt-glib.md" >}}) | 0 | 145 | 0.0 | Twi | 
- | [libvirt-sandbox]({{< ref "/f24/package/libvirt-sandbox.md" >}}) | 0 | 617 | 0.0 | Twi | 
- | [mingw-libvirt-glib]({{< ref "/f24/package/mingw-libvirt-glib.md" >}}) | 0 | 145 | 0.0 | Twi | 
- | [pykickstart]({{< ref "/f24/package/pykickstart.md" >}}) | 0 | 1355 | 0.0 | Twi | 
- | [python-blivet]({{< ref "/f24/package/python-blivet.md" >}}) | 0 | 707 | 0.0 | Twi | 
- | [python-fedora]({{< ref "/f24/package/python-fedora.md" >}}) | 0 | 214 | 0.0 | Twi | 
- | [python-meh]({{< ref "/f24/package/python-meh.md" >}}) | 0 | 109 | 0.0 | Twi | 
- | [virt-viewer]({{< ref "/f24/package/virt-viewer.md" >}}) | 0 | 751 | 0.0 | Twi | 
+ | [tuxpaint](/f24/package/tuxpaint) | 475 | 1591 | 29.9 |  | 
+ | [blivet-gui](/f24/package/blivet-gui) | 0 | 711 | 0.0 | Twi | 
+ | [dnf-plugin-system-upgrade](/f24/package/dnf-plugin-system-upgrade) | 0 | 211 | 0.0 | Twi | 
+ | [dnf-plugins-extras](/f24/package/dnf-plugins-extras) | 0 | 375 | 0.0 | Twi | 
+ | [docker-anaconda-addon](/f24/package/docker-anaconda-addon) | 0 | 27 | 0.0 | Twi | 
+ | [entangle](/f24/package/entangle) | 0 | 935 | 0.0 | Twi | 
+ | [initial-setup](/f24/package/initial-setup) | 0 | 33 | 0.0 | Twi | 
+ | [libbytesize](/f24/package/libbytesize) | 0 | 17 | 0.0 | Twi | 
+ | [libosinfo](/f24/package/libosinfo) | 0 | 2049 | 0.0 | Twi | 
+ | [libvirt-glib](/f24/package/libvirt-glib) | 0 | 145 | 0.0 | Twi | 
+ | [libvirt-sandbox](/f24/package/libvirt-sandbox) | 0 | 617 | 0.0 | Twi | 
+ | [mingw-libvirt-glib](/f24/package/mingw-libvirt-glib) | 0 | 145 | 0.0 | Twi | 
+ | [pykickstart](/f24/package/pykickstart) | 0 | 1355 | 0.0 | Twi | 
+ | [python-blivet](/f24/package/python-blivet) | 0 | 707 | 0.0 | Twi | 
+ | [python-fedora](/f24/package/python-fedora) | 0 | 214 | 0.0 | Twi | 
+ | [python-meh](/f24/package/python-meh) | 0 | 109 | 0.0 | Twi | 
+ | [virt-viewer](/f24/package/virt-viewer) | 0 | 751 | 0.0 | Twi | 
 {.sortable}
 
 

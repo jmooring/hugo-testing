@@ -18,7 +18,7 @@ The package libticalcs2 (version 1.1.8):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f22/language/fr.md" >}}) | 824 | 824 | 100.0 | /mnt/stockage/packages/f22/libticalcs2/po/fr.po | 
+ | [fr](/f22/language/fr) | 824 | 824 | 100.0 | /mnt/stockage/packages/f22/libticalcs2/po/fr.po | 
 {.sortable}
 
 

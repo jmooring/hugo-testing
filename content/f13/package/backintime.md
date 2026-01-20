@@ -18,35 +18,35 @@ The package backintime (version 0.9.26):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f13/language/ar.md" >}}) | 441 | 441 | 100.0 | /mnt/stockage/packages/f13/backintime/common/po/ar.po | 
- | [de]({{< ref "/f13/language/de.md" >}}) | 441 | 441 | 100.0 | /mnt/stockage/packages/f13/backintime/common/po/de.po | 
- | [fr]({{< ref "/f13/language/fr.md" >}}) | 441 | 441 | 100.0 | /mnt/stockage/packages/f13/backintime/common/po/fr.po | 
- | [gl]({{< ref "/f13/language/gl.md" >}}) | 441 | 441 | 100.0 | /mnt/stockage/packages/f13/backintime/common/po/gl.po | 
- | [sk]({{< ref "/f13/language/sk.md" >}}) | 441 | 441 | 100.0 | /mnt/stockage/packages/f13/backintime/common/po/sk.po | 
- | [es]({{< ref "/f13/language/es.md" >}}) | 431 | 432 | 99.8 | /mnt/stockage/packages/f13/backintime/common/po/es.po | 
- | [it]({{< ref "/f13/language/it.md" >}}) | 430 | 441 | 97.5 | /mnt/stockage/packages/f13/backintime/common/po/it.po | 
- | [hu]({{< ref "/f13/language/hu.md" >}}) | 427 | 441 | 96.8 | /mnt/stockage/packages/f13/backintime/common/po/hu.po | 
- | [ru]({{< ref "/f13/language/ru.md" >}}) | 355 | 441 | 80.5 | /mnt/stockage/packages/f13/backintime/common/po/ru.po | 
- | [bg]({{< ref "/f13/language/bg.md" >}}) | 311 | 441 | 70.5 | /mnt/stockage/packages/f13/backintime/common/po/bg.po | 
- | [nl]({{< ref "/f13/language/nl.md" >}}) | 311 | 441 | 70.5 | /mnt/stockage/packages/f13/backintime/common/po/nl.po | 
- | [lt]({{< ref "/f13/language/lt.md" >}}) | 292 | 441 | 66.2 | /mnt/stockage/packages/f13/backintime/common/po/lt.po | 
- | [nb_NO]({{< ref "/f13/language/nb_NO.md" >}}) | 292 | 441 | 66.2 | /mnt/stockage/packages/f13/backintime/common/po/nb.po | 
- | [zh_Hans]({{< ref "/f13/language/zh_Hans.md" >}}) | 292 | 441 | 66.2 | /mnt/stockage/packages/f13/backintime/common/po/zh_CN.po | 
- | [ca]({{< ref "/f13/language/ca.md" >}}) | 289 | 441 | 65.5 | /mnt/stockage/packages/f13/backintime/common/po/ca.po | 
- | [pt]({{< ref "/f13/language/pt.md" >}}) | 142 | 441 | 32.2 | /mnt/stockage/packages/f13/backintime/common/po/pt.po | 
- | [sl]({{< ref "/f13/language/sl.md" >}}) | 129 | 441 | 29.3 | /mnt/stockage/packages/f13/backintime/common/po/sl.po | 
- | [sv]({{< ref "/f13/language/sv.md" >}}) | 129 | 441 | 29.3 | /mnt/stockage/packages/f13/backintime/common/po/sv.po | 
- | [pl]({{< ref "/f13/language/pl.md" >}}) | 109 | 441 | 24.7 | /mnt/stockage/packages/f13/backintime/common/po/pl.po | 
- | [en_GB]({{< ref "/f13/language/en_GB.md" >}}) | 98 | 441 | 22.2 | /mnt/stockage/packages/f13/backintime/common/po/en_GB.po | 
- | [he]({{< ref "/f13/language/he.md" >}}) | 97 | 441 | 22.0 | /mnt/stockage/packages/f13/backintime/common/po/he.po | 
- | [cs]({{< ref "/f13/language/cs.md" >}}) | 71 | 441 | 16.1 | /mnt/stockage/packages/f13/backintime/common/po/cs.po | 
- | [id]({{< ref "/f13/language/id.md" >}}) | 52 | 441 | 11.8 | /mnt/stockage/packages/f13/backintime/common/po/id.po | 
- | [th]({{< ref "/f13/language/th.md" >}}) | 49 | 441 | 11.1 | /mnt/stockage/packages/f13/backintime/common/po/th.po | 
- | [eu]({{< ref "/f13/language/eu.md" >}}) | 42 | 441 | 9.5 | /mnt/stockage/packages/f13/backintime/common/po/eu.po | 
- | [et]({{< ref "/f13/language/et.md" >}}) | 16 | 441 | 3.6 | /mnt/stockage/packages/f13/backintime/common/po/et.po | 
- | [jv]({{< ref "/f13/language/jv.md" >}}) | 15 | 441 | 3.4 | /mnt/stockage/packages/f13/backintime/common/po/jv.po | 
- | [pt_BR]({{< ref "/f13/language/pt_BR.md" >}}) | 0 | 441 | 0.0 | /mnt/stockage/packages/f13/backintime/common/po/pt_BR.po | 
- | [uk]({{< ref "/f13/language/uk.md" >}}) | 0 | 441 | 0.0 | /mnt/stockage/packages/f13/backintime/common/po/uk.po | 
+ | [ar](/f13/language/ar) | 441 | 441 | 100.0 | /mnt/stockage/packages/f13/backintime/common/po/ar.po | 
+ | [de](/f13/language/de) | 441 | 441 | 100.0 | /mnt/stockage/packages/f13/backintime/common/po/de.po | 
+ | [fr](/f13/language/fr) | 441 | 441 | 100.0 | /mnt/stockage/packages/f13/backintime/common/po/fr.po | 
+ | [gl](/f13/language/gl) | 441 | 441 | 100.0 | /mnt/stockage/packages/f13/backintime/common/po/gl.po | 
+ | [sk](/f13/language/sk) | 441 | 441 | 100.0 | /mnt/stockage/packages/f13/backintime/common/po/sk.po | 
+ | [es](/f13/language/es) | 431 | 432 | 99.8 | /mnt/stockage/packages/f13/backintime/common/po/es.po | 
+ | [it](/f13/language/it) | 430 | 441 | 97.5 | /mnt/stockage/packages/f13/backintime/common/po/it.po | 
+ | [hu](/f13/language/hu) | 427 | 441 | 96.8 | /mnt/stockage/packages/f13/backintime/common/po/hu.po | 
+ | [ru](/f13/language/ru) | 355 | 441 | 80.5 | /mnt/stockage/packages/f13/backintime/common/po/ru.po | 
+ | [bg](/f13/language/bg) | 311 | 441 | 70.5 | /mnt/stockage/packages/f13/backintime/common/po/bg.po | 
+ | [nl](/f13/language/nl) | 311 | 441 | 70.5 | /mnt/stockage/packages/f13/backintime/common/po/nl.po | 
+ | [lt](/f13/language/lt) | 292 | 441 | 66.2 | /mnt/stockage/packages/f13/backintime/common/po/lt.po | 
+ | [nb_NO](/f13/language/nb_NO) | 292 | 441 | 66.2 | /mnt/stockage/packages/f13/backintime/common/po/nb.po | 
+ | [zh_Hans](/f13/language/zh_Hans) | 292 | 441 | 66.2 | /mnt/stockage/packages/f13/backintime/common/po/zh_CN.po | 
+ | [ca](/f13/language/ca) | 289 | 441 | 65.5 | /mnt/stockage/packages/f13/backintime/common/po/ca.po | 
+ | [pt](/f13/language/pt) | 142 | 441 | 32.2 | /mnt/stockage/packages/f13/backintime/common/po/pt.po | 
+ | [sl](/f13/language/sl) | 129 | 441 | 29.3 | /mnt/stockage/packages/f13/backintime/common/po/sl.po | 
+ | [sv](/f13/language/sv) | 129 | 441 | 29.3 | /mnt/stockage/packages/f13/backintime/common/po/sv.po | 
+ | [pl](/f13/language/pl) | 109 | 441 | 24.7 | /mnt/stockage/packages/f13/backintime/common/po/pl.po | 
+ | [en_GB](/f13/language/en_GB) | 98 | 441 | 22.2 | /mnt/stockage/packages/f13/backintime/common/po/en_GB.po | 
+ | [he](/f13/language/he) | 97 | 441 | 22.0 | /mnt/stockage/packages/f13/backintime/common/po/he.po | 
+ | [cs](/f13/language/cs) | 71 | 441 | 16.1 | /mnt/stockage/packages/f13/backintime/common/po/cs.po | 
+ | [id](/f13/language/id) | 52 | 441 | 11.8 | /mnt/stockage/packages/f13/backintime/common/po/id.po | 
+ | [th](/f13/language/th) | 49 | 441 | 11.1 | /mnt/stockage/packages/f13/backintime/common/po/th.po | 
+ | [eu](/f13/language/eu) | 42 | 441 | 9.5 | /mnt/stockage/packages/f13/backintime/common/po/eu.po | 
+ | [et](/f13/language/et) | 16 | 441 | 3.6 | /mnt/stockage/packages/f13/backintime/common/po/et.po | 
+ | [jv](/f13/language/jv) | 15 | 441 | 3.4 | /mnt/stockage/packages/f13/backintime/common/po/jv.po | 
+ | [pt_BR](/f13/language/pt_BR) | 0 | 441 | 0.0 | /mnt/stockage/packages/f13/backintime/common/po/pt_BR.po | 
+ | [uk](/f13/language/uk) | 0 | 441 | 0.0 | /mnt/stockage/packages/f13/backintime/common/po/uk.po | 
 {.sortable}
 
 

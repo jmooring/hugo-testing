@@ -18,43 +18,43 @@ The package python-meh (version 0.11):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f16/language/ar.md" >}}) | 269 | 269 | 100.0 | /mnt/stockage/packages/f16/python-meh/po/ar.po | 
- | [as]({{< ref "/f16/language/as.md" >}}) | 269 | 269 | 100.0 | /mnt/stockage/packages/f16/python-meh/po/as.po | 
- | [ast]({{< ref "/f16/language/ast.md" >}}) | 269 | 269 | 100.0 | /mnt/stockage/packages/f16/python-meh/po/ast.po | 
- | [bn_IN]({{< ref "/f16/language/bn_IN.md" >}}) | 269 | 269 | 100.0 | /mnt/stockage/packages/f16/python-meh/po/bn_IN.po | 
- | [bs]({{< ref "/f16/language/bs.md" >}}) | 269 | 269 | 100.0 | /mnt/stockage/packages/f16/python-meh/po/bs.po | 
- | [ca]({{< ref "/f16/language/ca.md" >}}) | 269 | 269 | 100.0 | /mnt/stockage/packages/f16/python-meh/po/ca.po | 
- | [da]({{< ref "/f16/language/da.md" >}}) | 269 | 269 | 100.0 | /mnt/stockage/packages/f16/python-meh/po/da.po | 
- | [de]({{< ref "/f16/language/de.md" >}}) | 269 | 269 | 100.0 | /mnt/stockage/packages/f16/python-meh/po/de.po | 
- | [el]({{< ref "/f16/language/el.md" >}}) | 269 | 269 | 100.0 | /mnt/stockage/packages/f16/python-meh/po/el.po | 
- | [es]({{< ref "/f16/language/es.md" >}}) | 269 | 269 | 100.0 | /mnt/stockage/packages/f16/python-meh/po/es.po | 
- | [fi]({{< ref "/f16/language/fi.md" >}}) | 269 | 269 | 100.0 | /mnt/stockage/packages/f16/python-meh/po/fi.po | 
- | [fr]({{< ref "/f16/language/fr.md" >}}) | 269 | 269 | 100.0 | /mnt/stockage/packages/f16/python-meh/po/fr.po | 
- | [gu]({{< ref "/f16/language/gu.md" >}}) | 269 | 269 | 100.0 | /mnt/stockage/packages/f16/python-meh/po/gu.po | 
- | [hi]({{< ref "/f16/language/hi.md" >}}) | 269 | 269 | 100.0 | /mnt/stockage/packages/f16/python-meh/po/hi.po | 
- | [hu]({{< ref "/f16/language/hu.md" >}}) | 269 | 269 | 100.0 | /mnt/stockage/packages/f16/python-meh/po/hu.po | 
- | [it]({{< ref "/f16/language/it.md" >}}) | 269 | 269 | 100.0 | /mnt/stockage/packages/f16/python-meh/po/it.po | 
- | [ja]({{< ref "/f16/language/ja.md" >}}) | 269 | 269 | 100.0 | /mnt/stockage/packages/f16/python-meh/po/ja.po | 
- | [kn]({{< ref "/f16/language/kn.md" >}}) | 269 | 269 | 100.0 | /mnt/stockage/packages/f16/python-meh/po/kn.po | 
- | [ko]({{< ref "/f16/language/ko.md" >}}) | 269 | 269 | 100.0 | /mnt/stockage/packages/f16/python-meh/po/ko.po | 
- | [ml]({{< ref "/f16/language/ml.md" >}}) | 269 | 269 | 100.0 | /mnt/stockage/packages/f16/python-meh/po/ml.po | 
- | [mr]({{< ref "/f16/language/mr.md" >}}) | 269 | 269 | 100.0 | /mnt/stockage/packages/f16/python-meh/po/mr.po | 
- | [nl]({{< ref "/f16/language/nl.md" >}}) | 269 | 269 | 100.0 | /mnt/stockage/packages/f16/python-meh/po/nl.po | 
- | [or]({{< ref "/f16/language/or.md" >}}) | 269 | 269 | 100.0 | /mnt/stockage/packages/f16/python-meh/po/or.po | 
- | [pa]({{< ref "/f16/language/pa.md" >}}) | 269 | 269 | 100.0 | /mnt/stockage/packages/f16/python-meh/po/pa.po | 
- | [pl]({{< ref "/f16/language/pl.md" >}}) | 269 | 269 | 100.0 | /mnt/stockage/packages/f16/python-meh/po/pl.po | 
- | [pt]({{< ref "/f16/language/pt.md" >}}) | 269 | 269 | 100.0 | /mnt/stockage/packages/f16/python-meh/po/pt.po | 
- | [pt_BR]({{< ref "/f16/language/pt_BR.md" >}}) | 269 | 269 | 100.0 | /mnt/stockage/packages/f16/python-meh/po/pt_BR.po | 
- | [ru]({{< ref "/f16/language/ru.md" >}}) | 269 | 269 | 100.0 | /mnt/stockage/packages/f16/python-meh/po/ru.po | 
- | [sr]({{< ref "/f16/language/sr.md" >}}) | 269 | 269 | 100.0 | /mnt/stockage/packages/f16/python-meh/po/sr.po | 
- | [sr_Latn]({{< ref "/f16/language/sr_Latn.md" >}}) | 269 | 269 | 100.0 | /mnt/stockage/packages/f16/python-meh/po/sr@latin.po | 
- | [sv]({{< ref "/f16/language/sv.md" >}}) | 269 | 269 | 100.0 | /mnt/stockage/packages/f16/python-meh/po/sv.po | 
- | [ta]({{< ref "/f16/language/ta.md" >}}) | 269 | 269 | 100.0 | /mnt/stockage/packages/f16/python-meh/po/ta.po | 
- | [te]({{< ref "/f16/language/te.md" >}}) | 269 | 269 | 100.0 | /mnt/stockage/packages/f16/python-meh/po/te.po | 
- | [uk]({{< ref "/f16/language/uk.md" >}}) | 269 | 269 | 100.0 | /mnt/stockage/packages/f16/python-meh/po/uk.po | 
- | [zh_Hans]({{< ref "/f16/language/zh_Hans.md" >}}) | 269 | 269 | 100.0 | /mnt/stockage/packages/f16/python-meh/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f16/language/zh_Hant.md" >}}) | 269 | 269 | 100.0 | /mnt/stockage/packages/f16/python-meh/po/zh_TW.po | 
- | [nds]({{< ref "/f16/language/nds.md" >}}) | 10 | 269 | 3.7 | /mnt/stockage/packages/f16/python-meh/po/nds.po | 
+ | [ar](/f16/language/ar) | 269 | 269 | 100.0 | /mnt/stockage/packages/f16/python-meh/po/ar.po | 
+ | [as](/f16/language/as) | 269 | 269 | 100.0 | /mnt/stockage/packages/f16/python-meh/po/as.po | 
+ | [ast](/f16/language/ast) | 269 | 269 | 100.0 | /mnt/stockage/packages/f16/python-meh/po/ast.po | 
+ | [bn_IN](/f16/language/bn_IN) | 269 | 269 | 100.0 | /mnt/stockage/packages/f16/python-meh/po/bn_IN.po | 
+ | [bs](/f16/language/bs) | 269 | 269 | 100.0 | /mnt/stockage/packages/f16/python-meh/po/bs.po | 
+ | [ca](/f16/language/ca) | 269 | 269 | 100.0 | /mnt/stockage/packages/f16/python-meh/po/ca.po | 
+ | [da](/f16/language/da) | 269 | 269 | 100.0 | /mnt/stockage/packages/f16/python-meh/po/da.po | 
+ | [de](/f16/language/de) | 269 | 269 | 100.0 | /mnt/stockage/packages/f16/python-meh/po/de.po | 
+ | [el](/f16/language/el) | 269 | 269 | 100.0 | /mnt/stockage/packages/f16/python-meh/po/el.po | 
+ | [es](/f16/language/es) | 269 | 269 | 100.0 | /mnt/stockage/packages/f16/python-meh/po/es.po | 
+ | [fi](/f16/language/fi) | 269 | 269 | 100.0 | /mnt/stockage/packages/f16/python-meh/po/fi.po | 
+ | [fr](/f16/language/fr) | 269 | 269 | 100.0 | /mnt/stockage/packages/f16/python-meh/po/fr.po | 
+ | [gu](/f16/language/gu) | 269 | 269 | 100.0 | /mnt/stockage/packages/f16/python-meh/po/gu.po | 
+ | [hi](/f16/language/hi) | 269 | 269 | 100.0 | /mnt/stockage/packages/f16/python-meh/po/hi.po | 
+ | [hu](/f16/language/hu) | 269 | 269 | 100.0 | /mnt/stockage/packages/f16/python-meh/po/hu.po | 
+ | [it](/f16/language/it) | 269 | 269 | 100.0 | /mnt/stockage/packages/f16/python-meh/po/it.po | 
+ | [ja](/f16/language/ja) | 269 | 269 | 100.0 | /mnt/stockage/packages/f16/python-meh/po/ja.po | 
+ | [kn](/f16/language/kn) | 269 | 269 | 100.0 | /mnt/stockage/packages/f16/python-meh/po/kn.po | 
+ | [ko](/f16/language/ko) | 269 | 269 | 100.0 | /mnt/stockage/packages/f16/python-meh/po/ko.po | 
+ | [ml](/f16/language/ml) | 269 | 269 | 100.0 | /mnt/stockage/packages/f16/python-meh/po/ml.po | 
+ | [mr](/f16/language/mr) | 269 | 269 | 100.0 | /mnt/stockage/packages/f16/python-meh/po/mr.po | 
+ | [nl](/f16/language/nl) | 269 | 269 | 100.0 | /mnt/stockage/packages/f16/python-meh/po/nl.po | 
+ | [or](/f16/language/or) | 269 | 269 | 100.0 | /mnt/stockage/packages/f16/python-meh/po/or.po | 
+ | [pa](/f16/language/pa) | 269 | 269 | 100.0 | /mnt/stockage/packages/f16/python-meh/po/pa.po | 
+ | [pl](/f16/language/pl) | 269 | 269 | 100.0 | /mnt/stockage/packages/f16/python-meh/po/pl.po | 
+ | [pt](/f16/language/pt) | 269 | 269 | 100.0 | /mnt/stockage/packages/f16/python-meh/po/pt.po | 
+ | [pt_BR](/f16/language/pt_BR) | 269 | 269 | 100.0 | /mnt/stockage/packages/f16/python-meh/po/pt_BR.po | 
+ | [ru](/f16/language/ru) | 269 | 269 | 100.0 | /mnt/stockage/packages/f16/python-meh/po/ru.po | 
+ | [sr](/f16/language/sr) | 269 | 269 | 100.0 | /mnt/stockage/packages/f16/python-meh/po/sr.po | 
+ | [sr_Latn](/f16/language/sr_Latn) | 269 | 269 | 100.0 | /mnt/stockage/packages/f16/python-meh/po/sr@latin.po | 
+ | [sv](/f16/language/sv) | 269 | 269 | 100.0 | /mnt/stockage/packages/f16/python-meh/po/sv.po | 
+ | [ta](/f16/language/ta) | 269 | 269 | 100.0 | /mnt/stockage/packages/f16/python-meh/po/ta.po | 
+ | [te](/f16/language/te) | 269 | 269 | 100.0 | /mnt/stockage/packages/f16/python-meh/po/te.po | 
+ | [uk](/f16/language/uk) | 269 | 269 | 100.0 | /mnt/stockage/packages/f16/python-meh/po/uk.po | 
+ | [zh_Hans](/f16/language/zh_Hans) | 269 | 269 | 100.0 | /mnt/stockage/packages/f16/python-meh/po/zh_CN.po | 
+ | [zh_Hant](/f16/language/zh_Hant) | 269 | 269 | 100.0 | /mnt/stockage/packages/f16/python-meh/po/zh_TW.po | 
+ | [nds](/f16/language/nds) | 10 | 269 | 3.7 | /mnt/stockage/packages/f16/python-meh/po/nds.po | 
 {.sortable}
 
 

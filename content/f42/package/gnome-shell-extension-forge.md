@@ -18,11 +18,11 @@ The package gnome-shell-extension-forge (version 88):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [es]({{< ref "/f42/language/es.md" >}}) | 74 | 307 | 24.1 | /mnt/stockage/packages/f42/gnome-shell-extension-forge/po/es.po | 
- | [it]({{< ref "/f42/language/it.md" >}}) | 73 | 307 | 23.8 | /mnt/stockage/packages/f42/gnome-shell-extension-forge/po/it.po | 
- | [fr_CA]({{< ref "/f42/language/fr_CA.md" >}}) | 45 | 307 | 14.7 | /mnt/stockage/packages/f42/gnome-shell-extension-forge/po/fr.po | 
- | [pt_BR]({{< ref "/f42/language/pt_BR.md" >}}) | 44 | 307 | 14.3 | /mnt/stockage/packages/f42/gnome-shell-extension-forge/po/pt_BR.po | 
- | [nl]({{< ref "/f42/language/nl.md" >}}) | 19 | 307 | 6.2 | /mnt/stockage/packages/f42/gnome-shell-extension-forge/po/nl.po | 
+ | [es](/f42/language/es) | 74 | 307 | 24.1 | /mnt/stockage/packages/f42/gnome-shell-extension-forge/po/es.po | 
+ | [it](/f42/language/it) | 73 | 307 | 23.8 | /mnt/stockage/packages/f42/gnome-shell-extension-forge/po/it.po | 
+ | [fr_CA](/f42/language/fr_CA) | 45 | 307 | 14.7 | /mnt/stockage/packages/f42/gnome-shell-extension-forge/po/fr.po | 
+ | [pt_BR](/f42/language/pt_BR) | 44 | 307 | 14.3 | /mnt/stockage/packages/f42/gnome-shell-extension-forge/po/pt_BR.po | 
+ | [nl](/f42/language/nl) | 19 | 307 | 6.2 | /mnt/stockage/packages/f42/gnome-shell-extension-forge/po/nl.po | 
 {.sortable}
 
 

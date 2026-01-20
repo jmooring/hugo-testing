@@ -18,10 +18,10 @@ The package fswatch (version 1.17.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [error]({{< ref "/f41/language/error.md" >}}) | 1076 | 1076 | 100.0 | /mnt/stockage/packages/f41/fswatch/po/en@quot.po/mnt/stockage/packages/f41/fswatch/po/en@boldquot.po | 
- | [es]({{< ref "/f41/language/es.md" >}}) | 522 | 538 | 97.0 | /mnt/stockage/packages/f41/fswatch/po/es.po | 
- | [it]({{< ref "/f41/language/it.md" >}}) | 522 | 538 | 97.0 | /mnt/stockage/packages/f41/fswatch/po/it.po | 
- | [en]({{< ref "/f41/language/en.md" >}}) | 0 | 538 | 0.0 | /mnt/stockage/packages/f41/fswatch/po/en.po | 
+ | [error](/f41/language/error) | 1076 | 1076 | 100.0 | /mnt/stockage/packages/f41/fswatch/po/en@quot.po/mnt/stockage/packages/f41/fswatch/po/en@boldquot.po | 
+ | [es](/f41/language/es) | 522 | 538 | 97.0 | /mnt/stockage/packages/f41/fswatch/po/es.po | 
+ | [it](/f41/language/it) | 522 | 538 | 97.0 | /mnt/stockage/packages/f41/fswatch/po/it.po | 
+ | [en](/f41/language/en) | 0 | 538 | 0.0 | /mnt/stockage/packages/f41/fswatch/po/en.po | 
 {.sortable}
 
 

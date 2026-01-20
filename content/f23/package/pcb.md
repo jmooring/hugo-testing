@@ -18,10 +18,10 @@ The package pcb (version 0.20140316):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [nl]({{< ref "/f23/language/nl.md" >}}) | 3175 | 3175 | 100.0 | /mnt/stockage/packages/f23/pcb/po/nl.po | 
- | [pt_BR]({{< ref "/f23/language/pt_BR.md" >}}) | 6349 | 6349 | 100.0 | /mnt/stockage/packages/f23/pcb/po/pt_BR.po | 
- | [ru]({{< ref "/f23/language/ru.md" >}}) | 4414 | 4414 | 100.0 | /mnt/stockage/packages/f23/pcb/po/ru.po | 
- | [fr]({{< ref "/f23/language/fr.md" >}}) | 1708 | 2765 | 61.8 | /mnt/stockage/packages/f23/pcb/po/fr.po | 
+ | [nl](/f23/language/nl) | 3175 | 3175 | 100.0 | /mnt/stockage/packages/f23/pcb/po/nl.po | 
+ | [pt_BR](/f23/language/pt_BR) | 6349 | 6349 | 100.0 | /mnt/stockage/packages/f23/pcb/po/pt_BR.po | 
+ | [ru](/f23/language/ru) | 4414 | 4414 | 100.0 | /mnt/stockage/packages/f23/pcb/po/ru.po | 
+ | [fr](/f23/language/fr) | 1708 | 2765 | 61.8 | /mnt/stockage/packages/f23/pcb/po/fr.po | 
 {.sortable}
 
 

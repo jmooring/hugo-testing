@@ -18,10 +18,10 @@ The package python-plumbum (version 1.7.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ru]({{< ref "/f43/language/ru.md" >}}) | 186 | 204 | 91.2 | /mnt/stockage/packages/f43/python-plumbum/plumbum/cli/i18n/ru.po | 
- | [de]({{< ref "/f43/language/de.md" >}}) | 178 | 204 | 87.3 | /mnt/stockage/packages/f43/python-plumbum/plumbum/cli/i18n/de.po | 
- | [fr]({{< ref "/f43/language/fr.md" >}}) | 178 | 204 | 87.3 | /mnt/stockage/packages/f43/python-plumbum/plumbum/cli/i18n/fr.po | 
- | [nl]({{< ref "/f43/language/nl.md" >}}) | 178 | 204 | 87.3 | /mnt/stockage/packages/f43/python-plumbum/plumbum/cli/i18n/nl.po | 
+ | [ru](/f43/language/ru) | 186 | 204 | 91.2 | /mnt/stockage/packages/f43/python-plumbum/plumbum/cli/i18n/ru.po | 
+ | [de](/f43/language/de) | 178 | 204 | 87.3 | /mnt/stockage/packages/f43/python-plumbum/plumbum/cli/i18n/de.po | 
+ | [fr](/f43/language/fr) | 178 | 204 | 87.3 | /mnt/stockage/packages/f43/python-plumbum/plumbum/cli/i18n/fr.po | 
+ | [nl](/f43/language/nl) | 178 | 204 | 87.3 | /mnt/stockage/packages/f43/python-plumbum/plumbum/cli/i18n/nl.po | 
 {.sortable}
 
 

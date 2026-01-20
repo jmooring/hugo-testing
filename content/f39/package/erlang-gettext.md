@@ -18,9 +18,9 @@ The package erlang-gettext (version 2.1.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [en_US]({{< ref "/f39/language/en_US.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f39/erlang-gettext/test/lang/default/en/gettext.po | 
- | [es]({{< ref "/f39/language/es.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f39/erlang-gettext/test/lang/custom/es/gettext.po | 
- | [sv]({{< ref "/f39/language/sv.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f39/erlang-gettext/test/lang/custom/sv/gettext.po | 
+ | [en_US](/f39/language/en_US) | 0 | 0 | 0.0 | /mnt/stockage/packages/f39/erlang-gettext/test/lang/default/en/gettext.po | 
+ | [es](/f39/language/es) | 0 | 0 | 0.0 | /mnt/stockage/packages/f39/erlang-gettext/test/lang/custom/es/gettext.po | 
+ | [sv](/f39/language/sv) | 0 | 0 | 0.0 | /mnt/stockage/packages/f39/erlang-gettext/test/lang/custom/sv/gettext.po | 
 {.sortable}
 
 

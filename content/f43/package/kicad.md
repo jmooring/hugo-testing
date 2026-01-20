@@ -18,47 +18,47 @@ The package kicad (version 9.0.7):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [en_US]({{< ref "/f43/language/en_US.md" >}}) | 54151 | 54151 | 100.0 | /mnt/stockage/packages/f43/kicad/translation/pofiles/en.po | 
- | [uk]({{< ref "/f43/language/uk.md" >}}) | 54151 | 54151 | 100.0 | /mnt/stockage/packages/f43/kicad/translation/pofiles/uk.po | 
- | [ru]({{< ref "/f43/language/ru.md" >}}) | 124113 | 124281 | 99.9 | /mnt/stockage/packages/f43/kicad/src/eeschema/po/ru.po/mnt/stockage/packages/f43/kicad/src/gerbview/po/ru.po/mnt/stockage/packages/f43/kicad/src/getting_started_in_kicad/po/ru.po/mnt/stockage/packages/f43/kicad/src/kicad/po/ru.po/mnt/stockage/packages/f43/kicad/src/pcb_calculator/po/ru.po/mnt/stockage/packages/f43/kicad/src/pcbnew/po/ru.po/mnt/stockage/packages/f43/kicad/src/pl_editor/po/ru.po/mnt/stockage/packages/f43/kicad/translation/pofiles/ru.po | 
- | [tr]({{< ref "/f43/language/tr.md" >}}) | 53167 | 54151 | 98.2 | /mnt/stockage/packages/f43/kicad/translation/pofiles/tr.po | 
- | [sv]({{< ref "/f43/language/sv.md" >}}) | 52690 | 54151 | 97.3 | /mnt/stockage/packages/f43/kicad/translation/pofiles/sv.po | 
- | [ta]({{< ref "/f43/language/ta.md" >}}) | 52626 | 54151 | 97.2 | /mnt/stockage/packages/f43/kicad/translation/pofiles/ta.po | 
- | [ko]({{< ref "/f43/language/ko.md" >}}) | 52020 | 54151 | 96.1 | /mnt/stockage/packages/f43/kicad/translation/pofiles/ko.po | 
- | [zh_Hant]({{< ref "/f43/language/zh_Hant.md" >}}) | 51116 | 54151 | 94.4 | /mnt/stockage/packages/f43/kicad/translation/pofiles/zh_TW.po | 
- | [pt]({{< ref "/f43/language/pt.md" >}}) | 50981 | 54151 | 94.1 | /mnt/stockage/packages/f43/kicad/translation/pofiles/pt.po | 
- | [pt_BR]({{< ref "/f43/language/pt_BR.md" >}}) | 50895 | 54151 | 94.0 | /mnt/stockage/packages/f43/kicad/translation/pofiles/pt_BR.po | 
- | [fi]({{< ref "/f43/language/fi.md" >}}) | 50583 | 54151 | 93.4 | /mnt/stockage/packages/f43/kicad/translation/pofiles/fi.po | 
- | [nl]({{< ref "/f43/language/nl.md" >}}) | 46583 | 54151 | 86.0 | /mnt/stockage/packages/f43/kicad/translation/pofiles/nl.po | 
- | [el]({{< ref "/f43/language/el.md" >}}) | 44060 | 54151 | 81.4 | /mnt/stockage/packages/f43/kicad/translation/pofiles/el.po | 
- | [pl]({{< ref "/f43/language/pl.md" >}}) | 101263 | 125807 | 80.5 | /mnt/stockage/packages/f43/kicad/src/eeschema/po/pl.po/mnt/stockage/packages/f43/kicad/src/gerbview/po/pl.po/mnt/stockage/packages/f43/kicad/src/getting_started_in_kicad/po/pl.po/mnt/stockage/packages/f43/kicad/src/kicad/po/pl.po/mnt/stockage/packages/f43/kicad/src/pcb_calculator/po/pl.po/mnt/stockage/packages/f43/kicad/src/pcbnew/po/pl.po/mnt/stockage/packages/f43/kicad/src/pl_editor/po/pl.po/mnt/stockage/packages/f43/kicad/translation/pofiles/pl.po | 
- | [es_MX]({{< ref "/f43/language/es_MX.md" >}}) | 43479 | 54151 | 80.3 | /mnt/stockage/packages/f43/kicad/translation/pofiles/es_MX.po | 
- | [ja]({{< ref "/f43/language/ja.md" >}}) | 99169 | 125807 | 78.8 | /mnt/stockage/packages/f43/kicad/src/eeschema/po/ja.po/mnt/stockage/packages/f43/kicad/src/gerbview/po/ja.po/mnt/stockage/packages/f43/kicad/src/getting_started_in_kicad/po/ja.po/mnt/stockage/packages/f43/kicad/src/kicad/po/ja.po/mnt/stockage/packages/f43/kicad/src/pcb_calculator/po/ja.po/mnt/stockage/packages/f43/kicad/src/pcbnew/po/ja.po/mnt/stockage/packages/f43/kicad/src/pl_editor/po/ja.po/mnt/stockage/packages/f43/kicad/translation/pofiles/ja.po | 
- | [de]({{< ref "/f43/language/de.md" >}}) | 91788 | 127727 | 71.9 | /mnt/stockage/packages/f43/kicad/src/eeschema/po/de.po/mnt/stockage/packages/f43/kicad/src/gerbview/po/de.po/mnt/stockage/packages/f43/kicad/src/getting_started_in_kicad/po/de.po/mnt/stockage/packages/f43/kicad/src/introduction/po/de.po/mnt/stockage/packages/f43/kicad/src/kicad/po/de.po/mnt/stockage/packages/f43/kicad/src/pcbnew/po/de.po/mnt/stockage/packages/f43/kicad/src/pl_editor/po/de.po/mnt/stockage/packages/f43/kicad/translation/pofiles/de.po | 
- | [cs]({{< ref "/f43/language/cs.md" >}}) | 36554 | 54151 | 67.5 | /mnt/stockage/packages/f43/kicad/translation/pofiles/cs.po | 
- | [fr]({{< ref "/f43/language/fr.md" >}}) | 78528 | 120730 | 65.0 | /mnt/stockage/packages/f43/kicad/src/eeschema/po/fr.po/mnt/stockage/packages/f43/kicad/src/getting_started_in_kicad/po/fr.po/mnt/stockage/packages/f43/kicad/src/kicad/po/fr.po/mnt/stockage/packages/f43/kicad/src/pcbnew/po/fr.po/mnt/stockage/packages/f43/kicad/src/pl_editor/po/fr.po/mnt/stockage/packages/f43/kicad/translation/pofiles/fr.po | 
- | [zh_Hans]({{< ref "/f43/language/zh_Hans.md" >}}) | 121599 | 187086 | 65.0 | /mnt/stockage/packages/f43/kicad/src/cli/po/zh.po/mnt/stockage/packages/f43/kicad/src/eeschema/po/zh.po/mnt/stockage/packages/f43/kicad/src/gerbview/po/zh.po/mnt/stockage/packages/f43/kicad/src/getting_started_in_kicad/po/zh.po/mnt/stockage/packages/f43/kicad/src/introduction/po/zh.po/mnt/stockage/packages/f43/kicad/src/kicad/po/zh.po/mnt/stockage/packages/f43/kicad/src/pcb_calculator/po/zh.po/mnt/stockage/packages/f43/kicad/src/pcbnew/po/zh.po/mnt/stockage/packages/f43/kicad/src/pl_editor/po/zh.po/mnt/stockage/packages/f43/kicad/translation/pofiles/zh_CN.po | 
- | [th]({{< ref "/f43/language/th.md" >}}) | 30119 | 54151 | 55.6 | /mnt/stockage/packages/f43/kicad/translation/pofiles/th.po | 
- | [es]({{< ref "/f43/language/es.md" >}}) | 66080 | 121798 | 54.3 | /mnt/stockage/packages/f43/kicad/src/eeschema/po/es.po/mnt/stockage/packages/f43/kicad/src/gerbview/po/es.po/mnt/stockage/packages/f43/kicad/src/getting_started_in_kicad/po/es.po/mnt/stockage/packages/f43/kicad/src/kicad/po/es.po/mnt/stockage/packages/f43/kicad/src/pcbnew/po/es.po/mnt/stockage/packages/f43/kicad/src/pl_editor/po/es.po/mnt/stockage/packages/f43/kicad/translation/pofiles/es.po | 
- | [it]({{< ref "/f43/language/it.md" >}}) | 78942 | 149499 | 52.8 | /mnt/stockage/packages/f43/kicad/src/eeschema/po/it.po/mnt/stockage/packages/f43/kicad/src/gerbview/po/it.po/mnt/stockage/packages/f43/kicad/src/getting_started_in_kicad/po/it.po/mnt/stockage/packages/f43/kicad/src/introduction/po/it.po/mnt/stockage/packages/f43/kicad/src/kicad/po/it.po/mnt/stockage/packages/f43/kicad/src/pcb_calculator/po/it.po/mnt/stockage/packages/f43/kicad/src/pcbnew/po/it.po/mnt/stockage/packages/f43/kicad/src/pl_editor/po/it.po/mnt/stockage/packages/f43/kicad/translation/pofiles/it.po | 
- | [sk]({{< ref "/f43/language/sk.md" >}}) | 25828 | 54151 | 47.7 | /mnt/stockage/packages/f43/kicad/translation/pofiles/sk.po | 
- | [id]({{< ref "/f43/language/id.md" >}}) | 35601 | 92143 | 38.6 | /mnt/stockage/packages/f43/kicad/src/eeschema/po/id.po/mnt/stockage/packages/f43/kicad/src/getting_started_in_kicad/po/id.po/mnt/stockage/packages/f43/kicad/src/kicad/po/id.po/mnt/stockage/packages/f43/kicad/translation/pofiles/id.po | 
- | [hu]({{< ref "/f43/language/hu.md" >}}) | 19410 | 54151 | 35.8 | /mnt/stockage/packages/f43/kicad/translation/pofiles/hu.po | 
- | [lt]({{< ref "/f43/language/lt.md" >}}) | 18414 | 54151 | 34.0 | /mnt/stockage/packages/f43/kicad/translation/pofiles/lt.po | 
- | [nb_NO]({{< ref "/f43/language/nb_NO.md" >}}) | 18222 | 54151 | 33.7 | /mnt/stockage/packages/f43/kicad/translation/pofiles/no.po | 
- | [da]({{< ref "/f43/language/da.md" >}}) | 18021 | 54151 | 33.3 | /mnt/stockage/packages/f43/kicad/translation/pofiles/da.po | 
- | [ca]({{< ref "/f43/language/ca.md" >}}) | 22162 | 68953 | 32.1 | /mnt/stockage/packages/f43/kicad/src/getting_started_in_kicad/po/ca.po/mnt/stockage/packages/f43/kicad/src/kicad/po/ca.po/mnt/stockage/packages/f43/kicad/translation/pofiles/ca.po | 
- | [vi]({{< ref "/f43/language/vi.md" >}}) | 10461 | 54151 | 19.3 | /mnt/stockage/packages/f43/kicad/translation/pofiles/vi.po | 
- | [ro]({{< ref "/f43/language/ro.md" >}}) | 9260 | 54151 | 17.1 | /mnt/stockage/packages/f43/kicad/translation/pofiles/ro.po | 
- | [sr]({{< ref "/f43/language/sr.md" >}}) | 7306 | 54151 | 13.5 | /mnt/stockage/packages/f43/kicad/translation/pofiles/sr.po | 
- | [ka]({{< ref "/f43/language/ka.md" >}}) | 6737 | 54151 | 12.4 | /mnt/stockage/packages/f43/kicad/translation/pofiles/ka.po | 
- | [he]({{< ref "/f43/language/he.md" >}}) | 2807 | 54151 | 5.2 | /mnt/stockage/packages/f43/kicad/translation/pofiles/he.po | 
- | [bg]({{< ref "/f43/language/bg.md" >}}) | 2342 | 54151 | 4.3 | /mnt/stockage/packages/f43/kicad/translation/pofiles/bg.po | 
- | [et]({{< ref "/f43/language/et.md" >}}) | 471 | 54151 | 0.9 | /mnt/stockage/packages/f43/kicad/translation/pofiles/et.po | 
- | [ar]({{< ref "/f43/language/ar.md" >}}) | 327 | 54151 | 0.6 | /mnt/stockage/packages/f43/kicad/translation/pofiles/ar.po | 
- | [lv]({{< ref "/f43/language/lv.md" >}}) | 269 | 54151 | 0.5 | /mnt/stockage/packages/f43/kicad/translation/pofiles/lv.po | 
- | [sl]({{< ref "/f43/language/sl.md" >}}) | 104 | 54151 | 0.2 | /mnt/stockage/packages/f43/kicad/translation/pofiles/sl.po | 
- | [hr]({{< ref "/f43/language/hr.md" >}}) | 0 | 54151 | 0.0 | /mnt/stockage/packages/f43/kicad/translation/pofiles/hr.po | 
+ | [en_US](/f43/language/en_US) | 54151 | 54151 | 100.0 | /mnt/stockage/packages/f43/kicad/translation/pofiles/en.po | 
+ | [uk](/f43/language/uk) | 54151 | 54151 | 100.0 | /mnt/stockage/packages/f43/kicad/translation/pofiles/uk.po | 
+ | [ru](/f43/language/ru) | 124113 | 124281 | 99.9 | /mnt/stockage/packages/f43/kicad/src/eeschema/po/ru.po/mnt/stockage/packages/f43/kicad/src/gerbview/po/ru.po/mnt/stockage/packages/f43/kicad/src/getting_started_in_kicad/po/ru.po/mnt/stockage/packages/f43/kicad/src/kicad/po/ru.po/mnt/stockage/packages/f43/kicad/src/pcb_calculator/po/ru.po/mnt/stockage/packages/f43/kicad/src/pcbnew/po/ru.po/mnt/stockage/packages/f43/kicad/src/pl_editor/po/ru.po/mnt/stockage/packages/f43/kicad/translation/pofiles/ru.po | 
+ | [tr](/f43/language/tr) | 53167 | 54151 | 98.2 | /mnt/stockage/packages/f43/kicad/translation/pofiles/tr.po | 
+ | [sv](/f43/language/sv) | 52690 | 54151 | 97.3 | /mnt/stockage/packages/f43/kicad/translation/pofiles/sv.po | 
+ | [ta](/f43/language/ta) | 52626 | 54151 | 97.2 | /mnt/stockage/packages/f43/kicad/translation/pofiles/ta.po | 
+ | [ko](/f43/language/ko) | 52020 | 54151 | 96.1 | /mnt/stockage/packages/f43/kicad/translation/pofiles/ko.po | 
+ | [zh_Hant](/f43/language/zh_Hant) | 51116 | 54151 | 94.4 | /mnt/stockage/packages/f43/kicad/translation/pofiles/zh_TW.po | 
+ | [pt](/f43/language/pt) | 50981 | 54151 | 94.1 | /mnt/stockage/packages/f43/kicad/translation/pofiles/pt.po | 
+ | [pt_BR](/f43/language/pt_BR) | 50895 | 54151 | 94.0 | /mnt/stockage/packages/f43/kicad/translation/pofiles/pt_BR.po | 
+ | [fi](/f43/language/fi) | 50583 | 54151 | 93.4 | /mnt/stockage/packages/f43/kicad/translation/pofiles/fi.po | 
+ | [nl](/f43/language/nl) | 46583 | 54151 | 86.0 | /mnt/stockage/packages/f43/kicad/translation/pofiles/nl.po | 
+ | [el](/f43/language/el) | 44060 | 54151 | 81.4 | /mnt/stockage/packages/f43/kicad/translation/pofiles/el.po | 
+ | [pl](/f43/language/pl) | 101263 | 125807 | 80.5 | /mnt/stockage/packages/f43/kicad/src/eeschema/po/pl.po/mnt/stockage/packages/f43/kicad/src/gerbview/po/pl.po/mnt/stockage/packages/f43/kicad/src/getting_started_in_kicad/po/pl.po/mnt/stockage/packages/f43/kicad/src/kicad/po/pl.po/mnt/stockage/packages/f43/kicad/src/pcb_calculator/po/pl.po/mnt/stockage/packages/f43/kicad/src/pcbnew/po/pl.po/mnt/stockage/packages/f43/kicad/src/pl_editor/po/pl.po/mnt/stockage/packages/f43/kicad/translation/pofiles/pl.po | 
+ | [es_MX](/f43/language/es_MX) | 43479 | 54151 | 80.3 | /mnt/stockage/packages/f43/kicad/translation/pofiles/es_MX.po | 
+ | [ja](/f43/language/ja) | 99169 | 125807 | 78.8 | /mnt/stockage/packages/f43/kicad/src/eeschema/po/ja.po/mnt/stockage/packages/f43/kicad/src/gerbview/po/ja.po/mnt/stockage/packages/f43/kicad/src/getting_started_in_kicad/po/ja.po/mnt/stockage/packages/f43/kicad/src/kicad/po/ja.po/mnt/stockage/packages/f43/kicad/src/pcb_calculator/po/ja.po/mnt/stockage/packages/f43/kicad/src/pcbnew/po/ja.po/mnt/stockage/packages/f43/kicad/src/pl_editor/po/ja.po/mnt/stockage/packages/f43/kicad/translation/pofiles/ja.po | 
+ | [de](/f43/language/de) | 91788 | 127727 | 71.9 | /mnt/stockage/packages/f43/kicad/src/eeschema/po/de.po/mnt/stockage/packages/f43/kicad/src/gerbview/po/de.po/mnt/stockage/packages/f43/kicad/src/getting_started_in_kicad/po/de.po/mnt/stockage/packages/f43/kicad/src/introduction/po/de.po/mnt/stockage/packages/f43/kicad/src/kicad/po/de.po/mnt/stockage/packages/f43/kicad/src/pcbnew/po/de.po/mnt/stockage/packages/f43/kicad/src/pl_editor/po/de.po/mnt/stockage/packages/f43/kicad/translation/pofiles/de.po | 
+ | [cs](/f43/language/cs) | 36554 | 54151 | 67.5 | /mnt/stockage/packages/f43/kicad/translation/pofiles/cs.po | 
+ | [fr](/f43/language/fr) | 78528 | 120730 | 65.0 | /mnt/stockage/packages/f43/kicad/src/eeschema/po/fr.po/mnt/stockage/packages/f43/kicad/src/getting_started_in_kicad/po/fr.po/mnt/stockage/packages/f43/kicad/src/kicad/po/fr.po/mnt/stockage/packages/f43/kicad/src/pcbnew/po/fr.po/mnt/stockage/packages/f43/kicad/src/pl_editor/po/fr.po/mnt/stockage/packages/f43/kicad/translation/pofiles/fr.po | 
+ | [zh_Hans](/f43/language/zh_Hans) | 121599 | 187086 | 65.0 | /mnt/stockage/packages/f43/kicad/src/cli/po/zh.po/mnt/stockage/packages/f43/kicad/src/eeschema/po/zh.po/mnt/stockage/packages/f43/kicad/src/gerbview/po/zh.po/mnt/stockage/packages/f43/kicad/src/getting_started_in_kicad/po/zh.po/mnt/stockage/packages/f43/kicad/src/introduction/po/zh.po/mnt/stockage/packages/f43/kicad/src/kicad/po/zh.po/mnt/stockage/packages/f43/kicad/src/pcb_calculator/po/zh.po/mnt/stockage/packages/f43/kicad/src/pcbnew/po/zh.po/mnt/stockage/packages/f43/kicad/src/pl_editor/po/zh.po/mnt/stockage/packages/f43/kicad/translation/pofiles/zh_CN.po | 
+ | [th](/f43/language/th) | 30119 | 54151 | 55.6 | /mnt/stockage/packages/f43/kicad/translation/pofiles/th.po | 
+ | [es](/f43/language/es) | 66080 | 121798 | 54.3 | /mnt/stockage/packages/f43/kicad/src/eeschema/po/es.po/mnt/stockage/packages/f43/kicad/src/gerbview/po/es.po/mnt/stockage/packages/f43/kicad/src/getting_started_in_kicad/po/es.po/mnt/stockage/packages/f43/kicad/src/kicad/po/es.po/mnt/stockage/packages/f43/kicad/src/pcbnew/po/es.po/mnt/stockage/packages/f43/kicad/src/pl_editor/po/es.po/mnt/stockage/packages/f43/kicad/translation/pofiles/es.po | 
+ | [it](/f43/language/it) | 78942 | 149499 | 52.8 | /mnt/stockage/packages/f43/kicad/src/eeschema/po/it.po/mnt/stockage/packages/f43/kicad/src/gerbview/po/it.po/mnt/stockage/packages/f43/kicad/src/getting_started_in_kicad/po/it.po/mnt/stockage/packages/f43/kicad/src/introduction/po/it.po/mnt/stockage/packages/f43/kicad/src/kicad/po/it.po/mnt/stockage/packages/f43/kicad/src/pcb_calculator/po/it.po/mnt/stockage/packages/f43/kicad/src/pcbnew/po/it.po/mnt/stockage/packages/f43/kicad/src/pl_editor/po/it.po/mnt/stockage/packages/f43/kicad/translation/pofiles/it.po | 
+ | [sk](/f43/language/sk) | 25828 | 54151 | 47.7 | /mnt/stockage/packages/f43/kicad/translation/pofiles/sk.po | 
+ | [id](/f43/language/id) | 35601 | 92143 | 38.6 | /mnt/stockage/packages/f43/kicad/src/eeschema/po/id.po/mnt/stockage/packages/f43/kicad/src/getting_started_in_kicad/po/id.po/mnt/stockage/packages/f43/kicad/src/kicad/po/id.po/mnt/stockage/packages/f43/kicad/translation/pofiles/id.po | 
+ | [hu](/f43/language/hu) | 19410 | 54151 | 35.8 | /mnt/stockage/packages/f43/kicad/translation/pofiles/hu.po | 
+ | [lt](/f43/language/lt) | 18414 | 54151 | 34.0 | /mnt/stockage/packages/f43/kicad/translation/pofiles/lt.po | 
+ | [nb_NO](/f43/language/nb_NO) | 18222 | 54151 | 33.7 | /mnt/stockage/packages/f43/kicad/translation/pofiles/no.po | 
+ | [da](/f43/language/da) | 18021 | 54151 | 33.3 | /mnt/stockage/packages/f43/kicad/translation/pofiles/da.po | 
+ | [ca](/f43/language/ca) | 22162 | 68953 | 32.1 | /mnt/stockage/packages/f43/kicad/src/getting_started_in_kicad/po/ca.po/mnt/stockage/packages/f43/kicad/src/kicad/po/ca.po/mnt/stockage/packages/f43/kicad/translation/pofiles/ca.po | 
+ | [vi](/f43/language/vi) | 10461 | 54151 | 19.3 | /mnt/stockage/packages/f43/kicad/translation/pofiles/vi.po | 
+ | [ro](/f43/language/ro) | 9260 | 54151 | 17.1 | /mnt/stockage/packages/f43/kicad/translation/pofiles/ro.po | 
+ | [sr](/f43/language/sr) | 7306 | 54151 | 13.5 | /mnt/stockage/packages/f43/kicad/translation/pofiles/sr.po | 
+ | [ka](/f43/language/ka) | 6737 | 54151 | 12.4 | /mnt/stockage/packages/f43/kicad/translation/pofiles/ka.po | 
+ | [he](/f43/language/he) | 2807 | 54151 | 5.2 | /mnt/stockage/packages/f43/kicad/translation/pofiles/he.po | 
+ | [bg](/f43/language/bg) | 2342 | 54151 | 4.3 | /mnt/stockage/packages/f43/kicad/translation/pofiles/bg.po | 
+ | [et](/f43/language/et) | 471 | 54151 | 0.9 | /mnt/stockage/packages/f43/kicad/translation/pofiles/et.po | 
+ | [ar](/f43/language/ar) | 327 | 54151 | 0.6 | /mnt/stockage/packages/f43/kicad/translation/pofiles/ar.po | 
+ | [lv](/f43/language/lv) | 269 | 54151 | 0.5 | /mnt/stockage/packages/f43/kicad/translation/pofiles/lv.po | 
+ | [sl](/f43/language/sl) | 104 | 54151 | 0.2 | /mnt/stockage/packages/f43/kicad/translation/pofiles/sl.po | 
+ | [hr](/f43/language/hr) | 0 | 54151 | 0.0 | /mnt/stockage/packages/f43/kicad/translation/pofiles/hr.po | 
 {.sortable}
 
 

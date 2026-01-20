@@ -40,7 +40,7 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [gnome-menus]({{< ref "/f7/package/gnome-menus.md" >}}) | 71 | 133 | 53.4 |  | 
+ | [gnome-menus](/f7/package/gnome-menus) | 71 | 133 | 53.4 |  | 
 {.sortable}
 
 

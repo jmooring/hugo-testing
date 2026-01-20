@@ -18,60 +18,60 @@ The package json-glib (version 1.4.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [as]({{< ref "/f30/language/as.md" >}}) | 303 | 303 | 100.0 | /mnt/stockage/packages/f30/json-glib/po/as.po | 
- | [bg]({{< ref "/f30/language/bg.md" >}}) | 226 | 226 | 100.0 | /mnt/stockage/packages/f30/json-glib/po/bg.po | 
- | [bn]({{< ref "/f30/language/bn.md" >}}) | 226 | 226 | 100.0 | /mnt/stockage/packages/f30/json-glib/po/bn_IN.po | 
- | [bs]({{< ref "/f30/language/bs.md" >}}) | 303 | 303 | 100.0 | /mnt/stockage/packages/f30/json-glib/po/bs.po | 
- | [ca]({{< ref "/f30/language/ca.md" >}}) | 303 | 303 | 100.0 | /mnt/stockage/packages/f30/json-glib/po/ca.po | 
- | [ca@valencia]({{< ref "/f30/language/ca@valencia.md" >}}) | 303 | 303 | 100.0 | /mnt/stockage/packages/f30/json-glib/po/ca@valencia.po | 
- | [cs]({{< ref "/f30/language/cs.md" >}}) | 303 | 303 | 100.0 | /mnt/stockage/packages/f30/json-glib/po/cs.po | 
- | [da]({{< ref "/f30/language/da.md" >}}) | 303 | 303 | 100.0 | /mnt/stockage/packages/f30/json-glib/po/da.po | 
- | [de]({{< ref "/f30/language/de.md" >}}) | 303 | 303 | 100.0 | /mnt/stockage/packages/f30/json-glib/po/de.po | 
- | [el]({{< ref "/f30/language/el.md" >}}) | 303 | 303 | 100.0 | /mnt/stockage/packages/f30/json-glib/po/el.po | 
- | [en_GB]({{< ref "/f30/language/en_GB.md" >}}) | 303 | 303 | 100.0 | /mnt/stockage/packages/f30/json-glib/po/en_GB.po | 
- | [es]({{< ref "/f30/language/es.md" >}}) | 303 | 303 | 100.0 | /mnt/stockage/packages/f30/json-glib/po/es.po | 
- | [et]({{< ref "/f30/language/et.md" >}}) | 226 | 226 | 100.0 | /mnt/stockage/packages/f30/json-glib/po/et.po | 
- | [eu]({{< ref "/f30/language/eu.md" >}}) | 303 | 303 | 100.0 | /mnt/stockage/packages/f30/json-glib/po/eu.po | 
- | [fr]({{< ref "/f30/language/fr.md" >}}) | 303 | 303 | 100.0 | /mnt/stockage/packages/f30/json-glib/po/fr.po | 
- | [fur]({{< ref "/f30/language/fur.md" >}}) | 303 | 303 | 100.0 | /mnt/stockage/packages/f30/json-glib/po/fur.po | 
- | [gl]({{< ref "/f30/language/gl.md" >}}) | 303 | 303 | 100.0 | /mnt/stockage/packages/f30/json-glib/po/gl.po | 
- | [he]({{< ref "/f30/language/he.md" >}}) | 303 | 303 | 100.0 | /mnt/stockage/packages/f30/json-glib/po/he.po | 
- | [hi]({{< ref "/f30/language/hi.md" >}}) | 226 | 226 | 100.0 | /mnt/stockage/packages/f30/json-glib/po/hi.po | 
- | [hr]({{< ref "/f30/language/hr.md" >}}) | 303 | 303 | 100.0 | /mnt/stockage/packages/f30/json-glib/po/hr.po | 
- | [hu]({{< ref "/f30/language/hu.md" >}}) | 303 | 303 | 100.0 | /mnt/stockage/packages/f30/json-glib/po/hu.po | 
- | [id]({{< ref "/f30/language/id.md" >}}) | 303 | 303 | 100.0 | /mnt/stockage/packages/f30/json-glib/po/id.po | 
- | [it]({{< ref "/f30/language/it.md" >}}) | 303 | 303 | 100.0 | /mnt/stockage/packages/f30/json-glib/po/it.po | 
- | [ja]({{< ref "/f30/language/ja.md" >}}) | 226 | 226 | 100.0 | /mnt/stockage/packages/f30/json-glib/po/ja.po | 
- | [ko]({{< ref "/f30/language/ko.md" >}}) | 303 | 303 | 100.0 | /mnt/stockage/packages/f30/json-glib/po/ko.po | 
- | [ky]({{< ref "/f30/language/ky.md" >}}) | 226 | 226 | 100.0 | /mnt/stockage/packages/f30/json-glib/po/ky.po | 
- | [lt]({{< ref "/f30/language/lt.md" >}}) | 303 | 303 | 100.0 | /mnt/stockage/packages/f30/json-glib/po/lt.po | 
- | [lv]({{< ref "/f30/language/lv.md" >}}) | 303 | 303 | 100.0 | /mnt/stockage/packages/f30/json-glib/po/lv.po | 
- | [ml]({{< ref "/f30/language/ml.md" >}}) | 226 | 226 | 100.0 | /mnt/stockage/packages/f30/json-glib/po/ml.po | 
- | [nl]({{< ref "/f30/language/nl.md" >}}) | 303 | 303 | 100.0 | /mnt/stockage/packages/f30/json-glib/po/nl.po | 
- | [oc]({{< ref "/f30/language/oc.md" >}}) | 303 | 303 | 100.0 | /mnt/stockage/packages/f30/json-glib/po/oc.po | 
- | [or]({{< ref "/f30/language/or.md" >}}) | 226 | 226 | 100.0 | /mnt/stockage/packages/f30/json-glib/po/or.po | 
- | [pa]({{< ref "/f30/language/pa.md" >}}) | 226 | 226 | 100.0 | /mnt/stockage/packages/f30/json-glib/po/pa.po | 
- | [pl]({{< ref "/f30/language/pl.md" >}}) | 303 | 303 | 100.0 | /mnt/stockage/packages/f30/json-glib/po/pl.po | 
- | [pt]({{< ref "/f30/language/pt.md" >}}) | 303 | 303 | 100.0 | /mnt/stockage/packages/f30/json-glib/po/pt.po | 
- | [pt_BR]({{< ref "/f30/language/pt_BR.md" >}}) | 303 | 303 | 100.0 | /mnt/stockage/packages/f30/json-glib/po/pt_BR.po | 
- | [ro]({{< ref "/f30/language/ro.md" >}}) | 303 | 303 | 100.0 | /mnt/stockage/packages/f30/json-glib/po/ro.po | 
- | [ru]({{< ref "/f30/language/ru.md" >}}) | 303 | 303 | 100.0 | /mnt/stockage/packages/f30/json-glib/po/ru.po | 
- | [sk]({{< ref "/f30/language/sk.md" >}}) | 303 | 303 | 100.0 | /mnt/stockage/packages/f30/json-glib/po/sk.po | 
- | [sl]({{< ref "/f30/language/sl.md" >}}) | 303 | 303 | 100.0 | /mnt/stockage/packages/f30/json-glib/po/sl.po | 
- | [sr]({{< ref "/f30/language/sr.md" >}}) | 606 | 606 | 100.0 | /mnt/stockage/packages/f30/json-glib/po/sr.po/mnt/stockage/packages/f30/json-glib/po/sr@latin.po | 
- | [sv]({{< ref "/f30/language/sv.md" >}}) | 303 | 303 | 100.0 | /mnt/stockage/packages/f30/json-glib/po/sv.po | 
- | [te]({{< ref "/f30/language/te.md" >}}) | 226 | 226 | 100.0 | /mnt/stockage/packages/f30/json-glib/po/te.po | 
- | [tg]({{< ref "/f30/language/tg.md" >}}) | 303 | 303 | 100.0 | /mnt/stockage/packages/f30/json-glib/po/tg.po | 
- | [tr]({{< ref "/f30/language/tr.md" >}}) | 303 | 303 | 100.0 | /mnt/stockage/packages/f30/json-glib/po/tr.po | 
- | [uk]({{< ref "/f30/language/uk.md" >}}) | 303 | 303 | 100.0 | /mnt/stockage/packages/f30/json-glib/po/uk.po | 
- | [zh_Hans]({{< ref "/f30/language/zh_Hans.md" >}}) | 303 | 303 | 100.0 | /mnt/stockage/packages/f30/json-glib/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f30/language/zh_Hant.md" >}}) | 303 | 303 | 100.0 | /mnt/stockage/packages/f30/json-glib/po/zh_TW.po | 
- | [zh_Hant_HK]({{< ref "/f30/language/zh_Hant_HK.md" >}}) | 303 | 303 | 100.0 | /mnt/stockage/packages/f30/json-glib/po/zh_HK.po | 
- | [vi]({{< ref "/f30/language/vi.md" >}}) | 244 | 254 | 96.1 | /mnt/stockage/packages/f30/json-glib/po/vi.po | 
- | [ug]({{< ref "/f30/language/ug.md" >}}) | 208 | 226 | 92.0 | /mnt/stockage/packages/f30/json-glib/po/ug.po | 
- | [ne]({{< ref "/f30/language/ne.md" >}}) | 239 | 303 | 78.9 | /mnt/stockage/packages/f30/json-glib/po/ne.po | 
- | [eo]({{< ref "/f30/language/eo.md" >}}) | 221 | 303 | 72.9 | /mnt/stockage/packages/f30/json-glib/po/eo.po | 
- | [nb_NO]({{< ref "/f30/language/nb_NO.md" >}}) | 159 | 303 | 52.5 | /mnt/stockage/packages/f30/json-glib/po/nb.po | 
+ | [as](/f30/language/as) | 303 | 303 | 100.0 | /mnt/stockage/packages/f30/json-glib/po/as.po | 
+ | [bg](/f30/language/bg) | 226 | 226 | 100.0 | /mnt/stockage/packages/f30/json-glib/po/bg.po | 
+ | [bn](/f30/language/bn) | 226 | 226 | 100.0 | /mnt/stockage/packages/f30/json-glib/po/bn_IN.po | 
+ | [bs](/f30/language/bs) | 303 | 303 | 100.0 | /mnt/stockage/packages/f30/json-glib/po/bs.po | 
+ | [ca](/f30/language/ca) | 303 | 303 | 100.0 | /mnt/stockage/packages/f30/json-glib/po/ca.po | 
+ | [ca@valencia](/f30/language/ca@valencia) | 303 | 303 | 100.0 | /mnt/stockage/packages/f30/json-glib/po/ca@valencia.po | 
+ | [cs](/f30/language/cs) | 303 | 303 | 100.0 | /mnt/stockage/packages/f30/json-glib/po/cs.po | 
+ | [da](/f30/language/da) | 303 | 303 | 100.0 | /mnt/stockage/packages/f30/json-glib/po/da.po | 
+ | [de](/f30/language/de) | 303 | 303 | 100.0 | /mnt/stockage/packages/f30/json-glib/po/de.po | 
+ | [el](/f30/language/el) | 303 | 303 | 100.0 | /mnt/stockage/packages/f30/json-glib/po/el.po | 
+ | [en_GB](/f30/language/en_GB) | 303 | 303 | 100.0 | /mnt/stockage/packages/f30/json-glib/po/en_GB.po | 
+ | [es](/f30/language/es) | 303 | 303 | 100.0 | /mnt/stockage/packages/f30/json-glib/po/es.po | 
+ | [et](/f30/language/et) | 226 | 226 | 100.0 | /mnt/stockage/packages/f30/json-glib/po/et.po | 
+ | [eu](/f30/language/eu) | 303 | 303 | 100.0 | /mnt/stockage/packages/f30/json-glib/po/eu.po | 
+ | [fr](/f30/language/fr) | 303 | 303 | 100.0 | /mnt/stockage/packages/f30/json-glib/po/fr.po | 
+ | [fur](/f30/language/fur) | 303 | 303 | 100.0 | /mnt/stockage/packages/f30/json-glib/po/fur.po | 
+ | [gl](/f30/language/gl) | 303 | 303 | 100.0 | /mnt/stockage/packages/f30/json-glib/po/gl.po | 
+ | [he](/f30/language/he) | 303 | 303 | 100.0 | /mnt/stockage/packages/f30/json-glib/po/he.po | 
+ | [hi](/f30/language/hi) | 226 | 226 | 100.0 | /mnt/stockage/packages/f30/json-glib/po/hi.po | 
+ | [hr](/f30/language/hr) | 303 | 303 | 100.0 | /mnt/stockage/packages/f30/json-glib/po/hr.po | 
+ | [hu](/f30/language/hu) | 303 | 303 | 100.0 | /mnt/stockage/packages/f30/json-glib/po/hu.po | 
+ | [id](/f30/language/id) | 303 | 303 | 100.0 | /mnt/stockage/packages/f30/json-glib/po/id.po | 
+ | [it](/f30/language/it) | 303 | 303 | 100.0 | /mnt/stockage/packages/f30/json-glib/po/it.po | 
+ | [ja](/f30/language/ja) | 226 | 226 | 100.0 | /mnt/stockage/packages/f30/json-glib/po/ja.po | 
+ | [ko](/f30/language/ko) | 303 | 303 | 100.0 | /mnt/stockage/packages/f30/json-glib/po/ko.po | 
+ | [ky](/f30/language/ky) | 226 | 226 | 100.0 | /mnt/stockage/packages/f30/json-glib/po/ky.po | 
+ | [lt](/f30/language/lt) | 303 | 303 | 100.0 | /mnt/stockage/packages/f30/json-glib/po/lt.po | 
+ | [lv](/f30/language/lv) | 303 | 303 | 100.0 | /mnt/stockage/packages/f30/json-glib/po/lv.po | 
+ | [ml](/f30/language/ml) | 226 | 226 | 100.0 | /mnt/stockage/packages/f30/json-glib/po/ml.po | 
+ | [nl](/f30/language/nl) | 303 | 303 | 100.0 | /mnt/stockage/packages/f30/json-glib/po/nl.po | 
+ | [oc](/f30/language/oc) | 303 | 303 | 100.0 | /mnt/stockage/packages/f30/json-glib/po/oc.po | 
+ | [or](/f30/language/or) | 226 | 226 | 100.0 | /mnt/stockage/packages/f30/json-glib/po/or.po | 
+ | [pa](/f30/language/pa) | 226 | 226 | 100.0 | /mnt/stockage/packages/f30/json-glib/po/pa.po | 
+ | [pl](/f30/language/pl) | 303 | 303 | 100.0 | /mnt/stockage/packages/f30/json-glib/po/pl.po | 
+ | [pt](/f30/language/pt) | 303 | 303 | 100.0 | /mnt/stockage/packages/f30/json-glib/po/pt.po | 
+ | [pt_BR](/f30/language/pt_BR) | 303 | 303 | 100.0 | /mnt/stockage/packages/f30/json-glib/po/pt_BR.po | 
+ | [ro](/f30/language/ro) | 303 | 303 | 100.0 | /mnt/stockage/packages/f30/json-glib/po/ro.po | 
+ | [ru](/f30/language/ru) | 303 | 303 | 100.0 | /mnt/stockage/packages/f30/json-glib/po/ru.po | 
+ | [sk](/f30/language/sk) | 303 | 303 | 100.0 | /mnt/stockage/packages/f30/json-glib/po/sk.po | 
+ | [sl](/f30/language/sl) | 303 | 303 | 100.0 | /mnt/stockage/packages/f30/json-glib/po/sl.po | 
+ | [sr](/f30/language/sr) | 606 | 606 | 100.0 | /mnt/stockage/packages/f30/json-glib/po/sr.po/mnt/stockage/packages/f30/json-glib/po/sr@latin.po | 
+ | [sv](/f30/language/sv) | 303 | 303 | 100.0 | /mnt/stockage/packages/f30/json-glib/po/sv.po | 
+ | [te](/f30/language/te) | 226 | 226 | 100.0 | /mnt/stockage/packages/f30/json-glib/po/te.po | 
+ | [tg](/f30/language/tg) | 303 | 303 | 100.0 | /mnt/stockage/packages/f30/json-glib/po/tg.po | 
+ | [tr](/f30/language/tr) | 303 | 303 | 100.0 | /mnt/stockage/packages/f30/json-glib/po/tr.po | 
+ | [uk](/f30/language/uk) | 303 | 303 | 100.0 | /mnt/stockage/packages/f30/json-glib/po/uk.po | 
+ | [zh_Hans](/f30/language/zh_Hans) | 303 | 303 | 100.0 | /mnt/stockage/packages/f30/json-glib/po/zh_CN.po | 
+ | [zh_Hant](/f30/language/zh_Hant) | 303 | 303 | 100.0 | /mnt/stockage/packages/f30/json-glib/po/zh_TW.po | 
+ | [zh_Hant_HK](/f30/language/zh_Hant_HK) | 303 | 303 | 100.0 | /mnt/stockage/packages/f30/json-glib/po/zh_HK.po | 
+ | [vi](/f30/language/vi) | 244 | 254 | 96.1 | /mnt/stockage/packages/f30/json-glib/po/vi.po | 
+ | [ug](/f30/language/ug) | 208 | 226 | 92.0 | /mnt/stockage/packages/f30/json-glib/po/ug.po | 
+ | [ne](/f30/language/ne) | 239 | 303 | 78.9 | /mnt/stockage/packages/f30/json-glib/po/ne.po | 
+ | [eo](/f30/language/eo) | 221 | 303 | 72.9 | /mnt/stockage/packages/f30/json-glib/po/eo.po | 
+ | [nb_NO](/f30/language/nb_NO) | 159 | 303 | 52.5 | /mnt/stockage/packages/f30/json-glib/po/nb.po | 
 {.sortable}
 
 

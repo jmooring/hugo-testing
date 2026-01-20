@@ -18,61 +18,61 @@ The package pim-data-exporter (version 25.12.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f43/language/ar.md" >}}) | 794 | 794 | 100.0 | /mnt/stockage/packages/f43/pim-data-exporter/po/ar/pimdataexporter.po | 
- | [bg]({{< ref "/f43/language/bg.md" >}}) | 794 | 794 | 100.0 | /mnt/stockage/packages/f43/pim-data-exporter/po/bg/pimdataexporter.po | 
- | [ca]({{< ref "/f43/language/ca.md" >}}) | 794 | 794 | 100.0 | /mnt/stockage/packages/f43/pim-data-exporter/po/ca/pimdataexporter.po | 
- | [ca@valencia]({{< ref "/f43/language/ca@valencia.md" >}}) | 794 | 794 | 100.0 | /mnt/stockage/packages/f43/pim-data-exporter/po/ca@valencia/pimdataexporter.po | 
- | [de]({{< ref "/f43/language/de.md" >}}) | 794 | 794 | 100.0 | /mnt/stockage/packages/f43/pim-data-exporter/po/de/pimdataexporter.po | 
- | [en_GB]({{< ref "/f43/language/en_GB.md" >}}) | 794 | 794 | 100.0 | /mnt/stockage/packages/f43/pim-data-exporter/po/en_GB/pimdataexporter.po | 
- | [eo]({{< ref "/f43/language/eo.md" >}}) | 794 | 794 | 100.0 | /mnt/stockage/packages/f43/pim-data-exporter/po/eo/pimdataexporter.po | 
- | [es]({{< ref "/f43/language/es.md" >}}) | 794 | 794 | 100.0 | /mnt/stockage/packages/f43/pim-data-exporter/po/es/pimdataexporter.po | 
- | [eu]({{< ref "/f43/language/eu.md" >}}) | 794 | 794 | 100.0 | /mnt/stockage/packages/f43/pim-data-exporter/po/eu/pimdataexporter.po | 
- | [fi]({{< ref "/f43/language/fi.md" >}}) | 794 | 794 | 100.0 | /mnt/stockage/packages/f43/pim-data-exporter/po/fi/pimdataexporter.po | 
- | [fr]({{< ref "/f43/language/fr.md" >}}) | 794 | 794 | 100.0 | /mnt/stockage/packages/f43/pim-data-exporter/po/fr/pimdataexporter.po | 
- | [gl]({{< ref "/f43/language/gl.md" >}}) | 794 | 794 | 100.0 | /mnt/stockage/packages/f43/pim-data-exporter/po/gl/pimdataexporter.po | 
- | [he]({{< ref "/f43/language/he.md" >}}) | 794 | 794 | 100.0 | /mnt/stockage/packages/f43/pim-data-exporter/po/he/pimdataexporter.po | 
- | [hi]({{< ref "/f43/language/hi.md" >}}) | 794 | 794 | 100.0 | /mnt/stockage/packages/f43/pim-data-exporter/po/hi/pimdataexporter.po | 
- | [hu]({{< ref "/f43/language/hu.md" >}}) | 794 | 794 | 100.0 | /mnt/stockage/packages/f43/pim-data-exporter/po/hu/pimdataexporter.po | 
- | [ia]({{< ref "/f43/language/ia.md" >}}) | 794 | 794 | 100.0 | /mnt/stockage/packages/f43/pim-data-exporter/po/ia/pimdataexporter.po | 
- | [it]({{< ref "/f43/language/it.md" >}}) | 794 | 794 | 100.0 | /mnt/stockage/packages/f43/pim-data-exporter/po/it/pimdataexporter.po | 
- | [ka]({{< ref "/f43/language/ka.md" >}}) | 794 | 794 | 100.0 | /mnt/stockage/packages/f43/pim-data-exporter/po/ka/pimdataexporter.po | 
- | [ko]({{< ref "/f43/language/ko.md" >}}) | 794 | 794 | 100.0 | /mnt/stockage/packages/f43/pim-data-exporter/po/ko/pimdataexporter.po | 
- | [lv]({{< ref "/f43/language/lv.md" >}}) | 794 | 794 | 100.0 | /mnt/stockage/packages/f43/pim-data-exporter/po/lv/pimdataexporter.po | 
- | [nl]({{< ref "/f43/language/nl.md" >}}) | 794 | 794 | 100.0 | /mnt/stockage/packages/f43/pim-data-exporter/po/nl/pimdataexporter.po | 
- | [pl]({{< ref "/f43/language/pl.md" >}}) | 794 | 794 | 100.0 | /mnt/stockage/packages/f43/pim-data-exporter/po/pl/pimdataexporter.po | 
- | [pt_BR]({{< ref "/f43/language/pt_BR.md" >}}) | 794 | 794 | 100.0 | /mnt/stockage/packages/f43/pim-data-exporter/po/pt_BR/pimdataexporter.po | 
- | [ru]({{< ref "/f43/language/ru.md" >}}) | 794 | 794 | 100.0 | /mnt/stockage/packages/f43/pim-data-exporter/po/ru/pimdataexporter.po | 
- | [sa]({{< ref "/f43/language/sa.md" >}}) | 794 | 794 | 100.0 | /mnt/stockage/packages/f43/pim-data-exporter/po/sa/pimdataexporter.po | 
- | [sl]({{< ref "/f43/language/sl.md" >}}) | 794 | 794 | 100.0 | /mnt/stockage/packages/f43/pim-data-exporter/po/sl/pimdataexporter.po | 
- | [sv]({{< ref "/f43/language/sv.md" >}}) | 794 | 794 | 100.0 | /mnt/stockage/packages/f43/pim-data-exporter/po/sv/pimdataexporter.po | 
- | [tr]({{< ref "/f43/language/tr.md" >}}) | 794 | 794 | 100.0 | /mnt/stockage/packages/f43/pim-data-exporter/po/tr/pimdataexporter.po | 
- | [uk]({{< ref "/f43/language/uk.md" >}}) | 794 | 794 | 100.0 | /mnt/stockage/packages/f43/pim-data-exporter/po/uk/pimdataexporter.po | 
- | [zh_Hant]({{< ref "/f43/language/zh_Hant.md" >}}) | 794 | 794 | 100.0 | /mnt/stockage/packages/f43/pim-data-exporter/po/zh_TW/pimdataexporter.po | 
- | [cs]({{< ref "/f43/language/cs.md" >}}) | 743 | 794 | 93.6 | /mnt/stockage/packages/f43/pim-data-exporter/po/cs/pimdataexporter.po | 
- | [az]({{< ref "/f43/language/az.md" >}}) | 670 | 794 | 84.4 | /mnt/stockage/packages/f43/pim-data-exporter/po/az/pimdataexporter.po | 
- | [pt]({{< ref "/f43/language/pt.md" >}}) | 670 | 794 | 84.4 | /mnt/stockage/packages/f43/pim-data-exporter/po/pt/pimdataexporter.po | 
- | [zh_Hans]({{< ref "/f43/language/zh_Hans.md" >}}) | 659 | 794 | 83.0 | /mnt/stockage/packages/f43/pim-data-exporter/po/zh_CN/pimdataexporter.po | 
- | [sk]({{< ref "/f43/language/sk.md" >}}) | 625 | 794 | 78.7 | /mnt/stockage/packages/f43/pim-data-exporter/po/sk/pimdataexporter.po | 
- | [da]({{< ref "/f43/language/da.md" >}}) | 617 | 794 | 77.7 | /mnt/stockage/packages/f43/pim-data-exporter/po/da/pimdataexporter.po | 
- | [et]({{< ref "/f43/language/et.md" >}}) | 604 | 794 | 76.1 | /mnt/stockage/packages/f43/pim-data-exporter/po/et/pimdataexporter.po | 
- | [sr]({{< ref "/f43/language/sr.md" >}}) | 538 | 794 | 67.8 | /mnt/stockage/packages/f43/pim-data-exporter/po/sr/pimdataexporter.po | 
- | [sr@ijekavian]({{< ref "/f43/language/sr@ijekavian.md" >}}) | 538 | 794 | 67.8 | /mnt/stockage/packages/f43/pim-data-exporter/po/sr@ijekavian/pimdataexporter.po | 
- | [sr@ijekavian_Latn]({{< ref "/f43/language/sr@ijekavian_Latn.md" >}}) | 538 | 794 | 67.8 | /mnt/stockage/packages/f43/pim-data-exporter/po/sr@ijekavianlatin/pimdataexporter.po | 
- | [sr_Latn]({{< ref "/f43/language/sr_Latn.md" >}}) | 538 | 794 | 67.8 | /mnt/stockage/packages/f43/pim-data-exporter/po/sr@latin/pimdataexporter.po | 
- | [nb_NO]({{< ref "/f43/language/nb_NO.md" >}}) | 328 | 794 | 41.3 | /mnt/stockage/packages/f43/pim-data-exporter/po/nb/pimdataexporter.po | 
- | [nds]({{< ref "/f43/language/nds.md" >}}) | 324 | 794 | 40.8 | /mnt/stockage/packages/f43/pim-data-exporter/po/nds/pimdataexporter.po | 
- | [bs]({{< ref "/f43/language/bs.md" >}}) | 281 | 794 | 35.4 | /mnt/stockage/packages/f43/pim-data-exporter/po/bs/pimdataexporter.po | 
- | [kk]({{< ref "/f43/language/kk.md" >}}) | 258 | 794 | 32.5 | /mnt/stockage/packages/f43/pim-data-exporter/po/kk/pimdataexporter.po | 
- | [el]({{< ref "/f43/language/el.md" >}}) | 186 | 794 | 23.4 | /mnt/stockage/packages/f43/pim-data-exporter/po/el/pimdataexporter.po | 
- | [km]({{< ref "/f43/language/km.md" >}}) | 171 | 794 | 21.5 | /mnt/stockage/packages/f43/pim-data-exporter/po/km/pimdataexporter.po | 
- | [ro]({{< ref "/f43/language/ro.md" >}}) | 77 | 794 | 9.7 | /mnt/stockage/packages/f43/pim-data-exporter/po/ro/pimdataexporter.po | 
- | [lt]({{< ref "/f43/language/lt.md" >}}) | 34 | 794 | 4.3 | /mnt/stockage/packages/f43/pim-data-exporter/po/lt/pimdataexporter.po | 
- | [ta]({{< ref "/f43/language/ta.md" >}}) | 15 | 794 | 1.9 | /mnt/stockage/packages/f43/pim-data-exporter/po/ta/pimdataexporter.po | 
- | [ga]({{< ref "/f43/language/ga.md" >}}) | 13 | 794 | 1.6 | /mnt/stockage/packages/f43/pim-data-exporter/po/ga/pimdataexporter.po | 
- | [ug]({{< ref "/f43/language/ug.md" >}}) | 12 | 794 | 1.5 | /mnt/stockage/packages/f43/pim-data-exporter/po/ug/pimdataexporter.po | 
- | [mr]({{< ref "/f43/language/mr.md" >}}) | 11 | 794 | 1.4 | /mnt/stockage/packages/f43/pim-data-exporter/po/mr/pimdataexporter.po | 
- | [ast]({{< ref "/f43/language/ast.md" >}}) | 4 | 794 | 0.5 | /mnt/stockage/packages/f43/pim-data-exporter/po/ast/pimdataexporter.po | 
- | [ja]({{< ref "/f43/language/ja.md" >}}) | 0 | 794 | 0.0 | /mnt/stockage/packages/f43/pim-data-exporter/po/ja/pimdataexporter.po | 
+ | [ar](/f43/language/ar) | 794 | 794 | 100.0 | /mnt/stockage/packages/f43/pim-data-exporter/po/ar/pimdataexporter.po | 
+ | [bg](/f43/language/bg) | 794 | 794 | 100.0 | /mnt/stockage/packages/f43/pim-data-exporter/po/bg/pimdataexporter.po | 
+ | [ca](/f43/language/ca) | 794 | 794 | 100.0 | /mnt/stockage/packages/f43/pim-data-exporter/po/ca/pimdataexporter.po | 
+ | [ca@valencia](/f43/language/ca@valencia) | 794 | 794 | 100.0 | /mnt/stockage/packages/f43/pim-data-exporter/po/ca@valencia/pimdataexporter.po | 
+ | [de](/f43/language/de) | 794 | 794 | 100.0 | /mnt/stockage/packages/f43/pim-data-exporter/po/de/pimdataexporter.po | 
+ | [en_GB](/f43/language/en_GB) | 794 | 794 | 100.0 | /mnt/stockage/packages/f43/pim-data-exporter/po/en_GB/pimdataexporter.po | 
+ | [eo](/f43/language/eo) | 794 | 794 | 100.0 | /mnt/stockage/packages/f43/pim-data-exporter/po/eo/pimdataexporter.po | 
+ | [es](/f43/language/es) | 794 | 794 | 100.0 | /mnt/stockage/packages/f43/pim-data-exporter/po/es/pimdataexporter.po | 
+ | [eu](/f43/language/eu) | 794 | 794 | 100.0 | /mnt/stockage/packages/f43/pim-data-exporter/po/eu/pimdataexporter.po | 
+ | [fi](/f43/language/fi) | 794 | 794 | 100.0 | /mnt/stockage/packages/f43/pim-data-exporter/po/fi/pimdataexporter.po | 
+ | [fr](/f43/language/fr) | 794 | 794 | 100.0 | /mnt/stockage/packages/f43/pim-data-exporter/po/fr/pimdataexporter.po | 
+ | [gl](/f43/language/gl) | 794 | 794 | 100.0 | /mnt/stockage/packages/f43/pim-data-exporter/po/gl/pimdataexporter.po | 
+ | [he](/f43/language/he) | 794 | 794 | 100.0 | /mnt/stockage/packages/f43/pim-data-exporter/po/he/pimdataexporter.po | 
+ | [hi](/f43/language/hi) | 794 | 794 | 100.0 | /mnt/stockage/packages/f43/pim-data-exporter/po/hi/pimdataexporter.po | 
+ | [hu](/f43/language/hu) | 794 | 794 | 100.0 | /mnt/stockage/packages/f43/pim-data-exporter/po/hu/pimdataexporter.po | 
+ | [ia](/f43/language/ia) | 794 | 794 | 100.0 | /mnt/stockage/packages/f43/pim-data-exporter/po/ia/pimdataexporter.po | 
+ | [it](/f43/language/it) | 794 | 794 | 100.0 | /mnt/stockage/packages/f43/pim-data-exporter/po/it/pimdataexporter.po | 
+ | [ka](/f43/language/ka) | 794 | 794 | 100.0 | /mnt/stockage/packages/f43/pim-data-exporter/po/ka/pimdataexporter.po | 
+ | [ko](/f43/language/ko) | 794 | 794 | 100.0 | /mnt/stockage/packages/f43/pim-data-exporter/po/ko/pimdataexporter.po | 
+ | [lv](/f43/language/lv) | 794 | 794 | 100.0 | /mnt/stockage/packages/f43/pim-data-exporter/po/lv/pimdataexporter.po | 
+ | [nl](/f43/language/nl) | 794 | 794 | 100.0 | /mnt/stockage/packages/f43/pim-data-exporter/po/nl/pimdataexporter.po | 
+ | [pl](/f43/language/pl) | 794 | 794 | 100.0 | /mnt/stockage/packages/f43/pim-data-exporter/po/pl/pimdataexporter.po | 
+ | [pt_BR](/f43/language/pt_BR) | 794 | 794 | 100.0 | /mnt/stockage/packages/f43/pim-data-exporter/po/pt_BR/pimdataexporter.po | 
+ | [ru](/f43/language/ru) | 794 | 794 | 100.0 | /mnt/stockage/packages/f43/pim-data-exporter/po/ru/pimdataexporter.po | 
+ | [sa](/f43/language/sa) | 794 | 794 | 100.0 | /mnt/stockage/packages/f43/pim-data-exporter/po/sa/pimdataexporter.po | 
+ | [sl](/f43/language/sl) | 794 | 794 | 100.0 | /mnt/stockage/packages/f43/pim-data-exporter/po/sl/pimdataexporter.po | 
+ | [sv](/f43/language/sv) | 794 | 794 | 100.0 | /mnt/stockage/packages/f43/pim-data-exporter/po/sv/pimdataexporter.po | 
+ | [tr](/f43/language/tr) | 794 | 794 | 100.0 | /mnt/stockage/packages/f43/pim-data-exporter/po/tr/pimdataexporter.po | 
+ | [uk](/f43/language/uk) | 794 | 794 | 100.0 | /mnt/stockage/packages/f43/pim-data-exporter/po/uk/pimdataexporter.po | 
+ | [zh_Hant](/f43/language/zh_Hant) | 794 | 794 | 100.0 | /mnt/stockage/packages/f43/pim-data-exporter/po/zh_TW/pimdataexporter.po | 
+ | [cs](/f43/language/cs) | 743 | 794 | 93.6 | /mnt/stockage/packages/f43/pim-data-exporter/po/cs/pimdataexporter.po | 
+ | [az](/f43/language/az) | 670 | 794 | 84.4 | /mnt/stockage/packages/f43/pim-data-exporter/po/az/pimdataexporter.po | 
+ | [pt](/f43/language/pt) | 670 | 794 | 84.4 | /mnt/stockage/packages/f43/pim-data-exporter/po/pt/pimdataexporter.po | 
+ | [zh_Hans](/f43/language/zh_Hans) | 659 | 794 | 83.0 | /mnt/stockage/packages/f43/pim-data-exporter/po/zh_CN/pimdataexporter.po | 
+ | [sk](/f43/language/sk) | 625 | 794 | 78.7 | /mnt/stockage/packages/f43/pim-data-exporter/po/sk/pimdataexporter.po | 
+ | [da](/f43/language/da) | 617 | 794 | 77.7 | /mnt/stockage/packages/f43/pim-data-exporter/po/da/pimdataexporter.po | 
+ | [et](/f43/language/et) | 604 | 794 | 76.1 | /mnt/stockage/packages/f43/pim-data-exporter/po/et/pimdataexporter.po | 
+ | [sr](/f43/language/sr) | 538 | 794 | 67.8 | /mnt/stockage/packages/f43/pim-data-exporter/po/sr/pimdataexporter.po | 
+ | [sr@ijekavian](/f43/language/sr@ijekavian) | 538 | 794 | 67.8 | /mnt/stockage/packages/f43/pim-data-exporter/po/sr@ijekavian/pimdataexporter.po | 
+ | [sr@ijekavian_Latn](/f43/language/sr@ijekavian_Latn) | 538 | 794 | 67.8 | /mnt/stockage/packages/f43/pim-data-exporter/po/sr@ijekavianlatin/pimdataexporter.po | 
+ | [sr_Latn](/f43/language/sr_Latn) | 538 | 794 | 67.8 | /mnt/stockage/packages/f43/pim-data-exporter/po/sr@latin/pimdataexporter.po | 
+ | [nb_NO](/f43/language/nb_NO) | 328 | 794 | 41.3 | /mnt/stockage/packages/f43/pim-data-exporter/po/nb/pimdataexporter.po | 
+ | [nds](/f43/language/nds) | 324 | 794 | 40.8 | /mnt/stockage/packages/f43/pim-data-exporter/po/nds/pimdataexporter.po | 
+ | [bs](/f43/language/bs) | 281 | 794 | 35.4 | /mnt/stockage/packages/f43/pim-data-exporter/po/bs/pimdataexporter.po | 
+ | [kk](/f43/language/kk) | 258 | 794 | 32.5 | /mnt/stockage/packages/f43/pim-data-exporter/po/kk/pimdataexporter.po | 
+ | [el](/f43/language/el) | 186 | 794 | 23.4 | /mnt/stockage/packages/f43/pim-data-exporter/po/el/pimdataexporter.po | 
+ | [km](/f43/language/km) | 171 | 794 | 21.5 | /mnt/stockage/packages/f43/pim-data-exporter/po/km/pimdataexporter.po | 
+ | [ro](/f43/language/ro) | 77 | 794 | 9.7 | /mnt/stockage/packages/f43/pim-data-exporter/po/ro/pimdataexporter.po | 
+ | [lt](/f43/language/lt) | 34 | 794 | 4.3 | /mnt/stockage/packages/f43/pim-data-exporter/po/lt/pimdataexporter.po | 
+ | [ta](/f43/language/ta) | 15 | 794 | 1.9 | /mnt/stockage/packages/f43/pim-data-exporter/po/ta/pimdataexporter.po | 
+ | [ga](/f43/language/ga) | 13 | 794 | 1.6 | /mnt/stockage/packages/f43/pim-data-exporter/po/ga/pimdataexporter.po | 
+ | [ug](/f43/language/ug) | 12 | 794 | 1.5 | /mnt/stockage/packages/f43/pim-data-exporter/po/ug/pimdataexporter.po | 
+ | [mr](/f43/language/mr) | 11 | 794 | 1.4 | /mnt/stockage/packages/f43/pim-data-exporter/po/mr/pimdataexporter.po | 
+ | [ast](/f43/language/ast) | 4 | 794 | 0.5 | /mnt/stockage/packages/f43/pim-data-exporter/po/ast/pimdataexporter.po | 
+ | [ja](/f43/language/ja) | 0 | 794 | 0.0 | /mnt/stockage/packages/f43/pim-data-exporter/po/ja/pimdataexporter.po | 
 {.sortable}
 
 

@@ -38,26 +38,26 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [gettext]({{< ref "/f19/package/gettext.md" >}}) | 366 | 366 | 100.0 | Maltese <translation-team-mt@lists.sourceforge.net> | 
- | [mingw-gettext]({{< ref "/f19/package/mingw-gettext.md" >}}) | 366 | 366 | 100.0 | Maltese <translation-team-mt@lists.sourceforge.net> | 
- | [sysstat]({{< ref "/f19/package/sysstat.md" >}}) | 412 | 412 | 100.0 | Maltese <translation-team-mt@lists.sourceforge.net> | 
- | [oggconvert]({{< ref "/f19/package/oggconvert.md" >}}) | 123 | 132 | 93.2 | Maltese <mt@li.org> | 
- | [libkexif]({{< ref "/f19/package/libkexif.md" >}}) | 21 | 25 | 84.0 | Maltese <mt@li.org> | 
- | [gstreamer-plugins-bad-free]({{< ref "/f19/package/gstreamer-plugins-bad-free.md" >}}) | 66 | 96 | 68.8 | Maltese <translation-team-mt@lists.sourceforge.net> | 
- | [gstreamer1-plugins-bad-free]({{< ref "/f19/package/gstreamer1-plugins-bad-free.md" >}}) | 66 | 96 | 68.8 | Maltese <translation-team-mt@lists.sourceforge.net> | 
- | [mingw-gstreamer-plugins-bad-free]({{< ref "/f19/package/mingw-gstreamer-plugins-bad-free.md" >}}) | 66 | 96 | 68.8 | Maltese <translation-team-mt@lists.sourceforge.net> | 
- | [gstreamer1-plugins-good]({{< ref "/f19/package/gstreamer1-plugins-good.md" >}}) | 361 | 617 | 58.5 | Maltese <translation-team-mt@lists.sourceforge.net> | 
- | [gstreamer-plugins-good]({{< ref "/f19/package/gstreamer-plugins-good.md" >}}) | 473 | 814 | 58.1 | Maltese <translation-team-mt@lists.sourceforge.net> | 
- | [mingw-gstreamer-plugins-good]({{< ref "/f19/package/mingw-gstreamer-plugins-good.md" >}}) | 473 | 814 | 58.1 | Maltese <translation-team-mt@lists.sourceforge.net> | 
- | [koffice-kivio]({{< ref "/f19/package/koffice-kivio.md" >}}) | 1910 | 8417 | 22.7 | Maltese <mt@li.org> | 
- | [gnome-do]({{< ref "/f19/package/gnome-do.md" >}}) | 62 | 612 | 10.1 | Maltese <mt@li.org> | 
- | [iso-codes]({{< ref "/f19/package/iso-codes.md" >}}) | 757 | 16407 | 4.6 | Maltese <mt@li.org> | 
- | [pootle]({{< ref "/f19/package/pootle.md" >}}) | 101 | 2424 | 4.2 | LANGUAGE <LL@li.org> | 
- | [calibre]({{< ref "/f19/package/calibre.md" >}}) | 264 | 10496 | 2.5 | Maltese <mt@li.org> | 
- | [transmission]({{< ref "/f19/package/transmission.md" >}}) | 19 | 1809 | 1.1 | Maltese <mt@li.org> | 
- | [stellarium]({{< ref "/f19/package/stellarium.md" >}}) | 64 | 11181 | 0.6 | Maltese <mt@li.org> | 
- | [olpc-switch-desktop]({{< ref "/f19/package/olpc-switch-desktop.md" >}}) | 0 | 158 | 0.0 | LANGUAGE <LL@li.org> | 
- | [vidalia]({{< ref "/f19/package/vidalia.md" >}}) | 0 | 10369 | 0.0 | translations@vidalia-project.net | 
+ | [gettext](/f19/package/gettext) | 366 | 366 | 100.0 | Maltese <translation-team-mt@lists.sourceforge.net> | 
+ | [mingw-gettext](/f19/package/mingw-gettext) | 366 | 366 | 100.0 | Maltese <translation-team-mt@lists.sourceforge.net> | 
+ | [sysstat](/f19/package/sysstat) | 412 | 412 | 100.0 | Maltese <translation-team-mt@lists.sourceforge.net> | 
+ | [oggconvert](/f19/package/oggconvert) | 123 | 132 | 93.2 | Maltese <mt@li.org> | 
+ | [libkexif](/f19/package/libkexif) | 21 | 25 | 84.0 | Maltese <mt@li.org> | 
+ | [gstreamer-plugins-bad-free](/f19/package/gstreamer-plugins-bad-free) | 66 | 96 | 68.8 | Maltese <translation-team-mt@lists.sourceforge.net> | 
+ | [gstreamer1-plugins-bad-free](/f19/package/gstreamer1-plugins-bad-free) | 66 | 96 | 68.8 | Maltese <translation-team-mt@lists.sourceforge.net> | 
+ | [mingw-gstreamer-plugins-bad-free](/f19/package/mingw-gstreamer-plugins-bad-free) | 66 | 96 | 68.8 | Maltese <translation-team-mt@lists.sourceforge.net> | 
+ | [gstreamer1-plugins-good](/f19/package/gstreamer1-plugins-good) | 361 | 617 | 58.5 | Maltese <translation-team-mt@lists.sourceforge.net> | 
+ | [gstreamer-plugins-good](/f19/package/gstreamer-plugins-good) | 473 | 814 | 58.1 | Maltese <translation-team-mt@lists.sourceforge.net> | 
+ | [mingw-gstreamer-plugins-good](/f19/package/mingw-gstreamer-plugins-good) | 473 | 814 | 58.1 | Maltese <translation-team-mt@lists.sourceforge.net> | 
+ | [koffice-kivio](/f19/package/koffice-kivio) | 1910 | 8417 | 22.7 | Maltese <mt@li.org> | 
+ | [gnome-do](/f19/package/gnome-do) | 62 | 612 | 10.1 | Maltese <mt@li.org> | 
+ | [iso-codes](/f19/package/iso-codes) | 757 | 16407 | 4.6 | Maltese <mt@li.org> | 
+ | [pootle](/f19/package/pootle) | 101 | 2424 | 4.2 | LANGUAGE <LL@li.org> | 
+ | [calibre](/f19/package/calibre) | 264 | 10496 | 2.5 | Maltese <mt@li.org> | 
+ | [transmission](/f19/package/transmission) | 19 | 1809 | 1.1 | Maltese <mt@li.org> | 
+ | [stellarium](/f19/package/stellarium) | 64 | 11181 | 0.6 | Maltese <mt@li.org> | 
+ | [olpc-switch-desktop](/f19/package/olpc-switch-desktop) | 0 | 158 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [vidalia](/f19/package/vidalia) | 0 | 10369 | 0.0 | translations@vidalia-project.net | 
 {.sortable}
 
 

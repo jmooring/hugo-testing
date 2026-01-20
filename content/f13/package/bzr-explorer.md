@@ -18,41 +18,41 @@ The package bzr-explorer (version 1.0.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [en]({{< ref "/f13/language/en.md" >}}) | 1576 | 1576 | 100.0 | /mnt/stockage/packages/f13/bzr-explorer/po/explorer-en.po | 
- | [en_AU]({{< ref "/f13/language/en_AU.md" >}}) | 1576 | 1576 | 100.0 | /mnt/stockage/packages/f13/bzr-explorer/po/explorer-en_AU.po | 
- | [en_CA]({{< ref "/f13/language/en_CA.md" >}}) | 1576 | 1576 | 100.0 | /mnt/stockage/packages/f13/bzr-explorer/po/explorer-en_CA.po | 
- | [en_GB]({{< ref "/f13/language/en_GB.md" >}}) | 1576 | 1576 | 100.0 | /mnt/stockage/packages/f13/bzr-explorer/po/explorer-en_GB.po | 
- | [es]({{< ref "/f13/language/es.md" >}}) | 1576 | 1576 | 100.0 | /mnt/stockage/packages/f13/bzr-explorer/po/explorer-es.po | 
- | [lt]({{< ref "/f13/language/lt.md" >}}) | 1576 | 1576 | 100.0 | /mnt/stockage/packages/f13/bzr-explorer/po/explorer-lt.po | 
- | [ru]({{< ref "/f13/language/ru.md" >}}) | 1576 | 1576 | 100.0 | /mnt/stockage/packages/f13/bzr-explorer/po/explorer-ru.po | 
- | [zh_Hans]({{< ref "/f13/language/zh_Hans.md" >}}) | 1576 | 1576 | 100.0 | /mnt/stockage/packages/f13/bzr-explorer/po/explorer-zh_CN.po | 
- | [gl]({{< ref "/f13/language/gl.md" >}}) | 1574 | 1576 | 99.9 | /mnt/stockage/packages/f13/bzr-explorer/po/explorer-gl.po | 
- | [fr]({{< ref "/f13/language/fr.md" >}}) | 1562 | 1576 | 99.1 | /mnt/stockage/packages/f13/bzr-explorer/po/explorer-fr.po | 
- | [ja]({{< ref "/f13/language/ja.md" >}}) | 1560 | 1576 | 99.0 | /mnt/stockage/packages/f13/bzr-explorer/po/explorer-ja.po | 
- | [nl]({{< ref "/f13/language/nl.md" >}}) | 1504 | 1576 | 95.4 | /mnt/stockage/packages/f13/bzr-explorer/po/explorer-nl.po | 
- | [et]({{< ref "/f13/language/et.md" >}}) | 1324 | 1576 | 84.0 | /mnt/stockage/packages/f13/bzr-explorer/po/explorer-et.po | 
- | [de]({{< ref "/f13/language/de.md" >}}) | 1290 | 1576 | 81.9 | /mnt/stockage/packages/f13/bzr-explorer/po/explorer-de.po | 
- | [it]({{< ref "/f13/language/it.md" >}}) | 1084 | 1576 | 68.8 | /mnt/stockage/packages/f13/bzr-explorer/po/explorer-it.po | 
- | [sv]({{< ref "/f13/language/sv.md" >}}) | 832 | 1576 | 52.8 | /mnt/stockage/packages/f13/bzr-explorer/po/explorer-sv.po | 
- | [hu]({{< ref "/f13/language/hu.md" >}}) | 749 | 1576 | 47.5 | /mnt/stockage/packages/f13/bzr-explorer/po/explorer-hu.po | 
- | [pt_BR]({{< ref "/f13/language/pt_BR.md" >}}) | 732 | 1576 | 46.4 | /mnt/stockage/packages/f13/bzr-explorer/po/explorer-pt_BR.po | 
- | [pl]({{< ref "/f13/language/pl.md" >}}) | 675 | 1576 | 42.8 | /mnt/stockage/packages/f13/bzr-explorer/po/explorer-pl.po | 
- | [sk]({{< ref "/f13/language/sk.md" >}}) | 476 | 1576 | 30.2 | /mnt/stockage/packages/f13/bzr-explorer/po/explorer-sk.po | 
- | [da]({{< ref "/f13/language/da.md" >}}) | 407 | 1576 | 25.8 | /mnt/stockage/packages/f13/bzr-explorer/po/explorer-da.po | 
- | [tr]({{< ref "/f13/language/tr.md" >}}) | 359 | 1576 | 22.8 | /mnt/stockage/packages/f13/bzr-explorer/po/explorer-tr.po | 
- | [fi]({{< ref "/f13/language/fi.md" >}}) | 273 | 1576 | 17.3 | /mnt/stockage/packages/f13/bzr-explorer/po/explorer-fi.po | 
- | [oc]({{< ref "/f13/language/oc.md" >}}) | 193 | 1576 | 12.2 | /mnt/stockage/packages/f13/bzr-explorer/po/explorer-oc.po | 
- | [uk]({{< ref "/f13/language/uk.md" >}}) | 165 | 1576 | 10.5 | /mnt/stockage/packages/f13/bzr-explorer/po/explorer-uk.po | 
- | [ar]({{< ref "/f13/language/ar.md" >}}) | 127 | 1576 | 8.1 | /mnt/stockage/packages/f13/bzr-explorer/po/explorer-ar.po | 
- | [cs]({{< ref "/f13/language/cs.md" >}}) | 120 | 1576 | 7.6 | /mnt/stockage/packages/f13/bzr-explorer/po/explorer-cs.po | 
- | [zh_Hant]({{< ref "/f13/language/zh_Hant.md" >}}) | 104 | 1576 | 6.6 | /mnt/stockage/packages/f13/bzr-explorer/po/explorer-zh_TW.po | 
- | [id]({{< ref "/f13/language/id.md" >}}) | 39 | 1576 | 2.5 | /mnt/stockage/packages/f13/bzr-explorer/po/explorer-id.po | 
- | [he]({{< ref "/f13/language/he.md" >}}) | 34 | 1576 | 2.2 | /mnt/stockage/packages/f13/bzr-explorer/po/explorer-he.po | 
- | [th]({{< ref "/f13/language/th.md" >}}) | 33 | 1576 | 2.1 | /mnt/stockage/packages/f13/bzr-explorer/po/explorer-th.po | 
- | [sr]({{< ref "/f13/language/sr.md" >}}) | 22 | 1576 | 1.4 | /mnt/stockage/packages/f13/bzr-explorer/po/explorer-sr.po | 
- | [el]({{< ref "/f13/language/el.md" >}}) | 18 | 1576 | 1.1 | /mnt/stockage/packages/f13/bzr-explorer/po/explorer-el.po | 
- | [lo]({{< ref "/f13/language/lo.md" >}}) | 1 | 1576 | 0.1 | /mnt/stockage/packages/f13/bzr-explorer/po/explorer-lo.po | 
- | [ca]({{< ref "/f13/language/ca.md" >}}) | 0 | 1576 | 0.0 | /mnt/stockage/packages/f13/bzr-explorer/po/explorer-ca.po | 
+ | [en](/f13/language/en) | 1576 | 1576 | 100.0 | /mnt/stockage/packages/f13/bzr-explorer/po/explorer-en.po | 
+ | [en_AU](/f13/language/en_AU) | 1576 | 1576 | 100.0 | /mnt/stockage/packages/f13/bzr-explorer/po/explorer-en_AU.po | 
+ | [en_CA](/f13/language/en_CA) | 1576 | 1576 | 100.0 | /mnt/stockage/packages/f13/bzr-explorer/po/explorer-en_CA.po | 
+ | [en_GB](/f13/language/en_GB) | 1576 | 1576 | 100.0 | /mnt/stockage/packages/f13/bzr-explorer/po/explorer-en_GB.po | 
+ | [es](/f13/language/es) | 1576 | 1576 | 100.0 | /mnt/stockage/packages/f13/bzr-explorer/po/explorer-es.po | 
+ | [lt](/f13/language/lt) | 1576 | 1576 | 100.0 | /mnt/stockage/packages/f13/bzr-explorer/po/explorer-lt.po | 
+ | [ru](/f13/language/ru) | 1576 | 1576 | 100.0 | /mnt/stockage/packages/f13/bzr-explorer/po/explorer-ru.po | 
+ | [zh_Hans](/f13/language/zh_Hans) | 1576 | 1576 | 100.0 | /mnt/stockage/packages/f13/bzr-explorer/po/explorer-zh_CN.po | 
+ | [gl](/f13/language/gl) | 1574 | 1576 | 99.9 | /mnt/stockage/packages/f13/bzr-explorer/po/explorer-gl.po | 
+ | [fr](/f13/language/fr) | 1562 | 1576 | 99.1 | /mnt/stockage/packages/f13/bzr-explorer/po/explorer-fr.po | 
+ | [ja](/f13/language/ja) | 1560 | 1576 | 99.0 | /mnt/stockage/packages/f13/bzr-explorer/po/explorer-ja.po | 
+ | [nl](/f13/language/nl) | 1504 | 1576 | 95.4 | /mnt/stockage/packages/f13/bzr-explorer/po/explorer-nl.po | 
+ | [et](/f13/language/et) | 1324 | 1576 | 84.0 | /mnt/stockage/packages/f13/bzr-explorer/po/explorer-et.po | 
+ | [de](/f13/language/de) | 1290 | 1576 | 81.9 | /mnt/stockage/packages/f13/bzr-explorer/po/explorer-de.po | 
+ | [it](/f13/language/it) | 1084 | 1576 | 68.8 | /mnt/stockage/packages/f13/bzr-explorer/po/explorer-it.po | 
+ | [sv](/f13/language/sv) | 832 | 1576 | 52.8 | /mnt/stockage/packages/f13/bzr-explorer/po/explorer-sv.po | 
+ | [hu](/f13/language/hu) | 749 | 1576 | 47.5 | /mnt/stockage/packages/f13/bzr-explorer/po/explorer-hu.po | 
+ | [pt_BR](/f13/language/pt_BR) | 732 | 1576 | 46.4 | /mnt/stockage/packages/f13/bzr-explorer/po/explorer-pt_BR.po | 
+ | [pl](/f13/language/pl) | 675 | 1576 | 42.8 | /mnt/stockage/packages/f13/bzr-explorer/po/explorer-pl.po | 
+ | [sk](/f13/language/sk) | 476 | 1576 | 30.2 | /mnt/stockage/packages/f13/bzr-explorer/po/explorer-sk.po | 
+ | [da](/f13/language/da) | 407 | 1576 | 25.8 | /mnt/stockage/packages/f13/bzr-explorer/po/explorer-da.po | 
+ | [tr](/f13/language/tr) | 359 | 1576 | 22.8 | /mnt/stockage/packages/f13/bzr-explorer/po/explorer-tr.po | 
+ | [fi](/f13/language/fi) | 273 | 1576 | 17.3 | /mnt/stockage/packages/f13/bzr-explorer/po/explorer-fi.po | 
+ | [oc](/f13/language/oc) | 193 | 1576 | 12.2 | /mnt/stockage/packages/f13/bzr-explorer/po/explorer-oc.po | 
+ | [uk](/f13/language/uk) | 165 | 1576 | 10.5 | /mnt/stockage/packages/f13/bzr-explorer/po/explorer-uk.po | 
+ | [ar](/f13/language/ar) | 127 | 1576 | 8.1 | /mnt/stockage/packages/f13/bzr-explorer/po/explorer-ar.po | 
+ | [cs](/f13/language/cs) | 120 | 1576 | 7.6 | /mnt/stockage/packages/f13/bzr-explorer/po/explorer-cs.po | 
+ | [zh_Hant](/f13/language/zh_Hant) | 104 | 1576 | 6.6 | /mnt/stockage/packages/f13/bzr-explorer/po/explorer-zh_TW.po | 
+ | [id](/f13/language/id) | 39 | 1576 | 2.5 | /mnt/stockage/packages/f13/bzr-explorer/po/explorer-id.po | 
+ | [he](/f13/language/he) | 34 | 1576 | 2.2 | /mnt/stockage/packages/f13/bzr-explorer/po/explorer-he.po | 
+ | [th](/f13/language/th) | 33 | 1576 | 2.1 | /mnt/stockage/packages/f13/bzr-explorer/po/explorer-th.po | 
+ | [sr](/f13/language/sr) | 22 | 1576 | 1.4 | /mnt/stockage/packages/f13/bzr-explorer/po/explorer-sr.po | 
+ | [el](/f13/language/el) | 18 | 1576 | 1.1 | /mnt/stockage/packages/f13/bzr-explorer/po/explorer-el.po | 
+ | [lo](/f13/language/lo) | 1 | 1576 | 0.1 | /mnt/stockage/packages/f13/bzr-explorer/po/explorer-lo.po | 
+ | [ca](/f13/language/ca) | 0 | 1576 | 0.0 | /mnt/stockage/packages/f13/bzr-explorer/po/explorer-ca.po | 
 {.sortable}
 
 

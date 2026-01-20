@@ -18,11 +18,11 @@ The package rubyripper (version 0.5.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [nl]({{< ref "/f9/language/nl.md" >}}) | 1391 | 1403 | 99.1 | /mnt/stockage/packages/f9/rubyripper/locale/po/nl/rr_cli.po/mnt/stockage/packages/f9/rubyripper/locale/po/nl/rr_gtk2.po/mnt/stockage/packages/f9/rubyripper/locale/po/nl/rr_lib.po | 
- | [ru]({{< ref "/f9/language/ru.md" >}}) | 1371 | 1403 | 97.7 | /mnt/stockage/packages/f9/rubyripper/locale/po/ru/rr_cli.po/mnt/stockage/packages/f9/rubyripper/locale/po/ru/rr_gtk2.po/mnt/stockage/packages/f9/rubyripper/locale/po/ru/rr_lib.po | 
- | [es]({{< ref "/f9/language/es.md" >}}) | 1301 | 1403 | 92.7 | /mnt/stockage/packages/f9/rubyripper/locale/po/es/rr_cli.po/mnt/stockage/packages/f9/rubyripper/locale/po/es/rr_gtk2.po/mnt/stockage/packages/f9/rubyripper/locale/po/es/rr_lib.po | 
- | [hu]({{< ref "/f9/language/hu.md" >}}) | 1301 | 1403 | 92.7 | /mnt/stockage/packages/f9/rubyripper/locale/po/hu/rr_cli.po/mnt/stockage/packages/f9/rubyripper/locale/po/hu/rr_gtk2.po/mnt/stockage/packages/f9/rubyripper/locale/po/hu/rr_lib.po | 
- | [de]({{< ref "/f9/language/de.md" >}}) | 1278 | 1403 | 91.1 | /mnt/stockage/packages/f9/rubyripper/locale/po/de/rr_cli.po/mnt/stockage/packages/f9/rubyripper/locale/po/de/rr_gtk2.po/mnt/stockage/packages/f9/rubyripper/locale/po/de/rr_lib.po | 
+ | [nl](/f9/language/nl) | 1391 | 1403 | 99.1 | /mnt/stockage/packages/f9/rubyripper/locale/po/nl/rr_cli.po/mnt/stockage/packages/f9/rubyripper/locale/po/nl/rr_gtk2.po/mnt/stockage/packages/f9/rubyripper/locale/po/nl/rr_lib.po | 
+ | [ru](/f9/language/ru) | 1371 | 1403 | 97.7 | /mnt/stockage/packages/f9/rubyripper/locale/po/ru/rr_cli.po/mnt/stockage/packages/f9/rubyripper/locale/po/ru/rr_gtk2.po/mnt/stockage/packages/f9/rubyripper/locale/po/ru/rr_lib.po | 
+ | [es](/f9/language/es) | 1301 | 1403 | 92.7 | /mnt/stockage/packages/f9/rubyripper/locale/po/es/rr_cli.po/mnt/stockage/packages/f9/rubyripper/locale/po/es/rr_gtk2.po/mnt/stockage/packages/f9/rubyripper/locale/po/es/rr_lib.po | 
+ | [hu](/f9/language/hu) | 1301 | 1403 | 92.7 | /mnt/stockage/packages/f9/rubyripper/locale/po/hu/rr_cli.po/mnt/stockage/packages/f9/rubyripper/locale/po/hu/rr_gtk2.po/mnt/stockage/packages/f9/rubyripper/locale/po/hu/rr_lib.po | 
+ | [de](/f9/language/de) | 1278 | 1403 | 91.1 | /mnt/stockage/packages/f9/rubyripper/locale/po/de/rr_cli.po/mnt/stockage/packages/f9/rubyripper/locale/po/de/rr_gtk2.po/mnt/stockage/packages/f9/rubyripper/locale/po/de/rr_lib.po | 
 {.sortable}
 
 

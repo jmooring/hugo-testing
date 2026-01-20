@@ -18,42 +18,42 @@ The package pulseaudio (version 6.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [el]({{< ref "/f21/language/el.md" >}}) | 3584 | 3584 | 100.0 | /mnt/stockage/packages/f21/pulseaudio/po/el.po | 
- | [id]({{< ref "/f21/language/id.md" >}}) | 2947 | 2947 | 100.0 | /mnt/stockage/packages/f21/pulseaudio/po/id.po | 
- | [ja]({{< ref "/f21/language/ja.md" >}}) | 3304 | 3304 | 100.0 | /mnt/stockage/packages/f21/pulseaudio/po/ja.po | 
- | [pl]({{< ref "/f21/language/pl.md" >}}) | 3450 | 3450 | 100.0 | /mnt/stockage/packages/f21/pulseaudio/po/pl.po | 
- | [pt_BR]({{< ref "/f21/language/pt_BR.md" >}}) | 3578 | 3578 | 100.0 | /mnt/stockage/packages/f21/pulseaudio/po/pt_BR.po | 
- | [ru]({{< ref "/f21/language/ru.md" >}}) | 3584 | 3584 | 100.0 | /mnt/stockage/packages/f21/pulseaudio/po/ru.po | 
- | [sv]({{< ref "/f21/language/sv.md" >}}) | 3449 | 3449 | 100.0 | /mnt/stockage/packages/f21/pulseaudio/po/sv.po | 
- | [tr]({{< ref "/f21/language/tr.md" >}}) | 3449 | 3449 | 100.0 | /mnt/stockage/packages/f21/pulseaudio/po/tr.po | 
- | [uk]({{< ref "/f21/language/uk.md" >}}) | 3450 | 3450 | 100.0 | /mnt/stockage/packages/f21/pulseaudio/po/uk.po | 
- | [zh_Hant]({{< ref "/f21/language/zh_Hant.md" >}}) | 3304 | 3304 | 100.0 | /mnt/stockage/packages/f21/pulseaudio/po/zh_TW.po | 
- | [fr]({{< ref "/f21/language/fr.md" >}}) | 2014 | 3304 | 61.0 | /mnt/stockage/packages/f21/pulseaudio/po/fr.po | 
- | [es]({{< ref "/f21/language/es.md" >}}) | 2013 | 3304 | 60.9 | /mnt/stockage/packages/f21/pulseaudio/po/es.po | 
- | [fi]({{< ref "/f21/language/fi.md" >}}) | 2013 | 3304 | 60.9 | /mnt/stockage/packages/f21/pulseaudio/po/fi.po | 
- | [bn_IN]({{< ref "/f21/language/bn_IN.md" >}}) | 2011 | 3304 | 60.9 | /mnt/stockage/packages/f21/pulseaudio/po/bn_IN.po | 
- | [cs]({{< ref "/f21/language/cs.md" >}}) | 2011 | 3304 | 60.9 | /mnt/stockage/packages/f21/pulseaudio/po/cs.po | 
- | [gu]({{< ref "/f21/language/gu.md" >}}) | 2011 | 3304 | 60.9 | /mnt/stockage/packages/f21/pulseaudio/po/gu.po | 
- | [hi]({{< ref "/f21/language/hi.md" >}}) | 2011 | 3304 | 60.9 | /mnt/stockage/packages/f21/pulseaudio/po/hi.po | 
- | [hu]({{< ref "/f21/language/hu.md" >}}) | 2011 | 3304 | 60.9 | /mnt/stockage/packages/f21/pulseaudio/po/hu.po | 
- | [it]({{< ref "/f21/language/it.md" >}}) | 2011 | 3304 | 60.9 | /mnt/stockage/packages/f21/pulseaudio/po/it.po | 
- | [kn]({{< ref "/f21/language/kn.md" >}}) | 2011 | 3304 | 60.9 | /mnt/stockage/packages/f21/pulseaudio/po/kn.po | 
- | [ml]({{< ref "/f21/language/ml.md" >}}) | 2011 | 3304 | 60.9 | /mnt/stockage/packages/f21/pulseaudio/po/ml.po | 
- | [mr]({{< ref "/f21/language/mr.md" >}}) | 2011 | 3304 | 60.9 | /mnt/stockage/packages/f21/pulseaudio/po/mr.po | 
- | [nl]({{< ref "/f21/language/nl.md" >}}) | 2011 | 3304 | 60.9 | /mnt/stockage/packages/f21/pulseaudio/po/nl.po | 
- | [or]({{< ref "/f21/language/or.md" >}}) | 2011 | 3304 | 60.9 | /mnt/stockage/packages/f21/pulseaudio/po/or.po | 
- | [pa]({{< ref "/f21/language/pa.md" >}}) | 2011 | 3304 | 60.9 | /mnt/stockage/packages/f21/pulseaudio/po/pa.po | 
- | [sr]({{< ref "/f21/language/sr.md" >}}) | 2011 | 3304 | 60.9 | /mnt/stockage/packages/f21/pulseaudio/po/sr.po | 
- | [sr_Latn]({{< ref "/f21/language/sr_Latn.md" >}}) | 2011 | 3304 | 60.9 | /mnt/stockage/packages/f21/pulseaudio/po/sr@latin.po | 
- | [ta]({{< ref "/f21/language/ta.md" >}}) | 2011 | 3304 | 60.9 | /mnt/stockage/packages/f21/pulseaudio/po/ta.po | 
- | [te]({{< ref "/f21/language/te.md" >}}) | 2011 | 3304 | 60.9 | /mnt/stockage/packages/f21/pulseaudio/po/te.po | 
- | [zh_Hans]({{< ref "/f21/language/zh_Hans.md" >}}) | 2011 | 3304 | 60.9 | /mnt/stockage/packages/f21/pulseaudio/po/zh_CN.po | 
- | [as]({{< ref "/f21/language/as.md" >}}) | 2010 | 3304 | 60.8 | /mnt/stockage/packages/f21/pulseaudio/po/as.po | 
- | [ca]({{< ref "/f21/language/ca.md" >}}) | 1937 | 3304 | 58.6 | /mnt/stockage/packages/f21/pulseaudio/po/ca.po | 
- | [pt]({{< ref "/f21/language/pt.md" >}}) | 1932 | 3304 | 58.5 | /mnt/stockage/packages/f21/pulseaudio/po/pt.po | 
- | [de]({{< ref "/f21/language/de.md" >}}) | 3765 | 6608 | 57.0 | /mnt/stockage/packages/f21/pulseaudio/po/de_CH.po/mnt/stockage/packages/f21/pulseaudio/po/de.po | 
- | [sk]({{< ref "/f21/language/sk.md" >}}) | 496 | 3450 | 14.4 | /mnt/stockage/packages/f21/pulseaudio/po/sk.po | 
- | [he]({{< ref "/f21/language/he.md" >}}) | 190 | 3304 | 5.8 | /mnt/stockage/packages/f21/pulseaudio/po/he.po | 
+ | [el](/f21/language/el) | 3584 | 3584 | 100.0 | /mnt/stockage/packages/f21/pulseaudio/po/el.po | 
+ | [id](/f21/language/id) | 2947 | 2947 | 100.0 | /mnt/stockage/packages/f21/pulseaudio/po/id.po | 
+ | [ja](/f21/language/ja) | 3304 | 3304 | 100.0 | /mnt/stockage/packages/f21/pulseaudio/po/ja.po | 
+ | [pl](/f21/language/pl) | 3450 | 3450 | 100.0 | /mnt/stockage/packages/f21/pulseaudio/po/pl.po | 
+ | [pt_BR](/f21/language/pt_BR) | 3578 | 3578 | 100.0 | /mnt/stockage/packages/f21/pulseaudio/po/pt_BR.po | 
+ | [ru](/f21/language/ru) | 3584 | 3584 | 100.0 | /mnt/stockage/packages/f21/pulseaudio/po/ru.po | 
+ | [sv](/f21/language/sv) | 3449 | 3449 | 100.0 | /mnt/stockage/packages/f21/pulseaudio/po/sv.po | 
+ | [tr](/f21/language/tr) | 3449 | 3449 | 100.0 | /mnt/stockage/packages/f21/pulseaudio/po/tr.po | 
+ | [uk](/f21/language/uk) | 3450 | 3450 | 100.0 | /mnt/stockage/packages/f21/pulseaudio/po/uk.po | 
+ | [zh_Hant](/f21/language/zh_Hant) | 3304 | 3304 | 100.0 | /mnt/stockage/packages/f21/pulseaudio/po/zh_TW.po | 
+ | [fr](/f21/language/fr) | 2014 | 3304 | 61.0 | /mnt/stockage/packages/f21/pulseaudio/po/fr.po | 
+ | [es](/f21/language/es) | 2013 | 3304 | 60.9 | /mnt/stockage/packages/f21/pulseaudio/po/es.po | 
+ | [fi](/f21/language/fi) | 2013 | 3304 | 60.9 | /mnt/stockage/packages/f21/pulseaudio/po/fi.po | 
+ | [bn_IN](/f21/language/bn_IN) | 2011 | 3304 | 60.9 | /mnt/stockage/packages/f21/pulseaudio/po/bn_IN.po | 
+ | [cs](/f21/language/cs) | 2011 | 3304 | 60.9 | /mnt/stockage/packages/f21/pulseaudio/po/cs.po | 
+ | [gu](/f21/language/gu) | 2011 | 3304 | 60.9 | /mnt/stockage/packages/f21/pulseaudio/po/gu.po | 
+ | [hi](/f21/language/hi) | 2011 | 3304 | 60.9 | /mnt/stockage/packages/f21/pulseaudio/po/hi.po | 
+ | [hu](/f21/language/hu) | 2011 | 3304 | 60.9 | /mnt/stockage/packages/f21/pulseaudio/po/hu.po | 
+ | [it](/f21/language/it) | 2011 | 3304 | 60.9 | /mnt/stockage/packages/f21/pulseaudio/po/it.po | 
+ | [kn](/f21/language/kn) | 2011 | 3304 | 60.9 | /mnt/stockage/packages/f21/pulseaudio/po/kn.po | 
+ | [ml](/f21/language/ml) | 2011 | 3304 | 60.9 | /mnt/stockage/packages/f21/pulseaudio/po/ml.po | 
+ | [mr](/f21/language/mr) | 2011 | 3304 | 60.9 | /mnt/stockage/packages/f21/pulseaudio/po/mr.po | 
+ | [nl](/f21/language/nl) | 2011 | 3304 | 60.9 | /mnt/stockage/packages/f21/pulseaudio/po/nl.po | 
+ | [or](/f21/language/or) | 2011 | 3304 | 60.9 | /mnt/stockage/packages/f21/pulseaudio/po/or.po | 
+ | [pa](/f21/language/pa) | 2011 | 3304 | 60.9 | /mnt/stockage/packages/f21/pulseaudio/po/pa.po | 
+ | [sr](/f21/language/sr) | 2011 | 3304 | 60.9 | /mnt/stockage/packages/f21/pulseaudio/po/sr.po | 
+ | [sr_Latn](/f21/language/sr_Latn) | 2011 | 3304 | 60.9 | /mnt/stockage/packages/f21/pulseaudio/po/sr@latin.po | 
+ | [ta](/f21/language/ta) | 2011 | 3304 | 60.9 | /mnt/stockage/packages/f21/pulseaudio/po/ta.po | 
+ | [te](/f21/language/te) | 2011 | 3304 | 60.9 | /mnt/stockage/packages/f21/pulseaudio/po/te.po | 
+ | [zh_Hans](/f21/language/zh_Hans) | 2011 | 3304 | 60.9 | /mnt/stockage/packages/f21/pulseaudio/po/zh_CN.po | 
+ | [as](/f21/language/as) | 2010 | 3304 | 60.8 | /mnt/stockage/packages/f21/pulseaudio/po/as.po | 
+ | [ca](/f21/language/ca) | 1937 | 3304 | 58.6 | /mnt/stockage/packages/f21/pulseaudio/po/ca.po | 
+ | [pt](/f21/language/pt) | 1932 | 3304 | 58.5 | /mnt/stockage/packages/f21/pulseaudio/po/pt.po | 
+ | [de](/f21/language/de) | 3765 | 6608 | 57.0 | /mnt/stockage/packages/f21/pulseaudio/po/de_CH.po/mnt/stockage/packages/f21/pulseaudio/po/de.po | 
+ | [sk](/f21/language/sk) | 496 | 3450 | 14.4 | /mnt/stockage/packages/f21/pulseaudio/po/sk.po | 
+ | [he](/f21/language/he) | 190 | 3304 | 5.8 | /mnt/stockage/packages/f21/pulseaudio/po/he.po | 
 {.sortable}
 
 

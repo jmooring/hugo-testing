@@ -18,7 +18,7 @@ The package python-oslo-service (version 1.16.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [en_GB]({{< ref "/f26/language/en_GB.md" >}}) | 350 | 350 | 100.0 | /mnt/stockage/packages/f26/python-oslo-service/oslo_service/locale/en_GB/LC_MESSAGES/oslo_service-log-error.po/mnt/stockage/packages/f26/python-oslo-service/oslo_service/locale/en_GB/LC_MESSAGES/oslo_service-log-info.po/mnt/stockage/packages/f26/python-oslo-service/oslo_service/locale/en_GB/LC_MESSAGES/oslo_service-log-warning.po/mnt/stockage/packages/f26/python-oslo-service/oslo_service/locale/en_GB/LC_MESSAGES/oslo_service.po | 
+ | [en_GB](/f26/language/en_GB) | 350 | 350 | 100.0 | /mnt/stockage/packages/f26/python-oslo-service/oslo_service/locale/en_GB/LC_MESSAGES/oslo_service-log-error.po/mnt/stockage/packages/f26/python-oslo-service/oslo_service/locale/en_GB/LC_MESSAGES/oslo_service-log-info.po/mnt/stockage/packages/f26/python-oslo-service/oslo_service/locale/en_GB/LC_MESSAGES/oslo_service-log-warning.po/mnt/stockage/packages/f26/python-oslo-service/oslo_service/locale/en_GB/LC_MESSAGES/oslo_service.po | 
 {.sortable}
 
 

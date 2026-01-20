@@ -39,9 +39,9 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [cmucl]({{< ref "/f17/package/cmucl.md" >}}) | 69 | 69 | 100.0 | Pig Latin (auto-translated) | 
- | [pychess]({{< ref "/f17/package/pychess.md" >}}) | 345 | 2849 | 12.1 | Occitan (post 1500) <oc@li.org> | 
- | [stellarium]({{< ref "/f17/package/stellarium.md" >}}) | 0 | 9286 | 0.0 | Ossetian <os@li.org> | 
+ | [cmucl](/f17/package/cmucl) | 69 | 69 | 100.0 | Pig Latin (auto-translated) | 
+ | [pychess](/f17/package/pychess) | 345 | 2849 | 12.1 | Occitan (post 1500) <oc@li.org> | 
+ | [stellarium](/f17/package/stellarium) | 0 | 9286 | 0.0 | Ossetian <os@li.org> | 
 {.sortable}
 
 

@@ -18,7 +18,7 @@ The package ganglia (version 3.0.7):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [sv]({{< ref "/f9/language/sv.md" >}}) | 115 | 115 | 100.0 | /mnt/stockage/packages/f9/ganglia/srclib/confuse/po/sv.po | 
+ | [sv](/f9/language/sv) | 115 | 115 | 100.0 | /mnt/stockage/packages/f9/ganglia/srclib/confuse/po/sv.po | 
 {.sortable}
 
 

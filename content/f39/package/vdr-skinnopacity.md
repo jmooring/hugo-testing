@@ -18,10 +18,10 @@ The package vdr-skinnopacity (version 1.1.17):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f39/language/de.md" >}}) | 957 | 957 | 100.0 | /mnt/stockage/packages/f39/vdr-skinnopacity/po/de_DE.po | 
- | [ca]({{< ref "/f39/language/ca.md" >}}) | 675 | 957 | 70.5 | /mnt/stockage/packages/f39/vdr-skinnopacity/po/ca_ES.po | 
- | [sk]({{< ref "/f39/language/sk.md" >}}) | 671 | 957 | 70.1 | /mnt/stockage/packages/f39/vdr-skinnopacity/po/sk_SK.po | 
- | [it]({{< ref "/f39/language/it.md" >}}) | 418 | 957 | 43.7 | /mnt/stockage/packages/f39/vdr-skinnopacity/po/it_IT.po | 
+ | [de](/f39/language/de) | 957 | 957 | 100.0 | /mnt/stockage/packages/f39/vdr-skinnopacity/po/de_DE.po | 
+ | [ca](/f39/language/ca) | 675 | 957 | 70.5 | /mnt/stockage/packages/f39/vdr-skinnopacity/po/ca_ES.po | 
+ | [sk](/f39/language/sk) | 671 | 957 | 70.1 | /mnt/stockage/packages/f39/vdr-skinnopacity/po/sk_SK.po | 
+ | [it](/f39/language/it) | 418 | 957 | 43.7 | /mnt/stockage/packages/f39/vdr-skinnopacity/po/it_IT.po | 
 {.sortable}
 
 

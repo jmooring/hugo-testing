@@ -18,15 +18,15 @@ The package roundup (version 1.3.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [lt]({{< ref "/f8/language/lt.md" >}}) | 4520 | 4520 | 100.0 | /mnt/stockage/packages/f8/roundup/locale/lt.po | 
- | [ru]({{< ref "/f8/language/ru.md" >}}) | 4528 | 4549 | 99.5 | /mnt/stockage/packages/f8/roundup/locale/ru.po | 
- | [zh_Hans]({{< ref "/f8/language/zh_Hans.md" >}}) | 3631 | 3652 | 99.4 | /mnt/stockage/packages/f8/roundup/locale/zh_CN.po | 
- | [zh_Hant]({{< ref "/f8/language/zh_Hant.md" >}}) | 3631 | 3652 | 99.4 | /mnt/stockage/packages/f8/roundup/locale/zh_TW.po | 
- | [es]({{< ref "/f8/language/es.md" >}}) | 4332 | 4376 | 99.0 | /mnt/stockage/packages/f8/roundup/locale/es.po | 
- | [de]({{< ref "/f8/language/de.md" >}}) | 4033 | 4413 | 91.4 | /mnt/stockage/packages/f8/roundup/locale/de.po | 
- | [fr]({{< ref "/f8/language/fr.md" >}}) | 3890 | 4363 | 89.2 | /mnt/stockage/packages/f8/roundup/locale/fr.po | 
- | [hu]({{< ref "/f8/language/hu.md" >}}) | 1301 | 4376 | 29.7 | /mnt/stockage/packages/f8/roundup/locale/hu.po | 
- | [en]({{< ref "/f8/language/en.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f8/roundup/locale/en.po | 
+ | [lt](/f8/language/lt) | 4520 | 4520 | 100.0 | /mnt/stockage/packages/f8/roundup/locale/lt.po | 
+ | [ru](/f8/language/ru) | 4528 | 4549 | 99.5 | /mnt/stockage/packages/f8/roundup/locale/ru.po | 
+ | [zh_Hans](/f8/language/zh_Hans) | 3631 | 3652 | 99.4 | /mnt/stockage/packages/f8/roundup/locale/zh_CN.po | 
+ | [zh_Hant](/f8/language/zh_Hant) | 3631 | 3652 | 99.4 | /mnt/stockage/packages/f8/roundup/locale/zh_TW.po | 
+ | [es](/f8/language/es) | 4332 | 4376 | 99.0 | /mnt/stockage/packages/f8/roundup/locale/es.po | 
+ | [de](/f8/language/de) | 4033 | 4413 | 91.4 | /mnt/stockage/packages/f8/roundup/locale/de.po | 
+ | [fr](/f8/language/fr) | 3890 | 4363 | 89.2 | /mnt/stockage/packages/f8/roundup/locale/fr.po | 
+ | [hu](/f8/language/hu) | 1301 | 4376 | 29.7 | /mnt/stockage/packages/f8/roundup/locale/hu.po | 
+ | [en](/f8/language/en) | 0 | 0 | 0.0 | /mnt/stockage/packages/f8/roundup/locale/en.po | 
 {.sortable}
 
 

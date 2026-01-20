@@ -18,47 +18,47 @@ The package klickety (version 19.04.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f29/language/ca.md" >}}) | 178 | 178 | 100.0 | /mnt/stockage/packages/f29/klickety/po/ca/klickety.po | 
- | [ca@valencia]({{< ref "/f29/language/ca@valencia.md" >}}) | 178 | 178 | 100.0 | /mnt/stockage/packages/f29/klickety/po/ca@valencia/klickety.po | 
- | [da]({{< ref "/f29/language/da.md" >}}) | 178 | 178 | 100.0 | /mnt/stockage/packages/f29/klickety/po/da/klickety.po | 
- | [de]({{< ref "/f29/language/de.md" >}}) | 178 | 178 | 100.0 | /mnt/stockage/packages/f29/klickety/po/de/klickety.po | 
- | [el]({{< ref "/f29/language/el.md" >}}) | 178 | 178 | 100.0 | /mnt/stockage/packages/f29/klickety/po/el/klickety.po | 
- | [en_GB]({{< ref "/f29/language/en_GB.md" >}}) | 178 | 178 | 100.0 | /mnt/stockage/packages/f29/klickety/po/en_GB/klickety.po | 
- | [es]({{< ref "/f29/language/es.md" >}}) | 178 | 178 | 100.0 | /mnt/stockage/packages/f29/klickety/po/es/klickety.po | 
- | [et]({{< ref "/f29/language/et.md" >}}) | 178 | 178 | 100.0 | /mnt/stockage/packages/f29/klickety/po/et/klickety.po | 
- | [fi]({{< ref "/f29/language/fi.md" >}}) | 178 | 178 | 100.0 | /mnt/stockage/packages/f29/klickety/po/fi/klickety.po | 
- | [fr]({{< ref "/f29/language/fr.md" >}}) | 178 | 178 | 100.0 | /mnt/stockage/packages/f29/klickety/po/fr/klickety.po | 
- | [gl]({{< ref "/f29/language/gl.md" >}}) | 178 | 178 | 100.0 | /mnt/stockage/packages/f29/klickety/po/gl/klickety.po | 
- | [hu]({{< ref "/f29/language/hu.md" >}}) | 178 | 178 | 100.0 | /mnt/stockage/packages/f29/klickety/po/hu/klickety.po | 
- | [it]({{< ref "/f29/language/it.md" >}}) | 178 | 178 | 100.0 | /mnt/stockage/packages/f29/klickety/po/it/klickety.po | 
- | [ko]({{< ref "/f29/language/ko.md" >}}) | 178 | 178 | 100.0 | /mnt/stockage/packages/f29/klickety/po/ko/klickety.po | 
- | [nl]({{< ref "/f29/language/nl.md" >}}) | 178 | 178 | 100.0 | /mnt/stockage/packages/f29/klickety/po/nl/klickety.po | 
- | [nn]({{< ref "/f29/language/nn.md" >}}) | 178 | 178 | 100.0 | /mnt/stockage/packages/f29/klickety/po/nn/klickety.po | 
- | [pl]({{< ref "/f29/language/pl.md" >}}) | 178 | 178 | 100.0 | /mnt/stockage/packages/f29/klickety/po/pl/klickety.po | 
- | [pt]({{< ref "/f29/language/pt.md" >}}) | 178 | 178 | 100.0 | /mnt/stockage/packages/f29/klickety/po/pt/klickety.po | 
- | [pt_BR]({{< ref "/f29/language/pt_BR.md" >}}) | 178 | 178 | 100.0 | /mnt/stockage/packages/f29/klickety/po/pt_BR/klickety.po | 
- | [sk]({{< ref "/f29/language/sk.md" >}}) | 178 | 178 | 100.0 | /mnt/stockage/packages/f29/klickety/po/sk/klickety.po | 
- | [sl]({{< ref "/f29/language/sl.md" >}}) | 178 | 178 | 100.0 | /mnt/stockage/packages/f29/klickety/po/sl/klickety.po | 
- | [sr]({{< ref "/f29/language/sr.md" >}}) | 178 | 178 | 100.0 | /mnt/stockage/packages/f29/klickety/po/sr/klickety.po | 
- | [sv]({{< ref "/f29/language/sv.md" >}}) | 178 | 178 | 100.0 | /mnt/stockage/packages/f29/klickety/po/sv/klickety.po | 
- | [tr]({{< ref "/f29/language/tr.md" >}}) | 178 | 178 | 100.0 | /mnt/stockage/packages/f29/klickety/po/tr/klickety.po | 
- | [uk]({{< ref "/f29/language/uk.md" >}}) | 178 | 178 | 100.0 | /mnt/stockage/packages/f29/klickety/po/uk/klickety.po | 
- | [zh_Hans]({{< ref "/f29/language/zh_Hans.md" >}}) | 178 | 178 | 100.0 | /mnt/stockage/packages/f29/klickety/po/zh_CN/klickety.po | 
- | [zh_Hant]({{< ref "/f29/language/zh_Hant.md" >}}) | 178 | 178 | 100.0 | /mnt/stockage/packages/f29/klickety/po/zh_TW/klickety.po | 
- | [cs]({{< ref "/f29/language/cs.md" >}}) | 174 | 178 | 97.8 | /mnt/stockage/packages/f29/klickety/po/cs/klickety.po | 
- | [nb_NO]({{< ref "/f29/language/nb_NO.md" >}}) | 171 | 178 | 96.1 | /mnt/stockage/packages/f29/klickety/po/nb/klickety.po | 
- | [ru]({{< ref "/f29/language/ru.md" >}}) | 171 | 178 | 96.1 | /mnt/stockage/packages/f29/klickety/po/ru/klickety.po | 
- | [bs]({{< ref "/f29/language/bs.md" >}}) | 167 | 178 | 93.8 | /mnt/stockage/packages/f29/klickety/po/bs/klickety.po | 
- | [kk]({{< ref "/f29/language/kk.md" >}}) | 167 | 178 | 93.8 | /mnt/stockage/packages/f29/klickety/po/kk/klickety.po | 
- | [lv]({{< ref "/f29/language/lv.md" >}}) | 167 | 178 | 93.8 | /mnt/stockage/packages/f29/klickety/po/lv/klickety.po | 
- | [nds]({{< ref "/f29/language/nds.md" >}}) | 167 | 178 | 93.8 | /mnt/stockage/packages/f29/klickety/po/nds/klickety.po | 
- | [ro]({{< ref "/f29/language/ro.md" >}}) | 167 | 178 | 93.8 | /mnt/stockage/packages/f29/klickety/po/ro/klickety.po | 
- | [ga]({{< ref "/f29/language/ga.md" >}}) | 84 | 178 | 47.2 | /mnt/stockage/packages/f29/klickety/po/ga/klickety.po | 
- | [lt]({{< ref "/f29/language/lt.md" >}}) | 60 | 178 | 33.7 | /mnt/stockage/packages/f29/klickety/po/lt/klickety.po | 
- | [ug]({{< ref "/f29/language/ug.md" >}}) | 48 | 178 | 27.0 | /mnt/stockage/packages/f29/klickety/po/ug/klickety.po | 
- | [mr]({{< ref "/f29/language/mr.md" >}}) | 29 | 178 | 16.3 | /mnt/stockage/packages/f29/klickety/po/mr/klickety.po | 
- | [is]({{< ref "/f29/language/is.md" >}}) | 0 | 178 | 0.0 | /mnt/stockage/packages/f29/klickety/po/is/klickety.po | 
- | [ja]({{< ref "/f29/language/ja.md" >}}) | 0 | 178 | 0.0 | /mnt/stockage/packages/f29/klickety/po/ja/klickety.po | 
+ | [ca](/f29/language/ca) | 178 | 178 | 100.0 | /mnt/stockage/packages/f29/klickety/po/ca/klickety.po | 
+ | [ca@valencia](/f29/language/ca@valencia) | 178 | 178 | 100.0 | /mnt/stockage/packages/f29/klickety/po/ca@valencia/klickety.po | 
+ | [da](/f29/language/da) | 178 | 178 | 100.0 | /mnt/stockage/packages/f29/klickety/po/da/klickety.po | 
+ | [de](/f29/language/de) | 178 | 178 | 100.0 | /mnt/stockage/packages/f29/klickety/po/de/klickety.po | 
+ | [el](/f29/language/el) | 178 | 178 | 100.0 | /mnt/stockage/packages/f29/klickety/po/el/klickety.po | 
+ | [en_GB](/f29/language/en_GB) | 178 | 178 | 100.0 | /mnt/stockage/packages/f29/klickety/po/en_GB/klickety.po | 
+ | [es](/f29/language/es) | 178 | 178 | 100.0 | /mnt/stockage/packages/f29/klickety/po/es/klickety.po | 
+ | [et](/f29/language/et) | 178 | 178 | 100.0 | /mnt/stockage/packages/f29/klickety/po/et/klickety.po | 
+ | [fi](/f29/language/fi) | 178 | 178 | 100.0 | /mnt/stockage/packages/f29/klickety/po/fi/klickety.po | 
+ | [fr](/f29/language/fr) | 178 | 178 | 100.0 | /mnt/stockage/packages/f29/klickety/po/fr/klickety.po | 
+ | [gl](/f29/language/gl) | 178 | 178 | 100.0 | /mnt/stockage/packages/f29/klickety/po/gl/klickety.po | 
+ | [hu](/f29/language/hu) | 178 | 178 | 100.0 | /mnt/stockage/packages/f29/klickety/po/hu/klickety.po | 
+ | [it](/f29/language/it) | 178 | 178 | 100.0 | /mnt/stockage/packages/f29/klickety/po/it/klickety.po | 
+ | [ko](/f29/language/ko) | 178 | 178 | 100.0 | /mnt/stockage/packages/f29/klickety/po/ko/klickety.po | 
+ | [nl](/f29/language/nl) | 178 | 178 | 100.0 | /mnt/stockage/packages/f29/klickety/po/nl/klickety.po | 
+ | [nn](/f29/language/nn) | 178 | 178 | 100.0 | /mnt/stockage/packages/f29/klickety/po/nn/klickety.po | 
+ | [pl](/f29/language/pl) | 178 | 178 | 100.0 | /mnt/stockage/packages/f29/klickety/po/pl/klickety.po | 
+ | [pt](/f29/language/pt) | 178 | 178 | 100.0 | /mnt/stockage/packages/f29/klickety/po/pt/klickety.po | 
+ | [pt_BR](/f29/language/pt_BR) | 178 | 178 | 100.0 | /mnt/stockage/packages/f29/klickety/po/pt_BR/klickety.po | 
+ | [sk](/f29/language/sk) | 178 | 178 | 100.0 | /mnt/stockage/packages/f29/klickety/po/sk/klickety.po | 
+ | [sl](/f29/language/sl) | 178 | 178 | 100.0 | /mnt/stockage/packages/f29/klickety/po/sl/klickety.po | 
+ | [sr](/f29/language/sr) | 178 | 178 | 100.0 | /mnt/stockage/packages/f29/klickety/po/sr/klickety.po | 
+ | [sv](/f29/language/sv) | 178 | 178 | 100.0 | /mnt/stockage/packages/f29/klickety/po/sv/klickety.po | 
+ | [tr](/f29/language/tr) | 178 | 178 | 100.0 | /mnt/stockage/packages/f29/klickety/po/tr/klickety.po | 
+ | [uk](/f29/language/uk) | 178 | 178 | 100.0 | /mnt/stockage/packages/f29/klickety/po/uk/klickety.po | 
+ | [zh_Hans](/f29/language/zh_Hans) | 178 | 178 | 100.0 | /mnt/stockage/packages/f29/klickety/po/zh_CN/klickety.po | 
+ | [zh_Hant](/f29/language/zh_Hant) | 178 | 178 | 100.0 | /mnt/stockage/packages/f29/klickety/po/zh_TW/klickety.po | 
+ | [cs](/f29/language/cs) | 174 | 178 | 97.8 | /mnt/stockage/packages/f29/klickety/po/cs/klickety.po | 
+ | [nb_NO](/f29/language/nb_NO) | 171 | 178 | 96.1 | /mnt/stockage/packages/f29/klickety/po/nb/klickety.po | 
+ | [ru](/f29/language/ru) | 171 | 178 | 96.1 | /mnt/stockage/packages/f29/klickety/po/ru/klickety.po | 
+ | [bs](/f29/language/bs) | 167 | 178 | 93.8 | /mnt/stockage/packages/f29/klickety/po/bs/klickety.po | 
+ | [kk](/f29/language/kk) | 167 | 178 | 93.8 | /mnt/stockage/packages/f29/klickety/po/kk/klickety.po | 
+ | [lv](/f29/language/lv) | 167 | 178 | 93.8 | /mnt/stockage/packages/f29/klickety/po/lv/klickety.po | 
+ | [nds](/f29/language/nds) | 167 | 178 | 93.8 | /mnt/stockage/packages/f29/klickety/po/nds/klickety.po | 
+ | [ro](/f29/language/ro) | 167 | 178 | 93.8 | /mnt/stockage/packages/f29/klickety/po/ro/klickety.po | 
+ | [ga](/f29/language/ga) | 84 | 178 | 47.2 | /mnt/stockage/packages/f29/klickety/po/ga/klickety.po | 
+ | [lt](/f29/language/lt) | 60 | 178 | 33.7 | /mnt/stockage/packages/f29/klickety/po/lt/klickety.po | 
+ | [ug](/f29/language/ug) | 48 | 178 | 27.0 | /mnt/stockage/packages/f29/klickety/po/ug/klickety.po | 
+ | [mr](/f29/language/mr) | 29 | 178 | 16.3 | /mnt/stockage/packages/f29/klickety/po/mr/klickety.po | 
+ | [is](/f29/language/is) | 0 | 178 | 0.0 | /mnt/stockage/packages/f29/klickety/po/is/klickety.po | 
+ | [ja](/f29/language/ja) | 0 | 178 | 0.0 | /mnt/stockage/packages/f29/klickety/po/ja/klickety.po | 
 {.sortable}
 
 

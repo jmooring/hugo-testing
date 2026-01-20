@@ -18,15 +18,15 @@ The package cmake-fedora (version 2.9.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f34/language/de.md" >}}) | 263 | 277 | 94.9 | /mnt/stockage/packages/f34/cmake-fedora/test/data/po/de_DE.po/mnt/stockage/packages/f34/cmake-fedora/test/data/podir/po/man2/de-DE/stat.po | 
- | [es]({{< ref "/f34/language/es.md" >}}) | 263 | 277 | 94.9 | /mnt/stockage/packages/f34/cmake-fedora/test/data/po/es_ES.po | 
- | [fr]({{< ref "/f34/language/fr.md" >}}) | 263 | 277 | 94.9 | /mnt/stockage/packages/f34/cmake-fedora/test/data/po/fr_FR.po | 
- | [it]({{< ref "/f34/language/it.md" >}}) | 263 | 277 | 94.9 | /mnt/stockage/packages/f34/cmake-fedora/test/data/po/it_IT.po | 
- | [de_CH]({{< ref "/f34/language/de_CH.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f34/cmake-fedora/test/data/podir/po/man2/de_CH/stat.po | 
- | [ko]({{< ref "/f34/language/ko.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f34/cmake-fedora/test/data/podir/po/man1/ko/ls.po/mnt/stockage/packages/f34/cmake-fedora/test/data/podir/po/man2/ko/stat.po | 
- | [sr_Latn]({{< ref "/f34/language/sr_Latn.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f34/cmake-fedora/test/data/podir/po/man1/sr@latin/ls.po | 
- | [zh_Hans]({{< ref "/f34/language/zh_Hans.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f34/cmake-fedora/test/data/podir/po/man2/zh-Hans/stat.po | 
- | [zh_Hant]({{< ref "/f34/language/zh_Hant.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f34/cmake-fedora/test/data/podir/po/man1/zh_TW/ls.po | 
+ | [de](/f34/language/de) | 263 | 277 | 94.9 | /mnt/stockage/packages/f34/cmake-fedora/test/data/po/de_DE.po/mnt/stockage/packages/f34/cmake-fedora/test/data/podir/po/man2/de-DE/stat.po | 
+ | [es](/f34/language/es) | 263 | 277 | 94.9 | /mnt/stockage/packages/f34/cmake-fedora/test/data/po/es_ES.po | 
+ | [fr](/f34/language/fr) | 263 | 277 | 94.9 | /mnt/stockage/packages/f34/cmake-fedora/test/data/po/fr_FR.po | 
+ | [it](/f34/language/it) | 263 | 277 | 94.9 | /mnt/stockage/packages/f34/cmake-fedora/test/data/po/it_IT.po | 
+ | [de_CH](/f34/language/de_CH) | 0 | 0 | 0.0 | /mnt/stockage/packages/f34/cmake-fedora/test/data/podir/po/man2/de_CH/stat.po | 
+ | [ko](/f34/language/ko) | 0 | 0 | 0.0 | /mnt/stockage/packages/f34/cmake-fedora/test/data/podir/po/man1/ko/ls.po/mnt/stockage/packages/f34/cmake-fedora/test/data/podir/po/man2/ko/stat.po | 
+ | [sr_Latn](/f34/language/sr_Latn) | 0 | 0 | 0.0 | /mnt/stockage/packages/f34/cmake-fedora/test/data/podir/po/man1/sr@latin/ls.po | 
+ | [zh_Hans](/f34/language/zh_Hans) | 0 | 0 | 0.0 | /mnt/stockage/packages/f34/cmake-fedora/test/data/podir/po/man2/zh-Hans/stat.po | 
+ | [zh_Hant](/f34/language/zh_Hant) | 0 | 0 | 0.0 | /mnt/stockage/packages/f34/cmake-fedora/test/data/podir/po/man1/zh_TW/ls.po | 
 {.sortable}
 
 

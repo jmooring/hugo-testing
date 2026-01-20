@@ -40,51 +40,51 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [atk]({{< ref "/f21/package/atk.md" >}}) | 348 | 375 | 92.8 | Turkmen <kakilikgroup@yahoo.com> | 
- | [mingw-atk]({{< ref "/f21/package/mingw-atk.md" >}}) | 348 | 375 | 92.8 | Turkmen <kakilikgroup@yahoo.com> | 
- | [gnome-desktop]({{< ref "/f21/package/gnome-desktop.md" >}}) | 291 | 320 | 90.9 | Turkmen <kakilikgroup@yahoo.com> | 
- | [gnome-desktop3]({{< ref "/f21/package/gnome-desktop3.md" >}}) | 291 | 320 | 90.9 | Turkmen <kakilikgroup@yahoo.com> | 
- | [gtranslator]({{< ref "/f21/package/gtranslator.md" >}}) | 1291 | 1422 | 90.8 | Turkmen <kakilikgroup@yahoo.com> | 
- | [file-roller]({{< ref "/f21/package/file-roller.md" >}}) | 702 | 971 | 72.3 | Turkmen <kakilikgroup@yahoo.com> | 
- | [nautilus]({{< ref "/f21/package/nautilus.md" >}}) | 5001 | 6976 | 71.7 | Turkmen <kakilikgroup@yahoo.com> | 
- | [gnome-mime-data]({{< ref "/f21/package/gnome-mime-data.md" >}}) | 625 | 887 | 70.5 | Turkmen <kakilikgroup@yahoo.com> | 
- | [adwaita-icon-theme]({{< ref "/f21/package/adwaita-icon-theme.md" >}}) | 36 | 52 | 69.2 | Turkmen <kakilikgroup@yahoo.com> | 
- | [gnome-icon-theme]({{< ref "/f21/package/gnome-icon-theme.md" >}}) | 36 | 52 | 69.2 | Turkmen <kakilikgroup@yahoo.com> | 
- | [mate-icon-theme]({{< ref "/f21/package/mate-icon-theme.md" >}}) | 36 | 52 | 69.2 | Turkmen <kakilikgroup@yahoo.com> | 
- | [mingw-adwaita-icon-theme]({{< ref "/f21/package/mingw-adwaita-icon-theme.md" >}}) | 36 | 52 | 69.2 | Turkmen <kakilikgroup@yahoo.com> | 
- | [iso-codes]({{< ref "/f21/package/iso-codes.md" >}}) | 700 | 1110 | 63.1 | Turkmen <kakilikgroup@yahoo.com> | 
- | [epiphany]({{< ref "/f21/package/epiphany.md" >}}) | 1702 | 2782 | 61.2 | Turkmen <kakilikgroup@yahoo.com> | 
- | [gedit]({{< ref "/f21/package/gedit.md" >}}) | 2502 | 4206 | 59.5 | Turkmen <kakilikgroup@yahoo.com> | 
- | [engrampa]({{< ref "/f21/package/engrampa.md" >}}) | 583 | 1672 | 34.9 | Turkmen (http://www.transifex.com/projects/p/MATE/language/tk/) | 
- | [dasher]({{< ref "/f21/package/dasher.md" >}}) | 141 | 423 | 33.3 | Turkmen <kakilikgroup@yahoo.com> | 
- | [gnome-calculator]({{< ref "/f21/package/gnome-calculator.md" >}}) | 294 | 915 | 32.1 | Tuekmen <kakilikgroup@yahoo.com> | 
- | [mate-calc]({{< ref "/f21/package/mate-calc.md" >}}) | 294 | 915 | 32.1 | Tuekmen <kakilikgroup@yahoo.com> | 
- | [libgnomeui]({{< ref "/f21/package/libgnomeui.md" >}}) | 443 | 1419 | 31.2 | Turkmen <kakilikgroup@yahoo.com> | 
- | [caja]({{< ref "/f21/package/caja.md" >}}) | 2470 | 9223 | 26.8 | Turkmen (http://www.transifex.com/projects/p/MATE/language/tk/) | 
- | [pluma]({{< ref "/f21/package/pluma.md" >}}) | 1325 | 4999 | 26.5 | Turkmen (http://www.transifex.com/projects/p/MATE/language/tk/) | 
- | [mate-media]({{< ref "/f21/package/mate-media.md" >}}) | 470 | 1795 | 26.2 | Turkmen <kakilikgroup@yahoo.com> | 
- | [eog]({{< ref "/f21/package/eog.md" >}}) | 143 | 557 | 25.7 | Turkmne <kakilikgroup@yahoo.com> | 
- | [gnome-session]({{< ref "/f21/package/gnome-session.md" >}}) | 44 | 516 | 8.5 | Turkmen <kakilikgroup@yahoo.com> | 
- | [mate-session-manager]({{< ref "/f21/package/mate-session-manager.md" >}}) | 44 | 516 | 8.5 | Turkmen <kakilikgroup@yahoo.com> | 
- | [gdk-pixbuf2]({{< ref "/f21/package/gdk-pixbuf2.md" >}}) | 92 | 1348 | 6.8 | Turkmen <kakilikgroup@yahoo.com> | 
- | [mingw-gdk-pixbuf]({{< ref "/f21/package/mingw-gdk-pixbuf.md" >}}) | 92 | 1348 | 6.8 | Turkmen <kakilikgroup@yahoo.com> | 
- | [librfm]({{< ref "/f21/package/librfm.md" >}}) | 155 | 2397 | 6.5 | Turkmen <kakilikgroup@yahoo.com> | 
- | [eom]({{< ref "/f21/package/eom.md" >}}) | 58 | 1731 | 3.4 | Turkmen (http://www.transifex.com/projects/p/MATE/language/tk/) | 
- | [isomaster]({{< ref "/f21/package/isomaster.md" >}}) | 19 | 674 | 2.8 | http://littlesvr.ca/ostd/ | 
- | [mate-desktop]({{< ref "/f21/package/mate-desktop.md" >}}) | 52 | 2396 | 2.2 | Turkmen (http://www.transifex.com/projects/p/MATE/language/tk/) | 
- | [marco]({{< ref "/f21/package/marco.md" >}}) | 43 | 2187 | 2.0 | Turkmen (http://www.transifex.com/projects/p/MATE/language/tk/) | 
- | [gedit-plugins]({{< ref "/f21/package/gedit-plugins.md" >}}) | 20 | 1205 | 1.7 | Turkmen <kakilikgroup@yahoo.com> | 
- | [gtk2]({{< ref "/f21/package/gtk2.md" >}}) | 215 | 13704 | 1.6 | Turkmen <kakilikgroup@yahoo.com> | 
- | [mingw-gtk2]({{< ref "/f21/package/mingw-gtk2.md" >}}) | 215 | 13704 | 1.6 | Turkmen <kakilikgroup@yahoo.com> | 
- | [rodent]({{< ref "/f21/package/rodent.md" >}}) | 100 | 9634 | 1.0 | Turkmen <kakilikgroup@yahoo.com> | 
- | [metacity]({{< ref "/f21/package/metacity.md" >}}) | 49 | 6919 | 0.7 | Turkmen <kakilikgroup@yahoo.com> | 
- | [muffin]({{< ref "/f21/package/muffin.md" >}}) | 49 | 6919 | 0.7 | Turkmen <kakilikgroup@yahoo.com> | 
- | [mutter]({{< ref "/f21/package/mutter.md" >}}) | 49 | 6919 | 0.7 | Turkmen <kakilikgroup@yahoo.com> | 
- | [gtk3]({{< ref "/f21/package/gtk3.md" >}}) | 79 | 11853 | 0.7 | Turkmen <kakilikgroup@yahoo.com> | 
- | [mingw-gtk3]({{< ref "/f21/package/mingw-gtk3.md" >}}) | 79 | 11853 | 0.7 | Turkmen <kakilikgroup@yahoo.com> | 
- | [cinnamon-session]({{< ref "/f21/package/cinnamon-session.md" >}}) | 1 | 432 | 0.2 | Turkmen <kakilikgroup@yahoo.com> | 
- | [cinnamon-desktop]({{< ref "/f21/package/cinnamon-desktop.md" >}}) | 0 | 231 | 0.0 | Turkmen <kakilikgroup@yahoo.com> | 
- | [vidalia]({{< ref "/f21/package/vidalia.md" >}}) | 0 | 10369 | 0.0 | translations@vidalia-project.net | 
+ | [atk](/f21/package/atk) | 348 | 375 | 92.8 | Turkmen <kakilikgroup@yahoo.com> | 
+ | [mingw-atk](/f21/package/mingw-atk) | 348 | 375 | 92.8 | Turkmen <kakilikgroup@yahoo.com> | 
+ | [gnome-desktop](/f21/package/gnome-desktop) | 291 | 320 | 90.9 | Turkmen <kakilikgroup@yahoo.com> | 
+ | [gnome-desktop3](/f21/package/gnome-desktop3) | 291 | 320 | 90.9 | Turkmen <kakilikgroup@yahoo.com> | 
+ | [gtranslator](/f21/package/gtranslator) | 1291 | 1422 | 90.8 | Turkmen <kakilikgroup@yahoo.com> | 
+ | [file-roller](/f21/package/file-roller) | 702 | 971 | 72.3 | Turkmen <kakilikgroup@yahoo.com> | 
+ | [nautilus](/f21/package/nautilus) | 5001 | 6976 | 71.7 | Turkmen <kakilikgroup@yahoo.com> | 
+ | [gnome-mime-data](/f21/package/gnome-mime-data) | 625 | 887 | 70.5 | Turkmen <kakilikgroup@yahoo.com> | 
+ | [adwaita-icon-theme](/f21/package/adwaita-icon-theme) | 36 | 52 | 69.2 | Turkmen <kakilikgroup@yahoo.com> | 
+ | [gnome-icon-theme](/f21/package/gnome-icon-theme) | 36 | 52 | 69.2 | Turkmen <kakilikgroup@yahoo.com> | 
+ | [mate-icon-theme](/f21/package/mate-icon-theme) | 36 | 52 | 69.2 | Turkmen <kakilikgroup@yahoo.com> | 
+ | [mingw-adwaita-icon-theme](/f21/package/mingw-adwaita-icon-theme) | 36 | 52 | 69.2 | Turkmen <kakilikgroup@yahoo.com> | 
+ | [iso-codes](/f21/package/iso-codes) | 700 | 1110 | 63.1 | Turkmen <kakilikgroup@yahoo.com> | 
+ | [epiphany](/f21/package/epiphany) | 1702 | 2782 | 61.2 | Turkmen <kakilikgroup@yahoo.com> | 
+ | [gedit](/f21/package/gedit) | 2502 | 4206 | 59.5 | Turkmen <kakilikgroup@yahoo.com> | 
+ | [engrampa](/f21/package/engrampa) | 583 | 1672 | 34.9 | Turkmen (http://www.transifex.com/projects/p/MATE/language/tk/) | 
+ | [dasher](/f21/package/dasher) | 141 | 423 | 33.3 | Turkmen <kakilikgroup@yahoo.com> | 
+ | [gnome-calculator](/f21/package/gnome-calculator) | 294 | 915 | 32.1 | Tuekmen <kakilikgroup@yahoo.com> | 
+ | [mate-calc](/f21/package/mate-calc) | 294 | 915 | 32.1 | Tuekmen <kakilikgroup@yahoo.com> | 
+ | [libgnomeui](/f21/package/libgnomeui) | 443 | 1419 | 31.2 | Turkmen <kakilikgroup@yahoo.com> | 
+ | [caja](/f21/package/caja) | 2470 | 9223 | 26.8 | Turkmen (http://www.transifex.com/projects/p/MATE/language/tk/) | 
+ | [pluma](/f21/package/pluma) | 1325 | 4999 | 26.5 | Turkmen (http://www.transifex.com/projects/p/MATE/language/tk/) | 
+ | [mate-media](/f21/package/mate-media) | 470 | 1795 | 26.2 | Turkmen <kakilikgroup@yahoo.com> | 
+ | [eog](/f21/package/eog) | 143 | 557 | 25.7 | Turkmne <kakilikgroup@yahoo.com> | 
+ | [gnome-session](/f21/package/gnome-session) | 44 | 516 | 8.5 | Turkmen <kakilikgroup@yahoo.com> | 
+ | [mate-session-manager](/f21/package/mate-session-manager) | 44 | 516 | 8.5 | Turkmen <kakilikgroup@yahoo.com> | 
+ | [gdk-pixbuf2](/f21/package/gdk-pixbuf2) | 92 | 1348 | 6.8 | Turkmen <kakilikgroup@yahoo.com> | 
+ | [mingw-gdk-pixbuf](/f21/package/mingw-gdk-pixbuf) | 92 | 1348 | 6.8 | Turkmen <kakilikgroup@yahoo.com> | 
+ | [librfm](/f21/package/librfm) | 155 | 2397 | 6.5 | Turkmen <kakilikgroup@yahoo.com> | 
+ | [eom](/f21/package/eom) | 58 | 1731 | 3.4 | Turkmen (http://www.transifex.com/projects/p/MATE/language/tk/) | 
+ | [isomaster](/f21/package/isomaster) | 19 | 674 | 2.8 | http://littlesvr.ca/ostd/ | 
+ | [mate-desktop](/f21/package/mate-desktop) | 52 | 2396 | 2.2 | Turkmen (http://www.transifex.com/projects/p/MATE/language/tk/) | 
+ | [marco](/f21/package/marco) | 43 | 2187 | 2.0 | Turkmen (http://www.transifex.com/projects/p/MATE/language/tk/) | 
+ | [gedit-plugins](/f21/package/gedit-plugins) | 20 | 1205 | 1.7 | Turkmen <kakilikgroup@yahoo.com> | 
+ | [gtk2](/f21/package/gtk2) | 215 | 13704 | 1.6 | Turkmen <kakilikgroup@yahoo.com> | 
+ | [mingw-gtk2](/f21/package/mingw-gtk2) | 215 | 13704 | 1.6 | Turkmen <kakilikgroup@yahoo.com> | 
+ | [rodent](/f21/package/rodent) | 100 | 9634 | 1.0 | Turkmen <kakilikgroup@yahoo.com> | 
+ | [metacity](/f21/package/metacity) | 49 | 6919 | 0.7 | Turkmen <kakilikgroup@yahoo.com> | 
+ | [muffin](/f21/package/muffin) | 49 | 6919 | 0.7 | Turkmen <kakilikgroup@yahoo.com> | 
+ | [mutter](/f21/package/mutter) | 49 | 6919 | 0.7 | Turkmen <kakilikgroup@yahoo.com> | 
+ | [gtk3](/f21/package/gtk3) | 79 | 11853 | 0.7 | Turkmen <kakilikgroup@yahoo.com> | 
+ | [mingw-gtk3](/f21/package/mingw-gtk3) | 79 | 11853 | 0.7 | Turkmen <kakilikgroup@yahoo.com> | 
+ | [cinnamon-session](/f21/package/cinnamon-session) | 1 | 432 | 0.2 | Turkmen <kakilikgroup@yahoo.com> | 
+ | [cinnamon-desktop](/f21/package/cinnamon-desktop) | 0 | 231 | 0.0 | Turkmen <kakilikgroup@yahoo.com> | 
+ | [vidalia](/f21/package/vidalia) | 0 | 10369 | 0.0 | translations@vidalia-project.net | 
 {.sortable}
 
 

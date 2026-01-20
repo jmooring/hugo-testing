@@ -18,41 +18,41 @@ The package nano (version 4.9.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f32/language/ca.md" >}}) | 3332 | 3332 | 100.0 | /mnt/stockage/packages/f32/nano/po/ca.po | 
- | [cs]({{< ref "/f32/language/cs.md" >}}) | 3332 | 3332 | 100.0 | /mnt/stockage/packages/f32/nano/po/cs.po | 
- | [de]({{< ref "/f32/language/de.md" >}}) | 3332 | 3332 | 100.0 | /mnt/stockage/packages/f32/nano/po/de.po | 
- | [eo]({{< ref "/f32/language/eo.md" >}}) | 3332 | 3332 | 100.0 | /mnt/stockage/packages/f32/nano/po/eo.po | 
- | [es]({{< ref "/f32/language/es.md" >}}) | 3332 | 3332 | 100.0 | /mnt/stockage/packages/f32/nano/po/es.po | 
- | [fr]({{< ref "/f32/language/fr.md" >}}) | 3332 | 3332 | 100.0 | /mnt/stockage/packages/f32/nano/po/fr.po | 
- | [hr]({{< ref "/f32/language/hr.md" >}}) | 3332 | 3332 | 100.0 | /mnt/stockage/packages/f32/nano/po/hr.po | 
- | [ja]({{< ref "/f32/language/ja.md" >}}) | 3332 | 3332 | 100.0 | /mnt/stockage/packages/f32/nano/po/ja.po | 
- | [nb_NO]({{< ref "/f32/language/nb_NO.md" >}}) | 3332 | 3332 | 100.0 | /mnt/stockage/packages/f32/nano/po/nb.po | 
- | [nl]({{< ref "/f32/language/nl.md" >}}) | 3332 | 3332 | 100.0 | /mnt/stockage/packages/f32/nano/po/nl.po | 
- | [pt]({{< ref "/f32/language/pt.md" >}}) | 3332 | 3332 | 100.0 | /mnt/stockage/packages/f32/nano/po/pt.po | 
- | [pt_BR]({{< ref "/f32/language/pt_BR.md" >}}) | 3332 | 3332 | 100.0 | /mnt/stockage/packages/f32/nano/po/pt_BR.po | 
- | [ro]({{< ref "/f32/language/ro.md" >}}) | 3332 | 3332 | 100.0 | /mnt/stockage/packages/f32/nano/po/ro.po | 
- | [tr]({{< ref "/f32/language/tr.md" >}}) | 3332 | 3332 | 100.0 | /mnt/stockage/packages/f32/nano/po/tr.po | 
- | [uk]({{< ref "/f32/language/uk.md" >}}) | 3332 | 3332 | 100.0 | /mnt/stockage/packages/f32/nano/po/uk.po | 
- | [zh_Hans]({{< ref "/f32/language/zh_Hans.md" >}}) | 3332 | 3332 | 100.0 | /mnt/stockage/packages/f32/nano/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f32/language/zh_Hant.md" >}}) | 3332 | 3332 | 100.0 | /mnt/stockage/packages/f32/nano/po/zh_TW.po | 
- | [ko]({{< ref "/f32/language/ko.md" >}}) | 3215 | 3332 | 96.5 | /mnt/stockage/packages/f32/nano/po/ko.po | 
- | [sv]({{< ref "/f32/language/sv.md" >}}) | 3196 | 3332 | 95.9 | /mnt/stockage/packages/f32/nano/po/sv.po | 
- | [da]({{< ref "/f32/language/da.md" >}}) | 3161 | 3332 | 94.9 | /mnt/stockage/packages/f32/nano/po/da.po | 
- | [pl]({{< ref "/f32/language/pl.md" >}}) | 3160 | 3332 | 94.8 | /mnt/stockage/packages/f32/nano/po/pl.po | 
- | [vi]({{< ref "/f32/language/vi.md" >}}) | 2928 | 3332 | 87.9 | /mnt/stockage/packages/f32/nano/po/vi.po | 
- | [it]({{< ref "/f32/language/it.md" >}}) | 2927 | 3332 | 87.8 | /mnt/stockage/packages/f32/nano/po/it.po | 
- | [ga]({{< ref "/f32/language/ga.md" >}}) | 2618 | 3332 | 78.6 | /mnt/stockage/packages/f32/nano/po/ga.po | 
- | [hu]({{< ref "/f32/language/hu.md" >}}) | 2618 | 3332 | 78.6 | /mnt/stockage/packages/f32/nano/po/hu.po | 
- | [sr]({{< ref "/f32/language/sr.md" >}}) | 2618 | 3332 | 78.6 | /mnt/stockage/packages/f32/nano/po/sr.po | 
- | [fi]({{< ref "/f32/language/fi.md" >}}) | 2268 | 3332 | 68.1 | /mnt/stockage/packages/f32/nano/po/fi.po | 
- | [gl]({{< ref "/f32/language/gl.md" >}}) | 2232 | 3332 | 67.0 | /mnt/stockage/packages/f32/nano/po/gl.po | 
- | [ru]({{< ref "/f32/language/ru.md" >}}) | 1830 | 3332 | 54.9 | /mnt/stockage/packages/f32/nano/po/ru.po | 
- | [ms]({{< ref "/f32/language/ms.md" >}}) | 1802 | 3332 | 54.1 | /mnt/stockage/packages/f32/nano/po/ms.po | 
- | [sl]({{< ref "/f32/language/sl.md" >}}) | 1649 | 3332 | 49.5 | /mnt/stockage/packages/f32/nano/po/sl.po | 
- | [bg]({{< ref "/f32/language/bg.md" >}}) | 1504 | 3332 | 45.1 | /mnt/stockage/packages/f32/nano/po/bg.po | 
- | [eu]({{< ref "/f32/language/eu.md" >}}) | 1290 | 3332 | 38.7 | /mnt/stockage/packages/f32/nano/po/eu.po | 
- | [id]({{< ref "/f32/language/id.md" >}}) | 486 | 3332 | 14.6 | /mnt/stockage/packages/f32/nano/po/id.po | 
- | [nn]({{< ref "/f32/language/nn.md" >}}) | 211 | 3332 | 6.3 | /mnt/stockage/packages/f32/nano/po/nn.po | 
+ | [ca](/f32/language/ca) | 3332 | 3332 | 100.0 | /mnt/stockage/packages/f32/nano/po/ca.po | 
+ | [cs](/f32/language/cs) | 3332 | 3332 | 100.0 | /mnt/stockage/packages/f32/nano/po/cs.po | 
+ | [de](/f32/language/de) | 3332 | 3332 | 100.0 | /mnt/stockage/packages/f32/nano/po/de.po | 
+ | [eo](/f32/language/eo) | 3332 | 3332 | 100.0 | /mnt/stockage/packages/f32/nano/po/eo.po | 
+ | [es](/f32/language/es) | 3332 | 3332 | 100.0 | /mnt/stockage/packages/f32/nano/po/es.po | 
+ | [fr](/f32/language/fr) | 3332 | 3332 | 100.0 | /mnt/stockage/packages/f32/nano/po/fr.po | 
+ | [hr](/f32/language/hr) | 3332 | 3332 | 100.0 | /mnt/stockage/packages/f32/nano/po/hr.po | 
+ | [ja](/f32/language/ja) | 3332 | 3332 | 100.0 | /mnt/stockage/packages/f32/nano/po/ja.po | 
+ | [nb_NO](/f32/language/nb_NO) | 3332 | 3332 | 100.0 | /mnt/stockage/packages/f32/nano/po/nb.po | 
+ | [nl](/f32/language/nl) | 3332 | 3332 | 100.0 | /mnt/stockage/packages/f32/nano/po/nl.po | 
+ | [pt](/f32/language/pt) | 3332 | 3332 | 100.0 | /mnt/stockage/packages/f32/nano/po/pt.po | 
+ | [pt_BR](/f32/language/pt_BR) | 3332 | 3332 | 100.0 | /mnt/stockage/packages/f32/nano/po/pt_BR.po | 
+ | [ro](/f32/language/ro) | 3332 | 3332 | 100.0 | /mnt/stockage/packages/f32/nano/po/ro.po | 
+ | [tr](/f32/language/tr) | 3332 | 3332 | 100.0 | /mnt/stockage/packages/f32/nano/po/tr.po | 
+ | [uk](/f32/language/uk) | 3332 | 3332 | 100.0 | /mnt/stockage/packages/f32/nano/po/uk.po | 
+ | [zh_Hans](/f32/language/zh_Hans) | 3332 | 3332 | 100.0 | /mnt/stockage/packages/f32/nano/po/zh_CN.po | 
+ | [zh_Hant](/f32/language/zh_Hant) | 3332 | 3332 | 100.0 | /mnt/stockage/packages/f32/nano/po/zh_TW.po | 
+ | [ko](/f32/language/ko) | 3215 | 3332 | 96.5 | /mnt/stockage/packages/f32/nano/po/ko.po | 
+ | [sv](/f32/language/sv) | 3196 | 3332 | 95.9 | /mnt/stockage/packages/f32/nano/po/sv.po | 
+ | [da](/f32/language/da) | 3161 | 3332 | 94.9 | /mnt/stockage/packages/f32/nano/po/da.po | 
+ | [pl](/f32/language/pl) | 3160 | 3332 | 94.8 | /mnt/stockage/packages/f32/nano/po/pl.po | 
+ | [vi](/f32/language/vi) | 2928 | 3332 | 87.9 | /mnt/stockage/packages/f32/nano/po/vi.po | 
+ | [it](/f32/language/it) | 2927 | 3332 | 87.8 | /mnt/stockage/packages/f32/nano/po/it.po | 
+ | [ga](/f32/language/ga) | 2618 | 3332 | 78.6 | /mnt/stockage/packages/f32/nano/po/ga.po | 
+ | [hu](/f32/language/hu) | 2618 | 3332 | 78.6 | /mnt/stockage/packages/f32/nano/po/hu.po | 
+ | [sr](/f32/language/sr) | 2618 | 3332 | 78.6 | /mnt/stockage/packages/f32/nano/po/sr.po | 
+ | [fi](/f32/language/fi) | 2268 | 3332 | 68.1 | /mnt/stockage/packages/f32/nano/po/fi.po | 
+ | [gl](/f32/language/gl) | 2232 | 3332 | 67.0 | /mnt/stockage/packages/f32/nano/po/gl.po | 
+ | [ru](/f32/language/ru) | 1830 | 3332 | 54.9 | /mnt/stockage/packages/f32/nano/po/ru.po | 
+ | [ms](/f32/language/ms) | 1802 | 3332 | 54.1 | /mnt/stockage/packages/f32/nano/po/ms.po | 
+ | [sl](/f32/language/sl) | 1649 | 3332 | 49.5 | /mnt/stockage/packages/f32/nano/po/sl.po | 
+ | [bg](/f32/language/bg) | 1504 | 3332 | 45.1 | /mnt/stockage/packages/f32/nano/po/bg.po | 
+ | [eu](/f32/language/eu) | 1290 | 3332 | 38.7 | /mnt/stockage/packages/f32/nano/po/eu.po | 
+ | [id](/f32/language/id) | 486 | 3332 | 14.6 | /mnt/stockage/packages/f32/nano/po/id.po | 
+ | [nn](/f32/language/nn) | 211 | 3332 | 6.3 | /mnt/stockage/packages/f32/nano/po/nn.po | 
 {.sortable}
 
 

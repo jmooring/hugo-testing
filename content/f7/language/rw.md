@@ -40,195 +40,195 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [gnome-spell]({{< ref "/f7/package/gnome-spell.md" >}}) | 41 | 87 | 47.1 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
- | [libgnomecups]({{< ref "/f7/package/libgnomecups.md" >}}) | 5 | 11 | 45.5 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
- | [dialog]({{< ref "/f7/package/dialog.md" >}}) | 11 | 25 | 44.0 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
- | [libkexif]({{< ref "/f7/package/libkexif.md" >}}) | 9 | 25 | 36.0 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
- | [gnome-icon-theme]({{< ref "/f7/package/gnome-icon-theme.md" >}}) | 18 | 53 | 34.0 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
- | [gucharmap]({{< ref "/f7/package/gucharmap.md" >}}) | 151 | 507 | 29.8 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
- | [gtkspell]({{< ref "/f7/package/gtkspell.md" >}}) | 3 | 11 | 27.3 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
- | [iso-codes]({{< ref "/f7/package/iso-codes.md" >}}) | 2416 | 12637 | 19.1 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
- | [libkipi]({{< ref "/f7/package/libkipi.md" >}}) | 12 | 83 | 14.5 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
- | [libgnomeprint22]({{< ref "/f7/package/libgnomeprint22.md" >}}) | 24 | 168 | 14.3 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
- | [gnome-menus]({{< ref "/f7/package/gnome-menus.md" >}}) | 8 | 68 | 11.8 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
- | [libgnomeprintui22]({{< ref "/f7/package/libgnomeprintui22.md" >}}) | 43 | 427 | 10.1 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
- | [dasher]({{< ref "/f7/package/dasher.md" >}}) | 42 | 423 | 9.9 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
- | [skencil]({{< ref "/f7/package/skencil.md" >}}) | 145 | 1487 | 9.8 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
- | [galeon]({{< ref "/f7/package/galeon.md" >}}) | 539 | 5735 | 9.4 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
- | [gtkhtml3]({{< ref "/f7/package/gtkhtml3.md" >}}) | 82 | 949 | 8.6 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
- | [gtkhtml38]({{< ref "/f7/package/gtkhtml38.md" >}}) | 82 | 949 | 8.6 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
- | [gwenview]({{< ref "/f7/package/gwenview.md" >}}) | 110 | 1321 | 8.3 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
- | [kdebluetooth]({{< ref "/f7/package/kdebluetooth.md" >}}) | 124 | 1517 | 8.2 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
- | [epiphany]({{< ref "/f7/package/epiphany.md" >}}) | 251 | 3220 | 7.8 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
- | [epiphany-extensions]({{< ref "/f7/package/epiphany-extensions.md" >}}) | 54 | 694 | 7.8 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
- | [gwget]({{< ref "/f7/package/gwget.md" >}}) | 32 | 458 | 7.0 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
- | [gtksourceview]({{< ref "/f7/package/gtksourceview.md" >}}) | 48 | 725 | 6.6 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
- | [glom]({{< ref "/f7/package/glom.md" >}}) | 24 | 363 | 6.6 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
- | [libgnomecanvas]({{< ref "/f7/package/libgnomecanvas.md" >}}) | 23 | 357 | 6.4 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
- | [knemo]({{< ref "/f7/package/knemo.md" >}}) | 39 | 613 | 6.4 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
- | [pybliographer]({{< ref "/f7/package/pybliographer.md" >}}) | 49 | 798 | 6.1 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
- | [gnome-build]({{< ref "/f7/package/gnome-build.md" >}}) | 12 | 203 | 5.9 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
- | [gedit]({{< ref "/f7/package/gedit.md" >}}) | 244 | 4206 | 5.8 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
- | [gcalctool]({{< ref "/f7/package/gcalctool.md" >}}) | 53 | 915 | 5.8 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
- | [xkeyboard-config]({{< ref "/f7/package/xkeyboard-config.md" >}}) | 70 | 1259 | 5.6 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
- | [bakery]({{< ref "/f7/package/bakery.md" >}}) | 4 | 72 | 5.6 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
- | [jpilot]({{< ref "/f7/package/jpilot.md" >}}) | 122 | 2237 | 5.5 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
- | [kmplayer]({{< ref "/f7/package/kmplayer.md" >}}) | 68 | 1251 | 5.4 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
- | [kftpgrabber]({{< ref "/f7/package/kftpgrabber.md" >}}) | 121 | 2237 | 5.4 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
- | [eog]({{< ref "/f7/package/eog.md" >}}) | 36 | 667 | 5.4 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
- | [digikamimageplugins]({{< ref "/f7/package/digikamimageplugins.md" >}}) | 309 | 5728 | 5.4 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
- | [evolution]({{< ref "/f7/package/evolution.md" >}}) | 874 | 17202 | 5.1 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
- | [monkey-bubble]({{< ref "/f7/package/monkey-bubble.md" >}}) | 15 | 309 | 4.9 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
- | [ghex]({{< ref "/f7/package/ghex.md" >}}) | 46 | 966 | 4.8 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
- | [gok]({{< ref "/f7/package/gok.md" >}}) | 88 | 1873 | 4.7 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
- | [gnome-desktop]({{< ref "/f7/package/gnome-desktop.md" >}}) | 15 | 320 | 4.7 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
- | [planner]({{< ref "/f7/package/planner.md" >}}) | 76 | 1625 | 4.7 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
- | [dia]({{< ref "/f7/package/dia.md" >}}) | 266 | 5711 | 4.7 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
- | [gnome-nettool]({{< ref "/f7/package/gnome-nettool.md" >}}) | 24 | 520 | 4.6 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
- | [gnome-keyring-manager]({{< ref "/f7/package/gnome-keyring-manager.md" >}}) | 18 | 413 | 4.4 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
- | [yelp]({{< ref "/f7/package/yelp.md" >}}) | 26 | 597 | 4.4 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
- | [f-spot]({{< ref "/f7/package/f-spot.md" >}}) | 41 | 970 | 4.2 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
- | [gthumb]({{< ref "/f7/package/gthumb.md" >}}) | 109 | 2595 | 4.2 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
- | [evince]({{< ref "/f7/package/evince.md" >}}) | 25 | 599 | 4.2 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
- | [desktop-printing]({{< ref "/f7/package/desktop-printing.md" >}}) | 14 | 344 | 4.1 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
- | [gnome-bluetooth]({{< ref "/f7/package/gnome-bluetooth.md" >}}) | 17 | 435 | 3.9 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
- | [glunarclock]({{< ref "/f7/package/glunarclock.md" >}}) | 9 | 231 | 3.9 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
- | [libbonoboui]({{< ref "/f7/package/libbonoboui.md" >}}) | 14 | 360 | 3.9 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
- | [eel2]({{< ref "/f7/package/eel2.md" >}}) | 9 | 235 | 3.8 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
- | [gnome-phone-manager]({{< ref "/f7/package/gnome-phone-manager.md" >}}) | 19 | 502 | 3.8 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
- | [tuxpaint]({{< ref "/f7/package/tuxpaint.md" >}}) | 22 | 587 | 3.7 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
- | [libgtop2]({{< ref "/f7/package/libgtop2.md" >}}) | 5 | 134 | 3.7 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
- | [blam]({{< ref "/f7/package/blam.md" >}}) | 12 | 322 | 3.7 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
- | [ksynaptics]({{< ref "/f7/package/ksynaptics.md" >}}) | 24 | 655 | 3.7 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
- | [straw]({{< ref "/f7/package/straw.md" >}}) | 19 | 521 | 3.6 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
- | [kst]({{< ref "/f7/package/kst.md" >}}) | 258 | 7108 | 3.6 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
- | [gnome-system-monitor]({{< ref "/f7/package/gnome-system-monitor.md" >}}) | 22 | 610 | 3.6 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
- | [gconf-editor]({{< ref "/f7/package/gconf-editor.md" >}}) | 12 | 334 | 3.6 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
- | [gail]({{< ref "/f7/package/gail.md" >}}) | 6 | 170 | 3.5 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
- | [anjuta]({{< ref "/f7/package/anjuta.md" >}}) | 238 | 7069 | 3.4 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
- | [kdetv]({{< ref "/f7/package/kdetv.md" >}}) | 74 | 2206 | 3.4 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
- | [meld]({{< ref "/f7/package/meld.md" >}}) | 32 | 956 | 3.3 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
- | [zenity]({{< ref "/f7/package/zenity.md" >}}) | 13 | 394 | 3.3 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
- | [gnome-user-share]({{< ref "/f7/package/gnome-user-share.md" >}}) | 2 | 61 | 3.3 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
- | [soundtracker]({{< ref "/f7/package/soundtracker.md" >}}) | 54 | 1648 | 3.3 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
- | [anjuta-gdl]({{< ref "/f7/package/anjuta-gdl.md" >}}) | 21 | 686 | 3.1 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
- | [libgdl]({{< ref "/f7/package/libgdl.md" >}}) | 21 | 686 | 3.1 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
- | [gnome-netstatus]({{< ref "/f7/package/gnome-netstatus.md" >}}) | 13 | 425 | 3.1 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
- | [gnome-doc-utils]({{< ref "/f7/package/gnome-doc-utils.md" >}}) | 6 | 199 | 3.0 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
- | [libgda]({{< ref "/f7/package/libgda.md" >}}) | 67 | 2293 | 2.9 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
- | [libgnomeui]({{< ref "/f7/package/libgnomeui.md" >}}) | 41 | 1419 | 2.9 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
- | [drivel]({{< ref "/f7/package/drivel.md" >}}) | 26 | 905 | 2.9 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
- | [gimp]({{< ref "/f7/package/gimp.md" >}}) | 599 | 21336 | 2.8 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
- | [gnome-media]({{< ref "/f7/package/gnome-media.md" >}}) | 50 | 1795 | 2.8 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
- | [gliv]({{< ref "/f7/package/gliv.md" >}}) | 28 | 1008 | 2.8 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
- | [libgnomedb]({{< ref "/f7/package/libgnomedb.md" >}}) | 86 | 3104 | 2.8 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
- | [glade2]({{< ref "/f7/package/glade2.md" >}}) | 161 | 5840 | 2.8 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
- | [libwnck]({{< ref "/f7/package/libwnck.md" >}}) | 2 | 73 | 2.7 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
- | [balsa]({{< ref "/f7/package/balsa.md" >}}) | 136 | 5348 | 2.5 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
- | [gnomeradio]({{< ref "/f7/package/gnomeradio.md" >}}) | 11 | 443 | 2.5 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
- | [gnome-session]({{< ref "/f7/package/gnome-session.md" >}}) | 13 | 533 | 2.4 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
- | [regexxer]({{< ref "/f7/package/regexxer.md" >}}) | 11 | 467 | 2.4 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
- | [libidn]({{< ref "/f7/package/libidn.md" >}}) | 5 | 215 | 2.3 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
- | [krecipes]({{< ref "/f7/package/krecipes.md" >}}) | 68 | 2940 | 2.3 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
- | [gcompris]({{< ref "/f7/package/gcompris.md" >}}) | 111 | 4916 | 2.3 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
- | [evolution-webcal]({{< ref "/f7/package/evolution-webcal.md" >}}) | 4 | 180 | 2.2 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
- | [rhythmbox]({{< ref "/f7/package/rhythmbox.md" >}}) | 35 | 1618 | 2.2 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
- | [totem]({{< ref "/f7/package/totem.md" >}}) | 33 | 1532 | 2.2 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
- | [evolution-connector]({{< ref "/f7/package/evolution-connector.md" >}}) | 40 | 1908 | 2.1 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
- | [gparted]({{< ref "/f7/package/gparted.md" >}}) | 16 | 767 | 2.1 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
- | [libextractor]({{< ref "/f7/package/libextractor.md" >}}) | 16 | 771 | 2.1 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
- | [file-roller]({{< ref "/f7/package/file-roller.md" >}}) | 20 | 971 | 2.1 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
- | [sabayon]({{< ref "/f7/package/sabayon.md" >}}) | 13 | 637 | 2.0 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
- | [gnome-blog]({{< ref "/f7/package/gnome-blog.md" >}}) | 7 | 349 | 2.0 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
- | [gnome-utils]({{< ref "/f7/package/gnome-utils.md" >}}) | 52 | 2616 | 2.0 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
- | [drgeo]({{< ref "/f7/package/drgeo.md" >}}) | 39 | 1985 | 2.0 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
- | [gnome-pilot]({{< ref "/f7/package/gnome-pilot.md" >}}) | 30 | 1580 | 1.9 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
- | [control-center]({{< ref "/f7/package/control-center.md" >}}) | 63 | 3382 | 1.9 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
- | [sound-juicer]({{< ref "/f7/package/sound-juicer.md" >}}) | 13 | 699 | 1.9 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
- | [nautilus-sendto]({{< ref "/f7/package/nautilus-sendto.md" >}}) | 1 | 54 | 1.9 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
- | [devhelp]({{< ref "/f7/package/devhelp.md" >}}) | 4 | 217 | 1.8 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
- | [kipi-plugins]({{< ref "/f7/package/kipi-plugins.md" >}}) | 169 | 9321 | 1.8 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
- | [alleyoop]({{< ref "/f7/package/alleyoop.md" >}}) | 6 | 342 | 1.8 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
- | [gnome-applets]({{< ref "/f7/package/gnome-applets.md" >}}) | 69 | 3956 | 1.7 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
- | [gnome-vfs2]({{< ref "/f7/package/gnome-vfs2.md" >}}) | 21 | 1282 | 1.6 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
- | [conglomerate]({{< ref "/f7/package/conglomerate.md" >}}) | 100 | 6317 | 1.6 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
- | [kile]({{< ref "/f7/package/kile.md" >}}) | 161 | 10421 | 1.5 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
- | [gnome-terminal]({{< ref "/f7/package/gnome-terminal.md" >}}) | 66 | 4403 | 1.5 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
- | [bug-buddy]({{< ref "/f7/package/bug-buddy.md" >}}) | 18 | 1228 | 1.5 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
- | [evolution-data-server]({{< ref "/f7/package/evolution-data-server.md" >}}) | 68 | 4689 | 1.5 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
- | [gnome-pilot-conduits]({{< ref "/f7/package/gnome-pilot-conduits.md" >}}) | 3 | 209 | 1.4 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
- | [nautilus]({{< ref "/f7/package/nautilus.md" >}}) | 100 | 6982 | 1.4 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
- | [ktorrent]({{< ref "/f7/package/ktorrent.md" >}}) | 51 | 3645 | 1.4 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
- | [kdiff3]({{< ref "/f7/package/kdiff3.md" >}}) | 41 | 2961 | 1.4 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
- | [gnubiff]({{< ref "/f7/package/gnubiff.md" >}}) | 16 | 1172 | 1.4 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
- | [gnome-mime-data]({{< ref "/f7/package/gnome-mime-data.md" >}}) | 12 | 887 | 1.4 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
- | [atk]({{< ref "/f7/package/atk.md" >}}) | 5 | 370 | 1.4 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
- | [kphotoalbum]({{< ref "/f7/package/kphotoalbum.md" >}}) | 79 | 5895 | 1.3 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
- | [nano]({{< ref "/f7/package/nano.md" >}}) | 30 | 2249 | 1.3 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
- | [seahorse]({{< ref "/f7/package/seahorse.md" >}}) | 30 | 2293 | 1.3 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
- | [gphoto2]({{< ref "/f7/package/gphoto2.md" >}}) | 17 | 1309 | 1.3 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
- | [gtk2]({{< ref "/f7/package/gtk2.md" >}}) | 150 | 11602 | 1.3 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
- | [k3b]({{< ref "/f7/package/k3b.md" >}}) | 242 | 20630 | 1.2 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
- | [aspell]({{< ref "/f7/package/aspell.md" >}}) | 20 | 1726 | 1.2 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
- | [ekiga]({{< ref "/f7/package/ekiga.md" >}}) | 66 | 5923 | 1.1 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
- | [amarok]({{< ref "/f7/package/amarok.md" >}}) | 146 | 13255 | 1.1 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
- | [gnome-commander]({{< ref "/f7/package/gnome-commander.md" >}}) | 86 | 7892 | 1.1 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
- | [gnome-schedule]({{< ref "/f7/package/gnome-schedule.md" >}}) | 12 | 1144 | 1.0 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
- | [gnome-panel]({{< ref "/f7/package/gnome-panel.md" >}}) | 41 | 3954 | 1.0 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
- | [gnucash]({{< ref "/f7/package/gnucash.md" >}}) | 247 | 24493 | 1.0 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
- | [gnome-themes]({{< ref "/f7/package/gnome-themes.md" >}}) | 1 | 101 | 1.0 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
- | [gnome-games]({{< ref "/f7/package/gnome-games.md" >}}) | 67 | 7066 | 0.9 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
- | [digikam]({{< ref "/f7/package/digikam.md" >}}) | 150 | 15937 | 0.9 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
- | [tomboy]({{< ref "/f7/package/tomboy.md" >}}) | 7 | 812 | 0.9 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
- | [muine]({{< ref "/f7/package/muine.md" >}}) | 4 | 476 | 0.8 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
- | [contact-lookup-applet]({{< ref "/f7/package/contact-lookup-applet.md" >}}) | 2 | 260 | 0.8 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
- | [gnumeric]({{< ref "/f7/package/gnumeric.md" >}}) | 322 | 43369 | 0.7 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
- | [gedit-plugins]({{< ref "/f7/package/gedit-plugins.md" >}}) | 2 | 281 | 0.7 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
- | [texinfo]({{< ref "/f7/package/texinfo.md" >}}) | 31 | 4581 | 0.7 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
- | [minicom]({{< ref "/f7/package/minicom.md" >}}) | 12 | 1787 | 0.7 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
- | [genius]({{< ref "/f7/package/genius.md" >}}) | 35 | 5398 | 0.6 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
- | [nautilus-cd-burner]({{< ref "/f7/package/nautilus-cd-burner.md" >}}) | 5 | 773 | 0.6 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
- | [inkscape]({{< ref "/f7/package/inkscape.md" >}}) | 70 | 11648 | 0.6 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
- | [gdm]({{< ref "/f7/package/gdm.md" >}}) | 28 | 5360 | 0.5 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
- | [tin]({{< ref "/f7/package/tin.md" >}}) | 49 | 9698 | 0.5 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
- | [jwhois]({{< ref "/f7/package/jwhois.md" >}}) | 2 | 401 | 0.5 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
- | [gdesklets]({{< ref "/f7/package/gdesklets.md" >}}) | 5 | 1110 | 0.5 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
- | [lynx]({{< ref "/f7/package/lynx.md" >}}) | 34 | 7931 | 0.4 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
- | [orca]({{< ref "/f7/package/orca.md" >}}) | 5 | 1304 | 0.4 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
- | [vino]({{< ref "/f7/package/vino.md" >}}) | 2 | 540 | 0.4 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
- | [parted]({{< ref "/f7/package/parted.md" >}}) | 17 | 4786 | 0.4 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
- | [bison]({{< ref "/f7/package/bison.md" >}}) | 3 | 888 | 0.3 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
- | [glibc]({{< ref "/f7/package/glibc.md" >}}) | 21 | 6327 | 0.3 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
- | [make]({{< ref "/f7/package/make.md" >}}) | 6 | 1997 | 0.3 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
- | [sharutils]({{< ref "/f7/package/sharutils.md" >}}) | 3 | 1039 | 0.3 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
- | [libgnome]({{< ref "/f7/package/libgnome.md" >}}) | 4 | 1407 | 0.3 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
- | [metacity]({{< ref "/f7/package/metacity.md" >}}) | 17 | 6919 | 0.2 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
- | [gnome-volume-manager]({{< ref "/f7/package/gnome-volume-manager.md" >}}) | 1 | 444 | 0.2 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
- | [e2fsprogs]({{< ref "/f7/package/e2fsprogs.md" >}}) | 11 | 4985 | 0.2 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
- | [libbonobo]({{< ref "/f7/package/libbonobo.md" >}}) | 1 | 524 | 0.2 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
- | [findutils]({{< ref "/f7/package/findutils.md" >}}) | 2 | 1235 | 0.2 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
- | [lilypond]({{< ref "/f7/package/lilypond.md" >}}) | 3 | 2461 | 0.1 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
- | [shared-mime-info]({{< ref "/f7/package/shared-mime-info.md" >}}) | 1 | 966 | 0.1 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
- | [NetworkManager]({{< ref "/f7/package/NetworkManager.md" >}}) | 1 | 993 | 0.1 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
- | [avr-binutils]({{< ref "/f7/package/avr-binutils.md" >}}) | 14 | 14492 | 0.1 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
- | [binutils]({{< ref "/f7/package/binutils.md" >}}) | 14 | 14492 | 0.1 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
- | [glib2]({{< ref "/f7/package/glib2.md" >}}) | 1 | 1213 | 0.1 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
- | [GConf2]({{< ref "/f7/package/GConf2.md" >}}) | 3 | 3954 | 0.1 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
- | [coreutils]({{< ref "/f7/package/coreutils.md" >}}) | 8 | 15982 | 0.1 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
- | [avr-gdb]({{< ref "/f7/package/avr-gdb.md" >}}) | 2 | 4098 | 0.0 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
- | [gdb]({{< ref "/f7/package/gdb.md" >}}) | 2 | 4098 | 0.0 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
- | [gawk]({{< ref "/f7/package/gawk.md" >}}) | 1 | 2443 | 0.0 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
- | [compat-gcc-34]({{< ref "/f7/package/compat-gcc-34.md" >}}) | 10 | 30879 | 0.0 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
- | [arm-gp2x-linux-gcc]({{< ref "/f7/package/arm-gp2x-linux-gcc.md" >}}) | 0 | 41043 | 0.0 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
- | [at-spi]({{< ref "/f7/package/at-spi.md" >}}) | 0 | 4 | 0.0 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
- | [avr-gcc]({{< ref "/f7/package/avr-gcc.md" >}}) | 0 | 41043 | 0.0 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
- | [gcc]({{< ref "/f7/package/gcc.md" >}}) | 0 | 41043 | 0.0 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
- | [ghdl]({{< ref "/f7/package/ghdl.md" >}}) | 0 | 41043 | 0.0 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
- | [gnome-backgrounds]({{< ref "/f7/package/gnome-backgrounds.md" >}}) | 0 | 35 | 0.0 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
- | [gnome-keyring]({{< ref "/f7/package/gnome-keyring.md" >}}) | 0 | 711 | 0.0 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
- | [gnome-mag]({{< ref "/f7/package/gnome-mag.md" >}}) | 0 | 5 | 0.0 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
- | [nautilus-open-terminal]({{< ref "/f7/package/nautilus-open-terminal.md" >}}) | 0 | 16 | 0.0 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
- | [vte]({{< ref "/f7/package/vte.md" >}}) | 0 | 96 | 0.0 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
+ | [gnome-spell](/f7/package/gnome-spell) | 41 | 87 | 47.1 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
+ | [libgnomecups](/f7/package/libgnomecups) | 5 | 11 | 45.5 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
+ | [dialog](/f7/package/dialog) | 11 | 25 | 44.0 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
+ | [libkexif](/f7/package/libkexif) | 9 | 25 | 36.0 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
+ | [gnome-icon-theme](/f7/package/gnome-icon-theme) | 18 | 53 | 34.0 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
+ | [gucharmap](/f7/package/gucharmap) | 151 | 507 | 29.8 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
+ | [gtkspell](/f7/package/gtkspell) | 3 | 11 | 27.3 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
+ | [iso-codes](/f7/package/iso-codes) | 2416 | 12637 | 19.1 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
+ | [libkipi](/f7/package/libkipi) | 12 | 83 | 14.5 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
+ | [libgnomeprint22](/f7/package/libgnomeprint22) | 24 | 168 | 14.3 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
+ | [gnome-menus](/f7/package/gnome-menus) | 8 | 68 | 11.8 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
+ | [libgnomeprintui22](/f7/package/libgnomeprintui22) | 43 | 427 | 10.1 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
+ | [dasher](/f7/package/dasher) | 42 | 423 | 9.9 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
+ | [skencil](/f7/package/skencil) | 145 | 1487 | 9.8 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
+ | [galeon](/f7/package/galeon) | 539 | 5735 | 9.4 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
+ | [gtkhtml3](/f7/package/gtkhtml3) | 82 | 949 | 8.6 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
+ | [gtkhtml38](/f7/package/gtkhtml38) | 82 | 949 | 8.6 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
+ | [gwenview](/f7/package/gwenview) | 110 | 1321 | 8.3 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
+ | [kdebluetooth](/f7/package/kdebluetooth) | 124 | 1517 | 8.2 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
+ | [epiphany](/f7/package/epiphany) | 251 | 3220 | 7.8 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
+ | [epiphany-extensions](/f7/package/epiphany-extensions) | 54 | 694 | 7.8 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
+ | [gwget](/f7/package/gwget) | 32 | 458 | 7.0 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
+ | [gtksourceview](/f7/package/gtksourceview) | 48 | 725 | 6.6 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
+ | [glom](/f7/package/glom) | 24 | 363 | 6.6 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
+ | [libgnomecanvas](/f7/package/libgnomecanvas) | 23 | 357 | 6.4 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
+ | [knemo](/f7/package/knemo) | 39 | 613 | 6.4 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
+ | [pybliographer](/f7/package/pybliographer) | 49 | 798 | 6.1 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
+ | [gnome-build](/f7/package/gnome-build) | 12 | 203 | 5.9 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
+ | [gedit](/f7/package/gedit) | 244 | 4206 | 5.8 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
+ | [gcalctool](/f7/package/gcalctool) | 53 | 915 | 5.8 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
+ | [xkeyboard-config](/f7/package/xkeyboard-config) | 70 | 1259 | 5.6 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
+ | [bakery](/f7/package/bakery) | 4 | 72 | 5.6 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
+ | [jpilot](/f7/package/jpilot) | 122 | 2237 | 5.5 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
+ | [kmplayer](/f7/package/kmplayer) | 68 | 1251 | 5.4 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
+ | [kftpgrabber](/f7/package/kftpgrabber) | 121 | 2237 | 5.4 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
+ | [eog](/f7/package/eog) | 36 | 667 | 5.4 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
+ | [digikamimageplugins](/f7/package/digikamimageplugins) | 309 | 5728 | 5.4 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
+ | [evolution](/f7/package/evolution) | 874 | 17202 | 5.1 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
+ | [monkey-bubble](/f7/package/monkey-bubble) | 15 | 309 | 4.9 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
+ | [ghex](/f7/package/ghex) | 46 | 966 | 4.8 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
+ | [gok](/f7/package/gok) | 88 | 1873 | 4.7 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
+ | [gnome-desktop](/f7/package/gnome-desktop) | 15 | 320 | 4.7 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
+ | [planner](/f7/package/planner) | 76 | 1625 | 4.7 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
+ | [dia](/f7/package/dia) | 266 | 5711 | 4.7 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
+ | [gnome-nettool](/f7/package/gnome-nettool) | 24 | 520 | 4.6 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
+ | [gnome-keyring-manager](/f7/package/gnome-keyring-manager) | 18 | 413 | 4.4 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
+ | [yelp](/f7/package/yelp) | 26 | 597 | 4.4 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
+ | [f-spot](/f7/package/f-spot) | 41 | 970 | 4.2 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
+ | [gthumb](/f7/package/gthumb) | 109 | 2595 | 4.2 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
+ | [evince](/f7/package/evince) | 25 | 599 | 4.2 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
+ | [desktop-printing](/f7/package/desktop-printing) | 14 | 344 | 4.1 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
+ | [gnome-bluetooth](/f7/package/gnome-bluetooth) | 17 | 435 | 3.9 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
+ | [glunarclock](/f7/package/glunarclock) | 9 | 231 | 3.9 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
+ | [libbonoboui](/f7/package/libbonoboui) | 14 | 360 | 3.9 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
+ | [eel2](/f7/package/eel2) | 9 | 235 | 3.8 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
+ | [gnome-phone-manager](/f7/package/gnome-phone-manager) | 19 | 502 | 3.8 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
+ | [tuxpaint](/f7/package/tuxpaint) | 22 | 587 | 3.7 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
+ | [libgtop2](/f7/package/libgtop2) | 5 | 134 | 3.7 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
+ | [blam](/f7/package/blam) | 12 | 322 | 3.7 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
+ | [ksynaptics](/f7/package/ksynaptics) | 24 | 655 | 3.7 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
+ | [straw](/f7/package/straw) | 19 | 521 | 3.6 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
+ | [kst](/f7/package/kst) | 258 | 7108 | 3.6 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
+ | [gnome-system-monitor](/f7/package/gnome-system-monitor) | 22 | 610 | 3.6 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
+ | [gconf-editor](/f7/package/gconf-editor) | 12 | 334 | 3.6 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
+ | [gail](/f7/package/gail) | 6 | 170 | 3.5 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
+ | [anjuta](/f7/package/anjuta) | 238 | 7069 | 3.4 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
+ | [kdetv](/f7/package/kdetv) | 74 | 2206 | 3.4 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
+ | [meld](/f7/package/meld) | 32 | 956 | 3.3 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
+ | [zenity](/f7/package/zenity) | 13 | 394 | 3.3 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
+ | [gnome-user-share](/f7/package/gnome-user-share) | 2 | 61 | 3.3 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
+ | [soundtracker](/f7/package/soundtracker) | 54 | 1648 | 3.3 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
+ | [anjuta-gdl](/f7/package/anjuta-gdl) | 21 | 686 | 3.1 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
+ | [libgdl](/f7/package/libgdl) | 21 | 686 | 3.1 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
+ | [gnome-netstatus](/f7/package/gnome-netstatus) | 13 | 425 | 3.1 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
+ | [gnome-doc-utils](/f7/package/gnome-doc-utils) | 6 | 199 | 3.0 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
+ | [libgda](/f7/package/libgda) | 67 | 2293 | 2.9 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
+ | [libgnomeui](/f7/package/libgnomeui) | 41 | 1419 | 2.9 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
+ | [drivel](/f7/package/drivel) | 26 | 905 | 2.9 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
+ | [gimp](/f7/package/gimp) | 599 | 21336 | 2.8 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
+ | [gnome-media](/f7/package/gnome-media) | 50 | 1795 | 2.8 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
+ | [gliv](/f7/package/gliv) | 28 | 1008 | 2.8 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
+ | [libgnomedb](/f7/package/libgnomedb) | 86 | 3104 | 2.8 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
+ | [glade2](/f7/package/glade2) | 161 | 5840 | 2.8 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
+ | [libwnck](/f7/package/libwnck) | 2 | 73 | 2.7 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
+ | [balsa](/f7/package/balsa) | 136 | 5348 | 2.5 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
+ | [gnomeradio](/f7/package/gnomeradio) | 11 | 443 | 2.5 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
+ | [gnome-session](/f7/package/gnome-session) | 13 | 533 | 2.4 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
+ | [regexxer](/f7/package/regexxer) | 11 | 467 | 2.4 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
+ | [libidn](/f7/package/libidn) | 5 | 215 | 2.3 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
+ | [krecipes](/f7/package/krecipes) | 68 | 2940 | 2.3 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
+ | [gcompris](/f7/package/gcompris) | 111 | 4916 | 2.3 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
+ | [evolution-webcal](/f7/package/evolution-webcal) | 4 | 180 | 2.2 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
+ | [rhythmbox](/f7/package/rhythmbox) | 35 | 1618 | 2.2 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
+ | [totem](/f7/package/totem) | 33 | 1532 | 2.2 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
+ | [evolution-connector](/f7/package/evolution-connector) | 40 | 1908 | 2.1 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
+ | [gparted](/f7/package/gparted) | 16 | 767 | 2.1 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
+ | [libextractor](/f7/package/libextractor) | 16 | 771 | 2.1 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
+ | [file-roller](/f7/package/file-roller) | 20 | 971 | 2.1 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
+ | [sabayon](/f7/package/sabayon) | 13 | 637 | 2.0 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
+ | [gnome-blog](/f7/package/gnome-blog) | 7 | 349 | 2.0 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
+ | [gnome-utils](/f7/package/gnome-utils) | 52 | 2616 | 2.0 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
+ | [drgeo](/f7/package/drgeo) | 39 | 1985 | 2.0 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
+ | [gnome-pilot](/f7/package/gnome-pilot) | 30 | 1580 | 1.9 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
+ | [control-center](/f7/package/control-center) | 63 | 3382 | 1.9 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
+ | [sound-juicer](/f7/package/sound-juicer) | 13 | 699 | 1.9 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
+ | [nautilus-sendto](/f7/package/nautilus-sendto) | 1 | 54 | 1.9 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
+ | [devhelp](/f7/package/devhelp) | 4 | 217 | 1.8 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
+ | [kipi-plugins](/f7/package/kipi-plugins) | 169 | 9321 | 1.8 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
+ | [alleyoop](/f7/package/alleyoop) | 6 | 342 | 1.8 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
+ | [gnome-applets](/f7/package/gnome-applets) | 69 | 3956 | 1.7 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
+ | [gnome-vfs2](/f7/package/gnome-vfs2) | 21 | 1282 | 1.6 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
+ | [conglomerate](/f7/package/conglomerate) | 100 | 6317 | 1.6 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
+ | [kile](/f7/package/kile) | 161 | 10421 | 1.5 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
+ | [gnome-terminal](/f7/package/gnome-terminal) | 66 | 4403 | 1.5 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
+ | [bug-buddy](/f7/package/bug-buddy) | 18 | 1228 | 1.5 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
+ | [evolution-data-server](/f7/package/evolution-data-server) | 68 | 4689 | 1.5 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
+ | [gnome-pilot-conduits](/f7/package/gnome-pilot-conduits) | 3 | 209 | 1.4 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
+ | [nautilus](/f7/package/nautilus) | 100 | 6982 | 1.4 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
+ | [ktorrent](/f7/package/ktorrent) | 51 | 3645 | 1.4 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
+ | [kdiff3](/f7/package/kdiff3) | 41 | 2961 | 1.4 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
+ | [gnubiff](/f7/package/gnubiff) | 16 | 1172 | 1.4 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
+ | [gnome-mime-data](/f7/package/gnome-mime-data) | 12 | 887 | 1.4 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
+ | [atk](/f7/package/atk) | 5 | 370 | 1.4 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
+ | [kphotoalbum](/f7/package/kphotoalbum) | 79 | 5895 | 1.3 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
+ | [nano](/f7/package/nano) | 30 | 2249 | 1.3 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
+ | [seahorse](/f7/package/seahorse) | 30 | 2293 | 1.3 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
+ | [gphoto2](/f7/package/gphoto2) | 17 | 1309 | 1.3 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
+ | [gtk2](/f7/package/gtk2) | 150 | 11602 | 1.3 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
+ | [k3b](/f7/package/k3b) | 242 | 20630 | 1.2 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
+ | [aspell](/f7/package/aspell) | 20 | 1726 | 1.2 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
+ | [ekiga](/f7/package/ekiga) | 66 | 5923 | 1.1 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
+ | [amarok](/f7/package/amarok) | 146 | 13255 | 1.1 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
+ | [gnome-commander](/f7/package/gnome-commander) | 86 | 7892 | 1.1 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
+ | [gnome-schedule](/f7/package/gnome-schedule) | 12 | 1144 | 1.0 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
+ | [gnome-panel](/f7/package/gnome-panel) | 41 | 3954 | 1.0 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
+ | [gnucash](/f7/package/gnucash) | 247 | 24493 | 1.0 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
+ | [gnome-themes](/f7/package/gnome-themes) | 1 | 101 | 1.0 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
+ | [gnome-games](/f7/package/gnome-games) | 67 | 7066 | 0.9 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
+ | [digikam](/f7/package/digikam) | 150 | 15937 | 0.9 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
+ | [tomboy](/f7/package/tomboy) | 7 | 812 | 0.9 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
+ | [muine](/f7/package/muine) | 4 | 476 | 0.8 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
+ | [contact-lookup-applet](/f7/package/contact-lookup-applet) | 2 | 260 | 0.8 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
+ | [gnumeric](/f7/package/gnumeric) | 322 | 43369 | 0.7 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
+ | [gedit-plugins](/f7/package/gedit-plugins) | 2 | 281 | 0.7 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
+ | [texinfo](/f7/package/texinfo) | 31 | 4581 | 0.7 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
+ | [minicom](/f7/package/minicom) | 12 | 1787 | 0.7 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
+ | [genius](/f7/package/genius) | 35 | 5398 | 0.6 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
+ | [nautilus-cd-burner](/f7/package/nautilus-cd-burner) | 5 | 773 | 0.6 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
+ | [inkscape](/f7/package/inkscape) | 70 | 11648 | 0.6 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
+ | [gdm](/f7/package/gdm) | 28 | 5360 | 0.5 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
+ | [tin](/f7/package/tin) | 49 | 9698 | 0.5 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
+ | [jwhois](/f7/package/jwhois) | 2 | 401 | 0.5 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
+ | [gdesklets](/f7/package/gdesklets) | 5 | 1110 | 0.5 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
+ | [lynx](/f7/package/lynx) | 34 | 7931 | 0.4 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
+ | [orca](/f7/package/orca) | 5 | 1304 | 0.4 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
+ | [vino](/f7/package/vino) | 2 | 540 | 0.4 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
+ | [parted](/f7/package/parted) | 17 | 4786 | 0.4 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
+ | [bison](/f7/package/bison) | 3 | 888 | 0.3 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
+ | [glibc](/f7/package/glibc) | 21 | 6327 | 0.3 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
+ | [make](/f7/package/make) | 6 | 1997 | 0.3 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
+ | [sharutils](/f7/package/sharutils) | 3 | 1039 | 0.3 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
+ | [libgnome](/f7/package/libgnome) | 4 | 1407 | 0.3 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
+ | [metacity](/f7/package/metacity) | 17 | 6919 | 0.2 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
+ | [gnome-volume-manager](/f7/package/gnome-volume-manager) | 1 | 444 | 0.2 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
+ | [e2fsprogs](/f7/package/e2fsprogs) | 11 | 4985 | 0.2 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
+ | [libbonobo](/f7/package/libbonobo) | 1 | 524 | 0.2 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
+ | [findutils](/f7/package/findutils) | 2 | 1235 | 0.2 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
+ | [lilypond](/f7/package/lilypond) | 3 | 2461 | 0.1 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
+ | [shared-mime-info](/f7/package/shared-mime-info) | 1 | 966 | 0.1 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
+ | [NetworkManager](/f7/package/NetworkManager) | 1 | 993 | 0.1 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
+ | [avr-binutils](/f7/package/avr-binutils) | 14 | 14492 | 0.1 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
+ | [binutils](/f7/package/binutils) | 14 | 14492 | 0.1 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
+ | [glib2](/f7/package/glib2) | 1 | 1213 | 0.1 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
+ | [GConf2](/f7/package/GConf2) | 3 | 3954 | 0.1 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
+ | [coreutils](/f7/package/coreutils) | 8 | 15982 | 0.1 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
+ | [avr-gdb](/f7/package/avr-gdb) | 2 | 4098 | 0.0 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
+ | [gdb](/f7/package/gdb) | 2 | 4098 | 0.0 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
+ | [gawk](/f7/package/gawk) | 1 | 2443 | 0.0 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
+ | [compat-gcc-34](/f7/package/compat-gcc-34) | 10 | 30879 | 0.0 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
+ | [arm-gp2x-linux-gcc](/f7/package/arm-gp2x-linux-gcc) | 0 | 41043 | 0.0 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
+ | [at-spi](/f7/package/at-spi) | 0 | 4 | 0.0 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
+ | [avr-gcc](/f7/package/avr-gcc) | 0 | 41043 | 0.0 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
+ | [gcc](/f7/package/gcc) | 0 | 41043 | 0.0 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
+ | [ghdl](/f7/package/ghdl) | 0 | 41043 | 0.0 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
+ | [gnome-backgrounds](/f7/package/gnome-backgrounds) | 0 | 35 | 0.0 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
+ | [gnome-keyring](/f7/package/gnome-keyring) | 0 | 711 | 0.0 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
+ | [gnome-mag](/f7/package/gnome-mag) | 0 | 5 | 0.0 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
+ | [nautilus-open-terminal](/f7/package/nautilus-open-terminal) | 0 | 16 | 0.0 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
+ | [vte](/f7/package/vte) | 0 | 96 | 0.0 | Kinyarwanda <translation-team-rw@lists.sourceforge.net> | 
 {.sortable}
 
 

@@ -18,12 +18,12 @@ The package ghemical (version 3.0.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f37/language/de.md" >}}) | 2178 | 2178 | 100.0 | /mnt/stockage/packages/f37/ghemical/po/de.po | 
- | [pt_BR]({{< ref "/f37/language/pt_BR.md" >}}) | 2161 | 2178 | 99.2 | /mnt/stockage/packages/f37/ghemical/po/pt_BR.po | 
- | [ru]({{< ref "/f37/language/ru.md" >}}) | 2082 | 2178 | 95.6 | /mnt/stockage/packages/f37/ghemical/po/ru.po | 
- | [mk]({{< ref "/f37/language/mk.md" >}}) | 1864 | 2178 | 85.6 | /mnt/stockage/packages/f37/ghemical/po/mk.po | 
- | [sq]({{< ref "/f37/language/sq.md" >}}) | 1864 | 2178 | 85.6 | /mnt/stockage/packages/f37/ghemical/po/sq.po | 
- | [fi]({{< ref "/f37/language/fi.md" >}}) | 1710 | 2178 | 78.5 | /mnt/stockage/packages/f37/ghemical/po/fi.po | 
+ | [de](/f37/language/de) | 2178 | 2178 | 100.0 | /mnt/stockage/packages/f37/ghemical/po/de.po | 
+ | [pt_BR](/f37/language/pt_BR) | 2161 | 2178 | 99.2 | /mnt/stockage/packages/f37/ghemical/po/pt_BR.po | 
+ | [ru](/f37/language/ru) | 2082 | 2178 | 95.6 | /mnt/stockage/packages/f37/ghemical/po/ru.po | 
+ | [mk](/f37/language/mk) | 1864 | 2178 | 85.6 | /mnt/stockage/packages/f37/ghemical/po/mk.po | 
+ | [sq](/f37/language/sq) | 1864 | 2178 | 85.6 | /mnt/stockage/packages/f37/ghemical/po/sq.po | 
+ | [fi](/f37/language/fi) | 1710 | 2178 | 78.5 | /mnt/stockage/packages/f37/ghemical/po/fi.po | 
 {.sortable}
 
 

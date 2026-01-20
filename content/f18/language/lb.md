@@ -38,16 +38,16 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [flaw]({{< ref "/f18/package/flaw.md" >}}) | 84 | 84 | 100.0 | LANGUAGE <LL@li.org> | 
- | [lightdm-gtk]({{< ref "/f18/package/lightdm-gtk.md" >}}) | 56 | 57 | 98.2 | Luxembourgish <lb@li.org> | 
- | [gnome-do]({{< ref "/f18/package/gnome-do.md" >}}) | 473 | 612 | 77.3 | Luxembourgish <lb@li.org> | 
- | [geany]({{< ref "/f18/package/geany.md" >}}) | 4386 | 5700 | 76.9 | Letzebuergesch | 
- | [gwibber]({{< ref "/f18/package/gwibber.md" >}}) | 460 | 769 | 59.8 | Luxembourgish <lb@li.org> | 
- | [lightdm]({{< ref "/f18/package/lightdm.md" >}}) | 42 | 79 | 53.2 | Luxembourgish <lb@li.org> | 
- | [owncloud]({{< ref "/f18/package/owncloud.md" >}}) | 867 | 2592 | 33.4 | Luxembourgish (http://www.transifex.com/projects/p/owncloud/language/lb/) | 
- | [libreoffice]({{< ref "/f18/package/libreoffice.md" >}}) | 11035 | 531878 | 2.1 | LANGUAGE <LL@li.org> | 
- | [stellarium]({{< ref "/f18/package/stellarium.md" >}}) | 2 | 11181 | 0.0 | Luxembourgish <lb@li.org> | 
- | [vidalia]({{< ref "/f18/package/vidalia.md" >}}) | 0 | 10369 | 0.0 | translations@vidalia-project.net | 
+ | [flaw](/f18/package/flaw) | 84 | 84 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [lightdm-gtk](/f18/package/lightdm-gtk) | 56 | 57 | 98.2 | Luxembourgish <lb@li.org> | 
+ | [gnome-do](/f18/package/gnome-do) | 473 | 612 | 77.3 | Luxembourgish <lb@li.org> | 
+ | [geany](/f18/package/geany) | 4386 | 5700 | 76.9 | Letzebuergesch | 
+ | [gwibber](/f18/package/gwibber) | 460 | 769 | 59.8 | Luxembourgish <lb@li.org> | 
+ | [lightdm](/f18/package/lightdm) | 42 | 79 | 53.2 | Luxembourgish <lb@li.org> | 
+ | [owncloud](/f18/package/owncloud) | 867 | 2592 | 33.4 | Luxembourgish (http://www.transifex.com/projects/p/owncloud/language/lb/) | 
+ | [libreoffice](/f18/package/libreoffice) | 11035 | 531878 | 2.1 | LANGUAGE <LL@li.org> | 
+ | [stellarium](/f18/package/stellarium) | 2 | 11181 | 0.0 | Luxembourgish <lb@li.org> | 
+ | [vidalia](/f18/package/vidalia) | 0 | 10369 | 0.0 | translations@vidalia-project.net | 
 {.sortable}
 
 

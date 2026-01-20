@@ -39,9 +39,9 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [lightdm-gtk]({{< ref "/f16/package/lightdm-gtk.md" >}}) | 47 | 56 | 83.9 | Walser <wae@li.org> | 
- | [lightdm]({{< ref "/f16/package/lightdm.md" >}}) | 40 | 79 | 50.6 | Walser <wae@li.org> | 
- | [rednotebook]({{< ref "/f16/package/rednotebook.md" >}}) | 290 | 1054 | 27.5 | Walser <wae@li.org> | 
+ | [lightdm-gtk](/f16/package/lightdm-gtk) | 47 | 56 | 83.9 | Walser <wae@li.org> | 
+ | [lightdm](/f16/package/lightdm) | 40 | 79 | 50.6 | Walser <wae@li.org> | 
+ | [rednotebook](/f16/package/rednotebook) | 290 | 1054 | 27.5 | Walser <wae@li.org> | 
 {.sortable}
 
 

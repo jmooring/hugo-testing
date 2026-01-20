@@ -18,15 +18,15 @@ The package python-fedora (version 0.3.16):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f10/language/ca.md" >}}) | 635 | 635 | 100.0 | /mnt/stockage/packages/f10/python-fedora/po/ca.po | 
- | [es]({{< ref "/f10/language/es.md" >}}) | 635 | 635 | 100.0 | /mnt/stockage/packages/f10/python-fedora/po/es.po | 
- | [hu]({{< ref "/f10/language/hu.md" >}}) | 635 | 635 | 100.0 | /mnt/stockage/packages/f10/python-fedora/po/hu.po | 
- | [it]({{< ref "/f10/language/it.md" >}}) | 635 | 635 | 100.0 | /mnt/stockage/packages/f10/python-fedora/po/it.po | 
- | [pl]({{< ref "/f10/language/pl.md" >}}) | 635 | 635 | 100.0 | /mnt/stockage/packages/f10/python-fedora/po/pl.po | 
- | [pt_BR]({{< ref "/f10/language/pt_BR.md" >}}) | 635 | 635 | 100.0 | /mnt/stockage/packages/f10/python-fedora/po/pt_BR.po | 
- | [th]({{< ref "/f10/language/th.md" >}}) | 617 | 635 | 97.2 | /mnt/stockage/packages/f10/python-fedora/po/th.po | 
- | [de]({{< ref "/f10/language/de.md" >}}) | 284 | 635 | 44.7 | /mnt/stockage/packages/f10/python-fedora/po/de.po | 
- | [ja]({{< ref "/f10/language/ja.md" >}}) | 0 | 635 | 0.0 | /mnt/stockage/packages/f10/python-fedora/po/ja.po | 
+ | [ca](/f10/language/ca) | 635 | 635 | 100.0 | /mnt/stockage/packages/f10/python-fedora/po/ca.po | 
+ | [es](/f10/language/es) | 635 | 635 | 100.0 | /mnt/stockage/packages/f10/python-fedora/po/es.po | 
+ | [hu](/f10/language/hu) | 635 | 635 | 100.0 | /mnt/stockage/packages/f10/python-fedora/po/hu.po | 
+ | [it](/f10/language/it) | 635 | 635 | 100.0 | /mnt/stockage/packages/f10/python-fedora/po/it.po | 
+ | [pl](/f10/language/pl) | 635 | 635 | 100.0 | /mnt/stockage/packages/f10/python-fedora/po/pl.po | 
+ | [pt_BR](/f10/language/pt_BR) | 635 | 635 | 100.0 | /mnt/stockage/packages/f10/python-fedora/po/pt_BR.po | 
+ | [th](/f10/language/th) | 617 | 635 | 97.2 | /mnt/stockage/packages/f10/python-fedora/po/th.po | 
+ | [de](/f10/language/de) | 284 | 635 | 44.7 | /mnt/stockage/packages/f10/python-fedora/po/de.po | 
+ | [ja](/f10/language/ja) | 0 | 635 | 0.0 | /mnt/stockage/packages/f10/python-fedora/po/ja.po | 
 {.sortable}
 
 

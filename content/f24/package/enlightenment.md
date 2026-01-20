@@ -18,45 +18,45 @@ The package enlightenment (version 0.20.9):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [it]({{< ref "/f24/language/it.md" >}}) | 8696 | 8732 | 99.6 | /mnt/stockage/packages/f24/enlightenment/po/it.po | 
- | [ca]({{< ref "/f24/language/ca.md" >}}) | 8660 | 8732 | 99.2 | /mnt/stockage/packages/f24/enlightenment/po/ca.po | 
- | [sr]({{< ref "/f24/language/sr.md" >}}) | 8309 | 8732 | 95.2 | /mnt/stockage/packages/f24/enlightenment/po/sr.po | 
- | [ru]({{< ref "/f24/language/ru.md" >}}) | 8263 | 8732 | 94.6 | /mnt/stockage/packages/f24/enlightenment/po/ru.po | 
- | [pt]({{< ref "/f24/language/pt.md" >}}) | 8134 | 8732 | 93.2 | /mnt/stockage/packages/f24/enlightenment/po/pt.po | 
- | [tr]({{< ref "/f24/language/tr.md" >}}) | 8048 | 8732 | 92.2 | /mnt/stockage/packages/f24/enlightenment/po/tr.po | 
- | [gl]({{< ref "/f24/language/gl.md" >}}) | 7942 | 8732 | 91.0 | /mnt/stockage/packages/f24/enlightenment/po/gl.po | 
- | [hu]({{< ref "/f24/language/hu.md" >}}) | 7640 | 8732 | 87.5 | /mnt/stockage/packages/f24/enlightenment/po/hu.po | 
- | [es]({{< ref "/f24/language/es.md" >}}) | 7602 | 8732 | 87.1 | /mnt/stockage/packages/f24/enlightenment/po/es.po | 
- | [fi]({{< ref "/f24/language/fi.md" >}}) | 7274 | 8732 | 83.3 | /mnt/stockage/packages/f24/enlightenment/po/fi.po | 
- | [de]({{< ref "/f24/language/de.md" >}}) | 7055 | 8732 | 80.8 | /mnt/stockage/packages/f24/enlightenment/po/de.po | 
- | [ko]({{< ref "/f24/language/ko.md" >}}) | 7054 | 8732 | 80.8 | /mnt/stockage/packages/f24/enlightenment/po/ko.po | 
- | [cs]({{< ref "/f24/language/cs.md" >}}) | 7039 | 8732 | 80.6 | /mnt/stockage/packages/f24/enlightenment/po/cs.po | 
- | [pt_BR]({{< ref "/f24/language/pt_BR.md" >}}) | 7027 | 8732 | 80.5 | /mnt/stockage/packages/f24/enlightenment/po/pt_BR.po | 
- | [el]({{< ref "/f24/language/el.md" >}}) | 6943 | 8732 | 79.5 | /mnt/stockage/packages/f24/enlightenment/po/el.po | 
- | [eo]({{< ref "/f24/language/eo.md" >}}) | 6908 | 8732 | 79.1 | /mnt/stockage/packages/f24/enlightenment/po/eo.po | 
- | [ar]({{< ref "/f24/language/ar.md" >}}) | 6906 | 8732 | 79.1 | /mnt/stockage/packages/f24/enlightenment/po/ar.po | 
- | [fr]({{< ref "/f24/language/fr.md" >}}) | 6325 | 8732 | 72.4 | /mnt/stockage/packages/f24/enlightenment/po/fr.po | 
- | [zh_Hans]({{< ref "/f24/language/zh_Hans.md" >}}) | 5956 | 8732 | 68.2 | /mnt/stockage/packages/f24/enlightenment/po/zh_CN.po | 
- | [nl]({{< ref "/f24/language/nl.md" >}}) | 4240 | 8732 | 48.6 | /mnt/stockage/packages/f24/enlightenment/po/nl.po | 
- | [zh_Hant]({{< ref "/f24/language/zh_Hant.md" >}}) | 4074 | 8732 | 46.7 | /mnt/stockage/packages/f24/enlightenment/po/zh_TW.po | 
- | [sl]({{< ref "/f24/language/sl.md" >}}) | 3909 | 8732 | 44.8 | /mnt/stockage/packages/f24/enlightenment/po/sl.po | 
- | [ja]({{< ref "/f24/language/ja.md" >}}) | 3721 | 8732 | 42.6 | /mnt/stockage/packages/f24/enlightenment/po/ja.po | 
- | [lt]({{< ref "/f24/language/lt.md" >}}) | 3685 | 8732 | 42.2 | /mnt/stockage/packages/f24/enlightenment/po/lt.po | 
- | [uk]({{< ref "/f24/language/uk.md" >}}) | 3009 | 8732 | 34.5 | /mnt/stockage/packages/f24/enlightenment/po/uk.po | 
- | [hr]({{< ref "/f24/language/hr.md" >}}) | 2976 | 8732 | 34.1 | /mnt/stockage/packages/f24/enlightenment/po/hr.po | 
- | [pl]({{< ref "/f24/language/pl.md" >}}) | 2835 | 8732 | 32.5 | /mnt/stockage/packages/f24/enlightenment/po/pl.po | 
- | [sk]({{< ref "/f24/language/sk.md" >}}) | 2732 | 8732 | 31.3 | /mnt/stockage/packages/f24/enlightenment/po/sk.po | 
- | [fr_CH]({{< ref "/f24/language/fr_CH.md" >}}) | 2077 | 8732 | 23.8 | /mnt/stockage/packages/f24/enlightenment/po/fr_CH.po | 
- | [bg]({{< ref "/f24/language/bg.md" >}}) | 1944 | 8732 | 22.3 | /mnt/stockage/packages/f24/enlightenment/po/bg.po | 
- | [sv]({{< ref "/f24/language/sv.md" >}}) | 1619 | 8732 | 18.5 | /mnt/stockage/packages/f24/enlightenment/po/sv.po | 
- | [he]({{< ref "/f24/language/he.md" >}}) | 1564 | 8732 | 17.9 | /mnt/stockage/packages/f24/enlightenment/po/he.po | 
- | [nb_NO]({{< ref "/f24/language/nb_NO.md" >}}) | 1434 | 8732 | 16.4 | /mnt/stockage/packages/f24/enlightenment/po/nb.po | 
- | [da]({{< ref "/f24/language/da.md" >}}) | 698 | 8732 | 8.0 | /mnt/stockage/packages/f24/enlightenment/po/da.po | 
- | [fo]({{< ref "/f24/language/fo.md" >}}) | 391 | 8732 | 4.5 | /mnt/stockage/packages/f24/enlightenment/po/fo.po | 
- | [ro]({{< ref "/f24/language/ro.md" >}}) | 337 | 8732 | 3.9 | /mnt/stockage/packages/f24/enlightenment/po/ro.po | 
- | [km]({{< ref "/f24/language/km.md" >}}) | 58 | 8732 | 0.7 | /mnt/stockage/packages/f24/enlightenment/po/km.po | 
- | [ms]({{< ref "/f24/language/ms.md" >}}) | 16 | 8732 | 0.2 | /mnt/stockage/packages/f24/enlightenment/po/ms.po | 
- | [et]({{< ref "/f24/language/et.md" >}}) | 6 | 8732 | 0.1 | /mnt/stockage/packages/f24/enlightenment/po/et.po | 
+ | [it](/f24/language/it) | 8696 | 8732 | 99.6 | /mnt/stockage/packages/f24/enlightenment/po/it.po | 
+ | [ca](/f24/language/ca) | 8660 | 8732 | 99.2 | /mnt/stockage/packages/f24/enlightenment/po/ca.po | 
+ | [sr](/f24/language/sr) | 8309 | 8732 | 95.2 | /mnt/stockage/packages/f24/enlightenment/po/sr.po | 
+ | [ru](/f24/language/ru) | 8263 | 8732 | 94.6 | /mnt/stockage/packages/f24/enlightenment/po/ru.po | 
+ | [pt](/f24/language/pt) | 8134 | 8732 | 93.2 | /mnt/stockage/packages/f24/enlightenment/po/pt.po | 
+ | [tr](/f24/language/tr) | 8048 | 8732 | 92.2 | /mnt/stockage/packages/f24/enlightenment/po/tr.po | 
+ | [gl](/f24/language/gl) | 7942 | 8732 | 91.0 | /mnt/stockage/packages/f24/enlightenment/po/gl.po | 
+ | [hu](/f24/language/hu) | 7640 | 8732 | 87.5 | /mnt/stockage/packages/f24/enlightenment/po/hu.po | 
+ | [es](/f24/language/es) | 7602 | 8732 | 87.1 | /mnt/stockage/packages/f24/enlightenment/po/es.po | 
+ | [fi](/f24/language/fi) | 7274 | 8732 | 83.3 | /mnt/stockage/packages/f24/enlightenment/po/fi.po | 
+ | [de](/f24/language/de) | 7055 | 8732 | 80.8 | /mnt/stockage/packages/f24/enlightenment/po/de.po | 
+ | [ko](/f24/language/ko) | 7054 | 8732 | 80.8 | /mnt/stockage/packages/f24/enlightenment/po/ko.po | 
+ | [cs](/f24/language/cs) | 7039 | 8732 | 80.6 | /mnt/stockage/packages/f24/enlightenment/po/cs.po | 
+ | [pt_BR](/f24/language/pt_BR) | 7027 | 8732 | 80.5 | /mnt/stockage/packages/f24/enlightenment/po/pt_BR.po | 
+ | [el](/f24/language/el) | 6943 | 8732 | 79.5 | /mnt/stockage/packages/f24/enlightenment/po/el.po | 
+ | [eo](/f24/language/eo) | 6908 | 8732 | 79.1 | /mnt/stockage/packages/f24/enlightenment/po/eo.po | 
+ | [ar](/f24/language/ar) | 6906 | 8732 | 79.1 | /mnt/stockage/packages/f24/enlightenment/po/ar.po | 
+ | [fr](/f24/language/fr) | 6325 | 8732 | 72.4 | /mnt/stockage/packages/f24/enlightenment/po/fr.po | 
+ | [zh_Hans](/f24/language/zh_Hans) | 5956 | 8732 | 68.2 | /mnt/stockage/packages/f24/enlightenment/po/zh_CN.po | 
+ | [nl](/f24/language/nl) | 4240 | 8732 | 48.6 | /mnt/stockage/packages/f24/enlightenment/po/nl.po | 
+ | [zh_Hant](/f24/language/zh_Hant) | 4074 | 8732 | 46.7 | /mnt/stockage/packages/f24/enlightenment/po/zh_TW.po | 
+ | [sl](/f24/language/sl) | 3909 | 8732 | 44.8 | /mnt/stockage/packages/f24/enlightenment/po/sl.po | 
+ | [ja](/f24/language/ja) | 3721 | 8732 | 42.6 | /mnt/stockage/packages/f24/enlightenment/po/ja.po | 
+ | [lt](/f24/language/lt) | 3685 | 8732 | 42.2 | /mnt/stockage/packages/f24/enlightenment/po/lt.po | 
+ | [uk](/f24/language/uk) | 3009 | 8732 | 34.5 | /mnt/stockage/packages/f24/enlightenment/po/uk.po | 
+ | [hr](/f24/language/hr) | 2976 | 8732 | 34.1 | /mnt/stockage/packages/f24/enlightenment/po/hr.po | 
+ | [pl](/f24/language/pl) | 2835 | 8732 | 32.5 | /mnt/stockage/packages/f24/enlightenment/po/pl.po | 
+ | [sk](/f24/language/sk) | 2732 | 8732 | 31.3 | /mnt/stockage/packages/f24/enlightenment/po/sk.po | 
+ | [fr_CH](/f24/language/fr_CH) | 2077 | 8732 | 23.8 | /mnt/stockage/packages/f24/enlightenment/po/fr_CH.po | 
+ | [bg](/f24/language/bg) | 1944 | 8732 | 22.3 | /mnt/stockage/packages/f24/enlightenment/po/bg.po | 
+ | [sv](/f24/language/sv) | 1619 | 8732 | 18.5 | /mnt/stockage/packages/f24/enlightenment/po/sv.po | 
+ | [he](/f24/language/he) | 1564 | 8732 | 17.9 | /mnt/stockage/packages/f24/enlightenment/po/he.po | 
+ | [nb_NO](/f24/language/nb_NO) | 1434 | 8732 | 16.4 | /mnt/stockage/packages/f24/enlightenment/po/nb.po | 
+ | [da](/f24/language/da) | 698 | 8732 | 8.0 | /mnt/stockage/packages/f24/enlightenment/po/da.po | 
+ | [fo](/f24/language/fo) | 391 | 8732 | 4.5 | /mnt/stockage/packages/f24/enlightenment/po/fo.po | 
+ | [ro](/f24/language/ro) | 337 | 8732 | 3.9 | /mnt/stockage/packages/f24/enlightenment/po/ro.po | 
+ | [km](/f24/language/km) | 58 | 8732 | 0.7 | /mnt/stockage/packages/f24/enlightenment/po/km.po | 
+ | [ms](/f24/language/ms) | 16 | 8732 | 0.2 | /mnt/stockage/packages/f24/enlightenment/po/ms.po | 
+ | [et](/f24/language/et) | 6 | 8732 | 0.1 | /mnt/stockage/packages/f24/enlightenment/po/et.po | 
 {.sortable}
 
 

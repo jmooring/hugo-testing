@@ -18,9 +18,9 @@ The package python-humanize (version 0.5):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ru]({{< ref "/f21/language/ru.md" >}}) | 91 | 91 | 100.0 | /mnt/stockage/packages/f21/python-humanize/humanize/locale/ru_RU/LC_MESSAGES/humanize.po | 
- | [ko]({{< ref "/f21/language/ko.md" >}}) | 82 | 91 | 90.1 | /mnt/stockage/packages/f21/python-humanize/humanize/locale/ko_KR/LC_MESSAGES/humanize.po | 
- | [fr]({{< ref "/f21/language/fr.md" >}}) | 81 | 91 | 89.0 | /mnt/stockage/packages/f21/python-humanize/humanize/locale/fr_FR/LC_MESSAGES/humanize.po | 
+ | [ru](/f21/language/ru) | 91 | 91 | 100.0 | /mnt/stockage/packages/f21/python-humanize/humanize/locale/ru_RU/LC_MESSAGES/humanize.po | 
+ | [ko](/f21/language/ko) | 82 | 91 | 90.1 | /mnt/stockage/packages/f21/python-humanize/humanize/locale/ko_KR/LC_MESSAGES/humanize.po | 
+ | [fr](/f21/language/fr) | 81 | 91 | 89.0 | /mnt/stockage/packages/f21/python-humanize/humanize/locale/fr_FR/LC_MESSAGES/humanize.po | 
 {.sortable}
 
 

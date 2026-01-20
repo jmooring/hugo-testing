@@ -18,25 +18,25 @@ The package gnome-shell-extension-just-perfection (version 34.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [af]({{< ref "/f42/language/af.md" >}}) | 712 | 712 | 100.0 | /mnt/stockage/packages/f42/gnome-shell-extension-just-perfection/po/af.po | 
- | [ar]({{< ref "/f42/language/ar.md" >}}) | 712 | 712 | 100.0 | /mnt/stockage/packages/f42/gnome-shell-extension-just-perfection/po/ar.po | 
- | [be]({{< ref "/f42/language/be.md" >}}) | 712 | 712 | 100.0 | /mnt/stockage/packages/f42/gnome-shell-extension-just-perfection/po/be.po | 
- | [bg]({{< ref "/f42/language/bg.md" >}}) | 712 | 712 | 100.0 | /mnt/stockage/packages/f42/gnome-shell-extension-just-perfection/po/bg.po | 
- | [ca]({{< ref "/f42/language/ca.md" >}}) | 712 | 712 | 100.0 | /mnt/stockage/packages/f42/gnome-shell-extension-just-perfection/po/ca.po | 
- | [de]({{< ref "/f42/language/de.md" >}}) | 712 | 712 | 100.0 | /mnt/stockage/packages/f42/gnome-shell-extension-just-perfection/po/de.po | 
- | [es]({{< ref "/f42/language/es.md" >}}) | 712 | 712 | 100.0 | /mnt/stockage/packages/f42/gnome-shell-extension-just-perfection/po/es.po | 
- | [fr]({{< ref "/f42/language/fr.md" >}}) | 712 | 712 | 100.0 | /mnt/stockage/packages/f42/gnome-shell-extension-just-perfection/po/fr.po | 
- | [gl]({{< ref "/f42/language/gl.md" >}}) | 712 | 712 | 100.0 | /mnt/stockage/packages/f42/gnome-shell-extension-just-perfection/po/gl.po | 
- | [it]({{< ref "/f42/language/it.md" >}}) | 712 | 712 | 100.0 | /mnt/stockage/packages/f42/gnome-shell-extension-just-perfection/po/it.po | 
- | [ja]({{< ref "/f42/language/ja.md" >}}) | 712 | 712 | 100.0 | /mnt/stockage/packages/f42/gnome-shell-extension-just-perfection/po/ja.po | 
- | [nl]({{< ref "/f42/language/nl.md" >}}) | 712 | 712 | 100.0 | /mnt/stockage/packages/f42/gnome-shell-extension-just-perfection/po/nl.po | 
- | [pt_BR]({{< ref "/f42/language/pt_BR.md" >}}) | 712 | 712 | 100.0 | /mnt/stockage/packages/f42/gnome-shell-extension-just-perfection/po/pt_BR.po | 
- | [ru]({{< ref "/f42/language/ru.md" >}}) | 712 | 712 | 100.0 | /mnt/stockage/packages/f42/gnome-shell-extension-just-perfection/po/ru.po | 
- | [sv]({{< ref "/f42/language/sv.md" >}}) | 712 | 712 | 100.0 | /mnt/stockage/packages/f42/gnome-shell-extension-just-perfection/po/sv.po | 
- | [zh_Hans]({{< ref "/f42/language/zh_Hans.md" >}}) | 712 | 712 | 100.0 | /mnt/stockage/packages/f42/gnome-shell-extension-just-perfection/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f42/language/zh_Hant.md" >}}) | 712 | 712 | 100.0 | /mnt/stockage/packages/f42/gnome-shell-extension-just-perfection/po/zh_TW.po | 
- | [ne]({{< ref "/f42/language/ne.md" >}}) | 710 | 712 | 99.7 | /mnt/stockage/packages/f42/gnome-shell-extension-just-perfection/po/ne.po | 
- | [uk]({{< ref "/f42/language/uk.md" >}}) | 708 | 712 | 99.4 | /mnt/stockage/packages/f42/gnome-shell-extension-just-perfection/po/uk.po | 
+ | [af](/f42/language/af) | 712 | 712 | 100.0 | /mnt/stockage/packages/f42/gnome-shell-extension-just-perfection/po/af.po | 
+ | [ar](/f42/language/ar) | 712 | 712 | 100.0 | /mnt/stockage/packages/f42/gnome-shell-extension-just-perfection/po/ar.po | 
+ | [be](/f42/language/be) | 712 | 712 | 100.0 | /mnt/stockage/packages/f42/gnome-shell-extension-just-perfection/po/be.po | 
+ | [bg](/f42/language/bg) | 712 | 712 | 100.0 | /mnt/stockage/packages/f42/gnome-shell-extension-just-perfection/po/bg.po | 
+ | [ca](/f42/language/ca) | 712 | 712 | 100.0 | /mnt/stockage/packages/f42/gnome-shell-extension-just-perfection/po/ca.po | 
+ | [de](/f42/language/de) | 712 | 712 | 100.0 | /mnt/stockage/packages/f42/gnome-shell-extension-just-perfection/po/de.po | 
+ | [es](/f42/language/es) | 712 | 712 | 100.0 | /mnt/stockage/packages/f42/gnome-shell-extension-just-perfection/po/es.po | 
+ | [fr](/f42/language/fr) | 712 | 712 | 100.0 | /mnt/stockage/packages/f42/gnome-shell-extension-just-perfection/po/fr.po | 
+ | [gl](/f42/language/gl) | 712 | 712 | 100.0 | /mnt/stockage/packages/f42/gnome-shell-extension-just-perfection/po/gl.po | 
+ | [it](/f42/language/it) | 712 | 712 | 100.0 | /mnt/stockage/packages/f42/gnome-shell-extension-just-perfection/po/it.po | 
+ | [ja](/f42/language/ja) | 712 | 712 | 100.0 | /mnt/stockage/packages/f42/gnome-shell-extension-just-perfection/po/ja.po | 
+ | [nl](/f42/language/nl) | 712 | 712 | 100.0 | /mnt/stockage/packages/f42/gnome-shell-extension-just-perfection/po/nl.po | 
+ | [pt_BR](/f42/language/pt_BR) | 712 | 712 | 100.0 | /mnt/stockage/packages/f42/gnome-shell-extension-just-perfection/po/pt_BR.po | 
+ | [ru](/f42/language/ru) | 712 | 712 | 100.0 | /mnt/stockage/packages/f42/gnome-shell-extension-just-perfection/po/ru.po | 
+ | [sv](/f42/language/sv) | 712 | 712 | 100.0 | /mnt/stockage/packages/f42/gnome-shell-extension-just-perfection/po/sv.po | 
+ | [zh_Hans](/f42/language/zh_Hans) | 712 | 712 | 100.0 | /mnt/stockage/packages/f42/gnome-shell-extension-just-perfection/po/zh_CN.po | 
+ | [zh_Hant](/f42/language/zh_Hant) | 712 | 712 | 100.0 | /mnt/stockage/packages/f42/gnome-shell-extension-just-perfection/po/zh_TW.po | 
+ | [ne](/f42/language/ne) | 710 | 712 | 99.7 | /mnt/stockage/packages/f42/gnome-shell-extension-just-perfection/po/ne.po | 
+ | [uk](/f42/language/uk) | 708 | 712 | 99.4 | /mnt/stockage/packages/f42/gnome-shell-extension-just-perfection/po/uk.po | 
 {.sortable}
 
 

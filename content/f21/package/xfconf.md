@@ -18,50 +18,50 @@ The package xfconf (version 4.10.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f21/language/ar.md" >}}) | 451 | 451 | 100.0 | /mnt/stockage/packages/f21/xfconf/po/ar.po | 
- | [ca]({{< ref "/f21/language/ca.md" >}}) | 451 | 451 | 100.0 | /mnt/stockage/packages/f21/xfconf/po/ca.po | 
- | [cs]({{< ref "/f21/language/cs.md" >}}) | 451 | 451 | 100.0 | /mnt/stockage/packages/f21/xfconf/po/cs.po | 
- | [da]({{< ref "/f21/language/da.md" >}}) | 451 | 451 | 100.0 | /mnt/stockage/packages/f21/xfconf/po/da.po | 
- | [de]({{< ref "/f21/language/de.md" >}}) | 451 | 451 | 100.0 | /mnt/stockage/packages/f21/xfconf/po/de.po | 
- | [el]({{< ref "/f21/language/el.md" >}}) | 451 | 451 | 100.0 | /mnt/stockage/packages/f21/xfconf/po/el.po | 
- | [en_GB]({{< ref "/f21/language/en_GB.md" >}}) | 451 | 451 | 100.0 | /mnt/stockage/packages/f21/xfconf/po/en_GB.po | 
- | [es]({{< ref "/f21/language/es.md" >}}) | 451 | 451 | 100.0 | /mnt/stockage/packages/f21/xfconf/po/es.po | 
- | [eu]({{< ref "/f21/language/eu.md" >}}) | 451 | 451 | 100.0 | /mnt/stockage/packages/f21/xfconf/po/eu.po | 
- | [fi]({{< ref "/f21/language/fi.md" >}}) | 451 | 451 | 100.0 | /mnt/stockage/packages/f21/xfconf/po/fi.po | 
- | [fr]({{< ref "/f21/language/fr.md" >}}) | 451 | 451 | 100.0 | /mnt/stockage/packages/f21/xfconf/po/fr.po | 
- | [gl]({{< ref "/f21/language/gl.md" >}}) | 451 | 451 | 100.0 | /mnt/stockage/packages/f21/xfconf/po/gl.po | 
- | [hu]({{< ref "/f21/language/hu.md" >}}) | 451 | 451 | 100.0 | /mnt/stockage/packages/f21/xfconf/po/hu.po | 
- | [id]({{< ref "/f21/language/id.md" >}}) | 451 | 451 | 100.0 | /mnt/stockage/packages/f21/xfconf/po/id.po | 
- | [it]({{< ref "/f21/language/it.md" >}}) | 451 | 451 | 100.0 | /mnt/stockage/packages/f21/xfconf/po/it.po | 
- | [ja]({{< ref "/f21/language/ja.md" >}}) | 451 | 451 | 100.0 | /mnt/stockage/packages/f21/xfconf/po/ja.po | 
- | [kk]({{< ref "/f21/language/kk.md" >}}) | 451 | 451 | 100.0 | /mnt/stockage/packages/f21/xfconf/po/kk.po | 
- | [ko]({{< ref "/f21/language/ko.md" >}}) | 451 | 451 | 100.0 | /mnt/stockage/packages/f21/xfconf/po/ko.po | 
- | [lt]({{< ref "/f21/language/lt.md" >}}) | 451 | 451 | 100.0 | /mnt/stockage/packages/f21/xfconf/po/lt.po | 
- | [nl]({{< ref "/f21/language/nl.md" >}}) | 451 | 451 | 100.0 | /mnt/stockage/packages/f21/xfconf/po/nl.po | 
- | [nn]({{< ref "/f21/language/nn.md" >}}) | 451 | 451 | 100.0 | /mnt/stockage/packages/f21/xfconf/po/nn.po | 
- | [pl]({{< ref "/f21/language/pl.md" >}}) | 451 | 451 | 100.0 | /mnt/stockage/packages/f21/xfconf/po/pl.po | 
- | [pt]({{< ref "/f21/language/pt.md" >}}) | 451 | 451 | 100.0 | /mnt/stockage/packages/f21/xfconf/po/pt.po | 
- | [pt_BR]({{< ref "/f21/language/pt_BR.md" >}}) | 451 | 451 | 100.0 | /mnt/stockage/packages/f21/xfconf/po/pt_BR.po | 
- | [ro]({{< ref "/f21/language/ro.md" >}}) | 451 | 451 | 100.0 | /mnt/stockage/packages/f21/xfconf/po/ro.po | 
- | [ru]({{< ref "/f21/language/ru.md" >}}) | 451 | 451 | 100.0 | /mnt/stockage/packages/f21/xfconf/po/ru.po | 
- | [sk]({{< ref "/f21/language/sk.md" >}}) | 451 | 451 | 100.0 | /mnt/stockage/packages/f21/xfconf/po/sk.po | 
- | [tr]({{< ref "/f21/language/tr.md" >}}) | 451 | 451 | 100.0 | /mnt/stockage/packages/f21/xfconf/po/tr.po | 
- | [uk]({{< ref "/f21/language/uk.md" >}}) | 451 | 451 | 100.0 | /mnt/stockage/packages/f21/xfconf/po/uk.po | 
- | [zh_Hans]({{< ref "/f21/language/zh_Hans.md" >}}) | 451 | 451 | 100.0 | /mnt/stockage/packages/f21/xfconf/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f21/language/zh_Hant.md" >}}) | 451 | 451 | 100.0 | /mnt/stockage/packages/f21/xfconf/po/zh_TW.po | 
- | [bn]({{< ref "/f21/language/bn.md" >}}) | 281 | 451 | 62.3 | /mnt/stockage/packages/f21/xfconf/po/bn.po | 
- | [lv]({{< ref "/f21/language/lv.md" >}}) | 281 | 451 | 62.3 | /mnt/stockage/packages/f21/xfconf/po/lv.po | 
- | [nb_NO]({{< ref "/f21/language/nb_NO.md" >}}) | 281 | 451 | 62.3 | /mnt/stockage/packages/f21/xfconf/po/nb.po | 
- | [sv]({{< ref "/f21/language/sv.md" >}}) | 281 | 451 | 62.3 | /mnt/stockage/packages/f21/xfconf/po/sv.po | 
- | [ug]({{< ref "/f21/language/ug.md" >}}) | 281 | 451 | 62.3 | /mnt/stockage/packages/f21/xfconf/po/ug.po | 
- | [ast]({{< ref "/f21/language/ast.md" >}}) | 265 | 451 | 58.8 | /mnt/stockage/packages/f21/xfconf/po/ast.po | 
- | [ur]({{< ref "/f21/language/ur.md" >}}) | 530 | 902 | 58.8 | /mnt/stockage/packages/f21/xfconf/po/ur_PK.po/mnt/stockage/packages/f21/xfconf/po/ur.po | 
- | [hr]({{< ref "/f21/language/hr.md" >}}) | 261 | 451 | 57.9 | /mnt/stockage/packages/f21/xfconf/po/hr.po | 
- | [te]({{< ref "/f21/language/te.md" >}}) | 88 | 451 | 19.5 | /mnt/stockage/packages/f21/xfconf/po/te.po | 
- | [pa]({{< ref "/f21/language/pa.md" >}}) | 42 | 451 | 9.3 | /mnt/stockage/packages/f21/xfconf/po/pa.po | 
- | [si]({{< ref "/f21/language/si.md" >}}) | 38 | 451 | 8.4 | /mnt/stockage/packages/f21/xfconf/po/si.po | 
- | [is]({{< ref "/f21/language/is.md" >}}) | 10 | 451 | 2.2 | /mnt/stockage/packages/f21/xfconf/po/is.po | 
- | [he]({{< ref "/f21/language/he.md" >}}) | 1 | 451 | 0.2 | /mnt/stockage/packages/f21/xfconf/po/he.po | 
+ | [ar](/f21/language/ar) | 451 | 451 | 100.0 | /mnt/stockage/packages/f21/xfconf/po/ar.po | 
+ | [ca](/f21/language/ca) | 451 | 451 | 100.0 | /mnt/stockage/packages/f21/xfconf/po/ca.po | 
+ | [cs](/f21/language/cs) | 451 | 451 | 100.0 | /mnt/stockage/packages/f21/xfconf/po/cs.po | 
+ | [da](/f21/language/da) | 451 | 451 | 100.0 | /mnt/stockage/packages/f21/xfconf/po/da.po | 
+ | [de](/f21/language/de) | 451 | 451 | 100.0 | /mnt/stockage/packages/f21/xfconf/po/de.po | 
+ | [el](/f21/language/el) | 451 | 451 | 100.0 | /mnt/stockage/packages/f21/xfconf/po/el.po | 
+ | [en_GB](/f21/language/en_GB) | 451 | 451 | 100.0 | /mnt/stockage/packages/f21/xfconf/po/en_GB.po | 
+ | [es](/f21/language/es) | 451 | 451 | 100.0 | /mnt/stockage/packages/f21/xfconf/po/es.po | 
+ | [eu](/f21/language/eu) | 451 | 451 | 100.0 | /mnt/stockage/packages/f21/xfconf/po/eu.po | 
+ | [fi](/f21/language/fi) | 451 | 451 | 100.0 | /mnt/stockage/packages/f21/xfconf/po/fi.po | 
+ | [fr](/f21/language/fr) | 451 | 451 | 100.0 | /mnt/stockage/packages/f21/xfconf/po/fr.po | 
+ | [gl](/f21/language/gl) | 451 | 451 | 100.0 | /mnt/stockage/packages/f21/xfconf/po/gl.po | 
+ | [hu](/f21/language/hu) | 451 | 451 | 100.0 | /mnt/stockage/packages/f21/xfconf/po/hu.po | 
+ | [id](/f21/language/id) | 451 | 451 | 100.0 | /mnt/stockage/packages/f21/xfconf/po/id.po | 
+ | [it](/f21/language/it) | 451 | 451 | 100.0 | /mnt/stockage/packages/f21/xfconf/po/it.po | 
+ | [ja](/f21/language/ja) | 451 | 451 | 100.0 | /mnt/stockage/packages/f21/xfconf/po/ja.po | 
+ | [kk](/f21/language/kk) | 451 | 451 | 100.0 | /mnt/stockage/packages/f21/xfconf/po/kk.po | 
+ | [ko](/f21/language/ko) | 451 | 451 | 100.0 | /mnt/stockage/packages/f21/xfconf/po/ko.po | 
+ | [lt](/f21/language/lt) | 451 | 451 | 100.0 | /mnt/stockage/packages/f21/xfconf/po/lt.po | 
+ | [nl](/f21/language/nl) | 451 | 451 | 100.0 | /mnt/stockage/packages/f21/xfconf/po/nl.po | 
+ | [nn](/f21/language/nn) | 451 | 451 | 100.0 | /mnt/stockage/packages/f21/xfconf/po/nn.po | 
+ | [pl](/f21/language/pl) | 451 | 451 | 100.0 | /mnt/stockage/packages/f21/xfconf/po/pl.po | 
+ | [pt](/f21/language/pt) | 451 | 451 | 100.0 | /mnt/stockage/packages/f21/xfconf/po/pt.po | 
+ | [pt_BR](/f21/language/pt_BR) | 451 | 451 | 100.0 | /mnt/stockage/packages/f21/xfconf/po/pt_BR.po | 
+ | [ro](/f21/language/ro) | 451 | 451 | 100.0 | /mnt/stockage/packages/f21/xfconf/po/ro.po | 
+ | [ru](/f21/language/ru) | 451 | 451 | 100.0 | /mnt/stockage/packages/f21/xfconf/po/ru.po | 
+ | [sk](/f21/language/sk) | 451 | 451 | 100.0 | /mnt/stockage/packages/f21/xfconf/po/sk.po | 
+ | [tr](/f21/language/tr) | 451 | 451 | 100.0 | /mnt/stockage/packages/f21/xfconf/po/tr.po | 
+ | [uk](/f21/language/uk) | 451 | 451 | 100.0 | /mnt/stockage/packages/f21/xfconf/po/uk.po | 
+ | [zh_Hans](/f21/language/zh_Hans) | 451 | 451 | 100.0 | /mnt/stockage/packages/f21/xfconf/po/zh_CN.po | 
+ | [zh_Hant](/f21/language/zh_Hant) | 451 | 451 | 100.0 | /mnt/stockage/packages/f21/xfconf/po/zh_TW.po | 
+ | [bn](/f21/language/bn) | 281 | 451 | 62.3 | /mnt/stockage/packages/f21/xfconf/po/bn.po | 
+ | [lv](/f21/language/lv) | 281 | 451 | 62.3 | /mnt/stockage/packages/f21/xfconf/po/lv.po | 
+ | [nb_NO](/f21/language/nb_NO) | 281 | 451 | 62.3 | /mnt/stockage/packages/f21/xfconf/po/nb.po | 
+ | [sv](/f21/language/sv) | 281 | 451 | 62.3 | /mnt/stockage/packages/f21/xfconf/po/sv.po | 
+ | [ug](/f21/language/ug) | 281 | 451 | 62.3 | /mnt/stockage/packages/f21/xfconf/po/ug.po | 
+ | [ast](/f21/language/ast) | 265 | 451 | 58.8 | /mnt/stockage/packages/f21/xfconf/po/ast.po | 
+ | [ur](/f21/language/ur) | 530 | 902 | 58.8 | /mnt/stockage/packages/f21/xfconf/po/ur_PK.po/mnt/stockage/packages/f21/xfconf/po/ur.po | 
+ | [hr](/f21/language/hr) | 261 | 451 | 57.9 | /mnt/stockage/packages/f21/xfconf/po/hr.po | 
+ | [te](/f21/language/te) | 88 | 451 | 19.5 | /mnt/stockage/packages/f21/xfconf/po/te.po | 
+ | [pa](/f21/language/pa) | 42 | 451 | 9.3 | /mnt/stockage/packages/f21/xfconf/po/pa.po | 
+ | [si](/f21/language/si) | 38 | 451 | 8.4 | /mnt/stockage/packages/f21/xfconf/po/si.po | 
+ | [is](/f21/language/is) | 10 | 451 | 2.2 | /mnt/stockage/packages/f21/xfconf/po/is.po | 
+ | [he](/f21/language/he) | 1 | 451 | 0.2 | /mnt/stockage/packages/f21/xfconf/po/he.po | 
 {.sortable}
 
 

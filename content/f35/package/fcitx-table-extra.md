@@ -18,15 +18,15 @@ The package fcitx-table-extra (version 0.3.8):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f35/language/ca.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f35/fcitx-table-extra/po/ca.po | 
- | [de]({{< ref "/f35/language/de.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f35/fcitx-table-extra/po/de.po | 
- | [ja]({{< ref "/f35/language/ja.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f35/fcitx-table-extra/po/ja.po | 
- | [ko]({{< ref "/f35/language/ko.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f35/fcitx-table-extra/po/ko.po | 
- | [ru]({{< ref "/f35/language/ru.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f35/fcitx-table-extra/po/ru.po | 
- | [tr]({{< ref "/f35/language/tr.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f35/fcitx-table-extra/po/tr.po | 
- | [zh_Hans]({{< ref "/f35/language/zh_Hans.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f35/fcitx-table-extra/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f35/language/zh_Hant.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f35/fcitx-table-extra/po/zh_TW.po | 
- | [da]({{< ref "/f35/language/da.md" >}}) | 0 | 24 | 0.0 | /mnt/stockage/packages/f35/fcitx-table-extra/po/da.po | 
+ | [ca](/f35/language/ca) | 24 | 24 | 100.0 | /mnt/stockage/packages/f35/fcitx-table-extra/po/ca.po | 
+ | [de](/f35/language/de) | 24 | 24 | 100.0 | /mnt/stockage/packages/f35/fcitx-table-extra/po/de.po | 
+ | [ja](/f35/language/ja) | 24 | 24 | 100.0 | /mnt/stockage/packages/f35/fcitx-table-extra/po/ja.po | 
+ | [ko](/f35/language/ko) | 24 | 24 | 100.0 | /mnt/stockage/packages/f35/fcitx-table-extra/po/ko.po | 
+ | [ru](/f35/language/ru) | 24 | 24 | 100.0 | /mnt/stockage/packages/f35/fcitx-table-extra/po/ru.po | 
+ | [tr](/f35/language/tr) | 24 | 24 | 100.0 | /mnt/stockage/packages/f35/fcitx-table-extra/po/tr.po | 
+ | [zh_Hans](/f35/language/zh_Hans) | 24 | 24 | 100.0 | /mnt/stockage/packages/f35/fcitx-table-extra/po/zh_CN.po | 
+ | [zh_Hant](/f35/language/zh_Hant) | 24 | 24 | 100.0 | /mnt/stockage/packages/f35/fcitx-table-extra/po/zh_TW.po | 
+ | [da](/f35/language/da) | 0 | 24 | 0.0 | /mnt/stockage/packages/f35/fcitx-table-extra/po/da.po | 
 {.sortable}
 
 

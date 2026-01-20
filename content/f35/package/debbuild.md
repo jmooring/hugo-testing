@@ -18,10 +18,10 @@ The package debbuild (version 20.04.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f35/language/de.md" >}}) | 241 | 241 | 100.0 | /mnt/stockage/packages/f35/debbuild/po/de/debbuild.po | 
- | [tr]({{< ref "/f35/language/tr.md" >}}) | 241 | 241 | 100.0 | /mnt/stockage/packages/f35/debbuild/po/tr/debbuild.po | 
- | [uk]({{< ref "/f35/language/uk.md" >}}) | 241 | 241 | 100.0 | /mnt/stockage/packages/f35/debbuild/po/uk/debbuild.po | 
- | [it]({{< ref "/f35/language/it.md" >}}) | 5 | 241 | 2.1 | /mnt/stockage/packages/f35/debbuild/po/it/debbuild.po | 
+ | [de](/f35/language/de) | 241 | 241 | 100.0 | /mnt/stockage/packages/f35/debbuild/po/de/debbuild.po | 
+ | [tr](/f35/language/tr) | 241 | 241 | 100.0 | /mnt/stockage/packages/f35/debbuild/po/tr/debbuild.po | 
+ | [uk](/f35/language/uk) | 241 | 241 | 100.0 | /mnt/stockage/packages/f35/debbuild/po/uk/debbuild.po | 
+ | [it](/f35/language/it) | 5 | 241 | 2.1 | /mnt/stockage/packages/f35/debbuild/po/it/debbuild.po | 
 {.sortable}
 
 

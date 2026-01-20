@@ -18,8 +18,8 @@ The package synce-kde (version 0.9.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f7/language/de.md" >}}) | 668 | 675 | 99.0 | /mnt/stockage/packages/f7/synce-kde/po/de.po | 
- | [fr]({{< ref "/f7/language/fr.md" >}}) | 64 | 675 | 9.5 | /mnt/stockage/packages/f7/synce-kde/po/fr.po | 
+ | [de](/f7/language/de) | 668 | 675 | 99.0 | /mnt/stockage/packages/f7/synce-kde/po/de.po | 
+ | [fr](/f7/language/fr) | 64 | 675 | 9.5 | /mnt/stockage/packages/f7/synce-kde/po/fr.po | 
 {.sortable}
 
 

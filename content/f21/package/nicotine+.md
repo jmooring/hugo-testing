@@ -18,20 +18,20 @@ The package nicotine+ (version 1.2.16):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [hu]({{< ref "/f21/language/hu.md" >}}) | 4977 | 4977 | 100.0 | /mnt/stockage/packages/f21/nicotine+/languages/hu/nicotine.po | 
- | [nl]({{< ref "/f21/language/nl.md" >}}) | 4978 | 4978 | 100.0 | /mnt/stockage/packages/f21/nicotine+/languages/nl/nicotine.po | 
- | [sk]({{< ref "/f21/language/sk.md" >}}) | 4140 | 4140 | 100.0 | /mnt/stockage/packages/f21/nicotine+/languages/sk/nicotine.po | 
- | [lt]({{< ref "/f21/language/lt.md" >}}) | 5099 | 5105 | 99.9 | /mnt/stockage/packages/f21/nicotine+/languages/lt/nicotine.po | 
- | [de]({{< ref "/f21/language/de.md" >}}) | 4395 | 4977 | 88.3 | /mnt/stockage/packages/f21/nicotine+/languages/de/nicotine.po | 
- | [fr]({{< ref "/f21/language/fr.md" >}}) | 4911 | 5624 | 87.3 | /mnt/stockage/packages/f21/nicotine+/languages/fr/nicotine.po | 
- | [eu]({{< ref "/f21/language/eu.md" >}}) | 2735 | 4140 | 66.1 | /mnt/stockage/packages/f21/nicotine+/languages/eu/nicotine.po | 
- | [es]({{< ref "/f21/language/es.md" >}}) | 2550 | 4140 | 61.6 | /mnt/stockage/packages/f21/nicotine+/languages/es/nicotine.po | 
- | [pl]({{< ref "/f21/language/pl.md" >}}) | 2544 | 4140 | 61.4 | /mnt/stockage/packages/f21/nicotine+/languages/pl/nicotine.po | 
- | [fi]({{< ref "/f21/language/fi.md" >}}) | 2532 | 4140 | 61.2 | /mnt/stockage/packages/f21/nicotine+/languages/fi/nicotine.po | 
- | [it]({{< ref "/f21/language/it.md" >}}) | 1967 | 4140 | 47.5 | /mnt/stockage/packages/f21/nicotine+/languages/it/nicotine.po | 
- | [pt_BR]({{< ref "/f21/language/pt_BR.md" >}}) | 1932 | 4140 | 46.7 | /mnt/stockage/packages/f21/nicotine+/languages/pt_BR/nicotine.po | 
- | [da]({{< ref "/f21/language/da.md" >}}) | 1524 | 4140 | 36.8 | /mnt/stockage/packages/f21/nicotine+/languages/da/nicotine.po | 
- | [sv]({{< ref "/f21/language/sv.md" >}}) | 1459 | 4140 | 35.2 | /mnt/stockage/packages/f21/nicotine+/languages/sv/nicotine.po | 
+ | [hu](/f21/language/hu) | 4977 | 4977 | 100.0 | /mnt/stockage/packages/f21/nicotine+/languages/hu/nicotine.po | 
+ | [nl](/f21/language/nl) | 4978 | 4978 | 100.0 | /mnt/stockage/packages/f21/nicotine+/languages/nl/nicotine.po | 
+ | [sk](/f21/language/sk) | 4140 | 4140 | 100.0 | /mnt/stockage/packages/f21/nicotine+/languages/sk/nicotine.po | 
+ | [lt](/f21/language/lt) | 5099 | 5105 | 99.9 | /mnt/stockage/packages/f21/nicotine+/languages/lt/nicotine.po | 
+ | [de](/f21/language/de) | 4395 | 4977 | 88.3 | /mnt/stockage/packages/f21/nicotine+/languages/de/nicotine.po | 
+ | [fr](/f21/language/fr) | 4911 | 5624 | 87.3 | /mnt/stockage/packages/f21/nicotine+/languages/fr/nicotine.po | 
+ | [eu](/f21/language/eu) | 2735 | 4140 | 66.1 | /mnt/stockage/packages/f21/nicotine+/languages/eu/nicotine.po | 
+ | [es](/f21/language/es) | 2550 | 4140 | 61.6 | /mnt/stockage/packages/f21/nicotine+/languages/es/nicotine.po | 
+ | [pl](/f21/language/pl) | 2544 | 4140 | 61.4 | /mnt/stockage/packages/f21/nicotine+/languages/pl/nicotine.po | 
+ | [fi](/f21/language/fi) | 2532 | 4140 | 61.2 | /mnt/stockage/packages/f21/nicotine+/languages/fi/nicotine.po | 
+ | [it](/f21/language/it) | 1967 | 4140 | 47.5 | /mnt/stockage/packages/f21/nicotine+/languages/it/nicotine.po | 
+ | [pt_BR](/f21/language/pt_BR) | 1932 | 4140 | 46.7 | /mnt/stockage/packages/f21/nicotine+/languages/pt_BR/nicotine.po | 
+ | [da](/f21/language/da) | 1524 | 4140 | 36.8 | /mnt/stockage/packages/f21/nicotine+/languages/da/nicotine.po | 
+ | [sv](/f21/language/sv) | 1459 | 4140 | 35.2 | /mnt/stockage/packages/f21/nicotine+/languages/sv/nicotine.po | 
 {.sortable}
 
 

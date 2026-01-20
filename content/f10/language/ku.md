@@ -47,152 +47,152 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [alacarte]({{< ref "/f10/package/alacarte.md" >}}) | 61 | 61 | 100.0 | Kurdish <ku@li.org> | 
- | [at-spi]({{< ref "/f10/package/at-spi.md" >}}) | 4 | 4 | 100.0 | Kurdish | 
- | [dialog]({{< ref "/f10/package/dialog.md" >}}) | 25 | 25 | 100.0 | Kurdish <translation-team-ku@ferheng.org> | 
- | [gnome-applets]({{< ref "/f10/package/gnome-applets.md" >}}) | 4098 | 4098 | 100.0 | Kurdish <ku@li.org> | 
- | [gnome-backgrounds]({{< ref "/f10/package/gnome-backgrounds.md" >}}) | 35 | 35 | 100.0 | Kurdish <ku@li.org> | 
- | [gnome-desktop]({{< ref "/f10/package/gnome-desktop.md" >}}) | 330 | 330 | 100.0 | Kurdish <gnu-ku-wergerandin@lists.sourceforge.net> | 
- | [gnome-mag]({{< ref "/f10/package/gnome-mag.md" >}}) | 5 | 5 | 100.0 | Kurdish <gnu-ku-wergerandin@lists.sourceforge.net> | 
- | [gnome-menus]({{< ref "/f10/package/gnome-menus.md" >}}) | 167 | 167 | 100.0 | Kurdish <ku@li.org> | 
- | [gnome-netstatus]({{< ref "/f10/package/gnome-netstatus.md" >}}) | 417 | 417 | 100.0 | Kurdish <ku@li.org> | 
- | [libgnome]({{< ref "/f10/package/libgnome.md" >}}) | 1517 | 1517 | 100.0 | Kurdish <ku@li.org> | 
- | [libwnck]({{< ref "/f10/package/libwnck.md" >}}) | 73 | 73 | 100.0 | Kurdish <gnu-ku-wergerandin@lists.sourceforge.net> | 
- | [libxfcegui4]({{< ref "/f10/package/libxfcegui4.md" >}}) | 81 | 81 | 100.0 | Kurdish <ku@li.org> | 
- | [lxmenu-data]({{< ref "/f10/package/lxmenu-data.md" >}}) | 97 | 97 | 100.0 | Kurdish <ku@li.org> | 
- | [newt]({{< ref "/f10/package/newt.md" >}}) | 4 | 4 | 100.0 | KURDISH <ku@li.org> | 
- | [xdg-user-dirs]({{< ref "/f10/package/xdg-user-dirs.md" >}}) | 26 | 26 | 100.0 | Kurdish <ubuntu-l10n-kur@lists.ubuntu.com> | 
- | [xfce-mcs-manager]({{< ref "/f10/package/xfce-mcs-manager.md" >}}) | 30 | 30 | 100.0 | Kurdish <ku@li.org> | 
- | [yelp]({{< ref "/f10/package/yelp.md" >}}) | 956 | 956 | 100.0 | Kurdish <gnu-ku-wergerandin@lists.sourceforge.net> | 
- | [gnome-panel]({{< ref "/f10/package/gnome-panel.md" >}}) | 4083 | 4085 | 100.0 | Kurdish <ku@li.org> | 
- | [libgnomeui]({{< ref "/f10/package/libgnomeui.md" >}}) | 1329 | 1335 | 99.6 | Kurdish <gnu-ku-wergerandin@lists.sourceforge.net> | 
- | [xfce4-session]({{< ref "/f10/package/xfce4-session.md" >}}) | 732 | 738 | 99.2 | Kurdish <ku@li.org> | 
- | [evolution-webcal]({{< ref "/f10/package/evolution-webcal.md" >}}) | 180 | 184 | 97.8 | Kurdish <ku@li.org> | 
- | [gnome-nettool]({{< ref "/f10/package/gnome-nettool.md" >}}) | 523 | 540 | 96.9 | Kurdish <ku@li.org> | 
- | [file-roller]({{< ref "/f10/package/file-roller.md" >}}) | 903 | 947 | 95.4 | Kurdish <gnu-ku-wergerandin@lists.sourceforge.net> | 
- | [iso-codes]({{< ref "/f10/package/iso-codes.md" >}}) | 1026 | 1077 | 95.3 | Kurdish <ubuntu-l10n-kur@lists.ubuntu.com> | 
- | [atk]({{< ref "/f10/package/atk.md" >}}) | 348 | 370 | 94.1 | Kurdish <ku@li.org> | 
- | [mingw32-atk]({{< ref "/f10/package/mingw32-atk.md" >}}) | 348 | 375 | 92.8 | Kurdish <ku@li.org> | 
- | [konq-plugins]({{< ref "/f10/package/konq-plugins.md" >}}) | 1357 | 1483 | 91.5 | Kurdish <kde-i18n-doc@kde.org> | 
- | [xfce-mcs-plugins]({{< ref "/f10/package/xfce-mcs-plugins.md" >}}) | 472 | 540 | 87.4 | Kurdish <ku@li.org> | 
- | [gnome-screensaver]({{< ref "/f10/package/gnome-screensaver.md" >}}) | 1092 | 1339 | 81.6 | Kurdish <<ku@li.org>> | 
- | [kcoloredit]({{< ref "/f10/package/kcoloredit.md" >}}) | 219 | 278 | 78.8 | Kurdish <kde-i18n-doc@kde.org> | 
- | [control-center]({{< ref "/f10/package/control-center.md" >}}) | 2929 | 3746 | 78.2 | Kurdish <gnu-ku-wergerandin@lists.sourceforge.net> | 
- | [eel2]({{< ref "/f10/package/eel2.md" >}}) | 177 | 235 | 75.3 | Kurdish <ku@li.org> | 
- | [evince]({{< ref "/f10/package/evince.md" >}}) | 716 | 986 | 72.6 | Kurdish <gnu-ku-wergerandin@lists.sourceforge.net> | 
- | [tuxpaint]({{< ref "/f10/package/tuxpaint.md" >}}) | 537 | 761 | 70.6 | KURDISH <LL@li.org> | 
- | [gnome-media]({{< ref "/f10/package/gnome-media.md" >}}) | 1356 | 1927 | 70.4 | Kurdish <ku@li.org> | 
- | [pyroom]({{< ref "/f10/package/pyroom.md" >}}) | 266 | 411 | 64.7 | Kurdish <ku@li.org> | 
- | [deskbar-applet]({{< ref "/f10/package/deskbar-applet.md" >}}) | 434 | 697 | 62.3 | Kurdish <ku@li.org> | 
- | [mousepad]({{< ref "/f10/package/mousepad.md" >}}) | 83 | 135 | 61.5 | Kurdish <ku@li.org> | 
- | [nautilus]({{< ref "/f10/package/nautilus.md" >}}) | 3978 | 6891 | 57.7 | Kurdish <gnu-ku-wergerandin@lists.sourceforge.net> | 
- | [Thunar]({{< ref "/f10/package/Thunar.md" >}}) | 2194 | 3802 | 57.7 | Kurdish <ku@li.org> | 
- | [eog]({{< ref "/f10/package/eog.md" >}}) | 445 | 998 | 44.6 | Kurdish <gnu-ku-wergerandin@lists.sourceforge.net> | 
- | [gnome-volume-manager]({{< ref "/f10/package/gnome-volume-manager.md" >}}) | 438 | 1198 | 36.6 | Kurdish <ku@li.org> | 
- | [pidgin]({{< ref "/f10/package/pidgin.md" >}}) | 6495 | 17989 | 36.1 | Kurdish <gnu-ku-wergerandin@lists.sourceforge.net> | 
- | [gnome-settings-daemon]({{< ref "/f10/package/gnome-settings-daemon.md" >}}) | 369 | 1034 | 35.7 | Kurdish <gnu-ku-wergerandin@lists.sourceforge.net> | 
- | [gnome-terminal]({{< ref "/f10/package/gnome-terminal.md" >}}) | 1612 | 4599 | 35.1 | Kurdish <ku@li.org> | 
- | [transmission]({{< ref "/f10/package/transmission.md" >}}) | 374 | 1111 | 33.7 | Kurdish <ku@li.org> | 
- | [poedit]({{< ref "/f10/package/poedit.md" >}}) | 361 | 1162 | 31.1 | Kurdish <gnu-ku-wergerandin@lists.sourceforge.net> | 
- | [gnome-utils]({{< ref "/f10/package/gnome-utils.md" >}}) | 1252 | 4136 | 30.3 | Kurdish <gnu-ku-wergerandin@lists.sourceforge.net> | 
- | [gnome-session]({{< ref "/f10/package/gnome-session.md" >}}) | 208 | 714 | 29.1 | Kurdish <gnu-ku-wergerandin@lists.sourceforge.net> | 
- | [gtk2]({{< ref "/f10/package/gtk2.md" >}}) | 3499 | 12760 | 27.4 | Kurdish <ku@li.org> | 
- | [epiphany]({{< ref "/f10/package/epiphany.md" >}}) | 1067 | 3945 | 27.0 | Kurdish <gnu-ku-wergerandin@lists.sourceforge.net> | 
- | [libgweather]({{< ref "/f10/package/libgweather.md" >}}) | 2602 | 10361 | 25.1 | Kurdish <ku@li.org> | 
- | [gnome-system-monitor]({{< ref "/f10/package/gnome-system-monitor.md" >}}) | 154 | 645 | 23.9 | Kurdish <ku@li.org> | 
- | [mingw32-gtk2]({{< ref "/f10/package/mingw32-gtk2.md" >}}) | 2832 | 12400 | 22.8 | Kurdish <ku@li.org> | 
- | [gnome-power-manager]({{< ref "/f10/package/gnome-power-manager.md" >}}) | 613 | 2728 | 22.5 | Kurdish <ku@li.org> | 
- | [xfce-utils]({{< ref "/f10/package/xfce-utils.md" >}}) | 21 | 119 | 17.6 | Kurdish <ku@li.org> | 
- | [totem]({{< ref "/f10/package/totem.md" >}}) | 259 | 1685 | 15.4 | Kurdish <ku@li.org> | 
- | [totem-pl-parser]({{< ref "/f10/package/totem-pl-parser.md" >}}) | 259 | 1685 | 15.4 | Kurdish <ku@li.org> | 
- | [filezilla]({{< ref "/f10/package/filezilla.md" >}}) | 1039 | 6860 | 15.1 | Kurdish | 
- | [libvirt]({{< ref "/f10/package/libvirt.md" >}}) | 1224 | 8225 | 14.9 | none | 
- | [sabayon]({{< ref "/f10/package/sabayon.md" >}}) | 118 | 816 | 14.5 | Kurdish <ku@li.org> | 
- | [gedit]({{< ref "/f10/package/gedit.md" >}}) | 676 | 5063 | 13.4 | Kurdish <gnu-ku-wergerandin@lists.sourceforge.net> | 
- | [gvfs]({{< ref "/f10/package/gvfs.md" >}}) | 139 | 1050 | 13.2 | Kurdish <ku@li.org> | 
- | [gcalctool]({{< ref "/f10/package/gcalctool.md" >}}) | 117 | 895 | 13.1 | Kurdish <ku@li.org> | 
- | [metacity]({{< ref "/f10/package/metacity.md" >}}) | 1015 | 7838 | 12.9 | Kurdish <gnu-ku-wergerandin@lists.sourceforge.net> | 
- | [libgtop2]({{< ref "/f10/package/libgtop2.md" >}}) | 17 | 134 | 12.7 | Kurdish <gnu-ku-wergerandin@lists.sourceforge.net> | 
- | [moin]({{< ref "/f10/package/moin.md" >}}) | 474 | 3742 | 12.7 |  | 
- | [tomboy]({{< ref "/f10/package/tomboy.md" >}}) | 117 | 965 | 12.1 | Kurdish <ku@li.org> | 
- | [libbonoboui]({{< ref "/f10/package/libbonoboui.md" >}}) | 42 | 360 | 11.7 | Kurdish <gnu-ku-wergerandin@lists.sourceforge.net> | 
- | [gconf-editor]({{< ref "/f10/package/gconf-editor.md" >}}) | 35 | 334 | 10.5 | Kurdish <gnu-ku-wergerandin@lists.sourceforge.net> | 
- | [vte]({{< ref "/f10/package/vte.md" >}}) | 10 | 96 | 10.4 | Kurdish <ku@li.org> | 
- | [pessulus]({{< ref "/f10/package/pessulus.md" >}}) | 9 | 88 | 10.2 | Kurdish <ku@li.org> | 
- | [sound-juicer]({{< ref "/f10/package/sound-juicer.md" >}}) | 85 | 852 | 10.0 | Kurdish <ku@li.org> | 
- | [dasher]({{< ref "/f10/package/dasher.md" >}}) | 44 | 520 | 8.5 | Kurdish <ku@li.org> | 
- | [tuxpaint-stamps]({{< ref "/f10/package/tuxpaint-stamps.md" >}}) | 144 | 2617 | 5.5 | Kurdish <ku@li.org> | 
- | [zenity]({{< ref "/f10/package/zenity.md" >}}) | 20 | 394 | 5.1 | Kurdish <gnu-ku-wergerandin@lists.sourceforge.net> | 
- | [gdm]({{< ref "/f10/package/gdm.md" >}}) | 66 | 1315 | 5.0 | Kurdish <ku@li.org> | 
- | [bug-buddy]({{< ref "/f10/package/bug-buddy.md" >}}) | 61 | 1233 | 4.9 | Kurdish <ku@li.org> | 
- | [NetworkManager]({{< ref "/f10/package/NetworkManager.md" >}}) | 50 | 1027 | 4.9 | Kurdish <ku@li.org> | 
- | [vinagre]({{< ref "/f10/package/vinagre.md" >}}) | 20 | 440 | 4.5 | Kurdish <ku@li.org> | 
- | [libgnomecanvas]({{< ref "/f10/package/libgnomecanvas.md" >}}) | 16 | 357 | 4.5 | Kurdish <gnu-ku-wergerandin@lists.sourceforge.net> | 
- | [xchat-gnome]({{< ref "/f10/package/xchat-gnome.md" >}}) | 154 | 3901 | 3.9 | Kurdish <ku@li.org> | 
- | [deluge]({{< ref "/f10/package/deluge.md" >}}) | 72 | 1998 | 3.6 | Kurdish <ku@li.org> | 
- | [gtkhtml3]({{< ref "/f10/package/gtkhtml3.md" >}}) | 32 | 909 | 3.5 | Kurdish <gnu-ku-wergerandin@lists.sourceforge.net> | 
- | [Terminal]({{< ref "/f10/package/Terminal.md" >}}) | 51 | 1450 | 3.5 | Kurdish <ku@li.org> | 
- | [stardict]({{< ref "/f10/package/stardict.md" >}}) | 81 | 2440 | 3.3 | KURDISH <ku@li.org> | 
- | [gnome-themes]({{< ref "/f10/package/gnome-themes.md" >}}) | 3 | 104 | 2.9 | Kurdish <ku@li.org> | 
- | [nautilus-cd-burner]({{< ref "/f10/package/nautilus-cd-burner.md" >}}) | 35 | 1272 | 2.8 | Kurdish <ku@li.org> | 
- | [gok]({{< ref "/f10/package/gok.md" >}}) | 50 | 1856 | 2.7 | Kurdish <gnu-ku-wergerandin@lists.sourceforge.net> | 
- | [vino]({{< ref "/f10/package/vino.md" >}}) | 13 | 540 | 2.4 | Kurdish <gnu-ku-wergerandin@lists.sourceforge.net> | 
- | [bzr-gtk]({{< ref "/f10/package/bzr-gtk.md" >}}) | 24 | 1090 | 2.2 | Kurdish <ku@li.org> | 
- | [Miro]({{< ref "/f10/package/Miro.md" >}}) | 55 | 2661 | 2.1 | Kurdish <ku@li.org> | 
- | [glib2]({{< ref "/f10/package/glib2.md" >}}) | 36 | 2197 | 1.6 | Kurdish <gnu-ku-wergerandin@lists.sourceforge.net> | 
- | [gnome-vfs2]({{< ref "/f10/package/gnome-vfs2.md" >}}) | 25 | 1576 | 1.6 | Kurdish <ku@li.org> | 
- | [mingw32-glib2]({{< ref "/f10/package/mingw32-glib2.md" >}}) | 36 | 2325 | 1.5 | Kurdish <gnu-ku-wergerandin@lists.sourceforge.net> | 
- | [po4a]({{< ref "/f10/package/po4a.md" >}}) | 18 | 1613 | 1.1 | Kurdish <ku@li.org> | 
- | [gnome-games]({{< ref "/f10/package/gnome-games.md" >}}) | 70 | 7038 | 1.0 | Kurdish <gnu-ku-wergerandin@lists.sourceforge.net> | 
- | [system-config-netboot]({{< ref "/f10/package/system-config-netboot.md" >}}) | 10 | 1103 | 0.9 | none | 
- | [evolution]({{< ref "/f10/package/evolution.md" >}}) | 133 | 17084 | 0.8 | Kurdish <gnu-ku-wergerandin@lists.sourceforge.net> | 
- | [GConf2]({{< ref "/f10/package/GConf2.md" >}}) | 10 | 3954 | 0.3 | Kurdish <gnu-ku-wergerandin@lists.sourceforge.net> | 
- | [ekiga]({{< ref "/f10/package/ekiga.md" >}}) | 12 | 5087 | 0.2 | Kurdish <ku@li.org> | 
- | [libbonobo]({{< ref "/f10/package/libbonobo.md" >}}) | 1 | 524 | 0.2 | Kurdish <gnu-ku-wergerandin@lists.sourceforge.net> | 
- | [bluez-gnome]({{< ref "/f10/package/bluez-gnome.md" >}}) | 1 | 631 | 0.2 | Kurdish <ku@li.org> | 
- | [evolution-data-server]({{< ref "/f10/package/evolution-data-server.md" >}}) | 3 | 4863 | 0.1 | Kurdish <gnu-ku-wergerandin@lists.sourceforge.net> | 
- | [anaconda]({{< ref "/f10/package/anaconda.md" >}}) | 0 | 10416 | 0.0 | none | 
- | [authconfig]({{< ref "/f10/package/authconfig.md" >}}) | 0 | 1351 | 0.0 | none | 
- | [avant-window-navigator]({{< ref "/f10/package/avant-window-navigator.md" >}}) | 0 | 593 | 0.0 | Kurdish <ku@li.org> | 
- | [chkconfig]({{< ref "/f10/package/chkconfig.md" >}}) | 0 | 430 | 0.0 | none | 
- | [evolution-exchange]({{< ref "/f10/package/evolution-exchange.md" >}}) | 0 | 1943 | 0.0 | Kurdish <gnu-ku-wergerandin@lists.sourceforge.net> | 
- | [firstboot]({{< ref "/f10/package/firstboot.md" >}}) | 0 | 604 | 0.0 | none | 
- | [hwbrowser]({{< ref "/f10/package/hwbrowser.md" >}}) | 0 | 117 | 0.0 | none | 
- | [im-chooser]({{< ref "/f10/package/im-chooser.md" >}}) | 0 | 152 | 0.0 | none | 
- | [imsettings]({{< ref "/f10/package/imsettings.md" >}}) | 0 | 849 | 0.0 | none | 
- | [initscripts]({{< ref "/f10/package/initscripts.md" >}}) | 0 | 3871 | 0.0 | none | 
- | [kexec-tools]({{< ref "/f10/package/kexec-tools.md" >}}) | 0 | 132 | 0.0 | LANGUAGE <LL@li.org> | 
- | [libgxim]({{< ref "/f10/package/libgxim.md" >}}) | 0 | 130 | 0.0 | none | 
- | [passwd]({{< ref "/f10/package/passwd.md" >}}) | 0 | 291 | 0.0 | none | 
- | [policycoreutils]({{< ref "/f10/package/policycoreutils.md" >}}) | 0 | 4363 | 0.0 | LANGUAGE <LL@li.org> | 
- | [pykickstart]({{< ref "/f10/package/pykickstart.md" >}}) | 0 | 284 | 0.0 | LANGUAGE <LL@li.org> | 
- | [redhat-menus]({{< ref "/f10/package/redhat-menus.md" >}}) | 0 | 261 | 0.0 | none | 
- | [rhpl]({{< ref "/f10/package/rhpl.md" >}}) | 0 | 185 | 0.0 | none | 
- | [rhpxl]({{< ref "/f10/package/rhpxl.md" >}}) | 0 | 130 | 0.0 | none | 
- | [setroubleshoot]({{< ref "/f10/package/setroubleshoot.md" >}}) | 0 | 582 | 0.0 | LANGUAGE <LL@li.org> | 
- | [setroubleshoot-plugins]({{< ref "/f10/package/setroubleshoot-plugins.md" >}}) | 0 | 8276 | 0.0 | LANGUAGE <LL@li.org> | 
- | [setuptool]({{< ref "/f10/package/setuptool.md" >}}) | 0 | 60 | 0.0 | none | 
- | [specspo]({{< ref "/f10/package/specspo.md" >}}) | 0 | 305286 | 0.0 | none | 
- | [switchdesk]({{< ref "/f10/package/switchdesk.md" >}}) | 0 | 137 | 0.0 | none | 
- | [system-config-bind]({{< ref "/f10/package/system-config-bind.md" >}}) | 0 | 9419 | 0.0 | none | 
- | [system-config-boot]({{< ref "/f10/package/system-config-boot.md" >}}) | 0 | 46 | 0.0 | none | 
- | [system-config-date]({{< ref "/f10/package/system-config-date.md" >}}) | 0 | 986 | 0.0 | none | 
- | [system-config-date-docs]({{< ref "/f10/package/system-config-date-docs.md" >}}) | 0 | 660 | 0.0 | LANGUAGE <LL@li.org> | 
- | [system-config-display]({{< ref "/f10/package/system-config-display.md" >}}) | 0 | 398 | 0.0 | none | 
- | [system-config-firewall]({{< ref "/f10/package/system-config-firewall.md" >}}) | 0 | 2497 | 0.0 | none | 
- | [system-config-httpd]({{< ref "/f10/package/system-config-httpd.md" >}}) | 0 | 858 | 0.0 | none | 
- | [system-config-kdump]({{< ref "/f10/package/system-config-kdump.md" >}}) | 0 | 383 | 0.0 | LANGUAGE <LL@li.org> | 
- | [system-config-keyboard]({{< ref "/f10/package/system-config-keyboard.md" >}}) | 0 | 78 | 0.0 | none | 
- | [system-config-kickstart]({{< ref "/f10/package/system-config-kickstart.md" >}}) | 0 | 1054 | 0.0 | none | 
- | [system-config-language]({{< ref "/f10/package/system-config-language.md" >}}) | 0 | 45 | 0.0 | none | 
- | [system-config-network]({{< ref "/f10/package/system-config-network.md" >}}) | 0 | 2894 | 0.0 | none | 
- | [system-config-nfs]({{< ref "/f10/package/system-config-nfs.md" >}}) | 0 | 1517 | 0.0 | LANGUAGE <LL@li.org> | 
- | [system-config-rootpassword]({{< ref "/f10/package/system-config-rootpassword.md" >}}) | 0 | 116 | 0.0 | none | 
- | [system-config-samba]({{< ref "/f10/package/system-config-samba.md" >}}) | 0 | 422 | 0.0 | none | 
- | [system-config-services]({{< ref "/f10/package/system-config-services.md" >}}) | 0 | 384 | 0.0 | none | 
- | [system-config-users]({{< ref "/f10/package/system-config-users.md" >}}) | 0 | 1337 | 0.0 | none | 
- | [system-config-users-docs]({{< ref "/f10/package/system-config-users-docs.md" >}}) | 0 | 1054 | 0.0 | LANGUAGE <LL@li.org> | 
- | [system-switch-mail]({{< ref "/f10/package/system-switch-mail.md" >}}) | 0 | 134 | 0.0 | none | 
+ | [alacarte](/f10/package/alacarte) | 61 | 61 | 100.0 | Kurdish <ku@li.org> | 
+ | [at-spi](/f10/package/at-spi) | 4 | 4 | 100.0 | Kurdish | 
+ | [dialog](/f10/package/dialog) | 25 | 25 | 100.0 | Kurdish <translation-team-ku@ferheng.org> | 
+ | [gnome-applets](/f10/package/gnome-applets) | 4098 | 4098 | 100.0 | Kurdish <ku@li.org> | 
+ | [gnome-backgrounds](/f10/package/gnome-backgrounds) | 35 | 35 | 100.0 | Kurdish <ku@li.org> | 
+ | [gnome-desktop](/f10/package/gnome-desktop) | 330 | 330 | 100.0 | Kurdish <gnu-ku-wergerandin@lists.sourceforge.net> | 
+ | [gnome-mag](/f10/package/gnome-mag) | 5 | 5 | 100.0 | Kurdish <gnu-ku-wergerandin@lists.sourceforge.net> | 
+ | [gnome-menus](/f10/package/gnome-menus) | 167 | 167 | 100.0 | Kurdish <ku@li.org> | 
+ | [gnome-netstatus](/f10/package/gnome-netstatus) | 417 | 417 | 100.0 | Kurdish <ku@li.org> | 
+ | [libgnome](/f10/package/libgnome) | 1517 | 1517 | 100.0 | Kurdish <ku@li.org> | 
+ | [libwnck](/f10/package/libwnck) | 73 | 73 | 100.0 | Kurdish <gnu-ku-wergerandin@lists.sourceforge.net> | 
+ | [libxfcegui4](/f10/package/libxfcegui4) | 81 | 81 | 100.0 | Kurdish <ku@li.org> | 
+ | [lxmenu-data](/f10/package/lxmenu-data) | 97 | 97 | 100.0 | Kurdish <ku@li.org> | 
+ | [newt](/f10/package/newt) | 4 | 4 | 100.0 | KURDISH <ku@li.org> | 
+ | [xdg-user-dirs](/f10/package/xdg-user-dirs) | 26 | 26 | 100.0 | Kurdish <ubuntu-l10n-kur@lists.ubuntu.com> | 
+ | [xfce-mcs-manager](/f10/package/xfce-mcs-manager) | 30 | 30 | 100.0 | Kurdish <ku@li.org> | 
+ | [yelp](/f10/package/yelp) | 956 | 956 | 100.0 | Kurdish <gnu-ku-wergerandin@lists.sourceforge.net> | 
+ | [gnome-panel](/f10/package/gnome-panel) | 4083 | 4085 | 100.0 | Kurdish <ku@li.org> | 
+ | [libgnomeui](/f10/package/libgnomeui) | 1329 | 1335 | 99.6 | Kurdish <gnu-ku-wergerandin@lists.sourceforge.net> | 
+ | [xfce4-session](/f10/package/xfce4-session) | 732 | 738 | 99.2 | Kurdish <ku@li.org> | 
+ | [evolution-webcal](/f10/package/evolution-webcal) | 180 | 184 | 97.8 | Kurdish <ku@li.org> | 
+ | [gnome-nettool](/f10/package/gnome-nettool) | 523 | 540 | 96.9 | Kurdish <ku@li.org> | 
+ | [file-roller](/f10/package/file-roller) | 903 | 947 | 95.4 | Kurdish <gnu-ku-wergerandin@lists.sourceforge.net> | 
+ | [iso-codes](/f10/package/iso-codes) | 1026 | 1077 | 95.3 | Kurdish <ubuntu-l10n-kur@lists.ubuntu.com> | 
+ | [atk](/f10/package/atk) | 348 | 370 | 94.1 | Kurdish <ku@li.org> | 
+ | [mingw32-atk](/f10/package/mingw32-atk) | 348 | 375 | 92.8 | Kurdish <ku@li.org> | 
+ | [konq-plugins](/f10/package/konq-plugins) | 1357 | 1483 | 91.5 | Kurdish <kde-i18n-doc@kde.org> | 
+ | [xfce-mcs-plugins](/f10/package/xfce-mcs-plugins) | 472 | 540 | 87.4 | Kurdish <ku@li.org> | 
+ | [gnome-screensaver](/f10/package/gnome-screensaver) | 1092 | 1339 | 81.6 | Kurdish <<ku@li.org>> | 
+ | [kcoloredit](/f10/package/kcoloredit) | 219 | 278 | 78.8 | Kurdish <kde-i18n-doc@kde.org> | 
+ | [control-center](/f10/package/control-center) | 2929 | 3746 | 78.2 | Kurdish <gnu-ku-wergerandin@lists.sourceforge.net> | 
+ | [eel2](/f10/package/eel2) | 177 | 235 | 75.3 | Kurdish <ku@li.org> | 
+ | [evince](/f10/package/evince) | 716 | 986 | 72.6 | Kurdish <gnu-ku-wergerandin@lists.sourceforge.net> | 
+ | [tuxpaint](/f10/package/tuxpaint) | 537 | 761 | 70.6 | KURDISH <LL@li.org> | 
+ | [gnome-media](/f10/package/gnome-media) | 1356 | 1927 | 70.4 | Kurdish <ku@li.org> | 
+ | [pyroom](/f10/package/pyroom) | 266 | 411 | 64.7 | Kurdish <ku@li.org> | 
+ | [deskbar-applet](/f10/package/deskbar-applet) | 434 | 697 | 62.3 | Kurdish <ku@li.org> | 
+ | [mousepad](/f10/package/mousepad) | 83 | 135 | 61.5 | Kurdish <ku@li.org> | 
+ | [nautilus](/f10/package/nautilus) | 3978 | 6891 | 57.7 | Kurdish <gnu-ku-wergerandin@lists.sourceforge.net> | 
+ | [Thunar](/f10/package/Thunar) | 2194 | 3802 | 57.7 | Kurdish <ku@li.org> | 
+ | [eog](/f10/package/eog) | 445 | 998 | 44.6 | Kurdish <gnu-ku-wergerandin@lists.sourceforge.net> | 
+ | [gnome-volume-manager](/f10/package/gnome-volume-manager) | 438 | 1198 | 36.6 | Kurdish <ku@li.org> | 
+ | [pidgin](/f10/package/pidgin) | 6495 | 17989 | 36.1 | Kurdish <gnu-ku-wergerandin@lists.sourceforge.net> | 
+ | [gnome-settings-daemon](/f10/package/gnome-settings-daemon) | 369 | 1034 | 35.7 | Kurdish <gnu-ku-wergerandin@lists.sourceforge.net> | 
+ | [gnome-terminal](/f10/package/gnome-terminal) | 1612 | 4599 | 35.1 | Kurdish <ku@li.org> | 
+ | [transmission](/f10/package/transmission) | 374 | 1111 | 33.7 | Kurdish <ku@li.org> | 
+ | [poedit](/f10/package/poedit) | 361 | 1162 | 31.1 | Kurdish <gnu-ku-wergerandin@lists.sourceforge.net> | 
+ | [gnome-utils](/f10/package/gnome-utils) | 1252 | 4136 | 30.3 | Kurdish <gnu-ku-wergerandin@lists.sourceforge.net> | 
+ | [gnome-session](/f10/package/gnome-session) | 208 | 714 | 29.1 | Kurdish <gnu-ku-wergerandin@lists.sourceforge.net> | 
+ | [gtk2](/f10/package/gtk2) | 3499 | 12760 | 27.4 | Kurdish <ku@li.org> | 
+ | [epiphany](/f10/package/epiphany) | 1067 | 3945 | 27.0 | Kurdish <gnu-ku-wergerandin@lists.sourceforge.net> | 
+ | [libgweather](/f10/package/libgweather) | 2602 | 10361 | 25.1 | Kurdish <ku@li.org> | 
+ | [gnome-system-monitor](/f10/package/gnome-system-monitor) | 154 | 645 | 23.9 | Kurdish <ku@li.org> | 
+ | [mingw32-gtk2](/f10/package/mingw32-gtk2) | 2832 | 12400 | 22.8 | Kurdish <ku@li.org> | 
+ | [gnome-power-manager](/f10/package/gnome-power-manager) | 613 | 2728 | 22.5 | Kurdish <ku@li.org> | 
+ | [xfce-utils](/f10/package/xfce-utils) | 21 | 119 | 17.6 | Kurdish <ku@li.org> | 
+ | [totem](/f10/package/totem) | 259 | 1685 | 15.4 | Kurdish <ku@li.org> | 
+ | [totem-pl-parser](/f10/package/totem-pl-parser) | 259 | 1685 | 15.4 | Kurdish <ku@li.org> | 
+ | [filezilla](/f10/package/filezilla) | 1039 | 6860 | 15.1 | Kurdish | 
+ | [libvirt](/f10/package/libvirt) | 1224 | 8225 | 14.9 | none | 
+ | [sabayon](/f10/package/sabayon) | 118 | 816 | 14.5 | Kurdish <ku@li.org> | 
+ | [gedit](/f10/package/gedit) | 676 | 5063 | 13.4 | Kurdish <gnu-ku-wergerandin@lists.sourceforge.net> | 
+ | [gvfs](/f10/package/gvfs) | 139 | 1050 | 13.2 | Kurdish <ku@li.org> | 
+ | [gcalctool](/f10/package/gcalctool) | 117 | 895 | 13.1 | Kurdish <ku@li.org> | 
+ | [metacity](/f10/package/metacity) | 1015 | 7838 | 12.9 | Kurdish <gnu-ku-wergerandin@lists.sourceforge.net> | 
+ | [libgtop2](/f10/package/libgtop2) | 17 | 134 | 12.7 | Kurdish <gnu-ku-wergerandin@lists.sourceforge.net> | 
+ | [moin](/f10/package/moin) | 474 | 3742 | 12.7 |  | 
+ | [tomboy](/f10/package/tomboy) | 117 | 965 | 12.1 | Kurdish <ku@li.org> | 
+ | [libbonoboui](/f10/package/libbonoboui) | 42 | 360 | 11.7 | Kurdish <gnu-ku-wergerandin@lists.sourceforge.net> | 
+ | [gconf-editor](/f10/package/gconf-editor) | 35 | 334 | 10.5 | Kurdish <gnu-ku-wergerandin@lists.sourceforge.net> | 
+ | [vte](/f10/package/vte) | 10 | 96 | 10.4 | Kurdish <ku@li.org> | 
+ | [pessulus](/f10/package/pessulus) | 9 | 88 | 10.2 | Kurdish <ku@li.org> | 
+ | [sound-juicer](/f10/package/sound-juicer) | 85 | 852 | 10.0 | Kurdish <ku@li.org> | 
+ | [dasher](/f10/package/dasher) | 44 | 520 | 8.5 | Kurdish <ku@li.org> | 
+ | [tuxpaint-stamps](/f10/package/tuxpaint-stamps) | 144 | 2617 | 5.5 | Kurdish <ku@li.org> | 
+ | [zenity](/f10/package/zenity) | 20 | 394 | 5.1 | Kurdish <gnu-ku-wergerandin@lists.sourceforge.net> | 
+ | [gdm](/f10/package/gdm) | 66 | 1315 | 5.0 | Kurdish <ku@li.org> | 
+ | [bug-buddy](/f10/package/bug-buddy) | 61 | 1233 | 4.9 | Kurdish <ku@li.org> | 
+ | [NetworkManager](/f10/package/NetworkManager) | 50 | 1027 | 4.9 | Kurdish <ku@li.org> | 
+ | [vinagre](/f10/package/vinagre) | 20 | 440 | 4.5 | Kurdish <ku@li.org> | 
+ | [libgnomecanvas](/f10/package/libgnomecanvas) | 16 | 357 | 4.5 | Kurdish <gnu-ku-wergerandin@lists.sourceforge.net> | 
+ | [xchat-gnome](/f10/package/xchat-gnome) | 154 | 3901 | 3.9 | Kurdish <ku@li.org> | 
+ | [deluge](/f10/package/deluge) | 72 | 1998 | 3.6 | Kurdish <ku@li.org> | 
+ | [gtkhtml3](/f10/package/gtkhtml3) | 32 | 909 | 3.5 | Kurdish <gnu-ku-wergerandin@lists.sourceforge.net> | 
+ | [Terminal](/f10/package/Terminal) | 51 | 1450 | 3.5 | Kurdish <ku@li.org> | 
+ | [stardict](/f10/package/stardict) | 81 | 2440 | 3.3 | KURDISH <ku@li.org> | 
+ | [gnome-themes](/f10/package/gnome-themes) | 3 | 104 | 2.9 | Kurdish <ku@li.org> | 
+ | [nautilus-cd-burner](/f10/package/nautilus-cd-burner) | 35 | 1272 | 2.8 | Kurdish <ku@li.org> | 
+ | [gok](/f10/package/gok) | 50 | 1856 | 2.7 | Kurdish <gnu-ku-wergerandin@lists.sourceforge.net> | 
+ | [vino](/f10/package/vino) | 13 | 540 | 2.4 | Kurdish <gnu-ku-wergerandin@lists.sourceforge.net> | 
+ | [bzr-gtk](/f10/package/bzr-gtk) | 24 | 1090 | 2.2 | Kurdish <ku@li.org> | 
+ | [Miro](/f10/package/Miro) | 55 | 2661 | 2.1 | Kurdish <ku@li.org> | 
+ | [glib2](/f10/package/glib2) | 36 | 2197 | 1.6 | Kurdish <gnu-ku-wergerandin@lists.sourceforge.net> | 
+ | [gnome-vfs2](/f10/package/gnome-vfs2) | 25 | 1576 | 1.6 | Kurdish <ku@li.org> | 
+ | [mingw32-glib2](/f10/package/mingw32-glib2) | 36 | 2325 | 1.5 | Kurdish <gnu-ku-wergerandin@lists.sourceforge.net> | 
+ | [po4a](/f10/package/po4a) | 18 | 1613 | 1.1 | Kurdish <ku@li.org> | 
+ | [gnome-games](/f10/package/gnome-games) | 70 | 7038 | 1.0 | Kurdish <gnu-ku-wergerandin@lists.sourceforge.net> | 
+ | [system-config-netboot](/f10/package/system-config-netboot) | 10 | 1103 | 0.9 | none | 
+ | [evolution](/f10/package/evolution) | 133 | 17084 | 0.8 | Kurdish <gnu-ku-wergerandin@lists.sourceforge.net> | 
+ | [GConf2](/f10/package/GConf2) | 10 | 3954 | 0.3 | Kurdish <gnu-ku-wergerandin@lists.sourceforge.net> | 
+ | [ekiga](/f10/package/ekiga) | 12 | 5087 | 0.2 | Kurdish <ku@li.org> | 
+ | [libbonobo](/f10/package/libbonobo) | 1 | 524 | 0.2 | Kurdish <gnu-ku-wergerandin@lists.sourceforge.net> | 
+ | [bluez-gnome](/f10/package/bluez-gnome) | 1 | 631 | 0.2 | Kurdish <ku@li.org> | 
+ | [evolution-data-server](/f10/package/evolution-data-server) | 3 | 4863 | 0.1 | Kurdish <gnu-ku-wergerandin@lists.sourceforge.net> | 
+ | [anaconda](/f10/package/anaconda) | 0 | 10416 | 0.0 | none | 
+ | [authconfig](/f10/package/authconfig) | 0 | 1351 | 0.0 | none | 
+ | [avant-window-navigator](/f10/package/avant-window-navigator) | 0 | 593 | 0.0 | Kurdish <ku@li.org> | 
+ | [chkconfig](/f10/package/chkconfig) | 0 | 430 | 0.0 | none | 
+ | [evolution-exchange](/f10/package/evolution-exchange) | 0 | 1943 | 0.0 | Kurdish <gnu-ku-wergerandin@lists.sourceforge.net> | 
+ | [firstboot](/f10/package/firstboot) | 0 | 604 | 0.0 | none | 
+ | [hwbrowser](/f10/package/hwbrowser) | 0 | 117 | 0.0 | none | 
+ | [im-chooser](/f10/package/im-chooser) | 0 | 152 | 0.0 | none | 
+ | [imsettings](/f10/package/imsettings) | 0 | 849 | 0.0 | none | 
+ | [initscripts](/f10/package/initscripts) | 0 | 3871 | 0.0 | none | 
+ | [kexec-tools](/f10/package/kexec-tools) | 0 | 132 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [libgxim](/f10/package/libgxim) | 0 | 130 | 0.0 | none | 
+ | [passwd](/f10/package/passwd) | 0 | 291 | 0.0 | none | 
+ | [policycoreutils](/f10/package/policycoreutils) | 0 | 4363 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [pykickstart](/f10/package/pykickstart) | 0 | 284 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [redhat-menus](/f10/package/redhat-menus) | 0 | 261 | 0.0 | none | 
+ | [rhpl](/f10/package/rhpl) | 0 | 185 | 0.0 | none | 
+ | [rhpxl](/f10/package/rhpxl) | 0 | 130 | 0.0 | none | 
+ | [setroubleshoot](/f10/package/setroubleshoot) | 0 | 582 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [setroubleshoot-plugins](/f10/package/setroubleshoot-plugins) | 0 | 8276 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [setuptool](/f10/package/setuptool) | 0 | 60 | 0.0 | none | 
+ | [specspo](/f10/package/specspo) | 0 | 305286 | 0.0 | none | 
+ | [switchdesk](/f10/package/switchdesk) | 0 | 137 | 0.0 | none | 
+ | [system-config-bind](/f10/package/system-config-bind) | 0 | 9419 | 0.0 | none | 
+ | [system-config-boot](/f10/package/system-config-boot) | 0 | 46 | 0.0 | none | 
+ | [system-config-date](/f10/package/system-config-date) | 0 | 986 | 0.0 | none | 
+ | [system-config-date-docs](/f10/package/system-config-date-docs) | 0 | 660 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [system-config-display](/f10/package/system-config-display) | 0 | 398 | 0.0 | none | 
+ | [system-config-firewall](/f10/package/system-config-firewall) | 0 | 2497 | 0.0 | none | 
+ | [system-config-httpd](/f10/package/system-config-httpd) | 0 | 858 | 0.0 | none | 
+ | [system-config-kdump](/f10/package/system-config-kdump) | 0 | 383 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [system-config-keyboard](/f10/package/system-config-keyboard) | 0 | 78 | 0.0 | none | 
+ | [system-config-kickstart](/f10/package/system-config-kickstart) | 0 | 1054 | 0.0 | none | 
+ | [system-config-language](/f10/package/system-config-language) | 0 | 45 | 0.0 | none | 
+ | [system-config-network](/f10/package/system-config-network) | 0 | 2894 | 0.0 | none | 
+ | [system-config-nfs](/f10/package/system-config-nfs) | 0 | 1517 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [system-config-rootpassword](/f10/package/system-config-rootpassword) | 0 | 116 | 0.0 | none | 
+ | [system-config-samba](/f10/package/system-config-samba) | 0 | 422 | 0.0 | none | 
+ | [system-config-services](/f10/package/system-config-services) | 0 | 384 | 0.0 | none | 
+ | [system-config-users](/f10/package/system-config-users) | 0 | 1337 | 0.0 | none | 
+ | [system-config-users-docs](/f10/package/system-config-users-docs) | 0 | 1054 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [system-switch-mail](/f10/package/system-switch-mail) | 0 | 134 | 0.0 | none | 
 {.sortable}
 
 
@@ -204,7 +204,7 @@ We use the po metadata to get the language code and the team, but sometimes it f
 
 | Package | Lang from file path/name | polib error | Team |
 |---------|--------------------------|-------------|------|
- | [moin]({{< ref "/f10/package/moin.md" >}}) | /mnt/stockage/packages/f10/moin/MoinMoin/i18n/ku.MoinMoin.po | error-os |  | 
+ | [moin](/f10/package/moin) | /mnt/stockage/packages/f10/moin/MoinMoin/i18n/ku.MoinMoin.po | error-os |  | 
 {.sortable}
 
 

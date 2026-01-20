@@ -44,10 +44,10 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [python-django5]({{< ref "/f43/package/python-django5.md" >}}) | 3 | 3 | 100.0 | LANGUAGE <LL@li.org> | 
- | [gnucash]({{< ref "/f43/package/gnucash.md" >}}) | 38759 | 39578 | 97.9 |  | 
- | [avahi]({{< ref "/f43/package/avahi.md" >}}) | 758 | 868 | 87.3 | British English <en@li.org> | 
- | [cinnamon-translations]({{< ref "/f43/package/cinnamon-translations.md" >}}) | 4 | 7533 | 0.1 | English (New Zealand) <en_NZ@li.org> | 
+ | [python-django5](/f43/package/python-django5) | 3 | 3 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [gnucash](/f43/package/gnucash) | 38759 | 39578 | 97.9 |  | 
+ | [avahi](/f43/package/avahi) | 758 | 868 | 87.3 | British English <en@li.org> | 
+ | [cinnamon-translations](/f43/package/cinnamon-translations) | 4 | 7533 | 0.1 | English (New Zealand) <en_NZ@li.org> | 
 {.sortable}
 
 
@@ -59,8 +59,8 @@ We use the po metadata to get the language code and the team, but sometimes it f
 
 | Package | Lang from file path/name | polib error | Team |
 |---------|--------------------------|-------------|------|
- | [gnucash]({{< ref "/f43/package/gnucash.md" >}}) | /mnt/stockage/packages/f43/gnucash/gnucash-5.14/po/._en_NZ.po | error-unicode |  | 
- | [gnucash]({{< ref "/f43/package/gnucash.md" >}}) | /mnt/stockage/packages/f43/gnucash/gnucash-5.14/po/glossary/._en_NZ.po | error-unicode |  | 
+ | [gnucash](/f43/package/gnucash) | /mnt/stockage/packages/f43/gnucash/gnucash-5.14/po/._en_NZ.po | error-unicode |  | 
+ | [gnucash](/f43/package/gnucash) | /mnt/stockage/packages/f43/gnucash/gnucash-5.14/po/glossary/._en_NZ.po | error-unicode |  | 
 {.sortable}
 
 
@@ -71,8 +71,8 @@ We use the calcstats from translate toolkit to get the translation progress, but
 
 | Package | Lang from file path/name | Team |
 |---------|--------------------------|------|
- | [gnucash]({{< ref "/f43/package/gnucash.md" >}}) | /mnt/stockage/packages/f43/gnucash/gnucash-5.14/po/._en_NZ.po |  | 
- | [gnucash]({{< ref "/f43/package/gnucash.md" >}}) | /mnt/stockage/packages/f43/gnucash/gnucash-5.14/po/glossary/._en_NZ.po |  | 
+ | [gnucash](/f43/package/gnucash) | /mnt/stockage/packages/f43/gnucash/gnucash-5.14/po/._en_NZ.po |  | 
+ | [gnucash](/f43/package/gnucash) | /mnt/stockage/packages/f43/gnucash/gnucash-5.14/po/glossary/._en_NZ.po |  | 
 {.sortable}
 
 

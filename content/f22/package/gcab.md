@@ -18,27 +18,27 @@ The package gcab (version 0.6):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [bs]({{< ref "/f22/language/bs.md" >}}) | 154 | 154 | 100.0 | /mnt/stockage/packages/f22/gcab/po/bs.po | 
- | [cs]({{< ref "/f22/language/cs.md" >}}) | 159 | 159 | 100.0 | /mnt/stockage/packages/f22/gcab/po/cs.po | 
- | [de]({{< ref "/f22/language/de.md" >}}) | 154 | 154 | 100.0 | /mnt/stockage/packages/f22/gcab/po/de.po | 
- | [el]({{< ref "/f22/language/el.md" >}}) | 154 | 154 | 100.0 | /mnt/stockage/packages/f22/gcab/po/el.po | 
- | [es]({{< ref "/f22/language/es.md" >}}) | 154 | 154 | 100.0 | /mnt/stockage/packages/f22/gcab/po/es.po | 
- | [eu]({{< ref "/f22/language/eu.md" >}}) | 154 | 154 | 100.0 | /mnt/stockage/packages/f22/gcab/po/eu.po | 
- | [fr]({{< ref "/f22/language/fr.md" >}}) | 154 | 154 | 100.0 | /mnt/stockage/packages/f22/gcab/po/fr.po | 
- | [gl]({{< ref "/f22/language/gl.md" >}}) | 154 | 154 | 100.0 | /mnt/stockage/packages/f22/gcab/po/gl.po | 
- | [hu]({{< ref "/f22/language/hu.md" >}}) | 159 | 159 | 100.0 | /mnt/stockage/packages/f22/gcab/po/hu.po | 
- | [id]({{< ref "/f22/language/id.md" >}}) | 154 | 154 | 100.0 | /mnt/stockage/packages/f22/gcab/po/id.po | 
- | [lt]({{< ref "/f22/language/lt.md" >}}) | 154 | 154 | 100.0 | /mnt/stockage/packages/f22/gcab/po/lt.po | 
- | [lv]({{< ref "/f22/language/lv.md" >}}) | 154 | 154 | 100.0 | /mnt/stockage/packages/f22/gcab/po/lv.po | 
- | [pl]({{< ref "/f22/language/pl.md" >}}) | 159 | 159 | 100.0 | /mnt/stockage/packages/f22/gcab/po/pl.po | 
- | [pt_BR]({{< ref "/f22/language/pt_BR.md" >}}) | 154 | 154 | 100.0 | /mnt/stockage/packages/f22/gcab/po/pt_BR.po | 
- | [ru]({{< ref "/f22/language/ru.md" >}}) | 154 | 154 | 100.0 | /mnt/stockage/packages/f22/gcab/po/ru.po | 
- | [sl]({{< ref "/f22/language/sl.md" >}}) | 159 | 159 | 100.0 | /mnt/stockage/packages/f22/gcab/po/sl.po | 
- | [sr]({{< ref "/f22/language/sr.md" >}}) | 308 | 308 | 100.0 | /mnt/stockage/packages/f22/gcab/po/sr@latin.po/mnt/stockage/packages/f22/gcab/po/sr.po | 
- | [tg]({{< ref "/f22/language/tg.md" >}}) | 152 | 152 | 100.0 | /mnt/stockage/packages/f22/gcab/po/tg.po | 
- | [tr]({{< ref "/f22/language/tr.md" >}}) | 154 | 154 | 100.0 | /mnt/stockage/packages/f22/gcab/po/tr.po | 
- | [zh_Hans]({{< ref "/f22/language/zh_Hans.md" >}}) | 154 | 154 | 100.0 | /mnt/stockage/packages/f22/gcab/po/zh_CN.po | 
- | [nb_NO]({{< ref "/f22/language/nb_NO.md" >}}) | 76 | 154 | 49.4 | /mnt/stockage/packages/f22/gcab/po/nb.po | 
+ | [bs](/f22/language/bs) | 154 | 154 | 100.0 | /mnt/stockage/packages/f22/gcab/po/bs.po | 
+ | [cs](/f22/language/cs) | 159 | 159 | 100.0 | /mnt/stockage/packages/f22/gcab/po/cs.po | 
+ | [de](/f22/language/de) | 154 | 154 | 100.0 | /mnt/stockage/packages/f22/gcab/po/de.po | 
+ | [el](/f22/language/el) | 154 | 154 | 100.0 | /mnt/stockage/packages/f22/gcab/po/el.po | 
+ | [es](/f22/language/es) | 154 | 154 | 100.0 | /mnt/stockage/packages/f22/gcab/po/es.po | 
+ | [eu](/f22/language/eu) | 154 | 154 | 100.0 | /mnt/stockage/packages/f22/gcab/po/eu.po | 
+ | [fr](/f22/language/fr) | 154 | 154 | 100.0 | /mnt/stockage/packages/f22/gcab/po/fr.po | 
+ | [gl](/f22/language/gl) | 154 | 154 | 100.0 | /mnt/stockage/packages/f22/gcab/po/gl.po | 
+ | [hu](/f22/language/hu) | 159 | 159 | 100.0 | /mnt/stockage/packages/f22/gcab/po/hu.po | 
+ | [id](/f22/language/id) | 154 | 154 | 100.0 | /mnt/stockage/packages/f22/gcab/po/id.po | 
+ | [lt](/f22/language/lt) | 154 | 154 | 100.0 | /mnt/stockage/packages/f22/gcab/po/lt.po | 
+ | [lv](/f22/language/lv) | 154 | 154 | 100.0 | /mnt/stockage/packages/f22/gcab/po/lv.po | 
+ | [pl](/f22/language/pl) | 159 | 159 | 100.0 | /mnt/stockage/packages/f22/gcab/po/pl.po | 
+ | [pt_BR](/f22/language/pt_BR) | 154 | 154 | 100.0 | /mnt/stockage/packages/f22/gcab/po/pt_BR.po | 
+ | [ru](/f22/language/ru) | 154 | 154 | 100.0 | /mnt/stockage/packages/f22/gcab/po/ru.po | 
+ | [sl](/f22/language/sl) | 159 | 159 | 100.0 | /mnt/stockage/packages/f22/gcab/po/sl.po | 
+ | [sr](/f22/language/sr) | 308 | 308 | 100.0 | /mnt/stockage/packages/f22/gcab/po/sr@latin.po/mnt/stockage/packages/f22/gcab/po/sr.po | 
+ | [tg](/f22/language/tg) | 152 | 152 | 100.0 | /mnt/stockage/packages/f22/gcab/po/tg.po | 
+ | [tr](/f22/language/tr) | 154 | 154 | 100.0 | /mnt/stockage/packages/f22/gcab/po/tr.po | 
+ | [zh_Hans](/f22/language/zh_Hans) | 154 | 154 | 100.0 | /mnt/stockage/packages/f22/gcab/po/zh_CN.po | 
+ | [nb_NO](/f22/language/nb_NO) | 76 | 154 | 49.4 | /mnt/stockage/packages/f22/gcab/po/nb.po | 
 {.sortable}
 
 

@@ -18,14 +18,14 @@ The package git (version 1.5.4.5):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f9/language/de.md" >}}) | 2353 | 2353 | 100.0 | /mnt/stockage/packages/f9/git/git-gui/po/de.po/mnt/stockage/packages/f9/git/git-gui/po/glossary/de.po/mnt/stockage/packages/f9/git/gitk-git/po/de.po | 
- | [hu]({{< ref "/f9/language/hu.md" >}}) | 1775 | 1775 | 100.0 | /mnt/stockage/packages/f9/git/git-gui/po/hu.po | 
- | [ja]({{< ref "/f9/language/ja.md" >}}) | 1775 | 1775 | 100.0 | /mnt/stockage/packages/f9/git/git-gui/po/ja.po | 
- | [sv]({{< ref "/f9/language/sv.md" >}}) | 1775 | 1775 | 100.0 | /mnt/stockage/packages/f9/git/git-gui/po/sv.po | 
- | [it]({{< ref "/f9/language/it.md" >}}) | 1848 | 1849 | 99.9 | /mnt/stockage/packages/f9/git/git-gui/po/it.po/mnt/stockage/packages/f9/git/git-gui/po/glossary/it.po | 
- | [ru]({{< ref "/f9/language/ru.md" >}}) | 1770 | 1775 | 99.7 | /mnt/stockage/packages/f9/git/git-gui/po/ru.po | 
- | [fr]({{< ref "/f9/language/fr.md" >}}) | 1836 | 1849 | 99.3 | /mnt/stockage/packages/f9/git/git-gui/po/fr.po/mnt/stockage/packages/f9/git/git-gui/po/glossary/fr.po | 
- | [zh_Hans]({{< ref "/f9/language/zh_Hans.md" >}}) | 173 | 1814 | 9.5 | /mnt/stockage/packages/f9/git/git-gui/po/zh_cn.po/mnt/stockage/packages/f9/git/git-gui/po/glossary/zh_cn.po | 
+ | [de](/f9/language/de) | 2353 | 2353 | 100.0 | /mnt/stockage/packages/f9/git/git-gui/po/de.po/mnt/stockage/packages/f9/git/git-gui/po/glossary/de.po/mnt/stockage/packages/f9/git/gitk-git/po/de.po | 
+ | [hu](/f9/language/hu) | 1775 | 1775 | 100.0 | /mnt/stockage/packages/f9/git/git-gui/po/hu.po | 
+ | [ja](/f9/language/ja) | 1775 | 1775 | 100.0 | /mnt/stockage/packages/f9/git/git-gui/po/ja.po | 
+ | [sv](/f9/language/sv) | 1775 | 1775 | 100.0 | /mnt/stockage/packages/f9/git/git-gui/po/sv.po | 
+ | [it](/f9/language/it) | 1848 | 1849 | 99.9 | /mnt/stockage/packages/f9/git/git-gui/po/it.po/mnt/stockage/packages/f9/git/git-gui/po/glossary/it.po | 
+ | [ru](/f9/language/ru) | 1770 | 1775 | 99.7 | /mnt/stockage/packages/f9/git/git-gui/po/ru.po | 
+ | [fr](/f9/language/fr) | 1836 | 1849 | 99.3 | /mnt/stockage/packages/f9/git/git-gui/po/fr.po/mnt/stockage/packages/f9/git/git-gui/po/glossary/fr.po | 
+ | [zh_Hans](/f9/language/zh_Hans) | 173 | 1814 | 9.5 | /mnt/stockage/packages/f9/git/git-gui/po/zh_cn.po/mnt/stockage/packages/f9/git/git-gui/po/glossary/zh_cn.po | 
 {.sortable}
 
 

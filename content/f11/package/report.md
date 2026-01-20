@@ -18,9 +18,9 @@ The package report (version 0.14):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [pl]({{< ref "/f11/language/pl.md" >}}) | 504 | 518 | 97.3 | /mnt/stockage/packages/f11/report/po/pl.po | 
- | [uk]({{< ref "/f11/language/uk.md" >}}) | 504 | 518 | 97.3 | /mnt/stockage/packages/f11/report/po/uk.po | 
- | [en]({{< ref "/f11/language/en.md" >}}) | 474 | 518 | 91.5 | /mnt/stockage/packages/f11/report/po/en.po | 
+ | [pl](/f11/language/pl) | 504 | 518 | 97.3 | /mnt/stockage/packages/f11/report/po/pl.po | 
+ | [uk](/f11/language/uk) | 504 | 518 | 97.3 | /mnt/stockage/packages/f11/report/po/uk.po | 
+ | [en](/f11/language/en) | 474 | 518 | 91.5 | /mnt/stockage/packages/f11/report/po/en.po | 
 {.sortable}
 
 

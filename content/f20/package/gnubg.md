@@ -18,18 +18,18 @@ The package gnubg (version 1.04.000):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f20/language/cs.md" >}}) | 12423 | 13100 | 94.8 | /mnt/stockage/packages/f20/gnubg/po/cs.po | 
- | [da]({{< ref "/f20/language/da.md" >}}) | 11988 | 13100 | 91.5 | /mnt/stockage/packages/f20/gnubg/po/da.po | 
- | [it]({{< ref "/f20/language/it.md" >}}) | 11181 | 13100 | 85.4 | /mnt/stockage/packages/f20/gnubg/po/it.po | 
- | [es]({{< ref "/f20/language/es.md" >}}) | 10653 | 13100 | 81.3 | /mnt/stockage/packages/f20/gnubg/po/es.po | 
- | [ro]({{< ref "/f20/language/ro.md" >}}) | 9438 | 13100 | 72.0 | /mnt/stockage/packages/f20/gnubg/po/ro.po | 
- | [de]({{< ref "/f20/language/de.md" >}}) | 8167 | 13100 | 62.3 | /mnt/stockage/packages/f20/gnubg/po/de.po | 
- | [en_US]({{< ref "/f20/language/en_US.md" >}}) | 5866 | 13100 | 44.8 | /mnt/stockage/packages/f20/gnubg/po/en_US.po | 
- | [fr]({{< ref "/f20/language/fr.md" >}}) | 5373 | 13100 | 41.0 | /mnt/stockage/packages/f20/gnubg/po/fr.po | 
- | [ja]({{< ref "/f20/language/ja.md" >}}) | 2792 | 13100 | 21.3 | /mnt/stockage/packages/f20/gnubg/po/ja.po | 
- | [ru]({{< ref "/f20/language/ru.md" >}}) | 1195 | 13100 | 9.1 | /mnt/stockage/packages/f20/gnubg/po/ru.po | 
- | [tr]({{< ref "/f20/language/tr.md" >}}) | 1166 | 13100 | 8.9 | /mnt/stockage/packages/f20/gnubg/po/tr.po | 
- | [is]({{< ref "/f20/language/is.md" >}}) | 1160 | 13100 | 8.9 | /mnt/stockage/packages/f20/gnubg/po/is.po | 
+ | [cs](/f20/language/cs) | 12423 | 13100 | 94.8 | /mnt/stockage/packages/f20/gnubg/po/cs.po | 
+ | [da](/f20/language/da) | 11988 | 13100 | 91.5 | /mnt/stockage/packages/f20/gnubg/po/da.po | 
+ | [it](/f20/language/it) | 11181 | 13100 | 85.4 | /mnt/stockage/packages/f20/gnubg/po/it.po | 
+ | [es](/f20/language/es) | 10653 | 13100 | 81.3 | /mnt/stockage/packages/f20/gnubg/po/es.po | 
+ | [ro](/f20/language/ro) | 9438 | 13100 | 72.0 | /mnt/stockage/packages/f20/gnubg/po/ro.po | 
+ | [de](/f20/language/de) | 8167 | 13100 | 62.3 | /mnt/stockage/packages/f20/gnubg/po/de.po | 
+ | [en_US](/f20/language/en_US) | 5866 | 13100 | 44.8 | /mnt/stockage/packages/f20/gnubg/po/en_US.po | 
+ | [fr](/f20/language/fr) | 5373 | 13100 | 41.0 | /mnt/stockage/packages/f20/gnubg/po/fr.po | 
+ | [ja](/f20/language/ja) | 2792 | 13100 | 21.3 | /mnt/stockage/packages/f20/gnubg/po/ja.po | 
+ | [ru](/f20/language/ru) | 1195 | 13100 | 9.1 | /mnt/stockage/packages/f20/gnubg/po/ru.po | 
+ | [tr](/f20/language/tr) | 1166 | 13100 | 8.9 | /mnt/stockage/packages/f20/gnubg/po/tr.po | 
+ | [is](/f20/language/is) | 1160 | 13100 | 8.9 | /mnt/stockage/packages/f20/gnubg/po/is.po | 
 {.sortable}
 
 

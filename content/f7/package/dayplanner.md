@@ -18,14 +18,14 @@ The package dayplanner (version 0.8.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f7/language/de.md" >}}) | 888 | 888 | 100.0 | /mnt/stockage/packages/f7/dayplanner/dayplanner-0.8.1/po/de.po | 
- | [it]({{< ref "/f7/language/it.md" >}}) | 888 | 888 | 100.0 | /mnt/stockage/packages/f7/dayplanner/dayplanner-0.8.1/po/it.po | 
- | [nb_NO]({{< ref "/f7/language/nb_NO.md" >}}) | 888 | 888 | 100.0 | /mnt/stockage/packages/f7/dayplanner/dayplanner-0.8.1/po/nb.po | 
- | [nn]({{< ref "/f7/language/nn.md" >}}) | 888 | 888 | 100.0 | /mnt/stockage/packages/f7/dayplanner/dayplanner-0.8.1/po/nn.po | 
- | [sv]({{< ref "/f7/language/sv.md" >}}) | 888 | 888 | 100.0 | /mnt/stockage/packages/f7/dayplanner/dayplanner-0.8.1/po/sv.po | 
- | [nl]({{< ref "/f7/language/nl.md" >}}) | 622 | 888 | 70.0 | /mnt/stockage/packages/f7/dayplanner/dayplanner-0.8.1/po/nl.po | 
- | [sk]({{< ref "/f7/language/sk.md" >}}) | 272 | 888 | 30.6 | /mnt/stockage/packages/f7/dayplanner/dayplanner-0.8.1/po/sk.po | 
- | [cs]({{< ref "/f7/language/cs.md" >}}) | 66 | 888 | 7.4 | /mnt/stockage/packages/f7/dayplanner/dayplanner-0.8.1/po/cs.po | 
+ | [de](/f7/language/de) | 888 | 888 | 100.0 | /mnt/stockage/packages/f7/dayplanner/dayplanner-0.8.1/po/de.po | 
+ | [it](/f7/language/it) | 888 | 888 | 100.0 | /mnt/stockage/packages/f7/dayplanner/dayplanner-0.8.1/po/it.po | 
+ | [nb_NO](/f7/language/nb_NO) | 888 | 888 | 100.0 | /mnt/stockage/packages/f7/dayplanner/dayplanner-0.8.1/po/nb.po | 
+ | [nn](/f7/language/nn) | 888 | 888 | 100.0 | /mnt/stockage/packages/f7/dayplanner/dayplanner-0.8.1/po/nn.po | 
+ | [sv](/f7/language/sv) | 888 | 888 | 100.0 | /mnt/stockage/packages/f7/dayplanner/dayplanner-0.8.1/po/sv.po | 
+ | [nl](/f7/language/nl) | 622 | 888 | 70.0 | /mnt/stockage/packages/f7/dayplanner/dayplanner-0.8.1/po/nl.po | 
+ | [sk](/f7/language/sk) | 272 | 888 | 30.6 | /mnt/stockage/packages/f7/dayplanner/dayplanner-0.8.1/po/sk.po | 
+ | [cs](/f7/language/cs) | 66 | 888 | 7.4 | /mnt/stockage/packages/f7/dayplanner/dayplanner-0.8.1/po/cs.po | 
 {.sortable}
 
 

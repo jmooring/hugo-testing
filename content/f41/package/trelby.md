@@ -18,8 +18,8 @@ The package trelby (version 2.4.16.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [en]({{< ref "/f41/language/en.md" >}}) | 2104 | 2104 | 100.0 | /mnt/stockage/packages/f41/trelby/po/en.po | 
- | [it]({{< ref "/f41/language/it.md" >}}) | 2104 | 2104 | 100.0 | /mnt/stockage/packages/f41/trelby/po/it.po | 
+ | [en](/f41/language/en) | 2104 | 2104 | 100.0 | /mnt/stockage/packages/f41/trelby/po/en.po | 
+ | [it](/f41/language/it) | 2104 | 2104 | 100.0 | /mnt/stockage/packages/f41/trelby/po/it.po | 
 {.sortable}
 
 

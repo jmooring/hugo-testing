@@ -18,20 +18,20 @@ The package darktable (version 3.4.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f32/language/cs.md" >}}) | 19979 | 19979 | 100.0 | /mnt/stockage/packages/f32/darktable/po/cs.po | 
- | [de]({{< ref "/f32/language/de.md" >}}) | 22078 | 22078 | 100.0 | /mnt/stockage/packages/f32/darktable/doc/man/po/de.po/mnt/stockage/packages/f32/darktable/po/de.po | 
- | [es]({{< ref "/f32/language/es.md" >}}) | 22001 | 22001 | 100.0 | /mnt/stockage/packages/f32/darktable/doc/man/po/es.po/mnt/stockage/packages/f32/darktable/po/es.po | 
- | [fi]({{< ref "/f32/language/fi.md" >}}) | 19981 | 19981 | 100.0 | /mnt/stockage/packages/f32/darktable/po/fi.po | 
- | [he_IL]({{< ref "/f32/language/he_IL.md" >}}) | 19979 | 19979 | 100.0 | /mnt/stockage/packages/f32/darktable/po/he.po | 
- | [hu]({{< ref "/f32/language/hu.md" >}}) | 19981 | 19981 | 100.0 | /mnt/stockage/packages/f32/darktable/po/hu.po | 
- | [it]({{< ref "/f32/language/it.md" >}}) | 19981 | 19981 | 100.0 | /mnt/stockage/packages/f32/darktable/po/it.po | 
- | [pl]({{< ref "/f32/language/pl.md" >}}) | 19981 | 19981 | 100.0 | /mnt/stockage/packages/f32/darktable/po/pl.po | 
- | [pt_BR]({{< ref "/f32/language/pt_BR.md" >}}) | 19981 | 19981 | 100.0 | /mnt/stockage/packages/f32/darktable/po/pt_BR.po | 
- | [ru]({{< ref "/f32/language/ru.md" >}}) | 19979 | 19979 | 100.0 | /mnt/stockage/packages/f32/darktable/po/ru.po | 
- | [sk]({{< ref "/f32/language/sk.md" >}}) | 19981 | 19981 | 100.0 | /mnt/stockage/packages/f32/darktable/po/sk.po | 
- | [sl]({{< ref "/f32/language/sl.md" >}}) | 19981 | 19981 | 100.0 | /mnt/stockage/packages/f32/darktable/po/sl.po | 
- | [fr]({{< ref "/f32/language/fr.md" >}}) | 22076 | 22078 | 100.0 | /mnt/stockage/packages/f32/darktable/doc/man/po/fr.po/mnt/stockage/packages/f32/darktable/po/fr.po | 
- | [af]({{< ref "/f32/language/af.md" >}}) | 18373 | 19979 | 92.0 | /mnt/stockage/packages/f32/darktable/po/af.po | 
+ | [cs](/f32/language/cs) | 19979 | 19979 | 100.0 | /mnt/stockage/packages/f32/darktable/po/cs.po | 
+ | [de](/f32/language/de) | 22078 | 22078 | 100.0 | /mnt/stockage/packages/f32/darktable/doc/man/po/de.po/mnt/stockage/packages/f32/darktable/po/de.po | 
+ | [es](/f32/language/es) | 22001 | 22001 | 100.0 | /mnt/stockage/packages/f32/darktable/doc/man/po/es.po/mnt/stockage/packages/f32/darktable/po/es.po | 
+ | [fi](/f32/language/fi) | 19981 | 19981 | 100.0 | /mnt/stockage/packages/f32/darktable/po/fi.po | 
+ | [he_IL](/f32/language/he_IL) | 19979 | 19979 | 100.0 | /mnt/stockage/packages/f32/darktable/po/he.po | 
+ | [hu](/f32/language/hu) | 19981 | 19981 | 100.0 | /mnt/stockage/packages/f32/darktable/po/hu.po | 
+ | [it](/f32/language/it) | 19981 | 19981 | 100.0 | /mnt/stockage/packages/f32/darktable/po/it.po | 
+ | [pl](/f32/language/pl) | 19981 | 19981 | 100.0 | /mnt/stockage/packages/f32/darktable/po/pl.po | 
+ | [pt_BR](/f32/language/pt_BR) | 19981 | 19981 | 100.0 | /mnt/stockage/packages/f32/darktable/po/pt_BR.po | 
+ | [ru](/f32/language/ru) | 19979 | 19979 | 100.0 | /mnt/stockage/packages/f32/darktable/po/ru.po | 
+ | [sk](/f32/language/sk) | 19981 | 19981 | 100.0 | /mnt/stockage/packages/f32/darktable/po/sk.po | 
+ | [sl](/f32/language/sl) | 19981 | 19981 | 100.0 | /mnt/stockage/packages/f32/darktable/po/sl.po | 
+ | [fr](/f32/language/fr) | 22076 | 22078 | 100.0 | /mnt/stockage/packages/f32/darktable/doc/man/po/fr.po/mnt/stockage/packages/f32/darktable/po/fr.po | 
+ | [af](/f32/language/af) | 18373 | 19979 | 92.0 | /mnt/stockage/packages/f32/darktable/po/af.po | 
 {.sortable}
 
 

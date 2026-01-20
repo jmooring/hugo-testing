@@ -18,12 +18,12 @@ The package oxine (version 0.7.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f13/language/de.md" >}}) | 2881 | 2946 | 97.8 | /mnt/stockage/packages/f13/oxine/po/de.po | 
- | [fr]({{< ref "/f13/language/fr.md" >}}) | 1804 | 2946 | 61.2 | /mnt/stockage/packages/f13/oxine/po/fr.po | 
- | [es]({{< ref "/f13/language/es.md" >}}) | 1496 | 2946 | 50.8 | /mnt/stockage/packages/f13/oxine/po/es.po | 
- | [ru]({{< ref "/f13/language/ru.md" >}}) | 1448 | 2946 | 49.2 | /mnt/stockage/packages/f13/oxine/po/ru.po | 
- | [uk]({{< ref "/f13/language/uk.md" >}}) | 569 | 2946 | 19.3 | /mnt/stockage/packages/f13/oxine/po/uk.po | 
- | [it]({{< ref "/f13/language/it.md" >}}) | 499 | 2946 | 16.9 | /mnt/stockage/packages/f13/oxine/po/it.po | 
+ | [de](/f13/language/de) | 2881 | 2946 | 97.8 | /mnt/stockage/packages/f13/oxine/po/de.po | 
+ | [fr](/f13/language/fr) | 1804 | 2946 | 61.2 | /mnt/stockage/packages/f13/oxine/po/fr.po | 
+ | [es](/f13/language/es) | 1496 | 2946 | 50.8 | /mnt/stockage/packages/f13/oxine/po/es.po | 
+ | [ru](/f13/language/ru) | 1448 | 2946 | 49.2 | /mnt/stockage/packages/f13/oxine/po/ru.po | 
+ | [uk](/f13/language/uk) | 569 | 2946 | 19.3 | /mnt/stockage/packages/f13/oxine/po/uk.po | 
+ | [it](/f13/language/it) | 499 | 2946 | 16.9 | /mnt/stockage/packages/f13/oxine/po/it.po | 
 {.sortable}
 
 

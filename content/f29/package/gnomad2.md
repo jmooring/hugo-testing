@@ -18,18 +18,18 @@ The package gnomad2 (version 2.9.6):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f29/language/cs.md" >}}) | 731 | 731 | 100.0 | /mnt/stockage/packages/f29/gnomad2/po/cs_CZ.po | 
- | [es]({{< ref "/f29/language/es.md" >}}) | 697 | 697 | 100.0 | /mnt/stockage/packages/f29/gnomad2/po/es.po | 
- | [pl]({{< ref "/f29/language/pl.md" >}}) | 697 | 697 | 100.0 | /mnt/stockage/packages/f29/gnomad2/po/pl.po | 
- | [sco]({{< ref "/f29/language/sco.md" >}}) | 697 | 697 | 100.0 | /mnt/stockage/packages/f29/gnomad2/po/sco.po | 
- | [sv]({{< ref "/f29/language/sv.md" >}}) | 703 | 703 | 100.0 | /mnt/stockage/packages/f29/gnomad2/po/sv.po | 
- | [nl]({{< ref "/f29/language/nl.md" >}}) | 693 | 697 | 99.4 | /mnt/stockage/packages/f29/gnomad2/po/nl.po | 
- | [it]({{< ref "/f29/language/it.md" >}}) | 694 | 703 | 98.7 | /mnt/stockage/packages/f29/gnomad2/po/it.po | 
- | [de]({{< ref "/f29/language/de.md" >}}) | 669 | 697 | 96.0 | /mnt/stockage/packages/f29/gnomad2/po/de.po | 
- | [fr]({{< ref "/f29/language/fr.md" >}}) | 613 | 697 | 87.9 | /mnt/stockage/packages/f29/gnomad2/po/fr.po | 
- | [ca]({{< ref "/f29/language/ca.md" >}}) | 603 | 697 | 86.5 | /mnt/stockage/packages/f29/gnomad2/po/ca.po | 
- | [nb_NO]({{< ref "/f29/language/nb_NO.md" >}}) | 444 | 703 | 63.2 | /mnt/stockage/packages/f29/gnomad2/po/nb.po | 
- | [fi]({{< ref "/f29/language/fi.md" >}}) | 408 | 703 | 58.0 | /mnt/stockage/packages/f29/gnomad2/po/fi.po | 
+ | [cs](/f29/language/cs) | 731 | 731 | 100.0 | /mnt/stockage/packages/f29/gnomad2/po/cs_CZ.po | 
+ | [es](/f29/language/es) | 697 | 697 | 100.0 | /mnt/stockage/packages/f29/gnomad2/po/es.po | 
+ | [pl](/f29/language/pl) | 697 | 697 | 100.0 | /mnt/stockage/packages/f29/gnomad2/po/pl.po | 
+ | [sco](/f29/language/sco) | 697 | 697 | 100.0 | /mnt/stockage/packages/f29/gnomad2/po/sco.po | 
+ | [sv](/f29/language/sv) | 703 | 703 | 100.0 | /mnt/stockage/packages/f29/gnomad2/po/sv.po | 
+ | [nl](/f29/language/nl) | 693 | 697 | 99.4 | /mnt/stockage/packages/f29/gnomad2/po/nl.po | 
+ | [it](/f29/language/it) | 694 | 703 | 98.7 | /mnt/stockage/packages/f29/gnomad2/po/it.po | 
+ | [de](/f29/language/de) | 669 | 697 | 96.0 | /mnt/stockage/packages/f29/gnomad2/po/de.po | 
+ | [fr](/f29/language/fr) | 613 | 697 | 87.9 | /mnt/stockage/packages/f29/gnomad2/po/fr.po | 
+ | [ca](/f29/language/ca) | 603 | 697 | 86.5 | /mnt/stockage/packages/f29/gnomad2/po/ca.po | 
+ | [nb_NO](/f29/language/nb_NO) | 444 | 703 | 63.2 | /mnt/stockage/packages/f29/gnomad2/po/nb.po | 
+ | [fi](/f29/language/fi) | 408 | 703 | 58.0 | /mnt/stockage/packages/f29/gnomad2/po/fi.po | 
 {.sortable}
 
 

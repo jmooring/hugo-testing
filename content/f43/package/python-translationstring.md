@@ -18,7 +18,7 @@ The package python-translationstring (version 1.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f43/language/de.md" >}}) | 20 | 20 | 100.0 | /mnt/stockage/packages/f43/python-translationstring/translationstring/tests/fixtures/locales/de/LC_MESSAGES/messages.po | 
+ | [de](/f43/language/de) | 20 | 20 | 100.0 | /mnt/stockage/packages/f43/python-translationstring/translationstring/tests/fixtures/locales/de/LC_MESSAGES/messages.po | 
 {.sortable}
 
 

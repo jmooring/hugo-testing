@@ -18,9 +18,9 @@ The package reuse (version 0.3.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [eo]({{< ref "/f30/language/eo.md" >}}) | 533 | 533 | 100.0 | /mnt/stockage/packages/f30/reuse/po/eo/LC_MESSAGES/reuse.po | 
- | [es]({{< ref "/f30/language/es.md" >}}) | 533 | 533 | 100.0 | /mnt/stockage/packages/f30/reuse/po/es/LC_MESSAGES/reuse.po | 
- | [nl]({{< ref "/f30/language/nl.md" >}}) | 533 | 533 | 100.0 | /mnt/stockage/packages/f30/reuse/po/nl/LC_MESSAGES/reuse.po | 
+ | [eo](/f30/language/eo) | 533 | 533 | 100.0 | /mnt/stockage/packages/f30/reuse/po/eo/LC_MESSAGES/reuse.po | 
+ | [es](/f30/language/es) | 533 | 533 | 100.0 | /mnt/stockage/packages/f30/reuse/po/es/LC_MESSAGES/reuse.po | 
+ | [nl](/f30/language/nl) | 533 | 533 | 100.0 | /mnt/stockage/packages/f30/reuse/po/nl/LC_MESSAGES/reuse.po | 
 {.sortable}
 
 

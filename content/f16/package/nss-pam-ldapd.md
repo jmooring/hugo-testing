@@ -18,24 +18,24 @@ The package nss-pam-ldapd (version 0.7.13):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f16/language/ca.md" >}}) | 518 | 518 | 100.0 | /mnt/stockage/packages/f16/nss-pam-ldapd/debian/po/ca.po | 
- | [cs]({{< ref "/f16/language/cs.md" >}}) | 518 | 518 | 100.0 | /mnt/stockage/packages/f16/nss-pam-ldapd/debian/po/cs.po | 
- | [da]({{< ref "/f16/language/da.md" >}}) | 518 | 518 | 100.0 | /mnt/stockage/packages/f16/nss-pam-ldapd/debian/po/da.po | 
- | [de]({{< ref "/f16/language/de.md" >}}) | 518 | 518 | 100.0 | /mnt/stockage/packages/f16/nss-pam-ldapd/debian/po/de.po | 
- | [es]({{< ref "/f16/language/es.md" >}}) | 518 | 518 | 100.0 | /mnt/stockage/packages/f16/nss-pam-ldapd/debian/po/es.po | 
- | [fr]({{< ref "/f16/language/fr.md" >}}) | 518 | 518 | 100.0 | /mnt/stockage/packages/f16/nss-pam-ldapd/debian/po/fr.po | 
- | [it]({{< ref "/f16/language/it.md" >}}) | 518 | 518 | 100.0 | /mnt/stockage/packages/f16/nss-pam-ldapd/debian/po/it.po | 
- | [ja]({{< ref "/f16/language/ja.md" >}}) | 518 | 518 | 100.0 | /mnt/stockage/packages/f16/nss-pam-ldapd/debian/po/ja.po | 
- | [nb_NO]({{< ref "/f16/language/nb_NO.md" >}}) | 518 | 518 | 100.0 | /mnt/stockage/packages/f16/nss-pam-ldapd/debian/po/nb.po | 
- | [pt]({{< ref "/f16/language/pt.md" >}}) | 518 | 518 | 100.0 | /mnt/stockage/packages/f16/nss-pam-ldapd/debian/po/pt.po | 
- | [ru]({{< ref "/f16/language/ru.md" >}}) | 518 | 518 | 100.0 | /mnt/stockage/packages/f16/nss-pam-ldapd/debian/po/ru.po | 
- | [sv]({{< ref "/f16/language/sv.md" >}}) | 518 | 518 | 100.0 | /mnt/stockage/packages/f16/nss-pam-ldapd/debian/po/sv.po | 
- | [vi]({{< ref "/f16/language/vi.md" >}}) | 518 | 518 | 100.0 | /mnt/stockage/packages/f16/nss-pam-ldapd/debian/po/vi.po | 
- | [zh_Hans]({{< ref "/f16/language/zh_Hans.md" >}}) | 518 | 518 | 100.0 | /mnt/stockage/packages/f16/nss-pam-ldapd/debian/po/zh_CN.po | 
- | [fi]({{< ref "/f16/language/fi.md" >}}) | 437 | 518 | 84.4 | /mnt/stockage/packages/f16/nss-pam-ldapd/debian/po/fi.po | 
- | [gl]({{< ref "/f16/language/gl.md" >}}) | 437 | 518 | 84.4 | /mnt/stockage/packages/f16/nss-pam-ldapd/debian/po/gl.po | 
- | [nl]({{< ref "/f16/language/nl.md" >}}) | 210 | 518 | 40.5 | /mnt/stockage/packages/f16/nss-pam-ldapd/debian/po/nl.po | 
- | [pt_BR]({{< ref "/f16/language/pt_BR.md" >}}) | 53 | 518 | 10.2 | /mnt/stockage/packages/f16/nss-pam-ldapd/debian/po/pt_BR.po | 
+ | [ca](/f16/language/ca) | 518 | 518 | 100.0 | /mnt/stockage/packages/f16/nss-pam-ldapd/debian/po/ca.po | 
+ | [cs](/f16/language/cs) | 518 | 518 | 100.0 | /mnt/stockage/packages/f16/nss-pam-ldapd/debian/po/cs.po | 
+ | [da](/f16/language/da) | 518 | 518 | 100.0 | /mnt/stockage/packages/f16/nss-pam-ldapd/debian/po/da.po | 
+ | [de](/f16/language/de) | 518 | 518 | 100.0 | /mnt/stockage/packages/f16/nss-pam-ldapd/debian/po/de.po | 
+ | [es](/f16/language/es) | 518 | 518 | 100.0 | /mnt/stockage/packages/f16/nss-pam-ldapd/debian/po/es.po | 
+ | [fr](/f16/language/fr) | 518 | 518 | 100.0 | /mnt/stockage/packages/f16/nss-pam-ldapd/debian/po/fr.po | 
+ | [it](/f16/language/it) | 518 | 518 | 100.0 | /mnt/stockage/packages/f16/nss-pam-ldapd/debian/po/it.po | 
+ | [ja](/f16/language/ja) | 518 | 518 | 100.0 | /mnt/stockage/packages/f16/nss-pam-ldapd/debian/po/ja.po | 
+ | [nb_NO](/f16/language/nb_NO) | 518 | 518 | 100.0 | /mnt/stockage/packages/f16/nss-pam-ldapd/debian/po/nb.po | 
+ | [pt](/f16/language/pt) | 518 | 518 | 100.0 | /mnt/stockage/packages/f16/nss-pam-ldapd/debian/po/pt.po | 
+ | [ru](/f16/language/ru) | 518 | 518 | 100.0 | /mnt/stockage/packages/f16/nss-pam-ldapd/debian/po/ru.po | 
+ | [sv](/f16/language/sv) | 518 | 518 | 100.0 | /mnt/stockage/packages/f16/nss-pam-ldapd/debian/po/sv.po | 
+ | [vi](/f16/language/vi) | 518 | 518 | 100.0 | /mnt/stockage/packages/f16/nss-pam-ldapd/debian/po/vi.po | 
+ | [zh_Hans](/f16/language/zh_Hans) | 518 | 518 | 100.0 | /mnt/stockage/packages/f16/nss-pam-ldapd/debian/po/zh_CN.po | 
+ | [fi](/f16/language/fi) | 437 | 518 | 84.4 | /mnt/stockage/packages/f16/nss-pam-ldapd/debian/po/fi.po | 
+ | [gl](/f16/language/gl) | 437 | 518 | 84.4 | /mnt/stockage/packages/f16/nss-pam-ldapd/debian/po/gl.po | 
+ | [nl](/f16/language/nl) | 210 | 518 | 40.5 | /mnt/stockage/packages/f16/nss-pam-ldapd/debian/po/nl.po | 
+ | [pt_BR](/f16/language/pt_BR) | 53 | 518 | 10.2 | /mnt/stockage/packages/f16/nss-pam-ldapd/debian/po/pt_BR.po | 
 {.sortable}
 
 

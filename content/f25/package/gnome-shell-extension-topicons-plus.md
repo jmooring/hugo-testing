@@ -18,13 +18,13 @@ The package gnome-shell-extension-topicons-plus (version 21):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f25/language/de.md" >}}) | 41 | 41 | 100.0 | /mnt/stockage/packages/f25/gnome-shell-extension-topicons-plus/locale/de/LC_MESSAGES/TopIcons-Plus.po | 
- | [fr]({{< ref "/f25/language/fr.md" >}}) | 41 | 41 | 100.0 | /mnt/stockage/packages/f25/gnome-shell-extension-topicons-plus/locale/fr/LC_MESSAGES/TopIcons-Plus.po | 
- | [it]({{< ref "/f25/language/it.md" >}}) | 41 | 41 | 100.0 | /mnt/stockage/packages/f25/gnome-shell-extension-topicons-plus/locale/it/LC_MESSAGES/TopIcons-Plus.po | 
- | [ja]({{< ref "/f25/language/ja.md" >}}) | 41 | 41 | 100.0 | /mnt/stockage/packages/f25/gnome-shell-extension-topicons-plus/locale/jp/LC_MESSAGES/TopIcons-Plus.po | 
- | [ru]({{< ref "/f25/language/ru.md" >}}) | 41 | 41 | 100.0 | /mnt/stockage/packages/f25/gnome-shell-extension-topicons-plus/locale/ru/LC_MESSAGES/TopIcons-Plus.po | 
- | [sr]({{< ref "/f25/language/sr.md" >}}) | 41 | 41 | 100.0 | /mnt/stockage/packages/f25/gnome-shell-extension-topicons-plus/locale/sr/LC_MESSAGES/TopIcons-Plus.po | 
- | [sr_Latn]({{< ref "/f25/language/sr_Latn.md" >}}) | 41 | 41 | 100.0 | /mnt/stockage/packages/f25/gnome-shell-extension-topicons-plus/locale/sr@latin/LC_MESSAGES/TopIcons-Plus.po | 
+ | [de](/f25/language/de) | 41 | 41 | 100.0 | /mnt/stockage/packages/f25/gnome-shell-extension-topicons-plus/locale/de/LC_MESSAGES/TopIcons-Plus.po | 
+ | [fr](/f25/language/fr) | 41 | 41 | 100.0 | /mnt/stockage/packages/f25/gnome-shell-extension-topicons-plus/locale/fr/LC_MESSAGES/TopIcons-Plus.po | 
+ | [it](/f25/language/it) | 41 | 41 | 100.0 | /mnt/stockage/packages/f25/gnome-shell-extension-topicons-plus/locale/it/LC_MESSAGES/TopIcons-Plus.po | 
+ | [ja](/f25/language/ja) | 41 | 41 | 100.0 | /mnt/stockage/packages/f25/gnome-shell-extension-topicons-plus/locale/jp/LC_MESSAGES/TopIcons-Plus.po | 
+ | [ru](/f25/language/ru) | 41 | 41 | 100.0 | /mnt/stockage/packages/f25/gnome-shell-extension-topicons-plus/locale/ru/LC_MESSAGES/TopIcons-Plus.po | 
+ | [sr](/f25/language/sr) | 41 | 41 | 100.0 | /mnt/stockage/packages/f25/gnome-shell-extension-topicons-plus/locale/sr/LC_MESSAGES/TopIcons-Plus.po | 
+ | [sr_Latn](/f25/language/sr_Latn) | 41 | 41 | 100.0 | /mnt/stockage/packages/f25/gnome-shell-extension-topicons-plus/locale/sr@latin/LC_MESSAGES/TopIcons-Plus.po | 
 {.sortable}
 
 

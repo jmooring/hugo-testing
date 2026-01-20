@@ -18,22 +18,22 @@ The package springlobby (version 0.131):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f14/language/de.md" >}}) | 4695 | 4695 | 100.0 | /mnt/stockage/packages/f14/springlobby/po/de.po | 
- | [zh_Hans]({{< ref "/f14/language/zh_Hans.md" >}}) | 4672 | 4695 | 99.5 | /mnt/stockage/packages/f14/springlobby/po/zh_CN.po | 
- | [fr]({{< ref "/f14/language/fr.md" >}}) | 4664 | 4695 | 99.3 | /mnt/stockage/packages/f14/springlobby/po/fr.po | 
- | [ru]({{< ref "/f14/language/ru.md" >}}) | 3478 | 4695 | 74.1 | /mnt/stockage/packages/f14/springlobby/po/ru.po | 
- | [el]({{< ref "/f14/language/el.md" >}}) | 2810 | 4695 | 59.9 | /mnt/stockage/packages/f14/springlobby/po/el.po | 
- | [ro]({{< ref "/f14/language/ro.md" >}}) | 2721 | 4695 | 58.0 | /mnt/stockage/packages/f14/springlobby/po/ro.po | 
- | [es]({{< ref "/f14/language/es.md" >}}) | 2129 | 4695 | 45.3 | /mnt/stockage/packages/f14/springlobby/po/es.po | 
- | [da]({{< ref "/f14/language/da.md" >}}) | 1971 | 4695 | 42.0 | /mnt/stockage/packages/f14/springlobby/po/da.po | 
- | [cs]({{< ref "/f14/language/cs.md" >}}) | 1797 | 4695 | 38.3 | /mnt/stockage/packages/f14/springlobby/po/cs.po | 
- | [it]({{< ref "/f14/language/it.md" >}}) | 1596 | 4695 | 34.0 | /mnt/stockage/packages/f14/springlobby/po/it.po | 
- | [fi]({{< ref "/f14/language/fi.md" >}}) | 1474 | 4695 | 31.4 | /mnt/stockage/packages/f14/springlobby/po/fi.po | 
- | [pt]({{< ref "/f14/language/pt.md" >}}) | 1371 | 4695 | 29.2 | /mnt/stockage/packages/f14/springlobby/po/pt.po | 
- | [sv]({{< ref "/f14/language/sv.md" >}}) | 1273 | 4695 | 27.1 | /mnt/stockage/packages/f14/springlobby/po/sv.po | 
- | [uk]({{< ref "/f14/language/uk.md" >}}) | 236 | 4695 | 5.0 | /mnt/stockage/packages/f14/springlobby/po/uk.po | 
- | [ar]({{< ref "/f14/language/ar.md" >}}) | 179 | 4695 | 3.8 | /mnt/stockage/packages/f14/springlobby/po/ar.po | 
- | [pl]({{< ref "/f14/language/pl.md" >}}) | 159 | 4695 | 3.4 | /mnt/stockage/packages/f14/springlobby/po/pl.po | 
+ | [de](/f14/language/de) | 4695 | 4695 | 100.0 | /mnt/stockage/packages/f14/springlobby/po/de.po | 
+ | [zh_Hans](/f14/language/zh_Hans) | 4672 | 4695 | 99.5 | /mnt/stockage/packages/f14/springlobby/po/zh_CN.po | 
+ | [fr](/f14/language/fr) | 4664 | 4695 | 99.3 | /mnt/stockage/packages/f14/springlobby/po/fr.po | 
+ | [ru](/f14/language/ru) | 3478 | 4695 | 74.1 | /mnt/stockage/packages/f14/springlobby/po/ru.po | 
+ | [el](/f14/language/el) | 2810 | 4695 | 59.9 | /mnt/stockage/packages/f14/springlobby/po/el.po | 
+ | [ro](/f14/language/ro) | 2721 | 4695 | 58.0 | /mnt/stockage/packages/f14/springlobby/po/ro.po | 
+ | [es](/f14/language/es) | 2129 | 4695 | 45.3 | /mnt/stockage/packages/f14/springlobby/po/es.po | 
+ | [da](/f14/language/da) | 1971 | 4695 | 42.0 | /mnt/stockage/packages/f14/springlobby/po/da.po | 
+ | [cs](/f14/language/cs) | 1797 | 4695 | 38.3 | /mnt/stockage/packages/f14/springlobby/po/cs.po | 
+ | [it](/f14/language/it) | 1596 | 4695 | 34.0 | /mnt/stockage/packages/f14/springlobby/po/it.po | 
+ | [fi](/f14/language/fi) | 1474 | 4695 | 31.4 | /mnt/stockage/packages/f14/springlobby/po/fi.po | 
+ | [pt](/f14/language/pt) | 1371 | 4695 | 29.2 | /mnt/stockage/packages/f14/springlobby/po/pt.po | 
+ | [sv](/f14/language/sv) | 1273 | 4695 | 27.1 | /mnt/stockage/packages/f14/springlobby/po/sv.po | 
+ | [uk](/f14/language/uk) | 236 | 4695 | 5.0 | /mnt/stockage/packages/f14/springlobby/po/uk.po | 
+ | [ar](/f14/language/ar) | 179 | 4695 | 3.8 | /mnt/stockage/packages/f14/springlobby/po/ar.po | 
+ | [pl](/f14/language/pl) | 159 | 4695 | 3.4 | /mnt/stockage/packages/f14/springlobby/po/pl.po | 
 {.sortable}
 
 

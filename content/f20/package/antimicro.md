@@ -18,7 +18,7 @@ The package antimicro (version 2.14):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [en]({{< ref "/f20/language/en.md" >}}) | 0 | 87 | 0.0 | /mnt/stockage/packages/f20/antimicro/other/appdata/PO_files/en.po | 
+ | [en](/f20/language/en) | 0 | 87 | 0.0 | /mnt/stockage/packages/f20/antimicro/other/appdata/PO_files/en.po | 
 {.sortable}
 
 

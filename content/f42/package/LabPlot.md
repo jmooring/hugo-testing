@@ -18,26 +18,26 @@ The package LabPlot (version 2.12.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f42/language/ca.md" >}}) | 16370 | 16370 | 100.0 | /mnt/stockage/packages/f42/LabPlot/po/ca/labplot.po | 
- | [ca@valencia]({{< ref "/f42/language/ca@valencia.md" >}}) | 16370 | 16370 | 100.0 | /mnt/stockage/packages/f42/LabPlot/po/ca@valencia/labplot.po | 
- | [es]({{< ref "/f42/language/es.md" >}}) | 16370 | 16370 | 100.0 | /mnt/stockage/packages/f42/LabPlot/po/es/labplot.po | 
- | [it]({{< ref "/f42/language/it.md" >}}) | 16370 | 16370 | 100.0 | /mnt/stockage/packages/f42/LabPlot/po/it/labplot.po | 
- | [nl]({{< ref "/f42/language/nl.md" >}}) | 16370 | 16370 | 100.0 | /mnt/stockage/packages/f42/LabPlot/po/nl/labplot.po | 
- | [pt_BR]({{< ref "/f42/language/pt_BR.md" >}}) | 16370 | 16370 | 100.0 | /mnt/stockage/packages/f42/LabPlot/po/pt_BR/labplot.po | 
- | [sl]({{< ref "/f42/language/sl.md" >}}) | 16370 | 16370 | 100.0 | /mnt/stockage/packages/f42/LabPlot/po/sl/labplot.po | 
- | [sv]({{< ref "/f42/language/sv.md" >}}) | 16370 | 16370 | 100.0 | /mnt/stockage/packages/f42/LabPlot/po/sv/labplot.po | 
- | [uk]({{< ref "/f42/language/uk.md" >}}) | 16370 | 16370 | 100.0 | /mnt/stockage/packages/f42/LabPlot/po/uk/labplot.po | 
- | [tr]({{< ref "/f42/language/tr.md" >}}) | 16369 | 16370 | 100.0 | /mnt/stockage/packages/f42/LabPlot/po/tr/labplot.po | 
- | [de]({{< ref "/f42/language/de.md" >}}) | 16360 | 16370 | 99.9 | /mnt/stockage/packages/f42/LabPlot/po/de/labplot.po | 
- | [fr]({{< ref "/f42/language/fr.md" >}}) | 16359 | 16370 | 99.9 | /mnt/stockage/packages/f42/LabPlot/po/fr/labplot.po | 
- | [gl]({{< ref "/f42/language/gl.md" >}}) | 15836 | 16370 | 96.7 | /mnt/stockage/packages/f42/LabPlot/po/gl/labplot.po | 
- | [pl]({{< ref "/f42/language/pl.md" >}}) | 15621 | 16370 | 95.4 | /mnt/stockage/packages/f42/LabPlot/po/pl/labplot.po | 
- | [ka]({{< ref "/f42/language/ka.md" >}}) | 14541 | 16370 | 88.8 | /mnt/stockage/packages/f42/LabPlot/po/ka/labplot.po | 
- | [eu]({{< ref "/f42/language/eu.md" >}}) | 8009 | 16370 | 48.9 | /mnt/stockage/packages/f42/LabPlot/po/eu/labplot.po | 
- | [zh_Hans]({{< ref "/f42/language/zh_Hans.md" >}}) | 7050 | 16370 | 43.1 | /mnt/stockage/packages/f42/LabPlot/po/zh_CN/labplot.po | 
- | [fi]({{< ref "/f42/language/fi.md" >}}) | 4107 | 16370 | 25.1 | /mnt/stockage/packages/f42/LabPlot/po/fi/labplot.po | 
- | [cs]({{< ref "/f42/language/cs.md" >}}) | 3113 | 16370 | 19.0 | /mnt/stockage/packages/f42/LabPlot/po/cs/labplot.po | 
- | [ar]({{< ref "/f42/language/ar.md" >}}) | 1537 | 16370 | 9.4 | /mnt/stockage/packages/f42/LabPlot/po/ar/labplot.po | 
+ | [ca](/f42/language/ca) | 16370 | 16370 | 100.0 | /mnt/stockage/packages/f42/LabPlot/po/ca/labplot.po | 
+ | [ca@valencia](/f42/language/ca@valencia) | 16370 | 16370 | 100.0 | /mnt/stockage/packages/f42/LabPlot/po/ca@valencia/labplot.po | 
+ | [es](/f42/language/es) | 16370 | 16370 | 100.0 | /mnt/stockage/packages/f42/LabPlot/po/es/labplot.po | 
+ | [it](/f42/language/it) | 16370 | 16370 | 100.0 | /mnt/stockage/packages/f42/LabPlot/po/it/labplot.po | 
+ | [nl](/f42/language/nl) | 16370 | 16370 | 100.0 | /mnt/stockage/packages/f42/LabPlot/po/nl/labplot.po | 
+ | [pt_BR](/f42/language/pt_BR) | 16370 | 16370 | 100.0 | /mnt/stockage/packages/f42/LabPlot/po/pt_BR/labplot.po | 
+ | [sl](/f42/language/sl) | 16370 | 16370 | 100.0 | /mnt/stockage/packages/f42/LabPlot/po/sl/labplot.po | 
+ | [sv](/f42/language/sv) | 16370 | 16370 | 100.0 | /mnt/stockage/packages/f42/LabPlot/po/sv/labplot.po | 
+ | [uk](/f42/language/uk) | 16370 | 16370 | 100.0 | /mnt/stockage/packages/f42/LabPlot/po/uk/labplot.po | 
+ | [tr](/f42/language/tr) | 16369 | 16370 | 100.0 | /mnt/stockage/packages/f42/LabPlot/po/tr/labplot.po | 
+ | [de](/f42/language/de) | 16360 | 16370 | 99.9 | /mnt/stockage/packages/f42/LabPlot/po/de/labplot.po | 
+ | [fr](/f42/language/fr) | 16359 | 16370 | 99.9 | /mnt/stockage/packages/f42/LabPlot/po/fr/labplot.po | 
+ | [gl](/f42/language/gl) | 15836 | 16370 | 96.7 | /mnt/stockage/packages/f42/LabPlot/po/gl/labplot.po | 
+ | [pl](/f42/language/pl) | 15621 | 16370 | 95.4 | /mnt/stockage/packages/f42/LabPlot/po/pl/labplot.po | 
+ | [ka](/f42/language/ka) | 14541 | 16370 | 88.8 | /mnt/stockage/packages/f42/LabPlot/po/ka/labplot.po | 
+ | [eu](/f42/language/eu) | 8009 | 16370 | 48.9 | /mnt/stockage/packages/f42/LabPlot/po/eu/labplot.po | 
+ | [zh_Hans](/f42/language/zh_Hans) | 7050 | 16370 | 43.1 | /mnt/stockage/packages/f42/LabPlot/po/zh_CN/labplot.po | 
+ | [fi](/f42/language/fi) | 4107 | 16370 | 25.1 | /mnt/stockage/packages/f42/LabPlot/po/fi/labplot.po | 
+ | [cs](/f42/language/cs) | 3113 | 16370 | 19.0 | /mnt/stockage/packages/f42/LabPlot/po/cs/labplot.po | 
+ | [ar](/f42/language/ar) | 1537 | 16370 | 9.4 | /mnt/stockage/packages/f42/LabPlot/po/ar/labplot.po | 
 {.sortable}
 
 

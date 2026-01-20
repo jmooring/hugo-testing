@@ -18,17 +18,17 @@ The package chromium-bsu (version 0.9.16.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f35/language/de.md" >}}) | 1081 | 1092 | 99.0 | /mnt/stockage/packages/f35/chromium-bsu/po/de.po | 
- | [bg]({{< ref "/f35/language/bg.md" >}}) | 1035 | 1092 | 94.8 | /mnt/stockage/packages/f35/chromium-bsu/po/bg.po | 
- | [es]({{< ref "/f35/language/es.md" >}}) | 1035 | 1092 | 94.8 | /mnt/stockage/packages/f35/chromium-bsu/po/es.po | 
- | [fr]({{< ref "/f35/language/fr.md" >}}) | 1035 | 1092 | 94.8 | /mnt/stockage/packages/f35/chromium-bsu/po/fr.po | 
- | [zh_Hans]({{< ref "/f35/language/zh_Hans.md" >}}) | 1034 | 1092 | 94.7 | /mnt/stockage/packages/f35/chromium-bsu/po/zh_CN.po | 
- | [it]({{< ref "/f35/language/it.md" >}}) | 1024 | 1092 | 93.8 | /mnt/stockage/packages/f35/chromium-bsu/po/it.po | 
- | [zh_Hant]({{< ref "/f35/language/zh_Hant.md" >}}) | 1021 | 1092 | 93.5 | /mnt/stockage/packages/f35/chromium-bsu/po/zh_TW.po | 
- | [sv]({{< ref "/f35/language/sv.md" >}}) | 934 | 1092 | 85.5 | /mnt/stockage/packages/f35/chromium-bsu/po/sv.po | 
- | [ru]({{< ref "/f35/language/ru.md" >}}) | 927 | 1092 | 84.9 | /mnt/stockage/packages/f35/chromium-bsu/po/ru.po | 
- | [tr]({{< ref "/f35/language/tr.md" >}}) | 311 | 1092 | 28.5 | /mnt/stockage/packages/f35/chromium-bsu/po/tr.po | 
- | [ro]({{< ref "/f35/language/ro.md" >}}) | 3 | 1092 | 0.3 | /mnt/stockage/packages/f35/chromium-bsu/po/ro.po | 
+ | [de](/f35/language/de) | 1081 | 1092 | 99.0 | /mnt/stockage/packages/f35/chromium-bsu/po/de.po | 
+ | [bg](/f35/language/bg) | 1035 | 1092 | 94.8 | /mnt/stockage/packages/f35/chromium-bsu/po/bg.po | 
+ | [es](/f35/language/es) | 1035 | 1092 | 94.8 | /mnt/stockage/packages/f35/chromium-bsu/po/es.po | 
+ | [fr](/f35/language/fr) | 1035 | 1092 | 94.8 | /mnt/stockage/packages/f35/chromium-bsu/po/fr.po | 
+ | [zh_Hans](/f35/language/zh_Hans) | 1034 | 1092 | 94.7 | /mnt/stockage/packages/f35/chromium-bsu/po/zh_CN.po | 
+ | [it](/f35/language/it) | 1024 | 1092 | 93.8 | /mnt/stockage/packages/f35/chromium-bsu/po/it.po | 
+ | [zh_Hant](/f35/language/zh_Hant) | 1021 | 1092 | 93.5 | /mnt/stockage/packages/f35/chromium-bsu/po/zh_TW.po | 
+ | [sv](/f35/language/sv) | 934 | 1092 | 85.5 | /mnt/stockage/packages/f35/chromium-bsu/po/sv.po | 
+ | [ru](/f35/language/ru) | 927 | 1092 | 84.9 | /mnt/stockage/packages/f35/chromium-bsu/po/ru.po | 
+ | [tr](/f35/language/tr) | 311 | 1092 | 28.5 | /mnt/stockage/packages/f35/chromium-bsu/po/tr.po | 
+ | [ro](/f35/language/ro) | 3 | 1092 | 0.3 | /mnt/stockage/packages/f35/chromium-bsu/po/ro.po | 
 {.sortable}
 
 

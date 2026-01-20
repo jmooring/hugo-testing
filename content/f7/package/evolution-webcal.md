@@ -18,73 +18,73 @@ The package evolution-webcal (version 2.10.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f7/language/ar.md" >}}) | 184 | 184 | 100.0 | /mnt/stockage/packages/f7/evolution-webcal/po/ar.po | 
- | [as]({{< ref "/f7/language/as.md" >}}) | 180 | 180 | 100.0 | /mnt/stockage/packages/f7/evolution-webcal/po/as.po | 
- | [bg]({{< ref "/f7/language/bg.md" >}}) | 184 | 184 | 100.0 | /mnt/stockage/packages/f7/evolution-webcal/po/bg.po | 
- | [bn]({{< ref "/f7/language/bn.md" >}}) | 180 | 180 | 100.0 | /mnt/stockage/packages/f7/evolution-webcal/po/bn.po | 
- | [bn_IN]({{< ref "/f7/language/bn_IN.md" >}}) | 180 | 180 | 100.0 | /mnt/stockage/packages/f7/evolution-webcal/po/bn_IN.po | 
- | [ca]({{< ref "/f7/language/ca.md" >}}) | 184 | 184 | 100.0 | /mnt/stockage/packages/f7/evolution-webcal/po/ca.po | 
- | [cs]({{< ref "/f7/language/cs.md" >}}) | 180 | 180 | 100.0 | /mnt/stockage/packages/f7/evolution-webcal/po/cs.po | 
- | [cy]({{< ref "/f7/language/cy.md" >}}) | 180 | 180 | 100.0 | /mnt/stockage/packages/f7/evolution-webcal/po/cy.po | 
- | [da]({{< ref "/f7/language/da.md" >}}) | 184 | 184 | 100.0 | /mnt/stockage/packages/f7/evolution-webcal/po/da.po | 
- | [de]({{< ref "/f7/language/de.md" >}}) | 184 | 184 | 100.0 | /mnt/stockage/packages/f7/evolution-webcal/po/de.po | 
- | [dz]({{< ref "/f7/language/dz.md" >}}) | 180 | 180 | 100.0 | /mnt/stockage/packages/f7/evolution-webcal/po/dz.po | 
- | [el]({{< ref "/f7/language/el.md" >}}) | 180 | 180 | 100.0 | /mnt/stockage/packages/f7/evolution-webcal/po/el.po | 
- | [en_CA]({{< ref "/f7/language/en_CA.md" >}}) | 180 | 180 | 100.0 | /mnt/stockage/packages/f7/evolution-webcal/po/en_CA.po | 
- | [en_GB]({{< ref "/f7/language/en_GB.md" >}}) | 184 | 184 | 100.0 | /mnt/stockage/packages/f7/evolution-webcal/po/en_GB.po | 
- | [error]({{< ref "/f7/language/error.md" >}}) | 184 | 184 | 100.0 | /mnt/stockage/packages/f7/evolution-webcal/po/sr@Latn.po | 
- | [es]({{< ref "/f7/language/es.md" >}}) | 184 | 184 | 100.0 | /mnt/stockage/packages/f7/evolution-webcal/po/es.po | 
- | [et]({{< ref "/f7/language/et.md" >}}) | 184 | 184 | 100.0 | /mnt/stockage/packages/f7/evolution-webcal/po/et.po | 
- | [eu]({{< ref "/f7/language/eu.md" >}}) | 180 | 180 | 100.0 | /mnt/stockage/packages/f7/evolution-webcal/po/eu.po | 
- | [fa]({{< ref "/f7/language/fa.md" >}}) | 180 | 180 | 100.0 | /mnt/stockage/packages/f7/evolution-webcal/po/fa.po | 
- | [fi]({{< ref "/f7/language/fi.md" >}}) | 184 | 184 | 100.0 | /mnt/stockage/packages/f7/evolution-webcal/po/fi.po | 
- | [fr]({{< ref "/f7/language/fr.md" >}}) | 184 | 184 | 100.0 | /mnt/stockage/packages/f7/evolution-webcal/po/fr.po | 
- | [gl]({{< ref "/f7/language/gl.md" >}}) | 180 | 180 | 100.0 | /mnt/stockage/packages/f7/evolution-webcal/po/gl.po | 
- | [gu]({{< ref "/f7/language/gu.md" >}}) | 184 | 184 | 100.0 | /mnt/stockage/packages/f7/evolution-webcal/po/gu.po | 
- | [hi]({{< ref "/f7/language/hi.md" >}}) | 180 | 180 | 100.0 | /mnt/stockage/packages/f7/evolution-webcal/po/hi.po | 
- | [hu]({{< ref "/f7/language/hu.md" >}}) | 184 | 184 | 100.0 | /mnt/stockage/packages/f7/evolution-webcal/po/hu.po | 
- | [id]({{< ref "/f7/language/id.md" >}}) | 180 | 180 | 100.0 | /mnt/stockage/packages/f7/evolution-webcal/po/id.po | 
- | [it]({{< ref "/f7/language/it.md" >}}) | 184 | 184 | 100.0 | /mnt/stockage/packages/f7/evolution-webcal/po/it.po | 
- | [ja]({{< ref "/f7/language/ja.md" >}}) | 184 | 184 | 100.0 | /mnt/stockage/packages/f7/evolution-webcal/po/ja.po | 
- | [ka]({{< ref "/f7/language/ka.md" >}}) | 180 | 180 | 100.0 | /mnt/stockage/packages/f7/evolution-webcal/po/ka.po | 
- | [ko]({{< ref "/f7/language/ko.md" >}}) | 184 | 184 | 100.0 | /mnt/stockage/packages/f7/evolution-webcal/po/ko.po | 
- | [ky]({{< ref "/f7/language/ky.md" >}}) | 180 | 180 | 100.0 | /mnt/stockage/packages/f7/evolution-webcal/po/ky.po | 
- | [lt]({{< ref "/f7/language/lt.md" >}}) | 184 | 184 | 100.0 | /mnt/stockage/packages/f7/evolution-webcal/po/lt.po | 
- | [lv]({{< ref "/f7/language/lv.md" >}}) | 184 | 184 | 100.0 | /mnt/stockage/packages/f7/evolution-webcal/po/lv.po | 
- | [mk]({{< ref "/f7/language/mk.md" >}}) | 184 | 184 | 100.0 | /mnt/stockage/packages/f7/evolution-webcal/po/mk.po | 
- | [ml]({{< ref "/f7/language/ml.md" >}}) | 180 | 180 | 100.0 | /mnt/stockage/packages/f7/evolution-webcal/po/ml.po | 
- | [nb_NO]({{< ref "/f7/language/nb_NO.md" >}}) | 184 | 184 | 100.0 | /mnt/stockage/packages/f7/evolution-webcal/po/nb.po | 
- | [ne]({{< ref "/f7/language/ne.md" >}}) | 180 | 180 | 100.0 | /mnt/stockage/packages/f7/evolution-webcal/po/ne.po | 
- | [nl]({{< ref "/f7/language/nl.md" >}}) | 184 | 184 | 100.0 | /mnt/stockage/packages/f7/evolution-webcal/po/nl.po | 
- | [or]({{< ref "/f7/language/or.md" >}}) | 180 | 180 | 100.0 | /mnt/stockage/packages/f7/evolution-webcal/po/or.po | 
- | [pa]({{< ref "/f7/language/pa.md" >}}) | 180 | 180 | 100.0 | /mnt/stockage/packages/f7/evolution-webcal/po/pa.po | 
- | [pl]({{< ref "/f7/language/pl.md" >}}) | 184 | 184 | 100.0 | /mnt/stockage/packages/f7/evolution-webcal/po/pl.po | 
- | [pt]({{< ref "/f7/language/pt.md" >}}) | 184 | 184 | 100.0 | /mnt/stockage/packages/f7/evolution-webcal/po/pt.po | 
- | [pt_BR]({{< ref "/f7/language/pt_BR.md" >}}) | 184 | 184 | 100.0 | /mnt/stockage/packages/f7/evolution-webcal/po/pt_BR.po | 
- | [ro]({{< ref "/f7/language/ro.md" >}}) | 184 | 184 | 100.0 | /mnt/stockage/packages/f7/evolution-webcal/po/ro.po | 
- | [ru]({{< ref "/f7/language/ru.md" >}}) | 184 | 184 | 100.0 | /mnt/stockage/packages/f7/evolution-webcal/po/ru.po | 
- | [sk]({{< ref "/f7/language/sk.md" >}}) | 180 | 180 | 100.0 | /mnt/stockage/packages/f7/evolution-webcal/po/sk.po | 
- | [sl]({{< ref "/f7/language/sl.md" >}}) | 184 | 184 | 100.0 | /mnt/stockage/packages/f7/evolution-webcal/po/sl.po | 
- | [sq]({{< ref "/f7/language/sq.md" >}}) | 180 | 180 | 100.0 | /mnt/stockage/packages/f7/evolution-webcal/po/sq.po | 
- | [sr]({{< ref "/f7/language/sr.md" >}}) | 184 | 184 | 100.0 | /mnt/stockage/packages/f7/evolution-webcal/po/sr.po | 
- | [sv]({{< ref "/f7/language/sv.md" >}}) | 184 | 184 | 100.0 | /mnt/stockage/packages/f7/evolution-webcal/po/sv.po | 
- | [ta]({{< ref "/f7/language/ta.md" >}}) | 180 | 180 | 100.0 | /mnt/stockage/packages/f7/evolution-webcal/po/ta.po | 
- | [th]({{< ref "/f7/language/th.md" >}}) | 184 | 184 | 100.0 | /mnt/stockage/packages/f7/evolution-webcal/po/th.po | 
- | [tr]({{< ref "/f7/language/tr.md" >}}) | 180 | 180 | 100.0 | /mnt/stockage/packages/f7/evolution-webcal/po/tr.po | 
- | [uk]({{< ref "/f7/language/uk.md" >}}) | 184 | 184 | 100.0 | /mnt/stockage/packages/f7/evolution-webcal/po/uk.po | 
- | [vi]({{< ref "/f7/language/vi.md" >}}) | 184 | 184 | 100.0 | /mnt/stockage/packages/f7/evolution-webcal/po/vi.po | 
- | [xh]({{< ref "/f7/language/xh.md" >}}) | 180 | 180 | 100.0 | /mnt/stockage/packages/f7/evolution-webcal/po/xh.po | 
- | [zh_Hans]({{< ref "/f7/language/zh_Hans.md" >}}) | 180 | 180 | 100.0 | /mnt/stockage/packages/f7/evolution-webcal/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f7/language/zh_Hant.md" >}}) | 184 | 184 | 100.0 | /mnt/stockage/packages/f7/evolution-webcal/po/zh_TW.po | 
- | [zh_Hant_HK]({{< ref "/f7/language/zh_Hant_HK.md" >}}) | 184 | 184 | 100.0 | /mnt/stockage/packages/f7/evolution-webcal/po/zh_HK.po | 
- | [ku]({{< ref "/f7/language/ku.md" >}}) | 180 | 184 | 97.8 | /mnt/stockage/packages/f7/evolution-webcal/po/ku.po | 
- | [az]({{< ref "/f7/language/az.md" >}}) | 152 | 180 | 84.4 | /mnt/stockage/packages/f7/evolution-webcal/po/az.po | 
- | [bs]({{< ref "/f7/language/bs.md" >}}) | 152 | 180 | 84.4 | /mnt/stockage/packages/f7/evolution-webcal/po/bs.po | 
- | [ms]({{< ref "/f7/language/ms.md" >}}) | 152 | 180 | 84.4 | /mnt/stockage/packages/f7/evolution-webcal/po/ms.po | 
- | [ug]({{< ref "/f7/language/ug.md" >}}) | 152 | 180 | 84.4 | /mnt/stockage/packages/f7/evolution-webcal/po/ug.po | 
- | [te]({{< ref "/f7/language/te.md" >}}) | 129 | 180 | 71.7 | /mnt/stockage/packages/f7/evolution-webcal/po/te.po | 
- | [mr]({{< ref "/f7/language/mr.md" >}}) | 94 | 180 | 52.2 | /mnt/stockage/packages/f7/evolution-webcal/po/mr.po | 
- | [rw]({{< ref "/f7/language/rw.md" >}}) | 4 | 180 | 2.2 | /mnt/stockage/packages/f7/evolution-webcal/po/rw.po | 
+ | [ar](/f7/language/ar) | 184 | 184 | 100.0 | /mnt/stockage/packages/f7/evolution-webcal/po/ar.po | 
+ | [as](/f7/language/as) | 180 | 180 | 100.0 | /mnt/stockage/packages/f7/evolution-webcal/po/as.po | 
+ | [bg](/f7/language/bg) | 184 | 184 | 100.0 | /mnt/stockage/packages/f7/evolution-webcal/po/bg.po | 
+ | [bn](/f7/language/bn) | 180 | 180 | 100.0 | /mnt/stockage/packages/f7/evolution-webcal/po/bn.po | 
+ | [bn_IN](/f7/language/bn_IN) | 180 | 180 | 100.0 | /mnt/stockage/packages/f7/evolution-webcal/po/bn_IN.po | 
+ | [ca](/f7/language/ca) | 184 | 184 | 100.0 | /mnt/stockage/packages/f7/evolution-webcal/po/ca.po | 
+ | [cs](/f7/language/cs) | 180 | 180 | 100.0 | /mnt/stockage/packages/f7/evolution-webcal/po/cs.po | 
+ | [cy](/f7/language/cy) | 180 | 180 | 100.0 | /mnt/stockage/packages/f7/evolution-webcal/po/cy.po | 
+ | [da](/f7/language/da) | 184 | 184 | 100.0 | /mnt/stockage/packages/f7/evolution-webcal/po/da.po | 
+ | [de](/f7/language/de) | 184 | 184 | 100.0 | /mnt/stockage/packages/f7/evolution-webcal/po/de.po | 
+ | [dz](/f7/language/dz) | 180 | 180 | 100.0 | /mnt/stockage/packages/f7/evolution-webcal/po/dz.po | 
+ | [el](/f7/language/el) | 180 | 180 | 100.0 | /mnt/stockage/packages/f7/evolution-webcal/po/el.po | 
+ | [en_CA](/f7/language/en_CA) | 180 | 180 | 100.0 | /mnt/stockage/packages/f7/evolution-webcal/po/en_CA.po | 
+ | [en_GB](/f7/language/en_GB) | 184 | 184 | 100.0 | /mnt/stockage/packages/f7/evolution-webcal/po/en_GB.po | 
+ | [error](/f7/language/error) | 184 | 184 | 100.0 | /mnt/stockage/packages/f7/evolution-webcal/po/sr@Latn.po | 
+ | [es](/f7/language/es) | 184 | 184 | 100.0 | /mnt/stockage/packages/f7/evolution-webcal/po/es.po | 
+ | [et](/f7/language/et) | 184 | 184 | 100.0 | /mnt/stockage/packages/f7/evolution-webcal/po/et.po | 
+ | [eu](/f7/language/eu) | 180 | 180 | 100.0 | /mnt/stockage/packages/f7/evolution-webcal/po/eu.po | 
+ | [fa](/f7/language/fa) | 180 | 180 | 100.0 | /mnt/stockage/packages/f7/evolution-webcal/po/fa.po | 
+ | [fi](/f7/language/fi) | 184 | 184 | 100.0 | /mnt/stockage/packages/f7/evolution-webcal/po/fi.po | 
+ | [fr](/f7/language/fr) | 184 | 184 | 100.0 | /mnt/stockage/packages/f7/evolution-webcal/po/fr.po | 
+ | [gl](/f7/language/gl) | 180 | 180 | 100.0 | /mnt/stockage/packages/f7/evolution-webcal/po/gl.po | 
+ | [gu](/f7/language/gu) | 184 | 184 | 100.0 | /mnt/stockage/packages/f7/evolution-webcal/po/gu.po | 
+ | [hi](/f7/language/hi) | 180 | 180 | 100.0 | /mnt/stockage/packages/f7/evolution-webcal/po/hi.po | 
+ | [hu](/f7/language/hu) | 184 | 184 | 100.0 | /mnt/stockage/packages/f7/evolution-webcal/po/hu.po | 
+ | [id](/f7/language/id) | 180 | 180 | 100.0 | /mnt/stockage/packages/f7/evolution-webcal/po/id.po | 
+ | [it](/f7/language/it) | 184 | 184 | 100.0 | /mnt/stockage/packages/f7/evolution-webcal/po/it.po | 
+ | [ja](/f7/language/ja) | 184 | 184 | 100.0 | /mnt/stockage/packages/f7/evolution-webcal/po/ja.po | 
+ | [ka](/f7/language/ka) | 180 | 180 | 100.0 | /mnt/stockage/packages/f7/evolution-webcal/po/ka.po | 
+ | [ko](/f7/language/ko) | 184 | 184 | 100.0 | /mnt/stockage/packages/f7/evolution-webcal/po/ko.po | 
+ | [ky](/f7/language/ky) | 180 | 180 | 100.0 | /mnt/stockage/packages/f7/evolution-webcal/po/ky.po | 
+ | [lt](/f7/language/lt) | 184 | 184 | 100.0 | /mnt/stockage/packages/f7/evolution-webcal/po/lt.po | 
+ | [lv](/f7/language/lv) | 184 | 184 | 100.0 | /mnt/stockage/packages/f7/evolution-webcal/po/lv.po | 
+ | [mk](/f7/language/mk) | 184 | 184 | 100.0 | /mnt/stockage/packages/f7/evolution-webcal/po/mk.po | 
+ | [ml](/f7/language/ml) | 180 | 180 | 100.0 | /mnt/stockage/packages/f7/evolution-webcal/po/ml.po | 
+ | [nb_NO](/f7/language/nb_NO) | 184 | 184 | 100.0 | /mnt/stockage/packages/f7/evolution-webcal/po/nb.po | 
+ | [ne](/f7/language/ne) | 180 | 180 | 100.0 | /mnt/stockage/packages/f7/evolution-webcal/po/ne.po | 
+ | [nl](/f7/language/nl) | 184 | 184 | 100.0 | /mnt/stockage/packages/f7/evolution-webcal/po/nl.po | 
+ | [or](/f7/language/or) | 180 | 180 | 100.0 | /mnt/stockage/packages/f7/evolution-webcal/po/or.po | 
+ | [pa](/f7/language/pa) | 180 | 180 | 100.0 | /mnt/stockage/packages/f7/evolution-webcal/po/pa.po | 
+ | [pl](/f7/language/pl) | 184 | 184 | 100.0 | /mnt/stockage/packages/f7/evolution-webcal/po/pl.po | 
+ | [pt](/f7/language/pt) | 184 | 184 | 100.0 | /mnt/stockage/packages/f7/evolution-webcal/po/pt.po | 
+ | [pt_BR](/f7/language/pt_BR) | 184 | 184 | 100.0 | /mnt/stockage/packages/f7/evolution-webcal/po/pt_BR.po | 
+ | [ro](/f7/language/ro) | 184 | 184 | 100.0 | /mnt/stockage/packages/f7/evolution-webcal/po/ro.po | 
+ | [ru](/f7/language/ru) | 184 | 184 | 100.0 | /mnt/stockage/packages/f7/evolution-webcal/po/ru.po | 
+ | [sk](/f7/language/sk) | 180 | 180 | 100.0 | /mnt/stockage/packages/f7/evolution-webcal/po/sk.po | 
+ | [sl](/f7/language/sl) | 184 | 184 | 100.0 | /mnt/stockage/packages/f7/evolution-webcal/po/sl.po | 
+ | [sq](/f7/language/sq) | 180 | 180 | 100.0 | /mnt/stockage/packages/f7/evolution-webcal/po/sq.po | 
+ | [sr](/f7/language/sr) | 184 | 184 | 100.0 | /mnt/stockage/packages/f7/evolution-webcal/po/sr.po | 
+ | [sv](/f7/language/sv) | 184 | 184 | 100.0 | /mnt/stockage/packages/f7/evolution-webcal/po/sv.po | 
+ | [ta](/f7/language/ta) | 180 | 180 | 100.0 | /mnt/stockage/packages/f7/evolution-webcal/po/ta.po | 
+ | [th](/f7/language/th) | 184 | 184 | 100.0 | /mnt/stockage/packages/f7/evolution-webcal/po/th.po | 
+ | [tr](/f7/language/tr) | 180 | 180 | 100.0 | /mnt/stockage/packages/f7/evolution-webcal/po/tr.po | 
+ | [uk](/f7/language/uk) | 184 | 184 | 100.0 | /mnt/stockage/packages/f7/evolution-webcal/po/uk.po | 
+ | [vi](/f7/language/vi) | 184 | 184 | 100.0 | /mnt/stockage/packages/f7/evolution-webcal/po/vi.po | 
+ | [xh](/f7/language/xh) | 180 | 180 | 100.0 | /mnt/stockage/packages/f7/evolution-webcal/po/xh.po | 
+ | [zh_Hans](/f7/language/zh_Hans) | 180 | 180 | 100.0 | /mnt/stockage/packages/f7/evolution-webcal/po/zh_CN.po | 
+ | [zh_Hant](/f7/language/zh_Hant) | 184 | 184 | 100.0 | /mnt/stockage/packages/f7/evolution-webcal/po/zh_TW.po | 
+ | [zh_Hant_HK](/f7/language/zh_Hant_HK) | 184 | 184 | 100.0 | /mnt/stockage/packages/f7/evolution-webcal/po/zh_HK.po | 
+ | [ku](/f7/language/ku) | 180 | 184 | 97.8 | /mnt/stockage/packages/f7/evolution-webcal/po/ku.po | 
+ | [az](/f7/language/az) | 152 | 180 | 84.4 | /mnt/stockage/packages/f7/evolution-webcal/po/az.po | 
+ | [bs](/f7/language/bs) | 152 | 180 | 84.4 | /mnt/stockage/packages/f7/evolution-webcal/po/bs.po | 
+ | [ms](/f7/language/ms) | 152 | 180 | 84.4 | /mnt/stockage/packages/f7/evolution-webcal/po/ms.po | 
+ | [ug](/f7/language/ug) | 152 | 180 | 84.4 | /mnt/stockage/packages/f7/evolution-webcal/po/ug.po | 
+ | [te](/f7/language/te) | 129 | 180 | 71.7 | /mnt/stockage/packages/f7/evolution-webcal/po/te.po | 
+ | [mr](/f7/language/mr) | 94 | 180 | 52.2 | /mnt/stockage/packages/f7/evolution-webcal/po/mr.po | 
+ | [rw](/f7/language/rw) | 4 | 180 | 2.2 | /mnt/stockage/packages/f7/evolution-webcal/po/rw.po | 
 {.sortable}
 
 

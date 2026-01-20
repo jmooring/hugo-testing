@@ -18,74 +18,74 @@ The package notification-daemon (version 3.20.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [an]({{< ref "/f43/language/an.md" >}}) | 17 | 17 | 100.0 | /mnt/stockage/packages/f43/notification-daemon/po/an.po | 
- | [ar]({{< ref "/f43/language/ar.md" >}}) | 17 | 17 | 100.0 | /mnt/stockage/packages/f43/notification-daemon/po/ar.po | 
- | [as]({{< ref "/f43/language/as.md" >}}) | 17 | 17 | 100.0 | /mnt/stockage/packages/f43/notification-daemon/po/as.po | 
- | [ast]({{< ref "/f43/language/ast.md" >}}) | 17 | 17 | 100.0 | /mnt/stockage/packages/f43/notification-daemon/po/ast.po | 
- | [be]({{< ref "/f43/language/be.md" >}}) | 17 | 17 | 100.0 | /mnt/stockage/packages/f43/notification-daemon/po/be.po | 
- | [bg]({{< ref "/f43/language/bg.md" >}}) | 17 | 17 | 100.0 | /mnt/stockage/packages/f43/notification-daemon/po/bg.po | 
- | [bn]({{< ref "/f43/language/bn.md" >}}) | 34 | 34 | 100.0 | /mnt/stockage/packages/f43/notification-daemon/po/bn_IN.po/mnt/stockage/packages/f43/notification-daemon/po/bn.po | 
- | [bs]({{< ref "/f43/language/bs.md" >}}) | 17 | 17 | 100.0 | /mnt/stockage/packages/f43/notification-daemon/po/bs.po | 
- | [ca]({{< ref "/f43/language/ca.md" >}}) | 17 | 17 | 100.0 | /mnt/stockage/packages/f43/notification-daemon/po/ca.po | 
- | [ca@valencia]({{< ref "/f43/language/ca@valencia.md" >}}) | 17 | 17 | 100.0 | /mnt/stockage/packages/f43/notification-daemon/po/ca@valencia.po | 
- | [cs]({{< ref "/f43/language/cs.md" >}}) | 33 | 33 | 100.0 | /mnt/stockage/packages/f43/notification-daemon/po/cs.po | 
- | [da]({{< ref "/f43/language/da.md" >}}) | 17 | 17 | 100.0 | /mnt/stockage/packages/f43/notification-daemon/po/da.po | 
- | [de]({{< ref "/f43/language/de.md" >}}) | 33 | 33 | 100.0 | /mnt/stockage/packages/f43/notification-daemon/po/de.po | 
- | [el]({{< ref "/f43/language/el.md" >}}) | 29 | 29 | 100.0 | /mnt/stockage/packages/f43/notification-daemon/po/el.po | 
- | [en_GB]({{< ref "/f43/language/en_GB.md" >}}) | 17 | 17 | 100.0 | /mnt/stockage/packages/f43/notification-daemon/po/en_GB.po | 
- | [eo]({{< ref "/f43/language/eo.md" >}}) | 17 | 17 | 100.0 | /mnt/stockage/packages/f43/notification-daemon/po/eo.po | 
- | [es]({{< ref "/f43/language/es.md" >}}) | 33 | 33 | 100.0 | /mnt/stockage/packages/f43/notification-daemon/po/es.po | 
- | [et]({{< ref "/f43/language/et.md" >}}) | 17 | 17 | 100.0 | /mnt/stockage/packages/f43/notification-daemon/po/et.po | 
- | [eu]({{< ref "/f43/language/eu.md" >}}) | 17 | 17 | 100.0 | /mnt/stockage/packages/f43/notification-daemon/po/eu.po | 
- | [fa]({{< ref "/f43/language/fa.md" >}}) | 17 | 17 | 100.0 | /mnt/stockage/packages/f43/notification-daemon/po/fa.po | 
- | [fi]({{< ref "/f43/language/fi.md" >}}) | 17 | 17 | 100.0 | /mnt/stockage/packages/f43/notification-daemon/po/fi.po | 
- | [fr]({{< ref "/f43/language/fr.md" >}}) | 33 | 33 | 100.0 | /mnt/stockage/packages/f43/notification-daemon/po/fr.po | 
- | [fur]({{< ref "/f43/language/fur.md" >}}) | 17 | 17 | 100.0 | /mnt/stockage/packages/f43/notification-daemon/po/fur.po | 
- | [gl]({{< ref "/f43/language/gl.md" >}}) | 17 | 17 | 100.0 | /mnt/stockage/packages/f43/notification-daemon/po/gl.po | 
- | [gu]({{< ref "/f43/language/gu.md" >}}) | 17 | 17 | 100.0 | /mnt/stockage/packages/f43/notification-daemon/po/gu.po | 
- | [he]({{< ref "/f43/language/he.md" >}}) | 17 | 17 | 100.0 | /mnt/stockage/packages/f43/notification-daemon/po/he.po | 
- | [hi]({{< ref "/f43/language/hi.md" >}}) | 17 | 17 | 100.0 | /mnt/stockage/packages/f43/notification-daemon/po/hi.po | 
- | [hu]({{< ref "/f43/language/hu.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f43/notification-daemon/po/hu.po | 
- | [id]({{< ref "/f43/language/id.md" >}}) | 33 | 33 | 100.0 | /mnt/stockage/packages/f43/notification-daemon/po/id.po | 
- | [it]({{< ref "/f43/language/it.md" >}}) | 33 | 33 | 100.0 | /mnt/stockage/packages/f43/notification-daemon/po/it.po | 
- | [ja]({{< ref "/f43/language/ja.md" >}}) | 17 | 17 | 100.0 | /mnt/stockage/packages/f43/notification-daemon/po/ja.po | 
- | [km]({{< ref "/f43/language/km.md" >}}) | 17 | 17 | 100.0 | /mnt/stockage/packages/f43/notification-daemon/po/km.po | 
- | [kn]({{< ref "/f43/language/kn.md" >}}) | 17 | 17 | 100.0 | /mnt/stockage/packages/f43/notification-daemon/po/kn.po | 
- | [ko]({{< ref "/f43/language/ko.md" >}}) | 17 | 17 | 100.0 | /mnt/stockage/packages/f43/notification-daemon/po/ko.po | 
- | [lt]({{< ref "/f43/language/lt.md" >}}) | 33 | 33 | 100.0 | /mnt/stockage/packages/f43/notification-daemon/po/lt.po | 
- | [lv]({{< ref "/f43/language/lv.md" >}}) | 17 | 17 | 100.0 | /mnt/stockage/packages/f43/notification-daemon/po/lv.po | 
- | [ml]({{< ref "/f43/language/ml.md" >}}) | 17 | 17 | 100.0 | /mnt/stockage/packages/f43/notification-daemon/po/ml.po | 
- | [mr]({{< ref "/f43/language/mr.md" >}}) | 17 | 17 | 100.0 | /mnt/stockage/packages/f43/notification-daemon/po/mr.po | 
- | [ms]({{< ref "/f43/language/ms.md" >}}) | 17 | 17 | 100.0 | /mnt/stockage/packages/f43/notification-daemon/po/ms.po | 
- | [nb_NO]({{< ref "/f43/language/nb_NO.md" >}}) | 17 | 17 | 100.0 | /mnt/stockage/packages/f43/notification-daemon/po/nb.po | 
- | [nl]({{< ref "/f43/language/nl.md" >}}) | 17 | 17 | 100.0 | /mnt/stockage/packages/f43/notification-daemon/po/nl.po | 
- | [nn]({{< ref "/f43/language/nn.md" >}}) | 17 | 17 | 100.0 | /mnt/stockage/packages/f43/notification-daemon/po/nn.po | 
- | [oc]({{< ref "/f43/language/oc.md" >}}) | 17 | 17 | 100.0 | /mnt/stockage/packages/f43/notification-daemon/po/oc.po | 
- | [or]({{< ref "/f43/language/or.md" >}}) | 17 | 17 | 100.0 | /mnt/stockage/packages/f43/notification-daemon/po/or.po | 
- | [pa]({{< ref "/f43/language/pa.md" >}}) | 17 | 17 | 100.0 | /mnt/stockage/packages/f43/notification-daemon/po/pa.po | 
- | [pl]({{< ref "/f43/language/pl.md" >}}) | 33 | 33 | 100.0 | /mnt/stockage/packages/f43/notification-daemon/po/pl.po | 
- | [pt]({{< ref "/f43/language/pt.md" >}}) | 33 | 33 | 100.0 | /mnt/stockage/packages/f43/notification-daemon/po/pt.po | 
- | [pt_BR]({{< ref "/f43/language/pt_BR.md" >}}) | 33 | 33 | 100.0 | /mnt/stockage/packages/f43/notification-daemon/po/pt_BR.po | 
- | [qu]({{< ref "/f43/language/qu.md" >}}) | 17 | 17 | 100.0 | /mnt/stockage/packages/f43/notification-daemon/po/quz.po | 
- | [ro]({{< ref "/f43/language/ro.md" >}}) | 17 | 17 | 100.0 | /mnt/stockage/packages/f43/notification-daemon/po/ro.po | 
- | [ru]({{< ref "/f43/language/ru.md" >}}) | 26 | 26 | 100.0 | /mnt/stockage/packages/f43/notification-daemon/po/ru.po | 
- | [sk]({{< ref "/f43/language/sk.md" >}}) | 33 | 33 | 100.0 | /mnt/stockage/packages/f43/notification-daemon/po/sk.po | 
- | [sl]({{< ref "/f43/language/sl.md" >}}) | 17 | 17 | 100.0 | /mnt/stockage/packages/f43/notification-daemon/po/sl.po | 
- | [sr]({{< ref "/f43/language/sr.md" >}}) | 66 | 66 | 100.0 | /mnt/stockage/packages/f43/notification-daemon/po/sr.po/mnt/stockage/packages/f43/notification-daemon/po/sr@latin.po | 
- | [sv]({{< ref "/f43/language/sv.md" >}}) | 33 | 33 | 100.0 | /mnt/stockage/packages/f43/notification-daemon/po/sv.po | 
- | [ta]({{< ref "/f43/language/ta.md" >}}) | 17 | 17 | 100.0 | /mnt/stockage/packages/f43/notification-daemon/po/ta.po | 
- | [te]({{< ref "/f43/language/te.md" >}}) | 17 | 17 | 100.0 | /mnt/stockage/packages/f43/notification-daemon/po/te.po | 
- | [th]({{< ref "/f43/language/th.md" >}}) | 17 | 17 | 100.0 | /mnt/stockage/packages/f43/notification-daemon/po/th.po | 
- | [tr]({{< ref "/f43/language/tr.md" >}}) | 17 | 17 | 100.0 | /mnt/stockage/packages/f43/notification-daemon/po/tr.po | 
- | [ug]({{< ref "/f43/language/ug.md" >}}) | 17 | 17 | 100.0 | /mnt/stockage/packages/f43/notification-daemon/po/ug.po | 
- | [uk]({{< ref "/f43/language/uk.md" >}}) | 17 | 17 | 100.0 | /mnt/stockage/packages/f43/notification-daemon/po/uk.po | 
- | [uz]({{< ref "/f43/language/uz.md" >}}) | 17 | 17 | 100.0 | /mnt/stockage/packages/f43/notification-daemon/po/uz@cyrillic.po | 
- | [vi]({{< ref "/f43/language/vi.md" >}}) | 17 | 17 | 100.0 | /mnt/stockage/packages/f43/notification-daemon/po/vi.po | 
- | [zh_Hans]({{< ref "/f43/language/zh_Hans.md" >}}) | 17 | 17 | 100.0 | /mnt/stockage/packages/f43/notification-daemon/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f43/language/zh_Hant.md" >}}) | 17 | 17 | 100.0 | /mnt/stockage/packages/f43/notification-daemon/po/zh_TW.po | 
- | [zh_Hant_HK]({{< ref "/f43/language/zh_Hant_HK.md" >}}) | 17 | 17 | 100.0 | /mnt/stockage/packages/f43/notification-daemon/po/zh_HK.po | 
- | [zu]({{< ref "/f43/language/zu.md" >}}) | 17 | 17 | 100.0 | /mnt/stockage/packages/f43/notification-daemon/po/zu.po | 
- | [af]({{< ref "/f43/language/af.md" >}}) | 15 | 17 | 88.2 | /mnt/stockage/packages/f43/notification-daemon/po/af.po | 
+ | [an](/f43/language/an) | 17 | 17 | 100.0 | /mnt/stockage/packages/f43/notification-daemon/po/an.po | 
+ | [ar](/f43/language/ar) | 17 | 17 | 100.0 | /mnt/stockage/packages/f43/notification-daemon/po/ar.po | 
+ | [as](/f43/language/as) | 17 | 17 | 100.0 | /mnt/stockage/packages/f43/notification-daemon/po/as.po | 
+ | [ast](/f43/language/ast) | 17 | 17 | 100.0 | /mnt/stockage/packages/f43/notification-daemon/po/ast.po | 
+ | [be](/f43/language/be) | 17 | 17 | 100.0 | /mnt/stockage/packages/f43/notification-daemon/po/be.po | 
+ | [bg](/f43/language/bg) | 17 | 17 | 100.0 | /mnt/stockage/packages/f43/notification-daemon/po/bg.po | 
+ | [bn](/f43/language/bn) | 34 | 34 | 100.0 | /mnt/stockage/packages/f43/notification-daemon/po/bn_IN.po/mnt/stockage/packages/f43/notification-daemon/po/bn.po | 
+ | [bs](/f43/language/bs) | 17 | 17 | 100.0 | /mnt/stockage/packages/f43/notification-daemon/po/bs.po | 
+ | [ca](/f43/language/ca) | 17 | 17 | 100.0 | /mnt/stockage/packages/f43/notification-daemon/po/ca.po | 
+ | [ca@valencia](/f43/language/ca@valencia) | 17 | 17 | 100.0 | /mnt/stockage/packages/f43/notification-daemon/po/ca@valencia.po | 
+ | [cs](/f43/language/cs) | 33 | 33 | 100.0 | /mnt/stockage/packages/f43/notification-daemon/po/cs.po | 
+ | [da](/f43/language/da) | 17 | 17 | 100.0 | /mnt/stockage/packages/f43/notification-daemon/po/da.po | 
+ | [de](/f43/language/de) | 33 | 33 | 100.0 | /mnt/stockage/packages/f43/notification-daemon/po/de.po | 
+ | [el](/f43/language/el) | 29 | 29 | 100.0 | /mnt/stockage/packages/f43/notification-daemon/po/el.po | 
+ | [en_GB](/f43/language/en_GB) | 17 | 17 | 100.0 | /mnt/stockage/packages/f43/notification-daemon/po/en_GB.po | 
+ | [eo](/f43/language/eo) | 17 | 17 | 100.0 | /mnt/stockage/packages/f43/notification-daemon/po/eo.po | 
+ | [es](/f43/language/es) | 33 | 33 | 100.0 | /mnt/stockage/packages/f43/notification-daemon/po/es.po | 
+ | [et](/f43/language/et) | 17 | 17 | 100.0 | /mnt/stockage/packages/f43/notification-daemon/po/et.po | 
+ | [eu](/f43/language/eu) | 17 | 17 | 100.0 | /mnt/stockage/packages/f43/notification-daemon/po/eu.po | 
+ | [fa](/f43/language/fa) | 17 | 17 | 100.0 | /mnt/stockage/packages/f43/notification-daemon/po/fa.po | 
+ | [fi](/f43/language/fi) | 17 | 17 | 100.0 | /mnt/stockage/packages/f43/notification-daemon/po/fi.po | 
+ | [fr](/f43/language/fr) | 33 | 33 | 100.0 | /mnt/stockage/packages/f43/notification-daemon/po/fr.po | 
+ | [fur](/f43/language/fur) | 17 | 17 | 100.0 | /mnt/stockage/packages/f43/notification-daemon/po/fur.po | 
+ | [gl](/f43/language/gl) | 17 | 17 | 100.0 | /mnt/stockage/packages/f43/notification-daemon/po/gl.po | 
+ | [gu](/f43/language/gu) | 17 | 17 | 100.0 | /mnt/stockage/packages/f43/notification-daemon/po/gu.po | 
+ | [he](/f43/language/he) | 17 | 17 | 100.0 | /mnt/stockage/packages/f43/notification-daemon/po/he.po | 
+ | [hi](/f43/language/hi) | 17 | 17 | 100.0 | /mnt/stockage/packages/f43/notification-daemon/po/hi.po | 
+ | [hu](/f43/language/hu) | 24 | 24 | 100.0 | /mnt/stockage/packages/f43/notification-daemon/po/hu.po | 
+ | [id](/f43/language/id) | 33 | 33 | 100.0 | /mnt/stockage/packages/f43/notification-daemon/po/id.po | 
+ | [it](/f43/language/it) | 33 | 33 | 100.0 | /mnt/stockage/packages/f43/notification-daemon/po/it.po | 
+ | [ja](/f43/language/ja) | 17 | 17 | 100.0 | /mnt/stockage/packages/f43/notification-daemon/po/ja.po | 
+ | [km](/f43/language/km) | 17 | 17 | 100.0 | /mnt/stockage/packages/f43/notification-daemon/po/km.po | 
+ | [kn](/f43/language/kn) | 17 | 17 | 100.0 | /mnt/stockage/packages/f43/notification-daemon/po/kn.po | 
+ | [ko](/f43/language/ko) | 17 | 17 | 100.0 | /mnt/stockage/packages/f43/notification-daemon/po/ko.po | 
+ | [lt](/f43/language/lt) | 33 | 33 | 100.0 | /mnt/stockage/packages/f43/notification-daemon/po/lt.po | 
+ | [lv](/f43/language/lv) | 17 | 17 | 100.0 | /mnt/stockage/packages/f43/notification-daemon/po/lv.po | 
+ | [ml](/f43/language/ml) | 17 | 17 | 100.0 | /mnt/stockage/packages/f43/notification-daemon/po/ml.po | 
+ | [mr](/f43/language/mr) | 17 | 17 | 100.0 | /mnt/stockage/packages/f43/notification-daemon/po/mr.po | 
+ | [ms](/f43/language/ms) | 17 | 17 | 100.0 | /mnt/stockage/packages/f43/notification-daemon/po/ms.po | 
+ | [nb_NO](/f43/language/nb_NO) | 17 | 17 | 100.0 | /mnt/stockage/packages/f43/notification-daemon/po/nb.po | 
+ | [nl](/f43/language/nl) | 17 | 17 | 100.0 | /mnt/stockage/packages/f43/notification-daemon/po/nl.po | 
+ | [nn](/f43/language/nn) | 17 | 17 | 100.0 | /mnt/stockage/packages/f43/notification-daemon/po/nn.po | 
+ | [oc](/f43/language/oc) | 17 | 17 | 100.0 | /mnt/stockage/packages/f43/notification-daemon/po/oc.po | 
+ | [or](/f43/language/or) | 17 | 17 | 100.0 | /mnt/stockage/packages/f43/notification-daemon/po/or.po | 
+ | [pa](/f43/language/pa) | 17 | 17 | 100.0 | /mnt/stockage/packages/f43/notification-daemon/po/pa.po | 
+ | [pl](/f43/language/pl) | 33 | 33 | 100.0 | /mnt/stockage/packages/f43/notification-daemon/po/pl.po | 
+ | [pt](/f43/language/pt) | 33 | 33 | 100.0 | /mnt/stockage/packages/f43/notification-daemon/po/pt.po | 
+ | [pt_BR](/f43/language/pt_BR) | 33 | 33 | 100.0 | /mnt/stockage/packages/f43/notification-daemon/po/pt_BR.po | 
+ | [qu](/f43/language/qu) | 17 | 17 | 100.0 | /mnt/stockage/packages/f43/notification-daemon/po/quz.po | 
+ | [ro](/f43/language/ro) | 17 | 17 | 100.0 | /mnt/stockage/packages/f43/notification-daemon/po/ro.po | 
+ | [ru](/f43/language/ru) | 26 | 26 | 100.0 | /mnt/stockage/packages/f43/notification-daemon/po/ru.po | 
+ | [sk](/f43/language/sk) | 33 | 33 | 100.0 | /mnt/stockage/packages/f43/notification-daemon/po/sk.po | 
+ | [sl](/f43/language/sl) | 17 | 17 | 100.0 | /mnt/stockage/packages/f43/notification-daemon/po/sl.po | 
+ | [sr](/f43/language/sr) | 66 | 66 | 100.0 | /mnt/stockage/packages/f43/notification-daemon/po/sr.po/mnt/stockage/packages/f43/notification-daemon/po/sr@latin.po | 
+ | [sv](/f43/language/sv) | 33 | 33 | 100.0 | /mnt/stockage/packages/f43/notification-daemon/po/sv.po | 
+ | [ta](/f43/language/ta) | 17 | 17 | 100.0 | /mnt/stockage/packages/f43/notification-daemon/po/ta.po | 
+ | [te](/f43/language/te) | 17 | 17 | 100.0 | /mnt/stockage/packages/f43/notification-daemon/po/te.po | 
+ | [th](/f43/language/th) | 17 | 17 | 100.0 | /mnt/stockage/packages/f43/notification-daemon/po/th.po | 
+ | [tr](/f43/language/tr) | 17 | 17 | 100.0 | /mnt/stockage/packages/f43/notification-daemon/po/tr.po | 
+ | [ug](/f43/language/ug) | 17 | 17 | 100.0 | /mnt/stockage/packages/f43/notification-daemon/po/ug.po | 
+ | [uk](/f43/language/uk) | 17 | 17 | 100.0 | /mnt/stockage/packages/f43/notification-daemon/po/uk.po | 
+ | [uz](/f43/language/uz) | 17 | 17 | 100.0 | /mnt/stockage/packages/f43/notification-daemon/po/uz@cyrillic.po | 
+ | [vi](/f43/language/vi) | 17 | 17 | 100.0 | /mnt/stockage/packages/f43/notification-daemon/po/vi.po | 
+ | [zh_Hans](/f43/language/zh_Hans) | 17 | 17 | 100.0 | /mnt/stockage/packages/f43/notification-daemon/po/zh_CN.po | 
+ | [zh_Hant](/f43/language/zh_Hant) | 17 | 17 | 100.0 | /mnt/stockage/packages/f43/notification-daemon/po/zh_TW.po | 
+ | [zh_Hant_HK](/f43/language/zh_Hant_HK) | 17 | 17 | 100.0 | /mnt/stockage/packages/f43/notification-daemon/po/zh_HK.po | 
+ | [zu](/f43/language/zu) | 17 | 17 | 100.0 | /mnt/stockage/packages/f43/notification-daemon/po/zu.po | 
+ | [af](/f43/language/af) | 15 | 17 | 88.2 | /mnt/stockage/packages/f43/notification-daemon/po/af.po | 
 {.sortable}
 
 

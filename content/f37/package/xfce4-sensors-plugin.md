@@ -18,56 +18,56 @@ The package xfce4-sensors-plugin (version 1.4.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [bg]({{< ref "/f37/language/bg.md" >}}) | 433 | 433 | 100.0 | /mnt/stockage/packages/f37/xfce4-sensors-plugin/po/bg.po | 
- | [da]({{< ref "/f37/language/da.md" >}}) | 433 | 433 | 100.0 | /mnt/stockage/packages/f37/xfce4-sensors-plugin/po/da.po | 
- | [de]({{< ref "/f37/language/de.md" >}}) | 433 | 433 | 100.0 | /mnt/stockage/packages/f37/xfce4-sensors-plugin/po/de.po | 
- | [es]({{< ref "/f37/language/es.md" >}}) | 433 | 433 | 100.0 | /mnt/stockage/packages/f37/xfce4-sensors-plugin/po/es.po | 
- | [eu]({{< ref "/f37/language/eu.md" >}}) | 433 | 433 | 100.0 | /mnt/stockage/packages/f37/xfce4-sensors-plugin/po/eu.po | 
- | [fr]({{< ref "/f37/language/fr.md" >}}) | 433 | 433 | 100.0 | /mnt/stockage/packages/f37/xfce4-sensors-plugin/po/fr.po | 
- | [gl]({{< ref "/f37/language/gl.md" >}}) | 433 | 433 | 100.0 | /mnt/stockage/packages/f37/xfce4-sensors-plugin/po/gl.po | 
- | [he]({{< ref "/f37/language/he.md" >}}) | 433 | 433 | 100.0 | /mnt/stockage/packages/f37/xfce4-sensors-plugin/po/he.po | 
- | [id]({{< ref "/f37/language/id.md" >}}) | 433 | 433 | 100.0 | /mnt/stockage/packages/f37/xfce4-sensors-plugin/po/id.po | 
- | [it]({{< ref "/f37/language/it.md" >}}) | 433 | 433 | 100.0 | /mnt/stockage/packages/f37/xfce4-sensors-plugin/po/it.po | 
- | [ja]({{< ref "/f37/language/ja.md" >}}) | 433 | 433 | 100.0 | /mnt/stockage/packages/f37/xfce4-sensors-plugin/po/ja.po | 
- | [ko]({{< ref "/f37/language/ko.md" >}}) | 433 | 433 | 100.0 | /mnt/stockage/packages/f37/xfce4-sensors-plugin/po/ko.po | 
- | [lt]({{< ref "/f37/language/lt.md" >}}) | 433 | 433 | 100.0 | /mnt/stockage/packages/f37/xfce4-sensors-plugin/po/lt.po | 
- | [nb_NO]({{< ref "/f37/language/nb_NO.md" >}}) | 433 | 433 | 100.0 | /mnt/stockage/packages/f37/xfce4-sensors-plugin/po/nb.po | 
- | [nl]({{< ref "/f37/language/nl.md" >}}) | 433 | 433 | 100.0 | /mnt/stockage/packages/f37/xfce4-sensors-plugin/po/nl.po | 
- | [pl]({{< ref "/f37/language/pl.md" >}}) | 433 | 433 | 100.0 | /mnt/stockage/packages/f37/xfce4-sensors-plugin/po/pl.po | 
- | [pt]({{< ref "/f37/language/pt.md" >}}) | 433 | 433 | 100.0 | /mnt/stockage/packages/f37/xfce4-sensors-plugin/po/pt.po | 
- | [pt_BR]({{< ref "/f37/language/pt_BR.md" >}}) | 433 | 433 | 100.0 | /mnt/stockage/packages/f37/xfce4-sensors-plugin/po/pt_BR.po | 
- | [sk]({{< ref "/f37/language/sk.md" >}}) | 433 | 433 | 100.0 | /mnt/stockage/packages/f37/xfce4-sensors-plugin/po/sk.po | 
- | [sl]({{< ref "/f37/language/sl.md" >}}) | 433 | 433 | 100.0 | /mnt/stockage/packages/f37/xfce4-sensors-plugin/po/sl.po | 
- | [sq]({{< ref "/f37/language/sq.md" >}}) | 433 | 433 | 100.0 | /mnt/stockage/packages/f37/xfce4-sensors-plugin/po/sq.po | 
- | [sr]({{< ref "/f37/language/sr.md" >}}) | 433 | 433 | 100.0 | /mnt/stockage/packages/f37/xfce4-sensors-plugin/po/sr.po | 
- | [sv]({{< ref "/f37/language/sv.md" >}}) | 433 | 433 | 100.0 | /mnt/stockage/packages/f37/xfce4-sensors-plugin/po/sv.po | 
- | [tr]({{< ref "/f37/language/tr.md" >}}) | 433 | 433 | 100.0 | /mnt/stockage/packages/f37/xfce4-sensors-plugin/po/tr.po | 
- | [zh_Hans]({{< ref "/f37/language/zh_Hans.md" >}}) | 433 | 433 | 100.0 | /mnt/stockage/packages/f37/xfce4-sensors-plugin/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f37/language/zh_Hant.md" >}}) | 433 | 433 | 100.0 | /mnt/stockage/packages/f37/xfce4-sensors-plugin/po/zh_TW.po | 
- | [ms]({{< ref "/f37/language/ms.md" >}}) | 395 | 433 | 91.2 | /mnt/stockage/packages/f37/xfce4-sensors-plugin/po/ms.po | 
- | [cs]({{< ref "/f37/language/cs.md" >}}) | 392 | 433 | 90.5 | /mnt/stockage/packages/f37/xfce4-sensors-plugin/po/cs.po | 
- | [th]({{< ref "/f37/language/th.md" >}}) | 392 | 433 | 90.5 | /mnt/stockage/packages/f37/xfce4-sensors-plugin/po/th.po | 
- | [be]({{< ref "/f37/language/be.md" >}}) | 380 | 433 | 87.8 | /mnt/stockage/packages/f37/xfce4-sensors-plugin/po/be.po | 
- | [ca]({{< ref "/f37/language/ca.md" >}}) | 380 | 433 | 87.8 | /mnt/stockage/packages/f37/xfce4-sensors-plugin/po/ca.po | 
- | [en_AU]({{< ref "/f37/language/en_AU.md" >}}) | 380 | 433 | 87.8 | /mnt/stockage/packages/f37/xfce4-sensors-plugin/po/en_AU.po | 
- | [hr]({{< ref "/f37/language/hr.md" >}}) | 380 | 433 | 87.8 | /mnt/stockage/packages/f37/xfce4-sensors-plugin/po/hr.po | 
- | [hu]({{< ref "/f37/language/hu.md" >}}) | 380 | 433 | 87.8 | /mnt/stockage/packages/f37/xfce4-sensors-plugin/po/hu.po | 
- | [is]({{< ref "/f37/language/is.md" >}}) | 380 | 433 | 87.8 | /mnt/stockage/packages/f37/xfce4-sensors-plugin/po/is.po | 
- | [ru]({{< ref "/f37/language/ru.md" >}}) | 380 | 433 | 87.8 | /mnt/stockage/packages/f37/xfce4-sensors-plugin/po/ru.po | 
- | [uk]({{< ref "/f37/language/uk.md" >}}) | 380 | 433 | 87.8 | /mnt/stockage/packages/f37/xfce4-sensors-plugin/po/uk.po | 
- | [ast]({{< ref "/f37/language/ast.md" >}}) | 302 | 390 | 77.4 | /mnt/stockage/packages/f37/xfce4-sensors-plugin/po/ast.po | 
- | [el]({{< ref "/f37/language/el.md" >}}) | 322 | 433 | 74.4 | /mnt/stockage/packages/f37/xfce4-sensors-plugin/po/el.po | 
- | [fi]({{< ref "/f37/language/fi.md" >}}) | 316 | 433 | 73.0 | /mnt/stockage/packages/f37/xfce4-sensors-plugin/po/fi.po | 
- | [oc]({{< ref "/f37/language/oc.md" >}}) | 295 | 433 | 68.1 | /mnt/stockage/packages/f37/xfce4-sensors-plugin/po/oc.po | 
- | [ar]({{< ref "/f37/language/ar.md" >}}) | 292 | 433 | 67.4 | /mnt/stockage/packages/f37/xfce4-sensors-plugin/po/ar.po | 
- | [ug]({{< ref "/f37/language/ug.md" >}}) | 292 | 433 | 67.4 | /mnt/stockage/packages/f37/xfce4-sensors-plugin/po/ug.po | 
- | [en_GB]({{< ref "/f37/language/en_GB.md" >}}) | 286 | 433 | 66.1 | /mnt/stockage/packages/f37/xfce4-sensors-plugin/po/en_GB.po | 
- | [lv]({{< ref "/f37/language/lv.md" >}}) | 258 | 433 | 59.6 | /mnt/stockage/packages/f37/xfce4-sensors-plugin/po/lv.po | 
- | [ur]({{< ref "/f37/language/ur.md" >}}) | 252 | 433 | 58.2 | /mnt/stockage/packages/f37/xfce4-sensors-plugin/po/ur.po | 
- | [ur_PK]({{< ref "/f37/language/ur_PK.md" >}}) | 252 | 433 | 58.2 | /mnt/stockage/packages/f37/xfce4-sensors-plugin/po/ur_PK.po | 
- | [ie]({{< ref "/f37/language/ie.md" >}}) | 221 | 433 | 51.0 | /mnt/stockage/packages/f37/xfce4-sensors-plugin/po/ie.po | 
- | [hy]({{< ref "/f37/language/hy.md" >}}) | 382 | 866 | 44.1 | /mnt/stockage/packages/f37/xfce4-sensors-plugin/po/hye.po/mnt/stockage/packages/f37/xfce4-sensors-plugin/po/hy_AM.po | 
- | [vi]({{< ref "/f37/language/vi.md" >}}) | 25 | 357 | 7.0 | /mnt/stockage/packages/f37/xfce4-sensors-plugin/po/vi.po | 
+ | [bg](/f37/language/bg) | 433 | 433 | 100.0 | /mnt/stockage/packages/f37/xfce4-sensors-plugin/po/bg.po | 
+ | [da](/f37/language/da) | 433 | 433 | 100.0 | /mnt/stockage/packages/f37/xfce4-sensors-plugin/po/da.po | 
+ | [de](/f37/language/de) | 433 | 433 | 100.0 | /mnt/stockage/packages/f37/xfce4-sensors-plugin/po/de.po | 
+ | [es](/f37/language/es) | 433 | 433 | 100.0 | /mnt/stockage/packages/f37/xfce4-sensors-plugin/po/es.po | 
+ | [eu](/f37/language/eu) | 433 | 433 | 100.0 | /mnt/stockage/packages/f37/xfce4-sensors-plugin/po/eu.po | 
+ | [fr](/f37/language/fr) | 433 | 433 | 100.0 | /mnt/stockage/packages/f37/xfce4-sensors-plugin/po/fr.po | 
+ | [gl](/f37/language/gl) | 433 | 433 | 100.0 | /mnt/stockage/packages/f37/xfce4-sensors-plugin/po/gl.po | 
+ | [he](/f37/language/he) | 433 | 433 | 100.0 | /mnt/stockage/packages/f37/xfce4-sensors-plugin/po/he.po | 
+ | [id](/f37/language/id) | 433 | 433 | 100.0 | /mnt/stockage/packages/f37/xfce4-sensors-plugin/po/id.po | 
+ | [it](/f37/language/it) | 433 | 433 | 100.0 | /mnt/stockage/packages/f37/xfce4-sensors-plugin/po/it.po | 
+ | [ja](/f37/language/ja) | 433 | 433 | 100.0 | /mnt/stockage/packages/f37/xfce4-sensors-plugin/po/ja.po | 
+ | [ko](/f37/language/ko) | 433 | 433 | 100.0 | /mnt/stockage/packages/f37/xfce4-sensors-plugin/po/ko.po | 
+ | [lt](/f37/language/lt) | 433 | 433 | 100.0 | /mnt/stockage/packages/f37/xfce4-sensors-plugin/po/lt.po | 
+ | [nb_NO](/f37/language/nb_NO) | 433 | 433 | 100.0 | /mnt/stockage/packages/f37/xfce4-sensors-plugin/po/nb.po | 
+ | [nl](/f37/language/nl) | 433 | 433 | 100.0 | /mnt/stockage/packages/f37/xfce4-sensors-plugin/po/nl.po | 
+ | [pl](/f37/language/pl) | 433 | 433 | 100.0 | /mnt/stockage/packages/f37/xfce4-sensors-plugin/po/pl.po | 
+ | [pt](/f37/language/pt) | 433 | 433 | 100.0 | /mnt/stockage/packages/f37/xfce4-sensors-plugin/po/pt.po | 
+ | [pt_BR](/f37/language/pt_BR) | 433 | 433 | 100.0 | /mnt/stockage/packages/f37/xfce4-sensors-plugin/po/pt_BR.po | 
+ | [sk](/f37/language/sk) | 433 | 433 | 100.0 | /mnt/stockage/packages/f37/xfce4-sensors-plugin/po/sk.po | 
+ | [sl](/f37/language/sl) | 433 | 433 | 100.0 | /mnt/stockage/packages/f37/xfce4-sensors-plugin/po/sl.po | 
+ | [sq](/f37/language/sq) | 433 | 433 | 100.0 | /mnt/stockage/packages/f37/xfce4-sensors-plugin/po/sq.po | 
+ | [sr](/f37/language/sr) | 433 | 433 | 100.0 | /mnt/stockage/packages/f37/xfce4-sensors-plugin/po/sr.po | 
+ | [sv](/f37/language/sv) | 433 | 433 | 100.0 | /mnt/stockage/packages/f37/xfce4-sensors-plugin/po/sv.po | 
+ | [tr](/f37/language/tr) | 433 | 433 | 100.0 | /mnt/stockage/packages/f37/xfce4-sensors-plugin/po/tr.po | 
+ | [zh_Hans](/f37/language/zh_Hans) | 433 | 433 | 100.0 | /mnt/stockage/packages/f37/xfce4-sensors-plugin/po/zh_CN.po | 
+ | [zh_Hant](/f37/language/zh_Hant) | 433 | 433 | 100.0 | /mnt/stockage/packages/f37/xfce4-sensors-plugin/po/zh_TW.po | 
+ | [ms](/f37/language/ms) | 395 | 433 | 91.2 | /mnt/stockage/packages/f37/xfce4-sensors-plugin/po/ms.po | 
+ | [cs](/f37/language/cs) | 392 | 433 | 90.5 | /mnt/stockage/packages/f37/xfce4-sensors-plugin/po/cs.po | 
+ | [th](/f37/language/th) | 392 | 433 | 90.5 | /mnt/stockage/packages/f37/xfce4-sensors-plugin/po/th.po | 
+ | [be](/f37/language/be) | 380 | 433 | 87.8 | /mnt/stockage/packages/f37/xfce4-sensors-plugin/po/be.po | 
+ | [ca](/f37/language/ca) | 380 | 433 | 87.8 | /mnt/stockage/packages/f37/xfce4-sensors-plugin/po/ca.po | 
+ | [en_AU](/f37/language/en_AU) | 380 | 433 | 87.8 | /mnt/stockage/packages/f37/xfce4-sensors-plugin/po/en_AU.po | 
+ | [hr](/f37/language/hr) | 380 | 433 | 87.8 | /mnt/stockage/packages/f37/xfce4-sensors-plugin/po/hr.po | 
+ | [hu](/f37/language/hu) | 380 | 433 | 87.8 | /mnt/stockage/packages/f37/xfce4-sensors-plugin/po/hu.po | 
+ | [is](/f37/language/is) | 380 | 433 | 87.8 | /mnt/stockage/packages/f37/xfce4-sensors-plugin/po/is.po | 
+ | [ru](/f37/language/ru) | 380 | 433 | 87.8 | /mnt/stockage/packages/f37/xfce4-sensors-plugin/po/ru.po | 
+ | [uk](/f37/language/uk) | 380 | 433 | 87.8 | /mnt/stockage/packages/f37/xfce4-sensors-plugin/po/uk.po | 
+ | [ast](/f37/language/ast) | 302 | 390 | 77.4 | /mnt/stockage/packages/f37/xfce4-sensors-plugin/po/ast.po | 
+ | [el](/f37/language/el) | 322 | 433 | 74.4 | /mnt/stockage/packages/f37/xfce4-sensors-plugin/po/el.po | 
+ | [fi](/f37/language/fi) | 316 | 433 | 73.0 | /mnt/stockage/packages/f37/xfce4-sensors-plugin/po/fi.po | 
+ | [oc](/f37/language/oc) | 295 | 433 | 68.1 | /mnt/stockage/packages/f37/xfce4-sensors-plugin/po/oc.po | 
+ | [ar](/f37/language/ar) | 292 | 433 | 67.4 | /mnt/stockage/packages/f37/xfce4-sensors-plugin/po/ar.po | 
+ | [ug](/f37/language/ug) | 292 | 433 | 67.4 | /mnt/stockage/packages/f37/xfce4-sensors-plugin/po/ug.po | 
+ | [en_GB](/f37/language/en_GB) | 286 | 433 | 66.1 | /mnt/stockage/packages/f37/xfce4-sensors-plugin/po/en_GB.po | 
+ | [lv](/f37/language/lv) | 258 | 433 | 59.6 | /mnt/stockage/packages/f37/xfce4-sensors-plugin/po/lv.po | 
+ | [ur](/f37/language/ur) | 252 | 433 | 58.2 | /mnt/stockage/packages/f37/xfce4-sensors-plugin/po/ur.po | 
+ | [ur_PK](/f37/language/ur_PK) | 252 | 433 | 58.2 | /mnt/stockage/packages/f37/xfce4-sensors-plugin/po/ur_PK.po | 
+ | [ie](/f37/language/ie) | 221 | 433 | 51.0 | /mnt/stockage/packages/f37/xfce4-sensors-plugin/po/ie.po | 
+ | [hy](/f37/language/hy) | 382 | 866 | 44.1 | /mnt/stockage/packages/f37/xfce4-sensors-plugin/po/hye.po/mnt/stockage/packages/f37/xfce4-sensors-plugin/po/hy_AM.po | 
+ | [vi](/f37/language/vi) | 25 | 357 | 7.0 | /mnt/stockage/packages/f37/xfce4-sensors-plugin/po/vi.po | 
 {.sortable}
 
 

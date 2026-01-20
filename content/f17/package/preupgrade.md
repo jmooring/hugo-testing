@@ -18,33 +18,33 @@ The package preupgrade (version 1.1.10):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f17/language/ar.md" >}}) | 801 | 801 | 100.0 | /mnt/stockage/packages/f17/preupgrade/po/ar.po | 
- | [bs]({{< ref "/f17/language/bs.md" >}}) | 801 | 801 | 100.0 | /mnt/stockage/packages/f17/preupgrade/po/bs.po | 
- | [ca]({{< ref "/f17/language/ca.md" >}}) | 801 | 801 | 100.0 | /mnt/stockage/packages/f17/preupgrade/po/ca.po | 
- | [cs]({{< ref "/f17/language/cs.md" >}}) | 801 | 801 | 100.0 | /mnt/stockage/packages/f17/preupgrade/po/cs.po | 
- | [da]({{< ref "/f17/language/da.md" >}}) | 801 | 801 | 100.0 | /mnt/stockage/packages/f17/preupgrade/po/da.po | 
- | [de]({{< ref "/f17/language/de.md" >}}) | 801 | 801 | 100.0 | /mnt/stockage/packages/f17/preupgrade/po/de.po | 
- | [en_GB]({{< ref "/f17/language/en_GB.md" >}}) | 801 | 801 | 100.0 | /mnt/stockage/packages/f17/preupgrade/po/en_GB.po | 
- | [es]({{< ref "/f17/language/es.md" >}}) | 801 | 801 | 100.0 | /mnt/stockage/packages/f17/preupgrade/po/es.po | 
- | [fa]({{< ref "/f17/language/fa.md" >}}) | 801 | 801 | 100.0 | /mnt/stockage/packages/f17/preupgrade/po/fa.po | 
- | [fi]({{< ref "/f17/language/fi.md" >}}) | 801 | 801 | 100.0 | /mnt/stockage/packages/f17/preupgrade/po/fi.po | 
- | [fr]({{< ref "/f17/language/fr.md" >}}) | 801 | 801 | 100.0 | /mnt/stockage/packages/f17/preupgrade/po/fr.po | 
- | [he]({{< ref "/f17/language/he.md" >}}) | 801 | 801 | 100.0 | /mnt/stockage/packages/f17/preupgrade/po/he.po | 
- | [it]({{< ref "/f17/language/it.md" >}}) | 801 | 801 | 100.0 | /mnt/stockage/packages/f17/preupgrade/po/it.po | 
- | [ja]({{< ref "/f17/language/ja.md" >}}) | 801 | 801 | 100.0 | /mnt/stockage/packages/f17/preupgrade/po/ja.po | 
- | [nl]({{< ref "/f17/language/nl.md" >}}) | 801 | 801 | 100.0 | /mnt/stockage/packages/f17/preupgrade/po/nl.po | 
- | [pa]({{< ref "/f17/language/pa.md" >}}) | 801 | 801 | 100.0 | /mnt/stockage/packages/f17/preupgrade/po/pa.po | 
- | [pl]({{< ref "/f17/language/pl.md" >}}) | 801 | 801 | 100.0 | /mnt/stockage/packages/f17/preupgrade/po/pl.po | 
- | [pt]({{< ref "/f17/language/pt.md" >}}) | 801 | 801 | 100.0 | /mnt/stockage/packages/f17/preupgrade/po/pt.po | 
- | [pt_BR]({{< ref "/f17/language/pt_BR.md" >}}) | 801 | 801 | 100.0 | /mnt/stockage/packages/f17/preupgrade/po/pt_BR.po | 
- | [sv]({{< ref "/f17/language/sv.md" >}}) | 801 | 801 | 100.0 | /mnt/stockage/packages/f17/preupgrade/po/sv.po | 
- | [uk]({{< ref "/f17/language/uk.md" >}}) | 801 | 801 | 100.0 | /mnt/stockage/packages/f17/preupgrade/po/uk.po | 
- | [zh_Hans]({{< ref "/f17/language/zh_Hans.md" >}}) | 801 | 801 | 100.0 | /mnt/stockage/packages/f17/preupgrade/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f17/language/zh_Hant.md" >}}) | 801 | 801 | 100.0 | /mnt/stockage/packages/f17/preupgrade/po/zh_TW.po | 
- | [ru]({{< ref "/f17/language/ru.md" >}}) | 798 | 801 | 99.6 | /mnt/stockage/packages/f17/preupgrade/po/ru.po | 
- | [el]({{< ref "/f17/language/el.md" >}}) | 415 | 797 | 52.1 | /mnt/stockage/packages/f17/preupgrade/po/el.po | 
- | [hu]({{< ref "/f17/language/hu.md" >}}) | 394 | 801 | 49.2 | /mnt/stockage/packages/f17/preupgrade/po/hu.po | 
- | [nds]({{< ref "/f17/language/nds.md" >}}) | 43 | 801 | 5.4 | /mnt/stockage/packages/f17/preupgrade/po/nds.po | 
+ | [ar](/f17/language/ar) | 801 | 801 | 100.0 | /mnt/stockage/packages/f17/preupgrade/po/ar.po | 
+ | [bs](/f17/language/bs) | 801 | 801 | 100.0 | /mnt/stockage/packages/f17/preupgrade/po/bs.po | 
+ | [ca](/f17/language/ca) | 801 | 801 | 100.0 | /mnt/stockage/packages/f17/preupgrade/po/ca.po | 
+ | [cs](/f17/language/cs) | 801 | 801 | 100.0 | /mnt/stockage/packages/f17/preupgrade/po/cs.po | 
+ | [da](/f17/language/da) | 801 | 801 | 100.0 | /mnt/stockage/packages/f17/preupgrade/po/da.po | 
+ | [de](/f17/language/de) | 801 | 801 | 100.0 | /mnt/stockage/packages/f17/preupgrade/po/de.po | 
+ | [en_GB](/f17/language/en_GB) | 801 | 801 | 100.0 | /mnt/stockage/packages/f17/preupgrade/po/en_GB.po | 
+ | [es](/f17/language/es) | 801 | 801 | 100.0 | /mnt/stockage/packages/f17/preupgrade/po/es.po | 
+ | [fa](/f17/language/fa) | 801 | 801 | 100.0 | /mnt/stockage/packages/f17/preupgrade/po/fa.po | 
+ | [fi](/f17/language/fi) | 801 | 801 | 100.0 | /mnt/stockage/packages/f17/preupgrade/po/fi.po | 
+ | [fr](/f17/language/fr) | 801 | 801 | 100.0 | /mnt/stockage/packages/f17/preupgrade/po/fr.po | 
+ | [he](/f17/language/he) | 801 | 801 | 100.0 | /mnt/stockage/packages/f17/preupgrade/po/he.po | 
+ | [it](/f17/language/it) | 801 | 801 | 100.0 | /mnt/stockage/packages/f17/preupgrade/po/it.po | 
+ | [ja](/f17/language/ja) | 801 | 801 | 100.0 | /mnt/stockage/packages/f17/preupgrade/po/ja.po | 
+ | [nl](/f17/language/nl) | 801 | 801 | 100.0 | /mnt/stockage/packages/f17/preupgrade/po/nl.po | 
+ | [pa](/f17/language/pa) | 801 | 801 | 100.0 | /mnt/stockage/packages/f17/preupgrade/po/pa.po | 
+ | [pl](/f17/language/pl) | 801 | 801 | 100.0 | /mnt/stockage/packages/f17/preupgrade/po/pl.po | 
+ | [pt](/f17/language/pt) | 801 | 801 | 100.0 | /mnt/stockage/packages/f17/preupgrade/po/pt.po | 
+ | [pt_BR](/f17/language/pt_BR) | 801 | 801 | 100.0 | /mnt/stockage/packages/f17/preupgrade/po/pt_BR.po | 
+ | [sv](/f17/language/sv) | 801 | 801 | 100.0 | /mnt/stockage/packages/f17/preupgrade/po/sv.po | 
+ | [uk](/f17/language/uk) | 801 | 801 | 100.0 | /mnt/stockage/packages/f17/preupgrade/po/uk.po | 
+ | [zh_Hans](/f17/language/zh_Hans) | 801 | 801 | 100.0 | /mnt/stockage/packages/f17/preupgrade/po/zh_CN.po | 
+ | [zh_Hant](/f17/language/zh_Hant) | 801 | 801 | 100.0 | /mnt/stockage/packages/f17/preupgrade/po/zh_TW.po | 
+ | [ru](/f17/language/ru) | 798 | 801 | 99.6 | /mnt/stockage/packages/f17/preupgrade/po/ru.po | 
+ | [el](/f17/language/el) | 415 | 797 | 52.1 | /mnt/stockage/packages/f17/preupgrade/po/el.po | 
+ | [hu](/f17/language/hu) | 394 | 801 | 49.2 | /mnt/stockage/packages/f17/preupgrade/po/hu.po | 
+ | [nds](/f17/language/nds) | 43 | 801 | 5.4 | /mnt/stockage/packages/f17/preupgrade/po/nds.po | 
 {.sortable}
 
 

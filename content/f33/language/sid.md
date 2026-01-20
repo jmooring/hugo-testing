@@ -38,8 +38,8 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [kde-i18n]({{< ref "/f33/package/kde-i18n.md" >}}) | 14 | 14 | 100.0 | Traditional Chinese <zh_l10n@linux.org.tw> | 
- | [libreoffice]({{< ref "/f33/package/libreoffice.md" >}}) | 329045 | 590651 | 55.7 | LANGUAGE <LL@li.org> | 
+ | [kde-i18n](/f33/package/kde-i18n) | 14 | 14 | 100.0 | Traditional Chinese <zh_l10n@linux.org.tw> | 
+ | [libreoffice](/f33/package/libreoffice) | 329045 | 590651 | 55.7 | LANGUAGE <LL@li.org> | 
 {.sortable}
 
 

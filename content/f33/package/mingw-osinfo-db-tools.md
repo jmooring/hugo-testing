@@ -18,17 +18,17 @@ The package mingw-osinfo-db-tools (version 1.8.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f33/language/fr.md" >}}) | 222 | 222 | 100.0 | /mnt/stockage/packages/f33/mingw-osinfo-db-tools/po/fr.po | 
- | [id]({{< ref "/f33/language/id.md" >}}) | 222 | 222 | 100.0 | /mnt/stockage/packages/f33/mingw-osinfo-db-tools/po/id.po | 
- | [pl]({{< ref "/f33/language/pl.md" >}}) | 222 | 222 | 100.0 | /mnt/stockage/packages/f33/mingw-osinfo-db-tools/po/pl.po | 
- | [tr]({{< ref "/f33/language/tr.md" >}}) | 222 | 222 | 100.0 | /mnt/stockage/packages/f33/mingw-osinfo-db-tools/po/tr.po | 
- | [uk]({{< ref "/f33/language/uk.md" >}}) | 222 | 222 | 100.0 | /mnt/stockage/packages/f33/mingw-osinfo-db-tools/po/uk.po | 
- | [cs]({{< ref "/f33/language/cs.md" >}}) | 197 | 222 | 88.7 | /mnt/stockage/packages/f33/mingw-osinfo-db-tools/po/cs.po | 
- | [ca]({{< ref "/f33/language/ca.md" >}}) | 61 | 222 | 27.5 | /mnt/stockage/packages/f33/mingw-osinfo-db-tools/po/ca.po | 
- | [de]({{< ref "/f33/language/de.md" >}}) | 54 | 222 | 24.3 | /mnt/stockage/packages/f33/mingw-osinfo-db-tools/po/de.po | 
- | [es]({{< ref "/f33/language/es.md" >}}) | 54 | 222 | 24.3 | /mnt/stockage/packages/f33/mingw-osinfo-db-tools/po/es.po | 
- | [ja]({{< ref "/f33/language/ja.md" >}}) | 54 | 222 | 24.3 | /mnt/stockage/packages/f33/mingw-osinfo-db-tools/po/ja.po | 
- | [pt_PT]({{< ref "/f33/language/pt_PT.md" >}}) | 52 | 222 | 23.4 | /mnt/stockage/packages/f33/mingw-osinfo-db-tools/po/pt_PT.po | 
+ | [fr](/f33/language/fr) | 222 | 222 | 100.0 | /mnt/stockage/packages/f33/mingw-osinfo-db-tools/po/fr.po | 
+ | [id](/f33/language/id) | 222 | 222 | 100.0 | /mnt/stockage/packages/f33/mingw-osinfo-db-tools/po/id.po | 
+ | [pl](/f33/language/pl) | 222 | 222 | 100.0 | /mnt/stockage/packages/f33/mingw-osinfo-db-tools/po/pl.po | 
+ | [tr](/f33/language/tr) | 222 | 222 | 100.0 | /mnt/stockage/packages/f33/mingw-osinfo-db-tools/po/tr.po | 
+ | [uk](/f33/language/uk) | 222 | 222 | 100.0 | /mnt/stockage/packages/f33/mingw-osinfo-db-tools/po/uk.po | 
+ | [cs](/f33/language/cs) | 197 | 222 | 88.7 | /mnt/stockage/packages/f33/mingw-osinfo-db-tools/po/cs.po | 
+ | [ca](/f33/language/ca) | 61 | 222 | 27.5 | /mnt/stockage/packages/f33/mingw-osinfo-db-tools/po/ca.po | 
+ | [de](/f33/language/de) | 54 | 222 | 24.3 | /mnt/stockage/packages/f33/mingw-osinfo-db-tools/po/de.po | 
+ | [es](/f33/language/es) | 54 | 222 | 24.3 | /mnt/stockage/packages/f33/mingw-osinfo-db-tools/po/es.po | 
+ | [ja](/f33/language/ja) | 54 | 222 | 24.3 | /mnt/stockage/packages/f33/mingw-osinfo-db-tools/po/ja.po | 
+ | [pt_PT](/f33/language/pt_PT) | 52 | 222 | 23.4 | /mnt/stockage/packages/f33/mingw-osinfo-db-tools/po/pt_PT.po | 
 {.sortable}
 
 

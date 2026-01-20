@@ -18,11 +18,11 @@ The package ccdciel (version 0.9.55):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f29/language/fr.md" >}}) | 3844 | 3845 | 100.0 | /mnt/stockage/packages/f29/ccdciel/data/language/ccdciel.fr.po | 
- | [en_GB]({{< ref "/f29/language/en_GB.md" >}}) | 3791 | 3845 | 98.6 | /mnt/stockage/packages/f29/ccdciel/data/language/ccdciel.en_GB.po | 
- | [it]({{< ref "/f29/language/it.md" >}}) | 1817 | 3845 | 47.3 | /mnt/stockage/packages/f29/ccdciel/data/language/ccdciel.it.po | 
- | [ku]({{< ref "/f29/language/ku.md" >}}) | 37 | 3845 | 1.0 | /mnt/stockage/packages/f29/ccdciel/data/language/ccdciel.ku.po | 
- | [de]({{< ref "/f29/language/de.md" >}}) | 21 | 3845 | 0.5 | /mnt/stockage/packages/f29/ccdciel/data/language/ccdciel.de.po | 
+ | [fr](/f29/language/fr) | 3844 | 3845 | 100.0 | /mnt/stockage/packages/f29/ccdciel/data/language/ccdciel.fr.po | 
+ | [en_GB](/f29/language/en_GB) | 3791 | 3845 | 98.6 | /mnt/stockage/packages/f29/ccdciel/data/language/ccdciel.en_GB.po | 
+ | [it](/f29/language/it) | 1817 | 3845 | 47.3 | /mnt/stockage/packages/f29/ccdciel/data/language/ccdciel.it.po | 
+ | [ku](/f29/language/ku) | 37 | 3845 | 1.0 | /mnt/stockage/packages/f29/ccdciel/data/language/ccdciel.ku.po | 
+ | [de](/f29/language/de) | 21 | 3845 | 0.5 | /mnt/stockage/packages/f29/ccdciel/data/language/ccdciel.de.po | 
 {.sortable}
 
 

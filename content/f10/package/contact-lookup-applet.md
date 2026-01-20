@@ -18,44 +18,44 @@ The package contact-lookup-applet (version 0.16):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [bg]({{< ref "/f10/language/bg.md" >}}) | 259 | 259 | 100.0 | /mnt/stockage/packages/f10/contact-lookup-applet/po/bg.po | 
- | [ca]({{< ref "/f10/language/ca.md" >}}) | 259 | 259 | 100.0 | /mnt/stockage/packages/f10/contact-lookup-applet/po/ca.po | 
- | [cs]({{< ref "/f10/language/cs.md" >}}) | 259 | 259 | 100.0 | /mnt/stockage/packages/f10/contact-lookup-applet/po/cs.po | 
- | [de]({{< ref "/f10/language/de.md" >}}) | 259 | 259 | 100.0 | /mnt/stockage/packages/f10/contact-lookup-applet/po/de.po | 
- | [dz]({{< ref "/f10/language/dz.md" >}}) | 259 | 259 | 100.0 | /mnt/stockage/packages/f10/contact-lookup-applet/po/dz.po | 
- | [en_CA]({{< ref "/f10/language/en_CA.md" >}}) | 260 | 260 | 100.0 | /mnt/stockage/packages/f10/contact-lookup-applet/po/en_CA.po | 
- | [en_GB]({{< ref "/f10/language/en_GB.md" >}}) | 259 | 259 | 100.0 | /mnt/stockage/packages/f10/contact-lookup-applet/po/en_GB.po | 
- | [error]({{< ref "/f10/language/error.md" >}}) | 260 | 260 | 100.0 | /mnt/stockage/packages/f10/contact-lookup-applet/po/sr@Latn.po | 
- | [es]({{< ref "/f10/language/es.md" >}}) | 259 | 259 | 100.0 | /mnt/stockage/packages/f10/contact-lookup-applet/po/es.po | 
- | [eu]({{< ref "/f10/language/eu.md" >}}) | 259 | 259 | 100.0 | /mnt/stockage/packages/f10/contact-lookup-applet/po/eu.po | 
- | [fi]({{< ref "/f10/language/fi.md" >}}) | 259 | 259 | 100.0 | /mnt/stockage/packages/f10/contact-lookup-applet/po/fi.po | 
- | [fr]({{< ref "/f10/language/fr.md" >}}) | 259 | 259 | 100.0 | /mnt/stockage/packages/f10/contact-lookup-applet/po/fr.po | 
- | [hu]({{< ref "/f10/language/hu.md" >}}) | 259 | 259 | 100.0 | /mnt/stockage/packages/f10/contact-lookup-applet/po/hu.po | 
- | [it]({{< ref "/f10/language/it.md" >}}) | 260 | 260 | 100.0 | /mnt/stockage/packages/f10/contact-lookup-applet/po/it.po | 
- | [ja]({{< ref "/f10/language/ja.md" >}}) | 260 | 260 | 100.0 | /mnt/stockage/packages/f10/contact-lookup-applet/po/ja.po | 
- | [lt]({{< ref "/f10/language/lt.md" >}}) | 259 | 259 | 100.0 | /mnt/stockage/packages/f10/contact-lookup-applet/po/lt.po | 
- | [mk]({{< ref "/f10/language/mk.md" >}}) | 259 | 259 | 100.0 | /mnt/stockage/packages/f10/contact-lookup-applet/po/mk.po | 
- | [nb_NO]({{< ref "/f10/language/nb_NO.md" >}}) | 259 | 259 | 100.0 | /mnt/stockage/packages/f10/contact-lookup-applet/po/nb.po | 
- | [ne]({{< ref "/f10/language/ne.md" >}}) | 259 | 259 | 100.0 | /mnt/stockage/packages/f10/contact-lookup-applet/po/ne.po | 
- | [pt]({{< ref "/f10/language/pt.md" >}}) | 259 | 259 | 100.0 | /mnt/stockage/packages/f10/contact-lookup-applet/po/pt.po | 
- | [pt_BR]({{< ref "/f10/language/pt_BR.md" >}}) | 249 | 249 | 100.0 | /mnt/stockage/packages/f10/contact-lookup-applet/po/pt_BR.po | 
- | [ru]({{< ref "/f10/language/ru.md" >}}) | 259 | 259 | 100.0 | /mnt/stockage/packages/f10/contact-lookup-applet/po/ru.po | 
- | [sk]({{< ref "/f10/language/sk.md" >}}) | 260 | 260 | 100.0 | /mnt/stockage/packages/f10/contact-lookup-applet/po/sk.po | 
- | [sl]({{< ref "/f10/language/sl.md" >}}) | 259 | 259 | 100.0 | /mnt/stockage/packages/f10/contact-lookup-applet/po/sl.po | 
- | [sq]({{< ref "/f10/language/sq.md" >}}) | 259 | 259 | 100.0 | /mnt/stockage/packages/f10/contact-lookup-applet/po/sq.po | 
- | [sr]({{< ref "/f10/language/sr.md" >}}) | 260 | 260 | 100.0 | /mnt/stockage/packages/f10/contact-lookup-applet/po/sr.po | 
- | [sv]({{< ref "/f10/language/sv.md" >}}) | 259 | 259 | 100.0 | /mnt/stockage/packages/f10/contact-lookup-applet/po/sv.po | 
- | [uk]({{< ref "/f10/language/uk.md" >}}) | 260 | 260 | 100.0 | /mnt/stockage/packages/f10/contact-lookup-applet/po/uk.po | 
- | [vi]({{< ref "/f10/language/vi.md" >}}) | 263 | 263 | 100.0 | /mnt/stockage/packages/f10/contact-lookup-applet/po/vi.po | 
- | [xh]({{< ref "/f10/language/xh.md" >}}) | 260 | 260 | 100.0 | /mnt/stockage/packages/f10/contact-lookup-applet/po/xh.po | 
- | [zh_Hans]({{< ref "/f10/language/zh_Hans.md" >}}) | 259 | 259 | 100.0 | /mnt/stockage/packages/f10/contact-lookup-applet/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f10/language/zh_Hant.md" >}}) | 259 | 259 | 100.0 | /mnt/stockage/packages/f10/contact-lookup-applet/po/zh_TW.po | 
- | [zh_Hant_HK]({{< ref "/f10/language/zh_Hant_HK.md" >}}) | 259 | 259 | 100.0 | /mnt/stockage/packages/f10/contact-lookup-applet/po/zh_HK.po | 
- | [pl]({{< ref "/f10/language/pl.md" >}}) | 221 | 247 | 89.5 | /mnt/stockage/packages/f10/contact-lookup-applet/po/pl.po | 
- | [pa]({{< ref "/f10/language/pa.md" >}}) | 147 | 249 | 59.0 | /mnt/stockage/packages/f10/contact-lookup-applet/po/pa.po | 
- | [ar]({{< ref "/f10/language/ar.md" >}}) | 5 | 259 | 1.9 | /mnt/stockage/packages/f10/contact-lookup-applet/po/ar.po | 
- | [rw]({{< ref "/f10/language/rw.md" >}}) | 2 | 260 | 0.8 | /mnt/stockage/packages/f10/contact-lookup-applet/po/rw.po | 
- | [el]({{< ref "/f10/language/el.md" >}}) | 0 | 260 | 0.0 | /mnt/stockage/packages/f10/contact-lookup-applet/po/el.po | 
+ | [bg](/f10/language/bg) | 259 | 259 | 100.0 | /mnt/stockage/packages/f10/contact-lookup-applet/po/bg.po | 
+ | [ca](/f10/language/ca) | 259 | 259 | 100.0 | /mnt/stockage/packages/f10/contact-lookup-applet/po/ca.po | 
+ | [cs](/f10/language/cs) | 259 | 259 | 100.0 | /mnt/stockage/packages/f10/contact-lookup-applet/po/cs.po | 
+ | [de](/f10/language/de) | 259 | 259 | 100.0 | /mnt/stockage/packages/f10/contact-lookup-applet/po/de.po | 
+ | [dz](/f10/language/dz) | 259 | 259 | 100.0 | /mnt/stockage/packages/f10/contact-lookup-applet/po/dz.po | 
+ | [en_CA](/f10/language/en_CA) | 260 | 260 | 100.0 | /mnt/stockage/packages/f10/contact-lookup-applet/po/en_CA.po | 
+ | [en_GB](/f10/language/en_GB) | 259 | 259 | 100.0 | /mnt/stockage/packages/f10/contact-lookup-applet/po/en_GB.po | 
+ | [error](/f10/language/error) | 260 | 260 | 100.0 | /mnt/stockage/packages/f10/contact-lookup-applet/po/sr@Latn.po | 
+ | [es](/f10/language/es) | 259 | 259 | 100.0 | /mnt/stockage/packages/f10/contact-lookup-applet/po/es.po | 
+ | [eu](/f10/language/eu) | 259 | 259 | 100.0 | /mnt/stockage/packages/f10/contact-lookup-applet/po/eu.po | 
+ | [fi](/f10/language/fi) | 259 | 259 | 100.0 | /mnt/stockage/packages/f10/contact-lookup-applet/po/fi.po | 
+ | [fr](/f10/language/fr) | 259 | 259 | 100.0 | /mnt/stockage/packages/f10/contact-lookup-applet/po/fr.po | 
+ | [hu](/f10/language/hu) | 259 | 259 | 100.0 | /mnt/stockage/packages/f10/contact-lookup-applet/po/hu.po | 
+ | [it](/f10/language/it) | 260 | 260 | 100.0 | /mnt/stockage/packages/f10/contact-lookup-applet/po/it.po | 
+ | [ja](/f10/language/ja) | 260 | 260 | 100.0 | /mnt/stockage/packages/f10/contact-lookup-applet/po/ja.po | 
+ | [lt](/f10/language/lt) | 259 | 259 | 100.0 | /mnt/stockage/packages/f10/contact-lookup-applet/po/lt.po | 
+ | [mk](/f10/language/mk) | 259 | 259 | 100.0 | /mnt/stockage/packages/f10/contact-lookup-applet/po/mk.po | 
+ | [nb_NO](/f10/language/nb_NO) | 259 | 259 | 100.0 | /mnt/stockage/packages/f10/contact-lookup-applet/po/nb.po | 
+ | [ne](/f10/language/ne) | 259 | 259 | 100.0 | /mnt/stockage/packages/f10/contact-lookup-applet/po/ne.po | 
+ | [pt](/f10/language/pt) | 259 | 259 | 100.0 | /mnt/stockage/packages/f10/contact-lookup-applet/po/pt.po | 
+ | [pt_BR](/f10/language/pt_BR) | 249 | 249 | 100.0 | /mnt/stockage/packages/f10/contact-lookup-applet/po/pt_BR.po | 
+ | [ru](/f10/language/ru) | 259 | 259 | 100.0 | /mnt/stockage/packages/f10/contact-lookup-applet/po/ru.po | 
+ | [sk](/f10/language/sk) | 260 | 260 | 100.0 | /mnt/stockage/packages/f10/contact-lookup-applet/po/sk.po | 
+ | [sl](/f10/language/sl) | 259 | 259 | 100.0 | /mnt/stockage/packages/f10/contact-lookup-applet/po/sl.po | 
+ | [sq](/f10/language/sq) | 259 | 259 | 100.0 | /mnt/stockage/packages/f10/contact-lookup-applet/po/sq.po | 
+ | [sr](/f10/language/sr) | 260 | 260 | 100.0 | /mnt/stockage/packages/f10/contact-lookup-applet/po/sr.po | 
+ | [sv](/f10/language/sv) | 259 | 259 | 100.0 | /mnt/stockage/packages/f10/contact-lookup-applet/po/sv.po | 
+ | [uk](/f10/language/uk) | 260 | 260 | 100.0 | /mnt/stockage/packages/f10/contact-lookup-applet/po/uk.po | 
+ | [vi](/f10/language/vi) | 263 | 263 | 100.0 | /mnt/stockage/packages/f10/contact-lookup-applet/po/vi.po | 
+ | [xh](/f10/language/xh) | 260 | 260 | 100.0 | /mnt/stockage/packages/f10/contact-lookup-applet/po/xh.po | 
+ | [zh_Hans](/f10/language/zh_Hans) | 259 | 259 | 100.0 | /mnt/stockage/packages/f10/contact-lookup-applet/po/zh_CN.po | 
+ | [zh_Hant](/f10/language/zh_Hant) | 259 | 259 | 100.0 | /mnt/stockage/packages/f10/contact-lookup-applet/po/zh_TW.po | 
+ | [zh_Hant_HK](/f10/language/zh_Hant_HK) | 259 | 259 | 100.0 | /mnt/stockage/packages/f10/contact-lookup-applet/po/zh_HK.po | 
+ | [pl](/f10/language/pl) | 221 | 247 | 89.5 | /mnt/stockage/packages/f10/contact-lookup-applet/po/pl.po | 
+ | [pa](/f10/language/pa) | 147 | 249 | 59.0 | /mnt/stockage/packages/f10/contact-lookup-applet/po/pa.po | 
+ | [ar](/f10/language/ar) | 5 | 259 | 1.9 | /mnt/stockage/packages/f10/contact-lookup-applet/po/ar.po | 
+ | [rw](/f10/language/rw) | 2 | 260 | 0.8 | /mnt/stockage/packages/f10/contact-lookup-applet/po/rw.po | 
+ | [el](/f10/language/el) | 0 | 260 | 0.0 | /mnt/stockage/packages/f10/contact-lookup-applet/po/el.po | 
 {.sortable}
 
 

@@ -18,12 +18,12 @@ The package spe (version 0.8.4.h):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ja]({{< ref "/f12/language/ja.md" >}}) | 2012 | 2012 | 100.0 | /mnt/stockage/packages/f12/spe/_spe/plugins/wxGlade/po/ja.po | 
- | [ko]({{< ref "/f12/language/ko.md" >}}) | 761 | 761 | 100.0 | /mnt/stockage/packages/f12/spe/_spe/plugins/wxGlade/po/ko.po | 
- | [it]({{< ref "/f12/language/it.md" >}}) | 197 | 284 | 69.4 | /mnt/stockage/packages/f12/spe/_spe/plugins/wxGlade/po/it.po | 
- | [de]({{< ref "/f12/language/de.md" >}}) | 0 | 1406 | 0.0 | /mnt/stockage/packages/f12/spe/_spe/plugins/wxGlade/po/de.po | 
- | [en]({{< ref "/f12/language/en.md" >}}) | 0 | 284 | 0.0 | /mnt/stockage/packages/f12/spe/_spe/plugins/wxGlade/po/en.po | 
- | [fr]({{< ref "/f12/language/fr.md" >}}) | 0 | 1406 | 0.0 | /mnt/stockage/packages/f12/spe/_spe/plugins/wxGlade/po/fr.po | 
+ | [ja](/f12/language/ja) | 2012 | 2012 | 100.0 | /mnt/stockage/packages/f12/spe/_spe/plugins/wxGlade/po/ja.po | 
+ | [ko](/f12/language/ko) | 761 | 761 | 100.0 | /mnt/stockage/packages/f12/spe/_spe/plugins/wxGlade/po/ko.po | 
+ | [it](/f12/language/it) | 197 | 284 | 69.4 | /mnt/stockage/packages/f12/spe/_spe/plugins/wxGlade/po/it.po | 
+ | [de](/f12/language/de) | 0 | 1406 | 0.0 | /mnt/stockage/packages/f12/spe/_spe/plugins/wxGlade/po/de.po | 
+ | [en](/f12/language/en) | 0 | 284 | 0.0 | /mnt/stockage/packages/f12/spe/_spe/plugins/wxGlade/po/en.po | 
+ | [fr](/f12/language/fr) | 0 | 1406 | 0.0 | /mnt/stockage/packages/f12/spe/_spe/plugins/wxGlade/po/fr.po | 
 {.sortable}
 
 

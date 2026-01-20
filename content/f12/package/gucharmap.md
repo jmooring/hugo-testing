@@ -18,90 +18,90 @@ The package gucharmap (version 2.28.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f12/language/ar.md" >}}) | 803 | 803 | 100.0 | /mnt/stockage/packages/f12/gucharmap/po/ar.po | 
- | [as]({{< ref "/f12/language/as.md" >}}) | 803 | 803 | 100.0 | /mnt/stockage/packages/f12/gucharmap/po/as.po | 
- | [ast]({{< ref "/f12/language/ast.md" >}}) | 803 | 803 | 100.0 | /mnt/stockage/packages/f12/gucharmap/po/ast.po | 
- | [az]({{< ref "/f12/language/az.md" >}}) | 507 | 507 | 100.0 | /mnt/stockage/packages/f12/gucharmap/po/az.po | 
- | [bn_IN]({{< ref "/f12/language/bn_IN.md" >}}) | 803 | 803 | 100.0 | /mnt/stockage/packages/f12/gucharmap/po/bn_IN.po | 
- | [bs]({{< ref "/f12/language/bs.md" >}}) | 507 | 507 | 100.0 | /mnt/stockage/packages/f12/gucharmap/po/bs.po | 
- | [ca]({{< ref "/f12/language/ca.md" >}}) | 2403 | 2403 | 100.0 | /mnt/stockage/packages/f12/gucharmap/help/ca/ca.po/mnt/stockage/packages/f12/gucharmap/po/ca.po | 
- | [ca@valencia]({{< ref "/f12/language/ca@valencia.md" >}}) | 803 | 803 | 100.0 | /mnt/stockage/packages/f12/gucharmap/po/ca@valencia.po | 
- | [cs]({{< ref "/f12/language/cs.md" >}}) | 2478 | 2478 | 100.0 | /mnt/stockage/packages/f12/gucharmap/help/cs/cs.po/mnt/stockage/packages/f12/gucharmap/po/cs.po | 
- | [cy]({{< ref "/f12/language/cy.md" >}}) | 747 | 747 | 100.0 | /mnt/stockage/packages/f12/gucharmap/po/cy.po | 
- | [da]({{< ref "/f12/language/da.md" >}}) | 803 | 803 | 100.0 | /mnt/stockage/packages/f12/gucharmap/po/da.po | 
- | [de]({{< ref "/f12/language/de.md" >}}) | 2478 | 2478 | 100.0 | /mnt/stockage/packages/f12/gucharmap/help/de/de.po/mnt/stockage/packages/f12/gucharmap/po/de.po | 
- | [dz]({{< ref "/f12/language/dz.md" >}}) | 772 | 772 | 100.0 | /mnt/stockage/packages/f12/gucharmap/po/dz.po | 
- | [el]({{< ref "/f12/language/el.md" >}}) | 2478 | 2478 | 100.0 | /mnt/stockage/packages/f12/gucharmap/help/el/el.po/mnt/stockage/packages/f12/gucharmap/po/el.po | 
- | [en_CA]({{< ref "/f12/language/en_CA.md" >}}) | 555 | 555 | 100.0 | /mnt/stockage/packages/f12/gucharmap/po/en_CA.po | 
- | [en_GB]({{< ref "/f12/language/en_GB.md" >}}) | 2478 | 2478 | 100.0 | /mnt/stockage/packages/f12/gucharmap/help/en_GB/en_GB.po/mnt/stockage/packages/f12/gucharmap/po/en_GB.po | 
- | [eo]({{< ref "/f12/language/eo.md" >}}) | 122 | 122 | 100.0 | /mnt/stockage/packages/f12/gucharmap/po/eo.po | 
- | [es]({{< ref "/f12/language/es.md" >}}) | 2478 | 2478 | 100.0 | /mnt/stockage/packages/f12/gucharmap/help/es/es.po/mnt/stockage/packages/f12/gucharmap/po/es.po | 
- | [et]({{< ref "/f12/language/et.md" >}}) | 803 | 803 | 100.0 | /mnt/stockage/packages/f12/gucharmap/po/et.po | 
- | [eu]({{< ref "/f12/language/eu.md" >}}) | 803 | 803 | 100.0 | /mnt/stockage/packages/f12/gucharmap/po/eu.po | 
- | [fi]({{< ref "/f12/language/fi.md" >}}) | 2478 | 2478 | 100.0 | /mnt/stockage/packages/f12/gucharmap/help/fi/fi.po/mnt/stockage/packages/f12/gucharmap/po/fi.po | 
- | [fr]({{< ref "/f12/language/fr.md" >}}) | 2478 | 2478 | 100.0 | /mnt/stockage/packages/f12/gucharmap/help/fr/fr.po/mnt/stockage/packages/f12/gucharmap/po/fr.po | 
- | [gl]({{< ref "/f12/language/gl.md" >}}) | 803 | 803 | 100.0 | /mnt/stockage/packages/f12/gucharmap/po/gl.po | 
- | [gu]({{< ref "/f12/language/gu.md" >}}) | 803 | 803 | 100.0 | /mnt/stockage/packages/f12/gucharmap/po/gu.po | 
- | [hi]({{< ref "/f12/language/hi.md" >}}) | 803 | 803 | 100.0 | /mnt/stockage/packages/f12/gucharmap/po/hi.po | 
- | [hu]({{< ref "/f12/language/hu.md" >}}) | 803 | 803 | 100.0 | /mnt/stockage/packages/f12/gucharmap/po/hu.po | 
- | [id]({{< ref "/f12/language/id.md" >}}) | 772 | 772 | 100.0 | /mnt/stockage/packages/f12/gucharmap/po/id.po | 
- | [it]({{< ref "/f12/language/it.md" >}}) | 803 | 803 | 100.0 | /mnt/stockage/packages/f12/gucharmap/po/it.po | 
- | [ja]({{< ref "/f12/language/ja.md" >}}) | 803 | 803 | 100.0 | /mnt/stockage/packages/f12/gucharmap/po/ja.po | 
- | [kn]({{< ref "/f12/language/kn.md" >}}) | 803 | 803 | 100.0 | /mnt/stockage/packages/f12/gucharmap/po/kn.po | 
- | [ko]({{< ref "/f12/language/ko.md" >}}) | 2403 | 2403 | 100.0 | /mnt/stockage/packages/f12/gucharmap/help/ko/ko.po/mnt/stockage/packages/f12/gucharmap/po/ko.po | 
- | [lt]({{< ref "/f12/language/lt.md" >}}) | 803 | 803 | 100.0 | /mnt/stockage/packages/f12/gucharmap/po/lt.po | 
- | [lv]({{< ref "/f12/language/lv.md" >}}) | 772 | 772 | 100.0 | /mnt/stockage/packages/f12/gucharmap/po/lv.po | 
- | [mk]({{< ref "/f12/language/mk.md" >}}) | 782 | 782 | 100.0 | /mnt/stockage/packages/f12/gucharmap/po/mk.po | 
- | [ml]({{< ref "/f12/language/ml.md" >}}) | 803 | 803 | 100.0 | /mnt/stockage/packages/f12/gucharmap/po/ml.po | 
- | [mn]({{< ref "/f12/language/mn.md" >}}) | 507 | 507 | 100.0 | /mnt/stockage/packages/f12/gucharmap/po/mn.po | 
- | [mr]({{< ref "/f12/language/mr.md" >}}) | 803 | 803 | 100.0 | /mnt/stockage/packages/f12/gucharmap/po/mr.po | 
- | [nb_NO]({{< ref "/f12/language/nb_NO.md" >}}) | 803 | 803 | 100.0 | /mnt/stockage/packages/f12/gucharmap/po/nb.po | 
- | [ne]({{< ref "/f12/language/ne.md" >}}) | 776 | 776 | 100.0 | /mnt/stockage/packages/f12/gucharmap/po/ne.po | 
- | [nl]({{< ref "/f12/language/nl.md" >}}) | 803 | 803 | 100.0 | /mnt/stockage/packages/f12/gucharmap/po/nl.po | 
- | [nn]({{< ref "/f12/language/nn.md" >}}) | 779 | 779 | 100.0 | /mnt/stockage/packages/f12/gucharmap/po/nn.po | 
- | [or]({{< ref "/f12/language/or.md" >}}) | 803 | 803 | 100.0 | /mnt/stockage/packages/f12/gucharmap/po/or.po | 
- | [pa]({{< ref "/f12/language/pa.md" >}}) | 803 | 803 | 100.0 | /mnt/stockage/packages/f12/gucharmap/po/pa.po | 
- | [pl]({{< ref "/f12/language/pl.md" >}}) | 803 | 803 | 100.0 | /mnt/stockage/packages/f12/gucharmap/po/pl.po | 
- | [pt]({{< ref "/f12/language/pt.md" >}}) | 803 | 803 | 100.0 | /mnt/stockage/packages/f12/gucharmap/po/pt.po | 
- | [pt_BR]({{< ref "/f12/language/pt_BR.md" >}}) | 2403 | 2403 | 100.0 | /mnt/stockage/packages/f12/gucharmap/help/pt_BR/pt_BR.po/mnt/stockage/packages/f12/gucharmap/po/pt_BR.po | 
- | [ro]({{< ref "/f12/language/ro.md" >}}) | 803 | 803 | 100.0 | /mnt/stockage/packages/f12/gucharmap/po/ro.po | 
- | [ru]({{< ref "/f12/language/ru.md" >}}) | 2403 | 2403 | 100.0 | /mnt/stockage/packages/f12/gucharmap/help/ru/ru.po/mnt/stockage/packages/f12/gucharmap/po/ru.po | 
- | [sl]({{< ref "/f12/language/sl.md" >}}) | 803 | 803 | 100.0 | /mnt/stockage/packages/f12/gucharmap/po/sl.po | 
- | [sq]({{< ref "/f12/language/sq.md" >}}) | 782 | 782 | 100.0 | /mnt/stockage/packages/f12/gucharmap/po/sq.po | 
- | [sr]({{< ref "/f12/language/sr.md" >}}) | 803 | 803 | 100.0 | /mnt/stockage/packages/f12/gucharmap/po/sr.po | 
- | [sr_Latn]({{< ref "/f12/language/sr_Latn.md" >}}) | 803 | 803 | 100.0 | /mnt/stockage/packages/f12/gucharmap/po/sr@latin.po | 
- | [sv]({{< ref "/f12/language/sv.md" >}}) | 2478 | 2478 | 100.0 | /mnt/stockage/packages/f12/gucharmap/help/sv/sv.po/mnt/stockage/packages/f12/gucharmap/po/sv.po | 
- | [ta]({{< ref "/f12/language/ta.md" >}}) | 803 | 803 | 100.0 | /mnt/stockage/packages/f12/gucharmap/po/ta.po | 
- | [te]({{< ref "/f12/language/te.md" >}}) | 803 | 803 | 100.0 | /mnt/stockage/packages/f12/gucharmap/po/te.po | 
- | [tr]({{< ref "/f12/language/tr.md" >}}) | 803 | 803 | 100.0 | /mnt/stockage/packages/f12/gucharmap/po/tr.po | 
- | [uk]({{< ref "/f12/language/uk.md" >}}) | 803 | 803 | 100.0 | /mnt/stockage/packages/f12/gucharmap/po/uk.po | 
- | [vi]({{< ref "/f12/language/vi.md" >}}) | 2403 | 2403 | 100.0 | /mnt/stockage/packages/f12/gucharmap/help/vi/vi.po/mnt/stockage/packages/f12/gucharmap/po/vi.po | 
- | [wa]({{< ref "/f12/language/wa.md" >}}) | 552 | 552 | 100.0 | /mnt/stockage/packages/f12/gucharmap/po/wa.po | 
- | [xh]({{< ref "/f12/language/xh.md" >}}) | 507 | 507 | 100.0 | /mnt/stockage/packages/f12/gucharmap/po/xh.po | 
- | [zh_Hant]({{< ref "/f12/language/zh_Hant.md" >}}) | 803 | 803 | 100.0 | /mnt/stockage/packages/f12/gucharmap/po/zh_TW.po | 
- | [zh_Hant_HK]({{< ref "/f12/language/zh_Hant_HK.md" >}}) | 803 | 803 | 100.0 | /mnt/stockage/packages/f12/gucharmap/po/zh_HK.po | 
- | [sk]({{< ref "/f12/language/sk.md" >}}) | 779 | 782 | 99.6 | /mnt/stockage/packages/f12/gucharmap/po/sk.po | 
- | [bn]({{< ref "/f12/language/bn.md" >}}) | 501 | 507 | 98.8 | /mnt/stockage/packages/f12/gucharmap/po/bn.po | 
- | [th]({{< ref "/f12/language/th.md" >}}) | 793 | 803 | 98.8 | /mnt/stockage/packages/f12/gucharmap/po/th.po | 
- | [zh_Hans]({{< ref "/f12/language/zh_Hans.md" >}}) | 790 | 803 | 98.4 | /mnt/stockage/packages/f12/gucharmap/po/zh_CN.po | 
- | [fa]({{< ref "/f12/language/fa.md" >}}) | 466 | 507 | 91.9 | /mnt/stockage/packages/f12/gucharmap/po/fa.po | 
- | [ms]({{< ref "/f12/language/ms.md" >}}) | 467 | 518 | 90.2 | /mnt/stockage/packages/f12/gucharmap/po/ms.po | 
- | [mai]({{< ref "/f12/language/mai.md" >}}) | 716 | 803 | 89.2 | /mnt/stockage/packages/f12/gucharmap/po/mai.po | 
- | [hr]({{< ref "/f12/language/hr.md" >}}) | 700 | 803 | 87.2 | /mnt/stockage/packages/f12/gucharmap/po/hr.po | 
- | [af]({{< ref "/f12/language/af.md" >}}) | 675 | 803 | 84.1 | /mnt/stockage/packages/f12/gucharmap/po/af.po | 
- | [be_Latn]({{< ref "/f12/language/be_Latn.md" >}}) | 530 | 782 | 67.8 | /mnt/stockage/packages/f12/gucharmap/po/be@latin.po | 
- | [ga]({{< ref "/f12/language/ga.md" >}}) | 518 | 782 | 66.2 | /mnt/stockage/packages/f12/gucharmap/po/ga.po | 
- | [he]({{< ref "/f12/language/he.md" >}}) | 525 | 803 | 65.4 | /mnt/stockage/packages/f12/gucharmap/po/he.po | 
- | [bg]({{< ref "/f12/language/bg.md" >}}) | 1342 | 2488 | 53.9 | /mnt/stockage/packages/f12/gucharmap/help/bg/bg.po/mnt/stockage/packages/f12/gucharmap/po/bg.po | 
- | [be]({{< ref "/f12/language/be.md" >}}) | 214 | 534 | 40.1 | /mnt/stockage/packages/f12/gucharmap/po/be.po | 
- | [rw]({{< ref "/f12/language/rw.md" >}}) | 151 | 507 | 29.8 | /mnt/stockage/packages/f12/gucharmap/po/rw.po | 
- | [ka]({{< ref "/f12/language/ka.md" >}}) | 208 | 747 | 27.8 | /mnt/stockage/packages/f12/gucharmap/po/ka.po | 
- | [br]({{< ref "/f12/language/br.md" >}}) | 178 | 803 | 22.2 | /mnt/stockage/packages/f12/gucharmap/po/br.po | 
- | [am]({{< ref "/f12/language/am.md" >}}) | 35 | 208 | 16.8 | /mnt/stockage/packages/f12/gucharmap/po/am.po | 
- | [si]({{< ref "/f12/language/si.md" >}}) | 45 | 776 | 5.8 | /mnt/stockage/packages/f12/gucharmap/po/si.po | 
- | [oc]({{< ref "/f12/language/oc.md" >}}) | 137 | 2403 | 5.7 | /mnt/stockage/packages/f12/gucharmap/help/oc/oc.po/mnt/stockage/packages/f12/gucharmap/po/oc.po | 
- | [is]({{< ref "/f12/language/is.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f12/gucharmap/po/is.po | 
- | [mi]({{< ref "/f12/language/mi.md" >}}) | 0 | 507 | 0.0 | /mnt/stockage/packages/f12/gucharmap/po/mi.po | 
+ | [ar](/f12/language/ar) | 803 | 803 | 100.0 | /mnt/stockage/packages/f12/gucharmap/po/ar.po | 
+ | [as](/f12/language/as) | 803 | 803 | 100.0 | /mnt/stockage/packages/f12/gucharmap/po/as.po | 
+ | [ast](/f12/language/ast) | 803 | 803 | 100.0 | /mnt/stockage/packages/f12/gucharmap/po/ast.po | 
+ | [az](/f12/language/az) | 507 | 507 | 100.0 | /mnt/stockage/packages/f12/gucharmap/po/az.po | 
+ | [bn_IN](/f12/language/bn_IN) | 803 | 803 | 100.0 | /mnt/stockage/packages/f12/gucharmap/po/bn_IN.po | 
+ | [bs](/f12/language/bs) | 507 | 507 | 100.0 | /mnt/stockage/packages/f12/gucharmap/po/bs.po | 
+ | [ca](/f12/language/ca) | 2403 | 2403 | 100.0 | /mnt/stockage/packages/f12/gucharmap/help/ca/ca.po/mnt/stockage/packages/f12/gucharmap/po/ca.po | 
+ | [ca@valencia](/f12/language/ca@valencia) | 803 | 803 | 100.0 | /mnt/stockage/packages/f12/gucharmap/po/ca@valencia.po | 
+ | [cs](/f12/language/cs) | 2478 | 2478 | 100.0 | /mnt/stockage/packages/f12/gucharmap/help/cs/cs.po/mnt/stockage/packages/f12/gucharmap/po/cs.po | 
+ | [cy](/f12/language/cy) | 747 | 747 | 100.0 | /mnt/stockage/packages/f12/gucharmap/po/cy.po | 
+ | [da](/f12/language/da) | 803 | 803 | 100.0 | /mnt/stockage/packages/f12/gucharmap/po/da.po | 
+ | [de](/f12/language/de) | 2478 | 2478 | 100.0 | /mnt/stockage/packages/f12/gucharmap/help/de/de.po/mnt/stockage/packages/f12/gucharmap/po/de.po | 
+ | [dz](/f12/language/dz) | 772 | 772 | 100.0 | /mnt/stockage/packages/f12/gucharmap/po/dz.po | 
+ | [el](/f12/language/el) | 2478 | 2478 | 100.0 | /mnt/stockage/packages/f12/gucharmap/help/el/el.po/mnt/stockage/packages/f12/gucharmap/po/el.po | 
+ | [en_CA](/f12/language/en_CA) | 555 | 555 | 100.0 | /mnt/stockage/packages/f12/gucharmap/po/en_CA.po | 
+ | [en_GB](/f12/language/en_GB) | 2478 | 2478 | 100.0 | /mnt/stockage/packages/f12/gucharmap/help/en_GB/en_GB.po/mnt/stockage/packages/f12/gucharmap/po/en_GB.po | 
+ | [eo](/f12/language/eo) | 122 | 122 | 100.0 | /mnt/stockage/packages/f12/gucharmap/po/eo.po | 
+ | [es](/f12/language/es) | 2478 | 2478 | 100.0 | /mnt/stockage/packages/f12/gucharmap/help/es/es.po/mnt/stockage/packages/f12/gucharmap/po/es.po | 
+ | [et](/f12/language/et) | 803 | 803 | 100.0 | /mnt/stockage/packages/f12/gucharmap/po/et.po | 
+ | [eu](/f12/language/eu) | 803 | 803 | 100.0 | /mnt/stockage/packages/f12/gucharmap/po/eu.po | 
+ | [fi](/f12/language/fi) | 2478 | 2478 | 100.0 | /mnt/stockage/packages/f12/gucharmap/help/fi/fi.po/mnt/stockage/packages/f12/gucharmap/po/fi.po | 
+ | [fr](/f12/language/fr) | 2478 | 2478 | 100.0 | /mnt/stockage/packages/f12/gucharmap/help/fr/fr.po/mnt/stockage/packages/f12/gucharmap/po/fr.po | 
+ | [gl](/f12/language/gl) | 803 | 803 | 100.0 | /mnt/stockage/packages/f12/gucharmap/po/gl.po | 
+ | [gu](/f12/language/gu) | 803 | 803 | 100.0 | /mnt/stockage/packages/f12/gucharmap/po/gu.po | 
+ | [hi](/f12/language/hi) | 803 | 803 | 100.0 | /mnt/stockage/packages/f12/gucharmap/po/hi.po | 
+ | [hu](/f12/language/hu) | 803 | 803 | 100.0 | /mnt/stockage/packages/f12/gucharmap/po/hu.po | 
+ | [id](/f12/language/id) | 772 | 772 | 100.0 | /mnt/stockage/packages/f12/gucharmap/po/id.po | 
+ | [it](/f12/language/it) | 803 | 803 | 100.0 | /mnt/stockage/packages/f12/gucharmap/po/it.po | 
+ | [ja](/f12/language/ja) | 803 | 803 | 100.0 | /mnt/stockage/packages/f12/gucharmap/po/ja.po | 
+ | [kn](/f12/language/kn) | 803 | 803 | 100.0 | /mnt/stockage/packages/f12/gucharmap/po/kn.po | 
+ | [ko](/f12/language/ko) | 2403 | 2403 | 100.0 | /mnt/stockage/packages/f12/gucharmap/help/ko/ko.po/mnt/stockage/packages/f12/gucharmap/po/ko.po | 
+ | [lt](/f12/language/lt) | 803 | 803 | 100.0 | /mnt/stockage/packages/f12/gucharmap/po/lt.po | 
+ | [lv](/f12/language/lv) | 772 | 772 | 100.0 | /mnt/stockage/packages/f12/gucharmap/po/lv.po | 
+ | [mk](/f12/language/mk) | 782 | 782 | 100.0 | /mnt/stockage/packages/f12/gucharmap/po/mk.po | 
+ | [ml](/f12/language/ml) | 803 | 803 | 100.0 | /mnt/stockage/packages/f12/gucharmap/po/ml.po | 
+ | [mn](/f12/language/mn) | 507 | 507 | 100.0 | /mnt/stockage/packages/f12/gucharmap/po/mn.po | 
+ | [mr](/f12/language/mr) | 803 | 803 | 100.0 | /mnt/stockage/packages/f12/gucharmap/po/mr.po | 
+ | [nb_NO](/f12/language/nb_NO) | 803 | 803 | 100.0 | /mnt/stockage/packages/f12/gucharmap/po/nb.po | 
+ | [ne](/f12/language/ne) | 776 | 776 | 100.0 | /mnt/stockage/packages/f12/gucharmap/po/ne.po | 
+ | [nl](/f12/language/nl) | 803 | 803 | 100.0 | /mnt/stockage/packages/f12/gucharmap/po/nl.po | 
+ | [nn](/f12/language/nn) | 779 | 779 | 100.0 | /mnt/stockage/packages/f12/gucharmap/po/nn.po | 
+ | [or](/f12/language/or) | 803 | 803 | 100.0 | /mnt/stockage/packages/f12/gucharmap/po/or.po | 
+ | [pa](/f12/language/pa) | 803 | 803 | 100.0 | /mnt/stockage/packages/f12/gucharmap/po/pa.po | 
+ | [pl](/f12/language/pl) | 803 | 803 | 100.0 | /mnt/stockage/packages/f12/gucharmap/po/pl.po | 
+ | [pt](/f12/language/pt) | 803 | 803 | 100.0 | /mnt/stockage/packages/f12/gucharmap/po/pt.po | 
+ | [pt_BR](/f12/language/pt_BR) | 2403 | 2403 | 100.0 | /mnt/stockage/packages/f12/gucharmap/help/pt_BR/pt_BR.po/mnt/stockage/packages/f12/gucharmap/po/pt_BR.po | 
+ | [ro](/f12/language/ro) | 803 | 803 | 100.0 | /mnt/stockage/packages/f12/gucharmap/po/ro.po | 
+ | [ru](/f12/language/ru) | 2403 | 2403 | 100.0 | /mnt/stockage/packages/f12/gucharmap/help/ru/ru.po/mnt/stockage/packages/f12/gucharmap/po/ru.po | 
+ | [sl](/f12/language/sl) | 803 | 803 | 100.0 | /mnt/stockage/packages/f12/gucharmap/po/sl.po | 
+ | [sq](/f12/language/sq) | 782 | 782 | 100.0 | /mnt/stockage/packages/f12/gucharmap/po/sq.po | 
+ | [sr](/f12/language/sr) | 803 | 803 | 100.0 | /mnt/stockage/packages/f12/gucharmap/po/sr.po | 
+ | [sr_Latn](/f12/language/sr_Latn) | 803 | 803 | 100.0 | /mnt/stockage/packages/f12/gucharmap/po/sr@latin.po | 
+ | [sv](/f12/language/sv) | 2478 | 2478 | 100.0 | /mnt/stockage/packages/f12/gucharmap/help/sv/sv.po/mnt/stockage/packages/f12/gucharmap/po/sv.po | 
+ | [ta](/f12/language/ta) | 803 | 803 | 100.0 | /mnt/stockage/packages/f12/gucharmap/po/ta.po | 
+ | [te](/f12/language/te) | 803 | 803 | 100.0 | /mnt/stockage/packages/f12/gucharmap/po/te.po | 
+ | [tr](/f12/language/tr) | 803 | 803 | 100.0 | /mnt/stockage/packages/f12/gucharmap/po/tr.po | 
+ | [uk](/f12/language/uk) | 803 | 803 | 100.0 | /mnt/stockage/packages/f12/gucharmap/po/uk.po | 
+ | [vi](/f12/language/vi) | 2403 | 2403 | 100.0 | /mnt/stockage/packages/f12/gucharmap/help/vi/vi.po/mnt/stockage/packages/f12/gucharmap/po/vi.po | 
+ | [wa](/f12/language/wa) | 552 | 552 | 100.0 | /mnt/stockage/packages/f12/gucharmap/po/wa.po | 
+ | [xh](/f12/language/xh) | 507 | 507 | 100.0 | /mnt/stockage/packages/f12/gucharmap/po/xh.po | 
+ | [zh_Hant](/f12/language/zh_Hant) | 803 | 803 | 100.0 | /mnt/stockage/packages/f12/gucharmap/po/zh_TW.po | 
+ | [zh_Hant_HK](/f12/language/zh_Hant_HK) | 803 | 803 | 100.0 | /mnt/stockage/packages/f12/gucharmap/po/zh_HK.po | 
+ | [sk](/f12/language/sk) | 779 | 782 | 99.6 | /mnt/stockage/packages/f12/gucharmap/po/sk.po | 
+ | [bn](/f12/language/bn) | 501 | 507 | 98.8 | /mnt/stockage/packages/f12/gucharmap/po/bn.po | 
+ | [th](/f12/language/th) | 793 | 803 | 98.8 | /mnt/stockage/packages/f12/gucharmap/po/th.po | 
+ | [zh_Hans](/f12/language/zh_Hans) | 790 | 803 | 98.4 | /mnt/stockage/packages/f12/gucharmap/po/zh_CN.po | 
+ | [fa](/f12/language/fa) | 466 | 507 | 91.9 | /mnt/stockage/packages/f12/gucharmap/po/fa.po | 
+ | [ms](/f12/language/ms) | 467 | 518 | 90.2 | /mnt/stockage/packages/f12/gucharmap/po/ms.po | 
+ | [mai](/f12/language/mai) | 716 | 803 | 89.2 | /mnt/stockage/packages/f12/gucharmap/po/mai.po | 
+ | [hr](/f12/language/hr) | 700 | 803 | 87.2 | /mnt/stockage/packages/f12/gucharmap/po/hr.po | 
+ | [af](/f12/language/af) | 675 | 803 | 84.1 | /mnt/stockage/packages/f12/gucharmap/po/af.po | 
+ | [be_Latn](/f12/language/be_Latn) | 530 | 782 | 67.8 | /mnt/stockage/packages/f12/gucharmap/po/be@latin.po | 
+ | [ga](/f12/language/ga) | 518 | 782 | 66.2 | /mnt/stockage/packages/f12/gucharmap/po/ga.po | 
+ | [he](/f12/language/he) | 525 | 803 | 65.4 | /mnt/stockage/packages/f12/gucharmap/po/he.po | 
+ | [bg](/f12/language/bg) | 1342 | 2488 | 53.9 | /mnt/stockage/packages/f12/gucharmap/help/bg/bg.po/mnt/stockage/packages/f12/gucharmap/po/bg.po | 
+ | [be](/f12/language/be) | 214 | 534 | 40.1 | /mnt/stockage/packages/f12/gucharmap/po/be.po | 
+ | [rw](/f12/language/rw) | 151 | 507 | 29.8 | /mnt/stockage/packages/f12/gucharmap/po/rw.po | 
+ | [ka](/f12/language/ka) | 208 | 747 | 27.8 | /mnt/stockage/packages/f12/gucharmap/po/ka.po | 
+ | [br](/f12/language/br) | 178 | 803 | 22.2 | /mnt/stockage/packages/f12/gucharmap/po/br.po | 
+ | [am](/f12/language/am) | 35 | 208 | 16.8 | /mnt/stockage/packages/f12/gucharmap/po/am.po | 
+ | [si](/f12/language/si) | 45 | 776 | 5.8 | /mnt/stockage/packages/f12/gucharmap/po/si.po | 
+ | [oc](/f12/language/oc) | 137 | 2403 | 5.7 | /mnt/stockage/packages/f12/gucharmap/help/oc/oc.po/mnt/stockage/packages/f12/gucharmap/po/oc.po | 
+ | [is](/f12/language/is) | 0 | 0 | 0.0 | /mnt/stockage/packages/f12/gucharmap/po/is.po | 
+ | [mi](/f12/language/mi) | 0 | 507 | 0.0 | /mnt/stockage/packages/f12/gucharmap/po/mi.po | 
 {.sortable}
 
 

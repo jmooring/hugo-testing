@@ -18,43 +18,43 @@ The package nautilus-actions (version 1.9):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [bg]({{< ref "/f10/language/bg.md" >}}) | 1555 | 1555 | 100.0 | /mnt/stockage/packages/f10/nautilus-actions/po/bg.po | 
- | [bn]({{< ref "/f10/language/bn.md" >}}) | 1228 | 1228 | 100.0 | /mnt/stockage/packages/f10/nautilus-actions/po/bn.po | 
- | [ca]({{< ref "/f10/language/ca.md" >}}) | 1558 | 1558 | 100.0 | /mnt/stockage/packages/f10/nautilus-actions/po/ca.po | 
- | [cs]({{< ref "/f10/language/cs.md" >}}) | 1613 | 1613 | 100.0 | /mnt/stockage/packages/f10/nautilus-actions/po/cs.po | 
- | [da]({{< ref "/f10/language/da.md" >}}) | 1555 | 1555 | 100.0 | /mnt/stockage/packages/f10/nautilus-actions/po/da.po | 
- | [de]({{< ref "/f10/language/de.md" >}}) | 1558 | 1558 | 100.0 | /mnt/stockage/packages/f10/nautilus-actions/po/de.po | 
- | [dz]({{< ref "/f10/language/dz.md" >}}) | 1550 | 1550 | 100.0 | /mnt/stockage/packages/f10/nautilus-actions/po/dz.po | 
- | [el]({{< ref "/f10/language/el.md" >}}) | 1558 | 1558 | 100.0 | /mnt/stockage/packages/f10/nautilus-actions/po/el.po | 
- | [en_CA]({{< ref "/f10/language/en_CA.md" >}}) | 1563 | 1563 | 100.0 | /mnt/stockage/packages/f10/nautilus-actions/po/en_CA.po | 
- | [en_GB]({{< ref "/f10/language/en_GB.md" >}}) | 1558 | 1558 | 100.0 | /mnt/stockage/packages/f10/nautilus-actions/po/en_GB.po | 
- | [es]({{< ref "/f10/language/es.md" >}}) | 1558 | 1558 | 100.0 | /mnt/stockage/packages/f10/nautilus-actions/po/es.po | 
- | [eu]({{< ref "/f10/language/eu.md" >}}) | 1558 | 1558 | 100.0 | /mnt/stockage/packages/f10/nautilus-actions/po/eu.po | 
- | [fi]({{< ref "/f10/language/fi.md" >}}) | 1558 | 1558 | 100.0 | /mnt/stockage/packages/f10/nautilus-actions/po/fi.po | 
- | [fr]({{< ref "/f10/language/fr.md" >}}) | 1558 | 1558 | 100.0 | /mnt/stockage/packages/f10/nautilus-actions/po/fr.po | 
- | [gl]({{< ref "/f10/language/gl.md" >}}) | 1555 | 1555 | 100.0 | /mnt/stockage/packages/f10/nautilus-actions/po/gl.po | 
- | [gu]({{< ref "/f10/language/gu.md" >}}) | 1228 | 1228 | 100.0 | /mnt/stockage/packages/f10/nautilus-actions/po/gu.po | 
- | [ja]({{< ref "/f10/language/ja.md" >}}) | 1555 | 1555 | 100.0 | /mnt/stockage/packages/f10/nautilus-actions/po/ja.po | 
- | [ko]({{< ref "/f10/language/ko.md" >}}) | 1553 | 1553 | 100.0 | /mnt/stockage/packages/f10/nautilus-actions/po/ko.po | 
- | [lt]({{< ref "/f10/language/lt.md" >}}) | 1583 | 1583 | 100.0 | /mnt/stockage/packages/f10/nautilus-actions/po/lt.po | 
- | [lv]({{< ref "/f10/language/lv.md" >}}) | 1555 | 1555 | 100.0 | /mnt/stockage/packages/f10/nautilus-actions/po/lv.po | 
- | [mk]({{< ref "/f10/language/mk.md" >}}) | 1555 | 1555 | 100.0 | /mnt/stockage/packages/f10/nautilus-actions/po/mk.po | 
- | [nl]({{< ref "/f10/language/nl.md" >}}) | 1555 | 1555 | 100.0 | /mnt/stockage/packages/f10/nautilus-actions/po/nl.po | 
- | [pl]({{< ref "/f10/language/pl.md" >}}) | 1558 | 1558 | 100.0 | /mnt/stockage/packages/f10/nautilus-actions/po/pl.po | 
- | [pt]({{< ref "/f10/language/pt.md" >}}) | 1558 | 1558 | 100.0 | /mnt/stockage/packages/f10/nautilus-actions/po/pt.po | 
- | [pt_BR]({{< ref "/f10/language/pt_BR.md" >}}) | 1558 | 1558 | 100.0 | /mnt/stockage/packages/f10/nautilus-actions/po/pt_BR.po | 
- | [ru]({{< ref "/f10/language/ru.md" >}}) | 1555 | 1555 | 100.0 | /mnt/stockage/packages/f10/nautilus-actions/po/ru.po | 
- | [sv]({{< ref "/f10/language/sv.md" >}}) | 1558 | 1558 | 100.0 | /mnt/stockage/packages/f10/nautilus-actions/po/sv.po | 
- | [th]({{< ref "/f10/language/th.md" >}}) | 1555 | 1555 | 100.0 | /mnt/stockage/packages/f10/nautilus-actions/po/th.po | 
- | [vi]({{< ref "/f10/language/vi.md" >}}) | 1555 | 1555 | 100.0 | /mnt/stockage/packages/f10/nautilus-actions/po/vi.po | 
- | [zh_Hant]({{< ref "/f10/language/zh_Hant.md" >}}) | 1228 | 1228 | 100.0 | /mnt/stockage/packages/f10/nautilus-actions/po/zh_TW.po | 
- | [zh_Hant_HK]({{< ref "/f10/language/zh_Hant_HK.md" >}}) | 1228 | 1228 | 100.0 | /mnt/stockage/packages/f10/nautilus-actions/po/zh_HK.po | 
- | [pa]({{< ref "/f10/language/pa.md" >}}) | 906 | 1555 | 58.3 | /mnt/stockage/packages/f10/nautilus-actions/po/pa.po | 
- | [ar]({{< ref "/f10/language/ar.md" >}}) | 683 | 1558 | 43.8 | /mnt/stockage/packages/f10/nautilus-actions/po/ar.po | 
- | [oc]({{< ref "/f10/language/oc.md" >}}) | 415 | 1558 | 26.6 | /mnt/stockage/packages/f10/nautilus-actions/po/oc.po | 
- | [nb_NO]({{< ref "/f10/language/nb_NO.md" >}}) | 200 | 1558 | 12.8 | /mnt/stockage/packages/f10/nautilus-actions/po/nb.po | 
- | [zh_Hans]({{< ref "/f10/language/zh_Hans.md" >}}) | 108 | 1490 | 7.2 | /mnt/stockage/packages/f10/nautilus-actions/po/zh_CN.po | 
- | [he]({{< ref "/f10/language/he.md" >}}) | 72 | 1490 | 4.8 | /mnt/stockage/packages/f10/nautilus-actions/po/he.po | 
+ | [bg](/f10/language/bg) | 1555 | 1555 | 100.0 | /mnt/stockage/packages/f10/nautilus-actions/po/bg.po | 
+ | [bn](/f10/language/bn) | 1228 | 1228 | 100.0 | /mnt/stockage/packages/f10/nautilus-actions/po/bn.po | 
+ | [ca](/f10/language/ca) | 1558 | 1558 | 100.0 | /mnt/stockage/packages/f10/nautilus-actions/po/ca.po | 
+ | [cs](/f10/language/cs) | 1613 | 1613 | 100.0 | /mnt/stockage/packages/f10/nautilus-actions/po/cs.po | 
+ | [da](/f10/language/da) | 1555 | 1555 | 100.0 | /mnt/stockage/packages/f10/nautilus-actions/po/da.po | 
+ | [de](/f10/language/de) | 1558 | 1558 | 100.0 | /mnt/stockage/packages/f10/nautilus-actions/po/de.po | 
+ | [dz](/f10/language/dz) | 1550 | 1550 | 100.0 | /mnt/stockage/packages/f10/nautilus-actions/po/dz.po | 
+ | [el](/f10/language/el) | 1558 | 1558 | 100.0 | /mnt/stockage/packages/f10/nautilus-actions/po/el.po | 
+ | [en_CA](/f10/language/en_CA) | 1563 | 1563 | 100.0 | /mnt/stockage/packages/f10/nautilus-actions/po/en_CA.po | 
+ | [en_GB](/f10/language/en_GB) | 1558 | 1558 | 100.0 | /mnt/stockage/packages/f10/nautilus-actions/po/en_GB.po | 
+ | [es](/f10/language/es) | 1558 | 1558 | 100.0 | /mnt/stockage/packages/f10/nautilus-actions/po/es.po | 
+ | [eu](/f10/language/eu) | 1558 | 1558 | 100.0 | /mnt/stockage/packages/f10/nautilus-actions/po/eu.po | 
+ | [fi](/f10/language/fi) | 1558 | 1558 | 100.0 | /mnt/stockage/packages/f10/nautilus-actions/po/fi.po | 
+ | [fr](/f10/language/fr) | 1558 | 1558 | 100.0 | /mnt/stockage/packages/f10/nautilus-actions/po/fr.po | 
+ | [gl](/f10/language/gl) | 1555 | 1555 | 100.0 | /mnt/stockage/packages/f10/nautilus-actions/po/gl.po | 
+ | [gu](/f10/language/gu) | 1228 | 1228 | 100.0 | /mnt/stockage/packages/f10/nautilus-actions/po/gu.po | 
+ | [ja](/f10/language/ja) | 1555 | 1555 | 100.0 | /mnt/stockage/packages/f10/nautilus-actions/po/ja.po | 
+ | [ko](/f10/language/ko) | 1553 | 1553 | 100.0 | /mnt/stockage/packages/f10/nautilus-actions/po/ko.po | 
+ | [lt](/f10/language/lt) | 1583 | 1583 | 100.0 | /mnt/stockage/packages/f10/nautilus-actions/po/lt.po | 
+ | [lv](/f10/language/lv) | 1555 | 1555 | 100.0 | /mnt/stockage/packages/f10/nautilus-actions/po/lv.po | 
+ | [mk](/f10/language/mk) | 1555 | 1555 | 100.0 | /mnt/stockage/packages/f10/nautilus-actions/po/mk.po | 
+ | [nl](/f10/language/nl) | 1555 | 1555 | 100.0 | /mnt/stockage/packages/f10/nautilus-actions/po/nl.po | 
+ | [pl](/f10/language/pl) | 1558 | 1558 | 100.0 | /mnt/stockage/packages/f10/nautilus-actions/po/pl.po | 
+ | [pt](/f10/language/pt) | 1558 | 1558 | 100.0 | /mnt/stockage/packages/f10/nautilus-actions/po/pt.po | 
+ | [pt_BR](/f10/language/pt_BR) | 1558 | 1558 | 100.0 | /mnt/stockage/packages/f10/nautilus-actions/po/pt_BR.po | 
+ | [ru](/f10/language/ru) | 1555 | 1555 | 100.0 | /mnt/stockage/packages/f10/nautilus-actions/po/ru.po | 
+ | [sv](/f10/language/sv) | 1558 | 1558 | 100.0 | /mnt/stockage/packages/f10/nautilus-actions/po/sv.po | 
+ | [th](/f10/language/th) | 1555 | 1555 | 100.0 | /mnt/stockage/packages/f10/nautilus-actions/po/th.po | 
+ | [vi](/f10/language/vi) | 1555 | 1555 | 100.0 | /mnt/stockage/packages/f10/nautilus-actions/po/vi.po | 
+ | [zh_Hant](/f10/language/zh_Hant) | 1228 | 1228 | 100.0 | /mnt/stockage/packages/f10/nautilus-actions/po/zh_TW.po | 
+ | [zh_Hant_HK](/f10/language/zh_Hant_HK) | 1228 | 1228 | 100.0 | /mnt/stockage/packages/f10/nautilus-actions/po/zh_HK.po | 
+ | [pa](/f10/language/pa) | 906 | 1555 | 58.3 | /mnt/stockage/packages/f10/nautilus-actions/po/pa.po | 
+ | [ar](/f10/language/ar) | 683 | 1558 | 43.8 | /mnt/stockage/packages/f10/nautilus-actions/po/ar.po | 
+ | [oc](/f10/language/oc) | 415 | 1558 | 26.6 | /mnt/stockage/packages/f10/nautilus-actions/po/oc.po | 
+ | [nb_NO](/f10/language/nb_NO) | 200 | 1558 | 12.8 | /mnt/stockage/packages/f10/nautilus-actions/po/nb.po | 
+ | [zh_Hans](/f10/language/zh_Hans) | 108 | 1490 | 7.2 | /mnt/stockage/packages/f10/nautilus-actions/po/zh_CN.po | 
+ | [he](/f10/language/he) | 72 | 1490 | 4.8 | /mnt/stockage/packages/f10/nautilus-actions/po/he.po | 
 {.sortable}
 
 

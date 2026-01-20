@@ -18,26 +18,26 @@ The package libkpeople (version 0.3.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f23/language/cs.md" >}}) | 26 | 26 | 100.0 | /mnt/stockage/packages/f23/libkpeople/po/cs/libkpeople.po | 
- | [da]({{< ref "/f23/language/da.md" >}}) | 26 | 26 | 100.0 | /mnt/stockage/packages/f23/libkpeople/po/da/libkpeople.po | 
- | [de]({{< ref "/f23/language/de.md" >}}) | 26 | 26 | 100.0 | /mnt/stockage/packages/f23/libkpeople/po/de/libkpeople.po | 
- | [nl]({{< ref "/f23/language/nl.md" >}}) | 26 | 26 | 100.0 | /mnt/stockage/packages/f23/libkpeople/po/nl/libkpeople.po | 
- | [pl]({{< ref "/f23/language/pl.md" >}}) | 26 | 26 | 100.0 | /mnt/stockage/packages/f23/libkpeople/po/pl/libkpeople.po | 
- | [pt]({{< ref "/f23/language/pt.md" >}}) | 26 | 26 | 100.0 | /mnt/stockage/packages/f23/libkpeople/po/pt/libkpeople.po | 
- | [pt_BR]({{< ref "/f23/language/pt_BR.md" >}}) | 26 | 26 | 100.0 | /mnt/stockage/packages/f23/libkpeople/po/pt_BR/libkpeople.po | 
- | [sk]({{< ref "/f23/language/sk.md" >}}) | 26 | 26 | 100.0 | /mnt/stockage/packages/f23/libkpeople/po/sk/libkpeople.po | 
- | [sl]({{< ref "/f23/language/sl.md" >}}) | 26 | 26 | 100.0 | /mnt/stockage/packages/f23/libkpeople/po/sl/libkpeople.po | 
- | [sv]({{< ref "/f23/language/sv.md" >}}) | 26 | 26 | 100.0 | /mnt/stockage/packages/f23/libkpeople/po/sv/libkpeople.po | 
- | [uk]({{< ref "/f23/language/uk.md" >}}) | 26 | 26 | 100.0 | /mnt/stockage/packages/f23/libkpeople/po/uk/libkpeople.po | 
- | [fi]({{< ref "/f23/language/fi.md" >}}) | 23 | 26 | 88.5 | /mnt/stockage/packages/f23/libkpeople/po/fi/libkpeople.po | 
- | [el]({{< ref "/f23/language/el.md" >}}) | 20 | 26 | 76.9 | /mnt/stockage/packages/f23/libkpeople/po/el/libkpeople.po | 
- | [fr]({{< ref "/f23/language/fr.md" >}}) | 20 | 26 | 76.9 | /mnt/stockage/packages/f23/libkpeople/po/fr/libkpeople.po | 
- | [hu]({{< ref "/f23/language/hu.md" >}}) | 20 | 26 | 76.9 | /mnt/stockage/packages/f23/libkpeople/po/hu/libkpeople.po | 
- | [ru]({{< ref "/f23/language/ru.md" >}}) | 20 | 26 | 76.9 | /mnt/stockage/packages/f23/libkpeople/po/ru/libkpeople.po | 
- | [bs]({{< ref "/f23/language/bs.md" >}}) | 19 | 26 | 73.1 | /mnt/stockage/packages/f23/libkpeople/po/bs/libkpeople.po | 
- | [ro]({{< ref "/f23/language/ro.md" >}}) | 17 | 26 | 65.4 | /mnt/stockage/packages/f23/libkpeople/po/ro/libkpeople.po | 
- | [ja]({{< ref "/f23/language/ja.md" >}}) | 0 | 26 | 0.0 | /mnt/stockage/packages/f23/libkpeople/po/ja/libkpeople.po | 
- | [lt]({{< ref "/f23/language/lt.md" >}}) | 0 | 26 | 0.0 | /mnt/stockage/packages/f23/libkpeople/po/lt/libkpeople.po | 
+ | [cs](/f23/language/cs) | 26 | 26 | 100.0 | /mnt/stockage/packages/f23/libkpeople/po/cs/libkpeople.po | 
+ | [da](/f23/language/da) | 26 | 26 | 100.0 | /mnt/stockage/packages/f23/libkpeople/po/da/libkpeople.po | 
+ | [de](/f23/language/de) | 26 | 26 | 100.0 | /mnt/stockage/packages/f23/libkpeople/po/de/libkpeople.po | 
+ | [nl](/f23/language/nl) | 26 | 26 | 100.0 | /mnt/stockage/packages/f23/libkpeople/po/nl/libkpeople.po | 
+ | [pl](/f23/language/pl) | 26 | 26 | 100.0 | /mnt/stockage/packages/f23/libkpeople/po/pl/libkpeople.po | 
+ | [pt](/f23/language/pt) | 26 | 26 | 100.0 | /mnt/stockage/packages/f23/libkpeople/po/pt/libkpeople.po | 
+ | [pt_BR](/f23/language/pt_BR) | 26 | 26 | 100.0 | /mnt/stockage/packages/f23/libkpeople/po/pt_BR/libkpeople.po | 
+ | [sk](/f23/language/sk) | 26 | 26 | 100.0 | /mnt/stockage/packages/f23/libkpeople/po/sk/libkpeople.po | 
+ | [sl](/f23/language/sl) | 26 | 26 | 100.0 | /mnt/stockage/packages/f23/libkpeople/po/sl/libkpeople.po | 
+ | [sv](/f23/language/sv) | 26 | 26 | 100.0 | /mnt/stockage/packages/f23/libkpeople/po/sv/libkpeople.po | 
+ | [uk](/f23/language/uk) | 26 | 26 | 100.0 | /mnt/stockage/packages/f23/libkpeople/po/uk/libkpeople.po | 
+ | [fi](/f23/language/fi) | 23 | 26 | 88.5 | /mnt/stockage/packages/f23/libkpeople/po/fi/libkpeople.po | 
+ | [el](/f23/language/el) | 20 | 26 | 76.9 | /mnt/stockage/packages/f23/libkpeople/po/el/libkpeople.po | 
+ | [fr](/f23/language/fr) | 20 | 26 | 76.9 | /mnt/stockage/packages/f23/libkpeople/po/fr/libkpeople.po | 
+ | [hu](/f23/language/hu) | 20 | 26 | 76.9 | /mnt/stockage/packages/f23/libkpeople/po/hu/libkpeople.po | 
+ | [ru](/f23/language/ru) | 20 | 26 | 76.9 | /mnt/stockage/packages/f23/libkpeople/po/ru/libkpeople.po | 
+ | [bs](/f23/language/bs) | 19 | 26 | 73.1 | /mnt/stockage/packages/f23/libkpeople/po/bs/libkpeople.po | 
+ | [ro](/f23/language/ro) | 17 | 26 | 65.4 | /mnt/stockage/packages/f23/libkpeople/po/ro/libkpeople.po | 
+ | [ja](/f23/language/ja) | 0 | 26 | 0.0 | /mnt/stockage/packages/f23/libkpeople/po/ja/libkpeople.po | 
+ | [lt](/f23/language/lt) | 0 | 26 | 0.0 | /mnt/stockage/packages/f23/libkpeople/po/lt/libkpeople.po | 
 {.sortable}
 
 

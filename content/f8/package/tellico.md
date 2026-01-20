@@ -18,27 +18,27 @@ The package tellico (version 1.2.14):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f8/language/de.md" >}}) | 5149 | 5150 | 100.0 | /mnt/stockage/packages/f8/tellico/po/de.po | 
- | [fr]({{< ref "/f8/language/fr.md" >}}) | 5149 | 5150 | 100.0 | /mnt/stockage/packages/f8/tellico/po/fr.po | 
- | [pt]({{< ref "/f8/language/pt.md" >}}) | 5149 | 5150 | 100.0 | /mnt/stockage/packages/f8/tellico/po/pt.po | 
- | [sv]({{< ref "/f8/language/sv.md" >}}) | 5149 | 5150 | 100.0 | /mnt/stockage/packages/f8/tellico/po/sv.po | 
- | [es]({{< ref "/f8/language/es.md" >}}) | 5140 | 5150 | 99.8 | /mnt/stockage/packages/f8/tellico/po/es.po | 
- | [nn]({{< ref "/f8/language/nn.md" >}}) | 5140 | 5150 | 99.8 | /mnt/stockage/packages/f8/tellico/po/nn.po | 
- | [tr]({{< ref "/f8/language/tr.md" >}}) | 5094 | 5150 | 98.9 | /mnt/stockage/packages/f8/tellico/po/tr.po | 
- | [pt_BR]({{< ref "/f8/language/pt_BR.md" >}}) | 5057 | 5150 | 98.2 | /mnt/stockage/packages/f8/tellico/po/pt_BR.po | 
- | [fi]({{< ref "/f8/language/fi.md" >}}) | 5054 | 5150 | 98.1 | /mnt/stockage/packages/f8/tellico/po/fi.po | 
- | [cs]({{< ref "/f8/language/cs.md" >}}) | 5047 | 5150 | 98.0 | /mnt/stockage/packages/f8/tellico/po/cs.po | 
- | [ru]({{< ref "/f8/language/ru.md" >}}) | 4579 | 5150 | 88.9 | /mnt/stockage/packages/f8/tellico/po/ru.po | 
- | [hu]({{< ref "/f8/language/hu.md" >}}) | 4560 | 5150 | 88.5 | /mnt/stockage/packages/f8/tellico/po/hu.po | 
- | [it]({{< ref "/f8/language/it.md" >}}) | 3860 | 5150 | 75.0 | /mnt/stockage/packages/f8/tellico/po/it.po | 
- | [nl]({{< ref "/f8/language/nl.md" >}}) | 3859 | 5150 | 74.9 | /mnt/stockage/packages/f8/tellico/po/nl.po | 
- | [pl]({{< ref "/f8/language/pl.md" >}}) | 3667 | 5150 | 71.2 | /mnt/stockage/packages/f8/tellico/po/pl.po | 
- | [nb_NO]({{< ref "/f8/language/nb_NO.md" >}}) | 3081 | 5150 | 59.8 | /mnt/stockage/packages/f8/tellico/po/nb.po | 
- | [en_GB]({{< ref "/f8/language/en_GB.md" >}}) | 3038 | 5150 | 59.0 | /mnt/stockage/packages/f8/tellico/po/en_GB.po | 
- | [ee]({{< ref "/f8/language/ee.md" >}}) | 1454 | 5150 | 28.2 | /mnt/stockage/packages/f8/tellico/po/ee.po | 
- | [ca]({{< ref "/f8/language/ca.md" >}}) | 660 | 5150 | 12.8 | /mnt/stockage/packages/f8/tellico/po/ca.po | 
- | [bg]({{< ref "/f8/language/bg.md" >}}) | 343 | 5150 | 6.7 | /mnt/stockage/packages/f8/tellico/po/bg.po | 
- | [ro]({{< ref "/f8/language/ro.md" >}}) | 140 | 5150 | 2.7 | /mnt/stockage/packages/f8/tellico/po/ro.po | 
+ | [de](/f8/language/de) | 5149 | 5150 | 100.0 | /mnt/stockage/packages/f8/tellico/po/de.po | 
+ | [fr](/f8/language/fr) | 5149 | 5150 | 100.0 | /mnt/stockage/packages/f8/tellico/po/fr.po | 
+ | [pt](/f8/language/pt) | 5149 | 5150 | 100.0 | /mnt/stockage/packages/f8/tellico/po/pt.po | 
+ | [sv](/f8/language/sv) | 5149 | 5150 | 100.0 | /mnt/stockage/packages/f8/tellico/po/sv.po | 
+ | [es](/f8/language/es) | 5140 | 5150 | 99.8 | /mnt/stockage/packages/f8/tellico/po/es.po | 
+ | [nn](/f8/language/nn) | 5140 | 5150 | 99.8 | /mnt/stockage/packages/f8/tellico/po/nn.po | 
+ | [tr](/f8/language/tr) | 5094 | 5150 | 98.9 | /mnt/stockage/packages/f8/tellico/po/tr.po | 
+ | [pt_BR](/f8/language/pt_BR) | 5057 | 5150 | 98.2 | /mnt/stockage/packages/f8/tellico/po/pt_BR.po | 
+ | [fi](/f8/language/fi) | 5054 | 5150 | 98.1 | /mnt/stockage/packages/f8/tellico/po/fi.po | 
+ | [cs](/f8/language/cs) | 5047 | 5150 | 98.0 | /mnt/stockage/packages/f8/tellico/po/cs.po | 
+ | [ru](/f8/language/ru) | 4579 | 5150 | 88.9 | /mnt/stockage/packages/f8/tellico/po/ru.po | 
+ | [hu](/f8/language/hu) | 4560 | 5150 | 88.5 | /mnt/stockage/packages/f8/tellico/po/hu.po | 
+ | [it](/f8/language/it) | 3860 | 5150 | 75.0 | /mnt/stockage/packages/f8/tellico/po/it.po | 
+ | [nl](/f8/language/nl) | 3859 | 5150 | 74.9 | /mnt/stockage/packages/f8/tellico/po/nl.po | 
+ | [pl](/f8/language/pl) | 3667 | 5150 | 71.2 | /mnt/stockage/packages/f8/tellico/po/pl.po | 
+ | [nb_NO](/f8/language/nb_NO) | 3081 | 5150 | 59.8 | /mnt/stockage/packages/f8/tellico/po/nb.po | 
+ | [en_GB](/f8/language/en_GB) | 3038 | 5150 | 59.0 | /mnt/stockage/packages/f8/tellico/po/en_GB.po | 
+ | [ee](/f8/language/ee) | 1454 | 5150 | 28.2 | /mnt/stockage/packages/f8/tellico/po/ee.po | 
+ | [ca](/f8/language/ca) | 660 | 5150 | 12.8 | /mnt/stockage/packages/f8/tellico/po/ca.po | 
+ | [bg](/f8/language/bg) | 343 | 5150 | 6.7 | /mnt/stockage/packages/f8/tellico/po/bg.po | 
+ | [ro](/f8/language/ro) | 140 | 5150 | 2.7 | /mnt/stockage/packages/f8/tellico/po/ro.po | 
 {.sortable}
 
 

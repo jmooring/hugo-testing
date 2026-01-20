@@ -18,100 +18,100 @@ The package kf5-kparts (version 5.59.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f29/language/ar.md" >}}) | 104 | 104 | 100.0 | /mnt/stockage/packages/f29/kf5-kparts/po/ar/kparts5.po | 
- | [bs]({{< ref "/f29/language/bs.md" >}}) | 104 | 104 | 100.0 | /mnt/stockage/packages/f29/kf5-kparts/po/bs/kparts5.po | 
- | [ca]({{< ref "/f29/language/ca.md" >}}) | 104 | 104 | 100.0 | /mnt/stockage/packages/f29/kf5-kparts/po/ca/kparts5.po | 
- | [ca@valencia]({{< ref "/f29/language/ca@valencia.md" >}}) | 104 | 104 | 100.0 | /mnt/stockage/packages/f29/kf5-kparts/po/ca@valencia/kparts5.po | 
- | [da]({{< ref "/f29/language/da.md" >}}) | 104 | 104 | 100.0 | /mnt/stockage/packages/f29/kf5-kparts/po/da/kparts5.po | 
- | [de]({{< ref "/f29/language/de.md" >}}) | 104 | 104 | 100.0 | /mnt/stockage/packages/f29/kf5-kparts/po/de/kparts5.po | 
- | [el]({{< ref "/f29/language/el.md" >}}) | 104 | 104 | 100.0 | /mnt/stockage/packages/f29/kf5-kparts/po/el/kparts5.po | 
- | [en_GB]({{< ref "/f29/language/en_GB.md" >}}) | 104 | 104 | 100.0 | /mnt/stockage/packages/f29/kf5-kparts/po/en_GB/kparts5.po | 
- | [en_US]({{< ref "/f29/language/en_US.md" >}}) | 312 | 312 | 100.0 | /mnt/stockage/packages/f29/kf5-kparts/po/vi/kparts5.po/mnt/stockage/packages/f29/kf5-kparts/po/bn/kparts5.po/mnt/stockage/packages/f29/kf5-kparts/po/cs/kparts5.po | 
- | [eo]({{< ref "/f29/language/eo.md" >}}) | 104 | 104 | 100.0 | /mnt/stockage/packages/f29/kf5-kparts/po/eo/kparts5.po | 
- | [es]({{< ref "/f29/language/es.md" >}}) | 104 | 104 | 100.0 | /mnt/stockage/packages/f29/kf5-kparts/po/es/kparts5.po | 
- | [et]({{< ref "/f29/language/et.md" >}}) | 104 | 104 | 100.0 | /mnt/stockage/packages/f29/kf5-kparts/po/et/kparts5.po | 
- | [eu]({{< ref "/f29/language/eu.md" >}}) | 104 | 104 | 100.0 | /mnt/stockage/packages/f29/kf5-kparts/po/eu/kparts5.po | 
- | [fi]({{< ref "/f29/language/fi.md" >}}) | 104 | 104 | 100.0 | /mnt/stockage/packages/f29/kf5-kparts/po/fi/kparts5.po | 
- | [fr]({{< ref "/f29/language/fr.md" >}}) | 104 | 104 | 100.0 | /mnt/stockage/packages/f29/kf5-kparts/po/fr/kparts5.po | 
- | [ga]({{< ref "/f29/language/ga.md" >}}) | 104 | 104 | 100.0 | /mnt/stockage/packages/f29/kf5-kparts/po/ga/kparts5.po | 
- | [gd]({{< ref "/f29/language/gd.md" >}}) | 104 | 104 | 100.0 | /mnt/stockage/packages/f29/kf5-kparts/po/gd/kparts5.po | 
- | [gl]({{< ref "/f29/language/gl.md" >}}) | 104 | 104 | 100.0 | /mnt/stockage/packages/f29/kf5-kparts/po/gl/kparts5.po | 
- | [he]({{< ref "/f29/language/he.md" >}}) | 104 | 104 | 100.0 | /mnt/stockage/packages/f29/kf5-kparts/po/he/kparts5.po | 
- | [hr]({{< ref "/f29/language/hr.md" >}}) | 104 | 104 | 100.0 | /mnt/stockage/packages/f29/kf5-kparts/po/hr/kparts5.po | 
- | [hu]({{< ref "/f29/language/hu.md" >}}) | 104 | 104 | 100.0 | /mnt/stockage/packages/f29/kf5-kparts/po/hu/kparts5.po | 
- | [hy]({{< ref "/f29/language/hy.md" >}}) | 104 | 104 | 100.0 | /mnt/stockage/packages/f29/kf5-kparts/po/hy/kparts5.po | 
- | [ia]({{< ref "/f29/language/ia.md" >}}) | 104 | 104 | 100.0 | /mnt/stockage/packages/f29/kf5-kparts/po/ia/kparts5.po | 
- | [id]({{< ref "/f29/language/id.md" >}}) | 104 | 104 | 100.0 | /mnt/stockage/packages/f29/kf5-kparts/po/id/kparts5.po | 
- | [is]({{< ref "/f29/language/is.md" >}}) | 104 | 104 | 100.0 | /mnt/stockage/packages/f29/kf5-kparts/po/is/kparts5.po | 
- | [it]({{< ref "/f29/language/it.md" >}}) | 104 | 104 | 100.0 | /mnt/stockage/packages/f29/kf5-kparts/po/it/kparts5.po | 
- | [ja]({{< ref "/f29/language/ja.md" >}}) | 104 | 104 | 100.0 | /mnt/stockage/packages/f29/kf5-kparts/po/ja/kparts5.po | 
- | [kk]({{< ref "/f29/language/kk.md" >}}) | 104 | 104 | 100.0 | /mnt/stockage/packages/f29/kf5-kparts/po/kk/kparts5.po | 
- | [km]({{< ref "/f29/language/km.md" >}}) | 104 | 104 | 100.0 | /mnt/stockage/packages/f29/kf5-kparts/po/km/kparts5.po | 
- | [kn]({{< ref "/f29/language/kn.md" >}}) | 104 | 104 | 100.0 | /mnt/stockage/packages/f29/kf5-kparts/po/kn/kparts5.po | 
- | [ko]({{< ref "/f29/language/ko.md" >}}) | 104 | 104 | 100.0 | /mnt/stockage/packages/f29/kf5-kparts/po/ko/kparts5.po | 
- | [ku]({{< ref "/f29/language/ku.md" >}}) | 104 | 104 | 100.0 | /mnt/stockage/packages/f29/kf5-kparts/po/ku/kparts5.po | 
- | [lt]({{< ref "/f29/language/lt.md" >}}) | 104 | 104 | 100.0 | /mnt/stockage/packages/f29/kf5-kparts/po/lt/kparts5.po | 
- | [lv]({{< ref "/f29/language/lv.md" >}}) | 104 | 104 | 100.0 | /mnt/stockage/packages/f29/kf5-kparts/po/lv/kparts5.po | 
- | [mk]({{< ref "/f29/language/mk.md" >}}) | 104 | 104 | 100.0 | /mnt/stockage/packages/f29/kf5-kparts/po/mk/kparts5.po | 
- | [mr]({{< ref "/f29/language/mr.md" >}}) | 104 | 104 | 100.0 | /mnt/stockage/packages/f29/kf5-kparts/po/mr/kparts5.po | 
- | [nb_NO]({{< ref "/f29/language/nb_NO.md" >}}) | 104 | 104 | 100.0 | /mnt/stockage/packages/f29/kf5-kparts/po/nb/kparts5.po | 
- | [nds]({{< ref "/f29/language/nds.md" >}}) | 104 | 104 | 100.0 | /mnt/stockage/packages/f29/kf5-kparts/po/nds/kparts5.po | 
- | [nl]({{< ref "/f29/language/nl.md" >}}) | 104 | 104 | 100.0 | /mnt/stockage/packages/f29/kf5-kparts/po/nl/kparts5.po | 
- | [nn]({{< ref "/f29/language/nn.md" >}}) | 104 | 104 | 100.0 | /mnt/stockage/packages/f29/kf5-kparts/po/nn/kparts5.po | 
- | [pa]({{< ref "/f29/language/pa.md" >}}) | 104 | 104 | 100.0 | /mnt/stockage/packages/f29/kf5-kparts/po/pa/kparts5.po | 
- | [pl]({{< ref "/f29/language/pl.md" >}}) | 104 | 104 | 100.0 | /mnt/stockage/packages/f29/kf5-kparts/po/pl/kparts5.po | 
- | [pt]({{< ref "/f29/language/pt.md" >}}) | 104 | 104 | 100.0 | /mnt/stockage/packages/f29/kf5-kparts/po/pt/kparts5.po | 
- | [pt_BR]({{< ref "/f29/language/pt_BR.md" >}}) | 104 | 104 | 100.0 | /mnt/stockage/packages/f29/kf5-kparts/po/pt_BR/kparts5.po | 
- | [ro]({{< ref "/f29/language/ro.md" >}}) | 104 | 104 | 100.0 | /mnt/stockage/packages/f29/kf5-kparts/po/ro/kparts5.po | 
- | [ru]({{< ref "/f29/language/ru.md" >}}) | 104 | 104 | 100.0 | /mnt/stockage/packages/f29/kf5-kparts/po/ru/kparts5.po | 
- | [se]({{< ref "/f29/language/se.md" >}}) | 104 | 104 | 100.0 | /mnt/stockage/packages/f29/kf5-kparts/po/se/kparts5.po | 
- | [sk]({{< ref "/f29/language/sk.md" >}}) | 104 | 104 | 100.0 | /mnt/stockage/packages/f29/kf5-kparts/po/sk/kparts5.po | 
- | [sl]({{< ref "/f29/language/sl.md" >}}) | 104 | 104 | 100.0 | /mnt/stockage/packages/f29/kf5-kparts/po/sl/kparts5.po | 
- | [sr]({{< ref "/f29/language/sr.md" >}}) | 104 | 104 | 100.0 | /mnt/stockage/packages/f29/kf5-kparts/po/sr/kparts5.po | 
- | [sr@ijekavian]({{< ref "/f29/language/sr@ijekavian.md" >}}) | 104 | 104 | 100.0 | /mnt/stockage/packages/f29/kf5-kparts/po/sr@ijekavian/kparts5.po | 
- | [sr@ijekavian_Latn]({{< ref "/f29/language/sr@ijekavian_Latn.md" >}}) | 104 | 104 | 100.0 | /mnt/stockage/packages/f29/kf5-kparts/po/sr@ijekavianlatin/kparts5.po | 
- | [sr_Latn]({{< ref "/f29/language/sr_Latn.md" >}}) | 104 | 104 | 100.0 | /mnt/stockage/packages/f29/kf5-kparts/po/sr@latin/kparts5.po | 
- | [sv]({{< ref "/f29/language/sv.md" >}}) | 104 | 104 | 100.0 | /mnt/stockage/packages/f29/kf5-kparts/po/sv/kparts5.po | 
- | [ta]({{< ref "/f29/language/ta.md" >}}) | 104 | 104 | 100.0 | /mnt/stockage/packages/f29/kf5-kparts/po/ta/kparts5.po | 
- | [te]({{< ref "/f29/language/te.md" >}}) | 104 | 104 | 100.0 | /mnt/stockage/packages/f29/kf5-kparts/po/te/kparts5.po | 
- | [tg]({{< ref "/f29/language/tg.md" >}}) | 104 | 104 | 100.0 | /mnt/stockage/packages/f29/kf5-kparts/po/tg/kparts5.po | 
- | [th]({{< ref "/f29/language/th.md" >}}) | 104 | 104 | 100.0 | /mnt/stockage/packages/f29/kf5-kparts/po/th/kparts5.po | 
- | [tr]({{< ref "/f29/language/tr.md" >}}) | 104 | 104 | 100.0 | /mnt/stockage/packages/f29/kf5-kparts/po/tr/kparts5.po | 
- | [tt]({{< ref "/f29/language/tt.md" >}}) | 104 | 104 | 100.0 | /mnt/stockage/packages/f29/kf5-kparts/po/tt/kparts5.po | 
- | [ug]({{< ref "/f29/language/ug.md" >}}) | 104 | 104 | 100.0 | /mnt/stockage/packages/f29/kf5-kparts/po/ug/kparts5.po | 
- | [uk]({{< ref "/f29/language/uk.md" >}}) | 104 | 104 | 100.0 | /mnt/stockage/packages/f29/kf5-kparts/po/uk/kparts5.po | 
- | [zh_Hans]({{< ref "/f29/language/zh_Hans.md" >}}) | 104 | 104 | 100.0 | /mnt/stockage/packages/f29/kf5-kparts/po/zh_CN/kparts5.po | 
- | [zh_Hant]({{< ref "/f29/language/zh_Hant.md" >}}) | 104 | 104 | 100.0 | /mnt/stockage/packages/f29/kf5-kparts/po/zh_TW/kparts5.po | 
- | [bg]({{< ref "/f29/language/bg.md" >}}) | 95 | 104 | 91.3 | /mnt/stockage/packages/f29/kf5-kparts/po/bg/kparts5.po | 
- | [fy]({{< ref "/f29/language/fy.md" >}}) | 95 | 104 | 91.3 | /mnt/stockage/packages/f29/kf5-kparts/po/fy/kparts5.po | 
- | [bn_IN]({{< ref "/f29/language/bn_IN.md" >}}) | 93 | 104 | 89.4 | /mnt/stockage/packages/f29/kf5-kparts/po/bn_IN/kparts5.po | 
- | [fa]({{< ref "/f29/language/fa.md" >}}) | 88 | 104 | 84.6 | /mnt/stockage/packages/f29/kf5-kparts/po/fa/kparts5.po | 
- | [gu]({{< ref "/f29/language/gu.md" >}}) | 88 | 104 | 84.6 | /mnt/stockage/packages/f29/kf5-kparts/po/gu/kparts5.po | 
- | [wa]({{< ref "/f29/language/wa.md" >}}) | 88 | 104 | 84.6 | /mnt/stockage/packages/f29/kf5-kparts/po/wa/kparts5.po | 
- | [hi]({{< ref "/f29/language/hi.md" >}}) | 263 | 312 | 84.3 | /mnt/stockage/packages/f29/kf5-kparts/po/hi/kparts5.po/mnt/stockage/packages/f29/kf5-kparts/po/hne/kparts5.po/mnt/stockage/packages/f29/kf5-kparts/po/mai/kparts5.po | 
- | [si]({{< ref "/f29/language/si.md" >}}) | 85 | 104 | 81.7 | /mnt/stockage/packages/f29/kf5-kparts/po/si/kparts5.po | 
- | [ms]({{< ref "/f29/language/ms.md" >}}) | 83 | 104 | 79.8 | /mnt/stockage/packages/f29/kf5-kparts/po/ms/kparts5.po | 
- | [ml]({{< ref "/f29/language/ml.md" >}}) | 82 | 104 | 78.8 | /mnt/stockage/packages/f29/kf5-kparts/po/ml/kparts5.po | 
- | [be]({{< ref "/f29/language/be.md" >}}) | 71 | 104 | 68.3 | /mnt/stockage/packages/f29/kf5-kparts/po/be/kparts5.po | 
- | [be_Latn]({{< ref "/f29/language/be_Latn.md" >}}) | 71 | 104 | 68.3 | /mnt/stockage/packages/f29/kf5-kparts/po/be@latin/kparts5.po | 
- | [csb]({{< ref "/f29/language/csb.md" >}}) | 71 | 104 | 68.3 | /mnt/stockage/packages/f29/kf5-kparts/po/csb/kparts5.po | 
- | [hsb]({{< ref "/f29/language/hsb.md" >}}) | 71 | 104 | 68.3 | /mnt/stockage/packages/f29/kf5-kparts/po/hsb/kparts5.po | 
- | [ne]({{< ref "/f29/language/ne.md" >}}) | 71 | 104 | 68.3 | /mnt/stockage/packages/f29/kf5-kparts/po/ne/kparts5.po | 
- | [ps]({{< ref "/f29/language/ps.md" >}}) | 71 | 104 | 68.3 | /mnt/stockage/packages/f29/kf5-kparts/po/ps/kparts5.po | 
- | [crh]({{< ref "/f29/language/crh.md" >}}) | 69 | 104 | 66.3 | /mnt/stockage/packages/f29/kf5-kparts/po/crh/kparts5.po | 
- | [as]({{< ref "/f29/language/as.md" >}}) | 60 | 104 | 57.7 | /mnt/stockage/packages/f29/kf5-kparts/po/as/kparts5.po | 
- | [or]({{< ref "/f29/language/or.md" >}}) | 60 | 104 | 57.7 | /mnt/stockage/packages/f29/kf5-kparts/po/or/kparts5.po | 
- | [uz]({{< ref "/f29/language/uz.md" >}}) | 108 | 208 | 51.9 | /mnt/stockage/packages/f29/kf5-kparts/po/uz@cyrillic/kparts5.po/mnt/stockage/packages/f29/kf5-kparts/po/uz/kparts5.po | 
- | [af]({{< ref "/f29/language/af.md" >}}) | 44 | 104 | 42.3 | /mnt/stockage/packages/f29/kf5-kparts/po/af/kparts5.po | 
- | [cy]({{< ref "/f29/language/cy.md" >}}) | 44 | 104 | 42.3 | /mnt/stockage/packages/f29/kf5-kparts/po/cy/kparts5.po | 
- | [ka]({{< ref "/f29/language/ka.md" >}}) | 44 | 104 | 42.3 | /mnt/stockage/packages/f29/kf5-kparts/po/ka/kparts5.po | 
- | [lb]({{< ref "/f29/language/lb.md" >}}) | 44 | 104 | 42.3 | /mnt/stockage/packages/f29/kf5-kparts/po/lb/kparts5.po | 
- | [zh_Hant_HK]({{< ref "/f29/language/zh_Hant_HK.md" >}}) | 44 | 104 | 42.3 | /mnt/stockage/packages/f29/kf5-kparts/po/zh_HK/kparts5.po | 
- | [oc]({{< ref "/f29/language/oc.md" >}}) | 43 | 104 | 41.3 | /mnt/stockage/packages/f29/kf5-kparts/po/oc/kparts5.po | 
- | [sq]({{< ref "/f29/language/sq.md" >}}) | 40 | 104 | 38.5 | /mnt/stockage/packages/f29/kf5-kparts/po/sq/kparts5.po | 
- | [br]({{< ref "/f29/language/br.md" >}}) | 33 | 104 | 31.7 | /mnt/stockage/packages/f29/kf5-kparts/po/br/kparts5.po | 
- | [xh]({{< ref "/f29/language/xh.md" >}}) | 16 | 104 | 15.4 | /mnt/stockage/packages/f29/kf5-kparts/po/xh/kparts5.po | 
- | [ha]({{< ref "/f29/language/ha.md" >}}) | 4 | 104 | 3.8 | /mnt/stockage/packages/f29/kf5-kparts/po/ha/kparts5.po | 
+ | [ar](/f29/language/ar) | 104 | 104 | 100.0 | /mnt/stockage/packages/f29/kf5-kparts/po/ar/kparts5.po | 
+ | [bs](/f29/language/bs) | 104 | 104 | 100.0 | /mnt/stockage/packages/f29/kf5-kparts/po/bs/kparts5.po | 
+ | [ca](/f29/language/ca) | 104 | 104 | 100.0 | /mnt/stockage/packages/f29/kf5-kparts/po/ca/kparts5.po | 
+ | [ca@valencia](/f29/language/ca@valencia) | 104 | 104 | 100.0 | /mnt/stockage/packages/f29/kf5-kparts/po/ca@valencia/kparts5.po | 
+ | [da](/f29/language/da) | 104 | 104 | 100.0 | /mnt/stockage/packages/f29/kf5-kparts/po/da/kparts5.po | 
+ | [de](/f29/language/de) | 104 | 104 | 100.0 | /mnt/stockage/packages/f29/kf5-kparts/po/de/kparts5.po | 
+ | [el](/f29/language/el) | 104 | 104 | 100.0 | /mnt/stockage/packages/f29/kf5-kparts/po/el/kparts5.po | 
+ | [en_GB](/f29/language/en_GB) | 104 | 104 | 100.0 | /mnt/stockage/packages/f29/kf5-kparts/po/en_GB/kparts5.po | 
+ | [en_US](/f29/language/en_US) | 312 | 312 | 100.0 | /mnt/stockage/packages/f29/kf5-kparts/po/vi/kparts5.po/mnt/stockage/packages/f29/kf5-kparts/po/bn/kparts5.po/mnt/stockage/packages/f29/kf5-kparts/po/cs/kparts5.po | 
+ | [eo](/f29/language/eo) | 104 | 104 | 100.0 | /mnt/stockage/packages/f29/kf5-kparts/po/eo/kparts5.po | 
+ | [es](/f29/language/es) | 104 | 104 | 100.0 | /mnt/stockage/packages/f29/kf5-kparts/po/es/kparts5.po | 
+ | [et](/f29/language/et) | 104 | 104 | 100.0 | /mnt/stockage/packages/f29/kf5-kparts/po/et/kparts5.po | 
+ | [eu](/f29/language/eu) | 104 | 104 | 100.0 | /mnt/stockage/packages/f29/kf5-kparts/po/eu/kparts5.po | 
+ | [fi](/f29/language/fi) | 104 | 104 | 100.0 | /mnt/stockage/packages/f29/kf5-kparts/po/fi/kparts5.po | 
+ | [fr](/f29/language/fr) | 104 | 104 | 100.0 | /mnt/stockage/packages/f29/kf5-kparts/po/fr/kparts5.po | 
+ | [ga](/f29/language/ga) | 104 | 104 | 100.0 | /mnt/stockage/packages/f29/kf5-kparts/po/ga/kparts5.po | 
+ | [gd](/f29/language/gd) | 104 | 104 | 100.0 | /mnt/stockage/packages/f29/kf5-kparts/po/gd/kparts5.po | 
+ | [gl](/f29/language/gl) | 104 | 104 | 100.0 | /mnt/stockage/packages/f29/kf5-kparts/po/gl/kparts5.po | 
+ | [he](/f29/language/he) | 104 | 104 | 100.0 | /mnt/stockage/packages/f29/kf5-kparts/po/he/kparts5.po | 
+ | [hr](/f29/language/hr) | 104 | 104 | 100.0 | /mnt/stockage/packages/f29/kf5-kparts/po/hr/kparts5.po | 
+ | [hu](/f29/language/hu) | 104 | 104 | 100.0 | /mnt/stockage/packages/f29/kf5-kparts/po/hu/kparts5.po | 
+ | [hy](/f29/language/hy) | 104 | 104 | 100.0 | /mnt/stockage/packages/f29/kf5-kparts/po/hy/kparts5.po | 
+ | [ia](/f29/language/ia) | 104 | 104 | 100.0 | /mnt/stockage/packages/f29/kf5-kparts/po/ia/kparts5.po | 
+ | [id](/f29/language/id) | 104 | 104 | 100.0 | /mnt/stockage/packages/f29/kf5-kparts/po/id/kparts5.po | 
+ | [is](/f29/language/is) | 104 | 104 | 100.0 | /mnt/stockage/packages/f29/kf5-kparts/po/is/kparts5.po | 
+ | [it](/f29/language/it) | 104 | 104 | 100.0 | /mnt/stockage/packages/f29/kf5-kparts/po/it/kparts5.po | 
+ | [ja](/f29/language/ja) | 104 | 104 | 100.0 | /mnt/stockage/packages/f29/kf5-kparts/po/ja/kparts5.po | 
+ | [kk](/f29/language/kk) | 104 | 104 | 100.0 | /mnt/stockage/packages/f29/kf5-kparts/po/kk/kparts5.po | 
+ | [km](/f29/language/km) | 104 | 104 | 100.0 | /mnt/stockage/packages/f29/kf5-kparts/po/km/kparts5.po | 
+ | [kn](/f29/language/kn) | 104 | 104 | 100.0 | /mnt/stockage/packages/f29/kf5-kparts/po/kn/kparts5.po | 
+ | [ko](/f29/language/ko) | 104 | 104 | 100.0 | /mnt/stockage/packages/f29/kf5-kparts/po/ko/kparts5.po | 
+ | [ku](/f29/language/ku) | 104 | 104 | 100.0 | /mnt/stockage/packages/f29/kf5-kparts/po/ku/kparts5.po | 
+ | [lt](/f29/language/lt) | 104 | 104 | 100.0 | /mnt/stockage/packages/f29/kf5-kparts/po/lt/kparts5.po | 
+ | [lv](/f29/language/lv) | 104 | 104 | 100.0 | /mnt/stockage/packages/f29/kf5-kparts/po/lv/kparts5.po | 
+ | [mk](/f29/language/mk) | 104 | 104 | 100.0 | /mnt/stockage/packages/f29/kf5-kparts/po/mk/kparts5.po | 
+ | [mr](/f29/language/mr) | 104 | 104 | 100.0 | /mnt/stockage/packages/f29/kf5-kparts/po/mr/kparts5.po | 
+ | [nb_NO](/f29/language/nb_NO) | 104 | 104 | 100.0 | /mnt/stockage/packages/f29/kf5-kparts/po/nb/kparts5.po | 
+ | [nds](/f29/language/nds) | 104 | 104 | 100.0 | /mnt/stockage/packages/f29/kf5-kparts/po/nds/kparts5.po | 
+ | [nl](/f29/language/nl) | 104 | 104 | 100.0 | /mnt/stockage/packages/f29/kf5-kparts/po/nl/kparts5.po | 
+ | [nn](/f29/language/nn) | 104 | 104 | 100.0 | /mnt/stockage/packages/f29/kf5-kparts/po/nn/kparts5.po | 
+ | [pa](/f29/language/pa) | 104 | 104 | 100.0 | /mnt/stockage/packages/f29/kf5-kparts/po/pa/kparts5.po | 
+ | [pl](/f29/language/pl) | 104 | 104 | 100.0 | /mnt/stockage/packages/f29/kf5-kparts/po/pl/kparts5.po | 
+ | [pt](/f29/language/pt) | 104 | 104 | 100.0 | /mnt/stockage/packages/f29/kf5-kparts/po/pt/kparts5.po | 
+ | [pt_BR](/f29/language/pt_BR) | 104 | 104 | 100.0 | /mnt/stockage/packages/f29/kf5-kparts/po/pt_BR/kparts5.po | 
+ | [ro](/f29/language/ro) | 104 | 104 | 100.0 | /mnt/stockage/packages/f29/kf5-kparts/po/ro/kparts5.po | 
+ | [ru](/f29/language/ru) | 104 | 104 | 100.0 | /mnt/stockage/packages/f29/kf5-kparts/po/ru/kparts5.po | 
+ | [se](/f29/language/se) | 104 | 104 | 100.0 | /mnt/stockage/packages/f29/kf5-kparts/po/se/kparts5.po | 
+ | [sk](/f29/language/sk) | 104 | 104 | 100.0 | /mnt/stockage/packages/f29/kf5-kparts/po/sk/kparts5.po | 
+ | [sl](/f29/language/sl) | 104 | 104 | 100.0 | /mnt/stockage/packages/f29/kf5-kparts/po/sl/kparts5.po | 
+ | [sr](/f29/language/sr) | 104 | 104 | 100.0 | /mnt/stockage/packages/f29/kf5-kparts/po/sr/kparts5.po | 
+ | [sr@ijekavian](/f29/language/sr@ijekavian) | 104 | 104 | 100.0 | /mnt/stockage/packages/f29/kf5-kparts/po/sr@ijekavian/kparts5.po | 
+ | [sr@ijekavian_Latn](/f29/language/sr@ijekavian_Latn) | 104 | 104 | 100.0 | /mnt/stockage/packages/f29/kf5-kparts/po/sr@ijekavianlatin/kparts5.po | 
+ | [sr_Latn](/f29/language/sr_Latn) | 104 | 104 | 100.0 | /mnt/stockage/packages/f29/kf5-kparts/po/sr@latin/kparts5.po | 
+ | [sv](/f29/language/sv) | 104 | 104 | 100.0 | /mnt/stockage/packages/f29/kf5-kparts/po/sv/kparts5.po | 
+ | [ta](/f29/language/ta) | 104 | 104 | 100.0 | /mnt/stockage/packages/f29/kf5-kparts/po/ta/kparts5.po | 
+ | [te](/f29/language/te) | 104 | 104 | 100.0 | /mnt/stockage/packages/f29/kf5-kparts/po/te/kparts5.po | 
+ | [tg](/f29/language/tg) | 104 | 104 | 100.0 | /mnt/stockage/packages/f29/kf5-kparts/po/tg/kparts5.po | 
+ | [th](/f29/language/th) | 104 | 104 | 100.0 | /mnt/stockage/packages/f29/kf5-kparts/po/th/kparts5.po | 
+ | [tr](/f29/language/tr) | 104 | 104 | 100.0 | /mnt/stockage/packages/f29/kf5-kparts/po/tr/kparts5.po | 
+ | [tt](/f29/language/tt) | 104 | 104 | 100.0 | /mnt/stockage/packages/f29/kf5-kparts/po/tt/kparts5.po | 
+ | [ug](/f29/language/ug) | 104 | 104 | 100.0 | /mnt/stockage/packages/f29/kf5-kparts/po/ug/kparts5.po | 
+ | [uk](/f29/language/uk) | 104 | 104 | 100.0 | /mnt/stockage/packages/f29/kf5-kparts/po/uk/kparts5.po | 
+ | [zh_Hans](/f29/language/zh_Hans) | 104 | 104 | 100.0 | /mnt/stockage/packages/f29/kf5-kparts/po/zh_CN/kparts5.po | 
+ | [zh_Hant](/f29/language/zh_Hant) | 104 | 104 | 100.0 | /mnt/stockage/packages/f29/kf5-kparts/po/zh_TW/kparts5.po | 
+ | [bg](/f29/language/bg) | 95 | 104 | 91.3 | /mnt/stockage/packages/f29/kf5-kparts/po/bg/kparts5.po | 
+ | [fy](/f29/language/fy) | 95 | 104 | 91.3 | /mnt/stockage/packages/f29/kf5-kparts/po/fy/kparts5.po | 
+ | [bn_IN](/f29/language/bn_IN) | 93 | 104 | 89.4 | /mnt/stockage/packages/f29/kf5-kparts/po/bn_IN/kparts5.po | 
+ | [fa](/f29/language/fa) | 88 | 104 | 84.6 | /mnt/stockage/packages/f29/kf5-kparts/po/fa/kparts5.po | 
+ | [gu](/f29/language/gu) | 88 | 104 | 84.6 | /mnt/stockage/packages/f29/kf5-kparts/po/gu/kparts5.po | 
+ | [wa](/f29/language/wa) | 88 | 104 | 84.6 | /mnt/stockage/packages/f29/kf5-kparts/po/wa/kparts5.po | 
+ | [hi](/f29/language/hi) | 263 | 312 | 84.3 | /mnt/stockage/packages/f29/kf5-kparts/po/hi/kparts5.po/mnt/stockage/packages/f29/kf5-kparts/po/hne/kparts5.po/mnt/stockage/packages/f29/kf5-kparts/po/mai/kparts5.po | 
+ | [si](/f29/language/si) | 85 | 104 | 81.7 | /mnt/stockage/packages/f29/kf5-kparts/po/si/kparts5.po | 
+ | [ms](/f29/language/ms) | 83 | 104 | 79.8 | /mnt/stockage/packages/f29/kf5-kparts/po/ms/kparts5.po | 
+ | [ml](/f29/language/ml) | 82 | 104 | 78.8 | /mnt/stockage/packages/f29/kf5-kparts/po/ml/kparts5.po | 
+ | [be](/f29/language/be) | 71 | 104 | 68.3 | /mnt/stockage/packages/f29/kf5-kparts/po/be/kparts5.po | 
+ | [be_Latn](/f29/language/be_Latn) | 71 | 104 | 68.3 | /mnt/stockage/packages/f29/kf5-kparts/po/be@latin/kparts5.po | 
+ | [csb](/f29/language/csb) | 71 | 104 | 68.3 | /mnt/stockage/packages/f29/kf5-kparts/po/csb/kparts5.po | 
+ | [hsb](/f29/language/hsb) | 71 | 104 | 68.3 | /mnt/stockage/packages/f29/kf5-kparts/po/hsb/kparts5.po | 
+ | [ne](/f29/language/ne) | 71 | 104 | 68.3 | /mnt/stockage/packages/f29/kf5-kparts/po/ne/kparts5.po | 
+ | [ps](/f29/language/ps) | 71 | 104 | 68.3 | /mnt/stockage/packages/f29/kf5-kparts/po/ps/kparts5.po | 
+ | [crh](/f29/language/crh) | 69 | 104 | 66.3 | /mnt/stockage/packages/f29/kf5-kparts/po/crh/kparts5.po | 
+ | [as](/f29/language/as) | 60 | 104 | 57.7 | /mnt/stockage/packages/f29/kf5-kparts/po/as/kparts5.po | 
+ | [or](/f29/language/or) | 60 | 104 | 57.7 | /mnt/stockage/packages/f29/kf5-kparts/po/or/kparts5.po | 
+ | [uz](/f29/language/uz) | 108 | 208 | 51.9 | /mnt/stockage/packages/f29/kf5-kparts/po/uz@cyrillic/kparts5.po/mnt/stockage/packages/f29/kf5-kparts/po/uz/kparts5.po | 
+ | [af](/f29/language/af) | 44 | 104 | 42.3 | /mnt/stockage/packages/f29/kf5-kparts/po/af/kparts5.po | 
+ | [cy](/f29/language/cy) | 44 | 104 | 42.3 | /mnt/stockage/packages/f29/kf5-kparts/po/cy/kparts5.po | 
+ | [ka](/f29/language/ka) | 44 | 104 | 42.3 | /mnt/stockage/packages/f29/kf5-kparts/po/ka/kparts5.po | 
+ | [lb](/f29/language/lb) | 44 | 104 | 42.3 | /mnt/stockage/packages/f29/kf5-kparts/po/lb/kparts5.po | 
+ | [zh_Hant_HK](/f29/language/zh_Hant_HK) | 44 | 104 | 42.3 | /mnt/stockage/packages/f29/kf5-kparts/po/zh_HK/kparts5.po | 
+ | [oc](/f29/language/oc) | 43 | 104 | 41.3 | /mnt/stockage/packages/f29/kf5-kparts/po/oc/kparts5.po | 
+ | [sq](/f29/language/sq) | 40 | 104 | 38.5 | /mnt/stockage/packages/f29/kf5-kparts/po/sq/kparts5.po | 
+ | [br](/f29/language/br) | 33 | 104 | 31.7 | /mnt/stockage/packages/f29/kf5-kparts/po/br/kparts5.po | 
+ | [xh](/f29/language/xh) | 16 | 104 | 15.4 | /mnt/stockage/packages/f29/kf5-kparts/po/xh/kparts5.po | 
+ | [ha](/f29/language/ha) | 4 | 104 | 3.8 | /mnt/stockage/packages/f29/kf5-kparts/po/ha/kparts5.po | 
 {.sortable}
 
 

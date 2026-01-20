@@ -18,34 +18,34 @@ The package straw (version 0.27):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [bg]({{< ref "/f15/language/bg.md" >}}) | 627 | 627 | 100.0 | /mnt/stockage/packages/f15/straw/po/bg.po | 
- | [cs]({{< ref "/f15/language/cs.md" >}}) | 516 | 516 | 100.0 | /mnt/stockage/packages/f15/straw/po/cs.po | 
- | [dz]({{< ref "/f15/language/dz.md" >}}) | 627 | 627 | 100.0 | /mnt/stockage/packages/f15/straw/po/dz.po | 
- | [en_CA]({{< ref "/f15/language/en_CA.md" >}}) | 606 | 606 | 100.0 | /mnt/stockage/packages/f15/straw/po/en_CA.po | 
- | [en_GB]({{< ref "/f15/language/en_GB.md" >}}) | 627 | 627 | 100.0 | /mnt/stockage/packages/f15/straw/po/en_GB.po | 
- | [error]({{< ref "/f15/language/error.md" >}}) | 556 | 556 | 100.0 | /mnt/stockage/packages/f15/straw/po/sr@Latn.po | 
- | [es]({{< ref "/f15/language/es.md" >}}) | 601 | 601 | 100.0 | /mnt/stockage/packages/f15/straw/po/es.po | 
- | [eu]({{< ref "/f15/language/eu.md" >}}) | 592 | 592 | 100.0 | /mnt/stockage/packages/f15/straw/po/eu.po | 
- | [fi]({{< ref "/f15/language/fi.md" >}}) | 601 | 601 | 100.0 | /mnt/stockage/packages/f15/straw/po/fi.po | 
- | [fr]({{< ref "/f15/language/fr.md" >}}) | 516 | 516 | 100.0 | /mnt/stockage/packages/f15/straw/po/fr.po | 
- | [ne]({{< ref "/f15/language/ne.md" >}}) | 592 | 592 | 100.0 | /mnt/stockage/packages/f15/straw/po/ne.po | 
- | [nl]({{< ref "/f15/language/nl.md" >}}) | 554 | 554 | 100.0 | /mnt/stockage/packages/f15/straw/po/nl.po | 
- | [pt]({{< ref "/f15/language/pt.md" >}}) | 554 | 554 | 100.0 | /mnt/stockage/packages/f15/straw/po/pt.po | 
- | [pt_BR]({{< ref "/f15/language/pt_BR.md" >}}) | 516 | 516 | 100.0 | /mnt/stockage/packages/f15/straw/po/pt_BR.po | 
- | [sr]({{< ref "/f15/language/sr.md" >}}) | 556 | 556 | 100.0 | /mnt/stockage/packages/f15/straw/po/sr.po | 
- | [sv]({{< ref "/f15/language/sv.md" >}}) | 610 | 610 | 100.0 | /mnt/stockage/packages/f15/straw/po/sv.po | 
- | [uk]({{< ref "/f15/language/uk.md" >}}) | 521 | 521 | 100.0 | /mnt/stockage/packages/f15/straw/po/uk.po | 
- | [vi]({{< ref "/f15/language/vi.md" >}}) | 592 | 592 | 100.0 | /mnt/stockage/packages/f15/straw/po/vi.po | 
- | [zh_Hans]({{< ref "/f15/language/zh_Hans.md" >}}) | 521 | 521 | 100.0 | /mnt/stockage/packages/f15/straw/po/zh_CN.po | 
- | [lt]({{< ref "/f15/language/lt.md" >}}) | 516 | 521 | 99.0 | /mnt/stockage/packages/f15/straw/po/lt.po | 
- | [ja]({{< ref "/f15/language/ja.md" >}}) | 514 | 521 | 98.7 | /mnt/stockage/packages/f15/straw/po/ja.po | 
- | [it]({{< ref "/f15/language/it.md" >}}) | 508 | 521 | 97.5 | /mnt/stockage/packages/f15/straw/po/it.po | 
- | [pa]({{< ref "/f15/language/pa.md" >}}) | 140 | 521 | 26.9 | /mnt/stockage/packages/f15/straw/po/pa.po | 
- | [nb_NO]({{< ref "/f15/language/nb_NO.md" >}}) | 139 | 592 | 23.5 | /mnt/stockage/packages/f15/straw/po/nb.po | 
- | [ru]({{< ref "/f15/language/ru.md" >}}) | 77 | 573 | 13.4 | /mnt/stockage/packages/f15/straw/po/ru.po | 
- | [de]({{< ref "/f15/language/de.md" >}}) | 40 | 573 | 7.0 | /mnt/stockage/packages/f15/straw/po/de.po | 
- | [ar]({{< ref "/f15/language/ar.md" >}}) | 26 | 610 | 4.3 | /mnt/stockage/packages/f15/straw/po/ar.po | 
- | [rw]({{< ref "/f15/language/rw.md" >}}) | 19 | 521 | 3.6 | /mnt/stockage/packages/f15/straw/po/rw.po | 
+ | [bg](/f15/language/bg) | 627 | 627 | 100.0 | /mnt/stockage/packages/f15/straw/po/bg.po | 
+ | [cs](/f15/language/cs) | 516 | 516 | 100.0 | /mnt/stockage/packages/f15/straw/po/cs.po | 
+ | [dz](/f15/language/dz) | 627 | 627 | 100.0 | /mnt/stockage/packages/f15/straw/po/dz.po | 
+ | [en_CA](/f15/language/en_CA) | 606 | 606 | 100.0 | /mnt/stockage/packages/f15/straw/po/en_CA.po | 
+ | [en_GB](/f15/language/en_GB) | 627 | 627 | 100.0 | /mnt/stockage/packages/f15/straw/po/en_GB.po | 
+ | [error](/f15/language/error) | 556 | 556 | 100.0 | /mnt/stockage/packages/f15/straw/po/sr@Latn.po | 
+ | [es](/f15/language/es) | 601 | 601 | 100.0 | /mnt/stockage/packages/f15/straw/po/es.po | 
+ | [eu](/f15/language/eu) | 592 | 592 | 100.0 | /mnt/stockage/packages/f15/straw/po/eu.po | 
+ | [fi](/f15/language/fi) | 601 | 601 | 100.0 | /mnt/stockage/packages/f15/straw/po/fi.po | 
+ | [fr](/f15/language/fr) | 516 | 516 | 100.0 | /mnt/stockage/packages/f15/straw/po/fr.po | 
+ | [ne](/f15/language/ne) | 592 | 592 | 100.0 | /mnt/stockage/packages/f15/straw/po/ne.po | 
+ | [nl](/f15/language/nl) | 554 | 554 | 100.0 | /mnt/stockage/packages/f15/straw/po/nl.po | 
+ | [pt](/f15/language/pt) | 554 | 554 | 100.0 | /mnt/stockage/packages/f15/straw/po/pt.po | 
+ | [pt_BR](/f15/language/pt_BR) | 516 | 516 | 100.0 | /mnt/stockage/packages/f15/straw/po/pt_BR.po | 
+ | [sr](/f15/language/sr) | 556 | 556 | 100.0 | /mnt/stockage/packages/f15/straw/po/sr.po | 
+ | [sv](/f15/language/sv) | 610 | 610 | 100.0 | /mnt/stockage/packages/f15/straw/po/sv.po | 
+ | [uk](/f15/language/uk) | 521 | 521 | 100.0 | /mnt/stockage/packages/f15/straw/po/uk.po | 
+ | [vi](/f15/language/vi) | 592 | 592 | 100.0 | /mnt/stockage/packages/f15/straw/po/vi.po | 
+ | [zh_Hans](/f15/language/zh_Hans) | 521 | 521 | 100.0 | /mnt/stockage/packages/f15/straw/po/zh_CN.po | 
+ | [lt](/f15/language/lt) | 516 | 521 | 99.0 | /mnt/stockage/packages/f15/straw/po/lt.po | 
+ | [ja](/f15/language/ja) | 514 | 521 | 98.7 | /mnt/stockage/packages/f15/straw/po/ja.po | 
+ | [it](/f15/language/it) | 508 | 521 | 97.5 | /mnt/stockage/packages/f15/straw/po/it.po | 
+ | [pa](/f15/language/pa) | 140 | 521 | 26.9 | /mnt/stockage/packages/f15/straw/po/pa.po | 
+ | [nb_NO](/f15/language/nb_NO) | 139 | 592 | 23.5 | /mnt/stockage/packages/f15/straw/po/nb.po | 
+ | [ru](/f15/language/ru) | 77 | 573 | 13.4 | /mnt/stockage/packages/f15/straw/po/ru.po | 
+ | [de](/f15/language/de) | 40 | 573 | 7.0 | /mnt/stockage/packages/f15/straw/po/de.po | 
+ | [ar](/f15/language/ar) | 26 | 610 | 4.3 | /mnt/stockage/packages/f15/straw/po/ar.po | 
+ | [rw](/f15/language/rw) | 19 | 521 | 3.6 | /mnt/stockage/packages/f15/straw/po/rw.po | 
 {.sortable}
 
 

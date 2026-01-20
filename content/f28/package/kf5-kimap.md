@@ -18,51 +18,51 @@ The package kf5-kimap (version 18.08.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f28/language/ca.md" >}}) | 110 | 110 | 100.0 | /mnt/stockage/packages/f28/kf5-kimap/po/ca/libkimap5.po | 
- | [ca@valencia]({{< ref "/f28/language/ca@valencia.md" >}}) | 110 | 110 | 100.0 | /mnt/stockage/packages/f28/kf5-kimap/po/ca@valencia/libkimap5.po | 
- | [de]({{< ref "/f28/language/de.md" >}}) | 110 | 110 | 100.0 | /mnt/stockage/packages/f28/kf5-kimap/po/de/libkimap5.po | 
- | [en_GB]({{< ref "/f28/language/en_GB.md" >}}) | 110 | 110 | 100.0 | /mnt/stockage/packages/f28/kf5-kimap/po/en_GB/libkimap5.po | 
- | [es]({{< ref "/f28/language/es.md" >}}) | 110 | 110 | 100.0 | /mnt/stockage/packages/f28/kf5-kimap/po/es/libkimap5.po | 
- | [fi]({{< ref "/f28/language/fi.md" >}}) | 110 | 110 | 100.0 | /mnt/stockage/packages/f28/kf5-kimap/po/fi/libkimap5.po | 
- | [fr]({{< ref "/f28/language/fr.md" >}}) | 110 | 110 | 100.0 | /mnt/stockage/packages/f28/kf5-kimap/po/fr/libkimap5.po | 
- | [gl]({{< ref "/f28/language/gl.md" >}}) | 110 | 110 | 100.0 | /mnt/stockage/packages/f28/kf5-kimap/po/gl/libkimap5.po | 
- | [it]({{< ref "/f28/language/it.md" >}}) | 110 | 110 | 100.0 | /mnt/stockage/packages/f28/kf5-kimap/po/it/libkimap5.po | 
- | [ko]({{< ref "/f28/language/ko.md" >}}) | 110 | 110 | 100.0 | /mnt/stockage/packages/f28/kf5-kimap/po/ko/libkimap5.po | 
- | [nl]({{< ref "/f28/language/nl.md" >}}) | 110 | 110 | 100.0 | /mnt/stockage/packages/f28/kf5-kimap/po/nl/libkimap5.po | 
- | [pl]({{< ref "/f28/language/pl.md" >}}) | 110 | 110 | 100.0 | /mnt/stockage/packages/f28/kf5-kimap/po/pl/libkimap5.po | 
- | [pt]({{< ref "/f28/language/pt.md" >}}) | 110 | 110 | 100.0 | /mnt/stockage/packages/f28/kf5-kimap/po/pt/libkimap5.po | 
- | [pt_BR]({{< ref "/f28/language/pt_BR.md" >}}) | 110 | 110 | 100.0 | /mnt/stockage/packages/f28/kf5-kimap/po/pt_BR/libkimap5.po | 
- | [ru]({{< ref "/f28/language/ru.md" >}}) | 110 | 110 | 100.0 | /mnt/stockage/packages/f28/kf5-kimap/po/ru/libkimap5.po | 
- | [sv]({{< ref "/f28/language/sv.md" >}}) | 110 | 110 | 100.0 | /mnt/stockage/packages/f28/kf5-kimap/po/sv/libkimap5.po | 
- | [uk]({{< ref "/f28/language/uk.md" >}}) | 110 | 110 | 100.0 | /mnt/stockage/packages/f28/kf5-kimap/po/uk/libkimap5.po | 
- | [zh_Hans]({{< ref "/f28/language/zh_Hans.md" >}}) | 110 | 110 | 100.0 | /mnt/stockage/packages/f28/kf5-kimap/po/zh_CN/libkimap5.po | 
- | [cs]({{< ref "/f28/language/cs.md" >}}) | 106 | 110 | 96.4 | /mnt/stockage/packages/f28/kf5-kimap/po/cs/libkimap5.po | 
- | [da]({{< ref "/f28/language/da.md" >}}) | 99 | 110 | 90.0 | /mnt/stockage/packages/f28/kf5-kimap/po/da/libkimap5.po | 
- | [et]({{< ref "/f28/language/et.md" >}}) | 99 | 110 | 90.0 | /mnt/stockage/packages/f28/kf5-kimap/po/et/libkimap5.po | 
- | [sk]({{< ref "/f28/language/sk.md" >}}) | 99 | 110 | 90.0 | /mnt/stockage/packages/f28/kf5-kimap/po/sk/libkimap5.po | 
- | [sl]({{< ref "/f28/language/sl.md" >}}) | 99 | 110 | 90.0 | /mnt/stockage/packages/f28/kf5-kimap/po/sl/libkimap5.po | 
- | [sr]({{< ref "/f28/language/sr.md" >}}) | 99 | 110 | 90.0 | /mnt/stockage/packages/f28/kf5-kimap/po/sr/libkimap5.po | 
- | [tr]({{< ref "/f28/language/tr.md" >}}) | 99 | 110 | 90.0 | /mnt/stockage/packages/f28/kf5-kimap/po/tr/libkimap5.po | 
- | [el]({{< ref "/f28/language/el.md" >}}) | 96 | 110 | 87.3 | /mnt/stockage/packages/f28/kf5-kimap/po/el/libkimap5.po | 
- | [hu]({{< ref "/f28/language/hu.md" >}}) | 96 | 110 | 87.3 | /mnt/stockage/packages/f28/kf5-kimap/po/hu/libkimap5.po | 
- | [ia]({{< ref "/f28/language/ia.md" >}}) | 96 | 110 | 87.3 | /mnt/stockage/packages/f28/kf5-kimap/po/ia/libkimap5.po | 
- | [lt]({{< ref "/f28/language/lt.md" >}}) | 96 | 110 | 87.3 | /mnt/stockage/packages/f28/kf5-kimap/po/lt/libkimap5.po | 
- | [nb_NO]({{< ref "/f28/language/nb_NO.md" >}}) | 96 | 110 | 87.3 | /mnt/stockage/packages/f28/kf5-kimap/po/nb/libkimap5.po | 
- | [nds]({{< ref "/f28/language/nds.md" >}}) | 96 | 110 | 87.3 | /mnt/stockage/packages/f28/kf5-kimap/po/nds/libkimap5.po | 
- | [zh_Hant]({{< ref "/f28/language/zh_Hant.md" >}}) | 96 | 110 | 87.3 | /mnt/stockage/packages/f28/kf5-kimap/po/zh_TW/libkimap5.po | 
- | [bs]({{< ref "/f28/language/bs.md" >}}) | 93 | 110 | 84.5 | /mnt/stockage/packages/f28/kf5-kimap/po/bs/libkimap5.po | 
- | [ga]({{< ref "/f28/language/ga.md" >}}) | 93 | 110 | 84.5 | /mnt/stockage/packages/f28/kf5-kimap/po/ga/libkimap5.po | 
- | [kk]({{< ref "/f28/language/kk.md" >}}) | 93 | 110 | 84.5 | /mnt/stockage/packages/f28/kf5-kimap/po/kk/libkimap5.po | 
- | [km]({{< ref "/f28/language/km.md" >}}) | 93 | 110 | 84.5 | /mnt/stockage/packages/f28/kf5-kimap/po/km/libkimap5.po | 
- | [nn]({{< ref "/f28/language/nn.md" >}}) | 86 | 110 | 78.2 | /mnt/stockage/packages/f28/kf5-kimap/po/nn/libkimap5.po | 
- | [lv]({{< ref "/f28/language/lv.md" >}}) | 85 | 110 | 77.3 | /mnt/stockage/packages/f28/kf5-kimap/po/lv/libkimap5.po | 
- | [ro]({{< ref "/f28/language/ro.md" >}}) | 45 | 110 | 40.9 | /mnt/stockage/packages/f28/kf5-kimap/po/ro/libkimap5.po | 
- | [ja]({{< ref "/f28/language/ja.md" >}}) | 33 | 110 | 30.0 | /mnt/stockage/packages/f28/kf5-kimap/po/ja/libkimap5.po | 
- | [pa]({{< ref "/f28/language/pa.md" >}}) | 25 | 110 | 22.7 | /mnt/stockage/packages/f28/kf5-kimap/po/pa/libkimap5.po | 
- | [ug]({{< ref "/f28/language/ug.md" >}}) | 20 | 110 | 18.2 | /mnt/stockage/packages/f28/kf5-kimap/po/ug/libkimap5.po | 
- | [mr]({{< ref "/f28/language/mr.md" >}}) | 16 | 110 | 14.5 | /mnt/stockage/packages/f28/kf5-kimap/po/mr/libkimap5.po | 
- | [eo]({{< ref "/f28/language/eo.md" >}}) | 14 | 110 | 12.7 | /mnt/stockage/packages/f28/kf5-kimap/po/eo/libkimap5.po | 
- | [ast]({{< ref "/f28/language/ast.md" >}}) | 1 | 110 | 0.9 | /mnt/stockage/packages/f28/kf5-kimap/po/ast/libkimap5.po | 
+ | [ca](/f28/language/ca) | 110 | 110 | 100.0 | /mnt/stockage/packages/f28/kf5-kimap/po/ca/libkimap5.po | 
+ | [ca@valencia](/f28/language/ca@valencia) | 110 | 110 | 100.0 | /mnt/stockage/packages/f28/kf5-kimap/po/ca@valencia/libkimap5.po | 
+ | [de](/f28/language/de) | 110 | 110 | 100.0 | /mnt/stockage/packages/f28/kf5-kimap/po/de/libkimap5.po | 
+ | [en_GB](/f28/language/en_GB) | 110 | 110 | 100.0 | /mnt/stockage/packages/f28/kf5-kimap/po/en_GB/libkimap5.po | 
+ | [es](/f28/language/es) | 110 | 110 | 100.0 | /mnt/stockage/packages/f28/kf5-kimap/po/es/libkimap5.po | 
+ | [fi](/f28/language/fi) | 110 | 110 | 100.0 | /mnt/stockage/packages/f28/kf5-kimap/po/fi/libkimap5.po | 
+ | [fr](/f28/language/fr) | 110 | 110 | 100.0 | /mnt/stockage/packages/f28/kf5-kimap/po/fr/libkimap5.po | 
+ | [gl](/f28/language/gl) | 110 | 110 | 100.0 | /mnt/stockage/packages/f28/kf5-kimap/po/gl/libkimap5.po | 
+ | [it](/f28/language/it) | 110 | 110 | 100.0 | /mnt/stockage/packages/f28/kf5-kimap/po/it/libkimap5.po | 
+ | [ko](/f28/language/ko) | 110 | 110 | 100.0 | /mnt/stockage/packages/f28/kf5-kimap/po/ko/libkimap5.po | 
+ | [nl](/f28/language/nl) | 110 | 110 | 100.0 | /mnt/stockage/packages/f28/kf5-kimap/po/nl/libkimap5.po | 
+ | [pl](/f28/language/pl) | 110 | 110 | 100.0 | /mnt/stockage/packages/f28/kf5-kimap/po/pl/libkimap5.po | 
+ | [pt](/f28/language/pt) | 110 | 110 | 100.0 | /mnt/stockage/packages/f28/kf5-kimap/po/pt/libkimap5.po | 
+ | [pt_BR](/f28/language/pt_BR) | 110 | 110 | 100.0 | /mnt/stockage/packages/f28/kf5-kimap/po/pt_BR/libkimap5.po | 
+ | [ru](/f28/language/ru) | 110 | 110 | 100.0 | /mnt/stockage/packages/f28/kf5-kimap/po/ru/libkimap5.po | 
+ | [sv](/f28/language/sv) | 110 | 110 | 100.0 | /mnt/stockage/packages/f28/kf5-kimap/po/sv/libkimap5.po | 
+ | [uk](/f28/language/uk) | 110 | 110 | 100.0 | /mnt/stockage/packages/f28/kf5-kimap/po/uk/libkimap5.po | 
+ | [zh_Hans](/f28/language/zh_Hans) | 110 | 110 | 100.0 | /mnt/stockage/packages/f28/kf5-kimap/po/zh_CN/libkimap5.po | 
+ | [cs](/f28/language/cs) | 106 | 110 | 96.4 | /mnt/stockage/packages/f28/kf5-kimap/po/cs/libkimap5.po | 
+ | [da](/f28/language/da) | 99 | 110 | 90.0 | /mnt/stockage/packages/f28/kf5-kimap/po/da/libkimap5.po | 
+ | [et](/f28/language/et) | 99 | 110 | 90.0 | /mnt/stockage/packages/f28/kf5-kimap/po/et/libkimap5.po | 
+ | [sk](/f28/language/sk) | 99 | 110 | 90.0 | /mnt/stockage/packages/f28/kf5-kimap/po/sk/libkimap5.po | 
+ | [sl](/f28/language/sl) | 99 | 110 | 90.0 | /mnt/stockage/packages/f28/kf5-kimap/po/sl/libkimap5.po | 
+ | [sr](/f28/language/sr) | 99 | 110 | 90.0 | /mnt/stockage/packages/f28/kf5-kimap/po/sr/libkimap5.po | 
+ | [tr](/f28/language/tr) | 99 | 110 | 90.0 | /mnt/stockage/packages/f28/kf5-kimap/po/tr/libkimap5.po | 
+ | [el](/f28/language/el) | 96 | 110 | 87.3 | /mnt/stockage/packages/f28/kf5-kimap/po/el/libkimap5.po | 
+ | [hu](/f28/language/hu) | 96 | 110 | 87.3 | /mnt/stockage/packages/f28/kf5-kimap/po/hu/libkimap5.po | 
+ | [ia](/f28/language/ia) | 96 | 110 | 87.3 | /mnt/stockage/packages/f28/kf5-kimap/po/ia/libkimap5.po | 
+ | [lt](/f28/language/lt) | 96 | 110 | 87.3 | /mnt/stockage/packages/f28/kf5-kimap/po/lt/libkimap5.po | 
+ | [nb_NO](/f28/language/nb_NO) | 96 | 110 | 87.3 | /mnt/stockage/packages/f28/kf5-kimap/po/nb/libkimap5.po | 
+ | [nds](/f28/language/nds) | 96 | 110 | 87.3 | /mnt/stockage/packages/f28/kf5-kimap/po/nds/libkimap5.po | 
+ | [zh_Hant](/f28/language/zh_Hant) | 96 | 110 | 87.3 | /mnt/stockage/packages/f28/kf5-kimap/po/zh_TW/libkimap5.po | 
+ | [bs](/f28/language/bs) | 93 | 110 | 84.5 | /mnt/stockage/packages/f28/kf5-kimap/po/bs/libkimap5.po | 
+ | [ga](/f28/language/ga) | 93 | 110 | 84.5 | /mnt/stockage/packages/f28/kf5-kimap/po/ga/libkimap5.po | 
+ | [kk](/f28/language/kk) | 93 | 110 | 84.5 | /mnt/stockage/packages/f28/kf5-kimap/po/kk/libkimap5.po | 
+ | [km](/f28/language/km) | 93 | 110 | 84.5 | /mnt/stockage/packages/f28/kf5-kimap/po/km/libkimap5.po | 
+ | [nn](/f28/language/nn) | 86 | 110 | 78.2 | /mnt/stockage/packages/f28/kf5-kimap/po/nn/libkimap5.po | 
+ | [lv](/f28/language/lv) | 85 | 110 | 77.3 | /mnt/stockage/packages/f28/kf5-kimap/po/lv/libkimap5.po | 
+ | [ro](/f28/language/ro) | 45 | 110 | 40.9 | /mnt/stockage/packages/f28/kf5-kimap/po/ro/libkimap5.po | 
+ | [ja](/f28/language/ja) | 33 | 110 | 30.0 | /mnt/stockage/packages/f28/kf5-kimap/po/ja/libkimap5.po | 
+ | [pa](/f28/language/pa) | 25 | 110 | 22.7 | /mnt/stockage/packages/f28/kf5-kimap/po/pa/libkimap5.po | 
+ | [ug](/f28/language/ug) | 20 | 110 | 18.2 | /mnt/stockage/packages/f28/kf5-kimap/po/ug/libkimap5.po | 
+ | [mr](/f28/language/mr) | 16 | 110 | 14.5 | /mnt/stockage/packages/f28/kf5-kimap/po/mr/libkimap5.po | 
+ | [eo](/f28/language/eo) | 14 | 110 | 12.7 | /mnt/stockage/packages/f28/kf5-kimap/po/eo/libkimap5.po | 
+ | [ast](/f28/language/ast) | 1 | 110 | 0.9 | /mnt/stockage/packages/f28/kf5-kimap/po/ast/libkimap5.po | 
 {.sortable}
 
 

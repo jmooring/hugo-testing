@@ -18,54 +18,54 @@ The package xfce4-weather-plugin (version 0.8.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f19/language/ar.md" >}}) | 3625 | 3625 | 100.0 | /mnt/stockage/packages/f19/xfce4-weather-plugin/po/ar.po | 
- | [bg]({{< ref "/f19/language/bg.md" >}}) | 3668 | 3668 | 100.0 | /mnt/stockage/packages/f19/xfce4-weather-plugin/po/bg.po | 
- | [de]({{< ref "/f19/language/de.md" >}}) | 3668 | 3668 | 100.0 | /mnt/stockage/packages/f19/xfce4-weather-plugin/po/de.po | 
- | [en_AU]({{< ref "/f19/language/en_AU.md" >}}) | 3668 | 3668 | 100.0 | /mnt/stockage/packages/f19/xfce4-weather-plugin/po/en_AU.po | 
- | [en_GB]({{< ref "/f19/language/en_GB.md" >}}) | 3625 | 3625 | 100.0 | /mnt/stockage/packages/f19/xfce4-weather-plugin/po/en_GB.po | 
- | [es]({{< ref "/f19/language/es.md" >}}) | 3668 | 3668 | 100.0 | /mnt/stockage/packages/f19/xfce4-weather-plugin/po/es.po | 
- | [fr]({{< ref "/f19/language/fr.md" >}}) | 3668 | 3668 | 100.0 | /mnt/stockage/packages/f19/xfce4-weather-plugin/po/fr.po | 
- | [hr]({{< ref "/f19/language/hr.md" >}}) | 3668 | 3668 | 100.0 | /mnt/stockage/packages/f19/xfce4-weather-plugin/po/hr.po | 
- | [id]({{< ref "/f19/language/id.md" >}}) | 3668 | 3668 | 100.0 | /mnt/stockage/packages/f19/xfce4-weather-plugin/po/id.po | 
- | [it]({{< ref "/f19/language/it.md" >}}) | 3668 | 3668 | 100.0 | /mnt/stockage/packages/f19/xfce4-weather-plugin/po/it.po | 
- | [ja]({{< ref "/f19/language/ja.md" >}}) | 3668 | 3668 | 100.0 | /mnt/stockage/packages/f19/xfce4-weather-plugin/po/ja.po | 
- | [ko]({{< ref "/f19/language/ko.md" >}}) | 3668 | 3668 | 100.0 | /mnt/stockage/packages/f19/xfce4-weather-plugin/po/ko.po | 
- | [ms]({{< ref "/f19/language/ms.md" >}}) | 3668 | 3668 | 100.0 | /mnt/stockage/packages/f19/xfce4-weather-plugin/po/ms.po | 
- | [nl]({{< ref "/f19/language/nl.md" >}}) | 3668 | 3668 | 100.0 | /mnt/stockage/packages/f19/xfce4-weather-plugin/po/nl.po | 
- | [oc]({{< ref "/f19/language/oc.md" >}}) | 3668 | 3668 | 100.0 | /mnt/stockage/packages/f19/xfce4-weather-plugin/po/oc.po | 
- | [pl]({{< ref "/f19/language/pl.md" >}}) | 3668 | 3668 | 100.0 | /mnt/stockage/packages/f19/xfce4-weather-plugin/po/pl.po | 
- | [pt]({{< ref "/f19/language/pt.md" >}}) | 3668 | 3668 | 100.0 | /mnt/stockage/packages/f19/xfce4-weather-plugin/po/pt.po | 
- | [pt_BR]({{< ref "/f19/language/pt_BR.md" >}}) | 3668 | 3668 | 100.0 | /mnt/stockage/packages/f19/xfce4-weather-plugin/po/pt_BR.po | 
- | [ru]({{< ref "/f19/language/ru.md" >}}) | 3668 | 3668 | 100.0 | /mnt/stockage/packages/f19/xfce4-weather-plugin/po/ru.po | 
- | [sr]({{< ref "/f19/language/sr.md" >}}) | 3668 | 3668 | 100.0 | /mnt/stockage/packages/f19/xfce4-weather-plugin/po/sr.po | 
- | [sv]({{< ref "/f19/language/sv.md" >}}) | 3668 | 3668 | 100.0 | /mnt/stockage/packages/f19/xfce4-weather-plugin/po/sv.po | 
- | [th]({{< ref "/f19/language/th.md" >}}) | 3668 | 3668 | 100.0 | /mnt/stockage/packages/f19/xfce4-weather-plugin/po/th.po | 
- | [uk]({{< ref "/f19/language/uk.md" >}}) | 3668 | 3668 | 100.0 | /mnt/stockage/packages/f19/xfce4-weather-plugin/po/uk.po | 
- | [zh_Hans]({{< ref "/f19/language/zh_Hans.md" >}}) | 3668 | 3668 | 100.0 | /mnt/stockage/packages/f19/xfce4-weather-plugin/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f19/language/zh_Hant.md" >}}) | 3668 | 3668 | 100.0 | /mnt/stockage/packages/f19/xfce4-weather-plugin/po/zh_TW.po | 
- | [he]({{< ref "/f19/language/he.md" >}}) | 2583 | 3594 | 71.9 | /mnt/stockage/packages/f19/xfce4-weather-plugin/po/he.po | 
- | [cs]({{< ref "/f19/language/cs.md" >}}) | 1937 | 3625 | 53.4 | /mnt/stockage/packages/f19/xfce4-weather-plugin/po/cs.po | 
- | [nb_NO]({{< ref "/f19/language/nb_NO.md" >}}) | 1619 | 3668 | 44.1 | /mnt/stockage/packages/f19/xfce4-weather-plugin/po/nb.po | 
- | [hu]({{< ref "/f19/language/hu.md" >}}) | 1528 | 3593 | 42.5 | /mnt/stockage/packages/f19/xfce4-weather-plugin/po/hu.po | 
- | [nn]({{< ref "/f19/language/nn.md" >}}) | 1174 | 3594 | 32.7 | /mnt/stockage/packages/f19/xfce4-weather-plugin/po/nn.po | 
- | [ast]({{< ref "/f19/language/ast.md" >}}) | 1127 | 3668 | 30.7 | /mnt/stockage/packages/f19/xfce4-weather-plugin/po/ast.po | 
- | [tr]({{< ref "/f19/language/tr.md" >}}) | 1013 | 3668 | 27.6 | /mnt/stockage/packages/f19/xfce4-weather-plugin/po/tr.po | 
- | [be]({{< ref "/f19/language/be.md" >}}) | 660 | 3594 | 18.4 | /mnt/stockage/packages/f19/xfce4-weather-plugin/po/be.po | 
- | [ca]({{< ref "/f19/language/ca.md" >}}) | 389 | 3668 | 10.6 | /mnt/stockage/packages/f19/xfce4-weather-plugin/po/ca.po | 
- | [eu]({{< ref "/f19/language/eu.md" >}}) | 376 | 3625 | 10.4 | /mnt/stockage/packages/f19/xfce4-weather-plugin/po/eu.po | 
- | [is]({{< ref "/f19/language/is.md" >}}) | 307 | 3668 | 8.4 | /mnt/stockage/packages/f19/xfce4-weather-plugin/po/is.po | 
- | [ug]({{< ref "/f19/language/ug.md" >}}) | 262 | 3594 | 7.3 | /mnt/stockage/packages/f19/xfce4-weather-plugin/po/ug.po | 
- | [el]({{< ref "/f19/language/el.md" >}}) | 155 | 3594 | 4.3 | /mnt/stockage/packages/f19/xfce4-weather-plugin/po/el.po | 
- | [lt]({{< ref "/f19/language/lt.md" >}}) | 98 | 3594 | 2.7 | /mnt/stockage/packages/f19/xfce4-weather-plugin/po/lt.po | 
- | [da]({{< ref "/f19/language/da.md" >}}) | 72 | 3594 | 2.0 | /mnt/stockage/packages/f19/xfce4-weather-plugin/po/da.po | 
- | [sk]({{< ref "/f19/language/sk.md" >}}) | 71 | 3594 | 2.0 | /mnt/stockage/packages/f19/xfce4-weather-plugin/po/sk.po | 
- | [fi]({{< ref "/f19/language/fi.md" >}}) | 70 | 3594 | 1.9 | /mnt/stockage/packages/f19/xfce4-weather-plugin/po/fi.po | 
- | [lv]({{< ref "/f19/language/lv.md" >}}) | 70 | 3594 | 1.9 | /mnt/stockage/packages/f19/xfce4-weather-plugin/po/lv.po | 
- | [sq]({{< ref "/f19/language/sq.md" >}}) | 65 | 3594 | 1.8 | /mnt/stockage/packages/f19/xfce4-weather-plugin/po/sq.po | 
- | [ur]({{< ref "/f19/language/ur.md" >}}) | 130 | 7188 | 1.8 | /mnt/stockage/packages/f19/xfce4-weather-plugin/po/ur_PK.po/mnt/stockage/packages/f19/xfce4-weather-plugin/po/ur.po | 
- | [pa]({{< ref "/f19/language/pa.md" >}}) | 52 | 3594 | 1.4 | /mnt/stockage/packages/f19/xfce4-weather-plugin/po/pa.po | 
- | [gl]({{< ref "/f19/language/gl.md" >}}) | 43 | 3594 | 1.2 | /mnt/stockage/packages/f19/xfce4-weather-plugin/po/gl.po | 
- | [te]({{< ref "/f19/language/te.md" >}}) | 9 | 3594 | 0.3 | /mnt/stockage/packages/f19/xfce4-weather-plugin/po/te.po | 
+ | [ar](/f19/language/ar) | 3625 | 3625 | 100.0 | /mnt/stockage/packages/f19/xfce4-weather-plugin/po/ar.po | 
+ | [bg](/f19/language/bg) | 3668 | 3668 | 100.0 | /mnt/stockage/packages/f19/xfce4-weather-plugin/po/bg.po | 
+ | [de](/f19/language/de) | 3668 | 3668 | 100.0 | /mnt/stockage/packages/f19/xfce4-weather-plugin/po/de.po | 
+ | [en_AU](/f19/language/en_AU) | 3668 | 3668 | 100.0 | /mnt/stockage/packages/f19/xfce4-weather-plugin/po/en_AU.po | 
+ | [en_GB](/f19/language/en_GB) | 3625 | 3625 | 100.0 | /mnt/stockage/packages/f19/xfce4-weather-plugin/po/en_GB.po | 
+ | [es](/f19/language/es) | 3668 | 3668 | 100.0 | /mnt/stockage/packages/f19/xfce4-weather-plugin/po/es.po | 
+ | [fr](/f19/language/fr) | 3668 | 3668 | 100.0 | /mnt/stockage/packages/f19/xfce4-weather-plugin/po/fr.po | 
+ | [hr](/f19/language/hr) | 3668 | 3668 | 100.0 | /mnt/stockage/packages/f19/xfce4-weather-plugin/po/hr.po | 
+ | [id](/f19/language/id) | 3668 | 3668 | 100.0 | /mnt/stockage/packages/f19/xfce4-weather-plugin/po/id.po | 
+ | [it](/f19/language/it) | 3668 | 3668 | 100.0 | /mnt/stockage/packages/f19/xfce4-weather-plugin/po/it.po | 
+ | [ja](/f19/language/ja) | 3668 | 3668 | 100.0 | /mnt/stockage/packages/f19/xfce4-weather-plugin/po/ja.po | 
+ | [ko](/f19/language/ko) | 3668 | 3668 | 100.0 | /mnt/stockage/packages/f19/xfce4-weather-plugin/po/ko.po | 
+ | [ms](/f19/language/ms) | 3668 | 3668 | 100.0 | /mnt/stockage/packages/f19/xfce4-weather-plugin/po/ms.po | 
+ | [nl](/f19/language/nl) | 3668 | 3668 | 100.0 | /mnt/stockage/packages/f19/xfce4-weather-plugin/po/nl.po | 
+ | [oc](/f19/language/oc) | 3668 | 3668 | 100.0 | /mnt/stockage/packages/f19/xfce4-weather-plugin/po/oc.po | 
+ | [pl](/f19/language/pl) | 3668 | 3668 | 100.0 | /mnt/stockage/packages/f19/xfce4-weather-plugin/po/pl.po | 
+ | [pt](/f19/language/pt) | 3668 | 3668 | 100.0 | /mnt/stockage/packages/f19/xfce4-weather-plugin/po/pt.po | 
+ | [pt_BR](/f19/language/pt_BR) | 3668 | 3668 | 100.0 | /mnt/stockage/packages/f19/xfce4-weather-plugin/po/pt_BR.po | 
+ | [ru](/f19/language/ru) | 3668 | 3668 | 100.0 | /mnt/stockage/packages/f19/xfce4-weather-plugin/po/ru.po | 
+ | [sr](/f19/language/sr) | 3668 | 3668 | 100.0 | /mnt/stockage/packages/f19/xfce4-weather-plugin/po/sr.po | 
+ | [sv](/f19/language/sv) | 3668 | 3668 | 100.0 | /mnt/stockage/packages/f19/xfce4-weather-plugin/po/sv.po | 
+ | [th](/f19/language/th) | 3668 | 3668 | 100.0 | /mnt/stockage/packages/f19/xfce4-weather-plugin/po/th.po | 
+ | [uk](/f19/language/uk) | 3668 | 3668 | 100.0 | /mnt/stockage/packages/f19/xfce4-weather-plugin/po/uk.po | 
+ | [zh_Hans](/f19/language/zh_Hans) | 3668 | 3668 | 100.0 | /mnt/stockage/packages/f19/xfce4-weather-plugin/po/zh_CN.po | 
+ | [zh_Hant](/f19/language/zh_Hant) | 3668 | 3668 | 100.0 | /mnt/stockage/packages/f19/xfce4-weather-plugin/po/zh_TW.po | 
+ | [he](/f19/language/he) | 2583 | 3594 | 71.9 | /mnt/stockage/packages/f19/xfce4-weather-plugin/po/he.po | 
+ | [cs](/f19/language/cs) | 1937 | 3625 | 53.4 | /mnt/stockage/packages/f19/xfce4-weather-plugin/po/cs.po | 
+ | [nb_NO](/f19/language/nb_NO) | 1619 | 3668 | 44.1 | /mnt/stockage/packages/f19/xfce4-weather-plugin/po/nb.po | 
+ | [hu](/f19/language/hu) | 1528 | 3593 | 42.5 | /mnt/stockage/packages/f19/xfce4-weather-plugin/po/hu.po | 
+ | [nn](/f19/language/nn) | 1174 | 3594 | 32.7 | /mnt/stockage/packages/f19/xfce4-weather-plugin/po/nn.po | 
+ | [ast](/f19/language/ast) | 1127 | 3668 | 30.7 | /mnt/stockage/packages/f19/xfce4-weather-plugin/po/ast.po | 
+ | [tr](/f19/language/tr) | 1013 | 3668 | 27.6 | /mnt/stockage/packages/f19/xfce4-weather-plugin/po/tr.po | 
+ | [be](/f19/language/be) | 660 | 3594 | 18.4 | /mnt/stockage/packages/f19/xfce4-weather-plugin/po/be.po | 
+ | [ca](/f19/language/ca) | 389 | 3668 | 10.6 | /mnt/stockage/packages/f19/xfce4-weather-plugin/po/ca.po | 
+ | [eu](/f19/language/eu) | 376 | 3625 | 10.4 | /mnt/stockage/packages/f19/xfce4-weather-plugin/po/eu.po | 
+ | [is](/f19/language/is) | 307 | 3668 | 8.4 | /mnt/stockage/packages/f19/xfce4-weather-plugin/po/is.po | 
+ | [ug](/f19/language/ug) | 262 | 3594 | 7.3 | /mnt/stockage/packages/f19/xfce4-weather-plugin/po/ug.po | 
+ | [el](/f19/language/el) | 155 | 3594 | 4.3 | /mnt/stockage/packages/f19/xfce4-weather-plugin/po/el.po | 
+ | [lt](/f19/language/lt) | 98 | 3594 | 2.7 | /mnt/stockage/packages/f19/xfce4-weather-plugin/po/lt.po | 
+ | [da](/f19/language/da) | 72 | 3594 | 2.0 | /mnt/stockage/packages/f19/xfce4-weather-plugin/po/da.po | 
+ | [sk](/f19/language/sk) | 71 | 3594 | 2.0 | /mnt/stockage/packages/f19/xfce4-weather-plugin/po/sk.po | 
+ | [fi](/f19/language/fi) | 70 | 3594 | 1.9 | /mnt/stockage/packages/f19/xfce4-weather-plugin/po/fi.po | 
+ | [lv](/f19/language/lv) | 70 | 3594 | 1.9 | /mnt/stockage/packages/f19/xfce4-weather-plugin/po/lv.po | 
+ | [sq](/f19/language/sq) | 65 | 3594 | 1.8 | /mnt/stockage/packages/f19/xfce4-weather-plugin/po/sq.po | 
+ | [ur](/f19/language/ur) | 130 | 7188 | 1.8 | /mnt/stockage/packages/f19/xfce4-weather-plugin/po/ur_PK.po/mnt/stockage/packages/f19/xfce4-weather-plugin/po/ur.po | 
+ | [pa](/f19/language/pa) | 52 | 3594 | 1.4 | /mnt/stockage/packages/f19/xfce4-weather-plugin/po/pa.po | 
+ | [gl](/f19/language/gl) | 43 | 3594 | 1.2 | /mnt/stockage/packages/f19/xfce4-weather-plugin/po/gl.po | 
+ | [te](/f19/language/te) | 9 | 3594 | 0.3 | /mnt/stockage/packages/f19/xfce4-weather-plugin/po/te.po | 
 {.sortable}
 
 

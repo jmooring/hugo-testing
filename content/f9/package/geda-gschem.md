@@ -18,16 +18,16 @@ The package geda-gschem (version 20080127):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f9/language/de.md" >}}) | 1708 | 1708 | 100.0 | /mnt/stockage/packages/f9/geda-gschem/po/de_DE.po | 
- | [en_GB]({{< ref "/f9/language/en_GB.md" >}}) | 1698 | 1708 | 99.4 | /mnt/stockage/packages/f9/geda-gschem/po/en_GB.po | 
- | [es]({{< ref "/f9/language/es.md" >}}) | 1698 | 1708 | 99.4 | /mnt/stockage/packages/f9/geda-gschem/po/es_ES.po | 
- | [nl]({{< ref "/f9/language/nl.md" >}}) | 1698 | 1708 | 99.4 | /mnt/stockage/packages/f9/geda-gschem/po/nl_NL.po | 
- | [fr]({{< ref "/f9/language/fr.md" >}}) | 1452 | 1708 | 85.0 | /mnt/stockage/packages/f9/geda-gschem/po/fr_FR.po | 
- | [it]({{< ref "/f9/language/it.md" >}}) | 1428 | 1708 | 83.6 | /mnt/stockage/packages/f9/geda-gschem/po/it_IT.po | 
- | [af]({{< ref "/f9/language/af.md" >}}) | 1391 | 1708 | 81.4 | /mnt/stockage/packages/f9/geda-gschem/po/af_ZA.po | 
- | [ru]({{< ref "/f9/language/ru.md" >}}) | 1223 | 1708 | 71.6 | /mnt/stockage/packages/f9/geda-gschem/po/ru.po | 
- | [pt_BR]({{< ref "/f9/language/pt_BR.md" >}}) | 1044 | 1708 | 61.1 | /mnt/stockage/packages/f9/geda-gschem/po/pt_BR.po | 
- | [ja]({{< ref "/f9/language/ja.md" >}}) | 844 | 1708 | 49.4 | /mnt/stockage/packages/f9/geda-gschem/po/ja_JP.po | 
+ | [de](/f9/language/de) | 1708 | 1708 | 100.0 | /mnt/stockage/packages/f9/geda-gschem/po/de_DE.po | 
+ | [en_GB](/f9/language/en_GB) | 1698 | 1708 | 99.4 | /mnt/stockage/packages/f9/geda-gschem/po/en_GB.po | 
+ | [es](/f9/language/es) | 1698 | 1708 | 99.4 | /mnt/stockage/packages/f9/geda-gschem/po/es_ES.po | 
+ | [nl](/f9/language/nl) | 1698 | 1708 | 99.4 | /mnt/stockage/packages/f9/geda-gschem/po/nl_NL.po | 
+ | [fr](/f9/language/fr) | 1452 | 1708 | 85.0 | /mnt/stockage/packages/f9/geda-gschem/po/fr_FR.po | 
+ | [it](/f9/language/it) | 1428 | 1708 | 83.6 | /mnt/stockage/packages/f9/geda-gschem/po/it_IT.po | 
+ | [af](/f9/language/af) | 1391 | 1708 | 81.4 | /mnt/stockage/packages/f9/geda-gschem/po/af_ZA.po | 
+ | [ru](/f9/language/ru) | 1223 | 1708 | 71.6 | /mnt/stockage/packages/f9/geda-gschem/po/ru.po | 
+ | [pt_BR](/f9/language/pt_BR) | 1044 | 1708 | 61.1 | /mnt/stockage/packages/f9/geda-gschem/po/pt_BR.po | 
+ | [ja](/f9/language/ja) | 844 | 1708 | 49.4 | /mnt/stockage/packages/f9/geda-gschem/po/ja_JP.po | 
 {.sortable}
 
 

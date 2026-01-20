@@ -18,18 +18,18 @@ The package evolution-ews (version 3.4.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f17/language/cs.md" >}}) | 441 | 441 | 100.0 | /mnt/stockage/packages/f17/evolution-ews/po/cs.po | 
- | [de]({{< ref "/f17/language/de.md" >}}) | 441 | 441 | 100.0 | /mnt/stockage/packages/f17/evolution-ews/po/de.po | 
- | [es]({{< ref "/f17/language/es.md" >}}) | 441 | 441 | 100.0 | /mnt/stockage/packages/f17/evolution-ews/po/es.po | 
- | [hu]({{< ref "/f17/language/hu.md" >}}) | 441 | 441 | 100.0 | /mnt/stockage/packages/f17/evolution-ews/po/hu.po | 
- | [pl]({{< ref "/f17/language/pl.md" >}}) | 441 | 441 | 100.0 | /mnt/stockage/packages/f17/evolution-ews/po/pl.po | 
- | [sl]({{< ref "/f17/language/sl.md" >}}) | 441 | 441 | 100.0 | /mnt/stockage/packages/f17/evolution-ews/po/sl.po | 
- | [sr]({{< ref "/f17/language/sr.md" >}}) | 882 | 882 | 100.0 | /mnt/stockage/packages/f17/evolution-ews/po/sr@latin.po/mnt/stockage/packages/f17/evolution-ews/po/sr.po | 
- | [zh_Hans]({{< ref "/f17/language/zh_Hans.md" >}}) | 314 | 327 | 96.0 | /mnt/stockage/packages/f17/evolution-ews/po/zh_CN.po | 
- | [pt_BR]({{< ref "/f17/language/pt_BR.md" >}}) | 364 | 441 | 82.5 | /mnt/stockage/packages/f17/evolution-ews/po/pt_BR.po | 
- | [da]({{< ref "/f17/language/da.md" >}}) | 317 | 441 | 71.9 | /mnt/stockage/packages/f17/evolution-ews/po/da.po | 
- | [nb_NO]({{< ref "/f17/language/nb_NO.md" >}}) | 63 | 327 | 19.3 | /mnt/stockage/packages/f17/evolution-ews/po/nb.po | 
- | [sv]({{< ref "/f17/language/sv.md" >}}) | 41 | 441 | 9.3 | /mnt/stockage/packages/f17/evolution-ews/po/sv.po | 
+ | [cs](/f17/language/cs) | 441 | 441 | 100.0 | /mnt/stockage/packages/f17/evolution-ews/po/cs.po | 
+ | [de](/f17/language/de) | 441 | 441 | 100.0 | /mnt/stockage/packages/f17/evolution-ews/po/de.po | 
+ | [es](/f17/language/es) | 441 | 441 | 100.0 | /mnt/stockage/packages/f17/evolution-ews/po/es.po | 
+ | [hu](/f17/language/hu) | 441 | 441 | 100.0 | /mnt/stockage/packages/f17/evolution-ews/po/hu.po | 
+ | [pl](/f17/language/pl) | 441 | 441 | 100.0 | /mnt/stockage/packages/f17/evolution-ews/po/pl.po | 
+ | [sl](/f17/language/sl) | 441 | 441 | 100.0 | /mnt/stockage/packages/f17/evolution-ews/po/sl.po | 
+ | [sr](/f17/language/sr) | 882 | 882 | 100.0 | /mnt/stockage/packages/f17/evolution-ews/po/sr@latin.po/mnt/stockage/packages/f17/evolution-ews/po/sr.po | 
+ | [zh_Hans](/f17/language/zh_Hans) | 314 | 327 | 96.0 | /mnt/stockage/packages/f17/evolution-ews/po/zh_CN.po | 
+ | [pt_BR](/f17/language/pt_BR) | 364 | 441 | 82.5 | /mnt/stockage/packages/f17/evolution-ews/po/pt_BR.po | 
+ | [da](/f17/language/da) | 317 | 441 | 71.9 | /mnt/stockage/packages/f17/evolution-ews/po/da.po | 
+ | [nb_NO](/f17/language/nb_NO) | 63 | 327 | 19.3 | /mnt/stockage/packages/f17/evolution-ews/po/nb.po | 
+ | [sv](/f17/language/sv) | 41 | 441 | 9.3 | /mnt/stockage/packages/f17/evolution-ews/po/sv.po | 
 {.sortable}
 
 

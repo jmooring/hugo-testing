@@ -18,30 +18,30 @@ The package eiskaltdcpp (version 2.4.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [es]({{< ref "/f36/language/es.md" >}}) | 3626 | 3626 | 100.0 | /mnt/stockage/packages/f36/eiskaltdcpp/dcpp/po/es.po/mnt/stockage/packages/f36/eiskaltdcpp/eiskaltdcpp-gtk/po/es.po | 
- | [fr]({{< ref "/f36/language/fr.md" >}}) | 3626 | 3626 | 100.0 | /mnt/stockage/packages/f36/eiskaltdcpp/dcpp/po/fr.po/mnt/stockage/packages/f36/eiskaltdcpp/eiskaltdcpp-gtk/po/fr.po | 
- | [ru]({{< ref "/f36/language/ru.md" >}}) | 3626 | 3626 | 100.0 | /mnt/stockage/packages/f36/eiskaltdcpp/dcpp/po/ru.po/mnt/stockage/packages/f36/eiskaltdcpp/eiskaltdcpp-gtk/po/ru.po | 
- | [sv]({{< ref "/f36/language/sv.md" >}}) | 3626 | 3626 | 100.0 | /mnt/stockage/packages/f36/eiskaltdcpp/dcpp/po/sv_SE.po/mnt/stockage/packages/f36/eiskaltdcpp/eiskaltdcpp-gtk/po/sv_SE.po | 
- | [tr]({{< ref "/f36/language/tr.md" >}}) | 3593 | 3626 | 99.1 | /mnt/stockage/packages/f36/eiskaltdcpp/dcpp/po/tr.po/mnt/stockage/packages/f36/eiskaltdcpp/eiskaltdcpp-gtk/po/tr.po | 
- | [de]({{< ref "/f36/language/de.md" >}}) | 3531 | 3626 | 97.4 | /mnt/stockage/packages/f36/eiskaltdcpp/dcpp/po/de.po/mnt/stockage/packages/f36/eiskaltdcpp/eiskaltdcpp-gtk/po/de.po | 
- | [sr]({{< ref "/f36/language/sr.md" >}}) | 3531 | 3626 | 97.4 | /mnt/stockage/packages/f36/eiskaltdcpp/dcpp/po/sr.po/mnt/stockage/packages/f36/eiskaltdcpp/eiskaltdcpp-gtk/po/sr.po | 
- | [sr_Latn]({{< ref "/f36/language/sr_Latn.md" >}}) | 3531 | 3626 | 97.4 | /mnt/stockage/packages/f36/eiskaltdcpp/dcpp/po/sr@latin.po/mnt/stockage/packages/f36/eiskaltdcpp/eiskaltdcpp-gtk/po/sr@latin.po | 
- | [uk]({{< ref "/f36/language/uk.md" >}}) | 3497 | 3626 | 96.4 | /mnt/stockage/packages/f36/eiskaltdcpp/dcpp/po/uk.po/mnt/stockage/packages/f36/eiskaltdcpp/eiskaltdcpp-gtk/po/uk.po | 
- | [be]({{< ref "/f36/language/be.md" >}}) | 3474 | 3626 | 95.8 | /mnt/stockage/packages/f36/eiskaltdcpp/dcpp/po/be.po/mnt/stockage/packages/f36/eiskaltdcpp/eiskaltdcpp-gtk/po/be.po | 
- | [hu]({{< ref "/f36/language/hu.md" >}}) | 3306 | 3626 | 91.2 | /mnt/stockage/packages/f36/eiskaltdcpp/dcpp/po/hu.po/mnt/stockage/packages/f36/eiskaltdcpp/eiskaltdcpp-gtk/po/hu.po | 
- | [sk]({{< ref "/f36/language/sk.md" >}}) | 1674 | 3626 | 46.2 | /mnt/stockage/packages/f36/eiskaltdcpp/dcpp/po/sk.po/mnt/stockage/packages/f36/eiskaltdcpp/eiskaltdcpp-gtk/po/sk.po | 
- | [el]({{< ref "/f36/language/el.md" >}}) | 1490 | 3626 | 41.1 | /mnt/stockage/packages/f36/eiskaltdcpp/dcpp/po/el.po/mnt/stockage/packages/f36/eiskaltdcpp/eiskaltdcpp-gtk/po/el.po | 
- | [it]({{< ref "/f36/language/it.md" >}}) | 1157 | 3626 | 31.9 | /mnt/stockage/packages/f36/eiskaltdcpp/dcpp/po/it.po/mnt/stockage/packages/f36/eiskaltdcpp/eiskaltdcpp-gtk/po/it.po | 
- | [bg]({{< ref "/f36/language/bg.md" >}}) | 1129 | 3626 | 31.1 | /mnt/stockage/packages/f36/eiskaltdcpp/dcpp/po/bg.po/mnt/stockage/packages/f36/eiskaltdcpp/eiskaltdcpp-gtk/po/bg.po | 
- | [pt_BR]({{< ref "/f36/language/pt_BR.md" >}}) | 980 | 3626 | 27.0 | /mnt/stockage/packages/f36/eiskaltdcpp/dcpp/po/pt_BR.po/mnt/stockage/packages/f36/eiskaltdcpp/eiskaltdcpp-gtk/po/pt_BR.po | 
- | [cs]({{< ref "/f36/language/cs.md" >}}) | 935 | 3626 | 25.8 | /mnt/stockage/packages/f36/eiskaltdcpp/dcpp/po/cs.po/mnt/stockage/packages/f36/eiskaltdcpp/eiskaltdcpp-gtk/po/cs.po | 
- | [pl]({{< ref "/f36/language/pl.md" >}}) | 796 | 3626 | 22.0 | /mnt/stockage/packages/f36/eiskaltdcpp/dcpp/po/pl.po/mnt/stockage/packages/f36/eiskaltdcpp/eiskaltdcpp-gtk/po/pl.po | 
- | [eu]({{< ref "/f36/language/eu.md" >}}) | 399 | 3626 | 11.0 | /mnt/stockage/packages/f36/eiskaltdcpp/dcpp/po/eu.po/mnt/stockage/packages/f36/eiskaltdcpp/eiskaltdcpp-gtk/po/eu.po | 
- | [zh_Hans]({{< ref "/f36/language/zh_Hans.md" >}}) | 201 | 3626 | 5.5 | /mnt/stockage/packages/f36/eiskaltdcpp/dcpp/po/zh_CN.po/mnt/stockage/packages/f36/eiskaltdcpp/eiskaltdcpp-gtk/po/zh_CN.po | 
- | [vi]({{< ref "/f36/language/vi.md" >}}) | 113 | 3626 | 3.1 | /mnt/stockage/packages/f36/eiskaltdcpp/dcpp/po/vi.po/mnt/stockage/packages/f36/eiskaltdcpp/eiskaltdcpp-gtk/po/vi.po | 
- | [da]({{< ref "/f36/language/da.md" >}}) | 52 | 3626 | 1.4 | /mnt/stockage/packages/f36/eiskaltdcpp/dcpp/po/da.po/mnt/stockage/packages/f36/eiskaltdcpp/eiskaltdcpp-gtk/po/da.po | 
- | [en]({{< ref "/f36/language/en.md" >}}) | 0 | 3626 | 0.0 | /mnt/stockage/packages/f36/eiskaltdcpp/dcpp/po/en.po/mnt/stockage/packages/f36/eiskaltdcpp/eiskaltdcpp-gtk/po/en.po | 
- | [ie]({{< ref "/f36/language/ie.md" >}}) | 0 | 889 | 0.0 | /mnt/stockage/packages/f36/eiskaltdcpp/dcpp/po/ie.po | 
+ | [es](/f36/language/es) | 3626 | 3626 | 100.0 | /mnt/stockage/packages/f36/eiskaltdcpp/dcpp/po/es.po/mnt/stockage/packages/f36/eiskaltdcpp/eiskaltdcpp-gtk/po/es.po | 
+ | [fr](/f36/language/fr) | 3626 | 3626 | 100.0 | /mnt/stockage/packages/f36/eiskaltdcpp/dcpp/po/fr.po/mnt/stockage/packages/f36/eiskaltdcpp/eiskaltdcpp-gtk/po/fr.po | 
+ | [ru](/f36/language/ru) | 3626 | 3626 | 100.0 | /mnt/stockage/packages/f36/eiskaltdcpp/dcpp/po/ru.po/mnt/stockage/packages/f36/eiskaltdcpp/eiskaltdcpp-gtk/po/ru.po | 
+ | [sv](/f36/language/sv) | 3626 | 3626 | 100.0 | /mnt/stockage/packages/f36/eiskaltdcpp/dcpp/po/sv_SE.po/mnt/stockage/packages/f36/eiskaltdcpp/eiskaltdcpp-gtk/po/sv_SE.po | 
+ | [tr](/f36/language/tr) | 3593 | 3626 | 99.1 | /mnt/stockage/packages/f36/eiskaltdcpp/dcpp/po/tr.po/mnt/stockage/packages/f36/eiskaltdcpp/eiskaltdcpp-gtk/po/tr.po | 
+ | [de](/f36/language/de) | 3531 | 3626 | 97.4 | /mnt/stockage/packages/f36/eiskaltdcpp/dcpp/po/de.po/mnt/stockage/packages/f36/eiskaltdcpp/eiskaltdcpp-gtk/po/de.po | 
+ | [sr](/f36/language/sr) | 3531 | 3626 | 97.4 | /mnt/stockage/packages/f36/eiskaltdcpp/dcpp/po/sr.po/mnt/stockage/packages/f36/eiskaltdcpp/eiskaltdcpp-gtk/po/sr.po | 
+ | [sr_Latn](/f36/language/sr_Latn) | 3531 | 3626 | 97.4 | /mnt/stockage/packages/f36/eiskaltdcpp/dcpp/po/sr@latin.po/mnt/stockage/packages/f36/eiskaltdcpp/eiskaltdcpp-gtk/po/sr@latin.po | 
+ | [uk](/f36/language/uk) | 3497 | 3626 | 96.4 | /mnt/stockage/packages/f36/eiskaltdcpp/dcpp/po/uk.po/mnt/stockage/packages/f36/eiskaltdcpp/eiskaltdcpp-gtk/po/uk.po | 
+ | [be](/f36/language/be) | 3474 | 3626 | 95.8 | /mnt/stockage/packages/f36/eiskaltdcpp/dcpp/po/be.po/mnt/stockage/packages/f36/eiskaltdcpp/eiskaltdcpp-gtk/po/be.po | 
+ | [hu](/f36/language/hu) | 3306 | 3626 | 91.2 | /mnt/stockage/packages/f36/eiskaltdcpp/dcpp/po/hu.po/mnt/stockage/packages/f36/eiskaltdcpp/eiskaltdcpp-gtk/po/hu.po | 
+ | [sk](/f36/language/sk) | 1674 | 3626 | 46.2 | /mnt/stockage/packages/f36/eiskaltdcpp/dcpp/po/sk.po/mnt/stockage/packages/f36/eiskaltdcpp/eiskaltdcpp-gtk/po/sk.po | 
+ | [el](/f36/language/el) | 1490 | 3626 | 41.1 | /mnt/stockage/packages/f36/eiskaltdcpp/dcpp/po/el.po/mnt/stockage/packages/f36/eiskaltdcpp/eiskaltdcpp-gtk/po/el.po | 
+ | [it](/f36/language/it) | 1157 | 3626 | 31.9 | /mnt/stockage/packages/f36/eiskaltdcpp/dcpp/po/it.po/mnt/stockage/packages/f36/eiskaltdcpp/eiskaltdcpp-gtk/po/it.po | 
+ | [bg](/f36/language/bg) | 1129 | 3626 | 31.1 | /mnt/stockage/packages/f36/eiskaltdcpp/dcpp/po/bg.po/mnt/stockage/packages/f36/eiskaltdcpp/eiskaltdcpp-gtk/po/bg.po | 
+ | [pt_BR](/f36/language/pt_BR) | 980 | 3626 | 27.0 | /mnt/stockage/packages/f36/eiskaltdcpp/dcpp/po/pt_BR.po/mnt/stockage/packages/f36/eiskaltdcpp/eiskaltdcpp-gtk/po/pt_BR.po | 
+ | [cs](/f36/language/cs) | 935 | 3626 | 25.8 | /mnt/stockage/packages/f36/eiskaltdcpp/dcpp/po/cs.po/mnt/stockage/packages/f36/eiskaltdcpp/eiskaltdcpp-gtk/po/cs.po | 
+ | [pl](/f36/language/pl) | 796 | 3626 | 22.0 | /mnt/stockage/packages/f36/eiskaltdcpp/dcpp/po/pl.po/mnt/stockage/packages/f36/eiskaltdcpp/eiskaltdcpp-gtk/po/pl.po | 
+ | [eu](/f36/language/eu) | 399 | 3626 | 11.0 | /mnt/stockage/packages/f36/eiskaltdcpp/dcpp/po/eu.po/mnt/stockage/packages/f36/eiskaltdcpp/eiskaltdcpp-gtk/po/eu.po | 
+ | [zh_Hans](/f36/language/zh_Hans) | 201 | 3626 | 5.5 | /mnt/stockage/packages/f36/eiskaltdcpp/dcpp/po/zh_CN.po/mnt/stockage/packages/f36/eiskaltdcpp/eiskaltdcpp-gtk/po/zh_CN.po | 
+ | [vi](/f36/language/vi) | 113 | 3626 | 3.1 | /mnt/stockage/packages/f36/eiskaltdcpp/dcpp/po/vi.po/mnt/stockage/packages/f36/eiskaltdcpp/eiskaltdcpp-gtk/po/vi.po | 
+ | [da](/f36/language/da) | 52 | 3626 | 1.4 | /mnt/stockage/packages/f36/eiskaltdcpp/dcpp/po/da.po/mnt/stockage/packages/f36/eiskaltdcpp/eiskaltdcpp-gtk/po/da.po | 
+ | [en](/f36/language/en) | 0 | 3626 | 0.0 | /mnt/stockage/packages/f36/eiskaltdcpp/dcpp/po/en.po/mnt/stockage/packages/f36/eiskaltdcpp/eiskaltdcpp-gtk/po/en.po | 
+ | [ie](/f36/language/ie) | 0 | 889 | 0.0 | /mnt/stockage/packages/f36/eiskaltdcpp/dcpp/po/ie.po | 
 {.sortable}
 
 

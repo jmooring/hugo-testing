@@ -18,7 +18,7 @@ The package libticables2 (version 1.3.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f22/language/fr.md" >}}) | 1050 | 1050 | 100.0 | /mnt/stockage/packages/f22/libticables2/po/fr.po | 
+ | [fr](/f22/language/fr) | 1050 | 1050 | 100.0 | /mnt/stockage/packages/f22/libticables2/po/fr.po | 
 {.sortable}
 
 

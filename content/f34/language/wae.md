@@ -39,12 +39,12 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [slick-greeter]({{< ref "/f34/package/slick-greeter.md" >}}) | 211 | 211 | 100.0 | Walser <wae@li.org> | 
- | [lightdm]({{< ref "/f34/package/lightdm.md" >}}) | 40 | 163 | 24.5 | Walser <wae@li.org> | 
- | [rednotebook]({{< ref "/f34/package/rednotebook.md" >}}) | 275 | 1147 | 24.0 | Walser <wae@li.org> | 
- | [lightdm-gtk]({{< ref "/f34/package/lightdm-gtk.md" >}}) | 21 | 89 | 23.6 | Walser <wae@li.org> | 
- | [blueberry]({{< ref "/f34/package/blueberry.md" >}}) | 36 | 166 | 21.7 | Walser <wae@li.org> | 
- | [pyhoca-gui]({{< ref "/f34/package/pyhoca-gui.md" >}}) | 0 | 1865 | 0.0 | none | 
+ | [slick-greeter](/f34/package/slick-greeter) | 211 | 211 | 100.0 | Walser <wae@li.org> | 
+ | [lightdm](/f34/package/lightdm) | 40 | 163 | 24.5 | Walser <wae@li.org> | 
+ | [rednotebook](/f34/package/rednotebook) | 275 | 1147 | 24.0 | Walser <wae@li.org> | 
+ | [lightdm-gtk](/f34/package/lightdm-gtk) | 21 | 89 | 23.6 | Walser <wae@li.org> | 
+ | [blueberry](/f34/package/blueberry) | 36 | 166 | 21.7 | Walser <wae@li.org> | 
+ | [pyhoca-gui](/f34/package/pyhoca-gui) | 0 | 1865 | 0.0 | none | 
 {.sortable}
 
 

@@ -18,9 +18,9 @@ The package sugar-clock (version 0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [en]({{< ref "/f10/language/en.md" >}}) | 38 | 38 | 100.0 | /mnt/stockage/packages/f10/sugar-clock/po/en.po | 
- | [es]({{< ref "/f10/language/es.md" >}}) | 38 | 38 | 100.0 | /mnt/stockage/packages/f10/sugar-clock/po/es.po | 
- | [fr]({{< ref "/f10/language/fr.md" >}}) | 38 | 38 | 100.0 | /mnt/stockage/packages/f10/sugar-clock/po/fr.po | 
+ | [en](/f10/language/en) | 38 | 38 | 100.0 | /mnt/stockage/packages/f10/sugar-clock/po/en.po | 
+ | [es](/f10/language/es) | 38 | 38 | 100.0 | /mnt/stockage/packages/f10/sugar-clock/po/es.po | 
+ | [fr](/f10/language/fr) | 38 | 38 | 100.0 | /mnt/stockage/packages/f10/sugar-clock/po/fr.po | 
 {.sortable}
 
 

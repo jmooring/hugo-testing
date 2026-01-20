@@ -18,8 +18,8 @@ The package renameutils (version 0.10.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f18/language/fr.md" >}}) | 1448 | 1629 | 88.9 | /mnt/stockage/packages/f18/renameutils/po/fr.po | 
- | [sv]({{< ref "/f18/language/sv.md" >}}) | 1448 | 1629 | 88.9 | /mnt/stockage/packages/f18/renameutils/po/sv.po | 
+ | [fr](/f18/language/fr) | 1448 | 1629 | 88.9 | /mnt/stockage/packages/f18/renameutils/po/fr.po | 
+ | [sv](/f18/language/sv) | 1448 | 1629 | 88.9 | /mnt/stockage/packages/f18/renameutils/po/sv.po | 
 {.sortable}
 
 

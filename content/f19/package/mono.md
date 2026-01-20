@@ -18,10 +18,10 @@ The package mono (version 2.10.8):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [pt_BR]({{< ref "/f19/language/pt_BR.md" >}}) | 5236 | 7396 | 70.8 | /mnt/stockage/packages/f19/mono/po/mcs/pt_BR.po | 
- | [ja]({{< ref "/f19/language/ja.md" >}}) | 1209 | 7396 | 16.3 | /mnt/stockage/packages/f19/mono/po/mcs/ja.po | 
- | [es]({{< ref "/f19/language/es.md" >}}) | 973 | 7396 | 13.2 | /mnt/stockage/packages/f19/mono/po/mcs/es.po | 
- | [de]({{< ref "/f19/language/de.md" >}}) | 421 | 7396 | 5.7 | /mnt/stockage/packages/f19/mono/po/mcs/de.po | 
+ | [pt_BR](/f19/language/pt_BR) | 5236 | 7396 | 70.8 | /mnt/stockage/packages/f19/mono/po/mcs/pt_BR.po | 
+ | [ja](/f19/language/ja) | 1209 | 7396 | 16.3 | /mnt/stockage/packages/f19/mono/po/mcs/ja.po | 
+ | [es](/f19/language/es) | 973 | 7396 | 13.2 | /mnt/stockage/packages/f19/mono/po/mcs/es.po | 
+ | [de](/f19/language/de) | 421 | 7396 | 5.7 | /mnt/stockage/packages/f19/mono/po/mcs/de.po | 
 {.sortable}
 
 

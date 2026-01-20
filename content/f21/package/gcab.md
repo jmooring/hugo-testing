@@ -18,12 +18,12 @@ The package gcab (version 0.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [es]({{< ref "/f21/language/es.md" >}}) | 121 | 121 | 100.0 | /mnt/stockage/packages/f21/gcab/po/es.po | 
- | [pl]({{< ref "/f21/language/pl.md" >}}) | 121 | 121 | 100.0 | /mnt/stockage/packages/f21/gcab/po/pl.po | 
- | [pt_BR]({{< ref "/f21/language/pt_BR.md" >}}) | 121 | 121 | 100.0 | /mnt/stockage/packages/f21/gcab/po/pt_BR.po | 
- | [sl]({{< ref "/f21/language/sl.md" >}}) | 121 | 121 | 100.0 | /mnt/stockage/packages/f21/gcab/po/sl.po | 
- | [sr]({{< ref "/f21/language/sr.md" >}}) | 242 | 242 | 100.0 | /mnt/stockage/packages/f21/gcab/po/sr@latin.po/mnt/stockage/packages/f21/gcab/po/sr.po | 
- | [de]({{< ref "/f21/language/de.md" >}}) | 85 | 121 | 70.2 | /mnt/stockage/packages/f21/gcab/po/de.po | 
+ | [es](/f21/language/es) | 121 | 121 | 100.0 | /mnt/stockage/packages/f21/gcab/po/es.po | 
+ | [pl](/f21/language/pl) | 121 | 121 | 100.0 | /mnt/stockage/packages/f21/gcab/po/pl.po | 
+ | [pt_BR](/f21/language/pt_BR) | 121 | 121 | 100.0 | /mnt/stockage/packages/f21/gcab/po/pt_BR.po | 
+ | [sl](/f21/language/sl) | 121 | 121 | 100.0 | /mnt/stockage/packages/f21/gcab/po/sl.po | 
+ | [sr](/f21/language/sr) | 242 | 242 | 100.0 | /mnt/stockage/packages/f21/gcab/po/sr@latin.po/mnt/stockage/packages/f21/gcab/po/sr.po | 
+ | [de](/f21/language/de) | 85 | 121 | 70.2 | /mnt/stockage/packages/f21/gcab/po/de.po | 
 {.sortable}
 
 

@@ -18,9 +18,9 @@ The package vdr-skinelchihd (version 1.0.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f35/language/de.md" >}}) | 151 | 151 | 100.0 | /mnt/stockage/packages/f35/vdr-skinelchihd/po/de_DE.po | 
- | [it]({{< ref "/f35/language/it.md" >}}) | 85 | 151 | 56.3 | /mnt/stockage/packages/f35/vdr-skinelchihd/po/it_IT.po | 
- | [fr]({{< ref "/f35/language/fr.md" >}}) | 69 | 151 | 45.7 | /mnt/stockage/packages/f35/vdr-skinelchihd/po/fr_FR.po | 
+ | [de](/f35/language/de) | 151 | 151 | 100.0 | /mnt/stockage/packages/f35/vdr-skinelchihd/po/de_DE.po | 
+ | [it](/f35/language/it) | 85 | 151 | 56.3 | /mnt/stockage/packages/f35/vdr-skinelchihd/po/it_IT.po | 
+ | [fr](/f35/language/fr) | 69 | 151 | 45.7 | /mnt/stockage/packages/f35/vdr-skinelchihd/po/fr_FR.po | 
 {.sortable}
 
 

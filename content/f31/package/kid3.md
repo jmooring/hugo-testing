@@ -18,34 +18,34 @@ The package kid3 (version 3.8.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f31/language/ca.md" >}}) | 21102 | 21102 | 100.0 | /mnt/stockage/packages/f31/kid3/doc/po/ca/kid3.po/mnt/stockage/packages/f31/kid3/translations/po/ca/kid3_qt.po | 
- | [ca@valencia]({{< ref "/f31/language/ca@valencia.md" >}}) | 3108 | 3108 | 100.0 | /mnt/stockage/packages/f31/kid3/translations/po/ca@valencia/kid3_qt.po | 
- | [da]({{< ref "/f31/language/da.md" >}}) | 3108 | 3108 | 100.0 | /mnt/stockage/packages/f31/kid3/translations/po/da/kid3_qt.po | 
- | [de]({{< ref "/f31/language/de.md" >}}) | 21102 | 21102 | 100.0 | /mnt/stockage/packages/f31/kid3/doc/po/de/kid3.po/mnt/stockage/packages/f31/kid3/translations/po/de/kid3_qt.po | 
- | [el]({{< ref "/f31/language/el.md" >}}) | 3108 | 3108 | 100.0 | /mnt/stockage/packages/f31/kid3/translations/po/el/kid3_qt.po | 
- | [en]({{< ref "/f31/language/en.md" >}}) | 12 | 12 | 100.0 | /mnt/stockage/packages/f31/kid3/translations/po/en/kid3_qt.po | 
- | [en_GB]({{< ref "/f31/language/en_GB.md" >}}) | 3108 | 3108 | 100.0 | /mnt/stockage/packages/f31/kid3/translations/po/en_GB/kid3_qt.po | 
- | [es]({{< ref "/f31/language/es.md" >}}) | 3108 | 3108 | 100.0 | /mnt/stockage/packages/f31/kid3/translations/po/es/kid3_qt.po | 
- | [fr]({{< ref "/f31/language/fr.md" >}}) | 3108 | 3108 | 100.0 | /mnt/stockage/packages/f31/kid3/translations/po/fr/kid3_qt.po | 
- | [it]({{< ref "/f31/language/it.md" >}}) | 21102 | 21102 | 100.0 | /mnt/stockage/packages/f31/kid3/doc/po/it/kid3.po/mnt/stockage/packages/f31/kid3/translations/po/it/kid3_qt.po | 
- | [ko]({{< ref "/f31/language/ko.md" >}}) | 3108 | 3108 | 100.0 | /mnt/stockage/packages/f31/kid3/translations/po/ko/kid3_qt.po | 
- | [nl]({{< ref "/f31/language/nl.md" >}}) | 21102 | 21102 | 100.0 | /mnt/stockage/packages/f31/kid3/doc/po/nl/kid3.po/mnt/stockage/packages/f31/kid3/translations/po/nl/kid3_qt.po | 
- | [pt]({{< ref "/f31/language/pt.md" >}}) | 21102 | 21102 | 100.0 | /mnt/stockage/packages/f31/kid3/doc/po/pt/kid3.po/mnt/stockage/packages/f31/kid3/translations/po/pt/kid3_qt.po | 
- | [pt_BR]({{< ref "/f31/language/pt_BR.md" >}}) | 3108 | 3108 | 100.0 | /mnt/stockage/packages/f31/kid3/translations/po/pt_BR/kid3_qt.po | 
- | [ru]({{< ref "/f31/language/ru.md" >}}) | 3108 | 3108 | 100.0 | /mnt/stockage/packages/f31/kid3/translations/po/ru/kid3_qt.po | 
- | [sv]({{< ref "/f31/language/sv.md" >}}) | 21102 | 21102 | 100.0 | /mnt/stockage/packages/f31/kid3/doc/po/sv/kid3.po/mnt/stockage/packages/f31/kid3/translations/po/sv/kid3_qt.po | 
- | [uk]({{< ref "/f31/language/uk.md" >}}) | 21102 | 21102 | 100.0 | /mnt/stockage/packages/f31/kid3/doc/po/uk/kid3.po/mnt/stockage/packages/f31/kid3/translations/po/uk/kid3_qt.po | 
- | [et]({{< ref "/f31/language/et.md" >}}) | 3075 | 3108 | 98.9 | /mnt/stockage/packages/f31/kid3/translations/po/et/kid3_qt.po | 
- | [cs]({{< ref "/f31/language/cs.md" >}}) | 3070 | 3108 | 98.8 | /mnt/stockage/packages/f31/kid3/translations/po/cs/kid3_qt.po | 
- | [zh_Hans]({{< ref "/f31/language/zh_Hans.md" >}}) | 3057 | 3108 | 98.4 | /mnt/stockage/packages/f31/kid3/translations/po/zh_CN/kid3_qt.po | 
- | [fi]({{< ref "/f31/language/fi.md" >}}) | 2952 | 3108 | 95.0 | /mnt/stockage/packages/f31/kid3/translations/po/fi/kid3_qt.po | 
- | [pl]({{< ref "/f31/language/pl.md" >}}) | 2772 | 3108 | 89.2 | /mnt/stockage/packages/f31/kid3/translations/po/pl/kid3_qt.po | 
- | [tr]({{< ref "/f31/language/tr.md" >}}) | 2706 | 3108 | 87.1 | /mnt/stockage/packages/f31/kid3/translations/po/tr/kid3_qt.po | 
- | [sr]({{< ref "/f31/language/sr.md" >}}) | 2645 | 3085 | 85.7 | /mnt/stockage/packages/f31/kid3/translations/po/sr/kid3_qt.po | 
- | [sr@ijekavian]({{< ref "/f31/language/sr@ijekavian.md" >}}) | 2641 | 3085 | 85.6 | /mnt/stockage/packages/f31/kid3/translations/po/sr@ijekavian/kid3_qt.po | 
- | [zh_Hant]({{< ref "/f31/language/zh_Hant.md" >}}) | 2659 | 3108 | 85.6 | /mnt/stockage/packages/f31/kid3/translations/po/zh_TW/kid3_qt.po | 
- | [sr@ijekavian_Latn]({{< ref "/f31/language/sr@ijekavian_Latn.md" >}}) | 2598 | 3085 | 84.2 | /mnt/stockage/packages/f31/kid3/translations/po/sr@ijekavianlatin/kid3_qt.po | 
- | [sr_Latn]({{< ref "/f31/language/sr_Latn.md" >}}) | 2598 | 3085 | 84.2 | /mnt/stockage/packages/f31/kid3/translations/po/sr@latin/kid3_qt.po | 
+ | [ca](/f31/language/ca) | 21102 | 21102 | 100.0 | /mnt/stockage/packages/f31/kid3/doc/po/ca/kid3.po/mnt/stockage/packages/f31/kid3/translations/po/ca/kid3_qt.po | 
+ | [ca@valencia](/f31/language/ca@valencia) | 3108 | 3108 | 100.0 | /mnt/stockage/packages/f31/kid3/translations/po/ca@valencia/kid3_qt.po | 
+ | [da](/f31/language/da) | 3108 | 3108 | 100.0 | /mnt/stockage/packages/f31/kid3/translations/po/da/kid3_qt.po | 
+ | [de](/f31/language/de) | 21102 | 21102 | 100.0 | /mnt/stockage/packages/f31/kid3/doc/po/de/kid3.po/mnt/stockage/packages/f31/kid3/translations/po/de/kid3_qt.po | 
+ | [el](/f31/language/el) | 3108 | 3108 | 100.0 | /mnt/stockage/packages/f31/kid3/translations/po/el/kid3_qt.po | 
+ | [en](/f31/language/en) | 12 | 12 | 100.0 | /mnt/stockage/packages/f31/kid3/translations/po/en/kid3_qt.po | 
+ | [en_GB](/f31/language/en_GB) | 3108 | 3108 | 100.0 | /mnt/stockage/packages/f31/kid3/translations/po/en_GB/kid3_qt.po | 
+ | [es](/f31/language/es) | 3108 | 3108 | 100.0 | /mnt/stockage/packages/f31/kid3/translations/po/es/kid3_qt.po | 
+ | [fr](/f31/language/fr) | 3108 | 3108 | 100.0 | /mnt/stockage/packages/f31/kid3/translations/po/fr/kid3_qt.po | 
+ | [it](/f31/language/it) | 21102 | 21102 | 100.0 | /mnt/stockage/packages/f31/kid3/doc/po/it/kid3.po/mnt/stockage/packages/f31/kid3/translations/po/it/kid3_qt.po | 
+ | [ko](/f31/language/ko) | 3108 | 3108 | 100.0 | /mnt/stockage/packages/f31/kid3/translations/po/ko/kid3_qt.po | 
+ | [nl](/f31/language/nl) | 21102 | 21102 | 100.0 | /mnt/stockage/packages/f31/kid3/doc/po/nl/kid3.po/mnt/stockage/packages/f31/kid3/translations/po/nl/kid3_qt.po | 
+ | [pt](/f31/language/pt) | 21102 | 21102 | 100.0 | /mnt/stockage/packages/f31/kid3/doc/po/pt/kid3.po/mnt/stockage/packages/f31/kid3/translations/po/pt/kid3_qt.po | 
+ | [pt_BR](/f31/language/pt_BR) | 3108 | 3108 | 100.0 | /mnt/stockage/packages/f31/kid3/translations/po/pt_BR/kid3_qt.po | 
+ | [ru](/f31/language/ru) | 3108 | 3108 | 100.0 | /mnt/stockage/packages/f31/kid3/translations/po/ru/kid3_qt.po | 
+ | [sv](/f31/language/sv) | 21102 | 21102 | 100.0 | /mnt/stockage/packages/f31/kid3/doc/po/sv/kid3.po/mnt/stockage/packages/f31/kid3/translations/po/sv/kid3_qt.po | 
+ | [uk](/f31/language/uk) | 21102 | 21102 | 100.0 | /mnt/stockage/packages/f31/kid3/doc/po/uk/kid3.po/mnt/stockage/packages/f31/kid3/translations/po/uk/kid3_qt.po | 
+ | [et](/f31/language/et) | 3075 | 3108 | 98.9 | /mnt/stockage/packages/f31/kid3/translations/po/et/kid3_qt.po | 
+ | [cs](/f31/language/cs) | 3070 | 3108 | 98.8 | /mnt/stockage/packages/f31/kid3/translations/po/cs/kid3_qt.po | 
+ | [zh_Hans](/f31/language/zh_Hans) | 3057 | 3108 | 98.4 | /mnt/stockage/packages/f31/kid3/translations/po/zh_CN/kid3_qt.po | 
+ | [fi](/f31/language/fi) | 2952 | 3108 | 95.0 | /mnt/stockage/packages/f31/kid3/translations/po/fi/kid3_qt.po | 
+ | [pl](/f31/language/pl) | 2772 | 3108 | 89.2 | /mnt/stockage/packages/f31/kid3/translations/po/pl/kid3_qt.po | 
+ | [tr](/f31/language/tr) | 2706 | 3108 | 87.1 | /mnt/stockage/packages/f31/kid3/translations/po/tr/kid3_qt.po | 
+ | [sr](/f31/language/sr) | 2645 | 3085 | 85.7 | /mnt/stockage/packages/f31/kid3/translations/po/sr/kid3_qt.po | 
+ | [sr@ijekavian](/f31/language/sr@ijekavian) | 2641 | 3085 | 85.6 | /mnt/stockage/packages/f31/kid3/translations/po/sr@ijekavian/kid3_qt.po | 
+ | [zh_Hant](/f31/language/zh_Hant) | 2659 | 3108 | 85.6 | /mnt/stockage/packages/f31/kid3/translations/po/zh_TW/kid3_qt.po | 
+ | [sr@ijekavian_Latn](/f31/language/sr@ijekavian_Latn) | 2598 | 3085 | 84.2 | /mnt/stockage/packages/f31/kid3/translations/po/sr@ijekavianlatin/kid3_qt.po | 
+ | [sr_Latn](/f31/language/sr_Latn) | 2598 | 3085 | 84.2 | /mnt/stockage/packages/f31/kid3/translations/po/sr@latin/kid3_qt.po | 
 {.sortable}
 
 

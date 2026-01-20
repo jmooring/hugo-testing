@@ -18,8 +18,8 @@ The package ibus-input-pad (version 1.4.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ja]({{< ref "/f15/language/ja.md" >}}) | 90 | 90 | 100.0 | /mnt/stockage/packages/f15/ibus-input-pad/po/ja.po | 
- | [fr]({{< ref "/f15/language/fr.md" >}}) | 0 | 90 | 0.0 | /mnt/stockage/packages/f15/ibus-input-pad/po/fr.po | 
+ | [ja](/f15/language/ja) | 90 | 90 | 100.0 | /mnt/stockage/packages/f15/ibus-input-pad/po/ja.po | 
+ | [fr](/f15/language/fr) | 0 | 90 | 0.0 | /mnt/stockage/packages/f15/ibus-input-pad/po/fr.po | 
 {.sortable}
 
 

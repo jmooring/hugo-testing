@@ -18,58 +18,58 @@ The package python-SecretStorage (version 3.3.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [an]({{< ref "/f37/language/an.md" >}}) | 59 | 59 | 100.0 | /mnt/stockage/packages/f37/python-SecretStorage/po/an.po | 
- | [ar]({{< ref "/f37/language/ar.md" >}}) | 59 | 59 | 100.0 | /mnt/stockage/packages/f37/python-SecretStorage/po/ar.po | 
- | [as]({{< ref "/f37/language/as.md" >}}) | 59 | 59 | 100.0 | /mnt/stockage/packages/f37/python-SecretStorage/po/as.po | 
- | [be]({{< ref "/f37/language/be.md" >}}) | 59 | 59 | 100.0 | /mnt/stockage/packages/f37/python-SecretStorage/po/be.po | 
- | [bg]({{< ref "/f37/language/bg.md" >}}) | 59 | 59 | 100.0 | /mnt/stockage/packages/f37/python-SecretStorage/po/bg.po | 
- | [bs]({{< ref "/f37/language/bs.md" >}}) | 59 | 59 | 100.0 | /mnt/stockage/packages/f37/python-SecretStorage/po/bs.po | 
- | [ca]({{< ref "/f37/language/ca.md" >}}) | 59 | 59 | 100.0 | /mnt/stockage/packages/f37/python-SecretStorage/po/ca.po | 
- | [ca@valencia]({{< ref "/f37/language/ca@valencia.md" >}}) | 59 | 59 | 100.0 | /mnt/stockage/packages/f37/python-SecretStorage/po/ca@valencia.po | 
- | [ckb]({{< ref "/f37/language/ckb.md" >}}) | 59 | 59 | 100.0 | /mnt/stockage/packages/f37/python-SecretStorage/po/ckb.po | 
- | [cs]({{< ref "/f37/language/cs.md" >}}) | 59 | 59 | 100.0 | /mnt/stockage/packages/f37/python-SecretStorage/po/cs.po | 
- | [da]({{< ref "/f37/language/da.md" >}}) | 59 | 59 | 100.0 | /mnt/stockage/packages/f37/python-SecretStorage/po/da.po | 
- | [de]({{< ref "/f37/language/de.md" >}}) | 59 | 59 | 100.0 | /mnt/stockage/packages/f37/python-SecretStorage/po/de.po | 
- | [el]({{< ref "/f37/language/el.md" >}}) | 59 | 59 | 100.0 | /mnt/stockage/packages/f37/python-SecretStorage/po/el.po | 
- | [en_GB]({{< ref "/f37/language/en_GB.md" >}}) | 59 | 59 | 100.0 | /mnt/stockage/packages/f37/python-SecretStorage/po/en_GB.po | 
- | [eo]({{< ref "/f37/language/eo.md" >}}) | 59 | 59 | 100.0 | /mnt/stockage/packages/f37/python-SecretStorage/po/eo.po | 
- | [es]({{< ref "/f37/language/es.md" >}}) | 59 | 59 | 100.0 | /mnt/stockage/packages/f37/python-SecretStorage/po/es.po | 
- | [eu]({{< ref "/f37/language/eu.md" >}}) | 59 | 59 | 100.0 | /mnt/stockage/packages/f37/python-SecretStorage/po/eu.po | 
- | [fa]({{< ref "/f37/language/fa.md" >}}) | 59 | 59 | 100.0 | /mnt/stockage/packages/f37/python-SecretStorage/po/fa.po | 
- | [fr]({{< ref "/f37/language/fr.md" >}}) | 59 | 59 | 100.0 | /mnt/stockage/packages/f37/python-SecretStorage/po/fr.po | 
- | [fur]({{< ref "/f37/language/fur.md" >}}) | 59 | 59 | 100.0 | /mnt/stockage/packages/f37/python-SecretStorage/po/fur.po | 
- | [gl]({{< ref "/f37/language/gl.md" >}}) | 59 | 59 | 100.0 | /mnt/stockage/packages/f37/python-SecretStorage/po/gl.po | 
- | [he]({{< ref "/f37/language/he.md" >}}) | 59 | 59 | 100.0 | /mnt/stockage/packages/f37/python-SecretStorage/po/he.po | 
- | [hr]({{< ref "/f37/language/hr.md" >}}) | 59 | 59 | 100.0 | /mnt/stockage/packages/f37/python-SecretStorage/po/hr.po | 
- | [hu]({{< ref "/f37/language/hu.md" >}}) | 59 | 59 | 100.0 | /mnt/stockage/packages/f37/python-SecretStorage/po/hu.po | 
- | [id]({{< ref "/f37/language/id.md" >}}) | 59 | 59 | 100.0 | /mnt/stockage/packages/f37/python-SecretStorage/po/id.po | 
- | [it]({{< ref "/f37/language/it.md" >}}) | 59 | 59 | 100.0 | /mnt/stockage/packages/f37/python-SecretStorage/po/it.po | 
- | [ja]({{< ref "/f37/language/ja.md" >}}) | 44 | 44 | 100.0 | /mnt/stockage/packages/f37/python-SecretStorage/po/ja.po | 
- | [kk]({{< ref "/f37/language/kk.md" >}}) | 59 | 59 | 100.0 | /mnt/stockage/packages/f37/python-SecretStorage/po/kk.po | 
- | [ko]({{< ref "/f37/language/ko.md" >}}) | 59 | 59 | 100.0 | /mnt/stockage/packages/f37/python-SecretStorage/po/ko.po | 
- | [lt]({{< ref "/f37/language/lt.md" >}}) | 59 | 59 | 100.0 | /mnt/stockage/packages/f37/python-SecretStorage/po/lt.po | 
- | [lv]({{< ref "/f37/language/lv.md" >}}) | 59 | 59 | 100.0 | /mnt/stockage/packages/f37/python-SecretStorage/po/lv.po | 
- | [ml]({{< ref "/f37/language/ml.md" >}}) | 59 | 59 | 100.0 | /mnt/stockage/packages/f37/python-SecretStorage/po/ml.po | 
- | [ms]({{< ref "/f37/language/ms.md" >}}) | 59 | 59 | 100.0 | /mnt/stockage/packages/f37/python-SecretStorage/po/ms.po | 
- | [nb_NO]({{< ref "/f37/language/nb_NO.md" >}}) | 59 | 59 | 100.0 | /mnt/stockage/packages/f37/python-SecretStorage/po/nb.po | 
- | [ne]({{< ref "/f37/language/ne.md" >}}) | 59 | 59 | 100.0 | /mnt/stockage/packages/f37/python-SecretStorage/po/ne.po | 
- | [nl]({{< ref "/f37/language/nl.md" >}}) | 59 | 59 | 100.0 | /mnt/stockage/packages/f37/python-SecretStorage/po/nl.po | 
- | [oc]({{< ref "/f37/language/oc.md" >}}) | 59 | 59 | 100.0 | /mnt/stockage/packages/f37/python-SecretStorage/po/oc.po | 
- | [pa]({{< ref "/f37/language/pa.md" >}}) | 59 | 59 | 100.0 | /mnt/stockage/packages/f37/python-SecretStorage/po/pa.po | 
- | [pl]({{< ref "/f37/language/pl.md" >}}) | 59 | 59 | 100.0 | /mnt/stockage/packages/f37/python-SecretStorage/po/pl.po | 
- | [pt]({{< ref "/f37/language/pt.md" >}}) | 59 | 59 | 100.0 | /mnt/stockage/packages/f37/python-SecretStorage/po/pt.po | 
- | [pt_BR]({{< ref "/f37/language/pt_BR.md" >}}) | 59 | 59 | 100.0 | /mnt/stockage/packages/f37/python-SecretStorage/po/pt_BR.po | 
- | [ro]({{< ref "/f37/language/ro.md" >}}) | 59 | 59 | 100.0 | /mnt/stockage/packages/f37/python-SecretStorage/po/ro.po | 
- | [ru]({{< ref "/f37/language/ru.md" >}}) | 59 | 59 | 100.0 | /mnt/stockage/packages/f37/python-SecretStorage/po/ru.po | 
- | [sk]({{< ref "/f37/language/sk.md" >}}) | 59 | 59 | 100.0 | /mnt/stockage/packages/f37/python-SecretStorage/po/sk.po | 
- | [sl]({{< ref "/f37/language/sl.md" >}}) | 59 | 59 | 100.0 | /mnt/stockage/packages/f37/python-SecretStorage/po/sl.po | 
- | [sr]({{< ref "/f37/language/sr.md" >}}) | 118 | 118 | 100.0 | /mnt/stockage/packages/f37/python-SecretStorage/po/sr@latin.po/mnt/stockage/packages/f37/python-SecretStorage/po/sr.po | 
- | [sv]({{< ref "/f37/language/sv.md" >}}) | 59 | 59 | 100.0 | /mnt/stockage/packages/f37/python-SecretStorage/po/sv.po | 
- | [tg]({{< ref "/f37/language/tg.md" >}}) | 59 | 59 | 100.0 | /mnt/stockage/packages/f37/python-SecretStorage/po/tg.po | 
- | [tr]({{< ref "/f37/language/tr.md" >}}) | 59 | 59 | 100.0 | /mnt/stockage/packages/f37/python-SecretStorage/po/tr.po | 
- | [uk]({{< ref "/f37/language/uk.md" >}}) | 59 | 59 | 100.0 | /mnt/stockage/packages/f37/python-SecretStorage/po/uk.po | 
- | [zh_Hans]({{< ref "/f37/language/zh_Hans.md" >}}) | 59 | 59 | 100.0 | /mnt/stockage/packages/f37/python-SecretStorage/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f37/language/zh_Hant.md" >}}) | 118 | 118 | 100.0 | /mnt/stockage/packages/f37/python-SecretStorage/po/zh_HK.po/mnt/stockage/packages/f37/python-SecretStorage/po/zh_TW.po | 
+ | [an](/f37/language/an) | 59 | 59 | 100.0 | /mnt/stockage/packages/f37/python-SecretStorage/po/an.po | 
+ | [ar](/f37/language/ar) | 59 | 59 | 100.0 | /mnt/stockage/packages/f37/python-SecretStorage/po/ar.po | 
+ | [as](/f37/language/as) | 59 | 59 | 100.0 | /mnt/stockage/packages/f37/python-SecretStorage/po/as.po | 
+ | [be](/f37/language/be) | 59 | 59 | 100.0 | /mnt/stockage/packages/f37/python-SecretStorage/po/be.po | 
+ | [bg](/f37/language/bg) | 59 | 59 | 100.0 | /mnt/stockage/packages/f37/python-SecretStorage/po/bg.po | 
+ | [bs](/f37/language/bs) | 59 | 59 | 100.0 | /mnt/stockage/packages/f37/python-SecretStorage/po/bs.po | 
+ | [ca](/f37/language/ca) | 59 | 59 | 100.0 | /mnt/stockage/packages/f37/python-SecretStorage/po/ca.po | 
+ | [ca@valencia](/f37/language/ca@valencia) | 59 | 59 | 100.0 | /mnt/stockage/packages/f37/python-SecretStorage/po/ca@valencia.po | 
+ | [ckb](/f37/language/ckb) | 59 | 59 | 100.0 | /mnt/stockage/packages/f37/python-SecretStorage/po/ckb.po | 
+ | [cs](/f37/language/cs) | 59 | 59 | 100.0 | /mnt/stockage/packages/f37/python-SecretStorage/po/cs.po | 
+ | [da](/f37/language/da) | 59 | 59 | 100.0 | /mnt/stockage/packages/f37/python-SecretStorage/po/da.po | 
+ | [de](/f37/language/de) | 59 | 59 | 100.0 | /mnt/stockage/packages/f37/python-SecretStorage/po/de.po | 
+ | [el](/f37/language/el) | 59 | 59 | 100.0 | /mnt/stockage/packages/f37/python-SecretStorage/po/el.po | 
+ | [en_GB](/f37/language/en_GB) | 59 | 59 | 100.0 | /mnt/stockage/packages/f37/python-SecretStorage/po/en_GB.po | 
+ | [eo](/f37/language/eo) | 59 | 59 | 100.0 | /mnt/stockage/packages/f37/python-SecretStorage/po/eo.po | 
+ | [es](/f37/language/es) | 59 | 59 | 100.0 | /mnt/stockage/packages/f37/python-SecretStorage/po/es.po | 
+ | [eu](/f37/language/eu) | 59 | 59 | 100.0 | /mnt/stockage/packages/f37/python-SecretStorage/po/eu.po | 
+ | [fa](/f37/language/fa) | 59 | 59 | 100.0 | /mnt/stockage/packages/f37/python-SecretStorage/po/fa.po | 
+ | [fr](/f37/language/fr) | 59 | 59 | 100.0 | /mnt/stockage/packages/f37/python-SecretStorage/po/fr.po | 
+ | [fur](/f37/language/fur) | 59 | 59 | 100.0 | /mnt/stockage/packages/f37/python-SecretStorage/po/fur.po | 
+ | [gl](/f37/language/gl) | 59 | 59 | 100.0 | /mnt/stockage/packages/f37/python-SecretStorage/po/gl.po | 
+ | [he](/f37/language/he) | 59 | 59 | 100.0 | /mnt/stockage/packages/f37/python-SecretStorage/po/he.po | 
+ | [hr](/f37/language/hr) | 59 | 59 | 100.0 | /mnt/stockage/packages/f37/python-SecretStorage/po/hr.po | 
+ | [hu](/f37/language/hu) | 59 | 59 | 100.0 | /mnt/stockage/packages/f37/python-SecretStorage/po/hu.po | 
+ | [id](/f37/language/id) | 59 | 59 | 100.0 | /mnt/stockage/packages/f37/python-SecretStorage/po/id.po | 
+ | [it](/f37/language/it) | 59 | 59 | 100.0 | /mnt/stockage/packages/f37/python-SecretStorage/po/it.po | 
+ | [ja](/f37/language/ja) | 44 | 44 | 100.0 | /mnt/stockage/packages/f37/python-SecretStorage/po/ja.po | 
+ | [kk](/f37/language/kk) | 59 | 59 | 100.0 | /mnt/stockage/packages/f37/python-SecretStorage/po/kk.po | 
+ | [ko](/f37/language/ko) | 59 | 59 | 100.0 | /mnt/stockage/packages/f37/python-SecretStorage/po/ko.po | 
+ | [lt](/f37/language/lt) | 59 | 59 | 100.0 | /mnt/stockage/packages/f37/python-SecretStorage/po/lt.po | 
+ | [lv](/f37/language/lv) | 59 | 59 | 100.0 | /mnt/stockage/packages/f37/python-SecretStorage/po/lv.po | 
+ | [ml](/f37/language/ml) | 59 | 59 | 100.0 | /mnt/stockage/packages/f37/python-SecretStorage/po/ml.po | 
+ | [ms](/f37/language/ms) | 59 | 59 | 100.0 | /mnt/stockage/packages/f37/python-SecretStorage/po/ms.po | 
+ | [nb_NO](/f37/language/nb_NO) | 59 | 59 | 100.0 | /mnt/stockage/packages/f37/python-SecretStorage/po/nb.po | 
+ | [ne](/f37/language/ne) | 59 | 59 | 100.0 | /mnt/stockage/packages/f37/python-SecretStorage/po/ne.po | 
+ | [nl](/f37/language/nl) | 59 | 59 | 100.0 | /mnt/stockage/packages/f37/python-SecretStorage/po/nl.po | 
+ | [oc](/f37/language/oc) | 59 | 59 | 100.0 | /mnt/stockage/packages/f37/python-SecretStorage/po/oc.po | 
+ | [pa](/f37/language/pa) | 59 | 59 | 100.0 | /mnt/stockage/packages/f37/python-SecretStorage/po/pa.po | 
+ | [pl](/f37/language/pl) | 59 | 59 | 100.0 | /mnt/stockage/packages/f37/python-SecretStorage/po/pl.po | 
+ | [pt](/f37/language/pt) | 59 | 59 | 100.0 | /mnt/stockage/packages/f37/python-SecretStorage/po/pt.po | 
+ | [pt_BR](/f37/language/pt_BR) | 59 | 59 | 100.0 | /mnt/stockage/packages/f37/python-SecretStorage/po/pt_BR.po | 
+ | [ro](/f37/language/ro) | 59 | 59 | 100.0 | /mnt/stockage/packages/f37/python-SecretStorage/po/ro.po | 
+ | [ru](/f37/language/ru) | 59 | 59 | 100.0 | /mnt/stockage/packages/f37/python-SecretStorage/po/ru.po | 
+ | [sk](/f37/language/sk) | 59 | 59 | 100.0 | /mnt/stockage/packages/f37/python-SecretStorage/po/sk.po | 
+ | [sl](/f37/language/sl) | 59 | 59 | 100.0 | /mnt/stockage/packages/f37/python-SecretStorage/po/sl.po | 
+ | [sr](/f37/language/sr) | 118 | 118 | 100.0 | /mnt/stockage/packages/f37/python-SecretStorage/po/sr@latin.po/mnt/stockage/packages/f37/python-SecretStorage/po/sr.po | 
+ | [sv](/f37/language/sv) | 59 | 59 | 100.0 | /mnt/stockage/packages/f37/python-SecretStorage/po/sv.po | 
+ | [tg](/f37/language/tg) | 59 | 59 | 100.0 | /mnt/stockage/packages/f37/python-SecretStorage/po/tg.po | 
+ | [tr](/f37/language/tr) | 59 | 59 | 100.0 | /mnt/stockage/packages/f37/python-SecretStorage/po/tr.po | 
+ | [uk](/f37/language/uk) | 59 | 59 | 100.0 | /mnt/stockage/packages/f37/python-SecretStorage/po/uk.po | 
+ | [zh_Hans](/f37/language/zh_Hans) | 59 | 59 | 100.0 | /mnt/stockage/packages/f37/python-SecretStorage/po/zh_CN.po | 
+ | [zh_Hant](/f37/language/zh_Hant) | 118 | 118 | 100.0 | /mnt/stockage/packages/f37/python-SecretStorage/po/zh_HK.po/mnt/stockage/packages/f37/python-SecretStorage/po/zh_TW.po | 
 {.sortable}
 
 

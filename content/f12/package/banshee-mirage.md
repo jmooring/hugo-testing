@@ -18,8 +18,8 @@ The package banshee-mirage (version 0.5.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f12/language/de.md" >}}) | 159 | 159 | 100.0 | /mnt/stockage/packages/f12/banshee-mirage/po/de.po | 
- | [it]({{< ref "/f12/language/it.md" >}}) | 159 | 159 | 100.0 | /mnt/stockage/packages/f12/banshee-mirage/po/it.po | 
+ | [de](/f12/language/de) | 159 | 159 | 100.0 | /mnt/stockage/packages/f12/banshee-mirage/po/de.po | 
+ | [it](/f12/language/it) | 159 | 159 | 100.0 | /mnt/stockage/packages/f12/banshee-mirage/po/it.po | 
 {.sortable}
 
 

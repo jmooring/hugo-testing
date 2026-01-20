@@ -38,9 +38,9 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [alacarte]({{< ref "/f9/package/alacarte.md" >}}) | 42 | 42 | 100.0 | Ido <gnome-ido@lists.mterry.name> | 
- | [gnome-menus]({{< ref "/f9/package/gnome-menus.md" >}}) | 86 | 165 | 52.1 | Ido <gnome-ido@lists.mterry.name> | 
- | [gtk2]({{< ref "/f9/package/gtk2.md" >}}) | 1869 | 12092 | 15.5 | Ido <gnome-ido@lists.mterry.name> | 
+ | [alacarte](/f9/package/alacarte) | 42 | 42 | 100.0 | Ido <gnome-ido@lists.mterry.name> | 
+ | [gnome-menus](/f9/package/gnome-menus) | 86 | 165 | 52.1 | Ido <gnome-ido@lists.mterry.name> | 
+ | [gtk2](/f9/package/gtk2) | 1869 | 12092 | 15.5 | Ido <gnome-ido@lists.mterry.name> | 
 {.sortable}
 
 

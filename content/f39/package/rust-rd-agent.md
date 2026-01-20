@@ -18,11 +18,11 @@ The package rust-rd-agent (version 2.2.5):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f39/language/de.md" >}}) | 997 | 1149 | 86.8 | /mnt/stockage/packages/f39/rust-rd-agent/tools/power/cpupower/po/de.po | 
- | [it]({{< ref "/f39/language/it.md" >}}) | 473 | 1149 | 41.2 | /mnt/stockage/packages/f39/rust-rd-agent/tools/power/cpupower/po/it.po | 
- | [pt]({{< ref "/f39/language/pt.md" >}}) | 473 | 1149 | 41.2 | /mnt/stockage/packages/f39/rust-rd-agent/tools/power/cpupower/po/pt.po | 
- | [cs]({{< ref "/f39/language/cs.md" >}}) | 394 | 1149 | 34.3 | /mnt/stockage/packages/f39/rust-rd-agent/tools/power/cpupower/po/cs.po | 
- | [fr]({{< ref "/f39/language/fr.md" >}}) | 394 | 1149 | 34.3 | /mnt/stockage/packages/f39/rust-rd-agent/tools/power/cpupower/po/fr.po | 
+ | [de](/f39/language/de) | 997 | 1149 | 86.8 | /mnt/stockage/packages/f39/rust-rd-agent/tools/power/cpupower/po/de.po | 
+ | [it](/f39/language/it) | 473 | 1149 | 41.2 | /mnt/stockage/packages/f39/rust-rd-agent/tools/power/cpupower/po/it.po | 
+ | [pt](/f39/language/pt) | 473 | 1149 | 41.2 | /mnt/stockage/packages/f39/rust-rd-agent/tools/power/cpupower/po/pt.po | 
+ | [cs](/f39/language/cs) | 394 | 1149 | 34.3 | /mnt/stockage/packages/f39/rust-rd-agent/tools/power/cpupower/po/cs.po | 
+ | [fr](/f39/language/fr) | 394 | 1149 | 34.3 | /mnt/stockage/packages/f39/rust-rd-agent/tools/power/cpupower/po/fr.po | 
 {.sortable}
 
 

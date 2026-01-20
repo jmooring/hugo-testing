@@ -18,9 +18,9 @@ The package php-xcache (version 3.2.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [zh_Hans]({{< ref "/f23/language/zh_Hans.md" >}}) | 694 | 756 | 91.8 | /mnt/stockage/packages/f23/php-xcache/htdocs/cacher/lang/zh-simplified.po/mnt/stockage/packages/f23/php-xcache/htdocs/common/lang/zh-simplified.po/mnt/stockage/packages/f23/php-xcache/htdocs/coverager/lang/zh-simplified.po/mnt/stockage/packages/f23/php-xcache/htdocs/diagnosis/lang/zh-simplified.po | 
- | [zh_Hant]({{< ref "/f23/language/zh_Hant.md" >}}) | 125 | 756 | 16.5 | /mnt/stockage/packages/f23/php-xcache/htdocs/cacher/lang/zh-traditional.po/mnt/stockage/packages/f23/php-xcache/htdocs/common/lang/zh-traditional.po/mnt/stockage/packages/f23/php-xcache/htdocs/coverager/lang/zh-traditional.po/mnt/stockage/packages/f23/php-xcache/htdocs/diagnosis/lang/zh-traditional.po | 
- | [en]({{< ref "/f23/language/en.md" >}}) | 81 | 756 | 10.7 | /mnt/stockage/packages/f23/php-xcache/htdocs/cacher/lang/en.po/mnt/stockage/packages/f23/php-xcache/htdocs/common/lang/en.po/mnt/stockage/packages/f23/php-xcache/htdocs/coverager/lang/en.po/mnt/stockage/packages/f23/php-xcache/htdocs/diagnosis/lang/en.po | 
+ | [zh_Hans](/f23/language/zh_Hans) | 694 | 756 | 91.8 | /mnt/stockage/packages/f23/php-xcache/htdocs/cacher/lang/zh-simplified.po/mnt/stockage/packages/f23/php-xcache/htdocs/common/lang/zh-simplified.po/mnt/stockage/packages/f23/php-xcache/htdocs/coverager/lang/zh-simplified.po/mnt/stockage/packages/f23/php-xcache/htdocs/diagnosis/lang/zh-simplified.po | 
+ | [zh_Hant](/f23/language/zh_Hant) | 125 | 756 | 16.5 | /mnt/stockage/packages/f23/php-xcache/htdocs/cacher/lang/zh-traditional.po/mnt/stockage/packages/f23/php-xcache/htdocs/common/lang/zh-traditional.po/mnt/stockage/packages/f23/php-xcache/htdocs/coverager/lang/zh-traditional.po/mnt/stockage/packages/f23/php-xcache/htdocs/diagnosis/lang/zh-traditional.po | 
+ | [en](/f23/language/en) | 81 | 756 | 10.7 | /mnt/stockage/packages/f23/php-xcache/htdocs/cacher/lang/en.po/mnt/stockage/packages/f23/php-xcache/htdocs/common/lang/en.po/mnt/stockage/packages/f23/php-xcache/htdocs/coverager/lang/en.po/mnt/stockage/packages/f23/php-xcache/htdocs/diagnosis/lang/en.po | 
 {.sortable}
 
 

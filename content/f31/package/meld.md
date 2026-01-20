@@ -18,51 +18,51 @@ The package meld (version 3.20.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [bg]({{< ref "/f31/language/bg.md" >}}) | 1256 | 1256 | 100.0 | /mnt/stockage/packages/f31/meld/po/bg.po | 
- | [bs]({{< ref "/f31/language/bs.md" >}}) | 2471 | 2471 | 100.0 | /mnt/stockage/packages/f31/meld/po/bs.po | 
- | [cs]({{< ref "/f31/language/cs.md" >}}) | 6130 | 6130 | 100.0 | /mnt/stockage/packages/f31/meld/help/cs/cs.po/mnt/stockage/packages/f31/meld/po/cs.po | 
- | [da]({{< ref "/f31/language/da.md" >}}) | 2745 | 2745 | 100.0 | /mnt/stockage/packages/f31/meld/po/da.po | 
- | [de]({{< ref "/f31/language/de.md" >}}) | 6126 | 6126 | 100.0 | /mnt/stockage/packages/f31/meld/help/de/de.po/mnt/stockage/packages/f31/meld/po/de.po | 
- | [dz]({{< ref "/f31/language/dz.md" >}}) | 849 | 849 | 100.0 | /mnt/stockage/packages/f31/meld/po/dz.po | 
- | [el]({{< ref "/f31/language/el.md" >}}) | 5524 | 5524 | 100.0 | /mnt/stockage/packages/f31/meld/help/el/el.po/mnt/stockage/packages/f31/meld/po/el.po | 
- | [en_CA]({{< ref "/f31/language/en_CA.md" >}}) | 871 | 871 | 100.0 | /mnt/stockage/packages/f31/meld/po/en_CA.po | 
- | [en_GB]({{< ref "/f31/language/en_GB.md" >}}) | 849 | 849 | 100.0 | /mnt/stockage/packages/f31/meld/po/en_GB.po | 
- | [es]({{< ref "/f31/language/es.md" >}}) | 6130 | 6130 | 100.0 | /mnt/stockage/packages/f31/meld/help/es/es.po/mnt/stockage/packages/f31/meld/po/es.po | 
- | [fr]({{< ref "/f31/language/fr.md" >}}) | 2729 | 2729 | 100.0 | /mnt/stockage/packages/f31/meld/po/fr.po | 
- | [gl]({{< ref "/f31/language/gl.md" >}}) | 2672 | 2672 | 100.0 | /mnt/stockage/packages/f31/meld/po/gl.po | 
- | [he]({{< ref "/f31/language/he.md" >}}) | 2264 | 2264 | 100.0 | /mnt/stockage/packages/f31/meld/po/he.po | 
- | [hu]({{< ref "/f31/language/hu.md" >}}) | 2734 | 2734 | 100.0 | /mnt/stockage/packages/f31/meld/po/hu.po | 
- | [id]({{< ref "/f31/language/id.md" >}}) | 2734 | 2734 | 100.0 | /mnt/stockage/packages/f31/meld/po/id.po | 
- | [it]({{< ref "/f31/language/it.md" >}}) | 2734 | 2734 | 100.0 | /mnt/stockage/packages/f31/meld/po/it.po | 
- | [ko]({{< ref "/f31/language/ko.md" >}}) | 865 | 865 | 100.0 | /mnt/stockage/packages/f31/meld/po/ko.po | 
- | [ne]({{< ref "/f31/language/ne.md" >}}) | 865 | 865 | 100.0 | /mnt/stockage/packages/f31/meld/po/ne.po | 
- | [nl]({{< ref "/f31/language/nl.md" >}}) | 883 | 883 | 100.0 | /mnt/stockage/packages/f31/meld/po/nl.po | 
- | [pl]({{< ref "/f31/language/pl.md" >}}) | 6130 | 6130 | 100.0 | /mnt/stockage/packages/f31/meld/help/pl/pl.po/mnt/stockage/packages/f31/meld/po/pl.po | 
- | [pt]({{< ref "/f31/language/pt.md" >}}) | 2659 | 2659 | 100.0 | /mnt/stockage/packages/f31/meld/po/pt.po | 
- | [pt_BR]({{< ref "/f31/language/pt_BR.md" >}}) | 2734 | 2734 | 100.0 | /mnt/stockage/packages/f31/meld/po/pt_BR.po | 
- | [sk]({{< ref "/f31/language/sk.md" >}}) | 2128 | 2128 | 100.0 | /mnt/stockage/packages/f31/meld/po/sk.po | 
- | [sr]({{< ref "/f31/language/sr.md" >}}) | 5282 | 5282 | 100.0 | /mnt/stockage/packages/f31/meld/po/sr@latin.po/mnt/stockage/packages/f31/meld/po/sr.po | 
- | [sv]({{< ref "/f31/language/sv.md" >}}) | 6130 | 6130 | 100.0 | /mnt/stockage/packages/f31/meld/help/sv/sv.po/mnt/stockage/packages/f31/meld/po/sv.po | 
- | [tr]({{< ref "/f31/language/tr.md" >}}) | 2730 | 2730 | 100.0 | /mnt/stockage/packages/f31/meld/po/tr.po | 
- | [zh_Hant]({{< ref "/f31/language/zh_Hant.md" >}}) | 2745 | 2745 | 100.0 | /mnt/stockage/packages/f31/meld/po/zh_TW.po | 
- | [uk]({{< ref "/f31/language/uk.md" >}}) | 848 | 849 | 99.9 | /mnt/stockage/packages/f31/meld/po/uk.po | 
- | [eu]({{< ref "/f31/language/eu.md" >}}) | 2719 | 2734 | 99.5 | /mnt/stockage/packages/f31/meld/po/eu.po | 
- | [ca@valencia]({{< ref "/f31/language/ca@valencia.md" >}}) | 2274 | 2296 | 99.0 | /mnt/stockage/packages/f31/meld/po/ca@valencia.po | 
- | [ru]({{< ref "/f31/language/ru.md" >}}) | 2078 | 2232 | 93.1 | /mnt/stockage/packages/f31/meld/po/ru.po | 
- | [vi]({{< ref "/f31/language/vi.md" >}}) | 1132 | 1256 | 90.1 | /mnt/stockage/packages/f31/meld/po/vi.po | 
- | [ca]({{< ref "/f31/language/ca.md" >}}) | 2013 | 2641 | 76.2 | /mnt/stockage/packages/f31/meld/po/ca.po | 
- | [ja]({{< ref "/f31/language/ja.md" >}}) | 2018 | 2730 | 73.9 | /mnt/stockage/packages/f31/meld/po/ja.po | 
- | [zh_Hans]({{< ref "/f31/language/zh_Hans.md" >}}) | 1516 | 2125 | 71.3 | /mnt/stockage/packages/f31/meld/po/zh_CN.po | 
- | [sq]({{< ref "/f31/language/sq.md" >}}) | 673 | 974 | 69.1 | /mnt/stockage/packages/f31/meld/po/sq.po | 
- | [fi]({{< ref "/f31/language/fi.md" >}}) | 1648 | 2745 | 60.0 | /mnt/stockage/packages/f31/meld/po/fi.po | 
- | [sl]({{< ref "/f31/language/sl.md" >}}) | 1567 | 2745 | 57.1 | /mnt/stockage/packages/f31/meld/po/sl.po | 
- | [oc]({{< ref "/f31/language/oc.md" >}}) | 1226 | 2659 | 46.1 | /mnt/stockage/packages/f31/meld/po/oc.po | 
- | [pa]({{< ref "/f31/language/pa.md" >}}) | 254 | 763 | 33.3 | /mnt/stockage/packages/f31/meld/po/pa.po | 
- | [ro]({{< ref "/f31/language/ro.md" >}}) | 580 | 2641 | 22.0 | /mnt/stockage/packages/f31/meld/po/ro.po | 
- | [nb_NO]({{< ref "/f31/language/nb_NO.md" >}}) | 218 | 1256 | 17.4 | /mnt/stockage/packages/f31/meld/po/nb.po | 
- | [eo]({{< ref "/f31/language/eo.md" >}}) | 330 | 2667 | 12.4 | /mnt/stockage/packages/f31/meld/po/eo.po | 
- | [ar]({{< ref "/f31/language/ar.md" >}}) | 41 | 916 | 4.5 | /mnt/stockage/packages/f31/meld/po/ar.po | 
- | [rw]({{< ref "/f31/language/rw.md" >}}) | 32 | 956 | 3.3 | /mnt/stockage/packages/f31/meld/po/rw.po | 
+ | [bg](/f31/language/bg) | 1256 | 1256 | 100.0 | /mnt/stockage/packages/f31/meld/po/bg.po | 
+ | [bs](/f31/language/bs) | 2471 | 2471 | 100.0 | /mnt/stockage/packages/f31/meld/po/bs.po | 
+ | [cs](/f31/language/cs) | 6130 | 6130 | 100.0 | /mnt/stockage/packages/f31/meld/help/cs/cs.po/mnt/stockage/packages/f31/meld/po/cs.po | 
+ | [da](/f31/language/da) | 2745 | 2745 | 100.0 | /mnt/stockage/packages/f31/meld/po/da.po | 
+ | [de](/f31/language/de) | 6126 | 6126 | 100.0 | /mnt/stockage/packages/f31/meld/help/de/de.po/mnt/stockage/packages/f31/meld/po/de.po | 
+ | [dz](/f31/language/dz) | 849 | 849 | 100.0 | /mnt/stockage/packages/f31/meld/po/dz.po | 
+ | [el](/f31/language/el) | 5524 | 5524 | 100.0 | /mnt/stockage/packages/f31/meld/help/el/el.po/mnt/stockage/packages/f31/meld/po/el.po | 
+ | [en_CA](/f31/language/en_CA) | 871 | 871 | 100.0 | /mnt/stockage/packages/f31/meld/po/en_CA.po | 
+ | [en_GB](/f31/language/en_GB) | 849 | 849 | 100.0 | /mnt/stockage/packages/f31/meld/po/en_GB.po | 
+ | [es](/f31/language/es) | 6130 | 6130 | 100.0 | /mnt/stockage/packages/f31/meld/help/es/es.po/mnt/stockage/packages/f31/meld/po/es.po | 
+ | [fr](/f31/language/fr) | 2729 | 2729 | 100.0 | /mnt/stockage/packages/f31/meld/po/fr.po | 
+ | [gl](/f31/language/gl) | 2672 | 2672 | 100.0 | /mnt/stockage/packages/f31/meld/po/gl.po | 
+ | [he](/f31/language/he) | 2264 | 2264 | 100.0 | /mnt/stockage/packages/f31/meld/po/he.po | 
+ | [hu](/f31/language/hu) | 2734 | 2734 | 100.0 | /mnt/stockage/packages/f31/meld/po/hu.po | 
+ | [id](/f31/language/id) | 2734 | 2734 | 100.0 | /mnt/stockage/packages/f31/meld/po/id.po | 
+ | [it](/f31/language/it) | 2734 | 2734 | 100.0 | /mnt/stockage/packages/f31/meld/po/it.po | 
+ | [ko](/f31/language/ko) | 865 | 865 | 100.0 | /mnt/stockage/packages/f31/meld/po/ko.po | 
+ | [ne](/f31/language/ne) | 865 | 865 | 100.0 | /mnt/stockage/packages/f31/meld/po/ne.po | 
+ | [nl](/f31/language/nl) | 883 | 883 | 100.0 | /mnt/stockage/packages/f31/meld/po/nl.po | 
+ | [pl](/f31/language/pl) | 6130 | 6130 | 100.0 | /mnt/stockage/packages/f31/meld/help/pl/pl.po/mnt/stockage/packages/f31/meld/po/pl.po | 
+ | [pt](/f31/language/pt) | 2659 | 2659 | 100.0 | /mnt/stockage/packages/f31/meld/po/pt.po | 
+ | [pt_BR](/f31/language/pt_BR) | 2734 | 2734 | 100.0 | /mnt/stockage/packages/f31/meld/po/pt_BR.po | 
+ | [sk](/f31/language/sk) | 2128 | 2128 | 100.0 | /mnt/stockage/packages/f31/meld/po/sk.po | 
+ | [sr](/f31/language/sr) | 5282 | 5282 | 100.0 | /mnt/stockage/packages/f31/meld/po/sr@latin.po/mnt/stockage/packages/f31/meld/po/sr.po | 
+ | [sv](/f31/language/sv) | 6130 | 6130 | 100.0 | /mnt/stockage/packages/f31/meld/help/sv/sv.po/mnt/stockage/packages/f31/meld/po/sv.po | 
+ | [tr](/f31/language/tr) | 2730 | 2730 | 100.0 | /mnt/stockage/packages/f31/meld/po/tr.po | 
+ | [zh_Hant](/f31/language/zh_Hant) | 2745 | 2745 | 100.0 | /mnt/stockage/packages/f31/meld/po/zh_TW.po | 
+ | [uk](/f31/language/uk) | 848 | 849 | 99.9 | /mnt/stockage/packages/f31/meld/po/uk.po | 
+ | [eu](/f31/language/eu) | 2719 | 2734 | 99.5 | /mnt/stockage/packages/f31/meld/po/eu.po | 
+ | [ca@valencia](/f31/language/ca@valencia) | 2274 | 2296 | 99.0 | /mnt/stockage/packages/f31/meld/po/ca@valencia.po | 
+ | [ru](/f31/language/ru) | 2078 | 2232 | 93.1 | /mnt/stockage/packages/f31/meld/po/ru.po | 
+ | [vi](/f31/language/vi) | 1132 | 1256 | 90.1 | /mnt/stockage/packages/f31/meld/po/vi.po | 
+ | [ca](/f31/language/ca) | 2013 | 2641 | 76.2 | /mnt/stockage/packages/f31/meld/po/ca.po | 
+ | [ja](/f31/language/ja) | 2018 | 2730 | 73.9 | /mnt/stockage/packages/f31/meld/po/ja.po | 
+ | [zh_Hans](/f31/language/zh_Hans) | 1516 | 2125 | 71.3 | /mnt/stockage/packages/f31/meld/po/zh_CN.po | 
+ | [sq](/f31/language/sq) | 673 | 974 | 69.1 | /mnt/stockage/packages/f31/meld/po/sq.po | 
+ | [fi](/f31/language/fi) | 1648 | 2745 | 60.0 | /mnt/stockage/packages/f31/meld/po/fi.po | 
+ | [sl](/f31/language/sl) | 1567 | 2745 | 57.1 | /mnt/stockage/packages/f31/meld/po/sl.po | 
+ | [oc](/f31/language/oc) | 1226 | 2659 | 46.1 | /mnt/stockage/packages/f31/meld/po/oc.po | 
+ | [pa](/f31/language/pa) | 254 | 763 | 33.3 | /mnt/stockage/packages/f31/meld/po/pa.po | 
+ | [ro](/f31/language/ro) | 580 | 2641 | 22.0 | /mnt/stockage/packages/f31/meld/po/ro.po | 
+ | [nb_NO](/f31/language/nb_NO) | 218 | 1256 | 17.4 | /mnt/stockage/packages/f31/meld/po/nb.po | 
+ | [eo](/f31/language/eo) | 330 | 2667 | 12.4 | /mnt/stockage/packages/f31/meld/po/eo.po | 
+ | [ar](/f31/language/ar) | 41 | 916 | 4.5 | /mnt/stockage/packages/f31/meld/po/ar.po | 
+ | [rw](/f31/language/rw) | 32 | 956 | 3.3 | /mnt/stockage/packages/f31/meld/po/rw.po | 
 {.sortable}
 
 

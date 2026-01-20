@@ -38,13 +38,13 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [dopewars]({{< ref "/f18/package/dopewars.md" >}}) | 5286 | 5286 | 100.0 | French | 
- | [soundconverter]({{< ref "/f18/package/soundconverter.md" >}}) | 459 | 462 | 99.4 | French (Canada) <fr_CA@li.org> | 
- | [cinnamon]({{< ref "/f18/package/cinnamon.md" >}}) | 1240 | 1696 | 73.1 | French (Canada) <fr_CA@li.org> | 
- | [picard]({{< ref "/f18/package/picard.md" >}}) | 157 | 1681 | 9.3 | French (Canada) (http://www.transifex.com/projects/p/musicbrainz/language/fr_CA/) | 
- | [supertuxkart]({{< ref "/f18/package/supertuxkart.md" >}}) | 37 | 1936 | 1.9 |  | 
- | [calibre]({{< ref "/f18/package/calibre.md" >}}) | 667 | 44338 | 1.5 | French (Canada) <fr_CA@li.org> | 
- | [pidgin-sipe]({{< ref "/f18/package/pidgin-sipe.md" >}}) | 0 | 899 | 0.0 | French (Canada) (http://www.transifex.com/projects/p/pidgin-sipe/language/fr_CA/) | 
+ | [dopewars](/f18/package/dopewars) | 5286 | 5286 | 100.0 | French | 
+ | [soundconverter](/f18/package/soundconverter) | 459 | 462 | 99.4 | French (Canada) <fr_CA@li.org> | 
+ | [cinnamon](/f18/package/cinnamon) | 1240 | 1696 | 73.1 | French (Canada) <fr_CA@li.org> | 
+ | [picard](/f18/package/picard) | 157 | 1681 | 9.3 | French (Canada) (http://www.transifex.com/projects/p/musicbrainz/language/fr_CA/) | 
+ | [supertuxkart](/f18/package/supertuxkart) | 37 | 1936 | 1.9 |  | 
+ | [calibre](/f18/package/calibre) | 667 | 44338 | 1.5 | French (Canada) <fr_CA@li.org> | 
+ | [pidgin-sipe](/f18/package/pidgin-sipe) | 0 | 899 | 0.0 | French (Canada) (http://www.transifex.com/projects/p/pidgin-sipe/language/fr_CA/) | 
 {.sortable}
 
 

@@ -18,12 +18,12 @@ The package wastesedge (version 0.3.7):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [da]({{< ref "/f29/language/da.md" >}}) | 20101 | 20101 | 100.0 | /mnt/stockage/packages/f29/wastesedge/po/da.po | 
- | [nl]({{< ref "/f29/language/nl.md" >}}) | 20101 | 20101 | 100.0 | /mnt/stockage/packages/f29/wastesedge/po/nl.po | 
- | [sv]({{< ref "/f29/language/sv.md" >}}) | 20101 | 20101 | 100.0 | /mnt/stockage/packages/f29/wastesedge/po/sv.po | 
- | [it]({{< ref "/f29/language/it.md" >}}) | 19921 | 20101 | 99.1 | /mnt/stockage/packages/f29/wastesedge/po/it.po | 
- | [es]({{< ref "/f29/language/es.md" >}}) | 9484 | 20101 | 47.2 | /mnt/stockage/packages/f29/wastesedge/po/es.po | 
- | [fr]({{< ref "/f29/language/fr.md" >}}) | 897 | 20101 | 4.5 | /mnt/stockage/packages/f29/wastesedge/po/fr.po | 
+ | [da](/f29/language/da) | 20101 | 20101 | 100.0 | /mnt/stockage/packages/f29/wastesedge/po/da.po | 
+ | [nl](/f29/language/nl) | 20101 | 20101 | 100.0 | /mnt/stockage/packages/f29/wastesedge/po/nl.po | 
+ | [sv](/f29/language/sv) | 20101 | 20101 | 100.0 | /mnt/stockage/packages/f29/wastesedge/po/sv.po | 
+ | [it](/f29/language/it) | 19921 | 20101 | 99.1 | /mnt/stockage/packages/f29/wastesedge/po/it.po | 
+ | [es](/f29/language/es) | 9484 | 20101 | 47.2 | /mnt/stockage/packages/f29/wastesedge/po/es.po | 
+ | [fr](/f29/language/fr) | 897 | 20101 | 4.5 | /mnt/stockage/packages/f29/wastesedge/po/fr.po | 
 {.sortable}
 
 

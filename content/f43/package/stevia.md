@@ -18,8 +18,8 @@ The package stevia (version 0.50.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f43/language/ar.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f43/stevia/po/ar.po | 
- | [de]({{< ref "/f43/language/de.md" >}}) | 61 | 67 | 91.0 | /mnt/stockage/packages/f43/stevia/po/fa.po/mnt/stockage/packages/f43/stevia/po/de.po | 
+ | [ar](/f43/language/ar) | 24 | 24 | 100.0 | /mnt/stockage/packages/f43/stevia/po/ar.po | 
+ | [de](/f43/language/de) | 61 | 67 | 91.0 | /mnt/stockage/packages/f43/stevia/po/fa.po/mnt/stockage/packages/f43/stevia/po/de.po | 
 {.sortable}
 
 

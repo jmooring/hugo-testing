@@ -18,9 +18,9 @@ The package PyXML (version 0.8.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f7/language/de.md" >}}) | 115 | 115 | 100.0 | /mnt/stockage/packages/f7/PyXML/xml/dom/de.po | 
- | [fr]({{< ref "/f7/language/fr.md" >}}) | 115 | 115 | 100.0 | /mnt/stockage/packages/f7/PyXML/xml/dom/fr.po | 
- | [en_US]({{< ref "/f7/language/en_US.md" >}}) | 0 | 115 | 0.0 | /mnt/stockage/packages/f7/PyXML/xml/dom/en_US.po | 
+ | [de](/f7/language/de) | 115 | 115 | 100.0 | /mnt/stockage/packages/f7/PyXML/xml/dom/de.po | 
+ | [fr](/f7/language/fr) | 115 | 115 | 100.0 | /mnt/stockage/packages/f7/PyXML/xml/dom/fr.po | 
+ | [en_US](/f7/language/en_US) | 0 | 115 | 0.0 | /mnt/stockage/packages/f7/PyXML/xml/dom/en_US.po | 
 {.sortable}
 
 

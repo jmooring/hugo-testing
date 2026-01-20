@@ -18,10 +18,10 @@ The package drupal6-votingapi (version 2.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f17/language/fr.md" >}}) | 380 | 380 | 100.0 | /mnt/stockage/packages/f17/drupal6-votingapi/translations/fr.po | 
- | [ja]({{< ref "/f17/language/ja.md" >}}) | 169 | 169 | 100.0 | /mnt/stockage/packages/f17/drupal6-votingapi/translations/ja.po | 
- | [nl]({{< ref "/f17/language/nl.md" >}}) | 380 | 380 | 100.0 | /mnt/stockage/packages/f17/drupal6-votingapi/translations/nl.po | 
- | [uk]({{< ref "/f17/language/uk.md" >}}) | 316 | 316 | 100.0 | /mnt/stockage/packages/f17/drupal6-votingapi/translations/uk.po/mnt/stockage/packages/f17/drupal6-votingapi/translations/uk-ua.po | 
+ | [fr](/f17/language/fr) | 380 | 380 | 100.0 | /mnt/stockage/packages/f17/drupal6-votingapi/translations/fr.po | 
+ | [ja](/f17/language/ja) | 169 | 169 | 100.0 | /mnt/stockage/packages/f17/drupal6-votingapi/translations/ja.po | 
+ | [nl](/f17/language/nl) | 380 | 380 | 100.0 | /mnt/stockage/packages/f17/drupal6-votingapi/translations/nl.po | 
+ | [uk](/f17/language/uk) | 316 | 316 | 100.0 | /mnt/stockage/packages/f17/drupal6-votingapi/translations/uk.po/mnt/stockage/packages/f17/drupal6-votingapi/translations/uk-ua.po | 
 {.sortable}
 
 

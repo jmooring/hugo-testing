@@ -18,17 +18,17 @@ The package scribus (version 1.3.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [el]({{< ref "/f9/language/el.md" >}}) | 14425 | 14425 | 100.0 | /mnt/stockage/packages/f9/scribus/scribus/po/scribus.el.po | 
- | [pt_BR]({{< ref "/f9/language/pt_BR.md" >}}) | 14941 | 14941 | 100.0 | /mnt/stockage/packages/f9/scribus/scribus/po/scribus.pt_BR.po | 
- | [br]({{< ref "/f9/language/br.md" >}}) | 14805 | 14941 | 99.1 | /mnt/stockage/packages/f9/scribus/scribus/po/scribus.br.po | 
- | [error]({{< ref "/f9/language/error.md" >}}) | 10769 | 14941 | 72.1 | /mnt/stockage/packages/f9/scribus/scribus/po/scribus.frpo.po | 
- | [it]({{< ref "/f9/language/it.md" >}}) | 10296 | 14941 | 68.9 | /mnt/stockage/packages/f9/scribus/scribus/po/scribus.it.po | 
- | [dz]({{< ref "/f9/language/dz.md" >}}) | 4802 | 14941 | 32.1 | /mnt/stockage/packages/f9/scribus/scribus/po/scribus.dz.po | 
- | [eo]({{< ref "/f9/language/eo.md" >}}) | 4227 | 14941 | 28.3 | /mnt/stockage/packages/f9/scribus/scribus/po/scribus.eo.po | 
- | [es]({{< ref "/f9/language/es.md" >}}) | 581 | 14941 | 3.9 | /mnt/stockage/packages/f9/scribus/scribus/po/scribus.es_LA.po | 
- | [lt]({{< ref "/f9/language/lt.md" >}}) | 581 | 14941 | 3.9 | /mnt/stockage/packages/f9/scribus/scribus/po/scribus.lt_LT.po | 
- | [ko]({{< ref "/f9/language/ko.md" >}}) | 222 | 14941 | 1.5 | /mnt/stockage/packages/f9/scribus/scribus/po/scribus.ko.po | 
- | [bg]({{< ref "/f9/language/bg.md" >}}) | 210 | 14941 | 1.4 | /mnt/stockage/packages/f9/scribus/scribus/po/scribus.bg_BG.po | 
+ | [el](/f9/language/el) | 14425 | 14425 | 100.0 | /mnt/stockage/packages/f9/scribus/scribus/po/scribus.el.po | 
+ | [pt_BR](/f9/language/pt_BR) | 14941 | 14941 | 100.0 | /mnt/stockage/packages/f9/scribus/scribus/po/scribus.pt_BR.po | 
+ | [br](/f9/language/br) | 14805 | 14941 | 99.1 | /mnt/stockage/packages/f9/scribus/scribus/po/scribus.br.po | 
+ | [error](/f9/language/error) | 10769 | 14941 | 72.1 | /mnt/stockage/packages/f9/scribus/scribus/po/scribus.frpo.po | 
+ | [it](/f9/language/it) | 10296 | 14941 | 68.9 | /mnt/stockage/packages/f9/scribus/scribus/po/scribus.it.po | 
+ | [dz](/f9/language/dz) | 4802 | 14941 | 32.1 | /mnt/stockage/packages/f9/scribus/scribus/po/scribus.dz.po | 
+ | [eo](/f9/language/eo) | 4227 | 14941 | 28.3 | /mnt/stockage/packages/f9/scribus/scribus/po/scribus.eo.po | 
+ | [es](/f9/language/es) | 581 | 14941 | 3.9 | /mnt/stockage/packages/f9/scribus/scribus/po/scribus.es_LA.po | 
+ | [lt](/f9/language/lt) | 581 | 14941 | 3.9 | /mnt/stockage/packages/f9/scribus/scribus/po/scribus.lt_LT.po | 
+ | [ko](/f9/language/ko) | 222 | 14941 | 1.5 | /mnt/stockage/packages/f9/scribus/scribus/po/scribus.ko.po | 
+ | [bg](/f9/language/bg) | 210 | 14941 | 1.4 | /mnt/stockage/packages/f9/scribus/scribus/po/scribus.bg_BG.po | 
 {.sortable}
 
 

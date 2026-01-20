@@ -18,8 +18,8 @@ The package scim-python (version 0.1.13rc1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [zh_Hans]({{< ref "/f12/language/zh_Hans.md" >}}) | 324 | 362 | 89.5 | /mnt/stockage/packages/f12/scim-python/po/zh_CN.po | 
- | [nl]({{< ref "/f12/language/nl.md" >}}) | 52 | 362 | 14.4 | /mnt/stockage/packages/f12/scim-python/po/nl.po | 
+ | [zh_Hans](/f12/language/zh_Hans) | 324 | 362 | 89.5 | /mnt/stockage/packages/f12/scim-python/po/zh_CN.po | 
+ | [nl](/f12/language/nl) | 52 | 362 | 14.4 | /mnt/stockage/packages/f12/scim-python/po/nl.po | 
 {.sortable}
 
 

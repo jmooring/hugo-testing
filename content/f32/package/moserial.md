@@ -18,34 +18,34 @@ The package moserial (version 3.0.16):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [bs]({{< ref "/f32/language/bs.md" >}}) | 545 | 545 | 100.0 | /mnt/stockage/packages/f32/moserial/po/bs.po | 
- | [ca]({{< ref "/f32/language/ca.md" >}}) | 757 | 757 | 100.0 | /mnt/stockage/packages/f32/moserial/po/ca.po | 
- | [cs]({{< ref "/f32/language/cs.md" >}}) | 2398 | 2398 | 100.0 | /mnt/stockage/packages/f32/moserial/doc/cs/cs.po/mnt/stockage/packages/f32/moserial/po/cs.po | 
- | [da]({{< ref "/f32/language/da.md" >}}) | 540 | 540 | 100.0 | /mnt/stockage/packages/f32/moserial/po/da.po | 
- | [de]({{< ref "/f32/language/de.md" >}}) | 2398 | 2398 | 100.0 | /mnt/stockage/packages/f32/moserial/doc/de/de.po/mnt/stockage/packages/f32/moserial/po/de.po | 
- | [el]({{< ref "/f32/language/el.md" >}}) | 2338 | 2338 | 100.0 | /mnt/stockage/packages/f32/moserial/doc/el/el.po/mnt/stockage/packages/f32/moserial/po/el.po | 
- | [es]({{< ref "/f32/language/es.md" >}}) | 2398 | 2398 | 100.0 | /mnt/stockage/packages/f32/moserial/doc/es/es.po/mnt/stockage/packages/f32/moserial/po/es.po | 
- | [fr]({{< ref "/f32/language/fr.md" >}}) | 2336 | 2336 | 100.0 | /mnt/stockage/packages/f32/moserial/doc/fr/fr.po/mnt/stockage/packages/f32/moserial/po/fr.po | 
- | [fur]({{< ref "/f32/language/fur.md" >}}) | 540 | 540 | 100.0 | /mnt/stockage/packages/f32/moserial/po/fur.po | 
- | [gl]({{< ref "/f32/language/gl.md" >}}) | 480 | 480 | 100.0 | /mnt/stockage/packages/f32/moserial/po/gl.po | 
- | [hu]({{< ref "/f32/language/hu.md" >}}) | 545 | 545 | 100.0 | /mnt/stockage/packages/f32/moserial/po/hu.po | 
- | [id]({{< ref "/f32/language/id.md" >}}) | 540 | 540 | 100.0 | /mnt/stockage/packages/f32/moserial/po/id.po | 
- | [it]({{< ref "/f32/language/it.md" >}}) | 540 | 540 | 100.0 | /mnt/stockage/packages/f32/moserial/po/it.po | 
- | [ko]({{< ref "/f32/language/ko.md" >}}) | 757 | 757 | 100.0 | /mnt/stockage/packages/f32/moserial/po/ko.po | 
- | [pl]({{< ref "/f32/language/pl.md" >}}) | 2484 | 2484 | 100.0 | /mnt/stockage/packages/f32/moserial/doc/pl/pl.po/mnt/stockage/packages/f32/moserial/po/pl.po | 
- | [pt_BR]({{< ref "/f32/language/pt_BR.md" >}}) | 627 | 627 | 100.0 | /mnt/stockage/packages/f32/moserial/po/pt_BR.po | 
- | [pt_PT]({{< ref "/f32/language/pt_PT.md" >}}) | 540 | 540 | 100.0 | /mnt/stockage/packages/f32/moserial/po/pt.po | 
- | [ro]({{< ref "/f32/language/ro.md" >}}) | 540 | 540 | 100.0 | /mnt/stockage/packages/f32/moserial/po/ro.po | 
- | [sr]({{< ref "/f32/language/sr.md" >}}) | 1167 | 1167 | 100.0 | /mnt/stockage/packages/f32/moserial/po/sr@latin.po/mnt/stockage/packages/f32/moserial/po/sr.po | 
- | [sv]({{< ref "/f32/language/sv.md" >}}) | 2420 | 2420 | 100.0 | /mnt/stockage/packages/f32/moserial/doc/sv/sv.po/mnt/stockage/packages/f32/moserial/po/sv.po | 
- | [tr]({{< ref "/f32/language/tr.md" >}}) | 540 | 540 | 100.0 | /mnt/stockage/packages/f32/moserial/po/tr.po | 
- | [uk]({{< ref "/f32/language/uk.md" >}}) | 2484 | 2484 | 100.0 | /mnt/stockage/packages/f32/moserial/doc/uk/uk.po/mnt/stockage/packages/f32/moserial/po/uk.po | 
- | [zh_Hans]({{< ref "/f32/language/zh_Hans.md" >}}) | 540 | 540 | 100.0 | /mnt/stockage/packages/f32/moserial/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f32/language/zh_Hant.md" >}}) | 480 | 480 | 100.0 | /mnt/stockage/packages/f32/moserial/po/zh_TW.po | 
- | [ja]({{< ref "/f32/language/ja.md" >}}) | 477 | 540 | 88.3 | /mnt/stockage/packages/f32/moserial/po/ja.po | 
- | [eu]({{< ref "/f32/language/eu.md" >}}) | 251 | 540 | 46.5 | /mnt/stockage/packages/f32/moserial/po/eu.po | 
- | [nb_NO]({{< ref "/f32/language/nb_NO.md" >}}) | 208 | 525 | 39.6 | /mnt/stockage/packages/f32/moserial/po/nb.po | 
- | [sl]({{< ref "/f32/language/sl.md" >}}) | 553 | 2424 | 22.8 | /mnt/stockage/packages/f32/moserial/doc/sl/sl.po/mnt/stockage/packages/f32/moserial/po/sl.po | 
+ | [bs](/f32/language/bs) | 545 | 545 | 100.0 | /mnt/stockage/packages/f32/moserial/po/bs.po | 
+ | [ca](/f32/language/ca) | 757 | 757 | 100.0 | /mnt/stockage/packages/f32/moserial/po/ca.po | 
+ | [cs](/f32/language/cs) | 2398 | 2398 | 100.0 | /mnt/stockage/packages/f32/moserial/doc/cs/cs.po/mnt/stockage/packages/f32/moserial/po/cs.po | 
+ | [da](/f32/language/da) | 540 | 540 | 100.0 | /mnt/stockage/packages/f32/moserial/po/da.po | 
+ | [de](/f32/language/de) | 2398 | 2398 | 100.0 | /mnt/stockage/packages/f32/moserial/doc/de/de.po/mnt/stockage/packages/f32/moserial/po/de.po | 
+ | [el](/f32/language/el) | 2338 | 2338 | 100.0 | /mnt/stockage/packages/f32/moserial/doc/el/el.po/mnt/stockage/packages/f32/moserial/po/el.po | 
+ | [es](/f32/language/es) | 2398 | 2398 | 100.0 | /mnt/stockage/packages/f32/moserial/doc/es/es.po/mnt/stockage/packages/f32/moserial/po/es.po | 
+ | [fr](/f32/language/fr) | 2336 | 2336 | 100.0 | /mnt/stockage/packages/f32/moserial/doc/fr/fr.po/mnt/stockage/packages/f32/moserial/po/fr.po | 
+ | [fur](/f32/language/fur) | 540 | 540 | 100.0 | /mnt/stockage/packages/f32/moserial/po/fur.po | 
+ | [gl](/f32/language/gl) | 480 | 480 | 100.0 | /mnt/stockage/packages/f32/moserial/po/gl.po | 
+ | [hu](/f32/language/hu) | 545 | 545 | 100.0 | /mnt/stockage/packages/f32/moserial/po/hu.po | 
+ | [id](/f32/language/id) | 540 | 540 | 100.0 | /mnt/stockage/packages/f32/moserial/po/id.po | 
+ | [it](/f32/language/it) | 540 | 540 | 100.0 | /mnt/stockage/packages/f32/moserial/po/it.po | 
+ | [ko](/f32/language/ko) | 757 | 757 | 100.0 | /mnt/stockage/packages/f32/moserial/po/ko.po | 
+ | [pl](/f32/language/pl) | 2484 | 2484 | 100.0 | /mnt/stockage/packages/f32/moserial/doc/pl/pl.po/mnt/stockage/packages/f32/moserial/po/pl.po | 
+ | [pt_BR](/f32/language/pt_BR) | 627 | 627 | 100.0 | /mnt/stockage/packages/f32/moserial/po/pt_BR.po | 
+ | [pt_PT](/f32/language/pt_PT) | 540 | 540 | 100.0 | /mnt/stockage/packages/f32/moserial/po/pt.po | 
+ | [ro](/f32/language/ro) | 540 | 540 | 100.0 | /mnt/stockage/packages/f32/moserial/po/ro.po | 
+ | [sr](/f32/language/sr) | 1167 | 1167 | 100.0 | /mnt/stockage/packages/f32/moserial/po/sr@latin.po/mnt/stockage/packages/f32/moserial/po/sr.po | 
+ | [sv](/f32/language/sv) | 2420 | 2420 | 100.0 | /mnt/stockage/packages/f32/moserial/doc/sv/sv.po/mnt/stockage/packages/f32/moserial/po/sv.po | 
+ | [tr](/f32/language/tr) | 540 | 540 | 100.0 | /mnt/stockage/packages/f32/moserial/po/tr.po | 
+ | [uk](/f32/language/uk) | 2484 | 2484 | 100.0 | /mnt/stockage/packages/f32/moserial/doc/uk/uk.po/mnt/stockage/packages/f32/moserial/po/uk.po | 
+ | [zh_Hans](/f32/language/zh_Hans) | 540 | 540 | 100.0 | /mnt/stockage/packages/f32/moserial/po/zh_CN.po | 
+ | [zh_Hant](/f32/language/zh_Hant) | 480 | 480 | 100.0 | /mnt/stockage/packages/f32/moserial/po/zh_TW.po | 
+ | [ja](/f32/language/ja) | 477 | 540 | 88.3 | /mnt/stockage/packages/f32/moserial/po/ja.po | 
+ | [eu](/f32/language/eu) | 251 | 540 | 46.5 | /mnt/stockage/packages/f32/moserial/po/eu.po | 
+ | [nb_NO](/f32/language/nb_NO) | 208 | 525 | 39.6 | /mnt/stockage/packages/f32/moserial/po/nb.po | 
+ | [sl](/f32/language/sl) | 553 | 2424 | 22.8 | /mnt/stockage/packages/f32/moserial/doc/sl/sl.po/mnt/stockage/packages/f32/moserial/po/sl.po | 
 {.sortable}
 
 

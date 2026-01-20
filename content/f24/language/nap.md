@@ -38,9 +38,9 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [midori]({{< ref "/f24/package/midori.md" >}}) | 429 | 3541 | 12.1 | Neapolitan <nap@li.org> | 
- | [gnome-do]({{< ref "/f24/package/gnome-do.md" >}}) | 37 | 612 | 6.0 | Neapolitan <nap@li.org> | 
- | [deluge]({{< ref "/f24/package/deluge.md" >}}) | 82 | 2728 | 3.0 | Neapolitan <nap@li.org> | 
+ | [midori](/f24/package/midori) | 429 | 3541 | 12.1 | Neapolitan <nap@li.org> | 
+ | [gnome-do](/f24/package/gnome-do) | 37 | 612 | 6.0 | Neapolitan <nap@li.org> | 
+ | [deluge](/f24/package/deluge) | 82 | 2728 | 3.0 | Neapolitan <nap@li.org> | 
 {.sortable}
 
 

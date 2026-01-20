@@ -18,7 +18,7 @@ The package poker2d (version 1.2.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f8/language/fr.md" >}}) | 832 | 912 | 91.2 | /mnt/stockage/packages/f8/poker2d/po/fr.po | 
+ | [fr](/f8/language/fr) | 832 | 912 | 91.2 | /mnt/stockage/packages/f8/poker2d/po/fr.po | 
 {.sortable}
 
 

@@ -18,12 +18,12 @@ The package klear (version 0.7.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [it]({{< ref "/f10/language/it.md" >}}) | 1306 | 1306 | 100.0 | /mnt/stockage/packages/f10/klear/po/it.po | 
- | [es]({{< ref "/f10/language/es.md" >}}) | 1317 | 1339 | 98.4 | /mnt/stockage/packages/f10/klear/po/es.po | 
- | [ca]({{< ref "/f10/language/ca.md" >}}) | 1178 | 1339 | 88.0 | /mnt/stockage/packages/f10/klear/po/ca.po | 
- | [de]({{< ref "/f10/language/de.md" >}}) | 1153 | 1339 | 86.1 | /mnt/stockage/packages/f10/klear/po/de.po | 
- | [fr]({{< ref "/f10/language/fr.md" >}}) | 1112 | 1339 | 83.0 | /mnt/stockage/packages/f10/klear/po/fr.po | 
- | [ru]({{< ref "/f10/language/ru.md" >}}) | 1008 | 1339 | 75.3 | /mnt/stockage/packages/f10/klear/po/ru.po | 
+ | [it](/f10/language/it) | 1306 | 1306 | 100.0 | /mnt/stockage/packages/f10/klear/po/it.po | 
+ | [es](/f10/language/es) | 1317 | 1339 | 98.4 | /mnt/stockage/packages/f10/klear/po/es.po | 
+ | [ca](/f10/language/ca) | 1178 | 1339 | 88.0 | /mnt/stockage/packages/f10/klear/po/ca.po | 
+ | [de](/f10/language/de) | 1153 | 1339 | 86.1 | /mnt/stockage/packages/f10/klear/po/de.po | 
+ | [fr](/f10/language/fr) | 1112 | 1339 | 83.0 | /mnt/stockage/packages/f10/klear/po/fr.po | 
+ | [ru](/f10/language/ru) | 1008 | 1339 | 75.3 | /mnt/stockage/packages/f10/klear/po/ru.po | 
 {.sortable}
 
 

@@ -18,12 +18,12 @@ The package classified-ads (version 0.15):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fi]({{< ref "/f35/language/fi.md" >}}) | 2032 | 2032 | 100.0 | /mnt/stockage/packages/f35/classified-ads/po/fi.po | 
- | [uk]({{< ref "/f35/language/uk.md" >}}) | 2025 | 2025 | 100.0 | /mnt/stockage/packages/f35/classified-ads/po/uk.po | 
- | [es]({{< ref "/f35/language/es.md" >}}) | 2026 | 2032 | 99.7 | /mnt/stockage/packages/f35/classified-ads/po/es.po | 
- | [sv]({{< ref "/f35/language/sv.md" >}}) | 1957 | 2032 | 96.3 | /mnt/stockage/packages/f35/classified-ads/po/sv.po | 
- | [da]({{< ref "/f35/language/da.md" >}}) | 1774 | 1950 | 91.0 | /mnt/stockage/packages/f35/classified-ads/po/da.po | 
- | [de]({{< ref "/f35/language/de.md" >}}) | 1152 | 1950 | 59.1 | /mnt/stockage/packages/f35/classified-ads/po/de.po | 
+ | [fi](/f35/language/fi) | 2032 | 2032 | 100.0 | /mnt/stockage/packages/f35/classified-ads/po/fi.po | 
+ | [uk](/f35/language/uk) | 2025 | 2025 | 100.0 | /mnt/stockage/packages/f35/classified-ads/po/uk.po | 
+ | [es](/f35/language/es) | 2026 | 2032 | 99.7 | /mnt/stockage/packages/f35/classified-ads/po/es.po | 
+ | [sv](/f35/language/sv) | 1957 | 2032 | 96.3 | /mnt/stockage/packages/f35/classified-ads/po/sv.po | 
+ | [da](/f35/language/da) | 1774 | 1950 | 91.0 | /mnt/stockage/packages/f35/classified-ads/po/da.po | 
+ | [de](/f35/language/de) | 1152 | 1950 | 59.1 | /mnt/stockage/packages/f35/classified-ads/po/de.po | 
 {.sortable}
 
 

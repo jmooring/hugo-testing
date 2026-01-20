@@ -18,105 +18,105 @@ The package kf5-kconfigwidgets (version 5.116.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f41/language/ar.md" >}}) | 342 | 342 | 100.0 | /mnt/stockage/packages/f41/kf5-kconfigwidgets/po/ar/kconfigwidgets5.po | 
- | [az]({{< ref "/f41/language/az.md" >}}) | 342 | 342 | 100.0 | /mnt/stockage/packages/f41/kf5-kconfigwidgets/po/az/kconfigwidgets5.po | 
- | [be]({{< ref "/f41/language/be.md" >}}) | 342 | 342 | 100.0 | /mnt/stockage/packages/f41/kf5-kconfigwidgets/po/be/kconfigwidgets5.po | 
- | [bg]({{< ref "/f41/language/bg.md" >}}) | 342 | 342 | 100.0 | /mnt/stockage/packages/f41/kf5-kconfigwidgets/po/bg/kconfigwidgets5.po | 
- | [ca]({{< ref "/f41/language/ca.md" >}}) | 342 | 342 | 100.0 | /mnt/stockage/packages/f41/kf5-kconfigwidgets/po/ca/kconfigwidgets5.po | 
- | [ca@valencia]({{< ref "/f41/language/ca@valencia.md" >}}) | 342 | 342 | 100.0 | /mnt/stockage/packages/f41/kf5-kconfigwidgets/po/ca@valencia/kconfigwidgets5.po | 
- | [cs]({{< ref "/f41/language/cs.md" >}}) | 342 | 342 | 100.0 | /mnt/stockage/packages/f41/kf5-kconfigwidgets/po/cs/kconfigwidgets5.po | 
- | [de]({{< ref "/f41/language/de.md" >}}) | 342 | 342 | 100.0 | /mnt/stockage/packages/f41/kf5-kconfigwidgets/po/de/kconfigwidgets5.po | 
- | [el]({{< ref "/f41/language/el.md" >}}) | 342 | 342 | 100.0 | /mnt/stockage/packages/f41/kf5-kconfigwidgets/po/el/kconfigwidgets5.po | 
- | [en_GB]({{< ref "/f41/language/en_GB.md" >}}) | 342 | 342 | 100.0 | /mnt/stockage/packages/f41/kf5-kconfigwidgets/po/en_GB/kconfigwidgets5.po | 
- | [eo]({{< ref "/f41/language/eo.md" >}}) | 342 | 342 | 100.0 | /mnt/stockage/packages/f41/kf5-kconfigwidgets/po/eo/kconfigwidgets5.po | 
- | [es]({{< ref "/f41/language/es.md" >}}) | 342 | 342 | 100.0 | /mnt/stockage/packages/f41/kf5-kconfigwidgets/po/es/kconfigwidgets5.po | 
- | [et]({{< ref "/f41/language/et.md" >}}) | 342 | 342 | 100.0 | /mnt/stockage/packages/f41/kf5-kconfigwidgets/po/et/kconfigwidgets5.po | 
- | [eu]({{< ref "/f41/language/eu.md" >}}) | 342 | 342 | 100.0 | /mnt/stockage/packages/f41/kf5-kconfigwidgets/po/eu/kconfigwidgets5.po | 
- | [fi]({{< ref "/f41/language/fi.md" >}}) | 342 | 342 | 100.0 | /mnt/stockage/packages/f41/kf5-kconfigwidgets/po/fi/kconfigwidgets5.po | 
- | [fr]({{< ref "/f41/language/fr.md" >}}) | 342 | 342 | 100.0 | /mnt/stockage/packages/f41/kf5-kconfigwidgets/po/fr/kconfigwidgets5.po | 
- | [gl]({{< ref "/f41/language/gl.md" >}}) | 342 | 342 | 100.0 | /mnt/stockage/packages/f41/kf5-kconfigwidgets/po/gl/kconfigwidgets5.po | 
- | [he]({{< ref "/f41/language/he.md" >}}) | 342 | 342 | 100.0 | /mnt/stockage/packages/f41/kf5-kconfigwidgets/po/he/kconfigwidgets5.po | 
- | [ia]({{< ref "/f41/language/ia.md" >}}) | 342 | 342 | 100.0 | /mnt/stockage/packages/f41/kf5-kconfigwidgets/po/ia/kconfigwidgets5.po | 
- | [id]({{< ref "/f41/language/id.md" >}}) | 342 | 342 | 100.0 | /mnt/stockage/packages/f41/kf5-kconfigwidgets/po/id/kconfigwidgets5.po | 
- | [is]({{< ref "/f41/language/is.md" >}}) | 342 | 342 | 100.0 | /mnt/stockage/packages/f41/kf5-kconfigwidgets/po/is/kconfigwidgets5.po | 
- | [it]({{< ref "/f41/language/it.md" >}}) | 342 | 342 | 100.0 | /mnt/stockage/packages/f41/kf5-kconfigwidgets/po/it/kconfigwidgets5.po | 
- | [ja]({{< ref "/f41/language/ja.md" >}}) | 342 | 342 | 100.0 | /mnt/stockage/packages/f41/kf5-kconfigwidgets/po/ja/kconfigwidgets5.po | 
- | [ka]({{< ref "/f41/language/ka.md" >}}) | 342 | 342 | 100.0 | /mnt/stockage/packages/f41/kf5-kconfigwidgets/po/ka/kconfigwidgets5.po | 
- | [ko]({{< ref "/f41/language/ko.md" >}}) | 342 | 342 | 100.0 | /mnt/stockage/packages/f41/kf5-kconfigwidgets/po/ko/kconfigwidgets5.po | 
- | [lt]({{< ref "/f41/language/lt.md" >}}) | 342 | 342 | 100.0 | /mnt/stockage/packages/f41/kf5-kconfigwidgets/po/lt/kconfigwidgets5.po | 
- | [nl]({{< ref "/f41/language/nl.md" >}}) | 342 | 342 | 100.0 | /mnt/stockage/packages/f41/kf5-kconfigwidgets/po/nl/kconfigwidgets5.po | 
- | [nn]({{< ref "/f41/language/nn.md" >}}) | 342 | 342 | 100.0 | /mnt/stockage/packages/f41/kf5-kconfigwidgets/po/nn/kconfigwidgets5.po | 
- | [pl]({{< ref "/f41/language/pl.md" >}}) | 342 | 342 | 100.0 | /mnt/stockage/packages/f41/kf5-kconfigwidgets/po/pl/kconfigwidgets5.po | 
- | [pt]({{< ref "/f41/language/pt.md" >}}) | 342 | 342 | 100.0 | /mnt/stockage/packages/f41/kf5-kconfigwidgets/po/pt/kconfigwidgets5.po | 
- | [pt_BR]({{< ref "/f41/language/pt_BR.md" >}}) | 342 | 342 | 100.0 | /mnt/stockage/packages/f41/kf5-kconfigwidgets/po/pt_BR/kconfigwidgets5.po | 
- | [ro]({{< ref "/f41/language/ro.md" >}}) | 342 | 342 | 100.0 | /mnt/stockage/packages/f41/kf5-kconfigwidgets/po/ro/kconfigwidgets5.po | 
- | [ru]({{< ref "/f41/language/ru.md" >}}) | 342 | 342 | 100.0 | /mnt/stockage/packages/f41/kf5-kconfigwidgets/po/ru/kconfigwidgets5.po | 
- | [sk]({{< ref "/f41/language/sk.md" >}}) | 342 | 342 | 100.0 | /mnt/stockage/packages/f41/kf5-kconfigwidgets/po/sk/kconfigwidgets5.po | 
- | [sl]({{< ref "/f41/language/sl.md" >}}) | 342 | 342 | 100.0 | /mnt/stockage/packages/f41/kf5-kconfigwidgets/po/sl/kconfigwidgets5.po | 
- | [sv]({{< ref "/f41/language/sv.md" >}}) | 342 | 342 | 100.0 | /mnt/stockage/packages/f41/kf5-kconfigwidgets/po/sv/kconfigwidgets5.po | 
- | [ta]({{< ref "/f41/language/ta.md" >}}) | 342 | 342 | 100.0 | /mnt/stockage/packages/f41/kf5-kconfigwidgets/po/ta/kconfigwidgets5.po | 
- | [tr]({{< ref "/f41/language/tr.md" >}}) | 342 | 342 | 100.0 | /mnt/stockage/packages/f41/kf5-kconfigwidgets/po/tr/kconfigwidgets5.po | 
- | [uk]({{< ref "/f41/language/uk.md" >}}) | 342 | 342 | 100.0 | /mnt/stockage/packages/f41/kf5-kconfigwidgets/po/uk/kconfigwidgets5.po | 
- | [vi]({{< ref "/f41/language/vi.md" >}}) | 342 | 342 | 100.0 | /mnt/stockage/packages/f41/kf5-kconfigwidgets/po/vi/kconfigwidgets5.po | 
- | [zh_Hans]({{< ref "/f41/language/zh_Hans.md" >}}) | 342 | 342 | 100.0 | /mnt/stockage/packages/f41/kf5-kconfigwidgets/po/zh_CN/kconfigwidgets5.po | 
- | [zh_Hant]({{< ref "/f41/language/zh_Hant.md" >}}) | 342 | 342 | 100.0 | /mnt/stockage/packages/f41/kf5-kconfigwidgets/po/zh_TW/kconfigwidgets5.po | 
- | [be_Latn]({{< ref "/f41/language/be_Latn.md" >}}) | 340 | 342 | 99.4 | /mnt/stockage/packages/f41/kf5-kconfigwidgets/po/be@latin/kconfigwidgets5.po | 
- | [hu]({{< ref "/f41/language/hu.md" >}}) | 338 | 342 | 98.8 | /mnt/stockage/packages/f41/kf5-kconfigwidgets/po/hu/kconfigwidgets5.po | 
- | [sr]({{< ref "/f41/language/sr.md" >}}) | 316 | 325 | 97.2 | /mnt/stockage/packages/f41/kf5-kconfigwidgets/po/sr/kconfigwidgets5.po | 
- | [sr@ijekavian]({{< ref "/f41/language/sr@ijekavian.md" >}}) | 316 | 325 | 97.2 | /mnt/stockage/packages/f41/kf5-kconfigwidgets/po/sr@ijekavian/kconfigwidgets5.po | 
- | [sr@ijekavian_Latn]({{< ref "/f41/language/sr@ijekavian_Latn.md" >}}) | 316 | 325 | 97.2 | /mnt/stockage/packages/f41/kf5-kconfigwidgets/po/sr@ijekavianlatin/kconfigwidgets5.po | 
- | [sr_Latn]({{< ref "/f41/language/sr_Latn.md" >}}) | 316 | 325 | 97.2 | /mnt/stockage/packages/f41/kf5-kconfigwidgets/po/sr@latin/kconfigwidgets5.po | 
- | [da]({{< ref "/f41/language/da.md" >}}) | 325 | 342 | 95.0 | /mnt/stockage/packages/f41/kf5-kconfigwidgets/po/da/kconfigwidgets5.po | 
- | [hi]({{< ref "/f41/language/hi.md" >}}) | 325 | 342 | 95.0 | /mnt/stockage/packages/f41/kf5-kconfigwidgets/po/hi/kconfigwidgets5.po | 
- | [lv]({{< ref "/f41/language/lv.md" >}}) | 322 | 342 | 94.2 | /mnt/stockage/packages/f41/kf5-kconfigwidgets/po/lv/kconfigwidgets5.po | 
- | [pa]({{< ref "/f41/language/pa.md" >}}) | 311 | 342 | 90.9 | /mnt/stockage/packages/f41/kf5-kconfigwidgets/po/pa/kconfigwidgets5.po | 
- | [tg]({{< ref "/f41/language/tg.md" >}}) | 311 | 342 | 90.9 | /mnt/stockage/packages/f41/kf5-kconfigwidgets/po/tg/kconfigwidgets5.po | 
- | [gd]({{< ref "/f41/language/gd.md" >}}) | 305 | 342 | 89.2 | /mnt/stockage/packages/f41/kf5-kconfigwidgets/po/gd/kconfigwidgets5.po | 
- | [nb_NO]({{< ref "/f41/language/nb_NO.md" >}}) | 305 | 342 | 89.2 | /mnt/stockage/packages/f41/kf5-kconfigwidgets/po/nb/kconfigwidgets5.po | 
- | [ga]({{< ref "/f41/language/ga.md" >}}) | 292 | 342 | 85.4 | /mnt/stockage/packages/f41/kf5-kconfigwidgets/po/ga/kconfigwidgets5.po | 
- | [nds]({{< ref "/f41/language/nds.md" >}}) | 292 | 342 | 85.4 | /mnt/stockage/packages/f41/kf5-kconfigwidgets/po/nds/kconfigwidgets5.po | 
- | [se]({{< ref "/f41/language/se.md" >}}) | 292 | 342 | 85.4 | /mnt/stockage/packages/f41/kf5-kconfigwidgets/po/se/kconfigwidgets5.po | 
- | [bs]({{< ref "/f41/language/bs.md" >}}) | 291 | 342 | 85.1 | /mnt/stockage/packages/f41/kf5-kconfigwidgets/po/bs/kconfigwidgets5.po | 
- | [kk]({{< ref "/f41/language/kk.md" >}}) | 291 | 342 | 85.1 | /mnt/stockage/packages/f41/kf5-kconfigwidgets/po/kk/kconfigwidgets5.po | 
- | [mr]({{< ref "/f41/language/mr.md" >}}) | 291 | 342 | 85.1 | /mnt/stockage/packages/f41/kf5-kconfigwidgets/po/mr/kconfigwidgets5.po | 
- | [te]({{< ref "/f41/language/te.md" >}}) | 291 | 342 | 85.1 | /mnt/stockage/packages/f41/kf5-kconfigwidgets/po/te/kconfigwidgets5.po | 
- | [ug]({{< ref "/f41/language/ug.md" >}}) | 291 | 342 | 85.1 | /mnt/stockage/packages/f41/kf5-kconfigwidgets/po/ug/kconfigwidgets5.po | 
- | [km]({{< ref "/f41/language/km.md" >}}) | 273 | 342 | 79.8 | /mnt/stockage/packages/f41/kf5-kconfigwidgets/po/km/kconfigwidgets5.po | 
- | [bn]({{< ref "/f41/language/bn.md" >}}) | 244 | 342 | 71.3 | /mnt/stockage/packages/f41/kf5-kconfigwidgets/po/bn/kconfigwidgets5.po | 
- | [hy]({{< ref "/f41/language/hy.md" >}}) | 201 | 342 | 58.8 | /mnt/stockage/packages/f41/kf5-kconfigwidgets/po/hy/kconfigwidgets5.po | 
- | [hr]({{< ref "/f41/language/hr.md" >}}) | 159 | 342 | 46.5 | /mnt/stockage/packages/f41/kf5-kconfigwidgets/po/hr/kconfigwidgets5.po | 
- | [fa]({{< ref "/f41/language/fa.md" >}}) | 143 | 342 | 41.8 | /mnt/stockage/packages/f41/kf5-kconfigwidgets/po/fa/kconfigwidgets5.po | 
- | [kn]({{< ref "/f41/language/kn.md" >}}) | 141 | 342 | 41.2 | /mnt/stockage/packages/f41/kf5-kconfigwidgets/po/kn/kconfigwidgets5.po | 
- | [ml]({{< ref "/f41/language/ml.md" >}}) | 141 | 342 | 41.2 | /mnt/stockage/packages/f41/kf5-kconfigwidgets/po/ml/kconfigwidgets5.po | 
- | [th]({{< ref "/f41/language/th.md" >}}) | 141 | 342 | 41.2 | /mnt/stockage/packages/f41/kf5-kconfigwidgets/po/th/kconfigwidgets5.po | 
- | [tt]({{< ref "/f41/language/tt.md" >}}) | 141 | 342 | 41.2 | /mnt/stockage/packages/f41/kf5-kconfigwidgets/po/tt/kconfigwidgets5.po | 
- | [gu]({{< ref "/f41/language/gu.md" >}}) | 139 | 342 | 40.6 | /mnt/stockage/packages/f41/kf5-kconfigwidgets/po/gu/kconfigwidgets5.po | 
- | [wa]({{< ref "/f41/language/wa.md" >}}) | 134 | 342 | 39.2 | /mnt/stockage/packages/f41/kf5-kconfigwidgets/po/wa/kconfigwidgets5.po | 
- | [fy]({{< ref "/f41/language/fy.md" >}}) | 133 | 342 | 38.9 | /mnt/stockage/packages/f41/kf5-kconfigwidgets/po/fy/kconfigwidgets5.po | 
- | [ku]({{< ref "/f41/language/ku.md" >}}) | 133 | 342 | 38.9 | /mnt/stockage/packages/f41/kf5-kconfigwidgets/po/ku/kconfigwidgets5.po | 
- | [mk]({{< ref "/f41/language/mk.md" >}}) | 131 | 342 | 38.3 | /mnt/stockage/packages/f41/kf5-kconfigwidgets/po/mk/kconfigwidgets5.po | 
- | [bn_IN]({{< ref "/f41/language/bn_IN.md" >}}) | 129 | 342 | 37.7 | /mnt/stockage/packages/f41/kf5-kconfigwidgets/po/bn_IN/kconfigwidgets5.po | 
- | [si]({{< ref "/f41/language/si.md" >}}) | 126 | 342 | 36.8 | /mnt/stockage/packages/f41/kf5-kconfigwidgets/po/si/kconfigwidgets5.po | 
- | [ms]({{< ref "/f41/language/ms.md" >}}) | 125 | 342 | 36.5 | /mnt/stockage/packages/f41/kf5-kconfigwidgets/po/ms/kconfigwidgets5.po | 
- | [csb]({{< ref "/f41/language/csb.md" >}}) | 123 | 342 | 36.0 | /mnt/stockage/packages/f41/kf5-kconfigwidgets/po/csb/kconfigwidgets5.po | 
- | [mai]({{< ref "/f41/language/mai.md" >}}) | 123 | 342 | 36.0 | /mnt/stockage/packages/f41/kf5-kconfigwidgets/po/mai/kconfigwidgets5.po | 
- | [hne]({{< ref "/f41/language/hne.md" >}}) | 120 | 342 | 35.1 | /mnt/stockage/packages/f41/kf5-kconfigwidgets/po/hne/kconfigwidgets5.po | 
- | [ps]({{< ref "/f41/language/ps.md" >}}) | 120 | 342 | 35.1 | /mnt/stockage/packages/f41/kf5-kconfigwidgets/po/ps/kconfigwidgets5.po | 
- | [hsb]({{< ref "/f41/language/hsb.md" >}}) | 119 | 342 | 34.8 | /mnt/stockage/packages/f41/kf5-kconfigwidgets/po/hsb/kconfigwidgets5.po | 
- | [or]({{< ref "/f41/language/or.md" >}}) | 119 | 342 | 34.8 | /mnt/stockage/packages/f41/kf5-kconfigwidgets/po/or/kconfigwidgets5.po | 
- | [crh]({{< ref "/f41/language/crh.md" >}}) | 118 | 342 | 34.5 | /mnt/stockage/packages/f41/kf5-kconfigwidgets/po/crh/kconfigwidgets5.po | 
- | [ne]({{< ref "/f41/language/ne.md" >}}) | 117 | 342 | 34.2 | /mnt/stockage/packages/f41/kf5-kconfigwidgets/po/ne/kconfigwidgets5.po | 
- | [uz]({{< ref "/f41/language/uz.md" >}}) | 228 | 684 | 33.3 | /mnt/stockage/packages/f41/kf5-kconfigwidgets/po/uz@cyrillic/kconfigwidgets5.po/mnt/stockage/packages/f41/kf5-kconfigwidgets/po/uz/kconfigwidgets5.po | 
- | [as]({{< ref "/f41/language/as.md" >}}) | 109 | 342 | 31.9 | /mnt/stockage/packages/f41/kf5-kconfigwidgets/po/as/kconfigwidgets5.po | 
- | [af]({{< ref "/f41/language/af.md" >}}) | 107 | 342 | 31.3 | /mnt/stockage/packages/f41/kf5-kconfigwidgets/po/af/kconfigwidgets5.po | 
- | [br]({{< ref "/f41/language/br.md" >}}) | 107 | 342 | 31.3 | /mnt/stockage/packages/f41/kf5-kconfigwidgets/po/br/kconfigwidgets5.po | 
- | [cy]({{< ref "/f41/language/cy.md" >}}) | 107 | 342 | 31.3 | /mnt/stockage/packages/f41/kf5-kconfigwidgets/po/cy/kconfigwidgets5.po | 
- | [lb]({{< ref "/f41/language/lb.md" >}}) | 107 | 342 | 31.3 | /mnt/stockage/packages/f41/kf5-kconfigwidgets/po/lb/kconfigwidgets5.po | 
- | [sq]({{< ref "/f41/language/sq.md" >}}) | 107 | 342 | 31.3 | /mnt/stockage/packages/f41/kf5-kconfigwidgets/po/sq/kconfigwidgets5.po | 
- | [zh_Hant_HK]({{< ref "/f41/language/zh_Hant_HK.md" >}}) | 107 | 342 | 31.3 | /mnt/stockage/packages/f41/kf5-kconfigwidgets/po/zh_HK/kconfigwidgets5.po | 
- | [xh]({{< ref "/f41/language/xh.md" >}}) | 98 | 342 | 28.7 | /mnt/stockage/packages/f41/kf5-kconfigwidgets/po/xh/kconfigwidgets5.po | 
- | [oc]({{< ref "/f41/language/oc.md" >}}) | 72 | 342 | 21.1 | /mnt/stockage/packages/f41/kf5-kconfigwidgets/po/oc/kconfigwidgets5.po | 
- | [ha]({{< ref "/f41/language/ha.md" >}}) | 12 | 342 | 3.5 | /mnt/stockage/packages/f41/kf5-kconfigwidgets/po/ha/kconfigwidgets5.po | 
+ | [ar](/f41/language/ar) | 342 | 342 | 100.0 | /mnt/stockage/packages/f41/kf5-kconfigwidgets/po/ar/kconfigwidgets5.po | 
+ | [az](/f41/language/az) | 342 | 342 | 100.0 | /mnt/stockage/packages/f41/kf5-kconfigwidgets/po/az/kconfigwidgets5.po | 
+ | [be](/f41/language/be) | 342 | 342 | 100.0 | /mnt/stockage/packages/f41/kf5-kconfigwidgets/po/be/kconfigwidgets5.po | 
+ | [bg](/f41/language/bg) | 342 | 342 | 100.0 | /mnt/stockage/packages/f41/kf5-kconfigwidgets/po/bg/kconfigwidgets5.po | 
+ | [ca](/f41/language/ca) | 342 | 342 | 100.0 | /mnt/stockage/packages/f41/kf5-kconfigwidgets/po/ca/kconfigwidgets5.po | 
+ | [ca@valencia](/f41/language/ca@valencia) | 342 | 342 | 100.0 | /mnt/stockage/packages/f41/kf5-kconfigwidgets/po/ca@valencia/kconfigwidgets5.po | 
+ | [cs](/f41/language/cs) | 342 | 342 | 100.0 | /mnt/stockage/packages/f41/kf5-kconfigwidgets/po/cs/kconfigwidgets5.po | 
+ | [de](/f41/language/de) | 342 | 342 | 100.0 | /mnt/stockage/packages/f41/kf5-kconfigwidgets/po/de/kconfigwidgets5.po | 
+ | [el](/f41/language/el) | 342 | 342 | 100.0 | /mnt/stockage/packages/f41/kf5-kconfigwidgets/po/el/kconfigwidgets5.po | 
+ | [en_GB](/f41/language/en_GB) | 342 | 342 | 100.0 | /mnt/stockage/packages/f41/kf5-kconfigwidgets/po/en_GB/kconfigwidgets5.po | 
+ | [eo](/f41/language/eo) | 342 | 342 | 100.0 | /mnt/stockage/packages/f41/kf5-kconfigwidgets/po/eo/kconfigwidgets5.po | 
+ | [es](/f41/language/es) | 342 | 342 | 100.0 | /mnt/stockage/packages/f41/kf5-kconfigwidgets/po/es/kconfigwidgets5.po | 
+ | [et](/f41/language/et) | 342 | 342 | 100.0 | /mnt/stockage/packages/f41/kf5-kconfigwidgets/po/et/kconfigwidgets5.po | 
+ | [eu](/f41/language/eu) | 342 | 342 | 100.0 | /mnt/stockage/packages/f41/kf5-kconfigwidgets/po/eu/kconfigwidgets5.po | 
+ | [fi](/f41/language/fi) | 342 | 342 | 100.0 | /mnt/stockage/packages/f41/kf5-kconfigwidgets/po/fi/kconfigwidgets5.po | 
+ | [fr](/f41/language/fr) | 342 | 342 | 100.0 | /mnt/stockage/packages/f41/kf5-kconfigwidgets/po/fr/kconfigwidgets5.po | 
+ | [gl](/f41/language/gl) | 342 | 342 | 100.0 | /mnt/stockage/packages/f41/kf5-kconfigwidgets/po/gl/kconfigwidgets5.po | 
+ | [he](/f41/language/he) | 342 | 342 | 100.0 | /mnt/stockage/packages/f41/kf5-kconfigwidgets/po/he/kconfigwidgets5.po | 
+ | [ia](/f41/language/ia) | 342 | 342 | 100.0 | /mnt/stockage/packages/f41/kf5-kconfigwidgets/po/ia/kconfigwidgets5.po | 
+ | [id](/f41/language/id) | 342 | 342 | 100.0 | /mnt/stockage/packages/f41/kf5-kconfigwidgets/po/id/kconfigwidgets5.po | 
+ | [is](/f41/language/is) | 342 | 342 | 100.0 | /mnt/stockage/packages/f41/kf5-kconfigwidgets/po/is/kconfigwidgets5.po | 
+ | [it](/f41/language/it) | 342 | 342 | 100.0 | /mnt/stockage/packages/f41/kf5-kconfigwidgets/po/it/kconfigwidgets5.po | 
+ | [ja](/f41/language/ja) | 342 | 342 | 100.0 | /mnt/stockage/packages/f41/kf5-kconfigwidgets/po/ja/kconfigwidgets5.po | 
+ | [ka](/f41/language/ka) | 342 | 342 | 100.0 | /mnt/stockage/packages/f41/kf5-kconfigwidgets/po/ka/kconfigwidgets5.po | 
+ | [ko](/f41/language/ko) | 342 | 342 | 100.0 | /mnt/stockage/packages/f41/kf5-kconfigwidgets/po/ko/kconfigwidgets5.po | 
+ | [lt](/f41/language/lt) | 342 | 342 | 100.0 | /mnt/stockage/packages/f41/kf5-kconfigwidgets/po/lt/kconfigwidgets5.po | 
+ | [nl](/f41/language/nl) | 342 | 342 | 100.0 | /mnt/stockage/packages/f41/kf5-kconfigwidgets/po/nl/kconfigwidgets5.po | 
+ | [nn](/f41/language/nn) | 342 | 342 | 100.0 | /mnt/stockage/packages/f41/kf5-kconfigwidgets/po/nn/kconfigwidgets5.po | 
+ | [pl](/f41/language/pl) | 342 | 342 | 100.0 | /mnt/stockage/packages/f41/kf5-kconfigwidgets/po/pl/kconfigwidgets5.po | 
+ | [pt](/f41/language/pt) | 342 | 342 | 100.0 | /mnt/stockage/packages/f41/kf5-kconfigwidgets/po/pt/kconfigwidgets5.po | 
+ | [pt_BR](/f41/language/pt_BR) | 342 | 342 | 100.0 | /mnt/stockage/packages/f41/kf5-kconfigwidgets/po/pt_BR/kconfigwidgets5.po | 
+ | [ro](/f41/language/ro) | 342 | 342 | 100.0 | /mnt/stockage/packages/f41/kf5-kconfigwidgets/po/ro/kconfigwidgets5.po | 
+ | [ru](/f41/language/ru) | 342 | 342 | 100.0 | /mnt/stockage/packages/f41/kf5-kconfigwidgets/po/ru/kconfigwidgets5.po | 
+ | [sk](/f41/language/sk) | 342 | 342 | 100.0 | /mnt/stockage/packages/f41/kf5-kconfigwidgets/po/sk/kconfigwidgets5.po | 
+ | [sl](/f41/language/sl) | 342 | 342 | 100.0 | /mnt/stockage/packages/f41/kf5-kconfigwidgets/po/sl/kconfigwidgets5.po | 
+ | [sv](/f41/language/sv) | 342 | 342 | 100.0 | /mnt/stockage/packages/f41/kf5-kconfigwidgets/po/sv/kconfigwidgets5.po | 
+ | [ta](/f41/language/ta) | 342 | 342 | 100.0 | /mnt/stockage/packages/f41/kf5-kconfigwidgets/po/ta/kconfigwidgets5.po | 
+ | [tr](/f41/language/tr) | 342 | 342 | 100.0 | /mnt/stockage/packages/f41/kf5-kconfigwidgets/po/tr/kconfigwidgets5.po | 
+ | [uk](/f41/language/uk) | 342 | 342 | 100.0 | /mnt/stockage/packages/f41/kf5-kconfigwidgets/po/uk/kconfigwidgets5.po | 
+ | [vi](/f41/language/vi) | 342 | 342 | 100.0 | /mnt/stockage/packages/f41/kf5-kconfigwidgets/po/vi/kconfigwidgets5.po | 
+ | [zh_Hans](/f41/language/zh_Hans) | 342 | 342 | 100.0 | /mnt/stockage/packages/f41/kf5-kconfigwidgets/po/zh_CN/kconfigwidgets5.po | 
+ | [zh_Hant](/f41/language/zh_Hant) | 342 | 342 | 100.0 | /mnt/stockage/packages/f41/kf5-kconfigwidgets/po/zh_TW/kconfigwidgets5.po | 
+ | [be_Latn](/f41/language/be_Latn) | 340 | 342 | 99.4 | /mnt/stockage/packages/f41/kf5-kconfigwidgets/po/be@latin/kconfigwidgets5.po | 
+ | [hu](/f41/language/hu) | 338 | 342 | 98.8 | /mnt/stockage/packages/f41/kf5-kconfigwidgets/po/hu/kconfigwidgets5.po | 
+ | [sr](/f41/language/sr) | 316 | 325 | 97.2 | /mnt/stockage/packages/f41/kf5-kconfigwidgets/po/sr/kconfigwidgets5.po | 
+ | [sr@ijekavian](/f41/language/sr@ijekavian) | 316 | 325 | 97.2 | /mnt/stockage/packages/f41/kf5-kconfigwidgets/po/sr@ijekavian/kconfigwidgets5.po | 
+ | [sr@ijekavian_Latn](/f41/language/sr@ijekavian_Latn) | 316 | 325 | 97.2 | /mnt/stockage/packages/f41/kf5-kconfigwidgets/po/sr@ijekavianlatin/kconfigwidgets5.po | 
+ | [sr_Latn](/f41/language/sr_Latn) | 316 | 325 | 97.2 | /mnt/stockage/packages/f41/kf5-kconfigwidgets/po/sr@latin/kconfigwidgets5.po | 
+ | [da](/f41/language/da) | 325 | 342 | 95.0 | /mnt/stockage/packages/f41/kf5-kconfigwidgets/po/da/kconfigwidgets5.po | 
+ | [hi](/f41/language/hi) | 325 | 342 | 95.0 | /mnt/stockage/packages/f41/kf5-kconfigwidgets/po/hi/kconfigwidgets5.po | 
+ | [lv](/f41/language/lv) | 322 | 342 | 94.2 | /mnt/stockage/packages/f41/kf5-kconfigwidgets/po/lv/kconfigwidgets5.po | 
+ | [pa](/f41/language/pa) | 311 | 342 | 90.9 | /mnt/stockage/packages/f41/kf5-kconfigwidgets/po/pa/kconfigwidgets5.po | 
+ | [tg](/f41/language/tg) | 311 | 342 | 90.9 | /mnt/stockage/packages/f41/kf5-kconfigwidgets/po/tg/kconfigwidgets5.po | 
+ | [gd](/f41/language/gd) | 305 | 342 | 89.2 | /mnt/stockage/packages/f41/kf5-kconfigwidgets/po/gd/kconfigwidgets5.po | 
+ | [nb_NO](/f41/language/nb_NO) | 305 | 342 | 89.2 | /mnt/stockage/packages/f41/kf5-kconfigwidgets/po/nb/kconfigwidgets5.po | 
+ | [ga](/f41/language/ga) | 292 | 342 | 85.4 | /mnt/stockage/packages/f41/kf5-kconfigwidgets/po/ga/kconfigwidgets5.po | 
+ | [nds](/f41/language/nds) | 292 | 342 | 85.4 | /mnt/stockage/packages/f41/kf5-kconfigwidgets/po/nds/kconfigwidgets5.po | 
+ | [se](/f41/language/se) | 292 | 342 | 85.4 | /mnt/stockage/packages/f41/kf5-kconfigwidgets/po/se/kconfigwidgets5.po | 
+ | [bs](/f41/language/bs) | 291 | 342 | 85.1 | /mnt/stockage/packages/f41/kf5-kconfigwidgets/po/bs/kconfigwidgets5.po | 
+ | [kk](/f41/language/kk) | 291 | 342 | 85.1 | /mnt/stockage/packages/f41/kf5-kconfigwidgets/po/kk/kconfigwidgets5.po | 
+ | [mr](/f41/language/mr) | 291 | 342 | 85.1 | /mnt/stockage/packages/f41/kf5-kconfigwidgets/po/mr/kconfigwidgets5.po | 
+ | [te](/f41/language/te) | 291 | 342 | 85.1 | /mnt/stockage/packages/f41/kf5-kconfigwidgets/po/te/kconfigwidgets5.po | 
+ | [ug](/f41/language/ug) | 291 | 342 | 85.1 | /mnt/stockage/packages/f41/kf5-kconfigwidgets/po/ug/kconfigwidgets5.po | 
+ | [km](/f41/language/km) | 273 | 342 | 79.8 | /mnt/stockage/packages/f41/kf5-kconfigwidgets/po/km/kconfigwidgets5.po | 
+ | [bn](/f41/language/bn) | 244 | 342 | 71.3 | /mnt/stockage/packages/f41/kf5-kconfigwidgets/po/bn/kconfigwidgets5.po | 
+ | [hy](/f41/language/hy) | 201 | 342 | 58.8 | /mnt/stockage/packages/f41/kf5-kconfigwidgets/po/hy/kconfigwidgets5.po | 
+ | [hr](/f41/language/hr) | 159 | 342 | 46.5 | /mnt/stockage/packages/f41/kf5-kconfigwidgets/po/hr/kconfigwidgets5.po | 
+ | [fa](/f41/language/fa) | 143 | 342 | 41.8 | /mnt/stockage/packages/f41/kf5-kconfigwidgets/po/fa/kconfigwidgets5.po | 
+ | [kn](/f41/language/kn) | 141 | 342 | 41.2 | /mnt/stockage/packages/f41/kf5-kconfigwidgets/po/kn/kconfigwidgets5.po | 
+ | [ml](/f41/language/ml) | 141 | 342 | 41.2 | /mnt/stockage/packages/f41/kf5-kconfigwidgets/po/ml/kconfigwidgets5.po | 
+ | [th](/f41/language/th) | 141 | 342 | 41.2 | /mnt/stockage/packages/f41/kf5-kconfigwidgets/po/th/kconfigwidgets5.po | 
+ | [tt](/f41/language/tt) | 141 | 342 | 41.2 | /mnt/stockage/packages/f41/kf5-kconfigwidgets/po/tt/kconfigwidgets5.po | 
+ | [gu](/f41/language/gu) | 139 | 342 | 40.6 | /mnt/stockage/packages/f41/kf5-kconfigwidgets/po/gu/kconfigwidgets5.po | 
+ | [wa](/f41/language/wa) | 134 | 342 | 39.2 | /mnt/stockage/packages/f41/kf5-kconfigwidgets/po/wa/kconfigwidgets5.po | 
+ | [fy](/f41/language/fy) | 133 | 342 | 38.9 | /mnt/stockage/packages/f41/kf5-kconfigwidgets/po/fy/kconfigwidgets5.po | 
+ | [ku](/f41/language/ku) | 133 | 342 | 38.9 | /mnt/stockage/packages/f41/kf5-kconfigwidgets/po/ku/kconfigwidgets5.po | 
+ | [mk](/f41/language/mk) | 131 | 342 | 38.3 | /mnt/stockage/packages/f41/kf5-kconfigwidgets/po/mk/kconfigwidgets5.po | 
+ | [bn_IN](/f41/language/bn_IN) | 129 | 342 | 37.7 | /mnt/stockage/packages/f41/kf5-kconfigwidgets/po/bn_IN/kconfigwidgets5.po | 
+ | [si](/f41/language/si) | 126 | 342 | 36.8 | /mnt/stockage/packages/f41/kf5-kconfigwidgets/po/si/kconfigwidgets5.po | 
+ | [ms](/f41/language/ms) | 125 | 342 | 36.5 | /mnt/stockage/packages/f41/kf5-kconfigwidgets/po/ms/kconfigwidgets5.po | 
+ | [csb](/f41/language/csb) | 123 | 342 | 36.0 | /mnt/stockage/packages/f41/kf5-kconfigwidgets/po/csb/kconfigwidgets5.po | 
+ | [mai](/f41/language/mai) | 123 | 342 | 36.0 | /mnt/stockage/packages/f41/kf5-kconfigwidgets/po/mai/kconfigwidgets5.po | 
+ | [hne](/f41/language/hne) | 120 | 342 | 35.1 | /mnt/stockage/packages/f41/kf5-kconfigwidgets/po/hne/kconfigwidgets5.po | 
+ | [ps](/f41/language/ps) | 120 | 342 | 35.1 | /mnt/stockage/packages/f41/kf5-kconfigwidgets/po/ps/kconfigwidgets5.po | 
+ | [hsb](/f41/language/hsb) | 119 | 342 | 34.8 | /mnt/stockage/packages/f41/kf5-kconfigwidgets/po/hsb/kconfigwidgets5.po | 
+ | [or](/f41/language/or) | 119 | 342 | 34.8 | /mnt/stockage/packages/f41/kf5-kconfigwidgets/po/or/kconfigwidgets5.po | 
+ | [crh](/f41/language/crh) | 118 | 342 | 34.5 | /mnt/stockage/packages/f41/kf5-kconfigwidgets/po/crh/kconfigwidgets5.po | 
+ | [ne](/f41/language/ne) | 117 | 342 | 34.2 | /mnt/stockage/packages/f41/kf5-kconfigwidgets/po/ne/kconfigwidgets5.po | 
+ | [uz](/f41/language/uz) | 228 | 684 | 33.3 | /mnt/stockage/packages/f41/kf5-kconfigwidgets/po/uz@cyrillic/kconfigwidgets5.po/mnt/stockage/packages/f41/kf5-kconfigwidgets/po/uz/kconfigwidgets5.po | 
+ | [as](/f41/language/as) | 109 | 342 | 31.9 | /mnt/stockage/packages/f41/kf5-kconfigwidgets/po/as/kconfigwidgets5.po | 
+ | [af](/f41/language/af) | 107 | 342 | 31.3 | /mnt/stockage/packages/f41/kf5-kconfigwidgets/po/af/kconfigwidgets5.po | 
+ | [br](/f41/language/br) | 107 | 342 | 31.3 | /mnt/stockage/packages/f41/kf5-kconfigwidgets/po/br/kconfigwidgets5.po | 
+ | [cy](/f41/language/cy) | 107 | 342 | 31.3 | /mnt/stockage/packages/f41/kf5-kconfigwidgets/po/cy/kconfigwidgets5.po | 
+ | [lb](/f41/language/lb) | 107 | 342 | 31.3 | /mnt/stockage/packages/f41/kf5-kconfigwidgets/po/lb/kconfigwidgets5.po | 
+ | [sq](/f41/language/sq) | 107 | 342 | 31.3 | /mnt/stockage/packages/f41/kf5-kconfigwidgets/po/sq/kconfigwidgets5.po | 
+ | [zh_Hant_HK](/f41/language/zh_Hant_HK) | 107 | 342 | 31.3 | /mnt/stockage/packages/f41/kf5-kconfigwidgets/po/zh_HK/kconfigwidgets5.po | 
+ | [xh](/f41/language/xh) | 98 | 342 | 28.7 | /mnt/stockage/packages/f41/kf5-kconfigwidgets/po/xh/kconfigwidgets5.po | 
+ | [oc](/f41/language/oc) | 72 | 342 | 21.1 | /mnt/stockage/packages/f41/kf5-kconfigwidgets/po/oc/kconfigwidgets5.po | 
+ | [ha](/f41/language/ha) | 12 | 342 | 3.5 | /mnt/stockage/packages/f41/kf5-kconfigwidgets/po/ha/kconfigwidgets5.po | 
 {.sortable}
 
 

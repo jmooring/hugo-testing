@@ -18,28 +18,28 @@ The package nacl-arm-gcc (version 4.9.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [eo]({{< ref "/f22/language/eo.md" >}}) | 1230 | 1230 | 100.0 | /mnt/stockage/packages/f22/nacl-arm-gcc/libcpp/po/eo.po | 
- | [pt_BR]({{< ref "/f22/language/pt_BR.md" >}}) | 1230 | 1230 | 100.0 | /mnt/stockage/packages/f22/nacl-arm-gcc/libcpp/po/pt_BR.po | 
- | [sv]({{< ref "/f22/language/sv.md" >}}) | 80406 | 80406 | 100.0 | /mnt/stockage/packages/f22/nacl-arm-gcc/gcc/po/sv.po/mnt/stockage/packages/f22/nacl-arm-gcc/libcpp/po/sv.po | 
- | [uk]({{< ref "/f22/language/uk.md" >}}) | 1230 | 1230 | 100.0 | /mnt/stockage/packages/f22/nacl-arm-gcc/libcpp/po/uk.po | 
- | [de]({{< ref "/f22/language/de.md" >}}) | 72515 | 80411 | 90.2 | /mnt/stockage/packages/f22/nacl-arm-gcc/gcc/po/de.po/mnt/stockage/packages/f22/nacl-arm-gcc/libcpp/po/de.po/mnt/stockage/packages/f22/nacl-arm-gcc/libstdc++-v3/po/de.po | 
- | [es]({{< ref "/f22/language/es.md" >}}) | 66860 | 80406 | 83.2 | /mnt/stockage/packages/f22/nacl-arm-gcc/gcc/po/es.po/mnt/stockage/packages/f22/nacl-arm-gcc/libcpp/po/es.po | 
- | [ca]({{< ref "/f22/language/ca.md" >}}) | 989 | 1230 | 80.4 | /mnt/stockage/packages/f22/nacl-arm-gcc/libcpp/po/ca.po | 
- | [zh_Hans]({{< ref "/f22/language/zh_Hans.md" >}}) | 52606 | 80406 | 65.4 | /mnt/stockage/packages/f22/nacl-arm-gcc/gcc/po/zh_CN.po/mnt/stockage/packages/f22/nacl-arm-gcc/libcpp/po/zh_CN.po | 
- | [id]({{< ref "/f22/language/id.md" >}}) | 41453 | 80406 | 51.6 | /mnt/stockage/packages/f22/nacl-arm-gcc/gcc/po/id.po/mnt/stockage/packages/f22/nacl-arm-gcc/libcpp/po/id.po | 
- | [sr]({{< ref "/f22/language/sr.md" >}}) | 32175 | 80406 | 40.0 | /mnt/stockage/packages/f22/nacl-arm-gcc/gcc/po/sr.po/mnt/stockage/packages/f22/nacl-arm-gcc/libcpp/po/sr.po | 
- | [tr]({{< ref "/f22/language/tr.md" >}}) | 28516 | 80406 | 35.5 | /mnt/stockage/packages/f22/nacl-arm-gcc/gcc/po/tr.po/mnt/stockage/packages/f22/nacl-arm-gcc/libcpp/po/tr.po | 
- | [ja]({{< ref "/f22/language/ja.md" >}}) | 25864 | 80406 | 32.2 | /mnt/stockage/packages/f22/nacl-arm-gcc/gcc/po/ja.po/mnt/stockage/packages/f22/nacl-arm-gcc/libcpp/po/ja.po | 
- | [zh_Hant]({{< ref "/f22/language/zh_Hant.md" >}}) | 25419 | 80406 | 31.6 | /mnt/stockage/packages/f22/nacl-arm-gcc/gcc/po/zh_TW.po/mnt/stockage/packages/f22/nacl-arm-gcc/libcpp/po/zh_TW.po | 
- | [vi]({{< ref "/f22/language/vi.md" >}}) | 24909 | 80406 | 31.0 | /mnt/stockage/packages/f22/nacl-arm-gcc/gcc/po/vi.po/mnt/stockage/packages/f22/nacl-arm-gcc/libcpp/po/vi.po | 
- | [ru]({{< ref "/f22/language/ru.md" >}}) | 22744 | 80406 | 28.3 | /mnt/stockage/packages/f22/nacl-arm-gcc/gcc/po/ru.po/mnt/stockage/packages/f22/nacl-arm-gcc/libcpp/po/ru.po | 
- | [fi]({{< ref "/f22/language/fi.md" >}}) | 15628 | 80406 | 19.4 | /mnt/stockage/packages/f22/nacl-arm-gcc/gcc/po/fi.po/mnt/stockage/packages/f22/nacl-arm-gcc/libcpp/po/fi.po | 
- | [fr]({{< ref "/f22/language/fr.md" >}}) | 11570 | 80411 | 14.4 | /mnt/stockage/packages/f22/nacl-arm-gcc/gcc/po/fr.po/mnt/stockage/packages/f22/nacl-arm-gcc/libcpp/po/fr.po/mnt/stockage/packages/f22/nacl-arm-gcc/libstdc++-v3/po/fr.po | 
- | [da]({{< ref "/f22/language/da.md" >}}) | 8470 | 80406 | 10.5 | /mnt/stockage/packages/f22/nacl-arm-gcc/gcc/po/da.po/mnt/stockage/packages/f22/nacl-arm-gcc/libcpp/po/da.po | 
- | [nl]({{< ref "/f22/language/nl.md" >}}) | 6421 | 80406 | 8.0 | /mnt/stockage/packages/f22/nacl-arm-gcc/gcc/po/nl.po/mnt/stockage/packages/f22/nacl-arm-gcc/libcpp/po/nl.po | 
- | [hr]({{< ref "/f22/language/hr.md" >}}) | 779 | 79176 | 1.0 | /mnt/stockage/packages/f22/nacl-arm-gcc/gcc/po/hr.po | 
- | [be]({{< ref "/f22/language/be.md" >}}) | 431 | 80406 | 0.5 | /mnt/stockage/packages/f22/nacl-arm-gcc/gcc/po/be.po/mnt/stockage/packages/f22/nacl-arm-gcc/libcpp/po/be.po | 
- | [el]({{< ref "/f22/language/el.md" >}}) | 417 | 80406 | 0.5 | /mnt/stockage/packages/f22/nacl-arm-gcc/gcc/po/el.po/mnt/stockage/packages/f22/nacl-arm-gcc/libcpp/po/el.po | 
+ | [eo](/f22/language/eo) | 1230 | 1230 | 100.0 | /mnt/stockage/packages/f22/nacl-arm-gcc/libcpp/po/eo.po | 
+ | [pt_BR](/f22/language/pt_BR) | 1230 | 1230 | 100.0 | /mnt/stockage/packages/f22/nacl-arm-gcc/libcpp/po/pt_BR.po | 
+ | [sv](/f22/language/sv) | 80406 | 80406 | 100.0 | /mnt/stockage/packages/f22/nacl-arm-gcc/gcc/po/sv.po/mnt/stockage/packages/f22/nacl-arm-gcc/libcpp/po/sv.po | 
+ | [uk](/f22/language/uk) | 1230 | 1230 | 100.0 | /mnt/stockage/packages/f22/nacl-arm-gcc/libcpp/po/uk.po | 
+ | [de](/f22/language/de) | 72515 | 80411 | 90.2 | /mnt/stockage/packages/f22/nacl-arm-gcc/gcc/po/de.po/mnt/stockage/packages/f22/nacl-arm-gcc/libcpp/po/de.po/mnt/stockage/packages/f22/nacl-arm-gcc/libstdc++-v3/po/de.po | 
+ | [es](/f22/language/es) | 66860 | 80406 | 83.2 | /mnt/stockage/packages/f22/nacl-arm-gcc/gcc/po/es.po/mnt/stockage/packages/f22/nacl-arm-gcc/libcpp/po/es.po | 
+ | [ca](/f22/language/ca) | 989 | 1230 | 80.4 | /mnt/stockage/packages/f22/nacl-arm-gcc/libcpp/po/ca.po | 
+ | [zh_Hans](/f22/language/zh_Hans) | 52606 | 80406 | 65.4 | /mnt/stockage/packages/f22/nacl-arm-gcc/gcc/po/zh_CN.po/mnt/stockage/packages/f22/nacl-arm-gcc/libcpp/po/zh_CN.po | 
+ | [id](/f22/language/id) | 41453 | 80406 | 51.6 | /mnt/stockage/packages/f22/nacl-arm-gcc/gcc/po/id.po/mnt/stockage/packages/f22/nacl-arm-gcc/libcpp/po/id.po | 
+ | [sr](/f22/language/sr) | 32175 | 80406 | 40.0 | /mnt/stockage/packages/f22/nacl-arm-gcc/gcc/po/sr.po/mnt/stockage/packages/f22/nacl-arm-gcc/libcpp/po/sr.po | 
+ | [tr](/f22/language/tr) | 28516 | 80406 | 35.5 | /mnt/stockage/packages/f22/nacl-arm-gcc/gcc/po/tr.po/mnt/stockage/packages/f22/nacl-arm-gcc/libcpp/po/tr.po | 
+ | [ja](/f22/language/ja) | 25864 | 80406 | 32.2 | /mnt/stockage/packages/f22/nacl-arm-gcc/gcc/po/ja.po/mnt/stockage/packages/f22/nacl-arm-gcc/libcpp/po/ja.po | 
+ | [zh_Hant](/f22/language/zh_Hant) | 25419 | 80406 | 31.6 | /mnt/stockage/packages/f22/nacl-arm-gcc/gcc/po/zh_TW.po/mnt/stockage/packages/f22/nacl-arm-gcc/libcpp/po/zh_TW.po | 
+ | [vi](/f22/language/vi) | 24909 | 80406 | 31.0 | /mnt/stockage/packages/f22/nacl-arm-gcc/gcc/po/vi.po/mnt/stockage/packages/f22/nacl-arm-gcc/libcpp/po/vi.po | 
+ | [ru](/f22/language/ru) | 22744 | 80406 | 28.3 | /mnt/stockage/packages/f22/nacl-arm-gcc/gcc/po/ru.po/mnt/stockage/packages/f22/nacl-arm-gcc/libcpp/po/ru.po | 
+ | [fi](/f22/language/fi) | 15628 | 80406 | 19.4 | /mnt/stockage/packages/f22/nacl-arm-gcc/gcc/po/fi.po/mnt/stockage/packages/f22/nacl-arm-gcc/libcpp/po/fi.po | 
+ | [fr](/f22/language/fr) | 11570 | 80411 | 14.4 | /mnt/stockage/packages/f22/nacl-arm-gcc/gcc/po/fr.po/mnt/stockage/packages/f22/nacl-arm-gcc/libcpp/po/fr.po/mnt/stockage/packages/f22/nacl-arm-gcc/libstdc++-v3/po/fr.po | 
+ | [da](/f22/language/da) | 8470 | 80406 | 10.5 | /mnt/stockage/packages/f22/nacl-arm-gcc/gcc/po/da.po/mnt/stockage/packages/f22/nacl-arm-gcc/libcpp/po/da.po | 
+ | [nl](/f22/language/nl) | 6421 | 80406 | 8.0 | /mnt/stockage/packages/f22/nacl-arm-gcc/gcc/po/nl.po/mnt/stockage/packages/f22/nacl-arm-gcc/libcpp/po/nl.po | 
+ | [hr](/f22/language/hr) | 779 | 79176 | 1.0 | /mnt/stockage/packages/f22/nacl-arm-gcc/gcc/po/hr.po | 
+ | [be](/f22/language/be) | 431 | 80406 | 0.5 | /mnt/stockage/packages/f22/nacl-arm-gcc/gcc/po/be.po/mnt/stockage/packages/f22/nacl-arm-gcc/libcpp/po/be.po | 
+ | [el](/f22/language/el) | 417 | 80406 | 0.5 | /mnt/stockage/packages/f22/nacl-arm-gcc/gcc/po/el.po/mnt/stockage/packages/f22/nacl-arm-gcc/libcpp/po/el.po | 
 {.sortable}
 
 

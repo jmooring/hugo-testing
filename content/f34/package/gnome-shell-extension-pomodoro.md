@@ -18,29 +18,29 @@ The package gnome-shell-extension-pomodoro (version 0.19.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f34/language/ca.md" >}}) | 341 | 341 | 100.0 | /mnt/stockage/packages/f34/gnome-shell-extension-pomodoro/po/ca.po | 
- | [cs]({{< ref "/f34/language/cs.md" >}}) | 258 | 258 | 100.0 | /mnt/stockage/packages/f34/gnome-shell-extension-pomodoro/po/cs.po | 
- | [de]({{< ref "/f34/language/de.md" >}}) | 341 | 341 | 100.0 | /mnt/stockage/packages/f34/gnome-shell-extension-pomodoro/po/de.po | 
- | [el]({{< ref "/f34/language/el.md" >}}) | 258 | 258 | 100.0 | /mnt/stockage/packages/f34/gnome-shell-extension-pomodoro/po/el.po | 
- | [eo]({{< ref "/f34/language/eo.md" >}}) | 341 | 341 | 100.0 | /mnt/stockage/packages/f34/gnome-shell-extension-pomodoro/po/eo.po | 
- | [fa]({{< ref "/f34/language/fa.md" >}}) | 282 | 282 | 100.0 | /mnt/stockage/packages/f34/gnome-shell-extension-pomodoro/po/fa.po | 
- | [fi]({{< ref "/f34/language/fi.md" >}}) | 341 | 341 | 100.0 | /mnt/stockage/packages/f34/gnome-shell-extension-pomodoro/po/fi.po | 
- | [fr]({{< ref "/f34/language/fr.md" >}}) | 339 | 339 | 100.0 | /mnt/stockage/packages/f34/gnome-shell-extension-pomodoro/po/fr.po | 
- | [id]({{< ref "/f34/language/id.md" >}}) | 341 | 341 | 100.0 | /mnt/stockage/packages/f34/gnome-shell-extension-pomodoro/po/id.po | 
- | [it]({{< ref "/f34/language/it.md" >}}) | 336 | 336 | 100.0 | /mnt/stockage/packages/f34/gnome-shell-extension-pomodoro/po/it.po | 
- | [kk]({{< ref "/f34/language/kk.md" >}}) | 336 | 336 | 100.0 | /mnt/stockage/packages/f34/gnome-shell-extension-pomodoro/po/kk.po | 
- | [ko]({{< ref "/f34/language/ko.md" >}}) | 341 | 341 | 100.0 | /mnt/stockage/packages/f34/gnome-shell-extension-pomodoro/po/ko.po | 
- | [lt]({{< ref "/f34/language/lt.md" >}}) | 336 | 336 | 100.0 | /mnt/stockage/packages/f34/gnome-shell-extension-pomodoro/po/lt.po | 
- | [nb_NO]({{< ref "/f34/language/nb_NO.md" >}}) | 341 | 341 | 100.0 | /mnt/stockage/packages/f34/gnome-shell-extension-pomodoro/po/nb.po | 
- | [nl]({{< ref "/f34/language/nl.md" >}}) | 336 | 336 | 100.0 | /mnt/stockage/packages/f34/gnome-shell-extension-pomodoro/po/nl.po | 
- | [pl]({{< ref "/f34/language/pl.md" >}}) | 341 | 341 | 100.0 | /mnt/stockage/packages/f34/gnome-shell-extension-pomodoro/po/pl.po | 
- | [ru]({{< ref "/f34/language/ru.md" >}}) | 449 | 449 | 100.0 | /mnt/stockage/packages/f34/gnome-shell-extension-pomodoro/po/ru.po | 
- | [sv]({{< ref "/f34/language/sv.md" >}}) | 341 | 341 | 100.0 | /mnt/stockage/packages/f34/gnome-shell-extension-pomodoro/po/sv.po | 
- | [tr]({{< ref "/f34/language/tr.md" >}}) | 280 | 280 | 100.0 | /mnt/stockage/packages/f34/gnome-shell-extension-pomodoro/po/tr.po | 
- | [zh_Hans]({{< ref "/f34/language/zh_Hans.md" >}}) | 341 | 341 | 100.0 | /mnt/stockage/packages/f34/gnome-shell-extension-pomodoro/po/zh_CN.po | 
- | [es]({{< ref "/f34/language/es.md" >}}) | 373 | 374 | 99.7 | /mnt/stockage/packages/f34/gnome-shell-extension-pomodoro/po/es.po | 
- | [pt_BR]({{< ref "/f34/language/pt_BR.md" >}}) | 255 | 339 | 75.2 | /mnt/stockage/packages/f34/gnome-shell-extension-pomodoro/po/pt_BR.po | 
- | [hu]({{< ref "/f34/language/hu.md" >}}) | 26 | 282 | 9.2 | /mnt/stockage/packages/f34/gnome-shell-extension-pomodoro/po/hu.po | 
+ | [ca](/f34/language/ca) | 341 | 341 | 100.0 | /mnt/stockage/packages/f34/gnome-shell-extension-pomodoro/po/ca.po | 
+ | [cs](/f34/language/cs) | 258 | 258 | 100.0 | /mnt/stockage/packages/f34/gnome-shell-extension-pomodoro/po/cs.po | 
+ | [de](/f34/language/de) | 341 | 341 | 100.0 | /mnt/stockage/packages/f34/gnome-shell-extension-pomodoro/po/de.po | 
+ | [el](/f34/language/el) | 258 | 258 | 100.0 | /mnt/stockage/packages/f34/gnome-shell-extension-pomodoro/po/el.po | 
+ | [eo](/f34/language/eo) | 341 | 341 | 100.0 | /mnt/stockage/packages/f34/gnome-shell-extension-pomodoro/po/eo.po | 
+ | [fa](/f34/language/fa) | 282 | 282 | 100.0 | /mnt/stockage/packages/f34/gnome-shell-extension-pomodoro/po/fa.po | 
+ | [fi](/f34/language/fi) | 341 | 341 | 100.0 | /mnt/stockage/packages/f34/gnome-shell-extension-pomodoro/po/fi.po | 
+ | [fr](/f34/language/fr) | 339 | 339 | 100.0 | /mnt/stockage/packages/f34/gnome-shell-extension-pomodoro/po/fr.po | 
+ | [id](/f34/language/id) | 341 | 341 | 100.0 | /mnt/stockage/packages/f34/gnome-shell-extension-pomodoro/po/id.po | 
+ | [it](/f34/language/it) | 336 | 336 | 100.0 | /mnt/stockage/packages/f34/gnome-shell-extension-pomodoro/po/it.po | 
+ | [kk](/f34/language/kk) | 336 | 336 | 100.0 | /mnt/stockage/packages/f34/gnome-shell-extension-pomodoro/po/kk.po | 
+ | [ko](/f34/language/ko) | 341 | 341 | 100.0 | /mnt/stockage/packages/f34/gnome-shell-extension-pomodoro/po/ko.po | 
+ | [lt](/f34/language/lt) | 336 | 336 | 100.0 | /mnt/stockage/packages/f34/gnome-shell-extension-pomodoro/po/lt.po | 
+ | [nb_NO](/f34/language/nb_NO) | 341 | 341 | 100.0 | /mnt/stockage/packages/f34/gnome-shell-extension-pomodoro/po/nb.po | 
+ | [nl](/f34/language/nl) | 336 | 336 | 100.0 | /mnt/stockage/packages/f34/gnome-shell-extension-pomodoro/po/nl.po | 
+ | [pl](/f34/language/pl) | 341 | 341 | 100.0 | /mnt/stockage/packages/f34/gnome-shell-extension-pomodoro/po/pl.po | 
+ | [ru](/f34/language/ru) | 449 | 449 | 100.0 | /mnt/stockage/packages/f34/gnome-shell-extension-pomodoro/po/ru.po | 
+ | [sv](/f34/language/sv) | 341 | 341 | 100.0 | /mnt/stockage/packages/f34/gnome-shell-extension-pomodoro/po/sv.po | 
+ | [tr](/f34/language/tr) | 280 | 280 | 100.0 | /mnt/stockage/packages/f34/gnome-shell-extension-pomodoro/po/tr.po | 
+ | [zh_Hans](/f34/language/zh_Hans) | 341 | 341 | 100.0 | /mnt/stockage/packages/f34/gnome-shell-extension-pomodoro/po/zh_CN.po | 
+ | [es](/f34/language/es) | 373 | 374 | 99.7 | /mnt/stockage/packages/f34/gnome-shell-extension-pomodoro/po/es.po | 
+ | [pt_BR](/f34/language/pt_BR) | 255 | 339 | 75.2 | /mnt/stockage/packages/f34/gnome-shell-extension-pomodoro/po/pt_BR.po | 
+ | [hu](/f34/language/hu) | 26 | 282 | 9.2 | /mnt/stockage/packages/f34/gnome-shell-extension-pomodoro/po/hu.po | 
 {.sortable}
 
 

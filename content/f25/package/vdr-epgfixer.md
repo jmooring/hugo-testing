@@ -18,7 +18,7 @@ The package vdr-epgfixer (version 0.3.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fi]({{< ref "/f25/language/fi.md" >}}) | 357 | 357 | 100.0 | /mnt/stockage/packages/f25/vdr-epgfixer/po/fi_FI.po | 
+ | [fi](/f25/language/fi) | 357 | 357 | 100.0 | /mnt/stockage/packages/f25/vdr-epgfixer/po/fi_FI.po | 
 {.sortable}
 
 

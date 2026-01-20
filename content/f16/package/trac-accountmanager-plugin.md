@@ -18,10 +18,10 @@ The package trac-accountmanager-plugin (version 0.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f16/language/de.md" >}}) | 965 | 965 | 100.0 | /mnt/stockage/packages/f16/trac-accountmanager-plugin/acct_mgr/locale/de/LC_MESSAGES/acct_mgr.po | 
- | [es]({{< ref "/f16/language/es.md" >}}) | 670 | 965 | 69.4 | /mnt/stockage/packages/f16/trac-accountmanager-plugin/acct_mgr/locale/es/LC_MESSAGES/acct_mgr.po | 
- | [ja]({{< ref "/f16/language/ja.md" >}}) | 667 | 965 | 69.1 | /mnt/stockage/packages/f16/trac-accountmanager-plugin/acct_mgr/locale/ja/LC_MESSAGES/acct_mgr.po | 
- | [ru]({{< ref "/f16/language/ru.md" >}}) | 598 | 965 | 62.0 | /mnt/stockage/packages/f16/trac-accountmanager-plugin/acct_mgr/locale/ru/LC_MESSAGES/acct_mgr.po | 
+ | [de](/f16/language/de) | 965 | 965 | 100.0 | /mnt/stockage/packages/f16/trac-accountmanager-plugin/acct_mgr/locale/de/LC_MESSAGES/acct_mgr.po | 
+ | [es](/f16/language/es) | 670 | 965 | 69.4 | /mnt/stockage/packages/f16/trac-accountmanager-plugin/acct_mgr/locale/es/LC_MESSAGES/acct_mgr.po | 
+ | [ja](/f16/language/ja) | 667 | 965 | 69.1 | /mnt/stockage/packages/f16/trac-accountmanager-plugin/acct_mgr/locale/ja/LC_MESSAGES/acct_mgr.po | 
+ | [ru](/f16/language/ru) | 598 | 965 | 62.0 | /mnt/stockage/packages/f16/trac-accountmanager-plugin/acct_mgr/locale/ru/LC_MESSAGES/acct_mgr.po | 
 {.sortable}
 
 

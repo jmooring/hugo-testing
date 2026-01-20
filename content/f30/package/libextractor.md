@@ -18,19 +18,19 @@ The package libextractor (version 1.9):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f30/language/de.md" >}}) | 1952 | 1978 | 98.7 | /mnt/stockage/packages/f30/libextractor/po/de.po | 
- | [fr]({{< ref "/f30/language/fr.md" >}}) | 1952 | 1978 | 98.7 | /mnt/stockage/packages/f30/libextractor/po/fr.po | 
- | [pl]({{< ref "/f30/language/pl.md" >}}) | 1952 | 1978 | 98.7 | /mnt/stockage/packages/f30/libextractor/po/pl.po | 
- | [sr]({{< ref "/f30/language/sr.md" >}}) | 1952 | 1978 | 98.7 | /mnt/stockage/packages/f30/libextractor/po/sr.po | 
- | [uk]({{< ref "/f30/language/uk.md" >}}) | 1952 | 1978 | 98.7 | /mnt/stockage/packages/f30/libextractor/po/uk.po | 
- | [nl]({{< ref "/f30/language/nl.md" >}}) | 1765 | 1978 | 89.2 | /mnt/stockage/packages/f30/libextractor/po/nl.po | 
- | [es]({{< ref "/f30/language/es.md" >}}) | 1553 | 1978 | 78.5 | /mnt/stockage/packages/f30/libextractor/po/es.po | 
- | [vi]({{< ref "/f30/language/vi.md" >}}) | 1460 | 1978 | 73.8 | /mnt/stockage/packages/f30/libextractor/po/vi.po | 
- | [it]({{< ref "/f30/language/it.md" >}}) | 442 | 1978 | 22.3 | /mnt/stockage/packages/f30/libextractor/po/it.po | 
- | [ga]({{< ref "/f30/language/ga.md" >}}) | 367 | 1978 | 18.6 | /mnt/stockage/packages/f30/libextractor/po/ga.po | 
- | [sv]({{< ref "/f30/language/sv.md" >}}) | 367 | 1978 | 18.6 | /mnt/stockage/packages/f30/libextractor/po/sv.po | 
- | [ro]({{< ref "/f30/language/ro.md" >}}) | 260 | 1978 | 13.1 | /mnt/stockage/packages/f30/libextractor/po/ro.po | 
- | [rw]({{< ref "/f30/language/rw.md" >}}) | 5 | 1978 | 0.3 | /mnt/stockage/packages/f30/libextractor/po/rw.po | 
+ | [de](/f30/language/de) | 1952 | 1978 | 98.7 | /mnt/stockage/packages/f30/libextractor/po/de.po | 
+ | [fr](/f30/language/fr) | 1952 | 1978 | 98.7 | /mnt/stockage/packages/f30/libextractor/po/fr.po | 
+ | [pl](/f30/language/pl) | 1952 | 1978 | 98.7 | /mnt/stockage/packages/f30/libextractor/po/pl.po | 
+ | [sr](/f30/language/sr) | 1952 | 1978 | 98.7 | /mnt/stockage/packages/f30/libextractor/po/sr.po | 
+ | [uk](/f30/language/uk) | 1952 | 1978 | 98.7 | /mnt/stockage/packages/f30/libextractor/po/uk.po | 
+ | [nl](/f30/language/nl) | 1765 | 1978 | 89.2 | /mnt/stockage/packages/f30/libextractor/po/nl.po | 
+ | [es](/f30/language/es) | 1553 | 1978 | 78.5 | /mnt/stockage/packages/f30/libextractor/po/es.po | 
+ | [vi](/f30/language/vi) | 1460 | 1978 | 73.8 | /mnt/stockage/packages/f30/libextractor/po/vi.po | 
+ | [it](/f30/language/it) | 442 | 1978 | 22.3 | /mnt/stockage/packages/f30/libextractor/po/it.po | 
+ | [ga](/f30/language/ga) | 367 | 1978 | 18.6 | /mnt/stockage/packages/f30/libextractor/po/ga.po | 
+ | [sv](/f30/language/sv) | 367 | 1978 | 18.6 | /mnt/stockage/packages/f30/libextractor/po/sv.po | 
+ | [ro](/f30/language/ro) | 260 | 1978 | 13.1 | /mnt/stockage/packages/f30/libextractor/po/ro.po | 
+ | [rw](/f30/language/rw) | 5 | 1978 | 0.3 | /mnt/stockage/packages/f30/libextractor/po/rw.po | 
 {.sortable}
 
 

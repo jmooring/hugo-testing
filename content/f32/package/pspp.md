@@ -18,25 +18,25 @@ The package pspp (version 1.2.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f32/language/ca.md" >}}) | 10292 | 10333 | 99.6 | /mnt/stockage/packages/f32/pspp/po/ca.po | 
- | [de]({{< ref "/f32/language/de.md" >}}) | 10292 | 10333 | 99.6 | /mnt/stockage/packages/f32/pspp/po/de.po | 
- | [es]({{< ref "/f32/language/es.md" >}}) | 10292 | 10333 | 99.6 | /mnt/stockage/packages/f32/pspp/po/es.po | 
- | [hu]({{< ref "/f32/language/hu.md" >}}) | 10292 | 10333 | 99.6 | /mnt/stockage/packages/f32/pspp/po/hu.po | 
- | [nl]({{< ref "/f32/language/nl.md" >}}) | 10292 | 10333 | 99.6 | /mnt/stockage/packages/f32/pspp/po/nl.po | 
- | [uk]({{< ref "/f32/language/uk.md" >}}) | 10292 | 10333 | 99.6 | /mnt/stockage/packages/f32/pspp/po/uk.po | 
- | [zh_Hans]({{< ref "/f32/language/zh_Hans.md" >}}) | 10289 | 10333 | 99.6 | /mnt/stockage/packages/f32/pspp/po/zh_CN.po | 
- | [fr]({{< ref "/f32/language/fr.md" >}}) | 10282 | 10333 | 99.5 | /mnt/stockage/packages/f32/pspp/po/fr.po | 
- | [el]({{< ref "/f32/language/el.md" >}}) | 10253 | 10333 | 99.2 | /mnt/stockage/packages/f32/pspp/po/el.po | 
- | [ja]({{< ref "/f32/language/ja.md" >}}) | 10059 | 10333 | 97.3 | /mnt/stockage/packages/f32/pspp/po/ja.po | 
- | [ru]({{< ref "/f32/language/ru.md" >}}) | 9620 | 10333 | 93.1 | /mnt/stockage/packages/f32/pspp/po/ru.po | 
- | [gl]({{< ref "/f32/language/gl.md" >}}) | 9277 | 10333 | 89.8 | /mnt/stockage/packages/f32/pspp/po/gl.po | 
- | [pl]({{< ref "/f32/language/pl.md" >}}) | 9277 | 10333 | 89.8 | /mnt/stockage/packages/f32/pspp/po/pl.po | 
- | [lt]({{< ref "/f32/language/lt.md" >}}) | 8104 | 10333 | 78.4 | /mnt/stockage/packages/f32/pspp/po/lt.po | 
- | [tr]({{< ref "/f32/language/tr.md" >}}) | 5334 | 10333 | 51.6 | /mnt/stockage/packages/f32/pspp/po/tr.po | 
- | [sl]({{< ref "/f32/language/sl.md" >}}) | 2851 | 10333 | 27.6 | /mnt/stockage/packages/f32/pspp/po/sl.po | 
- | [pt_BR]({{< ref "/f32/language/pt_BR.md" >}}) | 2552 | 10333 | 24.7 | /mnt/stockage/packages/f32/pspp/po/pt_BR.po | 
- | [en_GB]({{< ref "/f32/language/en_GB.md" >}}) | 522 | 10328 | 5.1 | /mnt/stockage/packages/f32/pspp/po/en_GB.po | 
- | [cs]({{< ref "/f32/language/cs.md" >}}) | 11 | 10328 | 0.1 | /mnt/stockage/packages/f32/pspp/po/cs.po | 
+ | [ca](/f32/language/ca) | 10292 | 10333 | 99.6 | /mnt/stockage/packages/f32/pspp/po/ca.po | 
+ | [de](/f32/language/de) | 10292 | 10333 | 99.6 | /mnt/stockage/packages/f32/pspp/po/de.po | 
+ | [es](/f32/language/es) | 10292 | 10333 | 99.6 | /mnt/stockage/packages/f32/pspp/po/es.po | 
+ | [hu](/f32/language/hu) | 10292 | 10333 | 99.6 | /mnt/stockage/packages/f32/pspp/po/hu.po | 
+ | [nl](/f32/language/nl) | 10292 | 10333 | 99.6 | /mnt/stockage/packages/f32/pspp/po/nl.po | 
+ | [uk](/f32/language/uk) | 10292 | 10333 | 99.6 | /mnt/stockage/packages/f32/pspp/po/uk.po | 
+ | [zh_Hans](/f32/language/zh_Hans) | 10289 | 10333 | 99.6 | /mnt/stockage/packages/f32/pspp/po/zh_CN.po | 
+ | [fr](/f32/language/fr) | 10282 | 10333 | 99.5 | /mnt/stockage/packages/f32/pspp/po/fr.po | 
+ | [el](/f32/language/el) | 10253 | 10333 | 99.2 | /mnt/stockage/packages/f32/pspp/po/el.po | 
+ | [ja](/f32/language/ja) | 10059 | 10333 | 97.3 | /mnt/stockage/packages/f32/pspp/po/ja.po | 
+ | [ru](/f32/language/ru) | 9620 | 10333 | 93.1 | /mnt/stockage/packages/f32/pspp/po/ru.po | 
+ | [gl](/f32/language/gl) | 9277 | 10333 | 89.8 | /mnt/stockage/packages/f32/pspp/po/gl.po | 
+ | [pl](/f32/language/pl) | 9277 | 10333 | 89.8 | /mnt/stockage/packages/f32/pspp/po/pl.po | 
+ | [lt](/f32/language/lt) | 8104 | 10333 | 78.4 | /mnt/stockage/packages/f32/pspp/po/lt.po | 
+ | [tr](/f32/language/tr) | 5334 | 10333 | 51.6 | /mnt/stockage/packages/f32/pspp/po/tr.po | 
+ | [sl](/f32/language/sl) | 2851 | 10333 | 27.6 | /mnt/stockage/packages/f32/pspp/po/sl.po | 
+ | [pt_BR](/f32/language/pt_BR) | 2552 | 10333 | 24.7 | /mnt/stockage/packages/f32/pspp/po/pt_BR.po | 
+ | [en_GB](/f32/language/en_GB) | 522 | 10328 | 5.1 | /mnt/stockage/packages/f32/pspp/po/en_GB.po | 
+ | [cs](/f32/language/cs) | 11 | 10328 | 0.1 | /mnt/stockage/packages/f32/pspp/po/cs.po | 
 {.sortable}
 
 

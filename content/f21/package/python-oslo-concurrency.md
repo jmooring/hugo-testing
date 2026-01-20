@@ -18,7 +18,7 @@ The package python-oslo-concurrency (version 1.4.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [en_GB]({{< ref "/f21/language/en_GB.md" >}}) | 65 | 111 | 58.6 | /mnt/stockage/packages/f21/python-oslo-concurrency/oslo.concurrency/locale/en_GB/LC_MESSAGES/oslo.concurrency-log-info.po/mnt/stockage/packages/f21/python-oslo-concurrency/oslo.concurrency/locale/en_GB/LC_MESSAGES/oslo.concurrency.po | 
+ | [en_GB](/f21/language/en_GB) | 65 | 111 | 58.6 | /mnt/stockage/packages/f21/python-oslo-concurrency/oslo.concurrency/locale/en_GB/LC_MESSAGES/oslo.concurrency-log-info.po/mnt/stockage/packages/f21/python-oslo-concurrency/oslo.concurrency/locale/en_GB/LC_MESSAGES/oslo.concurrency.po | 
 {.sortable}
 
 

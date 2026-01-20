@@ -18,18 +18,18 @@ The package plasma-applet-weather-widget (version 1.6.10):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [bg]({{< ref "/f26/language/bg.md" >}}) | 166 | 166 | 100.0 | /mnt/stockage/packages/f26/plasma-applet-weather-widget/translations/po/plasma_applet_org.kde.weatherWidget_bg.po | 
- | [de]({{< ref "/f26/language/de.md" >}}) | 166 | 166 | 100.0 | /mnt/stockage/packages/f26/plasma-applet-weather-widget/translations/po/plasma_applet_org.kde.weatherWidget_de.po | 
- | [es]({{< ref "/f26/language/es.md" >}}) | 166 | 166 | 100.0 | /mnt/stockage/packages/f26/plasma-applet-weather-widget/translations/po/plasma_applet_org.kde.weatherWidget_es.po | 
- | [fr]({{< ref "/f26/language/fr.md" >}}) | 166 | 166 | 100.0 | /mnt/stockage/packages/f26/plasma-applet-weather-widget/translations/po/plasma_applet_org.kde.weatherWidget_fr.po | 
- | [hu]({{< ref "/f26/language/hu.md" >}}) | 166 | 166 | 100.0 | /mnt/stockage/packages/f26/plasma-applet-weather-widget/translations/po/plasma_applet_org.kde.weatherWidget_hu_HU.po | 
- | [it]({{< ref "/f26/language/it.md" >}}) | 166 | 166 | 100.0 | /mnt/stockage/packages/f26/plasma-applet-weather-widget/translations/po/plasma_applet_org.kde.weatherWidget_it_IT.po | 
- | [pl]({{< ref "/f26/language/pl.md" >}}) | 166 | 166 | 100.0 | /mnt/stockage/packages/f26/plasma-applet-weather-widget/translations/po/plasma_applet_org.kde.weatherWidget_pl.po | 
- | [zh_Hans]({{< ref "/f26/language/zh_Hans.md" >}}) | 166 | 166 | 100.0 | /mnt/stockage/packages/f26/plasma-applet-weather-widget/translations/po/plasma_applet_org.kde.weatherWidget_zh_CN.po | 
- | [zh_Hant]({{< ref "/f26/language/zh_Hant.md" >}}) | 166 | 166 | 100.0 | /mnt/stockage/packages/f26/plasma-applet-weather-widget/translations/po/plasma_applet_org.kde.weatherWidget_zh_TW.po | 
- | [ru]({{< ref "/f26/language/ru.md" >}}) | 161 | 166 | 97.0 | /mnt/stockage/packages/f26/plasma-applet-weather-widget/translations/po/plasma_applet_org.kde.weatherWidget_ru.po | 
- | [cs]({{< ref "/f26/language/cs.md" >}}) | 155 | 166 | 93.4 | /mnt/stockage/packages/f26/plasma-applet-weather-widget/translations/po/plasma_applet_org.kde.weatherWidget_cs.po | 
- | [en]({{< ref "/f26/language/en.md" >}}) | 0 | 166 | 0.0 | /mnt/stockage/packages/f26/plasma-applet-weather-widget/translations/po/plasma_applet_org.kde.weatherWidget_en.po | 
+ | [bg](/f26/language/bg) | 166 | 166 | 100.0 | /mnt/stockage/packages/f26/plasma-applet-weather-widget/translations/po/plasma_applet_org.kde.weatherWidget_bg.po | 
+ | [de](/f26/language/de) | 166 | 166 | 100.0 | /mnt/stockage/packages/f26/plasma-applet-weather-widget/translations/po/plasma_applet_org.kde.weatherWidget_de.po | 
+ | [es](/f26/language/es) | 166 | 166 | 100.0 | /mnt/stockage/packages/f26/plasma-applet-weather-widget/translations/po/plasma_applet_org.kde.weatherWidget_es.po | 
+ | [fr](/f26/language/fr) | 166 | 166 | 100.0 | /mnt/stockage/packages/f26/plasma-applet-weather-widget/translations/po/plasma_applet_org.kde.weatherWidget_fr.po | 
+ | [hu](/f26/language/hu) | 166 | 166 | 100.0 | /mnt/stockage/packages/f26/plasma-applet-weather-widget/translations/po/plasma_applet_org.kde.weatherWidget_hu_HU.po | 
+ | [it](/f26/language/it) | 166 | 166 | 100.0 | /mnt/stockage/packages/f26/plasma-applet-weather-widget/translations/po/plasma_applet_org.kde.weatherWidget_it_IT.po | 
+ | [pl](/f26/language/pl) | 166 | 166 | 100.0 | /mnt/stockage/packages/f26/plasma-applet-weather-widget/translations/po/plasma_applet_org.kde.weatherWidget_pl.po | 
+ | [zh_Hans](/f26/language/zh_Hans) | 166 | 166 | 100.0 | /mnt/stockage/packages/f26/plasma-applet-weather-widget/translations/po/plasma_applet_org.kde.weatherWidget_zh_CN.po | 
+ | [zh_Hant](/f26/language/zh_Hant) | 166 | 166 | 100.0 | /mnt/stockage/packages/f26/plasma-applet-weather-widget/translations/po/plasma_applet_org.kde.weatherWidget_zh_TW.po | 
+ | [ru](/f26/language/ru) | 161 | 166 | 97.0 | /mnt/stockage/packages/f26/plasma-applet-weather-widget/translations/po/plasma_applet_org.kde.weatherWidget_ru.po | 
+ | [cs](/f26/language/cs) | 155 | 166 | 93.4 | /mnt/stockage/packages/f26/plasma-applet-weather-widget/translations/po/plasma_applet_org.kde.weatherWidget_cs.po | 
+ | [en](/f26/language/en) | 0 | 166 | 0.0 | /mnt/stockage/packages/f26/plasma-applet-weather-widget/translations/po/plasma_applet_org.kde.weatherWidget_en.po | 
 {.sortable}
 
 

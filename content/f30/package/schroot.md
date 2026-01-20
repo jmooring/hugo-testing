@@ -18,17 +18,17 @@ The package schroot (version 1.6.10):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [da]({{< ref "/f30/language/da.md" >}}) | 1665 | 1665 | 100.0 | /mnt/stockage/packages/f30/schroot/po/da.po | 
- | [de]({{< ref "/f30/language/de.md" >}}) | 14244 | 14244 | 100.0 | /mnt/stockage/packages/f30/schroot/man/po/de.po/mnt/stockage/packages/f30/schroot/po/de.po | 
- | [en]({{< ref "/f30/language/en.md" >}}) | 1665 | 1665 | 100.0 | /mnt/stockage/packages/f30/schroot/po/en.po | 
- | [eu]({{< ref "/f30/language/eu.md" >}}) | 1665 | 1665 | 100.0 | /mnt/stockage/packages/f30/schroot/po/eu.po | 
- | [pt]({{< ref "/f30/language/pt.md" >}}) | 1660 | 1665 | 99.7 | /mnt/stockage/packages/f30/schroot/po/pt.po | 
- | [fr]({{< ref "/f30/language/fr.md" >}}) | 14150 | 14244 | 99.3 | /mnt/stockage/packages/f30/schroot/man/po/fr.po/mnt/stockage/packages/f30/schroot/po/fr.po | 
- | [zh_Hans]({{< ref "/f30/language/zh_Hans.md" >}}) | 1539 | 1665 | 92.4 | /mnt/stockage/packages/f30/schroot/po/zh_CN.po | 
- | [it]({{< ref "/f30/language/it.md" >}}) | 1026 | 1665 | 61.6 | /mnt/stockage/packages/f30/schroot/po/it.po | 
- | [vi]({{< ref "/f30/language/vi.md" >}}) | 1019 | 1665 | 61.2 | /mnt/stockage/packages/f30/schroot/po/vi.po | 
- | [cs]({{< ref "/f30/language/cs.md" >}}) | 940 | 1665 | 56.5 | /mnt/stockage/packages/f30/schroot/po/cs.po | 
- | [sv]({{< ref "/f30/language/sv.md" >}}) | 609 | 1665 | 36.6 | /mnt/stockage/packages/f30/schroot/po/sv.po | 
+ | [da](/f30/language/da) | 1665 | 1665 | 100.0 | /mnt/stockage/packages/f30/schroot/po/da.po | 
+ | [de](/f30/language/de) | 14244 | 14244 | 100.0 | /mnt/stockage/packages/f30/schroot/man/po/de.po/mnt/stockage/packages/f30/schroot/po/de.po | 
+ | [en](/f30/language/en) | 1665 | 1665 | 100.0 | /mnt/stockage/packages/f30/schroot/po/en.po | 
+ | [eu](/f30/language/eu) | 1665 | 1665 | 100.0 | /mnt/stockage/packages/f30/schroot/po/eu.po | 
+ | [pt](/f30/language/pt) | 1660 | 1665 | 99.7 | /mnt/stockage/packages/f30/schroot/po/pt.po | 
+ | [fr](/f30/language/fr) | 14150 | 14244 | 99.3 | /mnt/stockage/packages/f30/schroot/man/po/fr.po/mnt/stockage/packages/f30/schroot/po/fr.po | 
+ | [zh_Hans](/f30/language/zh_Hans) | 1539 | 1665 | 92.4 | /mnt/stockage/packages/f30/schroot/po/zh_CN.po | 
+ | [it](/f30/language/it) | 1026 | 1665 | 61.6 | /mnt/stockage/packages/f30/schroot/po/it.po | 
+ | [vi](/f30/language/vi) | 1019 | 1665 | 61.2 | /mnt/stockage/packages/f30/schroot/po/vi.po | 
+ | [cs](/f30/language/cs) | 940 | 1665 | 56.5 | /mnt/stockage/packages/f30/schroot/po/cs.po | 
+ | [sv](/f30/language/sv) | 609 | 1665 | 36.6 | /mnt/stockage/packages/f30/schroot/po/sv.po | 
 {.sortable}
 
 

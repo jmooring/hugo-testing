@@ -38,35 +38,35 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [alacarte]({{< ref "/f26/package/alacarte.md" >}}) | 74 | 74 | 100.0 | Kikongo <lundombe01@zaya-dio.com> | 
- | [bzflag]({{< ref "/f26/package/bzflag.md" >}}) | 97 | 97 | 100.0 |  | 
- | [gnome-desktop3]({{< ref "/f26/package/gnome-desktop3.md" >}}) | 384 | 384 | 100.0 | Kikongo, kg <lundombe01@zaya-dio.com> | 
- | [gnome-menus]({{< ref "/f26/package/gnome-menus.md" >}}) | 125 | 125 | 100.0 | Kikongo <lundombe01@zaya-dio.com> | 
- | [xdg-user-dirs-gtk]({{< ref "/f26/package/xdg-user-dirs-gtk.md" >}}) | 81 | 81 | 100.0 | kikongo <lundombe01@zaya-dio.com> | 
- | [cinnamon-desktop]({{< ref "/f26/package/cinnamon-desktop.md" >}}) | 205 | 231 | 88.7 | Kikongo, kg <lundombe01@zaya-dio.com> | 
- | [gtk3]({{< ref "/f26/package/gtk3.md" >}}) | 3245 | 13283 | 24.4 | GNOME kikongo Team <lundombe01@zaya-dio.com> | 
- | [mingw-gtk3]({{< ref "/f26/package/mingw-gtk3.md" >}}) | 3245 | 13283 | 24.4 | GNOME kikongo Team <lundombe01@zaya-dio.com> | 
- | [nautilus-sendto]({{< ref "/f26/package/nautilus-sendto.md" >}}) | 39 | 275 | 14.2 | kg (Kikongo) <kongo@kintuadi.org> | 
- | [stellarium]({{< ref "/f26/package/stellarium.md" >}}) | 2 | 25796 | 0.0 | Kongo <kg@li.org> | 
- | [appcenter]({{< ref "/f26/package/appcenter.md" >}}) | 0 | 681 | 0.0 | LANGUAGE <LL@li.org> | 
- | [audience]({{< ref "/f26/package/audience.md" >}}) | 0 | 106 | 0.0 |  | 
- | [dippi]({{< ref "/f26/package/dippi.md" >}}) | 0 | 397 | 0.0 | none | 
- | [harvey]({{< ref "/f26/package/harvey.md" >}}) | 0 | 57 | 0.0 | none | 
- | [maya-calendar]({{< ref "/f26/package/maya-calendar.md" >}}) | 0 | 394 | 0.0 | LANGUAGE <LL@li.org> | 
- | [noise]({{< ref "/f26/package/noise.md" >}}) | 0 | 1322 | 0.0 | LANGUAGE <LL@li.org> | 
- | [pantheon-agent-polkit]({{< ref "/f26/package/pantheon-agent-polkit.md" >}}) | 0 | 15 | 0.0 | LANGUAGE <LL@li.org> | 
- | [pantheon-calculator]({{< ref "/f26/package/pantheon-calculator.md" >}}) | 0 | 52 | 0.0 | LANGUAGE <LL@li.org> | 
- | [pantheon-files]({{< ref "/f26/package/pantheon-files.md" >}}) | 0 | 2487 | 0.0 | LANGUAGE <LL@li.org> | 
- | [pantheon-photos]({{< ref "/f26/package/pantheon-photos.md" >}}) | 0 | 3977 | 0.0 | LANGUAGE <LL@li.org> | 
- | [scratch-text-editor]({{< ref "/f26/package/scratch-text-editor.md" >}}) | 0 | 681 | 0.0 | LANGUAGE <LL@li.org> | 
- | [screenshot-tool]({{< ref "/f26/package/screenshot-tool.md" >}}) | 0 | 146 | 0.0 | LANGUAGE <LL@li.org> | 
- | [switchboard]({{< ref "/f26/package/switchboard.md" >}}) | 0 | 41 | 0.0 | LANGUAGE <LL@li.org> | 
- | [switchboard-plug-a11y]({{< ref "/f26/package/switchboard-plug-a11y.md" >}}) | 0 | 210 | 0.0 | LANGUAGE <LL@li.org> | 
- | [switchboard-plug-about]({{< ref "/f26/package/switchboard-plug-about.md" >}}) | 0 | 72 | 0.0 | LANGUAGE <LL@li.org> | 
- | [switchboard-plug-display]({{< ref "/f26/package/switchboard-plug-display.md" >}}) | 0 | 33 | 0.0 | LANGUAGE <LL@li.org> | 
- | [switchboard-plug-pantheon-shell]({{< ref "/f26/package/switchboard-plug-pantheon-shell.md" >}}) | 0 | 132 | 0.0 |  | 
- | [switchboard-plug-printers]({{< ref "/f26/package/switchboard-plug-printers.md" >}}) | 0 | 288 | 0.0 | LANGUAGE <LL@li.org> | 
- | [vocal]({{< ref "/f26/package/vocal.md" >}}) | 0 | 377 | 0.0 | Kongo <kg@li.org> | 
+ | [alacarte](/f26/package/alacarte) | 74 | 74 | 100.0 | Kikongo <lundombe01@zaya-dio.com> | 
+ | [bzflag](/f26/package/bzflag) | 97 | 97 | 100.0 |  | 
+ | [gnome-desktop3](/f26/package/gnome-desktop3) | 384 | 384 | 100.0 | Kikongo, kg <lundombe01@zaya-dio.com> | 
+ | [gnome-menus](/f26/package/gnome-menus) | 125 | 125 | 100.0 | Kikongo <lundombe01@zaya-dio.com> | 
+ | [xdg-user-dirs-gtk](/f26/package/xdg-user-dirs-gtk) | 81 | 81 | 100.0 | kikongo <lundombe01@zaya-dio.com> | 
+ | [cinnamon-desktop](/f26/package/cinnamon-desktop) | 205 | 231 | 88.7 | Kikongo, kg <lundombe01@zaya-dio.com> | 
+ | [gtk3](/f26/package/gtk3) | 3245 | 13283 | 24.4 | GNOME kikongo Team <lundombe01@zaya-dio.com> | 
+ | [mingw-gtk3](/f26/package/mingw-gtk3) | 3245 | 13283 | 24.4 | GNOME kikongo Team <lundombe01@zaya-dio.com> | 
+ | [nautilus-sendto](/f26/package/nautilus-sendto) | 39 | 275 | 14.2 | kg (Kikongo) <kongo@kintuadi.org> | 
+ | [stellarium](/f26/package/stellarium) | 2 | 25796 | 0.0 | Kongo <kg@li.org> | 
+ | [appcenter](/f26/package/appcenter) | 0 | 681 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [audience](/f26/package/audience) | 0 | 106 | 0.0 |  | 
+ | [dippi](/f26/package/dippi) | 0 | 397 | 0.0 | none | 
+ | [harvey](/f26/package/harvey) | 0 | 57 | 0.0 | none | 
+ | [maya-calendar](/f26/package/maya-calendar) | 0 | 394 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [noise](/f26/package/noise) | 0 | 1322 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [pantheon-agent-polkit](/f26/package/pantheon-agent-polkit) | 0 | 15 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [pantheon-calculator](/f26/package/pantheon-calculator) | 0 | 52 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [pantheon-files](/f26/package/pantheon-files) | 0 | 2487 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [pantheon-photos](/f26/package/pantheon-photos) | 0 | 3977 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [scratch-text-editor](/f26/package/scratch-text-editor) | 0 | 681 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [screenshot-tool](/f26/package/screenshot-tool) | 0 | 146 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [switchboard](/f26/package/switchboard) | 0 | 41 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [switchboard-plug-a11y](/f26/package/switchboard-plug-a11y) | 0 | 210 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [switchboard-plug-about](/f26/package/switchboard-plug-about) | 0 | 72 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [switchboard-plug-display](/f26/package/switchboard-plug-display) | 0 | 33 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [switchboard-plug-pantheon-shell](/f26/package/switchboard-plug-pantheon-shell) | 0 | 132 | 0.0 |  | 
+ | [switchboard-plug-printers](/f26/package/switchboard-plug-printers) | 0 | 288 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [vocal](/f26/package/vocal) | 0 | 377 | 0.0 | Kongo <kg@li.org> | 
 {.sortable}
 
 
@@ -78,7 +78,7 @@ We use the po metadata to get the language code and the team, but sometimes it f
 
 | Package | Lang from file path/name | polib error | Team |
 |---------|--------------------------|-------------|------|
- | [bzflag]({{< ref "/f26/package/bzflag.md" >}}) | /mnt/stockage/packages/f26/bzflag/data/l10n/bzflag_kg.po | error-os |  | 
+ | [bzflag](/f26/package/bzflag) | /mnt/stockage/packages/f26/bzflag/data/l10n/bzflag_kg.po | error-os |  | 
 {.sortable}
 
 

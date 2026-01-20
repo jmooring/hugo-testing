@@ -38,176 +38,176 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [alacarte]({{< ref "/f35/package/alacarte.md" >}}) | 42 | 42 | 100.0 | Aragonese <softaragones@googlegroups.com> | 
- | [at-spi2-core]({{< ref "/f35/package/at-spi2-core.md" >}}) | 10 | 10 | 100.0 | Aragonese <softaragones@googlegroups.com> | 
- | [atk]({{< ref "/f35/package/atk.md" >}}) | 440 | 440 | 100.0 | Aragonese <softaragones@googlegroups.com> | 
- | [baobab]({{< ref "/f35/package/baobab.md" >}}) | 210 | 210 | 100.0 | Aragonés <softaragones@googlegroups.com> | 
- | [caribou]({{< ref "/f35/package/caribou.md" >}}) | 169 | 169 | 100.0 | Aragonés <softaragones@googlegroups.com> | 
- | [cheese]({{< ref "/f35/package/cheese.md" >}}) | 614 | 614 | 100.0 | Aragonés <softaragones@googlegroups.com> | 
- | [cogl]({{< ref "/f35/package/cogl.md" >}}) | 393 | 393 | 100.0 | Aragonese <softaragones@googlegroups.com> | 
- | [dialog]({{< ref "/f35/package/dialog.md" >}}) | 25 | 25 | 100.0 | Aragonese <softaragones@googlegroups.com> | 
- | [eog]({{< ref "/f35/package/eog.md" >}}) | 1502 | 1502 | 100.0 | Aragonés <softaragones@googlegroups.com> | 
- | [epiphany]({{< ref "/f35/package/epiphany.md" >}}) | 1757 | 1757 | 100.0 | Aragonés <softaragones@googlegroups.com> | 
- | [file-roller]({{< ref "/f35/package/file-roller.md" >}}) | 1198 | 1198 | 100.0 | Aragonés <softaragones@googlegroups.com> | 
- | [filezilla]({{< ref "/f35/package/filezilla.md" >}}) | 8185 | 8185 | 100.0 | softaragonés | 
- | [gdm]({{< ref "/f35/package/gdm.md" >}}) | 650 | 650 | 100.0 | Aragonés <softaragones@googlegroups.com> | 
- | [gedit]({{< ref "/f35/package/gedit.md" >}}) | 4104 | 4104 | 100.0 | Aragonés <softaragones@googlegroups.com> | 
- | [glib-networking]({{< ref "/f35/package/glib-networking.md" >}}) | 161 | 161 | 100.0 | Aragonese <softaragones@googlegroups.com> | 
- | [gnome-bluetooth]({{< ref "/f35/package/gnome-bluetooth.md" >}}) | 372 | 372 | 100.0 | Aragonés <softaragones@googlegroups.com> | 
- | [gnome-calendar]({{< ref "/f35/package/gnome-calendar.md" >}}) | 224 | 224 | 100.0 | Aragonese <softaragones@googlegroups.com> | 
- | [gnome-clocks]({{< ref "/f35/package/gnome-clocks.md" >}}) | 223 | 223 | 100.0 | Aragonés <softaragones@googlegroups.com> | 
- | [gnome-control-center]({{< ref "/f35/package/gnome-control-center.md" >}}) | 5034 | 5034 | 100.0 | Aragonés <softaragones@googlegroups.com> | 
- | [gnome-desktop3]({{< ref "/f35/package/gnome-desktop3.md" >}}) | 146 | 146 | 100.0 | Aragonés <softaragones@googlegroups.com> | 
- | [gnome-font-viewer]({{< ref "/f35/package/gnome-font-viewer.md" >}}) | 130 | 130 | 100.0 | Aragonés <softaragones@googlegroups.com> | 
- | [gnome-icon-theme]({{< ref "/f35/package/gnome-icon-theme.md" >}}) | 4 | 4 | 100.0 | Aragonese <softaragones@googlegroups.com> | 
- | [gnome-initial-setup]({{< ref "/f35/package/gnome-initial-setup.md" >}}) | 638 | 638 | 100.0 | Aragonés <softaragones@googlegroups.com> | 
- | [gnome-logs]({{< ref "/f35/package/gnome-logs.md" >}}) | 142 | 142 | 100.0 | Aragonés <softaragones@googlegroups.com> | 
- | [gnome-mahjongg]({{< ref "/f35/package/gnome-mahjongg.md" >}}) | 170 | 170 | 100.0 | Aragonese <softaragones@googlegroups.com> | 
- | [gnome-maps]({{< ref "/f35/package/gnome-maps.md" >}}) | 485 | 485 | 100.0 | Aragonés <softaragones@googlegroups.com> | 
- | [gnome-menus]({{< ref "/f35/package/gnome-menus.md" >}}) | 70 | 70 | 100.0 | Aragonés <softaragones@googlegroups.com> | 
- | [gnome-music]({{< ref "/f35/package/gnome-music.md" >}}) | 458 | 458 | 100.0 | Aragonés <softaragones@googlegroups.com> | 
- | [gnome-online-accounts]({{< ref "/f35/package/gnome-online-accounts.md" >}}) | 706 | 706 | 100.0 | Aragonés <softaragones@googlegroups.com> | 
- | [gnome-packagekit]({{< ref "/f35/package/gnome-packagekit.md" >}}) | 3593 | 3593 | 100.0 | Aragonese <softaragones@googlegroups.com> | 
- | [gnome-photos]({{< ref "/f35/package/gnome-photos.md" >}}) | 377 | 377 | 100.0 | Aragonese <softaragones@googlegroups.com> | 
- | [gnome-screenshot]({{< ref "/f35/package/gnome-screenshot.md" >}}) | 455 | 455 | 100.0 | Aragonés <softaragones@googlegroups.com> | 
- | [gnome-session]({{< ref "/f35/package/gnome-session.md" >}}) | 319 | 319 | 100.0 | Aragonés <softaragones@googlegroups.com> | 
- | [gnome-shell-extensions]({{< ref "/f35/package/gnome-shell-extensions.md" >}}) | 380 | 380 | 100.0 | Aragonés <softaragones@googlegroups.com> | 
- | [gnome-sound-recorder]({{< ref "/f35/package/gnome-sound-recorder.md" >}}) | 253 | 253 | 100.0 | Aragonese <softaragones@googlegroups.com> | 
- | [gnome-system-log]({{< ref "/f35/package/gnome-system-log.md" >}}) | 420 | 420 | 100.0 | Aragonese <softaragones@googlegroups.com> | 
- | [gnome-system-monitor]({{< ref "/f35/package/gnome-system-monitor.md" >}}) | 1276 | 1276 | 100.0 | Aragonés <softaragones@googlegroups.com> | 
- | [gnome-taquin]({{< ref "/f35/package/gnome-taquin.md" >}}) | 223 | 223 | 100.0 | Aragonese <softaragones@googlegroups.com> | 
- | [gnome-terminal]({{< ref "/f35/package/gnome-terminal.md" >}}) | 2218 | 2218 | 100.0 | Aragonés <softaragones@googlegroups.com> | 
- | [gnome-tetravex]({{< ref "/f35/package/gnome-tetravex.md" >}}) | 220 | 220 | 100.0 | Aragonese <softaragones@googlegroups.com> | 
- | [gnome-themes-extra]({{< ref "/f35/package/gnome-themes-extra.md" >}}) | 24 | 24 | 100.0 | Aragonese <softaragones@googlegroups.com> | 
- | [gnome-user-share]({{< ref "/f35/package/gnome-user-share.md" >}}) | 160 | 160 | 100.0 | Aragonés <softaragones@googlegroups.com> | 
- | [gnome-weather]({{< ref "/f35/package/gnome-weather.md" >}}) | 184 | 184 | 100.0 | Aragonés <softaragones@googlegroups.com> | 
- | [iagno]({{< ref "/f35/package/iagno.md" >}}) | 117 | 117 | 100.0 | Aragonese <softaragones@googlegroups.com> | 
- | [libfilezilla]({{< ref "/f35/package/libfilezilla.md" >}}) | 54 | 54 | 100.0 | softaragonés | 
- | [libgnome-keyring]({{< ref "/f35/package/libgnome-keyring.md" >}}) | 44 | 44 | 100.0 | Aragonese <softaragones@googlegroups.com> | 
- | [libpeas]({{< ref "/f35/package/libpeas.md" >}}) | 111 | 111 | 100.0 | Aragonés <softaragones@googlegroups.com> | 
- | [libsecret]({{< ref "/f35/package/libsecret.md" >}}) | 59 | 59 | 100.0 | Aragonese <softaragones@googlegroups.com> | 
- | [libsoup]({{< ref "/f35/package/libsoup.md" >}}) | 155 | 155 | 100.0 | Aragonese <softaragones@googlegroups.com> | 
- | [lightsoff]({{< ref "/f35/package/lightsoff.md" >}}) | 93 | 93 | 100.0 | Aragonés <softaragones@googlegroups.com> | 
- | [mingw-atk]({{< ref "/f35/package/mingw-atk.md" >}}) | 440 | 440 | 100.0 | Aragonese <softaragones@googlegroups.com> | 
- | [mingw-glib-networking]({{< ref "/f35/package/mingw-glib-networking.md" >}}) | 161 | 161 | 100.0 | Aragonese <softaragones@googlegroups.com> | 
- | [mingw-libsoup]({{< ref "/f35/package/mingw-libsoup.md" >}}) | 155 | 155 | 100.0 | Aragonese <softaragones@googlegroups.com> | 
- | [mousetweaks]({{< ref "/f35/package/mousetweaks.md" >}}) | 114 | 114 | 100.0 | Aragonés <softaragones@googlegroups.com> | 
- | [nemo-extensions]({{< ref "/f35/package/nemo-extensions.md" >}}) | 24 | 24 | 100.0 | Aragonés <softaragones@googlegroups.com> | 
- | [notification-daemon]({{< ref "/f35/package/notification-daemon.md" >}}) | 17 | 17 | 100.0 | Aragonese <softaragones@googlegroups.com> | 
- | [orca]({{< ref "/f35/package/orca.md" >}}) | 4172 | 4172 | 100.0 | Aragonese <softaragones@googlegroups.com> | 
- | [polkit-gnome]({{< ref "/f35/package/polkit-gnome.md" >}}) | 94 | 94 | 100.0 | Aragonese <softaragones@googlegroups.com> | 
- | [python-SecretStorage]({{< ref "/f35/package/python-SecretStorage.md" >}}) | 59 | 59 | 100.0 | Aragonese <softaragones@googlegroups.com> | 
- | [sushi]({{< ref "/f35/package/sushi.md" >}}) | 24 | 24 | 100.0 | Aragonés <softaragones@googlegroups.com> | 
- | [swell-foop]({{< ref "/f35/package/swell-foop.md" >}}) | 261 | 261 | 100.0 | Aragonés <softaragones@googlegroups.com> | 
- | [totem-pl-parser]({{< ref "/f35/package/totem-pl-parser.md" >}}) | 29 | 29 | 100.0 | Aragonés <softaragones@googlegroups.com> | 
- | [xdg-user-dirs]({{< ref "/f35/package/xdg-user-dirs.md" >}}) | 28 | 28 | 100.0 | Aragonese <softaragones@googlegroups.com> | 
- | [xdg-user-dirs-gtk]({{< ref "/f35/package/xdg-user-dirs-gtk.md" >}}) | 81 | 81 | 100.0 | Aragonese <softaragones@googlegroups.com> | 
- | [yelp]({{< ref "/f35/package/yelp.md" >}}) | 448 | 448 | 100.0 | Aragonese <softaragones@googlegroups.com> | 
- | [glib2]({{< ref "/f35/package/glib2.md" >}}) | 5464 | 5469 | 99.9 | Aragonese <softaragones@googlegroups.com> | 
- | [mingw-glib2]({{< ref "/f35/package/mingw-glib2.md" >}}) | 5464 | 5469 | 99.9 | Aragonese <softaragones@googlegroups.com> | 
- | [tuxpaint-stamps]({{< ref "/f35/package/tuxpaint-stamps.md" >}}) | 3246 | 3249 | 99.9 | softaragonés | 
- | [evolution]({{< ref "/f35/package/evolution.md" >}}) | 20941 | 21036 | 99.5 | Aragonese <softaragones@googlegroups.com> | 
- | [evince]({{< ref "/f35/package/evince.md" >}}) | 1521 | 1528 | 99.5 | Aragonés <softaragones@googlegroups.com> | 
- | [cinnamon-desktop]({{< ref "/f35/package/cinnamon-desktop.md" >}}) | 231 | 234 | 98.7 | Aragonés <softaragones@googlegroups.com> | 
- | [mingw-wxWidgets3]({{< ref "/f35/package/mingw-wxWidgets3.md" >}}) | 7565 | 7695 | 98.3 | softaragonés | 
- | [python-wxpython4]({{< ref "/f35/package/python-wxpython4.md" >}}) | 7565 | 7695 | 98.3 | softaragonés | 
- | [wxGTK3]({{< ref "/f35/package/wxGTK3.md" >}}) | 7565 | 7695 | 98.3 | softaragonés | 
- | [hitori]({{< ref "/f35/package/hitori.md" >}}) | 171 | 174 | 98.3 | Aragonese <softaragones@googlegroups.com> | 
- | [gnome-extensions-app]({{< ref "/f35/package/gnome-extensions-app.md" >}}) | 1298 | 1322 | 98.2 | Aragonés <softaragones@googlegroups.com> | 
- | [gnome-shell]({{< ref "/f35/package/gnome-shell.md" >}}) | 1298 | 1322 | 98.2 | Aragonés <softaragones@googlegroups.com> | 
- | [gnome-mines]({{< ref "/f35/package/gnome-mines.md" >}}) | 334 | 346 | 96.5 | Aragonese <softaragones@googlegroups.com> | 
- | [clutter]({{< ref "/f35/package/clutter.md" >}}) | 2936 | 3057 | 96.0 | Aragonés <softaragones@googlegroups.com> | 
- | [mate-menus]({{< ref "/f35/package/mate-menus.md" >}}) | 97 | 103 | 94.2 | Aragonese (https://www.transifex.com/mate/teams/13566/an/) | 
- | [wxGTK]({{< ref "/f35/package/wxGTK.md" >}}) | 6932 | 7815 | 88.7 | softaragonés | 
- | [chromium]({{< ref "/f35/package/chromium.md" >}}) | 11663 | 13999 | 83.3 | Aragonese <softaragones@googlegroups.com> | 
- | [gtk3]({{< ref "/f35/package/gtk3.md" >}}) | 11663 | 13999 | 83.3 | Aragonese <softaragones@googlegroups.com> | 
- | [gtk4]({{< ref "/f35/package/gtk4.md" >}}) | 11663 | 13999 | 83.3 | Aragonese <softaragones@googlegroups.com> | 
- | [mingw-gtk3]({{< ref "/f35/package/mingw-gtk3.md" >}}) | 11663 | 13999 | 83.3 | Aragonese <softaragones@googlegroups.com> | 
- | [nautilus]({{< ref "/f35/package/nautilus.md" >}}) | 3679 | 5079 | 72.4 | Aragonés <softaragones@googlegroups.com> | 
- | [poedit]({{< ref "/f35/package/poedit.md" >}}) | 2093 | 2920 | 71.7 | Aragonese | 
- | [mozo]({{< ref "/f35/package/mozo.md" >}}) | 32 | 46 | 69.6 | Aragonese (https://www.transifex.com/mate/teams/13566/an/) | 
- | [tuxpaint]({{< ref "/f35/package/tuxpaint.md" >}}) | 1521 | 2286 | 66.5 | softaragonés | 
- | [mate-backgrounds]({{< ref "/f35/package/mate-backgrounds.md" >}}) | 23 | 55 | 41.8 | Aragonese (https://www.transifex.com/mate/teams/13566/an/) | 
- | [libnma]({{< ref "/f35/package/libnma.md" >}}) | 259 | 917 | 28.2 | Aragonés <softaragones@googlegroups.com> | 
- | [cinnamon-translations]({{< ref "/f35/package/cinnamon-translations.md" >}}) | 37 | 140 | 26.4 | Aragonés <softaragones@googlegroups.com> | 
- | [transmission]({{< ref "/f35/package/transmission.md" >}}) | 470 | 1998 | 23.5 | Aragonese (https://www.transifex.com/transmissionbt/teams/33778/an/) | 
- | [fragments]({{< ref "/f35/package/fragments.md" >}}) | 470 | 2006 | 23.4 | Aragonese (https://www.transifex.com/transmissionbt/teams/33778/an/) | 
- | [network-manager-applet]({{< ref "/f35/package/network-manager-applet.md" >}}) | 602 | 4304 | 14.0 | Aragonés <softaragones@googlegroups.com> | 
- | [iso-codes]({{< ref "/f35/package/iso-codes.md" >}}) | 132 | 982 | 13.4 | Aragonese <https://hosted.weblate.org/projects/iso-codes/iso-3166-1/an/> | 
- | [mate-desktop]({{< ref "/f35/package/mate-desktop.md" >}}) | 215 | 2376 | 9.0 | Aragonese (https://www.transifex.com/mate/teams/13566/an/) | 
- | [dconf-editor]({{< ref "/f35/package/dconf-editor.md" >}}) | 69 | 1380 | 5.0 | Aragonés <softaragones@googlegroups.com> | 
- | [libreoffice]({{< ref "/f35/package/libreoffice.md" >}}) | 5199 | 165978 | 3.1 | Aragonese <https://translations.documentfoundation.org/projects/libo_ui-7-2/accessibilitymessages/an/> | 
- | [asunder]({{< ref "/f35/package/asunder.md" >}}) | 15 | 492 | 3.0 | http://littlesvr.ca/ostd/ | 
- | [light-locker]({{< ref "/f35/package/light-locker.md" >}}) | 7 | 260 | 2.7 | Aragonese (http://www.transifex.com/the_cavalry/light-locker/language/an/) | 
- | [isomaster]({{< ref "/f35/package/isomaster.md" >}}) | 18 | 674 | 2.7 | http://littlesvr.ca/ostd/ | 
- | [slick-greeter]({{< ref "/f35/package/slick-greeter.md" >}}) | 3 | 211 | 1.4 | Aragonese <an@li.org> | 
- | [mate-menu]({{< ref "/f35/package/mate-menu.md" >}}) | 4 | 308 | 1.3 | Aragonese (http://www.transifex.com/mate/MATE/language/an/) | 
- | [mate-media]({{< ref "/f35/package/mate-media.md" >}}) | 3 | 239 | 1.3 | Aragonese (https://www.transifex.com/mate/teams/13566/an/) | 
- | [mate-session-manager]({{< ref "/f35/package/mate-session-manager.md" >}}) | 8 | 715 | 1.1 | Aragonese (https://www.transifex.com/mate/teams/13566/an/) | 
- | [mate-panel]({{< ref "/f35/package/mate-panel.md" >}}) | 2 | 879 | 0.2 | Aragonese (https://www.transifex.com/mate/teams/13566/an/) | 
- | [pluma-plugins]({{< ref "/f35/package/pluma-plugins.md" >}}) | 1 | 510 | 0.2 | Aragonese (https://www.transifex.com/mate/teams/13566/an/) | 
- | [mate-sensors-applet]({{< ref "/f35/package/mate-sensors-applet.md" >}}) | 4 | 2222 | 0.2 | Aragonese (https://www.transifex.com/mate/teams/13566/an/) | 
- | [mate-applets]({{< ref "/f35/package/mate-applets.md" >}}) | 9 | 6161 | 0.1 | Aragonese (https://www.transifex.com/mate/teams/13566/an/) | 
- | [mate-utils]({{< ref "/f35/package/mate-utils.md" >}}) | 4 | 3160 | 0.1 | Aragonese (https://www.transifex.com/mate/teams/13566/an/) | 
- | [elementary-code]({{< ref "/f35/package/elementary-code.md" >}}) | 2 | 1608 | 0.1 | LANGUAGE <LL@li.org> | 
- | [bookworm]({{< ref "/f35/package/bookworm.md" >}}) | 0 | 795 | 0.0 |  | 
- | [coin]({{< ref "/f35/package/coin.md" >}}) | 0 | 252 | 0.0 | none | 
- | [dippi]({{< ref "/f35/package/dippi.md" >}}) | 0 | 1183 | 0.0 | none | 
- | [elementary-capnet-assist]({{< ref "/f35/package/elementary-capnet-assist.md" >}}) | 0 | 90 | 0.0 | none | 
- | [elementary-files]({{< ref "/f35/package/elementary-files.md" >}}) | 0 | 3669 | 0.0 | LANGUAGE <LL@li.org> | 
- | [elementary-greeter]({{< ref "/f35/package/elementary-greeter.md" >}}) | 0 | 219 | 0.0 | Aragonese <an@li.org> | 
- | [elementary-icon-theme]({{< ref "/f35/package/elementary-icon-theme.md" >}}) | 0 | 263 | 0.0 | none | 
- | [elementary-mail]({{< ref "/f35/package/elementary-mail.md" >}}) | 0 | 658 | 0.0 |  | 
- | [elementary-music]({{< ref "/f35/package/elementary-music.md" >}}) | 0 | 1205 | 0.0 | LANGUAGE <LL@li.org> | 
- | [elementary-notifications]({{< ref "/f35/package/elementary-notifications.md" >}}) | 0 | 50 | 0.0 | none | 
- | [elementary-photos]({{< ref "/f35/package/elementary-photos.md" >}}) | 0 | 4011 | 0.0 | LANGUAGE <LL@li.org> | 
- | [elementary-screenshot-tool]({{< ref "/f35/package/elementary-screenshot-tool.md" >}}) | 0 | 248 | 0.0 | LANGUAGE <LL@li.org> | 
- | [elementary-settings-daemon]({{< ref "/f35/package/elementary-settings-daemon.md" >}}) | 0 | 26 | 0.0 | none | 
- | [elementary-shortcut-overlay]({{< ref "/f35/package/elementary-shortcut-overlay.md" >}}) | 0 | 130 | 0.0 | none | 
- | [elementary-sideload]({{< ref "/f35/package/elementary-sideload.md" >}}) | 0 | 319 | 0.0 | none | 
- | [elementary-tasks]({{< ref "/f35/package/elementary-tasks.md" >}}) | 0 | 394 | 0.0 | none | 
- | [elementary-terminal]({{< ref "/f35/package/elementary-terminal.md" >}}) | 0 | 696 | 0.0 |  | 
- | [elementary-theme]({{< ref "/f35/package/elementary-theme.md" >}}) | 0 | 63 | 0.0 | none | 
- | [elementary-videos]({{< ref "/f35/package/elementary-videos.md" >}}) | 0 | 391 | 0.0 |  | 
- | [gala]({{< ref "/f35/package/gala.md" >}}) | 0 | 358 | 0.0 | none | 
- | [granite]({{< ref "/f35/package/granite.md" >}}) | 0 | 498 | 0.0 |  | 
- | [harvey]({{< ref "/f35/package/harvey.md" >}}) | 0 | 182 | 0.0 | none | 
- | [libmatekbd]({{< ref "/f35/package/libmatekbd.md" >}}) | 0 | 308 | 0.0 | Aragonese (http://www.transifex.com/mate/MATE/language/an/) | 
- | [lightdm]({{< ref "/f35/package/lightdm.md" >}}) | 0 | 163 | 0.0 | Aragonese <an@li.org> | 
- | [mate-themes]({{< ref "/f35/package/mate-themes.md" >}}) | 0 | 74 | 0.0 | Aragonese (http://www.transifex.com/mate/MATE/language/an/) | 
- | [nutty]({{< ref "/f35/package/nutty.md" >}}) | 0 | 608 | 0.0 |  | 
- | [optimizer]({{< ref "/f35/package/optimizer.md" >}}) | 0 | 282 | 0.0 | none | 
- | [pantheon-agent-geoclue2]({{< ref "/f35/package/pantheon-agent-geoclue2.md" >}}) | 0 | 101 | 0.0 | LANGUAGE <LL@li.org> | 
- | [pantheon-agent-polkit]({{< ref "/f35/package/pantheon-agent-polkit.md" >}}) | 0 | 56 | 0.0 | LANGUAGE <LL@li.org> | 
- | [pyhoca-gui]({{< ref "/f35/package/pyhoca-gui.md" >}}) | 0 | 1865 | 0.0 | none | 
- | [python-django-mailman3]({{< ref "/f35/package/python-django-mailman3.md" >}}) | 0 | 355 | 0.0 | LANGUAGE <LL@li.org> | 
- | [python-postorius]({{< ref "/f35/package/python-postorius.md" >}}) | 0 | 4999 | 0.0 | LANGUAGE <LL@li.org> | 
- | [switchboard]({{< ref "/f35/package/switchboard.md" >}}) | 0 | 148 | 0.0 | LANGUAGE <LL@li.org> | 
- | [switchboard-plug-a11y]({{< ref "/f35/package/switchboard-plug-a11y.md" >}}) | 0 | 180 | 0.0 | LANGUAGE <LL@li.org> | 
- | [switchboard-plug-about]({{< ref "/f35/package/switchboard-plug-about.md" >}}) | 0 | 383 | 0.0 | LANGUAGE <LL@li.org> | 
- | [switchboard-plug-applications]({{< ref "/f35/package/switchboard-plug-applications.md" >}}) | 0 | 227 | 0.0 | none | 
- | [switchboard-plug-bluetooth]({{< ref "/f35/package/switchboard-plug-bluetooth.md" >}}) | 0 | 206 | 0.0 | none | 
- | [switchboard-plug-display]({{< ref "/f35/package/switchboard-plug-display.md" >}}) | 0 | 182 | 0.0 | LANGUAGE <LL@li.org> | 
- | [switchboard-plug-keyboard]({{< ref "/f35/package/switchboard-plug-keyboard.md" >}}) | 0 | 636 | 0.0 | none | 
- | [switchboard-plug-mouse-touchpad]({{< ref "/f35/package/switchboard-plug-mouse-touchpad.md" >}}) | 0 | 282 | 0.0 | none | 
- | [switchboard-plug-networking]({{< ref "/f35/package/switchboard-plug-networking.md" >}}) | 0 | 532 | 0.0 |  | 
- | [switchboard-plug-notifications]({{< ref "/f35/package/switchboard-plug-notifications.md" >}}) | 0 | 142 | 0.0 | none | 
- | [switchboard-plug-onlineaccounts]({{< ref "/f35/package/switchboard-plug-onlineaccounts.md" >}}) | 0 | 322 | 0.0 | none | 
- | [switchboard-plug-pantheon-shell]({{< ref "/f35/package/switchboard-plug-pantheon-shell.md" >}}) | 0 | 349 | 0.0 |  | 
- | [switchboard-plug-printers]({{< ref "/f35/package/switchboard-plug-printers.md" >}}) | 0 | 406 | 0.0 | LANGUAGE <LL@li.org> | 
- | [switchboard-plug-sharing]({{< ref "/f35/package/switchboard-plug-sharing.md" >}}) | 0 | 141 | 0.0 | none | 
- | [switchboard-plug-sound]({{< ref "/f35/package/switchboard-plug-sound.md" >}}) | 0 | 193 | 0.0 |  | 
- | [wingpanel]({{< ref "/f35/package/wingpanel.md" >}}) | 0 | 19 | 0.0 | none | 
- | [wingpanel-applications-menu]({{< ref "/f35/package/wingpanel-applications-menu.md" >}}) | 0 | 415 | 0.0 |  | 
- | [wingpanel-indicator-bluetooth]({{< ref "/f35/package/wingpanel-indicator-bluetooth.md" >}}) | 0 | 78 | 0.0 | none | 
- | [wingpanel-indicator-datetime]({{< ref "/f35/package/wingpanel-indicator-datetime.md" >}}) | 0 | 177 | 0.0 |  | 
- | [wingpanel-indicator-keyboard]({{< ref "/f35/package/wingpanel-indicator-keyboard.md" >}}) | 0 | 53 | 0.0 |  | 
- | [wingpanel-indicator-network]({{< ref "/f35/package/wingpanel-indicator-network.md" >}}) | 0 | 150 | 0.0 | none | 
- | [wingpanel-indicator-nightlight]({{< ref "/f35/package/wingpanel-indicator-nightlight.md" >}}) | 0 | 45 | 0.0 |  | 
- | [wingpanel-indicator-notifications]({{< ref "/f35/package/wingpanel-indicator-notifications.md" >}}) | 0 | 134 | 0.0 | none | 
- | [wingpanel-indicator-power]({{< ref "/f35/package/wingpanel-indicator-power.md" >}}) | 0 | 191 | 0.0 | none | 
- | [wingpanel-indicator-session]({{< ref "/f35/package/wingpanel-indicator-session.md" >}}) | 0 | 108 | 0.0 | none | 
- | [wingpanel-indicator-sound]({{< ref "/f35/package/wingpanel-indicator-sound.md" >}}) | 0 | 96 | 0.0 | none | 
+ | [alacarte](/f35/package/alacarte) | 42 | 42 | 100.0 | Aragonese <softaragones@googlegroups.com> | 
+ | [at-spi2-core](/f35/package/at-spi2-core) | 10 | 10 | 100.0 | Aragonese <softaragones@googlegroups.com> | 
+ | [atk](/f35/package/atk) | 440 | 440 | 100.0 | Aragonese <softaragones@googlegroups.com> | 
+ | [baobab](/f35/package/baobab) | 210 | 210 | 100.0 | Aragonés <softaragones@googlegroups.com> | 
+ | [caribou](/f35/package/caribou) | 169 | 169 | 100.0 | Aragonés <softaragones@googlegroups.com> | 
+ | [cheese](/f35/package/cheese) | 614 | 614 | 100.0 | Aragonés <softaragones@googlegroups.com> | 
+ | [cogl](/f35/package/cogl) | 393 | 393 | 100.0 | Aragonese <softaragones@googlegroups.com> | 
+ | [dialog](/f35/package/dialog) | 25 | 25 | 100.0 | Aragonese <softaragones@googlegroups.com> | 
+ | [eog](/f35/package/eog) | 1502 | 1502 | 100.0 | Aragonés <softaragones@googlegroups.com> | 
+ | [epiphany](/f35/package/epiphany) | 1757 | 1757 | 100.0 | Aragonés <softaragones@googlegroups.com> | 
+ | [file-roller](/f35/package/file-roller) | 1198 | 1198 | 100.0 | Aragonés <softaragones@googlegroups.com> | 
+ | [filezilla](/f35/package/filezilla) | 8185 | 8185 | 100.0 | softaragonés | 
+ | [gdm](/f35/package/gdm) | 650 | 650 | 100.0 | Aragonés <softaragones@googlegroups.com> | 
+ | [gedit](/f35/package/gedit) | 4104 | 4104 | 100.0 | Aragonés <softaragones@googlegroups.com> | 
+ | [glib-networking](/f35/package/glib-networking) | 161 | 161 | 100.0 | Aragonese <softaragones@googlegroups.com> | 
+ | [gnome-bluetooth](/f35/package/gnome-bluetooth) | 372 | 372 | 100.0 | Aragonés <softaragones@googlegroups.com> | 
+ | [gnome-calendar](/f35/package/gnome-calendar) | 224 | 224 | 100.0 | Aragonese <softaragones@googlegroups.com> | 
+ | [gnome-clocks](/f35/package/gnome-clocks) | 223 | 223 | 100.0 | Aragonés <softaragones@googlegroups.com> | 
+ | [gnome-control-center](/f35/package/gnome-control-center) | 5034 | 5034 | 100.0 | Aragonés <softaragones@googlegroups.com> | 
+ | [gnome-desktop3](/f35/package/gnome-desktop3) | 146 | 146 | 100.0 | Aragonés <softaragones@googlegroups.com> | 
+ | [gnome-font-viewer](/f35/package/gnome-font-viewer) | 130 | 130 | 100.0 | Aragonés <softaragones@googlegroups.com> | 
+ | [gnome-icon-theme](/f35/package/gnome-icon-theme) | 4 | 4 | 100.0 | Aragonese <softaragones@googlegroups.com> | 
+ | [gnome-initial-setup](/f35/package/gnome-initial-setup) | 638 | 638 | 100.0 | Aragonés <softaragones@googlegroups.com> | 
+ | [gnome-logs](/f35/package/gnome-logs) | 142 | 142 | 100.0 | Aragonés <softaragones@googlegroups.com> | 
+ | [gnome-mahjongg](/f35/package/gnome-mahjongg) | 170 | 170 | 100.0 | Aragonese <softaragones@googlegroups.com> | 
+ | [gnome-maps](/f35/package/gnome-maps) | 485 | 485 | 100.0 | Aragonés <softaragones@googlegroups.com> | 
+ | [gnome-menus](/f35/package/gnome-menus) | 70 | 70 | 100.0 | Aragonés <softaragones@googlegroups.com> | 
+ | [gnome-music](/f35/package/gnome-music) | 458 | 458 | 100.0 | Aragonés <softaragones@googlegroups.com> | 
+ | [gnome-online-accounts](/f35/package/gnome-online-accounts) | 706 | 706 | 100.0 | Aragonés <softaragones@googlegroups.com> | 
+ | [gnome-packagekit](/f35/package/gnome-packagekit) | 3593 | 3593 | 100.0 | Aragonese <softaragones@googlegroups.com> | 
+ | [gnome-photos](/f35/package/gnome-photos) | 377 | 377 | 100.0 | Aragonese <softaragones@googlegroups.com> | 
+ | [gnome-screenshot](/f35/package/gnome-screenshot) | 455 | 455 | 100.0 | Aragonés <softaragones@googlegroups.com> | 
+ | [gnome-session](/f35/package/gnome-session) | 319 | 319 | 100.0 | Aragonés <softaragones@googlegroups.com> | 
+ | [gnome-shell-extensions](/f35/package/gnome-shell-extensions) | 380 | 380 | 100.0 | Aragonés <softaragones@googlegroups.com> | 
+ | [gnome-sound-recorder](/f35/package/gnome-sound-recorder) | 253 | 253 | 100.0 | Aragonese <softaragones@googlegroups.com> | 
+ | [gnome-system-log](/f35/package/gnome-system-log) | 420 | 420 | 100.0 | Aragonese <softaragones@googlegroups.com> | 
+ | [gnome-system-monitor](/f35/package/gnome-system-monitor) | 1276 | 1276 | 100.0 | Aragonés <softaragones@googlegroups.com> | 
+ | [gnome-taquin](/f35/package/gnome-taquin) | 223 | 223 | 100.0 | Aragonese <softaragones@googlegroups.com> | 
+ | [gnome-terminal](/f35/package/gnome-terminal) | 2218 | 2218 | 100.0 | Aragonés <softaragones@googlegroups.com> | 
+ | [gnome-tetravex](/f35/package/gnome-tetravex) | 220 | 220 | 100.0 | Aragonese <softaragones@googlegroups.com> | 
+ | [gnome-themes-extra](/f35/package/gnome-themes-extra) | 24 | 24 | 100.0 | Aragonese <softaragones@googlegroups.com> | 
+ | [gnome-user-share](/f35/package/gnome-user-share) | 160 | 160 | 100.0 | Aragonés <softaragones@googlegroups.com> | 
+ | [gnome-weather](/f35/package/gnome-weather) | 184 | 184 | 100.0 | Aragonés <softaragones@googlegroups.com> | 
+ | [iagno](/f35/package/iagno) | 117 | 117 | 100.0 | Aragonese <softaragones@googlegroups.com> | 
+ | [libfilezilla](/f35/package/libfilezilla) | 54 | 54 | 100.0 | softaragonés | 
+ | [libgnome-keyring](/f35/package/libgnome-keyring) | 44 | 44 | 100.0 | Aragonese <softaragones@googlegroups.com> | 
+ | [libpeas](/f35/package/libpeas) | 111 | 111 | 100.0 | Aragonés <softaragones@googlegroups.com> | 
+ | [libsecret](/f35/package/libsecret) | 59 | 59 | 100.0 | Aragonese <softaragones@googlegroups.com> | 
+ | [libsoup](/f35/package/libsoup) | 155 | 155 | 100.0 | Aragonese <softaragones@googlegroups.com> | 
+ | [lightsoff](/f35/package/lightsoff) | 93 | 93 | 100.0 | Aragonés <softaragones@googlegroups.com> | 
+ | [mingw-atk](/f35/package/mingw-atk) | 440 | 440 | 100.0 | Aragonese <softaragones@googlegroups.com> | 
+ | [mingw-glib-networking](/f35/package/mingw-glib-networking) | 161 | 161 | 100.0 | Aragonese <softaragones@googlegroups.com> | 
+ | [mingw-libsoup](/f35/package/mingw-libsoup) | 155 | 155 | 100.0 | Aragonese <softaragones@googlegroups.com> | 
+ | [mousetweaks](/f35/package/mousetweaks) | 114 | 114 | 100.0 | Aragonés <softaragones@googlegroups.com> | 
+ | [nemo-extensions](/f35/package/nemo-extensions) | 24 | 24 | 100.0 | Aragonés <softaragones@googlegroups.com> | 
+ | [notification-daemon](/f35/package/notification-daemon) | 17 | 17 | 100.0 | Aragonese <softaragones@googlegroups.com> | 
+ | [orca](/f35/package/orca) | 4172 | 4172 | 100.0 | Aragonese <softaragones@googlegroups.com> | 
+ | [polkit-gnome](/f35/package/polkit-gnome) | 94 | 94 | 100.0 | Aragonese <softaragones@googlegroups.com> | 
+ | [python-SecretStorage](/f35/package/python-SecretStorage) | 59 | 59 | 100.0 | Aragonese <softaragones@googlegroups.com> | 
+ | [sushi](/f35/package/sushi) | 24 | 24 | 100.0 | Aragonés <softaragones@googlegroups.com> | 
+ | [swell-foop](/f35/package/swell-foop) | 261 | 261 | 100.0 | Aragonés <softaragones@googlegroups.com> | 
+ | [totem-pl-parser](/f35/package/totem-pl-parser) | 29 | 29 | 100.0 | Aragonés <softaragones@googlegroups.com> | 
+ | [xdg-user-dirs](/f35/package/xdg-user-dirs) | 28 | 28 | 100.0 | Aragonese <softaragones@googlegroups.com> | 
+ | [xdg-user-dirs-gtk](/f35/package/xdg-user-dirs-gtk) | 81 | 81 | 100.0 | Aragonese <softaragones@googlegroups.com> | 
+ | [yelp](/f35/package/yelp) | 448 | 448 | 100.0 | Aragonese <softaragones@googlegroups.com> | 
+ | [glib2](/f35/package/glib2) | 5464 | 5469 | 99.9 | Aragonese <softaragones@googlegroups.com> | 
+ | [mingw-glib2](/f35/package/mingw-glib2) | 5464 | 5469 | 99.9 | Aragonese <softaragones@googlegroups.com> | 
+ | [tuxpaint-stamps](/f35/package/tuxpaint-stamps) | 3246 | 3249 | 99.9 | softaragonés | 
+ | [evolution](/f35/package/evolution) | 20941 | 21036 | 99.5 | Aragonese <softaragones@googlegroups.com> | 
+ | [evince](/f35/package/evince) | 1521 | 1528 | 99.5 | Aragonés <softaragones@googlegroups.com> | 
+ | [cinnamon-desktop](/f35/package/cinnamon-desktop) | 231 | 234 | 98.7 | Aragonés <softaragones@googlegroups.com> | 
+ | [mingw-wxWidgets3](/f35/package/mingw-wxWidgets3) | 7565 | 7695 | 98.3 | softaragonés | 
+ | [python-wxpython4](/f35/package/python-wxpython4) | 7565 | 7695 | 98.3 | softaragonés | 
+ | [wxGTK3](/f35/package/wxGTK3) | 7565 | 7695 | 98.3 | softaragonés | 
+ | [hitori](/f35/package/hitori) | 171 | 174 | 98.3 | Aragonese <softaragones@googlegroups.com> | 
+ | [gnome-extensions-app](/f35/package/gnome-extensions-app) | 1298 | 1322 | 98.2 | Aragonés <softaragones@googlegroups.com> | 
+ | [gnome-shell](/f35/package/gnome-shell) | 1298 | 1322 | 98.2 | Aragonés <softaragones@googlegroups.com> | 
+ | [gnome-mines](/f35/package/gnome-mines) | 334 | 346 | 96.5 | Aragonese <softaragones@googlegroups.com> | 
+ | [clutter](/f35/package/clutter) | 2936 | 3057 | 96.0 | Aragonés <softaragones@googlegroups.com> | 
+ | [mate-menus](/f35/package/mate-menus) | 97 | 103 | 94.2 | Aragonese (https://www.transifex.com/mate/teams/13566/an/) | 
+ | [wxGTK](/f35/package/wxGTK) | 6932 | 7815 | 88.7 | softaragonés | 
+ | [chromium](/f35/package/chromium) | 11663 | 13999 | 83.3 | Aragonese <softaragones@googlegroups.com> | 
+ | [gtk3](/f35/package/gtk3) | 11663 | 13999 | 83.3 | Aragonese <softaragones@googlegroups.com> | 
+ | [gtk4](/f35/package/gtk4) | 11663 | 13999 | 83.3 | Aragonese <softaragones@googlegroups.com> | 
+ | [mingw-gtk3](/f35/package/mingw-gtk3) | 11663 | 13999 | 83.3 | Aragonese <softaragones@googlegroups.com> | 
+ | [nautilus](/f35/package/nautilus) | 3679 | 5079 | 72.4 | Aragonés <softaragones@googlegroups.com> | 
+ | [poedit](/f35/package/poedit) | 2093 | 2920 | 71.7 | Aragonese | 
+ | [mozo](/f35/package/mozo) | 32 | 46 | 69.6 | Aragonese (https://www.transifex.com/mate/teams/13566/an/) | 
+ | [tuxpaint](/f35/package/tuxpaint) | 1521 | 2286 | 66.5 | softaragonés | 
+ | [mate-backgrounds](/f35/package/mate-backgrounds) | 23 | 55 | 41.8 | Aragonese (https://www.transifex.com/mate/teams/13566/an/) | 
+ | [libnma](/f35/package/libnma) | 259 | 917 | 28.2 | Aragonés <softaragones@googlegroups.com> | 
+ | [cinnamon-translations](/f35/package/cinnamon-translations) | 37 | 140 | 26.4 | Aragonés <softaragones@googlegroups.com> | 
+ | [transmission](/f35/package/transmission) | 470 | 1998 | 23.5 | Aragonese (https://www.transifex.com/transmissionbt/teams/33778/an/) | 
+ | [fragments](/f35/package/fragments) | 470 | 2006 | 23.4 | Aragonese (https://www.transifex.com/transmissionbt/teams/33778/an/) | 
+ | [network-manager-applet](/f35/package/network-manager-applet) | 602 | 4304 | 14.0 | Aragonés <softaragones@googlegroups.com> | 
+ | [iso-codes](/f35/package/iso-codes) | 132 | 982 | 13.4 | Aragonese <https://hosted.weblate.org/projects/iso-codes/iso-3166-1/an/> | 
+ | [mate-desktop](/f35/package/mate-desktop) | 215 | 2376 | 9.0 | Aragonese (https://www.transifex.com/mate/teams/13566/an/) | 
+ | [dconf-editor](/f35/package/dconf-editor) | 69 | 1380 | 5.0 | Aragonés <softaragones@googlegroups.com> | 
+ | [libreoffice](/f35/package/libreoffice) | 5199 | 165978 | 3.1 | Aragonese <https://translations.documentfoundation.org/projects/libo_ui-7-2/accessibilitymessages/an/> | 
+ | [asunder](/f35/package/asunder) | 15 | 492 | 3.0 | http://littlesvr.ca/ostd/ | 
+ | [light-locker](/f35/package/light-locker) | 7 | 260 | 2.7 | Aragonese (http://www.transifex.com/the_cavalry/light-locker/language/an/) | 
+ | [isomaster](/f35/package/isomaster) | 18 | 674 | 2.7 | http://littlesvr.ca/ostd/ | 
+ | [slick-greeter](/f35/package/slick-greeter) | 3 | 211 | 1.4 | Aragonese <an@li.org> | 
+ | [mate-menu](/f35/package/mate-menu) | 4 | 308 | 1.3 | Aragonese (http://www.transifex.com/mate/MATE/language/an/) | 
+ | [mate-media](/f35/package/mate-media) | 3 | 239 | 1.3 | Aragonese (https://www.transifex.com/mate/teams/13566/an/) | 
+ | [mate-session-manager](/f35/package/mate-session-manager) | 8 | 715 | 1.1 | Aragonese (https://www.transifex.com/mate/teams/13566/an/) | 
+ | [mate-panel](/f35/package/mate-panel) | 2 | 879 | 0.2 | Aragonese (https://www.transifex.com/mate/teams/13566/an/) | 
+ | [pluma-plugins](/f35/package/pluma-plugins) | 1 | 510 | 0.2 | Aragonese (https://www.transifex.com/mate/teams/13566/an/) | 
+ | [mate-sensors-applet](/f35/package/mate-sensors-applet) | 4 | 2222 | 0.2 | Aragonese (https://www.transifex.com/mate/teams/13566/an/) | 
+ | [mate-applets](/f35/package/mate-applets) | 9 | 6161 | 0.1 | Aragonese (https://www.transifex.com/mate/teams/13566/an/) | 
+ | [mate-utils](/f35/package/mate-utils) | 4 | 3160 | 0.1 | Aragonese (https://www.transifex.com/mate/teams/13566/an/) | 
+ | [elementary-code](/f35/package/elementary-code) | 2 | 1608 | 0.1 | LANGUAGE <LL@li.org> | 
+ | [bookworm](/f35/package/bookworm) | 0 | 795 | 0.0 |  | 
+ | [coin](/f35/package/coin) | 0 | 252 | 0.0 | none | 
+ | [dippi](/f35/package/dippi) | 0 | 1183 | 0.0 | none | 
+ | [elementary-capnet-assist](/f35/package/elementary-capnet-assist) | 0 | 90 | 0.0 | none | 
+ | [elementary-files](/f35/package/elementary-files) | 0 | 3669 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [elementary-greeter](/f35/package/elementary-greeter) | 0 | 219 | 0.0 | Aragonese <an@li.org> | 
+ | [elementary-icon-theme](/f35/package/elementary-icon-theme) | 0 | 263 | 0.0 | none | 
+ | [elementary-mail](/f35/package/elementary-mail) | 0 | 658 | 0.0 |  | 
+ | [elementary-music](/f35/package/elementary-music) | 0 | 1205 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [elementary-notifications](/f35/package/elementary-notifications) | 0 | 50 | 0.0 | none | 
+ | [elementary-photos](/f35/package/elementary-photos) | 0 | 4011 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [elementary-screenshot-tool](/f35/package/elementary-screenshot-tool) | 0 | 248 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [elementary-settings-daemon](/f35/package/elementary-settings-daemon) | 0 | 26 | 0.0 | none | 
+ | [elementary-shortcut-overlay](/f35/package/elementary-shortcut-overlay) | 0 | 130 | 0.0 | none | 
+ | [elementary-sideload](/f35/package/elementary-sideload) | 0 | 319 | 0.0 | none | 
+ | [elementary-tasks](/f35/package/elementary-tasks) | 0 | 394 | 0.0 | none | 
+ | [elementary-terminal](/f35/package/elementary-terminal) | 0 | 696 | 0.0 |  | 
+ | [elementary-theme](/f35/package/elementary-theme) | 0 | 63 | 0.0 | none | 
+ | [elementary-videos](/f35/package/elementary-videos) | 0 | 391 | 0.0 |  | 
+ | [gala](/f35/package/gala) | 0 | 358 | 0.0 | none | 
+ | [granite](/f35/package/granite) | 0 | 498 | 0.0 |  | 
+ | [harvey](/f35/package/harvey) | 0 | 182 | 0.0 | none | 
+ | [libmatekbd](/f35/package/libmatekbd) | 0 | 308 | 0.0 | Aragonese (http://www.transifex.com/mate/MATE/language/an/) | 
+ | [lightdm](/f35/package/lightdm) | 0 | 163 | 0.0 | Aragonese <an@li.org> | 
+ | [mate-themes](/f35/package/mate-themes) | 0 | 74 | 0.0 | Aragonese (http://www.transifex.com/mate/MATE/language/an/) | 
+ | [nutty](/f35/package/nutty) | 0 | 608 | 0.0 |  | 
+ | [optimizer](/f35/package/optimizer) | 0 | 282 | 0.0 | none | 
+ | [pantheon-agent-geoclue2](/f35/package/pantheon-agent-geoclue2) | 0 | 101 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [pantheon-agent-polkit](/f35/package/pantheon-agent-polkit) | 0 | 56 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [pyhoca-gui](/f35/package/pyhoca-gui) | 0 | 1865 | 0.0 | none | 
+ | [python-django-mailman3](/f35/package/python-django-mailman3) | 0 | 355 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [python-postorius](/f35/package/python-postorius) | 0 | 4999 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [switchboard](/f35/package/switchboard) | 0 | 148 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [switchboard-plug-a11y](/f35/package/switchboard-plug-a11y) | 0 | 180 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [switchboard-plug-about](/f35/package/switchboard-plug-about) | 0 | 383 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [switchboard-plug-applications](/f35/package/switchboard-plug-applications) | 0 | 227 | 0.0 | none | 
+ | [switchboard-plug-bluetooth](/f35/package/switchboard-plug-bluetooth) | 0 | 206 | 0.0 | none | 
+ | [switchboard-plug-display](/f35/package/switchboard-plug-display) | 0 | 182 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [switchboard-plug-keyboard](/f35/package/switchboard-plug-keyboard) | 0 | 636 | 0.0 | none | 
+ | [switchboard-plug-mouse-touchpad](/f35/package/switchboard-plug-mouse-touchpad) | 0 | 282 | 0.0 | none | 
+ | [switchboard-plug-networking](/f35/package/switchboard-plug-networking) | 0 | 532 | 0.0 |  | 
+ | [switchboard-plug-notifications](/f35/package/switchboard-plug-notifications) | 0 | 142 | 0.0 | none | 
+ | [switchboard-plug-onlineaccounts](/f35/package/switchboard-plug-onlineaccounts) | 0 | 322 | 0.0 | none | 
+ | [switchboard-plug-pantheon-shell](/f35/package/switchboard-plug-pantheon-shell) | 0 | 349 | 0.0 |  | 
+ | [switchboard-plug-printers](/f35/package/switchboard-plug-printers) | 0 | 406 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [switchboard-plug-sharing](/f35/package/switchboard-plug-sharing) | 0 | 141 | 0.0 | none | 
+ | [switchboard-plug-sound](/f35/package/switchboard-plug-sound) | 0 | 193 | 0.0 |  | 
+ | [wingpanel](/f35/package/wingpanel) | 0 | 19 | 0.0 | none | 
+ | [wingpanel-applications-menu](/f35/package/wingpanel-applications-menu) | 0 | 415 | 0.0 |  | 
+ | [wingpanel-indicator-bluetooth](/f35/package/wingpanel-indicator-bluetooth) | 0 | 78 | 0.0 | none | 
+ | [wingpanel-indicator-datetime](/f35/package/wingpanel-indicator-datetime) | 0 | 177 | 0.0 |  | 
+ | [wingpanel-indicator-keyboard](/f35/package/wingpanel-indicator-keyboard) | 0 | 53 | 0.0 |  | 
+ | [wingpanel-indicator-network](/f35/package/wingpanel-indicator-network) | 0 | 150 | 0.0 | none | 
+ | [wingpanel-indicator-nightlight](/f35/package/wingpanel-indicator-nightlight) | 0 | 45 | 0.0 |  | 
+ | [wingpanel-indicator-notifications](/f35/package/wingpanel-indicator-notifications) | 0 | 134 | 0.0 | none | 
+ | [wingpanel-indicator-power](/f35/package/wingpanel-indicator-power) | 0 | 191 | 0.0 | none | 
+ | [wingpanel-indicator-session](/f35/package/wingpanel-indicator-session) | 0 | 108 | 0.0 | none | 
+ | [wingpanel-indicator-sound](/f35/package/wingpanel-indicator-sound) | 0 | 96 | 0.0 | none | 
 {.sortable}
 
 

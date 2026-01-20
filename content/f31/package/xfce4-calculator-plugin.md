@@ -18,36 +18,36 @@ The package xfce4-calculator-plugin (version 0.7.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [be]({{< ref "/f31/language/be.md" >}}) | 35 | 35 | 100.0 | /mnt/stockage/packages/f31/xfce4-calculator-plugin/po/be.po | 
- | [bg]({{< ref "/f31/language/bg.md" >}}) | 35 | 35 | 100.0 | /mnt/stockage/packages/f31/xfce4-calculator-plugin/po/bg.po | 
- | [ca]({{< ref "/f31/language/ca.md" >}}) | 35 | 35 | 100.0 | /mnt/stockage/packages/f31/xfce4-calculator-plugin/po/ca.po | 
- | [cs]({{< ref "/f31/language/cs.md" >}}) | 35 | 35 | 100.0 | /mnt/stockage/packages/f31/xfce4-calculator-plugin/po/cs.po | 
- | [da]({{< ref "/f31/language/da.md" >}}) | 35 | 35 | 100.0 | /mnt/stockage/packages/f31/xfce4-calculator-plugin/po/da.po | 
- | [de]({{< ref "/f31/language/de.md" >}}) | 35 | 35 | 100.0 | /mnt/stockage/packages/f31/xfce4-calculator-plugin/po/de.po | 
- | [es]({{< ref "/f31/language/es.md" >}}) | 35 | 35 | 100.0 | /mnt/stockage/packages/f31/xfce4-calculator-plugin/po/es.po | 
- | [eu]({{< ref "/f31/language/eu.md" >}}) | 35 | 35 | 100.0 | /mnt/stockage/packages/f31/xfce4-calculator-plugin/po/eu.po | 
- | [fi]({{< ref "/f31/language/fi.md" >}}) | 35 | 35 | 100.0 | /mnt/stockage/packages/f31/xfce4-calculator-plugin/po/fi.po | 
- | [fr]({{< ref "/f31/language/fr.md" >}}) | 35 | 35 | 100.0 | /mnt/stockage/packages/f31/xfce4-calculator-plugin/po/fr.po | 
- | [gl]({{< ref "/f31/language/gl.md" >}}) | 35 | 35 | 100.0 | /mnt/stockage/packages/f31/xfce4-calculator-plugin/po/gl.po | 
- | [he]({{< ref "/f31/language/he.md" >}}) | 35 | 35 | 100.0 | /mnt/stockage/packages/f31/xfce4-calculator-plugin/po/he.po | 
- | [hr]({{< ref "/f31/language/hr.md" >}}) | 35 | 35 | 100.0 | /mnt/stockage/packages/f31/xfce4-calculator-plugin/po/hr.po | 
- | [hu]({{< ref "/f31/language/hu.md" >}}) | 35 | 35 | 100.0 | /mnt/stockage/packages/f31/xfce4-calculator-plugin/po/hu.po | 
- | [it]({{< ref "/f31/language/it.md" >}}) | 35 | 35 | 100.0 | /mnt/stockage/packages/f31/xfce4-calculator-plugin/po/it.po | 
- | [lt]({{< ref "/f31/language/lt.md" >}}) | 35 | 35 | 100.0 | /mnt/stockage/packages/f31/xfce4-calculator-plugin/po/lt.po | 
- | [ms]({{< ref "/f31/language/ms.md" >}}) | 35 | 35 | 100.0 | /mnt/stockage/packages/f31/xfce4-calculator-plugin/po/ms.po | 
- | [nl]({{< ref "/f31/language/nl.md" >}}) | 35 | 35 | 100.0 | /mnt/stockage/packages/f31/xfce4-calculator-plugin/po/nl.po | 
- | [pl]({{< ref "/f31/language/pl.md" >}}) | 35 | 35 | 100.0 | /mnt/stockage/packages/f31/xfce4-calculator-plugin/po/pl.po | 
- | [pt]({{< ref "/f31/language/pt.md" >}}) | 35 | 35 | 100.0 | /mnt/stockage/packages/f31/xfce4-calculator-plugin/po/pt.po | 
- | [pt_BR]({{< ref "/f31/language/pt_BR.md" >}}) | 35 | 35 | 100.0 | /mnt/stockage/packages/f31/xfce4-calculator-plugin/po/pt_BR.po | 
- | [ru]({{< ref "/f31/language/ru.md" >}}) | 35 | 35 | 100.0 | /mnt/stockage/packages/f31/xfce4-calculator-plugin/po/ru.po | 
- | [sk]({{< ref "/f31/language/sk.md" >}}) | 35 | 35 | 100.0 | /mnt/stockage/packages/f31/xfce4-calculator-plugin/po/sk.po | 
- | [sr]({{< ref "/f31/language/sr.md" >}}) | 35 | 35 | 100.0 | /mnt/stockage/packages/f31/xfce4-calculator-plugin/po/sr.po | 
- | [tr]({{< ref "/f31/language/tr.md" >}}) | 35 | 35 | 100.0 | /mnt/stockage/packages/f31/xfce4-calculator-plugin/po/tr.po | 
- | [uk]({{< ref "/f31/language/uk.md" >}}) | 35 | 35 | 100.0 | /mnt/stockage/packages/f31/xfce4-calculator-plugin/po/uk.po | 
- | [zh_Hans]({{< ref "/f31/language/zh_Hans.md" >}}) | 35 | 35 | 100.0 | /mnt/stockage/packages/f31/xfce4-calculator-plugin/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f31/language/zh_Hant.md" >}}) | 35 | 35 | 100.0 | /mnt/stockage/packages/f31/xfce4-calculator-plugin/po/zh_TW.po | 
- | [ja]({{< ref "/f31/language/ja.md" >}}) | 29 | 35 | 82.9 | /mnt/stockage/packages/f31/xfce4-calculator-plugin/po/ja.po | 
- | [sv]({{< ref "/f31/language/sv.md" >}}) | 27 | 35 | 77.1 | /mnt/stockage/packages/f31/xfce4-calculator-plugin/po/sv.po | 
+ | [be](/f31/language/be) | 35 | 35 | 100.0 | /mnt/stockage/packages/f31/xfce4-calculator-plugin/po/be.po | 
+ | [bg](/f31/language/bg) | 35 | 35 | 100.0 | /mnt/stockage/packages/f31/xfce4-calculator-plugin/po/bg.po | 
+ | [ca](/f31/language/ca) | 35 | 35 | 100.0 | /mnt/stockage/packages/f31/xfce4-calculator-plugin/po/ca.po | 
+ | [cs](/f31/language/cs) | 35 | 35 | 100.0 | /mnt/stockage/packages/f31/xfce4-calculator-plugin/po/cs.po | 
+ | [da](/f31/language/da) | 35 | 35 | 100.0 | /mnt/stockage/packages/f31/xfce4-calculator-plugin/po/da.po | 
+ | [de](/f31/language/de) | 35 | 35 | 100.0 | /mnt/stockage/packages/f31/xfce4-calculator-plugin/po/de.po | 
+ | [es](/f31/language/es) | 35 | 35 | 100.0 | /mnt/stockage/packages/f31/xfce4-calculator-plugin/po/es.po | 
+ | [eu](/f31/language/eu) | 35 | 35 | 100.0 | /mnt/stockage/packages/f31/xfce4-calculator-plugin/po/eu.po | 
+ | [fi](/f31/language/fi) | 35 | 35 | 100.0 | /mnt/stockage/packages/f31/xfce4-calculator-plugin/po/fi.po | 
+ | [fr](/f31/language/fr) | 35 | 35 | 100.0 | /mnt/stockage/packages/f31/xfce4-calculator-plugin/po/fr.po | 
+ | [gl](/f31/language/gl) | 35 | 35 | 100.0 | /mnt/stockage/packages/f31/xfce4-calculator-plugin/po/gl.po | 
+ | [he](/f31/language/he) | 35 | 35 | 100.0 | /mnt/stockage/packages/f31/xfce4-calculator-plugin/po/he.po | 
+ | [hr](/f31/language/hr) | 35 | 35 | 100.0 | /mnt/stockage/packages/f31/xfce4-calculator-plugin/po/hr.po | 
+ | [hu](/f31/language/hu) | 35 | 35 | 100.0 | /mnt/stockage/packages/f31/xfce4-calculator-plugin/po/hu.po | 
+ | [it](/f31/language/it) | 35 | 35 | 100.0 | /mnt/stockage/packages/f31/xfce4-calculator-plugin/po/it.po | 
+ | [lt](/f31/language/lt) | 35 | 35 | 100.0 | /mnt/stockage/packages/f31/xfce4-calculator-plugin/po/lt.po | 
+ | [ms](/f31/language/ms) | 35 | 35 | 100.0 | /mnt/stockage/packages/f31/xfce4-calculator-plugin/po/ms.po | 
+ | [nl](/f31/language/nl) | 35 | 35 | 100.0 | /mnt/stockage/packages/f31/xfce4-calculator-plugin/po/nl.po | 
+ | [pl](/f31/language/pl) | 35 | 35 | 100.0 | /mnt/stockage/packages/f31/xfce4-calculator-plugin/po/pl.po | 
+ | [pt](/f31/language/pt) | 35 | 35 | 100.0 | /mnt/stockage/packages/f31/xfce4-calculator-plugin/po/pt.po | 
+ | [pt_BR](/f31/language/pt_BR) | 35 | 35 | 100.0 | /mnt/stockage/packages/f31/xfce4-calculator-plugin/po/pt_BR.po | 
+ | [ru](/f31/language/ru) | 35 | 35 | 100.0 | /mnt/stockage/packages/f31/xfce4-calculator-plugin/po/ru.po | 
+ | [sk](/f31/language/sk) | 35 | 35 | 100.0 | /mnt/stockage/packages/f31/xfce4-calculator-plugin/po/sk.po | 
+ | [sr](/f31/language/sr) | 35 | 35 | 100.0 | /mnt/stockage/packages/f31/xfce4-calculator-plugin/po/sr.po | 
+ | [tr](/f31/language/tr) | 35 | 35 | 100.0 | /mnt/stockage/packages/f31/xfce4-calculator-plugin/po/tr.po | 
+ | [uk](/f31/language/uk) | 35 | 35 | 100.0 | /mnt/stockage/packages/f31/xfce4-calculator-plugin/po/uk.po | 
+ | [zh_Hans](/f31/language/zh_Hans) | 35 | 35 | 100.0 | /mnt/stockage/packages/f31/xfce4-calculator-plugin/po/zh_CN.po | 
+ | [zh_Hant](/f31/language/zh_Hant) | 35 | 35 | 100.0 | /mnt/stockage/packages/f31/xfce4-calculator-plugin/po/zh_TW.po | 
+ | [ja](/f31/language/ja) | 29 | 35 | 82.9 | /mnt/stockage/packages/f31/xfce4-calculator-plugin/po/ja.po | 
+ | [sv](/f31/language/sv) | 27 | 35 | 77.1 | /mnt/stockage/packages/f31/xfce4-calculator-plugin/po/sv.po | 
 {.sortable}
 
 

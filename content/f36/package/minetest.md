@@ -18,66 +18,66 @@ The package minetest (version 5.7.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f36/language/de.md" >}}) | 9523 | 9523 | 100.0 | /mnt/stockage/packages/f36/minetest/po/de/minetest.po | 
- | [fr]({{< ref "/f36/language/fr.md" >}}) | 9523 | 9523 | 100.0 | /mnt/stockage/packages/f36/minetest/po/fr/minetest.po | 
- | [id]({{< ref "/f36/language/id.md" >}}) | 9523 | 9523 | 100.0 | /mnt/stockage/packages/f36/minetest/po/id/minetest.po | 
- | [ja]({{< ref "/f36/language/ja.md" >}}) | 9523 | 9523 | 100.0 | /mnt/stockage/packages/f36/minetest/po/ja/minetest.po | 
- | [ms]({{< ref "/f36/language/ms.md" >}}) | 9523 | 9523 | 100.0 | /mnt/stockage/packages/f36/minetest/po/ms/minetest.po | 
- | [it]({{< ref "/f36/language/it.md" >}}) | 9422 | 9523 | 98.9 | /mnt/stockage/packages/f36/minetest/po/it/minetest.po | 
- | [sk]({{< ref "/f36/language/sk.md" >}}) | 9322 | 9523 | 97.9 | /mnt/stockage/packages/f36/minetest/po/sk/minetest.po | 
- | [ru]({{< ref "/f36/language/ru.md" >}}) | 9292 | 9523 | 97.6 | /mnt/stockage/packages/f36/minetest/po/ru/minetest.po | 
- | [pt]({{< ref "/f36/language/pt.md" >}}) | 9210 | 9523 | 96.7 | /mnt/stockage/packages/f36/minetest/po/pt/minetest.po | 
- | [hu]({{< ref "/f36/language/hu.md" >}}) | 8987 | 9523 | 94.4 | /mnt/stockage/packages/f36/minetest/po/hu/minetest.po | 
- | [pt_BR]({{< ref "/f36/language/pt_BR.md" >}}) | 8948 | 9523 | 94.0 | /mnt/stockage/packages/f36/minetest/po/pt_BR/minetest.po | 
- | [gl]({{< ref "/f36/language/gl.md" >}}) | 8555 | 9523 | 89.8 | /mnt/stockage/packages/f36/minetest/po/gl/minetest.po | 
- | [th]({{< ref "/f36/language/th.md" >}}) | 8428 | 9523 | 88.5 | /mnt/stockage/packages/f36/minetest/po/th/minetest.po | 
- | [nl]({{< ref "/f36/language/nl.md" >}}) | 8251 | 9523 | 86.6 | /mnt/stockage/packages/f36/minetest/po/nl/minetest.po | 
- | [tr]({{< ref "/f36/language/tr.md" >}}) | 7966 | 9523 | 83.7 | /mnt/stockage/packages/f36/minetest/po/tr/minetest.po | 
- | [zh_Hans]({{< ref "/f36/language/zh_Hans.md" >}}) | 7519 | 9523 | 79.0 | /mnt/stockage/packages/f36/minetest/po/zh_CN/minetest.po | 
- | [eo]({{< ref "/f36/language/eo.md" >}}) | 7454 | 9523 | 78.3 | /mnt/stockage/packages/f36/minetest/po/eo/minetest.po | 
- | [es]({{< ref "/f36/language/es.md" >}}) | 7422 | 9523 | 77.9 | /mnt/stockage/packages/f36/minetest/po/es/minetest.po | 
- | [pl]({{< ref "/f36/language/pl.md" >}}) | 7231 | 9523 | 75.9 | /mnt/stockage/packages/f36/minetest/po/pl/minetest.po | 
- | [be]({{< ref "/f36/language/be.md" >}}) | 5397 | 9523 | 56.7 | /mnt/stockage/packages/f36/minetest/po/be/minetest.po | 
- | [cs]({{< ref "/f36/language/cs.md" >}}) | 4767 | 9523 | 50.1 | /mnt/stockage/packages/f36/minetest/po/cs/minetest.po | 
- | [zh_Hant]({{< ref "/f36/language/zh_Hant.md" >}}) | 4592 | 9523 | 48.2 | /mnt/stockage/packages/f36/minetest/po/zh_TW/minetest.po | 
- | [sv]({{< ref "/f36/language/sv.md" >}}) | 4499 | 9523 | 47.2 | /mnt/stockage/packages/f36/minetest/po/sv/minetest.po | 
- | [ms_Arab]({{< ref "/f36/language/ms_Arab.md" >}}) | 4330 | 9523 | 45.5 | /mnt/stockage/packages/f36/minetest/po/ms_Arab/minetest.po | 
- | [ko]({{< ref "/f36/language/ko.md" >}}) | 3791 | 9523 | 39.8 | /mnt/stockage/packages/f36/minetest/po/ko/minetest.po | 
- | [nb_NO]({{< ref "/f36/language/nb_NO.md" >}}) | 2954 | 9523 | 31.0 | /mnt/stockage/packages/f36/minetest/po/nb/minetest.po | 
- | [da]({{< ref "/f36/language/da.md" >}}) | 2746 | 9523 | 28.8 | /mnt/stockage/packages/f36/minetest/po/da/minetest.po | 
- | [uk]({{< ref "/f36/language/uk.md" >}}) | 2590 | 9523 | 27.2 | /mnt/stockage/packages/f36/minetest/po/uk/minetest.po | 
- | [ro]({{< ref "/f36/language/ro.md" >}}) | 2480 | 9523 | 26.0 | /mnt/stockage/packages/f36/minetest/po/ro/minetest.po | 
- | [sw]({{< ref "/f36/language/sw.md" >}}) | 2460 | 9523 | 25.8 | /mnt/stockage/packages/f36/minetest/po/sw/minetest.po | 
- | [fil]({{< ref "/f36/language/fil.md" >}}) | 2285 | 9523 | 24.0 | /mnt/stockage/packages/f36/minetest/po/fil/minetest.po | 
- | [he]({{< ref "/f36/language/he.md" >}}) | 2151 | 9523 | 22.6 | /mnt/stockage/packages/f36/minetest/po/he/minetest.po | 
- | [vi]({{< ref "/f36/language/vi.md" >}}) | 2072 | 9523 | 21.8 | /mnt/stockage/packages/f36/minetest/po/vi/minetest.po | 
- | [sl]({{< ref "/f36/language/sl.md" >}}) | 2040 | 9523 | 21.4 | /mnt/stockage/packages/f36/minetest/po/sl/minetest.po | 
- | [ar]({{< ref "/f36/language/ar.md" >}}) | 1875 | 9523 | 19.7 | /mnt/stockage/packages/f36/minetest/po/ar/minetest.po | 
- | [et]({{< ref "/f36/language/et.md" >}}) | 1749 | 9523 | 18.4 | /mnt/stockage/packages/f36/minetest/po/et/minetest.po | 
- | [nn]({{< ref "/f36/language/nn.md" >}}) | 1682 | 9523 | 17.7 | /mnt/stockage/packages/f36/minetest/po/nn/minetest.po | 
- | [bg]({{< ref "/f36/language/bg.md" >}}) | 1533 | 9523 | 16.1 | /mnt/stockage/packages/f36/minetest/po/bg/minetest.po | 
- | [hi]({{< ref "/f36/language/hi.md" >}}) | 1364 | 9523 | 14.3 | /mnt/stockage/packages/f36/minetest/po/hi/minetest.po | 
- | [eu]({{< ref "/f36/language/eu.md" >}}) | 1267 | 9523 | 13.3 | /mnt/stockage/packages/f36/minetest/po/eu/minetest.po | 
- | [sr_Cyrl]({{< ref "/f36/language/sr_Cyrl.md" >}}) | 1255 | 9523 | 13.2 | /mnt/stockage/packages/f36/minetest/po/sr_Cyrl/minetest.po | 
- | [gd]({{< ref "/f36/language/gd.md" >}}) | 1236 | 9523 | 13.0 | /mnt/stockage/packages/f36/minetest/po/gd/minetest.po | 
- | [el]({{< ref "/f36/language/el.md" >}}) | 1151 | 9523 | 12.1 | /mnt/stockage/packages/f36/minetest/po/el/minetest.po | 
- | [oc]({{< ref "/f36/language/oc.md" >}}) | 985 | 9523 | 10.3 | /mnt/stockage/packages/f36/minetest/po/oc/minetest.po | 
- | [lv]({{< ref "/f36/language/lv.md" >}}) | 949 | 9523 | 10.0 | /mnt/stockage/packages/f36/minetest/po/lv/minetest.po | 
- | [fi]({{< ref "/f36/language/fi.md" >}}) | 901 | 9523 | 9.5 | /mnt/stockage/packages/f36/minetest/po/fi/minetest.po | 
- | [ca]({{< ref "/f36/language/ca.md" >}}) | 834 | 9523 | 8.8 | /mnt/stockage/packages/f36/minetest/po/ca/minetest.po | 
- | [lt]({{< ref "/f36/language/lt.md" >}}) | 554 | 9523 | 5.8 | /mnt/stockage/packages/f36/minetest/po/lt/minetest.po | 
- | [jbo]({{< ref "/f36/language/jbo.md" >}}) | 402 | 9523 | 4.2 | /mnt/stockage/packages/f36/minetest/po/jbo/minetest.po | 
- | [mr]({{< ref "/f36/language/mr.md" >}}) | 360 | 9523 | 3.8 | /mnt/stockage/packages/f36/minetest/po/mr/minetest.po | 
- | [dv]({{< ref "/f36/language/dv.md" >}}) | 327 | 9523 | 3.4 | /mnt/stockage/packages/f36/minetest/po/dv/minetest.po | 
- | [cy]({{< ref "/f36/language/cy.md" >}}) | 309 | 9523 | 3.2 | /mnt/stockage/packages/f36/minetest/po/cy/minetest.po | 
- | [sr_Latn]({{< ref "/f36/language/sr_Latn.md" >}}) | 280 | 9523 | 2.9 | /mnt/stockage/packages/f36/minetest/po/sr_Latn/minetest.po | 
- | [kn]({{< ref "/f36/language/kn.md" >}}) | 195 | 9523 | 2.0 | /mnt/stockage/packages/f36/minetest/po/kn/minetest.po | 
- | [ky]({{< ref "/f36/language/ky.md" >}}) | 163 | 9523 | 1.7 | /mnt/stockage/packages/f36/minetest/po/ky/minetest.po | 
- | [mn]({{< ref "/f36/language/mn.md" >}}) | 147 | 9523 | 1.5 | /mnt/stockage/packages/f36/minetest/po/mn/minetest.po | 
- | [kk]({{< ref "/f36/language/kk.md" >}}) | 98 | 9523 | 1.0 | /mnt/stockage/packages/f36/minetest/po/kk/minetest.po | 
- | [lzh]({{< ref "/f36/language/lzh.md" >}}) | 17 | 9523 | 0.2 | /mnt/stockage/packages/f36/minetest/po/lzh/minetest.po | 
- | [tt]({{< ref "/f36/language/tt.md" >}}) | 8 | 9523 | 0.1 | /mnt/stockage/packages/f36/minetest/po/tt/minetest.po | 
- | [yue_Hant]({{< ref "/f36/language/yue_Hant.md" >}}) | 0 | 9523 | 0.0 | /mnt/stockage/packages/f36/minetest/po/yue/minetest.po | 
+ | [de](/f36/language/de) | 9523 | 9523 | 100.0 | /mnt/stockage/packages/f36/minetest/po/de/minetest.po | 
+ | [fr](/f36/language/fr) | 9523 | 9523 | 100.0 | /mnt/stockage/packages/f36/minetest/po/fr/minetest.po | 
+ | [id](/f36/language/id) | 9523 | 9523 | 100.0 | /mnt/stockage/packages/f36/minetest/po/id/minetest.po | 
+ | [ja](/f36/language/ja) | 9523 | 9523 | 100.0 | /mnt/stockage/packages/f36/minetest/po/ja/minetest.po | 
+ | [ms](/f36/language/ms) | 9523 | 9523 | 100.0 | /mnt/stockage/packages/f36/minetest/po/ms/minetest.po | 
+ | [it](/f36/language/it) | 9422 | 9523 | 98.9 | /mnt/stockage/packages/f36/minetest/po/it/minetest.po | 
+ | [sk](/f36/language/sk) | 9322 | 9523 | 97.9 | /mnt/stockage/packages/f36/minetest/po/sk/minetest.po | 
+ | [ru](/f36/language/ru) | 9292 | 9523 | 97.6 | /mnt/stockage/packages/f36/minetest/po/ru/minetest.po | 
+ | [pt](/f36/language/pt) | 9210 | 9523 | 96.7 | /mnt/stockage/packages/f36/minetest/po/pt/minetest.po | 
+ | [hu](/f36/language/hu) | 8987 | 9523 | 94.4 | /mnt/stockage/packages/f36/minetest/po/hu/minetest.po | 
+ | [pt_BR](/f36/language/pt_BR) | 8948 | 9523 | 94.0 | /mnt/stockage/packages/f36/minetest/po/pt_BR/minetest.po | 
+ | [gl](/f36/language/gl) | 8555 | 9523 | 89.8 | /mnt/stockage/packages/f36/minetest/po/gl/minetest.po | 
+ | [th](/f36/language/th) | 8428 | 9523 | 88.5 | /mnt/stockage/packages/f36/minetest/po/th/minetest.po | 
+ | [nl](/f36/language/nl) | 8251 | 9523 | 86.6 | /mnt/stockage/packages/f36/minetest/po/nl/minetest.po | 
+ | [tr](/f36/language/tr) | 7966 | 9523 | 83.7 | /mnt/stockage/packages/f36/minetest/po/tr/minetest.po | 
+ | [zh_Hans](/f36/language/zh_Hans) | 7519 | 9523 | 79.0 | /mnt/stockage/packages/f36/minetest/po/zh_CN/minetest.po | 
+ | [eo](/f36/language/eo) | 7454 | 9523 | 78.3 | /mnt/stockage/packages/f36/minetest/po/eo/minetest.po | 
+ | [es](/f36/language/es) | 7422 | 9523 | 77.9 | /mnt/stockage/packages/f36/minetest/po/es/minetest.po | 
+ | [pl](/f36/language/pl) | 7231 | 9523 | 75.9 | /mnt/stockage/packages/f36/minetest/po/pl/minetest.po | 
+ | [be](/f36/language/be) | 5397 | 9523 | 56.7 | /mnt/stockage/packages/f36/minetest/po/be/minetest.po | 
+ | [cs](/f36/language/cs) | 4767 | 9523 | 50.1 | /mnt/stockage/packages/f36/minetest/po/cs/minetest.po | 
+ | [zh_Hant](/f36/language/zh_Hant) | 4592 | 9523 | 48.2 | /mnt/stockage/packages/f36/minetest/po/zh_TW/minetest.po | 
+ | [sv](/f36/language/sv) | 4499 | 9523 | 47.2 | /mnt/stockage/packages/f36/minetest/po/sv/minetest.po | 
+ | [ms_Arab](/f36/language/ms_Arab) | 4330 | 9523 | 45.5 | /mnt/stockage/packages/f36/minetest/po/ms_Arab/minetest.po | 
+ | [ko](/f36/language/ko) | 3791 | 9523 | 39.8 | /mnt/stockage/packages/f36/minetest/po/ko/minetest.po | 
+ | [nb_NO](/f36/language/nb_NO) | 2954 | 9523 | 31.0 | /mnt/stockage/packages/f36/minetest/po/nb/minetest.po | 
+ | [da](/f36/language/da) | 2746 | 9523 | 28.8 | /mnt/stockage/packages/f36/minetest/po/da/minetest.po | 
+ | [uk](/f36/language/uk) | 2590 | 9523 | 27.2 | /mnt/stockage/packages/f36/minetest/po/uk/minetest.po | 
+ | [ro](/f36/language/ro) | 2480 | 9523 | 26.0 | /mnt/stockage/packages/f36/minetest/po/ro/minetest.po | 
+ | [sw](/f36/language/sw) | 2460 | 9523 | 25.8 | /mnt/stockage/packages/f36/minetest/po/sw/minetest.po | 
+ | [fil](/f36/language/fil) | 2285 | 9523 | 24.0 | /mnt/stockage/packages/f36/minetest/po/fil/minetest.po | 
+ | [he](/f36/language/he) | 2151 | 9523 | 22.6 | /mnt/stockage/packages/f36/minetest/po/he/minetest.po | 
+ | [vi](/f36/language/vi) | 2072 | 9523 | 21.8 | /mnt/stockage/packages/f36/minetest/po/vi/minetest.po | 
+ | [sl](/f36/language/sl) | 2040 | 9523 | 21.4 | /mnt/stockage/packages/f36/minetest/po/sl/minetest.po | 
+ | [ar](/f36/language/ar) | 1875 | 9523 | 19.7 | /mnt/stockage/packages/f36/minetest/po/ar/minetest.po | 
+ | [et](/f36/language/et) | 1749 | 9523 | 18.4 | /mnt/stockage/packages/f36/minetest/po/et/minetest.po | 
+ | [nn](/f36/language/nn) | 1682 | 9523 | 17.7 | /mnt/stockage/packages/f36/minetest/po/nn/minetest.po | 
+ | [bg](/f36/language/bg) | 1533 | 9523 | 16.1 | /mnt/stockage/packages/f36/minetest/po/bg/minetest.po | 
+ | [hi](/f36/language/hi) | 1364 | 9523 | 14.3 | /mnt/stockage/packages/f36/minetest/po/hi/minetest.po | 
+ | [eu](/f36/language/eu) | 1267 | 9523 | 13.3 | /mnt/stockage/packages/f36/minetest/po/eu/minetest.po | 
+ | [sr_Cyrl](/f36/language/sr_Cyrl) | 1255 | 9523 | 13.2 | /mnt/stockage/packages/f36/minetest/po/sr_Cyrl/minetest.po | 
+ | [gd](/f36/language/gd) | 1236 | 9523 | 13.0 | /mnt/stockage/packages/f36/minetest/po/gd/minetest.po | 
+ | [el](/f36/language/el) | 1151 | 9523 | 12.1 | /mnt/stockage/packages/f36/minetest/po/el/minetest.po | 
+ | [oc](/f36/language/oc) | 985 | 9523 | 10.3 | /mnt/stockage/packages/f36/minetest/po/oc/minetest.po | 
+ | [lv](/f36/language/lv) | 949 | 9523 | 10.0 | /mnt/stockage/packages/f36/minetest/po/lv/minetest.po | 
+ | [fi](/f36/language/fi) | 901 | 9523 | 9.5 | /mnt/stockage/packages/f36/minetest/po/fi/minetest.po | 
+ | [ca](/f36/language/ca) | 834 | 9523 | 8.8 | /mnt/stockage/packages/f36/minetest/po/ca/minetest.po | 
+ | [lt](/f36/language/lt) | 554 | 9523 | 5.8 | /mnt/stockage/packages/f36/minetest/po/lt/minetest.po | 
+ | [jbo](/f36/language/jbo) | 402 | 9523 | 4.2 | /mnt/stockage/packages/f36/minetest/po/jbo/minetest.po | 
+ | [mr](/f36/language/mr) | 360 | 9523 | 3.8 | /mnt/stockage/packages/f36/minetest/po/mr/minetest.po | 
+ | [dv](/f36/language/dv) | 327 | 9523 | 3.4 | /mnt/stockage/packages/f36/minetest/po/dv/minetest.po | 
+ | [cy](/f36/language/cy) | 309 | 9523 | 3.2 | /mnt/stockage/packages/f36/minetest/po/cy/minetest.po | 
+ | [sr_Latn](/f36/language/sr_Latn) | 280 | 9523 | 2.9 | /mnt/stockage/packages/f36/minetest/po/sr_Latn/minetest.po | 
+ | [kn](/f36/language/kn) | 195 | 9523 | 2.0 | /mnt/stockage/packages/f36/minetest/po/kn/minetest.po | 
+ | [ky](/f36/language/ky) | 163 | 9523 | 1.7 | /mnt/stockage/packages/f36/minetest/po/ky/minetest.po | 
+ | [mn](/f36/language/mn) | 147 | 9523 | 1.5 | /mnt/stockage/packages/f36/minetest/po/mn/minetest.po | 
+ | [kk](/f36/language/kk) | 98 | 9523 | 1.0 | /mnt/stockage/packages/f36/minetest/po/kk/minetest.po | 
+ | [lzh](/f36/language/lzh) | 17 | 9523 | 0.2 | /mnt/stockage/packages/f36/minetest/po/lzh/minetest.po | 
+ | [tt](/f36/language/tt) | 8 | 9523 | 0.1 | /mnt/stockage/packages/f36/minetest/po/tt/minetest.po | 
+ | [yue_Hant](/f36/language/yue_Hant) | 0 | 9523 | 0.0 | /mnt/stockage/packages/f36/minetest/po/yue/minetest.po | 
 {.sortable}
 
 

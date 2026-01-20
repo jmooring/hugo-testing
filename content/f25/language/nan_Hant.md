@@ -38,10 +38,10 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [gnome-do]({{< ref "/f25/package/gnome-do.md" >}}) | 0 | 612 | 0.0 | Min Nan Chinese <nan@li.org> | 
- | [onboard]({{< ref "/f25/package/onboard.md" >}}) | 0 | 2318 | 0.0 | Min Nan Chinese <nan@li.org> | 
- | [stellarium]({{< ref "/f25/package/stellarium.md" >}}) | 0 | 23532 | 0.0 | Min Nan Chinese <nan@li.org> | 
- | [unetbootin]({{< ref "/f25/package/unetbootin.md" >}}) | 0 | 3159 | 0.0 | Min Nan Chinese <nan@li.org> | 
+ | [gnome-do](/f25/package/gnome-do) | 0 | 612 | 0.0 | Min Nan Chinese <nan@li.org> | 
+ | [onboard](/f25/package/onboard) | 0 | 2318 | 0.0 | Min Nan Chinese <nan@li.org> | 
+ | [stellarium](/f25/package/stellarium) | 0 | 23532 | 0.0 | Min Nan Chinese <nan@li.org> | 
+ | [unetbootin](/f25/package/unetbootin) | 0 | 3159 | 0.0 | Min Nan Chinese <nan@li.org> | 
 {.sortable}
 
 

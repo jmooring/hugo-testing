@@ -38,8 +38,8 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [perl-libintl]({{< ref "/f7/package/perl-libintl.md" >}}) | 12 | 19 | 63.2 | Arabic <guido@imperia.net> | 
- | [pgadmin3]({{< ref "/f7/package/pgadmin3.md" >}}) | 3471 | 7344 | 47.3 | Arabic <support@arabeyes.org> | 
+ | [perl-libintl](/f7/package/perl-libintl) | 12 | 19 | 63.2 | Arabic <guido@imperia.net> | 
+ | [pgadmin3](/f7/package/pgadmin3) | 3471 | 7344 | 47.3 | Arabic <support@arabeyes.org> | 
 {.sortable}
 
 

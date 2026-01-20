@@ -18,93 +18,93 @@ The package gnome-vfs2 (version 2.24.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f11/language/ar.md" >}}) | 1508 | 1508 | 100.0 | /mnt/stockage/packages/f11/gnome-vfs2/po/ar.po | 
- | [as]({{< ref "/f11/language/as.md" >}}) | 1508 | 1508 | 100.0 | /mnt/stockage/packages/f11/gnome-vfs2/po/as.po | 
- | [be]({{< ref "/f11/language/be.md" >}}) | 1506 | 1506 | 100.0 | /mnt/stockage/packages/f11/gnome-vfs2/po/be.po | 
- | [bg]({{< ref "/f11/language/bg.md" >}}) | 1508 | 1508 | 100.0 | /mnt/stockage/packages/f11/gnome-vfs2/po/bg.po | 
- | [bn]({{< ref "/f11/language/bn.md" >}}) | 1508 | 1508 | 100.0 | /mnt/stockage/packages/f11/gnome-vfs2/po/bn.po | 
- | [bn_IN]({{< ref "/f11/language/bn_IN.md" >}}) | 1508 | 1508 | 100.0 | /mnt/stockage/packages/f11/gnome-vfs2/po/bn_IN.po | 
- | [ca]({{< ref "/f11/language/ca.md" >}}) | 1508 | 1508 | 100.0 | /mnt/stockage/packages/f11/gnome-vfs2/po/ca.po | 
- | [cs]({{< ref "/f11/language/cs.md" >}}) | 1508 | 1508 | 100.0 | /mnt/stockage/packages/f11/gnome-vfs2/po/cs.po | 
- | [cy]({{< ref "/f11/language/cy.md" >}}) | 1515 | 1515 | 100.0 | /mnt/stockage/packages/f11/gnome-vfs2/po/cy.po | 
- | [da]({{< ref "/f11/language/da.md" >}}) | 1508 | 1508 | 100.0 | /mnt/stockage/packages/f11/gnome-vfs2/po/da.po | 
- | [de]({{< ref "/f11/language/de.md" >}}) | 1508 | 1508 | 100.0 | /mnt/stockage/packages/f11/gnome-vfs2/po/de.po | 
- | [dz]({{< ref "/f11/language/dz.md" >}}) | 1508 | 1508 | 100.0 | /mnt/stockage/packages/f11/gnome-vfs2/po/dz.po | 
- | [el]({{< ref "/f11/language/el.md" >}}) | 1508 | 1508 | 100.0 | /mnt/stockage/packages/f11/gnome-vfs2/po/el.po | 
- | [en_CA]({{< ref "/f11/language/en_CA.md" >}}) | 1508 | 1508 | 100.0 | /mnt/stockage/packages/f11/gnome-vfs2/po/en_CA.po | 
- | [en_GB]({{< ref "/f11/language/en_GB.md" >}}) | 1508 | 1508 | 100.0 | /mnt/stockage/packages/f11/gnome-vfs2/po/en_GB.po | 
- | [es]({{< ref "/f11/language/es.md" >}}) | 1508 | 1508 | 100.0 | /mnt/stockage/packages/f11/gnome-vfs2/po/es.po | 
- | [et]({{< ref "/f11/language/et.md" >}}) | 1508 | 1508 | 100.0 | /mnt/stockage/packages/f11/gnome-vfs2/po/et.po | 
- | [eu]({{< ref "/f11/language/eu.md" >}}) | 1508 | 1508 | 100.0 | /mnt/stockage/packages/f11/gnome-vfs2/po/eu.po | 
- | [fi]({{< ref "/f11/language/fi.md" >}}) | 1508 | 1508 | 100.0 | /mnt/stockage/packages/f11/gnome-vfs2/po/fi.po | 
- | [fr]({{< ref "/f11/language/fr.md" >}}) | 1508 | 1508 | 100.0 | /mnt/stockage/packages/f11/gnome-vfs2/po/fr.po | 
- | [gl]({{< ref "/f11/language/gl.md" >}}) | 1508 | 1508 | 100.0 | /mnt/stockage/packages/f11/gnome-vfs2/po/gl.po | 
- | [gu]({{< ref "/f11/language/gu.md" >}}) | 1508 | 1508 | 100.0 | /mnt/stockage/packages/f11/gnome-vfs2/po/gu.po | 
- | [he]({{< ref "/f11/language/he.md" >}}) | 1508 | 1508 | 100.0 | /mnt/stockage/packages/f11/gnome-vfs2/po/he.po | 
- | [hi]({{< ref "/f11/language/hi.md" >}}) | 1508 | 1508 | 100.0 | /mnt/stockage/packages/f11/gnome-vfs2/po/hi.po | 
- | [hr]({{< ref "/f11/language/hr.md" >}}) | 1508 | 1508 | 100.0 | /mnt/stockage/packages/f11/gnome-vfs2/po/hr.po | 
- | [hu]({{< ref "/f11/language/hu.md" >}}) | 1508 | 1508 | 100.0 | /mnt/stockage/packages/f11/gnome-vfs2/po/hu.po | 
- | [id]({{< ref "/f11/language/id.md" >}}) | 1506 | 1506 | 100.0 | /mnt/stockage/packages/f11/gnome-vfs2/po/id.po | 
- | [it]({{< ref "/f11/language/it.md" >}}) | 1508 | 1508 | 100.0 | /mnt/stockage/packages/f11/gnome-vfs2/po/it.po | 
- | [ja]({{< ref "/f11/language/ja.md" >}}) | 1508 | 1508 | 100.0 | /mnt/stockage/packages/f11/gnome-vfs2/po/ja.po | 
- | [ka]({{< ref "/f11/language/ka.md" >}}) | 1508 | 1508 | 100.0 | /mnt/stockage/packages/f11/gnome-vfs2/po/ka.po | 
- | [ko]({{< ref "/f11/language/ko.md" >}}) | 1508 | 1508 | 100.0 | /mnt/stockage/packages/f11/gnome-vfs2/po/ko.po | 
- | [lt]({{< ref "/f11/language/lt.md" >}}) | 1508 | 1508 | 100.0 | /mnt/stockage/packages/f11/gnome-vfs2/po/lt.po | 
- | [lv]({{< ref "/f11/language/lv.md" >}}) | 1508 | 1508 | 100.0 | /mnt/stockage/packages/f11/gnome-vfs2/po/lv.po | 
- | [mk]({{< ref "/f11/language/mk.md" >}}) | 1508 | 1508 | 100.0 | /mnt/stockage/packages/f11/gnome-vfs2/po/mk.po | 
- | [ml]({{< ref "/f11/language/ml.md" >}}) | 1508 | 1508 | 100.0 | /mnt/stockage/packages/f11/gnome-vfs2/po/ml.po | 
- | [mr]({{< ref "/f11/language/mr.md" >}}) | 1508 | 1508 | 100.0 | /mnt/stockage/packages/f11/gnome-vfs2/po/mr.po | 
- | [nb_NO]({{< ref "/f11/language/nb_NO.md" >}}) | 1508 | 1508 | 100.0 | /mnt/stockage/packages/f11/gnome-vfs2/po/nb.po | 
- | [ne]({{< ref "/f11/language/ne.md" >}}) | 1508 | 1508 | 100.0 | /mnt/stockage/packages/f11/gnome-vfs2/po/ne.po | 
- | [nl]({{< ref "/f11/language/nl.md" >}}) | 1508 | 1508 | 100.0 | /mnt/stockage/packages/f11/gnome-vfs2/po/nl.po | 
- | [nn]({{< ref "/f11/language/nn.md" >}}) | 1508 | 1508 | 100.0 | /mnt/stockage/packages/f11/gnome-vfs2/po/nn.po | 
- | [or]({{< ref "/f11/language/or.md" >}}) | 1508 | 1508 | 100.0 | /mnt/stockage/packages/f11/gnome-vfs2/po/or.po | 
- | [pa]({{< ref "/f11/language/pa.md" >}}) | 1508 | 1508 | 100.0 | /mnt/stockage/packages/f11/gnome-vfs2/po/pa.po | 
- | [pl]({{< ref "/f11/language/pl.md" >}}) | 1508 | 1508 | 100.0 | /mnt/stockage/packages/f11/gnome-vfs2/po/pl.po | 
- | [pt]({{< ref "/f11/language/pt.md" >}}) | 1508 | 1508 | 100.0 | /mnt/stockage/packages/f11/gnome-vfs2/po/pt.po | 
- | [pt_BR]({{< ref "/f11/language/pt_BR.md" >}}) | 1508 | 1508 | 100.0 | /mnt/stockage/packages/f11/gnome-vfs2/po/pt_BR.po | 
- | [ro]({{< ref "/f11/language/ro.md" >}}) | 1508 | 1508 | 100.0 | /mnt/stockage/packages/f11/gnome-vfs2/po/ro.po | 
- | [ru]({{< ref "/f11/language/ru.md" >}}) | 1508 | 1508 | 100.0 | /mnt/stockage/packages/f11/gnome-vfs2/po/ru.po | 
- | [sl]({{< ref "/f11/language/sl.md" >}}) | 1508 | 1508 | 100.0 | /mnt/stockage/packages/f11/gnome-vfs2/po/sl.po | 
- | [sq]({{< ref "/f11/language/sq.md" >}}) | 1508 | 1508 | 100.0 | /mnt/stockage/packages/f11/gnome-vfs2/po/sq.po | 
- | [sr]({{< ref "/f11/language/sr.md" >}}) | 1508 | 1508 | 100.0 | /mnt/stockage/packages/f11/gnome-vfs2/po/sr.po | 
- | [sr_Latn]({{< ref "/f11/language/sr_Latn.md" >}}) | 1508 | 1508 | 100.0 | /mnt/stockage/packages/f11/gnome-vfs2/po/sr@latin.po | 
- | [sv]({{< ref "/f11/language/sv.md" >}}) | 1508 | 1508 | 100.0 | /mnt/stockage/packages/f11/gnome-vfs2/po/sv.po | 
- | [ta]({{< ref "/f11/language/ta.md" >}}) | 1508 | 1508 | 100.0 | /mnt/stockage/packages/f11/gnome-vfs2/po/ta.po | 
- | [te]({{< ref "/f11/language/te.md" >}}) | 1508 | 1508 | 100.0 | /mnt/stockage/packages/f11/gnome-vfs2/po/te.po | 
- | [th]({{< ref "/f11/language/th.md" >}}) | 1508 | 1508 | 100.0 | /mnt/stockage/packages/f11/gnome-vfs2/po/th.po | 
- | [tr]({{< ref "/f11/language/tr.md" >}}) | 1508 | 1508 | 100.0 | /mnt/stockage/packages/f11/gnome-vfs2/po/tr.po | 
- | [uk]({{< ref "/f11/language/uk.md" >}}) | 1508 | 1508 | 100.0 | /mnt/stockage/packages/f11/gnome-vfs2/po/uk.po | 
- | [vi]({{< ref "/f11/language/vi.md" >}}) | 1508 | 1508 | 100.0 | /mnt/stockage/packages/f11/gnome-vfs2/po/vi.po | 
- | [xh]({{< ref "/f11/language/xh.md" >}}) | 1281 | 1281 | 100.0 | /mnt/stockage/packages/f11/gnome-vfs2/po/xh.po | 
- | [zh_Hans]({{< ref "/f11/language/zh_Hans.md" >}}) | 1508 | 1508 | 100.0 | /mnt/stockage/packages/f11/gnome-vfs2/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f11/language/zh_Hant.md" >}}) | 1508 | 1508 | 100.0 | /mnt/stockage/packages/f11/gnome-vfs2/po/zh_TW.po | 
- | [zh_Hant_HK]({{< ref "/f11/language/zh_Hant_HK.md" >}}) | 1508 | 1508 | 100.0 | /mnt/stockage/packages/f11/gnome-vfs2/po/zh_HK.po | 
- | [mai]({{< ref "/f11/language/mai.md" >}}) | 1506 | 1508 | 99.9 | /mnt/stockage/packages/f11/gnome-vfs2/po/mai.po | 
- | [sk]({{< ref "/f11/language/sk.md" >}}) | 1499 | 1508 | 99.4 | /mnt/stockage/packages/f11/gnome-vfs2/po/sk.po | 
- | [mg]({{< ref "/f11/language/mg.md" >}}) | 1495 | 1506 | 99.3 | /mnt/stockage/packages/f11/gnome-vfs2/po/mg.po | 
- | [bs]({{< ref "/f11/language/bs.md" >}}) | 1263 | 1282 | 98.5 | /mnt/stockage/packages/f11/gnome-vfs2/po/bs.po | 
- | [nso]({{< ref "/f11/language/nso.md" >}}) | 1263 | 1282 | 98.5 | /mnt/stockage/packages/f11/gnome-vfs2/po/nso.po | 
- | [zu]({{< ref "/f11/language/zu.md" >}}) | 1263 | 1282 | 98.5 | /mnt/stockage/packages/f11/gnome-vfs2/po/zu.po | 
- | [ast]({{< ref "/f11/language/ast.md" >}}) | 1473 | 1508 | 97.7 | /mnt/stockage/packages/f11/gnome-vfs2/po/ast.po | 
- | [ms]({{< ref "/f11/language/ms.md" >}}) | 1232 | 1282 | 96.1 | /mnt/stockage/packages/f11/gnome-vfs2/po/ms.po | 
- | [kn]({{< ref "/f11/language/kn.md" >}}) | 1375 | 1508 | 91.2 | /mnt/stockage/packages/f11/gnome-vfs2/po/kn.po | 
- | [mn]({{< ref "/f11/language/mn.md" >}}) | 1123 | 1282 | 87.6 | /mnt/stockage/packages/f11/gnome-vfs2/po/mn.po | 
- | [af]({{< ref "/f11/language/af.md" >}}) | 1141 | 1508 | 75.7 | /mnt/stockage/packages/f11/gnome-vfs2/po/af.po | 
- | [az]({{< ref "/f11/language/az.md" >}}) | 747 | 1282 | 58.3 | /mnt/stockage/packages/f11/gnome-vfs2/po/az.po | 
- | [sr@ijekavian]({{< ref "/f11/language/sr@ijekavian.md" >}}) | 747 | 1282 | 58.3 | /mnt/stockage/packages/f11/gnome-vfs2/po/sr@ije.po | 
- | [uz]({{< ref "/f11/language/uz.md" >}}) | 900 | 3016 | 29.8 | /mnt/stockage/packages/f11/gnome-vfs2/po/uz.po/mnt/stockage/packages/f11/gnome-vfs2/po/uz@cyrillic.po | 
- | [wa]({{< ref "/f11/language/wa.md" >}}) | 308 | 1282 | 24.0 | /mnt/stockage/packages/f11/gnome-vfs2/po/wa.po | 
- | [oc]({{< ref "/f11/language/oc.md" >}}) | 324 | 1508 | 21.5 | /mnt/stockage/packages/f11/gnome-vfs2/po/oc.po | 
- | [eo]({{< ref "/f11/language/eo.md" >}}) | 225 | 1282 | 17.6 | /mnt/stockage/packages/f11/gnome-vfs2/po/eo.po | 
- | [is]({{< ref "/f11/language/is.md" >}}) | 225 | 1282 | 17.6 | /mnt/stockage/packages/f11/gnome-vfs2/po/is.po | 
- | [li]({{< ref "/f11/language/li.md" >}}) | 225 | 1282 | 17.6 | /mnt/stockage/packages/f11/gnome-vfs2/po/li.po | 
- | [yi]({{< ref "/f11/language/yi.md" >}}) | 209 | 1282 | 16.3 | /mnt/stockage/packages/f11/gnome-vfs2/po/yi.po | 
- | [fa]({{< ref "/f11/language/fa.md" >}}) | 190 | 1282 | 14.8 | /mnt/stockage/packages/f11/gnome-vfs2/po/fa.po | 
- | [ga]({{< ref "/f11/language/ga.md" >}}) | 138 | 1282 | 10.8 | /mnt/stockage/packages/f11/gnome-vfs2/po/ga.po | 
- | [am]({{< ref "/f11/language/am.md" >}}) | 32 | 1282 | 2.5 | /mnt/stockage/packages/f11/gnome-vfs2/po/am.po | 
- | [rw]({{< ref "/f11/language/rw.md" >}}) | 21 | 1282 | 1.6 | /mnt/stockage/packages/f11/gnome-vfs2/po/rw.po | 
- | [ku]({{< ref "/f11/language/ku.md" >}}) | 25 | 1576 | 1.6 | /mnt/stockage/packages/f11/gnome-vfs2/po/ku.po | 
+ | [ar](/f11/language/ar) | 1508 | 1508 | 100.0 | /mnt/stockage/packages/f11/gnome-vfs2/po/ar.po | 
+ | [as](/f11/language/as) | 1508 | 1508 | 100.0 | /mnt/stockage/packages/f11/gnome-vfs2/po/as.po | 
+ | [be](/f11/language/be) | 1506 | 1506 | 100.0 | /mnt/stockage/packages/f11/gnome-vfs2/po/be.po | 
+ | [bg](/f11/language/bg) | 1508 | 1508 | 100.0 | /mnt/stockage/packages/f11/gnome-vfs2/po/bg.po | 
+ | [bn](/f11/language/bn) | 1508 | 1508 | 100.0 | /mnt/stockage/packages/f11/gnome-vfs2/po/bn.po | 
+ | [bn_IN](/f11/language/bn_IN) | 1508 | 1508 | 100.0 | /mnt/stockage/packages/f11/gnome-vfs2/po/bn_IN.po | 
+ | [ca](/f11/language/ca) | 1508 | 1508 | 100.0 | /mnt/stockage/packages/f11/gnome-vfs2/po/ca.po | 
+ | [cs](/f11/language/cs) | 1508 | 1508 | 100.0 | /mnt/stockage/packages/f11/gnome-vfs2/po/cs.po | 
+ | [cy](/f11/language/cy) | 1515 | 1515 | 100.0 | /mnt/stockage/packages/f11/gnome-vfs2/po/cy.po | 
+ | [da](/f11/language/da) | 1508 | 1508 | 100.0 | /mnt/stockage/packages/f11/gnome-vfs2/po/da.po | 
+ | [de](/f11/language/de) | 1508 | 1508 | 100.0 | /mnt/stockage/packages/f11/gnome-vfs2/po/de.po | 
+ | [dz](/f11/language/dz) | 1508 | 1508 | 100.0 | /mnt/stockage/packages/f11/gnome-vfs2/po/dz.po | 
+ | [el](/f11/language/el) | 1508 | 1508 | 100.0 | /mnt/stockage/packages/f11/gnome-vfs2/po/el.po | 
+ | [en_CA](/f11/language/en_CA) | 1508 | 1508 | 100.0 | /mnt/stockage/packages/f11/gnome-vfs2/po/en_CA.po | 
+ | [en_GB](/f11/language/en_GB) | 1508 | 1508 | 100.0 | /mnt/stockage/packages/f11/gnome-vfs2/po/en_GB.po | 
+ | [es](/f11/language/es) | 1508 | 1508 | 100.0 | /mnt/stockage/packages/f11/gnome-vfs2/po/es.po | 
+ | [et](/f11/language/et) | 1508 | 1508 | 100.0 | /mnt/stockage/packages/f11/gnome-vfs2/po/et.po | 
+ | [eu](/f11/language/eu) | 1508 | 1508 | 100.0 | /mnt/stockage/packages/f11/gnome-vfs2/po/eu.po | 
+ | [fi](/f11/language/fi) | 1508 | 1508 | 100.0 | /mnt/stockage/packages/f11/gnome-vfs2/po/fi.po | 
+ | [fr](/f11/language/fr) | 1508 | 1508 | 100.0 | /mnt/stockage/packages/f11/gnome-vfs2/po/fr.po | 
+ | [gl](/f11/language/gl) | 1508 | 1508 | 100.0 | /mnt/stockage/packages/f11/gnome-vfs2/po/gl.po | 
+ | [gu](/f11/language/gu) | 1508 | 1508 | 100.0 | /mnt/stockage/packages/f11/gnome-vfs2/po/gu.po | 
+ | [he](/f11/language/he) | 1508 | 1508 | 100.0 | /mnt/stockage/packages/f11/gnome-vfs2/po/he.po | 
+ | [hi](/f11/language/hi) | 1508 | 1508 | 100.0 | /mnt/stockage/packages/f11/gnome-vfs2/po/hi.po | 
+ | [hr](/f11/language/hr) | 1508 | 1508 | 100.0 | /mnt/stockage/packages/f11/gnome-vfs2/po/hr.po | 
+ | [hu](/f11/language/hu) | 1508 | 1508 | 100.0 | /mnt/stockage/packages/f11/gnome-vfs2/po/hu.po | 
+ | [id](/f11/language/id) | 1506 | 1506 | 100.0 | /mnt/stockage/packages/f11/gnome-vfs2/po/id.po | 
+ | [it](/f11/language/it) | 1508 | 1508 | 100.0 | /mnt/stockage/packages/f11/gnome-vfs2/po/it.po | 
+ | [ja](/f11/language/ja) | 1508 | 1508 | 100.0 | /mnt/stockage/packages/f11/gnome-vfs2/po/ja.po | 
+ | [ka](/f11/language/ka) | 1508 | 1508 | 100.0 | /mnt/stockage/packages/f11/gnome-vfs2/po/ka.po | 
+ | [ko](/f11/language/ko) | 1508 | 1508 | 100.0 | /mnt/stockage/packages/f11/gnome-vfs2/po/ko.po | 
+ | [lt](/f11/language/lt) | 1508 | 1508 | 100.0 | /mnt/stockage/packages/f11/gnome-vfs2/po/lt.po | 
+ | [lv](/f11/language/lv) | 1508 | 1508 | 100.0 | /mnt/stockage/packages/f11/gnome-vfs2/po/lv.po | 
+ | [mk](/f11/language/mk) | 1508 | 1508 | 100.0 | /mnt/stockage/packages/f11/gnome-vfs2/po/mk.po | 
+ | [ml](/f11/language/ml) | 1508 | 1508 | 100.0 | /mnt/stockage/packages/f11/gnome-vfs2/po/ml.po | 
+ | [mr](/f11/language/mr) | 1508 | 1508 | 100.0 | /mnt/stockage/packages/f11/gnome-vfs2/po/mr.po | 
+ | [nb_NO](/f11/language/nb_NO) | 1508 | 1508 | 100.0 | /mnt/stockage/packages/f11/gnome-vfs2/po/nb.po | 
+ | [ne](/f11/language/ne) | 1508 | 1508 | 100.0 | /mnt/stockage/packages/f11/gnome-vfs2/po/ne.po | 
+ | [nl](/f11/language/nl) | 1508 | 1508 | 100.0 | /mnt/stockage/packages/f11/gnome-vfs2/po/nl.po | 
+ | [nn](/f11/language/nn) | 1508 | 1508 | 100.0 | /mnt/stockage/packages/f11/gnome-vfs2/po/nn.po | 
+ | [or](/f11/language/or) | 1508 | 1508 | 100.0 | /mnt/stockage/packages/f11/gnome-vfs2/po/or.po | 
+ | [pa](/f11/language/pa) | 1508 | 1508 | 100.0 | /mnt/stockage/packages/f11/gnome-vfs2/po/pa.po | 
+ | [pl](/f11/language/pl) | 1508 | 1508 | 100.0 | /mnt/stockage/packages/f11/gnome-vfs2/po/pl.po | 
+ | [pt](/f11/language/pt) | 1508 | 1508 | 100.0 | /mnt/stockage/packages/f11/gnome-vfs2/po/pt.po | 
+ | [pt_BR](/f11/language/pt_BR) | 1508 | 1508 | 100.0 | /mnt/stockage/packages/f11/gnome-vfs2/po/pt_BR.po | 
+ | [ro](/f11/language/ro) | 1508 | 1508 | 100.0 | /mnt/stockage/packages/f11/gnome-vfs2/po/ro.po | 
+ | [ru](/f11/language/ru) | 1508 | 1508 | 100.0 | /mnt/stockage/packages/f11/gnome-vfs2/po/ru.po | 
+ | [sl](/f11/language/sl) | 1508 | 1508 | 100.0 | /mnt/stockage/packages/f11/gnome-vfs2/po/sl.po | 
+ | [sq](/f11/language/sq) | 1508 | 1508 | 100.0 | /mnt/stockage/packages/f11/gnome-vfs2/po/sq.po | 
+ | [sr](/f11/language/sr) | 1508 | 1508 | 100.0 | /mnt/stockage/packages/f11/gnome-vfs2/po/sr.po | 
+ | [sr_Latn](/f11/language/sr_Latn) | 1508 | 1508 | 100.0 | /mnt/stockage/packages/f11/gnome-vfs2/po/sr@latin.po | 
+ | [sv](/f11/language/sv) | 1508 | 1508 | 100.0 | /mnt/stockage/packages/f11/gnome-vfs2/po/sv.po | 
+ | [ta](/f11/language/ta) | 1508 | 1508 | 100.0 | /mnt/stockage/packages/f11/gnome-vfs2/po/ta.po | 
+ | [te](/f11/language/te) | 1508 | 1508 | 100.0 | /mnt/stockage/packages/f11/gnome-vfs2/po/te.po | 
+ | [th](/f11/language/th) | 1508 | 1508 | 100.0 | /mnt/stockage/packages/f11/gnome-vfs2/po/th.po | 
+ | [tr](/f11/language/tr) | 1508 | 1508 | 100.0 | /mnt/stockage/packages/f11/gnome-vfs2/po/tr.po | 
+ | [uk](/f11/language/uk) | 1508 | 1508 | 100.0 | /mnt/stockage/packages/f11/gnome-vfs2/po/uk.po | 
+ | [vi](/f11/language/vi) | 1508 | 1508 | 100.0 | /mnt/stockage/packages/f11/gnome-vfs2/po/vi.po | 
+ | [xh](/f11/language/xh) | 1281 | 1281 | 100.0 | /mnt/stockage/packages/f11/gnome-vfs2/po/xh.po | 
+ | [zh_Hans](/f11/language/zh_Hans) | 1508 | 1508 | 100.0 | /mnt/stockage/packages/f11/gnome-vfs2/po/zh_CN.po | 
+ | [zh_Hant](/f11/language/zh_Hant) | 1508 | 1508 | 100.0 | /mnt/stockage/packages/f11/gnome-vfs2/po/zh_TW.po | 
+ | [zh_Hant_HK](/f11/language/zh_Hant_HK) | 1508 | 1508 | 100.0 | /mnt/stockage/packages/f11/gnome-vfs2/po/zh_HK.po | 
+ | [mai](/f11/language/mai) | 1506 | 1508 | 99.9 | /mnt/stockage/packages/f11/gnome-vfs2/po/mai.po | 
+ | [sk](/f11/language/sk) | 1499 | 1508 | 99.4 | /mnt/stockage/packages/f11/gnome-vfs2/po/sk.po | 
+ | [mg](/f11/language/mg) | 1495 | 1506 | 99.3 | /mnt/stockage/packages/f11/gnome-vfs2/po/mg.po | 
+ | [bs](/f11/language/bs) | 1263 | 1282 | 98.5 | /mnt/stockage/packages/f11/gnome-vfs2/po/bs.po | 
+ | [nso](/f11/language/nso) | 1263 | 1282 | 98.5 | /mnt/stockage/packages/f11/gnome-vfs2/po/nso.po | 
+ | [zu](/f11/language/zu) | 1263 | 1282 | 98.5 | /mnt/stockage/packages/f11/gnome-vfs2/po/zu.po | 
+ | [ast](/f11/language/ast) | 1473 | 1508 | 97.7 | /mnt/stockage/packages/f11/gnome-vfs2/po/ast.po | 
+ | [ms](/f11/language/ms) | 1232 | 1282 | 96.1 | /mnt/stockage/packages/f11/gnome-vfs2/po/ms.po | 
+ | [kn](/f11/language/kn) | 1375 | 1508 | 91.2 | /mnt/stockage/packages/f11/gnome-vfs2/po/kn.po | 
+ | [mn](/f11/language/mn) | 1123 | 1282 | 87.6 | /mnt/stockage/packages/f11/gnome-vfs2/po/mn.po | 
+ | [af](/f11/language/af) | 1141 | 1508 | 75.7 | /mnt/stockage/packages/f11/gnome-vfs2/po/af.po | 
+ | [az](/f11/language/az) | 747 | 1282 | 58.3 | /mnt/stockage/packages/f11/gnome-vfs2/po/az.po | 
+ | [sr@ijekavian](/f11/language/sr@ijekavian) | 747 | 1282 | 58.3 | /mnt/stockage/packages/f11/gnome-vfs2/po/sr@ije.po | 
+ | [uz](/f11/language/uz) | 900 | 3016 | 29.8 | /mnt/stockage/packages/f11/gnome-vfs2/po/uz.po/mnt/stockage/packages/f11/gnome-vfs2/po/uz@cyrillic.po | 
+ | [wa](/f11/language/wa) | 308 | 1282 | 24.0 | /mnt/stockage/packages/f11/gnome-vfs2/po/wa.po | 
+ | [oc](/f11/language/oc) | 324 | 1508 | 21.5 | /mnt/stockage/packages/f11/gnome-vfs2/po/oc.po | 
+ | [eo](/f11/language/eo) | 225 | 1282 | 17.6 | /mnt/stockage/packages/f11/gnome-vfs2/po/eo.po | 
+ | [is](/f11/language/is) | 225 | 1282 | 17.6 | /mnt/stockage/packages/f11/gnome-vfs2/po/is.po | 
+ | [li](/f11/language/li) | 225 | 1282 | 17.6 | /mnt/stockage/packages/f11/gnome-vfs2/po/li.po | 
+ | [yi](/f11/language/yi) | 209 | 1282 | 16.3 | /mnt/stockage/packages/f11/gnome-vfs2/po/yi.po | 
+ | [fa](/f11/language/fa) | 190 | 1282 | 14.8 | /mnt/stockage/packages/f11/gnome-vfs2/po/fa.po | 
+ | [ga](/f11/language/ga) | 138 | 1282 | 10.8 | /mnt/stockage/packages/f11/gnome-vfs2/po/ga.po | 
+ | [am](/f11/language/am) | 32 | 1282 | 2.5 | /mnt/stockage/packages/f11/gnome-vfs2/po/am.po | 
+ | [rw](/f11/language/rw) | 21 | 1282 | 1.6 | /mnt/stockage/packages/f11/gnome-vfs2/po/rw.po | 
+ | [ku](/f11/language/ku) | 25 | 1576 | 1.6 | /mnt/stockage/packages/f11/gnome-vfs2/po/ku.po | 
 {.sortable}
 
 

@@ -18,8 +18,8 @@ The package mailman3 (version 3.2.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [error]({{< ref "/f31/language/error.md" >}}) | 10 | 10 | 100.0 | /mnt/stockage/packages/f31/mailman3/src/mailman/testing/mailman-xx.po/mnt/stockage/packages/f31/mailman3/src/mailman/testing/mailman-yy.po | 
- | [fr]({{< ref "/f31/language/fr.md" >}}) | 79 | 79 | 100.0 | /mnt/stockage/packages/f31/mailman3/src/mailman/testing/mailman-fr.po | 
+ | [error](/f31/language/error) | 10 | 10 | 100.0 | /mnt/stockage/packages/f31/mailman3/src/mailman/testing/mailman-xx.po/mnt/stockage/packages/f31/mailman3/src/mailman/testing/mailman-yy.po | 
+ | [fr](/f31/language/fr) | 79 | 79 | 100.0 | /mnt/stockage/packages/f31/mailman3/src/mailman/testing/mailman-fr.po | 
 {.sortable}
 
 

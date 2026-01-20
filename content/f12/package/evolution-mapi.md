@@ -18,58 +18,58 @@ The package evolution-mapi (version 0.28.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [as]({{< ref "/f12/language/as.md" >}}) | 333 | 333 | 100.0 | /mnt/stockage/packages/f12/evolution-mapi/po/as.po | 
- | [bg]({{< ref "/f12/language/bg.md" >}}) | 333 | 333 | 100.0 | /mnt/stockage/packages/f12/evolution-mapi/po/bg.po | 
- | [bn_IN]({{< ref "/f12/language/bn_IN.md" >}}) | 333 | 333 | 100.0 | /mnt/stockage/packages/f12/evolution-mapi/po/bn_IN.po | 
- | [ca]({{< ref "/f12/language/ca.md" >}}) | 333 | 333 | 100.0 | /mnt/stockage/packages/f12/evolution-mapi/po/ca.po | 
- | [cs]({{< ref "/f12/language/cs.md" >}}) | 333 | 333 | 100.0 | /mnt/stockage/packages/f12/evolution-mapi/po/cs.po | 
- | [da]({{< ref "/f12/language/da.md" >}}) | 333 | 333 | 100.0 | /mnt/stockage/packages/f12/evolution-mapi/po/da.po | 
- | [de]({{< ref "/f12/language/de.md" >}}) | 333 | 333 | 100.0 | /mnt/stockage/packages/f12/evolution-mapi/po/de.po | 
- | [en_GB]({{< ref "/f12/language/en_GB.md" >}}) | 333 | 333 | 100.0 | /mnt/stockage/packages/f12/evolution-mapi/po/en_GB.po | 
- | [es]({{< ref "/f12/language/es.md" >}}) | 333 | 333 | 100.0 | /mnt/stockage/packages/f12/evolution-mapi/po/es.po | 
- | [eu]({{< ref "/f12/language/eu.md" >}}) | 333 | 333 | 100.0 | /mnt/stockage/packages/f12/evolution-mapi/po/eu.po | 
- | [fi]({{< ref "/f12/language/fi.md" >}}) | 333 | 333 | 100.0 | /mnt/stockage/packages/f12/evolution-mapi/po/fi.po | 
- | [fr]({{< ref "/f12/language/fr.md" >}}) | 333 | 333 | 100.0 | /mnt/stockage/packages/f12/evolution-mapi/po/fr.po | 
- | [gl]({{< ref "/f12/language/gl.md" >}}) | 333 | 333 | 100.0 | /mnt/stockage/packages/f12/evolution-mapi/po/gl.po | 
- | [gu]({{< ref "/f12/language/gu.md" >}}) | 333 | 333 | 100.0 | /mnt/stockage/packages/f12/evolution-mapi/po/gu.po | 
- | [he]({{< ref "/f12/language/he.md" >}}) | 292 | 292 | 100.0 | /mnt/stockage/packages/f12/evolution-mapi/po/he.po | 
- | [hi]({{< ref "/f12/language/hi.md" >}}) | 333 | 333 | 100.0 | /mnt/stockage/packages/f12/evolution-mapi/po/hi.po | 
- | [hu]({{< ref "/f12/language/hu.md" >}}) | 333 | 333 | 100.0 | /mnt/stockage/packages/f12/evolution-mapi/po/hu.po | 
- | [it]({{< ref "/f12/language/it.md" >}}) | 333 | 333 | 100.0 | /mnt/stockage/packages/f12/evolution-mapi/po/it.po | 
- | [ja]({{< ref "/f12/language/ja.md" >}}) | 284 | 284 | 100.0 | /mnt/stockage/packages/f12/evolution-mapi/po/ja.po | 
- | [kn]({{< ref "/f12/language/kn.md" >}}) | 333 | 333 | 100.0 | /mnt/stockage/packages/f12/evolution-mapi/po/kn.po | 
- | [ko]({{< ref "/f12/language/ko.md" >}}) | 332 | 332 | 100.0 | /mnt/stockage/packages/f12/evolution-mapi/po/ko.po | 
- | [lt]({{< ref "/f12/language/lt.md" >}}) | 333 | 333 | 100.0 | /mnt/stockage/packages/f12/evolution-mapi/po/lt.po | 
- | [ml]({{< ref "/f12/language/ml.md" >}}) | 333 | 333 | 100.0 | /mnt/stockage/packages/f12/evolution-mapi/po/ml.po | 
- | [mr]({{< ref "/f12/language/mr.md" >}}) | 333 | 333 | 100.0 | /mnt/stockage/packages/f12/evolution-mapi/po/mr.po | 
- | [nb_NO]({{< ref "/f12/language/nb_NO.md" >}}) | 333 | 333 | 100.0 | /mnt/stockage/packages/f12/evolution-mapi/po/nb.po | 
- | [nl]({{< ref "/f12/language/nl.md" >}}) | 284 | 284 | 100.0 | /mnt/stockage/packages/f12/evolution-mapi/po/nl.po | 
- | [or]({{< ref "/f12/language/or.md" >}}) | 333 | 333 | 100.0 | /mnt/stockage/packages/f12/evolution-mapi/po/or.po | 
- | [pa]({{< ref "/f12/language/pa.md" >}}) | 333 | 333 | 100.0 | /mnt/stockage/packages/f12/evolution-mapi/po/pa.po | 
- | [pl]({{< ref "/f12/language/pl.md" >}}) | 333 | 333 | 100.0 | /mnt/stockage/packages/f12/evolution-mapi/po/pl.po | 
- | [pt]({{< ref "/f12/language/pt.md" >}}) | 333 | 333 | 100.0 | /mnt/stockage/packages/f12/evolution-mapi/po/pt.po | 
- | [pt_BR]({{< ref "/f12/language/pt_BR.md" >}}) | 333 | 333 | 100.0 | /mnt/stockage/packages/f12/evolution-mapi/po/pt_BR.po | 
- | [ro]({{< ref "/f12/language/ro.md" >}}) | 333 | 333 | 100.0 | /mnt/stockage/packages/f12/evolution-mapi/po/ro.po | 
- | [ru]({{< ref "/f12/language/ru.md" >}}) | 333 | 333 | 100.0 | /mnt/stockage/packages/f12/evolution-mapi/po/ru.po | 
- | [sk]({{< ref "/f12/language/sk.md" >}}) | 269 | 269 | 100.0 | /mnt/stockage/packages/f12/evolution-mapi/po/sk.po | 
- | [sl]({{< ref "/f12/language/sl.md" >}}) | 333 | 333 | 100.0 | /mnt/stockage/packages/f12/evolution-mapi/po/sl.po | 
- | [sr]({{< ref "/f12/language/sr.md" >}}) | 333 | 333 | 100.0 | /mnt/stockage/packages/f12/evolution-mapi/po/sr.po | 
- | [sr_Latn]({{< ref "/f12/language/sr_Latn.md" >}}) | 333 | 333 | 100.0 | /mnt/stockage/packages/f12/evolution-mapi/po/sr@latin.po | 
- | [sv]({{< ref "/f12/language/sv.md" >}}) | 333 | 333 | 100.0 | /mnt/stockage/packages/f12/evolution-mapi/po/sv.po | 
- | [ta]({{< ref "/f12/language/ta.md" >}}) | 333 | 333 | 100.0 | /mnt/stockage/packages/f12/evolution-mapi/po/ta.po | 
- | [te]({{< ref "/f12/language/te.md" >}}) | 333 | 333 | 100.0 | /mnt/stockage/packages/f12/evolution-mapi/po/te.po | 
- | [th]({{< ref "/f12/language/th.md" >}}) | 333 | 333 | 100.0 | /mnt/stockage/packages/f12/evolution-mapi/po/th.po | 
- | [tr]({{< ref "/f12/language/tr.md" >}}) | 284 | 284 | 100.0 | /mnt/stockage/packages/f12/evolution-mapi/po/tr.po | 
- | [uk]({{< ref "/f12/language/uk.md" >}}) | 333 | 333 | 100.0 | /mnt/stockage/packages/f12/evolution-mapi/po/uk.po | 
- | [vi]({{< ref "/f12/language/vi.md" >}}) | 286 | 286 | 100.0 | /mnt/stockage/packages/f12/evolution-mapi/po/vi.po | 
- | [zh_Hant]({{< ref "/f12/language/zh_Hant.md" >}}) | 333 | 333 | 100.0 | /mnt/stockage/packages/f12/evolution-mapi/po/zh_TW.po | 
- | [zh_Hant_HK]({{< ref "/f12/language/zh_Hant_HK.md" >}}) | 333 | 333 | 100.0 | /mnt/stockage/packages/f12/evolution-mapi/po/zh_HK.po | 
- | [zh_Hans]({{< ref "/f12/language/zh_Hans.md" >}}) | 329 | 333 | 98.8 | /mnt/stockage/packages/f12/evolution-mapi/po/zh_CN.po | 
- | [el]({{< ref "/f12/language/el.md" >}}) | 310 | 333 | 93.1 | /mnt/stockage/packages/f12/evolution-mapi/po/el.po | 
- | [ca@valencia]({{< ref "/f12/language/ca@valencia.md" >}}) | 269 | 333 | 80.8 | /mnt/stockage/packages/f12/evolution-mapi/po/ca@valencia.po | 
- | [et]({{< ref "/f12/language/et.md" >}}) | 259 | 333 | 77.8 | /mnt/stockage/packages/f12/evolution-mapi/po/et.po | 
- | [si]({{< ref "/f12/language/si.md" >}}) | 174 | 284 | 61.3 | /mnt/stockage/packages/f12/evolution-mapi/po/si.po | 
- | [mai]({{< ref "/f12/language/mai.md" >}}) | 18 | 333 | 5.4 | /mnt/stockage/packages/f12/evolution-mapi/po/mai.po | 
+ | [as](/f12/language/as) | 333 | 333 | 100.0 | /mnt/stockage/packages/f12/evolution-mapi/po/as.po | 
+ | [bg](/f12/language/bg) | 333 | 333 | 100.0 | /mnt/stockage/packages/f12/evolution-mapi/po/bg.po | 
+ | [bn_IN](/f12/language/bn_IN) | 333 | 333 | 100.0 | /mnt/stockage/packages/f12/evolution-mapi/po/bn_IN.po | 
+ | [ca](/f12/language/ca) | 333 | 333 | 100.0 | /mnt/stockage/packages/f12/evolution-mapi/po/ca.po | 
+ | [cs](/f12/language/cs) | 333 | 333 | 100.0 | /mnt/stockage/packages/f12/evolution-mapi/po/cs.po | 
+ | [da](/f12/language/da) | 333 | 333 | 100.0 | /mnt/stockage/packages/f12/evolution-mapi/po/da.po | 
+ | [de](/f12/language/de) | 333 | 333 | 100.0 | /mnt/stockage/packages/f12/evolution-mapi/po/de.po | 
+ | [en_GB](/f12/language/en_GB) | 333 | 333 | 100.0 | /mnt/stockage/packages/f12/evolution-mapi/po/en_GB.po | 
+ | [es](/f12/language/es) | 333 | 333 | 100.0 | /mnt/stockage/packages/f12/evolution-mapi/po/es.po | 
+ | [eu](/f12/language/eu) | 333 | 333 | 100.0 | /mnt/stockage/packages/f12/evolution-mapi/po/eu.po | 
+ | [fi](/f12/language/fi) | 333 | 333 | 100.0 | /mnt/stockage/packages/f12/evolution-mapi/po/fi.po | 
+ | [fr](/f12/language/fr) | 333 | 333 | 100.0 | /mnt/stockage/packages/f12/evolution-mapi/po/fr.po | 
+ | [gl](/f12/language/gl) | 333 | 333 | 100.0 | /mnt/stockage/packages/f12/evolution-mapi/po/gl.po | 
+ | [gu](/f12/language/gu) | 333 | 333 | 100.0 | /mnt/stockage/packages/f12/evolution-mapi/po/gu.po | 
+ | [he](/f12/language/he) | 292 | 292 | 100.0 | /mnt/stockage/packages/f12/evolution-mapi/po/he.po | 
+ | [hi](/f12/language/hi) | 333 | 333 | 100.0 | /mnt/stockage/packages/f12/evolution-mapi/po/hi.po | 
+ | [hu](/f12/language/hu) | 333 | 333 | 100.0 | /mnt/stockage/packages/f12/evolution-mapi/po/hu.po | 
+ | [it](/f12/language/it) | 333 | 333 | 100.0 | /mnt/stockage/packages/f12/evolution-mapi/po/it.po | 
+ | [ja](/f12/language/ja) | 284 | 284 | 100.0 | /mnt/stockage/packages/f12/evolution-mapi/po/ja.po | 
+ | [kn](/f12/language/kn) | 333 | 333 | 100.0 | /mnt/stockage/packages/f12/evolution-mapi/po/kn.po | 
+ | [ko](/f12/language/ko) | 332 | 332 | 100.0 | /mnt/stockage/packages/f12/evolution-mapi/po/ko.po | 
+ | [lt](/f12/language/lt) | 333 | 333 | 100.0 | /mnt/stockage/packages/f12/evolution-mapi/po/lt.po | 
+ | [ml](/f12/language/ml) | 333 | 333 | 100.0 | /mnt/stockage/packages/f12/evolution-mapi/po/ml.po | 
+ | [mr](/f12/language/mr) | 333 | 333 | 100.0 | /mnt/stockage/packages/f12/evolution-mapi/po/mr.po | 
+ | [nb_NO](/f12/language/nb_NO) | 333 | 333 | 100.0 | /mnt/stockage/packages/f12/evolution-mapi/po/nb.po | 
+ | [nl](/f12/language/nl) | 284 | 284 | 100.0 | /mnt/stockage/packages/f12/evolution-mapi/po/nl.po | 
+ | [or](/f12/language/or) | 333 | 333 | 100.0 | /mnt/stockage/packages/f12/evolution-mapi/po/or.po | 
+ | [pa](/f12/language/pa) | 333 | 333 | 100.0 | /mnt/stockage/packages/f12/evolution-mapi/po/pa.po | 
+ | [pl](/f12/language/pl) | 333 | 333 | 100.0 | /mnt/stockage/packages/f12/evolution-mapi/po/pl.po | 
+ | [pt](/f12/language/pt) | 333 | 333 | 100.0 | /mnt/stockage/packages/f12/evolution-mapi/po/pt.po | 
+ | [pt_BR](/f12/language/pt_BR) | 333 | 333 | 100.0 | /mnt/stockage/packages/f12/evolution-mapi/po/pt_BR.po | 
+ | [ro](/f12/language/ro) | 333 | 333 | 100.0 | /mnt/stockage/packages/f12/evolution-mapi/po/ro.po | 
+ | [ru](/f12/language/ru) | 333 | 333 | 100.0 | /mnt/stockage/packages/f12/evolution-mapi/po/ru.po | 
+ | [sk](/f12/language/sk) | 269 | 269 | 100.0 | /mnt/stockage/packages/f12/evolution-mapi/po/sk.po | 
+ | [sl](/f12/language/sl) | 333 | 333 | 100.0 | /mnt/stockage/packages/f12/evolution-mapi/po/sl.po | 
+ | [sr](/f12/language/sr) | 333 | 333 | 100.0 | /mnt/stockage/packages/f12/evolution-mapi/po/sr.po | 
+ | [sr_Latn](/f12/language/sr_Latn) | 333 | 333 | 100.0 | /mnt/stockage/packages/f12/evolution-mapi/po/sr@latin.po | 
+ | [sv](/f12/language/sv) | 333 | 333 | 100.0 | /mnt/stockage/packages/f12/evolution-mapi/po/sv.po | 
+ | [ta](/f12/language/ta) | 333 | 333 | 100.0 | /mnt/stockage/packages/f12/evolution-mapi/po/ta.po | 
+ | [te](/f12/language/te) | 333 | 333 | 100.0 | /mnt/stockage/packages/f12/evolution-mapi/po/te.po | 
+ | [th](/f12/language/th) | 333 | 333 | 100.0 | /mnt/stockage/packages/f12/evolution-mapi/po/th.po | 
+ | [tr](/f12/language/tr) | 284 | 284 | 100.0 | /mnt/stockage/packages/f12/evolution-mapi/po/tr.po | 
+ | [uk](/f12/language/uk) | 333 | 333 | 100.0 | /mnt/stockage/packages/f12/evolution-mapi/po/uk.po | 
+ | [vi](/f12/language/vi) | 286 | 286 | 100.0 | /mnt/stockage/packages/f12/evolution-mapi/po/vi.po | 
+ | [zh_Hant](/f12/language/zh_Hant) | 333 | 333 | 100.0 | /mnt/stockage/packages/f12/evolution-mapi/po/zh_TW.po | 
+ | [zh_Hant_HK](/f12/language/zh_Hant_HK) | 333 | 333 | 100.0 | /mnt/stockage/packages/f12/evolution-mapi/po/zh_HK.po | 
+ | [zh_Hans](/f12/language/zh_Hans) | 329 | 333 | 98.8 | /mnt/stockage/packages/f12/evolution-mapi/po/zh_CN.po | 
+ | [el](/f12/language/el) | 310 | 333 | 93.1 | /mnt/stockage/packages/f12/evolution-mapi/po/el.po | 
+ | [ca@valencia](/f12/language/ca@valencia) | 269 | 333 | 80.8 | /mnt/stockage/packages/f12/evolution-mapi/po/ca@valencia.po | 
+ | [et](/f12/language/et) | 259 | 333 | 77.8 | /mnt/stockage/packages/f12/evolution-mapi/po/et.po | 
+ | [si](/f12/language/si) | 174 | 284 | 61.3 | /mnt/stockage/packages/f12/evolution-mapi/po/si.po | 
+ | [mai](/f12/language/mai) | 18 | 333 | 5.4 | /mnt/stockage/packages/f12/evolution-mapi/po/mai.po | 
 {.sortable}
 
 

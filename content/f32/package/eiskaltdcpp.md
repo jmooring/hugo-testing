@@ -18,30 +18,30 @@ The package eiskaltdcpp (version 2.4.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [es]({{< ref "/f32/language/es.md" >}}) | 3626 | 3626 | 100.0 | /mnt/stockage/packages/f32/eiskaltdcpp/dcpp/po/es.po/mnt/stockage/packages/f32/eiskaltdcpp/eiskaltdcpp-gtk/po/es.po | 
- | [fr]({{< ref "/f32/language/fr.md" >}}) | 3626 | 3626 | 100.0 | /mnt/stockage/packages/f32/eiskaltdcpp/dcpp/po/fr.po/mnt/stockage/packages/f32/eiskaltdcpp/eiskaltdcpp-gtk/po/fr.po | 
- | [ru]({{< ref "/f32/language/ru.md" >}}) | 3626 | 3626 | 100.0 | /mnt/stockage/packages/f32/eiskaltdcpp/dcpp/po/ru.po/mnt/stockage/packages/f32/eiskaltdcpp/eiskaltdcpp-gtk/po/ru.po | 
- | [sv]({{< ref "/f32/language/sv.md" >}}) | 3626 | 3626 | 100.0 | /mnt/stockage/packages/f32/eiskaltdcpp/dcpp/po/sv_SE.po/mnt/stockage/packages/f32/eiskaltdcpp/eiskaltdcpp-gtk/po/sv_SE.po | 
- | [tr]({{< ref "/f32/language/tr.md" >}}) | 3593 | 3626 | 99.1 | /mnt/stockage/packages/f32/eiskaltdcpp/dcpp/po/tr.po/mnt/stockage/packages/f32/eiskaltdcpp/eiskaltdcpp-gtk/po/tr.po | 
- | [de]({{< ref "/f32/language/de.md" >}}) | 3531 | 3626 | 97.4 | /mnt/stockage/packages/f32/eiskaltdcpp/dcpp/po/de.po/mnt/stockage/packages/f32/eiskaltdcpp/eiskaltdcpp-gtk/po/de.po | 
- | [sr]({{< ref "/f32/language/sr.md" >}}) | 3531 | 3626 | 97.4 | /mnt/stockage/packages/f32/eiskaltdcpp/dcpp/po/sr.po/mnt/stockage/packages/f32/eiskaltdcpp/eiskaltdcpp-gtk/po/sr.po | 
- | [sr_Latn]({{< ref "/f32/language/sr_Latn.md" >}}) | 3531 | 3626 | 97.4 | /mnt/stockage/packages/f32/eiskaltdcpp/dcpp/po/sr@latin.po/mnt/stockage/packages/f32/eiskaltdcpp/eiskaltdcpp-gtk/po/sr@latin.po | 
- | [uk]({{< ref "/f32/language/uk.md" >}}) | 3497 | 3626 | 96.4 | /mnt/stockage/packages/f32/eiskaltdcpp/dcpp/po/uk.po/mnt/stockage/packages/f32/eiskaltdcpp/eiskaltdcpp-gtk/po/uk.po | 
- | [be]({{< ref "/f32/language/be.md" >}}) | 3474 | 3626 | 95.8 | /mnt/stockage/packages/f32/eiskaltdcpp/dcpp/po/be.po/mnt/stockage/packages/f32/eiskaltdcpp/eiskaltdcpp-gtk/po/be.po | 
- | [hu]({{< ref "/f32/language/hu.md" >}}) | 3306 | 3626 | 91.2 | /mnt/stockage/packages/f32/eiskaltdcpp/dcpp/po/hu.po/mnt/stockage/packages/f32/eiskaltdcpp/eiskaltdcpp-gtk/po/hu.po | 
- | [sk]({{< ref "/f32/language/sk.md" >}}) | 1674 | 3626 | 46.2 | /mnt/stockage/packages/f32/eiskaltdcpp/dcpp/po/sk.po/mnt/stockage/packages/f32/eiskaltdcpp/eiskaltdcpp-gtk/po/sk.po | 
- | [el]({{< ref "/f32/language/el.md" >}}) | 1490 | 3626 | 41.1 | /mnt/stockage/packages/f32/eiskaltdcpp/dcpp/po/el.po/mnt/stockage/packages/f32/eiskaltdcpp/eiskaltdcpp-gtk/po/el.po | 
- | [it]({{< ref "/f32/language/it.md" >}}) | 1157 | 3626 | 31.9 | /mnt/stockage/packages/f32/eiskaltdcpp/dcpp/po/it.po/mnt/stockage/packages/f32/eiskaltdcpp/eiskaltdcpp-gtk/po/it.po | 
- | [bg]({{< ref "/f32/language/bg.md" >}}) | 1129 | 3626 | 31.1 | /mnt/stockage/packages/f32/eiskaltdcpp/dcpp/po/bg.po/mnt/stockage/packages/f32/eiskaltdcpp/eiskaltdcpp-gtk/po/bg.po | 
- | [pt_BR]({{< ref "/f32/language/pt_BR.md" >}}) | 980 | 3626 | 27.0 | /mnt/stockage/packages/f32/eiskaltdcpp/dcpp/po/pt_BR.po/mnt/stockage/packages/f32/eiskaltdcpp/eiskaltdcpp-gtk/po/pt_BR.po | 
- | [cs]({{< ref "/f32/language/cs.md" >}}) | 935 | 3626 | 25.8 | /mnt/stockage/packages/f32/eiskaltdcpp/dcpp/po/cs.po/mnt/stockage/packages/f32/eiskaltdcpp/eiskaltdcpp-gtk/po/cs.po | 
- | [pl]({{< ref "/f32/language/pl.md" >}}) | 796 | 3626 | 22.0 | /mnt/stockage/packages/f32/eiskaltdcpp/dcpp/po/pl.po/mnt/stockage/packages/f32/eiskaltdcpp/eiskaltdcpp-gtk/po/pl.po | 
- | [eu]({{< ref "/f32/language/eu.md" >}}) | 399 | 3626 | 11.0 | /mnt/stockage/packages/f32/eiskaltdcpp/dcpp/po/eu.po/mnt/stockage/packages/f32/eiskaltdcpp/eiskaltdcpp-gtk/po/eu.po | 
- | [zh_Hans]({{< ref "/f32/language/zh_Hans.md" >}}) | 201 | 3626 | 5.5 | /mnt/stockage/packages/f32/eiskaltdcpp/dcpp/po/zh_CN.po/mnt/stockage/packages/f32/eiskaltdcpp/eiskaltdcpp-gtk/po/zh_CN.po | 
- | [vi]({{< ref "/f32/language/vi.md" >}}) | 113 | 3626 | 3.1 | /mnt/stockage/packages/f32/eiskaltdcpp/dcpp/po/vi.po/mnt/stockage/packages/f32/eiskaltdcpp/eiskaltdcpp-gtk/po/vi.po | 
- | [da]({{< ref "/f32/language/da.md" >}}) | 52 | 3626 | 1.4 | /mnt/stockage/packages/f32/eiskaltdcpp/dcpp/po/da.po/mnt/stockage/packages/f32/eiskaltdcpp/eiskaltdcpp-gtk/po/da.po | 
- | [en]({{< ref "/f32/language/en.md" >}}) | 0 | 3626 | 0.0 | /mnt/stockage/packages/f32/eiskaltdcpp/dcpp/po/en.po/mnt/stockage/packages/f32/eiskaltdcpp/eiskaltdcpp-gtk/po/en.po | 
- | [ie]({{< ref "/f32/language/ie.md" >}}) | 0 | 889 | 0.0 | /mnt/stockage/packages/f32/eiskaltdcpp/dcpp/po/ie.po | 
+ | [es](/f32/language/es) | 3626 | 3626 | 100.0 | /mnt/stockage/packages/f32/eiskaltdcpp/dcpp/po/es.po/mnt/stockage/packages/f32/eiskaltdcpp/eiskaltdcpp-gtk/po/es.po | 
+ | [fr](/f32/language/fr) | 3626 | 3626 | 100.0 | /mnt/stockage/packages/f32/eiskaltdcpp/dcpp/po/fr.po/mnt/stockage/packages/f32/eiskaltdcpp/eiskaltdcpp-gtk/po/fr.po | 
+ | [ru](/f32/language/ru) | 3626 | 3626 | 100.0 | /mnt/stockage/packages/f32/eiskaltdcpp/dcpp/po/ru.po/mnt/stockage/packages/f32/eiskaltdcpp/eiskaltdcpp-gtk/po/ru.po | 
+ | [sv](/f32/language/sv) | 3626 | 3626 | 100.0 | /mnt/stockage/packages/f32/eiskaltdcpp/dcpp/po/sv_SE.po/mnt/stockage/packages/f32/eiskaltdcpp/eiskaltdcpp-gtk/po/sv_SE.po | 
+ | [tr](/f32/language/tr) | 3593 | 3626 | 99.1 | /mnt/stockage/packages/f32/eiskaltdcpp/dcpp/po/tr.po/mnt/stockage/packages/f32/eiskaltdcpp/eiskaltdcpp-gtk/po/tr.po | 
+ | [de](/f32/language/de) | 3531 | 3626 | 97.4 | /mnt/stockage/packages/f32/eiskaltdcpp/dcpp/po/de.po/mnt/stockage/packages/f32/eiskaltdcpp/eiskaltdcpp-gtk/po/de.po | 
+ | [sr](/f32/language/sr) | 3531 | 3626 | 97.4 | /mnt/stockage/packages/f32/eiskaltdcpp/dcpp/po/sr.po/mnt/stockage/packages/f32/eiskaltdcpp/eiskaltdcpp-gtk/po/sr.po | 
+ | [sr_Latn](/f32/language/sr_Latn) | 3531 | 3626 | 97.4 | /mnt/stockage/packages/f32/eiskaltdcpp/dcpp/po/sr@latin.po/mnt/stockage/packages/f32/eiskaltdcpp/eiskaltdcpp-gtk/po/sr@latin.po | 
+ | [uk](/f32/language/uk) | 3497 | 3626 | 96.4 | /mnt/stockage/packages/f32/eiskaltdcpp/dcpp/po/uk.po/mnt/stockage/packages/f32/eiskaltdcpp/eiskaltdcpp-gtk/po/uk.po | 
+ | [be](/f32/language/be) | 3474 | 3626 | 95.8 | /mnt/stockage/packages/f32/eiskaltdcpp/dcpp/po/be.po/mnt/stockage/packages/f32/eiskaltdcpp/eiskaltdcpp-gtk/po/be.po | 
+ | [hu](/f32/language/hu) | 3306 | 3626 | 91.2 | /mnt/stockage/packages/f32/eiskaltdcpp/dcpp/po/hu.po/mnt/stockage/packages/f32/eiskaltdcpp/eiskaltdcpp-gtk/po/hu.po | 
+ | [sk](/f32/language/sk) | 1674 | 3626 | 46.2 | /mnt/stockage/packages/f32/eiskaltdcpp/dcpp/po/sk.po/mnt/stockage/packages/f32/eiskaltdcpp/eiskaltdcpp-gtk/po/sk.po | 
+ | [el](/f32/language/el) | 1490 | 3626 | 41.1 | /mnt/stockage/packages/f32/eiskaltdcpp/dcpp/po/el.po/mnt/stockage/packages/f32/eiskaltdcpp/eiskaltdcpp-gtk/po/el.po | 
+ | [it](/f32/language/it) | 1157 | 3626 | 31.9 | /mnt/stockage/packages/f32/eiskaltdcpp/dcpp/po/it.po/mnt/stockage/packages/f32/eiskaltdcpp/eiskaltdcpp-gtk/po/it.po | 
+ | [bg](/f32/language/bg) | 1129 | 3626 | 31.1 | /mnt/stockage/packages/f32/eiskaltdcpp/dcpp/po/bg.po/mnt/stockage/packages/f32/eiskaltdcpp/eiskaltdcpp-gtk/po/bg.po | 
+ | [pt_BR](/f32/language/pt_BR) | 980 | 3626 | 27.0 | /mnt/stockage/packages/f32/eiskaltdcpp/dcpp/po/pt_BR.po/mnt/stockage/packages/f32/eiskaltdcpp/eiskaltdcpp-gtk/po/pt_BR.po | 
+ | [cs](/f32/language/cs) | 935 | 3626 | 25.8 | /mnt/stockage/packages/f32/eiskaltdcpp/dcpp/po/cs.po/mnt/stockage/packages/f32/eiskaltdcpp/eiskaltdcpp-gtk/po/cs.po | 
+ | [pl](/f32/language/pl) | 796 | 3626 | 22.0 | /mnt/stockage/packages/f32/eiskaltdcpp/dcpp/po/pl.po/mnt/stockage/packages/f32/eiskaltdcpp/eiskaltdcpp-gtk/po/pl.po | 
+ | [eu](/f32/language/eu) | 399 | 3626 | 11.0 | /mnt/stockage/packages/f32/eiskaltdcpp/dcpp/po/eu.po/mnt/stockage/packages/f32/eiskaltdcpp/eiskaltdcpp-gtk/po/eu.po | 
+ | [zh_Hans](/f32/language/zh_Hans) | 201 | 3626 | 5.5 | /mnt/stockage/packages/f32/eiskaltdcpp/dcpp/po/zh_CN.po/mnt/stockage/packages/f32/eiskaltdcpp/eiskaltdcpp-gtk/po/zh_CN.po | 
+ | [vi](/f32/language/vi) | 113 | 3626 | 3.1 | /mnt/stockage/packages/f32/eiskaltdcpp/dcpp/po/vi.po/mnt/stockage/packages/f32/eiskaltdcpp/eiskaltdcpp-gtk/po/vi.po | 
+ | [da](/f32/language/da) | 52 | 3626 | 1.4 | /mnt/stockage/packages/f32/eiskaltdcpp/dcpp/po/da.po/mnt/stockage/packages/f32/eiskaltdcpp/eiskaltdcpp-gtk/po/da.po | 
+ | [en](/f32/language/en) | 0 | 3626 | 0.0 | /mnt/stockage/packages/f32/eiskaltdcpp/dcpp/po/en.po/mnt/stockage/packages/f32/eiskaltdcpp/eiskaltdcpp-gtk/po/en.po | 
+ | [ie](/f32/language/ie) | 0 | 889 | 0.0 | /mnt/stockage/packages/f32/eiskaltdcpp/dcpp/po/ie.po | 
 {.sortable}
 
 

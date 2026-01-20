@@ -38,29 +38,29 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [sugar-distance]({{< ref "/f37/package/sugar-distance.md" >}}) | 70 | 99 | 70.7 | LANGUAGE <LL@li.org> | 
- | [sugar-toolkit-gtk3]({{< ref "/f37/package/sugar-toolkit-gtk3.md" >}}) | 120 | 213 | 56.3 | LANGUAGE <LL@li.org> | 
- | [sugar-abacus]({{< ref "/f37/package/sugar-abacus.md" >}}) | 11 | 28 | 39.3 | LANGUAGE <LL@li.org> | 
- | [sugar-pippy]({{< ref "/f37/package/sugar-pippy.md" >}}) | 48 | 274 | 17.5 | LANGUAGE <LL@li.org> | 
- | [sugar]({{< ref "/f37/package/sugar.md" >}}) | 71 | 2305 | 3.1 | LANGUAGE <LL@li.org> | 
- | [sugar-fototoon]({{< ref "/f37/package/sugar-fototoon.md" >}}) | 1 | 139 | 0.7 | LANGUAGE <LL@li.org> | 
- | [sugar-memorize]({{< ref "/f37/package/sugar-memorize.md" >}}) | 1 | 142 | 0.7 | LANGUAGE <LL@li.org> | 
- | [sugar-finance]({{< ref "/f37/package/sugar-finance.md" >}}) | 1 | 258 | 0.4 | LANGUAGE <LL@li.org> | 
- | [sugar-browse]({{< ref "/f37/package/sugar-browse.md" >}}) | 1 | 334 | 0.3 | LANGUAGE <LL@li.org> | 
- | [bookworm]({{< ref "/f37/package/bookworm.md" >}}) | 0 | 795 | 0.0 |  | 
- | [coin]({{< ref "/f37/package/coin.md" >}}) | 0 | 252 | 0.0 | none | 
- | [dippi]({{< ref "/f37/package/dippi.md" >}}) | 0 | 1183 | 0.0 | none | 
- | [granite]({{< ref "/f37/package/granite.md" >}}) | 0 | 498 | 0.0 |  | 
- | [harvey]({{< ref "/f37/package/harvey.md" >}}) | 0 | 182 | 0.0 | none | 
- | [nutty]({{< ref "/f37/package/nutty.md" >}}) | 0 | 608 | 0.0 |  | 
- | [optimizer]({{< ref "/f37/package/optimizer.md" >}}) | 0 | 282 | 0.0 | none | 
- | [regextester]({{< ref "/f37/package/regextester.md" >}}) | 0 | 104 | 0.0 | none | 
- | [sugar-clock]({{< ref "/f37/package/sugar-clock.md" >}}) | 0 | 66 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-dimensions]({{< ref "/f37/package/sugar-dimensions.md" >}}) | 0 | 161 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-implode]({{< ref "/f37/package/sugar-implode.md" >}}) | 0 | 77 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-physics]({{< ref "/f37/package/sugar-physics.md" >}}) | 0 | 48 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-typing-turtle]({{< ref "/f37/package/sugar-typing-turtle.md" >}}) | 0 | 599 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-view-slides]({{< ref "/f37/package/sugar-view-slides.md" >}}) | 0 | 60 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-distance](/f37/package/sugar-distance) | 70 | 99 | 70.7 | LANGUAGE <LL@li.org> | 
+ | [sugar-toolkit-gtk3](/f37/package/sugar-toolkit-gtk3) | 120 | 213 | 56.3 | LANGUAGE <LL@li.org> | 
+ | [sugar-abacus](/f37/package/sugar-abacus) | 11 | 28 | 39.3 | LANGUAGE <LL@li.org> | 
+ | [sugar-pippy](/f37/package/sugar-pippy) | 48 | 274 | 17.5 | LANGUAGE <LL@li.org> | 
+ | [sugar](/f37/package/sugar) | 71 | 2305 | 3.1 | LANGUAGE <LL@li.org> | 
+ | [sugar-fototoon](/f37/package/sugar-fototoon) | 1 | 139 | 0.7 | LANGUAGE <LL@li.org> | 
+ | [sugar-memorize](/f37/package/sugar-memorize) | 1 | 142 | 0.7 | LANGUAGE <LL@li.org> | 
+ | [sugar-finance](/f37/package/sugar-finance) | 1 | 258 | 0.4 | LANGUAGE <LL@li.org> | 
+ | [sugar-browse](/f37/package/sugar-browse) | 1 | 334 | 0.3 | LANGUAGE <LL@li.org> | 
+ | [bookworm](/f37/package/bookworm) | 0 | 795 | 0.0 |  | 
+ | [coin](/f37/package/coin) | 0 | 252 | 0.0 | none | 
+ | [dippi](/f37/package/dippi) | 0 | 1183 | 0.0 | none | 
+ | [granite](/f37/package/granite) | 0 | 498 | 0.0 |  | 
+ | [harvey](/f37/package/harvey) | 0 | 182 | 0.0 | none | 
+ | [nutty](/f37/package/nutty) | 0 | 608 | 0.0 |  | 
+ | [optimizer](/f37/package/optimizer) | 0 | 282 | 0.0 | none | 
+ | [regextester](/f37/package/regextester) | 0 | 104 | 0.0 | none | 
+ | [sugar-clock](/f37/package/sugar-clock) | 0 | 66 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-dimensions](/f37/package/sugar-dimensions) | 0 | 161 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-implode](/f37/package/sugar-implode) | 0 | 77 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-physics](/f37/package/sugar-physics) | 0 | 48 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-typing-turtle](/f37/package/sugar-typing-turtle) | 0 | 599 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-view-slides](/f37/package/sugar-view-slides) | 0 | 60 | 0.0 | LANGUAGE <LL@li.org> | 
 {.sortable}
 
 

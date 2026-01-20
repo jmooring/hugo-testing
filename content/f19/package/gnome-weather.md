@@ -18,24 +18,24 @@ The package gnome-weather (version 3.8.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f19/language/cs.md" >}}) | 85 | 85 | 100.0 | /mnt/stockage/packages/f19/gnome-weather/po/cs.po | 
- | [de]({{< ref "/f19/language/de.md" >}}) | 136 | 136 | 100.0 | /mnt/stockage/packages/f19/gnome-weather/po/de.po | 
- | [el]({{< ref "/f19/language/el.md" >}}) | 156 | 156 | 100.0 | /mnt/stockage/packages/f19/gnome-weather/po/el.po | 
- | [es]({{< ref "/f19/language/es.md" >}}) | 156 | 156 | 100.0 | /mnt/stockage/packages/f19/gnome-weather/po/es.po | 
- | [fr]({{< ref "/f19/language/fr.md" >}}) | 156 | 156 | 100.0 | /mnt/stockage/packages/f19/gnome-weather/po/fr.po | 
- | [gl]({{< ref "/f19/language/gl.md" >}}) | 85 | 85 | 100.0 | /mnt/stockage/packages/f19/gnome-weather/po/gl.po | 
- | [he]({{< ref "/f19/language/he.md" >}}) | 85 | 85 | 100.0 | /mnt/stockage/packages/f19/gnome-weather/po/he.po | 
- | [hu]({{< ref "/f19/language/hu.md" >}}) | 223 | 223 | 100.0 | /mnt/stockage/packages/f19/gnome-weather/po/hu.po | 
- | [it]({{< ref "/f19/language/it.md" >}}) | 223 | 223 | 100.0 | /mnt/stockage/packages/f19/gnome-weather/po/it.po | 
- | [ja]({{< ref "/f19/language/ja.md" >}}) | 156 | 156 | 100.0 | /mnt/stockage/packages/f19/gnome-weather/po/ja.po | 
- | [pa]({{< ref "/f19/language/pa.md" >}}) | 85 | 85 | 100.0 | /mnt/stockage/packages/f19/gnome-weather/po/pa.po | 
- | [pl]({{< ref "/f19/language/pl.md" >}}) | 156 | 156 | 100.0 | /mnt/stockage/packages/f19/gnome-weather/po/pl.po | 
- | [pt_BR]({{< ref "/f19/language/pt_BR.md" >}}) | 156 | 156 | 100.0 | /mnt/stockage/packages/f19/gnome-weather/po/pt_BR.po | 
- | [ru]({{< ref "/f19/language/ru.md" >}}) | 85 | 85 | 100.0 | /mnt/stockage/packages/f19/gnome-weather/po/ru.po | 
- | [sk]({{< ref "/f19/language/sk.md" >}}) | 156 | 156 | 100.0 | /mnt/stockage/packages/f19/gnome-weather/po/sk.po | 
- | [sl]({{< ref "/f19/language/sl.md" >}}) | 156 | 156 | 100.0 | /mnt/stockage/packages/f19/gnome-weather/po/sl.po | 
- | [sr]({{< ref "/f19/language/sr.md" >}}) | 312 | 312 | 100.0 | /mnt/stockage/packages/f19/gnome-weather/po/sr@latin.po/mnt/stockage/packages/f19/gnome-weather/po/sr.po | 
- | [fi]({{< ref "/f19/language/fi.md" >}}) | 128 | 156 | 82.1 | /mnt/stockage/packages/f19/gnome-weather/po/fi.po | 
+ | [cs](/f19/language/cs) | 85 | 85 | 100.0 | /mnt/stockage/packages/f19/gnome-weather/po/cs.po | 
+ | [de](/f19/language/de) | 136 | 136 | 100.0 | /mnt/stockage/packages/f19/gnome-weather/po/de.po | 
+ | [el](/f19/language/el) | 156 | 156 | 100.0 | /mnt/stockage/packages/f19/gnome-weather/po/el.po | 
+ | [es](/f19/language/es) | 156 | 156 | 100.0 | /mnt/stockage/packages/f19/gnome-weather/po/es.po | 
+ | [fr](/f19/language/fr) | 156 | 156 | 100.0 | /mnt/stockage/packages/f19/gnome-weather/po/fr.po | 
+ | [gl](/f19/language/gl) | 85 | 85 | 100.0 | /mnt/stockage/packages/f19/gnome-weather/po/gl.po | 
+ | [he](/f19/language/he) | 85 | 85 | 100.0 | /mnt/stockage/packages/f19/gnome-weather/po/he.po | 
+ | [hu](/f19/language/hu) | 223 | 223 | 100.0 | /mnt/stockage/packages/f19/gnome-weather/po/hu.po | 
+ | [it](/f19/language/it) | 223 | 223 | 100.0 | /mnt/stockage/packages/f19/gnome-weather/po/it.po | 
+ | [ja](/f19/language/ja) | 156 | 156 | 100.0 | /mnt/stockage/packages/f19/gnome-weather/po/ja.po | 
+ | [pa](/f19/language/pa) | 85 | 85 | 100.0 | /mnt/stockage/packages/f19/gnome-weather/po/pa.po | 
+ | [pl](/f19/language/pl) | 156 | 156 | 100.0 | /mnt/stockage/packages/f19/gnome-weather/po/pl.po | 
+ | [pt_BR](/f19/language/pt_BR) | 156 | 156 | 100.0 | /mnt/stockage/packages/f19/gnome-weather/po/pt_BR.po | 
+ | [ru](/f19/language/ru) | 85 | 85 | 100.0 | /mnt/stockage/packages/f19/gnome-weather/po/ru.po | 
+ | [sk](/f19/language/sk) | 156 | 156 | 100.0 | /mnt/stockage/packages/f19/gnome-weather/po/sk.po | 
+ | [sl](/f19/language/sl) | 156 | 156 | 100.0 | /mnt/stockage/packages/f19/gnome-weather/po/sl.po | 
+ | [sr](/f19/language/sr) | 312 | 312 | 100.0 | /mnt/stockage/packages/f19/gnome-weather/po/sr@latin.po/mnt/stockage/packages/f19/gnome-weather/po/sr.po | 
+ | [fi](/f19/language/fi) | 128 | 156 | 82.1 | /mnt/stockage/packages/f19/gnome-weather/po/fi.po | 
 {.sortable}
 
 

@@ -18,24 +18,24 @@ The package freedink-dfarc (version 3.14):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f36/language/ca.md" >}}) | 773 | 773 | 100.0 | /mnt/stockage/packages/f36/freedink-dfarc/po/ca.po | 
- | [da]({{< ref "/f36/language/da.md" >}}) | 773 | 773 | 100.0 | /mnt/stockage/packages/f36/freedink-dfarc/po/da.po | 
- | [de]({{< ref "/f36/language/de.md" >}}) | 773 | 773 | 100.0 | /mnt/stockage/packages/f36/freedink-dfarc/po/de.po | 
- | [eo]({{< ref "/f36/language/eo.md" >}}) | 773 | 773 | 100.0 | /mnt/stockage/packages/f36/freedink-dfarc/po/eo.po | 
- | [es]({{< ref "/f36/language/es.md" >}}) | 773 | 773 | 100.0 | /mnt/stockage/packages/f36/freedink-dfarc/po/es.po | 
- | [fi]({{< ref "/f36/language/fi.md" >}}) | 778 | 778 | 100.0 | /mnt/stockage/packages/f36/freedink-dfarc/po/fi.po | 
- | [fr]({{< ref "/f36/language/fr.md" >}}) | 773 | 773 | 100.0 | /mnt/stockage/packages/f36/freedink-dfarc/po/fr.po | 
- | [fur]({{< ref "/f36/language/fur.md" >}}) | 773 | 773 | 100.0 | /mnt/stockage/packages/f36/freedink-dfarc/po/fur.po | 
- | [hr]({{< ref "/f36/language/hr.md" >}}) | 778 | 778 | 100.0 | /mnt/stockage/packages/f36/freedink-dfarc/po/hr.po | 
- | [hu]({{< ref "/f36/language/hu.md" >}}) | 773 | 773 | 100.0 | /mnt/stockage/packages/f36/freedink-dfarc/po/hu.po | 
- | [it]({{< ref "/f36/language/it.md" >}}) | 778 | 778 | 100.0 | /mnt/stockage/packages/f36/freedink-dfarc/po/it.po | 
- | [nl]({{< ref "/f36/language/nl.md" >}}) | 773 | 773 | 100.0 | /mnt/stockage/packages/f36/freedink-dfarc/po/nl.po | 
- | [pl]({{< ref "/f36/language/pl.md" >}}) | 773 | 773 | 100.0 | /mnt/stockage/packages/f36/freedink-dfarc/po/pl.po | 
- | [pt_BR]({{< ref "/f36/language/pt_BR.md" >}}) | 773 | 773 | 100.0 | /mnt/stockage/packages/f36/freedink-dfarc/po/pt_BR.po | 
- | [sr]({{< ref "/f36/language/sr.md" >}}) | 773 | 773 | 100.0 | /mnt/stockage/packages/f36/freedink-dfarc/po/sr.po | 
- | [tr]({{< ref "/f36/language/tr.md" >}}) | 778 | 778 | 100.0 | /mnt/stockage/packages/f36/freedink-dfarc/po/tr.po | 
- | [vi]({{< ref "/f36/language/vi.md" >}}) | 773 | 773 | 100.0 | /mnt/stockage/packages/f36/freedink-dfarc/po/vi.po | 
- | [mk]({{< ref "/f36/language/mk.md" >}}) | 656 | 738 | 88.9 | /mnt/stockage/packages/f36/freedink-dfarc/po/mk.po | 
+ | [ca](/f36/language/ca) | 773 | 773 | 100.0 | /mnt/stockage/packages/f36/freedink-dfarc/po/ca.po | 
+ | [da](/f36/language/da) | 773 | 773 | 100.0 | /mnt/stockage/packages/f36/freedink-dfarc/po/da.po | 
+ | [de](/f36/language/de) | 773 | 773 | 100.0 | /mnt/stockage/packages/f36/freedink-dfarc/po/de.po | 
+ | [eo](/f36/language/eo) | 773 | 773 | 100.0 | /mnt/stockage/packages/f36/freedink-dfarc/po/eo.po | 
+ | [es](/f36/language/es) | 773 | 773 | 100.0 | /mnt/stockage/packages/f36/freedink-dfarc/po/es.po | 
+ | [fi](/f36/language/fi) | 778 | 778 | 100.0 | /mnt/stockage/packages/f36/freedink-dfarc/po/fi.po | 
+ | [fr](/f36/language/fr) | 773 | 773 | 100.0 | /mnt/stockage/packages/f36/freedink-dfarc/po/fr.po | 
+ | [fur](/f36/language/fur) | 773 | 773 | 100.0 | /mnt/stockage/packages/f36/freedink-dfarc/po/fur.po | 
+ | [hr](/f36/language/hr) | 778 | 778 | 100.0 | /mnt/stockage/packages/f36/freedink-dfarc/po/hr.po | 
+ | [hu](/f36/language/hu) | 773 | 773 | 100.0 | /mnt/stockage/packages/f36/freedink-dfarc/po/hu.po | 
+ | [it](/f36/language/it) | 778 | 778 | 100.0 | /mnt/stockage/packages/f36/freedink-dfarc/po/it.po | 
+ | [nl](/f36/language/nl) | 773 | 773 | 100.0 | /mnt/stockage/packages/f36/freedink-dfarc/po/nl.po | 
+ | [pl](/f36/language/pl) | 773 | 773 | 100.0 | /mnt/stockage/packages/f36/freedink-dfarc/po/pl.po | 
+ | [pt_BR](/f36/language/pt_BR) | 773 | 773 | 100.0 | /mnt/stockage/packages/f36/freedink-dfarc/po/pt_BR.po | 
+ | [sr](/f36/language/sr) | 773 | 773 | 100.0 | /mnt/stockage/packages/f36/freedink-dfarc/po/sr.po | 
+ | [tr](/f36/language/tr) | 778 | 778 | 100.0 | /mnt/stockage/packages/f36/freedink-dfarc/po/tr.po | 
+ | [vi](/f36/language/vi) | 773 | 773 | 100.0 | /mnt/stockage/packages/f36/freedink-dfarc/po/vi.po | 
+ | [mk](/f36/language/mk) | 656 | 738 | 88.9 | /mnt/stockage/packages/f36/freedink-dfarc/po/mk.po | 
 {.sortable}
 
 

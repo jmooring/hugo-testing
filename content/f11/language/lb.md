@@ -38,8 +38,8 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [geany]({{< ref "/f11/package/geany.md" >}}) | 5050 | 5203 | 97.1 | Letzebuergesch | 
- | [Miro]({{< ref "/f11/package/Miro.md" >}}) | 200 | 2774 | 7.2 | Luxembourgish <lb@li.org> | 
+ | [geany](/f11/package/geany) | 5050 | 5203 | 97.1 | Letzebuergesch | 
+ | [Miro](/f11/package/Miro) | 200 | 2774 | 7.2 | Luxembourgish <lb@li.org> | 
 {.sortable}
 
 

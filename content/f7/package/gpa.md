@@ -18,16 +18,16 @@ The package gpa (version 0.7.5):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f7/language/de.md" >}}) | 1710 | 1710 | 100.0 | /mnt/stockage/packages/f7/gpa/po/de.po | 
- | [sv]({{< ref "/f7/language/sv.md" >}}) | 1697 | 1710 | 99.2 | /mnt/stockage/packages/f7/gpa/po/sv.po | 
- | [pl]({{< ref "/f7/language/pl.md" >}}) | 1658 | 1710 | 97.0 | /mnt/stockage/packages/f7/gpa/po/pl.po | 
- | [es]({{< ref "/f7/language/es.md" >}}) | 1612 | 1710 | 94.3 | /mnt/stockage/packages/f7/gpa/po/es.po | 
- | [ja]({{< ref "/f7/language/ja.md" >}}) | 1612 | 1710 | 94.3 | /mnt/stockage/packages/f7/gpa/po/ja.po | 
- | [error]({{< ref "/f7/language/error.md" >}}) | 1611 | 1710 | 94.2 | /mnt/stockage/packages/f7/gpa/po/zh_TW.Big5.po | 
- | [tr]({{< ref "/f7/language/tr.md" >}}) | 1611 | 1710 | 94.2 | /mnt/stockage/packages/f7/gpa/po/tr.po | 
- | [nl]({{< ref "/f7/language/nl.md" >}}) | 1593 | 1710 | 93.2 | /mnt/stockage/packages/f7/gpa/po/nl.po | 
- | [pt_BR]({{< ref "/f7/language/pt_BR.md" >}}) | 1373 | 1710 | 80.3 | /mnt/stockage/packages/f7/gpa/po/pt_BR.po | 
- | [fr]({{< ref "/f7/language/fr.md" >}}) | 1004 | 1710 | 58.7 | /mnt/stockage/packages/f7/gpa/po/fr.po | 
+ | [de](/f7/language/de) | 1710 | 1710 | 100.0 | /mnt/stockage/packages/f7/gpa/po/de.po | 
+ | [sv](/f7/language/sv) | 1697 | 1710 | 99.2 | /mnt/stockage/packages/f7/gpa/po/sv.po | 
+ | [pl](/f7/language/pl) | 1658 | 1710 | 97.0 | /mnt/stockage/packages/f7/gpa/po/pl.po | 
+ | [es](/f7/language/es) | 1612 | 1710 | 94.3 | /mnt/stockage/packages/f7/gpa/po/es.po | 
+ | [ja](/f7/language/ja) | 1612 | 1710 | 94.3 | /mnt/stockage/packages/f7/gpa/po/ja.po | 
+ | [error](/f7/language/error) | 1611 | 1710 | 94.2 | /mnt/stockage/packages/f7/gpa/po/zh_TW.Big5.po | 
+ | [tr](/f7/language/tr) | 1611 | 1710 | 94.2 | /mnt/stockage/packages/f7/gpa/po/tr.po | 
+ | [nl](/f7/language/nl) | 1593 | 1710 | 93.2 | /mnt/stockage/packages/f7/gpa/po/nl.po | 
+ | [pt_BR](/f7/language/pt_BR) | 1373 | 1710 | 80.3 | /mnt/stockage/packages/f7/gpa/po/pt_BR.po | 
+ | [fr](/f7/language/fr) | 1004 | 1710 | 58.7 | /mnt/stockage/packages/f7/gpa/po/fr.po | 
 {.sortable}
 
 

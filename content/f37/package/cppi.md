@@ -18,19 +18,19 @@ The package cppi (version 1.18):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f37/language/de.md" >}}) | 596 | 596 | 100.0 | /mnt/stockage/packages/f37/cppi/po/de.po | 
- | [eo]({{< ref "/f37/language/eo.md" >}}) | 596 | 596 | 100.0 | /mnt/stockage/packages/f37/cppi/po/eo.po | 
- | [fi]({{< ref "/f37/language/fi.md" >}}) | 596 | 596 | 100.0 | /mnt/stockage/packages/f37/cppi/po/fi.po | 
- | [fr]({{< ref "/f37/language/fr.md" >}}) | 596 | 596 | 100.0 | /mnt/stockage/packages/f37/cppi/po/fr.po | 
- | [hr]({{< ref "/f37/language/hr.md" >}}) | 596 | 596 | 100.0 | /mnt/stockage/packages/f37/cppi/po/hr.po | 
- | [ja]({{< ref "/f37/language/ja.md" >}}) | 596 | 596 | 100.0 | /mnt/stockage/packages/f37/cppi/po/ja.po | 
- | [sr]({{< ref "/f37/language/sr.md" >}}) | 596 | 596 | 100.0 | /mnt/stockage/packages/f37/cppi/po/sr.po | 
- | [sv]({{< ref "/f37/language/sv.md" >}}) | 596 | 596 | 100.0 | /mnt/stockage/packages/f37/cppi/po/sv.po | 
- | [vi]({{< ref "/f37/language/vi.md" >}}) | 596 | 596 | 100.0 | /mnt/stockage/packages/f37/cppi/po/vi.po | 
- | [it]({{< ref "/f37/language/it.md" >}}) | 581 | 596 | 97.5 | /mnt/stockage/packages/f37/cppi/po/it.po | 
- | [pl]({{< ref "/f37/language/pl.md" >}}) | 581 | 596 | 97.5 | /mnt/stockage/packages/f37/cppi/po/pl.po | 
- | [uk]({{< ref "/f37/language/uk.md" >}}) | 581 | 596 | 97.5 | /mnt/stockage/packages/f37/cppi/po/uk.po | 
- | [gl]({{< ref "/f37/language/gl.md" >}}) | 280 | 596 | 47.0 | /mnt/stockage/packages/f37/cppi/po/gl.po | 
+ | [de](/f37/language/de) | 596 | 596 | 100.0 | /mnt/stockage/packages/f37/cppi/po/de.po | 
+ | [eo](/f37/language/eo) | 596 | 596 | 100.0 | /mnt/stockage/packages/f37/cppi/po/eo.po | 
+ | [fi](/f37/language/fi) | 596 | 596 | 100.0 | /mnt/stockage/packages/f37/cppi/po/fi.po | 
+ | [fr](/f37/language/fr) | 596 | 596 | 100.0 | /mnt/stockage/packages/f37/cppi/po/fr.po | 
+ | [hr](/f37/language/hr) | 596 | 596 | 100.0 | /mnt/stockage/packages/f37/cppi/po/hr.po | 
+ | [ja](/f37/language/ja) | 596 | 596 | 100.0 | /mnt/stockage/packages/f37/cppi/po/ja.po | 
+ | [sr](/f37/language/sr) | 596 | 596 | 100.0 | /mnt/stockage/packages/f37/cppi/po/sr.po | 
+ | [sv](/f37/language/sv) | 596 | 596 | 100.0 | /mnt/stockage/packages/f37/cppi/po/sv.po | 
+ | [vi](/f37/language/vi) | 596 | 596 | 100.0 | /mnt/stockage/packages/f37/cppi/po/vi.po | 
+ | [it](/f37/language/it) | 581 | 596 | 97.5 | /mnt/stockage/packages/f37/cppi/po/it.po | 
+ | [pl](/f37/language/pl) | 581 | 596 | 97.5 | /mnt/stockage/packages/f37/cppi/po/pl.po | 
+ | [uk](/f37/language/uk) | 581 | 596 | 97.5 | /mnt/stockage/packages/f37/cppi/po/uk.po | 
+ | [gl](/f37/language/gl) | 280 | 596 | 47.0 | /mnt/stockage/packages/f37/cppi/po/gl.po | 
 {.sortable}
 
 

@@ -18,41 +18,41 @@ The package gnome-multi-writer (version 3.35.90):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [bs]({{< ref "/f32/language/bs.md" >}}) | 387 | 387 | 100.0 | /mnt/stockage/packages/f32/gnome-multi-writer/po/bs.po | 
- | [cs]({{< ref "/f32/language/cs.md" >}}) | 390 | 390 | 100.0 | /mnt/stockage/packages/f32/gnome-multi-writer/po/cs.po | 
- | [da]({{< ref "/f32/language/da.md" >}}) | 382 | 382 | 100.0 | /mnt/stockage/packages/f32/gnome-multi-writer/po/da.po | 
- | [de]({{< ref "/f32/language/de.md" >}}) | 390 | 390 | 100.0 | /mnt/stockage/packages/f32/gnome-multi-writer/po/de.po | 
- | [el]({{< ref "/f32/language/el.md" >}}) | 387 | 387 | 100.0 | /mnt/stockage/packages/f32/gnome-multi-writer/po/el.po | 
- | [en_GB]({{< ref "/f32/language/en_GB.md" >}}) | 344 | 344 | 100.0 | /mnt/stockage/packages/f32/gnome-multi-writer/po/en_GB.po | 
- | [es]({{< ref "/f32/language/es.md" >}}) | 386 | 386 | 100.0 | /mnt/stockage/packages/f32/gnome-multi-writer/po/es.po | 
- | [eu]({{< ref "/f32/language/eu.md" >}}) | 382 | 382 | 100.0 | /mnt/stockage/packages/f32/gnome-multi-writer/po/eu.po | 
- | [fa]({{< ref "/f32/language/fa.md" >}}) | 386 | 386 | 100.0 | /mnt/stockage/packages/f32/gnome-multi-writer/po/fa.po | 
- | [fr]({{< ref "/f32/language/fr.md" >}}) | 390 | 390 | 100.0 | /mnt/stockage/packages/f32/gnome-multi-writer/po/fr.po | 
- | [fur]({{< ref "/f32/language/fur.md" >}}) | 387 | 387 | 100.0 | /mnt/stockage/packages/f32/gnome-multi-writer/po/fur.po | 
- | [hr]({{< ref "/f32/language/hr.md" >}}) | 390 | 390 | 100.0 | /mnt/stockage/packages/f32/gnome-multi-writer/po/hr.po | 
- | [hu]({{< ref "/f32/language/hu.md" >}}) | 386 | 386 | 100.0 | /mnt/stockage/packages/f32/gnome-multi-writer/po/hu.po | 
- | [id]({{< ref "/f32/language/id.md" >}}) | 386 | 386 | 100.0 | /mnt/stockage/packages/f32/gnome-multi-writer/po/id.po | 
- | [it]({{< ref "/f32/language/it.md" >}}) | 390 | 390 | 100.0 | /mnt/stockage/packages/f32/gnome-multi-writer/po/it.po | 
- | [nl]({{< ref "/f32/language/nl.md" >}}) | 386 | 386 | 100.0 | /mnt/stockage/packages/f32/gnome-multi-writer/po/nl.po | 
- | [pl]({{< ref "/f32/language/pl.md" >}}) | 386 | 386 | 100.0 | /mnt/stockage/packages/f32/gnome-multi-writer/po/pl.po | 
- | [pt]({{< ref "/f32/language/pt.md" >}}) | 387 | 387 | 100.0 | /mnt/stockage/packages/f32/gnome-multi-writer/po/pt.po | 
- | [pt_BR]({{< ref "/f32/language/pt_BR.md" >}}) | 386 | 386 | 100.0 | /mnt/stockage/packages/f32/gnome-multi-writer/po/pt_BR.po | 
- | [sk]({{< ref "/f32/language/sk.md" >}}) | 390 | 390 | 100.0 | /mnt/stockage/packages/f32/gnome-multi-writer/po/sk.po | 
- | [sr]({{< ref "/f32/language/sr.md" >}}) | 780 | 780 | 100.0 | /mnt/stockage/packages/f32/gnome-multi-writer/po/sr@latin.po/mnt/stockage/packages/f32/gnome-multi-writer/po/sr.po | 
- | [sv]({{< ref "/f32/language/sv.md" >}}) | 386 | 386 | 100.0 | /mnt/stockage/packages/f32/gnome-multi-writer/po/sv.po | 
- | [tr]({{< ref "/f32/language/tr.md" >}}) | 386 | 386 | 100.0 | /mnt/stockage/packages/f32/gnome-multi-writer/po/tr.po | 
- | [uk]({{< ref "/f32/language/uk.md" >}}) | 347 | 347 | 100.0 | /mnt/stockage/packages/f32/gnome-multi-writer/po/uk.po | 
- | [zh_Hans]({{< ref "/f32/language/zh_Hans.md" >}}) | 390 | 390 | 100.0 | /mnt/stockage/packages/f32/gnome-multi-writer/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f32/language/zh_Hant.md" >}}) | 390 | 390 | 100.0 | /mnt/stockage/packages/f32/gnome-multi-writer/po/zh_TW.po | 
- | [oc]({{< ref "/f32/language/oc.md" >}}) | 350 | 387 | 90.4 | /mnt/stockage/packages/f32/gnome-multi-writer/po/oc.po | 
- | [fi]({{< ref "/f32/language/fi.md" >}}) | 340 | 390 | 87.2 | /mnt/stockage/packages/f32/gnome-multi-writer/po/fi.po | 
- | [he]({{< ref "/f32/language/he.md" >}}) | 307 | 387 | 79.3 | /mnt/stockage/packages/f32/gnome-multi-writer/po/he.po | 
- | [ru]({{< ref "/f32/language/ru.md" >}}) | 240 | 344 | 69.8 | /mnt/stockage/packages/f32/gnome-multi-writer/po/ru.po | 
- | [gl]({{< ref "/f32/language/gl.md" >}}) | 126 | 344 | 36.6 | /mnt/stockage/packages/f32/gnome-multi-writer/po/gl.po | 
- | [ca]({{< ref "/f32/language/ca.md" >}}) | 126 | 387 | 32.6 | /mnt/stockage/packages/f32/gnome-multi-writer/po/ca.po | 
- | [ja]({{< ref "/f32/language/ja.md" >}}) | 119 | 385 | 30.9 | /mnt/stockage/packages/f32/gnome-multi-writer/po/ja.po | 
- | [nb_NO]({{< ref "/f32/language/nb_NO.md" >}}) | 68 | 390 | 17.4 | /mnt/stockage/packages/f32/gnome-multi-writer/po/nb.po | 
- | [sl]({{< ref "/f32/language/sl.md" >}}) | 12 | 387 | 3.1 | /mnt/stockage/packages/f32/gnome-multi-writer/po/sl.po | 
+ | [bs](/f32/language/bs) | 387 | 387 | 100.0 | /mnt/stockage/packages/f32/gnome-multi-writer/po/bs.po | 
+ | [cs](/f32/language/cs) | 390 | 390 | 100.0 | /mnt/stockage/packages/f32/gnome-multi-writer/po/cs.po | 
+ | [da](/f32/language/da) | 382 | 382 | 100.0 | /mnt/stockage/packages/f32/gnome-multi-writer/po/da.po | 
+ | [de](/f32/language/de) | 390 | 390 | 100.0 | /mnt/stockage/packages/f32/gnome-multi-writer/po/de.po | 
+ | [el](/f32/language/el) | 387 | 387 | 100.0 | /mnt/stockage/packages/f32/gnome-multi-writer/po/el.po | 
+ | [en_GB](/f32/language/en_GB) | 344 | 344 | 100.0 | /mnt/stockage/packages/f32/gnome-multi-writer/po/en_GB.po | 
+ | [es](/f32/language/es) | 386 | 386 | 100.0 | /mnt/stockage/packages/f32/gnome-multi-writer/po/es.po | 
+ | [eu](/f32/language/eu) | 382 | 382 | 100.0 | /mnt/stockage/packages/f32/gnome-multi-writer/po/eu.po | 
+ | [fa](/f32/language/fa) | 386 | 386 | 100.0 | /mnt/stockage/packages/f32/gnome-multi-writer/po/fa.po | 
+ | [fr](/f32/language/fr) | 390 | 390 | 100.0 | /mnt/stockage/packages/f32/gnome-multi-writer/po/fr.po | 
+ | [fur](/f32/language/fur) | 387 | 387 | 100.0 | /mnt/stockage/packages/f32/gnome-multi-writer/po/fur.po | 
+ | [hr](/f32/language/hr) | 390 | 390 | 100.0 | /mnt/stockage/packages/f32/gnome-multi-writer/po/hr.po | 
+ | [hu](/f32/language/hu) | 386 | 386 | 100.0 | /mnt/stockage/packages/f32/gnome-multi-writer/po/hu.po | 
+ | [id](/f32/language/id) | 386 | 386 | 100.0 | /mnt/stockage/packages/f32/gnome-multi-writer/po/id.po | 
+ | [it](/f32/language/it) | 390 | 390 | 100.0 | /mnt/stockage/packages/f32/gnome-multi-writer/po/it.po | 
+ | [nl](/f32/language/nl) | 386 | 386 | 100.0 | /mnt/stockage/packages/f32/gnome-multi-writer/po/nl.po | 
+ | [pl](/f32/language/pl) | 386 | 386 | 100.0 | /mnt/stockage/packages/f32/gnome-multi-writer/po/pl.po | 
+ | [pt](/f32/language/pt) | 387 | 387 | 100.0 | /mnt/stockage/packages/f32/gnome-multi-writer/po/pt.po | 
+ | [pt_BR](/f32/language/pt_BR) | 386 | 386 | 100.0 | /mnt/stockage/packages/f32/gnome-multi-writer/po/pt_BR.po | 
+ | [sk](/f32/language/sk) | 390 | 390 | 100.0 | /mnt/stockage/packages/f32/gnome-multi-writer/po/sk.po | 
+ | [sr](/f32/language/sr) | 780 | 780 | 100.0 | /mnt/stockage/packages/f32/gnome-multi-writer/po/sr@latin.po/mnt/stockage/packages/f32/gnome-multi-writer/po/sr.po | 
+ | [sv](/f32/language/sv) | 386 | 386 | 100.0 | /mnt/stockage/packages/f32/gnome-multi-writer/po/sv.po | 
+ | [tr](/f32/language/tr) | 386 | 386 | 100.0 | /mnt/stockage/packages/f32/gnome-multi-writer/po/tr.po | 
+ | [uk](/f32/language/uk) | 347 | 347 | 100.0 | /mnt/stockage/packages/f32/gnome-multi-writer/po/uk.po | 
+ | [zh_Hans](/f32/language/zh_Hans) | 390 | 390 | 100.0 | /mnt/stockage/packages/f32/gnome-multi-writer/po/zh_CN.po | 
+ | [zh_Hant](/f32/language/zh_Hant) | 390 | 390 | 100.0 | /mnt/stockage/packages/f32/gnome-multi-writer/po/zh_TW.po | 
+ | [oc](/f32/language/oc) | 350 | 387 | 90.4 | /mnt/stockage/packages/f32/gnome-multi-writer/po/oc.po | 
+ | [fi](/f32/language/fi) | 340 | 390 | 87.2 | /mnt/stockage/packages/f32/gnome-multi-writer/po/fi.po | 
+ | [he](/f32/language/he) | 307 | 387 | 79.3 | /mnt/stockage/packages/f32/gnome-multi-writer/po/he.po | 
+ | [ru](/f32/language/ru) | 240 | 344 | 69.8 | /mnt/stockage/packages/f32/gnome-multi-writer/po/ru.po | 
+ | [gl](/f32/language/gl) | 126 | 344 | 36.6 | /mnt/stockage/packages/f32/gnome-multi-writer/po/gl.po | 
+ | [ca](/f32/language/ca) | 126 | 387 | 32.6 | /mnt/stockage/packages/f32/gnome-multi-writer/po/ca.po | 
+ | [ja](/f32/language/ja) | 119 | 385 | 30.9 | /mnt/stockage/packages/f32/gnome-multi-writer/po/ja.po | 
+ | [nb_NO](/f32/language/nb_NO) | 68 | 390 | 17.4 | /mnt/stockage/packages/f32/gnome-multi-writer/po/nb.po | 
+ | [sl](/f32/language/sl) | 12 | 387 | 3.1 | /mnt/stockage/packages/f32/gnome-multi-writer/po/sl.po | 
 {.sortable}
 
 

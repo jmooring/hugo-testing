@@ -18,13 +18,13 @@ The package mate-applet-lockkeys (version 0.2.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f18/language/de.md" >}}) | 39 | 45 | 86.7 | /mnt/stockage/packages/f18/mate-applet-lockkeys/po/de_DE.po | 
- | [bg]({{< ref "/f18/language/bg.md" >}}) | 26 | 45 | 57.8 | /mnt/stockage/packages/f18/mate-applet-lockkeys/po/bg_BG.po | 
- | [en_GB]({{< ref "/f18/language/en_GB.md" >}}) | 26 | 45 | 57.8 | /mnt/stockage/packages/f18/mate-applet-lockkeys/po/en_GB.po | 
- | [en_US]({{< ref "/f18/language/en_US.md" >}}) | 26 | 45 | 57.8 | /mnt/stockage/packages/f18/mate-applet-lockkeys/po/en_US.po | 
- | [ru]({{< ref "/f18/language/ru.md" >}}) | 26 | 45 | 57.8 | /mnt/stockage/packages/f18/mate-applet-lockkeys/po/ru_RU.po | 
- | [error]({{< ref "/f18/language/error.md" >}}) | 13 | 45 | 28.9 | /mnt/stockage/packages/f18/mate-applet-lockkeys/po/sv_SV.po | 
- | [hu]({{< ref "/f18/language/hu.md" >}}) | 13 | 45 | 28.9 | /mnt/stockage/packages/f18/mate-applet-lockkeys/po/hu_HU.po | 
+ | [de](/f18/language/de) | 39 | 45 | 86.7 | /mnt/stockage/packages/f18/mate-applet-lockkeys/po/de_DE.po | 
+ | [bg](/f18/language/bg) | 26 | 45 | 57.8 | /mnt/stockage/packages/f18/mate-applet-lockkeys/po/bg_BG.po | 
+ | [en_GB](/f18/language/en_GB) | 26 | 45 | 57.8 | /mnt/stockage/packages/f18/mate-applet-lockkeys/po/en_GB.po | 
+ | [en_US](/f18/language/en_US) | 26 | 45 | 57.8 | /mnt/stockage/packages/f18/mate-applet-lockkeys/po/en_US.po | 
+ | [ru](/f18/language/ru) | 26 | 45 | 57.8 | /mnt/stockage/packages/f18/mate-applet-lockkeys/po/ru_RU.po | 
+ | [error](/f18/language/error) | 13 | 45 | 28.9 | /mnt/stockage/packages/f18/mate-applet-lockkeys/po/sv_SV.po | 
+ | [hu](/f18/language/hu) | 13 | 45 | 28.9 | /mnt/stockage/packages/f18/mate-applet-lockkeys/po/hu_HU.po | 
 {.sortable}
 
 

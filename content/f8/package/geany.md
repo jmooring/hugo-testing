@@ -18,23 +18,23 @@ The package geany (version 0.11):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f8/language/ca.md" >}}) | 3642 | 3642 | 100.0 | /mnt/stockage/packages/f8/geany/po/ca.po | 
- | [de]({{< ref "/f8/language/de.md" >}}) | 3642 | 3642 | 100.0 | /mnt/stockage/packages/f8/geany/po/de.po | 
- | [es]({{< ref "/f8/language/es.md" >}}) | 3642 | 3642 | 100.0 | /mnt/stockage/packages/f8/geany/po/es.po | 
- | [fr]({{< ref "/f8/language/fr.md" >}}) | 3642 | 3642 | 100.0 | /mnt/stockage/packages/f8/geany/po/fr.po | 
- | [it]({{< ref "/f8/language/it.md" >}}) | 3642 | 3642 | 100.0 | /mnt/stockage/packages/f8/geany/po/it.po | 
- | [zh_Hans]({{< ref "/f8/language/zh_Hans.md" >}}) | 3642 | 3642 | 100.0 | /mnt/stockage/packages/f8/geany/po/zh_CN.po | 
- | [cs]({{< ref "/f8/language/cs.md" >}}) | 3640 | 3642 | 99.9 | /mnt/stockage/packages/f8/geany/po/cs.po | 
- | [bg]({{< ref "/f8/language/bg.md" >}}) | 3638 | 3642 | 99.9 | /mnt/stockage/packages/f8/geany/po/bg.po | 
- | [hu]({{< ref "/f8/language/hu.md" >}}) | 2901 | 3642 | 79.7 | /mnt/stockage/packages/f8/geany/po/hu.po | 
- | [vi]({{< ref "/f8/language/vi.md" >}}) | 2901 | 3642 | 79.7 | /mnt/stockage/packages/f8/geany/po/vi.po | 
- | [be]({{< ref "/f8/language/be.md" >}}) | 2719 | 3642 | 74.7 | /mnt/stockage/packages/f8/geany/po/be.po | 
- | [nl]({{< ref "/f8/language/nl.md" >}}) | 2178 | 3642 | 59.8 | /mnt/stockage/packages/f8/geany/po/nl.po | 
- | [fi]({{< ref "/f8/language/fi.md" >}}) | 1767 | 3642 | 48.5 | /mnt/stockage/packages/f8/geany/po/fi.po | 
- | [ru]({{< ref "/f8/language/ru.md" >}}) | 1522 | 3642 | 41.8 | /mnt/stockage/packages/f8/geany/po/ru.po | 
- | [pt_BR]({{< ref "/f8/language/pt_BR.md" >}}) | 1324 | 3642 | 36.4 | /mnt/stockage/packages/f8/geany/po/pt_BR.po | 
- | [zh_Hant]({{< ref "/f8/language/zh_Hant.md" >}}) | 981 | 3642 | 26.9 | /mnt/stockage/packages/f8/geany/po/zh_TW.po | 
- | [pl]({{< ref "/f8/language/pl.md" >}}) | 978 | 3642 | 26.9 | /mnt/stockage/packages/f8/geany/po/pl.po | 
+ | [ca](/f8/language/ca) | 3642 | 3642 | 100.0 | /mnt/stockage/packages/f8/geany/po/ca.po | 
+ | [de](/f8/language/de) | 3642 | 3642 | 100.0 | /mnt/stockage/packages/f8/geany/po/de.po | 
+ | [es](/f8/language/es) | 3642 | 3642 | 100.0 | /mnt/stockage/packages/f8/geany/po/es.po | 
+ | [fr](/f8/language/fr) | 3642 | 3642 | 100.0 | /mnt/stockage/packages/f8/geany/po/fr.po | 
+ | [it](/f8/language/it) | 3642 | 3642 | 100.0 | /mnt/stockage/packages/f8/geany/po/it.po | 
+ | [zh_Hans](/f8/language/zh_Hans) | 3642 | 3642 | 100.0 | /mnt/stockage/packages/f8/geany/po/zh_CN.po | 
+ | [cs](/f8/language/cs) | 3640 | 3642 | 99.9 | /mnt/stockage/packages/f8/geany/po/cs.po | 
+ | [bg](/f8/language/bg) | 3638 | 3642 | 99.9 | /mnt/stockage/packages/f8/geany/po/bg.po | 
+ | [hu](/f8/language/hu) | 2901 | 3642 | 79.7 | /mnt/stockage/packages/f8/geany/po/hu.po | 
+ | [vi](/f8/language/vi) | 2901 | 3642 | 79.7 | /mnt/stockage/packages/f8/geany/po/vi.po | 
+ | [be](/f8/language/be) | 2719 | 3642 | 74.7 | /mnt/stockage/packages/f8/geany/po/be.po | 
+ | [nl](/f8/language/nl) | 2178 | 3642 | 59.8 | /mnt/stockage/packages/f8/geany/po/nl.po | 
+ | [fi](/f8/language/fi) | 1767 | 3642 | 48.5 | /mnt/stockage/packages/f8/geany/po/fi.po | 
+ | [ru](/f8/language/ru) | 1522 | 3642 | 41.8 | /mnt/stockage/packages/f8/geany/po/ru.po | 
+ | [pt_BR](/f8/language/pt_BR) | 1324 | 3642 | 36.4 | /mnt/stockage/packages/f8/geany/po/pt_BR.po | 
+ | [zh_Hant](/f8/language/zh_Hant) | 981 | 3642 | 26.9 | /mnt/stockage/packages/f8/geany/po/zh_TW.po | 
+ | [pl](/f8/language/pl) | 978 | 3642 | 26.9 | /mnt/stockage/packages/f8/geany/po/pl.po | 
 {.sortable}
 
 

@@ -18,13 +18,13 @@ The package obconf (version 2.0.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [error]({{< ref "/f8/language/error.md" >}}) | 976 | 976 | 100.0 | /mnt/stockage/packages/f8/obconf/po/en@boldquot.po/mnt/stockage/packages/f8/obconf/po/en@quot.po | 
- | [es]({{< ref "/f8/language/es.md" >}}) | 488 | 488 | 100.0 | /mnt/stockage/packages/f8/obconf/po/es.po | 
- | [fr]({{< ref "/f8/language/fr.md" >}}) | 488 | 488 | 100.0 | /mnt/stockage/packages/f8/obconf/po/fr.po | 
- | [cs]({{< ref "/f8/language/cs.md" >}}) | 472 | 488 | 96.7 | /mnt/stockage/packages/f8/obconf/po/cs.po | 
- | [sv]({{< ref "/f8/language/sv.md" >}}) | 472 | 488 | 96.7 | /mnt/stockage/packages/f8/obconf/po/sv.po | 
- | [it]({{< ref "/f8/language/it.md" >}}) | 463 | 488 | 94.9 | /mnt/stockage/packages/f8/obconf/po/it.po | 
- | [zh_Hant]({{< ref "/f8/language/zh_Hant.md" >}}) | 451 | 488 | 92.4 | /mnt/stockage/packages/f8/obconf/po/zh_TW.po | 
+ | [error](/f8/language/error) | 976 | 976 | 100.0 | /mnt/stockage/packages/f8/obconf/po/en@boldquot.po/mnt/stockage/packages/f8/obconf/po/en@quot.po | 
+ | [es](/f8/language/es) | 488 | 488 | 100.0 | /mnt/stockage/packages/f8/obconf/po/es.po | 
+ | [fr](/f8/language/fr) | 488 | 488 | 100.0 | /mnt/stockage/packages/f8/obconf/po/fr.po | 
+ | [cs](/f8/language/cs) | 472 | 488 | 96.7 | /mnt/stockage/packages/f8/obconf/po/cs.po | 
+ | [sv](/f8/language/sv) | 472 | 488 | 96.7 | /mnt/stockage/packages/f8/obconf/po/sv.po | 
+ | [it](/f8/language/it) | 463 | 488 | 94.9 | /mnt/stockage/packages/f8/obconf/po/it.po | 
+ | [zh_Hant](/f8/language/zh_Hant) | 451 | 488 | 92.4 | /mnt/stockage/packages/f8/obconf/po/zh_TW.po | 
 {.sortable}
 
 

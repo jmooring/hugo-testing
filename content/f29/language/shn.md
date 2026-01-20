@@ -39,15 +39,15 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [slick-greeter]({{< ref "/f29/package/slick-greeter.md" >}}) | 60 | 211 | 28.4 | Shan <shn@li.org> | 
- | [shutter]({{< ref "/f29/package/shutter.md" >}}) | 361 | 2614 | 13.8 | Shan <shn@li.org> | 
- | [blueberry]({{< ref "/f29/package/blueberry.md" >}}) | 2 | 141 | 1.4 | Shan <shn@li.org> | 
- | [simple-scan]({{< ref "/f29/package/simple-scan.md" >}}) | 4 | 589 | 0.7 | Shan <shn@li.org> | 
- | [cinnamon-translations]({{< ref "/f29/package/cinnamon-translations.md" >}}) | 52 | 17628 | 0.3 | Shan <shn@li.org> | 
- | [deja-dup]({{< ref "/f29/package/deja-dup.md" >}}) | 0 | 2097 | 0.0 | Shan <shn@li.org> | 
- | [lightdm]({{< ref "/f29/package/lightdm.md" >}}) | 0 | 163 | 0.0 | Shan <shn@li.org> | 
- | [onboard]({{< ref "/f29/package/onboard.md" >}}) | 0 | 2318 | 0.0 | Shan <shn@li.org> | 
- | [remmina]({{< ref "/f29/package/remmina.md" >}}) | 0 | 2502 | 0.0 | Shan <shn@li.org> | 
+ | [slick-greeter](/f29/package/slick-greeter) | 60 | 211 | 28.4 | Shan <shn@li.org> | 
+ | [shutter](/f29/package/shutter) | 361 | 2614 | 13.8 | Shan <shn@li.org> | 
+ | [blueberry](/f29/package/blueberry) | 2 | 141 | 1.4 | Shan <shn@li.org> | 
+ | [simple-scan](/f29/package/simple-scan) | 4 | 589 | 0.7 | Shan <shn@li.org> | 
+ | [cinnamon-translations](/f29/package/cinnamon-translations) | 52 | 17628 | 0.3 | Shan <shn@li.org> | 
+ | [deja-dup](/f29/package/deja-dup) | 0 | 2097 | 0.0 | Shan <shn@li.org> | 
+ | [lightdm](/f29/package/lightdm) | 0 | 163 | 0.0 | Shan <shn@li.org> | 
+ | [onboard](/f29/package/onboard) | 0 | 2318 | 0.0 | Shan <shn@li.org> | 
+ | [remmina](/f29/package/remmina) | 0 | 2502 | 0.0 | Shan <shn@li.org> | 
 {.sortable}
 
 

@@ -18,12 +18,12 @@ The package galculator (version 1.2.5):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f7/language/de.md" >}}) | 836 | 836 | 100.0 | /mnt/stockage/packages/f7/galculator/po/de.po | 
- | [ja]({{< ref "/f7/language/ja.md" >}}) | 807 | 836 | 96.5 | /mnt/stockage/packages/f7/galculator/po/ja.po | 
- | [pt_BR]({{< ref "/f7/language/pt_BR.md" >}}) | 767 | 836 | 91.7 | /mnt/stockage/packages/f7/galculator/po/pt_BR.po | 
- | [pl]({{< ref "/f7/language/pl.md" >}}) | 749 | 836 | 89.6 | /mnt/stockage/packages/f7/galculator/po/pl.po | 
- | [fr]({{< ref "/f7/language/fr.md" >}}) | 597 | 836 | 71.4 | /mnt/stockage/packages/f7/galculator/po/fr.po | 
- | [ro]({{< ref "/f7/language/ro.md" >}}) | 597 | 836 | 71.4 | /mnt/stockage/packages/f7/galculator/po/ro.po | 
+ | [de](/f7/language/de) | 836 | 836 | 100.0 | /mnt/stockage/packages/f7/galculator/po/de.po | 
+ | [ja](/f7/language/ja) | 807 | 836 | 96.5 | /mnt/stockage/packages/f7/galculator/po/ja.po | 
+ | [pt_BR](/f7/language/pt_BR) | 767 | 836 | 91.7 | /mnt/stockage/packages/f7/galculator/po/pt_BR.po | 
+ | [pl](/f7/language/pl) | 749 | 836 | 89.6 | /mnt/stockage/packages/f7/galculator/po/pl.po | 
+ | [fr](/f7/language/fr) | 597 | 836 | 71.4 | /mnt/stockage/packages/f7/galculator/po/fr.po | 
+ | [ro](/f7/language/ro) | 597 | 836 | 71.4 | /mnt/stockage/packages/f7/galculator/po/ro.po | 
 {.sortable}
 
 

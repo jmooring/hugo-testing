@@ -18,9 +18,9 @@ The package udiskie (version 1.7.7):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ru]({{< ref "/f30/language/ru.md" >}}) | 533 | 533 | 100.0 | /mnt/stockage/packages/f30/udiskie/lang/ru_RU.po | 
- | [en_US]({{< ref "/f30/language/en_US.md" >}}) | 274 | 533 | 51.4 | /mnt/stockage/packages/f30/udiskie/lang/en_US.po | 
- | [es]({{< ref "/f30/language/es.md" >}}) | 239 | 533 | 44.8 | /mnt/stockage/packages/f30/udiskie/lang/es_ES.po | 
+ | [ru](/f30/language/ru) | 533 | 533 | 100.0 | /mnt/stockage/packages/f30/udiskie/lang/ru_RU.po | 
+ | [en_US](/f30/language/en_US) | 274 | 533 | 51.4 | /mnt/stockage/packages/f30/udiskie/lang/en_US.po | 
+ | [es](/f30/language/es) | 239 | 533 | 44.8 | /mnt/stockage/packages/f30/udiskie/lang/es_ES.po | 
 {.sortable}
 
 

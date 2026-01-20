@@ -39,10 +39,10 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [gnome-menus]({{< ref "/f14/package/gnome-menus.md" >}}) | 157 | 157 | 100.0 | Divehi <dv@li.org> | 
- | [gnome-do]({{< ref "/f14/package/gnome-do.md" >}}) | 162 | 612 | 26.5 | Divehi <dv@li.org> | 
- | [avant-window-navigator]({{< ref "/f14/package/avant-window-navigator.md" >}}) | 0 | 1052 | 0.0 | Divehi <dv@li.org> | 
- | [stellarium]({{< ref "/f14/package/stellarium.md" >}}) | 0 | 3362 | 0.0 | Divehi <dv@li.org> | 
+ | [gnome-menus](/f14/package/gnome-menus) | 157 | 157 | 100.0 | Divehi <dv@li.org> | 
+ | [gnome-do](/f14/package/gnome-do) | 162 | 612 | 26.5 | Divehi <dv@li.org> | 
+ | [avant-window-navigator](/f14/package/avant-window-navigator) | 0 | 1052 | 0.0 | Divehi <dv@li.org> | 
+ | [stellarium](/f14/package/stellarium) | 0 | 3362 | 0.0 | Divehi <dv@li.org> | 
 {.sortable}
 
 

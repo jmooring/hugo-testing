@@ -38,49 +38,49 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [Thunar]({{< ref "/f12/package/Thunar.md" >}}) | 3865 | 3865 | 100.0 | urdu <makki.ma@gmail.com> | 
- | [exo]({{< ref "/f12/package/exo.md" >}}) | 1598 | 1598 | 100.0 | Urdu <makki.ma@gmail.com> | 
- | [file-roller]({{< ref "/f12/package/file-roller.md" >}}) | 1159 | 1159 | 100.0 | Urdu <makki.ma@gmail.com> | 
- | [gpicview]({{< ref "/f12/package/gpicview.md" >}}) | 219 | 219 | 100.0 | Urdu <makki.ma@gmail.com> | 
- | [libxfce4menu]({{< ref "/f12/package/libxfce4menu.md" >}}) | 31 | 31 | 100.0 | Urdu <makki.ma@gmail.com> | 
- | [libxfce4util]({{< ref "/f12/package/libxfce4util.md" >}}) | 413 | 413 | 100.0 | Urdu <makki.ma@gmail.com> | 
- | [libxfcegui4]({{< ref "/f12/package/libxfcegui4.md" >}}) | 234 | 234 | 100.0 | Urdu <makki.ma@gmai.com> | 
- | [lxappearance]({{< ref "/f12/package/lxappearance.md" >}}) | 96 | 96 | 100.0 | Urdu <makki.ma@gmail.com> | 
- | [lxinput]({{< ref "/f12/package/lxinput.md" >}}) | 60 | 60 | 100.0 | Urdu <makki.ma@gmail.com> | 
- | [lxlauncher]({{< ref "/f12/package/lxlauncher.md" >}}) | 51 | 51 | 100.0 | Urdu <makki.ma@gmail.com> | 
- | [lxmenu-data]({{< ref "/f12/package/lxmenu-data.md" >}}) | 97 | 97 | 100.0 | Urdu <makki.ma@gmail.com> | 
- | [lxmusic]({{< ref "/f12/package/lxmusic.md" >}}) | 196 | 196 | 100.0 | Urdu <makki.ma@gmail.com> | 
- | [lxrandr]({{< ref "/f12/package/lxrandr.md" >}}) | 102 | 102 | 100.0 | Urdu <makki.ma@gmail.com> | 
- | [lxsession-edit]({{< ref "/f12/package/lxsession-edit.md" >}}) | 58 | 58 | 100.0 | Urdu <makki.ma@gmail.com> | 
- | [lxshortcut]({{< ref "/f12/package/lxshortcut.md" >}}) | 43 | 43 | 100.0 | Urdu <makki.ma@gmail.com> | 
- | [minbar]({{< ref "/f12/package/minbar.md" >}}) | 418 | 418 | 100.0 | Urdu <makki.ma@gmail.com> | 
- | [xfce-utils]({{< ref "/f12/package/xfce-utils.md" >}}) | 131 | 131 | 100.0 | Urdu <makki.ma@gmail.com> | 
- | [xfce4-appfinder]({{< ref "/f12/package/xfce4-appfinder.md" >}}) | 84 | 84 | 100.0 | Urdu <makki.ma@gmail.com> | 
- | [xfce4-places-plugin]({{< ref "/f12/package/xfce4-places-plugin.md" >}}) | 75 | 75 | 100.0 | Urdu <makki.ma@gmail.com> | 
- | [xfce4-screenshooter]({{< ref "/f12/package/xfce4-screenshooter.md" >}}) | 457 | 457 | 100.0 | Urdu <makki.ma@gmail.com> | 
- | [xfce4-session]({{< ref "/f12/package/xfce4-session.md" >}}) | 990 | 990 | 100.0 | Urdu <makki.ma@gmail.com> | 
- | [xfce4-settings]({{< ref "/f12/package/xfce4-settings.md" >}}) | 1138 | 1138 | 100.0 | Urdu <makki.ma@gmail.com> | 
- | [xfconf]({{< ref "/f12/package/xfconf.md" >}}) | 421 | 421 | 100.0 | Urdu <makki.ma@gmail.com> | 
- | [xfdesktop]({{< ref "/f12/package/xfdesktop.md" >}}) | 1004 | 1004 | 100.0 | Urdu <makki.ma@gmail.com> | 
- | [xfwm4]({{< ref "/f12/package/xfwm4.md" >}}) | 797 | 797 | 100.0 | urdu <makki.ma@gmail.com> | 
- | [pcmanfm]({{< ref "/f12/package/pcmanfm.md" >}}) | 1516 | 1520 | 99.7 | Urdu <makki.ma@gmail.com> | 
- | [xfce4-panel]({{< ref "/f12/package/xfce4-panel.md" >}}) | 537 | 540 | 99.4 | urdu <makki.ma@gmail.com> | 
- | [lxpanel]({{< ref "/f12/package/lxpanel.md" >}}) | 874 | 895 | 97.7 | Urdu <makki.ma@gmail.com> | 
- | [xfce4-clipman-plugin]({{< ref "/f12/package/xfce4-clipman-plugin.md" >}}) | 223 | 234 | 95.3 | Urdu <makki.ma@gmail.com> | 
- | [xfce4-notes-plugin]({{< ref "/f12/package/xfce4-notes-plugin.md" >}}) | 98 | 103 | 95.1 | Urdu <makki.ma@gmail.com> | 
- | [Terminal]({{< ref "/f12/package/Terminal.md" >}}) | 1125 | 1191 | 94.5 | urdu <makki.ma@gmail.com> | 
- | [xfce4-power-manager]({{< ref "/f12/package/xfce4-power-manager.md" >}}) | 650 | 694 | 93.7 | Urdu <makki.ma@gmail.com> | 
- | [gigolo]({{< ref "/f12/package/gigolo.md" >}}) | 462 | 500 | 92.4 | Urdu <makki.ma@gmail.com> | 
- | [xfce4-weather-plugin]({{< ref "/f12/package/xfce4-weather-plugin.md" >}}) | 511 | 555 | 92.1 | Urdu <makki.ma@gmail.com> | 
- | [lxtask]({{< ref "/f12/package/lxtask.md" >}}) | 112 | 122 | 91.8 | Urdu <makki.ma@gmail.com> | 
- | [xfce4-sensors-plugin]({{< ref "/f12/package/xfce4-sensors-plugin.md" >}}) | 316 | 346 | 91.3 | Urdu <makki.ma@gmail.com> | 
- | [xfmpc]({{< ref "/f12/package/xfmpc.md" >}}) | 116 | 130 | 89.2 | Urdu <makki.ma@gmail.com> | 
- | [thunar-vcs-plugin]({{< ref "/f12/package/thunar-vcs-plugin.md" >}}) | 367 | 498 | 73.7 | Urdu <makki.ma@gmail.com> | 
- | [lxterminal]({{< ref "/f12/package/lxterminal.md" >}}) | 87 | 129 | 67.4 | Urdu <makki.ma@gmail.com> | 
- | [xfce4-mpc-plugin]({{< ref "/f12/package/xfce4-mpc-plugin.md" >}}) | 46 | 80 | 57.5 | Urdu <makki.ma@gmail.com> | 
- | [xfburn]({{< ref "/f12/package/xfburn.md" >}}) | 294 | 1300 | 22.6 | Urdu <makki.ma@gmail.com> | 
- | [pgadmin3]({{< ref "/f12/package/pgadmin3.md" >}}) | 1373 | 9006 | 15.2 | urdu <pgadmin-hackers@postgresql.org> | 
- | [lxdm]({{< ref "/f12/package/lxdm.md" >}}) | 0 | 11 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [Thunar](/f12/package/Thunar) | 3865 | 3865 | 100.0 | urdu <makki.ma@gmail.com> | 
+ | [exo](/f12/package/exo) | 1598 | 1598 | 100.0 | Urdu <makki.ma@gmail.com> | 
+ | [file-roller](/f12/package/file-roller) | 1159 | 1159 | 100.0 | Urdu <makki.ma@gmail.com> | 
+ | [gpicview](/f12/package/gpicview) | 219 | 219 | 100.0 | Urdu <makki.ma@gmail.com> | 
+ | [libxfce4menu](/f12/package/libxfce4menu) | 31 | 31 | 100.0 | Urdu <makki.ma@gmail.com> | 
+ | [libxfce4util](/f12/package/libxfce4util) | 413 | 413 | 100.0 | Urdu <makki.ma@gmail.com> | 
+ | [libxfcegui4](/f12/package/libxfcegui4) | 234 | 234 | 100.0 | Urdu <makki.ma@gmai.com> | 
+ | [lxappearance](/f12/package/lxappearance) | 96 | 96 | 100.0 | Urdu <makki.ma@gmail.com> | 
+ | [lxinput](/f12/package/lxinput) | 60 | 60 | 100.0 | Urdu <makki.ma@gmail.com> | 
+ | [lxlauncher](/f12/package/lxlauncher) | 51 | 51 | 100.0 | Urdu <makki.ma@gmail.com> | 
+ | [lxmenu-data](/f12/package/lxmenu-data) | 97 | 97 | 100.0 | Urdu <makki.ma@gmail.com> | 
+ | [lxmusic](/f12/package/lxmusic) | 196 | 196 | 100.0 | Urdu <makki.ma@gmail.com> | 
+ | [lxrandr](/f12/package/lxrandr) | 102 | 102 | 100.0 | Urdu <makki.ma@gmail.com> | 
+ | [lxsession-edit](/f12/package/lxsession-edit) | 58 | 58 | 100.0 | Urdu <makki.ma@gmail.com> | 
+ | [lxshortcut](/f12/package/lxshortcut) | 43 | 43 | 100.0 | Urdu <makki.ma@gmail.com> | 
+ | [minbar](/f12/package/minbar) | 418 | 418 | 100.0 | Urdu <makki.ma@gmail.com> | 
+ | [xfce-utils](/f12/package/xfce-utils) | 131 | 131 | 100.0 | Urdu <makki.ma@gmail.com> | 
+ | [xfce4-appfinder](/f12/package/xfce4-appfinder) | 84 | 84 | 100.0 | Urdu <makki.ma@gmail.com> | 
+ | [xfce4-places-plugin](/f12/package/xfce4-places-plugin) | 75 | 75 | 100.0 | Urdu <makki.ma@gmail.com> | 
+ | [xfce4-screenshooter](/f12/package/xfce4-screenshooter) | 457 | 457 | 100.0 | Urdu <makki.ma@gmail.com> | 
+ | [xfce4-session](/f12/package/xfce4-session) | 990 | 990 | 100.0 | Urdu <makki.ma@gmail.com> | 
+ | [xfce4-settings](/f12/package/xfce4-settings) | 1138 | 1138 | 100.0 | Urdu <makki.ma@gmail.com> | 
+ | [xfconf](/f12/package/xfconf) | 421 | 421 | 100.0 | Urdu <makki.ma@gmail.com> | 
+ | [xfdesktop](/f12/package/xfdesktop) | 1004 | 1004 | 100.0 | Urdu <makki.ma@gmail.com> | 
+ | [xfwm4](/f12/package/xfwm4) | 797 | 797 | 100.0 | urdu <makki.ma@gmail.com> | 
+ | [pcmanfm](/f12/package/pcmanfm) | 1516 | 1520 | 99.7 | Urdu <makki.ma@gmail.com> | 
+ | [xfce4-panel](/f12/package/xfce4-panel) | 537 | 540 | 99.4 | urdu <makki.ma@gmail.com> | 
+ | [lxpanel](/f12/package/lxpanel) | 874 | 895 | 97.7 | Urdu <makki.ma@gmail.com> | 
+ | [xfce4-clipman-plugin](/f12/package/xfce4-clipman-plugin) | 223 | 234 | 95.3 | Urdu <makki.ma@gmail.com> | 
+ | [xfce4-notes-plugin](/f12/package/xfce4-notes-plugin) | 98 | 103 | 95.1 | Urdu <makki.ma@gmail.com> | 
+ | [Terminal](/f12/package/Terminal) | 1125 | 1191 | 94.5 | urdu <makki.ma@gmail.com> | 
+ | [xfce4-power-manager](/f12/package/xfce4-power-manager) | 650 | 694 | 93.7 | Urdu <makki.ma@gmail.com> | 
+ | [gigolo](/f12/package/gigolo) | 462 | 500 | 92.4 | Urdu <makki.ma@gmail.com> | 
+ | [xfce4-weather-plugin](/f12/package/xfce4-weather-plugin) | 511 | 555 | 92.1 | Urdu <makki.ma@gmail.com> | 
+ | [lxtask](/f12/package/lxtask) | 112 | 122 | 91.8 | Urdu <makki.ma@gmail.com> | 
+ | [xfce4-sensors-plugin](/f12/package/xfce4-sensors-plugin) | 316 | 346 | 91.3 | Urdu <makki.ma@gmail.com> | 
+ | [xfmpc](/f12/package/xfmpc) | 116 | 130 | 89.2 | Urdu <makki.ma@gmail.com> | 
+ | [thunar-vcs-plugin](/f12/package/thunar-vcs-plugin) | 367 | 498 | 73.7 | Urdu <makki.ma@gmail.com> | 
+ | [lxterminal](/f12/package/lxterminal) | 87 | 129 | 67.4 | Urdu <makki.ma@gmail.com> | 
+ | [xfce4-mpc-plugin](/f12/package/xfce4-mpc-plugin) | 46 | 80 | 57.5 | Urdu <makki.ma@gmail.com> | 
+ | [xfburn](/f12/package/xfburn) | 294 | 1300 | 22.6 | Urdu <makki.ma@gmail.com> | 
+ | [pgadmin3](/f12/package/pgadmin3) | 1373 | 9006 | 15.2 | urdu <pgadmin-hackers@postgresql.org> | 
+ | [lxdm](/f12/package/lxdm) | 0 | 11 | 0.0 | LANGUAGE <LL@li.org> | 
 {.sortable}
 
 

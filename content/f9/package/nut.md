@@ -18,11 +18,11 @@ The package nut (version 2.2.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f9/language/cs.md" >}}) | 368 | 368 | 100.0 | /mnt/stockage/packages/f9/nut/packaging/debian/po/cs.po | 
- | [de]({{< ref "/f9/language/de.md" >}}) | 368 | 368 | 100.0 | /mnt/stockage/packages/f9/nut/packaging/debian/po/de.po | 
- | [fr]({{< ref "/f9/language/fr.md" >}}) | 368 | 368 | 100.0 | /mnt/stockage/packages/f9/nut/packaging/debian/po/fr.po | 
- | [vi]({{< ref "/f9/language/vi.md" >}}) | 368 | 368 | 100.0 | /mnt/stockage/packages/f9/nut/packaging/debian/po/vi.po | 
- | [ca]({{< ref "/f9/language/ca.md" >}}) | 311 | 368 | 84.5 | /mnt/stockage/packages/f9/nut/packaging/debian/po/ca.po | 
+ | [cs](/f9/language/cs) | 368 | 368 | 100.0 | /mnt/stockage/packages/f9/nut/packaging/debian/po/cs.po | 
+ | [de](/f9/language/de) | 368 | 368 | 100.0 | /mnt/stockage/packages/f9/nut/packaging/debian/po/de.po | 
+ | [fr](/f9/language/fr) | 368 | 368 | 100.0 | /mnt/stockage/packages/f9/nut/packaging/debian/po/fr.po | 
+ | [vi](/f9/language/vi) | 368 | 368 | 100.0 | /mnt/stockage/packages/f9/nut/packaging/debian/po/vi.po | 
+ | [ca](/f9/language/ca) | 311 | 368 | 84.5 | /mnt/stockage/packages/f9/nut/packaging/debian/po/ca.po | 
 {.sortable}
 
 

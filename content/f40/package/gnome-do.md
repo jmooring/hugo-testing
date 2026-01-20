@@ -18,100 +18,100 @@ The package gnome-do (version 0.95.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f40/language/ar.md" >}}) | 612 | 612 | 100.0 | /mnt/stockage/packages/f40/gnome-do/po/ar.po | 
- | [ca]({{< ref "/f40/language/ca.md" >}}) | 612 | 612 | 100.0 | /mnt/stockage/packages/f40/gnome-do/po/ca.po | 
- | [de]({{< ref "/f40/language/de.md" >}}) | 612 | 612 | 100.0 | /mnt/stockage/packages/f40/gnome-do/po/de.po | 
- | [en_AU]({{< ref "/f40/language/en_AU.md" >}}) | 612 | 612 | 100.0 | /mnt/stockage/packages/f40/gnome-do/po/en_AU.po | 
- | [en_CA]({{< ref "/f40/language/en_CA.md" >}}) | 612 | 612 | 100.0 | /mnt/stockage/packages/f40/gnome-do/po/en_CA.po | 
- | [en_GB]({{< ref "/f40/language/en_GB.md" >}}) | 612 | 612 | 100.0 | /mnt/stockage/packages/f40/gnome-do/po/en_GB.po | 
- | [es]({{< ref "/f40/language/es.md" >}}) | 612 | 612 | 100.0 | /mnt/stockage/packages/f40/gnome-do/po/es.po | 
- | [eu]({{< ref "/f40/language/eu.md" >}}) | 612 | 612 | 100.0 | /mnt/stockage/packages/f40/gnome-do/po/eu.po | 
- | [fi]({{< ref "/f40/language/fi.md" >}}) | 612 | 612 | 100.0 | /mnt/stockage/packages/f40/gnome-do/po/fi.po | 
- | [fr]({{< ref "/f40/language/fr.md" >}}) | 612 | 612 | 100.0 | /mnt/stockage/packages/f40/gnome-do/po/fr.po | 
- | [it]({{< ref "/f40/language/it.md" >}}) | 612 | 612 | 100.0 | /mnt/stockage/packages/f40/gnome-do/po/it.po | 
- | [lv]({{< ref "/f40/language/lv.md" >}}) | 612 | 612 | 100.0 | /mnt/stockage/packages/f40/gnome-do/po/lv.po | 
- | [ms]({{< ref "/f40/language/ms.md" >}}) | 612 | 612 | 100.0 | /mnt/stockage/packages/f40/gnome-do/po/ms.po | 
- | [my]({{< ref "/f40/language/my.md" >}}) | 612 | 612 | 100.0 | /mnt/stockage/packages/f40/gnome-do/po/my.po | 
- | [nl]({{< ref "/f40/language/nl.md" >}}) | 612 | 612 | 100.0 | /mnt/stockage/packages/f40/gnome-do/po/nl.po | 
- | [pl]({{< ref "/f40/language/pl.md" >}}) | 612 | 612 | 100.0 | /mnt/stockage/packages/f40/gnome-do/po/pl.po | 
- | [pt]({{< ref "/f40/language/pt.md" >}}) | 612 | 612 | 100.0 | /mnt/stockage/packages/f40/gnome-do/po/pt.po | 
- | [pt_BR]({{< ref "/f40/language/pt_BR.md" >}}) | 612 | 612 | 100.0 | /mnt/stockage/packages/f40/gnome-do/po/pt_BR.po | 
- | [ro]({{< ref "/f40/language/ro.md" >}}) | 612 | 612 | 100.0 | /mnt/stockage/packages/f40/gnome-do/po/ro.po | 
- | [ru]({{< ref "/f40/language/ru.md" >}}) | 612 | 612 | 100.0 | /mnt/stockage/packages/f40/gnome-do/po/ru.po | 
- | [sk]({{< ref "/f40/language/sk.md" >}}) | 612 | 612 | 100.0 | /mnt/stockage/packages/f40/gnome-do/po/sk.po | 
- | [uk]({{< ref "/f40/language/uk.md" >}}) | 612 | 612 | 100.0 | /mnt/stockage/packages/f40/gnome-do/po/uk.po | 
- | [ko]({{< ref "/f40/language/ko.md" >}}) | 599 | 612 | 97.9 | /mnt/stockage/packages/f40/gnome-do/po/ko.po | 
- | [cs]({{< ref "/f40/language/cs.md" >}}) | 597 | 612 | 97.5 | /mnt/stockage/packages/f40/gnome-do/po/cs.po | 
- | [tr]({{< ref "/f40/language/tr.md" >}}) | 566 | 612 | 92.5 | /mnt/stockage/packages/f40/gnome-do/po/tr.po | 
- | [zh_Hans]({{< ref "/f40/language/zh_Hans.md" >}}) | 556 | 612 | 90.8 | /mnt/stockage/packages/f40/gnome-do/po/zh_CN.po | 
- | [sv]({{< ref "/f40/language/sv.md" >}}) | 546 | 612 | 89.2 | /mnt/stockage/packages/f40/gnome-do/po/sv.po | 
- | [bg]({{< ref "/f40/language/bg.md" >}}) | 517 | 612 | 84.5 | /mnt/stockage/packages/f40/gnome-do/po/bg.po | 
- | [oc]({{< ref "/f40/language/oc.md" >}}) | 517 | 612 | 84.5 | /mnt/stockage/packages/f40/gnome-do/po/oc.po | 
- | [zh_Hant]({{< ref "/f40/language/zh_Hant.md" >}}) | 505 | 612 | 82.5 | /mnt/stockage/packages/f40/gnome-do/po/zh_TW.po | 
- | [ast]({{< ref "/f40/language/ast.md" >}}) | 490 | 612 | 80.1 | /mnt/stockage/packages/f40/gnome-do/po/ast.po | 
- | [el]({{< ref "/f40/language/el.md" >}}) | 483 | 612 | 78.9 | /mnt/stockage/packages/f40/gnome-do/po/el.po | 
- | [hi]({{< ref "/f40/language/hi.md" >}}) | 482 | 612 | 78.8 | /mnt/stockage/packages/f40/gnome-do/po/hi.po | 
- | [af]({{< ref "/f40/language/af.md" >}}) | 473 | 612 | 77.3 | /mnt/stockage/packages/f40/gnome-do/po/af.po | 
- | [bs]({{< ref "/f40/language/bs.md" >}}) | 473 | 612 | 77.3 | /mnt/stockage/packages/f40/gnome-do/po/bs.po | 
- | [da]({{< ref "/f40/language/da.md" >}}) | 473 | 612 | 77.3 | /mnt/stockage/packages/f40/gnome-do/po/da.po | 
- | [et]({{< ref "/f40/language/et.md" >}}) | 473 | 612 | 77.3 | /mnt/stockage/packages/f40/gnome-do/po/et.po | 
- | [fa]({{< ref "/f40/language/fa.md" >}}) | 473 | 612 | 77.3 | /mnt/stockage/packages/f40/gnome-do/po/fa.po | 
- | [gl]({{< ref "/f40/language/gl.md" >}}) | 473 | 612 | 77.3 | /mnt/stockage/packages/f40/gnome-do/po/gl.po | 
- | [he]({{< ref "/f40/language/he.md" >}}) | 473 | 612 | 77.3 | /mnt/stockage/packages/f40/gnome-do/po/he.po | 
- | [hu]({{< ref "/f40/language/hu.md" >}}) | 473 | 612 | 77.3 | /mnt/stockage/packages/f40/gnome-do/po/hu.po | 
- | [id]({{< ref "/f40/language/id.md" >}}) | 473 | 612 | 77.3 | /mnt/stockage/packages/f40/gnome-do/po/id.po | 
- | [is]({{< ref "/f40/language/is.md" >}}) | 473 | 612 | 77.3 | /mnt/stockage/packages/f40/gnome-do/po/is.po | 
- | [lb]({{< ref "/f40/language/lb.md" >}}) | 473 | 612 | 77.3 | /mnt/stockage/packages/f40/gnome-do/po/lb.po | 
- | [mr]({{< ref "/f40/language/mr.md" >}}) | 473 | 612 | 77.3 | /mnt/stockage/packages/f40/gnome-do/po/mr.po | 
- | [nb_NO]({{< ref "/f40/language/nb_NO.md" >}}) | 473 | 612 | 77.3 | /mnt/stockage/packages/f40/gnome-do/po/nb.po | 
- | [nn]({{< ref "/f40/language/nn.md" >}}) | 473 | 612 | 77.3 | /mnt/stockage/packages/f40/gnome-do/po/nn.po | 
- | [sc]({{< ref "/f40/language/sc.md" >}}) | 473 | 612 | 77.3 | /mnt/stockage/packages/f40/gnome-do/po/sc.po | 
- | [sl]({{< ref "/f40/language/sl.md" >}}) | 473 | 612 | 77.3 | /mnt/stockage/packages/f40/gnome-do/po/sl.po | 
- | [vi]({{< ref "/f40/language/vi.md" >}}) | 473 | 612 | 77.3 | /mnt/stockage/packages/f40/gnome-do/po/vi.po | 
- | [kk]({{< ref "/f40/language/kk.md" >}}) | 464 | 612 | 75.8 | /mnt/stockage/packages/f40/gnome-do/po/kk.po | 
- | [gu]({{< ref "/f40/language/gu.md" >}}) | 415 | 612 | 67.8 | /mnt/stockage/packages/f40/gnome-do/po/gu.po | 
- | [ta]({{< ref "/f40/language/ta.md" >}}) | 399 | 612 | 65.2 | /mnt/stockage/packages/f40/gnome-do/po/ta.po | 
- | [ja]({{< ref "/f40/language/ja.md" >}}) | 392 | 612 | 64.1 | /mnt/stockage/packages/f40/gnome-do/po/ja.po | 
- | [tl]({{< ref "/f40/language/tl.md" >}}) | 377 | 612 | 61.6 | /mnt/stockage/packages/f40/gnome-do/po/tl.po | 
- | [fo]({{< ref "/f40/language/fo.md" >}}) | 365 | 612 | 59.6 | /mnt/stockage/packages/f40/gnome-do/po/fo.po | 
- | [hr]({{< ref "/f40/language/hr.md" >}}) | 361 | 612 | 59.0 | /mnt/stockage/packages/f40/gnome-do/po/hr.po | 
- | [lt]({{< ref "/f40/language/lt.md" >}}) | 314 | 612 | 51.3 | /mnt/stockage/packages/f40/gnome-do/po/lt.po | 
- | [sr_Latn]({{< ref "/f40/language/sr_Latn.md" >}}) | 292 | 612 | 47.7 | /mnt/stockage/packages/f40/gnome-do/po/sr@latin.po | 
- | [ml]({{< ref "/f40/language/ml.md" >}}) | 273 | 612 | 44.6 | /mnt/stockage/packages/f40/gnome-do/po/ml.po | 
- | [sr]({{< ref "/f40/language/sr.md" >}}) | 234 | 612 | 38.2 | /mnt/stockage/packages/f40/gnome-do/po/sr.po | 
- | [pa]({{< ref "/f40/language/pa.md" >}}) | 207 | 612 | 33.8 | /mnt/stockage/packages/f40/gnome-do/po/pa.po | 
- | [te]({{< ref "/f40/language/te.md" >}}) | 205 | 612 | 33.5 | /mnt/stockage/packages/f40/gnome-do/po/te.po | 
- | [th]({{< ref "/f40/language/th.md" >}}) | 183 | 612 | 29.9 | /mnt/stockage/packages/f40/gnome-do/po/th.po | 
- | [mk]({{< ref "/f40/language/mk.md" >}}) | 168 | 612 | 27.5 | /mnt/stockage/packages/f40/gnome-do/po/mk.po | 
- | [dv]({{< ref "/f40/language/dv.md" >}}) | 162 | 612 | 26.5 | /mnt/stockage/packages/f40/gnome-do/po/dv.po | 
- | [nds]({{< ref "/f40/language/nds.md" >}}) | 151 | 612 | 24.7 | /mnt/stockage/packages/f40/gnome-do/po/nds.po | 
- | [kn]({{< ref "/f40/language/kn.md" >}}) | 139 | 612 | 22.7 | /mnt/stockage/packages/f40/gnome-do/po/kn.po | 
- | [zh_Hant_HK]({{< ref "/f40/language/zh_Hant_HK.md" >}}) | 137 | 612 | 22.4 | /mnt/stockage/packages/f40/gnome-do/po/zh_HK.po | 
- | [fy]({{< ref "/f40/language/fy.md" >}}) | 136 | 612 | 22.2 | /mnt/stockage/packages/f40/gnome-do/po/fy.po | 
- | [sq]({{< ref "/f40/language/sq.md" >}}) | 132 | 612 | 21.6 | /mnt/stockage/packages/f40/gnome-do/po/sq.po | 
- | [az]({{< ref "/f40/language/az.md" >}}) | 128 | 612 | 20.9 | /mnt/stockage/packages/f40/gnome-do/po/az.po | 
- | [si]({{< ref "/f40/language/si.md" >}}) | 109 | 612 | 17.8 | /mnt/stockage/packages/f40/gnome-do/po/si.po | 
- | [br]({{< ref "/f40/language/br.md" >}}) | 95 | 612 | 15.5 | /mnt/stockage/packages/f40/gnome-do/po/br.po | 
- | [tet]({{< ref "/f40/language/tet.md" >}}) | 87 | 612 | 14.2 | /mnt/stockage/packages/f40/gnome-do/po/tet.po | 
- | [mt]({{< ref "/f40/language/mt.md" >}}) | 62 | 612 | 10.1 | /mnt/stockage/packages/f40/gnome-do/po/mt.po | 
- | [eo]({{< ref "/f40/language/eo.md" >}}) | 60 | 612 | 9.8 | /mnt/stockage/packages/f40/gnome-do/po/eo.po | 
- | [nap]({{< ref "/f40/language/nap.md" >}}) | 37 | 612 | 6.0 | /mnt/stockage/packages/f40/gnome-do/po/nap.po | 
- | [be]({{< ref "/f40/language/be.md" >}}) | 35 | 612 | 5.7 | /mnt/stockage/packages/f40/gnome-do/po/be.po | 
- | [cy]({{< ref "/f40/language/cy.md" >}}) | 33 | 612 | 5.4 | /mnt/stockage/packages/f40/gnome-do/po/cy.po | 
- | [ka]({{< ref "/f40/language/ka.md" >}}) | 32 | 612 | 5.2 | /mnt/stockage/packages/f40/gnome-do/po/ka.po | 
- | [jv]({{< ref "/f40/language/jv.md" >}}) | 29 | 612 | 4.7 | /mnt/stockage/packages/f40/gnome-do/po/jv.po | 
- | [ne]({{< ref "/f40/language/ne.md" >}}) | 27 | 612 | 4.4 | /mnt/stockage/packages/f40/gnome-do/po/ne.po | 
- | [ur]({{< ref "/f40/language/ur.md" >}}) | 22 | 612 | 3.6 | /mnt/stockage/packages/f40/gnome-do/po/ur.po | 
- | [ltg]({{< ref "/f40/language/ltg.md" >}}) | 19 | 612 | 3.1 | /mnt/stockage/packages/f40/gnome-do/po/ltg.po | 
- | [sw]({{< ref "/f40/language/sw.md" >}}) | 16 | 612 | 2.6 | /mnt/stockage/packages/f40/gnome-do/po/sw.po | 
- | [uz]({{< ref "/f40/language/uz.md" >}}) | 6 | 612 | 1.0 | /mnt/stockage/packages/f40/gnome-do/po/uz.po | 
- | [bn]({{< ref "/f40/language/bn.md" >}}) | 4 | 612 | 0.7 | /mnt/stockage/packages/f40/gnome-do/po/bn.po | 
- | [ga]({{< ref "/f40/language/ga.md" >}}) | 4 | 612 | 0.7 | /mnt/stockage/packages/f40/gnome-do/po/ga.po | 
- | [tyv]({{< ref "/f40/language/tyv.md" >}}) | 4 | 612 | 0.7 | /mnt/stockage/packages/f40/gnome-do/po/tyv.po | 
- | [am]({{< ref "/f40/language/am.md" >}}) | 0 | 612 | 0.0 | /mnt/stockage/packages/f40/gnome-do/po/am.po | 
- | [ia]({{< ref "/f40/language/ia.md" >}}) | 0 | 612 | 0.0 | /mnt/stockage/packages/f40/gnome-do/po/ia.po | 
- | [iu]({{< ref "/f40/language/iu.md" >}}) | 0 | 612 | 0.0 | /mnt/stockage/packages/f40/gnome-do/po/iu.po | 
- | [nan_Hant]({{< ref "/f40/language/nan_Hant.md" >}}) | 0 | 612 | 0.0 | /mnt/stockage/packages/f40/gnome-do/po/nan.po | 
+ | [ar](/f40/language/ar) | 612 | 612 | 100.0 | /mnt/stockage/packages/f40/gnome-do/po/ar.po | 
+ | [ca](/f40/language/ca) | 612 | 612 | 100.0 | /mnt/stockage/packages/f40/gnome-do/po/ca.po | 
+ | [de](/f40/language/de) | 612 | 612 | 100.0 | /mnt/stockage/packages/f40/gnome-do/po/de.po | 
+ | [en_AU](/f40/language/en_AU) | 612 | 612 | 100.0 | /mnt/stockage/packages/f40/gnome-do/po/en_AU.po | 
+ | [en_CA](/f40/language/en_CA) | 612 | 612 | 100.0 | /mnt/stockage/packages/f40/gnome-do/po/en_CA.po | 
+ | [en_GB](/f40/language/en_GB) | 612 | 612 | 100.0 | /mnt/stockage/packages/f40/gnome-do/po/en_GB.po | 
+ | [es](/f40/language/es) | 612 | 612 | 100.0 | /mnt/stockage/packages/f40/gnome-do/po/es.po | 
+ | [eu](/f40/language/eu) | 612 | 612 | 100.0 | /mnt/stockage/packages/f40/gnome-do/po/eu.po | 
+ | [fi](/f40/language/fi) | 612 | 612 | 100.0 | /mnt/stockage/packages/f40/gnome-do/po/fi.po | 
+ | [fr](/f40/language/fr) | 612 | 612 | 100.0 | /mnt/stockage/packages/f40/gnome-do/po/fr.po | 
+ | [it](/f40/language/it) | 612 | 612 | 100.0 | /mnt/stockage/packages/f40/gnome-do/po/it.po | 
+ | [lv](/f40/language/lv) | 612 | 612 | 100.0 | /mnt/stockage/packages/f40/gnome-do/po/lv.po | 
+ | [ms](/f40/language/ms) | 612 | 612 | 100.0 | /mnt/stockage/packages/f40/gnome-do/po/ms.po | 
+ | [my](/f40/language/my) | 612 | 612 | 100.0 | /mnt/stockage/packages/f40/gnome-do/po/my.po | 
+ | [nl](/f40/language/nl) | 612 | 612 | 100.0 | /mnt/stockage/packages/f40/gnome-do/po/nl.po | 
+ | [pl](/f40/language/pl) | 612 | 612 | 100.0 | /mnt/stockage/packages/f40/gnome-do/po/pl.po | 
+ | [pt](/f40/language/pt) | 612 | 612 | 100.0 | /mnt/stockage/packages/f40/gnome-do/po/pt.po | 
+ | [pt_BR](/f40/language/pt_BR) | 612 | 612 | 100.0 | /mnt/stockage/packages/f40/gnome-do/po/pt_BR.po | 
+ | [ro](/f40/language/ro) | 612 | 612 | 100.0 | /mnt/stockage/packages/f40/gnome-do/po/ro.po | 
+ | [ru](/f40/language/ru) | 612 | 612 | 100.0 | /mnt/stockage/packages/f40/gnome-do/po/ru.po | 
+ | [sk](/f40/language/sk) | 612 | 612 | 100.0 | /mnt/stockage/packages/f40/gnome-do/po/sk.po | 
+ | [uk](/f40/language/uk) | 612 | 612 | 100.0 | /mnt/stockage/packages/f40/gnome-do/po/uk.po | 
+ | [ko](/f40/language/ko) | 599 | 612 | 97.9 | /mnt/stockage/packages/f40/gnome-do/po/ko.po | 
+ | [cs](/f40/language/cs) | 597 | 612 | 97.5 | /mnt/stockage/packages/f40/gnome-do/po/cs.po | 
+ | [tr](/f40/language/tr) | 566 | 612 | 92.5 | /mnt/stockage/packages/f40/gnome-do/po/tr.po | 
+ | [zh_Hans](/f40/language/zh_Hans) | 556 | 612 | 90.8 | /mnt/stockage/packages/f40/gnome-do/po/zh_CN.po | 
+ | [sv](/f40/language/sv) | 546 | 612 | 89.2 | /mnt/stockage/packages/f40/gnome-do/po/sv.po | 
+ | [bg](/f40/language/bg) | 517 | 612 | 84.5 | /mnt/stockage/packages/f40/gnome-do/po/bg.po | 
+ | [oc](/f40/language/oc) | 517 | 612 | 84.5 | /mnt/stockage/packages/f40/gnome-do/po/oc.po | 
+ | [zh_Hant](/f40/language/zh_Hant) | 505 | 612 | 82.5 | /mnt/stockage/packages/f40/gnome-do/po/zh_TW.po | 
+ | [ast](/f40/language/ast) | 490 | 612 | 80.1 | /mnt/stockage/packages/f40/gnome-do/po/ast.po | 
+ | [el](/f40/language/el) | 483 | 612 | 78.9 | /mnt/stockage/packages/f40/gnome-do/po/el.po | 
+ | [hi](/f40/language/hi) | 482 | 612 | 78.8 | /mnt/stockage/packages/f40/gnome-do/po/hi.po | 
+ | [af](/f40/language/af) | 473 | 612 | 77.3 | /mnt/stockage/packages/f40/gnome-do/po/af.po | 
+ | [bs](/f40/language/bs) | 473 | 612 | 77.3 | /mnt/stockage/packages/f40/gnome-do/po/bs.po | 
+ | [da](/f40/language/da) | 473 | 612 | 77.3 | /mnt/stockage/packages/f40/gnome-do/po/da.po | 
+ | [et](/f40/language/et) | 473 | 612 | 77.3 | /mnt/stockage/packages/f40/gnome-do/po/et.po | 
+ | [fa](/f40/language/fa) | 473 | 612 | 77.3 | /mnt/stockage/packages/f40/gnome-do/po/fa.po | 
+ | [gl](/f40/language/gl) | 473 | 612 | 77.3 | /mnt/stockage/packages/f40/gnome-do/po/gl.po | 
+ | [he](/f40/language/he) | 473 | 612 | 77.3 | /mnt/stockage/packages/f40/gnome-do/po/he.po | 
+ | [hu](/f40/language/hu) | 473 | 612 | 77.3 | /mnt/stockage/packages/f40/gnome-do/po/hu.po | 
+ | [id](/f40/language/id) | 473 | 612 | 77.3 | /mnt/stockage/packages/f40/gnome-do/po/id.po | 
+ | [is](/f40/language/is) | 473 | 612 | 77.3 | /mnt/stockage/packages/f40/gnome-do/po/is.po | 
+ | [lb](/f40/language/lb) | 473 | 612 | 77.3 | /mnt/stockage/packages/f40/gnome-do/po/lb.po | 
+ | [mr](/f40/language/mr) | 473 | 612 | 77.3 | /mnt/stockage/packages/f40/gnome-do/po/mr.po | 
+ | [nb_NO](/f40/language/nb_NO) | 473 | 612 | 77.3 | /mnt/stockage/packages/f40/gnome-do/po/nb.po | 
+ | [nn](/f40/language/nn) | 473 | 612 | 77.3 | /mnt/stockage/packages/f40/gnome-do/po/nn.po | 
+ | [sc](/f40/language/sc) | 473 | 612 | 77.3 | /mnt/stockage/packages/f40/gnome-do/po/sc.po | 
+ | [sl](/f40/language/sl) | 473 | 612 | 77.3 | /mnt/stockage/packages/f40/gnome-do/po/sl.po | 
+ | [vi](/f40/language/vi) | 473 | 612 | 77.3 | /mnt/stockage/packages/f40/gnome-do/po/vi.po | 
+ | [kk](/f40/language/kk) | 464 | 612 | 75.8 | /mnt/stockage/packages/f40/gnome-do/po/kk.po | 
+ | [gu](/f40/language/gu) | 415 | 612 | 67.8 | /mnt/stockage/packages/f40/gnome-do/po/gu.po | 
+ | [ta](/f40/language/ta) | 399 | 612 | 65.2 | /mnt/stockage/packages/f40/gnome-do/po/ta.po | 
+ | [ja](/f40/language/ja) | 392 | 612 | 64.1 | /mnt/stockage/packages/f40/gnome-do/po/ja.po | 
+ | [tl](/f40/language/tl) | 377 | 612 | 61.6 | /mnt/stockage/packages/f40/gnome-do/po/tl.po | 
+ | [fo](/f40/language/fo) | 365 | 612 | 59.6 | /mnt/stockage/packages/f40/gnome-do/po/fo.po | 
+ | [hr](/f40/language/hr) | 361 | 612 | 59.0 | /mnt/stockage/packages/f40/gnome-do/po/hr.po | 
+ | [lt](/f40/language/lt) | 314 | 612 | 51.3 | /mnt/stockage/packages/f40/gnome-do/po/lt.po | 
+ | [sr_Latn](/f40/language/sr_Latn) | 292 | 612 | 47.7 | /mnt/stockage/packages/f40/gnome-do/po/sr@latin.po | 
+ | [ml](/f40/language/ml) | 273 | 612 | 44.6 | /mnt/stockage/packages/f40/gnome-do/po/ml.po | 
+ | [sr](/f40/language/sr) | 234 | 612 | 38.2 | /mnt/stockage/packages/f40/gnome-do/po/sr.po | 
+ | [pa](/f40/language/pa) | 207 | 612 | 33.8 | /mnt/stockage/packages/f40/gnome-do/po/pa.po | 
+ | [te](/f40/language/te) | 205 | 612 | 33.5 | /mnt/stockage/packages/f40/gnome-do/po/te.po | 
+ | [th](/f40/language/th) | 183 | 612 | 29.9 | /mnt/stockage/packages/f40/gnome-do/po/th.po | 
+ | [mk](/f40/language/mk) | 168 | 612 | 27.5 | /mnt/stockage/packages/f40/gnome-do/po/mk.po | 
+ | [dv](/f40/language/dv) | 162 | 612 | 26.5 | /mnt/stockage/packages/f40/gnome-do/po/dv.po | 
+ | [nds](/f40/language/nds) | 151 | 612 | 24.7 | /mnt/stockage/packages/f40/gnome-do/po/nds.po | 
+ | [kn](/f40/language/kn) | 139 | 612 | 22.7 | /mnt/stockage/packages/f40/gnome-do/po/kn.po | 
+ | [zh_Hant_HK](/f40/language/zh_Hant_HK) | 137 | 612 | 22.4 | /mnt/stockage/packages/f40/gnome-do/po/zh_HK.po | 
+ | [fy](/f40/language/fy) | 136 | 612 | 22.2 | /mnt/stockage/packages/f40/gnome-do/po/fy.po | 
+ | [sq](/f40/language/sq) | 132 | 612 | 21.6 | /mnt/stockage/packages/f40/gnome-do/po/sq.po | 
+ | [az](/f40/language/az) | 128 | 612 | 20.9 | /mnt/stockage/packages/f40/gnome-do/po/az.po | 
+ | [si](/f40/language/si) | 109 | 612 | 17.8 | /mnt/stockage/packages/f40/gnome-do/po/si.po | 
+ | [br](/f40/language/br) | 95 | 612 | 15.5 | /mnt/stockage/packages/f40/gnome-do/po/br.po | 
+ | [tet](/f40/language/tet) | 87 | 612 | 14.2 | /mnt/stockage/packages/f40/gnome-do/po/tet.po | 
+ | [mt](/f40/language/mt) | 62 | 612 | 10.1 | /mnt/stockage/packages/f40/gnome-do/po/mt.po | 
+ | [eo](/f40/language/eo) | 60 | 612 | 9.8 | /mnt/stockage/packages/f40/gnome-do/po/eo.po | 
+ | [nap](/f40/language/nap) | 37 | 612 | 6.0 | /mnt/stockage/packages/f40/gnome-do/po/nap.po | 
+ | [be](/f40/language/be) | 35 | 612 | 5.7 | /mnt/stockage/packages/f40/gnome-do/po/be.po | 
+ | [cy](/f40/language/cy) | 33 | 612 | 5.4 | /mnt/stockage/packages/f40/gnome-do/po/cy.po | 
+ | [ka](/f40/language/ka) | 32 | 612 | 5.2 | /mnt/stockage/packages/f40/gnome-do/po/ka.po | 
+ | [jv](/f40/language/jv) | 29 | 612 | 4.7 | /mnt/stockage/packages/f40/gnome-do/po/jv.po | 
+ | [ne](/f40/language/ne) | 27 | 612 | 4.4 | /mnt/stockage/packages/f40/gnome-do/po/ne.po | 
+ | [ur](/f40/language/ur) | 22 | 612 | 3.6 | /mnt/stockage/packages/f40/gnome-do/po/ur.po | 
+ | [ltg](/f40/language/ltg) | 19 | 612 | 3.1 | /mnt/stockage/packages/f40/gnome-do/po/ltg.po | 
+ | [sw](/f40/language/sw) | 16 | 612 | 2.6 | /mnt/stockage/packages/f40/gnome-do/po/sw.po | 
+ | [uz](/f40/language/uz) | 6 | 612 | 1.0 | /mnt/stockage/packages/f40/gnome-do/po/uz.po | 
+ | [bn](/f40/language/bn) | 4 | 612 | 0.7 | /mnt/stockage/packages/f40/gnome-do/po/bn.po | 
+ | [ga](/f40/language/ga) | 4 | 612 | 0.7 | /mnt/stockage/packages/f40/gnome-do/po/ga.po | 
+ | [tyv](/f40/language/tyv) | 4 | 612 | 0.7 | /mnt/stockage/packages/f40/gnome-do/po/tyv.po | 
+ | [am](/f40/language/am) | 0 | 612 | 0.0 | /mnt/stockage/packages/f40/gnome-do/po/am.po | 
+ | [ia](/f40/language/ia) | 0 | 612 | 0.0 | /mnt/stockage/packages/f40/gnome-do/po/ia.po | 
+ | [iu](/f40/language/iu) | 0 | 612 | 0.0 | /mnt/stockage/packages/f40/gnome-do/po/iu.po | 
+ | [nan_Hant](/f40/language/nan_Hant) | 0 | 612 | 0.0 | /mnt/stockage/packages/f40/gnome-do/po/nan.po | 
 {.sortable}
 
 

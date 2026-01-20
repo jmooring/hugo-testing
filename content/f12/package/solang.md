@@ -18,12 +18,12 @@ The package solang (version 0.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [bg]({{< ref "/f12/language/bg.md" >}}) | 394 | 394 | 100.0 | /mnt/stockage/packages/f12/solang/po/bg.po | 
- | [fr]({{< ref "/f12/language/fr.md" >}}) | 395 | 395 | 100.0 | /mnt/stockage/packages/f12/solang/po/fr.po | 
- | [it]({{< ref "/f12/language/it.md" >}}) | 379 | 379 | 100.0 | /mnt/stockage/packages/f12/solang/po/it.po | 
- | [pl]({{< ref "/f12/language/pl.md" >}}) | 473 | 473 | 100.0 | /mnt/stockage/packages/f12/solang/po/pl.po | 
- | [he]({{< ref "/f12/language/he.md" >}}) | 354 | 360 | 98.3 | /mnt/stockage/packages/f12/solang/po/he.po | 
- | [en]({{< ref "/f12/language/en.md" >}}) | 69 | 473 | 14.6 | /mnt/stockage/packages/f12/solang/po/bn_IN.po | 
+ | [bg](/f12/language/bg) | 394 | 394 | 100.0 | /mnt/stockage/packages/f12/solang/po/bg.po | 
+ | [fr](/f12/language/fr) | 395 | 395 | 100.0 | /mnt/stockage/packages/f12/solang/po/fr.po | 
+ | [it](/f12/language/it) | 379 | 379 | 100.0 | /mnt/stockage/packages/f12/solang/po/it.po | 
+ | [pl](/f12/language/pl) | 473 | 473 | 100.0 | /mnt/stockage/packages/f12/solang/po/pl.po | 
+ | [he](/f12/language/he) | 354 | 360 | 98.3 | /mnt/stockage/packages/f12/solang/po/he.po | 
+ | [en](/f12/language/en) | 69 | 473 | 14.6 | /mnt/stockage/packages/f12/solang/po/bn_IN.po | 
 {.sortable}
 
 

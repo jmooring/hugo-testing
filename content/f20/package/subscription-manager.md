@@ -18,27 +18,27 @@ The package subscription-manager (version 1.15.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f20/language/de.md" >}}) | 5265 | 5265 | 100.0 | /mnt/stockage/packages/f20/subscription-manager/po/de_DE.po | 
- | [es]({{< ref "/f20/language/es.md" >}}) | 5265 | 5265 | 100.0 | /mnt/stockage/packages/f20/subscription-manager/po/es_ES.po | 
- | [fr]({{< ref "/f20/language/fr.md" >}}) | 5265 | 5265 | 100.0 | /mnt/stockage/packages/f20/subscription-manager/po/fr.po | 
- | [it]({{< ref "/f20/language/it.md" >}}) | 5265 | 5265 | 100.0 | /mnt/stockage/packages/f20/subscription-manager/po/it.po | 
- | [ja]({{< ref "/f20/language/ja.md" >}}) | 5265 | 5265 | 100.0 | /mnt/stockage/packages/f20/subscription-manager/po/ja.po | 
- | [ko]({{< ref "/f20/language/ko.md" >}}) | 5265 | 5265 | 100.0 | /mnt/stockage/packages/f20/subscription-manager/po/ko.po | 
- | [pt_BR]({{< ref "/f20/language/pt_BR.md" >}}) | 5265 | 5265 | 100.0 | /mnt/stockage/packages/f20/subscription-manager/po/pt_BR.po | 
- | [ru]({{< ref "/f20/language/ru.md" >}}) | 5265 | 5265 | 100.0 | /mnt/stockage/packages/f20/subscription-manager/po/ru.po | 
- | [zh_Hans]({{< ref "/f20/language/zh_Hans.md" >}}) | 5265 | 5265 | 100.0 | /mnt/stockage/packages/f20/subscription-manager/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f20/language/zh_Hant.md" >}}) | 5265 | 5265 | 100.0 | /mnt/stockage/packages/f20/subscription-manager/po/zh_TW.po | 
- | [bn_IN]({{< ref "/f20/language/bn_IN.md" >}}) | 5071 | 5265 | 96.3 | /mnt/stockage/packages/f20/subscription-manager/po/bn_IN.po | 
- | [gu]({{< ref "/f20/language/gu.md" >}}) | 5071 | 5265 | 96.3 | /mnt/stockage/packages/f20/subscription-manager/po/gu.po | 
- | [hi]({{< ref "/f20/language/hi.md" >}}) | 5071 | 5265 | 96.3 | /mnt/stockage/packages/f20/subscription-manager/po/hi.po | 
- | [kn]({{< ref "/f20/language/kn.md" >}}) | 5071 | 5265 | 96.3 | /mnt/stockage/packages/f20/subscription-manager/po/kn.po | 
- | [ml]({{< ref "/f20/language/ml.md" >}}) | 5071 | 5265 | 96.3 | /mnt/stockage/packages/f20/subscription-manager/po/ml.po | 
- | [mr]({{< ref "/f20/language/mr.md" >}}) | 5071 | 5265 | 96.3 | /mnt/stockage/packages/f20/subscription-manager/po/mr.po | 
- | [or]({{< ref "/f20/language/or.md" >}}) | 5071 | 5265 | 96.3 | /mnt/stockage/packages/f20/subscription-manager/po/or.po | 
- | [ta]({{< ref "/f20/language/ta.md" >}}) | 5071 | 5265 | 96.3 | /mnt/stockage/packages/f20/subscription-manager/po/ta_IN.po | 
- | [te]({{< ref "/f20/language/te.md" >}}) | 5071 | 5265 | 96.3 | /mnt/stockage/packages/f20/subscription-manager/po/te.po | 
- | [as]({{< ref "/f20/language/as.md" >}}) | 4776 | 5265 | 90.7 | /mnt/stockage/packages/f20/subscription-manager/po/as.po | 
- | [pa]({{< ref "/f20/language/pa.md" >}}) | 4325 | 5265 | 82.1 | /mnt/stockage/packages/f20/subscription-manager/po/pa.po | 
+ | [de](/f20/language/de) | 5265 | 5265 | 100.0 | /mnt/stockage/packages/f20/subscription-manager/po/de_DE.po | 
+ | [es](/f20/language/es) | 5265 | 5265 | 100.0 | /mnt/stockage/packages/f20/subscription-manager/po/es_ES.po | 
+ | [fr](/f20/language/fr) | 5265 | 5265 | 100.0 | /mnt/stockage/packages/f20/subscription-manager/po/fr.po | 
+ | [it](/f20/language/it) | 5265 | 5265 | 100.0 | /mnt/stockage/packages/f20/subscription-manager/po/it.po | 
+ | [ja](/f20/language/ja) | 5265 | 5265 | 100.0 | /mnt/stockage/packages/f20/subscription-manager/po/ja.po | 
+ | [ko](/f20/language/ko) | 5265 | 5265 | 100.0 | /mnt/stockage/packages/f20/subscription-manager/po/ko.po | 
+ | [pt_BR](/f20/language/pt_BR) | 5265 | 5265 | 100.0 | /mnt/stockage/packages/f20/subscription-manager/po/pt_BR.po | 
+ | [ru](/f20/language/ru) | 5265 | 5265 | 100.0 | /mnt/stockage/packages/f20/subscription-manager/po/ru.po | 
+ | [zh_Hans](/f20/language/zh_Hans) | 5265 | 5265 | 100.0 | /mnt/stockage/packages/f20/subscription-manager/po/zh_CN.po | 
+ | [zh_Hant](/f20/language/zh_Hant) | 5265 | 5265 | 100.0 | /mnt/stockage/packages/f20/subscription-manager/po/zh_TW.po | 
+ | [bn_IN](/f20/language/bn_IN) | 5071 | 5265 | 96.3 | /mnt/stockage/packages/f20/subscription-manager/po/bn_IN.po | 
+ | [gu](/f20/language/gu) | 5071 | 5265 | 96.3 | /mnt/stockage/packages/f20/subscription-manager/po/gu.po | 
+ | [hi](/f20/language/hi) | 5071 | 5265 | 96.3 | /mnt/stockage/packages/f20/subscription-manager/po/hi.po | 
+ | [kn](/f20/language/kn) | 5071 | 5265 | 96.3 | /mnt/stockage/packages/f20/subscription-manager/po/kn.po | 
+ | [ml](/f20/language/ml) | 5071 | 5265 | 96.3 | /mnt/stockage/packages/f20/subscription-manager/po/ml.po | 
+ | [mr](/f20/language/mr) | 5071 | 5265 | 96.3 | /mnt/stockage/packages/f20/subscription-manager/po/mr.po | 
+ | [or](/f20/language/or) | 5071 | 5265 | 96.3 | /mnt/stockage/packages/f20/subscription-manager/po/or.po | 
+ | [ta](/f20/language/ta) | 5071 | 5265 | 96.3 | /mnt/stockage/packages/f20/subscription-manager/po/ta_IN.po | 
+ | [te](/f20/language/te) | 5071 | 5265 | 96.3 | /mnt/stockage/packages/f20/subscription-manager/po/te.po | 
+ | [as](/f20/language/as) | 4776 | 5265 | 90.7 | /mnt/stockage/packages/f20/subscription-manager/po/as.po | 
+ | [pa](/f20/language/pa) | 4325 | 5265 | 82.1 | /mnt/stockage/packages/f20/subscription-manager/po/pa.po | 
 {.sortable}
 
 

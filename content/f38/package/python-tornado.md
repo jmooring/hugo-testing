@@ -18,7 +18,7 @@ The package python-tornado (version 6.2.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f38/language/fr.md" >}}) | 7 | 7 | 100.0 | /mnt/stockage/packages/f38/python-tornado/tornado/test/gettext_translations/fr_FR/LC_MESSAGES/tornado_test.po | 
+ | [fr](/f38/language/fr) | 7 | 7 | 100.0 | /mnt/stockage/packages/f38/python-tornado/tornado/test/gettext_translations/fr_FR/LC_MESSAGES/tornado_test.po | 
 {.sortable}
 
 

@@ -18,19 +18,19 @@ The package cherokee (version 1.2.103):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f22/language/ca.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f22/cherokee/po/admin/ca.po | 
- | [de]({{< ref "/f22/language/de.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f22/cherokee/po/admin/de.po | 
- | [en]({{< ref "/f22/language/en.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f22/cherokee/po/admin/en.po | 
- | [es]({{< ref "/f22/language/es.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f22/cherokee/po/admin/es.po | 
- | [fr]({{< ref "/f22/language/fr.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f22/cherokee/po/admin/fr.po | 
- | [gl]({{< ref "/f22/language/gl.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f22/cherokee/po/admin/gl.po | 
- | [it]({{< ref "/f22/language/it.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f22/cherokee/po/admin/it.po | 
- | [ja]({{< ref "/f22/language/ja.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f22/cherokee/po/admin/jp.po | 
- | [nl]({{< ref "/f22/language/nl.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f22/cherokee/po/admin/nl.po | 
- | [pl]({{< ref "/f22/language/pl.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f22/cherokee/po/admin/pl.po | 
- | [pt_BR]({{< ref "/f22/language/pt_BR.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f22/cherokee/po/admin/pt_BR.po | 
- | [sv]({{< ref "/f22/language/sv.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f22/cherokee/po/admin/sv_SE.po | 
- | [zh_Hans]({{< ref "/f22/language/zh_Hans.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f22/cherokee/po/admin/zh_CN.po | 
+ | [ca](/f22/language/ca) | 0 | 0 | 0.0 | /mnt/stockage/packages/f22/cherokee/po/admin/ca.po | 
+ | [de](/f22/language/de) | 0 | 0 | 0.0 | /mnt/stockage/packages/f22/cherokee/po/admin/de.po | 
+ | [en](/f22/language/en) | 0 | 0 | 0.0 | /mnt/stockage/packages/f22/cherokee/po/admin/en.po | 
+ | [es](/f22/language/es) | 0 | 0 | 0.0 | /mnt/stockage/packages/f22/cherokee/po/admin/es.po | 
+ | [fr](/f22/language/fr) | 0 | 0 | 0.0 | /mnt/stockage/packages/f22/cherokee/po/admin/fr.po | 
+ | [gl](/f22/language/gl) | 0 | 0 | 0.0 | /mnt/stockage/packages/f22/cherokee/po/admin/gl.po | 
+ | [it](/f22/language/it) | 0 | 0 | 0.0 | /mnt/stockage/packages/f22/cherokee/po/admin/it.po | 
+ | [ja](/f22/language/ja) | 0 | 0 | 0.0 | /mnt/stockage/packages/f22/cherokee/po/admin/jp.po | 
+ | [nl](/f22/language/nl) | 0 | 0 | 0.0 | /mnt/stockage/packages/f22/cherokee/po/admin/nl.po | 
+ | [pl](/f22/language/pl) | 0 | 0 | 0.0 | /mnt/stockage/packages/f22/cherokee/po/admin/pl.po | 
+ | [pt_BR](/f22/language/pt_BR) | 0 | 0 | 0.0 | /mnt/stockage/packages/f22/cherokee/po/admin/pt_BR.po | 
+ | [sv](/f22/language/sv) | 0 | 0 | 0.0 | /mnt/stockage/packages/f22/cherokee/po/admin/sv_SE.po | 
+ | [zh_Hans](/f22/language/zh_Hans) | 0 | 0 | 0.0 | /mnt/stockage/packages/f22/cherokee/po/admin/zh_CN.po | 
 {.sortable}
 
 

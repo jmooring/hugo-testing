@@ -18,9 +18,9 @@ The package gnome-shell-extension-panel-osd (version 1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f22/language/de.md" >}}) | 76 | 76 | 100.0 | /mnt/stockage/packages/f22/gnome-shell-extension-panel-osd/po/de.po | 
- | [pt_BR]({{< ref "/f22/language/pt_BR.md" >}}) | 76 | 76 | 100.0 | /mnt/stockage/packages/f22/gnome-shell-extension-panel-osd/po/pt_BR.po | 
- | [zh_Hans]({{< ref "/f22/language/zh_Hans.md" >}}) | 76 | 76 | 100.0 | /mnt/stockage/packages/f22/gnome-shell-extension-panel-osd/po/zh_CN.po | 
+ | [de](/f22/language/de) | 76 | 76 | 100.0 | /mnt/stockage/packages/f22/gnome-shell-extension-panel-osd/po/de.po | 
+ | [pt_BR](/f22/language/pt_BR) | 76 | 76 | 100.0 | /mnt/stockage/packages/f22/gnome-shell-extension-panel-osd/po/pt_BR.po | 
+ | [zh_Hans](/f22/language/zh_Hans) | 76 | 76 | 100.0 | /mnt/stockage/packages/f22/gnome-shell-extension-panel-osd/po/zh_CN.po | 
 {.sortable}
 
 

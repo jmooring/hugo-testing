@@ -38,9 +38,9 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [ruby-gettext-package]({{< ref "/f7/package/ruby-gettext-package.md" >}}) | 4 | 4 | 100.0 | LANGUAGE <LL@li.org> | 
- | [wesnoth]({{< ref "/f7/package/wesnoth.md" >}}) | 40691 | 119067 | 34.2 | Latin | 
- | [deluge]({{< ref "/f7/package/deluge.md" >}}) | 28 | 2352 | 1.2 | Latin <la@li.org> | 
+ | [ruby-gettext-package](/f7/package/ruby-gettext-package) | 4 | 4 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [wesnoth](/f7/package/wesnoth) | 40691 | 119067 | 34.2 | Latin | 
+ | [deluge](/f7/package/deluge) | 28 | 2352 | 1.2 | Latin <la@li.org> | 
 {.sortable}
 
 

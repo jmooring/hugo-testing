@@ -18,47 +18,47 @@ The package gnome-commander (version 1.2.8.15):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f15/language/cs.md" >}}) | 8392 | 8392 | 100.0 | /mnt/stockage/packages/f15/gnome-commander/po/cs.po | 
- | [de]({{< ref "/f15/language/de.md" >}}) | 25023 | 25023 | 100.0 | /mnt/stockage/packages/f15/gnome-commander/doc/de/de.po/mnt/stockage/packages/f15/gnome-commander/po/de.po | 
- | [en_GB]({{< ref "/f15/language/en_GB.md" >}}) | 7928 | 7928 | 100.0 | /mnt/stockage/packages/f15/gnome-commander/po/en_GB.po | 
- | [es]({{< ref "/f15/language/es.md" >}}) | 25018 | 25018 | 100.0 | /mnt/stockage/packages/f15/gnome-commander/doc/es/es.po/mnt/stockage/packages/f15/gnome-commander/po/es.po | 
- | [eu]({{< ref "/f15/language/eu.md" >}}) | 8353 | 8353 | 100.0 | /mnt/stockage/packages/f15/gnome-commander/po/eu.po | 
- | [fr]({{< ref "/f15/language/fr.md" >}}) | 25046 | 25046 | 100.0 | /mnt/stockage/packages/f15/gnome-commander/doc/fr/fr.po/mnt/stockage/packages/f15/gnome-commander/po/fr.po | 
- | [sl]({{< ref "/f15/language/sl.md" >}}) | 8330 | 8330 | 100.0 | /mnt/stockage/packages/f15/gnome-commander/po/sl.po | 
- | [it]({{< ref "/f15/language/it.md" >}}) | 8082 | 8335 | 97.0 | /mnt/stockage/packages/f15/gnome-commander/po/it.po | 
- | [dz]({{< ref "/f15/language/dz.md" >}}) | 7568 | 7896 | 95.8 | /mnt/stockage/packages/f15/gnome-commander/po/dz.po | 
- | [ar]({{< ref "/f15/language/ar.md" >}}) | 7242 | 8202 | 88.3 | /mnt/stockage/packages/f15/gnome-commander/po/ar.po | 
- | [pl]({{< ref "/f15/language/pl.md" >}}) | 6879 | 8353 | 82.4 | /mnt/stockage/packages/f15/gnome-commander/po/pl.po | 
- | [ko]({{< ref "/f15/language/ko.md" >}}) | 6694 | 8251 | 81.1 | /mnt/stockage/packages/f15/gnome-commander/po/ko.po | 
- | [sv]({{< ref "/f15/language/sv.md" >}}) | 5551 | 8362 | 66.4 | /mnt/stockage/packages/f15/gnome-commander/po/sv.po | 
- | [ro]({{< ref "/f15/language/ro.md" >}}) | 3874 | 7896 | 49.1 | /mnt/stockage/packages/f15/gnome-commander/po/ro.po | 
- | [pt_BR]({{< ref "/f15/language/pt_BR.md" >}}) | 4086 | 8357 | 48.9 | /mnt/stockage/packages/f15/gnome-commander/po/pt_BR.po | 
- | [ja]({{< ref "/f15/language/ja.md" >}}) | 3521 | 8348 | 42.2 | /mnt/stockage/packages/f15/gnome-commander/po/ja.po | 
- | [bg]({{< ref "/f15/language/bg.md" >}}) | 3269 | 7896 | 41.4 | /mnt/stockage/packages/f15/gnome-commander/po/bg.po | 
- | [fi]({{< ref "/f15/language/fi.md" >}}) | 2175 | 7927 | 27.4 | /mnt/stockage/packages/f15/gnome-commander/po/fi.po | 
- | [hu]({{< ref "/f15/language/hu.md" >}}) | 2022 | 8347 | 24.2 | /mnt/stockage/packages/f15/gnome-commander/po/hu.po | 
- | [ru]({{< ref "/f15/language/ru.md" >}}) | 1528 | 7896 | 19.4 | /mnt/stockage/packages/f15/gnome-commander/po/ru.po | 
- | [eo]({{< ref "/f15/language/eo.md" >}}) | 1530 | 8506 | 18.0 | /mnt/stockage/packages/f15/gnome-commander/po/eo.po | 
- | [vi]({{< ref "/f15/language/vi.md" >}}) | 1358 | 7896 | 17.2 | /mnt/stockage/packages/f15/gnome-commander/po/vi.po | 
- | [ne]({{< ref "/f15/language/ne.md" >}}) | 1286 | 7896 | 16.3 | /mnt/stockage/packages/f15/gnome-commander/po/ne.po | 
- | [en_CA]({{< ref "/f15/language/en_CA.md" >}}) | 1068 | 7896 | 13.5 | /mnt/stockage/packages/f15/gnome-commander/po/en_CA.po | 
- | [sk]({{< ref "/f15/language/sk.md" >}}) | 1068 | 7896 | 13.5 | /mnt/stockage/packages/f15/gnome-commander/po/sk.po | 
- | [zh_Hans]({{< ref "/f15/language/zh_Hans.md" >}}) | 1067 | 7896 | 13.5 | /mnt/stockage/packages/f15/gnome-commander/po/zh_CN.po | 
- | [nl]({{< ref "/f15/language/nl.md" >}}) | 1052 | 7896 | 13.3 | /mnt/stockage/packages/f15/gnome-commander/po/nl.po | 
- | [error]({{< ref "/f15/language/error.md" >}}) | 1044 | 7896 | 13.2 | /mnt/stockage/packages/f15/gnome-commander/po/sr@Latn.po | 
- | [hr]({{< ref "/f15/language/hr.md" >}}) | 1044 | 7896 | 13.2 | /mnt/stockage/packages/f15/gnome-commander/po/hr.po | 
- | [sr]({{< ref "/f15/language/sr.md" >}}) | 1044 | 7896 | 13.2 | /mnt/stockage/packages/f15/gnome-commander/po/sr.po | 
- | [uk]({{< ref "/f15/language/uk.md" >}}) | 1044 | 7896 | 13.2 | /mnt/stockage/packages/f15/gnome-commander/po/uk.po | 
- | [ca]({{< ref "/f15/language/ca.md" >}}) | 1029 | 7896 | 13.0 | /mnt/stockage/packages/f15/gnome-commander/po/ca.po | 
- | [pt]({{< ref "/f15/language/pt.md" >}}) | 1019 | 7896 | 12.9 | /mnt/stockage/packages/f15/gnome-commander/po/pt.po | 
- | [el]({{< ref "/f15/language/el.md" >}}) | 705 | 7896 | 8.9 | /mnt/stockage/packages/f15/gnome-commander/po/el.po | 
- | [oc]({{< ref "/f15/language/oc.md" >}}) | 602 | 8206 | 7.3 | /mnt/stockage/packages/f15/gnome-commander/po/oc.po | 
- | [zh_Hant]({{< ref "/f15/language/zh_Hant.md" >}}) | 506 | 7896 | 6.4 | /mnt/stockage/packages/f15/gnome-commander/po/zh_TW.po | 
- | [pa]({{< ref "/f15/language/pa.md" >}}) | 486 | 7896 | 6.2 | /mnt/stockage/packages/f15/gnome-commander/po/pa.po | 
- | [nb_NO]({{< ref "/f15/language/nb_NO.md" >}}) | 445 | 7896 | 5.6 | /mnt/stockage/packages/f15/gnome-commander/po/nb.po | 
- | [sq]({{< ref "/f15/language/sq.md" >}}) | 261 | 7896 | 3.3 | /mnt/stockage/packages/f15/gnome-commander/po/sq.po | 
- | [ga]({{< ref "/f15/language/ga.md" >}}) | 241 | 7896 | 3.1 | /mnt/stockage/packages/f15/gnome-commander/po/ga.po | 
- | [rw]({{< ref "/f15/language/rw.md" >}}) | 86 | 7896 | 1.1 | /mnt/stockage/packages/f15/gnome-commander/po/rw.po | 
+ | [cs](/f15/language/cs) | 8392 | 8392 | 100.0 | /mnt/stockage/packages/f15/gnome-commander/po/cs.po | 
+ | [de](/f15/language/de) | 25023 | 25023 | 100.0 | /mnt/stockage/packages/f15/gnome-commander/doc/de/de.po/mnt/stockage/packages/f15/gnome-commander/po/de.po | 
+ | [en_GB](/f15/language/en_GB) | 7928 | 7928 | 100.0 | /mnt/stockage/packages/f15/gnome-commander/po/en_GB.po | 
+ | [es](/f15/language/es) | 25018 | 25018 | 100.0 | /mnt/stockage/packages/f15/gnome-commander/doc/es/es.po/mnt/stockage/packages/f15/gnome-commander/po/es.po | 
+ | [eu](/f15/language/eu) | 8353 | 8353 | 100.0 | /mnt/stockage/packages/f15/gnome-commander/po/eu.po | 
+ | [fr](/f15/language/fr) | 25046 | 25046 | 100.0 | /mnt/stockage/packages/f15/gnome-commander/doc/fr/fr.po/mnt/stockage/packages/f15/gnome-commander/po/fr.po | 
+ | [sl](/f15/language/sl) | 8330 | 8330 | 100.0 | /mnt/stockage/packages/f15/gnome-commander/po/sl.po | 
+ | [it](/f15/language/it) | 8082 | 8335 | 97.0 | /mnt/stockage/packages/f15/gnome-commander/po/it.po | 
+ | [dz](/f15/language/dz) | 7568 | 7896 | 95.8 | /mnt/stockage/packages/f15/gnome-commander/po/dz.po | 
+ | [ar](/f15/language/ar) | 7242 | 8202 | 88.3 | /mnt/stockage/packages/f15/gnome-commander/po/ar.po | 
+ | [pl](/f15/language/pl) | 6879 | 8353 | 82.4 | /mnt/stockage/packages/f15/gnome-commander/po/pl.po | 
+ | [ko](/f15/language/ko) | 6694 | 8251 | 81.1 | /mnt/stockage/packages/f15/gnome-commander/po/ko.po | 
+ | [sv](/f15/language/sv) | 5551 | 8362 | 66.4 | /mnt/stockage/packages/f15/gnome-commander/po/sv.po | 
+ | [ro](/f15/language/ro) | 3874 | 7896 | 49.1 | /mnt/stockage/packages/f15/gnome-commander/po/ro.po | 
+ | [pt_BR](/f15/language/pt_BR) | 4086 | 8357 | 48.9 | /mnt/stockage/packages/f15/gnome-commander/po/pt_BR.po | 
+ | [ja](/f15/language/ja) | 3521 | 8348 | 42.2 | /mnt/stockage/packages/f15/gnome-commander/po/ja.po | 
+ | [bg](/f15/language/bg) | 3269 | 7896 | 41.4 | /mnt/stockage/packages/f15/gnome-commander/po/bg.po | 
+ | [fi](/f15/language/fi) | 2175 | 7927 | 27.4 | /mnt/stockage/packages/f15/gnome-commander/po/fi.po | 
+ | [hu](/f15/language/hu) | 2022 | 8347 | 24.2 | /mnt/stockage/packages/f15/gnome-commander/po/hu.po | 
+ | [ru](/f15/language/ru) | 1528 | 7896 | 19.4 | /mnt/stockage/packages/f15/gnome-commander/po/ru.po | 
+ | [eo](/f15/language/eo) | 1530 | 8506 | 18.0 | /mnt/stockage/packages/f15/gnome-commander/po/eo.po | 
+ | [vi](/f15/language/vi) | 1358 | 7896 | 17.2 | /mnt/stockage/packages/f15/gnome-commander/po/vi.po | 
+ | [ne](/f15/language/ne) | 1286 | 7896 | 16.3 | /mnt/stockage/packages/f15/gnome-commander/po/ne.po | 
+ | [en_CA](/f15/language/en_CA) | 1068 | 7896 | 13.5 | /mnt/stockage/packages/f15/gnome-commander/po/en_CA.po | 
+ | [sk](/f15/language/sk) | 1068 | 7896 | 13.5 | /mnt/stockage/packages/f15/gnome-commander/po/sk.po | 
+ | [zh_Hans](/f15/language/zh_Hans) | 1067 | 7896 | 13.5 | /mnt/stockage/packages/f15/gnome-commander/po/zh_CN.po | 
+ | [nl](/f15/language/nl) | 1052 | 7896 | 13.3 | /mnt/stockage/packages/f15/gnome-commander/po/nl.po | 
+ | [error](/f15/language/error) | 1044 | 7896 | 13.2 | /mnt/stockage/packages/f15/gnome-commander/po/sr@Latn.po | 
+ | [hr](/f15/language/hr) | 1044 | 7896 | 13.2 | /mnt/stockage/packages/f15/gnome-commander/po/hr.po | 
+ | [sr](/f15/language/sr) | 1044 | 7896 | 13.2 | /mnt/stockage/packages/f15/gnome-commander/po/sr.po | 
+ | [uk](/f15/language/uk) | 1044 | 7896 | 13.2 | /mnt/stockage/packages/f15/gnome-commander/po/uk.po | 
+ | [ca](/f15/language/ca) | 1029 | 7896 | 13.0 | /mnt/stockage/packages/f15/gnome-commander/po/ca.po | 
+ | [pt](/f15/language/pt) | 1019 | 7896 | 12.9 | /mnt/stockage/packages/f15/gnome-commander/po/pt.po | 
+ | [el](/f15/language/el) | 705 | 7896 | 8.9 | /mnt/stockage/packages/f15/gnome-commander/po/el.po | 
+ | [oc](/f15/language/oc) | 602 | 8206 | 7.3 | /mnt/stockage/packages/f15/gnome-commander/po/oc.po | 
+ | [zh_Hant](/f15/language/zh_Hant) | 506 | 7896 | 6.4 | /mnt/stockage/packages/f15/gnome-commander/po/zh_TW.po | 
+ | [pa](/f15/language/pa) | 486 | 7896 | 6.2 | /mnt/stockage/packages/f15/gnome-commander/po/pa.po | 
+ | [nb_NO](/f15/language/nb_NO) | 445 | 7896 | 5.6 | /mnt/stockage/packages/f15/gnome-commander/po/nb.po | 
+ | [sq](/f15/language/sq) | 261 | 7896 | 3.3 | /mnt/stockage/packages/f15/gnome-commander/po/sq.po | 
+ | [ga](/f15/language/ga) | 241 | 7896 | 3.1 | /mnt/stockage/packages/f15/gnome-commander/po/ga.po | 
+ | [rw](/f15/language/rw) | 86 | 7896 | 1.1 | /mnt/stockage/packages/f15/gnome-commander/po/rw.po | 
 {.sortable}
 
 

@@ -18,10 +18,10 @@ The package mingw-goocanvas2 (version 2.0.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ja]({{< ref "/f31/language/ja.md" >}}) | 1234 | 1730 | 71.3 | /mnt/stockage/packages/f31/mingw-goocanvas2/po/ja.po | 
- | [es]({{< ref "/f31/language/es.md" >}}) | 866 | 1730 | 50.1 | /mnt/stockage/packages/f31/mingw-goocanvas2/po/es.po | 
- | [sv]({{< ref "/f31/language/sv.md" >}}) | 27 | 1730 | 1.6 | /mnt/stockage/packages/f31/mingw-goocanvas2/po/sv.po | 
- | [en_GB]({{< ref "/f31/language/en_GB.md" >}}) | 0 | 1730 | 0.0 | /mnt/stockage/packages/f31/mingw-goocanvas2/po/en_GB.po | 
+ | [ja](/f31/language/ja) | 1234 | 1730 | 71.3 | /mnt/stockage/packages/f31/mingw-goocanvas2/po/ja.po | 
+ | [es](/f31/language/es) | 866 | 1730 | 50.1 | /mnt/stockage/packages/f31/mingw-goocanvas2/po/es.po | 
+ | [sv](/f31/language/sv) | 27 | 1730 | 1.6 | /mnt/stockage/packages/f31/mingw-goocanvas2/po/sv.po | 
+ | [en_GB](/f31/language/en_GB) | 0 | 1730 | 0.0 | /mnt/stockage/packages/f31/mingw-goocanvas2/po/en_GB.po | 
 {.sortable}
 
 

@@ -38,9 +38,9 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [nemo-extensions]({{< ref "/f26/package/nemo-extensions.md" >}}) | 1 | 8 | 12.5 | Balinese <ban@li.org> | 
- | [cinnamon-translations]({{< ref "/f26/package/cinnamon-translations.md" >}}) | 4 | 50 | 8.0 | Balinese <ban@li.org> | 
- | [mintmenu]({{< ref "/f26/package/mintmenu.md" >}}) | 4 | 50 | 8.0 | Balinese <ban@li.org> | 
+ | [nemo-extensions](/f26/package/nemo-extensions) | 1 | 8 | 12.5 | Balinese <ban@li.org> | 
+ | [cinnamon-translations](/f26/package/cinnamon-translations) | 4 | 50 | 8.0 | Balinese <ban@li.org> | 
+ | [mintmenu](/f26/package/mintmenu) | 4 | 50 | 8.0 | Balinese <ban@li.org> | 
 {.sortable}
 
 

@@ -18,10 +18,10 @@ The package byzanz (version 0.1.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f8/language/de.md" >}}) | 249 | 249 | 100.0 | /mnt/stockage/packages/f8/byzanz/po/de.po | 
- | [es]({{< ref "/f8/language/es.md" >}}) | 207 | 230 | 90.0 | /mnt/stockage/packages/f8/byzanz/po/es.po | 
- | [fr]({{< ref "/f8/language/fr.md" >}}) | 209 | 249 | 83.9 | /mnt/stockage/packages/f8/byzanz/po/fr.po | 
- | [tr]({{< ref "/f8/language/tr.md" >}}) | 198 | 249 | 79.5 | /mnt/stockage/packages/f8/byzanz/po/tr.po | 
+ | [de](/f8/language/de) | 249 | 249 | 100.0 | /mnt/stockage/packages/f8/byzanz/po/de.po | 
+ | [es](/f8/language/es) | 207 | 230 | 90.0 | /mnt/stockage/packages/f8/byzanz/po/es.po | 
+ | [fr](/f8/language/fr) | 209 | 249 | 83.9 | /mnt/stockage/packages/f8/byzanz/po/fr.po | 
+ | [tr](/f8/language/tr) | 198 | 249 | 79.5 | /mnt/stockage/packages/f8/byzanz/po/tr.po | 
 {.sortable}
 
 

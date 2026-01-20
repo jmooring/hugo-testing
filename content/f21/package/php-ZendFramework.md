@@ -18,10 +18,10 @@ The package php-ZendFramework (version 1.12.16):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [en]({{< ref "/f21/language/en.md" >}}) | 17 | 17 | 100.0 | /mnt/stockage/packages/f21/php-ZendFramework/tests/Zend/Translate/Adapter/_files/translation_en.po | 
- | [error]({{< ref "/f21/language/error.md" >}}) | 12 | 12 | 100.0 | /mnt/stockage/packages/f21/php-ZendFramework/tests/Zend/Translate/Adapter/_files/translation_otherencoding.po/mnt/stockage/packages/f21/php-ZendFramework/tests/Zend/Translate/Adapter/_files/translation_en2.po/mnt/stockage/packages/f21/php-ZendFramework/tests/Zend/Translate/Adapter/_files/translation_empty.po | 
- | [fr]({{< ref "/f21/language/fr.md" >}}) | 8 | 8 | 100.0 | /mnt/stockage/packages/f21/php-ZendFramework/tests/Zend/Translate/Adapter/_files/translation_plural_fr.po | 
- | [tr]({{< ref "/f21/language/tr.md" >}}) | 8 | 8 | 100.0 | /mnt/stockage/packages/f21/php-ZendFramework/tests/Zend/Translate/Adapter/_files/translation_plural_tr.po | 
+ | [en](/f21/language/en) | 17 | 17 | 100.0 | /mnt/stockage/packages/f21/php-ZendFramework/tests/Zend/Translate/Adapter/_files/translation_en.po | 
+ | [error](/f21/language/error) | 12 | 12 | 100.0 | /mnt/stockage/packages/f21/php-ZendFramework/tests/Zend/Translate/Adapter/_files/translation_otherencoding.po/mnt/stockage/packages/f21/php-ZendFramework/tests/Zend/Translate/Adapter/_files/translation_en2.po/mnt/stockage/packages/f21/php-ZendFramework/tests/Zend/Translate/Adapter/_files/translation_empty.po | 
+ | [fr](/f21/language/fr) | 8 | 8 | 100.0 | /mnt/stockage/packages/f21/php-ZendFramework/tests/Zend/Translate/Adapter/_files/translation_plural_fr.po | 
+ | [tr](/f21/language/tr) | 8 | 8 | 100.0 | /mnt/stockage/packages/f21/php-ZendFramework/tests/Zend/Translate/Adapter/_files/translation_plural_tr.po | 
 {.sortable}
 
 

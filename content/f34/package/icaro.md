@@ -18,7 +18,7 @@ The package icaro (version 2.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [es]({{< ref "/f34/language/es.md" >}}) | 27 | 27 | 100.0 | /mnt/stockage/packages/f34/icaro/locale/es/LC_MESSAGES/icaro.po | 
+ | [es](/f34/language/es) | 27 | 27 | 100.0 | /mnt/stockage/packages/f34/icaro/locale/es/LC_MESSAGES/icaro.po | 
 {.sortable}
 
 

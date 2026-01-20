@@ -18,8 +18,8 @@ The package grhino (version 0.16.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [en_GB]({{< ref "/f16/language/en_GB.md" >}}) | 503 | 503 | 100.0 | /mnt/stockage/packages/f16/grhino/po/en_GB.po | 
- | [error]({{< ref "/f16/language/error.md" >}}) | 1006 | 1006 | 100.0 | /mnt/stockage/packages/f16/grhino/po/en_GB.UTF-8.po/mnt/stockage/packages/f16/grhino/po/en_US.UTF-8.po | 
+ | [en_GB](/f16/language/en_GB) | 503 | 503 | 100.0 | /mnt/stockage/packages/f16/grhino/po/en_GB.po | 
+ | [error](/f16/language/error) | 1006 | 1006 | 100.0 | /mnt/stockage/packages/f16/grhino/po/en_GB.UTF-8.po/mnt/stockage/packages/f16/grhino/po/en_US.UTF-8.po | 
 {.sortable}
 
 

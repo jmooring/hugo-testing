@@ -18,7 +18,7 @@ The package json-glib (version 0.14.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [pl]({{< ref "/f17/language/pl.md" >}}) | 254 | 254 | 100.0 | /mnt/stockage/packages/f17/json-glib/po/pl.po | 
+ | [pl](/f17/language/pl) | 254 | 254 | 100.0 | /mnt/stockage/packages/f17/json-glib/po/pl.po | 
 {.sortable}
 
 

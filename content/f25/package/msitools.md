@@ -18,31 +18,31 @@ The package msitools (version 0.96):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [bs]({{< ref "/f25/language/bs.md" >}}) | 71 | 71 | 100.0 | /mnt/stockage/packages/f25/msitools/po/bs.po | 
- | [cs]({{< ref "/f25/language/cs.md" >}}) | 71 | 71 | 100.0 | /mnt/stockage/packages/f25/msitools/po/cs.po | 
- | [de]({{< ref "/f25/language/de.md" >}}) | 71 | 71 | 100.0 | /mnt/stockage/packages/f25/msitools/po/de.po | 
- | [el]({{< ref "/f25/language/el.md" >}}) | 71 | 71 | 100.0 | /mnt/stockage/packages/f25/msitools/po/el.po | 
- | [es]({{< ref "/f25/language/es.md" >}}) | 71 | 71 | 100.0 | /mnt/stockage/packages/f25/msitools/po/es.po | 
- | [eu]({{< ref "/f25/language/eu.md" >}}) | 71 | 71 | 100.0 | /mnt/stockage/packages/f25/msitools/po/eu.po | 
- | [fr]({{< ref "/f25/language/fr.md" >}}) | 68 | 68 | 100.0 | /mnt/stockage/packages/f25/msitools/po/fr.po | 
- | [gl]({{< ref "/f25/language/gl.md" >}}) | 68 | 68 | 100.0 | /mnt/stockage/packages/f25/msitools/po/gl.po | 
- | [hu]({{< ref "/f25/language/hu.md" >}}) | 71 | 71 | 100.0 | /mnt/stockage/packages/f25/msitools/po/hu.po | 
- | [id]({{< ref "/f25/language/id.md" >}}) | 71 | 71 | 100.0 | /mnt/stockage/packages/f25/msitools/po/id.po | 
- | [it]({{< ref "/f25/language/it.md" >}}) | 68 | 68 | 100.0 | /mnt/stockage/packages/f25/msitools/po/it.po | 
- | [ko]({{< ref "/f25/language/ko.md" >}}) | 68 | 68 | 100.0 | /mnt/stockage/packages/f25/msitools/po/ko.po | 
- | [lt]({{< ref "/f25/language/lt.md" >}}) | 71 | 71 | 100.0 | /mnt/stockage/packages/f25/msitools/po/lt.po | 
- | [lv]({{< ref "/f25/language/lv.md" >}}) | 68 | 68 | 100.0 | /mnt/stockage/packages/f25/msitools/po/lv.po | 
- | [oc]({{< ref "/f25/language/oc.md" >}}) | 71 | 71 | 100.0 | /mnt/stockage/packages/f25/msitools/po/oc.po | 
- | [pl]({{< ref "/f25/language/pl.md" >}}) | 71 | 71 | 100.0 | /mnt/stockage/packages/f25/msitools/po/pl.po | 
- | [pt_BR]({{< ref "/f25/language/pt_BR.md" >}}) | 142 | 142 | 100.0 | /mnt/stockage/packages/f25/msitools/po/pt_BR.po/mnt/stockage/packages/f25/msitools/po/pt.po | 
- | [ru]({{< ref "/f25/language/ru.md" >}}) | 71 | 71 | 100.0 | /mnt/stockage/packages/f25/msitools/po/ru.po | 
- | [sl]({{< ref "/f25/language/sl.md" >}}) | 71 | 71 | 100.0 | /mnt/stockage/packages/f25/msitools/po/sl.po | 
- | [sr]({{< ref "/f25/language/sr.md" >}}) | 142 | 142 | 100.0 | /mnt/stockage/packages/f25/msitools/po/sr@latin.po/mnt/stockage/packages/f25/msitools/po/sr.po | 
- | [sv]({{< ref "/f25/language/sv.md" >}}) | 71 | 71 | 100.0 | /mnt/stockage/packages/f25/msitools/po/sv.po | 
- | [tg]({{< ref "/f25/language/tg.md" >}}) | 56 | 56 | 100.0 | /mnt/stockage/packages/f25/msitools/po/tg.po | 
- | [tr]({{< ref "/f25/language/tr.md" >}}) | 71 | 71 | 100.0 | /mnt/stockage/packages/f25/msitools/po/tr.po | 
- | [zh_Hans]({{< ref "/f25/language/zh_Hans.md" >}}) | 68 | 68 | 100.0 | /mnt/stockage/packages/f25/msitools/po/zh_CN.po | 
- | [nb_NO]({{< ref "/f25/language/nb_NO.md" >}}) | 49 | 68 | 72.1 | /mnt/stockage/packages/f25/msitools/po/nb.po | 
+ | [bs](/f25/language/bs) | 71 | 71 | 100.0 | /mnt/stockage/packages/f25/msitools/po/bs.po | 
+ | [cs](/f25/language/cs) | 71 | 71 | 100.0 | /mnt/stockage/packages/f25/msitools/po/cs.po | 
+ | [de](/f25/language/de) | 71 | 71 | 100.0 | /mnt/stockage/packages/f25/msitools/po/de.po | 
+ | [el](/f25/language/el) | 71 | 71 | 100.0 | /mnt/stockage/packages/f25/msitools/po/el.po | 
+ | [es](/f25/language/es) | 71 | 71 | 100.0 | /mnt/stockage/packages/f25/msitools/po/es.po | 
+ | [eu](/f25/language/eu) | 71 | 71 | 100.0 | /mnt/stockage/packages/f25/msitools/po/eu.po | 
+ | [fr](/f25/language/fr) | 68 | 68 | 100.0 | /mnt/stockage/packages/f25/msitools/po/fr.po | 
+ | [gl](/f25/language/gl) | 68 | 68 | 100.0 | /mnt/stockage/packages/f25/msitools/po/gl.po | 
+ | [hu](/f25/language/hu) | 71 | 71 | 100.0 | /mnt/stockage/packages/f25/msitools/po/hu.po | 
+ | [id](/f25/language/id) | 71 | 71 | 100.0 | /mnt/stockage/packages/f25/msitools/po/id.po | 
+ | [it](/f25/language/it) | 68 | 68 | 100.0 | /mnt/stockage/packages/f25/msitools/po/it.po | 
+ | [ko](/f25/language/ko) | 68 | 68 | 100.0 | /mnt/stockage/packages/f25/msitools/po/ko.po | 
+ | [lt](/f25/language/lt) | 71 | 71 | 100.0 | /mnt/stockage/packages/f25/msitools/po/lt.po | 
+ | [lv](/f25/language/lv) | 68 | 68 | 100.0 | /mnt/stockage/packages/f25/msitools/po/lv.po | 
+ | [oc](/f25/language/oc) | 71 | 71 | 100.0 | /mnt/stockage/packages/f25/msitools/po/oc.po | 
+ | [pl](/f25/language/pl) | 71 | 71 | 100.0 | /mnt/stockage/packages/f25/msitools/po/pl.po | 
+ | [pt_BR](/f25/language/pt_BR) | 142 | 142 | 100.0 | /mnt/stockage/packages/f25/msitools/po/pt_BR.po/mnt/stockage/packages/f25/msitools/po/pt.po | 
+ | [ru](/f25/language/ru) | 71 | 71 | 100.0 | /mnt/stockage/packages/f25/msitools/po/ru.po | 
+ | [sl](/f25/language/sl) | 71 | 71 | 100.0 | /mnt/stockage/packages/f25/msitools/po/sl.po | 
+ | [sr](/f25/language/sr) | 142 | 142 | 100.0 | /mnt/stockage/packages/f25/msitools/po/sr@latin.po/mnt/stockage/packages/f25/msitools/po/sr.po | 
+ | [sv](/f25/language/sv) | 71 | 71 | 100.0 | /mnt/stockage/packages/f25/msitools/po/sv.po | 
+ | [tg](/f25/language/tg) | 56 | 56 | 100.0 | /mnt/stockage/packages/f25/msitools/po/tg.po | 
+ | [tr](/f25/language/tr) | 71 | 71 | 100.0 | /mnt/stockage/packages/f25/msitools/po/tr.po | 
+ | [zh_Hans](/f25/language/zh_Hans) | 68 | 68 | 100.0 | /mnt/stockage/packages/f25/msitools/po/zh_CN.po | 
+ | [nb_NO](/f25/language/nb_NO) | 49 | 68 | 72.1 | /mnt/stockage/packages/f25/msitools/po/nb.po | 
 {.sortable}
 
 

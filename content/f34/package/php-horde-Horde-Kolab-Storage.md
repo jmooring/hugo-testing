@@ -18,48 +18,48 @@ The package php-horde-Horde-Kolab-Storage (version 2.2.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f34/language/de.md" >}}) | 347 | 347 | 100.0 | /mnt/stockage/packages/f34/php-horde-Horde-Kolab-Storage/Horde_Kolab_Storage-2.2.4/locale/de/LC_MESSAGES/Horde_Kolab_Storage.po | 
- | [el]({{< ref "/f34/language/el.md" >}}) | 120 | 120 | 100.0 | /mnt/stockage/packages/f34/php-horde-Horde-Kolab-Storage/Horde_Kolab_Storage-2.2.4/locale/el/LC_MESSAGES/Horde_Kolab_Storage.po | 
- | [es]({{< ref "/f34/language/es.md" >}}) | 347 | 347 | 100.0 | /mnt/stockage/packages/f34/php-horde-Horde-Kolab-Storage/Horde_Kolab_Storage-2.2.4/locale/es/LC_MESSAGES/Horde_Kolab_Storage.po | 
- | [et]({{< ref "/f34/language/et.md" >}}) | 456 | 456 | 100.0 | /mnt/stockage/packages/f34/php-horde-Horde-Kolab-Storage/Horde_Kolab_Storage-2.2.4/locale/et/LC_MESSAGES/Horde_Kolab_Storage.po | 
- | [fi]({{< ref "/f34/language/fi.md" >}}) | 347 | 347 | 100.0 | /mnt/stockage/packages/f34/php-horde-Horde-Kolab-Storage/Horde_Kolab_Storage-2.2.4/locale/fi/LC_MESSAGES/Horde_Kolab_Storage.po | 
- | [hr]({{< ref "/f34/language/hr.md" >}}) | 456 | 456 | 100.0 | /mnt/stockage/packages/f34/php-horde-Horde-Kolab-Storage/Horde_Kolab_Storage-2.2.4/locale/hr/LC_MESSAGES/Horde_Kolab_Storage.po | 
- | [ja]({{< ref "/f34/language/ja.md" >}}) | 347 | 347 | 100.0 | /mnt/stockage/packages/f34/php-horde-Horde-Kolab-Storage/Horde_Kolab_Storage-2.2.4/locale/ja/LC_MESSAGES/Horde_Kolab_Storage.po | 
- | [lt]({{< ref "/f34/language/lt.md" >}}) | 456 | 456 | 100.0 | /mnt/stockage/packages/f34/php-horde-Horde-Kolab-Storage/Horde_Kolab_Storage-2.2.4/locale/lt/LC_MESSAGES/Horde_Kolab_Storage.po | 
- | [pt_BR]({{< ref "/f34/language/pt_BR.md" >}}) | 347 | 347 | 100.0 | /mnt/stockage/packages/f34/php-horde-Horde-Kolab-Storage/Horde_Kolab_Storage-2.2.4/locale/pt_BR/LC_MESSAGES/Horde_Kolab_Storage.po | 
- | [lv]({{< ref "/f34/language/lv.md" >}}) | 108 | 168 | 64.3 | /mnt/stockage/packages/f34/php-horde-Horde-Kolab-Storage/Horde_Kolab_Storage-2.2.4/locale/lv/LC_MESSAGES/Horde_Kolab_Storage.po | 
- | [fr]({{< ref "/f34/language/fr.md" >}}) | 68 | 120 | 56.7 | /mnt/stockage/packages/f34/php-horde-Horde-Kolab-Storage/Horde_Kolab_Storage-2.2.4/locale/fr/LC_MESSAGES/Horde_Kolab_Storage.po | 
- | [hu]({{< ref "/f34/language/hu.md" >}}) | 68 | 120 | 56.7 | /mnt/stockage/packages/f34/php-horde-Horde-Kolab-Storage/Horde_Kolab_Storage-2.2.4/locale/hu/LC_MESSAGES/Horde_Kolab_Storage.po | 
- | [it]({{< ref "/f34/language/it.md" >}}) | 68 | 120 | 56.7 | /mnt/stockage/packages/f34/php-horde-Horde-Kolab-Storage/Horde_Kolab_Storage-2.2.4/locale/it/LC_MESSAGES/Horde_Kolab_Storage.po | 
- | [sk]({{< ref "/f34/language/sk.md" >}}) | 68 | 120 | 56.7 | /mnt/stockage/packages/f34/php-horde-Horde-Kolab-Storage/Horde_Kolab_Storage-2.2.4/locale/sk/LC_MESSAGES/Horde_Kolab_Storage.po | 
- | [tr]({{< ref "/f34/language/tr.md" >}}) | 68 | 120 | 56.7 | /mnt/stockage/packages/f34/php-horde-Horde-Kolab-Storage/Horde_Kolab_Storage-2.2.4/locale/tr/LC_MESSAGES/Horde_Kolab_Storage.po | 
- | [zh_Hant]({{< ref "/f34/language/zh_Hant.md" >}}) | 68 | 120 | 56.7 | /mnt/stockage/packages/f34/php-horde-Horde-Kolab-Storage/Horde_Kolab_Storage-2.2.4/locale/zh_TW/LC_MESSAGES/Horde_Kolab_Storage.po | 
- | [ca]({{< ref "/f34/language/ca.md" >}}) | 42 | 120 | 35.0 | /mnt/stockage/packages/f34/php-horde-Horde-Kolab-Storage/Horde_Kolab_Storage-2.2.4/locale/ca/LC_MESSAGES/Horde_Kolab_Storage.po | 
- | [cs]({{< ref "/f34/language/cs.md" >}}) | 42 | 120 | 35.0 | /mnt/stockage/packages/f34/php-horde-Horde-Kolab-Storage/Horde_Kolab_Storage-2.2.4/locale/cs/LC_MESSAGES/Horde_Kolab_Storage.po | 
- | [da]({{< ref "/f34/language/da.md" >}}) | 42 | 120 | 35.0 | /mnt/stockage/packages/f34/php-horde-Horde-Kolab-Storage/Horde_Kolab_Storage-2.2.4/locale/da/LC_MESSAGES/Horde_Kolab_Storage.po | 
- | [pt]({{< ref "/f34/language/pt.md" >}}) | 42 | 120 | 35.0 | /mnt/stockage/packages/f34/php-horde-Horde-Kolab-Storage/Horde_Kolab_Storage-2.2.4/locale/pt/LC_MESSAGES/Horde_Kolab_Storage.po | 
- | [sl]({{< ref "/f34/language/sl.md" >}}) | 32 | 120 | 26.7 | /mnt/stockage/packages/f34/php-horde-Horde-Kolab-Storage/Horde_Kolab_Storage-2.2.4/locale/sl/LC_MESSAGES/Horde_Kolab_Storage.po | 
- | [zh_Hans]({{< ref "/f34/language/zh_Hans.md" >}}) | 32 | 120 | 26.7 | /mnt/stockage/packages/f34/php-horde-Horde-Kolab-Storage/Horde_Kolab_Storage-2.2.4/locale/zh_CN/LC_MESSAGES/Horde_Kolab_Storage.po | 
- | [uk]({{< ref "/f34/language/uk.md" >}}) | 16 | 120 | 13.3 | /mnt/stockage/packages/f34/php-horde-Horde-Kolab-Storage/Horde_Kolab_Storage-2.2.4/locale/uk/LC_MESSAGES/Horde_Kolab_Storage.po | 
- | [fa]({{< ref "/f34/language/fa.md" >}}) | 10 | 120 | 8.3 | /mnt/stockage/packages/f34/php-horde-Horde-Kolab-Storage/Horde_Kolab_Storage-2.2.4/locale/fa/LC_MESSAGES/Horde_Kolab_Storage.po | 
- | [pl]({{< ref "/f34/language/pl.md" >}}) | 10 | 120 | 8.3 | /mnt/stockage/packages/f34/php-horde-Horde-Kolab-Storage/Horde_Kolab_Storage-2.2.4/locale/pl/LC_MESSAGES/Horde_Kolab_Storage.po | 
- | [sv]({{< ref "/f34/language/sv.md" >}}) | 10 | 120 | 8.3 | /mnt/stockage/packages/f34/php-horde-Horde-Kolab-Storage/Horde_Kolab_Storage-2.2.4/locale/sv/LC_MESSAGES/Horde_Kolab_Storage.po | 
- | [ru]({{< ref "/f34/language/ru.md" >}}) | 9 | 120 | 7.5 | /mnt/stockage/packages/f34/php-horde-Horde-Kolab-Storage/Horde_Kolab_Storage-2.2.4/locale/ru/LC_MESSAGES/Horde_Kolab_Storage.po | 
- | [eu]({{< ref "/f34/language/eu.md" >}}) | 15 | 347 | 4.3 | /mnt/stockage/packages/f34/php-horde-Horde-Kolab-Storage/Horde_Kolab_Storage-2.2.4/locale/eu/LC_MESSAGES/Horde_Kolab_Storage.po | 
- | [ar]({{< ref "/f34/language/ar.md" >}}) | 0 | 120 | 0.0 | /mnt/stockage/packages/f34/php-horde-Horde-Kolab-Storage/Horde_Kolab_Storage-2.2.4/locale/ar/LC_MESSAGES/Horde_Kolab_Storage.po | 
- | [bg]({{< ref "/f34/language/bg.md" >}}) | 0 | 120 | 0.0 | /mnt/stockage/packages/f34/php-horde-Horde-Kolab-Storage/Horde_Kolab_Storage-2.2.4/locale/bg/LC_MESSAGES/Horde_Kolab_Storage.po | 
- | [bs]({{< ref "/f34/language/bs.md" >}}) | 0 | 120 | 0.0 | /mnt/stockage/packages/f34/php-horde-Horde-Kolab-Storage/Horde_Kolab_Storage-2.2.4/locale/bs/LC_MESSAGES/Horde_Kolab_Storage.po | 
- | [gl]({{< ref "/f34/language/gl.md" >}}) | 0 | 120 | 0.0 | /mnt/stockage/packages/f34/php-horde-Horde-Kolab-Storage/Horde_Kolab_Storage-2.2.4/locale/gl/LC_MESSAGES/Horde_Kolab_Storage.po | 
- | [he]({{< ref "/f34/language/he.md" >}}) | 0 | 120 | 0.0 | /mnt/stockage/packages/f34/php-horde-Horde-Kolab-Storage/Horde_Kolab_Storage-2.2.4/locale/he/LC_MESSAGES/Horde_Kolab_Storage.po | 
- | [id]({{< ref "/f34/language/id.md" >}}) | 0 | 120 | 0.0 | /mnt/stockage/packages/f34/php-horde-Horde-Kolab-Storage/Horde_Kolab_Storage-2.2.4/locale/id/LC_MESSAGES/Horde_Kolab_Storage.po | 
- | [is]({{< ref "/f34/language/is.md" >}}) | 0 | 120 | 0.0 | /mnt/stockage/packages/f34/php-horde-Horde-Kolab-Storage/Horde_Kolab_Storage-2.2.4/locale/is/LC_MESSAGES/Horde_Kolab_Storage.po | 
- | [km]({{< ref "/f34/language/km.md" >}}) | 0 | 120 | 0.0 | /mnt/stockage/packages/f34/php-horde-Horde-Kolab-Storage/Horde_Kolab_Storage-2.2.4/locale/km/LC_MESSAGES/Horde_Kolab_Storage.po | 
- | [ko]({{< ref "/f34/language/ko.md" >}}) | 0 | 120 | 0.0 | /mnt/stockage/packages/f34/php-horde-Horde-Kolab-Storage/Horde_Kolab_Storage-2.2.4/locale/ko/LC_MESSAGES/Horde_Kolab_Storage.po | 
- | [mk]({{< ref "/f34/language/mk.md" >}}) | 0 | 120 | 0.0 | /mnt/stockage/packages/f34/php-horde-Horde-Kolab-Storage/Horde_Kolab_Storage-2.2.4/locale/mk/LC_MESSAGES/Horde_Kolab_Storage.po | 
- | [nb_NO]({{< ref "/f34/language/nb_NO.md" >}}) | 0 | 120 | 0.0 | /mnt/stockage/packages/f34/php-horde-Horde-Kolab-Storage/Horde_Kolab_Storage-2.2.4/locale/nb/LC_MESSAGES/Horde_Kolab_Storage.po | 
- | [nl]({{< ref "/f34/language/nl.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f34/php-horde-Horde-Kolab-Storage/Horde_Kolab_Storage-2.2.4/locale/nl/LC_MESSAGES/Horde_Kolab_Storage.po | 
- | [nn]({{< ref "/f34/language/nn.md" >}}) | 0 | 120 | 0.0 | /mnt/stockage/packages/f34/php-horde-Horde-Kolab-Storage/Horde_Kolab_Storage-2.2.4/locale/nn/LC_MESSAGES/Horde_Kolab_Storage.po | 
- | [ro]({{< ref "/f34/language/ro.md" >}}) | 0 | 120 | 0.0 | /mnt/stockage/packages/f34/php-horde-Horde-Kolab-Storage/Horde_Kolab_Storage-2.2.4/locale/ro/LC_MESSAGES/Horde_Kolab_Storage.po | 
+ | [de](/f34/language/de) | 347 | 347 | 100.0 | /mnt/stockage/packages/f34/php-horde-Horde-Kolab-Storage/Horde_Kolab_Storage-2.2.4/locale/de/LC_MESSAGES/Horde_Kolab_Storage.po | 
+ | [el](/f34/language/el) | 120 | 120 | 100.0 | /mnt/stockage/packages/f34/php-horde-Horde-Kolab-Storage/Horde_Kolab_Storage-2.2.4/locale/el/LC_MESSAGES/Horde_Kolab_Storage.po | 
+ | [es](/f34/language/es) | 347 | 347 | 100.0 | /mnt/stockage/packages/f34/php-horde-Horde-Kolab-Storage/Horde_Kolab_Storage-2.2.4/locale/es/LC_MESSAGES/Horde_Kolab_Storage.po | 
+ | [et](/f34/language/et) | 456 | 456 | 100.0 | /mnt/stockage/packages/f34/php-horde-Horde-Kolab-Storage/Horde_Kolab_Storage-2.2.4/locale/et/LC_MESSAGES/Horde_Kolab_Storage.po | 
+ | [fi](/f34/language/fi) | 347 | 347 | 100.0 | /mnt/stockage/packages/f34/php-horde-Horde-Kolab-Storage/Horde_Kolab_Storage-2.2.4/locale/fi/LC_MESSAGES/Horde_Kolab_Storage.po | 
+ | [hr](/f34/language/hr) | 456 | 456 | 100.0 | /mnt/stockage/packages/f34/php-horde-Horde-Kolab-Storage/Horde_Kolab_Storage-2.2.4/locale/hr/LC_MESSAGES/Horde_Kolab_Storage.po | 
+ | [ja](/f34/language/ja) | 347 | 347 | 100.0 | /mnt/stockage/packages/f34/php-horde-Horde-Kolab-Storage/Horde_Kolab_Storage-2.2.4/locale/ja/LC_MESSAGES/Horde_Kolab_Storage.po | 
+ | [lt](/f34/language/lt) | 456 | 456 | 100.0 | /mnt/stockage/packages/f34/php-horde-Horde-Kolab-Storage/Horde_Kolab_Storage-2.2.4/locale/lt/LC_MESSAGES/Horde_Kolab_Storage.po | 
+ | [pt_BR](/f34/language/pt_BR) | 347 | 347 | 100.0 | /mnt/stockage/packages/f34/php-horde-Horde-Kolab-Storage/Horde_Kolab_Storage-2.2.4/locale/pt_BR/LC_MESSAGES/Horde_Kolab_Storage.po | 
+ | [lv](/f34/language/lv) | 108 | 168 | 64.3 | /mnt/stockage/packages/f34/php-horde-Horde-Kolab-Storage/Horde_Kolab_Storage-2.2.4/locale/lv/LC_MESSAGES/Horde_Kolab_Storage.po | 
+ | [fr](/f34/language/fr) | 68 | 120 | 56.7 | /mnt/stockage/packages/f34/php-horde-Horde-Kolab-Storage/Horde_Kolab_Storage-2.2.4/locale/fr/LC_MESSAGES/Horde_Kolab_Storage.po | 
+ | [hu](/f34/language/hu) | 68 | 120 | 56.7 | /mnt/stockage/packages/f34/php-horde-Horde-Kolab-Storage/Horde_Kolab_Storage-2.2.4/locale/hu/LC_MESSAGES/Horde_Kolab_Storage.po | 
+ | [it](/f34/language/it) | 68 | 120 | 56.7 | /mnt/stockage/packages/f34/php-horde-Horde-Kolab-Storage/Horde_Kolab_Storage-2.2.4/locale/it/LC_MESSAGES/Horde_Kolab_Storage.po | 
+ | [sk](/f34/language/sk) | 68 | 120 | 56.7 | /mnt/stockage/packages/f34/php-horde-Horde-Kolab-Storage/Horde_Kolab_Storage-2.2.4/locale/sk/LC_MESSAGES/Horde_Kolab_Storage.po | 
+ | [tr](/f34/language/tr) | 68 | 120 | 56.7 | /mnt/stockage/packages/f34/php-horde-Horde-Kolab-Storage/Horde_Kolab_Storage-2.2.4/locale/tr/LC_MESSAGES/Horde_Kolab_Storage.po | 
+ | [zh_Hant](/f34/language/zh_Hant) | 68 | 120 | 56.7 | /mnt/stockage/packages/f34/php-horde-Horde-Kolab-Storage/Horde_Kolab_Storage-2.2.4/locale/zh_TW/LC_MESSAGES/Horde_Kolab_Storage.po | 
+ | [ca](/f34/language/ca) | 42 | 120 | 35.0 | /mnt/stockage/packages/f34/php-horde-Horde-Kolab-Storage/Horde_Kolab_Storage-2.2.4/locale/ca/LC_MESSAGES/Horde_Kolab_Storage.po | 
+ | [cs](/f34/language/cs) | 42 | 120 | 35.0 | /mnt/stockage/packages/f34/php-horde-Horde-Kolab-Storage/Horde_Kolab_Storage-2.2.4/locale/cs/LC_MESSAGES/Horde_Kolab_Storage.po | 
+ | [da](/f34/language/da) | 42 | 120 | 35.0 | /mnt/stockage/packages/f34/php-horde-Horde-Kolab-Storage/Horde_Kolab_Storage-2.2.4/locale/da/LC_MESSAGES/Horde_Kolab_Storage.po | 
+ | [pt](/f34/language/pt) | 42 | 120 | 35.0 | /mnt/stockage/packages/f34/php-horde-Horde-Kolab-Storage/Horde_Kolab_Storage-2.2.4/locale/pt/LC_MESSAGES/Horde_Kolab_Storage.po | 
+ | [sl](/f34/language/sl) | 32 | 120 | 26.7 | /mnt/stockage/packages/f34/php-horde-Horde-Kolab-Storage/Horde_Kolab_Storage-2.2.4/locale/sl/LC_MESSAGES/Horde_Kolab_Storage.po | 
+ | [zh_Hans](/f34/language/zh_Hans) | 32 | 120 | 26.7 | /mnt/stockage/packages/f34/php-horde-Horde-Kolab-Storage/Horde_Kolab_Storage-2.2.4/locale/zh_CN/LC_MESSAGES/Horde_Kolab_Storage.po | 
+ | [uk](/f34/language/uk) | 16 | 120 | 13.3 | /mnt/stockage/packages/f34/php-horde-Horde-Kolab-Storage/Horde_Kolab_Storage-2.2.4/locale/uk/LC_MESSAGES/Horde_Kolab_Storage.po | 
+ | [fa](/f34/language/fa) | 10 | 120 | 8.3 | /mnt/stockage/packages/f34/php-horde-Horde-Kolab-Storage/Horde_Kolab_Storage-2.2.4/locale/fa/LC_MESSAGES/Horde_Kolab_Storage.po | 
+ | [pl](/f34/language/pl) | 10 | 120 | 8.3 | /mnt/stockage/packages/f34/php-horde-Horde-Kolab-Storage/Horde_Kolab_Storage-2.2.4/locale/pl/LC_MESSAGES/Horde_Kolab_Storage.po | 
+ | [sv](/f34/language/sv) | 10 | 120 | 8.3 | /mnt/stockage/packages/f34/php-horde-Horde-Kolab-Storage/Horde_Kolab_Storage-2.2.4/locale/sv/LC_MESSAGES/Horde_Kolab_Storage.po | 
+ | [ru](/f34/language/ru) | 9 | 120 | 7.5 | /mnt/stockage/packages/f34/php-horde-Horde-Kolab-Storage/Horde_Kolab_Storage-2.2.4/locale/ru/LC_MESSAGES/Horde_Kolab_Storage.po | 
+ | [eu](/f34/language/eu) | 15 | 347 | 4.3 | /mnt/stockage/packages/f34/php-horde-Horde-Kolab-Storage/Horde_Kolab_Storage-2.2.4/locale/eu/LC_MESSAGES/Horde_Kolab_Storage.po | 
+ | [ar](/f34/language/ar) | 0 | 120 | 0.0 | /mnt/stockage/packages/f34/php-horde-Horde-Kolab-Storage/Horde_Kolab_Storage-2.2.4/locale/ar/LC_MESSAGES/Horde_Kolab_Storage.po | 
+ | [bg](/f34/language/bg) | 0 | 120 | 0.0 | /mnt/stockage/packages/f34/php-horde-Horde-Kolab-Storage/Horde_Kolab_Storage-2.2.4/locale/bg/LC_MESSAGES/Horde_Kolab_Storage.po | 
+ | [bs](/f34/language/bs) | 0 | 120 | 0.0 | /mnt/stockage/packages/f34/php-horde-Horde-Kolab-Storage/Horde_Kolab_Storage-2.2.4/locale/bs/LC_MESSAGES/Horde_Kolab_Storage.po | 
+ | [gl](/f34/language/gl) | 0 | 120 | 0.0 | /mnt/stockage/packages/f34/php-horde-Horde-Kolab-Storage/Horde_Kolab_Storage-2.2.4/locale/gl/LC_MESSAGES/Horde_Kolab_Storage.po | 
+ | [he](/f34/language/he) | 0 | 120 | 0.0 | /mnt/stockage/packages/f34/php-horde-Horde-Kolab-Storage/Horde_Kolab_Storage-2.2.4/locale/he/LC_MESSAGES/Horde_Kolab_Storage.po | 
+ | [id](/f34/language/id) | 0 | 120 | 0.0 | /mnt/stockage/packages/f34/php-horde-Horde-Kolab-Storage/Horde_Kolab_Storage-2.2.4/locale/id/LC_MESSAGES/Horde_Kolab_Storage.po | 
+ | [is](/f34/language/is) | 0 | 120 | 0.0 | /mnt/stockage/packages/f34/php-horde-Horde-Kolab-Storage/Horde_Kolab_Storage-2.2.4/locale/is/LC_MESSAGES/Horde_Kolab_Storage.po | 
+ | [km](/f34/language/km) | 0 | 120 | 0.0 | /mnt/stockage/packages/f34/php-horde-Horde-Kolab-Storage/Horde_Kolab_Storage-2.2.4/locale/km/LC_MESSAGES/Horde_Kolab_Storage.po | 
+ | [ko](/f34/language/ko) | 0 | 120 | 0.0 | /mnt/stockage/packages/f34/php-horde-Horde-Kolab-Storage/Horde_Kolab_Storage-2.2.4/locale/ko/LC_MESSAGES/Horde_Kolab_Storage.po | 
+ | [mk](/f34/language/mk) | 0 | 120 | 0.0 | /mnt/stockage/packages/f34/php-horde-Horde-Kolab-Storage/Horde_Kolab_Storage-2.2.4/locale/mk/LC_MESSAGES/Horde_Kolab_Storage.po | 
+ | [nb_NO](/f34/language/nb_NO) | 0 | 120 | 0.0 | /mnt/stockage/packages/f34/php-horde-Horde-Kolab-Storage/Horde_Kolab_Storage-2.2.4/locale/nb/LC_MESSAGES/Horde_Kolab_Storage.po | 
+ | [nl](/f34/language/nl) | 0 | 0 | 0.0 | /mnt/stockage/packages/f34/php-horde-Horde-Kolab-Storage/Horde_Kolab_Storage-2.2.4/locale/nl/LC_MESSAGES/Horde_Kolab_Storage.po | 
+ | [nn](/f34/language/nn) | 0 | 120 | 0.0 | /mnt/stockage/packages/f34/php-horde-Horde-Kolab-Storage/Horde_Kolab_Storage-2.2.4/locale/nn/LC_MESSAGES/Horde_Kolab_Storage.po | 
+ | [ro](/f34/language/ro) | 0 | 120 | 0.0 | /mnt/stockage/packages/f34/php-horde-Horde-Kolab-Storage/Horde_Kolab_Storage-2.2.4/locale/ro/LC_MESSAGES/Horde_Kolab_Storage.po | 
 {.sortable}
 
 

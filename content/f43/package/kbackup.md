@@ -18,14 +18,14 @@ The package kbackup (version 25.12.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [bg]({{< ref "/f43/language/bg.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f43/kbackup/po/bg/kbackup.po | 
- | [cs]({{< ref "/f43/language/cs.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f43/kbackup/po/cs/kbackup.po | 
- | [es]({{< ref "/f43/language/es.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f43/kbackup/po/es/kbackup.po | 
- | [ja]({{< ref "/f43/language/ja.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f43/kbackup/po/ja/kbackup.po | 
- | [nn]({{< ref "/f43/language/nn.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f43/kbackup/po/nn/kbackup.po | 
- | [pl]({{< ref "/f43/language/pl.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f43/kbackup/po/pl/kbackup.po | 
- | [pt]({{< ref "/f43/language/pt.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f43/kbackup/po/pt/kbackup.po | 
- | [zh_Hans]({{< ref "/f43/language/zh_Hans.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f43/kbackup/po/zh_CN/kbackup.po | 
+ | [bg](/f43/language/bg) | 0 | 0 | 0.0 | /mnt/stockage/packages/f43/kbackup/po/bg/kbackup.po | 
+ | [cs](/f43/language/cs) | 0 | 0 | 0.0 | /mnt/stockage/packages/f43/kbackup/po/cs/kbackup.po | 
+ | [es](/f43/language/es) | 0 | 0 | 0.0 | /mnt/stockage/packages/f43/kbackup/po/es/kbackup.po | 
+ | [ja](/f43/language/ja) | 0 | 0 | 0.0 | /mnt/stockage/packages/f43/kbackup/po/ja/kbackup.po | 
+ | [nn](/f43/language/nn) | 0 | 0 | 0.0 | /mnt/stockage/packages/f43/kbackup/po/nn/kbackup.po | 
+ | [pl](/f43/language/pl) | 0 | 0 | 0.0 | /mnt/stockage/packages/f43/kbackup/po/pl/kbackup.po | 
+ | [pt](/f43/language/pt) | 0 | 0 | 0.0 | /mnt/stockage/packages/f43/kbackup/po/pt/kbackup.po | 
+ | [zh_Hans](/f43/language/zh_Hans) | 0 | 0 | 0.0 | /mnt/stockage/packages/f43/kbackup/po/zh_CN/kbackup.po | 
 {.sortable}
 
 

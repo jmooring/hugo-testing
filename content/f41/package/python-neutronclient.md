@@ -18,7 +18,7 @@ The package python-neutronclient (version 11.2.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [en_GB]({{< ref "/f41/language/en_GB.md" >}}) | 611 | 611 | 100.0 | /mnt/stockage/packages/f41/python-neutronclient/releasenotes/source/locale/en_GB/LC_MESSAGES/releasenotes.po | 
+ | [en_GB](/f41/language/en_GB) | 611 | 611 | 100.0 | /mnt/stockage/packages/f41/python-neutronclient/releasenotes/source/locale/en_GB/LC_MESSAGES/releasenotes.po | 
 {.sortable}
 
 

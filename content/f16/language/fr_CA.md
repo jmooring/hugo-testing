@@ -38,11 +38,11 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [dopewars]({{< ref "/f16/package/dopewars.md" >}}) | 5286 | 5286 | 100.0 | French | 
- | [jpoker]({{< ref "/f16/package/jpoker.md" >}}) | 256 | 357 | 71.7 | <pokersource-users@gna.org> | 
- | [picard]({{< ref "/f16/package/picard.md" >}}) | 167 | 1626 | 10.3 | French (Canada) (http://www.transifex.net/projects/p/musicbrainz/language/fr_CA/) | 
- | [supertuxkart]({{< ref "/f16/package/supertuxkart.md" >}}) | 55 | 1326 | 4.1 |  | 
- | [olpc-switch-desktop]({{< ref "/f16/package/olpc-switch-desktop.md" >}}) | 0 | 158 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [dopewars](/f16/package/dopewars) | 5286 | 5286 | 100.0 | French | 
+ | [jpoker](/f16/package/jpoker) | 256 | 357 | 71.7 | <pokersource-users@gna.org> | 
+ | [picard](/f16/package/picard) | 167 | 1626 | 10.3 | French (Canada) (http://www.transifex.net/projects/p/musicbrainz/language/fr_CA/) | 
+ | [supertuxkart](/f16/package/supertuxkart) | 55 | 1326 | 4.1 |  | 
+ | [olpc-switch-desktop](/f16/package/olpc-switch-desktop) | 0 | 158 | 0.0 | LANGUAGE <LL@li.org> | 
 {.sortable}
 
 

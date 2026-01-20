@@ -18,18 +18,18 @@ The package celestia (version 1.4.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f7/language/de.md" >}}) | 1336 | 1336 | 100.0 | /mnt/stockage/packages/f7/celestia/po/de.po | 
- | [fr]({{< ref "/f7/language/fr.md" >}}) | 1336 | 1336 | 100.0 | /mnt/stockage/packages/f7/celestia/po/fr.po | 
- | [el]({{< ref "/f7/language/el.md" >}}) | 968 | 1336 | 72.5 | /mnt/stockage/packages/f7/celestia/po/el.po | 
- | [es]({{< ref "/f7/language/es.md" >}}) | 893 | 1336 | 66.8 | /mnt/stockage/packages/f7/celestia/po/es.po | 
- | [pt]({{< ref "/f7/language/pt.md" >}}) | 542 | 1336 | 40.6 | /mnt/stockage/packages/f7/celestia/po/pt.po | 
- | [hu]({{< ref "/f7/language/hu.md" >}}) | 517 | 1336 | 38.7 | /mnt/stockage/packages/f7/celestia/po/hu.po | 
- | [it]({{< ref "/f7/language/it.md" >}}) | 476 | 1336 | 35.6 | /mnt/stockage/packages/f7/celestia/po/it.po | 
- | [nl]({{< ref "/f7/language/nl.md" >}}) | 476 | 1336 | 35.6 | /mnt/stockage/packages/f7/celestia/po/nl.po | 
- | [gl]({{< ref "/f7/language/gl.md" >}}) | 444 | 1336 | 33.2 | /mnt/stockage/packages/f7/celestia/po/gl.po | 
- | [pt_BR]({{< ref "/f7/language/pt_BR.md" >}}) | 444 | 1336 | 33.2 | /mnt/stockage/packages/f7/celestia/po/pt_br.po | 
- | [ru]({{< ref "/f7/language/ru.md" >}}) | 329 | 1336 | 24.6 | /mnt/stockage/packages/f7/celestia/po/ru.po | 
- | [en]({{< ref "/f7/language/en.md" >}}) | 102 | 1336 | 7.6 | /mnt/stockage/packages/f7/celestia/po/en.po | 
+ | [de](/f7/language/de) | 1336 | 1336 | 100.0 | /mnt/stockage/packages/f7/celestia/po/de.po | 
+ | [fr](/f7/language/fr) | 1336 | 1336 | 100.0 | /mnt/stockage/packages/f7/celestia/po/fr.po | 
+ | [el](/f7/language/el) | 968 | 1336 | 72.5 | /mnt/stockage/packages/f7/celestia/po/el.po | 
+ | [es](/f7/language/es) | 893 | 1336 | 66.8 | /mnt/stockage/packages/f7/celestia/po/es.po | 
+ | [pt](/f7/language/pt) | 542 | 1336 | 40.6 | /mnt/stockage/packages/f7/celestia/po/pt.po | 
+ | [hu](/f7/language/hu) | 517 | 1336 | 38.7 | /mnt/stockage/packages/f7/celestia/po/hu.po | 
+ | [it](/f7/language/it) | 476 | 1336 | 35.6 | /mnt/stockage/packages/f7/celestia/po/it.po | 
+ | [nl](/f7/language/nl) | 476 | 1336 | 35.6 | /mnt/stockage/packages/f7/celestia/po/nl.po | 
+ | [gl](/f7/language/gl) | 444 | 1336 | 33.2 | /mnt/stockage/packages/f7/celestia/po/gl.po | 
+ | [pt_BR](/f7/language/pt_BR) | 444 | 1336 | 33.2 | /mnt/stockage/packages/f7/celestia/po/pt_br.po | 
+ | [ru](/f7/language/ru) | 329 | 1336 | 24.6 | /mnt/stockage/packages/f7/celestia/po/ru.po | 
+ | [en](/f7/language/en) | 102 | 1336 | 7.6 | /mnt/stockage/packages/f7/celestia/po/en.po | 
 {.sortable}
 
 

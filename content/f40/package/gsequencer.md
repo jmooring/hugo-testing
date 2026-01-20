@@ -18,10 +18,10 @@ The package gsequencer (version 7.2.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f40/language/fr.md" >}}) | 447 | 999 | 44.7 | /mnt/stockage/packages/f40/gsequencer/po/fr.po | 
- | [de]({{< ref "/f40/language/de.md" >}}) | 444 | 999 | 44.4 | /mnt/stockage/packages/f40/gsequencer/po/de.po | 
- | [pl]({{< ref "/f40/language/pl.md" >}}) | 431 | 999 | 43.1 | /mnt/stockage/packages/f40/gsequencer/po/pl.po | 
- | [it]({{< ref "/f40/language/it.md" >}}) | 0 | 999 | 0.0 | /mnt/stockage/packages/f40/gsequencer/po/it.po | 
+ | [fr](/f40/language/fr) | 447 | 999 | 44.7 | /mnt/stockage/packages/f40/gsequencer/po/fr.po | 
+ | [de](/f40/language/de) | 444 | 999 | 44.4 | /mnt/stockage/packages/f40/gsequencer/po/de.po | 
+ | [pl](/f40/language/pl) | 431 | 999 | 43.1 | /mnt/stockage/packages/f40/gsequencer/po/pl.po | 
+ | [it](/f40/language/it) | 0 | 999 | 0.0 | /mnt/stockage/packages/f40/gsequencer/po/it.po | 
 {.sortable}
 
 

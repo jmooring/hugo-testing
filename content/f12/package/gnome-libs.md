@@ -18,48 +18,48 @@ The package gnome-libs (version 1.4.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [error]({{< ref "/f12/language/error.md" >}}) | 3135 | 3135 | 100.0 | /mnt/stockage/packages/f12/gnome-libs/zh_TW.Big5.po/mnt/stockage/packages/f12/gnome-libs/zh_CN.GB2312.po/mnt/stockage/packages/f12/gnome-libs/po/sp.po | 
- | [eu]({{< ref "/f12/language/eu.md" >}}) | 1085 | 1085 | 100.0 | /mnt/stockage/packages/f12/gnome-libs/po/eu.po | 
- | [fi]({{< ref "/f12/language/fi.md" >}}) | 1085 | 1085 | 100.0 | /mnt/stockage/packages/f12/gnome-libs/po/fi.po | 
- | [ms]({{< ref "/f12/language/ms.md" >}}) | 1085 | 1085 | 100.0 | /mnt/stockage/packages/f12/gnome-libs/po/ms.po | 
- | [nb_NO]({{< ref "/f12/language/nb_NO.md" >}}) | 1085 | 1085 | 100.0 | /mnt/stockage/packages/f12/gnome-libs/po/no.po | 
- | [pt]({{< ref "/f12/language/pt.md" >}}) | 1085 | 1085 | 100.0 | /mnt/stockage/packages/f12/gnome-libs/po/pt.po | 
- | [pt_BR]({{< ref "/f12/language/pt_BR.md" >}}) | 1085 | 1085 | 100.0 | /mnt/stockage/packages/f12/gnome-libs/po/pt_BR.po | 
- | [sk]({{< ref "/f12/language/sk.md" >}}) | 1085 | 1085 | 100.0 | /mnt/stockage/packages/f12/gnome-libs/po/sk.po | 
- | [sr]({{< ref "/f12/language/sr.md" >}}) | 1085 | 1085 | 100.0 | /mnt/stockage/packages/f12/gnome-libs/po/sr.po | 
- | [sv]({{< ref "/f12/language/sv.md" >}}) | 1085 | 1085 | 100.0 | /mnt/stockage/packages/f12/gnome-libs/po/sv.po | 
- | [wa]({{< ref "/f12/language/wa.md" >}}) | 1085 | 1085 | 100.0 | /mnt/stockage/packages/f12/gnome-libs/po/wa.po | 
- | [vi]({{< ref "/f12/language/vi.md" >}}) | 1068 | 1085 | 98.4 | /mnt/stockage/packages/f12/gnome-libs/po/vi.po | 
- | [fr]({{< ref "/f12/language/fr.md" >}}) | 2156 | 2207 | 97.7 | /mnt/stockage/packages/f12/gnome-libs/fr.po/mnt/stockage/packages/f12/gnome-libs/po/fr.po | 
- | [zh_Hant]({{< ref "/f12/language/zh_Hant.md" >}}) | 2156 | 2207 | 97.7 | /mnt/stockage/packages/f12/gnome-libs/zh_TW.po/mnt/stockage/packages/f12/gnome-libs/po/zh_TW.po | 
- | [ko]({{< ref "/f12/language/ko.md" >}}) | 2119 | 2207 | 96.0 | /mnt/stockage/packages/f12/gnome-libs/ko.po/mnt/stockage/packages/f12/gnome-libs/po/ko.po | 
- | [de]({{< ref "/f12/language/de.md" >}}) | 2105 | 2207 | 95.4 | /mnt/stockage/packages/f12/gnome-libs/de.po/mnt/stockage/packages/f12/gnome-libs/po/de.po | 
- | [el]({{< ref "/f12/language/el.md" >}}) | 1034 | 1085 | 95.3 | /mnt/stockage/packages/f12/gnome-libs/po/el.po | 
- | [nl]({{< ref "/f12/language/nl.md" >}}) | 1034 | 1085 | 95.3 | /mnt/stockage/packages/f12/gnome-libs/po/nl.po | 
- | [es]({{< ref "/f12/language/es.md" >}}) | 2013 | 2207 | 91.2 | /mnt/stockage/packages/f12/gnome-libs/es.po/mnt/stockage/packages/f12/gnome-libs/po/es.po | 
- | [it]({{< ref "/f12/language/it.md" >}}) | 2013 | 2207 | 91.2 | /mnt/stockage/packages/f12/gnome-libs/it.po/mnt/stockage/packages/f12/gnome-libs/po/it.po | 
- | [ja]({{< ref "/f12/language/ja.md" >}}) | 2013 | 2207 | 91.2 | /mnt/stockage/packages/f12/gnome-libs/ja.po/mnt/stockage/packages/f12/gnome-libs/po/ja.po | 
- | [az]({{< ref "/f12/language/az.md" >}}) | 988 | 1085 | 91.1 | /mnt/stockage/packages/f12/gnome-libs/po/az.po | 
- | [ca]({{< ref "/f12/language/ca.md" >}}) | 988 | 1085 | 91.1 | /mnt/stockage/packages/f12/gnome-libs/po/ca.po | 
- | [cs]({{< ref "/f12/language/cs.md" >}}) | 988 | 1085 | 91.1 | /mnt/stockage/packages/f12/gnome-libs/po/cs.po | 
- | [da]({{< ref "/f12/language/da.md" >}}) | 988 | 1085 | 91.1 | /mnt/stockage/packages/f12/gnome-libs/po/da.po | 
- | [et]({{< ref "/f12/language/et.md" >}}) | 988 | 1085 | 91.1 | /mnt/stockage/packages/f12/gnome-libs/po/et.po | 
- | [gl]({{< ref "/f12/language/gl.md" >}}) | 988 | 1085 | 91.1 | /mnt/stockage/packages/f12/gnome-libs/po/gl.po | 
- | [hu]({{< ref "/f12/language/hu.md" >}}) | 988 | 1085 | 91.1 | /mnt/stockage/packages/f12/gnome-libs/po/hu.po | 
- | [lt]({{< ref "/f12/language/lt.md" >}}) | 988 | 1085 | 91.1 | /mnt/stockage/packages/f12/gnome-libs/po/lt.po | 
- | [lv]({{< ref "/f12/language/lv.md" >}}) | 988 | 1085 | 91.1 | /mnt/stockage/packages/f12/gnome-libs/po/lv.po | 
- | [nn]({{< ref "/f12/language/nn.md" >}}) | 988 | 1085 | 91.1 | /mnt/stockage/packages/f12/gnome-libs/po/nn.po | 
- | [pl]({{< ref "/f12/language/pl.md" >}}) | 988 | 1085 | 91.1 | /mnt/stockage/packages/f12/gnome-libs/po/pl.po | 
- | [ro]({{< ref "/f12/language/ro.md" >}}) | 988 | 1085 | 91.1 | /mnt/stockage/packages/f12/gnome-libs/po/ro.po | 
- | [ru]({{< ref "/f12/language/ru.md" >}}) | 988 | 1085 | 91.1 | /mnt/stockage/packages/f12/gnome-libs/po/ru.po | 
- | [sl]({{< ref "/f12/language/sl.md" >}}) | 988 | 1085 | 91.1 | /mnt/stockage/packages/f12/gnome-libs/po/sl.po | 
- | [tr]({{< ref "/f12/language/tr.md" >}}) | 988 | 1085 | 91.1 | /mnt/stockage/packages/f12/gnome-libs/po/tr.po | 
- | [uk]({{< ref "/f12/language/uk.md" >}}) | 988 | 1085 | 91.1 | /mnt/stockage/packages/f12/gnome-libs/po/uk.po | 
- | [ta]({{< ref "/f12/language/ta.md" >}}) | 917 | 1085 | 84.5 | /mnt/stockage/packages/f12/gnome-libs/po/ta.po | 
- | [hr]({{< ref "/f12/language/hr.md" >}}) | 831 | 1085 | 76.6 | /mnt/stockage/packages/f12/gnome-libs/po/hr.po | 
- | [zh_Hans]({{< ref "/f12/language/zh_Hans.md" >}}) | 663 | 1085 | 61.1 | /mnt/stockage/packages/f12/gnome-libs/po/zh_CN.po | 
- | [ga]({{< ref "/f12/language/ga.md" >}}) | 254 | 1085 | 23.4 | /mnt/stockage/packages/f12/gnome-libs/po/ga.po | 
- | [en_GB]({{< ref "/f12/language/en_GB.md" >}}) | 5 | 1085 | 0.5 | /mnt/stockage/packages/f12/gnome-libs/po/en_GB.po | 
+ | [error](/f12/language/error) | 3135 | 3135 | 100.0 | /mnt/stockage/packages/f12/gnome-libs/zh_TW.Big5.po/mnt/stockage/packages/f12/gnome-libs/zh_CN.GB2312.po/mnt/stockage/packages/f12/gnome-libs/po/sp.po | 
+ | [eu](/f12/language/eu) | 1085 | 1085 | 100.0 | /mnt/stockage/packages/f12/gnome-libs/po/eu.po | 
+ | [fi](/f12/language/fi) | 1085 | 1085 | 100.0 | /mnt/stockage/packages/f12/gnome-libs/po/fi.po | 
+ | [ms](/f12/language/ms) | 1085 | 1085 | 100.0 | /mnt/stockage/packages/f12/gnome-libs/po/ms.po | 
+ | [nb_NO](/f12/language/nb_NO) | 1085 | 1085 | 100.0 | /mnt/stockage/packages/f12/gnome-libs/po/no.po | 
+ | [pt](/f12/language/pt) | 1085 | 1085 | 100.0 | /mnt/stockage/packages/f12/gnome-libs/po/pt.po | 
+ | [pt_BR](/f12/language/pt_BR) | 1085 | 1085 | 100.0 | /mnt/stockage/packages/f12/gnome-libs/po/pt_BR.po | 
+ | [sk](/f12/language/sk) | 1085 | 1085 | 100.0 | /mnt/stockage/packages/f12/gnome-libs/po/sk.po | 
+ | [sr](/f12/language/sr) | 1085 | 1085 | 100.0 | /mnt/stockage/packages/f12/gnome-libs/po/sr.po | 
+ | [sv](/f12/language/sv) | 1085 | 1085 | 100.0 | /mnt/stockage/packages/f12/gnome-libs/po/sv.po | 
+ | [wa](/f12/language/wa) | 1085 | 1085 | 100.0 | /mnt/stockage/packages/f12/gnome-libs/po/wa.po | 
+ | [vi](/f12/language/vi) | 1068 | 1085 | 98.4 | /mnt/stockage/packages/f12/gnome-libs/po/vi.po | 
+ | [fr](/f12/language/fr) | 2156 | 2207 | 97.7 | /mnt/stockage/packages/f12/gnome-libs/fr.po/mnt/stockage/packages/f12/gnome-libs/po/fr.po | 
+ | [zh_Hant](/f12/language/zh_Hant) | 2156 | 2207 | 97.7 | /mnt/stockage/packages/f12/gnome-libs/zh_TW.po/mnt/stockage/packages/f12/gnome-libs/po/zh_TW.po | 
+ | [ko](/f12/language/ko) | 2119 | 2207 | 96.0 | /mnt/stockage/packages/f12/gnome-libs/ko.po/mnt/stockage/packages/f12/gnome-libs/po/ko.po | 
+ | [de](/f12/language/de) | 2105 | 2207 | 95.4 | /mnt/stockage/packages/f12/gnome-libs/de.po/mnt/stockage/packages/f12/gnome-libs/po/de.po | 
+ | [el](/f12/language/el) | 1034 | 1085 | 95.3 | /mnt/stockage/packages/f12/gnome-libs/po/el.po | 
+ | [nl](/f12/language/nl) | 1034 | 1085 | 95.3 | /mnt/stockage/packages/f12/gnome-libs/po/nl.po | 
+ | [es](/f12/language/es) | 2013 | 2207 | 91.2 | /mnt/stockage/packages/f12/gnome-libs/es.po/mnt/stockage/packages/f12/gnome-libs/po/es.po | 
+ | [it](/f12/language/it) | 2013 | 2207 | 91.2 | /mnt/stockage/packages/f12/gnome-libs/it.po/mnt/stockage/packages/f12/gnome-libs/po/it.po | 
+ | [ja](/f12/language/ja) | 2013 | 2207 | 91.2 | /mnt/stockage/packages/f12/gnome-libs/ja.po/mnt/stockage/packages/f12/gnome-libs/po/ja.po | 
+ | [az](/f12/language/az) | 988 | 1085 | 91.1 | /mnt/stockage/packages/f12/gnome-libs/po/az.po | 
+ | [ca](/f12/language/ca) | 988 | 1085 | 91.1 | /mnt/stockage/packages/f12/gnome-libs/po/ca.po | 
+ | [cs](/f12/language/cs) | 988 | 1085 | 91.1 | /mnt/stockage/packages/f12/gnome-libs/po/cs.po | 
+ | [da](/f12/language/da) | 988 | 1085 | 91.1 | /mnt/stockage/packages/f12/gnome-libs/po/da.po | 
+ | [et](/f12/language/et) | 988 | 1085 | 91.1 | /mnt/stockage/packages/f12/gnome-libs/po/et.po | 
+ | [gl](/f12/language/gl) | 988 | 1085 | 91.1 | /mnt/stockage/packages/f12/gnome-libs/po/gl.po | 
+ | [hu](/f12/language/hu) | 988 | 1085 | 91.1 | /mnt/stockage/packages/f12/gnome-libs/po/hu.po | 
+ | [lt](/f12/language/lt) | 988 | 1085 | 91.1 | /mnt/stockage/packages/f12/gnome-libs/po/lt.po | 
+ | [lv](/f12/language/lv) | 988 | 1085 | 91.1 | /mnt/stockage/packages/f12/gnome-libs/po/lv.po | 
+ | [nn](/f12/language/nn) | 988 | 1085 | 91.1 | /mnt/stockage/packages/f12/gnome-libs/po/nn.po | 
+ | [pl](/f12/language/pl) | 988 | 1085 | 91.1 | /mnt/stockage/packages/f12/gnome-libs/po/pl.po | 
+ | [ro](/f12/language/ro) | 988 | 1085 | 91.1 | /mnt/stockage/packages/f12/gnome-libs/po/ro.po | 
+ | [ru](/f12/language/ru) | 988 | 1085 | 91.1 | /mnt/stockage/packages/f12/gnome-libs/po/ru.po | 
+ | [sl](/f12/language/sl) | 988 | 1085 | 91.1 | /mnt/stockage/packages/f12/gnome-libs/po/sl.po | 
+ | [tr](/f12/language/tr) | 988 | 1085 | 91.1 | /mnt/stockage/packages/f12/gnome-libs/po/tr.po | 
+ | [uk](/f12/language/uk) | 988 | 1085 | 91.1 | /mnt/stockage/packages/f12/gnome-libs/po/uk.po | 
+ | [ta](/f12/language/ta) | 917 | 1085 | 84.5 | /mnt/stockage/packages/f12/gnome-libs/po/ta.po | 
+ | [hr](/f12/language/hr) | 831 | 1085 | 76.6 | /mnt/stockage/packages/f12/gnome-libs/po/hr.po | 
+ | [zh_Hans](/f12/language/zh_Hans) | 663 | 1085 | 61.1 | /mnt/stockage/packages/f12/gnome-libs/po/zh_CN.po | 
+ | [ga](/f12/language/ga) | 254 | 1085 | 23.4 | /mnt/stockage/packages/f12/gnome-libs/po/ga.po | 
+ | [en_GB](/f12/language/en_GB) | 5 | 1085 | 0.5 | /mnt/stockage/packages/f12/gnome-libs/po/en_GB.po | 
 {.sortable}
 
 

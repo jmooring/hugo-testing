@@ -18,9 +18,9 @@ The package wineglass (version 1.2.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f34/language/fr.md" >}}) | 108 | 143 | 75.5 | /mnt/stockage/packages/f34/wineglass/po/fr.po | 
- | [el]({{< ref "/f34/language/el.md" >}}) | 103 | 143 | 72.0 | /mnt/stockage/packages/f34/wineglass/po/el.po | 
- | [de]({{< ref "/f34/language/de.md" >}}) | 0 | 143 | 0.0 | /mnt/stockage/packages/f34/wineglass/po/de.po | 
+ | [fr](/f34/language/fr) | 108 | 143 | 75.5 | /mnt/stockage/packages/f34/wineglass/po/fr.po | 
+ | [el](/f34/language/el) | 103 | 143 | 72.0 | /mnt/stockage/packages/f34/wineglass/po/el.po | 
+ | [de](/f34/language/de) | 0 | 143 | 0.0 | /mnt/stockage/packages/f34/wineglass/po/de.po | 
 {.sortable}
 
 

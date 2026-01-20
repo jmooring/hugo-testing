@@ -18,21 +18,21 @@ The package solaar (version 0.9.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f27/language/de.md" >}}) | 411 | 411 | 100.0 | /mnt/stockage/packages/f27/solaar/po/de.po | 
- | [el]({{< ref "/f27/language/el.md" >}}) | 411 | 411 | 100.0 | /mnt/stockage/packages/f27/solaar/po/el.po | 
- | [en]({{< ref "/f27/language/en.md" >}}) | 140 | 140 | 100.0 | /mnt/stockage/packages/f27/solaar/packaging/debian/po/en.po | 
- | [es]({{< ref "/f27/language/es.md" >}}) | 411 | 411 | 100.0 | /mnt/stockage/packages/f27/solaar/po/es.po | 
- | [fr]({{< ref "/f27/language/fr.md" >}}) | 470 | 470 | 100.0 | /mnt/stockage/packages/f27/solaar/po/fr.po | 
- | [hr]({{< ref "/f27/language/hr.md" >}}) | 551 | 551 | 100.0 | /mnt/stockage/packages/f27/solaar/packaging/debian/po/hr.po/mnt/stockage/packages/f27/solaar/po/hr.po | 
- | [it]({{< ref "/f27/language/it.md" >}}) | 411 | 411 | 100.0 | /mnt/stockage/packages/f27/solaar/po/it.po | 
- | [pt_BR]({{< ref "/f27/language/pt_BR.md" >}}) | 486 | 486 | 100.0 | /mnt/stockage/packages/f27/solaar/po/pt_BR.po | 
- | [ru]({{< ref "/f27/language/ru.md" >}}) | 470 | 470 | 100.0 | /mnt/stockage/packages/f27/solaar/po/ru.po | 
- | [sv]({{< ref "/f27/language/sv.md" >}}) | 411 | 411 | 100.0 | /mnt/stockage/packages/f27/solaar/po/sv.po | 
- | [tr]({{< ref "/f27/language/tr.md" >}}) | 411 | 411 | 100.0 | /mnt/stockage/packages/f27/solaar/po/tr.po | 
- | [zh_Hans]({{< ref "/f27/language/zh_Hans.md" >}}) | 411 | 411 | 100.0 | /mnt/stockage/packages/f27/solaar/po/zh_CN.po | 
- | [fi]({{< ref "/f27/language/fi.md" >}}) | 407 | 411 | 99.0 | /mnt/stockage/packages/f27/solaar/po/fi.po | 
- | [pl]({{< ref "/f27/language/pl.md" >}}) | 398 | 411 | 96.8 | /mnt/stockage/packages/f27/solaar/po/pl.po | 
- | [ro]({{< ref "/f27/language/ro.md" >}}) | 375 | 411 | 91.2 | /mnt/stockage/packages/f27/solaar/po/ro.po | 
+ | [de](/f27/language/de) | 411 | 411 | 100.0 | /mnt/stockage/packages/f27/solaar/po/de.po | 
+ | [el](/f27/language/el) | 411 | 411 | 100.0 | /mnt/stockage/packages/f27/solaar/po/el.po | 
+ | [en](/f27/language/en) | 140 | 140 | 100.0 | /mnt/stockage/packages/f27/solaar/packaging/debian/po/en.po | 
+ | [es](/f27/language/es) | 411 | 411 | 100.0 | /mnt/stockage/packages/f27/solaar/po/es.po | 
+ | [fr](/f27/language/fr) | 470 | 470 | 100.0 | /mnt/stockage/packages/f27/solaar/po/fr.po | 
+ | [hr](/f27/language/hr) | 551 | 551 | 100.0 | /mnt/stockage/packages/f27/solaar/packaging/debian/po/hr.po/mnt/stockage/packages/f27/solaar/po/hr.po | 
+ | [it](/f27/language/it) | 411 | 411 | 100.0 | /mnt/stockage/packages/f27/solaar/po/it.po | 
+ | [pt_BR](/f27/language/pt_BR) | 486 | 486 | 100.0 | /mnt/stockage/packages/f27/solaar/po/pt_BR.po | 
+ | [ru](/f27/language/ru) | 470 | 470 | 100.0 | /mnt/stockage/packages/f27/solaar/po/ru.po | 
+ | [sv](/f27/language/sv) | 411 | 411 | 100.0 | /mnt/stockage/packages/f27/solaar/po/sv.po | 
+ | [tr](/f27/language/tr) | 411 | 411 | 100.0 | /mnt/stockage/packages/f27/solaar/po/tr.po | 
+ | [zh_Hans](/f27/language/zh_Hans) | 411 | 411 | 100.0 | /mnt/stockage/packages/f27/solaar/po/zh_CN.po | 
+ | [fi](/f27/language/fi) | 407 | 411 | 99.0 | /mnt/stockage/packages/f27/solaar/po/fi.po | 
+ | [pl](/f27/language/pl) | 398 | 411 | 96.8 | /mnt/stockage/packages/f27/solaar/po/pl.po | 
+ | [ro](/f27/language/ro) | 375 | 411 | 91.2 | /mnt/stockage/packages/f27/solaar/po/ro.po | 
 {.sortable}
 
 

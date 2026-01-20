@@ -18,26 +18,26 @@ The package trytond-account-statement (version 4.0.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f29/language/ca.md" >}}) | 231 | 231 | 100.0 | /mnt/stockage/packages/f29/trytond-account-statement/locale/ca_ES.po | 
- | [de]({{< ref "/f29/language/de.md" >}}) | 231 | 231 | 100.0 | /mnt/stockage/packages/f29/trytond-account-statement/locale/de_DE.po | 
- | [es]({{< ref "/f29/language/es.md" >}}) | 231 | 231 | 100.0 | /mnt/stockage/packages/f29/trytond-account-statement/locale/es_ES.po | 
- | [es_AR]({{< ref "/f29/language/es_AR.md" >}}) | 231 | 231 | 100.0 | /mnt/stockage/packages/f29/trytond-account-statement/locale/es_AR.po | 
- | [es_CO]({{< ref "/f29/language/es_CO.md" >}}) | 231 | 231 | 100.0 | /mnt/stockage/packages/f29/trytond-account-statement/locale/es_CO.po | 
- | [es_EC]({{< ref "/f29/language/es_EC.md" >}}) | 231 | 231 | 100.0 | /mnt/stockage/packages/f29/trytond-account-statement/locale/es_EC.po | 
- | [fr]({{< ref "/f29/language/fr.md" >}}) | 231 | 231 | 100.0 | /mnt/stockage/packages/f29/trytond-account-statement/locale/fr_FR.po | 
- | [pt_BR]({{< ref "/f29/language/pt_BR.md" >}}) | 231 | 231 | 100.0 | /mnt/stockage/packages/f29/trytond-account-statement/locale/pt_BR.po | 
- | [sl]({{< ref "/f29/language/sl.md" >}}) | 231 | 231 | 100.0 | /mnt/stockage/packages/f29/trytond-account-statement/locale/sl_SI.po | 
- | [es_MX]({{< ref "/f29/language/es_MX.md" >}}) | 195 | 231 | 84.4 | /mnt/stockage/packages/f29/trytond-account-statement/locale/es_MX.po | 
- | [bg]({{< ref "/f29/language/bg.md" >}}) | 91 | 231 | 39.4 | /mnt/stockage/packages/f29/trytond-account-statement/locale/bg_BG.po | 
- | [nl]({{< ref "/f29/language/nl.md" >}}) | 59 | 231 | 25.5 | /mnt/stockage/packages/f29/trytond-account-statement/locale/nl_NL.po | 
- | [cs]({{< ref "/f29/language/cs.md" >}}) | 0 | 231 | 0.0 | /mnt/stockage/packages/f29/trytond-account-statement/locale/cs_CZ.po | 
- | [hu]({{< ref "/f29/language/hu.md" >}}) | 0 | 231 | 0.0 | /mnt/stockage/packages/f29/trytond-account-statement/locale/hu_HU.po | 
- | [it]({{< ref "/f29/language/it.md" >}}) | 0 | 231 | 0.0 | /mnt/stockage/packages/f29/trytond-account-statement/locale/it_IT.po | 
- | [ja]({{< ref "/f29/language/ja.md" >}}) | 0 | 231 | 0.0 | /mnt/stockage/packages/f29/trytond-account-statement/locale/ja_JP.po | 
- | [lo]({{< ref "/f29/language/lo.md" >}}) | 0 | 231 | 0.0 | /mnt/stockage/packages/f29/trytond-account-statement/locale/lo_LA.po | 
- | [lt]({{< ref "/f29/language/lt.md" >}}) | 0 | 231 | 0.0 | /mnt/stockage/packages/f29/trytond-account-statement/locale/lt_LT.po | 
- | [ru]({{< ref "/f29/language/ru.md" >}}) | 0 | 231 | 0.0 | /mnt/stockage/packages/f29/trytond-account-statement/locale/ru_RU.po | 
- | [zh_Hans]({{< ref "/f29/language/zh_Hans.md" >}}) | 0 | 231 | 0.0 | /mnt/stockage/packages/f29/trytond-account-statement/locale/zh_CN.po | 
+ | [ca](/f29/language/ca) | 231 | 231 | 100.0 | /mnt/stockage/packages/f29/trytond-account-statement/locale/ca_ES.po | 
+ | [de](/f29/language/de) | 231 | 231 | 100.0 | /mnt/stockage/packages/f29/trytond-account-statement/locale/de_DE.po | 
+ | [es](/f29/language/es) | 231 | 231 | 100.0 | /mnt/stockage/packages/f29/trytond-account-statement/locale/es_ES.po | 
+ | [es_AR](/f29/language/es_AR) | 231 | 231 | 100.0 | /mnt/stockage/packages/f29/trytond-account-statement/locale/es_AR.po | 
+ | [es_CO](/f29/language/es_CO) | 231 | 231 | 100.0 | /mnt/stockage/packages/f29/trytond-account-statement/locale/es_CO.po | 
+ | [es_EC](/f29/language/es_EC) | 231 | 231 | 100.0 | /mnt/stockage/packages/f29/trytond-account-statement/locale/es_EC.po | 
+ | [fr](/f29/language/fr) | 231 | 231 | 100.0 | /mnt/stockage/packages/f29/trytond-account-statement/locale/fr_FR.po | 
+ | [pt_BR](/f29/language/pt_BR) | 231 | 231 | 100.0 | /mnt/stockage/packages/f29/trytond-account-statement/locale/pt_BR.po | 
+ | [sl](/f29/language/sl) | 231 | 231 | 100.0 | /mnt/stockage/packages/f29/trytond-account-statement/locale/sl_SI.po | 
+ | [es_MX](/f29/language/es_MX) | 195 | 231 | 84.4 | /mnt/stockage/packages/f29/trytond-account-statement/locale/es_MX.po | 
+ | [bg](/f29/language/bg) | 91 | 231 | 39.4 | /mnt/stockage/packages/f29/trytond-account-statement/locale/bg_BG.po | 
+ | [nl](/f29/language/nl) | 59 | 231 | 25.5 | /mnt/stockage/packages/f29/trytond-account-statement/locale/nl_NL.po | 
+ | [cs](/f29/language/cs) | 0 | 231 | 0.0 | /mnt/stockage/packages/f29/trytond-account-statement/locale/cs_CZ.po | 
+ | [hu](/f29/language/hu) | 0 | 231 | 0.0 | /mnt/stockage/packages/f29/trytond-account-statement/locale/hu_HU.po | 
+ | [it](/f29/language/it) | 0 | 231 | 0.0 | /mnt/stockage/packages/f29/trytond-account-statement/locale/it_IT.po | 
+ | [ja](/f29/language/ja) | 0 | 231 | 0.0 | /mnt/stockage/packages/f29/trytond-account-statement/locale/ja_JP.po | 
+ | [lo](/f29/language/lo) | 0 | 231 | 0.0 | /mnt/stockage/packages/f29/trytond-account-statement/locale/lo_LA.po | 
+ | [lt](/f29/language/lt) | 0 | 231 | 0.0 | /mnt/stockage/packages/f29/trytond-account-statement/locale/lt_LT.po | 
+ | [ru](/f29/language/ru) | 0 | 231 | 0.0 | /mnt/stockage/packages/f29/trytond-account-statement/locale/ru_RU.po | 
+ | [zh_Hans](/f29/language/zh_Hans) | 0 | 231 | 0.0 | /mnt/stockage/packages/f29/trytond-account-statement/locale/zh_CN.po | 
 {.sortable}
 
 

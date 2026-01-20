@@ -18,7 +18,7 @@ The package taxipilot (version 0.9.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [it]({{< ref "/f26/language/it.md" >}}) | 975 | 975 | 100.0 | /mnt/stockage/packages/f26/taxipilot/po/it.po | 
+ | [it](/f26/language/it) | 975 | 975 | 100.0 | /mnt/stockage/packages/f26/taxipilot/po/it.po | 
 {.sortable}
 
 

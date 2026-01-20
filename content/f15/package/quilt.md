@@ -18,9 +18,9 @@ The package quilt (version 0.48):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f15/language/de.md" >}}) | 2785 | 3181 | 87.6 | /mnt/stockage/packages/f15/quilt/po/de.po | 
- | [ja]({{< ref "/f15/language/ja.md" >}}) | 2400 | 3181 | 75.4 | /mnt/stockage/packages/f15/quilt/po/ja.po | 
- | [fr]({{< ref "/f15/language/fr.md" >}}) | 2103 | 3181 | 66.1 | /mnt/stockage/packages/f15/quilt/po/fr.po | 
+ | [de](/f15/language/de) | 2785 | 3181 | 87.6 | /mnt/stockage/packages/f15/quilt/po/de.po | 
+ | [ja](/f15/language/ja) | 2400 | 3181 | 75.4 | /mnt/stockage/packages/f15/quilt/po/ja.po | 
+ | [fr](/f15/language/fr) | 2103 | 3181 | 66.1 | /mnt/stockage/packages/f15/quilt/po/fr.po | 
 {.sortable}
 
 

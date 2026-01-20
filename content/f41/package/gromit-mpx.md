@@ -18,12 +18,12 @@ The package gromit-mpx (version 1.7.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f41/language/de.md" >}}) | 312 | 312 | 100.0 | /mnt/stockage/packages/f41/gromit-mpx/po/de.po | 
- | [es]({{< ref "/f41/language/es.md" >}}) | 312 | 312 | 100.0 | /mnt/stockage/packages/f41/gromit-mpx/po/es.po | 
- | [fa]({{< ref "/f41/language/fa.md" >}}) | 312 | 312 | 100.0 | /mnt/stockage/packages/f41/gromit-mpx/po/fa.po | 
- | [he]({{< ref "/f41/language/he.md" >}}) | 312 | 312 | 100.0 | /mnt/stockage/packages/f41/gromit-mpx/po/he.po | 
- | [it]({{< ref "/f41/language/it.md" >}}) | 312 | 312 | 100.0 | /mnt/stockage/packages/f41/gromit-mpx/po/it.po | 
- | [pt_BR]({{< ref "/f41/language/pt_BR.md" >}}) | 312 | 312 | 100.0 | /mnt/stockage/packages/f41/gromit-mpx/po/pt_BR.po | 
+ | [de](/f41/language/de) | 312 | 312 | 100.0 | /mnt/stockage/packages/f41/gromit-mpx/po/de.po | 
+ | [es](/f41/language/es) | 312 | 312 | 100.0 | /mnt/stockage/packages/f41/gromit-mpx/po/es.po | 
+ | [fa](/f41/language/fa) | 312 | 312 | 100.0 | /mnt/stockage/packages/f41/gromit-mpx/po/fa.po | 
+ | [he](/f41/language/he) | 312 | 312 | 100.0 | /mnt/stockage/packages/f41/gromit-mpx/po/he.po | 
+ | [it](/f41/language/it) | 312 | 312 | 100.0 | /mnt/stockage/packages/f41/gromit-mpx/po/it.po | 
+ | [pt_BR](/f41/language/pt_BR) | 312 | 312 | 100.0 | /mnt/stockage/packages/f41/gromit-mpx/po/pt_BR.po | 
 {.sortable}
 
 

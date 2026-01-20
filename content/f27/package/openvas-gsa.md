@@ -18,13 +18,13 @@ The package openvas-gsa (version 7.0.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f27/language/de.md" >}}) | 7382 | 7411 | 99.6 | /mnt/stockage/packages/f27/openvas-gsa/src/po/gsad_js-de.po/mnt/stockage/packages/f27/openvas-gsa/src/po/gsad_xsl-de.po | 
- | [pt_BR]({{< ref "/f27/language/pt_BR.md" >}}) | 1540 | 7407 | 20.8 | /mnt/stockage/packages/f27/openvas-gsa/src/po/gsad_js-pt_BR.po/mnt/stockage/packages/f27/openvas-gsa/src/po/gsad_xsl-pt_BR.po | 
- | [ar]({{< ref "/f27/language/ar.md" >}}) | 1492 | 7407 | 20.1 | /mnt/stockage/packages/f27/openvas-gsa/src/po/gsad_js-ar.po/mnt/stockage/packages/f27/openvas-gsa/src/po/gsad_xsl-ar.po | 
- | [zh_Hans]({{< ref "/f27/language/zh_Hans.md" >}}) | 276 | 7296 | 3.8 | /mnt/stockage/packages/f27/openvas-gsa/src/po/gsad_js-zh_CN.po/mnt/stockage/packages/f27/openvas-gsa/src/po/gsad_xsl-zh_CN.po | 
- | [fr]({{< ref "/f27/language/fr.md" >}}) | 224 | 7389 | 3.0 | /mnt/stockage/packages/f27/openvas-gsa/src/po/gsad_js-fr.po/mnt/stockage/packages/f27/openvas-gsa/src/po/gsad_xsl-fr.po | 
- | [ru]({{< ref "/f27/language/ru.md" >}}) | 67 | 7296 | 0.9 | /mnt/stockage/packages/f27/openvas-gsa/src/po/gsad_js-ru.po/mnt/stockage/packages/f27/openvas-gsa/src/po/gsad_xsl-ru.po | 
- | [tr]({{< ref "/f27/language/tr.md" >}}) | 9 | 7389 | 0.1 | /mnt/stockage/packages/f27/openvas-gsa/src/po/gsad_js-tr.po/mnt/stockage/packages/f27/openvas-gsa/src/po/gsad_xsl-tr.po | 
+ | [de](/f27/language/de) | 7382 | 7411 | 99.6 | /mnt/stockage/packages/f27/openvas-gsa/src/po/gsad_js-de.po/mnt/stockage/packages/f27/openvas-gsa/src/po/gsad_xsl-de.po | 
+ | [pt_BR](/f27/language/pt_BR) | 1540 | 7407 | 20.8 | /mnt/stockage/packages/f27/openvas-gsa/src/po/gsad_js-pt_BR.po/mnt/stockage/packages/f27/openvas-gsa/src/po/gsad_xsl-pt_BR.po | 
+ | [ar](/f27/language/ar) | 1492 | 7407 | 20.1 | /mnt/stockage/packages/f27/openvas-gsa/src/po/gsad_js-ar.po/mnt/stockage/packages/f27/openvas-gsa/src/po/gsad_xsl-ar.po | 
+ | [zh_Hans](/f27/language/zh_Hans) | 276 | 7296 | 3.8 | /mnt/stockage/packages/f27/openvas-gsa/src/po/gsad_js-zh_CN.po/mnt/stockage/packages/f27/openvas-gsa/src/po/gsad_xsl-zh_CN.po | 
+ | [fr](/f27/language/fr) | 224 | 7389 | 3.0 | /mnt/stockage/packages/f27/openvas-gsa/src/po/gsad_js-fr.po/mnt/stockage/packages/f27/openvas-gsa/src/po/gsad_xsl-fr.po | 
+ | [ru](/f27/language/ru) | 67 | 7296 | 0.9 | /mnt/stockage/packages/f27/openvas-gsa/src/po/gsad_js-ru.po/mnt/stockage/packages/f27/openvas-gsa/src/po/gsad_xsl-ru.po | 
+ | [tr](/f27/language/tr) | 9 | 7389 | 0.1 | /mnt/stockage/packages/f27/openvas-gsa/src/po/gsad_js-tr.po/mnt/stockage/packages/f27/openvas-gsa/src/po/gsad_xsl-tr.po | 
 {.sortable}
 
 

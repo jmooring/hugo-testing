@@ -18,9 +18,9 @@ The package libmodulemd (version 2.15.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f42/language/fr.md" >}}) | 1792 | 1792 | 100.0 | /mnt/stockage/packages/f42/libmodulemd/modulemd/tests/test_data/fr.po | 
- | [sv]({{< ref "/f42/language/sv.md" >}}) | 1792 | 1792 | 100.0 | /mnt/stockage/packages/f42/libmodulemd/modulemd/tests/test_data/sv.po | 
- | [nl]({{< ref "/f42/language/nl.md" >}}) | 1890 | 2032 | 93.0 | /mnt/stockage/packages/f42/libmodulemd/modulemd/tests/test_data/nl.po | 
+ | [fr](/f42/language/fr) | 1792 | 1792 | 100.0 | /mnt/stockage/packages/f42/libmodulemd/modulemd/tests/test_data/fr.po | 
+ | [sv](/f42/language/sv) | 1792 | 1792 | 100.0 | /mnt/stockage/packages/f42/libmodulemd/modulemd/tests/test_data/sv.po | 
+ | [nl](/f42/language/nl) | 1890 | 2032 | 93.0 | /mnt/stockage/packages/f42/libmodulemd/modulemd/tests/test_data/nl.po | 
 {.sortable}
 
 

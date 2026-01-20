@@ -18,47 +18,47 @@ The package tracker (version 0.14.5):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [be_Latn]({{< ref "/f17/language/be_Latn.md" >}}) | 1388 | 1388 | 100.0 | /mnt/stockage/packages/f17/tracker/po/be@latin.po | 
- | [cs]({{< ref "/f17/language/cs.md" >}}) | 3217 | 3217 | 100.0 | /mnt/stockage/packages/f17/tracker/po/cs.po | 
- | [de]({{< ref "/f17/language/de.md" >}}) | 3217 | 3217 | 100.0 | /mnt/stockage/packages/f17/tracker/po/de.po | 
- | [el]({{< ref "/f17/language/el.md" >}}) | 3200 | 3200 | 100.0 | /mnt/stockage/packages/f17/tracker/po/el.po | 
- | [en_GB]({{< ref "/f17/language/en_GB.md" >}}) | 3200 | 3200 | 100.0 | /mnt/stockage/packages/f17/tracker/po/en_GB.po | 
- | [es]({{< ref "/f17/language/es.md" >}}) | 3217 | 3217 | 100.0 | /mnt/stockage/packages/f17/tracker/po/es.po | 
- | [fr]({{< ref "/f17/language/fr.md" >}}) | 3200 | 3200 | 100.0 | /mnt/stockage/packages/f17/tracker/po/fr.po | 
- | [gl]({{< ref "/f17/language/gl.md" >}}) | 3217 | 3217 | 100.0 | /mnt/stockage/packages/f17/tracker/po/gl.po | 
- | [hu]({{< ref "/f17/language/hu.md" >}}) | 2047 | 2047 | 100.0 | /mnt/stockage/packages/f17/tracker/po/hu.po | 
- | [id]({{< ref "/f17/language/id.md" >}}) | 3217 | 3217 | 100.0 | /mnt/stockage/packages/f17/tracker/po/id.po | 
- | [lt]({{< ref "/f17/language/lt.md" >}}) | 3217 | 3217 | 100.0 | /mnt/stockage/packages/f17/tracker/po/lt.po | 
- | [pl]({{< ref "/f17/language/pl.md" >}}) | 3217 | 3217 | 100.0 | /mnt/stockage/packages/f17/tracker/po/pl.po | 
- | [pt]({{< ref "/f17/language/pt.md" >}}) | 2018 | 2018 | 100.0 | /mnt/stockage/packages/f17/tracker/po/pt.po | 
- | [pt_BR]({{< ref "/f17/language/pt_BR.md" >}}) | 3217 | 3217 | 100.0 | /mnt/stockage/packages/f17/tracker/po/pt_BR.po | 
- | [ro]({{< ref "/f17/language/ro.md" >}}) | 3156 | 3156 | 100.0 | /mnt/stockage/packages/f17/tracker/po/ro.po | 
- | [ru]({{< ref "/f17/language/ru.md" >}}) | 2670 | 2670 | 100.0 | /mnt/stockage/packages/f17/tracker/po/ru.po | 
- | [sl]({{< ref "/f17/language/sl.md" >}}) | 3217 | 3217 | 100.0 | /mnt/stockage/packages/f17/tracker/po/sl.po | 
- | [sr]({{< ref "/f17/language/sr.md" >}}) | 6434 | 6434 | 100.0 | /mnt/stockage/packages/f17/tracker/po/sr@latin.po/mnt/stockage/packages/f17/tracker/po/sr.po | 
- | [th]({{< ref "/f17/language/th.md" >}}) | 1391 | 1391 | 100.0 | /mnt/stockage/packages/f17/tracker/po/th.po | 
- | [ko]({{< ref "/f17/language/ko.md" >}}) | 1140 | 1143 | 99.7 | /mnt/stockage/packages/f17/tracker/po/ko.po | 
- | [zh_Hans]({{< ref "/f17/language/zh_Hans.md" >}}) | 3059 | 3166 | 96.6 | /mnt/stockage/packages/f17/tracker/po/zh_CN.po | 
- | [ja]({{< ref "/f17/language/ja.md" >}}) | 3002 | 3166 | 94.8 | /mnt/stockage/packages/f17/tracker/po/ja.po | 
- | [et]({{< ref "/f17/language/et.md" >}}) | 1959 | 2126 | 92.1 | /mnt/stockage/packages/f17/tracker/po/et.po | 
- | [da]({{< ref "/f17/language/da.md" >}}) | 2047 | 2329 | 87.9 | /mnt/stockage/packages/f17/tracker/po/da.po | 
- | [sv]({{< ref "/f17/language/sv.md" >}}) | 2157 | 2670 | 80.8 | /mnt/stockage/packages/f17/tracker/po/sv.po | 
- | [dz]({{< ref "/f17/language/dz.md" >}}) | 693 | 858 | 80.8 | /mnt/stockage/packages/f17/tracker/po/dz.po | 
- | [mk]({{< ref "/f17/language/mk.md" >}}) | 666 | 858 | 77.6 | /mnt/stockage/packages/f17/tracker/po/mk.po | 
- | [sk]({{< ref "/f17/language/sk.md" >}}) | 1300 | 1728 | 75.2 | /mnt/stockage/packages/f17/tracker/po/sk.po | 
- | [nl]({{< ref "/f17/language/nl.md" >}}) | 1318 | 1932 | 68.2 | /mnt/stockage/packages/f17/tracker/po/nl.po | 
- | [ca]({{< ref "/f17/language/ca.md" >}}) | 2063 | 4629 | 44.6 | /mnt/stockage/packages/f17/tracker/po/ca@valencia.po/mnt/stockage/packages/f17/tracker/po/ca.po | 
- | [nb_NO]({{< ref "/f17/language/nb_NO.md" >}}) | 1403 | 3200 | 43.8 | /mnt/stockage/packages/f17/tracker/po/nb.po | 
- | [he]({{< ref "/f17/language/he.md" >}}) | 509 | 1388 | 36.7 | /mnt/stockage/packages/f17/tracker/po/he.po | 
- | [it]({{< ref "/f17/language/it.md" >}}) | 1164 | 3199 | 36.4 | /mnt/stockage/packages/f17/tracker/po/it.po | 
- | [ar]({{< ref "/f17/language/ar.md" >}}) | 729 | 2046 | 35.6 | /mnt/stockage/packages/f17/tracker/po/ar.po | 
- | [be]({{< ref "/f17/language/be.md" >}}) | 401 | 1388 | 28.9 | /mnt/stockage/packages/f17/tracker/po/be.po | 
- | [fi]({{< ref "/f17/language/fi.md" >}}) | 882 | 3166 | 27.9 | /mnt/stockage/packages/f17/tracker/po/fi.po | 
- | [nds]({{< ref "/f17/language/nds.md" >}}) | 368 | 1747 | 21.1 | /mnt/stockage/packages/f17/tracker/po/nds.po | 
- | [oc]({{< ref "/f17/language/oc.md" >}}) | 245 | 1392 | 17.6 | /mnt/stockage/packages/f17/tracker/po/oc.po | 
- | [te]({{< ref "/f17/language/te.md" >}}) | 291 | 3199 | 9.1 | /mnt/stockage/packages/f17/tracker/po/te.po | 
- | [eo]({{< ref "/f17/language/eo.md" >}}) | 124 | 2541 | 4.9 | /mnt/stockage/packages/f17/tracker/po/eo.po | 
- | [pa]({{< ref "/f17/language/pa.md" >}}) | 86 | 2088 | 4.1 | /mnt/stockage/packages/f17/tracker/po/pa.po | 
+ | [be_Latn](/f17/language/be_Latn) | 1388 | 1388 | 100.0 | /mnt/stockage/packages/f17/tracker/po/be@latin.po | 
+ | [cs](/f17/language/cs) | 3217 | 3217 | 100.0 | /mnt/stockage/packages/f17/tracker/po/cs.po | 
+ | [de](/f17/language/de) | 3217 | 3217 | 100.0 | /mnt/stockage/packages/f17/tracker/po/de.po | 
+ | [el](/f17/language/el) | 3200 | 3200 | 100.0 | /mnt/stockage/packages/f17/tracker/po/el.po | 
+ | [en_GB](/f17/language/en_GB) | 3200 | 3200 | 100.0 | /mnt/stockage/packages/f17/tracker/po/en_GB.po | 
+ | [es](/f17/language/es) | 3217 | 3217 | 100.0 | /mnt/stockage/packages/f17/tracker/po/es.po | 
+ | [fr](/f17/language/fr) | 3200 | 3200 | 100.0 | /mnt/stockage/packages/f17/tracker/po/fr.po | 
+ | [gl](/f17/language/gl) | 3217 | 3217 | 100.0 | /mnt/stockage/packages/f17/tracker/po/gl.po | 
+ | [hu](/f17/language/hu) | 2047 | 2047 | 100.0 | /mnt/stockage/packages/f17/tracker/po/hu.po | 
+ | [id](/f17/language/id) | 3217 | 3217 | 100.0 | /mnt/stockage/packages/f17/tracker/po/id.po | 
+ | [lt](/f17/language/lt) | 3217 | 3217 | 100.0 | /mnt/stockage/packages/f17/tracker/po/lt.po | 
+ | [pl](/f17/language/pl) | 3217 | 3217 | 100.0 | /mnt/stockage/packages/f17/tracker/po/pl.po | 
+ | [pt](/f17/language/pt) | 2018 | 2018 | 100.0 | /mnt/stockage/packages/f17/tracker/po/pt.po | 
+ | [pt_BR](/f17/language/pt_BR) | 3217 | 3217 | 100.0 | /mnt/stockage/packages/f17/tracker/po/pt_BR.po | 
+ | [ro](/f17/language/ro) | 3156 | 3156 | 100.0 | /mnt/stockage/packages/f17/tracker/po/ro.po | 
+ | [ru](/f17/language/ru) | 2670 | 2670 | 100.0 | /mnt/stockage/packages/f17/tracker/po/ru.po | 
+ | [sl](/f17/language/sl) | 3217 | 3217 | 100.0 | /mnt/stockage/packages/f17/tracker/po/sl.po | 
+ | [sr](/f17/language/sr) | 6434 | 6434 | 100.0 | /mnt/stockage/packages/f17/tracker/po/sr@latin.po/mnt/stockage/packages/f17/tracker/po/sr.po | 
+ | [th](/f17/language/th) | 1391 | 1391 | 100.0 | /mnt/stockage/packages/f17/tracker/po/th.po | 
+ | [ko](/f17/language/ko) | 1140 | 1143 | 99.7 | /mnt/stockage/packages/f17/tracker/po/ko.po | 
+ | [zh_Hans](/f17/language/zh_Hans) | 3059 | 3166 | 96.6 | /mnt/stockage/packages/f17/tracker/po/zh_CN.po | 
+ | [ja](/f17/language/ja) | 3002 | 3166 | 94.8 | /mnt/stockage/packages/f17/tracker/po/ja.po | 
+ | [et](/f17/language/et) | 1959 | 2126 | 92.1 | /mnt/stockage/packages/f17/tracker/po/et.po | 
+ | [da](/f17/language/da) | 2047 | 2329 | 87.9 | /mnt/stockage/packages/f17/tracker/po/da.po | 
+ | [sv](/f17/language/sv) | 2157 | 2670 | 80.8 | /mnt/stockage/packages/f17/tracker/po/sv.po | 
+ | [dz](/f17/language/dz) | 693 | 858 | 80.8 | /mnt/stockage/packages/f17/tracker/po/dz.po | 
+ | [mk](/f17/language/mk) | 666 | 858 | 77.6 | /mnt/stockage/packages/f17/tracker/po/mk.po | 
+ | [sk](/f17/language/sk) | 1300 | 1728 | 75.2 | /mnt/stockage/packages/f17/tracker/po/sk.po | 
+ | [nl](/f17/language/nl) | 1318 | 1932 | 68.2 | /mnt/stockage/packages/f17/tracker/po/nl.po | 
+ | [ca](/f17/language/ca) | 2063 | 4629 | 44.6 | /mnt/stockage/packages/f17/tracker/po/ca@valencia.po/mnt/stockage/packages/f17/tracker/po/ca.po | 
+ | [nb_NO](/f17/language/nb_NO) | 1403 | 3200 | 43.8 | /mnt/stockage/packages/f17/tracker/po/nb.po | 
+ | [he](/f17/language/he) | 509 | 1388 | 36.7 | /mnt/stockage/packages/f17/tracker/po/he.po | 
+ | [it](/f17/language/it) | 1164 | 3199 | 36.4 | /mnt/stockage/packages/f17/tracker/po/it.po | 
+ | [ar](/f17/language/ar) | 729 | 2046 | 35.6 | /mnt/stockage/packages/f17/tracker/po/ar.po | 
+ | [be](/f17/language/be) | 401 | 1388 | 28.9 | /mnt/stockage/packages/f17/tracker/po/be.po | 
+ | [fi](/f17/language/fi) | 882 | 3166 | 27.9 | /mnt/stockage/packages/f17/tracker/po/fi.po | 
+ | [nds](/f17/language/nds) | 368 | 1747 | 21.1 | /mnt/stockage/packages/f17/tracker/po/nds.po | 
+ | [oc](/f17/language/oc) | 245 | 1392 | 17.6 | /mnt/stockage/packages/f17/tracker/po/oc.po | 
+ | [te](/f17/language/te) | 291 | 3199 | 9.1 | /mnt/stockage/packages/f17/tracker/po/te.po | 
+ | [eo](/f17/language/eo) | 124 | 2541 | 4.9 | /mnt/stockage/packages/f17/tracker/po/eo.po | 
+ | [pa](/f17/language/pa) | 86 | 2088 | 4.1 | /mnt/stockage/packages/f17/tracker/po/pa.po | 
 {.sortable}
 
 

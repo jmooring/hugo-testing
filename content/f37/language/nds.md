@@ -39,462 +39,462 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [alacarte]({{< ref "/f37/package/alacarte.md" >}}) | 42 | 42 | 100.0 | Low German <nds-lowgerman@lists.sourceforge.net> | 
- | [budgie-control-center]({{< ref "/f37/package/budgie-control-center.md" >}}) | 1313 | 1313 | 100.0 | Fedora Low German <nds-lowgerman@lists.sourceforge.net> | 
- | [cinnamon-control-center]({{< ref "/f37/package/cinnamon-control-center.md" >}}) | 1313 | 1313 | 100.0 | Fedora Low German <nds-lowgerman@lists.sourceforge.net> | 
- | [gnome-icon-theme]({{< ref "/f37/package/gnome-icon-theme.md" >}}) | 20 | 20 | 100.0 | Low German <nds-lowgerman@lists.sourceforge.net> | 
- | [gnome-menus]({{< ref "/f37/package/gnome-menus.md" >}}) | 161 | 161 | 100.0 | Low German <nds-lowgerman@lists.sourceforge.net> | 
- | [gnome-shell-frippery]({{< ref "/f37/package/gnome-shell-frippery.md" >}}) | 12 | 12 | 100.0 |  | 
- | [gnome-video-effects]({{< ref "/f37/package/gnome-video-effects.md" >}}) | 26 | 26 | 100.0 | Low German <nds-lowgerman@lists.sourceforge.net> | 
- | [gtk-vnc]({{< ref "/f37/package/gtk-vnc.md" >}}) | 8 | 8 | 100.0 | Low German <nds-lowgerman@lists.sourceforge.net> | 
- | [islamic-menus]({{< ref "/f37/package/islamic-menus.md" >}}) | 5 | 5 | 100.0 | Low German <nds@li.org> | 
- | [kdesdk-thumbnailers]({{< ref "/f37/package/kdesdk-thumbnailers.md" >}}) | 4 | 4 | 100.0 | Low Saxon <kde-i18n-nds@kde.org> | 
- | [kdiamond]({{< ref "/f37/package/kdiamond.md" >}}) | 122 | 122 | 100.0 | Low Saxon <kde-i18n-nds@kde.org> | 
- | [kf5-akonadi-notes]({{< ref "/f37/package/kf5-akonadi-notes.md" >}}) | 2 | 2 | 100.0 | Low Saxon <kde-i18n-nds@kde.org> | 
- | [kf5-kblog]({{< ref "/f37/package/kf5-kblog.md" >}}) | 243 | 243 | 100.0 | Low Saxon <kde-i18n-nds@kde.org> | 
- | [kf5-kdbusaddons]({{< ref "/f37/package/kf5-kdbusaddons.md" >}}) | 48 | 48 | 100.0 | Low Saxon <kde-i18n-nds@kde.org> | 
- | [kf5-kdesignerplugin]({{< ref "/f37/package/kf5-kdesignerplugin.md" >}}) | 54 | 54 | 100.0 | Low Saxon <kde-i18n-nds@kde.org> | 
- | [kf5-kdesu]({{< ref "/f37/package/kf5-kdesu.md" >}}) | 19 | 19 | 100.0 | Low Saxon <kde-i18n-nds@kde.org> | 
- | [kf5-kdnssd]({{< ref "/f37/package/kf5-kdnssd.md" >}}) | 3 | 3 | 100.0 | Low Saxon <kde-i18n-nds@kde.org> | 
- | [kf5-kdoctools]({{< ref "/f37/package/kf5-kdoctools.md" >}}) | 8 | 8 | 100.0 | Low Saxon <kde-i18n-nds@kde.org> | 
- | [kf5-kjsembed]({{< ref "/f37/package/kf5-kjsembed.md" >}}) | 248 | 248 | 100.0 | Low Saxon <kde-i18n-nds@kde.org> | 
- | [kf5-kmime]({{< ref "/f37/package/kf5-kmime.md" >}}) | 159 | 159 | 100.0 | Low Saxon <kde-i18n-nds@kde.org> | 
- | [kf5-kontactinterface]({{< ref "/f37/package/kf5-kontactinterface.md" >}}) | 4 | 4 | 100.0 | Low Saxon <kde-i18n-nds@kde.org> | 
- | [kf5-kpty]({{< ref "/f37/package/kf5-kpty.md" >}}) | 15 | 15 | 100.0 | Low Saxon <kde-i18n-nds@kde.org> | 
- | [kf5-kross]({{< ref "/f37/package/kf5-kross.md" >}}) | 100 | 100 | 100.0 | Low Saxon <kde-i18n-nds@kde.org> | 
- | [kf5-kwindowsystem]({{< ref "/f37/package/kf5-kwindowsystem.md" >}}) | 2 | 2 | 100.0 | Low Saxon <kde-i18n-nds@kde.org> | 
- | [kf5-kxmlrpcclient]({{< ref "/f37/package/kf5-kxmlrpcclient.md" >}}) | 13 | 13 | 100.0 | Low Saxon <kde-i18n-nds@kde.org> | 
- | [kf5-libkcompactdisc]({{< ref "/f37/package/kf5-libkcompactdisc.md" >}}) | 15 | 15 | 100.0 | Low Saxon <kde-i18n-nds@kde.org> | 
- | [kf5-libkdepim]({{< ref "/f37/package/kf5-libkdepim.md" >}}) | 35 | 35 | 100.0 | Low Saxon <kde-i18n-doc@kde.org> | 
- | [kf5-libkgeomap]({{< ref "/f37/package/kf5-libkgeomap.md" >}}) | 139 | 139 | 100.0 | Low Saxon <kde-i18n-nds@kde.org> | 
- | [kf5-libktorrent]({{< ref "/f37/package/kf5-libktorrent.md" >}}) | 465 | 465 | 100.0 | Low Saxon <kde-i18n-nds@kde.org> | 
- | [kgamma]({{< ref "/f37/package/kgamma.md" >}}) | 130 | 130 | 100.0 | Low Saxon <kde-i18n-nds@kde.org> | 
- | [kgrab]({{< ref "/f37/package/kgrab.md" >}}) | 370 | 370 | 100.0 | Low Saxon <kde-i18n-nds@kde.org> | 
- | [kiconedit]({{< ref "/f37/package/kiconedit.md" >}}) | 726 | 726 | 100.0 | Low Saxon <kde-i18n-nds@kde.org> | 
- | [kio_gopher]({{< ref "/f37/package/kio_gopher.md" >}}) | 17 | 17 | 100.0 | Low Saxon <kde-i18n-nds@kde.org> | 
- | [koffice-kivio]({{< ref "/f37/package/koffice-kivio.md" >}}) | 8417 | 8417 | 100.0 | Low Saxon <kde-i18n-nds@kde.org> | 
- | [kpilot]({{< ref "/f37/package/kpilot.md" >}}) | 7156 | 7156 | 100.0 | Low Saxon <kde-i18n-nds@kde.org> | 
- | [ksig]({{< ref "/f37/package/ksig.md" >}}) | 85 | 85 | 100.0 | Low Saxon <kde-i18n-nds@kde.org> | 
- | [ktp-filetransfer-handler]({{< ref "/f37/package/ktp-filetransfer-handler.md" >}}) | 141 | 141 | 100.0 | Low Saxon <kde-i18n-nds@kde.org> | 
- | [kwebkitpart]({{< ref "/f37/package/kwebkitpart.md" >}}) | 669 | 669 | 100.0 | Low Saxon <kde-i18n-nds@kde.org> | 
- | [libgnome-keyring]({{< ref "/f37/package/libgnome-keyring.md" >}}) | 44 | 44 | 100.0 | Low German <nds-lowgerman@lists.sourceforge.net> | 
- | [libgweather]({{< ref "/f37/package/libgweather.md" >}}) | 5586 | 5586 | 100.0 | Low German <nds-lowgerman@lists.sourceforge.net> | 
- | [libgweather4]({{< ref "/f37/package/libgweather4.md" >}}) | 5586 | 5586 | 100.0 | Low German <nds-lowgerman@lists.sourceforge.net> | 
- | [libkdegames]({{< ref "/f37/package/libkdegames.md" >}}) | 370 | 370 | 100.0 | Low Saxon <kde-i18n-nds@kde.org> | 
- | [libkmahjongg]({{< ref "/f37/package/libkmahjongg.md" >}}) | 7 | 7 | 100.0 | Low Saxon <kde-i18n-nds@kde.org> | 
- | [libpeas]({{< ref "/f37/package/libpeas.md" >}}) | 24 | 24 | 100.0 | Low German <nds-lowgerman@lists.sourceforge.net> | 
- | [lskat]({{< ref "/f37/package/lskat.md" >}}) | 254 | 254 | 100.0 | Low Saxon <kde-i18n-nds@kde.org> | 
- | [mate-icon-theme]({{< ref "/f37/package/mate-icon-theme.md" >}}) | 4 | 4 | 100.0 | Low German (https://www.transifex.com/mate/teams/13566/nds/) | 
- | [mate-menu]({{< ref "/f37/package/mate-menu.md" >}}) | 308 | 308 | 100.0 | Low German (http://www.transifex.com/mate/MATE/language/nds/) | 
- | [mate-menus]({{< ref "/f37/package/mate-menus.md" >}}) | 103 | 103 | 100.0 | Low German (https://app.transifex.com/mate/teams/13566/nds/) | 
- | [mate-notification-daemon]({{< ref "/f37/package/mate-notification-daemon.md" >}}) | 186 | 186 | 100.0 | Low German (https://app.transifex.com/mate/teams/13566/nds/) | 
- | [mate-themes]({{< ref "/f37/package/mate-themes.md" >}}) | 74 | 74 | 100.0 | Low German (http://app.transifex.com/mate/MATE/language/nds/) | 
- | [multimedia-menus]({{< ref "/f37/package/multimedia-menus.md" >}}) | 56 | 56 | 100.0 | Low German Fedora Translation Team <nds-lowgerman@lists.sourceforge.net> | 
- | [nemo-extensions]({{< ref "/f37/package/nemo-extensions.md" >}}) | 8 | 8 | 100.0 | Low German <nds@li.org> | 
- | [newt]({{< ref "/f37/package/newt.md" >}}) | 4 | 4 | 100.0 | Fedora Low German <nds-lowgerman@lists.sourceforge.net> | 
- | [python-caja]({{< ref "/f37/package/python-caja.md" >}}) | 6 | 6 | 100.0 | Low German (https://www.transifex.com/mate/teams/13566/nds/) | 
- | [svgpart]({{< ref "/f37/package/svgpart.md" >}}) | 3 | 3 | 100.0 | Low Saxon <kde-i18n-nds@kde.org> | 
- | [system-switch-java]({{< ref "/f37/package/system-switch-java.md" >}}) | 81 | 81 | 100.0 | Low German <nds-lowgerman@lists.sourceforge.net> | 
- | [totem-pl-parser]({{< ref "/f37/package/totem-pl-parser.md" >}}) | 28 | 28 | 100.0 | Low German <nds-lowgerman@lists.sourceforge.net> | 
- | [vte]({{< ref "/f37/package/vte.md" >}}) | 84 | 84 | 100.0 | Low German <nds-lowgerman@lists.sourceforge.net> | 
- | [vte291]({{< ref "/f37/package/vte291.md" >}}) | 84 | 84 | 100.0 | Low German <nds-lowgerman@lists.sourceforge.net> | 
- | [widelands]({{< ref "/f37/package/widelands.md" >}}) | 83602 | 83602 | 100.0 | Low German (http://www.transifex.com/widelands/widelands/language/nds/) | 
- | [xdg-user-dirs-gtk]({{< ref "/f37/package/xdg-user-dirs-gtk.md" >}}) | 81 | 81 | 100.0 | Low German <nds-lowgerman@lists.sourceforge.net> | 
- | [yelp]({{< ref "/f37/package/yelp.md" >}}) | 316 | 316 | 100.0 | Low Saxon NFE (Northern Frisian Enclave) <kenneth@gnu.org> | 
- | [kmplayer]({{< ref "/f37/package/kmplayer.md" >}}) | 1248 | 1249 | 99.9 | Low Saxon <kde-i18n-nds@kde.org> | 
- | [krecipes]({{< ref "/f37/package/krecipes.md" >}}) | 3633 | 3646 | 99.6 | Low Saxon <kde-i18n-nds@kde.org> | 
- | [kbruch]({{< ref "/f37/package/kbruch.md" >}}) | 1342 | 1347 | 99.6 | Low Saxon <kde-i18n-nds@kde.org> | 
- | [kopete]({{< ref "/f37/package/kopete.md" >}}) | 17101 | 17175 | 99.6 | Low Saxon <kde-i18n-nds@kde.org> | 
- | [ktp-accounts-kcm]({{< ref "/f37/package/ktp-accounts-kcm.md" >}}) | 1077 | 1082 | 99.5 | Low Saxon <kde-i18n-nds@kde.org> | 
- | [kde-l10n]({{< ref "/f37/package/kde-l10n.md" >}}) | 104642 | 105160 | 99.5 | Low Saxon <kde-i18n-nds@kde.org> | 
- | [kf5-ktnef]({{< ref "/f37/package/kf5-ktnef.md" >}}) | 353 | 355 | 99.4 | Low Saxon <kde-i18n-nds@kde.org> | 
- | [kcron]({{< ref "/f37/package/kcron.md" >}}) | 522 | 525 | 99.4 | Low Saxon <kde-i18n-nds@kde.org> | 
- | [kaudiocreator]({{< ref "/f37/package/kaudiocreator.md" >}}) | 1128 | 1136 | 99.3 | Low Saxon <kde-i18n-nds@kde.org> | 
- | [kf5-ki18n]({{< ref "/f37/package/kf5-ki18n.md" >}}) | 123 | 124 | 99.2 | Low Saxon <kde-i18n-nds@kde.org> | 
- | [kf5-kcontacts]({{< ref "/f37/package/kf5-kcontacts.md" >}}) | 175 | 177 | 98.9 | Low Saxon <kde-i18n-nds@kde.org> | 
- | [ksquares]({{< ref "/f37/package/ksquares.md" >}}) | 257 | 260 | 98.8 | Low Saxon <kde-i18n-nds@kde.org> | 
- | [kmag]({{< ref "/f37/package/kmag.md" >}}) | 427 | 432 | 98.8 | Low Saxon <kde-i18n-doc@kde.org> | 
- | [budgie-screensaver]({{< ref "/f37/package/budgie-screensaver.md" >}}) | 977 | 989 | 98.8 | Low German <nds-lowgerman@lists.sourceforge.net> | 
- | [knavalbattle]({{< ref "/f37/package/knavalbattle.md" >}}) | 396 | 401 | 98.8 | Low Saxon <kde-i18n-nds@kde.org> | 
- | [kf5-libkcddb]({{< ref "/f37/package/kf5-libkcddb.md" >}}) | 470 | 476 | 98.7 | Low Saxon <kde-i18n-nds@kde.org> | 
- | [sweeper]({{< ref "/f37/package/sweeper.md" >}}) | 225 | 228 | 98.7 | Low Saxon <kde-i18n-nds@kde.org> | 
- | [kcoloredit]({{< ref "/f37/package/kcoloredit.md" >}}) | 274 | 278 | 98.6 | Low Saxon <kde-i18n-doc@kde.org> | 
- | [ksirk]({{< ref "/f37/package/ksirk.md" >}}) | 5671 | 5756 | 98.5 | Low Saxon <kde-i18n-nds@kde.org> | 
- | [katomic]({{< ref "/f37/package/katomic.md" >}}) | 181 | 184 | 98.4 | Low Saxon <kde-i18n-nds@kde.org> | 
- | [kfourinline]({{< ref "/f37/package/kfourinline.md" >}}) | 385 | 392 | 98.2 | Low Saxon <kde-i18n-nds@kde.org> | 
- | [kspaceduel]({{< ref "/f37/package/kspaceduel.md" >}}) | 162 | 165 | 98.2 | Low Saxon <kde-i18n-nds@kde.org> | 
- | [kubrick]({{< ref "/f37/package/kubrick.md" >}}) | 1183 | 1205 | 98.2 | Low Saxon <kde-i18n-doc@kde.org> | 
- | [blogilo]({{< ref "/f37/package/blogilo.md" >}}) | 1364 | 1392 | 98.0 | Low Saxon <kde-i18n-nds@kde.org> | 
- | [libkeduvocdocument]({{< ref "/f37/package/libkeduvocdocument.md" >}}) | 167 | 171 | 97.7 | Low Saxon <kde-i18n-nds@kde.org> | 
- | [cervisia]({{< ref "/f37/package/cervisia.md" >}}) | 1575 | 1615 | 97.5 | Low Saxon <kde-i18n-nds@kde.org> | 
- | [kf5-kinit]({{< ref "/f37/package/kf5-kinit.md" >}}) | 113 | 116 | 97.4 | Low Saxon <kde-i18n-nds@kde.org> | 
- | [kjumpingcube]({{< ref "/f37/package/kjumpingcube.md" >}}) | 402 | 413 | 97.3 | Low Saxon <kde-i18n-nds@kde.org> | 
- | [kwordquiz]({{< ref "/f37/package/kwordquiz.md" >}}) | 2000 | 2058 | 97.2 | Low Saxon <kde-i18n-nds@kde.org> | 
- | [kblackbox]({{< ref "/f37/package/kblackbox.md" >}}) | 1328 | 1367 | 97.1 | Low Saxon <kde-i18n-nds@kde.org> | 
- | [kget]({{< ref "/f37/package/kget.md" >}}) | 2667 | 2756 | 96.8 | Low Saxon <kde-i18n-nds@kde.org> | 
- | [kf5-ktextwidgets]({{< ref "/f37/package/kf5-ktextwidgets.md" >}}) | 456 | 473 | 96.4 | Low Saxon <kde-i18n-nds@kde.org> | 
- | [kf5-eventviews]({{< ref "/f37/package/kf5-eventviews.md" >}}) | 2853 | 2961 | 96.4 | Low Saxon <kde-i18n-nds@kde.org> | 
- | [kigo]({{< ref "/f37/package/kigo.md" >}}) | 485 | 504 | 96.2 | Low Saxon <kde-i18n-nds@kde.org> | 
- | [kig]({{< ref "/f37/package/kig.md" >}}) | 7558 | 7857 | 96.2 | Low Saxon <kde-i18n-doc@kde.org> | 
- | [kf5-sonnet]({{< ref "/f37/package/kf5-sonnet.md" >}}) | 657 | 683 | 96.2 | Low Saxon <kde-i18n-nds@kde.org> | 
- | [ktp-common-internals]({{< ref "/f37/package/ktp-common-internals.md" >}}) | 949 | 989 | 96.0 | Low Saxon <kde-i18n-nds@kde.org> | 
- | [kiriki]({{< ref "/f37/package/kiriki.md" >}}) | 138 | 144 | 95.8 | Low Saxon <kde-i18n-nds@kde.org> | 
- | [kf5-kalarmcal]({{< ref "/f37/package/kf5-kalarmcal.md" >}}) | 195 | 204 | 95.6 | Low Saxon <kde-i18n-nds@kde.org> | 
- | [klettres]({{< ref "/f37/package/klettres.md" >}}) | 420 | 440 | 95.5 | Low Saxon <kde-i18n-nds@kde.org> | 
- | [kmouth]({{< ref "/f37/package/kmouth.md" >}}) | 1427 | 1496 | 95.4 | Low Saxon <kde-i18n-nds@kde.org> | 
- | [kfloppy]({{< ref "/f37/package/kfloppy.md" >}}) | 611 | 641 | 95.3 | Low Saxon <kde-i18n-nds@kde.org> | 
- | [bovo]({{< ref "/f37/package/bovo.md" >}}) | 77 | 81 | 95.1 | Low Saxon <kde-i18n-nds@kde.org> | 
- | [konversation]({{< ref "/f37/package/konversation.md" >}}) | 9775 | 10363 | 94.3 | Low Saxon <kde-i18n-nds@kde.org> | 
- | [kblocks]({{< ref "/f37/package/kblocks.md" >}}) | 149 | 158 | 94.3 | Low Saxon <kde-i18n-nds@kde.org> | 
- | [ktuberling]({{< ref "/f37/package/ktuberling.md" >}}) | 149 | 158 | 94.3 | Low Saxon <kde-i18n-nds@kde.org> | 
- | [kf5-khtml]({{< ref "/f37/package/kf5-khtml.md" >}}) | 1572 | 1667 | 94.3 | Low Saxon <kde-i18n-nds@kde.org> | 
- | [kgeography]({{< ref "/f37/package/kgeography.md" >}}) | 9422 | 10012 | 94.1 | Low Saxon <kde-i18n-nds@kde.org> | 
- | [blinken]({{< ref "/f37/package/blinken.md" >}}) | 126 | 134 | 94.0 | Low Saxon <kde-i18n-doc@kde.org> | 
- | [kgpg]({{< ref "/f37/package/kgpg.md" >}}) | 4952 | 5272 | 93.9 | Low Saxon <kde-i18n-nds@kde.org> | 
- | [kturtle]({{< ref "/f37/package/kturtle.md" >}}) | 1439 | 1538 | 93.6 | Low Saxon <kde-i18n-nds@kde.org> | 
- | [kfind]({{< ref "/f37/package/kfind.md" >}}) | 483 | 517 | 93.4 | Low Saxon <kde-i18n-nds@kde.org> | 
- | [ktimer]({{< ref "/f37/package/ktimer.md" >}}) | 241 | 258 | 93.4 | Low Saxon <kde-i18n-nds@kde.org> | 
- | [ksysguard]({{< ref "/f37/package/ksysguard.md" >}}) | 1020 | 1093 | 93.3 | Low Saxon <kde-i18n-nds@kde.org> | 
- | [ktorrent]({{< ref "/f37/package/ktorrent.md" >}}) | 6953 | 7455 | 93.3 | Low Saxon <kde-i18n-nds@kde.org> | 
- | [kolourpaint]({{< ref "/f37/package/kolourpaint.md" >}}) | 2389 | 2568 | 93.0 | Low Saxon <kde-i18n-doc@kde.org> | 
- | [libmateweather]({{< ref "/f37/package/libmateweather.md" >}}) | 5709 | 6143 | 92.9 | Low German (https://app.transifex.com/mate/teams/13566/nds/) | 
- | [klines]({{< ref "/f37/package/klines.md" >}}) | 92 | 99 | 92.9 | Low Saxon <kde-i18n-nds@kde.org> | 
- | [xdg-user-dirs]({{< ref "/f37/package/xdg-user-dirs.md" >}}) | 26 | 28 | 92.9 | Low German <nds-lowgerman@lists.sourceforge.net> | 
- | [kolf]({{< ref "/f37/package/kolf.md" >}}) | 372 | 401 | 92.8 | Low Saxon <kde-i18n-nds@kde.org> | 
- | [mate-backgrounds]({{< ref "/f37/package/mate-backgrounds.md" >}}) | 51 | 55 | 92.7 | Low German (https://www.transifex.com/mate/teams/13566/nds/) | 
- | [granatier]({{< ref "/f37/package/granatier.md" >}}) | 228 | 246 | 92.7 | Low Saxon <kde-i18n-nds@kde.org> | 
- | [kf5-kjobwidgets]({{< ref "/f37/package/kf5-kjobwidgets.md" >}}) | 123 | 133 | 92.5 | Low Saxon <kde-i18n-nds@kde.org> | 
- | [palapeli]({{< ref "/f37/package/palapeli.md" >}}) | 1410 | 1525 | 92.5 | Low Saxon <kde-i18n-nds@kde.org> | 
- | [kdf]({{< ref "/f37/package/kdf.md" >}}) | 180 | 195 | 92.3 | Low Saxon <kde-i18n-nds@kde.org> | 
- | [knetwalk]({{< ref "/f37/package/knetwalk.md" >}}) | 224 | 243 | 92.2 | Low Saxon <kde-i18n-nds@kde.org> | 
- | [klickety]({{< ref "/f37/package/klickety.md" >}}) | 164 | 178 | 92.1 | Low Saxon <kde-i18n-nds@kde.org> | 
- | [ktp-send-file]({{< ref "/f37/package/ktp-send-file.md" >}}) | 55 | 60 | 91.7 | Low Saxon <kde-i18n-nds@kde.org> | 
- | [kmplot]({{< ref "/f37/package/kmplot.md" >}}) | 2291 | 2500 | 91.6 | Low Saxon <kde-i18n-nds@kde.org> | 
- | [kf5-kwallet]({{< ref "/f37/package/kf5-kwallet.md" >}}) | 1223 | 1335 | 91.6 | Low Saxon <kde-i18n-nds@kde.org> | 
- | [kf5-akonadi-mime]({{< ref "/f37/package/kf5-akonadi-mime.md" >}}) | 521 | 569 | 91.6 | Low Saxon <kde-i18n-nds@kde.org> | 
- | [ktp-approver]({{< ref "/f37/package/ktp-approver.md" >}}) | 65 | 71 | 91.5 | Low Saxon <kde-i18n-nds@kde.org> | 
- | [kanagram]({{< ref "/f37/package/kanagram.md" >}}) | 482 | 527 | 91.5 | Low Saxon <kde-i18n-nds@kde.org> | 
- | [khotkeys]({{< ref "/f37/package/khotkeys.md" >}}) | 412 | 451 | 91.4 | Low Saxon <kde-i18n-doc@kde.org> | 
- | [kdepim-addons]({{< ref "/f37/package/kdepim-addons.md" >}}) | 1820 | 1993 | 91.3 | Low Saxon <kde-i18n-nds@kde.org> | 
- | [kapman]({{< ref "/f37/package/kapman.md" >}}) | 105 | 115 | 91.3 | Low Saxon <kde-i18n-nds@kde.org> | 
- | [plasma-oxygen]({{< ref "/f37/package/plasma-oxygen.md" >}}) | 731 | 802 | 91.1 | Low Saxon <kde-i18n-nds@kde.org> | 
- | [parley]({{< ref "/f37/package/parley.md" >}}) | 3110 | 3433 | 90.6 | Low Saxon <kde-i18n-nds@kde.org> | 
- | [kmenuedit]({{< ref "/f37/package/kmenuedit.md" >}}) | 258 | 285 | 90.5 | Low Saxon <kde-i18n-nds@kde.org> | 
- | [ksystemlog]({{< ref "/f37/package/ksystemlog.md" >}}) | 2806 | 3101 | 90.5 | Low Saxon <kde-i18n-nds@kde.org> | 
- | [kde-print-manager]({{< ref "/f37/package/kde-print-manager.md" >}}) | 878 | 971 | 90.4 | Low Saxon <kde-i18n-doc@kde.org> | 
- | [kbounce]({{< ref "/f37/package/kbounce.md" >}}) | 141 | 156 | 90.4 | Low Saxon <kde-i18n-nds@kde.org> | 
- | [kbrickbuster]({{< ref "/f37/package/kbrickbuster.md" >}}) | 142 | 158 | 89.9 | Low Saxon <kde-i18n-nds@kde.org> | 
- | [juk]({{< ref "/f37/package/juk.md" >}}) | 1366 | 1526 | 89.5 | Low Saxon <kde-i18n-nds@kde.org> | 
- | [ktp-auth-handler]({{< ref "/f37/package/ktp-auth-handler.md" >}}) | 74 | 83 | 89.2 | Low Saxon <kde-i18n-nds@kde.org> | 
- | [mozo]({{< ref "/f37/package/mozo.md" >}}) | 41 | 46 | 89.1 | Low German (https://www.transifex.com/mate/teams/13566/nds/) | 
- | [kajongg]({{< ref "/f37/package/kajongg.md" >}}) | 2190 | 2458 | 89.1 | Low Saxon <kde-i18n-nds@kde.org> | 
- | [keditbookmarks]({{< ref "/f37/package/keditbookmarks.md" >}}) | 415 | 466 | 89.1 | Low Saxon <kde-i18n-nds@kde.org> | 
- | [libkomparediff2]({{< ref "/f37/package/libkomparediff2.md" >}}) | 127 | 143 | 88.8 | Low Saxon <kde-i18n-nds@kde.org> | 
- | [tellico]({{< ref "/f37/package/tellico.md" >}}) | 5235 | 5960 | 87.8 | Low Saxon <kde-i18n-nds@kde.org> | 
- | [kcalc]({{< ref "/f37/package/kcalc.md" >}}) | 938 | 1070 | 87.7 | Low Saxon <kde-i18n-nds@kde.org> | 
- | [kf5-akonadi-calendar]({{< ref "/f37/package/kf5-akonadi-calendar.md" >}}) | 1670 | 1908 | 87.5 | Low Saxon <kde-i18n-nds@kde.org> | 
- | [kf5-kdelibs4support]({{< ref "/f37/package/kf5-kdelibs4support.md" >}}) | 4676 | 5353 | 87.4 | Low Saxon <kde-i18n-nds@kde.org> | 
- | [okteta]({{< ref "/f37/package/okteta.md" >}}) | 2212 | 2538 | 87.2 | Low Saxon <kde-i18n-nds@kde.org> | 
- | [konquest]({{< ref "/f37/package/konquest.md" >}}) | 214 | 246 | 87.0 | Low Saxon <kde-i18n-nds@kde.org> | 
- | [kdesdk-kioslaves]({{< ref "/f37/package/kdesdk-kioslaves.md" >}}) | 73 | 84 | 86.9 | Low Saxon <kde-i18n-nds@kde.org> | 
- | [k3b]({{< ref "/f37/package/k3b.md" >}}) | 17500 | 20183 | 86.7 | Low Saxon <kde-i18n-nds@kde.org> | 
- | [yakuake]({{< ref "/f37/package/yakuake.md" >}}) | 1446 | 1669 | 86.6 | Low Saxon <kde-i18n-nds@kde.org> | 
- | [grantlee-editor]({{< ref "/f37/package/grantlee-editor.md" >}}) | 345 | 400 | 86.2 | Low Saxon <kde-i18n-nds@kde.org> | 
- | [kiten]({{< ref "/f37/package/kiten.md" >}}) | 584 | 683 | 85.5 | Low Saxon <kde-i18n-doc@kde.org> | 
- | [kf5-kconfigwidgets]({{< ref "/f37/package/kf5-kconfigwidgets.md" >}}) | 292 | 342 | 85.4 | Low Saxon <kde-i18n-nds@kde.org> | 
- | [mate-screensaver]({{< ref "/f37/package/mate-screensaver.md" >}}) | 939 | 1101 | 85.3 | Low German (https://app.transifex.com/mate/teams/13566/nds/) | 
- | [mate-user-admin]({{< ref "/f37/package/mate-user-admin.md" >}}) | 515 | 605 | 85.1 | Low German (https://www.transifex.com/mate/teams/13566/nds/) | 
- | [ksnakeduel]({{< ref "/f37/package/ksnakeduel.md" >}}) | 205 | 241 | 85.1 | Low Saxon <kde-i18n-nds@kde.org> | 
- | [kaddressbook]({{< ref "/f37/package/kaddressbook.md" >}}) | 978 | 1151 | 85.0 | Low Saxon <kde-i18n-nds@kde.org> | 
- | [kf5-solid]({{< ref "/f37/package/kf5-solid.md" >}}) | 498 | 588 | 84.7 | Low Saxon <kde-i18n-nds@kde.org> | 
- | [kf5-audiocd-kio]({{< ref "/f37/package/kf5-audiocd-kio.md" >}}) | 723 | 857 | 84.4 | Low Saxon <kde-i18n-nds@kde.org> | 
- | [krdc]({{< ref "/f37/package/krdc.md" >}}) | 979 | 1162 | 84.3 | Low Saxon <kde-i18n-nds@kde.org> | 
- | [kf5-mailimporter]({{< ref "/f37/package/kf5-mailimporter.md" >}}) | 1186 | 1408 | 84.2 | Low Saxon <kde-i18n-nds@kde.org> | 
- | [kcm_wacomtablet]({{< ref "/f37/package/kcm_wacomtablet.md" >}}) | 891 | 1064 | 83.7 | Low Saxon <kde-i18n-nds@kde.org> | 
- | [kf5-libksieve]({{< ref "/f37/package/kf5-libksieve.md" >}}) | 2609 | 3121 | 83.6 | Low Saxon <kde-i18n-nds@kde.org> | 
- | [kf5-kcompletion]({{< ref "/f37/package/kf5-kcompletion.md" >}}) | 15 | 18 | 83.3 | Low Saxon <kde-i18n-nds@kde.org> | 
- | [kamera]({{< ref "/f37/package/kamera.md" >}}) | 283 | 342 | 82.7 | Low Saxon <kde-i18n-nds@kde.org> | 
- | [kwalletmanager5]({{< ref "/f37/package/kwalletmanager5.md" >}}) | 694 | 839 | 82.7 | Low Saxon <kde-i18n-doc@kde.org> | 
- | [kollision]({{< ref "/f37/package/kollision.md" >}}) | 90 | 109 | 82.6 | Low Saxon <kde-i18n-nds@kde.org> | 
- | [polkit-kde]({{< ref "/f37/package/polkit-kde.md" >}}) | 78 | 95 | 82.1 | Low Saxon <kde-i18n-nds@kde.org> | 
- | [knights]({{< ref "/f37/package/knights.md" >}}) | 652 | 796 | 81.9 | Low Saxon <kde-i18n-doc@kde.org> | 
- | [kcharselect]({{< ref "/f37/package/kcharselect.md" >}}) | 72 | 88 | 81.8 | Low Saxon <kde-i18n-nds@kde.org> | 
- | [kde-cli-tools]({{< ref "/f37/package/kde-cli-tools.md" >}}) | 1742 | 2135 | 81.6 | Low Saxon <kde-i18n-nds@kde.org> | 
- | [ktouch]({{< ref "/f37/package/ktouch.md" >}}) | 782 | 960 | 81.5 | Low Saxon <kde-i18n-doc@kde.org> | 
- | [kf5-kimap]({{< ref "/f37/package/kf5-kimap.md" >}}) | 96 | 118 | 81.4 | Low Saxon <kde-i18n-nds@kde.org> | 
- | [ktp-contact-runner]({{< ref "/f37/package/ktp-contact-runner.md" >}}) | 169 | 208 | 81.2 | Low Saxon <kde-i18n-nds@kde.org> | 
- | [picmi]({{< ref "/f37/package/picmi.md" >}}) | 164 | 202 | 81.2 | Low Saxon <kde-i18n-nds@kde.org> | 
- | [khelpcenter]({{< ref "/f37/package/khelpcenter.md" >}}) | 214 | 265 | 80.8 | Low Saxon <kde-i18n-nds@kde.org> | 
- | [kf5-mailcommon]({{< ref "/f37/package/kf5-mailcommon.md" >}}) | 2216 | 2755 | 80.4 | Low Saxon <kde-i18n-nds@kde.org> | 
- | [kmahjongg]({{< ref "/f37/package/kmahjongg.md" >}}) | 303 | 377 | 80.4 | Low Saxon <kde-i18n-nds@kde.org> | 
- | [kgoldrunner]({{< ref "/f37/package/kgoldrunner.md" >}}) | 22470 | 28011 | 80.2 | Low Saxon <kde-i18n-nds@kde.org> | 
- | [kf5-kmailtransport]({{< ref "/f37/package/kf5-kmailtransport.md" >}}) | 542 | 676 | 80.2 | Low Saxon <kde-i18n-nds@kde.org> | 
- | [kalgebra]({{< ref "/f37/package/kalgebra.md" >}}) | 133 | 166 | 80.1 | Low Saxon <kde-i18n-nds@kde.org> | 
- | [konqueror]({{< ref "/f37/package/konqueror.md" >}}) | 6885 | 8613 | 79.9 | Low Saxon <kde-i18n-nds@kde.org> | 
- | [kalzium]({{< ref "/f37/package/kalzium.md" >}}) | 7241 | 9105 | 79.5 | Low Saxon <kde-i18n-doc@kde.org> | 
- | [kf5-kservice]({{< ref "/f37/package/kf5-kservice.md" >}}) | 137 | 173 | 79.2 | Low Saxon <kde-i18n-nds@kde.org> | 
- | [krfb]({{< ref "/f37/package/krfb.md" >}}) | 582 | 735 | 79.2 | Low Saxon <kde-i18n-nds@kde.org> | 
- | [mate-media]({{< ref "/f37/package/mate-media.md" >}}) | 189 | 239 | 79.1 | Low German (https://app.transifex.com/mate/teams/13566/nds/) | 
- | [kdepim-runtime]({{< ref "/f37/package/kdepim-runtime.md" >}}) | 4545 | 5749 | 79.1 | Low Saxon <kde-i18n-nds@kde.org> | 
- | [supertux]({{< ref "/f37/package/supertux.md" >}}) | 1940 | 2469 | 78.6 | Low German (http://www.transifex.com/arctic-games/supertux/language/nds/) | 
- | [folder-color-switcher]({{< ref "/f37/package/folder-color-switcher.md" >}}) | 51 | 65 | 78.5 | Low German <nds@li.org> | 
- | [kteatime]({{< ref "/f37/package/kteatime.md" >}}) | 158 | 203 | 77.8 | Low Saxon <kde-i18n-nds@kde.org> | 
- | [kf5-calendarsupport]({{< ref "/f37/package/kf5-calendarsupport.md" >}}) | 2158 | 2779 | 77.7 | Low Saxon <kde-i18n-nds@kde.org> | 
- | [kf5-libksane]({{< ref "/f37/package/kf5-libksane.md" >}}) | 236 | 304 | 77.6 | Low Saxon <kde-i18n-nds@kde.org> | 
- | [kf5-incidenceeditor]({{< ref "/f37/package/kf5-incidenceeditor.md" >}}) | 1713 | 2208 | 77.6 | Low Saxon <kde-i18n-nds@kde.org> | 
- | [kf5-messagelib]({{< ref "/f37/package/kf5-messagelib.md" >}}) | 6553 | 8455 | 77.5 | Low Saxon <kde-i18n-nds@kde.org> | 
- | [kshisen]({{< ref "/f37/package/kshisen.md" >}}) | 512 | 661 | 77.5 | Low Saxon <kde-i18n-nds@kde.org> | 
- | [kalarm]({{< ref "/f37/package/kalarm.md" >}}) | 6458 | 8377 | 77.1 | Low Saxon <kde-i18n-nds@kde.org> | 
- | [kf5-akonadi-server]({{< ref "/f37/package/kf5-akonadi-server.md" >}}) | 1998 | 2596 | 77.0 | Low Saxon <kde-i18n-nds@kde.org> | 
- | [calligra]({{< ref "/f37/package/calligra.md" >}}) | 27437 | 35951 | 76.3 | Low Saxon <kde-i18n-nds@kde.org> | 
- | [rsibreak]({{< ref "/f37/package/rsibreak.md" >}}) | 922 | 1209 | 76.3 | Low Saxon <kde-i18n-nds@kde.org> | 
- | [kf5-kglobalaccel]({{< ref "/f37/package/kf5-kglobalaccel.md" >}}) | 54 | 71 | 76.1 | Low Saxon <kde-i18n-nds@kde.org> | 
- | [kf5-kunitconversion]({{< ref "/f37/package/kf5-kunitconversion.md" >}}) | 4354 | 5757 | 75.6 | Low Saxon <kde-i18n-nds@kde.org> | 
- | [kf5-kconfig]({{< ref "/f37/package/kf5-kconfig.md" >}}) | 218 | 289 | 75.4 | Low Saxon <kde-i18n-nds@kde.org> | 
- | [kf5-kparts]({{< ref "/f37/package/kf5-kparts.md" >}}) | 104 | 138 | 75.4 | Low Saxon <kde-i18n-nds@kde.org> | 
- | [mbox-importer]({{< ref "/f37/package/mbox-importer.md" >}}) | 30 | 40 | 75.0 | Low Saxon <kde-i18n-nds@kde.org> | 
- | [kgraphviewer]({{< ref "/f37/package/kgraphviewer.md" >}}) | 902 | 1205 | 74.9 | Low Saxon <kde-i18n-nds@kde.org> | 
- | [akonadi-calendar-tools]({{< ref "/f37/package/akonadi-calendar-tools.md" >}}) | 580 | 785 | 73.9 | Low Saxon <kde-i18n-nds@kde.org> | 
- | [akregator]({{< ref "/f37/package/akregator.md" >}}) | 1393 | 1893 | 73.6 | Low Saxon <kde-i18n-nds@kde.org> | 
- | [kile]({{< ref "/f37/package/kile.md" >}}) | 9541 | 12994 | 73.4 | Low Saxon <kde-i18n-nds@kde.org> | 
- | [kf5-ktexteditor]({{< ref "/f37/package/kf5-ktexteditor.md" >}}) | 6740 | 9233 | 73.0 | Low Saxon <kde-i18n-nds@kde.org> | 
- | [krusader]({{< ref "/f37/package/krusader.md" >}}) | 5897 | 8095 | 72.8 | Low Saxon <kde-i18n-nds@kde.org> | 
- | [skanlite]({{< ref "/f37/package/skanlite.md" >}}) | 134 | 186 | 72.0 | Low Saxon <kde-i18n-doc@kde.org> | 
- | [kpat]({{< ref "/f37/package/kpat.md" >}}) | 405 | 565 | 71.7 | Low Saxon <kde-i18n-nds@kde.org> | 
- | [kmousetool]({{< ref "/f37/package/kmousetool.md" >}}) | 103 | 147 | 70.1 | Low Saxon <kde-i18n-doc@kde.org> | 
- | [kdnssd]({{< ref "/f37/package/kdnssd.md" >}}) | 21 | 30 | 70.0 | Low Saxon <kde-i18n-nds@kde.org> | 
- | [mate-desktop]({{< ref "/f37/package/mate-desktop.md" >}}) | 1656 | 2376 | 69.7 | Low German (https://app.transifex.com/mate/teams/13566/nds/) | 
- | [lokalize]({{< ref "/f37/package/lokalize.md" >}}) | 2829 | 4086 | 69.2 | Low Saxon <kde-i18n-nds@kde.org> | 
- | [kmines]({{< ref "/f37/package/kmines.md" >}}) | 108 | 156 | 69.2 | Low Saxon <kde-i18n-nds@kde.org> | 
- | [kf5-kio]({{< ref "/f37/package/kf5-kio.md" >}}) | 8323 | 12029 | 69.2 | Low Saxon <kde-i18n-nds@kde.org> | 
- | [massif-visualizer]({{< ref "/f37/package/massif-visualizer.md" >}}) | 247 | 357 | 69.2 | Low Saxon <kde-i18n-nds@kde.org> | 
- | [kde-style-breeze]({{< ref "/f37/package/kde-style-breeze.md" >}}) | 183 | 266 | 68.8 | Low Saxon <kde-i18n-nds@kde.org> | 
- | [kf5-kcmutils]({{< ref "/f37/package/kf5-kcmutils.md" >}}) | 183 | 266 | 68.8 | Low Saxon <kde-i18n-nds@kde.org> | 
- | [kf5-plasma]({{< ref "/f37/package/kf5-plasma.md" >}}) | 248 | 362 | 68.5 | Low Saxon <kde-i18n-nds@kde.org> | 
- | [libksysguard]({{< ref "/f37/package/libksysguard.md" >}}) | 2669 | 3901 | 68.4 | Low Saxon <kde-i18n-nds@kde.org> | 
- | [kmail]({{< ref "/f37/package/kmail.md" >}}) | 6128 | 8984 | 68.2 | Low Saxon <kde-i18n-nds@kde.org> | 
- | [bomber]({{< ref "/f37/package/bomber.md" >}}) | 75 | 110 | 68.2 | Low Saxon <kde-i18n-nds@kde.org> | 
- | [killbots]({{< ref "/f37/package/killbots.md" >}}) | 430 | 637 | 67.5 | Low Saxon <kde-i18n-nds@kde.org> | 
- | [kontact]({{< ref "/f37/package/kontact.md" >}}) | 329 | 492 | 66.9 | Low Saxon <kde-i18n-doc@kde.org> | 
- | [kf5-knotifyconfig]({{< ref "/f37/package/kf5-knotifyconfig.md" >}}) | 86 | 129 | 66.7 | Low Saxon <kde-i18n-nds@kde.org> | 
- | [caja-extensions]({{< ref "/f37/package/caja-extensions.md" >}}) | 501 | 760 | 65.9 | Low German (https://www.transifex.com/mate/teams/13566/nds/) | 
- | [kruler]({{< ref "/f37/package/kruler.md" >}}) | 104 | 158 | 65.8 | Low Saxon <kde-i18n-nds@kde.org> | 
- | [kf5-kldap]({{< ref "/f37/package/kf5-kldap.md" >}}) | 148 | 227 | 65.2 | Low Saxon <kde-i18n-nds@kde.org> | 
- | [khangman]({{< ref "/f37/package/khangman.md" >}}) | 304 | 475 | 64.0 | Low Saxon <kde-i18n-nds@kde.org> | 
- | [akonadi-import-wizard]({{< ref "/f37/package/akonadi-import-wizard.md" >}}) | 252 | 394 | 64.0 | Low Saxon <kde-i18n-nds@kde.org> | 
- | [kf5-akonadi-contacts]({{< ref "/f37/package/kf5-akonadi-contacts.md" >}}) | 936 | 1469 | 63.7 | Low Saxon <kde-i18n-nds@kde.org> | 
- | [kdiff3]({{< ref "/f37/package/kdiff3.md" >}}) | 2162 | 3423 | 63.2 | Low Saxon <kde-i18n-nds@kde.org> | 
- | [kf5-kxmlgui]({{< ref "/f37/package/kf5-kxmlgui.md" >}}) | 993 | 1574 | 63.1 | Low Saxon <kde-i18n-nds@kde.org> | 
- | [kdialog]({{< ref "/f37/package/kdialog.md" >}}) | 237 | 382 | 62.0 | Low Saxon <kde-i18n-nds@kde.org> | 
- | [kapptemplate]({{< ref "/f37/package/kapptemplate.md" >}}) | 167 | 272 | 61.4 | Low Saxon <kde-i18n-nds@kde.org> | 
- | [kde-dev-utils]({{< ref "/f37/package/kde-dev-utils.md" >}}) | 58 | 95 | 61.1 | Low Saxon <kde-i18n-nds@kde.org> | 
- | [kf5-kwidgetsaddons]({{< ref "/f37/package/kf5-kwidgetsaddons.md" >}}) | 782 | 1293 | 60.5 | Low Saxon <kde-i18n-nds@kde.org> | 
- | [kf5-kidentitymanagement]({{< ref "/f37/package/kf5-kidentitymanagement.md" >}}) | 110 | 182 | 60.4 | Low Saxon <kde-i18n-nds@kde.org> | 
- | [ktp-text-ui]({{< ref "/f37/package/ktp-text-ui.md" >}}) | 810 | 1352 | 59.9 | Low Saxon <kde-i18n-nds@kde.org> | 
- | [knotes]({{< ref "/f37/package/knotes.md" >}}) | 478 | 798 | 59.9 | Low Saxon <kde-i18n-doc@kde.org> | 
- | [kmix]({{< ref "/f37/package/kmix.md" >}}) | 648 | 1092 | 59.3 | Low Saxon <kde-i18n-nds@kde.org> | 
- | [smb4k]({{< ref "/f37/package/smb4k.md" >}}) | 3810 | 6562 | 58.1 | Low Saxon <kde-i18n-nds@kde.org> | 
- | [korganizer]({{< ref "/f37/package/korganizer.md" >}}) | 3981 | 6912 | 57.6 | Low Saxon <kde-i18n-nds@kde.org> | 
- | [kf5-kpackage]({{< ref "/f37/package/kf5-kpackage.md" >}}) | 256 | 452 | 56.6 | Low Saxon <kde-i18n-nds@kde.org> | 
- | [mate-session-manager]({{< ref "/f37/package/mate-session-manager.md" >}}) | 400 | 715 | 55.9 | Low German (https://app.transifex.com/mate/teams/13566/nds/) | 
- | [ktp-contact-list]({{< ref "/f37/package/ktp-contact-list.md" >}}) | 377 | 680 | 55.4 | Low Saxon <kde-i18n-nds@kde.org> | 
- | [kf5-kbookmarks]({{< ref "/f37/package/kf5-kbookmarks.md" >}}) | 127 | 230 | 55.2 | Low Saxon <kde-i18n-nds@kde.org> | 
- | [kio-extras]({{< ref "/f37/package/kio-extras.md" >}}) | 561 | 1017 | 55.2 | Low Saxon <kde-i18n-nds@kde.org> | 
- | [kf5-kipi-plugins]({{< ref "/f37/package/kf5-kipi-plugins.md" >}}) | 2477 | 4568 | 54.2 | Low Saxon <kde-i18n-doc@kde.org> | 
- | [plasma-breeze]({{< ref "/f37/package/plasma-breeze.md" >}}) | 131 | 242 | 54.1 | Low Saxon <kde-i18n-nds@kde.org> | 
- | [kf5-kcalendarutils]({{< ref "/f37/package/kf5-kcalendarutils.md" >}}) | 798 | 1475 | 54.1 | Low Saxon <kde-i18n-nds@kde.org> | 
- | [kinfocenter]({{< ref "/f37/package/kinfocenter.md" >}}) | 249 | 461 | 54.0 | Low Saxon <kde-i18n-nds@kde.org> | 
- | [okular]({{< ref "/f37/package/okular.md" >}}) | 3015 | 5610 | 53.7 | Low Saxon <kde-i18n-nds@kde.org> | 
- | [plasma-workspace]({{< ref "/f37/package/plasma-workspace.md" >}}) | 6081 | 11351 | 53.6 | Low Saxon <kde-i18n-nds@kde.org> | 
- | [kf5-kauth]({{< ref "/f37/package/kf5-kauth.md" >}}) | 39 | 73 | 53.4 | Low Saxon <kde-i18n-nds@kde.org> | 
- | [kf5-kdeclarative]({{< ref "/f37/package/kf5-kdeclarative.md" >}}) | 86 | 161 | 53.4 | Low Saxon <kde-i18n-nds@kde.org> | 
- | [gwenview]({{< ref "/f37/package/gwenview.md" >}}) | 1056 | 1997 | 52.9 | Low Saxon <kde-i18n-nds@kde.org> | 
- | [im-chooser]({{< ref "/f37/package/im-chooser.md" >}}) | 133 | 253 | 52.6 | LANGUAGE <LL@li.org> | 
- | [plasma-systemsettings]({{< ref "/f37/package/plasma-systemsettings.md" >}}) | 111 | 212 | 52.4 | Low Saxon <kde-i18n-nds@kde.org> | 
- | [evince]({{< ref "/f37/package/evince.md" >}}) | 621 | 1262 | 49.2 | Low German <nds-lowgerman@lists.sourceforge.net> | 
- | [plasma-desktop]({{< ref "/f37/package/plasma-desktop.md" >}}) | 3323 | 6754 | 49.2 | Low Saxon <kde-i18n-nds@kde.org> | 
- | [synapse]({{< ref "/f37/package/synapse.md" >}}) | 417 | 856 | 48.7 | Low German <nds@li.org> | 
- | [pmount]({{< ref "/f37/package/pmount.md" >}}) | 352 | 723 | 48.7 | German, Low <nds@li.org> | 
- | [kcolorchooser]({{< ref "/f37/package/kcolorchooser.md" >}}) | 14 | 29 | 48.3 | Low Saxon <kde-i18n-nds@kde.org> | 
- | [kf5-kcoreaddons]({{< ref "/f37/package/kf5-kcoreaddons.md" >}}) | 182 | 382 | 47.6 | Low Saxon <kde-i18n-nds@kde.org> | 
- | [kf5-knotifications]({{< ref "/f37/package/kf5-knotifications.md" >}}) | 10 | 21 | 47.6 | Low Saxon <kde-i18n-nds@kde.org> | 
- | [cinnamon-desktop]({{< ref "/f37/package/cinnamon-desktop.md" >}}) | 110 | 234 | 47.0 | Low German <nds-lowgerman@lists.sourceforge.net> | 
- | [pim-data-exporter]({{< ref "/f37/package/pim-data-exporter.md" >}}) | 379 | 810 | 46.8 | Low Saxon <kde-i18n-nds@kde.org> | 
- | [kreversi]({{< ref "/f37/package/kreversi.md" >}}) | 198 | 425 | 46.6 | Low Saxon <kde-i18n-nds@kde.org> | 
- | [plasma-sdk]({{< ref "/f37/package/plasma-sdk.md" >}}) | 169 | 371 | 45.6 | Low Saxon <kde-i18n-nds@kde.org> | 
- | [kactivitymanagerd]({{< ref "/f37/package/kactivitymanagerd.md" >}}) | 5 | 11 | 45.5 | Low Saxon <kde-i18n-nds@kde.org> | 
- | [calligraplan]({{< ref "/f37/package/calligraplan.md" >}}) | 4503 | 9943 | 45.3 | Low Saxon <kde-i18n-nds@kde.org> | 
- | [kmail-account-wizard]({{< ref "/f37/package/kmail-account-wizard.md" >}}) | 369 | 815 | 45.3 | Low Saxon <kde-i18n-nds@kde.org> | 
- | [kmymoney]({{< ref "/f37/package/kmymoney.md" >}}) | 9932 | 22051 | 45.0 | Low Saxon <kde-i18n-nds@kde.org> | 
- | [kate]({{< ref "/f37/package/kate.md" >}}) | 2919 | 6542 | 44.6 | Low Saxon <kde-i18n-nds@kde.org> | 
- | [kde-partitionmanager]({{< ref "/f37/package/kde-partitionmanager.md" >}}) | 1012 | 2272 | 44.5 | Low Saxon <kde-i18n-nds@kde.org> | 
- | [gnome-control-center]({{< ref "/f37/package/gnome-control-center.md" >}}) | 2019 | 4538 | 44.5 | Fedora Low German <nds-lowgerman@lists.sourceforge.net> | 
- | [ktp-kded-integration-module]({{< ref "/f37/package/ktp-kded-integration-module.md" >}}) | 217 | 490 | 44.3 | Low Saxon <kde-i18n-nds@kde.org> | 
- | [gtk4]({{< ref "/f37/package/gtk4.md" >}}) | 1062 | 2432 | 43.7 | German, Low <nds-lowgerman@lists.sourceforge.net> | 
- | [kleopatra]({{< ref "/f37/package/kleopatra.md" >}}) | 5108 | 12297 | 41.5 | Low Saxon <kde-i18n-nds@kde.org> | 
- | [kdevelop-php]({{< ref "/f37/package/kdevelop-php.md" >}}) | 217 | 529 | 41.0 | Low Saxon <kde-i18n-nds@kde.org> | 
- | [ksudoku]({{< ref "/f37/package/ksudoku.md" >}}) | 700 | 1746 | 40.1 | Low Saxon <kde-i18n-nds@kde.org> | 
- | [artikulate]({{< ref "/f37/package/artikulate.md" >}}) | 132 | 332 | 39.8 | Low Saxon <kde-i18n-doc@kde.org> | 
- | [libgnomeui]({{< ref "/f37/package/libgnomeui.md" >}}) | 482 | 1226 | 39.3 | Low German <nds-lowgerman@lists.sourceforge.net> | 
- | [kcachegrind]({{< ref "/f37/package/kcachegrind.md" >}}) | 1714 | 4367 | 39.2 | Low Saxon <kde-i18n-nds@kde.org> | 
- | [plasma-drkonqi]({{< ref "/f37/package/plasma-drkonqi.md" >}}) | 771 | 1984 | 38.9 | Low Saxon <kde-i18n-nds@kde.org> | 
- | [kwin]({{< ref "/f37/package/kwin.md" >}}) | 2271 | 5855 | 38.8 | Low Saxon <kde-i18n-nds@kde.org> | 
- | [konsole5]({{< ref "/f37/package/konsole5.md" >}}) | 1537 | 3983 | 38.6 | Low Saxon <kde-i18n-nds@kde.org> | 
- | [plasma-nm]({{< ref "/f37/package/plasma-nm.md" >}}) | 1927 | 5020 | 38.4 | Low Saxon <kde-i18n-nds@kde.org> | 
- | [caja]({{< ref "/f37/package/caja.md" >}}) | 3646 | 9675 | 37.7 | Low German (https://app.transifex.com/mate/teams/13566/nds/) | 
- | [powerdevil]({{< ref "/f37/package/powerdevil.md" >}}) | 250 | 669 | 37.4 | Low Saxon <kde-i18n-doc@kde.org> | 
- | [filelight]({{< ref "/f37/package/filelight.md" >}}) | 97 | 262 | 37.0 | Low Saxon <kde-i18n-doc@kde.org> | 
- | [step]({{< ref "/f37/package/step.md" >}}) | 673 | 1897 | 35.5 | Low Saxon <kde-i18n-nds@kde.org> | 
- | [kexi]({{< ref "/f37/package/kexi.md" >}}) | 2599 | 7365 | 35.3 | Low Saxon <kde-i18n-nds@kde.org> | 
- | [pluma]({{< ref "/f37/package/pluma.md" >}}) | 4620 | 13113 | 35.2 | Low German (https://app.transifex.com/mate/teams/13566/nds/) | 
- | [kompare]({{< ref "/f37/package/kompare.md" >}}) | 487 | 1413 | 34.5 | Low Saxon <kde-i18n-nds@kde.org> | 
- | [baloo-widgets]({{< ref "/f37/package/baloo-widgets.md" >}}) | 23 | 67 | 34.3 | Low Saxon <kde-i18n-nds@kde.org> | 
- | [epiphany]({{< ref "/f37/package/epiphany.md" >}}) | 1047 | 3053 | 34.3 | Low German <nds-lowgerman@lists.sourceforge.net> | 
- | [gnome-session]({{< ref "/f37/package/gnome-session.md" >}}) | 209 | 638 | 32.8 | Low German <nds-lowgerman@lists.sourceforge.net> | 
- | [cantor]({{< ref "/f37/package/cantor.md" >}}) | 1272 | 4035 | 31.5 | Low Saxon <kde-i18n-nds@kde.org> | 
- | [kf5-pimcommon]({{< ref "/f37/package/kf5-pimcommon.md" >}}) | 253 | 810 | 31.2 | Low Saxon <kde-i18n-nds@kde.org> | 
- | [gvfs]({{< ref "/f37/package/gvfs.md" >}}) | 594 | 1936 | 30.7 | Low German <nds-lowgerman@lists.sourceforge.net> | 
- | [mate-panel]({{< ref "/f37/package/mate-panel.md" >}}) | 1987 | 6720 | 29.6 | Low German (https://app.transifex.com/mate/teams/13566/nds/) | 
- | [imsettings]({{< ref "/f37/package/imsettings.md" >}}) | 143 | 490 | 29.2 | LANGUAGE <LL@li.org> | 
- | [fuse-encfs]({{< ref "/f37/package/fuse-encfs.md" >}}) | 376 | 1289 | 29.2 | German, Low <nds@li.org> | 
- | [pim-sieve-editor]({{< ref "/f37/package/pim-sieve-editor.md" >}}) | 127 | 437 | 29.1 | Low Saxon <kde-i18n-nds@kde.org> | 
- | [nautilus]({{< ref "/f37/package/nautilus.md" >}}) | 2511 | 8681 | 28.9 | Low German <nds-lowgerman@lists.sourceforge.net> | 
- | [kphotoalbum]({{< ref "/f37/package/kphotoalbum.md" >}}) | 2561 | 9013 | 28.4 | Low Saxon <kde-i18n-nds@kde.org> | 
- | [kflickr]({{< ref "/f37/package/kflickr.md" >}}) | 94 | 332 | 28.3 | German, Low <nds@li.org> | 
- | [xreader]({{< ref "/f37/package/xreader.md" >}}) | 457 | 1623 | 28.2 | Low German (http://www.transifex.com/mate/MATE/language/nds/) | 
- | [gnome-desktop3]({{< ref "/f37/package/gnome-desktop3.md" >}}) | 816 | 2903 | 28.1 | Low German <nds-lowgerman@lists.sourceforge.net> | 
- | [kstars]({{< ref "/f37/package/kstars.md" >}}) | 14990 | 53653 | 27.9 | Low Saxon <kde-i18n-nds@kde.org> | 
- | [system-config-language]({{< ref "/f37/package/system-config-language.md" >}}) | 60 | 215 | 27.9 | Low German | 
- | [cinnamon-translations]({{< ref "/f37/package/cinnamon-translations.md" >}}) | 1477 | 5392 | 27.4 | Low German <nds-lowgerman@lists.sourceforge.net> | 
- | [gnome-terminal]({{< ref "/f37/package/gnome-terminal.md" >}}) | 1064 | 3928 | 27.1 | Low German <nds-lowgerman@lists.sourceforge.net> | 
- | [kf5-libkleo]({{< ref "/f37/package/kf5-libkleo.md" >}}) | 471 | 1750 | 26.9 | Low Saxon <kde-i18n-nds@kde.org> | 
- | [kf5-kiconthemes]({{< ref "/f37/package/kf5-kiconthemes.md" >}}) | 11 | 41 | 26.8 | Low Saxon <kde-i18n-nds@kde.org> | 
- | [file-roller]({{< ref "/f37/package/file-roller.md" >}}) | 352 | 1318 | 26.7 | Low German <nds-lowgerman@lists.sourceforge.net> | 
- | [ark]({{< ref "/f37/package/ark.md" >}}) | 518 | 1947 | 26.6 | Low Saxon <kde-i18n-doc@kde.org> | 
- | [kf5-kpimtextedit]({{< ref "/f37/package/kf5-kpimtextedit.md" >}}) | 101 | 406 | 24.9 | Low Saxon <kde-i18n-nds@kde.org> | 
- | [gnome-do]({{< ref "/f37/package/gnome-do.md" >}}) | 151 | 612 | 24.7 | German, Low <nds@li.org> | 
- | [brasero]({{< ref "/f37/package/brasero.md" >}}) | 1332 | 5402 | 24.7 | Low German <nds-lowgerman@lists.sourceforge.net> | 
- | [rocs]({{< ref "/f37/package/rocs.md" >}}) | 356 | 1480 | 24.1 | Low Saxon <kde-i18n-nds@kde.org> | 
- | [gthumb]({{< ref "/f37/package/gthumb.md" >}}) | 575 | 2479 | 23.2 | Low German <nds-lowgerman@lists.sourceforge.net> | 
- | [audex]({{< ref "/f37/package/audex.md" >}}) | 733 | 3347 | 21.9 | Low Saxon <kde-i18n-nds@kde.org> | 
- | [kdevelop]({{< ref "/f37/package/kdevelop.md" >}}) | 2623 | 12077 | 21.7 | Low Saxon <kde-i18n-nds@kde.org> | 
- | [gtk2]({{< ref "/f37/package/gtk2.md" >}}) | 2958 | 13704 | 21.6 | German, Low <nds-lowgerman@lists.sourceforge.net> | 
- | [mingw-gtk2]({{< ref "/f37/package/mingw-gtk2.md" >}}) | 2958 | 13704 | 21.6 | German, Low <nds-lowgerman@lists.sourceforge.net> | 
- | [digikam]({{< ref "/f37/package/digikam.md" >}}) | 12616 | 59663 | 21.1 | Low Saxon <kde-i18n-nds@kde.org> | 
- | [tracker]({{< ref "/f37/package/tracker.md" >}}) | 368 | 1747 | 21.1 | Low German <nds-lowgerman@lists.sourceforge.net> | 
- | [tracker-miners]({{< ref "/f37/package/tracker-miners.md" >}}) | 368 | 1747 | 21.1 | Low German <nds-lowgerman@lists.sourceforge.net> | 
- | [gtk3]({{< ref "/f37/package/gtk3.md" >}}) | 2467 | 11853 | 20.8 | German, Low <nds-lowgerman@lists.sourceforge.net> | 
- | [mingw-gtk3]({{< ref "/f37/package/mingw-gtk3.md" >}}) | 2467 | 11853 | 20.8 | German, Low <nds-lowgerman@lists.sourceforge.net> | 
- | [kronometer]({{< ref "/f37/package/kronometer.md" >}}) | 48 | 233 | 20.6 | Low Saxon <kde-i18n-nds@kde.org> | 
- | [eog]({{< ref "/f37/package/eog.md" >}}) | 293 | 1513 | 19.4 | Low German <nds-lowgerman@lists.sourceforge.net> | 
- | [gdk-pixbuf2]({{< ref "/f37/package/gdk-pixbuf2.md" >}}) | 257 | 1348 | 19.1 | German, Low <nds-lowgerman@lists.sourceforge.net> | 
- | [mingw-gdk-pixbuf]({{< ref "/f37/package/mingw-gdk-pixbuf.md" >}}) | 257 | 1348 | 19.1 | German, Low <nds-lowgerman@lists.sourceforge.net> | 
- | [engrampa]({{< ref "/f37/package/engrampa.md" >}}) | 386 | 2049 | 18.8 | Low German (https://app.transifex.com/mate/teams/13566/nds/) | 
- | [homebank]({{< ref "/f37/package/homebank.md" >}}) | 547 | 2947 | 18.6 | German, Low <nds@li.org> | 
- | [kf5-knewstuff]({{< ref "/f37/package/kf5-knewstuff.md" >}}) | 301 | 1631 | 18.5 | Low Saxon <kde-i18n-nds@kde.org> | 
- | [kjots]({{< ref "/f37/package/kjots.md" >}}) | 114 | 651 | 17.5 | Low Saxon <kde-i18n-nds@kde.org> | 
- | [kf5-kfilemetadata]({{< ref "/f37/package/kf5-kfilemetadata.md" >}}) | 52 | 299 | 17.4 | Low Saxon <kde-i18n-nds@kde.org> | 
- | [gtranslator]({{< ref "/f37/package/gtranslator.md" >}}) | 274 | 1622 | 16.9 | Low German <nds-lowgerman@lists.sourceforge.net> | 
- | [kscreenlocker]({{< ref "/f37/package/kscreenlocker.md" >}}) | 39 | 245 | 15.9 | Low Saxon <kde-i18n-nds@kde.org> | 
- | [pitivi]({{< ref "/f37/package/pitivi.md" >}}) | 207 | 1313 | 15.8 | Low German <nds-lowgerman@lists.sourceforge.net> | 
- | [cheese]({{< ref "/f37/package/cheese.md" >}}) | 104 | 660 | 15.8 | Low German <nds-lowgerman@lists.sourceforge.net> | 
- | [eom]({{< ref "/f37/package/eom.md" >}}) | 278 | 1779 | 15.6 | Low German (https://app.transifex.com/mate/teams/13566/nds/) | 
- | [skrooge]({{< ref "/f37/package/skrooge.md" >}}) | 1902 | 12181 | 15.6 | Low Saxon <kde-i18n-nds@kde.org> | 
- | [baobab]({{< ref "/f37/package/baobab.md" >}}) | 84 | 540 | 15.6 | Low German <nds-lowgerman@lists.sourceforge.net> | 
- | [passwd]({{< ref "/f37/package/passwd.md" >}}) | 51 | 336 | 15.2 | Low German <nds-lowgerman@lists.sourceforge.net> | 
- | [libgnome]({{< ref "/f37/package/libgnome.md" >}}) | 267 | 1772 | 15.1 | Low German <nds-lowgerman@lists.sourceforge.net> | 
- | [gnome-panel]({{< ref "/f37/package/gnome-panel.md" >}}) | 521 | 3520 | 14.8 | Low German <nds-lowgerman@lists.sourceforge.net> | 
- | [kdeplasma-addons]({{< ref "/f37/package/kdeplasma-addons.md" >}}) | 190 | 1309 | 14.5 | Low Saxon <kde-i18n-nds@kde.org> | 
- | [muffin]({{< ref "/f37/package/muffin.md" >}}) | 348 | 2437 | 14.3 | Low German <nds-lowgerman@lists.sourceforge.net> | 
- | [mutter]({{< ref "/f37/package/mutter.md" >}}) | 348 | 2437 | 14.3 | Low German <nds-lowgerman@lists.sourceforge.net> | 
- | [mate-terminal]({{< ref "/f37/package/mate-terminal.md" >}}) | 1180 | 8507 | 13.9 | Low German (https://www.transifex.com/mate/teams/13566/nds/) | 
- | [gdm]({{< ref "/f37/package/gdm.md" >}}) | 87 | 650 | 13.4 | Low German <nds-lowgerman@lists.sourceforge.net> | 
- | [atril]({{< ref "/f37/package/atril.md" >}}) | 587 | 4391 | 13.4 | Low German (https://www.transifex.com/mate/teams/13566/nds/) | 
- | [kamoso]({{< ref "/f37/package/kamoso.md" >}}) | 19 | 145 | 13.1 | Low Saxon <kde-i18n-nds@kde.org> | 
- | [mate-control-center]({{< ref "/f37/package/mate-control-center.md" >}}) | 982 | 8253 | 11.9 | Low German (https://app.transifex.com/mate/teams/13566/nds/) | 
- | [kf5-baloo]({{< ref "/f37/package/kf5-baloo.md" >}}) | 71 | 645 | 11.0 | Low Saxon <kde-i18n-nds@kde.org> | 
- | [sos]({{< ref "/f37/package/sos.md" >}}) | 13 | 123 | 10.6 | Fedora Low German <nds-lowgerman@lists.sourceforge.net> | 
- | [evolution]({{< ref "/f37/package/evolution.md" >}}) | 2292 | 21817 | 10.5 | Low German <nds-lowgerman@lists.sourceforge.net> | 
- | [gnome-system-monitor]({{< ref "/f37/package/gnome-system-monitor.md" >}}) | 97 | 933 | 10.4 | Low German <nds-lowgerman@lists.sourceforge.net> | 
- | [gnome-search-tool]({{< ref "/f37/package/gnome-search-tool.md" >}}) | 127 | 1359 | 9.3 | Low German <nds-lowgerman@lists.sourceforge.net> | 
- | [gedit]({{< ref "/f37/package/gedit.md" >}}) | 438 | 4953 | 8.8 | Low German <nds-lowgerman@lists.sourceforge.net> | 
- | [gnome-screenshot]({{< ref "/f37/package/gnome-screenshot.md" >}}) | 28 | 319 | 8.8 | Low German <nds-lowgerman@lists.sourceforge.net> | 
- | [gnome-dictionary]({{< ref "/f37/package/gnome-dictionary.md" >}}) | 70 | 833 | 8.4 | Low German <nds-lowgerman@lists.sourceforge.net> | 
- | [krita]({{< ref "/f37/package/krita.md" >}}) | 2751 | 35035 | 7.9 | Low Saxon <kde-i18n-nds@kde.org> | 
- | [gnome-settings-daemon]({{< ref "/f37/package/gnome-settings-daemon.md" >}}) | 123 | 1624 | 7.6 | Low German <nds-lowgerman@lists.sourceforge.net> | 
- | [bleachbit]({{< ref "/f37/package/bleachbit.md" >}}) | 93 | 1260 | 7.4 | Low German <nds@li.org> | 
- | [kf5-kcodecs]({{< ref "/f37/package/kf5-kcodecs.md" >}}) | 27 | 370 | 7.3 | Low Saxon <kde-i18n-nds@kde.org> | 
- | [mate-system-monitor]({{< ref "/f37/package/mate-system-monitor.md" >}}) | 351 | 4847 | 7.2 | Low German (https://www.transifex.com/mate/teams/13566/nds/) | 
- | [marble]({{< ref "/f37/package/marble.md" >}}) | 812 | 11477 | 7.1 | Low Saxon <kde-i18n-nds@kde.org> | 
- | [xed]({{< ref "/f37/package/xed.md" >}}) | 261 | 3759 | 6.9 | Low German (http://www.transifex.com/projects/p/MATE/language/nds/) | 
- | [metacity]({{< ref "/f37/package/metacity.md" >}}) | 235 | 3790 | 6.2 | Low German <nds-lowgerman@lists.sourceforge.net> | 
- | [marco]({{< ref "/f37/package/marco.md" >}}) | 251 | 4303 | 5.8 | Low German (https://app.transifex.com/mate/teams/13566/nds/) | 
- | [glib2]({{< ref "/f37/package/glib2.md" >}}) | 259 | 4777 | 5.4 | Low German <nds-lowgerman@lists.sourceforge.net> | 
- | [mingw-glib2]({{< ref "/f37/package/mingw-glib2.md" >}}) | 259 | 4777 | 5.4 | Low German <nds-lowgerman@lists.sourceforge.net> | 
- | [rhythmbox]({{< ref "/f37/package/rhythmbox.md" >}}) | 234 | 4645 | 5.0 | Low German <nds-lowgerman@lists.sourceforge.net> | 
- | [gimp]({{< ref "/f37/package/gimp.md" >}}) | 664 | 13840 | 4.8 | Low German <nds-lowgerman@lists.sourceforge.net> | 
- | [gnome-system-log]({{< ref "/f37/package/gnome-system-log.md" >}}) | 25 | 522 | 4.8 | Low German <nds-lowgerman@lists.sourceforge.net> | 
- | [mate-settings-daemon]({{< ref "/f37/package/mate-settings-daemon.md" >}}) | 104 | 2207 | 4.7 | Low German (https://app.transifex.com/mate/teams/13566/nds/) | 
- | [libmatekbd]({{< ref "/f37/package/libmatekbd.md" >}}) | 13 | 308 | 4.2 | Low German (https://app.transifex.com/mate/teams/13566/nds/) | 
- | [mate-utils]({{< ref "/f37/package/mate-utils.md" >}}) | 417 | 10060 | 4.1 | Low German (https://app.transifex.com/mate/teams/13566/nds/) | 
- | [mate-polkit]({{< ref "/f37/package/mate-polkit.md" >}}) | 5 | 123 | 4.1 | Low German (https://www.transifex.com/mate/teams/13566/nds/) | 
- | [system-config-printer]({{< ref "/f37/package/system-config-printer.md" >}}) | 135 | 3514 | 3.8 | Low German (http://www.transifex.com/projects/p/system-config-printer/language/nds/) | 
- | [gedit-plugins]({{< ref "/f37/package/gedit-plugins.md" >}}) | 41 | 1205 | 3.4 | Low German <nds-lowgerman@lists.sourceforge.net> | 
- | [libmatemixer]({{< ref "/f37/package/libmatemixer.md" >}}) | 8 | 242 | 3.3 | Low German (https://app.transifex.com/mate/teams/13566/nds/) | 
- | [calibre]({{< ref "/f37/package/calibre.md" >}}) | 4642 | 171272 | 2.7 | Low German (http://www.transifex.com/calibre/calibre/language/nds/) | 
- | [light-locker]({{< ref "/f37/package/light-locker.md" >}}) | 7 | 260 | 2.7 | Low German (http://www.transifex.com/the_cavalry/light-locker/language/nds/) | 
- | [setroubleshoot]({{< ref "/f37/package/setroubleshoot.md" >}}) | 17 | 640 | 2.7 | Low German (http://www.transifex.com/projects/p/fedora/language/nds/) | 
- | [kpmcore]({{< ref "/f37/package/kpmcore.md" >}}) | 76 | 3233 | 2.4 | Low Saxon <kde-i18n-nds@kde.org> | 
- | [libuser]({{< ref "/f37/package/libuser.md" >}}) | 27 | 1437 | 1.9 | Low German (http://www.transifex.com/projects/p/fedora/language/nds/) | 
- | [mlocate]({{< ref "/f37/package/mlocate.md" >}}) | 10 | 581 | 1.7 | Low German <nds-lowgerman@lists.sourceforge.net> | 
- | [pykickstart]({{< ref "/f37/package/pykickstart.md" >}}) | 27 | 1711 | 1.6 | Low German (http://www.transifex.com/projects/p/pykickstart/language/nds/) | 
- | [trojita]({{< ref "/f37/package/trojita.md" >}}) | 138 | 9444 | 1.5 | Low Saxon <kde-i18n-doc@kde.org> | 
- | [pluma-plugins]({{< ref "/f37/package/pluma-plugins.md" >}}) | 20 | 1398 | 1.4 | Low German (https://www.transifex.com/mate/teams/13566/nds/) | 
- | [zanshin]({{< ref "/f37/package/zanshin.md" >}}) | 7 | 495 | 1.4 | Low Saxon <kde-i18n-nds@kde.org> | 
- | [blueman]({{< ref "/f37/package/blueman.md" >}}) | 22 | 1863 | 1.2 | Low German (http://www.transifex.com/mate/MATE/language/nds/) | 
- | [kf5-ksmtp]({{< ref "/f37/package/kf5-ksmtp.md" >}}) | 1 | 86 | 1.2 | Low Saxon <kde-i18n-nds@kde.org> | 
- | [deluge]({{< ref "/f37/package/deluge.md" >}}) | 50 | 4340 | 1.2 | Low German <nds@li.org> | 
- | [kdenlive]({{< ref "/f37/package/kdenlive.md" >}}) | 167 | 15417 | 1.1 | Low Saxon <kde-i18n-nds@kde.org> | 
- | [plasma-discover]({{< ref "/f37/package/plasma-discover.md" >}}) | 29 | 2859 | 1.0 | Low Saxon <kde-i18n-nds@kde.org> | 
- | [chkconfig]({{< ref "/f37/package/chkconfig.md" >}}) | 6 | 593 | 1.0 | German (Low) <https://translate.fedoraproject.org/projects/fedora-sysv/chkconfig/nds/> | 
- | [python-meh]({{< ref "/f37/package/python-meh.md" >}}) | 1 | 109 | 0.9 | Low German (http://www.transifex.com/projects/p/python-meh/language/nds/) | 
- | [mate-calc]({{< ref "/f37/package/mate-calc.md" >}}) | 29 | 3202 | 0.9 | Low German (https://www.transifex.com/mate/teams/13566/nds/) | 
- | [mate-applets]({{< ref "/f37/package/mate-applets.md" >}}) | 125 | 15957 | 0.8 | Low German (https://www.transifex.com/mate/teams/13566/nds/) | 
- | [policycoreutils]({{< ref "/f37/package/policycoreutils.md" >}}) | 73 | 10521 | 0.7 | Low German | 
- | [caja-actions]({{< ref "/f37/package/caja-actions.md" >}}) | 110 | 18815 | 0.6 | Low German (https://www.transifex.com/mate/teams/13566/nds/) | 
- | [mate-power-manager]({{< ref "/f37/package/mate-power-manager.md" >}}) | 28 | 5119 | 0.5 | Low German (https://app.transifex.com/mate/teams/13566/nds/) | 
- | [rednotebook]({{< ref "/f37/package/rednotebook.md" >}}) | 5 | 1263 | 0.4 | Low German <nds@li.org> | 
- | [mate-user-guide]({{< ref "/f37/package/mate-user-guide.md" >}}) | 108 | 42973 | 0.3 | Low German (https://app.transifex.com/mate/teams/13566/nds/) | 
- | [mate-sensors-applet]({{< ref "/f37/package/mate-sensors-applet.md" >}}) | 4 | 2160 | 0.2 | Low German (https://www.transifex.com/mate/teams/13566/nds/) | 
- | [libreport]({{< ref "/f37/package/libreport.md" >}}) | 9 | 4928 | 0.2 | Low German (http://www.transifex.com/projects/p/libreport/language/nds/) | 
- | [stellarium]({{< ref "/f37/package/stellarium.md" >}}) | 267 | 151641 | 0.2 | Low German (https://www.transifex.com/stellarium/teams/80998/nds/) | 
- | [initscripts]({{< ref "/f37/package/initscripts.md" >}}) | 1 | 1118 | 0.1 | Low German <nds-lowgerman@lists.sourceforge.net> | 
- | [LabPlot]({{< ref "/f37/package/LabPlot.md" >}}) | 6 | 10997 | 0.1 | Low Saxon <kde-i18n-nds@kde.org> | 
- | [abrt]({{< ref "/f37/package/abrt.md" >}}) | 1 | 3676 | 0.0 | Low German (http://www.transifex.com/projects/p/fedora-abrt/language/nds/) | 
- | [picard]({{< ref "/f37/package/picard.md" >}}) | 1 | 10039 | 0.0 | LANGUAGE <LL@li.org> | 
- | [analitza]({{< ref "/f37/package/analitza.md" >}}) | 0 | 992 | 0.0 | Low Saxon <kde-i18n-nds@kde.org> | 
- | [android-tools]({{< ref "/f37/package/android-tools.md" >}}) | 0 | 7678 | 0.0 | Low German <nds-lowgerman@lists.sourceforge.net> | 
- | [chromium]({{< ref "/f37/package/chromium.md" >}}) | 0 | 0 | 0.0 |  | 
- | [fonts-tweak-tool]({{< ref "/f37/package/fonts-tweak-tool.md" >}}) | 0 | 195 | 0.0 | Low German | 
- | [fragments]({{< ref "/f37/package/fragments.md" >}}) | 0 | 2006 | 0.0 | Low German (https://www.transifex.com/transmissionbt/teams/33778/nds/) | 
- | [gnome-abrt]({{< ref "/f37/package/gnome-abrt.md" >}}) | 0 | 221 | 0.0 | none | 
- | [gnome-font-viewer]({{< ref "/f37/package/gnome-font-viewer.md" >}}) | 0 | 32 | 0.0 | Low German <nds-lowgerman@lists.sourceforge.net> | 
- | [initial-setup]({{< ref "/f37/package/initial-setup.md" >}}) | 0 | 33 | 0.0 | Low German | 
- | [kdenetwork-filesharing]({{< ref "/f37/package/kdenetwork-filesharing.md" >}}) | 0 | 849 | 0.0 | Low Saxon <kde-i18n-nds@kde.org> | 
- | [kf5-grantleetheme]({{< ref "/f37/package/kf5-grantleetheme.md" >}}) | 0 | 14 | 0.0 | Low Saxon <kde-i18n-nds@kde.org> | 
- | [kf5-kholidays]({{< ref "/f37/package/kf5-kholidays.md" >}}) | 0 | 150 | 0.0 | Low Saxon <kde-i18n-nds@kde.org> | 
- | [kf5-kitemviews]({{< ref "/f37/package/kf5-kitemviews.md" >}}) | 0 | 7 | 0.0 | Low Saxon <kde-i18n-nds@kde.org> | 
- | [kf5-syntax-highlighting]({{< ref "/f37/package/kf5-syntax-highlighting.md" >}}) | 0 | 645 | 0.0 | Low Saxon <kde-i18n-nds@kde.org> | 
- | [kreport]({{< ref "/f37/package/kreport.md" >}}) | 0 | 455 | 0.0 | Low Saxon <kde-i18n-nds@kde.org> | 
- | [libkgapi]({{< ref "/f37/package/libkgapi.md" >}}) | 0 | 378 | 0.0 | Low Saxon <kde-i18n-nds@kde.org> | 
- | [libvirt-sandbox]({{< ref "/f37/package/libvirt-sandbox.md" >}}) | 0 | 617 | 0.0 | Low German <nds-lowgerman@lists.sourceforge.net> | 
- | [phonon-backend-gstreamer]({{< ref "/f37/package/phonon-backend-gstreamer.md" >}}) | 0 | 104 | 0.0 | Low Saxon <kde-i18n-nds@kde.org> | 
- | [plasma-mediacenter]({{< ref "/f37/package/plasma-mediacenter.md" >}}) | 0 | 83 | 0.0 | Low Saxon <kde-i18n-nds@kde.org> | 
- | [plasma-milou]({{< ref "/f37/package/plasma-milou.md" >}}) | 0 | 10 | 0.0 | Low Saxon <kde-i18n-nds@kde.org> | 
- | [python-fedora]({{< ref "/f37/package/python-fedora.md" >}}) | 0 | 214 | 0.0 | Low German | 
- | [retrace-server]({{< ref "/f37/package/retrace-server.md" >}}) | 0 | 433 | 0.0 | none | 
- | [setroubleshoot-plugins]({{< ref "/f37/package/setroubleshoot-plugins.md" >}}) | 0 | 6246 | 0.0 | none | 
- | [umbrello]({{< ref "/f37/package/umbrello.md" >}}) | 0 | 0 | 0.0 |  | 
+ | [alacarte](/f37/package/alacarte) | 42 | 42 | 100.0 | Low German <nds-lowgerman@lists.sourceforge.net> | 
+ | [budgie-control-center](/f37/package/budgie-control-center) | 1313 | 1313 | 100.0 | Fedora Low German <nds-lowgerman@lists.sourceforge.net> | 
+ | [cinnamon-control-center](/f37/package/cinnamon-control-center) | 1313 | 1313 | 100.0 | Fedora Low German <nds-lowgerman@lists.sourceforge.net> | 
+ | [gnome-icon-theme](/f37/package/gnome-icon-theme) | 20 | 20 | 100.0 | Low German <nds-lowgerman@lists.sourceforge.net> | 
+ | [gnome-menus](/f37/package/gnome-menus) | 161 | 161 | 100.0 | Low German <nds-lowgerman@lists.sourceforge.net> | 
+ | [gnome-shell-frippery](/f37/package/gnome-shell-frippery) | 12 | 12 | 100.0 |  | 
+ | [gnome-video-effects](/f37/package/gnome-video-effects) | 26 | 26 | 100.0 | Low German <nds-lowgerman@lists.sourceforge.net> | 
+ | [gtk-vnc](/f37/package/gtk-vnc) | 8 | 8 | 100.0 | Low German <nds-lowgerman@lists.sourceforge.net> | 
+ | [islamic-menus](/f37/package/islamic-menus) | 5 | 5 | 100.0 | Low German <nds@li.org> | 
+ | [kdesdk-thumbnailers](/f37/package/kdesdk-thumbnailers) | 4 | 4 | 100.0 | Low Saxon <kde-i18n-nds@kde.org> | 
+ | [kdiamond](/f37/package/kdiamond) | 122 | 122 | 100.0 | Low Saxon <kde-i18n-nds@kde.org> | 
+ | [kf5-akonadi-notes](/f37/package/kf5-akonadi-notes) | 2 | 2 | 100.0 | Low Saxon <kde-i18n-nds@kde.org> | 
+ | [kf5-kblog](/f37/package/kf5-kblog) | 243 | 243 | 100.0 | Low Saxon <kde-i18n-nds@kde.org> | 
+ | [kf5-kdbusaddons](/f37/package/kf5-kdbusaddons) | 48 | 48 | 100.0 | Low Saxon <kde-i18n-nds@kde.org> | 
+ | [kf5-kdesignerplugin](/f37/package/kf5-kdesignerplugin) | 54 | 54 | 100.0 | Low Saxon <kde-i18n-nds@kde.org> | 
+ | [kf5-kdesu](/f37/package/kf5-kdesu) | 19 | 19 | 100.0 | Low Saxon <kde-i18n-nds@kde.org> | 
+ | [kf5-kdnssd](/f37/package/kf5-kdnssd) | 3 | 3 | 100.0 | Low Saxon <kde-i18n-nds@kde.org> | 
+ | [kf5-kdoctools](/f37/package/kf5-kdoctools) | 8 | 8 | 100.0 | Low Saxon <kde-i18n-nds@kde.org> | 
+ | [kf5-kjsembed](/f37/package/kf5-kjsembed) | 248 | 248 | 100.0 | Low Saxon <kde-i18n-nds@kde.org> | 
+ | [kf5-kmime](/f37/package/kf5-kmime) | 159 | 159 | 100.0 | Low Saxon <kde-i18n-nds@kde.org> | 
+ | [kf5-kontactinterface](/f37/package/kf5-kontactinterface) | 4 | 4 | 100.0 | Low Saxon <kde-i18n-nds@kde.org> | 
+ | [kf5-kpty](/f37/package/kf5-kpty) | 15 | 15 | 100.0 | Low Saxon <kde-i18n-nds@kde.org> | 
+ | [kf5-kross](/f37/package/kf5-kross) | 100 | 100 | 100.0 | Low Saxon <kde-i18n-nds@kde.org> | 
+ | [kf5-kwindowsystem](/f37/package/kf5-kwindowsystem) | 2 | 2 | 100.0 | Low Saxon <kde-i18n-nds@kde.org> | 
+ | [kf5-kxmlrpcclient](/f37/package/kf5-kxmlrpcclient) | 13 | 13 | 100.0 | Low Saxon <kde-i18n-nds@kde.org> | 
+ | [kf5-libkcompactdisc](/f37/package/kf5-libkcompactdisc) | 15 | 15 | 100.0 | Low Saxon <kde-i18n-nds@kde.org> | 
+ | [kf5-libkdepim](/f37/package/kf5-libkdepim) | 35 | 35 | 100.0 | Low Saxon <kde-i18n-doc@kde.org> | 
+ | [kf5-libkgeomap](/f37/package/kf5-libkgeomap) | 139 | 139 | 100.0 | Low Saxon <kde-i18n-nds@kde.org> | 
+ | [kf5-libktorrent](/f37/package/kf5-libktorrent) | 465 | 465 | 100.0 | Low Saxon <kde-i18n-nds@kde.org> | 
+ | [kgamma](/f37/package/kgamma) | 130 | 130 | 100.0 | Low Saxon <kde-i18n-nds@kde.org> | 
+ | [kgrab](/f37/package/kgrab) | 370 | 370 | 100.0 | Low Saxon <kde-i18n-nds@kde.org> | 
+ | [kiconedit](/f37/package/kiconedit) | 726 | 726 | 100.0 | Low Saxon <kde-i18n-nds@kde.org> | 
+ | [kio_gopher](/f37/package/kio_gopher) | 17 | 17 | 100.0 | Low Saxon <kde-i18n-nds@kde.org> | 
+ | [koffice-kivio](/f37/package/koffice-kivio) | 8417 | 8417 | 100.0 | Low Saxon <kde-i18n-nds@kde.org> | 
+ | [kpilot](/f37/package/kpilot) | 7156 | 7156 | 100.0 | Low Saxon <kde-i18n-nds@kde.org> | 
+ | [ksig](/f37/package/ksig) | 85 | 85 | 100.0 | Low Saxon <kde-i18n-nds@kde.org> | 
+ | [ktp-filetransfer-handler](/f37/package/ktp-filetransfer-handler) | 141 | 141 | 100.0 | Low Saxon <kde-i18n-nds@kde.org> | 
+ | [kwebkitpart](/f37/package/kwebkitpart) | 669 | 669 | 100.0 | Low Saxon <kde-i18n-nds@kde.org> | 
+ | [libgnome-keyring](/f37/package/libgnome-keyring) | 44 | 44 | 100.0 | Low German <nds-lowgerman@lists.sourceforge.net> | 
+ | [libgweather](/f37/package/libgweather) | 5586 | 5586 | 100.0 | Low German <nds-lowgerman@lists.sourceforge.net> | 
+ | [libgweather4](/f37/package/libgweather4) | 5586 | 5586 | 100.0 | Low German <nds-lowgerman@lists.sourceforge.net> | 
+ | [libkdegames](/f37/package/libkdegames) | 370 | 370 | 100.0 | Low Saxon <kde-i18n-nds@kde.org> | 
+ | [libkmahjongg](/f37/package/libkmahjongg) | 7 | 7 | 100.0 | Low Saxon <kde-i18n-nds@kde.org> | 
+ | [libpeas](/f37/package/libpeas) | 24 | 24 | 100.0 | Low German <nds-lowgerman@lists.sourceforge.net> | 
+ | [lskat](/f37/package/lskat) | 254 | 254 | 100.0 | Low Saxon <kde-i18n-nds@kde.org> | 
+ | [mate-icon-theme](/f37/package/mate-icon-theme) | 4 | 4 | 100.0 | Low German (https://www.transifex.com/mate/teams/13566/nds/) | 
+ | [mate-menu](/f37/package/mate-menu) | 308 | 308 | 100.0 | Low German (http://www.transifex.com/mate/MATE/language/nds/) | 
+ | [mate-menus](/f37/package/mate-menus) | 103 | 103 | 100.0 | Low German (https://app.transifex.com/mate/teams/13566/nds/) | 
+ | [mate-notification-daemon](/f37/package/mate-notification-daemon) | 186 | 186 | 100.0 | Low German (https://app.transifex.com/mate/teams/13566/nds/) | 
+ | [mate-themes](/f37/package/mate-themes) | 74 | 74 | 100.0 | Low German (http://app.transifex.com/mate/MATE/language/nds/) | 
+ | [multimedia-menus](/f37/package/multimedia-menus) | 56 | 56 | 100.0 | Low German Fedora Translation Team <nds-lowgerman@lists.sourceforge.net> | 
+ | [nemo-extensions](/f37/package/nemo-extensions) | 8 | 8 | 100.0 | Low German <nds@li.org> | 
+ | [newt](/f37/package/newt) | 4 | 4 | 100.0 | Fedora Low German <nds-lowgerman@lists.sourceforge.net> | 
+ | [python-caja](/f37/package/python-caja) | 6 | 6 | 100.0 | Low German (https://www.transifex.com/mate/teams/13566/nds/) | 
+ | [svgpart](/f37/package/svgpart) | 3 | 3 | 100.0 | Low Saxon <kde-i18n-nds@kde.org> | 
+ | [system-switch-java](/f37/package/system-switch-java) | 81 | 81 | 100.0 | Low German <nds-lowgerman@lists.sourceforge.net> | 
+ | [totem-pl-parser](/f37/package/totem-pl-parser) | 28 | 28 | 100.0 | Low German <nds-lowgerman@lists.sourceforge.net> | 
+ | [vte](/f37/package/vte) | 84 | 84 | 100.0 | Low German <nds-lowgerman@lists.sourceforge.net> | 
+ | [vte291](/f37/package/vte291) | 84 | 84 | 100.0 | Low German <nds-lowgerman@lists.sourceforge.net> | 
+ | [widelands](/f37/package/widelands) | 83602 | 83602 | 100.0 | Low German (http://www.transifex.com/widelands/widelands/language/nds/) | 
+ | [xdg-user-dirs-gtk](/f37/package/xdg-user-dirs-gtk) | 81 | 81 | 100.0 | Low German <nds-lowgerman@lists.sourceforge.net> | 
+ | [yelp](/f37/package/yelp) | 316 | 316 | 100.0 | Low Saxon NFE (Northern Frisian Enclave) <kenneth@gnu.org> | 
+ | [kmplayer](/f37/package/kmplayer) | 1248 | 1249 | 99.9 | Low Saxon <kde-i18n-nds@kde.org> | 
+ | [krecipes](/f37/package/krecipes) | 3633 | 3646 | 99.6 | Low Saxon <kde-i18n-nds@kde.org> | 
+ | [kbruch](/f37/package/kbruch) | 1342 | 1347 | 99.6 | Low Saxon <kde-i18n-nds@kde.org> | 
+ | [kopete](/f37/package/kopete) | 17101 | 17175 | 99.6 | Low Saxon <kde-i18n-nds@kde.org> | 
+ | [ktp-accounts-kcm](/f37/package/ktp-accounts-kcm) | 1077 | 1082 | 99.5 | Low Saxon <kde-i18n-nds@kde.org> | 
+ | [kde-l10n](/f37/package/kde-l10n) | 104642 | 105160 | 99.5 | Low Saxon <kde-i18n-nds@kde.org> | 
+ | [kf5-ktnef](/f37/package/kf5-ktnef) | 353 | 355 | 99.4 | Low Saxon <kde-i18n-nds@kde.org> | 
+ | [kcron](/f37/package/kcron) | 522 | 525 | 99.4 | Low Saxon <kde-i18n-nds@kde.org> | 
+ | [kaudiocreator](/f37/package/kaudiocreator) | 1128 | 1136 | 99.3 | Low Saxon <kde-i18n-nds@kde.org> | 
+ | [kf5-ki18n](/f37/package/kf5-ki18n) | 123 | 124 | 99.2 | Low Saxon <kde-i18n-nds@kde.org> | 
+ | [kf5-kcontacts](/f37/package/kf5-kcontacts) | 175 | 177 | 98.9 | Low Saxon <kde-i18n-nds@kde.org> | 
+ | [ksquares](/f37/package/ksquares) | 257 | 260 | 98.8 | Low Saxon <kde-i18n-nds@kde.org> | 
+ | [kmag](/f37/package/kmag) | 427 | 432 | 98.8 | Low Saxon <kde-i18n-doc@kde.org> | 
+ | [budgie-screensaver](/f37/package/budgie-screensaver) | 977 | 989 | 98.8 | Low German <nds-lowgerman@lists.sourceforge.net> | 
+ | [knavalbattle](/f37/package/knavalbattle) | 396 | 401 | 98.8 | Low Saxon <kde-i18n-nds@kde.org> | 
+ | [kf5-libkcddb](/f37/package/kf5-libkcddb) | 470 | 476 | 98.7 | Low Saxon <kde-i18n-nds@kde.org> | 
+ | [sweeper](/f37/package/sweeper) | 225 | 228 | 98.7 | Low Saxon <kde-i18n-nds@kde.org> | 
+ | [kcoloredit](/f37/package/kcoloredit) | 274 | 278 | 98.6 | Low Saxon <kde-i18n-doc@kde.org> | 
+ | [ksirk](/f37/package/ksirk) | 5671 | 5756 | 98.5 | Low Saxon <kde-i18n-nds@kde.org> | 
+ | [katomic](/f37/package/katomic) | 181 | 184 | 98.4 | Low Saxon <kde-i18n-nds@kde.org> | 
+ | [kfourinline](/f37/package/kfourinline) | 385 | 392 | 98.2 | Low Saxon <kde-i18n-nds@kde.org> | 
+ | [kspaceduel](/f37/package/kspaceduel) | 162 | 165 | 98.2 | Low Saxon <kde-i18n-nds@kde.org> | 
+ | [kubrick](/f37/package/kubrick) | 1183 | 1205 | 98.2 | Low Saxon <kde-i18n-doc@kde.org> | 
+ | [blogilo](/f37/package/blogilo) | 1364 | 1392 | 98.0 | Low Saxon <kde-i18n-nds@kde.org> | 
+ | [libkeduvocdocument](/f37/package/libkeduvocdocument) | 167 | 171 | 97.7 | Low Saxon <kde-i18n-nds@kde.org> | 
+ | [cervisia](/f37/package/cervisia) | 1575 | 1615 | 97.5 | Low Saxon <kde-i18n-nds@kde.org> | 
+ | [kf5-kinit](/f37/package/kf5-kinit) | 113 | 116 | 97.4 | Low Saxon <kde-i18n-nds@kde.org> | 
+ | [kjumpingcube](/f37/package/kjumpingcube) | 402 | 413 | 97.3 | Low Saxon <kde-i18n-nds@kde.org> | 
+ | [kwordquiz](/f37/package/kwordquiz) | 2000 | 2058 | 97.2 | Low Saxon <kde-i18n-nds@kde.org> | 
+ | [kblackbox](/f37/package/kblackbox) | 1328 | 1367 | 97.1 | Low Saxon <kde-i18n-nds@kde.org> | 
+ | [kget](/f37/package/kget) | 2667 | 2756 | 96.8 | Low Saxon <kde-i18n-nds@kde.org> | 
+ | [kf5-ktextwidgets](/f37/package/kf5-ktextwidgets) | 456 | 473 | 96.4 | Low Saxon <kde-i18n-nds@kde.org> | 
+ | [kf5-eventviews](/f37/package/kf5-eventviews) | 2853 | 2961 | 96.4 | Low Saxon <kde-i18n-nds@kde.org> | 
+ | [kigo](/f37/package/kigo) | 485 | 504 | 96.2 | Low Saxon <kde-i18n-nds@kde.org> | 
+ | [kig](/f37/package/kig) | 7558 | 7857 | 96.2 | Low Saxon <kde-i18n-doc@kde.org> | 
+ | [kf5-sonnet](/f37/package/kf5-sonnet) | 657 | 683 | 96.2 | Low Saxon <kde-i18n-nds@kde.org> | 
+ | [ktp-common-internals](/f37/package/ktp-common-internals) | 949 | 989 | 96.0 | Low Saxon <kde-i18n-nds@kde.org> | 
+ | [kiriki](/f37/package/kiriki) | 138 | 144 | 95.8 | Low Saxon <kde-i18n-nds@kde.org> | 
+ | [kf5-kalarmcal](/f37/package/kf5-kalarmcal) | 195 | 204 | 95.6 | Low Saxon <kde-i18n-nds@kde.org> | 
+ | [klettres](/f37/package/klettres) | 420 | 440 | 95.5 | Low Saxon <kde-i18n-nds@kde.org> | 
+ | [kmouth](/f37/package/kmouth) | 1427 | 1496 | 95.4 | Low Saxon <kde-i18n-nds@kde.org> | 
+ | [kfloppy](/f37/package/kfloppy) | 611 | 641 | 95.3 | Low Saxon <kde-i18n-nds@kde.org> | 
+ | [bovo](/f37/package/bovo) | 77 | 81 | 95.1 | Low Saxon <kde-i18n-nds@kde.org> | 
+ | [konversation](/f37/package/konversation) | 9775 | 10363 | 94.3 | Low Saxon <kde-i18n-nds@kde.org> | 
+ | [kblocks](/f37/package/kblocks) | 149 | 158 | 94.3 | Low Saxon <kde-i18n-nds@kde.org> | 
+ | [ktuberling](/f37/package/ktuberling) | 149 | 158 | 94.3 | Low Saxon <kde-i18n-nds@kde.org> | 
+ | [kf5-khtml](/f37/package/kf5-khtml) | 1572 | 1667 | 94.3 | Low Saxon <kde-i18n-nds@kde.org> | 
+ | [kgeography](/f37/package/kgeography) | 9422 | 10012 | 94.1 | Low Saxon <kde-i18n-nds@kde.org> | 
+ | [blinken](/f37/package/blinken) | 126 | 134 | 94.0 | Low Saxon <kde-i18n-doc@kde.org> | 
+ | [kgpg](/f37/package/kgpg) | 4952 | 5272 | 93.9 | Low Saxon <kde-i18n-nds@kde.org> | 
+ | [kturtle](/f37/package/kturtle) | 1439 | 1538 | 93.6 | Low Saxon <kde-i18n-nds@kde.org> | 
+ | [kfind](/f37/package/kfind) | 483 | 517 | 93.4 | Low Saxon <kde-i18n-nds@kde.org> | 
+ | [ktimer](/f37/package/ktimer) | 241 | 258 | 93.4 | Low Saxon <kde-i18n-nds@kde.org> | 
+ | [ksysguard](/f37/package/ksysguard) | 1020 | 1093 | 93.3 | Low Saxon <kde-i18n-nds@kde.org> | 
+ | [ktorrent](/f37/package/ktorrent) | 6953 | 7455 | 93.3 | Low Saxon <kde-i18n-nds@kde.org> | 
+ | [kolourpaint](/f37/package/kolourpaint) | 2389 | 2568 | 93.0 | Low Saxon <kde-i18n-doc@kde.org> | 
+ | [libmateweather](/f37/package/libmateweather) | 5709 | 6143 | 92.9 | Low German (https://app.transifex.com/mate/teams/13566/nds/) | 
+ | [klines](/f37/package/klines) | 92 | 99 | 92.9 | Low Saxon <kde-i18n-nds@kde.org> | 
+ | [xdg-user-dirs](/f37/package/xdg-user-dirs) | 26 | 28 | 92.9 | Low German <nds-lowgerman@lists.sourceforge.net> | 
+ | [kolf](/f37/package/kolf) | 372 | 401 | 92.8 | Low Saxon <kde-i18n-nds@kde.org> | 
+ | [mate-backgrounds](/f37/package/mate-backgrounds) | 51 | 55 | 92.7 | Low German (https://www.transifex.com/mate/teams/13566/nds/) | 
+ | [granatier](/f37/package/granatier) | 228 | 246 | 92.7 | Low Saxon <kde-i18n-nds@kde.org> | 
+ | [kf5-kjobwidgets](/f37/package/kf5-kjobwidgets) | 123 | 133 | 92.5 | Low Saxon <kde-i18n-nds@kde.org> | 
+ | [palapeli](/f37/package/palapeli) | 1410 | 1525 | 92.5 | Low Saxon <kde-i18n-nds@kde.org> | 
+ | [kdf](/f37/package/kdf) | 180 | 195 | 92.3 | Low Saxon <kde-i18n-nds@kde.org> | 
+ | [knetwalk](/f37/package/knetwalk) | 224 | 243 | 92.2 | Low Saxon <kde-i18n-nds@kde.org> | 
+ | [klickety](/f37/package/klickety) | 164 | 178 | 92.1 | Low Saxon <kde-i18n-nds@kde.org> | 
+ | [ktp-send-file](/f37/package/ktp-send-file) | 55 | 60 | 91.7 | Low Saxon <kde-i18n-nds@kde.org> | 
+ | [kmplot](/f37/package/kmplot) | 2291 | 2500 | 91.6 | Low Saxon <kde-i18n-nds@kde.org> | 
+ | [kf5-kwallet](/f37/package/kf5-kwallet) | 1223 | 1335 | 91.6 | Low Saxon <kde-i18n-nds@kde.org> | 
+ | [kf5-akonadi-mime](/f37/package/kf5-akonadi-mime) | 521 | 569 | 91.6 | Low Saxon <kde-i18n-nds@kde.org> | 
+ | [ktp-approver](/f37/package/ktp-approver) | 65 | 71 | 91.5 | Low Saxon <kde-i18n-nds@kde.org> | 
+ | [kanagram](/f37/package/kanagram) | 482 | 527 | 91.5 | Low Saxon <kde-i18n-nds@kde.org> | 
+ | [khotkeys](/f37/package/khotkeys) | 412 | 451 | 91.4 | Low Saxon <kde-i18n-doc@kde.org> | 
+ | [kdepim-addons](/f37/package/kdepim-addons) | 1820 | 1993 | 91.3 | Low Saxon <kde-i18n-nds@kde.org> | 
+ | [kapman](/f37/package/kapman) | 105 | 115 | 91.3 | Low Saxon <kde-i18n-nds@kde.org> | 
+ | [plasma-oxygen](/f37/package/plasma-oxygen) | 731 | 802 | 91.1 | Low Saxon <kde-i18n-nds@kde.org> | 
+ | [parley](/f37/package/parley) | 3110 | 3433 | 90.6 | Low Saxon <kde-i18n-nds@kde.org> | 
+ | [kmenuedit](/f37/package/kmenuedit) | 258 | 285 | 90.5 | Low Saxon <kde-i18n-nds@kde.org> | 
+ | [ksystemlog](/f37/package/ksystemlog) | 2806 | 3101 | 90.5 | Low Saxon <kde-i18n-nds@kde.org> | 
+ | [kde-print-manager](/f37/package/kde-print-manager) | 878 | 971 | 90.4 | Low Saxon <kde-i18n-doc@kde.org> | 
+ | [kbounce](/f37/package/kbounce) | 141 | 156 | 90.4 | Low Saxon <kde-i18n-nds@kde.org> | 
+ | [kbrickbuster](/f37/package/kbrickbuster) | 142 | 158 | 89.9 | Low Saxon <kde-i18n-nds@kde.org> | 
+ | [juk](/f37/package/juk) | 1366 | 1526 | 89.5 | Low Saxon <kde-i18n-nds@kde.org> | 
+ | [ktp-auth-handler](/f37/package/ktp-auth-handler) | 74 | 83 | 89.2 | Low Saxon <kde-i18n-nds@kde.org> | 
+ | [mozo](/f37/package/mozo) | 41 | 46 | 89.1 | Low German (https://www.transifex.com/mate/teams/13566/nds/) | 
+ | [kajongg](/f37/package/kajongg) | 2190 | 2458 | 89.1 | Low Saxon <kde-i18n-nds@kde.org> | 
+ | [keditbookmarks](/f37/package/keditbookmarks) | 415 | 466 | 89.1 | Low Saxon <kde-i18n-nds@kde.org> | 
+ | [libkomparediff2](/f37/package/libkomparediff2) | 127 | 143 | 88.8 | Low Saxon <kde-i18n-nds@kde.org> | 
+ | [tellico](/f37/package/tellico) | 5235 | 5960 | 87.8 | Low Saxon <kde-i18n-nds@kde.org> | 
+ | [kcalc](/f37/package/kcalc) | 938 | 1070 | 87.7 | Low Saxon <kde-i18n-nds@kde.org> | 
+ | [kf5-akonadi-calendar](/f37/package/kf5-akonadi-calendar) | 1670 | 1908 | 87.5 | Low Saxon <kde-i18n-nds@kde.org> | 
+ | [kf5-kdelibs4support](/f37/package/kf5-kdelibs4support) | 4676 | 5353 | 87.4 | Low Saxon <kde-i18n-nds@kde.org> | 
+ | [okteta](/f37/package/okteta) | 2212 | 2538 | 87.2 | Low Saxon <kde-i18n-nds@kde.org> | 
+ | [konquest](/f37/package/konquest) | 214 | 246 | 87.0 | Low Saxon <kde-i18n-nds@kde.org> | 
+ | [kdesdk-kioslaves](/f37/package/kdesdk-kioslaves) | 73 | 84 | 86.9 | Low Saxon <kde-i18n-nds@kde.org> | 
+ | [k3b](/f37/package/k3b) | 17500 | 20183 | 86.7 | Low Saxon <kde-i18n-nds@kde.org> | 
+ | [yakuake](/f37/package/yakuake) | 1446 | 1669 | 86.6 | Low Saxon <kde-i18n-nds@kde.org> | 
+ | [grantlee-editor](/f37/package/grantlee-editor) | 345 | 400 | 86.2 | Low Saxon <kde-i18n-nds@kde.org> | 
+ | [kiten](/f37/package/kiten) | 584 | 683 | 85.5 | Low Saxon <kde-i18n-doc@kde.org> | 
+ | [kf5-kconfigwidgets](/f37/package/kf5-kconfigwidgets) | 292 | 342 | 85.4 | Low Saxon <kde-i18n-nds@kde.org> | 
+ | [mate-screensaver](/f37/package/mate-screensaver) | 939 | 1101 | 85.3 | Low German (https://app.transifex.com/mate/teams/13566/nds/) | 
+ | [mate-user-admin](/f37/package/mate-user-admin) | 515 | 605 | 85.1 | Low German (https://www.transifex.com/mate/teams/13566/nds/) | 
+ | [ksnakeduel](/f37/package/ksnakeduel) | 205 | 241 | 85.1 | Low Saxon <kde-i18n-nds@kde.org> | 
+ | [kaddressbook](/f37/package/kaddressbook) | 978 | 1151 | 85.0 | Low Saxon <kde-i18n-nds@kde.org> | 
+ | [kf5-solid](/f37/package/kf5-solid) | 498 | 588 | 84.7 | Low Saxon <kde-i18n-nds@kde.org> | 
+ | [kf5-audiocd-kio](/f37/package/kf5-audiocd-kio) | 723 | 857 | 84.4 | Low Saxon <kde-i18n-nds@kde.org> | 
+ | [krdc](/f37/package/krdc) | 979 | 1162 | 84.3 | Low Saxon <kde-i18n-nds@kde.org> | 
+ | [kf5-mailimporter](/f37/package/kf5-mailimporter) | 1186 | 1408 | 84.2 | Low Saxon <kde-i18n-nds@kde.org> | 
+ | [kcm_wacomtablet](/f37/package/kcm_wacomtablet) | 891 | 1064 | 83.7 | Low Saxon <kde-i18n-nds@kde.org> | 
+ | [kf5-libksieve](/f37/package/kf5-libksieve) | 2609 | 3121 | 83.6 | Low Saxon <kde-i18n-nds@kde.org> | 
+ | [kf5-kcompletion](/f37/package/kf5-kcompletion) | 15 | 18 | 83.3 | Low Saxon <kde-i18n-nds@kde.org> | 
+ | [kamera](/f37/package/kamera) | 283 | 342 | 82.7 | Low Saxon <kde-i18n-nds@kde.org> | 
+ | [kwalletmanager5](/f37/package/kwalletmanager5) | 694 | 839 | 82.7 | Low Saxon <kde-i18n-doc@kde.org> | 
+ | [kollision](/f37/package/kollision) | 90 | 109 | 82.6 | Low Saxon <kde-i18n-nds@kde.org> | 
+ | [polkit-kde](/f37/package/polkit-kde) | 78 | 95 | 82.1 | Low Saxon <kde-i18n-nds@kde.org> | 
+ | [knights](/f37/package/knights) | 652 | 796 | 81.9 | Low Saxon <kde-i18n-doc@kde.org> | 
+ | [kcharselect](/f37/package/kcharselect) | 72 | 88 | 81.8 | Low Saxon <kde-i18n-nds@kde.org> | 
+ | [kde-cli-tools](/f37/package/kde-cli-tools) | 1742 | 2135 | 81.6 | Low Saxon <kde-i18n-nds@kde.org> | 
+ | [ktouch](/f37/package/ktouch) | 782 | 960 | 81.5 | Low Saxon <kde-i18n-doc@kde.org> | 
+ | [kf5-kimap](/f37/package/kf5-kimap) | 96 | 118 | 81.4 | Low Saxon <kde-i18n-nds@kde.org> | 
+ | [ktp-contact-runner](/f37/package/ktp-contact-runner) | 169 | 208 | 81.2 | Low Saxon <kde-i18n-nds@kde.org> | 
+ | [picmi](/f37/package/picmi) | 164 | 202 | 81.2 | Low Saxon <kde-i18n-nds@kde.org> | 
+ | [khelpcenter](/f37/package/khelpcenter) | 214 | 265 | 80.8 | Low Saxon <kde-i18n-nds@kde.org> | 
+ | [kf5-mailcommon](/f37/package/kf5-mailcommon) | 2216 | 2755 | 80.4 | Low Saxon <kde-i18n-nds@kde.org> | 
+ | [kmahjongg](/f37/package/kmahjongg) | 303 | 377 | 80.4 | Low Saxon <kde-i18n-nds@kde.org> | 
+ | [kgoldrunner](/f37/package/kgoldrunner) | 22470 | 28011 | 80.2 | Low Saxon <kde-i18n-nds@kde.org> | 
+ | [kf5-kmailtransport](/f37/package/kf5-kmailtransport) | 542 | 676 | 80.2 | Low Saxon <kde-i18n-nds@kde.org> | 
+ | [kalgebra](/f37/package/kalgebra) | 133 | 166 | 80.1 | Low Saxon <kde-i18n-nds@kde.org> | 
+ | [konqueror](/f37/package/konqueror) | 6885 | 8613 | 79.9 | Low Saxon <kde-i18n-nds@kde.org> | 
+ | [kalzium](/f37/package/kalzium) | 7241 | 9105 | 79.5 | Low Saxon <kde-i18n-doc@kde.org> | 
+ | [kf5-kservice](/f37/package/kf5-kservice) | 137 | 173 | 79.2 | Low Saxon <kde-i18n-nds@kde.org> | 
+ | [krfb](/f37/package/krfb) | 582 | 735 | 79.2 | Low Saxon <kde-i18n-nds@kde.org> | 
+ | [mate-media](/f37/package/mate-media) | 189 | 239 | 79.1 | Low German (https://app.transifex.com/mate/teams/13566/nds/) | 
+ | [kdepim-runtime](/f37/package/kdepim-runtime) | 4545 | 5749 | 79.1 | Low Saxon <kde-i18n-nds@kde.org> | 
+ | [supertux](/f37/package/supertux) | 1940 | 2469 | 78.6 | Low German (http://www.transifex.com/arctic-games/supertux/language/nds/) | 
+ | [folder-color-switcher](/f37/package/folder-color-switcher) | 51 | 65 | 78.5 | Low German <nds@li.org> | 
+ | [kteatime](/f37/package/kteatime) | 158 | 203 | 77.8 | Low Saxon <kde-i18n-nds@kde.org> | 
+ | [kf5-calendarsupport](/f37/package/kf5-calendarsupport) | 2158 | 2779 | 77.7 | Low Saxon <kde-i18n-nds@kde.org> | 
+ | [kf5-libksane](/f37/package/kf5-libksane) | 236 | 304 | 77.6 | Low Saxon <kde-i18n-nds@kde.org> | 
+ | [kf5-incidenceeditor](/f37/package/kf5-incidenceeditor) | 1713 | 2208 | 77.6 | Low Saxon <kde-i18n-nds@kde.org> | 
+ | [kf5-messagelib](/f37/package/kf5-messagelib) | 6553 | 8455 | 77.5 | Low Saxon <kde-i18n-nds@kde.org> | 
+ | [kshisen](/f37/package/kshisen) | 512 | 661 | 77.5 | Low Saxon <kde-i18n-nds@kde.org> | 
+ | [kalarm](/f37/package/kalarm) | 6458 | 8377 | 77.1 | Low Saxon <kde-i18n-nds@kde.org> | 
+ | [kf5-akonadi-server](/f37/package/kf5-akonadi-server) | 1998 | 2596 | 77.0 | Low Saxon <kde-i18n-nds@kde.org> | 
+ | [calligra](/f37/package/calligra) | 27437 | 35951 | 76.3 | Low Saxon <kde-i18n-nds@kde.org> | 
+ | [rsibreak](/f37/package/rsibreak) | 922 | 1209 | 76.3 | Low Saxon <kde-i18n-nds@kde.org> | 
+ | [kf5-kglobalaccel](/f37/package/kf5-kglobalaccel) | 54 | 71 | 76.1 | Low Saxon <kde-i18n-nds@kde.org> | 
+ | [kf5-kunitconversion](/f37/package/kf5-kunitconversion) | 4354 | 5757 | 75.6 | Low Saxon <kde-i18n-nds@kde.org> | 
+ | [kf5-kconfig](/f37/package/kf5-kconfig) | 218 | 289 | 75.4 | Low Saxon <kde-i18n-nds@kde.org> | 
+ | [kf5-kparts](/f37/package/kf5-kparts) | 104 | 138 | 75.4 | Low Saxon <kde-i18n-nds@kde.org> | 
+ | [mbox-importer](/f37/package/mbox-importer) | 30 | 40 | 75.0 | Low Saxon <kde-i18n-nds@kde.org> | 
+ | [kgraphviewer](/f37/package/kgraphviewer) | 902 | 1205 | 74.9 | Low Saxon <kde-i18n-nds@kde.org> | 
+ | [akonadi-calendar-tools](/f37/package/akonadi-calendar-tools) | 580 | 785 | 73.9 | Low Saxon <kde-i18n-nds@kde.org> | 
+ | [akregator](/f37/package/akregator) | 1393 | 1893 | 73.6 | Low Saxon <kde-i18n-nds@kde.org> | 
+ | [kile](/f37/package/kile) | 9541 | 12994 | 73.4 | Low Saxon <kde-i18n-nds@kde.org> | 
+ | [kf5-ktexteditor](/f37/package/kf5-ktexteditor) | 6740 | 9233 | 73.0 | Low Saxon <kde-i18n-nds@kde.org> | 
+ | [krusader](/f37/package/krusader) | 5897 | 8095 | 72.8 | Low Saxon <kde-i18n-nds@kde.org> | 
+ | [skanlite](/f37/package/skanlite) | 134 | 186 | 72.0 | Low Saxon <kde-i18n-doc@kde.org> | 
+ | [kpat](/f37/package/kpat) | 405 | 565 | 71.7 | Low Saxon <kde-i18n-nds@kde.org> | 
+ | [kmousetool](/f37/package/kmousetool) | 103 | 147 | 70.1 | Low Saxon <kde-i18n-doc@kde.org> | 
+ | [kdnssd](/f37/package/kdnssd) | 21 | 30 | 70.0 | Low Saxon <kde-i18n-nds@kde.org> | 
+ | [mate-desktop](/f37/package/mate-desktop) | 1656 | 2376 | 69.7 | Low German (https://app.transifex.com/mate/teams/13566/nds/) | 
+ | [lokalize](/f37/package/lokalize) | 2829 | 4086 | 69.2 | Low Saxon <kde-i18n-nds@kde.org> | 
+ | [kmines](/f37/package/kmines) | 108 | 156 | 69.2 | Low Saxon <kde-i18n-nds@kde.org> | 
+ | [kf5-kio](/f37/package/kf5-kio) | 8323 | 12029 | 69.2 | Low Saxon <kde-i18n-nds@kde.org> | 
+ | [massif-visualizer](/f37/package/massif-visualizer) | 247 | 357 | 69.2 | Low Saxon <kde-i18n-nds@kde.org> | 
+ | [kde-style-breeze](/f37/package/kde-style-breeze) | 183 | 266 | 68.8 | Low Saxon <kde-i18n-nds@kde.org> | 
+ | [kf5-kcmutils](/f37/package/kf5-kcmutils) | 183 | 266 | 68.8 | Low Saxon <kde-i18n-nds@kde.org> | 
+ | [kf5-plasma](/f37/package/kf5-plasma) | 248 | 362 | 68.5 | Low Saxon <kde-i18n-nds@kde.org> | 
+ | [libksysguard](/f37/package/libksysguard) | 2669 | 3901 | 68.4 | Low Saxon <kde-i18n-nds@kde.org> | 
+ | [kmail](/f37/package/kmail) | 6128 | 8984 | 68.2 | Low Saxon <kde-i18n-nds@kde.org> | 
+ | [bomber](/f37/package/bomber) | 75 | 110 | 68.2 | Low Saxon <kde-i18n-nds@kde.org> | 
+ | [killbots](/f37/package/killbots) | 430 | 637 | 67.5 | Low Saxon <kde-i18n-nds@kde.org> | 
+ | [kontact](/f37/package/kontact) | 329 | 492 | 66.9 | Low Saxon <kde-i18n-doc@kde.org> | 
+ | [kf5-knotifyconfig](/f37/package/kf5-knotifyconfig) | 86 | 129 | 66.7 | Low Saxon <kde-i18n-nds@kde.org> | 
+ | [caja-extensions](/f37/package/caja-extensions) | 501 | 760 | 65.9 | Low German (https://www.transifex.com/mate/teams/13566/nds/) | 
+ | [kruler](/f37/package/kruler) | 104 | 158 | 65.8 | Low Saxon <kde-i18n-nds@kde.org> | 
+ | [kf5-kldap](/f37/package/kf5-kldap) | 148 | 227 | 65.2 | Low Saxon <kde-i18n-nds@kde.org> | 
+ | [khangman](/f37/package/khangman) | 304 | 475 | 64.0 | Low Saxon <kde-i18n-nds@kde.org> | 
+ | [akonadi-import-wizard](/f37/package/akonadi-import-wizard) | 252 | 394 | 64.0 | Low Saxon <kde-i18n-nds@kde.org> | 
+ | [kf5-akonadi-contacts](/f37/package/kf5-akonadi-contacts) | 936 | 1469 | 63.7 | Low Saxon <kde-i18n-nds@kde.org> | 
+ | [kdiff3](/f37/package/kdiff3) | 2162 | 3423 | 63.2 | Low Saxon <kde-i18n-nds@kde.org> | 
+ | [kf5-kxmlgui](/f37/package/kf5-kxmlgui) | 993 | 1574 | 63.1 | Low Saxon <kde-i18n-nds@kde.org> | 
+ | [kdialog](/f37/package/kdialog) | 237 | 382 | 62.0 | Low Saxon <kde-i18n-nds@kde.org> | 
+ | [kapptemplate](/f37/package/kapptemplate) | 167 | 272 | 61.4 | Low Saxon <kde-i18n-nds@kde.org> | 
+ | [kde-dev-utils](/f37/package/kde-dev-utils) | 58 | 95 | 61.1 | Low Saxon <kde-i18n-nds@kde.org> | 
+ | [kf5-kwidgetsaddons](/f37/package/kf5-kwidgetsaddons) | 782 | 1293 | 60.5 | Low Saxon <kde-i18n-nds@kde.org> | 
+ | [kf5-kidentitymanagement](/f37/package/kf5-kidentitymanagement) | 110 | 182 | 60.4 | Low Saxon <kde-i18n-nds@kde.org> | 
+ | [ktp-text-ui](/f37/package/ktp-text-ui) | 810 | 1352 | 59.9 | Low Saxon <kde-i18n-nds@kde.org> | 
+ | [knotes](/f37/package/knotes) | 478 | 798 | 59.9 | Low Saxon <kde-i18n-doc@kde.org> | 
+ | [kmix](/f37/package/kmix) | 648 | 1092 | 59.3 | Low Saxon <kde-i18n-nds@kde.org> | 
+ | [smb4k](/f37/package/smb4k) | 3810 | 6562 | 58.1 | Low Saxon <kde-i18n-nds@kde.org> | 
+ | [korganizer](/f37/package/korganizer) | 3981 | 6912 | 57.6 | Low Saxon <kde-i18n-nds@kde.org> | 
+ | [kf5-kpackage](/f37/package/kf5-kpackage) | 256 | 452 | 56.6 | Low Saxon <kde-i18n-nds@kde.org> | 
+ | [mate-session-manager](/f37/package/mate-session-manager) | 400 | 715 | 55.9 | Low German (https://app.transifex.com/mate/teams/13566/nds/) | 
+ | [ktp-contact-list](/f37/package/ktp-contact-list) | 377 | 680 | 55.4 | Low Saxon <kde-i18n-nds@kde.org> | 
+ | [kf5-kbookmarks](/f37/package/kf5-kbookmarks) | 127 | 230 | 55.2 | Low Saxon <kde-i18n-nds@kde.org> | 
+ | [kio-extras](/f37/package/kio-extras) | 561 | 1017 | 55.2 | Low Saxon <kde-i18n-nds@kde.org> | 
+ | [kf5-kipi-plugins](/f37/package/kf5-kipi-plugins) | 2477 | 4568 | 54.2 | Low Saxon <kde-i18n-doc@kde.org> | 
+ | [plasma-breeze](/f37/package/plasma-breeze) | 131 | 242 | 54.1 | Low Saxon <kde-i18n-nds@kde.org> | 
+ | [kf5-kcalendarutils](/f37/package/kf5-kcalendarutils) | 798 | 1475 | 54.1 | Low Saxon <kde-i18n-nds@kde.org> | 
+ | [kinfocenter](/f37/package/kinfocenter) | 249 | 461 | 54.0 | Low Saxon <kde-i18n-nds@kde.org> | 
+ | [okular](/f37/package/okular) | 3015 | 5610 | 53.7 | Low Saxon <kde-i18n-nds@kde.org> | 
+ | [plasma-workspace](/f37/package/plasma-workspace) | 6081 | 11351 | 53.6 | Low Saxon <kde-i18n-nds@kde.org> | 
+ | [kf5-kauth](/f37/package/kf5-kauth) | 39 | 73 | 53.4 | Low Saxon <kde-i18n-nds@kde.org> | 
+ | [kf5-kdeclarative](/f37/package/kf5-kdeclarative) | 86 | 161 | 53.4 | Low Saxon <kde-i18n-nds@kde.org> | 
+ | [gwenview](/f37/package/gwenview) | 1056 | 1997 | 52.9 | Low Saxon <kde-i18n-nds@kde.org> | 
+ | [im-chooser](/f37/package/im-chooser) | 133 | 253 | 52.6 | LANGUAGE <LL@li.org> | 
+ | [plasma-systemsettings](/f37/package/plasma-systemsettings) | 111 | 212 | 52.4 | Low Saxon <kde-i18n-nds@kde.org> | 
+ | [evince](/f37/package/evince) | 621 | 1262 | 49.2 | Low German <nds-lowgerman@lists.sourceforge.net> | 
+ | [plasma-desktop](/f37/package/plasma-desktop) | 3323 | 6754 | 49.2 | Low Saxon <kde-i18n-nds@kde.org> | 
+ | [synapse](/f37/package/synapse) | 417 | 856 | 48.7 | Low German <nds@li.org> | 
+ | [pmount](/f37/package/pmount) | 352 | 723 | 48.7 | German, Low <nds@li.org> | 
+ | [kcolorchooser](/f37/package/kcolorchooser) | 14 | 29 | 48.3 | Low Saxon <kde-i18n-nds@kde.org> | 
+ | [kf5-kcoreaddons](/f37/package/kf5-kcoreaddons) | 182 | 382 | 47.6 | Low Saxon <kde-i18n-nds@kde.org> | 
+ | [kf5-knotifications](/f37/package/kf5-knotifications) | 10 | 21 | 47.6 | Low Saxon <kde-i18n-nds@kde.org> | 
+ | [cinnamon-desktop](/f37/package/cinnamon-desktop) | 110 | 234 | 47.0 | Low German <nds-lowgerman@lists.sourceforge.net> | 
+ | [pim-data-exporter](/f37/package/pim-data-exporter) | 379 | 810 | 46.8 | Low Saxon <kde-i18n-nds@kde.org> | 
+ | [kreversi](/f37/package/kreversi) | 198 | 425 | 46.6 | Low Saxon <kde-i18n-nds@kde.org> | 
+ | [plasma-sdk](/f37/package/plasma-sdk) | 169 | 371 | 45.6 | Low Saxon <kde-i18n-nds@kde.org> | 
+ | [kactivitymanagerd](/f37/package/kactivitymanagerd) | 5 | 11 | 45.5 | Low Saxon <kde-i18n-nds@kde.org> | 
+ | [calligraplan](/f37/package/calligraplan) | 4503 | 9943 | 45.3 | Low Saxon <kde-i18n-nds@kde.org> | 
+ | [kmail-account-wizard](/f37/package/kmail-account-wizard) | 369 | 815 | 45.3 | Low Saxon <kde-i18n-nds@kde.org> | 
+ | [kmymoney](/f37/package/kmymoney) | 9932 | 22051 | 45.0 | Low Saxon <kde-i18n-nds@kde.org> | 
+ | [kate](/f37/package/kate) | 2919 | 6542 | 44.6 | Low Saxon <kde-i18n-nds@kde.org> | 
+ | [kde-partitionmanager](/f37/package/kde-partitionmanager) | 1012 | 2272 | 44.5 | Low Saxon <kde-i18n-nds@kde.org> | 
+ | [gnome-control-center](/f37/package/gnome-control-center) | 2019 | 4538 | 44.5 | Fedora Low German <nds-lowgerman@lists.sourceforge.net> | 
+ | [ktp-kded-integration-module](/f37/package/ktp-kded-integration-module) | 217 | 490 | 44.3 | Low Saxon <kde-i18n-nds@kde.org> | 
+ | [gtk4](/f37/package/gtk4) | 1062 | 2432 | 43.7 | German, Low <nds-lowgerman@lists.sourceforge.net> | 
+ | [kleopatra](/f37/package/kleopatra) | 5108 | 12297 | 41.5 | Low Saxon <kde-i18n-nds@kde.org> | 
+ | [kdevelop-php](/f37/package/kdevelop-php) | 217 | 529 | 41.0 | Low Saxon <kde-i18n-nds@kde.org> | 
+ | [ksudoku](/f37/package/ksudoku) | 700 | 1746 | 40.1 | Low Saxon <kde-i18n-nds@kde.org> | 
+ | [artikulate](/f37/package/artikulate) | 132 | 332 | 39.8 | Low Saxon <kde-i18n-doc@kde.org> | 
+ | [libgnomeui](/f37/package/libgnomeui) | 482 | 1226 | 39.3 | Low German <nds-lowgerman@lists.sourceforge.net> | 
+ | [kcachegrind](/f37/package/kcachegrind) | 1714 | 4367 | 39.2 | Low Saxon <kde-i18n-nds@kde.org> | 
+ | [plasma-drkonqi](/f37/package/plasma-drkonqi) | 771 | 1984 | 38.9 | Low Saxon <kde-i18n-nds@kde.org> | 
+ | [kwin](/f37/package/kwin) | 2271 | 5855 | 38.8 | Low Saxon <kde-i18n-nds@kde.org> | 
+ | [konsole5](/f37/package/konsole5) | 1537 | 3983 | 38.6 | Low Saxon <kde-i18n-nds@kde.org> | 
+ | [plasma-nm](/f37/package/plasma-nm) | 1927 | 5020 | 38.4 | Low Saxon <kde-i18n-nds@kde.org> | 
+ | [caja](/f37/package/caja) | 3646 | 9675 | 37.7 | Low German (https://app.transifex.com/mate/teams/13566/nds/) | 
+ | [powerdevil](/f37/package/powerdevil) | 250 | 669 | 37.4 | Low Saxon <kde-i18n-doc@kde.org> | 
+ | [filelight](/f37/package/filelight) | 97 | 262 | 37.0 | Low Saxon <kde-i18n-doc@kde.org> | 
+ | [step](/f37/package/step) | 673 | 1897 | 35.5 | Low Saxon <kde-i18n-nds@kde.org> | 
+ | [kexi](/f37/package/kexi) | 2599 | 7365 | 35.3 | Low Saxon <kde-i18n-nds@kde.org> | 
+ | [pluma](/f37/package/pluma) | 4620 | 13113 | 35.2 | Low German (https://app.transifex.com/mate/teams/13566/nds/) | 
+ | [kompare](/f37/package/kompare) | 487 | 1413 | 34.5 | Low Saxon <kde-i18n-nds@kde.org> | 
+ | [baloo-widgets](/f37/package/baloo-widgets) | 23 | 67 | 34.3 | Low Saxon <kde-i18n-nds@kde.org> | 
+ | [epiphany](/f37/package/epiphany) | 1047 | 3053 | 34.3 | Low German <nds-lowgerman@lists.sourceforge.net> | 
+ | [gnome-session](/f37/package/gnome-session) | 209 | 638 | 32.8 | Low German <nds-lowgerman@lists.sourceforge.net> | 
+ | [cantor](/f37/package/cantor) | 1272 | 4035 | 31.5 | Low Saxon <kde-i18n-nds@kde.org> | 
+ | [kf5-pimcommon](/f37/package/kf5-pimcommon) | 253 | 810 | 31.2 | Low Saxon <kde-i18n-nds@kde.org> | 
+ | [gvfs](/f37/package/gvfs) | 594 | 1936 | 30.7 | Low German <nds-lowgerman@lists.sourceforge.net> | 
+ | [mate-panel](/f37/package/mate-panel) | 1987 | 6720 | 29.6 | Low German (https://app.transifex.com/mate/teams/13566/nds/) | 
+ | [imsettings](/f37/package/imsettings) | 143 | 490 | 29.2 | LANGUAGE <LL@li.org> | 
+ | [fuse-encfs](/f37/package/fuse-encfs) | 376 | 1289 | 29.2 | German, Low <nds@li.org> | 
+ | [pim-sieve-editor](/f37/package/pim-sieve-editor) | 127 | 437 | 29.1 | Low Saxon <kde-i18n-nds@kde.org> | 
+ | [nautilus](/f37/package/nautilus) | 2511 | 8681 | 28.9 | Low German <nds-lowgerman@lists.sourceforge.net> | 
+ | [kphotoalbum](/f37/package/kphotoalbum) | 2561 | 9013 | 28.4 | Low Saxon <kde-i18n-nds@kde.org> | 
+ | [kflickr](/f37/package/kflickr) | 94 | 332 | 28.3 | German, Low <nds@li.org> | 
+ | [xreader](/f37/package/xreader) | 457 | 1623 | 28.2 | Low German (http://www.transifex.com/mate/MATE/language/nds/) | 
+ | [gnome-desktop3](/f37/package/gnome-desktop3) | 816 | 2903 | 28.1 | Low German <nds-lowgerman@lists.sourceforge.net> | 
+ | [kstars](/f37/package/kstars) | 14990 | 53653 | 27.9 | Low Saxon <kde-i18n-nds@kde.org> | 
+ | [system-config-language](/f37/package/system-config-language) | 60 | 215 | 27.9 | Low German | 
+ | [cinnamon-translations](/f37/package/cinnamon-translations) | 1477 | 5392 | 27.4 | Low German <nds-lowgerman@lists.sourceforge.net> | 
+ | [gnome-terminal](/f37/package/gnome-terminal) | 1064 | 3928 | 27.1 | Low German <nds-lowgerman@lists.sourceforge.net> | 
+ | [kf5-libkleo](/f37/package/kf5-libkleo) | 471 | 1750 | 26.9 | Low Saxon <kde-i18n-nds@kde.org> | 
+ | [kf5-kiconthemes](/f37/package/kf5-kiconthemes) | 11 | 41 | 26.8 | Low Saxon <kde-i18n-nds@kde.org> | 
+ | [file-roller](/f37/package/file-roller) | 352 | 1318 | 26.7 | Low German <nds-lowgerman@lists.sourceforge.net> | 
+ | [ark](/f37/package/ark) | 518 | 1947 | 26.6 | Low Saxon <kde-i18n-doc@kde.org> | 
+ | [kf5-kpimtextedit](/f37/package/kf5-kpimtextedit) | 101 | 406 | 24.9 | Low Saxon <kde-i18n-nds@kde.org> | 
+ | [gnome-do](/f37/package/gnome-do) | 151 | 612 | 24.7 | German, Low <nds@li.org> | 
+ | [brasero](/f37/package/brasero) | 1332 | 5402 | 24.7 | Low German <nds-lowgerman@lists.sourceforge.net> | 
+ | [rocs](/f37/package/rocs) | 356 | 1480 | 24.1 | Low Saxon <kde-i18n-nds@kde.org> | 
+ | [gthumb](/f37/package/gthumb) | 575 | 2479 | 23.2 | Low German <nds-lowgerman@lists.sourceforge.net> | 
+ | [audex](/f37/package/audex) | 733 | 3347 | 21.9 | Low Saxon <kde-i18n-nds@kde.org> | 
+ | [kdevelop](/f37/package/kdevelop) | 2623 | 12077 | 21.7 | Low Saxon <kde-i18n-nds@kde.org> | 
+ | [gtk2](/f37/package/gtk2) | 2958 | 13704 | 21.6 | German, Low <nds-lowgerman@lists.sourceforge.net> | 
+ | [mingw-gtk2](/f37/package/mingw-gtk2) | 2958 | 13704 | 21.6 | German, Low <nds-lowgerman@lists.sourceforge.net> | 
+ | [digikam](/f37/package/digikam) | 12616 | 59663 | 21.1 | Low Saxon <kde-i18n-nds@kde.org> | 
+ | [tracker](/f37/package/tracker) | 368 | 1747 | 21.1 | Low German <nds-lowgerman@lists.sourceforge.net> | 
+ | [tracker-miners](/f37/package/tracker-miners) | 368 | 1747 | 21.1 | Low German <nds-lowgerman@lists.sourceforge.net> | 
+ | [gtk3](/f37/package/gtk3) | 2467 | 11853 | 20.8 | German, Low <nds-lowgerman@lists.sourceforge.net> | 
+ | [mingw-gtk3](/f37/package/mingw-gtk3) | 2467 | 11853 | 20.8 | German, Low <nds-lowgerman@lists.sourceforge.net> | 
+ | [kronometer](/f37/package/kronometer) | 48 | 233 | 20.6 | Low Saxon <kde-i18n-nds@kde.org> | 
+ | [eog](/f37/package/eog) | 293 | 1513 | 19.4 | Low German <nds-lowgerman@lists.sourceforge.net> | 
+ | [gdk-pixbuf2](/f37/package/gdk-pixbuf2) | 257 | 1348 | 19.1 | German, Low <nds-lowgerman@lists.sourceforge.net> | 
+ | [mingw-gdk-pixbuf](/f37/package/mingw-gdk-pixbuf) | 257 | 1348 | 19.1 | German, Low <nds-lowgerman@lists.sourceforge.net> | 
+ | [engrampa](/f37/package/engrampa) | 386 | 2049 | 18.8 | Low German (https://app.transifex.com/mate/teams/13566/nds/) | 
+ | [homebank](/f37/package/homebank) | 547 | 2947 | 18.6 | German, Low <nds@li.org> | 
+ | [kf5-knewstuff](/f37/package/kf5-knewstuff) | 301 | 1631 | 18.5 | Low Saxon <kde-i18n-nds@kde.org> | 
+ | [kjots](/f37/package/kjots) | 114 | 651 | 17.5 | Low Saxon <kde-i18n-nds@kde.org> | 
+ | [kf5-kfilemetadata](/f37/package/kf5-kfilemetadata) | 52 | 299 | 17.4 | Low Saxon <kde-i18n-nds@kde.org> | 
+ | [gtranslator](/f37/package/gtranslator) | 274 | 1622 | 16.9 | Low German <nds-lowgerman@lists.sourceforge.net> | 
+ | [kscreenlocker](/f37/package/kscreenlocker) | 39 | 245 | 15.9 | Low Saxon <kde-i18n-nds@kde.org> | 
+ | [pitivi](/f37/package/pitivi) | 207 | 1313 | 15.8 | Low German <nds-lowgerman@lists.sourceforge.net> | 
+ | [cheese](/f37/package/cheese) | 104 | 660 | 15.8 | Low German <nds-lowgerman@lists.sourceforge.net> | 
+ | [eom](/f37/package/eom) | 278 | 1779 | 15.6 | Low German (https://app.transifex.com/mate/teams/13566/nds/) | 
+ | [skrooge](/f37/package/skrooge) | 1902 | 12181 | 15.6 | Low Saxon <kde-i18n-nds@kde.org> | 
+ | [baobab](/f37/package/baobab) | 84 | 540 | 15.6 | Low German <nds-lowgerman@lists.sourceforge.net> | 
+ | [passwd](/f37/package/passwd) | 51 | 336 | 15.2 | Low German <nds-lowgerman@lists.sourceforge.net> | 
+ | [libgnome](/f37/package/libgnome) | 267 | 1772 | 15.1 | Low German <nds-lowgerman@lists.sourceforge.net> | 
+ | [gnome-panel](/f37/package/gnome-panel) | 521 | 3520 | 14.8 | Low German <nds-lowgerman@lists.sourceforge.net> | 
+ | [kdeplasma-addons](/f37/package/kdeplasma-addons) | 190 | 1309 | 14.5 | Low Saxon <kde-i18n-nds@kde.org> | 
+ | [muffin](/f37/package/muffin) | 348 | 2437 | 14.3 | Low German <nds-lowgerman@lists.sourceforge.net> | 
+ | [mutter](/f37/package/mutter) | 348 | 2437 | 14.3 | Low German <nds-lowgerman@lists.sourceforge.net> | 
+ | [mate-terminal](/f37/package/mate-terminal) | 1180 | 8507 | 13.9 | Low German (https://www.transifex.com/mate/teams/13566/nds/) | 
+ | [gdm](/f37/package/gdm) | 87 | 650 | 13.4 | Low German <nds-lowgerman@lists.sourceforge.net> | 
+ | [atril](/f37/package/atril) | 587 | 4391 | 13.4 | Low German (https://www.transifex.com/mate/teams/13566/nds/) | 
+ | [kamoso](/f37/package/kamoso) | 19 | 145 | 13.1 | Low Saxon <kde-i18n-nds@kde.org> | 
+ | [mate-control-center](/f37/package/mate-control-center) | 982 | 8253 | 11.9 | Low German (https://app.transifex.com/mate/teams/13566/nds/) | 
+ | [kf5-baloo](/f37/package/kf5-baloo) | 71 | 645 | 11.0 | Low Saxon <kde-i18n-nds@kde.org> | 
+ | [sos](/f37/package/sos) | 13 | 123 | 10.6 | Fedora Low German <nds-lowgerman@lists.sourceforge.net> | 
+ | [evolution](/f37/package/evolution) | 2292 | 21817 | 10.5 | Low German <nds-lowgerman@lists.sourceforge.net> | 
+ | [gnome-system-monitor](/f37/package/gnome-system-monitor) | 97 | 933 | 10.4 | Low German <nds-lowgerman@lists.sourceforge.net> | 
+ | [gnome-search-tool](/f37/package/gnome-search-tool) | 127 | 1359 | 9.3 | Low German <nds-lowgerman@lists.sourceforge.net> | 
+ | [gedit](/f37/package/gedit) | 438 | 4953 | 8.8 | Low German <nds-lowgerman@lists.sourceforge.net> | 
+ | [gnome-screenshot](/f37/package/gnome-screenshot) | 28 | 319 | 8.8 | Low German <nds-lowgerman@lists.sourceforge.net> | 
+ | [gnome-dictionary](/f37/package/gnome-dictionary) | 70 | 833 | 8.4 | Low German <nds-lowgerman@lists.sourceforge.net> | 
+ | [krita](/f37/package/krita) | 2751 | 35035 | 7.9 | Low Saxon <kde-i18n-nds@kde.org> | 
+ | [gnome-settings-daemon](/f37/package/gnome-settings-daemon) | 123 | 1624 | 7.6 | Low German <nds-lowgerman@lists.sourceforge.net> | 
+ | [bleachbit](/f37/package/bleachbit) | 93 | 1260 | 7.4 | Low German <nds@li.org> | 
+ | [kf5-kcodecs](/f37/package/kf5-kcodecs) | 27 | 370 | 7.3 | Low Saxon <kde-i18n-nds@kde.org> | 
+ | [mate-system-monitor](/f37/package/mate-system-monitor) | 351 | 4847 | 7.2 | Low German (https://www.transifex.com/mate/teams/13566/nds/) | 
+ | [marble](/f37/package/marble) | 812 | 11477 | 7.1 | Low Saxon <kde-i18n-nds@kde.org> | 
+ | [xed](/f37/package/xed) | 261 | 3759 | 6.9 | Low German (http://www.transifex.com/projects/p/MATE/language/nds/) | 
+ | [metacity](/f37/package/metacity) | 235 | 3790 | 6.2 | Low German <nds-lowgerman@lists.sourceforge.net> | 
+ | [marco](/f37/package/marco) | 251 | 4303 | 5.8 | Low German (https://app.transifex.com/mate/teams/13566/nds/) | 
+ | [glib2](/f37/package/glib2) | 259 | 4777 | 5.4 | Low German <nds-lowgerman@lists.sourceforge.net> | 
+ | [mingw-glib2](/f37/package/mingw-glib2) | 259 | 4777 | 5.4 | Low German <nds-lowgerman@lists.sourceforge.net> | 
+ | [rhythmbox](/f37/package/rhythmbox) | 234 | 4645 | 5.0 | Low German <nds-lowgerman@lists.sourceforge.net> | 
+ | [gimp](/f37/package/gimp) | 664 | 13840 | 4.8 | Low German <nds-lowgerman@lists.sourceforge.net> | 
+ | [gnome-system-log](/f37/package/gnome-system-log) | 25 | 522 | 4.8 | Low German <nds-lowgerman@lists.sourceforge.net> | 
+ | [mate-settings-daemon](/f37/package/mate-settings-daemon) | 104 | 2207 | 4.7 | Low German (https://app.transifex.com/mate/teams/13566/nds/) | 
+ | [libmatekbd](/f37/package/libmatekbd) | 13 | 308 | 4.2 | Low German (https://app.transifex.com/mate/teams/13566/nds/) | 
+ | [mate-utils](/f37/package/mate-utils) | 417 | 10060 | 4.1 | Low German (https://app.transifex.com/mate/teams/13566/nds/) | 
+ | [mate-polkit](/f37/package/mate-polkit) | 5 | 123 | 4.1 | Low German (https://www.transifex.com/mate/teams/13566/nds/) | 
+ | [system-config-printer](/f37/package/system-config-printer) | 135 | 3514 | 3.8 | Low German (http://www.transifex.com/projects/p/system-config-printer/language/nds/) | 
+ | [gedit-plugins](/f37/package/gedit-plugins) | 41 | 1205 | 3.4 | Low German <nds-lowgerman@lists.sourceforge.net> | 
+ | [libmatemixer](/f37/package/libmatemixer) | 8 | 242 | 3.3 | Low German (https://app.transifex.com/mate/teams/13566/nds/) | 
+ | [calibre](/f37/package/calibre) | 4642 | 171272 | 2.7 | Low German (http://www.transifex.com/calibre/calibre/language/nds/) | 
+ | [light-locker](/f37/package/light-locker) | 7 | 260 | 2.7 | Low German (http://www.transifex.com/the_cavalry/light-locker/language/nds/) | 
+ | [setroubleshoot](/f37/package/setroubleshoot) | 17 | 640 | 2.7 | Low German (http://www.transifex.com/projects/p/fedora/language/nds/) | 
+ | [kpmcore](/f37/package/kpmcore) | 76 | 3233 | 2.4 | Low Saxon <kde-i18n-nds@kde.org> | 
+ | [libuser](/f37/package/libuser) | 27 | 1437 | 1.9 | Low German (http://www.transifex.com/projects/p/fedora/language/nds/) | 
+ | [mlocate](/f37/package/mlocate) | 10 | 581 | 1.7 | Low German <nds-lowgerman@lists.sourceforge.net> | 
+ | [pykickstart](/f37/package/pykickstart) | 27 | 1711 | 1.6 | Low German (http://www.transifex.com/projects/p/pykickstart/language/nds/) | 
+ | [trojita](/f37/package/trojita) | 138 | 9444 | 1.5 | Low Saxon <kde-i18n-doc@kde.org> | 
+ | [pluma-plugins](/f37/package/pluma-plugins) | 20 | 1398 | 1.4 | Low German (https://www.transifex.com/mate/teams/13566/nds/) | 
+ | [zanshin](/f37/package/zanshin) | 7 | 495 | 1.4 | Low Saxon <kde-i18n-nds@kde.org> | 
+ | [blueman](/f37/package/blueman) | 22 | 1863 | 1.2 | Low German (http://www.transifex.com/mate/MATE/language/nds/) | 
+ | [kf5-ksmtp](/f37/package/kf5-ksmtp) | 1 | 86 | 1.2 | Low Saxon <kde-i18n-nds@kde.org> | 
+ | [deluge](/f37/package/deluge) | 50 | 4340 | 1.2 | Low German <nds@li.org> | 
+ | [kdenlive](/f37/package/kdenlive) | 167 | 15417 | 1.1 | Low Saxon <kde-i18n-nds@kde.org> | 
+ | [plasma-discover](/f37/package/plasma-discover) | 29 | 2859 | 1.0 | Low Saxon <kde-i18n-nds@kde.org> | 
+ | [chkconfig](/f37/package/chkconfig) | 6 | 593 | 1.0 | German (Low) <https://translate.fedoraproject.org/projects/fedora-sysv/chkconfig/nds/> | 
+ | [python-meh](/f37/package/python-meh) | 1 | 109 | 0.9 | Low German (http://www.transifex.com/projects/p/python-meh/language/nds/) | 
+ | [mate-calc](/f37/package/mate-calc) | 29 | 3202 | 0.9 | Low German (https://www.transifex.com/mate/teams/13566/nds/) | 
+ | [mate-applets](/f37/package/mate-applets) | 125 | 15957 | 0.8 | Low German (https://www.transifex.com/mate/teams/13566/nds/) | 
+ | [policycoreutils](/f37/package/policycoreutils) | 73 | 10521 | 0.7 | Low German | 
+ | [caja-actions](/f37/package/caja-actions) | 110 | 18815 | 0.6 | Low German (https://www.transifex.com/mate/teams/13566/nds/) | 
+ | [mate-power-manager](/f37/package/mate-power-manager) | 28 | 5119 | 0.5 | Low German (https://app.transifex.com/mate/teams/13566/nds/) | 
+ | [rednotebook](/f37/package/rednotebook) | 5 | 1263 | 0.4 | Low German <nds@li.org> | 
+ | [mate-user-guide](/f37/package/mate-user-guide) | 108 | 42973 | 0.3 | Low German (https://app.transifex.com/mate/teams/13566/nds/) | 
+ | [mate-sensors-applet](/f37/package/mate-sensors-applet) | 4 | 2160 | 0.2 | Low German (https://www.transifex.com/mate/teams/13566/nds/) | 
+ | [libreport](/f37/package/libreport) | 9 | 4928 | 0.2 | Low German (http://www.transifex.com/projects/p/libreport/language/nds/) | 
+ | [stellarium](/f37/package/stellarium) | 267 | 151641 | 0.2 | Low German (https://www.transifex.com/stellarium/teams/80998/nds/) | 
+ | [initscripts](/f37/package/initscripts) | 1 | 1118 | 0.1 | Low German <nds-lowgerman@lists.sourceforge.net> | 
+ | [LabPlot](/f37/package/LabPlot) | 6 | 10997 | 0.1 | Low Saxon <kde-i18n-nds@kde.org> | 
+ | [abrt](/f37/package/abrt) | 1 | 3676 | 0.0 | Low German (http://www.transifex.com/projects/p/fedora-abrt/language/nds/) | 
+ | [picard](/f37/package/picard) | 1 | 10039 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [analitza](/f37/package/analitza) | 0 | 992 | 0.0 | Low Saxon <kde-i18n-nds@kde.org> | 
+ | [android-tools](/f37/package/android-tools) | 0 | 7678 | 0.0 | Low German <nds-lowgerman@lists.sourceforge.net> | 
+ | [chromium](/f37/package/chromium) | 0 | 0 | 0.0 |  | 
+ | [fonts-tweak-tool](/f37/package/fonts-tweak-tool) | 0 | 195 | 0.0 | Low German | 
+ | [fragments](/f37/package/fragments) | 0 | 2006 | 0.0 | Low German (https://www.transifex.com/transmissionbt/teams/33778/nds/) | 
+ | [gnome-abrt](/f37/package/gnome-abrt) | 0 | 221 | 0.0 | none | 
+ | [gnome-font-viewer](/f37/package/gnome-font-viewer) | 0 | 32 | 0.0 | Low German <nds-lowgerman@lists.sourceforge.net> | 
+ | [initial-setup](/f37/package/initial-setup) | 0 | 33 | 0.0 | Low German | 
+ | [kdenetwork-filesharing](/f37/package/kdenetwork-filesharing) | 0 | 849 | 0.0 | Low Saxon <kde-i18n-nds@kde.org> | 
+ | [kf5-grantleetheme](/f37/package/kf5-grantleetheme) | 0 | 14 | 0.0 | Low Saxon <kde-i18n-nds@kde.org> | 
+ | [kf5-kholidays](/f37/package/kf5-kholidays) | 0 | 150 | 0.0 | Low Saxon <kde-i18n-nds@kde.org> | 
+ | [kf5-kitemviews](/f37/package/kf5-kitemviews) | 0 | 7 | 0.0 | Low Saxon <kde-i18n-nds@kde.org> | 
+ | [kf5-syntax-highlighting](/f37/package/kf5-syntax-highlighting) | 0 | 645 | 0.0 | Low Saxon <kde-i18n-nds@kde.org> | 
+ | [kreport](/f37/package/kreport) | 0 | 455 | 0.0 | Low Saxon <kde-i18n-nds@kde.org> | 
+ | [libkgapi](/f37/package/libkgapi) | 0 | 378 | 0.0 | Low Saxon <kde-i18n-nds@kde.org> | 
+ | [libvirt-sandbox](/f37/package/libvirt-sandbox) | 0 | 617 | 0.0 | Low German <nds-lowgerman@lists.sourceforge.net> | 
+ | [phonon-backend-gstreamer](/f37/package/phonon-backend-gstreamer) | 0 | 104 | 0.0 | Low Saxon <kde-i18n-nds@kde.org> | 
+ | [plasma-mediacenter](/f37/package/plasma-mediacenter) | 0 | 83 | 0.0 | Low Saxon <kde-i18n-nds@kde.org> | 
+ | [plasma-milou](/f37/package/plasma-milou) | 0 | 10 | 0.0 | Low Saxon <kde-i18n-nds@kde.org> | 
+ | [python-fedora](/f37/package/python-fedora) | 0 | 214 | 0.0 | Low German | 
+ | [retrace-server](/f37/package/retrace-server) | 0 | 433 | 0.0 | none | 
+ | [setroubleshoot-plugins](/f37/package/setroubleshoot-plugins) | 0 | 6246 | 0.0 | none | 
+ | [umbrello](/f37/package/umbrello) | 0 | 0 | 0.0 |  | 
 {.sortable}
 
 

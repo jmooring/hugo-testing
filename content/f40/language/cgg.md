@@ -38,7 +38,7 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [vlc]({{< ref "/f40/package/vlc.md" >}}) | 1398 | 34779 | 4.0 | Chiga (https://app.transifex.com/yaron/teams/16553/cgg/) | 
+ | [vlc](/f40/package/vlc) | 1398 | 34779 | 4.0 | Chiga (https://app.transifex.com/yaron/teams/16553/cgg/) | 
 {.sortable}
 
 

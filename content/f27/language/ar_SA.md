@@ -38,13 +38,13 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [poedit]({{< ref "/f27/package/poedit.md" >}}) | 2618 | 2639 | 99.2 | Arabic | 
- | [python-flask-admin]({{< ref "/f27/package/python-flask-admin.md" >}}) | 321 | 361 | 88.9 | Arabic | 
- | [childsplay]({{< ref "/f27/package/childsplay.md" >}}) | 1065 | 1226 | 86.9 | Arabic <> | 
- | [texi2html]({{< ref "/f27/package/texi2html.md" >}}) | 12 | 19 | 63.2 | Arabic <guido@imperia.net> | 
- | [texinfo]({{< ref "/f27/package/texinfo.md" >}}) | 12 | 19 | 63.2 | Arabic <guido@imperia.net> | 
- | [glpi]({{< ref "/f27/package/glpi.md" >}}) | 3837 | 11184 | 34.3 | Arabic (Saudi Arabia) (http://www.transifex.com/glpi/GLPI/language/ar_SA/) | 
- | [publican-fedora]({{< ref "/f27/package/publican-fedora.md" >}}) | 0 | 1 | 0.0 | None | 
+ | [poedit](/f27/package/poedit) | 2618 | 2639 | 99.2 | Arabic | 
+ | [python-flask-admin](/f27/package/python-flask-admin) | 321 | 361 | 88.9 | Arabic | 
+ | [childsplay](/f27/package/childsplay) | 1065 | 1226 | 86.9 | Arabic <> | 
+ | [texi2html](/f27/package/texi2html) | 12 | 19 | 63.2 | Arabic <guido@imperia.net> | 
+ | [texinfo](/f27/package/texinfo) | 12 | 19 | 63.2 | Arabic <guido@imperia.net> | 
+ | [glpi](/f27/package/glpi) | 3837 | 11184 | 34.3 | Arabic (Saudi Arabia) (http://www.transifex.com/glpi/GLPI/language/ar_SA/) | 
+ | [publican-fedora](/f27/package/publican-fedora) | 0 | 1 | 0.0 | None | 
 {.sortable}
 
 

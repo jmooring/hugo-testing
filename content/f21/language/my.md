@@ -39,105 +39,105 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [clementine]({{< ref "/f21/package/clementine.md" >}}) | 4861 | 4861 | 100.0 | Burmese (http://www.transifex.com/projects/p/clementine/language/my/) | 
- | [gnome-do]({{< ref "/f21/package/gnome-do.md" >}}) | 612 | 612 | 100.0 | Burmese <my@li.org> | 
- | [gnome-tweak-tool]({{< ref "/f21/package/gnome-tweak-tool.md" >}}) | 111 | 111 | 100.0 | MM L10N Team <mm.l10n.team@gmail.com> | 
- | [pidgin-otr]({{< ref "/f21/package/pidgin-otr.md" >}}) | 1064 | 1064 | 100.0 | MM L10N Team <mm.l10n.team@gmail.com> | 
- | [vidalia]({{< ref "/f21/package/vidalia.md" >}}) | 10313 | 10463 | 98.6 | translations@vidalia-project.net | 
- | [pidgin]({{< ref "/f21/package/pidgin.md" >}}) | 18127 | 18558 | 97.7 | Burmese (Myanmar) (http://www.transifex.com/projects/p/pidgin/language/my_MM/) | 
- | [empathy]({{< ref "/f21/package/empathy.md" >}}) | 3928 | 4088 | 96.1 | Burmese <LL@li.org> | 
- | [gtk2]({{< ref "/f21/package/gtk2.md" >}}) | 13010 | 13704 | 94.9 | Burmese <my@li.org> | 
- | [mingw-gtk2]({{< ref "/f21/package/mingw-gtk2.md" >}}) | 13010 | 13704 | 94.9 | Burmese <my@li.org> | 
- | [gimp]({{< ref "/f21/package/gimp.md" >}}) | 25600 | 27566 | 92.9 | Burmese <burmait@burmait.net> | 
- | [gtk3]({{< ref "/f21/package/gtk3.md" >}}) | 10766 | 11853 | 90.8 | Burmese <my@li.org> | 
- | [mingw-gtk3]({{< ref "/f21/package/mingw-gtk3.md" >}}) | 10766 | 11853 | 90.8 | Burmese <my@li.org> | 
- | [gdk-pixbuf2]({{< ref "/f21/package/gdk-pixbuf2.md" >}}) | 1192 | 1348 | 88.4 | Burmese <my@li.org> | 
- | [mingw-gdk-pixbuf]({{< ref "/f21/package/mingw-gdk-pixbuf.md" >}}) | 1192 | 1348 | 88.4 | Burmese <my@li.org> | 
- | [simple-scan]({{< ref "/f21/package/simple-scan.md" >}}) | 498 | 577 | 86.3 | Burmese <my@li.org> | 
- | [brasero]({{< ref "/f21/package/brasero.md" >}}) | 4765 | 5552 | 85.8 | Burmese <my-l10n-team@googlegroups.com> | 
- | [file-roller]({{< ref "/f21/package/file-roller.md" >}}) | 1035 | 1383 | 74.8 | Burmese <my-l10n-team@googlegroups.com> | 
- | [evince]({{< ref "/f21/package/evince.md" >}}) | 1084 | 1493 | 72.6 | Burmese <my-l10n-team@googlegroups.com> | 
- | [gnome-online-accounts]({{< ref "/f21/package/gnome-online-accounts.md" >}}) | 329 | 465 | 70.8 | Burmese <LL@li.org> | 
- | [libreoffice]({{< ref "/f21/package/libreoffice.md" >}}) | 66566 | 98118 | 67.8 | LANGUAGE <LL@li.org> | 
- | [pogo]({{< ref "/f21/package/pogo.md" >}}) | 340 | 576 | 59.0 | Burmese <my@li.org> | 
- | [sahana]({{< ref "/f21/package/sahana.md" >}}) | 15009 | 29306 | 51.2 | NovaSteps L10N Team <ravi.chhabra@gmail.com> | 
- | [audacity]({{< ref "/f21/package/audacity.md" >}}) | 5501 | 12127 | 45.4 | Burmese <my@li.org> | 
- | [bleachbit]({{< ref "/f21/package/bleachbit.md" >}}) | 409 | 987 | 41.4 | Burmese <my@li.org> | 
- | [control-center]({{< ref "/f21/package/control-center.md" >}}) | 1049 | 3364 | 31.2 | Burmese <my-l10n-team@googlegroups.com> | 
- | [gnome-calculator]({{< ref "/f21/package/gnome-calculator.md" >}}) | 352 | 1141 | 30.9 | Burmese <LL@li.org> | 
- | [gedit]({{< ref "/f21/package/gedit.md" >}}) | 1513 | 5004 | 30.2 | Burmese <LL@li.org> | 
- | [mate-calc]({{< ref "/f21/package/mate-calc.md" >}}) | 278 | 1412 | 19.7 | LANGUAGE <LL@li.org> | 
- | [totem]({{< ref "/f21/package/totem.md" >}}) | 434 | 2567 | 16.9 | Burmese <my-l10n-team@googlegroups.com> | 
- | [python-django]({{< ref "/f21/package/python-django.md" >}}) | 470 | 3204 | 14.7 | Burmese (http://www.transifex.com/projects/p/django/language/my/) | 
- | [steadyflow]({{< ref "/f21/package/steadyflow.md" >}}) | 66 | 470 | 14.0 | Burmese <my@li.org> | 
- | [eog]({{< ref "/f21/package/eog.md" >}}) | 225 | 1625 | 13.8 | Burmese <my-l10n-team@googlegroups.com> | 
- | [gnome-screensaver]({{< ref "/f21/package/gnome-screensaver.md" >}}) | 113 | 989 | 11.4 | Burmese <my-l10n-team@googlegroups.com> | 
- | [nautilus]({{< ref "/f21/package/nautilus.md" >}}) | 797 | 8891 | 9.0 | Burmese <my-l10n-team@googlegroups.com> | 
- | [librfm]({{< ref "/f21/package/librfm.md" >}}) | 182 | 2397 | 7.6 | Burmese <my-l10n-team@googlegroups.com> | 
- | [nautilus-open-terminal]({{< ref "/f21/package/nautilus-open-terminal.md" >}}) | 8 | 166 | 4.8 | Burmese <my-l10n-team@googlegroups.com> | 
- | [widelands]({{< ref "/f21/package/widelands.md" >}}) | 27 | 598 | 4.5 | Burmese <my@li.org> | 
- | [isomaster]({{< ref "/f21/package/isomaster.md" >}}) | 25 | 674 | 3.7 | http://littlesvr.ca/ostd/ | 
- | [remmina]({{< ref "/f21/package/remmina.md" >}}) | 34 | 1175 | 2.9 | Burmese <my@li.org> | 
- | [cinnamon-translations]({{< ref "/f21/package/cinnamon-translations.md" >}}) | 339 | 13252 | 2.6 | Burmese <my@li.org> | 
- | [gnome-power-manager]({{< ref "/f21/package/gnome-power-manager.md" >}}) | 56 | 2852 | 2.0 | Burmese <my-l10n-team@googlegroups.com> | 
- | [mingw-libvirt]({{< ref "/f21/package/mingw-libvirt.md" >}}) | 932 | 50410 | 1.8 | Burmese (http://www.transifex.com/projects/p/fedora/language/my/) | 
- | [libvirt]({{< ref "/f21/package/libvirt.md" >}}) | 932 | 50429 | 1.8 | Burmese (http://www.transifex.com/projects/p/fedora/language/my/) | 
- | [rodent]({{< ref "/f21/package/rodent.md" >}}) | 128 | 9634 | 1.3 | Burmese <my-l10n-team@googlegroups.com> | 
- | [mintmenu]({{< ref "/f21/package/mintmenu.md" >}}) | 10 | 1079 | 0.9 | Burmese <my@li.org> | 
- | [deja-dup]({{< ref "/f21/package/deja-dup.md" >}}) | 23 | 3913 | 0.6 | Burmese <my@li.org> | 
- | [calibre]({{< ref "/f21/package/calibre.md" >}}) | 461 | 144413 | 0.3 | Burmese (http://www.transifex.com/projects/p/calibre/language/my/) | 
- | [transmission]({{< ref "/f21/package/transmission.md" >}}) | 1 | 1809 | 0.1 | Burmese <my@li.org> | 
- | [abrt]({{< ref "/f21/package/abrt.md" >}}) | 0 | 2722 | 0.0 | Burmese (http://www.transifex.com/projects/p/fedora/language/my/) | 
- | [authconfig]({{< ref "/f21/package/authconfig.md" >}}) | 0 | 1715 | 0.0 | Burmese (http://www.transifex.com/projects/p/fedora/language/my/) | 
- | [bzr]({{< ref "/f21/package/bzr.md" >}}) | 0 | 33099 | 0.0 | Burmese <my@li.org> | 
- | [certmonger]({{< ref "/f21/package/certmonger.md" >}}) | 0 | 1669 | 0.0 | Burmese (http://www.transifex.com/projects/p/certmonger/language/my/) | 
- | [chkconfig]({{< ref "/f21/package/chkconfig.md" >}}) | 0 | 487 | 0.0 | LANGUAGE <LL@li.org> | 
- | [im-chooser]({{< ref "/f21/package/im-chooser.md" >}}) | 0 | 237 | 0.0 | LANGUAGE <LL@li.org> | 
- | [imsettings]({{< ref "/f21/package/imsettings.md" >}}) | 0 | 440 | 0.0 | LANGUAGE <LL@li.org> | 
- | [initial-setup]({{< ref "/f21/package/initial-setup.md" >}}) | 0 | 85 | 0.0 | Burmese (http://www.transifex.com/projects/p/initial-setup/language/my/) | 
- | [initscripts]({{< ref "/f21/package/initscripts.md" >}}) | 0 | 1003 | 0.0 | <XX@li.org> | 
- | [kexec-tools]({{< ref "/f21/package/kexec-tools.md" >}}) | 0 | 83 | 0.0 | LANGUAGE <LL@li.org> | 
- | [libgxim]({{< ref "/f21/package/libgxim.md" >}}) | 0 | 124 | 0.0 | LANGUAGE <LL@li.org> | 
- | [libreport]({{< ref "/f21/package/libreport.md" >}}) | 0 | 3139 | 0.0 | Burmese (http://www.transifex.com/projects/p/fedora/language/my/) | 
- | [libvirt-glib]({{< ref "/f21/package/libvirt-glib.md" >}}) | 0 | 138 | 0.0 | Burmese (http://www.transifex.com/projects/p/libvirt-glib/language/my/) | 
- | [libvirt-sandbox]({{< ref "/f21/package/libvirt-sandbox.md" >}}) | 0 | 583 | 0.0 | Burmese (http://www.transifex.com/projects/p/fedora/language/my/) | 
- | [light-locker]({{< ref "/f21/package/light-locker.md" >}}) | 0 | 234 | 0.0 | Burmese (http://www.transifex.com/projects/p/light-locker/language/my/) | 
- | [lightdm]({{< ref "/f21/package/lightdm.md" >}}) | 0 | 79 | 0.0 | Burmese <my@li.org> | 
- | [liveusb-creator]({{< ref "/f21/package/liveusb-creator.md" >}}) | 0 | 480 | 0.0 | Burmese (http://www.transifex.com/projects/p/fedora/language/my/) | 
- | [mate-desktop]({{< ref "/f21/package/mate-desktop.md" >}}) | 0 | 2288 | 0.0 | Burmese (http://www.transifex.com/projects/p/MATE/language/my/) | 
- | [mingw-libvirt-glib]({{< ref "/f21/package/mingw-libvirt-glib.md" >}}) | 0 | 138 | 0.0 | Burmese (http://www.transifex.com/projects/p/libvirt-glib/language/my/) | 
- | [passwd]({{< ref "/f21/package/passwd.md" >}}) | 0 | 315 | 0.0 | LANGUAGE <LL@li.org> | 
- | [policycoreutils]({{< ref "/f21/package/policycoreutils.md" >}}) | 0 | 7678 | 0.0 | Burmese (http://www.transifex.com/projects/p/fedora/language/my/) | 
- | [pykickstart]({{< ref "/f21/package/pykickstart.md" >}}) | 0 | 448 | 0.0 | Burmese (http://www.transifex.com/projects/p/pykickstart/language/my/) | 
- | [python-meh]({{< ref "/f21/package/python-meh.md" >}}) | 0 | 109 | 0.0 | Burmese (http://www.transifex.com/projects/p/fedora/language/my/) | 
- | [redhat-menus]({{< ref "/f21/package/redhat-menus.md" >}}) | 0 | 261 | 0.0 | none | 
- | [rhn-client-tools]({{< ref "/f21/package/rhn-client-tools.md" >}}) | 0 | 4103 | 0.0 | LANGUAGE <LL@li.org> | 
- | [rhnsd]({{< ref "/f21/package/rhnsd.md" >}}) | 0 | 37 | 0.0 | LANGUAGE <LL@li.org> | 
- | [setroubleshoot]({{< ref "/f21/package/setroubleshoot.md" >}}) | 0 | 656 | 0.0 | Burmese (http://www.transifex.com/projects/p/fedora/language/my/) | 
- | [setroubleshoot-plugins]({{< ref "/f21/package/setroubleshoot-plugins.md" >}}) | 0 | 9830 | 0.0 | Burmese (http://www.transifex.com/projects/p/fedora/language/my/) | 
- | [setuptool]({{< ref "/f21/package/setuptool.md" >}}) | 0 | 55 | 0.0 | none | 
- | [sos]({{< ref "/f21/package/sos.md" >}}) | 0 | 267 | 0.0 | none | 
- | [switchdesk]({{< ref "/f21/package/switchdesk.md" >}}) | 0 | 137 | 0.0 | none | 
- | [system-config-bind]({{< ref "/f21/package/system-config-bind.md" >}}) | 0 | 9419 | 0.0 | none | 
- | [system-config-date]({{< ref "/f21/package/system-config-date.md" >}}) | 0 | 503 | 0.0 | LANGUAGE <LL@li.org> | 
- | [system-config-date-docs]({{< ref "/f21/package/system-config-date-docs.md" >}}) | 0 | 761 | 0.0 | LANGUAGE <LL@li.org> | 
- | [system-config-firewall]({{< ref "/f21/package/system-config-firewall.md" >}}) | 0 | 2814 | 0.0 | none | 
- | [system-config-httpd]({{< ref "/f21/package/system-config-httpd.md" >}}) | 0 | 858 | 0.0 | none | 
- | [system-config-kdump]({{< ref "/f21/package/system-config-kdump.md" >}}) | 0 | 877 | 0.0 | LANGUAGE <LL@li.org> | 
- | [system-config-keyboard]({{< ref "/f21/package/system-config-keyboard.md" >}}) | 0 | 187 | 0.0 | none | 
- | [system-config-kickstart]({{< ref "/f21/package/system-config-kickstart.md" >}}) | 0 | 1144 | 0.0 | Burmese (http://www.transifex.com/projects/p/system-config-kickstart/language/my/) | 
- | [system-config-network]({{< ref "/f21/package/system-config-network.md" >}}) | 0 | 3032 | 0.0 | none | 
- | [system-config-nfs]({{< ref "/f21/package/system-config-nfs.md" >}}) | 0 | 332 | 0.0 | none | 
- | [system-config-nfs-docs]({{< ref "/f21/package/system-config-nfs-docs.md" >}}) | 0 | 1192 | 0.0 | LANGUAGE <LL@li.org> | 
- | [system-config-rootpassword]({{< ref "/f21/package/system-config-rootpassword.md" >}}) | 0 | 116 | 0.0 | none | 
- | [system-config-samba]({{< ref "/f21/package/system-config-samba.md" >}}) | 0 | 571 | 0.0 | LANGUAGE <LL@li.org> | 
- | [system-config-samba-docs]({{< ref "/f21/package/system-config-samba-docs.md" >}}) | 0 | 1195 | 0.0 | LANGUAGE <LL@li.org> | 
- | [system-config-services]({{< ref "/f21/package/system-config-services.md" >}}) | 0 | 534 | 0.0 | LANGUAGE <LL@li.org> | 
- | [system-config-services-docs]({{< ref "/f21/package/system-config-services-docs.md" >}}) | 0 | 638 | 0.0 | LANGUAGE <LL@li.org> | 
- | [system-config-users-docs]({{< ref "/f21/package/system-config-users-docs.md" >}}) | 0 | 1061 | 0.0 | LANGUAGE <LL@li.org> | 
- | [system-switch-mail]({{< ref "/f21/package/system-switch-mail.md" >}}) | 0 | 134 | 0.0 | none | 
- | [virt-viewer]({{< ref "/f21/package/virt-viewer.md" >}}) | 0 | 692 | 0.0 | Burmese (http://www.transifex.com/projects/p/virt-viewer/language/my/) | 
- | [yum-rhn-plugin]({{< ref "/f21/package/yum-rhn-plugin.md" >}}) | 0 | 147 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [clementine](/f21/package/clementine) | 4861 | 4861 | 100.0 | Burmese (http://www.transifex.com/projects/p/clementine/language/my/) | 
+ | [gnome-do](/f21/package/gnome-do) | 612 | 612 | 100.0 | Burmese <my@li.org> | 
+ | [gnome-tweak-tool](/f21/package/gnome-tweak-tool) | 111 | 111 | 100.0 | MM L10N Team <mm.l10n.team@gmail.com> | 
+ | [pidgin-otr](/f21/package/pidgin-otr) | 1064 | 1064 | 100.0 | MM L10N Team <mm.l10n.team@gmail.com> | 
+ | [vidalia](/f21/package/vidalia) | 10313 | 10463 | 98.6 | translations@vidalia-project.net | 
+ | [pidgin](/f21/package/pidgin) | 18127 | 18558 | 97.7 | Burmese (Myanmar) (http://www.transifex.com/projects/p/pidgin/language/my_MM/) | 
+ | [empathy](/f21/package/empathy) | 3928 | 4088 | 96.1 | Burmese <LL@li.org> | 
+ | [gtk2](/f21/package/gtk2) | 13010 | 13704 | 94.9 | Burmese <my@li.org> | 
+ | [mingw-gtk2](/f21/package/mingw-gtk2) | 13010 | 13704 | 94.9 | Burmese <my@li.org> | 
+ | [gimp](/f21/package/gimp) | 25600 | 27566 | 92.9 | Burmese <burmait@burmait.net> | 
+ | [gtk3](/f21/package/gtk3) | 10766 | 11853 | 90.8 | Burmese <my@li.org> | 
+ | [mingw-gtk3](/f21/package/mingw-gtk3) | 10766 | 11853 | 90.8 | Burmese <my@li.org> | 
+ | [gdk-pixbuf2](/f21/package/gdk-pixbuf2) | 1192 | 1348 | 88.4 | Burmese <my@li.org> | 
+ | [mingw-gdk-pixbuf](/f21/package/mingw-gdk-pixbuf) | 1192 | 1348 | 88.4 | Burmese <my@li.org> | 
+ | [simple-scan](/f21/package/simple-scan) | 498 | 577 | 86.3 | Burmese <my@li.org> | 
+ | [brasero](/f21/package/brasero) | 4765 | 5552 | 85.8 | Burmese <my-l10n-team@googlegroups.com> | 
+ | [file-roller](/f21/package/file-roller) | 1035 | 1383 | 74.8 | Burmese <my-l10n-team@googlegroups.com> | 
+ | [evince](/f21/package/evince) | 1084 | 1493 | 72.6 | Burmese <my-l10n-team@googlegroups.com> | 
+ | [gnome-online-accounts](/f21/package/gnome-online-accounts) | 329 | 465 | 70.8 | Burmese <LL@li.org> | 
+ | [libreoffice](/f21/package/libreoffice) | 66566 | 98118 | 67.8 | LANGUAGE <LL@li.org> | 
+ | [pogo](/f21/package/pogo) | 340 | 576 | 59.0 | Burmese <my@li.org> | 
+ | [sahana](/f21/package/sahana) | 15009 | 29306 | 51.2 | NovaSteps L10N Team <ravi.chhabra@gmail.com> | 
+ | [audacity](/f21/package/audacity) | 5501 | 12127 | 45.4 | Burmese <my@li.org> | 
+ | [bleachbit](/f21/package/bleachbit) | 409 | 987 | 41.4 | Burmese <my@li.org> | 
+ | [control-center](/f21/package/control-center) | 1049 | 3364 | 31.2 | Burmese <my-l10n-team@googlegroups.com> | 
+ | [gnome-calculator](/f21/package/gnome-calculator) | 352 | 1141 | 30.9 | Burmese <LL@li.org> | 
+ | [gedit](/f21/package/gedit) | 1513 | 5004 | 30.2 | Burmese <LL@li.org> | 
+ | [mate-calc](/f21/package/mate-calc) | 278 | 1412 | 19.7 | LANGUAGE <LL@li.org> | 
+ | [totem](/f21/package/totem) | 434 | 2567 | 16.9 | Burmese <my-l10n-team@googlegroups.com> | 
+ | [python-django](/f21/package/python-django) | 470 | 3204 | 14.7 | Burmese (http://www.transifex.com/projects/p/django/language/my/) | 
+ | [steadyflow](/f21/package/steadyflow) | 66 | 470 | 14.0 | Burmese <my@li.org> | 
+ | [eog](/f21/package/eog) | 225 | 1625 | 13.8 | Burmese <my-l10n-team@googlegroups.com> | 
+ | [gnome-screensaver](/f21/package/gnome-screensaver) | 113 | 989 | 11.4 | Burmese <my-l10n-team@googlegroups.com> | 
+ | [nautilus](/f21/package/nautilus) | 797 | 8891 | 9.0 | Burmese <my-l10n-team@googlegroups.com> | 
+ | [librfm](/f21/package/librfm) | 182 | 2397 | 7.6 | Burmese <my-l10n-team@googlegroups.com> | 
+ | [nautilus-open-terminal](/f21/package/nautilus-open-terminal) | 8 | 166 | 4.8 | Burmese <my-l10n-team@googlegroups.com> | 
+ | [widelands](/f21/package/widelands) | 27 | 598 | 4.5 | Burmese <my@li.org> | 
+ | [isomaster](/f21/package/isomaster) | 25 | 674 | 3.7 | http://littlesvr.ca/ostd/ | 
+ | [remmina](/f21/package/remmina) | 34 | 1175 | 2.9 | Burmese <my@li.org> | 
+ | [cinnamon-translations](/f21/package/cinnamon-translations) | 339 | 13252 | 2.6 | Burmese <my@li.org> | 
+ | [gnome-power-manager](/f21/package/gnome-power-manager) | 56 | 2852 | 2.0 | Burmese <my-l10n-team@googlegroups.com> | 
+ | [mingw-libvirt](/f21/package/mingw-libvirt) | 932 | 50410 | 1.8 | Burmese (http://www.transifex.com/projects/p/fedora/language/my/) | 
+ | [libvirt](/f21/package/libvirt) | 932 | 50429 | 1.8 | Burmese (http://www.transifex.com/projects/p/fedora/language/my/) | 
+ | [rodent](/f21/package/rodent) | 128 | 9634 | 1.3 | Burmese <my-l10n-team@googlegroups.com> | 
+ | [mintmenu](/f21/package/mintmenu) | 10 | 1079 | 0.9 | Burmese <my@li.org> | 
+ | [deja-dup](/f21/package/deja-dup) | 23 | 3913 | 0.6 | Burmese <my@li.org> | 
+ | [calibre](/f21/package/calibre) | 461 | 144413 | 0.3 | Burmese (http://www.transifex.com/projects/p/calibre/language/my/) | 
+ | [transmission](/f21/package/transmission) | 1 | 1809 | 0.1 | Burmese <my@li.org> | 
+ | [abrt](/f21/package/abrt) | 0 | 2722 | 0.0 | Burmese (http://www.transifex.com/projects/p/fedora/language/my/) | 
+ | [authconfig](/f21/package/authconfig) | 0 | 1715 | 0.0 | Burmese (http://www.transifex.com/projects/p/fedora/language/my/) | 
+ | [bzr](/f21/package/bzr) | 0 | 33099 | 0.0 | Burmese <my@li.org> | 
+ | [certmonger](/f21/package/certmonger) | 0 | 1669 | 0.0 | Burmese (http://www.transifex.com/projects/p/certmonger/language/my/) | 
+ | [chkconfig](/f21/package/chkconfig) | 0 | 487 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [im-chooser](/f21/package/im-chooser) | 0 | 237 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [imsettings](/f21/package/imsettings) | 0 | 440 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [initial-setup](/f21/package/initial-setup) | 0 | 85 | 0.0 | Burmese (http://www.transifex.com/projects/p/initial-setup/language/my/) | 
+ | [initscripts](/f21/package/initscripts) | 0 | 1003 | 0.0 | <XX@li.org> | 
+ | [kexec-tools](/f21/package/kexec-tools) | 0 | 83 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [libgxim](/f21/package/libgxim) | 0 | 124 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [libreport](/f21/package/libreport) | 0 | 3139 | 0.0 | Burmese (http://www.transifex.com/projects/p/fedora/language/my/) | 
+ | [libvirt-glib](/f21/package/libvirt-glib) | 0 | 138 | 0.0 | Burmese (http://www.transifex.com/projects/p/libvirt-glib/language/my/) | 
+ | [libvirt-sandbox](/f21/package/libvirt-sandbox) | 0 | 583 | 0.0 | Burmese (http://www.transifex.com/projects/p/fedora/language/my/) | 
+ | [light-locker](/f21/package/light-locker) | 0 | 234 | 0.0 | Burmese (http://www.transifex.com/projects/p/light-locker/language/my/) | 
+ | [lightdm](/f21/package/lightdm) | 0 | 79 | 0.0 | Burmese <my@li.org> | 
+ | [liveusb-creator](/f21/package/liveusb-creator) | 0 | 480 | 0.0 | Burmese (http://www.transifex.com/projects/p/fedora/language/my/) | 
+ | [mate-desktop](/f21/package/mate-desktop) | 0 | 2288 | 0.0 | Burmese (http://www.transifex.com/projects/p/MATE/language/my/) | 
+ | [mingw-libvirt-glib](/f21/package/mingw-libvirt-glib) | 0 | 138 | 0.0 | Burmese (http://www.transifex.com/projects/p/libvirt-glib/language/my/) | 
+ | [passwd](/f21/package/passwd) | 0 | 315 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [policycoreutils](/f21/package/policycoreutils) | 0 | 7678 | 0.0 | Burmese (http://www.transifex.com/projects/p/fedora/language/my/) | 
+ | [pykickstart](/f21/package/pykickstart) | 0 | 448 | 0.0 | Burmese (http://www.transifex.com/projects/p/pykickstart/language/my/) | 
+ | [python-meh](/f21/package/python-meh) | 0 | 109 | 0.0 | Burmese (http://www.transifex.com/projects/p/fedora/language/my/) | 
+ | [redhat-menus](/f21/package/redhat-menus) | 0 | 261 | 0.0 | none | 
+ | [rhn-client-tools](/f21/package/rhn-client-tools) | 0 | 4103 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [rhnsd](/f21/package/rhnsd) | 0 | 37 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [setroubleshoot](/f21/package/setroubleshoot) | 0 | 656 | 0.0 | Burmese (http://www.transifex.com/projects/p/fedora/language/my/) | 
+ | [setroubleshoot-plugins](/f21/package/setroubleshoot-plugins) | 0 | 9830 | 0.0 | Burmese (http://www.transifex.com/projects/p/fedora/language/my/) | 
+ | [setuptool](/f21/package/setuptool) | 0 | 55 | 0.0 | none | 
+ | [sos](/f21/package/sos) | 0 | 267 | 0.0 | none | 
+ | [switchdesk](/f21/package/switchdesk) | 0 | 137 | 0.0 | none | 
+ | [system-config-bind](/f21/package/system-config-bind) | 0 | 9419 | 0.0 | none | 
+ | [system-config-date](/f21/package/system-config-date) | 0 | 503 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [system-config-date-docs](/f21/package/system-config-date-docs) | 0 | 761 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [system-config-firewall](/f21/package/system-config-firewall) | 0 | 2814 | 0.0 | none | 
+ | [system-config-httpd](/f21/package/system-config-httpd) | 0 | 858 | 0.0 | none | 
+ | [system-config-kdump](/f21/package/system-config-kdump) | 0 | 877 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [system-config-keyboard](/f21/package/system-config-keyboard) | 0 | 187 | 0.0 | none | 
+ | [system-config-kickstart](/f21/package/system-config-kickstart) | 0 | 1144 | 0.0 | Burmese (http://www.transifex.com/projects/p/system-config-kickstart/language/my/) | 
+ | [system-config-network](/f21/package/system-config-network) | 0 | 3032 | 0.0 | none | 
+ | [system-config-nfs](/f21/package/system-config-nfs) | 0 | 332 | 0.0 | none | 
+ | [system-config-nfs-docs](/f21/package/system-config-nfs-docs) | 0 | 1192 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [system-config-rootpassword](/f21/package/system-config-rootpassword) | 0 | 116 | 0.0 | none | 
+ | [system-config-samba](/f21/package/system-config-samba) | 0 | 571 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [system-config-samba-docs](/f21/package/system-config-samba-docs) | 0 | 1195 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [system-config-services](/f21/package/system-config-services) | 0 | 534 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [system-config-services-docs](/f21/package/system-config-services-docs) | 0 | 638 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [system-config-users-docs](/f21/package/system-config-users-docs) | 0 | 1061 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [system-switch-mail](/f21/package/system-switch-mail) | 0 | 134 | 0.0 | none | 
+ | [virt-viewer](/f21/package/virt-viewer) | 0 | 692 | 0.0 | Burmese (http://www.transifex.com/projects/p/virt-viewer/language/my/) | 
+ | [yum-rhn-plugin](/f21/package/yum-rhn-plugin) | 0 | 147 | 0.0 | LANGUAGE <LL@li.org> | 
 {.sortable}
 
 

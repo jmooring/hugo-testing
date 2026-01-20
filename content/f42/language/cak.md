@@ -38,9 +38,9 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [python-sphinx]({{< ref "/f42/package/python-sphinx.md" >}}) | 85 | 5669 | 1.5 | Kaqchikel (http://app.transifex.com/sphinx-doc/sphinx-1/language/cak/) | 
- | [python-sphinxcontrib-htmlhelp]({{< ref "/f42/package/python-sphinxcontrib-htmlhelp.md" >}}) | 0 | 25 | 0.0 | Kaqchikel (https://www.transifex.com/sphinx-doc/teams/36659/cak/) | 
- | [python-sphinxcontrib-serializinghtml]({{< ref "/f42/package/python-sphinxcontrib-serializinghtml.md" >}}) | 0 | 18 | 0.0 | Kaqchikel (https://www.transifex.com/sphinx-doc/teams/36659/cak/) | 
+ | [python-sphinx](/f42/package/python-sphinx) | 85 | 5669 | 1.5 | Kaqchikel (http://app.transifex.com/sphinx-doc/sphinx-1/language/cak/) | 
+ | [python-sphinxcontrib-htmlhelp](/f42/package/python-sphinxcontrib-htmlhelp) | 0 | 25 | 0.0 | Kaqchikel (https://www.transifex.com/sphinx-doc/teams/36659/cak/) | 
+ | [python-sphinxcontrib-serializinghtml](/f42/package/python-sphinxcontrib-serializinghtml) | 0 | 18 | 0.0 | Kaqchikel (https://www.transifex.com/sphinx-doc/teams/36659/cak/) | 
 {.sortable}
 
 

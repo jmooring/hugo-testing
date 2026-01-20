@@ -18,8 +18,8 @@ The package tilibs (version 1.19):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f40/language/fr.md" >}}) | 2293 | 2293 | 100.0 | /mnt/stockage/packages/f40/tilibs/libticables/trunk/po/fr.po/mnt/stockage/packages/f40/tilibs/libticalcs/trunk/po/fr.po/mnt/stockage/packages/f40/tilibs/libtifiles/trunk/po/fr.po | 
- | [de]({{< ref "/f40/language/de.md" >}}) | 2283 | 2293 | 99.6 | /mnt/stockage/packages/f40/tilibs/libticables/trunk/po/de.po/mnt/stockage/packages/f40/tilibs/libticalcs/trunk/po/de.po/mnt/stockage/packages/f40/tilibs/libtifiles/trunk/po/de.po | 
+ | [fr](/f40/language/fr) | 2293 | 2293 | 100.0 | /mnt/stockage/packages/f40/tilibs/libticables/trunk/po/fr.po/mnt/stockage/packages/f40/tilibs/libticalcs/trunk/po/fr.po/mnt/stockage/packages/f40/tilibs/libtifiles/trunk/po/fr.po | 
+ | [de](/f40/language/de) | 2283 | 2293 | 99.6 | /mnt/stockage/packages/f40/tilibs/libticables/trunk/po/de.po/mnt/stockage/packages/f40/tilibs/libticalcs/trunk/po/de.po/mnt/stockage/packages/f40/tilibs/libtifiles/trunk/po/de.po | 
 {.sortable}
 
 

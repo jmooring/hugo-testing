@@ -18,18 +18,18 @@ The package cryptsetup (version 1.6.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f18/language/cs.md" >}}) | 2294 | 2300 | 99.7 | /mnt/stockage/packages/f18/cryptsetup/po/cs.po | 
- | [de]({{< ref "/f18/language/de.md" >}}) | 2294 | 2300 | 99.7 | /mnt/stockage/packages/f18/cryptsetup/po/de.po | 
- | [es]({{< ref "/f18/language/es.md" >}}) | 2294 | 2300 | 99.7 | /mnt/stockage/packages/f18/cryptsetup/po/es.po | 
- | [it]({{< ref "/f18/language/it.md" >}}) | 2294 | 2300 | 99.7 | /mnt/stockage/packages/f18/cryptsetup/po/it.po | 
- | [nl]({{< ref "/f18/language/nl.md" >}}) | 2294 | 2300 | 99.7 | /mnt/stockage/packages/f18/cryptsetup/po/nl.po | 
- | [pl]({{< ref "/f18/language/pl.md" >}}) | 2294 | 2300 | 99.7 | /mnt/stockage/packages/f18/cryptsetup/po/pl.po | 
- | [uk]({{< ref "/f18/language/uk.md" >}}) | 2294 | 2300 | 99.7 | /mnt/stockage/packages/f18/cryptsetup/po/uk.po | 
- | [vi]({{< ref "/f18/language/vi.md" >}}) | 2294 | 2300 | 99.7 | /mnt/stockage/packages/f18/cryptsetup/po/vi.po | 
- | [fi]({{< ref "/f18/language/fi.md" >}}) | 2264 | 2300 | 98.4 | /mnt/stockage/packages/f18/cryptsetup/po/fi.po | 
- | [fr]({{< ref "/f18/language/fr.md" >}}) | 2264 | 2300 | 98.4 | /mnt/stockage/packages/f18/cryptsetup/po/fr.po | 
- | [id]({{< ref "/f18/language/id.md" >}}) | 703 | 2300 | 30.6 | /mnt/stockage/packages/f18/cryptsetup/po/id.po | 
- | [sv]({{< ref "/f18/language/sv.md" >}}) | 703 | 2300 | 30.6 | /mnt/stockage/packages/f18/cryptsetup/po/sv.po | 
+ | [cs](/f18/language/cs) | 2294 | 2300 | 99.7 | /mnt/stockage/packages/f18/cryptsetup/po/cs.po | 
+ | [de](/f18/language/de) | 2294 | 2300 | 99.7 | /mnt/stockage/packages/f18/cryptsetup/po/de.po | 
+ | [es](/f18/language/es) | 2294 | 2300 | 99.7 | /mnt/stockage/packages/f18/cryptsetup/po/es.po | 
+ | [it](/f18/language/it) | 2294 | 2300 | 99.7 | /mnt/stockage/packages/f18/cryptsetup/po/it.po | 
+ | [nl](/f18/language/nl) | 2294 | 2300 | 99.7 | /mnt/stockage/packages/f18/cryptsetup/po/nl.po | 
+ | [pl](/f18/language/pl) | 2294 | 2300 | 99.7 | /mnt/stockage/packages/f18/cryptsetup/po/pl.po | 
+ | [uk](/f18/language/uk) | 2294 | 2300 | 99.7 | /mnt/stockage/packages/f18/cryptsetup/po/uk.po | 
+ | [vi](/f18/language/vi) | 2294 | 2300 | 99.7 | /mnt/stockage/packages/f18/cryptsetup/po/vi.po | 
+ | [fi](/f18/language/fi) | 2264 | 2300 | 98.4 | /mnt/stockage/packages/f18/cryptsetup/po/fi.po | 
+ | [fr](/f18/language/fr) | 2264 | 2300 | 98.4 | /mnt/stockage/packages/f18/cryptsetup/po/fr.po | 
+ | [id](/f18/language/id) | 703 | 2300 | 30.6 | /mnt/stockage/packages/f18/cryptsetup/po/id.po | 
+ | [sv](/f18/language/sv) | 703 | 2300 | 30.6 | /mnt/stockage/packages/f18/cryptsetup/po/sv.po | 
 {.sortable}
 
 

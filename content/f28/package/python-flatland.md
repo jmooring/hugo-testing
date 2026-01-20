@@ -18,9 +18,9 @@ The package python-flatland (version 0.0.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [es]({{< ref "/f28/language/es.md" >}}) | 210 | 210 | 100.0 | /mnt/stockage/packages/f28/python-flatland/flatland/i18n/es/LC_MESSAGES/flatland.po | 
- | [fr]({{< ref "/f28/language/fr.md" >}}) | 210 | 210 | 100.0 | /mnt/stockage/packages/f28/python-flatland/flatland/i18n/fr/LC_MESSAGES/flatland.po | 
- | [de]({{< ref "/f28/language/de.md" >}}) | 0 | 210 | 0.0 | /mnt/stockage/packages/f28/python-flatland/flatland/i18n/de/LC_MESSAGES/flatland.po | 
+ | [es](/f28/language/es) | 210 | 210 | 100.0 | /mnt/stockage/packages/f28/python-flatland/flatland/i18n/es/LC_MESSAGES/flatland.po | 
+ | [fr](/f28/language/fr) | 210 | 210 | 100.0 | /mnt/stockage/packages/f28/python-flatland/flatland/i18n/fr/LC_MESSAGES/flatland.po | 
+ | [de](/f28/language/de) | 0 | 210 | 0.0 | /mnt/stockage/packages/f28/python-flatland/flatland/i18n/de/LC_MESSAGES/flatland.po | 
 {.sortable}
 
 

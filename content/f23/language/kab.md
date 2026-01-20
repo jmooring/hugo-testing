@@ -38,12 +38,12 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [gdm]({{< ref "/f23/package/gdm.md" >}}) | 650 | 650 | 100.0 | GNOME Kabyle Team <yacine2953-tansa1@yahoo.fr> | 
- | [poedit]({{< ref "/f23/package/poedit.md" >}}) | 2516 | 2516 | 100.0 | Kabyle | 
- | [filezilla]({{< ref "/f23/package/filezilla.md" >}}) | 9713 | 9908 | 98.0 | Yacine Bouklif <yacine2953-asuqqel@yahoo.fr> | 
- | [mintmenu]({{< ref "/f23/package/mintmenu.md" >}}) | 17 | 1881 | 0.9 | Kabyle <kab@li.org> | 
- | [openerp]({{< ref "/f23/package/openerp.md" >}}) | 6 | 10716 | 0.1 | Kabyle <kab@li.org> | 
- | [openerp7]({{< ref "/f23/package/openerp7.md" >}}) | 5 | 10657 | 0.0 | Kabyle <kab@li.org> | 
+ | [gdm](/f23/package/gdm) | 650 | 650 | 100.0 | GNOME Kabyle Team <yacine2953-tansa1@yahoo.fr> | 
+ | [poedit](/f23/package/poedit) | 2516 | 2516 | 100.0 | Kabyle | 
+ | [filezilla](/f23/package/filezilla) | 9713 | 9908 | 98.0 | Yacine Bouklif <yacine2953-asuqqel@yahoo.fr> | 
+ | [mintmenu](/f23/package/mintmenu) | 17 | 1881 | 0.9 | Kabyle <kab@li.org> | 
+ | [openerp](/f23/package/openerp) | 6 | 10716 | 0.1 | Kabyle <kab@li.org> | 
+ | [openerp7](/f23/package/openerp7) | 5 | 10657 | 0.0 | Kabyle <kab@li.org> | 
 {.sortable}
 
 

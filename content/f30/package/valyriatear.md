@@ -18,16 +18,16 @@ The package valyriatear (version 1.0.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f30/language/fr.md" >}}) | 9867 | 9867 | 100.0 | /mnt/stockage/packages/f30/valyriatear/po/fr.po | 
- | [it]({{< ref "/f30/language/it.md" >}}) | 9867 | 9867 | 100.0 | /mnt/stockage/packages/f30/valyriatear/po/it.po | 
- | [nl]({{< ref "/f30/language/nl.md" >}}) | 9867 | 9867 | 100.0 | /mnt/stockage/packages/f30/valyriatear/po/nl_NL.po | 
- | [ru]({{< ref "/f30/language/ru.md" >}}) | 9867 | 9867 | 100.0 | /mnt/stockage/packages/f30/valyriatear/po/ru.po | 
- | [gl]({{< ref "/f30/language/gl.md" >}}) | 9755 | 9867 | 98.9 | /mnt/stockage/packages/f30/valyriatear/po/gl.po | 
- | [de]({{< ref "/f30/language/de.md" >}}) | 9594 | 9867 | 97.2 | /mnt/stockage/packages/f30/valyriatear/po/de.po | 
- | [es]({{< ref "/f30/language/es.md" >}}) | 5320 | 9163 | 58.1 | /mnt/stockage/packages/f30/valyriatear/po/es.po | 
- | [pt_BR]({{< ref "/f30/language/pt_BR.md" >}}) | 1244 | 4277 | 29.1 | /mnt/stockage/packages/f30/valyriatear/po/pt_BR.po | 
- | [en]({{< ref "/f30/language/en.md" >}}) | 514 | 9163 | 5.6 | /mnt/stockage/packages/f30/valyriatear/po/en@quot.po | 
- | [pt_PT]({{< ref "/f30/language/pt_PT.md" >}}) | 274 | 9163 | 3.0 | /mnt/stockage/packages/f30/valyriatear/po/pt_PT.po | 
+ | [fr](/f30/language/fr) | 9867 | 9867 | 100.0 | /mnt/stockage/packages/f30/valyriatear/po/fr.po | 
+ | [it](/f30/language/it) | 9867 | 9867 | 100.0 | /mnt/stockage/packages/f30/valyriatear/po/it.po | 
+ | [nl](/f30/language/nl) | 9867 | 9867 | 100.0 | /mnt/stockage/packages/f30/valyriatear/po/nl_NL.po | 
+ | [ru](/f30/language/ru) | 9867 | 9867 | 100.0 | /mnt/stockage/packages/f30/valyriatear/po/ru.po | 
+ | [gl](/f30/language/gl) | 9755 | 9867 | 98.9 | /mnt/stockage/packages/f30/valyriatear/po/gl.po | 
+ | [de](/f30/language/de) | 9594 | 9867 | 97.2 | /mnt/stockage/packages/f30/valyriatear/po/de.po | 
+ | [es](/f30/language/es) | 5320 | 9163 | 58.1 | /mnt/stockage/packages/f30/valyriatear/po/es.po | 
+ | [pt_BR](/f30/language/pt_BR) | 1244 | 4277 | 29.1 | /mnt/stockage/packages/f30/valyriatear/po/pt_BR.po | 
+ | [en](/f30/language/en) | 514 | 9163 | 5.6 | /mnt/stockage/packages/f30/valyriatear/po/en@quot.po | 
+ | [pt_PT](/f30/language/pt_PT) | 274 | 9163 | 3.0 | /mnt/stockage/packages/f30/valyriatear/po/pt_PT.po | 
 {.sortable}
 
 

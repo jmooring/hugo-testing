@@ -40,14 +40,14 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [lxmenu-data]({{< ref "/f17/package/lxmenu-data.md" >}}) | 53 | 97 | 54.6 |  | 
- | [gnome-menus]({{< ref "/f17/package/gnome-menus.md" >}}) | 71 | 133 | 53.4 |  | 
- | [mate-menus]({{< ref "/f17/package/mate-menus.md" >}}) | 71 | 133 | 53.4 |  | 
- | [stellarium]({{< ref "/f17/package/stellarium.md" >}}) | 20 | 9286 | 0.2 | Guarani <gn@li.org> | 
- | [sugar-fototoon]({{< ref "/f17/package/sugar-fototoon.md" >}}) | 0 | 47 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-fractionbounce]({{< ref "/f17/package/sugar-fractionbounce.md" >}}) | 0 | 68 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-labyrinth]({{< ref "/f17/package/sugar-labyrinth.md" >}}) | 0 | 281 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-ruler]({{< ref "/f17/package/sugar-ruler.md" >}}) | 0 | 15 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [lxmenu-data](/f17/package/lxmenu-data) | 53 | 97 | 54.6 |  | 
+ | [gnome-menus](/f17/package/gnome-menus) | 71 | 133 | 53.4 |  | 
+ | [mate-menus](/f17/package/mate-menus) | 71 | 133 | 53.4 |  | 
+ | [stellarium](/f17/package/stellarium) | 20 | 9286 | 0.2 | Guarani <gn@li.org> | 
+ | [sugar-fototoon](/f17/package/sugar-fototoon) | 0 | 47 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-fractionbounce](/f17/package/sugar-fractionbounce) | 0 | 68 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-labyrinth](/f17/package/sugar-labyrinth) | 0 | 281 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-ruler](/f17/package/sugar-ruler) | 0 | 15 | 0.0 | LANGUAGE <LL@li.org> | 
 {.sortable}
 
 

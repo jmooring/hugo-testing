@@ -18,10 +18,10 @@ The package wqy-zenhei-fonts (version 0.9.46):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [error]({{< ref "/f25/language/error.md" >}}) | 44 | 44 | 100.0 | /mnt/stockage/packages/f25/wqy-zenhei-fonts/i18n/zh_MO/wqy-zenhei.po | 
- | [zh_Hans]({{< ref "/f25/language/zh_Hans.md" >}}) | 88 | 88 | 100.0 | /mnt/stockage/packages/f25/wqy-zenhei-fonts/i18n/zh_CN/wqy-zenhei.po/mnt/stockage/packages/f25/wqy-zenhei-fonts/i18n/zh/wqy-zenhei.po | 
- | [zh_Hant]({{< ref "/f25/language/zh_Hant.md" >}}) | 44 | 44 | 100.0 | /mnt/stockage/packages/f25/wqy-zenhei-fonts/i18n/zh_TW/wqy-zenhei.po | 
- | [zh_Hant_HK]({{< ref "/f25/language/zh_Hant_HK.md" >}}) | 44 | 44 | 100.0 | /mnt/stockage/packages/f25/wqy-zenhei-fonts/i18n/zh_HK/wqy-zenhei.po | 
+ | [error](/f25/language/error) | 44 | 44 | 100.0 | /mnt/stockage/packages/f25/wqy-zenhei-fonts/i18n/zh_MO/wqy-zenhei.po | 
+ | [zh_Hans](/f25/language/zh_Hans) | 88 | 88 | 100.0 | /mnt/stockage/packages/f25/wqy-zenhei-fonts/i18n/zh_CN/wqy-zenhei.po/mnt/stockage/packages/f25/wqy-zenhei-fonts/i18n/zh/wqy-zenhei.po | 
+ | [zh_Hant](/f25/language/zh_Hant) | 44 | 44 | 100.0 | /mnt/stockage/packages/f25/wqy-zenhei-fonts/i18n/zh_TW/wqy-zenhei.po | 
+ | [zh_Hant_HK](/f25/language/zh_Hant_HK) | 44 | 44 | 100.0 | /mnt/stockage/packages/f25/wqy-zenhei-fonts/i18n/zh_HK/wqy-zenhei.po | 
 {.sortable}
 
 

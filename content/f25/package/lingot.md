@@ -18,16 +18,16 @@ The package lingot (version 0.9.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [gl]({{< ref "/f25/language/gl.md" >}}) | 1397 | 1397 | 100.0 | /mnt/stockage/packages/f25/lingot/po/gl.po | 
- | [es]({{< ref "/f25/language/es.md" >}}) | 1396 | 1397 | 99.9 | /mnt/stockage/packages/f25/lingot/po/es.po | 
- | [cs]({{< ref "/f25/language/cs.md" >}}) | 121 | 1397 | 8.7 | /mnt/stockage/packages/f25/lingot/po/cs.po | 
- | [it]({{< ref "/f25/language/it.md" >}}) | 112 | 1397 | 8.0 | /mnt/stockage/packages/f25/lingot/po/it.po | 
- | [sv]({{< ref "/f25/language/sv.md" >}}) | 112 | 1397 | 8.0 | /mnt/stockage/packages/f25/lingot/po/sv.po | 
- | [zh_Hans]({{< ref "/f25/language/zh_Hans.md" >}}) | 112 | 1397 | 8.0 | /mnt/stockage/packages/f25/lingot/po/zh_CN.po | 
- | [fr]({{< ref "/f25/language/fr.md" >}}) | 108 | 1397 | 7.7 | /mnt/stockage/packages/f25/lingot/po/fr.po | 
- | [pt_BR]({{< ref "/f25/language/pt_BR.md" >}}) | 108 | 1397 | 7.7 | /mnt/stockage/packages/f25/lingot/po/pt_BR.po | 
- | [ca]({{< ref "/f25/language/ca.md" >}}) | 66 | 1397 | 4.7 | /mnt/stockage/packages/f25/lingot/po/ca.po | 
- | [de]({{< ref "/f25/language/de.md" >}}) | 66 | 1397 | 4.7 | /mnt/stockage/packages/f25/lingot/po/de.po | 
+ | [gl](/f25/language/gl) | 1397 | 1397 | 100.0 | /mnt/stockage/packages/f25/lingot/po/gl.po | 
+ | [es](/f25/language/es) | 1396 | 1397 | 99.9 | /mnt/stockage/packages/f25/lingot/po/es.po | 
+ | [cs](/f25/language/cs) | 121 | 1397 | 8.7 | /mnt/stockage/packages/f25/lingot/po/cs.po | 
+ | [it](/f25/language/it) | 112 | 1397 | 8.0 | /mnt/stockage/packages/f25/lingot/po/it.po | 
+ | [sv](/f25/language/sv) | 112 | 1397 | 8.0 | /mnt/stockage/packages/f25/lingot/po/sv.po | 
+ | [zh_Hans](/f25/language/zh_Hans) | 112 | 1397 | 8.0 | /mnt/stockage/packages/f25/lingot/po/zh_CN.po | 
+ | [fr](/f25/language/fr) | 108 | 1397 | 7.7 | /mnt/stockage/packages/f25/lingot/po/fr.po | 
+ | [pt_BR](/f25/language/pt_BR) | 108 | 1397 | 7.7 | /mnt/stockage/packages/f25/lingot/po/pt_BR.po | 
+ | [ca](/f25/language/ca) | 66 | 1397 | 4.7 | /mnt/stockage/packages/f25/lingot/po/ca.po | 
+ | [de](/f25/language/de) | 66 | 1397 | 4.7 | /mnt/stockage/packages/f25/lingot/po/de.po | 
 {.sortable}
 
 

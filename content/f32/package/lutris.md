@@ -18,15 +18,15 @@ The package lutris (version 0.5.8.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f32/language/fr.md" >}}) | 190 | 190 | 100.0 | /mnt/stockage/packages/f32/lutris/po/fr.po | 
- | [hr]({{< ref "/f32/language/hr.md" >}}) | 5401 | 5401 | 100.0 | /mnt/stockage/packages/f32/lutris/po/hr.po | 
- | [ko]({{< ref "/f32/language/ko.md" >}}) | 190 | 190 | 100.0 | /mnt/stockage/packages/f32/lutris/po/ko.po | 
- | [nl]({{< ref "/f32/language/nl.md" >}}) | 5419 | 5419 | 100.0 | /mnt/stockage/packages/f32/lutris/po/nl.po | 
- | [pt_BR]({{< ref "/f32/language/pt_BR.md" >}}) | 190 | 190 | 100.0 | /mnt/stockage/packages/f32/lutris/po/pt_BR.po | 
- | [ru]({{< ref "/f32/language/ru.md" >}}) | 5545 | 5545 | 100.0 | /mnt/stockage/packages/f32/lutris/po/ru.po | 
- | [tr]({{< ref "/f32/language/tr.md" >}}) | 190 | 190 | 100.0 | /mnt/stockage/packages/f32/lutris/po/tr.po | 
- | [zh_Hans]({{< ref "/f32/language/zh_Hans.md" >}}) | 5424 | 5424 | 100.0 | /mnt/stockage/packages/f32/lutris/po/zh_CN.po | 
- | [de]({{< ref "/f32/language/de.md" >}}) | 5547 | 5550 | 99.9 | /mnt/stockage/packages/f32/lutris/po/de.po | 
+ | [fr](/f32/language/fr) | 190 | 190 | 100.0 | /mnt/stockage/packages/f32/lutris/po/fr.po | 
+ | [hr](/f32/language/hr) | 5401 | 5401 | 100.0 | /mnt/stockage/packages/f32/lutris/po/hr.po | 
+ | [ko](/f32/language/ko) | 190 | 190 | 100.0 | /mnt/stockage/packages/f32/lutris/po/ko.po | 
+ | [nl](/f32/language/nl) | 5419 | 5419 | 100.0 | /mnt/stockage/packages/f32/lutris/po/nl.po | 
+ | [pt_BR](/f32/language/pt_BR) | 190 | 190 | 100.0 | /mnt/stockage/packages/f32/lutris/po/pt_BR.po | 
+ | [ru](/f32/language/ru) | 5545 | 5545 | 100.0 | /mnt/stockage/packages/f32/lutris/po/ru.po | 
+ | [tr](/f32/language/tr) | 190 | 190 | 100.0 | /mnt/stockage/packages/f32/lutris/po/tr.po | 
+ | [zh_Hans](/f32/language/zh_Hans) | 5424 | 5424 | 100.0 | /mnt/stockage/packages/f32/lutris/po/zh_CN.po | 
+ | [de](/f32/language/de) | 5547 | 5550 | 99.9 | /mnt/stockage/packages/f32/lutris/po/de.po | 
 {.sortable}
 
 

@@ -40,10 +40,10 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [libreoffice]({{< ref "/f22/package/libreoffice.md" >}}) | 451866 | 541940 | 83.4 | LANGUAGE <LL@li.org> | 
- | [mintmenu]({{< ref "/f22/package/mintmenu.md" >}}) | 978 | 3163 | 30.9 | Oromo <om@li.org> | 
- | [cinnamon-translations]({{< ref "/f22/package/cinnamon-translations.md" >}}) | 1469 | 13252 | 11.1 | Oromo <om@li.org> | 
- | [mate-desktop]({{< ref "/f22/package/mate-desktop.md" >}}) | 0 | 2288 | 0.0 | Oromo (http://www.transifex.com/projects/p/MATE/language/om/) | 
+ | [libreoffice](/f22/package/libreoffice) | 451866 | 541940 | 83.4 | LANGUAGE <LL@li.org> | 
+ | [mintmenu](/f22/package/mintmenu) | 978 | 3163 | 30.9 | Oromo <om@li.org> | 
+ | [cinnamon-translations](/f22/package/cinnamon-translations) | 1469 | 13252 | 11.1 | Oromo <om@li.org> | 
+ | [mate-desktop](/f22/package/mate-desktop) | 0 | 2288 | 0.0 | Oromo (http://www.transifex.com/projects/p/MATE/language/om/) | 
 {.sortable}
 
 

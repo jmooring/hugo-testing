@@ -38,7 +38,7 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [exaile]({{< ref "/f10/package/exaile.md" >}}) | 23 | 2663 | 0.9 | Aragonese <an@li.org> | 
+ | [exaile](/f10/package/exaile) | 23 | 2663 | 0.9 | Aragonese <an@li.org> | 
 {.sortable}
 
 

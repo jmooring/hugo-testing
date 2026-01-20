@@ -38,11 +38,11 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [gallery2]({{< ref "/f15/package/gallery2.md" >}}) | 188 | 202 | 93.1 | Afrikaans <gallery-translations@lists.sourceforge.net> | 
- | [tuxpaint-stamps]({{< ref "/f15/package/tuxpaint-stamps.md" >}}) | 178 | 2711 | 6.6 |  | 
- | [tuxpaint]({{< ref "/f15/package/tuxpaint.md" >}}) | 51 | 1247 | 4.1 | <internationiall@hotmail.com> | 
- | [gambas]({{< ref "/f15/package/gambas.md" >}}) | 0 | 1891 | 0.0 | LANGUAGE <LL@li.org> | 
- | [openconnect]({{< ref "/f15/package/openconnect.md" >}}) | 0 | 1701 | 0.0 | Gaelic, Scottish (http://www.transifex.net/projects/p/meego/team/gd/) | 
+ | [gallery2](/f15/package/gallery2) | 188 | 202 | 93.1 | Afrikaans <gallery-translations@lists.sourceforge.net> | 
+ | [tuxpaint-stamps](/f15/package/tuxpaint-stamps) | 178 | 2711 | 6.6 |  | 
+ | [tuxpaint](/f15/package/tuxpaint) | 51 | 1247 | 4.1 | <internationiall@hotmail.com> | 
+ | [gambas](/f15/package/gambas) | 0 | 1891 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [openconnect](/f15/package/openconnect) | 0 | 1701 | 0.0 | Gaelic, Scottish (http://www.transifex.net/projects/p/meego/team/gd/) | 
 {.sortable}
 
 

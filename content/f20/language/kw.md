@@ -38,8 +38,8 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [warmux]({{< ref "/f20/package/warmux.md" >}}) | 1273 | 2744 | 46.4 | Treylyansow <treylyansow@kernewegva.com> | 
- | [vidalia]({{< ref "/f20/package/vidalia.md" >}}) | 0 | 10373 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [warmux](/f20/package/warmux) | 1273 | 2744 | 46.4 | Treylyansow <treylyansow@kernewegva.com> | 
+ | [vidalia](/f20/package/vidalia) | 0 | 10373 | 0.0 | LANGUAGE <LL@li.org> | 
 {.sortable}
 
 

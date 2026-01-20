@@ -18,26 +18,26 @@ The package cups (version 1.5.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [es]({{< ref "/f17/language/es.md" >}}) | 7244 | 7396 | 97.9 | /mnt/stockage/packages/f17/cups/locale/cups_es.po | 
- | [hu]({{< ref "/f17/language/hu.md" >}}) | 7244 | 7396 | 97.9 | /mnt/stockage/packages/f17/cups/locale/cups_hu.po | 
- | [fr]({{< ref "/f17/language/fr.md" >}}) | 1373 | 7406 | 18.5 | /mnt/stockage/packages/f17/cups/locale/cups_fr.po/mnt/stockage/packages/f17/cups/ppdc/foo-fr.po | 
- | [eu]({{< ref "/f17/language/eu.md" >}}) | 1366 | 7396 | 18.5 | /mnt/stockage/packages/f17/cups/locale/cups_eu.po | 
- | [it]({{< ref "/f17/language/it.md" >}}) | 1366 | 7396 | 18.5 | /mnt/stockage/packages/f17/cups/locale/cups_it.po | 
- | [ja]({{< ref "/f17/language/ja.md" >}}) | 1366 | 7396 | 18.5 | /mnt/stockage/packages/f17/cups/locale/cups_ja.po | 
- | [da]({{< ref "/f17/language/da.md" >}}) | 1363 | 7396 | 18.4 | /mnt/stockage/packages/f17/cups/locale/cups_da.po | 
- | [de]({{< ref "/f17/language/de.md" >}}) | 1363 | 7396 | 18.4 | /mnt/stockage/packages/f17/cups/locale/cups_de.po | 
- | [fi]({{< ref "/f17/language/fi.md" >}}) | 1363 | 7396 | 18.4 | /mnt/stockage/packages/f17/cups/locale/cups_fi.po | 
- | [ko]({{< ref "/f17/language/ko.md" >}}) | 1363 | 7396 | 18.4 | /mnt/stockage/packages/f17/cups/locale/cups_ko.po | 
- | [nb_NO]({{< ref "/f17/language/nb_NO.md" >}}) | 1363 | 7396 | 18.4 | /mnt/stockage/packages/f17/cups/locale/cups_no.po | 
- | [nl]({{< ref "/f17/language/nl.md" >}}) | 1363 | 7396 | 18.4 | /mnt/stockage/packages/f17/cups/locale/cups_nl.po | 
- | [pl]({{< ref "/f17/language/pl.md" >}}) | 1363 | 7396 | 18.4 | /mnt/stockage/packages/f17/cups/locale/cups_pl.po | 
- | [pt]({{< ref "/f17/language/pt.md" >}}) | 1363 | 7396 | 18.4 | /mnt/stockage/packages/f17/cups/locale/cups_pt.po | 
- | [pt_BR]({{< ref "/f17/language/pt_BR.md" >}}) | 1363 | 7396 | 18.4 | /mnt/stockage/packages/f17/cups/locale/cups_pt_BR.po | 
- | [ru]({{< ref "/f17/language/ru.md" >}}) | 1363 | 7396 | 18.4 | /mnt/stockage/packages/f17/cups/locale/cups_ru.po | 
- | [sv]({{< ref "/f17/language/sv.md" >}}) | 1363 | 7396 | 18.4 | /mnt/stockage/packages/f17/cups/locale/cups_sv.po | 
- | [zh_Hans]({{< ref "/f17/language/zh_Hans.md" >}}) | 1363 | 7396 | 18.4 | /mnt/stockage/packages/f17/cups/locale/cups_zh.po | 
- | [zh_Hant]({{< ref "/f17/language/zh_Hant.md" >}}) | 1362 | 7396 | 18.4 | /mnt/stockage/packages/f17/cups/locale/cups_zh_TW.po | 
- | [id]({{< ref "/f17/language/id.md" >}}) | 1314 | 7396 | 17.8 | /mnt/stockage/packages/f17/cups/locale/cups_id.po | 
+ | [es](/f17/language/es) | 7244 | 7396 | 97.9 | /mnt/stockage/packages/f17/cups/locale/cups_es.po | 
+ | [hu](/f17/language/hu) | 7244 | 7396 | 97.9 | /mnt/stockage/packages/f17/cups/locale/cups_hu.po | 
+ | [fr](/f17/language/fr) | 1373 | 7406 | 18.5 | /mnt/stockage/packages/f17/cups/locale/cups_fr.po/mnt/stockage/packages/f17/cups/ppdc/foo-fr.po | 
+ | [eu](/f17/language/eu) | 1366 | 7396 | 18.5 | /mnt/stockage/packages/f17/cups/locale/cups_eu.po | 
+ | [it](/f17/language/it) | 1366 | 7396 | 18.5 | /mnt/stockage/packages/f17/cups/locale/cups_it.po | 
+ | [ja](/f17/language/ja) | 1366 | 7396 | 18.5 | /mnt/stockage/packages/f17/cups/locale/cups_ja.po | 
+ | [da](/f17/language/da) | 1363 | 7396 | 18.4 | /mnt/stockage/packages/f17/cups/locale/cups_da.po | 
+ | [de](/f17/language/de) | 1363 | 7396 | 18.4 | /mnt/stockage/packages/f17/cups/locale/cups_de.po | 
+ | [fi](/f17/language/fi) | 1363 | 7396 | 18.4 | /mnt/stockage/packages/f17/cups/locale/cups_fi.po | 
+ | [ko](/f17/language/ko) | 1363 | 7396 | 18.4 | /mnt/stockage/packages/f17/cups/locale/cups_ko.po | 
+ | [nb_NO](/f17/language/nb_NO) | 1363 | 7396 | 18.4 | /mnt/stockage/packages/f17/cups/locale/cups_no.po | 
+ | [nl](/f17/language/nl) | 1363 | 7396 | 18.4 | /mnt/stockage/packages/f17/cups/locale/cups_nl.po | 
+ | [pl](/f17/language/pl) | 1363 | 7396 | 18.4 | /mnt/stockage/packages/f17/cups/locale/cups_pl.po | 
+ | [pt](/f17/language/pt) | 1363 | 7396 | 18.4 | /mnt/stockage/packages/f17/cups/locale/cups_pt.po | 
+ | [pt_BR](/f17/language/pt_BR) | 1363 | 7396 | 18.4 | /mnt/stockage/packages/f17/cups/locale/cups_pt_BR.po | 
+ | [ru](/f17/language/ru) | 1363 | 7396 | 18.4 | /mnt/stockage/packages/f17/cups/locale/cups_ru.po | 
+ | [sv](/f17/language/sv) | 1363 | 7396 | 18.4 | /mnt/stockage/packages/f17/cups/locale/cups_sv.po | 
+ | [zh_Hans](/f17/language/zh_Hans) | 1363 | 7396 | 18.4 | /mnt/stockage/packages/f17/cups/locale/cups_zh.po | 
+ | [zh_Hant](/f17/language/zh_Hant) | 1362 | 7396 | 18.4 | /mnt/stockage/packages/f17/cups/locale/cups_zh_TW.po | 
+ | [id](/f17/language/id) | 1314 | 7396 | 17.8 | /mnt/stockage/packages/f17/cups/locale/cups_id.po | 
 {.sortable}
 
 

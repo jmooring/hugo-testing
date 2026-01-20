@@ -18,30 +18,30 @@ The package aspell (version 0.60.6):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f10/language/cs.md" >}}) | 1726 | 1726 | 100.0 | /mnt/stockage/packages/f10/aspell/po/cs.po | 
- | [ga]({{< ref "/f10/language/ga.md" >}}) | 1726 | 1726 | 100.0 | /mnt/stockage/packages/f10/aspell/po/ga.po | 
- | [it]({{< ref "/f10/language/it.md" >}}) | 1726 | 1726 | 100.0 | /mnt/stockage/packages/f10/aspell/po/it.po | 
- | [nl]({{< ref "/f10/language/nl.md" >}}) | 1726 | 1726 | 100.0 | /mnt/stockage/packages/f10/aspell/po/nl.po | 
- | [ru]({{< ref "/f10/language/ru.md" >}}) | 1726 | 1726 | 100.0 | /mnt/stockage/packages/f10/aspell/po/ru.po | 
- | [sk]({{< ref "/f10/language/sk.md" >}}) | 1726 | 1726 | 100.0 | /mnt/stockage/packages/f10/aspell/po/sk.po | 
- | [uk]({{< ref "/f10/language/uk.md" >}}) | 1726 | 1726 | 100.0 | /mnt/stockage/packages/f10/aspell/po/uk.po | 
- | [vi]({{< ref "/f10/language/vi.md" >}}) | 1726 | 1726 | 100.0 | /mnt/stockage/packages/f10/aspell/po/vi.po | 
- | [fr]({{< ref "/f10/language/fr.md" >}}) | 1715 | 1726 | 99.4 | /mnt/stockage/packages/f10/aspell/po/fr.po | 
- | [ro]({{< ref "/f10/language/ro.md" >}}) | 1715 | 1726 | 99.4 | /mnt/stockage/packages/f10/aspell/po/ro.po | 
- | [sl]({{< ref "/f10/language/sl.md" >}}) | 1707 | 1726 | 98.9 | /mnt/stockage/packages/f10/aspell/po/sl.po | 
- | [ca]({{< ref "/f10/language/ca.md" >}}) | 1694 | 1726 | 98.1 | /mnt/stockage/packages/f10/aspell/po/ca.po | 
- | [de]({{< ref "/f10/language/de.md" >}}) | 1689 | 1726 | 97.9 | /mnt/stockage/packages/f10/aspell/po/de.po | 
- | [mn]({{< ref "/f10/language/mn.md" >}}) | 1595 | 1726 | 92.4 | /mnt/stockage/packages/f10/aspell/po/mn.po | 
- | [en_GB]({{< ref "/f10/language/en_GB.md" >}}) | 1561 | 1726 | 90.4 | /mnt/stockage/packages/f10/aspell/po/en_GB.po | 
- | [da]({{< ref "/f10/language/da.md" >}}) | 1030 | 1726 | 59.7 | /mnt/stockage/packages/f10/aspell/po/da.po | 
- | [wa]({{< ref "/f10/language/wa.md" >}}) | 982 | 1726 | 56.9 | /mnt/stockage/packages/f10/aspell/po/wa.po | 
- | [sv]({{< ref "/f10/language/sv.md" >}}) | 741 | 1726 | 42.9 | /mnt/stockage/packages/f10/aspell/po/sv.po | 
- | [tg]({{< ref "/f10/language/tg.md" >}}) | 600 | 1726 | 34.8 | /mnt/stockage/packages/f10/aspell/po/tg.po | 
- | [sr]({{< ref "/f10/language/sr.md" >}}) | 483 | 1726 | 28.0 | /mnt/stockage/packages/f10/aspell/po/sr.po | 
- | [pt_BR]({{< ref "/f10/language/pt_BR.md" >}}) | 429 | 1726 | 24.9 | /mnt/stockage/packages/f10/aspell/po/pt_BR.po | 
- | [be]({{< ref "/f10/language/be.md" >}}) | 409 | 1726 | 23.7 | /mnt/stockage/packages/f10/aspell/po/be.po | 
- | [es]({{< ref "/f10/language/es.md" >}}) | 322 | 1726 | 18.7 | /mnt/stockage/packages/f10/aspell/po/es.po | 
- | [rw]({{< ref "/f10/language/rw.md" >}}) | 20 | 1726 | 1.2 | /mnt/stockage/packages/f10/aspell/po/rw.po | 
+ | [cs](/f10/language/cs) | 1726 | 1726 | 100.0 | /mnt/stockage/packages/f10/aspell/po/cs.po | 
+ | [ga](/f10/language/ga) | 1726 | 1726 | 100.0 | /mnt/stockage/packages/f10/aspell/po/ga.po | 
+ | [it](/f10/language/it) | 1726 | 1726 | 100.0 | /mnt/stockage/packages/f10/aspell/po/it.po | 
+ | [nl](/f10/language/nl) | 1726 | 1726 | 100.0 | /mnt/stockage/packages/f10/aspell/po/nl.po | 
+ | [ru](/f10/language/ru) | 1726 | 1726 | 100.0 | /mnt/stockage/packages/f10/aspell/po/ru.po | 
+ | [sk](/f10/language/sk) | 1726 | 1726 | 100.0 | /mnt/stockage/packages/f10/aspell/po/sk.po | 
+ | [uk](/f10/language/uk) | 1726 | 1726 | 100.0 | /mnt/stockage/packages/f10/aspell/po/uk.po | 
+ | [vi](/f10/language/vi) | 1726 | 1726 | 100.0 | /mnt/stockage/packages/f10/aspell/po/vi.po | 
+ | [fr](/f10/language/fr) | 1715 | 1726 | 99.4 | /mnt/stockage/packages/f10/aspell/po/fr.po | 
+ | [ro](/f10/language/ro) | 1715 | 1726 | 99.4 | /mnt/stockage/packages/f10/aspell/po/ro.po | 
+ | [sl](/f10/language/sl) | 1707 | 1726 | 98.9 | /mnt/stockage/packages/f10/aspell/po/sl.po | 
+ | [ca](/f10/language/ca) | 1694 | 1726 | 98.1 | /mnt/stockage/packages/f10/aspell/po/ca.po | 
+ | [de](/f10/language/de) | 1689 | 1726 | 97.9 | /mnt/stockage/packages/f10/aspell/po/de.po | 
+ | [mn](/f10/language/mn) | 1595 | 1726 | 92.4 | /mnt/stockage/packages/f10/aspell/po/mn.po | 
+ | [en_GB](/f10/language/en_GB) | 1561 | 1726 | 90.4 | /mnt/stockage/packages/f10/aspell/po/en_GB.po | 
+ | [da](/f10/language/da) | 1030 | 1726 | 59.7 | /mnt/stockage/packages/f10/aspell/po/da.po | 
+ | [wa](/f10/language/wa) | 982 | 1726 | 56.9 | /mnt/stockage/packages/f10/aspell/po/wa.po | 
+ | [sv](/f10/language/sv) | 741 | 1726 | 42.9 | /mnt/stockage/packages/f10/aspell/po/sv.po | 
+ | [tg](/f10/language/tg) | 600 | 1726 | 34.8 | /mnt/stockage/packages/f10/aspell/po/tg.po | 
+ | [sr](/f10/language/sr) | 483 | 1726 | 28.0 | /mnt/stockage/packages/f10/aspell/po/sr.po | 
+ | [pt_BR](/f10/language/pt_BR) | 429 | 1726 | 24.9 | /mnt/stockage/packages/f10/aspell/po/pt_BR.po | 
+ | [be](/f10/language/be) | 409 | 1726 | 23.7 | /mnt/stockage/packages/f10/aspell/po/be.po | 
+ | [es](/f10/language/es) | 322 | 1726 | 18.7 | /mnt/stockage/packages/f10/aspell/po/es.po | 
+ | [rw](/f10/language/rw) | 20 | 1726 | 1.2 | /mnt/stockage/packages/f10/aspell/po/rw.po | 
 {.sortable}
 
 

@@ -18,15 +18,15 @@ The package ltsp (version 5.1.58):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [uk]({{< ref "/f10/language/uk.md" >}}) | 10 | 10 | 100.0 | /mnt/stockage/packages/f10/ltsp/server/configs/ALTLinux/po/ltsp-login.uk.po | 
- | [fr]({{< ref "/f10/language/fr.md" >}}) | 400 | 454 | 88.1 | /mnt/stockage/packages/f10/ltsp/po/fr.po | 
- | [ru]({{< ref "/f10/language/ru.md" >}}) | 282 | 464 | 60.8 | /mnt/stockage/packages/f10/ltsp/po/ru.po/mnt/stockage/packages/f10/ltsp/server/configs/ALTLinux/po/ltsp-login.ru.po | 
- | [ca]({{< ref "/f10/language/ca.md" >}}) | 272 | 454 | 59.9 | /mnt/stockage/packages/f10/ltsp/po/ca.po | 
- | [de]({{< ref "/f10/language/de.md" >}}) | 272 | 454 | 59.9 | /mnt/stockage/packages/f10/ltsp/po/de.po | 
- | [fi]({{< ref "/f10/language/fi.md" >}}) | 272 | 454 | 59.9 | /mnt/stockage/packages/f10/ltsp/po/fi.po | 
- | [vi]({{< ref "/f10/language/vi.md" >}}) | 272 | 454 | 59.9 | /mnt/stockage/packages/f10/ltsp/po/vi.po | 
- | [pt_BR]({{< ref "/f10/language/pt_BR.md" >}}) | 263 | 454 | 57.9 | /mnt/stockage/packages/f10/ltsp/po/pt_BR.po | 
- | [es]({{< ref "/f10/language/es.md" >}}) | 239 | 454 | 52.6 | /mnt/stockage/packages/f10/ltsp/po/es.po | 
+ | [uk](/f10/language/uk) | 10 | 10 | 100.0 | /mnt/stockage/packages/f10/ltsp/server/configs/ALTLinux/po/ltsp-login.uk.po | 
+ | [fr](/f10/language/fr) | 400 | 454 | 88.1 | /mnt/stockage/packages/f10/ltsp/po/fr.po | 
+ | [ru](/f10/language/ru) | 282 | 464 | 60.8 | /mnt/stockage/packages/f10/ltsp/po/ru.po/mnt/stockage/packages/f10/ltsp/server/configs/ALTLinux/po/ltsp-login.ru.po | 
+ | [ca](/f10/language/ca) | 272 | 454 | 59.9 | /mnt/stockage/packages/f10/ltsp/po/ca.po | 
+ | [de](/f10/language/de) | 272 | 454 | 59.9 | /mnt/stockage/packages/f10/ltsp/po/de.po | 
+ | [fi](/f10/language/fi) | 272 | 454 | 59.9 | /mnt/stockage/packages/f10/ltsp/po/fi.po | 
+ | [vi](/f10/language/vi) | 272 | 454 | 59.9 | /mnt/stockage/packages/f10/ltsp/po/vi.po | 
+ | [pt_BR](/f10/language/pt_BR) | 263 | 454 | 57.9 | /mnt/stockage/packages/f10/ltsp/po/pt_BR.po | 
+ | [es](/f10/language/es) | 239 | 454 | 52.6 | /mnt/stockage/packages/f10/ltsp/po/es.po | 
 {.sortable}
 
 

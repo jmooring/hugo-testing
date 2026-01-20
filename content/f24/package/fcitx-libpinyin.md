@@ -18,10 +18,10 @@ The package fcitx-libpinyin (version 0.3.91):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [zh_Hans]({{< ref "/f24/language/zh_Hans.md" >}}) | 246 | 246 | 100.0 | /mnt/stockage/packages/f24/fcitx-libpinyin/po/zh_CN.po | 
- | [de]({{< ref "/f24/language/de.md" >}}) | 241 | 246 | 98.0 | /mnt/stockage/packages/f24/fcitx-libpinyin/po/de.po | 
- | [ja]({{< ref "/f24/language/ja.md" >}}) | 211 | 246 | 85.8 | /mnt/stockage/packages/f24/fcitx-libpinyin/po/ja.po | 
- | [zh_Hant]({{< ref "/f24/language/zh_Hant.md" >}}) | 118 | 246 | 48.0 | /mnt/stockage/packages/f24/fcitx-libpinyin/po/zh_TW.po | 
+ | [zh_Hans](/f24/language/zh_Hans) | 246 | 246 | 100.0 | /mnt/stockage/packages/f24/fcitx-libpinyin/po/zh_CN.po | 
+ | [de](/f24/language/de) | 241 | 246 | 98.0 | /mnt/stockage/packages/f24/fcitx-libpinyin/po/de.po | 
+ | [ja](/f24/language/ja) | 211 | 246 | 85.8 | /mnt/stockage/packages/f24/fcitx-libpinyin/po/ja.po | 
+ | [zh_Hant](/f24/language/zh_Hant) | 118 | 246 | 48.0 | /mnt/stockage/packages/f24/fcitx-libpinyin/po/zh_TW.po | 
 {.sortable}
 
 

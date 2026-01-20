@@ -18,9 +18,9 @@ The package xfce4-genmon-plugin (version 3.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f8/language/cs.md" >}}) | 71 | 71 | 100.0 | /mnt/stockage/packages/f8/xfce4-genmon-plugin/po/cs.po | 
- | [fr]({{< ref "/f8/language/fr.md" >}}) | 71 | 71 | 100.0 | /mnt/stockage/packages/f8/xfce4-genmon-plugin/po/fr.po | 
- | [pl]({{< ref "/f8/language/pl.md" >}}) | 71 | 71 | 100.0 | /mnt/stockage/packages/f8/xfce4-genmon-plugin/po/pl.po | 
+ | [cs](/f8/language/cs) | 71 | 71 | 100.0 | /mnt/stockage/packages/f8/xfce4-genmon-plugin/po/cs.po | 
+ | [fr](/f8/language/fr) | 71 | 71 | 100.0 | /mnt/stockage/packages/f8/xfce4-genmon-plugin/po/fr.po | 
+ | [pl](/f8/language/pl) | 71 | 71 | 100.0 | /mnt/stockage/packages/f8/xfce4-genmon-plugin/po/pl.po | 
 {.sortable}
 
 

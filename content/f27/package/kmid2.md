@@ -18,27 +18,27 @@ The package kmid2 (version 2.4.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f27/language/ca.md" >}}) | 1022 | 1022 | 100.0 | /mnt/stockage/packages/f27/kmid2/po/ca.po | 
- | [da]({{< ref "/f27/language/da.md" >}}) | 1022 | 1022 | 100.0 | /mnt/stockage/packages/f27/kmid2/po/da.po | 
- | [fr]({{< ref "/f27/language/fr.md" >}}) | 1022 | 1022 | 100.0 | /mnt/stockage/packages/f27/kmid2/po/fr.po | 
- | [nl]({{< ref "/f27/language/nl.md" >}}) | 1022 | 1022 | 100.0 | /mnt/stockage/packages/f27/kmid2/po/nl.po | 
- | [pt]({{< ref "/f27/language/pt.md" >}}) | 1022 | 1022 | 100.0 | /mnt/stockage/packages/f27/kmid2/po/pt.po | 
- | [pt_BR]({{< ref "/f27/language/pt_BR.md" >}}) | 1022 | 1022 | 100.0 | /mnt/stockage/packages/f27/kmid2/po/pt_BR.po | 
- | [sv]({{< ref "/f27/language/sv.md" >}}) | 1022 | 1022 | 100.0 | /mnt/stockage/packages/f27/kmid2/po/sv.po | 
- | [uk]({{< ref "/f27/language/uk.md" >}}) | 1022 | 1022 | 100.0 | /mnt/stockage/packages/f27/kmid2/po/uk.po | 
- | [zh_Hans]({{< ref "/f27/language/zh_Hans.md" >}}) | 1022 | 1022 | 100.0 | /mnt/stockage/packages/f27/kmid2/po/zh_CN.po | 
- | [es]({{< ref "/f27/language/es.md" >}}) | 1019 | 1022 | 99.7 | /mnt/stockage/packages/f27/kmid2/po/es.po | 
- | [en_GB]({{< ref "/f27/language/en_GB.md" >}}) | 1018 | 1022 | 99.6 | /mnt/stockage/packages/f27/kmid2/po/en_GB.po | 
- | [de]({{< ref "/f27/language/de.md" >}}) | 956 | 1022 | 93.5 | /mnt/stockage/packages/f27/kmid2/po/de.po | 
- | [ca@valencia]({{< ref "/f27/language/ca@valencia.md" >}}) | 923 | 1022 | 90.3 | /mnt/stockage/packages/f27/kmid2/po/ca@valencia.po | 
- | [nb_NO]({{< ref "/f27/language/nb_NO.md" >}}) | 923 | 1022 | 90.3 | /mnt/stockage/packages/f27/kmid2/po/nb.po | 
- | [sr]({{< ref "/f27/language/sr.md" >}}) | 923 | 1022 | 90.3 | /mnt/stockage/packages/f27/kmid2/po/sr.po | 
- | [sr@ijekavian]({{< ref "/f27/language/sr@ijekavian.md" >}}) | 923 | 1022 | 90.3 | /mnt/stockage/packages/f27/kmid2/po/sr@ijekavian.po | 
- | [sr@ijekavian_Latn]({{< ref "/f27/language/sr@ijekavian_Latn.md" >}}) | 923 | 1022 | 90.3 | /mnt/stockage/packages/f27/kmid2/po/sr@ijekavianlatin.po | 
- | [sr_Latn]({{< ref "/f27/language/sr_Latn.md" >}}) | 923 | 1022 | 90.3 | /mnt/stockage/packages/f27/kmid2/po/sr@latin.po | 
- | [tr]({{< ref "/f27/language/tr.md" >}}) | 923 | 1022 | 90.3 | /mnt/stockage/packages/f27/kmid2/po/tr.po | 
- | [cs]({{< ref "/f27/language/cs.md" >}}) | 915 | 1022 | 89.5 | /mnt/stockage/packages/f27/kmid2/po/cs.po | 
- | [gl]({{< ref "/f27/language/gl.md" >}}) | 772 | 1022 | 75.5 | /mnt/stockage/packages/f27/kmid2/po/gl.po | 
+ | [ca](/f27/language/ca) | 1022 | 1022 | 100.0 | /mnt/stockage/packages/f27/kmid2/po/ca.po | 
+ | [da](/f27/language/da) | 1022 | 1022 | 100.0 | /mnt/stockage/packages/f27/kmid2/po/da.po | 
+ | [fr](/f27/language/fr) | 1022 | 1022 | 100.0 | /mnt/stockage/packages/f27/kmid2/po/fr.po | 
+ | [nl](/f27/language/nl) | 1022 | 1022 | 100.0 | /mnt/stockage/packages/f27/kmid2/po/nl.po | 
+ | [pt](/f27/language/pt) | 1022 | 1022 | 100.0 | /mnt/stockage/packages/f27/kmid2/po/pt.po | 
+ | [pt_BR](/f27/language/pt_BR) | 1022 | 1022 | 100.0 | /mnt/stockage/packages/f27/kmid2/po/pt_BR.po | 
+ | [sv](/f27/language/sv) | 1022 | 1022 | 100.0 | /mnt/stockage/packages/f27/kmid2/po/sv.po | 
+ | [uk](/f27/language/uk) | 1022 | 1022 | 100.0 | /mnt/stockage/packages/f27/kmid2/po/uk.po | 
+ | [zh_Hans](/f27/language/zh_Hans) | 1022 | 1022 | 100.0 | /mnt/stockage/packages/f27/kmid2/po/zh_CN.po | 
+ | [es](/f27/language/es) | 1019 | 1022 | 99.7 | /mnt/stockage/packages/f27/kmid2/po/es.po | 
+ | [en_GB](/f27/language/en_GB) | 1018 | 1022 | 99.6 | /mnt/stockage/packages/f27/kmid2/po/en_GB.po | 
+ | [de](/f27/language/de) | 956 | 1022 | 93.5 | /mnt/stockage/packages/f27/kmid2/po/de.po | 
+ | [ca@valencia](/f27/language/ca@valencia) | 923 | 1022 | 90.3 | /mnt/stockage/packages/f27/kmid2/po/ca@valencia.po | 
+ | [nb_NO](/f27/language/nb_NO) | 923 | 1022 | 90.3 | /mnt/stockage/packages/f27/kmid2/po/nb.po | 
+ | [sr](/f27/language/sr) | 923 | 1022 | 90.3 | /mnt/stockage/packages/f27/kmid2/po/sr.po | 
+ | [sr@ijekavian](/f27/language/sr@ijekavian) | 923 | 1022 | 90.3 | /mnt/stockage/packages/f27/kmid2/po/sr@ijekavian.po | 
+ | [sr@ijekavian_Latn](/f27/language/sr@ijekavian_Latn) | 923 | 1022 | 90.3 | /mnt/stockage/packages/f27/kmid2/po/sr@ijekavianlatin.po | 
+ | [sr_Latn](/f27/language/sr_Latn) | 923 | 1022 | 90.3 | /mnt/stockage/packages/f27/kmid2/po/sr@latin.po | 
+ | [tr](/f27/language/tr) | 923 | 1022 | 90.3 | /mnt/stockage/packages/f27/kmid2/po/tr.po | 
+ | [cs](/f27/language/cs) | 915 | 1022 | 89.5 | /mnt/stockage/packages/f27/kmid2/po/cs.po | 
+ | [gl](/f27/language/gl) | 772 | 1022 | 75.5 | /mnt/stockage/packages/f27/kmid2/po/gl.po | 
 {.sortable}
 
 

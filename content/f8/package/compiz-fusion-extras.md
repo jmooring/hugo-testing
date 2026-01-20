@@ -18,19 +18,19 @@ The package compiz-fusion-extras (version 0.6.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [el]({{< ref "/f8/language/el.md" >}}) | 1901 | 1974 | 96.3 | /mnt/stockage/packages/f8/compiz-fusion-extras/po/el.po | 
- | [gl]({{< ref "/f8/language/gl.md" >}}) | 1886 | 1974 | 95.5 | /mnt/stockage/packages/f8/compiz-fusion-extras/po/gl.po | 
- | [it]({{< ref "/f8/language/it.md" >}}) | 1886 | 1974 | 95.5 | /mnt/stockage/packages/f8/compiz-fusion-extras/po/it.po | 
- | [nb_NO]({{< ref "/f8/language/nb_NO.md" >}}) | 1886 | 1974 | 95.5 | /mnt/stockage/packages/f8/compiz-fusion-extras/po/nb.po | 
- | [pt]({{< ref "/f8/language/pt.md" >}}) | 1886 | 1974 | 95.5 | /mnt/stockage/packages/f8/compiz-fusion-extras/po/pt.po | 
- | [sv]({{< ref "/f8/language/sv.md" >}}) | 1668 | 1974 | 84.5 | /mnt/stockage/packages/f8/compiz-fusion-extras/po/sv.po | 
- | [de]({{< ref "/f8/language/de.md" >}}) | 1609 | 1974 | 81.5 | /mnt/stockage/packages/f8/compiz-fusion-extras/po/de.po | 
- | [fr]({{< ref "/f8/language/fr.md" >}}) | 1503 | 1974 | 76.1 | /mnt/stockage/packages/f8/compiz-fusion-extras/po/fr.po | 
- | [zh_Hans]({{< ref "/f8/language/zh_Hans.md" >}}) | 1454 | 1974 | 73.7 | /mnt/stockage/packages/f8/compiz-fusion-extras/po/zh_CN.po | 
- | [ja]({{< ref "/f8/language/ja.md" >}}) | 1258 | 1974 | 63.7 | /mnt/stockage/packages/f8/compiz-fusion-extras/po/ja.po | 
- | [ca]({{< ref "/f8/language/ca.md" >}}) | 1006 | 1974 | 51.0 | /mnt/stockage/packages/f8/compiz-fusion-extras/po/ca.po | 
- | [pl]({{< ref "/f8/language/pl.md" >}}) | 950 | 1974 | 48.1 | /mnt/stockage/packages/f8/compiz-fusion-extras/po/pl.po | 
- | [tr]({{< ref "/f8/language/tr.md" >}}) | 283 | 1974 | 14.3 | /mnt/stockage/packages/f8/compiz-fusion-extras/po/tr.po | 
+ | [el](/f8/language/el) | 1901 | 1974 | 96.3 | /mnt/stockage/packages/f8/compiz-fusion-extras/po/el.po | 
+ | [gl](/f8/language/gl) | 1886 | 1974 | 95.5 | /mnt/stockage/packages/f8/compiz-fusion-extras/po/gl.po | 
+ | [it](/f8/language/it) | 1886 | 1974 | 95.5 | /mnt/stockage/packages/f8/compiz-fusion-extras/po/it.po | 
+ | [nb_NO](/f8/language/nb_NO) | 1886 | 1974 | 95.5 | /mnt/stockage/packages/f8/compiz-fusion-extras/po/nb.po | 
+ | [pt](/f8/language/pt) | 1886 | 1974 | 95.5 | /mnt/stockage/packages/f8/compiz-fusion-extras/po/pt.po | 
+ | [sv](/f8/language/sv) | 1668 | 1974 | 84.5 | /mnt/stockage/packages/f8/compiz-fusion-extras/po/sv.po | 
+ | [de](/f8/language/de) | 1609 | 1974 | 81.5 | /mnt/stockage/packages/f8/compiz-fusion-extras/po/de.po | 
+ | [fr](/f8/language/fr) | 1503 | 1974 | 76.1 | /mnt/stockage/packages/f8/compiz-fusion-extras/po/fr.po | 
+ | [zh_Hans](/f8/language/zh_Hans) | 1454 | 1974 | 73.7 | /mnt/stockage/packages/f8/compiz-fusion-extras/po/zh_CN.po | 
+ | [ja](/f8/language/ja) | 1258 | 1974 | 63.7 | /mnt/stockage/packages/f8/compiz-fusion-extras/po/ja.po | 
+ | [ca](/f8/language/ca) | 1006 | 1974 | 51.0 | /mnt/stockage/packages/f8/compiz-fusion-extras/po/ca.po | 
+ | [pl](/f8/language/pl) | 950 | 1974 | 48.1 | /mnt/stockage/packages/f8/compiz-fusion-extras/po/pl.po | 
+ | [tr](/f8/language/tr) | 283 | 1974 | 14.3 | /mnt/stockage/packages/f8/compiz-fusion-extras/po/tr.po | 
 {.sortable}
 
 

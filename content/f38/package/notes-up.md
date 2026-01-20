@@ -18,17 +18,17 @@ The package notes-up (version 2.0.6):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f38/language/fr.md" >}}) | 772 | 836 | 92.3 | /mnt/stockage/packages/f38/notes-up/po/fr.po/mnt/stockage/packages/f38/notes-up/po/extra/fr.po | 
- | [nl]({{< ref "/f38/language/nl.md" >}}) | 269 | 297 | 90.6 | /mnt/stockage/packages/f38/notes-up/po/nl.po | 
- | [ru]({{< ref "/f38/language/ru.md" >}}) | 235 | 297 | 79.1 | /mnt/stockage/packages/f38/notes-up/po/ru.po | 
- | [pt_BR]({{< ref "/f38/language/pt_BR.md" >}}) | 196 | 297 | 66.0 | /mnt/stockage/packages/f38/notes-up/po/pt_BR.po | 
- | [cs]({{< ref "/f38/language/cs.md" >}}) | 193 | 297 | 65.0 | /mnt/stockage/packages/f38/notes-up/po/cs.po | 
- | [it]({{< ref "/f38/language/it.md" >}}) | 193 | 297 | 65.0 | /mnt/stockage/packages/f38/notes-up/po/it.po | 
- | [ja]({{< ref "/f38/language/ja.md" >}}) | 193 | 297 | 65.0 | /mnt/stockage/packages/f38/notes-up/po/ja.po | 
- | [de]({{< ref "/f38/language/de.md" >}}) | 186 | 297 | 62.6 | /mnt/stockage/packages/f38/notes-up/po/de.po | 
- | [lt]({{< ref "/f38/language/lt.md" >}}) | 185 | 297 | 62.3 | /mnt/stockage/packages/f38/notes-up/po/lt.po | 
- | [pt]({{< ref "/f38/language/pt.md" >}}) | 179 | 297 | 60.3 | /mnt/stockage/packages/f38/notes-up/po/pt.po | 
- | [es]({{< ref "/f38/language/es.md" >}}) | 178 | 297 | 59.9 | /mnt/stockage/packages/f38/notes-up/po/es.po | 
+ | [fr](/f38/language/fr) | 772 | 836 | 92.3 | /mnt/stockage/packages/f38/notes-up/po/fr.po/mnt/stockage/packages/f38/notes-up/po/extra/fr.po | 
+ | [nl](/f38/language/nl) | 269 | 297 | 90.6 | /mnt/stockage/packages/f38/notes-up/po/nl.po | 
+ | [ru](/f38/language/ru) | 235 | 297 | 79.1 | /mnt/stockage/packages/f38/notes-up/po/ru.po | 
+ | [pt_BR](/f38/language/pt_BR) | 196 | 297 | 66.0 | /mnt/stockage/packages/f38/notes-up/po/pt_BR.po | 
+ | [cs](/f38/language/cs) | 193 | 297 | 65.0 | /mnt/stockage/packages/f38/notes-up/po/cs.po | 
+ | [it](/f38/language/it) | 193 | 297 | 65.0 | /mnt/stockage/packages/f38/notes-up/po/it.po | 
+ | [ja](/f38/language/ja) | 193 | 297 | 65.0 | /mnt/stockage/packages/f38/notes-up/po/ja.po | 
+ | [de](/f38/language/de) | 186 | 297 | 62.6 | /mnt/stockage/packages/f38/notes-up/po/de.po | 
+ | [lt](/f38/language/lt) | 185 | 297 | 62.3 | /mnt/stockage/packages/f38/notes-up/po/lt.po | 
+ | [pt](/f38/language/pt) | 179 | 297 | 60.3 | /mnt/stockage/packages/f38/notes-up/po/pt.po | 
+ | [es](/f38/language/es) | 178 | 297 | 59.9 | /mnt/stockage/packages/f38/notes-up/po/es.po | 
 {.sortable}
 
 

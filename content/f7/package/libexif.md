@@ -18,14 +18,14 @@ The package libexif (version 0.6.15):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f7/language/de.md" >}}) | 4983 | 5395 | 92.4 | /mnt/stockage/packages/f7/libexif/po/de.po | 
- | [pl]({{< ref "/f7/language/pl.md" >}}) | 4746 | 5395 | 88.0 | /mnt/stockage/packages/f7/libexif/po/pl.po | 
- | [vi]({{< ref "/f7/language/vi.md" >}}) | 4744 | 5395 | 87.9 | /mnt/stockage/packages/f7/libexif/po/vi.po | 
- | [es]({{< ref "/f7/language/es.md" >}}) | 3411 | 5395 | 63.2 | /mnt/stockage/packages/f7/libexif/po/es.po | 
- | [ru]({{< ref "/f7/language/ru.md" >}}) | 2547 | 5395 | 47.2 | /mnt/stockage/packages/f7/libexif/po/ru.po | 
- | [cs]({{< ref "/f7/language/cs.md" >}}) | 2325 | 5395 | 43.1 | /mnt/stockage/packages/f7/libexif/po/cs.po | 
- | [sk]({{< ref "/f7/language/sk.md" >}}) | 1564 | 5395 | 29.0 | /mnt/stockage/packages/f7/libexif/po/sk.po | 
- | [fr]({{< ref "/f7/language/fr.md" >}}) | 1373 | 5395 | 25.4 | /mnt/stockage/packages/f7/libexif/po/fr.po | 
+ | [de](/f7/language/de) | 4983 | 5395 | 92.4 | /mnt/stockage/packages/f7/libexif/po/de.po | 
+ | [pl](/f7/language/pl) | 4746 | 5395 | 88.0 | /mnt/stockage/packages/f7/libexif/po/pl.po | 
+ | [vi](/f7/language/vi) | 4744 | 5395 | 87.9 | /mnt/stockage/packages/f7/libexif/po/vi.po | 
+ | [es](/f7/language/es) | 3411 | 5395 | 63.2 | /mnt/stockage/packages/f7/libexif/po/es.po | 
+ | [ru](/f7/language/ru) | 2547 | 5395 | 47.2 | /mnt/stockage/packages/f7/libexif/po/ru.po | 
+ | [cs](/f7/language/cs) | 2325 | 5395 | 43.1 | /mnt/stockage/packages/f7/libexif/po/cs.po | 
+ | [sk](/f7/language/sk) | 1564 | 5395 | 29.0 | /mnt/stockage/packages/f7/libexif/po/sk.po | 
+ | [fr](/f7/language/fr) | 1373 | 5395 | 25.4 | /mnt/stockage/packages/f7/libexif/po/fr.po | 
 {.sortable}
 
 

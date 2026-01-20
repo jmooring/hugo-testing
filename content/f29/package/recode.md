@@ -18,18 +18,18 @@ The package recode (version 3.6):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [da]({{< ref "/f29/language/da.md" >}}) | 672 | 829 | 81.1 | /mnt/stockage/packages/f29/recode/i18n/da.po | 
- | [de]({{< ref "/f29/language/de.md" >}}) | 672 | 829 | 81.1 | /mnt/stockage/packages/f29/recode/i18n/de.po | 
- | [es]({{< ref "/f29/language/es.md" >}}) | 672 | 829 | 81.1 | /mnt/stockage/packages/f29/recode/i18n/es.po | 
- | [fr]({{< ref "/f29/language/fr.md" >}}) | 672 | 829 | 81.1 | /mnt/stockage/packages/f29/recode/i18n/fr.po | 
- | [gl]({{< ref "/f29/language/gl.md" >}}) | 672 | 829 | 81.1 | /mnt/stockage/packages/f29/recode/i18n/gl.po | 
- | [it]({{< ref "/f29/language/it.md" >}}) | 672 | 829 | 81.1 | /mnt/stockage/packages/f29/recode/i18n/it.po | 
- | [pl]({{< ref "/f29/language/pl.md" >}}) | 672 | 829 | 81.1 | /mnt/stockage/packages/f29/recode/i18n/pl.po | 
- | [sl]({{< ref "/f29/language/sl.md" >}}) | 672 | 829 | 81.1 | /mnt/stockage/packages/f29/recode/i18n/sl.po | 
- | [sv]({{< ref "/f29/language/sv.md" >}}) | 672 | 829 | 81.1 | /mnt/stockage/packages/f29/recode/i18n/sv.po | 
- | [nl]({{< ref "/f29/language/nl.md" >}}) | 221 | 829 | 26.7 | /mnt/stockage/packages/f29/recode/i18n/nl.po | 
- | [pt]({{< ref "/f29/language/pt.md" >}}) | 221 | 829 | 26.7 | /mnt/stockage/packages/f29/recode/i18n/pt.po | 
- | [el]({{< ref "/f29/language/el.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f29/recode/i18n/el.po | 
+ | [da](/f29/language/da) | 672 | 829 | 81.1 | /mnt/stockage/packages/f29/recode/i18n/da.po | 
+ | [de](/f29/language/de) | 672 | 829 | 81.1 | /mnt/stockage/packages/f29/recode/i18n/de.po | 
+ | [es](/f29/language/es) | 672 | 829 | 81.1 | /mnt/stockage/packages/f29/recode/i18n/es.po | 
+ | [fr](/f29/language/fr) | 672 | 829 | 81.1 | /mnt/stockage/packages/f29/recode/i18n/fr.po | 
+ | [gl](/f29/language/gl) | 672 | 829 | 81.1 | /mnt/stockage/packages/f29/recode/i18n/gl.po | 
+ | [it](/f29/language/it) | 672 | 829 | 81.1 | /mnt/stockage/packages/f29/recode/i18n/it.po | 
+ | [pl](/f29/language/pl) | 672 | 829 | 81.1 | /mnt/stockage/packages/f29/recode/i18n/pl.po | 
+ | [sl](/f29/language/sl) | 672 | 829 | 81.1 | /mnt/stockage/packages/f29/recode/i18n/sl.po | 
+ | [sv](/f29/language/sv) | 672 | 829 | 81.1 | /mnt/stockage/packages/f29/recode/i18n/sv.po | 
+ | [nl](/f29/language/nl) | 221 | 829 | 26.7 | /mnt/stockage/packages/f29/recode/i18n/nl.po | 
+ | [pt](/f29/language/pt) | 221 | 829 | 26.7 | /mnt/stockage/packages/f29/recode/i18n/pt.po | 
+ | [el](/f29/language/el) | 0 | 0 | 0.0 | /mnt/stockage/packages/f29/recode/i18n/el.po | 
 {.sortable}
 
 

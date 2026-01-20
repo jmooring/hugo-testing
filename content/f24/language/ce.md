@@ -38,11 +38,11 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [stellarium]({{< ref "/f24/package/stellarium.md" >}}) | 1 | 23532 | 0.0 | Chechen <ce@li.org> | 
- | [deja-dup]({{< ref "/f24/package/deja-dup.md" >}}) | 0 | 2011 | 0.0 | Chechen <ce@li.org> | 
- | [onboard]({{< ref "/f24/package/onboard.md" >}}) | 0 | 2318 | 0.0 | Chechen <ce@li.org> | 
- | [simple-scan]({{< ref "/f24/package/simple-scan.md" >}}) | 0 | 739 | 0.0 | Chechen <ce@li.org> | 
- | [ufw]({{< ref "/f24/package/ufw.md" >}}) | 0 | 879 | 0.0 | Chechen <ce@li.org> | 
+ | [stellarium](/f24/package/stellarium) | 1 | 23532 | 0.0 | Chechen <ce@li.org> | 
+ | [deja-dup](/f24/package/deja-dup) | 0 | 2011 | 0.0 | Chechen <ce@li.org> | 
+ | [onboard](/f24/package/onboard) | 0 | 2318 | 0.0 | Chechen <ce@li.org> | 
+ | [simple-scan](/f24/package/simple-scan) | 0 | 739 | 0.0 | Chechen <ce@li.org> | 
+ | [ufw](/f24/package/ufw) | 0 | 879 | 0.0 | Chechen <ce@li.org> | 
 {.sortable}
 
 

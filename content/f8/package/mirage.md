@@ -18,12 +18,12 @@ The package mirage (version 0.8.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f8/language/de.md" >}}) | 686 | 686 | 100.0 | /mnt/stockage/packages/f8/mirage/locale/de/LC_MESSAGES/mirage.po | 
- | [es]({{< ref "/f8/language/es.md" >}}) | 686 | 686 | 100.0 | /mnt/stockage/packages/f8/mirage/locale/es/LC_MESSAGES/mirage.po | 
- | [fr]({{< ref "/f8/language/fr.md" >}}) | 686 | 686 | 100.0 | /mnt/stockage/packages/f8/mirage/locale/fr/LC_MESSAGES/mirage.po | 
- | [pl]({{< ref "/f8/language/pl.md" >}}) | 686 | 686 | 100.0 | /mnt/stockage/packages/f8/mirage/locale/pl/LC_MESSAGES/mirage.po | 
- | [it]({{< ref "/f8/language/it.md" >}}) | 684 | 686 | 99.7 | /mnt/stockage/packages/f8/mirage/locale/it/LC_MESSAGES/mirage.po | 
- | [ru]({{< ref "/f8/language/ru.md" >}}) | 259 | 686 | 37.8 | /mnt/stockage/packages/f8/mirage/locale/ru/LC_MESSAGES/mirage.po | 
+ | [de](/f8/language/de) | 686 | 686 | 100.0 | /mnt/stockage/packages/f8/mirage/locale/de/LC_MESSAGES/mirage.po | 
+ | [es](/f8/language/es) | 686 | 686 | 100.0 | /mnt/stockage/packages/f8/mirage/locale/es/LC_MESSAGES/mirage.po | 
+ | [fr](/f8/language/fr) | 686 | 686 | 100.0 | /mnt/stockage/packages/f8/mirage/locale/fr/LC_MESSAGES/mirage.po | 
+ | [pl](/f8/language/pl) | 686 | 686 | 100.0 | /mnt/stockage/packages/f8/mirage/locale/pl/LC_MESSAGES/mirage.po | 
+ | [it](/f8/language/it) | 684 | 686 | 99.7 | /mnt/stockage/packages/f8/mirage/locale/it/LC_MESSAGES/mirage.po | 
+ | [ru](/f8/language/ru) | 259 | 686 | 37.8 | /mnt/stockage/packages/f8/mirage/locale/ru/LC_MESSAGES/mirage.po | 
 {.sortable}
 
 

@@ -18,7 +18,7 @@ The package authd (version 1.4.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ja]({{< ref "/f13/language/ja.md" >}}) | 196 | 196 | 100.0 | /mnt/stockage/packages/f13/authd/ja.po | 
+ | [ja](/f13/language/ja) | 196 | 196 | 100.0 | /mnt/stockage/packages/f13/authd/ja.po | 
 {.sortable}
 
 

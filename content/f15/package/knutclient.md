@@ -18,13 +18,13 @@ The package knutclient (version 1.0.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f15/language/fr.md" >}}) | 640 | 640 | 100.0 | /mnt/stockage/packages/f15/knutclient/po/fr.po | 
- | [pl]({{< ref "/f15/language/pl.md" >}}) | 640 | 640 | 100.0 | /mnt/stockage/packages/f15/knutclient/po/pl.po | 
- | [es]({{< ref "/f15/language/es.md" >}}) | 584 | 640 | 91.2 | /mnt/stockage/packages/f15/knutclient/po/es.po | 
- | [de]({{< ref "/f15/language/de.md" >}}) | 573 | 640 | 89.5 | /mnt/stockage/packages/f15/knutclient/po/de.po | 
- | [ru]({{< ref "/f15/language/ru.md" >}}) | 552 | 640 | 86.2 | /mnt/stockage/packages/f15/knutclient/po/ru.po | 
- | [cs]({{< ref "/f15/language/cs.md" >}}) | 1646 | 1920 | 85.7 | /mnt/stockage/packages/f15/knutclient/po/cs.po/mnt/stockage/packages/f15/knutclient/po/pt_BR.po/mnt/stockage/packages/f15/knutclient/po/uk.po | 
- | [it]({{< ref "/f15/language/it.md" >}}) | 517 | 640 | 80.8 | /mnt/stockage/packages/f15/knutclient/po/it.po | 
+ | [fr](/f15/language/fr) | 640 | 640 | 100.0 | /mnt/stockage/packages/f15/knutclient/po/fr.po | 
+ | [pl](/f15/language/pl) | 640 | 640 | 100.0 | /mnt/stockage/packages/f15/knutclient/po/pl.po | 
+ | [es](/f15/language/es) | 584 | 640 | 91.2 | /mnt/stockage/packages/f15/knutclient/po/es.po | 
+ | [de](/f15/language/de) | 573 | 640 | 89.5 | /mnt/stockage/packages/f15/knutclient/po/de.po | 
+ | [ru](/f15/language/ru) | 552 | 640 | 86.2 | /mnt/stockage/packages/f15/knutclient/po/ru.po | 
+ | [cs](/f15/language/cs) | 1646 | 1920 | 85.7 | /mnt/stockage/packages/f15/knutclient/po/cs.po/mnt/stockage/packages/f15/knutclient/po/pt_BR.po/mnt/stockage/packages/f15/knutclient/po/uk.po | 
+ | [it](/f15/language/it) | 517 | 640 | 80.8 | /mnt/stockage/packages/f15/knutclient/po/it.po | 
 {.sortable}
 
 

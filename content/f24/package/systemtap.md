@@ -18,10 +18,10 @@ The package systemtap (version 3.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f24/language/cs.md" >}}) | 4450 | 8989 | 49.5 | /mnt/stockage/packages/f24/systemtap/po/cs.po | 
- | [fr]({{< ref "/f24/language/fr.md" >}}) | 793 | 8989 | 8.8 | /mnt/stockage/packages/f24/systemtap/po/fr.po | 
- | [en]({{< ref "/f24/language/en.md" >}}) | 157 | 8989 | 1.7 | /mnt/stockage/packages/f24/systemtap/po/en.po | 
- | [pl]({{< ref "/f24/language/pl.md" >}}) | 0 | 8989 | 0.0 | /mnt/stockage/packages/f24/systemtap/po/pl.po | 
+ | [cs](/f24/language/cs) | 4450 | 8989 | 49.5 | /mnt/stockage/packages/f24/systemtap/po/cs.po | 
+ | [fr](/f24/language/fr) | 793 | 8989 | 8.8 | /mnt/stockage/packages/f24/systemtap/po/fr.po | 
+ | [en](/f24/language/en) | 157 | 8989 | 1.7 | /mnt/stockage/packages/f24/systemtap/po/en.po | 
+ | [pl](/f24/language/pl) | 0 | 8989 | 0.0 | /mnt/stockage/packages/f24/systemtap/po/pl.po | 
 {.sortable}
 
 

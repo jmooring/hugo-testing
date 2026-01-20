@@ -38,9 +38,9 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [tuxpaint]({{< ref "/f32/package/tuxpaint.md" >}}) | 1137 | 1662 | 68.4 | Dogri | 
- | [inkscape]({{< ref "/f32/package/inkscape.md" >}}) | 18809 | 40929 | 46.0 | LANGUAGE <LL@li.org> | 
- | [gnucash]({{< ref "/f32/package/gnucash.md" >}}) | 15186 | 37229 | 40.8 | Dogri (doi) Chandrakant Dhutadmal <chandrakantd@cdac.in> | 
+ | [tuxpaint](/f32/package/tuxpaint) | 1137 | 1662 | 68.4 | Dogri | 
+ | [inkscape](/f32/package/inkscape) | 18809 | 40929 | 46.0 | LANGUAGE <LL@li.org> | 
+ | [gnucash](/f32/package/gnucash) | 15186 | 37229 | 40.8 | Dogri (doi) Chandrakant Dhutadmal <chandrakantd@cdac.in> | 
 {.sortable}
 
 

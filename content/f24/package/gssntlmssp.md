@@ -18,7 +18,7 @@ The package gssntlmssp (version 0.7.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [en_GB]({{< ref "/f24/language/en_GB.md" >}}) | 125 | 125 | 100.0 | /mnt/stockage/packages/f24/gssntlmssp/po/en_GB.po | 
+ | [en_GB](/f24/language/en_GB) | 125 | 125 | 100.0 | /mnt/stockage/packages/f24/gssntlmssp/po/en_GB.po | 
 {.sortable}
 
 

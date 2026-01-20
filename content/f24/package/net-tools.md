@@ -18,11 +18,11 @@ The package net-tools (version 2.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f24/language/cs.md" >}}) | 2928 | 2928 | 100.0 | /mnt/stockage/packages/f24/net-tools/po/cs.po | 
- | [pt_BR]({{< ref "/f24/language/pt_BR.md" >}}) | 2225 | 2225 | 100.0 | /mnt/stockage/packages/f24/net-tools/po/pt_BR.po | 
- | [et]({{< ref "/f24/language/et.md" >}}) | 2439 | 2449 | 99.6 | /mnt/stockage/packages/f24/net-tools/po/et_EE.po | 
- | [de]({{< ref "/f24/language/de.md" >}}) | 2168 | 2225 | 97.4 | /mnt/stockage/packages/f24/net-tools/po/de.po | 
- | [fr]({{< ref "/f24/language/fr.md" >}}) | 1859 | 2225 | 83.6 | /mnt/stockage/packages/f24/net-tools/po/fr.po | 
+ | [cs](/f24/language/cs) | 2928 | 2928 | 100.0 | /mnt/stockage/packages/f24/net-tools/po/cs.po | 
+ | [pt_BR](/f24/language/pt_BR) | 2225 | 2225 | 100.0 | /mnt/stockage/packages/f24/net-tools/po/pt_BR.po | 
+ | [et](/f24/language/et) | 2439 | 2449 | 99.6 | /mnt/stockage/packages/f24/net-tools/po/et_EE.po | 
+ | [de](/f24/language/de) | 2168 | 2225 | 97.4 | /mnt/stockage/packages/f24/net-tools/po/de.po | 
+ | [fr](/f24/language/fr) | 1859 | 2225 | 83.6 | /mnt/stockage/packages/f24/net-tools/po/fr.po | 
 {.sortable}
 
 

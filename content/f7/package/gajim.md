@@ -18,34 +18,34 @@ The package gajim (version 0.11.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [be]({{< ref "/f7/language/be.md" >}}) | 7553 | 7553 | 100.0 | /mnt/stockage/packages/f7/gajim/po/be.po | 
- | [be_Latn]({{< ref "/f7/language/be_Latn.md" >}}) | 7553 | 7553 | 100.0 | /mnt/stockage/packages/f7/gajim/po/be@latin.po | 
- | [bg]({{< ref "/f7/language/bg.md" >}}) | 7553 | 7553 | 100.0 | /mnt/stockage/packages/f7/gajim/po/bg.po | 
- | [da]({{< ref "/f7/language/da.md" >}}) | 7553 | 7553 | 100.0 | /mnt/stockage/packages/f7/gajim/po/da.po | 
- | [en_GB]({{< ref "/f7/language/en_GB.md" >}}) | 7553 | 7553 | 100.0 | /mnt/stockage/packages/f7/gajim/po/en_GB.po | 
- | [eo]({{< ref "/f7/language/eo.md" >}}) | 7553 | 7553 | 100.0 | /mnt/stockage/packages/f7/gajim/po/eo.po | 
- | [error]({{< ref "/f7/language/error.md" >}}) | 7553 | 7553 | 100.0 | /mnt/stockage/packages/f7/gajim/po/sr@Latn.po | 
- | [es]({{< ref "/f7/language/es.md" >}}) | 7553 | 7553 | 100.0 | /mnt/stockage/packages/f7/gajim/po/es.po | 
- | [fr]({{< ref "/f7/language/fr.md" >}}) | 7553 | 7553 | 100.0 | /mnt/stockage/packages/f7/gajim/po/fr.po | 
- | [gl]({{< ref "/f7/language/gl.md" >}}) | 7553 | 7553 | 100.0 | /mnt/stockage/packages/f7/gajim/po/gl.po | 
- | [hr]({{< ref "/f7/language/hr.md" >}}) | 7553 | 7553 | 100.0 | /mnt/stockage/packages/f7/gajim/po/hr.po | 
- | [it]({{< ref "/f7/language/it.md" >}}) | 7553 | 7553 | 100.0 | /mnt/stockage/packages/f7/gajim/po/it.po | 
- | [pl]({{< ref "/f7/language/pl.md" >}}) | 7553 | 7553 | 100.0 | /mnt/stockage/packages/f7/gajim/po/pl.po | 
- | [pt_BR]({{< ref "/f7/language/pt_BR.md" >}}) | 7553 | 7553 | 100.0 | /mnt/stockage/packages/f7/gajim/po/pt_BR.po | 
- | [sr]({{< ref "/f7/language/sr.md" >}}) | 7553 | 7553 | 100.0 | /mnt/stockage/packages/f7/gajim/po/sr.po | 
- | [nb_NO]({{< ref "/f7/language/nb_NO.md" >}}) | 14998 | 15106 | 99.3 | /mnt/stockage/packages/f7/gajim/po/no.po/mnt/stockage/packages/f7/gajim/po/nb.po | 
- | [lt]({{< ref "/f7/language/lt.md" >}}) | 7495 | 7553 | 99.2 | /mnt/stockage/packages/f7/gajim/po/lt.po | 
- | [cs]({{< ref "/f7/language/cs.md" >}}) | 7442 | 7553 | 98.5 | /mnt/stockage/packages/f7/gajim/po/cs.po | 
- | [de]({{< ref "/f7/language/de.md" >}}) | 7332 | 7553 | 97.1 | /mnt/stockage/packages/f7/gajim/po/de.po | 
- | [sk]({{< ref "/f7/language/sk.md" >}}) | 6612 | 7553 | 87.5 | /mnt/stockage/packages/f7/gajim/po/sk.po | 
- | [eu]({{< ref "/f7/language/eu.md" >}}) | 6607 | 7553 | 87.5 | /mnt/stockage/packages/f7/gajim/po/eu.po | 
- | [zh_Hans]({{< ref "/f7/language/zh_Hans.md" >}}) | 6557 | 7553 | 86.8 | /mnt/stockage/packages/f7/gajim/po/zh_CN.po | 
- | [ru]({{< ref "/f7/language/ru.md" >}}) | 5791 | 7553 | 76.7 | /mnt/stockage/packages/f7/gajim/po/ru.po | 
- | [sv]({{< ref "/f7/language/sv.md" >}}) | 5733 | 7553 | 75.9 | /mnt/stockage/packages/f7/gajim/po/sv.po | 
- | [el]({{< ref "/f7/language/el.md" >}}) | 4805 | 7553 | 63.6 | /mnt/stockage/packages/f7/gajim/po/el.po | 
- | [br]({{< ref "/f7/language/br.md" >}}) | 3718 | 7553 | 49.2 | /mnt/stockage/packages/f7/gajim/po/br.po | 
- | [pt]({{< ref "/f7/language/pt.md" >}}) | 3347 | 7553 | 44.3 | /mnt/stockage/packages/f7/gajim/po/pt.po | 
- | [nl]({{< ref "/f7/language/nl.md" >}}) | 3346 | 7553 | 44.3 | /mnt/stockage/packages/f7/gajim/po/nl.po | 
+ | [be](/f7/language/be) | 7553 | 7553 | 100.0 | /mnt/stockage/packages/f7/gajim/po/be.po | 
+ | [be_Latn](/f7/language/be_Latn) | 7553 | 7553 | 100.0 | /mnt/stockage/packages/f7/gajim/po/be@latin.po | 
+ | [bg](/f7/language/bg) | 7553 | 7553 | 100.0 | /mnt/stockage/packages/f7/gajim/po/bg.po | 
+ | [da](/f7/language/da) | 7553 | 7553 | 100.0 | /mnt/stockage/packages/f7/gajim/po/da.po | 
+ | [en_GB](/f7/language/en_GB) | 7553 | 7553 | 100.0 | /mnt/stockage/packages/f7/gajim/po/en_GB.po | 
+ | [eo](/f7/language/eo) | 7553 | 7553 | 100.0 | /mnt/stockage/packages/f7/gajim/po/eo.po | 
+ | [error](/f7/language/error) | 7553 | 7553 | 100.0 | /mnt/stockage/packages/f7/gajim/po/sr@Latn.po | 
+ | [es](/f7/language/es) | 7553 | 7553 | 100.0 | /mnt/stockage/packages/f7/gajim/po/es.po | 
+ | [fr](/f7/language/fr) | 7553 | 7553 | 100.0 | /mnt/stockage/packages/f7/gajim/po/fr.po | 
+ | [gl](/f7/language/gl) | 7553 | 7553 | 100.0 | /mnt/stockage/packages/f7/gajim/po/gl.po | 
+ | [hr](/f7/language/hr) | 7553 | 7553 | 100.0 | /mnt/stockage/packages/f7/gajim/po/hr.po | 
+ | [it](/f7/language/it) | 7553 | 7553 | 100.0 | /mnt/stockage/packages/f7/gajim/po/it.po | 
+ | [pl](/f7/language/pl) | 7553 | 7553 | 100.0 | /mnt/stockage/packages/f7/gajim/po/pl.po | 
+ | [pt_BR](/f7/language/pt_BR) | 7553 | 7553 | 100.0 | /mnt/stockage/packages/f7/gajim/po/pt_BR.po | 
+ | [sr](/f7/language/sr) | 7553 | 7553 | 100.0 | /mnt/stockage/packages/f7/gajim/po/sr.po | 
+ | [nb_NO](/f7/language/nb_NO) | 14998 | 15106 | 99.3 | /mnt/stockage/packages/f7/gajim/po/no.po/mnt/stockage/packages/f7/gajim/po/nb.po | 
+ | [lt](/f7/language/lt) | 7495 | 7553 | 99.2 | /mnt/stockage/packages/f7/gajim/po/lt.po | 
+ | [cs](/f7/language/cs) | 7442 | 7553 | 98.5 | /mnt/stockage/packages/f7/gajim/po/cs.po | 
+ | [de](/f7/language/de) | 7332 | 7553 | 97.1 | /mnt/stockage/packages/f7/gajim/po/de.po | 
+ | [sk](/f7/language/sk) | 6612 | 7553 | 87.5 | /mnt/stockage/packages/f7/gajim/po/sk.po | 
+ | [eu](/f7/language/eu) | 6607 | 7553 | 87.5 | /mnt/stockage/packages/f7/gajim/po/eu.po | 
+ | [zh_Hans](/f7/language/zh_Hans) | 6557 | 7553 | 86.8 | /mnt/stockage/packages/f7/gajim/po/zh_CN.po | 
+ | [ru](/f7/language/ru) | 5791 | 7553 | 76.7 | /mnt/stockage/packages/f7/gajim/po/ru.po | 
+ | [sv](/f7/language/sv) | 5733 | 7553 | 75.9 | /mnt/stockage/packages/f7/gajim/po/sv.po | 
+ | [el](/f7/language/el) | 4805 | 7553 | 63.6 | /mnt/stockage/packages/f7/gajim/po/el.po | 
+ | [br](/f7/language/br) | 3718 | 7553 | 49.2 | /mnt/stockage/packages/f7/gajim/po/br.po | 
+ | [pt](/f7/language/pt) | 3347 | 7553 | 44.3 | /mnt/stockage/packages/f7/gajim/po/pt.po | 
+ | [nl](/f7/language/nl) | 3346 | 7553 | 44.3 | /mnt/stockage/packages/f7/gajim/po/nl.po | 
 {.sortable}
 
 

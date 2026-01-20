@@ -18,69 +18,69 @@ The package mate-sensors-applet (version 1.16.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f24/language/ar.md" >}}) | 304 | 304 | 100.0 | /mnt/stockage/packages/f24/mate-sensors-applet/po/ar.po | 
- | [be]({{< ref "/f24/language/be.md" >}}) | 304 | 304 | 100.0 | /mnt/stockage/packages/f24/mate-sensors-applet/po/be.po | 
- | [bg]({{< ref "/f24/language/bg.md" >}}) | 304 | 304 | 100.0 | /mnt/stockage/packages/f24/mate-sensors-applet/po/bg.po | 
- | [ca]({{< ref "/f24/language/ca.md" >}}) | 304 | 304 | 100.0 | /mnt/stockage/packages/f24/mate-sensors-applet/po/ca.po | 
- | [ca@valencia]({{< ref "/f24/language/ca@valencia.md" >}}) | 304 | 304 | 100.0 | /mnt/stockage/packages/f24/mate-sensors-applet/po/ca@valencia.po | 
- | [cs]({{< ref "/f24/language/cs.md" >}}) | 304 | 304 | 100.0 | /mnt/stockage/packages/f24/mate-sensors-applet/po/cs.po | 
- | [da]({{< ref "/f24/language/da.md" >}}) | 304 | 304 | 100.0 | /mnt/stockage/packages/f24/mate-sensors-applet/po/da.po | 
- | [de]({{< ref "/f24/language/de.md" >}}) | 304 | 304 | 100.0 | /mnt/stockage/packages/f24/mate-sensors-applet/po/de.po | 
- | [el]({{< ref "/f24/language/el.md" >}}) | 304 | 304 | 100.0 | /mnt/stockage/packages/f24/mate-sensors-applet/po/el.po | 
- | [en_AU]({{< ref "/f24/language/en_AU.md" >}}) | 304 | 304 | 100.0 | /mnt/stockage/packages/f24/mate-sensors-applet/po/en_AU.po | 
- | [en_GB]({{< ref "/f24/language/en_GB.md" >}}) | 304 | 304 | 100.0 | /mnt/stockage/packages/f24/mate-sensors-applet/po/en_GB.po | 
- | [es]({{< ref "/f24/language/es.md" >}}) | 304 | 304 | 100.0 | /mnt/stockage/packages/f24/mate-sensors-applet/po/es.po | 
- | [et]({{< ref "/f24/language/et.md" >}}) | 304 | 304 | 100.0 | /mnt/stockage/packages/f24/mate-sensors-applet/po/et.po | 
- | [fr]({{< ref "/f24/language/fr.md" >}}) | 304 | 304 | 100.0 | /mnt/stockage/packages/f24/mate-sensors-applet/po/fr.po | 
- | [hr]({{< ref "/f24/language/hr.md" >}}) | 304 | 304 | 100.0 | /mnt/stockage/packages/f24/mate-sensors-applet/po/hr.po | 
- | [hu]({{< ref "/f24/language/hu.md" >}}) | 304 | 304 | 100.0 | /mnt/stockage/packages/f24/mate-sensors-applet/po/hu.po | 
- | [hy]({{< ref "/f24/language/hy.md" >}}) | 304 | 304 | 100.0 | /mnt/stockage/packages/f24/mate-sensors-applet/po/hy.po | 
- | [id]({{< ref "/f24/language/id.md" >}}) | 304 | 304 | 100.0 | /mnt/stockage/packages/f24/mate-sensors-applet/po/id.po | 
- | [it]({{< ref "/f24/language/it.md" >}}) | 304 | 304 | 100.0 | /mnt/stockage/packages/f24/mate-sensors-applet/po/it.po | 
- | [ja]({{< ref "/f24/language/ja.md" >}}) | 304 | 304 | 100.0 | /mnt/stockage/packages/f24/mate-sensors-applet/po/ja.po | 
- | [ko]({{< ref "/f24/language/ko.md" >}}) | 304 | 304 | 100.0 | /mnt/stockage/packages/f24/mate-sensors-applet/po/ko.po | 
- | [lt]({{< ref "/f24/language/lt.md" >}}) | 304 | 304 | 100.0 | /mnt/stockage/packages/f24/mate-sensors-applet/po/lt.po | 
- | [ms]({{< ref "/f24/language/ms.md" >}}) | 304 | 304 | 100.0 | /mnt/stockage/packages/f24/mate-sensors-applet/po/ms.po | 
- | [nb_NO]({{< ref "/f24/language/nb_NO.md" >}}) | 304 | 304 | 100.0 | /mnt/stockage/packages/f24/mate-sensors-applet/po/nb.po | 
- | [nl]({{< ref "/f24/language/nl.md" >}}) | 304 | 304 | 100.0 | /mnt/stockage/packages/f24/mate-sensors-applet/po/nl.po | 
- | [pl]({{< ref "/f24/language/pl.md" >}}) | 304 | 304 | 100.0 | /mnt/stockage/packages/f24/mate-sensors-applet/po/pl.po | 
- | [pt_BR]({{< ref "/f24/language/pt_BR.md" >}}) | 304 | 304 | 100.0 | /mnt/stockage/packages/f24/mate-sensors-applet/po/pt_BR.po | 
- | [ro]({{< ref "/f24/language/ro.md" >}}) | 304 | 304 | 100.0 | /mnt/stockage/packages/f24/mate-sensors-applet/po/ro.po | 
- | [ru]({{< ref "/f24/language/ru.md" >}}) | 304 | 304 | 100.0 | /mnt/stockage/packages/f24/mate-sensors-applet/po/ru.po | 
- | [sk]({{< ref "/f24/language/sk.md" >}}) | 304 | 304 | 100.0 | /mnt/stockage/packages/f24/mate-sensors-applet/po/sk.po | 
- | [sr]({{< ref "/f24/language/sr.md" >}}) | 304 | 304 | 100.0 | /mnt/stockage/packages/f24/mate-sensors-applet/po/sr.po | 
- | [tr]({{< ref "/f24/language/tr.md" >}}) | 304 | 304 | 100.0 | /mnt/stockage/packages/f24/mate-sensors-applet/po/tr.po | 
- | [uk]({{< ref "/f24/language/uk.md" >}}) | 304 | 304 | 100.0 | /mnt/stockage/packages/f24/mate-sensors-applet/po/uk.po | 
- | [zh_Hant]({{< ref "/f24/language/zh_Hant.md" >}}) | 304 | 304 | 100.0 | /mnt/stockage/packages/f24/mate-sensors-applet/po/zh_TW.po | 
- | [zh_Hans]({{< ref "/f24/language/zh_Hans.md" >}}) | 594 | 608 | 97.7 | /mnt/stockage/packages/f24/mate-sensors-applet/po/zh_CN.po/mnt/stockage/packages/f24/mate-sensors-applet/po/cmn.po | 
- | [gl]({{< ref "/f24/language/gl.md" >}}) | 290 | 304 | 95.4 | /mnt/stockage/packages/f24/mate-sensors-applet/po/gl.po | 
- | [pt]({{< ref "/f24/language/pt.md" >}}) | 290 | 304 | 95.4 | /mnt/stockage/packages/f24/mate-sensors-applet/po/pt.po | 
- | [sl]({{< ref "/f24/language/sl.md" >}}) | 290 | 304 | 95.4 | /mnt/stockage/packages/f24/mate-sensors-applet/po/sl.po | 
- | [sv]({{< ref "/f24/language/sv.md" >}}) | 290 | 304 | 95.4 | /mnt/stockage/packages/f24/mate-sensors-applet/po/sv.po | 
- | [mk]({{< ref "/f24/language/mk.md" >}}) | 289 | 304 | 95.1 | /mnt/stockage/packages/f24/mate-sensors-applet/po/mk.po | 
- | [mr]({{< ref "/f24/language/mr.md" >}}) | 289 | 304 | 95.1 | /mnt/stockage/packages/f24/mate-sensors-applet/po/mr.po | 
- | [eu]({{< ref "/f24/language/eu.md" >}}) | 209 | 304 | 68.8 | /mnt/stockage/packages/f24/mate-sensors-applet/po/eu.po | 
- | [hi]({{< ref "/f24/language/hi.md" >}}) | 202 | 304 | 66.4 | /mnt/stockage/packages/f24/mate-sensors-applet/po/hi.po | 
- | [zh_Hant_HK]({{< ref "/f24/language/zh_Hant_HK.md" >}}) | 179 | 304 | 58.9 | /mnt/stockage/packages/f24/mate-sensors-applet/po/zh_HK.po | 
- | [uz]({{< ref "/f24/language/uz.md" >}}) | 62 | 304 | 20.4 | /mnt/stockage/packages/f24/mate-sensors-applet/po/uz.po | 
- | [am]({{< ref "/f24/language/am.md" >}}) | 61 | 304 | 20.1 | /mnt/stockage/packages/f24/mate-sensors-applet/po/am.po | 
- | [te]({{< ref "/f24/language/te.md" >}}) | 42 | 304 | 13.8 | /mnt/stockage/packages/f24/mate-sensors-applet/po/te.po | 
- | [fi]({{< ref "/f24/language/fi.md" >}}) | 31 | 304 | 10.2 | /mnt/stockage/packages/f24/mate-sensors-applet/po/fi.po | 
- | [oc]({{< ref "/f24/language/oc.md" >}}) | 31 | 304 | 10.2 | /mnt/stockage/packages/f24/mate-sensors-applet/po/oc.po | 
- | [ky]({{< ref "/f24/language/ky.md" >}}) | 21 | 304 | 6.9 | /mnt/stockage/packages/f24/mate-sensors-applet/po/ky.po | 
- | [kk]({{< ref "/f24/language/kk.md" >}}) | 19 | 304 | 6.2 | /mnt/stockage/packages/f24/mate-sensors-applet/po/kk.po | 
- | [es_CO]({{< ref "/f24/language/es_CO.md" >}}) | 11 | 304 | 3.6 | /mnt/stockage/packages/f24/mate-sensors-applet/po/es_CO.po | 
- | [he]({{< ref "/f24/language/he.md" >}}) | 5 | 304 | 1.6 | /mnt/stockage/packages/f24/mate-sensors-applet/po/he.po | 
- | [br]({{< ref "/f24/language/br.md" >}}) | 4 | 304 | 1.3 | /mnt/stockage/packages/f24/mate-sensors-applet/po/br.po | 
- | [cy]({{< ref "/f24/language/cy.md" >}}) | 4 | 304 | 1.3 | /mnt/stockage/packages/f24/mate-sensors-applet/po/cy.po | 
- | [fa]({{< ref "/f24/language/fa.md" >}}) | 4 | 304 | 1.3 | /mnt/stockage/packages/f24/mate-sensors-applet/po/fa.po | 
- | [frp]({{< ref "/f24/language/frp.md" >}}) | 4 | 304 | 1.3 | /mnt/stockage/packages/f24/mate-sensors-applet/po/frp.po | 
- | [is]({{< ref "/f24/language/is.md" >}}) | 4 | 304 | 1.3 | /mnt/stockage/packages/f24/mate-sensors-applet/po/is.po | 
- | [pms]({{< ref "/f24/language/pms.md" >}}) | 4 | 304 | 1.3 | /mnt/stockage/packages/f24/mate-sensors-applet/po/pms.po | 
- | [es_MX]({{< ref "/f24/language/es_MX.md" >}}) | 3 | 304 | 1.0 | /mnt/stockage/packages/f24/mate-sensors-applet/po/es_MX.po | 
- | [fr_CA]({{< ref "/f24/language/fr_CA.md" >}}) | 3 | 304 | 1.0 | /mnt/stockage/packages/f24/mate-sensors-applet/po/fr_CA.po | 
- | [jv]({{< ref "/f24/language/jv.md" >}}) | 3 | 304 | 1.0 | /mnt/stockage/packages/f24/mate-sensors-applet/po/jv.po | 
- | [th]({{< ref "/f24/language/th.md" >}}) | 2 | 304 | 0.7 | /mnt/stockage/packages/f24/mate-sensors-applet/po/th.po | 
+ | [ar](/f24/language/ar) | 304 | 304 | 100.0 | /mnt/stockage/packages/f24/mate-sensors-applet/po/ar.po | 
+ | [be](/f24/language/be) | 304 | 304 | 100.0 | /mnt/stockage/packages/f24/mate-sensors-applet/po/be.po | 
+ | [bg](/f24/language/bg) | 304 | 304 | 100.0 | /mnt/stockage/packages/f24/mate-sensors-applet/po/bg.po | 
+ | [ca](/f24/language/ca) | 304 | 304 | 100.0 | /mnt/stockage/packages/f24/mate-sensors-applet/po/ca.po | 
+ | [ca@valencia](/f24/language/ca@valencia) | 304 | 304 | 100.0 | /mnt/stockage/packages/f24/mate-sensors-applet/po/ca@valencia.po | 
+ | [cs](/f24/language/cs) | 304 | 304 | 100.0 | /mnt/stockage/packages/f24/mate-sensors-applet/po/cs.po | 
+ | [da](/f24/language/da) | 304 | 304 | 100.0 | /mnt/stockage/packages/f24/mate-sensors-applet/po/da.po | 
+ | [de](/f24/language/de) | 304 | 304 | 100.0 | /mnt/stockage/packages/f24/mate-sensors-applet/po/de.po | 
+ | [el](/f24/language/el) | 304 | 304 | 100.0 | /mnt/stockage/packages/f24/mate-sensors-applet/po/el.po | 
+ | [en_AU](/f24/language/en_AU) | 304 | 304 | 100.0 | /mnt/stockage/packages/f24/mate-sensors-applet/po/en_AU.po | 
+ | [en_GB](/f24/language/en_GB) | 304 | 304 | 100.0 | /mnt/stockage/packages/f24/mate-sensors-applet/po/en_GB.po | 
+ | [es](/f24/language/es) | 304 | 304 | 100.0 | /mnt/stockage/packages/f24/mate-sensors-applet/po/es.po | 
+ | [et](/f24/language/et) | 304 | 304 | 100.0 | /mnt/stockage/packages/f24/mate-sensors-applet/po/et.po | 
+ | [fr](/f24/language/fr) | 304 | 304 | 100.0 | /mnt/stockage/packages/f24/mate-sensors-applet/po/fr.po | 
+ | [hr](/f24/language/hr) | 304 | 304 | 100.0 | /mnt/stockage/packages/f24/mate-sensors-applet/po/hr.po | 
+ | [hu](/f24/language/hu) | 304 | 304 | 100.0 | /mnt/stockage/packages/f24/mate-sensors-applet/po/hu.po | 
+ | [hy](/f24/language/hy) | 304 | 304 | 100.0 | /mnt/stockage/packages/f24/mate-sensors-applet/po/hy.po | 
+ | [id](/f24/language/id) | 304 | 304 | 100.0 | /mnt/stockage/packages/f24/mate-sensors-applet/po/id.po | 
+ | [it](/f24/language/it) | 304 | 304 | 100.0 | /mnt/stockage/packages/f24/mate-sensors-applet/po/it.po | 
+ | [ja](/f24/language/ja) | 304 | 304 | 100.0 | /mnt/stockage/packages/f24/mate-sensors-applet/po/ja.po | 
+ | [ko](/f24/language/ko) | 304 | 304 | 100.0 | /mnt/stockage/packages/f24/mate-sensors-applet/po/ko.po | 
+ | [lt](/f24/language/lt) | 304 | 304 | 100.0 | /mnt/stockage/packages/f24/mate-sensors-applet/po/lt.po | 
+ | [ms](/f24/language/ms) | 304 | 304 | 100.0 | /mnt/stockage/packages/f24/mate-sensors-applet/po/ms.po | 
+ | [nb_NO](/f24/language/nb_NO) | 304 | 304 | 100.0 | /mnt/stockage/packages/f24/mate-sensors-applet/po/nb.po | 
+ | [nl](/f24/language/nl) | 304 | 304 | 100.0 | /mnt/stockage/packages/f24/mate-sensors-applet/po/nl.po | 
+ | [pl](/f24/language/pl) | 304 | 304 | 100.0 | /mnt/stockage/packages/f24/mate-sensors-applet/po/pl.po | 
+ | [pt_BR](/f24/language/pt_BR) | 304 | 304 | 100.0 | /mnt/stockage/packages/f24/mate-sensors-applet/po/pt_BR.po | 
+ | [ro](/f24/language/ro) | 304 | 304 | 100.0 | /mnt/stockage/packages/f24/mate-sensors-applet/po/ro.po | 
+ | [ru](/f24/language/ru) | 304 | 304 | 100.0 | /mnt/stockage/packages/f24/mate-sensors-applet/po/ru.po | 
+ | [sk](/f24/language/sk) | 304 | 304 | 100.0 | /mnt/stockage/packages/f24/mate-sensors-applet/po/sk.po | 
+ | [sr](/f24/language/sr) | 304 | 304 | 100.0 | /mnt/stockage/packages/f24/mate-sensors-applet/po/sr.po | 
+ | [tr](/f24/language/tr) | 304 | 304 | 100.0 | /mnt/stockage/packages/f24/mate-sensors-applet/po/tr.po | 
+ | [uk](/f24/language/uk) | 304 | 304 | 100.0 | /mnt/stockage/packages/f24/mate-sensors-applet/po/uk.po | 
+ | [zh_Hant](/f24/language/zh_Hant) | 304 | 304 | 100.0 | /mnt/stockage/packages/f24/mate-sensors-applet/po/zh_TW.po | 
+ | [zh_Hans](/f24/language/zh_Hans) | 594 | 608 | 97.7 | /mnt/stockage/packages/f24/mate-sensors-applet/po/zh_CN.po/mnt/stockage/packages/f24/mate-sensors-applet/po/cmn.po | 
+ | [gl](/f24/language/gl) | 290 | 304 | 95.4 | /mnt/stockage/packages/f24/mate-sensors-applet/po/gl.po | 
+ | [pt](/f24/language/pt) | 290 | 304 | 95.4 | /mnt/stockage/packages/f24/mate-sensors-applet/po/pt.po | 
+ | [sl](/f24/language/sl) | 290 | 304 | 95.4 | /mnt/stockage/packages/f24/mate-sensors-applet/po/sl.po | 
+ | [sv](/f24/language/sv) | 290 | 304 | 95.4 | /mnt/stockage/packages/f24/mate-sensors-applet/po/sv.po | 
+ | [mk](/f24/language/mk) | 289 | 304 | 95.1 | /mnt/stockage/packages/f24/mate-sensors-applet/po/mk.po | 
+ | [mr](/f24/language/mr) | 289 | 304 | 95.1 | /mnt/stockage/packages/f24/mate-sensors-applet/po/mr.po | 
+ | [eu](/f24/language/eu) | 209 | 304 | 68.8 | /mnt/stockage/packages/f24/mate-sensors-applet/po/eu.po | 
+ | [hi](/f24/language/hi) | 202 | 304 | 66.4 | /mnt/stockage/packages/f24/mate-sensors-applet/po/hi.po | 
+ | [zh_Hant_HK](/f24/language/zh_Hant_HK) | 179 | 304 | 58.9 | /mnt/stockage/packages/f24/mate-sensors-applet/po/zh_HK.po | 
+ | [uz](/f24/language/uz) | 62 | 304 | 20.4 | /mnt/stockage/packages/f24/mate-sensors-applet/po/uz.po | 
+ | [am](/f24/language/am) | 61 | 304 | 20.1 | /mnt/stockage/packages/f24/mate-sensors-applet/po/am.po | 
+ | [te](/f24/language/te) | 42 | 304 | 13.8 | /mnt/stockage/packages/f24/mate-sensors-applet/po/te.po | 
+ | [fi](/f24/language/fi) | 31 | 304 | 10.2 | /mnt/stockage/packages/f24/mate-sensors-applet/po/fi.po | 
+ | [oc](/f24/language/oc) | 31 | 304 | 10.2 | /mnt/stockage/packages/f24/mate-sensors-applet/po/oc.po | 
+ | [ky](/f24/language/ky) | 21 | 304 | 6.9 | /mnt/stockage/packages/f24/mate-sensors-applet/po/ky.po | 
+ | [kk](/f24/language/kk) | 19 | 304 | 6.2 | /mnt/stockage/packages/f24/mate-sensors-applet/po/kk.po | 
+ | [es_CO](/f24/language/es_CO) | 11 | 304 | 3.6 | /mnt/stockage/packages/f24/mate-sensors-applet/po/es_CO.po | 
+ | [he](/f24/language/he) | 5 | 304 | 1.6 | /mnt/stockage/packages/f24/mate-sensors-applet/po/he.po | 
+ | [br](/f24/language/br) | 4 | 304 | 1.3 | /mnt/stockage/packages/f24/mate-sensors-applet/po/br.po | 
+ | [cy](/f24/language/cy) | 4 | 304 | 1.3 | /mnt/stockage/packages/f24/mate-sensors-applet/po/cy.po | 
+ | [fa](/f24/language/fa) | 4 | 304 | 1.3 | /mnt/stockage/packages/f24/mate-sensors-applet/po/fa.po | 
+ | [frp](/f24/language/frp) | 4 | 304 | 1.3 | /mnt/stockage/packages/f24/mate-sensors-applet/po/frp.po | 
+ | [is](/f24/language/is) | 4 | 304 | 1.3 | /mnt/stockage/packages/f24/mate-sensors-applet/po/is.po | 
+ | [pms](/f24/language/pms) | 4 | 304 | 1.3 | /mnt/stockage/packages/f24/mate-sensors-applet/po/pms.po | 
+ | [es_MX](/f24/language/es_MX) | 3 | 304 | 1.0 | /mnt/stockage/packages/f24/mate-sensors-applet/po/es_MX.po | 
+ | [fr_CA](/f24/language/fr_CA) | 3 | 304 | 1.0 | /mnt/stockage/packages/f24/mate-sensors-applet/po/fr_CA.po | 
+ | [jv](/f24/language/jv) | 3 | 304 | 1.0 | /mnt/stockage/packages/f24/mate-sensors-applet/po/jv.po | 
+ | [th](/f24/language/th) | 2 | 304 | 0.7 | /mnt/stockage/packages/f24/mate-sensors-applet/po/th.po | 
 {.sortable}
 
 

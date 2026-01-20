@@ -18,61 +18,61 @@ The package kwebkitpart (version 1.4.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [bs]({{< ref "/f33/language/bs.md" >}}) | 669 | 669 | 100.0 | /mnt/stockage/packages/f33/kwebkitpart/po/bs/kwebkitpart.po | 
- | [ca]({{< ref "/f33/language/ca.md" >}}) | 669 | 669 | 100.0 | /mnt/stockage/packages/f33/kwebkitpart/po/ca/kwebkitpart.po | 
- | [ca@valencia]({{< ref "/f33/language/ca@valencia.md" >}}) | 669 | 669 | 100.0 | /mnt/stockage/packages/f33/kwebkitpart/po/ca@valencia/kwebkitpart.po | 
- | [da]({{< ref "/f33/language/da.md" >}}) | 669 | 669 | 100.0 | /mnt/stockage/packages/f33/kwebkitpart/po/da/kwebkitpart.po | 
- | [de]({{< ref "/f33/language/de.md" >}}) | 669 | 669 | 100.0 | /mnt/stockage/packages/f33/kwebkitpart/po/de/kwebkitpart.po | 
- | [el]({{< ref "/f33/language/el.md" >}}) | 669 | 669 | 100.0 | /mnt/stockage/packages/f33/kwebkitpart/po/el/kwebkitpart.po | 
- | [en_GB]({{< ref "/f33/language/en_GB.md" >}}) | 669 | 669 | 100.0 | /mnt/stockage/packages/f33/kwebkitpart/po/en_GB/kwebkitpart.po | 
- | [es]({{< ref "/f33/language/es.md" >}}) | 669 | 669 | 100.0 | /mnt/stockage/packages/f33/kwebkitpart/po/es/kwebkitpart.po | 
- | [fi]({{< ref "/f33/language/fi.md" >}}) | 669 | 669 | 100.0 | /mnt/stockage/packages/f33/kwebkitpart/po/fi/kwebkitpart.po | 
- | [fr]({{< ref "/f33/language/fr.md" >}}) | 669 | 669 | 100.0 | /mnt/stockage/packages/f33/kwebkitpart/po/fr/kwebkitpart.po | 
- | [gl]({{< ref "/f33/language/gl.md" >}}) | 669 | 669 | 100.0 | /mnt/stockage/packages/f33/kwebkitpart/po/gl/kwebkitpart.po | 
- | [hu]({{< ref "/f33/language/hu.md" >}}) | 669 | 669 | 100.0 | /mnt/stockage/packages/f33/kwebkitpart/po/hu/kwebkitpart.po | 
- | [it]({{< ref "/f33/language/it.md" >}}) | 669 | 669 | 100.0 | /mnt/stockage/packages/f33/kwebkitpart/po/it/kwebkitpart.po | 
- | [kk]({{< ref "/f33/language/kk.md" >}}) | 669 | 669 | 100.0 | /mnt/stockage/packages/f33/kwebkitpart/po/kk/kwebkitpart.po | 
- | [ko]({{< ref "/f33/language/ko.md" >}}) | 669 | 669 | 100.0 | /mnt/stockage/packages/f33/kwebkitpart/po/ko/kwebkitpart.po | 
- | [lt]({{< ref "/f33/language/lt.md" >}}) | 669 | 669 | 100.0 | /mnt/stockage/packages/f33/kwebkitpart/po/lt/kwebkitpart.po | 
- | [nb_NO]({{< ref "/f33/language/nb_NO.md" >}}) | 669 | 669 | 100.0 | /mnt/stockage/packages/f33/kwebkitpart/po/nb/kwebkitpart.po | 
- | [nds]({{< ref "/f33/language/nds.md" >}}) | 669 | 669 | 100.0 | /mnt/stockage/packages/f33/kwebkitpart/po/nds/kwebkitpart.po | 
- | [nl]({{< ref "/f33/language/nl.md" >}}) | 669 | 669 | 100.0 | /mnt/stockage/packages/f33/kwebkitpart/po/nl/kwebkitpart.po | 
- | [nn]({{< ref "/f33/language/nn.md" >}}) | 669 | 669 | 100.0 | /mnt/stockage/packages/f33/kwebkitpart/po/nn/kwebkitpart.po | 
- | [pl]({{< ref "/f33/language/pl.md" >}}) | 669 | 669 | 100.0 | /mnt/stockage/packages/f33/kwebkitpart/po/pl/kwebkitpart.po | 
- | [pt]({{< ref "/f33/language/pt.md" >}}) | 669 | 669 | 100.0 | /mnt/stockage/packages/f33/kwebkitpart/po/pt/kwebkitpart.po | 
- | [pt_BR]({{< ref "/f33/language/pt_BR.md" >}}) | 669 | 669 | 100.0 | /mnt/stockage/packages/f33/kwebkitpart/po/pt_BR/kwebkitpart.po | 
- | [ru]({{< ref "/f33/language/ru.md" >}}) | 669 | 669 | 100.0 | /mnt/stockage/packages/f33/kwebkitpart/po/ru/kwebkitpart.po | 
- | [sk]({{< ref "/f33/language/sk.md" >}}) | 669 | 669 | 100.0 | /mnt/stockage/packages/f33/kwebkitpart/po/sk/kwebkitpart.po | 
- | [sl]({{< ref "/f33/language/sl.md" >}}) | 669 | 669 | 100.0 | /mnt/stockage/packages/f33/kwebkitpart/po/sl/kwebkitpart.po | 
- | [sr]({{< ref "/f33/language/sr.md" >}}) | 669 | 669 | 100.0 | /mnt/stockage/packages/f33/kwebkitpart/po/sr/kwebkitpart.po | 
- | [sr@ijekavian]({{< ref "/f33/language/sr@ijekavian.md" >}}) | 669 | 669 | 100.0 | /mnt/stockage/packages/f33/kwebkitpart/po/sr@ijekavian/kwebkitpart.po | 
- | [sr@ijekavian_Latn]({{< ref "/f33/language/sr@ijekavian_Latn.md" >}}) | 669 | 669 | 100.0 | /mnt/stockage/packages/f33/kwebkitpart/po/sr@ijekavianlatin/kwebkitpart.po | 
- | [sr_Latn]({{< ref "/f33/language/sr_Latn.md" >}}) | 669 | 669 | 100.0 | /mnt/stockage/packages/f33/kwebkitpart/po/sr@latin/kwebkitpart.po | 
- | [sv]({{< ref "/f33/language/sv.md" >}}) | 669 | 669 | 100.0 | /mnt/stockage/packages/f33/kwebkitpart/po/sv/kwebkitpart.po | 
- | [tr]({{< ref "/f33/language/tr.md" >}}) | 669 | 669 | 100.0 | /mnt/stockage/packages/f33/kwebkitpart/po/tr/kwebkitpart.po | 
- | [uk]({{< ref "/f33/language/uk.md" >}}) | 669 | 669 | 100.0 | /mnt/stockage/packages/f33/kwebkitpart/po/uk/kwebkitpart.po | 
- | [zh_Hant]({{< ref "/f33/language/zh_Hant.md" >}}) | 669 | 669 | 100.0 | /mnt/stockage/packages/f33/kwebkitpart/po/zh_TW/kwebkitpart.po | 
- | [id]({{< ref "/f33/language/id.md" >}}) | 663 | 669 | 99.1 | /mnt/stockage/packages/f33/kwebkitpart/po/id/kwebkitpart.po | 
- | [et]({{< ref "/f33/language/et.md" >}}) | 624 | 669 | 93.3 | /mnt/stockage/packages/f33/kwebkitpart/po/et/kwebkitpart.po | 
- | [zh_Hans]({{< ref "/f33/language/zh_Hans.md" >}}) | 624 | 669 | 93.3 | /mnt/stockage/packages/f33/kwebkitpart/po/zh_CN/kwebkitpart.po | 
- | [cs]({{< ref "/f33/language/cs.md" >}}) | 609 | 669 | 91.0 | /mnt/stockage/packages/f33/kwebkitpart/po/cs/kwebkitpart.po | 
- | [km]({{< ref "/f33/language/km.md" >}}) | 556 | 669 | 83.1 | /mnt/stockage/packages/f33/kwebkitpart/po/km/kwebkitpart.po | 
- | [ar]({{< ref "/f33/language/ar.md" >}}) | 536 | 669 | 80.1 | /mnt/stockage/packages/f33/kwebkitpart/po/ar/kwebkitpart.po | 
- | [ug]({{< ref "/f33/language/ug.md" >}}) | 532 | 669 | 79.5 | /mnt/stockage/packages/f33/kwebkitpart/po/ug/kwebkitpart.po | 
- | [bg]({{< ref "/f33/language/bg.md" >}}) | 513 | 669 | 76.7 | /mnt/stockage/packages/f33/kwebkitpart/po/bg/kwebkitpart.po | 
- | [ro]({{< ref "/f33/language/ro.md" >}}) | 480 | 669 | 71.7 | /mnt/stockage/packages/f33/kwebkitpart/po/ro/kwebkitpart.po | 
- | [ast]({{< ref "/f33/language/ast.md" >}}) | 432 | 669 | 64.6 | /mnt/stockage/packages/f33/kwebkitpart/po/ast/kwebkitpart.po | 
- | [eu]({{< ref "/f33/language/eu.md" >}}) | 432 | 669 | 64.6 | /mnt/stockage/packages/f33/kwebkitpart/po/eu/kwebkitpart.po | 
- | [pa]({{< ref "/f33/language/pa.md" >}}) | 417 | 669 | 62.3 | /mnt/stockage/packages/f33/kwebkitpart/po/pa/kwebkitpart.po | 
- | [ga]({{< ref "/f33/language/ga.md" >}}) | 398 | 669 | 59.5 | /mnt/stockage/packages/f33/kwebkitpart/po/ga/kwebkitpart.po | 
- | [th]({{< ref "/f33/language/th.md" >}}) | 392 | 669 | 58.6 | /mnt/stockage/packages/f33/kwebkitpart/po/th/kwebkitpart.po | 
- | [mr]({{< ref "/f33/language/mr.md" >}}) | 328 | 669 | 49.0 | /mnt/stockage/packages/f33/kwebkitpart/po/mr/kwebkitpart.po | 
- | [eo]({{< ref "/f33/language/eo.md" >}}) | 206 | 669 | 30.8 | /mnt/stockage/packages/f33/kwebkitpart/po/eo/kwebkitpart.po | 
- | [mai]({{< ref "/f33/language/mai.md" >}}) | 179 | 669 | 26.8 | /mnt/stockage/packages/f33/kwebkitpart/po/mai/kwebkitpart.po | 
- | [fa]({{< ref "/f33/language/fa.md" >}}) | 178 | 669 | 26.6 | /mnt/stockage/packages/f33/kwebkitpart/po/fa/kwebkitpart.po | 
- | [tg]({{< ref "/f33/language/tg.md" >}}) | 65 | 669 | 9.7 | /mnt/stockage/packages/f33/kwebkitpart/po/tg/kwebkitpart.po | 
- | [ms]({{< ref "/f33/language/ms.md" >}}) | 9 | 669 | 1.3 | /mnt/stockage/packages/f33/kwebkitpart/po/ms/kwebkitpart.po | 
- | [ja]({{< ref "/f33/language/ja.md" >}}) | 0 | 669 | 0.0 | /mnt/stockage/packages/f33/kwebkitpart/po/ja/kwebkitpart.po | 
+ | [bs](/f33/language/bs) | 669 | 669 | 100.0 | /mnt/stockage/packages/f33/kwebkitpart/po/bs/kwebkitpart.po | 
+ | [ca](/f33/language/ca) | 669 | 669 | 100.0 | /mnt/stockage/packages/f33/kwebkitpart/po/ca/kwebkitpart.po | 
+ | [ca@valencia](/f33/language/ca@valencia) | 669 | 669 | 100.0 | /mnt/stockage/packages/f33/kwebkitpart/po/ca@valencia/kwebkitpart.po | 
+ | [da](/f33/language/da) | 669 | 669 | 100.0 | /mnt/stockage/packages/f33/kwebkitpart/po/da/kwebkitpart.po | 
+ | [de](/f33/language/de) | 669 | 669 | 100.0 | /mnt/stockage/packages/f33/kwebkitpart/po/de/kwebkitpart.po | 
+ | [el](/f33/language/el) | 669 | 669 | 100.0 | /mnt/stockage/packages/f33/kwebkitpart/po/el/kwebkitpart.po | 
+ | [en_GB](/f33/language/en_GB) | 669 | 669 | 100.0 | /mnt/stockage/packages/f33/kwebkitpart/po/en_GB/kwebkitpart.po | 
+ | [es](/f33/language/es) | 669 | 669 | 100.0 | /mnt/stockage/packages/f33/kwebkitpart/po/es/kwebkitpart.po | 
+ | [fi](/f33/language/fi) | 669 | 669 | 100.0 | /mnt/stockage/packages/f33/kwebkitpart/po/fi/kwebkitpart.po | 
+ | [fr](/f33/language/fr) | 669 | 669 | 100.0 | /mnt/stockage/packages/f33/kwebkitpart/po/fr/kwebkitpart.po | 
+ | [gl](/f33/language/gl) | 669 | 669 | 100.0 | /mnt/stockage/packages/f33/kwebkitpart/po/gl/kwebkitpart.po | 
+ | [hu](/f33/language/hu) | 669 | 669 | 100.0 | /mnt/stockage/packages/f33/kwebkitpart/po/hu/kwebkitpart.po | 
+ | [it](/f33/language/it) | 669 | 669 | 100.0 | /mnt/stockage/packages/f33/kwebkitpart/po/it/kwebkitpart.po | 
+ | [kk](/f33/language/kk) | 669 | 669 | 100.0 | /mnt/stockage/packages/f33/kwebkitpart/po/kk/kwebkitpart.po | 
+ | [ko](/f33/language/ko) | 669 | 669 | 100.0 | /mnt/stockage/packages/f33/kwebkitpart/po/ko/kwebkitpart.po | 
+ | [lt](/f33/language/lt) | 669 | 669 | 100.0 | /mnt/stockage/packages/f33/kwebkitpart/po/lt/kwebkitpart.po | 
+ | [nb_NO](/f33/language/nb_NO) | 669 | 669 | 100.0 | /mnt/stockage/packages/f33/kwebkitpart/po/nb/kwebkitpart.po | 
+ | [nds](/f33/language/nds) | 669 | 669 | 100.0 | /mnt/stockage/packages/f33/kwebkitpart/po/nds/kwebkitpart.po | 
+ | [nl](/f33/language/nl) | 669 | 669 | 100.0 | /mnt/stockage/packages/f33/kwebkitpart/po/nl/kwebkitpart.po | 
+ | [nn](/f33/language/nn) | 669 | 669 | 100.0 | /mnt/stockage/packages/f33/kwebkitpart/po/nn/kwebkitpart.po | 
+ | [pl](/f33/language/pl) | 669 | 669 | 100.0 | /mnt/stockage/packages/f33/kwebkitpart/po/pl/kwebkitpart.po | 
+ | [pt](/f33/language/pt) | 669 | 669 | 100.0 | /mnt/stockage/packages/f33/kwebkitpart/po/pt/kwebkitpart.po | 
+ | [pt_BR](/f33/language/pt_BR) | 669 | 669 | 100.0 | /mnt/stockage/packages/f33/kwebkitpart/po/pt_BR/kwebkitpart.po | 
+ | [ru](/f33/language/ru) | 669 | 669 | 100.0 | /mnt/stockage/packages/f33/kwebkitpart/po/ru/kwebkitpart.po | 
+ | [sk](/f33/language/sk) | 669 | 669 | 100.0 | /mnt/stockage/packages/f33/kwebkitpart/po/sk/kwebkitpart.po | 
+ | [sl](/f33/language/sl) | 669 | 669 | 100.0 | /mnt/stockage/packages/f33/kwebkitpart/po/sl/kwebkitpart.po | 
+ | [sr](/f33/language/sr) | 669 | 669 | 100.0 | /mnt/stockage/packages/f33/kwebkitpart/po/sr/kwebkitpart.po | 
+ | [sr@ijekavian](/f33/language/sr@ijekavian) | 669 | 669 | 100.0 | /mnt/stockage/packages/f33/kwebkitpart/po/sr@ijekavian/kwebkitpart.po | 
+ | [sr@ijekavian_Latn](/f33/language/sr@ijekavian_Latn) | 669 | 669 | 100.0 | /mnt/stockage/packages/f33/kwebkitpart/po/sr@ijekavianlatin/kwebkitpart.po | 
+ | [sr_Latn](/f33/language/sr_Latn) | 669 | 669 | 100.0 | /mnt/stockage/packages/f33/kwebkitpart/po/sr@latin/kwebkitpart.po | 
+ | [sv](/f33/language/sv) | 669 | 669 | 100.0 | /mnt/stockage/packages/f33/kwebkitpart/po/sv/kwebkitpart.po | 
+ | [tr](/f33/language/tr) | 669 | 669 | 100.0 | /mnt/stockage/packages/f33/kwebkitpart/po/tr/kwebkitpart.po | 
+ | [uk](/f33/language/uk) | 669 | 669 | 100.0 | /mnt/stockage/packages/f33/kwebkitpart/po/uk/kwebkitpart.po | 
+ | [zh_Hant](/f33/language/zh_Hant) | 669 | 669 | 100.0 | /mnt/stockage/packages/f33/kwebkitpart/po/zh_TW/kwebkitpart.po | 
+ | [id](/f33/language/id) | 663 | 669 | 99.1 | /mnt/stockage/packages/f33/kwebkitpart/po/id/kwebkitpart.po | 
+ | [et](/f33/language/et) | 624 | 669 | 93.3 | /mnt/stockage/packages/f33/kwebkitpart/po/et/kwebkitpart.po | 
+ | [zh_Hans](/f33/language/zh_Hans) | 624 | 669 | 93.3 | /mnt/stockage/packages/f33/kwebkitpart/po/zh_CN/kwebkitpart.po | 
+ | [cs](/f33/language/cs) | 609 | 669 | 91.0 | /mnt/stockage/packages/f33/kwebkitpart/po/cs/kwebkitpart.po | 
+ | [km](/f33/language/km) | 556 | 669 | 83.1 | /mnt/stockage/packages/f33/kwebkitpart/po/km/kwebkitpart.po | 
+ | [ar](/f33/language/ar) | 536 | 669 | 80.1 | /mnt/stockage/packages/f33/kwebkitpart/po/ar/kwebkitpart.po | 
+ | [ug](/f33/language/ug) | 532 | 669 | 79.5 | /mnt/stockage/packages/f33/kwebkitpart/po/ug/kwebkitpart.po | 
+ | [bg](/f33/language/bg) | 513 | 669 | 76.7 | /mnt/stockage/packages/f33/kwebkitpart/po/bg/kwebkitpart.po | 
+ | [ro](/f33/language/ro) | 480 | 669 | 71.7 | /mnt/stockage/packages/f33/kwebkitpart/po/ro/kwebkitpart.po | 
+ | [ast](/f33/language/ast) | 432 | 669 | 64.6 | /mnt/stockage/packages/f33/kwebkitpart/po/ast/kwebkitpart.po | 
+ | [eu](/f33/language/eu) | 432 | 669 | 64.6 | /mnt/stockage/packages/f33/kwebkitpart/po/eu/kwebkitpart.po | 
+ | [pa](/f33/language/pa) | 417 | 669 | 62.3 | /mnt/stockage/packages/f33/kwebkitpart/po/pa/kwebkitpart.po | 
+ | [ga](/f33/language/ga) | 398 | 669 | 59.5 | /mnt/stockage/packages/f33/kwebkitpart/po/ga/kwebkitpart.po | 
+ | [th](/f33/language/th) | 392 | 669 | 58.6 | /mnt/stockage/packages/f33/kwebkitpart/po/th/kwebkitpart.po | 
+ | [mr](/f33/language/mr) | 328 | 669 | 49.0 | /mnt/stockage/packages/f33/kwebkitpart/po/mr/kwebkitpart.po | 
+ | [eo](/f33/language/eo) | 206 | 669 | 30.8 | /mnt/stockage/packages/f33/kwebkitpart/po/eo/kwebkitpart.po | 
+ | [mai](/f33/language/mai) | 179 | 669 | 26.8 | /mnt/stockage/packages/f33/kwebkitpart/po/mai/kwebkitpart.po | 
+ | [fa](/f33/language/fa) | 178 | 669 | 26.6 | /mnt/stockage/packages/f33/kwebkitpart/po/fa/kwebkitpart.po | 
+ | [tg](/f33/language/tg) | 65 | 669 | 9.7 | /mnt/stockage/packages/f33/kwebkitpart/po/tg/kwebkitpart.po | 
+ | [ms](/f33/language/ms) | 9 | 669 | 1.3 | /mnt/stockage/packages/f33/kwebkitpart/po/ms/kwebkitpart.po | 
+ | [ja](/f33/language/ja) | 0 | 669 | 0.0 | /mnt/stockage/packages/f33/kwebkitpart/po/ja/kwebkitpart.po | 
 {.sortable}
 
 

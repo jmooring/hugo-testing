@@ -18,8 +18,8 @@ The package devscripts (version 2.16.5):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f24/language/de.md" >}}) | 34954 | 44283 | 78.9 | /mnt/stockage/packages/f24/devscripts/po4a/po/de.po | 
- | [fr]({{< ref "/f24/language/fr.md" >}}) | 34954 | 44283 | 78.9 | /mnt/stockage/packages/f24/devscripts/po4a/po/fr.po | 
+ | [de](/f24/language/de) | 34954 | 44283 | 78.9 | /mnt/stockage/packages/f24/devscripts/po4a/po/de.po | 
+ | [fr](/f24/language/fr) | 34954 | 44283 | 78.9 | /mnt/stockage/packages/f24/devscripts/po4a/po/fr.po | 
 {.sortable}
 
 

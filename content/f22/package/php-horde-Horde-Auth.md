@@ -18,17 +18,17 @@ The package php-horde-Horde-Auth (version 2.1.12):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [da]({{< ref "/f22/language/da.md" >}}) | 209 | 209 | 100.0 | /mnt/stockage/packages/f22/php-horde-Horde-Auth/Horde_Auth-2.1.12/locale/da/LC_MESSAGES/Horde_Auth.po | 
- | [de]({{< ref "/f22/language/de.md" >}}) | 209 | 209 | 100.0 | /mnt/stockage/packages/f22/php-horde-Horde-Auth/Horde_Auth-2.1.12/locale/de/LC_MESSAGES/Horde_Auth.po | 
- | [es]({{< ref "/f22/language/es.md" >}}) | 209 | 209 | 100.0 | /mnt/stockage/packages/f22/php-horde-Horde-Auth/Horde_Auth-2.1.12/locale/es/LC_MESSAGES/Horde_Auth.po | 
- | [et]({{< ref "/f22/language/et.md" >}}) | 173 | 173 | 100.0 | /mnt/stockage/packages/f22/php-horde-Horde-Auth/Horde_Auth-2.1.12/locale/et/LC_MESSAGES/Horde_Auth.po | 
- | [fi]({{< ref "/f22/language/fi.md" >}}) | 187 | 187 | 100.0 | /mnt/stockage/packages/f22/php-horde-Horde-Auth/Horde_Auth-2.1.12/locale/fi/LC_MESSAGES/Horde_Auth.po | 
- | [fr]({{< ref "/f22/language/fr.md" >}}) | 187 | 187 | 100.0 | /mnt/stockage/packages/f22/php-horde-Horde-Auth/Horde_Auth-2.1.12/locale/fr/LC_MESSAGES/Horde_Auth.po | 
- | [hu]({{< ref "/f22/language/hu.md" >}}) | 209 | 209 | 100.0 | /mnt/stockage/packages/f22/php-horde-Horde-Auth/Horde_Auth-2.1.12/locale/hu/LC_MESSAGES/Horde_Auth.po | 
- | [ja]({{< ref "/f22/language/ja.md" >}}) | 209 | 209 | 100.0 | /mnt/stockage/packages/f22/php-horde-Horde-Auth/Horde_Auth-2.1.12/locale/ja/LC_MESSAGES/Horde_Auth.po | 
- | [lv]({{< ref "/f22/language/lv.md" >}}) | 173 | 173 | 100.0 | /mnt/stockage/packages/f22/php-horde-Horde-Auth/Horde_Auth-2.1.12/locale/lv/LC_MESSAGES/Horde_Auth.po | 
- | [pl]({{< ref "/f22/language/pl.md" >}}) | 209 | 209 | 100.0 | /mnt/stockage/packages/f22/php-horde-Horde-Auth/Horde_Auth-2.1.12/locale/pl/LC_MESSAGES/Horde_Auth.po | 
- | [eu]({{< ref "/f22/language/eu.md" >}}) | 21 | 187 | 11.2 | /mnt/stockage/packages/f22/php-horde-Horde-Auth/Horde_Auth-2.1.12/locale/eu/LC_MESSAGES/Horde_Auth.po | 
+ | [da](/f22/language/da) | 209 | 209 | 100.0 | /mnt/stockage/packages/f22/php-horde-Horde-Auth/Horde_Auth-2.1.12/locale/da/LC_MESSAGES/Horde_Auth.po | 
+ | [de](/f22/language/de) | 209 | 209 | 100.0 | /mnt/stockage/packages/f22/php-horde-Horde-Auth/Horde_Auth-2.1.12/locale/de/LC_MESSAGES/Horde_Auth.po | 
+ | [es](/f22/language/es) | 209 | 209 | 100.0 | /mnt/stockage/packages/f22/php-horde-Horde-Auth/Horde_Auth-2.1.12/locale/es/LC_MESSAGES/Horde_Auth.po | 
+ | [et](/f22/language/et) | 173 | 173 | 100.0 | /mnt/stockage/packages/f22/php-horde-Horde-Auth/Horde_Auth-2.1.12/locale/et/LC_MESSAGES/Horde_Auth.po | 
+ | [fi](/f22/language/fi) | 187 | 187 | 100.0 | /mnt/stockage/packages/f22/php-horde-Horde-Auth/Horde_Auth-2.1.12/locale/fi/LC_MESSAGES/Horde_Auth.po | 
+ | [fr](/f22/language/fr) | 187 | 187 | 100.0 | /mnt/stockage/packages/f22/php-horde-Horde-Auth/Horde_Auth-2.1.12/locale/fr/LC_MESSAGES/Horde_Auth.po | 
+ | [hu](/f22/language/hu) | 209 | 209 | 100.0 | /mnt/stockage/packages/f22/php-horde-Horde-Auth/Horde_Auth-2.1.12/locale/hu/LC_MESSAGES/Horde_Auth.po | 
+ | [ja](/f22/language/ja) | 209 | 209 | 100.0 | /mnt/stockage/packages/f22/php-horde-Horde-Auth/Horde_Auth-2.1.12/locale/ja/LC_MESSAGES/Horde_Auth.po | 
+ | [lv](/f22/language/lv) | 173 | 173 | 100.0 | /mnt/stockage/packages/f22/php-horde-Horde-Auth/Horde_Auth-2.1.12/locale/lv/LC_MESSAGES/Horde_Auth.po | 
+ | [pl](/f22/language/pl) | 209 | 209 | 100.0 | /mnt/stockage/packages/f22/php-horde-Horde-Auth/Horde_Auth-2.1.12/locale/pl/LC_MESSAGES/Horde_Auth.po | 
+ | [eu](/f22/language/eu) | 21 | 187 | 11.2 | /mnt/stockage/packages/f22/php-horde-Horde-Auth/Horde_Auth-2.1.12/locale/eu/LC_MESSAGES/Horde_Auth.po | 
 {.sortable}
 
 

@@ -18,21 +18,21 @@ The package xine-ui (version 0.99.14):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [nl]({{< ref "/f42/language/nl.md" >}}) | 3879 | 3879 | 100.0 | /mnt/stockage/packages/f42/xine-ui/po/nl.po | 
- | [de]({{< ref "/f42/language/de.md" >}}) | 3940 | 3975 | 99.1 | /mnt/stockage/packages/f42/xine-ui/po/de.po/mnt/stockage/packages/f42/xine-ui/src/xitk/xine-toolkit/po/de.po | 
- | [fr]({{< ref "/f42/language/fr.md" >}}) | 3030 | 3975 | 76.2 | /mnt/stockage/packages/f42/xine-ui/po/fr.po/mnt/stockage/packages/f42/xine-ui/src/xitk/xine-toolkit/po/fr.po | 
- | [eo]({{< ref "/f42/language/eo.md" >}}) | 2879 | 3879 | 74.2 | /mnt/stockage/packages/f42/xine-ui/po/eo.po | 
- | [cs]({{< ref "/f42/language/cs.md" >}}) | 2948 | 3975 | 74.2 | /mnt/stockage/packages/f42/xine-ui/po/cs.po/mnt/stockage/packages/f42/xine-ui/src/xitk/xine-toolkit/po/cs.po | 
- | [it]({{< ref "/f42/language/it.md" >}}) | 2899 | 3975 | 72.9 | /mnt/stockage/packages/f42/xine-ui/po/it.po/mnt/stockage/packages/f42/xine-ui/src/xitk/xine-toolkit/po/it.po | 
- | [es]({{< ref "/f42/language/es.md" >}}) | 2888 | 3975 | 72.7 | /mnt/stockage/packages/f42/xine-ui/po/es.po/mnt/stockage/packages/f42/xine-ui/src/xitk/xine-toolkit/po/es.po | 
- | [ja]({{< ref "/f42/language/ja.md" >}}) | 2864 | 3975 | 72.1 | /mnt/stockage/packages/f42/xine-ui/po/ja.po/mnt/stockage/packages/f42/xine-ui/src/xitk/xine-toolkit/po/ja.po | 
- | [nb_NO]({{< ref "/f42/language/nb_NO.md" >}}) | 2787 | 3975 | 70.1 | /mnt/stockage/packages/f42/xine-ui/po/nb.po/mnt/stockage/packages/f42/xine-ui/src/xitk/xine-toolkit/po/nb.po | 
- | [eu]({{< ref "/f42/language/eu.md" >}}) | 2760 | 3975 | 69.4 | /mnt/stockage/packages/f42/xine-ui/po/eu.po/mnt/stockage/packages/f42/xine-ui/src/xitk/xine-toolkit/po/eu.po | 
- | [ru]({{< ref "/f42/language/ru.md" >}}) | 2736 | 3975 | 68.8 | /mnt/stockage/packages/f42/xine-ui/po/ru.po/mnt/stockage/packages/f42/xine-ui/src/xitk/xine-toolkit/po/ru.po | 
- | [pl]({{< ref "/f42/language/pl.md" >}}) | 2623 | 3975 | 66.0 | /mnt/stockage/packages/f42/xine-ui/po/pl.po/mnt/stockage/packages/f42/xine-ui/src/xitk/xine-toolkit/po/pl.po | 
- | [sk]({{< ref "/f42/language/sk.md" >}}) | 2548 | 3975 | 64.1 | /mnt/stockage/packages/f42/xine-ui/po/sk.po/mnt/stockage/packages/f42/xine-ui/src/xitk/xine-toolkit/po/sk.po | 
- | [pt_BR]({{< ref "/f42/language/pt_BR.md" >}}) | 1698 | 3975 | 42.7 | /mnt/stockage/packages/f42/xine-ui/po/pt_BR.po/mnt/stockage/packages/f42/xine-ui/src/xitk/xine-toolkit/po/pt_BR.po | 
- | [uk]({{< ref "/f42/language/uk.md" >}}) | 377 | 3975 | 9.5 | /mnt/stockage/packages/f42/xine-ui/po/uk.po/mnt/stockage/packages/f42/xine-ui/src/xitk/xine-toolkit/po/uk.po | 
+ | [nl](/f42/language/nl) | 3879 | 3879 | 100.0 | /mnt/stockage/packages/f42/xine-ui/po/nl.po | 
+ | [de](/f42/language/de) | 3940 | 3975 | 99.1 | /mnt/stockage/packages/f42/xine-ui/po/de.po/mnt/stockage/packages/f42/xine-ui/src/xitk/xine-toolkit/po/de.po | 
+ | [fr](/f42/language/fr) | 3030 | 3975 | 76.2 | /mnt/stockage/packages/f42/xine-ui/po/fr.po/mnt/stockage/packages/f42/xine-ui/src/xitk/xine-toolkit/po/fr.po | 
+ | [eo](/f42/language/eo) | 2879 | 3879 | 74.2 | /mnt/stockage/packages/f42/xine-ui/po/eo.po | 
+ | [cs](/f42/language/cs) | 2948 | 3975 | 74.2 | /mnt/stockage/packages/f42/xine-ui/po/cs.po/mnt/stockage/packages/f42/xine-ui/src/xitk/xine-toolkit/po/cs.po | 
+ | [it](/f42/language/it) | 2899 | 3975 | 72.9 | /mnt/stockage/packages/f42/xine-ui/po/it.po/mnt/stockage/packages/f42/xine-ui/src/xitk/xine-toolkit/po/it.po | 
+ | [es](/f42/language/es) | 2888 | 3975 | 72.7 | /mnt/stockage/packages/f42/xine-ui/po/es.po/mnt/stockage/packages/f42/xine-ui/src/xitk/xine-toolkit/po/es.po | 
+ | [ja](/f42/language/ja) | 2864 | 3975 | 72.1 | /mnt/stockage/packages/f42/xine-ui/po/ja.po/mnt/stockage/packages/f42/xine-ui/src/xitk/xine-toolkit/po/ja.po | 
+ | [nb_NO](/f42/language/nb_NO) | 2787 | 3975 | 70.1 | /mnt/stockage/packages/f42/xine-ui/po/nb.po/mnt/stockage/packages/f42/xine-ui/src/xitk/xine-toolkit/po/nb.po | 
+ | [eu](/f42/language/eu) | 2760 | 3975 | 69.4 | /mnt/stockage/packages/f42/xine-ui/po/eu.po/mnt/stockage/packages/f42/xine-ui/src/xitk/xine-toolkit/po/eu.po | 
+ | [ru](/f42/language/ru) | 2736 | 3975 | 68.8 | /mnt/stockage/packages/f42/xine-ui/po/ru.po/mnt/stockage/packages/f42/xine-ui/src/xitk/xine-toolkit/po/ru.po | 
+ | [pl](/f42/language/pl) | 2623 | 3975 | 66.0 | /mnt/stockage/packages/f42/xine-ui/po/pl.po/mnt/stockage/packages/f42/xine-ui/src/xitk/xine-toolkit/po/pl.po | 
+ | [sk](/f42/language/sk) | 2548 | 3975 | 64.1 | /mnt/stockage/packages/f42/xine-ui/po/sk.po/mnt/stockage/packages/f42/xine-ui/src/xitk/xine-toolkit/po/sk.po | 
+ | [pt_BR](/f42/language/pt_BR) | 1698 | 3975 | 42.7 | /mnt/stockage/packages/f42/xine-ui/po/pt_BR.po/mnt/stockage/packages/f42/xine-ui/src/xitk/xine-toolkit/po/pt_BR.po | 
+ | [uk](/f42/language/uk) | 377 | 3975 | 9.5 | /mnt/stockage/packages/f42/xine-ui/po/uk.po/mnt/stockage/packages/f42/xine-ui/src/xitk/xine-toolkit/po/uk.po | 
 {.sortable}
 
 

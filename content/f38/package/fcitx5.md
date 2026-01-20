@@ -18,18 +18,18 @@ The package fcitx5 (version 5.1.7):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ru]({{< ref "/f38/language/ru.md" >}}) | 2695 | 2695 | 100.0 | /mnt/stockage/packages/f38/fcitx5/po/ru.po | 
- | [zh_Hans]({{< ref "/f38/language/zh_Hans.md" >}}) | 2695 | 2695 | 100.0 | /mnt/stockage/packages/f38/fcitx5/po/zh_CN.po | 
- | [ja]({{< ref "/f38/language/ja.md" >}}) | 2690 | 2695 | 99.8 | /mnt/stockage/packages/f38/fcitx5/po/ja.po | 
- | [zh_Hant]({{< ref "/f38/language/zh_Hant.md" >}}) | 2690 | 2695 | 99.8 | /mnt/stockage/packages/f38/fcitx5/po/zh_TW.po | 
- | [fr]({{< ref "/f38/language/fr.md" >}}) | 2052 | 2695 | 76.1 | /mnt/stockage/packages/f38/fcitx5/po/fr.po | 
- | [ko]({{< ref "/f38/language/ko.md" >}}) | 2037 | 2695 | 75.6 | /mnt/stockage/packages/f38/fcitx5/po/ko.po | 
- | [da]({{< ref "/f38/language/da.md" >}}) | 1779 | 2695 | 66.0 | /mnt/stockage/packages/f38/fcitx5/po/da.po | 
- | [de]({{< ref "/f38/language/de.md" >}}) | 1068 | 2695 | 39.6 | /mnt/stockage/packages/f38/fcitx5/po/de.po | 
- | [vi]({{< ref "/f38/language/vi.md" >}}) | 774 | 2695 | 28.7 | /mnt/stockage/packages/f38/fcitx5/po/vi.po | 
- | [ca]({{< ref "/f38/language/ca.md" >}}) | 237 | 2695 | 8.8 | /mnt/stockage/packages/f38/fcitx5/po/ca.po | 
- | [he]({{< ref "/f38/language/he.md" >}}) | 47 | 2695 | 1.7 | /mnt/stockage/packages/f38/fcitx5/po/he.po | 
- | [es]({{< ref "/f38/language/es.md" >}}) | 2 | 2695 | 0.1 | /mnt/stockage/packages/f38/fcitx5/po/es.po | 
+ | [ru](/f38/language/ru) | 2695 | 2695 | 100.0 | /mnt/stockage/packages/f38/fcitx5/po/ru.po | 
+ | [zh_Hans](/f38/language/zh_Hans) | 2695 | 2695 | 100.0 | /mnt/stockage/packages/f38/fcitx5/po/zh_CN.po | 
+ | [ja](/f38/language/ja) | 2690 | 2695 | 99.8 | /mnt/stockage/packages/f38/fcitx5/po/ja.po | 
+ | [zh_Hant](/f38/language/zh_Hant) | 2690 | 2695 | 99.8 | /mnt/stockage/packages/f38/fcitx5/po/zh_TW.po | 
+ | [fr](/f38/language/fr) | 2052 | 2695 | 76.1 | /mnt/stockage/packages/f38/fcitx5/po/fr.po | 
+ | [ko](/f38/language/ko) | 2037 | 2695 | 75.6 | /mnt/stockage/packages/f38/fcitx5/po/ko.po | 
+ | [da](/f38/language/da) | 1779 | 2695 | 66.0 | /mnt/stockage/packages/f38/fcitx5/po/da.po | 
+ | [de](/f38/language/de) | 1068 | 2695 | 39.6 | /mnt/stockage/packages/f38/fcitx5/po/de.po | 
+ | [vi](/f38/language/vi) | 774 | 2695 | 28.7 | /mnt/stockage/packages/f38/fcitx5/po/vi.po | 
+ | [ca](/f38/language/ca) | 237 | 2695 | 8.8 | /mnt/stockage/packages/f38/fcitx5/po/ca.po | 
+ | [he](/f38/language/he) | 47 | 2695 | 1.7 | /mnt/stockage/packages/f38/fcitx5/po/he.po | 
+ | [es](/f38/language/es) | 2 | 2695 | 0.1 | /mnt/stockage/packages/f38/fcitx5/po/es.po | 
 {.sortable}
 
 

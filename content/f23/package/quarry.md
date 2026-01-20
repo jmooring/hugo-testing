@@ -18,11 +18,11 @@ The package quarry (version 0.2.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [en]({{< ref "/f23/language/en.md" >}}) | 1807 | 1807 | 100.0 | /mnt/stockage/packages/f23/quarry/po/en.po | 
- | [en_GB]({{< ref "/f23/language/en_GB.md" >}}) | 1807 | 1807 | 100.0 | /mnt/stockage/packages/f23/quarry/po/en_GB.po | 
- | [fr]({{< ref "/f23/language/fr.md" >}}) | 1807 | 1807 | 100.0 | /mnt/stockage/packages/f23/quarry/po/fr.po | 
- | [ru]({{< ref "/f23/language/ru.md" >}}) | 1807 | 1807 | 100.0 | /mnt/stockage/packages/f23/quarry/po/ru.po | 
- | [pl]({{< ref "/f23/language/pl.md" >}}) | 1802 | 1807 | 99.7 | /mnt/stockage/packages/f23/quarry/po/pl.po | 
+ | [en](/f23/language/en) | 1807 | 1807 | 100.0 | /mnt/stockage/packages/f23/quarry/po/en.po | 
+ | [en_GB](/f23/language/en_GB) | 1807 | 1807 | 100.0 | /mnt/stockage/packages/f23/quarry/po/en_GB.po | 
+ | [fr](/f23/language/fr) | 1807 | 1807 | 100.0 | /mnt/stockage/packages/f23/quarry/po/fr.po | 
+ | [ru](/f23/language/ru) | 1807 | 1807 | 100.0 | /mnt/stockage/packages/f23/quarry/po/ru.po | 
+ | [pl](/f23/language/pl) | 1802 | 1807 | 99.7 | /mnt/stockage/packages/f23/quarry/po/pl.po | 
 {.sortable}
 
 

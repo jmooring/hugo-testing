@@ -18,17 +18,17 @@ The package proftpd (version 1.3.9):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [es]({{< ref "/f42/language/es.md" >}}) | 1100 | 1100 | 100.0 | /mnt/stockage/packages/f42/proftpd/locale/es_ES.po | 
- | [fr]({{< ref "/f42/language/fr.md" >}}) | 771 | 771 | 100.0 | /mnt/stockage/packages/f42/proftpd/locale/fr_FR.po | 
- | [it]({{< ref "/f42/language/it.md" >}}) | 823 | 823 | 100.0 | /mnt/stockage/packages/f42/proftpd/locale/it_IT.po | 
- | [ko]({{< ref "/f42/language/ko.md" >}}) | 823 | 823 | 100.0 | /mnt/stockage/packages/f42/proftpd/locale/ko_KR.po | 
- | [pl]({{< ref "/f42/language/pl.md" >}}) | 1100 | 1100 | 100.0 | /mnt/stockage/packages/f42/proftpd/locale/pl_PL.po | 
- | [ru]({{< ref "/f42/language/ru.md" >}}) | 615 | 615 | 100.0 | /mnt/stockage/packages/f42/proftpd/locale/ru_RU.po | 
- | [zh_Hans]({{< ref "/f42/language/zh_Hans.md" >}}) | 823 | 823 | 100.0 | /mnt/stockage/packages/f42/proftpd/locale/zh_CN.po | 
- | [zh_Hant]({{< ref "/f42/language/zh_Hant.md" >}}) | 823 | 823 | 100.0 | /mnt/stockage/packages/f42/proftpd/locale/zh_TW.po | 
- | [ja]({{< ref "/f42/language/ja.md" >}}) | 814 | 833 | 97.7 | /mnt/stockage/packages/f42/proftpd/locale/ja_JP.po | 
- | [bg]({{< ref "/f42/language/bg.md" >}}) | 1061 | 1100 | 96.5 | /mnt/stockage/packages/f42/proftpd/locale/bg_BG.po | 
- | [en_US]({{< ref "/f42/language/en_US.md" >}}) | 0 | 1100 | 0.0 | /mnt/stockage/packages/f42/proftpd/locale/en_US.po | 
+ | [es](/f42/language/es) | 1100 | 1100 | 100.0 | /mnt/stockage/packages/f42/proftpd/locale/es_ES.po | 
+ | [fr](/f42/language/fr) | 771 | 771 | 100.0 | /mnt/stockage/packages/f42/proftpd/locale/fr_FR.po | 
+ | [it](/f42/language/it) | 823 | 823 | 100.0 | /mnt/stockage/packages/f42/proftpd/locale/it_IT.po | 
+ | [ko](/f42/language/ko) | 823 | 823 | 100.0 | /mnt/stockage/packages/f42/proftpd/locale/ko_KR.po | 
+ | [pl](/f42/language/pl) | 1100 | 1100 | 100.0 | /mnt/stockage/packages/f42/proftpd/locale/pl_PL.po | 
+ | [ru](/f42/language/ru) | 615 | 615 | 100.0 | /mnt/stockage/packages/f42/proftpd/locale/ru_RU.po | 
+ | [zh_Hans](/f42/language/zh_Hans) | 823 | 823 | 100.0 | /mnt/stockage/packages/f42/proftpd/locale/zh_CN.po | 
+ | [zh_Hant](/f42/language/zh_Hant) | 823 | 823 | 100.0 | /mnt/stockage/packages/f42/proftpd/locale/zh_TW.po | 
+ | [ja](/f42/language/ja) | 814 | 833 | 97.7 | /mnt/stockage/packages/f42/proftpd/locale/ja_JP.po | 
+ | [bg](/f42/language/bg) | 1061 | 1100 | 96.5 | /mnt/stockage/packages/f42/proftpd/locale/bg_BG.po | 
+ | [en_US](/f42/language/en_US) | 0 | 1100 | 0.0 | /mnt/stockage/packages/f42/proftpd/locale/en_US.po | 
 {.sortable}
 
 

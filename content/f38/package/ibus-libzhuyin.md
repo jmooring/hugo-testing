@@ -18,10 +18,10 @@ The package ibus-libzhuyin (version 1.10.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f38/language/de.md" >}}) | 213 | 213 | 100.0 | /mnt/stockage/packages/f38/ibus-libzhuyin/po/de.po | 
- | [zh_Hans]({{< ref "/f38/language/zh_Hans.md" >}}) | 213 | 213 | 100.0 | /mnt/stockage/packages/f38/ibus-libzhuyin/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f38/language/zh_Hant.md" >}}) | 204 | 213 | 95.8 | /mnt/stockage/packages/f38/ibus-libzhuyin/po/zh_TW.po | 
- | [zh_Hant_HK]({{< ref "/f38/language/zh_Hant_HK.md" >}}) | 142 | 213 | 66.7 | /mnt/stockage/packages/f38/ibus-libzhuyin/po/zh_HK.po | 
+ | [de](/f38/language/de) | 213 | 213 | 100.0 | /mnt/stockage/packages/f38/ibus-libzhuyin/po/de.po | 
+ | [zh_Hans](/f38/language/zh_Hans) | 213 | 213 | 100.0 | /mnt/stockage/packages/f38/ibus-libzhuyin/po/zh_CN.po | 
+ | [zh_Hant](/f38/language/zh_Hant) | 204 | 213 | 95.8 | /mnt/stockage/packages/f38/ibus-libzhuyin/po/zh_TW.po | 
+ | [zh_Hant_HK](/f38/language/zh_Hant_HK) | 142 | 213 | 66.7 | /mnt/stockage/packages/f38/ibus-libzhuyin/po/zh_HK.po | 
 {.sortable}
 
 

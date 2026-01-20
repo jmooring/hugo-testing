@@ -18,8 +18,8 @@ The package beldi (version 0.9.26):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f18/language/de.md" >}}) | 116 | 135 | 85.9 | /mnt/stockage/packages/f18/beldi/po/de.po | 
- | [fr]({{< ref "/f18/language/fr.md" >}}) | 91 | 135 | 67.4 | /mnt/stockage/packages/f18/beldi/po/fr.po | 
+ | [de](/f18/language/de) | 116 | 135 | 85.9 | /mnt/stockage/packages/f18/beldi/po/de.po | 
+ | [fr](/f18/language/fr) | 91 | 135 | 67.4 | /mnt/stockage/packages/f18/beldi/po/fr.po | 
 {.sortable}
 
 

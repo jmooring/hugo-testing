@@ -18,8 +18,8 @@ The package bear-factory (version 0.7.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f37/language/fr.md" >}}) | 4504 | 5540 | 81.3 | /mnt/stockage/packages/f37/bear-factory/bear-engine/desktop/locale/bear-engine/fr.po/mnt/stockage/packages/f37/bear-factory/bear-factory/desktop/locale/bear-factory/fr.po | 
- | [nn]({{< ref "/f37/language/nn.md" >}}) | 742 | 5540 | 13.4 | /mnt/stockage/packages/f37/bear-factory/bear-engine/desktop/locale/bear-engine/nn.po/mnt/stockage/packages/f37/bear-factory/bear-factory/desktop/locale/bear-factory/nn.po | 
+ | [fr](/f37/language/fr) | 4504 | 5540 | 81.3 | /mnt/stockage/packages/f37/bear-factory/bear-engine/desktop/locale/bear-engine/fr.po/mnt/stockage/packages/f37/bear-factory/bear-factory/desktop/locale/bear-factory/fr.po | 
+ | [nn](/f37/language/nn) | 742 | 5540 | 13.4 | /mnt/stockage/packages/f37/bear-factory/bear-engine/desktop/locale/bear-engine/nn.po/mnt/stockage/packages/f37/bear-factory/bear-factory/desktop/locale/bear-factory/nn.po | 
 {.sortable}
 
 

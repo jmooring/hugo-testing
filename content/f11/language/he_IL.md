@@ -38,12 +38,12 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [gnomesword]({{< ref "/f11/package/gnomesword.md" >}}) | 2415 | 2415 | 100.0 | GnomeSword Translation Team | 
- | [filezilla]({{< ref "/f11/package/filezilla.md" >}}) | 7866 | 8135 | 96.7 | ABZPMGDNHM7 (please do not remove) | 
- | [squirrelmail]({{< ref "/f11/package/squirrelmail.md" >}}) | 2440 | 6878 | 35.5 | HEBREW <squirrelmail-i18n@lists.sourceforge.net> | 
- | [horde]({{< ref "/f11/package/horde.md" >}}) | 209 | 7103 | 2.9 | i18n@lists.horde.org | 
- | [imp]({{< ref "/f11/package/imp.md" >}}) | 73 | 5647 | 1.3 | i18n@lists.horde.org | 
- | [publican]({{< ref "/f11/package/publican.md" >}}) | 0 | 16 | 0.0 | None | 
+ | [gnomesword](/f11/package/gnomesword) | 2415 | 2415 | 100.0 | GnomeSword Translation Team | 
+ | [filezilla](/f11/package/filezilla) | 7866 | 8135 | 96.7 | ABZPMGDNHM7 (please do not remove) | 
+ | [squirrelmail](/f11/package/squirrelmail) | 2440 | 6878 | 35.5 | HEBREW <squirrelmail-i18n@lists.sourceforge.net> | 
+ | [horde](/f11/package/horde) | 209 | 7103 | 2.9 | i18n@lists.horde.org | 
+ | [imp](/f11/package/imp) | 73 | 5647 | 1.3 | i18n@lists.horde.org | 
+ | [publican](/f11/package/publican) | 0 | 16 | 0.0 | None | 
 {.sortable}
 
 

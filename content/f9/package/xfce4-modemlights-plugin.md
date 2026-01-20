@@ -18,17 +18,17 @@ The package xfce4-modemlights-plugin (version 0.1.3.99):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f9/language/fr.md" >}}) | 136 | 136 | 100.0 | /mnt/stockage/packages/f9/xfce4-modemlights-plugin/po/fr.po | 
- | [ca]({{< ref "/f9/language/ca.md" >}}) | 22 | 136 | 16.2 | /mnt/stockage/packages/f9/xfce4-modemlights-plugin/po/ca.po | 
- | [cs]({{< ref "/f9/language/cs.md" >}}) | 22 | 136 | 16.2 | /mnt/stockage/packages/f9/xfce4-modemlights-plugin/po/cs.po | 
- | [eu]({{< ref "/f9/language/eu.md" >}}) | 22 | 136 | 16.2 | /mnt/stockage/packages/f9/xfce4-modemlights-plugin/po/eu.po | 
- | [hu]({{< ref "/f9/language/hu.md" >}}) | 22 | 136 | 16.2 | /mnt/stockage/packages/f9/xfce4-modemlights-plugin/po/hu.po | 
- | [ja]({{< ref "/f9/language/ja.md" >}}) | 22 | 136 | 16.2 | /mnt/stockage/packages/f9/xfce4-modemlights-plugin/po/ja.po | 
- | [ko]({{< ref "/f9/language/ko.md" >}}) | 22 | 136 | 16.2 | /mnt/stockage/packages/f9/xfce4-modemlights-plugin/po/ko.po | 
- | [nl]({{< ref "/f9/language/nl.md" >}}) | 22 | 136 | 16.2 | /mnt/stockage/packages/f9/xfce4-modemlights-plugin/po/nl.po | 
- | [pl]({{< ref "/f9/language/pl.md" >}}) | 22 | 136 | 16.2 | /mnt/stockage/packages/f9/xfce4-modemlights-plugin/po/pl.po | 
- | [vi]({{< ref "/f9/language/vi.md" >}}) | 22 | 136 | 16.2 | /mnt/stockage/packages/f9/xfce4-modemlights-plugin/po/vi.po | 
- | [zh_Hant]({{< ref "/f9/language/zh_Hant.md" >}}) | 22 | 136 | 16.2 | /mnt/stockage/packages/f9/xfce4-modemlights-plugin/po/zh_TW.po | 
+ | [fr](/f9/language/fr) | 136 | 136 | 100.0 | /mnt/stockage/packages/f9/xfce4-modemlights-plugin/po/fr.po | 
+ | [ca](/f9/language/ca) | 22 | 136 | 16.2 | /mnt/stockage/packages/f9/xfce4-modemlights-plugin/po/ca.po | 
+ | [cs](/f9/language/cs) | 22 | 136 | 16.2 | /mnt/stockage/packages/f9/xfce4-modemlights-plugin/po/cs.po | 
+ | [eu](/f9/language/eu) | 22 | 136 | 16.2 | /mnt/stockage/packages/f9/xfce4-modemlights-plugin/po/eu.po | 
+ | [hu](/f9/language/hu) | 22 | 136 | 16.2 | /mnt/stockage/packages/f9/xfce4-modemlights-plugin/po/hu.po | 
+ | [ja](/f9/language/ja) | 22 | 136 | 16.2 | /mnt/stockage/packages/f9/xfce4-modemlights-plugin/po/ja.po | 
+ | [ko](/f9/language/ko) | 22 | 136 | 16.2 | /mnt/stockage/packages/f9/xfce4-modemlights-plugin/po/ko.po | 
+ | [nl](/f9/language/nl) | 22 | 136 | 16.2 | /mnt/stockage/packages/f9/xfce4-modemlights-plugin/po/nl.po | 
+ | [pl](/f9/language/pl) | 22 | 136 | 16.2 | /mnt/stockage/packages/f9/xfce4-modemlights-plugin/po/pl.po | 
+ | [vi](/f9/language/vi) | 22 | 136 | 16.2 | /mnt/stockage/packages/f9/xfce4-modemlights-plugin/po/vi.po | 
+ | [zh_Hant](/f9/language/zh_Hant) | 22 | 136 | 16.2 | /mnt/stockage/packages/f9/xfce4-modemlights-plugin/po/zh_TW.po | 
 {.sortable}
 
 

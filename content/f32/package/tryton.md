@@ -18,28 +18,28 @@ The package tryton (version 5.4.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f32/language/ca.md" >}}) | 835 | 835 | 100.0 | /mnt/stockage/packages/f32/tryton/tryton/data/locale/ca/LC_MESSAGES/tryton.po | 
- | [de]({{< ref "/f32/language/de.md" >}}) | 835 | 835 | 100.0 | /mnt/stockage/packages/f32/tryton/tryton/data/locale/de/LC_MESSAGES/tryton.po | 
- | [es]({{< ref "/f32/language/es.md" >}}) | 835 | 835 | 100.0 | /mnt/stockage/packages/f32/tryton/tryton/data/locale/es/LC_MESSAGES/tryton.po | 
- | [fr]({{< ref "/f32/language/fr.md" >}}) | 835 | 835 | 100.0 | /mnt/stockage/packages/f32/tryton/tryton/data/locale/fr/LC_MESSAGES/tryton.po | 
- | [pt]({{< ref "/f32/language/pt.md" >}}) | 784 | 835 | 93.9 | /mnt/stockage/packages/f32/tryton/tryton/data/locale/pt/LC_MESSAGES/tryton.po | 
- | [lt]({{< ref "/f32/language/lt.md" >}}) | 754 | 835 | 90.3 | /mnt/stockage/packages/f32/tryton/tryton/data/locale/lt/LC_MESSAGES/tryton.po | 
- | [pl]({{< ref "/f32/language/pl.md" >}}) | 754 | 835 | 90.3 | /mnt/stockage/packages/f32/tryton/tryton/data/locale/pl/LC_MESSAGES/tryton.po | 
- | [fa]({{< ref "/f32/language/fa.md" >}}) | 752 | 835 | 90.1 | /mnt/stockage/packages/f32/tryton/tryton/data/locale/fa/LC_MESSAGES/tryton.po | 
- | [et]({{< ref "/f32/language/et.md" >}}) | 719 | 835 | 86.1 | /mnt/stockage/packages/f32/tryton/tryton/data/locale/et/LC_MESSAGES/tryton.po | 
- | [es_419]({{< ref "/f32/language/es_419.md" >}}) | 691 | 835 | 82.8 | /mnt/stockage/packages/f32/tryton/tryton/data/locale/es_419/LC_MESSAGES/tryton.po | 
- | [zh_Hans]({{< ref "/f32/language/zh_Hans.md" >}}) | 664 | 835 | 79.5 | /mnt/stockage/packages/f32/tryton/tryton/data/locale/zh_CN/LC_MESSAGES/tryton.po | 
- | [sl]({{< ref "/f32/language/sl.md" >}}) | 644 | 835 | 77.1 | /mnt/stockage/packages/f32/tryton/tryton/data/locale/sl/LC_MESSAGES/tryton.po | 
- | [lo]({{< ref "/f32/language/lo.md" >}}) | 631 | 835 | 75.6 | /mnt/stockage/packages/f32/tryton/tryton/data/locale/lo/LC_MESSAGES/tryton.po | 
- | [hu]({{< ref "/f32/language/hu.md" >}}) | 425 | 835 | 50.9 | /mnt/stockage/packages/f32/tryton/tryton/data/locale/hu/LC_MESSAGES/tryton.po | 
- | [it]({{< ref "/f32/language/it.md" >}}) | 424 | 835 | 50.8 | /mnt/stockage/packages/f32/tryton/tryton/data/locale/it/LC_MESSAGES/tryton.po | 
- | [ru]({{< ref "/f32/language/ru.md" >}}) | 374 | 835 | 44.8 | /mnt/stockage/packages/f32/tryton/tryton/data/locale/ru/LC_MESSAGES/tryton.po | 
- | [bg]({{< ref "/f32/language/bg.md" >}}) | 325 | 835 | 38.9 | /mnt/stockage/packages/f32/tryton/tryton/data/locale/bg/LC_MESSAGES/tryton.po | 
- | [ja]({{< ref "/f32/language/ja.md" >}}) | 278 | 846 | 32.9 | /mnt/stockage/packages/f32/tryton/tryton/data/locale/ja_JP/LC_MESSAGES/tryton.po | 
- | [nl]({{< ref "/f32/language/nl.md" >}}) | 234 | 835 | 28.0 | /mnt/stockage/packages/f32/tryton/tryton/data/locale/nl/LC_MESSAGES/tryton.po | 
- | [cs]({{< ref "/f32/language/cs.md" >}}) | 205 | 835 | 24.6 | /mnt/stockage/packages/f32/tryton/tryton/data/locale/cs/LC_MESSAGES/tryton.po | 
- | [tr]({{< ref "/f32/language/tr.md" >}}) | 66 | 835 | 7.9 | /mnt/stockage/packages/f32/tryton/tryton/data/locale/tr/LC_MESSAGES/tryton.po | 
- | [fi]({{< ref "/f32/language/fi.md" >}}) | 0 | 835 | 0.0 | /mnt/stockage/packages/f32/tryton/tryton/data/locale/fi/LC_MESSAGES/tryton.po | 
+ | [ca](/f32/language/ca) | 835 | 835 | 100.0 | /mnt/stockage/packages/f32/tryton/tryton/data/locale/ca/LC_MESSAGES/tryton.po | 
+ | [de](/f32/language/de) | 835 | 835 | 100.0 | /mnt/stockage/packages/f32/tryton/tryton/data/locale/de/LC_MESSAGES/tryton.po | 
+ | [es](/f32/language/es) | 835 | 835 | 100.0 | /mnt/stockage/packages/f32/tryton/tryton/data/locale/es/LC_MESSAGES/tryton.po | 
+ | [fr](/f32/language/fr) | 835 | 835 | 100.0 | /mnt/stockage/packages/f32/tryton/tryton/data/locale/fr/LC_MESSAGES/tryton.po | 
+ | [pt](/f32/language/pt) | 784 | 835 | 93.9 | /mnt/stockage/packages/f32/tryton/tryton/data/locale/pt/LC_MESSAGES/tryton.po | 
+ | [lt](/f32/language/lt) | 754 | 835 | 90.3 | /mnt/stockage/packages/f32/tryton/tryton/data/locale/lt/LC_MESSAGES/tryton.po | 
+ | [pl](/f32/language/pl) | 754 | 835 | 90.3 | /mnt/stockage/packages/f32/tryton/tryton/data/locale/pl/LC_MESSAGES/tryton.po | 
+ | [fa](/f32/language/fa) | 752 | 835 | 90.1 | /mnt/stockage/packages/f32/tryton/tryton/data/locale/fa/LC_MESSAGES/tryton.po | 
+ | [et](/f32/language/et) | 719 | 835 | 86.1 | /mnt/stockage/packages/f32/tryton/tryton/data/locale/et/LC_MESSAGES/tryton.po | 
+ | [es_419](/f32/language/es_419) | 691 | 835 | 82.8 | /mnt/stockage/packages/f32/tryton/tryton/data/locale/es_419/LC_MESSAGES/tryton.po | 
+ | [zh_Hans](/f32/language/zh_Hans) | 664 | 835 | 79.5 | /mnt/stockage/packages/f32/tryton/tryton/data/locale/zh_CN/LC_MESSAGES/tryton.po | 
+ | [sl](/f32/language/sl) | 644 | 835 | 77.1 | /mnt/stockage/packages/f32/tryton/tryton/data/locale/sl/LC_MESSAGES/tryton.po | 
+ | [lo](/f32/language/lo) | 631 | 835 | 75.6 | /mnt/stockage/packages/f32/tryton/tryton/data/locale/lo/LC_MESSAGES/tryton.po | 
+ | [hu](/f32/language/hu) | 425 | 835 | 50.9 | /mnt/stockage/packages/f32/tryton/tryton/data/locale/hu/LC_MESSAGES/tryton.po | 
+ | [it](/f32/language/it) | 424 | 835 | 50.8 | /mnt/stockage/packages/f32/tryton/tryton/data/locale/it/LC_MESSAGES/tryton.po | 
+ | [ru](/f32/language/ru) | 374 | 835 | 44.8 | /mnt/stockage/packages/f32/tryton/tryton/data/locale/ru/LC_MESSAGES/tryton.po | 
+ | [bg](/f32/language/bg) | 325 | 835 | 38.9 | /mnt/stockage/packages/f32/tryton/tryton/data/locale/bg/LC_MESSAGES/tryton.po | 
+ | [ja](/f32/language/ja) | 278 | 846 | 32.9 | /mnt/stockage/packages/f32/tryton/tryton/data/locale/ja_JP/LC_MESSAGES/tryton.po | 
+ | [nl](/f32/language/nl) | 234 | 835 | 28.0 | /mnt/stockage/packages/f32/tryton/tryton/data/locale/nl/LC_MESSAGES/tryton.po | 
+ | [cs](/f32/language/cs) | 205 | 835 | 24.6 | /mnt/stockage/packages/f32/tryton/tryton/data/locale/cs/LC_MESSAGES/tryton.po | 
+ | [tr](/f32/language/tr) | 66 | 835 | 7.9 | /mnt/stockage/packages/f32/tryton/tryton/data/locale/tr/LC_MESSAGES/tryton.po | 
+ | [fi](/f32/language/fi) | 0 | 835 | 0.0 | /mnt/stockage/packages/f32/tryton/tryton/data/locale/fi/LC_MESSAGES/tryton.po | 
 {.sortable}
 
 

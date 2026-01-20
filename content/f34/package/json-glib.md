@@ -18,62 +18,62 @@ The package json-glib (version 1.6.6):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [as]({{< ref "/f34/language/as.md" >}}) | 303 | 303 | 100.0 | /mnt/stockage/packages/f34/json-glib/po/as.po | 
- | [be]({{< ref "/f34/language/be.md" >}}) | 307 | 307 | 100.0 | /mnt/stockage/packages/f34/json-glib/po/be.po | 
- | [bg]({{< ref "/f34/language/bg.md" >}}) | 226 | 226 | 100.0 | /mnt/stockage/packages/f34/json-glib/po/bg.po | 
- | [bn]({{< ref "/f34/language/bn.md" >}}) | 226 | 226 | 100.0 | /mnt/stockage/packages/f34/json-glib/po/bn_IN.po | 
- | [bs]({{< ref "/f34/language/bs.md" >}}) | 303 | 303 | 100.0 | /mnt/stockage/packages/f34/json-glib/po/bs.po | 
- | [ca]({{< ref "/f34/language/ca.md" >}}) | 307 | 307 | 100.0 | /mnt/stockage/packages/f34/json-glib/po/ca.po | 
- | [ca@valencia]({{< ref "/f34/language/ca@valencia.md" >}}) | 303 | 303 | 100.0 | /mnt/stockage/packages/f34/json-glib/po/ca@valencia.po | 
- | [cs]({{< ref "/f34/language/cs.md" >}}) | 307 | 307 | 100.0 | /mnt/stockage/packages/f34/json-glib/po/cs.po | 
- | [da]({{< ref "/f34/language/da.md" >}}) | 307 | 307 | 100.0 | /mnt/stockage/packages/f34/json-glib/po/da.po | 
- | [de]({{< ref "/f34/language/de.md" >}}) | 307 | 307 | 100.0 | /mnt/stockage/packages/f34/json-glib/po/de.po | 
- | [el]({{< ref "/f34/language/el.md" >}}) | 307 | 307 | 100.0 | /mnt/stockage/packages/f34/json-glib/po/el.po | 
- | [en_GB]({{< ref "/f34/language/en_GB.md" >}}) | 307 | 307 | 100.0 | /mnt/stockage/packages/f34/json-glib/po/en_GB.po | 
- | [es]({{< ref "/f34/language/es.md" >}}) | 307 | 307 | 100.0 | /mnt/stockage/packages/f34/json-glib/po/es.po | 
- | [et]({{< ref "/f34/language/et.md" >}}) | 226 | 226 | 100.0 | /mnt/stockage/packages/f34/json-glib/po/et.po | 
- | [eu]({{< ref "/f34/language/eu.md" >}}) | 307 | 307 | 100.0 | /mnt/stockage/packages/f34/json-glib/po/eu.po | 
- | [fr]({{< ref "/f34/language/fr.md" >}}) | 307 | 307 | 100.0 | /mnt/stockage/packages/f34/json-glib/po/fr.po | 
- | [fur]({{< ref "/f34/language/fur.md" >}}) | 307 | 307 | 100.0 | /mnt/stockage/packages/f34/json-glib/po/fur.po | 
- | [gl]({{< ref "/f34/language/gl.md" >}}) | 307 | 307 | 100.0 | /mnt/stockage/packages/f34/json-glib/po/gl.po | 
- | [he]({{< ref "/f34/language/he.md" >}}) | 303 | 303 | 100.0 | /mnt/stockage/packages/f34/json-glib/po/he.po | 
- | [hi]({{< ref "/f34/language/hi.md" >}}) | 226 | 226 | 100.0 | /mnt/stockage/packages/f34/json-glib/po/hi.po | 
- | [hr]({{< ref "/f34/language/hr.md" >}}) | 307 | 307 | 100.0 | /mnt/stockage/packages/f34/json-glib/po/hr.po | 
- | [hu]({{< ref "/f34/language/hu.md" >}}) | 307 | 307 | 100.0 | /mnt/stockage/packages/f34/json-glib/po/hu.po | 
- | [id]({{< ref "/f34/language/id.md" >}}) | 307 | 307 | 100.0 | /mnt/stockage/packages/f34/json-glib/po/id.po | 
- | [it]({{< ref "/f34/language/it.md" >}}) | 307 | 307 | 100.0 | /mnt/stockage/packages/f34/json-glib/po/it.po | 
- | [ko]({{< ref "/f34/language/ko.md" >}}) | 307 | 307 | 100.0 | /mnt/stockage/packages/f34/json-glib/po/ko.po | 
- | [ky]({{< ref "/f34/language/ky.md" >}}) | 226 | 226 | 100.0 | /mnt/stockage/packages/f34/json-glib/po/ky.po | 
- | [lt]({{< ref "/f34/language/lt.md" >}}) | 307 | 307 | 100.0 | /mnt/stockage/packages/f34/json-glib/po/lt.po | 
- | [lv]({{< ref "/f34/language/lv.md" >}}) | 307 | 307 | 100.0 | /mnt/stockage/packages/f34/json-glib/po/lv.po | 
- | [ml]({{< ref "/f34/language/ml.md" >}}) | 226 | 226 | 100.0 | /mnt/stockage/packages/f34/json-glib/po/ml.po | 
- | [ms]({{< ref "/f34/language/ms.md" >}}) | 307 | 307 | 100.0 | /mnt/stockage/packages/f34/json-glib/po/ms.po | 
- | [nl]({{< ref "/f34/language/nl.md" >}}) | 307 | 307 | 100.0 | /mnt/stockage/packages/f34/json-glib/po/nl.po | 
- | [oc]({{< ref "/f34/language/oc.md" >}}) | 303 | 303 | 100.0 | /mnt/stockage/packages/f34/json-glib/po/oc.po | 
- | [or]({{< ref "/f34/language/or.md" >}}) | 226 | 226 | 100.0 | /mnt/stockage/packages/f34/json-glib/po/or.po | 
- | [pa]({{< ref "/f34/language/pa.md" >}}) | 226 | 226 | 100.0 | /mnt/stockage/packages/f34/json-glib/po/pa.po | 
- | [pl]({{< ref "/f34/language/pl.md" >}}) | 307 | 307 | 100.0 | /mnt/stockage/packages/f34/json-glib/po/pl.po | 
- | [pt]({{< ref "/f34/language/pt.md" >}}) | 307 | 307 | 100.0 | /mnt/stockage/packages/f34/json-glib/po/pt.po | 
- | [pt_BR]({{< ref "/f34/language/pt_BR.md" >}}) | 307 | 307 | 100.0 | /mnt/stockage/packages/f34/json-glib/po/pt_BR.po | 
- | [ro]({{< ref "/f34/language/ro.md" >}}) | 307 | 307 | 100.0 | /mnt/stockage/packages/f34/json-glib/po/ro.po | 
- | [ru]({{< ref "/f34/language/ru.md" >}}) | 307 | 307 | 100.0 | /mnt/stockage/packages/f34/json-glib/po/ru.po | 
- | [sk]({{< ref "/f34/language/sk.md" >}}) | 307 | 307 | 100.0 | /mnt/stockage/packages/f34/json-glib/po/sk.po | 
- | [sl]({{< ref "/f34/language/sl.md" >}}) | 307 | 307 | 100.0 | /mnt/stockage/packages/f34/json-glib/po/sl.po | 
- | [sr]({{< ref "/f34/language/sr.md" >}}) | 610 | 610 | 100.0 | /mnt/stockage/packages/f34/json-glib/po/sr@latin.po/mnt/stockage/packages/f34/json-glib/po/sr.po | 
- | [sv]({{< ref "/f34/language/sv.md" >}}) | 307 | 307 | 100.0 | /mnt/stockage/packages/f34/json-glib/po/sv.po | 
- | [te]({{< ref "/f34/language/te.md" >}}) | 226 | 226 | 100.0 | /mnt/stockage/packages/f34/json-glib/po/te.po | 
- | [tg]({{< ref "/f34/language/tg.md" >}}) | 303 | 303 | 100.0 | /mnt/stockage/packages/f34/json-glib/po/tg.po | 
- | [tr]({{< ref "/f34/language/tr.md" >}}) | 307 | 307 | 100.0 | /mnt/stockage/packages/f34/json-glib/po/tr.po | 
- | [uk]({{< ref "/f34/language/uk.md" >}}) | 307 | 307 | 100.0 | /mnt/stockage/packages/f34/json-glib/po/uk.po | 
- | [zh_Hans]({{< ref "/f34/language/zh_Hans.md" >}}) | 307 | 307 | 100.0 | /mnt/stockage/packages/f34/json-glib/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f34/language/zh_Hant.md" >}}) | 307 | 307 | 100.0 | /mnt/stockage/packages/f34/json-glib/po/zh_TW.po | 
- | [zh_Hant_HK]({{< ref "/f34/language/zh_Hant_HK.md" >}}) | 303 | 303 | 100.0 | /mnt/stockage/packages/f34/json-glib/po/zh_HK.po | 
- | [vi]({{< ref "/f34/language/vi.md" >}}) | 244 | 254 | 96.1 | /mnt/stockage/packages/f34/json-glib/po/vi.po | 
- | [ug]({{< ref "/f34/language/ug.md" >}}) | 208 | 226 | 92.0 | /mnt/stockage/packages/f34/json-glib/po/ug.po | 
- | [ja]({{< ref "/f34/language/ja.md" >}}) | 282 | 307 | 91.9 | /mnt/stockage/packages/f34/json-glib/po/ja.po | 
- | [ne]({{< ref "/f34/language/ne.md" >}}) | 239 | 303 | 78.9 | /mnt/stockage/packages/f34/json-glib/po/ne.po | 
- | [eo]({{< ref "/f34/language/eo.md" >}}) | 221 | 303 | 72.9 | /mnt/stockage/packages/f34/json-glib/po/eo.po | 
- | [nb_NO]({{< ref "/f34/language/nb_NO.md" >}}) | 159 | 303 | 52.5 | /mnt/stockage/packages/f34/json-glib/po/nb.po | 
+ | [as](/f34/language/as) | 303 | 303 | 100.0 | /mnt/stockage/packages/f34/json-glib/po/as.po | 
+ | [be](/f34/language/be) | 307 | 307 | 100.0 | /mnt/stockage/packages/f34/json-glib/po/be.po | 
+ | [bg](/f34/language/bg) | 226 | 226 | 100.0 | /mnt/stockage/packages/f34/json-glib/po/bg.po | 
+ | [bn](/f34/language/bn) | 226 | 226 | 100.0 | /mnt/stockage/packages/f34/json-glib/po/bn_IN.po | 
+ | [bs](/f34/language/bs) | 303 | 303 | 100.0 | /mnt/stockage/packages/f34/json-glib/po/bs.po | 
+ | [ca](/f34/language/ca) | 307 | 307 | 100.0 | /mnt/stockage/packages/f34/json-glib/po/ca.po | 
+ | [ca@valencia](/f34/language/ca@valencia) | 303 | 303 | 100.0 | /mnt/stockage/packages/f34/json-glib/po/ca@valencia.po | 
+ | [cs](/f34/language/cs) | 307 | 307 | 100.0 | /mnt/stockage/packages/f34/json-glib/po/cs.po | 
+ | [da](/f34/language/da) | 307 | 307 | 100.0 | /mnt/stockage/packages/f34/json-glib/po/da.po | 
+ | [de](/f34/language/de) | 307 | 307 | 100.0 | /mnt/stockage/packages/f34/json-glib/po/de.po | 
+ | [el](/f34/language/el) | 307 | 307 | 100.0 | /mnt/stockage/packages/f34/json-glib/po/el.po | 
+ | [en_GB](/f34/language/en_GB) | 307 | 307 | 100.0 | /mnt/stockage/packages/f34/json-glib/po/en_GB.po | 
+ | [es](/f34/language/es) | 307 | 307 | 100.0 | /mnt/stockage/packages/f34/json-glib/po/es.po | 
+ | [et](/f34/language/et) | 226 | 226 | 100.0 | /mnt/stockage/packages/f34/json-glib/po/et.po | 
+ | [eu](/f34/language/eu) | 307 | 307 | 100.0 | /mnt/stockage/packages/f34/json-glib/po/eu.po | 
+ | [fr](/f34/language/fr) | 307 | 307 | 100.0 | /mnt/stockage/packages/f34/json-glib/po/fr.po | 
+ | [fur](/f34/language/fur) | 307 | 307 | 100.0 | /mnt/stockage/packages/f34/json-glib/po/fur.po | 
+ | [gl](/f34/language/gl) | 307 | 307 | 100.0 | /mnt/stockage/packages/f34/json-glib/po/gl.po | 
+ | [he](/f34/language/he) | 303 | 303 | 100.0 | /mnt/stockage/packages/f34/json-glib/po/he.po | 
+ | [hi](/f34/language/hi) | 226 | 226 | 100.0 | /mnt/stockage/packages/f34/json-glib/po/hi.po | 
+ | [hr](/f34/language/hr) | 307 | 307 | 100.0 | /mnt/stockage/packages/f34/json-glib/po/hr.po | 
+ | [hu](/f34/language/hu) | 307 | 307 | 100.0 | /mnt/stockage/packages/f34/json-glib/po/hu.po | 
+ | [id](/f34/language/id) | 307 | 307 | 100.0 | /mnt/stockage/packages/f34/json-glib/po/id.po | 
+ | [it](/f34/language/it) | 307 | 307 | 100.0 | /mnt/stockage/packages/f34/json-glib/po/it.po | 
+ | [ko](/f34/language/ko) | 307 | 307 | 100.0 | /mnt/stockage/packages/f34/json-glib/po/ko.po | 
+ | [ky](/f34/language/ky) | 226 | 226 | 100.0 | /mnt/stockage/packages/f34/json-glib/po/ky.po | 
+ | [lt](/f34/language/lt) | 307 | 307 | 100.0 | /mnt/stockage/packages/f34/json-glib/po/lt.po | 
+ | [lv](/f34/language/lv) | 307 | 307 | 100.0 | /mnt/stockage/packages/f34/json-glib/po/lv.po | 
+ | [ml](/f34/language/ml) | 226 | 226 | 100.0 | /mnt/stockage/packages/f34/json-glib/po/ml.po | 
+ | [ms](/f34/language/ms) | 307 | 307 | 100.0 | /mnt/stockage/packages/f34/json-glib/po/ms.po | 
+ | [nl](/f34/language/nl) | 307 | 307 | 100.0 | /mnt/stockage/packages/f34/json-glib/po/nl.po | 
+ | [oc](/f34/language/oc) | 303 | 303 | 100.0 | /mnt/stockage/packages/f34/json-glib/po/oc.po | 
+ | [or](/f34/language/or) | 226 | 226 | 100.0 | /mnt/stockage/packages/f34/json-glib/po/or.po | 
+ | [pa](/f34/language/pa) | 226 | 226 | 100.0 | /mnt/stockage/packages/f34/json-glib/po/pa.po | 
+ | [pl](/f34/language/pl) | 307 | 307 | 100.0 | /mnt/stockage/packages/f34/json-glib/po/pl.po | 
+ | [pt](/f34/language/pt) | 307 | 307 | 100.0 | /mnt/stockage/packages/f34/json-glib/po/pt.po | 
+ | [pt_BR](/f34/language/pt_BR) | 307 | 307 | 100.0 | /mnt/stockage/packages/f34/json-glib/po/pt_BR.po | 
+ | [ro](/f34/language/ro) | 307 | 307 | 100.0 | /mnt/stockage/packages/f34/json-glib/po/ro.po | 
+ | [ru](/f34/language/ru) | 307 | 307 | 100.0 | /mnt/stockage/packages/f34/json-glib/po/ru.po | 
+ | [sk](/f34/language/sk) | 307 | 307 | 100.0 | /mnt/stockage/packages/f34/json-glib/po/sk.po | 
+ | [sl](/f34/language/sl) | 307 | 307 | 100.0 | /mnt/stockage/packages/f34/json-glib/po/sl.po | 
+ | [sr](/f34/language/sr) | 610 | 610 | 100.0 | /mnt/stockage/packages/f34/json-glib/po/sr@latin.po/mnt/stockage/packages/f34/json-glib/po/sr.po | 
+ | [sv](/f34/language/sv) | 307 | 307 | 100.0 | /mnt/stockage/packages/f34/json-glib/po/sv.po | 
+ | [te](/f34/language/te) | 226 | 226 | 100.0 | /mnt/stockage/packages/f34/json-glib/po/te.po | 
+ | [tg](/f34/language/tg) | 303 | 303 | 100.0 | /mnt/stockage/packages/f34/json-glib/po/tg.po | 
+ | [tr](/f34/language/tr) | 307 | 307 | 100.0 | /mnt/stockage/packages/f34/json-glib/po/tr.po | 
+ | [uk](/f34/language/uk) | 307 | 307 | 100.0 | /mnt/stockage/packages/f34/json-glib/po/uk.po | 
+ | [zh_Hans](/f34/language/zh_Hans) | 307 | 307 | 100.0 | /mnt/stockage/packages/f34/json-glib/po/zh_CN.po | 
+ | [zh_Hant](/f34/language/zh_Hant) | 307 | 307 | 100.0 | /mnt/stockage/packages/f34/json-glib/po/zh_TW.po | 
+ | [zh_Hant_HK](/f34/language/zh_Hant_HK) | 303 | 303 | 100.0 | /mnt/stockage/packages/f34/json-glib/po/zh_HK.po | 
+ | [vi](/f34/language/vi) | 244 | 254 | 96.1 | /mnt/stockage/packages/f34/json-glib/po/vi.po | 
+ | [ug](/f34/language/ug) | 208 | 226 | 92.0 | /mnt/stockage/packages/f34/json-glib/po/ug.po | 
+ | [ja](/f34/language/ja) | 282 | 307 | 91.9 | /mnt/stockage/packages/f34/json-glib/po/ja.po | 
+ | [ne](/f34/language/ne) | 239 | 303 | 78.9 | /mnt/stockage/packages/f34/json-glib/po/ne.po | 
+ | [eo](/f34/language/eo) | 221 | 303 | 72.9 | /mnt/stockage/packages/f34/json-glib/po/eo.po | 
+ | [nb_NO](/f34/language/nb_NO) | 159 | 303 | 52.5 | /mnt/stockage/packages/f34/json-glib/po/nb.po | 
 {.sortable}
 
 

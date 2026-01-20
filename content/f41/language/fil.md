@@ -41,61 +41,61 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [xapps]({{< ref "/f41/package/xapps.md" >}}) | 73 | 73 | 100.0 | Filipino <fil@li.org> | 
- | [mediawriter]({{< ref "/f41/package/mediawriter.md" >}}) | 767 | 836 | 91.7 | Filipino <https://translate.fedoraproject.org/projects/fedora-media-writer/mediawriter/fil/> | 
- | [mingw-mediawriter]({{< ref "/f41/package/mingw-mediawriter.md" >}}) | 749 | 845 | 88.6 | Filipino <https://translate.fedoraproject.org/projects/fedora-media-writer/mediawriter/fil/> | 
- | [folder-color-switcher]({{< ref "/f41/package/folder-color-switcher.md" >}}) | 51 | 65 | 78.5 | Filipino <fil@li.org> | 
- | [sugar-toolkit-gtk3]({{< ref "/f41/package/sugar-toolkit-gtk3.md" >}}) | 85 | 213 | 39.9 | LANGUAGE <LL@li.org> | 
- | [sugar-write]({{< ref "/f41/package/sugar-write.md" >}}) | 36 | 121 | 29.8 | LANGUAGE <LL@li.org> | 
- | [minetest]({{< ref "/f41/package/minetest.md" >}}) | 2580 | 10452 | 24.7 | Filipino <https://hosted.weblate.org/projects/minetest/minetest/fil/> | 
- | [sugar-chat]({{< ref "/f41/package/sugar-chat.md" >}}) | 30 | 137 | 21.9 | LANGUAGE <LL@li.org> | 
- | [slick-greeter]({{< ref "/f41/package/slick-greeter.md" >}}) | 41 | 216 | 19.0 | Filipino <fil@li.org> | 
- | [sugar-read]({{< ref "/f41/package/sugar-read.md" >}}) | 24 | 137 | 17.5 | LANGUAGE <LL@li.org> | 
- | [iso-codes]({{< ref "/f41/package/iso-codes.md" >}}) | 1445 | 8253 | 17.5 | Filipino <https://hosted.weblate.org/projects/iso-codes/iso-15924/fil/> | 
- | [cinnamon-translations]({{< ref "/f41/package/cinnamon-translations.md" >}}) | 2045 | 18471 | 11.1 | Filipino <fil@li.org> | 
- | [dnf]({{< ref "/f41/package/dnf.md" >}}) | 470 | 4718 | 10.0 | Filipino | 
- | [sugar-browse]({{< ref "/f41/package/sugar-browse.md" >}}) | 26 | 334 | 7.8 | LANGUAGE <LL@li.org> | 
- | [mate-panel]({{< ref "/f41/package/mate-panel.md" >}}) | 64 | 942 | 6.8 | Filipino (https://www.transifex.com/mate/teams/13566/fil/) | 
- | [mate-applets]({{< ref "/f41/package/mate-applets.md" >}}) | 191 | 2860 | 6.7 | Filipino (https://www.transifex.com/mate/teams/13566/fil/) | 
- | [pinta]({{< ref "/f41/package/pinta.md" >}}) | 94 | 1746 | 5.4 | Filipino <fil@li.org> | 
- | [sugar-record]({{< ref "/f41/package/sugar-record.md" >}}) | 3 | 62 | 4.8 | LANGUAGE <LL@li.org> | 
- | [anaconda]({{< ref "/f41/package/anaconda.md" >}}) | 361 | 8266 | 4.4 | Filipino <https://translate.fedoraproject.org/projects/anaconda/master/fil/> | 
- | [transmission]({{< ref "/f41/package/transmission.md" >}}) | 104 | 2441 | 4.3 | Filipino (https://app.transifex.com/transmissionbt/teams/33778/fil/) | 
- | [mate-menu]({{< ref "/f41/package/mate-menu.md" >}}) | 12 | 308 | 3.9 | Filipino (http://www.transifex.com/mate/MATE/language/fil/) | 
- | [mate-utils]({{< ref "/f41/package/mate-utils.md" >}}) | 64 | 1955 | 3.3 | Filipino (https://www.transifex.com/mate/teams/13566/fil/) | 
- | [sugar-pippy]({{< ref "/f41/package/sugar-pippy.md" >}}) | 5 | 274 | 1.8 | LANGUAGE <LL@li.org> | 
- | [calibre]({{< ref "/f41/package/calibre.md" >}}) | 2857 | 178398 | 1.6 | Filipino (http://app.transifex.com/calibre/calibre/language/fil/) | 
- | [sugar-speak]({{< ref "/f41/package/sugar-speak.md" >}}) | 3 | 227 | 1.3 | LANGUAGE <LL@li.org> | 
- | [mate-menus]({{< ref "/f41/package/mate-menus.md" >}}) | 1 | 103 | 1.0 | Filipino (https://app.transifex.com/mate/teams/13566/fil/) | 
- | [aria2]({{< ref "/f41/package/aria2.md" >}}) | 68 | 7496 | 0.9 | Filipino <fil@li.org> | 
- | [sugar-terminal]({{< ref "/f41/package/sugar-terminal.md" >}}) | 1 | 121 | 0.8 | LANGUAGE <LL@li.org> | 
- | [rpm-ostree]({{< ref "/f41/package/rpm-ostree.md" >}}) | 8 | 1480 | 0.5 | Filipino | 
- | [libdnf]({{< ref "/f41/package/libdnf.md" >}}) | 8 | 1664 | 0.5 | Filipino | 
- | [sugar]({{< ref "/f41/package/sugar.md" >}}) | 7 | 2305 | 0.3 | LANGUAGE <LL@li.org> | 
- | [godot3]({{< ref "/f41/package/godot3.md" >}}) | 850 | 285145 | 0.3 | Filipino <https://hosted.weblate.org/projects/godot-engine/godot-class-reference/fil/> | 
- | [android-tools]({{< ref "/f41/package/android-tools.md" >}}) | 9 | 5637 | 0.2 | Filipino | 
- | [policycoreutils]({{< ref "/f41/package/policycoreutils.md" >}}) | 9 | 5726 | 0.2 | Filipino | 
- | [anaconda-webui]({{< ref "/f41/package/anaconda-webui.md" >}}) | 1 | 1187 | 0.1 | Filipino <https://translate.fedoraproject.org/projects/anaconda-webui/anaconda-webui/fil/> | 
- | [deepin-daemon]({{< ref "/f41/package/deepin-daemon.md" >}}) | 0 | 1222 | 0.0 | Filipino (https://app.transifex.com/linuxdeepin/teams/3617/fil/) | 
- | [elementary-icon-theme]({{< ref "/f41/package/elementary-icon-theme.md" >}}) | 0 | 349 | 0.0 | none | 
- | [elementary-notifications]({{< ref "/f41/package/elementary-notifications.md" >}}) | 0 | 40 | 0.0 | none | 
- | [gala]({{< ref "/f41/package/gala.md" >}}) | 0 | 319 | 0.0 | none | 
- | [granite]({{< ref "/f41/package/granite.md" >}}) | 0 | 498 | 0.0 | none | 
- | [granite-7]({{< ref "/f41/package/granite-7.md" >}}) | 0 | 596 | 0.0 | none | 
- | [libmatekbd]({{< ref "/f41/package/libmatekbd.md" >}}) | 0 | 308 | 0.0 | Filipino (http://www.transifex.com/mate/MATE/language/fil/) | 
- | [mate-themes]({{< ref "/f41/package/mate-themes.md" >}}) | 0 | 74 | 0.0 | Filipino (http://app.transifex.com/mate/MATE/language/fil/) | 
- | [pyhoca-gui]({{< ref "/f41/package/pyhoca-gui.md" >}}) | 0 | 1865 | 0.0 | none | 
- | [python-django-mailman3]({{< ref "/f41/package/python-django-mailman3.md" >}}) | 0 | 437 | 0.0 | LANGUAGE <LL@li.org> | 
- | [python-hyperkitty]({{< ref "/f41/package/python-hyperkitty.md" >}}) | 0 | 951 | 0.0 | LANGUAGE <LL@li.org> | 
- | [python-postorius]({{< ref "/f41/package/python-postorius.md" >}}) | 0 | 5054 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-clock]({{< ref "/f41/package/sugar-clock.md" >}}) | 0 | 66 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-implode]({{< ref "/f41/package/sugar-implode.md" >}}) | 0 | 77 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-turtleart]({{< ref "/f41/package/sugar-turtleart.md" >}}) | 0 | 1459 | 0.0 | LANGUAGE <LL@li.org> | 
- | [wingpanel]({{< ref "/f41/package/wingpanel.md" >}}) | 0 | 57 | 0.0 | none | 
- | [wingpanel-indicator-a11y]({{< ref "/f41/package/wingpanel-indicator-a11y.md" >}}) | 0 | 55 | 0.0 | none | 
- | [wingpanel-indicator-bluetooth]({{< ref "/f41/package/wingpanel-indicator-bluetooth.md" >}}) | 0 | 80 | 0.0 | none | 
- | [wingpanel-indicator-datetime]({{< ref "/f41/package/wingpanel-indicator-datetime.md" >}}) | 0 | 103 | 0.0 | none | 
- | [wingpanel-indicator-keyboard]({{< ref "/f41/package/wingpanel-indicator-keyboard.md" >}}) | 0 | 56 | 0.0 | none | 
+ | [xapps](/f41/package/xapps) | 73 | 73 | 100.0 | Filipino <fil@li.org> | 
+ | [mediawriter](/f41/package/mediawriter) | 767 | 836 | 91.7 | Filipino <https://translate.fedoraproject.org/projects/fedora-media-writer/mediawriter/fil/> | 
+ | [mingw-mediawriter](/f41/package/mingw-mediawriter) | 749 | 845 | 88.6 | Filipino <https://translate.fedoraproject.org/projects/fedora-media-writer/mediawriter/fil/> | 
+ | [folder-color-switcher](/f41/package/folder-color-switcher) | 51 | 65 | 78.5 | Filipino <fil@li.org> | 
+ | [sugar-toolkit-gtk3](/f41/package/sugar-toolkit-gtk3) | 85 | 213 | 39.9 | LANGUAGE <LL@li.org> | 
+ | [sugar-write](/f41/package/sugar-write) | 36 | 121 | 29.8 | LANGUAGE <LL@li.org> | 
+ | [minetest](/f41/package/minetest) | 2580 | 10452 | 24.7 | Filipino <https://hosted.weblate.org/projects/minetest/minetest/fil/> | 
+ | [sugar-chat](/f41/package/sugar-chat) | 30 | 137 | 21.9 | LANGUAGE <LL@li.org> | 
+ | [slick-greeter](/f41/package/slick-greeter) | 41 | 216 | 19.0 | Filipino <fil@li.org> | 
+ | [sugar-read](/f41/package/sugar-read) | 24 | 137 | 17.5 | LANGUAGE <LL@li.org> | 
+ | [iso-codes](/f41/package/iso-codes) | 1445 | 8253 | 17.5 | Filipino <https://hosted.weblate.org/projects/iso-codes/iso-15924/fil/> | 
+ | [cinnamon-translations](/f41/package/cinnamon-translations) | 2045 | 18471 | 11.1 | Filipino <fil@li.org> | 
+ | [dnf](/f41/package/dnf) | 470 | 4718 | 10.0 | Filipino | 
+ | [sugar-browse](/f41/package/sugar-browse) | 26 | 334 | 7.8 | LANGUAGE <LL@li.org> | 
+ | [mate-panel](/f41/package/mate-panel) | 64 | 942 | 6.8 | Filipino (https://www.transifex.com/mate/teams/13566/fil/) | 
+ | [mate-applets](/f41/package/mate-applets) | 191 | 2860 | 6.7 | Filipino (https://www.transifex.com/mate/teams/13566/fil/) | 
+ | [pinta](/f41/package/pinta) | 94 | 1746 | 5.4 | Filipino <fil@li.org> | 
+ | [sugar-record](/f41/package/sugar-record) | 3 | 62 | 4.8 | LANGUAGE <LL@li.org> | 
+ | [anaconda](/f41/package/anaconda) | 361 | 8266 | 4.4 | Filipino <https://translate.fedoraproject.org/projects/anaconda/master/fil/> | 
+ | [transmission](/f41/package/transmission) | 104 | 2441 | 4.3 | Filipino (https://app.transifex.com/transmissionbt/teams/33778/fil/) | 
+ | [mate-menu](/f41/package/mate-menu) | 12 | 308 | 3.9 | Filipino (http://www.transifex.com/mate/MATE/language/fil/) | 
+ | [mate-utils](/f41/package/mate-utils) | 64 | 1955 | 3.3 | Filipino (https://www.transifex.com/mate/teams/13566/fil/) | 
+ | [sugar-pippy](/f41/package/sugar-pippy) | 5 | 274 | 1.8 | LANGUAGE <LL@li.org> | 
+ | [calibre](/f41/package/calibre) | 2857 | 178398 | 1.6 | Filipino (http://app.transifex.com/calibre/calibre/language/fil/) | 
+ | [sugar-speak](/f41/package/sugar-speak) | 3 | 227 | 1.3 | LANGUAGE <LL@li.org> | 
+ | [mate-menus](/f41/package/mate-menus) | 1 | 103 | 1.0 | Filipino (https://app.transifex.com/mate/teams/13566/fil/) | 
+ | [aria2](/f41/package/aria2) | 68 | 7496 | 0.9 | Filipino <fil@li.org> | 
+ | [sugar-terminal](/f41/package/sugar-terminal) | 1 | 121 | 0.8 | LANGUAGE <LL@li.org> | 
+ | [rpm-ostree](/f41/package/rpm-ostree) | 8 | 1480 | 0.5 | Filipino | 
+ | [libdnf](/f41/package/libdnf) | 8 | 1664 | 0.5 | Filipino | 
+ | [sugar](/f41/package/sugar) | 7 | 2305 | 0.3 | LANGUAGE <LL@li.org> | 
+ | [godot3](/f41/package/godot3) | 850 | 285145 | 0.3 | Filipino <https://hosted.weblate.org/projects/godot-engine/godot-class-reference/fil/> | 
+ | [android-tools](/f41/package/android-tools) | 9 | 5637 | 0.2 | Filipino | 
+ | [policycoreutils](/f41/package/policycoreutils) | 9 | 5726 | 0.2 | Filipino | 
+ | [anaconda-webui](/f41/package/anaconda-webui) | 1 | 1187 | 0.1 | Filipino <https://translate.fedoraproject.org/projects/anaconda-webui/anaconda-webui/fil/> | 
+ | [deepin-daemon](/f41/package/deepin-daemon) | 0 | 1222 | 0.0 | Filipino (https://app.transifex.com/linuxdeepin/teams/3617/fil/) | 
+ | [elementary-icon-theme](/f41/package/elementary-icon-theme) | 0 | 349 | 0.0 | none | 
+ | [elementary-notifications](/f41/package/elementary-notifications) | 0 | 40 | 0.0 | none | 
+ | [gala](/f41/package/gala) | 0 | 319 | 0.0 | none | 
+ | [granite](/f41/package/granite) | 0 | 498 | 0.0 | none | 
+ | [granite-7](/f41/package/granite-7) | 0 | 596 | 0.0 | none | 
+ | [libmatekbd](/f41/package/libmatekbd) | 0 | 308 | 0.0 | Filipino (http://www.transifex.com/mate/MATE/language/fil/) | 
+ | [mate-themes](/f41/package/mate-themes) | 0 | 74 | 0.0 | Filipino (http://app.transifex.com/mate/MATE/language/fil/) | 
+ | [pyhoca-gui](/f41/package/pyhoca-gui) | 0 | 1865 | 0.0 | none | 
+ | [python-django-mailman3](/f41/package/python-django-mailman3) | 0 | 437 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [python-hyperkitty](/f41/package/python-hyperkitty) | 0 | 951 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [python-postorius](/f41/package/python-postorius) | 0 | 5054 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-clock](/f41/package/sugar-clock) | 0 | 66 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-implode](/f41/package/sugar-implode) | 0 | 77 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-turtleart](/f41/package/sugar-turtleart) | 0 | 1459 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [wingpanel](/f41/package/wingpanel) | 0 | 57 | 0.0 | none | 
+ | [wingpanel-indicator-a11y](/f41/package/wingpanel-indicator-a11y) | 0 | 55 | 0.0 | none | 
+ | [wingpanel-indicator-bluetooth](/f41/package/wingpanel-indicator-bluetooth) | 0 | 80 | 0.0 | none | 
+ | [wingpanel-indicator-datetime](/f41/package/wingpanel-indicator-datetime) | 0 | 103 | 0.0 | none | 
+ | [wingpanel-indicator-keyboard](/f41/package/wingpanel-indicator-keyboard) | 0 | 56 | 0.0 | none | 
 {.sortable}
 
 

@@ -18,53 +18,53 @@ The package xfce4-panel-profiles (version 1.0.13):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [be]({{< ref "/f35/language/be.md" >}}) | 99 | 99 | 100.0 | /mnt/stockage/packages/f35/xfce4-panel-profiles/po/be.po | 
- | [bg]({{< ref "/f35/language/bg.md" >}}) | 99 | 99 | 100.0 | /mnt/stockage/packages/f35/xfce4-panel-profiles/po/bg.po | 
- | [ca]({{< ref "/f35/language/ca.md" >}}) | 99 | 99 | 100.0 | /mnt/stockage/packages/f35/xfce4-panel-profiles/po/ca.po | 
- | [cs]({{< ref "/f35/language/cs.md" >}}) | 99 | 99 | 100.0 | /mnt/stockage/packages/f35/xfce4-panel-profiles/po/cs.po | 
- | [da]({{< ref "/f35/language/da.md" >}}) | 99 | 99 | 100.0 | /mnt/stockage/packages/f35/xfce4-panel-profiles/po/da.po | 
- | [de]({{< ref "/f35/language/de.md" >}}) | 99 | 99 | 100.0 | /mnt/stockage/packages/f35/xfce4-panel-profiles/po/de.po | 
- | [en_AU]({{< ref "/f35/language/en_AU.md" >}}) | 99 | 99 | 100.0 | /mnt/stockage/packages/f35/xfce4-panel-profiles/po/en_AU.po | 
- | [en_GB]({{< ref "/f35/language/en_GB.md" >}}) | 99 | 99 | 100.0 | /mnt/stockage/packages/f35/xfce4-panel-profiles/po/en_GB.po | 
- | [es]({{< ref "/f35/language/es.md" >}}) | 99 | 99 | 100.0 | /mnt/stockage/packages/f35/xfce4-panel-profiles/po/es.po | 
- | [et]({{< ref "/f35/language/et.md" >}}) | 99 | 99 | 100.0 | /mnt/stockage/packages/f35/xfce4-panel-profiles/po/et.po | 
- | [eu]({{< ref "/f35/language/eu.md" >}}) | 99 | 99 | 100.0 | /mnt/stockage/packages/f35/xfce4-panel-profiles/po/eu.po | 
- | [fi]({{< ref "/f35/language/fi.md" >}}) | 99 | 99 | 100.0 | /mnt/stockage/packages/f35/xfce4-panel-profiles/po/fi.po | 
- | [fr]({{< ref "/f35/language/fr.md" >}}) | 99 | 99 | 100.0 | /mnt/stockage/packages/f35/xfce4-panel-profiles/po/fr.po | 
- | [gl]({{< ref "/f35/language/gl.md" >}}) | 99 | 99 | 100.0 | /mnt/stockage/packages/f35/xfce4-panel-profiles/po/gl.po | 
- | [he]({{< ref "/f35/language/he.md" >}}) | 99 | 99 | 100.0 | /mnt/stockage/packages/f35/xfce4-panel-profiles/po/he.po | 
- | [hi]({{< ref "/f35/language/hi.md" >}}) | 99 | 99 | 100.0 | /mnt/stockage/packages/f35/xfce4-panel-profiles/po/hi.po | 
- | [hr]({{< ref "/f35/language/hr.md" >}}) | 99 | 99 | 100.0 | /mnt/stockage/packages/f35/xfce4-panel-profiles/po/hr.po | 
- | [hu]({{< ref "/f35/language/hu.md" >}}) | 99 | 99 | 100.0 | /mnt/stockage/packages/f35/xfce4-panel-profiles/po/hu.po | 
- | [hy]({{< ref "/f35/language/hy.md" >}}) | 198 | 198 | 100.0 | /mnt/stockage/packages/f35/xfce4-panel-profiles/po/hy_AM.po/mnt/stockage/packages/f35/xfce4-panel-profiles/po/hye.po | 
- | [id]({{< ref "/f35/language/id.md" >}}) | 99 | 99 | 100.0 | /mnt/stockage/packages/f35/xfce4-panel-profiles/po/id.po | 
- | [ie]({{< ref "/f35/language/ie.md" >}}) | 99 | 99 | 100.0 | /mnt/stockage/packages/f35/xfce4-panel-profiles/po/ie.po | 
- | [is]({{< ref "/f35/language/is.md" >}}) | 99 | 99 | 100.0 | /mnt/stockage/packages/f35/xfce4-panel-profiles/po/is.po | 
- | [it]({{< ref "/f35/language/it.md" >}}) | 99 | 99 | 100.0 | /mnt/stockage/packages/f35/xfce4-panel-profiles/po/it.po | 
- | [ja]({{< ref "/f35/language/ja.md" >}}) | 99 | 99 | 100.0 | /mnt/stockage/packages/f35/xfce4-panel-profiles/po/ja.po | 
- | [kk]({{< ref "/f35/language/kk.md" >}}) | 99 | 99 | 100.0 | /mnt/stockage/packages/f35/xfce4-panel-profiles/po/kk.po | 
- | [ko]({{< ref "/f35/language/ko.md" >}}) | 99 | 99 | 100.0 | /mnt/stockage/packages/f35/xfce4-panel-profiles/po/ko.po | 
- | [lt]({{< ref "/f35/language/lt.md" >}}) | 99 | 99 | 100.0 | /mnt/stockage/packages/f35/xfce4-panel-profiles/po/lt.po | 
- | [ms]({{< ref "/f35/language/ms.md" >}}) | 99 | 99 | 100.0 | /mnt/stockage/packages/f35/xfce4-panel-profiles/po/ms.po | 
- | [nb_NO]({{< ref "/f35/language/nb_NO.md" >}}) | 99 | 99 | 100.0 | /mnt/stockage/packages/f35/xfce4-panel-profiles/po/nb.po | 
- | [nl]({{< ref "/f35/language/nl.md" >}}) | 99 | 99 | 100.0 | /mnt/stockage/packages/f35/xfce4-panel-profiles/po/nl.po | 
- | [pl]({{< ref "/f35/language/pl.md" >}}) | 99 | 99 | 100.0 | /mnt/stockage/packages/f35/xfce4-panel-profiles/po/pl.po | 
- | [pt]({{< ref "/f35/language/pt.md" >}}) | 99 | 99 | 100.0 | /mnt/stockage/packages/f35/xfce4-panel-profiles/po/pt.po | 
- | [pt_BR]({{< ref "/f35/language/pt_BR.md" >}}) | 99 | 99 | 100.0 | /mnt/stockage/packages/f35/xfce4-panel-profiles/po/pt_BR.po | 
- | [ru]({{< ref "/f35/language/ru.md" >}}) | 99 | 99 | 100.0 | /mnt/stockage/packages/f35/xfce4-panel-profiles/po/ru.po | 
- | [sl]({{< ref "/f35/language/sl.md" >}}) | 99 | 99 | 100.0 | /mnt/stockage/packages/f35/xfce4-panel-profiles/po/sl.po | 
- | [sq]({{< ref "/f35/language/sq.md" >}}) | 99 | 99 | 100.0 | /mnt/stockage/packages/f35/xfce4-panel-profiles/po/sq.po | 
- | [sr]({{< ref "/f35/language/sr.md" >}}) | 99 | 99 | 100.0 | /mnt/stockage/packages/f35/xfce4-panel-profiles/po/sr.po | 
- | [sv]({{< ref "/f35/language/sv.md" >}}) | 99 | 99 | 100.0 | /mnt/stockage/packages/f35/xfce4-panel-profiles/po/sv.po | 
- | [th]({{< ref "/f35/language/th.md" >}}) | 99 | 99 | 100.0 | /mnt/stockage/packages/f35/xfce4-panel-profiles/po/th.po | 
- | [tr]({{< ref "/f35/language/tr.md" >}}) | 99 | 99 | 100.0 | /mnt/stockage/packages/f35/xfce4-panel-profiles/po/tr.po | 
- | [uk]({{< ref "/f35/language/uk.md" >}}) | 99 | 99 | 100.0 | /mnt/stockage/packages/f35/xfce4-panel-profiles/po/uk.po | 
- | [zh_Hans]({{< ref "/f35/language/zh_Hans.md" >}}) | 99 | 99 | 100.0 | /mnt/stockage/packages/f35/xfce4-panel-profiles/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f35/language/zh_Hant.md" >}}) | 99 | 99 | 100.0 | /mnt/stockage/packages/f35/xfce4-panel-profiles/po/zh_TW.po | 
- | [el]({{< ref "/f35/language/el.md" >}}) | 89 | 99 | 89.9 | /mnt/stockage/packages/f35/xfce4-panel-profiles/po/el.po | 
- | [sk]({{< ref "/f35/language/sk.md" >}}) | 68 | 99 | 68.7 | /mnt/stockage/packages/f35/xfce4-panel-profiles/po/sk.po | 
- | [zh_Hant_HK]({{< ref "/f35/language/zh_Hant_HK.md" >}}) | 68 | 99 | 68.7 | /mnt/stockage/packages/f35/xfce4-panel-profiles/po/zh_HK.po | 
- | [fa]({{< ref "/f35/language/fa.md" >}}) | 27 | 99 | 27.3 | /mnt/stockage/packages/f35/xfce4-panel-profiles/po/fa_IR.po | 
+ | [be](/f35/language/be) | 99 | 99 | 100.0 | /mnt/stockage/packages/f35/xfce4-panel-profiles/po/be.po | 
+ | [bg](/f35/language/bg) | 99 | 99 | 100.0 | /mnt/stockage/packages/f35/xfce4-panel-profiles/po/bg.po | 
+ | [ca](/f35/language/ca) | 99 | 99 | 100.0 | /mnt/stockage/packages/f35/xfce4-panel-profiles/po/ca.po | 
+ | [cs](/f35/language/cs) | 99 | 99 | 100.0 | /mnt/stockage/packages/f35/xfce4-panel-profiles/po/cs.po | 
+ | [da](/f35/language/da) | 99 | 99 | 100.0 | /mnt/stockage/packages/f35/xfce4-panel-profiles/po/da.po | 
+ | [de](/f35/language/de) | 99 | 99 | 100.0 | /mnt/stockage/packages/f35/xfce4-panel-profiles/po/de.po | 
+ | [en_AU](/f35/language/en_AU) | 99 | 99 | 100.0 | /mnt/stockage/packages/f35/xfce4-panel-profiles/po/en_AU.po | 
+ | [en_GB](/f35/language/en_GB) | 99 | 99 | 100.0 | /mnt/stockage/packages/f35/xfce4-panel-profiles/po/en_GB.po | 
+ | [es](/f35/language/es) | 99 | 99 | 100.0 | /mnt/stockage/packages/f35/xfce4-panel-profiles/po/es.po | 
+ | [et](/f35/language/et) | 99 | 99 | 100.0 | /mnt/stockage/packages/f35/xfce4-panel-profiles/po/et.po | 
+ | [eu](/f35/language/eu) | 99 | 99 | 100.0 | /mnt/stockage/packages/f35/xfce4-panel-profiles/po/eu.po | 
+ | [fi](/f35/language/fi) | 99 | 99 | 100.0 | /mnt/stockage/packages/f35/xfce4-panel-profiles/po/fi.po | 
+ | [fr](/f35/language/fr) | 99 | 99 | 100.0 | /mnt/stockage/packages/f35/xfce4-panel-profiles/po/fr.po | 
+ | [gl](/f35/language/gl) | 99 | 99 | 100.0 | /mnt/stockage/packages/f35/xfce4-panel-profiles/po/gl.po | 
+ | [he](/f35/language/he) | 99 | 99 | 100.0 | /mnt/stockage/packages/f35/xfce4-panel-profiles/po/he.po | 
+ | [hi](/f35/language/hi) | 99 | 99 | 100.0 | /mnt/stockage/packages/f35/xfce4-panel-profiles/po/hi.po | 
+ | [hr](/f35/language/hr) | 99 | 99 | 100.0 | /mnt/stockage/packages/f35/xfce4-panel-profiles/po/hr.po | 
+ | [hu](/f35/language/hu) | 99 | 99 | 100.0 | /mnt/stockage/packages/f35/xfce4-panel-profiles/po/hu.po | 
+ | [hy](/f35/language/hy) | 198 | 198 | 100.0 | /mnt/stockage/packages/f35/xfce4-panel-profiles/po/hy_AM.po/mnt/stockage/packages/f35/xfce4-panel-profiles/po/hye.po | 
+ | [id](/f35/language/id) | 99 | 99 | 100.0 | /mnt/stockage/packages/f35/xfce4-panel-profiles/po/id.po | 
+ | [ie](/f35/language/ie) | 99 | 99 | 100.0 | /mnt/stockage/packages/f35/xfce4-panel-profiles/po/ie.po | 
+ | [is](/f35/language/is) | 99 | 99 | 100.0 | /mnt/stockage/packages/f35/xfce4-panel-profiles/po/is.po | 
+ | [it](/f35/language/it) | 99 | 99 | 100.0 | /mnt/stockage/packages/f35/xfce4-panel-profiles/po/it.po | 
+ | [ja](/f35/language/ja) | 99 | 99 | 100.0 | /mnt/stockage/packages/f35/xfce4-panel-profiles/po/ja.po | 
+ | [kk](/f35/language/kk) | 99 | 99 | 100.0 | /mnt/stockage/packages/f35/xfce4-panel-profiles/po/kk.po | 
+ | [ko](/f35/language/ko) | 99 | 99 | 100.0 | /mnt/stockage/packages/f35/xfce4-panel-profiles/po/ko.po | 
+ | [lt](/f35/language/lt) | 99 | 99 | 100.0 | /mnt/stockage/packages/f35/xfce4-panel-profiles/po/lt.po | 
+ | [ms](/f35/language/ms) | 99 | 99 | 100.0 | /mnt/stockage/packages/f35/xfce4-panel-profiles/po/ms.po | 
+ | [nb_NO](/f35/language/nb_NO) | 99 | 99 | 100.0 | /mnt/stockage/packages/f35/xfce4-panel-profiles/po/nb.po | 
+ | [nl](/f35/language/nl) | 99 | 99 | 100.0 | /mnt/stockage/packages/f35/xfce4-panel-profiles/po/nl.po | 
+ | [pl](/f35/language/pl) | 99 | 99 | 100.0 | /mnt/stockage/packages/f35/xfce4-panel-profiles/po/pl.po | 
+ | [pt](/f35/language/pt) | 99 | 99 | 100.0 | /mnt/stockage/packages/f35/xfce4-panel-profiles/po/pt.po | 
+ | [pt_BR](/f35/language/pt_BR) | 99 | 99 | 100.0 | /mnt/stockage/packages/f35/xfce4-panel-profiles/po/pt_BR.po | 
+ | [ru](/f35/language/ru) | 99 | 99 | 100.0 | /mnt/stockage/packages/f35/xfce4-panel-profiles/po/ru.po | 
+ | [sl](/f35/language/sl) | 99 | 99 | 100.0 | /mnt/stockage/packages/f35/xfce4-panel-profiles/po/sl.po | 
+ | [sq](/f35/language/sq) | 99 | 99 | 100.0 | /mnt/stockage/packages/f35/xfce4-panel-profiles/po/sq.po | 
+ | [sr](/f35/language/sr) | 99 | 99 | 100.0 | /mnt/stockage/packages/f35/xfce4-panel-profiles/po/sr.po | 
+ | [sv](/f35/language/sv) | 99 | 99 | 100.0 | /mnt/stockage/packages/f35/xfce4-panel-profiles/po/sv.po | 
+ | [th](/f35/language/th) | 99 | 99 | 100.0 | /mnt/stockage/packages/f35/xfce4-panel-profiles/po/th.po | 
+ | [tr](/f35/language/tr) | 99 | 99 | 100.0 | /mnt/stockage/packages/f35/xfce4-panel-profiles/po/tr.po | 
+ | [uk](/f35/language/uk) | 99 | 99 | 100.0 | /mnt/stockage/packages/f35/xfce4-panel-profiles/po/uk.po | 
+ | [zh_Hans](/f35/language/zh_Hans) | 99 | 99 | 100.0 | /mnt/stockage/packages/f35/xfce4-panel-profiles/po/zh_CN.po | 
+ | [zh_Hant](/f35/language/zh_Hant) | 99 | 99 | 100.0 | /mnt/stockage/packages/f35/xfce4-panel-profiles/po/zh_TW.po | 
+ | [el](/f35/language/el) | 89 | 99 | 89.9 | /mnt/stockage/packages/f35/xfce4-panel-profiles/po/el.po | 
+ | [sk](/f35/language/sk) | 68 | 99 | 68.7 | /mnt/stockage/packages/f35/xfce4-panel-profiles/po/sk.po | 
+ | [zh_Hant_HK](/f35/language/zh_Hant_HK) | 68 | 99 | 68.7 | /mnt/stockage/packages/f35/xfce4-panel-profiles/po/zh_HK.po | 
+ | [fa](/f35/language/fa) | 27 | 99 | 27.3 | /mnt/stockage/packages/f35/xfce4-panel-profiles/po/fa_IR.po | 
 {.sortable}
 
 

@@ -18,10 +18,10 @@ The package asgp (version 1.0.18):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f26/language/fr.md" >}}) | 417 | 698 | 59.7 | /mnt/stockage/packages/f26/asgp/desktop/locale/super-great-park/fr.po | 
- | [es]({{< ref "/f26/language/es.md" >}}) | 367 | 698 | 52.6 | /mnt/stockage/packages/f26/asgp/desktop/locale/super-great-park/es.po | 
- | [pt]({{< ref "/f26/language/pt.md" >}}) | 367 | 698 | 52.6 | /mnt/stockage/packages/f26/asgp/desktop/locale/super-great-park/pt.po | 
- | [error]({{< ref "/f26/language/error.md" >}}) | 0 | 698 | 0.0 | /mnt/stockage/packages/f26/asgp/desktop/locale/super-great-park/clean.po | 
+ | [fr](/f26/language/fr) | 417 | 698 | 59.7 | /mnt/stockage/packages/f26/asgp/desktop/locale/super-great-park/fr.po | 
+ | [es](/f26/language/es) | 367 | 698 | 52.6 | /mnt/stockage/packages/f26/asgp/desktop/locale/super-great-park/es.po | 
+ | [pt](/f26/language/pt) | 367 | 698 | 52.6 | /mnt/stockage/packages/f26/asgp/desktop/locale/super-great-park/pt.po | 
+ | [error](/f26/language/error) | 0 | 698 | 0.0 | /mnt/stockage/packages/f26/asgp/desktop/locale/super-great-park/clean.po | 
 {.sortable}
 
 

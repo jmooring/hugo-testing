@@ -38,8 +38,8 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [xfce4-sensors-plugin]({{< ref "/f7/package/xfce4-sensors-plugin.md" >}}) | 36 | 99 | 36.4 | Urdu <makki.ma@gmail.com> | 
- | [pgadmin3]({{< ref "/f7/package/pgadmin3.md" >}}) | 1373 | 7344 | 18.7 | urdu <pgadmin-hackers@postgresql.org> | 
+ | [xfce4-sensors-plugin](/f7/package/xfce4-sensors-plugin) | 36 | 99 | 36.4 | Urdu <makki.ma@gmail.com> | 
+ | [pgadmin3](/f7/package/pgadmin3) | 1373 | 7344 | 18.7 | urdu <pgadmin-hackers@postgresql.org> | 
 {.sortable}
 
 

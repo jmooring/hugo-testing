@@ -42,9 +42,9 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [tuxpaint-stamps]({{< ref "/f28/package/tuxpaint-stamps.md" >}}) | 3271 | 3271 | 100.0 | none | 
- | [libreoffice]({{< ref "/f28/package/libreoffice.md" >}}) | 97901 | 98080 | 99.8 | LANGUAGE <LL@li.org> | 
- | [slick-greeter]({{< ref "/f28/package/slick-greeter.md" >}}) | 197 | 211 | 93.4 | Venetian <vec@li.org> | 
+ | [tuxpaint-stamps](/f28/package/tuxpaint-stamps) | 3271 | 3271 | 100.0 | none | 
+ | [libreoffice](/f28/package/libreoffice) | 97901 | 98080 | 99.8 | LANGUAGE <LL@li.org> | 
+ | [slick-greeter](/f28/package/slick-greeter) | 197 | 211 | 93.4 | Venetian <vec@li.org> | 
 {.sortable}
 
 

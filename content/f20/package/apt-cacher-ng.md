@@ -18,23 +18,23 @@ The package apt-cacher-ng (version 0.7.27):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f20/language/cs.md" >}}) | 340 | 340 | 100.0 | /mnt/stockage/packages/f20/apt-cacher-ng/po/cs.po | 
- | [da]({{< ref "/f20/language/da.md" >}}) | 340 | 340 | 100.0 | /mnt/stockage/packages/f20/apt-cacher-ng/po/da.po | 
- | [de]({{< ref "/f20/language/de.md" >}}) | 340 | 340 | 100.0 | /mnt/stockage/packages/f20/apt-cacher-ng/po/de.po | 
- | [es]({{< ref "/f20/language/es.md" >}}) | 340 | 340 | 100.0 | /mnt/stockage/packages/f20/apt-cacher-ng/po/es.po | 
- | [eu]({{< ref "/f20/language/eu.md" >}}) | 340 | 340 | 100.0 | /mnt/stockage/packages/f20/apt-cacher-ng/po/eu.po | 
- | [fr]({{< ref "/f20/language/fr.md" >}}) | 340 | 340 | 100.0 | /mnt/stockage/packages/f20/apt-cacher-ng/po/fr.po | 
- | [it]({{< ref "/f20/language/it.md" >}}) | 340 | 340 | 100.0 | /mnt/stockage/packages/f20/apt-cacher-ng/po/it.po | 
- | [ja]({{< ref "/f20/language/ja.md" >}}) | 340 | 340 | 100.0 | /mnt/stockage/packages/f20/apt-cacher-ng/po/ja.po | 
- | [pl]({{< ref "/f20/language/pl.md" >}}) | 340 | 340 | 100.0 | /mnt/stockage/packages/f20/apt-cacher-ng/po/pl.po | 
- | [pt]({{< ref "/f20/language/pt.md" >}}) | 340 | 340 | 100.0 | /mnt/stockage/packages/f20/apt-cacher-ng/po/pt.po | 
- | [pt_BR]({{< ref "/f20/language/pt_BR.md" >}}) | 340 | 340 | 100.0 | /mnt/stockage/packages/f20/apt-cacher-ng/po/pt_BR.po | 
- | [ru]({{< ref "/f20/language/ru.md" >}}) | 340 | 340 | 100.0 | /mnt/stockage/packages/f20/apt-cacher-ng/po/ru.po | 
- | [fi]({{< ref "/f20/language/fi.md" >}}) | 34 | 340 | 10.0 | /mnt/stockage/packages/f20/apt-cacher-ng/po/fi.po | 
- | [gl]({{< ref "/f20/language/gl.md" >}}) | 34 | 340 | 10.0 | /mnt/stockage/packages/f20/apt-cacher-ng/po/gl.po | 
- | [nl]({{< ref "/f20/language/nl.md" >}}) | 34 | 340 | 10.0 | /mnt/stockage/packages/f20/apt-cacher-ng/po/nl.po | 
- | [sv]({{< ref "/f20/language/sv.md" >}}) | 34 | 340 | 10.0 | /mnt/stockage/packages/f20/apt-cacher-ng/po/sv.po | 
- | [vi]({{< ref "/f20/language/vi.md" >}}) | 34 | 340 | 10.0 | /mnt/stockage/packages/f20/apt-cacher-ng/po/vi.po | 
+ | [cs](/f20/language/cs) | 340 | 340 | 100.0 | /mnt/stockage/packages/f20/apt-cacher-ng/po/cs.po | 
+ | [da](/f20/language/da) | 340 | 340 | 100.0 | /mnt/stockage/packages/f20/apt-cacher-ng/po/da.po | 
+ | [de](/f20/language/de) | 340 | 340 | 100.0 | /mnt/stockage/packages/f20/apt-cacher-ng/po/de.po | 
+ | [es](/f20/language/es) | 340 | 340 | 100.0 | /mnt/stockage/packages/f20/apt-cacher-ng/po/es.po | 
+ | [eu](/f20/language/eu) | 340 | 340 | 100.0 | /mnt/stockage/packages/f20/apt-cacher-ng/po/eu.po | 
+ | [fr](/f20/language/fr) | 340 | 340 | 100.0 | /mnt/stockage/packages/f20/apt-cacher-ng/po/fr.po | 
+ | [it](/f20/language/it) | 340 | 340 | 100.0 | /mnt/stockage/packages/f20/apt-cacher-ng/po/it.po | 
+ | [ja](/f20/language/ja) | 340 | 340 | 100.0 | /mnt/stockage/packages/f20/apt-cacher-ng/po/ja.po | 
+ | [pl](/f20/language/pl) | 340 | 340 | 100.0 | /mnt/stockage/packages/f20/apt-cacher-ng/po/pl.po | 
+ | [pt](/f20/language/pt) | 340 | 340 | 100.0 | /mnt/stockage/packages/f20/apt-cacher-ng/po/pt.po | 
+ | [pt_BR](/f20/language/pt_BR) | 340 | 340 | 100.0 | /mnt/stockage/packages/f20/apt-cacher-ng/po/pt_BR.po | 
+ | [ru](/f20/language/ru) | 340 | 340 | 100.0 | /mnt/stockage/packages/f20/apt-cacher-ng/po/ru.po | 
+ | [fi](/f20/language/fi) | 34 | 340 | 10.0 | /mnt/stockage/packages/f20/apt-cacher-ng/po/fi.po | 
+ | [gl](/f20/language/gl) | 34 | 340 | 10.0 | /mnt/stockage/packages/f20/apt-cacher-ng/po/gl.po | 
+ | [nl](/f20/language/nl) | 34 | 340 | 10.0 | /mnt/stockage/packages/f20/apt-cacher-ng/po/nl.po | 
+ | [sv](/f20/language/sv) | 34 | 340 | 10.0 | /mnt/stockage/packages/f20/apt-cacher-ng/po/sv.po | 
+ | [vi](/f20/language/vi) | 34 | 340 | 10.0 | /mnt/stockage/packages/f20/apt-cacher-ng/po/vi.po | 
 {.sortable}
 
 

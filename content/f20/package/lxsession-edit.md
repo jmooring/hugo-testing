@@ -18,64 +18,64 @@ The package lxsession-edit (version 0.2.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [bg]({{< ref "/f20/language/bg.md" >}}) | 64 | 64 | 100.0 | /mnt/stockage/packages/f20/lxsession-edit/po/bg.po | 
- | [da]({{< ref "/f20/language/da.md" >}}) | 64 | 64 | 100.0 | /mnt/stockage/packages/f20/lxsession-edit/po/da.po | 
- | [el]({{< ref "/f20/language/el.md" >}}) | 64 | 64 | 100.0 | /mnt/stockage/packages/f20/lxsession-edit/po/el.po | 
- | [en_GB]({{< ref "/f20/language/en_GB.md" >}}) | 64 | 64 | 100.0 | /mnt/stockage/packages/f20/lxsession-edit/po/en_GB.po | 
- | [gl]({{< ref "/f20/language/gl.md" >}}) | 64 | 64 | 100.0 | /mnt/stockage/packages/f20/lxsession-edit/po/gl.po | 
- | [lg]({{< ref "/f20/language/lg.md" >}}) | 64 | 64 | 100.0 | /mnt/stockage/packages/f20/lxsession-edit/po/lg.po | 
- | [lt]({{< ref "/f20/language/lt.md" >}}) | 64 | 64 | 100.0 | /mnt/stockage/packages/f20/lxsession-edit/po/lt.po | 
- | [nl]({{< ref "/f20/language/nl.md" >}}) | 64 | 64 | 100.0 | /mnt/stockage/packages/f20/lxsession-edit/po/nl.po | 
- | [pl]({{< ref "/f20/language/pl.md" >}}) | 64 | 64 | 100.0 | /mnt/stockage/packages/f20/lxsession-edit/po/pl.po | 
- | [pt]({{< ref "/f20/language/pt.md" >}}) | 64 | 64 | 100.0 | /mnt/stockage/packages/f20/lxsession-edit/po/pt.po | 
- | [pt_BR]({{< ref "/f20/language/pt_BR.md" >}}) | 64 | 64 | 100.0 | /mnt/stockage/packages/f20/lxsession-edit/po/pt_BR.po | 
- | [ru]({{< ref "/f20/language/ru.md" >}}) | 64 | 64 | 100.0 | /mnt/stockage/packages/f20/lxsession-edit/po/ru.po | 
- | [sl]({{< ref "/f20/language/sl.md" >}}) | 64 | 64 | 100.0 | /mnt/stockage/packages/f20/lxsession-edit/po/sl.po | 
- | [sv]({{< ref "/f20/language/sv.md" >}}) | 64 | 64 | 100.0 | /mnt/stockage/packages/f20/lxsession-edit/po/sv.po | 
- | [te]({{< ref "/f20/language/te.md" >}}) | 64 | 64 | 100.0 | /mnt/stockage/packages/f20/lxsession-edit/po/te.po | 
- | [tr]({{< ref "/f20/language/tr.md" >}}) | 64 | 64 | 100.0 | /mnt/stockage/packages/f20/lxsession-edit/po/tr.po | 
- | [tt]({{< ref "/f20/language/tt.md" >}}) | 64 | 64 | 100.0 | /mnt/stockage/packages/f20/lxsession-edit/po/tt_RU.po | 
- | [uk]({{< ref "/f20/language/uk.md" >}}) | 64 | 64 | 100.0 | /mnt/stockage/packages/f20/lxsession-edit/po/uk.po | 
- | [vi]({{< ref "/f20/language/vi.md" >}}) | 64 | 64 | 100.0 | /mnt/stockage/packages/f20/lxsession-edit/po/vi.po | 
- | [zh_Hans]({{< ref "/f20/language/zh_Hans.md" >}}) | 64 | 64 | 100.0 | /mnt/stockage/packages/f20/lxsession-edit/po/zh_CN.po | 
- | [af]({{< ref "/f20/language/af.md" >}}) | 62 | 64 | 96.9 | /mnt/stockage/packages/f20/lxsession-edit/po/af.po | 
- | [ar]({{< ref "/f20/language/ar.md" >}}) | 62 | 64 | 96.9 | /mnt/stockage/packages/f20/lxsession-edit/po/ar.po | 
- | [ast]({{< ref "/f20/language/ast.md" >}}) | 62 | 64 | 96.9 | /mnt/stockage/packages/f20/lxsession-edit/po/ast.po | 
- | [be]({{< ref "/f20/language/be.md" >}}) | 62 | 64 | 96.9 | /mnt/stockage/packages/f20/lxsession-edit/po/be.po | 
- | [bn]({{< ref "/f20/language/bn.md" >}}) | 62 | 64 | 96.9 | /mnt/stockage/packages/f20/lxsession-edit/po/bn.po | 
- | [ca]({{< ref "/f20/language/ca.md" >}}) | 62 | 64 | 96.9 | /mnt/stockage/packages/f20/lxsession-edit/po/ca.po | 
- | [cs]({{< ref "/f20/language/cs.md" >}}) | 62 | 64 | 96.9 | /mnt/stockage/packages/f20/lxsession-edit/po/cs.po | 
- | [de]({{< ref "/f20/language/de.md" >}}) | 62 | 64 | 96.9 | /mnt/stockage/packages/f20/lxsession-edit/po/de.po | 
- | [fa]({{< ref "/f20/language/fa.md" >}}) | 62 | 64 | 96.9 | /mnt/stockage/packages/f20/lxsession-edit/po/fa.po | 
- | [fi]({{< ref "/f20/language/fi.md" >}}) | 62 | 64 | 96.9 | /mnt/stockage/packages/f20/lxsession-edit/po/fi.po | 
- | [fo]({{< ref "/f20/language/fo.md" >}}) | 62 | 64 | 96.9 | /mnt/stockage/packages/f20/lxsession-edit/po/fo.po | 
- | [fr]({{< ref "/f20/language/fr.md" >}}) | 62 | 64 | 96.9 | /mnt/stockage/packages/f20/lxsession-edit/po/fr.po | 
- | [he]({{< ref "/f20/language/he.md" >}}) | 62 | 64 | 96.9 | /mnt/stockage/packages/f20/lxsession-edit/po/he.po | 
- | [hr]({{< ref "/f20/language/hr.md" >}}) | 62 | 64 | 96.9 | /mnt/stockage/packages/f20/lxsession-edit/po/hr.po | 
- | [hu]({{< ref "/f20/language/hu.md" >}}) | 62 | 64 | 96.9 | /mnt/stockage/packages/f20/lxsession-edit/po/hu.po | 
- | [id]({{< ref "/f20/language/id.md" >}}) | 62 | 64 | 96.9 | /mnt/stockage/packages/f20/lxsession-edit/po/id.po | 
- | [it]({{< ref "/f20/language/it.md" >}}) | 62 | 64 | 96.9 | /mnt/stockage/packages/f20/lxsession-edit/po/it.po | 
- | [ja]({{< ref "/f20/language/ja.md" >}}) | 62 | 64 | 96.9 | /mnt/stockage/packages/f20/lxsession-edit/po/ja.po | 
- | [nb_NO]({{< ref "/f20/language/nb_NO.md" >}}) | 62 | 64 | 96.9 | /mnt/stockage/packages/f20/lxsession-edit/po/nb.po | 
- | [nn]({{< ref "/f20/language/nn.md" >}}) | 62 | 64 | 96.9 | /mnt/stockage/packages/f20/lxsession-edit/po/nn.po | 
- | [pa]({{< ref "/f20/language/pa.md" >}}) | 62 | 64 | 96.9 | /mnt/stockage/packages/f20/lxsession-edit/po/pa.po | 
- | [ro]({{< ref "/f20/language/ro.md" >}}) | 62 | 64 | 96.9 | /mnt/stockage/packages/f20/lxsession-edit/po/ro.po | 
- | [sk]({{< ref "/f20/language/sk.md" >}}) | 62 | 64 | 96.9 | /mnt/stockage/packages/f20/lxsession-edit/po/sk.po | 
- | [sr]({{< ref "/f20/language/sr.md" >}}) | 62 | 64 | 96.9 | /mnt/stockage/packages/f20/lxsession-edit/po/sr.po | 
- | [sr_Latn]({{< ref "/f20/language/sr_Latn.md" >}}) | 62 | 64 | 96.9 | /mnt/stockage/packages/f20/lxsession-edit/po/sr@latin.po | 
- | [es]({{< ref "/f20/language/es.md" >}}) | 120 | 128 | 93.8 | /mnt/stockage/packages/f20/lxsession-edit/po/es_VE.po/mnt/stockage/packages/f20/lxsession-edit/po/es.po | 
- | [et]({{< ref "/f20/language/et.md" >}}) | 56 | 64 | 87.5 | /mnt/stockage/packages/f20/lxsession-edit/po/et.po | 
- | [eu]({{< ref "/f20/language/eu.md" >}}) | 56 | 64 | 87.5 | /mnt/stockage/packages/f20/lxsession-edit/po/eu.po | 
- | [ms]({{< ref "/f20/language/ms.md" >}}) | 56 | 64 | 87.5 | /mnt/stockage/packages/f20/lxsession-edit/po/ms.po | 
- | [ur]({{< ref "/f20/language/ur.md" >}}) | 112 | 128 | 87.5 | /mnt/stockage/packages/f20/lxsession-edit/po/ur_PK.po/mnt/stockage/packages/f20/lxsession-edit/po/ur.po | 
- | [zh_Hant]({{< ref "/f20/language/zh_Hant.md" >}}) | 56 | 64 | 87.5 | /mnt/stockage/packages/f20/lxsession-edit/po/zh_TW.po | 
- | [bn_IN]({{< ref "/f20/language/bn_IN.md" >}}) | 40 | 64 | 62.5 | /mnt/stockage/packages/f20/lxsession-edit/po/bn_IN.po | 
- | [si]({{< ref "/f20/language/si.md" >}}) | 23 | 64 | 35.9 | /mnt/stockage/packages/f20/lxsession-edit/po/si.po | 
- | [frp]({{< ref "/f20/language/frp.md" >}}) | 13 | 64 | 20.3 | /mnt/stockage/packages/f20/lxsession-edit/po/frp.po | 
- | [ko]({{< ref "/f20/language/ko.md" >}}) | 0 | 64 | 0.0 | /mnt/stockage/packages/f20/lxsession-edit/po/ko.po | 
- | [ml]({{< ref "/f20/language/ml.md" >}}) | 0 | 64 | 0.0 | /mnt/stockage/packages/f20/lxsession-edit/po/ml.po | 
- | [ps]({{< ref "/f20/language/ps.md" >}}) | 0 | 64 | 0.0 | /mnt/stockage/packages/f20/lxsession-edit/po/ps.po | 
- | [th]({{< ref "/f20/language/th.md" >}}) | 0 | 64 | 0.0 | /mnt/stockage/packages/f20/lxsession-edit/po/th.po | 
+ | [bg](/f20/language/bg) | 64 | 64 | 100.0 | /mnt/stockage/packages/f20/lxsession-edit/po/bg.po | 
+ | [da](/f20/language/da) | 64 | 64 | 100.0 | /mnt/stockage/packages/f20/lxsession-edit/po/da.po | 
+ | [el](/f20/language/el) | 64 | 64 | 100.0 | /mnt/stockage/packages/f20/lxsession-edit/po/el.po | 
+ | [en_GB](/f20/language/en_GB) | 64 | 64 | 100.0 | /mnt/stockage/packages/f20/lxsession-edit/po/en_GB.po | 
+ | [gl](/f20/language/gl) | 64 | 64 | 100.0 | /mnt/stockage/packages/f20/lxsession-edit/po/gl.po | 
+ | [lg](/f20/language/lg) | 64 | 64 | 100.0 | /mnt/stockage/packages/f20/lxsession-edit/po/lg.po | 
+ | [lt](/f20/language/lt) | 64 | 64 | 100.0 | /mnt/stockage/packages/f20/lxsession-edit/po/lt.po | 
+ | [nl](/f20/language/nl) | 64 | 64 | 100.0 | /mnt/stockage/packages/f20/lxsession-edit/po/nl.po | 
+ | [pl](/f20/language/pl) | 64 | 64 | 100.0 | /mnt/stockage/packages/f20/lxsession-edit/po/pl.po | 
+ | [pt](/f20/language/pt) | 64 | 64 | 100.0 | /mnt/stockage/packages/f20/lxsession-edit/po/pt.po | 
+ | [pt_BR](/f20/language/pt_BR) | 64 | 64 | 100.0 | /mnt/stockage/packages/f20/lxsession-edit/po/pt_BR.po | 
+ | [ru](/f20/language/ru) | 64 | 64 | 100.0 | /mnt/stockage/packages/f20/lxsession-edit/po/ru.po | 
+ | [sl](/f20/language/sl) | 64 | 64 | 100.0 | /mnt/stockage/packages/f20/lxsession-edit/po/sl.po | 
+ | [sv](/f20/language/sv) | 64 | 64 | 100.0 | /mnt/stockage/packages/f20/lxsession-edit/po/sv.po | 
+ | [te](/f20/language/te) | 64 | 64 | 100.0 | /mnt/stockage/packages/f20/lxsession-edit/po/te.po | 
+ | [tr](/f20/language/tr) | 64 | 64 | 100.0 | /mnt/stockage/packages/f20/lxsession-edit/po/tr.po | 
+ | [tt](/f20/language/tt) | 64 | 64 | 100.0 | /mnt/stockage/packages/f20/lxsession-edit/po/tt_RU.po | 
+ | [uk](/f20/language/uk) | 64 | 64 | 100.0 | /mnt/stockage/packages/f20/lxsession-edit/po/uk.po | 
+ | [vi](/f20/language/vi) | 64 | 64 | 100.0 | /mnt/stockage/packages/f20/lxsession-edit/po/vi.po | 
+ | [zh_Hans](/f20/language/zh_Hans) | 64 | 64 | 100.0 | /mnt/stockage/packages/f20/lxsession-edit/po/zh_CN.po | 
+ | [af](/f20/language/af) | 62 | 64 | 96.9 | /mnt/stockage/packages/f20/lxsession-edit/po/af.po | 
+ | [ar](/f20/language/ar) | 62 | 64 | 96.9 | /mnt/stockage/packages/f20/lxsession-edit/po/ar.po | 
+ | [ast](/f20/language/ast) | 62 | 64 | 96.9 | /mnt/stockage/packages/f20/lxsession-edit/po/ast.po | 
+ | [be](/f20/language/be) | 62 | 64 | 96.9 | /mnt/stockage/packages/f20/lxsession-edit/po/be.po | 
+ | [bn](/f20/language/bn) | 62 | 64 | 96.9 | /mnt/stockage/packages/f20/lxsession-edit/po/bn.po | 
+ | [ca](/f20/language/ca) | 62 | 64 | 96.9 | /mnt/stockage/packages/f20/lxsession-edit/po/ca.po | 
+ | [cs](/f20/language/cs) | 62 | 64 | 96.9 | /mnt/stockage/packages/f20/lxsession-edit/po/cs.po | 
+ | [de](/f20/language/de) | 62 | 64 | 96.9 | /mnt/stockage/packages/f20/lxsession-edit/po/de.po | 
+ | [fa](/f20/language/fa) | 62 | 64 | 96.9 | /mnt/stockage/packages/f20/lxsession-edit/po/fa.po | 
+ | [fi](/f20/language/fi) | 62 | 64 | 96.9 | /mnt/stockage/packages/f20/lxsession-edit/po/fi.po | 
+ | [fo](/f20/language/fo) | 62 | 64 | 96.9 | /mnt/stockage/packages/f20/lxsession-edit/po/fo.po | 
+ | [fr](/f20/language/fr) | 62 | 64 | 96.9 | /mnt/stockage/packages/f20/lxsession-edit/po/fr.po | 
+ | [he](/f20/language/he) | 62 | 64 | 96.9 | /mnt/stockage/packages/f20/lxsession-edit/po/he.po | 
+ | [hr](/f20/language/hr) | 62 | 64 | 96.9 | /mnt/stockage/packages/f20/lxsession-edit/po/hr.po | 
+ | [hu](/f20/language/hu) | 62 | 64 | 96.9 | /mnt/stockage/packages/f20/lxsession-edit/po/hu.po | 
+ | [id](/f20/language/id) | 62 | 64 | 96.9 | /mnt/stockage/packages/f20/lxsession-edit/po/id.po | 
+ | [it](/f20/language/it) | 62 | 64 | 96.9 | /mnt/stockage/packages/f20/lxsession-edit/po/it.po | 
+ | [ja](/f20/language/ja) | 62 | 64 | 96.9 | /mnt/stockage/packages/f20/lxsession-edit/po/ja.po | 
+ | [nb_NO](/f20/language/nb_NO) | 62 | 64 | 96.9 | /mnt/stockage/packages/f20/lxsession-edit/po/nb.po | 
+ | [nn](/f20/language/nn) | 62 | 64 | 96.9 | /mnt/stockage/packages/f20/lxsession-edit/po/nn.po | 
+ | [pa](/f20/language/pa) | 62 | 64 | 96.9 | /mnt/stockage/packages/f20/lxsession-edit/po/pa.po | 
+ | [ro](/f20/language/ro) | 62 | 64 | 96.9 | /mnt/stockage/packages/f20/lxsession-edit/po/ro.po | 
+ | [sk](/f20/language/sk) | 62 | 64 | 96.9 | /mnt/stockage/packages/f20/lxsession-edit/po/sk.po | 
+ | [sr](/f20/language/sr) | 62 | 64 | 96.9 | /mnt/stockage/packages/f20/lxsession-edit/po/sr.po | 
+ | [sr_Latn](/f20/language/sr_Latn) | 62 | 64 | 96.9 | /mnt/stockage/packages/f20/lxsession-edit/po/sr@latin.po | 
+ | [es](/f20/language/es) | 120 | 128 | 93.8 | /mnt/stockage/packages/f20/lxsession-edit/po/es_VE.po/mnt/stockage/packages/f20/lxsession-edit/po/es.po | 
+ | [et](/f20/language/et) | 56 | 64 | 87.5 | /mnt/stockage/packages/f20/lxsession-edit/po/et.po | 
+ | [eu](/f20/language/eu) | 56 | 64 | 87.5 | /mnt/stockage/packages/f20/lxsession-edit/po/eu.po | 
+ | [ms](/f20/language/ms) | 56 | 64 | 87.5 | /mnt/stockage/packages/f20/lxsession-edit/po/ms.po | 
+ | [ur](/f20/language/ur) | 112 | 128 | 87.5 | /mnt/stockage/packages/f20/lxsession-edit/po/ur_PK.po/mnt/stockage/packages/f20/lxsession-edit/po/ur.po | 
+ | [zh_Hant](/f20/language/zh_Hant) | 56 | 64 | 87.5 | /mnt/stockage/packages/f20/lxsession-edit/po/zh_TW.po | 
+ | [bn_IN](/f20/language/bn_IN) | 40 | 64 | 62.5 | /mnt/stockage/packages/f20/lxsession-edit/po/bn_IN.po | 
+ | [si](/f20/language/si) | 23 | 64 | 35.9 | /mnt/stockage/packages/f20/lxsession-edit/po/si.po | 
+ | [frp](/f20/language/frp) | 13 | 64 | 20.3 | /mnt/stockage/packages/f20/lxsession-edit/po/frp.po | 
+ | [ko](/f20/language/ko) | 0 | 64 | 0.0 | /mnt/stockage/packages/f20/lxsession-edit/po/ko.po | 
+ | [ml](/f20/language/ml) | 0 | 64 | 0.0 | /mnt/stockage/packages/f20/lxsession-edit/po/ml.po | 
+ | [ps](/f20/language/ps) | 0 | 64 | 0.0 | /mnt/stockage/packages/f20/lxsession-edit/po/ps.po | 
+ | [th](/f20/language/th) | 0 | 64 | 0.0 | /mnt/stockage/packages/f20/lxsession-edit/po/th.po | 
 {.sortable}
 
 

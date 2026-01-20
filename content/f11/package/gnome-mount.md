@@ -18,33 +18,33 @@ The package gnome-mount (version 0.8):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [be_Latn]({{< ref "/f11/language/be_Latn.md" >}}) | 790 | 790 | 100.0 | /mnt/stockage/packages/f11/gnome-mount/po/be@latin.po | 
- | [ca]({{< ref "/f11/language/ca.md" >}}) | 790 | 790 | 100.0 | /mnt/stockage/packages/f11/gnome-mount/po/ca.po | 
- | [da]({{< ref "/f11/language/da.md" >}}) | 694 | 694 | 100.0 | /mnt/stockage/packages/f11/gnome-mount/po/da.po | 
- | [dz]({{< ref "/f11/language/dz.md" >}}) | 790 | 790 | 100.0 | /mnt/stockage/packages/f11/gnome-mount/po/dz.po | 
- | [en_GB]({{< ref "/f11/language/en_GB.md" >}}) | 792 | 792 | 100.0 | /mnt/stockage/packages/f11/gnome-mount/po/en_GB.po | 
- | [es]({{< ref "/f11/language/es.md" >}}) | 797 | 797 | 100.0 | /mnt/stockage/packages/f11/gnome-mount/po/es.po | 
- | [fi]({{< ref "/f11/language/fi.md" >}}) | 792 | 792 | 100.0 | /mnt/stockage/packages/f11/gnome-mount/po/fi.po | 
- | [fr]({{< ref "/f11/language/fr.md" >}}) | 790 | 790 | 100.0 | /mnt/stockage/packages/f11/gnome-mount/po/fr.po | 
- | [hu]({{< ref "/f11/language/hu.md" >}}) | 792 | 792 | 100.0 | /mnt/stockage/packages/f11/gnome-mount/po/hu.po | 
- | [it]({{< ref "/f11/language/it.md" >}}) | 792 | 792 | 100.0 | /mnt/stockage/packages/f11/gnome-mount/po/it.po | 
- | [ja]({{< ref "/f11/language/ja.md" >}}) | 790 | 790 | 100.0 | /mnt/stockage/packages/f11/gnome-mount/po/ja.po | 
- | [lv]({{< ref "/f11/language/lv.md" >}}) | 790 | 790 | 100.0 | /mnt/stockage/packages/f11/gnome-mount/po/lv.po | 
- | [mk]({{< ref "/f11/language/mk.md" >}}) | 608 | 608 | 100.0 | /mnt/stockage/packages/f11/gnome-mount/po/mk.po | 
- | [pl]({{< ref "/f11/language/pl.md" >}}) | 790 | 790 | 100.0 | /mnt/stockage/packages/f11/gnome-mount/po/pl.po | 
- | [pt]({{< ref "/f11/language/pt.md" >}}) | 790 | 790 | 100.0 | /mnt/stockage/packages/f11/gnome-mount/po/pt.po | 
- | [pt_BR]({{< ref "/f11/language/pt_BR.md" >}}) | 792 | 792 | 100.0 | /mnt/stockage/packages/f11/gnome-mount/po/pt_BR.po | 
- | [ru]({{< ref "/f11/language/ru.md" >}}) | 790 | 790 | 100.0 | /mnt/stockage/packages/f11/gnome-mount/po/ru.po | 
- | [sv]({{< ref "/f11/language/sv.md" >}}) | 792 | 792 | 100.0 | /mnt/stockage/packages/f11/gnome-mount/po/sv.po | 
- | [vi]({{< ref "/f11/language/vi.md" >}}) | 608 | 608 | 100.0 | /mnt/stockage/packages/f11/gnome-mount/po/vi.po | 
- | [be]({{< ref "/f11/language/be.md" >}}) | 668 | 694 | 96.3 | /mnt/stockage/packages/f11/gnome-mount/po/be.po | 
- | [zh_Hant]({{< ref "/f11/language/zh_Hant.md" >}}) | 737 | 792 | 93.1 | /mnt/stockage/packages/f11/gnome-mount/po/zh_TW.po | 
- | [zh_Hant_HK]({{< ref "/f11/language/zh_Hant_HK.md" >}}) | 737 | 792 | 93.1 | /mnt/stockage/packages/f11/gnome-mount/po/zh_HK.po | 
- | [el]({{< ref "/f11/language/el.md" >}}) | 532 | 792 | 67.2 | /mnt/stockage/packages/f11/gnome-mount/po/el.po | 
- | [pa]({{< ref "/f11/language/pa.md" >}}) | 322 | 790 | 40.8 | /mnt/stockage/packages/f11/gnome-mount/po/pa.po | 
- | [ar]({{< ref "/f11/language/ar.md" >}}) | 253 | 790 | 32.0 | /mnt/stockage/packages/f11/gnome-mount/po/ar.po | 
- | [nb_NO]({{< ref "/f11/language/nb_NO.md" >}}) | 168 | 615 | 27.3 | /mnt/stockage/packages/f11/gnome-mount/po/nb.po | 
- | [oc]({{< ref "/f11/language/oc.md" >}}) | 90 | 792 | 11.4 | /mnt/stockage/packages/f11/gnome-mount/po/oc.po | 
+ | [be_Latn](/f11/language/be_Latn) | 790 | 790 | 100.0 | /mnt/stockage/packages/f11/gnome-mount/po/be@latin.po | 
+ | [ca](/f11/language/ca) | 790 | 790 | 100.0 | /mnt/stockage/packages/f11/gnome-mount/po/ca.po | 
+ | [da](/f11/language/da) | 694 | 694 | 100.0 | /mnt/stockage/packages/f11/gnome-mount/po/da.po | 
+ | [dz](/f11/language/dz) | 790 | 790 | 100.0 | /mnt/stockage/packages/f11/gnome-mount/po/dz.po | 
+ | [en_GB](/f11/language/en_GB) | 792 | 792 | 100.0 | /mnt/stockage/packages/f11/gnome-mount/po/en_GB.po | 
+ | [es](/f11/language/es) | 797 | 797 | 100.0 | /mnt/stockage/packages/f11/gnome-mount/po/es.po | 
+ | [fi](/f11/language/fi) | 792 | 792 | 100.0 | /mnt/stockage/packages/f11/gnome-mount/po/fi.po | 
+ | [fr](/f11/language/fr) | 790 | 790 | 100.0 | /mnt/stockage/packages/f11/gnome-mount/po/fr.po | 
+ | [hu](/f11/language/hu) | 792 | 792 | 100.0 | /mnt/stockage/packages/f11/gnome-mount/po/hu.po | 
+ | [it](/f11/language/it) | 792 | 792 | 100.0 | /mnt/stockage/packages/f11/gnome-mount/po/it.po | 
+ | [ja](/f11/language/ja) | 790 | 790 | 100.0 | /mnt/stockage/packages/f11/gnome-mount/po/ja.po | 
+ | [lv](/f11/language/lv) | 790 | 790 | 100.0 | /mnt/stockage/packages/f11/gnome-mount/po/lv.po | 
+ | [mk](/f11/language/mk) | 608 | 608 | 100.0 | /mnt/stockage/packages/f11/gnome-mount/po/mk.po | 
+ | [pl](/f11/language/pl) | 790 | 790 | 100.0 | /mnt/stockage/packages/f11/gnome-mount/po/pl.po | 
+ | [pt](/f11/language/pt) | 790 | 790 | 100.0 | /mnt/stockage/packages/f11/gnome-mount/po/pt.po | 
+ | [pt_BR](/f11/language/pt_BR) | 792 | 792 | 100.0 | /mnt/stockage/packages/f11/gnome-mount/po/pt_BR.po | 
+ | [ru](/f11/language/ru) | 790 | 790 | 100.0 | /mnt/stockage/packages/f11/gnome-mount/po/ru.po | 
+ | [sv](/f11/language/sv) | 792 | 792 | 100.0 | /mnt/stockage/packages/f11/gnome-mount/po/sv.po | 
+ | [vi](/f11/language/vi) | 608 | 608 | 100.0 | /mnt/stockage/packages/f11/gnome-mount/po/vi.po | 
+ | [be](/f11/language/be) | 668 | 694 | 96.3 | /mnt/stockage/packages/f11/gnome-mount/po/be.po | 
+ | [zh_Hant](/f11/language/zh_Hant) | 737 | 792 | 93.1 | /mnt/stockage/packages/f11/gnome-mount/po/zh_TW.po | 
+ | [zh_Hant_HK](/f11/language/zh_Hant_HK) | 737 | 792 | 93.1 | /mnt/stockage/packages/f11/gnome-mount/po/zh_HK.po | 
+ | [el](/f11/language/el) | 532 | 792 | 67.2 | /mnt/stockage/packages/f11/gnome-mount/po/el.po | 
+ | [pa](/f11/language/pa) | 322 | 790 | 40.8 | /mnt/stockage/packages/f11/gnome-mount/po/pa.po | 
+ | [ar](/f11/language/ar) | 253 | 790 | 32.0 | /mnt/stockage/packages/f11/gnome-mount/po/ar.po | 
+ | [nb_NO](/f11/language/nb_NO) | 168 | 615 | 27.3 | /mnt/stockage/packages/f11/gnome-mount/po/nb.po | 
+ | [oc](/f11/language/oc) | 90 | 792 | 11.4 | /mnt/stockage/packages/f11/gnome-mount/po/oc.po | 
 {.sortable}
 
 

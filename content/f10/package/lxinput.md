@@ -18,7 +18,7 @@ The package lxinput (version 0.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [zh_Hant]({{< ref "/f10/language/zh_Hant.md" >}}) | 60 | 60 | 100.0 | /mnt/stockage/packages/f10/lxinput/po/zh_TW.po | 
+ | [zh_Hant](/f10/language/zh_Hant) | 60 | 60 | 100.0 | /mnt/stockage/packages/f10/lxinput/po/zh_TW.po | 
 {.sortable}
 
 

@@ -18,29 +18,29 @@ The package wicd-kde (version 0.3.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [da]({{< ref "/f17/language/da.md" >}}) | 353 | 353 | 100.0 | /mnt/stockage/packages/f17/wicd-kde/po/wicd-kde_da.po | 
- | [el]({{< ref "/f17/language/el.md" >}}) | 353 | 353 | 100.0 | /mnt/stockage/packages/f17/wicd-kde/po/wicd-kde_el.po | 
- | [hu]({{< ref "/f17/language/hu.md" >}}) | 353 | 353 | 100.0 | /mnt/stockage/packages/f17/wicd-kde/po/wicd-kde_hu.po | 
- | [nb_NO]({{< ref "/f17/language/nb_NO.md" >}}) | 353 | 353 | 100.0 | /mnt/stockage/packages/f17/wicd-kde/po/wicd-kde_nb.po | 
- | [nl]({{< ref "/f17/language/nl.md" >}}) | 353 | 353 | 100.0 | /mnt/stockage/packages/f17/wicd-kde/po/wicd-kde_nl.po | 
- | [pt]({{< ref "/f17/language/pt.md" >}}) | 353 | 353 | 100.0 | /mnt/stockage/packages/f17/wicd-kde/po/wicd-kde_pt.po | 
- | [pt_BR]({{< ref "/f17/language/pt_BR.md" >}}) | 353 | 353 | 100.0 | /mnt/stockage/packages/f17/wicd-kde/po/wicd-kde_pt_BR.po | 
- | [sv]({{< ref "/f17/language/sv.md" >}}) | 353 | 353 | 100.0 | /mnt/stockage/packages/f17/wicd-kde/po/wicd-kde_sv.po | 
- | [uk]({{< ref "/f17/language/uk.md" >}}) | 353 | 353 | 100.0 | /mnt/stockage/packages/f17/wicd-kde/po/wicd-kde_uk.po | 
- | [zh_Hant]({{< ref "/f17/language/zh_Hant.md" >}}) | 353 | 353 | 100.0 | /mnt/stockage/packages/f17/wicd-kde/po/wicd-kde_zh_TW.po | 
- | [cs]({{< ref "/f17/language/cs.md" >}}) | 345 | 353 | 97.7 | /mnt/stockage/packages/f17/wicd-kde/po/wicd-kde_cs.po | 
- | [fr]({{< ref "/f17/language/fr.md" >}}) | 339 | 353 | 96.0 | /mnt/stockage/packages/f17/wicd-kde/po/wicd-kde_fr.po | 
- | [lt]({{< ref "/f17/language/lt.md" >}}) | 339 | 353 | 96.0 | /mnt/stockage/packages/f17/wicd-kde/po/wicd-kde_lt.po | 
- | [zh_Hans]({{< ref "/f17/language/zh_Hans.md" >}}) | 339 | 353 | 96.0 | /mnt/stockage/packages/f17/wicd-kde/po/wicd-kde_zh_CN.po | 
- | [de]({{< ref "/f17/language/de.md" >}}) | 331 | 353 | 93.8 | /mnt/stockage/packages/f17/wicd-kde/po/wicd-kde_de.po | 
- | [en_GB]({{< ref "/f17/language/en_GB.md" >}}) | 329 | 353 | 93.2 | /mnt/stockage/packages/f17/wicd-kde/po/wicd-kde_en_GB.po | 
- | [es]({{< ref "/f17/language/es.md" >}}) | 329 | 353 | 93.2 | /mnt/stockage/packages/f17/wicd-kde/po/wicd-kde_es.po | 
- | [et]({{< ref "/f17/language/et.md" >}}) | 329 | 353 | 93.2 | /mnt/stockage/packages/f17/wicd-kde/po/wicd-kde_et.po | 
- | [it]({{< ref "/f17/language/it.md" >}}) | 329 | 353 | 93.2 | /mnt/stockage/packages/f17/wicd-kde/po/wicd-kde_it.po | 
- | [pl]({{< ref "/f17/language/pl.md" >}}) | 329 | 353 | 93.2 | /mnt/stockage/packages/f17/wicd-kde/po/wicd-kde_pl.po | 
- | [ru]({{< ref "/f17/language/ru.md" >}}) | 329 | 353 | 93.2 | /mnt/stockage/packages/f17/wicd-kde/po/wicd-kde_ru.po | 
- | [nds]({{< ref "/f17/language/nds.md" >}}) | 250 | 353 | 70.8 | /mnt/stockage/packages/f17/wicd-kde/po/wicd-kde_nds.po | 
- | [pa]({{< ref "/f17/language/pa.md" >}}) | 245 | 353 | 69.4 | /mnt/stockage/packages/f17/wicd-kde/po/wicd-kde_pa.po | 
+ | [da](/f17/language/da) | 353 | 353 | 100.0 | /mnt/stockage/packages/f17/wicd-kde/po/wicd-kde_da.po | 
+ | [el](/f17/language/el) | 353 | 353 | 100.0 | /mnt/stockage/packages/f17/wicd-kde/po/wicd-kde_el.po | 
+ | [hu](/f17/language/hu) | 353 | 353 | 100.0 | /mnt/stockage/packages/f17/wicd-kde/po/wicd-kde_hu.po | 
+ | [nb_NO](/f17/language/nb_NO) | 353 | 353 | 100.0 | /mnt/stockage/packages/f17/wicd-kde/po/wicd-kde_nb.po | 
+ | [nl](/f17/language/nl) | 353 | 353 | 100.0 | /mnt/stockage/packages/f17/wicd-kde/po/wicd-kde_nl.po | 
+ | [pt](/f17/language/pt) | 353 | 353 | 100.0 | /mnt/stockage/packages/f17/wicd-kde/po/wicd-kde_pt.po | 
+ | [pt_BR](/f17/language/pt_BR) | 353 | 353 | 100.0 | /mnt/stockage/packages/f17/wicd-kde/po/wicd-kde_pt_BR.po | 
+ | [sv](/f17/language/sv) | 353 | 353 | 100.0 | /mnt/stockage/packages/f17/wicd-kde/po/wicd-kde_sv.po | 
+ | [uk](/f17/language/uk) | 353 | 353 | 100.0 | /mnt/stockage/packages/f17/wicd-kde/po/wicd-kde_uk.po | 
+ | [zh_Hant](/f17/language/zh_Hant) | 353 | 353 | 100.0 | /mnt/stockage/packages/f17/wicd-kde/po/wicd-kde_zh_TW.po | 
+ | [cs](/f17/language/cs) | 345 | 353 | 97.7 | /mnt/stockage/packages/f17/wicd-kde/po/wicd-kde_cs.po | 
+ | [fr](/f17/language/fr) | 339 | 353 | 96.0 | /mnt/stockage/packages/f17/wicd-kde/po/wicd-kde_fr.po | 
+ | [lt](/f17/language/lt) | 339 | 353 | 96.0 | /mnt/stockage/packages/f17/wicd-kde/po/wicd-kde_lt.po | 
+ | [zh_Hans](/f17/language/zh_Hans) | 339 | 353 | 96.0 | /mnt/stockage/packages/f17/wicd-kde/po/wicd-kde_zh_CN.po | 
+ | [de](/f17/language/de) | 331 | 353 | 93.8 | /mnt/stockage/packages/f17/wicd-kde/po/wicd-kde_de.po | 
+ | [en_GB](/f17/language/en_GB) | 329 | 353 | 93.2 | /mnt/stockage/packages/f17/wicd-kde/po/wicd-kde_en_GB.po | 
+ | [es](/f17/language/es) | 329 | 353 | 93.2 | /mnt/stockage/packages/f17/wicd-kde/po/wicd-kde_es.po | 
+ | [et](/f17/language/et) | 329 | 353 | 93.2 | /mnt/stockage/packages/f17/wicd-kde/po/wicd-kde_et.po | 
+ | [it](/f17/language/it) | 329 | 353 | 93.2 | /mnt/stockage/packages/f17/wicd-kde/po/wicd-kde_it.po | 
+ | [pl](/f17/language/pl) | 329 | 353 | 93.2 | /mnt/stockage/packages/f17/wicd-kde/po/wicd-kde_pl.po | 
+ | [ru](/f17/language/ru) | 329 | 353 | 93.2 | /mnt/stockage/packages/f17/wicd-kde/po/wicd-kde_ru.po | 
+ | [nds](/f17/language/nds) | 250 | 353 | 70.8 | /mnt/stockage/packages/f17/wicd-kde/po/wicd-kde_nds.po | 
+ | [pa](/f17/language/pa) | 245 | 353 | 69.4 | /mnt/stockage/packages/f17/wicd-kde/po/wicd-kde_pa.po | 
 {.sortable}
 
 

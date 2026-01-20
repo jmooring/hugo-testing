@@ -18,9 +18,9 @@ The package pspp (version 0.6.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [nl]({{< ref "/f11/language/nl.md" >}}) | 6558 | 7700 | 85.2 | /mnt/stockage/packages/f11/pspp/po/nl.po | 
- | [pt_BR]({{< ref "/f11/language/pt_BR.md" >}}) | 5122 | 7700 | 66.5 | /mnt/stockage/packages/f11/pspp/po/pt_BR.po | 
- | [en_GB]({{< ref "/f11/language/en_GB.md" >}}) | 8 | 7700 | 0.1 | /mnt/stockage/packages/f11/pspp/po/en_GB.po | 
+ | [nl](/f11/language/nl) | 6558 | 7700 | 85.2 | /mnt/stockage/packages/f11/pspp/po/nl.po | 
+ | [pt_BR](/f11/language/pt_BR) | 5122 | 7700 | 66.5 | /mnt/stockage/packages/f11/pspp/po/pt_BR.po | 
+ | [en_GB](/f11/language/en_GB) | 8 | 7700 | 0.1 | /mnt/stockage/packages/f11/pspp/po/en_GB.po | 
 {.sortable}
 
 

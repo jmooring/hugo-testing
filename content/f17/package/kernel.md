@@ -18,11 +18,11 @@ The package kernel (version 3.9.10):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f17/language/de.md" >}}) | 473 | 1149 | 41.2 | /mnt/stockage/packages/f17/kernel/tools/power/cpupower/po/de.po | 
- | [it]({{< ref "/f17/language/it.md" >}}) | 473 | 1149 | 41.2 | /mnt/stockage/packages/f17/kernel/tools/power/cpupower/po/it.po | 
- | [pt]({{< ref "/f17/language/pt.md" >}}) | 473 | 1149 | 41.2 | /mnt/stockage/packages/f17/kernel/tools/power/cpupower/po/pt.po | 
- | [cs]({{< ref "/f17/language/cs.md" >}}) | 394 | 1149 | 34.3 | /mnt/stockage/packages/f17/kernel/tools/power/cpupower/po/cs.po | 
- | [fr]({{< ref "/f17/language/fr.md" >}}) | 394 | 1149 | 34.3 | /mnt/stockage/packages/f17/kernel/tools/power/cpupower/po/fr.po | 
+ | [de](/f17/language/de) | 473 | 1149 | 41.2 | /mnt/stockage/packages/f17/kernel/tools/power/cpupower/po/de.po | 
+ | [it](/f17/language/it) | 473 | 1149 | 41.2 | /mnt/stockage/packages/f17/kernel/tools/power/cpupower/po/it.po | 
+ | [pt](/f17/language/pt) | 473 | 1149 | 41.2 | /mnt/stockage/packages/f17/kernel/tools/power/cpupower/po/pt.po | 
+ | [cs](/f17/language/cs) | 394 | 1149 | 34.3 | /mnt/stockage/packages/f17/kernel/tools/power/cpupower/po/cs.po | 
+ | [fr](/f17/language/fr) | 394 | 1149 | 34.3 | /mnt/stockage/packages/f17/kernel/tools/power/cpupower/po/fr.po | 
 {.sortable}
 
 

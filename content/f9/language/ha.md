@@ -42,7 +42,7 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [sugar]({{< ref "/f9/package/sugar.md" >}}) | 9 | 242 | 3.7 | hausa | 
+ | [sugar](/f9/package/sugar) | 9 | 242 | 3.7 | hausa | 
 {.sortable}
 
 

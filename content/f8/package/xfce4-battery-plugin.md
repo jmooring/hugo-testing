@@ -18,11 +18,11 @@ The package xfce4-battery-plugin (version 0.5.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f8/language/cs.md" >}}) | 123 | 123 | 100.0 | /mnt/stockage/packages/f8/xfce4-battery-plugin/po/cs.po | 
- | [eu]({{< ref "/f8/language/eu.md" >}}) | 123 | 123 | 100.0 | /mnt/stockage/packages/f8/xfce4-battery-plugin/po/eu.po | 
- | [fr]({{< ref "/f8/language/fr.md" >}}) | 123 | 123 | 100.0 | /mnt/stockage/packages/f8/xfce4-battery-plugin/po/fr.po | 
- | [ca]({{< ref "/f8/language/ca.md" >}}) | 116 | 123 | 94.3 | /mnt/stockage/packages/f8/xfce4-battery-plugin/po/ca.po | 
- | [pl]({{< ref "/f8/language/pl.md" >}}) | 112 | 123 | 91.1 | /mnt/stockage/packages/f8/xfce4-battery-plugin/po/pl.po | 
+ | [cs](/f8/language/cs) | 123 | 123 | 100.0 | /mnt/stockage/packages/f8/xfce4-battery-plugin/po/cs.po | 
+ | [eu](/f8/language/eu) | 123 | 123 | 100.0 | /mnt/stockage/packages/f8/xfce4-battery-plugin/po/eu.po | 
+ | [fr](/f8/language/fr) | 123 | 123 | 100.0 | /mnt/stockage/packages/f8/xfce4-battery-plugin/po/fr.po | 
+ | [ca](/f8/language/ca) | 116 | 123 | 94.3 | /mnt/stockage/packages/f8/xfce4-battery-plugin/po/ca.po | 
+ | [pl](/f8/language/pl) | 112 | 123 | 91.1 | /mnt/stockage/packages/f8/xfce4-battery-plugin/po/pl.po | 
 {.sortable}
 
 

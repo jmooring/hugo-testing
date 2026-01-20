@@ -18,58 +18,58 @@ The package libgnome-games-support (version 1.8.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [af]({{< ref "/f38/language/af.md" >}}) | 43 | 43 | 100.0 | /mnt/stockage/packages/f38/libgnome-games-support/po/af.po | 
- | [ar]({{< ref "/f38/language/ar.md" >}}) | 43 | 43 | 100.0 | /mnt/stockage/packages/f38/libgnome-games-support/po/ar.po | 
- | [be]({{< ref "/f38/language/be.md" >}}) | 43 | 43 | 100.0 | /mnt/stockage/packages/f38/libgnome-games-support/po/be.po | 
- | [bg]({{< ref "/f38/language/bg.md" >}}) | 43 | 43 | 100.0 | /mnt/stockage/packages/f38/libgnome-games-support/po/bg.po | 
- | [ca]({{< ref "/f38/language/ca.md" >}}) | 43 | 43 | 100.0 | /mnt/stockage/packages/f38/libgnome-games-support/po/ca.po | 
- | [ca@valencia]({{< ref "/f38/language/ca@valencia.md" >}}) | 43 | 43 | 100.0 | /mnt/stockage/packages/f38/libgnome-games-support/po/ca@valencia.po | 
- | [cs]({{< ref "/f38/language/cs.md" >}}) | 43 | 43 | 100.0 | /mnt/stockage/packages/f38/libgnome-games-support/po/cs.po | 
- | [da]({{< ref "/f38/language/da.md" >}}) | 43 | 43 | 100.0 | /mnt/stockage/packages/f38/libgnome-games-support/po/da.po | 
- | [de]({{< ref "/f38/language/de.md" >}}) | 43 | 43 | 100.0 | /mnt/stockage/packages/f38/libgnome-games-support/po/de.po | 
- | [el]({{< ref "/f38/language/el.md" >}}) | 43 | 43 | 100.0 | /mnt/stockage/packages/f38/libgnome-games-support/po/el.po | 
- | [en_GB]({{< ref "/f38/language/en_GB.md" >}}) | 43 | 43 | 100.0 | /mnt/stockage/packages/f38/libgnome-games-support/po/en_GB.po | 
- | [es]({{< ref "/f38/language/es.md" >}}) | 43 | 43 | 100.0 | /mnt/stockage/packages/f38/libgnome-games-support/po/es.po | 
- | [eu]({{< ref "/f38/language/eu.md" >}}) | 43 | 43 | 100.0 | /mnt/stockage/packages/f38/libgnome-games-support/po/eu.po | 
- | [fa]({{< ref "/f38/language/fa.md" >}}) | 43 | 43 | 100.0 | /mnt/stockage/packages/f38/libgnome-games-support/po/fa.po | 
- | [fi]({{< ref "/f38/language/fi.md" >}}) | 43 | 43 | 100.0 | /mnt/stockage/packages/f38/libgnome-games-support/po/fi.po | 
- | [fr]({{< ref "/f38/language/fr.md" >}}) | 43 | 43 | 100.0 | /mnt/stockage/packages/f38/libgnome-games-support/po/fr.po | 
- | [fur]({{< ref "/f38/language/fur.md" >}}) | 43 | 43 | 100.0 | /mnt/stockage/packages/f38/libgnome-games-support/po/fur.po | 
- | [gl]({{< ref "/f38/language/gl.md" >}}) | 43 | 43 | 100.0 | /mnt/stockage/packages/f38/libgnome-games-support/po/gl.po | 
- | [he]({{< ref "/f38/language/he.md" >}}) | 43 | 43 | 100.0 | /mnt/stockage/packages/f38/libgnome-games-support/po/he.po | 
- | [hr]({{< ref "/f38/language/hr.md" >}}) | 43 | 43 | 100.0 | /mnt/stockage/packages/f38/libgnome-games-support/po/hr.po | 
- | [hu]({{< ref "/f38/language/hu.md" >}}) | 43 | 43 | 100.0 | /mnt/stockage/packages/f38/libgnome-games-support/po/hu.po | 
- | [id]({{< ref "/f38/language/id.md" >}}) | 43 | 43 | 100.0 | /mnt/stockage/packages/f38/libgnome-games-support/po/id.po | 
- | [is]({{< ref "/f38/language/is.md" >}}) | 43 | 43 | 100.0 | /mnt/stockage/packages/f38/libgnome-games-support/po/is.po | 
- | [it]({{< ref "/f38/language/it.md" >}}) | 43 | 43 | 100.0 | /mnt/stockage/packages/f38/libgnome-games-support/po/it.po | 
- | [ja]({{< ref "/f38/language/ja.md" >}}) | 43 | 43 | 100.0 | /mnt/stockage/packages/f38/libgnome-games-support/po/ja.po | 
- | [kk]({{< ref "/f38/language/kk.md" >}}) | 43 | 43 | 100.0 | /mnt/stockage/packages/f38/libgnome-games-support/po/kk.po | 
- | [ko]({{< ref "/f38/language/ko.md" >}}) | 43 | 43 | 100.0 | /mnt/stockage/packages/f38/libgnome-games-support/po/ko.po | 
- | [lt]({{< ref "/f38/language/lt.md" >}}) | 43 | 43 | 100.0 | /mnt/stockage/packages/f38/libgnome-games-support/po/lt.po | 
- | [lv]({{< ref "/f38/language/lv.md" >}}) | 43 | 43 | 100.0 | /mnt/stockage/packages/f38/libgnome-games-support/po/lv.po | 
- | [ml]({{< ref "/f38/language/ml.md" >}}) | 43 | 43 | 100.0 | /mnt/stockage/packages/f38/libgnome-games-support/po/ml.po | 
- | [ms]({{< ref "/f38/language/ms.md" >}}) | 43 | 43 | 100.0 | /mnt/stockage/packages/f38/libgnome-games-support/po/ms.po | 
- | [nb_NO]({{< ref "/f38/language/nb_NO.md" >}}) | 43 | 43 | 100.0 | /mnt/stockage/packages/f38/libgnome-games-support/po/nb.po | 
- | [ne]({{< ref "/f38/language/ne.md" >}}) | 43 | 43 | 100.0 | /mnt/stockage/packages/f38/libgnome-games-support/po/ne.po | 
- | [nl]({{< ref "/f38/language/nl.md" >}}) | 43 | 43 | 100.0 | /mnt/stockage/packages/f38/libgnome-games-support/po/nl.po | 
- | [oc]({{< ref "/f38/language/oc.md" >}}) | 43 | 43 | 100.0 | /mnt/stockage/packages/f38/libgnome-games-support/po/oc.po | 
- | [pa]({{< ref "/f38/language/pa.md" >}}) | 43 | 43 | 100.0 | /mnt/stockage/packages/f38/libgnome-games-support/po/pa.po | 
- | [pl]({{< ref "/f38/language/pl.md" >}}) | 43 | 43 | 100.0 | /mnt/stockage/packages/f38/libgnome-games-support/po/pl.po | 
- | [pt]({{< ref "/f38/language/pt.md" >}}) | 43 | 43 | 100.0 | /mnt/stockage/packages/f38/libgnome-games-support/po/pt.po | 
- | [pt_BR]({{< ref "/f38/language/pt_BR.md" >}}) | 43 | 43 | 100.0 | /mnt/stockage/packages/f38/libgnome-games-support/po/pt_BR.po | 
- | [ro]({{< ref "/f38/language/ro.md" >}}) | 43 | 43 | 100.0 | /mnt/stockage/packages/f38/libgnome-games-support/po/ro.po | 
- | [ru]({{< ref "/f38/language/ru.md" >}}) | 43 | 43 | 100.0 | /mnt/stockage/packages/f38/libgnome-games-support/po/ru.po | 
- | [sk]({{< ref "/f38/language/sk.md" >}}) | 43 | 43 | 100.0 | /mnt/stockage/packages/f38/libgnome-games-support/po/sk.po | 
- | [sl]({{< ref "/f38/language/sl.md" >}}) | 43 | 43 | 100.0 | /mnt/stockage/packages/f38/libgnome-games-support/po/sl.po | 
- | [sr]({{< ref "/f38/language/sr.md" >}}) | 86 | 86 | 100.0 | /mnt/stockage/packages/f38/libgnome-games-support/po/sr@latin.po/mnt/stockage/packages/f38/libgnome-games-support/po/sr.po | 
- | [sv]({{< ref "/f38/language/sv.md" >}}) | 43 | 43 | 100.0 | /mnt/stockage/packages/f38/libgnome-games-support/po/sv.po | 
- | [ta]({{< ref "/f38/language/ta.md" >}}) | 43 | 43 | 100.0 | /mnt/stockage/packages/f38/libgnome-games-support/po/ta.po | 
- | [tr]({{< ref "/f38/language/tr.md" >}}) | 43 | 43 | 100.0 | /mnt/stockage/packages/f38/libgnome-games-support/po/tr.po | 
- | [uk]({{< ref "/f38/language/uk.md" >}}) | 43 | 43 | 100.0 | /mnt/stockage/packages/f38/libgnome-games-support/po/uk.po | 
- | [zh_Hans]({{< ref "/f38/language/zh_Hans.md" >}}) | 43 | 43 | 100.0 | /mnt/stockage/packages/f38/libgnome-games-support/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f38/language/zh_Hant.md" >}}) | 43 | 43 | 100.0 | /mnt/stockage/packages/f38/libgnome-games-support/po/zh_TW.po | 
- | [mjw]({{< ref "/f38/language/mjw.md" >}}) | 42 | 43 | 97.7 | /mnt/stockage/packages/f38/libgnome-games-support/po/mjw.po | 
- | [eo]({{< ref "/f38/language/eo.md" >}}) | 41 | 43 | 95.3 | /mnt/stockage/packages/f38/libgnome-games-support/po/eo.po | 
+ | [af](/f38/language/af) | 43 | 43 | 100.0 | /mnt/stockage/packages/f38/libgnome-games-support/po/af.po | 
+ | [ar](/f38/language/ar) | 43 | 43 | 100.0 | /mnt/stockage/packages/f38/libgnome-games-support/po/ar.po | 
+ | [be](/f38/language/be) | 43 | 43 | 100.0 | /mnt/stockage/packages/f38/libgnome-games-support/po/be.po | 
+ | [bg](/f38/language/bg) | 43 | 43 | 100.0 | /mnt/stockage/packages/f38/libgnome-games-support/po/bg.po | 
+ | [ca](/f38/language/ca) | 43 | 43 | 100.0 | /mnt/stockage/packages/f38/libgnome-games-support/po/ca.po | 
+ | [ca@valencia](/f38/language/ca@valencia) | 43 | 43 | 100.0 | /mnt/stockage/packages/f38/libgnome-games-support/po/ca@valencia.po | 
+ | [cs](/f38/language/cs) | 43 | 43 | 100.0 | /mnt/stockage/packages/f38/libgnome-games-support/po/cs.po | 
+ | [da](/f38/language/da) | 43 | 43 | 100.0 | /mnt/stockage/packages/f38/libgnome-games-support/po/da.po | 
+ | [de](/f38/language/de) | 43 | 43 | 100.0 | /mnt/stockage/packages/f38/libgnome-games-support/po/de.po | 
+ | [el](/f38/language/el) | 43 | 43 | 100.0 | /mnt/stockage/packages/f38/libgnome-games-support/po/el.po | 
+ | [en_GB](/f38/language/en_GB) | 43 | 43 | 100.0 | /mnt/stockage/packages/f38/libgnome-games-support/po/en_GB.po | 
+ | [es](/f38/language/es) | 43 | 43 | 100.0 | /mnt/stockage/packages/f38/libgnome-games-support/po/es.po | 
+ | [eu](/f38/language/eu) | 43 | 43 | 100.0 | /mnt/stockage/packages/f38/libgnome-games-support/po/eu.po | 
+ | [fa](/f38/language/fa) | 43 | 43 | 100.0 | /mnt/stockage/packages/f38/libgnome-games-support/po/fa.po | 
+ | [fi](/f38/language/fi) | 43 | 43 | 100.0 | /mnt/stockage/packages/f38/libgnome-games-support/po/fi.po | 
+ | [fr](/f38/language/fr) | 43 | 43 | 100.0 | /mnt/stockage/packages/f38/libgnome-games-support/po/fr.po | 
+ | [fur](/f38/language/fur) | 43 | 43 | 100.0 | /mnt/stockage/packages/f38/libgnome-games-support/po/fur.po | 
+ | [gl](/f38/language/gl) | 43 | 43 | 100.0 | /mnt/stockage/packages/f38/libgnome-games-support/po/gl.po | 
+ | [he](/f38/language/he) | 43 | 43 | 100.0 | /mnt/stockage/packages/f38/libgnome-games-support/po/he.po | 
+ | [hr](/f38/language/hr) | 43 | 43 | 100.0 | /mnt/stockage/packages/f38/libgnome-games-support/po/hr.po | 
+ | [hu](/f38/language/hu) | 43 | 43 | 100.0 | /mnt/stockage/packages/f38/libgnome-games-support/po/hu.po | 
+ | [id](/f38/language/id) | 43 | 43 | 100.0 | /mnt/stockage/packages/f38/libgnome-games-support/po/id.po | 
+ | [is](/f38/language/is) | 43 | 43 | 100.0 | /mnt/stockage/packages/f38/libgnome-games-support/po/is.po | 
+ | [it](/f38/language/it) | 43 | 43 | 100.0 | /mnt/stockage/packages/f38/libgnome-games-support/po/it.po | 
+ | [ja](/f38/language/ja) | 43 | 43 | 100.0 | /mnt/stockage/packages/f38/libgnome-games-support/po/ja.po | 
+ | [kk](/f38/language/kk) | 43 | 43 | 100.0 | /mnt/stockage/packages/f38/libgnome-games-support/po/kk.po | 
+ | [ko](/f38/language/ko) | 43 | 43 | 100.0 | /mnt/stockage/packages/f38/libgnome-games-support/po/ko.po | 
+ | [lt](/f38/language/lt) | 43 | 43 | 100.0 | /mnt/stockage/packages/f38/libgnome-games-support/po/lt.po | 
+ | [lv](/f38/language/lv) | 43 | 43 | 100.0 | /mnt/stockage/packages/f38/libgnome-games-support/po/lv.po | 
+ | [ml](/f38/language/ml) | 43 | 43 | 100.0 | /mnt/stockage/packages/f38/libgnome-games-support/po/ml.po | 
+ | [ms](/f38/language/ms) | 43 | 43 | 100.0 | /mnt/stockage/packages/f38/libgnome-games-support/po/ms.po | 
+ | [nb_NO](/f38/language/nb_NO) | 43 | 43 | 100.0 | /mnt/stockage/packages/f38/libgnome-games-support/po/nb.po | 
+ | [ne](/f38/language/ne) | 43 | 43 | 100.0 | /mnt/stockage/packages/f38/libgnome-games-support/po/ne.po | 
+ | [nl](/f38/language/nl) | 43 | 43 | 100.0 | /mnt/stockage/packages/f38/libgnome-games-support/po/nl.po | 
+ | [oc](/f38/language/oc) | 43 | 43 | 100.0 | /mnt/stockage/packages/f38/libgnome-games-support/po/oc.po | 
+ | [pa](/f38/language/pa) | 43 | 43 | 100.0 | /mnt/stockage/packages/f38/libgnome-games-support/po/pa.po | 
+ | [pl](/f38/language/pl) | 43 | 43 | 100.0 | /mnt/stockage/packages/f38/libgnome-games-support/po/pl.po | 
+ | [pt](/f38/language/pt) | 43 | 43 | 100.0 | /mnt/stockage/packages/f38/libgnome-games-support/po/pt.po | 
+ | [pt_BR](/f38/language/pt_BR) | 43 | 43 | 100.0 | /mnt/stockage/packages/f38/libgnome-games-support/po/pt_BR.po | 
+ | [ro](/f38/language/ro) | 43 | 43 | 100.0 | /mnt/stockage/packages/f38/libgnome-games-support/po/ro.po | 
+ | [ru](/f38/language/ru) | 43 | 43 | 100.0 | /mnt/stockage/packages/f38/libgnome-games-support/po/ru.po | 
+ | [sk](/f38/language/sk) | 43 | 43 | 100.0 | /mnt/stockage/packages/f38/libgnome-games-support/po/sk.po | 
+ | [sl](/f38/language/sl) | 43 | 43 | 100.0 | /mnt/stockage/packages/f38/libgnome-games-support/po/sl.po | 
+ | [sr](/f38/language/sr) | 86 | 86 | 100.0 | /mnt/stockage/packages/f38/libgnome-games-support/po/sr@latin.po/mnt/stockage/packages/f38/libgnome-games-support/po/sr.po | 
+ | [sv](/f38/language/sv) | 43 | 43 | 100.0 | /mnt/stockage/packages/f38/libgnome-games-support/po/sv.po | 
+ | [ta](/f38/language/ta) | 43 | 43 | 100.0 | /mnt/stockage/packages/f38/libgnome-games-support/po/ta.po | 
+ | [tr](/f38/language/tr) | 43 | 43 | 100.0 | /mnt/stockage/packages/f38/libgnome-games-support/po/tr.po | 
+ | [uk](/f38/language/uk) | 43 | 43 | 100.0 | /mnt/stockage/packages/f38/libgnome-games-support/po/uk.po | 
+ | [zh_Hans](/f38/language/zh_Hans) | 43 | 43 | 100.0 | /mnt/stockage/packages/f38/libgnome-games-support/po/zh_CN.po | 
+ | [zh_Hant](/f38/language/zh_Hant) | 43 | 43 | 100.0 | /mnt/stockage/packages/f38/libgnome-games-support/po/zh_TW.po | 
+ | [mjw](/f38/language/mjw) | 42 | 43 | 97.7 | /mnt/stockage/packages/f38/libgnome-games-support/po/mjw.po | 
+ | [eo](/f38/language/eo) | 41 | 43 | 95.3 | /mnt/stockage/packages/f38/libgnome-games-support/po/eo.po | 
 {.sortable}
 
 

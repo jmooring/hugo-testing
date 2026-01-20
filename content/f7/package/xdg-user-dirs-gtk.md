@@ -18,10 +18,10 @@ The package xdg-user-dirs-gtk (version 0.5):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f7/language/de.md" >}}) | 52 | 52 | 100.0 | /mnt/stockage/packages/f7/xdg-user-dirs-gtk/po/de.po | 
- | [ja]({{< ref "/f7/language/ja.md" >}}) | 52 | 52 | 100.0 | /mnt/stockage/packages/f7/xdg-user-dirs-gtk/po/ja.po | 
- | [nb_NO]({{< ref "/f7/language/nb_NO.md" >}}) | 52 | 52 | 100.0 | /mnt/stockage/packages/f7/xdg-user-dirs-gtk/po/nb.po | 
- | [nn]({{< ref "/f7/language/nn.md" >}}) | 52 | 52 | 100.0 | /mnt/stockage/packages/f7/xdg-user-dirs-gtk/po/nn.po | 
+ | [de](/f7/language/de) | 52 | 52 | 100.0 | /mnt/stockage/packages/f7/xdg-user-dirs-gtk/po/de.po | 
+ | [ja](/f7/language/ja) | 52 | 52 | 100.0 | /mnt/stockage/packages/f7/xdg-user-dirs-gtk/po/ja.po | 
+ | [nb_NO](/f7/language/nb_NO) | 52 | 52 | 100.0 | /mnt/stockage/packages/f7/xdg-user-dirs-gtk/po/nb.po | 
+ | [nn](/f7/language/nn) | 52 | 52 | 100.0 | /mnt/stockage/packages/f7/xdg-user-dirs-gtk/po/nn.po | 
 {.sortable}
 
 

@@ -18,61 +18,61 @@ The package plasma-integration (version 6.5.5):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f42/language/ar.md" >}}) | 72 | 72 | 100.0 | /mnt/stockage/packages/f42/plasma-integration/po/ar/plasmaintegration5.po | 
- | [bg]({{< ref "/f42/language/bg.md" >}}) | 72 | 72 | 100.0 | /mnt/stockage/packages/f42/plasma-integration/po/bg/plasmaintegration5.po | 
- | [ca]({{< ref "/f42/language/ca.md" >}}) | 72 | 72 | 100.0 | /mnt/stockage/packages/f42/plasma-integration/po/ca/plasmaintegration5.po | 
- | [ca@valencia]({{< ref "/f42/language/ca@valencia.md" >}}) | 72 | 72 | 100.0 | /mnt/stockage/packages/f42/plasma-integration/po/ca@valencia/plasmaintegration5.po | 
- | [da]({{< ref "/f42/language/da.md" >}}) | 72 | 72 | 100.0 | /mnt/stockage/packages/f42/plasma-integration/po/da/plasmaintegration5.po | 
- | [en_GB]({{< ref "/f42/language/en_GB.md" >}}) | 72 | 72 | 100.0 | /mnt/stockage/packages/f42/plasma-integration/po/en_GB/plasmaintegration5.po | 
- | [eo]({{< ref "/f42/language/eo.md" >}}) | 72 | 72 | 100.0 | /mnt/stockage/packages/f42/plasma-integration/po/eo/plasmaintegration5.po | 
- | [es]({{< ref "/f42/language/es.md" >}}) | 72 | 72 | 100.0 | /mnt/stockage/packages/f42/plasma-integration/po/es/plasmaintegration5.po | 
- | [eu]({{< ref "/f42/language/eu.md" >}}) | 72 | 72 | 100.0 | /mnt/stockage/packages/f42/plasma-integration/po/eu/plasmaintegration5.po | 
- | [fi]({{< ref "/f42/language/fi.md" >}}) | 72 | 72 | 100.0 | /mnt/stockage/packages/f42/plasma-integration/po/fi/plasmaintegration5.po | 
- | [fr]({{< ref "/f42/language/fr.md" >}}) | 72 | 72 | 100.0 | /mnt/stockage/packages/f42/plasma-integration/po/fr/plasmaintegration5.po | 
- | [gl]({{< ref "/f42/language/gl.md" >}}) | 72 | 72 | 100.0 | /mnt/stockage/packages/f42/plasma-integration/po/gl/plasmaintegration5.po | 
- | [he]({{< ref "/f42/language/he.md" >}}) | 72 | 72 | 100.0 | /mnt/stockage/packages/f42/plasma-integration/po/he/plasmaintegration5.po | 
- | [hu]({{< ref "/f42/language/hu.md" >}}) | 72 | 72 | 100.0 | /mnt/stockage/packages/f42/plasma-integration/po/hu/plasmaintegration5.po | 
- | [ia]({{< ref "/f42/language/ia.md" >}}) | 72 | 72 | 100.0 | /mnt/stockage/packages/f42/plasma-integration/po/ia/plasmaintegration5.po | 
- | [is]({{< ref "/f42/language/is.md" >}}) | 72 | 72 | 100.0 | /mnt/stockage/packages/f42/plasma-integration/po/is/plasmaintegration5.po | 
- | [it]({{< ref "/f42/language/it.md" >}}) | 72 | 72 | 100.0 | /mnt/stockage/packages/f42/plasma-integration/po/it/plasmaintegration5.po | 
- | [ka]({{< ref "/f42/language/ka.md" >}}) | 72 | 72 | 100.0 | /mnt/stockage/packages/f42/plasma-integration/po/ka/plasmaintegration5.po | 
- | [ko]({{< ref "/f42/language/ko.md" >}}) | 72 | 72 | 100.0 | /mnt/stockage/packages/f42/plasma-integration/po/ko/plasmaintegration5.po | 
- | [lt]({{< ref "/f42/language/lt.md" >}}) | 72 | 72 | 100.0 | /mnt/stockage/packages/f42/plasma-integration/po/lt/plasmaintegration5.po | 
- | [lv]({{< ref "/f42/language/lv.md" >}}) | 72 | 72 | 100.0 | /mnt/stockage/packages/f42/plasma-integration/po/lv/plasmaintegration5.po | 
- | [nl]({{< ref "/f42/language/nl.md" >}}) | 72 | 72 | 100.0 | /mnt/stockage/packages/f42/plasma-integration/po/nl/plasmaintegration5.po | 
- | [nn]({{< ref "/f42/language/nn.md" >}}) | 72 | 72 | 100.0 | /mnt/stockage/packages/f42/plasma-integration/po/nn/plasmaintegration5.po | 
- | [pl]({{< ref "/f42/language/pl.md" >}}) | 72 | 72 | 100.0 | /mnt/stockage/packages/f42/plasma-integration/po/pl/plasmaintegration5.po | 
- | [pt_BR]({{< ref "/f42/language/pt_BR.md" >}}) | 72 | 72 | 100.0 | /mnt/stockage/packages/f42/plasma-integration/po/pt_BR/plasmaintegration5.po | 
- | [ro]({{< ref "/f42/language/ro.md" >}}) | 72 | 72 | 100.0 | /mnt/stockage/packages/f42/plasma-integration/po/ro/plasmaintegration5.po | 
- | [ru]({{< ref "/f42/language/ru.md" >}}) | 72 | 72 | 100.0 | /mnt/stockage/packages/f42/plasma-integration/po/ru/plasmaintegration5.po | 
- | [sa]({{< ref "/f42/language/sa.md" >}}) | 72 | 72 | 100.0 | /mnt/stockage/packages/f42/plasma-integration/po/sa/plasmaintegration5.po | 
- | [sl]({{< ref "/f42/language/sl.md" >}}) | 72 | 72 | 100.0 | /mnt/stockage/packages/f42/plasma-integration/po/sl/plasmaintegration5.po | 
- | [sv]({{< ref "/f42/language/sv.md" >}}) | 72 | 72 | 100.0 | /mnt/stockage/packages/f42/plasma-integration/po/sv/plasmaintegration5.po | 
- | [ta]({{< ref "/f42/language/ta.md" >}}) | 72 | 72 | 100.0 | /mnt/stockage/packages/f42/plasma-integration/po/ta/plasmaintegration5.po | 
- | [tr]({{< ref "/f42/language/tr.md" >}}) | 72 | 72 | 100.0 | /mnt/stockage/packages/f42/plasma-integration/po/tr/plasmaintegration5.po | 
- | [uk]({{< ref "/f42/language/uk.md" >}}) | 72 | 72 | 100.0 | /mnt/stockage/packages/f42/plasma-integration/po/uk/plasmaintegration5.po | 
- | [zh_Hans]({{< ref "/f42/language/zh_Hans.md" >}}) | 72 | 72 | 100.0 | /mnt/stockage/packages/f42/plasma-integration/po/zh_CN/plasmaintegration5.po | 
- | [zh_Hant]({{< ref "/f42/language/zh_Hant.md" >}}) | 72 | 72 | 100.0 | /mnt/stockage/packages/f42/plasma-integration/po/zh_TW/plasmaintegration5.po | 
- | [cs]({{< ref "/f42/language/cs.md" >}}) | 60 | 72 | 83.3 | /mnt/stockage/packages/f42/plasma-integration/po/cs/plasmaintegration5.po | 
- | [de]({{< ref "/f42/language/de.md" >}}) | 60 | 72 | 83.3 | /mnt/stockage/packages/f42/plasma-integration/po/de/plasmaintegration5.po | 
- | [pa]({{< ref "/f42/language/pa.md" >}}) | 60 | 72 | 83.3 | /mnt/stockage/packages/f42/plasma-integration/po/pa/plasmaintegration5.po | 
- | [pt]({{< ref "/f42/language/pt.md" >}}) | 60 | 72 | 83.3 | /mnt/stockage/packages/f42/plasma-integration/po/pt/plasmaintegration5.po | 
- | [sk]({{< ref "/f42/language/sk.md" >}}) | 60 | 72 | 83.3 | /mnt/stockage/packages/f42/plasma-integration/po/sk/plasmaintegration5.po | 
- | [vi]({{< ref "/f42/language/vi.md" >}}) | 60 | 72 | 83.3 | /mnt/stockage/packages/f42/plasma-integration/po/vi/plasmaintegration5.po | 
- | [az]({{< ref "/f42/language/az.md" >}}) | 58 | 72 | 80.6 | /mnt/stockage/packages/f42/plasma-integration/po/az/plasmaintegration5.po | 
- | [el]({{< ref "/f42/language/el.md" >}}) | 58 | 72 | 80.6 | /mnt/stockage/packages/f42/plasma-integration/po/el/plasmaintegration5.po | 
- | [et]({{< ref "/f42/language/et.md" >}}) | 58 | 72 | 80.6 | /mnt/stockage/packages/f42/plasma-integration/po/et/plasmaintegration5.po | 
- | [hi]({{< ref "/f42/language/hi.md" >}}) | 58 | 72 | 80.6 | /mnt/stockage/packages/f42/plasma-integration/po/hi/plasmaintegration5.po | 
- | [id]({{< ref "/f42/language/id.md" >}}) | 58 | 72 | 80.6 | /mnt/stockage/packages/f42/plasma-integration/po/id/plasmaintegration5.po | 
- | [ja]({{< ref "/f42/language/ja.md" >}}) | 58 | 72 | 80.6 | /mnt/stockage/packages/f42/plasma-integration/po/ja/plasmaintegration5.po | 
- | [nb_NO]({{< ref "/f42/language/nb_NO.md" >}}) | 58 | 72 | 80.6 | /mnt/stockage/packages/f42/plasma-integration/po/nb/plasmaintegration5.po | 
- | [sr]({{< ref "/f42/language/sr.md" >}}) | 58 | 72 | 80.6 | /mnt/stockage/packages/f42/plasma-integration/po/sr/plasmaintegration5.po | 
- | [sr@ijekavian]({{< ref "/f42/language/sr@ijekavian.md" >}}) | 58 | 72 | 80.6 | /mnt/stockage/packages/f42/plasma-integration/po/sr@ijekavian/plasmaintegration5.po | 
- | [sr@ijekavian_Latn]({{< ref "/f42/language/sr@ijekavian_Latn.md" >}}) | 58 | 72 | 80.6 | /mnt/stockage/packages/f42/plasma-integration/po/sr@ijekavianlatin/plasmaintegration5.po | 
- | [sr_Latn]({{< ref "/f42/language/sr_Latn.md" >}}) | 58 | 72 | 80.6 | /mnt/stockage/packages/f42/plasma-integration/po/sr@latin/plasmaintegration5.po | 
- | [ast]({{< ref "/f42/language/ast.md" >}}) | 45 | 72 | 62.5 | /mnt/stockage/packages/f42/plasma-integration/po/ast/plasmaintegration5.po | 
- | [ga]({{< ref "/f42/language/ga.md" >}}) | 0 | 72 | 0.0 | /mnt/stockage/packages/f42/plasma-integration/po/ga/plasmaintegration5.po | 
- | [ml]({{< ref "/f42/language/ml.md" >}}) | 0 | 72 | 0.0 | /mnt/stockage/packages/f42/plasma-integration/po/ml/plasmaintegration5.po | 
+ | [ar](/f42/language/ar) | 72 | 72 | 100.0 | /mnt/stockage/packages/f42/plasma-integration/po/ar/plasmaintegration5.po | 
+ | [bg](/f42/language/bg) | 72 | 72 | 100.0 | /mnt/stockage/packages/f42/plasma-integration/po/bg/plasmaintegration5.po | 
+ | [ca](/f42/language/ca) | 72 | 72 | 100.0 | /mnt/stockage/packages/f42/plasma-integration/po/ca/plasmaintegration5.po | 
+ | [ca@valencia](/f42/language/ca@valencia) | 72 | 72 | 100.0 | /mnt/stockage/packages/f42/plasma-integration/po/ca@valencia/plasmaintegration5.po | 
+ | [da](/f42/language/da) | 72 | 72 | 100.0 | /mnt/stockage/packages/f42/plasma-integration/po/da/plasmaintegration5.po | 
+ | [en_GB](/f42/language/en_GB) | 72 | 72 | 100.0 | /mnt/stockage/packages/f42/plasma-integration/po/en_GB/plasmaintegration5.po | 
+ | [eo](/f42/language/eo) | 72 | 72 | 100.0 | /mnt/stockage/packages/f42/plasma-integration/po/eo/plasmaintegration5.po | 
+ | [es](/f42/language/es) | 72 | 72 | 100.0 | /mnt/stockage/packages/f42/plasma-integration/po/es/plasmaintegration5.po | 
+ | [eu](/f42/language/eu) | 72 | 72 | 100.0 | /mnt/stockage/packages/f42/plasma-integration/po/eu/plasmaintegration5.po | 
+ | [fi](/f42/language/fi) | 72 | 72 | 100.0 | /mnt/stockage/packages/f42/plasma-integration/po/fi/plasmaintegration5.po | 
+ | [fr](/f42/language/fr) | 72 | 72 | 100.0 | /mnt/stockage/packages/f42/plasma-integration/po/fr/plasmaintegration5.po | 
+ | [gl](/f42/language/gl) | 72 | 72 | 100.0 | /mnt/stockage/packages/f42/plasma-integration/po/gl/plasmaintegration5.po | 
+ | [he](/f42/language/he) | 72 | 72 | 100.0 | /mnt/stockage/packages/f42/plasma-integration/po/he/plasmaintegration5.po | 
+ | [hu](/f42/language/hu) | 72 | 72 | 100.0 | /mnt/stockage/packages/f42/plasma-integration/po/hu/plasmaintegration5.po | 
+ | [ia](/f42/language/ia) | 72 | 72 | 100.0 | /mnt/stockage/packages/f42/plasma-integration/po/ia/plasmaintegration5.po | 
+ | [is](/f42/language/is) | 72 | 72 | 100.0 | /mnt/stockage/packages/f42/plasma-integration/po/is/plasmaintegration5.po | 
+ | [it](/f42/language/it) | 72 | 72 | 100.0 | /mnt/stockage/packages/f42/plasma-integration/po/it/plasmaintegration5.po | 
+ | [ka](/f42/language/ka) | 72 | 72 | 100.0 | /mnt/stockage/packages/f42/plasma-integration/po/ka/plasmaintegration5.po | 
+ | [ko](/f42/language/ko) | 72 | 72 | 100.0 | /mnt/stockage/packages/f42/plasma-integration/po/ko/plasmaintegration5.po | 
+ | [lt](/f42/language/lt) | 72 | 72 | 100.0 | /mnt/stockage/packages/f42/plasma-integration/po/lt/plasmaintegration5.po | 
+ | [lv](/f42/language/lv) | 72 | 72 | 100.0 | /mnt/stockage/packages/f42/plasma-integration/po/lv/plasmaintegration5.po | 
+ | [nl](/f42/language/nl) | 72 | 72 | 100.0 | /mnt/stockage/packages/f42/plasma-integration/po/nl/plasmaintegration5.po | 
+ | [nn](/f42/language/nn) | 72 | 72 | 100.0 | /mnt/stockage/packages/f42/plasma-integration/po/nn/plasmaintegration5.po | 
+ | [pl](/f42/language/pl) | 72 | 72 | 100.0 | /mnt/stockage/packages/f42/plasma-integration/po/pl/plasmaintegration5.po | 
+ | [pt_BR](/f42/language/pt_BR) | 72 | 72 | 100.0 | /mnt/stockage/packages/f42/plasma-integration/po/pt_BR/plasmaintegration5.po | 
+ | [ro](/f42/language/ro) | 72 | 72 | 100.0 | /mnt/stockage/packages/f42/plasma-integration/po/ro/plasmaintegration5.po | 
+ | [ru](/f42/language/ru) | 72 | 72 | 100.0 | /mnt/stockage/packages/f42/plasma-integration/po/ru/plasmaintegration5.po | 
+ | [sa](/f42/language/sa) | 72 | 72 | 100.0 | /mnt/stockage/packages/f42/plasma-integration/po/sa/plasmaintegration5.po | 
+ | [sl](/f42/language/sl) | 72 | 72 | 100.0 | /mnt/stockage/packages/f42/plasma-integration/po/sl/plasmaintegration5.po | 
+ | [sv](/f42/language/sv) | 72 | 72 | 100.0 | /mnt/stockage/packages/f42/plasma-integration/po/sv/plasmaintegration5.po | 
+ | [ta](/f42/language/ta) | 72 | 72 | 100.0 | /mnt/stockage/packages/f42/plasma-integration/po/ta/plasmaintegration5.po | 
+ | [tr](/f42/language/tr) | 72 | 72 | 100.0 | /mnt/stockage/packages/f42/plasma-integration/po/tr/plasmaintegration5.po | 
+ | [uk](/f42/language/uk) | 72 | 72 | 100.0 | /mnt/stockage/packages/f42/plasma-integration/po/uk/plasmaintegration5.po | 
+ | [zh_Hans](/f42/language/zh_Hans) | 72 | 72 | 100.0 | /mnt/stockage/packages/f42/plasma-integration/po/zh_CN/plasmaintegration5.po | 
+ | [zh_Hant](/f42/language/zh_Hant) | 72 | 72 | 100.0 | /mnt/stockage/packages/f42/plasma-integration/po/zh_TW/plasmaintegration5.po | 
+ | [cs](/f42/language/cs) | 60 | 72 | 83.3 | /mnt/stockage/packages/f42/plasma-integration/po/cs/plasmaintegration5.po | 
+ | [de](/f42/language/de) | 60 | 72 | 83.3 | /mnt/stockage/packages/f42/plasma-integration/po/de/plasmaintegration5.po | 
+ | [pa](/f42/language/pa) | 60 | 72 | 83.3 | /mnt/stockage/packages/f42/plasma-integration/po/pa/plasmaintegration5.po | 
+ | [pt](/f42/language/pt) | 60 | 72 | 83.3 | /mnt/stockage/packages/f42/plasma-integration/po/pt/plasmaintegration5.po | 
+ | [sk](/f42/language/sk) | 60 | 72 | 83.3 | /mnt/stockage/packages/f42/plasma-integration/po/sk/plasmaintegration5.po | 
+ | [vi](/f42/language/vi) | 60 | 72 | 83.3 | /mnt/stockage/packages/f42/plasma-integration/po/vi/plasmaintegration5.po | 
+ | [az](/f42/language/az) | 58 | 72 | 80.6 | /mnt/stockage/packages/f42/plasma-integration/po/az/plasmaintegration5.po | 
+ | [el](/f42/language/el) | 58 | 72 | 80.6 | /mnt/stockage/packages/f42/plasma-integration/po/el/plasmaintegration5.po | 
+ | [et](/f42/language/et) | 58 | 72 | 80.6 | /mnt/stockage/packages/f42/plasma-integration/po/et/plasmaintegration5.po | 
+ | [hi](/f42/language/hi) | 58 | 72 | 80.6 | /mnt/stockage/packages/f42/plasma-integration/po/hi/plasmaintegration5.po | 
+ | [id](/f42/language/id) | 58 | 72 | 80.6 | /mnt/stockage/packages/f42/plasma-integration/po/id/plasmaintegration5.po | 
+ | [ja](/f42/language/ja) | 58 | 72 | 80.6 | /mnt/stockage/packages/f42/plasma-integration/po/ja/plasmaintegration5.po | 
+ | [nb_NO](/f42/language/nb_NO) | 58 | 72 | 80.6 | /mnt/stockage/packages/f42/plasma-integration/po/nb/plasmaintegration5.po | 
+ | [sr](/f42/language/sr) | 58 | 72 | 80.6 | /mnt/stockage/packages/f42/plasma-integration/po/sr/plasmaintegration5.po | 
+ | [sr@ijekavian](/f42/language/sr@ijekavian) | 58 | 72 | 80.6 | /mnt/stockage/packages/f42/plasma-integration/po/sr@ijekavian/plasmaintegration5.po | 
+ | [sr@ijekavian_Latn](/f42/language/sr@ijekavian_Latn) | 58 | 72 | 80.6 | /mnt/stockage/packages/f42/plasma-integration/po/sr@ijekavianlatin/plasmaintegration5.po | 
+ | [sr_Latn](/f42/language/sr_Latn) | 58 | 72 | 80.6 | /mnt/stockage/packages/f42/plasma-integration/po/sr@latin/plasmaintegration5.po | 
+ | [ast](/f42/language/ast) | 45 | 72 | 62.5 | /mnt/stockage/packages/f42/plasma-integration/po/ast/plasmaintegration5.po | 
+ | [ga](/f42/language/ga) | 0 | 72 | 0.0 | /mnt/stockage/packages/f42/plasma-integration/po/ga/plasmaintegration5.po | 
+ | [ml](/f42/language/ml) | 0 | 72 | 0.0 | /mnt/stockage/packages/f42/plasma-integration/po/ml/plasmaintegration5.po | 
 {.sortable}
 
 

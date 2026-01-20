@@ -18,200 +18,200 @@ The package wingpanel-indicator-keyboard (version 2.1.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f27/language/ca.md" >}}) | 10 | 10 | 100.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/ca.po | 
- | [cs]({{< ref "/f27/language/cs.md" >}}) | 10 | 10 | 100.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/cs.po | 
- | [da]({{< ref "/f27/language/da.md" >}}) | 10 | 10 | 100.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/da.po | 
- | [de]({{< ref "/f27/language/de.md" >}}) | 10 | 10 | 100.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/de.po | 
- | [en_CA]({{< ref "/f27/language/en_CA.md" >}}) | 10 | 10 | 100.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/en_CA.po | 
- | [en_GB]({{< ref "/f27/language/en_GB.md" >}}) | 10 | 10 | 100.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/en_GB.po | 
- | [es]({{< ref "/f27/language/es.md" >}}) | 10 | 10 | 100.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/es.po | 
- | [et]({{< ref "/f27/language/et.md" >}}) | 10 | 10 | 100.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/et.po | 
- | [fi]({{< ref "/f27/language/fi.md" >}}) | 10 | 10 | 100.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/fi.po | 
- | [fr]({{< ref "/f27/language/fr.md" >}}) | 10 | 10 | 100.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/fr.po | 
- | [he]({{< ref "/f27/language/he.md" >}}) | 10 | 10 | 100.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/he.po | 
- | [hu]({{< ref "/f27/language/hu.md" >}}) | 10 | 10 | 100.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/hu.po | 
- | [id]({{< ref "/f27/language/id.md" >}}) | 10 | 10 | 100.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/id.po | 
- | [it]({{< ref "/f27/language/it.md" >}}) | 10 | 10 | 100.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/it.po | 
- | [ja]({{< ref "/f27/language/ja.md" >}}) | 10 | 10 | 100.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/ja.po | 
- | [ko]({{< ref "/f27/language/ko.md" >}}) | 10 | 10 | 100.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/ko.po | 
- | [ku]({{< ref "/f27/language/ku.md" >}}) | 10 | 10 | 100.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/ku.po | 
- | [lt]({{< ref "/f27/language/lt.md" >}}) | 10 | 10 | 100.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/lt.po | 
- | [nl]({{< ref "/f27/language/nl.md" >}}) | 10 | 10 | 100.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/nl.po | 
- | [pl]({{< ref "/f27/language/pl.md" >}}) | 10 | 10 | 100.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/pl.po | 
- | [pt]({{< ref "/f27/language/pt.md" >}}) | 10 | 10 | 100.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/pt.po | 
- | [pt_BR]({{< ref "/f27/language/pt_BR.md" >}}) | 10 | 10 | 100.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/pt_BR.po | 
- | [ro_MD]({{< ref "/f27/language/ro_MD.md" >}}) | 10 | 10 | 100.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/mo.po | 
- | [ru]({{< ref "/f27/language/ru.md" >}}) | 10 | 10 | 100.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/ru.po | 
- | [sl]({{< ref "/f27/language/sl.md" >}}) | 10 | 10 | 100.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/sl.po | 
- | [tr]({{< ref "/f27/language/tr.md" >}}) | 10 | 10 | 100.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/tr.po | 
- | [zh_Hant]({{< ref "/f27/language/zh_Hant.md" >}}) | 10 | 10 | 100.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/zh_TW.po | 
- | [az]({{< ref "/f27/language/az.md" >}}) | 7 | 10 | 70.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/az.po | 
- | [bg]({{< ref "/f27/language/bg.md" >}}) | 7 | 10 | 70.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/bg.po | 
- | [el]({{< ref "/f27/language/el.md" >}}) | 7 | 10 | 70.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/el.po | 
- | [fr_CA]({{< ref "/f27/language/fr_CA.md" >}}) | 7 | 10 | 70.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/fr_CA.po | 
- | [gl]({{< ref "/f27/language/gl.md" >}}) | 7 | 10 | 70.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/gl.po | 
- | [hr]({{< ref "/f27/language/hr.md" >}}) | 7 | 10 | 70.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/hr.po | 
- | [nn]({{< ref "/f27/language/nn.md" >}}) | 7 | 10 | 70.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/nn.po | 
- | [ro]({{< ref "/f27/language/ro.md" >}}) | 7 | 10 | 70.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/ro.po | 
- | [sk]({{< ref "/f27/language/sk.md" >}}) | 7 | 10 | 70.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/sk.po | 
- | [sr]({{< ref "/f27/language/sr.md" >}}) | 7 | 10 | 70.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/sr.po | 
- | [sv]({{< ref "/f27/language/sv.md" >}}) | 7 | 10 | 70.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/sv.po | 
- | [ug]({{< ref "/f27/language/ug.md" >}}) | 7 | 10 | 70.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/ug.po | 
- | [uk]({{< ref "/f27/language/uk.md" >}}) | 7 | 10 | 70.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/uk.po | 
- | [vi]({{< ref "/f27/language/vi.md" >}}) | 7 | 10 | 70.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/vi.po | 
- | [ka]({{< ref "/f27/language/ka.md" >}}) | 5 | 10 | 50.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/ka.po | 
- | [nb_NO]({{< ref "/f27/language/nb_NO.md" >}}) | 10 | 20 | 50.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/no.po/mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/nb.po | 
- | [zh_Hans]({{< ref "/f27/language/zh_Hans.md" >}}) | 10 | 20 | 50.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/zh_CN.po/mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/zh.po | 
- | [hi]({{< ref "/f27/language/hi.md" >}}) | 1 | 10 | 10.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/hi.po | 
- | [si]({{< ref "/f27/language/si.md" >}}) | 1 | 10 | 10.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/si.po | 
- | [aa]({{< ref "/f27/language/aa.md" >}}) | 0 | 10 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/aa.po | 
- | [ab]({{< ref "/f27/language/ab.md" >}}) | 0 | 10 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/ab.po | 
- | [ae]({{< ref "/f27/language/ae.md" >}}) | 0 | 10 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/ae.po | 
- | [af]({{< ref "/f27/language/af.md" >}}) | 0 | 10 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/af.po | 
- | [ak]({{< ref "/f27/language/ak.md" >}}) | 0 | 10 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/ak.po | 
- | [am]({{< ref "/f27/language/am.md" >}}) | 0 | 10 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/am.po | 
- | [an]({{< ref "/f27/language/an.md" >}}) | 0 | 10 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/an.po | 
- | [ar]({{< ref "/f27/language/ar.md" >}}) | 0 | 10 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/ar.po | 
- | [as]({{< ref "/f27/language/as.md" >}}) | 0 | 10 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/as.po | 
- | [ast]({{< ref "/f27/language/ast.md" >}}) | 0 | 10 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/ast.po | 
- | [av]({{< ref "/f27/language/av.md" >}}) | 0 | 10 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/av.po | 
- | [ay]({{< ref "/f27/language/ay.md" >}}) | 0 | 10 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/ay.po | 
- | [ba]({{< ref "/f27/language/ba.md" >}}) | 0 | 10 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/ba.po | 
- | [be]({{< ref "/f27/language/be.md" >}}) | 0 | 10 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/be.po | 
- | [bh]({{< ref "/f27/language/bh.md" >}}) | 0 | 10 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/bh.po | 
- | [bi]({{< ref "/f27/language/bi.md" >}}) | 0 | 10 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/bi.po | 
- | [bm]({{< ref "/f27/language/bm.md" >}}) | 0 | 10 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/bm.po | 
- | [bn]({{< ref "/f27/language/bn.md" >}}) | 0 | 10 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/bn.po | 
- | [bo]({{< ref "/f27/language/bo.md" >}}) | 0 | 10 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/bo.po | 
- | [br]({{< ref "/f27/language/br.md" >}}) | 0 | 10 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/br.po | 
- | [bs]({{< ref "/f27/language/bs.md" >}}) | 0 | 10 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/bs.po | 
- | [ce]({{< ref "/f27/language/ce.md" >}}) | 0 | 10 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/ce.po | 
- | [ch]({{< ref "/f27/language/ch.md" >}}) | 0 | 10 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/ch.po | 
- | [ckb]({{< ref "/f27/language/ckb.md" >}}) | 0 | 10 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/ckb.po | 
- | [co]({{< ref "/f27/language/co.md" >}}) | 0 | 10 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/co.po | 
- | [cr]({{< ref "/f27/language/cr.md" >}}) | 0 | 10 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/cr.po | 
- | [cu]({{< ref "/f27/language/cu.md" >}}) | 0 | 10 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/cu.po | 
- | [cv]({{< ref "/f27/language/cv.md" >}}) | 0 | 10 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/cv.po | 
- | [cy]({{< ref "/f27/language/cy.md" >}}) | 0 | 10 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/cy.po | 
- | [dv]({{< ref "/f27/language/dv.md" >}}) | 0 | 10 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/dv.po | 
- | [dz]({{< ref "/f27/language/dz.md" >}}) | 0 | 10 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/dz.po | 
- | [ee]({{< ref "/f27/language/ee.md" >}}) | 0 | 10 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/ee.po | 
- | [en_AU]({{< ref "/f27/language/en_AU.md" >}}) | 0 | 10 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/en_AU.po | 
- | [eo]({{< ref "/f27/language/eo.md" >}}) | 0 | 10 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/eo.po | 
- | [eu]({{< ref "/f27/language/eu.md" >}}) | 0 | 10 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/eu.po | 
- | [fa]({{< ref "/f27/language/fa.md" >}}) | 0 | 10 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/fa.po | 
- | [ff]({{< ref "/f27/language/ff.md" >}}) | 0 | 10 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/ff.po | 
- | [fj]({{< ref "/f27/language/fj.md" >}}) | 0 | 10 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/fj.po | 
- | [fo]({{< ref "/f27/language/fo.md" >}}) | 0 | 10 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/fo.po | 
- | [fy]({{< ref "/f27/language/fy.md" >}}) | 0 | 10 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/fy.po | 
- | [ga]({{< ref "/f27/language/ga.md" >}}) | 0 | 10 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/ga.po | 
- | [gd]({{< ref "/f27/language/gd.md" >}}) | 0 | 10 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/gd.po | 
- | [gn]({{< ref "/f27/language/gn.md" >}}) | 0 | 10 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/gn.po | 
- | [gu]({{< ref "/f27/language/gu.md" >}}) | 0 | 10 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/gu.po | 
- | [gv]({{< ref "/f27/language/gv.md" >}}) | 0 | 10 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/gv.po | 
- | [ha]({{< ref "/f27/language/ha.md" >}}) | 0 | 10 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/ha.po | 
- | [ho]({{< ref "/f27/language/ho.md" >}}) | 0 | 10 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/ho.po | 
- | [ht]({{< ref "/f27/language/ht.md" >}}) | 0 | 10 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/ht.po | 
- | [hy]({{< ref "/f27/language/hy.md" >}}) | 0 | 10 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/hy.po | 
- | [hz]({{< ref "/f27/language/hz.md" >}}) | 0 | 10 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/hz.po | 
- | [ia]({{< ref "/f27/language/ia.md" >}}) | 0 | 10 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/ia.po | 
- | [ie]({{< ref "/f27/language/ie.md" >}}) | 0 | 10 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/ie.po | 
- | [ig]({{< ref "/f27/language/ig.md" >}}) | 0 | 10 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/ig.po | 
- | [ii]({{< ref "/f27/language/ii.md" >}}) | 0 | 10 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/ii.po | 
- | [ik]({{< ref "/f27/language/ik.md" >}}) | 0 | 10 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/ik.po | 
- | [io]({{< ref "/f27/language/io.md" >}}) | 0 | 10 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/io.po | 
- | [is]({{< ref "/f27/language/is.md" >}}) | 0 | 10 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/is.po | 
- | [iu]({{< ref "/f27/language/iu.md" >}}) | 0 | 10 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/iu.po | 
- | [jv]({{< ref "/f27/language/jv.md" >}}) | 0 | 10 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/jv.po | 
- | [kg]({{< ref "/f27/language/kg.md" >}}) | 0 | 10 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/kg.po | 
- | [ki]({{< ref "/f27/language/ki.md" >}}) | 0 | 10 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/ki.po | 
- | [kj]({{< ref "/f27/language/kj.md" >}}) | 0 | 10 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/kj.po | 
- | [kk]({{< ref "/f27/language/kk.md" >}}) | 0 | 10 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/kk.po | 
- | [kl]({{< ref "/f27/language/kl.md" >}}) | 0 | 10 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/kl.po | 
- | [km]({{< ref "/f27/language/km.md" >}}) | 0 | 10 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/km.po | 
- | [kn]({{< ref "/f27/language/kn.md" >}}) | 0 | 10 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/kn.po | 
- | [kr]({{< ref "/f27/language/kr.md" >}}) | 0 | 10 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/kr.po | 
- | [ks]({{< ref "/f27/language/ks.md" >}}) | 0 | 10 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/ks.po | 
- | [kv]({{< ref "/f27/language/kv.md" >}}) | 0 | 10 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/kv.po | 
- | [kw]({{< ref "/f27/language/kw.md" >}}) | 0 | 10 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/kw.po | 
- | [ky]({{< ref "/f27/language/ky.md" >}}) | 0 | 10 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/ky.po | 
- | [la]({{< ref "/f27/language/la.md" >}}) | 0 | 10 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/la.po | 
- | [lb]({{< ref "/f27/language/lb.md" >}}) | 0 | 10 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/lb.po | 
- | [lg]({{< ref "/f27/language/lg.md" >}}) | 0 | 10 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/lg.po | 
- | [li]({{< ref "/f27/language/li.md" >}}) | 0 | 10 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/li.po | 
- | [ln]({{< ref "/f27/language/ln.md" >}}) | 0 | 10 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/ln.po | 
- | [lo]({{< ref "/f27/language/lo.md" >}}) | 0 | 10 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/lo.po | 
- | [lu]({{< ref "/f27/language/lu.md" >}}) | 0 | 10 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/lu.po | 
- | [lv]({{< ref "/f27/language/lv.md" >}}) | 0 | 10 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/lv.po | 
- | [mg]({{< ref "/f27/language/mg.md" >}}) | 0 | 10 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/mg.po | 
- | [mh]({{< ref "/f27/language/mh.md" >}}) | 0 | 10 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/mh.po | 
- | [mi]({{< ref "/f27/language/mi.md" >}}) | 0 | 10 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/mi.po | 
- | [mk]({{< ref "/f27/language/mk.md" >}}) | 0 | 10 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/mk.po | 
- | [ml]({{< ref "/f27/language/ml.md" >}}) | 0 | 10 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/ml.po | 
- | [mn]({{< ref "/f27/language/mn.md" >}}) | 0 | 10 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/mn.po | 
- | [mr]({{< ref "/f27/language/mr.md" >}}) | 0 | 10 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/mr.po | 
- | [ms]({{< ref "/f27/language/ms.md" >}}) | 0 | 10 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/ms.po | 
- | [mt]({{< ref "/f27/language/mt.md" >}}) | 0 | 10 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/mt.po | 
- | [my]({{< ref "/f27/language/my.md" >}}) | 0 | 10 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/my.po | 
- | [na]({{< ref "/f27/language/na.md" >}}) | 0 | 10 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/na.po | 
- | [nd]({{< ref "/f27/language/nd.md" >}}) | 0 | 10 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/nd.po | 
- | [ne]({{< ref "/f27/language/ne.md" >}}) | 0 | 10 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/ne.po | 
- | [ng]({{< ref "/f27/language/ng.md" >}}) | 0 | 10 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/ng.po | 
- | [nr]({{< ref "/f27/language/nr.md" >}}) | 0 | 10 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/nr.po | 
- | [nv]({{< ref "/f27/language/nv.md" >}}) | 0 | 10 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/nv.po | 
- | [ny]({{< ref "/f27/language/ny.md" >}}) | 0 | 10 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/ny.po | 
- | [oc]({{< ref "/f27/language/oc.md" >}}) | 0 | 10 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/oc.po | 
- | [oj]({{< ref "/f27/language/oj.md" >}}) | 0 | 10 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/oj.po | 
- | [om]({{< ref "/f27/language/om.md" >}}) | 0 | 10 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/om.po | 
- | [or]({{< ref "/f27/language/or.md" >}}) | 0 | 10 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/or.po | 
- | [os]({{< ref "/f27/language/os.md" >}}) | 0 | 10 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/os.po | 
- | [pa]({{< ref "/f27/language/pa.md" >}}) | 0 | 10 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/pa.po | 
- | [pi]({{< ref "/f27/language/pi.md" >}}) | 0 | 10 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/pi.po | 
- | [ps]({{< ref "/f27/language/ps.md" >}}) | 0 | 10 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/ps.po | 
- | [qu]({{< ref "/f27/language/qu.md" >}}) | 0 | 10 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/qu.po | 
- | [rm]({{< ref "/f27/language/rm.md" >}}) | 0 | 10 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/rm.po | 
- | [rn]({{< ref "/f27/language/rn.md" >}}) | 0 | 10 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/rn.po | 
- | [rue]({{< ref "/f27/language/rue.md" >}}) | 0 | 10 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/rue.po | 
- | [rw]({{< ref "/f27/language/rw.md" >}}) | 0 | 10 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/rw.po | 
- | [sa]({{< ref "/f27/language/sa.md" >}}) | 0 | 10 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/sa.po | 
- | [sc]({{< ref "/f27/language/sc.md" >}}) | 0 | 10 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/sc.po | 
- | [sd]({{< ref "/f27/language/sd.md" >}}) | 0 | 10 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/sd.po | 
- | [se]({{< ref "/f27/language/se.md" >}}) | 0 | 10 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/se.po | 
- | [sg]({{< ref "/f27/language/sg.md" >}}) | 0 | 10 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/sg.po | 
- | [sm]({{< ref "/f27/language/sm.md" >}}) | 0 | 10 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/sm.po | 
- | [sma]({{< ref "/f27/language/sma.md" >}}) | 0 | 10 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/sma.po | 
- | [sn]({{< ref "/f27/language/sn.md" >}}) | 0 | 10 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/sn.po | 
- | [so]({{< ref "/f27/language/so.md" >}}) | 0 | 10 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/so.po | 
- | [sq]({{< ref "/f27/language/sq.md" >}}) | 0 | 10 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/sq.po | 
- | [ss]({{< ref "/f27/language/ss.md" >}}) | 0 | 10 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/ss.po | 
- | [st]({{< ref "/f27/language/st.md" >}}) | 0 | 10 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/st.po | 
- | [su]({{< ref "/f27/language/su.md" >}}) | 0 | 10 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/su.po | 
- | [sw]({{< ref "/f27/language/sw.md" >}}) | 0 | 10 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/sw.po | 
- | [ta]({{< ref "/f27/language/ta.md" >}}) | 0 | 10 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/ta.po | 
- | [te]({{< ref "/f27/language/te.md" >}}) | 0 | 10 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/te.po | 
- | [tg]({{< ref "/f27/language/tg.md" >}}) | 0 | 10 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/tg.po | 
- | [th]({{< ref "/f27/language/th.md" >}}) | 0 | 10 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/th.po | 
- | [ti]({{< ref "/f27/language/ti.md" >}}) | 0 | 10 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/ti.po | 
- | [tk]({{< ref "/f27/language/tk.md" >}}) | 0 | 10 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/tk.po | 
- | [tl]({{< ref "/f27/language/tl.md" >}}) | 0 | 10 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/tl.po | 
- | [tn]({{< ref "/f27/language/tn.md" >}}) | 0 | 10 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/tn.po | 
- | [to]({{< ref "/f27/language/to.md" >}}) | 0 | 10 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/to.po | 
- | [ts]({{< ref "/f27/language/ts.md" >}}) | 0 | 10 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/ts.po | 
- | [tt]({{< ref "/f27/language/tt.md" >}}) | 0 | 10 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/tt.po | 
- | [tw]({{< ref "/f27/language/tw.md" >}}) | 0 | 10 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/tw.po | 
- | [ty]({{< ref "/f27/language/ty.md" >}}) | 0 | 10 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/ty.po | 
- | [ur]({{< ref "/f27/language/ur.md" >}}) | 0 | 10 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/ur.po | 
- | [uz]({{< ref "/f27/language/uz.md" >}}) | 0 | 10 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/uz.po | 
- | [ve]({{< ref "/f27/language/ve.md" >}}) | 0 | 10 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/ve.po | 
- | [vo]({{< ref "/f27/language/vo.md" >}}) | 0 | 10 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/vo.po | 
- | [wa]({{< ref "/f27/language/wa.md" >}}) | 0 | 10 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/wa.po | 
- | [wo]({{< ref "/f27/language/wo.md" >}}) | 0 | 10 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/wo.po | 
- | [xh]({{< ref "/f27/language/xh.md" >}}) | 0 | 10 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/xh.po | 
- | [yi]({{< ref "/f27/language/yi.md" >}}) | 0 | 10 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/yi.po | 
- | [yo]({{< ref "/f27/language/yo.md" >}}) | 0 | 10 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/yo.po | 
- | [za]({{< ref "/f27/language/za.md" >}}) | 0 | 10 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/za.po | 
- | [zh_Hant_HK]({{< ref "/f27/language/zh_Hant_HK.md" >}}) | 0 | 10 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/zh_HK.po | 
- | [zu]({{< ref "/f27/language/zu.md" >}}) | 0 | 10 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/zu.po | 
+ | [ca](/f27/language/ca) | 10 | 10 | 100.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/ca.po | 
+ | [cs](/f27/language/cs) | 10 | 10 | 100.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/cs.po | 
+ | [da](/f27/language/da) | 10 | 10 | 100.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/da.po | 
+ | [de](/f27/language/de) | 10 | 10 | 100.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/de.po | 
+ | [en_CA](/f27/language/en_CA) | 10 | 10 | 100.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/en_CA.po | 
+ | [en_GB](/f27/language/en_GB) | 10 | 10 | 100.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/en_GB.po | 
+ | [es](/f27/language/es) | 10 | 10 | 100.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/es.po | 
+ | [et](/f27/language/et) | 10 | 10 | 100.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/et.po | 
+ | [fi](/f27/language/fi) | 10 | 10 | 100.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/fi.po | 
+ | [fr](/f27/language/fr) | 10 | 10 | 100.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/fr.po | 
+ | [he](/f27/language/he) | 10 | 10 | 100.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/he.po | 
+ | [hu](/f27/language/hu) | 10 | 10 | 100.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/hu.po | 
+ | [id](/f27/language/id) | 10 | 10 | 100.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/id.po | 
+ | [it](/f27/language/it) | 10 | 10 | 100.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/it.po | 
+ | [ja](/f27/language/ja) | 10 | 10 | 100.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/ja.po | 
+ | [ko](/f27/language/ko) | 10 | 10 | 100.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/ko.po | 
+ | [ku](/f27/language/ku) | 10 | 10 | 100.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/ku.po | 
+ | [lt](/f27/language/lt) | 10 | 10 | 100.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/lt.po | 
+ | [nl](/f27/language/nl) | 10 | 10 | 100.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/nl.po | 
+ | [pl](/f27/language/pl) | 10 | 10 | 100.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/pl.po | 
+ | [pt](/f27/language/pt) | 10 | 10 | 100.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/pt.po | 
+ | [pt_BR](/f27/language/pt_BR) | 10 | 10 | 100.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/pt_BR.po | 
+ | [ro_MD](/f27/language/ro_MD) | 10 | 10 | 100.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/mo.po | 
+ | [ru](/f27/language/ru) | 10 | 10 | 100.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/ru.po | 
+ | [sl](/f27/language/sl) | 10 | 10 | 100.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/sl.po | 
+ | [tr](/f27/language/tr) | 10 | 10 | 100.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/tr.po | 
+ | [zh_Hant](/f27/language/zh_Hant) | 10 | 10 | 100.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/zh_TW.po | 
+ | [az](/f27/language/az) | 7 | 10 | 70.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/az.po | 
+ | [bg](/f27/language/bg) | 7 | 10 | 70.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/bg.po | 
+ | [el](/f27/language/el) | 7 | 10 | 70.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/el.po | 
+ | [fr_CA](/f27/language/fr_CA) | 7 | 10 | 70.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/fr_CA.po | 
+ | [gl](/f27/language/gl) | 7 | 10 | 70.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/gl.po | 
+ | [hr](/f27/language/hr) | 7 | 10 | 70.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/hr.po | 
+ | [nn](/f27/language/nn) | 7 | 10 | 70.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/nn.po | 
+ | [ro](/f27/language/ro) | 7 | 10 | 70.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/ro.po | 
+ | [sk](/f27/language/sk) | 7 | 10 | 70.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/sk.po | 
+ | [sr](/f27/language/sr) | 7 | 10 | 70.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/sr.po | 
+ | [sv](/f27/language/sv) | 7 | 10 | 70.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/sv.po | 
+ | [ug](/f27/language/ug) | 7 | 10 | 70.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/ug.po | 
+ | [uk](/f27/language/uk) | 7 | 10 | 70.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/uk.po | 
+ | [vi](/f27/language/vi) | 7 | 10 | 70.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/vi.po | 
+ | [ka](/f27/language/ka) | 5 | 10 | 50.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/ka.po | 
+ | [nb_NO](/f27/language/nb_NO) | 10 | 20 | 50.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/no.po/mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/nb.po | 
+ | [zh_Hans](/f27/language/zh_Hans) | 10 | 20 | 50.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/zh_CN.po/mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/zh.po | 
+ | [hi](/f27/language/hi) | 1 | 10 | 10.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/hi.po | 
+ | [si](/f27/language/si) | 1 | 10 | 10.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/si.po | 
+ | [aa](/f27/language/aa) | 0 | 10 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/aa.po | 
+ | [ab](/f27/language/ab) | 0 | 10 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/ab.po | 
+ | [ae](/f27/language/ae) | 0 | 10 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/ae.po | 
+ | [af](/f27/language/af) | 0 | 10 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/af.po | 
+ | [ak](/f27/language/ak) | 0 | 10 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/ak.po | 
+ | [am](/f27/language/am) | 0 | 10 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/am.po | 
+ | [an](/f27/language/an) | 0 | 10 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/an.po | 
+ | [ar](/f27/language/ar) | 0 | 10 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/ar.po | 
+ | [as](/f27/language/as) | 0 | 10 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/as.po | 
+ | [ast](/f27/language/ast) | 0 | 10 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/ast.po | 
+ | [av](/f27/language/av) | 0 | 10 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/av.po | 
+ | [ay](/f27/language/ay) | 0 | 10 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/ay.po | 
+ | [ba](/f27/language/ba) | 0 | 10 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/ba.po | 
+ | [be](/f27/language/be) | 0 | 10 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/be.po | 
+ | [bh](/f27/language/bh) | 0 | 10 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/bh.po | 
+ | [bi](/f27/language/bi) | 0 | 10 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/bi.po | 
+ | [bm](/f27/language/bm) | 0 | 10 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/bm.po | 
+ | [bn](/f27/language/bn) | 0 | 10 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/bn.po | 
+ | [bo](/f27/language/bo) | 0 | 10 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/bo.po | 
+ | [br](/f27/language/br) | 0 | 10 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/br.po | 
+ | [bs](/f27/language/bs) | 0 | 10 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/bs.po | 
+ | [ce](/f27/language/ce) | 0 | 10 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/ce.po | 
+ | [ch](/f27/language/ch) | 0 | 10 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/ch.po | 
+ | [ckb](/f27/language/ckb) | 0 | 10 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/ckb.po | 
+ | [co](/f27/language/co) | 0 | 10 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/co.po | 
+ | [cr](/f27/language/cr) | 0 | 10 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/cr.po | 
+ | [cu](/f27/language/cu) | 0 | 10 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/cu.po | 
+ | [cv](/f27/language/cv) | 0 | 10 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/cv.po | 
+ | [cy](/f27/language/cy) | 0 | 10 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/cy.po | 
+ | [dv](/f27/language/dv) | 0 | 10 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/dv.po | 
+ | [dz](/f27/language/dz) | 0 | 10 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/dz.po | 
+ | [ee](/f27/language/ee) | 0 | 10 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/ee.po | 
+ | [en_AU](/f27/language/en_AU) | 0 | 10 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/en_AU.po | 
+ | [eo](/f27/language/eo) | 0 | 10 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/eo.po | 
+ | [eu](/f27/language/eu) | 0 | 10 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/eu.po | 
+ | [fa](/f27/language/fa) | 0 | 10 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/fa.po | 
+ | [ff](/f27/language/ff) | 0 | 10 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/ff.po | 
+ | [fj](/f27/language/fj) | 0 | 10 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/fj.po | 
+ | [fo](/f27/language/fo) | 0 | 10 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/fo.po | 
+ | [fy](/f27/language/fy) | 0 | 10 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/fy.po | 
+ | [ga](/f27/language/ga) | 0 | 10 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/ga.po | 
+ | [gd](/f27/language/gd) | 0 | 10 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/gd.po | 
+ | [gn](/f27/language/gn) | 0 | 10 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/gn.po | 
+ | [gu](/f27/language/gu) | 0 | 10 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/gu.po | 
+ | [gv](/f27/language/gv) | 0 | 10 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/gv.po | 
+ | [ha](/f27/language/ha) | 0 | 10 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/ha.po | 
+ | [ho](/f27/language/ho) | 0 | 10 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/ho.po | 
+ | [ht](/f27/language/ht) | 0 | 10 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/ht.po | 
+ | [hy](/f27/language/hy) | 0 | 10 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/hy.po | 
+ | [hz](/f27/language/hz) | 0 | 10 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/hz.po | 
+ | [ia](/f27/language/ia) | 0 | 10 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/ia.po | 
+ | [ie](/f27/language/ie) | 0 | 10 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/ie.po | 
+ | [ig](/f27/language/ig) | 0 | 10 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/ig.po | 
+ | [ii](/f27/language/ii) | 0 | 10 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/ii.po | 
+ | [ik](/f27/language/ik) | 0 | 10 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/ik.po | 
+ | [io](/f27/language/io) | 0 | 10 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/io.po | 
+ | [is](/f27/language/is) | 0 | 10 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/is.po | 
+ | [iu](/f27/language/iu) | 0 | 10 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/iu.po | 
+ | [jv](/f27/language/jv) | 0 | 10 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/jv.po | 
+ | [kg](/f27/language/kg) | 0 | 10 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/kg.po | 
+ | [ki](/f27/language/ki) | 0 | 10 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/ki.po | 
+ | [kj](/f27/language/kj) | 0 | 10 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/kj.po | 
+ | [kk](/f27/language/kk) | 0 | 10 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/kk.po | 
+ | [kl](/f27/language/kl) | 0 | 10 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/kl.po | 
+ | [km](/f27/language/km) | 0 | 10 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/km.po | 
+ | [kn](/f27/language/kn) | 0 | 10 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/kn.po | 
+ | [kr](/f27/language/kr) | 0 | 10 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/kr.po | 
+ | [ks](/f27/language/ks) | 0 | 10 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/ks.po | 
+ | [kv](/f27/language/kv) | 0 | 10 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/kv.po | 
+ | [kw](/f27/language/kw) | 0 | 10 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/kw.po | 
+ | [ky](/f27/language/ky) | 0 | 10 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/ky.po | 
+ | [la](/f27/language/la) | 0 | 10 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/la.po | 
+ | [lb](/f27/language/lb) | 0 | 10 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/lb.po | 
+ | [lg](/f27/language/lg) | 0 | 10 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/lg.po | 
+ | [li](/f27/language/li) | 0 | 10 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/li.po | 
+ | [ln](/f27/language/ln) | 0 | 10 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/ln.po | 
+ | [lo](/f27/language/lo) | 0 | 10 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/lo.po | 
+ | [lu](/f27/language/lu) | 0 | 10 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/lu.po | 
+ | [lv](/f27/language/lv) | 0 | 10 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/lv.po | 
+ | [mg](/f27/language/mg) | 0 | 10 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/mg.po | 
+ | [mh](/f27/language/mh) | 0 | 10 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/mh.po | 
+ | [mi](/f27/language/mi) | 0 | 10 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/mi.po | 
+ | [mk](/f27/language/mk) | 0 | 10 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/mk.po | 
+ | [ml](/f27/language/ml) | 0 | 10 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/ml.po | 
+ | [mn](/f27/language/mn) | 0 | 10 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/mn.po | 
+ | [mr](/f27/language/mr) | 0 | 10 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/mr.po | 
+ | [ms](/f27/language/ms) | 0 | 10 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/ms.po | 
+ | [mt](/f27/language/mt) | 0 | 10 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/mt.po | 
+ | [my](/f27/language/my) | 0 | 10 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/my.po | 
+ | [na](/f27/language/na) | 0 | 10 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/na.po | 
+ | [nd](/f27/language/nd) | 0 | 10 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/nd.po | 
+ | [ne](/f27/language/ne) | 0 | 10 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/ne.po | 
+ | [ng](/f27/language/ng) | 0 | 10 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/ng.po | 
+ | [nr](/f27/language/nr) | 0 | 10 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/nr.po | 
+ | [nv](/f27/language/nv) | 0 | 10 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/nv.po | 
+ | [ny](/f27/language/ny) | 0 | 10 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/ny.po | 
+ | [oc](/f27/language/oc) | 0 | 10 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/oc.po | 
+ | [oj](/f27/language/oj) | 0 | 10 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/oj.po | 
+ | [om](/f27/language/om) | 0 | 10 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/om.po | 
+ | [or](/f27/language/or) | 0 | 10 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/or.po | 
+ | [os](/f27/language/os) | 0 | 10 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/os.po | 
+ | [pa](/f27/language/pa) | 0 | 10 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/pa.po | 
+ | [pi](/f27/language/pi) | 0 | 10 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/pi.po | 
+ | [ps](/f27/language/ps) | 0 | 10 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/ps.po | 
+ | [qu](/f27/language/qu) | 0 | 10 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/qu.po | 
+ | [rm](/f27/language/rm) | 0 | 10 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/rm.po | 
+ | [rn](/f27/language/rn) | 0 | 10 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/rn.po | 
+ | [rue](/f27/language/rue) | 0 | 10 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/rue.po | 
+ | [rw](/f27/language/rw) | 0 | 10 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/rw.po | 
+ | [sa](/f27/language/sa) | 0 | 10 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/sa.po | 
+ | [sc](/f27/language/sc) | 0 | 10 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/sc.po | 
+ | [sd](/f27/language/sd) | 0 | 10 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/sd.po | 
+ | [se](/f27/language/se) | 0 | 10 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/se.po | 
+ | [sg](/f27/language/sg) | 0 | 10 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/sg.po | 
+ | [sm](/f27/language/sm) | 0 | 10 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/sm.po | 
+ | [sma](/f27/language/sma) | 0 | 10 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/sma.po | 
+ | [sn](/f27/language/sn) | 0 | 10 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/sn.po | 
+ | [so](/f27/language/so) | 0 | 10 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/so.po | 
+ | [sq](/f27/language/sq) | 0 | 10 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/sq.po | 
+ | [ss](/f27/language/ss) | 0 | 10 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/ss.po | 
+ | [st](/f27/language/st) | 0 | 10 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/st.po | 
+ | [su](/f27/language/su) | 0 | 10 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/su.po | 
+ | [sw](/f27/language/sw) | 0 | 10 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/sw.po | 
+ | [ta](/f27/language/ta) | 0 | 10 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/ta.po | 
+ | [te](/f27/language/te) | 0 | 10 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/te.po | 
+ | [tg](/f27/language/tg) | 0 | 10 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/tg.po | 
+ | [th](/f27/language/th) | 0 | 10 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/th.po | 
+ | [ti](/f27/language/ti) | 0 | 10 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/ti.po | 
+ | [tk](/f27/language/tk) | 0 | 10 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/tk.po | 
+ | [tl](/f27/language/tl) | 0 | 10 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/tl.po | 
+ | [tn](/f27/language/tn) | 0 | 10 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/tn.po | 
+ | [to](/f27/language/to) | 0 | 10 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/to.po | 
+ | [ts](/f27/language/ts) | 0 | 10 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/ts.po | 
+ | [tt](/f27/language/tt) | 0 | 10 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/tt.po | 
+ | [tw](/f27/language/tw) | 0 | 10 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/tw.po | 
+ | [ty](/f27/language/ty) | 0 | 10 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/ty.po | 
+ | [ur](/f27/language/ur) | 0 | 10 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/ur.po | 
+ | [uz](/f27/language/uz) | 0 | 10 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/uz.po | 
+ | [ve](/f27/language/ve) | 0 | 10 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/ve.po | 
+ | [vo](/f27/language/vo) | 0 | 10 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/vo.po | 
+ | [wa](/f27/language/wa) | 0 | 10 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/wa.po | 
+ | [wo](/f27/language/wo) | 0 | 10 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/wo.po | 
+ | [xh](/f27/language/xh) | 0 | 10 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/xh.po | 
+ | [yi](/f27/language/yi) | 0 | 10 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/yi.po | 
+ | [yo](/f27/language/yo) | 0 | 10 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/yo.po | 
+ | [za](/f27/language/za) | 0 | 10 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/za.po | 
+ | [zh_Hant_HK](/f27/language/zh_Hant_HK) | 0 | 10 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/zh_HK.po | 
+ | [zu](/f27/language/zu) | 0 | 10 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-keyboard/po/zu.po | 
 {.sortable}
 
 

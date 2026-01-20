@@ -18,54 +18,54 @@ The package libpanel (version 1.8.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [be]({{< ref "/f41/language/be.md" >}}) | 107 | 107 | 100.0 | /mnt/stockage/packages/f41/libpanel/po/be.po | 
- | [bg]({{< ref "/f41/language/bg.md" >}}) | 107 | 107 | 100.0 | /mnt/stockage/packages/f41/libpanel/po/bg.po | 
- | [ca]({{< ref "/f41/language/ca.md" >}}) | 107 | 107 | 100.0 | /mnt/stockage/packages/f41/libpanel/po/ca.po | 
- | [cs]({{< ref "/f41/language/cs.md" >}}) | 107 | 107 | 100.0 | /mnt/stockage/packages/f41/libpanel/po/cs.po | 
- | [da]({{< ref "/f41/language/da.md" >}}) | 107 | 107 | 100.0 | /mnt/stockage/packages/f41/libpanel/po/da.po | 
- | [de]({{< ref "/f41/language/de.md" >}}) | 107 | 107 | 100.0 | /mnt/stockage/packages/f41/libpanel/po/de.po | 
- | [el]({{< ref "/f41/language/el.md" >}}) | 107 | 107 | 100.0 | /mnt/stockage/packages/f41/libpanel/po/el.po | 
- | [en_GB]({{< ref "/f41/language/en_GB.md" >}}) | 107 | 107 | 100.0 | /mnt/stockage/packages/f41/libpanel/po/en_GB.po | 
- | [eo]({{< ref "/f41/language/eo.md" >}}) | 107 | 107 | 100.0 | /mnt/stockage/packages/f41/libpanel/po/eo.po | 
- | [es]({{< ref "/f41/language/es.md" >}}) | 107 | 107 | 100.0 | /mnt/stockage/packages/f41/libpanel/po/es.po | 
- | [eu]({{< ref "/f41/language/eu.md" >}}) | 107 | 107 | 100.0 | /mnt/stockage/packages/f41/libpanel/po/eu.po | 
- | [fa]({{< ref "/f41/language/fa.md" >}}) | 107 | 107 | 100.0 | /mnt/stockage/packages/f41/libpanel/po/fa.po | 
- | [fi]({{< ref "/f41/language/fi.md" >}}) | 107 | 107 | 100.0 | /mnt/stockage/packages/f41/libpanel/po/fi.po | 
- | [fr]({{< ref "/f41/language/fr.md" >}}) | 107 | 107 | 100.0 | /mnt/stockage/packages/f41/libpanel/po/fr.po | 
- | [fur]({{< ref "/f41/language/fur.md" >}}) | 107 | 107 | 100.0 | /mnt/stockage/packages/f41/libpanel/po/fur.po | 
- | [gl]({{< ref "/f41/language/gl.md" >}}) | 107 | 107 | 100.0 | /mnt/stockage/packages/f41/libpanel/po/gl.po | 
- | [he]({{< ref "/f41/language/he.md" >}}) | 107 | 107 | 100.0 | /mnt/stockage/packages/f41/libpanel/po/he.po | 
- | [hi]({{< ref "/f41/language/hi.md" >}}) | 107 | 107 | 100.0 | /mnt/stockage/packages/f41/libpanel/po/hi.po | 
- | [hr]({{< ref "/f41/language/hr.md" >}}) | 84 | 84 | 100.0 | /mnt/stockage/packages/f41/libpanel/po/hr.po | 
- | [hu]({{< ref "/f41/language/hu.md" >}}) | 107 | 107 | 100.0 | /mnt/stockage/packages/f41/libpanel/po/hu.po | 
- | [id]({{< ref "/f41/language/id.md" >}}) | 107 | 107 | 100.0 | /mnt/stockage/packages/f41/libpanel/po/id.po | 
- | [is]({{< ref "/f41/language/is.md" >}}) | 87 | 87 | 100.0 | /mnt/stockage/packages/f41/libpanel/po/is.po | 
- | [it]({{< ref "/f41/language/it.md" >}}) | 107 | 107 | 100.0 | /mnt/stockage/packages/f41/libpanel/po/it.po | 
- | [ka]({{< ref "/f41/language/ka.md" >}}) | 107 | 107 | 100.0 | /mnt/stockage/packages/f41/libpanel/po/ka.po | 
- | [kab]({{< ref "/f41/language/kab.md" >}}) | 107 | 107 | 100.0 | /mnt/stockage/packages/f41/libpanel/po/kab.po | 
- | [ko]({{< ref "/f41/language/ko.md" >}}) | 107 | 107 | 100.0 | /mnt/stockage/packages/f41/libpanel/po/ko.po | 
- | [lt]({{< ref "/f41/language/lt.md" >}}) | 107 | 107 | 100.0 | /mnt/stockage/packages/f41/libpanel/po/lt.po | 
- | [lv]({{< ref "/f41/language/lv.md" >}}) | 107 | 107 | 100.0 | /mnt/stockage/packages/f41/libpanel/po/lv.po | 
- | [nb_NO]({{< ref "/f41/language/nb_NO.md" >}}) | 107 | 107 | 100.0 | /mnt/stockage/packages/f41/libpanel/po/nb.po | 
- | [ne]({{< ref "/f41/language/ne.md" >}}) | 107 | 107 | 100.0 | /mnt/stockage/packages/f41/libpanel/po/ne.po | 
- | [nl]({{< ref "/f41/language/nl.md" >}}) | 107 | 107 | 100.0 | /mnt/stockage/packages/f41/libpanel/po/nl.po | 
- | [oc]({{< ref "/f41/language/oc.md" >}}) | 107 | 107 | 100.0 | /mnt/stockage/packages/f41/libpanel/po/oc.po | 
- | [pa]({{< ref "/f41/language/pa.md" >}}) | 107 | 107 | 100.0 | /mnt/stockage/packages/f41/libpanel/po/pa.po | 
- | [pl]({{< ref "/f41/language/pl.md" >}}) | 107 | 107 | 100.0 | /mnt/stockage/packages/f41/libpanel/po/pl.po | 
- | [pt]({{< ref "/f41/language/pt.md" >}}) | 107 | 107 | 100.0 | /mnt/stockage/packages/f41/libpanel/po/pt.po | 
- | [pt_BR]({{< ref "/f41/language/pt_BR.md" >}}) | 107 | 107 | 100.0 | /mnt/stockage/packages/f41/libpanel/po/pt_BR.po | 
- | [ro]({{< ref "/f41/language/ro.md" >}}) | 107 | 107 | 100.0 | /mnt/stockage/packages/f41/libpanel/po/ro.po | 
- | [ru]({{< ref "/f41/language/ru.md" >}}) | 107 | 107 | 100.0 | /mnt/stockage/packages/f41/libpanel/po/ru.po | 
- | [sk]({{< ref "/f41/language/sk.md" >}}) | 107 | 107 | 100.0 | /mnt/stockage/packages/f41/libpanel/po/sk.po | 
- | [sl]({{< ref "/f41/language/sl.md" >}}) | 107 | 107 | 100.0 | /mnt/stockage/packages/f41/libpanel/po/sl.po | 
- | [sr]({{< ref "/f41/language/sr.md" >}}) | 87 | 87 | 100.0 | /mnt/stockage/packages/f41/libpanel/po/sr.po | 
- | [sv]({{< ref "/f41/language/sv.md" >}}) | 107 | 107 | 100.0 | /mnt/stockage/packages/f41/libpanel/po/sv.po | 
- | [tr]({{< ref "/f41/language/tr.md" >}}) | 107 | 107 | 100.0 | /mnt/stockage/packages/f41/libpanel/po/tr.po | 
- | [uk]({{< ref "/f41/language/uk.md" >}}) | 107 | 107 | 100.0 | /mnt/stockage/packages/f41/libpanel/po/uk.po | 
- | [zh_Hans]({{< ref "/f41/language/zh_Hans.md" >}}) | 107 | 107 | 100.0 | /mnt/stockage/packages/f41/libpanel/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f41/language/zh_Hant.md" >}}) | 104 | 107 | 97.2 | /mnt/stockage/packages/f41/libpanel/po/zh_TW.po | 
- | [ie]({{< ref "/f41/language/ie.md" >}}) | 39 | 84 | 46.4 | /mnt/stockage/packages/f41/libpanel/po/ie.po | 
- | [ab]({{< ref "/f41/language/ab.md" >}}) | 3 | 84 | 3.6 | /mnt/stockage/packages/f41/libpanel/po/ab.po | 
+ | [be](/f41/language/be) | 107 | 107 | 100.0 | /mnt/stockage/packages/f41/libpanel/po/be.po | 
+ | [bg](/f41/language/bg) | 107 | 107 | 100.0 | /mnt/stockage/packages/f41/libpanel/po/bg.po | 
+ | [ca](/f41/language/ca) | 107 | 107 | 100.0 | /mnt/stockage/packages/f41/libpanel/po/ca.po | 
+ | [cs](/f41/language/cs) | 107 | 107 | 100.0 | /mnt/stockage/packages/f41/libpanel/po/cs.po | 
+ | [da](/f41/language/da) | 107 | 107 | 100.0 | /mnt/stockage/packages/f41/libpanel/po/da.po | 
+ | [de](/f41/language/de) | 107 | 107 | 100.0 | /mnt/stockage/packages/f41/libpanel/po/de.po | 
+ | [el](/f41/language/el) | 107 | 107 | 100.0 | /mnt/stockage/packages/f41/libpanel/po/el.po | 
+ | [en_GB](/f41/language/en_GB) | 107 | 107 | 100.0 | /mnt/stockage/packages/f41/libpanel/po/en_GB.po | 
+ | [eo](/f41/language/eo) | 107 | 107 | 100.0 | /mnt/stockage/packages/f41/libpanel/po/eo.po | 
+ | [es](/f41/language/es) | 107 | 107 | 100.0 | /mnt/stockage/packages/f41/libpanel/po/es.po | 
+ | [eu](/f41/language/eu) | 107 | 107 | 100.0 | /mnt/stockage/packages/f41/libpanel/po/eu.po | 
+ | [fa](/f41/language/fa) | 107 | 107 | 100.0 | /mnt/stockage/packages/f41/libpanel/po/fa.po | 
+ | [fi](/f41/language/fi) | 107 | 107 | 100.0 | /mnt/stockage/packages/f41/libpanel/po/fi.po | 
+ | [fr](/f41/language/fr) | 107 | 107 | 100.0 | /mnt/stockage/packages/f41/libpanel/po/fr.po | 
+ | [fur](/f41/language/fur) | 107 | 107 | 100.0 | /mnt/stockage/packages/f41/libpanel/po/fur.po | 
+ | [gl](/f41/language/gl) | 107 | 107 | 100.0 | /mnt/stockage/packages/f41/libpanel/po/gl.po | 
+ | [he](/f41/language/he) | 107 | 107 | 100.0 | /mnt/stockage/packages/f41/libpanel/po/he.po | 
+ | [hi](/f41/language/hi) | 107 | 107 | 100.0 | /mnt/stockage/packages/f41/libpanel/po/hi.po | 
+ | [hr](/f41/language/hr) | 84 | 84 | 100.0 | /mnt/stockage/packages/f41/libpanel/po/hr.po | 
+ | [hu](/f41/language/hu) | 107 | 107 | 100.0 | /mnt/stockage/packages/f41/libpanel/po/hu.po | 
+ | [id](/f41/language/id) | 107 | 107 | 100.0 | /mnt/stockage/packages/f41/libpanel/po/id.po | 
+ | [is](/f41/language/is) | 87 | 87 | 100.0 | /mnt/stockage/packages/f41/libpanel/po/is.po | 
+ | [it](/f41/language/it) | 107 | 107 | 100.0 | /mnt/stockage/packages/f41/libpanel/po/it.po | 
+ | [ka](/f41/language/ka) | 107 | 107 | 100.0 | /mnt/stockage/packages/f41/libpanel/po/ka.po | 
+ | [kab](/f41/language/kab) | 107 | 107 | 100.0 | /mnt/stockage/packages/f41/libpanel/po/kab.po | 
+ | [ko](/f41/language/ko) | 107 | 107 | 100.0 | /mnt/stockage/packages/f41/libpanel/po/ko.po | 
+ | [lt](/f41/language/lt) | 107 | 107 | 100.0 | /mnt/stockage/packages/f41/libpanel/po/lt.po | 
+ | [lv](/f41/language/lv) | 107 | 107 | 100.0 | /mnt/stockage/packages/f41/libpanel/po/lv.po | 
+ | [nb_NO](/f41/language/nb_NO) | 107 | 107 | 100.0 | /mnt/stockage/packages/f41/libpanel/po/nb.po | 
+ | [ne](/f41/language/ne) | 107 | 107 | 100.0 | /mnt/stockage/packages/f41/libpanel/po/ne.po | 
+ | [nl](/f41/language/nl) | 107 | 107 | 100.0 | /mnt/stockage/packages/f41/libpanel/po/nl.po | 
+ | [oc](/f41/language/oc) | 107 | 107 | 100.0 | /mnt/stockage/packages/f41/libpanel/po/oc.po | 
+ | [pa](/f41/language/pa) | 107 | 107 | 100.0 | /mnt/stockage/packages/f41/libpanel/po/pa.po | 
+ | [pl](/f41/language/pl) | 107 | 107 | 100.0 | /mnt/stockage/packages/f41/libpanel/po/pl.po | 
+ | [pt](/f41/language/pt) | 107 | 107 | 100.0 | /mnt/stockage/packages/f41/libpanel/po/pt.po | 
+ | [pt_BR](/f41/language/pt_BR) | 107 | 107 | 100.0 | /mnt/stockage/packages/f41/libpanel/po/pt_BR.po | 
+ | [ro](/f41/language/ro) | 107 | 107 | 100.0 | /mnt/stockage/packages/f41/libpanel/po/ro.po | 
+ | [ru](/f41/language/ru) | 107 | 107 | 100.0 | /mnt/stockage/packages/f41/libpanel/po/ru.po | 
+ | [sk](/f41/language/sk) | 107 | 107 | 100.0 | /mnt/stockage/packages/f41/libpanel/po/sk.po | 
+ | [sl](/f41/language/sl) | 107 | 107 | 100.0 | /mnt/stockage/packages/f41/libpanel/po/sl.po | 
+ | [sr](/f41/language/sr) | 87 | 87 | 100.0 | /mnt/stockage/packages/f41/libpanel/po/sr.po | 
+ | [sv](/f41/language/sv) | 107 | 107 | 100.0 | /mnt/stockage/packages/f41/libpanel/po/sv.po | 
+ | [tr](/f41/language/tr) | 107 | 107 | 100.0 | /mnt/stockage/packages/f41/libpanel/po/tr.po | 
+ | [uk](/f41/language/uk) | 107 | 107 | 100.0 | /mnt/stockage/packages/f41/libpanel/po/uk.po | 
+ | [zh_Hans](/f41/language/zh_Hans) | 107 | 107 | 100.0 | /mnt/stockage/packages/f41/libpanel/po/zh_CN.po | 
+ | [zh_Hant](/f41/language/zh_Hant) | 104 | 107 | 97.2 | /mnt/stockage/packages/f41/libpanel/po/zh_TW.po | 
+ | [ie](/f41/language/ie) | 39 | 84 | 46.4 | /mnt/stockage/packages/f41/libpanel/po/ie.po | 
+ | [ab](/f41/language/ab) | 3 | 84 | 3.6 | /mnt/stockage/packages/f41/libpanel/po/ab.po | 
 {.sortable}
 
 

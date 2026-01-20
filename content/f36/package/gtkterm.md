@@ -18,12 +18,12 @@ The package gtkterm (version 1.1.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f36/language/de.md" >}}) | 710 | 710 | 100.0 | /mnt/stockage/packages/f36/gtkterm/po/de.po | 
- | [nl]({{< ref "/f36/language/nl.md" >}}) | 712 | 712 | 100.0 | /mnt/stockage/packages/f36/gtkterm/po/nl_NL.po | 
- | [zh_Hans]({{< ref "/f36/language/zh_Hans.md" >}}) | 672 | 712 | 94.4 | /mnt/stockage/packages/f36/gtkterm/po/zh_CN.po | 
- | [fr]({{< ref "/f36/language/fr.md" >}}) | 477 | 712 | 67.0 | /mnt/stockage/packages/f36/gtkterm/po/fr.po | 
- | [hu]({{< ref "/f36/language/hu.md" >}}) | 332 | 712 | 46.6 | /mnt/stockage/packages/f36/gtkterm/po/hu.po | 
- | [ru]({{< ref "/f36/language/ru.md" >}}) | 332 | 712 | 46.6 | /mnt/stockage/packages/f36/gtkterm/po/ru.po | 
+ | [de](/f36/language/de) | 710 | 710 | 100.0 | /mnt/stockage/packages/f36/gtkterm/po/de.po | 
+ | [nl](/f36/language/nl) | 712 | 712 | 100.0 | /mnt/stockage/packages/f36/gtkterm/po/nl_NL.po | 
+ | [zh_Hans](/f36/language/zh_Hans) | 672 | 712 | 94.4 | /mnt/stockage/packages/f36/gtkterm/po/zh_CN.po | 
+ | [fr](/f36/language/fr) | 477 | 712 | 67.0 | /mnt/stockage/packages/f36/gtkterm/po/fr.po | 
+ | [hu](/f36/language/hu) | 332 | 712 | 46.6 | /mnt/stockage/packages/f36/gtkterm/po/hu.po | 
+ | [ru](/f36/language/ru) | 332 | 712 | 46.6 | /mnt/stockage/packages/f36/gtkterm/po/ru.po | 
 {.sortable}
 
 

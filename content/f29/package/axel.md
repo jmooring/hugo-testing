@@ -18,15 +18,15 @@ The package axel (version 2.16):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [es]({{< ref "/f29/language/es.md" >}}) | 543 | 543 | 100.0 | /mnt/stockage/packages/f29/axel/po/es.po | 
- | [id]({{< ref "/f29/language/id.md" >}}) | 304 | 543 | 56.0 | /mnt/stockage/packages/f29/axel/po/id_ID.po | 
- | [it]({{< ref "/f29/language/it.md" >}}) | 284 | 543 | 52.3 | /mnt/stockage/packages/f29/axel/po/it.po | 
- | [pt_BR]({{< ref "/f29/language/pt_BR.md" >}}) | 283 | 543 | 52.1 | /mnt/stockage/packages/f29/axel/po/pt_BR.po | 
- | [zh_Hans]({{< ref "/f29/language/zh_Hans.md" >}}) | 273 | 543 | 50.3 | /mnt/stockage/packages/f29/axel/po/zh_CN.po | 
- | [ja]({{< ref "/f29/language/ja.md" >}}) | 212 | 543 | 39.0 | /mnt/stockage/packages/f29/axel/po/ja.po | 
- | [de]({{< ref "/f29/language/de.md" >}}) | 189 | 543 | 34.8 | /mnt/stockage/packages/f29/axel/po/de.po | 
- | [ru]({{< ref "/f29/language/ru.md" >}}) | 187 | 543 | 34.4 | /mnt/stockage/packages/f29/axel/po/ru.po | 
- | [nl]({{< ref "/f29/language/nl.md" >}}) | 173 | 543 | 31.9 | /mnt/stockage/packages/f29/axel/po/nl.po | 
+ | [es](/f29/language/es) | 543 | 543 | 100.0 | /mnt/stockage/packages/f29/axel/po/es.po | 
+ | [id](/f29/language/id) | 304 | 543 | 56.0 | /mnt/stockage/packages/f29/axel/po/id_ID.po | 
+ | [it](/f29/language/it) | 284 | 543 | 52.3 | /mnt/stockage/packages/f29/axel/po/it.po | 
+ | [pt_BR](/f29/language/pt_BR) | 283 | 543 | 52.1 | /mnt/stockage/packages/f29/axel/po/pt_BR.po | 
+ | [zh_Hans](/f29/language/zh_Hans) | 273 | 543 | 50.3 | /mnt/stockage/packages/f29/axel/po/zh_CN.po | 
+ | [ja](/f29/language/ja) | 212 | 543 | 39.0 | /mnt/stockage/packages/f29/axel/po/ja.po | 
+ | [de](/f29/language/de) | 189 | 543 | 34.8 | /mnt/stockage/packages/f29/axel/po/de.po | 
+ | [ru](/f29/language/ru) | 187 | 543 | 34.4 | /mnt/stockage/packages/f29/axel/po/ru.po | 
+ | [nl](/f29/language/nl) | 173 | 543 | 31.9 | /mnt/stockage/packages/f29/axel/po/nl.po | 
 {.sortable}
 
 

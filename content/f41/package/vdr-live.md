@@ -18,18 +18,18 @@ The package vdr-live (version 3.5.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f41/language/de.md" >}}) | 1154 | 1154 | 100.0 | /mnt/stockage/packages/f41/vdr-live/po/de_DE.po | 
- | [pl]({{< ref "/f41/language/pl.md" >}}) | 1128 | 1154 | 97.7 | /mnt/stockage/packages/f41/vdr-live/po/pl_PL.po | 
- | [nl]({{< ref "/f41/language/nl.md" >}}) | 1122 | 1154 | 97.2 | /mnt/stockage/packages/f41/vdr-live/po/nl_NL.po | 
- | [ka]({{< ref "/f41/language/ka.md" >}}) | 941 | 1154 | 81.5 | /mnt/stockage/packages/f41/vdr-live/po/ka_GE.po | 
- | [fi]({{< ref "/f41/language/fi.md" >}}) | 805 | 1154 | 69.8 | /mnt/stockage/packages/f41/vdr-live/po/fi_FI.po | 
- | [it]({{< ref "/f41/language/it.md" >}}) | 804 | 1154 | 69.7 | /mnt/stockage/packages/f41/vdr-live/po/it_IT.po | 
- | [sk]({{< ref "/f41/language/sk.md" >}}) | 804 | 1154 | 69.7 | /mnt/stockage/packages/f41/vdr-live/po/sk_SK.po | 
- | [es]({{< ref "/f41/language/es.md" >}}) | 797 | 1154 | 69.1 | /mnt/stockage/packages/f41/vdr-live/po/es_ES.po | 
- | [ru]({{< ref "/f41/language/ru.md" >}}) | 1554 | 2308 | 67.3 | /mnt/stockage/packages/f41/vdr-live/po/sv_SE.po/mnt/stockage/packages/f41/vdr-live/po/ru_RU.po | 
- | [lt]({{< ref "/f41/language/lt.md" >}}) | 706 | 1154 | 61.2 | /mnt/stockage/packages/f41/vdr-live/po/lt_LT.po | 
- | [cs]({{< ref "/f41/language/cs.md" >}}) | 666 | 1154 | 57.7 | /mnt/stockage/packages/f41/vdr-live/po/cs_CZ.po | 
- | [fr]({{< ref "/f41/language/fr.md" >}}) | 595 | 1154 | 51.6 | /mnt/stockage/packages/f41/vdr-live/po/fr_FR.po | 
+ | [de](/f41/language/de) | 1154 | 1154 | 100.0 | /mnt/stockage/packages/f41/vdr-live/po/de_DE.po | 
+ | [pl](/f41/language/pl) | 1128 | 1154 | 97.7 | /mnt/stockage/packages/f41/vdr-live/po/pl_PL.po | 
+ | [nl](/f41/language/nl) | 1122 | 1154 | 97.2 | /mnt/stockage/packages/f41/vdr-live/po/nl_NL.po | 
+ | [ka](/f41/language/ka) | 941 | 1154 | 81.5 | /mnt/stockage/packages/f41/vdr-live/po/ka_GE.po | 
+ | [fi](/f41/language/fi) | 805 | 1154 | 69.8 | /mnt/stockage/packages/f41/vdr-live/po/fi_FI.po | 
+ | [it](/f41/language/it) | 804 | 1154 | 69.7 | /mnt/stockage/packages/f41/vdr-live/po/it_IT.po | 
+ | [sk](/f41/language/sk) | 804 | 1154 | 69.7 | /mnt/stockage/packages/f41/vdr-live/po/sk_SK.po | 
+ | [es](/f41/language/es) | 797 | 1154 | 69.1 | /mnt/stockage/packages/f41/vdr-live/po/es_ES.po | 
+ | [ru](/f41/language/ru) | 1554 | 2308 | 67.3 | /mnt/stockage/packages/f41/vdr-live/po/sv_SE.po/mnt/stockage/packages/f41/vdr-live/po/ru_RU.po | 
+ | [lt](/f41/language/lt) | 706 | 1154 | 61.2 | /mnt/stockage/packages/f41/vdr-live/po/lt_LT.po | 
+ | [cs](/f41/language/cs) | 666 | 1154 | 57.7 | /mnt/stockage/packages/f41/vdr-live/po/cs_CZ.po | 
+ | [fr](/f41/language/fr) | 595 | 1154 | 51.6 | /mnt/stockage/packages/f41/vdr-live/po/fr_FR.po | 
 {.sortable}
 
 

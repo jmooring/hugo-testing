@@ -38,8 +38,8 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [siril]({{< ref "/f27/package/siril.md" >}}) | 7664 | 11214 | 68.3 |  | 
- | [gnome-shell-extension-dash-to-dock]({{< ref "/f27/package/gnome-shell-extension-dash-to-dock.md" >}}) | 178 | 423 | 42.1 | Faissal Chamekh <chamfay@gmail.com> | 
+ | [siril](/f27/package/siril) | 7664 | 11214 | 68.3 |  | 
+ | [gnome-shell-extension-dash-to-dock](/f27/package/gnome-shell-extension-dash-to-dock) | 178 | 423 | 42.1 | Faissal Chamekh <chamfay@gmail.com> | 
 {.sortable}
 
 

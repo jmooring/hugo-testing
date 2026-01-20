@@ -18,15 +18,15 @@ The package speech-dispatcher (version 0.11.5):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [eo]({{< ref "/f39/language/eo.md" >}}) | 1425 | 1425 | 100.0 | /mnt/stockage/packages/f39/speech-dispatcher/po/eo.po | 
- | [fr]({{< ref "/f39/language/fr.md" >}}) | 1425 | 1425 | 100.0 | /mnt/stockage/packages/f39/speech-dispatcher/po/fr.po | 
- | [hu]({{< ref "/f39/language/hu.md" >}}) | 1425 | 1425 | 100.0 | /mnt/stockage/packages/f39/speech-dispatcher/po/hu.po | 
- | [pt]({{< ref "/f39/language/pt.md" >}}) | 1425 | 1425 | 100.0 | /mnt/stockage/packages/f39/speech-dispatcher/po/pt.po | 
- | [pt_BR]({{< ref "/f39/language/pt_BR.md" >}}) | 1425 | 1425 | 100.0 | /mnt/stockage/packages/f39/speech-dispatcher/po/pt_BR.po | 
- | [de]({{< ref "/f39/language/de.md" >}}) | 1362 | 1425 | 95.6 | /mnt/stockage/packages/f39/speech-dispatcher/po/de.po | 
- | [nb_NO]({{< ref "/f39/language/nb_NO.md" >}}) | 815 | 1425 | 57.2 | /mnt/stockage/packages/f39/speech-dispatcher/po/nb_NO.po | 
- | [cs]({{< ref "/f39/language/cs.md" >}}) | 285 | 1425 | 20.0 | /mnt/stockage/packages/f39/speech-dispatcher/po/cs.po | 
- | [ru]({{< ref "/f39/language/ru.md" >}}) | 17 | 1425 | 1.2 | /mnt/stockage/packages/f39/speech-dispatcher/po/ru.po | 
+ | [eo](/f39/language/eo) | 1425 | 1425 | 100.0 | /mnt/stockage/packages/f39/speech-dispatcher/po/eo.po | 
+ | [fr](/f39/language/fr) | 1425 | 1425 | 100.0 | /mnt/stockage/packages/f39/speech-dispatcher/po/fr.po | 
+ | [hu](/f39/language/hu) | 1425 | 1425 | 100.0 | /mnt/stockage/packages/f39/speech-dispatcher/po/hu.po | 
+ | [pt](/f39/language/pt) | 1425 | 1425 | 100.0 | /mnt/stockage/packages/f39/speech-dispatcher/po/pt.po | 
+ | [pt_BR](/f39/language/pt_BR) | 1425 | 1425 | 100.0 | /mnt/stockage/packages/f39/speech-dispatcher/po/pt_BR.po | 
+ | [de](/f39/language/de) | 1362 | 1425 | 95.6 | /mnt/stockage/packages/f39/speech-dispatcher/po/de.po | 
+ | [nb_NO](/f39/language/nb_NO) | 815 | 1425 | 57.2 | /mnt/stockage/packages/f39/speech-dispatcher/po/nb_NO.po | 
+ | [cs](/f39/language/cs) | 285 | 1425 | 20.0 | /mnt/stockage/packages/f39/speech-dispatcher/po/cs.po | 
+ | [ru](/f39/language/ru) | 17 | 1425 | 1.2 | /mnt/stockage/packages/f39/speech-dispatcher/po/ru.po | 
 {.sortable}
 
 

@@ -18,9 +18,9 @@ The package brltty (version 5.3.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [zh_Hans]({{< ref "/f24/language/zh_Hans.md" >}}) | 2496 | 2530 | 98.7 | /mnt/stockage/packages/f24/brltty/Messages/zh.po | 
- | [fr]({{< ref "/f24/language/fr.md" >}}) | 2488 | 2530 | 98.3 | /mnt/stockage/packages/f24/brltty/Messages/fr.po | 
- | [de]({{< ref "/f24/language/de.md" >}}) | 2106 | 2530 | 83.2 | /mnt/stockage/packages/f24/brltty/Messages/de.po | 
+ | [zh_Hans](/f24/language/zh_Hans) | 2496 | 2530 | 98.7 | /mnt/stockage/packages/f24/brltty/Messages/zh.po | 
+ | [fr](/f24/language/fr) | 2488 | 2530 | 98.3 | /mnt/stockage/packages/f24/brltty/Messages/fr.po | 
+ | [de](/f24/language/de) | 2106 | 2530 | 83.2 | /mnt/stockage/packages/f24/brltty/Messages/de.po | 
 {.sortable}
 
 

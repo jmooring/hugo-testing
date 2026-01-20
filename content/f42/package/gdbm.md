@@ -18,20 +18,20 @@ The package gdbm (version 1.23):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f42/language/fr.md" >}}) | 946 | 1135 | 83.3 | /mnt/stockage/packages/f42/gdbm/po/fr.po | 
- | [pt_BR]({{< ref "/f42/language/pt_BR.md" >}}) | 946 | 1135 | 83.3 | /mnt/stockage/packages/f42/gdbm/po/pt_BR.po | 
- | [sr]({{< ref "/f42/language/sr.md" >}}) | 946 | 1135 | 83.3 | /mnt/stockage/packages/f42/gdbm/po/sr.po | 
- | [uk]({{< ref "/f42/language/uk.md" >}}) | 946 | 1135 | 83.3 | /mnt/stockage/packages/f42/gdbm/po/uk.po | 
- | [pl]({{< ref "/f42/language/pl.md" >}}) | 936 | 1135 | 82.5 | /mnt/stockage/packages/f42/gdbm/po/pl.po | 
- | [ru]({{< ref "/f42/language/ru.md" >}}) | 936 | 1135 | 82.5 | /mnt/stockage/packages/f42/gdbm/po/ru.po | 
- | [eo]({{< ref "/f42/language/eo.md" >}}) | 734 | 1135 | 64.7 | /mnt/stockage/packages/f42/gdbm/po/eo.po | 
- | [sv]({{< ref "/f42/language/sv.md" >}}) | 734 | 1135 | 64.7 | /mnt/stockage/packages/f42/gdbm/po/sv.po | 
- | [de]({{< ref "/f42/language/de.md" >}}) | 718 | 1135 | 63.3 | /mnt/stockage/packages/f42/gdbm/po/de.po | 
- | [vi]({{< ref "/f42/language/vi.md" >}}) | 629 | 1135 | 55.4 | /mnt/stockage/packages/f42/gdbm/po/vi.po | 
- | [da]({{< ref "/f42/language/da.md" >}}) | 586 | 1135 | 51.6 | /mnt/stockage/packages/f42/gdbm/po/da.po | 
- | [es]({{< ref "/f42/language/es.md" >}}) | 586 | 1135 | 51.6 | /mnt/stockage/packages/f42/gdbm/po/es.po | 
- | [fi]({{< ref "/f42/language/fi.md" >}}) | 466 | 1135 | 41.1 | /mnt/stockage/packages/f42/gdbm/po/fi.po | 
- | [ja]({{< ref "/f42/language/ja.md" >}}) | 146 | 1135 | 12.9 | /mnt/stockage/packages/f42/gdbm/po/ja.po | 
+ | [fr](/f42/language/fr) | 946 | 1135 | 83.3 | /mnt/stockage/packages/f42/gdbm/po/fr.po | 
+ | [pt_BR](/f42/language/pt_BR) | 946 | 1135 | 83.3 | /mnt/stockage/packages/f42/gdbm/po/pt_BR.po | 
+ | [sr](/f42/language/sr) | 946 | 1135 | 83.3 | /mnt/stockage/packages/f42/gdbm/po/sr.po | 
+ | [uk](/f42/language/uk) | 946 | 1135 | 83.3 | /mnt/stockage/packages/f42/gdbm/po/uk.po | 
+ | [pl](/f42/language/pl) | 936 | 1135 | 82.5 | /mnt/stockage/packages/f42/gdbm/po/pl.po | 
+ | [ru](/f42/language/ru) | 936 | 1135 | 82.5 | /mnt/stockage/packages/f42/gdbm/po/ru.po | 
+ | [eo](/f42/language/eo) | 734 | 1135 | 64.7 | /mnt/stockage/packages/f42/gdbm/po/eo.po | 
+ | [sv](/f42/language/sv) | 734 | 1135 | 64.7 | /mnt/stockage/packages/f42/gdbm/po/sv.po | 
+ | [de](/f42/language/de) | 718 | 1135 | 63.3 | /mnt/stockage/packages/f42/gdbm/po/de.po | 
+ | [vi](/f42/language/vi) | 629 | 1135 | 55.4 | /mnt/stockage/packages/f42/gdbm/po/vi.po | 
+ | [da](/f42/language/da) | 586 | 1135 | 51.6 | /mnt/stockage/packages/f42/gdbm/po/da.po | 
+ | [es](/f42/language/es) | 586 | 1135 | 51.6 | /mnt/stockage/packages/f42/gdbm/po/es.po | 
+ | [fi](/f42/language/fi) | 466 | 1135 | 41.1 | /mnt/stockage/packages/f42/gdbm/po/fi.po | 
+ | [ja](/f42/language/ja) | 146 | 1135 | 12.9 | /mnt/stockage/packages/f42/gdbm/po/ja.po | 
 {.sortable}
 
 

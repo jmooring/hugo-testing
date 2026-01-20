@@ -18,11 +18,11 @@ The package thunar-shares (version 0.16):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f10/language/fr.md" >}}) | 171 | 181 | 94.5 | /mnt/stockage/packages/f10/thunar-shares/po/fr.po | 
- | [it]({{< ref "/f10/language/it.md" >}}) | 93 | 181 | 51.4 | /mnt/stockage/packages/f10/thunar-shares/po/it.po | 
- | [nb_NO]({{< ref "/f10/language/nb_NO.md" >}}) | 93 | 181 | 51.4 | /mnt/stockage/packages/f10/thunar-shares/po/nb.po | 
- | [ru]({{< ref "/f10/language/ru.md" >}}) | 93 | 181 | 51.4 | /mnt/stockage/packages/f10/thunar-shares/po/ru.po | 
- | [es]({{< ref "/f10/language/es.md" >}}) | 79 | 181 | 43.6 | /mnt/stockage/packages/f10/thunar-shares/po/es.po | 
+ | [fr](/f10/language/fr) | 171 | 181 | 94.5 | /mnt/stockage/packages/f10/thunar-shares/po/fr.po | 
+ | [it](/f10/language/it) | 93 | 181 | 51.4 | /mnt/stockage/packages/f10/thunar-shares/po/it.po | 
+ | [nb_NO](/f10/language/nb_NO) | 93 | 181 | 51.4 | /mnt/stockage/packages/f10/thunar-shares/po/nb.po | 
+ | [ru](/f10/language/ru) | 93 | 181 | 51.4 | /mnt/stockage/packages/f10/thunar-shares/po/ru.po | 
+ | [es](/f10/language/es) | 79 | 181 | 43.6 | /mnt/stockage/packages/f10/thunar-shares/po/es.po | 
 {.sortable}
 
 

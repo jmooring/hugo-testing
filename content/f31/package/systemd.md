@@ -18,35 +18,35 @@ The package systemd (version 243.9):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [be]({{< ref "/f31/language/be.md" >}}) | 985 | 985 | 100.0 | /mnt/stockage/packages/f31/systemd/po/be.po | 
- | [be_Latn]({{< ref "/f31/language/be_Latn.md" >}}) | 985 | 985 | 100.0 | /mnt/stockage/packages/f31/systemd/po/be@latin.po | 
- | [bg]({{< ref "/f31/language/bg.md" >}}) | 985 | 985 | 100.0 | /mnt/stockage/packages/f31/systemd/po/bg.po | 
- | [ca]({{< ref "/f31/language/ca.md" >}}) | 1065 | 1065 | 100.0 | /mnt/stockage/packages/f31/systemd/po/ca.po | 
- | [cs]({{< ref "/f31/language/cs.md" >}}) | 1344 | 1344 | 100.0 | /mnt/stockage/packages/f31/systemd/po/cs.po | 
- | [da]({{< ref "/f31/language/da.md" >}}) | 968 | 968 | 100.0 | /mnt/stockage/packages/f31/systemd/po/da.po | 
- | [de]({{< ref "/f31/language/de.md" >}}) | 968 | 968 | 100.0 | /mnt/stockage/packages/f31/systemd/po/de.po | 
- | [es]({{< ref "/f31/language/es.md" >}}) | 968 | 968 | 100.0 | /mnt/stockage/packages/f31/systemd/po/es.po | 
- | [fr]({{< ref "/f31/language/fr.md" >}}) | 1185 | 1185 | 100.0 | /mnt/stockage/packages/f31/systemd/po/fr.po | 
- | [gl]({{< ref "/f31/language/gl.md" >}}) | 968 | 968 | 100.0 | /mnt/stockage/packages/f31/systemd/po/gl.po | 
- | [hr]({{< ref "/f31/language/hr.md" >}}) | 968 | 968 | 100.0 | /mnt/stockage/packages/f31/systemd/po/hr.po | 
- | [hu]({{< ref "/f31/language/hu.md" >}}) | 985 | 985 | 100.0 | /mnt/stockage/packages/f31/systemd/po/hu.po | 
- | [id]({{< ref "/f31/language/id.md" >}}) | 1065 | 1065 | 100.0 | /mnt/stockage/packages/f31/systemd/po/id.po | 
- | [it]({{< ref "/f31/language/it.md" >}}) | 1203 | 1203 | 100.0 | /mnt/stockage/packages/f31/systemd/po/it.po | 
- | [ja]({{< ref "/f31/language/ja.md" >}}) | 1344 | 1344 | 100.0 | /mnt/stockage/packages/f31/systemd/po/ja.po | 
- | [ko]({{< ref "/f31/language/ko.md" >}}) | 968 | 968 | 100.0 | /mnt/stockage/packages/f31/systemd/po/ko.po | 
- | [lt]({{< ref "/f31/language/lt.md" >}}) | 1203 | 1203 | 100.0 | /mnt/stockage/packages/f31/systemd/po/lt.po | 
- | [pl]({{< ref "/f31/language/pl.md" >}}) | 1344 | 1344 | 100.0 | /mnt/stockage/packages/f31/systemd/po/pl.po | 
- | [pt_BR]({{< ref "/f31/language/pt_BR.md" >}}) | 1344 | 1344 | 100.0 | /mnt/stockage/packages/f31/systemd/po/pt_BR.po | 
- | [ro]({{< ref "/f31/language/ro.md" >}}) | 985 | 985 | 100.0 | /mnt/stockage/packages/f31/systemd/po/ro.po | 
- | [ru]({{< ref "/f31/language/ru.md" >}}) | 1124 | 1124 | 100.0 | /mnt/stockage/packages/f31/systemd/po/ru.po | 
- | [sr]({{< ref "/f31/language/sr.md" >}}) | 1090 | 1090 | 100.0 | /mnt/stockage/packages/f31/systemd/po/sr.po | 
- | [sv]({{< ref "/f31/language/sv.md" >}}) | 1041 | 1041 | 100.0 | /mnt/stockage/packages/f31/systemd/po/sv.po | 
- | [tr]({{< ref "/f31/language/tr.md" >}}) | 1131 | 1131 | 100.0 | /mnt/stockage/packages/f31/systemd/po/tr.po | 
- | [uk]({{< ref "/f31/language/uk.md" >}}) | 1332 | 1332 | 100.0 | /mnt/stockage/packages/f31/systemd/po/uk.po | 
- | [zh_Hant]({{< ref "/f31/language/zh_Hant.md" >}}) | 1203 | 1203 | 100.0 | /mnt/stockage/packages/f31/systemd/po/zh_TW.po | 
- | [zh_Hans]({{< ref "/f31/language/zh_Hans.md" >}}) | 950 | 968 | 98.1 | /mnt/stockage/packages/f31/systemd/po/zh_CN.po | 
- | [el]({{< ref "/f31/language/el.md" >}}) | 603 | 968 | 62.3 | /mnt/stockage/packages/f31/systemd/po/el.po | 
- | [sk]({{< ref "/f31/language/sk.md" >}}) | 371 | 985 | 37.7 | /mnt/stockage/packages/f31/systemd/po/sk.po | 
+ | [be](/f31/language/be) | 985 | 985 | 100.0 | /mnt/stockage/packages/f31/systemd/po/be.po | 
+ | [be_Latn](/f31/language/be_Latn) | 985 | 985 | 100.0 | /mnt/stockage/packages/f31/systemd/po/be@latin.po | 
+ | [bg](/f31/language/bg) | 985 | 985 | 100.0 | /mnt/stockage/packages/f31/systemd/po/bg.po | 
+ | [ca](/f31/language/ca) | 1065 | 1065 | 100.0 | /mnt/stockage/packages/f31/systemd/po/ca.po | 
+ | [cs](/f31/language/cs) | 1344 | 1344 | 100.0 | /mnt/stockage/packages/f31/systemd/po/cs.po | 
+ | [da](/f31/language/da) | 968 | 968 | 100.0 | /mnt/stockage/packages/f31/systemd/po/da.po | 
+ | [de](/f31/language/de) | 968 | 968 | 100.0 | /mnt/stockage/packages/f31/systemd/po/de.po | 
+ | [es](/f31/language/es) | 968 | 968 | 100.0 | /mnt/stockage/packages/f31/systemd/po/es.po | 
+ | [fr](/f31/language/fr) | 1185 | 1185 | 100.0 | /mnt/stockage/packages/f31/systemd/po/fr.po | 
+ | [gl](/f31/language/gl) | 968 | 968 | 100.0 | /mnt/stockage/packages/f31/systemd/po/gl.po | 
+ | [hr](/f31/language/hr) | 968 | 968 | 100.0 | /mnt/stockage/packages/f31/systemd/po/hr.po | 
+ | [hu](/f31/language/hu) | 985 | 985 | 100.0 | /mnt/stockage/packages/f31/systemd/po/hu.po | 
+ | [id](/f31/language/id) | 1065 | 1065 | 100.0 | /mnt/stockage/packages/f31/systemd/po/id.po | 
+ | [it](/f31/language/it) | 1203 | 1203 | 100.0 | /mnt/stockage/packages/f31/systemd/po/it.po | 
+ | [ja](/f31/language/ja) | 1344 | 1344 | 100.0 | /mnt/stockage/packages/f31/systemd/po/ja.po | 
+ | [ko](/f31/language/ko) | 968 | 968 | 100.0 | /mnt/stockage/packages/f31/systemd/po/ko.po | 
+ | [lt](/f31/language/lt) | 1203 | 1203 | 100.0 | /mnt/stockage/packages/f31/systemd/po/lt.po | 
+ | [pl](/f31/language/pl) | 1344 | 1344 | 100.0 | /mnt/stockage/packages/f31/systemd/po/pl.po | 
+ | [pt_BR](/f31/language/pt_BR) | 1344 | 1344 | 100.0 | /mnt/stockage/packages/f31/systemd/po/pt_BR.po | 
+ | [ro](/f31/language/ro) | 985 | 985 | 100.0 | /mnt/stockage/packages/f31/systemd/po/ro.po | 
+ | [ru](/f31/language/ru) | 1124 | 1124 | 100.0 | /mnt/stockage/packages/f31/systemd/po/ru.po | 
+ | [sr](/f31/language/sr) | 1090 | 1090 | 100.0 | /mnt/stockage/packages/f31/systemd/po/sr.po | 
+ | [sv](/f31/language/sv) | 1041 | 1041 | 100.0 | /mnt/stockage/packages/f31/systemd/po/sv.po | 
+ | [tr](/f31/language/tr) | 1131 | 1131 | 100.0 | /mnt/stockage/packages/f31/systemd/po/tr.po | 
+ | [uk](/f31/language/uk) | 1332 | 1332 | 100.0 | /mnt/stockage/packages/f31/systemd/po/uk.po | 
+ | [zh_Hant](/f31/language/zh_Hant) | 1203 | 1203 | 100.0 | /mnt/stockage/packages/f31/systemd/po/zh_TW.po | 
+ | [zh_Hans](/f31/language/zh_Hans) | 950 | 968 | 98.1 | /mnt/stockage/packages/f31/systemd/po/zh_CN.po | 
+ | [el](/f31/language/el) | 603 | 968 | 62.3 | /mnt/stockage/packages/f31/systemd/po/el.po | 
+ | [sk](/f31/language/sk) | 371 | 985 | 37.7 | /mnt/stockage/packages/f31/systemd/po/sk.po | 
 {.sortable}
 
 

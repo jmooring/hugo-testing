@@ -18,16 +18,16 @@ The package lincity-ng (version 1.1.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [nl]({{< ref "/f8/language/nl.md" >}}) | 1747 | 1747 | 100.0 | /mnt/stockage/packages/f8/lincity-ng/data/locale/nl.po/mnt/stockage/packages/f8/lincity-ng/data/locale/gui/nl.po | 
- | [sv]({{< ref "/f8/language/sv.md" >}}) | 1822 | 1822 | 100.0 | /mnt/stockage/packages/f8/lincity-ng/data/locale/sv.po/mnt/stockage/packages/f8/lincity-ng/data/locale/gui/sv.po | 
- | [fr]({{< ref "/f8/language/fr.md" >}}) | 1739 | 1747 | 99.5 | /mnt/stockage/packages/f8/lincity-ng/data/locale/fr.po/mnt/stockage/packages/f8/lincity-ng/data/locale/gui/fr.po | 
- | [ca]({{< ref "/f8/language/ca.md" >}}) | 1723 | 1742 | 98.9 | /mnt/stockage/packages/f8/lincity-ng/data/locale/ca.po/mnt/stockage/packages/f8/lincity-ng/data/locale/gui/ca.po | 
- | [pt_BR]({{< ref "/f8/language/pt_BR.md" >}}) | 1784 | 1822 | 97.9 | /mnt/stockage/packages/f8/lincity-ng/data/locale/pt_BR.po/mnt/stockage/packages/f8/lincity-ng/data/locale/gui/pt_BR.po | 
- | [es]({{< ref "/f8/language/es.md" >}}) | 1705 | 1747 | 97.6 | /mnt/stockage/packages/f8/lincity-ng/data/locale/es.po/mnt/stockage/packages/f8/lincity-ng/data/locale/gui/es.po | 
- | [pl]({{< ref "/f8/language/pl.md" >}}) | 1649 | 1747 | 94.4 | /mnt/stockage/packages/f8/lincity-ng/data/locale/pl.po/mnt/stockage/packages/f8/lincity-ng/data/locale/gui/pl.po | 
- | [de]({{< ref "/f8/language/de.md" >}}) | 1687 | 1822 | 92.6 | /mnt/stockage/packages/f8/lincity-ng/data/locale/de.po/mnt/stockage/packages/f8/lincity-ng/data/locale/gui/de.po | 
- | [ru]({{< ref "/f8/language/ru.md" >}}) | 1636 | 1854 | 88.2 | /mnt/stockage/packages/f8/lincity-ng/data/locale/ru.po/mnt/stockage/packages/f8/lincity-ng/data/locale/gui/ru.po | 
- | [cs]({{< ref "/f8/language/cs.md" >}}) | 1042 | 1747 | 59.6 | /mnt/stockage/packages/f8/lincity-ng/data/locale/cs.po/mnt/stockage/packages/f8/lincity-ng/data/locale/gui/cs.po | 
+ | [nl](/f8/language/nl) | 1747 | 1747 | 100.0 | /mnt/stockage/packages/f8/lincity-ng/data/locale/nl.po/mnt/stockage/packages/f8/lincity-ng/data/locale/gui/nl.po | 
+ | [sv](/f8/language/sv) | 1822 | 1822 | 100.0 | /mnt/stockage/packages/f8/lincity-ng/data/locale/sv.po/mnt/stockage/packages/f8/lincity-ng/data/locale/gui/sv.po | 
+ | [fr](/f8/language/fr) | 1739 | 1747 | 99.5 | /mnt/stockage/packages/f8/lincity-ng/data/locale/fr.po/mnt/stockage/packages/f8/lincity-ng/data/locale/gui/fr.po | 
+ | [ca](/f8/language/ca) | 1723 | 1742 | 98.9 | /mnt/stockage/packages/f8/lincity-ng/data/locale/ca.po/mnt/stockage/packages/f8/lincity-ng/data/locale/gui/ca.po | 
+ | [pt_BR](/f8/language/pt_BR) | 1784 | 1822 | 97.9 | /mnt/stockage/packages/f8/lincity-ng/data/locale/pt_BR.po/mnt/stockage/packages/f8/lincity-ng/data/locale/gui/pt_BR.po | 
+ | [es](/f8/language/es) | 1705 | 1747 | 97.6 | /mnt/stockage/packages/f8/lincity-ng/data/locale/es.po/mnt/stockage/packages/f8/lincity-ng/data/locale/gui/es.po | 
+ | [pl](/f8/language/pl) | 1649 | 1747 | 94.4 | /mnt/stockage/packages/f8/lincity-ng/data/locale/pl.po/mnt/stockage/packages/f8/lincity-ng/data/locale/gui/pl.po | 
+ | [de](/f8/language/de) | 1687 | 1822 | 92.6 | /mnt/stockage/packages/f8/lincity-ng/data/locale/de.po/mnt/stockage/packages/f8/lincity-ng/data/locale/gui/de.po | 
+ | [ru](/f8/language/ru) | 1636 | 1854 | 88.2 | /mnt/stockage/packages/f8/lincity-ng/data/locale/ru.po/mnt/stockage/packages/f8/lincity-ng/data/locale/gui/ru.po | 
+ | [cs](/f8/language/cs) | 1042 | 1747 | 59.6 | /mnt/stockage/packages/f8/lincity-ng/data/locale/cs.po/mnt/stockage/packages/f8/lincity-ng/data/locale/gui/cs.po | 
 {.sortable}
 
 

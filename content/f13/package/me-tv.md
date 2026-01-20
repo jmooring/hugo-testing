@@ -18,21 +18,21 @@ The package me-tv (version 1.3.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [it]({{< ref "/f13/language/it.md" >}}) | 1961 | 1961 | 100.0 | /mnt/stockage/packages/f13/me-tv/po/it.po | 
- | [cs]({{< ref "/f13/language/cs.md" >}}) | 1856 | 1961 | 94.6 | /mnt/stockage/packages/f13/me-tv/po/cs.po | 
- | [pl]({{< ref "/f13/language/pl.md" >}}) | 1734 | 1961 | 88.4 | /mnt/stockage/packages/f13/me-tv/po/pl.po | 
- | [fr]({{< ref "/f13/language/fr.md" >}}) | 1725 | 1961 | 88.0 | /mnt/stockage/packages/f13/me-tv/po/fr.po | 
- | [es]({{< ref "/f13/language/es.md" >}}) | 1632 | 1961 | 83.2 | /mnt/stockage/packages/f13/me-tv/po/es.po | 
- | [nl]({{< ref "/f13/language/nl.md" >}}) | 1393 | 1961 | 71.0 | /mnt/stockage/packages/f13/me-tv/po/nl.po | 
- | [de]({{< ref "/f13/language/de.md" >}}) | 1268 | 1961 | 64.7 | /mnt/stockage/packages/f13/me-tv/po/de.po | 
- | [sk]({{< ref "/f13/language/sk.md" >}}) | 839 | 1961 | 42.8 | /mnt/stockage/packages/f13/me-tv/po/sk.po | 
- | [sv]({{< ref "/f13/language/sv.md" >}}) | 515 | 1961 | 26.3 | /mnt/stockage/packages/f13/me-tv/po/sv.po | 
- | [lt]({{< ref "/f13/language/lt.md" >}}) | 471 | 1961 | 24.0 | /mnt/stockage/packages/f13/me-tv/po/lt.po | 
- | [fi]({{< ref "/f13/language/fi.md" >}}) | 452 | 1961 | 23.0 | /mnt/stockage/packages/f13/me-tv/po/fi.po | 
- | [ar]({{< ref "/f13/language/ar.md" >}}) | 407 | 1961 | 20.8 | /mnt/stockage/packages/f13/me-tv/po/ar.po | 
- | [sl]({{< ref "/f13/language/sl.md" >}}) | 179 | 1961 | 9.1 | /mnt/stockage/packages/f13/me-tv/po/sl.po | 
- | [fa]({{< ref "/f13/language/fa.md" >}}) | 139 | 1961 | 7.1 | /mnt/stockage/packages/f13/me-tv/po/fa.po | 
- | [tr]({{< ref "/f13/language/tr.md" >}}) | 87 | 1961 | 4.4 | /mnt/stockage/packages/f13/me-tv/po/tr.po | 
+ | [it](/f13/language/it) | 1961 | 1961 | 100.0 | /mnt/stockage/packages/f13/me-tv/po/it.po | 
+ | [cs](/f13/language/cs) | 1856 | 1961 | 94.6 | /mnt/stockage/packages/f13/me-tv/po/cs.po | 
+ | [pl](/f13/language/pl) | 1734 | 1961 | 88.4 | /mnt/stockage/packages/f13/me-tv/po/pl.po | 
+ | [fr](/f13/language/fr) | 1725 | 1961 | 88.0 | /mnt/stockage/packages/f13/me-tv/po/fr.po | 
+ | [es](/f13/language/es) | 1632 | 1961 | 83.2 | /mnt/stockage/packages/f13/me-tv/po/es.po | 
+ | [nl](/f13/language/nl) | 1393 | 1961 | 71.0 | /mnt/stockage/packages/f13/me-tv/po/nl.po | 
+ | [de](/f13/language/de) | 1268 | 1961 | 64.7 | /mnt/stockage/packages/f13/me-tv/po/de.po | 
+ | [sk](/f13/language/sk) | 839 | 1961 | 42.8 | /mnt/stockage/packages/f13/me-tv/po/sk.po | 
+ | [sv](/f13/language/sv) | 515 | 1961 | 26.3 | /mnt/stockage/packages/f13/me-tv/po/sv.po | 
+ | [lt](/f13/language/lt) | 471 | 1961 | 24.0 | /mnt/stockage/packages/f13/me-tv/po/lt.po | 
+ | [fi](/f13/language/fi) | 452 | 1961 | 23.0 | /mnt/stockage/packages/f13/me-tv/po/fi.po | 
+ | [ar](/f13/language/ar) | 407 | 1961 | 20.8 | /mnt/stockage/packages/f13/me-tv/po/ar.po | 
+ | [sl](/f13/language/sl) | 179 | 1961 | 9.1 | /mnt/stockage/packages/f13/me-tv/po/sl.po | 
+ | [fa](/f13/language/fa) | 139 | 1961 | 7.1 | /mnt/stockage/packages/f13/me-tv/po/fa.po | 
+ | [tr](/f13/language/tr) | 87 | 1961 | 4.4 | /mnt/stockage/packages/f13/me-tv/po/tr.po | 
 {.sortable}
 
 

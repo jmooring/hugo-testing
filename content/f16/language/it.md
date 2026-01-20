@@ -52,1140 +52,1140 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [DivFix++]({{< ref "/f16/package/DivFix++.md" >}}) | 551 | 551 | 100.0 | Giovanni Fiocco <Vecna at Vecna.Vecna> | 
- | [Django]({{< ref "/f16/package/Django.md" >}}) | 3975 | 3975 | 100.0 | Italian <> | 
- | [GConf2]({{< ref "/f16/package/GConf2.md" >}}) | 4088 | 4088 | 100.0 | Italiano <tp@lists.linux.it> | 
- | [NetworkManager]({{< ref "/f16/package/NetworkManager.md" >}}) | 2615 | 2615 | 100.0 | Italian <tp@lists.linux.it> | 
- | [NetworkManager-openconnect]({{< ref "/f16/package/NetworkManager-openconnect.md" >}}) | 53 | 53 | 100.0 | Italian <tp@lists.linux.it> | 
- | [NetworkManager-openswan]({{< ref "/f16/package/NetworkManager-openswan.md" >}}) | 139 | 139 | 100.0 | italian <tp@lists.linux.it> | 
- | [NetworkManager-pptp]({{< ref "/f16/package/NetworkManager-pptp.md" >}}) | 144 | 144 | 100.0 | Italian <tp@lists.linux.it> | 
- | [NetworkManager-vpnc]({{< ref "/f16/package/NetworkManager-vpnc.md" >}}) | 143 | 143 | 100.0 | Italian <tp@lists.linux.it> | 
- | [Terminal]({{< ref "/f16/package/Terminal.md" >}}) | 6190 | 6190 | 100.0 | Italian <xfce-it-translators@googlegroups.com> | 
- | [Thunar]({{< ref "/f16/package/Thunar.md" >}}) | 10539 | 10539 | 100.0 | Italian <xfce-it-translators@googlegroups.com> | 
- | [abrt]({{< ref "/f16/package/abrt.md" >}}) | 1419 | 1419 | 100.0 | Italian <trans-it@lists.fedoraproject.org> | 
- | [accountsservice]({{< ref "/f16/package/accountsservice.md" >}}) | 59 | 59 | 100.0 | Italian (http://www.transifex.net/projects/p/freedesktop/team/it/) | 
- | [aisleriot]({{< ref "/f16/package/aisleriot.md" >}}) | 1912 | 1912 | 100.0 | Italian <tp@lists.linux.it> | 
- | [alacarte]({{< ref "/f16/package/alacarte.md" >}}) | 42 | 42 | 100.0 | Italian <tp@lists.linux.it> | 
- | [amarok]({{< ref "/f16/package/amarok.md" >}}) | 15340 | 15340 | 100.0 | Italian <kde-i18n-it@kde.org> | 
- | [anaconda]({{< ref "/f16/package/anaconda.md" >}}) | 9408 | 9408 | 100.0 | Italian <trans-it@lists.fedoraproject.org> | 
- | [anerley]({{< ref "/f16/package/anerley.md" >}}) | 11 | 11 | 100.0 | Italian <tp@lists.linux.it> | 
- | [anjuta]({{< ref "/f16/package/anjuta.md" >}}) | 7744 | 7744 | 100.0 | Italian <tp@lists.linux.it> | 
- | [aspell]({{< ref "/f16/package/aspell.md" >}}) | 1726 | 1726 | 100.0 | Italian <tp@lists.linux.it> | 
- | [at-spi]({{< ref "/f16/package/at-spi.md" >}}) | 61 | 61 | 100.0 | Italiano <tp@lists.linux.it> | 
- | [at-spi2-atk]({{< ref "/f16/package/at-spi2-atk.md" >}}) | 7 | 7 | 100.0 | Italiano <tp@lists.linux.it> | 
- | [at-spi2-core]({{< ref "/f16/package/at-spi2-core.md" >}}) | 96 | 96 | 100.0 | Italian <tp@lists.linux.it> | 
- | [atk]({{< ref "/f16/package/atk.md" >}}) | 398 | 398 | 100.0 | Italian <tp@lists.linux.it> | 
- | [atomix]({{< ref "/f16/package/atomix.md" >}}) | 125 | 125 | 100.0 | Italiano <tp@lists.linux.it> | 
- | [audacity]({{< ref "/f16/package/audacity.md" >}}) | 10550 | 10550 | 100.0 | italiano <audacity-translation@lists.sourceforge.net> | 
- | [audit-viewer]({{< ref "/f16/package/audit-viewer.md" >}}) | 611 | 611 | 100.0 | Italian <trans-it@lists.fedoraproject.org> | 
- | [avahi]({{< ref "/f16/package/avahi.md" >}}) | 865 | 865 | 100.0 | Italian <tp@lists.linux.it> | 
- | [backintime]({{< ref "/f16/package/backintime.md" >}}) | 919 | 919 | 100.0 | Italian <it@li.org> | 
- | [bangarang]({{< ref "/f16/package/bangarang.md" >}}) | 955 | 955 | 100.0 | Italian <kde-i18n-it@kde.org> | 
- | [banshee]({{< ref "/f16/package/banshee.md" >}}) | 5811 | 5811 | 100.0 | Italiana <tp@lists.linux.it> | 
- | [banshee-community-extensions]({{< ref "/f16/package/banshee-community-extensions.md" >}}) | 1255 | 1255 | 100.0 | LANGUAGE <LL@li.org> | 
- | [bisho]({{< ref "/f16/package/bisho.md" >}}) | 164 | 164 | 100.0 | Italian <tp@lists.linux.it> | 
- | [blam]({{< ref "/f16/package/blam.md" >}}) | 337 | 337 | 100.0 | Italian <tp@lists.linux.it> | 
- | [bluedevil]({{< ref "/f16/package/bluedevil.md" >}}) | 617 | 617 | 100.0 | Italian <kde-i18n-it@kde.org> | 
- | [bluefish]({{< ref "/f16/package/bluefish.md" >}}) | 3819 | 3819 | 100.0 | Italian <tp@lists.linux.it> | 
- | [brasero]({{< ref "/f16/package/brasero.md" >}}) | 9003 | 9003 | 100.0 | Italian <tp@lists.linux.it> | 
- | [bygfoot]({{< ref "/f16/package/bygfoot.md" >}}) | 3720 | 3720 | 100.0 | Italian <tp@lists.linux.it> | 
- | [byobu]({{< ref "/f16/package/byobu.md" >}}) | 177 | 177 | 100.0 | Italian <it@li.org> | 
- | [byzanz]({{< ref "/f16/package/byzanz.md" >}}) | 238 | 238 | 100.0 | Italiana <tp@lists.linux.it> | 
- | [cairo-clock]({{< ref "/f16/package/cairo-clock.md" >}}) | 270 | 270 | 100.0 | Mirco MÃ¦ller <macslow@bangang.de> | 
- | [camorama]({{< ref "/f16/package/camorama.md" >}}) | 559 | 559 | 100.0 | IT <tp@lists.linux.it> | 
- | [caribou]({{< ref "/f16/package/caribou.md" >}}) | 200 | 200 | 100.0 | Italian <tp@lists.linux.it> | 
- | [ccsm]({{< ref "/f16/package/ccsm.md" >}}) | 549 | 549 | 100.0 | Italian <tp@lists.linux.it> | 
- | [cheese]({{< ref "/f16/package/cheese.md" >}}) | 2570 | 2570 | 100.0 | Italian <tp@lists.linux.org>> | 
- | [cherrytree]({{< ref "/f16/package/cherrytree.md" >}}) | 2174 | 2174 | 100.0 | Italian | 
- | [chkconfig]({{< ref "/f16/package/chkconfig.md" >}}) | 487 | 487 | 100.0 | Italian <trans-it@lists.fedoraproject.org> | 
- | [cinnamon]({{< ref "/f16/package/cinnamon.md" >}}) | 1292 | 1292 | 100.0 | Italian <tp@lists.linux.it> | 
- | [clamtk]({{< ref "/f16/package/clamtk.md" >}}) | 796 | 796 | 100.0 | Italian <kde-i18n-it@kde.org> | 
- | [clawsker]({{< ref "/f16/package/clawsker.md" >}}) | 840 | 840 | 100.0 | Italian <tp@lists.linux.it> | 
- | [clementine]({{< ref "/f16/package/clementine.md" >}}) | 3939 | 3939 | 100.0 |  | 
- | [cogl]({{< ref "/f16/package/cogl.md" >}}) | 15 | 15 | 100.0 | Italiano <tp@lists.linux.it> | 
- | [compat-libgda]({{< ref "/f16/package/compat-libgda.md" >}}) | 6314 | 6314 | 100.0 | italiano <tp@lists.linux.it> | 
- | [compiz]({{< ref "/f16/package/compiz.md" >}}) | 3250 | 3250 | 100.0 | Italian <tp@lists.linux.it> | 
- | [compiz-fusion]({{< ref "/f16/package/compiz-fusion.md" >}}) | 8946 | 8946 | 100.0 | Italian <tp@lists.linux.it> | 
- | [conduit]({{< ref "/f16/package/conduit.md" >}}) | 834 | 834 | 100.0 | Italian <tp@lists.linux.it> | 
- | [console-setup]({{< ref "/f16/package/console-setup.md" >}}) | 979 | 979 | 100.0 | Italian <tp@lists.linux.it> | 
- | [contacts]({{< ref "/f16/package/contacts.md" >}}) | 285 | 285 | 100.0 | Italian <tp@lists.linux.it> | 
- | [control-center]({{< ref "/f16/package/control-center.md" >}}) | 4368 | 4368 | 100.0 | Italian tp@lists.linux.it | 
- | [cpufrequtils]({{< ref "/f16/package/cpufrequtils.md" >}}) | 583 | 583 | 100.0 | NONE | 
- | [cracklib]({{< ref "/f16/package/cracklib.md" >}}) | 93 | 93 | 100.0 | Novell Language <language@novell.com> | 
- | [cross-binutils]({{< ref "/f16/package/cross-binutils.md" >}}) | 17028 | 17028 | 100.0 | Italian <tp@lists.linux.it> | 
- | [dasher]({{< ref "/f16/package/dasher.md" >}}) | 528 | 528 | 100.0 | italian <tp@lists.linux.it> | 
- | [dates]({{< ref "/f16/package/dates.md" >}}) | 239 | 239 | 100.0 | Italian <tp@lists.linux.it> | 
- | [dcraw]({{< ref "/f16/package/dcraw.md" >}}) | 624 | 624 | 100.0 |  | 
- | [deja-dup]({{< ref "/f16/package/deja-dup.md" >}}) | 3740 | 3740 | 100.0 | Italian <it@li.org> | 
- | [devhelp]({{< ref "/f16/package/devhelp.md" >}}) | 456 | 456 | 100.0 | Italian <tp@lists.linux.it> | 
- | [dexter]({{< ref "/f16/package/dexter.md" >}}) | 228 | 228 | 100.0 | Italian <it@li.org> | 
- | [dialog]({{< ref "/f16/package/dialog.md" >}}) | 25 | 25 | 100.0 | Italian <tp@lists.linux.it> | 
- | [diffuse]({{< ref "/f16/package/diffuse.md" >}}) | 976 | 976 | 100.0 | Italian | 
- | [django-keyedcache]({{< ref "/f16/package/django-keyedcache.md" >}}) | 18 | 18 | 100.0 | Italiano <it@li.org> | 
- | [django-registration]({{< ref "/f16/package/django-registration.md" >}}) | 81 | 81 | 100.0 | Italiano | 
- | [django-reversion]({{< ref "/f16/package/django-reversion.md" >}}) | 117 | 117 | 100.0 | LANGUAGE <LL@li.org> | 
- | [docky]({{< ref "/f16/package/docky.md" >}}) | 599 | 599 | 100.0 | Italian <it@li.org> | 
- | [doodle]({{< ref "/f16/package/doodle.md" >}}) | 684 | 684 | 100.0 | Italian <tp@lists.linux.it> | 
- | [drupal-workspace]({{< ref "/f16/package/drupal-workspace.md" >}}) | 77 | 77 | 100.0 | MATTEO <m.ferrari@tiscali.it> | 
- | [drupal6-cck]({{< ref "/f16/package/drupal6-cck.md" >}}) | 1332 | 1332 | 100.0 | Italian <EMAIL@ADDRESS> | 
- | [easystroke]({{< ref "/f16/package/easystroke.md" >}}) | 515 | 515 | 100.0 | Italian <it@li.org> | 
- | [ecore]({{< ref "/f16/package/ecore.md" >}}) | 110 | 110 | 100.0 | none | 
- | [ejabberd]({{< ref "/f16/package/ejabberd.md" >}}) | 1826 | 1826 | 100.0 | Italian <tp@lists.linux.it> | 
- | [eject]({{< ref "/f16/package/eject.md" >}}) | 6 | 6 | 100.0 | Italian Team <debian-l10n-italian@lists.debian.org> | 
- | [ekiga]({{< ref "/f16/package/ekiga.md" >}}) | 4145 | 4145 | 100.0 | Italian <tp@lists.linux.it> | 
- | [emerald]({{< ref "/f16/package/emerald.md" >}}) | 774 | 774 | 100.0 | Italian <tp@lists.linux.it> | 
- | [emerillon]({{< ref "/f16/package/emerillon.md" >}}) | 404 | 404 | 100.0 | Italian <tp@lists.linux.it> | 
- | [empathy]({{< ref "/f16/package/empathy.md" >}}) | 11115 | 11115 | 100.0 | Italian <tp@lists.linux.it> | 
- | [eog]({{< ref "/f16/package/eog.md" >}}) | 4862 | 4862 | 100.0 | Italian <tp@lists.linux.it> | 
- | [eog-plugins]({{< ref "/f16/package/eog-plugins.md" >}}) | 150 | 150 | 100.0 | Italiana <tp@lists.linux.it> | 
- | [epiphany-extensions]({{< ref "/f16/package/epiphany-extensions.md" >}}) | 746 | 746 | 100.0 | italian <tp@lists.linux.it> | 
- | [etckeeper]({{< ref "/f16/package/etckeeper.md" >}}) | 64 | 64 | 100.0 | Italian <debian-l10n-italian@lists.debian.org> | 
- | [evince]({{< ref "/f16/package/evince.md" >}}) | 3355 | 3355 | 100.0 | Italian <tp@lists.linux.it> | 
- | [evolution]({{< ref "/f16/package/evolution.md" >}}) | 21447 | 21447 | 100.0 | Italian <tp@lists.linux.it> | 
- | [evolution-data-server]({{< ref "/f16/package/evolution-data-server.md" >}}) | 4673 | 4673 | 100.0 | Italian <tp@lists.linux.it> | 
- | [evolution-exchange]({{< ref "/f16/package/evolution-exchange.md" >}}) | 2204 | 2204 | 100.0 | Italian <tp@lists.linux.it> | 
- | [evolution-mapi]({{< ref "/f16/package/evolution-mapi.md" >}}) | 516 | 516 | 100.0 | Italian <tp@lists.linux.it> | 
- | [exif]({{< ref "/f16/package/exif.md" >}}) | 296 | 296 | 100.0 | Italian <tp@lists.linux.it> | 
- | [exo]({{< ref "/f16/package/exo.md" >}}) | 2214 | 2214 | 100.0 | Italian Translation Team <xfce-it-translators@googlegroups.com> | 
- | [expendable]({{< ref "/f16/package/expendable.md" >}}) | 226 | 226 | 100.0 | Italian <fedora-trans-it at redhat.com> | 
- | [f-spot]({{< ref "/f16/package/f-spot.md" >}}) | 3686 | 3686 | 100.0 | Italian <tp@lists.linux.it> | 
- | [fantasdic]({{< ref "/f16/package/fantasdic.md" >}}) | 198 | 198 | 100.0 | Italian <tp@lists.linux.it> | 
- | [file-roller]({{< ref "/f16/package/file-roller.md" >}}) | 7284 | 7284 | 100.0 | Italian <tp@lists.linux.it> | 
- | [filezilla]({{< ref "/f16/package/filezilla.md" >}}) | 9254 | 9254 | 100.0 | Andrea Sanavia - Roberto Boriotti - Vincenzo Reale - Riccardo Vianello <www.filezilla-project.it> | 
- | [firewalld]({{< ref "/f16/package/firewalld.md" >}}) | 615 | 615 | 100.0 | Italian <trans-it@fedoraproject.org> | 
- | [firstboot]({{< ref "/f16/package/firstboot.md" >}}) | 596 | 596 | 100.0 | Italian <trans-it@lists.fedoraproject.org> | 
- | [fontforge]({{< ref "/f16/package/fontforge.md" >}}) | 6828 | 6828 | 100.0 | LANGUAGE <it.c@li.org> | 
- | [fpm2]({{< ref "/f16/package/fpm2.md" >}}) | 748 | 748 | 100.0 | Nicola Jelmorini <jelmorini@linux.com> | 
- | [fprintd]({{< ref "/f16/package/fprintd.md" >}}) | 219 | 219 | 100.0 | Italian <> | 
- | [freedink-dfarc]({{< ref "/f16/package/freedink-dfarc.md" >}}) | 778 | 778 | 100.0 | Italian <tp@lists.linux.it> | 
- | [frogr]({{< ref "/f16/package/frogr.md" >}}) | 347 | 347 | 100.0 | Italian | 
- | [frozen-bubble]({{< ref "/f16/package/frozen-bubble.md" >}}) | 698 | 698 | 100.0 | Italian <tp@lists.linux.it> | 
- | [ganyremote]({{< ref "/f16/package/ganyremote.md" >}}) | 494 | 494 | 100.0 | Italian | 
- | [garcon]({{< ref "/f16/package/garcon.md" >}}) | 86 | 86 | 100.0 |  | 
- | [gbrainy]({{< ref "/f16/package/gbrainy.md" >}}) | 9743 | 9743 | 100.0 | Italian <tp@lists.linux.it> | 
- | [gcl]({{< ref "/f16/package/gcl.md" >}}) | 177 | 177 | 100.0 | Italian <tp@lists.linux.it> | 
- | [gcompris]({{< ref "/f16/package/gcompris.md" >}}) | 10220 | 10220 | 100.0 | IT <tp@lists.linux.it> | 
- | [gconf-editor]({{< ref "/f16/package/gconf-editor.md" >}}) | 2834 | 2834 | 100.0 | Italian <tp@lists.linux.it> | 
- | [gdk-pixbuf2]({{< ref "/f16/package/gdk-pixbuf2.md" >}}) | 1313 | 1313 | 100.0 | Italian <tp@lists.linux.it> | 
- | [gdmap]({{< ref "/f16/package/gdmap.md" >}}) | 139 | 139 | 100.0 | Italian <mangilimic@gmail.com> | 
- | [geany]({{< ref "/f16/package/geany.md" >}}) | 5664 | 5664 | 100.0 | <geany-i18n@uvena.de> | 
- | [gedit]({{< ref "/f16/package/gedit.md" >}}) | 11942 | 11942 | 100.0 | Italian <tp@lists.linux.it> | 
- | [gedit-collaboration]({{< ref "/f16/package/gedit-collaboration.md" >}}) | 119 | 119 | 100.0 | Italian <tp@lists.linux.it> | 
- | [gedit-plugins]({{< ref "/f16/package/gedit-plugins.md" >}}) | 1640 | 1640 | 100.0 | Italian <tp@lists.linux.it> | 
- | [ggz-base-libs]({{< ref "/f16/package/ggz-base-libs.md" >}}) | 72 | 72 | 100.0 | Italian <tp@list.linux.it> | 
- | [ggz-gtk-client]({{< ref "/f16/package/ggz-gtk-client.md" >}}) | 859 | 859 | 100.0 | Italian <tp@list.linux.it> | 
- | [gigolo]({{< ref "/f16/package/gigolo.md" >}}) | 444 | 444 | 100.0 | Italian | 
- | [gimp]({{< ref "/f16/package/gimp.md" >}}) | 26126 | 26126 | 100.0 | gimp@erlug.linux.it | 
- | [gimp-help]({{< ref "/f16/package/gimp-help.md" >}}) | 529 | 529 | 100.0 | Italian <it@li.org> | 
- | [gimp-lqr-plugin]({{< ref "/f16/package/gimp-lqr-plugin.md" >}}) | 825 | 825 | 100.0 | Italian <carlobaldassi@gmail.com> | 
- | [glade3]({{< ref "/f16/package/glade3.md" >}}) | 5874 | 5874 | 100.0 | Italian <tp@lists.linux.it> | 
- | [glib-networking]({{< ref "/f16/package/glib-networking.md" >}}) | 86 | 86 | 100.0 | Italian <tp@lists.linux.it> | 
- | [glib2]({{< ref "/f16/package/glib2.md" >}}) | 4777 | 4777 | 100.0 | Italiano <tp@lists.linux.it> | 
- | [glibc]({{< ref "/f16/package/glibc.md" >}}) | 7409 | 7409 | 100.0 | Italian <tp@lists.linux.it> | 
- | [gnokii]({{< ref "/f16/package/gnokii.md" >}}) | 5575 | 5575 | 100.0 | Italian <tp@lists.linux.it> | 
- | [gnome-activity-journal]({{< ref "/f16/package/gnome-activity-journal.md" >}}) | 316 | 316 | 100.0 | Italian <it@li.org> | 
- | [gnome-applet-sensors]({{< ref "/f16/package/gnome-applet-sensors.md" >}}) | 298 | 298 | 100.0 | Italian <tp@lists.linux.it> | 
- | [gnome-applets]({{< ref "/f16/package/gnome-applets.md" >}}) | 9795 | 9795 | 100.0 | Italian | 
- | [gnome-backgrounds]({{< ref "/f16/package/gnome-backgrounds.md" >}}) | 29 | 29 | 100.0 | Italian <tp@lists.linux.it> | 
- | [gnome-bluetooth]({{< ref "/f16/package/gnome-bluetooth.md" >}}) | 654 | 654 | 100.0 | Italian <tp@lists.linux.it> | 
- | [gnome-color-manager]({{< ref "/f16/package/gnome-color-manager.md" >}}) | 1904 | 1904 | 100.0 | Italian <gnome-it-list@gnome.org> | 
- | [gnome-contacts]({{< ref "/f16/package/gnome-contacts.md" >}}) | 210 | 210 | 100.0 | Italian <tp@lists.linux.it> | 
- | [gnome-desktop]({{< ref "/f16/package/gnome-desktop.md" >}}) | 438 | 438 | 100.0 | Italian <tp@lists.linux.it> | 
- | [gnome-desktop3]({{< ref "/f16/package/gnome-desktop3.md" >}}) | 235 | 235 | 100.0 | Italian <tp@lists.linux.it> | 
- | [gnome-disk-utility]({{< ref "/f16/package/gnome-disk-utility.md" >}}) | 4544 | 4544 | 100.0 | Italian <tp@lists.linux.it> | 
- | [gnome-do-plugins]({{< ref "/f16/package/gnome-do-plugins.md" >}}) | 2323 | 2323 | 100.0 | Italian <it@li.org> | 
- | [gnome-doc-utils]({{< ref "/f16/package/gnome-doc-utils.md" >}}) | 251 | 251 | 100.0 | Italian <tp@lists.linux.it> | 
- | [gnome-documents]({{< ref "/f16/package/gnome-documents.md" >}}) | 71 | 71 | 100.0 | Italian <gnome-it-list@gnome.org> | 
- | [gnome-dvb-daemon]({{< ref "/f16/package/gnome-dvb-daemon.md" >}}) | 808 | 808 | 100.0 | Italian <it@li.org> | 
- | [gnome-games]({{< ref "/f16/package/gnome-games.md" >}}) | 29435 | 29435 | 100.0 | Italian <tp@lists.linux.it> | 
- | [gnome-icon-theme]({{< ref "/f16/package/gnome-icon-theme.md" >}}) | 43 | 43 | 100.0 | Italian <tp@lists.linux.it> | 
- | [gnome-keyring]({{< ref "/f16/package/gnome-keyring.md" >}}) | 928 | 928 | 100.0 | Italian <tp@lists.linux.it> | 
- | [gnome-mag]({{< ref "/f16/package/gnome-mag.md" >}}) | 298 | 298 | 100.0 | Italian <tp@lists.linux.it> | 
- | [gnome-media]({{< ref "/f16/package/gnome-media.md" >}}) | 4059 | 4059 | 100.0 | Italian <tp@lists.linux.it> | 
- | [gnome-menus]({{< ref "/f16/package/gnome-menus.md" >}}) | 161 | 161 | 100.0 | Italian <tp@lists.linux.it> | 
- | [gnome-mime-data]({{< ref "/f16/package/gnome-mime-data.md" >}}) | 887 | 887 | 100.0 | Italian <tp@lists.linux.it> | 
- | [gnome-online-accounts]({{< ref "/f16/package/gnome-online-accounts.md" >}}) | 304 | 304 | 100.0 | Italian <tp@lists.linux.it> | 
- | [gnome-packagekit]({{< ref "/f16/package/gnome-packagekit.md" >}}) | 4790 | 4790 | 100.0 | Italiana <tp@lists.linux.it> | 
- | [gnome-paint]({{< ref "/f16/package/gnome-paint.md" >}}) | 167 | 167 | 100.0 | Italian | 
- | [gnome-panel]({{< ref "/f16/package/gnome-panel.md" >}}) | 5703 | 5703 | 100.0 | Italian <tp@lists.linux.it> | 
- | [gnome-phone-manager]({{< ref "/f16/package/gnome-phone-manager.md" >}}) | 559 | 559 | 100.0 | Italian <tp@lists.linux.it > | 
- | [gnome-pilot-conduits]({{< ref "/f16/package/gnome-pilot-conduits.md" >}}) | 209 | 209 | 100.0 | Italian <tp@lists.linux.it> | 
- | [gnome-power-manager]({{< ref "/f16/package/gnome-power-manager.md" >}}) | 432 | 432 | 100.0 | Italian <tp@lists.linux.it> | 
- | [gnome-scan]({{< ref "/f16/package/gnome-scan.md" >}}) | 210 | 210 | 100.0 | Italian <tp@lists.linux.it> | 
- | [gnome-screensaver]({{< ref "/f16/package/gnome-screensaver.md" >}}) | 291 | 291 | 100.0 | Italiano <tp@lists.linux.it> | 
- | [gnome-session]({{< ref "/f16/package/gnome-session.md" >}}) | 489 | 489 | 100.0 | Italiano <tp@lists.linux.it> | 
- | [gnome-settings-daemon]({{< ref "/f16/package/gnome-settings-daemon.md" >}}) | 3926 | 3926 | 100.0 | Italiano <tp@lists.linux.it> | 
- | [gnome-shell]({{< ref "/f16/package/gnome-shell.md" >}}) | 1296 | 1296 | 100.0 | Italian <tp@lists.linux.it> | 
- | [gnome-shell-extensions]({{< ref "/f16/package/gnome-shell-extensions.md" >}}) | 424 | 424 | 100.0 | none <LL@li.org> | 
- | [gnome-subtitles]({{< ref "/f16/package/gnome-subtitles.md" >}}) | 910 | 910 | 100.0 | Italian <tp@lists.linux.it> | 
- | [gnome-system-monitor]({{< ref "/f16/package/gnome-system-monitor.md" >}}) | 945 | 945 | 100.0 | Italiano <tp@lists.linux.it> | 
- | [gnome-terminal]({{< ref "/f16/package/gnome-terminal.md" >}}) | 7809 | 7809 | 100.0 | Italian <tp@lists.linux.it> | 
- | [gnome-themes]({{< ref "/f16/package/gnome-themes.md" >}}) | 109 | 109 | 100.0 | Italian <tp@lists.linux.it> | 
- | [gnome-themes-standard]({{< ref "/f16/package/gnome-themes-standard.md" >}}) | 24 | 24 | 100.0 | Italian <tp@lists.linux.it> | 
- | [gnome-tweak-tool]({{< ref "/f16/package/gnome-tweak-tool.md" >}}) | 119 | 119 | 100.0 | Italiana <tp@lists.linux.it> | 
- | [gnome-user-share]({{< ref "/f16/package/gnome-user-share.md" >}}) | 1457 | 1457 | 100.0 | Italian <tp@lists.linux.it> | 
- | [gnome-utils]({{< ref "/f16/package/gnome-utils.md" >}}) | 9611 | 9611 | 100.0 | Italian <tp@lists.linux.it> | 
- | [gnome-vfs2]({{< ref "/f16/package/gnome-vfs2.md" >}}) | 1519 | 1519 | 100.0 | Italian <tp@lists.linux.it> | 
- | [gnomeradio]({{< ref "/f16/package/gnomeradio.md" >}}) | 413 | 413 | 100.0 | Italian <tp@lists.linux.it> | 
- | [gnubg]({{< ref "/f16/package/gnubg.md" >}}) | 16575 | 16575 | 100.0 | Italiano <renzo.camp@tin.it> | 
- | [gok]({{< ref "/f16/package/gok.md" >}}) | 1915 | 1915 | 100.0 | Italian <tp@lists.linux.it> | 
- | [googsystray]({{< ref "/f16/package/googsystray.md" >}}) | 759 | 759 | 100.0 | Italian | 
- | [gparted]({{< ref "/f16/package/gparted.md" >}}) | 6129 | 6129 | 100.0 | Italian <tp@lists.linux.it> | 
- | [gpicview]({{< ref "/f16/package/gpicview.md" >}}) | 219 | 219 | 100.0 |  | 
- | [gpsdrive]({{< ref "/f16/package/gpsdrive.md" >}}) | 2311 | 2311 | 100.0 | Italian <tp@lists.linux.it> | 
- | [greylistd]({{< ref "/f16/package/greylistd.md" >}}) | 350 | 350 | 100.0 | Italian <tp@lists.linux.it> | 
- | [grip]({{< ref "/f16/package/grip.md" >}}) | 1047 | 1047 | 100.0 | Italiano <it@li.org> | 
- | [gtg]({{< ref "/f16/package/gtg.md" >}}) | 1795 | 1795 | 100.0 | Italian <it@li.org> | 
- | [gthumb]({{< ref "/f16/package/gthumb.md" >}}) | 3239 | 3239 | 100.0 | Italian | 
- | [gtk+]({{< ref "/f16/package/gtk+.md" >}}) | 404 | 404 | 100.0 | Italian <it@li.org> | 
- | [gtk-recordmydesktop]({{< ref "/f16/package/gtk-recordmydesktop.md" >}}) | 816 | 816 | 100.0 | Arch Linux Italian Team <linuxmania@gmail.com> | 
- | [gtk-vnc]({{< ref "/f16/package/gtk-vnc.md" >}}) | 81 | 81 | 100.0 | Italian <tp@lists.linux.it> | 
- | [gtk2]({{< ref "/f16/package/gtk2.md" >}}) | 12452 | 12452 | 100.0 | Italian <tp@lists.linux.it> | 
- | [gtk2-engines]({{< ref "/f16/package/gtk2-engines.md" >}}) | 119 | 119 | 100.0 | Italian <tp@lists.linux.it> | 
- | [gtkhtml3]({{< ref "/f16/package/gtkhtml3.md" >}}) | 488 | 488 | 100.0 | Italian <tp@lists.linux.it> | 
- | [gtksourcecompletion]({{< ref "/f16/package/gtksourcecompletion.md" >}}) | 11 | 11 | 100.0 | LANGUAGE <LL@li.org> | 
- | [gtksourceview]({{< ref "/f16/package/gtksourceview.md" >}}) | 821 | 821 | 100.0 | Italian <tp@lists.linux.it> | 
- | [gtksourceview2]({{< ref "/f16/package/gtksourceview2.md" >}}) | 1413 | 1413 | 100.0 | Italian <tp@lists.linux.it> | 
- | [gtksourceview3]({{< ref "/f16/package/gtksourceview3.md" >}}) | 1532 | 1532 | 100.0 | Italian <tp@lists.linux.it> | 
- | [gtkspell]({{< ref "/f16/package/gtkspell.md" >}}) | 15 | 15 | 100.0 | Italian <tp@lists.linux.it> | 
- | [gtranslator]({{< ref "/f16/package/gtranslator.md" >}}) | 1668 | 1668 | 100.0 | Italian <tp@lists.linux.it> | 
- | [guake]({{< ref "/f16/package/guake.md" >}}) | 523 | 523 | 100.0 | Italian <LL@li.org> | 
- | [gucharmap]({{< ref "/f16/package/gucharmap.md" >}}) | 896 | 896 | 100.0 | Italian <tp@lists.linux.it> | 
- | [gvfs]({{< ref "/f16/package/gvfs.md" >}}) | 2412 | 2412 | 100.0 | Italian <tp@lists.linux.it> | 
- | [gweled]({{< ref "/f16/package/gweled.md" >}}) | 156 | 156 | 100.0 | Italian <tp@lists.linux.it> | 
- | [gwget]({{< ref "/f16/package/gwget.md" >}}) | 379 | 379 | 100.0 | Italian <tp@lists.linux.it> | 
- | [gx_head]({{< ref "/f16/package/gx_head.md" >}}) | 1503 | 1503 | 100.0 | Italian | 
- | [hamster-applet]({{< ref "/f16/package/hamster-applet.md" >}}) | 717 | 717 | 100.0 | Italian <tp@lists.linux.it> | 
- | [help2man]({{< ref "/f16/package/help2man.md" >}}) | 524 | 524 | 100.0 | Italian <tp@lists.linux.it> | 
- | [homebank]({{< ref "/f16/package/homebank.md" >}}) | 1509 | 1509 | 100.0 | Italian <it@li.org> | 
- | [horde]({{< ref "/f16/package/horde.md" >}}) | 7712 | 7712 | 100.0 | Italian <dev@lists.horde.org> | 
- | [hotssh]({{< ref "/f16/package/hotssh.md" >}}) | 150 | 150 | 100.0 | italian <tp@lists.linux.it> | 
- | [hugin]({{< ref "/f16/package/hugin.md" >}}) | 6577 | 6577 | 100.0 | Italian <tp@lists.linux.it> | 
- | [ibus-xkbc]({{< ref "/f16/package/ibus-xkbc.md" >}}) | 61 | 61 | 100.0 | LANGUAGE <LL@li.org> | 
- | [idjc]({{< ref "/f16/package/idjc.md" >}}) | 5636 | 5636 | 100.0 | American English <kde-i18n-doc@kde.org> | 
- | [im-chooser]({{< ref "/f16/package/im-chooser.md" >}}) | 226 | 226 | 100.0 | Italian (http://www.transifex.net/projects/p/im-chooser/team/it/) | 
- | [imp]({{< ref "/f16/package/imp.md" >}}) | 6421 | 6421 | 100.0 | i18n@lists.horde.org | 
- | [imsettings]({{< ref "/f16/package/imsettings.md" >}}) | 404 | 404 | 100.0 | Italian (http://www.transifex.net/projects/p/imsettings/team/it/) | 
- | [ingo]({{< ref "/f16/package/ingo.md" >}}) | 883 | 883 | 100.0 | Horde Italian <i18n@lists.horde.org> | 
- | [insight]({{< ref "/f16/package/insight.md" >}}) | 1371 | 1371 | 100.0 | Italian <tp@lists.linux.it> | 
- | [iok]({{< ref "/f16/package/iok.md" >}}) | 142 | 142 | 100.0 | Italian <fedora-trans-it at redhat.com> | 
- | [ircp-tray]({{< ref "/f16/package/ircp-tray.md" >}}) | 239 | 239 | 100.0 | Italian <tp@lists.linux.it> | 
- | [iso-codes]({{< ref "/f16/package/iso-codes.md" >}}) | 19759 | 19759 | 100.0 | Italian <tp@lists.linux.it> | 
- | [isomaster]({{< ref "/f16/package/isomaster.md" >}}) | 674 | 674 | 100.0 |  | 
- | [istanbul]({{< ref "/f16/package/istanbul.md" >}}) | 78 | 78 | 100.0 | Italian <tp@lists.linux.it> | 
- | [jwhois]({{< ref "/f16/package/jwhois.md" >}}) | 440 | 440 | 100.0 | Italian <tp@lists.linux.it> | 
- | [kBuild]({{< ref "/f16/package/kBuild.md" >}}) | 505 | 505 | 100.0 | Italian <tp@lists.linux.it> | 
- | [kde-plasma-networkmanagement]({{< ref "/f16/package/kde-plasma-networkmanagement.md" >}}) | 3686 | 3686 | 100.0 | Italian <kde-i18n-it@kde.org> | 
- | [kdevelop]({{< ref "/f16/package/kdevelop.md" >}}) | 4012 | 4012 | 100.0 | Italian <kde-i18n-it@kde.org> | 
- | [kdevelop-php]({{< ref "/f16/package/kdevelop-php.md" >}}) | 359 | 359 | 100.0 | Italian <kde-i18n-it@kde.org> | 
- | [kdevplatform]({{< ref "/f16/package/kdevplatform.md" >}}) | 7783 | 7783 | 100.0 | Italian <kde-i18n-it@kde.org> | 
- | [kdiff3]({{< ref "/f16/package/kdiff3.md" >}}) | 3770 | 3770 | 100.0 | Italian <kde-i18n-it@kde.org> | 
- | [kdirstat]({{< ref "/f16/package/kdirstat.md" >}}) | 926 | 926 | 100.0 | Italiano | 
- | [kdissert]({{< ref "/f16/package/kdissert.md" >}}) | 2027 | 2027 | 100.0 | Italian <kde-i18n-it@kde.org> | 
- | [keurocalc]({{< ref "/f16/package/keurocalc.md" >}}) | 3042 | 3042 | 100.0 | Italian <kde-i18n-it@kde.org> | 
- | [kexec-tools]({{< ref "/f16/package/kexec-tools.md" >}}) | 206 | 206 | 100.0 | <it@li.org> | 
- | [kgrab]({{< ref "/f16/package/kgrab.md" >}}) | 370 | 370 | 100.0 | Italian <kde-i18n-it@lists.kde.org> | 
- | [kicad]({{< ref "/f16/package/kicad.md" >}}) | 13669 | 13669 | 100.0 | Ciocemax <ciocemax@alice.it> | 
- | [kiconedit]({{< ref "/f16/package/kiconedit.md" >}}) | 726 | 726 | 100.0 | Italian <kde-i18n-it@lists.kde.org> | 
- | [kid3]({{< ref "/f16/package/kid3.md" >}}) | 1288 | 1288 | 100.0 | Italian <kde-i18n-doc@kde.org> | 
- | [kile]({{< ref "/f16/package/kile.md" >}}) | 11162 | 11162 | 100.0 | Italian <kde-i18n-it@kde.org> | 
- | [kio_gopher]({{< ref "/f16/package/kio_gopher.md" >}}) | 17 | 17 | 100.0 | Italian <kde-i18n-it@kde.org> | 
- | [kmldonkey]({{< ref "/f16/package/kmldonkey.md" >}}) | 1830 | 1830 | 100.0 | Italiano <kde-i18n-it@kde.org> | 
- | [knemo]({{< ref "/f16/package/knemo.md" >}}) | 1186 | 1186 | 100.0 | Italian <kde-i18n-it@kde.org> | 
- | [knetstats]({{< ref "/f16/package/knetstats.md" >}}) | 119 | 119 | 100.0 | Italian <kde-i18n-it@kde.org> | 
- | [knights]({{< ref "/f16/package/knights.md" >}}) | 761 | 761 | 100.0 | Italian <kde-i18n-it@kde.org> | 
- | [koffice-kivio]({{< ref "/f16/package/koffice-kivio.md" >}}) | 8417 | 8417 | 100.0 | Italian <kde-i18n-it@kde.org> | 
- | [komparator]({{< ref "/f16/package/komparator.md" >}}) | 2587 | 2587 | 100.0 | Arch Linux Italian Team <linuxmania@gmail.com> | 
- | [konq-plugins]({{< ref "/f16/package/konq-plugins.md" >}}) | 1692 | 1692 | 100.0 | Italian <kde-i18n-it@kde.org> | 
- | [kopete-cryptography]({{< ref "/f16/package/kopete-cryptography.md" >}}) | 408 | 408 | 100.0 | Italian <kde-i18n-it@lists.kde.org> | 
- | [kphotoalbum]({{< ref "/f16/package/kphotoalbum.md" >}}) | 6333 | 6333 | 100.0 | Italiano <kde-i18n-it@kde.org> | 
- | [kpilot]({{< ref "/f16/package/kpilot.md" >}}) | 7156 | 7156 | 100.0 | Italian <kde-i18n-it@kde.org> | 
- | [krecipes]({{< ref "/f16/package/krecipes.md" >}}) | 3087 | 3087 | 100.0 | Italian <kde-i18n-it@kde.org> | 
- | [kronolith]({{< ref "/f16/package/kronolith.md" >}}) | 2222 | 2222 | 100.0 | Italian <dev@lists.horde.org> | 
- | [ksig]({{< ref "/f16/package/ksig.md" >}}) | 85 | 85 | 100.0 | Italian <kde-i18n-it@kde.org> | 
- | [ktp-accounts-kcm]({{< ref "/f16/package/ktp-accounts-kcm.md" >}}) | 958 | 958 | 100.0 | Italian <kde-i18n-it@kde.org> | 
- | [ktp-approver]({{< ref "/f16/package/ktp-approver.md" >}}) | 76 | 76 | 100.0 | Italian <kde-i18n-it@kde.org> | 
- | [ktp-auth-handler]({{< ref "/f16/package/ktp-auth-handler.md" >}}) | 26 | 26 | 100.0 | Italian <kde-i18n-it@kde.org> | 
- | [ktp-contact-applet]({{< ref "/f16/package/ktp-contact-applet.md" >}}) | 15 | 15 | 100.0 | Italian <kde-i18n-it@kde.org> | 
- | [ktp-contact-list]({{< ref "/f16/package/ktp-contact-list.md" >}}) | 500 | 500 | 100.0 | Italian <kde-i18n-it@kde.org> | 
- | [ktp-contact-runner]({{< ref "/f16/package/ktp-contact-runner.md" >}}) | 177 | 177 | 100.0 | Italian <kde-i18n-it@kde.org> | 
- | [ktp-filetransfer-handler]({{< ref "/f16/package/ktp-filetransfer-handler.md" >}}) | 137 | 137 | 100.0 | Italian <kde-i18n-it@kde.org> | 
- | [ktp-kded-integration-module]({{< ref "/f16/package/ktp-kded-integration-module.md" >}}) | 228 | 228 | 100.0 | Italian <kde-i18n-it@kde.org> | 
- | [ktp-presence-applet]({{< ref "/f16/package/ktp-presence-applet.md" >}}) | 19 | 19 | 100.0 | Italian <kde-i18n-it@kde.org> | 
- | [ktp-send-file]({{< ref "/f16/package/ktp-send-file.md" >}}) | 41 | 41 | 100.0 | Italian <kde-i18n-it@kde.org> | 
- | [ktp-text-ui]({{< ref "/f16/package/ktp-text-ui.md" >}}) | 490 | 490 | 100.0 | Italian <kde-i18n-it@kde.org> | 
- | [kvirc]({{< ref "/f16/package/kvirc.md" >}}) | 13604 | 13604 | 100.0 | Italian <kde-i18n-it@kde.org> | 
- | [leafpad]({{< ref "/f16/package/leafpad.md" >}}) | 125 | 125 | 100.0 | Italian <tp@lists.linux.it> | 
- | [libbonobo]({{< ref "/f16/package/libbonobo.md" >}}) | 543 | 543 | 100.0 | Italian <tp@lists.linux.it> | 
- | [libbonoboui]({{< ref "/f16/package/libbonoboui.md" >}}) | 368 | 368 | 100.0 | Italian <tp@lists.linux.it> | 
- | [libcryptui]({{< ref "/f16/package/libcryptui.md" >}}) | 3012 | 3012 | 100.0 | Italian <tp@lists.linux.it> | 
- | [libepc]({{< ref "/f16/package/libepc.md" >}}) | 147 | 147 | 100.0 | Italian <tp@lists.linux.it> | 
- | [libfm]({{< ref "/f16/package/libfm.md" >}}) | 859 | 859 | 100.0 | Italian | 
- | [libgdata]({{< ref "/f16/package/libgdata.md" >}}) | 559 | 559 | 100.0 | Italian <tp@lists.linux.it> | 
- | [libgdl]({{< ref "/f16/package/libgdl.md" >}}) | 604 | 604 | 100.0 | Italian <tp@lists.linux.it> | 
- | [libgnome]({{< ref "/f16/package/libgnome.md" >}}) | 1773 | 1773 | 100.0 | Italian <tp@lists.linux.it> | 
- | [libgnome-keyring]({{< ref "/f16/package/libgnome-keyring.md" >}}) | 44 | 44 | 100.0 | Italian <tp@lists.linux.it> | 
- | [libgnome-media-profiles]({{< ref "/f16/package/libgnome-media-profiles.md" >}}) | 460 | 460 | 100.0 | Italian <tp@lists.linux.it> | 
- | [libgnomecanvas]({{< ref "/f16/package/libgnomecanvas.md" >}}) | 378 | 378 | 100.0 | Italian <tp@lists.linux.it> | 
- | [libgnomecups]({{< ref "/f16/package/libgnomecups.md" >}}) | 11 | 11 | 100.0 | Italian <tp@lists.linux.it> | 
- | [libgnomekbd]({{< ref "/f16/package/libgnomekbd.md" >}}) | 242 | 242 | 100.0 | Italian <tp@lists.linux.it> | 
- | [libgnomeprint22]({{< ref "/f16/package/libgnomeprint22.md" >}}) | 168 | 168 | 100.0 | Italian <tp@lists.linux.it> | 
- | [libgnomeprintui22]({{< ref "/f16/package/libgnomeprintui22.md" >}}) | 481 | 481 | 100.0 | Italian <tp@lists.linux.it> | 
- | [libgnomeui]({{< ref "/f16/package/libgnomeui.md" >}}) | 1226 | 1226 | 100.0 | Italian <tp@lists.linux.it> | 
- | [libgsf]({{< ref "/f16/package/libgsf.md" >}}) | 843 | 843 | 100.0 | Italian <tp@lists.linux.it> | 
- | [libgtop2]({{< ref "/f16/package/libgtop2.md" >}}) | 126 | 126 | 100.0 | Italian <tp@lists.linux.it> | 
- | [libgweather]({{< ref "/f16/package/libgweather.md" >}}) | 6090 | 6090 | 100.0 | Italian <tp@lists.linux.it> | 
- | [libiptcdata]({{< ref "/f16/package/libiptcdata.md" >}}) | 1438 | 1438 | 100.0 | Italian <tp@lists.linux.it> | 
- | [libkexif]({{< ref "/f16/package/libkexif.md" >}}) | 25 | 25 | 100.0 | Italian <kde-i18n-it@kde.org> | 
- | [libktorrent]({{< ref "/f16/package/libktorrent.md" >}}) | 519 | 519 | 100.0 | Italian <kde-i18n-it@kde.org> | 
- | [libmate]({{< ref "/f16/package/libmate.md" >}}) | 1773 | 1773 | 100.0 | Italian (http://www.transifex.com/projects/p/MATE/language/it/) | 
- | [libmatecanvas]({{< ref "/f16/package/libmatecanvas.md" >}}) | 378 | 378 | 100.0 | Italian (http://www.transifex.com/projects/p/MATE/language/it/) | 
- | [libmatecomponent]({{< ref "/f16/package/libmatecomponent.md" >}}) | 543 | 543 | 100.0 | Italian (http://www.transifex.net/projects/p/MATE/language/it/) | 
- | [libmatekbd]({{< ref "/f16/package/libmatekbd.md" >}}) | 292 | 292 | 100.0 | Italian <tp@lists.linux.it> | 
- | [libmatekeyring]({{< ref "/f16/package/libmatekeyring.md" >}}) | 44 | 44 | 100.0 | Italian (http://www.transifex.com/projects/p/MATE/language/it/) | 
- | [libmateweather]({{< ref "/f16/package/libmateweather.md" >}}) | 6090 | 6090 | 100.0 | Italian (http://www.transifex.com/projects/p/MATE/language/it/) | 
- | [libmatewnck]({{< ref "/f16/package/libmatewnck.md" >}}) | 1124 | 1124 | 100.0 | Italian <tp@lists.linux.it> | 
- | [libmx]({{< ref "/f16/package/libmx.md" >}}) | 40 | 40 | 100.0 | Italian <tp@lists.linux.it> | 
- | [libpaper]({{< ref "/f16/package/libpaper.md" >}}) | 73 | 73 | 100.0 | italian <tp@lists.linux.it> | 
- | [libpeas]({{< ref "/f16/package/libpeas.md" >}}) | 106 | 106 | 100.0 | Italian <tp@lists.linux.it> | 
- | [libpwquality]({{< ref "/f16/package/libpwquality.md" >}}) | 324 | 324 | 100.0 | LANGUAGE <LL@li.org> | 
- | [libreoffice]({{< ref "/f16/package/libreoffice.md" >}}) | 533988 | 533988 | 100.0 | LANGUAGE <LL@li.org> | 
- | [libsocialweb]({{< ref "/f16/package/libsocialweb.md" >}}) | 148 | 148 | 100.0 | Italian <tp@lists.linux.it> | 
- | [libwnck]({{< ref "/f16/package/libwnck.md" >}}) | 1124 | 1124 | 100.0 | Italian <tp@lists.linux.it> | 
- | [libwnck3]({{< ref "/f16/package/libwnck3.md" >}}) | 1084 | 1084 | 100.0 | Italian <tp@lists.linux.it> | 
- | [libxfce4menu]({{< ref "/f16/package/libxfce4menu.md" >}}) | 31 | 31 | 100.0 | Italian Translation Team <xfce-it-translators@googlegroups.com> | 
- | [libxfce4ui]({{< ref "/f16/package/libxfce4ui.md" >}}) | 149 | 149 | 100.0 | Italian Translation Team <xfce-it-translators@googlegroups.com> | 
- | [libxfce4util]({{< ref "/f16/package/libxfce4util.md" >}}) | 424 | 424 | 100.0 | Italian Translation Team <xfce-it-translators@googlegroups.com> | 
- | [libxfcegui4]({{< ref "/f16/package/libxfcegui4.md" >}}) | 139 | 139 | 100.0 | Italian <xfce-it-translators@googlegroups.com> | 
- | [lightdm]({{< ref "/f16/package/lightdm.md" >}}) | 79 | 79 | 100.0 | Italian <it@li.org> | 
- | [lightdm-gtk]({{< ref "/f16/package/lightdm-gtk.md" >}}) | 56 | 56 | 100.0 | Italian <it@li.org> | 
- | [liveusb-creator]({{< ref "/f16/package/liveusb-creator.md" >}}) | 480 | 480 | 100.0 | Italian <fedora-trans-it@redhat.com> | 
- | [ltsp]({{< ref "/f16/package/ltsp.md" >}}) | 462 | 462 | 100.0 | Italian <tp@lists.linux.it> | 
- | [lxappearance-obconf]({{< ref "/f16/package/lxappearance-obconf.md" >}}) | 184 | 184 | 100.0 | Italian <tp@lists.linux.it> | 
- | [lxdm]({{< ref "/f16/package/lxdm.md" >}}) | 30 | 30 | 100.0 | Italian <LL@li.org> | 
- | [lxinput]({{< ref "/f16/package/lxinput.md" >}}) | 72 | 72 | 100.0 | LANGUAGE <LL@li.org> | 
- | [lxlauncher]({{< ref "/f16/package/lxlauncher.md" >}}) | 51 | 51 | 100.0 |  | 
- | [lxmenu-data]({{< ref "/f16/package/lxmenu-data.md" >}}) | 97 | 97 | 100.0 | Italian <tp@lists.linux.it> | 
- | [lxmusic]({{< ref "/f16/package/lxmusic.md" >}}) | 203 | 203 | 100.0 |  | 
- | [lxpolkit]({{< ref "/f16/package/lxpolkit.md" >}}) | 15 | 15 | 100.0 | Italian <it@li.org> | 
- | [lxsession]({{< ref "/f16/package/lxsession.md" >}}) | 36 | 36 | 100.0 |  | 
- | [lxshortcut]({{< ref "/f16/package/lxshortcut.md" >}}) | 43 | 43 | 100.0 |  | 
- | [lxtask]({{< ref "/f16/package/lxtask.md" >}}) | 122 | 122 | 100.0 | Italian <xfce-i18n@xfce.org> | 
- | [lxterminal]({{< ref "/f16/package/lxterminal.md" >}}) | 144 | 144 | 100.0 |  | 
- | [lyx]({{< ref "/f16/package/lyx.md" >}}) | 17357 | 17357 | 100.0 | italiano <it@li.org> | 
- | [man2html]({{< ref "/f16/package/man2html.md" >}}) | 58 | 58 | 100.0 | Italian <it@li.org> | 
- | [mate-backgrounds]({{< ref "/f16/package/mate-backgrounds.md" >}}) | 30 | 30 | 100.0 | Italian (http://www.transifex.com/projects/p/MATE/language/it/) | 
- | [mate-conf]({{< ref "/f16/package/mate-conf.md" >}}) | 4032 | 4032 | 100.0 | Italian (http://www.transifex.net/projects/p/MATE/language/it/) | 
- | [mate-control-center]({{< ref "/f16/package/mate-control-center.md" >}}) | 3630 | 3630 | 100.0 | Italian tp@lists.linux.it | 
- | [mate-desktop]({{< ref "/f16/package/mate-desktop.md" >}}) | 407 | 407 | 100.0 | Italian (http://www.transifex.net/projects/p/MATE/language/it/) | 
- | [mate-dialogs]({{< ref "/f16/package/mate-dialogs.md" >}}) | 631 | 631 | 100.0 | Italian (http://www.transifex.com/projects/p/MATE/language/it/) | 
- | [mate-doc-utils]({{< ref "/f16/package/mate-doc-utils.md" >}}) | 251 | 251 | 100.0 | Italian (http://www.transifex.net/projects/p/MATE/language/it/) | 
- | [mate-file-archiver]({{< ref "/f16/package/mate-file-archiver.md" >}}) | 7134 | 7134 | 100.0 | Italian <tp@lists.linux.it> | 
- | [mate-file-manager]({{< ref "/f16/package/mate-file-manager.md" >}}) | 9411 | 9411 | 100.0 | Italian (http://www.transifex.net/projects/p/MATE/language/it/) | 
- | [mate-file-manager-sendto]({{< ref "/f16/package/mate-file-manager-sendto.md" >}}) | 319 | 319 | 100.0 | Italian <tp@lists.linux.it> | 
- | [mate-icon-theme]({{< ref "/f16/package/mate-icon-theme.md" >}}) | 43 | 43 | 100.0 | Italian <tp@lists.linux.it> | 
- | [mate-image-viewer]({{< ref "/f16/package/mate-image-viewer.md" >}}) | 4896 | 4896 | 100.0 | Italian <tp@lists.linux.it> | 
- | [mate-keyring]({{< ref "/f16/package/mate-keyring.md" >}}) | 1173 | 1173 | 100.0 | Italian (http://www.transifex.com/projects/p/MATE/language/it/) | 
- | [mate-media]({{< ref "/f16/package/mate-media.md" >}}) | 2867 | 2867 | 100.0 | Italian <tp@lists.linux.it> | 
- | [mate-menus]({{< ref "/f16/package/mate-menus.md" >}}) | 161 | 161 | 100.0 | Italian <tp@lists.linux.it> | 
- | [mate-netspeed]({{< ref "/f16/package/mate-netspeed.md" >}}) | 145 | 145 | 100.0 | Italian (http://www.transifex.com/projects/p/MATE/language/it/) | 
- | [mate-notification-daemon]({{< ref "/f16/package/mate-notification-daemon.md" >}}) | 116 | 116 | 100.0 | Italian (http://www.transifex.com/projects/p/MATE/language/it/) | 
- | [mate-polkit]({{< ref "/f16/package/mate-polkit.md" >}}) | 311 | 311 | 100.0 | Italiana <tp@lists.linux.it> | 
- | [mate-power-manager]({{< ref "/f16/package/mate-power-manager.md" >}}) | 6716 | 6716 | 100.0 | Italian <tp@lists.linux.it> | 
- | [mate-screensaver]({{< ref "/f16/package/mate-screensaver.md" >}}) | 989 | 989 | 100.0 | Italiano <tp@lists.linux.it> | 
- | [mate-session-manager]({{< ref "/f16/package/mate-session-manager.md" >}}) | 572 | 572 | 100.0 | Italiano <tp@lists.linux.it> | 
- | [mate-settings-daemon]({{< ref "/f16/package/mate-settings-daemon.md" >}}) | 1988 | 1988 | 100.0 | Italian <tp@lists.linux.it> | 
- | [mate-system-monitor]({{< ref "/f16/package/mate-system-monitor.md" >}}) | 933 | 933 | 100.0 | Italian <tp@lists.linux.it> | 
- | [mate-terminal]({{< ref "/f16/package/mate-terminal.md" >}}) | 7868 | 7868 | 100.0 | Italian <tp@lists.linux.it> | 
- | [mate-vfs]({{< ref "/f16/package/mate-vfs.md" >}}) | 1519 | 1519 | 100.0 | Italian (http://www.transifex.com/projects/p/MATE/language/it/) | 
- | [mate-window-manager]({{< ref "/f16/package/mate-window-manager.md" >}}) | 3790 | 3790 | 100.0 | Italian (http://www.transifex.com/projects/p/MATE/language/it/) | 
- | [mcomix]({{< ref "/f16/package/mcomix.md" >}}) | 2297 | 2297 | 100.0 | Arch Linux Italian Team <giovanni@archlinux.org> | 
- | [meego-panel-applications]({{< ref "/f16/package/meego-panel-applications.md" >}}) | 11 | 11 | 100.0 | Italian <tp@lists.linux.it> | 
- | [meego-panel-datetime]({{< ref "/f16/package/meego-panel-datetime.md" >}}) | 71 | 71 | 100.0 |  | 
- | [meego-panel-devices]({{< ref "/f16/package/meego-panel-devices.md" >}}) | 297 | 297 | 100.0 |  | 
- | [meego-panel-myzone]({{< ref "/f16/package/meego-panel-myzone.md" >}}) | 151 | 151 | 100.0 | Italian <tp@lists.linux.it> | 
- | [meego-panel-pasteboard]({{< ref "/f16/package/meego-panel-pasteboard.md" >}}) | 24 | 24 | 100.0 | Italian <tp@lists.linux.it> | 
- | [meego-panel-people]({{< ref "/f16/package/meego-panel-people.md" >}}) | 75 | 75 | 100.0 | Italian <tp@lists.linux.it> | 
- | [meego-panel-status]({{< ref "/f16/package/meego-panel-status.md" >}}) | 119 | 119 | 100.0 | Italian <tp@lists.linux.it> | 
- | [meego-panel-zones]({{< ref "/f16/package/meego-panel-zones.md" >}}) | 33 | 33 | 100.0 | Italian <tp@lists.linux.it> | 
- | [metacity]({{< ref "/f16/package/metacity.md" >}}) | 3700 | 3700 | 100.0 | Italian <tp@lists.linux.it> | 
- | [midori]({{< ref "/f16/package/midori.md" >}}) | 2699 | 2699 | 100.0 | Italian <xfce-it-translators@googlegroups.com> | 
- | [mingw-gtksourceview3]({{< ref "/f16/package/mingw-gtksourceview3.md" >}}) | 1532 | 1532 | 100.0 | Italian <tp@lists.linux.it> | 
- | [mingw32-atk]({{< ref "/f16/package/mingw32-atk.md" >}}) | 398 | 398 | 100.0 | Italian <tp@lists.linux.it> | 
- | [mingw32-gdk-pixbuf]({{< ref "/f16/package/mingw32-gdk-pixbuf.md" >}}) | 1313 | 1313 | 100.0 | Italian <tp@lists.linux.it> | 
- | [mingw32-glib-networking]({{< ref "/f16/package/mingw32-glib-networking.md" >}}) | 86 | 86 | 100.0 | Italian <tp@lists.linux.it> | 
- | [mingw32-glib2]({{< ref "/f16/package/mingw32-glib2.md" >}}) | 4777 | 4777 | 100.0 | Italiano <tp@lists.linux.it> | 
- | [mingw32-gtk-vnc]({{< ref "/f16/package/mingw32-gtk-vnc.md" >}}) | 81 | 81 | 100.0 | Italian <tp@lists.linux.it> | 
- | [mingw32-gtk2]({{< ref "/f16/package/mingw32-gtk2.md" >}}) | 12452 | 12452 | 100.0 | Italian <tp@lists.linux.it> | 
- | [mingw32-gtkhtml3]({{< ref "/f16/package/mingw32-gtkhtml3.md" >}}) | 485 | 485 | 100.0 | Italian <tp@lists.linux.it> | 
- | [mingw32-webkitgtk]({{< ref "/f16/package/mingw32-webkitgtk.md" >}}) | 1472 | 1472 | 100.0 | Italian <tp@lists.linux.it> | 
- | [mlocate]({{< ref "/f16/package/mlocate.md" >}}) | 563 | 563 | 100.0 | Italiano <fedora-trans-it@redhat.com> | 
- | [moin]({{< ref "/f16/package/moin.md" >}}) | 5023 | 5023 | 100.0 |  | 
- | [mousepad]({{< ref "/f16/package/mousepad.md" >}}) | 135 | 135 | 100.0 | Italian <xfce-it-translators@googlegroup.com> | 
- | [mousetweaks]({{< ref "/f16/package/mousetweaks.md" >}}) | 3905 | 3905 | 100.0 | Italian <tp@lists.linux.it> | 
- | [muffin]({{< ref "/f16/package/muffin.md" >}}) | 2511 | 2511 | 100.0 | Italiano <tp@lists.linux.it> | 
- | [multimedia-menus]({{< ref "/f16/package/multimedia-menus.md" >}}) | 56 | 56 | 100.0 | Italian | 
- | [mutter]({{< ref "/f16/package/mutter.md" >}}) | 2511 | 2511 | 100.0 | Italiano <tp@lists.linux.it> | 
- | [mutter-mbl]({{< ref "/f16/package/mutter-mbl.md" >}}) | 2423 | 2423 | 100.0 | Italian <tp@lists.linux.it> | 
- | [mutter-meego]({{< ref "/f16/package/mutter-meego.md" >}}) | 136 | 136 | 100.0 | Italian <tp@lists.linux.it> | 
- | [mypaint]({{< ref "/f16/package/mypaint.md" >}}) | 2265 | 2265 | 100.0 | Lamberto Tedaldi <lamberto.tedaldi@officinepixel.com> | 
- | [nautilus]({{< ref "/f16/package/nautilus.md" >}}) | 7077 | 7077 | 100.0 | Italiano <tp@lists.linux.it> | 
- | [nautilus-image-converter]({{< ref "/f16/package/nautilus-image-converter.md" >}}) | 21 | 21 | 100.0 | Italian <it@li.org> | 
- | [nautilus-open-terminal]({{< ref "/f16/package/nautilus-open-terminal.md" >}}) | 166 | 166 | 100.0 | Italian <tp@lists.linux.it> | 
- | [nautilus-search-tool]({{< ref "/f16/package/nautilus-search-tool.md" >}}) | 11 | 11 | 100.0 | Italian <Italian <tp@lists.linux.it>> | 
- | [nautilus-sendto]({{< ref "/f16/package/nautilus-sendto.md" >}}) | 319 | 319 | 100.0 | Italian <tp@lists.linux.it> | 
- | [nautilus-sound-converter]({{< ref "/f16/package/nautilus-sound-converter.md" >}}) | 159 | 159 | 100.0 | Italiana <tp@lists.linux.it> | 
- | [net6]({{< ref "/f16/package/net6.md" >}}) | 304 | 304 | 100.0 | Italian <it@li.org> | 
- | [newt]({{< ref "/f16/package/newt.md" >}}) | 4 | 4 | 100.0 | Debian Italian <debian-l10n-italian@lists.debian.org> | 
- | [nightfall]({{< ref "/f16/package/nightfall.md" >}}) | 3451 | 3451 | 100.0 | italiano <it@li.org> | 
- | [notification-daemon]({{< ref "/f16/package/notification-daemon.md" >}}) | 17 | 17 | 100.0 | Italian <tp@lists.linux.it> | 
- | [nss-pam-ldapd]({{< ref "/f16/package/nss-pam-ldapd.md" >}}) | 518 | 518 | 100.0 | Italian <tp@lists.linux.it> | 
- | [obby]({{< ref "/f16/package/obby.md" >}}) | 159 | 159 | 100.0 | Italian <it@li.org> | 
- | [oggconvert]({{< ref "/f16/package/oggconvert.md" >}}) | 132 | 132 | 100.0 | Italian <it@li.org> | 
- | [olpc-switch-desktop]({{< ref "/f16/package/olpc-switch-desktop.md" >}}) | 158 | 158 | 100.0 | LANGUAGE <LL@li.org> | 
- | [openteacher]({{< ref "/f16/package/openteacher.md" >}}) | 25 | 25 | 100.0 | Italian <it@li.org> | 
- | [orca]({{< ref "/f16/package/orca.md" >}}) | 4314 | 4314 | 100.0 | Italian <tp@lists.linux.it> | 
- | [pam_krb5]({{< ref "/f16/package/pam_krb5.md" >}}) | 7 | 7 | 100.0 | Italian <trans-it@lists.fedoraproject.org> | 
- | [parcellite]({{< ref "/f16/package/parcellite.md" >}}) | 156 | 156 | 100.0 | Italian <tp@lists.linux.it> | 
- | [passwd]({{< ref "/f16/package/passwd.md" >}}) | 299 | 299 | 100.0 | Italian <fedora-trans-it at redhat.com> | 
- | [pastebinit]({{< ref "/f16/package/pastebinit.md" >}}) | 183 | 183 | 100.0 | LANGUAGE <LL@li.org> | 
- | [pcmanfm]({{< ref "/f16/package/pcmanfm.md" >}}) | 799 | 799 | 100.0 | Italian | 
- | [perl-Padre]({{< ref "/f16/package/perl-Padre.md" >}}) | 5670 | 5670 | 100.0 | <simone.blandino@gmail.com> | 
- | [perl-libintl]({{< ref "/f16/package/perl-libintl.md" >}}) | 19 | 19 | 100.0 | Italian <guido@imperia.net> | 
- | [pessulus]({{< ref "/f16/package/pessulus.md" >}}) | 146 | 146 | 100.0 | Italian <tp@lists.linux.it> | 
- | [php-horde-Horde-Cli]({{< ref "/f16/package/php-horde-Horde-Cli.md" >}}) | 11 | 11 | 100.0 | i18n@lists.horde.org | 
- | [php-horde-Horde-Nls]({{< ref "/f16/package/php-horde-Horde-Nls.md" >}}) | 430 | 430 | 100.0 | i18n@lists.horde.org | 
- | [picard]({{< ref "/f16/package/picard.md" >}}) | 1626 | 1626 | 100.0 | Italian (http://www.transifex.net/projects/p/musicbrainz/language/it/) | 
- | [pidgin-musictracker]({{< ref "/f16/package/pidgin-musictracker.md" >}}) | 333 | 333 | 100.0 | Italian | 
- | [pidgin-otr]({{< ref "/f16/package/pidgin-otr.md" >}}) | 550 | 550 | 100.0 | Vincenzo Reale <smart2128@baslug.org> | 
- | [pikdev]({{< ref "/f16/package/pikdev.md" >}}) | 1993 | 1993 | 100.0 | LANGUAGE <LL@li.org> | 
- | [pinot]({{< ref "/f16/package/pinot.md" >}}) | 593 | 593 | 100.0 | Italian <it@li.org> | 
- | [pioneers]({{< ref "/f16/package/pioneers.md" >}}) | 2554 | 2554 | 100.0 | it <it@li.org> | 
- | [pitivi]({{< ref "/f16/package/pitivi.md" >}}) | 1580 | 1580 | 100.0 | Italiana <tp@lists.linux.it> | 
- | [planner]({{< ref "/f16/package/planner.md" >}}) | 1834 | 1834 | 100.0 | Italian <tp@lists.linux.it> | 
- | [pmount]({{< ref "/f16/package/pmount.md" >}}) | 723 | 723 | 100.0 | Italian <tp@lists.linux.it> | 
- | [polkit-gnome]({{< ref "/f16/package/polkit-gnome.md" >}}) | 94 | 94 | 100.0 | Italiana <tp@lists.linux.it> | 
- | [polkit-kde]({{< ref "/f16/package/polkit-kde.md" >}}) | 92 | 92 | 100.0 | Italian <kde-i18n-it@kde.org> | 
- | [postgresql-jdbc]({{< ref "/f16/package/postgresql-jdbc.md" >}}) | 1433 | 1433 | 100.0 | Italian <tp@lists.linux.it> | 
- | [preupgrade]({{< ref "/f16/package/preupgrade.md" >}}) | 801 | 801 | 100.0 | Italian <trans-it@lists.fedoraproject.org> | 
- | [proftpd]({{< ref "/f16/package/proftpd.md" >}}) | 823 | 823 | 100.0 | Francesco Paolo Lovergine <frankie@debian.org> | 
- | [prozilla]({{< ref "/f16/package/prozilla.md" >}}) | 1503 | 1503 | 100.0 | <de@li.org> | 
- | [psad]({{< ref "/f16/package/psad.md" >}}) | 432 | 432 | 100.0 | Italian <tp@lists.linux.it> | 
- | [publican-redhat]({{< ref "/f16/package/publican-redhat.md" >}}) | 220 | 220 | 100.0 | <it@li.org> | 
- | [pulseaudio]({{< ref "/f16/package/pulseaudio.md" >}}) | 2849 | 2849 | 100.0 | Italian <tp@lists.linux.it> | 
- | [purple-msn-pecan]({{< ref "/f16/package/purple-msn-pecan.md" >}}) | 960 | 960 | 100.0 | Italian <it@li.org> | 
- | [pybliographer]({{< ref "/f16/package/pybliographer.md" >}}) | 573 | 573 | 100.0 | <tp@lists.linux.it> | 
- | [python-meh]({{< ref "/f16/package/python-meh.md" >}}) | 269 | 269 | 100.0 | Italian | 
- | [qt-recordmydesktop]({{< ref "/f16/package/qt-recordmydesktop.md" >}}) | 816 | 816 | 100.0 | Arch Linux Italian Team <linuxmania@gmail.com> | 
- | [quitcount]({{< ref "/f16/package/quitcount.md" >}}) | 166 | 166 | 100.0 | it <iwkse@claws-mail.org> | 
- | [readahead]({{< ref "/f16/package/readahead.md" >}}) | 129 | 129 | 100.0 | Italian <fedora-trans-it@redhat.com> | 
- | [redhat-menus]({{< ref "/f16/package/redhat-menus.md" >}}) | 261 | 261 | 100.0 | Italiano <fedora-trans-it@redhat.com> | 
- | [remmina-plugins]({{< ref "/f16/package/remmina-plugins.md" >}}) | 194 | 194 | 100.0 | Italian <it@li.org> | 
- | [resapplet]({{< ref "/f16/package/resapplet.md" >}}) | 106 | 106 | 100.0 | Novell Language <language@novell.com> | 
- | [revisor]({{< ref "/f16/package/revisor.md" >}}) | 4630 | 4630 | 100.0 | <it@li.org> | 
- | [rhnsd]({{< ref "/f16/package/rhnsd.md" >}}) | 20 | 20 | 100.0 | <it@li.org> | 
- | [ristretto]({{< ref "/f16/package/ristretto.md" >}}) | 374 | 374 | 100.0 | Italian Translation Team <xfce-it-translators@googlegroups.com> | 
- | [root]({{< ref "/f16/package/root.md" >}}) | 211 | 211 | 100.0 | Italian <debian-l10n-italian@lists.debian.org> | 
- | [rsibreak]({{< ref "/f16/package/rsibreak.md" >}}) | 1304 | 1304 | 100.0 | Italian <kde-i18n-it@lists.kde.org> | 
- | [rygel]({{< ref "/f16/package/rygel.md" >}}) | 554 | 554 | 100.0 | Italian <tp@lists.linux.it> | 
- | [sabayon]({{< ref "/f16/package/sabayon.md" >}}) | 743 | 743 | 100.0 | Italiana <tp@lists.linux.it> | 
- | [scim]({{< ref "/f16/package/scim.md" >}}) | 1164 | 1164 | 100.0 |  | 
- | [scim-hangul]({{< ref "/f16/package/scim-hangul.md" >}}) | 19 | 19 | 100.0 | Italian <kde-i18n-it@kde.org> | 
- | [scim-tables]({{< ref "/f16/package/scim-tables.md" >}}) | 1153 | 1153 | 100.0 | Italian <kde-i18n-it@kde.org> | 
- | [scummvm]({{< ref "/f16/package/scummvm.md" >}}) | 2651 | 2651 | 100.0 | Italian | 
- | [seahorse]({{< ref "/f16/package/seahorse.md" >}}) | 5591 | 5591 | 100.0 | Italian <tp@lists.linux.it> | 
- | [seahorse-plugins]({{< ref "/f16/package/seahorse-plugins.md" >}}) | 3533 | 3533 | 100.0 | Italian <tp@lists.linux.it> | 
- | [sectool]({{< ref "/f16/package/sectool.md" >}}) | 2411 | 2411 | 100.0 | Italiano <fedora-trans-it@redhat.com> | 
- | [setroubleshoot]({{< ref "/f16/package/setroubleshoot.md" >}}) | 562 | 562 | 100.0 | Italian <trans-it@lists.fedoraproject.org> | 
- | [setroubleshoot-plugins]({{< ref "/f16/package/setroubleshoot-plugins.md" >}}) | 8291 | 8291 | 100.0 | Italian <trans-it@lists.fedoraproject.org> | 
- | [setuptool]({{< ref "/f16/package/setuptool.md" >}}) | 55 | 55 | 100.0 | Italiano <fedora-trans-it@redhat.com> | 
- | [shotwell]({{< ref "/f16/package/shotwell.md" >}}) | 3919 | 3919 | 100.0 | LANGUAGE <LL@li.org> | 
- | [shutter]({{< ref "/f16/package/shutter.md" >}}) | 3351 | 3351 | 100.0 | Italian <it@li.org> | 
- | [simple-scan]({{< ref "/f16/package/simple-scan.md" >}}) | 651 | 651 | 100.0 | Italian <it@li.org> | 
- | [six]({{< ref "/f16/package/six.md" >}}) | 233 | 233 | 100.0 | Italian <kde-i18n-it@kde.org> | 
- | [skanlite]({{< ref "/f16/package/skanlite.md" >}}) | 175 | 175 | 100.0 | Italian <kde-i18n-it@kde.org> | 
- | [smart]({{< ref "/f16/package/smart.md" >}}) | 4521 | 4521 | 100.0 | Italian | 
- | [smolt]({{< ref "/f16/package/smolt.md" >}}) | 1174 | 1174 | 100.0 | <it@li.org> | 
- | [sos]({{< ref "/f16/package/sos.md" >}}) | 267 | 267 | 100.0 | <it@li.org> | 
- | [sound-juicer]({{< ref "/f16/package/sound-juicer.md" >}}) | 986 | 986 | 100.0 | Italian <tp@lists.linux.it> | 
- | [specto]({{< ref "/f16/package/specto.md" >}}) | 675 | 675 | 100.0 | Italian Translation Team <it@li.org> | 
- | [speedcrunch]({{< ref "/f16/package/speedcrunch.md" >}}) | 18 | 18 | 100.0 | it | 
- | [squirrelmail]({{< ref "/f16/package/squirrelmail.md" >}}) | 10024 | 10024 | 100.0 | Italian <squirrelmail-i18n@lists.sourceforge.net> | 
- | [sudo]({{< ref "/f16/package/sudo.md" >}}) | 871 | 871 | 100.0 | Italian <tp@lists.linux.it> | 
- | [sugar-abacus]({{< ref "/f16/package/sugar-abacus.md" >}}) | 24 | 24 | 100.0 | LANGUAGE <LL@li.org> | 
- | [sugar-base]({{< ref "/f16/package/sugar-base.md" >}}) | 5 | 5 | 100.0 | LANGUAGE <LL@li.org> | 
- | [sugar-browse]({{< ref "/f16/package/sugar-browse.md" >}}) | 57 | 57 | 100.0 | LANGUAGE <LL@li.org> | 
- | [sugar-chat]({{< ref "/f16/package/sugar-chat.md" >}}) | 50 | 50 | 100.0 | LANGUAGE <LL@li.org> | 
- | [sugar-connect]({{< ref "/f16/package/sugar-connect.md" >}}) | 36 | 36 | 100.0 | LANGUAGE <LL@li.org> | 
- | [sugar-finance]({{< ref "/f16/package/sugar-finance.md" >}}) | 143 | 143 | 100.0 | LANGUAGE <LL@li.org> | 
- | [sugar-imageviewer]({{< ref "/f16/package/sugar-imageviewer.md" >}}) | 24 | 24 | 100.0 | LANGUAGE <LL@li.org> | 
- | [sugar-physics]({{< ref "/f16/package/sugar-physics.md" >}}) | 28 | 28 | 100.0 | LANGUAGE <LL@li.org> | 
- | [sugar-playgo]({{< ref "/f16/package/sugar-playgo.md" >}}) | 85 | 85 | 100.0 | LANGUAGE <LL@li.org> | 
- | [sugar-surf]({{< ref "/f16/package/sugar-surf.md" >}}) | 53 | 53 | 100.0 | LANGUAGE <LL@li.org> | 
- | [sugar-toolkit]({{< ref "/f16/package/sugar-toolkit.md" >}}) | 78 | 78 | 100.0 | LANGUAGE <LL@li.org> | 
- | [sugar-view-slides]({{< ref "/f16/package/sugar-view-slides.md" >}}) | 7 | 7 | 100.0 | LANGUAGE <LL@li.org> | 
- | [sugar-visualmatch]({{< ref "/f16/package/sugar-visualmatch.md" >}}) | 141 | 141 | 100.0 | LANGUAGE <LL@li.org> | 
- | [sugar-write]({{< ref "/f16/package/sugar-write.md" >}}) | 81 | 81 | 100.0 | LANGUAGE <LL@li.org> | 
- | [supertuxkart]({{< ref "/f16/package/supertuxkart.md" >}}) | 1658 | 1658 | 100.0 | STK italian <pvinci26@hotmail.it> | 
- | [sushi]({{< ref "/f16/package/sushi.md" >}}) | 15 | 15 | 100.0 | Italian <tp@lists.linu.it> | 
- | [sweep]({{< ref "/f16/package/sweep.md" >}}) | 2399 | 2399 | 100.0 | Italian <tp@lists.linux.it> | 
- | [switchdesk]({{< ref "/f16/package/switchdesk.md" >}}) | 139 | 139 | 100.0 | Italiano <fedora-trans-it@redhat.com> | 
- | [synapse]({{< ref "/f16/package/synapse.md" >}}) | 581 | 581 | 100.0 | Italian <it@li.org> | 
- | [syncevolution]({{< ref "/f16/package/syncevolution.md" >}}) | 1119 | 1119 | 100.0 | Italian <tp@lists.linux.it> | 
- | [sysstat]({{< ref "/f16/package/sysstat.md" >}}) | 512 | 512 | 100.0 | Italian <tp@lists.linux.it> | 
- | [system-config-audit]({{< ref "/f16/package/system-config-audit.md" >}}) | 1241 | 1241 | 100.0 | Italian <trans-it@lists.fedoraproject.org> | 
- | [system-config-bind]({{< ref "/f16/package/system-config-bind.md" >}}) | 9434 | 9434 | 100.0 | Italiano <fedora-trans-it@redhat.com> | 
- | [system-config-boot]({{< ref "/f16/package/system-config-boot.md" >}}) | 119 | 119 | 100.0 | <it@li.org> | 
- | [system-config-date-docs]({{< ref "/f16/package/system-config-date-docs.md" >}}) | 739 | 739 | 100.0 | <it@li.org> | 
- | [system-config-httpd]({{< ref "/f16/package/system-config-httpd.md" >}}) | 877 | 877 | 100.0 | Italian <fedora-trans-it@redhat.com> | 
- | [system-config-keyboard]({{< ref "/f16/package/system-config-keyboard.md" >}}) | 187 | 187 | 100.0 | <it@li.org> | 
- | [system-config-kickstart]({{< ref "/f16/package/system-config-kickstart.md" >}}) | 1104 | 1104 | 100.0 | <it@li.org> | 
- | [system-config-lvm]({{< ref "/f16/package/system-config-lvm.md" >}}) | 2246 | 2246 | 100.0 | <it@li.org> | 
- | [system-config-netboot]({{< ref "/f16/package/system-config-netboot.md" >}}) | 1135 | 1135 | 100.0 | Italian <fedora-trans-it@redhat.com> | 
- | [system-config-nfs]({{< ref "/f16/package/system-config-nfs.md" >}}) | 332 | 332 | 100.0 | Italian <fedora-trans-it@redhat.com> | 
- | [system-config-nfs-docs]({{< ref "/f16/package/system-config-nfs-docs.md" >}}) | 1192 | 1192 | 100.0 | <it@li.org> | 
- | [system-config-rootpassword]({{< ref "/f16/package/system-config-rootpassword.md" >}}) | 116 | 116 | 100.0 | Italiano <fedora-trans-it@redhat.com> | 
- | [system-config-samba]({{< ref "/f16/package/system-config-samba.md" >}}) | 571 | 571 | 100.0 | Italian <trans-it@lists.fedoraproject.org> | 
- | [system-config-samba-docs]({{< ref "/f16/package/system-config-samba-docs.md" >}}) | 1195 | 1195 | 100.0 | <it@li.org> | 
- | [system-config-services]({{< ref "/f16/package/system-config-services.md" >}}) | 518 | 518 | 100.0 | Italian <trans-it@lists.fedoraproject.org> | 
- | [system-config-services-docs]({{< ref "/f16/package/system-config-services-docs.md" >}}) | 638 | 638 | 100.0 | Italian <fedora-trans-it@redhat.com> | 
- | [system-config-users]({{< ref "/f16/package/system-config-users.md" >}}) | 1452 | 1452 | 100.0 | Italian <trans-it@lists.fedoraproject.org> | 
- | [system-config-users-docs]({{< ref "/f16/package/system-config-users-docs.md" >}}) | 1061 | 1061 | 100.0 | <it@li.org> | 
- | [system-switch-java]({{< ref "/f16/package/system-switch-java.md" >}}) | 81 | 81 | 100.0 | Italian | 
- | [system-switch-mail]({{< ref "/f16/package/system-switch-mail.md" >}}) | 158 | 158 | 100.0 | Italiano <fedora-trans-it@redhat.com> | 
- | [tasks]({{< ref "/f16/package/tasks.md" >}}) | 300 | 300 | 100.0 | Italian <tp@lists.linux.it> | 
- | [tasque]({{< ref "/f16/package/tasque.md" >}}) | 196 | 196 | 100.0 | Italian <tp@lists.linux.it> | 
- | [taxipilot]({{< ref "/f16/package/taxipilot.md" >}}) | 975 | 975 | 100.0 | Italian <kde-i18n-it@kde.org> | 
- | [terminator]({{< ref "/f16/package/terminator.md" >}}) | 339 | 339 | 100.0 | Romanian <ro@li.org> | 
- | [thunar-archive-plugin]({{< ref "/f16/package/thunar-archive-plugin.md" >}}) | 86 | 86 | 100.0 | Italian <xfce-i18n@xfce.org> | 
- | [thunar-vfs]({{< ref "/f16/package/thunar-vfs.md" >}}) | 387 | 387 | 100.0 | Italian Translation Team <xfce-it-translators@googlegroups.com> | 
- | [tomboy]({{< ref "/f16/package/tomboy.md" >}}) | 7414 | 7414 | 100.0 | Italian <tp@lists.linux.it> | 
- | [totem-pl-parser]({{< ref "/f16/package/totem-pl-parser.md" >}}) | 28 | 28 | 100.0 | Italian <tp@lists.linux.it> | 
- | [trac]({{< ref "/f16/package/trac.md" >}}) | 5585 | 5585 | 100.0 | it_IT <trac-dev@googlegroups.com> | 
- | [trac-tickettemplate-plugin]({{< ref "/f16/package/trac-tickettemplate-plugin.md" >}}) | 48 | 48 | 100.0 | Italian it_IT <trac-dev@googlegroups.com> | 
- | [tucan]({{< ref "/f16/package/tucan.md" >}}) | 114 | 114 | 100.0 | LANGUAGE <LL@li.org> | 
- | [tumbler]({{< ref "/f16/package/tumbler.md" >}}) | 343 | 343 | 100.0 | Italian Translation Team <xfce-it-translators@googlegroups.com> | 
- | [turba]({{< ref "/f16/package/turba.md" >}}) | 1658 | 1658 | 100.0 | Italian <dev@lists.horde.org> | 
- | [txt2regex]({{< ref "/f16/package/txt2regex.md" >}}) | 277 | 277 | 100.0 | <it@li.org> | 
- | [txt2tags]({{< ref "/f16/package/txt2tags.md" >}}) | 596 | 596 | 100.0 | it_IT team | 
- | [uget]({{< ref "/f16/package/uget.md" >}}) | 583 | 583 | 100.0 | Italiano <it@li.org> | 
- | [upower]({{< ref "/f16/package/upower.md" >}}) | 113 | 113 | 100.0 | Italian <tp@lists.linux.it> | 
- | [usermode]({{< ref "/f16/package/usermode.md" >}}) | 572 | 572 | 100.0 | Italian <trans-it@lists.fedoraproject.org> | 
- | [vdr]({{< ref "/f16/package/vdr.md" >}}) | 832 | 832 | 100.0 | Italian | 
- | [vdr-epgsearch]({{< ref "/f16/package/vdr-epgsearch.md" >}}) | 2437 | 2437 | 100.0 | Italian <vdr@linuxtv.org> | 
- | [vdr-femon]({{< ref "/f16/package/vdr-femon.md" >}}) | 315 | 315 | 100.0 | <vdr@linuxtv.org> | 
- | [vdr-osdteletext]({{< ref "/f16/package/vdr-osdteletext.md" >}}) | 44 | 44 | 100.0 | Italian <vdr@linuxtv.org> | 
- | [vdr-remote]({{< ref "/f16/package/vdr-remote.md" >}}) | 48 | 48 | 100.0 | <vdr@linuxtv.org> | 
- | [vdr-screenshot]({{< ref "/f16/package/vdr-screenshot.md" >}}) | 35 | 35 | 100.0 | <vdr@linuxtv.org> | 
- | [vdr-skinenigmang]({{< ref "/f16/package/vdr-skinenigmang.md" >}}) | 322 | 322 | 100.0 | <vdr@linuxtv.org> | 
- | [vdr-skinsoppalusikka]({{< ref "/f16/package/vdr-skinsoppalusikka.md" >}}) | 137 | 137 | 100.0 | <vdr@linuxtv.org> | 
- | [vdr-streamdev]({{< ref "/f16/package/vdr-streamdev.md" >}}) | 84 | 84 | 100.0 | <vdr@linuxtv.org> | 
- | [vdr-sudoku]({{< ref "/f16/package/vdr-sudoku.md" >}}) | 105 | 105 | 100.0 | <vdr@linuxtv.org> | 
- | [vdr-text2skin]({{< ref "/f16/package/vdr-text2skin.md" >}}) | 59 | 59 | 100.0 | Italian <vdr@linuxtv.org> | 
- | [vdr-ttxtsubs]({{< ref "/f16/package/vdr-ttxtsubs.md" >}}) | 110 | 110 | 100.0 | <vdr@linuxtv.org> | 
- | [viewnior]({{< ref "/f16/package/viewnior.md" >}}) | 387 | 387 | 100.0 | Italian <it@li.org> | 
- | [vim]({{< ref "/f16/package/vim.md" >}}) | 8758 | 8758 | 100.0 | Italian                   Antonio Colombo <azc100@gmail.com>                   Vlad Sandrini <vlad.gently@gmail.com>                   Luciano Montanaro <mikelima@cirulla.net> | 
- | [vinagre]({{< ref "/f16/package/vinagre.md" >}}) | 1420 | 1420 | 100.0 | Italian <tp@lists.linux.it> | 
- | [vino]({{< ref "/f16/package/vino.md" >}}) | 1194 | 1194 | 100.0 | Italian <tp@lists.linux.it> | 
- | [virt-viewer]({{< ref "/f16/package/virt-viewer.md" >}}) | 321 | 321 | 100.0 | Italian <trans-it@lists.fedoraproject.org> | 
- | [virtaal]({{< ref "/f16/package/virtaal.md" >}}) | 1171 | 1171 | 100.0 | Diego Donati | 
- | [vte]({{< ref "/f16/package/vte.md" >}}) | 80 | 80 | 100.0 | Italian <tp@lists.linux.it> | 
- | [vte3]({{< ref "/f16/package/vte3.md" >}}) | 80 | 80 | 100.0 | Italian <tp@lists.linux.it> | 
- | [wallpapoz]({{< ref "/f16/package/wallpapoz.md" >}}) | 395 | 395 | 100.0 | Italian <tp@lists.linux.it> | 
- | [wastesedge]({{< ref "/f16/package/wastesedge.md" >}}) | 19975 | 19975 | 100.0 | Italian | 
- | [webkitgtk]({{< ref "/f16/package/webkitgtk.md" >}}) | 1472 | 1472 | 100.0 | Italian <tp@lists.linux.it> | 
- | [webkitgtk3]({{< ref "/f16/package/webkitgtk3.md" >}}) | 1472 | 1472 | 100.0 | Italian <tp@lists.linux.it> | 
- | [wget]({{< ref "/f16/package/wget.md" >}}) | 2260 | 2260 | 100.0 | Italian <tp@lists.linux.it> | 
- | [whaawmp]({{< ref "/f16/package/whaawmp.md" >}}) | 799 | 799 | 100.0 | Italian <it@li.org> | 
- | [whois]({{< ref "/f16/package/whois.md" >}}) | 459 | 459 | 100.0 | Italian <tp@lists.linux.it> | 
- | [widelands]({{< ref "/f16/package/widelands.md" >}}) | 36101 | 36101 | 100.0 | Italian <it@li.org> | 
- | [wine-docs]({{< ref "/f16/package/wine-docs.md" >}}) | 1245 | 1245 | 100.0 | Italian <tp@lists.linux.it> | 
- | [wormux]({{< ref "/f16/package/wormux.md" >}}) | 1916 | 1916 | 100.0 | <it@li.org> | 
- | [wxpropgrid]({{< ref "/f16/package/wxpropgrid.md" >}}) | 85 | 85 | 100.0 | it_IT <salvois@users.sourceforge.net> | 
- | [x-tile]({{< ref "/f16/package/x-tile.md" >}}) | 732 | 732 | 100.0 | Italian | 
- | [xcdroast]({{< ref "/f16/package/xcdroast.md" >}}) | 8044 | 8044 | 100.0 | Italiano <it@li.org> | 
- | [xchat-gnome]({{< ref "/f16/package/xchat-gnome.md" >}}) | 6131 | 6131 | 100.0 | Italian <tp@lists.linux.it> | 
- | [xdg-user-dirs]({{< ref "/f16/package/xdg-user-dirs.md" >}}) | 28 | 28 | 100.0 | Italian <tp@lists.linux.it> | 
- | [xdg-user-dirs-gtk]({{< ref "/f16/package/xdg-user-dirs-gtk.md" >}}) | 81 | 81 | 100.0 | Italian <tp@lists.linux.it> | 
- | [xdialog]({{< ref "/f16/package/xdialog.md" >}}) | 21 | 21 | 100.0 | Italian | 
- | [xfburn]({{< ref "/f16/package/xfburn.md" >}}) | 1300 | 1300 | 100.0 | Italian Translation Team <xfce-it-translators@googlegroups.com> | 
- | [xfce-utils]({{< ref "/f16/package/xfce-utils.md" >}}) | 3129 | 3129 | 100.0 | Italian <xfce-it-translators@googlegroups.com> | 
- | [xfce4-appfinder]({{< ref "/f16/package/xfce4-appfinder.md" >}}) | 71 | 71 | 100.0 | Italian <tp@lists.linux.it> | 
- | [xfce4-battery-plugin]({{< ref "/f16/package/xfce4-battery-plugin.md" >}}) | 127 | 127 | 100.0 | Italian <xfce-i18n@xfce.org> | 
- | [xfce4-cpufreq-plugin]({{< ref "/f16/package/xfce4-cpufreq-plugin.md" >}}) | 97 | 97 | 100.0 | Italian <xfce-i18n@xfce.org> | 
- | [xfce4-cpugraph-plugin]({{< ref "/f16/package/xfce4-cpugraph-plugin.md" >}}) | 71 | 71 | 100.0 | Italian <xfce-it-translators@googlegroups.com> | 
- | [xfce4-diskperf-plugin]({{< ref "/f16/package/xfce4-diskperf-plugin.md" >}}) | 185 | 185 | 100.0 | Darkforge Team <www.darkforge.it> | 
- | [xfce4-eyes-plugin]({{< ref "/f16/package/xfce4-eyes-plugin.md" >}}) | 9 | 9 | 100.0 | Italian <xfce-i18n@xfce.org> | 
- | [xfce4-fsguard-plugin]({{< ref "/f16/package/xfce4-fsguard-plugin.md" >}}) | 71 | 71 | 100.0 | Italian Translation Team <xfce-it-translators@googlegroups.com> | 
- | [xfce4-genmon-plugin]({{< ref "/f16/package/xfce4-genmon-plugin.md" >}}) | 86 | 86 | 100.0 | Italian <xfce-it-translators@googlegroups.com> | 
- | [xfce4-mixer]({{< ref "/f16/package/xfce4-mixer.md" >}}) | 181 | 181 | 100.0 | Italian Translation Team <xfce-it-translators@googlegroups.com> | 
- | [xfce4-mpc-plugin]({{< ref "/f16/package/xfce4-mpc-plugin.md" >}}) | 80 | 80 | 100.0 | Italian <xfce-it-translators@googlegroups.com> | 
- | [xfce4-netload-plugin]({{< ref "/f16/package/xfce4-netload-plugin.md" >}}) | 79 | 79 | 100.0 | Italian <xfce-i18n@xfce.org> | 
- | [xfce4-notes-plugin]({{< ref "/f16/package/xfce4-notes-plugin.md" >}}) | 111 | 111 | 100.0 | Italian <xfce-it-translators@googlegroups.com> | 
- | [xfce4-notifyd]({{< ref "/f16/package/xfce4-notifyd.md" >}}) | 94 | 94 | 100.0 | Italian Translation Team <xfce-it-translators@googlegroups.com> | 
- | [xfce4-panel]({{< ref "/f16/package/xfce4-panel.md" >}}) | 1510 | 1510 | 100.0 | Italian Translation Team <xfce-it-translators@googlegroups.com> | 
- | [xfce4-places-plugin]({{< ref "/f16/package/xfce4-places-plugin.md" >}}) | 43 | 43 | 100.0 | Italian Translation Team <xfce-it-translators@googlegroups.com> | 
- | [xfce4-power-manager]({{< ref "/f16/package/xfce4-power-manager.md" >}}) | 746 | 746 | 100.0 | Italian Translation Team <xfce-it-translators@googlegroups.com> | 
- | [xfce4-radio-plugin]({{< ref "/f16/package/xfce4-radio-plugin.md" >}}) | 118 | 118 | 100.0 | Darkforge <www.darkforge.it> | 
- | [xfce4-screenshooter]({{< ref "/f16/package/xfce4-screenshooter.md" >}}) | 443 | 443 | 100.0 | it <xfce-it-translators@googlegroups.com> | 
- | [xfce4-session]({{< ref "/f16/package/xfce4-session.md" >}}) | 2603 | 2603 | 100.0 | Italian <xfce-it-translators@googlegroups.com> | 
- | [xfce4-settings]({{< ref "/f16/package/xfce4-settings.md" >}}) | 1277 | 1277 | 100.0 | Italian Translation Team <xfce-it-translators@googlegroups.com> | 
- | [xfce4-smartbookmark-plugin]({{< ref "/f16/package/xfce4-smartbookmark-plugin.md" >}}) | 14 | 14 | 100.0 | Italian Translation Team <xfce-it-translators@googlegroups> | 
- | [xfce4-systemload-plugin]({{< ref "/f16/package/xfce4-systemload-plugin.md" >}}) | 63 | 63 | 100.0 | Italian <xfce-it-translators@googlegroups.com> | 
- | [xfce4-time-out-plugin]({{< ref "/f16/package/xfce4-time-out-plugin.md" >}}) | 88 | 88 | 100.0 | Italian <xfce-it-translators@googlegroups.com> | 
- | [xfce4-verve-plugin]({{< ref "/f16/package/xfce4-verve-plugin.md" >}}) | 47 | 47 | 100.0 | Italian <xfce-i18n@xfce.org> | 
- | [xfce4-wavelan-plugin]({{< ref "/f16/package/xfce4-wavelan-plugin.md" >}}) | 49 | 49 | 100.0 | Italian <xfce-i18n@xfce.org> | 
- | [xfce4-wmdock-plugin]({{< ref "/f16/package/xfce4-wmdock-plugin.md" >}}) | 52 | 52 | 100.0 | Italian Translation Team <xfce-it-translators@googlegroups.com> | 
- | [xfce4-xfswitch-plugin]({{< ref "/f16/package/xfce4-xfswitch-plugin.md" >}}) | 20 | 20 | 100.0 | Italian <xfce-it-translators@googlegroups.com> | 
- | [xfce4-xkb-plugin]({{< ref "/f16/package/xfce4-xkb-plugin.md" >}}) | 72 | 72 | 100.0 | Italian <xfce-it-translators@googlegroups.com> | 
- | [xfconf]({{< ref "/f16/package/xfconf.md" >}}) | 437 | 437 | 100.0 | Italian Translation Team <xfce-it-translators@googlegroups.com> | 
- | [xfdesktop]({{< ref "/f16/package/xfdesktop.md" >}}) | 2729 | 2729 | 100.0 | Italian Translation Team <xfce-it-translators@googlegroups.com> | 
- | [xfwm4]({{< ref "/f16/package/xfwm4.md" >}}) | 3616 | 3616 | 100.0 | Italian <xfce-it-translators@googlegroups.com> | 
- | [xkeyboard-config]({{< ref "/f16/package/xkeyboard-config.md" >}}) | 3139 | 3139 | 100.0 | Italian <tp@lists.linux.it> | 
- | [yakuake]({{< ref "/f16/package/yakuake.md" >}}) | 1439 | 1439 | 100.0 | Italian <kde-i18n-it@kde.org> | 
- | [yelp]({{< ref "/f16/package/yelp.md" >}}) | 488 | 488 | 100.0 | Italian <tp@lists.linux.it> | 
- | [yelp-xsl]({{< ref "/f16/package/yelp-xsl.md" >}}) | 70 | 70 | 100.0 | Italian <tp@lists.linux.it> | 
- | [yum-rhn-plugin]({{< ref "/f16/package/yum-rhn-plugin.md" >}}) | 204 | 204 | 100.0 | <it@li.org> | 
- | [zaz]({{< ref "/f16/package/zaz.md" >}}) | 229 | 229 | 100.0 | Andrea Musuruane <musuruan@gmail.com> | 
- | [zenity]({{< ref "/f16/package/zenity.md" >}}) | 704 | 704 | 100.0 | Italian <tp@lists.linux.it> | 
- | [darktable]({{< ref "/f16/package/darktable.md" >}}) | 6130 | 6131 | 100.0 |  | 
- | [gallery2]({{< ref "/f16/package/gallery2.md" >}}) | 17786 | 17793 | 100.0 | Italian | 
- | [lynx]({{< ref "/f16/package/lynx.md" >}}) | 8049 | 8053 | 100.0 | Italian <tp@lists.linux.it> | 
- | [git-cola]({{< ref "/f16/package/git-cola.md" >}}) | 1915 | 1916 | 99.9 | Italian <tp@lists.linux.it> | 
- | [tuxpaint-stamps]({{< ref "/f16/package/tuxpaint-stamps.md" >}}) | 2709 | 2711 | 99.9 | Simona Riva <simona.riva@tiscali.it> | 
- | [kmplayer]({{< ref "/f16/package/kmplayer.md" >}}) | 1248 | 1249 | 99.9 | Italian <kde-i18n-it@kde.org> | 
- | [gphoto2]({{< ref "/f16/package/gphoto2.md" >}}) | 1597 | 1599 | 99.9 | Italian <tp@lists.linux.it> | 
- | [hotot]({{< ref "/f16/package/hotot.md" >}}) | 714 | 715 | 99.9 | Italiano/Italia | 
- | [tar]({{< ref "/f16/package/tar.md" >}}) | 3312 | 3317 | 99.8 | Italian <tp@lists.linux.it> | 
- | [rhythmbox]({{< ref "/f16/package/rhythmbox.md" >}}) | 9693 | 9708 | 99.8 | Italian <tp@lists.linux.it> | 
- | [tracker]({{< ref "/f16/package/tracker.md" >}}) | 1713 | 1716 | 99.8 | Italian <tp@lists.linux.it> | 
- | [parted]({{< ref "/f16/package/parted.md" >}}) | 3359 | 3365 | 99.8 | Italian <tp@lists.linux.it> | 
- | [shared-mime-info]({{< ref "/f16/package/shared-mime-info.md" >}}) | 1656 | 1659 | 99.8 | Italian (http://www.transifex.net/projects/p/freedesktop/team/it/) | 
- | [schroot]({{< ref "/f16/package/schroot.md" >}}) | 1604 | 1607 | 99.8 | Italian <tp@lists.linux.it> | 
- | [epiphany]({{< ref "/f16/package/epiphany.md" >}}) | 8253 | 8269 | 99.8 | Italian <tp@lists.linux.li> | 
- | [cgit]({{< ref "/f16/package/cgit.md" >}}) | 3450 | 3457 | 99.8 | Italian <tp@lists.linux.it> | 
- | [git]({{< ref "/f16/package/git.md" >}}) | 3450 | 3457 | 99.8 | Italian <tp@lists.linux.it> | 
- | [gitweb-caching]({{< ref "/f16/package/gitweb-caching.md" >}}) | 3449 | 3456 | 99.8 | Italian <tp@lists.linux.it> | 
- | [coreutils]({{< ref "/f16/package/coreutils.md" >}}) | 19023 | 19063 | 99.8 | Italian <tp@lists.linux.it> | 
- | [kover]({{< ref "/f16/package/kover.md" >}}) | 455 | 456 | 99.8 | italiano <tp@lists.linux.it> | 
- | [xaos]({{< ref "/f16/package/xaos.md" >}}) | 905 | 907 | 99.8 | Italian <it@li.org> | 
- | [konversation]({{< ref "/f16/package/konversation.md" >}}) | 10596 | 10622 | 99.8 | Italian <kde-i18n-it@kde.org> | 
- | [system-config-firewall]({{< ref "/f16/package/system-config-firewall.md" >}}) | 2807 | 2814 | 99.8 | <it@li.org> | 
- | [xsane]({{< ref "/f16/package/xsane.md" >}}) | 3215 | 3224 | 99.7 | Italiano <it@li.org> | 
- | [gtick]({{< ref "/f16/package/gtick.md" >}}) | 335 | 336 | 99.7 | Italian <tp@lists.linux.it> | 
- | [WindowMaker]({{< ref "/f16/package/WindowMaker.md" >}}) | 4301 | 4314 | 99.7 | Italian <tp@lists.linux.it@li.org> | 
- | [system-config-network]({{< ref "/f16/package/system-config-network.md" >}}) | 3022 | 3032 | 99.7 | <it@li.org> | 
- | [bibletime]({{< ref "/f16/package/bibletime.md" >}}) | 9694 | 9733 | 99.6 | Italian <kde-i18n-it@kde.org> | 
- | [gambas]({{< ref "/f16/package/gambas.md" >}}) | 2454 | 2464 | 99.6 | LANGUAGE <LL@li.org> | 
- | [digikam]({{< ref "/f16/package/digikam.md" >}}) | 40950 | 41127 | 99.6 | Italian <kde-i18n-it@kde.org> | 
- | [asunder]({{< ref "/f16/package/asunder.md" >}}) | 452 | 454 | 99.6 | <LL@li.org> | 
- | [kmess]({{< ref "/f16/package/kmess.md" >}}) | 7369 | 7402 | 99.6 | Italian <kde-i18n-it@kde.org> | 
- | [postler]({{< ref "/f16/package/postler.md" >}}) | 886 | 890 | 99.6 | Italian Translation Team <xfce-it-translators@googlegroups.com> | 
- | [celestia]({{< ref "/f16/package/celestia.md" >}}) | 1970 | 1979 | 99.5 | Italian <tp@lists.linux.it> | 
- | [clipit]({{< ref "/f16/package/clipit.md" >}}) | 217 | 218 | 99.5 | Italian (http://www.transifex.net/projects/p/clipit/language/it/) | 
- | [klavaro]({{< ref "/f16/package/klavaro.md" >}}) | 1904 | 1913 | 99.5 | Italian <tp@lists.linux.it> | 
- | [rekonq]({{< ref "/f16/package/rekonq.md" >}}) | 2321 | 2332 | 99.5 | Italian <kde-i18n-it@kde.org> | 
- | [e16]({{< ref "/f16/package/e16.md" >}}) | 2818 | 2832 | 99.5 | none | 
- | [pam]({{< ref "/f16/package/pam.md" >}}) | 599 | 602 | 99.5 | Italian <fedora-trans-it at redhat.com> | 
- | [orage]({{< ref "/f16/package/orage.md" >}}) | 2380 | 2392 | 99.5 | Italian <xfce-it-translators@googlegroups.com> | 
- | [warzone2100]({{< ref "/f16/package/warzone2100.md" >}}) | 12756 | 12822 | 99.5 | Italian <warzone-dev@gna.org> | 
- | [libuser]({{< ref "/f16/package/libuser.md" >}}) | 1140 | 1146 | 99.5 | Italian <trans-it@lists.fedoraproject.org> | 
- | [sugar-infoslicer]({{< ref "/f16/package/sugar-infoslicer.md" >}}) | 183 | 184 | 99.5 | LANGUAGE <LL@li.org> | 
- | [blender]({{< ref "/f16/package/blender.md" >}}) | 24957 | 25095 | 99.5 |  | 
- | [system-config-printer]({{< ref "/f16/package/system-config-printer.md" >}}) | 3039 | 3057 | 99.4 | Italian <trans-it@lists.fedoraproject.org> | 
- | [ncpfs]({{< ref "/f16/package/ncpfs.md" >}}) | 5632 | 5666 | 99.4 | Novell Language <language@novell.com> | 
- | [gshutdown]({{< ref "/f16/package/gshutdown.md" >}}) | 489 | 492 | 99.4 | Andrea Carnaroli <vongola15@libero.it> | 
- | [teg]({{< ref "/f16/package/teg.md" >}}) | 2363 | 2378 | 99.4 |  | 
- | [ario]({{< ref "/f16/package/ario.md" >}}) | 775 | 780 | 99.4 | Italian <it@li.org> | 
- | [ibus]({{< ref "/f16/package/ibus.md" >}}) | 584 | 588 | 99.3 | <it@li.org> | 
- | [pdfmod]({{< ref "/f16/package/pdfmod.md" >}}) | 249 | 251 | 99.2 | Italian <tp@lists.linux.it> | 
- | [osmo]({{< ref "/f16/package/osmo.md" >}}) | 1685 | 1699 | 99.2 | Italian | 
- | [gstreamer]({{< ref "/f16/package/gstreamer.md" >}}) | 1898 | 1914 | 99.2 | Italian <tp@lists.linux.it> | 
- | [mingw-gstreamer]({{< ref "/f16/package/mingw-gstreamer.md" >}}) | 1898 | 1914 | 99.2 | Italian <tp@lists.linux.it> | 
- | [lilyterm]({{< ref "/f16/package/lilyterm.md" >}}) | 1324 | 1336 | 99.1 | Italian <IT@li.org> | 
- | [mate-themes]({{< ref "/f16/package/mate-themes.md" >}}) | 108 | 109 | 99.1 | Italian (http://www.transifex.com/projects/p/MATE/language/it/) | 
- | [publican-fedora]({{< ref "/f16/package/publican-fedora.md" >}}) | 106 | 107 | 99.1 | <it@li.org> | 
- | [duplicity]({{< ref "/f16/package/duplicity.md" >}}) | 3224 | 3256 | 99.0 | Italian <it@li.org> | 
- | [ghex]({{< ref "/f16/package/ghex.md" >}}) | 2492 | 2517 | 99.0 | LANGUAGE <LL@li.org> | 
- | [vdradmin-am]({{< ref "/f16/package/vdradmin-am.md" >}}) | 4152 | 4194 | 99.0 | Italian <vdr-italian@tiscali.it> | 
- | [xmoto]({{< ref "/f16/package/xmoto.md" >}}) | 3790 | 3829 | 99.0 | <XMoto> | 
- | [drupal-service_links]({{< ref "/f16/package/drupal-service_links.md" >}}) | 284 | 287 | 99.0 | Michele Agostinelli <foremanREMOVEME@tiscali.it> | 
- | [boinc-client]({{< ref "/f16/package/boinc-client.md" >}}) | 4455 | 4504 | 98.9 | LANGUAGE <LL@li.org> | 
- | [rapid-photo-downloader]({{< ref "/f16/package/rapid-photo-downloader.md" >}}) | 1718 | 1737 | 98.9 | Italian <it@li.org> | 
- | [sugar-moon]({{< ref "/f16/package/sugar-moon.md" >}}) | 90 | 91 | 98.9 | Spanish <LL@li.org> | 
- | [mailman]({{< ref "/f16/package/mailman.md" >}}) | 21768 | 22012 | 98.9 | <it@li.org> | 
- | [ntfs-config]({{< ref "/f16/package/ntfs-config.md" >}}) | 353 | 357 | 98.9 | Italian <it@li.org> | 
- | [synfigstudio]({{< ref "/f16/package/synfigstudio.md" >}}) | 3922 | 3967 | 98.9 | LANGUAGE <LL@li.org> | 
- | [kaudiocreator]({{< ref "/f16/package/kaudiocreator.md" >}}) | 1123 | 1136 | 98.9 | Italian <kde-i18n-it@kde.org> | 
- | [mate-panel]({{< ref "/f16/package/mate-panel.md" >}}) | 6204 | 6277 | 98.8 |  | 
- | [wesnoth]({{< ref "/f16/package/wesnoth.md" >}}) | 224234 | 226913 | 98.8 | Italian <kde-i18n-it@kde.org> | 
- | [poedit]({{< ref "/f16/package/poedit.md" >}}) | 1148 | 1162 | 98.8 | Italian <en@li.org> | 
- | [sharutils]({{< ref "/f16/package/sharutils.md" >}}) | 1042 | 1055 | 98.8 | Italian <tp@lists.linux.it> | 
- | [gretl]({{< ref "/f16/package/gretl.md" >}}) | 13962 | 14137 | 98.8 | Italian <tp@lists.linux.it> | 
- | [gnomad2]({{< ref "/f16/package/gnomad2.md" >}}) | 694 | 703 | 98.7 | Italiano <it@li.org> | 
- | [fslint]({{< ref "/f16/package/fslint.md" >}}) | 383 | 388 | 98.7 | Italian <it@li.org> | 
- | [krusader]({{< ref "/f16/package/krusader.md" >}}) | 7852 | 7956 | 98.7 | Italian <kde-i18n-it@kde.org> | 
- | [synfig]({{< ref "/f16/package/synfig.md" >}}) | 3936 | 3989 | 98.7 | LANGUAGE <LL@li.org> | 
- | [ufraw]({{< ref "/f16/package/ufraw.md" >}}) | 2110 | 2139 | 98.6 | Italian <tp@lists.linux.it> | 
- | [koverartist]({{< ref "/f16/package/koverartist.md" >}}) | 650 | 659 | 98.6 | <de@li.org> | 
- | [pidgin]({{< ref "/f16/package/pidgin.md" >}}) | 18102 | 18356 | 98.6 | Italian <tp@lists.linux.it> | 
- | [pogo]({{< ref "/f16/package/pogo.md" >}}) | 568 | 576 | 98.6 | Italian <it@li.org> | 
- | [gnucash]({{< ref "/f16/package/gnucash.md" >}}) | 26349 | 26722 | 98.6 | Italian <gnucash-it@gnucash.org> | 
- | [fetchmail]({{< ref "/f16/package/fetchmail.md" >}}) | 4283 | 4345 | 98.6 | Italian <tp@lists.linux.it> | 
- | [pinta]({{< ref "/f16/package/pinta.md" >}}) | 1024 | 1040 | 98.5 | Italian <it@li.org> | 
- | [tagtool]({{< ref "/f16/package/tagtool.md" >}}) | 943 | 958 | 98.4 | tagtool-it <emisca@rocketmail.com> | 
- | [grub2]({{< ref "/f16/package/grub2.md" >}}) | 2424 | 2463 | 98.4 | Italian <tp@lists.linux.it> | 
- | [rt3]({{< ref "/f16/package/rt3.md" >}}) | 9255 | 9405 | 98.4 | rt-devel <rt-devel@lists.bestpractical.com> | 
- | [kpackagekit]({{< ref "/f16/package/kpackagekit.md" >}}) | 3587 | 3646 | 98.4 | Italian <kde-i18n-it@kde.org> | 
- | [gmusicbrowser]({{< ref "/f16/package/gmusicbrowser.md" >}}) | 4641 | 4718 | 98.4 | Italian | 
- | [abook]({{< ref "/f16/package/abook.md" >}}) | 715 | 727 | 98.3 | none | 
- | [subdownloader]({{< ref "/f16/package/subdownloader.md" >}}) | 952 | 968 | 98.3 | LANGUAGE <LL@li.org> | 
- | [python-virtinst]({{< ref "/f16/package/python-virtinst.md" >}}) | 3848 | 3913 | 98.3 | LANGUAGE <LL@li.org> | 
- | [griffith]({{< ref "/f16/package/griffith.md" >}}) | 1823 | 1854 | 98.3 | <tp@lists.linux.it> | 
- | [cryptsetup-luks]({{< ref "/f16/package/cryptsetup-luks.md" >}}) | 1324 | 1348 | 98.2 | Italian <tp@lists.linux.it> | 
- | [xine-ui]({{< ref "/f16/package/xine-ui.md" >}}) | 2903 | 2959 | 98.1 | Italian | 
- | [Zim]({{< ref "/f16/package/Zim.md" >}}) | 2483 | 2533 | 98.0 | Italian <it@li.org> | 
- | [bzflag]({{< ref "/f16/package/bzflag.md" >}}) | 2655 | 2711 | 97.9 |  | 
- | [listen]({{< ref "/f16/package/listen.md" >}}) | 1745 | 1783 | 97.9 | Italian <tp@lists.linux.it> | 
- | [evolution-rss]({{< ref "/f16/package/evolution-rss.md" >}}) | 578 | 591 | 97.8 | ITALIAN <tp@linux.lists.it> | 
- | [gtkpod]({{< ref "/f16/package/gtkpod.md" >}}) | 6656 | 6812 | 97.7 | Italian <tp@lists.linux.it> | 
- | [sugar-tamtam]({{< ref "/f16/package/sugar-tamtam.md" >}}) | 2028 | 2077 | 97.6 | LANGUAGE <LL@li.org> | 
- | [sugar-labyrinth]({{< ref "/f16/package/sugar-labyrinth.md" >}}) | 248 | 254 | 97.6 | LANGUAGE <LL@li.org> | 
- | [rednotebook]({{< ref "/f16/package/rednotebook.md" >}}) | 1029 | 1054 | 97.6 | Italian <it@li.org> | 
- | [k3b]({{< ref "/f16/package/k3b.md" >}}) | 19935 | 20423 | 97.6 | Italian <kde-i18n-it@kde.org> | 
- | [postr]({{< ref "/f16/package/postr.md" >}}) | 79 | 81 | 97.5 | Italian <it@li.org> | 
- | [epdfview]({{< ref "/f16/package/epdfview.md" >}}) | 472 | 484 | 97.5 | Italian | 
- | [xmlcopyeditor]({{< ref "/f16/package/xmlcopyeditor.md" >}}) | 1321 | 1355 | 97.5 |  | 
- | [balsa]({{< ref "/f16/package/balsa.md" >}}) | 5631 | 5777 | 97.5 | Italian <tp@lists.linux.it> | 
- | [jmol]({{< ref "/f16/package/jmol.md" >}}) | 2660 | 2731 | 97.4 | Italian <it@li.org> | 
- | [catfish]({{< ref "/f16/package/catfish.md" >}}) | 74 | 76 | 97.4 | Italian <it@li.org> | 
- | [kanatest]({{< ref "/f16/package/kanatest.md" >}}) | 395 | 406 | 97.3 | Italian | 
- | [gphotoframe]({{< ref "/f16/package/gphotoframe.md" >}}) | 3409 | 3509 | 97.2 |  | 
- | [gtk3]({{< ref "/f16/package/gtk3.md" >}}) | 12376 | 12748 | 97.1 | Italiano <tp@lists.linux.it> | 
- | [mingw-gtk3]({{< ref "/f16/package/mingw-gtk3.md" >}}) | 12376 | 12748 | 97.1 | Italiano <tp@lists.linux.it> | 
- | [system-config-date]({{< ref "/f16/package/system-config-date.md" >}}) | 1795 | 1850 | 97.0 | Italian <trans-it@lists.fedoraproject.org> | 
- | [gnome-commander]({{< ref "/f16/package/gnome-commander.md" >}}) | 8082 | 8335 | 97.0 | Italian <tp@lists.linux.it> | 
- | [kde-plasma-daisy]({{< ref "/f16/package/kde-plasma-daisy.md" >}}) | 319 | 329 | 97.0 | Italian <kde-i18n-it@kde.org> | 
- | [fuse-encfs]({{< ref "/f16/package/fuse-encfs.md" >}}) | 1275 | 1315 | 97.0 | Italian <it@li.org> | 
- | [girara]({{< ref "/f16/package/girara.md" >}}) | 191 | 197 | 97.0 | Italian (http://www.transifex.net/projects/p/girara/language/it/) | 
- | [dbmail]({{< ref "/f16/package/dbmail.md" >}}) | 443 | 457 | 96.9 | Italian Localization <debian-l10n-italian@lists.debian.org> | 
- | [pragha]({{< ref "/f16/package/pragha.md" >}}) | 621 | 641 | 96.9 | LANGUAGE <LL@li.org> | 
- | [lxsession-edit]({{< ref "/f16/package/lxsession-edit.md" >}}) | 62 | 64 | 96.9 |  | 
- | [gstreamer-plugins-good]({{< ref "/f16/package/gstreamer-plugins-good.md" >}}) | 788 | 814 | 96.8 | Italian <tp@lists.linux.it> | 
- | [pychess]({{< ref "/f16/package/pychess.md" >}}) | 2992 | 3091 | 96.8 | Italian <it@li.org> | 
- | [wxPython]({{< ref "/f16/package/wxPython.md" >}}) | 8397 | 8676 | 96.8 | wxWidgets translators <wx-translators@lists.wxwidgets.org> | 
- | [libreport]({{< ref "/f16/package/libreport.md" >}}) | 1826 | 1889 | 96.7 | LANGUAGE <LL@li.org> | 
- | [volume_key]({{< ref "/f16/package/volume_key.md" >}}) | 720 | 745 | 96.6 | Italian <trans-it@lists.fedoraproject.org> | 
- | [libgpg-error]({{< ref "/f16/package/libgpg-error.md" >}}) | 743 | 769 | 96.6 | Italian <tp@lists.linux.it> | 
- | [sepostgresql]({{< ref "/f16/package/sepostgresql.md" >}}) | 10026 | 10391 | 96.5 | Gruppo traduzioni ITPUG <traduzioni@itpug.org> | 
- | [eboard]({{< ref "/f16/package/eboard.md" >}}) | 2167 | 2247 | 96.4 |  | 
- | [quassel]({{< ref "/f16/package/quassel.md" >}}) | 4275 | 4435 | 96.4 | Italian | 
- | [authconfig]({{< ref "/f16/package/authconfig.md" >}}) | 1329 | 1379 | 96.4 | Italian <trans-it@lists.fedoraproject.org> | 
- | [meld]({{< ref "/f16/package/meld.md" >}}) | 977 | 1014 | 96.4 | Italian <tp@lists.linux.it> | 
- | [rpm]({{< ref "/f16/package/rpm.md" >}}) | 3713 | 3854 | 96.3 | Italian <trans-it@lists.fedoraproject.org> | 
- | [drgeo]({{< ref "/f16/package/drgeo.md" >}}) | 1912 | 1985 | 96.3 | Italiano | 
- | [lxappearance]({{< ref "/f16/package/lxappearance.md" >}}) | 204 | 212 | 96.2 | it <it@li.org> | 
- | [mingw-wxWidgets]({{< ref "/f16/package/mingw-wxWidgets.md" >}}) | 6150 | 6392 | 96.2 | wxWidgets translators <wx-translators@lists.wxwidgets.org> | 
- | [wxGTK]({{< ref "/f16/package/wxGTK.md" >}}) | 6150 | 6392 | 96.2 | wxWidgets translators <wx-translators@lists.wxwidgets.org> | 
- | [hunspell]({{< ref "/f16/package/hunspell.md" >}}) | 499 | 519 | 96.1 | Italian <tp@lists.linux.it> | 
- | [mingw32-hunspell]({{< ref "/f16/package/mingw32-hunspell.md" >}}) | 499 | 519 | 96.1 | Italian <tp@lists.linux.it> | 
- | [ktp-common-internals]({{< ref "/f16/package/ktp-common-internals.md" >}}) | 638 | 664 | 96.1 | Italian <kde-i18n-it@kde.org> | 
- | [postgresql]({{< ref "/f16/package/postgresql.md" >}}) | 13064 | 13597 | 96.1 | Gruppo traduzioni ITPUG <traduzioni@itpug.org> | 
- | [wine]({{< ref "/f16/package/wine.md" >}}) | 13553 | 14112 | 96.0 | none | 
- | [zanshin]({{< ref "/f16/package/zanshin.md" >}}) | 309 | 322 | 96.0 | Italian <kde-i18n-it@kde.org> | 
- | [newsbeuter]({{< ref "/f16/package/newsbeuter.md" >}}) | 1210 | 1261 | 96.0 | Claudio M. Alessi <somppy@gmail.com> | 
- | [mtpaint]({{< ref "/f16/package/mtpaint.md" >}}) | 3004 | 3131 | 95.9 | LANGUAGE <LL@li.org> | 
- | [thunar-volman]({{< ref "/f16/package/thunar-volman.md" >}}) | 466 | 486 | 95.9 | Italian Translation Team <xfce-it-translators@googlegroups.com> | 
- | [gambas2]({{< ref "/f16/package/gambas2.md" >}}) | 3211 | 3352 | 95.8 | LANGUAGE <LL@li.org> | 
- | [sagator]({{< ref "/f16/package/sagator.md" >}}) | 296 | 309 | 95.8 | LANGUAGE <LL@li.org> | 
- | [xz]({{< ref "/f16/package/xz.md" >}}) | 1130 | 1181 | 95.7 | Italian <tp@lists.linux.it> | 
- | [synaptic]({{< ref "/f16/package/synaptic.md" >}}) | 3091 | 3231 | 95.7 | Italian <tp@lists.linux.it> | 
- | [webacula]({{< ref "/f16/package/webacula.md" >}}) | 940 | 983 | 95.6 | Dimitri Bellini <dimitri.bellini@gmail.com> | 
- | [fotoxx]({{< ref "/f16/package/fotoxx.md" >}}) | 1664 | 1741 | 95.6 | italiano <kde-francophone@kde.org> | 
- | [nano]({{< ref "/f16/package/nano.md" >}}) | 2570 | 2689 | 95.6 | Italian <tp@lists.linux.it> | 
- | [kguitar]({{< ref "/f16/package/kguitar.md" >}}) | 968 | 1015 | 95.4 | italian <it@li.org> | 
- | [virt-top]({{< ref "/f16/package/virt-top.md" >}}) | 344 | 361 | 95.3 | Italian <trans-it@lists.fedoraproject.org> | 
- | [debconf]({{< ref "/f16/package/debconf.md" >}}) | 767 | 805 | 95.3 | Italian <tp@lists.linux.it> | 
- | [gutenprint]({{< ref "/f16/package/gutenprint.md" >}}) | 9449 | 9923 | 95.2 | Italian <tp@lists.linux.it> | 
- | [soundtracker]({{< ref "/f16/package/soundtracker.md" >}}) | 1569 | 1648 | 95.2 | Italian <tp@lists.linux.it> | 
- | [skychart]({{< ref "/f16/package/skychart.md" >}}) | 5412 | 5685 | 95.2 | <translation@ap-i.net> | 
- | [grep]({{< ref "/f16/package/grep.md" >}}) | 909 | 955 | 95.2 | Italian <tp@lists.linux.it> | 
- | [kradio4]({{< ref "/f16/package/kradio4.md" >}}) | 3718 | 3916 | 94.9 | Arch Linux Italian Team <giovanni@archlinux.org> | 
- | [gxine]({{< ref "/f16/package/gxine.md" >}}) | 2610 | 2749 | 94.9 | Italian | 
- | [findutils]({{< ref "/f16/package/findutils.md" >}}) | 2020 | 2130 | 94.8 | Italian <tp@lists.linux.it> | 
- | [remmina]({{< ref "/f16/package/remmina.md" >}}) | 787 | 830 | 94.8 | Italian <it@li.org> | 
- | [sumwars]({{< ref "/f16/package/sumwars.md" >}}) | 12773 | 13474 | 94.8 | Italiano <> | 
- | [dpkg]({{< ref "/f16/package/dpkg.md" >}}) | 9494 | 10019 | 94.8 | italian <debian-l10n-italian@debian.org> | 
- | [wput]({{< ref "/f16/package/wput.md" >}}) | 1007 | 1063 | 94.7 | <de@li.org> | 
- | [kbilliards]({{< ref "/f16/package/kbilliards.md" >}}) | 197 | 208 | 94.7 | italiano | 
- | [gnome-pilot]({{< ref "/f16/package/gnome-pilot.md" >}}) | 1752 | 1850 | 94.7 | Italian <tp@lists.linux.it> | 
- | [kaffeine]({{< ref "/f16/package/kaffeine.md" >}}) | 558 | 590 | 94.6 | Italian <kde-i18n-it@kde.org> | 
- | [xnoise]({{< ref "/f16/package/xnoise.md" >}}) | 523 | 553 | 94.6 | shkn <xnoise@googlegroups.com> | 
- | [openbox]({{< ref "/f16/package/openbox.md" >}}) | 479 | 507 | 94.5 | Italian <tp@lists.linux.it> | 
- | [xlog]({{< ref "/f16/package/xlog.md" >}}) | 1358 | 1441 | 94.2 | Italian | 
- | [tuxpaint]({{< ref "/f16/package/tuxpaint.md" >}}) | 1175 | 1247 | 94.2 | Italian <it@li.org> | 
- | [snownews]({{< ref "/f16/package/snownews.md" >}}) | 634 | 673 | 94.2 | Italian <tp@lists.linux.it> | 
- | [wxMaxima]({{< ref "/f16/package/wxMaxima.md" >}}) | 2691 | 2857 | 94.2 | Italian <tp@lists.linux.it> | 
- | [coccinella]({{< ref "/f16/package/coccinella.md" >}}) | 5046 | 5358 | 94.2 | Italian <> | 
- | [grsync]({{< ref "/f16/package/grsync.md" >}}) | 1064 | 1130 | 94.2 | Italian <it@li.org> | 
- | [pondus]({{< ref "/f16/package/pondus.md" >}}) | 304 | 324 | 93.8 | Italian (http://www.transifex.net/projects/p/pondus/team/it/) | 
- | [nautilus-actions]({{< ref "/f16/package/nautilus-actions.md" >}}) | 7753 | 8293 | 93.5 | Italian <tp@lists.linux.it> | 
- | [gettext]({{< ref "/f16/package/gettext.md" >}}) | 6410 | 6857 | 93.5 | Italian <tp@lists.linux.it> | 
- | [mingw32-gettext]({{< ref "/f16/package/mingw32-gettext.md" >}}) | 6410 | 6857 | 93.5 | Italian <tp@lists.linux.it> | 
- | [mingw32-libidn]({{< ref "/f16/package/mingw32-libidn.md" >}}) | 386 | 413 | 93.5 | Italian <tp@lists.linux.it> | 
- | [chromium-bsu]({{< ref "/f16/package/chromium-bsu.md" >}}) | 966 | 1034 | 93.4 | Italian <valtermura@gmail.com> | 
- | [kflickr]({{< ref "/f16/package/kflickr.md" >}}) | 279 | 299 | 93.3 | <it@li.org> | 
- | [gnote]({{< ref "/f16/package/gnote.md" >}}) | 2129 | 2283 | 93.3 | Italian <tp@lists.linux.it> | 
- | [lxpanel]({{< ref "/f16/package/lxpanel.md" >}}) | 892 | 957 | 93.2 |  | 
- | [wicd-kde]({{< ref "/f16/package/wicd-kde.md" >}}) | 329 | 353 | 93.2 | Italian <kde-i18n-it@kde.org> | 
- | [claws-mail]({{< ref "/f16/package/claws-mail.md" >}}) | 13986 | 15014 | 93.2 | Italian <tp@lists.linux.it> | 
- | [mojomojo]({{< ref "/f16/package/mojomojo.md" >}}) | 1724 | 1857 | 92.8 | <it@li.org> | 
- | [etherape]({{< ref "/f16/package/etherape.md" >}}) | 1009 | 1089 | 92.7 |  | 
- | [kmymoney]({{< ref "/f16/package/kmymoney.md" >}}) | 17719 | 19125 | 92.6 | Italian <kde-i18n-it@kde.org> | 
- | [python-imdb]({{< ref "/f16/package/python-imdb.md" >}}) | 297 | 321 | 92.5 | Davide Alberani <da@erlug.linux.it> | 
- | [ktorrent]({{< ref "/f16/package/ktorrent.md" >}}) | 7528 | 8143 | 92.4 | Italian <kde-i18n-it@kde.org> | 
- | [stellarium]({{< ref "/f16/package/stellarium.md" >}}) | 6589 | 7138 | 92.3 | Italian <it@li.org> | 
- | [pidgin-guifications]({{< ref "/f16/package/pidgin-guifications.md" >}}) | 466 | 505 | 92.3 | <it@li.org> | 
- | [sitecopy]({{< ref "/f16/package/sitecopy.md" >}}) | 2116 | 2300 | 92.0 | Italian <tp@lists.linux.it> | 
- | [freedink]({{< ref "/f16/package/freedink.md" >}}) | 248 | 270 | 91.9 | Italian <tp@lists.linux.it> | 
- | [gftp]({{< ref "/f16/package/gftp.md" >}}) | 3096 | 3375 | 91.7 | Italian <it@li.org> | 
- | [python-kiwi]({{< ref "/f16/package/python-kiwi.md" >}}) | 209 | 228 | 91.7 | Sandro Bonazzola <sandrobonazzola@users.sourceforge.net> | 
- | [pootle]({{< ref "/f16/package/pootle.md" >}}) | 3406 | 3719 | 91.6 | LANGUAGE <LL@li.org> | 
- | [transmission]({{< ref "/f16/package/transmission.md" >}}) | 1397 | 1528 | 91.4 | Italian <tp@lists.linux.it> | 
- | [regexxer]({{< ref "/f16/package/regexxer.md" >}}) | 426 | 467 | 91.2 | Italian <it@translate.freefriends.org> | 
- | [gnome-libs]({{< ref "/f16/package/gnome-libs.md" >}}) | 2013 | 2207 | 91.2 | Italiano <it@li.org> | 
- | [tellico]({{< ref "/f16/package/tellico.md" >}}) | 5253 | 5765 | 91.1 | Italiano <kde-i18n-it@kde.org> | 
- | [quodlibet]({{< ref "/f16/package/quodlibet.md" >}}) | 2270 | 2493 | 91.1 | Italian | 
- | [childsplay]({{< ref "/f16/package/childsplay.md" >}}) | 1116 | 1226 | 91.0 | Andrew <juzuccar@jumpy.it> | 
- | [lxrandr]({{< ref "/f16/package/lxrandr.md" >}}) | 111 | 122 | 91.0 |  | 
- | [bpython]({{< ref "/f16/package/bpython.md" >}}) | 40 | 44 | 90.9 | Michele Orrù | 
- | [alexandria]({{< ref "/f16/package/alexandria.md" >}}) | 1073 | 1181 | 90.9 | Alexandria | 
- | [boswars]({{< ref "/f16/package/boswars.md" >}}) | 198 | 218 | 90.8 | LANGUAGE <LL@li.org> | 
- | [zvbi]({{< ref "/f16/package/zvbi.md" >}}) | 603 | 664 | 90.8 | Italian <kde-i18n-it@kde.org> | 
- | [nfoview]({{< ref "/f16/package/nfoview.md" >}}) | 98 | 108 | 90.7 | Italian <tp@lists.linux.it> | 
- | [xine-lib]({{< ref "/f16/package/xine-lib.md" >}}) | 10846 | 11956 | 90.7 | Italian | 
- | [system-config-language]({{< ref "/f16/package/system-config-language.md" >}}) | 293 | 323 | 90.7 | Italian | 
- | [popt]({{< ref "/f16/package/popt.md" >}}) | 68 | 75 | 90.7 | Sandro Bonazzola <sandro.bonazzola@gmail.com> | 
- | [alleyoop]({{< ref "/f16/package/alleyoop.md" >}}) | 310 | 342 | 90.6 | Italian <tp@lists.linux.it> | 
- | [xchat]({{< ref "/f16/package/xchat.md" >}}) | 4544 | 5027 | 90.4 | Italian | 
- | [wdiff]({{< ref "/f16/package/wdiff.md" >}}) | 895 | 992 | 90.2 | Italian <tp@lists.linux.it> | 
- | [zarafa]({{< ref "/f16/package/zarafa.md" >}}) | 5674 | 6291 | 90.2 | it_IT <it@li.org> | 
- | [solfege]({{< ref "/f16/package/solfege.md" >}}) | 3994 | 4438 | 90.0 | Italian <tp@lists.linux.it> | 
- | [weechat]({{< ref "/f16/package/weechat.md" >}}) | 15765 | 17545 | 89.9 | weechat-dev <weechat-dev@nongnu.org> | 
- | [gkrellm]({{< ref "/f16/package/gkrellm.md" >}}) | 3386 | 3784 | 89.5 | Italian <kde-i18n-it@mail.kde.org> | 
- | [viking]({{< ref "/f16/package/viking.md" >}}) | 1831 | 2049 | 89.4 | Italian <it@li.org> | 
- | [bareftp]({{< ref "/f16/package/bareftp.md" >}}) | 400 | 448 | 89.3 | Italiana <tp@lists.linux.it> | 
- | [backup-manager]({{< ref "/f16/package/backup-manager.md" >}}) | 947 | 1063 | 89.1 | ITALIAN <xenon@ngi.it> | 
- | [libgsasl]({{< ref "/f16/package/libgsasl.md" >}}) | 495 | 556 | 89.0 | Italian <tp@lists.linux.it> | 
- | [gnome-hearts]({{< ref "/f16/package/gnome-hearts.md" >}}) | 364 | 409 | 89.0 | Italian <it@li.org> | 
- | [yum]({{< ref "/f16/package/yum.md" >}}) | 2730 | 3069 | 89.0 | Italian (http://www.transifex.net/projects/p/yum/team/it/) | 
- | [ikiwiki]({{< ref "/f16/package/ikiwiki.md" >}}) | 1169 | 1329 | 88.0 | Italian TP <tp@lists.linux.it> | 
- | [liferea]({{< ref "/f16/package/liferea.md" >}}) | 1973 | 2247 | 87.8 | Italiana <tp@lists.linux.it> | 
- | [gawk]({{< ref "/f16/package/gawk.md" >}}) | 2551 | 2907 | 87.8 | Italian <it@li.org> | 
- | [sugar-read]({{< ref "/f16/package/sugar-read.md" >}}) | 56 | 64 | 87.5 | LANGUAGE <LL@li.org> | 
- | [gramps]({{< ref "/f16/package/gramps.md" >}}) | 29014 | 33214 | 87.4 | Italian <tp@lists.linux.it> | 
- | [sakura]({{< ref "/f16/package/sakura.md" >}}) | 143 | 164 | 87.2 | sakura-it <nicola@entidi.it> | 
- | [gitg]({{< ref "/f16/package/gitg.md" >}}) | 1138 | 1306 | 87.1 | ITALIAN <tp@lists.linux.it> | 
- | [rhn-client-tools]({{< ref "/f16/package/rhn-client-tools.md" >}}) | 3799 | 4361 | 87.1 | <it@li.org> | 
- | [gobby]({{< ref "/f16/package/gobby.md" >}}) | 784 | 900 | 87.1 | Italian <it@li.org> | 
- | [sugar-clock]({{< ref "/f16/package/sugar-clock.md" >}}) | 33 | 38 | 86.8 | LANGUAGE <LL@li.org> | 
- | [policycoreutils]({{< ref "/f16/package/policycoreutils.md" >}}) | 1276 | 1470 | 86.8 | Italian <fedora-trans-it@redhat.com> | 
- | [linsmith]({{< ref "/f16/package/linsmith.md" >}}) | 581 | 673 | 86.3 | <it@li.org> | 
- | [network-manager-netbook]({{< ref "/f16/package/network-manager-netbook.md" >}}) | 408 | 473 | 86.3 | Italian <tp@lists.linux.it> | 
- | [tuxtype2]({{< ref "/f16/package/tuxtype2.md" >}}) | 69 | 80 | 86.2 | LANGUAGE <LL@li.org> | 
- | [inkscape]({{< ref "/f16/package/inkscape.md" >}}) | 22837 | 26528 | 86.1 | Italian <tp@lists.linux.it> | 
- | [initscripts]({{< ref "/f16/package/initscripts.md" >}}) | 3737 | 4349 | 85.9 | <it@li.org> | 
- | [gnutls]({{< ref "/f16/package/gnutls.md" >}}) | 1053 | 1227 | 85.8 | Italian <tp@lists.linux.it> | 
- | [mingw32-gnutls]({{< ref "/f16/package/mingw32-gnutls.md" >}}) | 1053 | 1227 | 85.8 | Italian <tp@lists.linux.it> | 
- | [totem]({{< ref "/f16/package/totem.md" >}}) | 6101 | 7114 | 85.8 | Italian <tp@lists.linux.it> | 
- | [claws-mail-plugins]({{< ref "/f16/package/claws-mail-plugins.md" >}}) | 3240 | 3780 | 85.7 | Italian <tp@lists.linux.it> | 
- | [monotone]({{< ref "/f16/package/monotone.md" >}}) | 10037 | 11716 | 85.7 |  | 
- | [sylpheed]({{< ref "/f16/package/sylpheed.md" >}}) | 5922 | 6983 | 84.8 | Italian <tp@lists.linux.it> | 
- | [libgpod]({{< ref "/f16/package/libgpod.md" >}}) | 891 | 1053 | 84.6 | Italian <tp@lists.linux.it> | 
- | [easytag]({{< ref "/f16/package/easytag.md" >}}) | 4556 | 5388 | 84.6 | italiano <it@li.org> | 
- | [rapidsvn]({{< ref "/f16/package/rapidsvn.md" >}}) | 1199 | 1419 | 84.5 |  | 
- | [phpldapadmin]({{< ref "/f16/package/phpldapadmin.md" >}}) | 2888 | 3419 | 84.5 | phpLDAPadmin <phpldapadmin-devel@lists.sourceforge.net> | 
- | [monsoon]({{< ref "/f16/package/monsoon.md" >}}) | 310 | 367 | 84.5 | LANGUAGE <LL@li.org> | 
- | [sed]({{< ref "/f16/package/sed.md" >}}) | 490 | 581 | 84.3 | Italian <tp@lists.linux.it> | 
- | [slrn]({{< ref "/f16/package/slrn.md" >}}) | 4509 | 5351 | 84.3 | Italian <it@li.org> | 
- | [rabbitvcs]({{< ref "/f16/package/rabbitvcs.md" >}}) | 1284 | 1524 | 84.3 | Italian <it@li.org> | 
- | [gjots2]({{< ref "/f16/package/gjots2.md" >}}) | 802 | 954 | 84.1 | Italian | 
- | [calibre]({{< ref "/f16/package/calibre.md" >}}) | 37792 | 45192 | 83.6 | Italian <tp@lists.linux.it> | 
- | [pavucontrol]({{< ref "/f16/package/pavucontrol.md" >}}) | 198 | 237 | 83.5 | Italian <fedora-trans-it at redhat.com> | 
- | [linux_logo]({{< ref "/f16/package/linux_logo.md" >}}) | 45 | 54 | 83.3 | Italian <tp@lists.linux.it> | 
- | [vdr-skins]({{< ref "/f16/package/vdr-skins.md" >}}) | 5 | 6 | 83.3 | Italian | 
- | [trackballs]({{< ref "/f16/package/trackballs.md" >}}) | 793 | 954 | 83.1 | francesco | 
- | [avogadro]({{< ref "/f16/package/avogadro.md" >}}) | 3539 | 4262 | 83.0 | Italian <it@li.org> | 
- | [xfce4-sensors-plugin]({{< ref "/f16/package/xfce4-sensors-plugin.md" >}}) | 293 | 354 | 82.8 | Italian <xfce-it-translators@googlegroups.com> | 
- | [sane-backends]({{< ref "/f16/package/sane-backends.md" >}}) | 3930 | 4751 | 82.7 | italian translation project <tp@lists.linux.it> | 
- | [latexila]({{< ref "/f16/package/latexila.md" >}}) | 1259 | 1527 | 82.4 | Italian | 
- | [fldigi]({{< ref "/f16/package/fldigi.md" >}}) | 3525 | 4290 | 82.2 | Italian | 
- | [phatch]({{< ref "/f16/package/phatch.md" >}}) | 2090 | 2553 | 81.9 | Italian <it@li.org> | 
- | [python-sphinx]({{< ref "/f16/package/python-sphinx.md" >}}) | 388 | 474 | 81.9 | <sphinx-dev@googlegroups.com> | 
- | [scilab]({{< ref "/f16/package/scilab.md" >}}) | 29601 | 36167 | 81.8 | Italian <it@li.org> | 
- | [rekall]({{< ref "/f16/package/rekall.md" >}}) | 3097 | 3793 | 81.7 | italiano <it@li.org> | 
- | [libidn]({{< ref "/f16/package/libidn.md" >}}) | 338 | 414 | 81.6 | Italian <tp@lists.linux.it> | 
- | [recode]({{< ref "/f16/package/recode.md" >}}) | 672 | 829 | 81.1 | Italian <it@li.org> | 
- | [xfce4-mailwatch-plugin]({{< ref "/f16/package/xfce4-mailwatch-plugin.md" >}}) | 534 | 659 | 81.0 | Italian <xfce-i18n@xfce.org> | 
- | [arm-gp2x-linux-glibc]({{< ref "/f16/package/arm-gp2x-linux-glibc.md" >}}) | 1851 | 2288 | 80.9 | Italian <it@li.org> | 
- | [workrave]({{< ref "/f16/package/workrave.md" >}}) | 984 | 1227 | 80.2 |  | 
- | [gnome-schedule]({{< ref "/f16/package/gnome-schedule.md" >}}) | 2872 | 3587 | 80.1 | Italian <tp@lists.linux.it> | 
- | [gnome-rdp]({{< ref "/f16/package/gnome-rdp.md" >}}) | 241 | 301 | 80.1 | Italian | 
- | [sugar-jukebox]({{< ref "/f16/package/sugar-jukebox.md" >}}) | 12 | 15 | 80.0 | LANGUAGE <LL@li.org> | 
- | [gpodder]({{< ref "/f16/package/gpodder.md" >}}) | 1880 | 2360 | 79.7 | Italian (http://www.transifex.net/projects/p/gpodder/team/it/) | 
- | [ailurus]({{< ref "/f16/package/ailurus.md" >}}) | 6588 | 8278 | 79.6 | none | 
- | [xmms]({{< ref "/f16/package/xmms.md" >}}) | 2726 | 3443 | 79.2 | italiano <it@li.org> | 
- | [redshift]({{< ref "/f16/package/redshift.md" >}}) | 444 | 562 | 79.0 | Italian <it@li.org> | 
- | [scim-pinyin]({{< ref "/f16/package/scim-pinyin.md" >}}) | 656 | 832 | 78.8 | Italian <kde-i18n-it@kde.org> | 
- | [frescobaldi]({{< ref "/f16/package/frescobaldi.md" >}}) | 6597 | 8398 | 78.6 | Italian <kde-i18n-it@kde.org> | 
- | [xfmpc]({{< ref "/f16/package/xfmpc.md" >}}) | 131 | 167 | 78.4 | Italian <xfce-it-translators@googlegroups.com> | 
- | [publican]({{< ref "/f16/package/publican.md" >}}) | 858 | 1094 | 78.4 | <it@li.org> | 
- | [cryptkeeper]({{< ref "/f16/package/cryptkeeper.md" >}}) | 277 | 358 | 77.4 | Italian | 
- | [sugar]({{< ref "/f16/package/sugar.md" >}}) | 1176 | 1521 | 77.3 | LANGUAGE <LL@li.org> | 
- | [gnome-do]({{< ref "/f16/package/gnome-do.md" >}}) | 473 | 612 | 77.3 | it | 
- | [pidgin-sipe]({{< ref "/f16/package/pidgin-sipe.md" >}}) | 662 | 857 | 77.2 | English <LL@li.org> | 
- | [indent]({{< ref "/f16/package/indent.md" >}}) | 210 | 272 | 77.2 | Italian <tp@lists.linux.it> | 
- | [fgrun]({{< ref "/f16/package/fgrun.md" >}}) | 749 | 972 | 77.1 | Italian | 
- | [kanyremote]({{< ref "/f16/package/kanyremote.md" >}}) | 381 | 496 | 76.8 | Italian | 
- | [django-profile]({{< ref "/f16/package/django-profile.md" >}}) | 543 | 709 | 76.6 | Italian <tp@lists.linux.it> | 
- | [sugar-terminal]({{< ref "/f16/package/sugar-terminal.md" >}}) | 13 | 17 | 76.5 | LANGUAGE <LL@li.org> | 
- | [ardour]({{< ref "/f16/package/ardour.md" >}}) | 7371 | 9683 | 76.1 | Italian <sound@ecciproduzioni.com> | 
- | [make]({{< ref "/f16/package/make.md" >}}) | 1556 | 2047 | 76.0 | Italian <tp@lists.linux.it> | 
- | [exaile]({{< ref "/f16/package/exaile.md" >}}) | 2790 | 3683 | 75.8 | Italian <it@li.org> | 
- | [transifex]({{< ref "/f16/package/transifex.md" >}}) | 4859 | 6424 | 75.6 | Italian (http://www.transifex.net/projects/p/transifex/team/it/) | 
- | [jpilot]({{< ref "/f16/package/jpilot.md" >}}) | 1870 | 2474 | 75.6 | Italian <tp@lists.linux.it> | 
- | [apper]({{< ref "/f16/package/apper.md" >}}) | 3195 | 4247 | 75.2 | Italian <kde-i18n-it@kde.org> | 
- | [radiotray]({{< ref "/f16/package/radiotray.md" >}}) | 88 | 117 | 75.2 | Italian (http://www.transifex.net/projects/p/radiotray/team/it/) | 
- | [psmisc]({{< ref "/f16/package/psmisc.md" >}}) | 691 | 920 | 75.1 | Italian <tp@lists.linux.it> | 
- | [gstreamer-plugins-bad-free]({{< ref "/f16/package/gstreamer-plugins-bad-free.md" >}}) | 72 | 96 | 75.0 | Italian <tp@lists.linux.it> | 
- | [tilda]({{< ref "/f16/package/tilda.md" >}}) | 294 | 396 | 74.2 | Italian <tp@lists.linux.it> | 
- | [geda-gaf]({{< ref "/f16/package/geda-gaf.md" >}}) | 2104 | 2840 | 74.1 | Italian <it@li.org> | 
- | [gstreamer-plugins-base]({{< ref "/f16/package/gstreamer-plugins-base.md" >}}) | 667 | 902 | 73.9 | Italian <tp@lists.linux.it> | 
- | [mingw-gstreamer-plugins-base]({{< ref "/f16/package/mingw-gstreamer-plugins-base.md" >}}) | 667 | 902 | 73.9 | Italian <tp@lists.linux.it> | 
- | [nted]({{< ref "/f16/package/nted.md" >}}) | 10534 | 14259 | 73.9 | American English <kde-i18n-doc@lists.kde.org> | 
- | [kcoloredit]({{< ref "/f16/package/kcoloredit.md" >}}) | 205 | 278 | 73.7 | Italian <kde-i18n-it@kde.org> | 
- | [clutter]({{< ref "/f16/package/clutter.md" >}}) | 1747 | 2371 | 73.7 | Italian <tp@lists.linux.it> | 
- | [ipplan]({{< ref "/f16/package/ipplan.md" >}}) | 3795 | 5153 | 73.6 | Italian <LL@li.org> | 
- | [scmxx]({{< ref "/f16/package/scmxx.md" >}}) | 1209 | 1646 | 73.5 | Italian <tp@lists.linux.it> | 
- | [gscan2pdf]({{< ref "/f16/package/gscan2pdf.md" >}}) | 1133 | 1548 | 73.2 | Italian <it@li.org> | 
- | [libexif]({{< ref "/f16/package/libexif.md" >}}) | 5092 | 6977 | 73.0 | Italian <tp@lists.linux.it> | 
- | [python-formencode]({{< ref "/f16/package/python-formencode.md" >}}) | 558 | 765 | 72.9 | Jose Soares Da Silva <jose.soares@sferacarta.com> | 
- | [netactview]({{< ref "/f16/package/netactview.md" >}}) | 203 | 279 | 72.8 | Italian | 
- | [nautilus-pastebin]({{< ref "/f16/package/nautilus-pastebin.md" >}}) | 61 | 84 | 72.6 | Italian <it@li.org> | 
- | [xdrawchem]({{< ref "/f16/package/xdrawchem.md" >}}) | 1747 | 2409 | 72.5 | Italian <debian-l10n-italian@lists.debian.org> | 
- | [libgda]({{< ref "/f16/package/libgda.md" >}}) | 7088 | 9781 | 72.5 | italiano <tp@lists.linux.it> | 
- | [obconf]({{< ref "/f16/package/obconf.md" >}}) | 498 | 688 | 72.4 | Italian <tp@lists.linux.it> | 
- | [monodevelop]({{< ref "/f16/package/monodevelop.md" >}}) | 11985 | 16623 | 72.1 | Italian <tp@lists.linux.it> | 
- | [jpoker]({{< ref "/f16/package/jpoker.md" >}}) | 256 | 357 | 71.7 | <pokersource-users@gna.org> | 
- | [virt-manager]({{< ref "/f16/package/virt-manager.md" >}}) | 3452 | 4829 | 71.5 | LANGUAGE <LL@li.org> | 
- | [mirage]({{< ref "/f16/package/mirage.md" >}}) | 581 | 817 | 71.1 | Scott Horowitz <stonecrest@gmail.com> | 
- | [colorhug-client]({{< ref "/f16/package/colorhug-client.md" >}}) | 638 | 901 | 70.8 | LANGUAGE <LL@li.org> | 
- | [rawstudio]({{< ref "/f16/package/rawstudio.md" >}}) | 1076 | 1527 | 70.5 | Rawstudio development <rawstudio-dev@rawstudio.org> | 
- | [skrooge]({{< ref "/f16/package/skrooge.md" >}}) | 4767 | 6769 | 70.4 | Italian <kde-i18n-it@kde.org> | 
- | [supertux]({{< ref "/f16/package/supertux.md" >}}) | 645 | 928 | 69.5 | Lithuanian <komp_lt@konferencijos.lt> | 
- | [gdesklets]({{< ref "/f16/package/gdesklets.md" >}}) | 1061 | 1528 | 69.4 | Italian <frankie@debian.org> | 
- | [spe]({{< ref "/f16/package/spe.md" >}}) | 197 | 284 | 69.4 |  | 
- | [wxGlade]({{< ref "/f16/package/wxGlade.md" >}}) | 197 | 284 | 69.4 |  | 
- | [klamav]({{< ref "/f16/package/klamav.md" >}}) | 1726 | 2503 | 69.0 |  | 
- | [mutt]({{< ref "/f16/package/mutt.md" >}}) | 3703 | 5377 | 68.9 | none | 
- | [jbrout]({{< ref "/f16/package/jbrout.md" >}}) | 408 | 595 | 68.6 | Italian <igor@cimice.net> | 
- | [virt-v2v]({{< ref "/f16/package/virt-v2v.md" >}}) | 1057 | 1555 | 68.0 | Italian <trans-it@lists.fedoraproject.org> | 
- | [xfce4-dict]({{< ref "/f16/package/xfce4-dict.md" >}}) | 340 | 502 | 67.7 | Italian <xfce-it-translators@googlegroups.com> | 
- | [kde-plasma-yawp]({{< ref "/f16/package/kde-plasma-yawp.md" >}}) | 2720 | 4042 | 67.3 | it <kde-i18n-it@kde.org> | 
- | [flare]({{< ref "/f16/package/flare.md" >}}) | 3110 | 4640 | 67.0 | LANGUAGE <LL@li.org> | 
- | [frepple]({{< ref "/f16/package/frepple.md" >}}) | 1163 | 1742 | 66.8 | frepple <jdetaeye@users.sourceforge.net> | 
- | [NetworkManager-openvpn]({{< ref "/f16/package/NetworkManager-openvpn.md" >}}) | 274 | 412 | 66.5 | Italian <tp@lists.linux.it> | 
- | [qbzr]({{< ref "/f16/package/qbzr.md" >}}) | 1117 | 1693 | 66.0 | Italian <it@li.org> | 
- | [sugar-memorize]({{< ref "/f16/package/sugar-memorize.md" >}}) | 75 | 114 | 65.8 | LANGUAGE <LL@li.org> | 
- | [bzr-explorer]({{< ref "/f16/package/bzr-explorer.md" >}}) | 1088 | 1656 | 65.7 | Italian <it@li.org> | 
- | [hexchat]({{< ref "/f16/package/hexchat.md" >}}) | 3600 | 5481 | 65.7 | LANGUAGE <LL@li.org> | 
- | [gnomebaker]({{< ref "/f16/package/gnomebaker.md" >}}) | 1556 | 2372 | 65.6 | Italian <it@li.org> | 
- | [pgadmin3]({{< ref "/f16/package/pgadmin3.md" >}}) | 9634 | 14829 | 65.0 | Translation project <tp@lists.linux.it> | 
- | [soundconverter]({{< ref "/f16/package/soundconverter.md" >}}) | 292 | 450 | 64.9 | Italian <it@li.org> | 
- | [dayplanner]({{< ref "/f16/package/dayplanner.md" >}}) | 721 | 1112 | 64.8 | Sandro Sigala <sandro@sigala.it> | 
- | [pyroom]({{< ref "/f16/package/pyroom.md" >}}) | 266 | 411 | 64.7 | Italian <it@li.org> | 
- | [gentoo]({{< ref "/f16/package/gentoo.md" >}}) | 1452 | 2251 | 64.5 | Italian <tp@lists.linux.it> | 
- | [xchm]({{< ref "/f16/package/xchm.md" >}}) | 142 | 222 | 64.0 | Italian <faber@faberbox.com> | 
- | [dia]({{< ref "/f16/package/dia.md" >}}) | 4101 | 6473 | 63.4 | Italiano <tp@lists.linux.it> | 
- | [krename]({{< ref "/f16/package/krename.md" >}}) | 1302 | 2058 | 63.3 | Italian <kde-i18n-it@kde.org> | 
- | [linphone]({{< ref "/f16/package/linphone.md" >}}) | 1027 | 1628 | 63.1 | it <it@li.org> | 
- | [glade2]({{< ref "/f16/package/glade2.md" >}}) | 3676 | 5840 | 62.9 | Italian <tp@lists.linux.it> | 
- | [rubygem-virt-p2v]({{< ref "/f16/package/rubygem-virt-p2v.md" >}}) | 1035 | 1655 | 62.5 | Italian <trans-it@lists.fedoraproject.org> | 
- | [typespeed]({{< ref "/f16/package/typespeed.md" >}}) | 284 | 457 | 62.1 | Lapo Luchini <lapo@lapo.it> | 
- | [ncmpc]({{< ref "/f16/package/ncmpc.md" >}}) | 437 | 707 | 61.8 | Italian <it@li.org> | 
- | [gourmet]({{< ref "/f16/package/gourmet.md" >}}) | 2246 | 3647 | 61.6 | Italian <it@li.org> | 
- | [subversion]({{< ref "/f16/package/subversion.md" >}}) | 10802 | 17903 | 60.3 | Italian <dev@subversion.tigris.org> | 
- | [sugar-ruler]({{< ref "/f16/package/sugar-ruler.md" >}}) | 3 | 5 | 60.0 | LANGUAGE <LL@li.org> | 
- | [sonata]({{< ref "/f16/package/sonata.md" >}}) | 679 | 1136 | 59.8 | Sonata-IT <nomail@nomail.it> | 
- | [tuxmath]({{< ref "/f16/package/tuxmath.md" >}}) | 865 | 1454 | 59.5 | Italian <it@li.org> | 
- | [R]({{< ref "/f16/package/R.md" >}}) | 14793 | 24940 | 59.3 | Italian <it@li.org> | 
- | [grass]({{< ref "/f16/package/grass.md" >}}) | 40937 | 69140 | 59.2 | Italian <grass-translations@lists.osgeo.org> | 
- | [zathura]({{< ref "/f16/package/zathura.md" >}}) | 206 | 349 | 59.0 | Italian (http://www.transifex.com/projects/p/zathura/language/it/) | 
- | [geeqie]({{< ref "/f16/package/geeqie.md" >}}) | 1716 | 2909 | 59.0 | italiano <it@li.org> | 
- | [yumex]({{< ref "/f16/package/yumex.md" >}}) | 474 | 804 | 59.0 | LANGUAGE <LL@li.org> | 
- | [wol]({{< ref "/f16/package/wol.md" >}}) | 175 | 298 | 58.7 |  | 
- | [drwright]({{< ref "/f16/package/drwright.md" >}}) | 112 | 191 | 58.6 | Italian <tp@lists.linux.it> | 
- | [sugar-log]({{< ref "/f16/package/sugar-log.md" >}}) | 45 | 77 | 58.4 | LANGUAGE <LL@li.org> | 
- | [freeciv]({{< ref "/f16/package/freeciv.md" >}}) | 40844 | 70240 | 58.1 | Italian <slug-freeciv@siena.linux.it> | 
- | [aria2]({{< ref "/f16/package/aria2.md" >}}) | 3048 | 5262 | 57.9 | Italian <it@li.org> | 
- | [cherokee]({{< ref "/f16/package/cherokee.md" >}}) | 5489 | 9494 | 57.8 | Italian <> | 
- | [pdfshuffler]({{< ref "/f16/package/pdfshuffler.md" >}}) | 62 | 108 | 57.4 | netcelli <netcelli@gmail.com> | 
- | [kbackup]({{< ref "/f16/package/kbackup.md" >}}) | 359 | 627 | 57.3 | <en@li.org> | 
- | [man-db]({{< ref "/f16/package/man-db.md" >}}) | 713 | 1248 | 57.1 | Italian <tp@lists.linux.it> | 
- | [subscription-manager]({{< ref "/f16/package/subscription-manager.md" >}}) | 2162 | 3802 | 56.9 | Italian | 
- | [gtk-gnutella]({{< ref "/f16/package/gtk-gnutella.md" >}}) | 8235 | 14591 | 56.4 | Italian <it@li.org> | 
- | [font-manager]({{< ref "/f16/package/font-manager.md" >}}) | 712 | 1269 | 56.1 | Italian <it@li.org> | 
- | [pidgin-libnotify]({{< ref "/f16/package/pidgin-libnotify.md" >}}) | 20 | 36 | 55.6 |  | 
- | [driconf]({{< ref "/f16/package/driconf.md" >}}) | 279 | 512 | 54.5 |  | 
- | [libgphoto2]({{< ref "/f16/package/libgphoto2.md" >}}) | 5897 | 10922 | 54.0 | Italian <tp@lists.linux.it> | 
- | [dvdbackup]({{< ref "/f16/package/dvdbackup.md" >}}) | 542 | 1005 | 53.9 | Italian <it@li.org> | 
- | [gajim]({{< ref "/f16/package/gajim.md" >}}) | 6270 | 11642 | 53.9 | Italian <> | 
- | [sssd]({{< ref "/f16/package/sssd.md" >}}) | 1048 | 1954 | 53.6 | Italian <trans-it@lists.fedoraproject.org> | 
- | [ktechlab]({{< ref "/f16/package/ktechlab.md" >}}) | 2312 | 4334 | 53.3 |  | 
- | [gnome-specimen]({{< ref "/f16/package/gnome-specimen.md" >}}) | 29 | 56 | 51.8 | Italian <tp@lists.linux.it> | 
- | [gnupg]({{< ref "/f16/package/gnupg.md" >}}) | 4440 | 8584 | 51.7 | Italian <tp@lists.linux.it> | 
- | [publican-jboss]({{< ref "/f16/package/publican-jboss.md" >}}) | 120 | 232 | 51.7 | <it@li.org> | 
- | [gambas3]({{< ref "/f16/package/gambas3.md" >}}) | 2427 | 4715 | 51.5 | LANGUAGE <LL@li.org> | 
- | [goffice]({{< ref "/f16/package/goffice.md" >}}) | 2353 | 4599 | 51.2 | Italian <tp@list.linux.it> | 
- | [PackageKit]({{< ref "/f16/package/PackageKit.md" >}}) | 1648 | 3240 | 50.9 | Italian (http://www.transifex.net/projects/p/freedesktop/team/it/) | 
- | [wammu]({{< ref "/f16/package/wammu.md" >}}) | 2161 | 4282 | 50.5 | Italian <it@li.org> | 
- | [gpx-viewer]({{< ref "/f16/package/gpx-viewer.md" >}}) | 58 | 115 | 50.4 | Italian <it@li.org> | 
- | [gnusim8085]({{< ref "/f16/package/gnusim8085.md" >}}) | 286 | 568 | 50.4 | Italian <it@li.org> | 
- | [gnue-common]({{< ref "/f16/package/gnue-common.md" >}}) | 1069 | 2132 | 50.1 | Italian <tp@lists.linux.it> | 
- | [php-horde-Horde-Exception]({{< ref "/f16/package/php-horde-Horde-Exception.md" >}}) | 2 | 4 | 50.0 | i18n@lists.horde.org | 
- | [pykickstart]({{< ref "/f16/package/pykickstart.md" >}}) | 342 | 684 | 50.0 | LANGUAGE <LL@li.org> | 
- | [e2fsprogs]({{< ref "/f16/package/e2fsprogs.md" >}}) | 2863 | 5745 | 49.8 | Italian <tp@lists.linux.it> | 
- | [manaworld]({{< ref "/f16/package/manaworld.md" >}}) | 1619 | 3250 | 49.8 | Italian | 
- | [gwibber]({{< ref "/f16/package/gwibber.md" >}}) | 22 | 45 | 48.9 | Italian <it@li.org> | 
- | [gpsbabel]({{< ref "/f16/package/gpsbabel.md" >}}) | 3253 | 6658 | 48.9 | ing. Michele Locati <mlocati@tiscali.it> | 
- | [mc]({{< ref "/f16/package/mc.md" >}}) | 3876 | 7980 | 48.6 | Italian (Italy) (http://www.transifex.net/projects/p/mc/team/it_IT/) | 
- | [openerp]({{< ref "/f16/package/openerp.md" >}}) | 27030 | 56139 | 48.1 |  | 
- | [sugar-calculator]({{< ref "/f16/package/sugar-calculator.md" >}}) | 409 | 859 | 47.6 | LANGUAGE <LL@li.org> | 
- | [nicotine+]({{< ref "/f16/package/nicotine+.md" >}}) | 1967 | 4140 | 47.5 | nicola <info@nicoladimaria.info> | 
- | [gnomint]({{< ref "/f16/package/gnomint.md" >}}) | 2080 | 4412 | 47.1 | Italian <it@li.org> | 
- | [mkvtoolnix]({{< ref "/f16/package/mkvtoolnix.md" >}}) | 8123 | 17328 | 46.9 | German <moritz@bunkus.org> | 
- | [pacemaker]({{< ref "/f16/package/pacemaker.md" >}}) | 6978 | 14959 | 46.6 | None | 
- | [pingus]({{< ref "/f16/package/pingus.md" >}}) | 1319 | 2847 | 46.3 |  | 
- | [subtitleeditor]({{< ref "/f16/package/subtitleeditor.md" >}}) | 839 | 1817 | 46.2 | Italian <it@li.org> | 
- | [mana]({{< ref "/f16/package/mana.md" >}}) | 1576 | 3415 | 46.1 | Italian | 
- | [kamoso]({{< ref "/f16/package/kamoso.md" >}}) | 69 | 153 | 45.1 | Italian <kde-i18n-it@kde.org> | 
- | [blueman]({{< ref "/f16/package/blueman.md" >}}) | 655 | 1468 | 44.6 | Italian <it@li.org> | 
- | [xfce4-weather-plugin]({{< ref "/f16/package/xfce4-weather-plugin.md" >}}) | 215 | 483 | 44.5 | Italian Translation Team <xfce-it-translators@googlegroups.com> | 
- | [vidalia]({{< ref "/f16/package/vidalia.md" >}}) | 4649 | 10463 | 44.4 | Italian (http://www.transifex.net/projects/p/torproject/team/it/) | 
- | [tortoisehg]({{< ref "/f16/package/tortoisehg.md" >}}) | 5584 | 12593 | 44.3 | Italian <it@li.org> | 
- | [lazarus]({{< ref "/f16/package/lazarus.md" >}}) | 10568 | 23938 | 44.1 |  | 
- | [sugar-turtleart]({{< ref "/f16/package/sugar-turtleart.md" >}}) | 1078 | 2467 | 43.7 | LANGUAGE <LL@li.org> | 
- | [audacious]({{< ref "/f16/package/audacious.md" >}}) | 316 | 734 | 43.1 | Italian | 
- | [diffutils]({{< ref "/f16/package/diffutils.md" >}}) | 762 | 1780 | 42.8 | Italian <tp@lists.linux.it> | 
- | [phpesp]({{< ref "/f16/package/phpesp.md" >}}) | 951 | 2230 | 42.6 | it_IT <jflemer@alum.rpi.edu> | 
- | [kasumi]({{< ref "/f16/package/kasumi.md" >}}) | 82 | 193 | 42.5 | Italian | 
- | [gnome-video-effects]({{< ref "/f16/package/gnome-video-effects.md" >}}) | 11 | 26 | 42.3 | Italian <tp@lists.linux.it> | 
- | [kernel]({{< ref "/f16/package/kernel.md" >}}) | 473 | 1149 | 41.2 | NONE | 
- | [kshutdown]({{< ref "/f16/package/kshutdown.md" >}}) | 318 | 776 | 41.0 | Italian <kde-i18n-it@mail.kde.org> | 
- | [umit]({{< ref "/f16/package/umit.md" >}}) | 1866 | 4601 | 40.6 | Italiano <en@li.org> | 
- | [genius]({{< ref "/f16/package/genius.md" >}}) | 2444 | 6078 | 40.2 | <it@li.org> | 
- | [enigma]({{< ref "/f16/package/enigma.md" >}}) | 2128 | 5295 | 40.2 | <it@li.org> | 
- | [askbot]({{< ref "/f16/package/askbot.md" >}}) | 2275 | 5695 | 39.9 | Italiano <it@li.org> | 
- | [roundup]({{< ref "/f16/package/roundup.md" >}}) | 1814 | 4549 | 39.9 | italian <it@li.org> | 
- | [util-linux]({{< ref "/f16/package/util-linux.md" >}}) | 7020 | 17780 | 39.5 | Italian <tp@lists.linux.it> | 
- | [paprefs]({{< ref "/f16/package/paprefs.md" >}}) | 51 | 131 | 38.9 | Italian <fedora-trans-it at redhat.com> | 
- | [gummi]({{< ref "/f16/package/gummi.md" >}}) | 302 | 796 | 37.9 | LANGUAGE <LL@li.org> | 
- | [lilypond]({{< ref "/f16/package/lilypond.md" >}}) | 4319 | 11395 | 37.9 | Italiano | 
- | [cadaver]({{< ref "/f16/package/cadaver.md" >}}) | 664 | 1757 | 37.8 | Italian <tp@lists.linux.it> | 
- | [colord]({{< ref "/f16/package/colord.md" >}}) | 333 | 882 | 37.8 | Italian (http://www.transifex.net/projects/p/freedesktop/language/it/) | 
- | [bison]({{< ref "/f16/package/bison.md" >}}) | 486 | 1289 | 37.7 | Italian <tp@lists.linux.it> | 
- | [sugar-pippy]({{< ref "/f16/package/sugar-pippy.md" >}}) | 41 | 109 | 37.6 | LANGUAGE <LL@li.org> | 
- | [publican-ovirt]({{< ref "/f16/package/publican-ovirt.md" >}}) | 107 | 288 | 37.2 | none | 
- | [gmpc]({{< ref "/f16/package/gmpc.md" >}}) | 9 | 25 | 36.0 | Italian <it@li.org> | 
- | [lftp]({{< ref "/f16/package/lftp.md" >}}) | 1374 | 3824 | 35.9 | Italian <it@li.org> | 
- | [glabels]({{< ref "/f16/package/glabels.md" >}}) | 766 | 2138 | 35.8 | Italian <it@li.org> | 
- | [samba]({{< ref "/f16/package/samba.md" >}}) | 187 | 524 | 35.7 | Novell Language <language@novell.com> | 
- | [samba4]({{< ref "/f16/package/samba4.md" >}}) | 187 | 524 | 35.7 | Novell Language <language@novell.com> | 
- | [guitarix]({{< ref "/f16/package/guitarix.md" >}}) | 743 | 2086 | 35.6 | Italian | 
- | [mercurial]({{< ref "/f16/package/mercurial.md" >}}) | 11753 | 34121 | 34.4 | Italian <Italian> | 
- | [springlobby]({{< ref "/f16/package/springlobby.md" >}}) | 1596 | 4695 | 34.0 | Italian <it@li.org> | 
- | [sawfish]({{< ref "/f16/package/sawfish.md" >}}) | 2118 | 6443 | 32.9 | Italian <it@li.org> | 
- | [gcal]({{< ref "/f16/package/gcal.md" >}}) | 1617 | 4927 | 32.8 | Italian <tp@lists.linux.it> | 
- | [audex]({{< ref "/f16/package/audex.md" >}}) | 1126 | 3491 | 32.3 | Italian <kde-i18n-it@kde.org> | 
- | [gnome-chemistry-utils]({{< ref "/f16/package/gnome-chemistry-utils.md" >}}) | 1402 | 4355 | 32.2 | italiano <it@li.org> | 
- | [minetest]({{< ref "/f16/package/minetest.md" >}}) | 66 | 206 | 32.0 | Italian | 
- | [kchmviewer]({{< ref "/f16/package/kchmviewer.md" >}}) | 309 | 972 | 31.8 |  | 
- | [a2ps]({{< ref "/f16/package/a2ps.md" >}}) | 478 | 1512 | 31.6 | Italian <it@li.org> | 
- | [gnupg2]({{< ref "/f16/package/gnupg2.md" >}}) | 3265 | 10491 | 31.1 | Italian <tp@lists.linux.it> | 
- | [system-config-kdump]({{< ref "/f16/package/system-config-kdump.md" >}}) | 235 | 807 | 29.1 | <it@li.org> | 
- | [gdm]({{< ref "/f16/package/gdm.md" >}}) | 2561 | 8911 | 28.7 | Italian <tp@lists.linux.it> | 
- | [python-nevow]({{< ref "/f16/package/python-nevow.md" >}}) | 4 | 14 | 28.6 | LANGUAGE <LL@li.org> | 
- | [gnumed]({{< ref "/f16/package/gnumed.md" >}}) | 5632 | 19813 | 28.4 | GNUmed | 
- | [xfce4-clipman-plugin]({{< ref "/f16/package/xfce4-clipman-plugin.md" >}}) | 492 | 1766 | 27.9 | Italian Translation Team <xfce-it-translators@googlegroups>. | 
- | [cups-pk-helper]({{< ref "/f16/package/cups-pk-helper.md" >}}) | 41 | 149 | 27.5 | Italian (http://www.transifex.net/projects/p/freedesktop/team/it/) | 
- | [cssed]({{< ref "/f16/package/cssed.md" >}}) | 940 | 3437 | 27.3 | Italian <en@li.org> | 
- | [elinks]({{< ref "/f16/package/elinks.md" >}}) | 3293 | 12234 | 26.9 | Italian <tp@lists.linux.it> | 
- | [csound]({{< ref "/f16/package/csound.md" >}}) | 3696 | 14381 | 25.7 | csound5 | 
- | [autotest-framework]({{< ref "/f16/package/autotest-framework.md" >}}) | 249 | 983 | 25.3 | Italian | 
- | [specspo]({{< ref "/f16/package/specspo.md" >}}) | 80832 | 323490 | 25.0 | Italian | 
- | [hydrogen]({{< ref "/f16/package/hydrogen.md" >}}) | 2471 | 9921 | 24.9 |  | 
- | [gazpacho]({{< ref "/f16/package/gazpacho.md" >}}) | 175 | 708 | 24.7 | Italian | 
- | [openerp-client]({{< ref "/f16/package/openerp-client.md" >}}) | 1895 | 7729 | 24.5 | Italian <it@li.org> | 
- | [cinepaint]({{< ref "/f16/package/cinepaint.md" >}}) | 1695 | 7407 | 22.9 | gimp.linux.it | 
- | [shadow-utils]({{< ref "/f16/package/shadow-utils.md" >}}) | 4164 | 18554 | 22.4 | Italian <tp@lists.linux.it> | 
- | [turpial]({{< ref "/f16/package/turpial.md" >}}) | 140 | 636 | 22.0 | it <LL@li.org> | 
- | [gcalctool]({{< ref "/f16/package/gcalctool.md" >}}) | 1709 | 7890 | 21.7 | LANGUAGE <LL@li.org> | 
- | [gnumeric]({{< ref "/f16/package/gnumeric.md" >}}) | 7382 | 35046 | 21.1 | Italian <tp@list.linux.it> | 
- | [mingw32-libvirt]({{< ref "/f16/package/mingw32-libvirt.md" >}}) | 6120 | 29427 | 20.8 | Italian <it@li.org> | 
- | [libvirt]({{< ref "/f16/package/libvirt.md" >}}) | 6120 | 29566 | 20.7 | Italian <it@li.org> | 
- | [po4a]({{< ref "/f16/package/po4a.md" >}}) | 5548 | 27491 | 20.2 | Italian <tp@lists.linux.it> | 
- | [lekhonee-gnome]({{< ref "/f16/package/lekhonee-gnome.md" >}}) | 21 | 112 | 18.8 | Italian <trans-it@lists.fedoraproject.org> | 
- | [cups]({{< ref "/f16/package/cups.md" >}}) | 1366 | 7390 | 18.5 | Italian <kde-i18n-it@kde.org> | 
- | [gpredict]({{< ref "/f16/package/gpredict.md" >}}) | 1107 | 6042 | 18.3 | Italian <it@li.org> | 
- | [LabPlot]({{< ref "/f16/package/LabPlot.md" >}}) | 2970 | 16684 | 17.8 | LANGUAGE <LL@li.org> | 
- | [centerim]({{< ref "/f16/package/centerim.md" >}}) | 507 | 2864 | 17.7 | Italiano <it@li.org> | 
- | [kdbg]({{< ref "/f16/package/kdbg.md" >}}) | 153 | 866 | 17.7 | Italiano <it@li.org> | 
- | [oxine]({{< ref "/f16/package/oxine.md" >}}) | 499 | 2946 | 16.9 | Italian <tp@lists.linux.it> | 
- | [php-horde-Horde-Date]({{< ref "/f16/package/php-horde-Horde-Date.md" >}}) | 6 | 36 | 16.7 | i18n@lists.horde.org | 
- | [gnubik]({{< ref "/f16/package/gnubik.md" >}}) | 45 | 278 | 16.2 | italian <tp@lists.linux.it>, <it@li.org> | 
- | [partimage]({{< ref "/f16/package/partimage.md" >}}) | 544 | 3387 | 16.1 | Italian <tp@lists.linux.it> | 
- | [openstack-nova]({{< ref "/f16/package/openstack-nova.md" >}}) | 480 | 3070 | 15.6 | Italian <it@li.org> | 
- | [hello]({{< ref "/f16/package/hello.md" >}}) | 30 | 193 | 15.5 | Italian <tp@lists.linux.it> | 
- | [grisbi]({{< ref "/f16/package/grisbi.md" >}}) | 1761 | 12325 | 14.3 | Italian <LL@li.org> | 
- | [piklab]({{< ref "/f16/package/piklab.md" >}}) | 996 | 7228 | 13.8 |  | 
- | [apt]({{< ref "/f16/package/apt.md" >}}) | 534 | 4103 | 13.0 | Italian <it@li.org> | 
- | [gnome-devel-docs]({{< ref "/f16/package/gnome-devel-docs.md" >}}) | 1836 | 14210 | 12.9 | Italian <tp@lists.linux.it> | 
- | [mod_cluster]({{< ref "/f16/package/mod_cluster.md" >}}) | 39 | 327 | 11.9 | Italian <tp@lists.linux.it> | 
- | [pan]({{< ref "/f16/package/pan.md" >}}) | 252 | 2288 | 11.0 | italiano <it@li.org> | 
- | [rkward]({{< ref "/f16/package/rkward.md" >}}) | 514 | 5198 | 9.9 | Italian <it@li.org> | 
- | [kcm-gtk]({{< ref "/f16/package/kcm-gtk.md" >}}) | 11 | 124 | 8.9 | Italian <it@li.org> | 
- | [awn-extras-applets]({{< ref "/f16/package/awn-extras-applets.md" >}}) | 446 | 5353 | 8.3 | Italian <it@li.org> | 
- | [smb4k]({{< ref "/f16/package/smb4k.md" >}}) | 522 | 6362 | 8.2 | Italian <kde-i18n-it@kde.org> | 
- | [lingot]({{< ref "/f16/package/lingot.md" >}}) | 112 | 1397 | 8.0 | <cereda.ste@gmail.com> | 
- | [etoys]({{< ref "/f16/package/etoys.md" >}}) | 2395 | 29994 | 8.0 |  | 
- | [xfce4-taskmanager]({{< ref "/f16/package/xfce4-taskmanager.md" >}}) | 9 | 123 | 7.3 | Italian Translation Team <xfce-it-translators@googlegroups.com> | 
- | [gammu]({{< ref "/f16/package/gammu.md" >}}) | 882 | 16122 | 5.5 | none | 
- | [dc3dd]({{< ref "/f16/package/dc3dd.md" >}}) | 50 | 932 | 5.4 | Italian <tp@lists.linux.it> | 
- | [xscreensaver]({{< ref "/f16/package/xscreensaver.md" >}}) | 578 | 11190 | 5.2 | Italian <tp@lists.linux.it> | 
- | [mingw32-iconv]({{< ref "/f16/package/mingw32-iconv.md" >}}) | 15 | 336 | 4.5 | Italian <tp@lists.linux.it> | 
- | [avant-window-navigator]({{< ref "/f16/package/avant-window-navigator.md" >}}) | 76 | 1829 | 4.2 | Italian <it@li.org> | 
- | [gnome-gmail]({{< ref "/f16/package/gnome-gmail.md" >}}) | 13 | 359 | 3.6 | LANGUAGE <LL@li.org> | 
- | [glances]({{< ref "/f16/package/glances.md" >}}) | 14 | 465 | 3.0 | Italian | 
- | [polyester3]({{< ref "/f16/package/polyester3.md" >}}) | 111 | 4376 | 2.5 | italian | 
- | [polyester]({{< ref "/f16/package/polyester.md" >}}) | 111 | 4397 | 2.5 | italian | 
- | [glom]({{< ref "/f16/package/glom.md" >}}) | 6 | 275 | 2.2 | LANGUAGE <LL@li.org> | 
- | [xpad]({{< ref "/f16/package/xpad.md" >}}) | 8 | 370 | 2.2 | none | 
- | [gnash]({{< ref "/f16/package/gnash.md" >}}) | 186 | 15143 | 1.2 | LANGUAGE <LL@li.org> | 
- | [bacula]({{< ref "/f16/package/bacula.md" >}}) | 0 | 20287 | 0.0 | Italian <bacula-devel@lists.sourceforge.net> | 
- | [bacula2]({{< ref "/f16/package/bacula2.md" >}}) | 0 | 20287 | 0.0 | Italian <bacula-devel@lists.sourceforge.net> | 
- | [denemo]({{< ref "/f16/package/denemo.md" >}}) | 0 | 1122 | 0.0 | Italian | 
- | [freeipa]({{< ref "/f16/package/freeipa.md" >}}) | 0 | 12012 | 0.0 | Italian <trans-it@lists.fedoraproject.org> | 
- | [gcombust]({{< ref "/f16/package/gcombust.md" >}}) | 0 | 0 | 0.0 |  | 
- | [gnome-applet-alarm-clock]({{< ref "/f16/package/gnome-applet-alarm-clock.md" >}}) | 0 | 417 | 0.0 | Italian <it@li.org> | 
- | [icewm]({{< ref "/f16/package/icewm.md" >}}) | 0 | 0 | 0.0 | Italian <tp@lists.linux.it> | 
- | [libgxim]({{< ref "/f16/package/libgxim.md" >}}) | 0 | 130 | 0.0 | none | 
- | [libsmbios]({{< ref "/f16/package/libsmbios.md" >}}) | 0 | 1630 | 0.0 | Italian | 
- | [openconnect]({{< ref "/f16/package/openconnect.md" >}}) | 0 | 2573 | 0.0 | Italian (http://www.transifex.net/projects/p/meego/team/it/) | 
- | [retrace-server]({{< ref "/f16/package/retrace-server.md" >}}) | 0 | 123 | 0.0 | Italian | 
- | [smokeping]({{< ref "/f16/package/smokeping.md" >}}) | 0 | 72 | 0.0 | none | 
- | [splix]({{< ref "/f16/package/splix.md" >}}) | 0 | 0 | 0.0 |  | 
- | [tangogps]({{< ref "/f16/package/tangogps.md" >}}) | 0 | 570 | 0.0 | LANGUAGE <LL@li.org> | 
- | [wordtrans]({{< ref "/f16/package/wordtrans.md" >}}) | 0 | 0 | 0.0 |  | 
+ | [DivFix++](/f16/package/DivFix++) | 551 | 551 | 100.0 | Giovanni Fiocco <Vecna at Vecna.Vecna> | 
+ | [Django](/f16/package/Django) | 3975 | 3975 | 100.0 | Italian <> | 
+ | [GConf2](/f16/package/GConf2) | 4088 | 4088 | 100.0 | Italiano <tp@lists.linux.it> | 
+ | [NetworkManager](/f16/package/NetworkManager) | 2615 | 2615 | 100.0 | Italian <tp@lists.linux.it> | 
+ | [NetworkManager-openconnect](/f16/package/NetworkManager-openconnect) | 53 | 53 | 100.0 | Italian <tp@lists.linux.it> | 
+ | [NetworkManager-openswan](/f16/package/NetworkManager-openswan) | 139 | 139 | 100.0 | italian <tp@lists.linux.it> | 
+ | [NetworkManager-pptp](/f16/package/NetworkManager-pptp) | 144 | 144 | 100.0 | Italian <tp@lists.linux.it> | 
+ | [NetworkManager-vpnc](/f16/package/NetworkManager-vpnc) | 143 | 143 | 100.0 | Italian <tp@lists.linux.it> | 
+ | [Terminal](/f16/package/Terminal) | 6190 | 6190 | 100.0 | Italian <xfce-it-translators@googlegroups.com> | 
+ | [Thunar](/f16/package/Thunar) | 10539 | 10539 | 100.0 | Italian <xfce-it-translators@googlegroups.com> | 
+ | [abrt](/f16/package/abrt) | 1419 | 1419 | 100.0 | Italian <trans-it@lists.fedoraproject.org> | 
+ | [accountsservice](/f16/package/accountsservice) | 59 | 59 | 100.0 | Italian (http://www.transifex.net/projects/p/freedesktop/team/it/) | 
+ | [aisleriot](/f16/package/aisleriot) | 1912 | 1912 | 100.0 | Italian <tp@lists.linux.it> | 
+ | [alacarte](/f16/package/alacarte) | 42 | 42 | 100.0 | Italian <tp@lists.linux.it> | 
+ | [amarok](/f16/package/amarok) | 15340 | 15340 | 100.0 | Italian <kde-i18n-it@kde.org> | 
+ | [anaconda](/f16/package/anaconda) | 9408 | 9408 | 100.0 | Italian <trans-it@lists.fedoraproject.org> | 
+ | [anerley](/f16/package/anerley) | 11 | 11 | 100.0 | Italian <tp@lists.linux.it> | 
+ | [anjuta](/f16/package/anjuta) | 7744 | 7744 | 100.0 | Italian <tp@lists.linux.it> | 
+ | [aspell](/f16/package/aspell) | 1726 | 1726 | 100.0 | Italian <tp@lists.linux.it> | 
+ | [at-spi](/f16/package/at-spi) | 61 | 61 | 100.0 | Italiano <tp@lists.linux.it> | 
+ | [at-spi2-atk](/f16/package/at-spi2-atk) | 7 | 7 | 100.0 | Italiano <tp@lists.linux.it> | 
+ | [at-spi2-core](/f16/package/at-spi2-core) | 96 | 96 | 100.0 | Italian <tp@lists.linux.it> | 
+ | [atk](/f16/package/atk) | 398 | 398 | 100.0 | Italian <tp@lists.linux.it> | 
+ | [atomix](/f16/package/atomix) | 125 | 125 | 100.0 | Italiano <tp@lists.linux.it> | 
+ | [audacity](/f16/package/audacity) | 10550 | 10550 | 100.0 | italiano <audacity-translation@lists.sourceforge.net> | 
+ | [audit-viewer](/f16/package/audit-viewer) | 611 | 611 | 100.0 | Italian <trans-it@lists.fedoraproject.org> | 
+ | [avahi](/f16/package/avahi) | 865 | 865 | 100.0 | Italian <tp@lists.linux.it> | 
+ | [backintime](/f16/package/backintime) | 919 | 919 | 100.0 | Italian <it@li.org> | 
+ | [bangarang](/f16/package/bangarang) | 955 | 955 | 100.0 | Italian <kde-i18n-it@kde.org> | 
+ | [banshee](/f16/package/banshee) | 5811 | 5811 | 100.0 | Italiana <tp@lists.linux.it> | 
+ | [banshee-community-extensions](/f16/package/banshee-community-extensions) | 1255 | 1255 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [bisho](/f16/package/bisho) | 164 | 164 | 100.0 | Italian <tp@lists.linux.it> | 
+ | [blam](/f16/package/blam) | 337 | 337 | 100.0 | Italian <tp@lists.linux.it> | 
+ | [bluedevil](/f16/package/bluedevil) | 617 | 617 | 100.0 | Italian <kde-i18n-it@kde.org> | 
+ | [bluefish](/f16/package/bluefish) | 3819 | 3819 | 100.0 | Italian <tp@lists.linux.it> | 
+ | [brasero](/f16/package/brasero) | 9003 | 9003 | 100.0 | Italian <tp@lists.linux.it> | 
+ | [bygfoot](/f16/package/bygfoot) | 3720 | 3720 | 100.0 | Italian <tp@lists.linux.it> | 
+ | [byobu](/f16/package/byobu) | 177 | 177 | 100.0 | Italian <it@li.org> | 
+ | [byzanz](/f16/package/byzanz) | 238 | 238 | 100.0 | Italiana <tp@lists.linux.it> | 
+ | [cairo-clock](/f16/package/cairo-clock) | 270 | 270 | 100.0 | Mirco MÃ¦ller <macslow@bangang.de> | 
+ | [camorama](/f16/package/camorama) | 559 | 559 | 100.0 | IT <tp@lists.linux.it> | 
+ | [caribou](/f16/package/caribou) | 200 | 200 | 100.0 | Italian <tp@lists.linux.it> | 
+ | [ccsm](/f16/package/ccsm) | 549 | 549 | 100.0 | Italian <tp@lists.linux.it> | 
+ | [cheese](/f16/package/cheese) | 2570 | 2570 | 100.0 | Italian <tp@lists.linux.org>> | 
+ | [cherrytree](/f16/package/cherrytree) | 2174 | 2174 | 100.0 | Italian | 
+ | [chkconfig](/f16/package/chkconfig) | 487 | 487 | 100.0 | Italian <trans-it@lists.fedoraproject.org> | 
+ | [cinnamon](/f16/package/cinnamon) | 1292 | 1292 | 100.0 | Italian <tp@lists.linux.it> | 
+ | [clamtk](/f16/package/clamtk) | 796 | 796 | 100.0 | Italian <kde-i18n-it@kde.org> | 
+ | [clawsker](/f16/package/clawsker) | 840 | 840 | 100.0 | Italian <tp@lists.linux.it> | 
+ | [clementine](/f16/package/clementine) | 3939 | 3939 | 100.0 |  | 
+ | [cogl](/f16/package/cogl) | 15 | 15 | 100.0 | Italiano <tp@lists.linux.it> | 
+ | [compat-libgda](/f16/package/compat-libgda) | 6314 | 6314 | 100.0 | italiano <tp@lists.linux.it> | 
+ | [compiz](/f16/package/compiz) | 3250 | 3250 | 100.0 | Italian <tp@lists.linux.it> | 
+ | [compiz-fusion](/f16/package/compiz-fusion) | 8946 | 8946 | 100.0 | Italian <tp@lists.linux.it> | 
+ | [conduit](/f16/package/conduit) | 834 | 834 | 100.0 | Italian <tp@lists.linux.it> | 
+ | [console-setup](/f16/package/console-setup) | 979 | 979 | 100.0 | Italian <tp@lists.linux.it> | 
+ | [contacts](/f16/package/contacts) | 285 | 285 | 100.0 | Italian <tp@lists.linux.it> | 
+ | [control-center](/f16/package/control-center) | 4368 | 4368 | 100.0 | Italian tp@lists.linux.it | 
+ | [cpufrequtils](/f16/package/cpufrequtils) | 583 | 583 | 100.0 | NONE | 
+ | [cracklib](/f16/package/cracklib) | 93 | 93 | 100.0 | Novell Language <language@novell.com> | 
+ | [cross-binutils](/f16/package/cross-binutils) | 17028 | 17028 | 100.0 | Italian <tp@lists.linux.it> | 
+ | [dasher](/f16/package/dasher) | 528 | 528 | 100.0 | italian <tp@lists.linux.it> | 
+ | [dates](/f16/package/dates) | 239 | 239 | 100.0 | Italian <tp@lists.linux.it> | 
+ | [dcraw](/f16/package/dcraw) | 624 | 624 | 100.0 |  | 
+ | [deja-dup](/f16/package/deja-dup) | 3740 | 3740 | 100.0 | Italian <it@li.org> | 
+ | [devhelp](/f16/package/devhelp) | 456 | 456 | 100.0 | Italian <tp@lists.linux.it> | 
+ | [dexter](/f16/package/dexter) | 228 | 228 | 100.0 | Italian <it@li.org> | 
+ | [dialog](/f16/package/dialog) | 25 | 25 | 100.0 | Italian <tp@lists.linux.it> | 
+ | [diffuse](/f16/package/diffuse) | 976 | 976 | 100.0 | Italian | 
+ | [django-keyedcache](/f16/package/django-keyedcache) | 18 | 18 | 100.0 | Italiano <it@li.org> | 
+ | [django-registration](/f16/package/django-registration) | 81 | 81 | 100.0 | Italiano | 
+ | [django-reversion](/f16/package/django-reversion) | 117 | 117 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [docky](/f16/package/docky) | 599 | 599 | 100.0 | Italian <it@li.org> | 
+ | [doodle](/f16/package/doodle) | 684 | 684 | 100.0 | Italian <tp@lists.linux.it> | 
+ | [drupal-workspace](/f16/package/drupal-workspace) | 77 | 77 | 100.0 | MATTEO <m.ferrari@tiscali.it> | 
+ | [drupal6-cck](/f16/package/drupal6-cck) | 1332 | 1332 | 100.0 | Italian <EMAIL@ADDRESS> | 
+ | [easystroke](/f16/package/easystroke) | 515 | 515 | 100.0 | Italian <it@li.org> | 
+ | [ecore](/f16/package/ecore) | 110 | 110 | 100.0 | none | 
+ | [ejabberd](/f16/package/ejabberd) | 1826 | 1826 | 100.0 | Italian <tp@lists.linux.it> | 
+ | [eject](/f16/package/eject) | 6 | 6 | 100.0 | Italian Team <debian-l10n-italian@lists.debian.org> | 
+ | [ekiga](/f16/package/ekiga) | 4145 | 4145 | 100.0 | Italian <tp@lists.linux.it> | 
+ | [emerald](/f16/package/emerald) | 774 | 774 | 100.0 | Italian <tp@lists.linux.it> | 
+ | [emerillon](/f16/package/emerillon) | 404 | 404 | 100.0 | Italian <tp@lists.linux.it> | 
+ | [empathy](/f16/package/empathy) | 11115 | 11115 | 100.0 | Italian <tp@lists.linux.it> | 
+ | [eog](/f16/package/eog) | 4862 | 4862 | 100.0 | Italian <tp@lists.linux.it> | 
+ | [eog-plugins](/f16/package/eog-plugins) | 150 | 150 | 100.0 | Italiana <tp@lists.linux.it> | 
+ | [epiphany-extensions](/f16/package/epiphany-extensions) | 746 | 746 | 100.0 | italian <tp@lists.linux.it> | 
+ | [etckeeper](/f16/package/etckeeper) | 64 | 64 | 100.0 | Italian <debian-l10n-italian@lists.debian.org> | 
+ | [evince](/f16/package/evince) | 3355 | 3355 | 100.0 | Italian <tp@lists.linux.it> | 
+ | [evolution](/f16/package/evolution) | 21447 | 21447 | 100.0 | Italian <tp@lists.linux.it> | 
+ | [evolution-data-server](/f16/package/evolution-data-server) | 4673 | 4673 | 100.0 | Italian <tp@lists.linux.it> | 
+ | [evolution-exchange](/f16/package/evolution-exchange) | 2204 | 2204 | 100.0 | Italian <tp@lists.linux.it> | 
+ | [evolution-mapi](/f16/package/evolution-mapi) | 516 | 516 | 100.0 | Italian <tp@lists.linux.it> | 
+ | [exif](/f16/package/exif) | 296 | 296 | 100.0 | Italian <tp@lists.linux.it> | 
+ | [exo](/f16/package/exo) | 2214 | 2214 | 100.0 | Italian Translation Team <xfce-it-translators@googlegroups.com> | 
+ | [expendable](/f16/package/expendable) | 226 | 226 | 100.0 | Italian <fedora-trans-it at redhat.com> | 
+ | [f-spot](/f16/package/f-spot) | 3686 | 3686 | 100.0 | Italian <tp@lists.linux.it> | 
+ | [fantasdic](/f16/package/fantasdic) | 198 | 198 | 100.0 | Italian <tp@lists.linux.it> | 
+ | [file-roller](/f16/package/file-roller) | 7284 | 7284 | 100.0 | Italian <tp@lists.linux.it> | 
+ | [filezilla](/f16/package/filezilla) | 9254 | 9254 | 100.0 | Andrea Sanavia - Roberto Boriotti - Vincenzo Reale - Riccardo Vianello <www.filezilla-project.it> | 
+ | [firewalld](/f16/package/firewalld) | 615 | 615 | 100.0 | Italian <trans-it@fedoraproject.org> | 
+ | [firstboot](/f16/package/firstboot) | 596 | 596 | 100.0 | Italian <trans-it@lists.fedoraproject.org> | 
+ | [fontforge](/f16/package/fontforge) | 6828 | 6828 | 100.0 | LANGUAGE <it.c@li.org> | 
+ | [fpm2](/f16/package/fpm2) | 748 | 748 | 100.0 | Nicola Jelmorini <jelmorini@linux.com> | 
+ | [fprintd](/f16/package/fprintd) | 219 | 219 | 100.0 | Italian <> | 
+ | [freedink-dfarc](/f16/package/freedink-dfarc) | 778 | 778 | 100.0 | Italian <tp@lists.linux.it> | 
+ | [frogr](/f16/package/frogr) | 347 | 347 | 100.0 | Italian | 
+ | [frozen-bubble](/f16/package/frozen-bubble) | 698 | 698 | 100.0 | Italian <tp@lists.linux.it> | 
+ | [ganyremote](/f16/package/ganyremote) | 494 | 494 | 100.0 | Italian | 
+ | [garcon](/f16/package/garcon) | 86 | 86 | 100.0 |  | 
+ | [gbrainy](/f16/package/gbrainy) | 9743 | 9743 | 100.0 | Italian <tp@lists.linux.it> | 
+ | [gcl](/f16/package/gcl) | 177 | 177 | 100.0 | Italian <tp@lists.linux.it> | 
+ | [gcompris](/f16/package/gcompris) | 10220 | 10220 | 100.0 | IT <tp@lists.linux.it> | 
+ | [gconf-editor](/f16/package/gconf-editor) | 2834 | 2834 | 100.0 | Italian <tp@lists.linux.it> | 
+ | [gdk-pixbuf2](/f16/package/gdk-pixbuf2) | 1313 | 1313 | 100.0 | Italian <tp@lists.linux.it> | 
+ | [gdmap](/f16/package/gdmap) | 139 | 139 | 100.0 | Italian <mangilimic@gmail.com> | 
+ | [geany](/f16/package/geany) | 5664 | 5664 | 100.0 | <geany-i18n@uvena.de> | 
+ | [gedit](/f16/package/gedit) | 11942 | 11942 | 100.0 | Italian <tp@lists.linux.it> | 
+ | [gedit-collaboration](/f16/package/gedit-collaboration) | 119 | 119 | 100.0 | Italian <tp@lists.linux.it> | 
+ | [gedit-plugins](/f16/package/gedit-plugins) | 1640 | 1640 | 100.0 | Italian <tp@lists.linux.it> | 
+ | [ggz-base-libs](/f16/package/ggz-base-libs) | 72 | 72 | 100.0 | Italian <tp@list.linux.it> | 
+ | [ggz-gtk-client](/f16/package/ggz-gtk-client) | 859 | 859 | 100.0 | Italian <tp@list.linux.it> | 
+ | [gigolo](/f16/package/gigolo) | 444 | 444 | 100.0 | Italian | 
+ | [gimp](/f16/package/gimp) | 26126 | 26126 | 100.0 | gimp@erlug.linux.it | 
+ | [gimp-help](/f16/package/gimp-help) | 529 | 529 | 100.0 | Italian <it@li.org> | 
+ | [gimp-lqr-plugin](/f16/package/gimp-lqr-plugin) | 825 | 825 | 100.0 | Italian <carlobaldassi@gmail.com> | 
+ | [glade3](/f16/package/glade3) | 5874 | 5874 | 100.0 | Italian <tp@lists.linux.it> | 
+ | [glib-networking](/f16/package/glib-networking) | 86 | 86 | 100.0 | Italian <tp@lists.linux.it> | 
+ | [glib2](/f16/package/glib2) | 4777 | 4777 | 100.0 | Italiano <tp@lists.linux.it> | 
+ | [glibc](/f16/package/glibc) | 7409 | 7409 | 100.0 | Italian <tp@lists.linux.it> | 
+ | [gnokii](/f16/package/gnokii) | 5575 | 5575 | 100.0 | Italian <tp@lists.linux.it> | 
+ | [gnome-activity-journal](/f16/package/gnome-activity-journal) | 316 | 316 | 100.0 | Italian <it@li.org> | 
+ | [gnome-applet-sensors](/f16/package/gnome-applet-sensors) | 298 | 298 | 100.0 | Italian <tp@lists.linux.it> | 
+ | [gnome-applets](/f16/package/gnome-applets) | 9795 | 9795 | 100.0 | Italian | 
+ | [gnome-backgrounds](/f16/package/gnome-backgrounds) | 29 | 29 | 100.0 | Italian <tp@lists.linux.it> | 
+ | [gnome-bluetooth](/f16/package/gnome-bluetooth) | 654 | 654 | 100.0 | Italian <tp@lists.linux.it> | 
+ | [gnome-color-manager](/f16/package/gnome-color-manager) | 1904 | 1904 | 100.0 | Italian <gnome-it-list@gnome.org> | 
+ | [gnome-contacts](/f16/package/gnome-contacts) | 210 | 210 | 100.0 | Italian <tp@lists.linux.it> | 
+ | [gnome-desktop](/f16/package/gnome-desktop) | 438 | 438 | 100.0 | Italian <tp@lists.linux.it> | 
+ | [gnome-desktop3](/f16/package/gnome-desktop3) | 235 | 235 | 100.0 | Italian <tp@lists.linux.it> | 
+ | [gnome-disk-utility](/f16/package/gnome-disk-utility) | 4544 | 4544 | 100.0 | Italian <tp@lists.linux.it> | 
+ | [gnome-do-plugins](/f16/package/gnome-do-plugins) | 2323 | 2323 | 100.0 | Italian <it@li.org> | 
+ | [gnome-doc-utils](/f16/package/gnome-doc-utils) | 251 | 251 | 100.0 | Italian <tp@lists.linux.it> | 
+ | [gnome-documents](/f16/package/gnome-documents) | 71 | 71 | 100.0 | Italian <gnome-it-list@gnome.org> | 
+ | [gnome-dvb-daemon](/f16/package/gnome-dvb-daemon) | 808 | 808 | 100.0 | Italian <it@li.org> | 
+ | [gnome-games](/f16/package/gnome-games) | 29435 | 29435 | 100.0 | Italian <tp@lists.linux.it> | 
+ | [gnome-icon-theme](/f16/package/gnome-icon-theme) | 43 | 43 | 100.0 | Italian <tp@lists.linux.it> | 
+ | [gnome-keyring](/f16/package/gnome-keyring) | 928 | 928 | 100.0 | Italian <tp@lists.linux.it> | 
+ | [gnome-mag](/f16/package/gnome-mag) | 298 | 298 | 100.0 | Italian <tp@lists.linux.it> | 
+ | [gnome-media](/f16/package/gnome-media) | 4059 | 4059 | 100.0 | Italian <tp@lists.linux.it> | 
+ | [gnome-menus](/f16/package/gnome-menus) | 161 | 161 | 100.0 | Italian <tp@lists.linux.it> | 
+ | [gnome-mime-data](/f16/package/gnome-mime-data) | 887 | 887 | 100.0 | Italian <tp@lists.linux.it> | 
+ | [gnome-online-accounts](/f16/package/gnome-online-accounts) | 304 | 304 | 100.0 | Italian <tp@lists.linux.it> | 
+ | [gnome-packagekit](/f16/package/gnome-packagekit) | 4790 | 4790 | 100.0 | Italiana <tp@lists.linux.it> | 
+ | [gnome-paint](/f16/package/gnome-paint) | 167 | 167 | 100.0 | Italian | 
+ | [gnome-panel](/f16/package/gnome-panel) | 5703 | 5703 | 100.0 | Italian <tp@lists.linux.it> | 
+ | [gnome-phone-manager](/f16/package/gnome-phone-manager) | 559 | 559 | 100.0 | Italian <tp@lists.linux.it > | 
+ | [gnome-pilot-conduits](/f16/package/gnome-pilot-conduits) | 209 | 209 | 100.0 | Italian <tp@lists.linux.it> | 
+ | [gnome-power-manager](/f16/package/gnome-power-manager) | 432 | 432 | 100.0 | Italian <tp@lists.linux.it> | 
+ | [gnome-scan](/f16/package/gnome-scan) | 210 | 210 | 100.0 | Italian <tp@lists.linux.it> | 
+ | [gnome-screensaver](/f16/package/gnome-screensaver) | 291 | 291 | 100.0 | Italiano <tp@lists.linux.it> | 
+ | [gnome-session](/f16/package/gnome-session) | 489 | 489 | 100.0 | Italiano <tp@lists.linux.it> | 
+ | [gnome-settings-daemon](/f16/package/gnome-settings-daemon) | 3926 | 3926 | 100.0 | Italiano <tp@lists.linux.it> | 
+ | [gnome-shell](/f16/package/gnome-shell) | 1296 | 1296 | 100.0 | Italian <tp@lists.linux.it> | 
+ | [gnome-shell-extensions](/f16/package/gnome-shell-extensions) | 424 | 424 | 100.0 | none <LL@li.org> | 
+ | [gnome-subtitles](/f16/package/gnome-subtitles) | 910 | 910 | 100.0 | Italian <tp@lists.linux.it> | 
+ | [gnome-system-monitor](/f16/package/gnome-system-monitor) | 945 | 945 | 100.0 | Italiano <tp@lists.linux.it> | 
+ | [gnome-terminal](/f16/package/gnome-terminal) | 7809 | 7809 | 100.0 | Italian <tp@lists.linux.it> | 
+ | [gnome-themes](/f16/package/gnome-themes) | 109 | 109 | 100.0 | Italian <tp@lists.linux.it> | 
+ | [gnome-themes-standard](/f16/package/gnome-themes-standard) | 24 | 24 | 100.0 | Italian <tp@lists.linux.it> | 
+ | [gnome-tweak-tool](/f16/package/gnome-tweak-tool) | 119 | 119 | 100.0 | Italiana <tp@lists.linux.it> | 
+ | [gnome-user-share](/f16/package/gnome-user-share) | 1457 | 1457 | 100.0 | Italian <tp@lists.linux.it> | 
+ | [gnome-utils](/f16/package/gnome-utils) | 9611 | 9611 | 100.0 | Italian <tp@lists.linux.it> | 
+ | [gnome-vfs2](/f16/package/gnome-vfs2) | 1519 | 1519 | 100.0 | Italian <tp@lists.linux.it> | 
+ | [gnomeradio](/f16/package/gnomeradio) | 413 | 413 | 100.0 | Italian <tp@lists.linux.it> | 
+ | [gnubg](/f16/package/gnubg) | 16575 | 16575 | 100.0 | Italiano <renzo.camp@tin.it> | 
+ | [gok](/f16/package/gok) | 1915 | 1915 | 100.0 | Italian <tp@lists.linux.it> | 
+ | [googsystray](/f16/package/googsystray) | 759 | 759 | 100.0 | Italian | 
+ | [gparted](/f16/package/gparted) | 6129 | 6129 | 100.0 | Italian <tp@lists.linux.it> | 
+ | [gpicview](/f16/package/gpicview) | 219 | 219 | 100.0 |  | 
+ | [gpsdrive](/f16/package/gpsdrive) | 2311 | 2311 | 100.0 | Italian <tp@lists.linux.it> | 
+ | [greylistd](/f16/package/greylistd) | 350 | 350 | 100.0 | Italian <tp@lists.linux.it> | 
+ | [grip](/f16/package/grip) | 1047 | 1047 | 100.0 | Italiano <it@li.org> | 
+ | [gtg](/f16/package/gtg) | 1795 | 1795 | 100.0 | Italian <it@li.org> | 
+ | [gthumb](/f16/package/gthumb) | 3239 | 3239 | 100.0 | Italian | 
+ | [gtk+](/f16/package/gtk+) | 404 | 404 | 100.0 | Italian <it@li.org> | 
+ | [gtk-recordmydesktop](/f16/package/gtk-recordmydesktop) | 816 | 816 | 100.0 | Arch Linux Italian Team <linuxmania@gmail.com> | 
+ | [gtk-vnc](/f16/package/gtk-vnc) | 81 | 81 | 100.0 | Italian <tp@lists.linux.it> | 
+ | [gtk2](/f16/package/gtk2) | 12452 | 12452 | 100.0 | Italian <tp@lists.linux.it> | 
+ | [gtk2-engines](/f16/package/gtk2-engines) | 119 | 119 | 100.0 | Italian <tp@lists.linux.it> | 
+ | [gtkhtml3](/f16/package/gtkhtml3) | 488 | 488 | 100.0 | Italian <tp@lists.linux.it> | 
+ | [gtksourcecompletion](/f16/package/gtksourcecompletion) | 11 | 11 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [gtksourceview](/f16/package/gtksourceview) | 821 | 821 | 100.0 | Italian <tp@lists.linux.it> | 
+ | [gtksourceview2](/f16/package/gtksourceview2) | 1413 | 1413 | 100.0 | Italian <tp@lists.linux.it> | 
+ | [gtksourceview3](/f16/package/gtksourceview3) | 1532 | 1532 | 100.0 | Italian <tp@lists.linux.it> | 
+ | [gtkspell](/f16/package/gtkspell) | 15 | 15 | 100.0 | Italian <tp@lists.linux.it> | 
+ | [gtranslator](/f16/package/gtranslator) | 1668 | 1668 | 100.0 | Italian <tp@lists.linux.it> | 
+ | [guake](/f16/package/guake) | 523 | 523 | 100.0 | Italian <LL@li.org> | 
+ | [gucharmap](/f16/package/gucharmap) | 896 | 896 | 100.0 | Italian <tp@lists.linux.it> | 
+ | [gvfs](/f16/package/gvfs) | 2412 | 2412 | 100.0 | Italian <tp@lists.linux.it> | 
+ | [gweled](/f16/package/gweled) | 156 | 156 | 100.0 | Italian <tp@lists.linux.it> | 
+ | [gwget](/f16/package/gwget) | 379 | 379 | 100.0 | Italian <tp@lists.linux.it> | 
+ | [gx_head](/f16/package/gx_head) | 1503 | 1503 | 100.0 | Italian | 
+ | [hamster-applet](/f16/package/hamster-applet) | 717 | 717 | 100.0 | Italian <tp@lists.linux.it> | 
+ | [help2man](/f16/package/help2man) | 524 | 524 | 100.0 | Italian <tp@lists.linux.it> | 
+ | [homebank](/f16/package/homebank) | 1509 | 1509 | 100.0 | Italian <it@li.org> | 
+ | [horde](/f16/package/horde) | 7712 | 7712 | 100.0 | Italian <dev@lists.horde.org> | 
+ | [hotssh](/f16/package/hotssh) | 150 | 150 | 100.0 | italian <tp@lists.linux.it> | 
+ | [hugin](/f16/package/hugin) | 6577 | 6577 | 100.0 | Italian <tp@lists.linux.it> | 
+ | [ibus-xkbc](/f16/package/ibus-xkbc) | 61 | 61 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [idjc](/f16/package/idjc) | 5636 | 5636 | 100.0 | American English <kde-i18n-doc@kde.org> | 
+ | [im-chooser](/f16/package/im-chooser) | 226 | 226 | 100.0 | Italian (http://www.transifex.net/projects/p/im-chooser/team/it/) | 
+ | [imp](/f16/package/imp) | 6421 | 6421 | 100.0 | i18n@lists.horde.org | 
+ | [imsettings](/f16/package/imsettings) | 404 | 404 | 100.0 | Italian (http://www.transifex.net/projects/p/imsettings/team/it/) | 
+ | [ingo](/f16/package/ingo) | 883 | 883 | 100.0 | Horde Italian <i18n@lists.horde.org> | 
+ | [insight](/f16/package/insight) | 1371 | 1371 | 100.0 | Italian <tp@lists.linux.it> | 
+ | [iok](/f16/package/iok) | 142 | 142 | 100.0 | Italian <fedora-trans-it at redhat.com> | 
+ | [ircp-tray](/f16/package/ircp-tray) | 239 | 239 | 100.0 | Italian <tp@lists.linux.it> | 
+ | [iso-codes](/f16/package/iso-codes) | 19759 | 19759 | 100.0 | Italian <tp@lists.linux.it> | 
+ | [isomaster](/f16/package/isomaster) | 674 | 674 | 100.0 |  | 
+ | [istanbul](/f16/package/istanbul) | 78 | 78 | 100.0 | Italian <tp@lists.linux.it> | 
+ | [jwhois](/f16/package/jwhois) | 440 | 440 | 100.0 | Italian <tp@lists.linux.it> | 
+ | [kBuild](/f16/package/kBuild) | 505 | 505 | 100.0 | Italian <tp@lists.linux.it> | 
+ | [kde-plasma-networkmanagement](/f16/package/kde-plasma-networkmanagement) | 3686 | 3686 | 100.0 | Italian <kde-i18n-it@kde.org> | 
+ | [kdevelop](/f16/package/kdevelop) | 4012 | 4012 | 100.0 | Italian <kde-i18n-it@kde.org> | 
+ | [kdevelop-php](/f16/package/kdevelop-php) | 359 | 359 | 100.0 | Italian <kde-i18n-it@kde.org> | 
+ | [kdevplatform](/f16/package/kdevplatform) | 7783 | 7783 | 100.0 | Italian <kde-i18n-it@kde.org> | 
+ | [kdiff3](/f16/package/kdiff3) | 3770 | 3770 | 100.0 | Italian <kde-i18n-it@kde.org> | 
+ | [kdirstat](/f16/package/kdirstat) | 926 | 926 | 100.0 | Italiano | 
+ | [kdissert](/f16/package/kdissert) | 2027 | 2027 | 100.0 | Italian <kde-i18n-it@kde.org> | 
+ | [keurocalc](/f16/package/keurocalc) | 3042 | 3042 | 100.0 | Italian <kde-i18n-it@kde.org> | 
+ | [kexec-tools](/f16/package/kexec-tools) | 206 | 206 | 100.0 | <it@li.org> | 
+ | [kgrab](/f16/package/kgrab) | 370 | 370 | 100.0 | Italian <kde-i18n-it@lists.kde.org> | 
+ | [kicad](/f16/package/kicad) | 13669 | 13669 | 100.0 | Ciocemax <ciocemax@alice.it> | 
+ | [kiconedit](/f16/package/kiconedit) | 726 | 726 | 100.0 | Italian <kde-i18n-it@lists.kde.org> | 
+ | [kid3](/f16/package/kid3) | 1288 | 1288 | 100.0 | Italian <kde-i18n-doc@kde.org> | 
+ | [kile](/f16/package/kile) | 11162 | 11162 | 100.0 | Italian <kde-i18n-it@kde.org> | 
+ | [kio_gopher](/f16/package/kio_gopher) | 17 | 17 | 100.0 | Italian <kde-i18n-it@kde.org> | 
+ | [kmldonkey](/f16/package/kmldonkey) | 1830 | 1830 | 100.0 | Italiano <kde-i18n-it@kde.org> | 
+ | [knemo](/f16/package/knemo) | 1186 | 1186 | 100.0 | Italian <kde-i18n-it@kde.org> | 
+ | [knetstats](/f16/package/knetstats) | 119 | 119 | 100.0 | Italian <kde-i18n-it@kde.org> | 
+ | [knights](/f16/package/knights) | 761 | 761 | 100.0 | Italian <kde-i18n-it@kde.org> | 
+ | [koffice-kivio](/f16/package/koffice-kivio) | 8417 | 8417 | 100.0 | Italian <kde-i18n-it@kde.org> | 
+ | [komparator](/f16/package/komparator) | 2587 | 2587 | 100.0 | Arch Linux Italian Team <linuxmania@gmail.com> | 
+ | [konq-plugins](/f16/package/konq-plugins) | 1692 | 1692 | 100.0 | Italian <kde-i18n-it@kde.org> | 
+ | [kopete-cryptography](/f16/package/kopete-cryptography) | 408 | 408 | 100.0 | Italian <kde-i18n-it@lists.kde.org> | 
+ | [kphotoalbum](/f16/package/kphotoalbum) | 6333 | 6333 | 100.0 | Italiano <kde-i18n-it@kde.org> | 
+ | [kpilot](/f16/package/kpilot) | 7156 | 7156 | 100.0 | Italian <kde-i18n-it@kde.org> | 
+ | [krecipes](/f16/package/krecipes) | 3087 | 3087 | 100.0 | Italian <kde-i18n-it@kde.org> | 
+ | [kronolith](/f16/package/kronolith) | 2222 | 2222 | 100.0 | Italian <dev@lists.horde.org> | 
+ | [ksig](/f16/package/ksig) | 85 | 85 | 100.0 | Italian <kde-i18n-it@kde.org> | 
+ | [ktp-accounts-kcm](/f16/package/ktp-accounts-kcm) | 958 | 958 | 100.0 | Italian <kde-i18n-it@kde.org> | 
+ | [ktp-approver](/f16/package/ktp-approver) | 76 | 76 | 100.0 | Italian <kde-i18n-it@kde.org> | 
+ | [ktp-auth-handler](/f16/package/ktp-auth-handler) | 26 | 26 | 100.0 | Italian <kde-i18n-it@kde.org> | 
+ | [ktp-contact-applet](/f16/package/ktp-contact-applet) | 15 | 15 | 100.0 | Italian <kde-i18n-it@kde.org> | 
+ | [ktp-contact-list](/f16/package/ktp-contact-list) | 500 | 500 | 100.0 | Italian <kde-i18n-it@kde.org> | 
+ | [ktp-contact-runner](/f16/package/ktp-contact-runner) | 177 | 177 | 100.0 | Italian <kde-i18n-it@kde.org> | 
+ | [ktp-filetransfer-handler](/f16/package/ktp-filetransfer-handler) | 137 | 137 | 100.0 | Italian <kde-i18n-it@kde.org> | 
+ | [ktp-kded-integration-module](/f16/package/ktp-kded-integration-module) | 228 | 228 | 100.0 | Italian <kde-i18n-it@kde.org> | 
+ | [ktp-presence-applet](/f16/package/ktp-presence-applet) | 19 | 19 | 100.0 | Italian <kde-i18n-it@kde.org> | 
+ | [ktp-send-file](/f16/package/ktp-send-file) | 41 | 41 | 100.0 | Italian <kde-i18n-it@kde.org> | 
+ | [ktp-text-ui](/f16/package/ktp-text-ui) | 490 | 490 | 100.0 | Italian <kde-i18n-it@kde.org> | 
+ | [kvirc](/f16/package/kvirc) | 13604 | 13604 | 100.0 | Italian <kde-i18n-it@kde.org> | 
+ | [leafpad](/f16/package/leafpad) | 125 | 125 | 100.0 | Italian <tp@lists.linux.it> | 
+ | [libbonobo](/f16/package/libbonobo) | 543 | 543 | 100.0 | Italian <tp@lists.linux.it> | 
+ | [libbonoboui](/f16/package/libbonoboui) | 368 | 368 | 100.0 | Italian <tp@lists.linux.it> | 
+ | [libcryptui](/f16/package/libcryptui) | 3012 | 3012 | 100.0 | Italian <tp@lists.linux.it> | 
+ | [libepc](/f16/package/libepc) | 147 | 147 | 100.0 | Italian <tp@lists.linux.it> | 
+ | [libfm](/f16/package/libfm) | 859 | 859 | 100.0 | Italian | 
+ | [libgdata](/f16/package/libgdata) | 559 | 559 | 100.0 | Italian <tp@lists.linux.it> | 
+ | [libgdl](/f16/package/libgdl) | 604 | 604 | 100.0 | Italian <tp@lists.linux.it> | 
+ | [libgnome](/f16/package/libgnome) | 1773 | 1773 | 100.0 | Italian <tp@lists.linux.it> | 
+ | [libgnome-keyring](/f16/package/libgnome-keyring) | 44 | 44 | 100.0 | Italian <tp@lists.linux.it> | 
+ | [libgnome-media-profiles](/f16/package/libgnome-media-profiles) | 460 | 460 | 100.0 | Italian <tp@lists.linux.it> | 
+ | [libgnomecanvas](/f16/package/libgnomecanvas) | 378 | 378 | 100.0 | Italian <tp@lists.linux.it> | 
+ | [libgnomecups](/f16/package/libgnomecups) | 11 | 11 | 100.0 | Italian <tp@lists.linux.it> | 
+ | [libgnomekbd](/f16/package/libgnomekbd) | 242 | 242 | 100.0 | Italian <tp@lists.linux.it> | 
+ | [libgnomeprint22](/f16/package/libgnomeprint22) | 168 | 168 | 100.0 | Italian <tp@lists.linux.it> | 
+ | [libgnomeprintui22](/f16/package/libgnomeprintui22) | 481 | 481 | 100.0 | Italian <tp@lists.linux.it> | 
+ | [libgnomeui](/f16/package/libgnomeui) | 1226 | 1226 | 100.0 | Italian <tp@lists.linux.it> | 
+ | [libgsf](/f16/package/libgsf) | 843 | 843 | 100.0 | Italian <tp@lists.linux.it> | 
+ | [libgtop2](/f16/package/libgtop2) | 126 | 126 | 100.0 | Italian <tp@lists.linux.it> | 
+ | [libgweather](/f16/package/libgweather) | 6090 | 6090 | 100.0 | Italian <tp@lists.linux.it> | 
+ | [libiptcdata](/f16/package/libiptcdata) | 1438 | 1438 | 100.0 | Italian <tp@lists.linux.it> | 
+ | [libkexif](/f16/package/libkexif) | 25 | 25 | 100.0 | Italian <kde-i18n-it@kde.org> | 
+ | [libktorrent](/f16/package/libktorrent) | 519 | 519 | 100.0 | Italian <kde-i18n-it@kde.org> | 
+ | [libmate](/f16/package/libmate) | 1773 | 1773 | 100.0 | Italian (http://www.transifex.com/projects/p/MATE/language/it/) | 
+ | [libmatecanvas](/f16/package/libmatecanvas) | 378 | 378 | 100.0 | Italian (http://www.transifex.com/projects/p/MATE/language/it/) | 
+ | [libmatecomponent](/f16/package/libmatecomponent) | 543 | 543 | 100.0 | Italian (http://www.transifex.net/projects/p/MATE/language/it/) | 
+ | [libmatekbd](/f16/package/libmatekbd) | 292 | 292 | 100.0 | Italian <tp@lists.linux.it> | 
+ | [libmatekeyring](/f16/package/libmatekeyring) | 44 | 44 | 100.0 | Italian (http://www.transifex.com/projects/p/MATE/language/it/) | 
+ | [libmateweather](/f16/package/libmateweather) | 6090 | 6090 | 100.0 | Italian (http://www.transifex.com/projects/p/MATE/language/it/) | 
+ | [libmatewnck](/f16/package/libmatewnck) | 1124 | 1124 | 100.0 | Italian <tp@lists.linux.it> | 
+ | [libmx](/f16/package/libmx) | 40 | 40 | 100.0 | Italian <tp@lists.linux.it> | 
+ | [libpaper](/f16/package/libpaper) | 73 | 73 | 100.0 | italian <tp@lists.linux.it> | 
+ | [libpeas](/f16/package/libpeas) | 106 | 106 | 100.0 | Italian <tp@lists.linux.it> | 
+ | [libpwquality](/f16/package/libpwquality) | 324 | 324 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [libreoffice](/f16/package/libreoffice) | 533988 | 533988 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [libsocialweb](/f16/package/libsocialweb) | 148 | 148 | 100.0 | Italian <tp@lists.linux.it> | 
+ | [libwnck](/f16/package/libwnck) | 1124 | 1124 | 100.0 | Italian <tp@lists.linux.it> | 
+ | [libwnck3](/f16/package/libwnck3) | 1084 | 1084 | 100.0 | Italian <tp@lists.linux.it> | 
+ | [libxfce4menu](/f16/package/libxfce4menu) | 31 | 31 | 100.0 | Italian Translation Team <xfce-it-translators@googlegroups.com> | 
+ | [libxfce4ui](/f16/package/libxfce4ui) | 149 | 149 | 100.0 | Italian Translation Team <xfce-it-translators@googlegroups.com> | 
+ | [libxfce4util](/f16/package/libxfce4util) | 424 | 424 | 100.0 | Italian Translation Team <xfce-it-translators@googlegroups.com> | 
+ | [libxfcegui4](/f16/package/libxfcegui4) | 139 | 139 | 100.0 | Italian <xfce-it-translators@googlegroups.com> | 
+ | [lightdm](/f16/package/lightdm) | 79 | 79 | 100.0 | Italian <it@li.org> | 
+ | [lightdm-gtk](/f16/package/lightdm-gtk) | 56 | 56 | 100.0 | Italian <it@li.org> | 
+ | [liveusb-creator](/f16/package/liveusb-creator) | 480 | 480 | 100.0 | Italian <fedora-trans-it@redhat.com> | 
+ | [ltsp](/f16/package/ltsp) | 462 | 462 | 100.0 | Italian <tp@lists.linux.it> | 
+ | [lxappearance-obconf](/f16/package/lxappearance-obconf) | 184 | 184 | 100.0 | Italian <tp@lists.linux.it> | 
+ | [lxdm](/f16/package/lxdm) | 30 | 30 | 100.0 | Italian <LL@li.org> | 
+ | [lxinput](/f16/package/lxinput) | 72 | 72 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [lxlauncher](/f16/package/lxlauncher) | 51 | 51 | 100.0 |  | 
+ | [lxmenu-data](/f16/package/lxmenu-data) | 97 | 97 | 100.0 | Italian <tp@lists.linux.it> | 
+ | [lxmusic](/f16/package/lxmusic) | 203 | 203 | 100.0 |  | 
+ | [lxpolkit](/f16/package/lxpolkit) | 15 | 15 | 100.0 | Italian <it@li.org> | 
+ | [lxsession](/f16/package/lxsession) | 36 | 36 | 100.0 |  | 
+ | [lxshortcut](/f16/package/lxshortcut) | 43 | 43 | 100.0 |  | 
+ | [lxtask](/f16/package/lxtask) | 122 | 122 | 100.0 | Italian <xfce-i18n@xfce.org> | 
+ | [lxterminal](/f16/package/lxterminal) | 144 | 144 | 100.0 |  | 
+ | [lyx](/f16/package/lyx) | 17357 | 17357 | 100.0 | italiano <it@li.org> | 
+ | [man2html](/f16/package/man2html) | 58 | 58 | 100.0 | Italian <it@li.org> | 
+ | [mate-backgrounds](/f16/package/mate-backgrounds) | 30 | 30 | 100.0 | Italian (http://www.transifex.com/projects/p/MATE/language/it/) | 
+ | [mate-conf](/f16/package/mate-conf) | 4032 | 4032 | 100.0 | Italian (http://www.transifex.net/projects/p/MATE/language/it/) | 
+ | [mate-control-center](/f16/package/mate-control-center) | 3630 | 3630 | 100.0 | Italian tp@lists.linux.it | 
+ | [mate-desktop](/f16/package/mate-desktop) | 407 | 407 | 100.0 | Italian (http://www.transifex.net/projects/p/MATE/language/it/) | 
+ | [mate-dialogs](/f16/package/mate-dialogs) | 631 | 631 | 100.0 | Italian (http://www.transifex.com/projects/p/MATE/language/it/) | 
+ | [mate-doc-utils](/f16/package/mate-doc-utils) | 251 | 251 | 100.0 | Italian (http://www.transifex.net/projects/p/MATE/language/it/) | 
+ | [mate-file-archiver](/f16/package/mate-file-archiver) | 7134 | 7134 | 100.0 | Italian <tp@lists.linux.it> | 
+ | [mate-file-manager](/f16/package/mate-file-manager) | 9411 | 9411 | 100.0 | Italian (http://www.transifex.net/projects/p/MATE/language/it/) | 
+ | [mate-file-manager-sendto](/f16/package/mate-file-manager-sendto) | 319 | 319 | 100.0 | Italian <tp@lists.linux.it> | 
+ | [mate-icon-theme](/f16/package/mate-icon-theme) | 43 | 43 | 100.0 | Italian <tp@lists.linux.it> | 
+ | [mate-image-viewer](/f16/package/mate-image-viewer) | 4896 | 4896 | 100.0 | Italian <tp@lists.linux.it> | 
+ | [mate-keyring](/f16/package/mate-keyring) | 1173 | 1173 | 100.0 | Italian (http://www.transifex.com/projects/p/MATE/language/it/) | 
+ | [mate-media](/f16/package/mate-media) | 2867 | 2867 | 100.0 | Italian <tp@lists.linux.it> | 
+ | [mate-menus](/f16/package/mate-menus) | 161 | 161 | 100.0 | Italian <tp@lists.linux.it> | 
+ | [mate-netspeed](/f16/package/mate-netspeed) | 145 | 145 | 100.0 | Italian (http://www.transifex.com/projects/p/MATE/language/it/) | 
+ | [mate-notification-daemon](/f16/package/mate-notification-daemon) | 116 | 116 | 100.0 | Italian (http://www.transifex.com/projects/p/MATE/language/it/) | 
+ | [mate-polkit](/f16/package/mate-polkit) | 311 | 311 | 100.0 | Italiana <tp@lists.linux.it> | 
+ | [mate-power-manager](/f16/package/mate-power-manager) | 6716 | 6716 | 100.0 | Italian <tp@lists.linux.it> | 
+ | [mate-screensaver](/f16/package/mate-screensaver) | 989 | 989 | 100.0 | Italiano <tp@lists.linux.it> | 
+ | [mate-session-manager](/f16/package/mate-session-manager) | 572 | 572 | 100.0 | Italiano <tp@lists.linux.it> | 
+ | [mate-settings-daemon](/f16/package/mate-settings-daemon) | 1988 | 1988 | 100.0 | Italian <tp@lists.linux.it> | 
+ | [mate-system-monitor](/f16/package/mate-system-monitor) | 933 | 933 | 100.0 | Italian <tp@lists.linux.it> | 
+ | [mate-terminal](/f16/package/mate-terminal) | 7868 | 7868 | 100.0 | Italian <tp@lists.linux.it> | 
+ | [mate-vfs](/f16/package/mate-vfs) | 1519 | 1519 | 100.0 | Italian (http://www.transifex.com/projects/p/MATE/language/it/) | 
+ | [mate-window-manager](/f16/package/mate-window-manager) | 3790 | 3790 | 100.0 | Italian (http://www.transifex.com/projects/p/MATE/language/it/) | 
+ | [mcomix](/f16/package/mcomix) | 2297 | 2297 | 100.0 | Arch Linux Italian Team <giovanni@archlinux.org> | 
+ | [meego-panel-applications](/f16/package/meego-panel-applications) | 11 | 11 | 100.0 | Italian <tp@lists.linux.it> | 
+ | [meego-panel-datetime](/f16/package/meego-panel-datetime) | 71 | 71 | 100.0 |  | 
+ | [meego-panel-devices](/f16/package/meego-panel-devices) | 297 | 297 | 100.0 |  | 
+ | [meego-panel-myzone](/f16/package/meego-panel-myzone) | 151 | 151 | 100.0 | Italian <tp@lists.linux.it> | 
+ | [meego-panel-pasteboard](/f16/package/meego-panel-pasteboard) | 24 | 24 | 100.0 | Italian <tp@lists.linux.it> | 
+ | [meego-panel-people](/f16/package/meego-panel-people) | 75 | 75 | 100.0 | Italian <tp@lists.linux.it> | 
+ | [meego-panel-status](/f16/package/meego-panel-status) | 119 | 119 | 100.0 | Italian <tp@lists.linux.it> | 
+ | [meego-panel-zones](/f16/package/meego-panel-zones) | 33 | 33 | 100.0 | Italian <tp@lists.linux.it> | 
+ | [metacity](/f16/package/metacity) | 3700 | 3700 | 100.0 | Italian <tp@lists.linux.it> | 
+ | [midori](/f16/package/midori) | 2699 | 2699 | 100.0 | Italian <xfce-it-translators@googlegroups.com> | 
+ | [mingw-gtksourceview3](/f16/package/mingw-gtksourceview3) | 1532 | 1532 | 100.0 | Italian <tp@lists.linux.it> | 
+ | [mingw32-atk](/f16/package/mingw32-atk) | 398 | 398 | 100.0 | Italian <tp@lists.linux.it> | 
+ | [mingw32-gdk-pixbuf](/f16/package/mingw32-gdk-pixbuf) | 1313 | 1313 | 100.0 | Italian <tp@lists.linux.it> | 
+ | [mingw32-glib-networking](/f16/package/mingw32-glib-networking) | 86 | 86 | 100.0 | Italian <tp@lists.linux.it> | 
+ | [mingw32-glib2](/f16/package/mingw32-glib2) | 4777 | 4777 | 100.0 | Italiano <tp@lists.linux.it> | 
+ | [mingw32-gtk-vnc](/f16/package/mingw32-gtk-vnc) | 81 | 81 | 100.0 | Italian <tp@lists.linux.it> | 
+ | [mingw32-gtk2](/f16/package/mingw32-gtk2) | 12452 | 12452 | 100.0 | Italian <tp@lists.linux.it> | 
+ | [mingw32-gtkhtml3](/f16/package/mingw32-gtkhtml3) | 485 | 485 | 100.0 | Italian <tp@lists.linux.it> | 
+ | [mingw32-webkitgtk](/f16/package/mingw32-webkitgtk) | 1472 | 1472 | 100.0 | Italian <tp@lists.linux.it> | 
+ | [mlocate](/f16/package/mlocate) | 563 | 563 | 100.0 | Italiano <fedora-trans-it@redhat.com> | 
+ | [moin](/f16/package/moin) | 5023 | 5023 | 100.0 |  | 
+ | [mousepad](/f16/package/mousepad) | 135 | 135 | 100.0 | Italian <xfce-it-translators@googlegroup.com> | 
+ | [mousetweaks](/f16/package/mousetweaks) | 3905 | 3905 | 100.0 | Italian <tp@lists.linux.it> | 
+ | [muffin](/f16/package/muffin) | 2511 | 2511 | 100.0 | Italiano <tp@lists.linux.it> | 
+ | [multimedia-menus](/f16/package/multimedia-menus) | 56 | 56 | 100.0 | Italian | 
+ | [mutter](/f16/package/mutter) | 2511 | 2511 | 100.0 | Italiano <tp@lists.linux.it> | 
+ | [mutter-mbl](/f16/package/mutter-mbl) | 2423 | 2423 | 100.0 | Italian <tp@lists.linux.it> | 
+ | [mutter-meego](/f16/package/mutter-meego) | 136 | 136 | 100.0 | Italian <tp@lists.linux.it> | 
+ | [mypaint](/f16/package/mypaint) | 2265 | 2265 | 100.0 | Lamberto Tedaldi <lamberto.tedaldi@officinepixel.com> | 
+ | [nautilus](/f16/package/nautilus) | 7077 | 7077 | 100.0 | Italiano <tp@lists.linux.it> | 
+ | [nautilus-image-converter](/f16/package/nautilus-image-converter) | 21 | 21 | 100.0 | Italian <it@li.org> | 
+ | [nautilus-open-terminal](/f16/package/nautilus-open-terminal) | 166 | 166 | 100.0 | Italian <tp@lists.linux.it> | 
+ | [nautilus-search-tool](/f16/package/nautilus-search-tool) | 11 | 11 | 100.0 | Italian <Italian <tp@lists.linux.it>> | 
+ | [nautilus-sendto](/f16/package/nautilus-sendto) | 319 | 319 | 100.0 | Italian <tp@lists.linux.it> | 
+ | [nautilus-sound-converter](/f16/package/nautilus-sound-converter) | 159 | 159 | 100.0 | Italiana <tp@lists.linux.it> | 
+ | [net6](/f16/package/net6) | 304 | 304 | 100.0 | Italian <it@li.org> | 
+ | [newt](/f16/package/newt) | 4 | 4 | 100.0 | Debian Italian <debian-l10n-italian@lists.debian.org> | 
+ | [nightfall](/f16/package/nightfall) | 3451 | 3451 | 100.0 | italiano <it@li.org> | 
+ | [notification-daemon](/f16/package/notification-daemon) | 17 | 17 | 100.0 | Italian <tp@lists.linux.it> | 
+ | [nss-pam-ldapd](/f16/package/nss-pam-ldapd) | 518 | 518 | 100.0 | Italian <tp@lists.linux.it> | 
+ | [obby](/f16/package/obby) | 159 | 159 | 100.0 | Italian <it@li.org> | 
+ | [oggconvert](/f16/package/oggconvert) | 132 | 132 | 100.0 | Italian <it@li.org> | 
+ | [olpc-switch-desktop](/f16/package/olpc-switch-desktop) | 158 | 158 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [openteacher](/f16/package/openteacher) | 25 | 25 | 100.0 | Italian <it@li.org> | 
+ | [orca](/f16/package/orca) | 4314 | 4314 | 100.0 | Italian <tp@lists.linux.it> | 
+ | [pam_krb5](/f16/package/pam_krb5) | 7 | 7 | 100.0 | Italian <trans-it@lists.fedoraproject.org> | 
+ | [parcellite](/f16/package/parcellite) | 156 | 156 | 100.0 | Italian <tp@lists.linux.it> | 
+ | [passwd](/f16/package/passwd) | 299 | 299 | 100.0 | Italian <fedora-trans-it at redhat.com> | 
+ | [pastebinit](/f16/package/pastebinit) | 183 | 183 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [pcmanfm](/f16/package/pcmanfm) | 799 | 799 | 100.0 | Italian | 
+ | [perl-Padre](/f16/package/perl-Padre) | 5670 | 5670 | 100.0 | <simone.blandino@gmail.com> | 
+ | [perl-libintl](/f16/package/perl-libintl) | 19 | 19 | 100.0 | Italian <guido@imperia.net> | 
+ | [pessulus](/f16/package/pessulus) | 146 | 146 | 100.0 | Italian <tp@lists.linux.it> | 
+ | [php-horde-Horde-Cli](/f16/package/php-horde-Horde-Cli) | 11 | 11 | 100.0 | i18n@lists.horde.org | 
+ | [php-horde-Horde-Nls](/f16/package/php-horde-Horde-Nls) | 430 | 430 | 100.0 | i18n@lists.horde.org | 
+ | [picard](/f16/package/picard) | 1626 | 1626 | 100.0 | Italian (http://www.transifex.net/projects/p/musicbrainz/language/it/) | 
+ | [pidgin-musictracker](/f16/package/pidgin-musictracker) | 333 | 333 | 100.0 | Italian | 
+ | [pidgin-otr](/f16/package/pidgin-otr) | 550 | 550 | 100.0 | Vincenzo Reale <smart2128@baslug.org> | 
+ | [pikdev](/f16/package/pikdev) | 1993 | 1993 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [pinot](/f16/package/pinot) | 593 | 593 | 100.0 | Italian <it@li.org> | 
+ | [pioneers](/f16/package/pioneers) | 2554 | 2554 | 100.0 | it <it@li.org> | 
+ | [pitivi](/f16/package/pitivi) | 1580 | 1580 | 100.0 | Italiana <tp@lists.linux.it> | 
+ | [planner](/f16/package/planner) | 1834 | 1834 | 100.0 | Italian <tp@lists.linux.it> | 
+ | [pmount](/f16/package/pmount) | 723 | 723 | 100.0 | Italian <tp@lists.linux.it> | 
+ | [polkit-gnome](/f16/package/polkit-gnome) | 94 | 94 | 100.0 | Italiana <tp@lists.linux.it> | 
+ | [polkit-kde](/f16/package/polkit-kde) | 92 | 92 | 100.0 | Italian <kde-i18n-it@kde.org> | 
+ | [postgresql-jdbc](/f16/package/postgresql-jdbc) | 1433 | 1433 | 100.0 | Italian <tp@lists.linux.it> | 
+ | [preupgrade](/f16/package/preupgrade) | 801 | 801 | 100.0 | Italian <trans-it@lists.fedoraproject.org> | 
+ | [proftpd](/f16/package/proftpd) | 823 | 823 | 100.0 | Francesco Paolo Lovergine <frankie@debian.org> | 
+ | [prozilla](/f16/package/prozilla) | 1503 | 1503 | 100.0 | <de@li.org> | 
+ | [psad](/f16/package/psad) | 432 | 432 | 100.0 | Italian <tp@lists.linux.it> | 
+ | [publican-redhat](/f16/package/publican-redhat) | 220 | 220 | 100.0 | <it@li.org> | 
+ | [pulseaudio](/f16/package/pulseaudio) | 2849 | 2849 | 100.0 | Italian <tp@lists.linux.it> | 
+ | [purple-msn-pecan](/f16/package/purple-msn-pecan) | 960 | 960 | 100.0 | Italian <it@li.org> | 
+ | [pybliographer](/f16/package/pybliographer) | 573 | 573 | 100.0 | <tp@lists.linux.it> | 
+ | [python-meh](/f16/package/python-meh) | 269 | 269 | 100.0 | Italian | 
+ | [qt-recordmydesktop](/f16/package/qt-recordmydesktop) | 816 | 816 | 100.0 | Arch Linux Italian Team <linuxmania@gmail.com> | 
+ | [quitcount](/f16/package/quitcount) | 166 | 166 | 100.0 | it <iwkse@claws-mail.org> | 
+ | [readahead](/f16/package/readahead) | 129 | 129 | 100.0 | Italian <fedora-trans-it@redhat.com> | 
+ | [redhat-menus](/f16/package/redhat-menus) | 261 | 261 | 100.0 | Italiano <fedora-trans-it@redhat.com> | 
+ | [remmina-plugins](/f16/package/remmina-plugins) | 194 | 194 | 100.0 | Italian <it@li.org> | 
+ | [resapplet](/f16/package/resapplet) | 106 | 106 | 100.0 | Novell Language <language@novell.com> | 
+ | [revisor](/f16/package/revisor) | 4630 | 4630 | 100.0 | <it@li.org> | 
+ | [rhnsd](/f16/package/rhnsd) | 20 | 20 | 100.0 | <it@li.org> | 
+ | [ristretto](/f16/package/ristretto) | 374 | 374 | 100.0 | Italian Translation Team <xfce-it-translators@googlegroups.com> | 
+ | [root](/f16/package/root) | 211 | 211 | 100.0 | Italian <debian-l10n-italian@lists.debian.org> | 
+ | [rsibreak](/f16/package/rsibreak) | 1304 | 1304 | 100.0 | Italian <kde-i18n-it@lists.kde.org> | 
+ | [rygel](/f16/package/rygel) | 554 | 554 | 100.0 | Italian <tp@lists.linux.it> | 
+ | [sabayon](/f16/package/sabayon) | 743 | 743 | 100.0 | Italiana <tp@lists.linux.it> | 
+ | [scim](/f16/package/scim) | 1164 | 1164 | 100.0 |  | 
+ | [scim-hangul](/f16/package/scim-hangul) | 19 | 19 | 100.0 | Italian <kde-i18n-it@kde.org> | 
+ | [scim-tables](/f16/package/scim-tables) | 1153 | 1153 | 100.0 | Italian <kde-i18n-it@kde.org> | 
+ | [scummvm](/f16/package/scummvm) | 2651 | 2651 | 100.0 | Italian | 
+ | [seahorse](/f16/package/seahorse) | 5591 | 5591 | 100.0 | Italian <tp@lists.linux.it> | 
+ | [seahorse-plugins](/f16/package/seahorse-plugins) | 3533 | 3533 | 100.0 | Italian <tp@lists.linux.it> | 
+ | [sectool](/f16/package/sectool) | 2411 | 2411 | 100.0 | Italiano <fedora-trans-it@redhat.com> | 
+ | [setroubleshoot](/f16/package/setroubleshoot) | 562 | 562 | 100.0 | Italian <trans-it@lists.fedoraproject.org> | 
+ | [setroubleshoot-plugins](/f16/package/setroubleshoot-plugins) | 8291 | 8291 | 100.0 | Italian <trans-it@lists.fedoraproject.org> | 
+ | [setuptool](/f16/package/setuptool) | 55 | 55 | 100.0 | Italiano <fedora-trans-it@redhat.com> | 
+ | [shotwell](/f16/package/shotwell) | 3919 | 3919 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [shutter](/f16/package/shutter) | 3351 | 3351 | 100.0 | Italian <it@li.org> | 
+ | [simple-scan](/f16/package/simple-scan) | 651 | 651 | 100.0 | Italian <it@li.org> | 
+ | [six](/f16/package/six) | 233 | 233 | 100.0 | Italian <kde-i18n-it@kde.org> | 
+ | [skanlite](/f16/package/skanlite) | 175 | 175 | 100.0 | Italian <kde-i18n-it@kde.org> | 
+ | [smart](/f16/package/smart) | 4521 | 4521 | 100.0 | Italian | 
+ | [smolt](/f16/package/smolt) | 1174 | 1174 | 100.0 | <it@li.org> | 
+ | [sos](/f16/package/sos) | 267 | 267 | 100.0 | <it@li.org> | 
+ | [sound-juicer](/f16/package/sound-juicer) | 986 | 986 | 100.0 | Italian <tp@lists.linux.it> | 
+ | [specto](/f16/package/specto) | 675 | 675 | 100.0 | Italian Translation Team <it@li.org> | 
+ | [speedcrunch](/f16/package/speedcrunch) | 18 | 18 | 100.0 | it | 
+ | [squirrelmail](/f16/package/squirrelmail) | 10024 | 10024 | 100.0 | Italian <squirrelmail-i18n@lists.sourceforge.net> | 
+ | [sudo](/f16/package/sudo) | 871 | 871 | 100.0 | Italian <tp@lists.linux.it> | 
+ | [sugar-abacus](/f16/package/sugar-abacus) | 24 | 24 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-base](/f16/package/sugar-base) | 5 | 5 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-browse](/f16/package/sugar-browse) | 57 | 57 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-chat](/f16/package/sugar-chat) | 50 | 50 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-connect](/f16/package/sugar-connect) | 36 | 36 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-finance](/f16/package/sugar-finance) | 143 | 143 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-imageviewer](/f16/package/sugar-imageviewer) | 24 | 24 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-physics](/f16/package/sugar-physics) | 28 | 28 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-playgo](/f16/package/sugar-playgo) | 85 | 85 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-surf](/f16/package/sugar-surf) | 53 | 53 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-toolkit](/f16/package/sugar-toolkit) | 78 | 78 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-view-slides](/f16/package/sugar-view-slides) | 7 | 7 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-visualmatch](/f16/package/sugar-visualmatch) | 141 | 141 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-write](/f16/package/sugar-write) | 81 | 81 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [supertuxkart](/f16/package/supertuxkart) | 1658 | 1658 | 100.0 | STK italian <pvinci26@hotmail.it> | 
+ | [sushi](/f16/package/sushi) | 15 | 15 | 100.0 | Italian <tp@lists.linu.it> | 
+ | [sweep](/f16/package/sweep) | 2399 | 2399 | 100.0 | Italian <tp@lists.linux.it> | 
+ | [switchdesk](/f16/package/switchdesk) | 139 | 139 | 100.0 | Italiano <fedora-trans-it@redhat.com> | 
+ | [synapse](/f16/package/synapse) | 581 | 581 | 100.0 | Italian <it@li.org> | 
+ | [syncevolution](/f16/package/syncevolution) | 1119 | 1119 | 100.0 | Italian <tp@lists.linux.it> | 
+ | [sysstat](/f16/package/sysstat) | 512 | 512 | 100.0 | Italian <tp@lists.linux.it> | 
+ | [system-config-audit](/f16/package/system-config-audit) | 1241 | 1241 | 100.0 | Italian <trans-it@lists.fedoraproject.org> | 
+ | [system-config-bind](/f16/package/system-config-bind) | 9434 | 9434 | 100.0 | Italiano <fedora-trans-it@redhat.com> | 
+ | [system-config-boot](/f16/package/system-config-boot) | 119 | 119 | 100.0 | <it@li.org> | 
+ | [system-config-date-docs](/f16/package/system-config-date-docs) | 739 | 739 | 100.0 | <it@li.org> | 
+ | [system-config-httpd](/f16/package/system-config-httpd) | 877 | 877 | 100.0 | Italian <fedora-trans-it@redhat.com> | 
+ | [system-config-keyboard](/f16/package/system-config-keyboard) | 187 | 187 | 100.0 | <it@li.org> | 
+ | [system-config-kickstart](/f16/package/system-config-kickstart) | 1104 | 1104 | 100.0 | <it@li.org> | 
+ | [system-config-lvm](/f16/package/system-config-lvm) | 2246 | 2246 | 100.0 | <it@li.org> | 
+ | [system-config-netboot](/f16/package/system-config-netboot) | 1135 | 1135 | 100.0 | Italian <fedora-trans-it@redhat.com> | 
+ | [system-config-nfs](/f16/package/system-config-nfs) | 332 | 332 | 100.0 | Italian <fedora-trans-it@redhat.com> | 
+ | [system-config-nfs-docs](/f16/package/system-config-nfs-docs) | 1192 | 1192 | 100.0 | <it@li.org> | 
+ | [system-config-rootpassword](/f16/package/system-config-rootpassword) | 116 | 116 | 100.0 | Italiano <fedora-trans-it@redhat.com> | 
+ | [system-config-samba](/f16/package/system-config-samba) | 571 | 571 | 100.0 | Italian <trans-it@lists.fedoraproject.org> | 
+ | [system-config-samba-docs](/f16/package/system-config-samba-docs) | 1195 | 1195 | 100.0 | <it@li.org> | 
+ | [system-config-services](/f16/package/system-config-services) | 518 | 518 | 100.0 | Italian <trans-it@lists.fedoraproject.org> | 
+ | [system-config-services-docs](/f16/package/system-config-services-docs) | 638 | 638 | 100.0 | Italian <fedora-trans-it@redhat.com> | 
+ | [system-config-users](/f16/package/system-config-users) | 1452 | 1452 | 100.0 | Italian <trans-it@lists.fedoraproject.org> | 
+ | [system-config-users-docs](/f16/package/system-config-users-docs) | 1061 | 1061 | 100.0 | <it@li.org> | 
+ | [system-switch-java](/f16/package/system-switch-java) | 81 | 81 | 100.0 | Italian | 
+ | [system-switch-mail](/f16/package/system-switch-mail) | 158 | 158 | 100.0 | Italiano <fedora-trans-it@redhat.com> | 
+ | [tasks](/f16/package/tasks) | 300 | 300 | 100.0 | Italian <tp@lists.linux.it> | 
+ | [tasque](/f16/package/tasque) | 196 | 196 | 100.0 | Italian <tp@lists.linux.it> | 
+ | [taxipilot](/f16/package/taxipilot) | 975 | 975 | 100.0 | Italian <kde-i18n-it@kde.org> | 
+ | [terminator](/f16/package/terminator) | 339 | 339 | 100.0 | Romanian <ro@li.org> | 
+ | [thunar-archive-plugin](/f16/package/thunar-archive-plugin) | 86 | 86 | 100.0 | Italian <xfce-i18n@xfce.org> | 
+ | [thunar-vfs](/f16/package/thunar-vfs) | 387 | 387 | 100.0 | Italian Translation Team <xfce-it-translators@googlegroups.com> | 
+ | [tomboy](/f16/package/tomboy) | 7414 | 7414 | 100.0 | Italian <tp@lists.linux.it> | 
+ | [totem-pl-parser](/f16/package/totem-pl-parser) | 28 | 28 | 100.0 | Italian <tp@lists.linux.it> | 
+ | [trac](/f16/package/trac) | 5585 | 5585 | 100.0 | it_IT <trac-dev@googlegroups.com> | 
+ | [trac-tickettemplate-plugin](/f16/package/trac-tickettemplate-plugin) | 48 | 48 | 100.0 | Italian it_IT <trac-dev@googlegroups.com> | 
+ | [tucan](/f16/package/tucan) | 114 | 114 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [tumbler](/f16/package/tumbler) | 343 | 343 | 100.0 | Italian Translation Team <xfce-it-translators@googlegroups.com> | 
+ | [turba](/f16/package/turba) | 1658 | 1658 | 100.0 | Italian <dev@lists.horde.org> | 
+ | [txt2regex](/f16/package/txt2regex) | 277 | 277 | 100.0 | <it@li.org> | 
+ | [txt2tags](/f16/package/txt2tags) | 596 | 596 | 100.0 | it_IT team | 
+ | [uget](/f16/package/uget) | 583 | 583 | 100.0 | Italiano <it@li.org> | 
+ | [upower](/f16/package/upower) | 113 | 113 | 100.0 | Italian <tp@lists.linux.it> | 
+ | [usermode](/f16/package/usermode) | 572 | 572 | 100.0 | Italian <trans-it@lists.fedoraproject.org> | 
+ | [vdr](/f16/package/vdr) | 832 | 832 | 100.0 | Italian | 
+ | [vdr-epgsearch](/f16/package/vdr-epgsearch) | 2437 | 2437 | 100.0 | Italian <vdr@linuxtv.org> | 
+ | [vdr-femon](/f16/package/vdr-femon) | 315 | 315 | 100.0 | <vdr@linuxtv.org> | 
+ | [vdr-osdteletext](/f16/package/vdr-osdteletext) | 44 | 44 | 100.0 | Italian <vdr@linuxtv.org> | 
+ | [vdr-remote](/f16/package/vdr-remote) | 48 | 48 | 100.0 | <vdr@linuxtv.org> | 
+ | [vdr-screenshot](/f16/package/vdr-screenshot) | 35 | 35 | 100.0 | <vdr@linuxtv.org> | 
+ | [vdr-skinenigmang](/f16/package/vdr-skinenigmang) | 322 | 322 | 100.0 | <vdr@linuxtv.org> | 
+ | [vdr-skinsoppalusikka](/f16/package/vdr-skinsoppalusikka) | 137 | 137 | 100.0 | <vdr@linuxtv.org> | 
+ | [vdr-streamdev](/f16/package/vdr-streamdev) | 84 | 84 | 100.0 | <vdr@linuxtv.org> | 
+ | [vdr-sudoku](/f16/package/vdr-sudoku) | 105 | 105 | 100.0 | <vdr@linuxtv.org> | 
+ | [vdr-text2skin](/f16/package/vdr-text2skin) | 59 | 59 | 100.0 | Italian <vdr@linuxtv.org> | 
+ | [vdr-ttxtsubs](/f16/package/vdr-ttxtsubs) | 110 | 110 | 100.0 | <vdr@linuxtv.org> | 
+ | [viewnior](/f16/package/viewnior) | 387 | 387 | 100.0 | Italian <it@li.org> | 
+ | [vim](/f16/package/vim) | 8758 | 8758 | 100.0 | Italian                   Antonio Colombo <azc100@gmail.com>                   Vlad Sandrini <vlad.gently@gmail.com>                   Luciano Montanaro <mikelima@cirulla.net> | 
+ | [vinagre](/f16/package/vinagre) | 1420 | 1420 | 100.0 | Italian <tp@lists.linux.it> | 
+ | [vino](/f16/package/vino) | 1194 | 1194 | 100.0 | Italian <tp@lists.linux.it> | 
+ | [virt-viewer](/f16/package/virt-viewer) | 321 | 321 | 100.0 | Italian <trans-it@lists.fedoraproject.org> | 
+ | [virtaal](/f16/package/virtaal) | 1171 | 1171 | 100.0 | Diego Donati | 
+ | [vte](/f16/package/vte) | 80 | 80 | 100.0 | Italian <tp@lists.linux.it> | 
+ | [vte3](/f16/package/vte3) | 80 | 80 | 100.0 | Italian <tp@lists.linux.it> | 
+ | [wallpapoz](/f16/package/wallpapoz) | 395 | 395 | 100.0 | Italian <tp@lists.linux.it> | 
+ | [wastesedge](/f16/package/wastesedge) | 19975 | 19975 | 100.0 | Italian | 
+ | [webkitgtk](/f16/package/webkitgtk) | 1472 | 1472 | 100.0 | Italian <tp@lists.linux.it> | 
+ | [webkitgtk3](/f16/package/webkitgtk3) | 1472 | 1472 | 100.0 | Italian <tp@lists.linux.it> | 
+ | [wget](/f16/package/wget) | 2260 | 2260 | 100.0 | Italian <tp@lists.linux.it> | 
+ | [whaawmp](/f16/package/whaawmp) | 799 | 799 | 100.0 | Italian <it@li.org> | 
+ | [whois](/f16/package/whois) | 459 | 459 | 100.0 | Italian <tp@lists.linux.it> | 
+ | [widelands](/f16/package/widelands) | 36101 | 36101 | 100.0 | Italian <it@li.org> | 
+ | [wine-docs](/f16/package/wine-docs) | 1245 | 1245 | 100.0 | Italian <tp@lists.linux.it> | 
+ | [wormux](/f16/package/wormux) | 1916 | 1916 | 100.0 | <it@li.org> | 
+ | [wxpropgrid](/f16/package/wxpropgrid) | 85 | 85 | 100.0 | it_IT <salvois@users.sourceforge.net> | 
+ | [x-tile](/f16/package/x-tile) | 732 | 732 | 100.0 | Italian | 
+ | [xcdroast](/f16/package/xcdroast) | 8044 | 8044 | 100.0 | Italiano <it@li.org> | 
+ | [xchat-gnome](/f16/package/xchat-gnome) | 6131 | 6131 | 100.0 | Italian <tp@lists.linux.it> | 
+ | [xdg-user-dirs](/f16/package/xdg-user-dirs) | 28 | 28 | 100.0 | Italian <tp@lists.linux.it> | 
+ | [xdg-user-dirs-gtk](/f16/package/xdg-user-dirs-gtk) | 81 | 81 | 100.0 | Italian <tp@lists.linux.it> | 
+ | [xdialog](/f16/package/xdialog) | 21 | 21 | 100.0 | Italian | 
+ | [xfburn](/f16/package/xfburn) | 1300 | 1300 | 100.0 | Italian Translation Team <xfce-it-translators@googlegroups.com> | 
+ | [xfce-utils](/f16/package/xfce-utils) | 3129 | 3129 | 100.0 | Italian <xfce-it-translators@googlegroups.com> | 
+ | [xfce4-appfinder](/f16/package/xfce4-appfinder) | 71 | 71 | 100.0 | Italian <tp@lists.linux.it> | 
+ | [xfce4-battery-plugin](/f16/package/xfce4-battery-plugin) | 127 | 127 | 100.0 | Italian <xfce-i18n@xfce.org> | 
+ | [xfce4-cpufreq-plugin](/f16/package/xfce4-cpufreq-plugin) | 97 | 97 | 100.0 | Italian <xfce-i18n@xfce.org> | 
+ | [xfce4-cpugraph-plugin](/f16/package/xfce4-cpugraph-plugin) | 71 | 71 | 100.0 | Italian <xfce-it-translators@googlegroups.com> | 
+ | [xfce4-diskperf-plugin](/f16/package/xfce4-diskperf-plugin) | 185 | 185 | 100.0 | Darkforge Team <www.darkforge.it> | 
+ | [xfce4-eyes-plugin](/f16/package/xfce4-eyes-plugin) | 9 | 9 | 100.0 | Italian <xfce-i18n@xfce.org> | 
+ | [xfce4-fsguard-plugin](/f16/package/xfce4-fsguard-plugin) | 71 | 71 | 100.0 | Italian Translation Team <xfce-it-translators@googlegroups.com> | 
+ | [xfce4-genmon-plugin](/f16/package/xfce4-genmon-plugin) | 86 | 86 | 100.0 | Italian <xfce-it-translators@googlegroups.com> | 
+ | [xfce4-mixer](/f16/package/xfce4-mixer) | 181 | 181 | 100.0 | Italian Translation Team <xfce-it-translators@googlegroups.com> | 
+ | [xfce4-mpc-plugin](/f16/package/xfce4-mpc-plugin) | 80 | 80 | 100.0 | Italian <xfce-it-translators@googlegroups.com> | 
+ | [xfce4-netload-plugin](/f16/package/xfce4-netload-plugin) | 79 | 79 | 100.0 | Italian <xfce-i18n@xfce.org> | 
+ | [xfce4-notes-plugin](/f16/package/xfce4-notes-plugin) | 111 | 111 | 100.0 | Italian <xfce-it-translators@googlegroups.com> | 
+ | [xfce4-notifyd](/f16/package/xfce4-notifyd) | 94 | 94 | 100.0 | Italian Translation Team <xfce-it-translators@googlegroups.com> | 
+ | [xfce4-panel](/f16/package/xfce4-panel) | 1510 | 1510 | 100.0 | Italian Translation Team <xfce-it-translators@googlegroups.com> | 
+ | [xfce4-places-plugin](/f16/package/xfce4-places-plugin) | 43 | 43 | 100.0 | Italian Translation Team <xfce-it-translators@googlegroups.com> | 
+ | [xfce4-power-manager](/f16/package/xfce4-power-manager) | 746 | 746 | 100.0 | Italian Translation Team <xfce-it-translators@googlegroups.com> | 
+ | [xfce4-radio-plugin](/f16/package/xfce4-radio-plugin) | 118 | 118 | 100.0 | Darkforge <www.darkforge.it> | 
+ | [xfce4-screenshooter](/f16/package/xfce4-screenshooter) | 443 | 443 | 100.0 | it <xfce-it-translators@googlegroups.com> | 
+ | [xfce4-session](/f16/package/xfce4-session) | 2603 | 2603 | 100.0 | Italian <xfce-it-translators@googlegroups.com> | 
+ | [xfce4-settings](/f16/package/xfce4-settings) | 1277 | 1277 | 100.0 | Italian Translation Team <xfce-it-translators@googlegroups.com> | 
+ | [xfce4-smartbookmark-plugin](/f16/package/xfce4-smartbookmark-plugin) | 14 | 14 | 100.0 | Italian Translation Team <xfce-it-translators@googlegroups> | 
+ | [xfce4-systemload-plugin](/f16/package/xfce4-systemload-plugin) | 63 | 63 | 100.0 | Italian <xfce-it-translators@googlegroups.com> | 
+ | [xfce4-time-out-plugin](/f16/package/xfce4-time-out-plugin) | 88 | 88 | 100.0 | Italian <xfce-it-translators@googlegroups.com> | 
+ | [xfce4-verve-plugin](/f16/package/xfce4-verve-plugin) | 47 | 47 | 100.0 | Italian <xfce-i18n@xfce.org> | 
+ | [xfce4-wavelan-plugin](/f16/package/xfce4-wavelan-plugin) | 49 | 49 | 100.0 | Italian <xfce-i18n@xfce.org> | 
+ | [xfce4-wmdock-plugin](/f16/package/xfce4-wmdock-plugin) | 52 | 52 | 100.0 | Italian Translation Team <xfce-it-translators@googlegroups.com> | 
+ | [xfce4-xfswitch-plugin](/f16/package/xfce4-xfswitch-plugin) | 20 | 20 | 100.0 | Italian <xfce-it-translators@googlegroups.com> | 
+ | [xfce4-xkb-plugin](/f16/package/xfce4-xkb-plugin) | 72 | 72 | 100.0 | Italian <xfce-it-translators@googlegroups.com> | 
+ | [xfconf](/f16/package/xfconf) | 437 | 437 | 100.0 | Italian Translation Team <xfce-it-translators@googlegroups.com> | 
+ | [xfdesktop](/f16/package/xfdesktop) | 2729 | 2729 | 100.0 | Italian Translation Team <xfce-it-translators@googlegroups.com> | 
+ | [xfwm4](/f16/package/xfwm4) | 3616 | 3616 | 100.0 | Italian <xfce-it-translators@googlegroups.com> | 
+ | [xkeyboard-config](/f16/package/xkeyboard-config) | 3139 | 3139 | 100.0 | Italian <tp@lists.linux.it> | 
+ | [yakuake](/f16/package/yakuake) | 1439 | 1439 | 100.0 | Italian <kde-i18n-it@kde.org> | 
+ | [yelp](/f16/package/yelp) | 488 | 488 | 100.0 | Italian <tp@lists.linux.it> | 
+ | [yelp-xsl](/f16/package/yelp-xsl) | 70 | 70 | 100.0 | Italian <tp@lists.linux.it> | 
+ | [yum-rhn-plugin](/f16/package/yum-rhn-plugin) | 204 | 204 | 100.0 | <it@li.org> | 
+ | [zaz](/f16/package/zaz) | 229 | 229 | 100.0 | Andrea Musuruane <musuruan@gmail.com> | 
+ | [zenity](/f16/package/zenity) | 704 | 704 | 100.0 | Italian <tp@lists.linux.it> | 
+ | [darktable](/f16/package/darktable) | 6130 | 6131 | 100.0 |  | 
+ | [gallery2](/f16/package/gallery2) | 17786 | 17793 | 100.0 | Italian | 
+ | [lynx](/f16/package/lynx) | 8049 | 8053 | 100.0 | Italian <tp@lists.linux.it> | 
+ | [git-cola](/f16/package/git-cola) | 1915 | 1916 | 99.9 | Italian <tp@lists.linux.it> | 
+ | [tuxpaint-stamps](/f16/package/tuxpaint-stamps) | 2709 | 2711 | 99.9 | Simona Riva <simona.riva@tiscali.it> | 
+ | [kmplayer](/f16/package/kmplayer) | 1248 | 1249 | 99.9 | Italian <kde-i18n-it@kde.org> | 
+ | [gphoto2](/f16/package/gphoto2) | 1597 | 1599 | 99.9 | Italian <tp@lists.linux.it> | 
+ | [hotot](/f16/package/hotot) | 714 | 715 | 99.9 | Italiano/Italia | 
+ | [tar](/f16/package/tar) | 3312 | 3317 | 99.8 | Italian <tp@lists.linux.it> | 
+ | [rhythmbox](/f16/package/rhythmbox) | 9693 | 9708 | 99.8 | Italian <tp@lists.linux.it> | 
+ | [tracker](/f16/package/tracker) | 1713 | 1716 | 99.8 | Italian <tp@lists.linux.it> | 
+ | [parted](/f16/package/parted) | 3359 | 3365 | 99.8 | Italian <tp@lists.linux.it> | 
+ | [shared-mime-info](/f16/package/shared-mime-info) | 1656 | 1659 | 99.8 | Italian (http://www.transifex.net/projects/p/freedesktop/team/it/) | 
+ | [schroot](/f16/package/schroot) | 1604 | 1607 | 99.8 | Italian <tp@lists.linux.it> | 
+ | [epiphany](/f16/package/epiphany) | 8253 | 8269 | 99.8 | Italian <tp@lists.linux.li> | 
+ | [cgit](/f16/package/cgit) | 3450 | 3457 | 99.8 | Italian <tp@lists.linux.it> | 
+ | [git](/f16/package/git) | 3450 | 3457 | 99.8 | Italian <tp@lists.linux.it> | 
+ | [gitweb-caching](/f16/package/gitweb-caching) | 3449 | 3456 | 99.8 | Italian <tp@lists.linux.it> | 
+ | [coreutils](/f16/package/coreutils) | 19023 | 19063 | 99.8 | Italian <tp@lists.linux.it> | 
+ | [kover](/f16/package/kover) | 455 | 456 | 99.8 | italiano <tp@lists.linux.it> | 
+ | [xaos](/f16/package/xaos) | 905 | 907 | 99.8 | Italian <it@li.org> | 
+ | [konversation](/f16/package/konversation) | 10596 | 10622 | 99.8 | Italian <kde-i18n-it@kde.org> | 
+ | [system-config-firewall](/f16/package/system-config-firewall) | 2807 | 2814 | 99.8 | <it@li.org> | 
+ | [xsane](/f16/package/xsane) | 3215 | 3224 | 99.7 | Italiano <it@li.org> | 
+ | [gtick](/f16/package/gtick) | 335 | 336 | 99.7 | Italian <tp@lists.linux.it> | 
+ | [WindowMaker](/f16/package/WindowMaker) | 4301 | 4314 | 99.7 | Italian <tp@lists.linux.it@li.org> | 
+ | [system-config-network](/f16/package/system-config-network) | 3022 | 3032 | 99.7 | <it@li.org> | 
+ | [bibletime](/f16/package/bibletime) | 9694 | 9733 | 99.6 | Italian <kde-i18n-it@kde.org> | 
+ | [gambas](/f16/package/gambas) | 2454 | 2464 | 99.6 | LANGUAGE <LL@li.org> | 
+ | [digikam](/f16/package/digikam) | 40950 | 41127 | 99.6 | Italian <kde-i18n-it@kde.org> | 
+ | [asunder](/f16/package/asunder) | 452 | 454 | 99.6 | <LL@li.org> | 
+ | [kmess](/f16/package/kmess) | 7369 | 7402 | 99.6 | Italian <kde-i18n-it@kde.org> | 
+ | [postler](/f16/package/postler) | 886 | 890 | 99.6 | Italian Translation Team <xfce-it-translators@googlegroups.com> | 
+ | [celestia](/f16/package/celestia) | 1970 | 1979 | 99.5 | Italian <tp@lists.linux.it> | 
+ | [clipit](/f16/package/clipit) | 217 | 218 | 99.5 | Italian (http://www.transifex.net/projects/p/clipit/language/it/) | 
+ | [klavaro](/f16/package/klavaro) | 1904 | 1913 | 99.5 | Italian <tp@lists.linux.it> | 
+ | [rekonq](/f16/package/rekonq) | 2321 | 2332 | 99.5 | Italian <kde-i18n-it@kde.org> | 
+ | [e16](/f16/package/e16) | 2818 | 2832 | 99.5 | none | 
+ | [pam](/f16/package/pam) | 599 | 602 | 99.5 | Italian <fedora-trans-it at redhat.com> | 
+ | [orage](/f16/package/orage) | 2380 | 2392 | 99.5 | Italian <xfce-it-translators@googlegroups.com> | 
+ | [warzone2100](/f16/package/warzone2100) | 12756 | 12822 | 99.5 | Italian <warzone-dev@gna.org> | 
+ | [libuser](/f16/package/libuser) | 1140 | 1146 | 99.5 | Italian <trans-it@lists.fedoraproject.org> | 
+ | [sugar-infoslicer](/f16/package/sugar-infoslicer) | 183 | 184 | 99.5 | LANGUAGE <LL@li.org> | 
+ | [blender](/f16/package/blender) | 24957 | 25095 | 99.5 |  | 
+ | [system-config-printer](/f16/package/system-config-printer) | 3039 | 3057 | 99.4 | Italian <trans-it@lists.fedoraproject.org> | 
+ | [ncpfs](/f16/package/ncpfs) | 5632 | 5666 | 99.4 | Novell Language <language@novell.com> | 
+ | [gshutdown](/f16/package/gshutdown) | 489 | 492 | 99.4 | Andrea Carnaroli <vongola15@libero.it> | 
+ | [teg](/f16/package/teg) | 2363 | 2378 | 99.4 |  | 
+ | [ario](/f16/package/ario) | 775 | 780 | 99.4 | Italian <it@li.org> | 
+ | [ibus](/f16/package/ibus) | 584 | 588 | 99.3 | <it@li.org> | 
+ | [pdfmod](/f16/package/pdfmod) | 249 | 251 | 99.2 | Italian <tp@lists.linux.it> | 
+ | [osmo](/f16/package/osmo) | 1685 | 1699 | 99.2 | Italian | 
+ | [gstreamer](/f16/package/gstreamer) | 1898 | 1914 | 99.2 | Italian <tp@lists.linux.it> | 
+ | [mingw-gstreamer](/f16/package/mingw-gstreamer) | 1898 | 1914 | 99.2 | Italian <tp@lists.linux.it> | 
+ | [lilyterm](/f16/package/lilyterm) | 1324 | 1336 | 99.1 | Italian <IT@li.org> | 
+ | [mate-themes](/f16/package/mate-themes) | 108 | 109 | 99.1 | Italian (http://www.transifex.com/projects/p/MATE/language/it/) | 
+ | [publican-fedora](/f16/package/publican-fedora) | 106 | 107 | 99.1 | <it@li.org> | 
+ | [duplicity](/f16/package/duplicity) | 3224 | 3256 | 99.0 | Italian <it@li.org> | 
+ | [ghex](/f16/package/ghex) | 2492 | 2517 | 99.0 | LANGUAGE <LL@li.org> | 
+ | [vdradmin-am](/f16/package/vdradmin-am) | 4152 | 4194 | 99.0 | Italian <vdr-italian@tiscali.it> | 
+ | [xmoto](/f16/package/xmoto) | 3790 | 3829 | 99.0 | <XMoto> | 
+ | [drupal-service_links](/f16/package/drupal-service_links) | 284 | 287 | 99.0 | Michele Agostinelli <foremanREMOVEME@tiscali.it> | 
+ | [boinc-client](/f16/package/boinc-client) | 4455 | 4504 | 98.9 | LANGUAGE <LL@li.org> | 
+ | [rapid-photo-downloader](/f16/package/rapid-photo-downloader) | 1718 | 1737 | 98.9 | Italian <it@li.org> | 
+ | [sugar-moon](/f16/package/sugar-moon) | 90 | 91 | 98.9 | Spanish <LL@li.org> | 
+ | [mailman](/f16/package/mailman) | 21768 | 22012 | 98.9 | <it@li.org> | 
+ | [ntfs-config](/f16/package/ntfs-config) | 353 | 357 | 98.9 | Italian <it@li.org> | 
+ | [synfigstudio](/f16/package/synfigstudio) | 3922 | 3967 | 98.9 | LANGUAGE <LL@li.org> | 
+ | [kaudiocreator](/f16/package/kaudiocreator) | 1123 | 1136 | 98.9 | Italian <kde-i18n-it@kde.org> | 
+ | [mate-panel](/f16/package/mate-panel) | 6204 | 6277 | 98.8 |  | 
+ | [wesnoth](/f16/package/wesnoth) | 224234 | 226913 | 98.8 | Italian <kde-i18n-it@kde.org> | 
+ | [poedit](/f16/package/poedit) | 1148 | 1162 | 98.8 | Italian <en@li.org> | 
+ | [sharutils](/f16/package/sharutils) | 1042 | 1055 | 98.8 | Italian <tp@lists.linux.it> | 
+ | [gretl](/f16/package/gretl) | 13962 | 14137 | 98.8 | Italian <tp@lists.linux.it> | 
+ | [gnomad2](/f16/package/gnomad2) | 694 | 703 | 98.7 | Italiano <it@li.org> | 
+ | [fslint](/f16/package/fslint) | 383 | 388 | 98.7 | Italian <it@li.org> | 
+ | [krusader](/f16/package/krusader) | 7852 | 7956 | 98.7 | Italian <kde-i18n-it@kde.org> | 
+ | [synfig](/f16/package/synfig) | 3936 | 3989 | 98.7 | LANGUAGE <LL@li.org> | 
+ | [ufraw](/f16/package/ufraw) | 2110 | 2139 | 98.6 | Italian <tp@lists.linux.it> | 
+ | [koverartist](/f16/package/koverartist) | 650 | 659 | 98.6 | <de@li.org> | 
+ | [pidgin](/f16/package/pidgin) | 18102 | 18356 | 98.6 | Italian <tp@lists.linux.it> | 
+ | [pogo](/f16/package/pogo) | 568 | 576 | 98.6 | Italian <it@li.org> | 
+ | [gnucash](/f16/package/gnucash) | 26349 | 26722 | 98.6 | Italian <gnucash-it@gnucash.org> | 
+ | [fetchmail](/f16/package/fetchmail) | 4283 | 4345 | 98.6 | Italian <tp@lists.linux.it> | 
+ | [pinta](/f16/package/pinta) | 1024 | 1040 | 98.5 | Italian <it@li.org> | 
+ | [tagtool](/f16/package/tagtool) | 943 | 958 | 98.4 | tagtool-it <emisca@rocketmail.com> | 
+ | [grub2](/f16/package/grub2) | 2424 | 2463 | 98.4 | Italian <tp@lists.linux.it> | 
+ | [rt3](/f16/package/rt3) | 9255 | 9405 | 98.4 | rt-devel <rt-devel@lists.bestpractical.com> | 
+ | [kpackagekit](/f16/package/kpackagekit) | 3587 | 3646 | 98.4 | Italian <kde-i18n-it@kde.org> | 
+ | [gmusicbrowser](/f16/package/gmusicbrowser) | 4641 | 4718 | 98.4 | Italian | 
+ | [abook](/f16/package/abook) | 715 | 727 | 98.3 | none | 
+ | [subdownloader](/f16/package/subdownloader) | 952 | 968 | 98.3 | LANGUAGE <LL@li.org> | 
+ | [python-virtinst](/f16/package/python-virtinst) | 3848 | 3913 | 98.3 | LANGUAGE <LL@li.org> | 
+ | [griffith](/f16/package/griffith) | 1823 | 1854 | 98.3 | <tp@lists.linux.it> | 
+ | [cryptsetup-luks](/f16/package/cryptsetup-luks) | 1324 | 1348 | 98.2 | Italian <tp@lists.linux.it> | 
+ | [xine-ui](/f16/package/xine-ui) | 2903 | 2959 | 98.1 | Italian | 
+ | [Zim](/f16/package/Zim) | 2483 | 2533 | 98.0 | Italian <it@li.org> | 
+ | [bzflag](/f16/package/bzflag) | 2655 | 2711 | 97.9 |  | 
+ | [listen](/f16/package/listen) | 1745 | 1783 | 97.9 | Italian <tp@lists.linux.it> | 
+ | [evolution-rss](/f16/package/evolution-rss) | 578 | 591 | 97.8 | ITALIAN <tp@linux.lists.it> | 
+ | [gtkpod](/f16/package/gtkpod) | 6656 | 6812 | 97.7 | Italian <tp@lists.linux.it> | 
+ | [sugar-tamtam](/f16/package/sugar-tamtam) | 2028 | 2077 | 97.6 | LANGUAGE <LL@li.org> | 
+ | [sugar-labyrinth](/f16/package/sugar-labyrinth) | 248 | 254 | 97.6 | LANGUAGE <LL@li.org> | 
+ | [rednotebook](/f16/package/rednotebook) | 1029 | 1054 | 97.6 | Italian <it@li.org> | 
+ | [k3b](/f16/package/k3b) | 19935 | 20423 | 97.6 | Italian <kde-i18n-it@kde.org> | 
+ | [postr](/f16/package/postr) | 79 | 81 | 97.5 | Italian <it@li.org> | 
+ | [epdfview](/f16/package/epdfview) | 472 | 484 | 97.5 | Italian | 
+ | [xmlcopyeditor](/f16/package/xmlcopyeditor) | 1321 | 1355 | 97.5 |  | 
+ | [balsa](/f16/package/balsa) | 5631 | 5777 | 97.5 | Italian <tp@lists.linux.it> | 
+ | [jmol](/f16/package/jmol) | 2660 | 2731 | 97.4 | Italian <it@li.org> | 
+ | [catfish](/f16/package/catfish) | 74 | 76 | 97.4 | Italian <it@li.org> | 
+ | [kanatest](/f16/package/kanatest) | 395 | 406 | 97.3 | Italian | 
+ | [gphotoframe](/f16/package/gphotoframe) | 3409 | 3509 | 97.2 |  | 
+ | [gtk3](/f16/package/gtk3) | 12376 | 12748 | 97.1 | Italiano <tp@lists.linux.it> | 
+ | [mingw-gtk3](/f16/package/mingw-gtk3) | 12376 | 12748 | 97.1 | Italiano <tp@lists.linux.it> | 
+ | [system-config-date](/f16/package/system-config-date) | 1795 | 1850 | 97.0 | Italian <trans-it@lists.fedoraproject.org> | 
+ | [gnome-commander](/f16/package/gnome-commander) | 8082 | 8335 | 97.0 | Italian <tp@lists.linux.it> | 
+ | [kde-plasma-daisy](/f16/package/kde-plasma-daisy) | 319 | 329 | 97.0 | Italian <kde-i18n-it@kde.org> | 
+ | [fuse-encfs](/f16/package/fuse-encfs) | 1275 | 1315 | 97.0 | Italian <it@li.org> | 
+ | [girara](/f16/package/girara) | 191 | 197 | 97.0 | Italian (http://www.transifex.net/projects/p/girara/language/it/) | 
+ | [dbmail](/f16/package/dbmail) | 443 | 457 | 96.9 | Italian Localization <debian-l10n-italian@lists.debian.org> | 
+ | [pragha](/f16/package/pragha) | 621 | 641 | 96.9 | LANGUAGE <LL@li.org> | 
+ | [lxsession-edit](/f16/package/lxsession-edit) | 62 | 64 | 96.9 |  | 
+ | [gstreamer-plugins-good](/f16/package/gstreamer-plugins-good) | 788 | 814 | 96.8 | Italian <tp@lists.linux.it> | 
+ | [pychess](/f16/package/pychess) | 2992 | 3091 | 96.8 | Italian <it@li.org> | 
+ | [wxPython](/f16/package/wxPython) | 8397 | 8676 | 96.8 | wxWidgets translators <wx-translators@lists.wxwidgets.org> | 
+ | [libreport](/f16/package/libreport) | 1826 | 1889 | 96.7 | LANGUAGE <LL@li.org> | 
+ | [volume_key](/f16/package/volume_key) | 720 | 745 | 96.6 | Italian <trans-it@lists.fedoraproject.org> | 
+ | [libgpg-error](/f16/package/libgpg-error) | 743 | 769 | 96.6 | Italian <tp@lists.linux.it> | 
+ | [sepostgresql](/f16/package/sepostgresql) | 10026 | 10391 | 96.5 | Gruppo traduzioni ITPUG <traduzioni@itpug.org> | 
+ | [eboard](/f16/package/eboard) | 2167 | 2247 | 96.4 |  | 
+ | [quassel](/f16/package/quassel) | 4275 | 4435 | 96.4 | Italian | 
+ | [authconfig](/f16/package/authconfig) | 1329 | 1379 | 96.4 | Italian <trans-it@lists.fedoraproject.org> | 
+ | [meld](/f16/package/meld) | 977 | 1014 | 96.4 | Italian <tp@lists.linux.it> | 
+ | [rpm](/f16/package/rpm) | 3713 | 3854 | 96.3 | Italian <trans-it@lists.fedoraproject.org> | 
+ | [drgeo](/f16/package/drgeo) | 1912 | 1985 | 96.3 | Italiano | 
+ | [lxappearance](/f16/package/lxappearance) | 204 | 212 | 96.2 | it <it@li.org> | 
+ | [mingw-wxWidgets](/f16/package/mingw-wxWidgets) | 6150 | 6392 | 96.2 | wxWidgets translators <wx-translators@lists.wxwidgets.org> | 
+ | [wxGTK](/f16/package/wxGTK) | 6150 | 6392 | 96.2 | wxWidgets translators <wx-translators@lists.wxwidgets.org> | 
+ | [hunspell](/f16/package/hunspell) | 499 | 519 | 96.1 | Italian <tp@lists.linux.it> | 
+ | [mingw32-hunspell](/f16/package/mingw32-hunspell) | 499 | 519 | 96.1 | Italian <tp@lists.linux.it> | 
+ | [ktp-common-internals](/f16/package/ktp-common-internals) | 638 | 664 | 96.1 | Italian <kde-i18n-it@kde.org> | 
+ | [postgresql](/f16/package/postgresql) | 13064 | 13597 | 96.1 | Gruppo traduzioni ITPUG <traduzioni@itpug.org> | 
+ | [wine](/f16/package/wine) | 13553 | 14112 | 96.0 | none | 
+ | [zanshin](/f16/package/zanshin) | 309 | 322 | 96.0 | Italian <kde-i18n-it@kde.org> | 
+ | [newsbeuter](/f16/package/newsbeuter) | 1210 | 1261 | 96.0 | Claudio M. Alessi <somppy@gmail.com> | 
+ | [mtpaint](/f16/package/mtpaint) | 3004 | 3131 | 95.9 | LANGUAGE <LL@li.org> | 
+ | [thunar-volman](/f16/package/thunar-volman) | 466 | 486 | 95.9 | Italian Translation Team <xfce-it-translators@googlegroups.com> | 
+ | [gambas2](/f16/package/gambas2) | 3211 | 3352 | 95.8 | LANGUAGE <LL@li.org> | 
+ | [sagator](/f16/package/sagator) | 296 | 309 | 95.8 | LANGUAGE <LL@li.org> | 
+ | [xz](/f16/package/xz) | 1130 | 1181 | 95.7 | Italian <tp@lists.linux.it> | 
+ | [synaptic](/f16/package/synaptic) | 3091 | 3231 | 95.7 | Italian <tp@lists.linux.it> | 
+ | [webacula](/f16/package/webacula) | 940 | 983 | 95.6 | Dimitri Bellini <dimitri.bellini@gmail.com> | 
+ | [fotoxx](/f16/package/fotoxx) | 1664 | 1741 | 95.6 | italiano <kde-francophone@kde.org> | 
+ | [nano](/f16/package/nano) | 2570 | 2689 | 95.6 | Italian <tp@lists.linux.it> | 
+ | [kguitar](/f16/package/kguitar) | 968 | 1015 | 95.4 | italian <it@li.org> | 
+ | [virt-top](/f16/package/virt-top) | 344 | 361 | 95.3 | Italian <trans-it@lists.fedoraproject.org> | 
+ | [debconf](/f16/package/debconf) | 767 | 805 | 95.3 | Italian <tp@lists.linux.it> | 
+ | [gutenprint](/f16/package/gutenprint) | 9449 | 9923 | 95.2 | Italian <tp@lists.linux.it> | 
+ | [soundtracker](/f16/package/soundtracker) | 1569 | 1648 | 95.2 | Italian <tp@lists.linux.it> | 
+ | [skychart](/f16/package/skychart) | 5412 | 5685 | 95.2 | <translation@ap-i.net> | 
+ | [grep](/f16/package/grep) | 909 | 955 | 95.2 | Italian <tp@lists.linux.it> | 
+ | [kradio4](/f16/package/kradio4) | 3718 | 3916 | 94.9 | Arch Linux Italian Team <giovanni@archlinux.org> | 
+ | [gxine](/f16/package/gxine) | 2610 | 2749 | 94.9 | Italian | 
+ | [findutils](/f16/package/findutils) | 2020 | 2130 | 94.8 | Italian <tp@lists.linux.it> | 
+ | [remmina](/f16/package/remmina) | 787 | 830 | 94.8 | Italian <it@li.org> | 
+ | [sumwars](/f16/package/sumwars) | 12773 | 13474 | 94.8 | Italiano <> | 
+ | [dpkg](/f16/package/dpkg) | 9494 | 10019 | 94.8 | italian <debian-l10n-italian@debian.org> | 
+ | [wput](/f16/package/wput) | 1007 | 1063 | 94.7 | <de@li.org> | 
+ | [kbilliards](/f16/package/kbilliards) | 197 | 208 | 94.7 | italiano | 
+ | [gnome-pilot](/f16/package/gnome-pilot) | 1752 | 1850 | 94.7 | Italian <tp@lists.linux.it> | 
+ | [kaffeine](/f16/package/kaffeine) | 558 | 590 | 94.6 | Italian <kde-i18n-it@kde.org> | 
+ | [xnoise](/f16/package/xnoise) | 523 | 553 | 94.6 | shkn <xnoise@googlegroups.com> | 
+ | [openbox](/f16/package/openbox) | 479 | 507 | 94.5 | Italian <tp@lists.linux.it> | 
+ | [xlog](/f16/package/xlog) | 1358 | 1441 | 94.2 | Italian | 
+ | [tuxpaint](/f16/package/tuxpaint) | 1175 | 1247 | 94.2 | Italian <it@li.org> | 
+ | [snownews](/f16/package/snownews) | 634 | 673 | 94.2 | Italian <tp@lists.linux.it> | 
+ | [wxMaxima](/f16/package/wxMaxima) | 2691 | 2857 | 94.2 | Italian <tp@lists.linux.it> | 
+ | [coccinella](/f16/package/coccinella) | 5046 | 5358 | 94.2 | Italian <> | 
+ | [grsync](/f16/package/grsync) | 1064 | 1130 | 94.2 | Italian <it@li.org> | 
+ | [pondus](/f16/package/pondus) | 304 | 324 | 93.8 | Italian (http://www.transifex.net/projects/p/pondus/team/it/) | 
+ | [nautilus-actions](/f16/package/nautilus-actions) | 7753 | 8293 | 93.5 | Italian <tp@lists.linux.it> | 
+ | [gettext](/f16/package/gettext) | 6410 | 6857 | 93.5 | Italian <tp@lists.linux.it> | 
+ | [mingw32-gettext](/f16/package/mingw32-gettext) | 6410 | 6857 | 93.5 | Italian <tp@lists.linux.it> | 
+ | [mingw32-libidn](/f16/package/mingw32-libidn) | 386 | 413 | 93.5 | Italian <tp@lists.linux.it> | 
+ | [chromium-bsu](/f16/package/chromium-bsu) | 966 | 1034 | 93.4 | Italian <valtermura@gmail.com> | 
+ | [kflickr](/f16/package/kflickr) | 279 | 299 | 93.3 | <it@li.org> | 
+ | [gnote](/f16/package/gnote) | 2129 | 2283 | 93.3 | Italian <tp@lists.linux.it> | 
+ | [lxpanel](/f16/package/lxpanel) | 892 | 957 | 93.2 |  | 
+ | [wicd-kde](/f16/package/wicd-kde) | 329 | 353 | 93.2 | Italian <kde-i18n-it@kde.org> | 
+ | [claws-mail](/f16/package/claws-mail) | 13986 | 15014 | 93.2 | Italian <tp@lists.linux.it> | 
+ | [mojomojo](/f16/package/mojomojo) | 1724 | 1857 | 92.8 | <it@li.org> | 
+ | [etherape](/f16/package/etherape) | 1009 | 1089 | 92.7 |  | 
+ | [kmymoney](/f16/package/kmymoney) | 17719 | 19125 | 92.6 | Italian <kde-i18n-it@kde.org> | 
+ | [python-imdb](/f16/package/python-imdb) | 297 | 321 | 92.5 | Davide Alberani <da@erlug.linux.it> | 
+ | [ktorrent](/f16/package/ktorrent) | 7528 | 8143 | 92.4 | Italian <kde-i18n-it@kde.org> | 
+ | [stellarium](/f16/package/stellarium) | 6589 | 7138 | 92.3 | Italian <it@li.org> | 
+ | [pidgin-guifications](/f16/package/pidgin-guifications) | 466 | 505 | 92.3 | <it@li.org> | 
+ | [sitecopy](/f16/package/sitecopy) | 2116 | 2300 | 92.0 | Italian <tp@lists.linux.it> | 
+ | [freedink](/f16/package/freedink) | 248 | 270 | 91.9 | Italian <tp@lists.linux.it> | 
+ | [gftp](/f16/package/gftp) | 3096 | 3375 | 91.7 | Italian <it@li.org> | 
+ | [python-kiwi](/f16/package/python-kiwi) | 209 | 228 | 91.7 | Sandro Bonazzola <sandrobonazzola@users.sourceforge.net> | 
+ | [pootle](/f16/package/pootle) | 3406 | 3719 | 91.6 | LANGUAGE <LL@li.org> | 
+ | [transmission](/f16/package/transmission) | 1397 | 1528 | 91.4 | Italian <tp@lists.linux.it> | 
+ | [regexxer](/f16/package/regexxer) | 426 | 467 | 91.2 | Italian <it@translate.freefriends.org> | 
+ | [gnome-libs](/f16/package/gnome-libs) | 2013 | 2207 | 91.2 | Italiano <it@li.org> | 
+ | [tellico](/f16/package/tellico) | 5253 | 5765 | 91.1 | Italiano <kde-i18n-it@kde.org> | 
+ | [quodlibet](/f16/package/quodlibet) | 2270 | 2493 | 91.1 | Italian | 
+ | [childsplay](/f16/package/childsplay) | 1116 | 1226 | 91.0 | Andrew <juzuccar@jumpy.it> | 
+ | [lxrandr](/f16/package/lxrandr) | 111 | 122 | 91.0 |  | 
+ | [bpython](/f16/package/bpython) | 40 | 44 | 90.9 | Michele Orrù | 
+ | [alexandria](/f16/package/alexandria) | 1073 | 1181 | 90.9 | Alexandria | 
+ | [boswars](/f16/package/boswars) | 198 | 218 | 90.8 | LANGUAGE <LL@li.org> | 
+ | [zvbi](/f16/package/zvbi) | 603 | 664 | 90.8 | Italian <kde-i18n-it@kde.org> | 
+ | [nfoview](/f16/package/nfoview) | 98 | 108 | 90.7 | Italian <tp@lists.linux.it> | 
+ | [xine-lib](/f16/package/xine-lib) | 10846 | 11956 | 90.7 | Italian | 
+ | [system-config-language](/f16/package/system-config-language) | 293 | 323 | 90.7 | Italian | 
+ | [popt](/f16/package/popt) | 68 | 75 | 90.7 | Sandro Bonazzola <sandro.bonazzola@gmail.com> | 
+ | [alleyoop](/f16/package/alleyoop) | 310 | 342 | 90.6 | Italian <tp@lists.linux.it> | 
+ | [xchat](/f16/package/xchat) | 4544 | 5027 | 90.4 | Italian | 
+ | [wdiff](/f16/package/wdiff) | 895 | 992 | 90.2 | Italian <tp@lists.linux.it> | 
+ | [zarafa](/f16/package/zarafa) | 5674 | 6291 | 90.2 | it_IT <it@li.org> | 
+ | [solfege](/f16/package/solfege) | 3994 | 4438 | 90.0 | Italian <tp@lists.linux.it> | 
+ | [weechat](/f16/package/weechat) | 15765 | 17545 | 89.9 | weechat-dev <weechat-dev@nongnu.org> | 
+ | [gkrellm](/f16/package/gkrellm) | 3386 | 3784 | 89.5 | Italian <kde-i18n-it@mail.kde.org> | 
+ | [viking](/f16/package/viking) | 1831 | 2049 | 89.4 | Italian <it@li.org> | 
+ | [bareftp](/f16/package/bareftp) | 400 | 448 | 89.3 | Italiana <tp@lists.linux.it> | 
+ | [backup-manager](/f16/package/backup-manager) | 947 | 1063 | 89.1 | ITALIAN <xenon@ngi.it> | 
+ | [libgsasl](/f16/package/libgsasl) | 495 | 556 | 89.0 | Italian <tp@lists.linux.it> | 
+ | [gnome-hearts](/f16/package/gnome-hearts) | 364 | 409 | 89.0 | Italian <it@li.org> | 
+ | [yum](/f16/package/yum) | 2730 | 3069 | 89.0 | Italian (http://www.transifex.net/projects/p/yum/team/it/) | 
+ | [ikiwiki](/f16/package/ikiwiki) | 1169 | 1329 | 88.0 | Italian TP <tp@lists.linux.it> | 
+ | [liferea](/f16/package/liferea) | 1973 | 2247 | 87.8 | Italiana <tp@lists.linux.it> | 
+ | [gawk](/f16/package/gawk) | 2551 | 2907 | 87.8 | Italian <it@li.org> | 
+ | [sugar-read](/f16/package/sugar-read) | 56 | 64 | 87.5 | LANGUAGE <LL@li.org> | 
+ | [gramps](/f16/package/gramps) | 29014 | 33214 | 87.4 | Italian <tp@lists.linux.it> | 
+ | [sakura](/f16/package/sakura) | 143 | 164 | 87.2 | sakura-it <nicola@entidi.it> | 
+ | [gitg](/f16/package/gitg) | 1138 | 1306 | 87.1 | ITALIAN <tp@lists.linux.it> | 
+ | [rhn-client-tools](/f16/package/rhn-client-tools) | 3799 | 4361 | 87.1 | <it@li.org> | 
+ | [gobby](/f16/package/gobby) | 784 | 900 | 87.1 | Italian <it@li.org> | 
+ | [sugar-clock](/f16/package/sugar-clock) | 33 | 38 | 86.8 | LANGUAGE <LL@li.org> | 
+ | [policycoreutils](/f16/package/policycoreutils) | 1276 | 1470 | 86.8 | Italian <fedora-trans-it@redhat.com> | 
+ | [linsmith](/f16/package/linsmith) | 581 | 673 | 86.3 | <it@li.org> | 
+ | [network-manager-netbook](/f16/package/network-manager-netbook) | 408 | 473 | 86.3 | Italian <tp@lists.linux.it> | 
+ | [tuxtype2](/f16/package/tuxtype2) | 69 | 80 | 86.2 | LANGUAGE <LL@li.org> | 
+ | [inkscape](/f16/package/inkscape) | 22837 | 26528 | 86.1 | Italian <tp@lists.linux.it> | 
+ | [initscripts](/f16/package/initscripts) | 3737 | 4349 | 85.9 | <it@li.org> | 
+ | [gnutls](/f16/package/gnutls) | 1053 | 1227 | 85.8 | Italian <tp@lists.linux.it> | 
+ | [mingw32-gnutls](/f16/package/mingw32-gnutls) | 1053 | 1227 | 85.8 | Italian <tp@lists.linux.it> | 
+ | [totem](/f16/package/totem) | 6101 | 7114 | 85.8 | Italian <tp@lists.linux.it> | 
+ | [claws-mail-plugins](/f16/package/claws-mail-plugins) | 3240 | 3780 | 85.7 | Italian <tp@lists.linux.it> | 
+ | [monotone](/f16/package/monotone) | 10037 | 11716 | 85.7 |  | 
+ | [sylpheed](/f16/package/sylpheed) | 5922 | 6983 | 84.8 | Italian <tp@lists.linux.it> | 
+ | [libgpod](/f16/package/libgpod) | 891 | 1053 | 84.6 | Italian <tp@lists.linux.it> | 
+ | [easytag](/f16/package/easytag) | 4556 | 5388 | 84.6 | italiano <it@li.org> | 
+ | [rapidsvn](/f16/package/rapidsvn) | 1199 | 1419 | 84.5 |  | 
+ | [phpldapadmin](/f16/package/phpldapadmin) | 2888 | 3419 | 84.5 | phpLDAPadmin <phpldapadmin-devel@lists.sourceforge.net> | 
+ | [monsoon](/f16/package/monsoon) | 310 | 367 | 84.5 | LANGUAGE <LL@li.org> | 
+ | [sed](/f16/package/sed) | 490 | 581 | 84.3 | Italian <tp@lists.linux.it> | 
+ | [slrn](/f16/package/slrn) | 4509 | 5351 | 84.3 | Italian <it@li.org> | 
+ | [rabbitvcs](/f16/package/rabbitvcs) | 1284 | 1524 | 84.3 | Italian <it@li.org> | 
+ | [gjots2](/f16/package/gjots2) | 802 | 954 | 84.1 | Italian | 
+ | [calibre](/f16/package/calibre) | 37792 | 45192 | 83.6 | Italian <tp@lists.linux.it> | 
+ | [pavucontrol](/f16/package/pavucontrol) | 198 | 237 | 83.5 | Italian <fedora-trans-it at redhat.com> | 
+ | [linux_logo](/f16/package/linux_logo) | 45 | 54 | 83.3 | Italian <tp@lists.linux.it> | 
+ | [vdr-skins](/f16/package/vdr-skins) | 5 | 6 | 83.3 | Italian | 
+ | [trackballs](/f16/package/trackballs) | 793 | 954 | 83.1 | francesco | 
+ | [avogadro](/f16/package/avogadro) | 3539 | 4262 | 83.0 | Italian <it@li.org> | 
+ | [xfce4-sensors-plugin](/f16/package/xfce4-sensors-plugin) | 293 | 354 | 82.8 | Italian <xfce-it-translators@googlegroups.com> | 
+ | [sane-backends](/f16/package/sane-backends) | 3930 | 4751 | 82.7 | italian translation project <tp@lists.linux.it> | 
+ | [latexila](/f16/package/latexila) | 1259 | 1527 | 82.4 | Italian | 
+ | [fldigi](/f16/package/fldigi) | 3525 | 4290 | 82.2 | Italian | 
+ | [phatch](/f16/package/phatch) | 2090 | 2553 | 81.9 | Italian <it@li.org> | 
+ | [python-sphinx](/f16/package/python-sphinx) | 388 | 474 | 81.9 | <sphinx-dev@googlegroups.com> | 
+ | [scilab](/f16/package/scilab) | 29601 | 36167 | 81.8 | Italian <it@li.org> | 
+ | [rekall](/f16/package/rekall) | 3097 | 3793 | 81.7 | italiano <it@li.org> | 
+ | [libidn](/f16/package/libidn) | 338 | 414 | 81.6 | Italian <tp@lists.linux.it> | 
+ | [recode](/f16/package/recode) | 672 | 829 | 81.1 | Italian <it@li.org> | 
+ | [xfce4-mailwatch-plugin](/f16/package/xfce4-mailwatch-plugin) | 534 | 659 | 81.0 | Italian <xfce-i18n@xfce.org> | 
+ | [arm-gp2x-linux-glibc](/f16/package/arm-gp2x-linux-glibc) | 1851 | 2288 | 80.9 | Italian <it@li.org> | 
+ | [workrave](/f16/package/workrave) | 984 | 1227 | 80.2 |  | 
+ | [gnome-schedule](/f16/package/gnome-schedule) | 2872 | 3587 | 80.1 | Italian <tp@lists.linux.it> | 
+ | [gnome-rdp](/f16/package/gnome-rdp) | 241 | 301 | 80.1 | Italian | 
+ | [sugar-jukebox](/f16/package/sugar-jukebox) | 12 | 15 | 80.0 | LANGUAGE <LL@li.org> | 
+ | [gpodder](/f16/package/gpodder) | 1880 | 2360 | 79.7 | Italian (http://www.transifex.net/projects/p/gpodder/team/it/) | 
+ | [ailurus](/f16/package/ailurus) | 6588 | 8278 | 79.6 | none | 
+ | [xmms](/f16/package/xmms) | 2726 | 3443 | 79.2 | italiano <it@li.org> | 
+ | [redshift](/f16/package/redshift) | 444 | 562 | 79.0 | Italian <it@li.org> | 
+ | [scim-pinyin](/f16/package/scim-pinyin) | 656 | 832 | 78.8 | Italian <kde-i18n-it@kde.org> | 
+ | [frescobaldi](/f16/package/frescobaldi) | 6597 | 8398 | 78.6 | Italian <kde-i18n-it@kde.org> | 
+ | [xfmpc](/f16/package/xfmpc) | 131 | 167 | 78.4 | Italian <xfce-it-translators@googlegroups.com> | 
+ | [publican](/f16/package/publican) | 858 | 1094 | 78.4 | <it@li.org> | 
+ | [cryptkeeper](/f16/package/cryptkeeper) | 277 | 358 | 77.4 | Italian | 
+ | [sugar](/f16/package/sugar) | 1176 | 1521 | 77.3 | LANGUAGE <LL@li.org> | 
+ | [gnome-do](/f16/package/gnome-do) | 473 | 612 | 77.3 | it | 
+ | [pidgin-sipe](/f16/package/pidgin-sipe) | 662 | 857 | 77.2 | English <LL@li.org> | 
+ | [indent](/f16/package/indent) | 210 | 272 | 77.2 | Italian <tp@lists.linux.it> | 
+ | [fgrun](/f16/package/fgrun) | 749 | 972 | 77.1 | Italian | 
+ | [kanyremote](/f16/package/kanyremote) | 381 | 496 | 76.8 | Italian | 
+ | [django-profile](/f16/package/django-profile) | 543 | 709 | 76.6 | Italian <tp@lists.linux.it> | 
+ | [sugar-terminal](/f16/package/sugar-terminal) | 13 | 17 | 76.5 | LANGUAGE <LL@li.org> | 
+ | [ardour](/f16/package/ardour) | 7371 | 9683 | 76.1 | Italian <sound@ecciproduzioni.com> | 
+ | [make](/f16/package/make) | 1556 | 2047 | 76.0 | Italian <tp@lists.linux.it> | 
+ | [exaile](/f16/package/exaile) | 2790 | 3683 | 75.8 | Italian <it@li.org> | 
+ | [transifex](/f16/package/transifex) | 4859 | 6424 | 75.6 | Italian (http://www.transifex.net/projects/p/transifex/team/it/) | 
+ | [jpilot](/f16/package/jpilot) | 1870 | 2474 | 75.6 | Italian <tp@lists.linux.it> | 
+ | [apper](/f16/package/apper) | 3195 | 4247 | 75.2 | Italian <kde-i18n-it@kde.org> | 
+ | [radiotray](/f16/package/radiotray) | 88 | 117 | 75.2 | Italian (http://www.transifex.net/projects/p/radiotray/team/it/) | 
+ | [psmisc](/f16/package/psmisc) | 691 | 920 | 75.1 | Italian <tp@lists.linux.it> | 
+ | [gstreamer-plugins-bad-free](/f16/package/gstreamer-plugins-bad-free) | 72 | 96 | 75.0 | Italian <tp@lists.linux.it> | 
+ | [tilda](/f16/package/tilda) | 294 | 396 | 74.2 | Italian <tp@lists.linux.it> | 
+ | [geda-gaf](/f16/package/geda-gaf) | 2104 | 2840 | 74.1 | Italian <it@li.org> | 
+ | [gstreamer-plugins-base](/f16/package/gstreamer-plugins-base) | 667 | 902 | 73.9 | Italian <tp@lists.linux.it> | 
+ | [mingw-gstreamer-plugins-base](/f16/package/mingw-gstreamer-plugins-base) | 667 | 902 | 73.9 | Italian <tp@lists.linux.it> | 
+ | [nted](/f16/package/nted) | 10534 | 14259 | 73.9 | American English <kde-i18n-doc@lists.kde.org> | 
+ | [kcoloredit](/f16/package/kcoloredit) | 205 | 278 | 73.7 | Italian <kde-i18n-it@kde.org> | 
+ | [clutter](/f16/package/clutter) | 1747 | 2371 | 73.7 | Italian <tp@lists.linux.it> | 
+ | [ipplan](/f16/package/ipplan) | 3795 | 5153 | 73.6 | Italian <LL@li.org> | 
+ | [scmxx](/f16/package/scmxx) | 1209 | 1646 | 73.5 | Italian <tp@lists.linux.it> | 
+ | [gscan2pdf](/f16/package/gscan2pdf) | 1133 | 1548 | 73.2 | Italian <it@li.org> | 
+ | [libexif](/f16/package/libexif) | 5092 | 6977 | 73.0 | Italian <tp@lists.linux.it> | 
+ | [python-formencode](/f16/package/python-formencode) | 558 | 765 | 72.9 | Jose Soares Da Silva <jose.soares@sferacarta.com> | 
+ | [netactview](/f16/package/netactview) | 203 | 279 | 72.8 | Italian | 
+ | [nautilus-pastebin](/f16/package/nautilus-pastebin) | 61 | 84 | 72.6 | Italian <it@li.org> | 
+ | [xdrawchem](/f16/package/xdrawchem) | 1747 | 2409 | 72.5 | Italian <debian-l10n-italian@lists.debian.org> | 
+ | [libgda](/f16/package/libgda) | 7088 | 9781 | 72.5 | italiano <tp@lists.linux.it> | 
+ | [obconf](/f16/package/obconf) | 498 | 688 | 72.4 | Italian <tp@lists.linux.it> | 
+ | [monodevelop](/f16/package/monodevelop) | 11985 | 16623 | 72.1 | Italian <tp@lists.linux.it> | 
+ | [jpoker](/f16/package/jpoker) | 256 | 357 | 71.7 | <pokersource-users@gna.org> | 
+ | [virt-manager](/f16/package/virt-manager) | 3452 | 4829 | 71.5 | LANGUAGE <LL@li.org> | 
+ | [mirage](/f16/package/mirage) | 581 | 817 | 71.1 | Scott Horowitz <stonecrest@gmail.com> | 
+ | [colorhug-client](/f16/package/colorhug-client) | 638 | 901 | 70.8 | LANGUAGE <LL@li.org> | 
+ | [rawstudio](/f16/package/rawstudio) | 1076 | 1527 | 70.5 | Rawstudio development <rawstudio-dev@rawstudio.org> | 
+ | [skrooge](/f16/package/skrooge) | 4767 | 6769 | 70.4 | Italian <kde-i18n-it@kde.org> | 
+ | [supertux](/f16/package/supertux) | 645 | 928 | 69.5 | Lithuanian <komp_lt@konferencijos.lt> | 
+ | [gdesklets](/f16/package/gdesklets) | 1061 | 1528 | 69.4 | Italian <frankie@debian.org> | 
+ | [spe](/f16/package/spe) | 197 | 284 | 69.4 |  | 
+ | [wxGlade](/f16/package/wxGlade) | 197 | 284 | 69.4 |  | 
+ | [klamav](/f16/package/klamav) | 1726 | 2503 | 69.0 |  | 
+ | [mutt](/f16/package/mutt) | 3703 | 5377 | 68.9 | none | 
+ | [jbrout](/f16/package/jbrout) | 408 | 595 | 68.6 | Italian <igor@cimice.net> | 
+ | [virt-v2v](/f16/package/virt-v2v) | 1057 | 1555 | 68.0 | Italian <trans-it@lists.fedoraproject.org> | 
+ | [xfce4-dict](/f16/package/xfce4-dict) | 340 | 502 | 67.7 | Italian <xfce-it-translators@googlegroups.com> | 
+ | [kde-plasma-yawp](/f16/package/kde-plasma-yawp) | 2720 | 4042 | 67.3 | it <kde-i18n-it@kde.org> | 
+ | [flare](/f16/package/flare) | 3110 | 4640 | 67.0 | LANGUAGE <LL@li.org> | 
+ | [frepple](/f16/package/frepple) | 1163 | 1742 | 66.8 | frepple <jdetaeye@users.sourceforge.net> | 
+ | [NetworkManager-openvpn](/f16/package/NetworkManager-openvpn) | 274 | 412 | 66.5 | Italian <tp@lists.linux.it> | 
+ | [qbzr](/f16/package/qbzr) | 1117 | 1693 | 66.0 | Italian <it@li.org> | 
+ | [sugar-memorize](/f16/package/sugar-memorize) | 75 | 114 | 65.8 | LANGUAGE <LL@li.org> | 
+ | [bzr-explorer](/f16/package/bzr-explorer) | 1088 | 1656 | 65.7 | Italian <it@li.org> | 
+ | [hexchat](/f16/package/hexchat) | 3600 | 5481 | 65.7 | LANGUAGE <LL@li.org> | 
+ | [gnomebaker](/f16/package/gnomebaker) | 1556 | 2372 | 65.6 | Italian <it@li.org> | 
+ | [pgadmin3](/f16/package/pgadmin3) | 9634 | 14829 | 65.0 | Translation project <tp@lists.linux.it> | 
+ | [soundconverter](/f16/package/soundconverter) | 292 | 450 | 64.9 | Italian <it@li.org> | 
+ | [dayplanner](/f16/package/dayplanner) | 721 | 1112 | 64.8 | Sandro Sigala <sandro@sigala.it> | 
+ | [pyroom](/f16/package/pyroom) | 266 | 411 | 64.7 | Italian <it@li.org> | 
+ | [gentoo](/f16/package/gentoo) | 1452 | 2251 | 64.5 | Italian <tp@lists.linux.it> | 
+ | [xchm](/f16/package/xchm) | 142 | 222 | 64.0 | Italian <faber@faberbox.com> | 
+ | [dia](/f16/package/dia) | 4101 | 6473 | 63.4 | Italiano <tp@lists.linux.it> | 
+ | [krename](/f16/package/krename) | 1302 | 2058 | 63.3 | Italian <kde-i18n-it@kde.org> | 
+ | [linphone](/f16/package/linphone) | 1027 | 1628 | 63.1 | it <it@li.org> | 
+ | [glade2](/f16/package/glade2) | 3676 | 5840 | 62.9 | Italian <tp@lists.linux.it> | 
+ | [rubygem-virt-p2v](/f16/package/rubygem-virt-p2v) | 1035 | 1655 | 62.5 | Italian <trans-it@lists.fedoraproject.org> | 
+ | [typespeed](/f16/package/typespeed) | 284 | 457 | 62.1 | Lapo Luchini <lapo@lapo.it> | 
+ | [ncmpc](/f16/package/ncmpc) | 437 | 707 | 61.8 | Italian <it@li.org> | 
+ | [gourmet](/f16/package/gourmet) | 2246 | 3647 | 61.6 | Italian <it@li.org> | 
+ | [subversion](/f16/package/subversion) | 10802 | 17903 | 60.3 | Italian <dev@subversion.tigris.org> | 
+ | [sugar-ruler](/f16/package/sugar-ruler) | 3 | 5 | 60.0 | LANGUAGE <LL@li.org> | 
+ | [sonata](/f16/package/sonata) | 679 | 1136 | 59.8 | Sonata-IT <nomail@nomail.it> | 
+ | [tuxmath](/f16/package/tuxmath) | 865 | 1454 | 59.5 | Italian <it@li.org> | 
+ | [R](/f16/package/R) | 14793 | 24940 | 59.3 | Italian <it@li.org> | 
+ | [grass](/f16/package/grass) | 40937 | 69140 | 59.2 | Italian <grass-translations@lists.osgeo.org> | 
+ | [zathura](/f16/package/zathura) | 206 | 349 | 59.0 | Italian (http://www.transifex.com/projects/p/zathura/language/it/) | 
+ | [geeqie](/f16/package/geeqie) | 1716 | 2909 | 59.0 | italiano <it@li.org> | 
+ | [yumex](/f16/package/yumex) | 474 | 804 | 59.0 | LANGUAGE <LL@li.org> | 
+ | [wol](/f16/package/wol) | 175 | 298 | 58.7 |  | 
+ | [drwright](/f16/package/drwright) | 112 | 191 | 58.6 | Italian <tp@lists.linux.it> | 
+ | [sugar-log](/f16/package/sugar-log) | 45 | 77 | 58.4 | LANGUAGE <LL@li.org> | 
+ | [freeciv](/f16/package/freeciv) | 40844 | 70240 | 58.1 | Italian <slug-freeciv@siena.linux.it> | 
+ | [aria2](/f16/package/aria2) | 3048 | 5262 | 57.9 | Italian <it@li.org> | 
+ | [cherokee](/f16/package/cherokee) | 5489 | 9494 | 57.8 | Italian <> | 
+ | [pdfshuffler](/f16/package/pdfshuffler) | 62 | 108 | 57.4 | netcelli <netcelli@gmail.com> | 
+ | [kbackup](/f16/package/kbackup) | 359 | 627 | 57.3 | <en@li.org> | 
+ | [man-db](/f16/package/man-db) | 713 | 1248 | 57.1 | Italian <tp@lists.linux.it> | 
+ | [subscription-manager](/f16/package/subscription-manager) | 2162 | 3802 | 56.9 | Italian | 
+ | [gtk-gnutella](/f16/package/gtk-gnutella) | 8235 | 14591 | 56.4 | Italian <it@li.org> | 
+ | [font-manager](/f16/package/font-manager) | 712 | 1269 | 56.1 | Italian <it@li.org> | 
+ | [pidgin-libnotify](/f16/package/pidgin-libnotify) | 20 | 36 | 55.6 |  | 
+ | [driconf](/f16/package/driconf) | 279 | 512 | 54.5 |  | 
+ | [libgphoto2](/f16/package/libgphoto2) | 5897 | 10922 | 54.0 | Italian <tp@lists.linux.it> | 
+ | [dvdbackup](/f16/package/dvdbackup) | 542 | 1005 | 53.9 | Italian <it@li.org> | 
+ | [gajim](/f16/package/gajim) | 6270 | 11642 | 53.9 | Italian <> | 
+ | [sssd](/f16/package/sssd) | 1048 | 1954 | 53.6 | Italian <trans-it@lists.fedoraproject.org> | 
+ | [ktechlab](/f16/package/ktechlab) | 2312 | 4334 | 53.3 |  | 
+ | [gnome-specimen](/f16/package/gnome-specimen) | 29 | 56 | 51.8 | Italian <tp@lists.linux.it> | 
+ | [gnupg](/f16/package/gnupg) | 4440 | 8584 | 51.7 | Italian <tp@lists.linux.it> | 
+ | [publican-jboss](/f16/package/publican-jboss) | 120 | 232 | 51.7 | <it@li.org> | 
+ | [gambas3](/f16/package/gambas3) | 2427 | 4715 | 51.5 | LANGUAGE <LL@li.org> | 
+ | [goffice](/f16/package/goffice) | 2353 | 4599 | 51.2 | Italian <tp@list.linux.it> | 
+ | [PackageKit](/f16/package/PackageKit) | 1648 | 3240 | 50.9 | Italian (http://www.transifex.net/projects/p/freedesktop/team/it/) | 
+ | [wammu](/f16/package/wammu) | 2161 | 4282 | 50.5 | Italian <it@li.org> | 
+ | [gpx-viewer](/f16/package/gpx-viewer) | 58 | 115 | 50.4 | Italian <it@li.org> | 
+ | [gnusim8085](/f16/package/gnusim8085) | 286 | 568 | 50.4 | Italian <it@li.org> | 
+ | [gnue-common](/f16/package/gnue-common) | 1069 | 2132 | 50.1 | Italian <tp@lists.linux.it> | 
+ | [php-horde-Horde-Exception](/f16/package/php-horde-Horde-Exception) | 2 | 4 | 50.0 | i18n@lists.horde.org | 
+ | [pykickstart](/f16/package/pykickstart) | 342 | 684 | 50.0 | LANGUAGE <LL@li.org> | 
+ | [e2fsprogs](/f16/package/e2fsprogs) | 2863 | 5745 | 49.8 | Italian <tp@lists.linux.it> | 
+ | [manaworld](/f16/package/manaworld) | 1619 | 3250 | 49.8 | Italian | 
+ | [gwibber](/f16/package/gwibber) | 22 | 45 | 48.9 | Italian <it@li.org> | 
+ | [gpsbabel](/f16/package/gpsbabel) | 3253 | 6658 | 48.9 | ing. Michele Locati <mlocati@tiscali.it> | 
+ | [mc](/f16/package/mc) | 3876 | 7980 | 48.6 | Italian (Italy) (http://www.transifex.net/projects/p/mc/team/it_IT/) | 
+ | [openerp](/f16/package/openerp) | 27030 | 56139 | 48.1 |  | 
+ | [sugar-calculator](/f16/package/sugar-calculator) | 409 | 859 | 47.6 | LANGUAGE <LL@li.org> | 
+ | [nicotine+](/f16/package/nicotine+) | 1967 | 4140 | 47.5 | nicola <info@nicoladimaria.info> | 
+ | [gnomint](/f16/package/gnomint) | 2080 | 4412 | 47.1 | Italian <it@li.org> | 
+ | [mkvtoolnix](/f16/package/mkvtoolnix) | 8123 | 17328 | 46.9 | German <moritz@bunkus.org> | 
+ | [pacemaker](/f16/package/pacemaker) | 6978 | 14959 | 46.6 | None | 
+ | [pingus](/f16/package/pingus) | 1319 | 2847 | 46.3 |  | 
+ | [subtitleeditor](/f16/package/subtitleeditor) | 839 | 1817 | 46.2 | Italian <it@li.org> | 
+ | [mana](/f16/package/mana) | 1576 | 3415 | 46.1 | Italian | 
+ | [kamoso](/f16/package/kamoso) | 69 | 153 | 45.1 | Italian <kde-i18n-it@kde.org> | 
+ | [blueman](/f16/package/blueman) | 655 | 1468 | 44.6 | Italian <it@li.org> | 
+ | [xfce4-weather-plugin](/f16/package/xfce4-weather-plugin) | 215 | 483 | 44.5 | Italian Translation Team <xfce-it-translators@googlegroups.com> | 
+ | [vidalia](/f16/package/vidalia) | 4649 | 10463 | 44.4 | Italian (http://www.transifex.net/projects/p/torproject/team/it/) | 
+ | [tortoisehg](/f16/package/tortoisehg) | 5584 | 12593 | 44.3 | Italian <it@li.org> | 
+ | [lazarus](/f16/package/lazarus) | 10568 | 23938 | 44.1 |  | 
+ | [sugar-turtleart](/f16/package/sugar-turtleart) | 1078 | 2467 | 43.7 | LANGUAGE <LL@li.org> | 
+ | [audacious](/f16/package/audacious) | 316 | 734 | 43.1 | Italian | 
+ | [diffutils](/f16/package/diffutils) | 762 | 1780 | 42.8 | Italian <tp@lists.linux.it> | 
+ | [phpesp](/f16/package/phpesp) | 951 | 2230 | 42.6 | it_IT <jflemer@alum.rpi.edu> | 
+ | [kasumi](/f16/package/kasumi) | 82 | 193 | 42.5 | Italian | 
+ | [gnome-video-effects](/f16/package/gnome-video-effects) | 11 | 26 | 42.3 | Italian <tp@lists.linux.it> | 
+ | [kernel](/f16/package/kernel) | 473 | 1149 | 41.2 | NONE | 
+ | [kshutdown](/f16/package/kshutdown) | 318 | 776 | 41.0 | Italian <kde-i18n-it@mail.kde.org> | 
+ | [umit](/f16/package/umit) | 1866 | 4601 | 40.6 | Italiano <en@li.org> | 
+ | [genius](/f16/package/genius) | 2444 | 6078 | 40.2 | <it@li.org> | 
+ | [enigma](/f16/package/enigma) | 2128 | 5295 | 40.2 | <it@li.org> | 
+ | [askbot](/f16/package/askbot) | 2275 | 5695 | 39.9 | Italiano <it@li.org> | 
+ | [roundup](/f16/package/roundup) | 1814 | 4549 | 39.9 | italian <it@li.org> | 
+ | [util-linux](/f16/package/util-linux) | 7020 | 17780 | 39.5 | Italian <tp@lists.linux.it> | 
+ | [paprefs](/f16/package/paprefs) | 51 | 131 | 38.9 | Italian <fedora-trans-it at redhat.com> | 
+ | [gummi](/f16/package/gummi) | 302 | 796 | 37.9 | LANGUAGE <LL@li.org> | 
+ | [lilypond](/f16/package/lilypond) | 4319 | 11395 | 37.9 | Italiano | 
+ | [cadaver](/f16/package/cadaver) | 664 | 1757 | 37.8 | Italian <tp@lists.linux.it> | 
+ | [colord](/f16/package/colord) | 333 | 882 | 37.8 | Italian (http://www.transifex.net/projects/p/freedesktop/language/it/) | 
+ | [bison](/f16/package/bison) | 486 | 1289 | 37.7 | Italian <tp@lists.linux.it> | 
+ | [sugar-pippy](/f16/package/sugar-pippy) | 41 | 109 | 37.6 | LANGUAGE <LL@li.org> | 
+ | [publican-ovirt](/f16/package/publican-ovirt) | 107 | 288 | 37.2 | none | 
+ | [gmpc](/f16/package/gmpc) | 9 | 25 | 36.0 | Italian <it@li.org> | 
+ | [lftp](/f16/package/lftp) | 1374 | 3824 | 35.9 | Italian <it@li.org> | 
+ | [glabels](/f16/package/glabels) | 766 | 2138 | 35.8 | Italian <it@li.org> | 
+ | [samba](/f16/package/samba) | 187 | 524 | 35.7 | Novell Language <language@novell.com> | 
+ | [samba4](/f16/package/samba4) | 187 | 524 | 35.7 | Novell Language <language@novell.com> | 
+ | [guitarix](/f16/package/guitarix) | 743 | 2086 | 35.6 | Italian | 
+ | [mercurial](/f16/package/mercurial) | 11753 | 34121 | 34.4 | Italian <Italian> | 
+ | [springlobby](/f16/package/springlobby) | 1596 | 4695 | 34.0 | Italian <it@li.org> | 
+ | [sawfish](/f16/package/sawfish) | 2118 | 6443 | 32.9 | Italian <it@li.org> | 
+ | [gcal](/f16/package/gcal) | 1617 | 4927 | 32.8 | Italian <tp@lists.linux.it> | 
+ | [audex](/f16/package/audex) | 1126 | 3491 | 32.3 | Italian <kde-i18n-it@kde.org> | 
+ | [gnome-chemistry-utils](/f16/package/gnome-chemistry-utils) | 1402 | 4355 | 32.2 | italiano <it@li.org> | 
+ | [minetest](/f16/package/minetest) | 66 | 206 | 32.0 | Italian | 
+ | [kchmviewer](/f16/package/kchmviewer) | 309 | 972 | 31.8 |  | 
+ | [a2ps](/f16/package/a2ps) | 478 | 1512 | 31.6 | Italian <it@li.org> | 
+ | [gnupg2](/f16/package/gnupg2) | 3265 | 10491 | 31.1 | Italian <tp@lists.linux.it> | 
+ | [system-config-kdump](/f16/package/system-config-kdump) | 235 | 807 | 29.1 | <it@li.org> | 
+ | [gdm](/f16/package/gdm) | 2561 | 8911 | 28.7 | Italian <tp@lists.linux.it> | 
+ | [python-nevow](/f16/package/python-nevow) | 4 | 14 | 28.6 | LANGUAGE <LL@li.org> | 
+ | [gnumed](/f16/package/gnumed) | 5632 | 19813 | 28.4 | GNUmed | 
+ | [xfce4-clipman-plugin](/f16/package/xfce4-clipman-plugin) | 492 | 1766 | 27.9 | Italian Translation Team <xfce-it-translators@googlegroups>. | 
+ | [cups-pk-helper](/f16/package/cups-pk-helper) | 41 | 149 | 27.5 | Italian (http://www.transifex.net/projects/p/freedesktop/team/it/) | 
+ | [cssed](/f16/package/cssed) | 940 | 3437 | 27.3 | Italian <en@li.org> | 
+ | [elinks](/f16/package/elinks) | 3293 | 12234 | 26.9 | Italian <tp@lists.linux.it> | 
+ | [csound](/f16/package/csound) | 3696 | 14381 | 25.7 | csound5 | 
+ | [autotest-framework](/f16/package/autotest-framework) | 249 | 983 | 25.3 | Italian | 
+ | [specspo](/f16/package/specspo) | 80832 | 323490 | 25.0 | Italian | 
+ | [hydrogen](/f16/package/hydrogen) | 2471 | 9921 | 24.9 |  | 
+ | [gazpacho](/f16/package/gazpacho) | 175 | 708 | 24.7 | Italian | 
+ | [openerp-client](/f16/package/openerp-client) | 1895 | 7729 | 24.5 | Italian <it@li.org> | 
+ | [cinepaint](/f16/package/cinepaint) | 1695 | 7407 | 22.9 | gimp.linux.it | 
+ | [shadow-utils](/f16/package/shadow-utils) | 4164 | 18554 | 22.4 | Italian <tp@lists.linux.it> | 
+ | [turpial](/f16/package/turpial) | 140 | 636 | 22.0 | it <LL@li.org> | 
+ | [gcalctool](/f16/package/gcalctool) | 1709 | 7890 | 21.7 | LANGUAGE <LL@li.org> | 
+ | [gnumeric](/f16/package/gnumeric) | 7382 | 35046 | 21.1 | Italian <tp@list.linux.it> | 
+ | [mingw32-libvirt](/f16/package/mingw32-libvirt) | 6120 | 29427 | 20.8 | Italian <it@li.org> | 
+ | [libvirt](/f16/package/libvirt) | 6120 | 29566 | 20.7 | Italian <it@li.org> | 
+ | [po4a](/f16/package/po4a) | 5548 | 27491 | 20.2 | Italian <tp@lists.linux.it> | 
+ | [lekhonee-gnome](/f16/package/lekhonee-gnome) | 21 | 112 | 18.8 | Italian <trans-it@lists.fedoraproject.org> | 
+ | [cups](/f16/package/cups) | 1366 | 7390 | 18.5 | Italian <kde-i18n-it@kde.org> | 
+ | [gpredict](/f16/package/gpredict) | 1107 | 6042 | 18.3 | Italian <it@li.org> | 
+ | [LabPlot](/f16/package/LabPlot) | 2970 | 16684 | 17.8 | LANGUAGE <LL@li.org> | 
+ | [centerim](/f16/package/centerim) | 507 | 2864 | 17.7 | Italiano <it@li.org> | 
+ | [kdbg](/f16/package/kdbg) | 153 | 866 | 17.7 | Italiano <it@li.org> | 
+ | [oxine](/f16/package/oxine) | 499 | 2946 | 16.9 | Italian <tp@lists.linux.it> | 
+ | [php-horde-Horde-Date](/f16/package/php-horde-Horde-Date) | 6 | 36 | 16.7 | i18n@lists.horde.org | 
+ | [gnubik](/f16/package/gnubik) | 45 | 278 | 16.2 | italian <tp@lists.linux.it>, <it@li.org> | 
+ | [partimage](/f16/package/partimage) | 544 | 3387 | 16.1 | Italian <tp@lists.linux.it> | 
+ | [openstack-nova](/f16/package/openstack-nova) | 480 | 3070 | 15.6 | Italian <it@li.org> | 
+ | [hello](/f16/package/hello) | 30 | 193 | 15.5 | Italian <tp@lists.linux.it> | 
+ | [grisbi](/f16/package/grisbi) | 1761 | 12325 | 14.3 | Italian <LL@li.org> | 
+ | [piklab](/f16/package/piklab) | 996 | 7228 | 13.8 |  | 
+ | [apt](/f16/package/apt) | 534 | 4103 | 13.0 | Italian <it@li.org> | 
+ | [gnome-devel-docs](/f16/package/gnome-devel-docs) | 1836 | 14210 | 12.9 | Italian <tp@lists.linux.it> | 
+ | [mod_cluster](/f16/package/mod_cluster) | 39 | 327 | 11.9 | Italian <tp@lists.linux.it> | 
+ | [pan](/f16/package/pan) | 252 | 2288 | 11.0 | italiano <it@li.org> | 
+ | [rkward](/f16/package/rkward) | 514 | 5198 | 9.9 | Italian <it@li.org> | 
+ | [kcm-gtk](/f16/package/kcm-gtk) | 11 | 124 | 8.9 | Italian <it@li.org> | 
+ | [awn-extras-applets](/f16/package/awn-extras-applets) | 446 | 5353 | 8.3 | Italian <it@li.org> | 
+ | [smb4k](/f16/package/smb4k) | 522 | 6362 | 8.2 | Italian <kde-i18n-it@kde.org> | 
+ | [lingot](/f16/package/lingot) | 112 | 1397 | 8.0 | <cereda.ste@gmail.com> | 
+ | [etoys](/f16/package/etoys) | 2395 | 29994 | 8.0 |  | 
+ | [xfce4-taskmanager](/f16/package/xfce4-taskmanager) | 9 | 123 | 7.3 | Italian Translation Team <xfce-it-translators@googlegroups.com> | 
+ | [gammu](/f16/package/gammu) | 882 | 16122 | 5.5 | none | 
+ | [dc3dd](/f16/package/dc3dd) | 50 | 932 | 5.4 | Italian <tp@lists.linux.it> | 
+ | [xscreensaver](/f16/package/xscreensaver) | 578 | 11190 | 5.2 | Italian <tp@lists.linux.it> | 
+ | [mingw32-iconv](/f16/package/mingw32-iconv) | 15 | 336 | 4.5 | Italian <tp@lists.linux.it> | 
+ | [avant-window-navigator](/f16/package/avant-window-navigator) | 76 | 1829 | 4.2 | Italian <it@li.org> | 
+ | [gnome-gmail](/f16/package/gnome-gmail) | 13 | 359 | 3.6 | LANGUAGE <LL@li.org> | 
+ | [glances](/f16/package/glances) | 14 | 465 | 3.0 | Italian | 
+ | [polyester3](/f16/package/polyester3) | 111 | 4376 | 2.5 | italian | 
+ | [polyester](/f16/package/polyester) | 111 | 4397 | 2.5 | italian | 
+ | [glom](/f16/package/glom) | 6 | 275 | 2.2 | LANGUAGE <LL@li.org> | 
+ | [xpad](/f16/package/xpad) | 8 | 370 | 2.2 | none | 
+ | [gnash](/f16/package/gnash) | 186 | 15143 | 1.2 | LANGUAGE <LL@li.org> | 
+ | [bacula](/f16/package/bacula) | 0 | 20287 | 0.0 | Italian <bacula-devel@lists.sourceforge.net> | 
+ | [bacula2](/f16/package/bacula2) | 0 | 20287 | 0.0 | Italian <bacula-devel@lists.sourceforge.net> | 
+ | [denemo](/f16/package/denemo) | 0 | 1122 | 0.0 | Italian | 
+ | [freeipa](/f16/package/freeipa) | 0 | 12012 | 0.0 | Italian <trans-it@lists.fedoraproject.org> | 
+ | [gcombust](/f16/package/gcombust) | 0 | 0 | 0.0 |  | 
+ | [gnome-applet-alarm-clock](/f16/package/gnome-applet-alarm-clock) | 0 | 417 | 0.0 | Italian <it@li.org> | 
+ | [icewm](/f16/package/icewm) | 0 | 0 | 0.0 | Italian <tp@lists.linux.it> | 
+ | [libgxim](/f16/package/libgxim) | 0 | 130 | 0.0 | none | 
+ | [libsmbios](/f16/package/libsmbios) | 0 | 1630 | 0.0 | Italian | 
+ | [openconnect](/f16/package/openconnect) | 0 | 2573 | 0.0 | Italian (http://www.transifex.net/projects/p/meego/team/it/) | 
+ | [retrace-server](/f16/package/retrace-server) | 0 | 123 | 0.0 | Italian | 
+ | [smokeping](/f16/package/smokeping) | 0 | 72 | 0.0 | none | 
+ | [splix](/f16/package/splix) | 0 | 0 | 0.0 |  | 
+ | [tangogps](/f16/package/tangogps) | 0 | 570 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [wordtrans](/f16/package/wordtrans) | 0 | 0 | 0.0 |  | 
 {.sortable}
 
 
@@ -1197,23 +1197,23 @@ We use the po metadata to get the language code and the team, but sometimes it f
 
 | Package | Lang from file path/name | polib error | Team |
 |---------|--------------------------|-------------|------|
- | [blender]({{< ref "/f16/package/blender.md" >}}) | /mnt/stockage/packages/f16/blender/po/it.po | error-os |  | 
- | [bzflag]({{< ref "/f16/package/bzflag.md" >}}) | /mnt/stockage/packages/f16/bzflag/data/l10n/bzflag_it.po | error-os |  | 
- | [gcombust]({{< ref "/f16/package/gcombust.md" >}}) | /mnt/stockage/packages/f16/gcombust/po/it.po | error-unicode |  | 
- | [ktechlab]({{< ref "/f16/package/ktechlab.md" >}}) | /mnt/stockage/packages/f16/ktechlab/po/it.po | error-os |  | 
- | [lazarus]({{< ref "/f16/package/lazarus.md" >}}) | /mnt/stockage/packages/f16/lazarus/components/codetools/languages/codetoolsstrconsts.it.po | error-unicode |  | 
- | [lazarus]({{< ref "/f16/package/lazarus.md" >}}) | /mnt/stockage/packages/f16/lazarus/components/daemon/languages/reglazdaemon.it.po | error-unicode |  | 
- | [lazarus]({{< ref "/f16/package/lazarus.md" >}}) | /mnt/stockage/packages/f16/lazarus/components/lazreport/samples/editor/languages/calleditorwithpkg.it.po | error-unicode |  | 
- | [lazarus]({{< ref "/f16/package/lazarus.md" >}}) | /mnt/stockage/packages/f16/lazarus/components/todolist/languages/todoliststrconsts.it.po | error-unicode |  | 
- | [lazarus]({{< ref "/f16/package/lazarus.md" >}}) | /mnt/stockage/packages/f16/lazarus/doceditor/languages/lazde.it.po | error-unicode |  | 
- | [lazarus]({{< ref "/f16/package/lazarus.md" >}}) | /mnt/stockage/packages/f16/lazarus/examples/anchordocking/languages/anchordockstr.it.po | error-unicode |  | 
- | [lazarus]({{< ref "/f16/package/lazarus.md" >}}) | /mnt/stockage/packages/f16/lazarus/ideintf/languages/objinspstrconsts.it.po | error-unicode |  | 
- | [lazarus]({{< ref "/f16/package/lazarus.md" >}}) | /mnt/stockage/packages/f16/lazarus/lcl/languages/lclstrconsts.it.po | error-unicode |  | 
- | [mate-panel]({{< ref "/f16/package/mate-panel.md" >}}) | /mnt/stockage/packages/f16/mate-panel/help/clock/it/it.po | error-os |  | 
- | [moin]({{< ref "/f16/package/moin.md" >}}) | /mnt/stockage/packages/f16/moin/MoinMoin/i18n/it.MoinMoin.po | error-os |  | 
- | [scim]({{< ref "/f16/package/scim.md" >}}) | /mnt/stockage/packages/f16/scim/po/it.po | error-os |  | 
- | [splix]({{< ref "/f16/package/splix.md" >}}) | /mnt/stockage/packages/f16/splix/ppd/po/it.po | error-unicode |  | 
- | [wordtrans]({{< ref "/f16/package/wordtrans.md" >}}) | /mnt/stockage/packages/f16/wordtrans/po/it.po | error-unicode |  | 
+ | [blender](/f16/package/blender) | /mnt/stockage/packages/f16/blender/po/it.po | error-os |  | 
+ | [bzflag](/f16/package/bzflag) | /mnt/stockage/packages/f16/bzflag/data/l10n/bzflag_it.po | error-os |  | 
+ | [gcombust](/f16/package/gcombust) | /mnt/stockage/packages/f16/gcombust/po/it.po | error-unicode |  | 
+ | [ktechlab](/f16/package/ktechlab) | /mnt/stockage/packages/f16/ktechlab/po/it.po | error-os |  | 
+ | [lazarus](/f16/package/lazarus) | /mnt/stockage/packages/f16/lazarus/components/codetools/languages/codetoolsstrconsts.it.po | error-unicode |  | 
+ | [lazarus](/f16/package/lazarus) | /mnt/stockage/packages/f16/lazarus/components/daemon/languages/reglazdaemon.it.po | error-unicode |  | 
+ | [lazarus](/f16/package/lazarus) | /mnt/stockage/packages/f16/lazarus/components/lazreport/samples/editor/languages/calleditorwithpkg.it.po | error-unicode |  | 
+ | [lazarus](/f16/package/lazarus) | /mnt/stockage/packages/f16/lazarus/components/todolist/languages/todoliststrconsts.it.po | error-unicode |  | 
+ | [lazarus](/f16/package/lazarus) | /mnt/stockage/packages/f16/lazarus/doceditor/languages/lazde.it.po | error-unicode |  | 
+ | [lazarus](/f16/package/lazarus) | /mnt/stockage/packages/f16/lazarus/examples/anchordocking/languages/anchordockstr.it.po | error-unicode |  | 
+ | [lazarus](/f16/package/lazarus) | /mnt/stockage/packages/f16/lazarus/ideintf/languages/objinspstrconsts.it.po | error-unicode |  | 
+ | [lazarus](/f16/package/lazarus) | /mnt/stockage/packages/f16/lazarus/lcl/languages/lclstrconsts.it.po | error-unicode |  | 
+ | [mate-panel](/f16/package/mate-panel) | /mnt/stockage/packages/f16/mate-panel/help/clock/it/it.po | error-os |  | 
+ | [moin](/f16/package/moin) | /mnt/stockage/packages/f16/moin/MoinMoin/i18n/it.MoinMoin.po | error-os |  | 
+ | [scim](/f16/package/scim) | /mnt/stockage/packages/f16/scim/po/it.po | error-os |  | 
+ | [splix](/f16/package/splix) | /mnt/stockage/packages/f16/splix/ppd/po/it.po | error-unicode |  | 
+ | [wordtrans](/f16/package/wordtrans) | /mnt/stockage/packages/f16/wordtrans/po/it.po | error-unicode |  | 
 {.sortable}
 
 
@@ -1224,20 +1224,20 @@ We use the calcstats from translate toolkit to get the translation progress, but
 
 | Package | Lang from file path/name | Team |
 |---------|--------------------------|------|
- | [gcombust]({{< ref "/f16/package/gcombust.md" >}}) | /mnt/stockage/packages/f16/gcombust/po/it.po |  | 
- | [icewm]({{< ref "/f16/package/icewm.md" >}}) | /mnt/stockage/packages/f16/icewm/po/it.po | Italian <tp@lists.linux.it> | 
- | [lazarus]({{< ref "/f16/package/lazarus.md" >}}) | /mnt/stockage/packages/f16/lazarus/components/codetools/languages/codetoolsstrconsts.it.po |  | 
- | [lazarus]({{< ref "/f16/package/lazarus.md" >}}) | /mnt/stockage/packages/f16/lazarus/components/daemon/languages/reglazdaemon.it.po |  | 
- | [lazarus]({{< ref "/f16/package/lazarus.md" >}}) | /mnt/stockage/packages/f16/lazarus/components/datadict/languages/ldd_consts.it.po |  | 
- | [lazarus]({{< ref "/f16/package/lazarus.md" >}}) | /mnt/stockage/packages/f16/lazarus/components/lazreport/samples/editor/languages/calleditorwithpkg.it.po |  | 
- | [lazarus]({{< ref "/f16/package/lazarus.md" >}}) | /mnt/stockage/packages/f16/lazarus/components/todolist/languages/todoliststrconsts.it.po |  | 
- | [lazarus]({{< ref "/f16/package/lazarus.md" >}}) | /mnt/stockage/packages/f16/lazarus/doceditor/languages/lazde.it.po |  | 
- | [lazarus]({{< ref "/f16/package/lazarus.md" >}}) | /mnt/stockage/packages/f16/lazarus/examples/anchordocking/languages/anchordockstr.it.po |  | 
- | [lazarus]({{< ref "/f16/package/lazarus.md" >}}) | /mnt/stockage/packages/f16/lazarus/ideintf/languages/objinspstrconsts.it.po |  | 
- | [lazarus]({{< ref "/f16/package/lazarus.md" >}}) | /mnt/stockage/packages/f16/lazarus/lcl/languages/lclstrconsts.it.po |  | 
- | [splix]({{< ref "/f16/package/splix.md" >}}) | /mnt/stockage/packages/f16/splix/ppd/po/it.po |  | 
- | [sumwars]({{< ref "/f16/package/sumwars.md" >}}) | /mnt/stockage/packages/f16/sumwars/share/translation/it/sumwars.po | Italiano <> | 
- | [wordtrans]({{< ref "/f16/package/wordtrans.md" >}}) | /mnt/stockage/packages/f16/wordtrans/po/it.po |  | 
+ | [gcombust](/f16/package/gcombust) | /mnt/stockage/packages/f16/gcombust/po/it.po |  | 
+ | [icewm](/f16/package/icewm) | /mnt/stockage/packages/f16/icewm/po/it.po | Italian <tp@lists.linux.it> | 
+ | [lazarus](/f16/package/lazarus) | /mnt/stockage/packages/f16/lazarus/components/codetools/languages/codetoolsstrconsts.it.po |  | 
+ | [lazarus](/f16/package/lazarus) | /mnt/stockage/packages/f16/lazarus/components/daemon/languages/reglazdaemon.it.po |  | 
+ | [lazarus](/f16/package/lazarus) | /mnt/stockage/packages/f16/lazarus/components/datadict/languages/ldd_consts.it.po |  | 
+ | [lazarus](/f16/package/lazarus) | /mnt/stockage/packages/f16/lazarus/components/lazreport/samples/editor/languages/calleditorwithpkg.it.po |  | 
+ | [lazarus](/f16/package/lazarus) | /mnt/stockage/packages/f16/lazarus/components/todolist/languages/todoliststrconsts.it.po |  | 
+ | [lazarus](/f16/package/lazarus) | /mnt/stockage/packages/f16/lazarus/doceditor/languages/lazde.it.po |  | 
+ | [lazarus](/f16/package/lazarus) | /mnt/stockage/packages/f16/lazarus/examples/anchordocking/languages/anchordockstr.it.po |  | 
+ | [lazarus](/f16/package/lazarus) | /mnt/stockage/packages/f16/lazarus/ideintf/languages/objinspstrconsts.it.po |  | 
+ | [lazarus](/f16/package/lazarus) | /mnt/stockage/packages/f16/lazarus/lcl/languages/lclstrconsts.it.po |  | 
+ | [splix](/f16/package/splix) | /mnt/stockage/packages/f16/splix/ppd/po/it.po |  | 
+ | [sumwars](/f16/package/sumwars) | /mnt/stockage/packages/f16/sumwars/share/translation/it/sumwars.po | Italiano <> | 
+ | [wordtrans](/f16/package/wordtrans) | /mnt/stockage/packages/f16/wordtrans/po/it.po |  | 
 {.sortable}
 
 

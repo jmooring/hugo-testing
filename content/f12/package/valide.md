@@ -18,10 +18,10 @@ The package valide (version 0.6.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [es]({{< ref "/f12/language/es.md" >}}) | 662 | 662 | 100.0 | /mnt/stockage/packages/f12/valide/po/es.po | 
- | [it]({{< ref "/f12/language/it.md" >}}) | 662 | 662 | 100.0 | /mnt/stockage/packages/f12/valide/po/it.po | 
- | [fr]({{< ref "/f12/language/fr.md" >}}) | 659 | 662 | 99.5 | /mnt/stockage/packages/f12/valide/po/fr.po | 
- | [error]({{< ref "/f12/language/error.md" >}}) | 0 | 662 | 0.0 | /mnt/stockage/packages/f12/valide/po/messages.po | 
+ | [es](/f12/language/es) | 662 | 662 | 100.0 | /mnt/stockage/packages/f12/valide/po/es.po | 
+ | [it](/f12/language/it) | 662 | 662 | 100.0 | /mnt/stockage/packages/f12/valide/po/it.po | 
+ | [fr](/f12/language/fr) | 659 | 662 | 99.5 | /mnt/stockage/packages/f12/valide/po/fr.po | 
+ | [error](/f12/language/error) | 0 | 662 | 0.0 | /mnt/stockage/packages/f12/valide/po/messages.po | 
 {.sortable}
 
 

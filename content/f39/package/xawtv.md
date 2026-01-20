@@ -18,23 +18,23 @@ The package xawtv (version 3.107):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f39/language/cs.md" >}}) | 126 | 126 | 100.0 | /mnt/stockage/packages/f39/xawtv/xawtv-3.107/debian/po/cs.po | 
- | [da]({{< ref "/f39/language/da.md" >}}) | 126 | 126 | 100.0 | /mnt/stockage/packages/f39/xawtv/xawtv-3.107/debian/po/da.po | 
- | [de]({{< ref "/f39/language/de.md" >}}) | 126 | 126 | 100.0 | /mnt/stockage/packages/f39/xawtv/xawtv-3.107/debian/po/de.po | 
- | [es]({{< ref "/f39/language/es.md" >}}) | 126 | 126 | 100.0 | /mnt/stockage/packages/f39/xawtv/xawtv-3.107/debian/po/es.po | 
- | [eu]({{< ref "/f39/language/eu.md" >}}) | 126 | 126 | 100.0 | /mnt/stockage/packages/f39/xawtv/xawtv-3.107/debian/po/eu.po | 
- | [fi]({{< ref "/f39/language/fi.md" >}}) | 126 | 126 | 100.0 | /mnt/stockage/packages/f39/xawtv/xawtv-3.107/debian/po/fi.po | 
- | [fr]({{< ref "/f39/language/fr.md" >}}) | 126 | 126 | 100.0 | /mnt/stockage/packages/f39/xawtv/xawtv-3.107/debian/po/fr.po | 
- | [gl]({{< ref "/f39/language/gl.md" >}}) | 126 | 126 | 100.0 | /mnt/stockage/packages/f39/xawtv/xawtv-3.107/debian/po/gl.po | 
- | [it]({{< ref "/f39/language/it.md" >}}) | 126 | 126 | 100.0 | /mnt/stockage/packages/f39/xawtv/xawtv-3.107/debian/po/it.po | 
- | [ja]({{< ref "/f39/language/ja.md" >}}) | 126 | 126 | 100.0 | /mnt/stockage/packages/f39/xawtv/xawtv-3.107/debian/po/ja.po | 
- | [nl]({{< ref "/f39/language/nl.md" >}}) | 126 | 126 | 100.0 | /mnt/stockage/packages/f39/xawtv/xawtv-3.107/debian/po/nl.po | 
- | [pt]({{< ref "/f39/language/pt.md" >}}) | 126 | 126 | 100.0 | /mnt/stockage/packages/f39/xawtv/xawtv-3.107/debian/po/pt.po | 
- | [ru]({{< ref "/f39/language/ru.md" >}}) | 126 | 126 | 100.0 | /mnt/stockage/packages/f39/xawtv/xawtv-3.107/debian/po/ru.po | 
- | [sv]({{< ref "/f39/language/sv.md" >}}) | 126 | 126 | 100.0 | /mnt/stockage/packages/f39/xawtv/xawtv-3.107/debian/po/sv.po | 
- | [vi]({{< ref "/f39/language/vi.md" >}}) | 126 | 126 | 100.0 | /mnt/stockage/packages/f39/xawtv/xawtv-3.107/debian/po/vi.po | 
- | [pt_BR]({{< ref "/f39/language/pt_BR.md" >}}) | 11 | 126 | 8.7 | /mnt/stockage/packages/f39/xawtv/xawtv-3.107/debian/po/pt_BR.po | 
- | [tr]({{< ref "/f39/language/tr.md" >}}) | 11 | 126 | 8.7 | /mnt/stockage/packages/f39/xawtv/xawtv-3.107/debian/po/tr.po | 
+ | [cs](/f39/language/cs) | 126 | 126 | 100.0 | /mnt/stockage/packages/f39/xawtv/xawtv-3.107/debian/po/cs.po | 
+ | [da](/f39/language/da) | 126 | 126 | 100.0 | /mnt/stockage/packages/f39/xawtv/xawtv-3.107/debian/po/da.po | 
+ | [de](/f39/language/de) | 126 | 126 | 100.0 | /mnt/stockage/packages/f39/xawtv/xawtv-3.107/debian/po/de.po | 
+ | [es](/f39/language/es) | 126 | 126 | 100.0 | /mnt/stockage/packages/f39/xawtv/xawtv-3.107/debian/po/es.po | 
+ | [eu](/f39/language/eu) | 126 | 126 | 100.0 | /mnt/stockage/packages/f39/xawtv/xawtv-3.107/debian/po/eu.po | 
+ | [fi](/f39/language/fi) | 126 | 126 | 100.0 | /mnt/stockage/packages/f39/xawtv/xawtv-3.107/debian/po/fi.po | 
+ | [fr](/f39/language/fr) | 126 | 126 | 100.0 | /mnt/stockage/packages/f39/xawtv/xawtv-3.107/debian/po/fr.po | 
+ | [gl](/f39/language/gl) | 126 | 126 | 100.0 | /mnt/stockage/packages/f39/xawtv/xawtv-3.107/debian/po/gl.po | 
+ | [it](/f39/language/it) | 126 | 126 | 100.0 | /mnt/stockage/packages/f39/xawtv/xawtv-3.107/debian/po/it.po | 
+ | [ja](/f39/language/ja) | 126 | 126 | 100.0 | /mnt/stockage/packages/f39/xawtv/xawtv-3.107/debian/po/ja.po | 
+ | [nl](/f39/language/nl) | 126 | 126 | 100.0 | /mnt/stockage/packages/f39/xawtv/xawtv-3.107/debian/po/nl.po | 
+ | [pt](/f39/language/pt) | 126 | 126 | 100.0 | /mnt/stockage/packages/f39/xawtv/xawtv-3.107/debian/po/pt.po | 
+ | [ru](/f39/language/ru) | 126 | 126 | 100.0 | /mnt/stockage/packages/f39/xawtv/xawtv-3.107/debian/po/ru.po | 
+ | [sv](/f39/language/sv) | 126 | 126 | 100.0 | /mnt/stockage/packages/f39/xawtv/xawtv-3.107/debian/po/sv.po | 
+ | [vi](/f39/language/vi) | 126 | 126 | 100.0 | /mnt/stockage/packages/f39/xawtv/xawtv-3.107/debian/po/vi.po | 
+ | [pt_BR](/f39/language/pt_BR) | 11 | 126 | 8.7 | /mnt/stockage/packages/f39/xawtv/xawtv-3.107/debian/po/pt_BR.po | 
+ | [tr](/f39/language/tr) | 11 | 126 | 8.7 | /mnt/stockage/packages/f39/xawtv/xawtv-3.107/debian/po/tr.po | 
 {.sortable}
 
 

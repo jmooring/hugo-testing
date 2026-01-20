@@ -18,12 +18,12 @@ The package rhash (version 1.3.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [en]({{< ref "/f24/language/en.md" >}}) | 449 | 449 | 100.0 | /mnt/stockage/packages/f24/rhash/po/en_AU.po | 
- | [it]({{< ref "/f24/language/it.md" >}}) | 449 | 449 | 100.0 | /mnt/stockage/packages/f24/rhash/po/it.po | 
- | [ru]({{< ref "/f24/language/ru.md" >}}) | 449 | 449 | 100.0 | /mnt/stockage/packages/f24/rhash/po/ru.po | 
- | [es]({{< ref "/f24/language/es.md" >}}) | 246 | 449 | 54.8 | /mnt/stockage/packages/f24/rhash/po/es.po | 
- | [de]({{< ref "/f24/language/de.md" >}}) | 235 | 449 | 52.3 | /mnt/stockage/packages/f24/rhash/po/de.po | 
- | [gl]({{< ref "/f24/language/gl.md" >}}) | 228 | 449 | 50.8 | /mnt/stockage/packages/f24/rhash/po/gl.po | 
+ | [en](/f24/language/en) | 449 | 449 | 100.0 | /mnt/stockage/packages/f24/rhash/po/en_AU.po | 
+ | [it](/f24/language/it) | 449 | 449 | 100.0 | /mnt/stockage/packages/f24/rhash/po/it.po | 
+ | [ru](/f24/language/ru) | 449 | 449 | 100.0 | /mnt/stockage/packages/f24/rhash/po/ru.po | 
+ | [es](/f24/language/es) | 246 | 449 | 54.8 | /mnt/stockage/packages/f24/rhash/po/es.po | 
+ | [de](/f24/language/de) | 235 | 449 | 52.3 | /mnt/stockage/packages/f24/rhash/po/de.po | 
+ | [gl](/f24/language/gl) | 228 | 449 | 50.8 | /mnt/stockage/packages/f24/rhash/po/gl.po | 
 {.sortable}
 
 

@@ -18,13 +18,13 @@ The package libextractor (version 0.5.20b):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ga]({{< ref "/f10/language/ga.md" >}}) | 785 | 785 | 100.0 | /mnt/stockage/packages/f10/libextractor/po/ga.po | 
- | [sv]({{< ref "/f10/language/sv.md" >}}) | 785 | 785 | 100.0 | /mnt/stockage/packages/f10/libextractor/po/sv.po | 
- | [vi]({{< ref "/f10/language/vi.md" >}}) | 785 | 785 | 100.0 | /mnt/stockage/packages/f10/libextractor/po/vi.po | 
- | [de]({{< ref "/f10/language/de.md" >}}) | 761 | 785 | 96.9 | /mnt/stockage/packages/f10/libextractor/po/de.po | 
- | [ro]({{< ref "/f10/language/ro.md" >}}) | 598 | 785 | 76.2 | /mnt/stockage/packages/f10/libextractor/po/ro.po | 
- | [nl]({{< ref "/f10/language/nl.md" >}}) | 377 | 785 | 48.0 | /mnt/stockage/packages/f10/libextractor/po/nl.po | 
- | [rw]({{< ref "/f10/language/rw.md" >}}) | 16 | 785 | 2.0 | /mnt/stockage/packages/f10/libextractor/po/rw.po | 
+ | [ga](/f10/language/ga) | 785 | 785 | 100.0 | /mnt/stockage/packages/f10/libextractor/po/ga.po | 
+ | [sv](/f10/language/sv) | 785 | 785 | 100.0 | /mnt/stockage/packages/f10/libextractor/po/sv.po | 
+ | [vi](/f10/language/vi) | 785 | 785 | 100.0 | /mnt/stockage/packages/f10/libextractor/po/vi.po | 
+ | [de](/f10/language/de) | 761 | 785 | 96.9 | /mnt/stockage/packages/f10/libextractor/po/de.po | 
+ | [ro](/f10/language/ro) | 598 | 785 | 76.2 | /mnt/stockage/packages/f10/libextractor/po/ro.po | 
+ | [nl](/f10/language/nl) | 377 | 785 | 48.0 | /mnt/stockage/packages/f10/libextractor/po/nl.po | 
+ | [rw](/f10/language/rw) | 16 | 785 | 2.0 | /mnt/stockage/packages/f10/libextractor/po/rw.po | 
 {.sortable}
 
 

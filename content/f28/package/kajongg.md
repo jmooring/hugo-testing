@@ -18,50 +18,50 @@ The package kajongg (version 17.12.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f28/language/ca.md" >}}) | 2444 | 2444 | 100.0 | /mnt/stockage/packages/f28/kajongg/po/ca/kajongg.po | 
- | [ca@valencia]({{< ref "/f28/language/ca@valencia.md" >}}) | 2444 | 2444 | 100.0 | /mnt/stockage/packages/f28/kajongg/po/ca@valencia/kajongg.po | 
- | [en_GB]({{< ref "/f28/language/en_GB.md" >}}) | 2444 | 2444 | 100.0 | /mnt/stockage/packages/f28/kajongg/po/en_GB/kajongg.po | 
- | [es]({{< ref "/f28/language/es.md" >}}) | 2444 | 2444 | 100.0 | /mnt/stockage/packages/f28/kajongg/po/es/kajongg.po | 
- | [fr]({{< ref "/f28/language/fr.md" >}}) | 2444 | 2444 | 100.0 | /mnt/stockage/packages/f28/kajongg/po/fr/kajongg.po | 
- | [gl]({{< ref "/f28/language/gl.md" >}}) | 2444 | 2444 | 100.0 | /mnt/stockage/packages/f28/kajongg/po/gl/kajongg.po | 
- | [it]({{< ref "/f28/language/it.md" >}}) | 2444 | 2444 | 100.0 | /mnt/stockage/packages/f28/kajongg/po/it/kajongg.po | 
- | [nl]({{< ref "/f28/language/nl.md" >}}) | 2444 | 2444 | 100.0 | /mnt/stockage/packages/f28/kajongg/po/nl/kajongg.po | 
- | [pl]({{< ref "/f28/language/pl.md" >}}) | 2444 | 2444 | 100.0 | /mnt/stockage/packages/f28/kajongg/po/pl/kajongg.po | 
- | [pt]({{< ref "/f28/language/pt.md" >}}) | 2444 | 2444 | 100.0 | /mnt/stockage/packages/f28/kajongg/po/pt/kajongg.po | 
- | [pt_BR]({{< ref "/f28/language/pt_BR.md" >}}) | 2444 | 2444 | 100.0 | /mnt/stockage/packages/f28/kajongg/po/pt_BR/kajongg.po | 
- | [sk]({{< ref "/f28/language/sk.md" >}}) | 2444 | 2444 | 100.0 | /mnt/stockage/packages/f28/kajongg/po/sk/kajongg.po | 
- | [sl]({{< ref "/f28/language/sl.md" >}}) | 2444 | 2444 | 100.0 | /mnt/stockage/packages/f28/kajongg/po/sl/kajongg.po | 
- | [sr]({{< ref "/f28/language/sr.md" >}}) | 2444 | 2444 | 100.0 | /mnt/stockage/packages/f28/kajongg/po/sr/kajongg.po | 
- | [sv]({{< ref "/f28/language/sv.md" >}}) | 2444 | 2444 | 100.0 | /mnt/stockage/packages/f28/kajongg/po/sv/kajongg.po | 
- | [tr]({{< ref "/f28/language/tr.md" >}}) | 2444 | 2444 | 100.0 | /mnt/stockage/packages/f28/kajongg/po/tr/kajongg.po | 
- | [uk]({{< ref "/f28/language/uk.md" >}}) | 2444 | 2444 | 100.0 | /mnt/stockage/packages/f28/kajongg/po/uk/kajongg.po | 
- | [zh_Hant]({{< ref "/f28/language/zh_Hant.md" >}}) | 2444 | 2444 | 100.0 | /mnt/stockage/packages/f28/kajongg/po/zh_TW/kajongg.po | 
- | [de]({{< ref "/f28/language/de.md" >}}) | 2406 | 2444 | 98.4 | /mnt/stockage/packages/f28/kajongg/po/de/kajongg.po | 
- | [da]({{< ref "/f28/language/da.md" >}}) | 2254 | 2444 | 92.2 | /mnt/stockage/packages/f28/kajongg/po/da/kajongg.po | 
- | [bs]({{< ref "/f28/language/bs.md" >}}) | 2247 | 2444 | 91.9 | /mnt/stockage/packages/f28/kajongg/po/bs/kajongg.po | 
- | [nds]({{< ref "/f28/language/nds.md" >}}) | 2247 | 2444 | 91.9 | /mnt/stockage/packages/f28/kajongg/po/nds/kajongg.po | 
- | [ru]({{< ref "/f28/language/ru.md" >}}) | 2247 | 2444 | 91.9 | /mnt/stockage/packages/f28/kajongg/po/ru/kajongg.po | 
- | [et]({{< ref "/f28/language/et.md" >}}) | 2245 | 2444 | 91.9 | /mnt/stockage/packages/f28/kajongg/po/et/kajongg.po | 
- | [nb_NO]({{< ref "/f28/language/nb_NO.md" >}}) | 2209 | 2444 | 90.4 | /mnt/stockage/packages/f28/kajongg/po/nb/kajongg.po | 
- | [kk]({{< ref "/f28/language/kk.md" >}}) | 2128 | 2444 | 87.1 | /mnt/stockage/packages/f28/kajongg/po/kk/kajongg.po | 
- | [fi]({{< ref "/f28/language/fi.md" >}}) | 2005 | 2444 | 82.0 | /mnt/stockage/packages/f28/kajongg/po/fi/kajongg.po | 
- | [km]({{< ref "/f28/language/km.md" >}}) | 1982 | 2444 | 81.1 | /mnt/stockage/packages/f28/kajongg/po/km/kajongg.po | 
- | [nn]({{< ref "/f28/language/nn.md" >}}) | 856 | 2444 | 35.0 | /mnt/stockage/packages/f28/kajongg/po/nn/kajongg.po | 
- | [hu]({{< ref "/f28/language/hu.md" >}}) | 568 | 2444 | 23.2 | /mnt/stockage/packages/f28/kajongg/po/hu/kajongg.po | 
- | [zh_Hans]({{< ref "/f28/language/zh_Hans.md" >}}) | 565 | 2444 | 23.1 | /mnt/stockage/packages/f28/kajongg/po/zh_CN/kajongg.po | 
- | [cs]({{< ref "/f28/language/cs.md" >}}) | 428 | 2444 | 17.5 | /mnt/stockage/packages/f28/kajongg/po/cs/kajongg.po | 
- | [eu]({{< ref "/f28/language/eu.md" >}}) | 323 | 2444 | 13.2 | /mnt/stockage/packages/f28/kajongg/po/eu/kajongg.po | 
- | [bg]({{< ref "/f28/language/bg.md" >}}) | 316 | 2444 | 12.9 | /mnt/stockage/packages/f28/kajongg/po/bg/kajongg.po | 
- | [ro]({{< ref "/f28/language/ro.md" >}}) | 123 | 2444 | 5.0 | /mnt/stockage/packages/f28/kajongg/po/ro/kajongg.po | 
- | [ug]({{< ref "/f28/language/ug.md" >}}) | 108 | 2444 | 4.4 | /mnt/stockage/packages/f28/kajongg/po/ug/kajongg.po | 
- | [ga]({{< ref "/f28/language/ga.md" >}}) | 102 | 2444 | 4.2 | /mnt/stockage/packages/f28/kajongg/po/ga/kajongg.po | 
- | [el]({{< ref "/f28/language/el.md" >}}) | 100 | 2444 | 4.1 | /mnt/stockage/packages/f28/kajongg/po/el/kajongg.po | 
- | [ja]({{< ref "/f28/language/ja.md" >}}) | 88 | 2444 | 3.6 | /mnt/stockage/packages/f28/kajongg/po/ja/kajongg.po | 
- | [mr]({{< ref "/f28/language/mr.md" >}}) | 58 | 2444 | 2.4 | /mnt/stockage/packages/f28/kajongg/po/mr/kajongg.po | 
- | [lt]({{< ref "/f28/language/lt.md" >}}) | 49 | 2444 | 2.0 | /mnt/stockage/packages/f28/kajongg/po/lt/kajongg.po | 
- | [eo]({{< ref "/f28/language/eo.md" >}}) | 46 | 2444 | 1.9 | /mnt/stockage/packages/f28/kajongg/po/eo/kajongg.po | 
- | [ast]({{< ref "/f28/language/ast.md" >}}) | 1 | 2444 | 0.0 | /mnt/stockage/packages/f28/kajongg/po/ast/kajongg.po | 
- | [is]({{< ref "/f28/language/is.md" >}}) | 0 | 2444 | 0.0 | /mnt/stockage/packages/f28/kajongg/po/is/kajongg.po | 
+ | [ca](/f28/language/ca) | 2444 | 2444 | 100.0 | /mnt/stockage/packages/f28/kajongg/po/ca/kajongg.po | 
+ | [ca@valencia](/f28/language/ca@valencia) | 2444 | 2444 | 100.0 | /mnt/stockage/packages/f28/kajongg/po/ca@valencia/kajongg.po | 
+ | [en_GB](/f28/language/en_GB) | 2444 | 2444 | 100.0 | /mnt/stockage/packages/f28/kajongg/po/en_GB/kajongg.po | 
+ | [es](/f28/language/es) | 2444 | 2444 | 100.0 | /mnt/stockage/packages/f28/kajongg/po/es/kajongg.po | 
+ | [fr](/f28/language/fr) | 2444 | 2444 | 100.0 | /mnt/stockage/packages/f28/kajongg/po/fr/kajongg.po | 
+ | [gl](/f28/language/gl) | 2444 | 2444 | 100.0 | /mnt/stockage/packages/f28/kajongg/po/gl/kajongg.po | 
+ | [it](/f28/language/it) | 2444 | 2444 | 100.0 | /mnt/stockage/packages/f28/kajongg/po/it/kajongg.po | 
+ | [nl](/f28/language/nl) | 2444 | 2444 | 100.0 | /mnt/stockage/packages/f28/kajongg/po/nl/kajongg.po | 
+ | [pl](/f28/language/pl) | 2444 | 2444 | 100.0 | /mnt/stockage/packages/f28/kajongg/po/pl/kajongg.po | 
+ | [pt](/f28/language/pt) | 2444 | 2444 | 100.0 | /mnt/stockage/packages/f28/kajongg/po/pt/kajongg.po | 
+ | [pt_BR](/f28/language/pt_BR) | 2444 | 2444 | 100.0 | /mnt/stockage/packages/f28/kajongg/po/pt_BR/kajongg.po | 
+ | [sk](/f28/language/sk) | 2444 | 2444 | 100.0 | /mnt/stockage/packages/f28/kajongg/po/sk/kajongg.po | 
+ | [sl](/f28/language/sl) | 2444 | 2444 | 100.0 | /mnt/stockage/packages/f28/kajongg/po/sl/kajongg.po | 
+ | [sr](/f28/language/sr) | 2444 | 2444 | 100.0 | /mnt/stockage/packages/f28/kajongg/po/sr/kajongg.po | 
+ | [sv](/f28/language/sv) | 2444 | 2444 | 100.0 | /mnt/stockage/packages/f28/kajongg/po/sv/kajongg.po | 
+ | [tr](/f28/language/tr) | 2444 | 2444 | 100.0 | /mnt/stockage/packages/f28/kajongg/po/tr/kajongg.po | 
+ | [uk](/f28/language/uk) | 2444 | 2444 | 100.0 | /mnt/stockage/packages/f28/kajongg/po/uk/kajongg.po | 
+ | [zh_Hant](/f28/language/zh_Hant) | 2444 | 2444 | 100.0 | /mnt/stockage/packages/f28/kajongg/po/zh_TW/kajongg.po | 
+ | [de](/f28/language/de) | 2406 | 2444 | 98.4 | /mnt/stockage/packages/f28/kajongg/po/de/kajongg.po | 
+ | [da](/f28/language/da) | 2254 | 2444 | 92.2 | /mnt/stockage/packages/f28/kajongg/po/da/kajongg.po | 
+ | [bs](/f28/language/bs) | 2247 | 2444 | 91.9 | /mnt/stockage/packages/f28/kajongg/po/bs/kajongg.po | 
+ | [nds](/f28/language/nds) | 2247 | 2444 | 91.9 | /mnt/stockage/packages/f28/kajongg/po/nds/kajongg.po | 
+ | [ru](/f28/language/ru) | 2247 | 2444 | 91.9 | /mnt/stockage/packages/f28/kajongg/po/ru/kajongg.po | 
+ | [et](/f28/language/et) | 2245 | 2444 | 91.9 | /mnt/stockage/packages/f28/kajongg/po/et/kajongg.po | 
+ | [nb_NO](/f28/language/nb_NO) | 2209 | 2444 | 90.4 | /mnt/stockage/packages/f28/kajongg/po/nb/kajongg.po | 
+ | [kk](/f28/language/kk) | 2128 | 2444 | 87.1 | /mnt/stockage/packages/f28/kajongg/po/kk/kajongg.po | 
+ | [fi](/f28/language/fi) | 2005 | 2444 | 82.0 | /mnt/stockage/packages/f28/kajongg/po/fi/kajongg.po | 
+ | [km](/f28/language/km) | 1982 | 2444 | 81.1 | /mnt/stockage/packages/f28/kajongg/po/km/kajongg.po | 
+ | [nn](/f28/language/nn) | 856 | 2444 | 35.0 | /mnt/stockage/packages/f28/kajongg/po/nn/kajongg.po | 
+ | [hu](/f28/language/hu) | 568 | 2444 | 23.2 | /mnt/stockage/packages/f28/kajongg/po/hu/kajongg.po | 
+ | [zh_Hans](/f28/language/zh_Hans) | 565 | 2444 | 23.1 | /mnt/stockage/packages/f28/kajongg/po/zh_CN/kajongg.po | 
+ | [cs](/f28/language/cs) | 428 | 2444 | 17.5 | /mnt/stockage/packages/f28/kajongg/po/cs/kajongg.po | 
+ | [eu](/f28/language/eu) | 323 | 2444 | 13.2 | /mnt/stockage/packages/f28/kajongg/po/eu/kajongg.po | 
+ | [bg](/f28/language/bg) | 316 | 2444 | 12.9 | /mnt/stockage/packages/f28/kajongg/po/bg/kajongg.po | 
+ | [ro](/f28/language/ro) | 123 | 2444 | 5.0 | /mnt/stockage/packages/f28/kajongg/po/ro/kajongg.po | 
+ | [ug](/f28/language/ug) | 108 | 2444 | 4.4 | /mnt/stockage/packages/f28/kajongg/po/ug/kajongg.po | 
+ | [ga](/f28/language/ga) | 102 | 2444 | 4.2 | /mnt/stockage/packages/f28/kajongg/po/ga/kajongg.po | 
+ | [el](/f28/language/el) | 100 | 2444 | 4.1 | /mnt/stockage/packages/f28/kajongg/po/el/kajongg.po | 
+ | [ja](/f28/language/ja) | 88 | 2444 | 3.6 | /mnt/stockage/packages/f28/kajongg/po/ja/kajongg.po | 
+ | [mr](/f28/language/mr) | 58 | 2444 | 2.4 | /mnt/stockage/packages/f28/kajongg/po/mr/kajongg.po | 
+ | [lt](/f28/language/lt) | 49 | 2444 | 2.0 | /mnt/stockage/packages/f28/kajongg/po/lt/kajongg.po | 
+ | [eo](/f28/language/eo) | 46 | 2444 | 1.9 | /mnt/stockage/packages/f28/kajongg/po/eo/kajongg.po | 
+ | [ast](/f28/language/ast) | 1 | 2444 | 0.0 | /mnt/stockage/packages/f28/kajongg/po/ast/kajongg.po | 
+ | [is](/f28/language/is) | 0 | 2444 | 0.0 | /mnt/stockage/packages/f28/kajongg/po/is/kajongg.po | 
 {.sortable}
 
 

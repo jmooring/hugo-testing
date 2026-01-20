@@ -18,89 +18,89 @@ The package network-manager-applet (version 1.36.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [tr]({{< ref "/f42/language/tr.md" >}}) | 4439 | 4439 | 100.0 | /mnt/stockage/packages/f42/network-manager-applet/po/tr.po | 
- | [uk]({{< ref "/f42/language/uk.md" >}}) | 4439 | 4439 | 100.0 | /mnt/stockage/packages/f42/network-manager-applet/po/uk.po | 
- | [da]({{< ref "/f42/language/da.md" >}}) | 4436 | 4439 | 99.9 | /mnt/stockage/packages/f42/network-manager-applet/po/da.po | 
- | [de]({{< ref "/f42/language/de.md" >}}) | 4436 | 4439 | 99.9 | /mnt/stockage/packages/f42/network-manager-applet/po/de.po | 
- | [pl]({{< ref "/f42/language/pl.md" >}}) | 4436 | 4439 | 99.9 | /mnt/stockage/packages/f42/network-manager-applet/po/pl.po | 
- | [pt]({{< ref "/f42/language/pt.md" >}}) | 4436 | 4439 | 99.9 | /mnt/stockage/packages/f42/network-manager-applet/po/pt.po | 
- | [sv]({{< ref "/f42/language/sv.md" >}}) | 4436 | 4439 | 99.9 | /mnt/stockage/packages/f42/network-manager-applet/po/sv.po | 
- | [zh_Hans]({{< ref "/f42/language/zh_Hans.md" >}}) | 4436 | 4439 | 99.9 | /mnt/stockage/packages/f42/network-manager-applet/po/zh_CN.po | 
- | [it]({{< ref "/f42/language/it.md" >}}) | 4410 | 4439 | 99.3 | /mnt/stockage/packages/f42/network-manager-applet/po/it.po | 
- | [ca]({{< ref "/f42/language/ca.md" >}}) | 4387 | 4439 | 98.8 | /mnt/stockage/packages/f42/network-manager-applet/po/ca.po | 
- | [es]({{< ref "/f42/language/es.md" >}}) | 4387 | 4439 | 98.8 | /mnt/stockage/packages/f42/network-manager-applet/po/es.po | 
- | [eu]({{< ref "/f42/language/eu.md" >}}) | 4387 | 4439 | 98.8 | /mnt/stockage/packages/f42/network-manager-applet/po/eu.po | 
- | [hr]({{< ref "/f42/language/hr.md" >}}) | 4387 | 4439 | 98.8 | /mnt/stockage/packages/f42/network-manager-applet/po/hr.po | 
- | [id]({{< ref "/f42/language/id.md" >}}) | 4387 | 4439 | 98.8 | /mnt/stockage/packages/f42/network-manager-applet/po/id.po | 
- | [lt]({{< ref "/f42/language/lt.md" >}}) | 4387 | 4439 | 98.8 | /mnt/stockage/packages/f42/network-manager-applet/po/lt.po | 
- | [ru]({{< ref "/f42/language/ru.md" >}}) | 4387 | 4439 | 98.8 | /mnt/stockage/packages/f42/network-manager-applet/po/ru.po | 
- | [sr]({{< ref "/f42/language/sr.md" >}}) | 4379 | 4439 | 98.6 | /mnt/stockage/packages/f42/network-manager-applet/po/sr.po | 
- | [fr]({{< ref "/f42/language/fr.md" >}}) | 4377 | 4439 | 98.6 | /mnt/stockage/packages/f42/network-manager-applet/po/fr.po | 
- | [ja]({{< ref "/f42/language/ja.md" >}}) | 4377 | 4439 | 98.6 | /mnt/stockage/packages/f42/network-manager-applet/po/ja.po | 
- | [nl]({{< ref "/f42/language/nl.md" >}}) | 4377 | 4439 | 98.6 | /mnt/stockage/packages/f42/network-manager-applet/po/nl.po | 
- | [cs]({{< ref "/f42/language/cs.md" >}}) | 4320 | 4439 | 97.3 | /mnt/stockage/packages/f42/network-manager-applet/po/cs.po | 
- | [be]({{< ref "/f42/language/be.md" >}}) | 4287 | 4439 | 96.6 | /mnt/stockage/packages/f42/network-manager-applet/po/be.po | 
- | [pt_BR]({{< ref "/f42/language/pt_BR.md" >}}) | 4271 | 4439 | 96.2 | /mnt/stockage/packages/f42/network-manager-applet/po/pt_BR.po | 
- | [hu]({{< ref "/f42/language/hu.md" >}}) | 4025 | 4439 | 90.7 | /mnt/stockage/packages/f42/network-manager-applet/po/hu.po | 
- | [zh_Hant]({{< ref "/f42/language/zh_Hant.md" >}}) | 4012 | 4439 | 90.4 | /mnt/stockage/packages/f42/network-manager-applet/po/zh_TW.po | 
- | [lv]({{< ref "/f42/language/lv.md" >}}) | 3849 | 4439 | 86.7 | /mnt/stockage/packages/f42/network-manager-applet/po/lv.po | 
- | [sr_Latn]({{< ref "/f42/language/sr_Latn.md" >}}) | 3644 | 4439 | 82.1 | /mnt/stockage/packages/f42/network-manager-applet/po/sr@latin.po | 
- | [gl]({{< ref "/f42/language/gl.md" >}}) | 3428 | 4439 | 77.2 | /mnt/stockage/packages/f42/network-manager-applet/po/gl.po | 
- | [sl]({{< ref "/f42/language/sl.md" >}}) | 3010 | 4439 | 67.8 | /mnt/stockage/packages/f42/network-manager-applet/po/sl.po | 
- | [fi]({{< ref "/f42/language/fi.md" >}}) | 2985 | 4439 | 67.2 | /mnt/stockage/packages/f42/network-manager-applet/po/fi.po | 
- | [nb_NO]({{< ref "/f42/language/nb_NO.md" >}}) | 2934 | 4439 | 66.1 | /mnt/stockage/packages/f42/network-manager-applet/po/nb.po | 
- | [oc]({{< ref "/f42/language/oc.md" >}}) | 2752 | 4439 | 62.0 | /mnt/stockage/packages/f42/network-manager-applet/po/oc.po | 
- | [sk]({{< ref "/f42/language/sk.md" >}}) | 2711 | 4439 | 61.1 | /mnt/stockage/packages/f42/network-manager-applet/po/sk.po | 
- | [pa]({{< ref "/f42/language/pa.md" >}}) | 2595 | 4439 | 58.5 | /mnt/stockage/packages/f42/network-manager-applet/po/pa.po | 
- | [gd]({{< ref "/f42/language/gd.md" >}}) | 2435 | 4439 | 54.9 | /mnt/stockage/packages/f42/network-manager-applet/po/gd.po | 
- | [is]({{< ref "/f42/language/is.md" >}}) | 2418 | 4439 | 54.5 | /mnt/stockage/packages/f42/network-manager-applet/po/is.po | 
- | [kk]({{< ref "/f42/language/kk.md" >}}) | 2144 | 4439 | 48.3 | /mnt/stockage/packages/f42/network-manager-applet/po/kk.po | 
- | [he]({{< ref "/f42/language/he.md" >}}) | 2075 | 4439 | 46.7 | /mnt/stockage/packages/f42/network-manager-applet/po/he.po | 
- | [vi]({{< ref "/f42/language/vi.md" >}}) | 1486 | 4439 | 33.5 | /mnt/stockage/packages/f42/network-manager-applet/po/vi.po | 
- | [bs]({{< ref "/f42/language/bs.md" >}}) | 1484 | 4439 | 33.4 | /mnt/stockage/packages/f42/network-manager-applet/po/bs.po | 
- | [zh_Hant_HK]({{< ref "/f42/language/zh_Hant_HK.md" >}}) | 1482 | 4439 | 33.4 | /mnt/stockage/packages/f42/network-manager-applet/po/zh_HK.po | 
- | [el]({{< ref "/f42/language/el.md" >}}) | 1480 | 4439 | 33.3 | /mnt/stockage/packages/f42/network-manager-applet/po/el.po | 
- | [as]({{< ref "/f42/language/as.md" >}}) | 1478 | 4439 | 33.3 | /mnt/stockage/packages/f42/network-manager-applet/po/as.po | 
- | [bg]({{< ref "/f42/language/bg.md" >}}) | 1477 | 4439 | 33.3 | /mnt/stockage/packages/f42/network-manager-applet/po/bg.po | 
- | [ca@valencia]({{< ref "/f42/language/ca@valencia.md" >}}) | 1476 | 4439 | 33.3 | /mnt/stockage/packages/f42/network-manager-applet/po/ca@valencia.po | 
- | [km]({{< ref "/f42/language/km.md" >}}) | 1470 | 4439 | 33.1 | /mnt/stockage/packages/f42/network-manager-applet/po/km.po | 
- | [ko]({{< ref "/f42/language/ko.md" >}}) | 1447 | 4439 | 32.6 | /mnt/stockage/packages/f42/network-manager-applet/po/ko.po | 
- | [et]({{< ref "/f42/language/et.md" >}}) | 1340 | 4439 | 30.2 | /mnt/stockage/packages/f42/network-manager-applet/po/et.po | 
- | [ml]({{< ref "/f42/language/ml.md" >}}) | 1340 | 4439 | 30.2 | /mnt/stockage/packages/f42/network-manager-applet/po/ml.po | 
- | [en_GB]({{< ref "/f42/language/en_GB.md" >}}) | 1311 | 4439 | 29.5 | /mnt/stockage/packages/f42/network-manager-applet/po/en_GB.po | 
- | [hi]({{< ref "/f42/language/hi.md" >}}) | 1311 | 4439 | 29.5 | /mnt/stockage/packages/f42/network-manager-applet/po/hi.po | 
- | [ug]({{< ref "/f42/language/ug.md" >}}) | 1273 | 4439 | 28.7 | /mnt/stockage/packages/f42/network-manager-applet/po/ug.po | 
- | [eo]({{< ref "/f42/language/eo.md" >}}) | 1267 | 4439 | 28.5 | /mnt/stockage/packages/f42/network-manager-applet/po/eo.po | 
- | [crh]({{< ref "/f42/language/crh.md" >}}) | 1234 | 4439 | 27.8 | /mnt/stockage/packages/f42/network-manager-applet/po/crh.po | 
- | [gu]({{< ref "/f42/language/gu.md" >}}) | 1230 | 4439 | 27.7 | /mnt/stockage/packages/f42/network-manager-applet/po/gu.po | 
- | [ro]({{< ref "/f42/language/ro.md" >}}) | 1184 | 4439 | 26.7 | /mnt/stockage/packages/f42/network-manager-applet/po/ro.po | 
- | [te]({{< ref "/f42/language/te.md" >}}) | 1061 | 4439 | 23.9 | /mnt/stockage/packages/f42/network-manager-applet/po/te.po | 
- | [th]({{< ref "/f42/language/th.md" >}}) | 982 | 4439 | 22.1 | /mnt/stockage/packages/f42/network-manager-applet/po/th.po | 
- | [fa]({{< ref "/f42/language/fa.md" >}}) | 981 | 4439 | 22.1 | /mnt/stockage/packages/f42/network-manager-applet/po/fa.po | 
- | [ta]({{< ref "/f42/language/ta.md" >}}) | 968 | 4439 | 21.8 | /mnt/stockage/packages/f42/network-manager-applet/po/ta.po | 
- | [nn]({{< ref "/f42/language/nn.md" >}}) | 924 | 4439 | 20.8 | /mnt/stockage/packages/f42/network-manager-applet/po/nn.po | 
- | [mr]({{< ref "/f42/language/mr.md" >}}) | 898 | 4439 | 20.2 | /mnt/stockage/packages/f42/network-manager-applet/po/mr.po | 
- | [ka]({{< ref "/f42/language/ka.md" >}}) | 853 | 4439 | 19.2 | /mnt/stockage/packages/f42/network-manager-applet/po/ka.po | 
- | [mk]({{< ref "/f42/language/mk.md" >}}) | 848 | 4439 | 19.1 | /mnt/stockage/packages/f42/network-manager-applet/po/mk.po | 
- | [ms]({{< ref "/f42/language/ms.md" >}}) | 847 | 4439 | 19.1 | /mnt/stockage/packages/f42/network-manager-applet/po/ms.po | 
- | [ast]({{< ref "/f42/language/ast.md" >}}) | 832 | 4439 | 18.7 | /mnt/stockage/packages/f42/network-manager-applet/po/ast.po | 
- | [bn_IN]({{< ref "/f42/language/bn_IN.md" >}}) | 819 | 4439 | 18.5 | /mnt/stockage/packages/f42/network-manager-applet/po/bn_IN.po | 
- | [kn]({{< ref "/f42/language/kn.md" >}}) | 819 | 4439 | 18.5 | /mnt/stockage/packages/f42/network-manager-applet/po/kn.po | 
- | [or]({{< ref "/f42/language/or.md" >}}) | 819 | 4439 | 18.5 | /mnt/stockage/packages/f42/network-manager-applet/po/or.po | 
- | [an]({{< ref "/f42/language/an.md" >}}) | 668 | 4439 | 15.0 | /mnt/stockage/packages/f42/network-manager-applet/po/an.po | 
- | [ar]({{< ref "/f42/language/ar.md" >}}) | 647 | 4439 | 14.6 | /mnt/stockage/packages/f42/network-manager-applet/po/ar.po | 
- | [ie]({{< ref "/f42/language/ie.md" >}}) | 599 | 4439 | 13.5 | /mnt/stockage/packages/f42/network-manager-applet/po/ie.po | 
- | [ur]({{< ref "/f42/language/ur.md" >}}) | 578 | 4439 | 13.0 | /mnt/stockage/packages/f42/network-manager-applet/po/ur.po | 
- | [tg]({{< ref "/f42/language/tg.md" >}}) | 518 | 4439 | 11.7 | /mnt/stockage/packages/f42/network-manager-applet/po/tg.po | 
- | [be_Latn]({{< ref "/f42/language/be_Latn.md" >}}) | 323 | 4439 | 7.3 | /mnt/stockage/packages/f42/network-manager-applet/po/be@latin.po | 
- | [af]({{< ref "/f42/language/af.md" >}}) | 310 | 4439 | 7.0 | /mnt/stockage/packages/f42/network-manager-applet/po/af.po | 
- | [ku]({{< ref "/f42/language/ku.md" >}}) | 216 | 4439 | 4.9 | /mnt/stockage/packages/f42/network-manager-applet/po/ku.po | 
- | [dz]({{< ref "/f42/language/dz.md" >}}) | 65 | 4439 | 1.5 | /mnt/stockage/packages/f42/network-manager-applet/po/dz.po | 
- | [ne]({{< ref "/f42/language/ne.md" >}}) | 65 | 4439 | 1.5 | /mnt/stockage/packages/f42/network-manager-applet/po/ne.po | 
- | [en_CA]({{< ref "/f42/language/en_CA.md" >}}) | 49 | 4439 | 1.1 | /mnt/stockage/packages/f42/network-manager-applet/po/en_CA.po | 
- | [sq]({{< ref "/f42/language/sq.md" >}}) | 2 | 4439 | 0.0 | /mnt/stockage/packages/f42/network-manager-applet/po/sq.po | 
- | [wa]({{< ref "/f42/language/wa.md" >}}) | 2 | 4439 | 0.0 | /mnt/stockage/packages/f42/network-manager-applet/po/wa.po | 
- | [rw]({{< ref "/f42/language/rw.md" >}}) | 0 | 4439 | 0.0 | /mnt/stockage/packages/f42/network-manager-applet/po/rw.po | 
+ | [tr](/f42/language/tr) | 4439 | 4439 | 100.0 | /mnt/stockage/packages/f42/network-manager-applet/po/tr.po | 
+ | [uk](/f42/language/uk) | 4439 | 4439 | 100.0 | /mnt/stockage/packages/f42/network-manager-applet/po/uk.po | 
+ | [da](/f42/language/da) | 4436 | 4439 | 99.9 | /mnt/stockage/packages/f42/network-manager-applet/po/da.po | 
+ | [de](/f42/language/de) | 4436 | 4439 | 99.9 | /mnt/stockage/packages/f42/network-manager-applet/po/de.po | 
+ | [pl](/f42/language/pl) | 4436 | 4439 | 99.9 | /mnt/stockage/packages/f42/network-manager-applet/po/pl.po | 
+ | [pt](/f42/language/pt) | 4436 | 4439 | 99.9 | /mnt/stockage/packages/f42/network-manager-applet/po/pt.po | 
+ | [sv](/f42/language/sv) | 4436 | 4439 | 99.9 | /mnt/stockage/packages/f42/network-manager-applet/po/sv.po | 
+ | [zh_Hans](/f42/language/zh_Hans) | 4436 | 4439 | 99.9 | /mnt/stockage/packages/f42/network-manager-applet/po/zh_CN.po | 
+ | [it](/f42/language/it) | 4410 | 4439 | 99.3 | /mnt/stockage/packages/f42/network-manager-applet/po/it.po | 
+ | [ca](/f42/language/ca) | 4387 | 4439 | 98.8 | /mnt/stockage/packages/f42/network-manager-applet/po/ca.po | 
+ | [es](/f42/language/es) | 4387 | 4439 | 98.8 | /mnt/stockage/packages/f42/network-manager-applet/po/es.po | 
+ | [eu](/f42/language/eu) | 4387 | 4439 | 98.8 | /mnt/stockage/packages/f42/network-manager-applet/po/eu.po | 
+ | [hr](/f42/language/hr) | 4387 | 4439 | 98.8 | /mnt/stockage/packages/f42/network-manager-applet/po/hr.po | 
+ | [id](/f42/language/id) | 4387 | 4439 | 98.8 | /mnt/stockage/packages/f42/network-manager-applet/po/id.po | 
+ | [lt](/f42/language/lt) | 4387 | 4439 | 98.8 | /mnt/stockage/packages/f42/network-manager-applet/po/lt.po | 
+ | [ru](/f42/language/ru) | 4387 | 4439 | 98.8 | /mnt/stockage/packages/f42/network-manager-applet/po/ru.po | 
+ | [sr](/f42/language/sr) | 4379 | 4439 | 98.6 | /mnt/stockage/packages/f42/network-manager-applet/po/sr.po | 
+ | [fr](/f42/language/fr) | 4377 | 4439 | 98.6 | /mnt/stockage/packages/f42/network-manager-applet/po/fr.po | 
+ | [ja](/f42/language/ja) | 4377 | 4439 | 98.6 | /mnt/stockage/packages/f42/network-manager-applet/po/ja.po | 
+ | [nl](/f42/language/nl) | 4377 | 4439 | 98.6 | /mnt/stockage/packages/f42/network-manager-applet/po/nl.po | 
+ | [cs](/f42/language/cs) | 4320 | 4439 | 97.3 | /mnt/stockage/packages/f42/network-manager-applet/po/cs.po | 
+ | [be](/f42/language/be) | 4287 | 4439 | 96.6 | /mnt/stockage/packages/f42/network-manager-applet/po/be.po | 
+ | [pt_BR](/f42/language/pt_BR) | 4271 | 4439 | 96.2 | /mnt/stockage/packages/f42/network-manager-applet/po/pt_BR.po | 
+ | [hu](/f42/language/hu) | 4025 | 4439 | 90.7 | /mnt/stockage/packages/f42/network-manager-applet/po/hu.po | 
+ | [zh_Hant](/f42/language/zh_Hant) | 4012 | 4439 | 90.4 | /mnt/stockage/packages/f42/network-manager-applet/po/zh_TW.po | 
+ | [lv](/f42/language/lv) | 3849 | 4439 | 86.7 | /mnt/stockage/packages/f42/network-manager-applet/po/lv.po | 
+ | [sr_Latn](/f42/language/sr_Latn) | 3644 | 4439 | 82.1 | /mnt/stockage/packages/f42/network-manager-applet/po/sr@latin.po | 
+ | [gl](/f42/language/gl) | 3428 | 4439 | 77.2 | /mnt/stockage/packages/f42/network-manager-applet/po/gl.po | 
+ | [sl](/f42/language/sl) | 3010 | 4439 | 67.8 | /mnt/stockage/packages/f42/network-manager-applet/po/sl.po | 
+ | [fi](/f42/language/fi) | 2985 | 4439 | 67.2 | /mnt/stockage/packages/f42/network-manager-applet/po/fi.po | 
+ | [nb_NO](/f42/language/nb_NO) | 2934 | 4439 | 66.1 | /mnt/stockage/packages/f42/network-manager-applet/po/nb.po | 
+ | [oc](/f42/language/oc) | 2752 | 4439 | 62.0 | /mnt/stockage/packages/f42/network-manager-applet/po/oc.po | 
+ | [sk](/f42/language/sk) | 2711 | 4439 | 61.1 | /mnt/stockage/packages/f42/network-manager-applet/po/sk.po | 
+ | [pa](/f42/language/pa) | 2595 | 4439 | 58.5 | /mnt/stockage/packages/f42/network-manager-applet/po/pa.po | 
+ | [gd](/f42/language/gd) | 2435 | 4439 | 54.9 | /mnt/stockage/packages/f42/network-manager-applet/po/gd.po | 
+ | [is](/f42/language/is) | 2418 | 4439 | 54.5 | /mnt/stockage/packages/f42/network-manager-applet/po/is.po | 
+ | [kk](/f42/language/kk) | 2144 | 4439 | 48.3 | /mnt/stockage/packages/f42/network-manager-applet/po/kk.po | 
+ | [he](/f42/language/he) | 2075 | 4439 | 46.7 | /mnt/stockage/packages/f42/network-manager-applet/po/he.po | 
+ | [vi](/f42/language/vi) | 1486 | 4439 | 33.5 | /mnt/stockage/packages/f42/network-manager-applet/po/vi.po | 
+ | [bs](/f42/language/bs) | 1484 | 4439 | 33.4 | /mnt/stockage/packages/f42/network-manager-applet/po/bs.po | 
+ | [zh_Hant_HK](/f42/language/zh_Hant_HK) | 1482 | 4439 | 33.4 | /mnt/stockage/packages/f42/network-manager-applet/po/zh_HK.po | 
+ | [el](/f42/language/el) | 1480 | 4439 | 33.3 | /mnt/stockage/packages/f42/network-manager-applet/po/el.po | 
+ | [as](/f42/language/as) | 1478 | 4439 | 33.3 | /mnt/stockage/packages/f42/network-manager-applet/po/as.po | 
+ | [bg](/f42/language/bg) | 1477 | 4439 | 33.3 | /mnt/stockage/packages/f42/network-manager-applet/po/bg.po | 
+ | [ca@valencia](/f42/language/ca@valencia) | 1476 | 4439 | 33.3 | /mnt/stockage/packages/f42/network-manager-applet/po/ca@valencia.po | 
+ | [km](/f42/language/km) | 1470 | 4439 | 33.1 | /mnt/stockage/packages/f42/network-manager-applet/po/km.po | 
+ | [ko](/f42/language/ko) | 1447 | 4439 | 32.6 | /mnt/stockage/packages/f42/network-manager-applet/po/ko.po | 
+ | [et](/f42/language/et) | 1340 | 4439 | 30.2 | /mnt/stockage/packages/f42/network-manager-applet/po/et.po | 
+ | [ml](/f42/language/ml) | 1340 | 4439 | 30.2 | /mnt/stockage/packages/f42/network-manager-applet/po/ml.po | 
+ | [en_GB](/f42/language/en_GB) | 1311 | 4439 | 29.5 | /mnt/stockage/packages/f42/network-manager-applet/po/en_GB.po | 
+ | [hi](/f42/language/hi) | 1311 | 4439 | 29.5 | /mnt/stockage/packages/f42/network-manager-applet/po/hi.po | 
+ | [ug](/f42/language/ug) | 1273 | 4439 | 28.7 | /mnt/stockage/packages/f42/network-manager-applet/po/ug.po | 
+ | [eo](/f42/language/eo) | 1267 | 4439 | 28.5 | /mnt/stockage/packages/f42/network-manager-applet/po/eo.po | 
+ | [crh](/f42/language/crh) | 1234 | 4439 | 27.8 | /mnt/stockage/packages/f42/network-manager-applet/po/crh.po | 
+ | [gu](/f42/language/gu) | 1230 | 4439 | 27.7 | /mnt/stockage/packages/f42/network-manager-applet/po/gu.po | 
+ | [ro](/f42/language/ro) | 1184 | 4439 | 26.7 | /mnt/stockage/packages/f42/network-manager-applet/po/ro.po | 
+ | [te](/f42/language/te) | 1061 | 4439 | 23.9 | /mnt/stockage/packages/f42/network-manager-applet/po/te.po | 
+ | [th](/f42/language/th) | 982 | 4439 | 22.1 | /mnt/stockage/packages/f42/network-manager-applet/po/th.po | 
+ | [fa](/f42/language/fa) | 981 | 4439 | 22.1 | /mnt/stockage/packages/f42/network-manager-applet/po/fa.po | 
+ | [ta](/f42/language/ta) | 968 | 4439 | 21.8 | /mnt/stockage/packages/f42/network-manager-applet/po/ta.po | 
+ | [nn](/f42/language/nn) | 924 | 4439 | 20.8 | /mnt/stockage/packages/f42/network-manager-applet/po/nn.po | 
+ | [mr](/f42/language/mr) | 898 | 4439 | 20.2 | /mnt/stockage/packages/f42/network-manager-applet/po/mr.po | 
+ | [ka](/f42/language/ka) | 853 | 4439 | 19.2 | /mnt/stockage/packages/f42/network-manager-applet/po/ka.po | 
+ | [mk](/f42/language/mk) | 848 | 4439 | 19.1 | /mnt/stockage/packages/f42/network-manager-applet/po/mk.po | 
+ | [ms](/f42/language/ms) | 847 | 4439 | 19.1 | /mnt/stockage/packages/f42/network-manager-applet/po/ms.po | 
+ | [ast](/f42/language/ast) | 832 | 4439 | 18.7 | /mnt/stockage/packages/f42/network-manager-applet/po/ast.po | 
+ | [bn_IN](/f42/language/bn_IN) | 819 | 4439 | 18.5 | /mnt/stockage/packages/f42/network-manager-applet/po/bn_IN.po | 
+ | [kn](/f42/language/kn) | 819 | 4439 | 18.5 | /mnt/stockage/packages/f42/network-manager-applet/po/kn.po | 
+ | [or](/f42/language/or) | 819 | 4439 | 18.5 | /mnt/stockage/packages/f42/network-manager-applet/po/or.po | 
+ | [an](/f42/language/an) | 668 | 4439 | 15.0 | /mnt/stockage/packages/f42/network-manager-applet/po/an.po | 
+ | [ar](/f42/language/ar) | 647 | 4439 | 14.6 | /mnt/stockage/packages/f42/network-manager-applet/po/ar.po | 
+ | [ie](/f42/language/ie) | 599 | 4439 | 13.5 | /mnt/stockage/packages/f42/network-manager-applet/po/ie.po | 
+ | [ur](/f42/language/ur) | 578 | 4439 | 13.0 | /mnt/stockage/packages/f42/network-manager-applet/po/ur.po | 
+ | [tg](/f42/language/tg) | 518 | 4439 | 11.7 | /mnt/stockage/packages/f42/network-manager-applet/po/tg.po | 
+ | [be_Latn](/f42/language/be_Latn) | 323 | 4439 | 7.3 | /mnt/stockage/packages/f42/network-manager-applet/po/be@latin.po | 
+ | [af](/f42/language/af) | 310 | 4439 | 7.0 | /mnt/stockage/packages/f42/network-manager-applet/po/af.po | 
+ | [ku](/f42/language/ku) | 216 | 4439 | 4.9 | /mnt/stockage/packages/f42/network-manager-applet/po/ku.po | 
+ | [dz](/f42/language/dz) | 65 | 4439 | 1.5 | /mnt/stockage/packages/f42/network-manager-applet/po/dz.po | 
+ | [ne](/f42/language/ne) | 65 | 4439 | 1.5 | /mnt/stockage/packages/f42/network-manager-applet/po/ne.po | 
+ | [en_CA](/f42/language/en_CA) | 49 | 4439 | 1.1 | /mnt/stockage/packages/f42/network-manager-applet/po/en_CA.po | 
+ | [sq](/f42/language/sq) | 2 | 4439 | 0.0 | /mnt/stockage/packages/f42/network-manager-applet/po/sq.po | 
+ | [wa](/f42/language/wa) | 2 | 4439 | 0.0 | /mnt/stockage/packages/f42/network-manager-applet/po/wa.po | 
+ | [rw](/f42/language/rw) | 0 | 4439 | 0.0 | /mnt/stockage/packages/f42/network-manager-applet/po/rw.po | 
 {.sortable}
 
 

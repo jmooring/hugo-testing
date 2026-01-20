@@ -18,8 +18,8 @@ The package publican-icaro (version 0.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [en]({{< ref "/f24/language/en.md" >}}) | 27 | 27 | 100.0 | /mnt/stockage/packages/f24/publican-icaro/pt-BR/Feedback.po | 
- | [es]({{< ref "/f24/language/es.md" >}}) | 27 | 27 | 100.0 | /mnt/stockage/packages/f24/publican-icaro/es-ES/Feedback.po | 
+ | [en](/f24/language/en) | 27 | 27 | 100.0 | /mnt/stockage/packages/f24/publican-icaro/pt-BR/Feedback.po | 
+ | [es](/f24/language/es) | 27 | 27 | 100.0 | /mnt/stockage/packages/f24/publican-icaro/es-ES/Feedback.po | 
 {.sortable}
 
 

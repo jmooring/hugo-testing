@@ -18,8 +18,8 @@ The package meiga (version 0.3.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [es]({{< ref "/f14/language/es.md" >}}) | 363 | 363 | 100.0 | /mnt/stockage/packages/f14/meiga/po/es.po | 
- | [gl]({{< ref "/f14/language/gl.md" >}}) | 363 | 363 | 100.0 | /mnt/stockage/packages/f14/meiga/po/gl_ES.po | 
+ | [es](/f14/language/es) | 363 | 363 | 100.0 | /mnt/stockage/packages/f14/meiga/po/es.po | 
+ | [gl](/f14/language/gl) | 363 | 363 | 100.0 | /mnt/stockage/packages/f14/meiga/po/gl_ES.po | 
 {.sortable}
 
 

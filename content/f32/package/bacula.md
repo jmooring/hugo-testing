@@ -18,15 +18,15 @@ The package bacula (version 11.0.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [pl]({{< ref "/f32/language/pl.md" >}}) | 7995 | 21221 | 37.7 | /mnt/stockage/packages/f32/bacula/po/pl.po | 
- | [uk]({{< ref "/f32/language/uk.md" >}}) | 230 | 773 | 29.8 | /mnt/stockage/packages/f32/bacula/po/uk.po | 
- | [nl]({{< ref "/f32/language/nl.md" >}}) | 85 | 773 | 11.0 | /mnt/stockage/packages/f32/bacula/po/nl.po | 
- | [fr]({{< ref "/f32/language/fr.md" >}}) | 60 | 773 | 7.8 | /mnt/stockage/packages/f32/bacula/po/fr.po | 
- | [de]({{< ref "/f32/language/de.md" >}}) | 51 | 773 | 6.6 | /mnt/stockage/packages/f32/bacula/po/de.po | 
- | [es]({{< ref "/f32/language/es.md" >}}) | 437 | 18918 | 2.3 | /mnt/stockage/packages/f32/bacula/po/es_AR.po/mnt/stockage/packages/f32/bacula/po/es.po | 
- | [fi]({{< ref "/f32/language/fi.md" >}}) | 0 | 20282 | 0.0 | /mnt/stockage/packages/f32/bacula/po/fi.po | 
- | [it]({{< ref "/f32/language/it.md" >}}) | 0 | 20037 | 0.0 | /mnt/stockage/packages/f32/bacula/po/it.po | 
- | [sv]({{< ref "/f32/language/sv.md" >}}) | 0 | 773 | 0.0 | /mnt/stockage/packages/f32/bacula/po/sv.po | 
+ | [pl](/f32/language/pl) | 7995 | 21221 | 37.7 | /mnt/stockage/packages/f32/bacula/po/pl.po | 
+ | [uk](/f32/language/uk) | 230 | 773 | 29.8 | /mnt/stockage/packages/f32/bacula/po/uk.po | 
+ | [nl](/f32/language/nl) | 85 | 773 | 11.0 | /mnt/stockage/packages/f32/bacula/po/nl.po | 
+ | [fr](/f32/language/fr) | 60 | 773 | 7.8 | /mnt/stockage/packages/f32/bacula/po/fr.po | 
+ | [de](/f32/language/de) | 51 | 773 | 6.6 | /mnt/stockage/packages/f32/bacula/po/de.po | 
+ | [es](/f32/language/es) | 437 | 18918 | 2.3 | /mnt/stockage/packages/f32/bacula/po/es_AR.po/mnt/stockage/packages/f32/bacula/po/es.po | 
+ | [fi](/f32/language/fi) | 0 | 20282 | 0.0 | /mnt/stockage/packages/f32/bacula/po/fi.po | 
+ | [it](/f32/language/it) | 0 | 20037 | 0.0 | /mnt/stockage/packages/f32/bacula/po/it.po | 
+ | [sv](/f32/language/sv) | 0 | 773 | 0.0 | /mnt/stockage/packages/f32/bacula/po/sv.po | 
 {.sortable}
 
 

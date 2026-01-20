@@ -44,26 +44,26 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [libgweather]({{< ref "/f43/package/libgweather.md" >}}) | 664 | 664 | 100.0 | Spanish <gnome-es-list@gnome.org> | 
- | [mate-applets]({{< ref "/f43/package/mate-applets.md" >}}) | 1607 | 12211 | 13.2 | Spanish (Nicaragua) (https://app.transifex.com/mate/teams/13566/es_NI/) | 
- | [gnucash]({{< ref "/f43/package/gnucash.md" >}}) | 2200 | 39130 | 5.6 |  | 
- | [mate-sensors-applet]({{< ref "/f43/package/mate-sensors-applet.md" >}}) | 10 | 313 | 3.2 | Spanish (Nicaragua) (https://app.transifex.com/mate/teams/13566/es_NI/) | 
- | [caja-extensions]({{< ref "/f43/package/caja-extensions.md" >}}) | 18 | 845 | 2.1 | Spanish (Nicaragua) (https://app.transifex.com/mate/teams/13566/es_NI/) | 
- | [mate-settings-daemon]({{< ref "/f43/package/mate-settings-daemon.md" >}}) | 43 | 2203 | 2.0 | Spanish (Nicaragua) (https://www.transifex.com/mate/teams/13566/es_NI/) | 
- | [mate-media]({{< ref "/f43/package/mate-media.md" >}}) | 4 | 244 | 1.6 | Spanish (Nicaragua) (https://app.transifex.com/mate/teams/13566/es_NI/) | 
- | [mate-menu]({{< ref "/f43/package/mate-menu.md" >}}) | 4 | 308 | 1.3 | Spanish (Nicaragua) (http://www.transifex.com/mate/MATE/language/es_NI/) | 
- | [mate-system-monitor]({{< ref "/f43/package/mate-system-monitor.md" >}}) | 17 | 1559 | 1.1 | Spanish (Nicaragua) (https://app.transifex.com/mate/teams/13566/es_NI/) | 
- | [eom]({{< ref "/f43/package/eom.md" >}}) | 14 | 1779 | 0.8 | Spanish (Nicaragua) (https://app.transifex.com/mate/teams/13566/es_NI/) | 
- | [mate-session-manager]({{< ref "/f43/package/mate-session-manager.md" >}}) | 5 | 717 | 0.7 | Spanish (Nicaragua) (https://app.transifex.com/mate/teams/13566/es_NI/) | 
- | [mate-panel]({{< ref "/f43/package/mate-panel.md" >}}) | 37 | 6879 | 0.5 | Spanish (Nicaragua) (https://www.transifex.com/mate/teams/13566/es_NI/) | 
- | [mate-control-center]({{< ref "/f43/package/mate-control-center.md" >}}) | 16 | 3338 | 0.5 | Spanish (Nicaragua) (https://www.transifex.com/mate/teams/13566/es_NI/) | 
- | [engrampa]({{< ref "/f43/package/engrampa.md" >}}) | 9 | 2026 | 0.4 | Spanish (Nicaragua) (https://app.transifex.com/mate/teams/13566/es_NI/) | 
- | [mate-calc]({{< ref "/f43/package/mate-calc.md" >}}) | 7 | 1582 | 0.4 | Spanish (Nicaragua) (https://www.transifex.com/mate/teams/13566/es_NI/) | 
- | [atril]({{< ref "/f43/package/atril.md" >}}) | 8 | 2325 | 0.3 | Spanish (Nicaragua) (https://www.transifex.com/mate/teams/13566/es_NI/) | 
- | [mate-power-manager]({{< ref "/f43/package/mate-power-manager.md" >}}) | 9 | 2660 | 0.3 | Spanish (Nicaragua) (https://app.transifex.com/mate/teams/13566/es_NI/) | 
- | [mate-utils]({{< ref "/f43/package/mate-utils.md" >}}) | 6 | 2467 | 0.2 | Spanish (Nicaragua) (https://app.transifex.com/mate/teams/13566/es_NI/) | 
- | [pluma-plugins]({{< ref "/f43/package/pluma-plugins.md" >}}) | 1 | 510 | 0.2 | Spanish (Nicaragua) (https://www.transifex.com/mate/teams/13566/es_NI/) | 
- | [mate-themes]({{< ref "/f43/package/mate-themes.md" >}}) | 0 | 74 | 0.0 | Spanish (Nicaragua) (http://app.transifex.com/mate/MATE/language/es_NI/) | 
+ | [libgweather](/f43/package/libgweather) | 664 | 664 | 100.0 | Spanish <gnome-es-list@gnome.org> | 
+ | [mate-applets](/f43/package/mate-applets) | 1607 | 12211 | 13.2 | Spanish (Nicaragua) (https://app.transifex.com/mate/teams/13566/es_NI/) | 
+ | [gnucash](/f43/package/gnucash) | 2200 | 39130 | 5.6 |  | 
+ | [mate-sensors-applet](/f43/package/mate-sensors-applet) | 10 | 313 | 3.2 | Spanish (Nicaragua) (https://app.transifex.com/mate/teams/13566/es_NI/) | 
+ | [caja-extensions](/f43/package/caja-extensions) | 18 | 845 | 2.1 | Spanish (Nicaragua) (https://app.transifex.com/mate/teams/13566/es_NI/) | 
+ | [mate-settings-daemon](/f43/package/mate-settings-daemon) | 43 | 2203 | 2.0 | Spanish (Nicaragua) (https://www.transifex.com/mate/teams/13566/es_NI/) | 
+ | [mate-media](/f43/package/mate-media) | 4 | 244 | 1.6 | Spanish (Nicaragua) (https://app.transifex.com/mate/teams/13566/es_NI/) | 
+ | [mate-menu](/f43/package/mate-menu) | 4 | 308 | 1.3 | Spanish (Nicaragua) (http://www.transifex.com/mate/MATE/language/es_NI/) | 
+ | [mate-system-monitor](/f43/package/mate-system-monitor) | 17 | 1559 | 1.1 | Spanish (Nicaragua) (https://app.transifex.com/mate/teams/13566/es_NI/) | 
+ | [eom](/f43/package/eom) | 14 | 1779 | 0.8 | Spanish (Nicaragua) (https://app.transifex.com/mate/teams/13566/es_NI/) | 
+ | [mate-session-manager](/f43/package/mate-session-manager) | 5 | 717 | 0.7 | Spanish (Nicaragua) (https://app.transifex.com/mate/teams/13566/es_NI/) | 
+ | [mate-panel](/f43/package/mate-panel) | 37 | 6879 | 0.5 | Spanish (Nicaragua) (https://www.transifex.com/mate/teams/13566/es_NI/) | 
+ | [mate-control-center](/f43/package/mate-control-center) | 16 | 3338 | 0.5 | Spanish (Nicaragua) (https://www.transifex.com/mate/teams/13566/es_NI/) | 
+ | [engrampa](/f43/package/engrampa) | 9 | 2026 | 0.4 | Spanish (Nicaragua) (https://app.transifex.com/mate/teams/13566/es_NI/) | 
+ | [mate-calc](/f43/package/mate-calc) | 7 | 1582 | 0.4 | Spanish (Nicaragua) (https://www.transifex.com/mate/teams/13566/es_NI/) | 
+ | [atril](/f43/package/atril) | 8 | 2325 | 0.3 | Spanish (Nicaragua) (https://www.transifex.com/mate/teams/13566/es_NI/) | 
+ | [mate-power-manager](/f43/package/mate-power-manager) | 9 | 2660 | 0.3 | Spanish (Nicaragua) (https://app.transifex.com/mate/teams/13566/es_NI/) | 
+ | [mate-utils](/f43/package/mate-utils) | 6 | 2467 | 0.2 | Spanish (Nicaragua) (https://app.transifex.com/mate/teams/13566/es_NI/) | 
+ | [pluma-plugins](/f43/package/pluma-plugins) | 1 | 510 | 0.2 | Spanish (Nicaragua) (https://www.transifex.com/mate/teams/13566/es_NI/) | 
+ | [mate-themes](/f43/package/mate-themes) | 0 | 74 | 0.0 | Spanish (Nicaragua) (http://app.transifex.com/mate/MATE/language/es_NI/) | 
 {.sortable}
 
 
@@ -75,7 +75,7 @@ We use the po metadata to get the language code and the team, but sometimes it f
 
 | Package | Lang from file path/name | polib error | Team |
 |---------|--------------------------|-------------|------|
- | [gnucash]({{< ref "/f43/package/gnucash.md" >}}) | /mnt/stockage/packages/f43/gnucash/gnucash-5.14/po/._es_NI.po | error-unicode |  | 
+ | [gnucash](/f43/package/gnucash) | /mnt/stockage/packages/f43/gnucash/gnucash-5.14/po/._es_NI.po | error-unicode |  | 
 {.sortable}
 
 
@@ -86,7 +86,7 @@ We use the calcstats from translate toolkit to get the translation progress, but
 
 | Package | Lang from file path/name | Team |
 |---------|--------------------------|------|
- | [gnucash]({{< ref "/f43/package/gnucash.md" >}}) | /mnt/stockage/packages/f43/gnucash/gnucash-5.14/po/._es_NI.po |  | 
+ | [gnucash](/f43/package/gnucash) | /mnt/stockage/packages/f43/gnucash/gnucash-5.14/po/._es_NI.po |  | 
 {.sortable}
 
 

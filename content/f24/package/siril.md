@@ -18,15 +18,15 @@ The package siril (version 0.9.6):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [el]({{< ref "/f24/language/el.md" >}}) | 8411 | 8411 | 100.0 | /mnt/stockage/packages/f24/siril/po/el.po | 
- | [es]({{< ref "/f24/language/es.md" >}}) | 8411 | 8411 | 100.0 | /mnt/stockage/packages/f24/siril/po/es_ES.po | 
- | [fr]({{< ref "/f24/language/fr.md" >}}) | 8411 | 8411 | 100.0 | /mnt/stockage/packages/f24/siril/po/fr.po | 
- | [it]({{< ref "/f24/language/it.md" >}}) | 8411 | 8411 | 100.0 | /mnt/stockage/packages/f24/siril/po/it_IT.po | 
- | [nl_BE]({{< ref "/f24/language/nl_BE.md" >}}) | 8411 | 8411 | 100.0 | /mnt/stockage/packages/f24/siril/po/nl_BE.po | 
- | [zh_Hans]({{< ref "/f24/language/zh_Hans.md" >}}) | 8411 | 8411 | 100.0 | /mnt/stockage/packages/f24/siril/po/zh_CN.po | 
- | [ar_DZ]({{< ref "/f24/language/ar_DZ.md" >}}) | 7969 | 8411 | 94.7 | /mnt/stockage/packages/f24/siril/po/ar_DZ.po | 
- | [pt_PT]({{< ref "/f24/language/pt_PT.md" >}}) | 2048 | 8411 | 24.3 | /mnt/stockage/packages/f24/siril/po/pt_PT.po | 
- | [tl]({{< ref "/f24/language/tl.md" >}}) | 547 | 8411 | 6.5 | /mnt/stockage/packages/f24/siril/po/tl_PH.po | 
+ | [el](/f24/language/el) | 8411 | 8411 | 100.0 | /mnt/stockage/packages/f24/siril/po/el.po | 
+ | [es](/f24/language/es) | 8411 | 8411 | 100.0 | /mnt/stockage/packages/f24/siril/po/es_ES.po | 
+ | [fr](/f24/language/fr) | 8411 | 8411 | 100.0 | /mnt/stockage/packages/f24/siril/po/fr.po | 
+ | [it](/f24/language/it) | 8411 | 8411 | 100.0 | /mnt/stockage/packages/f24/siril/po/it_IT.po | 
+ | [nl_BE](/f24/language/nl_BE) | 8411 | 8411 | 100.0 | /mnt/stockage/packages/f24/siril/po/nl_BE.po | 
+ | [zh_Hans](/f24/language/zh_Hans) | 8411 | 8411 | 100.0 | /mnt/stockage/packages/f24/siril/po/zh_CN.po | 
+ | [ar_DZ](/f24/language/ar_DZ) | 7969 | 8411 | 94.7 | /mnt/stockage/packages/f24/siril/po/ar_DZ.po | 
+ | [pt_PT](/f24/language/pt_PT) | 2048 | 8411 | 24.3 | /mnt/stockage/packages/f24/siril/po/pt_PT.po | 
+ | [tl](/f24/language/tl) | 547 | 8411 | 6.5 | /mnt/stockage/packages/f24/siril/po/tl_PH.po | 
 {.sortable}
 
 

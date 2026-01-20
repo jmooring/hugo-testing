@@ -46,50 +46,50 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [alacarte]({{< ref "/f16/package/alacarte.md" >}}) | 42 | 42 | 100.0 | Swahili <sw@li.org> | 
- | [dialog]({{< ref "/f16/package/dialog.md" >}}) | 25 | 25 | 100.0 | Swahili <translation-team-sw@lists.sourceforge.net> | 
- | [sugar-ruler]({{< ref "/f16/package/sugar-ruler.md" >}}) | 5 | 5 | 100.0 | LANGUAGE <LL@li.org> | 
- | [sugar-toolkit]({{< ref "/f16/package/sugar-toolkit.md" >}}) | 78 | 78 | 100.0 | LANGUAGE <LL@li.org> | 
- | [sugar-moon]({{< ref "/f16/package/sugar-moon.md" >}}) | 77 | 91 | 84.6 | LANGUAGE <LL@li.org> | 
- | [sugar-clock]({{< ref "/f16/package/sugar-clock.md" >}}) | 32 | 38 | 84.2 | LANGUAGE <LL@li.org> | 
- | [sugar-calculator]({{< ref "/f16/package/sugar-calculator.md" >}}) | 716 | 859 | 83.4 | LANGUAGE <LL@li.org> | 
- | [tuxtype2]({{< ref "/f16/package/tuxtype2.md" >}}) | 63 | 80 | 78.8 | LANGUAGE <LL@li.org> | 
- | [virtaal]({{< ref "/f16/package/virtaal.md" >}}) | 1012 | 1653 | 61.2 | tzLUG Translators | 
- | [sugar-memorize]({{< ref "/f16/package/sugar-memorize.md" >}}) | 68 | 114 | 59.6 | LANGUAGE <LL@li.org> | 
- | [pootle]({{< ref "/f16/package/pootle.md" >}}) | 1713 | 3497 | 49.0 | LANGUAGE <LL@li.org> | 
- | [sugar-chat]({{< ref "/f16/package/sugar-chat.md" >}}) | 24 | 50 | 48.0 | LANGUAGE <LL@li.org> | 
- | [sugar-abacus]({{< ref "/f16/package/sugar-abacus.md" >}}) | 11 | 24 | 45.8 | LANGUAGE <LL@li.org> | 
- | [sugar-imageviewer]({{< ref "/f16/package/sugar-imageviewer.md" >}}) | 9 | 24 | 37.5 | LANGUAGE <LL@li.org> | 
- | [sugar]({{< ref "/f16/package/sugar.md" >}}) | 464 | 1521 | 30.5 | LANGUAGE <LL@li.org> | 
- | [tuxpaint-stamps]({{< ref "/f16/package/tuxpaint-stamps.md" >}}) | 695 | 2711 | 25.6 | Swahili | 
- | [tuxpaint]({{< ref "/f16/package/tuxpaint.md" >}}) | 316 | 1247 | 25.3 | Swahili | 
- | [sugar-finance]({{< ref "/f16/package/sugar-finance.md" >}}) | 34 | 143 | 23.8 | LANGUAGE <LL@li.org> | 
- | [iso-codes]({{< ref "/f16/package/iso-codes.md" >}}) | 258 | 1100 | 23.5 | Swahili <translation-team-sw@lists.sourceforge.net> | 
- | [synapse]({{< ref "/f16/package/synapse.md" >}}) | 82 | 581 | 14.1 | Swahili <sw@li.org> | 
- | [sugar-log]({{< ref "/f16/package/sugar-log.md" >}}) | 9 | 77 | 11.7 | LANGUAGE <LL@li.org> | 
- | [blueman]({{< ref "/f16/package/blueman.md" >}}) | 118 | 1468 | 8.0 | Swahili <sw@li.org> | 
- | [sugar-browse]({{< ref "/f16/package/sugar-browse.md" >}}) | 2 | 57 | 3.5 | LANGUAGE <LL@li.org> | 
- | [gnome-do]({{< ref "/f16/package/gnome-do.md" >}}) | 16 | 612 | 2.6 | Swahili <sw@li.org> | 
- | [sugar-write]({{< ref "/f16/package/sugar-write.md" >}}) | 2 | 81 | 2.5 | LANGUAGE <LL@li.org> | 
- | [sugar-turtleart]({{< ref "/f16/package/sugar-turtleart.md" >}}) | 54 | 2467 | 2.2 | LANGUAGE <walter@sugarlabs.org> | 
- | [sugar-pippy]({{< ref "/f16/package/sugar-pippy.md" >}}) | 2 | 109 | 1.8 | LANGUAGE <LL@li.org> | 
- | [sugar-surf]({{< ref "/f16/package/sugar-surf.md" >}}) | 1 | 55 | 1.8 | LANGUAGE <LL@li.org> | 
- | [sugar-read]({{< ref "/f16/package/sugar-read.md" >}}) | 1 | 60 | 1.7 | LANGUAGE <LL@li.org> | 
- | [exaile]({{< ref "/f16/package/exaile.md" >}}) | 52 | 3683 | 1.4 | Swahili <sw@li.org> | 
- | [sugar-infoslicer]({{< ref "/f16/package/sugar-infoslicer.md" >}}) | 2 | 184 | 1.1 | LANGUAGE <LL@li.org> | 
- | [pidgin]({{< ref "/f16/package/pidgin.md" >}}) | 183 | 18356 | 1.0 | American English <kde-i18n-doc@lists.kde.org> | 
- | [sugar-labyrinth]({{< ref "/f16/package/sugar-labyrinth.md" >}}) | 2 | 254 | 0.8 | LANGUAGE <LL@li.org> | 
- | [gammu]({{< ref "/f16/package/gammu.md" >}}) | 0 | 16122 | 0.0 | none | 
- | [olpc-switch-desktop]({{< ref "/f16/package/olpc-switch-desktop.md" >}}) | 0 | 158 | 0.0 | LANGUAGE <LL@li.org> | 
- | [stellarium]({{< ref "/f16/package/stellarium.md" >}}) | 0 | 7138 | 0.0 | Swahili <sw@li.org> | 
- | [sugar-jukebox]({{< ref "/f16/package/sugar-jukebox.md" >}}) | 0 | 7 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-physics]({{< ref "/f16/package/sugar-physics.md" >}}) | 0 | 28 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-playgo]({{< ref "/f16/package/sugar-playgo.md" >}}) | 0 | 85 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-tamtam]({{< ref "/f16/package/sugar-tamtam.md" >}}) | 0 | 2077 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-terminal]({{< ref "/f16/package/sugar-terminal.md" >}}) | 0 | 13 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-view-slides]({{< ref "/f16/package/sugar-view-slides.md" >}}) | 0 | 7 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-visualmatch]({{< ref "/f16/package/sugar-visualmatch.md" >}}) | 0 | 58 | 0.0 | LANGUAGE <LL@li.org> | 
- | [vidalia]({{< ref "/f16/package/vidalia.md" >}}) | 0 | 10369 | 0.0 | translations@vidalia-project.net | 
+ | [alacarte](/f16/package/alacarte) | 42 | 42 | 100.0 | Swahili <sw@li.org> | 
+ | [dialog](/f16/package/dialog) | 25 | 25 | 100.0 | Swahili <translation-team-sw@lists.sourceforge.net> | 
+ | [sugar-ruler](/f16/package/sugar-ruler) | 5 | 5 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-toolkit](/f16/package/sugar-toolkit) | 78 | 78 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-moon](/f16/package/sugar-moon) | 77 | 91 | 84.6 | LANGUAGE <LL@li.org> | 
+ | [sugar-clock](/f16/package/sugar-clock) | 32 | 38 | 84.2 | LANGUAGE <LL@li.org> | 
+ | [sugar-calculator](/f16/package/sugar-calculator) | 716 | 859 | 83.4 | LANGUAGE <LL@li.org> | 
+ | [tuxtype2](/f16/package/tuxtype2) | 63 | 80 | 78.8 | LANGUAGE <LL@li.org> | 
+ | [virtaal](/f16/package/virtaal) | 1012 | 1653 | 61.2 | tzLUG Translators | 
+ | [sugar-memorize](/f16/package/sugar-memorize) | 68 | 114 | 59.6 | LANGUAGE <LL@li.org> | 
+ | [pootle](/f16/package/pootle) | 1713 | 3497 | 49.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-chat](/f16/package/sugar-chat) | 24 | 50 | 48.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-abacus](/f16/package/sugar-abacus) | 11 | 24 | 45.8 | LANGUAGE <LL@li.org> | 
+ | [sugar-imageviewer](/f16/package/sugar-imageviewer) | 9 | 24 | 37.5 | LANGUAGE <LL@li.org> | 
+ | [sugar](/f16/package/sugar) | 464 | 1521 | 30.5 | LANGUAGE <LL@li.org> | 
+ | [tuxpaint-stamps](/f16/package/tuxpaint-stamps) | 695 | 2711 | 25.6 | Swahili | 
+ | [tuxpaint](/f16/package/tuxpaint) | 316 | 1247 | 25.3 | Swahili | 
+ | [sugar-finance](/f16/package/sugar-finance) | 34 | 143 | 23.8 | LANGUAGE <LL@li.org> | 
+ | [iso-codes](/f16/package/iso-codes) | 258 | 1100 | 23.5 | Swahili <translation-team-sw@lists.sourceforge.net> | 
+ | [synapse](/f16/package/synapse) | 82 | 581 | 14.1 | Swahili <sw@li.org> | 
+ | [sugar-log](/f16/package/sugar-log) | 9 | 77 | 11.7 | LANGUAGE <LL@li.org> | 
+ | [blueman](/f16/package/blueman) | 118 | 1468 | 8.0 | Swahili <sw@li.org> | 
+ | [sugar-browse](/f16/package/sugar-browse) | 2 | 57 | 3.5 | LANGUAGE <LL@li.org> | 
+ | [gnome-do](/f16/package/gnome-do) | 16 | 612 | 2.6 | Swahili <sw@li.org> | 
+ | [sugar-write](/f16/package/sugar-write) | 2 | 81 | 2.5 | LANGUAGE <LL@li.org> | 
+ | [sugar-turtleart](/f16/package/sugar-turtleart) | 54 | 2467 | 2.2 | LANGUAGE <walter@sugarlabs.org> | 
+ | [sugar-pippy](/f16/package/sugar-pippy) | 2 | 109 | 1.8 | LANGUAGE <LL@li.org> | 
+ | [sugar-surf](/f16/package/sugar-surf) | 1 | 55 | 1.8 | LANGUAGE <LL@li.org> | 
+ | [sugar-read](/f16/package/sugar-read) | 1 | 60 | 1.7 | LANGUAGE <LL@li.org> | 
+ | [exaile](/f16/package/exaile) | 52 | 3683 | 1.4 | Swahili <sw@li.org> | 
+ | [sugar-infoslicer](/f16/package/sugar-infoslicer) | 2 | 184 | 1.1 | LANGUAGE <LL@li.org> | 
+ | [pidgin](/f16/package/pidgin) | 183 | 18356 | 1.0 | American English <kde-i18n-doc@lists.kde.org> | 
+ | [sugar-labyrinth](/f16/package/sugar-labyrinth) | 2 | 254 | 0.8 | LANGUAGE <LL@li.org> | 
+ | [gammu](/f16/package/gammu) | 0 | 16122 | 0.0 | none | 
+ | [olpc-switch-desktop](/f16/package/olpc-switch-desktop) | 0 | 158 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [stellarium](/f16/package/stellarium) | 0 | 7138 | 0.0 | Swahili <sw@li.org> | 
+ | [sugar-jukebox](/f16/package/sugar-jukebox) | 0 | 7 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-physics](/f16/package/sugar-physics) | 0 | 28 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-playgo](/f16/package/sugar-playgo) | 0 | 85 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-tamtam](/f16/package/sugar-tamtam) | 0 | 2077 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-terminal](/f16/package/sugar-terminal) | 0 | 13 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-view-slides](/f16/package/sugar-view-slides) | 0 | 7 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-visualmatch](/f16/package/sugar-visualmatch) | 0 | 58 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [vidalia](/f16/package/vidalia) | 0 | 10369 | 0.0 | translations@vidalia-project.net | 
 {.sortable}
 
 

@@ -18,66 +18,66 @@ The package audacity (version 3.4.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [co]({{< ref "/f40/language/co.md" >}}) | 18943 | 18943 | 100.0 | /mnt/stockage/packages/f40/audacity/locale/co.po | 
- | [da]({{< ref "/f40/language/da.md" >}}) | 18943 | 18943 | 100.0 | /mnt/stockage/packages/f40/audacity/locale/da.po | 
- | [de]({{< ref "/f40/language/de.md" >}}) | 18943 | 18943 | 100.0 | /mnt/stockage/packages/f40/audacity/locale/de.po | 
- | [es]({{< ref "/f40/language/es.md" >}}) | 18943 | 18943 | 100.0 | /mnt/stockage/packages/f40/audacity/locale/es.po | 
- | [fi]({{< ref "/f40/language/fi.md" >}}) | 18943 | 18943 | 100.0 | /mnt/stockage/packages/f40/audacity/locale/fi.po | 
- | [it]({{< ref "/f40/language/it.md" >}}) | 18943 | 18943 | 100.0 | /mnt/stockage/packages/f40/audacity/locale/it.po | 
- | [ja]({{< ref "/f40/language/ja.md" >}}) | 18943 | 18943 | 100.0 | /mnt/stockage/packages/f40/audacity/locale/ja.po | 
- | [ko]({{< ref "/f40/language/ko.md" >}}) | 18943 | 18943 | 100.0 | /mnt/stockage/packages/f40/audacity/locale/ko.po | 
- | [nl]({{< ref "/f40/language/nl.md" >}}) | 18943 | 18943 | 100.0 | /mnt/stockage/packages/f40/audacity/locale/nl.po | 
- | [pl]({{< ref "/f40/language/pl.md" >}}) | 18943 | 18943 | 100.0 | /mnt/stockage/packages/f40/audacity/locale/pl.po | 
- | [ru]({{< ref "/f40/language/ru.md" >}}) | 18924 | 18924 | 100.0 | /mnt/stockage/packages/f40/audacity/locale/ru.po | 
- | [sv]({{< ref "/f40/language/sv.md" >}}) | 18943 | 18943 | 100.0 | /mnt/stockage/packages/f40/audacity/locale/sv.po | 
- | [tr]({{< ref "/f40/language/tr.md" >}}) | 18943 | 18943 | 100.0 | /mnt/stockage/packages/f40/audacity/locale/tr.po | 
- | [zh_Hant]({{< ref "/f40/language/zh_Hant.md" >}}) | 18943 | 18943 | 100.0 | /mnt/stockage/packages/f40/audacity/locale/zh_TW.po | 
- | [uk]({{< ref "/f40/language/uk.md" >}}) | 18747 | 18943 | 99.0 | /mnt/stockage/packages/f40/audacity/locale/uk.po | 
- | [fr]({{< ref "/f40/language/fr.md" >}}) | 18616 | 18941 | 98.3 | /mnt/stockage/packages/f40/audacity/locale/fr.po | 
- | [he]({{< ref "/f40/language/he.md" >}}) | 18521 | 18943 | 97.8 | /mnt/stockage/packages/f40/audacity/locale/he.po | 
- | [cs]({{< ref "/f40/language/cs.md" >}}) | 17868 | 18943 | 94.3 | /mnt/stockage/packages/f40/audacity/locale/cs.po | 
- | [hu]({{< ref "/f40/language/hu.md" >}}) | 17866 | 18943 | 94.3 | /mnt/stockage/packages/f40/audacity/locale/hu.po | 
- | [hi]({{< ref "/f40/language/hi.md" >}}) | 17862 | 18943 | 94.3 | /mnt/stockage/packages/f40/audacity/locale/hi.po | 
- | [pt_BR]({{< ref "/f40/language/pt_BR.md" >}}) | 17862 | 18943 | 94.3 | /mnt/stockage/packages/f40/audacity/locale/pt_BR.po | 
- | [pt_PT]({{< ref "/f40/language/pt_PT.md" >}}) | 17862 | 18943 | 94.3 | /mnt/stockage/packages/f40/audacity/locale/pt_PT.po | 
- | [vi]({{< ref "/f40/language/vi.md" >}}) | 17862 | 18943 | 94.3 | /mnt/stockage/packages/f40/audacity/locale/vi.po | 
- | [sl]({{< ref "/f40/language/sl.md" >}}) | 17837 | 18943 | 94.2 | /mnt/stockage/packages/f40/audacity/locale/sl.po | 
- | [zh_Hans]({{< ref "/f40/language/zh_Hans.md" >}}) | 17542 | 18943 | 92.6 | /mnt/stockage/packages/f40/audacity/locale/zh_CN.po | 
- | [nb_NO]({{< ref "/f40/language/nb_NO.md" >}}) | 17222 | 18943 | 90.9 | /mnt/stockage/packages/f40/audacity/locale/nb.po | 
- | [el]({{< ref "/f40/language/el.md" >}}) | 16835 | 18943 | 88.9 | /mnt/stockage/packages/f40/audacity/locale/el.po | 
- | [sk]({{< ref "/f40/language/sk.md" >}}) | 16210 | 18943 | 85.6 | /mnt/stockage/packages/f40/audacity/locale/sk.po | 
- | [sr]({{< ref "/f40/language/sr.md" >}}) | 16060 | 18943 | 84.8 | /mnt/stockage/packages/f40/audacity/locale/sr_RS.po | 
- | [eu]({{< ref "/f40/language/eu.md" >}}) | 31178 | 37886 | 82.3 | /mnt/stockage/packages/f40/audacity/locale/eu_ES.po/mnt/stockage/packages/f40/audacity/locale/eu.po | 
- | [mr]({{< ref "/f40/language/mr.md" >}}) | 14788 | 18943 | 78.1 | /mnt/stockage/packages/f40/audacity/locale/mr.po | 
- | [ka]({{< ref "/f40/language/ka.md" >}}) | 14068 | 18943 | 74.3 | /mnt/stockage/packages/f40/audacity/locale/ka.po | 
- | [ca@valencia]({{< ref "/f40/language/ca@valencia.md" >}}) | 12840 | 18943 | 67.8 | /mnt/stockage/packages/f40/audacity/locale/ca_ES@valencia.po | 
- | [ar]({{< ref "/f40/language/ar.md" >}}) | 11722 | 18943 | 61.9 | /mnt/stockage/packages/f40/audacity/locale/ar.po | 
- | [br]({{< ref "/f40/language/br.md" >}}) | 9643 | 17657 | 54.6 | /mnt/stockage/packages/f40/audacity/locale/inactive/br_Transifex20201031.po | 
- | [ca]({{< ref "/f40/language/ca.md" >}}) | 10146 | 18943 | 53.6 | /mnt/stockage/packages/f40/audacity/locale/ca.po | 
- | [gl]({{< ref "/f40/language/gl.md" >}}) | 6647 | 18943 | 35.1 | /mnt/stockage/packages/f40/audacity/locale/gl.po | 
- | [lv]({{< ref "/f40/language/lv.md" >}}) | 5903 | 17657 | 33.4 | /mnt/stockage/packages/f40/audacity/locale/inactive/lv_Transifex20201031.po | 
- | [sr_Latn]({{< ref "/f40/language/sr_Latn.md" >}}) | 5884 | 18943 | 31.1 | /mnt/stockage/packages/f40/audacity/locale/sr_RS@latin.po | 
- | [hy]({{< ref "/f40/language/hy.md" >}}) | 5639 | 18943 | 29.8 | /mnt/stockage/packages/f40/audacity/locale/hy.po | 
- | [hr]({{< ref "/f40/language/hr.md" >}}) | 5539 | 18943 | 29.2 | /mnt/stockage/packages/f40/audacity/locale/hr.po | 
- | [lt]({{< ref "/f40/language/lt.md" >}}) | 5489 | 18943 | 29.0 | /mnt/stockage/packages/f40/audacity/locale/lt.po | 
- | [bg]({{< ref "/f40/language/bg.md" >}}) | 5241 | 18943 | 27.7 | /mnt/stockage/packages/f40/audacity/locale/bg.po | 
- | [ga]({{< ref "/f40/language/ga.md" >}}) | 4473 | 18943 | 23.6 | /mnt/stockage/packages/f40/audacity/locale/ga.po | 
- | [id]({{< ref "/f40/language/id.md" >}}) | 4193 | 18943 | 22.1 | /mnt/stockage/packages/f40/audacity/locale/id.po | 
- | [ta]({{< ref "/f40/language/ta.md" >}}) | 3822 | 18943 | 20.2 | /mnt/stockage/packages/f40/audacity/locale/ta.po | 
- | [my]({{< ref "/f40/language/my.md" >}}) | 3742 | 18943 | 19.8 | /mnt/stockage/packages/f40/audacity/locale/my.po | 
- | [be]({{< ref "/f40/language/be.md" >}}) | 3149 | 18943 | 16.6 | /mnt/stockage/packages/f40/audacity/locale/be.po | 
- | [bs]({{< ref "/f40/language/bs.md" >}}) | 2232 | 18943 | 11.8 | /mnt/stockage/packages/f40/audacity/locale/bs.po | 
- | [km]({{< ref "/f40/language/km.md" >}}) | 2101 | 18943 | 11.1 | /mnt/stockage/packages/f40/audacity/locale/km.po | 
- | [tg]({{< ref "/f40/language/tg.md" >}}) | 1914 | 18943 | 10.1 | /mnt/stockage/packages/f40/audacity/locale/tg.po | 
- | [fa]({{< ref "/f40/language/fa.md" >}}) | 1858 | 18943 | 9.8 | /mnt/stockage/packages/f40/audacity/locale/fa.po | 
- | [ro]({{< ref "/f40/language/ro.md" >}}) | 1597 | 18943 | 8.4 | /mnt/stockage/packages/f40/audacity/locale/ro.po | 
- | [af]({{< ref "/f40/language/af.md" >}}) | 1361 | 18943 | 7.2 | /mnt/stockage/packages/f40/audacity/locale/af.po | 
- | [oc]({{< ref "/f40/language/oc.md" >}}) | 1187 | 18943 | 6.3 | /mnt/stockage/packages/f40/audacity/locale/oc.po | 
- | [cy]({{< ref "/f40/language/cy.md" >}}) | 875 | 18943 | 4.6 | /mnt/stockage/packages/f40/audacity/locale/cy.po | 
- | [mk]({{< ref "/f40/language/mk.md" >}}) | 683 | 18943 | 3.6 | /mnt/stockage/packages/f40/audacity/locale/mk.po | 
- | [pms]({{< ref "/f40/language/pms.md" >}}) | 266 | 17657 | 1.5 | /mnt/stockage/packages/f40/audacity/locale/inactive/pms_Transifex20201031.po | 
- | [sq]({{< ref "/f40/language/sq.md" >}}) | 187 | 17657 | 1.1 | /mnt/stockage/packages/f40/audacity/locale/inactive/sq_Transifex20201031.po | 
- | [bn]({{< ref "/f40/language/bn.md" >}}) | 83 | 18943 | 0.4 | /mnt/stockage/packages/f40/audacity/locale/bn.po | 
+ | [co](/f40/language/co) | 18943 | 18943 | 100.0 | /mnt/stockage/packages/f40/audacity/locale/co.po | 
+ | [da](/f40/language/da) | 18943 | 18943 | 100.0 | /mnt/stockage/packages/f40/audacity/locale/da.po | 
+ | [de](/f40/language/de) | 18943 | 18943 | 100.0 | /mnt/stockage/packages/f40/audacity/locale/de.po | 
+ | [es](/f40/language/es) | 18943 | 18943 | 100.0 | /mnt/stockage/packages/f40/audacity/locale/es.po | 
+ | [fi](/f40/language/fi) | 18943 | 18943 | 100.0 | /mnt/stockage/packages/f40/audacity/locale/fi.po | 
+ | [it](/f40/language/it) | 18943 | 18943 | 100.0 | /mnt/stockage/packages/f40/audacity/locale/it.po | 
+ | [ja](/f40/language/ja) | 18943 | 18943 | 100.0 | /mnt/stockage/packages/f40/audacity/locale/ja.po | 
+ | [ko](/f40/language/ko) | 18943 | 18943 | 100.0 | /mnt/stockage/packages/f40/audacity/locale/ko.po | 
+ | [nl](/f40/language/nl) | 18943 | 18943 | 100.0 | /mnt/stockage/packages/f40/audacity/locale/nl.po | 
+ | [pl](/f40/language/pl) | 18943 | 18943 | 100.0 | /mnt/stockage/packages/f40/audacity/locale/pl.po | 
+ | [ru](/f40/language/ru) | 18924 | 18924 | 100.0 | /mnt/stockage/packages/f40/audacity/locale/ru.po | 
+ | [sv](/f40/language/sv) | 18943 | 18943 | 100.0 | /mnt/stockage/packages/f40/audacity/locale/sv.po | 
+ | [tr](/f40/language/tr) | 18943 | 18943 | 100.0 | /mnt/stockage/packages/f40/audacity/locale/tr.po | 
+ | [zh_Hant](/f40/language/zh_Hant) | 18943 | 18943 | 100.0 | /mnt/stockage/packages/f40/audacity/locale/zh_TW.po | 
+ | [uk](/f40/language/uk) | 18747 | 18943 | 99.0 | /mnt/stockage/packages/f40/audacity/locale/uk.po | 
+ | [fr](/f40/language/fr) | 18616 | 18941 | 98.3 | /mnt/stockage/packages/f40/audacity/locale/fr.po | 
+ | [he](/f40/language/he) | 18521 | 18943 | 97.8 | /mnt/stockage/packages/f40/audacity/locale/he.po | 
+ | [cs](/f40/language/cs) | 17868 | 18943 | 94.3 | /mnt/stockage/packages/f40/audacity/locale/cs.po | 
+ | [hu](/f40/language/hu) | 17866 | 18943 | 94.3 | /mnt/stockage/packages/f40/audacity/locale/hu.po | 
+ | [hi](/f40/language/hi) | 17862 | 18943 | 94.3 | /mnt/stockage/packages/f40/audacity/locale/hi.po | 
+ | [pt_BR](/f40/language/pt_BR) | 17862 | 18943 | 94.3 | /mnt/stockage/packages/f40/audacity/locale/pt_BR.po | 
+ | [pt_PT](/f40/language/pt_PT) | 17862 | 18943 | 94.3 | /mnt/stockage/packages/f40/audacity/locale/pt_PT.po | 
+ | [vi](/f40/language/vi) | 17862 | 18943 | 94.3 | /mnt/stockage/packages/f40/audacity/locale/vi.po | 
+ | [sl](/f40/language/sl) | 17837 | 18943 | 94.2 | /mnt/stockage/packages/f40/audacity/locale/sl.po | 
+ | [zh_Hans](/f40/language/zh_Hans) | 17542 | 18943 | 92.6 | /mnt/stockage/packages/f40/audacity/locale/zh_CN.po | 
+ | [nb_NO](/f40/language/nb_NO) | 17222 | 18943 | 90.9 | /mnt/stockage/packages/f40/audacity/locale/nb.po | 
+ | [el](/f40/language/el) | 16835 | 18943 | 88.9 | /mnt/stockage/packages/f40/audacity/locale/el.po | 
+ | [sk](/f40/language/sk) | 16210 | 18943 | 85.6 | /mnt/stockage/packages/f40/audacity/locale/sk.po | 
+ | [sr](/f40/language/sr) | 16060 | 18943 | 84.8 | /mnt/stockage/packages/f40/audacity/locale/sr_RS.po | 
+ | [eu](/f40/language/eu) | 31178 | 37886 | 82.3 | /mnt/stockage/packages/f40/audacity/locale/eu_ES.po/mnt/stockage/packages/f40/audacity/locale/eu.po | 
+ | [mr](/f40/language/mr) | 14788 | 18943 | 78.1 | /mnt/stockage/packages/f40/audacity/locale/mr.po | 
+ | [ka](/f40/language/ka) | 14068 | 18943 | 74.3 | /mnt/stockage/packages/f40/audacity/locale/ka.po | 
+ | [ca@valencia](/f40/language/ca@valencia) | 12840 | 18943 | 67.8 | /mnt/stockage/packages/f40/audacity/locale/ca_ES@valencia.po | 
+ | [ar](/f40/language/ar) | 11722 | 18943 | 61.9 | /mnt/stockage/packages/f40/audacity/locale/ar.po | 
+ | [br](/f40/language/br) | 9643 | 17657 | 54.6 | /mnt/stockage/packages/f40/audacity/locale/inactive/br_Transifex20201031.po | 
+ | [ca](/f40/language/ca) | 10146 | 18943 | 53.6 | /mnt/stockage/packages/f40/audacity/locale/ca.po | 
+ | [gl](/f40/language/gl) | 6647 | 18943 | 35.1 | /mnt/stockage/packages/f40/audacity/locale/gl.po | 
+ | [lv](/f40/language/lv) | 5903 | 17657 | 33.4 | /mnt/stockage/packages/f40/audacity/locale/inactive/lv_Transifex20201031.po | 
+ | [sr_Latn](/f40/language/sr_Latn) | 5884 | 18943 | 31.1 | /mnt/stockage/packages/f40/audacity/locale/sr_RS@latin.po | 
+ | [hy](/f40/language/hy) | 5639 | 18943 | 29.8 | /mnt/stockage/packages/f40/audacity/locale/hy.po | 
+ | [hr](/f40/language/hr) | 5539 | 18943 | 29.2 | /mnt/stockage/packages/f40/audacity/locale/hr.po | 
+ | [lt](/f40/language/lt) | 5489 | 18943 | 29.0 | /mnt/stockage/packages/f40/audacity/locale/lt.po | 
+ | [bg](/f40/language/bg) | 5241 | 18943 | 27.7 | /mnt/stockage/packages/f40/audacity/locale/bg.po | 
+ | [ga](/f40/language/ga) | 4473 | 18943 | 23.6 | /mnt/stockage/packages/f40/audacity/locale/ga.po | 
+ | [id](/f40/language/id) | 4193 | 18943 | 22.1 | /mnt/stockage/packages/f40/audacity/locale/id.po | 
+ | [ta](/f40/language/ta) | 3822 | 18943 | 20.2 | /mnt/stockage/packages/f40/audacity/locale/ta.po | 
+ | [my](/f40/language/my) | 3742 | 18943 | 19.8 | /mnt/stockage/packages/f40/audacity/locale/my.po | 
+ | [be](/f40/language/be) | 3149 | 18943 | 16.6 | /mnt/stockage/packages/f40/audacity/locale/be.po | 
+ | [bs](/f40/language/bs) | 2232 | 18943 | 11.8 | /mnt/stockage/packages/f40/audacity/locale/bs.po | 
+ | [km](/f40/language/km) | 2101 | 18943 | 11.1 | /mnt/stockage/packages/f40/audacity/locale/km.po | 
+ | [tg](/f40/language/tg) | 1914 | 18943 | 10.1 | /mnt/stockage/packages/f40/audacity/locale/tg.po | 
+ | [fa](/f40/language/fa) | 1858 | 18943 | 9.8 | /mnt/stockage/packages/f40/audacity/locale/fa.po | 
+ | [ro](/f40/language/ro) | 1597 | 18943 | 8.4 | /mnt/stockage/packages/f40/audacity/locale/ro.po | 
+ | [af](/f40/language/af) | 1361 | 18943 | 7.2 | /mnt/stockage/packages/f40/audacity/locale/af.po | 
+ | [oc](/f40/language/oc) | 1187 | 18943 | 6.3 | /mnt/stockage/packages/f40/audacity/locale/oc.po | 
+ | [cy](/f40/language/cy) | 875 | 18943 | 4.6 | /mnt/stockage/packages/f40/audacity/locale/cy.po | 
+ | [mk](/f40/language/mk) | 683 | 18943 | 3.6 | /mnt/stockage/packages/f40/audacity/locale/mk.po | 
+ | [pms](/f40/language/pms) | 266 | 17657 | 1.5 | /mnt/stockage/packages/f40/audacity/locale/inactive/pms_Transifex20201031.po | 
+ | [sq](/f40/language/sq) | 187 | 17657 | 1.1 | /mnt/stockage/packages/f40/audacity/locale/inactive/sq_Transifex20201031.po | 
+ | [bn](/f40/language/bn) | 83 | 18943 | 0.4 | /mnt/stockage/packages/f40/audacity/locale/bn.po | 
 {.sortable}
 
 

@@ -18,17 +18,17 @@ The package notes-up (version 2.0.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f29/language/cs.md" >}}) | 220 | 220 | 100.0 | /mnt/stockage/packages/f29/notes-up/po/cz.po | 
- | [es]({{< ref "/f29/language/es.md" >}}) | 197 | 197 | 100.0 | /mnt/stockage/packages/f29/notes-up/po/es.po | 
- | [fr]({{< ref "/f29/language/fr.md" >}}) | 220 | 220 | 100.0 | /mnt/stockage/packages/f29/notes-up/po/fr.po | 
- | [it]({{< ref "/f29/language/it.md" >}}) | 220 | 220 | 100.0 | /mnt/stockage/packages/f29/notes-up/po/it.po | 
- | [ja]({{< ref "/f29/language/ja.md" >}}) | 220 | 220 | 100.0 | /mnt/stockage/packages/f29/notes-up/po/ja.po | 
- | [lt]({{< ref "/f29/language/lt.md" >}}) | 206 | 206 | 100.0 | /mnt/stockage/packages/f29/notes-up/po/lt.po | 
- | [nl]({{< ref "/f29/language/nl.md" >}}) | 280 | 280 | 100.0 | /mnt/stockage/packages/f29/notes-up/po/nl_NL.po | 
- | [pt_BR]({{< ref "/f29/language/pt_BR.md" >}}) | 217 | 217 | 100.0 | /mnt/stockage/packages/f29/notes-up/po/pt_BR.po | 
- | [ru]({{< ref "/f29/language/ru.md" >}}) | 81 | 81 | 100.0 | /mnt/stockage/packages/f29/notes-up/po/ru.po | 
- | [de]({{< ref "/f29/language/de.md" >}}) | 211 | 220 | 95.9 | /mnt/stockage/packages/f29/notes-up/po/de.po | 
- | [pt_PT]({{< ref "/f29/language/pt_PT.md" >}}) | 203 | 220 | 92.3 | /mnt/stockage/packages/f29/notes-up/po/pt_PT.po | 
+ | [cs](/f29/language/cs) | 220 | 220 | 100.0 | /mnt/stockage/packages/f29/notes-up/po/cz.po | 
+ | [es](/f29/language/es) | 197 | 197 | 100.0 | /mnt/stockage/packages/f29/notes-up/po/es.po | 
+ | [fr](/f29/language/fr) | 220 | 220 | 100.0 | /mnt/stockage/packages/f29/notes-up/po/fr.po | 
+ | [it](/f29/language/it) | 220 | 220 | 100.0 | /mnt/stockage/packages/f29/notes-up/po/it.po | 
+ | [ja](/f29/language/ja) | 220 | 220 | 100.0 | /mnt/stockage/packages/f29/notes-up/po/ja.po | 
+ | [lt](/f29/language/lt) | 206 | 206 | 100.0 | /mnt/stockage/packages/f29/notes-up/po/lt.po | 
+ | [nl](/f29/language/nl) | 280 | 280 | 100.0 | /mnt/stockage/packages/f29/notes-up/po/nl_NL.po | 
+ | [pt_BR](/f29/language/pt_BR) | 217 | 217 | 100.0 | /mnt/stockage/packages/f29/notes-up/po/pt_BR.po | 
+ | [ru](/f29/language/ru) | 81 | 81 | 100.0 | /mnt/stockage/packages/f29/notes-up/po/ru.po | 
+ | [de](/f29/language/de) | 211 | 220 | 95.9 | /mnt/stockage/packages/f29/notes-up/po/de.po | 
+ | [pt_PT](/f29/language/pt_PT) | 203 | 220 | 92.3 | /mnt/stockage/packages/f29/notes-up/po/pt_PT.po | 
 {.sortable}
 
 

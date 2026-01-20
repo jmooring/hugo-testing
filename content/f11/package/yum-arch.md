@@ -18,7 +18,7 @@ The package yum-arch (version 2.2.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ru]({{< ref "/f11/language/ru.md" >}}) | 1176 | 1176 | 100.0 | /mnt/stockage/packages/f11/yum-arch/po/ru.po | 
+ | [ru](/f11/language/ru) | 1176 | 1176 | 100.0 | /mnt/stockage/packages/f11/yum-arch/po/ru.po | 
 {.sortable}
 
 

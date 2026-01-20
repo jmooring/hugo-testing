@@ -18,27 +18,27 @@ The package monodevelop-boo (version 2.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f15/language/fr.md" >}}) | 112 | 112 | 100.0 | /mnt/stockage/packages/f15/monodevelop-boo/po/fr.po | 
- | [cs]({{< ref "/f15/language/cs.md" >}}) | 109 | 112 | 97.3 | /mnt/stockage/packages/f15/monodevelop-boo/po/cs.po | 
- | [de]({{< ref "/f15/language/de.md" >}}) | 109 | 112 | 97.3 | /mnt/stockage/packages/f15/monodevelop-boo/po/de.po | 
- | [es]({{< ref "/f15/language/es.md" >}}) | 109 | 112 | 97.3 | /mnt/stockage/packages/f15/monodevelop-boo/po/es.po | 
- | [hu]({{< ref "/f15/language/hu.md" >}}) | 109 | 112 | 97.3 | /mnt/stockage/packages/f15/monodevelop-boo/po/hu.po | 
- | [ja]({{< ref "/f15/language/ja.md" >}}) | 109 | 112 | 97.3 | /mnt/stockage/packages/f15/monodevelop-boo/po/ja.po | 
- | [nl]({{< ref "/f15/language/nl.md" >}}) | 109 | 112 | 97.3 | /mnt/stockage/packages/f15/monodevelop-boo/po/nl.po | 
- | [tr]({{< ref "/f15/language/tr.md" >}}) | 109 | 112 | 97.3 | /mnt/stockage/packages/f15/monodevelop-boo/po/tr.po | 
- | [id]({{< ref "/f15/language/id.md" >}}) | 46 | 112 | 41.1 | /mnt/stockage/packages/f15/monodevelop-boo/po/id.po | 
- | [pt_BR]({{< ref "/f15/language/pt_BR.md" >}}) | 46 | 112 | 41.1 | /mnt/stockage/packages/f15/monodevelop-boo/po/pt_BR.po | 
- | [gl]({{< ref "/f15/language/gl.md" >}}) | 39 | 112 | 34.8 | /mnt/stockage/packages/f15/monodevelop-boo/po/gl.po | 
- | [it]({{< ref "/f15/language/it.md" >}}) | 39 | 112 | 34.8 | /mnt/stockage/packages/f15/monodevelop-boo/po/it.po | 
- | [pt]({{< ref "/f15/language/pt.md" >}}) | 39 | 112 | 34.8 | /mnt/stockage/packages/f15/monodevelop-boo/po/pt.po | 
- | [ru]({{< ref "/f15/language/ru.md" >}}) | 39 | 112 | 34.8 | /mnt/stockage/packages/f15/monodevelop-boo/po/ru.po | 
- | [zh_Hans]({{< ref "/f15/language/zh_Hans.md" >}}) | 39 | 112 | 34.8 | /mnt/stockage/packages/f15/monodevelop-boo/po/zh_CN.po | 
- | [pl]({{< ref "/f15/language/pl.md" >}}) | 29 | 112 | 25.9 | /mnt/stockage/packages/f15/monodevelop-boo/po/pl.po | 
- | [ca]({{< ref "/f15/language/ca.md" >}}) | 21 | 112 | 18.8 | /mnt/stockage/packages/f15/monodevelop-boo/po/ca.po | 
- | [sl]({{< ref "/f15/language/sl.md" >}}) | 19 | 112 | 17.0 | /mnt/stockage/packages/f15/monodevelop-boo/po/sl_SI.po | 
- | [zh_Hant]({{< ref "/f15/language/zh_Hant.md" >}}) | 17 | 112 | 15.2 | /mnt/stockage/packages/f15/monodevelop-boo/po/zh_TW.po | 
- | [da]({{< ref "/f15/language/da.md" >}}) | 15 | 112 | 13.4 | /mnt/stockage/packages/f15/monodevelop-boo/po/da.po | 
- | [sv]({{< ref "/f15/language/sv.md" >}}) | 10 | 112 | 8.9 | /mnt/stockage/packages/f15/monodevelop-boo/po/sv.po | 
+ | [fr](/f15/language/fr) | 112 | 112 | 100.0 | /mnt/stockage/packages/f15/monodevelop-boo/po/fr.po | 
+ | [cs](/f15/language/cs) | 109 | 112 | 97.3 | /mnt/stockage/packages/f15/monodevelop-boo/po/cs.po | 
+ | [de](/f15/language/de) | 109 | 112 | 97.3 | /mnt/stockage/packages/f15/monodevelop-boo/po/de.po | 
+ | [es](/f15/language/es) | 109 | 112 | 97.3 | /mnt/stockage/packages/f15/monodevelop-boo/po/es.po | 
+ | [hu](/f15/language/hu) | 109 | 112 | 97.3 | /mnt/stockage/packages/f15/monodevelop-boo/po/hu.po | 
+ | [ja](/f15/language/ja) | 109 | 112 | 97.3 | /mnt/stockage/packages/f15/monodevelop-boo/po/ja.po | 
+ | [nl](/f15/language/nl) | 109 | 112 | 97.3 | /mnt/stockage/packages/f15/monodevelop-boo/po/nl.po | 
+ | [tr](/f15/language/tr) | 109 | 112 | 97.3 | /mnt/stockage/packages/f15/monodevelop-boo/po/tr.po | 
+ | [id](/f15/language/id) | 46 | 112 | 41.1 | /mnt/stockage/packages/f15/monodevelop-boo/po/id.po | 
+ | [pt_BR](/f15/language/pt_BR) | 46 | 112 | 41.1 | /mnt/stockage/packages/f15/monodevelop-boo/po/pt_BR.po | 
+ | [gl](/f15/language/gl) | 39 | 112 | 34.8 | /mnt/stockage/packages/f15/monodevelop-boo/po/gl.po | 
+ | [it](/f15/language/it) | 39 | 112 | 34.8 | /mnt/stockage/packages/f15/monodevelop-boo/po/it.po | 
+ | [pt](/f15/language/pt) | 39 | 112 | 34.8 | /mnt/stockage/packages/f15/monodevelop-boo/po/pt.po | 
+ | [ru](/f15/language/ru) | 39 | 112 | 34.8 | /mnt/stockage/packages/f15/monodevelop-boo/po/ru.po | 
+ | [zh_Hans](/f15/language/zh_Hans) | 39 | 112 | 34.8 | /mnt/stockage/packages/f15/monodevelop-boo/po/zh_CN.po | 
+ | [pl](/f15/language/pl) | 29 | 112 | 25.9 | /mnt/stockage/packages/f15/monodevelop-boo/po/pl.po | 
+ | [ca](/f15/language/ca) | 21 | 112 | 18.8 | /mnt/stockage/packages/f15/monodevelop-boo/po/ca.po | 
+ | [sl](/f15/language/sl) | 19 | 112 | 17.0 | /mnt/stockage/packages/f15/monodevelop-boo/po/sl_SI.po | 
+ | [zh_Hant](/f15/language/zh_Hant) | 17 | 112 | 15.2 | /mnt/stockage/packages/f15/monodevelop-boo/po/zh_TW.po | 
+ | [da](/f15/language/da) | 15 | 112 | 13.4 | /mnt/stockage/packages/f15/monodevelop-boo/po/da.po | 
+ | [sv](/f15/language/sv) | 10 | 112 | 8.9 | /mnt/stockage/packages/f15/monodevelop-boo/po/sv.po | 
 {.sortable}
 
 

@@ -18,9 +18,9 @@ The package python-django-q2 (version 1.7.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f43/language/fr.md" >}}) | 316 | 332 | 95.2 | /mnt/stockage/packages/f43/python-django-q2/django_q/locale/fr/LC_MESSAGES/django.po | 
- | [de]({{< ref "/f43/language/de.md" >}}) | 301 | 332 | 90.7 | /mnt/stockage/packages/f43/python-django-q2/django_q/locale/de/LC_MESSAGES/django.po | 
- | [tr]({{< ref "/f43/language/tr.md" >}}) | 271 | 332 | 81.6 | /mnt/stockage/packages/f43/python-django-q2/django_q/locale/tr/LC_MESSAGES/django.po | 
+ | [fr](/f43/language/fr) | 316 | 332 | 95.2 | /mnt/stockage/packages/f43/python-django-q2/django_q/locale/fr/LC_MESSAGES/django.po | 
+ | [de](/f43/language/de) | 301 | 332 | 90.7 | /mnt/stockage/packages/f43/python-django-q2/django_q/locale/de/LC_MESSAGES/django.po | 
+ | [tr](/f43/language/tr) | 271 | 332 | 81.6 | /mnt/stockage/packages/f43/python-django-q2/django_q/locale/tr/LC_MESSAGES/django.po | 
 {.sortable}
 
 

@@ -38,12 +38,12 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [lxpanel]({{< ref "/f12/package/lxpanel.md" >}}) | 785 | 895 | 87.7 | LXDE Traduccion Arpitan <alekcxjo+arpitan@gmail.com> | 
- | [oggconvert]({{< ref "/f12/package/oggconvert.md" >}}) | 89 | 152 | 58.6 | Franco-Provençal <frp@li.org> | 
- | [lxterminal]({{< ref "/f12/package/lxterminal.md" >}}) | 65 | 129 | 50.4 | LANGUAGE <LL@li.org> | 
- | [lxtask]({{< ref "/f12/package/lxtask.md" >}}) | 43 | 122 | 35.2 | LANGUAGE <LL@li.org> | 
- | [exaile]({{< ref "/f12/package/exaile.md" >}}) | 2 | 2176 | 0.1 | Franco-Provençal <frp@li.org> | 
- | [lxdm]({{< ref "/f12/package/lxdm.md" >}}) | 0 | 11 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [lxpanel](/f12/package/lxpanel) | 785 | 895 | 87.7 | LXDE Traduccion Arpitan <alekcxjo+arpitan@gmail.com> | 
+ | [oggconvert](/f12/package/oggconvert) | 89 | 152 | 58.6 | Franco-Provençal <frp@li.org> | 
+ | [lxterminal](/f12/package/lxterminal) | 65 | 129 | 50.4 | LANGUAGE <LL@li.org> | 
+ | [lxtask](/f12/package/lxtask) | 43 | 122 | 35.2 | LANGUAGE <LL@li.org> | 
+ | [exaile](/f12/package/exaile) | 2 | 2176 | 0.1 | Franco-Provençal <frp@li.org> | 
+ | [lxdm](/f12/package/lxdm) | 0 | 11 | 0.0 | LANGUAGE <LL@li.org> | 
 {.sortable}
 
 

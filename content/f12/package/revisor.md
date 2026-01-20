@@ -18,45 +18,45 @@ The package revisor (version 2.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f12/language/ca.md" >}}) | 4630 | 4630 | 100.0 | /mnt/stockage/packages/f12/revisor/po/ca.po | 
- | [es]({{< ref "/f12/language/es.md" >}}) | 4636 | 4636 | 100.0 | /mnt/stockage/packages/f12/revisor/po/es.po | 
- | [it]({{< ref "/f12/language/it.md" >}}) | 4630 | 4630 | 100.0 | /mnt/stockage/packages/f12/revisor/po/it.po | 
- | [pl]({{< ref "/f12/language/pl.md" >}}) | 4636 | 4636 | 100.0 | /mnt/stockage/packages/f12/revisor/po/pl.po | 
- | [sr]({{< ref "/f12/language/sr.md" >}}) | 4224 | 4224 | 100.0 | /mnt/stockage/packages/f12/revisor/po/sr.po | 
- | [sr_Latn]({{< ref "/f12/language/sr_Latn.md" >}}) | 4224 | 4224 | 100.0 | /mnt/stockage/packages/f12/revisor/po/sr@latin.po | 
- | [uk]({{< ref "/f12/language/uk.md" >}}) | 4636 | 4636 | 100.0 | /mnt/stockage/packages/f12/revisor/po/uk.po | 
- | [de]({{< ref "/f12/language/de.md" >}}) | 4619 | 4631 | 99.7 | /mnt/stockage/packages/f12/revisor/po/de.po | 
- | [pt_BR]({{< ref "/f12/language/pt_BR.md" >}}) | 4512 | 4636 | 97.3 | /mnt/stockage/packages/f12/revisor/po/pt_BR.po | 
- | [fr]({{< ref "/f12/language/fr.md" >}}) | 3627 | 4171 | 87.0 | /mnt/stockage/packages/f12/revisor/po/fr.po | 
- | [nl]({{< ref "/f12/language/nl.md" >}}) | 877 | 4443 | 19.7 | /mnt/stockage/packages/f12/revisor/po/nl.po | 
- | [el]({{< ref "/f12/language/el.md" >}}) | 331 | 4630 | 7.1 | /mnt/stockage/packages/f12/revisor/po/el.po | 
- | [zh_Hans]({{< ref "/f12/language/zh_Hans.md" >}}) | 169 | 4630 | 3.7 | /mnt/stockage/packages/f12/revisor/po/zh_CN.po | 
- | [bn]({{< ref "/f12/language/bn.md" >}}) | 0 | 4171 | 0.0 | /mnt/stockage/packages/f12/revisor/po/bn.po | 
- | [bn_IN]({{< ref "/f12/language/bn_IN.md" >}}) | 0 | 4171 | 0.0 | /mnt/stockage/packages/f12/revisor/po/bn_IN.po | 
- | [cs]({{< ref "/f12/language/cs.md" >}}) | 0 | 4171 | 0.0 | /mnt/stockage/packages/f12/revisor/po/cs.po | 
- | [da]({{< ref "/f12/language/da.md" >}}) | 0 | 4171 | 0.0 | /mnt/stockage/packages/f12/revisor/po/da.po | 
- | [fi]({{< ref "/f12/language/fi.md" >}}) | 0 | 4171 | 0.0 | /mnt/stockage/packages/f12/revisor/po/fi.po | 
- | [gl]({{< ref "/f12/language/gl.md" >}}) | 0 | 4171 | 0.0 | /mnt/stockage/packages/f12/revisor/po/gl.po | 
- | [gu]({{< ref "/f12/language/gu.md" >}}) | 0 | 4171 | 0.0 | /mnt/stockage/packages/f12/revisor/po/gu.po | 
- | [hi]({{< ref "/f12/language/hi.md" >}}) | 0 | 4171 | 0.0 | /mnt/stockage/packages/f12/revisor/po/hi.po | 
- | [hr]({{< ref "/f12/language/hr.md" >}}) | 0 | 4171 | 0.0 | /mnt/stockage/packages/f12/revisor/po/hr.po | 
- | [hu]({{< ref "/f12/language/hu.md" >}}) | 0 | 4171 | 0.0 | /mnt/stockage/packages/f12/revisor/po/hu.po | 
- | [is]({{< ref "/f12/language/is.md" >}}) | 0 | 4171 | 0.0 | /mnt/stockage/packages/f12/revisor/po/is.po | 
- | [ja]({{< ref "/f12/language/ja.md" >}}) | 0 | 4171 | 0.0 | /mnt/stockage/packages/f12/revisor/po/ja.po | 
- | [ko]({{< ref "/f12/language/ko.md" >}}) | 0 | 4171 | 0.0 | /mnt/stockage/packages/f12/revisor/po/ko.po | 
- | [ml]({{< ref "/f12/language/ml.md" >}}) | 0 | 4171 | 0.0 | /mnt/stockage/packages/f12/revisor/po/ml.po | 
- | [ms]({{< ref "/f12/language/ms.md" >}}) | 0 | 4171 | 0.0 | /mnt/stockage/packages/f12/revisor/po/ms.po | 
- | [nb_NO]({{< ref "/f12/language/nb_NO.md" >}}) | 0 | 4171 | 0.0 | /mnt/stockage/packages/f12/revisor/po/nb.po | 
- | [or]({{< ref "/f12/language/or.md" >}}) | 0 | 4171 | 0.0 | /mnt/stockage/packages/f12/revisor/po/or.po | 
- | [pa]({{< ref "/f12/language/pa.md" >}}) | 0 | 4171 | 0.0 | /mnt/stockage/packages/f12/revisor/po/pa.po | 
- | [pt]({{< ref "/f12/language/pt.md" >}}) | 0 | 4171 | 0.0 | /mnt/stockage/packages/f12/revisor/po/pt.po | 
- | [ru]({{< ref "/f12/language/ru.md" >}}) | 0 | 4171 | 0.0 | /mnt/stockage/packages/f12/revisor/po/ru.po | 
- | [sk]({{< ref "/f12/language/sk.md" >}}) | 0 | 4171 | 0.0 | /mnt/stockage/packages/f12/revisor/po/sk.po | 
- | [sl]({{< ref "/f12/language/sl.md" >}}) | 0 | 4171 | 0.0 | /mnt/stockage/packages/f12/revisor/po/sl.po | 
- | [sv]({{< ref "/f12/language/sv.md" >}}) | 0 | 4171 | 0.0 | /mnt/stockage/packages/f12/revisor/po/sv.po | 
- | [ta]({{< ref "/f12/language/ta.md" >}}) | 0 | 4171 | 0.0 | /mnt/stockage/packages/f12/revisor/po/ta.po | 
- | [tr]({{< ref "/f12/language/tr.md" >}}) | 0 | 4171 | 0.0 | /mnt/stockage/packages/f12/revisor/po/tr.po | 
- | [zh_Hant]({{< ref "/f12/language/zh_Hant.md" >}}) | 0 | 4171 | 0.0 | /mnt/stockage/packages/f12/revisor/po/zh_TW.po | 
+ | [ca](/f12/language/ca) | 4630 | 4630 | 100.0 | /mnt/stockage/packages/f12/revisor/po/ca.po | 
+ | [es](/f12/language/es) | 4636 | 4636 | 100.0 | /mnt/stockage/packages/f12/revisor/po/es.po | 
+ | [it](/f12/language/it) | 4630 | 4630 | 100.0 | /mnt/stockage/packages/f12/revisor/po/it.po | 
+ | [pl](/f12/language/pl) | 4636 | 4636 | 100.0 | /mnt/stockage/packages/f12/revisor/po/pl.po | 
+ | [sr](/f12/language/sr) | 4224 | 4224 | 100.0 | /mnt/stockage/packages/f12/revisor/po/sr.po | 
+ | [sr_Latn](/f12/language/sr_Latn) | 4224 | 4224 | 100.0 | /mnt/stockage/packages/f12/revisor/po/sr@latin.po | 
+ | [uk](/f12/language/uk) | 4636 | 4636 | 100.0 | /mnt/stockage/packages/f12/revisor/po/uk.po | 
+ | [de](/f12/language/de) | 4619 | 4631 | 99.7 | /mnt/stockage/packages/f12/revisor/po/de.po | 
+ | [pt_BR](/f12/language/pt_BR) | 4512 | 4636 | 97.3 | /mnt/stockage/packages/f12/revisor/po/pt_BR.po | 
+ | [fr](/f12/language/fr) | 3627 | 4171 | 87.0 | /mnt/stockage/packages/f12/revisor/po/fr.po | 
+ | [nl](/f12/language/nl) | 877 | 4443 | 19.7 | /mnt/stockage/packages/f12/revisor/po/nl.po | 
+ | [el](/f12/language/el) | 331 | 4630 | 7.1 | /mnt/stockage/packages/f12/revisor/po/el.po | 
+ | [zh_Hans](/f12/language/zh_Hans) | 169 | 4630 | 3.7 | /mnt/stockage/packages/f12/revisor/po/zh_CN.po | 
+ | [bn](/f12/language/bn) | 0 | 4171 | 0.0 | /mnt/stockage/packages/f12/revisor/po/bn.po | 
+ | [bn_IN](/f12/language/bn_IN) | 0 | 4171 | 0.0 | /mnt/stockage/packages/f12/revisor/po/bn_IN.po | 
+ | [cs](/f12/language/cs) | 0 | 4171 | 0.0 | /mnt/stockage/packages/f12/revisor/po/cs.po | 
+ | [da](/f12/language/da) | 0 | 4171 | 0.0 | /mnt/stockage/packages/f12/revisor/po/da.po | 
+ | [fi](/f12/language/fi) | 0 | 4171 | 0.0 | /mnt/stockage/packages/f12/revisor/po/fi.po | 
+ | [gl](/f12/language/gl) | 0 | 4171 | 0.0 | /mnt/stockage/packages/f12/revisor/po/gl.po | 
+ | [gu](/f12/language/gu) | 0 | 4171 | 0.0 | /mnt/stockage/packages/f12/revisor/po/gu.po | 
+ | [hi](/f12/language/hi) | 0 | 4171 | 0.0 | /mnt/stockage/packages/f12/revisor/po/hi.po | 
+ | [hr](/f12/language/hr) | 0 | 4171 | 0.0 | /mnt/stockage/packages/f12/revisor/po/hr.po | 
+ | [hu](/f12/language/hu) | 0 | 4171 | 0.0 | /mnt/stockage/packages/f12/revisor/po/hu.po | 
+ | [is](/f12/language/is) | 0 | 4171 | 0.0 | /mnt/stockage/packages/f12/revisor/po/is.po | 
+ | [ja](/f12/language/ja) | 0 | 4171 | 0.0 | /mnt/stockage/packages/f12/revisor/po/ja.po | 
+ | [ko](/f12/language/ko) | 0 | 4171 | 0.0 | /mnt/stockage/packages/f12/revisor/po/ko.po | 
+ | [ml](/f12/language/ml) | 0 | 4171 | 0.0 | /mnt/stockage/packages/f12/revisor/po/ml.po | 
+ | [ms](/f12/language/ms) | 0 | 4171 | 0.0 | /mnt/stockage/packages/f12/revisor/po/ms.po | 
+ | [nb_NO](/f12/language/nb_NO) | 0 | 4171 | 0.0 | /mnt/stockage/packages/f12/revisor/po/nb.po | 
+ | [or](/f12/language/or) | 0 | 4171 | 0.0 | /mnt/stockage/packages/f12/revisor/po/or.po | 
+ | [pa](/f12/language/pa) | 0 | 4171 | 0.0 | /mnt/stockage/packages/f12/revisor/po/pa.po | 
+ | [pt](/f12/language/pt) | 0 | 4171 | 0.0 | /mnt/stockage/packages/f12/revisor/po/pt.po | 
+ | [ru](/f12/language/ru) | 0 | 4171 | 0.0 | /mnt/stockage/packages/f12/revisor/po/ru.po | 
+ | [sk](/f12/language/sk) | 0 | 4171 | 0.0 | /mnt/stockage/packages/f12/revisor/po/sk.po | 
+ | [sl](/f12/language/sl) | 0 | 4171 | 0.0 | /mnt/stockage/packages/f12/revisor/po/sl.po | 
+ | [sv](/f12/language/sv) | 0 | 4171 | 0.0 | /mnt/stockage/packages/f12/revisor/po/sv.po | 
+ | [ta](/f12/language/ta) | 0 | 4171 | 0.0 | /mnt/stockage/packages/f12/revisor/po/ta.po | 
+ | [tr](/f12/language/tr) | 0 | 4171 | 0.0 | /mnt/stockage/packages/f12/revisor/po/tr.po | 
+ | [zh_Hant](/f12/language/zh_Hant) | 0 | 4171 | 0.0 | /mnt/stockage/packages/f12/revisor/po/zh_TW.po | 
 {.sortable}
 
 

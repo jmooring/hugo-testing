@@ -39,17 +39,17 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [tellico]({{< ref "/f14/package/tellico.md" >}}) | 5621 | 5621 | 100.0 | Interlingua <kde-i18n-it@kde.org> | 
- | [lyx]({{< ref "/f14/package/lyx.md" >}}) | 16933 | 16954 | 99.9 | Interlingua <g.sora@tiscali.it> | 
- | [mailman]({{< ref "/f14/package/mailman.md" >}}) | 15548 | 21886 | 71.0 | Interlingua <TradSoft@interlingua.com> | 
- | [stellarium]({{< ref "/f14/package/stellarium.md" >}}) | 176 | 3362 | 5.2 | Interlingua <ia@li.org> | 
- | [widelands]({{< ref "/f14/package/widelands.md" >}}) | 328 | 6817 | 4.8 | Interlingua <ia@li.org> | 
- | [gdk-pixbuf2]({{< ref "/f14/package/gdk-pixbuf2.md" >}}) | 49 | 1313 | 3.7 | Interlingua | 
- | [mingw32-gdk-pixbuf]({{< ref "/f14/package/mingw32-gdk-pixbuf.md" >}}) | 49 | 1313 | 3.7 | Interlingua | 
- | [gtk2]({{< ref "/f14/package/gtk2.md" >}}) | 78 | 13704 | 0.6 | Interlingua | 
- | [mingw32-gtk2]({{< ref "/f14/package/mingw32-gtk2.md" >}}) | 78 | 13704 | 0.6 | Interlingua | 
- | [gtk3]({{< ref "/f14/package/gtk3.md" >}}) | 21 | 11998 | 0.2 | Interlingua | 
- | [mc]({{< ref "/f14/package/mc.md" >}}) | 0 | 3661 | 0.0 | Interlingua (http://www.transifex.net/projects/p/mc/team/ia/) | 
+ | [tellico](/f14/package/tellico) | 5621 | 5621 | 100.0 | Interlingua <kde-i18n-it@kde.org> | 
+ | [lyx](/f14/package/lyx) | 16933 | 16954 | 99.9 | Interlingua <g.sora@tiscali.it> | 
+ | [mailman](/f14/package/mailman) | 15548 | 21886 | 71.0 | Interlingua <TradSoft@interlingua.com> | 
+ | [stellarium](/f14/package/stellarium) | 176 | 3362 | 5.2 | Interlingua <ia@li.org> | 
+ | [widelands](/f14/package/widelands) | 328 | 6817 | 4.8 | Interlingua <ia@li.org> | 
+ | [gdk-pixbuf2](/f14/package/gdk-pixbuf2) | 49 | 1313 | 3.7 | Interlingua | 
+ | [mingw32-gdk-pixbuf](/f14/package/mingw32-gdk-pixbuf) | 49 | 1313 | 3.7 | Interlingua | 
+ | [gtk2](/f14/package/gtk2) | 78 | 13704 | 0.6 | Interlingua | 
+ | [mingw32-gtk2](/f14/package/mingw32-gtk2) | 78 | 13704 | 0.6 | Interlingua | 
+ | [gtk3](/f14/package/gtk3) | 21 | 11998 | 0.2 | Interlingua | 
+ | [mc](/f14/package/mc) | 0 | 3661 | 0.0 | Interlingua (http://www.transifex.net/projects/p/mc/team/ia/) | 
 {.sortable}
 
 

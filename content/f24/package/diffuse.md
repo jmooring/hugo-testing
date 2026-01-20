@@ -18,16 +18,16 @@ The package diffuse (version 0.4.8):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f24/language/cs.md" >}}) | 987 | 987 | 100.0 | /mnt/stockage/packages/f24/diffuse/translations/cs.po | 
- | [de]({{< ref "/f24/language/de.md" >}}) | 987 | 987 | 100.0 | /mnt/stockage/packages/f24/diffuse/translations/de.po | 
- | [es]({{< ref "/f24/language/es.md" >}}) | 987 | 987 | 100.0 | /mnt/stockage/packages/f24/diffuse/translations/es.po | 
- | [it]({{< ref "/f24/language/it.md" >}}) | 987 | 987 | 100.0 | /mnt/stockage/packages/f24/diffuse/translations/it.po | 
- | [ja]({{< ref "/f24/language/ja.md" >}}) | 987 | 987 | 100.0 | /mnt/stockage/packages/f24/diffuse/translations/ja.po | 
- | [ko]({{< ref "/f24/language/ko.md" >}}) | 987 | 987 | 100.0 | /mnt/stockage/packages/f24/diffuse/translations/ko.po | 
- | [ru]({{< ref "/f24/language/ru.md" >}}) | 987 | 987 | 100.0 | /mnt/stockage/packages/f24/diffuse/translations/ru.po | 
- | [zh_Hant]({{< ref "/f24/language/zh_Hant.md" >}}) | 987 | 987 | 100.0 | /mnt/stockage/packages/f24/diffuse/translations/zh_TW.po | 
- | [pl]({{< ref "/f24/language/pl.md" >}}) | 849 | 987 | 86.0 | /mnt/stockage/packages/f24/diffuse/translations/pl.po | 
- | [zh_Hans]({{< ref "/f24/language/zh_Hans.md" >}}) | 827 | 987 | 83.8 | /mnt/stockage/packages/f24/diffuse/translations/zh_CN.po | 
+ | [cs](/f24/language/cs) | 987 | 987 | 100.0 | /mnt/stockage/packages/f24/diffuse/translations/cs.po | 
+ | [de](/f24/language/de) | 987 | 987 | 100.0 | /mnt/stockage/packages/f24/diffuse/translations/de.po | 
+ | [es](/f24/language/es) | 987 | 987 | 100.0 | /mnt/stockage/packages/f24/diffuse/translations/es.po | 
+ | [it](/f24/language/it) | 987 | 987 | 100.0 | /mnt/stockage/packages/f24/diffuse/translations/it.po | 
+ | [ja](/f24/language/ja) | 987 | 987 | 100.0 | /mnt/stockage/packages/f24/diffuse/translations/ja.po | 
+ | [ko](/f24/language/ko) | 987 | 987 | 100.0 | /mnt/stockage/packages/f24/diffuse/translations/ko.po | 
+ | [ru](/f24/language/ru) | 987 | 987 | 100.0 | /mnt/stockage/packages/f24/diffuse/translations/ru.po | 
+ | [zh_Hant](/f24/language/zh_Hant) | 987 | 987 | 100.0 | /mnt/stockage/packages/f24/diffuse/translations/zh_TW.po | 
+ | [pl](/f24/language/pl) | 849 | 987 | 86.0 | /mnt/stockage/packages/f24/diffuse/translations/pl.po | 
+ | [zh_Hans](/f24/language/zh_Hans) | 827 | 987 | 83.8 | /mnt/stockage/packages/f24/diffuse/translations/zh_CN.po | 
 {.sortable}
 
 

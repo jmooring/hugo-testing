@@ -18,8 +18,8 @@ The package group-service (version 1.3.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f35/language/fr.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f35/group-service/po/fr.po | 
- | [zh_Hans]({{< ref "/f35/language/zh_Hans.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f35/group-service/po/zh_CN.po | 
+ | [fr](/f35/language/fr) | 24 | 24 | 100.0 | /mnt/stockage/packages/f35/group-service/po/fr.po | 
+ | [zh_Hans](/f35/language/zh_Hans) | 24 | 24 | 100.0 | /mnt/stockage/packages/f35/group-service/po/zh_CN.po | 
 {.sortable}
 
 

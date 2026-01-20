@@ -18,22 +18,22 @@ The package dos2unix (version 7.2.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f22/language/de.md" >}}) | 3916 | 3916 | 100.0 | /mnt/stockage/packages/f22/dos2unix/man/de/man1/dos2unix.po/mnt/stockage/packages/f22/dos2unix/po/de.po | 
- | [fr]({{< ref "/f22/language/fr.md" >}}) | 3916 | 3916 | 100.0 | /mnt/stockage/packages/f22/dos2unix/man/fr/man1/dos2unix.po/mnt/stockage/packages/f22/dos2unix/po/fr.po | 
- | [nb_NO]({{< ref "/f22/language/nb_NO.md" >}}) | 928 | 928 | 100.0 | /mnt/stockage/packages/f22/dos2unix/po/nb.po | 
- | [pl]({{< ref "/f22/language/pl.md" >}}) | 3916 | 3916 | 100.0 | /mnt/stockage/packages/f22/dos2unix/man/pl/man1/dos2unix.po/mnt/stockage/packages/f22/dos2unix/po/pl.po | 
- | [uk]({{< ref "/f22/language/uk.md" >}}) | 3916 | 3916 | 100.0 | /mnt/stockage/packages/f22/dos2unix/man/uk/man1/dos2unix.po/mnt/stockage/packages/f22/dos2unix/po/uk.po | 
- | [es]({{< ref "/f22/language/es.md" >}}) | 3889 | 3916 | 99.3 | /mnt/stockage/packages/f22/dos2unix/man/es/man1/dos2unix.po/mnt/stockage/packages/f22/dos2unix/po/es.po | 
- | [pt_BR]({{< ref "/f22/language/pt_BR.md" >}}) | 3829 | 3916 | 97.8 | /mnt/stockage/packages/f22/dos2unix/man/pt_BR/man1/dos2unix.po/mnt/stockage/packages/f22/dos2unix/po/pt_BR.po | 
- | [nl]({{< ref "/f22/language/nl.md" >}}) | 3806 | 3916 | 97.2 | /mnt/stockage/packages/f22/dos2unix/man/nl/man1/dos2unix.po/mnt/stockage/packages/f22/dos2unix/po/nl.po | 
- | [hu]({{< ref "/f22/language/hu.md" >}}) | 901 | 928 | 97.1 | /mnt/stockage/packages/f22/dos2unix/po/hu.po | 
- | [ru]({{< ref "/f22/language/ru.md" >}}) | 901 | 928 | 97.1 | /mnt/stockage/packages/f22/dos2unix/po/ru.po | 
- | [sr]({{< ref "/f22/language/sr.md" >}}) | 901 | 928 | 97.1 | /mnt/stockage/packages/f22/dos2unix/po/sr.po | 
- | [eo]({{< ref "/f22/language/eo.md" >}}) | 818 | 928 | 88.1 | /mnt/stockage/packages/f22/dos2unix/po/eo.po | 
- | [vi]({{< ref "/f22/language/vi.md" >}}) | 818 | 928 | 88.1 | /mnt/stockage/packages/f22/dos2unix/po/vi.po | 
- | [ja]({{< ref "/f22/language/ja.md" >}}) | 815 | 928 | 87.8 | /mnt/stockage/packages/f22/dos2unix/po/ja.po | 
- | [da]({{< ref "/f22/language/da.md" >}}) | 750 | 928 | 80.8 | /mnt/stockage/packages/f22/dos2unix/po/da.po | 
- | [zh_Hant]({{< ref "/f22/language/zh_Hant.md" >}}) | 750 | 928 | 80.8 | /mnt/stockage/packages/f22/dos2unix/po/zh_TW.po | 
+ | [de](/f22/language/de) | 3916 | 3916 | 100.0 | /mnt/stockage/packages/f22/dos2unix/man/de/man1/dos2unix.po/mnt/stockage/packages/f22/dos2unix/po/de.po | 
+ | [fr](/f22/language/fr) | 3916 | 3916 | 100.0 | /mnt/stockage/packages/f22/dos2unix/man/fr/man1/dos2unix.po/mnt/stockage/packages/f22/dos2unix/po/fr.po | 
+ | [nb_NO](/f22/language/nb_NO) | 928 | 928 | 100.0 | /mnt/stockage/packages/f22/dos2unix/po/nb.po | 
+ | [pl](/f22/language/pl) | 3916 | 3916 | 100.0 | /mnt/stockage/packages/f22/dos2unix/man/pl/man1/dos2unix.po/mnt/stockage/packages/f22/dos2unix/po/pl.po | 
+ | [uk](/f22/language/uk) | 3916 | 3916 | 100.0 | /mnt/stockage/packages/f22/dos2unix/man/uk/man1/dos2unix.po/mnt/stockage/packages/f22/dos2unix/po/uk.po | 
+ | [es](/f22/language/es) | 3889 | 3916 | 99.3 | /mnt/stockage/packages/f22/dos2unix/man/es/man1/dos2unix.po/mnt/stockage/packages/f22/dos2unix/po/es.po | 
+ | [pt_BR](/f22/language/pt_BR) | 3829 | 3916 | 97.8 | /mnt/stockage/packages/f22/dos2unix/man/pt_BR/man1/dos2unix.po/mnt/stockage/packages/f22/dos2unix/po/pt_BR.po | 
+ | [nl](/f22/language/nl) | 3806 | 3916 | 97.2 | /mnt/stockage/packages/f22/dos2unix/man/nl/man1/dos2unix.po/mnt/stockage/packages/f22/dos2unix/po/nl.po | 
+ | [hu](/f22/language/hu) | 901 | 928 | 97.1 | /mnt/stockage/packages/f22/dos2unix/po/hu.po | 
+ | [ru](/f22/language/ru) | 901 | 928 | 97.1 | /mnt/stockage/packages/f22/dos2unix/po/ru.po | 
+ | [sr](/f22/language/sr) | 901 | 928 | 97.1 | /mnt/stockage/packages/f22/dos2unix/po/sr.po | 
+ | [eo](/f22/language/eo) | 818 | 928 | 88.1 | /mnt/stockage/packages/f22/dos2unix/po/eo.po | 
+ | [vi](/f22/language/vi) | 818 | 928 | 88.1 | /mnt/stockage/packages/f22/dos2unix/po/vi.po | 
+ | [ja](/f22/language/ja) | 815 | 928 | 87.8 | /mnt/stockage/packages/f22/dos2unix/po/ja.po | 
+ | [da](/f22/language/da) | 750 | 928 | 80.8 | /mnt/stockage/packages/f22/dos2unix/po/da.po | 
+ | [zh_Hant](/f22/language/zh_Hant) | 750 | 928 | 80.8 | /mnt/stockage/packages/f22/dos2unix/po/zh_TW.po | 
 {.sortable}
 
 

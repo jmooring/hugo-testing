@@ -18,59 +18,59 @@ The package xfce4-power-manager (version 1.6.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [bg]({{< ref "/f24/language/bg.md" >}}) | 1011 | 1011 | 100.0 | /mnt/stockage/packages/f24/xfce4-power-manager/po/bg.po | 
- | [cs]({{< ref "/f24/language/cs.md" >}}) | 1017 | 1017 | 100.0 | /mnt/stockage/packages/f24/xfce4-power-manager/po/cs.po | 
- | [da]({{< ref "/f24/language/da.md" >}}) | 1017 | 1017 | 100.0 | /mnt/stockage/packages/f24/xfce4-power-manager/po/da.po | 
- | [de]({{< ref "/f24/language/de.md" >}}) | 1011 | 1011 | 100.0 | /mnt/stockage/packages/f24/xfce4-power-manager/po/de.po | 
- | [en_AU]({{< ref "/f24/language/en_AU.md" >}}) | 1017 | 1017 | 100.0 | /mnt/stockage/packages/f24/xfce4-power-manager/po/en_AU.po | 
- | [en_GB]({{< ref "/f24/language/en_GB.md" >}}) | 764 | 764 | 100.0 | /mnt/stockage/packages/f24/xfce4-power-manager/po/en_GB.po | 
- | [es]({{< ref "/f24/language/es.md" >}}) | 1011 | 1011 | 100.0 | /mnt/stockage/packages/f24/xfce4-power-manager/po/es.po | 
- | [fr]({{< ref "/f24/language/fr.md" >}}) | 1017 | 1017 | 100.0 | /mnt/stockage/packages/f24/xfce4-power-manager/po/fr.po | 
- | [he]({{< ref "/f24/language/he.md" >}}) | 1017 | 1017 | 100.0 | /mnt/stockage/packages/f24/xfce4-power-manager/po/he.po | 
- | [hr]({{< ref "/f24/language/hr.md" >}}) | 1011 | 1011 | 100.0 | /mnt/stockage/packages/f24/xfce4-power-manager/po/hr.po | 
- | [it]({{< ref "/f24/language/it.md" >}}) | 1011 | 1011 | 100.0 | /mnt/stockage/packages/f24/xfce4-power-manager/po/it.po | 
- | [ja]({{< ref "/f24/language/ja.md" >}}) | 1017 | 1017 | 100.0 | /mnt/stockage/packages/f24/xfce4-power-manager/po/ja.po | 
- | [ko]({{< ref "/f24/language/ko.md" >}}) | 1017 | 1017 | 100.0 | /mnt/stockage/packages/f24/xfce4-power-manager/po/ko.po | 
- | [lt]({{< ref "/f24/language/lt.md" >}}) | 1017 | 1017 | 100.0 | /mnt/stockage/packages/f24/xfce4-power-manager/po/lt.po | 
- | [ms]({{< ref "/f24/language/ms.md" >}}) | 1017 | 1017 | 100.0 | /mnt/stockage/packages/f24/xfce4-power-manager/po/ms.po | 
- | [nb_NO]({{< ref "/f24/language/nb_NO.md" >}}) | 1011 | 1011 | 100.0 | /mnt/stockage/packages/f24/xfce4-power-manager/po/nb.po | 
- | [nl]({{< ref "/f24/language/nl.md" >}}) | 1017 | 1017 | 100.0 | /mnt/stockage/packages/f24/xfce4-power-manager/po/nl.po | 
- | [pt]({{< ref "/f24/language/pt.md" >}}) | 1011 | 1011 | 100.0 | /mnt/stockage/packages/f24/xfce4-power-manager/po/pt.po | 
- | [pt_BR]({{< ref "/f24/language/pt_BR.md" >}}) | 1011 | 1011 | 100.0 | /mnt/stockage/packages/f24/xfce4-power-manager/po/pt_BR.po | 
- | [ro]({{< ref "/f24/language/ro.md" >}}) | 975 | 975 | 100.0 | /mnt/stockage/packages/f24/xfce4-power-manager/po/ro.po | 
- | [ru]({{< ref "/f24/language/ru.md" >}}) | 1017 | 1017 | 100.0 | /mnt/stockage/packages/f24/xfce4-power-manager/po/ru.po | 
- | [sk]({{< ref "/f24/language/sk.md" >}}) | 1011 | 1011 | 100.0 | /mnt/stockage/packages/f24/xfce4-power-manager/po/sk.po | 
- | [sr]({{< ref "/f24/language/sr.md" >}}) | 1011 | 1011 | 100.0 | /mnt/stockage/packages/f24/xfce4-power-manager/po/sr.po | 
- | [sv]({{< ref "/f24/language/sv.md" >}}) | 1017 | 1017 | 100.0 | /mnt/stockage/packages/f24/xfce4-power-manager/po/sv.po | 
- | [th]({{< ref "/f24/language/th.md" >}}) | 1011 | 1011 | 100.0 | /mnt/stockage/packages/f24/xfce4-power-manager/po/th.po | 
- | [tr]({{< ref "/f24/language/tr.md" >}}) | 1017 | 1017 | 100.0 | /mnt/stockage/packages/f24/xfce4-power-manager/po/tr.po | 
- | [ug]({{< ref "/f24/language/ug.md" >}}) | 764 | 764 | 100.0 | /mnt/stockage/packages/f24/xfce4-power-manager/po/ug.po | 
- | [uk]({{< ref "/f24/language/uk.md" >}}) | 1017 | 1017 | 100.0 | /mnt/stockage/packages/f24/xfce4-power-manager/po/uk.po | 
- | [zh_Hans]({{< ref "/f24/language/zh_Hans.md" >}}) | 1017 | 1017 | 100.0 | /mnt/stockage/packages/f24/xfce4-power-manager/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f24/language/zh_Hant.md" >}}) | 1017 | 1017 | 100.0 | /mnt/stockage/packages/f24/xfce4-power-manager/po/zh_TW.po | 
- | [zh_Hant_HK]({{< ref "/f24/language/zh_Hant_HK.md" >}}) | 819 | 833 | 98.3 | /mnt/stockage/packages/f24/xfce4-power-manager/po/zh_HK.po | 
- | [ur]({{< ref "/f24/language/ur.md" >}}) | 650 | 694 | 93.7 | /mnt/stockage/packages/f24/xfce4-power-manager/po/ur.po | 
- | [ur_PK]({{< ref "/f24/language/ur_PK.md" >}}) | 650 | 694 | 93.7 | /mnt/stockage/packages/f24/xfce4-power-manager/po/ur_PK.po | 
- | [vi]({{< ref "/f24/language/vi.md" >}}) | 777 | 833 | 93.3 | /mnt/stockage/packages/f24/xfce4-power-manager/po/vi.po | 
- | [kk]({{< ref "/f24/language/kk.md" >}}) | 868 | 1011 | 85.9 | /mnt/stockage/packages/f24/xfce4-power-manager/po/kk.po | 
- | [id]({{< ref "/f24/language/id.md" >}}) | 836 | 979 | 85.4 | /mnt/stockage/packages/f24/xfce4-power-manager/po/id.po | 
- | [fi]({{< ref "/f24/language/fi.md" >}}) | 848 | 1011 | 83.9 | /mnt/stockage/packages/f24/xfce4-power-manager/po/fi.po | 
- | [si]({{< ref "/f24/language/si.md" >}}) | 629 | 764 | 82.3 | /mnt/stockage/packages/f24/xfce4-power-manager/po/si.po | 
- | [pl]({{< ref "/f24/language/pl.md" >}}) | 802 | 1011 | 79.3 | /mnt/stockage/packages/f24/xfce4-power-manager/po/pl.po | 
- | [et]({{< ref "/f24/language/et.md" >}}) | 598 | 764 | 78.3 | /mnt/stockage/packages/f24/xfce4-power-manager/po/et.po | 
- | [el]({{< ref "/f24/language/el.md" >}}) | 771 | 1011 | 76.3 | /mnt/stockage/packages/f24/xfce4-power-manager/po/el.po | 
- | [sl]({{< ref "/f24/language/sl.md" >}}) | 762 | 1017 | 74.9 | /mnt/stockage/packages/f24/xfce4-power-manager/po/sl.po | 
- | [ca]({{< ref "/f24/language/ca.md" >}}) | 756 | 1011 | 74.8 | /mnt/stockage/packages/f24/xfce4-power-manager/po/ca.po | 
- | [is]({{< ref "/f24/language/is.md" >}}) | 597 | 1017 | 58.7 | /mnt/stockage/packages/f24/xfce4-power-manager/po/is.po | 
- | [ast]({{< ref "/f24/language/ast.md" >}}) | 586 | 1010 | 58.0 | /mnt/stockage/packages/f24/xfce4-power-manager/po/ast.po | 
- | [hu]({{< ref "/f24/language/hu.md" >}}) | 541 | 951 | 56.9 | /mnt/stockage/packages/f24/xfce4-power-manager/po/hu.po | 
- | [nn]({{< ref "/f24/language/nn.md" >}}) | 425 | 955 | 44.5 | /mnt/stockage/packages/f24/xfce4-power-manager/po/nn.po | 
- | [pa]({{< ref "/f24/language/pa.md" >}}) | 339 | 764 | 44.4 | /mnt/stockage/packages/f24/xfce4-power-manager/po/pa.po | 
- | [ar]({{< ref "/f24/language/ar.md" >}}) | 442 | 1011 | 43.7 | /mnt/stockage/packages/f24/xfce4-power-manager/po/ar.po | 
- | [gl]({{< ref "/f24/language/gl.md" >}}) | 433 | 1011 | 42.8 | /mnt/stockage/packages/f24/xfce4-power-manager/po/gl.po | 
- | [oc]({{< ref "/f24/language/oc.md" >}}) | 391 | 1017 | 38.4 | /mnt/stockage/packages/f24/xfce4-power-manager/po/oc.po | 
- | [eu]({{< ref "/f24/language/eu.md" >}}) | 364 | 1011 | 36.0 | /mnt/stockage/packages/f24/xfce4-power-manager/po/eu.po | 
- | [te]({{< ref "/f24/language/te.md" >}}) | 267 | 770 | 34.7 | /mnt/stockage/packages/f24/xfce4-power-manager/po/te.po | 
+ | [bg](/f24/language/bg) | 1011 | 1011 | 100.0 | /mnt/stockage/packages/f24/xfce4-power-manager/po/bg.po | 
+ | [cs](/f24/language/cs) | 1017 | 1017 | 100.0 | /mnt/stockage/packages/f24/xfce4-power-manager/po/cs.po | 
+ | [da](/f24/language/da) | 1017 | 1017 | 100.0 | /mnt/stockage/packages/f24/xfce4-power-manager/po/da.po | 
+ | [de](/f24/language/de) | 1011 | 1011 | 100.0 | /mnt/stockage/packages/f24/xfce4-power-manager/po/de.po | 
+ | [en_AU](/f24/language/en_AU) | 1017 | 1017 | 100.0 | /mnt/stockage/packages/f24/xfce4-power-manager/po/en_AU.po | 
+ | [en_GB](/f24/language/en_GB) | 764 | 764 | 100.0 | /mnt/stockage/packages/f24/xfce4-power-manager/po/en_GB.po | 
+ | [es](/f24/language/es) | 1011 | 1011 | 100.0 | /mnt/stockage/packages/f24/xfce4-power-manager/po/es.po | 
+ | [fr](/f24/language/fr) | 1017 | 1017 | 100.0 | /mnt/stockage/packages/f24/xfce4-power-manager/po/fr.po | 
+ | [he](/f24/language/he) | 1017 | 1017 | 100.0 | /mnt/stockage/packages/f24/xfce4-power-manager/po/he.po | 
+ | [hr](/f24/language/hr) | 1011 | 1011 | 100.0 | /mnt/stockage/packages/f24/xfce4-power-manager/po/hr.po | 
+ | [it](/f24/language/it) | 1011 | 1011 | 100.0 | /mnt/stockage/packages/f24/xfce4-power-manager/po/it.po | 
+ | [ja](/f24/language/ja) | 1017 | 1017 | 100.0 | /mnt/stockage/packages/f24/xfce4-power-manager/po/ja.po | 
+ | [ko](/f24/language/ko) | 1017 | 1017 | 100.0 | /mnt/stockage/packages/f24/xfce4-power-manager/po/ko.po | 
+ | [lt](/f24/language/lt) | 1017 | 1017 | 100.0 | /mnt/stockage/packages/f24/xfce4-power-manager/po/lt.po | 
+ | [ms](/f24/language/ms) | 1017 | 1017 | 100.0 | /mnt/stockage/packages/f24/xfce4-power-manager/po/ms.po | 
+ | [nb_NO](/f24/language/nb_NO) | 1011 | 1011 | 100.0 | /mnt/stockage/packages/f24/xfce4-power-manager/po/nb.po | 
+ | [nl](/f24/language/nl) | 1017 | 1017 | 100.0 | /mnt/stockage/packages/f24/xfce4-power-manager/po/nl.po | 
+ | [pt](/f24/language/pt) | 1011 | 1011 | 100.0 | /mnt/stockage/packages/f24/xfce4-power-manager/po/pt.po | 
+ | [pt_BR](/f24/language/pt_BR) | 1011 | 1011 | 100.0 | /mnt/stockage/packages/f24/xfce4-power-manager/po/pt_BR.po | 
+ | [ro](/f24/language/ro) | 975 | 975 | 100.0 | /mnt/stockage/packages/f24/xfce4-power-manager/po/ro.po | 
+ | [ru](/f24/language/ru) | 1017 | 1017 | 100.0 | /mnt/stockage/packages/f24/xfce4-power-manager/po/ru.po | 
+ | [sk](/f24/language/sk) | 1011 | 1011 | 100.0 | /mnt/stockage/packages/f24/xfce4-power-manager/po/sk.po | 
+ | [sr](/f24/language/sr) | 1011 | 1011 | 100.0 | /mnt/stockage/packages/f24/xfce4-power-manager/po/sr.po | 
+ | [sv](/f24/language/sv) | 1017 | 1017 | 100.0 | /mnt/stockage/packages/f24/xfce4-power-manager/po/sv.po | 
+ | [th](/f24/language/th) | 1011 | 1011 | 100.0 | /mnt/stockage/packages/f24/xfce4-power-manager/po/th.po | 
+ | [tr](/f24/language/tr) | 1017 | 1017 | 100.0 | /mnt/stockage/packages/f24/xfce4-power-manager/po/tr.po | 
+ | [ug](/f24/language/ug) | 764 | 764 | 100.0 | /mnt/stockage/packages/f24/xfce4-power-manager/po/ug.po | 
+ | [uk](/f24/language/uk) | 1017 | 1017 | 100.0 | /mnt/stockage/packages/f24/xfce4-power-manager/po/uk.po | 
+ | [zh_Hans](/f24/language/zh_Hans) | 1017 | 1017 | 100.0 | /mnt/stockage/packages/f24/xfce4-power-manager/po/zh_CN.po | 
+ | [zh_Hant](/f24/language/zh_Hant) | 1017 | 1017 | 100.0 | /mnt/stockage/packages/f24/xfce4-power-manager/po/zh_TW.po | 
+ | [zh_Hant_HK](/f24/language/zh_Hant_HK) | 819 | 833 | 98.3 | /mnt/stockage/packages/f24/xfce4-power-manager/po/zh_HK.po | 
+ | [ur](/f24/language/ur) | 650 | 694 | 93.7 | /mnt/stockage/packages/f24/xfce4-power-manager/po/ur.po | 
+ | [ur_PK](/f24/language/ur_PK) | 650 | 694 | 93.7 | /mnt/stockage/packages/f24/xfce4-power-manager/po/ur_PK.po | 
+ | [vi](/f24/language/vi) | 777 | 833 | 93.3 | /mnt/stockage/packages/f24/xfce4-power-manager/po/vi.po | 
+ | [kk](/f24/language/kk) | 868 | 1011 | 85.9 | /mnt/stockage/packages/f24/xfce4-power-manager/po/kk.po | 
+ | [id](/f24/language/id) | 836 | 979 | 85.4 | /mnt/stockage/packages/f24/xfce4-power-manager/po/id.po | 
+ | [fi](/f24/language/fi) | 848 | 1011 | 83.9 | /mnt/stockage/packages/f24/xfce4-power-manager/po/fi.po | 
+ | [si](/f24/language/si) | 629 | 764 | 82.3 | /mnt/stockage/packages/f24/xfce4-power-manager/po/si.po | 
+ | [pl](/f24/language/pl) | 802 | 1011 | 79.3 | /mnt/stockage/packages/f24/xfce4-power-manager/po/pl.po | 
+ | [et](/f24/language/et) | 598 | 764 | 78.3 | /mnt/stockage/packages/f24/xfce4-power-manager/po/et.po | 
+ | [el](/f24/language/el) | 771 | 1011 | 76.3 | /mnt/stockage/packages/f24/xfce4-power-manager/po/el.po | 
+ | [sl](/f24/language/sl) | 762 | 1017 | 74.9 | /mnt/stockage/packages/f24/xfce4-power-manager/po/sl.po | 
+ | [ca](/f24/language/ca) | 756 | 1011 | 74.8 | /mnt/stockage/packages/f24/xfce4-power-manager/po/ca.po | 
+ | [is](/f24/language/is) | 597 | 1017 | 58.7 | /mnt/stockage/packages/f24/xfce4-power-manager/po/is.po | 
+ | [ast](/f24/language/ast) | 586 | 1010 | 58.0 | /mnt/stockage/packages/f24/xfce4-power-manager/po/ast.po | 
+ | [hu](/f24/language/hu) | 541 | 951 | 56.9 | /mnt/stockage/packages/f24/xfce4-power-manager/po/hu.po | 
+ | [nn](/f24/language/nn) | 425 | 955 | 44.5 | /mnt/stockage/packages/f24/xfce4-power-manager/po/nn.po | 
+ | [pa](/f24/language/pa) | 339 | 764 | 44.4 | /mnt/stockage/packages/f24/xfce4-power-manager/po/pa.po | 
+ | [ar](/f24/language/ar) | 442 | 1011 | 43.7 | /mnt/stockage/packages/f24/xfce4-power-manager/po/ar.po | 
+ | [gl](/f24/language/gl) | 433 | 1011 | 42.8 | /mnt/stockage/packages/f24/xfce4-power-manager/po/gl.po | 
+ | [oc](/f24/language/oc) | 391 | 1017 | 38.4 | /mnt/stockage/packages/f24/xfce4-power-manager/po/oc.po | 
+ | [eu](/f24/language/eu) | 364 | 1011 | 36.0 | /mnt/stockage/packages/f24/xfce4-power-manager/po/eu.po | 
+ | [te](/f24/language/te) | 267 | 770 | 34.7 | /mnt/stockage/packages/f24/xfce4-power-manager/po/te.po | 
 {.sortable}
 
 

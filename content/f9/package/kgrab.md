@@ -18,34 +18,34 @@ The package kgrab (version 0.1.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [el]({{< ref "/f9/language/el.md" >}}) | 370 | 370 | 100.0 | /mnt/stockage/packages/f9/kgrab/po/el/kgrab.po | 
- | [nds]({{< ref "/f9/language/nds.md" >}}) | 370 | 370 | 100.0 | /mnt/stockage/packages/f9/kgrab/po/nds/kgrab.po | 
- | [de]({{< ref "/f9/language/de.md" >}}) | 368 | 370 | 99.5 | /mnt/stockage/packages/f9/kgrab/po/de/kgrab.po | 
- | [et]({{< ref "/f9/language/et.md" >}}) | 368 | 370 | 99.5 | /mnt/stockage/packages/f9/kgrab/po/et/kgrab.po | 
- | [fr]({{< ref "/f9/language/fr.md" >}}) | 368 | 370 | 99.5 | /mnt/stockage/packages/f9/kgrab/po/fr/kgrab.po | 
- | [gl]({{< ref "/f9/language/gl.md" >}}) | 368 | 370 | 99.5 | /mnt/stockage/packages/f9/kgrab/po/gl/kgrab.po | 
- | [it]({{< ref "/f9/language/it.md" >}}) | 368 | 370 | 99.5 | /mnt/stockage/packages/f9/kgrab/po/it/kgrab.po | 
- | [ja]({{< ref "/f9/language/ja.md" >}}) | 368 | 370 | 99.5 | /mnt/stockage/packages/f9/kgrab/po/ja/kgrab.po | 
- | [nl]({{< ref "/f9/language/nl.md" >}}) | 368 | 370 | 99.5 | /mnt/stockage/packages/f9/kgrab/po/nl/kgrab.po | 
- | [pl]({{< ref "/f9/language/pl.md" >}}) | 368 | 370 | 99.5 | /mnt/stockage/packages/f9/kgrab/po/pl/kgrab.po | 
- | [pt]({{< ref "/f9/language/pt.md" >}}) | 368 | 370 | 99.5 | /mnt/stockage/packages/f9/kgrab/po/pt/kgrab.po | 
- | [sv]({{< ref "/f9/language/sv.md" >}}) | 368 | 370 | 99.5 | /mnt/stockage/packages/f9/kgrab/po/sv/kgrab.po | 
- | [uk]({{< ref "/f9/language/uk.md" >}}) | 368 | 370 | 99.5 | /mnt/stockage/packages/f9/kgrab/po/uk/kgrab.po | 
- | [vi]({{< ref "/f9/language/vi.md" >}}) | 368 | 370 | 99.5 | /mnt/stockage/packages/f9/kgrab/po/vi/kgrab.po | 
- | [bg]({{< ref "/f9/language/bg.md" >}}) | 340 | 370 | 91.9 | /mnt/stockage/packages/f9/kgrab/po/bg/kgrab.po | 
- | [nb_NO]({{< ref "/f9/language/nb_NO.md" >}}) | 231 | 370 | 62.4 | /mnt/stockage/packages/f9/kgrab/po/nb/kgrab.po | 
- | [tr]({{< ref "/f9/language/tr.md" >}}) | 164 | 370 | 44.3 | /mnt/stockage/packages/f9/kgrab/po/tr/kgrab.po | 
- | [pt_BR]({{< ref "/f9/language/pt_BR.md" >}}) | 150 | 370 | 40.5 | /mnt/stockage/packages/f9/kgrab/po/pt_BR/kgrab.po | 
- | [pa]({{< ref "/f9/language/pa.md" >}}) | 128 | 370 | 34.6 | /mnt/stockage/packages/f9/kgrab/po/pa/kgrab.po | 
- | [ga]({{< ref "/f9/language/ga.md" >}}) | 104 | 370 | 28.1 | /mnt/stockage/packages/f9/kgrab/po/ga/kgrab.po | 
- | [lt]({{< ref "/f9/language/lt.md" >}}) | 40 | 370 | 10.8 | /mnt/stockage/packages/f9/kgrab/po/lt/kgrab.po | 
- | [be]({{< ref "/f9/language/be.md" >}}) | 35 | 370 | 9.5 | /mnt/stockage/packages/f9/kgrab/po/be/kgrab.po | 
- | [ar]({{< ref "/f9/language/ar.md" >}}) | 0 | 370 | 0.0 | /mnt/stockage/packages/f9/kgrab/po/ar/kgrab.po | 
- | [km]({{< ref "/f9/language/km.md" >}}) | 0 | 370 | 0.0 | /mnt/stockage/packages/f9/kgrab/po/km/kgrab.po | 
- | [nn]({{< ref "/f9/language/nn.md" >}}) | 0 | 370 | 0.0 | /mnt/stockage/packages/f9/kgrab/po/nn/kgrab.po | 
- | [se]({{< ref "/f9/language/se.md" >}}) | 0 | 370 | 0.0 | /mnt/stockage/packages/f9/kgrab/po/se/kgrab.po | 
- | [sk]({{< ref "/f9/language/sk.md" >}}) | 0 | 370 | 0.0 | /mnt/stockage/packages/f9/kgrab/po/sk/kgrab.po | 
- | [zh_Hans]({{< ref "/f9/language/zh_Hans.md" >}}) | 0 | 370 | 0.0 | /mnt/stockage/packages/f9/kgrab/po/zh_CN/kgrab.po | 
+ | [el](/f9/language/el) | 370 | 370 | 100.0 | /mnt/stockage/packages/f9/kgrab/po/el/kgrab.po | 
+ | [nds](/f9/language/nds) | 370 | 370 | 100.0 | /mnt/stockage/packages/f9/kgrab/po/nds/kgrab.po | 
+ | [de](/f9/language/de) | 368 | 370 | 99.5 | /mnt/stockage/packages/f9/kgrab/po/de/kgrab.po | 
+ | [et](/f9/language/et) | 368 | 370 | 99.5 | /mnt/stockage/packages/f9/kgrab/po/et/kgrab.po | 
+ | [fr](/f9/language/fr) | 368 | 370 | 99.5 | /mnt/stockage/packages/f9/kgrab/po/fr/kgrab.po | 
+ | [gl](/f9/language/gl) | 368 | 370 | 99.5 | /mnt/stockage/packages/f9/kgrab/po/gl/kgrab.po | 
+ | [it](/f9/language/it) | 368 | 370 | 99.5 | /mnt/stockage/packages/f9/kgrab/po/it/kgrab.po | 
+ | [ja](/f9/language/ja) | 368 | 370 | 99.5 | /mnt/stockage/packages/f9/kgrab/po/ja/kgrab.po | 
+ | [nl](/f9/language/nl) | 368 | 370 | 99.5 | /mnt/stockage/packages/f9/kgrab/po/nl/kgrab.po | 
+ | [pl](/f9/language/pl) | 368 | 370 | 99.5 | /mnt/stockage/packages/f9/kgrab/po/pl/kgrab.po | 
+ | [pt](/f9/language/pt) | 368 | 370 | 99.5 | /mnt/stockage/packages/f9/kgrab/po/pt/kgrab.po | 
+ | [sv](/f9/language/sv) | 368 | 370 | 99.5 | /mnt/stockage/packages/f9/kgrab/po/sv/kgrab.po | 
+ | [uk](/f9/language/uk) | 368 | 370 | 99.5 | /mnt/stockage/packages/f9/kgrab/po/uk/kgrab.po | 
+ | [vi](/f9/language/vi) | 368 | 370 | 99.5 | /mnt/stockage/packages/f9/kgrab/po/vi/kgrab.po | 
+ | [bg](/f9/language/bg) | 340 | 370 | 91.9 | /mnt/stockage/packages/f9/kgrab/po/bg/kgrab.po | 
+ | [nb_NO](/f9/language/nb_NO) | 231 | 370 | 62.4 | /mnt/stockage/packages/f9/kgrab/po/nb/kgrab.po | 
+ | [tr](/f9/language/tr) | 164 | 370 | 44.3 | /mnt/stockage/packages/f9/kgrab/po/tr/kgrab.po | 
+ | [pt_BR](/f9/language/pt_BR) | 150 | 370 | 40.5 | /mnt/stockage/packages/f9/kgrab/po/pt_BR/kgrab.po | 
+ | [pa](/f9/language/pa) | 128 | 370 | 34.6 | /mnt/stockage/packages/f9/kgrab/po/pa/kgrab.po | 
+ | [ga](/f9/language/ga) | 104 | 370 | 28.1 | /mnt/stockage/packages/f9/kgrab/po/ga/kgrab.po | 
+ | [lt](/f9/language/lt) | 40 | 370 | 10.8 | /mnt/stockage/packages/f9/kgrab/po/lt/kgrab.po | 
+ | [be](/f9/language/be) | 35 | 370 | 9.5 | /mnt/stockage/packages/f9/kgrab/po/be/kgrab.po | 
+ | [ar](/f9/language/ar) | 0 | 370 | 0.0 | /mnt/stockage/packages/f9/kgrab/po/ar/kgrab.po | 
+ | [km](/f9/language/km) | 0 | 370 | 0.0 | /mnt/stockage/packages/f9/kgrab/po/km/kgrab.po | 
+ | [nn](/f9/language/nn) | 0 | 370 | 0.0 | /mnt/stockage/packages/f9/kgrab/po/nn/kgrab.po | 
+ | [se](/f9/language/se) | 0 | 370 | 0.0 | /mnt/stockage/packages/f9/kgrab/po/se/kgrab.po | 
+ | [sk](/f9/language/sk) | 0 | 370 | 0.0 | /mnt/stockage/packages/f9/kgrab/po/sk/kgrab.po | 
+ | [zh_Hans](/f9/language/zh_Hans) | 0 | 370 | 0.0 | /mnt/stockage/packages/f9/kgrab/po/zh_CN/kgrab.po | 
 {.sortable}
 
 

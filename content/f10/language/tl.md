@@ -38,26 +38,26 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [newt]({{< ref "/f10/package/newt.md" >}}) | 4 | 4 | 100.0 | Tagalog <debian-tl@banwa.upm.edu.ph> | 
- | [iso-codes]({{< ref "/f10/package/iso-codes.md" >}}) | 933 | 1077 | 86.6 | Tagalog <debian-tl@banwa.upm.edu.ph> | 
- | [gnome-hearts]({{< ref "/f10/package/gnome-hearts.md" >}}) | 340 | 409 | 83.1 | Tagalog <tl@li.org> | 
- | [shadow-utils]({{< ref "/f10/package/shadow-utils.md" >}}) | 2217 | 3313 | 66.9 | Tagalog <debian-tl@banwa.upm.edu.ph> | 
- | [phatch]({{< ref "/f10/package/phatch.md" >}}) | 916 | 1493 | 61.4 | Tagalog <tl@li.org> | 
- | [glib2]({{< ref "/f10/package/glib2.md" >}}) | 1044 | 2197 | 47.5 | Tagalog <debian-tl@banwa.upm.edu.ph> | 
- | [jokosher]({{< ref "/f10/package/jokosher.md" >}}) | 1014 | 2151 | 47.1 | Tagalog <tl@li.org> | 
- | [mingw32-glib2]({{< ref "/f10/package/mingw32-glib2.md" >}}) | 1044 | 2325 | 44.9 | Tagalog <debian-tl@banwa.upm.edu.ph> | 
- | [tuxpaint]({{< ref "/f10/package/tuxpaint.md" >}}) | 197 | 761 | 25.9 | LANGUAGE <LL@li.org> | 
- | [stellarium]({{< ref "/f10/package/stellarium.md" >}}) | 489 | 2409 | 20.3 | Tagalog <tl@li.org> | 
- | [pgadmin3]({{< ref "/f10/package/pgadmin3.md" >}}) | 1297 | 8978 | 14.4 | pgAdmin Developers <pgadmin-hackers@postgresql.org> | 
- | [wesnoth]({{< ref "/f10/package/wesnoth.md" >}}) | 1645 | 212627 | 0.8 |  | 
- | [Miro]({{< ref "/f10/package/Miro.md" >}}) | 15 | 2661 | 0.6 | Tagalog <tl@li.org> | 
- | [deluge]({{< ref "/f10/package/deluge.md" >}}) | 6 | 1998 | 0.3 | Tagalog <tl@li.org> | 
- | [xchat-gnome]({{< ref "/f10/package/xchat-gnome.md" >}}) | 6 | 3901 | 0.2 | Tagalog <tl@li.org> | 
- | [gnomebaker]({{< ref "/f10/package/gnomebaker.md" >}}) | 1 | 1186 | 0.1 | Tagalog <tl@li.org> | 
- | [pmount]({{< ref "/f10/package/pmount.md" >}}) | 0 | 723 | 0.0 | Tagalog <tl@li.org> | 
- | [system-config-date-docs]({{< ref "/f10/package/system-config-date-docs.md" >}}) | 0 | 660 | 0.0 | LANGUAGE <LL@li.org> | 
- | [system-config-nfs]({{< ref "/f10/package/system-config-nfs.md" >}}) | 0 | 1185 | 0.0 | LANGUAGE <LL@li.org> | 
- | [system-config-users-docs]({{< ref "/f10/package/system-config-users-docs.md" >}}) | 0 | 1054 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [newt](/f10/package/newt) | 4 | 4 | 100.0 | Tagalog <debian-tl@banwa.upm.edu.ph> | 
+ | [iso-codes](/f10/package/iso-codes) | 933 | 1077 | 86.6 | Tagalog <debian-tl@banwa.upm.edu.ph> | 
+ | [gnome-hearts](/f10/package/gnome-hearts) | 340 | 409 | 83.1 | Tagalog <tl@li.org> | 
+ | [shadow-utils](/f10/package/shadow-utils) | 2217 | 3313 | 66.9 | Tagalog <debian-tl@banwa.upm.edu.ph> | 
+ | [phatch](/f10/package/phatch) | 916 | 1493 | 61.4 | Tagalog <tl@li.org> | 
+ | [glib2](/f10/package/glib2) | 1044 | 2197 | 47.5 | Tagalog <debian-tl@banwa.upm.edu.ph> | 
+ | [jokosher](/f10/package/jokosher) | 1014 | 2151 | 47.1 | Tagalog <tl@li.org> | 
+ | [mingw32-glib2](/f10/package/mingw32-glib2) | 1044 | 2325 | 44.9 | Tagalog <debian-tl@banwa.upm.edu.ph> | 
+ | [tuxpaint](/f10/package/tuxpaint) | 197 | 761 | 25.9 | LANGUAGE <LL@li.org> | 
+ | [stellarium](/f10/package/stellarium) | 489 | 2409 | 20.3 | Tagalog <tl@li.org> | 
+ | [pgadmin3](/f10/package/pgadmin3) | 1297 | 8978 | 14.4 | pgAdmin Developers <pgadmin-hackers@postgresql.org> | 
+ | [wesnoth](/f10/package/wesnoth) | 1645 | 212627 | 0.8 |  | 
+ | [Miro](/f10/package/Miro) | 15 | 2661 | 0.6 | Tagalog <tl@li.org> | 
+ | [deluge](/f10/package/deluge) | 6 | 1998 | 0.3 | Tagalog <tl@li.org> | 
+ | [xchat-gnome](/f10/package/xchat-gnome) | 6 | 3901 | 0.2 | Tagalog <tl@li.org> | 
+ | [gnomebaker](/f10/package/gnomebaker) | 1 | 1186 | 0.1 | Tagalog <tl@li.org> | 
+ | [pmount](/f10/package/pmount) | 0 | 723 | 0.0 | Tagalog <tl@li.org> | 
+ | [system-config-date-docs](/f10/package/system-config-date-docs) | 0 | 660 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [system-config-nfs](/f10/package/system-config-nfs) | 0 | 1185 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [system-config-users-docs](/f10/package/system-config-users-docs) | 0 | 1054 | 0.0 | LANGUAGE <LL@li.org> | 
 {.sortable}
 
 

@@ -38,123 +38,123 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [at-spi]({{< ref "/f7/package/at-spi.md" >}}) | 4 | 4 | 100.0 | Bosnian <lokal@lugbih.org> | 
- | [authconfig]({{< ref "/f7/package/authconfig.md" >}}) | 1098 | 1098 | 100.0 | Bosnian <lokal@linux.org.ba> | 
- | [blam]({{< ref "/f7/package/blam.md" >}}) | 67 | 67 | 100.0 | Bosnian <+> | 
- | [ekiga]({{< ref "/f7/package/ekiga.md" >}}) | 6342 | 6342 | 100.0 | <lokal@linux.org.ba> | 
- | [epiphany]({{< ref "/f7/package/epiphany.md" >}}) | 2782 | 2782 | 100.0 | Bosnian <lokal@linux.org.ba> | 
- | [gail]({{< ref "/f7/package/gail.md" >}}) | 170 | 170 | 100.0 | Bosnian <lokal@lugbih.org> | 
- | [galeon]({{< ref "/f7/package/galeon.md" >}}) | 5461 | 5461 | 100.0 | Bosnian <lokal@linux.org.ba> | 
- | [gconf-editor]({{< ref "/f7/package/gconf-editor.md" >}}) | 320 | 320 | 100.0 | Bosnian <lokal@linux.org.ba> | 
- | [gdm]({{< ref "/f7/package/gdm.md" >}}) | 5294 | 5294 | 100.0 | Bosnian <lokal@linux.org.ba> | 
- | [gnome-applets]({{< ref "/f7/package/gnome-applets.md" >}}) | 5293 | 5293 | 100.0 | Bosnian <lokal@linux.org.ba> | 
- | [gnome-icon-theme]({{< ref "/f7/package/gnome-icon-theme.md" >}}) | 52 | 52 | 100.0 | Bosnian <lokal@linux.org.ba> | 
- | [gnome-mag]({{< ref "/f7/package/gnome-mag.md" >}}) | 5 | 5 | 100.0 | Bosnian <+> | 
- | [gnome-mime-data]({{< ref "/f7/package/gnome-mime-data.md" >}}) | 887 | 887 | 100.0 | Bosnian <lokal@lugbih.org> | 
- | [gnome-system-monitor]({{< ref "/f7/package/gnome-system-monitor.md" >}}) | 502 | 502 | 100.0 | Bosnian <lokal@linux.org.ba> | 
- | [gnome-volume-manager]({{< ref "/f7/package/gnome-volume-manager.md" >}}) | 314 | 314 | 100.0 | bosnian <local@linux.org.ba> | 
- | [gtranslator]({{< ref "/f7/package/gtranslator.md" >}}) | 1432 | 1432 | 100.0 | Bosnian <lokal@linux.org.ba> | 
- | [gucharmap]({{< ref "/f7/package/gucharmap.md" >}}) | 507 | 507 | 100.0 | Bosnian <lokal@linux.org.ba> | 
- | [hwbrowser]({{< ref "/f7/package/hwbrowser.md" >}}) | 117 | 117 | 100.0 | Bosnian <lokal@linux.org.ba> | 
- | [im-chooser]({{< ref "/f7/package/im-chooser.md" >}}) | 125 | 125 | 100.0 | Bosnian <lokal@linux.org.ba> | 
- | [kudzu]({{< ref "/f7/package/kudzu.md" >}}) | 73 | 73 | 100.0 | Bosnian <lokal@linux.org.ba> | 
- | [libgnome]({{< ref "/f7/package/libgnome.md" >}}) | 1407 | 1407 | 100.0 | Bosnian <lokal@linux.org.ba> | 
- | [libgnomecanvas]({{< ref "/f7/package/libgnomecanvas.md" >}}) | 357 | 357 | 100.0 | Bosnian <lokal@lugbih.org> | 
- | [nautilus-cd-burner]({{< ref "/f7/package/nautilus-cd-burner.md" >}}) | 587 | 587 | 100.0 | Bosnian <lokal@linux.org.ba> | 
- | [newt]({{< ref "/f7/package/newt.md" >}}) | 4 | 4 | 100.0 | Bosnian <lokal@lugbih.org> | 
- | [policycoreutils]({{< ref "/f7/package/policycoreutils.md" >}}) | 1214 | 1214 | 100.0 | Bosnian <lokal@linux.org.ba> | 
- | [rhpl]({{< ref "/f7/package/rhpl.md" >}}) | 185 | 185 | 100.0 | Bosnian <lokal@linux.org.ba> | 
- | [rhpxl]({{< ref "/f7/package/rhpxl.md" >}}) | 136 | 136 | 100.0 | Bosnian <lokal@linux.org.ba> | 
- | [system-config-boot]({{< ref "/f7/package/system-config-boot.md" >}}) | 41 | 41 | 100.0 | Bosnian <lokal@linux.org.ba> | 
- | [system-config-display]({{< ref "/f7/package/system-config-display.md" >}}) | 398 | 398 | 100.0 | Bosnian <lokal@linux.org.ba> | 
- | [system-config-nfs]({{< ref "/f7/package/system-config-nfs.md" >}}) | 318 | 318 | 100.0 | Bosnian <lokal@linux.org.ba> | 
- | [system-config-services]({{< ref "/f7/package/system-config-services.md" >}}) | 232 | 232 | 100.0 | Bosnian <lokal@linux.org.ba> | 
- | [system-switch-mail]({{< ref "/f7/package/system-switch-mail.md" >}}) | 134 | 134 | 100.0 | Bosnian <lokal@linux.org.ba> | 
- | [vino]({{< ref "/f7/package/vino.md" >}}) | 540 | 540 | 100.0 | Bosnian <lokal@linux.org.ba> | 
- | [vte]({{< ref "/f7/package/vte.md" >}}) | 96 | 96 | 100.0 | Bosnian <+> | 
- | [wormux]({{< ref "/f7/package/wormux.md" >}}) | 463 | 463 | 100.0 | Bosnian <lokal@linux.org.ba> | 
- | [WindowMaker]({{< ref "/f7/package/WindowMaker.md" >}}) | 1351 | 1359 | 99.4 | Bosanski <lugzdk@lugzdk.ba> | 
- | [eog]({{< ref "/f7/package/eog.md" >}}) | 551 | 557 | 98.9 | Bosnian <lokal@linux.org.ba> | 
- | [bug-buddy]({{< ref "/f7/package/bug-buddy.md" >}}) | 1213 | 1228 | 98.8 | Bosnian <lokal@linux.org.ba> | 
- | [gnome-desktop]({{< ref "/f7/package/gnome-desktop.md" >}}) | 316 | 320 | 98.8 | Bosnian <lokal@lugbih.org> | 
- | [gnome-terminal]({{< ref "/f7/package/gnome-terminal.md" >}}) | 4341 | 4403 | 98.6 | Bosnian <lokal@linux.org.ba> | 
- | [libuser]({{< ref "/f7/package/libuser.md" >}}) | 1024 | 1039 | 98.6 | Bosnian <lokal@linux.org.ba> | 
- | [gnome-vfs2]({{< ref "/f7/package/gnome-vfs2.md" >}}) | 1263 | 1282 | 98.5 | Bosnian <lokal@linux.org.ba> | 
- | [system-config-kickstart]({{< ref "/f7/package/system-config-kickstart.md" >}}) | 1012 | 1028 | 98.4 | Bosnian <lokal@linux.org.ba> | 
- | [system-config-lvm]({{< ref "/f7/package/system-config-lvm.md" >}}) | 2049 | 2084 | 98.3 | Bosnian <lokal@linux.org.ba> | 
- | [gnome-session]({{< ref "/f7/package/gnome-session.md" >}}) | 506 | 516 | 98.1 | Bosnian <+> | 
- | [usermode]({{< ref "/f7/package/usermode.md" >}}) | 556 | 570 | 97.5 | Bosnian <lokal@linux.org.ba> | 
- | [atk]({{< ref "/f7/package/atk.md" >}}) | 359 | 370 | 97.0 | Bosnian <lokal@linux.org.ba> | 
- | [chkconfig]({{< ref "/f7/package/chkconfig.md" >}}) | 417 | 430 | 97.0 | Bosnian <lokal@linux.org.ba> | 
- | [metacity]({{< ref "/f7/package/metacity.md" >}}) | 6709 | 6919 | 97.0 | Bosnian <+> | 
- | [GConf2]({{< ref "/f7/package/GConf2.md" >}}) | 3832 | 3954 | 96.9 | Bosnian <lokal@linux.org.ba> | 
- | [system-config-date]({{< ref "/f7/package/system-config-date.md" >}}) | 956 | 1003 | 95.3 | Bosnian <lokal@linux.org.ba> | 
- | [ruby-gettext-package]({{< ref "/f7/package/ruby-gettext-package.md" >}}) | 552 | 581 | 95.0 | Bosnian <saserr at gmail.com> | 
- | [nautilus]({{< ref "/f7/package/nautilus.md" >}}) | 6592 | 6976 | 94.5 | Bosnian <lokal@linux.org.ba> | 
- | [eel2]({{< ref "/f7/package/eel2.md" >}}) | 222 | 235 | 94.5 | Bosnian <lokal@linux.org.ba> | 
- | [system-config-network]({{< ref "/f7/package/system-config-network.md" >}}) | 2785 | 2955 | 94.2 | Bosnian <lokal@linux.org.ba> | 
- | [gnome-themes]({{< ref "/f7/package/gnome-themes.md" >}}) | 95 | 101 | 94.1 | Bosnian <+> | 
- | [libgnomeprint22]({{< ref "/f7/package/libgnomeprint22.md" >}}) | 158 | 168 | 94.0 | Bosnian <+> | 
- | [libbonobo]({{< ref "/f7/package/libbonobo.md" >}}) | 485 | 524 | 92.6 | Bosnian <lokal@lugbih.org> | 
- | [gnome-nettool]({{< ref "/f7/package/gnome-nettool.md" >}}) | 481 | 520 | 92.5 | Bosnian <lokal@linux.org.ba> | 
- | [gnome-panel]({{< ref "/f7/package/gnome-panel.md" >}}) | 3579 | 3937 | 90.9 | Bosnian <lokal@linux.org.ba> | 
- | [system-config-samba]({{< ref "/f7/package/system-config-samba.md" >}}) | 383 | 423 | 90.5 | Bosnian <lokal@linux.org.ba> | 
- | [setuptool]({{< ref "/f7/package/setuptool.md" >}}) | 54 | 60 | 90.0 | Bosnian <lokal@lugbih.org> | 
- | [file-roller]({{< ref "/f7/package/file-roller.md" >}}) | 872 | 971 | 89.8 | Bosnian <lokal@linux.org.ba> | 
- | [libgnomeui]({{< ref "/f7/package/libgnomeui.md" >}}) | 1270 | 1419 | 89.5 | Bosnian <lokal@linux.org.ba> | 
- | [gtksourceview]({{< ref "/f7/package/gtksourceview.md" >}}) | 647 | 725 | 89.2 | Bosnian <lokal@linux.org.ba> | 
- | [libgtop2]({{< ref "/f7/package/libgtop2.md" >}}) | 118 | 134 | 88.1 | Bosnian <lokal@linux.org.ba> | 
- | [libbonoboui]({{< ref "/f7/package/libbonoboui.md" >}}) | 314 | 360 | 87.2 | Bosnian <lokal@lugbih.org> | 
- | [initscripts]({{< ref "/f7/package/initscripts.md" >}}) | 3048 | 3497 | 87.2 | Bosnian <lokal@linux.org.ba> | 
- | [libgnomeprintui22]({{< ref "/f7/package/libgnomeprintui22.md" >}}) | 370 | 427 | 86.7 | Bosnian <lokal@linux.org.ba> | 
- | [evolution-webcal]({{< ref "/f7/package/evolution-webcal.md" >}}) | 152 | 180 | 84.4 | Bosnian <lokal@linux.org.ba> | 
- | [system-config-netboot]({{< ref "/f7/package/system-config-netboot.md" >}}) | 918 | 1088 | 84.4 | Bosnian <lokal@linux.org.ba> | 
- | [firstboot]({{< ref "/f7/package/firstboot.md" >}}) | 499 | 598 | 83.4 | Bosnian <lokal@linux.org.ba> | 
- | [gnome-netstatus]({{< ref "/f7/package/gnome-netstatus.md" >}}) | 327 | 412 | 79.4 | Bosnian <lokal@linux.org.ba> | 
- | [anaconda]({{< ref "/f7/package/anaconda.md" >}}) | 7920 | 9992 | 79.3 | Bosnian <lokal@linux.org.ba> | 
- | [rhgb]({{< ref "/f7/package/rhgb.md" >}}) | 95 | 121 | 78.5 | Bosnian <lokal@linux.org.ba> | 
- | [control-center]({{< ref "/f7/package/control-center.md" >}}) | 2604 | 3382 | 77.0 | Bosnian <lokal@linux.org.ba> | 
- | [xmms]({{< ref "/f7/package/xmms.md" >}}) | 2478 | 3245 | 76.4 | Bosnian <lokal@lugbih.org> | 
- | [krename]({{< ref "/f7/package/krename.md" >}}) | 1217 | 1603 | 75.9 | Bosnian <lokal@lugbih.org> | 
- | [system-config-users]({{< ref "/f7/package/system-config-users.md" >}}) | 775 | 1031 | 75.2 | Bosnian <lokal@linux.org.ba> | 
- | [gnome-keyring]({{< ref "/f7/package/gnome-keyring.md" >}}) | 524 | 711 | 73.7 | Bosnian <lokal@linux.org.ba> | 
- | [gnome-media]({{< ref "/f7/package/gnome-media.md" >}}) | 1304 | 1795 | 72.6 | Bosnian <lokal@linux.org.ba> | 
- | [pirut]({{< ref "/f7/package/pirut.md" >}}) | 572 | 815 | 70.2 | Bosnian <lokal@linux.org.ba> | 
- | [pykickstart]({{< ref "/f7/package/pykickstart.md" >}}) | 168 | 240 | 70.0 | Bosnian <lokal@linux.org.ba> | 
- | [zenity]({{< ref "/f7/package/zenity.md" >}}) | 271 | 394 | 68.8 | Bosnian <+> | 
- | [dasher]({{< ref "/f7/package/dasher.md" >}}) | 284 | 423 | 67.1 | Bosnian <+> | 
- | [libwnck]({{< ref "/f7/package/libwnck.md" >}}) | 47 | 73 | 64.4 | Bosnian <+> | 
- | [gedit]({{< ref "/f7/package/gedit.md" >}}) | 2626 | 4206 | 62.4 | Bosnian <lokal@linux.org.ba> | 
- | [glib2]({{< ref "/f7/package/glib2.md" >}}) | 756 | 1213 | 62.3 | Bosnian <lokal@lugbih.org> | 
- | [gtk2]({{< ref "/f7/package/gtk2.md" >}}) | 7118 | 11602 | 61.4 | Bosnian <lokal@linux.org.ba> | 
- | [system-config-printer]({{< ref "/f7/package/system-config-printer.md" >}}) | 783 | 1324 | 59.1 | Bosnian <lokal@linux.org.ba> | 
- | [libvirt]({{< ref "/f7/package/libvirt.md" >}}) | 1288 | 2337 | 55.1 | Bosnian <lokal@linux.org.ba> | 
- | [gcalctool]({{< ref "/f7/package/gcalctool.md" >}}) | 503 | 915 | 55.0 | Bosnian <lokal@linux.org.ba> | 
- | [gnome-utils]({{< ref "/f7/package/gnome-utils.md" >}}) | 1421 | 2616 | 54.3 | <lokal@linux.org.ba> | 
- | [pidgin]({{< ref "/f7/package/pidgin.md" >}}) | 7451 | 15654 | 47.6 | bs <LL@li.org> | 
- | [showimg]({{< ref "/f7/package/showimg.md" >}}) | 1928 | 4305 | 44.8 | Bosanski <lokal@linux.org.ba> | 
- | [imp]({{< ref "/f7/package/imp.md" >}}) | 2451 | 5590 | 43.8 | Bosnian <lokal@linux.org.ba> | 
- | [evolution-data-server]({{< ref "/f7/package/evolution-data-server.md" >}}) | 1682 | 4501 | 37.4 | Bosnian <lokal@linux.org.ba> | 
- | [kmplayer]({{< ref "/f7/package/kmplayer.md" >}}) | 457 | 1251 | 36.5 | Bosnian <lokal@lugbih.org> | 
- | [evolution]({{< ref "/f7/package/evolution.md" >}}) | 5295 | 17202 | 30.8 | Bosnian <lokal@lugbih.org> | 
- | [virt-manager]({{< ref "/f7/package/virt-manager.md" >}}) | 791 | 2763 | 28.6 | Bosnian <lokal@linux.org.ba> | 
- | [krusader]({{< ref "/f7/package/krusader.md" >}}) | 1650 | 6769 | 24.4 | Bosnian | 
- | [system-config-keyboard]({{< ref "/f7/package/system-config-keyboard.md" >}}) | 12 | 78 | 15.4 | Bosnian <lokal@lugbih.org> | 
- | [horde]({{< ref "/f7/package/horde.md" >}}) | 1069 | 7041 | 15.2 | Bosnian <lokal@linux.org.ba> | 
- | [yelp]({{< ref "/f7/package/yelp.md" >}}) | 92 | 606 | 15.2 | Bosnian <+> | 
- | [k3b]({{< ref "/f7/package/k3b.md" >}}) | 1788 | 20630 | 8.7 | bosanski <lokal@linux.org.ba> | 
- | [switchdesk]({{< ref "/f7/package/switchdesk.md" >}}) | 10 | 137 | 7.3 | <en@li.org> | 
- | [iso-codes]({{< ref "/f7/package/iso-codes.md" >}}) | 1156 | 17373 | 6.7 | Bosnian <lokal@linux.org.ba> | 
- | [dia]({{< ref "/f7/package/dia.md" >}}) | 303 | 5711 | 5.3 | Bosnian <lokal@linux.org.ba> | 
- | [shadow-utils]({{< ref "/f7/package/shadow-utils.md" >}}) | 142 | 2915 | 4.9 | Bosnian <lokal@lugbih.org> | 
- | [bittorrent]({{< ref "/f7/package/bittorrent.md" >}}) | 146 | 3906 | 3.7 | LANGUAGE <LL@li.org> | 
- | [fuse-encfs]({{< ref "/f7/package/fuse-encfs.md" >}}) | 46 | 1310 | 3.5 | Bosnian <bs@li.org> | 
- | [NetworkManager]({{< ref "/f7/package/NetworkManager.md" >}}) | 23 | 993 | 2.3 | Bosnian <lokal@linux.org.ba> | 
- | [deluge]({{< ref "/f7/package/deluge.md" >}}) | 10 | 2352 | 0.4 | Bosnian <bs@li.org> | 
- | [Miro]({{< ref "/f7/package/Miro.md" >}}) | 2 | 3616 | 0.1 | Bosnian <bs@li.org> | 
- | [e16]({{< ref "/f7/package/e16.md" >}}) | 0 | 0 | 0.0 |  | 
- | [kexec-tools]({{< ref "/f7/package/kexec-tools.md" >}}) | 0 | 132 | 0.0 | LANGUAGE <LL@li.org> | 
- | [passwd]({{< ref "/f7/package/passwd.md" >}}) | 0 | 291 | 0.0 | none | 
+ | [at-spi](/f7/package/at-spi) | 4 | 4 | 100.0 | Bosnian <lokal@lugbih.org> | 
+ | [authconfig](/f7/package/authconfig) | 1098 | 1098 | 100.0 | Bosnian <lokal@linux.org.ba> | 
+ | [blam](/f7/package/blam) | 67 | 67 | 100.0 | Bosnian <+> | 
+ | [ekiga](/f7/package/ekiga) | 6342 | 6342 | 100.0 | <lokal@linux.org.ba> | 
+ | [epiphany](/f7/package/epiphany) | 2782 | 2782 | 100.0 | Bosnian <lokal@linux.org.ba> | 
+ | [gail](/f7/package/gail) | 170 | 170 | 100.0 | Bosnian <lokal@lugbih.org> | 
+ | [galeon](/f7/package/galeon) | 5461 | 5461 | 100.0 | Bosnian <lokal@linux.org.ba> | 
+ | [gconf-editor](/f7/package/gconf-editor) | 320 | 320 | 100.0 | Bosnian <lokal@linux.org.ba> | 
+ | [gdm](/f7/package/gdm) | 5294 | 5294 | 100.0 | Bosnian <lokal@linux.org.ba> | 
+ | [gnome-applets](/f7/package/gnome-applets) | 5293 | 5293 | 100.0 | Bosnian <lokal@linux.org.ba> | 
+ | [gnome-icon-theme](/f7/package/gnome-icon-theme) | 52 | 52 | 100.0 | Bosnian <lokal@linux.org.ba> | 
+ | [gnome-mag](/f7/package/gnome-mag) | 5 | 5 | 100.0 | Bosnian <+> | 
+ | [gnome-mime-data](/f7/package/gnome-mime-data) | 887 | 887 | 100.0 | Bosnian <lokal@lugbih.org> | 
+ | [gnome-system-monitor](/f7/package/gnome-system-monitor) | 502 | 502 | 100.0 | Bosnian <lokal@linux.org.ba> | 
+ | [gnome-volume-manager](/f7/package/gnome-volume-manager) | 314 | 314 | 100.0 | bosnian <local@linux.org.ba> | 
+ | [gtranslator](/f7/package/gtranslator) | 1432 | 1432 | 100.0 | Bosnian <lokal@linux.org.ba> | 
+ | [gucharmap](/f7/package/gucharmap) | 507 | 507 | 100.0 | Bosnian <lokal@linux.org.ba> | 
+ | [hwbrowser](/f7/package/hwbrowser) | 117 | 117 | 100.0 | Bosnian <lokal@linux.org.ba> | 
+ | [im-chooser](/f7/package/im-chooser) | 125 | 125 | 100.0 | Bosnian <lokal@linux.org.ba> | 
+ | [kudzu](/f7/package/kudzu) | 73 | 73 | 100.0 | Bosnian <lokal@linux.org.ba> | 
+ | [libgnome](/f7/package/libgnome) | 1407 | 1407 | 100.0 | Bosnian <lokal@linux.org.ba> | 
+ | [libgnomecanvas](/f7/package/libgnomecanvas) | 357 | 357 | 100.0 | Bosnian <lokal@lugbih.org> | 
+ | [nautilus-cd-burner](/f7/package/nautilus-cd-burner) | 587 | 587 | 100.0 | Bosnian <lokal@linux.org.ba> | 
+ | [newt](/f7/package/newt) | 4 | 4 | 100.0 | Bosnian <lokal@lugbih.org> | 
+ | [policycoreutils](/f7/package/policycoreutils) | 1214 | 1214 | 100.0 | Bosnian <lokal@linux.org.ba> | 
+ | [rhpl](/f7/package/rhpl) | 185 | 185 | 100.0 | Bosnian <lokal@linux.org.ba> | 
+ | [rhpxl](/f7/package/rhpxl) | 136 | 136 | 100.0 | Bosnian <lokal@linux.org.ba> | 
+ | [system-config-boot](/f7/package/system-config-boot) | 41 | 41 | 100.0 | Bosnian <lokal@linux.org.ba> | 
+ | [system-config-display](/f7/package/system-config-display) | 398 | 398 | 100.0 | Bosnian <lokal@linux.org.ba> | 
+ | [system-config-nfs](/f7/package/system-config-nfs) | 318 | 318 | 100.0 | Bosnian <lokal@linux.org.ba> | 
+ | [system-config-services](/f7/package/system-config-services) | 232 | 232 | 100.0 | Bosnian <lokal@linux.org.ba> | 
+ | [system-switch-mail](/f7/package/system-switch-mail) | 134 | 134 | 100.0 | Bosnian <lokal@linux.org.ba> | 
+ | [vino](/f7/package/vino) | 540 | 540 | 100.0 | Bosnian <lokal@linux.org.ba> | 
+ | [vte](/f7/package/vte) | 96 | 96 | 100.0 | Bosnian <+> | 
+ | [wormux](/f7/package/wormux) | 463 | 463 | 100.0 | Bosnian <lokal@linux.org.ba> | 
+ | [WindowMaker](/f7/package/WindowMaker) | 1351 | 1359 | 99.4 | Bosanski <lugzdk@lugzdk.ba> | 
+ | [eog](/f7/package/eog) | 551 | 557 | 98.9 | Bosnian <lokal@linux.org.ba> | 
+ | [bug-buddy](/f7/package/bug-buddy) | 1213 | 1228 | 98.8 | Bosnian <lokal@linux.org.ba> | 
+ | [gnome-desktop](/f7/package/gnome-desktop) | 316 | 320 | 98.8 | Bosnian <lokal@lugbih.org> | 
+ | [gnome-terminal](/f7/package/gnome-terminal) | 4341 | 4403 | 98.6 | Bosnian <lokal@linux.org.ba> | 
+ | [libuser](/f7/package/libuser) | 1024 | 1039 | 98.6 | Bosnian <lokal@linux.org.ba> | 
+ | [gnome-vfs2](/f7/package/gnome-vfs2) | 1263 | 1282 | 98.5 | Bosnian <lokal@linux.org.ba> | 
+ | [system-config-kickstart](/f7/package/system-config-kickstart) | 1012 | 1028 | 98.4 | Bosnian <lokal@linux.org.ba> | 
+ | [system-config-lvm](/f7/package/system-config-lvm) | 2049 | 2084 | 98.3 | Bosnian <lokal@linux.org.ba> | 
+ | [gnome-session](/f7/package/gnome-session) | 506 | 516 | 98.1 | Bosnian <+> | 
+ | [usermode](/f7/package/usermode) | 556 | 570 | 97.5 | Bosnian <lokal@linux.org.ba> | 
+ | [atk](/f7/package/atk) | 359 | 370 | 97.0 | Bosnian <lokal@linux.org.ba> | 
+ | [chkconfig](/f7/package/chkconfig) | 417 | 430 | 97.0 | Bosnian <lokal@linux.org.ba> | 
+ | [metacity](/f7/package/metacity) | 6709 | 6919 | 97.0 | Bosnian <+> | 
+ | [GConf2](/f7/package/GConf2) | 3832 | 3954 | 96.9 | Bosnian <lokal@linux.org.ba> | 
+ | [system-config-date](/f7/package/system-config-date) | 956 | 1003 | 95.3 | Bosnian <lokal@linux.org.ba> | 
+ | [ruby-gettext-package](/f7/package/ruby-gettext-package) | 552 | 581 | 95.0 | Bosnian <saserr at gmail.com> | 
+ | [nautilus](/f7/package/nautilus) | 6592 | 6976 | 94.5 | Bosnian <lokal@linux.org.ba> | 
+ | [eel2](/f7/package/eel2) | 222 | 235 | 94.5 | Bosnian <lokal@linux.org.ba> | 
+ | [system-config-network](/f7/package/system-config-network) | 2785 | 2955 | 94.2 | Bosnian <lokal@linux.org.ba> | 
+ | [gnome-themes](/f7/package/gnome-themes) | 95 | 101 | 94.1 | Bosnian <+> | 
+ | [libgnomeprint22](/f7/package/libgnomeprint22) | 158 | 168 | 94.0 | Bosnian <+> | 
+ | [libbonobo](/f7/package/libbonobo) | 485 | 524 | 92.6 | Bosnian <lokal@lugbih.org> | 
+ | [gnome-nettool](/f7/package/gnome-nettool) | 481 | 520 | 92.5 | Bosnian <lokal@linux.org.ba> | 
+ | [gnome-panel](/f7/package/gnome-panel) | 3579 | 3937 | 90.9 | Bosnian <lokal@linux.org.ba> | 
+ | [system-config-samba](/f7/package/system-config-samba) | 383 | 423 | 90.5 | Bosnian <lokal@linux.org.ba> | 
+ | [setuptool](/f7/package/setuptool) | 54 | 60 | 90.0 | Bosnian <lokal@lugbih.org> | 
+ | [file-roller](/f7/package/file-roller) | 872 | 971 | 89.8 | Bosnian <lokal@linux.org.ba> | 
+ | [libgnomeui](/f7/package/libgnomeui) | 1270 | 1419 | 89.5 | Bosnian <lokal@linux.org.ba> | 
+ | [gtksourceview](/f7/package/gtksourceview) | 647 | 725 | 89.2 | Bosnian <lokal@linux.org.ba> | 
+ | [libgtop2](/f7/package/libgtop2) | 118 | 134 | 88.1 | Bosnian <lokal@linux.org.ba> | 
+ | [libbonoboui](/f7/package/libbonoboui) | 314 | 360 | 87.2 | Bosnian <lokal@lugbih.org> | 
+ | [initscripts](/f7/package/initscripts) | 3048 | 3497 | 87.2 | Bosnian <lokal@linux.org.ba> | 
+ | [libgnomeprintui22](/f7/package/libgnomeprintui22) | 370 | 427 | 86.7 | Bosnian <lokal@linux.org.ba> | 
+ | [evolution-webcal](/f7/package/evolution-webcal) | 152 | 180 | 84.4 | Bosnian <lokal@linux.org.ba> | 
+ | [system-config-netboot](/f7/package/system-config-netboot) | 918 | 1088 | 84.4 | Bosnian <lokal@linux.org.ba> | 
+ | [firstboot](/f7/package/firstboot) | 499 | 598 | 83.4 | Bosnian <lokal@linux.org.ba> | 
+ | [gnome-netstatus](/f7/package/gnome-netstatus) | 327 | 412 | 79.4 | Bosnian <lokal@linux.org.ba> | 
+ | [anaconda](/f7/package/anaconda) | 7920 | 9992 | 79.3 | Bosnian <lokal@linux.org.ba> | 
+ | [rhgb](/f7/package/rhgb) | 95 | 121 | 78.5 | Bosnian <lokal@linux.org.ba> | 
+ | [control-center](/f7/package/control-center) | 2604 | 3382 | 77.0 | Bosnian <lokal@linux.org.ba> | 
+ | [xmms](/f7/package/xmms) | 2478 | 3245 | 76.4 | Bosnian <lokal@lugbih.org> | 
+ | [krename](/f7/package/krename) | 1217 | 1603 | 75.9 | Bosnian <lokal@lugbih.org> | 
+ | [system-config-users](/f7/package/system-config-users) | 775 | 1031 | 75.2 | Bosnian <lokal@linux.org.ba> | 
+ | [gnome-keyring](/f7/package/gnome-keyring) | 524 | 711 | 73.7 | Bosnian <lokal@linux.org.ba> | 
+ | [gnome-media](/f7/package/gnome-media) | 1304 | 1795 | 72.6 | Bosnian <lokal@linux.org.ba> | 
+ | [pirut](/f7/package/pirut) | 572 | 815 | 70.2 | Bosnian <lokal@linux.org.ba> | 
+ | [pykickstart](/f7/package/pykickstart) | 168 | 240 | 70.0 | Bosnian <lokal@linux.org.ba> | 
+ | [zenity](/f7/package/zenity) | 271 | 394 | 68.8 | Bosnian <+> | 
+ | [dasher](/f7/package/dasher) | 284 | 423 | 67.1 | Bosnian <+> | 
+ | [libwnck](/f7/package/libwnck) | 47 | 73 | 64.4 | Bosnian <+> | 
+ | [gedit](/f7/package/gedit) | 2626 | 4206 | 62.4 | Bosnian <lokal@linux.org.ba> | 
+ | [glib2](/f7/package/glib2) | 756 | 1213 | 62.3 | Bosnian <lokal@lugbih.org> | 
+ | [gtk2](/f7/package/gtk2) | 7118 | 11602 | 61.4 | Bosnian <lokal@linux.org.ba> | 
+ | [system-config-printer](/f7/package/system-config-printer) | 783 | 1324 | 59.1 | Bosnian <lokal@linux.org.ba> | 
+ | [libvirt](/f7/package/libvirt) | 1288 | 2337 | 55.1 | Bosnian <lokal@linux.org.ba> | 
+ | [gcalctool](/f7/package/gcalctool) | 503 | 915 | 55.0 | Bosnian <lokal@linux.org.ba> | 
+ | [gnome-utils](/f7/package/gnome-utils) | 1421 | 2616 | 54.3 | <lokal@linux.org.ba> | 
+ | [pidgin](/f7/package/pidgin) | 7451 | 15654 | 47.6 | bs <LL@li.org> | 
+ | [showimg](/f7/package/showimg) | 1928 | 4305 | 44.8 | Bosanski <lokal@linux.org.ba> | 
+ | [imp](/f7/package/imp) | 2451 | 5590 | 43.8 | Bosnian <lokal@linux.org.ba> | 
+ | [evolution-data-server](/f7/package/evolution-data-server) | 1682 | 4501 | 37.4 | Bosnian <lokal@linux.org.ba> | 
+ | [kmplayer](/f7/package/kmplayer) | 457 | 1251 | 36.5 | Bosnian <lokal@lugbih.org> | 
+ | [evolution](/f7/package/evolution) | 5295 | 17202 | 30.8 | Bosnian <lokal@lugbih.org> | 
+ | [virt-manager](/f7/package/virt-manager) | 791 | 2763 | 28.6 | Bosnian <lokal@linux.org.ba> | 
+ | [krusader](/f7/package/krusader) | 1650 | 6769 | 24.4 | Bosnian | 
+ | [system-config-keyboard](/f7/package/system-config-keyboard) | 12 | 78 | 15.4 | Bosnian <lokal@lugbih.org> | 
+ | [horde](/f7/package/horde) | 1069 | 7041 | 15.2 | Bosnian <lokal@linux.org.ba> | 
+ | [yelp](/f7/package/yelp) | 92 | 606 | 15.2 | Bosnian <+> | 
+ | [k3b](/f7/package/k3b) | 1788 | 20630 | 8.7 | bosanski <lokal@linux.org.ba> | 
+ | [switchdesk](/f7/package/switchdesk) | 10 | 137 | 7.3 | <en@li.org> | 
+ | [iso-codes](/f7/package/iso-codes) | 1156 | 17373 | 6.7 | Bosnian <lokal@linux.org.ba> | 
+ | [dia](/f7/package/dia) | 303 | 5711 | 5.3 | Bosnian <lokal@linux.org.ba> | 
+ | [shadow-utils](/f7/package/shadow-utils) | 142 | 2915 | 4.9 | Bosnian <lokal@lugbih.org> | 
+ | [bittorrent](/f7/package/bittorrent) | 146 | 3906 | 3.7 | LANGUAGE <LL@li.org> | 
+ | [fuse-encfs](/f7/package/fuse-encfs) | 46 | 1310 | 3.5 | Bosnian <bs@li.org> | 
+ | [NetworkManager](/f7/package/NetworkManager) | 23 | 993 | 2.3 | Bosnian <lokal@linux.org.ba> | 
+ | [deluge](/f7/package/deluge) | 10 | 2352 | 0.4 | Bosnian <bs@li.org> | 
+ | [Miro](/f7/package/Miro) | 2 | 3616 | 0.1 | Bosnian <bs@li.org> | 
+ | [e16](/f7/package/e16) | 0 | 0 | 0.0 |  | 
+ | [kexec-tools](/f7/package/kexec-tools) | 0 | 132 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [passwd](/f7/package/passwd) | 0 | 291 | 0.0 | none | 
 {.sortable}
 
 
@@ -166,7 +166,7 @@ We use the po metadata to get the language code and the team, but sometimes it f
 
 | Package | Lang from file path/name | polib error | Team |
 |---------|--------------------------|-------------|------|
- | [e16]({{< ref "/f7/package/e16.md" >}}) | /mnt/stockage/packages/f7/e16/po/bs.po | error-unicode |  | 
+ | [e16](/f7/package/e16) | /mnt/stockage/packages/f7/e16/po/bs.po | error-unicode |  | 
 {.sortable}
 
 
@@ -177,7 +177,7 @@ We use the calcstats from translate toolkit to get the translation progress, but
 
 | Package | Lang from file path/name | Team |
 |---------|--------------------------|------|
- | [e16]({{< ref "/f7/package/e16.md" >}}) | /mnt/stockage/packages/f7/e16/po/bs.po |  | 
+ | [e16](/f7/package/e16) | /mnt/stockage/packages/f7/e16/po/bs.po |  | 
 {.sortable}
 
 

@@ -18,35 +18,35 @@ The package colorhug-client (version 0.2.8):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [en_US]({{< ref "/f28/language/en_US.md" >}}) | 1432 | 1432 | 100.0 | /mnt/stockage/packages/f28/colorhug-client/po/en_US.po | 
- | [pt_BR]({{< ref "/f28/language/pt_BR.md" >}}) | 1400 | 1432 | 97.8 | /mnt/stockage/packages/f28/colorhug-client/po/pt_BR.po | 
- | [ru]({{< ref "/f28/language/ru.md" >}}) | 1400 | 1432 | 97.8 | /mnt/stockage/packages/f28/colorhug-client/po/ru.po | 
- | [sr]({{< ref "/f28/language/sr.md" >}}) | 1400 | 1432 | 97.8 | /mnt/stockage/packages/f28/colorhug-client/po/sr.po | 
- | [uk]({{< ref "/f28/language/uk.md" >}}) | 1400 | 1432 | 97.8 | /mnt/stockage/packages/f28/colorhug-client/po/uk.po | 
- | [zh_Hant]({{< ref "/f28/language/zh_Hant.md" >}}) | 1400 | 1432 | 97.8 | /mnt/stockage/packages/f28/colorhug-client/po/zh_TW.po | 
- | [nn]({{< ref "/f28/language/nn.md" >}}) | 1398 | 1432 | 97.6 | /mnt/stockage/packages/f28/colorhug-client/po/nn.po | 
- | [de]({{< ref "/f28/language/de.md" >}}) | 2566 | 2864 | 89.6 | /mnt/stockage/packages/f28/colorhug-client/po/de_DE.po/mnt/stockage/packages/f28/colorhug-client/po/de.po | 
- | [hu]({{< ref "/f28/language/hu.md" >}}) | 1231 | 1432 | 86.0 | /mnt/stockage/packages/f28/colorhug-client/po/hu.po | 
- | [it]({{< ref "/f28/language/it.md" >}}) | 1140 | 1432 | 79.6 | /mnt/stockage/packages/f28/colorhug-client/po/it_IT.po | 
- | [lv]({{< ref "/f28/language/lv.md" >}}) | 1014 | 1432 | 70.8 | /mnt/stockage/packages/f28/colorhug-client/po/lv.po | 
- | [es]({{< ref "/f28/language/es.md" >}}) | 914 | 1432 | 63.8 | /mnt/stockage/packages/f28/colorhug-client/po/es_ES.po | 
- | [pl]({{< ref "/f28/language/pl.md" >}}) | 1400 | 2210 | 63.3 | /mnt/stockage/packages/f28/colorhug-client/po/pl_PL.po/mnt/stockage/packages/f28/colorhug-client/po/pl.po | 
- | [en_GB]({{< ref "/f28/language/en_GB.md" >}}) | 861 | 1432 | 60.1 | /mnt/stockage/packages/f28/colorhug-client/po/en_GB.po | 
- | [tr]({{< ref "/f28/language/tr.md" >}}) | 831 | 1432 | 58.0 | /mnt/stockage/packages/f28/colorhug-client/po/tr.po | 
- | [fr]({{< ref "/f28/language/fr.md" >}}) | 719 | 1408 | 51.1 | /mnt/stockage/packages/f28/colorhug-client/po/fr_FR.po | 
- | [nl]({{< ref "/f28/language/nl.md" >}}) | 709 | 1432 | 49.5 | /mnt/stockage/packages/f28/colorhug-client/po/nl_NL.po | 
- | [cs]({{< ref "/f28/language/cs.md" >}}) | 686 | 1432 | 47.9 | /mnt/stockage/packages/f28/colorhug-client/po/cs_CZ.po | 
- | [da]({{< ref "/f28/language/da.md" >}}) | 625 | 1432 | 43.6 | /mnt/stockage/packages/f28/colorhug-client/po/da.po | 
- | [ro]({{< ref "/f28/language/ro.md" >}}) | 625 | 1432 | 43.6 | /mnt/stockage/packages/f28/colorhug-client/po/ro.po | 
- | [nb_NO]({{< ref "/f28/language/nb_NO.md" >}}) | 555 | 1432 | 38.8 | /mnt/stockage/packages/f28/colorhug-client/po/nb.po | 
- | [ja]({{< ref "/f28/language/ja.md" >}}) | 440 | 1408 | 31.2 | /mnt/stockage/packages/f28/colorhug-client/po/ja_JP.po | 
- | [fi]({{< ref "/f28/language/fi.md" >}}) | 435 | 1432 | 30.4 | /mnt/stockage/packages/f28/colorhug-client/po/fi.po | 
- | [sv]({{< ref "/f28/language/sv.md" >}}) | 333 | 1432 | 23.3 | /mnt/stockage/packages/f28/colorhug-client/po/sv.po | 
- | [fa]({{< ref "/f28/language/fa.md" >}}) | 49 | 1432 | 3.4 | /mnt/stockage/packages/f28/colorhug-client/po/fa.po | 
- | [el]({{< ref "/f28/language/el.md" >}}) | 35 | 1408 | 2.5 | /mnt/stockage/packages/f28/colorhug-client/po/el_GR.po | 
- | [et]({{< ref "/f28/language/et.md" >}}) | 15 | 1432 | 1.0 | /mnt/stockage/packages/f28/colorhug-client/po/et.po | 
- | [pt]({{< ref "/f28/language/pt.md" >}}) | 0 | 1432 | 0.0 | /mnt/stockage/packages/f28/colorhug-client/po/pt.po | 
- | [pt_PT]({{< ref "/f28/language/pt_PT.md" >}}) | 0 | 1408 | 0.0 | /mnt/stockage/packages/f28/colorhug-client/po/pt_PT.po | 
+ | [en_US](/f28/language/en_US) | 1432 | 1432 | 100.0 | /mnt/stockage/packages/f28/colorhug-client/po/en_US.po | 
+ | [pt_BR](/f28/language/pt_BR) | 1400 | 1432 | 97.8 | /mnt/stockage/packages/f28/colorhug-client/po/pt_BR.po | 
+ | [ru](/f28/language/ru) | 1400 | 1432 | 97.8 | /mnt/stockage/packages/f28/colorhug-client/po/ru.po | 
+ | [sr](/f28/language/sr) | 1400 | 1432 | 97.8 | /mnt/stockage/packages/f28/colorhug-client/po/sr.po | 
+ | [uk](/f28/language/uk) | 1400 | 1432 | 97.8 | /mnt/stockage/packages/f28/colorhug-client/po/uk.po | 
+ | [zh_Hant](/f28/language/zh_Hant) | 1400 | 1432 | 97.8 | /mnt/stockage/packages/f28/colorhug-client/po/zh_TW.po | 
+ | [nn](/f28/language/nn) | 1398 | 1432 | 97.6 | /mnt/stockage/packages/f28/colorhug-client/po/nn.po | 
+ | [de](/f28/language/de) | 2566 | 2864 | 89.6 | /mnt/stockage/packages/f28/colorhug-client/po/de_DE.po/mnt/stockage/packages/f28/colorhug-client/po/de.po | 
+ | [hu](/f28/language/hu) | 1231 | 1432 | 86.0 | /mnt/stockage/packages/f28/colorhug-client/po/hu.po | 
+ | [it](/f28/language/it) | 1140 | 1432 | 79.6 | /mnt/stockage/packages/f28/colorhug-client/po/it_IT.po | 
+ | [lv](/f28/language/lv) | 1014 | 1432 | 70.8 | /mnt/stockage/packages/f28/colorhug-client/po/lv.po | 
+ | [es](/f28/language/es) | 914 | 1432 | 63.8 | /mnt/stockage/packages/f28/colorhug-client/po/es_ES.po | 
+ | [pl](/f28/language/pl) | 1400 | 2210 | 63.3 | /mnt/stockage/packages/f28/colorhug-client/po/pl_PL.po/mnt/stockage/packages/f28/colorhug-client/po/pl.po | 
+ | [en_GB](/f28/language/en_GB) | 861 | 1432 | 60.1 | /mnt/stockage/packages/f28/colorhug-client/po/en_GB.po | 
+ | [tr](/f28/language/tr) | 831 | 1432 | 58.0 | /mnt/stockage/packages/f28/colorhug-client/po/tr.po | 
+ | [fr](/f28/language/fr) | 719 | 1408 | 51.1 | /mnt/stockage/packages/f28/colorhug-client/po/fr_FR.po | 
+ | [nl](/f28/language/nl) | 709 | 1432 | 49.5 | /mnt/stockage/packages/f28/colorhug-client/po/nl_NL.po | 
+ | [cs](/f28/language/cs) | 686 | 1432 | 47.9 | /mnt/stockage/packages/f28/colorhug-client/po/cs_CZ.po | 
+ | [da](/f28/language/da) | 625 | 1432 | 43.6 | /mnt/stockage/packages/f28/colorhug-client/po/da.po | 
+ | [ro](/f28/language/ro) | 625 | 1432 | 43.6 | /mnt/stockage/packages/f28/colorhug-client/po/ro.po | 
+ | [nb_NO](/f28/language/nb_NO) | 555 | 1432 | 38.8 | /mnt/stockage/packages/f28/colorhug-client/po/nb.po | 
+ | [ja](/f28/language/ja) | 440 | 1408 | 31.2 | /mnt/stockage/packages/f28/colorhug-client/po/ja_JP.po | 
+ | [fi](/f28/language/fi) | 435 | 1432 | 30.4 | /mnt/stockage/packages/f28/colorhug-client/po/fi.po | 
+ | [sv](/f28/language/sv) | 333 | 1432 | 23.3 | /mnt/stockage/packages/f28/colorhug-client/po/sv.po | 
+ | [fa](/f28/language/fa) | 49 | 1432 | 3.4 | /mnt/stockage/packages/f28/colorhug-client/po/fa.po | 
+ | [el](/f28/language/el) | 35 | 1408 | 2.5 | /mnt/stockage/packages/f28/colorhug-client/po/el_GR.po | 
+ | [et](/f28/language/et) | 15 | 1432 | 1.0 | /mnt/stockage/packages/f28/colorhug-client/po/et.po | 
+ | [pt](/f28/language/pt) | 0 | 1432 | 0.0 | /mnt/stockage/packages/f28/colorhug-client/po/pt.po | 
+ | [pt_PT](/f28/language/pt_PT) | 0 | 1408 | 0.0 | /mnt/stockage/packages/f28/colorhug-client/po/pt_PT.po | 
 {.sortable}
 
 

@@ -18,12 +18,12 @@ The package trustedqsl (version 2.2.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f22/language/de.md" >}}) | 3887 | 3887 | 100.0 | /mnt/stockage/packages/f22/trustedqsl/apps/lang/de/tqslapp.po | 
- | [es]({{< ref "/f22/language/es.md" >}}) | 3887 | 3887 | 100.0 | /mnt/stockage/packages/f22/trustedqsl/apps/lang/es/tqslapp.po | 
- | [fr]({{< ref "/f22/language/fr.md" >}}) | 3887 | 3887 | 100.0 | /mnt/stockage/packages/f22/trustedqsl/apps/lang/fr/tqslapp.po | 
- | [it]({{< ref "/f22/language/it.md" >}}) | 3887 | 3887 | 100.0 | /mnt/stockage/packages/f22/trustedqsl/apps/lang/it/tqslapp.po | 
- | [ja]({{< ref "/f22/language/ja.md" >}}) | 3887 | 3887 | 100.0 | /mnt/stockage/packages/f22/trustedqsl/apps/lang/ja/tqslapp.po | 
- | [pt]({{< ref "/f22/language/pt.md" >}}) | 3887 | 3887 | 100.0 | /mnt/stockage/packages/f22/trustedqsl/apps/lang/pt/tqslapp.po | 
+ | [de](/f22/language/de) | 3887 | 3887 | 100.0 | /mnt/stockage/packages/f22/trustedqsl/apps/lang/de/tqslapp.po | 
+ | [es](/f22/language/es) | 3887 | 3887 | 100.0 | /mnt/stockage/packages/f22/trustedqsl/apps/lang/es/tqslapp.po | 
+ | [fr](/f22/language/fr) | 3887 | 3887 | 100.0 | /mnt/stockage/packages/f22/trustedqsl/apps/lang/fr/tqslapp.po | 
+ | [it](/f22/language/it) | 3887 | 3887 | 100.0 | /mnt/stockage/packages/f22/trustedqsl/apps/lang/it/tqslapp.po | 
+ | [ja](/f22/language/ja) | 3887 | 3887 | 100.0 | /mnt/stockage/packages/f22/trustedqsl/apps/lang/ja/tqslapp.po | 
+ | [pt](/f22/language/pt) | 3887 | 3887 | 100.0 | /mnt/stockage/packages/f22/trustedqsl/apps/lang/pt/tqslapp.po | 
 {.sortable}
 
 

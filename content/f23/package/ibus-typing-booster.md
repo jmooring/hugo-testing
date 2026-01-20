@@ -18,11 +18,11 @@ The package ibus-typing-booster (version 1.5.13):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f23/language/de.md" >}}) | 730 | 730 | 100.0 | /mnt/stockage/packages/f23/ibus-typing-booster/po/de.po | 
- | [fr]({{< ref "/f23/language/fr.md" >}}) | 730 | 730 | 100.0 | /mnt/stockage/packages/f23/ibus-typing-booster/po/fr.po | 
- | [pl]({{< ref "/f23/language/pl.md" >}}) | 730 | 730 | 100.0 | /mnt/stockage/packages/f23/ibus-typing-booster/po/pl.po | 
- | [uk]({{< ref "/f23/language/uk.md" >}}) | 730 | 730 | 100.0 | /mnt/stockage/packages/f23/ibus-typing-booster/po/uk.po | 
- | [ca]({{< ref "/f23/language/ca.md" >}}) | 148 | 730 | 20.3 | /mnt/stockage/packages/f23/ibus-typing-booster/po/ca.po | 
+ | [de](/f23/language/de) | 730 | 730 | 100.0 | /mnt/stockage/packages/f23/ibus-typing-booster/po/de.po | 
+ | [fr](/f23/language/fr) | 730 | 730 | 100.0 | /mnt/stockage/packages/f23/ibus-typing-booster/po/fr.po | 
+ | [pl](/f23/language/pl) | 730 | 730 | 100.0 | /mnt/stockage/packages/f23/ibus-typing-booster/po/pl.po | 
+ | [uk](/f23/language/uk) | 730 | 730 | 100.0 | /mnt/stockage/packages/f23/ibus-typing-booster/po/uk.po | 
+ | [ca](/f23/language/ca) | 148 | 730 | 20.3 | /mnt/stockage/packages/f23/ibus-typing-booster/po/ca.po | 
 {.sortable}
 
 

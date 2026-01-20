@@ -18,9 +18,9 @@ The package rygel (version 0.6.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f13/language/de.md" >}}) | 941 | 941 | 100.0 | /mnt/stockage/packages/f13/rygel/po/de.po | 
- | [sl]({{< ref "/f13/language/sl.md" >}}) | 941 | 941 | 100.0 | /mnt/stockage/packages/f13/rygel/po/sl.po | 
- | [es]({{< ref "/f13/language/es.md" >}}) | 461 | 941 | 49.0 | /mnt/stockage/packages/f13/rygel/po/es.po | 
+ | [de](/f13/language/de) | 941 | 941 | 100.0 | /mnt/stockage/packages/f13/rygel/po/de.po | 
+ | [sl](/f13/language/sl) | 941 | 941 | 100.0 | /mnt/stockage/packages/f13/rygel/po/sl.po | 
+ | [es](/f13/language/es) | 461 | 941 | 49.0 | /mnt/stockage/packages/f13/rygel/po/es.po | 
 {.sortable}
 
 

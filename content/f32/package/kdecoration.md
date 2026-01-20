@@ -18,36 +18,36 @@ The package kdecoration (version 5.18.5):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f32/language/ca.md" >}}) | 27 | 27 | 100.0 | /mnt/stockage/packages/f32/kdecoration/po/ca/kdecoration.po | 
- | [ca@valencia]({{< ref "/f32/language/ca@valencia.md" >}}) | 27 | 27 | 100.0 | /mnt/stockage/packages/f32/kdecoration/po/ca@valencia/kdecoration.po | 
- | [da]({{< ref "/f32/language/da.md" >}}) | 27 | 27 | 100.0 | /mnt/stockage/packages/f32/kdecoration/po/da/kdecoration.po | 
- | [de]({{< ref "/f32/language/de.md" >}}) | 27 | 27 | 100.0 | /mnt/stockage/packages/f32/kdecoration/po/de/kdecoration.po | 
- | [en_GB]({{< ref "/f32/language/en_GB.md" >}}) | 27 | 27 | 100.0 | /mnt/stockage/packages/f32/kdecoration/po/en_GB/kdecoration.po | 
- | [es]({{< ref "/f32/language/es.md" >}}) | 27 | 27 | 100.0 | /mnt/stockage/packages/f32/kdecoration/po/es/kdecoration.po | 
- | [et]({{< ref "/f32/language/et.md" >}}) | 27 | 27 | 100.0 | /mnt/stockage/packages/f32/kdecoration/po/et/kdecoration.po | 
- | [eu]({{< ref "/f32/language/eu.md" >}}) | 27 | 27 | 100.0 | /mnt/stockage/packages/f32/kdecoration/po/eu/kdecoration.po | 
- | [fi]({{< ref "/f32/language/fi.md" >}}) | 27 | 27 | 100.0 | /mnt/stockage/packages/f32/kdecoration/po/fi/kdecoration.po | 
- | [fr]({{< ref "/f32/language/fr.md" >}}) | 27 | 27 | 100.0 | /mnt/stockage/packages/f32/kdecoration/po/fr/kdecoration.po | 
- | [gl]({{< ref "/f32/language/gl.md" >}}) | 27 | 27 | 100.0 | /mnt/stockage/packages/f32/kdecoration/po/gl/kdecoration.po | 
- | [hu]({{< ref "/f32/language/hu.md" >}}) | 27 | 27 | 100.0 | /mnt/stockage/packages/f32/kdecoration/po/hu/kdecoration.po | 
- | [id]({{< ref "/f32/language/id.md" >}}) | 27 | 27 | 100.0 | /mnt/stockage/packages/f32/kdecoration/po/id/kdecoration.po | 
- | [it]({{< ref "/f32/language/it.md" >}}) | 27 | 27 | 100.0 | /mnt/stockage/packages/f32/kdecoration/po/it/kdecoration.po | 
- | [ja]({{< ref "/f32/language/ja.md" >}}) | 27 | 27 | 100.0 | /mnt/stockage/packages/f32/kdecoration/po/ja/kdecoration.po | 
- | [ko]({{< ref "/f32/language/ko.md" >}}) | 27 | 27 | 100.0 | /mnt/stockage/packages/f32/kdecoration/po/ko/kdecoration.po | 
- | [lt]({{< ref "/f32/language/lt.md" >}}) | 27 | 27 | 100.0 | /mnt/stockage/packages/f32/kdecoration/po/lt/kdecoration.po | 
- | [nl]({{< ref "/f32/language/nl.md" >}}) | 27 | 27 | 100.0 | /mnt/stockage/packages/f32/kdecoration/po/nl/kdecoration.po | 
- | [nn]({{< ref "/f32/language/nn.md" >}}) | 27 | 27 | 100.0 | /mnt/stockage/packages/f32/kdecoration/po/nn/kdecoration.po | 
- | [pl]({{< ref "/f32/language/pl.md" >}}) | 27 | 27 | 100.0 | /mnt/stockage/packages/f32/kdecoration/po/pl/kdecoration.po | 
- | [pt]({{< ref "/f32/language/pt.md" >}}) | 27 | 27 | 100.0 | /mnt/stockage/packages/f32/kdecoration/po/pt/kdecoration.po | 
- | [pt_BR]({{< ref "/f32/language/pt_BR.md" >}}) | 27 | 27 | 100.0 | /mnt/stockage/packages/f32/kdecoration/po/pt_BR/kdecoration.po | 
- | [ru]({{< ref "/f32/language/ru.md" >}}) | 27 | 27 | 100.0 | /mnt/stockage/packages/f32/kdecoration/po/ru/kdecoration.po | 
- | [sk]({{< ref "/f32/language/sk.md" >}}) | 27 | 27 | 100.0 | /mnt/stockage/packages/f32/kdecoration/po/sk/kdecoration.po | 
- | [sv]({{< ref "/f32/language/sv.md" >}}) | 27 | 27 | 100.0 | /mnt/stockage/packages/f32/kdecoration/po/sv/kdecoration.po | 
- | [uk]({{< ref "/f32/language/uk.md" >}}) | 27 | 27 | 100.0 | /mnt/stockage/packages/f32/kdecoration/po/uk/kdecoration.po | 
- | [zh_Hans]({{< ref "/f32/language/zh_Hans.md" >}}) | 27 | 27 | 100.0 | /mnt/stockage/packages/f32/kdecoration/po/zh_CN/kdecoration.po | 
- | [zh_Hant]({{< ref "/f32/language/zh_Hant.md" >}}) | 27 | 27 | 100.0 | /mnt/stockage/packages/f32/kdecoration/po/zh_TW/kdecoration.po | 
- | [cs]({{< ref "/f32/language/cs.md" >}}) | 21 | 27 | 77.8 | /mnt/stockage/packages/f32/kdecoration/po/cs/kdecoration.po | 
- | [ia]({{< ref "/f32/language/ia.md" >}}) | 21 | 27 | 77.8 | /mnt/stockage/packages/f32/kdecoration/po/ia/kdecoration.po | 
+ | [ca](/f32/language/ca) | 27 | 27 | 100.0 | /mnt/stockage/packages/f32/kdecoration/po/ca/kdecoration.po | 
+ | [ca@valencia](/f32/language/ca@valencia) | 27 | 27 | 100.0 | /mnt/stockage/packages/f32/kdecoration/po/ca@valencia/kdecoration.po | 
+ | [da](/f32/language/da) | 27 | 27 | 100.0 | /mnt/stockage/packages/f32/kdecoration/po/da/kdecoration.po | 
+ | [de](/f32/language/de) | 27 | 27 | 100.0 | /mnt/stockage/packages/f32/kdecoration/po/de/kdecoration.po | 
+ | [en_GB](/f32/language/en_GB) | 27 | 27 | 100.0 | /mnt/stockage/packages/f32/kdecoration/po/en_GB/kdecoration.po | 
+ | [es](/f32/language/es) | 27 | 27 | 100.0 | /mnt/stockage/packages/f32/kdecoration/po/es/kdecoration.po | 
+ | [et](/f32/language/et) | 27 | 27 | 100.0 | /mnt/stockage/packages/f32/kdecoration/po/et/kdecoration.po | 
+ | [eu](/f32/language/eu) | 27 | 27 | 100.0 | /mnt/stockage/packages/f32/kdecoration/po/eu/kdecoration.po | 
+ | [fi](/f32/language/fi) | 27 | 27 | 100.0 | /mnt/stockage/packages/f32/kdecoration/po/fi/kdecoration.po | 
+ | [fr](/f32/language/fr) | 27 | 27 | 100.0 | /mnt/stockage/packages/f32/kdecoration/po/fr/kdecoration.po | 
+ | [gl](/f32/language/gl) | 27 | 27 | 100.0 | /mnt/stockage/packages/f32/kdecoration/po/gl/kdecoration.po | 
+ | [hu](/f32/language/hu) | 27 | 27 | 100.0 | /mnt/stockage/packages/f32/kdecoration/po/hu/kdecoration.po | 
+ | [id](/f32/language/id) | 27 | 27 | 100.0 | /mnt/stockage/packages/f32/kdecoration/po/id/kdecoration.po | 
+ | [it](/f32/language/it) | 27 | 27 | 100.0 | /mnt/stockage/packages/f32/kdecoration/po/it/kdecoration.po | 
+ | [ja](/f32/language/ja) | 27 | 27 | 100.0 | /mnt/stockage/packages/f32/kdecoration/po/ja/kdecoration.po | 
+ | [ko](/f32/language/ko) | 27 | 27 | 100.0 | /mnt/stockage/packages/f32/kdecoration/po/ko/kdecoration.po | 
+ | [lt](/f32/language/lt) | 27 | 27 | 100.0 | /mnt/stockage/packages/f32/kdecoration/po/lt/kdecoration.po | 
+ | [nl](/f32/language/nl) | 27 | 27 | 100.0 | /mnt/stockage/packages/f32/kdecoration/po/nl/kdecoration.po | 
+ | [nn](/f32/language/nn) | 27 | 27 | 100.0 | /mnt/stockage/packages/f32/kdecoration/po/nn/kdecoration.po | 
+ | [pl](/f32/language/pl) | 27 | 27 | 100.0 | /mnt/stockage/packages/f32/kdecoration/po/pl/kdecoration.po | 
+ | [pt](/f32/language/pt) | 27 | 27 | 100.0 | /mnt/stockage/packages/f32/kdecoration/po/pt/kdecoration.po | 
+ | [pt_BR](/f32/language/pt_BR) | 27 | 27 | 100.0 | /mnt/stockage/packages/f32/kdecoration/po/pt_BR/kdecoration.po | 
+ | [ru](/f32/language/ru) | 27 | 27 | 100.0 | /mnt/stockage/packages/f32/kdecoration/po/ru/kdecoration.po | 
+ | [sk](/f32/language/sk) | 27 | 27 | 100.0 | /mnt/stockage/packages/f32/kdecoration/po/sk/kdecoration.po | 
+ | [sv](/f32/language/sv) | 27 | 27 | 100.0 | /mnt/stockage/packages/f32/kdecoration/po/sv/kdecoration.po | 
+ | [uk](/f32/language/uk) | 27 | 27 | 100.0 | /mnt/stockage/packages/f32/kdecoration/po/uk/kdecoration.po | 
+ | [zh_Hans](/f32/language/zh_Hans) | 27 | 27 | 100.0 | /mnt/stockage/packages/f32/kdecoration/po/zh_CN/kdecoration.po | 
+ | [zh_Hant](/f32/language/zh_Hant) | 27 | 27 | 100.0 | /mnt/stockage/packages/f32/kdecoration/po/zh_TW/kdecoration.po | 
+ | [cs](/f32/language/cs) | 21 | 27 | 77.8 | /mnt/stockage/packages/f32/kdecoration/po/cs/kdecoration.po | 
+ | [ia](/f32/language/ia) | 21 | 27 | 77.8 | /mnt/stockage/packages/f32/kdecoration/po/ia/kdecoration.po | 
 {.sortable}
 
 

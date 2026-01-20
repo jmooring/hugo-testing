@@ -18,11 +18,11 @@ The package fcitx-unikey (version 0.2.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f22/language/de.md" >}}) | 39 | 39 | 100.0 | /mnt/stockage/packages/f22/fcitx-unikey/po/de.po | 
- | [ja]({{< ref "/f22/language/ja.md" >}}) | 39 | 39 | 100.0 | /mnt/stockage/packages/f22/fcitx-unikey/po/ja.po | 
- | [zh_Hans]({{< ref "/f22/language/zh_Hans.md" >}}) | 39 | 39 | 100.0 | /mnt/stockage/packages/f22/fcitx-unikey/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f22/language/zh_Hant.md" >}}) | 39 | 39 | 100.0 | /mnt/stockage/packages/f22/fcitx-unikey/po/zh_TW.po | 
- | [vi]({{< ref "/f22/language/vi.md" >}}) | 32 | 39 | 82.1 | /mnt/stockage/packages/f22/fcitx-unikey/po/vi.po | 
+ | [de](/f22/language/de) | 39 | 39 | 100.0 | /mnt/stockage/packages/f22/fcitx-unikey/po/de.po | 
+ | [ja](/f22/language/ja) | 39 | 39 | 100.0 | /mnt/stockage/packages/f22/fcitx-unikey/po/ja.po | 
+ | [zh_Hans](/f22/language/zh_Hans) | 39 | 39 | 100.0 | /mnt/stockage/packages/f22/fcitx-unikey/po/zh_CN.po | 
+ | [zh_Hant](/f22/language/zh_Hant) | 39 | 39 | 100.0 | /mnt/stockage/packages/f22/fcitx-unikey/po/zh_TW.po | 
+ | [vi](/f22/language/vi) | 32 | 39 | 82.1 | /mnt/stockage/packages/f22/fcitx-unikey/po/vi.po | 
 {.sortable}
 
 

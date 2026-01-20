@@ -18,10 +18,10 @@ The package xnoise-plugins-core (version 0.1.12):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f15/language/de.md" >}}) | 8 | 8 | 100.0 | /mnt/stockage/packages/f15/xnoise-plugins-core/po/de_DE.po | 
- | [error]({{< ref "/f15/language/error.md" >}}) | 8 | 8 | 100.0 | /mnt/stockage/packages/f15/xnoise-plugins-core/po/default.po | 
- | [es]({{< ref "/f15/language/es.md" >}}) | 8 | 8 | 100.0 | /mnt/stockage/packages/f15/xnoise-plugins-core/po/es_ES.po | 
- | [es_CO]({{< ref "/f15/language/es_CO.md" >}}) | 8 | 8 | 100.0 | /mnt/stockage/packages/f15/xnoise-plugins-core/po/es_CO.po | 
+ | [de](/f15/language/de) | 8 | 8 | 100.0 | /mnt/stockage/packages/f15/xnoise-plugins-core/po/de_DE.po | 
+ | [error](/f15/language/error) | 8 | 8 | 100.0 | /mnt/stockage/packages/f15/xnoise-plugins-core/po/default.po | 
+ | [es](/f15/language/es) | 8 | 8 | 100.0 | /mnt/stockage/packages/f15/xnoise-plugins-core/po/es_ES.po | 
+ | [es_CO](/f15/language/es_CO) | 8 | 8 | 100.0 | /mnt/stockage/packages/f15/xnoise-plugins-core/po/es_CO.po | 
 {.sortable}
 
 

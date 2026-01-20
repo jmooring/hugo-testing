@@ -18,11 +18,11 @@ The package spectrum (version 1.4.8):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ru]({{< ref "/f14/language/ru.md" >}}) | 461 | 461 | 100.0 | /mnt/stockage/packages/f14/spectrum/po/ru.po | 
- | [de]({{< ref "/f14/language/de.md" >}}) | 403 | 461 | 87.4 | /mnt/stockage/packages/f14/spectrum/po/de.po | 
- | [fr]({{< ref "/f14/language/fr.md" >}}) | 403 | 461 | 87.4 | /mnt/stockage/packages/f14/spectrum/po/fr.po | 
- | [pl]({{< ref "/f14/language/pl.md" >}}) | 274 | 461 | 59.4 | /mnt/stockage/packages/f14/spectrum/po/pl.po | 
- | [cs]({{< ref "/f14/language/cs.md" >}}) | 14 | 461 | 3.0 | /mnt/stockage/packages/f14/spectrum/po/cs.po | 
+ | [ru](/f14/language/ru) | 461 | 461 | 100.0 | /mnt/stockage/packages/f14/spectrum/po/ru.po | 
+ | [de](/f14/language/de) | 403 | 461 | 87.4 | /mnt/stockage/packages/f14/spectrum/po/de.po | 
+ | [fr](/f14/language/fr) | 403 | 461 | 87.4 | /mnt/stockage/packages/f14/spectrum/po/fr.po | 
+ | [pl](/f14/language/pl) | 274 | 461 | 59.4 | /mnt/stockage/packages/f14/spectrum/po/pl.po | 
+ | [cs](/f14/language/cs) | 14 | 461 | 3.0 | /mnt/stockage/packages/f14/spectrum/po/cs.po | 
 {.sortable}
 
 

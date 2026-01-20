@@ -38,18 +38,18 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [virtaal]({{< ref "/f22/package/virtaal.md" >}}) | 1618 | 1653 | 97.9 | LANGUAGE <LL@li.org> | 
- | [tuxpaint]({{< ref "/f22/package/tuxpaint.md" >}}) | 1515 | 1591 | 95.2 |  | 
- | [abrt]({{< ref "/f22/package/abrt.md" >}}) | 0 | 3230 | 0.0 | Acoli (http://www.transifex.com/projects/p/fedora-abrt/language/ach/) | 
- | [certmonger]({{< ref "/f22/package/certmonger.md" >}}) | 0 | 1669 | 0.0 | Acoli (http://www.transifex.com/projects/p/certmonger/language/ach/) | 
- | [initial-setup]({{< ref "/f22/package/initial-setup.md" >}}) | 0 | 85 | 0.0 | Acoli (http://www.transifex.com/projects/p/initial-setup/language/ach/) | 
- | [libreport]({{< ref "/f22/package/libreport.md" >}}) | 0 | 3501 | 0.0 | Acoli (http://www.transifex.com/projects/p/libreport/language/ach/) | 
- | [mingw-libvirt-glib]({{< ref "/f22/package/mingw-libvirt-glib.md" >}}) | 0 | 138 | 0.0 | Acoli (http://www.transifex.com/projects/p/libvirt-glib/language/ach/) | 
- | [oscap-anaconda-addon]({{< ref "/f22/package/oscap-anaconda-addon.md" >}}) | 0 | 194 | 0.0 | Acoli (http://www.transifex.com/projects/p/oscap-anaconda-addon/language/ach/) | 
- | [pykickstart]({{< ref "/f22/package/pykickstart.md" >}}) | 0 | 448 | 0.0 | Acoli (http://www.transifex.com/projects/p/pykickstart/language/ach/) | 
- | [python-meh]({{< ref "/f22/package/python-meh.md" >}}) | 0 | 109 | 0.0 | Acoli (http://www.transifex.com/projects/p/python-meh/language/ach/) | 
- | [system-config-kickstart]({{< ref "/f22/package/system-config-kickstart.md" >}}) | 0 | 1144 | 0.0 | Acoli (http://www.transifex.com/projects/p/system-config-kickstart/language/ach/) | 
- | [virt-viewer]({{< ref "/f22/package/virt-viewer.md" >}}) | 0 | 692 | 0.0 | Acoli (http://www.transifex.com/projects/p/virt-viewer/language/ach/) | 
+ | [virtaal](/f22/package/virtaal) | 1618 | 1653 | 97.9 | LANGUAGE <LL@li.org> | 
+ | [tuxpaint](/f22/package/tuxpaint) | 1515 | 1591 | 95.2 |  | 
+ | [abrt](/f22/package/abrt) | 0 | 3230 | 0.0 | Acoli (http://www.transifex.com/projects/p/fedora-abrt/language/ach/) | 
+ | [certmonger](/f22/package/certmonger) | 0 | 1669 | 0.0 | Acoli (http://www.transifex.com/projects/p/certmonger/language/ach/) | 
+ | [initial-setup](/f22/package/initial-setup) | 0 | 85 | 0.0 | Acoli (http://www.transifex.com/projects/p/initial-setup/language/ach/) | 
+ | [libreport](/f22/package/libreport) | 0 | 3501 | 0.0 | Acoli (http://www.transifex.com/projects/p/libreport/language/ach/) | 
+ | [mingw-libvirt-glib](/f22/package/mingw-libvirt-glib) | 0 | 138 | 0.0 | Acoli (http://www.transifex.com/projects/p/libvirt-glib/language/ach/) | 
+ | [oscap-anaconda-addon](/f22/package/oscap-anaconda-addon) | 0 | 194 | 0.0 | Acoli (http://www.transifex.com/projects/p/oscap-anaconda-addon/language/ach/) | 
+ | [pykickstart](/f22/package/pykickstart) | 0 | 448 | 0.0 | Acoli (http://www.transifex.com/projects/p/pykickstart/language/ach/) | 
+ | [python-meh](/f22/package/python-meh) | 0 | 109 | 0.0 | Acoli (http://www.transifex.com/projects/p/python-meh/language/ach/) | 
+ | [system-config-kickstart](/f22/package/system-config-kickstart) | 0 | 1144 | 0.0 | Acoli (http://www.transifex.com/projects/p/system-config-kickstart/language/ach/) | 
+ | [virt-viewer](/f22/package/virt-viewer) | 0 | 692 | 0.0 | Acoli (http://www.transifex.com/projects/p/virt-viewer/language/ach/) | 
 {.sortable}
 
 

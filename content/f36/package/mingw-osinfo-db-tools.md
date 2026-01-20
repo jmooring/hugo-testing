@@ -18,22 +18,22 @@ The package mingw-osinfo-db-tools (version 1.10.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fi]({{< ref "/f36/language/fi.md" >}}) | 222 | 222 | 100.0 | /mnt/stockage/packages/f36/mingw-osinfo-db-tools/po/fi.po | 
- | [fr]({{< ref "/f36/language/fr.md" >}}) | 222 | 222 | 100.0 | /mnt/stockage/packages/f36/mingw-osinfo-db-tools/po/fr.po | 
- | [id]({{< ref "/f36/language/id.md" >}}) | 222 | 222 | 100.0 | /mnt/stockage/packages/f36/mingw-osinfo-db-tools/po/id.po | 
- | [ko]({{< ref "/f36/language/ko.md" >}}) | 222 | 222 | 100.0 | /mnt/stockage/packages/f36/mingw-osinfo-db-tools/po/ko.po | 
- | [pl]({{< ref "/f36/language/pl.md" >}}) | 222 | 222 | 100.0 | /mnt/stockage/packages/f36/mingw-osinfo-db-tools/po/pl.po | 
- | [pt_BR]({{< ref "/f36/language/pt_BR.md" >}}) | 222 | 222 | 100.0 | /mnt/stockage/packages/f36/mingw-osinfo-db-tools/po/pt_BR.po | 
- | [tr]({{< ref "/f36/language/tr.md" >}}) | 222 | 222 | 100.0 | /mnt/stockage/packages/f36/mingw-osinfo-db-tools/po/tr.po | 
- | [uk]({{< ref "/f36/language/uk.md" >}}) | 222 | 222 | 100.0 | /mnt/stockage/packages/f36/mingw-osinfo-db-tools/po/uk.po | 
- | [cs]({{< ref "/f36/language/cs.md" >}}) | 197 | 222 | 88.7 | /mnt/stockage/packages/f36/mingw-osinfo-db-tools/po/cs.po | 
- | [de]({{< ref "/f36/language/de.md" >}}) | 96 | 222 | 43.2 | /mnt/stockage/packages/f36/mingw-osinfo-db-tools/po/de.po | 
- | [ca]({{< ref "/f36/language/ca.md" >}}) | 61 | 222 | 27.5 | /mnt/stockage/packages/f36/mingw-osinfo-db-tools/po/ca.po | 
- | [es]({{< ref "/f36/language/es.md" >}}) | 54 | 222 | 24.3 | /mnt/stockage/packages/f36/mingw-osinfo-db-tools/po/es.po | 
- | [ja]({{< ref "/f36/language/ja.md" >}}) | 54 | 222 | 24.3 | /mnt/stockage/packages/f36/mingw-osinfo-db-tools/po/ja.po | 
- | [pt_PT]({{< ref "/f36/language/pt_PT.md" >}}) | 52 | 222 | 23.4 | /mnt/stockage/packages/f36/mingw-osinfo-db-tools/po/pt_PT.po | 
- | [si]({{< ref "/f36/language/si.md" >}}) | 2 | 222 | 0.9 | /mnt/stockage/packages/f36/mingw-osinfo-db-tools/po/si.po | 
- | [ru]({{< ref "/f36/language/ru.md" >}}) | 0 | 222 | 0.0 | /mnt/stockage/packages/f36/mingw-osinfo-db-tools/po/ru.po | 
+ | [fi](/f36/language/fi) | 222 | 222 | 100.0 | /mnt/stockage/packages/f36/mingw-osinfo-db-tools/po/fi.po | 
+ | [fr](/f36/language/fr) | 222 | 222 | 100.0 | /mnt/stockage/packages/f36/mingw-osinfo-db-tools/po/fr.po | 
+ | [id](/f36/language/id) | 222 | 222 | 100.0 | /mnt/stockage/packages/f36/mingw-osinfo-db-tools/po/id.po | 
+ | [ko](/f36/language/ko) | 222 | 222 | 100.0 | /mnt/stockage/packages/f36/mingw-osinfo-db-tools/po/ko.po | 
+ | [pl](/f36/language/pl) | 222 | 222 | 100.0 | /mnt/stockage/packages/f36/mingw-osinfo-db-tools/po/pl.po | 
+ | [pt_BR](/f36/language/pt_BR) | 222 | 222 | 100.0 | /mnt/stockage/packages/f36/mingw-osinfo-db-tools/po/pt_BR.po | 
+ | [tr](/f36/language/tr) | 222 | 222 | 100.0 | /mnt/stockage/packages/f36/mingw-osinfo-db-tools/po/tr.po | 
+ | [uk](/f36/language/uk) | 222 | 222 | 100.0 | /mnt/stockage/packages/f36/mingw-osinfo-db-tools/po/uk.po | 
+ | [cs](/f36/language/cs) | 197 | 222 | 88.7 | /mnt/stockage/packages/f36/mingw-osinfo-db-tools/po/cs.po | 
+ | [de](/f36/language/de) | 96 | 222 | 43.2 | /mnt/stockage/packages/f36/mingw-osinfo-db-tools/po/de.po | 
+ | [ca](/f36/language/ca) | 61 | 222 | 27.5 | /mnt/stockage/packages/f36/mingw-osinfo-db-tools/po/ca.po | 
+ | [es](/f36/language/es) | 54 | 222 | 24.3 | /mnt/stockage/packages/f36/mingw-osinfo-db-tools/po/es.po | 
+ | [ja](/f36/language/ja) | 54 | 222 | 24.3 | /mnt/stockage/packages/f36/mingw-osinfo-db-tools/po/ja.po | 
+ | [pt_PT](/f36/language/pt_PT) | 52 | 222 | 23.4 | /mnt/stockage/packages/f36/mingw-osinfo-db-tools/po/pt_PT.po | 
+ | [si](/f36/language/si) | 2 | 222 | 0.9 | /mnt/stockage/packages/f36/mingw-osinfo-db-tools/po/si.po | 
+ | [ru](/f36/language/ru) | 0 | 222 | 0.0 | /mnt/stockage/packages/f36/mingw-osinfo-db-tools/po/ru.po | 
 {.sortable}
 
 

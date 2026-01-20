@@ -38,8 +38,8 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [squirrelmail]({{< ref "/f14/package/squirrelmail.md" >}}) | 5012 | 5942 | 84.3 | LAKapps <squirrelmail-i18n@lists.sourceforge.net> | 
- | [gnome-gmail]({{< ref "/f14/package/gnome-gmail.md" >}}) | 268 | 359 | 74.7 | LANGUAGE <LL@li.org> | 
+ | [squirrelmail](/f14/package/squirrelmail) | 5012 | 5942 | 84.3 | LAKapps <squirrelmail-i18n@lists.sourceforge.net> | 
+ | [gnome-gmail](/f14/package/gnome-gmail) | 268 | 359 | 74.7 | LANGUAGE <LL@li.org> | 
 {.sortable}
 
 

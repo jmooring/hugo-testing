@@ -18,54 +18,54 @@ The package garcon (version 0.2.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f18/language/ar.md" >}}) | 95 | 95 | 100.0 | /mnt/stockage/packages/f18/garcon/po/ar.po | 
- | [bg]({{< ref "/f18/language/bg.md" >}}) | 95 | 95 | 100.0 | /mnt/stockage/packages/f18/garcon/po/bg.po | 
- | [ca]({{< ref "/f18/language/ca.md" >}}) | 95 | 95 | 100.0 | /mnt/stockage/packages/f18/garcon/po/ca.po | 
- | [cs]({{< ref "/f18/language/cs.md" >}}) | 95 | 95 | 100.0 | /mnt/stockage/packages/f18/garcon/po/cs.po | 
- | [da]({{< ref "/f18/language/da.md" >}}) | 95 | 95 | 100.0 | /mnt/stockage/packages/f18/garcon/po/da.po | 
- | [de]({{< ref "/f18/language/de.md" >}}) | 95 | 95 | 100.0 | /mnt/stockage/packages/f18/garcon/po/de.po | 
- | [el]({{< ref "/f18/language/el.md" >}}) | 95 | 95 | 100.0 | /mnt/stockage/packages/f18/garcon/po/el.po | 
- | [en_GB]({{< ref "/f18/language/en_GB.md" >}}) | 95 | 95 | 100.0 | /mnt/stockage/packages/f18/garcon/po/en_GB.po | 
- | [eo]({{< ref "/f18/language/eo.md" >}}) | 95 | 95 | 100.0 | /mnt/stockage/packages/f18/garcon/po/eo.po | 
- | [es]({{< ref "/f18/language/es.md" >}}) | 95 | 95 | 100.0 | /mnt/stockage/packages/f18/garcon/po/es.po | 
- | [eu]({{< ref "/f18/language/eu.md" >}}) | 95 | 95 | 100.0 | /mnt/stockage/packages/f18/garcon/po/eu.po | 
- | [fi]({{< ref "/f18/language/fi.md" >}}) | 95 | 95 | 100.0 | /mnt/stockage/packages/f18/garcon/po/fi.po | 
- | [fr]({{< ref "/f18/language/fr.md" >}}) | 95 | 95 | 100.0 | /mnt/stockage/packages/f18/garcon/po/fr.po | 
- | [gl]({{< ref "/f18/language/gl.md" >}}) | 95 | 95 | 100.0 | /mnt/stockage/packages/f18/garcon/po/gl.po | 
- | [he]({{< ref "/f18/language/he.md" >}}) | 95 | 95 | 100.0 | /mnt/stockage/packages/f18/garcon/po/he.po | 
- | [hr]({{< ref "/f18/language/hr.md" >}}) | 95 | 95 | 100.0 | /mnt/stockage/packages/f18/garcon/po/hr.po | 
- | [hu]({{< ref "/f18/language/hu.md" >}}) | 95 | 95 | 100.0 | /mnt/stockage/packages/f18/garcon/po/hu.po | 
- | [id]({{< ref "/f18/language/id.md" >}}) | 95 | 95 | 100.0 | /mnt/stockage/packages/f18/garcon/po/id.po | 
- | [is]({{< ref "/f18/language/is.md" >}}) | 95 | 95 | 100.0 | /mnt/stockage/packages/f18/garcon/po/is.po | 
- | [it]({{< ref "/f18/language/it.md" >}}) | 95 | 95 | 100.0 | /mnt/stockage/packages/f18/garcon/po/it.po | 
- | [ja]({{< ref "/f18/language/ja.md" >}}) | 95 | 95 | 100.0 | /mnt/stockage/packages/f18/garcon/po/ja.po | 
- | [kk]({{< ref "/f18/language/kk.md" >}}) | 95 | 95 | 100.0 | /mnt/stockage/packages/f18/garcon/po/kk.po | 
- | [ko]({{< ref "/f18/language/ko.md" >}}) | 95 | 95 | 100.0 | /mnt/stockage/packages/f18/garcon/po/ko.po | 
- | [lt]({{< ref "/f18/language/lt.md" >}}) | 95 | 95 | 100.0 | /mnt/stockage/packages/f18/garcon/po/lt.po | 
- | [nl]({{< ref "/f18/language/nl.md" >}}) | 95 | 95 | 100.0 | /mnt/stockage/packages/f18/garcon/po/nl.po | 
- | [nn]({{< ref "/f18/language/nn.md" >}}) | 95 | 95 | 100.0 | /mnt/stockage/packages/f18/garcon/po/nn.po | 
- | [pl]({{< ref "/f18/language/pl.md" >}}) | 95 | 95 | 100.0 | /mnt/stockage/packages/f18/garcon/po/pl.po | 
- | [pt]({{< ref "/f18/language/pt.md" >}}) | 95 | 95 | 100.0 | /mnt/stockage/packages/f18/garcon/po/pt.po | 
- | [pt_BR]({{< ref "/f18/language/pt_BR.md" >}}) | 95 | 95 | 100.0 | /mnt/stockage/packages/f18/garcon/po/pt_BR.po | 
- | [ro]({{< ref "/f18/language/ro.md" >}}) | 95 | 95 | 100.0 | /mnt/stockage/packages/f18/garcon/po/ro.po | 
- | [ru]({{< ref "/f18/language/ru.md" >}}) | 95 | 95 | 100.0 | /mnt/stockage/packages/f18/garcon/po/ru.po | 
- | [sk]({{< ref "/f18/language/sk.md" >}}) | 95 | 95 | 100.0 | /mnt/stockage/packages/f18/garcon/po/sk.po | 
- | [sl]({{< ref "/f18/language/sl.md" >}}) | 95 | 95 | 100.0 | /mnt/stockage/packages/f18/garcon/po/sl.po | 
- | [sq]({{< ref "/f18/language/sq.md" >}}) | 89 | 89 | 100.0 | /mnt/stockage/packages/f18/garcon/po/sq.po | 
- | [sr]({{< ref "/f18/language/sr.md" >}}) | 95 | 95 | 100.0 | /mnt/stockage/packages/f18/garcon/po/sr.po | 
- | [te]({{< ref "/f18/language/te.md" >}}) | 95 | 95 | 100.0 | /mnt/stockage/packages/f18/garcon/po/te.po | 
- | [tr]({{< ref "/f18/language/tr.md" >}}) | 95 | 95 | 100.0 | /mnt/stockage/packages/f18/garcon/po/tr.po | 
- | [ug]({{< ref "/f18/language/ug.md" >}}) | 95 | 95 | 100.0 | /mnt/stockage/packages/f18/garcon/po/ug.po | 
- | [uk]({{< ref "/f18/language/uk.md" >}}) | 95 | 95 | 100.0 | /mnt/stockage/packages/f18/garcon/po/uk.po | 
- | [zh_Hans]({{< ref "/f18/language/zh_Hans.md" >}}) | 95 | 95 | 100.0 | /mnt/stockage/packages/f18/garcon/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f18/language/zh_Hant.md" >}}) | 95 | 95 | 100.0 | /mnt/stockage/packages/f18/garcon/po/zh_TW.po | 
- | [sv]({{< ref "/f18/language/sv.md" >}}) | 85 | 86 | 98.8 | /mnt/stockage/packages/f18/garcon/po/sv.po | 
- | [nb_NO]({{< ref "/f18/language/nb_NO.md" >}}) | 89 | 178 | 50.0 | /mnt/stockage/packages/f18/garcon/po/nb.po/mnt/stockage/packages/f18/garcon/po/nb_NO.po | 
- | [bn]({{< ref "/f18/language/bn.md" >}}) | 17 | 89 | 19.1 | /mnt/stockage/packages/f18/garcon/po/bn.po | 
- | [lv]({{< ref "/f18/language/lv.md" >}}) | 17 | 89 | 19.1 | /mnt/stockage/packages/f18/garcon/po/lv.po | 
- | [pa]({{< ref "/f18/language/pa.md" >}}) | 17 | 89 | 19.1 | /mnt/stockage/packages/f18/garcon/po/pa.po | 
- | [pt_PT]({{< ref "/f18/language/pt_PT.md" >}}) | 17 | 89 | 19.1 | /mnt/stockage/packages/f18/garcon/po/pt_PT.po | 
- | [ur]({{< ref "/f18/language/ur.md" >}}) | 0 | 89 | 0.0 | /mnt/stockage/packages/f18/garcon/po/ur.po | 
+ | [ar](/f18/language/ar) | 95 | 95 | 100.0 | /mnt/stockage/packages/f18/garcon/po/ar.po | 
+ | [bg](/f18/language/bg) | 95 | 95 | 100.0 | /mnt/stockage/packages/f18/garcon/po/bg.po | 
+ | [ca](/f18/language/ca) | 95 | 95 | 100.0 | /mnt/stockage/packages/f18/garcon/po/ca.po | 
+ | [cs](/f18/language/cs) | 95 | 95 | 100.0 | /mnt/stockage/packages/f18/garcon/po/cs.po | 
+ | [da](/f18/language/da) | 95 | 95 | 100.0 | /mnt/stockage/packages/f18/garcon/po/da.po | 
+ | [de](/f18/language/de) | 95 | 95 | 100.0 | /mnt/stockage/packages/f18/garcon/po/de.po | 
+ | [el](/f18/language/el) | 95 | 95 | 100.0 | /mnt/stockage/packages/f18/garcon/po/el.po | 
+ | [en_GB](/f18/language/en_GB) | 95 | 95 | 100.0 | /mnt/stockage/packages/f18/garcon/po/en_GB.po | 
+ | [eo](/f18/language/eo) | 95 | 95 | 100.0 | /mnt/stockage/packages/f18/garcon/po/eo.po | 
+ | [es](/f18/language/es) | 95 | 95 | 100.0 | /mnt/stockage/packages/f18/garcon/po/es.po | 
+ | [eu](/f18/language/eu) | 95 | 95 | 100.0 | /mnt/stockage/packages/f18/garcon/po/eu.po | 
+ | [fi](/f18/language/fi) | 95 | 95 | 100.0 | /mnt/stockage/packages/f18/garcon/po/fi.po | 
+ | [fr](/f18/language/fr) | 95 | 95 | 100.0 | /mnt/stockage/packages/f18/garcon/po/fr.po | 
+ | [gl](/f18/language/gl) | 95 | 95 | 100.0 | /mnt/stockage/packages/f18/garcon/po/gl.po | 
+ | [he](/f18/language/he) | 95 | 95 | 100.0 | /mnt/stockage/packages/f18/garcon/po/he.po | 
+ | [hr](/f18/language/hr) | 95 | 95 | 100.0 | /mnt/stockage/packages/f18/garcon/po/hr.po | 
+ | [hu](/f18/language/hu) | 95 | 95 | 100.0 | /mnt/stockage/packages/f18/garcon/po/hu.po | 
+ | [id](/f18/language/id) | 95 | 95 | 100.0 | /mnt/stockage/packages/f18/garcon/po/id.po | 
+ | [is](/f18/language/is) | 95 | 95 | 100.0 | /mnt/stockage/packages/f18/garcon/po/is.po | 
+ | [it](/f18/language/it) | 95 | 95 | 100.0 | /mnt/stockage/packages/f18/garcon/po/it.po | 
+ | [ja](/f18/language/ja) | 95 | 95 | 100.0 | /mnt/stockage/packages/f18/garcon/po/ja.po | 
+ | [kk](/f18/language/kk) | 95 | 95 | 100.0 | /mnt/stockage/packages/f18/garcon/po/kk.po | 
+ | [ko](/f18/language/ko) | 95 | 95 | 100.0 | /mnt/stockage/packages/f18/garcon/po/ko.po | 
+ | [lt](/f18/language/lt) | 95 | 95 | 100.0 | /mnt/stockage/packages/f18/garcon/po/lt.po | 
+ | [nl](/f18/language/nl) | 95 | 95 | 100.0 | /mnt/stockage/packages/f18/garcon/po/nl.po | 
+ | [nn](/f18/language/nn) | 95 | 95 | 100.0 | /mnt/stockage/packages/f18/garcon/po/nn.po | 
+ | [pl](/f18/language/pl) | 95 | 95 | 100.0 | /mnt/stockage/packages/f18/garcon/po/pl.po | 
+ | [pt](/f18/language/pt) | 95 | 95 | 100.0 | /mnt/stockage/packages/f18/garcon/po/pt.po | 
+ | [pt_BR](/f18/language/pt_BR) | 95 | 95 | 100.0 | /mnt/stockage/packages/f18/garcon/po/pt_BR.po | 
+ | [ro](/f18/language/ro) | 95 | 95 | 100.0 | /mnt/stockage/packages/f18/garcon/po/ro.po | 
+ | [ru](/f18/language/ru) | 95 | 95 | 100.0 | /mnt/stockage/packages/f18/garcon/po/ru.po | 
+ | [sk](/f18/language/sk) | 95 | 95 | 100.0 | /mnt/stockage/packages/f18/garcon/po/sk.po | 
+ | [sl](/f18/language/sl) | 95 | 95 | 100.0 | /mnt/stockage/packages/f18/garcon/po/sl.po | 
+ | [sq](/f18/language/sq) | 89 | 89 | 100.0 | /mnt/stockage/packages/f18/garcon/po/sq.po | 
+ | [sr](/f18/language/sr) | 95 | 95 | 100.0 | /mnt/stockage/packages/f18/garcon/po/sr.po | 
+ | [te](/f18/language/te) | 95 | 95 | 100.0 | /mnt/stockage/packages/f18/garcon/po/te.po | 
+ | [tr](/f18/language/tr) | 95 | 95 | 100.0 | /mnt/stockage/packages/f18/garcon/po/tr.po | 
+ | [ug](/f18/language/ug) | 95 | 95 | 100.0 | /mnt/stockage/packages/f18/garcon/po/ug.po | 
+ | [uk](/f18/language/uk) | 95 | 95 | 100.0 | /mnt/stockage/packages/f18/garcon/po/uk.po | 
+ | [zh_Hans](/f18/language/zh_Hans) | 95 | 95 | 100.0 | /mnt/stockage/packages/f18/garcon/po/zh_CN.po | 
+ | [zh_Hant](/f18/language/zh_Hant) | 95 | 95 | 100.0 | /mnt/stockage/packages/f18/garcon/po/zh_TW.po | 
+ | [sv](/f18/language/sv) | 85 | 86 | 98.8 | /mnt/stockage/packages/f18/garcon/po/sv.po | 
+ | [nb_NO](/f18/language/nb_NO) | 89 | 178 | 50.0 | /mnt/stockage/packages/f18/garcon/po/nb.po/mnt/stockage/packages/f18/garcon/po/nb_NO.po | 
+ | [bn](/f18/language/bn) | 17 | 89 | 19.1 | /mnt/stockage/packages/f18/garcon/po/bn.po | 
+ | [lv](/f18/language/lv) | 17 | 89 | 19.1 | /mnt/stockage/packages/f18/garcon/po/lv.po | 
+ | [pa](/f18/language/pa) | 17 | 89 | 19.1 | /mnt/stockage/packages/f18/garcon/po/pa.po | 
+ | [pt_PT](/f18/language/pt_PT) | 17 | 89 | 19.1 | /mnt/stockage/packages/f18/garcon/po/pt_PT.po | 
+ | [ur](/f18/language/ur) | 0 | 89 | 0.0 | /mnt/stockage/packages/f18/garcon/po/ur.po | 
 {.sortable}
 
 

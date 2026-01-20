@@ -18,17 +18,17 @@ The package e2fsprogs (version 1.40.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f8/language/fr.md" >}}) | 4812 | 4812 | 100.0 | /mnt/stockage/packages/f8/e2fsprogs/po/fr.po | 
- | [nl]({{< ref "/f8/language/nl.md" >}}) | 4985 | 4985 | 100.0 | /mnt/stockage/packages/f8/e2fsprogs/po/nl.po | 
- | [pl]({{< ref "/f8/language/pl.md" >}}) | 4985 | 4985 | 100.0 | /mnt/stockage/packages/f8/e2fsprogs/po/pl.po | 
- | [vi]({{< ref "/f8/language/vi.md" >}}) | 4985 | 4985 | 100.0 | /mnt/stockage/packages/f8/e2fsprogs/po/vi.po | 
- | [sv]({{< ref "/f8/language/sv.md" >}}) | 4671 | 4985 | 93.7 | /mnt/stockage/packages/f8/e2fsprogs/po/sv.po | 
- | [tr]({{< ref "/f8/language/tr.md" >}}) | 4671 | 4985 | 93.7 | /mnt/stockage/packages/f8/e2fsprogs/po/tr.po | 
- | [de]({{< ref "/f8/language/de.md" >}}) | 3592 | 4985 | 72.1 | /mnt/stockage/packages/f8/e2fsprogs/po/de.po | 
- | [es]({{< ref "/f8/language/es.md" >}}) | 3528 | 4985 | 70.8 | /mnt/stockage/packages/f8/e2fsprogs/po/es.po | 
- | [cs]({{< ref "/f8/language/cs.md" >}}) | 3385 | 4985 | 67.9 | /mnt/stockage/packages/f8/e2fsprogs/po/cs.po | 
- | [it]({{< ref "/f8/language/it.md" >}}) | 3118 | 4985 | 62.5 | /mnt/stockage/packages/f8/e2fsprogs/po/it.po | 
- | [rw]({{< ref "/f8/language/rw.md" >}}) | 11 | 4985 | 0.2 | /mnt/stockage/packages/f8/e2fsprogs/po/rw.po | 
+ | [fr](/f8/language/fr) | 4812 | 4812 | 100.0 | /mnt/stockage/packages/f8/e2fsprogs/po/fr.po | 
+ | [nl](/f8/language/nl) | 4985 | 4985 | 100.0 | /mnt/stockage/packages/f8/e2fsprogs/po/nl.po | 
+ | [pl](/f8/language/pl) | 4985 | 4985 | 100.0 | /mnt/stockage/packages/f8/e2fsprogs/po/pl.po | 
+ | [vi](/f8/language/vi) | 4985 | 4985 | 100.0 | /mnt/stockage/packages/f8/e2fsprogs/po/vi.po | 
+ | [sv](/f8/language/sv) | 4671 | 4985 | 93.7 | /mnt/stockage/packages/f8/e2fsprogs/po/sv.po | 
+ | [tr](/f8/language/tr) | 4671 | 4985 | 93.7 | /mnt/stockage/packages/f8/e2fsprogs/po/tr.po | 
+ | [de](/f8/language/de) | 3592 | 4985 | 72.1 | /mnt/stockage/packages/f8/e2fsprogs/po/de.po | 
+ | [es](/f8/language/es) | 3528 | 4985 | 70.8 | /mnt/stockage/packages/f8/e2fsprogs/po/es.po | 
+ | [cs](/f8/language/cs) | 3385 | 4985 | 67.9 | /mnt/stockage/packages/f8/e2fsprogs/po/cs.po | 
+ | [it](/f8/language/it) | 3118 | 4985 | 62.5 | /mnt/stockage/packages/f8/e2fsprogs/po/it.po | 
+ | [rw](/f8/language/rw) | 11 | 4985 | 0.2 | /mnt/stockage/packages/f8/e2fsprogs/po/rw.po | 
 {.sortable}
 
 

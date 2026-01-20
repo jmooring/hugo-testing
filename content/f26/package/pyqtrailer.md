@@ -18,8 +18,8 @@ The package pyqtrailer (version 0.6.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [sk]({{< ref "/f26/language/sk.md" >}}) | 196 | 5909 | 3.3 | /mnt/stockage/packages/f26/pyqtrailer/po/sk_SK.po | 
- | [error]({{< ref "/f26/language/error.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f26/pyqtrailer/po/messages.po | 
+ | [sk](/f26/language/sk) | 196 | 5909 | 3.3 | /mnt/stockage/packages/f26/pyqtrailer/po/sk_SK.po | 
+ | [error](/f26/language/error) | 0 | 0 | 0.0 | /mnt/stockage/packages/f26/pyqtrailer/po/messages.po | 
 {.sortable}
 
 

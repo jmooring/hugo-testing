@@ -18,54 +18,54 @@ The package kf5-kfilemetadata (version 5.91.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [az]({{< ref "/f34/language/az.md" >}}) | 302 | 302 | 100.0 | /mnt/stockage/packages/f34/kf5-kfilemetadata/po/az/kfilemetadata5.po | 
- | [ca]({{< ref "/f34/language/ca.md" >}}) | 302 | 302 | 100.0 | /mnt/stockage/packages/f34/kf5-kfilemetadata/po/ca/kfilemetadata5.po | 
- | [ca@valencia]({{< ref "/f34/language/ca@valencia.md" >}}) | 302 | 302 | 100.0 | /mnt/stockage/packages/f34/kf5-kfilemetadata/po/ca@valencia/kfilemetadata5.po | 
- | [da]({{< ref "/f34/language/da.md" >}}) | 302 | 302 | 100.0 | /mnt/stockage/packages/f34/kf5-kfilemetadata/po/da/kfilemetadata5.po | 
- | [el]({{< ref "/f34/language/el.md" >}}) | 302 | 302 | 100.0 | /mnt/stockage/packages/f34/kf5-kfilemetadata/po/el/kfilemetadata5.po | 
- | [en_GB]({{< ref "/f34/language/en_GB.md" >}}) | 302 | 302 | 100.0 | /mnt/stockage/packages/f34/kf5-kfilemetadata/po/en_GB/kfilemetadata5.po | 
- | [es]({{< ref "/f34/language/es.md" >}}) | 302 | 302 | 100.0 | /mnt/stockage/packages/f34/kf5-kfilemetadata/po/es/kfilemetadata5.po | 
- | [et]({{< ref "/f34/language/et.md" >}}) | 302 | 302 | 100.0 | /mnt/stockage/packages/f34/kf5-kfilemetadata/po/et/kfilemetadata5.po | 
- | [eu]({{< ref "/f34/language/eu.md" >}}) | 302 | 302 | 100.0 | /mnt/stockage/packages/f34/kf5-kfilemetadata/po/eu/kfilemetadata5.po | 
- | [fr]({{< ref "/f34/language/fr.md" >}}) | 302 | 302 | 100.0 | /mnt/stockage/packages/f34/kf5-kfilemetadata/po/fr/kfilemetadata5.po | 
- | [gl]({{< ref "/f34/language/gl.md" >}}) | 302 | 302 | 100.0 | /mnt/stockage/packages/f34/kf5-kfilemetadata/po/gl/kfilemetadata5.po | 
- | [hu]({{< ref "/f34/language/hu.md" >}}) | 302 | 302 | 100.0 | /mnt/stockage/packages/f34/kf5-kfilemetadata/po/hu/kfilemetadata5.po | 
- | [ia]({{< ref "/f34/language/ia.md" >}}) | 302 | 302 | 100.0 | /mnt/stockage/packages/f34/kf5-kfilemetadata/po/ia/kfilemetadata5.po | 
- | [id]({{< ref "/f34/language/id.md" >}}) | 302 | 302 | 100.0 | /mnt/stockage/packages/f34/kf5-kfilemetadata/po/id/kfilemetadata5.po | 
- | [it]({{< ref "/f34/language/it.md" >}}) | 302 | 302 | 100.0 | /mnt/stockage/packages/f34/kf5-kfilemetadata/po/it/kfilemetadata5.po | 
- | [ko]({{< ref "/f34/language/ko.md" >}}) | 302 | 302 | 100.0 | /mnt/stockage/packages/f34/kf5-kfilemetadata/po/ko/kfilemetadata5.po | 
- | [lt]({{< ref "/f34/language/lt.md" >}}) | 302 | 302 | 100.0 | /mnt/stockage/packages/f34/kf5-kfilemetadata/po/lt/kfilemetadata5.po | 
- | [nl]({{< ref "/f34/language/nl.md" >}}) | 302 | 302 | 100.0 | /mnt/stockage/packages/f34/kf5-kfilemetadata/po/nl/kfilemetadata5.po | 
- | [nn]({{< ref "/f34/language/nn.md" >}}) | 302 | 302 | 100.0 | /mnt/stockage/packages/f34/kf5-kfilemetadata/po/nn/kfilemetadata5.po | 
- | [pl]({{< ref "/f34/language/pl.md" >}}) | 302 | 302 | 100.0 | /mnt/stockage/packages/f34/kf5-kfilemetadata/po/pl/kfilemetadata5.po | 
- | [pt]({{< ref "/f34/language/pt.md" >}}) | 302 | 302 | 100.0 | /mnt/stockage/packages/f34/kf5-kfilemetadata/po/pt/kfilemetadata5.po | 
- | [pt_BR]({{< ref "/f34/language/pt_BR.md" >}}) | 302 | 302 | 100.0 | /mnt/stockage/packages/f34/kf5-kfilemetadata/po/pt_BR/kfilemetadata5.po | 
- | [ru]({{< ref "/f34/language/ru.md" >}}) | 302 | 302 | 100.0 | /mnt/stockage/packages/f34/kf5-kfilemetadata/po/ru/kfilemetadata5.po | 
- | [sk]({{< ref "/f34/language/sk.md" >}}) | 302 | 302 | 100.0 | /mnt/stockage/packages/f34/kf5-kfilemetadata/po/sk/kfilemetadata5.po | 
- | [sl]({{< ref "/f34/language/sl.md" >}}) | 302 | 302 | 100.0 | /mnt/stockage/packages/f34/kf5-kfilemetadata/po/sl/kfilemetadata5.po | 
- | [sv]({{< ref "/f34/language/sv.md" >}}) | 302 | 302 | 100.0 | /mnt/stockage/packages/f34/kf5-kfilemetadata/po/sv/kfilemetadata5.po | 
- | [tg]({{< ref "/f34/language/tg.md" >}}) | 302 | 302 | 100.0 | /mnt/stockage/packages/f34/kf5-kfilemetadata/po/tg/kfilemetadata5.po | 
- | [uk]({{< ref "/f34/language/uk.md" >}}) | 302 | 302 | 100.0 | /mnt/stockage/packages/f34/kf5-kfilemetadata/po/uk/kfilemetadata5.po | 
- | [zh_Hans]({{< ref "/f34/language/zh_Hans.md" >}}) | 302 | 302 | 100.0 | /mnt/stockage/packages/f34/kf5-kfilemetadata/po/zh_CN/kfilemetadata5.po | 
- | [zh_Hant]({{< ref "/f34/language/zh_Hant.md" >}}) | 302 | 302 | 100.0 | /mnt/stockage/packages/f34/kf5-kfilemetadata/po/zh_TW/kfilemetadata5.po | 
- | [fi]({{< ref "/f34/language/fi.md" >}}) | 294 | 302 | 97.4 | /mnt/stockage/packages/f34/kf5-kfilemetadata/po/fi/kfilemetadata5.po | 
- | [de]({{< ref "/f34/language/de.md" >}}) | 284 | 302 | 94.0 | /mnt/stockage/packages/f34/kf5-kfilemetadata/po/de/kfilemetadata5.po | 
- | [ja]({{< ref "/f34/language/ja.md" >}}) | 197 | 302 | 65.2 | /mnt/stockage/packages/f34/kf5-kfilemetadata/po/ja/kfilemetadata5.po | 
- | [ro]({{< ref "/f34/language/ro.md" >}}) | 172 | 302 | 57.0 | /mnt/stockage/packages/f34/kf5-kfilemetadata/po/ro/kfilemetadata5.po | 
- | [cs]({{< ref "/f34/language/cs.md" >}}) | 168 | 302 | 55.6 | /mnt/stockage/packages/f34/kf5-kfilemetadata/po/cs/kfilemetadata5.po | 
- | [ar]({{< ref "/f34/language/ar.md" >}}) | 159 | 302 | 52.6 | /mnt/stockage/packages/f34/kf5-kfilemetadata/po/ar/kfilemetadata5.po | 
- | [sr]({{< ref "/f34/language/sr.md" >}}) | 77 | 302 | 25.5 | /mnt/stockage/packages/f34/kf5-kfilemetadata/po/sr/kfilemetadata5.po | 
- | [sr@ijekavian]({{< ref "/f34/language/sr@ijekavian.md" >}}) | 77 | 302 | 25.5 | /mnt/stockage/packages/f34/kf5-kfilemetadata/po/sr@ijekavian/kfilemetadata5.po | 
- | [sr@ijekavian_Latn]({{< ref "/f34/language/sr@ijekavian_Latn.md" >}}) | 77 | 302 | 25.5 | /mnt/stockage/packages/f34/kf5-kfilemetadata/po/sr@ijekavianlatin/kfilemetadata5.po | 
- | [sr_Latn]({{< ref "/f34/language/sr_Latn.md" >}}) | 77 | 302 | 25.5 | /mnt/stockage/packages/f34/kf5-kfilemetadata/po/sr@latin/kfilemetadata5.po | 
- | [tr]({{< ref "/f34/language/tr.md" >}}) | 77 | 302 | 25.5 | /mnt/stockage/packages/f34/kf5-kfilemetadata/po/tr/kfilemetadata5.po | 
- | [gd]({{< ref "/f34/language/gd.md" >}}) | 72 | 302 | 23.8 | /mnt/stockage/packages/f34/kf5-kfilemetadata/po/gd/kfilemetadata5.po | 
- | [nb_NO]({{< ref "/f34/language/nb_NO.md" >}}) | 53 | 302 | 17.5 | /mnt/stockage/packages/f34/kf5-kfilemetadata/po/nb/kfilemetadata5.po | 
- | [bg]({{< ref "/f34/language/bg.md" >}}) | 52 | 302 | 17.2 | /mnt/stockage/packages/f34/kf5-kfilemetadata/po/bg/kfilemetadata5.po | 
- | [nds]({{< ref "/f34/language/nds.md" >}}) | 52 | 302 | 17.2 | /mnt/stockage/packages/f34/kf5-kfilemetadata/po/nds/kfilemetadata5.po | 
- | [bs]({{< ref "/f34/language/bs.md" >}}) | 51 | 302 | 16.9 | /mnt/stockage/packages/f34/kf5-kfilemetadata/po/bs/kfilemetadata5.po | 
- | [pa]({{< ref "/f34/language/pa.md" >}}) | 6 | 302 | 2.0 | /mnt/stockage/packages/f34/kf5-kfilemetadata/po/pa/kfilemetadata5.po | 
- | [ml]({{< ref "/f34/language/ml.md" >}}) | 0 | 302 | 0.0 | /mnt/stockage/packages/f34/kf5-kfilemetadata/po/ml/kfilemetadata5.po | 
+ | [az](/f34/language/az) | 302 | 302 | 100.0 | /mnt/stockage/packages/f34/kf5-kfilemetadata/po/az/kfilemetadata5.po | 
+ | [ca](/f34/language/ca) | 302 | 302 | 100.0 | /mnt/stockage/packages/f34/kf5-kfilemetadata/po/ca/kfilemetadata5.po | 
+ | [ca@valencia](/f34/language/ca@valencia) | 302 | 302 | 100.0 | /mnt/stockage/packages/f34/kf5-kfilemetadata/po/ca@valencia/kfilemetadata5.po | 
+ | [da](/f34/language/da) | 302 | 302 | 100.0 | /mnt/stockage/packages/f34/kf5-kfilemetadata/po/da/kfilemetadata5.po | 
+ | [el](/f34/language/el) | 302 | 302 | 100.0 | /mnt/stockage/packages/f34/kf5-kfilemetadata/po/el/kfilemetadata5.po | 
+ | [en_GB](/f34/language/en_GB) | 302 | 302 | 100.0 | /mnt/stockage/packages/f34/kf5-kfilemetadata/po/en_GB/kfilemetadata5.po | 
+ | [es](/f34/language/es) | 302 | 302 | 100.0 | /mnt/stockage/packages/f34/kf5-kfilemetadata/po/es/kfilemetadata5.po | 
+ | [et](/f34/language/et) | 302 | 302 | 100.0 | /mnt/stockage/packages/f34/kf5-kfilemetadata/po/et/kfilemetadata5.po | 
+ | [eu](/f34/language/eu) | 302 | 302 | 100.0 | /mnt/stockage/packages/f34/kf5-kfilemetadata/po/eu/kfilemetadata5.po | 
+ | [fr](/f34/language/fr) | 302 | 302 | 100.0 | /mnt/stockage/packages/f34/kf5-kfilemetadata/po/fr/kfilemetadata5.po | 
+ | [gl](/f34/language/gl) | 302 | 302 | 100.0 | /mnt/stockage/packages/f34/kf5-kfilemetadata/po/gl/kfilemetadata5.po | 
+ | [hu](/f34/language/hu) | 302 | 302 | 100.0 | /mnt/stockage/packages/f34/kf5-kfilemetadata/po/hu/kfilemetadata5.po | 
+ | [ia](/f34/language/ia) | 302 | 302 | 100.0 | /mnt/stockage/packages/f34/kf5-kfilemetadata/po/ia/kfilemetadata5.po | 
+ | [id](/f34/language/id) | 302 | 302 | 100.0 | /mnt/stockage/packages/f34/kf5-kfilemetadata/po/id/kfilemetadata5.po | 
+ | [it](/f34/language/it) | 302 | 302 | 100.0 | /mnt/stockage/packages/f34/kf5-kfilemetadata/po/it/kfilemetadata5.po | 
+ | [ko](/f34/language/ko) | 302 | 302 | 100.0 | /mnt/stockage/packages/f34/kf5-kfilemetadata/po/ko/kfilemetadata5.po | 
+ | [lt](/f34/language/lt) | 302 | 302 | 100.0 | /mnt/stockage/packages/f34/kf5-kfilemetadata/po/lt/kfilemetadata5.po | 
+ | [nl](/f34/language/nl) | 302 | 302 | 100.0 | /mnt/stockage/packages/f34/kf5-kfilemetadata/po/nl/kfilemetadata5.po | 
+ | [nn](/f34/language/nn) | 302 | 302 | 100.0 | /mnt/stockage/packages/f34/kf5-kfilemetadata/po/nn/kfilemetadata5.po | 
+ | [pl](/f34/language/pl) | 302 | 302 | 100.0 | /mnt/stockage/packages/f34/kf5-kfilemetadata/po/pl/kfilemetadata5.po | 
+ | [pt](/f34/language/pt) | 302 | 302 | 100.0 | /mnt/stockage/packages/f34/kf5-kfilemetadata/po/pt/kfilemetadata5.po | 
+ | [pt_BR](/f34/language/pt_BR) | 302 | 302 | 100.0 | /mnt/stockage/packages/f34/kf5-kfilemetadata/po/pt_BR/kfilemetadata5.po | 
+ | [ru](/f34/language/ru) | 302 | 302 | 100.0 | /mnt/stockage/packages/f34/kf5-kfilemetadata/po/ru/kfilemetadata5.po | 
+ | [sk](/f34/language/sk) | 302 | 302 | 100.0 | /mnt/stockage/packages/f34/kf5-kfilemetadata/po/sk/kfilemetadata5.po | 
+ | [sl](/f34/language/sl) | 302 | 302 | 100.0 | /mnt/stockage/packages/f34/kf5-kfilemetadata/po/sl/kfilemetadata5.po | 
+ | [sv](/f34/language/sv) | 302 | 302 | 100.0 | /mnt/stockage/packages/f34/kf5-kfilemetadata/po/sv/kfilemetadata5.po | 
+ | [tg](/f34/language/tg) | 302 | 302 | 100.0 | /mnt/stockage/packages/f34/kf5-kfilemetadata/po/tg/kfilemetadata5.po | 
+ | [uk](/f34/language/uk) | 302 | 302 | 100.0 | /mnt/stockage/packages/f34/kf5-kfilemetadata/po/uk/kfilemetadata5.po | 
+ | [zh_Hans](/f34/language/zh_Hans) | 302 | 302 | 100.0 | /mnt/stockage/packages/f34/kf5-kfilemetadata/po/zh_CN/kfilemetadata5.po | 
+ | [zh_Hant](/f34/language/zh_Hant) | 302 | 302 | 100.0 | /mnt/stockage/packages/f34/kf5-kfilemetadata/po/zh_TW/kfilemetadata5.po | 
+ | [fi](/f34/language/fi) | 294 | 302 | 97.4 | /mnt/stockage/packages/f34/kf5-kfilemetadata/po/fi/kfilemetadata5.po | 
+ | [de](/f34/language/de) | 284 | 302 | 94.0 | /mnt/stockage/packages/f34/kf5-kfilemetadata/po/de/kfilemetadata5.po | 
+ | [ja](/f34/language/ja) | 197 | 302 | 65.2 | /mnt/stockage/packages/f34/kf5-kfilemetadata/po/ja/kfilemetadata5.po | 
+ | [ro](/f34/language/ro) | 172 | 302 | 57.0 | /mnt/stockage/packages/f34/kf5-kfilemetadata/po/ro/kfilemetadata5.po | 
+ | [cs](/f34/language/cs) | 168 | 302 | 55.6 | /mnt/stockage/packages/f34/kf5-kfilemetadata/po/cs/kfilemetadata5.po | 
+ | [ar](/f34/language/ar) | 159 | 302 | 52.6 | /mnt/stockage/packages/f34/kf5-kfilemetadata/po/ar/kfilemetadata5.po | 
+ | [sr](/f34/language/sr) | 77 | 302 | 25.5 | /mnt/stockage/packages/f34/kf5-kfilemetadata/po/sr/kfilemetadata5.po | 
+ | [sr@ijekavian](/f34/language/sr@ijekavian) | 77 | 302 | 25.5 | /mnt/stockage/packages/f34/kf5-kfilemetadata/po/sr@ijekavian/kfilemetadata5.po | 
+ | [sr@ijekavian_Latn](/f34/language/sr@ijekavian_Latn) | 77 | 302 | 25.5 | /mnt/stockage/packages/f34/kf5-kfilemetadata/po/sr@ijekavianlatin/kfilemetadata5.po | 
+ | [sr_Latn](/f34/language/sr_Latn) | 77 | 302 | 25.5 | /mnt/stockage/packages/f34/kf5-kfilemetadata/po/sr@latin/kfilemetadata5.po | 
+ | [tr](/f34/language/tr) | 77 | 302 | 25.5 | /mnt/stockage/packages/f34/kf5-kfilemetadata/po/tr/kfilemetadata5.po | 
+ | [gd](/f34/language/gd) | 72 | 302 | 23.8 | /mnt/stockage/packages/f34/kf5-kfilemetadata/po/gd/kfilemetadata5.po | 
+ | [nb_NO](/f34/language/nb_NO) | 53 | 302 | 17.5 | /mnt/stockage/packages/f34/kf5-kfilemetadata/po/nb/kfilemetadata5.po | 
+ | [bg](/f34/language/bg) | 52 | 302 | 17.2 | /mnt/stockage/packages/f34/kf5-kfilemetadata/po/bg/kfilemetadata5.po | 
+ | [nds](/f34/language/nds) | 52 | 302 | 17.2 | /mnt/stockage/packages/f34/kf5-kfilemetadata/po/nds/kfilemetadata5.po | 
+ | [bs](/f34/language/bs) | 51 | 302 | 16.9 | /mnt/stockage/packages/f34/kf5-kfilemetadata/po/bs/kfilemetadata5.po | 
+ | [pa](/f34/language/pa) | 6 | 302 | 2.0 | /mnt/stockage/packages/f34/kf5-kfilemetadata/po/pa/kfilemetadata5.po | 
+ | [ml](/f34/language/ml) | 0 | 302 | 0.0 | /mnt/stockage/packages/f34/kf5-kfilemetadata/po/ml/kfilemetadata5.po | 
 {.sortable}
 
 

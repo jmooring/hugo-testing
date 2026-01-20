@@ -18,10 +18,10 @@ The package fldigi (version 3.21.68):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [pl]({{< ref "/f17/language/pl.md" >}}) | 4185 | 4501 | 93.0 | /mnt/stockage/packages/f17/fldigi/po/pl.po | 
- | [es]({{< ref "/f17/language/es.md" >}}) | 3638 | 4501 | 80.8 | /mnt/stockage/packages/f17/fldigi/po/es.po | 
- | [it]({{< ref "/f17/language/it.md" >}}) | 3477 | 4501 | 77.2 | /mnt/stockage/packages/f17/fldigi/po/it.po | 
- | [fr]({{< ref "/f17/language/fr.md" >}}) | 793 | 4501 | 17.6 | /mnt/stockage/packages/f17/fldigi/po/fr.po | 
+ | [pl](/f17/language/pl) | 4185 | 4501 | 93.0 | /mnt/stockage/packages/f17/fldigi/po/pl.po | 
+ | [es](/f17/language/es) | 3638 | 4501 | 80.8 | /mnt/stockage/packages/f17/fldigi/po/es.po | 
+ | [it](/f17/language/it) | 3477 | 4501 | 77.2 | /mnt/stockage/packages/f17/fldigi/po/it.po | 
+ | [fr](/f17/language/fr) | 793 | 4501 | 17.6 | /mnt/stockage/packages/f17/fldigi/po/fr.po | 
 {.sortable}
 
 

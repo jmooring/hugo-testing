@@ -18,18 +18,18 @@ The package sysprof (version 3.24.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f26/language/cs.md" >}}) | 1242 | 1242 | 100.0 | /mnt/stockage/packages/f26/sysprof/help/cs/cs.po/mnt/stockage/packages/f26/sysprof/po/cs.po | 
- | [es]({{< ref "/f26/language/es.md" >}}) | 361 | 361 | 100.0 | /mnt/stockage/packages/f26/sysprof/po/es.po | 
- | [hu]({{< ref "/f26/language/hu.md" >}}) | 396 | 396 | 100.0 | /mnt/stockage/packages/f26/sysprof/po/hu.po | 
- | [pl]({{< ref "/f26/language/pl.md" >}}) | 396 | 396 | 100.0 | /mnt/stockage/packages/f26/sysprof/po/pl.po | 
- | [pt_BR]({{< ref "/f26/language/pt_BR.md" >}}) | 1243 | 1243 | 100.0 | /mnt/stockage/packages/f26/sysprof/help/pt_BR/pt_BR.po/mnt/stockage/packages/f26/sysprof/po/pt_BR.po | 
- | [sr]({{< ref "/f26/language/sr.md" >}}) | 396 | 396 | 100.0 | /mnt/stockage/packages/f26/sysprof/po/sr.po | 
- | [sv]({{< ref "/f26/language/sv.md" >}}) | 1242 | 1242 | 100.0 | /mnt/stockage/packages/f26/sysprof/help/sv/sv.po/mnt/stockage/packages/f26/sysprof/po/sv.po | 
- | [sk]({{< ref "/f26/language/sk.md" >}}) | 347 | 396 | 87.6 | /mnt/stockage/packages/f26/sysprof/po/sk.po | 
- | [fi]({{< ref "/f26/language/fi.md" >}}) | 263 | 396 | 66.4 | /mnt/stockage/packages/f26/sysprof/po/fi.po | 
- | [de]({{< ref "/f26/language/de.md" >}}) | 322 | 1137 | 28.3 | /mnt/stockage/packages/f26/sysprof/help/de/de.po/mnt/stockage/packages/f26/sysprof/po/de.po | 
- | [sl]({{< ref "/f26/language/sl.md" >}}) | 57 | 290 | 19.7 | /mnt/stockage/packages/f26/sysprof/po/sl.po | 
- | [pt]({{< ref "/f26/language/pt.md" >}}) | 34 | 290 | 11.7 | /mnt/stockage/packages/f26/sysprof/po/pt.po | 
+ | [cs](/f26/language/cs) | 1242 | 1242 | 100.0 | /mnt/stockage/packages/f26/sysprof/help/cs/cs.po/mnt/stockage/packages/f26/sysprof/po/cs.po | 
+ | [es](/f26/language/es) | 361 | 361 | 100.0 | /mnt/stockage/packages/f26/sysprof/po/es.po | 
+ | [hu](/f26/language/hu) | 396 | 396 | 100.0 | /mnt/stockage/packages/f26/sysprof/po/hu.po | 
+ | [pl](/f26/language/pl) | 396 | 396 | 100.0 | /mnt/stockage/packages/f26/sysprof/po/pl.po | 
+ | [pt_BR](/f26/language/pt_BR) | 1243 | 1243 | 100.0 | /mnt/stockage/packages/f26/sysprof/help/pt_BR/pt_BR.po/mnt/stockage/packages/f26/sysprof/po/pt_BR.po | 
+ | [sr](/f26/language/sr) | 396 | 396 | 100.0 | /mnt/stockage/packages/f26/sysprof/po/sr.po | 
+ | [sv](/f26/language/sv) | 1242 | 1242 | 100.0 | /mnt/stockage/packages/f26/sysprof/help/sv/sv.po/mnt/stockage/packages/f26/sysprof/po/sv.po | 
+ | [sk](/f26/language/sk) | 347 | 396 | 87.6 | /mnt/stockage/packages/f26/sysprof/po/sk.po | 
+ | [fi](/f26/language/fi) | 263 | 396 | 66.4 | /mnt/stockage/packages/f26/sysprof/po/fi.po | 
+ | [de](/f26/language/de) | 322 | 1137 | 28.3 | /mnt/stockage/packages/f26/sysprof/help/de/de.po/mnt/stockage/packages/f26/sysprof/po/de.po | 
+ | [sl](/f26/language/sl) | 57 | 290 | 19.7 | /mnt/stockage/packages/f26/sysprof/po/sl.po | 
+ | [pt](/f26/language/pt) | 34 | 290 | 11.7 | /mnt/stockage/packages/f26/sysprof/po/pt.po | 
 {.sortable}
 
 

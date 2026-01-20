@@ -38,15 +38,15 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [blueberry]({{< ref "/f28/package/blueberry.md" >}}) | 141 | 141 | 100.0 | Neapolitan <nap@li.org> | 
- | [cinnamon-translations]({{< ref "/f28/package/cinnamon-translations.md" >}}) | 3150 | 8793 | 35.8 | Neapolitan <nap@li.org> | 
- | [slick-greeter]({{< ref "/f28/package/slick-greeter.md" >}}) | 35 | 211 | 16.6 | Neapolitan <nap@li.org> | 
- | [lightdm-settings]({{< ref "/f28/package/lightdm-settings.md" >}}) | 36 | 271 | 13.3 | Neapolitan <nap@li.org> | 
- | [midori]({{< ref "/f28/package/midori.md" >}}) | 429 | 3541 | 12.1 | Neapolitan <nap@li.org> | 
- | [gnome-do]({{< ref "/f28/package/gnome-do.md" >}}) | 37 | 612 | 6.0 | Neapolitan <nap@li.org> | 
- | [deluge]({{< ref "/f28/package/deluge.md" >}}) | 82 | 2728 | 3.0 | Neapolitan <nap@li.org> | 
- | [sugar]({{< ref "/f28/package/sugar.md" >}}) | 0 | 2305 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-toolkit-gtk3]({{< ref "/f28/package/sugar-toolkit-gtk3.md" >}}) | 0 | 159 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [blueberry](/f28/package/blueberry) | 141 | 141 | 100.0 | Neapolitan <nap@li.org> | 
+ | [cinnamon-translations](/f28/package/cinnamon-translations) | 3150 | 8793 | 35.8 | Neapolitan <nap@li.org> | 
+ | [slick-greeter](/f28/package/slick-greeter) | 35 | 211 | 16.6 | Neapolitan <nap@li.org> | 
+ | [lightdm-settings](/f28/package/lightdm-settings) | 36 | 271 | 13.3 | Neapolitan <nap@li.org> | 
+ | [midori](/f28/package/midori) | 429 | 3541 | 12.1 | Neapolitan <nap@li.org> | 
+ | [gnome-do](/f28/package/gnome-do) | 37 | 612 | 6.0 | Neapolitan <nap@li.org> | 
+ | [deluge](/f28/package/deluge) | 82 | 2728 | 3.0 | Neapolitan <nap@li.org> | 
+ | [sugar](/f28/package/sugar) | 0 | 2305 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-toolkit-gtk3](/f28/package/sugar-toolkit-gtk3) | 0 | 159 | 0.0 | LANGUAGE <LL@li.org> | 
 {.sortable}
 
 

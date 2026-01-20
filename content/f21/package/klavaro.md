@@ -18,35 +18,35 @@ The package klavaro (version 2.00):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [bg]({{< ref "/f21/language/bg.md" >}}) | 1912 | 1912 | 100.0 | /mnt/stockage/packages/f21/klavaro/po/bg.po | 
- | [da]({{< ref "/f21/language/da.md" >}}) | 1912 | 1912 | 100.0 | /mnt/stockage/packages/f21/klavaro/po/da.po | 
- | [eo]({{< ref "/f21/language/eo.md" >}}) | 1912 | 1912 | 100.0 | /mnt/stockage/packages/f21/klavaro/po/eo.po | 
- | [eu]({{< ref "/f21/language/eu.md" >}}) | 1912 | 1912 | 100.0 | /mnt/stockage/packages/f21/klavaro/po/eu.po | 
- | [fr]({{< ref "/f21/language/fr.md" >}}) | 1912 | 1912 | 100.0 | /mnt/stockage/packages/f21/klavaro/po/fr.po | 
- | [gl]({{< ref "/f21/language/gl.md" >}}) | 1912 | 1912 | 100.0 | /mnt/stockage/packages/f21/klavaro/po/gl.po | 
- | [nl]({{< ref "/f21/language/nl.md" >}}) | 1912 | 1912 | 100.0 | /mnt/stockage/packages/f21/klavaro/po/nl.po | 
- | [pt_BR]({{< ref "/f21/language/pt_BR.md" >}}) | 1912 | 1912 | 100.0 | /mnt/stockage/packages/f21/klavaro/po/pt_BR.po | 
- | [ru]({{< ref "/f21/language/ru.md" >}}) | 1912 | 1912 | 100.0 | /mnt/stockage/packages/f21/klavaro/po/ru.po | 
- | [uk]({{< ref "/f21/language/uk.md" >}}) | 1912 | 1912 | 100.0 | /mnt/stockage/packages/f21/klavaro/po/uk.po | 
- | [vi]({{< ref "/f21/language/vi.md" >}}) | 1912 | 1912 | 100.0 | /mnt/stockage/packages/f21/klavaro/po/vi.po | 
- | [de]({{< ref "/f21/language/de.md" >}}) | 1911 | 1912 | 99.9 | /mnt/stockage/packages/f21/klavaro/po/de.po | 
- | [el]({{< ref "/f21/language/el.md" >}}) | 1909 | 1912 | 99.8 | /mnt/stockage/packages/f21/klavaro/po/el.po | 
- | [cs]({{< ref "/f21/language/cs.md" >}}) | 1907 | 1912 | 99.7 | /mnt/stockage/packages/f21/klavaro/po/cs.po | 
- | [es]({{< ref "/f21/language/es.md" >}}) | 1907 | 1912 | 99.7 | /mnt/stockage/packages/f21/klavaro/po/es.po | 
- | [hu]({{< ref "/f21/language/hu.md" >}}) | 1907 | 1912 | 99.7 | /mnt/stockage/packages/f21/klavaro/po/hu.po | 
- | [it]({{< ref "/f21/language/it.md" >}}) | 1903 | 1912 | 99.5 | /mnt/stockage/packages/f21/klavaro/po/it.po | 
- | [wo]({{< ref "/f21/language/wo.md" >}}) | 1903 | 1912 | 99.5 | /mnt/stockage/packages/f21/klavaro/po/wo.po | 
- | [zh_Hans]({{< ref "/f21/language/zh_Hans.md" >}}) | 1903 | 1912 | 99.5 | /mnt/stockage/packages/f21/klavaro/po/zh_CN.po | 
- | [nb_NO]({{< ref "/f21/language/nb_NO.md" >}}) | 1901 | 1912 | 99.4 | /mnt/stockage/packages/f21/klavaro/po/nb.po | 
- | [ur]({{< ref "/f21/language/ur.md" >}}) | 1897 | 1912 | 99.2 | /mnt/stockage/packages/f21/klavaro/po/ur.po | 
- | [kk]({{< ref "/f21/language/kk.md" >}}) | 1878 | 1912 | 98.2 | /mnt/stockage/packages/f21/klavaro/po/kk.po | 
- | [ar]({{< ref "/f21/language/ar.md" >}}) | 1792 | 1912 | 93.7 | /mnt/stockage/packages/f21/klavaro/po/ar.po | 
- | [pl]({{< ref "/f21/language/pl.md" >}}) | 1792 | 1912 | 93.7 | /mnt/stockage/packages/f21/klavaro/po/pl.po | 
- | [bn]({{< ref "/f21/language/bn.md" >}}) | 1213 | 1912 | 63.4 | /mnt/stockage/packages/f21/klavaro/po/bn.po | 
- | [sv]({{< ref "/f21/language/sv.md" >}}) | 1059 | 1912 | 55.4 | /mnt/stockage/packages/f21/klavaro/po/sv.po | 
- | [en_GB]({{< ref "/f21/language/en_GB.md" >}}) | 802 | 1912 | 41.9 | /mnt/stockage/packages/f21/klavaro/po/en_GB.po | 
- | [ky]({{< ref "/f21/language/ky.md" >}}) | 679 | 1912 | 35.5 | /mnt/stockage/packages/f21/klavaro/po/ky.po | 
- | [te]({{< ref "/f21/language/te.md" >}}) | 16 | 1912 | 0.8 | /mnt/stockage/packages/f21/klavaro/po/te.po | 
+ | [bg](/f21/language/bg) | 1912 | 1912 | 100.0 | /mnt/stockage/packages/f21/klavaro/po/bg.po | 
+ | [da](/f21/language/da) | 1912 | 1912 | 100.0 | /mnt/stockage/packages/f21/klavaro/po/da.po | 
+ | [eo](/f21/language/eo) | 1912 | 1912 | 100.0 | /mnt/stockage/packages/f21/klavaro/po/eo.po | 
+ | [eu](/f21/language/eu) | 1912 | 1912 | 100.0 | /mnt/stockage/packages/f21/klavaro/po/eu.po | 
+ | [fr](/f21/language/fr) | 1912 | 1912 | 100.0 | /mnt/stockage/packages/f21/klavaro/po/fr.po | 
+ | [gl](/f21/language/gl) | 1912 | 1912 | 100.0 | /mnt/stockage/packages/f21/klavaro/po/gl.po | 
+ | [nl](/f21/language/nl) | 1912 | 1912 | 100.0 | /mnt/stockage/packages/f21/klavaro/po/nl.po | 
+ | [pt_BR](/f21/language/pt_BR) | 1912 | 1912 | 100.0 | /mnt/stockage/packages/f21/klavaro/po/pt_BR.po | 
+ | [ru](/f21/language/ru) | 1912 | 1912 | 100.0 | /mnt/stockage/packages/f21/klavaro/po/ru.po | 
+ | [uk](/f21/language/uk) | 1912 | 1912 | 100.0 | /mnt/stockage/packages/f21/klavaro/po/uk.po | 
+ | [vi](/f21/language/vi) | 1912 | 1912 | 100.0 | /mnt/stockage/packages/f21/klavaro/po/vi.po | 
+ | [de](/f21/language/de) | 1911 | 1912 | 99.9 | /mnt/stockage/packages/f21/klavaro/po/de.po | 
+ | [el](/f21/language/el) | 1909 | 1912 | 99.8 | /mnt/stockage/packages/f21/klavaro/po/el.po | 
+ | [cs](/f21/language/cs) | 1907 | 1912 | 99.7 | /mnt/stockage/packages/f21/klavaro/po/cs.po | 
+ | [es](/f21/language/es) | 1907 | 1912 | 99.7 | /mnt/stockage/packages/f21/klavaro/po/es.po | 
+ | [hu](/f21/language/hu) | 1907 | 1912 | 99.7 | /mnt/stockage/packages/f21/klavaro/po/hu.po | 
+ | [it](/f21/language/it) | 1903 | 1912 | 99.5 | /mnt/stockage/packages/f21/klavaro/po/it.po | 
+ | [wo](/f21/language/wo) | 1903 | 1912 | 99.5 | /mnt/stockage/packages/f21/klavaro/po/wo.po | 
+ | [zh_Hans](/f21/language/zh_Hans) | 1903 | 1912 | 99.5 | /mnt/stockage/packages/f21/klavaro/po/zh_CN.po | 
+ | [nb_NO](/f21/language/nb_NO) | 1901 | 1912 | 99.4 | /mnt/stockage/packages/f21/klavaro/po/nb.po | 
+ | [ur](/f21/language/ur) | 1897 | 1912 | 99.2 | /mnt/stockage/packages/f21/klavaro/po/ur.po | 
+ | [kk](/f21/language/kk) | 1878 | 1912 | 98.2 | /mnt/stockage/packages/f21/klavaro/po/kk.po | 
+ | [ar](/f21/language/ar) | 1792 | 1912 | 93.7 | /mnt/stockage/packages/f21/klavaro/po/ar.po | 
+ | [pl](/f21/language/pl) | 1792 | 1912 | 93.7 | /mnt/stockage/packages/f21/klavaro/po/pl.po | 
+ | [bn](/f21/language/bn) | 1213 | 1912 | 63.4 | /mnt/stockage/packages/f21/klavaro/po/bn.po | 
+ | [sv](/f21/language/sv) | 1059 | 1912 | 55.4 | /mnt/stockage/packages/f21/klavaro/po/sv.po | 
+ | [en_GB](/f21/language/en_GB) | 802 | 1912 | 41.9 | /mnt/stockage/packages/f21/klavaro/po/en_GB.po | 
+ | [ky](/f21/language/ky) | 679 | 1912 | 35.5 | /mnt/stockage/packages/f21/klavaro/po/ky.po | 
+ | [te](/f21/language/te) | 16 | 1912 | 0.8 | /mnt/stockage/packages/f21/klavaro/po/te.po | 
 {.sortable}
 
 

@@ -18,13 +18,13 @@ The package ibus-anthy (version 1.5.9):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f26/language/ca.md" >}}) | 740 | 740 | 100.0 | /mnt/stockage/packages/f26/ibus-anthy/po/ca.po | 
- | [fr]({{< ref "/f26/language/fr.md" >}}) | 740 | 740 | 100.0 | /mnt/stockage/packages/f26/ibus-anthy/po/fr.po | 
- | [ja]({{< ref "/f26/language/ja.md" >}}) | 740 | 740 | 100.0 | /mnt/stockage/packages/f26/ibus-anthy/po/ja.po | 
- | [uk]({{< ref "/f26/language/uk.md" >}}) | 740 | 740 | 100.0 | /mnt/stockage/packages/f26/ibus-anthy/po/uk.po | 
- | [el]({{< ref "/f26/language/el.md" >}}) | 141 | 693 | 20.3 | /mnt/stockage/packages/f26/ibus-anthy/po/el.po | 
- | [pt_BR]({{< ref "/f26/language/pt_BR.md" >}}) | 91 | 740 | 12.3 | /mnt/stockage/packages/f26/ibus-anthy/po/pt_BR.po | 
- | [zh_Hans]({{< ref "/f26/language/zh_Hans.md" >}}) | 29 | 693 | 4.2 | /mnt/stockage/packages/f26/ibus-anthy/po/zh_CN.po | 
+ | [ca](/f26/language/ca) | 740 | 740 | 100.0 | /mnt/stockage/packages/f26/ibus-anthy/po/ca.po | 
+ | [fr](/f26/language/fr) | 740 | 740 | 100.0 | /mnt/stockage/packages/f26/ibus-anthy/po/fr.po | 
+ | [ja](/f26/language/ja) | 740 | 740 | 100.0 | /mnt/stockage/packages/f26/ibus-anthy/po/ja.po | 
+ | [uk](/f26/language/uk) | 740 | 740 | 100.0 | /mnt/stockage/packages/f26/ibus-anthy/po/uk.po | 
+ | [el](/f26/language/el) | 141 | 693 | 20.3 | /mnt/stockage/packages/f26/ibus-anthy/po/el.po | 
+ | [pt_BR](/f26/language/pt_BR) | 91 | 740 | 12.3 | /mnt/stockage/packages/f26/ibus-anthy/po/pt_BR.po | 
+ | [zh_Hans](/f26/language/zh_Hans) | 29 | 693 | 4.2 | /mnt/stockage/packages/f26/ibus-anthy/po/zh_CN.po | 
 {.sortable}
 
 

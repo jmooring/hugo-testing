@@ -18,22 +18,22 @@ The package kanyremote (version 8.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [bg]({{< ref "/f33/language/bg.md" >}}) | 484 | 506 | 95.7 | /mnt/stockage/packages/f33/kanyremote/po/bg.po | 
- | [ru]({{< ref "/f33/language/ru.md" >}}) | 484 | 506 | 95.7 | /mnt/stockage/packages/f33/kanyremote/po/ru_RU.po | 
- | [el]({{< ref "/f33/language/el.md" >}}) | 481 | 506 | 95.1 | /mnt/stockage/packages/f33/kanyremote/po/el_GR.po | 
- | [de]({{< ref "/f33/language/de.md" >}}) | 479 | 506 | 94.7 | /mnt/stockage/packages/f33/kanyremote/po/de_DE.po | 
- | [de_AT]({{< ref "/f33/language/de_AT.md" >}}) | 479 | 506 | 94.7 | /mnt/stockage/packages/f33/kanyremote/po/de_AT.po | 
- | [es]({{< ref "/f33/language/es.md" >}}) | 467 | 506 | 92.3 | /mnt/stockage/packages/f33/kanyremote/po/es_ES.po | 
- | [hu]({{< ref "/f33/language/hu.md" >}}) | 464 | 506 | 91.7 | /mnt/stockage/packages/f33/kanyremote/po/hu_HU.po | 
- | [sv]({{< ref "/f33/language/sv.md" >}}) | 456 | 506 | 90.1 | /mnt/stockage/packages/f33/kanyremote/po/sv_SE.po | 
- | [it]({{< ref "/f33/language/it.md" >}}) | 436 | 506 | 86.2 | /mnt/stockage/packages/f33/kanyremote/po/it_IT.po | 
- | [cs]({{< ref "/f33/language/cs.md" >}}) | 422 | 506 | 83.4 | /mnt/stockage/packages/f33/kanyremote/po/cs_CZ.po | 
- | [sk]({{< ref "/f33/language/sk.md" >}}) | 419 | 506 | 82.8 | /mnt/stockage/packages/f33/kanyremote/po/sk_SK.po | 
- | [fr]({{< ref "/f33/language/fr.md" >}}) | 402 | 506 | 79.4 | /mnt/stockage/packages/f33/kanyremote/po/fr_FR.po | 
- | [pl]({{< ref "/f33/language/pl.md" >}}) | 393 | 506 | 77.7 | /mnt/stockage/packages/f33/kanyremote/po/pl_PL.po | 
- | [fi]({{< ref "/f33/language/fi.md" >}}) | 385 | 506 | 76.1 | /mnt/stockage/packages/f33/kanyremote/po/fi_FI.po | 
- | [nl]({{< ref "/f33/language/nl.md" >}}) | 339 | 506 | 67.0 | /mnt/stockage/packages/f33/kanyremote/po/nl_NL.po | 
- | [pt_BR]({{< ref "/f33/language/pt_BR.md" >}}) | 309 | 506 | 61.1 | /mnt/stockage/packages/f33/kanyremote/po/pt_BR.po | 
+ | [bg](/f33/language/bg) | 484 | 506 | 95.7 | /mnt/stockage/packages/f33/kanyremote/po/bg.po | 
+ | [ru](/f33/language/ru) | 484 | 506 | 95.7 | /mnt/stockage/packages/f33/kanyremote/po/ru_RU.po | 
+ | [el](/f33/language/el) | 481 | 506 | 95.1 | /mnt/stockage/packages/f33/kanyremote/po/el_GR.po | 
+ | [de](/f33/language/de) | 479 | 506 | 94.7 | /mnt/stockage/packages/f33/kanyremote/po/de_DE.po | 
+ | [de_AT](/f33/language/de_AT) | 479 | 506 | 94.7 | /mnt/stockage/packages/f33/kanyremote/po/de_AT.po | 
+ | [es](/f33/language/es) | 467 | 506 | 92.3 | /mnt/stockage/packages/f33/kanyremote/po/es_ES.po | 
+ | [hu](/f33/language/hu) | 464 | 506 | 91.7 | /mnt/stockage/packages/f33/kanyremote/po/hu_HU.po | 
+ | [sv](/f33/language/sv) | 456 | 506 | 90.1 | /mnt/stockage/packages/f33/kanyremote/po/sv_SE.po | 
+ | [it](/f33/language/it) | 436 | 506 | 86.2 | /mnt/stockage/packages/f33/kanyremote/po/it_IT.po | 
+ | [cs](/f33/language/cs) | 422 | 506 | 83.4 | /mnt/stockage/packages/f33/kanyremote/po/cs_CZ.po | 
+ | [sk](/f33/language/sk) | 419 | 506 | 82.8 | /mnt/stockage/packages/f33/kanyremote/po/sk_SK.po | 
+ | [fr](/f33/language/fr) | 402 | 506 | 79.4 | /mnt/stockage/packages/f33/kanyremote/po/fr_FR.po | 
+ | [pl](/f33/language/pl) | 393 | 506 | 77.7 | /mnt/stockage/packages/f33/kanyremote/po/pl_PL.po | 
+ | [fi](/f33/language/fi) | 385 | 506 | 76.1 | /mnt/stockage/packages/f33/kanyremote/po/fi_FI.po | 
+ | [nl](/f33/language/nl) | 339 | 506 | 67.0 | /mnt/stockage/packages/f33/kanyremote/po/nl_NL.po | 
+ | [pt_BR](/f33/language/pt_BR) | 309 | 506 | 61.1 | /mnt/stockage/packages/f33/kanyremote/po/pt_BR.po | 
 {.sortable}
 
 

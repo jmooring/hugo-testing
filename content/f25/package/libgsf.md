@@ -18,50 +18,50 @@ The package libgsf (version 1.14.33):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [bs]({{< ref "/f25/language/bs.md" >}}) | 719 | 719 | 100.0 | /mnt/stockage/packages/f25/libgsf/po/bs.po | 
- | [ca]({{< ref "/f25/language/ca.md" >}}) | 696 | 696 | 100.0 | /mnt/stockage/packages/f25/libgsf/po/ca.po | 
- | [ca@valencia]({{< ref "/f25/language/ca@valencia.md" >}}) | 696 | 696 | 100.0 | /mnt/stockage/packages/f25/libgsf/po/ca@valencia.po | 
- | [cs]({{< ref "/f25/language/cs.md" >}}) | 719 | 719 | 100.0 | /mnt/stockage/packages/f25/libgsf/po/cs.po | 
- | [da]({{< ref "/f25/language/da.md" >}}) | 696 | 696 | 100.0 | /mnt/stockage/packages/f25/libgsf/po/da.po | 
- | [de]({{< ref "/f25/language/de.md" >}}) | 713 | 713 | 100.0 | /mnt/stockage/packages/f25/libgsf/po/de.po | 
- | [el]({{< ref "/f25/language/el.md" >}}) | 719 | 719 | 100.0 | /mnt/stockage/packages/f25/libgsf/po/el.po | 
- | [en_GB]({{< ref "/f25/language/en_GB.md" >}}) | 692 | 692 | 100.0 | /mnt/stockage/packages/f25/libgsf/po/en_GB.po | 
- | [es]({{< ref "/f25/language/es.md" >}}) | 719 | 719 | 100.0 | /mnt/stockage/packages/f25/libgsf/po/es.po | 
- | [eu]({{< ref "/f25/language/eu.md" >}}) | 719 | 719 | 100.0 | /mnt/stockage/packages/f25/libgsf/po/eu.po | 
- | [fi]({{< ref "/f25/language/fi.md" >}}) | 696 | 696 | 100.0 | /mnt/stockage/packages/f25/libgsf/po/fi.po | 
- | [fr]({{< ref "/f25/language/fr.md" >}}) | 696 | 696 | 100.0 | /mnt/stockage/packages/f25/libgsf/po/fr.po | 
- | [gl]({{< ref "/f25/language/gl.md" >}}) | 696 | 696 | 100.0 | /mnt/stockage/packages/f25/libgsf/po/gl.po | 
- | [he]({{< ref "/f25/language/he.md" >}}) | 696 | 696 | 100.0 | /mnt/stockage/packages/f25/libgsf/po/he.po | 
- | [hu]({{< ref "/f25/language/hu.md" >}}) | 719 | 719 | 100.0 | /mnt/stockage/packages/f25/libgsf/po/hu.po | 
- | [id]({{< ref "/f25/language/id.md" >}}) | 719 | 719 | 100.0 | /mnt/stockage/packages/f25/libgsf/po/id.po | 
- | [it]({{< ref "/f25/language/it.md" >}}) | 696 | 696 | 100.0 | /mnt/stockage/packages/f25/libgsf/po/it.po | 
- | [ko]({{< ref "/f25/language/ko.md" >}}) | 696 | 696 | 100.0 | /mnt/stockage/packages/f25/libgsf/po/ko.po | 
- | [lt]({{< ref "/f25/language/lt.md" >}}) | 696 | 696 | 100.0 | /mnt/stockage/packages/f25/libgsf/po/lt.po | 
- | [lv]({{< ref "/f25/language/lv.md" >}}) | 696 | 696 | 100.0 | /mnt/stockage/packages/f25/libgsf/po/lv.po | 
- | [pl]({{< ref "/f25/language/pl.md" >}}) | 719 | 719 | 100.0 | /mnt/stockage/packages/f25/libgsf/po/pl.po | 
- | [pt]({{< ref "/f25/language/pt.md" >}}) | 696 | 696 | 100.0 | /mnt/stockage/packages/f25/libgsf/po/pt.po | 
- | [pt_BR]({{< ref "/f25/language/pt_BR.md" >}}) | 719 | 719 | 100.0 | /mnt/stockage/packages/f25/libgsf/po/pt_BR.po | 
- | [ro]({{< ref "/f25/language/ro.md" >}}) | 843 | 843 | 100.0 | /mnt/stockage/packages/f25/libgsf/po/ro.po | 
- | [ru]({{< ref "/f25/language/ru.md" >}}) | 719 | 719 | 100.0 | /mnt/stockage/packages/f25/libgsf/po/ru.po | 
- | [sk]({{< ref "/f25/language/sk.md" >}}) | 696 | 696 | 100.0 | /mnt/stockage/packages/f25/libgsf/po/sk.po | 
- | [sl]({{< ref "/f25/language/sl.md" >}}) | 719 | 719 | 100.0 | /mnt/stockage/packages/f25/libgsf/po/sl.po | 
- | [sr]({{< ref "/f25/language/sr.md" >}}) | 1438 | 1438 | 100.0 | /mnt/stockage/packages/f25/libgsf/po/sr@latin.po/mnt/stockage/packages/f25/libgsf/po/sr.po | 
- | [sv]({{< ref "/f25/language/sv.md" >}}) | 843 | 843 | 100.0 | /mnt/stockage/packages/f25/libgsf/po/sv.po | 
- | [ta]({{< ref "/f25/language/ta.md" >}}) | 243 | 243 | 100.0 | /mnt/stockage/packages/f25/libgsf/po/ta.po | 
- | [tr]({{< ref "/f25/language/tr.md" >}}) | 719 | 719 | 100.0 | /mnt/stockage/packages/f25/libgsf/po/tr.po | 
- | [uk]({{< ref "/f25/language/uk.md" >}}) | 213 | 213 | 100.0 | /mnt/stockage/packages/f25/libgsf/po/uk.po | 
- | [zh_Hans]({{< ref "/f25/language/zh_Hans.md" >}}) | 696 | 696 | 100.0 | /mnt/stockage/packages/f25/libgsf/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f25/language/zh_Hant.md" >}}) | 1392 | 1392 | 100.0 | /mnt/stockage/packages/f25/libgsf/po/zh_TW.po/mnt/stockage/packages/f25/libgsf/po/zh_HK.po | 
- | [ja]({{< ref "/f25/language/ja.md" >}}) | 692 | 696 | 99.4 | /mnt/stockage/packages/f25/libgsf/po/ja.po | 
- | [nn]({{< ref "/f25/language/nn.md" >}}) | 833 | 843 | 98.8 | /mnt/stockage/packages/f25/libgsf/po/nn.po | 
- | [eo]({{< ref "/f25/language/eo.md" >}}) | 491 | 696 | 70.5 | /mnt/stockage/packages/f25/libgsf/po/eo.po | 
- | [th]({{< ref "/f25/language/th.md" >}}) | 413 | 696 | 59.3 | /mnt/stockage/packages/f25/libgsf/po/th.po | 
- | [nb_NO]({{< ref "/f25/language/nb_NO.md" >}}) | 359 | 696 | 51.6 | /mnt/stockage/packages/f25/libgsf/po/nb.po | 
- | [pa]({{< ref "/f25/language/pa.md" >}}) | 69 | 843 | 8.2 | /mnt/stockage/packages/f25/libgsf/po/pa.po | 
- | [ml]({{< ref "/f25/language/ml.md" >}}) | 27 | 696 | 3.9 | /mnt/stockage/packages/f25/libgsf/po/ml.po | 
- | [as]({{< ref "/f25/language/as.md" >}}) | 9 | 696 | 1.3 | /mnt/stockage/packages/f25/libgsf/po/as.po | 
- | [tg]({{< ref "/f25/language/tg.md" >}}) | 5 | 702 | 0.7 | /mnt/stockage/packages/f25/libgsf/po/tg.po | 
- | [oc]({{< ref "/f25/language/oc.md" >}}) | 0 | 77 | 0.0 | /mnt/stockage/packages/f25/libgsf/po/oc.po | 
+ | [bs](/f25/language/bs) | 719 | 719 | 100.0 | /mnt/stockage/packages/f25/libgsf/po/bs.po | 
+ | [ca](/f25/language/ca) | 696 | 696 | 100.0 | /mnt/stockage/packages/f25/libgsf/po/ca.po | 
+ | [ca@valencia](/f25/language/ca@valencia) | 696 | 696 | 100.0 | /mnt/stockage/packages/f25/libgsf/po/ca@valencia.po | 
+ | [cs](/f25/language/cs) | 719 | 719 | 100.0 | /mnt/stockage/packages/f25/libgsf/po/cs.po | 
+ | [da](/f25/language/da) | 696 | 696 | 100.0 | /mnt/stockage/packages/f25/libgsf/po/da.po | 
+ | [de](/f25/language/de) | 713 | 713 | 100.0 | /mnt/stockage/packages/f25/libgsf/po/de.po | 
+ | [el](/f25/language/el) | 719 | 719 | 100.0 | /mnt/stockage/packages/f25/libgsf/po/el.po | 
+ | [en_GB](/f25/language/en_GB) | 692 | 692 | 100.0 | /mnt/stockage/packages/f25/libgsf/po/en_GB.po | 
+ | [es](/f25/language/es) | 719 | 719 | 100.0 | /mnt/stockage/packages/f25/libgsf/po/es.po | 
+ | [eu](/f25/language/eu) | 719 | 719 | 100.0 | /mnt/stockage/packages/f25/libgsf/po/eu.po | 
+ | [fi](/f25/language/fi) | 696 | 696 | 100.0 | /mnt/stockage/packages/f25/libgsf/po/fi.po | 
+ | [fr](/f25/language/fr) | 696 | 696 | 100.0 | /mnt/stockage/packages/f25/libgsf/po/fr.po | 
+ | [gl](/f25/language/gl) | 696 | 696 | 100.0 | /mnt/stockage/packages/f25/libgsf/po/gl.po | 
+ | [he](/f25/language/he) | 696 | 696 | 100.0 | /mnt/stockage/packages/f25/libgsf/po/he.po | 
+ | [hu](/f25/language/hu) | 719 | 719 | 100.0 | /mnt/stockage/packages/f25/libgsf/po/hu.po | 
+ | [id](/f25/language/id) | 719 | 719 | 100.0 | /mnt/stockage/packages/f25/libgsf/po/id.po | 
+ | [it](/f25/language/it) | 696 | 696 | 100.0 | /mnt/stockage/packages/f25/libgsf/po/it.po | 
+ | [ko](/f25/language/ko) | 696 | 696 | 100.0 | /mnt/stockage/packages/f25/libgsf/po/ko.po | 
+ | [lt](/f25/language/lt) | 696 | 696 | 100.0 | /mnt/stockage/packages/f25/libgsf/po/lt.po | 
+ | [lv](/f25/language/lv) | 696 | 696 | 100.0 | /mnt/stockage/packages/f25/libgsf/po/lv.po | 
+ | [pl](/f25/language/pl) | 719 | 719 | 100.0 | /mnt/stockage/packages/f25/libgsf/po/pl.po | 
+ | [pt](/f25/language/pt) | 696 | 696 | 100.0 | /mnt/stockage/packages/f25/libgsf/po/pt.po | 
+ | [pt_BR](/f25/language/pt_BR) | 719 | 719 | 100.0 | /mnt/stockage/packages/f25/libgsf/po/pt_BR.po | 
+ | [ro](/f25/language/ro) | 843 | 843 | 100.0 | /mnt/stockage/packages/f25/libgsf/po/ro.po | 
+ | [ru](/f25/language/ru) | 719 | 719 | 100.0 | /mnt/stockage/packages/f25/libgsf/po/ru.po | 
+ | [sk](/f25/language/sk) | 696 | 696 | 100.0 | /mnt/stockage/packages/f25/libgsf/po/sk.po | 
+ | [sl](/f25/language/sl) | 719 | 719 | 100.0 | /mnt/stockage/packages/f25/libgsf/po/sl.po | 
+ | [sr](/f25/language/sr) | 1438 | 1438 | 100.0 | /mnt/stockage/packages/f25/libgsf/po/sr@latin.po/mnt/stockage/packages/f25/libgsf/po/sr.po | 
+ | [sv](/f25/language/sv) | 843 | 843 | 100.0 | /mnt/stockage/packages/f25/libgsf/po/sv.po | 
+ | [ta](/f25/language/ta) | 243 | 243 | 100.0 | /mnt/stockage/packages/f25/libgsf/po/ta.po | 
+ | [tr](/f25/language/tr) | 719 | 719 | 100.0 | /mnt/stockage/packages/f25/libgsf/po/tr.po | 
+ | [uk](/f25/language/uk) | 213 | 213 | 100.0 | /mnt/stockage/packages/f25/libgsf/po/uk.po | 
+ | [zh_Hans](/f25/language/zh_Hans) | 696 | 696 | 100.0 | /mnt/stockage/packages/f25/libgsf/po/zh_CN.po | 
+ | [zh_Hant](/f25/language/zh_Hant) | 1392 | 1392 | 100.0 | /mnt/stockage/packages/f25/libgsf/po/zh_TW.po/mnt/stockage/packages/f25/libgsf/po/zh_HK.po | 
+ | [ja](/f25/language/ja) | 692 | 696 | 99.4 | /mnt/stockage/packages/f25/libgsf/po/ja.po | 
+ | [nn](/f25/language/nn) | 833 | 843 | 98.8 | /mnt/stockage/packages/f25/libgsf/po/nn.po | 
+ | [eo](/f25/language/eo) | 491 | 696 | 70.5 | /mnt/stockage/packages/f25/libgsf/po/eo.po | 
+ | [th](/f25/language/th) | 413 | 696 | 59.3 | /mnt/stockage/packages/f25/libgsf/po/th.po | 
+ | [nb_NO](/f25/language/nb_NO) | 359 | 696 | 51.6 | /mnt/stockage/packages/f25/libgsf/po/nb.po | 
+ | [pa](/f25/language/pa) | 69 | 843 | 8.2 | /mnt/stockage/packages/f25/libgsf/po/pa.po | 
+ | [ml](/f25/language/ml) | 27 | 696 | 3.9 | /mnt/stockage/packages/f25/libgsf/po/ml.po | 
+ | [as](/f25/language/as) | 9 | 696 | 1.3 | /mnt/stockage/packages/f25/libgsf/po/as.po | 
+ | [tg](/f25/language/tg) | 5 | 702 | 0.7 | /mnt/stockage/packages/f25/libgsf/po/tg.po | 
+ | [oc](/f25/language/oc) | 0 | 77 | 0.0 | /mnt/stockage/packages/f25/libgsf/po/oc.po | 
 {.sortable}
 
 

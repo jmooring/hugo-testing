@@ -39,11 +39,11 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [kde-i18n]({{< ref "/f7/package/kde-i18n.md" >}}) | 181 | 181 | 100.0 | Chinese (traditional) <zh-l10n@linux.org.tw> | 
- | [pida]({{< ref "/f7/package/pida.md" >}}) | 7 | 7 | 100.0 |  | 
- | [shadow-utils]({{< ref "/f7/package/shadow-utils.md" >}}) | 10869 | 10869 | 100.0 | Debian French Team <debian-l10n-french@lists.debian.org> | 
- | [po4a]({{< ref "/f7/package/po4a.md" >}}) | 0 | 35 | 0.0 | LANGUAGE <LL@li.org> | 
- | [wine-docs]({{< ref "/f7/package/wine-docs.md" >}}) | 0 | 38 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [kde-i18n](/f7/package/kde-i18n) | 181 | 181 | 100.0 | Chinese (traditional) <zh-l10n@linux.org.tw> | 
+ | [pida](/f7/package/pida) | 7 | 7 | 100.0 |  | 
+ | [shadow-utils](/f7/package/shadow-utils) | 10869 | 10869 | 100.0 | Debian French Team <debian-l10n-french@lists.debian.org> | 
+ | [po4a](/f7/package/po4a) | 0 | 35 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [wine-docs](/f7/package/wine-docs) | 0 | 38 | 0.0 | LANGUAGE <LL@li.org> | 
 {.sortable}
 
 

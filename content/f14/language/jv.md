@@ -39,14 +39,14 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [terminator]({{< ref "/f14/package/terminator.md" >}}) | 270 | 339 | 79.6 | Javanese <jv@li.org> | 
- | [gnome-do]({{< ref "/f14/package/gnome-do.md" >}}) | 29 | 612 | 4.7 | Javanese <jv@li.org> | 
- | [gmpc]({{< ref "/f14/package/gmpc.md" >}}) | 29 | 1444 | 2.0 | Javanese <jv@li.org> | 
- | [backintime]({{< ref "/f14/package/backintime.md" >}}) | 15 | 919 | 1.6 | Javanese <jv@li.org> | 
- | [avant-window-navigator]({{< ref "/f14/package/avant-window-navigator.md" >}}) | 5 | 1655 | 0.3 | Javanese <jv@li.org> | 
- | [ailurus]({{< ref "/f14/package/ailurus.md" >}}) | 0 | 8446 | 0.0 | none | 
- | [vidalia]({{< ref "/f14/package/vidalia.md" >}}) | 0 | 9310 | 0.0 | LANGUAGE <LL@li.org> | 
- | [viking]({{< ref "/f14/package/viking.md" >}}) | 0 | 2035 | 0.0 | Javanese <jv@li.org> | 
+ | [terminator](/f14/package/terminator) | 270 | 339 | 79.6 | Javanese <jv@li.org> | 
+ | [gnome-do](/f14/package/gnome-do) | 29 | 612 | 4.7 | Javanese <jv@li.org> | 
+ | [gmpc](/f14/package/gmpc) | 29 | 1444 | 2.0 | Javanese <jv@li.org> | 
+ | [backintime](/f14/package/backintime) | 15 | 919 | 1.6 | Javanese <jv@li.org> | 
+ | [avant-window-navigator](/f14/package/avant-window-navigator) | 5 | 1655 | 0.3 | Javanese <jv@li.org> | 
+ | [ailurus](/f14/package/ailurus) | 0 | 8446 | 0.0 | none | 
+ | [vidalia](/f14/package/vidalia) | 0 | 9310 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [viking](/f14/package/viking) | 0 | 2035 | 0.0 | Javanese <jv@li.org> | 
 {.sortable}
 
 

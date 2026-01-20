@@ -18,10 +18,10 @@ The package gpaste (version 3.2.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f18/language/fr.md" >}}) | 633 | 633 | 100.0 | /mnt/stockage/packages/f18/gpaste/po/fr.po | 
- | [pt_BR]({{< ref "/f18/language/pt_BR.md" >}}) | 545 | 633 | 86.1 | /mnt/stockage/packages/f18/gpaste/po/pt_BR.po | 
- | [es]({{< ref "/f18/language/es.md" >}}) | 540 | 633 | 85.3 | /mnt/stockage/packages/f18/gpaste/po/es.po | 
- | [fi]({{< ref "/f18/language/fi.md" >}}) | 510 | 633 | 80.6 | /mnt/stockage/packages/f18/gpaste/po/fi.po | 
+ | [fr](/f18/language/fr) | 633 | 633 | 100.0 | /mnt/stockage/packages/f18/gpaste/po/fr.po | 
+ | [pt_BR](/f18/language/pt_BR) | 545 | 633 | 86.1 | /mnt/stockage/packages/f18/gpaste/po/pt_BR.po | 
+ | [es](/f18/language/es) | 540 | 633 | 85.3 | /mnt/stockage/packages/f18/gpaste/po/es.po | 
+ | [fi](/f18/language/fi) | 510 | 633 | 80.6 | /mnt/stockage/packages/f18/gpaste/po/fi.po | 
 {.sortable}
 
 

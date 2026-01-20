@@ -18,7 +18,7 @@ The package bootconf (version 1.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ru]({{< ref "/f14/language/ru.md" >}}) | 44 | 44 | 100.0 | /mnt/stockage/packages/f14/bootconf/ru.po | 
+ | [ru](/f14/language/ru) | 44 | 44 | 100.0 | /mnt/stockage/packages/f14/bootconf/ru.po | 
 {.sortable}
 
 

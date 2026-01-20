@@ -18,13 +18,13 @@ The package exiv2 (version 0.22):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f17/language/de.md" >}}) | 14257 | 26960 | 52.9 | /mnt/stockage/packages/f17/exiv2/po/de.po | 
- | [pl]({{< ref "/f17/language/pl.md" >}}) | 13430 | 26960 | 49.8 | /mnt/stockage/packages/f17/exiv2/po/pl.po | 
- | [sk]({{< ref "/f17/language/sk.md" >}}) | 9941 | 26960 | 36.9 | /mnt/stockage/packages/f17/exiv2/po/sk.po | 
- | [fr]({{< ref "/f17/language/fr.md" >}}) | 5082 | 26960 | 18.9 | /mnt/stockage/packages/f17/exiv2/po/fr.po | 
- | [es]({{< ref "/f17/language/es.md" >}}) | 3936 | 26960 | 14.6 | /mnt/stockage/packages/f17/exiv2/po/es.po | 
- | [ru]({{< ref "/f17/language/ru.md" >}}) | 3836 | 26960 | 14.2 | /mnt/stockage/packages/f17/exiv2/po/ru.po | 
- | [fi]({{< ref "/f17/language/fi.md" >}}) | 850 | 26960 | 3.2 | /mnt/stockage/packages/f17/exiv2/po/fi.po | 
+ | [de](/f17/language/de) | 14257 | 26960 | 52.9 | /mnt/stockage/packages/f17/exiv2/po/de.po | 
+ | [pl](/f17/language/pl) | 13430 | 26960 | 49.8 | /mnt/stockage/packages/f17/exiv2/po/pl.po | 
+ | [sk](/f17/language/sk) | 9941 | 26960 | 36.9 | /mnt/stockage/packages/f17/exiv2/po/sk.po | 
+ | [fr](/f17/language/fr) | 5082 | 26960 | 18.9 | /mnt/stockage/packages/f17/exiv2/po/fr.po | 
+ | [es](/f17/language/es) | 3936 | 26960 | 14.6 | /mnt/stockage/packages/f17/exiv2/po/es.po | 
+ | [ru](/f17/language/ru) | 3836 | 26960 | 14.2 | /mnt/stockage/packages/f17/exiv2/po/ru.po | 
+ | [fi](/f17/language/fi) | 850 | 26960 | 3.2 | /mnt/stockage/packages/f17/exiv2/po/fi.po | 
 {.sortable}
 
 

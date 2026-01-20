@@ -18,48 +18,48 @@ The package NetworkManager-openswan (version 0.9.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [bg]({{< ref "/f16/language/bg.md" >}}) | 133 | 133 | 100.0 | /mnt/stockage/packages/f16/NetworkManager-openswan/po/bg.po | 
- | [ca]({{< ref "/f16/language/ca.md" >}}) | 139 | 139 | 100.0 | /mnt/stockage/packages/f16/NetworkManager-openswan/po/ca.po | 
- | [cs]({{< ref "/f16/language/cs.md" >}}) | 139 | 139 | 100.0 | /mnt/stockage/packages/f16/NetworkManager-openswan/po/cs.po | 
- | [da]({{< ref "/f16/language/da.md" >}}) | 139 | 139 | 100.0 | /mnt/stockage/packages/f16/NetworkManager-openswan/po/da.po | 
- | [de]({{< ref "/f16/language/de.md" >}}) | 139 | 139 | 100.0 | /mnt/stockage/packages/f16/NetworkManager-openswan/po/de.po | 
- | [dz]({{< ref "/f16/language/dz.md" >}}) | 328 | 328 | 100.0 | /mnt/stockage/packages/f16/NetworkManager-openswan/po/dz.po | 
- | [el]({{< ref "/f16/language/el.md" >}}) | 139 | 139 | 100.0 | /mnt/stockage/packages/f16/NetworkManager-openswan/po/el.po | 
- | [en_GB]({{< ref "/f16/language/en_GB.md" >}}) | 303 | 303 | 100.0 | /mnt/stockage/packages/f16/NetworkManager-openswan/po/en_GB.po | 
- | [es]({{< ref "/f16/language/es.md" >}}) | 139 | 139 | 100.0 | /mnt/stockage/packages/f16/NetworkManager-openswan/po/es.po | 
- | [et]({{< ref "/f16/language/et.md" >}}) | 139 | 139 | 100.0 | /mnt/stockage/packages/f16/NetworkManager-openswan/po/et.po | 
- | [eu]({{< ref "/f16/language/eu.md" >}}) | 139 | 139 | 100.0 | /mnt/stockage/packages/f16/NetworkManager-openswan/po/eu.po | 
- | [fi]({{< ref "/f16/language/fi.md" >}}) | 144 | 144 | 100.0 | /mnt/stockage/packages/f16/NetworkManager-openswan/po/fi.po | 
- | [fr]({{< ref "/f16/language/fr.md" >}}) | 139 | 139 | 100.0 | /mnt/stockage/packages/f16/NetworkManager-openswan/po/fr.po | 
- | [gl]({{< ref "/f16/language/gl.md" >}}) | 139 | 139 | 100.0 | /mnt/stockage/packages/f16/NetworkManager-openswan/po/gl.po | 
- | [gu]({{< ref "/f16/language/gu.md" >}}) | 139 | 139 | 100.0 | /mnt/stockage/packages/f16/NetworkManager-openswan/po/gu.po | 
- | [hu]({{< ref "/f16/language/hu.md" >}}) | 139 | 139 | 100.0 | /mnt/stockage/packages/f16/NetworkManager-openswan/po/hu.po | 
- | [it]({{< ref "/f16/language/it.md" >}}) | 139 | 139 | 100.0 | /mnt/stockage/packages/f16/NetworkManager-openswan/po/it.po | 
- | [ja]({{< ref "/f16/language/ja.md" >}}) | 347 | 347 | 100.0 | /mnt/stockage/packages/f16/NetworkManager-openswan/po/ja.po | 
- | [ka]({{< ref "/f16/language/ka.md" >}}) | 328 | 328 | 100.0 | /mnt/stockage/packages/f16/NetworkManager-openswan/po/ka.po | 
- | [ko]({{< ref "/f16/language/ko.md" >}}) | 376 | 376 | 100.0 | /mnt/stockage/packages/f16/NetworkManager-openswan/po/ko.po | 
- | [lt]({{< ref "/f16/language/lt.md" >}}) | 139 | 139 | 100.0 | /mnt/stockage/packages/f16/NetworkManager-openswan/po/lt.po | 
- | [mr]({{< ref "/f16/language/mr.md" >}}) | 139 | 139 | 100.0 | /mnt/stockage/packages/f16/NetworkManager-openswan/po/mr.po | 
- | [nb_NO]({{< ref "/f16/language/nb_NO.md" >}}) | 303 | 303 | 100.0 | /mnt/stockage/packages/f16/NetworkManager-openswan/po/nb.po | 
- | [nl]({{< ref "/f16/language/nl.md" >}}) | 139 | 139 | 100.0 | /mnt/stockage/packages/f16/NetworkManager-openswan/po/nl.po | 
- | [or]({{< ref "/f16/language/or.md" >}}) | 139 | 139 | 100.0 | /mnt/stockage/packages/f16/NetworkManager-openswan/po/or.po | 
- | [pa]({{< ref "/f16/language/pa.md" >}}) | 139 | 139 | 100.0 | /mnt/stockage/packages/f16/NetworkManager-openswan/po/pa.po | 
- | [pl]({{< ref "/f16/language/pl.md" >}}) | 93 | 93 | 100.0 | /mnt/stockage/packages/f16/NetworkManager-openswan/po/pl.po | 
- | [pt]({{< ref "/f16/language/pt.md" >}}) | 139 | 139 | 100.0 | /mnt/stockage/packages/f16/NetworkManager-openswan/po/pt.po | 
- | [pt_BR]({{< ref "/f16/language/pt_BR.md" >}}) | 139 | 139 | 100.0 | /mnt/stockage/packages/f16/NetworkManager-openswan/po/pt_BR.po | 
- | [ru]({{< ref "/f16/language/ru.md" >}}) | 139 | 139 | 100.0 | /mnt/stockage/packages/f16/NetworkManager-openswan/po/ru.po | 
- | [sl]({{< ref "/f16/language/sl.md" >}}) | 304 | 304 | 100.0 | /mnt/stockage/packages/f16/NetworkManager-openswan/po/sl.po | 
- | [sv]({{< ref "/f16/language/sv.md" >}}) | 139 | 139 | 100.0 | /mnt/stockage/packages/f16/NetworkManager-openswan/po/sv.po | 
- | [ta]({{< ref "/f16/language/ta.md" >}}) | 139 | 139 | 100.0 | /mnt/stockage/packages/f16/NetworkManager-openswan/po/ta.po | 
- | [te]({{< ref "/f16/language/te.md" >}}) | 139 | 139 | 100.0 | /mnt/stockage/packages/f16/NetworkManager-openswan/po/te.po | 
- | [th]({{< ref "/f16/language/th.md" >}}) | 328 | 328 | 100.0 | /mnt/stockage/packages/f16/NetworkManager-openswan/po/th.po | 
- | [uk]({{< ref "/f16/language/uk.md" >}}) | 304 | 304 | 100.0 | /mnt/stockage/packages/f16/NetworkManager-openswan/po/uk.po | 
- | [vi]({{< ref "/f16/language/vi.md" >}}) | 303 | 303 | 100.0 | /mnt/stockage/packages/f16/NetworkManager-openswan/po/vi.po | 
- | [zh_Hans]({{< ref "/f16/language/zh_Hans.md" >}}) | 139 | 139 | 100.0 | /mnt/stockage/packages/f16/NetworkManager-openswan/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f16/language/zh_Hant.md" >}}) | 137 | 139 | 98.6 | /mnt/stockage/packages/f16/NetworkManager-openswan/po/zh_TW.po | 
- | [zh_Hant_HK]({{< ref "/f16/language/zh_Hant_HK.md" >}}) | 137 | 139 | 98.6 | /mnt/stockage/packages/f16/NetworkManager-openswan/po/zh_HK.po | 
- | [mk]({{< ref "/f16/language/mk.md" >}}) | 129 | 133 | 97.0 | /mnt/stockage/packages/f16/NetworkManager-openswan/po/mk.po | 
- | [ar]({{< ref "/f16/language/ar.md" >}}) | 89 | 133 | 66.9 | /mnt/stockage/packages/f16/NetworkManager-openswan/po/ar.po | 
+ | [bg](/f16/language/bg) | 133 | 133 | 100.0 | /mnt/stockage/packages/f16/NetworkManager-openswan/po/bg.po | 
+ | [ca](/f16/language/ca) | 139 | 139 | 100.0 | /mnt/stockage/packages/f16/NetworkManager-openswan/po/ca.po | 
+ | [cs](/f16/language/cs) | 139 | 139 | 100.0 | /mnt/stockage/packages/f16/NetworkManager-openswan/po/cs.po | 
+ | [da](/f16/language/da) | 139 | 139 | 100.0 | /mnt/stockage/packages/f16/NetworkManager-openswan/po/da.po | 
+ | [de](/f16/language/de) | 139 | 139 | 100.0 | /mnt/stockage/packages/f16/NetworkManager-openswan/po/de.po | 
+ | [dz](/f16/language/dz) | 328 | 328 | 100.0 | /mnt/stockage/packages/f16/NetworkManager-openswan/po/dz.po | 
+ | [el](/f16/language/el) | 139 | 139 | 100.0 | /mnt/stockage/packages/f16/NetworkManager-openswan/po/el.po | 
+ | [en_GB](/f16/language/en_GB) | 303 | 303 | 100.0 | /mnt/stockage/packages/f16/NetworkManager-openswan/po/en_GB.po | 
+ | [es](/f16/language/es) | 139 | 139 | 100.0 | /mnt/stockage/packages/f16/NetworkManager-openswan/po/es.po | 
+ | [et](/f16/language/et) | 139 | 139 | 100.0 | /mnt/stockage/packages/f16/NetworkManager-openswan/po/et.po | 
+ | [eu](/f16/language/eu) | 139 | 139 | 100.0 | /mnt/stockage/packages/f16/NetworkManager-openswan/po/eu.po | 
+ | [fi](/f16/language/fi) | 144 | 144 | 100.0 | /mnt/stockage/packages/f16/NetworkManager-openswan/po/fi.po | 
+ | [fr](/f16/language/fr) | 139 | 139 | 100.0 | /mnt/stockage/packages/f16/NetworkManager-openswan/po/fr.po | 
+ | [gl](/f16/language/gl) | 139 | 139 | 100.0 | /mnt/stockage/packages/f16/NetworkManager-openswan/po/gl.po | 
+ | [gu](/f16/language/gu) | 139 | 139 | 100.0 | /mnt/stockage/packages/f16/NetworkManager-openswan/po/gu.po | 
+ | [hu](/f16/language/hu) | 139 | 139 | 100.0 | /mnt/stockage/packages/f16/NetworkManager-openswan/po/hu.po | 
+ | [it](/f16/language/it) | 139 | 139 | 100.0 | /mnt/stockage/packages/f16/NetworkManager-openswan/po/it.po | 
+ | [ja](/f16/language/ja) | 347 | 347 | 100.0 | /mnt/stockage/packages/f16/NetworkManager-openswan/po/ja.po | 
+ | [ka](/f16/language/ka) | 328 | 328 | 100.0 | /mnt/stockage/packages/f16/NetworkManager-openswan/po/ka.po | 
+ | [ko](/f16/language/ko) | 376 | 376 | 100.0 | /mnt/stockage/packages/f16/NetworkManager-openswan/po/ko.po | 
+ | [lt](/f16/language/lt) | 139 | 139 | 100.0 | /mnt/stockage/packages/f16/NetworkManager-openswan/po/lt.po | 
+ | [mr](/f16/language/mr) | 139 | 139 | 100.0 | /mnt/stockage/packages/f16/NetworkManager-openswan/po/mr.po | 
+ | [nb_NO](/f16/language/nb_NO) | 303 | 303 | 100.0 | /mnt/stockage/packages/f16/NetworkManager-openswan/po/nb.po | 
+ | [nl](/f16/language/nl) | 139 | 139 | 100.0 | /mnt/stockage/packages/f16/NetworkManager-openswan/po/nl.po | 
+ | [or](/f16/language/or) | 139 | 139 | 100.0 | /mnt/stockage/packages/f16/NetworkManager-openswan/po/or.po | 
+ | [pa](/f16/language/pa) | 139 | 139 | 100.0 | /mnt/stockage/packages/f16/NetworkManager-openswan/po/pa.po | 
+ | [pl](/f16/language/pl) | 93 | 93 | 100.0 | /mnt/stockage/packages/f16/NetworkManager-openswan/po/pl.po | 
+ | [pt](/f16/language/pt) | 139 | 139 | 100.0 | /mnt/stockage/packages/f16/NetworkManager-openswan/po/pt.po | 
+ | [pt_BR](/f16/language/pt_BR) | 139 | 139 | 100.0 | /mnt/stockage/packages/f16/NetworkManager-openswan/po/pt_BR.po | 
+ | [ru](/f16/language/ru) | 139 | 139 | 100.0 | /mnt/stockage/packages/f16/NetworkManager-openswan/po/ru.po | 
+ | [sl](/f16/language/sl) | 304 | 304 | 100.0 | /mnt/stockage/packages/f16/NetworkManager-openswan/po/sl.po | 
+ | [sv](/f16/language/sv) | 139 | 139 | 100.0 | /mnt/stockage/packages/f16/NetworkManager-openswan/po/sv.po | 
+ | [ta](/f16/language/ta) | 139 | 139 | 100.0 | /mnt/stockage/packages/f16/NetworkManager-openswan/po/ta.po | 
+ | [te](/f16/language/te) | 139 | 139 | 100.0 | /mnt/stockage/packages/f16/NetworkManager-openswan/po/te.po | 
+ | [th](/f16/language/th) | 328 | 328 | 100.0 | /mnt/stockage/packages/f16/NetworkManager-openswan/po/th.po | 
+ | [uk](/f16/language/uk) | 304 | 304 | 100.0 | /mnt/stockage/packages/f16/NetworkManager-openswan/po/uk.po | 
+ | [vi](/f16/language/vi) | 303 | 303 | 100.0 | /mnt/stockage/packages/f16/NetworkManager-openswan/po/vi.po | 
+ | [zh_Hans](/f16/language/zh_Hans) | 139 | 139 | 100.0 | /mnt/stockage/packages/f16/NetworkManager-openswan/po/zh_CN.po | 
+ | [zh_Hant](/f16/language/zh_Hant) | 137 | 139 | 98.6 | /mnt/stockage/packages/f16/NetworkManager-openswan/po/zh_TW.po | 
+ | [zh_Hant_HK](/f16/language/zh_Hant_HK) | 137 | 139 | 98.6 | /mnt/stockage/packages/f16/NetworkManager-openswan/po/zh_HK.po | 
+ | [mk](/f16/language/mk) | 129 | 133 | 97.0 | /mnt/stockage/packages/f16/NetworkManager-openswan/po/mk.po | 
+ | [ar](/f16/language/ar) | 89 | 133 | 66.9 | /mnt/stockage/packages/f16/NetworkManager-openswan/po/ar.po | 
 {.sortable}
 
 

@@ -18,23 +18,23 @@ The package ufraw (version 0.19.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [da]({{< ref "/f18/language/da.md" >}}) | 2168 | 2168 | 100.0 | /mnt/stockage/packages/f18/ufraw/po/da.po | 
- | [fr]({{< ref "/f18/language/fr.md" >}}) | 2168 | 2168 | 100.0 | /mnt/stockage/packages/f18/ufraw/po/fr.po | 
- | [de]({{< ref "/f18/language/de.md" >}}) | 2090 | 2168 | 96.4 | /mnt/stockage/packages/f18/ufraw/po/de.po | 
- | [cs]({{< ref "/f18/language/cs.md" >}}) | 2085 | 2168 | 96.2 | /mnt/stockage/packages/f18/ufraw/po/cs.po | 
- | [nl]({{< ref "/f18/language/nl.md" >}}) | 2085 | 2168 | 96.2 | /mnt/stockage/packages/f18/ufraw/po/nl.po | 
- | [pl]({{< ref "/f18/language/pl.md" >}}) | 2085 | 2168 | 96.2 | /mnt/stockage/packages/f18/ufraw/po/pl.po | 
- | [ca]({{< ref "/f18/language/ca.md" >}}) | 2070 | 2168 | 95.5 | /mnt/stockage/packages/f18/ufraw/po/ca.po | 
- | [es]({{< ref "/f18/language/es.md" >}}) | 2070 | 2168 | 95.5 | /mnt/stockage/packages/f18/ufraw/po/es.po | 
- | [ko]({{< ref "/f18/language/ko.md" >}}) | 2070 | 2168 | 95.5 | /mnt/stockage/packages/f18/ufraw/po/ko.po | 
- | [ru]({{< ref "/f18/language/ru.md" >}}) | 2070 | 2168 | 95.5 | /mnt/stockage/packages/f18/ufraw/po/ru.po | 
- | [sr]({{< ref "/f18/language/sr.md" >}}) | 4140 | 4336 | 95.5 | /mnt/stockage/packages/f18/ufraw/po/sr.po/mnt/stockage/packages/f18/ufraw/po/sr@latin.po | 
- | [nb_NO]({{< ref "/f18/language/nb_NO.md" >}}) | 2068 | 2168 | 95.4 | /mnt/stockage/packages/f18/ufraw/po/nb.po | 
- | [it]({{< ref "/f18/language/it.md" >}}) | 2056 | 2168 | 94.8 | /mnt/stockage/packages/f18/ufraw/po/it.po | 
- | [zh_Hans]({{< ref "/f18/language/zh_Hans.md" >}}) | 3952 | 4336 | 91.1 | /mnt/stockage/packages/f18/ufraw/po/zh_CN.po/mnt/stockage/packages/f18/ufraw/po/zh_TW.po | 
- | [pt]({{< ref "/f18/language/pt.md" >}}) | 1891 | 2168 | 87.2 | /mnt/stockage/packages/f18/ufraw/po/pt.po | 
- | [ja]({{< ref "/f18/language/ja.md" >}}) | 1623 | 2168 | 74.9 | /mnt/stockage/packages/f18/ufraw/po/ja.po | 
- | [sv]({{< ref "/f18/language/sv.md" >}}) | 514 | 2168 | 23.7 | /mnt/stockage/packages/f18/ufraw/po/sv.po | 
+ | [da](/f18/language/da) | 2168 | 2168 | 100.0 | /mnt/stockage/packages/f18/ufraw/po/da.po | 
+ | [fr](/f18/language/fr) | 2168 | 2168 | 100.0 | /mnt/stockage/packages/f18/ufraw/po/fr.po | 
+ | [de](/f18/language/de) | 2090 | 2168 | 96.4 | /mnt/stockage/packages/f18/ufraw/po/de.po | 
+ | [cs](/f18/language/cs) | 2085 | 2168 | 96.2 | /mnt/stockage/packages/f18/ufraw/po/cs.po | 
+ | [nl](/f18/language/nl) | 2085 | 2168 | 96.2 | /mnt/stockage/packages/f18/ufraw/po/nl.po | 
+ | [pl](/f18/language/pl) | 2085 | 2168 | 96.2 | /mnt/stockage/packages/f18/ufraw/po/pl.po | 
+ | [ca](/f18/language/ca) | 2070 | 2168 | 95.5 | /mnt/stockage/packages/f18/ufraw/po/ca.po | 
+ | [es](/f18/language/es) | 2070 | 2168 | 95.5 | /mnt/stockage/packages/f18/ufraw/po/es.po | 
+ | [ko](/f18/language/ko) | 2070 | 2168 | 95.5 | /mnt/stockage/packages/f18/ufraw/po/ko.po | 
+ | [ru](/f18/language/ru) | 2070 | 2168 | 95.5 | /mnt/stockage/packages/f18/ufraw/po/ru.po | 
+ | [sr](/f18/language/sr) | 4140 | 4336 | 95.5 | /mnt/stockage/packages/f18/ufraw/po/sr.po/mnt/stockage/packages/f18/ufraw/po/sr@latin.po | 
+ | [nb_NO](/f18/language/nb_NO) | 2068 | 2168 | 95.4 | /mnt/stockage/packages/f18/ufraw/po/nb.po | 
+ | [it](/f18/language/it) | 2056 | 2168 | 94.8 | /mnt/stockage/packages/f18/ufraw/po/it.po | 
+ | [zh_Hans](/f18/language/zh_Hans) | 3952 | 4336 | 91.1 | /mnt/stockage/packages/f18/ufraw/po/zh_CN.po/mnt/stockage/packages/f18/ufraw/po/zh_TW.po | 
+ | [pt](/f18/language/pt) | 1891 | 2168 | 87.2 | /mnt/stockage/packages/f18/ufraw/po/pt.po | 
+ | [ja](/f18/language/ja) | 1623 | 2168 | 74.9 | /mnt/stockage/packages/f18/ufraw/po/ja.po | 
+ | [sv](/f18/language/sv) | 514 | 2168 | 23.7 | /mnt/stockage/packages/f18/ufraw/po/sv.po | 
 {.sortable}
 
 

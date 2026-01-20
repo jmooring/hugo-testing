@@ -18,17 +18,17 @@ The package minder (version 1.13.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [eu]({{< ref "/f33/language/eu.md" >}}) | 1423 | 1423 | 100.0 | /mnt/stockage/packages/f33/minder/po/eu.po | 
- | [it]({{< ref "/f33/language/it.md" >}}) | 1949 | 1985 | 98.2 | /mnt/stockage/packages/f33/minder/po/it.po | 
- | [de]({{< ref "/f33/language/de.md" >}}) | 1413 | 1985 | 71.2 | /mnt/stockage/packages/f33/minder/po/de.po | 
- | [pt]({{< ref "/f33/language/pt.md" >}}) | 3588 | 5931 | 60.5 | /mnt/stockage/packages/f33/minder/po/pt.po/mnt/stockage/packages/f33/minder/po/extra/pt.po | 
- | [fr]({{< ref "/f33/language/fr.md" >}}) | 1961 | 5931 | 33.1 | /mnt/stockage/packages/f33/minder/po/fr.po/mnt/stockage/packages/f33/minder/po/extra/fr.po | 
- | [ru]({{< ref "/f33/language/ru.md" >}}) | 1947 | 5931 | 32.8 | /mnt/stockage/packages/f33/minder/po/ru.po/mnt/stockage/packages/f33/minder/po/extra/ru.po | 
- | [nl]({{< ref "/f33/language/nl.md" >}}) | 513 | 1985 | 25.8 | /mnt/stockage/packages/f33/minder/po/nl.po | 
- | [es]({{< ref "/f33/language/es.md" >}}) | 577 | 5931 | 9.7 | /mnt/stockage/packages/f33/minder/po/es.po/mnt/stockage/packages/f33/minder/po/extra/es.po | 
- | [pt_BR]({{< ref "/f33/language/pt_BR.md" >}}) | 295 | 5931 | 5.0 | /mnt/stockage/packages/f33/minder/po/pt_BR.po/mnt/stockage/packages/f33/minder/po/extra/pt_BR.po | 
- | [pl]({{< ref "/f33/language/pl.md" >}}) | 149 | 5931 | 2.5 | /mnt/stockage/packages/f33/minder/po/pl.po/mnt/stockage/packages/f33/minder/po/extra/pl.po | 
- | [cs]({{< ref "/f33/language/cs.md" >}}) | 135 | 5931 | 2.3 | /mnt/stockage/packages/f33/minder/po/cs.po/mnt/stockage/packages/f33/minder/po/extra/cs.po | 
+ | [eu](/f33/language/eu) | 1423 | 1423 | 100.0 | /mnt/stockage/packages/f33/minder/po/eu.po | 
+ | [it](/f33/language/it) | 1949 | 1985 | 98.2 | /mnt/stockage/packages/f33/minder/po/it.po | 
+ | [de](/f33/language/de) | 1413 | 1985 | 71.2 | /mnt/stockage/packages/f33/minder/po/de.po | 
+ | [pt](/f33/language/pt) | 3588 | 5931 | 60.5 | /mnt/stockage/packages/f33/minder/po/pt.po/mnt/stockage/packages/f33/minder/po/extra/pt.po | 
+ | [fr](/f33/language/fr) | 1961 | 5931 | 33.1 | /mnt/stockage/packages/f33/minder/po/fr.po/mnt/stockage/packages/f33/minder/po/extra/fr.po | 
+ | [ru](/f33/language/ru) | 1947 | 5931 | 32.8 | /mnt/stockage/packages/f33/minder/po/ru.po/mnt/stockage/packages/f33/minder/po/extra/ru.po | 
+ | [nl](/f33/language/nl) | 513 | 1985 | 25.8 | /mnt/stockage/packages/f33/minder/po/nl.po | 
+ | [es](/f33/language/es) | 577 | 5931 | 9.7 | /mnt/stockage/packages/f33/minder/po/es.po/mnt/stockage/packages/f33/minder/po/extra/es.po | 
+ | [pt_BR](/f33/language/pt_BR) | 295 | 5931 | 5.0 | /mnt/stockage/packages/f33/minder/po/pt_BR.po/mnt/stockage/packages/f33/minder/po/extra/pt_BR.po | 
+ | [pl](/f33/language/pl) | 149 | 5931 | 2.5 | /mnt/stockage/packages/f33/minder/po/pl.po/mnt/stockage/packages/f33/minder/po/extra/pl.po | 
+ | [cs](/f33/language/cs) | 135 | 5931 | 2.3 | /mnt/stockage/packages/f33/minder/po/cs.po/mnt/stockage/packages/f33/minder/po/extra/cs.po | 
 {.sortable}
 
 

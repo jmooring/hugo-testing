@@ -18,14 +18,14 @@ The package trytond-country (version 2.2.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f17/language/de.md" >}}) | 6988 | 6988 | 100.0 | /mnt/stockage/packages/f17/trytond-country/locale/de_DE.po | 
- | [es]({{< ref "/f17/language/es.md" >}}) | 6979 | 6979 | 100.0 | /mnt/stockage/packages/f17/trytond-country/locale/es_ES.po | 
- | [es_CO]({{< ref "/f17/language/es_CO.md" >}}) | 6979 | 6979 | 100.0 | /mnt/stockage/packages/f17/trytond-country/locale/es_CO.po | 
- | [fr]({{< ref "/f17/language/fr.md" >}}) | 6979 | 6979 | 100.0 | /mnt/stockage/packages/f17/trytond-country/locale/fr_FR.po | 
- | [bg]({{< ref "/f17/language/bg.md" >}}) | 6950 | 6975 | 99.6 | /mnt/stockage/packages/f17/trytond-country/locale/bg_BG.po | 
- | [cs]({{< ref "/f17/language/cs.md" >}}) | 6781 | 6975 | 97.2 | /mnt/stockage/packages/f17/trytond-country/locale/cs_CZ.po | 
- | [nl]({{< ref "/f17/language/nl.md" >}}) | 6781 | 6975 | 97.2 | /mnt/stockage/packages/f17/trytond-country/locale/nl_NL.po | 
- | [ru]({{< ref "/f17/language/ru.md" >}}) | 492 | 6975 | 7.1 | /mnt/stockage/packages/f17/trytond-country/locale/ru_RU.po | 
+ | [de](/f17/language/de) | 6988 | 6988 | 100.0 | /mnt/stockage/packages/f17/trytond-country/locale/de_DE.po | 
+ | [es](/f17/language/es) | 6979 | 6979 | 100.0 | /mnt/stockage/packages/f17/trytond-country/locale/es_ES.po | 
+ | [es_CO](/f17/language/es_CO) | 6979 | 6979 | 100.0 | /mnt/stockage/packages/f17/trytond-country/locale/es_CO.po | 
+ | [fr](/f17/language/fr) | 6979 | 6979 | 100.0 | /mnt/stockage/packages/f17/trytond-country/locale/fr_FR.po | 
+ | [bg](/f17/language/bg) | 6950 | 6975 | 99.6 | /mnt/stockage/packages/f17/trytond-country/locale/bg_BG.po | 
+ | [cs](/f17/language/cs) | 6781 | 6975 | 97.2 | /mnt/stockage/packages/f17/trytond-country/locale/cs_CZ.po | 
+ | [nl](/f17/language/nl) | 6781 | 6975 | 97.2 | /mnt/stockage/packages/f17/trytond-country/locale/nl_NL.po | 
+ | [ru](/f17/language/ru) | 492 | 6975 | 7.1 | /mnt/stockage/packages/f17/trytond-country/locale/ru_RU.po | 
 {.sortable}
 
 

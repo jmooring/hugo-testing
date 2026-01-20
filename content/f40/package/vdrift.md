@@ -18,16 +18,16 @@ The package vdrift (version 20141020):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [gd]({{< ref "/f40/language/gd.md" >}}) | 1649 | 1649 | 100.0 | /mnt/stockage/packages/f40/vdrift/locale/gd.po | 
- | [de]({{< ref "/f40/language/de.md" >}}) | 1567 | 1649 | 95.0 | /mnt/stockage/packages/f40/vdrift/locale/de.po | 
- | [pt_BR]({{< ref "/f40/language/pt_BR.md" >}}) | 1518 | 1639 | 92.6 | /mnt/stockage/packages/f40/vdrift/locale/pt_BR.po | 
- | [pl]({{< ref "/f40/language/pl.md" >}}) | 1232 | 1649 | 74.7 | /mnt/stockage/packages/f40/vdrift/locale/pl.po | 
- | [ro]({{< ref "/f40/language/ro.md" >}}) | 864 | 1649 | 52.4 | /mnt/stockage/packages/f40/vdrift/locale/ro.po | 
- | [uk]({{< ref "/f40/language/uk.md" >}}) | 847 | 1649 | 51.4 | /mnt/stockage/packages/f40/vdrift/locale/uk.po | 
- | [ru]({{< ref "/f40/language/ru.md" >}}) | 804 | 1649 | 48.8 | /mnt/stockage/packages/f40/vdrift/locale/ru.po | 
- | [fr]({{< ref "/f40/language/fr.md" >}}) | 670 | 1649 | 40.6 | /mnt/stockage/packages/f40/vdrift/locale/fr.po | 
- | [tr]({{< ref "/f40/language/tr.md" >}}) | 46 | 1649 | 2.8 | /mnt/stockage/packages/f40/vdrift/locale/tr.po | 
- | [hu]({{< ref "/f40/language/hu.md" >}}) | 8 | 1639 | 0.5 | /mnt/stockage/packages/f40/vdrift/locale/hu_HU.po | 
+ | [gd](/f40/language/gd) | 1649 | 1649 | 100.0 | /mnt/stockage/packages/f40/vdrift/locale/gd.po | 
+ | [de](/f40/language/de) | 1567 | 1649 | 95.0 | /mnt/stockage/packages/f40/vdrift/locale/de.po | 
+ | [pt_BR](/f40/language/pt_BR) | 1518 | 1639 | 92.6 | /mnt/stockage/packages/f40/vdrift/locale/pt_BR.po | 
+ | [pl](/f40/language/pl) | 1232 | 1649 | 74.7 | /mnt/stockage/packages/f40/vdrift/locale/pl.po | 
+ | [ro](/f40/language/ro) | 864 | 1649 | 52.4 | /mnt/stockage/packages/f40/vdrift/locale/ro.po | 
+ | [uk](/f40/language/uk) | 847 | 1649 | 51.4 | /mnt/stockage/packages/f40/vdrift/locale/uk.po | 
+ | [ru](/f40/language/ru) | 804 | 1649 | 48.8 | /mnt/stockage/packages/f40/vdrift/locale/ru.po | 
+ | [fr](/f40/language/fr) | 670 | 1649 | 40.6 | /mnt/stockage/packages/f40/vdrift/locale/fr.po | 
+ | [tr](/f40/language/tr) | 46 | 1649 | 2.8 | /mnt/stockage/packages/f40/vdrift/locale/tr.po | 
+ | [hu](/f40/language/hu) | 8 | 1639 | 0.5 | /mnt/stockage/packages/f40/vdrift/locale/hu_HU.po | 
 {.sortable}
 
 

@@ -18,105 +18,105 @@ The package kf5-kdelibs4support (version 5.116.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [az]({{< ref "/f42/language/az.md" >}}) | 5353 | 5353 | 100.0 | /mnt/stockage/packages/f42/kf5-kdelibs4support/po/az/kdelibs4support.po | 
- | [bg]({{< ref "/f42/language/bg.md" >}}) | 5353 | 5353 | 100.0 | /mnt/stockage/packages/f42/kf5-kdelibs4support/po/bg/kdelibs4support.po | 
- | [ca]({{< ref "/f42/language/ca.md" >}}) | 5353 | 5353 | 100.0 | /mnt/stockage/packages/f42/kf5-kdelibs4support/po/ca/kdelibs4support.po | 
- | [ca@valencia]({{< ref "/f42/language/ca@valencia.md" >}}) | 5353 | 5353 | 100.0 | /mnt/stockage/packages/f42/kf5-kdelibs4support/po/ca@valencia/kdelibs4support.po | 
- | [en_GB]({{< ref "/f42/language/en_GB.md" >}}) | 5353 | 5353 | 100.0 | /mnt/stockage/packages/f42/kf5-kdelibs4support/po/en_GB/kdelibs4support.po | 
- | [es]({{< ref "/f42/language/es.md" >}}) | 5353 | 5353 | 100.0 | /mnt/stockage/packages/f42/kf5-kdelibs4support/po/es/kdelibs4support.po | 
- | [eu]({{< ref "/f42/language/eu.md" >}}) | 5353 | 5353 | 100.0 | /mnt/stockage/packages/f42/kf5-kdelibs4support/po/eu/kdelibs4support.po | 
- | [fi]({{< ref "/f42/language/fi.md" >}}) | 5353 | 5353 | 100.0 | /mnt/stockage/packages/f42/kf5-kdelibs4support/po/fi/kdelibs4support.po | 
- | [fr]({{< ref "/f42/language/fr.md" >}}) | 5353 | 5353 | 100.0 | /mnt/stockage/packages/f42/kf5-kdelibs4support/po/fr/kdelibs4support.po | 
- | [gl]({{< ref "/f42/language/gl.md" >}}) | 5353 | 5353 | 100.0 | /mnt/stockage/packages/f42/kf5-kdelibs4support/po/gl/kdelibs4support.po | 
- | [ia]({{< ref "/f42/language/ia.md" >}}) | 5353 | 5353 | 100.0 | /mnt/stockage/packages/f42/kf5-kdelibs4support/po/ia/kdelibs4support.po | 
- | [it]({{< ref "/f42/language/it.md" >}}) | 5353 | 5353 | 100.0 | /mnt/stockage/packages/f42/kf5-kdelibs4support/po/it/kdelibs4support.po | 
- | [nl]({{< ref "/f42/language/nl.md" >}}) | 5353 | 5353 | 100.0 | /mnt/stockage/packages/f42/kf5-kdelibs4support/po/nl/kdelibs4support.po | 
- | [pl]({{< ref "/f42/language/pl.md" >}}) | 5353 | 5353 | 100.0 | /mnt/stockage/packages/f42/kf5-kdelibs4support/po/pl/kdelibs4support.po | 
- | [pt]({{< ref "/f42/language/pt.md" >}}) | 5353 | 5353 | 100.0 | /mnt/stockage/packages/f42/kf5-kdelibs4support/po/pt/kdelibs4support.po | 
- | [ru]({{< ref "/f42/language/ru.md" >}}) | 5353 | 5353 | 100.0 | /mnt/stockage/packages/f42/kf5-kdelibs4support/po/ru/kdelibs4support.po | 
- | [sl]({{< ref "/f42/language/sl.md" >}}) | 5353 | 5353 | 100.0 | /mnt/stockage/packages/f42/kf5-kdelibs4support/po/sl/kdelibs4support.po | 
- | [sr]({{< ref "/f42/language/sr.md" >}}) | 4813 | 4813 | 100.0 | /mnt/stockage/packages/f42/kf5-kdelibs4support/po/sr/kdelibs4support.po | 
- | [sr@ijekavian]({{< ref "/f42/language/sr@ijekavian.md" >}}) | 4813 | 4813 | 100.0 | /mnt/stockage/packages/f42/kf5-kdelibs4support/po/sr@ijekavian/kdelibs4support.po | 
- | [sr@ijekavian_Latn]({{< ref "/f42/language/sr@ijekavian_Latn.md" >}}) | 4813 | 4813 | 100.0 | /mnt/stockage/packages/f42/kf5-kdelibs4support/po/sr@ijekavianlatin/kdelibs4support.po | 
- | [sr_Latn]({{< ref "/f42/language/sr_Latn.md" >}}) | 4813 | 4813 | 100.0 | /mnt/stockage/packages/f42/kf5-kdelibs4support/po/sr@latin/kdelibs4support.po | 
- | [sv]({{< ref "/f42/language/sv.md" >}}) | 5353 | 5353 | 100.0 | /mnt/stockage/packages/f42/kf5-kdelibs4support/po/sv/kdelibs4support.po | 
- | [tr]({{< ref "/f42/language/tr.md" >}}) | 5353 | 5353 | 100.0 | /mnt/stockage/packages/f42/kf5-kdelibs4support/po/tr/kdelibs4support.po | 
- | [uk]({{< ref "/f42/language/uk.md" >}}) | 5353 | 5353 | 100.0 | /mnt/stockage/packages/f42/kf5-kdelibs4support/po/uk/kdelibs4support.po | 
- | [vi]({{< ref "/f42/language/vi.md" >}}) | 5353 | 5353 | 100.0 | /mnt/stockage/packages/f42/kf5-kdelibs4support/po/vi/kdelibs4support.po | 
- | [zh_Hans]({{< ref "/f42/language/zh_Hans.md" >}}) | 5287 | 5353 | 98.8 | /mnt/stockage/packages/f42/kf5-kdelibs4support/po/zh_CN/kdelibs4support.po | 
- | [zh_Hant]({{< ref "/f42/language/zh_Hant.md" >}}) | 5110 | 5353 | 95.5 | /mnt/stockage/packages/f42/kf5-kdelibs4support/po/zh_TW/kdelibs4support.po | 
- | [id]({{< ref "/f42/language/id.md" >}}) | 5067 | 5353 | 94.7 | /mnt/stockage/packages/f42/kf5-kdelibs4support/po/id/kdelibs4support.po | 
- | [cs]({{< ref "/f42/language/cs.md" >}}) | 4949 | 5353 | 92.5 | /mnt/stockage/packages/f42/kf5-kdelibs4support/po/cs/kdelibs4support.po | 
- | [pt_BR]({{< ref "/f42/language/pt_BR.md" >}}) | 4871 | 5353 | 91.0 | /mnt/stockage/packages/f42/kf5-kdelibs4support/po/pt_BR/kdelibs4support.po | 
- | [de]({{< ref "/f42/language/de.md" >}}) | 4843 | 5353 | 90.5 | /mnt/stockage/packages/f42/kf5-kdelibs4support/po/de/kdelibs4support.po | 
- | [ko]({{< ref "/f42/language/ko.md" >}}) | 4825 | 5353 | 90.1 | /mnt/stockage/packages/f42/kf5-kdelibs4support/po/ko/kdelibs4support.po | 
- | [da]({{< ref "/f42/language/da.md" >}}) | 4813 | 5353 | 89.9 | /mnt/stockage/packages/f42/kf5-kdelibs4support/po/da/kdelibs4support.po | 
- | [et]({{< ref "/f42/language/et.md" >}}) | 4813 | 5353 | 89.9 | /mnt/stockage/packages/f42/kf5-kdelibs4support/po/et/kdelibs4support.po | 
- | [gd]({{< ref "/f42/language/gd.md" >}}) | 4813 | 5353 | 89.9 | /mnt/stockage/packages/f42/kf5-kdelibs4support/po/gd/kdelibs4support.po | 
- | [hu]({{< ref "/f42/language/hu.md" >}}) | 4813 | 5353 | 89.9 | /mnt/stockage/packages/f42/kf5-kdelibs4support/po/hu/kdelibs4support.po | 
- | [nb_NO]({{< ref "/f42/language/nb_NO.md" >}}) | 4813 | 5353 | 89.9 | /mnt/stockage/packages/f42/kf5-kdelibs4support/po/nb/kdelibs4support.po | 
- | [sk]({{< ref "/f42/language/sk.md" >}}) | 4813 | 5353 | 89.9 | /mnt/stockage/packages/f42/kf5-kdelibs4support/po/sk/kdelibs4support.po | 
- | [tg]({{< ref "/f42/language/tg.md" >}}) | 4785 | 5353 | 89.4 | /mnt/stockage/packages/f42/kf5-kdelibs4support/po/tg/kdelibs4support.po | 
- | [el]({{< ref "/f42/language/el.md" >}}) | 4776 | 5353 | 89.2 | /mnt/stockage/packages/f42/kf5-kdelibs4support/po/el/kdelibs4support.po | 
- | [ro]({{< ref "/f42/language/ro.md" >}}) | 4702 | 5353 | 87.8 | /mnt/stockage/packages/f42/kf5-kdelibs4support/po/ro/kdelibs4support.po | 
- | [nds]({{< ref "/f42/language/nds.md" >}}) | 4676 | 5353 | 87.4 | /mnt/stockage/packages/f42/kf5-kdelibs4support/po/nds/kdelibs4support.po | 
- | [kk]({{< ref "/f42/language/kk.md" >}}) | 4617 | 5353 | 86.3 | /mnt/stockage/packages/f42/kf5-kdelibs4support/po/kk/kdelibs4support.po | 
- | [km]({{< ref "/f42/language/km.md" >}}) | 4601 | 5353 | 86.0 | /mnt/stockage/packages/f42/kf5-kdelibs4support/po/km/kdelibs4support.po | 
- | [bs]({{< ref "/f42/language/bs.md" >}}) | 4565 | 5353 | 85.3 | /mnt/stockage/packages/f42/kf5-kdelibs4support/po/bs/kdelibs4support.po | 
- | [ja]({{< ref "/f42/language/ja.md" >}}) | 4463 | 5353 | 83.4 | /mnt/stockage/packages/f42/kf5-kdelibs4support/po/ja/kdelibs4support.po | 
- | [is]({{< ref "/f42/language/is.md" >}}) | 4156 | 5353 | 77.6 | /mnt/stockage/packages/f42/kf5-kdelibs4support/po/is/kdelibs4support.po | 
- | [ga]({{< ref "/f42/language/ga.md" >}}) | 3908 | 5353 | 73.0 | /mnt/stockage/packages/f42/kf5-kdelibs4support/po/ga/kdelibs4support.po | 
- | [ug]({{< ref "/f42/language/ug.md" >}}) | 3691 | 5353 | 69.0 | /mnt/stockage/packages/f42/kf5-kdelibs4support/po/ug/kdelibs4support.po | 
- | [ar]({{< ref "/f42/language/ar.md" >}}) | 3654 | 5353 | 68.3 | /mnt/stockage/packages/f42/kf5-kdelibs4support/po/ar/kdelibs4support.po | 
- | [hr]({{< ref "/f42/language/hr.md" >}}) | 3580 | 5353 | 66.9 | /mnt/stockage/packages/f42/kf5-kdelibs4support/po/hr/kdelibs4support.po | 
- | [mr]({{< ref "/f42/language/mr.md" >}}) | 3488 | 5353 | 65.2 | /mnt/stockage/packages/f42/kf5-kdelibs4support/po/mr/kdelibs4support.po | 
- | [nn]({{< ref "/f42/language/nn.md" >}}) | 3120 | 5353 | 58.3 | /mnt/stockage/packages/f42/kf5-kdelibs4support/po/nn/kdelibs4support.po | 
- | [he]({{< ref "/f42/language/he.md" >}}) | 3031 | 5353 | 56.6 | /mnt/stockage/packages/f42/kf5-kdelibs4support/po/he/kdelibs4support.po | 
- | [lv]({{< ref "/f42/language/lv.md" >}}) | 2788 | 5353 | 52.1 | /mnt/stockage/packages/f42/kf5-kdelibs4support/po/lv/kdelibs4support.po | 
- | [pa]({{< ref "/f42/language/pa.md" >}}) | 2772 | 5353 | 51.8 | /mnt/stockage/packages/f42/kf5-kdelibs4support/po/pa/kdelibs4support.po | 
- | [se]({{< ref "/f42/language/se.md" >}}) | 2755 | 5353 | 51.5 | /mnt/stockage/packages/f42/kf5-kdelibs4support/po/se/kdelibs4support.po | 
- | [th]({{< ref "/f42/language/th.md" >}}) | 2729 | 5353 | 51.0 | /mnt/stockage/packages/f42/kf5-kdelibs4support/po/th/kdelibs4support.po | 
- | [eo]({{< ref "/f42/language/eo.md" >}}) | 2639 | 5353 | 49.3 | /mnt/stockage/packages/f42/kf5-kdelibs4support/po/eo/kdelibs4support.po | 
- | [be_Latn]({{< ref "/f42/language/be_Latn.md" >}}) | 2458 | 5353 | 45.9 | /mnt/stockage/packages/f42/kf5-kdelibs4support/po/be@latin/kdelibs4support.po | 
- | [ml]({{< ref "/f42/language/ml.md" >}}) | 2403 | 5353 | 44.9 | /mnt/stockage/packages/f42/kf5-kdelibs4support/po/ml/kdelibs4support.po | 
- | [mk]({{< ref "/f42/language/mk.md" >}}) | 2268 | 5353 | 42.4 | /mnt/stockage/packages/f42/kf5-kdelibs4support/po/mk/kdelibs4support.po | 
- | [ta]({{< ref "/f42/language/ta.md" >}}) | 2103 | 5353 | 39.3 | /mnt/stockage/packages/f42/kf5-kdelibs4support/po/ta/kdelibs4support.po | 
- | [lt]({{< ref "/f42/language/lt.md" >}}) | 2070 | 5353 | 38.7 | /mnt/stockage/packages/f42/kf5-kdelibs4support/po/lt/kdelibs4support.po | 
- | [gu]({{< ref "/f42/language/gu.md" >}}) | 2016 | 5353 | 37.7 | /mnt/stockage/packages/f42/kf5-kdelibs4support/po/gu/kdelibs4support.po | 
- | [wa]({{< ref "/f42/language/wa.md" >}}) | 1886 | 5353 | 35.2 | /mnt/stockage/packages/f42/kf5-kdelibs4support/po/wa/kdelibs4support.po | 
- | [fa]({{< ref "/f42/language/fa.md" >}}) | 1786 | 5353 | 33.4 | /mnt/stockage/packages/f42/kf5-kdelibs4support/po/fa/kdelibs4support.po | 
- | [mai]({{< ref "/f42/language/mai.md" >}}) | 1670 | 5353 | 31.2 | /mnt/stockage/packages/f42/kf5-kdelibs4support/po/mai/kdelibs4support.po | 
- | [te]({{< ref "/f42/language/te.md" >}}) | 1649 | 5353 | 30.8 | /mnt/stockage/packages/f42/kf5-kdelibs4support/po/te/kdelibs4support.po | 
- | [hi]({{< ref "/f42/language/hi.md" >}}) | 1544 | 5353 | 28.8 | /mnt/stockage/packages/f42/kf5-kdelibs4support/po/hi/kdelibs4support.po | 
- | [ne]({{< ref "/f42/language/ne.md" >}}) | 1535 | 5353 | 28.7 | /mnt/stockage/packages/f42/kf5-kdelibs4support/po/ne/kdelibs4support.po | 
- | [ms]({{< ref "/f42/language/ms.md" >}}) | 1500 | 5353 | 28.0 | /mnt/stockage/packages/f42/kf5-kdelibs4support/po/ms/kdelibs4support.po | 
- | [fy]({{< ref "/f42/language/fy.md" >}}) | 1480 | 5353 | 27.6 | /mnt/stockage/packages/f42/kf5-kdelibs4support/po/fy/kdelibs4support.po | 
- | [ka]({{< ref "/f42/language/ka.md" >}}) | 1353 | 5353 | 25.3 | /mnt/stockage/packages/f42/kf5-kdelibs4support/po/ka/kdelibs4support.po | 
- | [af]({{< ref "/f42/language/af.md" >}}) | 1182 | 5353 | 22.1 | /mnt/stockage/packages/f42/kf5-kdelibs4support/po/af/kdelibs4support.po | 
- | [csb]({{< ref "/f42/language/csb.md" >}}) | 1173 | 5353 | 21.9 | /mnt/stockage/packages/f42/kf5-kdelibs4support/po/csb/kdelibs4support.po | 
- | [cy]({{< ref "/f42/language/cy.md" >}}) | 1141 | 5353 | 21.3 | /mnt/stockage/packages/f42/kf5-kdelibs4support/po/cy/kdelibs4support.po | 
- | [bn]({{< ref "/f42/language/bn.md" >}}) | 1117 | 5353 | 20.9 | /mnt/stockage/packages/f42/kf5-kdelibs4support/po/bn/kdelibs4support.po | 
- | [sq]({{< ref "/f42/language/sq.md" >}}) | 1065 | 5353 | 19.9 | /mnt/stockage/packages/f42/kf5-kdelibs4support/po/sq/kdelibs4support.po | 
- | [bn_IN]({{< ref "/f42/language/bn_IN.md" >}}) | 1064 | 5353 | 19.9 | /mnt/stockage/packages/f42/kf5-kdelibs4support/po/bn_IN/kdelibs4support.po | 
- | [be]({{< ref "/f42/language/be.md" >}}) | 1058 | 5353 | 19.8 | /mnt/stockage/packages/f42/kf5-kdelibs4support/po/be/kdelibs4support.po | 
- | [hsb]({{< ref "/f42/language/hsb.md" >}}) | 952 | 5353 | 17.8 | /mnt/stockage/packages/f42/kf5-kdelibs4support/po/hsb/kdelibs4support.po | 
- | [tt]({{< ref "/f42/language/tt.md" >}}) | 894 | 5353 | 16.7 | /mnt/stockage/packages/f42/kf5-kdelibs4support/po/tt/kdelibs4support.po | 
- | [uz]({{< ref "/f42/language/uz.md" >}}) | 1740 | 10706 | 16.3 | /mnt/stockage/packages/f42/kf5-kdelibs4support/po/uz@cyrillic/kdelibs4support.po/mnt/stockage/packages/f42/kf5-kdelibs4support/po/uz/kdelibs4support.po | 
- | [lb]({{< ref "/f42/language/lb.md" >}}) | 840 | 5353 | 15.7 | /mnt/stockage/packages/f42/kf5-kdelibs4support/po/lb/kdelibs4support.po | 
- | [br]({{< ref "/f42/language/br.md" >}}) | 802 | 5353 | 15.0 | /mnt/stockage/packages/f42/kf5-kdelibs4support/po/br/kdelibs4support.po | 
- | [si]({{< ref "/f42/language/si.md" >}}) | 750 | 5353 | 14.0 | /mnt/stockage/packages/f42/kf5-kdelibs4support/po/si/kdelibs4support.po | 
- | [hy]({{< ref "/f42/language/hy.md" >}}) | 730 | 5353 | 13.6 | /mnt/stockage/packages/f42/kf5-kdelibs4support/po/hy/kdelibs4support.po | 
- | [ku]({{< ref "/f42/language/ku.md" >}}) | 727 | 5353 | 13.6 | /mnt/stockage/packages/f42/kf5-kdelibs4support/po/ku/kdelibs4support.po | 
- | [kn]({{< ref "/f42/language/kn.md" >}}) | 707 | 5353 | 13.2 | /mnt/stockage/packages/f42/kf5-kdelibs4support/po/kn/kdelibs4support.po | 
- | [hne]({{< ref "/f42/language/hne.md" >}}) | 639 | 5353 | 11.9 | /mnt/stockage/packages/f42/kf5-kdelibs4support/po/hne/kdelibs4support.po | 
- | [as]({{< ref "/f42/language/as.md" >}}) | 575 | 5353 | 10.7 | /mnt/stockage/packages/f42/kf5-kdelibs4support/po/as/kdelibs4support.po | 
- | [xh]({{< ref "/f42/language/xh.md" >}}) | 568 | 5353 | 10.6 | /mnt/stockage/packages/f42/kf5-kdelibs4support/po/xh/kdelibs4support.po | 
- | [ps]({{< ref "/f42/language/ps.md" >}}) | 507 | 5353 | 9.5 | /mnt/stockage/packages/f42/kf5-kdelibs4support/po/ps/kdelibs4support.po | 
- | [crh]({{< ref "/f42/language/crh.md" >}}) | 501 | 5353 | 9.4 | /mnt/stockage/packages/f42/kf5-kdelibs4support/po/crh/kdelibs4support.po | 
- | [or]({{< ref "/f42/language/or.md" >}}) | 496 | 5353 | 9.3 | /mnt/stockage/packages/f42/kf5-kdelibs4support/po/or/kdelibs4support.po | 
- | [zh_Hant_HK]({{< ref "/f42/language/zh_Hant_HK.md" >}}) | 422 | 5353 | 7.9 | /mnt/stockage/packages/f42/kf5-kdelibs4support/po/zh_HK/kdelibs4support.po | 
- | [oc]({{< ref "/f42/language/oc.md" >}}) | 238 | 5353 | 4.4 | /mnt/stockage/packages/f42/kf5-kdelibs4support/po/oc/kdelibs4support.po | 
- | [ha]({{< ref "/f42/language/ha.md" >}}) | 10 | 5353 | 0.2 | /mnt/stockage/packages/f42/kf5-kdelibs4support/po/ha/kdelibs4support.po | 
+ | [az](/f42/language/az) | 5353 | 5353 | 100.0 | /mnt/stockage/packages/f42/kf5-kdelibs4support/po/az/kdelibs4support.po | 
+ | [bg](/f42/language/bg) | 5353 | 5353 | 100.0 | /mnt/stockage/packages/f42/kf5-kdelibs4support/po/bg/kdelibs4support.po | 
+ | [ca](/f42/language/ca) | 5353 | 5353 | 100.0 | /mnt/stockage/packages/f42/kf5-kdelibs4support/po/ca/kdelibs4support.po | 
+ | [ca@valencia](/f42/language/ca@valencia) | 5353 | 5353 | 100.0 | /mnt/stockage/packages/f42/kf5-kdelibs4support/po/ca@valencia/kdelibs4support.po | 
+ | [en_GB](/f42/language/en_GB) | 5353 | 5353 | 100.0 | /mnt/stockage/packages/f42/kf5-kdelibs4support/po/en_GB/kdelibs4support.po | 
+ | [es](/f42/language/es) | 5353 | 5353 | 100.0 | /mnt/stockage/packages/f42/kf5-kdelibs4support/po/es/kdelibs4support.po | 
+ | [eu](/f42/language/eu) | 5353 | 5353 | 100.0 | /mnt/stockage/packages/f42/kf5-kdelibs4support/po/eu/kdelibs4support.po | 
+ | [fi](/f42/language/fi) | 5353 | 5353 | 100.0 | /mnt/stockage/packages/f42/kf5-kdelibs4support/po/fi/kdelibs4support.po | 
+ | [fr](/f42/language/fr) | 5353 | 5353 | 100.0 | /mnt/stockage/packages/f42/kf5-kdelibs4support/po/fr/kdelibs4support.po | 
+ | [gl](/f42/language/gl) | 5353 | 5353 | 100.0 | /mnt/stockage/packages/f42/kf5-kdelibs4support/po/gl/kdelibs4support.po | 
+ | [ia](/f42/language/ia) | 5353 | 5353 | 100.0 | /mnt/stockage/packages/f42/kf5-kdelibs4support/po/ia/kdelibs4support.po | 
+ | [it](/f42/language/it) | 5353 | 5353 | 100.0 | /mnt/stockage/packages/f42/kf5-kdelibs4support/po/it/kdelibs4support.po | 
+ | [nl](/f42/language/nl) | 5353 | 5353 | 100.0 | /mnt/stockage/packages/f42/kf5-kdelibs4support/po/nl/kdelibs4support.po | 
+ | [pl](/f42/language/pl) | 5353 | 5353 | 100.0 | /mnt/stockage/packages/f42/kf5-kdelibs4support/po/pl/kdelibs4support.po | 
+ | [pt](/f42/language/pt) | 5353 | 5353 | 100.0 | /mnt/stockage/packages/f42/kf5-kdelibs4support/po/pt/kdelibs4support.po | 
+ | [ru](/f42/language/ru) | 5353 | 5353 | 100.0 | /mnt/stockage/packages/f42/kf5-kdelibs4support/po/ru/kdelibs4support.po | 
+ | [sl](/f42/language/sl) | 5353 | 5353 | 100.0 | /mnt/stockage/packages/f42/kf5-kdelibs4support/po/sl/kdelibs4support.po | 
+ | [sr](/f42/language/sr) | 4813 | 4813 | 100.0 | /mnt/stockage/packages/f42/kf5-kdelibs4support/po/sr/kdelibs4support.po | 
+ | [sr@ijekavian](/f42/language/sr@ijekavian) | 4813 | 4813 | 100.0 | /mnt/stockage/packages/f42/kf5-kdelibs4support/po/sr@ijekavian/kdelibs4support.po | 
+ | [sr@ijekavian_Latn](/f42/language/sr@ijekavian_Latn) | 4813 | 4813 | 100.0 | /mnt/stockage/packages/f42/kf5-kdelibs4support/po/sr@ijekavianlatin/kdelibs4support.po | 
+ | [sr_Latn](/f42/language/sr_Latn) | 4813 | 4813 | 100.0 | /mnt/stockage/packages/f42/kf5-kdelibs4support/po/sr@latin/kdelibs4support.po | 
+ | [sv](/f42/language/sv) | 5353 | 5353 | 100.0 | /mnt/stockage/packages/f42/kf5-kdelibs4support/po/sv/kdelibs4support.po | 
+ | [tr](/f42/language/tr) | 5353 | 5353 | 100.0 | /mnt/stockage/packages/f42/kf5-kdelibs4support/po/tr/kdelibs4support.po | 
+ | [uk](/f42/language/uk) | 5353 | 5353 | 100.0 | /mnt/stockage/packages/f42/kf5-kdelibs4support/po/uk/kdelibs4support.po | 
+ | [vi](/f42/language/vi) | 5353 | 5353 | 100.0 | /mnt/stockage/packages/f42/kf5-kdelibs4support/po/vi/kdelibs4support.po | 
+ | [zh_Hans](/f42/language/zh_Hans) | 5287 | 5353 | 98.8 | /mnt/stockage/packages/f42/kf5-kdelibs4support/po/zh_CN/kdelibs4support.po | 
+ | [zh_Hant](/f42/language/zh_Hant) | 5110 | 5353 | 95.5 | /mnt/stockage/packages/f42/kf5-kdelibs4support/po/zh_TW/kdelibs4support.po | 
+ | [id](/f42/language/id) | 5067 | 5353 | 94.7 | /mnt/stockage/packages/f42/kf5-kdelibs4support/po/id/kdelibs4support.po | 
+ | [cs](/f42/language/cs) | 4949 | 5353 | 92.5 | /mnt/stockage/packages/f42/kf5-kdelibs4support/po/cs/kdelibs4support.po | 
+ | [pt_BR](/f42/language/pt_BR) | 4871 | 5353 | 91.0 | /mnt/stockage/packages/f42/kf5-kdelibs4support/po/pt_BR/kdelibs4support.po | 
+ | [de](/f42/language/de) | 4843 | 5353 | 90.5 | /mnt/stockage/packages/f42/kf5-kdelibs4support/po/de/kdelibs4support.po | 
+ | [ko](/f42/language/ko) | 4825 | 5353 | 90.1 | /mnt/stockage/packages/f42/kf5-kdelibs4support/po/ko/kdelibs4support.po | 
+ | [da](/f42/language/da) | 4813 | 5353 | 89.9 | /mnt/stockage/packages/f42/kf5-kdelibs4support/po/da/kdelibs4support.po | 
+ | [et](/f42/language/et) | 4813 | 5353 | 89.9 | /mnt/stockage/packages/f42/kf5-kdelibs4support/po/et/kdelibs4support.po | 
+ | [gd](/f42/language/gd) | 4813 | 5353 | 89.9 | /mnt/stockage/packages/f42/kf5-kdelibs4support/po/gd/kdelibs4support.po | 
+ | [hu](/f42/language/hu) | 4813 | 5353 | 89.9 | /mnt/stockage/packages/f42/kf5-kdelibs4support/po/hu/kdelibs4support.po | 
+ | [nb_NO](/f42/language/nb_NO) | 4813 | 5353 | 89.9 | /mnt/stockage/packages/f42/kf5-kdelibs4support/po/nb/kdelibs4support.po | 
+ | [sk](/f42/language/sk) | 4813 | 5353 | 89.9 | /mnt/stockage/packages/f42/kf5-kdelibs4support/po/sk/kdelibs4support.po | 
+ | [tg](/f42/language/tg) | 4785 | 5353 | 89.4 | /mnt/stockage/packages/f42/kf5-kdelibs4support/po/tg/kdelibs4support.po | 
+ | [el](/f42/language/el) | 4776 | 5353 | 89.2 | /mnt/stockage/packages/f42/kf5-kdelibs4support/po/el/kdelibs4support.po | 
+ | [ro](/f42/language/ro) | 4702 | 5353 | 87.8 | /mnt/stockage/packages/f42/kf5-kdelibs4support/po/ro/kdelibs4support.po | 
+ | [nds](/f42/language/nds) | 4676 | 5353 | 87.4 | /mnt/stockage/packages/f42/kf5-kdelibs4support/po/nds/kdelibs4support.po | 
+ | [kk](/f42/language/kk) | 4617 | 5353 | 86.3 | /mnt/stockage/packages/f42/kf5-kdelibs4support/po/kk/kdelibs4support.po | 
+ | [km](/f42/language/km) | 4601 | 5353 | 86.0 | /mnt/stockage/packages/f42/kf5-kdelibs4support/po/km/kdelibs4support.po | 
+ | [bs](/f42/language/bs) | 4565 | 5353 | 85.3 | /mnt/stockage/packages/f42/kf5-kdelibs4support/po/bs/kdelibs4support.po | 
+ | [ja](/f42/language/ja) | 4463 | 5353 | 83.4 | /mnt/stockage/packages/f42/kf5-kdelibs4support/po/ja/kdelibs4support.po | 
+ | [is](/f42/language/is) | 4156 | 5353 | 77.6 | /mnt/stockage/packages/f42/kf5-kdelibs4support/po/is/kdelibs4support.po | 
+ | [ga](/f42/language/ga) | 3908 | 5353 | 73.0 | /mnt/stockage/packages/f42/kf5-kdelibs4support/po/ga/kdelibs4support.po | 
+ | [ug](/f42/language/ug) | 3691 | 5353 | 69.0 | /mnt/stockage/packages/f42/kf5-kdelibs4support/po/ug/kdelibs4support.po | 
+ | [ar](/f42/language/ar) | 3654 | 5353 | 68.3 | /mnt/stockage/packages/f42/kf5-kdelibs4support/po/ar/kdelibs4support.po | 
+ | [hr](/f42/language/hr) | 3580 | 5353 | 66.9 | /mnt/stockage/packages/f42/kf5-kdelibs4support/po/hr/kdelibs4support.po | 
+ | [mr](/f42/language/mr) | 3488 | 5353 | 65.2 | /mnt/stockage/packages/f42/kf5-kdelibs4support/po/mr/kdelibs4support.po | 
+ | [nn](/f42/language/nn) | 3120 | 5353 | 58.3 | /mnt/stockage/packages/f42/kf5-kdelibs4support/po/nn/kdelibs4support.po | 
+ | [he](/f42/language/he) | 3031 | 5353 | 56.6 | /mnt/stockage/packages/f42/kf5-kdelibs4support/po/he/kdelibs4support.po | 
+ | [lv](/f42/language/lv) | 2788 | 5353 | 52.1 | /mnt/stockage/packages/f42/kf5-kdelibs4support/po/lv/kdelibs4support.po | 
+ | [pa](/f42/language/pa) | 2772 | 5353 | 51.8 | /mnt/stockage/packages/f42/kf5-kdelibs4support/po/pa/kdelibs4support.po | 
+ | [se](/f42/language/se) | 2755 | 5353 | 51.5 | /mnt/stockage/packages/f42/kf5-kdelibs4support/po/se/kdelibs4support.po | 
+ | [th](/f42/language/th) | 2729 | 5353 | 51.0 | /mnt/stockage/packages/f42/kf5-kdelibs4support/po/th/kdelibs4support.po | 
+ | [eo](/f42/language/eo) | 2639 | 5353 | 49.3 | /mnt/stockage/packages/f42/kf5-kdelibs4support/po/eo/kdelibs4support.po | 
+ | [be_Latn](/f42/language/be_Latn) | 2458 | 5353 | 45.9 | /mnt/stockage/packages/f42/kf5-kdelibs4support/po/be@latin/kdelibs4support.po | 
+ | [ml](/f42/language/ml) | 2403 | 5353 | 44.9 | /mnt/stockage/packages/f42/kf5-kdelibs4support/po/ml/kdelibs4support.po | 
+ | [mk](/f42/language/mk) | 2268 | 5353 | 42.4 | /mnt/stockage/packages/f42/kf5-kdelibs4support/po/mk/kdelibs4support.po | 
+ | [ta](/f42/language/ta) | 2103 | 5353 | 39.3 | /mnt/stockage/packages/f42/kf5-kdelibs4support/po/ta/kdelibs4support.po | 
+ | [lt](/f42/language/lt) | 2070 | 5353 | 38.7 | /mnt/stockage/packages/f42/kf5-kdelibs4support/po/lt/kdelibs4support.po | 
+ | [gu](/f42/language/gu) | 2016 | 5353 | 37.7 | /mnt/stockage/packages/f42/kf5-kdelibs4support/po/gu/kdelibs4support.po | 
+ | [wa](/f42/language/wa) | 1886 | 5353 | 35.2 | /mnt/stockage/packages/f42/kf5-kdelibs4support/po/wa/kdelibs4support.po | 
+ | [fa](/f42/language/fa) | 1786 | 5353 | 33.4 | /mnt/stockage/packages/f42/kf5-kdelibs4support/po/fa/kdelibs4support.po | 
+ | [mai](/f42/language/mai) | 1670 | 5353 | 31.2 | /mnt/stockage/packages/f42/kf5-kdelibs4support/po/mai/kdelibs4support.po | 
+ | [te](/f42/language/te) | 1649 | 5353 | 30.8 | /mnt/stockage/packages/f42/kf5-kdelibs4support/po/te/kdelibs4support.po | 
+ | [hi](/f42/language/hi) | 1544 | 5353 | 28.8 | /mnt/stockage/packages/f42/kf5-kdelibs4support/po/hi/kdelibs4support.po | 
+ | [ne](/f42/language/ne) | 1535 | 5353 | 28.7 | /mnt/stockage/packages/f42/kf5-kdelibs4support/po/ne/kdelibs4support.po | 
+ | [ms](/f42/language/ms) | 1500 | 5353 | 28.0 | /mnt/stockage/packages/f42/kf5-kdelibs4support/po/ms/kdelibs4support.po | 
+ | [fy](/f42/language/fy) | 1480 | 5353 | 27.6 | /mnt/stockage/packages/f42/kf5-kdelibs4support/po/fy/kdelibs4support.po | 
+ | [ka](/f42/language/ka) | 1353 | 5353 | 25.3 | /mnt/stockage/packages/f42/kf5-kdelibs4support/po/ka/kdelibs4support.po | 
+ | [af](/f42/language/af) | 1182 | 5353 | 22.1 | /mnt/stockage/packages/f42/kf5-kdelibs4support/po/af/kdelibs4support.po | 
+ | [csb](/f42/language/csb) | 1173 | 5353 | 21.9 | /mnt/stockage/packages/f42/kf5-kdelibs4support/po/csb/kdelibs4support.po | 
+ | [cy](/f42/language/cy) | 1141 | 5353 | 21.3 | /mnt/stockage/packages/f42/kf5-kdelibs4support/po/cy/kdelibs4support.po | 
+ | [bn](/f42/language/bn) | 1117 | 5353 | 20.9 | /mnt/stockage/packages/f42/kf5-kdelibs4support/po/bn/kdelibs4support.po | 
+ | [sq](/f42/language/sq) | 1065 | 5353 | 19.9 | /mnt/stockage/packages/f42/kf5-kdelibs4support/po/sq/kdelibs4support.po | 
+ | [bn_IN](/f42/language/bn_IN) | 1064 | 5353 | 19.9 | /mnt/stockage/packages/f42/kf5-kdelibs4support/po/bn_IN/kdelibs4support.po | 
+ | [be](/f42/language/be) | 1058 | 5353 | 19.8 | /mnt/stockage/packages/f42/kf5-kdelibs4support/po/be/kdelibs4support.po | 
+ | [hsb](/f42/language/hsb) | 952 | 5353 | 17.8 | /mnt/stockage/packages/f42/kf5-kdelibs4support/po/hsb/kdelibs4support.po | 
+ | [tt](/f42/language/tt) | 894 | 5353 | 16.7 | /mnt/stockage/packages/f42/kf5-kdelibs4support/po/tt/kdelibs4support.po | 
+ | [uz](/f42/language/uz) | 1740 | 10706 | 16.3 | /mnt/stockage/packages/f42/kf5-kdelibs4support/po/uz@cyrillic/kdelibs4support.po/mnt/stockage/packages/f42/kf5-kdelibs4support/po/uz/kdelibs4support.po | 
+ | [lb](/f42/language/lb) | 840 | 5353 | 15.7 | /mnt/stockage/packages/f42/kf5-kdelibs4support/po/lb/kdelibs4support.po | 
+ | [br](/f42/language/br) | 802 | 5353 | 15.0 | /mnt/stockage/packages/f42/kf5-kdelibs4support/po/br/kdelibs4support.po | 
+ | [si](/f42/language/si) | 750 | 5353 | 14.0 | /mnt/stockage/packages/f42/kf5-kdelibs4support/po/si/kdelibs4support.po | 
+ | [hy](/f42/language/hy) | 730 | 5353 | 13.6 | /mnt/stockage/packages/f42/kf5-kdelibs4support/po/hy/kdelibs4support.po | 
+ | [ku](/f42/language/ku) | 727 | 5353 | 13.6 | /mnt/stockage/packages/f42/kf5-kdelibs4support/po/ku/kdelibs4support.po | 
+ | [kn](/f42/language/kn) | 707 | 5353 | 13.2 | /mnt/stockage/packages/f42/kf5-kdelibs4support/po/kn/kdelibs4support.po | 
+ | [hne](/f42/language/hne) | 639 | 5353 | 11.9 | /mnt/stockage/packages/f42/kf5-kdelibs4support/po/hne/kdelibs4support.po | 
+ | [as](/f42/language/as) | 575 | 5353 | 10.7 | /mnt/stockage/packages/f42/kf5-kdelibs4support/po/as/kdelibs4support.po | 
+ | [xh](/f42/language/xh) | 568 | 5353 | 10.6 | /mnt/stockage/packages/f42/kf5-kdelibs4support/po/xh/kdelibs4support.po | 
+ | [ps](/f42/language/ps) | 507 | 5353 | 9.5 | /mnt/stockage/packages/f42/kf5-kdelibs4support/po/ps/kdelibs4support.po | 
+ | [crh](/f42/language/crh) | 501 | 5353 | 9.4 | /mnt/stockage/packages/f42/kf5-kdelibs4support/po/crh/kdelibs4support.po | 
+ | [or](/f42/language/or) | 496 | 5353 | 9.3 | /mnt/stockage/packages/f42/kf5-kdelibs4support/po/or/kdelibs4support.po | 
+ | [zh_Hant_HK](/f42/language/zh_Hant_HK) | 422 | 5353 | 7.9 | /mnt/stockage/packages/f42/kf5-kdelibs4support/po/zh_HK/kdelibs4support.po | 
+ | [oc](/f42/language/oc) | 238 | 5353 | 4.4 | /mnt/stockage/packages/f42/kf5-kdelibs4support/po/oc/kdelibs4support.po | 
+ | [ha](/f42/language/ha) | 10 | 5353 | 0.2 | /mnt/stockage/packages/f42/kf5-kdelibs4support/po/ha/kdelibs4support.po | 
 {.sortable}
 
 

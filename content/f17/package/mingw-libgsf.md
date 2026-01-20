@@ -18,40 +18,40 @@ The package mingw-libgsf (version 1.14.25):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f17/language/ca.md" >}}) | 243 | 243 | 100.0 | /mnt/stockage/packages/f17/mingw-libgsf/po/ca.po | 
- | [cs]({{< ref "/f17/language/cs.md" >}}) | 249 | 249 | 100.0 | /mnt/stockage/packages/f17/mingw-libgsf/po/cs.po | 
- | [da]({{< ref "/f17/language/da.md" >}}) | 249 | 249 | 100.0 | /mnt/stockage/packages/f17/mingw-libgsf/po/da.po | 
- | [de]({{< ref "/f17/language/de.md" >}}) | 263 | 263 | 100.0 | /mnt/stockage/packages/f17/mingw-libgsf/po/de.po | 
- | [el]({{< ref "/f17/language/el.md" >}}) | 249 | 249 | 100.0 | /mnt/stockage/packages/f17/mingw-libgsf/po/el.po | 
- | [en_GB]({{< ref "/f17/language/en_GB.md" >}}) | 249 | 249 | 100.0 | /mnt/stockage/packages/f17/mingw-libgsf/po/en_GB.po | 
- | [es]({{< ref "/f17/language/es.md" >}}) | 263 | 263 | 100.0 | /mnt/stockage/packages/f17/mingw-libgsf/po/es.po | 
- | [eu]({{< ref "/f17/language/eu.md" >}}) | 843 | 843 | 100.0 | /mnt/stockage/packages/f17/mingw-libgsf/po/eu.po | 
- | [fr]({{< ref "/f17/language/fr.md" >}}) | 843 | 843 | 100.0 | /mnt/stockage/packages/f17/mingw-libgsf/po/fr.po | 
- | [gl]({{< ref "/f17/language/gl.md" >}}) | 263 | 263 | 100.0 | /mnt/stockage/packages/f17/mingw-libgsf/po/gl.po | 
- | [id]({{< ref "/f17/language/id.md" >}}) | 263 | 263 | 100.0 | /mnt/stockage/packages/f17/mingw-libgsf/po/id.po | 
- | [it]({{< ref "/f17/language/it.md" >}}) | 249 | 249 | 100.0 | /mnt/stockage/packages/f17/mingw-libgsf/po/it.po | 
- | [ja]({{< ref "/f17/language/ja.md" >}}) | 249 | 249 | 100.0 | /mnt/stockage/packages/f17/mingw-libgsf/po/ja.po | 
- | [lt]({{< ref "/f17/language/lt.md" >}}) | 263 | 263 | 100.0 | /mnt/stockage/packages/f17/mingw-libgsf/po/lt.po | 
- | [lv]({{< ref "/f17/language/lv.md" >}}) | 263 | 263 | 100.0 | /mnt/stockage/packages/f17/mingw-libgsf/po/lv.po | 
- | [pl]({{< ref "/f17/language/pl.md" >}}) | 263 | 263 | 100.0 | /mnt/stockage/packages/f17/mingw-libgsf/po/pl.po | 
- | [pt]({{< ref "/f17/language/pt.md" >}}) | 843 | 843 | 100.0 | /mnt/stockage/packages/f17/mingw-libgsf/po/pt.po | 
- | [pt_BR]({{< ref "/f17/language/pt_BR.md" >}}) | 843 | 843 | 100.0 | /mnt/stockage/packages/f17/mingw-libgsf/po/pt_BR.po | 
- | [ro]({{< ref "/f17/language/ro.md" >}}) | 843 | 843 | 100.0 | /mnt/stockage/packages/f17/mingw-libgsf/po/ro.po | 
- | [ru]({{< ref "/f17/language/ru.md" >}}) | 249 | 249 | 100.0 | /mnt/stockage/packages/f17/mingw-libgsf/po/ru.po | 
- | [sl]({{< ref "/f17/language/sl.md" >}}) | 263 | 263 | 100.0 | /mnt/stockage/packages/f17/mingw-libgsf/po/sl.po | 
- | [sr]({{< ref "/f17/language/sr.md" >}}) | 526 | 526 | 100.0 | /mnt/stockage/packages/f17/mingw-libgsf/po/sr.po/mnt/stockage/packages/f17/mingw-libgsf/po/sr@latin.po | 
- | [sv]({{< ref "/f17/language/sv.md" >}}) | 843 | 843 | 100.0 | /mnt/stockage/packages/f17/mingw-libgsf/po/sv.po | 
- | [ta]({{< ref "/f17/language/ta.md" >}}) | 243 | 243 | 100.0 | /mnt/stockage/packages/f17/mingw-libgsf/po/ta.po | 
- | [tr]({{< ref "/f17/language/tr.md" >}}) | 213 | 213 | 100.0 | /mnt/stockage/packages/f17/mingw-libgsf/po/tr.po | 
- | [uk]({{< ref "/f17/language/uk.md" >}}) | 213 | 213 | 100.0 | /mnt/stockage/packages/f17/mingw-libgsf/po/uk.po | 
- | [zh_Hans]({{< ref "/f17/language/zh_Hans.md" >}}) | 249 | 249 | 100.0 | /mnt/stockage/packages/f17/mingw-libgsf/po/zh_CN.po | 
- | [nn]({{< ref "/f17/language/nn.md" >}}) | 833 | 843 | 98.8 | /mnt/stockage/packages/f17/mingw-libgsf/po/nn.po | 
- | [nb_NO]({{< ref "/f17/language/nb_NO.md" >}}) | 237 | 249 | 95.2 | /mnt/stockage/packages/f17/mingw-libgsf/po/nb.po | 
- | [zh_Hant]({{< ref "/f17/language/zh_Hant.md" >}}) | 647 | 715 | 90.5 | /mnt/stockage/packages/f17/mingw-libgsf/po/zh_TW.po | 
- | [zh_Hant_HK]({{< ref "/f17/language/zh_Hant_HK.md" >}}) | 647 | 715 | 90.5 | /mnt/stockage/packages/f17/mingw-libgsf/po/zh_HK.po | 
- | [pa]({{< ref "/f17/language/pa.md" >}}) | 69 | 843 | 8.2 | /mnt/stockage/packages/f17/mingw-libgsf/po/pa.po | 
- | [eo]({{< ref "/f17/language/eo.md" >}}) | 43 | 843 | 5.1 | /mnt/stockage/packages/f17/mingw-libgsf/po/eo.po | 
- | [oc]({{< ref "/f17/language/oc.md" >}}) | 0 | 77 | 0.0 | /mnt/stockage/packages/f17/mingw-libgsf/po/oc.po | 
+ | [ca](/f17/language/ca) | 243 | 243 | 100.0 | /mnt/stockage/packages/f17/mingw-libgsf/po/ca.po | 
+ | [cs](/f17/language/cs) | 249 | 249 | 100.0 | /mnt/stockage/packages/f17/mingw-libgsf/po/cs.po | 
+ | [da](/f17/language/da) | 249 | 249 | 100.0 | /mnt/stockage/packages/f17/mingw-libgsf/po/da.po | 
+ | [de](/f17/language/de) | 263 | 263 | 100.0 | /mnt/stockage/packages/f17/mingw-libgsf/po/de.po | 
+ | [el](/f17/language/el) | 249 | 249 | 100.0 | /mnt/stockage/packages/f17/mingw-libgsf/po/el.po | 
+ | [en_GB](/f17/language/en_GB) | 249 | 249 | 100.0 | /mnt/stockage/packages/f17/mingw-libgsf/po/en_GB.po | 
+ | [es](/f17/language/es) | 263 | 263 | 100.0 | /mnt/stockage/packages/f17/mingw-libgsf/po/es.po | 
+ | [eu](/f17/language/eu) | 843 | 843 | 100.0 | /mnt/stockage/packages/f17/mingw-libgsf/po/eu.po | 
+ | [fr](/f17/language/fr) | 843 | 843 | 100.0 | /mnt/stockage/packages/f17/mingw-libgsf/po/fr.po | 
+ | [gl](/f17/language/gl) | 263 | 263 | 100.0 | /mnt/stockage/packages/f17/mingw-libgsf/po/gl.po | 
+ | [id](/f17/language/id) | 263 | 263 | 100.0 | /mnt/stockage/packages/f17/mingw-libgsf/po/id.po | 
+ | [it](/f17/language/it) | 249 | 249 | 100.0 | /mnt/stockage/packages/f17/mingw-libgsf/po/it.po | 
+ | [ja](/f17/language/ja) | 249 | 249 | 100.0 | /mnt/stockage/packages/f17/mingw-libgsf/po/ja.po | 
+ | [lt](/f17/language/lt) | 263 | 263 | 100.0 | /mnt/stockage/packages/f17/mingw-libgsf/po/lt.po | 
+ | [lv](/f17/language/lv) | 263 | 263 | 100.0 | /mnt/stockage/packages/f17/mingw-libgsf/po/lv.po | 
+ | [pl](/f17/language/pl) | 263 | 263 | 100.0 | /mnt/stockage/packages/f17/mingw-libgsf/po/pl.po | 
+ | [pt](/f17/language/pt) | 843 | 843 | 100.0 | /mnt/stockage/packages/f17/mingw-libgsf/po/pt.po | 
+ | [pt_BR](/f17/language/pt_BR) | 843 | 843 | 100.0 | /mnt/stockage/packages/f17/mingw-libgsf/po/pt_BR.po | 
+ | [ro](/f17/language/ro) | 843 | 843 | 100.0 | /mnt/stockage/packages/f17/mingw-libgsf/po/ro.po | 
+ | [ru](/f17/language/ru) | 249 | 249 | 100.0 | /mnt/stockage/packages/f17/mingw-libgsf/po/ru.po | 
+ | [sl](/f17/language/sl) | 263 | 263 | 100.0 | /mnt/stockage/packages/f17/mingw-libgsf/po/sl.po | 
+ | [sr](/f17/language/sr) | 526 | 526 | 100.0 | /mnt/stockage/packages/f17/mingw-libgsf/po/sr.po/mnt/stockage/packages/f17/mingw-libgsf/po/sr@latin.po | 
+ | [sv](/f17/language/sv) | 843 | 843 | 100.0 | /mnt/stockage/packages/f17/mingw-libgsf/po/sv.po | 
+ | [ta](/f17/language/ta) | 243 | 243 | 100.0 | /mnt/stockage/packages/f17/mingw-libgsf/po/ta.po | 
+ | [tr](/f17/language/tr) | 213 | 213 | 100.0 | /mnt/stockage/packages/f17/mingw-libgsf/po/tr.po | 
+ | [uk](/f17/language/uk) | 213 | 213 | 100.0 | /mnt/stockage/packages/f17/mingw-libgsf/po/uk.po | 
+ | [zh_Hans](/f17/language/zh_Hans) | 249 | 249 | 100.0 | /mnt/stockage/packages/f17/mingw-libgsf/po/zh_CN.po | 
+ | [nn](/f17/language/nn) | 833 | 843 | 98.8 | /mnt/stockage/packages/f17/mingw-libgsf/po/nn.po | 
+ | [nb_NO](/f17/language/nb_NO) | 237 | 249 | 95.2 | /mnt/stockage/packages/f17/mingw-libgsf/po/nb.po | 
+ | [zh_Hant](/f17/language/zh_Hant) | 647 | 715 | 90.5 | /mnt/stockage/packages/f17/mingw-libgsf/po/zh_TW.po | 
+ | [zh_Hant_HK](/f17/language/zh_Hant_HK) | 647 | 715 | 90.5 | /mnt/stockage/packages/f17/mingw-libgsf/po/zh_HK.po | 
+ | [pa](/f17/language/pa) | 69 | 843 | 8.2 | /mnt/stockage/packages/f17/mingw-libgsf/po/pa.po | 
+ | [eo](/f17/language/eo) | 43 | 843 | 5.1 | /mnt/stockage/packages/f17/mingw-libgsf/po/eo.po | 
+ | [oc](/f17/language/oc) | 0 | 77 | 0.0 | /mnt/stockage/packages/f17/mingw-libgsf/po/oc.po | 
 {.sortable}
 
 

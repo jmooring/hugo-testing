@@ -18,10 +18,10 @@ The package debbuild (version 20.04.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f36/language/de.md" >}}) | 241 | 241 | 100.0 | /mnt/stockage/packages/f36/debbuild/po/de/debbuild.po | 
- | [tr]({{< ref "/f36/language/tr.md" >}}) | 241 | 241 | 100.0 | /mnt/stockage/packages/f36/debbuild/po/tr/debbuild.po | 
- | [uk]({{< ref "/f36/language/uk.md" >}}) | 241 | 241 | 100.0 | /mnt/stockage/packages/f36/debbuild/po/uk/debbuild.po | 
- | [it]({{< ref "/f36/language/it.md" >}}) | 5 | 241 | 2.1 | /mnt/stockage/packages/f36/debbuild/po/it/debbuild.po | 
+ | [de](/f36/language/de) | 241 | 241 | 100.0 | /mnt/stockage/packages/f36/debbuild/po/de/debbuild.po | 
+ | [tr](/f36/language/tr) | 241 | 241 | 100.0 | /mnt/stockage/packages/f36/debbuild/po/tr/debbuild.po | 
+ | [uk](/f36/language/uk) | 241 | 241 | 100.0 | /mnt/stockage/packages/f36/debbuild/po/uk/debbuild.po | 
+ | [it](/f36/language/it) | 5 | 241 | 2.1 | /mnt/stockage/packages/f36/debbuild/po/it/debbuild.po | 
 {.sortable}
 
 

@@ -18,49 +18,49 @@ The package kbackup (version 25.12.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f42/language/ar.md" >}}) | 694 | 694 | 100.0 | /mnt/stockage/packages/f42/kbackup/po/ar/kbackup.po | 
- | [bg]({{< ref "/f42/language/bg.md" >}}) | 694 | 694 | 100.0 | /mnt/stockage/packages/f42/kbackup/po/bg/kbackup.po | 
- | [ca]({{< ref "/f42/language/ca.md" >}}) | 694 | 694 | 100.0 | /mnt/stockage/packages/f42/kbackup/po/ca/kbackup.po | 
- | [ca@valencia]({{< ref "/f42/language/ca@valencia.md" >}}) | 694 | 694 | 100.0 | /mnt/stockage/packages/f42/kbackup/po/ca@valencia/kbackup.po | 
- | [de]({{< ref "/f42/language/de.md" >}}) | 694 | 694 | 100.0 | /mnt/stockage/packages/f42/kbackup/po/de/kbackup.po | 
- | [el]({{< ref "/f42/language/el.md" >}}) | 694 | 694 | 100.0 | /mnt/stockage/packages/f42/kbackup/po/el/kbackup.po | 
- | [en_GB]({{< ref "/f42/language/en_GB.md" >}}) | 694 | 694 | 100.0 | /mnt/stockage/packages/f42/kbackup/po/en_GB/kbackup.po | 
- | [eo]({{< ref "/f42/language/eo.md" >}}) | 694 | 694 | 100.0 | /mnt/stockage/packages/f42/kbackup/po/eo/kbackup.po | 
- | [es]({{< ref "/f42/language/es.md" >}}) | 694 | 694 | 100.0 | /mnt/stockage/packages/f42/kbackup/po/es/kbackup.po | 
- | [eu]({{< ref "/f42/language/eu.md" >}}) | 694 | 694 | 100.0 | /mnt/stockage/packages/f42/kbackup/po/eu/kbackup.po | 
- | [fi]({{< ref "/f42/language/fi.md" >}}) | 694 | 694 | 100.0 | /mnt/stockage/packages/f42/kbackup/po/fi/kbackup.po | 
- | [fr]({{< ref "/f42/language/fr.md" >}}) | 694 | 694 | 100.0 | /mnt/stockage/packages/f42/kbackup/po/fr/kbackup.po | 
- | [gl]({{< ref "/f42/language/gl.md" >}}) | 694 | 694 | 100.0 | /mnt/stockage/packages/f42/kbackup/po/gl/kbackup.po | 
- | [he]({{< ref "/f42/language/he.md" >}}) | 694 | 694 | 100.0 | /mnt/stockage/packages/f42/kbackup/po/he/kbackup.po | 
- | [hi]({{< ref "/f42/language/hi.md" >}}) | 694 | 694 | 100.0 | /mnt/stockage/packages/f42/kbackup/po/hi/kbackup.po | 
- | [ia]({{< ref "/f42/language/ia.md" >}}) | 694 | 694 | 100.0 | /mnt/stockage/packages/f42/kbackup/po/ia/kbackup.po | 
- | [is]({{< ref "/f42/language/is.md" >}}) | 694 | 694 | 100.0 | /mnt/stockage/packages/f42/kbackup/po/is/kbackup.po | 
- | [it]({{< ref "/f42/language/it.md" >}}) | 694 | 694 | 100.0 | /mnt/stockage/packages/f42/kbackup/po/it/kbackup.po | 
- | [ka]({{< ref "/f42/language/ka.md" >}}) | 694 | 694 | 100.0 | /mnt/stockage/packages/f42/kbackup/po/ka/kbackup.po | 
- | [ko]({{< ref "/f42/language/ko.md" >}}) | 694 | 694 | 100.0 | /mnt/stockage/packages/f42/kbackup/po/ko/kbackup.po | 
- | [lt]({{< ref "/f42/language/lt.md" >}}) | 694 | 694 | 100.0 | /mnt/stockage/packages/f42/kbackup/po/lt/kbackup.po | 
- | [lv]({{< ref "/f42/language/lv.md" >}}) | 694 | 694 | 100.0 | /mnt/stockage/packages/f42/kbackup/po/lv/kbackup.po | 
- | [nl]({{< ref "/f42/language/nl.md" >}}) | 694 | 694 | 100.0 | /mnt/stockage/packages/f42/kbackup/po/nl/kbackup.po | 
- | [nn]({{< ref "/f42/language/nn.md" >}}) | 694 | 694 | 100.0 | /mnt/stockage/packages/f42/kbackup/po/nn/kbackup.po | 
- | [pl]({{< ref "/f42/language/pl.md" >}}) | 694 | 694 | 100.0 | /mnt/stockage/packages/f42/kbackup/po/pl/kbackup.po | 
- | [pt]({{< ref "/f42/language/pt.md" >}}) | 694 | 694 | 100.0 | /mnt/stockage/packages/f42/kbackup/po/pt/kbackup.po | 
- | [pt_BR]({{< ref "/f42/language/pt_BR.md" >}}) | 694 | 694 | 100.0 | /mnt/stockage/packages/f42/kbackup/po/pt_BR/kbackup.po | 
- | [ru]({{< ref "/f42/language/ru.md" >}}) | 694 | 694 | 100.0 | /mnt/stockage/packages/f42/kbackup/po/ru/kbackup.po | 
- | [sa]({{< ref "/f42/language/sa.md" >}}) | 694 | 694 | 100.0 | /mnt/stockage/packages/f42/kbackup/po/sa/kbackup.po | 
- | [sk]({{< ref "/f42/language/sk.md" >}}) | 694 | 694 | 100.0 | /mnt/stockage/packages/f42/kbackup/po/sk/kbackup.po | 
- | [sl]({{< ref "/f42/language/sl.md" >}}) | 694 | 694 | 100.0 | /mnt/stockage/packages/f42/kbackup/po/sl/kbackup.po | 
- | [sv]({{< ref "/f42/language/sv.md" >}}) | 694 | 694 | 100.0 | /mnt/stockage/packages/f42/kbackup/po/sv/kbackup.po | 
- | [tr]({{< ref "/f42/language/tr.md" >}}) | 694 | 694 | 100.0 | /mnt/stockage/packages/f42/kbackup/po/tr/kbackup.po | 
- | [uk]({{< ref "/f42/language/uk.md" >}}) | 694 | 694 | 100.0 | /mnt/stockage/packages/f42/kbackup/po/uk/kbackup.po | 
- | [zh_Hans]({{< ref "/f42/language/zh_Hans.md" >}}) | 694 | 694 | 100.0 | /mnt/stockage/packages/f42/kbackup/po/zh_CN/kbackup.po | 
- | [zh_Hant]({{< ref "/f42/language/zh_Hant.md" >}}) | 694 | 694 | 100.0 | /mnt/stockage/packages/f42/kbackup/po/zh_TW/kbackup.po | 
- | [et]({{< ref "/f42/language/et.md" >}}) | 677 | 694 | 97.6 | /mnt/stockage/packages/f42/kbackup/po/et/kbackup.po | 
- | [cs]({{< ref "/f42/language/cs.md" >}}) | 583 | 694 | 84.0 | /mnt/stockage/packages/f42/kbackup/po/cs/kbackup.po | 
- | [ie]({{< ref "/f42/language/ie.md" >}}) | 168 | 694 | 24.2 | /mnt/stockage/packages/f42/kbackup/po/ie/kbackup.po | 
- | [da]({{< ref "/f42/language/da.md" >}}) | 129 | 694 | 18.6 | /mnt/stockage/packages/f42/kbackup/po/da/kbackup.po | 
- | [ast]({{< ref "/f42/language/ast.md" >}}) | 4 | 694 | 0.6 | /mnt/stockage/packages/f42/kbackup/po/ast/kbackup.po | 
- | [ga]({{< ref "/f42/language/ga.md" >}}) | 0 | 694 | 0.0 | /mnt/stockage/packages/f42/kbackup/po/ga/kbackup.po | 
- | [ja]({{< ref "/f42/language/ja.md" >}}) | 0 | 694 | 0.0 | /mnt/stockage/packages/f42/kbackup/po/ja/kbackup.po | 
+ | [ar](/f42/language/ar) | 694 | 694 | 100.0 | /mnt/stockage/packages/f42/kbackup/po/ar/kbackup.po | 
+ | [bg](/f42/language/bg) | 694 | 694 | 100.0 | /mnt/stockage/packages/f42/kbackup/po/bg/kbackup.po | 
+ | [ca](/f42/language/ca) | 694 | 694 | 100.0 | /mnt/stockage/packages/f42/kbackup/po/ca/kbackup.po | 
+ | [ca@valencia](/f42/language/ca@valencia) | 694 | 694 | 100.0 | /mnt/stockage/packages/f42/kbackup/po/ca@valencia/kbackup.po | 
+ | [de](/f42/language/de) | 694 | 694 | 100.0 | /mnt/stockage/packages/f42/kbackup/po/de/kbackup.po | 
+ | [el](/f42/language/el) | 694 | 694 | 100.0 | /mnt/stockage/packages/f42/kbackup/po/el/kbackup.po | 
+ | [en_GB](/f42/language/en_GB) | 694 | 694 | 100.0 | /mnt/stockage/packages/f42/kbackup/po/en_GB/kbackup.po | 
+ | [eo](/f42/language/eo) | 694 | 694 | 100.0 | /mnt/stockage/packages/f42/kbackup/po/eo/kbackup.po | 
+ | [es](/f42/language/es) | 694 | 694 | 100.0 | /mnt/stockage/packages/f42/kbackup/po/es/kbackup.po | 
+ | [eu](/f42/language/eu) | 694 | 694 | 100.0 | /mnt/stockage/packages/f42/kbackup/po/eu/kbackup.po | 
+ | [fi](/f42/language/fi) | 694 | 694 | 100.0 | /mnt/stockage/packages/f42/kbackup/po/fi/kbackup.po | 
+ | [fr](/f42/language/fr) | 694 | 694 | 100.0 | /mnt/stockage/packages/f42/kbackup/po/fr/kbackup.po | 
+ | [gl](/f42/language/gl) | 694 | 694 | 100.0 | /mnt/stockage/packages/f42/kbackup/po/gl/kbackup.po | 
+ | [he](/f42/language/he) | 694 | 694 | 100.0 | /mnt/stockage/packages/f42/kbackup/po/he/kbackup.po | 
+ | [hi](/f42/language/hi) | 694 | 694 | 100.0 | /mnt/stockage/packages/f42/kbackup/po/hi/kbackup.po | 
+ | [ia](/f42/language/ia) | 694 | 694 | 100.0 | /mnt/stockage/packages/f42/kbackup/po/ia/kbackup.po | 
+ | [is](/f42/language/is) | 694 | 694 | 100.0 | /mnt/stockage/packages/f42/kbackup/po/is/kbackup.po | 
+ | [it](/f42/language/it) | 694 | 694 | 100.0 | /mnt/stockage/packages/f42/kbackup/po/it/kbackup.po | 
+ | [ka](/f42/language/ka) | 694 | 694 | 100.0 | /mnt/stockage/packages/f42/kbackup/po/ka/kbackup.po | 
+ | [ko](/f42/language/ko) | 694 | 694 | 100.0 | /mnt/stockage/packages/f42/kbackup/po/ko/kbackup.po | 
+ | [lt](/f42/language/lt) | 694 | 694 | 100.0 | /mnt/stockage/packages/f42/kbackup/po/lt/kbackup.po | 
+ | [lv](/f42/language/lv) | 694 | 694 | 100.0 | /mnt/stockage/packages/f42/kbackup/po/lv/kbackup.po | 
+ | [nl](/f42/language/nl) | 694 | 694 | 100.0 | /mnt/stockage/packages/f42/kbackup/po/nl/kbackup.po | 
+ | [nn](/f42/language/nn) | 694 | 694 | 100.0 | /mnt/stockage/packages/f42/kbackup/po/nn/kbackup.po | 
+ | [pl](/f42/language/pl) | 694 | 694 | 100.0 | /mnt/stockage/packages/f42/kbackup/po/pl/kbackup.po | 
+ | [pt](/f42/language/pt) | 694 | 694 | 100.0 | /mnt/stockage/packages/f42/kbackup/po/pt/kbackup.po | 
+ | [pt_BR](/f42/language/pt_BR) | 694 | 694 | 100.0 | /mnt/stockage/packages/f42/kbackup/po/pt_BR/kbackup.po | 
+ | [ru](/f42/language/ru) | 694 | 694 | 100.0 | /mnt/stockage/packages/f42/kbackup/po/ru/kbackup.po | 
+ | [sa](/f42/language/sa) | 694 | 694 | 100.0 | /mnt/stockage/packages/f42/kbackup/po/sa/kbackup.po | 
+ | [sk](/f42/language/sk) | 694 | 694 | 100.0 | /mnt/stockage/packages/f42/kbackup/po/sk/kbackup.po | 
+ | [sl](/f42/language/sl) | 694 | 694 | 100.0 | /mnt/stockage/packages/f42/kbackup/po/sl/kbackup.po | 
+ | [sv](/f42/language/sv) | 694 | 694 | 100.0 | /mnt/stockage/packages/f42/kbackup/po/sv/kbackup.po | 
+ | [tr](/f42/language/tr) | 694 | 694 | 100.0 | /mnt/stockage/packages/f42/kbackup/po/tr/kbackup.po | 
+ | [uk](/f42/language/uk) | 694 | 694 | 100.0 | /mnt/stockage/packages/f42/kbackup/po/uk/kbackup.po | 
+ | [zh_Hans](/f42/language/zh_Hans) | 694 | 694 | 100.0 | /mnt/stockage/packages/f42/kbackup/po/zh_CN/kbackup.po | 
+ | [zh_Hant](/f42/language/zh_Hant) | 694 | 694 | 100.0 | /mnt/stockage/packages/f42/kbackup/po/zh_TW/kbackup.po | 
+ | [et](/f42/language/et) | 677 | 694 | 97.6 | /mnt/stockage/packages/f42/kbackup/po/et/kbackup.po | 
+ | [cs](/f42/language/cs) | 583 | 694 | 84.0 | /mnt/stockage/packages/f42/kbackup/po/cs/kbackup.po | 
+ | [ie](/f42/language/ie) | 168 | 694 | 24.2 | /mnt/stockage/packages/f42/kbackup/po/ie/kbackup.po | 
+ | [da](/f42/language/da) | 129 | 694 | 18.6 | /mnt/stockage/packages/f42/kbackup/po/da/kbackup.po | 
+ | [ast](/f42/language/ast) | 4 | 694 | 0.6 | /mnt/stockage/packages/f42/kbackup/po/ast/kbackup.po | 
+ | [ga](/f42/language/ga) | 0 | 694 | 0.0 | /mnt/stockage/packages/f42/kbackup/po/ga/kbackup.po | 
+ | [ja](/f42/language/ja) | 0 | 694 | 0.0 | /mnt/stockage/packages/f42/kbackup/po/ja/kbackup.po | 
 {.sortable}
 
 

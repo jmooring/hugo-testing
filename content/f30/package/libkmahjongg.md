@@ -18,55 +18,55 @@ The package libkmahjongg (version 19.04.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f30/language/ar.md" >}}) | 7 | 7 | 100.0 | /mnt/stockage/packages/f30/libkmahjongg/po/ar/libkmahjongg5.po | 
- | [bs]({{< ref "/f30/language/bs.md" >}}) | 7 | 7 | 100.0 | /mnt/stockage/packages/f30/libkmahjongg/po/bs/libkmahjongg5.po | 
- | [ca]({{< ref "/f30/language/ca.md" >}}) | 7 | 7 | 100.0 | /mnt/stockage/packages/f30/libkmahjongg/po/ca/libkmahjongg5.po | 
- | [ca@valencia]({{< ref "/f30/language/ca@valencia.md" >}}) | 7 | 7 | 100.0 | /mnt/stockage/packages/f30/libkmahjongg/po/ca@valencia/libkmahjongg5.po | 
- | [cs]({{< ref "/f30/language/cs.md" >}}) | 7 | 7 | 100.0 | /mnt/stockage/packages/f30/libkmahjongg/po/cs/libkmahjongg5.po | 
- | [da]({{< ref "/f30/language/da.md" >}}) | 7 | 7 | 100.0 | /mnt/stockage/packages/f30/libkmahjongg/po/da/libkmahjongg5.po | 
- | [de]({{< ref "/f30/language/de.md" >}}) | 7 | 7 | 100.0 | /mnt/stockage/packages/f30/libkmahjongg/po/de/libkmahjongg5.po | 
- | [el]({{< ref "/f30/language/el.md" >}}) | 7 | 7 | 100.0 | /mnt/stockage/packages/f30/libkmahjongg/po/el/libkmahjongg5.po | 
- | [en_GB]({{< ref "/f30/language/en_GB.md" >}}) | 7 | 7 | 100.0 | /mnt/stockage/packages/f30/libkmahjongg/po/en_GB/libkmahjongg5.po | 
- | [eo]({{< ref "/f30/language/eo.md" >}}) | 7 | 7 | 100.0 | /mnt/stockage/packages/f30/libkmahjongg/po/eo/libkmahjongg5.po | 
- | [es]({{< ref "/f30/language/es.md" >}}) | 7 | 7 | 100.0 | /mnt/stockage/packages/f30/libkmahjongg/po/es/libkmahjongg5.po | 
- | [et]({{< ref "/f30/language/et.md" >}}) | 7 | 7 | 100.0 | /mnt/stockage/packages/f30/libkmahjongg/po/et/libkmahjongg5.po | 
- | [eu]({{< ref "/f30/language/eu.md" >}}) | 7 | 7 | 100.0 | /mnt/stockage/packages/f30/libkmahjongg/po/eu/libkmahjongg5.po | 
- | [fi]({{< ref "/f30/language/fi.md" >}}) | 7 | 7 | 100.0 | /mnt/stockage/packages/f30/libkmahjongg/po/fi/libkmahjongg5.po | 
- | [fr]({{< ref "/f30/language/fr.md" >}}) | 7 | 7 | 100.0 | /mnt/stockage/packages/f30/libkmahjongg/po/fr/libkmahjongg5.po | 
- | [ga]({{< ref "/f30/language/ga.md" >}}) | 7 | 7 | 100.0 | /mnt/stockage/packages/f30/libkmahjongg/po/ga/libkmahjongg5.po | 
- | [gl]({{< ref "/f30/language/gl.md" >}}) | 7 | 7 | 100.0 | /mnt/stockage/packages/f30/libkmahjongg/po/gl/libkmahjongg5.po | 
- | [hi]({{< ref "/f30/language/hi.md" >}}) | 7 | 7 | 100.0 | /mnt/stockage/packages/f30/libkmahjongg/po/hi/libkmahjongg5.po | 
- | [hu]({{< ref "/f30/language/hu.md" >}}) | 7 | 7 | 100.0 | /mnt/stockage/packages/f30/libkmahjongg/po/hu/libkmahjongg5.po | 
- | [id]({{< ref "/f30/language/id.md" >}}) | 7 | 7 | 100.0 | /mnt/stockage/packages/f30/libkmahjongg/po/id/libkmahjongg5.po | 
- | [it]({{< ref "/f30/language/it.md" >}}) | 7 | 7 | 100.0 | /mnt/stockage/packages/f30/libkmahjongg/po/it/libkmahjongg5.po | 
- | [ja]({{< ref "/f30/language/ja.md" >}}) | 7 | 7 | 100.0 | /mnt/stockage/packages/f30/libkmahjongg/po/ja/libkmahjongg5.po | 
- | [kk]({{< ref "/f30/language/kk.md" >}}) | 7 | 7 | 100.0 | /mnt/stockage/packages/f30/libkmahjongg/po/kk/libkmahjongg5.po | 
- | [km]({{< ref "/f30/language/km.md" >}}) | 7 | 7 | 100.0 | /mnt/stockage/packages/f30/libkmahjongg/po/km/libkmahjongg5.po | 
- | [ko]({{< ref "/f30/language/ko.md" >}}) | 7 | 7 | 100.0 | /mnt/stockage/packages/f30/libkmahjongg/po/ko/libkmahjongg5.po | 
- | [lt]({{< ref "/f30/language/lt.md" >}}) | 7 | 7 | 100.0 | /mnt/stockage/packages/f30/libkmahjongg/po/lt/libkmahjongg5.po | 
- | [lv]({{< ref "/f30/language/lv.md" >}}) | 7 | 7 | 100.0 | /mnt/stockage/packages/f30/libkmahjongg/po/lv/libkmahjongg5.po | 
- | [mr]({{< ref "/f30/language/mr.md" >}}) | 7 | 7 | 100.0 | /mnt/stockage/packages/f30/libkmahjongg/po/mr/libkmahjongg5.po | 
- | [nb_NO]({{< ref "/f30/language/nb_NO.md" >}}) | 7 | 7 | 100.0 | /mnt/stockage/packages/f30/libkmahjongg/po/nb/libkmahjongg5.po | 
- | [nds]({{< ref "/f30/language/nds.md" >}}) | 7 | 7 | 100.0 | /mnt/stockage/packages/f30/libkmahjongg/po/nds/libkmahjongg5.po | 
- | [nl]({{< ref "/f30/language/nl.md" >}}) | 7 | 7 | 100.0 | /mnt/stockage/packages/f30/libkmahjongg/po/nl/libkmahjongg5.po | 
- | [nn]({{< ref "/f30/language/nn.md" >}}) | 7 | 7 | 100.0 | /mnt/stockage/packages/f30/libkmahjongg/po/nn/libkmahjongg5.po | 
- | [pl]({{< ref "/f30/language/pl.md" >}}) | 7 | 7 | 100.0 | /mnt/stockage/packages/f30/libkmahjongg/po/pl/libkmahjongg5.po | 
- | [pt]({{< ref "/f30/language/pt.md" >}}) | 7 | 7 | 100.0 | /mnt/stockage/packages/f30/libkmahjongg/po/pt/libkmahjongg5.po | 
- | [pt_BR]({{< ref "/f30/language/pt_BR.md" >}}) | 7 | 7 | 100.0 | /mnt/stockage/packages/f30/libkmahjongg/po/pt_BR/libkmahjongg5.po | 
- | [ro]({{< ref "/f30/language/ro.md" >}}) | 7 | 7 | 100.0 | /mnt/stockage/packages/f30/libkmahjongg/po/ro/libkmahjongg5.po | 
- | [ru]({{< ref "/f30/language/ru.md" >}}) | 7 | 7 | 100.0 | /mnt/stockage/packages/f30/libkmahjongg/po/ru/libkmahjongg5.po | 
- | [sk]({{< ref "/f30/language/sk.md" >}}) | 7 | 7 | 100.0 | /mnt/stockage/packages/f30/libkmahjongg/po/sk/libkmahjongg5.po | 
- | [sl]({{< ref "/f30/language/sl.md" >}}) | 7 | 7 | 100.0 | /mnt/stockage/packages/f30/libkmahjongg/po/sl/libkmahjongg5.po | 
- | [sr]({{< ref "/f30/language/sr.md" >}}) | 7 | 7 | 100.0 | /mnt/stockage/packages/f30/libkmahjongg/po/sr/libkmahjongg5.po | 
- | [sv]({{< ref "/f30/language/sv.md" >}}) | 7 | 7 | 100.0 | /mnt/stockage/packages/f30/libkmahjongg/po/sv/libkmahjongg5.po | 
- | [tr]({{< ref "/f30/language/tr.md" >}}) | 7 | 7 | 100.0 | /mnt/stockage/packages/f30/libkmahjongg/po/tr/libkmahjongg5.po | 
- | [ug]({{< ref "/f30/language/ug.md" >}}) | 7 | 7 | 100.0 | /mnt/stockage/packages/f30/libkmahjongg/po/ug/libkmahjongg5.po | 
- | [uk]({{< ref "/f30/language/uk.md" >}}) | 7 | 7 | 100.0 | /mnt/stockage/packages/f30/libkmahjongg/po/uk/libkmahjongg5.po | 
- | [wa]({{< ref "/f30/language/wa.md" >}}) | 7 | 7 | 100.0 | /mnt/stockage/packages/f30/libkmahjongg/po/wa/libkmahjongg5.po | 
- | [zh_Hans]({{< ref "/f30/language/zh_Hans.md" >}}) | 7 | 7 | 100.0 | /mnt/stockage/packages/f30/libkmahjongg/po/zh_CN/libkmahjongg5.po | 
- | [zh_Hant]({{< ref "/f30/language/zh_Hant.md" >}}) | 7 | 7 | 100.0 | /mnt/stockage/packages/f30/libkmahjongg/po/zh_TW/libkmahjongg5.po | 
- | [hr]({{< ref "/f30/language/hr.md" >}}) | 3 | 7 | 42.9 | /mnt/stockage/packages/f30/libkmahjongg/po/hr/libkmahjongg5.po | 
- | [is]({{< ref "/f30/language/is.md" >}}) | 0 | 7 | 0.0 | /mnt/stockage/packages/f30/libkmahjongg/po/is/libkmahjongg5.po | 
+ | [ar](/f30/language/ar) | 7 | 7 | 100.0 | /mnt/stockage/packages/f30/libkmahjongg/po/ar/libkmahjongg5.po | 
+ | [bs](/f30/language/bs) | 7 | 7 | 100.0 | /mnt/stockage/packages/f30/libkmahjongg/po/bs/libkmahjongg5.po | 
+ | [ca](/f30/language/ca) | 7 | 7 | 100.0 | /mnt/stockage/packages/f30/libkmahjongg/po/ca/libkmahjongg5.po | 
+ | [ca@valencia](/f30/language/ca@valencia) | 7 | 7 | 100.0 | /mnt/stockage/packages/f30/libkmahjongg/po/ca@valencia/libkmahjongg5.po | 
+ | [cs](/f30/language/cs) | 7 | 7 | 100.0 | /mnt/stockage/packages/f30/libkmahjongg/po/cs/libkmahjongg5.po | 
+ | [da](/f30/language/da) | 7 | 7 | 100.0 | /mnt/stockage/packages/f30/libkmahjongg/po/da/libkmahjongg5.po | 
+ | [de](/f30/language/de) | 7 | 7 | 100.0 | /mnt/stockage/packages/f30/libkmahjongg/po/de/libkmahjongg5.po | 
+ | [el](/f30/language/el) | 7 | 7 | 100.0 | /mnt/stockage/packages/f30/libkmahjongg/po/el/libkmahjongg5.po | 
+ | [en_GB](/f30/language/en_GB) | 7 | 7 | 100.0 | /mnt/stockage/packages/f30/libkmahjongg/po/en_GB/libkmahjongg5.po | 
+ | [eo](/f30/language/eo) | 7 | 7 | 100.0 | /mnt/stockage/packages/f30/libkmahjongg/po/eo/libkmahjongg5.po | 
+ | [es](/f30/language/es) | 7 | 7 | 100.0 | /mnt/stockage/packages/f30/libkmahjongg/po/es/libkmahjongg5.po | 
+ | [et](/f30/language/et) | 7 | 7 | 100.0 | /mnt/stockage/packages/f30/libkmahjongg/po/et/libkmahjongg5.po | 
+ | [eu](/f30/language/eu) | 7 | 7 | 100.0 | /mnt/stockage/packages/f30/libkmahjongg/po/eu/libkmahjongg5.po | 
+ | [fi](/f30/language/fi) | 7 | 7 | 100.0 | /mnt/stockage/packages/f30/libkmahjongg/po/fi/libkmahjongg5.po | 
+ | [fr](/f30/language/fr) | 7 | 7 | 100.0 | /mnt/stockage/packages/f30/libkmahjongg/po/fr/libkmahjongg5.po | 
+ | [ga](/f30/language/ga) | 7 | 7 | 100.0 | /mnt/stockage/packages/f30/libkmahjongg/po/ga/libkmahjongg5.po | 
+ | [gl](/f30/language/gl) | 7 | 7 | 100.0 | /mnt/stockage/packages/f30/libkmahjongg/po/gl/libkmahjongg5.po | 
+ | [hi](/f30/language/hi) | 7 | 7 | 100.0 | /mnt/stockage/packages/f30/libkmahjongg/po/hi/libkmahjongg5.po | 
+ | [hu](/f30/language/hu) | 7 | 7 | 100.0 | /mnt/stockage/packages/f30/libkmahjongg/po/hu/libkmahjongg5.po | 
+ | [id](/f30/language/id) | 7 | 7 | 100.0 | /mnt/stockage/packages/f30/libkmahjongg/po/id/libkmahjongg5.po | 
+ | [it](/f30/language/it) | 7 | 7 | 100.0 | /mnt/stockage/packages/f30/libkmahjongg/po/it/libkmahjongg5.po | 
+ | [ja](/f30/language/ja) | 7 | 7 | 100.0 | /mnt/stockage/packages/f30/libkmahjongg/po/ja/libkmahjongg5.po | 
+ | [kk](/f30/language/kk) | 7 | 7 | 100.0 | /mnt/stockage/packages/f30/libkmahjongg/po/kk/libkmahjongg5.po | 
+ | [km](/f30/language/km) | 7 | 7 | 100.0 | /mnt/stockage/packages/f30/libkmahjongg/po/km/libkmahjongg5.po | 
+ | [ko](/f30/language/ko) | 7 | 7 | 100.0 | /mnt/stockage/packages/f30/libkmahjongg/po/ko/libkmahjongg5.po | 
+ | [lt](/f30/language/lt) | 7 | 7 | 100.0 | /mnt/stockage/packages/f30/libkmahjongg/po/lt/libkmahjongg5.po | 
+ | [lv](/f30/language/lv) | 7 | 7 | 100.0 | /mnt/stockage/packages/f30/libkmahjongg/po/lv/libkmahjongg5.po | 
+ | [mr](/f30/language/mr) | 7 | 7 | 100.0 | /mnt/stockage/packages/f30/libkmahjongg/po/mr/libkmahjongg5.po | 
+ | [nb_NO](/f30/language/nb_NO) | 7 | 7 | 100.0 | /mnt/stockage/packages/f30/libkmahjongg/po/nb/libkmahjongg5.po | 
+ | [nds](/f30/language/nds) | 7 | 7 | 100.0 | /mnt/stockage/packages/f30/libkmahjongg/po/nds/libkmahjongg5.po | 
+ | [nl](/f30/language/nl) | 7 | 7 | 100.0 | /mnt/stockage/packages/f30/libkmahjongg/po/nl/libkmahjongg5.po | 
+ | [nn](/f30/language/nn) | 7 | 7 | 100.0 | /mnt/stockage/packages/f30/libkmahjongg/po/nn/libkmahjongg5.po | 
+ | [pl](/f30/language/pl) | 7 | 7 | 100.0 | /mnt/stockage/packages/f30/libkmahjongg/po/pl/libkmahjongg5.po | 
+ | [pt](/f30/language/pt) | 7 | 7 | 100.0 | /mnt/stockage/packages/f30/libkmahjongg/po/pt/libkmahjongg5.po | 
+ | [pt_BR](/f30/language/pt_BR) | 7 | 7 | 100.0 | /mnt/stockage/packages/f30/libkmahjongg/po/pt_BR/libkmahjongg5.po | 
+ | [ro](/f30/language/ro) | 7 | 7 | 100.0 | /mnt/stockage/packages/f30/libkmahjongg/po/ro/libkmahjongg5.po | 
+ | [ru](/f30/language/ru) | 7 | 7 | 100.0 | /mnt/stockage/packages/f30/libkmahjongg/po/ru/libkmahjongg5.po | 
+ | [sk](/f30/language/sk) | 7 | 7 | 100.0 | /mnt/stockage/packages/f30/libkmahjongg/po/sk/libkmahjongg5.po | 
+ | [sl](/f30/language/sl) | 7 | 7 | 100.0 | /mnt/stockage/packages/f30/libkmahjongg/po/sl/libkmahjongg5.po | 
+ | [sr](/f30/language/sr) | 7 | 7 | 100.0 | /mnt/stockage/packages/f30/libkmahjongg/po/sr/libkmahjongg5.po | 
+ | [sv](/f30/language/sv) | 7 | 7 | 100.0 | /mnt/stockage/packages/f30/libkmahjongg/po/sv/libkmahjongg5.po | 
+ | [tr](/f30/language/tr) | 7 | 7 | 100.0 | /mnt/stockage/packages/f30/libkmahjongg/po/tr/libkmahjongg5.po | 
+ | [ug](/f30/language/ug) | 7 | 7 | 100.0 | /mnt/stockage/packages/f30/libkmahjongg/po/ug/libkmahjongg5.po | 
+ | [uk](/f30/language/uk) | 7 | 7 | 100.0 | /mnt/stockage/packages/f30/libkmahjongg/po/uk/libkmahjongg5.po | 
+ | [wa](/f30/language/wa) | 7 | 7 | 100.0 | /mnt/stockage/packages/f30/libkmahjongg/po/wa/libkmahjongg5.po | 
+ | [zh_Hans](/f30/language/zh_Hans) | 7 | 7 | 100.0 | /mnt/stockage/packages/f30/libkmahjongg/po/zh_CN/libkmahjongg5.po | 
+ | [zh_Hant](/f30/language/zh_Hant) | 7 | 7 | 100.0 | /mnt/stockage/packages/f30/libkmahjongg/po/zh_TW/libkmahjongg5.po | 
+ | [hr](/f30/language/hr) | 3 | 7 | 42.9 | /mnt/stockage/packages/f30/libkmahjongg/po/hr/libkmahjongg5.po | 
+ | [is](/f30/language/is) | 0 | 7 | 0.0 | /mnt/stockage/packages/f30/libkmahjongg/po/is/libkmahjongg5.po | 
 {.sortable}
 
 

@@ -38,8 +38,8 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [efl]({{< ref "/f33/package/efl.md" >}}) | 5 | 5 | 100.0 |  | 
- | [stellarium]({{< ref "/f33/package/stellarium.md" >}}) | 26475 | 141404 | 18.7 | English (India) (https://www.transifex.com/stellarium/teams/80998/en_IN/) | 
+ | [efl](/f33/package/efl) | 5 | 5 | 100.0 |  | 
+ | [stellarium](/f33/package/stellarium) | 26475 | 141404 | 18.7 | English (India) (https://www.transifex.com/stellarium/teams/80998/en_IN/) | 
 {.sortable}
 
 

@@ -38,15 +38,15 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [xapps]({{< ref "/f33/package/xapps.md" >}}) | 21 | 73 | 28.8 | Berber (Other) <ber@li.org> | 
- | [blueberry]({{< ref "/f33/package/blueberry.md" >}}) | 13 | 166 | 7.8 | Berber (Other) <ber@li.org> | 
- | [lightdm-settings]({{< ref "/f33/package/lightdm-settings.md" >}}) | 16 | 321 | 5.0 | Berber (Other) <ber@li.org> | 
- | [xreader]({{< ref "/f33/package/xreader.md" >}}) | 77 | 1693 | 4.5 | Berber (Other) <ber@li.org> | 
- | [shutter]({{< ref "/f33/package/shutter.md" >}}) | 62 | 2448 | 2.5 | Berber (Other) <ber@li.org> | 
- | [cinnamon-translations]({{< ref "/f33/package/cinnamon-translations.md" >}}) | 30 | 7612 | 0.4 | Berber (Other) <ber@li.org> | 
- | [cpu-x]({{< ref "/f33/package/cpu-x.md" >}}) | 0 | 904 | 0.0 | none | 
- | [remmina]({{< ref "/f33/package/remmina.md" >}}) | 0 | 4279 | 0.0 | Berber <https://hosted.weblate.org/projects/remmina/remmina/ber/> | 
- | [stellarium]({{< ref "/f33/package/stellarium.md" >}}) | 0 | 19772 | 0.0 | Berber (Other) <ber@li.org> | 
+ | [xapps](/f33/package/xapps) | 21 | 73 | 28.8 | Berber (Other) <ber@li.org> | 
+ | [blueberry](/f33/package/blueberry) | 13 | 166 | 7.8 | Berber (Other) <ber@li.org> | 
+ | [lightdm-settings](/f33/package/lightdm-settings) | 16 | 321 | 5.0 | Berber (Other) <ber@li.org> | 
+ | [xreader](/f33/package/xreader) | 77 | 1693 | 4.5 | Berber (Other) <ber@li.org> | 
+ | [shutter](/f33/package/shutter) | 62 | 2448 | 2.5 | Berber (Other) <ber@li.org> | 
+ | [cinnamon-translations](/f33/package/cinnamon-translations) | 30 | 7612 | 0.4 | Berber (Other) <ber@li.org> | 
+ | [cpu-x](/f33/package/cpu-x) | 0 | 904 | 0.0 | none | 
+ | [remmina](/f33/package/remmina) | 0 | 4279 | 0.0 | Berber <https://hosted.weblate.org/projects/remmina/remmina/ber/> | 
+ | [stellarium](/f33/package/stellarium) | 0 | 19772 | 0.0 | Berber (Other) <ber@li.org> | 
 {.sortable}
 
 

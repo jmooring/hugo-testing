@@ -18,7 +18,7 @@ The package gydl (version 0.1.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [sv]({{< ref "/f39/language/sv.md" >}}) | 94 | 94 | 100.0 | /mnt/stockage/packages/f39/gydl/po/sv.po | 
+ | [sv](/f39/language/sv) | 94 | 94 | 100.0 | /mnt/stockage/packages/f39/gydl/po/sv.po | 
 {.sortable}
 
 

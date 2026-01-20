@@ -18,34 +18,34 @@ The package sharutils (version 4.15.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f37/language/cs.md" >}}) | 2974 | 3147 | 94.5 | /mnt/stockage/packages/f37/sharutils/po/cs.po | 
- | [eo]({{< ref "/f37/language/eo.md" >}}) | 2974 | 3147 | 94.5 | /mnt/stockage/packages/f37/sharutils/po/eo.po | 
- | [et]({{< ref "/f37/language/et.md" >}}) | 2974 | 3147 | 94.5 | /mnt/stockage/packages/f37/sharutils/po/et.po | 
- | [fr]({{< ref "/f37/language/fr.md" >}}) | 2974 | 3147 | 94.5 | /mnt/stockage/packages/f37/sharutils/po/fr.po | 
- | [pl]({{< ref "/f37/language/pl.md" >}}) | 2974 | 3147 | 94.5 | /mnt/stockage/packages/f37/sharutils/po/pl.po | 
- | [pt_BR]({{< ref "/f37/language/pt_BR.md" >}}) | 2974 | 3147 | 94.5 | /mnt/stockage/packages/f37/sharutils/po/pt_BR.po | 
- | [sr]({{< ref "/f37/language/sr.md" >}}) | 2974 | 3147 | 94.5 | /mnt/stockage/packages/f37/sharutils/po/sr.po | 
- | [uk]({{< ref "/f37/language/uk.md" >}}) | 2974 | 3147 | 94.5 | /mnt/stockage/packages/f37/sharutils/po/uk.po | 
- | [vi]({{< ref "/f37/language/vi.md" >}}) | 2974 | 3147 | 94.5 | /mnt/stockage/packages/f37/sharutils/po/vi.po | 
- | [de]({{< ref "/f37/language/de.md" >}}) | 2955 | 3147 | 93.9 | /mnt/stockage/packages/f37/sharutils/po/de.po | 
- | [nl]({{< ref "/f37/language/nl.md" >}}) | 2190 | 3147 | 69.6 | /mnt/stockage/packages/f37/sharutils/po/nl.po | 
- | [es]({{< ref "/f37/language/es.md" >}}) | 1693 | 3147 | 53.8 | /mnt/stockage/packages/f37/sharutils/po/es.po | 
- | [gl]({{< ref "/f37/language/gl.md" >}}) | 962 | 3147 | 30.6 | /mnt/stockage/packages/f37/sharutils/po/gl.po | 
- | [hu]({{< ref "/f37/language/hu.md" >}}) | 510 | 3147 | 16.2 | /mnt/stockage/packages/f37/sharutils/po/hu.po | 
- | [tr]({{< ref "/f37/language/tr.md" >}}) | 476 | 3147 | 15.1 | /mnt/stockage/packages/f37/sharutils/po/tr.po | 
- | [sv]({{< ref "/f37/language/sv.md" >}}) | 472 | 3147 | 15.0 | /mnt/stockage/packages/f37/sharutils/po/sv.po | 
- | [it]({{< ref "/f37/language/it.md" >}}) | 432 | 3147 | 13.7 | /mnt/stockage/packages/f37/sharutils/po/it.po | 
- | [ja]({{< ref "/f37/language/ja.md" >}}) | 377 | 3147 | 12.0 | /mnt/stockage/packages/f37/sharutils/po/ja.po | 
- | [da]({{< ref "/f37/language/da.md" >}}) | 345 | 3147 | 11.0 | /mnt/stockage/packages/f37/sharutils/po/da.po | 
- | [fi]({{< ref "/f37/language/fi.md" >}}) | 345 | 3147 | 11.0 | /mnt/stockage/packages/f37/sharutils/po/fi.po | 
- | [zh_Hans]({{< ref "/f37/language/zh_Hans.md" >}}) | 345 | 3147 | 11.0 | /mnt/stockage/packages/f37/sharutils/po/zh_CN.po | 
- | [ca]({{< ref "/f37/language/ca.md" >}}) | 339 | 3147 | 10.8 | /mnt/stockage/packages/f37/sharutils/po/ca.po | 
- | [id]({{< ref "/f37/language/id.md" >}}) | 243 | 3147 | 7.7 | /mnt/stockage/packages/f37/sharutils/po/id.po | 
- | [bg]({{< ref "/f37/language/bg.md" >}}) | 191 | 3147 | 6.1 | /mnt/stockage/packages/f37/sharutils/po/bg.po | 
- | [ga]({{< ref "/f37/language/ga.md" >}}) | 191 | 3147 | 6.1 | /mnt/stockage/packages/f37/sharutils/po/ga.po | 
- | [ru]({{< ref "/f37/language/ru.md" >}}) | 191 | 3147 | 6.1 | /mnt/stockage/packages/f37/sharutils/po/ru.po | 
- | [zh_Hant]({{< ref "/f37/language/zh_Hant.md" >}}) | 115 | 3147 | 3.7 | /mnt/stockage/packages/f37/sharutils/po/zh_TW.po | 
- | [el]({{< ref "/f37/language/el.md" >}}) | 107 | 3147 | 3.4 | /mnt/stockage/packages/f37/sharutils/po/el.po | 
+ | [cs](/f37/language/cs) | 2974 | 3147 | 94.5 | /mnt/stockage/packages/f37/sharutils/po/cs.po | 
+ | [eo](/f37/language/eo) | 2974 | 3147 | 94.5 | /mnt/stockage/packages/f37/sharutils/po/eo.po | 
+ | [et](/f37/language/et) | 2974 | 3147 | 94.5 | /mnt/stockage/packages/f37/sharutils/po/et.po | 
+ | [fr](/f37/language/fr) | 2974 | 3147 | 94.5 | /mnt/stockage/packages/f37/sharutils/po/fr.po | 
+ | [pl](/f37/language/pl) | 2974 | 3147 | 94.5 | /mnt/stockage/packages/f37/sharutils/po/pl.po | 
+ | [pt_BR](/f37/language/pt_BR) | 2974 | 3147 | 94.5 | /mnt/stockage/packages/f37/sharutils/po/pt_BR.po | 
+ | [sr](/f37/language/sr) | 2974 | 3147 | 94.5 | /mnt/stockage/packages/f37/sharutils/po/sr.po | 
+ | [uk](/f37/language/uk) | 2974 | 3147 | 94.5 | /mnt/stockage/packages/f37/sharutils/po/uk.po | 
+ | [vi](/f37/language/vi) | 2974 | 3147 | 94.5 | /mnt/stockage/packages/f37/sharutils/po/vi.po | 
+ | [de](/f37/language/de) | 2955 | 3147 | 93.9 | /mnt/stockage/packages/f37/sharutils/po/de.po | 
+ | [nl](/f37/language/nl) | 2190 | 3147 | 69.6 | /mnt/stockage/packages/f37/sharutils/po/nl.po | 
+ | [es](/f37/language/es) | 1693 | 3147 | 53.8 | /mnt/stockage/packages/f37/sharutils/po/es.po | 
+ | [gl](/f37/language/gl) | 962 | 3147 | 30.6 | /mnt/stockage/packages/f37/sharutils/po/gl.po | 
+ | [hu](/f37/language/hu) | 510 | 3147 | 16.2 | /mnt/stockage/packages/f37/sharutils/po/hu.po | 
+ | [tr](/f37/language/tr) | 476 | 3147 | 15.1 | /mnt/stockage/packages/f37/sharutils/po/tr.po | 
+ | [sv](/f37/language/sv) | 472 | 3147 | 15.0 | /mnt/stockage/packages/f37/sharutils/po/sv.po | 
+ | [it](/f37/language/it) | 432 | 3147 | 13.7 | /mnt/stockage/packages/f37/sharutils/po/it.po | 
+ | [ja](/f37/language/ja) | 377 | 3147 | 12.0 | /mnt/stockage/packages/f37/sharutils/po/ja.po | 
+ | [da](/f37/language/da) | 345 | 3147 | 11.0 | /mnt/stockage/packages/f37/sharutils/po/da.po | 
+ | [fi](/f37/language/fi) | 345 | 3147 | 11.0 | /mnt/stockage/packages/f37/sharutils/po/fi.po | 
+ | [zh_Hans](/f37/language/zh_Hans) | 345 | 3147 | 11.0 | /mnt/stockage/packages/f37/sharutils/po/zh_CN.po | 
+ | [ca](/f37/language/ca) | 339 | 3147 | 10.8 | /mnt/stockage/packages/f37/sharutils/po/ca.po | 
+ | [id](/f37/language/id) | 243 | 3147 | 7.7 | /mnt/stockage/packages/f37/sharutils/po/id.po | 
+ | [bg](/f37/language/bg) | 191 | 3147 | 6.1 | /mnt/stockage/packages/f37/sharutils/po/bg.po | 
+ | [ga](/f37/language/ga) | 191 | 3147 | 6.1 | /mnt/stockage/packages/f37/sharutils/po/ga.po | 
+ | [ru](/f37/language/ru) | 191 | 3147 | 6.1 | /mnt/stockage/packages/f37/sharutils/po/ru.po | 
+ | [zh_Hant](/f37/language/zh_Hant) | 115 | 3147 | 3.7 | /mnt/stockage/packages/f37/sharutils/po/zh_TW.po | 
+ | [el](/f37/language/el) | 107 | 3147 | 3.4 | /mnt/stockage/packages/f37/sharutils/po/el.po | 
 {.sortable}
 
 

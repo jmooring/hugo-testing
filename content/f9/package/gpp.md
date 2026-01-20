@@ -18,7 +18,7 @@ The package gpp (version 0.7.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f9/language/de.md" >}}) | 60 | 139 | 43.2 | /mnt/stockage/packages/f9/gpp/po/de.po | 
+ | [de](/f9/language/de) | 60 | 139 | 43.2 | /mnt/stockage/packages/f9/gpp/po/de.po | 
 {.sortable}
 
 

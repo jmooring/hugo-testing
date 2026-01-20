@@ -18,32 +18,32 @@ The package ejabberd (version 2.1.13):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f20/language/cs.md" >}}) | 1826 | 1826 | 100.0 | /mnt/stockage/packages/f20/ejabberd/src/msgs/cs.po | 
- | [de]({{< ref "/f20/language/de.md" >}}) | 1826 | 1826 | 100.0 | /mnt/stockage/packages/f20/ejabberd/src/msgs/de.po | 
- | [el]({{< ref "/f20/language/el.md" >}}) | 1826 | 1826 | 100.0 | /mnt/stockage/packages/f20/ejabberd/src/msgs/el.po | 
- | [en_US]({{< ref "/f20/language/en_US.md" >}}) | 1826 | 1826 | 100.0 | /mnt/stockage/packages/f20/ejabberd/src/msgs/ca.po | 
- | [es]({{< ref "/f20/language/es.md" >}}) | 1826 | 1826 | 100.0 | /mnt/stockage/packages/f20/ejabberd/src/msgs/es.po | 
- | [it]({{< ref "/f20/language/it.md" >}}) | 1826 | 1826 | 100.0 | /mnt/stockage/packages/f20/ejabberd/src/msgs/it.po | 
- | [ja]({{< ref "/f20/language/ja.md" >}}) | 1826 | 1826 | 100.0 | /mnt/stockage/packages/f20/ejabberd/src/msgs/ja.po | 
- | [nb_NO]({{< ref "/f20/language/nb_NO.md" >}}) | 1826 | 1826 | 100.0 | /mnt/stockage/packages/f20/ejabberd/src/msgs/no.po | 
- | [nl]({{< ref "/f20/language/nl.md" >}}) | 1826 | 1826 | 100.0 | /mnt/stockage/packages/f20/ejabberd/src/msgs/nl.po | 
- | [pl]({{< ref "/f20/language/pl.md" >}}) | 1826 | 1826 | 100.0 | /mnt/stockage/packages/f20/ejabberd/src/msgs/pl.po | 
- | [ru]({{< ref "/f20/language/ru.md" >}}) | 1826 | 1826 | 100.0 | /mnt/stockage/packages/f20/ejabberd/src/msgs/ru.po | 
- | [sk]({{< ref "/f20/language/sk.md" >}}) | 1825 | 1825 | 100.0 | /mnt/stockage/packages/f20/ejabberd/src/msgs/sk.po | 
- | [tr]({{< ref "/f20/language/tr.md" >}}) | 1826 | 1826 | 100.0 | /mnt/stockage/packages/f20/ejabberd/src/msgs/tr.po | 
- | [zh_Hans]({{< ref "/f20/language/zh_Hans.md" >}}) | 1826 | 1826 | 100.0 | /mnt/stockage/packages/f20/ejabberd/src/msgs/zh.po | 
- | [eo]({{< ref "/f20/language/eo.md" >}}) | 1799 | 1826 | 98.5 | /mnt/stockage/packages/f20/ejabberd/src/msgs/eo.po | 
- | [he]({{< ref "/f20/language/he.md" >}}) | 1769 | 1826 | 96.9 | /mnt/stockage/packages/f20/ejabberd/src/msgs/he.po | 
- | [uk]({{< ref "/f20/language/uk.md" >}}) | 1757 | 1826 | 96.2 | /mnt/stockage/packages/f20/ejabberd/src/msgs/uk.po | 
- | [pt_BR]({{< ref "/f20/language/pt_BR.md" >}}) | 1753 | 1826 | 96.0 | /mnt/stockage/packages/f20/ejabberd/src/msgs/pt-br.po | 
- | [fr]({{< ref "/f20/language/fr.md" >}}) | 1747 | 1826 | 95.7 | /mnt/stockage/packages/f20/ejabberd/src/msgs/fr.po | 
- | [id]({{< ref "/f20/language/id.md" >}}) | 1747 | 1826 | 95.7 | /mnt/stockage/packages/f20/ejabberd/src/msgs/id.po | 
- | [gl]({{< ref "/f20/language/gl.md" >}}) | 1462 | 1826 | 80.1 | /mnt/stockage/packages/f20/ejabberd/src/msgs/gl.po | 
- | [sv]({{< ref "/f20/language/sv.md" >}}) | 1389 | 1826 | 76.1 | /mnt/stockage/packages/f20/ejabberd/src/msgs/sv.po | 
- | [wa]({{< ref "/f20/language/wa.md" >}}) | 1131 | 1826 | 61.9 | /mnt/stockage/packages/f20/ejabberd/src/msgs/wa.po | 
- | [th]({{< ref "/f20/language/th.md" >}}) | 1012 | 1826 | 55.4 | /mnt/stockage/packages/f20/ejabberd/src/msgs/th.po | 
- | [vi]({{< ref "/f20/language/vi.md" >}}) | 1012 | 1826 | 55.4 | /mnt/stockage/packages/f20/ejabberd/src/msgs/vi.po | 
- | [pt]({{< ref "/f20/language/pt.md" >}}) | 435 | 1826 | 23.8 | /mnt/stockage/packages/f20/ejabberd/src/msgs/pt.po | 
+ | [cs](/f20/language/cs) | 1826 | 1826 | 100.0 | /mnt/stockage/packages/f20/ejabberd/src/msgs/cs.po | 
+ | [de](/f20/language/de) | 1826 | 1826 | 100.0 | /mnt/stockage/packages/f20/ejabberd/src/msgs/de.po | 
+ | [el](/f20/language/el) | 1826 | 1826 | 100.0 | /mnt/stockage/packages/f20/ejabberd/src/msgs/el.po | 
+ | [en_US](/f20/language/en_US) | 1826 | 1826 | 100.0 | /mnt/stockage/packages/f20/ejabberd/src/msgs/ca.po | 
+ | [es](/f20/language/es) | 1826 | 1826 | 100.0 | /mnt/stockage/packages/f20/ejabberd/src/msgs/es.po | 
+ | [it](/f20/language/it) | 1826 | 1826 | 100.0 | /mnt/stockage/packages/f20/ejabberd/src/msgs/it.po | 
+ | [ja](/f20/language/ja) | 1826 | 1826 | 100.0 | /mnt/stockage/packages/f20/ejabberd/src/msgs/ja.po | 
+ | [nb_NO](/f20/language/nb_NO) | 1826 | 1826 | 100.0 | /mnt/stockage/packages/f20/ejabberd/src/msgs/no.po | 
+ | [nl](/f20/language/nl) | 1826 | 1826 | 100.0 | /mnt/stockage/packages/f20/ejabberd/src/msgs/nl.po | 
+ | [pl](/f20/language/pl) | 1826 | 1826 | 100.0 | /mnt/stockage/packages/f20/ejabberd/src/msgs/pl.po | 
+ | [ru](/f20/language/ru) | 1826 | 1826 | 100.0 | /mnt/stockage/packages/f20/ejabberd/src/msgs/ru.po | 
+ | [sk](/f20/language/sk) | 1825 | 1825 | 100.0 | /mnt/stockage/packages/f20/ejabberd/src/msgs/sk.po | 
+ | [tr](/f20/language/tr) | 1826 | 1826 | 100.0 | /mnt/stockage/packages/f20/ejabberd/src/msgs/tr.po | 
+ | [zh_Hans](/f20/language/zh_Hans) | 1826 | 1826 | 100.0 | /mnt/stockage/packages/f20/ejabberd/src/msgs/zh.po | 
+ | [eo](/f20/language/eo) | 1799 | 1826 | 98.5 | /mnt/stockage/packages/f20/ejabberd/src/msgs/eo.po | 
+ | [he](/f20/language/he) | 1769 | 1826 | 96.9 | /mnt/stockage/packages/f20/ejabberd/src/msgs/he.po | 
+ | [uk](/f20/language/uk) | 1757 | 1826 | 96.2 | /mnt/stockage/packages/f20/ejabberd/src/msgs/uk.po | 
+ | [pt_BR](/f20/language/pt_BR) | 1753 | 1826 | 96.0 | /mnt/stockage/packages/f20/ejabberd/src/msgs/pt-br.po | 
+ | [fr](/f20/language/fr) | 1747 | 1826 | 95.7 | /mnt/stockage/packages/f20/ejabberd/src/msgs/fr.po | 
+ | [id](/f20/language/id) | 1747 | 1826 | 95.7 | /mnt/stockage/packages/f20/ejabberd/src/msgs/id.po | 
+ | [gl](/f20/language/gl) | 1462 | 1826 | 80.1 | /mnt/stockage/packages/f20/ejabberd/src/msgs/gl.po | 
+ | [sv](/f20/language/sv) | 1389 | 1826 | 76.1 | /mnt/stockage/packages/f20/ejabberd/src/msgs/sv.po | 
+ | [wa](/f20/language/wa) | 1131 | 1826 | 61.9 | /mnt/stockage/packages/f20/ejabberd/src/msgs/wa.po | 
+ | [th](/f20/language/th) | 1012 | 1826 | 55.4 | /mnt/stockage/packages/f20/ejabberd/src/msgs/th.po | 
+ | [vi](/f20/language/vi) | 1012 | 1826 | 55.4 | /mnt/stockage/packages/f20/ejabberd/src/msgs/vi.po | 
+ | [pt](/f20/language/pt) | 435 | 1826 | 23.8 | /mnt/stockage/packages/f20/ejabberd/src/msgs/pt.po | 
 {.sortable}
 
 

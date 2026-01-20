@@ -18,23 +18,23 @@ The package mingw-exiv2 (version 0.27.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [sv]({{< ref "/f34/language/sv.md" >}}) | 35017 | 38012 | 92.1 | /mnt/stockage/packages/f34/mingw-exiv2/po/sv.po | 
- | [ms]({{< ref "/f34/language/ms.md" >}}) | 28305 | 38012 | 74.5 | /mnt/stockage/packages/f34/mingw-exiv2/po/ms.po | 
- | [ca]({{< ref "/f34/language/ca.md" >}}) | 27459 | 38012 | 72.2 | /mnt/stockage/packages/f34/mingw-exiv2/po/ca.po | 
- | [es]({{< ref "/f34/language/es.md" >}}) | 27106 | 38012 | 71.3 | /mnt/stockage/packages/f34/mingw-exiv2/po/es.po | 
- | [bs]({{< ref "/f34/language/bs.md" >}}) | 23653 | 38012 | 62.2 | /mnt/stockage/packages/f34/mingw-exiv2/po/bs.po | 
- | [gl]({{< ref "/f34/language/gl.md" >}}) | 18175 | 38012 | 47.8 | /mnt/stockage/packages/f34/mingw-exiv2/po/gl.po | 
- | [de]({{< ref "/f34/language/de.md" >}}) | 13583 | 38012 | 35.7 | /mnt/stockage/packages/f34/mingw-exiv2/po/de.po | 
- | [pl]({{< ref "/f34/language/pl.md" >}}) | 12391 | 38012 | 32.6 | /mnt/stockage/packages/f34/mingw-exiv2/po/pl.po | 
- | [pt_BR]({{< ref "/f34/language/pt_BR.md" >}}) | 11784 | 38012 | 31.0 | /mnt/stockage/packages/f34/mingw-exiv2/po/pt.po | 
- | [sk]({{< ref "/f34/language/sk.md" >}}) | 9069 | 38012 | 23.9 | /mnt/stockage/packages/f34/mingw-exiv2/po/sk.po | 
- | [uk]({{< ref "/f34/language/uk.md" >}}) | 7418 | 38012 | 19.5 | /mnt/stockage/packages/f34/mingw-exiv2/po/uk.po | 
- | [fr]({{< ref "/f34/language/fr.md" >}}) | 4976 | 38012 | 13.1 | /mnt/stockage/packages/f34/mingw-exiv2/po/fr.po | 
- | [ug]({{< ref "/f34/language/ug.md" >}}) | 4663 | 38012 | 12.3 | /mnt/stockage/packages/f34/mingw-exiv2/po/ug.po | 
- | [nl]({{< ref "/f34/language/nl.md" >}}) | 3521 | 38012 | 9.3 | /mnt/stockage/packages/f34/mingw-exiv2/po/nl.po | 
- | [vi]({{< ref "/f34/language/vi.md" >}}) | 3333 | 38012 | 8.8 | /mnt/stockage/packages/f34/mingw-exiv2/po/vi.po | 
- | [ru]({{< ref "/f34/language/ru.md" >}}) | 3302 | 38012 | 8.7 | /mnt/stockage/packages/f34/mingw-exiv2/po/ru.po | 
- | [fi]({{< ref "/f34/language/fi.md" >}}) | 419 | 38012 | 1.1 | /mnt/stockage/packages/f34/mingw-exiv2/po/fi.po | 
+ | [sv](/f34/language/sv) | 35017 | 38012 | 92.1 | /mnt/stockage/packages/f34/mingw-exiv2/po/sv.po | 
+ | [ms](/f34/language/ms) | 28305 | 38012 | 74.5 | /mnt/stockage/packages/f34/mingw-exiv2/po/ms.po | 
+ | [ca](/f34/language/ca) | 27459 | 38012 | 72.2 | /mnt/stockage/packages/f34/mingw-exiv2/po/ca.po | 
+ | [es](/f34/language/es) | 27106 | 38012 | 71.3 | /mnt/stockage/packages/f34/mingw-exiv2/po/es.po | 
+ | [bs](/f34/language/bs) | 23653 | 38012 | 62.2 | /mnt/stockage/packages/f34/mingw-exiv2/po/bs.po | 
+ | [gl](/f34/language/gl) | 18175 | 38012 | 47.8 | /mnt/stockage/packages/f34/mingw-exiv2/po/gl.po | 
+ | [de](/f34/language/de) | 13583 | 38012 | 35.7 | /mnt/stockage/packages/f34/mingw-exiv2/po/de.po | 
+ | [pl](/f34/language/pl) | 12391 | 38012 | 32.6 | /mnt/stockage/packages/f34/mingw-exiv2/po/pl.po | 
+ | [pt_BR](/f34/language/pt_BR) | 11784 | 38012 | 31.0 | /mnt/stockage/packages/f34/mingw-exiv2/po/pt.po | 
+ | [sk](/f34/language/sk) | 9069 | 38012 | 23.9 | /mnt/stockage/packages/f34/mingw-exiv2/po/sk.po | 
+ | [uk](/f34/language/uk) | 7418 | 38012 | 19.5 | /mnt/stockage/packages/f34/mingw-exiv2/po/uk.po | 
+ | [fr](/f34/language/fr) | 4976 | 38012 | 13.1 | /mnt/stockage/packages/f34/mingw-exiv2/po/fr.po | 
+ | [ug](/f34/language/ug) | 4663 | 38012 | 12.3 | /mnt/stockage/packages/f34/mingw-exiv2/po/ug.po | 
+ | [nl](/f34/language/nl) | 3521 | 38012 | 9.3 | /mnt/stockage/packages/f34/mingw-exiv2/po/nl.po | 
+ | [vi](/f34/language/vi) | 3333 | 38012 | 8.8 | /mnt/stockage/packages/f34/mingw-exiv2/po/vi.po | 
+ | [ru](/f34/language/ru) | 3302 | 38012 | 8.7 | /mnt/stockage/packages/f34/mingw-exiv2/po/ru.po | 
+ | [fi](/f34/language/fi) | 419 | 38012 | 1.1 | /mnt/stockage/packages/f34/mingw-exiv2/po/fi.po | 
 {.sortable}
 
 

@@ -38,14 +38,14 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [gnome-applets]({{< ref "/f17/package/gnome-applets.md" >}}) | 3858 | 3858 | 100.0 | Spanish <traductores@es.gnome.org> | 
- | [openerp-client]({{< ref "/f17/package/openerp-client.md" >}}) | 7729 | 7729 | 100.0 | Spanish (Costa Rica) <es_CR@li.org> | 
- | [openerp]({{< ref "/f17/package/openerp.md" >}}) | 57419 | 57798 | 99.3 | Spanish (Costa Rica) <es_CR@li.org> | 
- | [libgweather]({{< ref "/f17/package/libgweather.md" >}}) | 447 | 460 | 97.2 | Spanish <traductores@es.gnome.org> | 
- | [libmateweather]({{< ref "/f17/package/libmateweather.md" >}}) | 395 | 465 | 84.9 | LANGUAGE <LL@li.org> | 
- | [mate-applets]({{< ref "/f17/package/mate-applets.md" >}}) | 2555 | 3299 | 77.4 | LANGUAGE <LL@li.org> | 
- | [gnomebaker]({{< ref "/f17/package/gnomebaker.md" >}}) | 159 | 1186 | 13.4 | Spanish (Costa Rica) <es_CR@li.org> | 
- | [openconnect]({{< ref "/f17/package/openconnect.md" >}}) | 0 | 2573 | 0.0 | Spanish (Costa Rica) (http://www.transifex.net/projects/p/meego/team/es_CR/) | 
+ | [gnome-applets](/f17/package/gnome-applets) | 3858 | 3858 | 100.0 | Spanish <traductores@es.gnome.org> | 
+ | [openerp-client](/f17/package/openerp-client) | 7729 | 7729 | 100.0 | Spanish (Costa Rica) <es_CR@li.org> | 
+ | [openerp](/f17/package/openerp) | 57419 | 57798 | 99.3 | Spanish (Costa Rica) <es_CR@li.org> | 
+ | [libgweather](/f17/package/libgweather) | 447 | 460 | 97.2 | Spanish <traductores@es.gnome.org> | 
+ | [libmateweather](/f17/package/libmateweather) | 395 | 465 | 84.9 | LANGUAGE <LL@li.org> | 
+ | [mate-applets](/f17/package/mate-applets) | 2555 | 3299 | 77.4 | LANGUAGE <LL@li.org> | 
+ | [gnomebaker](/f17/package/gnomebaker) | 159 | 1186 | 13.4 | Spanish (Costa Rica) <es_CR@li.org> | 
+ | [openconnect](/f17/package/openconnect) | 0 | 2573 | 0.0 | Spanish (Costa Rica) (http://www.transifex.net/projects/p/meego/team/es_CR/) | 
 {.sortable}
 
 

@@ -40,8 +40,8 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [tuxpaint]({{< ref "/f7/package/tuxpaint.md" >}}) | 62 | 587 | 10.6 | LANGUAGE <LL@li.org> | 
- | [gnomebaker]({{< ref "/f7/package/gnomebaker.md" >}}) | 0 | 1186 | 0.0 | Tibetan <bo@li.org> | 
+ | [tuxpaint](/f7/package/tuxpaint) | 62 | 587 | 10.6 | LANGUAGE <LL@li.org> | 
+ | [gnomebaker](/f7/package/gnomebaker) | 0 | 1186 | 0.0 | Tibetan <bo@li.org> | 
 {.sortable}
 
 

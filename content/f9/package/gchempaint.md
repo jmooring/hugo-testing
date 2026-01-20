@@ -18,13 +18,13 @@ The package gchempaint (version 0.8.7):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f9/language/fr.md" >}}) | 2148 | 2148 | 100.0 | /mnt/stockage/packages/f9/gchempaint/po/fr.po | 
- | [it]({{< ref "/f9/language/it.md" >}}) | 871 | 871 | 100.0 | /mnt/stockage/packages/f9/gchempaint/po/it.po | 
- | [pl]({{< ref "/f9/language/pl.md" >}}) | 2148 | 2148 | 100.0 | /mnt/stockage/packages/f9/gchempaint/po/pl.po | 
- | [pt_BR]({{< ref "/f9/language/pt_BR.md" >}}) | 2171 | 2171 | 100.0 | /mnt/stockage/packages/f9/gchempaint/po/pt_BR.po | 
- | [de]({{< ref "/f9/language/de.md" >}}) | 911 | 936 | 97.3 | /mnt/stockage/packages/f9/gchempaint/po/de.po | 
- | [zh_Hans]({{< ref "/f9/language/zh_Hans.md" >}}) | 780 | 827 | 94.3 | /mnt/stockage/packages/f9/gchempaint/po/zh_CN.po | 
- | [ru]({{< ref "/f9/language/ru.md" >}}) | 732 | 868 | 84.3 | /mnt/stockage/packages/f9/gchempaint/po/ru.po | 
+ | [fr](/f9/language/fr) | 2148 | 2148 | 100.0 | /mnt/stockage/packages/f9/gchempaint/po/fr.po | 
+ | [it](/f9/language/it) | 871 | 871 | 100.0 | /mnt/stockage/packages/f9/gchempaint/po/it.po | 
+ | [pl](/f9/language/pl) | 2148 | 2148 | 100.0 | /mnt/stockage/packages/f9/gchempaint/po/pl.po | 
+ | [pt_BR](/f9/language/pt_BR) | 2171 | 2171 | 100.0 | /mnt/stockage/packages/f9/gchempaint/po/pt_BR.po | 
+ | [de](/f9/language/de) | 911 | 936 | 97.3 | /mnt/stockage/packages/f9/gchempaint/po/de.po | 
+ | [zh_Hans](/f9/language/zh_Hans) | 780 | 827 | 94.3 | /mnt/stockage/packages/f9/gchempaint/po/zh_CN.po | 
+ | [ru](/f9/language/ru) | 732 | 868 | 84.3 | /mnt/stockage/packages/f9/gchempaint/po/ru.po | 
 {.sortable}
 
 

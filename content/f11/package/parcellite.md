@@ -18,12 +18,12 @@ The package parcellite (version 0.9.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f11/language/de.md" >}}) | 156 | 156 | 100.0 | /mnt/stockage/packages/f11/parcellite/po/de.po | 
- | [es]({{< ref "/f11/language/es.md" >}}) | 156 | 156 | 100.0 | /mnt/stockage/packages/f11/parcellite/po/es.po | 
- | [hu]({{< ref "/f11/language/hu.md" >}}) | 156 | 156 | 100.0 | /mnt/stockage/packages/f11/parcellite/po/hu.po | 
- | [ja]({{< ref "/f11/language/ja.md" >}}) | 156 | 156 | 100.0 | /mnt/stockage/packages/f11/parcellite/po/ja.po | 
- | [pt_BR]({{< ref "/f11/language/pt_BR.md" >}}) | 156 | 156 | 100.0 | /mnt/stockage/packages/f11/parcellite/po/pt_BR.po | 
- | [sv]({{< ref "/f11/language/sv.md" >}}) | 156 | 156 | 100.0 | /mnt/stockage/packages/f11/parcellite/po/sv.po | 
+ | [de](/f11/language/de) | 156 | 156 | 100.0 | /mnt/stockage/packages/f11/parcellite/po/de.po | 
+ | [es](/f11/language/es) | 156 | 156 | 100.0 | /mnt/stockage/packages/f11/parcellite/po/es.po | 
+ | [hu](/f11/language/hu) | 156 | 156 | 100.0 | /mnt/stockage/packages/f11/parcellite/po/hu.po | 
+ | [ja](/f11/language/ja) | 156 | 156 | 100.0 | /mnt/stockage/packages/f11/parcellite/po/ja.po | 
+ | [pt_BR](/f11/language/pt_BR) | 156 | 156 | 100.0 | /mnt/stockage/packages/f11/parcellite/po/pt_BR.po | 
+ | [sv](/f11/language/sv) | 156 | 156 | 100.0 | /mnt/stockage/packages/f11/parcellite/po/sv.po | 
 {.sortable}
 
 

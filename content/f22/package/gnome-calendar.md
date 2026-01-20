@@ -18,43 +18,43 @@ The package gnome-calendar (version 3.16.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f22/language/ar.md" >}}) | 222 | 222 | 100.0 | /mnt/stockage/packages/f22/gnome-calendar/po/ar.po | 
- | [bs]({{< ref "/f22/language/bs.md" >}}) | 224 | 224 | 100.0 | /mnt/stockage/packages/f22/gnome-calendar/po/bs.po | 
- | [ca]({{< ref "/f22/language/ca.md" >}}) | 222 | 222 | 100.0 | /mnt/stockage/packages/f22/gnome-calendar/po/ca.po | 
- | [cs]({{< ref "/f22/language/cs.md" >}}) | 224 | 224 | 100.0 | /mnt/stockage/packages/f22/gnome-calendar/po/cs.po | 
- | [da]({{< ref "/f22/language/da.md" >}}) | 224 | 224 | 100.0 | /mnt/stockage/packages/f22/gnome-calendar/po/da.po | 
- | [de]({{< ref "/f22/language/de.md" >}}) | 224 | 224 | 100.0 | /mnt/stockage/packages/f22/gnome-calendar/po/de.po | 
- | [el]({{< ref "/f22/language/el.md" >}}) | 224 | 224 | 100.0 | /mnt/stockage/packages/f22/gnome-calendar/po/el.po | 
- | [eo]({{< ref "/f22/language/eo.md" >}}) | 221 | 221 | 100.0 | /mnt/stockage/packages/f22/gnome-calendar/po/eo.po | 
- | [es]({{< ref "/f22/language/es.md" >}}) | 224 | 224 | 100.0 | /mnt/stockage/packages/f22/gnome-calendar/po/es.po | 
- | [eu]({{< ref "/f22/language/eu.md" >}}) | 222 | 222 | 100.0 | /mnt/stockage/packages/f22/gnome-calendar/po/eu.po | 
- | [fa]({{< ref "/f22/language/fa.md" >}}) | 128 | 128 | 100.0 | /mnt/stockage/packages/f22/gnome-calendar/po/fa.po | 
- | [fi]({{< ref "/f22/language/fi.md" >}}) | 224 | 224 | 100.0 | /mnt/stockage/packages/f22/gnome-calendar/po/fi.po | 
- | [fr]({{< ref "/f22/language/fr.md" >}}) | 224 | 224 | 100.0 | /mnt/stockage/packages/f22/gnome-calendar/po/fr.po | 
- | [gl]({{< ref "/f22/language/gl.md" >}}) | 224 | 224 | 100.0 | /mnt/stockage/packages/f22/gnome-calendar/po/gl.po | 
- | [he]({{< ref "/f22/language/he.md" >}}) | 224 | 224 | 100.0 | /mnt/stockage/packages/f22/gnome-calendar/po/he.po | 
- | [hu]({{< ref "/f22/language/hu.md" >}}) | 224 | 224 | 100.0 | /mnt/stockage/packages/f22/gnome-calendar/po/hu.po | 
- | [id]({{< ref "/f22/language/id.md" >}}) | 128 | 128 | 100.0 | /mnt/stockage/packages/f22/gnome-calendar/po/id.po | 
- | [it]({{< ref "/f22/language/it.md" >}}) | 224 | 224 | 100.0 | /mnt/stockage/packages/f22/gnome-calendar/po/it.po | 
- | [kk]({{< ref "/f22/language/kk.md" >}}) | 224 | 224 | 100.0 | /mnt/stockage/packages/f22/gnome-calendar/po/kk.po | 
- | [ko]({{< ref "/f22/language/ko.md" >}}) | 224 | 224 | 100.0 | /mnt/stockage/packages/f22/gnome-calendar/po/ko.po | 
- | [lt]({{< ref "/f22/language/lt.md" >}}) | 224 | 224 | 100.0 | /mnt/stockage/packages/f22/gnome-calendar/po/lt.po | 
- | [nb_NO]({{< ref "/f22/language/nb_NO.md" >}}) | 224 | 224 | 100.0 | /mnt/stockage/packages/f22/gnome-calendar/po/nb.po | 
- | [pa]({{< ref "/f22/language/pa.md" >}}) | 222 | 222 | 100.0 | /mnt/stockage/packages/f22/gnome-calendar/po/pa.po | 
- | [pl]({{< ref "/f22/language/pl.md" >}}) | 224 | 224 | 100.0 | /mnt/stockage/packages/f22/gnome-calendar/po/pl.po | 
- | [pt]({{< ref "/f22/language/pt.md" >}}) | 128 | 128 | 100.0 | /mnt/stockage/packages/f22/gnome-calendar/po/pt.po | 
- | [pt_BR]({{< ref "/f22/language/pt_BR.md" >}}) | 224 | 224 | 100.0 | /mnt/stockage/packages/f22/gnome-calendar/po/pt_BR.po | 
- | [ru]({{< ref "/f22/language/ru.md" >}}) | 224 | 224 | 100.0 | /mnt/stockage/packages/f22/gnome-calendar/po/ru.po | 
- | [sk]({{< ref "/f22/language/sk.md" >}}) | 224 | 224 | 100.0 | /mnt/stockage/packages/f22/gnome-calendar/po/sk.po | 
- | [sl]({{< ref "/f22/language/sl.md" >}}) | 224 | 224 | 100.0 | /mnt/stockage/packages/f22/gnome-calendar/po/sl.po | 
- | [sr]({{< ref "/f22/language/sr.md" >}}) | 448 | 448 | 100.0 | /mnt/stockage/packages/f22/gnome-calendar/po/sr.po/mnt/stockage/packages/f22/gnome-calendar/po/sr@latin.po | 
- | [sv]({{< ref "/f22/language/sv.md" >}}) | 222 | 222 | 100.0 | /mnt/stockage/packages/f22/gnome-calendar/po/sv.po | 
- | [tg]({{< ref "/f22/language/tg.md" >}}) | 222 | 222 | 100.0 | /mnt/stockage/packages/f22/gnome-calendar/po/tg.po | 
- | [th]({{< ref "/f22/language/th.md" >}}) | 222 | 222 | 100.0 | /mnt/stockage/packages/f22/gnome-calendar/po/th.po | 
- | [tr]({{< ref "/f22/language/tr.md" >}}) | 222 | 222 | 100.0 | /mnt/stockage/packages/f22/gnome-calendar/po/tr.po | 
- | [uk]({{< ref "/f22/language/uk.md" >}}) | 224 | 224 | 100.0 | /mnt/stockage/packages/f22/gnome-calendar/po/uk.po | 
- | [zh_Hans]({{< ref "/f22/language/zh_Hans.md" >}}) | 128 | 128 | 100.0 | /mnt/stockage/packages/f22/gnome-calendar/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f22/language/zh_Hant.md" >}}) | 346 | 352 | 98.3 | /mnt/stockage/packages/f22/gnome-calendar/po/zh_HK.po/mnt/stockage/packages/f22/gnome-calendar/po/zh_TW.po | 
+ | [ar](/f22/language/ar) | 222 | 222 | 100.0 | /mnt/stockage/packages/f22/gnome-calendar/po/ar.po | 
+ | [bs](/f22/language/bs) | 224 | 224 | 100.0 | /mnt/stockage/packages/f22/gnome-calendar/po/bs.po | 
+ | [ca](/f22/language/ca) | 222 | 222 | 100.0 | /mnt/stockage/packages/f22/gnome-calendar/po/ca.po | 
+ | [cs](/f22/language/cs) | 224 | 224 | 100.0 | /mnt/stockage/packages/f22/gnome-calendar/po/cs.po | 
+ | [da](/f22/language/da) | 224 | 224 | 100.0 | /mnt/stockage/packages/f22/gnome-calendar/po/da.po | 
+ | [de](/f22/language/de) | 224 | 224 | 100.0 | /mnt/stockage/packages/f22/gnome-calendar/po/de.po | 
+ | [el](/f22/language/el) | 224 | 224 | 100.0 | /mnt/stockage/packages/f22/gnome-calendar/po/el.po | 
+ | [eo](/f22/language/eo) | 221 | 221 | 100.0 | /mnt/stockage/packages/f22/gnome-calendar/po/eo.po | 
+ | [es](/f22/language/es) | 224 | 224 | 100.0 | /mnt/stockage/packages/f22/gnome-calendar/po/es.po | 
+ | [eu](/f22/language/eu) | 222 | 222 | 100.0 | /mnt/stockage/packages/f22/gnome-calendar/po/eu.po | 
+ | [fa](/f22/language/fa) | 128 | 128 | 100.0 | /mnt/stockage/packages/f22/gnome-calendar/po/fa.po | 
+ | [fi](/f22/language/fi) | 224 | 224 | 100.0 | /mnt/stockage/packages/f22/gnome-calendar/po/fi.po | 
+ | [fr](/f22/language/fr) | 224 | 224 | 100.0 | /mnt/stockage/packages/f22/gnome-calendar/po/fr.po | 
+ | [gl](/f22/language/gl) | 224 | 224 | 100.0 | /mnt/stockage/packages/f22/gnome-calendar/po/gl.po | 
+ | [he](/f22/language/he) | 224 | 224 | 100.0 | /mnt/stockage/packages/f22/gnome-calendar/po/he.po | 
+ | [hu](/f22/language/hu) | 224 | 224 | 100.0 | /mnt/stockage/packages/f22/gnome-calendar/po/hu.po | 
+ | [id](/f22/language/id) | 128 | 128 | 100.0 | /mnt/stockage/packages/f22/gnome-calendar/po/id.po | 
+ | [it](/f22/language/it) | 224 | 224 | 100.0 | /mnt/stockage/packages/f22/gnome-calendar/po/it.po | 
+ | [kk](/f22/language/kk) | 224 | 224 | 100.0 | /mnt/stockage/packages/f22/gnome-calendar/po/kk.po | 
+ | [ko](/f22/language/ko) | 224 | 224 | 100.0 | /mnt/stockage/packages/f22/gnome-calendar/po/ko.po | 
+ | [lt](/f22/language/lt) | 224 | 224 | 100.0 | /mnt/stockage/packages/f22/gnome-calendar/po/lt.po | 
+ | [nb_NO](/f22/language/nb_NO) | 224 | 224 | 100.0 | /mnt/stockage/packages/f22/gnome-calendar/po/nb.po | 
+ | [pa](/f22/language/pa) | 222 | 222 | 100.0 | /mnt/stockage/packages/f22/gnome-calendar/po/pa.po | 
+ | [pl](/f22/language/pl) | 224 | 224 | 100.0 | /mnt/stockage/packages/f22/gnome-calendar/po/pl.po | 
+ | [pt](/f22/language/pt) | 128 | 128 | 100.0 | /mnt/stockage/packages/f22/gnome-calendar/po/pt.po | 
+ | [pt_BR](/f22/language/pt_BR) | 224 | 224 | 100.0 | /mnt/stockage/packages/f22/gnome-calendar/po/pt_BR.po | 
+ | [ru](/f22/language/ru) | 224 | 224 | 100.0 | /mnt/stockage/packages/f22/gnome-calendar/po/ru.po | 
+ | [sk](/f22/language/sk) | 224 | 224 | 100.0 | /mnt/stockage/packages/f22/gnome-calendar/po/sk.po | 
+ | [sl](/f22/language/sl) | 224 | 224 | 100.0 | /mnt/stockage/packages/f22/gnome-calendar/po/sl.po | 
+ | [sr](/f22/language/sr) | 448 | 448 | 100.0 | /mnt/stockage/packages/f22/gnome-calendar/po/sr.po/mnt/stockage/packages/f22/gnome-calendar/po/sr@latin.po | 
+ | [sv](/f22/language/sv) | 222 | 222 | 100.0 | /mnt/stockage/packages/f22/gnome-calendar/po/sv.po | 
+ | [tg](/f22/language/tg) | 222 | 222 | 100.0 | /mnt/stockage/packages/f22/gnome-calendar/po/tg.po | 
+ | [th](/f22/language/th) | 222 | 222 | 100.0 | /mnt/stockage/packages/f22/gnome-calendar/po/th.po | 
+ | [tr](/f22/language/tr) | 222 | 222 | 100.0 | /mnt/stockage/packages/f22/gnome-calendar/po/tr.po | 
+ | [uk](/f22/language/uk) | 224 | 224 | 100.0 | /mnt/stockage/packages/f22/gnome-calendar/po/uk.po | 
+ | [zh_Hans](/f22/language/zh_Hans) | 128 | 128 | 100.0 | /mnt/stockage/packages/f22/gnome-calendar/po/zh_CN.po | 
+ | [zh_Hant](/f22/language/zh_Hant) | 346 | 352 | 98.3 | /mnt/stockage/packages/f22/gnome-calendar/po/zh_HK.po/mnt/stockage/packages/f22/gnome-calendar/po/zh_TW.po | 
 {.sortable}
 
 

@@ -18,10 +18,10 @@ The package upstart (version 0.3.9):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [error]({{< ref "/f9/language/error.md" >}}) | 3248 | 3248 | 100.0 | /mnt/stockage/packages/f9/upstart/po/en@boldquot.po/mnt/stockage/packages/f9/upstart/po/en@quot.po | 
- | [ca]({{< ref "/f9/language/ca.md" >}}) | 148 | 1624 | 9.1 | /mnt/stockage/packages/f9/upstart/po/ca.po | 
- | [fr]({{< ref "/f9/language/fr.md" >}}) | 70 | 1624 | 4.3 | /mnt/stockage/packages/f9/upstart/po/fr.po | 
- | [sv]({{< ref "/f9/language/sv.md" >}}) | 6 | 1624 | 0.4 | /mnt/stockage/packages/f9/upstart/po/sv.po | 
+ | [error](/f9/language/error) | 3248 | 3248 | 100.0 | /mnt/stockage/packages/f9/upstart/po/en@boldquot.po/mnt/stockage/packages/f9/upstart/po/en@quot.po | 
+ | [ca](/f9/language/ca) | 148 | 1624 | 9.1 | /mnt/stockage/packages/f9/upstart/po/ca.po | 
+ | [fr](/f9/language/fr) | 70 | 1624 | 4.3 | /mnt/stockage/packages/f9/upstart/po/fr.po | 
+ | [sv](/f9/language/sv) | 6 | 1624 | 0.4 | /mnt/stockage/packages/f9/upstart/po/sv.po | 
 {.sortable}
 
 

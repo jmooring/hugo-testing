@@ -18,55 +18,55 @@ The package gnome-logs (version 3.16.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [an]({{< ref "/f22/language/an.md" >}}) | 142 | 142 | 100.0 | /mnt/stockage/packages/f22/gnome-logs/po/an.po | 
- | [as]({{< ref "/f22/language/as.md" >}}) | 115 | 115 | 100.0 | /mnt/stockage/packages/f22/gnome-logs/po/as.po | 
- | [bs]({{< ref "/f22/language/bs.md" >}}) | 140 | 140 | 100.0 | /mnt/stockage/packages/f22/gnome-logs/po/bs.po | 
- | [ca]({{< ref "/f22/language/ca.md" >}}) | 115 | 115 | 100.0 | /mnt/stockage/packages/f22/gnome-logs/po/ca.po | 
- | [ca@valencia]({{< ref "/f22/language/ca@valencia.md" >}}) | 115 | 115 | 100.0 | /mnt/stockage/packages/f22/gnome-logs/po/ca@valencia.po | 
- | [cs]({{< ref "/f22/language/cs.md" >}}) | 414 | 414 | 100.0 | /mnt/stockage/packages/f22/gnome-logs/help/cs/cs.po/mnt/stockage/packages/f22/gnome-logs/po/cs.po | 
- | [da]({{< ref "/f22/language/da.md" >}}) | 140 | 140 | 100.0 | /mnt/stockage/packages/f22/gnome-logs/po/da.po | 
- | [de]({{< ref "/f22/language/de.md" >}}) | 414 | 414 | 100.0 | /mnt/stockage/packages/f22/gnome-logs/help/de/de.po/mnt/stockage/packages/f22/gnome-logs/po/de.po | 
- | [el]({{< ref "/f22/language/el.md" >}}) | 412 | 412 | 100.0 | /mnt/stockage/packages/f22/gnome-logs/help/el/el.po/mnt/stockage/packages/f22/gnome-logs/po/el.po | 
- | [en]({{< ref "/f22/language/en.md" >}}) | 142 | 142 | 100.0 | /mnt/stockage/packages/f22/gnome-logs/po/gl.po | 
- | [en_GB]({{< ref "/f22/language/en_GB.md" >}}) | 115 | 115 | 100.0 | /mnt/stockage/packages/f22/gnome-logs/po/en_GB.po | 
- | [es]({{< ref "/f22/language/es.md" >}}) | 414 | 414 | 100.0 | /mnt/stockage/packages/f22/gnome-logs/help/es/es.po/mnt/stockage/packages/f22/gnome-logs/po/es.po | 
- | [eu]({{< ref "/f22/language/eu.md" >}}) | 142 | 142 | 100.0 | /mnt/stockage/packages/f22/gnome-logs/po/eu.po | 
- | [fa]({{< ref "/f22/language/fa.md" >}}) | 115 | 115 | 100.0 | /mnt/stockage/packages/f22/gnome-logs/po/fa.po | 
- | [fi]({{< ref "/f22/language/fi.md" >}}) | 140 | 140 | 100.0 | /mnt/stockage/packages/f22/gnome-logs/po/fi.po | 
- | [fr]({{< ref "/f22/language/fr.md" >}}) | 412 | 412 | 100.0 | /mnt/stockage/packages/f22/gnome-logs/help/fr/fr.po/mnt/stockage/packages/f22/gnome-logs/po/fr.po | 
- | [gl]({{< ref "/f22/language/gl.md" >}}) | 272 | 272 | 100.0 | /mnt/stockage/packages/f22/gnome-logs/help/gl/gl.po | 
- | [hu]({{< ref "/f22/language/hu.md" >}}) | 414 | 414 | 100.0 | /mnt/stockage/packages/f22/gnome-logs/help/hu/hu.po/mnt/stockage/packages/f22/gnome-logs/po/hu.po | 
- | [id]({{< ref "/f22/language/id.md" >}}) | 142 | 142 | 100.0 | /mnt/stockage/packages/f22/gnome-logs/po/id.po | 
- | [it]({{< ref "/f22/language/it.md" >}}) | 140 | 140 | 100.0 | /mnt/stockage/packages/f22/gnome-logs/po/it.po | 
- | [kk]({{< ref "/f22/language/kk.md" >}}) | 140 | 140 | 100.0 | /mnt/stockage/packages/f22/gnome-logs/po/kk.po | 
- | [ko]({{< ref "/f22/language/ko.md" >}}) | 140 | 140 | 100.0 | /mnt/stockage/packages/f22/gnome-logs/po/ko.po | 
- | [lt]({{< ref "/f22/language/lt.md" >}}) | 140 | 140 | 100.0 | /mnt/stockage/packages/f22/gnome-logs/po/lt.po | 
- | [lv]({{< ref "/f22/language/lv.md" >}}) | 115 | 115 | 100.0 | /mnt/stockage/packages/f22/gnome-logs/po/lv.po | 
- | [nb_NO]({{< ref "/f22/language/nb_NO.md" >}}) | 142 | 142 | 100.0 | /mnt/stockage/packages/f22/gnome-logs/po/nb.po | 
- | [nl]({{< ref "/f22/language/nl.md" >}}) | 120 | 120 | 100.0 | /mnt/stockage/packages/f22/gnome-logs/po/nl.po | 
- | [pa]({{< ref "/f22/language/pa.md" >}}) | 115 | 115 | 100.0 | /mnt/stockage/packages/f22/gnome-logs/po/pa.po | 
- | [pl]({{< ref "/f22/language/pl.md" >}}) | 140 | 140 | 100.0 | /mnt/stockage/packages/f22/gnome-logs/po/pl.po | 
- | [pt]({{< ref "/f22/language/pt.md" >}}) | 115 | 115 | 100.0 | /mnt/stockage/packages/f22/gnome-logs/po/pt.po | 
- | [pt_BR]({{< ref "/f22/language/pt_BR.md" >}}) | 414 | 414 | 100.0 | /mnt/stockage/packages/f22/gnome-logs/help/pt_BR/pt_BR.po/mnt/stockage/packages/f22/gnome-logs/po/pt_BR.po | 
- | [ro]({{< ref "/f22/language/ro.md" >}}) | 120 | 120 | 100.0 | /mnt/stockage/packages/f22/gnome-logs/po/ro.po | 
- | [ru]({{< ref "/f22/language/ru.md" >}}) | 414 | 414 | 100.0 | /mnt/stockage/packages/f22/gnome-logs/help/ru/ru.po/mnt/stockage/packages/f22/gnome-logs/po/ru.po | 
- | [sk]({{< ref "/f22/language/sk.md" >}}) | 142 | 142 | 100.0 | /mnt/stockage/packages/f22/gnome-logs/po/sk.po | 
- | [sl]({{< ref "/f22/language/sl.md" >}}) | 140 | 140 | 100.0 | /mnt/stockage/packages/f22/gnome-logs/po/sl.po | 
- | [sr]({{< ref "/f22/language/sr.md" >}}) | 280 | 280 | 100.0 | /mnt/stockage/packages/f22/gnome-logs/po/sr.po/mnt/stockage/packages/f22/gnome-logs/po/sr@latin.po | 
- | [sv]({{< ref "/f22/language/sv.md" >}}) | 412 | 412 | 100.0 | /mnt/stockage/packages/f22/gnome-logs/help/sv/sv.po/mnt/stockage/packages/f22/gnome-logs/po/sv.po | 
- | [te]({{< ref "/f22/language/te.md" >}}) | 115 | 115 | 100.0 | /mnt/stockage/packages/f22/gnome-logs/po/te.po | 
- | [tg]({{< ref "/f22/language/tg.md" >}}) | 140 | 140 | 100.0 | /mnt/stockage/packages/f22/gnome-logs/po/tg.po | 
- | [th]({{< ref "/f22/language/th.md" >}}) | 140 | 140 | 100.0 | /mnt/stockage/packages/f22/gnome-logs/po/th.po | 
- | [tr]({{< ref "/f22/language/tr.md" >}}) | 142 | 142 | 100.0 | /mnt/stockage/packages/f22/gnome-logs/po/tr.po | 
- | [uk]({{< ref "/f22/language/uk.md" >}}) | 140 | 140 | 100.0 | /mnt/stockage/packages/f22/gnome-logs/po/uk.po | 
- | [vi]({{< ref "/f22/language/vi.md" >}}) | 142 | 142 | 100.0 | /mnt/stockage/packages/f22/gnome-logs/po/vi.po | 
- | [zh_Hans]({{< ref "/f22/language/zh_Hans.md" >}}) | 140 | 140 | 100.0 | /mnt/stockage/packages/f22/gnome-logs/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f22/language/zh_Hant.md" >}}) | 255 | 255 | 100.0 | /mnt/stockage/packages/f22/gnome-logs/po/zh_HK.po/mnt/stockage/packages/f22/gnome-logs/po/zh_TW.po | 
- | [ar]({{< ref "/f22/language/ar.md" >}}) | 113 | 115 | 98.3 | /mnt/stockage/packages/f22/gnome-logs/po/ar.po | 
- | [he]({{< ref "/f22/language/he.md" >}}) | 97 | 115 | 84.3 | /mnt/stockage/packages/f22/gnome-logs/po/he.po | 
- | [ne]({{< ref "/f22/language/ne.md" >}}) | 63 | 115 | 54.8 | /mnt/stockage/packages/f22/gnome-logs/po/ne.po | 
- | [eo]({{< ref "/f22/language/eo.md" >}}) | 75 | 142 | 52.8 | /mnt/stockage/packages/f22/gnome-logs/po/eo.po | 
- | [ja]({{< ref "/f22/language/ja.md" >}}) | 37 | 140 | 26.4 | /mnt/stockage/packages/f22/gnome-logs/po/ja.po | 
+ | [an](/f22/language/an) | 142 | 142 | 100.0 | /mnt/stockage/packages/f22/gnome-logs/po/an.po | 
+ | [as](/f22/language/as) | 115 | 115 | 100.0 | /mnt/stockage/packages/f22/gnome-logs/po/as.po | 
+ | [bs](/f22/language/bs) | 140 | 140 | 100.0 | /mnt/stockage/packages/f22/gnome-logs/po/bs.po | 
+ | [ca](/f22/language/ca) | 115 | 115 | 100.0 | /mnt/stockage/packages/f22/gnome-logs/po/ca.po | 
+ | [ca@valencia](/f22/language/ca@valencia) | 115 | 115 | 100.0 | /mnt/stockage/packages/f22/gnome-logs/po/ca@valencia.po | 
+ | [cs](/f22/language/cs) | 414 | 414 | 100.0 | /mnt/stockage/packages/f22/gnome-logs/help/cs/cs.po/mnt/stockage/packages/f22/gnome-logs/po/cs.po | 
+ | [da](/f22/language/da) | 140 | 140 | 100.0 | /mnt/stockage/packages/f22/gnome-logs/po/da.po | 
+ | [de](/f22/language/de) | 414 | 414 | 100.0 | /mnt/stockage/packages/f22/gnome-logs/help/de/de.po/mnt/stockage/packages/f22/gnome-logs/po/de.po | 
+ | [el](/f22/language/el) | 412 | 412 | 100.0 | /mnt/stockage/packages/f22/gnome-logs/help/el/el.po/mnt/stockage/packages/f22/gnome-logs/po/el.po | 
+ | [en](/f22/language/en) | 142 | 142 | 100.0 | /mnt/stockage/packages/f22/gnome-logs/po/gl.po | 
+ | [en_GB](/f22/language/en_GB) | 115 | 115 | 100.0 | /mnt/stockage/packages/f22/gnome-logs/po/en_GB.po | 
+ | [es](/f22/language/es) | 414 | 414 | 100.0 | /mnt/stockage/packages/f22/gnome-logs/help/es/es.po/mnt/stockage/packages/f22/gnome-logs/po/es.po | 
+ | [eu](/f22/language/eu) | 142 | 142 | 100.0 | /mnt/stockage/packages/f22/gnome-logs/po/eu.po | 
+ | [fa](/f22/language/fa) | 115 | 115 | 100.0 | /mnt/stockage/packages/f22/gnome-logs/po/fa.po | 
+ | [fi](/f22/language/fi) | 140 | 140 | 100.0 | /mnt/stockage/packages/f22/gnome-logs/po/fi.po | 
+ | [fr](/f22/language/fr) | 412 | 412 | 100.0 | /mnt/stockage/packages/f22/gnome-logs/help/fr/fr.po/mnt/stockage/packages/f22/gnome-logs/po/fr.po | 
+ | [gl](/f22/language/gl) | 272 | 272 | 100.0 | /mnt/stockage/packages/f22/gnome-logs/help/gl/gl.po | 
+ | [hu](/f22/language/hu) | 414 | 414 | 100.0 | /mnt/stockage/packages/f22/gnome-logs/help/hu/hu.po/mnt/stockage/packages/f22/gnome-logs/po/hu.po | 
+ | [id](/f22/language/id) | 142 | 142 | 100.0 | /mnt/stockage/packages/f22/gnome-logs/po/id.po | 
+ | [it](/f22/language/it) | 140 | 140 | 100.0 | /mnt/stockage/packages/f22/gnome-logs/po/it.po | 
+ | [kk](/f22/language/kk) | 140 | 140 | 100.0 | /mnt/stockage/packages/f22/gnome-logs/po/kk.po | 
+ | [ko](/f22/language/ko) | 140 | 140 | 100.0 | /mnt/stockage/packages/f22/gnome-logs/po/ko.po | 
+ | [lt](/f22/language/lt) | 140 | 140 | 100.0 | /mnt/stockage/packages/f22/gnome-logs/po/lt.po | 
+ | [lv](/f22/language/lv) | 115 | 115 | 100.0 | /mnt/stockage/packages/f22/gnome-logs/po/lv.po | 
+ | [nb_NO](/f22/language/nb_NO) | 142 | 142 | 100.0 | /mnt/stockage/packages/f22/gnome-logs/po/nb.po | 
+ | [nl](/f22/language/nl) | 120 | 120 | 100.0 | /mnt/stockage/packages/f22/gnome-logs/po/nl.po | 
+ | [pa](/f22/language/pa) | 115 | 115 | 100.0 | /mnt/stockage/packages/f22/gnome-logs/po/pa.po | 
+ | [pl](/f22/language/pl) | 140 | 140 | 100.0 | /mnt/stockage/packages/f22/gnome-logs/po/pl.po | 
+ | [pt](/f22/language/pt) | 115 | 115 | 100.0 | /mnt/stockage/packages/f22/gnome-logs/po/pt.po | 
+ | [pt_BR](/f22/language/pt_BR) | 414 | 414 | 100.0 | /mnt/stockage/packages/f22/gnome-logs/help/pt_BR/pt_BR.po/mnt/stockage/packages/f22/gnome-logs/po/pt_BR.po | 
+ | [ro](/f22/language/ro) | 120 | 120 | 100.0 | /mnt/stockage/packages/f22/gnome-logs/po/ro.po | 
+ | [ru](/f22/language/ru) | 414 | 414 | 100.0 | /mnt/stockage/packages/f22/gnome-logs/help/ru/ru.po/mnt/stockage/packages/f22/gnome-logs/po/ru.po | 
+ | [sk](/f22/language/sk) | 142 | 142 | 100.0 | /mnt/stockage/packages/f22/gnome-logs/po/sk.po | 
+ | [sl](/f22/language/sl) | 140 | 140 | 100.0 | /mnt/stockage/packages/f22/gnome-logs/po/sl.po | 
+ | [sr](/f22/language/sr) | 280 | 280 | 100.0 | /mnt/stockage/packages/f22/gnome-logs/po/sr.po/mnt/stockage/packages/f22/gnome-logs/po/sr@latin.po | 
+ | [sv](/f22/language/sv) | 412 | 412 | 100.0 | /mnt/stockage/packages/f22/gnome-logs/help/sv/sv.po/mnt/stockage/packages/f22/gnome-logs/po/sv.po | 
+ | [te](/f22/language/te) | 115 | 115 | 100.0 | /mnt/stockage/packages/f22/gnome-logs/po/te.po | 
+ | [tg](/f22/language/tg) | 140 | 140 | 100.0 | /mnt/stockage/packages/f22/gnome-logs/po/tg.po | 
+ | [th](/f22/language/th) | 140 | 140 | 100.0 | /mnt/stockage/packages/f22/gnome-logs/po/th.po | 
+ | [tr](/f22/language/tr) | 142 | 142 | 100.0 | /mnt/stockage/packages/f22/gnome-logs/po/tr.po | 
+ | [uk](/f22/language/uk) | 140 | 140 | 100.0 | /mnt/stockage/packages/f22/gnome-logs/po/uk.po | 
+ | [vi](/f22/language/vi) | 142 | 142 | 100.0 | /mnt/stockage/packages/f22/gnome-logs/po/vi.po | 
+ | [zh_Hans](/f22/language/zh_Hans) | 140 | 140 | 100.0 | /mnt/stockage/packages/f22/gnome-logs/po/zh_CN.po | 
+ | [zh_Hant](/f22/language/zh_Hant) | 255 | 255 | 100.0 | /mnt/stockage/packages/f22/gnome-logs/po/zh_HK.po/mnt/stockage/packages/f22/gnome-logs/po/zh_TW.po | 
+ | [ar](/f22/language/ar) | 113 | 115 | 98.3 | /mnt/stockage/packages/f22/gnome-logs/po/ar.po | 
+ | [he](/f22/language/he) | 97 | 115 | 84.3 | /mnt/stockage/packages/f22/gnome-logs/po/he.po | 
+ | [ne](/f22/language/ne) | 63 | 115 | 54.8 | /mnt/stockage/packages/f22/gnome-logs/po/ne.po | 
+ | [eo](/f22/language/eo) | 75 | 142 | 52.8 | /mnt/stockage/packages/f22/gnome-logs/po/eo.po | 
+ | [ja](/f22/language/ja) | 37 | 140 | 26.4 | /mnt/stockage/packages/f22/gnome-logs/po/ja.po | 
 {.sortable}
 
 

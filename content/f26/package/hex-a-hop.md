@@ -18,16 +18,16 @@ The package hex-a-hop (version 1.2.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f26/language/de.md" >}}) | 1176 | 1176 | 100.0 | /mnt/stockage/packages/f26/hex-a-hop/po/de.po | 
- | [it]({{< ref "/f26/language/it.md" >}}) | 1176 | 1176 | 100.0 | /mnt/stockage/packages/f26/hex-a-hop/po/it.po | 
- | [pl]({{< ref "/f26/language/pl.md" >}}) | 1174 | 1176 | 99.8 | /mnt/stockage/packages/f26/hex-a-hop/po/pl.po | 
- | [bg]({{< ref "/f26/language/bg.md" >}}) | 1173 | 1176 | 99.7 | /mnt/stockage/packages/f26/hex-a-hop/po/bg.po | 
- | [es]({{< ref "/f26/language/es.md" >}}) | 1173 | 1176 | 99.7 | /mnt/stockage/packages/f26/hex-a-hop/po/es.po | 
- | [nl]({{< ref "/f26/language/nl.md" >}}) | 1173 | 1176 | 99.7 | /mnt/stockage/packages/f26/hex-a-hop/po/nl.po | 
- | [ru]({{< ref "/f26/language/ru.md" >}}) | 1173 | 1176 | 99.7 | /mnt/stockage/packages/f26/hex-a-hop/po/ru.po | 
- | [ta]({{< ref "/f26/language/ta.md" >}}) | 1173 | 1176 | 99.7 | /mnt/stockage/packages/f26/hex-a-hop/po/ta.po | 
- | [vi]({{< ref "/f26/language/vi.md" >}}) | 1173 | 1176 | 99.7 | /mnt/stockage/packages/f26/hex-a-hop/po/vi.po | 
- | [ja]({{< ref "/f26/language/ja.md" >}}) | 1072 | 1176 | 91.2 | /mnt/stockage/packages/f26/hex-a-hop/po/ja.po | 
+ | [de](/f26/language/de) | 1176 | 1176 | 100.0 | /mnt/stockage/packages/f26/hex-a-hop/po/de.po | 
+ | [it](/f26/language/it) | 1176 | 1176 | 100.0 | /mnt/stockage/packages/f26/hex-a-hop/po/it.po | 
+ | [pl](/f26/language/pl) | 1174 | 1176 | 99.8 | /mnt/stockage/packages/f26/hex-a-hop/po/pl.po | 
+ | [bg](/f26/language/bg) | 1173 | 1176 | 99.7 | /mnt/stockage/packages/f26/hex-a-hop/po/bg.po | 
+ | [es](/f26/language/es) | 1173 | 1176 | 99.7 | /mnt/stockage/packages/f26/hex-a-hop/po/es.po | 
+ | [nl](/f26/language/nl) | 1173 | 1176 | 99.7 | /mnt/stockage/packages/f26/hex-a-hop/po/nl.po | 
+ | [ru](/f26/language/ru) | 1173 | 1176 | 99.7 | /mnt/stockage/packages/f26/hex-a-hop/po/ru.po | 
+ | [ta](/f26/language/ta) | 1173 | 1176 | 99.7 | /mnt/stockage/packages/f26/hex-a-hop/po/ta.po | 
+ | [vi](/f26/language/vi) | 1173 | 1176 | 99.7 | /mnt/stockage/packages/f26/hex-a-hop/po/vi.po | 
+ | [ja](/f26/language/ja) | 1072 | 1176 | 91.2 | /mnt/stockage/packages/f26/hex-a-hop/po/ja.po | 
 {.sortable}
 
 

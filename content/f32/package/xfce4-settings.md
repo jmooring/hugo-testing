@@ -18,65 +18,65 @@ The package xfce4-settings (version 4.14.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [be]({{< ref "/f32/language/be.md" >}}) | 1940 | 1940 | 100.0 | /mnt/stockage/packages/f32/xfce4-settings/po/be.po | 
- | [bg]({{< ref "/f32/language/bg.md" >}}) | 1940 | 1940 | 100.0 | /mnt/stockage/packages/f32/xfce4-settings/po/bg.po | 
- | [ca]({{< ref "/f32/language/ca.md" >}}) | 1934 | 1934 | 100.0 | /mnt/stockage/packages/f32/xfce4-settings/po/ca.po | 
- | [cs]({{< ref "/f32/language/cs.md" >}}) | 1940 | 1940 | 100.0 | /mnt/stockage/packages/f32/xfce4-settings/po/cs.po | 
- | [da]({{< ref "/f32/language/da.md" >}}) | 1940 | 1940 | 100.0 | /mnt/stockage/packages/f32/xfce4-settings/po/da.po | 
- | [de]({{< ref "/f32/language/de.md" >}}) | 1940 | 1940 | 100.0 | /mnt/stockage/packages/f32/xfce4-settings/po/de.po | 
- | [el]({{< ref "/f32/language/el.md" >}}) | 1940 | 1940 | 100.0 | /mnt/stockage/packages/f32/xfce4-settings/po/el.po | 
- | [error]({{< ref "/f32/language/error.md" >}}) | 1940 | 1940 | 100.0 | /mnt/stockage/packages/f32/xfce4-settings/po/be@tarask.po | 
- | [es]({{< ref "/f32/language/es.md" >}}) | 1940 | 1940 | 100.0 | /mnt/stockage/packages/f32/xfce4-settings/po/es.po | 
- | [fi]({{< ref "/f32/language/fi.md" >}}) | 1940 | 1940 | 100.0 | /mnt/stockage/packages/f32/xfce4-settings/po/fi.po | 
- | [fr]({{< ref "/f32/language/fr.md" >}}) | 1940 | 1940 | 100.0 | /mnt/stockage/packages/f32/xfce4-settings/po/fr.po | 
- | [gl]({{< ref "/f32/language/gl.md" >}}) | 1940 | 1940 | 100.0 | /mnt/stockage/packages/f32/xfce4-settings/po/gl.po | 
- | [he]({{< ref "/f32/language/he.md" >}}) | 1940 | 1940 | 100.0 | /mnt/stockage/packages/f32/xfce4-settings/po/he.po | 
- | [hr]({{< ref "/f32/language/hr.md" >}}) | 1940 | 1940 | 100.0 | /mnt/stockage/packages/f32/xfce4-settings/po/hr.po | 
- | [hu]({{< ref "/f32/language/hu.md" >}}) | 1940 | 1940 | 100.0 | /mnt/stockage/packages/f32/xfce4-settings/po/hu.po | 
- | [it]({{< ref "/f32/language/it.md" >}}) | 1940 | 1940 | 100.0 | /mnt/stockage/packages/f32/xfce4-settings/po/it.po | 
- | [ja]({{< ref "/f32/language/ja.md" >}}) | 1940 | 1940 | 100.0 | /mnt/stockage/packages/f32/xfce4-settings/po/ja.po | 
- | [kk]({{< ref "/f32/language/kk.md" >}}) | 1940 | 1940 | 100.0 | /mnt/stockage/packages/f32/xfce4-settings/po/kk.po | 
- | [lt]({{< ref "/f32/language/lt.md" >}}) | 1940 | 1940 | 100.0 | /mnt/stockage/packages/f32/xfce4-settings/po/lt.po | 
- | [ms]({{< ref "/f32/language/ms.md" >}}) | 1940 | 1940 | 100.0 | /mnt/stockage/packages/f32/xfce4-settings/po/ms.po | 
- | [nb_NO]({{< ref "/f32/language/nb_NO.md" >}}) | 1940 | 1940 | 100.0 | /mnt/stockage/packages/f32/xfce4-settings/po/nb.po | 
- | [nl]({{< ref "/f32/language/nl.md" >}}) | 1940 | 1940 | 100.0 | /mnt/stockage/packages/f32/xfce4-settings/po/nl.po | 
- | [pl]({{< ref "/f32/language/pl.md" >}}) | 1940 | 1940 | 100.0 | /mnt/stockage/packages/f32/xfce4-settings/po/pl.po | 
- | [pt]({{< ref "/f32/language/pt.md" >}}) | 1940 | 1940 | 100.0 | /mnt/stockage/packages/f32/xfce4-settings/po/pt.po | 
- | [pt_BR]({{< ref "/f32/language/pt_BR.md" >}}) | 1940 | 1940 | 100.0 | /mnt/stockage/packages/f32/xfce4-settings/po/pt_BR.po | 
- | [ru]({{< ref "/f32/language/ru.md" >}}) | 1940 | 1940 | 100.0 | /mnt/stockage/packages/f32/xfce4-settings/po/ru.po | 
- | [sk]({{< ref "/f32/language/sk.md" >}}) | 1940 | 1940 | 100.0 | /mnt/stockage/packages/f32/xfce4-settings/po/sk.po | 
- | [sl]({{< ref "/f32/language/sl.md" >}}) | 1940 | 1940 | 100.0 | /mnt/stockage/packages/f32/xfce4-settings/po/sl.po | 
- | [sr]({{< ref "/f32/language/sr.md" >}}) | 1940 | 1940 | 100.0 | /mnt/stockage/packages/f32/xfce4-settings/po/sr.po | 
- | [tr]({{< ref "/f32/language/tr.md" >}}) | 1940 | 1940 | 100.0 | /mnt/stockage/packages/f32/xfce4-settings/po/tr.po | 
- | [zh_Hans]({{< ref "/f32/language/zh_Hans.md" >}}) | 1940 | 1940 | 100.0 | /mnt/stockage/packages/f32/xfce4-settings/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f32/language/zh_Hant.md" >}}) | 1940 | 1940 | 100.0 | /mnt/stockage/packages/f32/xfce4-settings/po/zh_TW.po | 
- | [en_AU]({{< ref "/f32/language/en_AU.md" >}}) | 1931 | 1940 | 99.5 | /mnt/stockage/packages/f32/xfce4-settings/po/en_AU.po | 
- | [hy]({{< ref "/f32/language/hy.md" >}}) | 1931 | 1940 | 99.5 | /mnt/stockage/packages/f32/xfce4-settings/po/hy_AM.po | 
- | [is]({{< ref "/f32/language/is.md" >}}) | 1931 | 1940 | 99.5 | /mnt/stockage/packages/f32/xfce4-settings/po/is.po | 
- | [ko]({{< ref "/f32/language/ko.md" >}}) | 1931 | 1940 | 99.5 | /mnt/stockage/packages/f32/xfce4-settings/po/ko.po | 
- | [th]({{< ref "/f32/language/th.md" >}}) | 1931 | 1940 | 99.5 | /mnt/stockage/packages/f32/xfce4-settings/po/th.po | 
- | [id]({{< ref "/f32/language/id.md" >}}) | 1929 | 1940 | 99.4 | /mnt/stockage/packages/f32/xfce4-settings/po/id.po | 
- | [sq]({{< ref "/f32/language/sq.md" >}}) | 1915 | 1940 | 98.7 | /mnt/stockage/packages/f32/xfce4-settings/po/sq.po | 
- | [sv]({{< ref "/f32/language/sv.md" >}}) | 1787 | 1940 | 92.1 | /mnt/stockage/packages/f32/xfce4-settings/po/sv.po | 
- | [ar]({{< ref "/f32/language/ar.md" >}}) | 1737 | 1940 | 89.5 | /mnt/stockage/packages/f32/xfce4-settings/po/ar.po | 
- | [uk]({{< ref "/f32/language/uk.md" >}}) | 1689 | 1940 | 87.1 | /mnt/stockage/packages/f32/xfce4-settings/po/uk.po | 
- | [en_CA]({{< ref "/f32/language/en_CA.md" >}}) | 1593 | 1940 | 82.1 | /mnt/stockage/packages/f32/xfce4-settings/po/en_CA.po | 
- | [nn]({{< ref "/f32/language/nn.md" >}}) | 1543 | 1940 | 79.5 | /mnt/stockage/packages/f32/xfce4-settings/po/nn.po | 
- | [en_GB]({{< ref "/f32/language/en_GB.md" >}}) | 1538 | 1940 | 79.3 | /mnt/stockage/packages/f32/xfce4-settings/po/en_GB.po | 
- | [oc]({{< ref "/f32/language/oc.md" >}}) | 1514 | 1940 | 78.0 | /mnt/stockage/packages/f32/xfce4-settings/po/oc.po | 
- | [ro]({{< ref "/f32/language/ro.md" >}}) | 1502 | 1940 | 77.4 | /mnt/stockage/packages/f32/xfce4-settings/po/ro.po | 
- | [eu]({{< ref "/f32/language/eu.md" >}}) | 1501 | 1940 | 77.4 | /mnt/stockage/packages/f32/xfce4-settings/po/eu.po | 
- | [ast]({{< ref "/f32/language/ast.md" >}}) | 1466 | 1940 | 75.6 | /mnt/stockage/packages/f32/xfce4-settings/po/ast.po | 
- | [zh_Hant_HK]({{< ref "/f32/language/zh_Hant_HK.md" >}}) | 1459 | 1940 | 75.2 | /mnt/stockage/packages/f32/xfce4-settings/po/zh_HK.po | 
- | [ie]({{< ref "/f32/language/ie.md" >}}) | 1402 | 1940 | 72.3 | /mnt/stockage/packages/f32/xfce4-settings/po/ie.po | 
- | [ug]({{< ref "/f32/language/ug.md" >}}) | 1334 | 1940 | 68.8 | /mnt/stockage/packages/f32/xfce4-settings/po/ug.po | 
- | [bn]({{< ref "/f32/language/bn.md" >}}) | 982 | 1707 | 57.5 | /mnt/stockage/packages/f32/xfce4-settings/po/bn.po | 
- | [ur]({{< ref "/f32/language/ur.md" >}}) | 1744 | 3120 | 55.9 | /mnt/stockage/packages/f32/xfce4-settings/po/ur_PK.po/mnt/stockage/packages/f32/xfce4-settings/po/ur.po | 
- | [lv]({{< ref "/f32/language/lv.md" >}}) | 917 | 1707 | 53.7 | /mnt/stockage/packages/f32/xfce4-settings/po/lv.po | 
- | [am]({{< ref "/f32/language/am.md" >}}) | 431 | 1707 | 25.2 | /mnt/stockage/packages/f32/xfce4-settings/po/am.po | 
- | [te]({{< ref "/f32/language/te.md" >}}) | 342 | 1591 | 21.5 | /mnt/stockage/packages/f32/xfce4-settings/po/te.po | 
- | [pa]({{< ref "/f32/language/pa.md" >}}) | 128 | 1560 | 8.2 | /mnt/stockage/packages/f32/xfce4-settings/po/pa.po | 
- | [si]({{< ref "/f32/language/si.md" >}}) | 126 | 1560 | 8.1 | /mnt/stockage/packages/f32/xfce4-settings/po/si.po | 
+ | [be](/f32/language/be) | 1940 | 1940 | 100.0 | /mnt/stockage/packages/f32/xfce4-settings/po/be.po | 
+ | [bg](/f32/language/bg) | 1940 | 1940 | 100.0 | /mnt/stockage/packages/f32/xfce4-settings/po/bg.po | 
+ | [ca](/f32/language/ca) | 1934 | 1934 | 100.0 | /mnt/stockage/packages/f32/xfce4-settings/po/ca.po | 
+ | [cs](/f32/language/cs) | 1940 | 1940 | 100.0 | /mnt/stockage/packages/f32/xfce4-settings/po/cs.po | 
+ | [da](/f32/language/da) | 1940 | 1940 | 100.0 | /mnt/stockage/packages/f32/xfce4-settings/po/da.po | 
+ | [de](/f32/language/de) | 1940 | 1940 | 100.0 | /mnt/stockage/packages/f32/xfce4-settings/po/de.po | 
+ | [el](/f32/language/el) | 1940 | 1940 | 100.0 | /mnt/stockage/packages/f32/xfce4-settings/po/el.po | 
+ | [error](/f32/language/error) | 1940 | 1940 | 100.0 | /mnt/stockage/packages/f32/xfce4-settings/po/be@tarask.po | 
+ | [es](/f32/language/es) | 1940 | 1940 | 100.0 | /mnt/stockage/packages/f32/xfce4-settings/po/es.po | 
+ | [fi](/f32/language/fi) | 1940 | 1940 | 100.0 | /mnt/stockage/packages/f32/xfce4-settings/po/fi.po | 
+ | [fr](/f32/language/fr) | 1940 | 1940 | 100.0 | /mnt/stockage/packages/f32/xfce4-settings/po/fr.po | 
+ | [gl](/f32/language/gl) | 1940 | 1940 | 100.0 | /mnt/stockage/packages/f32/xfce4-settings/po/gl.po | 
+ | [he](/f32/language/he) | 1940 | 1940 | 100.0 | /mnt/stockage/packages/f32/xfce4-settings/po/he.po | 
+ | [hr](/f32/language/hr) | 1940 | 1940 | 100.0 | /mnt/stockage/packages/f32/xfce4-settings/po/hr.po | 
+ | [hu](/f32/language/hu) | 1940 | 1940 | 100.0 | /mnt/stockage/packages/f32/xfce4-settings/po/hu.po | 
+ | [it](/f32/language/it) | 1940 | 1940 | 100.0 | /mnt/stockage/packages/f32/xfce4-settings/po/it.po | 
+ | [ja](/f32/language/ja) | 1940 | 1940 | 100.0 | /mnt/stockage/packages/f32/xfce4-settings/po/ja.po | 
+ | [kk](/f32/language/kk) | 1940 | 1940 | 100.0 | /mnt/stockage/packages/f32/xfce4-settings/po/kk.po | 
+ | [lt](/f32/language/lt) | 1940 | 1940 | 100.0 | /mnt/stockage/packages/f32/xfce4-settings/po/lt.po | 
+ | [ms](/f32/language/ms) | 1940 | 1940 | 100.0 | /mnt/stockage/packages/f32/xfce4-settings/po/ms.po | 
+ | [nb_NO](/f32/language/nb_NO) | 1940 | 1940 | 100.0 | /mnt/stockage/packages/f32/xfce4-settings/po/nb.po | 
+ | [nl](/f32/language/nl) | 1940 | 1940 | 100.0 | /mnt/stockage/packages/f32/xfce4-settings/po/nl.po | 
+ | [pl](/f32/language/pl) | 1940 | 1940 | 100.0 | /mnt/stockage/packages/f32/xfce4-settings/po/pl.po | 
+ | [pt](/f32/language/pt) | 1940 | 1940 | 100.0 | /mnt/stockage/packages/f32/xfce4-settings/po/pt.po | 
+ | [pt_BR](/f32/language/pt_BR) | 1940 | 1940 | 100.0 | /mnt/stockage/packages/f32/xfce4-settings/po/pt_BR.po | 
+ | [ru](/f32/language/ru) | 1940 | 1940 | 100.0 | /mnt/stockage/packages/f32/xfce4-settings/po/ru.po | 
+ | [sk](/f32/language/sk) | 1940 | 1940 | 100.0 | /mnt/stockage/packages/f32/xfce4-settings/po/sk.po | 
+ | [sl](/f32/language/sl) | 1940 | 1940 | 100.0 | /mnt/stockage/packages/f32/xfce4-settings/po/sl.po | 
+ | [sr](/f32/language/sr) | 1940 | 1940 | 100.0 | /mnt/stockage/packages/f32/xfce4-settings/po/sr.po | 
+ | [tr](/f32/language/tr) | 1940 | 1940 | 100.0 | /mnt/stockage/packages/f32/xfce4-settings/po/tr.po | 
+ | [zh_Hans](/f32/language/zh_Hans) | 1940 | 1940 | 100.0 | /mnt/stockage/packages/f32/xfce4-settings/po/zh_CN.po | 
+ | [zh_Hant](/f32/language/zh_Hant) | 1940 | 1940 | 100.0 | /mnt/stockage/packages/f32/xfce4-settings/po/zh_TW.po | 
+ | [en_AU](/f32/language/en_AU) | 1931 | 1940 | 99.5 | /mnt/stockage/packages/f32/xfce4-settings/po/en_AU.po | 
+ | [hy](/f32/language/hy) | 1931 | 1940 | 99.5 | /mnt/stockage/packages/f32/xfce4-settings/po/hy_AM.po | 
+ | [is](/f32/language/is) | 1931 | 1940 | 99.5 | /mnt/stockage/packages/f32/xfce4-settings/po/is.po | 
+ | [ko](/f32/language/ko) | 1931 | 1940 | 99.5 | /mnt/stockage/packages/f32/xfce4-settings/po/ko.po | 
+ | [th](/f32/language/th) | 1931 | 1940 | 99.5 | /mnt/stockage/packages/f32/xfce4-settings/po/th.po | 
+ | [id](/f32/language/id) | 1929 | 1940 | 99.4 | /mnt/stockage/packages/f32/xfce4-settings/po/id.po | 
+ | [sq](/f32/language/sq) | 1915 | 1940 | 98.7 | /mnt/stockage/packages/f32/xfce4-settings/po/sq.po | 
+ | [sv](/f32/language/sv) | 1787 | 1940 | 92.1 | /mnt/stockage/packages/f32/xfce4-settings/po/sv.po | 
+ | [ar](/f32/language/ar) | 1737 | 1940 | 89.5 | /mnt/stockage/packages/f32/xfce4-settings/po/ar.po | 
+ | [uk](/f32/language/uk) | 1689 | 1940 | 87.1 | /mnt/stockage/packages/f32/xfce4-settings/po/uk.po | 
+ | [en_CA](/f32/language/en_CA) | 1593 | 1940 | 82.1 | /mnt/stockage/packages/f32/xfce4-settings/po/en_CA.po | 
+ | [nn](/f32/language/nn) | 1543 | 1940 | 79.5 | /mnt/stockage/packages/f32/xfce4-settings/po/nn.po | 
+ | [en_GB](/f32/language/en_GB) | 1538 | 1940 | 79.3 | /mnt/stockage/packages/f32/xfce4-settings/po/en_GB.po | 
+ | [oc](/f32/language/oc) | 1514 | 1940 | 78.0 | /mnt/stockage/packages/f32/xfce4-settings/po/oc.po | 
+ | [ro](/f32/language/ro) | 1502 | 1940 | 77.4 | /mnt/stockage/packages/f32/xfce4-settings/po/ro.po | 
+ | [eu](/f32/language/eu) | 1501 | 1940 | 77.4 | /mnt/stockage/packages/f32/xfce4-settings/po/eu.po | 
+ | [ast](/f32/language/ast) | 1466 | 1940 | 75.6 | /mnt/stockage/packages/f32/xfce4-settings/po/ast.po | 
+ | [zh_Hant_HK](/f32/language/zh_Hant_HK) | 1459 | 1940 | 75.2 | /mnt/stockage/packages/f32/xfce4-settings/po/zh_HK.po | 
+ | [ie](/f32/language/ie) | 1402 | 1940 | 72.3 | /mnt/stockage/packages/f32/xfce4-settings/po/ie.po | 
+ | [ug](/f32/language/ug) | 1334 | 1940 | 68.8 | /mnt/stockage/packages/f32/xfce4-settings/po/ug.po | 
+ | [bn](/f32/language/bn) | 982 | 1707 | 57.5 | /mnt/stockage/packages/f32/xfce4-settings/po/bn.po | 
+ | [ur](/f32/language/ur) | 1744 | 3120 | 55.9 | /mnt/stockage/packages/f32/xfce4-settings/po/ur_PK.po/mnt/stockage/packages/f32/xfce4-settings/po/ur.po | 
+ | [lv](/f32/language/lv) | 917 | 1707 | 53.7 | /mnt/stockage/packages/f32/xfce4-settings/po/lv.po | 
+ | [am](/f32/language/am) | 431 | 1707 | 25.2 | /mnt/stockage/packages/f32/xfce4-settings/po/am.po | 
+ | [te](/f32/language/te) | 342 | 1591 | 21.5 | /mnt/stockage/packages/f32/xfce4-settings/po/te.po | 
+ | [pa](/f32/language/pa) | 128 | 1560 | 8.2 | /mnt/stockage/packages/f32/xfce4-settings/po/pa.po | 
+ | [si](/f32/language/si) | 126 | 1560 | 8.1 | /mnt/stockage/packages/f32/xfce4-settings/po/si.po | 
 {.sortable}
 
 

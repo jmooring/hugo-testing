@@ -18,12 +18,12 @@ The package elfutils (version 0.179):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [error]({{< ref "/f30/language/error.md" >}}) | 17062 | 17062 | 100.0 | /mnt/stockage/packages/f30/elfutils/po/en@quot.po/mnt/stockage/packages/f30/elfutils/po/en@boldquot.po | 
- | [uk]({{< ref "/f30/language/uk.md" >}}) | 8531 | 8531 | 100.0 | /mnt/stockage/packages/f30/elfutils/po/uk.po | 
- | [pl]({{< ref "/f30/language/pl.md" >}}) | 7477 | 8531 | 87.6 | /mnt/stockage/packages/f30/elfutils/po/pl.po | 
- | [es]({{< ref "/f30/language/es.md" >}}) | 5976 | 8531 | 70.1 | /mnt/stockage/packages/f30/elfutils/po/es.po | 
- | [ja]({{< ref "/f30/language/ja.md" >}}) | 2949 | 8531 | 34.6 | /mnt/stockage/packages/f30/elfutils/po/ja.po | 
- | [de]({{< ref "/f30/language/de.md" >}}) | 866 | 8531 | 10.2 | /mnt/stockage/packages/f30/elfutils/po/de.po | 
+ | [error](/f30/language/error) | 17062 | 17062 | 100.0 | /mnt/stockage/packages/f30/elfutils/po/en@quot.po/mnt/stockage/packages/f30/elfutils/po/en@boldquot.po | 
+ | [uk](/f30/language/uk) | 8531 | 8531 | 100.0 | /mnt/stockage/packages/f30/elfutils/po/uk.po | 
+ | [pl](/f30/language/pl) | 7477 | 8531 | 87.6 | /mnt/stockage/packages/f30/elfutils/po/pl.po | 
+ | [es](/f30/language/es) | 5976 | 8531 | 70.1 | /mnt/stockage/packages/f30/elfutils/po/es.po | 
+ | [ja](/f30/language/ja) | 2949 | 8531 | 34.6 | /mnt/stockage/packages/f30/elfutils/po/ja.po | 
+ | [de](/f30/language/de) | 866 | 8531 | 10.2 | /mnt/stockage/packages/f30/elfutils/po/de.po | 
 {.sortable}
 
 

@@ -38,20 +38,20 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [xchat-gnome]({{< ref "/f8/package/xchat-gnome.md" >}}) | 3618 | 3901 | 92.7 | English (Australia) <en_AU@li.org> | 
- | [pidgin-guifications]({{< ref "/f8/package/pidgin-guifications.md" >}}) | 442 | 505 | 87.5 | English (Australian) <trans@six-by-nine.com.au> | 
- | [deluge]({{< ref "/f8/package/deluge.md" >}}) | 1888 | 2269 | 83.2 | English (Australia) <en_AU@li.org> | 
- | [pidgin]({{< ref "/f8/package/pidgin.md" >}}) | 7347 | 15654 | 46.9 | English/AU <trans@six-by-nine.com.au> | 
- | [ntfs-config]({{< ref "/f8/package/ntfs-config.md" >}}) | 29 | 455 | 6.4 | English (Australia) <en_AU@li.org> | 
- | [orage]({{< ref "/f8/package/orage.md" >}}) | 36 | 864 | 4.2 | Australian English <en_gb@li.org> | 
- | [Miro]({{< ref "/f8/package/Miro.md" >}}) | 117 | 3060 | 3.8 | English (Australia) <en_AU@li.org> | 
- | [evolution-data-server]({{< ref "/f8/package/evolution-data-server.md" >}}) | 166 | 4501 | 3.7 |  | 
- | [gourmet]({{< ref "/f8/package/gourmet.md" >}}) | 110 | 3526 | 3.1 | English (Australia) <en_AU@li.org> | 
- | [abiword]({{< ref "/f8/package/abiword.md" >}}) | 102 | 4644 | 2.2 | unknown <email@address> | 
- | [bazaar]({{< ref "/f8/package/bazaar.md" >}}) | 129 | 6524 | 2.0 | English (Australia) <en_AU@li.org> | 
- | [gnomebaker]({{< ref "/f8/package/gnomebaker.md" >}}) | 21 | 1186 | 1.8 | English (Australia) <en_AU@li.org> | 
- | [evolution]({{< ref "/f8/package/evolution.md" >}}) | 65 | 17202 | 0.4 |  | 
- | [sweep]({{< ref "/f8/package/sweep.md" >}}) | 2 | 2397 | 0.1 | English/Australia <LL@li.org> | 
+ | [xchat-gnome](/f8/package/xchat-gnome) | 3618 | 3901 | 92.7 | English (Australia) <en_AU@li.org> | 
+ | [pidgin-guifications](/f8/package/pidgin-guifications) | 442 | 505 | 87.5 | English (Australian) <trans@six-by-nine.com.au> | 
+ | [deluge](/f8/package/deluge) | 1888 | 2269 | 83.2 | English (Australia) <en_AU@li.org> | 
+ | [pidgin](/f8/package/pidgin) | 7347 | 15654 | 46.9 | English/AU <trans@six-by-nine.com.au> | 
+ | [ntfs-config](/f8/package/ntfs-config) | 29 | 455 | 6.4 | English (Australia) <en_AU@li.org> | 
+ | [orage](/f8/package/orage) | 36 | 864 | 4.2 | Australian English <en_gb@li.org> | 
+ | [Miro](/f8/package/Miro) | 117 | 3060 | 3.8 | English (Australia) <en_AU@li.org> | 
+ | [evolution-data-server](/f8/package/evolution-data-server) | 166 | 4501 | 3.7 |  | 
+ | [gourmet](/f8/package/gourmet) | 110 | 3526 | 3.1 | English (Australia) <en_AU@li.org> | 
+ | [abiword](/f8/package/abiword) | 102 | 4644 | 2.2 | unknown <email@address> | 
+ | [bazaar](/f8/package/bazaar) | 129 | 6524 | 2.0 | English (Australia) <en_AU@li.org> | 
+ | [gnomebaker](/f8/package/gnomebaker) | 21 | 1186 | 1.8 | English (Australia) <en_AU@li.org> | 
+ | [evolution](/f8/package/evolution) | 65 | 17202 | 0.4 |  | 
+ | [sweep](/f8/package/sweep) | 2 | 2397 | 0.1 | English/Australia <LL@li.org> | 
 {.sortable}
 
 

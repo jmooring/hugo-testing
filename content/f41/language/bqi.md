@@ -38,7 +38,7 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [calamares]({{< ref "/f41/package/calamares.md" >}}) | 0 | 478 | 0.0 | Luri (Bakhtiari) (https://app.transifex.com/calamares/teams/20061/bqi/) | 
+ | [calamares](/f41/package/calamares) | 0 | 478 | 0.0 | Luri (Bakhtiari) (https://app.transifex.com/calamares/teams/20061/bqi/) | 
 {.sortable}
 
 

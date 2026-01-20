@@ -38,15 +38,15 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [openerp-client]({{< ref "/f19/package/openerp-client.md" >}}) | 7729 | 7729 | 100.0 | Spanish (Costa Rica) <es_CR@li.org> | 
- | [openerp]({{< ref "/f19/package/openerp.md" >}}) | 57419 | 57798 | 99.3 | Spanish (Costa Rica) <es_CR@li.org> | 
- | [libgweather]({{< ref "/f19/package/libgweather.md" >}}) | 447 | 460 | 97.2 | Spanish <traductores@es.gnome.org> | 
- | [mate-applets]({{< ref "/f19/package/mate-applets.md" >}}) | 2555 | 3299 | 77.4 | LANGUAGE <LL@li.org> | 
- | [libmateweather]({{< ref "/f19/package/libmateweather.md" >}}) | 361 | 487 | 74.1 | LANGUAGE <LL@li.org> | 
- | [openerp7]({{< ref "/f19/package/openerp7.md" >}}) | 21021 | 50054 | 42.0 | Spanish (Costa Rica) <es_CR@li.org> | 
- | [gnomebaker]({{< ref "/f19/package/gnomebaker.md" >}}) | 159 | 1186 | 13.4 | Spanish (Costa Rica) <es_CR@li.org> | 
- | [openconnect]({{< ref "/f19/package/openconnect.md" >}}) | 0 | 2574 | 0.0 | Spanish (Costa Rica) (http://www.transifex.net/projects/p/meego/team/es_CR/) | 
- | [owncloud]({{< ref "/f19/package/owncloud.md" >}}) | 0 | 7225 | 0.0 | Spanish (Costa Rica) (http://www.transifex.com/projects/p/owncloud/language/es_CR/) | 
+ | [openerp-client](/f19/package/openerp-client) | 7729 | 7729 | 100.0 | Spanish (Costa Rica) <es_CR@li.org> | 
+ | [openerp](/f19/package/openerp) | 57419 | 57798 | 99.3 | Spanish (Costa Rica) <es_CR@li.org> | 
+ | [libgweather](/f19/package/libgweather) | 447 | 460 | 97.2 | Spanish <traductores@es.gnome.org> | 
+ | [mate-applets](/f19/package/mate-applets) | 2555 | 3299 | 77.4 | LANGUAGE <LL@li.org> | 
+ | [libmateweather](/f19/package/libmateweather) | 361 | 487 | 74.1 | LANGUAGE <LL@li.org> | 
+ | [openerp7](/f19/package/openerp7) | 21021 | 50054 | 42.0 | Spanish (Costa Rica) <es_CR@li.org> | 
+ | [gnomebaker](/f19/package/gnomebaker) | 159 | 1186 | 13.4 | Spanish (Costa Rica) <es_CR@li.org> | 
+ | [openconnect](/f19/package/openconnect) | 0 | 2574 | 0.0 | Spanish (Costa Rica) (http://www.transifex.net/projects/p/meego/team/es_CR/) | 
+ | [owncloud](/f19/package/owncloud) | 0 | 7225 | 0.0 | Spanish (Costa Rica) (http://www.transifex.com/projects/p/owncloud/language/es_CR/) | 
 {.sortable}
 
 

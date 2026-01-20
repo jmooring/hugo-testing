@@ -18,64 +18,64 @@ The package ksig (version 1.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [bg]({{< ref "/f10/language/bg.md" >}}) | 85 | 85 | 100.0 | /mnt/stockage/packages/f10/ksig/po/bg/ksig.po | 
- | [ca]({{< ref "/f10/language/ca.md" >}}) | 85 | 85 | 100.0 | /mnt/stockage/packages/f10/ksig/po/ca/ksig.po | 
- | [de]({{< ref "/f10/language/de.md" >}}) | 85 | 85 | 100.0 | /mnt/stockage/packages/f10/ksig/po/de/ksig.po | 
- | [el]({{< ref "/f10/language/el.md" >}}) | 85 | 85 | 100.0 | /mnt/stockage/packages/f10/ksig/po/el/ksig.po | 
- | [es]({{< ref "/f10/language/es.md" >}}) | 85 | 85 | 100.0 | /mnt/stockage/packages/f10/ksig/po/es/ksig.po | 
- | [et]({{< ref "/f10/language/et.md" >}}) | 85 | 85 | 100.0 | /mnt/stockage/packages/f10/ksig/po/et/ksig.po | 
- | [fr]({{< ref "/f10/language/fr.md" >}}) | 85 | 85 | 100.0 | /mnt/stockage/packages/f10/ksig/po/fr/ksig.po | 
- | [fy]({{< ref "/f10/language/fy.md" >}}) | 85 | 85 | 100.0 | /mnt/stockage/packages/f10/ksig/po/fy/ksig.po | 
- | [ga]({{< ref "/f10/language/ga.md" >}}) | 85 | 85 | 100.0 | /mnt/stockage/packages/f10/ksig/po/ga/ksig.po | 
- | [gl]({{< ref "/f10/language/gl.md" >}}) | 85 | 85 | 100.0 | /mnt/stockage/packages/f10/ksig/po/gl/ksig.po | 
- | [it]({{< ref "/f10/language/it.md" >}}) | 85 | 85 | 100.0 | /mnt/stockage/packages/f10/ksig/po/it/ksig.po | 
- | [ja]({{< ref "/f10/language/ja.md" >}}) | 85 | 85 | 100.0 | /mnt/stockage/packages/f10/ksig/po/ja/ksig.po | 
- | [km]({{< ref "/f10/language/km.md" >}}) | 85 | 85 | 100.0 | /mnt/stockage/packages/f10/ksig/po/km/ksig.po | 
- | [ko]({{< ref "/f10/language/ko.md" >}}) | 85 | 85 | 100.0 | /mnt/stockage/packages/f10/ksig/po/ko/ksig.po | 
- | [nds]({{< ref "/f10/language/nds.md" >}}) | 85 | 85 | 100.0 | /mnt/stockage/packages/f10/ksig/po/nds/ksig.po | 
- | [ne]({{< ref "/f10/language/ne.md" >}}) | 85 | 85 | 100.0 | /mnt/stockage/packages/f10/ksig/po/ne/ksig.po | 
- | [nl]({{< ref "/f10/language/nl.md" >}}) | 85 | 85 | 100.0 | /mnt/stockage/packages/f10/ksig/po/nl/ksig.po | 
- | [pt]({{< ref "/f10/language/pt.md" >}}) | 85 | 85 | 100.0 | /mnt/stockage/packages/f10/ksig/po/pt/ksig.po | 
- | [pt_BR]({{< ref "/f10/language/pt_BR.md" >}}) | 85 | 85 | 100.0 | /mnt/stockage/packages/f10/ksig/po/pt_BR/ksig.po | 
- | [ro]({{< ref "/f10/language/ro.md" >}}) | 85 | 85 | 100.0 | /mnt/stockage/packages/f10/ksig/po/ro/ksig.po | 
- | [sv]({{< ref "/f10/language/sv.md" >}}) | 85 | 85 | 100.0 | /mnt/stockage/packages/f10/ksig/po/sv/ksig.po | 
- | [tr]({{< ref "/f10/language/tr.md" >}}) | 85 | 85 | 100.0 | /mnt/stockage/packages/f10/ksig/po/tr/ksig.po | 
- | [uk]({{< ref "/f10/language/uk.md" >}}) | 85 | 85 | 100.0 | /mnt/stockage/packages/f10/ksig/po/uk/ksig.po | 
- | [zh_Hant]({{< ref "/f10/language/zh_Hant.md" >}}) | 85 | 85 | 100.0 | /mnt/stockage/packages/f10/ksig/po/zh_TW/ksig.po | 
- | [fa]({{< ref "/f10/language/fa.md" >}}) | 78 | 85 | 91.8 | /mnt/stockage/packages/f10/ksig/po/fa/ksig.po | 
- | [hr]({{< ref "/f10/language/hr.md" >}}) | 75 | 85 | 88.2 | /mnt/stockage/packages/f10/ksig/po/hr/ksig.po | 
- | [cs]({{< ref "/f10/language/cs.md" >}}) | 71 | 85 | 83.5 | /mnt/stockage/packages/f10/ksig/po/cs/ksig.po | 
- | [cy]({{< ref "/f10/language/cy.md" >}}) | 71 | 85 | 83.5 | /mnt/stockage/packages/f10/ksig/po/cy/ksig.po | 
- | [da]({{< ref "/f10/language/da.md" >}}) | 71 | 85 | 83.5 | /mnt/stockage/packages/f10/ksig/po/da/ksig.po | 
- | [en_GB]({{< ref "/f10/language/en_GB.md" >}}) | 71 | 85 | 83.5 | /mnt/stockage/packages/f10/ksig/po/en_GB/ksig.po | 
- | [eu]({{< ref "/f10/language/eu.md" >}}) | 71 | 85 | 83.5 | /mnt/stockage/packages/f10/ksig/po/eu/ksig.po | 
- | [fi]({{< ref "/f10/language/fi.md" >}}) | 71 | 85 | 83.5 | /mnt/stockage/packages/f10/ksig/po/fi/ksig.po | 
- | [hu]({{< ref "/f10/language/hu.md" >}}) | 71 | 85 | 83.5 | /mnt/stockage/packages/f10/ksig/po/hu/ksig.po | 
- | [is]({{< ref "/f10/language/is.md" >}}) | 71 | 85 | 83.5 | /mnt/stockage/packages/f10/ksig/po/is/ksig.po | 
- | [kk]({{< ref "/f10/language/kk.md" >}}) | 71 | 85 | 83.5 | /mnt/stockage/packages/f10/ksig/po/kk/ksig.po | 
- | [mk]({{< ref "/f10/language/mk.md" >}}) | 71 | 85 | 83.5 | /mnt/stockage/packages/f10/ksig/po/mk/ksig.po | 
- | [ms]({{< ref "/f10/language/ms.md" >}}) | 71 | 85 | 83.5 | /mnt/stockage/packages/f10/ksig/po/ms/ksig.po | 
- | [nb_NO]({{< ref "/f10/language/nb_NO.md" >}}) | 71 | 85 | 83.5 | /mnt/stockage/packages/f10/ksig/po/nb/ksig.po | 
- | [pl]({{< ref "/f10/language/pl.md" >}}) | 71 | 85 | 83.5 | /mnt/stockage/packages/f10/ksig/po/pl/ksig.po | 
- | [ru]({{< ref "/f10/language/ru.md" >}}) | 71 | 85 | 83.5 | /mnt/stockage/packages/f10/ksig/po/ru/ksig.po | 
- | [sk]({{< ref "/f10/language/sk.md" >}}) | 71 | 85 | 83.5 | /mnt/stockage/packages/f10/ksig/po/sk/ksig.po | 
- | [sl]({{< ref "/f10/language/sl.md" >}}) | 71 | 85 | 83.5 | /mnt/stockage/packages/f10/ksig/po/sl/ksig.po | 
- | [sr]({{< ref "/f10/language/sr.md" >}}) | 71 | 85 | 83.5 | /mnt/stockage/packages/f10/ksig/po/sr/ksig.po | 
- | [ta]({{< ref "/f10/language/ta.md" >}}) | 71 | 85 | 83.5 | /mnt/stockage/packages/f10/ksig/po/ta/ksig.po | 
- | [vi]({{< ref "/f10/language/vi.md" >}}) | 71 | 85 | 83.5 | /mnt/stockage/packages/f10/ksig/po/vi/ksig.po | 
- | [tg]({{< ref "/f10/language/tg.md" >}}) | 68 | 85 | 80.0 | /mnt/stockage/packages/f10/ksig/po/tg/ksig.po | 
- | [ar]({{< ref "/f10/language/ar.md" >}}) | 67 | 85 | 78.8 | /mnt/stockage/packages/f10/ksig/po/ar/ksig.po | 
- | [zh_Hans]({{< ref "/f10/language/zh_Hans.md" >}}) | 67 | 85 | 78.8 | /mnt/stockage/packages/f10/ksig/po/zh_CN/ksig.po | 
- | [uz]({{< ref "/f10/language/uz.md" >}}) | 65 | 85 | 76.5 | /mnt/stockage/packages/f10/ksig/po/uz/ksig.po | 
- | [pa]({{< ref "/f10/language/pa.md" >}}) | 54 | 85 | 63.5 | /mnt/stockage/packages/f10/ksig/po/pa/ksig.po | 
- | [xh]({{< ref "/f10/language/xh.md" >}}) | 52 | 85 | 61.2 | /mnt/stockage/packages/f10/ksig/po/xh/ksig.po | 
- | [br]({{< ref "/f10/language/br.md" >}}) | 30 | 85 | 35.3 | /mnt/stockage/packages/f10/ksig/po/br/ksig.po | 
- | [be]({{< ref "/f10/language/be.md" >}}) | 25 | 85 | 29.4 | /mnt/stockage/packages/f10/ksig/po/be/ksig.po | 
- | [he]({{< ref "/f10/language/he.md" >}}) | 23 | 85 | 27.1 | /mnt/stockage/packages/f10/ksig/po/he/ksig.po | 
- | [oc]({{< ref "/f10/language/oc.md" >}}) | 14 | 85 | 16.5 | /mnt/stockage/packages/f10/ksig/po/oc/ksig.po | 
- | [lt]({{< ref "/f10/language/lt.md" >}}) | 12 | 85 | 14.1 | /mnt/stockage/packages/f10/ksig/po/lt/ksig.po | 
- | [nn]({{< ref "/f10/language/nn.md" >}}) | 0 | 85 | 0.0 | /mnt/stockage/packages/f10/ksig/po/nn/ksig.po | 
- | [se]({{< ref "/f10/language/se.md" >}}) | 0 | 85 | 0.0 | /mnt/stockage/packages/f10/ksig/po/se/ksig.po | 
+ | [bg](/f10/language/bg) | 85 | 85 | 100.0 | /mnt/stockage/packages/f10/ksig/po/bg/ksig.po | 
+ | [ca](/f10/language/ca) | 85 | 85 | 100.0 | /mnt/stockage/packages/f10/ksig/po/ca/ksig.po | 
+ | [de](/f10/language/de) | 85 | 85 | 100.0 | /mnt/stockage/packages/f10/ksig/po/de/ksig.po | 
+ | [el](/f10/language/el) | 85 | 85 | 100.0 | /mnt/stockage/packages/f10/ksig/po/el/ksig.po | 
+ | [es](/f10/language/es) | 85 | 85 | 100.0 | /mnt/stockage/packages/f10/ksig/po/es/ksig.po | 
+ | [et](/f10/language/et) | 85 | 85 | 100.0 | /mnt/stockage/packages/f10/ksig/po/et/ksig.po | 
+ | [fr](/f10/language/fr) | 85 | 85 | 100.0 | /mnt/stockage/packages/f10/ksig/po/fr/ksig.po | 
+ | [fy](/f10/language/fy) | 85 | 85 | 100.0 | /mnt/stockage/packages/f10/ksig/po/fy/ksig.po | 
+ | [ga](/f10/language/ga) | 85 | 85 | 100.0 | /mnt/stockage/packages/f10/ksig/po/ga/ksig.po | 
+ | [gl](/f10/language/gl) | 85 | 85 | 100.0 | /mnt/stockage/packages/f10/ksig/po/gl/ksig.po | 
+ | [it](/f10/language/it) | 85 | 85 | 100.0 | /mnt/stockage/packages/f10/ksig/po/it/ksig.po | 
+ | [ja](/f10/language/ja) | 85 | 85 | 100.0 | /mnt/stockage/packages/f10/ksig/po/ja/ksig.po | 
+ | [km](/f10/language/km) | 85 | 85 | 100.0 | /mnt/stockage/packages/f10/ksig/po/km/ksig.po | 
+ | [ko](/f10/language/ko) | 85 | 85 | 100.0 | /mnt/stockage/packages/f10/ksig/po/ko/ksig.po | 
+ | [nds](/f10/language/nds) | 85 | 85 | 100.0 | /mnt/stockage/packages/f10/ksig/po/nds/ksig.po | 
+ | [ne](/f10/language/ne) | 85 | 85 | 100.0 | /mnt/stockage/packages/f10/ksig/po/ne/ksig.po | 
+ | [nl](/f10/language/nl) | 85 | 85 | 100.0 | /mnt/stockage/packages/f10/ksig/po/nl/ksig.po | 
+ | [pt](/f10/language/pt) | 85 | 85 | 100.0 | /mnt/stockage/packages/f10/ksig/po/pt/ksig.po | 
+ | [pt_BR](/f10/language/pt_BR) | 85 | 85 | 100.0 | /mnt/stockage/packages/f10/ksig/po/pt_BR/ksig.po | 
+ | [ro](/f10/language/ro) | 85 | 85 | 100.0 | /mnt/stockage/packages/f10/ksig/po/ro/ksig.po | 
+ | [sv](/f10/language/sv) | 85 | 85 | 100.0 | /mnt/stockage/packages/f10/ksig/po/sv/ksig.po | 
+ | [tr](/f10/language/tr) | 85 | 85 | 100.0 | /mnt/stockage/packages/f10/ksig/po/tr/ksig.po | 
+ | [uk](/f10/language/uk) | 85 | 85 | 100.0 | /mnt/stockage/packages/f10/ksig/po/uk/ksig.po | 
+ | [zh_Hant](/f10/language/zh_Hant) | 85 | 85 | 100.0 | /mnt/stockage/packages/f10/ksig/po/zh_TW/ksig.po | 
+ | [fa](/f10/language/fa) | 78 | 85 | 91.8 | /mnt/stockage/packages/f10/ksig/po/fa/ksig.po | 
+ | [hr](/f10/language/hr) | 75 | 85 | 88.2 | /mnt/stockage/packages/f10/ksig/po/hr/ksig.po | 
+ | [cs](/f10/language/cs) | 71 | 85 | 83.5 | /mnt/stockage/packages/f10/ksig/po/cs/ksig.po | 
+ | [cy](/f10/language/cy) | 71 | 85 | 83.5 | /mnt/stockage/packages/f10/ksig/po/cy/ksig.po | 
+ | [da](/f10/language/da) | 71 | 85 | 83.5 | /mnt/stockage/packages/f10/ksig/po/da/ksig.po | 
+ | [en_GB](/f10/language/en_GB) | 71 | 85 | 83.5 | /mnt/stockage/packages/f10/ksig/po/en_GB/ksig.po | 
+ | [eu](/f10/language/eu) | 71 | 85 | 83.5 | /mnt/stockage/packages/f10/ksig/po/eu/ksig.po | 
+ | [fi](/f10/language/fi) | 71 | 85 | 83.5 | /mnt/stockage/packages/f10/ksig/po/fi/ksig.po | 
+ | [hu](/f10/language/hu) | 71 | 85 | 83.5 | /mnt/stockage/packages/f10/ksig/po/hu/ksig.po | 
+ | [is](/f10/language/is) | 71 | 85 | 83.5 | /mnt/stockage/packages/f10/ksig/po/is/ksig.po | 
+ | [kk](/f10/language/kk) | 71 | 85 | 83.5 | /mnt/stockage/packages/f10/ksig/po/kk/ksig.po | 
+ | [mk](/f10/language/mk) | 71 | 85 | 83.5 | /mnt/stockage/packages/f10/ksig/po/mk/ksig.po | 
+ | [ms](/f10/language/ms) | 71 | 85 | 83.5 | /mnt/stockage/packages/f10/ksig/po/ms/ksig.po | 
+ | [nb_NO](/f10/language/nb_NO) | 71 | 85 | 83.5 | /mnt/stockage/packages/f10/ksig/po/nb/ksig.po | 
+ | [pl](/f10/language/pl) | 71 | 85 | 83.5 | /mnt/stockage/packages/f10/ksig/po/pl/ksig.po | 
+ | [ru](/f10/language/ru) | 71 | 85 | 83.5 | /mnt/stockage/packages/f10/ksig/po/ru/ksig.po | 
+ | [sk](/f10/language/sk) | 71 | 85 | 83.5 | /mnt/stockage/packages/f10/ksig/po/sk/ksig.po | 
+ | [sl](/f10/language/sl) | 71 | 85 | 83.5 | /mnt/stockage/packages/f10/ksig/po/sl/ksig.po | 
+ | [sr](/f10/language/sr) | 71 | 85 | 83.5 | /mnt/stockage/packages/f10/ksig/po/sr/ksig.po | 
+ | [ta](/f10/language/ta) | 71 | 85 | 83.5 | /mnt/stockage/packages/f10/ksig/po/ta/ksig.po | 
+ | [vi](/f10/language/vi) | 71 | 85 | 83.5 | /mnt/stockage/packages/f10/ksig/po/vi/ksig.po | 
+ | [tg](/f10/language/tg) | 68 | 85 | 80.0 | /mnt/stockage/packages/f10/ksig/po/tg/ksig.po | 
+ | [ar](/f10/language/ar) | 67 | 85 | 78.8 | /mnt/stockage/packages/f10/ksig/po/ar/ksig.po | 
+ | [zh_Hans](/f10/language/zh_Hans) | 67 | 85 | 78.8 | /mnt/stockage/packages/f10/ksig/po/zh_CN/ksig.po | 
+ | [uz](/f10/language/uz) | 65 | 85 | 76.5 | /mnt/stockage/packages/f10/ksig/po/uz/ksig.po | 
+ | [pa](/f10/language/pa) | 54 | 85 | 63.5 | /mnt/stockage/packages/f10/ksig/po/pa/ksig.po | 
+ | [xh](/f10/language/xh) | 52 | 85 | 61.2 | /mnt/stockage/packages/f10/ksig/po/xh/ksig.po | 
+ | [br](/f10/language/br) | 30 | 85 | 35.3 | /mnt/stockage/packages/f10/ksig/po/br/ksig.po | 
+ | [be](/f10/language/be) | 25 | 85 | 29.4 | /mnt/stockage/packages/f10/ksig/po/be/ksig.po | 
+ | [he](/f10/language/he) | 23 | 85 | 27.1 | /mnt/stockage/packages/f10/ksig/po/he/ksig.po | 
+ | [oc](/f10/language/oc) | 14 | 85 | 16.5 | /mnt/stockage/packages/f10/ksig/po/oc/ksig.po | 
+ | [lt](/f10/language/lt) | 12 | 85 | 14.1 | /mnt/stockage/packages/f10/ksig/po/lt/ksig.po | 
+ | [nn](/f10/language/nn) | 0 | 85 | 0.0 | /mnt/stockage/packages/f10/ksig/po/nn/ksig.po | 
+ | [se](/f10/language/se) | 0 | 85 | 0.0 | /mnt/stockage/packages/f10/ksig/po/se/ksig.po | 
 {.sortable}
 
 

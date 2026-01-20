@@ -18,8 +18,8 @@ The package gedit-vala (version 0.6.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [es_AR]({{< ref "/f12/language/es_AR.md" >}}) | 257 | 257 | 100.0 | /mnt/stockage/packages/f12/gedit-vala/po/es_AR.po | 
- | [it]({{< ref "/f12/language/it.md" >}}) | 257 | 257 | 100.0 | /mnt/stockage/packages/f12/gedit-vala/po/it.po | 
+ | [es_AR](/f12/language/es_AR) | 257 | 257 | 100.0 | /mnt/stockage/packages/f12/gedit-vala/po/es_AR.po | 
+ | [it](/f12/language/it) | 257 | 257 | 100.0 | /mnt/stockage/packages/f12/gedit-vala/po/it.po | 
 {.sortable}
 
 

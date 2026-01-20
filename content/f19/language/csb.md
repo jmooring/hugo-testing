@@ -38,23 +38,23 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [cinnamon-desktop]({{< ref "/f19/package/cinnamon-desktop.md" >}}) | 235 | 235 | 100.0 | Kashubian <csb@li.org> | 
- | [gnome-desktop3]({{< ref "/f19/package/gnome-desktop3.md" >}}) | 235 | 235 | 100.0 | Kashubian <csb@li.org> | 
- | [gnome-icon-theme]({{< ref "/f19/package/gnome-icon-theme.md" >}}) | 4 | 4 | 100.0 | Kashubian <csb@li.org> | 
- | [gnome-menus]({{< ref "/f19/package/gnome-menus.md" >}}) | 95 | 95 | 100.0 | Kashubian <csb@li.org> | 
- | [xdg-user-dirs-gtk]({{< ref "/f19/package/xdg-user-dirs-gtk.md" >}}) | 81 | 81 | 100.0 | Kashubian <csb@li.org> | 
- | [cinnamon-session]({{< ref "/f19/package/cinnamon-session.md" >}}) | 447 | 475 | 94.1 | Kashubian <csb@li.org> | 
- | [gnome-session]({{< ref "/f19/package/gnome-session.md" >}}) | 447 | 475 | 94.1 | Kashubian <csb@li.org> | 
- | [exaile]({{< ref "/f19/package/exaile.md" >}}) | 1300 | 3675 | 35.4 | Kashubian <csb@li.org> | 
- | [gdk-pixbuf2]({{< ref "/f19/package/gdk-pixbuf2.md" >}}) | 481 | 1360 | 35.4 | Kashubian <csb@li.org> | 
- | [mingw-gdk-pixbuf]({{< ref "/f19/package/mingw-gdk-pixbuf.md" >}}) | 481 | 1360 | 35.4 | Kashubian <csb@li.org> | 
- | [gdm]({{< ref "/f19/package/gdm.md" >}}) | 250 | 956 | 26.2 | Kashubian <csb@li.org> | 
- | [k3b]({{< ref "/f19/package/k3b.md" >}}) | 671 | 15116 | 4.4 | Kashubian <i18n-csb@linuxcsb.org> | 
- | [cinnamon-translations]({{< ref "/f19/package/cinnamon-translations.md" >}}) | 147 | 3350 | 4.4 | Kashubian <csb@li.org> | 
- | [e16]({{< ref "/f19/package/e16.md" >}}) | 115 | 2828 | 4.1 | Kashubian <csb@li.org> | 
- | [file-roller]({{< ref "/f19/package/file-roller.md" >}}) | 41 | 1555 | 2.6 | Kashubian <csb@li.org> | 
- | [gimp]({{< ref "/f19/package/gimp.md" >}}) | 108 | 13636 | 0.8 | Kashubian <csb@li.org> | 
- | [vidalia]({{< ref "/f19/package/vidalia.md" >}}) | 0 | 10369 | 0.0 | translations@vidalia-project.net | 
+ | [cinnamon-desktop](/f19/package/cinnamon-desktop) | 235 | 235 | 100.0 | Kashubian <csb@li.org> | 
+ | [gnome-desktop3](/f19/package/gnome-desktop3) | 235 | 235 | 100.0 | Kashubian <csb@li.org> | 
+ | [gnome-icon-theme](/f19/package/gnome-icon-theme) | 4 | 4 | 100.0 | Kashubian <csb@li.org> | 
+ | [gnome-menus](/f19/package/gnome-menus) | 95 | 95 | 100.0 | Kashubian <csb@li.org> | 
+ | [xdg-user-dirs-gtk](/f19/package/xdg-user-dirs-gtk) | 81 | 81 | 100.0 | Kashubian <csb@li.org> | 
+ | [cinnamon-session](/f19/package/cinnamon-session) | 447 | 475 | 94.1 | Kashubian <csb@li.org> | 
+ | [gnome-session](/f19/package/gnome-session) | 447 | 475 | 94.1 | Kashubian <csb@li.org> | 
+ | [exaile](/f19/package/exaile) | 1300 | 3675 | 35.4 | Kashubian <csb@li.org> | 
+ | [gdk-pixbuf2](/f19/package/gdk-pixbuf2) | 481 | 1360 | 35.4 | Kashubian <csb@li.org> | 
+ | [mingw-gdk-pixbuf](/f19/package/mingw-gdk-pixbuf) | 481 | 1360 | 35.4 | Kashubian <csb@li.org> | 
+ | [gdm](/f19/package/gdm) | 250 | 956 | 26.2 | Kashubian <csb@li.org> | 
+ | [k3b](/f19/package/k3b) | 671 | 15116 | 4.4 | Kashubian <i18n-csb@linuxcsb.org> | 
+ | [cinnamon-translations](/f19/package/cinnamon-translations) | 147 | 3350 | 4.4 | Kashubian <csb@li.org> | 
+ | [e16](/f19/package/e16) | 115 | 2828 | 4.1 | Kashubian <csb@li.org> | 
+ | [file-roller](/f19/package/file-roller) | 41 | 1555 | 2.6 | Kashubian <csb@li.org> | 
+ | [gimp](/f19/package/gimp) | 108 | 13636 | 0.8 | Kashubian <csb@li.org> | 
+ | [vidalia](/f19/package/vidalia) | 0 | 10369 | 0.0 | translations@vidalia-project.net | 
 {.sortable}
 
 

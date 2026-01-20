@@ -18,7 +18,7 @@ The package nip2 (version 8.7.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [en_GB]({{< ref "/f40/language/en_GB.md" >}}) | 18 | 3281 | 0.5 | /mnt/stockage/packages/f40/nip2/po/en_GB.po | 
+ | [en_GB](/f40/language/en_GB) | 18 | 3281 | 0.5 | /mnt/stockage/packages/f40/nip2/po/en_GB.po | 
 {.sortable}
 
 

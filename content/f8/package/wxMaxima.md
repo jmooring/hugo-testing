@@ -18,12 +18,12 @@ The package wxMaxima (version 0.7.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f8/language/de.md" >}}) | 2422 | 2422 | 100.0 | /mnt/stockage/packages/f8/wxMaxima/locales/de.po | 
- | [fr]({{< ref "/f8/language/fr.md" >}}) | 2422 | 2422 | 100.0 | /mnt/stockage/packages/f8/wxMaxima/locales/fr.po | 
- | [it]({{< ref "/f8/language/it.md" >}}) | 2422 | 2422 | 100.0 | /mnt/stockage/packages/f8/wxMaxima/locales/it.po | 
- | [ru]({{< ref "/f8/language/ru.md" >}}) | 2422 | 2422 | 100.0 | /mnt/stockage/packages/f8/wxMaxima/locales/ru.po | 
- | [pt_BR]({{< ref "/f8/language/pt_BR.md" >}}) | 2419 | 2422 | 99.9 | /mnt/stockage/packages/f8/wxMaxima/locales/pt_BR.po | 
- | [es]({{< ref "/f8/language/es.md" >}}) | 2403 | 2422 | 99.2 | /mnt/stockage/packages/f8/wxMaxima/locales/es.po | 
+ | [de](/f8/language/de) | 2422 | 2422 | 100.0 | /mnt/stockage/packages/f8/wxMaxima/locales/de.po | 
+ | [fr](/f8/language/fr) | 2422 | 2422 | 100.0 | /mnt/stockage/packages/f8/wxMaxima/locales/fr.po | 
+ | [it](/f8/language/it) | 2422 | 2422 | 100.0 | /mnt/stockage/packages/f8/wxMaxima/locales/it.po | 
+ | [ru](/f8/language/ru) | 2422 | 2422 | 100.0 | /mnt/stockage/packages/f8/wxMaxima/locales/ru.po | 
+ | [pt_BR](/f8/language/pt_BR) | 2419 | 2422 | 99.9 | /mnt/stockage/packages/f8/wxMaxima/locales/pt_BR.po | 
+ | [es](/f8/language/es) | 2403 | 2422 | 99.2 | /mnt/stockage/packages/f8/wxMaxima/locales/es.po | 
 {.sortable}
 
 

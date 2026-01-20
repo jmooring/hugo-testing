@@ -38,19 +38,19 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [tuxpaint-stamps]({{< ref "/f37/package/tuxpaint-stamps.md" >}}) | 3082 | 3249 | 94.9 |  | 
- | [tuxpaint]({{< ref "/f37/package/tuxpaint.md" >}}) | 1144 | 3763 | 30.4 | LANGUAGE <harveyginter@gmail.com> | 
- | [iso-codes]({{< ref "/f37/package/iso-codes.md" >}}) | 33 | 986 | 3.3 | Inuktitut <https://hosted.weblate.org/projects/iso-codes/iso-3166-1/iu/> | 
- | [bookworm]({{< ref "/f37/package/bookworm.md" >}}) | 0 | 795 | 0.0 |  | 
- | [coin]({{< ref "/f37/package/coin.md" >}}) | 0 | 252 | 0.0 | none | 
- | [deluge]({{< ref "/f37/package/deluge.md" >}}) | 0 | 4340 | 0.0 | Inuktitut <iu@li.org> | 
- | [dippi]({{< ref "/f37/package/dippi.md" >}}) | 0 | 1183 | 0.0 | none | 
- | [gnome-do]({{< ref "/f37/package/gnome-do.md" >}}) | 0 | 612 | 0.0 | Inuktitut <iu@li.org> | 
- | [granite]({{< ref "/f37/package/granite.md" >}}) | 0 | 498 | 0.0 |  | 
- | [harvey]({{< ref "/f37/package/harvey.md" >}}) | 0 | 182 | 0.0 | none | 
- | [nutty]({{< ref "/f37/package/nutty.md" >}}) | 0 | 608 | 0.0 |  | 
- | [optimizer]({{< ref "/f37/package/optimizer.md" >}}) | 0 | 282 | 0.0 | none | 
- | [regextester]({{< ref "/f37/package/regextester.md" >}}) | 0 | 104 | 0.0 | none | 
+ | [tuxpaint-stamps](/f37/package/tuxpaint-stamps) | 3082 | 3249 | 94.9 |  | 
+ | [tuxpaint](/f37/package/tuxpaint) | 1144 | 3763 | 30.4 | LANGUAGE <harveyginter@gmail.com> | 
+ | [iso-codes](/f37/package/iso-codes) | 33 | 986 | 3.3 | Inuktitut <https://hosted.weblate.org/projects/iso-codes/iso-3166-1/iu/> | 
+ | [bookworm](/f37/package/bookworm) | 0 | 795 | 0.0 |  | 
+ | [coin](/f37/package/coin) | 0 | 252 | 0.0 | none | 
+ | [deluge](/f37/package/deluge) | 0 | 4340 | 0.0 | Inuktitut <iu@li.org> | 
+ | [dippi](/f37/package/dippi) | 0 | 1183 | 0.0 | none | 
+ | [gnome-do](/f37/package/gnome-do) | 0 | 612 | 0.0 | Inuktitut <iu@li.org> | 
+ | [granite](/f37/package/granite) | 0 | 498 | 0.0 |  | 
+ | [harvey](/f37/package/harvey) | 0 | 182 | 0.0 | none | 
+ | [nutty](/f37/package/nutty) | 0 | 608 | 0.0 |  | 
+ | [optimizer](/f37/package/optimizer) | 0 | 282 | 0.0 | none | 
+ | [regextester](/f37/package/regextester) | 0 | 104 | 0.0 | none | 
 {.sortable}
 
 

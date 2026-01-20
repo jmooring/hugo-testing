@@ -18,12 +18,12 @@ The package bacula (version 2.0.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f7/language/fr.md" >}}) | 6075 | 19792 | 30.7 | /mnt/stockage/packages/f7/bacula/po/fr.po | 
- | [de]({{< ref "/f7/language/de.md" >}}) | 0 | 19792 | 0.0 | /mnt/stockage/packages/f7/bacula/po/de.po | 
- | [es]({{< ref "/f7/language/es.md" >}}) | 0 | 19792 | 0.0 | /mnt/stockage/packages/f7/bacula/po/es.po | 
- | [es_AR]({{< ref "/f7/language/es_AR.md" >}}) | 0 | 18155 | 0.0 | /mnt/stockage/packages/f7/bacula/po/es_AR.po | 
- | [fi]({{< ref "/f7/language/fi.md" >}}) | 0 | 19792 | 0.0 | /mnt/stockage/packages/f7/bacula/po/fi.po | 
- | [it]({{< ref "/f7/language/it.md" >}}) | 0 | 19792 | 0.0 | /mnt/stockage/packages/f7/bacula/po/it.po | 
+ | [fr](/f7/language/fr) | 6075 | 19792 | 30.7 | /mnt/stockage/packages/f7/bacula/po/fr.po | 
+ | [de](/f7/language/de) | 0 | 19792 | 0.0 | /mnt/stockage/packages/f7/bacula/po/de.po | 
+ | [es](/f7/language/es) | 0 | 19792 | 0.0 | /mnt/stockage/packages/f7/bacula/po/es.po | 
+ | [es_AR](/f7/language/es_AR) | 0 | 18155 | 0.0 | /mnt/stockage/packages/f7/bacula/po/es_AR.po | 
+ | [fi](/f7/language/fi) | 0 | 19792 | 0.0 | /mnt/stockage/packages/f7/bacula/po/fi.po | 
+ | [it](/f7/language/it) | 0 | 19792 | 0.0 | /mnt/stockage/packages/f7/bacula/po/it.po | 
 {.sortable}
 
 

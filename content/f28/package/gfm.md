@@ -18,7 +18,7 @@ The package gfm (version 1.08):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f28/language/fr.md" >}}) | 257 | 257 | 100.0 | /mnt/stockage/packages/f28/gfm/po/fr.po | 
+ | [fr](/f28/language/fr) | 257 | 257 | 100.0 | /mnt/stockage/packages/f28/gfm/po/fr.po | 
 {.sortable}
 
 

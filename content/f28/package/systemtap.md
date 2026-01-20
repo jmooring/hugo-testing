@@ -18,10 +18,10 @@ The package systemtap (version 4.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f28/language/cs.md" >}}) | 4434 | 9648 | 46.0 | /mnt/stockage/packages/f28/systemtap/po/cs.po | 
- | [fr]({{< ref "/f28/language/fr.md" >}}) | 839 | 9648 | 8.7 | /mnt/stockage/packages/f28/systemtap/po/fr.po | 
- | [en]({{< ref "/f28/language/en.md" >}}) | 224 | 9648 | 2.3 | /mnt/stockage/packages/f28/systemtap/po/en.po | 
- | [pl]({{< ref "/f28/language/pl.md" >}}) | 0 | 9648 | 0.0 | /mnt/stockage/packages/f28/systemtap/po/pl.po | 
+ | [cs](/f28/language/cs) | 4434 | 9648 | 46.0 | /mnt/stockage/packages/f28/systemtap/po/cs.po | 
+ | [fr](/f28/language/fr) | 839 | 9648 | 8.7 | /mnt/stockage/packages/f28/systemtap/po/fr.po | 
+ | [en](/f28/language/en) | 224 | 9648 | 2.3 | /mnt/stockage/packages/f28/systemtap/po/en.po | 
+ | [pl](/f28/language/pl) | 0 | 9648 | 0.0 | /mnt/stockage/packages/f28/systemtap/po/pl.po | 
 {.sortable}
 
 

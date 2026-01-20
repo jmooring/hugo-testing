@@ -18,59 +18,59 @@ The package kf5-libkcddb (version 20.12.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f34/language/ca.md" >}}) | 476 | 476 | 100.0 | /mnt/stockage/packages/f34/kf5-libkcddb/po/ca/kcmcddb.po/mnt/stockage/packages/f34/kf5-libkcddb/po/ca/libkcddb.po | 
- | [ca@valencia]({{< ref "/f34/language/ca@valencia.md" >}}) | 476 | 476 | 100.0 | /mnt/stockage/packages/f34/kf5-libkcddb/po/ca@valencia/kcmcddb.po/mnt/stockage/packages/f34/kf5-libkcddb/po/ca@valencia/libkcddb.po | 
- | [da]({{< ref "/f34/language/da.md" >}}) | 476 | 476 | 100.0 | /mnt/stockage/packages/f34/kf5-libkcddb/po/da/kcmcddb.po/mnt/stockage/packages/f34/kf5-libkcddb/po/da/libkcddb.po | 
- | [de]({{< ref "/f34/language/de.md" >}}) | 476 | 476 | 100.0 | /mnt/stockage/packages/f34/kf5-libkcddb/po/de/kcmcddb.po/mnt/stockage/packages/f34/kf5-libkcddb/po/de/libkcddb.po | 
- | [el]({{< ref "/f34/language/el.md" >}}) | 476 | 476 | 100.0 | /mnt/stockage/packages/f34/kf5-libkcddb/po/el/kcmcddb.po/mnt/stockage/packages/f34/kf5-libkcddb/po/el/libkcddb.po | 
- | [en_GB]({{< ref "/f34/language/en_GB.md" >}}) | 476 | 476 | 100.0 | /mnt/stockage/packages/f34/kf5-libkcddb/po/en_GB/kcmcddb.po/mnt/stockage/packages/f34/kf5-libkcddb/po/en_GB/libkcddb.po | 
- | [es]({{< ref "/f34/language/es.md" >}}) | 476 | 476 | 100.0 | /mnt/stockage/packages/f34/kf5-libkcddb/po/es/kcmcddb.po/mnt/stockage/packages/f34/kf5-libkcddb/po/es/libkcddb.po | 
- | [et]({{< ref "/f34/language/et.md" >}}) | 476 | 476 | 100.0 | /mnt/stockage/packages/f34/kf5-libkcddb/po/et/kcmcddb.po/mnt/stockage/packages/f34/kf5-libkcddb/po/et/libkcddb.po | 
- | [eu]({{< ref "/f34/language/eu.md" >}}) | 476 | 476 | 100.0 | /mnt/stockage/packages/f34/kf5-libkcddb/po/eu/kcmcddb.po/mnt/stockage/packages/f34/kf5-libkcddb/po/eu/libkcddb.po | 
- | [fi]({{< ref "/f34/language/fi.md" >}}) | 476 | 476 | 100.0 | /mnt/stockage/packages/f34/kf5-libkcddb/po/fi/kcmcddb.po/mnt/stockage/packages/f34/kf5-libkcddb/po/fi/libkcddb.po | 
- | [fr]({{< ref "/f34/language/fr.md" >}}) | 476 | 476 | 100.0 | /mnt/stockage/packages/f34/kf5-libkcddb/po/fr/kcmcddb.po/mnt/stockage/packages/f34/kf5-libkcddb/po/fr/libkcddb.po | 
- | [hu]({{< ref "/f34/language/hu.md" >}}) | 476 | 476 | 100.0 | /mnt/stockage/packages/f34/kf5-libkcddb/po/hu/kcmcddb.po/mnt/stockage/packages/f34/kf5-libkcddb/po/hu/libkcddb.po | 
- | [ia]({{< ref "/f34/language/ia.md" >}}) | 476 | 476 | 100.0 | /mnt/stockage/packages/f34/kf5-libkcddb/po/ia/kcmcddb.po/mnt/stockage/packages/f34/kf5-libkcddb/po/ia/libkcddb.po | 
- | [it]({{< ref "/f34/language/it.md" >}}) | 476 | 476 | 100.0 | /mnt/stockage/packages/f34/kf5-libkcddb/po/it/kcmcddb.po/mnt/stockage/packages/f34/kf5-libkcddb/po/it/libkcddb.po | 
- | [ko]({{< ref "/f34/language/ko.md" >}}) | 476 | 476 | 100.0 | /mnt/stockage/packages/f34/kf5-libkcddb/po/ko/kcmcddb.po/mnt/stockage/packages/f34/kf5-libkcddb/po/ko/libkcddb.po | 
- | [nl]({{< ref "/f34/language/nl.md" >}}) | 476 | 476 | 100.0 | /mnt/stockage/packages/f34/kf5-libkcddb/po/nl/kcmcddb.po/mnt/stockage/packages/f34/kf5-libkcddb/po/nl/libkcddb.po | 
- | [nn]({{< ref "/f34/language/nn.md" >}}) | 476 | 476 | 100.0 | /mnt/stockage/packages/f34/kf5-libkcddb/po/nn/kcmcddb.po/mnt/stockage/packages/f34/kf5-libkcddb/po/nn/libkcddb.po | 
- | [pl]({{< ref "/f34/language/pl.md" >}}) | 476 | 476 | 100.0 | /mnt/stockage/packages/f34/kf5-libkcddb/po/pl/kcmcddb.po/mnt/stockage/packages/f34/kf5-libkcddb/po/pl/libkcddb.po | 
- | [pt]({{< ref "/f34/language/pt.md" >}}) | 476 | 476 | 100.0 | /mnt/stockage/packages/f34/kf5-libkcddb/po/pt/kcmcddb.po/mnt/stockage/packages/f34/kf5-libkcddb/po/pt/libkcddb.po | 
- | [pt_BR]({{< ref "/f34/language/pt_BR.md" >}}) | 476 | 476 | 100.0 | /mnt/stockage/packages/f34/kf5-libkcddb/po/pt_BR/kcmcddb.po/mnt/stockage/packages/f34/kf5-libkcddb/po/pt_BR/libkcddb.po | 
- | [ru]({{< ref "/f34/language/ru.md" >}}) | 476 | 476 | 100.0 | /mnt/stockage/packages/f34/kf5-libkcddb/po/ru/kcmcddb.po/mnt/stockage/packages/f34/kf5-libkcddb/po/ru/libkcddb.po | 
- | [sk]({{< ref "/f34/language/sk.md" >}}) | 476 | 476 | 100.0 | /mnt/stockage/packages/f34/kf5-libkcddb/po/sk/kcmcddb.po/mnt/stockage/packages/f34/kf5-libkcddb/po/sk/libkcddb.po | 
- | [sl]({{< ref "/f34/language/sl.md" >}}) | 476 | 476 | 100.0 | /mnt/stockage/packages/f34/kf5-libkcddb/po/sl/kcmcddb.po/mnt/stockage/packages/f34/kf5-libkcddb/po/sl/libkcddb.po | 
- | [sv]({{< ref "/f34/language/sv.md" >}}) | 476 | 476 | 100.0 | /mnt/stockage/packages/f34/kf5-libkcddb/po/sv/kcmcddb.po/mnt/stockage/packages/f34/kf5-libkcddb/po/sv/libkcddb.po | 
- | [uk]({{< ref "/f34/language/uk.md" >}}) | 476 | 476 | 100.0 | /mnt/stockage/packages/f34/kf5-libkcddb/po/uk/kcmcddb.po/mnt/stockage/packages/f34/kf5-libkcddb/po/uk/libkcddb.po | 
- | [zh_Hant]({{< ref "/f34/language/zh_Hant.md" >}}) | 476 | 476 | 100.0 | /mnt/stockage/packages/f34/kf5-libkcddb/po/zh_TW/kcmcddb.po/mnt/stockage/packages/f34/kf5-libkcddb/po/zh_TW/libkcddb.po | 
- | [is]({{< ref "/f34/language/is.md" >}}) | 473 | 476 | 99.4 | /mnt/stockage/packages/f34/kf5-libkcddb/po/is/kcmcddb.po/mnt/stockage/packages/f34/kf5-libkcddb/po/is/libkcddb.po | 
- | [zh_Hans]({{< ref "/f34/language/zh_Hans.md" >}}) | 473 | 476 | 99.4 | /mnt/stockage/packages/f34/kf5-libkcddb/po/zh_CN/kcmcddb.po/mnt/stockage/packages/f34/kf5-libkcddb/po/zh_CN/libkcddb.po | 
- | [bg]({{< ref "/f34/language/bg.md" >}}) | 470 | 476 | 98.7 | /mnt/stockage/packages/f34/kf5-libkcddb/po/bg/kcmcddb.po/mnt/stockage/packages/f34/kf5-libkcddb/po/bg/libkcddb.po | 
- | [bs]({{< ref "/f34/language/bs.md" >}}) | 470 | 476 | 98.7 | /mnt/stockage/packages/f34/kf5-libkcddb/po/bs/kcmcddb.po/mnt/stockage/packages/f34/kf5-libkcddb/po/bs/libkcddb.po | 
- | [cs]({{< ref "/f34/language/cs.md" >}}) | 470 | 476 | 98.7 | /mnt/stockage/packages/f34/kf5-libkcddb/po/cs/kcmcddb.po/mnt/stockage/packages/f34/kf5-libkcddb/po/cs/libkcddb.po | 
- | [ga]({{< ref "/f34/language/ga.md" >}}) | 470 | 476 | 98.7 | /mnt/stockage/packages/f34/kf5-libkcddb/po/ga/kcmcddb.po/mnt/stockage/packages/f34/kf5-libkcddb/po/ga/libkcddb.po | 
- | [gl]({{< ref "/f34/language/gl.md" >}}) | 470 | 476 | 98.7 | /mnt/stockage/packages/f34/kf5-libkcddb/po/gl/kcmcddb.po/mnt/stockage/packages/f34/kf5-libkcddb/po/gl/libkcddb.po | 
- | [kk]({{< ref "/f34/language/kk.md" >}}) | 470 | 476 | 98.7 | /mnt/stockage/packages/f34/kf5-libkcddb/po/kk/kcmcddb.po/mnt/stockage/packages/f34/kf5-libkcddb/po/kk/libkcddb.po | 
- | [km]({{< ref "/f34/language/km.md" >}}) | 470 | 476 | 98.7 | /mnt/stockage/packages/f34/kf5-libkcddb/po/km/kcmcddb.po/mnt/stockage/packages/f34/kf5-libkcddb/po/km/libkcddb.po | 
- | [mr]({{< ref "/f34/language/mr.md" >}}) | 470 | 476 | 98.7 | /mnt/stockage/packages/f34/kf5-libkcddb/po/mr/kcmcddb.po/mnt/stockage/packages/f34/kf5-libkcddb/po/mr/libkcddb.po | 
- | [nb_NO]({{< ref "/f34/language/nb_NO.md" >}}) | 470 | 476 | 98.7 | /mnt/stockage/packages/f34/kf5-libkcddb/po/nb/kcmcddb.po/mnt/stockage/packages/f34/kf5-libkcddb/po/nb/libkcddb.po | 
- | [nds]({{< ref "/f34/language/nds.md" >}}) | 470 | 476 | 98.7 | /mnt/stockage/packages/f34/kf5-libkcddb/po/nds/kcmcddb.po/mnt/stockage/packages/f34/kf5-libkcddb/po/nds/libkcddb.po | 
- | [sr]({{< ref "/f34/language/sr.md" >}}) | 470 | 476 | 98.7 | /mnt/stockage/packages/f34/kf5-libkcddb/po/sr/kcmcddb.po/mnt/stockage/packages/f34/kf5-libkcddb/po/sr/libkcddb.po | 
- | [tr]({{< ref "/f34/language/tr.md" >}}) | 470 | 476 | 98.7 | /mnt/stockage/packages/f34/kf5-libkcddb/po/tr/kcmcddb.po/mnt/stockage/packages/f34/kf5-libkcddb/po/tr/libkcddb.po | 
- | [ug]({{< ref "/f34/language/ug.md" >}}) | 453 | 476 | 95.2 | /mnt/stockage/packages/f34/kf5-libkcddb/po/ug/kcmcddb.po/mnt/stockage/packages/f34/kf5-libkcddb/po/ug/libkcddb.po | 
- | [ast]({{< ref "/f34/language/ast.md" >}}) | 102 | 128 | 79.7 | /mnt/stockage/packages/f34/kf5-libkcddb/po/ast/kcmcddb.po | 
- | [ar]({{< ref "/f34/language/ar.md" >}}) | 342 | 476 | 71.8 | /mnt/stockage/packages/f34/kf5-libkcddb/po/ar/kcmcddb.po/mnt/stockage/packages/f34/kf5-libkcddb/po/ar/libkcddb.po | 
- | [lt]({{< ref "/f34/language/lt.md" >}}) | 342 | 476 | 71.8 | /mnt/stockage/packages/f34/kf5-libkcddb/po/lt/kcmcddb.po/mnt/stockage/packages/f34/kf5-libkcddb/po/lt/libkcddb.po | 
- | [lv]({{< ref "/f34/language/lv.md" >}}) | 342 | 476 | 71.8 | /mnt/stockage/packages/f34/kf5-libkcddb/po/lv/kcmcddb.po/mnt/stockage/packages/f34/kf5-libkcddb/po/lv/libkcddb.po | 
- | [ja]({{< ref "/f34/language/ja.md" >}}) | 330 | 476 | 69.3 | /mnt/stockage/packages/f34/kf5-libkcddb/po/ja/kcmcddb.po/mnt/stockage/packages/f34/kf5-libkcddb/po/ja/libkcddb.po | 
- | [he]({{< ref "/f34/language/he.md" >}}) | 328 | 476 | 68.9 | /mnt/stockage/packages/f34/kf5-libkcddb/po/he/kcmcddb.po/mnt/stockage/packages/f34/kf5-libkcddb/po/he/libkcddb.po | 
- | [fa]({{< ref "/f34/language/fa.md" >}}) | 323 | 476 | 67.9 | /mnt/stockage/packages/f34/kf5-libkcddb/po/fa/kcmcddb.po/mnt/stockage/packages/f34/kf5-libkcddb/po/fa/libkcddb.po | 
- | [hi]({{< ref "/f34/language/hi.md" >}}) | 314 | 476 | 66.0 | /mnt/stockage/packages/f34/kf5-libkcddb/po/hi/kcmcddb.po/mnt/stockage/packages/f34/kf5-libkcddb/po/hi/libkcddb.po | 
- | [ro]({{< ref "/f34/language/ro.md" >}}) | 309 | 476 | 64.9 | /mnt/stockage/packages/f34/kf5-libkcddb/po/ro/kcmcddb.po/mnt/stockage/packages/f34/kf5-libkcddb/po/ro/libkcddb.po | 
- | [pa]({{< ref "/f34/language/pa.md" >}}) | 266 | 476 | 55.9 | /mnt/stockage/packages/f34/kf5-libkcddb/po/pa/kcmcddb.po/mnt/stockage/packages/f34/kf5-libkcddb/po/pa/libkcddb.po | 
- | [eo]({{< ref "/f34/language/eo.md" >}}) | 89 | 476 | 18.7 | /mnt/stockage/packages/f34/kf5-libkcddb/po/eo/kcmcddb.po/mnt/stockage/packages/f34/kf5-libkcddb/po/eo/libkcddb.po | 
- | [hr]({{< ref "/f34/language/hr.md" >}}) | 5 | 476 | 1.1 | /mnt/stockage/packages/f34/kf5-libkcddb/po/hr/kcmcddb.po/mnt/stockage/packages/f34/kf5-libkcddb/po/hr/libkcddb.po | 
+ | [ca](/f34/language/ca) | 476 | 476 | 100.0 | /mnt/stockage/packages/f34/kf5-libkcddb/po/ca/kcmcddb.po/mnt/stockage/packages/f34/kf5-libkcddb/po/ca/libkcddb.po | 
+ | [ca@valencia](/f34/language/ca@valencia) | 476 | 476 | 100.0 | /mnt/stockage/packages/f34/kf5-libkcddb/po/ca@valencia/kcmcddb.po/mnt/stockage/packages/f34/kf5-libkcddb/po/ca@valencia/libkcddb.po | 
+ | [da](/f34/language/da) | 476 | 476 | 100.0 | /mnt/stockage/packages/f34/kf5-libkcddb/po/da/kcmcddb.po/mnt/stockage/packages/f34/kf5-libkcddb/po/da/libkcddb.po | 
+ | [de](/f34/language/de) | 476 | 476 | 100.0 | /mnt/stockage/packages/f34/kf5-libkcddb/po/de/kcmcddb.po/mnt/stockage/packages/f34/kf5-libkcddb/po/de/libkcddb.po | 
+ | [el](/f34/language/el) | 476 | 476 | 100.0 | /mnt/stockage/packages/f34/kf5-libkcddb/po/el/kcmcddb.po/mnt/stockage/packages/f34/kf5-libkcddb/po/el/libkcddb.po | 
+ | [en_GB](/f34/language/en_GB) | 476 | 476 | 100.0 | /mnt/stockage/packages/f34/kf5-libkcddb/po/en_GB/kcmcddb.po/mnt/stockage/packages/f34/kf5-libkcddb/po/en_GB/libkcddb.po | 
+ | [es](/f34/language/es) | 476 | 476 | 100.0 | /mnt/stockage/packages/f34/kf5-libkcddb/po/es/kcmcddb.po/mnt/stockage/packages/f34/kf5-libkcddb/po/es/libkcddb.po | 
+ | [et](/f34/language/et) | 476 | 476 | 100.0 | /mnt/stockage/packages/f34/kf5-libkcddb/po/et/kcmcddb.po/mnt/stockage/packages/f34/kf5-libkcddb/po/et/libkcddb.po | 
+ | [eu](/f34/language/eu) | 476 | 476 | 100.0 | /mnt/stockage/packages/f34/kf5-libkcddb/po/eu/kcmcddb.po/mnt/stockage/packages/f34/kf5-libkcddb/po/eu/libkcddb.po | 
+ | [fi](/f34/language/fi) | 476 | 476 | 100.0 | /mnt/stockage/packages/f34/kf5-libkcddb/po/fi/kcmcddb.po/mnt/stockage/packages/f34/kf5-libkcddb/po/fi/libkcddb.po | 
+ | [fr](/f34/language/fr) | 476 | 476 | 100.0 | /mnt/stockage/packages/f34/kf5-libkcddb/po/fr/kcmcddb.po/mnt/stockage/packages/f34/kf5-libkcddb/po/fr/libkcddb.po | 
+ | [hu](/f34/language/hu) | 476 | 476 | 100.0 | /mnt/stockage/packages/f34/kf5-libkcddb/po/hu/kcmcddb.po/mnt/stockage/packages/f34/kf5-libkcddb/po/hu/libkcddb.po | 
+ | [ia](/f34/language/ia) | 476 | 476 | 100.0 | /mnt/stockage/packages/f34/kf5-libkcddb/po/ia/kcmcddb.po/mnt/stockage/packages/f34/kf5-libkcddb/po/ia/libkcddb.po | 
+ | [it](/f34/language/it) | 476 | 476 | 100.0 | /mnt/stockage/packages/f34/kf5-libkcddb/po/it/kcmcddb.po/mnt/stockage/packages/f34/kf5-libkcddb/po/it/libkcddb.po | 
+ | [ko](/f34/language/ko) | 476 | 476 | 100.0 | /mnt/stockage/packages/f34/kf5-libkcddb/po/ko/kcmcddb.po/mnt/stockage/packages/f34/kf5-libkcddb/po/ko/libkcddb.po | 
+ | [nl](/f34/language/nl) | 476 | 476 | 100.0 | /mnt/stockage/packages/f34/kf5-libkcddb/po/nl/kcmcddb.po/mnt/stockage/packages/f34/kf5-libkcddb/po/nl/libkcddb.po | 
+ | [nn](/f34/language/nn) | 476 | 476 | 100.0 | /mnt/stockage/packages/f34/kf5-libkcddb/po/nn/kcmcddb.po/mnt/stockage/packages/f34/kf5-libkcddb/po/nn/libkcddb.po | 
+ | [pl](/f34/language/pl) | 476 | 476 | 100.0 | /mnt/stockage/packages/f34/kf5-libkcddb/po/pl/kcmcddb.po/mnt/stockage/packages/f34/kf5-libkcddb/po/pl/libkcddb.po | 
+ | [pt](/f34/language/pt) | 476 | 476 | 100.0 | /mnt/stockage/packages/f34/kf5-libkcddb/po/pt/kcmcddb.po/mnt/stockage/packages/f34/kf5-libkcddb/po/pt/libkcddb.po | 
+ | [pt_BR](/f34/language/pt_BR) | 476 | 476 | 100.0 | /mnt/stockage/packages/f34/kf5-libkcddb/po/pt_BR/kcmcddb.po/mnt/stockage/packages/f34/kf5-libkcddb/po/pt_BR/libkcddb.po | 
+ | [ru](/f34/language/ru) | 476 | 476 | 100.0 | /mnt/stockage/packages/f34/kf5-libkcddb/po/ru/kcmcddb.po/mnt/stockage/packages/f34/kf5-libkcddb/po/ru/libkcddb.po | 
+ | [sk](/f34/language/sk) | 476 | 476 | 100.0 | /mnt/stockage/packages/f34/kf5-libkcddb/po/sk/kcmcddb.po/mnt/stockage/packages/f34/kf5-libkcddb/po/sk/libkcddb.po | 
+ | [sl](/f34/language/sl) | 476 | 476 | 100.0 | /mnt/stockage/packages/f34/kf5-libkcddb/po/sl/kcmcddb.po/mnt/stockage/packages/f34/kf5-libkcddb/po/sl/libkcddb.po | 
+ | [sv](/f34/language/sv) | 476 | 476 | 100.0 | /mnt/stockage/packages/f34/kf5-libkcddb/po/sv/kcmcddb.po/mnt/stockage/packages/f34/kf5-libkcddb/po/sv/libkcddb.po | 
+ | [uk](/f34/language/uk) | 476 | 476 | 100.0 | /mnt/stockage/packages/f34/kf5-libkcddb/po/uk/kcmcddb.po/mnt/stockage/packages/f34/kf5-libkcddb/po/uk/libkcddb.po | 
+ | [zh_Hant](/f34/language/zh_Hant) | 476 | 476 | 100.0 | /mnt/stockage/packages/f34/kf5-libkcddb/po/zh_TW/kcmcddb.po/mnt/stockage/packages/f34/kf5-libkcddb/po/zh_TW/libkcddb.po | 
+ | [is](/f34/language/is) | 473 | 476 | 99.4 | /mnt/stockage/packages/f34/kf5-libkcddb/po/is/kcmcddb.po/mnt/stockage/packages/f34/kf5-libkcddb/po/is/libkcddb.po | 
+ | [zh_Hans](/f34/language/zh_Hans) | 473 | 476 | 99.4 | /mnt/stockage/packages/f34/kf5-libkcddb/po/zh_CN/kcmcddb.po/mnt/stockage/packages/f34/kf5-libkcddb/po/zh_CN/libkcddb.po | 
+ | [bg](/f34/language/bg) | 470 | 476 | 98.7 | /mnt/stockage/packages/f34/kf5-libkcddb/po/bg/kcmcddb.po/mnt/stockage/packages/f34/kf5-libkcddb/po/bg/libkcddb.po | 
+ | [bs](/f34/language/bs) | 470 | 476 | 98.7 | /mnt/stockage/packages/f34/kf5-libkcddb/po/bs/kcmcddb.po/mnt/stockage/packages/f34/kf5-libkcddb/po/bs/libkcddb.po | 
+ | [cs](/f34/language/cs) | 470 | 476 | 98.7 | /mnt/stockage/packages/f34/kf5-libkcddb/po/cs/kcmcddb.po/mnt/stockage/packages/f34/kf5-libkcddb/po/cs/libkcddb.po | 
+ | [ga](/f34/language/ga) | 470 | 476 | 98.7 | /mnt/stockage/packages/f34/kf5-libkcddb/po/ga/kcmcddb.po/mnt/stockage/packages/f34/kf5-libkcddb/po/ga/libkcddb.po | 
+ | [gl](/f34/language/gl) | 470 | 476 | 98.7 | /mnt/stockage/packages/f34/kf5-libkcddb/po/gl/kcmcddb.po/mnt/stockage/packages/f34/kf5-libkcddb/po/gl/libkcddb.po | 
+ | [kk](/f34/language/kk) | 470 | 476 | 98.7 | /mnt/stockage/packages/f34/kf5-libkcddb/po/kk/kcmcddb.po/mnt/stockage/packages/f34/kf5-libkcddb/po/kk/libkcddb.po | 
+ | [km](/f34/language/km) | 470 | 476 | 98.7 | /mnt/stockage/packages/f34/kf5-libkcddb/po/km/kcmcddb.po/mnt/stockage/packages/f34/kf5-libkcddb/po/km/libkcddb.po | 
+ | [mr](/f34/language/mr) | 470 | 476 | 98.7 | /mnt/stockage/packages/f34/kf5-libkcddb/po/mr/kcmcddb.po/mnt/stockage/packages/f34/kf5-libkcddb/po/mr/libkcddb.po | 
+ | [nb_NO](/f34/language/nb_NO) | 470 | 476 | 98.7 | /mnt/stockage/packages/f34/kf5-libkcddb/po/nb/kcmcddb.po/mnt/stockage/packages/f34/kf5-libkcddb/po/nb/libkcddb.po | 
+ | [nds](/f34/language/nds) | 470 | 476 | 98.7 | /mnt/stockage/packages/f34/kf5-libkcddb/po/nds/kcmcddb.po/mnt/stockage/packages/f34/kf5-libkcddb/po/nds/libkcddb.po | 
+ | [sr](/f34/language/sr) | 470 | 476 | 98.7 | /mnt/stockage/packages/f34/kf5-libkcddb/po/sr/kcmcddb.po/mnt/stockage/packages/f34/kf5-libkcddb/po/sr/libkcddb.po | 
+ | [tr](/f34/language/tr) | 470 | 476 | 98.7 | /mnt/stockage/packages/f34/kf5-libkcddb/po/tr/kcmcddb.po/mnt/stockage/packages/f34/kf5-libkcddb/po/tr/libkcddb.po | 
+ | [ug](/f34/language/ug) | 453 | 476 | 95.2 | /mnt/stockage/packages/f34/kf5-libkcddb/po/ug/kcmcddb.po/mnt/stockage/packages/f34/kf5-libkcddb/po/ug/libkcddb.po | 
+ | [ast](/f34/language/ast) | 102 | 128 | 79.7 | /mnt/stockage/packages/f34/kf5-libkcddb/po/ast/kcmcddb.po | 
+ | [ar](/f34/language/ar) | 342 | 476 | 71.8 | /mnt/stockage/packages/f34/kf5-libkcddb/po/ar/kcmcddb.po/mnt/stockage/packages/f34/kf5-libkcddb/po/ar/libkcddb.po | 
+ | [lt](/f34/language/lt) | 342 | 476 | 71.8 | /mnt/stockage/packages/f34/kf5-libkcddb/po/lt/kcmcddb.po/mnt/stockage/packages/f34/kf5-libkcddb/po/lt/libkcddb.po | 
+ | [lv](/f34/language/lv) | 342 | 476 | 71.8 | /mnt/stockage/packages/f34/kf5-libkcddb/po/lv/kcmcddb.po/mnt/stockage/packages/f34/kf5-libkcddb/po/lv/libkcddb.po | 
+ | [ja](/f34/language/ja) | 330 | 476 | 69.3 | /mnt/stockage/packages/f34/kf5-libkcddb/po/ja/kcmcddb.po/mnt/stockage/packages/f34/kf5-libkcddb/po/ja/libkcddb.po | 
+ | [he](/f34/language/he) | 328 | 476 | 68.9 | /mnt/stockage/packages/f34/kf5-libkcddb/po/he/kcmcddb.po/mnt/stockage/packages/f34/kf5-libkcddb/po/he/libkcddb.po | 
+ | [fa](/f34/language/fa) | 323 | 476 | 67.9 | /mnt/stockage/packages/f34/kf5-libkcddb/po/fa/kcmcddb.po/mnt/stockage/packages/f34/kf5-libkcddb/po/fa/libkcddb.po | 
+ | [hi](/f34/language/hi) | 314 | 476 | 66.0 | /mnt/stockage/packages/f34/kf5-libkcddb/po/hi/kcmcddb.po/mnt/stockage/packages/f34/kf5-libkcddb/po/hi/libkcddb.po | 
+ | [ro](/f34/language/ro) | 309 | 476 | 64.9 | /mnt/stockage/packages/f34/kf5-libkcddb/po/ro/kcmcddb.po/mnt/stockage/packages/f34/kf5-libkcddb/po/ro/libkcddb.po | 
+ | [pa](/f34/language/pa) | 266 | 476 | 55.9 | /mnt/stockage/packages/f34/kf5-libkcddb/po/pa/kcmcddb.po/mnt/stockage/packages/f34/kf5-libkcddb/po/pa/libkcddb.po | 
+ | [eo](/f34/language/eo) | 89 | 476 | 18.7 | /mnt/stockage/packages/f34/kf5-libkcddb/po/eo/kcmcddb.po/mnt/stockage/packages/f34/kf5-libkcddb/po/eo/libkcddb.po | 
+ | [hr](/f34/language/hr) | 5 | 476 | 1.1 | /mnt/stockage/packages/f34/kf5-libkcddb/po/hr/kcmcddb.po/mnt/stockage/packages/f34/kf5-libkcddb/po/hr/libkcddb.po | 
 {.sortable}
 
 

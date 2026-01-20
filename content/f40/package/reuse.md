@@ -18,19 +18,19 @@ The package reuse (version 4.0.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [uk]({{< ref "/f40/language/uk.md" >}}) | 1570 | 1570 | 100.0 | /mnt/stockage/packages/f40/reuse/po/uk.po | 
- | [ru]({{< ref "/f40/language/ru.md" >}}) | 1529 | 1570 | 97.4 | /mnt/stockage/packages/f40/reuse/po/ru.po | 
- | [es]({{< ref "/f40/language/es.md" >}}) | 1292 | 1570 | 82.3 | /mnt/stockage/packages/f40/reuse/po/es.po | 
- | [de]({{< ref "/f40/language/de.md" >}}) | 1013 | 1570 | 64.5 | /mnt/stockage/packages/f40/reuse/po/de.po | 
- | [fr]({{< ref "/f40/language/fr.md" >}}) | 928 | 1570 | 59.1 | /mnt/stockage/packages/f40/reuse/po/fr.po | 
- | [tr]({{< ref "/f40/language/tr.md" >}}) | 928 | 1570 | 59.1 | /mnt/stockage/packages/f40/reuse/po/tr.po | 
- | [cs]({{< ref "/f40/language/cs.md" >}}) | 846 | 1570 | 53.9 | /mnt/stockage/packages/f40/reuse/po/cs.po | 
- | [eo]({{< ref "/f40/language/eo.md" >}}) | 776 | 1570 | 49.4 | /mnt/stockage/packages/f40/reuse/po/eo.po | 
- | [gl]({{< ref "/f40/language/gl.md" >}}) | 727 | 1570 | 46.3 | /mnt/stockage/packages/f40/reuse/po/gl.po | 
- | [it]({{< ref "/f40/language/it.md" >}}) | 727 | 1570 | 46.3 | /mnt/stockage/packages/f40/reuse/po/it.po | 
- | [nl]({{< ref "/f40/language/nl.md" >}}) | 727 | 1570 | 46.3 | /mnt/stockage/packages/f40/reuse/po/nl.po | 
- | [pt]({{< ref "/f40/language/pt.md" >}}) | 727 | 1570 | 46.3 | /mnt/stockage/packages/f40/reuse/po/pt.po | 
- | [sv]({{< ref "/f40/language/sv.md" >}}) | 198 | 1570 | 12.6 | /mnt/stockage/packages/f40/reuse/po/sv.po | 
+ | [uk](/f40/language/uk) | 1570 | 1570 | 100.0 | /mnt/stockage/packages/f40/reuse/po/uk.po | 
+ | [ru](/f40/language/ru) | 1529 | 1570 | 97.4 | /mnt/stockage/packages/f40/reuse/po/ru.po | 
+ | [es](/f40/language/es) | 1292 | 1570 | 82.3 | /mnt/stockage/packages/f40/reuse/po/es.po | 
+ | [de](/f40/language/de) | 1013 | 1570 | 64.5 | /mnt/stockage/packages/f40/reuse/po/de.po | 
+ | [fr](/f40/language/fr) | 928 | 1570 | 59.1 | /mnt/stockage/packages/f40/reuse/po/fr.po | 
+ | [tr](/f40/language/tr) | 928 | 1570 | 59.1 | /mnt/stockage/packages/f40/reuse/po/tr.po | 
+ | [cs](/f40/language/cs) | 846 | 1570 | 53.9 | /mnt/stockage/packages/f40/reuse/po/cs.po | 
+ | [eo](/f40/language/eo) | 776 | 1570 | 49.4 | /mnt/stockage/packages/f40/reuse/po/eo.po | 
+ | [gl](/f40/language/gl) | 727 | 1570 | 46.3 | /mnt/stockage/packages/f40/reuse/po/gl.po | 
+ | [it](/f40/language/it) | 727 | 1570 | 46.3 | /mnt/stockage/packages/f40/reuse/po/it.po | 
+ | [nl](/f40/language/nl) | 727 | 1570 | 46.3 | /mnt/stockage/packages/f40/reuse/po/nl.po | 
+ | [pt](/f40/language/pt) | 727 | 1570 | 46.3 | /mnt/stockage/packages/f40/reuse/po/pt.po | 
+ | [sv](/f40/language/sv) | 198 | 1570 | 12.6 | /mnt/stockage/packages/f40/reuse/po/sv.po | 
 {.sortable}
 
 

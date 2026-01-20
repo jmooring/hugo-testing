@@ -38,7 +38,7 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [sugar-toolkit-gtk3]({{< ref "/f34/package/sugar-toolkit-gtk3.md" >}}) | 30 | 213 | 14.1 | LANGUAGE <LL@li.org> | 
+ | [sugar-toolkit-gtk3](/f34/package/sugar-toolkit-gtk3) | 30 | 213 | 14.1 | LANGUAGE <LL@li.org> | 
 {.sortable}
 
 

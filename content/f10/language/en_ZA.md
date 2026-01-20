@@ -38,8 +38,8 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [tuxpaint]({{< ref "/f10/package/tuxpaint.md" >}}) | 551 | 761 | 72.4 | English (South African) <en_za@li.org> | 
- | [virtaal]({{< ref "/f10/package/virtaal.md" >}}) | 37 | 1011 | 3.7 | English <translate-devel@lists.sourceforge.net> | 
+ | [tuxpaint](/f10/package/tuxpaint) | 551 | 761 | 72.4 | English (South African) <en_za@li.org> | 
+ | [virtaal](/f10/package/virtaal) | 37 | 1011 | 3.7 | English <translate-devel@lists.sourceforge.net> | 
 {.sortable}
 
 

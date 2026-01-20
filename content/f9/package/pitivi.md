@@ -18,22 +18,22 @@ The package pitivi (version 0.11.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f9/language/ca.md" >}}) | 812 | 812 | 100.0 | /mnt/stockage/packages/f9/pitivi/po/ca.po | 
- | [dz]({{< ref "/f9/language/dz.md" >}}) | 721 | 721 | 100.0 | /mnt/stockage/packages/f9/pitivi/po/dz.po | 
- | [es]({{< ref "/f9/language/es.md" >}}) | 817 | 817 | 100.0 | /mnt/stockage/packages/f9/pitivi/po/es.po | 
- | [fi]({{< ref "/f9/language/fi.md" >}}) | 817 | 817 | 100.0 | /mnt/stockage/packages/f9/pitivi/po/fi.po | 
- | [fr]({{< ref "/f9/language/fr.md" >}}) | 775 | 775 | 100.0 | /mnt/stockage/packages/f9/pitivi/po/fr.po | 
- | [lv]({{< ref "/f9/language/lv.md" >}}) | 721 | 721 | 100.0 | /mnt/stockage/packages/f9/pitivi/po/lv.po | 
- | [sv]({{< ref "/f9/language/sv.md" >}}) | 817 | 817 | 100.0 | /mnt/stockage/packages/f9/pitivi/po/sv.po | 
- | [en_GB]({{< ref "/f9/language/en_GB.md" >}}) | 707 | 721 | 98.1 | /mnt/stockage/packages/f9/pitivi/po/en_GB.po | 
- | [it]({{< ref "/f9/language/it.md" >}}) | 416 | 721 | 57.7 | /mnt/stockage/packages/f9/pitivi/po/it.po | 
- | [pt_BR]({{< ref "/f9/language/pt_BR.md" >}}) | 413 | 721 | 57.3 | /mnt/stockage/packages/f9/pitivi/po/pt_BR.po | 
- | [pa]({{< ref "/f9/language/pa.md" >}}) | 302 | 721 | 41.9 | /mnt/stockage/packages/f9/pitivi/po/pa.po | 
- | [de]({{< ref "/f9/language/de.md" >}}) | 291 | 721 | 40.4 | /mnt/stockage/packages/f9/pitivi/po/de.po | 
- | [el]({{< ref "/f9/language/el.md" >}}) | 82 | 721 | 11.4 | /mnt/stockage/packages/f9/pitivi/po/el.po | 
- | [zh_Hans]({{< ref "/f9/language/zh_Hans.md" >}}) | 81 | 721 | 11.2 | /mnt/stockage/packages/f9/pitivi/po/zh_CN.po | 
- | [oc]({{< ref "/f9/language/oc.md" >}}) | 35 | 721 | 4.9 | /mnt/stockage/packages/f9/pitivi/po/oc.po | 
- | [ar]({{< ref "/f9/language/ar.md" >}}) | 26 | 721 | 3.6 | /mnt/stockage/packages/f9/pitivi/po/ar.po | 
+ | [ca](/f9/language/ca) | 812 | 812 | 100.0 | /mnt/stockage/packages/f9/pitivi/po/ca.po | 
+ | [dz](/f9/language/dz) | 721 | 721 | 100.0 | /mnt/stockage/packages/f9/pitivi/po/dz.po | 
+ | [es](/f9/language/es) | 817 | 817 | 100.0 | /mnt/stockage/packages/f9/pitivi/po/es.po | 
+ | [fi](/f9/language/fi) | 817 | 817 | 100.0 | /mnt/stockage/packages/f9/pitivi/po/fi.po | 
+ | [fr](/f9/language/fr) | 775 | 775 | 100.0 | /mnt/stockage/packages/f9/pitivi/po/fr.po | 
+ | [lv](/f9/language/lv) | 721 | 721 | 100.0 | /mnt/stockage/packages/f9/pitivi/po/lv.po | 
+ | [sv](/f9/language/sv) | 817 | 817 | 100.0 | /mnt/stockage/packages/f9/pitivi/po/sv.po | 
+ | [en_GB](/f9/language/en_GB) | 707 | 721 | 98.1 | /mnt/stockage/packages/f9/pitivi/po/en_GB.po | 
+ | [it](/f9/language/it) | 416 | 721 | 57.7 | /mnt/stockage/packages/f9/pitivi/po/it.po | 
+ | [pt_BR](/f9/language/pt_BR) | 413 | 721 | 57.3 | /mnt/stockage/packages/f9/pitivi/po/pt_BR.po | 
+ | [pa](/f9/language/pa) | 302 | 721 | 41.9 | /mnt/stockage/packages/f9/pitivi/po/pa.po | 
+ | [de](/f9/language/de) | 291 | 721 | 40.4 | /mnt/stockage/packages/f9/pitivi/po/de.po | 
+ | [el](/f9/language/el) | 82 | 721 | 11.4 | /mnt/stockage/packages/f9/pitivi/po/el.po | 
+ | [zh_Hans](/f9/language/zh_Hans) | 81 | 721 | 11.2 | /mnt/stockage/packages/f9/pitivi/po/zh_CN.po | 
+ | [oc](/f9/language/oc) | 35 | 721 | 4.9 | /mnt/stockage/packages/f9/pitivi/po/oc.po | 
+ | [ar](/f9/language/ar) | 26 | 721 | 3.6 | /mnt/stockage/packages/f9/pitivi/po/ar.po | 
 {.sortable}
 
 

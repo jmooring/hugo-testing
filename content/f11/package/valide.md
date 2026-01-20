@@ -18,9 +18,9 @@ The package valide (version 0.5.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [es]({{< ref "/f11/language/es.md" >}}) | 771 | 771 | 100.0 | /mnt/stockage/packages/f11/valide/po/es.po | 
- | [fr]({{< ref "/f11/language/fr.md" >}}) | 771 | 771 | 100.0 | /mnt/stockage/packages/f11/valide/po/fr.po | 
- | [error]({{< ref "/f11/language/error.md" >}}) | 0 | 608 | 0.0 | /mnt/stockage/packages/f11/valide/po/messages.po | 
+ | [es](/f11/language/es) | 771 | 771 | 100.0 | /mnt/stockage/packages/f11/valide/po/es.po | 
+ | [fr](/f11/language/fr) | 771 | 771 | 100.0 | /mnt/stockage/packages/f11/valide/po/fr.po | 
+ | [error](/f11/language/error) | 0 | 608 | 0.0 | /mnt/stockage/packages/f11/valide/po/messages.po | 
 {.sortable}
 
 

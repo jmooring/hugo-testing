@@ -18,36 +18,36 @@ The package warzone2100 (version 3.1.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [it]({{< ref "/f21/language/it.md" >}}) | 13156 | 13237 | 99.4 | /mnt/stockage/packages/f21/warzone2100/po/it.po | 
- | [pt]({{< ref "/f21/language/pt.md" >}}) | 13156 | 13237 | 99.4 | /mnt/stockage/packages/f21/warzone2100/po/pt_BR.po | 
- | [hu]({{< ref "/f21/language/hu.md" >}}) | 13148 | 13237 | 99.3 | /mnt/stockage/packages/f21/warzone2100/po/hu.po | 
- | [es]({{< ref "/f21/language/es.md" >}}) | 13100 | 13237 | 99.0 | /mnt/stockage/packages/f21/warzone2100/po/es.po | 
- | [tr]({{< ref "/f21/language/tr.md" >}}) | 13100 | 13237 | 99.0 | /mnt/stockage/packages/f21/warzone2100/po/tr.po | 
- | [fr]({{< ref "/f21/language/fr.md" >}}) | 13056 | 13237 | 98.6 | /mnt/stockage/packages/f21/warzone2100/po/fr.po | 
- | [pl]({{< ref "/f21/language/pl.md" >}}) | 12962 | 13237 | 97.9 | /mnt/stockage/packages/f21/warzone2100/po/pl.po | 
- | [pt_PT]({{< ref "/f21/language/pt_PT.md" >}}) | 12942 | 13237 | 97.8 | /mnt/stockage/packages/f21/warzone2100/po/pt.po | 
- | [ca]({{< ref "/f21/language/ca.md" >}}) | 12939 | 13237 | 97.7 | /mnt/stockage/packages/f21/warzone2100/po/ca_ES.po | 
- | [ru]({{< ref "/f21/language/ru.md" >}}) | 12910 | 13237 | 97.5 | /mnt/stockage/packages/f21/warzone2100/po/ru.po | 
- | [de]({{< ref "/f21/language/de.md" >}}) | 12908 | 13237 | 97.5 | /mnt/stockage/packages/f21/warzone2100/po/de.po | 
- | [nl]({{< ref "/f21/language/nl.md" >}}) | 12870 | 13237 | 97.2 | /mnt/stockage/packages/f21/warzone2100/po/nl.po | 
- | [zh_Hans]({{< ref "/f21/language/zh_Hans.md" >}}) | 12557 | 13237 | 94.9 | /mnt/stockage/packages/f21/warzone2100/po/zh_CN.po | 
- | [ko]({{< ref "/f21/language/ko.md" >}}) | 12408 | 13237 | 93.7 | /mnt/stockage/packages/f21/warzone2100/po/ko.po | 
- | [el]({{< ref "/f21/language/el.md" >}}) | 12389 | 13237 | 93.6 | /mnt/stockage/packages/f21/warzone2100/po/el.po | 
- | [et]({{< ref "/f21/language/et.md" >}}) | 10480 | 13237 | 79.2 | /mnt/stockage/packages/f21/warzone2100/po/et_EE.po | 
- | [uk]({{< ref "/f21/language/uk.md" >}}) | 9727 | 13237 | 73.5 | /mnt/stockage/packages/f21/warzone2100/po/uk_UA.po | 
- | [ro]({{< ref "/f21/language/ro.md" >}}) | 9407 | 13237 | 71.1 | /mnt/stockage/packages/f21/warzone2100/po/ro.po | 
- | [sl]({{< ref "/f21/language/sl.md" >}}) | 9091 | 13237 | 68.7 | /mnt/stockage/packages/f21/warzone2100/po/sl.po | 
- | [zh_Hant]({{< ref "/f21/language/zh_Hant.md" >}}) | 8774 | 13237 | 66.3 | /mnt/stockage/packages/f21/warzone2100/po/zh_TW.po | 
- | [en_GB]({{< ref "/f21/language/en_GB.md" >}}) | 8201 | 13237 | 62.0 | /mnt/stockage/packages/f21/warzone2100/po/en_GB.po | 
- | [hr]({{< ref "/f21/language/hr.md" >}}) | 5416 | 13237 | 40.9 | /mnt/stockage/packages/f21/warzone2100/po/hr.po | 
- | [da]({{< ref "/f21/language/da.md" >}}) | 2443 | 13237 | 18.5 | /mnt/stockage/packages/f21/warzone2100/po/da.po | 
- | [cs]({{< ref "/f21/language/cs.md" >}}) | 2626 | 26474 | 9.9 | /mnt/stockage/packages/f21/warzone2100/po/cs.po/mnt/stockage/packages/f21/warzone2100/po/sk.po | 
- | [fy]({{< ref "/f21/language/fy.md" >}}) | 504 | 13237 | 3.8 | /mnt/stockage/packages/f21/warzone2100/po/fy.po | 
- | [nb_NO]({{< ref "/f21/language/nb_NO.md" >}}) | 348 | 13237 | 2.6 | /mnt/stockage/packages/f21/warzone2100/po/nb.po | 
- | [lt]({{< ref "/f21/language/lt.md" >}}) | 176 | 13237 | 1.3 | /mnt/stockage/packages/f21/warzone2100/po/lt.po | 
- | [fi]({{< ref "/f21/language/fi.md" >}}) | 141 | 13237 | 1.1 | /mnt/stockage/packages/f21/warzone2100/po/fi.po | 
- | [ga]({{< ref "/f21/language/ga.md" >}}) | 92 | 13237 | 0.7 | /mnt/stockage/packages/f21/warzone2100/po/ga.po | 
- | [la]({{< ref "/f21/language/la.md" >}}) | 9 | 13237 | 0.1 | /mnt/stockage/packages/f21/warzone2100/po/la.po | 
+ | [it](/f21/language/it) | 13156 | 13237 | 99.4 | /mnt/stockage/packages/f21/warzone2100/po/it.po | 
+ | [pt](/f21/language/pt) | 13156 | 13237 | 99.4 | /mnt/stockage/packages/f21/warzone2100/po/pt_BR.po | 
+ | [hu](/f21/language/hu) | 13148 | 13237 | 99.3 | /mnt/stockage/packages/f21/warzone2100/po/hu.po | 
+ | [es](/f21/language/es) | 13100 | 13237 | 99.0 | /mnt/stockage/packages/f21/warzone2100/po/es.po | 
+ | [tr](/f21/language/tr) | 13100 | 13237 | 99.0 | /mnt/stockage/packages/f21/warzone2100/po/tr.po | 
+ | [fr](/f21/language/fr) | 13056 | 13237 | 98.6 | /mnt/stockage/packages/f21/warzone2100/po/fr.po | 
+ | [pl](/f21/language/pl) | 12962 | 13237 | 97.9 | /mnt/stockage/packages/f21/warzone2100/po/pl.po | 
+ | [pt_PT](/f21/language/pt_PT) | 12942 | 13237 | 97.8 | /mnt/stockage/packages/f21/warzone2100/po/pt.po | 
+ | [ca](/f21/language/ca) | 12939 | 13237 | 97.7 | /mnt/stockage/packages/f21/warzone2100/po/ca_ES.po | 
+ | [ru](/f21/language/ru) | 12910 | 13237 | 97.5 | /mnt/stockage/packages/f21/warzone2100/po/ru.po | 
+ | [de](/f21/language/de) | 12908 | 13237 | 97.5 | /mnt/stockage/packages/f21/warzone2100/po/de.po | 
+ | [nl](/f21/language/nl) | 12870 | 13237 | 97.2 | /mnt/stockage/packages/f21/warzone2100/po/nl.po | 
+ | [zh_Hans](/f21/language/zh_Hans) | 12557 | 13237 | 94.9 | /mnt/stockage/packages/f21/warzone2100/po/zh_CN.po | 
+ | [ko](/f21/language/ko) | 12408 | 13237 | 93.7 | /mnt/stockage/packages/f21/warzone2100/po/ko.po | 
+ | [el](/f21/language/el) | 12389 | 13237 | 93.6 | /mnt/stockage/packages/f21/warzone2100/po/el.po | 
+ | [et](/f21/language/et) | 10480 | 13237 | 79.2 | /mnt/stockage/packages/f21/warzone2100/po/et_EE.po | 
+ | [uk](/f21/language/uk) | 9727 | 13237 | 73.5 | /mnt/stockage/packages/f21/warzone2100/po/uk_UA.po | 
+ | [ro](/f21/language/ro) | 9407 | 13237 | 71.1 | /mnt/stockage/packages/f21/warzone2100/po/ro.po | 
+ | [sl](/f21/language/sl) | 9091 | 13237 | 68.7 | /mnt/stockage/packages/f21/warzone2100/po/sl.po | 
+ | [zh_Hant](/f21/language/zh_Hant) | 8774 | 13237 | 66.3 | /mnt/stockage/packages/f21/warzone2100/po/zh_TW.po | 
+ | [en_GB](/f21/language/en_GB) | 8201 | 13237 | 62.0 | /mnt/stockage/packages/f21/warzone2100/po/en_GB.po | 
+ | [hr](/f21/language/hr) | 5416 | 13237 | 40.9 | /mnt/stockage/packages/f21/warzone2100/po/hr.po | 
+ | [da](/f21/language/da) | 2443 | 13237 | 18.5 | /mnt/stockage/packages/f21/warzone2100/po/da.po | 
+ | [cs](/f21/language/cs) | 2626 | 26474 | 9.9 | /mnt/stockage/packages/f21/warzone2100/po/cs.po/mnt/stockage/packages/f21/warzone2100/po/sk.po | 
+ | [fy](/f21/language/fy) | 504 | 13237 | 3.8 | /mnt/stockage/packages/f21/warzone2100/po/fy.po | 
+ | [nb_NO](/f21/language/nb_NO) | 348 | 13237 | 2.6 | /mnt/stockage/packages/f21/warzone2100/po/nb.po | 
+ | [lt](/f21/language/lt) | 176 | 13237 | 1.3 | /mnt/stockage/packages/f21/warzone2100/po/lt.po | 
+ | [fi](/f21/language/fi) | 141 | 13237 | 1.1 | /mnt/stockage/packages/f21/warzone2100/po/fi.po | 
+ | [ga](/f21/language/ga) | 92 | 13237 | 0.7 | /mnt/stockage/packages/f21/warzone2100/po/ga.po | 
+ | [la](/f21/language/la) | 9 | 13237 | 0.1 | /mnt/stockage/packages/f21/warzone2100/po/la.po | 
 {.sortable}
 
 

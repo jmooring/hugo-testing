@@ -18,15 +18,15 @@ The package lxpolkit (version 0.1.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f14/language/de.md" >}}) | 15 | 15 | 100.0 | /mnt/stockage/packages/f14/lxpolkit/po/de.po | 
- | [en_GB]({{< ref "/f14/language/en_GB.md" >}}) | 15 | 15 | 100.0 | /mnt/stockage/packages/f14/lxpolkit/po/en_GB.po | 
- | [es]({{< ref "/f14/language/es.md" >}}) | 15 | 15 | 100.0 | /mnt/stockage/packages/f14/lxpolkit/po/es.po | 
- | [he]({{< ref "/f14/language/he.md" >}}) | 15 | 15 | 100.0 | /mnt/stockage/packages/f14/lxpolkit/po/he.po | 
- | [it]({{< ref "/f14/language/it.md" >}}) | 15 | 15 | 100.0 | /mnt/stockage/packages/f14/lxpolkit/po/it.po | 
- | [pl]({{< ref "/f14/language/pl.md" >}}) | 15 | 15 | 100.0 | /mnt/stockage/packages/f14/lxpolkit/po/pl.po | 
- | [pt]({{< ref "/f14/language/pt.md" >}}) | 15 | 15 | 100.0 | /mnt/stockage/packages/f14/lxpolkit/po/pt.po | 
- | [pt_BR]({{< ref "/f14/language/pt_BR.md" >}}) | 15 | 15 | 100.0 | /mnt/stockage/packages/f14/lxpolkit/po/pt_BR.po | 
- | [zh_Hant]({{< ref "/f14/language/zh_Hant.md" >}}) | 15 | 15 | 100.0 | /mnt/stockage/packages/f14/lxpolkit/po/zh_TW.po | 
+ | [de](/f14/language/de) | 15 | 15 | 100.0 | /mnt/stockage/packages/f14/lxpolkit/po/de.po | 
+ | [en_GB](/f14/language/en_GB) | 15 | 15 | 100.0 | /mnt/stockage/packages/f14/lxpolkit/po/en_GB.po | 
+ | [es](/f14/language/es) | 15 | 15 | 100.0 | /mnt/stockage/packages/f14/lxpolkit/po/es.po | 
+ | [he](/f14/language/he) | 15 | 15 | 100.0 | /mnt/stockage/packages/f14/lxpolkit/po/he.po | 
+ | [it](/f14/language/it) | 15 | 15 | 100.0 | /mnt/stockage/packages/f14/lxpolkit/po/it.po | 
+ | [pl](/f14/language/pl) | 15 | 15 | 100.0 | /mnt/stockage/packages/f14/lxpolkit/po/pl.po | 
+ | [pt](/f14/language/pt) | 15 | 15 | 100.0 | /mnt/stockage/packages/f14/lxpolkit/po/pt.po | 
+ | [pt_BR](/f14/language/pt_BR) | 15 | 15 | 100.0 | /mnt/stockage/packages/f14/lxpolkit/po/pt_BR.po | 
+ | [zh_Hant](/f14/language/zh_Hant) | 15 | 15 | 100.0 | /mnt/stockage/packages/f14/lxpolkit/po/zh_TW.po | 
 {.sortable}
 
 

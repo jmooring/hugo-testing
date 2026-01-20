@@ -18,10 +18,10 @@ The package srain (version 1.2.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [uk]({{< ref "/f32/language/uk.md" >}}) | 1077 | 1077 | 100.0 | /mnt/stockage/packages/f32/srain/po/uk.po | 
- | [nl]({{< ref "/f32/language/nl.md" >}}) | 1070 | 1077 | 99.4 | /mnt/stockage/packages/f32/srain/po/nl.po | 
- | [zh_Hans]({{< ref "/f32/language/zh_Hans.md" >}}) | 938 | 1077 | 87.1 | /mnt/stockage/packages/f32/srain/po/zh_CN.po | 
- | [ru]({{< ref "/f32/language/ru.md" >}}) | 656 | 1077 | 60.9 | /mnt/stockage/packages/f32/srain/po/ru.po | 
+ | [uk](/f32/language/uk) | 1077 | 1077 | 100.0 | /mnt/stockage/packages/f32/srain/po/uk.po | 
+ | [nl](/f32/language/nl) | 1070 | 1077 | 99.4 | /mnt/stockage/packages/f32/srain/po/nl.po | 
+ | [zh_Hans](/f32/language/zh_Hans) | 938 | 1077 | 87.1 | /mnt/stockage/packages/f32/srain/po/zh_CN.po | 
+ | [ru](/f32/language/ru) | 656 | 1077 | 60.9 | /mnt/stockage/packages/f32/srain/po/ru.po | 
 {.sortable}
 
 

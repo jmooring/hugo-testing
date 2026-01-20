@@ -18,33 +18,33 @@ The package maui-mauikit-station (version 4.0.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f42/language/ca.md" >}}) | 326 | 326 | 100.0 | /mnt/stockage/packages/f42/maui-mauikit-station/po/ca/station.po | 
- | [ca@valencia]({{< ref "/f42/language/ca@valencia.md" >}}) | 326 | 326 | 100.0 | /mnt/stockage/packages/f42/maui-mauikit-station/po/ca@valencia/station.po | 
- | [en_GB]({{< ref "/f42/language/en_GB.md" >}}) | 326 | 326 | 100.0 | /mnt/stockage/packages/f42/maui-mauikit-station/po/en_GB/station.po | 
- | [eo]({{< ref "/f42/language/eo.md" >}}) | 326 | 326 | 100.0 | /mnt/stockage/packages/f42/maui-mauikit-station/po/eo/station.po | 
- | [es]({{< ref "/f42/language/es.md" >}}) | 326 | 326 | 100.0 | /mnt/stockage/packages/f42/maui-mauikit-station/po/es/station.po | 
- | [eu]({{< ref "/f42/language/eu.md" >}}) | 326 | 326 | 100.0 | /mnt/stockage/packages/f42/maui-mauikit-station/po/eu/station.po | 
- | [fi]({{< ref "/f42/language/fi.md" >}}) | 326 | 326 | 100.0 | /mnt/stockage/packages/f42/maui-mauikit-station/po/fi/station.po | 
- | [fr]({{< ref "/f42/language/fr.md" >}}) | 326 | 326 | 100.0 | /mnt/stockage/packages/f42/maui-mauikit-station/po/fr/station.po | 
- | [gl]({{< ref "/f42/language/gl.md" >}}) | 326 | 326 | 100.0 | /mnt/stockage/packages/f42/maui-mauikit-station/po/gl/station.po | 
- | [it]({{< ref "/f42/language/it.md" >}}) | 326 | 326 | 100.0 | /mnt/stockage/packages/f42/maui-mauikit-station/po/it/station.po | 
- | [ka]({{< ref "/f42/language/ka.md" >}}) | 326 | 326 | 100.0 | /mnt/stockage/packages/f42/maui-mauikit-station/po/ka/station.po | 
- | [ko]({{< ref "/f42/language/ko.md" >}}) | 326 | 326 | 100.0 | /mnt/stockage/packages/f42/maui-mauikit-station/po/ko/station.po | 
- | [nl]({{< ref "/f42/language/nl.md" >}}) | 326 | 326 | 100.0 | /mnt/stockage/packages/f42/maui-mauikit-station/po/nl/station.po | 
- | [pl]({{< ref "/f42/language/pl.md" >}}) | 326 | 326 | 100.0 | /mnt/stockage/packages/f42/maui-mauikit-station/po/pl/station.po | 
- | [pt_BR]({{< ref "/f42/language/pt_BR.md" >}}) | 326 | 326 | 100.0 | /mnt/stockage/packages/f42/maui-mauikit-station/po/pt_BR/station.po | 
- | [sl]({{< ref "/f42/language/sl.md" >}}) | 326 | 326 | 100.0 | /mnt/stockage/packages/f42/maui-mauikit-station/po/sl/station.po | 
- | [sv]({{< ref "/f42/language/sv.md" >}}) | 326 | 326 | 100.0 | /mnt/stockage/packages/f42/maui-mauikit-station/po/sv/station.po | 
- | [tr]({{< ref "/f42/language/tr.md" >}}) | 326 | 326 | 100.0 | /mnt/stockage/packages/f42/maui-mauikit-station/po/tr/station.po | 
- | [uk]({{< ref "/f42/language/uk.md" >}}) | 326 | 326 | 100.0 | /mnt/stockage/packages/f42/maui-mauikit-station/po/uk/station.po | 
- | [zh_Hant]({{< ref "/f42/language/zh_Hant.md" >}}) | 326 | 326 | 100.0 | /mnt/stockage/packages/f42/maui-mauikit-station/po/zh_TW/station.po | 
- | [pt]({{< ref "/f42/language/pt.md" >}}) | 272 | 326 | 83.4 | /mnt/stockage/packages/f42/maui-mauikit-station/po/pt/station.po | 
- | [cs]({{< ref "/f42/language/cs.md" >}}) | 159 | 326 | 48.8 | /mnt/stockage/packages/f42/maui-mauikit-station/po/cs/station.po | 
- | [de]({{< ref "/f42/language/de.md" >}}) | 63 | 326 | 19.3 | /mnt/stockage/packages/f42/maui-mauikit-station/po/de/station.po | 
- | [sk]({{< ref "/f42/language/sk.md" >}}) | 41 | 326 | 12.6 | /mnt/stockage/packages/f42/maui-mauikit-station/po/sk/station.po | 
- | [ja]({{< ref "/f42/language/ja.md" >}}) | 0 | 326 | 0.0 | /mnt/stockage/packages/f42/maui-mauikit-station/po/ja/station.po | 
- | [lt]({{< ref "/f42/language/lt.md" >}}) | 0 | 326 | 0.0 | /mnt/stockage/packages/f42/maui-mauikit-station/po/lt/station.po | 
- | [zh_Hans]({{< ref "/f42/language/zh_Hans.md" >}}) | 0 | 326 | 0.0 | /mnt/stockage/packages/f42/maui-mauikit-station/po/zh_CN/station.po | 
+ | [ca](/f42/language/ca) | 326 | 326 | 100.0 | /mnt/stockage/packages/f42/maui-mauikit-station/po/ca/station.po | 
+ | [ca@valencia](/f42/language/ca@valencia) | 326 | 326 | 100.0 | /mnt/stockage/packages/f42/maui-mauikit-station/po/ca@valencia/station.po | 
+ | [en_GB](/f42/language/en_GB) | 326 | 326 | 100.0 | /mnt/stockage/packages/f42/maui-mauikit-station/po/en_GB/station.po | 
+ | [eo](/f42/language/eo) | 326 | 326 | 100.0 | /mnt/stockage/packages/f42/maui-mauikit-station/po/eo/station.po | 
+ | [es](/f42/language/es) | 326 | 326 | 100.0 | /mnt/stockage/packages/f42/maui-mauikit-station/po/es/station.po | 
+ | [eu](/f42/language/eu) | 326 | 326 | 100.0 | /mnt/stockage/packages/f42/maui-mauikit-station/po/eu/station.po | 
+ | [fi](/f42/language/fi) | 326 | 326 | 100.0 | /mnt/stockage/packages/f42/maui-mauikit-station/po/fi/station.po | 
+ | [fr](/f42/language/fr) | 326 | 326 | 100.0 | /mnt/stockage/packages/f42/maui-mauikit-station/po/fr/station.po | 
+ | [gl](/f42/language/gl) | 326 | 326 | 100.0 | /mnt/stockage/packages/f42/maui-mauikit-station/po/gl/station.po | 
+ | [it](/f42/language/it) | 326 | 326 | 100.0 | /mnt/stockage/packages/f42/maui-mauikit-station/po/it/station.po | 
+ | [ka](/f42/language/ka) | 326 | 326 | 100.0 | /mnt/stockage/packages/f42/maui-mauikit-station/po/ka/station.po | 
+ | [ko](/f42/language/ko) | 326 | 326 | 100.0 | /mnt/stockage/packages/f42/maui-mauikit-station/po/ko/station.po | 
+ | [nl](/f42/language/nl) | 326 | 326 | 100.0 | /mnt/stockage/packages/f42/maui-mauikit-station/po/nl/station.po | 
+ | [pl](/f42/language/pl) | 326 | 326 | 100.0 | /mnt/stockage/packages/f42/maui-mauikit-station/po/pl/station.po | 
+ | [pt_BR](/f42/language/pt_BR) | 326 | 326 | 100.0 | /mnt/stockage/packages/f42/maui-mauikit-station/po/pt_BR/station.po | 
+ | [sl](/f42/language/sl) | 326 | 326 | 100.0 | /mnt/stockage/packages/f42/maui-mauikit-station/po/sl/station.po | 
+ | [sv](/f42/language/sv) | 326 | 326 | 100.0 | /mnt/stockage/packages/f42/maui-mauikit-station/po/sv/station.po | 
+ | [tr](/f42/language/tr) | 326 | 326 | 100.0 | /mnt/stockage/packages/f42/maui-mauikit-station/po/tr/station.po | 
+ | [uk](/f42/language/uk) | 326 | 326 | 100.0 | /mnt/stockage/packages/f42/maui-mauikit-station/po/uk/station.po | 
+ | [zh_Hant](/f42/language/zh_Hant) | 326 | 326 | 100.0 | /mnt/stockage/packages/f42/maui-mauikit-station/po/zh_TW/station.po | 
+ | [pt](/f42/language/pt) | 272 | 326 | 83.4 | /mnt/stockage/packages/f42/maui-mauikit-station/po/pt/station.po | 
+ | [cs](/f42/language/cs) | 159 | 326 | 48.8 | /mnt/stockage/packages/f42/maui-mauikit-station/po/cs/station.po | 
+ | [de](/f42/language/de) | 63 | 326 | 19.3 | /mnt/stockage/packages/f42/maui-mauikit-station/po/de/station.po | 
+ | [sk](/f42/language/sk) | 41 | 326 | 12.6 | /mnt/stockage/packages/f42/maui-mauikit-station/po/sk/station.po | 
+ | [ja](/f42/language/ja) | 0 | 326 | 0.0 | /mnt/stockage/packages/f42/maui-mauikit-station/po/ja/station.po | 
+ | [lt](/f42/language/lt) | 0 | 326 | 0.0 | /mnt/stockage/packages/f42/maui-mauikit-station/po/lt/station.po | 
+ | [zh_Hans](/f42/language/zh_Hans) | 0 | 326 | 0.0 | /mnt/stockage/packages/f42/maui-mauikit-station/po/zh_CN/station.po | 
 {.sortable}
 
 

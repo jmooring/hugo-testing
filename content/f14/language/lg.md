@@ -38,14 +38,14 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [libfm]({{< ref "/f14/package/libfm.md" >}}) | 659 | 659 | 100.0 | lg <kbirabwa@yahoo.co.uk> | 
- | [lxappearance-obconf]({{< ref "/f14/package/lxappearance-obconf.md" >}}) | 191 | 191 | 100.0 | LANGUAGE <LL@li.org> | 
- | [virtaal]({{< ref "/f14/package/virtaal.md" >}}) | 1389 | 1389 | 100.0 | LANGUAGE <LL@li.org> | 
- | [pcmanfm]({{< ref "/f14/package/pcmanfm.md" >}}) | 520 | 538 | 96.7 | lg <kbirabwa@yahoo.co.uk> | 
- | [coreutils]({{< ref "/f14/package/coreutils.md" >}}) | 17854 | 18613 | 95.9 | Luganda <kbirabwa@yahoo.co.uk> | 
- | [pootle]({{< ref "/f14/package/pootle.md" >}}) | 6476 | 6817 | 95.0 | LANGUAGE <LL@li.org> | 
- | [findutils]({{< ref "/f14/package/findutils.md" >}}) | 113 | 2109 | 5.4 | Luganda <kompyuta@kizito.freeuk.com> | 
- | [vidalia]({{< ref "/f14/package/vidalia.md" >}}) | 0 | 9310 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [libfm](/f14/package/libfm) | 659 | 659 | 100.0 | lg <kbirabwa@yahoo.co.uk> | 
+ | [lxappearance-obconf](/f14/package/lxappearance-obconf) | 191 | 191 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [virtaal](/f14/package/virtaal) | 1389 | 1389 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [pcmanfm](/f14/package/pcmanfm) | 520 | 538 | 96.7 | lg <kbirabwa@yahoo.co.uk> | 
+ | [coreutils](/f14/package/coreutils) | 17854 | 18613 | 95.9 | Luganda <kbirabwa@yahoo.co.uk> | 
+ | [pootle](/f14/package/pootle) | 6476 | 6817 | 95.0 | LANGUAGE <LL@li.org> | 
+ | [findutils](/f14/package/findutils) | 113 | 2109 | 5.4 | Luganda <kompyuta@kizito.freeuk.com> | 
+ | [vidalia](/f14/package/vidalia) | 0 | 9310 | 0.0 | LANGUAGE <LL@li.org> | 
 {.sortable}
 
 

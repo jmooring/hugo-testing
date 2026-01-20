@@ -18,25 +18,25 @@ The package python-flask-security-too (version 5.6.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [es]({{< ref "/f43/language/es.md" >}}) | 1351 | 1401 | 96.4 | /mnt/stockage/packages/f43/python-flask-security-too/flask_security/translations/es_ES/LC_MESSAGES/flask_security.po | 
- | [it]({{< ref "/f43/language/it.md" >}}) | 1351 | 1401 | 96.4 | /mnt/stockage/packages/f43/python-flask-security-too/flask_security/translations/it_IT/LC_MESSAGES/flask_security.po | 
- | [ru]({{< ref "/f43/language/ru.md" >}}) | 1145 | 1401 | 81.7 | /mnt/stockage/packages/f43/python-flask-security-too/flask_security/translations/ru_RU/LC_MESSAGES/flask_security.po | 
- | [de]({{< ref "/f43/language/de.md" >}}) | 1019 | 1401 | 72.7 | /mnt/stockage/packages/f43/python-flask-security-too/flask_security/translations/de_DE/LC_MESSAGES/flask_security.po | 
- | [hy]({{< ref "/f43/language/hy.md" >}}) | 991 | 1401 | 70.7 | /mnt/stockage/packages/f43/python-flask-security-too/flask_security/translations/hy_AM/LC_MESSAGES/flask_security.po | 
- | [hu]({{< ref "/f43/language/hu.md" >}}) | 922 | 1401 | 65.8 | /mnt/stockage/packages/f43/python-flask-security-too/flask_security/translations/hu_HU/LC_MESSAGES/flask_security.po | 
- | [eu]({{< ref "/f43/language/eu.md" >}}) | 543 | 1401 | 38.8 | /mnt/stockage/packages/f43/python-flask-security-too/flask_security/translations/eu_ES/LC_MESSAGES/flask_security.po | 
- | [fr]({{< ref "/f43/language/fr.md" >}}) | 519 | 1403 | 37.0 | /mnt/stockage/packages/f43/python-flask-security-too/flask_security/translations/fr_FR/LC_MESSAGES/flask_security.po/mnt/stockage/packages/f43/python-flask-security-too/tests/translations/fr_FR/LC_MESSAGES/flask_security.po | 
- | [pl]({{< ref "/f43/language/pl.md" >}}) | 487 | 1401 | 34.8 | /mnt/stockage/packages/f43/python-flask-security-too/flask_security/translations/pl_PL/LC_MESSAGES/flask_security.po | 
- | [zh_Hans]({{< ref "/f43/language/zh_Hans.md" >}}) | 468 | 1401 | 33.4 | /mnt/stockage/packages/f43/python-flask-security-too/flask_security/translations/zh_Hans_CN/LC_MESSAGES/flask_security.po | 
- | [af]({{< ref "/f43/language/af.md" >}}) | 453 | 1401 | 32.3 | /mnt/stockage/packages/f43/python-flask-security-too/flask_security/translations/af_ZA/LC_MESSAGES/flask_security.po | 
- | [nl]({{< ref "/f43/language/nl.md" >}}) | 302 | 1401 | 21.6 | /mnt/stockage/packages/f43/python-flask-security-too/flask_security/translations/nl_NL/LC_MESSAGES/flask_security.po | 
- | [is]({{< ref "/f43/language/is.md" >}}) | 294 | 1401 | 21.0 | /mnt/stockage/packages/f43/python-flask-security-too/flask_security/translations/is_IS/LC_MESSAGES/flask_security.po | 
- | [ca]({{< ref "/f43/language/ca.md" >}}) | 258 | 1401 | 18.4 | /mnt/stockage/packages/f43/python-flask-security-too/flask_security/translations/ca_ES/LC_MESSAGES/flask_security.po | 
- | [da]({{< ref "/f43/language/da.md" >}}) | 258 | 1401 | 18.4 | /mnt/stockage/packages/f43/python-flask-security-too/flask_security/translations/da_DK/LC_MESSAGES/flask_security.po | 
- | [ja]({{< ref "/f43/language/ja.md" >}}) | 258 | 1401 | 18.4 | /mnt/stockage/packages/f43/python-flask-security-too/flask_security/translations/ja_JP/LC_MESSAGES/flask_security.po | 
- | [pt_BR]({{< ref "/f43/language/pt_BR.md" >}}) | 258 | 1401 | 18.4 | /mnt/stockage/packages/f43/python-flask-security-too/flask_security/translations/pt_BR/LC_MESSAGES/flask_security.po | 
- | [pt_PT]({{< ref "/f43/language/pt_PT.md" >}}) | 258 | 1401 | 18.4 | /mnt/stockage/packages/f43/python-flask-security-too/flask_security/translations/pt_PT/LC_MESSAGES/flask_security.po | 
- | [tr]({{< ref "/f43/language/tr.md" >}}) | 258 | 1401 | 18.4 | /mnt/stockage/packages/f43/python-flask-security-too/flask_security/translations/tr_TR/LC_MESSAGES/flask_security.po | 
+ | [es](/f43/language/es) | 1351 | 1401 | 96.4 | /mnt/stockage/packages/f43/python-flask-security-too/flask_security/translations/es_ES/LC_MESSAGES/flask_security.po | 
+ | [it](/f43/language/it) | 1351 | 1401 | 96.4 | /mnt/stockage/packages/f43/python-flask-security-too/flask_security/translations/it_IT/LC_MESSAGES/flask_security.po | 
+ | [ru](/f43/language/ru) | 1145 | 1401 | 81.7 | /mnt/stockage/packages/f43/python-flask-security-too/flask_security/translations/ru_RU/LC_MESSAGES/flask_security.po | 
+ | [de](/f43/language/de) | 1019 | 1401 | 72.7 | /mnt/stockage/packages/f43/python-flask-security-too/flask_security/translations/de_DE/LC_MESSAGES/flask_security.po | 
+ | [hy](/f43/language/hy) | 991 | 1401 | 70.7 | /mnt/stockage/packages/f43/python-flask-security-too/flask_security/translations/hy_AM/LC_MESSAGES/flask_security.po | 
+ | [hu](/f43/language/hu) | 922 | 1401 | 65.8 | /mnt/stockage/packages/f43/python-flask-security-too/flask_security/translations/hu_HU/LC_MESSAGES/flask_security.po | 
+ | [eu](/f43/language/eu) | 543 | 1401 | 38.8 | /mnt/stockage/packages/f43/python-flask-security-too/flask_security/translations/eu_ES/LC_MESSAGES/flask_security.po | 
+ | [fr](/f43/language/fr) | 519 | 1403 | 37.0 | /mnt/stockage/packages/f43/python-flask-security-too/flask_security/translations/fr_FR/LC_MESSAGES/flask_security.po/mnt/stockage/packages/f43/python-flask-security-too/tests/translations/fr_FR/LC_MESSAGES/flask_security.po | 
+ | [pl](/f43/language/pl) | 487 | 1401 | 34.8 | /mnt/stockage/packages/f43/python-flask-security-too/flask_security/translations/pl_PL/LC_MESSAGES/flask_security.po | 
+ | [zh_Hans](/f43/language/zh_Hans) | 468 | 1401 | 33.4 | /mnt/stockage/packages/f43/python-flask-security-too/flask_security/translations/zh_Hans_CN/LC_MESSAGES/flask_security.po | 
+ | [af](/f43/language/af) | 453 | 1401 | 32.3 | /mnt/stockage/packages/f43/python-flask-security-too/flask_security/translations/af_ZA/LC_MESSAGES/flask_security.po | 
+ | [nl](/f43/language/nl) | 302 | 1401 | 21.6 | /mnt/stockage/packages/f43/python-flask-security-too/flask_security/translations/nl_NL/LC_MESSAGES/flask_security.po | 
+ | [is](/f43/language/is) | 294 | 1401 | 21.0 | /mnt/stockage/packages/f43/python-flask-security-too/flask_security/translations/is_IS/LC_MESSAGES/flask_security.po | 
+ | [ca](/f43/language/ca) | 258 | 1401 | 18.4 | /mnt/stockage/packages/f43/python-flask-security-too/flask_security/translations/ca_ES/LC_MESSAGES/flask_security.po | 
+ | [da](/f43/language/da) | 258 | 1401 | 18.4 | /mnt/stockage/packages/f43/python-flask-security-too/flask_security/translations/da_DK/LC_MESSAGES/flask_security.po | 
+ | [ja](/f43/language/ja) | 258 | 1401 | 18.4 | /mnt/stockage/packages/f43/python-flask-security-too/flask_security/translations/ja_JP/LC_MESSAGES/flask_security.po | 
+ | [pt_BR](/f43/language/pt_BR) | 258 | 1401 | 18.4 | /mnt/stockage/packages/f43/python-flask-security-too/flask_security/translations/pt_BR/LC_MESSAGES/flask_security.po | 
+ | [pt_PT](/f43/language/pt_PT) | 258 | 1401 | 18.4 | /mnt/stockage/packages/f43/python-flask-security-too/flask_security/translations/pt_PT/LC_MESSAGES/flask_security.po | 
+ | [tr](/f43/language/tr) | 258 | 1401 | 18.4 | /mnt/stockage/packages/f43/python-flask-security-too/flask_security/translations/tr_TR/LC_MESSAGES/flask_security.po | 
 {.sortable}
 
 

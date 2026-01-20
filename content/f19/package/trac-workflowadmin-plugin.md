@@ -18,7 +18,7 @@ The package trac-workflowadmin-plugin (version 0.12):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ja]({{< ref "/f19/language/ja.md" >}}) | 254 | 254 | 100.0 | /mnt/stockage/packages/f19/trac-workflowadmin-plugin/tracworkflowadmin/locale/ja/LC_MESSAGES/tracworkflowadmin-js.po/mnt/stockage/packages/f19/trac-workflowadmin-plugin/tracworkflowadmin/locale/ja/LC_MESSAGES/tracworkflowadmin.po | 
+ | [ja](/f19/language/ja) | 254 | 254 | 100.0 | /mnt/stockage/packages/f19/trac-workflowadmin-plugin/tracworkflowadmin/locale/ja/LC_MESSAGES/tracworkflowadmin-js.po/mnt/stockage/packages/f19/trac-workflowadmin-plugin/tracworkflowadmin/locale/ja/LC_MESSAGES/tracworkflowadmin.po | 
 {.sortable}
 
 

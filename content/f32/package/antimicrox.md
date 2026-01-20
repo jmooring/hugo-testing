@@ -18,7 +18,7 @@ The package antimicrox (version 3.1.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [en]({{< ref "/f32/language/en.md" >}}) | 0 | 108 | 0.0 | /mnt/stockage/packages/f32/antimicrox/other/appdata/PO_files/en.po | 
+ | [en](/f32/language/en) | 0 | 108 | 0.0 | /mnt/stockage/packages/f32/antimicrox/other/appdata/PO_files/en.po | 
 {.sortable}
 
 

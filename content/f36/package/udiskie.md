@@ -18,12 +18,12 @@ The package udiskie (version 2.4.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [en_US]({{< ref "/f36/language/en_US.md" >}}) | 613 | 613 | 100.0 | /mnt/stockage/packages/f36/udiskie/lang/en_US.po | 
- | [tr]({{< ref "/f36/language/tr.md" >}}) | 596 | 613 | 97.2 | /mnt/stockage/packages/f36/udiskie/lang/tr_TR.po | 
- | [it]({{< ref "/f36/language/it.md" >}}) | 571 | 613 | 93.1 | /mnt/stockage/packages/f36/udiskie/lang/it_IT.po | 
- | [ru]({{< ref "/f36/language/ru.md" >}}) | 468 | 613 | 76.3 | /mnt/stockage/packages/f36/udiskie/lang/ru_RU.po | 
- | [sk]({{< ref "/f36/language/sk.md" >}}) | 374 | 613 | 61.0 | /mnt/stockage/packages/f36/udiskie/lang/sk_SK.po | 
- | [es]({{< ref "/f36/language/es.md" >}}) | 224 | 613 | 36.5 | /mnt/stockage/packages/f36/udiskie/lang/es_ES.po | 
+ | [en_US](/f36/language/en_US) | 613 | 613 | 100.0 | /mnt/stockage/packages/f36/udiskie/lang/en_US.po | 
+ | [tr](/f36/language/tr) | 596 | 613 | 97.2 | /mnt/stockage/packages/f36/udiskie/lang/tr_TR.po | 
+ | [it](/f36/language/it) | 571 | 613 | 93.1 | /mnt/stockage/packages/f36/udiskie/lang/it_IT.po | 
+ | [ru](/f36/language/ru) | 468 | 613 | 76.3 | /mnt/stockage/packages/f36/udiskie/lang/ru_RU.po | 
+ | [sk](/f36/language/sk) | 374 | 613 | 61.0 | /mnt/stockage/packages/f36/udiskie/lang/sk_SK.po | 
+ | [es](/f36/language/es) | 224 | 613 | 36.5 | /mnt/stockage/packages/f36/udiskie/lang/es_ES.po | 
 {.sortable}
 
 

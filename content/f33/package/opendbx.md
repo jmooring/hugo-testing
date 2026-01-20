@@ -18,8 +18,8 @@ The package opendbx (version 1.4.6):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [error]({{< ref "/f33/language/error.md" >}}) | 184 | 184 | 100.0 | /mnt/stockage/packages/f33/opendbx/po/en@quot.po/mnt/stockage/packages/f33/opendbx/utils/po/en@quot.po | 
- | [de]({{< ref "/f33/language/de.md" >}}) | 171 | 184 | 92.9 | /mnt/stockage/packages/f33/opendbx/po/de.po/mnt/stockage/packages/f33/opendbx/utils/po/de.po | 
+ | [error](/f33/language/error) | 184 | 184 | 100.0 | /mnt/stockage/packages/f33/opendbx/po/en@quot.po/mnt/stockage/packages/f33/opendbx/utils/po/en@quot.po | 
+ | [de](/f33/language/de) | 171 | 184 | 92.9 | /mnt/stockage/packages/f33/opendbx/po/de.po/mnt/stockage/packages/f33/opendbx/utils/po/de.po | 
 {.sortable}
 
 

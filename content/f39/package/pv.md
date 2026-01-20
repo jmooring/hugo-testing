@@ -18,10 +18,10 @@ The package pv (version 1.7.24):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f39/language/fr.md" >}}) | 387 | 471 | 82.2 | /mnt/stockage/packages/f39/pv/src/nls/fr.po | 
- | [pt]({{< ref "/f39/language/pt.md" >}}) | 377 | 471 | 80.0 | /mnt/stockage/packages/f39/pv/src/nls/pt.po | 
- | [de]({{< ref "/f39/language/de.md" >}}) | 371 | 471 | 78.8 | /mnt/stockage/packages/f39/pv/src/nls/de.po | 
- | [pl]({{< ref "/f39/language/pl.md" >}}) | 185 | 471 | 39.3 | /mnt/stockage/packages/f39/pv/src/nls/pl.po | 
+ | [fr](/f39/language/fr) | 387 | 471 | 82.2 | /mnt/stockage/packages/f39/pv/src/nls/fr.po | 
+ | [pt](/f39/language/pt) | 377 | 471 | 80.0 | /mnt/stockage/packages/f39/pv/src/nls/pt.po | 
+ | [de](/f39/language/de) | 371 | 471 | 78.8 | /mnt/stockage/packages/f39/pv/src/nls/de.po | 
+ | [pl](/f39/language/pl) | 185 | 471 | 39.3 | /mnt/stockage/packages/f39/pv/src/nls/pl.po | 
 {.sortable}
 
 

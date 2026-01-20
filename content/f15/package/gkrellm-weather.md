@@ -18,7 +18,7 @@ The package gkrellm-weather (version 2.0.8):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ru]({{< ref "/f15/language/ru.md" >}}) | 99 | 100 | 99.0 | /mnt/stockage/packages/f15/gkrellm-weather/po/ru.po | 
+ | [ru](/f15/language/ru) | 99 | 100 | 99.0 | /mnt/stockage/packages/f15/gkrellm-weather/po/ru.po | 
 {.sortable}
 
 

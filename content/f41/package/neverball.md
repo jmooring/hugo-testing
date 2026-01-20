@@ -18,26 +18,26 @@ The package neverball (version 1.6.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f41/language/de.md" >}}) | 2735 | 2735 | 100.0 | /mnt/stockage/packages/f41/neverball/po/de.po | 
- | [gd]({{< ref "/f41/language/gd.md" >}}) | 2735 | 2735 | 100.0 | /mnt/stockage/packages/f41/neverball/po/gd.po | 
- | [it]({{< ref "/f41/language/it.md" >}}) | 2735 | 2735 | 100.0 | /mnt/stockage/packages/f41/neverball/po/it.po | 
- | [fr]({{< ref "/f41/language/fr.md" >}}) | 2728 | 2735 | 99.7 | /mnt/stockage/packages/f41/neverball/po/fr.po | 
- | [nn]({{< ref "/f41/language/nn.md" >}}) | 2584 | 2735 | 94.5 | /mnt/stockage/packages/f41/neverball/po/nn.po | 
- | [pl]({{< ref "/f41/language/pl.md" >}}) | 2341 | 2735 | 85.6 | /mnt/stockage/packages/f41/neverball/po/pl.po | 
- | [hu]({{< ref "/f41/language/hu.md" >}}) | 2304 | 2735 | 84.2 | /mnt/stockage/packages/f41/neverball/po/hu.po | 
- | [gl]({{< ref "/f41/language/gl.md" >}}) | 2300 | 2735 | 84.1 | /mnt/stockage/packages/f41/neverball/po/gl.po | 
- | [zh_Hant]({{< ref "/f41/language/zh_Hant.md" >}}) | 2294 | 2735 | 83.9 | /mnt/stockage/packages/f41/neverball/po/zh_TW.po | 
- | [pt_BR]({{< ref "/f41/language/pt_BR.md" >}}) | 2274 | 2735 | 83.1 | /mnt/stockage/packages/f41/neverball/po/pt_BR.po | 
- | [es]({{< ref "/f41/language/es.md" >}}) | 2264 | 2735 | 82.8 | /mnt/stockage/packages/f41/neverball/po/es.po | 
- | [ru]({{< ref "/f41/language/ru.md" >}}) | 1718 | 2735 | 62.8 | /mnt/stockage/packages/f41/neverball/po/ru.po | 
- | [eo]({{< ref "/f41/language/eo.md" >}}) | 1195 | 2735 | 43.7 | /mnt/stockage/packages/f41/neverball/po/eo.po | 
- | [sv]({{< ref "/f41/language/sv.md" >}}) | 1166 | 2735 | 42.6 | /mnt/stockage/packages/f41/neverball/po/sv.po | 
- | [fi]({{< ref "/f41/language/fi.md" >}}) | 540 | 2735 | 19.7 | /mnt/stockage/packages/f41/neverball/po/fi.po | 
- | [ca]({{< ref "/f41/language/ca.md" >}}) | 430 | 2735 | 15.7 | /mnt/stockage/packages/f41/neverball/po/ca.po | 
- | [zh_Hans]({{< ref "/f41/language/zh_Hans.md" >}}) | 365 | 2735 | 13.3 | /mnt/stockage/packages/f41/neverball/po/zh_CN.po | 
- | [lv]({{< ref "/f41/language/lv.md" >}}) | 261 | 2735 | 9.5 | /mnt/stockage/packages/f41/neverball/po/lv.po | 
- | [ko]({{< ref "/f41/language/ko.md" >}}) | 214 | 2735 | 7.8 | /mnt/stockage/packages/f41/neverball/po/ko.po | 
- | [el]({{< ref "/f41/language/el.md" >}}) | 73 | 2735 | 2.7 | /mnt/stockage/packages/f41/neverball/po/el.po | 
+ | [de](/f41/language/de) | 2735 | 2735 | 100.0 | /mnt/stockage/packages/f41/neverball/po/de.po | 
+ | [gd](/f41/language/gd) | 2735 | 2735 | 100.0 | /mnt/stockage/packages/f41/neverball/po/gd.po | 
+ | [it](/f41/language/it) | 2735 | 2735 | 100.0 | /mnt/stockage/packages/f41/neverball/po/it.po | 
+ | [fr](/f41/language/fr) | 2728 | 2735 | 99.7 | /mnt/stockage/packages/f41/neverball/po/fr.po | 
+ | [nn](/f41/language/nn) | 2584 | 2735 | 94.5 | /mnt/stockage/packages/f41/neverball/po/nn.po | 
+ | [pl](/f41/language/pl) | 2341 | 2735 | 85.6 | /mnt/stockage/packages/f41/neverball/po/pl.po | 
+ | [hu](/f41/language/hu) | 2304 | 2735 | 84.2 | /mnt/stockage/packages/f41/neverball/po/hu.po | 
+ | [gl](/f41/language/gl) | 2300 | 2735 | 84.1 | /mnt/stockage/packages/f41/neverball/po/gl.po | 
+ | [zh_Hant](/f41/language/zh_Hant) | 2294 | 2735 | 83.9 | /mnt/stockage/packages/f41/neverball/po/zh_TW.po | 
+ | [pt_BR](/f41/language/pt_BR) | 2274 | 2735 | 83.1 | /mnt/stockage/packages/f41/neverball/po/pt_BR.po | 
+ | [es](/f41/language/es) | 2264 | 2735 | 82.8 | /mnt/stockage/packages/f41/neverball/po/es.po | 
+ | [ru](/f41/language/ru) | 1718 | 2735 | 62.8 | /mnt/stockage/packages/f41/neverball/po/ru.po | 
+ | [eo](/f41/language/eo) | 1195 | 2735 | 43.7 | /mnt/stockage/packages/f41/neverball/po/eo.po | 
+ | [sv](/f41/language/sv) | 1166 | 2735 | 42.6 | /mnt/stockage/packages/f41/neverball/po/sv.po | 
+ | [fi](/f41/language/fi) | 540 | 2735 | 19.7 | /mnt/stockage/packages/f41/neverball/po/fi.po | 
+ | [ca](/f41/language/ca) | 430 | 2735 | 15.7 | /mnt/stockage/packages/f41/neverball/po/ca.po | 
+ | [zh_Hans](/f41/language/zh_Hans) | 365 | 2735 | 13.3 | /mnt/stockage/packages/f41/neverball/po/zh_CN.po | 
+ | [lv](/f41/language/lv) | 261 | 2735 | 9.5 | /mnt/stockage/packages/f41/neverball/po/lv.po | 
+ | [ko](/f41/language/ko) | 214 | 2735 | 7.8 | /mnt/stockage/packages/f41/neverball/po/ko.po | 
+ | [el](/f41/language/el) | 73 | 2735 | 2.7 | /mnt/stockage/packages/f41/neverball/po/el.po | 
 {.sortable}
 
 

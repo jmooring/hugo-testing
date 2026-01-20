@@ -18,20 +18,20 @@ The package cupsddk (version 1.2.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [da]({{< ref "/f9/language/da.md" >}}) | 248 | 248 | 100.0 | /mnt/stockage/packages/f9/cupsddk/po/da.po | 
- | [de]({{< ref "/f9/language/de.md" >}}) | 413 | 413 | 100.0 | /mnt/stockage/packages/f9/cupsddk/po/de.po | 
- | [es]({{< ref "/f9/language/es.md" >}}) | 417 | 417 | 100.0 | /mnt/stockage/packages/f9/cupsddk/po/es.po | 
- | [fi]({{< ref "/f9/language/fi.md" >}}) | 189 | 189 | 100.0 | /mnt/stockage/packages/f9/cupsddk/po/fi.po | 
- | [fr]({{< ref "/f9/language/fr.md" >}}) | 426 | 426 | 100.0 | /mnt/stockage/packages/f9/cupsddk/po/fr.po/mnt/stockage/packages/f9/cupsddk/ppdc/foo-fr.po | 
- | [it]({{< ref "/f9/language/it.md" >}}) | 417 | 417 | 100.0 | /mnt/stockage/packages/f9/cupsddk/po/it.po | 
- | [ja]({{< ref "/f9/language/ja.md" >}}) | 313 | 313 | 100.0 | /mnt/stockage/packages/f9/cupsddk/po/ja.po | 
- | [nb_NO]({{< ref "/f9/language/nb_NO.md" >}}) | 194 | 194 | 100.0 | /mnt/stockage/packages/f9/cupsddk/po/no.po | 
- | [nl]({{< ref "/f9/language/nl.md" >}}) | 275 | 275 | 100.0 | /mnt/stockage/packages/f9/cupsddk/po/nl.po | 
- | [pt]({{< ref "/f9/language/pt.md" >}}) | 325 | 325 | 100.0 | /mnt/stockage/packages/f9/cupsddk/po/pt.po | 
- | [sv]({{< ref "/f9/language/sv.md" >}}) | 273 | 273 | 100.0 | /mnt/stockage/packages/f9/cupsddk/po/sv.po | 
- | [zh_Hans]({{< ref "/f9/language/zh_Hans.md" >}}) | 572 | 572 | 100.0 | /mnt/stockage/packages/f9/cupsddk/po/zh_CN.po/mnt/stockage/packages/f9/cupsddk/po/zh.po | 
- | [zh_Hant]({{< ref "/f9/language/zh_Hant.md" >}}) | 297 | 297 | 100.0 | /mnt/stockage/packages/f9/cupsddk/po/zh_TW.po | 
- | [ko]({{< ref "/f9/language/ko.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f9/cupsddk/po/ko.po | 
+ | [da](/f9/language/da) | 248 | 248 | 100.0 | /mnt/stockage/packages/f9/cupsddk/po/da.po | 
+ | [de](/f9/language/de) | 413 | 413 | 100.0 | /mnt/stockage/packages/f9/cupsddk/po/de.po | 
+ | [es](/f9/language/es) | 417 | 417 | 100.0 | /mnt/stockage/packages/f9/cupsddk/po/es.po | 
+ | [fi](/f9/language/fi) | 189 | 189 | 100.0 | /mnt/stockage/packages/f9/cupsddk/po/fi.po | 
+ | [fr](/f9/language/fr) | 426 | 426 | 100.0 | /mnt/stockage/packages/f9/cupsddk/po/fr.po/mnt/stockage/packages/f9/cupsddk/ppdc/foo-fr.po | 
+ | [it](/f9/language/it) | 417 | 417 | 100.0 | /mnt/stockage/packages/f9/cupsddk/po/it.po | 
+ | [ja](/f9/language/ja) | 313 | 313 | 100.0 | /mnt/stockage/packages/f9/cupsddk/po/ja.po | 
+ | [nb_NO](/f9/language/nb_NO) | 194 | 194 | 100.0 | /mnt/stockage/packages/f9/cupsddk/po/no.po | 
+ | [nl](/f9/language/nl) | 275 | 275 | 100.0 | /mnt/stockage/packages/f9/cupsddk/po/nl.po | 
+ | [pt](/f9/language/pt) | 325 | 325 | 100.0 | /mnt/stockage/packages/f9/cupsddk/po/pt.po | 
+ | [sv](/f9/language/sv) | 273 | 273 | 100.0 | /mnt/stockage/packages/f9/cupsddk/po/sv.po | 
+ | [zh_Hans](/f9/language/zh_Hans) | 572 | 572 | 100.0 | /mnt/stockage/packages/f9/cupsddk/po/zh_CN.po/mnt/stockage/packages/f9/cupsddk/po/zh.po | 
+ | [zh_Hant](/f9/language/zh_Hant) | 297 | 297 | 100.0 | /mnt/stockage/packages/f9/cupsddk/po/zh_TW.po | 
+ | [ko](/f9/language/ko) | 0 | 0 | 0.0 | /mnt/stockage/packages/f9/cupsddk/po/ko.po | 
 {.sortable}
 
 

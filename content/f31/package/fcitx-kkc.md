@@ -18,10 +18,10 @@ The package fcitx-kkc (version 0.1.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ja]({{< ref "/f31/language/ja.md" >}}) | 118 | 118 | 100.0 | /mnt/stockage/packages/f31/fcitx-kkc/po/ja.po | 
- | [zh_Hans]({{< ref "/f31/language/zh_Hans.md" >}}) | 118 | 118 | 100.0 | /mnt/stockage/packages/f31/fcitx-kkc/po/zh_CN.po | 
- | [de]({{< ref "/f31/language/de.md" >}}) | 65 | 118 | 55.1 | /mnt/stockage/packages/f31/fcitx-kkc/po/de.po | 
- | [zh_Hant]({{< ref "/f31/language/zh_Hant.md" >}}) | 65 | 118 | 55.1 | /mnt/stockage/packages/f31/fcitx-kkc/po/zh_TW.po | 
+ | [ja](/f31/language/ja) | 118 | 118 | 100.0 | /mnt/stockage/packages/f31/fcitx-kkc/po/ja.po | 
+ | [zh_Hans](/f31/language/zh_Hans) | 118 | 118 | 100.0 | /mnt/stockage/packages/f31/fcitx-kkc/po/zh_CN.po | 
+ | [de](/f31/language/de) | 65 | 118 | 55.1 | /mnt/stockage/packages/f31/fcitx-kkc/po/de.po | 
+ | [zh_Hant](/f31/language/zh_Hant) | 65 | 118 | 55.1 | /mnt/stockage/packages/f31/fcitx-kkc/po/zh_TW.po | 
 {.sortable}
 
 

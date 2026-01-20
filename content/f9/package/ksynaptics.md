@@ -18,37 +18,37 @@ The package ksynaptics (version 0.3.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [da]({{< ref "/f9/language/da.md" >}}) | 655 | 655 | 100.0 | /mnt/stockage/packages/f9/ksynaptics/po/da/kcmksynaptics.po | 
- | [de]({{< ref "/f9/language/de.md" >}}) | 655 | 655 | 100.0 | /mnt/stockage/packages/f9/ksynaptics/po/de/kcmksynaptics.po | 
- | [es]({{< ref "/f9/language/es.md" >}}) | 655 | 655 | 100.0 | /mnt/stockage/packages/f9/ksynaptics/po/es/kcmksynaptics.po | 
- | [it]({{< ref "/f9/language/it.md" >}}) | 655 | 655 | 100.0 | /mnt/stockage/packages/f9/ksynaptics/po/it/kcmksynaptics.po | 
- | [nl]({{< ref "/f9/language/nl.md" >}}) | 655 | 655 | 100.0 | /mnt/stockage/packages/f9/ksynaptics/po/nl/kcmksynaptics.po | 
- | [pt]({{< ref "/f9/language/pt.md" >}}) | 655 | 655 | 100.0 | /mnt/stockage/packages/f9/ksynaptics/po/pt/kcmksynaptics.po | 
- | [pt_BR]({{< ref "/f9/language/pt_BR.md" >}}) | 655 | 655 | 100.0 | /mnt/stockage/packages/f9/ksynaptics/po/pt_BR/kcmksynaptics.po | 
- | [sv]({{< ref "/f9/language/sv.md" >}}) | 655 | 655 | 100.0 | /mnt/stockage/packages/f9/ksynaptics/po/sv/kcmksynaptics.po | 
- | [et]({{< ref "/f9/language/et.md" >}}) | 649 | 655 | 99.1 | /mnt/stockage/packages/f9/ksynaptics/po/et/kcmksynaptics.po | 
- | [fr]({{< ref "/f9/language/fr.md" >}}) | 649 | 655 | 99.1 | /mnt/stockage/packages/f9/ksynaptics/po/fr/kcmksynaptics.po | 
- | [gl]({{< ref "/f9/language/gl.md" >}}) | 649 | 655 | 99.1 | /mnt/stockage/packages/f9/ksynaptics/po/gl/kcmksynaptics.po | 
- | [tr]({{< ref "/f9/language/tr.md" >}}) | 566 | 655 | 86.4 | /mnt/stockage/packages/f9/ksynaptics/po/tr/kcmksynaptics.po | 
- | [en_GB]({{< ref "/f9/language/en_GB.md" >}}) | 476 | 655 | 72.7 | /mnt/stockage/packages/f9/ksynaptics/po/en_GB/kcmksynaptics.po | 
- | [mt]({{< ref "/f9/language/mt.md" >}}) | 472 | 655 | 72.1 | /mnt/stockage/packages/f9/ksynaptics/po/mt/kcmksynaptics.po | 
- | [ka]({{< ref "/f9/language/ka.md" >}}) | 259 | 655 | 39.5 | /mnt/stockage/packages/f9/ksynaptics/po/ka/kcmksynaptics.po | 
- | [ga]({{< ref "/f9/language/ga.md" >}}) | 214 | 655 | 32.7 | /mnt/stockage/packages/f9/ksynaptics/po/ga/kcmksynaptics.po | 
- | [fi]({{< ref "/f9/language/fi.md" >}}) | 156 | 655 | 23.8 | /mnt/stockage/packages/f9/ksynaptics/po/fi/kcmksynaptics.po | 
- | [pa]({{< ref "/f9/language/pa.md" >}}) | 143 | 655 | 21.8 | /mnt/stockage/packages/f9/ksynaptics/po/pa/kcmksynaptics.po | 
- | [br]({{< ref "/f9/language/br.md" >}}) | 142 | 655 | 21.7 | /mnt/stockage/packages/f9/ksynaptics/po/br/kcmksynaptics.po | 
- | [pl]({{< ref "/f9/language/pl.md" >}}) | 128 | 655 | 19.5 | /mnt/stockage/packages/f9/ksynaptics/po/pl/kcmksynaptics.po | 
- | [ta]({{< ref "/f9/language/ta.md" >}}) | 126 | 655 | 19.2 | /mnt/stockage/packages/f9/ksynaptics/po/ta/kcmksynaptics.po | 
- | [error]({{< ref "/f9/language/error.md" >}}) | 110 | 655 | 16.8 | /mnt/stockage/packages/f9/ksynaptics/po/sr@Latn/kcmksynaptics.po | 
- | [sr]({{< ref "/f9/language/sr.md" >}}) | 110 | 655 | 16.8 | /mnt/stockage/packages/f9/ksynaptics/po/sr/kcmksynaptics.po | 
- | [th]({{< ref "/f9/language/th.md" >}}) | 87 | 655 | 13.3 | /mnt/stockage/packages/f9/ksynaptics/po/th/kcmksynaptics.po | 
- | [el]({{< ref "/f9/language/el.md" >}}) | 64 | 655 | 9.8 | /mnt/stockage/packages/f9/ksynaptics/po/el/kcmksynaptics.po | 
- | [cs]({{< ref "/f9/language/cs.md" >}}) | 54 | 655 | 8.2 | /mnt/stockage/packages/f9/ksynaptics/po/cs/kcmksynaptics.po | 
- | [cy]({{< ref "/f9/language/cy.md" >}}) | 43 | 655 | 6.6 | /mnt/stockage/packages/f9/ksynaptics/po/cy/kcmksynaptics.po | 
- | [ar]({{< ref "/f9/language/ar.md" >}}) | 33 | 655 | 5.0 | /mnt/stockage/packages/f9/ksynaptics/po/ar/kcmksynaptics.po | 
- | [rw]({{< ref "/f9/language/rw.md" >}}) | 24 | 655 | 3.7 | /mnt/stockage/packages/f9/ksynaptics/po/rw/kcmksynaptics.po | 
- | [lt]({{< ref "/f9/language/lt.md" >}}) | 17 | 655 | 2.6 | /mnt/stockage/packages/f9/ksynaptics/po/lt/kcmksynaptics.po | 
- | [sk]({{< ref "/f9/language/sk.md" >}}) | 0 | 655 | 0.0 | /mnt/stockage/packages/f9/ksynaptics/po/sk/kcmksynaptics.po | 
+ | [da](/f9/language/da) | 655 | 655 | 100.0 | /mnt/stockage/packages/f9/ksynaptics/po/da/kcmksynaptics.po | 
+ | [de](/f9/language/de) | 655 | 655 | 100.0 | /mnt/stockage/packages/f9/ksynaptics/po/de/kcmksynaptics.po | 
+ | [es](/f9/language/es) | 655 | 655 | 100.0 | /mnt/stockage/packages/f9/ksynaptics/po/es/kcmksynaptics.po | 
+ | [it](/f9/language/it) | 655 | 655 | 100.0 | /mnt/stockage/packages/f9/ksynaptics/po/it/kcmksynaptics.po | 
+ | [nl](/f9/language/nl) | 655 | 655 | 100.0 | /mnt/stockage/packages/f9/ksynaptics/po/nl/kcmksynaptics.po | 
+ | [pt](/f9/language/pt) | 655 | 655 | 100.0 | /mnt/stockage/packages/f9/ksynaptics/po/pt/kcmksynaptics.po | 
+ | [pt_BR](/f9/language/pt_BR) | 655 | 655 | 100.0 | /mnt/stockage/packages/f9/ksynaptics/po/pt_BR/kcmksynaptics.po | 
+ | [sv](/f9/language/sv) | 655 | 655 | 100.0 | /mnt/stockage/packages/f9/ksynaptics/po/sv/kcmksynaptics.po | 
+ | [et](/f9/language/et) | 649 | 655 | 99.1 | /mnt/stockage/packages/f9/ksynaptics/po/et/kcmksynaptics.po | 
+ | [fr](/f9/language/fr) | 649 | 655 | 99.1 | /mnt/stockage/packages/f9/ksynaptics/po/fr/kcmksynaptics.po | 
+ | [gl](/f9/language/gl) | 649 | 655 | 99.1 | /mnt/stockage/packages/f9/ksynaptics/po/gl/kcmksynaptics.po | 
+ | [tr](/f9/language/tr) | 566 | 655 | 86.4 | /mnt/stockage/packages/f9/ksynaptics/po/tr/kcmksynaptics.po | 
+ | [en_GB](/f9/language/en_GB) | 476 | 655 | 72.7 | /mnt/stockage/packages/f9/ksynaptics/po/en_GB/kcmksynaptics.po | 
+ | [mt](/f9/language/mt) | 472 | 655 | 72.1 | /mnt/stockage/packages/f9/ksynaptics/po/mt/kcmksynaptics.po | 
+ | [ka](/f9/language/ka) | 259 | 655 | 39.5 | /mnt/stockage/packages/f9/ksynaptics/po/ka/kcmksynaptics.po | 
+ | [ga](/f9/language/ga) | 214 | 655 | 32.7 | /mnt/stockage/packages/f9/ksynaptics/po/ga/kcmksynaptics.po | 
+ | [fi](/f9/language/fi) | 156 | 655 | 23.8 | /mnt/stockage/packages/f9/ksynaptics/po/fi/kcmksynaptics.po | 
+ | [pa](/f9/language/pa) | 143 | 655 | 21.8 | /mnt/stockage/packages/f9/ksynaptics/po/pa/kcmksynaptics.po | 
+ | [br](/f9/language/br) | 142 | 655 | 21.7 | /mnt/stockage/packages/f9/ksynaptics/po/br/kcmksynaptics.po | 
+ | [pl](/f9/language/pl) | 128 | 655 | 19.5 | /mnt/stockage/packages/f9/ksynaptics/po/pl/kcmksynaptics.po | 
+ | [ta](/f9/language/ta) | 126 | 655 | 19.2 | /mnt/stockage/packages/f9/ksynaptics/po/ta/kcmksynaptics.po | 
+ | [error](/f9/language/error) | 110 | 655 | 16.8 | /mnt/stockage/packages/f9/ksynaptics/po/sr@Latn/kcmksynaptics.po | 
+ | [sr](/f9/language/sr) | 110 | 655 | 16.8 | /mnt/stockage/packages/f9/ksynaptics/po/sr/kcmksynaptics.po | 
+ | [th](/f9/language/th) | 87 | 655 | 13.3 | /mnt/stockage/packages/f9/ksynaptics/po/th/kcmksynaptics.po | 
+ | [el](/f9/language/el) | 64 | 655 | 9.8 | /mnt/stockage/packages/f9/ksynaptics/po/el/kcmksynaptics.po | 
+ | [cs](/f9/language/cs) | 54 | 655 | 8.2 | /mnt/stockage/packages/f9/ksynaptics/po/cs/kcmksynaptics.po | 
+ | [cy](/f9/language/cy) | 43 | 655 | 6.6 | /mnt/stockage/packages/f9/ksynaptics/po/cy/kcmksynaptics.po | 
+ | [ar](/f9/language/ar) | 33 | 655 | 5.0 | /mnt/stockage/packages/f9/ksynaptics/po/ar/kcmksynaptics.po | 
+ | [rw](/f9/language/rw) | 24 | 655 | 3.7 | /mnt/stockage/packages/f9/ksynaptics/po/rw/kcmksynaptics.po | 
+ | [lt](/f9/language/lt) | 17 | 655 | 2.6 | /mnt/stockage/packages/f9/ksynaptics/po/lt/kcmksynaptics.po | 
+ | [sk](/f9/language/sk) | 0 | 655 | 0.0 | /mnt/stockage/packages/f9/ksynaptics/po/sk/kcmksynaptics.po | 
 {.sortable}
 
 

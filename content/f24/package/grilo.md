@@ -18,48 +18,48 @@ The package grilo (version 0.3.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [as]({{< ref "/f24/language/as.md" >}}) | 187 | 187 | 100.0 | /mnt/stockage/packages/f24/grilo/po/as.po | 
- | [bs]({{< ref "/f24/language/bs.md" >}}) | 187 | 187 | 100.0 | /mnt/stockage/packages/f24/grilo/po/bs.po | 
- | [ca]({{< ref "/f24/language/ca.md" >}}) | 187 | 187 | 100.0 | /mnt/stockage/packages/f24/grilo/po/ca.po | 
- | [ca@valencia]({{< ref "/f24/language/ca@valencia.md" >}}) | 187 | 187 | 100.0 | /mnt/stockage/packages/f24/grilo/po/ca@valencia.po | 
- | [cs]({{< ref "/f24/language/cs.md" >}}) | 194 | 194 | 100.0 | /mnt/stockage/packages/f24/grilo/po/cs.po | 
- | [da]({{< ref "/f24/language/da.md" >}}) | 194 | 194 | 100.0 | /mnt/stockage/packages/f24/grilo/po/da.po | 
- | [de]({{< ref "/f24/language/de.md" >}}) | 194 | 194 | 100.0 | /mnt/stockage/packages/f24/grilo/po/de.po | 
- | [el]({{< ref "/f24/language/el.md" >}}) | 194 | 194 | 100.0 | /mnt/stockage/packages/f24/grilo/po/el.po | 
- | [eo]({{< ref "/f24/language/eo.md" >}}) | 187 | 187 | 100.0 | /mnt/stockage/packages/f24/grilo/po/eo.po | 
- | [es]({{< ref "/f24/language/es.md" >}}) | 194 | 194 | 100.0 | /mnt/stockage/packages/f24/grilo/po/es.po | 
- | [eu]({{< ref "/f24/language/eu.md" >}}) | 194 | 194 | 100.0 | /mnt/stockage/packages/f24/grilo/po/eu.po | 
- | [fr]({{< ref "/f24/language/fr.md" >}}) | 194 | 194 | 100.0 | /mnt/stockage/packages/f24/grilo/po/fr.po | 
- | [fur]({{< ref "/f24/language/fur.md" >}}) | 194 | 194 | 100.0 | /mnt/stockage/packages/f24/grilo/po/fur.po | 
- | [gl]({{< ref "/f24/language/gl.md" >}}) | 194 | 194 | 100.0 | /mnt/stockage/packages/f24/grilo/po/gl.po | 
- | [he]({{< ref "/f24/language/he.md" >}}) | 194 | 194 | 100.0 | /mnt/stockage/packages/f24/grilo/po/he.po | 
- | [hu]({{< ref "/f24/language/hu.md" >}}) | 194 | 194 | 100.0 | /mnt/stockage/packages/f24/grilo/po/hu.po | 
- | [id]({{< ref "/f24/language/id.md" >}}) | 194 | 194 | 100.0 | /mnt/stockage/packages/f24/grilo/po/id.po | 
- | [it]({{< ref "/f24/language/it.md" >}}) | 194 | 194 | 100.0 | /mnt/stockage/packages/f24/grilo/po/it.po | 
- | [ja]({{< ref "/f24/language/ja.md" >}}) | 184 | 184 | 100.0 | /mnt/stockage/packages/f24/grilo/po/ja.po | 
- | [ko]({{< ref "/f24/language/ko.md" >}}) | 194 | 194 | 100.0 | /mnt/stockage/packages/f24/grilo/po/ko.po | 
- | [lt]({{< ref "/f24/language/lt.md" >}}) | 194 | 194 | 100.0 | /mnt/stockage/packages/f24/grilo/po/lt.po | 
- | [lv]({{< ref "/f24/language/lv.md" >}}) | 194 | 194 | 100.0 | /mnt/stockage/packages/f24/grilo/po/lv.po | 
- | [nb_NO]({{< ref "/f24/language/nb_NO.md" >}}) | 194 | 194 | 100.0 | /mnt/stockage/packages/f24/grilo/po/nb.po | 
- | [nl]({{< ref "/f24/language/nl.md" >}}) | 194 | 194 | 100.0 | /mnt/stockage/packages/f24/grilo/po/nl.po | 
- | [oc]({{< ref "/f24/language/oc.md" >}}) | 194 | 194 | 100.0 | /mnt/stockage/packages/f24/grilo/po/oc.po | 
- | [pa]({{< ref "/f24/language/pa.md" >}}) | 187 | 187 | 100.0 | /mnt/stockage/packages/f24/grilo/po/pa.po | 
- | [pl]({{< ref "/f24/language/pl.md" >}}) | 194 | 194 | 100.0 | /mnt/stockage/packages/f24/grilo/po/pl.po | 
- | [pt]({{< ref "/f24/language/pt.md" >}}) | 194 | 194 | 100.0 | /mnt/stockage/packages/f24/grilo/po/pt.po | 
- | [pt_BR]({{< ref "/f24/language/pt_BR.md" >}}) | 194 | 194 | 100.0 | /mnt/stockage/packages/f24/grilo/po/pt_BR.po | 
- | [ru]({{< ref "/f24/language/ru.md" >}}) | 194 | 194 | 100.0 | /mnt/stockage/packages/f24/grilo/po/ru.po | 
- | [sk]({{< ref "/f24/language/sk.md" >}}) | 194 | 194 | 100.0 | /mnt/stockage/packages/f24/grilo/po/sk.po | 
- | [sl]({{< ref "/f24/language/sl.md" >}}) | 194 | 194 | 100.0 | /mnt/stockage/packages/f24/grilo/po/sl.po | 
- | [sr]({{< ref "/f24/language/sr.md" >}}) | 194 | 194 | 100.0 | /mnt/stockage/packages/f24/grilo/po/sr.po | 
- | [sr_Latn]({{< ref "/f24/language/sr_Latn.md" >}}) | 194 | 194 | 100.0 | /mnt/stockage/packages/f24/grilo/po/sr@latin.po | 
- | [sv]({{< ref "/f24/language/sv.md" >}}) | 194 | 194 | 100.0 | /mnt/stockage/packages/f24/grilo/po/sv.po | 
- | [tg]({{< ref "/f24/language/tg.md" >}}) | 187 | 187 | 100.0 | /mnt/stockage/packages/f24/grilo/po/tg.po | 
- | [tr]({{< ref "/f24/language/tr.md" >}}) | 195 | 195 | 100.0 | /mnt/stockage/packages/f24/grilo/po/tr.po | 
- | [uk]({{< ref "/f24/language/uk.md" >}}) | 187 | 187 | 100.0 | /mnt/stockage/packages/f24/grilo/po/uk.po | 
- | [zh_Hans]({{< ref "/f24/language/zh_Hans.md" >}}) | 187 | 187 | 100.0 | /mnt/stockage/packages/f24/grilo/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f24/language/zh_Hant.md" >}}) | 194 | 194 | 100.0 | /mnt/stockage/packages/f24/grilo/po/zh_TW.po | 
- | [zh_Hant_HK]({{< ref "/f24/language/zh_Hant_HK.md" >}}) | 187 | 187 | 100.0 | /mnt/stockage/packages/f24/grilo/po/zh_HK.po | 
- | [ml]({{< ref "/f24/language/ml.md" >}}) | 49 | 187 | 26.2 | /mnt/stockage/packages/f24/grilo/po/ml.po | 
+ | [as](/f24/language/as) | 187 | 187 | 100.0 | /mnt/stockage/packages/f24/grilo/po/as.po | 
+ | [bs](/f24/language/bs) | 187 | 187 | 100.0 | /mnt/stockage/packages/f24/grilo/po/bs.po | 
+ | [ca](/f24/language/ca) | 187 | 187 | 100.0 | /mnt/stockage/packages/f24/grilo/po/ca.po | 
+ | [ca@valencia](/f24/language/ca@valencia) | 187 | 187 | 100.0 | /mnt/stockage/packages/f24/grilo/po/ca@valencia.po | 
+ | [cs](/f24/language/cs) | 194 | 194 | 100.0 | /mnt/stockage/packages/f24/grilo/po/cs.po | 
+ | [da](/f24/language/da) | 194 | 194 | 100.0 | /mnt/stockage/packages/f24/grilo/po/da.po | 
+ | [de](/f24/language/de) | 194 | 194 | 100.0 | /mnt/stockage/packages/f24/grilo/po/de.po | 
+ | [el](/f24/language/el) | 194 | 194 | 100.0 | /mnt/stockage/packages/f24/grilo/po/el.po | 
+ | [eo](/f24/language/eo) | 187 | 187 | 100.0 | /mnt/stockage/packages/f24/grilo/po/eo.po | 
+ | [es](/f24/language/es) | 194 | 194 | 100.0 | /mnt/stockage/packages/f24/grilo/po/es.po | 
+ | [eu](/f24/language/eu) | 194 | 194 | 100.0 | /mnt/stockage/packages/f24/grilo/po/eu.po | 
+ | [fr](/f24/language/fr) | 194 | 194 | 100.0 | /mnt/stockage/packages/f24/grilo/po/fr.po | 
+ | [fur](/f24/language/fur) | 194 | 194 | 100.0 | /mnt/stockage/packages/f24/grilo/po/fur.po | 
+ | [gl](/f24/language/gl) | 194 | 194 | 100.0 | /mnt/stockage/packages/f24/grilo/po/gl.po | 
+ | [he](/f24/language/he) | 194 | 194 | 100.0 | /mnt/stockage/packages/f24/grilo/po/he.po | 
+ | [hu](/f24/language/hu) | 194 | 194 | 100.0 | /mnt/stockage/packages/f24/grilo/po/hu.po | 
+ | [id](/f24/language/id) | 194 | 194 | 100.0 | /mnt/stockage/packages/f24/grilo/po/id.po | 
+ | [it](/f24/language/it) | 194 | 194 | 100.0 | /mnt/stockage/packages/f24/grilo/po/it.po | 
+ | [ja](/f24/language/ja) | 184 | 184 | 100.0 | /mnt/stockage/packages/f24/grilo/po/ja.po | 
+ | [ko](/f24/language/ko) | 194 | 194 | 100.0 | /mnt/stockage/packages/f24/grilo/po/ko.po | 
+ | [lt](/f24/language/lt) | 194 | 194 | 100.0 | /mnt/stockage/packages/f24/grilo/po/lt.po | 
+ | [lv](/f24/language/lv) | 194 | 194 | 100.0 | /mnt/stockage/packages/f24/grilo/po/lv.po | 
+ | [nb_NO](/f24/language/nb_NO) | 194 | 194 | 100.0 | /mnt/stockage/packages/f24/grilo/po/nb.po | 
+ | [nl](/f24/language/nl) | 194 | 194 | 100.0 | /mnt/stockage/packages/f24/grilo/po/nl.po | 
+ | [oc](/f24/language/oc) | 194 | 194 | 100.0 | /mnt/stockage/packages/f24/grilo/po/oc.po | 
+ | [pa](/f24/language/pa) | 187 | 187 | 100.0 | /mnt/stockage/packages/f24/grilo/po/pa.po | 
+ | [pl](/f24/language/pl) | 194 | 194 | 100.0 | /mnt/stockage/packages/f24/grilo/po/pl.po | 
+ | [pt](/f24/language/pt) | 194 | 194 | 100.0 | /mnt/stockage/packages/f24/grilo/po/pt.po | 
+ | [pt_BR](/f24/language/pt_BR) | 194 | 194 | 100.0 | /mnt/stockage/packages/f24/grilo/po/pt_BR.po | 
+ | [ru](/f24/language/ru) | 194 | 194 | 100.0 | /mnt/stockage/packages/f24/grilo/po/ru.po | 
+ | [sk](/f24/language/sk) | 194 | 194 | 100.0 | /mnt/stockage/packages/f24/grilo/po/sk.po | 
+ | [sl](/f24/language/sl) | 194 | 194 | 100.0 | /mnt/stockage/packages/f24/grilo/po/sl.po | 
+ | [sr](/f24/language/sr) | 194 | 194 | 100.0 | /mnt/stockage/packages/f24/grilo/po/sr.po | 
+ | [sr_Latn](/f24/language/sr_Latn) | 194 | 194 | 100.0 | /mnt/stockage/packages/f24/grilo/po/sr@latin.po | 
+ | [sv](/f24/language/sv) | 194 | 194 | 100.0 | /mnt/stockage/packages/f24/grilo/po/sv.po | 
+ | [tg](/f24/language/tg) | 187 | 187 | 100.0 | /mnt/stockage/packages/f24/grilo/po/tg.po | 
+ | [tr](/f24/language/tr) | 195 | 195 | 100.0 | /mnt/stockage/packages/f24/grilo/po/tr.po | 
+ | [uk](/f24/language/uk) | 187 | 187 | 100.0 | /mnt/stockage/packages/f24/grilo/po/uk.po | 
+ | [zh_Hans](/f24/language/zh_Hans) | 187 | 187 | 100.0 | /mnt/stockage/packages/f24/grilo/po/zh_CN.po | 
+ | [zh_Hant](/f24/language/zh_Hant) | 194 | 194 | 100.0 | /mnt/stockage/packages/f24/grilo/po/zh_TW.po | 
+ | [zh_Hant_HK](/f24/language/zh_Hant_HK) | 187 | 187 | 100.0 | /mnt/stockage/packages/f24/grilo/po/zh_HK.po | 
+ | [ml](/f24/language/ml) | 49 | 187 | 26.2 | /mnt/stockage/packages/f24/grilo/po/ml.po | 
 {.sortable}
 
 

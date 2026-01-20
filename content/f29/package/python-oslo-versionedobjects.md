@@ -18,7 +18,7 @@ The package python-oslo-versionedobjects (version 1.31.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [en_GB]({{< ref "/f29/language/en_GB.md" >}}) | 281 | 281 | 100.0 | /mnt/stockage/packages/f29/python-oslo-versionedobjects/oslo_versionedobjects/locale/en_GB/LC_MESSAGES/oslo_versionedobjects.po/mnt/stockage/packages/f29/python-oslo-versionedobjects/releasenotes/source/locale/en_GB/LC_MESSAGES/releasenotes.po | 
+ | [en_GB](/f29/language/en_GB) | 281 | 281 | 100.0 | /mnt/stockage/packages/f29/python-oslo-versionedobjects/oslo_versionedobjects/locale/en_GB/LC_MESSAGES/oslo_versionedobjects.po/mnt/stockage/packages/f29/python-oslo-versionedobjects/releasenotes/source/locale/en_GB/LC_MESSAGES/releasenotes.po | 
 {.sortable}
 
 

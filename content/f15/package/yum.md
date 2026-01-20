@@ -18,28 +18,28 @@ The package yum (version 3.2.29):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f15/language/cs.md" >}}) | 2565 | 2565 | 100.0 | /mnt/stockage/packages/f15/yum/po/cs.po | 
- | [en_GB]({{< ref "/f15/language/en_GB.md" >}}) | 2565 | 2565 | 100.0 | /mnt/stockage/packages/f15/yum/po/en_GB.po | 
- | [es]({{< ref "/f15/language/es.md" >}}) | 2818 | 2818 | 100.0 | /mnt/stockage/packages/f15/yum/po/es.po | 
- | [fi]({{< ref "/f15/language/fi.md" >}}) | 2565 | 2565 | 100.0 | /mnt/stockage/packages/f15/yum/po/fi.po | 
- | [fr]({{< ref "/f15/language/fr.md" >}}) | 2818 | 2818 | 100.0 | /mnt/stockage/packages/f15/yum/po/fr.po | 
- | [it]({{< ref "/f15/language/it.md" >}}) | 2818 | 2818 | 100.0 | /mnt/stockage/packages/f15/yum/po/it.po | 
- | [pl]({{< ref "/f15/language/pl.md" >}}) | 2818 | 2818 | 100.0 | /mnt/stockage/packages/f15/yum/po/pl.po | 
- | [sv]({{< ref "/f15/language/sv.md" >}}) | 2818 | 2818 | 100.0 | /mnt/stockage/packages/f15/yum/po/sv.po | 
- | [uk]({{< ref "/f15/language/uk.md" >}}) | 2818 | 2818 | 100.0 | /mnt/stockage/packages/f15/yum/po/uk.po | 
- | [ru]({{< ref "/f15/language/ru.md" >}}) | 2810 | 2818 | 99.7 | /mnt/stockage/packages/f15/yum/po/ru.po | 
- | [ca]({{< ref "/f15/language/ca.md" >}}) | 2323 | 2449 | 94.9 | /mnt/stockage/packages/f15/yum/po/ca.po | 
- | [da]({{< ref "/f15/language/da.md" >}}) | 2300 | 2449 | 93.9 | /mnt/stockage/packages/f15/yum/po/da.po | 
- | [de]({{< ref "/f15/language/de.md" >}}) | 2287 | 2449 | 93.4 | /mnt/stockage/packages/f15/yum/po/de.po | 
- | [nb_NO]({{< ref "/f15/language/nb_NO.md" >}}) | 2280 | 2449 | 93.1 | /mnt/stockage/packages/f15/yum/po/nb.po | 
- | [pt_BR]({{< ref "/f15/language/pt_BR.md" >}}) | 2570 | 2818 | 91.2 | /mnt/stockage/packages/f15/yum/po/pt_BR.po | 
- | [sr]({{< ref "/f15/language/sr.md" >}}) | 2185 | 2449 | 89.2 | /mnt/stockage/packages/f15/yum/po/sr.po | 
- | [sr_Latn]({{< ref "/f15/language/sr_Latn.md" >}}) | 2185 | 2449 | 89.2 | /mnt/stockage/packages/f15/yum/po/sr@latin.po | 
- | [ja]({{< ref "/f15/language/ja.md" >}}) | 2469 | 2813 | 87.8 | /mnt/stockage/packages/f15/yum/po/ja.po | 
- | [zh_Hans]({{< ref "/f15/language/zh_Hans.md" >}}) | 1917 | 2449 | 78.3 | /mnt/stockage/packages/f15/yum/po/zh_CN.po | 
- | [pa]({{< ref "/f15/language/pa.md" >}}) | 1946 | 2798 | 69.5 | /mnt/stockage/packages/f15/yum/po/pa.po | 
- | [ms]({{< ref "/f15/language/ms.md" >}}) | 99 | 2449 | 4.0 | /mnt/stockage/packages/f15/yum/po/ms.po | 
- | [pt]({{< ref "/f15/language/pt.md" >}}) | 61 | 2449 | 2.5 | /mnt/stockage/packages/f15/yum/po/pt.po | 
+ | [cs](/f15/language/cs) | 2565 | 2565 | 100.0 | /mnt/stockage/packages/f15/yum/po/cs.po | 
+ | [en_GB](/f15/language/en_GB) | 2565 | 2565 | 100.0 | /mnt/stockage/packages/f15/yum/po/en_GB.po | 
+ | [es](/f15/language/es) | 2818 | 2818 | 100.0 | /mnt/stockage/packages/f15/yum/po/es.po | 
+ | [fi](/f15/language/fi) | 2565 | 2565 | 100.0 | /mnt/stockage/packages/f15/yum/po/fi.po | 
+ | [fr](/f15/language/fr) | 2818 | 2818 | 100.0 | /mnt/stockage/packages/f15/yum/po/fr.po | 
+ | [it](/f15/language/it) | 2818 | 2818 | 100.0 | /mnt/stockage/packages/f15/yum/po/it.po | 
+ | [pl](/f15/language/pl) | 2818 | 2818 | 100.0 | /mnt/stockage/packages/f15/yum/po/pl.po | 
+ | [sv](/f15/language/sv) | 2818 | 2818 | 100.0 | /mnt/stockage/packages/f15/yum/po/sv.po | 
+ | [uk](/f15/language/uk) | 2818 | 2818 | 100.0 | /mnt/stockage/packages/f15/yum/po/uk.po | 
+ | [ru](/f15/language/ru) | 2810 | 2818 | 99.7 | /mnt/stockage/packages/f15/yum/po/ru.po | 
+ | [ca](/f15/language/ca) | 2323 | 2449 | 94.9 | /mnt/stockage/packages/f15/yum/po/ca.po | 
+ | [da](/f15/language/da) | 2300 | 2449 | 93.9 | /mnt/stockage/packages/f15/yum/po/da.po | 
+ | [de](/f15/language/de) | 2287 | 2449 | 93.4 | /mnt/stockage/packages/f15/yum/po/de.po | 
+ | [nb_NO](/f15/language/nb_NO) | 2280 | 2449 | 93.1 | /mnt/stockage/packages/f15/yum/po/nb.po | 
+ | [pt_BR](/f15/language/pt_BR) | 2570 | 2818 | 91.2 | /mnt/stockage/packages/f15/yum/po/pt_BR.po | 
+ | [sr](/f15/language/sr) | 2185 | 2449 | 89.2 | /mnt/stockage/packages/f15/yum/po/sr.po | 
+ | [sr_Latn](/f15/language/sr_Latn) | 2185 | 2449 | 89.2 | /mnt/stockage/packages/f15/yum/po/sr@latin.po | 
+ | [ja](/f15/language/ja) | 2469 | 2813 | 87.8 | /mnt/stockage/packages/f15/yum/po/ja.po | 
+ | [zh_Hans](/f15/language/zh_Hans) | 1917 | 2449 | 78.3 | /mnt/stockage/packages/f15/yum/po/zh_CN.po | 
+ | [pa](/f15/language/pa) | 1946 | 2798 | 69.5 | /mnt/stockage/packages/f15/yum/po/pa.po | 
+ | [ms](/f15/language/ms) | 99 | 2449 | 4.0 | /mnt/stockage/packages/f15/yum/po/ms.po | 
+ | [pt](/f15/language/pt) | 61 | 2449 | 2.5 | /mnt/stockage/packages/f15/yum/po/pt.po | 
 {.sortable}
 
 

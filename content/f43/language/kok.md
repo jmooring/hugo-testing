@@ -44,10 +44,10 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [gnucash]({{< ref "/f43/package/gnucash.md" >}}) | 22063 | 39578 | 55.7 |  | 
- | [inkscape]({{< ref "/f43/package/inkscape.md" >}}) | 16350 | 51528 | 31.7 | Konkani | 
- | [libreoffice]({{< ref "/f43/package/libreoffice.md" >}}) | 41958 | 178000 | 23.6 | Konkani <https://translations.documentfoundation.org/projects/libo_ui-master/avmediamessages/kok/> | 
- | [iso-codes]({{< ref "/f43/package/iso-codes.md" >}}) | 247 | 14815 | 1.7 | Konkani | 
+ | [gnucash](/f43/package/gnucash) | 22063 | 39578 | 55.7 |  | 
+ | [inkscape](/f43/package/inkscape) | 16350 | 51528 | 31.7 | Konkani | 
+ | [libreoffice](/f43/package/libreoffice) | 41958 | 178000 | 23.6 | Konkani <https://translations.documentfoundation.org/projects/libo_ui-master/avmediamessages/kok/> | 
+ | [iso-codes](/f43/package/iso-codes) | 247 | 14815 | 1.7 | Konkani | 
 {.sortable}
 
 
@@ -59,8 +59,8 @@ We use the po metadata to get the language code and the team, but sometimes it f
 
 | Package | Lang from file path/name | polib error | Team |
 |---------|--------------------------|-------------|------|
- | [gnucash]({{< ref "/f43/package/gnucash.md" >}}) | /mnt/stockage/packages/f43/gnucash/gnucash-5.14/po/._kok.po | error-unicode |  | 
- | [gnucash]({{< ref "/f43/package/gnucash.md" >}}) | /mnt/stockage/packages/f43/gnucash/gnucash-5.14/po/glossary/._kok.po | error-unicode |  | 
+ | [gnucash](/f43/package/gnucash) | /mnt/stockage/packages/f43/gnucash/gnucash-5.14/po/._kok.po | error-unicode |  | 
+ | [gnucash](/f43/package/gnucash) | /mnt/stockage/packages/f43/gnucash/gnucash-5.14/po/glossary/._kok.po | error-unicode |  | 
 {.sortable}
 
 
@@ -71,8 +71,8 @@ We use the calcstats from translate toolkit to get the translation progress, but
 
 | Package | Lang from file path/name | Team |
 |---------|--------------------------|------|
- | [gnucash]({{< ref "/f43/package/gnucash.md" >}}) | /mnt/stockage/packages/f43/gnucash/gnucash-5.14/po/._kok.po |  | 
- | [gnucash]({{< ref "/f43/package/gnucash.md" >}}) | /mnt/stockage/packages/f43/gnucash/gnucash-5.14/po/glossary/._kok.po |  | 
+ | [gnucash](/f43/package/gnucash) | /mnt/stockage/packages/f43/gnucash/gnucash-5.14/po/._kok.po |  | 
+ | [gnucash](/f43/package/gnucash) | /mnt/stockage/packages/f43/gnucash/gnucash-5.14/po/glossary/._kok.po |  | 
 {.sortable}
 
 

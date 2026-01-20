@@ -18,10 +18,10 @@ The package splix (version 2.0.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f34/language/de.md" >}}) | 310 | 310 | 100.0 | /mnt/stockage/packages/f34/splix/ppd/po/de.po | 
- | [fr]({{< ref "/f34/language/fr.md" >}}) | 344 | 344 | 100.0 | /mnt/stockage/packages/f34/splix/ppd/po/fr.po | 
- | [pt]({{< ref "/f34/language/pt.md" >}}) | 346 | 346 | 100.0 | /mnt/stockage/packages/f34/splix/ppd/po/pt.po | 
- | [it]({{< ref "/f34/language/it.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f34/splix/ppd/po/it.po | 
+ | [de](/f34/language/de) | 310 | 310 | 100.0 | /mnt/stockage/packages/f34/splix/ppd/po/de.po | 
+ | [fr](/f34/language/fr) | 344 | 344 | 100.0 | /mnt/stockage/packages/f34/splix/ppd/po/fr.po | 
+ | [pt](/f34/language/pt) | 346 | 346 | 100.0 | /mnt/stockage/packages/f34/splix/ppd/po/pt.po | 
+ | [it](/f34/language/it) | 0 | 0 | 0.0 | /mnt/stockage/packages/f34/splix/ppd/po/it.po | 
 {.sortable}
 
 

@@ -18,49 +18,49 @@ The package libxfce4windowing (version 4.20.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ast]({{< ref "/f43/language/ast.md" >}}) | 63 | 63 | 100.0 | /mnt/stockage/packages/f43/libxfce4windowing/po/ast.po | 
- | [bg]({{< ref "/f43/language/bg.md" >}}) | 63 | 63 | 100.0 | /mnt/stockage/packages/f43/libxfce4windowing/po/bg.po | 
- | [ca]({{< ref "/f43/language/ca.md" >}}) | 63 | 63 | 100.0 | /mnt/stockage/packages/f43/libxfce4windowing/po/ca.po | 
- | [cs]({{< ref "/f43/language/cs.md" >}}) | 63 | 63 | 100.0 | /mnt/stockage/packages/f43/libxfce4windowing/po/cs.po | 
- | [da]({{< ref "/f43/language/da.md" >}}) | 63 | 63 | 100.0 | /mnt/stockage/packages/f43/libxfce4windowing/po/da.po | 
- | [de]({{< ref "/f43/language/de.md" >}}) | 63 | 63 | 100.0 | /mnt/stockage/packages/f43/libxfce4windowing/po/de.po | 
- | [el]({{< ref "/f43/language/el.md" >}}) | 63 | 63 | 100.0 | /mnt/stockage/packages/f43/libxfce4windowing/po/el.po | 
- | [en_CA]({{< ref "/f43/language/en_CA.md" >}}) | 63 | 63 | 100.0 | /mnt/stockage/packages/f43/libxfce4windowing/po/en_CA.po | 
- | [en_GB]({{< ref "/f43/language/en_GB.md" >}}) | 63 | 63 | 100.0 | /mnt/stockage/packages/f43/libxfce4windowing/po/en_GB.po | 
- | [es]({{< ref "/f43/language/es.md" >}}) | 63 | 63 | 100.0 | /mnt/stockage/packages/f43/libxfce4windowing/po/es.po | 
- | [et]({{< ref "/f43/language/et.md" >}}) | 63 | 63 | 100.0 | /mnt/stockage/packages/f43/libxfce4windowing/po/et.po | 
- | [fi]({{< ref "/f43/language/fi.md" >}}) | 63 | 63 | 100.0 | /mnt/stockage/packages/f43/libxfce4windowing/po/fi.po | 
- | [fr]({{< ref "/f43/language/fr.md" >}}) | 63 | 63 | 100.0 | /mnt/stockage/packages/f43/libxfce4windowing/po/fr.po | 
- | [gl]({{< ref "/f43/language/gl.md" >}}) | 63 | 63 | 100.0 | /mnt/stockage/packages/f43/libxfce4windowing/po/gl.po | 
- | [he]({{< ref "/f43/language/he.md" >}}) | 63 | 63 | 100.0 | /mnt/stockage/packages/f43/libxfce4windowing/po/he.po | 
- | [hu]({{< ref "/f43/language/hu.md" >}}) | 63 | 63 | 100.0 | /mnt/stockage/packages/f43/libxfce4windowing/po/hu.po | 
- | [id]({{< ref "/f43/language/id.md" >}}) | 63 | 63 | 100.0 | /mnt/stockage/packages/f43/libxfce4windowing/po/id.po | 
- | [ie]({{< ref "/f43/language/ie.md" >}}) | 63 | 63 | 100.0 | /mnt/stockage/packages/f43/libxfce4windowing/po/ie.po | 
- | [it]({{< ref "/f43/language/it.md" >}}) | 63 | 63 | 100.0 | /mnt/stockage/packages/f43/libxfce4windowing/po/it.po | 
- | [ja]({{< ref "/f43/language/ja.md" >}}) | 63 | 63 | 100.0 | /mnt/stockage/packages/f43/libxfce4windowing/po/ja.po | 
- | [ka]({{< ref "/f43/language/ka.md" >}}) | 63 | 63 | 100.0 | /mnt/stockage/packages/f43/libxfce4windowing/po/ka.po | 
- | [kk]({{< ref "/f43/language/kk.md" >}}) | 63 | 63 | 100.0 | /mnt/stockage/packages/f43/libxfce4windowing/po/kk.po | 
- | [ko]({{< ref "/f43/language/ko.md" >}}) | 63 | 63 | 100.0 | /mnt/stockage/packages/f43/libxfce4windowing/po/ko.po | 
- | [lt]({{< ref "/f43/language/lt.md" >}}) | 63 | 63 | 100.0 | /mnt/stockage/packages/f43/libxfce4windowing/po/lt.po | 
- | [nb_NO]({{< ref "/f43/language/nb_NO.md" >}}) | 63 | 63 | 100.0 | /mnt/stockage/packages/f43/libxfce4windowing/po/nb.po | 
- | [nl]({{< ref "/f43/language/nl.md" >}}) | 63 | 63 | 100.0 | /mnt/stockage/packages/f43/libxfce4windowing/po/nl.po | 
- | [oc]({{< ref "/f43/language/oc.md" >}}) | 63 | 63 | 100.0 | /mnt/stockage/packages/f43/libxfce4windowing/po/oc.po | 
- | [pl]({{< ref "/f43/language/pl.md" >}}) | 63 | 63 | 100.0 | /mnt/stockage/packages/f43/libxfce4windowing/po/pl.po | 
- | [pt]({{< ref "/f43/language/pt.md" >}}) | 63 | 63 | 100.0 | /mnt/stockage/packages/f43/libxfce4windowing/po/pt.po | 
- | [pt_BR]({{< ref "/f43/language/pt_BR.md" >}}) | 63 | 63 | 100.0 | /mnt/stockage/packages/f43/libxfce4windowing/po/pt_BR.po | 
- | [ro]({{< ref "/f43/language/ro.md" >}}) | 63 | 63 | 100.0 | /mnt/stockage/packages/f43/libxfce4windowing/po/ro.po | 
- | [ru]({{< ref "/f43/language/ru.md" >}}) | 63 | 63 | 100.0 | /mnt/stockage/packages/f43/libxfce4windowing/po/ru.po | 
- | [sk]({{< ref "/f43/language/sk.md" >}}) | 63 | 63 | 100.0 | /mnt/stockage/packages/f43/libxfce4windowing/po/sk.po | 
- | [sl]({{< ref "/f43/language/sl.md" >}}) | 63 | 63 | 100.0 | /mnt/stockage/packages/f43/libxfce4windowing/po/sl.po | 
- | [sq]({{< ref "/f43/language/sq.md" >}}) | 63 | 63 | 100.0 | /mnt/stockage/packages/f43/libxfce4windowing/po/sq.po | 
- | [sr]({{< ref "/f43/language/sr.md" >}}) | 63 | 63 | 100.0 | /mnt/stockage/packages/f43/libxfce4windowing/po/sr.po | 
- | [sv]({{< ref "/f43/language/sv.md" >}}) | 63 | 63 | 100.0 | /mnt/stockage/packages/f43/libxfce4windowing/po/sv.po | 
- | [tr]({{< ref "/f43/language/tr.md" >}}) | 63 | 63 | 100.0 | /mnt/stockage/packages/f43/libxfce4windowing/po/tr.po | 
- | [uk]({{< ref "/f43/language/uk.md" >}}) | 63 | 63 | 100.0 | /mnt/stockage/packages/f43/libxfce4windowing/po/uk.po | 
- | [zh_Hans]({{< ref "/f43/language/zh_Hans.md" >}}) | 63 | 63 | 100.0 | /mnt/stockage/packages/f43/libxfce4windowing/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f43/language/zh_Hant.md" >}}) | 63 | 63 | 100.0 | /mnt/stockage/packages/f43/libxfce4windowing/po/zh_TW.po | 
- | [ga]({{< ref "/f43/language/ga.md" >}}) | 39 | 63 | 61.9 | /mnt/stockage/packages/f43/libxfce4windowing/po/ga.po | 
- | [hr]({{< ref "/f43/language/hr.md" >}}) | 38 | 63 | 60.3 | /mnt/stockage/packages/f43/libxfce4windowing/po/hr.po | 
+ | [ast](/f43/language/ast) | 63 | 63 | 100.0 | /mnt/stockage/packages/f43/libxfce4windowing/po/ast.po | 
+ | [bg](/f43/language/bg) | 63 | 63 | 100.0 | /mnt/stockage/packages/f43/libxfce4windowing/po/bg.po | 
+ | [ca](/f43/language/ca) | 63 | 63 | 100.0 | /mnt/stockage/packages/f43/libxfce4windowing/po/ca.po | 
+ | [cs](/f43/language/cs) | 63 | 63 | 100.0 | /mnt/stockage/packages/f43/libxfce4windowing/po/cs.po | 
+ | [da](/f43/language/da) | 63 | 63 | 100.0 | /mnt/stockage/packages/f43/libxfce4windowing/po/da.po | 
+ | [de](/f43/language/de) | 63 | 63 | 100.0 | /mnt/stockage/packages/f43/libxfce4windowing/po/de.po | 
+ | [el](/f43/language/el) | 63 | 63 | 100.0 | /mnt/stockage/packages/f43/libxfce4windowing/po/el.po | 
+ | [en_CA](/f43/language/en_CA) | 63 | 63 | 100.0 | /mnt/stockage/packages/f43/libxfce4windowing/po/en_CA.po | 
+ | [en_GB](/f43/language/en_GB) | 63 | 63 | 100.0 | /mnt/stockage/packages/f43/libxfce4windowing/po/en_GB.po | 
+ | [es](/f43/language/es) | 63 | 63 | 100.0 | /mnt/stockage/packages/f43/libxfce4windowing/po/es.po | 
+ | [et](/f43/language/et) | 63 | 63 | 100.0 | /mnt/stockage/packages/f43/libxfce4windowing/po/et.po | 
+ | [fi](/f43/language/fi) | 63 | 63 | 100.0 | /mnt/stockage/packages/f43/libxfce4windowing/po/fi.po | 
+ | [fr](/f43/language/fr) | 63 | 63 | 100.0 | /mnt/stockage/packages/f43/libxfce4windowing/po/fr.po | 
+ | [gl](/f43/language/gl) | 63 | 63 | 100.0 | /mnt/stockage/packages/f43/libxfce4windowing/po/gl.po | 
+ | [he](/f43/language/he) | 63 | 63 | 100.0 | /mnt/stockage/packages/f43/libxfce4windowing/po/he.po | 
+ | [hu](/f43/language/hu) | 63 | 63 | 100.0 | /mnt/stockage/packages/f43/libxfce4windowing/po/hu.po | 
+ | [id](/f43/language/id) | 63 | 63 | 100.0 | /mnt/stockage/packages/f43/libxfce4windowing/po/id.po | 
+ | [ie](/f43/language/ie) | 63 | 63 | 100.0 | /mnt/stockage/packages/f43/libxfce4windowing/po/ie.po | 
+ | [it](/f43/language/it) | 63 | 63 | 100.0 | /mnt/stockage/packages/f43/libxfce4windowing/po/it.po | 
+ | [ja](/f43/language/ja) | 63 | 63 | 100.0 | /mnt/stockage/packages/f43/libxfce4windowing/po/ja.po | 
+ | [ka](/f43/language/ka) | 63 | 63 | 100.0 | /mnt/stockage/packages/f43/libxfce4windowing/po/ka.po | 
+ | [kk](/f43/language/kk) | 63 | 63 | 100.0 | /mnt/stockage/packages/f43/libxfce4windowing/po/kk.po | 
+ | [ko](/f43/language/ko) | 63 | 63 | 100.0 | /mnt/stockage/packages/f43/libxfce4windowing/po/ko.po | 
+ | [lt](/f43/language/lt) | 63 | 63 | 100.0 | /mnt/stockage/packages/f43/libxfce4windowing/po/lt.po | 
+ | [nb_NO](/f43/language/nb_NO) | 63 | 63 | 100.0 | /mnt/stockage/packages/f43/libxfce4windowing/po/nb.po | 
+ | [nl](/f43/language/nl) | 63 | 63 | 100.0 | /mnt/stockage/packages/f43/libxfce4windowing/po/nl.po | 
+ | [oc](/f43/language/oc) | 63 | 63 | 100.0 | /mnt/stockage/packages/f43/libxfce4windowing/po/oc.po | 
+ | [pl](/f43/language/pl) | 63 | 63 | 100.0 | /mnt/stockage/packages/f43/libxfce4windowing/po/pl.po | 
+ | [pt](/f43/language/pt) | 63 | 63 | 100.0 | /mnt/stockage/packages/f43/libxfce4windowing/po/pt.po | 
+ | [pt_BR](/f43/language/pt_BR) | 63 | 63 | 100.0 | /mnt/stockage/packages/f43/libxfce4windowing/po/pt_BR.po | 
+ | [ro](/f43/language/ro) | 63 | 63 | 100.0 | /mnt/stockage/packages/f43/libxfce4windowing/po/ro.po | 
+ | [ru](/f43/language/ru) | 63 | 63 | 100.0 | /mnt/stockage/packages/f43/libxfce4windowing/po/ru.po | 
+ | [sk](/f43/language/sk) | 63 | 63 | 100.0 | /mnt/stockage/packages/f43/libxfce4windowing/po/sk.po | 
+ | [sl](/f43/language/sl) | 63 | 63 | 100.0 | /mnt/stockage/packages/f43/libxfce4windowing/po/sl.po | 
+ | [sq](/f43/language/sq) | 63 | 63 | 100.0 | /mnt/stockage/packages/f43/libxfce4windowing/po/sq.po | 
+ | [sr](/f43/language/sr) | 63 | 63 | 100.0 | /mnt/stockage/packages/f43/libxfce4windowing/po/sr.po | 
+ | [sv](/f43/language/sv) | 63 | 63 | 100.0 | /mnt/stockage/packages/f43/libxfce4windowing/po/sv.po | 
+ | [tr](/f43/language/tr) | 63 | 63 | 100.0 | /mnt/stockage/packages/f43/libxfce4windowing/po/tr.po | 
+ | [uk](/f43/language/uk) | 63 | 63 | 100.0 | /mnt/stockage/packages/f43/libxfce4windowing/po/uk.po | 
+ | [zh_Hans](/f43/language/zh_Hans) | 63 | 63 | 100.0 | /mnt/stockage/packages/f43/libxfce4windowing/po/zh_CN.po | 
+ | [zh_Hant](/f43/language/zh_Hant) | 63 | 63 | 100.0 | /mnt/stockage/packages/f43/libxfce4windowing/po/zh_TW.po | 
+ | [ga](/f43/language/ga) | 39 | 63 | 61.9 | /mnt/stockage/packages/f43/libxfce4windowing/po/ga.po | 
+ | [hr](/f43/language/hr) | 38 | 63 | 60.3 | /mnt/stockage/packages/f43/libxfce4windowing/po/hr.po | 
 {.sortable}
 
 

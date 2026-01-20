@@ -38,73 +38,73 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [gnome-desktop]({{< ref "/f24/package/gnome-desktop.md" >}}) | 351 | 351 | 100.0 | Lao <lo@li.org> | 
- | [gnome-menus]({{< ref "/f24/package/gnome-menus.md" >}}) | 95 | 95 | 100.0 | Lao <lo@li.org> | 
- | [console-setup]({{< ref "/f24/package/console-setup.md" >}}) | 979 | 983 | 99.6 | Lao <lo@li.org> | 
- | [gnome-desktop3]({{< ref "/f24/package/gnome-desktop3.md" >}}) | 433 | 438 | 98.9 | Lao <lo@li.org> | 
- | [cinnamon-desktop]({{< ref "/f24/package/cinnamon-desktop.md" >}}) | 204 | 231 | 88.3 | Lao <lo@li.org> | 
- | [filezilla]({{< ref "/f24/package/filezilla.md" >}}) | 7892 | 9818 | 80.4 |  | 
- | [mintmenu]({{< ref "/f24/package/mintmenu.md" >}}) | 1403 | 3407 | 41.2 | Lao <lo@li.org> | 
- | [libmx]({{< ref "/f24/package/libmx.md" >}}) | 16 | 40 | 40.0 | Lao <lo@li.org> | 
- | [libreoffice]({{< ref "/f24/package/libreoffice.md" >}}) | 38870 | 100373 | 38.7 | LANGUAGE <LL@li.org> | 
- | [koffice-kivio]({{< ref "/f24/package/koffice-kivio.md" >}}) | 2000 | 8417 | 23.8 | Vilaphone Manivanh <en@li.org> | 
- | [cinnamon-translations]({{< ref "/f24/package/cinnamon-translations.md" >}}) | 2600 | 13551 | 19.2 | Lao <lo@li.org> | 
- | [blueberry]({{< ref "/f24/package/blueberry.md" >}}) | 27 | 141 | 19.1 | Lao <lo@li.org> | 
- | [nemo-extensions]({{< ref "/f24/package/nemo-extensions.md" >}}) | 1 | 8 | 12.5 | Lao <lo@li.org> | 
- | [clamtk]({{< ref "/f24/package/clamtk.md" >}}) | 46 | 464 | 9.9 | Lao <lo@li.org> | 
- | [mate-desktop]({{< ref "/f24/package/mate-desktop.md" >}}) | 165 | 2401 | 6.9 | Lao (http://www.transifex.com/mate/MATE/language/lo/) | 
- | [openerp]({{< ref "/f24/package/openerp.md" >}}) | 429 | 14660 | 2.9 | Lao <lo@li.org> | 
- | [openerp7]({{< ref "/f24/package/openerp7.md" >}}) | 222 | 15634 | 1.4 | Lao <lo@li.org> | 
- | [stellarium]({{< ref "/f24/package/stellarium.md" >}}) | 231 | 23532 | 1.0 | Lao <lo@li.org> | 
- | [openerp-client]({{< ref "/f24/package/openerp-client.md" >}}) | 11 | 7729 | 0.1 | Lao <lo@li.org> | 
- | [abrt]({{< ref "/f24/package/abrt.md" >}}) | 0 | 3230 | 0.0 | Lao (http://www.transifex.com/projects/p/fedora-abrt/language/lo/) | 
- | [authconfig]({{< ref "/f24/package/authconfig.md" >}}) | 0 | 1715 | 0.0 | Lao (http://www.transifex.com/projects/p/fedora/language/lo/) | 
- | [certmonger]({{< ref "/f24/package/certmonger.md" >}}) | 0 | 2478 | 0.0 | Lao (http://www.transifex.com/projects/p/certmonger/language/lo/) | 
- | [chkconfig]({{< ref "/f24/package/chkconfig.md" >}}) | 0 | 487 | 0.0 | LANGUAGE <LL@li.org> | 
- | [cinnamon-control-center]({{< ref "/f24/package/cinnamon-control-center.md" >}}) | 0 | 1313 | 0.0 | none | 
- | [control-center]({{< ref "/f24/package/control-center.md" >}}) | 0 | 1313 | 0.0 | none | 
- | [feedreader]({{< ref "/f24/package/feedreader.md" >}}) | 0 | 0 | 0.0 |  | 
- | [im-chooser]({{< ref "/f24/package/im-chooser.md" >}}) | 0 | 239 | 0.0 | LANGUAGE <LL@li.org> | 
- | [imsettings]({{< ref "/f24/package/imsettings.md" >}}) | 0 | 456 | 0.0 | LANGUAGE <LL@li.org> | 
- | [initial-setup]({{< ref "/f24/package/initial-setup.md" >}}) | 0 | 33 | 0.0 | Lao (http://www.transifex.com/projects/p/initial-setup/language/lo/) | 
- | [initscripts]({{< ref "/f24/package/initscripts.md" >}}) | 0 | 1003 | 0.0 | <XX@li.org> | 
- | [libgxim]({{< ref "/f24/package/libgxim.md" >}}) | 0 | 124 | 0.0 | LANGUAGE <LL@li.org> | 
- | [libmatekbd]({{< ref "/f24/package/libmatekbd.md" >}}) | 0 | 251 | 0.0 | Lao (http://www.transifex.com/mate/MATE/language/lo/) | 
- | [libreport]({{< ref "/f24/package/libreport.md" >}}) | 0 | 3501 | 0.0 | Lao (http://www.transifex.com/projects/p/libreport/language/lo/) | 
- | [mate-user-guide]({{< ref "/f24/package/mate-user-guide.md" >}}) | 0 | 5 | 0.0 | Lao (http://www.transifex.com/mate/MATE/language/lo/) | 
- | [onboard]({{< ref "/f24/package/onboard.md" >}}) | 0 | 2318 | 0.0 | Lao <lo@li.org> | 
- | [oscap-anaconda-addon]({{< ref "/f24/package/oscap-anaconda-addon.md" >}}) | 0 | 194 | 0.0 | Lao (http://www.transifex.com/projects/p/oscap-anaconda-addon/language/lo/) | 
- | [passwd]({{< ref "/f24/package/passwd.md" >}}) | 0 | 315 | 0.0 | LANGUAGE <LL@li.org> | 
- | [policycoreutils]({{< ref "/f24/package/policycoreutils.md" >}}) | 0 | 7678 | 0.0 | Lao (http://www.transifex.com/projects/p/fedora/language/lo/) | 
- | [python-meh]({{< ref "/f24/package/python-meh.md" >}}) | 0 | 109 | 0.0 | Lao (http://www.transifex.com/projects/p/python-meh/language/lo/) | 
- | [redhat-menus]({{< ref "/f24/package/redhat-menus.md" >}}) | 0 | 261 | 0.0 | none | 
- | [rhn-client-tools]({{< ref "/f24/package/rhn-client-tools.md" >}}) | 0 | 4057 | 0.0 | Lao (http://www.transifex.com/projects/p/spacewalk/language/lo/) | 
- | [rhnsd]({{< ref "/f24/package/rhnsd.md" >}}) | 0 | 37 | 0.0 | LANGUAGE <LL@li.org> | 
- | [setroubleshoot]({{< ref "/f24/package/setroubleshoot.md" >}}) | 0 | 656 | 0.0 | Lao (http://www.transifex.com/projects/p/fedora/language/lo/) | 
- | [setroubleshoot-plugins]({{< ref "/f24/package/setroubleshoot-plugins.md" >}}) | 0 | 9830 | 0.0 | Lao (http://www.transifex.com/projects/p/fedora/language/lo/) | 
- | [setuptool]({{< ref "/f24/package/setuptool.md" >}}) | 0 | 55 | 0.0 | none | 
- | [snapper]({{< ref "/f24/package/snapper.md" >}}) | 0 | 743 | 0.0 | Lao <i18n@suse.de> | 
- | [sos]({{< ref "/f24/package/sos.md" >}}) | 0 | 267 | 0.0 | none | 
- | [switchdesk]({{< ref "/f24/package/switchdesk.md" >}}) | 0 | 137 | 0.0 | none | 
- | [system-config-bind]({{< ref "/f24/package/system-config-bind.md" >}}) | 0 | 9419 | 0.0 | none | 
- | [system-config-date]({{< ref "/f24/package/system-config-date.md" >}}) | 0 | 1850 | 0.0 | LANGUAGE <LL@li.org> | 
- | [system-config-date-docs]({{< ref "/f24/package/system-config-date-docs.md" >}}) | 0 | 761 | 0.0 | LANGUAGE <LL@li.org> | 
- | [system-config-firewall]({{< ref "/f24/package/system-config-firewall.md" >}}) | 0 | 2814 | 0.0 | none | 
- | [system-config-httpd]({{< ref "/f24/package/system-config-httpd.md" >}}) | 0 | 858 | 0.0 | none | 
- | [system-config-kdump]({{< ref "/f24/package/system-config-kdump.md" >}}) | 0 | 877 | 0.0 | LANGUAGE <LL@li.org> | 
- | [system-config-keyboard]({{< ref "/f24/package/system-config-keyboard.md" >}}) | 0 | 187 | 0.0 | none | 
- | [system-config-kickstart]({{< ref "/f24/package/system-config-kickstart.md" >}}) | 0 | 1144 | 0.0 | Lao (http://www.transifex.com/projects/p/system-config-kickstart/language/lo/) | 
- | [system-config-network]({{< ref "/f24/package/system-config-network.md" >}}) | 0 | 3032 | 0.0 | none | 
- | [system-config-nfs]({{< ref "/f24/package/system-config-nfs.md" >}}) | 0 | 332 | 0.0 | none | 
- | [system-config-nfs-docs]({{< ref "/f24/package/system-config-nfs-docs.md" >}}) | 0 | 1192 | 0.0 | LANGUAGE <LL@li.org> | 
- | [system-config-rootpassword]({{< ref "/f24/package/system-config-rootpassword.md" >}}) | 0 | 116 | 0.0 | none | 
- | [system-config-samba]({{< ref "/f24/package/system-config-samba.md" >}}) | 0 | 571 | 0.0 | LANGUAGE <LL@li.org> | 
- | [system-config-samba-docs]({{< ref "/f24/package/system-config-samba-docs.md" >}}) | 0 | 1195 | 0.0 | LANGUAGE <LL@li.org> | 
- | [system-config-services]({{< ref "/f24/package/system-config-services.md" >}}) | 0 | 534 | 0.0 | LANGUAGE <LL@li.org> | 
- | [system-config-services-docs]({{< ref "/f24/package/system-config-services-docs.md" >}}) | 0 | 638 | 0.0 | LANGUAGE <LL@li.org> | 
- | [system-config-users-docs]({{< ref "/f24/package/system-config-users-docs.md" >}}) | 0 | 1061 | 0.0 | LANGUAGE <LL@li.org> | 
- | [system-switch-mail]({{< ref "/f24/package/system-switch-mail.md" >}}) | 0 | 134 | 0.0 | none | 
- | [yum-rhn-plugin]({{< ref "/f24/package/yum-rhn-plugin.md" >}}) | 0 | 147 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [gnome-desktop](/f24/package/gnome-desktop) | 351 | 351 | 100.0 | Lao <lo@li.org> | 
+ | [gnome-menus](/f24/package/gnome-menus) | 95 | 95 | 100.0 | Lao <lo@li.org> | 
+ | [console-setup](/f24/package/console-setup) | 979 | 983 | 99.6 | Lao <lo@li.org> | 
+ | [gnome-desktop3](/f24/package/gnome-desktop3) | 433 | 438 | 98.9 | Lao <lo@li.org> | 
+ | [cinnamon-desktop](/f24/package/cinnamon-desktop) | 204 | 231 | 88.3 | Lao <lo@li.org> | 
+ | [filezilla](/f24/package/filezilla) | 7892 | 9818 | 80.4 |  | 
+ | [mintmenu](/f24/package/mintmenu) | 1403 | 3407 | 41.2 | Lao <lo@li.org> | 
+ | [libmx](/f24/package/libmx) | 16 | 40 | 40.0 | Lao <lo@li.org> | 
+ | [libreoffice](/f24/package/libreoffice) | 38870 | 100373 | 38.7 | LANGUAGE <LL@li.org> | 
+ | [koffice-kivio](/f24/package/koffice-kivio) | 2000 | 8417 | 23.8 | Vilaphone Manivanh <en@li.org> | 
+ | [cinnamon-translations](/f24/package/cinnamon-translations) | 2600 | 13551 | 19.2 | Lao <lo@li.org> | 
+ | [blueberry](/f24/package/blueberry) | 27 | 141 | 19.1 | Lao <lo@li.org> | 
+ | [nemo-extensions](/f24/package/nemo-extensions) | 1 | 8 | 12.5 | Lao <lo@li.org> | 
+ | [clamtk](/f24/package/clamtk) | 46 | 464 | 9.9 | Lao <lo@li.org> | 
+ | [mate-desktop](/f24/package/mate-desktop) | 165 | 2401 | 6.9 | Lao (http://www.transifex.com/mate/MATE/language/lo/) | 
+ | [openerp](/f24/package/openerp) | 429 | 14660 | 2.9 | Lao <lo@li.org> | 
+ | [openerp7](/f24/package/openerp7) | 222 | 15634 | 1.4 | Lao <lo@li.org> | 
+ | [stellarium](/f24/package/stellarium) | 231 | 23532 | 1.0 | Lao <lo@li.org> | 
+ | [openerp-client](/f24/package/openerp-client) | 11 | 7729 | 0.1 | Lao <lo@li.org> | 
+ | [abrt](/f24/package/abrt) | 0 | 3230 | 0.0 | Lao (http://www.transifex.com/projects/p/fedora-abrt/language/lo/) | 
+ | [authconfig](/f24/package/authconfig) | 0 | 1715 | 0.0 | Lao (http://www.transifex.com/projects/p/fedora/language/lo/) | 
+ | [certmonger](/f24/package/certmonger) | 0 | 2478 | 0.0 | Lao (http://www.transifex.com/projects/p/certmonger/language/lo/) | 
+ | [chkconfig](/f24/package/chkconfig) | 0 | 487 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [cinnamon-control-center](/f24/package/cinnamon-control-center) | 0 | 1313 | 0.0 | none | 
+ | [control-center](/f24/package/control-center) | 0 | 1313 | 0.0 | none | 
+ | [feedreader](/f24/package/feedreader) | 0 | 0 | 0.0 |  | 
+ | [im-chooser](/f24/package/im-chooser) | 0 | 239 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [imsettings](/f24/package/imsettings) | 0 | 456 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [initial-setup](/f24/package/initial-setup) | 0 | 33 | 0.0 | Lao (http://www.transifex.com/projects/p/initial-setup/language/lo/) | 
+ | [initscripts](/f24/package/initscripts) | 0 | 1003 | 0.0 | <XX@li.org> | 
+ | [libgxim](/f24/package/libgxim) | 0 | 124 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [libmatekbd](/f24/package/libmatekbd) | 0 | 251 | 0.0 | Lao (http://www.transifex.com/mate/MATE/language/lo/) | 
+ | [libreport](/f24/package/libreport) | 0 | 3501 | 0.0 | Lao (http://www.transifex.com/projects/p/libreport/language/lo/) | 
+ | [mate-user-guide](/f24/package/mate-user-guide) | 0 | 5 | 0.0 | Lao (http://www.transifex.com/mate/MATE/language/lo/) | 
+ | [onboard](/f24/package/onboard) | 0 | 2318 | 0.0 | Lao <lo@li.org> | 
+ | [oscap-anaconda-addon](/f24/package/oscap-anaconda-addon) | 0 | 194 | 0.0 | Lao (http://www.transifex.com/projects/p/oscap-anaconda-addon/language/lo/) | 
+ | [passwd](/f24/package/passwd) | 0 | 315 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [policycoreutils](/f24/package/policycoreutils) | 0 | 7678 | 0.0 | Lao (http://www.transifex.com/projects/p/fedora/language/lo/) | 
+ | [python-meh](/f24/package/python-meh) | 0 | 109 | 0.0 | Lao (http://www.transifex.com/projects/p/python-meh/language/lo/) | 
+ | [redhat-menus](/f24/package/redhat-menus) | 0 | 261 | 0.0 | none | 
+ | [rhn-client-tools](/f24/package/rhn-client-tools) | 0 | 4057 | 0.0 | Lao (http://www.transifex.com/projects/p/spacewalk/language/lo/) | 
+ | [rhnsd](/f24/package/rhnsd) | 0 | 37 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [setroubleshoot](/f24/package/setroubleshoot) | 0 | 656 | 0.0 | Lao (http://www.transifex.com/projects/p/fedora/language/lo/) | 
+ | [setroubleshoot-plugins](/f24/package/setroubleshoot-plugins) | 0 | 9830 | 0.0 | Lao (http://www.transifex.com/projects/p/fedora/language/lo/) | 
+ | [setuptool](/f24/package/setuptool) | 0 | 55 | 0.0 | none | 
+ | [snapper](/f24/package/snapper) | 0 | 743 | 0.0 | Lao <i18n@suse.de> | 
+ | [sos](/f24/package/sos) | 0 | 267 | 0.0 | none | 
+ | [switchdesk](/f24/package/switchdesk) | 0 | 137 | 0.0 | none | 
+ | [system-config-bind](/f24/package/system-config-bind) | 0 | 9419 | 0.0 | none | 
+ | [system-config-date](/f24/package/system-config-date) | 0 | 1850 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [system-config-date-docs](/f24/package/system-config-date-docs) | 0 | 761 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [system-config-firewall](/f24/package/system-config-firewall) | 0 | 2814 | 0.0 | none | 
+ | [system-config-httpd](/f24/package/system-config-httpd) | 0 | 858 | 0.0 | none | 
+ | [system-config-kdump](/f24/package/system-config-kdump) | 0 | 877 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [system-config-keyboard](/f24/package/system-config-keyboard) | 0 | 187 | 0.0 | none | 
+ | [system-config-kickstart](/f24/package/system-config-kickstart) | 0 | 1144 | 0.0 | Lao (http://www.transifex.com/projects/p/system-config-kickstart/language/lo/) | 
+ | [system-config-network](/f24/package/system-config-network) | 0 | 3032 | 0.0 | none | 
+ | [system-config-nfs](/f24/package/system-config-nfs) | 0 | 332 | 0.0 | none | 
+ | [system-config-nfs-docs](/f24/package/system-config-nfs-docs) | 0 | 1192 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [system-config-rootpassword](/f24/package/system-config-rootpassword) | 0 | 116 | 0.0 | none | 
+ | [system-config-samba](/f24/package/system-config-samba) | 0 | 571 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [system-config-samba-docs](/f24/package/system-config-samba-docs) | 0 | 1195 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [system-config-services](/f24/package/system-config-services) | 0 | 534 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [system-config-services-docs](/f24/package/system-config-services-docs) | 0 | 638 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [system-config-users-docs](/f24/package/system-config-users-docs) | 0 | 1061 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [system-switch-mail](/f24/package/system-switch-mail) | 0 | 134 | 0.0 | none | 
+ | [yum-rhn-plugin](/f24/package/yum-rhn-plugin) | 0 | 147 | 0.0 | LANGUAGE <LL@li.org> | 
 {.sortable}
 
 

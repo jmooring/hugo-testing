@@ -18,30 +18,30 @@ The package ncmpc (version 0.42):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ko]({{< ref "/f32/language/ko.md" >}}) | 713 | 713 | 100.0 | /mnt/stockage/packages/f32/ncmpc/po/ko.po | 
- | [pt]({{< ref "/f32/language/pt.md" >}}) | 702 | 702 | 100.0 | /mnt/stockage/packages/f32/ncmpc/po/pt.po | 
- | [es]({{< ref "/f32/language/es.md" >}}) | 709 | 713 | 99.4 | /mnt/stockage/packages/f32/ncmpc/po/es.po | 
- | [it]({{< ref "/f32/language/it.md" >}}) | 704 | 713 | 98.7 | /mnt/stockage/packages/f32/ncmpc/po/it.po | 
- | [de]({{< ref "/f32/language/de.md" >}}) | 702 | 713 | 98.5 | /mnt/stockage/packages/f32/ncmpc/po/de.po | 
- | [en]({{< ref "/f32/language/en.md" >}}) | 702 | 713 | 98.5 | /mnt/stockage/packages/f32/ncmpc/po/en.po | 
- | [fr]({{< ref "/f32/language/fr.md" >}}) | 702 | 713 | 98.5 | /mnt/stockage/packages/f32/ncmpc/po/fr.po | 
- | [zh_Hans]({{< ref "/f32/language/zh_Hans.md" >}}) | 702 | 713 | 98.5 | /mnt/stockage/packages/f32/ncmpc/po/zh_CN.po | 
- | [pl]({{< ref "/f32/language/pl.md" >}}) | 701 | 713 | 98.3 | /mnt/stockage/packages/f32/ncmpc/po/pl.po | 
- | [ru]({{< ref "/f32/language/ru.md" >}}) | 698 | 713 | 97.9 | /mnt/stockage/packages/f32/ncmpc/po/ru.po | 
- | [pt_BR]({{< ref "/f32/language/pt_BR.md" >}}) | 687 | 713 | 96.4 | /mnt/stockage/packages/f32/ncmpc/po/pt_BR.po | 
- | [nb_NO]({{< ref "/f32/language/nb_NO.md" >}}) | 657 | 713 | 92.1 | /mnt/stockage/packages/f32/ncmpc/po/nb.po | 
- | [sv]({{< ref "/f32/language/sv.md" >}}) | 603 | 713 | 84.6 | /mnt/stockage/packages/f32/ncmpc/po/sv.po | 
- | [ie]({{< ref "/f32/language/ie.md" >}}) | 560 | 696 | 80.5 | /mnt/stockage/packages/f32/ncmpc/po/ie.po | 
- | [he]({{< ref "/f32/language/he.md" >}}) | 563 | 713 | 79.0 | /mnt/stockage/packages/f32/ncmpc/po/he.po | 
- | [cs]({{< ref "/f32/language/cs.md" >}}) | 561 | 713 | 78.7 | /mnt/stockage/packages/f32/ncmpc/po/cs.po | 
- | [gl]({{< ref "/f32/language/gl.md" >}}) | 554 | 713 | 77.7 | /mnt/stockage/packages/f32/ncmpc/po/gl.po | 
- | [uk]({{< ref "/f32/language/uk.md" >}}) | 554 | 713 | 77.7 | /mnt/stockage/packages/f32/ncmpc/po/uk.po | 
- | [da]({{< ref "/f32/language/da.md" >}}) | 546 | 713 | 76.6 | /mnt/stockage/packages/f32/ncmpc/po/da.po | 
- | [hu]({{< ref "/f32/language/hu.md" >}}) | 546 | 713 | 76.6 | /mnt/stockage/packages/f32/ncmpc/po/hu.po | 
- | [sk]({{< ref "/f32/language/sk.md" >}}) | 546 | 713 | 76.6 | /mnt/stockage/packages/f32/ncmpc/po/sk.po | 
- | [fi]({{< ref "/f32/language/fi.md" >}}) | 213 | 713 | 29.9 | /mnt/stockage/packages/f32/ncmpc/po/fi.po | 
- | [nl]({{< ref "/f32/language/nl.md" >}}) | 96 | 713 | 13.5 | /mnt/stockage/packages/f32/ncmpc/po/nl.po | 
- | [eo]({{< ref "/f32/language/eo.md" >}}) | 15 | 713 | 2.1 | /mnt/stockage/packages/f32/ncmpc/po/eo.po | 
+ | [ko](/f32/language/ko) | 713 | 713 | 100.0 | /mnt/stockage/packages/f32/ncmpc/po/ko.po | 
+ | [pt](/f32/language/pt) | 702 | 702 | 100.0 | /mnt/stockage/packages/f32/ncmpc/po/pt.po | 
+ | [es](/f32/language/es) | 709 | 713 | 99.4 | /mnt/stockage/packages/f32/ncmpc/po/es.po | 
+ | [it](/f32/language/it) | 704 | 713 | 98.7 | /mnt/stockage/packages/f32/ncmpc/po/it.po | 
+ | [de](/f32/language/de) | 702 | 713 | 98.5 | /mnt/stockage/packages/f32/ncmpc/po/de.po | 
+ | [en](/f32/language/en) | 702 | 713 | 98.5 | /mnt/stockage/packages/f32/ncmpc/po/en.po | 
+ | [fr](/f32/language/fr) | 702 | 713 | 98.5 | /mnt/stockage/packages/f32/ncmpc/po/fr.po | 
+ | [zh_Hans](/f32/language/zh_Hans) | 702 | 713 | 98.5 | /mnt/stockage/packages/f32/ncmpc/po/zh_CN.po | 
+ | [pl](/f32/language/pl) | 701 | 713 | 98.3 | /mnt/stockage/packages/f32/ncmpc/po/pl.po | 
+ | [ru](/f32/language/ru) | 698 | 713 | 97.9 | /mnt/stockage/packages/f32/ncmpc/po/ru.po | 
+ | [pt_BR](/f32/language/pt_BR) | 687 | 713 | 96.4 | /mnt/stockage/packages/f32/ncmpc/po/pt_BR.po | 
+ | [nb_NO](/f32/language/nb_NO) | 657 | 713 | 92.1 | /mnt/stockage/packages/f32/ncmpc/po/nb.po | 
+ | [sv](/f32/language/sv) | 603 | 713 | 84.6 | /mnt/stockage/packages/f32/ncmpc/po/sv.po | 
+ | [ie](/f32/language/ie) | 560 | 696 | 80.5 | /mnt/stockage/packages/f32/ncmpc/po/ie.po | 
+ | [he](/f32/language/he) | 563 | 713 | 79.0 | /mnt/stockage/packages/f32/ncmpc/po/he.po | 
+ | [cs](/f32/language/cs) | 561 | 713 | 78.7 | /mnt/stockage/packages/f32/ncmpc/po/cs.po | 
+ | [gl](/f32/language/gl) | 554 | 713 | 77.7 | /mnt/stockage/packages/f32/ncmpc/po/gl.po | 
+ | [uk](/f32/language/uk) | 554 | 713 | 77.7 | /mnt/stockage/packages/f32/ncmpc/po/uk.po | 
+ | [da](/f32/language/da) | 546 | 713 | 76.6 | /mnt/stockage/packages/f32/ncmpc/po/da.po | 
+ | [hu](/f32/language/hu) | 546 | 713 | 76.6 | /mnt/stockage/packages/f32/ncmpc/po/hu.po | 
+ | [sk](/f32/language/sk) | 546 | 713 | 76.6 | /mnt/stockage/packages/f32/ncmpc/po/sk.po | 
+ | [fi](/f32/language/fi) | 213 | 713 | 29.9 | /mnt/stockage/packages/f32/ncmpc/po/fi.po | 
+ | [nl](/f32/language/nl) | 96 | 713 | 13.5 | /mnt/stockage/packages/f32/ncmpc/po/nl.po | 
+ | [eo](/f32/language/eo) | 15 | 713 | 2.1 | /mnt/stockage/packages/f32/ncmpc/po/eo.po | 
 {.sortable}
 
 

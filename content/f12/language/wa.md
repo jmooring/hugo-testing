@@ -38,128 +38,128 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [ORBit]({{< ref "/f12/package/ORBit.md" >}}) | 8 | 8 | 100.0 | walon <linux-wa@chanae.alphanet.ch> | 
- | [anerley]({{< ref "/f12/package/anerley.md" >}}) | 5 | 5 | 100.0 | Walloon <linux-wa@walon.org> | 
- | [anjal]({{< ref "/f12/package/anjal.md" >}}) | 753 | 753 | 100.0 | Walloon <linux-wa@walon.org> | 
- | [at-spi]({{< ref "/f12/package/at-spi.md" >}}) | 4 | 4 | 100.0 | Walloon <linux-wa@walon.org> | 
- | [atomix]({{< ref "/f12/package/atomix.md" >}}) | 125 | 125 | 100.0 | Walloon <linux-wa@walon.org> | 
- | [bisho]({{< ref "/f12/package/bisho.md" >}}) | 131 | 131 | 100.0 | Walloon <linux-wa@walon.org> | 
- | [bognor-regis]({{< ref "/f12/package/bognor-regis.md" >}}) | 27 | 27 | 100.0 | Walloon <linux-wa@walon.org> | 
- | [dalston]({{< ref "/f12/package/dalston.md" >}}) | 266 | 266 | 100.0 | Walloon <linux-wa@walon.org> | 
- | [dialog]({{< ref "/f12/package/dialog.md" >}}) | 25 | 25 | 100.0 | Walloon <linux-wa@walon.org> | 
- | [eog]({{< ref "/f12/package/eog.md" >}}) | 819 | 819 | 100.0 | Walloon <linux-wa@walon.org> | 
- | [evince]({{< ref "/f12/package/evince.md" >}}) | 601 | 601 | 100.0 | Walloon <linux-wa@walon.org> | 
- | [gedit-plugins]({{< ref "/f12/package/gedit-plugins.md" >}}) | 281 | 281 | 100.0 | Walloon <linux-wa@walon.org> | 
- | [ggz-gtk-client]({{< ref "/f12/package/ggz-gtk-client.md" >}}) | 5 | 5 | 100.0 | Walon <linux-wa@chanae.alphanet.ch> | 
- | [ghex]({{< ref "/f12/package/ghex.md" >}}) | 966 | 966 | 100.0 | Walloon <linux-wa@walon.org> | 
- | [glunarclock]({{< ref "/f12/package/glunarclock.md" >}}) | 226 | 226 | 100.0 | Walloon <linux-wa@walon.org> | 
- | [gnome-libs]({{< ref "/f12/package/gnome-libs.md" >}}) | 1085 | 1085 | 100.0 | walon <linux-wa@chanae.alphanet.ch> | 
- | [gnome-session]({{< ref "/f12/package/gnome-session.md" >}}) | 533 | 533 | 100.0 | Walloon <linux-wa@walon.org> | 
- | [gnome-themes]({{< ref "/f12/package/gnome-themes.md" >}}) | 101 | 101 | 100.0 | Walloon <linux-wa@walon.org> | 
- | [gtk+]({{< ref "/f12/package/gtk+.md" >}}) | 202 | 202 | 100.0 | walon <linux-wa@chanae.alphanet.ch> | 
- | [gtkspell]({{< ref "/f12/package/gtkspell.md" >}}) | 11 | 11 | 100.0 | Walloon <linux-wa@walon.org> | 
- | [gtranslator]({{< ref "/f12/package/gtranslator.md" >}}) | 1422 | 1422 | 100.0 | Walloon <linux-wa@walon.org> | 
- | [gucharmap]({{< ref "/f12/package/gucharmap.md" >}}) | 552 | 552 | 100.0 | Walloon <linux-wa@walon.org> | 
- | [libgnomecups]({{< ref "/f12/package/libgnomecups.md" >}}) | 210 | 210 | 100.0 | Walloon <linux-wa@walon.org> | 
- | [libgnomeprint22]({{< ref "/f12/package/libgnomeprint22.md" >}}) | 168 | 168 | 100.0 | Walloon <linux-wa@walon.org> | 
- | [moblin-panel-media]({{< ref "/f12/package/moblin-panel-media.md" >}}) | 55 | 55 | 100.0 | Walloon <linux-wa@walon.org> | 
- | [moblin-panel-myzone]({{< ref "/f12/package/moblin-panel-myzone.md" >}}) | 66 | 66 | 100.0 | Walloon <linux-wa@walon.org> | 
- | [moblin-panel-people]({{< ref "/f12/package/moblin-panel-people.md" >}}) | 68 | 68 | 100.0 | Walloon <linux-wa@walon.org> | 
- | [mojito]({{< ref "/f12/package/mojito.md" >}}) | 136 | 136 | 100.0 | Walloon <linux-wa@walon.org> | 
- | [skanlite]({{< ref "/f12/package/skanlite.md" >}}) | 142 | 142 | 100.0 | Walloon <linux-wa@walon.org> | 
- | [vte]({{< ref "/f12/package/vte.md" >}}) | 96 | 96 | 100.0 | Walloon <linux-wa@walon.org> | 
- | [yelp]({{< ref "/f12/package/yelp.md" >}}) | 957 | 957 | 100.0 | Walloon <linux-wa@walon.org> | 
- | [epiphany-extensions]({{< ref "/f12/package/epiphany-extensions.md" >}}) | 687 | 694 | 99.0 | Walloon <linux-wa@walon.org> | 
- | [gnome-desktop]({{< ref "/f12/package/gnome-desktop.md" >}}) | 316 | 320 | 98.8 | Walon <linux-wa@chanae.alphanet.ch> | 
- | [libgnomeprintui22]({{< ref "/f12/package/libgnomeprintui22.md" >}}) | 410 | 427 | 96.0 | Walloon <linux-wa@walon.org> | 
- | [libgnomecanvas]({{< ref "/f12/package/libgnomecanvas.md" >}}) | 328 | 357 | 91.9 | Walloon <linux-wa@walon.org> | 
- | [kiconedit]({{< ref "/f12/package/kiconedit.md" >}}) | 666 | 726 | 91.7 | Walloon <linux-wa@walon.org> | 
- | [mingw32-iconv]({{< ref "/f12/package/mingw32-iconv.md" >}}) | 303 | 336 | 90.2 | Walloon <linux-wa@walon.org> | 
- | [gnome-mime-data]({{< ref "/f12/package/gnome-mime-data.md" >}}) | 790 | 887 | 89.1 | Walloon <linux-wa@walon.org> | 
- | [gnome-terminal]({{< ref "/f12/package/gnome-terminal.md" >}}) | 3936 | 4595 | 85.7 | Walloon <linux-wa@walon.org> | 
- | [gnome-pilot-conduits]({{< ref "/f12/package/gnome-pilot-conduits.md" >}}) | 177 | 209 | 84.7 | Walloon <linux-wa@walon.org> | 
- | [libgnomeui]({{< ref "/f12/package/libgnomeui.md" >}}) | 1189 | 1419 | 83.8 | Walloon <linux-wa@walon.org> | 
- | [yakuake]({{< ref "/f12/package/yakuake.md" >}}) | 988 | 1288 | 76.7 | Walloon <linux@walon.org> | 
- | [ejabberd]({{< ref "/f12/package/ejabberd.md" >}}) | 1141 | 1503 | 75.9 |  | 
- | [poedit]({{< ref "/f12/package/poedit.md" >}}) | 854 | 1162 | 73.5 | Walloon <linux-wa@walon.org> | 
- | [vino]({{< ref "/f12/package/vino.md" >}}) | 392 | 540 | 72.6 | Walloon <linux-wa@walon.org> | 
- | [tuxpaint]({{< ref "/f12/package/tuxpaint.md" >}}) | 552 | 761 | 72.5 | Walloon <linux-wa@walon.org> | 
- | [galeon]({{< ref "/f12/package/galeon.md" >}}) | 3814 | 5737 | 66.5 | Walloon <linux-wa@walon.org> | 
- | [kde-plasma-networkmanagement]({{< ref "/f12/package/kde-plasma-networkmanagement.md" >}}) | 1328 | 2039 | 65.1 | Walloon <linux-wa@walon.org> | 
- | [eel2]({{< ref "/f12/package/eel2.md" >}}) | 149 | 235 | 63.4 | Walloon <linux-wa@walon.org> | 
- | [xmms]({{< ref "/f12/package/xmms.md" >}}) | 2157 | 3443 | 62.6 | Walon <linux-wa@chanae.alphanet.ch> | 
- | [hornsey]({{< ref "/f12/package/hornsey.md" >}}) | 59 | 95 | 62.1 | LANGUAGE <LL@li.org> | 
- | [aspell]({{< ref "/f12/package/aspell.md" >}}) | 982 | 1726 | 56.9 | Walloon <linux-wa@walon.org> | 
- | [gnome-icon-theme]({{< ref "/f12/package/gnome-icon-theme.md" >}}) | 28 | 52 | 53.8 | Walon <linux-wa@walon.org> | 
- | [gnome-media]({{< ref "/f12/package/gnome-media.md" >}}) | 966 | 1795 | 53.8 | Walloon <linux-wa@walon.org> | 
- | [ekiga]({{< ref "/f12/package/ekiga.md" >}}) | 1564 | 2924 | 53.5 | Walon <linux-wa@chanae.alphanet.ch> | 
- | [pootle]({{< ref "/f12/package/pootle.md" >}}) | 563 | 1119 | 50.3 | Walloon <linux-wa@walon.org> | 
- | [gedit]({{< ref "/f12/package/gedit.md" >}}) | 2030 | 4206 | 48.3 | Walloon <linux-wa@walon.org> | 
- | [libbonoboui]({{< ref "/f12/package/libbonoboui.md" >}}) | 157 | 360 | 43.6 | walon <linux-wa@chanae.alphanet.ch> | 
- | [balsa]({{< ref "/f12/package/balsa.md" >}}) | 2428 | 5638 | 43.1 | Walloon <linux-wa@walon.org> | 
- | [epiphany]({{< ref "/f12/package/epiphany.md" >}}) | 1137 | 2732 | 41.6 | Walloon <linux-wa@walon.org> | 
- | [libwnck]({{< ref "/f12/package/libwnck.md" >}}) | 30 | 73 | 41.1 | Walon <linux-wa@chanae.alphanet.ch> | 
- | [libgnome]({{< ref "/f12/package/libgnome.md" >}}) | 554 | 1407 | 39.4 | Walloon <linux-wa@walon.org> | 
- | [atk]({{< ref "/f12/package/atk.md" >}}) | 142 | 375 | 37.9 | Walloon <linux-wa@walon.org> | 
- | [mingw32-atk]({{< ref "/f12/package/mingw32-atk.md" >}}) | 142 | 375 | 37.9 | Walloon <linux-wa@walon.org> | 
- | [libbonobo]({{< ref "/f12/package/libbonobo.md" >}}) | 163 | 524 | 31.1 | Walloon <linux-wa@walon.org> | 
- | [gnome-nettool]({{< ref "/f12/package/gnome-nettool.md" >}}) | 157 | 520 | 30.2 | walon <linux-wa@chanae.alphanet.ch> | 
- | [NetworkManager]({{< ref "/f12/package/NetworkManager.md" >}}) | 32 | 112 | 28.6 | Walloon <linux-wa@walon.org> | 
- | [mingw32-gtk2]({{< ref "/f12/package/mingw32-gtk2.md" >}}) | 3693 | 13351 | 27.7 | Walloon <linux-wa@walon.org> | 
- | [gtk2]({{< ref "/f12/package/gtk2.md" >}}) | 3693 | 13358 | 27.6 | Walloon <linux-wa@walon.org> | 
- | [gnome-netstatus]({{< ref "/f12/package/gnome-netstatus.md" >}}) | 101 | 417 | 24.2 | walon <linux-wa@chanae.alphanet.ch> | 
- | [gnome-vfs2]({{< ref "/f12/package/gnome-vfs2.md" >}}) | 308 | 1282 | 24.0 | Walloon <linux-wa@walon.org> | 
- | [totem]({{< ref "/f12/package/totem.md" >}}) | 341 | 1552 | 22.0 | Walloon <linux-wa@walon.org> | 
- | [totem-pl-parser]({{< ref "/f12/package/totem-pl-parser.md" >}}) | 341 | 1552 | 22.0 | Walloon <linux-wa@walon.org> | 
- | [nautilus]({{< ref "/f12/package/nautilus.md" >}}) | 1435 | 7205 | 19.9 | Walloon <linux-wa@walon.org> | 
- | [gnome-utils]({{< ref "/f12/package/gnome-utils.md" >}}) | 433 | 2616 | 16.6 | Walon <linux-wa@chanae.alphanet.ch> | 
- | [gdm]({{< ref "/f12/package/gdm.md" >}}) | 808 | 4964 | 16.3 | walon <linux-wa@chanae.alphanet.ch> | 
- | [xchat-gnome]({{< ref "/f12/package/xchat-gnome.md" >}}) | 523 | 3901 | 13.4 | Walloon <linux-wa@walon.org> | 
- | [libgweather]({{< ref "/f12/package/libgweather.md" >}}) | 57 | 460 | 12.4 | Walon <linux-wa@chanae.alphanet.ch> | 
- | [gnome-applets]({{< ref "/f12/package/gnome-applets.md" >}}) | 613 | 5142 | 11.9 | Walon <linux-wa@chanae.alphanet.ch> | 
- | [popt]({{< ref "/f12/package/popt.md" >}}) | 8 | 75 | 10.7 | walon <linux-wa@chanae.alphanet.ch> | 
- | [iso-codes]({{< ref "/f12/package/iso-codes.md" >}}) | 1965 | 18526 | 10.6 | Walloon <linux-wa@walon.org> | 
- | [glib2]({{< ref "/f12/package/glib2.md" >}}) | 242 | 2453 | 9.9 | Walloon <linux-wa@walon.org> | 
- | [mingw32-glib2]({{< ref "/f12/package/mingw32-glib2.md" >}}) | 242 | 2463 | 9.8 | Walloon <linux-wa@walon.org> | 
- | [gnome-doc-utils]({{< ref "/f12/package/gnome-doc-utils.md" >}}) | 19 | 199 | 9.5 | Walloon <linux-wa@walon.org> | 
- | [gnome-panel]({{< ref "/f12/package/gnome-panel.md" >}}) | 365 | 3937 | 9.3 | Walon <linux-wa@chanae.stben.be> | 
- | [gnome-games]({{< ref "/f12/package/gnome-games.md" >}}) | 648 | 7066 | 9.2 | Walon <linux-wa@chanae.alphanet.ch> | 
- | [metacity]({{< ref "/f12/package/metacity.md" >}}) | 604 | 6919 | 8.7 | Walon <linux-wa@walon.org> | 
- | [mutter]({{< ref "/f12/package/mutter.md" >}}) | 604 | 6919 | 8.7 | Walon <linux-wa@walon.org> | 
- | [control-center]({{< ref "/f12/package/control-center.md" >}}) | 273 | 3382 | 8.1 | Walon <linux-wa@chanae.alphanet.ch> | 
- | [evolution-data-server]({{< ref "/f12/package/evolution-data-server.md" >}}) | 866 | 17070 | 5.1 | Walloon <linux-wa@walon.org> | 
- | [xscreensaver]({{< ref "/f12/package/xscreensaver.md" >}}) | 542 | 11190 | 4.8 | Walon <linux-wa@chanae.alphanet.ch> | 
- | [evolution]({{< ref "/f12/package/evolution.md" >}}) | 826 | 17202 | 4.8 | Walloon <linux-wa@walon.org> | 
- | [gnotime]({{< ref "/f12/package/gnotime.md" >}}) | 79 | 2008 | 3.9 | walon <linux-wa@chanae.alphanet.ch> | 
- | [gcompris]({{< ref "/f12/package/gcompris.md" >}}) | 118 | 3921 | 3.0 | Walloon <linux-wa@walon.org> | 
- | [sugar-turtleart]({{< ref "/f12/package/sugar-turtleart.md" >}}) | 2 | 78 | 2.6 | LANGUAGE <LL@li.org> | 
- | [gnome-settings-daemon]({{< ref "/f12/package/gnome-settings-daemon.md" >}}) | 18 | 1034 | 1.7 | Walon <linux-wa@chanae.alphanet.ch> | 
- | [pychess]({{< ref "/f12/package/pychess.md" >}}) | 12 | 1671 | 0.7 | Walloon <wa@li.org> | 
- | [system-config-httpd]({{< ref "/f12/package/system-config-httpd.md" >}}) | 2 | 858 | 0.2 | <wa@li.org> | 
- | [authconfig]({{< ref "/f12/package/authconfig.md" >}}) | 0 | 1357 | 0.0 | English <en@li.org> | 
- | [initscripts]({{< ref "/f12/package/initscripts.md" >}}) | 0 | 4243 | 0.0 | <XX@li.org> | 
- | [olpc-switch-desktop]({{< ref "/f12/package/olpc-switch-desktop.md" >}}) | 0 | 158 | 0.0 | LANGUAGE <LL@li.org> | 
- | [passwd]({{< ref "/f12/package/passwd.md" >}}) | 0 | 299 | 0.0 | none | 
- | [sugar-browse]({{< ref "/f12/package/sugar-browse.md" >}}) | 0 | 55 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-calculator]({{< ref "/f12/package/sugar-calculator.md" >}}) | 0 | 565 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-chat]({{< ref "/f12/package/sugar-chat.md" >}}) | 0 | 26 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-finance]({{< ref "/f12/package/sugar-finance.md" >}}) | 0 | 142 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-imageviewer]({{< ref "/f12/package/sugar-imageviewer.md" >}}) | 0 | 17 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-infoslicer]({{< ref "/f12/package/sugar-infoslicer.md" >}}) | 0 | 177 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-jukebox]({{< ref "/f12/package/sugar-jukebox.md" >}}) | 0 | 10 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-log]({{< ref "/f12/package/sugar-log.md" >}}) | 0 | 100 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-memorize]({{< ref "/f12/package/sugar-memorize.md" >}}) | 0 | 50 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-physics]({{< ref "/f12/package/sugar-physics.md" >}}) | 0 | 22 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-pippy]({{< ref "/f12/package/sugar-pippy.md" >}}) | 0 | 52 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-read]({{< ref "/f12/package/sugar-read.md" >}}) | 0 | 28 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-record]({{< ref "/f12/package/sugar-record.md" >}}) | 0 | 137 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-terminal]({{< ref "/f12/package/sugar-terminal.md" >}}) | 0 | 6 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-view-slides]({{< ref "/f12/package/sugar-view-slides.md" >}}) | 0 | 7 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-visualmatch]({{< ref "/f12/package/sugar-visualmatch.md" >}}) | 0 | 58 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-write]({{< ref "/f12/package/sugar-write.md" >}}) | 0 | 69 | 0.0 | LANGUAGE <LL@li.org> | 
- | [switchdesk]({{< ref "/f12/package/switchdesk.md" >}}) | 0 | 137 | 0.0 | <en@li.org> | 
- | [tuxpaint-stamps]({{< ref "/f12/package/tuxpaint-stamps.md" >}}) | 0 | 2617 | 0.0 |  | 
- | [vidalia]({{< ref "/f12/package/vidalia.md" >}}) | 0 | 9310 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [ORBit](/f12/package/ORBit) | 8 | 8 | 100.0 | walon <linux-wa@chanae.alphanet.ch> | 
+ | [anerley](/f12/package/anerley) | 5 | 5 | 100.0 | Walloon <linux-wa@walon.org> | 
+ | [anjal](/f12/package/anjal) | 753 | 753 | 100.0 | Walloon <linux-wa@walon.org> | 
+ | [at-spi](/f12/package/at-spi) | 4 | 4 | 100.0 | Walloon <linux-wa@walon.org> | 
+ | [atomix](/f12/package/atomix) | 125 | 125 | 100.0 | Walloon <linux-wa@walon.org> | 
+ | [bisho](/f12/package/bisho) | 131 | 131 | 100.0 | Walloon <linux-wa@walon.org> | 
+ | [bognor-regis](/f12/package/bognor-regis) | 27 | 27 | 100.0 | Walloon <linux-wa@walon.org> | 
+ | [dalston](/f12/package/dalston) | 266 | 266 | 100.0 | Walloon <linux-wa@walon.org> | 
+ | [dialog](/f12/package/dialog) | 25 | 25 | 100.0 | Walloon <linux-wa@walon.org> | 
+ | [eog](/f12/package/eog) | 819 | 819 | 100.0 | Walloon <linux-wa@walon.org> | 
+ | [evince](/f12/package/evince) | 601 | 601 | 100.0 | Walloon <linux-wa@walon.org> | 
+ | [gedit-plugins](/f12/package/gedit-plugins) | 281 | 281 | 100.0 | Walloon <linux-wa@walon.org> | 
+ | [ggz-gtk-client](/f12/package/ggz-gtk-client) | 5 | 5 | 100.0 | Walon <linux-wa@chanae.alphanet.ch> | 
+ | [ghex](/f12/package/ghex) | 966 | 966 | 100.0 | Walloon <linux-wa@walon.org> | 
+ | [glunarclock](/f12/package/glunarclock) | 226 | 226 | 100.0 | Walloon <linux-wa@walon.org> | 
+ | [gnome-libs](/f12/package/gnome-libs) | 1085 | 1085 | 100.0 | walon <linux-wa@chanae.alphanet.ch> | 
+ | [gnome-session](/f12/package/gnome-session) | 533 | 533 | 100.0 | Walloon <linux-wa@walon.org> | 
+ | [gnome-themes](/f12/package/gnome-themes) | 101 | 101 | 100.0 | Walloon <linux-wa@walon.org> | 
+ | [gtk+](/f12/package/gtk+) | 202 | 202 | 100.0 | walon <linux-wa@chanae.alphanet.ch> | 
+ | [gtkspell](/f12/package/gtkspell) | 11 | 11 | 100.0 | Walloon <linux-wa@walon.org> | 
+ | [gtranslator](/f12/package/gtranslator) | 1422 | 1422 | 100.0 | Walloon <linux-wa@walon.org> | 
+ | [gucharmap](/f12/package/gucharmap) | 552 | 552 | 100.0 | Walloon <linux-wa@walon.org> | 
+ | [libgnomecups](/f12/package/libgnomecups) | 210 | 210 | 100.0 | Walloon <linux-wa@walon.org> | 
+ | [libgnomeprint22](/f12/package/libgnomeprint22) | 168 | 168 | 100.0 | Walloon <linux-wa@walon.org> | 
+ | [moblin-panel-media](/f12/package/moblin-panel-media) | 55 | 55 | 100.0 | Walloon <linux-wa@walon.org> | 
+ | [moblin-panel-myzone](/f12/package/moblin-panel-myzone) | 66 | 66 | 100.0 | Walloon <linux-wa@walon.org> | 
+ | [moblin-panel-people](/f12/package/moblin-panel-people) | 68 | 68 | 100.0 | Walloon <linux-wa@walon.org> | 
+ | [mojito](/f12/package/mojito) | 136 | 136 | 100.0 | Walloon <linux-wa@walon.org> | 
+ | [skanlite](/f12/package/skanlite) | 142 | 142 | 100.0 | Walloon <linux-wa@walon.org> | 
+ | [vte](/f12/package/vte) | 96 | 96 | 100.0 | Walloon <linux-wa@walon.org> | 
+ | [yelp](/f12/package/yelp) | 957 | 957 | 100.0 | Walloon <linux-wa@walon.org> | 
+ | [epiphany-extensions](/f12/package/epiphany-extensions) | 687 | 694 | 99.0 | Walloon <linux-wa@walon.org> | 
+ | [gnome-desktop](/f12/package/gnome-desktop) | 316 | 320 | 98.8 | Walon <linux-wa@chanae.alphanet.ch> | 
+ | [libgnomeprintui22](/f12/package/libgnomeprintui22) | 410 | 427 | 96.0 | Walloon <linux-wa@walon.org> | 
+ | [libgnomecanvas](/f12/package/libgnomecanvas) | 328 | 357 | 91.9 | Walloon <linux-wa@walon.org> | 
+ | [kiconedit](/f12/package/kiconedit) | 666 | 726 | 91.7 | Walloon <linux-wa@walon.org> | 
+ | [mingw32-iconv](/f12/package/mingw32-iconv) | 303 | 336 | 90.2 | Walloon <linux-wa@walon.org> | 
+ | [gnome-mime-data](/f12/package/gnome-mime-data) | 790 | 887 | 89.1 | Walloon <linux-wa@walon.org> | 
+ | [gnome-terminal](/f12/package/gnome-terminal) | 3936 | 4595 | 85.7 | Walloon <linux-wa@walon.org> | 
+ | [gnome-pilot-conduits](/f12/package/gnome-pilot-conduits) | 177 | 209 | 84.7 | Walloon <linux-wa@walon.org> | 
+ | [libgnomeui](/f12/package/libgnomeui) | 1189 | 1419 | 83.8 | Walloon <linux-wa@walon.org> | 
+ | [yakuake](/f12/package/yakuake) | 988 | 1288 | 76.7 | Walloon <linux@walon.org> | 
+ | [ejabberd](/f12/package/ejabberd) | 1141 | 1503 | 75.9 |  | 
+ | [poedit](/f12/package/poedit) | 854 | 1162 | 73.5 | Walloon <linux-wa@walon.org> | 
+ | [vino](/f12/package/vino) | 392 | 540 | 72.6 | Walloon <linux-wa@walon.org> | 
+ | [tuxpaint](/f12/package/tuxpaint) | 552 | 761 | 72.5 | Walloon <linux-wa@walon.org> | 
+ | [galeon](/f12/package/galeon) | 3814 | 5737 | 66.5 | Walloon <linux-wa@walon.org> | 
+ | [kde-plasma-networkmanagement](/f12/package/kde-plasma-networkmanagement) | 1328 | 2039 | 65.1 | Walloon <linux-wa@walon.org> | 
+ | [eel2](/f12/package/eel2) | 149 | 235 | 63.4 | Walloon <linux-wa@walon.org> | 
+ | [xmms](/f12/package/xmms) | 2157 | 3443 | 62.6 | Walon <linux-wa@chanae.alphanet.ch> | 
+ | [hornsey](/f12/package/hornsey) | 59 | 95 | 62.1 | LANGUAGE <LL@li.org> | 
+ | [aspell](/f12/package/aspell) | 982 | 1726 | 56.9 | Walloon <linux-wa@walon.org> | 
+ | [gnome-icon-theme](/f12/package/gnome-icon-theme) | 28 | 52 | 53.8 | Walon <linux-wa@walon.org> | 
+ | [gnome-media](/f12/package/gnome-media) | 966 | 1795 | 53.8 | Walloon <linux-wa@walon.org> | 
+ | [ekiga](/f12/package/ekiga) | 1564 | 2924 | 53.5 | Walon <linux-wa@chanae.alphanet.ch> | 
+ | [pootle](/f12/package/pootle) | 563 | 1119 | 50.3 | Walloon <linux-wa@walon.org> | 
+ | [gedit](/f12/package/gedit) | 2030 | 4206 | 48.3 | Walloon <linux-wa@walon.org> | 
+ | [libbonoboui](/f12/package/libbonoboui) | 157 | 360 | 43.6 | walon <linux-wa@chanae.alphanet.ch> | 
+ | [balsa](/f12/package/balsa) | 2428 | 5638 | 43.1 | Walloon <linux-wa@walon.org> | 
+ | [epiphany](/f12/package/epiphany) | 1137 | 2732 | 41.6 | Walloon <linux-wa@walon.org> | 
+ | [libwnck](/f12/package/libwnck) | 30 | 73 | 41.1 | Walon <linux-wa@chanae.alphanet.ch> | 
+ | [libgnome](/f12/package/libgnome) | 554 | 1407 | 39.4 | Walloon <linux-wa@walon.org> | 
+ | [atk](/f12/package/atk) | 142 | 375 | 37.9 | Walloon <linux-wa@walon.org> | 
+ | [mingw32-atk](/f12/package/mingw32-atk) | 142 | 375 | 37.9 | Walloon <linux-wa@walon.org> | 
+ | [libbonobo](/f12/package/libbonobo) | 163 | 524 | 31.1 | Walloon <linux-wa@walon.org> | 
+ | [gnome-nettool](/f12/package/gnome-nettool) | 157 | 520 | 30.2 | walon <linux-wa@chanae.alphanet.ch> | 
+ | [NetworkManager](/f12/package/NetworkManager) | 32 | 112 | 28.6 | Walloon <linux-wa@walon.org> | 
+ | [mingw32-gtk2](/f12/package/mingw32-gtk2) | 3693 | 13351 | 27.7 | Walloon <linux-wa@walon.org> | 
+ | [gtk2](/f12/package/gtk2) | 3693 | 13358 | 27.6 | Walloon <linux-wa@walon.org> | 
+ | [gnome-netstatus](/f12/package/gnome-netstatus) | 101 | 417 | 24.2 | walon <linux-wa@chanae.alphanet.ch> | 
+ | [gnome-vfs2](/f12/package/gnome-vfs2) | 308 | 1282 | 24.0 | Walloon <linux-wa@walon.org> | 
+ | [totem](/f12/package/totem) | 341 | 1552 | 22.0 | Walloon <linux-wa@walon.org> | 
+ | [totem-pl-parser](/f12/package/totem-pl-parser) | 341 | 1552 | 22.0 | Walloon <linux-wa@walon.org> | 
+ | [nautilus](/f12/package/nautilus) | 1435 | 7205 | 19.9 | Walloon <linux-wa@walon.org> | 
+ | [gnome-utils](/f12/package/gnome-utils) | 433 | 2616 | 16.6 | Walon <linux-wa@chanae.alphanet.ch> | 
+ | [gdm](/f12/package/gdm) | 808 | 4964 | 16.3 | walon <linux-wa@chanae.alphanet.ch> | 
+ | [xchat-gnome](/f12/package/xchat-gnome) | 523 | 3901 | 13.4 | Walloon <linux-wa@walon.org> | 
+ | [libgweather](/f12/package/libgweather) | 57 | 460 | 12.4 | Walon <linux-wa@chanae.alphanet.ch> | 
+ | [gnome-applets](/f12/package/gnome-applets) | 613 | 5142 | 11.9 | Walon <linux-wa@chanae.alphanet.ch> | 
+ | [popt](/f12/package/popt) | 8 | 75 | 10.7 | walon <linux-wa@chanae.alphanet.ch> | 
+ | [iso-codes](/f12/package/iso-codes) | 1965 | 18526 | 10.6 | Walloon <linux-wa@walon.org> | 
+ | [glib2](/f12/package/glib2) | 242 | 2453 | 9.9 | Walloon <linux-wa@walon.org> | 
+ | [mingw32-glib2](/f12/package/mingw32-glib2) | 242 | 2463 | 9.8 | Walloon <linux-wa@walon.org> | 
+ | [gnome-doc-utils](/f12/package/gnome-doc-utils) | 19 | 199 | 9.5 | Walloon <linux-wa@walon.org> | 
+ | [gnome-panel](/f12/package/gnome-panel) | 365 | 3937 | 9.3 | Walon <linux-wa@chanae.stben.be> | 
+ | [gnome-games](/f12/package/gnome-games) | 648 | 7066 | 9.2 | Walon <linux-wa@chanae.alphanet.ch> | 
+ | [metacity](/f12/package/metacity) | 604 | 6919 | 8.7 | Walon <linux-wa@walon.org> | 
+ | [mutter](/f12/package/mutter) | 604 | 6919 | 8.7 | Walon <linux-wa@walon.org> | 
+ | [control-center](/f12/package/control-center) | 273 | 3382 | 8.1 | Walon <linux-wa@chanae.alphanet.ch> | 
+ | [evolution-data-server](/f12/package/evolution-data-server) | 866 | 17070 | 5.1 | Walloon <linux-wa@walon.org> | 
+ | [xscreensaver](/f12/package/xscreensaver) | 542 | 11190 | 4.8 | Walon <linux-wa@chanae.alphanet.ch> | 
+ | [evolution](/f12/package/evolution) | 826 | 17202 | 4.8 | Walloon <linux-wa@walon.org> | 
+ | [gnotime](/f12/package/gnotime) | 79 | 2008 | 3.9 | walon <linux-wa@chanae.alphanet.ch> | 
+ | [gcompris](/f12/package/gcompris) | 118 | 3921 | 3.0 | Walloon <linux-wa@walon.org> | 
+ | [sugar-turtleart](/f12/package/sugar-turtleart) | 2 | 78 | 2.6 | LANGUAGE <LL@li.org> | 
+ | [gnome-settings-daemon](/f12/package/gnome-settings-daemon) | 18 | 1034 | 1.7 | Walon <linux-wa@chanae.alphanet.ch> | 
+ | [pychess](/f12/package/pychess) | 12 | 1671 | 0.7 | Walloon <wa@li.org> | 
+ | [system-config-httpd](/f12/package/system-config-httpd) | 2 | 858 | 0.2 | <wa@li.org> | 
+ | [authconfig](/f12/package/authconfig) | 0 | 1357 | 0.0 | English <en@li.org> | 
+ | [initscripts](/f12/package/initscripts) | 0 | 4243 | 0.0 | <XX@li.org> | 
+ | [olpc-switch-desktop](/f12/package/olpc-switch-desktop) | 0 | 158 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [passwd](/f12/package/passwd) | 0 | 299 | 0.0 | none | 
+ | [sugar-browse](/f12/package/sugar-browse) | 0 | 55 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-calculator](/f12/package/sugar-calculator) | 0 | 565 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-chat](/f12/package/sugar-chat) | 0 | 26 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-finance](/f12/package/sugar-finance) | 0 | 142 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-imageviewer](/f12/package/sugar-imageviewer) | 0 | 17 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-infoslicer](/f12/package/sugar-infoslicer) | 0 | 177 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-jukebox](/f12/package/sugar-jukebox) | 0 | 10 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-log](/f12/package/sugar-log) | 0 | 100 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-memorize](/f12/package/sugar-memorize) | 0 | 50 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-physics](/f12/package/sugar-physics) | 0 | 22 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-pippy](/f12/package/sugar-pippy) | 0 | 52 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-read](/f12/package/sugar-read) | 0 | 28 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-record](/f12/package/sugar-record) | 0 | 137 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-terminal](/f12/package/sugar-terminal) | 0 | 6 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-view-slides](/f12/package/sugar-view-slides) | 0 | 7 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-visualmatch](/f12/package/sugar-visualmatch) | 0 | 58 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-write](/f12/package/sugar-write) | 0 | 69 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [switchdesk](/f12/package/switchdesk) | 0 | 137 | 0.0 | <en@li.org> | 
+ | [tuxpaint-stamps](/f12/package/tuxpaint-stamps) | 0 | 2617 | 0.0 |  | 
+ | [vidalia](/f12/package/vidalia) | 0 | 9310 | 0.0 | LANGUAGE <LL@li.org> | 
 {.sortable}
 
 

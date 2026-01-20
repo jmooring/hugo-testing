@@ -18,51 +18,51 @@ The package kf5-eventviews (version 23.08.5):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [bg]({{< ref "/f38/language/bg.md" >}}) | 2949 | 2949 | 100.0 | /mnt/stockage/packages/f38/kf5-eventviews/po/bg/libeventviews.po | 
- | [ca]({{< ref "/f38/language/ca.md" >}}) | 2949 | 2949 | 100.0 | /mnt/stockage/packages/f38/kf5-eventviews/po/ca/libeventviews.po | 
- | [ca@valencia]({{< ref "/f38/language/ca@valencia.md" >}}) | 2949 | 2949 | 100.0 | /mnt/stockage/packages/f38/kf5-eventviews/po/ca@valencia/libeventviews.po | 
- | [de]({{< ref "/f38/language/de.md" >}}) | 2949 | 2949 | 100.0 | /mnt/stockage/packages/f38/kf5-eventviews/po/de/libeventviews.po | 
- | [el]({{< ref "/f38/language/el.md" >}}) | 2949 | 2949 | 100.0 | /mnt/stockage/packages/f38/kf5-eventviews/po/el/libeventviews.po | 
- | [en_GB]({{< ref "/f38/language/en_GB.md" >}}) | 2949 | 2949 | 100.0 | /mnt/stockage/packages/f38/kf5-eventviews/po/en_GB/libeventviews.po | 
- | [eo]({{< ref "/f38/language/eo.md" >}}) | 2949 | 2949 | 100.0 | /mnt/stockage/packages/f38/kf5-eventviews/po/eo/libeventviews.po | 
- | [es]({{< ref "/f38/language/es.md" >}}) | 2949 | 2949 | 100.0 | /mnt/stockage/packages/f38/kf5-eventviews/po/es/libeventviews.po | 
- | [eu]({{< ref "/f38/language/eu.md" >}}) | 2949 | 2949 | 100.0 | /mnt/stockage/packages/f38/kf5-eventviews/po/eu/libeventviews.po | 
- | [fi]({{< ref "/f38/language/fi.md" >}}) | 2949 | 2949 | 100.0 | /mnt/stockage/packages/f38/kf5-eventviews/po/fi/libeventviews.po | 
- | [fr]({{< ref "/f38/language/fr.md" >}}) | 2949 | 2949 | 100.0 | /mnt/stockage/packages/f38/kf5-eventviews/po/fr/libeventviews.po | 
- | [gl]({{< ref "/f38/language/gl.md" >}}) | 2949 | 2949 | 100.0 | /mnt/stockage/packages/f38/kf5-eventviews/po/gl/libeventviews.po | 
- | [hu]({{< ref "/f38/language/hu.md" >}}) | 2949 | 2949 | 100.0 | /mnt/stockage/packages/f38/kf5-eventviews/po/hu/libeventviews.po | 
- | [ia]({{< ref "/f38/language/ia.md" >}}) | 2949 | 2949 | 100.0 | /mnt/stockage/packages/f38/kf5-eventviews/po/ia/libeventviews.po | 
- | [it]({{< ref "/f38/language/it.md" >}}) | 2949 | 2949 | 100.0 | /mnt/stockage/packages/f38/kf5-eventviews/po/it/libeventviews.po | 
- | [ka]({{< ref "/f38/language/ka.md" >}}) | 2949 | 2949 | 100.0 | /mnt/stockage/packages/f38/kf5-eventviews/po/ka/libeventviews.po | 
- | [ko]({{< ref "/f38/language/ko.md" >}}) | 2949 | 2949 | 100.0 | /mnt/stockage/packages/f38/kf5-eventviews/po/ko/libeventviews.po | 
- | [nl]({{< ref "/f38/language/nl.md" >}}) | 2949 | 2949 | 100.0 | /mnt/stockage/packages/f38/kf5-eventviews/po/nl/libeventviews.po | 
- | [pl]({{< ref "/f38/language/pl.md" >}}) | 2949 | 2949 | 100.0 | /mnt/stockage/packages/f38/kf5-eventviews/po/pl/libeventviews.po | 
- | [pt]({{< ref "/f38/language/pt.md" >}}) | 2949 | 2949 | 100.0 | /mnt/stockage/packages/f38/kf5-eventviews/po/pt/libeventviews.po | 
- | [pt_BR]({{< ref "/f38/language/pt_BR.md" >}}) | 2949 | 2949 | 100.0 | /mnt/stockage/packages/f38/kf5-eventviews/po/pt_BR/libeventviews.po | 
- | [ru]({{< ref "/f38/language/ru.md" >}}) | 2949 | 2949 | 100.0 | /mnt/stockage/packages/f38/kf5-eventviews/po/ru/libeventviews.po | 
- | [sk]({{< ref "/f38/language/sk.md" >}}) | 2949 | 2949 | 100.0 | /mnt/stockage/packages/f38/kf5-eventviews/po/sk/libeventviews.po | 
- | [sl]({{< ref "/f38/language/sl.md" >}}) | 2949 | 2949 | 100.0 | /mnt/stockage/packages/f38/kf5-eventviews/po/sl/libeventviews.po | 
- | [sv]({{< ref "/f38/language/sv.md" >}}) | 2949 | 2949 | 100.0 | /mnt/stockage/packages/f38/kf5-eventviews/po/sv/libeventviews.po | 
- | [tr]({{< ref "/f38/language/tr.md" >}}) | 2949 | 2949 | 100.0 | /mnt/stockage/packages/f38/kf5-eventviews/po/tr/libeventviews.po | 
- | [uk]({{< ref "/f38/language/uk.md" >}}) | 2949 | 2949 | 100.0 | /mnt/stockage/packages/f38/kf5-eventviews/po/uk/libeventviews.po | 
- | [zh_Hans]({{< ref "/f38/language/zh_Hans.md" >}}) | 2949 | 2949 | 100.0 | /mnt/stockage/packages/f38/kf5-eventviews/po/zh_CN/libeventviews.po | 
- | [zh_Hant]({{< ref "/f38/language/zh_Hant.md" >}}) | 2949 | 2949 | 100.0 | /mnt/stockage/packages/f38/kf5-eventviews/po/zh_TW/libeventviews.po | 
- | [da]({{< ref "/f38/language/da.md" >}}) | 2918 | 2949 | 98.9 | /mnt/stockage/packages/f38/kf5-eventviews/po/da/libeventviews.po | 
- | [et]({{< ref "/f38/language/et.md" >}}) | 2918 | 2949 | 98.9 | /mnt/stockage/packages/f38/kf5-eventviews/po/et/libeventviews.po | 
- | [bs]({{< ref "/f38/language/bs.md" >}}) | 2842 | 2949 | 96.4 | /mnt/stockage/packages/f38/kf5-eventviews/po/bs/libeventviews.po | 
- | [kk]({{< ref "/f38/language/kk.md" >}}) | 2842 | 2949 | 96.4 | /mnt/stockage/packages/f38/kf5-eventviews/po/kk/libeventviews.po | 
- | [nb_NO]({{< ref "/f38/language/nb_NO.md" >}}) | 2842 | 2949 | 96.4 | /mnt/stockage/packages/f38/kf5-eventviews/po/nb/libeventviews.po | 
- | [nds]({{< ref "/f38/language/nds.md" >}}) | 2842 | 2949 | 96.4 | /mnt/stockage/packages/f38/kf5-eventviews/po/nds/libeventviews.po | 
- | [lt]({{< ref "/f38/language/lt.md" >}}) | 1917 | 2949 | 65.0 | /mnt/stockage/packages/f38/kf5-eventviews/po/lt/libeventviews.po | 
- | [cs]({{< ref "/f38/language/cs.md" >}}) | 1176 | 2949 | 39.9 | /mnt/stockage/packages/f38/kf5-eventviews/po/cs/libeventviews.po | 
- | [ar]({{< ref "/f38/language/ar.md" >}}) | 908 | 2949 | 30.8 | /mnt/stockage/packages/f38/kf5-eventviews/po/ar/libeventviews.po | 
- | [ta]({{< ref "/f38/language/ta.md" >}}) | 456 | 2949 | 15.5 | /mnt/stockage/packages/f38/kf5-eventviews/po/ta/libeventviews.po | 
- | [ro]({{< ref "/f38/language/ro.md" >}}) | 283 | 2949 | 9.6 | /mnt/stockage/packages/f38/kf5-eventviews/po/ro/libeventviews.po | 
- | [ug]({{< ref "/f38/language/ug.md" >}}) | 283 | 2949 | 9.6 | /mnt/stockage/packages/f38/kf5-eventviews/po/ug/libeventviews.po | 
- | [mr]({{< ref "/f38/language/mr.md" >}}) | 100 | 2949 | 3.4 | /mnt/stockage/packages/f38/kf5-eventviews/po/mr/libeventviews.po | 
- | [ga]({{< ref "/f38/language/ga.md" >}}) | 68 | 2949 | 2.3 | /mnt/stockage/packages/f38/kf5-eventviews/po/ga/libeventviews.po | 
- | [pa]({{< ref "/f38/language/pa.md" >}}) | 33 | 2949 | 1.1 | /mnt/stockage/packages/f38/kf5-eventviews/po/pa/libeventviews.po | 
- | [ja]({{< ref "/f38/language/ja.md" >}}) | 0 | 2949 | 0.0 | /mnt/stockage/packages/f38/kf5-eventviews/po/ja/libeventviews.po | 
+ | [bg](/f38/language/bg) | 2949 | 2949 | 100.0 | /mnt/stockage/packages/f38/kf5-eventviews/po/bg/libeventviews.po | 
+ | [ca](/f38/language/ca) | 2949 | 2949 | 100.0 | /mnt/stockage/packages/f38/kf5-eventviews/po/ca/libeventviews.po | 
+ | [ca@valencia](/f38/language/ca@valencia) | 2949 | 2949 | 100.0 | /mnt/stockage/packages/f38/kf5-eventviews/po/ca@valencia/libeventviews.po | 
+ | [de](/f38/language/de) | 2949 | 2949 | 100.0 | /mnt/stockage/packages/f38/kf5-eventviews/po/de/libeventviews.po | 
+ | [el](/f38/language/el) | 2949 | 2949 | 100.0 | /mnt/stockage/packages/f38/kf5-eventviews/po/el/libeventviews.po | 
+ | [en_GB](/f38/language/en_GB) | 2949 | 2949 | 100.0 | /mnt/stockage/packages/f38/kf5-eventviews/po/en_GB/libeventviews.po | 
+ | [eo](/f38/language/eo) | 2949 | 2949 | 100.0 | /mnt/stockage/packages/f38/kf5-eventviews/po/eo/libeventviews.po | 
+ | [es](/f38/language/es) | 2949 | 2949 | 100.0 | /mnt/stockage/packages/f38/kf5-eventviews/po/es/libeventviews.po | 
+ | [eu](/f38/language/eu) | 2949 | 2949 | 100.0 | /mnt/stockage/packages/f38/kf5-eventviews/po/eu/libeventviews.po | 
+ | [fi](/f38/language/fi) | 2949 | 2949 | 100.0 | /mnt/stockage/packages/f38/kf5-eventviews/po/fi/libeventviews.po | 
+ | [fr](/f38/language/fr) | 2949 | 2949 | 100.0 | /mnt/stockage/packages/f38/kf5-eventviews/po/fr/libeventviews.po | 
+ | [gl](/f38/language/gl) | 2949 | 2949 | 100.0 | /mnt/stockage/packages/f38/kf5-eventviews/po/gl/libeventviews.po | 
+ | [hu](/f38/language/hu) | 2949 | 2949 | 100.0 | /mnt/stockage/packages/f38/kf5-eventviews/po/hu/libeventviews.po | 
+ | [ia](/f38/language/ia) | 2949 | 2949 | 100.0 | /mnt/stockage/packages/f38/kf5-eventviews/po/ia/libeventviews.po | 
+ | [it](/f38/language/it) | 2949 | 2949 | 100.0 | /mnt/stockage/packages/f38/kf5-eventviews/po/it/libeventviews.po | 
+ | [ka](/f38/language/ka) | 2949 | 2949 | 100.0 | /mnt/stockage/packages/f38/kf5-eventviews/po/ka/libeventviews.po | 
+ | [ko](/f38/language/ko) | 2949 | 2949 | 100.0 | /mnt/stockage/packages/f38/kf5-eventviews/po/ko/libeventviews.po | 
+ | [nl](/f38/language/nl) | 2949 | 2949 | 100.0 | /mnt/stockage/packages/f38/kf5-eventviews/po/nl/libeventviews.po | 
+ | [pl](/f38/language/pl) | 2949 | 2949 | 100.0 | /mnt/stockage/packages/f38/kf5-eventviews/po/pl/libeventviews.po | 
+ | [pt](/f38/language/pt) | 2949 | 2949 | 100.0 | /mnt/stockage/packages/f38/kf5-eventviews/po/pt/libeventviews.po | 
+ | [pt_BR](/f38/language/pt_BR) | 2949 | 2949 | 100.0 | /mnt/stockage/packages/f38/kf5-eventviews/po/pt_BR/libeventviews.po | 
+ | [ru](/f38/language/ru) | 2949 | 2949 | 100.0 | /mnt/stockage/packages/f38/kf5-eventviews/po/ru/libeventviews.po | 
+ | [sk](/f38/language/sk) | 2949 | 2949 | 100.0 | /mnt/stockage/packages/f38/kf5-eventviews/po/sk/libeventviews.po | 
+ | [sl](/f38/language/sl) | 2949 | 2949 | 100.0 | /mnt/stockage/packages/f38/kf5-eventviews/po/sl/libeventviews.po | 
+ | [sv](/f38/language/sv) | 2949 | 2949 | 100.0 | /mnt/stockage/packages/f38/kf5-eventviews/po/sv/libeventviews.po | 
+ | [tr](/f38/language/tr) | 2949 | 2949 | 100.0 | /mnt/stockage/packages/f38/kf5-eventviews/po/tr/libeventviews.po | 
+ | [uk](/f38/language/uk) | 2949 | 2949 | 100.0 | /mnt/stockage/packages/f38/kf5-eventviews/po/uk/libeventviews.po | 
+ | [zh_Hans](/f38/language/zh_Hans) | 2949 | 2949 | 100.0 | /mnt/stockage/packages/f38/kf5-eventviews/po/zh_CN/libeventviews.po | 
+ | [zh_Hant](/f38/language/zh_Hant) | 2949 | 2949 | 100.0 | /mnt/stockage/packages/f38/kf5-eventviews/po/zh_TW/libeventviews.po | 
+ | [da](/f38/language/da) | 2918 | 2949 | 98.9 | /mnt/stockage/packages/f38/kf5-eventviews/po/da/libeventviews.po | 
+ | [et](/f38/language/et) | 2918 | 2949 | 98.9 | /mnt/stockage/packages/f38/kf5-eventviews/po/et/libeventviews.po | 
+ | [bs](/f38/language/bs) | 2842 | 2949 | 96.4 | /mnt/stockage/packages/f38/kf5-eventviews/po/bs/libeventviews.po | 
+ | [kk](/f38/language/kk) | 2842 | 2949 | 96.4 | /mnt/stockage/packages/f38/kf5-eventviews/po/kk/libeventviews.po | 
+ | [nb_NO](/f38/language/nb_NO) | 2842 | 2949 | 96.4 | /mnt/stockage/packages/f38/kf5-eventviews/po/nb/libeventviews.po | 
+ | [nds](/f38/language/nds) | 2842 | 2949 | 96.4 | /mnt/stockage/packages/f38/kf5-eventviews/po/nds/libeventviews.po | 
+ | [lt](/f38/language/lt) | 1917 | 2949 | 65.0 | /mnt/stockage/packages/f38/kf5-eventviews/po/lt/libeventviews.po | 
+ | [cs](/f38/language/cs) | 1176 | 2949 | 39.9 | /mnt/stockage/packages/f38/kf5-eventviews/po/cs/libeventviews.po | 
+ | [ar](/f38/language/ar) | 908 | 2949 | 30.8 | /mnt/stockage/packages/f38/kf5-eventviews/po/ar/libeventviews.po | 
+ | [ta](/f38/language/ta) | 456 | 2949 | 15.5 | /mnt/stockage/packages/f38/kf5-eventviews/po/ta/libeventviews.po | 
+ | [ro](/f38/language/ro) | 283 | 2949 | 9.6 | /mnt/stockage/packages/f38/kf5-eventviews/po/ro/libeventviews.po | 
+ | [ug](/f38/language/ug) | 283 | 2949 | 9.6 | /mnt/stockage/packages/f38/kf5-eventviews/po/ug/libeventviews.po | 
+ | [mr](/f38/language/mr) | 100 | 2949 | 3.4 | /mnt/stockage/packages/f38/kf5-eventviews/po/mr/libeventviews.po | 
+ | [ga](/f38/language/ga) | 68 | 2949 | 2.3 | /mnt/stockage/packages/f38/kf5-eventviews/po/ga/libeventviews.po | 
+ | [pa](/f38/language/pa) | 33 | 2949 | 1.1 | /mnt/stockage/packages/f38/kf5-eventviews/po/pa/libeventviews.po | 
+ | [ja](/f38/language/ja) | 0 | 2949 | 0.0 | /mnt/stockage/packages/f38/kf5-eventviews/po/ja/libeventviews.po | 
 {.sortable}
 
 

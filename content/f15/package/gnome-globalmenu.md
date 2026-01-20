@@ -18,34 +18,34 @@ The package gnome-globalmenu (version 0.7.9):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f15/language/de.md" >}}) | 325 | 325 | 100.0 | /mnt/stockage/packages/f15/gnome-globalmenu/po/de.po | 
- | [en_GB]({{< ref "/f15/language/en_GB.md" >}}) | 325 | 325 | 100.0 | /mnt/stockage/packages/f15/gnome-globalmenu/po/en_GB.po | 
- | [es]({{< ref "/f15/language/es.md" >}}) | 325 | 325 | 100.0 | /mnt/stockage/packages/f15/gnome-globalmenu/po/es.po | 
- | [fr]({{< ref "/f15/language/fr.md" >}}) | 325 | 325 | 100.0 | /mnt/stockage/packages/f15/gnome-globalmenu/po/fr.po | 
- | [gl]({{< ref "/f15/language/gl.md" >}}) | 325 | 325 | 100.0 | /mnt/stockage/packages/f15/gnome-globalmenu/po/gl.po | 
- | [he]({{< ref "/f15/language/he.md" >}}) | 325 | 325 | 100.0 | /mnt/stockage/packages/f15/gnome-globalmenu/po/he.po | 
- | [hu]({{< ref "/f15/language/hu.md" >}}) | 325 | 325 | 100.0 | /mnt/stockage/packages/f15/gnome-globalmenu/po/hu.po | 
- | [id]({{< ref "/f15/language/id.md" >}}) | 325 | 325 | 100.0 | /mnt/stockage/packages/f15/gnome-globalmenu/po/id.po | 
- | [it]({{< ref "/f15/language/it.md" >}}) | 325 | 325 | 100.0 | /mnt/stockage/packages/f15/gnome-globalmenu/po/it.po | 
- | [lt]({{< ref "/f15/language/lt.md" >}}) | 325 | 325 | 100.0 | /mnt/stockage/packages/f15/gnome-globalmenu/po/lt.po | 
- | [pl]({{< ref "/f15/language/pl.md" >}}) | 325 | 325 | 100.0 | /mnt/stockage/packages/f15/gnome-globalmenu/po/pl.po | 
- | [pt_BR]({{< ref "/f15/language/pt_BR.md" >}}) | 325 | 325 | 100.0 | /mnt/stockage/packages/f15/gnome-globalmenu/po/pt_BR.po | 
- | [ru]({{< ref "/f15/language/ru.md" >}}) | 325 | 325 | 100.0 | /mnt/stockage/packages/f15/gnome-globalmenu/po/ru.po | 
- | [zh_Hans]({{< ref "/f15/language/zh_Hans.md" >}}) | 325 | 325 | 100.0 | /mnt/stockage/packages/f15/gnome-globalmenu/po/zh_CN.po | 
- | [uk]({{< ref "/f15/language/uk.md" >}}) | 286 | 325 | 88.0 | /mnt/stockage/packages/f15/gnome-globalmenu/po/uk.po | 
- | [tr]({{< ref "/f15/language/tr.md" >}}) | 285 | 325 | 87.7 | /mnt/stockage/packages/f15/gnome-globalmenu/po/tr.po | 
- | [sk]({{< ref "/f15/language/sk.md" >}}) | 283 | 325 | 87.1 | /mnt/stockage/packages/f15/gnome-globalmenu/po/sk.po | 
- | [ro]({{< ref "/f15/language/ro.md" >}}) | 216 | 325 | 66.5 | /mnt/stockage/packages/f15/gnome-globalmenu/po/ro.po | 
- | [nl]({{< ref "/f15/language/nl.md" >}}) | 199 | 325 | 61.2 | /mnt/stockage/packages/f15/gnome-globalmenu/po/nl.po | 
- | [sv]({{< ref "/f15/language/sv.md" >}}) | 192 | 325 | 59.1 | /mnt/stockage/packages/f15/gnome-globalmenu/po/sv.po | 
- | [ko]({{< ref "/f15/language/ko.md" >}}) | 179 | 325 | 55.1 | /mnt/stockage/packages/f15/gnome-globalmenu/po/ko.po | 
- | [da]({{< ref "/f15/language/da.md" >}}) | 177 | 325 | 54.5 | /mnt/stockage/packages/f15/gnome-globalmenu/po/da.po | 
- | [pt]({{< ref "/f15/language/pt.md" >}}) | 136 | 325 | 41.8 | /mnt/stockage/packages/f15/gnome-globalmenu/po/pt.po | 
- | [fi]({{< ref "/f15/language/fi.md" >}}) | 76 | 325 | 23.4 | /mnt/stockage/packages/f15/gnome-globalmenu/po/fi.po | 
- | [nb_NO]({{< ref "/f15/language/nb_NO.md" >}}) | 73 | 325 | 22.5 | /mnt/stockage/packages/f15/gnome-globalmenu/po/nb.po | 
- | [eo]({{< ref "/f15/language/eo.md" >}}) | 64 | 325 | 19.7 | /mnt/stockage/packages/f15/gnome-globalmenu/po/eo.po | 
- | [te]({{< ref "/f15/language/te.md" >}}) | 7 | 325 | 2.2 | /mnt/stockage/packages/f15/gnome-globalmenu/po/te.po | 
- | [ca]({{< ref "/f15/language/ca.md" >}}) | 6 | 325 | 1.8 | /mnt/stockage/packages/f15/gnome-globalmenu/po/ca.po | 
+ | [de](/f15/language/de) | 325 | 325 | 100.0 | /mnt/stockage/packages/f15/gnome-globalmenu/po/de.po | 
+ | [en_GB](/f15/language/en_GB) | 325 | 325 | 100.0 | /mnt/stockage/packages/f15/gnome-globalmenu/po/en_GB.po | 
+ | [es](/f15/language/es) | 325 | 325 | 100.0 | /mnt/stockage/packages/f15/gnome-globalmenu/po/es.po | 
+ | [fr](/f15/language/fr) | 325 | 325 | 100.0 | /mnt/stockage/packages/f15/gnome-globalmenu/po/fr.po | 
+ | [gl](/f15/language/gl) | 325 | 325 | 100.0 | /mnt/stockage/packages/f15/gnome-globalmenu/po/gl.po | 
+ | [he](/f15/language/he) | 325 | 325 | 100.0 | /mnt/stockage/packages/f15/gnome-globalmenu/po/he.po | 
+ | [hu](/f15/language/hu) | 325 | 325 | 100.0 | /mnt/stockage/packages/f15/gnome-globalmenu/po/hu.po | 
+ | [id](/f15/language/id) | 325 | 325 | 100.0 | /mnt/stockage/packages/f15/gnome-globalmenu/po/id.po | 
+ | [it](/f15/language/it) | 325 | 325 | 100.0 | /mnt/stockage/packages/f15/gnome-globalmenu/po/it.po | 
+ | [lt](/f15/language/lt) | 325 | 325 | 100.0 | /mnt/stockage/packages/f15/gnome-globalmenu/po/lt.po | 
+ | [pl](/f15/language/pl) | 325 | 325 | 100.0 | /mnt/stockage/packages/f15/gnome-globalmenu/po/pl.po | 
+ | [pt_BR](/f15/language/pt_BR) | 325 | 325 | 100.0 | /mnt/stockage/packages/f15/gnome-globalmenu/po/pt_BR.po | 
+ | [ru](/f15/language/ru) | 325 | 325 | 100.0 | /mnt/stockage/packages/f15/gnome-globalmenu/po/ru.po | 
+ | [zh_Hans](/f15/language/zh_Hans) | 325 | 325 | 100.0 | /mnt/stockage/packages/f15/gnome-globalmenu/po/zh_CN.po | 
+ | [uk](/f15/language/uk) | 286 | 325 | 88.0 | /mnt/stockage/packages/f15/gnome-globalmenu/po/uk.po | 
+ | [tr](/f15/language/tr) | 285 | 325 | 87.7 | /mnt/stockage/packages/f15/gnome-globalmenu/po/tr.po | 
+ | [sk](/f15/language/sk) | 283 | 325 | 87.1 | /mnt/stockage/packages/f15/gnome-globalmenu/po/sk.po | 
+ | [ro](/f15/language/ro) | 216 | 325 | 66.5 | /mnt/stockage/packages/f15/gnome-globalmenu/po/ro.po | 
+ | [nl](/f15/language/nl) | 199 | 325 | 61.2 | /mnt/stockage/packages/f15/gnome-globalmenu/po/nl.po | 
+ | [sv](/f15/language/sv) | 192 | 325 | 59.1 | /mnt/stockage/packages/f15/gnome-globalmenu/po/sv.po | 
+ | [ko](/f15/language/ko) | 179 | 325 | 55.1 | /mnt/stockage/packages/f15/gnome-globalmenu/po/ko.po | 
+ | [da](/f15/language/da) | 177 | 325 | 54.5 | /mnt/stockage/packages/f15/gnome-globalmenu/po/da.po | 
+ | [pt](/f15/language/pt) | 136 | 325 | 41.8 | /mnt/stockage/packages/f15/gnome-globalmenu/po/pt.po | 
+ | [fi](/f15/language/fi) | 76 | 325 | 23.4 | /mnt/stockage/packages/f15/gnome-globalmenu/po/fi.po | 
+ | [nb_NO](/f15/language/nb_NO) | 73 | 325 | 22.5 | /mnt/stockage/packages/f15/gnome-globalmenu/po/nb.po | 
+ | [eo](/f15/language/eo) | 64 | 325 | 19.7 | /mnt/stockage/packages/f15/gnome-globalmenu/po/eo.po | 
+ | [te](/f15/language/te) | 7 | 325 | 2.2 | /mnt/stockage/packages/f15/gnome-globalmenu/po/te.po | 
+ | [ca](/f15/language/ca) | 6 | 325 | 1.8 | /mnt/stockage/packages/f15/gnome-globalmenu/po/ca.po | 
 {.sortable}
 
 

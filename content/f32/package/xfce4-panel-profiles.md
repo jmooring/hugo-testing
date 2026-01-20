@@ -18,48 +18,48 @@ The package xfce4-panel-profiles (version 1.0.10):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [be]({{< ref "/f32/language/be.md" >}}) | 99 | 99 | 100.0 | /mnt/stockage/packages/f32/xfce4-panel-profiles/po/be.po | 
- | [bg]({{< ref "/f32/language/bg.md" >}}) | 99 | 99 | 100.0 | /mnt/stockage/packages/f32/xfce4-panel-profiles/po/bg.po | 
- | [ca]({{< ref "/f32/language/ca.md" >}}) | 99 | 99 | 100.0 | /mnt/stockage/packages/f32/xfce4-panel-profiles/po/ca.po | 
- | [cs]({{< ref "/f32/language/cs.md" >}}) | 99 | 99 | 100.0 | /mnt/stockage/packages/f32/xfce4-panel-profiles/po/cs.po | 
- | [da]({{< ref "/f32/language/da.md" >}}) | 99 | 99 | 100.0 | /mnt/stockage/packages/f32/xfce4-panel-profiles/po/da.po | 
- | [de]({{< ref "/f32/language/de.md" >}}) | 99 | 99 | 100.0 | /mnt/stockage/packages/f32/xfce4-panel-profiles/po/de.po | 
- | [en_AU]({{< ref "/f32/language/en_AU.md" >}}) | 99 | 99 | 100.0 | /mnt/stockage/packages/f32/xfce4-panel-profiles/po/en_AU.po | 
- | [en_GB]({{< ref "/f32/language/en_GB.md" >}}) | 99 | 99 | 100.0 | /mnt/stockage/packages/f32/xfce4-panel-profiles/po/en_GB.po | 
- | [es]({{< ref "/f32/language/es.md" >}}) | 99 | 99 | 100.0 | /mnt/stockage/packages/f32/xfce4-panel-profiles/po/es.po | 
- | [eu]({{< ref "/f32/language/eu.md" >}}) | 99 | 99 | 100.0 | /mnt/stockage/packages/f32/xfce4-panel-profiles/po/eu.po | 
- | [fi]({{< ref "/f32/language/fi.md" >}}) | 99 | 99 | 100.0 | /mnt/stockage/packages/f32/xfce4-panel-profiles/po/fi.po | 
- | [fr]({{< ref "/f32/language/fr.md" >}}) | 99 | 99 | 100.0 | /mnt/stockage/packages/f32/xfce4-panel-profiles/po/fr.po | 
- | [gl]({{< ref "/f32/language/gl.md" >}}) | 99 | 99 | 100.0 | /mnt/stockage/packages/f32/xfce4-panel-profiles/po/gl.po | 
- | [he]({{< ref "/f32/language/he.md" >}}) | 99 | 99 | 100.0 | /mnt/stockage/packages/f32/xfce4-panel-profiles/po/he.po | 
- | [hi]({{< ref "/f32/language/hi.md" >}}) | 99 | 99 | 100.0 | /mnt/stockage/packages/f32/xfce4-panel-profiles/po/hi.po | 
- | [hr]({{< ref "/f32/language/hr.md" >}}) | 99 | 99 | 100.0 | /mnt/stockage/packages/f32/xfce4-panel-profiles/po/hr.po | 
- | [hu]({{< ref "/f32/language/hu.md" >}}) | 99 | 99 | 100.0 | /mnt/stockage/packages/f32/xfce4-panel-profiles/po/hu.po | 
- | [hy]({{< ref "/f32/language/hy.md" >}}) | 99 | 99 | 100.0 | /mnt/stockage/packages/f32/xfce4-panel-profiles/po/hy_AM.po | 
- | [ie]({{< ref "/f32/language/ie.md" >}}) | 99 | 99 | 100.0 | /mnt/stockage/packages/f32/xfce4-panel-profiles/po/ie.po | 
- | [is]({{< ref "/f32/language/is.md" >}}) | 99 | 99 | 100.0 | /mnt/stockage/packages/f32/xfce4-panel-profiles/po/is.po | 
- | [it]({{< ref "/f32/language/it.md" >}}) | 99 | 99 | 100.0 | /mnt/stockage/packages/f32/xfce4-panel-profiles/po/it.po | 
- | [ja]({{< ref "/f32/language/ja.md" >}}) | 99 | 99 | 100.0 | /mnt/stockage/packages/f32/xfce4-panel-profiles/po/ja.po | 
- | [kk]({{< ref "/f32/language/kk.md" >}}) | 99 | 99 | 100.0 | /mnt/stockage/packages/f32/xfce4-panel-profiles/po/kk.po | 
- | [ko]({{< ref "/f32/language/ko.md" >}}) | 99 | 99 | 100.0 | /mnt/stockage/packages/f32/xfce4-panel-profiles/po/ko.po | 
- | [lt]({{< ref "/f32/language/lt.md" >}}) | 99 | 99 | 100.0 | /mnt/stockage/packages/f32/xfce4-panel-profiles/po/lt.po | 
- | [ms]({{< ref "/f32/language/ms.md" >}}) | 99 | 99 | 100.0 | /mnt/stockage/packages/f32/xfce4-panel-profiles/po/ms.po | 
- | [nb_NO]({{< ref "/f32/language/nb_NO.md" >}}) | 99 | 99 | 100.0 | /mnt/stockage/packages/f32/xfce4-panel-profiles/po/nb.po | 
- | [nl]({{< ref "/f32/language/nl.md" >}}) | 99 | 99 | 100.0 | /mnt/stockage/packages/f32/xfce4-panel-profiles/po/nl.po | 
- | [pl]({{< ref "/f32/language/pl.md" >}}) | 99 | 99 | 100.0 | /mnt/stockage/packages/f32/xfce4-panel-profiles/po/pl.po | 
- | [pt]({{< ref "/f32/language/pt.md" >}}) | 99 | 99 | 100.0 | /mnt/stockage/packages/f32/xfce4-panel-profiles/po/pt.po | 
- | [pt_BR]({{< ref "/f32/language/pt_BR.md" >}}) | 99 | 99 | 100.0 | /mnt/stockage/packages/f32/xfce4-panel-profiles/po/pt_BR.po | 
- | [ru]({{< ref "/f32/language/ru.md" >}}) | 99 | 99 | 100.0 | /mnt/stockage/packages/f32/xfce4-panel-profiles/po/ru.po | 
- | [sl]({{< ref "/f32/language/sl.md" >}}) | 99 | 99 | 100.0 | /mnt/stockage/packages/f32/xfce4-panel-profiles/po/sl.po | 
- | [sq]({{< ref "/f32/language/sq.md" >}}) | 99 | 99 | 100.0 | /mnt/stockage/packages/f32/xfce4-panel-profiles/po/sq.po | 
- | [sr]({{< ref "/f32/language/sr.md" >}}) | 99 | 99 | 100.0 | /mnt/stockage/packages/f32/xfce4-panel-profiles/po/sr.po | 
- | [sv]({{< ref "/f32/language/sv.md" >}}) | 99 | 99 | 100.0 | /mnt/stockage/packages/f32/xfce4-panel-profiles/po/sv.po | 
- | [th]({{< ref "/f32/language/th.md" >}}) | 99 | 99 | 100.0 | /mnt/stockage/packages/f32/xfce4-panel-profiles/po/th.po | 
- | [tr]({{< ref "/f32/language/tr.md" >}}) | 99 | 99 | 100.0 | /mnt/stockage/packages/f32/xfce4-panel-profiles/po/tr.po | 
- | [uk]({{< ref "/f32/language/uk.md" >}}) | 99 | 99 | 100.0 | /mnt/stockage/packages/f32/xfce4-panel-profiles/po/uk.po | 
- | [zh_Hans]({{< ref "/f32/language/zh_Hans.md" >}}) | 99 | 99 | 100.0 | /mnt/stockage/packages/f32/xfce4-panel-profiles/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f32/language/zh_Hant.md" >}}) | 99 | 99 | 100.0 | /mnt/stockage/packages/f32/xfce4-panel-profiles/po/zh_TW.po | 
- | [el]({{< ref "/f32/language/el.md" >}}) | 89 | 99 | 89.9 | /mnt/stockage/packages/f32/xfce4-panel-profiles/po/el.po | 
+ | [be](/f32/language/be) | 99 | 99 | 100.0 | /mnt/stockage/packages/f32/xfce4-panel-profiles/po/be.po | 
+ | [bg](/f32/language/bg) | 99 | 99 | 100.0 | /mnt/stockage/packages/f32/xfce4-panel-profiles/po/bg.po | 
+ | [ca](/f32/language/ca) | 99 | 99 | 100.0 | /mnt/stockage/packages/f32/xfce4-panel-profiles/po/ca.po | 
+ | [cs](/f32/language/cs) | 99 | 99 | 100.0 | /mnt/stockage/packages/f32/xfce4-panel-profiles/po/cs.po | 
+ | [da](/f32/language/da) | 99 | 99 | 100.0 | /mnt/stockage/packages/f32/xfce4-panel-profiles/po/da.po | 
+ | [de](/f32/language/de) | 99 | 99 | 100.0 | /mnt/stockage/packages/f32/xfce4-panel-profiles/po/de.po | 
+ | [en_AU](/f32/language/en_AU) | 99 | 99 | 100.0 | /mnt/stockage/packages/f32/xfce4-panel-profiles/po/en_AU.po | 
+ | [en_GB](/f32/language/en_GB) | 99 | 99 | 100.0 | /mnt/stockage/packages/f32/xfce4-panel-profiles/po/en_GB.po | 
+ | [es](/f32/language/es) | 99 | 99 | 100.0 | /mnt/stockage/packages/f32/xfce4-panel-profiles/po/es.po | 
+ | [eu](/f32/language/eu) | 99 | 99 | 100.0 | /mnt/stockage/packages/f32/xfce4-panel-profiles/po/eu.po | 
+ | [fi](/f32/language/fi) | 99 | 99 | 100.0 | /mnt/stockage/packages/f32/xfce4-panel-profiles/po/fi.po | 
+ | [fr](/f32/language/fr) | 99 | 99 | 100.0 | /mnt/stockage/packages/f32/xfce4-panel-profiles/po/fr.po | 
+ | [gl](/f32/language/gl) | 99 | 99 | 100.0 | /mnt/stockage/packages/f32/xfce4-panel-profiles/po/gl.po | 
+ | [he](/f32/language/he) | 99 | 99 | 100.0 | /mnt/stockage/packages/f32/xfce4-panel-profiles/po/he.po | 
+ | [hi](/f32/language/hi) | 99 | 99 | 100.0 | /mnt/stockage/packages/f32/xfce4-panel-profiles/po/hi.po | 
+ | [hr](/f32/language/hr) | 99 | 99 | 100.0 | /mnt/stockage/packages/f32/xfce4-panel-profiles/po/hr.po | 
+ | [hu](/f32/language/hu) | 99 | 99 | 100.0 | /mnt/stockage/packages/f32/xfce4-panel-profiles/po/hu.po | 
+ | [hy](/f32/language/hy) | 99 | 99 | 100.0 | /mnt/stockage/packages/f32/xfce4-panel-profiles/po/hy_AM.po | 
+ | [ie](/f32/language/ie) | 99 | 99 | 100.0 | /mnt/stockage/packages/f32/xfce4-panel-profiles/po/ie.po | 
+ | [is](/f32/language/is) | 99 | 99 | 100.0 | /mnt/stockage/packages/f32/xfce4-panel-profiles/po/is.po | 
+ | [it](/f32/language/it) | 99 | 99 | 100.0 | /mnt/stockage/packages/f32/xfce4-panel-profiles/po/it.po | 
+ | [ja](/f32/language/ja) | 99 | 99 | 100.0 | /mnt/stockage/packages/f32/xfce4-panel-profiles/po/ja.po | 
+ | [kk](/f32/language/kk) | 99 | 99 | 100.0 | /mnt/stockage/packages/f32/xfce4-panel-profiles/po/kk.po | 
+ | [ko](/f32/language/ko) | 99 | 99 | 100.0 | /mnt/stockage/packages/f32/xfce4-panel-profiles/po/ko.po | 
+ | [lt](/f32/language/lt) | 99 | 99 | 100.0 | /mnt/stockage/packages/f32/xfce4-panel-profiles/po/lt.po | 
+ | [ms](/f32/language/ms) | 99 | 99 | 100.0 | /mnt/stockage/packages/f32/xfce4-panel-profiles/po/ms.po | 
+ | [nb_NO](/f32/language/nb_NO) | 99 | 99 | 100.0 | /mnt/stockage/packages/f32/xfce4-panel-profiles/po/nb.po | 
+ | [nl](/f32/language/nl) | 99 | 99 | 100.0 | /mnt/stockage/packages/f32/xfce4-panel-profiles/po/nl.po | 
+ | [pl](/f32/language/pl) | 99 | 99 | 100.0 | /mnt/stockage/packages/f32/xfce4-panel-profiles/po/pl.po | 
+ | [pt](/f32/language/pt) | 99 | 99 | 100.0 | /mnt/stockage/packages/f32/xfce4-panel-profiles/po/pt.po | 
+ | [pt_BR](/f32/language/pt_BR) | 99 | 99 | 100.0 | /mnt/stockage/packages/f32/xfce4-panel-profiles/po/pt_BR.po | 
+ | [ru](/f32/language/ru) | 99 | 99 | 100.0 | /mnt/stockage/packages/f32/xfce4-panel-profiles/po/ru.po | 
+ | [sl](/f32/language/sl) | 99 | 99 | 100.0 | /mnt/stockage/packages/f32/xfce4-panel-profiles/po/sl.po | 
+ | [sq](/f32/language/sq) | 99 | 99 | 100.0 | /mnt/stockage/packages/f32/xfce4-panel-profiles/po/sq.po | 
+ | [sr](/f32/language/sr) | 99 | 99 | 100.0 | /mnt/stockage/packages/f32/xfce4-panel-profiles/po/sr.po | 
+ | [sv](/f32/language/sv) | 99 | 99 | 100.0 | /mnt/stockage/packages/f32/xfce4-panel-profiles/po/sv.po | 
+ | [th](/f32/language/th) | 99 | 99 | 100.0 | /mnt/stockage/packages/f32/xfce4-panel-profiles/po/th.po | 
+ | [tr](/f32/language/tr) | 99 | 99 | 100.0 | /mnt/stockage/packages/f32/xfce4-panel-profiles/po/tr.po | 
+ | [uk](/f32/language/uk) | 99 | 99 | 100.0 | /mnt/stockage/packages/f32/xfce4-panel-profiles/po/uk.po | 
+ | [zh_Hans](/f32/language/zh_Hans) | 99 | 99 | 100.0 | /mnt/stockage/packages/f32/xfce4-panel-profiles/po/zh_CN.po | 
+ | [zh_Hant](/f32/language/zh_Hant) | 99 | 99 | 100.0 | /mnt/stockage/packages/f32/xfce4-panel-profiles/po/zh_TW.po | 
+ | [el](/f32/language/el) | 89 | 99 | 89.9 | /mnt/stockage/packages/f32/xfce4-panel-profiles/po/el.po | 
 {.sortable}
 
 

@@ -18,36 +18,36 @@ The package libmx (version 1.4.7):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ast]({{< ref "/f23/language/ast.md" >}}) | 40 | 40 | 100.0 | /mnt/stockage/packages/f23/libmx/po/ast.po | 
- | [ca]({{< ref "/f23/language/ca.md" >}}) | 40 | 40 | 100.0 | /mnt/stockage/packages/f23/libmx/po/ca.po | 
- | [da]({{< ref "/f23/language/da.md" >}}) | 40 | 40 | 100.0 | /mnt/stockage/packages/f23/libmx/po/da.po | 
- | [de]({{< ref "/f23/language/de.md" >}}) | 40 | 40 | 100.0 | /mnt/stockage/packages/f23/libmx/po/de.po | 
- | [en_GB]({{< ref "/f23/language/en_GB.md" >}}) | 40 | 40 | 100.0 | /mnt/stockage/packages/f23/libmx/po/en_GB.po | 
- | [eo]({{< ref "/f23/language/eo.md" >}}) | 40 | 40 | 100.0 | /mnt/stockage/packages/f23/libmx/po/eo.po | 
- | [es]({{< ref "/f23/language/es.md" >}}) | 40 | 40 | 100.0 | /mnt/stockage/packages/f23/libmx/po/es.po | 
- | [es_MX]({{< ref "/f23/language/es_MX.md" >}}) | 40 | 40 | 100.0 | /mnt/stockage/packages/f23/libmx/po/es_MX.po | 
- | [fi]({{< ref "/f23/language/fi.md" >}}) | 40 | 40 | 100.0 | /mnt/stockage/packages/f23/libmx/po/fi.po | 
- | [fr]({{< ref "/f23/language/fr.md" >}}) | 40 | 40 | 100.0 | /mnt/stockage/packages/f23/libmx/po/fr.po | 
- | [id]({{< ref "/f23/language/id.md" >}}) | 40 | 40 | 100.0 | /mnt/stockage/packages/f23/libmx/po/id.po | 
- | [it]({{< ref "/f23/language/it.md" >}}) | 40 | 40 | 100.0 | /mnt/stockage/packages/f23/libmx/po/it.po | 
- | [ja]({{< ref "/f23/language/ja.md" >}}) | 40 | 40 | 100.0 | /mnt/stockage/packages/f23/libmx/po/ja.po | 
- | [ko]({{< ref "/f23/language/ko.md" >}}) | 40 | 40 | 100.0 | /mnt/stockage/packages/f23/libmx/po/ko.po | 
- | [nl]({{< ref "/f23/language/nl.md" >}}) | 40 | 40 | 100.0 | /mnt/stockage/packages/f23/libmx/po/nl.po | 
- | [pa]({{< ref "/f23/language/pa.md" >}}) | 40 | 40 | 100.0 | /mnt/stockage/packages/f23/libmx/po/pa.po | 
- | [pl]({{< ref "/f23/language/pl.md" >}}) | 40 | 40 | 100.0 | /mnt/stockage/packages/f23/libmx/po/pl.po | 
- | [pt_BR]({{< ref "/f23/language/pt_BR.md" >}}) | 40 | 40 | 100.0 | /mnt/stockage/packages/f23/libmx/po/pt_BR.po | 
- | [ro]({{< ref "/f23/language/ro.md" >}}) | 40 | 40 | 100.0 | /mnt/stockage/packages/f23/libmx/po/ro.po | 
- | [ru]({{< ref "/f23/language/ru.md" >}}) | 40 | 40 | 100.0 | /mnt/stockage/packages/f23/libmx/po/ru.po | 
- | [sv]({{< ref "/f23/language/sv.md" >}}) | 40 | 40 | 100.0 | /mnt/stockage/packages/f23/libmx/po/sv.po | 
- | [tr]({{< ref "/f23/language/tr.md" >}}) | 40 | 40 | 100.0 | /mnt/stockage/packages/f23/libmx/po/tr.po | 
- | [wa]({{< ref "/f23/language/wa.md" >}}) | 40 | 40 | 100.0 | /mnt/stockage/packages/f23/libmx/po/wa.po | 
- | [zh_Hans]({{< ref "/f23/language/zh_Hans.md" >}}) | 40 | 40 | 100.0 | /mnt/stockage/packages/f23/libmx/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f23/language/zh_Hant.md" >}}) | 40 | 40 | 100.0 | /mnt/stockage/packages/f23/libmx/po/zh_TW.po | 
- | [sk]({{< ref "/f23/language/sk.md" >}}) | 34 | 40 | 85.0 | /mnt/stockage/packages/f23/libmx/po/sk.po | 
- | [lo]({{< ref "/f23/language/lo.md" >}}) | 16 | 40 | 40.0 | /mnt/stockage/packages/f23/libmx/po/lo.po | 
- | [hu]({{< ref "/f23/language/hu.md" >}}) | 3 | 40 | 7.5 | /mnt/stockage/packages/f23/libmx/po/hu.po | 
- | [th]({{< ref "/f23/language/th.md" >}}) | 3 | 40 | 7.5 | /mnt/stockage/packages/f23/libmx/po/th.po | 
- | [uk]({{< ref "/f23/language/uk.md" >}}) | 3 | 40 | 7.5 | /mnt/stockage/packages/f23/libmx/po/uk.po | 
+ | [ast](/f23/language/ast) | 40 | 40 | 100.0 | /mnt/stockage/packages/f23/libmx/po/ast.po | 
+ | [ca](/f23/language/ca) | 40 | 40 | 100.0 | /mnt/stockage/packages/f23/libmx/po/ca.po | 
+ | [da](/f23/language/da) | 40 | 40 | 100.0 | /mnt/stockage/packages/f23/libmx/po/da.po | 
+ | [de](/f23/language/de) | 40 | 40 | 100.0 | /mnt/stockage/packages/f23/libmx/po/de.po | 
+ | [en_GB](/f23/language/en_GB) | 40 | 40 | 100.0 | /mnt/stockage/packages/f23/libmx/po/en_GB.po | 
+ | [eo](/f23/language/eo) | 40 | 40 | 100.0 | /mnt/stockage/packages/f23/libmx/po/eo.po | 
+ | [es](/f23/language/es) | 40 | 40 | 100.0 | /mnt/stockage/packages/f23/libmx/po/es.po | 
+ | [es_MX](/f23/language/es_MX) | 40 | 40 | 100.0 | /mnt/stockage/packages/f23/libmx/po/es_MX.po | 
+ | [fi](/f23/language/fi) | 40 | 40 | 100.0 | /mnt/stockage/packages/f23/libmx/po/fi.po | 
+ | [fr](/f23/language/fr) | 40 | 40 | 100.0 | /mnt/stockage/packages/f23/libmx/po/fr.po | 
+ | [id](/f23/language/id) | 40 | 40 | 100.0 | /mnt/stockage/packages/f23/libmx/po/id.po | 
+ | [it](/f23/language/it) | 40 | 40 | 100.0 | /mnt/stockage/packages/f23/libmx/po/it.po | 
+ | [ja](/f23/language/ja) | 40 | 40 | 100.0 | /mnt/stockage/packages/f23/libmx/po/ja.po | 
+ | [ko](/f23/language/ko) | 40 | 40 | 100.0 | /mnt/stockage/packages/f23/libmx/po/ko.po | 
+ | [nl](/f23/language/nl) | 40 | 40 | 100.0 | /mnt/stockage/packages/f23/libmx/po/nl.po | 
+ | [pa](/f23/language/pa) | 40 | 40 | 100.0 | /mnt/stockage/packages/f23/libmx/po/pa.po | 
+ | [pl](/f23/language/pl) | 40 | 40 | 100.0 | /mnt/stockage/packages/f23/libmx/po/pl.po | 
+ | [pt_BR](/f23/language/pt_BR) | 40 | 40 | 100.0 | /mnt/stockage/packages/f23/libmx/po/pt_BR.po | 
+ | [ro](/f23/language/ro) | 40 | 40 | 100.0 | /mnt/stockage/packages/f23/libmx/po/ro.po | 
+ | [ru](/f23/language/ru) | 40 | 40 | 100.0 | /mnt/stockage/packages/f23/libmx/po/ru.po | 
+ | [sv](/f23/language/sv) | 40 | 40 | 100.0 | /mnt/stockage/packages/f23/libmx/po/sv.po | 
+ | [tr](/f23/language/tr) | 40 | 40 | 100.0 | /mnt/stockage/packages/f23/libmx/po/tr.po | 
+ | [wa](/f23/language/wa) | 40 | 40 | 100.0 | /mnt/stockage/packages/f23/libmx/po/wa.po | 
+ | [zh_Hans](/f23/language/zh_Hans) | 40 | 40 | 100.0 | /mnt/stockage/packages/f23/libmx/po/zh_CN.po | 
+ | [zh_Hant](/f23/language/zh_Hant) | 40 | 40 | 100.0 | /mnt/stockage/packages/f23/libmx/po/zh_TW.po | 
+ | [sk](/f23/language/sk) | 34 | 40 | 85.0 | /mnt/stockage/packages/f23/libmx/po/sk.po | 
+ | [lo](/f23/language/lo) | 16 | 40 | 40.0 | /mnt/stockage/packages/f23/libmx/po/lo.po | 
+ | [hu](/f23/language/hu) | 3 | 40 | 7.5 | /mnt/stockage/packages/f23/libmx/po/hu.po | 
+ | [th](/f23/language/th) | 3 | 40 | 7.5 | /mnt/stockage/packages/f23/libmx/po/th.po | 
+ | [uk](/f23/language/uk) | 3 | 40 | 7.5 | /mnt/stockage/packages/f23/libmx/po/uk.po | 
 {.sortable}
 
 

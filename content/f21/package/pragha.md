@@ -18,26 +18,26 @@ The package pragha (version 1.2.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f21/language/cs.md" >}}) | 802 | 802 | 100.0 | /mnt/stockage/packages/f21/pragha/po/cs.po | 
- | [es]({{< ref "/f21/language/es.md" >}}) | 802 | 802 | 100.0 | /mnt/stockage/packages/f21/pragha/po/es.po | 
- | [pt]({{< ref "/f21/language/pt.md" >}}) | 802 | 802 | 100.0 | /mnt/stockage/packages/f21/pragha/po/pt.po | 
- | [ru]({{< ref "/f21/language/ru.md" >}}) | 802 | 802 | 100.0 | /mnt/stockage/packages/f21/pragha/po/ru.po | 
- | [ko]({{< ref "/f21/language/ko.md" >}}) | 786 | 802 | 98.0 | /mnt/stockage/packages/f21/pragha/po/ko_KR.po | 
- | [fr]({{< ref "/f21/language/fr.md" >}}) | 783 | 802 | 97.6 | /mnt/stockage/packages/f21/pragha/po/fr.po | 
- | [tr]({{< ref "/f21/language/tr.md" >}}) | 775 | 802 | 96.6 | /mnt/stockage/packages/f21/pragha/po/tr.po | 
- | [de]({{< ref "/f21/language/de.md" >}}) | 770 | 802 | 96.0 | /mnt/stockage/packages/f21/pragha/po/de.po | 
- | [pt_BR]({{< ref "/f21/language/pt_BR.md" >}}) | 705 | 802 | 87.9 | /mnt/stockage/packages/f21/pragha/po/pt_BR.po | 
- | [it]({{< ref "/f21/language/it.md" >}}) | 686 | 802 | 85.5 | /mnt/stockage/packages/f21/pragha/po/it.po | 
- | [hu]({{< ref "/f21/language/hu.md" >}}) | 674 | 802 | 84.0 | /mnt/stockage/packages/f21/pragha/po/hu.po | 
- | [nl]({{< ref "/f21/language/nl.md" >}}) | 674 | 802 | 84.0 | /mnt/stockage/packages/f21/pragha/po/nl.po | 
- | [uk]({{< ref "/f21/language/uk.md" >}}) | 627 | 802 | 78.2 | /mnt/stockage/packages/f21/pragha/po/uk.po | 
- | [zh_Hans]({{< ref "/f21/language/zh_Hans.md" >}}) | 554 | 802 | 69.1 | /mnt/stockage/packages/f21/pragha/po/zh_CN.po | 
- | [el]({{< ref "/f21/language/el.md" >}}) | 374 | 802 | 46.6 | /mnt/stockage/packages/f21/pragha/po/el.po | 
- | [sv]({{< ref "/f21/language/sv.md" >}}) | 315 | 802 | 39.3 | /mnt/stockage/packages/f21/pragha/po/sv.po | 
- | [vi]({{< ref "/f21/language/vi.md" >}}) | 296 | 802 | 36.9 | /mnt/stockage/packages/f21/pragha/po/vi.po | 
- | [pl]({{< ref "/f21/language/pl.md" >}}) | 289 | 802 | 36.0 | /mnt/stockage/packages/f21/pragha/po/pl.po | 
- | [ja]({{< ref "/f21/language/ja.md" >}}) | 225 | 802 | 28.1 | /mnt/stockage/packages/f21/pragha/po/ja.po | 
- | [nb_NO]({{< ref "/f21/language/nb_NO.md" >}}) | 184 | 802 | 22.9 | /mnt/stockage/packages/f21/pragha/po/no.po | 
+ | [cs](/f21/language/cs) | 802 | 802 | 100.0 | /mnt/stockage/packages/f21/pragha/po/cs.po | 
+ | [es](/f21/language/es) | 802 | 802 | 100.0 | /mnt/stockage/packages/f21/pragha/po/es.po | 
+ | [pt](/f21/language/pt) | 802 | 802 | 100.0 | /mnt/stockage/packages/f21/pragha/po/pt.po | 
+ | [ru](/f21/language/ru) | 802 | 802 | 100.0 | /mnt/stockage/packages/f21/pragha/po/ru.po | 
+ | [ko](/f21/language/ko) | 786 | 802 | 98.0 | /mnt/stockage/packages/f21/pragha/po/ko_KR.po | 
+ | [fr](/f21/language/fr) | 783 | 802 | 97.6 | /mnt/stockage/packages/f21/pragha/po/fr.po | 
+ | [tr](/f21/language/tr) | 775 | 802 | 96.6 | /mnt/stockage/packages/f21/pragha/po/tr.po | 
+ | [de](/f21/language/de) | 770 | 802 | 96.0 | /mnt/stockage/packages/f21/pragha/po/de.po | 
+ | [pt_BR](/f21/language/pt_BR) | 705 | 802 | 87.9 | /mnt/stockage/packages/f21/pragha/po/pt_BR.po | 
+ | [it](/f21/language/it) | 686 | 802 | 85.5 | /mnt/stockage/packages/f21/pragha/po/it.po | 
+ | [hu](/f21/language/hu) | 674 | 802 | 84.0 | /mnt/stockage/packages/f21/pragha/po/hu.po | 
+ | [nl](/f21/language/nl) | 674 | 802 | 84.0 | /mnt/stockage/packages/f21/pragha/po/nl.po | 
+ | [uk](/f21/language/uk) | 627 | 802 | 78.2 | /mnt/stockage/packages/f21/pragha/po/uk.po | 
+ | [zh_Hans](/f21/language/zh_Hans) | 554 | 802 | 69.1 | /mnt/stockage/packages/f21/pragha/po/zh_CN.po | 
+ | [el](/f21/language/el) | 374 | 802 | 46.6 | /mnt/stockage/packages/f21/pragha/po/el.po | 
+ | [sv](/f21/language/sv) | 315 | 802 | 39.3 | /mnt/stockage/packages/f21/pragha/po/sv.po | 
+ | [vi](/f21/language/vi) | 296 | 802 | 36.9 | /mnt/stockage/packages/f21/pragha/po/vi.po | 
+ | [pl](/f21/language/pl) | 289 | 802 | 36.0 | /mnt/stockage/packages/f21/pragha/po/pl.po | 
+ | [ja](/f21/language/ja) | 225 | 802 | 28.1 | /mnt/stockage/packages/f21/pragha/po/ja.po | 
+ | [nb_NO](/f21/language/nb_NO) | 184 | 802 | 22.9 | /mnt/stockage/packages/f21/pragha/po/no.po | 
 {.sortable}
 
 

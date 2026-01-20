@@ -18,45 +18,45 @@ The package sudo (version 1.9.13):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f36/language/ca.md" >}}) | 5285 | 5285 | 100.0 | /mnt/stockage/packages/f36/sudo/plugins/sudoers/po/ca.po/mnt/stockage/packages/f36/sudo/po/ca.po | 
- | [cs]({{< ref "/f36/language/cs.md" >}}) | 6182 | 6182 | 100.0 | /mnt/stockage/packages/f36/sudo/plugins/sudoers/po/cs.po/mnt/stockage/packages/f36/sudo/po/cs.po | 
- | [da]({{< ref "/f36/language/da.md" >}}) | 4152 | 4152 | 100.0 | /mnt/stockage/packages/f36/sudo/plugins/sudoers/po/da.po/mnt/stockage/packages/f36/sudo/po/da.po | 
- | [de]({{< ref "/f36/language/de.md" >}}) | 6182 | 6182 | 100.0 | /mnt/stockage/packages/f36/sudo/plugins/sudoers/po/de.po/mnt/stockage/packages/f36/sudo/po/de.po | 
- | [eo]({{< ref "/f36/language/eo.md" >}}) | 6180 | 6180 | 100.0 | /mnt/stockage/packages/f36/sudo/plugins/sudoers/po/eo.po/mnt/stockage/packages/f36/sudo/po/eo.po | 
- | [fr]({{< ref "/f36/language/fr.md" >}}) | 6182 | 6182 | 100.0 | /mnt/stockage/packages/f36/sudo/plugins/sudoers/po/fr.po/mnt/stockage/packages/f36/sudo/po/fr.po | 
- | [hr]({{< ref "/f36/language/hr.md" >}}) | 6182 | 6182 | 100.0 | /mnt/stockage/packages/f36/sudo/plugins/sudoers/po/hr.po/mnt/stockage/packages/f36/sudo/po/hr.po | 
- | [it]({{< ref "/f36/language/it.md" >}}) | 5390 | 5390 | 100.0 | /mnt/stockage/packages/f36/sudo/plugins/sudoers/po/it.po/mnt/stockage/packages/f36/sudo/po/it.po | 
- | [ja]({{< ref "/f36/language/ja.md" >}}) | 6182 | 6182 | 100.0 | /mnt/stockage/packages/f36/sudo/plugins/sudoers/po/ja.po/mnt/stockage/packages/f36/sudo/po/ja.po | 
- | [ko]({{< ref "/f36/language/ko.md" >}}) | 6182 | 6182 | 100.0 | /mnt/stockage/packages/f36/sudo/plugins/sudoers/po/ko.po/mnt/stockage/packages/f36/sudo/po/ko.po | 
- | [nb_NO]({{< ref "/f36/language/nb_NO.md" >}}) | 4299 | 4299 | 100.0 | /mnt/stockage/packages/f36/sudo/plugins/sudoers/po/nb.po/mnt/stockage/packages/f36/sudo/po/nb.po | 
- | [pl]({{< ref "/f36/language/pl.md" >}}) | 6182 | 6182 | 100.0 | /mnt/stockage/packages/f36/sudo/plugins/sudoers/po/pl.po/mnt/stockage/packages/f36/sudo/po/pl.po | 
- | [pt]({{< ref "/f36/language/pt.md" >}}) | 5677 | 5677 | 100.0 | /mnt/stockage/packages/f36/sudo/plugins/sudoers/po/pt.po/mnt/stockage/packages/f36/sudo/po/pt.po | 
- | [pt_BR]({{< ref "/f36/language/pt_BR.md" >}}) | 5677 | 5677 | 100.0 | /mnt/stockage/packages/f36/sudo/plugins/sudoers/po/pt_BR.po/mnt/stockage/packages/f36/sudo/po/pt_BR.po | 
- | [ro]({{< ref "/f36/language/ro.md" >}}) | 6182 | 6182 | 100.0 | /mnt/stockage/packages/f36/sudo/plugins/sudoers/po/ro.po/mnt/stockage/packages/f36/sudo/po/ro.po | 
- | [sl]({{< ref "/f36/language/sl.md" >}}) | 3207 | 3207 | 100.0 | /mnt/stockage/packages/f36/sudo/plugins/sudoers/po/sl.po/mnt/stockage/packages/f36/sudo/po/sl.po | 
- | [sr]({{< ref "/f36/language/sr.md" >}}) | 6043 | 6043 | 100.0 | /mnt/stockage/packages/f36/sudo/plugins/sudoers/po/sr.po/mnt/stockage/packages/f36/sudo/po/sr.po | 
- | [sv]({{< ref "/f36/language/sv.md" >}}) | 6182 | 6182 | 100.0 | /mnt/stockage/packages/f36/sudo/plugins/sudoers/po/sv.po/mnt/stockage/packages/f36/sudo/po/sv.po | 
- | [uk]({{< ref "/f36/language/uk.md" >}}) | 6182 | 6182 | 100.0 | /mnt/stockage/packages/f36/sudo/plugins/sudoers/po/uk.po/mnt/stockage/packages/f36/sudo/po/uk.po | 
- | [vi]({{< ref "/f36/language/vi.md" >}}) | 4488 | 4488 | 100.0 | /mnt/stockage/packages/f36/sudo/plugins/sudoers/po/vi.po/mnt/stockage/packages/f36/sudo/po/vi.po | 
- | [zh_Hant]({{< ref "/f36/language/zh_Hant.md" >}}) | 6174 | 6182 | 99.9 | /mnt/stockage/packages/f36/sudo/plugins/sudoers/po/zh_TW.po/mnt/stockage/packages/f36/sudo/po/zh_TW.po | 
- | [el]({{< ref "/f36/language/el.md" >}}) | 2248 | 2259 | 99.5 | /mnt/stockage/packages/f36/sudo/plugins/sudoers/po/el.po | 
- | [fi]({{< ref "/f36/language/fi.md" >}}) | 5810 | 6030 | 96.4 | /mnt/stockage/packages/f36/sudo/plugins/sudoers/po/fi.po/mnt/stockage/packages/f36/sudo/po/fi.po | 
- | [gl]({{< ref "/f36/language/gl.md" >}}) | 1043 | 1109 | 94.0 | /mnt/stockage/packages/f36/sudo/po/gl.po | 
- | [zh_Hans]({{< ref "/f36/language/zh_Hans.md" >}}) | 5695 | 6180 | 92.2 | /mnt/stockage/packages/f36/sudo/plugins/sudoers/po/zh_CN.po/mnt/stockage/packages/f36/sudo/po/zh_CN.po | 
- | [nl]({{< ref "/f36/language/nl.md" >}}) | 3508 | 3862 | 90.8 | /mnt/stockage/packages/f36/sudo/plugins/sudoers/po/nl.po/mnt/stockage/packages/f36/sudo/po/nl.po | 
- | [ast]({{< ref "/f36/language/ast.md" >}}) | 3252 | 4232 | 76.8 | /mnt/stockage/packages/f36/sudo/plugins/sudoers/po/ast.po/mnt/stockage/packages/f36/sudo/po/ast.po | 
- | [hu]({{< ref "/f36/language/hu.md" >}}) | 2638 | 3927 | 67.2 | /mnt/stockage/packages/f36/sudo/plugins/sudoers/po/hu.po/mnt/stockage/packages/f36/sudo/po/hu.po | 
- | [tr]({{< ref "/f36/language/tr.md" >}}) | 2087 | 3564 | 58.6 | /mnt/stockage/packages/f36/sudo/plugins/sudoers/po/tr.po/mnt/stockage/packages/f36/sudo/po/tr.po | 
- | [es]({{< ref "/f36/language/es.md" >}}) | 1999 | 3584 | 55.8 | /mnt/stockage/packages/f36/sudo/plugins/sudoers/po/es.po/mnt/stockage/packages/f36/sudo/po/es.po | 
- | [fa]({{< ref "/f36/language/fa.md" >}}) | 727 | 1357 | 53.6 | /mnt/stockage/packages/f36/sudo/po/fa.po | 
- | [fur]({{< ref "/f36/language/fur.md" >}}) | 2062 | 4290 | 48.1 | /mnt/stockage/packages/f36/sudo/plugins/sudoers/po/fur.po/mnt/stockage/packages/f36/sudo/po/fur.po | 
- | [ka]({{< ref "/f36/language/ka.md" >}}) | 2053 | 6180 | 33.2 | /mnt/stockage/packages/f36/sudo/plugins/sudoers/po/ka.po/mnt/stockage/packages/f36/sudo/po/ka.po | 
- | [sk]({{< ref "/f36/language/sk.md" >}}) | 1160 | 3511 | 33.0 | /mnt/stockage/packages/f36/sudo/plugins/sudoers/po/sk.po/mnt/stockage/packages/f36/sudo/po/sk.po | 
- | [ru]({{< ref "/f36/language/ru.md" >}}) | 1593 | 5782 | 27.6 | /mnt/stockage/packages/f36/sudo/plugins/sudoers/po/ru.po/mnt/stockage/packages/f36/sudo/po/ru.po | 
- | [eu]({{< ref "/f36/language/eu.md" >}}) | 707 | 3005 | 23.5 | /mnt/stockage/packages/f36/sudo/plugins/sudoers/po/eu.po/mnt/stockage/packages/f36/sudo/po/eu.po | 
- | [nn]({{< ref "/f36/language/nn.md" >}}) | 154 | 1149 | 13.4 | /mnt/stockage/packages/f36/sudo/po/nn.po | 
- | [sq]({{< ref "/f36/language/sq.md" >}}) | 166 | 1536 | 10.8 | /mnt/stockage/packages/f36/sudo/po/sq.po | 
- | [lt]({{< ref "/f36/language/lt.md" >}}) | 98 | 2138 | 4.6 | /mnt/stockage/packages/f36/sudo/plugins/sudoers/po/lt.po | 
+ | [ca](/f36/language/ca) | 5285 | 5285 | 100.0 | /mnt/stockage/packages/f36/sudo/plugins/sudoers/po/ca.po/mnt/stockage/packages/f36/sudo/po/ca.po | 
+ | [cs](/f36/language/cs) | 6182 | 6182 | 100.0 | /mnt/stockage/packages/f36/sudo/plugins/sudoers/po/cs.po/mnt/stockage/packages/f36/sudo/po/cs.po | 
+ | [da](/f36/language/da) | 4152 | 4152 | 100.0 | /mnt/stockage/packages/f36/sudo/plugins/sudoers/po/da.po/mnt/stockage/packages/f36/sudo/po/da.po | 
+ | [de](/f36/language/de) | 6182 | 6182 | 100.0 | /mnt/stockage/packages/f36/sudo/plugins/sudoers/po/de.po/mnt/stockage/packages/f36/sudo/po/de.po | 
+ | [eo](/f36/language/eo) | 6180 | 6180 | 100.0 | /mnt/stockage/packages/f36/sudo/plugins/sudoers/po/eo.po/mnt/stockage/packages/f36/sudo/po/eo.po | 
+ | [fr](/f36/language/fr) | 6182 | 6182 | 100.0 | /mnt/stockage/packages/f36/sudo/plugins/sudoers/po/fr.po/mnt/stockage/packages/f36/sudo/po/fr.po | 
+ | [hr](/f36/language/hr) | 6182 | 6182 | 100.0 | /mnt/stockage/packages/f36/sudo/plugins/sudoers/po/hr.po/mnt/stockage/packages/f36/sudo/po/hr.po | 
+ | [it](/f36/language/it) | 5390 | 5390 | 100.0 | /mnt/stockage/packages/f36/sudo/plugins/sudoers/po/it.po/mnt/stockage/packages/f36/sudo/po/it.po | 
+ | [ja](/f36/language/ja) | 6182 | 6182 | 100.0 | /mnt/stockage/packages/f36/sudo/plugins/sudoers/po/ja.po/mnt/stockage/packages/f36/sudo/po/ja.po | 
+ | [ko](/f36/language/ko) | 6182 | 6182 | 100.0 | /mnt/stockage/packages/f36/sudo/plugins/sudoers/po/ko.po/mnt/stockage/packages/f36/sudo/po/ko.po | 
+ | [nb_NO](/f36/language/nb_NO) | 4299 | 4299 | 100.0 | /mnt/stockage/packages/f36/sudo/plugins/sudoers/po/nb.po/mnt/stockage/packages/f36/sudo/po/nb.po | 
+ | [pl](/f36/language/pl) | 6182 | 6182 | 100.0 | /mnt/stockage/packages/f36/sudo/plugins/sudoers/po/pl.po/mnt/stockage/packages/f36/sudo/po/pl.po | 
+ | [pt](/f36/language/pt) | 5677 | 5677 | 100.0 | /mnt/stockage/packages/f36/sudo/plugins/sudoers/po/pt.po/mnt/stockage/packages/f36/sudo/po/pt.po | 
+ | [pt_BR](/f36/language/pt_BR) | 5677 | 5677 | 100.0 | /mnt/stockage/packages/f36/sudo/plugins/sudoers/po/pt_BR.po/mnt/stockage/packages/f36/sudo/po/pt_BR.po | 
+ | [ro](/f36/language/ro) | 6182 | 6182 | 100.0 | /mnt/stockage/packages/f36/sudo/plugins/sudoers/po/ro.po/mnt/stockage/packages/f36/sudo/po/ro.po | 
+ | [sl](/f36/language/sl) | 3207 | 3207 | 100.0 | /mnt/stockage/packages/f36/sudo/plugins/sudoers/po/sl.po/mnt/stockage/packages/f36/sudo/po/sl.po | 
+ | [sr](/f36/language/sr) | 6043 | 6043 | 100.0 | /mnt/stockage/packages/f36/sudo/plugins/sudoers/po/sr.po/mnt/stockage/packages/f36/sudo/po/sr.po | 
+ | [sv](/f36/language/sv) | 6182 | 6182 | 100.0 | /mnt/stockage/packages/f36/sudo/plugins/sudoers/po/sv.po/mnt/stockage/packages/f36/sudo/po/sv.po | 
+ | [uk](/f36/language/uk) | 6182 | 6182 | 100.0 | /mnt/stockage/packages/f36/sudo/plugins/sudoers/po/uk.po/mnt/stockage/packages/f36/sudo/po/uk.po | 
+ | [vi](/f36/language/vi) | 4488 | 4488 | 100.0 | /mnt/stockage/packages/f36/sudo/plugins/sudoers/po/vi.po/mnt/stockage/packages/f36/sudo/po/vi.po | 
+ | [zh_Hant](/f36/language/zh_Hant) | 6174 | 6182 | 99.9 | /mnt/stockage/packages/f36/sudo/plugins/sudoers/po/zh_TW.po/mnt/stockage/packages/f36/sudo/po/zh_TW.po | 
+ | [el](/f36/language/el) | 2248 | 2259 | 99.5 | /mnt/stockage/packages/f36/sudo/plugins/sudoers/po/el.po | 
+ | [fi](/f36/language/fi) | 5810 | 6030 | 96.4 | /mnt/stockage/packages/f36/sudo/plugins/sudoers/po/fi.po/mnt/stockage/packages/f36/sudo/po/fi.po | 
+ | [gl](/f36/language/gl) | 1043 | 1109 | 94.0 | /mnt/stockage/packages/f36/sudo/po/gl.po | 
+ | [zh_Hans](/f36/language/zh_Hans) | 5695 | 6180 | 92.2 | /mnt/stockage/packages/f36/sudo/plugins/sudoers/po/zh_CN.po/mnt/stockage/packages/f36/sudo/po/zh_CN.po | 
+ | [nl](/f36/language/nl) | 3508 | 3862 | 90.8 | /mnt/stockage/packages/f36/sudo/plugins/sudoers/po/nl.po/mnt/stockage/packages/f36/sudo/po/nl.po | 
+ | [ast](/f36/language/ast) | 3252 | 4232 | 76.8 | /mnt/stockage/packages/f36/sudo/plugins/sudoers/po/ast.po/mnt/stockage/packages/f36/sudo/po/ast.po | 
+ | [hu](/f36/language/hu) | 2638 | 3927 | 67.2 | /mnt/stockage/packages/f36/sudo/plugins/sudoers/po/hu.po/mnt/stockage/packages/f36/sudo/po/hu.po | 
+ | [tr](/f36/language/tr) | 2087 | 3564 | 58.6 | /mnt/stockage/packages/f36/sudo/plugins/sudoers/po/tr.po/mnt/stockage/packages/f36/sudo/po/tr.po | 
+ | [es](/f36/language/es) | 1999 | 3584 | 55.8 | /mnt/stockage/packages/f36/sudo/plugins/sudoers/po/es.po/mnt/stockage/packages/f36/sudo/po/es.po | 
+ | [fa](/f36/language/fa) | 727 | 1357 | 53.6 | /mnt/stockage/packages/f36/sudo/po/fa.po | 
+ | [fur](/f36/language/fur) | 2062 | 4290 | 48.1 | /mnt/stockage/packages/f36/sudo/plugins/sudoers/po/fur.po/mnt/stockage/packages/f36/sudo/po/fur.po | 
+ | [ka](/f36/language/ka) | 2053 | 6180 | 33.2 | /mnt/stockage/packages/f36/sudo/plugins/sudoers/po/ka.po/mnt/stockage/packages/f36/sudo/po/ka.po | 
+ | [sk](/f36/language/sk) | 1160 | 3511 | 33.0 | /mnt/stockage/packages/f36/sudo/plugins/sudoers/po/sk.po/mnt/stockage/packages/f36/sudo/po/sk.po | 
+ | [ru](/f36/language/ru) | 1593 | 5782 | 27.6 | /mnt/stockage/packages/f36/sudo/plugins/sudoers/po/ru.po/mnt/stockage/packages/f36/sudo/po/ru.po | 
+ | [eu](/f36/language/eu) | 707 | 3005 | 23.5 | /mnt/stockage/packages/f36/sudo/plugins/sudoers/po/eu.po/mnt/stockage/packages/f36/sudo/po/eu.po | 
+ | [nn](/f36/language/nn) | 154 | 1149 | 13.4 | /mnt/stockage/packages/f36/sudo/po/nn.po | 
+ | [sq](/f36/language/sq) | 166 | 1536 | 10.8 | /mnt/stockage/packages/f36/sudo/po/sq.po | 
+ | [lt](/f36/language/lt) | 98 | 2138 | 4.6 | /mnt/stockage/packages/f36/sudo/plugins/sudoers/po/lt.po | 
 {.sortable}
 
 

@@ -18,32 +18,32 @@ The package dragonplayer (version 2.0.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [pt]({{< ref "/f9/language/pt.md" >}}) | 223 | 223 | 100.0 | /mnt/stockage/packages/f9/dragonplayer/po/pt/dragonplayer.po | 
- | [tr]({{< ref "/f9/language/tr.md" >}}) | 222 | 223 | 99.6 | /mnt/stockage/packages/f9/dragonplayer/po/tr/dragonplayer.po | 
- | [zh_Hans]({{< ref "/f9/language/zh_Hans.md" >}}) | 222 | 223 | 99.6 | /mnt/stockage/packages/f9/dragonplayer/po/zh_CN/dragonplayer.po | 
- | [zh_Hant]({{< ref "/f9/language/zh_Hant.md" >}}) | 222 | 223 | 99.6 | /mnt/stockage/packages/f9/dragonplayer/po/zh_TW/dragonplayer.po | 
- | [cs]({{< ref "/f9/language/cs.md" >}}) | 217 | 222 | 97.7 | /mnt/stockage/packages/f9/dragonplayer/po/cs/dragonplayer.po | 
- | [da]({{< ref "/f9/language/da.md" >}}) | 217 | 222 | 97.7 | /mnt/stockage/packages/f9/dragonplayer/po/da/dragonplayer.po | 
- | [ga]({{< ref "/f9/language/ga.md" >}}) | 217 | 222 | 97.7 | /mnt/stockage/packages/f9/dragonplayer/po/ga/dragonplayer.po | 
- | [km]({{< ref "/f9/language/km.md" >}}) | 217 | 222 | 97.7 | /mnt/stockage/packages/f9/dragonplayer/po/km/dragonplayer.po | 
- | [nds]({{< ref "/f9/language/nds.md" >}}) | 217 | 222 | 97.7 | /mnt/stockage/packages/f9/dragonplayer/po/nds/dragonplayer.po | 
- | [el]({{< ref "/f9/language/el.md" >}}) | 216 | 222 | 97.3 | /mnt/stockage/packages/f9/dragonplayer/po/el/dragonplayer.po | 
- | [lv]({{< ref "/f9/language/lv.md" >}}) | 216 | 222 | 97.3 | /mnt/stockage/packages/f9/dragonplayer/po/lv/dragonplayer.po | 
- | [sv]({{< ref "/f9/language/sv.md" >}}) | 205 | 223 | 91.9 | /mnt/stockage/packages/f9/dragonplayer/po/sv/dragonplayer.po | 
- | [ja]({{< ref "/f9/language/ja.md" >}}) | 204 | 223 | 91.5 | /mnt/stockage/packages/f9/dragonplayer/po/ja/dragonplayer.po | 
- | [pl]({{< ref "/f9/language/pl.md" >}}) | 201 | 223 | 90.1 | /mnt/stockage/packages/f9/dragonplayer/po/pl/dragonplayer.po | 
- | [fr]({{< ref "/f9/language/fr.md" >}}) | 199 | 222 | 89.6 | /mnt/stockage/packages/f9/dragonplayer/po/fr/dragonplayer.po | 
- | [it]({{< ref "/f9/language/it.md" >}}) | 199 | 222 | 89.6 | /mnt/stockage/packages/f9/dragonplayer/po/it/dragonplayer.po | 
- | [pt_BR]({{< ref "/f9/language/pt_BR.md" >}}) | 187 | 223 | 83.9 | /mnt/stockage/packages/f9/dragonplayer/po/pt_BR/dragonplayer.po | 
- | [ko]({{< ref "/f9/language/ko.md" >}}) | 186 | 222 | 83.8 | /mnt/stockage/packages/f9/dragonplayer/po/ko/dragonplayer.po | 
- | [gl]({{< ref "/f9/language/gl.md" >}}) | 177 | 222 | 79.7 | /mnt/stockage/packages/f9/dragonplayer/po/gl/dragonplayer.po | 
- | [error]({{< ref "/f9/language/error.md" >}}) | 153 | 223 | 68.6 | /mnt/stockage/packages/f9/dragonplayer/po/x-test/dragonplayer.po | 
- | [es]({{< ref "/f9/language/es.md" >}}) | 147 | 222 | 66.2 | /mnt/stockage/packages/f9/dragonplayer/po/es/dragonplayer.po | 
- | [be]({{< ref "/f9/language/be.md" >}}) | 16 | 222 | 7.2 | /mnt/stockage/packages/f9/dragonplayer/po/be/dragonplayer.po | 
- | [oc]({{< ref "/f9/language/oc.md" >}}) | 12 | 223 | 5.4 | /mnt/stockage/packages/f9/dragonplayer/po/oc/dragonplayer.po | 
- | [ar]({{< ref "/f9/language/ar.md" >}}) | 0 | 222 | 0.0 | /mnt/stockage/packages/f9/dragonplayer/po/ar/dragonplayer.po | 
- | [nb_NO]({{< ref "/f9/language/nb_NO.md" >}}) | 0 | 222 | 0.0 | /mnt/stockage/packages/f9/dragonplayer/po/nb/dragonplayer.po | 
- | [nn]({{< ref "/f9/language/nn.md" >}}) | 0 | 222 | 0.0 | /mnt/stockage/packages/f9/dragonplayer/po/nn/dragonplayer.po | 
+ | [pt](/f9/language/pt) | 223 | 223 | 100.0 | /mnt/stockage/packages/f9/dragonplayer/po/pt/dragonplayer.po | 
+ | [tr](/f9/language/tr) | 222 | 223 | 99.6 | /mnt/stockage/packages/f9/dragonplayer/po/tr/dragonplayer.po | 
+ | [zh_Hans](/f9/language/zh_Hans) | 222 | 223 | 99.6 | /mnt/stockage/packages/f9/dragonplayer/po/zh_CN/dragonplayer.po | 
+ | [zh_Hant](/f9/language/zh_Hant) | 222 | 223 | 99.6 | /mnt/stockage/packages/f9/dragonplayer/po/zh_TW/dragonplayer.po | 
+ | [cs](/f9/language/cs) | 217 | 222 | 97.7 | /mnt/stockage/packages/f9/dragonplayer/po/cs/dragonplayer.po | 
+ | [da](/f9/language/da) | 217 | 222 | 97.7 | /mnt/stockage/packages/f9/dragonplayer/po/da/dragonplayer.po | 
+ | [ga](/f9/language/ga) | 217 | 222 | 97.7 | /mnt/stockage/packages/f9/dragonplayer/po/ga/dragonplayer.po | 
+ | [km](/f9/language/km) | 217 | 222 | 97.7 | /mnt/stockage/packages/f9/dragonplayer/po/km/dragonplayer.po | 
+ | [nds](/f9/language/nds) | 217 | 222 | 97.7 | /mnt/stockage/packages/f9/dragonplayer/po/nds/dragonplayer.po | 
+ | [el](/f9/language/el) | 216 | 222 | 97.3 | /mnt/stockage/packages/f9/dragonplayer/po/el/dragonplayer.po | 
+ | [lv](/f9/language/lv) | 216 | 222 | 97.3 | /mnt/stockage/packages/f9/dragonplayer/po/lv/dragonplayer.po | 
+ | [sv](/f9/language/sv) | 205 | 223 | 91.9 | /mnt/stockage/packages/f9/dragonplayer/po/sv/dragonplayer.po | 
+ | [ja](/f9/language/ja) | 204 | 223 | 91.5 | /mnt/stockage/packages/f9/dragonplayer/po/ja/dragonplayer.po | 
+ | [pl](/f9/language/pl) | 201 | 223 | 90.1 | /mnt/stockage/packages/f9/dragonplayer/po/pl/dragonplayer.po | 
+ | [fr](/f9/language/fr) | 199 | 222 | 89.6 | /mnt/stockage/packages/f9/dragonplayer/po/fr/dragonplayer.po | 
+ | [it](/f9/language/it) | 199 | 222 | 89.6 | /mnt/stockage/packages/f9/dragonplayer/po/it/dragonplayer.po | 
+ | [pt_BR](/f9/language/pt_BR) | 187 | 223 | 83.9 | /mnt/stockage/packages/f9/dragonplayer/po/pt_BR/dragonplayer.po | 
+ | [ko](/f9/language/ko) | 186 | 222 | 83.8 | /mnt/stockage/packages/f9/dragonplayer/po/ko/dragonplayer.po | 
+ | [gl](/f9/language/gl) | 177 | 222 | 79.7 | /mnt/stockage/packages/f9/dragonplayer/po/gl/dragonplayer.po | 
+ | [error](/f9/language/error) | 153 | 223 | 68.6 | /mnt/stockage/packages/f9/dragonplayer/po/x-test/dragonplayer.po | 
+ | [es](/f9/language/es) | 147 | 222 | 66.2 | /mnt/stockage/packages/f9/dragonplayer/po/es/dragonplayer.po | 
+ | [be](/f9/language/be) | 16 | 222 | 7.2 | /mnt/stockage/packages/f9/dragonplayer/po/be/dragonplayer.po | 
+ | [oc](/f9/language/oc) | 12 | 223 | 5.4 | /mnt/stockage/packages/f9/dragonplayer/po/oc/dragonplayer.po | 
+ | [ar](/f9/language/ar) | 0 | 222 | 0.0 | /mnt/stockage/packages/f9/dragonplayer/po/ar/dragonplayer.po | 
+ | [nb_NO](/f9/language/nb_NO) | 0 | 222 | 0.0 | /mnt/stockage/packages/f9/dragonplayer/po/nb/dragonplayer.po | 
+ | [nn](/f9/language/nn) | 0 | 222 | 0.0 | /mnt/stockage/packages/f9/dragonplayer/po/nn/dragonplayer.po | 
 {.sortable}
 
 

@@ -18,9 +18,9 @@ The package python-imdb (version 4.9):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [en]({{< ref "/f19/language/en.md" >}}) | 310 | 310 | 100.0 | /mnt/stockage/packages/f19/python-imdb/imdb/locale/imdbpy-en.po | 
- | [it]({{< ref "/f19/language/it.md" >}}) | 297 | 321 | 92.5 | /mnt/stockage/packages/f19/python-imdb/imdb/locale/imdbpy-it.po | 
- | [tr]({{< ref "/f19/language/tr.md" >}}) | 245 | 321 | 76.3 | /mnt/stockage/packages/f19/python-imdb/imdb/locale/imdbpy-tr.po | 
+ | [en](/f19/language/en) | 310 | 310 | 100.0 | /mnt/stockage/packages/f19/python-imdb/imdb/locale/imdbpy-en.po | 
+ | [it](/f19/language/it) | 297 | 321 | 92.5 | /mnt/stockage/packages/f19/python-imdb/imdb/locale/imdbpy-it.po | 
+ | [tr](/f19/language/tr) | 245 | 321 | 76.3 | /mnt/stockage/packages/f19/python-imdb/imdb/locale/imdbpy-tr.po | 
 {.sortable}
 
 

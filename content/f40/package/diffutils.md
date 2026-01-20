@@ -18,42 +18,42 @@ The package diffutils (version 3.10):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [bg]({{< ref "/f40/language/bg.md" >}}) | 1864 | 1864 | 100.0 | /mnt/stockage/packages/f40/diffutils/po/bg.po | 
- | [cs]({{< ref "/f40/language/cs.md" >}}) | 1864 | 1864 | 100.0 | /mnt/stockage/packages/f40/diffutils/po/cs.po | 
- | [de]({{< ref "/f40/language/de.md" >}}) | 1864 | 1864 | 100.0 | /mnt/stockage/packages/f40/diffutils/po/de.po | 
- | [el]({{< ref "/f40/language/el.md" >}}) | 1864 | 1864 | 100.0 | /mnt/stockage/packages/f40/diffutils/po/el.po | 
- | [eo]({{< ref "/f40/language/eo.md" >}}) | 1864 | 1864 | 100.0 | /mnt/stockage/packages/f40/diffutils/po/eo.po | 
- | [es]({{< ref "/f40/language/es.md" >}}) | 1864 | 1864 | 100.0 | /mnt/stockage/packages/f40/diffutils/po/es.po | 
- | [fi]({{< ref "/f40/language/fi.md" >}}) | 1864 | 1864 | 100.0 | /mnt/stockage/packages/f40/diffutils/po/fi.po | 
- | [fr]({{< ref "/f40/language/fr.md" >}}) | 1864 | 1864 | 100.0 | /mnt/stockage/packages/f40/diffutils/po/fr.po | 
- | [hr]({{< ref "/f40/language/hr.md" >}}) | 1864 | 1864 | 100.0 | /mnt/stockage/packages/f40/diffutils/po/hr.po | 
- | [hu]({{< ref "/f40/language/hu.md" >}}) | 1864 | 1864 | 100.0 | /mnt/stockage/packages/f40/diffutils/po/hu.po | 
- | [id]({{< ref "/f40/language/id.md" >}}) | 1864 | 1864 | 100.0 | /mnt/stockage/packages/f40/diffutils/po/id.po | 
- | [ko]({{< ref "/f40/language/ko.md" >}}) | 1864 | 1864 | 100.0 | /mnt/stockage/packages/f40/diffutils/po/ko.po | 
- | [ms]({{< ref "/f40/language/ms.md" >}}) | 1864 | 1864 | 100.0 | /mnt/stockage/packages/f40/diffutils/po/ms.po | 
- | [nb_NO]({{< ref "/f40/language/nb_NO.md" >}}) | 1864 | 1864 | 100.0 | /mnt/stockage/packages/f40/diffutils/po/nb.po | 
- | [nl]({{< ref "/f40/language/nl.md" >}}) | 1864 | 1864 | 100.0 | /mnt/stockage/packages/f40/diffutils/po/nl.po | 
- | [pl]({{< ref "/f40/language/pl.md" >}}) | 1864 | 1864 | 100.0 | /mnt/stockage/packages/f40/diffutils/po/pl.po | 
- | [pt]({{< ref "/f40/language/pt.md" >}}) | 1864 | 1864 | 100.0 | /mnt/stockage/packages/f40/diffutils/po/pt.po | 
- | [pt_BR]({{< ref "/f40/language/pt_BR.md" >}}) | 1864 | 1864 | 100.0 | /mnt/stockage/packages/f40/diffutils/po/pt_BR.po | 
- | [ro]({{< ref "/f40/language/ro.md" >}}) | 1864 | 1864 | 100.0 | /mnt/stockage/packages/f40/diffutils/po/ro.po | 
- | [ru]({{< ref "/f40/language/ru.md" >}}) | 1864 | 1864 | 100.0 | /mnt/stockage/packages/f40/diffutils/po/ru.po | 
- | [sr]({{< ref "/f40/language/sr.md" >}}) | 1864 | 1864 | 100.0 | /mnt/stockage/packages/f40/diffutils/po/sr.po | 
- | [sv]({{< ref "/f40/language/sv.md" >}}) | 1864 | 1864 | 100.0 | /mnt/stockage/packages/f40/diffutils/po/sv.po | 
- | [tr]({{< ref "/f40/language/tr.md" >}}) | 1864 | 1864 | 100.0 | /mnt/stockage/packages/f40/diffutils/po/tr.po | 
- | [uk]({{< ref "/f40/language/uk.md" >}}) | 1864 | 1864 | 100.0 | /mnt/stockage/packages/f40/diffutils/po/uk.po | 
- | [zh_Hans]({{< ref "/f40/language/zh_Hans.md" >}}) | 1864 | 1864 | 100.0 | /mnt/stockage/packages/f40/diffutils/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f40/language/zh_Hant.md" >}}) | 1864 | 1864 | 100.0 | /mnt/stockage/packages/f40/diffutils/po/zh_TW.po | 
- | [da]({{< ref "/f40/language/da.md" >}}) | 1807 | 1864 | 96.9 | /mnt/stockage/packages/f40/diffutils/po/da.po | 
- | [vi]({{< ref "/f40/language/vi.md" >}}) | 1807 | 1864 | 96.9 | /mnt/stockage/packages/f40/diffutils/po/vi.po | 
- | [it]({{< ref "/f40/language/it.md" >}}) | 1716 | 1864 | 92.1 | /mnt/stockage/packages/f40/diffutils/po/it.po | 
- | [lv]({{< ref "/f40/language/lv.md" >}}) | 1649 | 1864 | 88.5 | /mnt/stockage/packages/f40/diffutils/po/lv.po | 
- | [ka]({{< ref "/f40/language/ka.md" >}}) | 1587 | 1864 | 85.1 | /mnt/stockage/packages/f40/diffutils/po/ka.po | 
- | [ja]({{< ref "/f40/language/ja.md" >}}) | 1491 | 1864 | 80.0 | /mnt/stockage/packages/f40/diffutils/po/ja.po | 
- | [gl]({{< ref "/f40/language/gl.md" >}}) | 550 | 1864 | 29.5 | /mnt/stockage/packages/f40/diffutils/po/gl.po | 
- | [ca]({{< ref "/f40/language/ca.md" >}}) | 415 | 1864 | 22.3 | /mnt/stockage/packages/f40/diffutils/po/ca.po | 
- | [ga]({{< ref "/f40/language/ga.md" >}}) | 415 | 1864 | 22.3 | /mnt/stockage/packages/f40/diffutils/po/ga.po | 
- | [he]({{< ref "/f40/language/he.md" >}}) | 318 | 1864 | 17.1 | /mnt/stockage/packages/f40/diffutils/po/he.po | 
+ | [bg](/f40/language/bg) | 1864 | 1864 | 100.0 | /mnt/stockage/packages/f40/diffutils/po/bg.po | 
+ | [cs](/f40/language/cs) | 1864 | 1864 | 100.0 | /mnt/stockage/packages/f40/diffutils/po/cs.po | 
+ | [de](/f40/language/de) | 1864 | 1864 | 100.0 | /mnt/stockage/packages/f40/diffutils/po/de.po | 
+ | [el](/f40/language/el) | 1864 | 1864 | 100.0 | /mnt/stockage/packages/f40/diffutils/po/el.po | 
+ | [eo](/f40/language/eo) | 1864 | 1864 | 100.0 | /mnt/stockage/packages/f40/diffutils/po/eo.po | 
+ | [es](/f40/language/es) | 1864 | 1864 | 100.0 | /mnt/stockage/packages/f40/diffutils/po/es.po | 
+ | [fi](/f40/language/fi) | 1864 | 1864 | 100.0 | /mnt/stockage/packages/f40/diffutils/po/fi.po | 
+ | [fr](/f40/language/fr) | 1864 | 1864 | 100.0 | /mnt/stockage/packages/f40/diffutils/po/fr.po | 
+ | [hr](/f40/language/hr) | 1864 | 1864 | 100.0 | /mnt/stockage/packages/f40/diffutils/po/hr.po | 
+ | [hu](/f40/language/hu) | 1864 | 1864 | 100.0 | /mnt/stockage/packages/f40/diffutils/po/hu.po | 
+ | [id](/f40/language/id) | 1864 | 1864 | 100.0 | /mnt/stockage/packages/f40/diffutils/po/id.po | 
+ | [ko](/f40/language/ko) | 1864 | 1864 | 100.0 | /mnt/stockage/packages/f40/diffutils/po/ko.po | 
+ | [ms](/f40/language/ms) | 1864 | 1864 | 100.0 | /mnt/stockage/packages/f40/diffutils/po/ms.po | 
+ | [nb_NO](/f40/language/nb_NO) | 1864 | 1864 | 100.0 | /mnt/stockage/packages/f40/diffutils/po/nb.po | 
+ | [nl](/f40/language/nl) | 1864 | 1864 | 100.0 | /mnt/stockage/packages/f40/diffutils/po/nl.po | 
+ | [pl](/f40/language/pl) | 1864 | 1864 | 100.0 | /mnt/stockage/packages/f40/diffutils/po/pl.po | 
+ | [pt](/f40/language/pt) | 1864 | 1864 | 100.0 | /mnt/stockage/packages/f40/diffutils/po/pt.po | 
+ | [pt_BR](/f40/language/pt_BR) | 1864 | 1864 | 100.0 | /mnt/stockage/packages/f40/diffutils/po/pt_BR.po | 
+ | [ro](/f40/language/ro) | 1864 | 1864 | 100.0 | /mnt/stockage/packages/f40/diffutils/po/ro.po | 
+ | [ru](/f40/language/ru) | 1864 | 1864 | 100.0 | /mnt/stockage/packages/f40/diffutils/po/ru.po | 
+ | [sr](/f40/language/sr) | 1864 | 1864 | 100.0 | /mnt/stockage/packages/f40/diffutils/po/sr.po | 
+ | [sv](/f40/language/sv) | 1864 | 1864 | 100.0 | /mnt/stockage/packages/f40/diffutils/po/sv.po | 
+ | [tr](/f40/language/tr) | 1864 | 1864 | 100.0 | /mnt/stockage/packages/f40/diffutils/po/tr.po | 
+ | [uk](/f40/language/uk) | 1864 | 1864 | 100.0 | /mnt/stockage/packages/f40/diffutils/po/uk.po | 
+ | [zh_Hans](/f40/language/zh_Hans) | 1864 | 1864 | 100.0 | /mnt/stockage/packages/f40/diffutils/po/zh_CN.po | 
+ | [zh_Hant](/f40/language/zh_Hant) | 1864 | 1864 | 100.0 | /mnt/stockage/packages/f40/diffutils/po/zh_TW.po | 
+ | [da](/f40/language/da) | 1807 | 1864 | 96.9 | /mnt/stockage/packages/f40/diffutils/po/da.po | 
+ | [vi](/f40/language/vi) | 1807 | 1864 | 96.9 | /mnt/stockage/packages/f40/diffutils/po/vi.po | 
+ | [it](/f40/language/it) | 1716 | 1864 | 92.1 | /mnt/stockage/packages/f40/diffutils/po/it.po | 
+ | [lv](/f40/language/lv) | 1649 | 1864 | 88.5 | /mnt/stockage/packages/f40/diffutils/po/lv.po | 
+ | [ka](/f40/language/ka) | 1587 | 1864 | 85.1 | /mnt/stockage/packages/f40/diffutils/po/ka.po | 
+ | [ja](/f40/language/ja) | 1491 | 1864 | 80.0 | /mnt/stockage/packages/f40/diffutils/po/ja.po | 
+ | [gl](/f40/language/gl) | 550 | 1864 | 29.5 | /mnt/stockage/packages/f40/diffutils/po/gl.po | 
+ | [ca](/f40/language/ca) | 415 | 1864 | 22.3 | /mnt/stockage/packages/f40/diffutils/po/ca.po | 
+ | [ga](/f40/language/ga) | 415 | 1864 | 22.3 | /mnt/stockage/packages/f40/diffutils/po/ga.po | 
+ | [he](/f40/language/he) | 318 | 1864 | 17.1 | /mnt/stockage/packages/f40/diffutils/po/he.po | 
 {.sortable}
 
 

@@ -18,9 +18,9 @@ The package drupal6-auto_nodetitle (version 1.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f19/language/fr.md" >}}) | 129 | 129 | 100.0 | /mnt/stockage/packages/f19/drupal6-auto_nodetitle/translations/fr.po | 
- | [hu]({{< ref "/f19/language/hu.md" >}}) | 129 | 129 | 100.0 | /mnt/stockage/packages/f19/drupal6-auto_nodetitle/translations/hu.po | 
- | [ja]({{< ref "/f19/language/ja.md" >}}) | 114 | 114 | 100.0 | /mnt/stockage/packages/f19/drupal6-auto_nodetitle/translations/ja.po | 
+ | [fr](/f19/language/fr) | 129 | 129 | 100.0 | /mnt/stockage/packages/f19/drupal6-auto_nodetitle/translations/fr.po | 
+ | [hu](/f19/language/hu) | 129 | 129 | 100.0 | /mnt/stockage/packages/f19/drupal6-auto_nodetitle/translations/hu.po | 
+ | [ja](/f19/language/ja) | 114 | 114 | 100.0 | /mnt/stockage/packages/f19/drupal6-auto_nodetitle/translations/ja.po | 
 {.sortable}
 
 

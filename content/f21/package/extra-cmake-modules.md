@@ -18,7 +18,7 @@ The package extra-cmake-modules (version 5.14.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f21/language/fr.md" >}}) | 0 | 6 | 0.0 | /mnt/stockage/packages/f21/extra-cmake-modules/tests/ECMPoQmToolsTest/po-custom-dir1/fr/custom-dir1-install-test.po/mnt/stockage/packages/f21/extra-cmake-modules/tests/ECMPoQmToolsTest/po-custom-dir1/es/custom-dir1-install-test.po/mnt/stockage/packages/f21/extra-cmake-modules/tests/ECMPoQmToolsTest/po-custom-dir2/fr/custom-dir2-install-test.po/mnt/stockage/packages/f21/extra-cmake-modules/tests/ECMPoQmToolsTest/po-custom-dir2/es/custom-dir2-install-test.po/mnt/stockage/packages/f21/extra-cmake-modules/tests/ECMPoQmToolsTest/po/fr/install-test.po/mnt/stockage/packages/f21/extra-cmake-modules/tests/ECMPoQmToolsTest/po/es/install-test.po | 
+ | [fr](/f21/language/fr) | 0 | 6 | 0.0 | /mnt/stockage/packages/f21/extra-cmake-modules/tests/ECMPoQmToolsTest/po-custom-dir1/fr/custom-dir1-install-test.po/mnt/stockage/packages/f21/extra-cmake-modules/tests/ECMPoQmToolsTest/po-custom-dir1/es/custom-dir1-install-test.po/mnt/stockage/packages/f21/extra-cmake-modules/tests/ECMPoQmToolsTest/po-custom-dir2/fr/custom-dir2-install-test.po/mnt/stockage/packages/f21/extra-cmake-modules/tests/ECMPoQmToolsTest/po-custom-dir2/es/custom-dir2-install-test.po/mnt/stockage/packages/f21/extra-cmake-modules/tests/ECMPoQmToolsTest/po/fr/install-test.po/mnt/stockage/packages/f21/extra-cmake-modules/tests/ECMPoQmToolsTest/po/es/install-test.po | 
 {.sortable}
 
 

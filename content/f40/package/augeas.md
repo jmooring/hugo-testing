@@ -18,7 +18,7 @@ The package augeas (version 1.14.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f40/language/fr.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f40/augeas/tests/testlocale/fr/LC_MESSAGES/test-quotearg.po | 
+ | [fr](/f40/language/fr) | 0 | 0 | 0.0 | /mnt/stockage/packages/f40/augeas/tests/testlocale/fr/LC_MESSAGES/test-quotearg.po | 
 {.sortable}
 
 

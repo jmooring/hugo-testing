@@ -18,25 +18,25 @@ The package phodav (version 2.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f31/language/cs.md" >}}) | 63 | 63 | 100.0 | /mnt/stockage/packages/f31/phodav/po/cs.po | 
- | [da]({{< ref "/f31/language/da.md" >}}) | 63 | 63 | 100.0 | /mnt/stockage/packages/f31/phodav/po/da.po | 
- | [de]({{< ref "/f31/language/de.md" >}}) | 63 | 63 | 100.0 | /mnt/stockage/packages/f31/phodav/po/de.po | 
- | [es]({{< ref "/f31/language/es.md" >}}) | 63 | 63 | 100.0 | /mnt/stockage/packages/f31/phodav/po/es.po | 
- | [fur]({{< ref "/f31/language/fur.md" >}}) | 63 | 63 | 100.0 | /mnt/stockage/packages/f31/phodav/po/fur.po | 
- | [hr]({{< ref "/f31/language/hr.md" >}}) | 63 | 63 | 100.0 | /mnt/stockage/packages/f31/phodav/po/hr.po | 
- | [hu]({{< ref "/f31/language/hu.md" >}}) | 63 | 63 | 100.0 | /mnt/stockage/packages/f31/phodav/po/hu.po | 
- | [id]({{< ref "/f31/language/id.md" >}}) | 63 | 63 | 100.0 | /mnt/stockage/packages/f31/phodav/po/id.po | 
- | [pl]({{< ref "/f31/language/pl.md" >}}) | 63 | 63 | 100.0 | /mnt/stockage/packages/f31/phodav/po/pl.po | 
- | [pt_BR]({{< ref "/f31/language/pt_BR.md" >}}) | 63 | 63 | 100.0 | /mnt/stockage/packages/f31/phodav/po/pt_BR.po | 
- | [ro]({{< ref "/f31/language/ro.md" >}}) | 63 | 63 | 100.0 | /mnt/stockage/packages/f31/phodav/po/ro.po | 
- | [sl]({{< ref "/f31/language/sl.md" >}}) | 63 | 63 | 100.0 | /mnt/stockage/packages/f31/phodav/po/sl.po | 
- | [sr]({{< ref "/f31/language/sr.md" >}}) | 63 | 63 | 100.0 | /mnt/stockage/packages/f31/phodav/po/sr.po | 
- | [sr_Latn]({{< ref "/f31/language/sr_Latn.md" >}}) | 63 | 63 | 100.0 | /mnt/stockage/packages/f31/phodav/po/sr@latin.po | 
- | [sv]({{< ref "/f31/language/sv.md" >}}) | 63 | 63 | 100.0 | /mnt/stockage/packages/f31/phodav/po/sv.po | 
- | [tr]({{< ref "/f31/language/tr.md" >}}) | 63 | 63 | 100.0 | /mnt/stockage/packages/f31/phodav/po/tr.po | 
- | [bs]({{< ref "/f31/language/bs.md" >}}) | 31 | 63 | 49.2 | /mnt/stockage/packages/f31/phodav/po/bs.po | 
- | [el]({{< ref "/f31/language/el.md" >}}) | 31 | 63 | 49.2 | /mnt/stockage/packages/f31/phodav/po/el.po | 
- | [pt]({{< ref "/f31/language/pt.md" >}}) | 31 | 63 | 49.2 | /mnt/stockage/packages/f31/phodav/po/pt.po | 
+ | [cs](/f31/language/cs) | 63 | 63 | 100.0 | /mnt/stockage/packages/f31/phodav/po/cs.po | 
+ | [da](/f31/language/da) | 63 | 63 | 100.0 | /mnt/stockage/packages/f31/phodav/po/da.po | 
+ | [de](/f31/language/de) | 63 | 63 | 100.0 | /mnt/stockage/packages/f31/phodav/po/de.po | 
+ | [es](/f31/language/es) | 63 | 63 | 100.0 | /mnt/stockage/packages/f31/phodav/po/es.po | 
+ | [fur](/f31/language/fur) | 63 | 63 | 100.0 | /mnt/stockage/packages/f31/phodav/po/fur.po | 
+ | [hr](/f31/language/hr) | 63 | 63 | 100.0 | /mnt/stockage/packages/f31/phodav/po/hr.po | 
+ | [hu](/f31/language/hu) | 63 | 63 | 100.0 | /mnt/stockage/packages/f31/phodav/po/hu.po | 
+ | [id](/f31/language/id) | 63 | 63 | 100.0 | /mnt/stockage/packages/f31/phodav/po/id.po | 
+ | [pl](/f31/language/pl) | 63 | 63 | 100.0 | /mnt/stockage/packages/f31/phodav/po/pl.po | 
+ | [pt_BR](/f31/language/pt_BR) | 63 | 63 | 100.0 | /mnt/stockage/packages/f31/phodav/po/pt_BR.po | 
+ | [ro](/f31/language/ro) | 63 | 63 | 100.0 | /mnt/stockage/packages/f31/phodav/po/ro.po | 
+ | [sl](/f31/language/sl) | 63 | 63 | 100.0 | /mnt/stockage/packages/f31/phodav/po/sl.po | 
+ | [sr](/f31/language/sr) | 63 | 63 | 100.0 | /mnt/stockage/packages/f31/phodav/po/sr.po | 
+ | [sr_Latn](/f31/language/sr_Latn) | 63 | 63 | 100.0 | /mnt/stockage/packages/f31/phodav/po/sr@latin.po | 
+ | [sv](/f31/language/sv) | 63 | 63 | 100.0 | /mnt/stockage/packages/f31/phodav/po/sv.po | 
+ | [tr](/f31/language/tr) | 63 | 63 | 100.0 | /mnt/stockage/packages/f31/phodav/po/tr.po | 
+ | [bs](/f31/language/bs) | 31 | 63 | 49.2 | /mnt/stockage/packages/f31/phodav/po/bs.po | 
+ | [el](/f31/language/el) | 31 | 63 | 49.2 | /mnt/stockage/packages/f31/phodav/po/el.po | 
+ | [pt](/f31/language/pt) | 31 | 63 | 49.2 | /mnt/stockage/packages/f31/phodav/po/pt.po | 
 {.sortable}
 
 

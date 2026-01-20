@@ -38,8 +38,8 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [intltool]({{< ref "/f28/package/intltool.md" >}}) | 9 | 10 | 90.0 | NONE <kenneth@gnu.org> | 
- | [openerp]({{< ref "/f28/package/openerp.md" >}}) | 52 | 11494 | 0.5 | French (Belgium) <fr_BE@li.org> | 
+ | [intltool](/f28/package/intltool) | 9 | 10 | 90.0 | NONE <kenneth@gnu.org> | 
+ | [openerp](/f28/package/openerp) | 52 | 11494 | 0.5 | French (Belgium) <fr_BE@li.org> | 
 {.sortable}
 
 

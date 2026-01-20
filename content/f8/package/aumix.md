@@ -18,19 +18,19 @@ The package aumix (version 2.8):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [sv]({{< ref "/f8/language/sv.md" >}}) | 237 | 240 | 98.8 | /mnt/stockage/packages/f8/aumix/po/sv.po | 
- | [pt_BR]({{< ref "/f8/language/pt_BR.md" >}}) | 236 | 240 | 98.3 | /mnt/stockage/packages/f8/aumix/po/pt_BR.po | 
- | [es]({{< ref "/f8/language/es.md" >}}) | 235 | 240 | 97.9 | /mnt/stockage/packages/f8/aumix/po/es.po | 
- | [gl]({{< ref "/f8/language/gl.md" >}}) | 235 | 240 | 97.9 | /mnt/stockage/packages/f8/aumix/po/gl.po | 
- | [zh_Hans]({{< ref "/f8/language/zh_Hans.md" >}}) | 235 | 240 | 97.9 | /mnt/stockage/packages/f8/aumix/po/zh_CN.po | 
- | [fr]({{< ref "/f8/language/fr.md" >}}) | 229 | 240 | 95.4 | /mnt/stockage/packages/f8/aumix/po/fr.po | 
- | [ja]({{< ref "/f8/language/ja.md" >}}) | 221 | 240 | 92.1 | /mnt/stockage/packages/f8/aumix/po/ja.po | 
- | [nl]({{< ref "/f8/language/nl.md" >}}) | 219 | 240 | 91.2 | /mnt/stockage/packages/f8/aumix/po/nl.po | 
- | [uk]({{< ref "/f8/language/uk.md" >}}) | 213 | 240 | 88.8 | /mnt/stockage/packages/f8/aumix/po/uk.po | 
- | [de]({{< ref "/f8/language/de.md" >}}) | 208 | 240 | 86.7 | /mnt/stockage/packages/f8/aumix/po/de.po | 
- | [pl]({{< ref "/f8/language/pl.md" >}}) | 171 | 240 | 71.2 | /mnt/stockage/packages/f8/aumix/po/pl.po | 
- | [ru]({{< ref "/f8/language/ru.md" >}}) | 147 | 240 | 61.3 | /mnt/stockage/packages/f8/aumix/po/ru.po | 
- | [el]({{< ref "/f8/language/el.md" >}}) | 73 | 240 | 30.4 | /mnt/stockage/packages/f8/aumix/po/el.po | 
+ | [sv](/f8/language/sv) | 237 | 240 | 98.8 | /mnt/stockage/packages/f8/aumix/po/sv.po | 
+ | [pt_BR](/f8/language/pt_BR) | 236 | 240 | 98.3 | /mnt/stockage/packages/f8/aumix/po/pt_BR.po | 
+ | [es](/f8/language/es) | 235 | 240 | 97.9 | /mnt/stockage/packages/f8/aumix/po/es.po | 
+ | [gl](/f8/language/gl) | 235 | 240 | 97.9 | /mnt/stockage/packages/f8/aumix/po/gl.po | 
+ | [zh_Hans](/f8/language/zh_Hans) | 235 | 240 | 97.9 | /mnt/stockage/packages/f8/aumix/po/zh_CN.po | 
+ | [fr](/f8/language/fr) | 229 | 240 | 95.4 | /mnt/stockage/packages/f8/aumix/po/fr.po | 
+ | [ja](/f8/language/ja) | 221 | 240 | 92.1 | /mnt/stockage/packages/f8/aumix/po/ja.po | 
+ | [nl](/f8/language/nl) | 219 | 240 | 91.2 | /mnt/stockage/packages/f8/aumix/po/nl.po | 
+ | [uk](/f8/language/uk) | 213 | 240 | 88.8 | /mnt/stockage/packages/f8/aumix/po/uk.po | 
+ | [de](/f8/language/de) | 208 | 240 | 86.7 | /mnt/stockage/packages/f8/aumix/po/de.po | 
+ | [pl](/f8/language/pl) | 171 | 240 | 71.2 | /mnt/stockage/packages/f8/aumix/po/pl.po | 
+ | [ru](/f8/language/ru) | 147 | 240 | 61.3 | /mnt/stockage/packages/f8/aumix/po/ru.po | 
+ | [el](/f8/language/el) | 73 | 240 | 30.4 | /mnt/stockage/packages/f8/aumix/po/el.po | 
 {.sortable}
 
 

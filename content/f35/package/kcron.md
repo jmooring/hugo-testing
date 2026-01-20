@@ -18,65 +18,65 @@ The package kcron (version 21.12.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f35/language/ca.md" >}}) | 525 | 525 | 100.0 | /mnt/stockage/packages/f35/kcron/po/ca/kcron.po | 
- | [ca@valencia]({{< ref "/f35/language/ca@valencia.md" >}}) | 525 | 525 | 100.0 | /mnt/stockage/packages/f35/kcron/po/ca@valencia/kcron.po | 
- | [el]({{< ref "/f35/language/el.md" >}}) | 525 | 525 | 100.0 | /mnt/stockage/packages/f35/kcron/po/el/kcron.po | 
- | [en_GB]({{< ref "/f35/language/en_GB.md" >}}) | 525 | 525 | 100.0 | /mnt/stockage/packages/f35/kcron/po/en_GB/kcron.po | 
- | [es]({{< ref "/f35/language/es.md" >}}) | 525 | 525 | 100.0 | /mnt/stockage/packages/f35/kcron/po/es/kcron.po | 
- | [fr]({{< ref "/f35/language/fr.md" >}}) | 525 | 525 | 100.0 | /mnt/stockage/packages/f35/kcron/po/fr/kcron.po | 
- | [ia]({{< ref "/f35/language/ia.md" >}}) | 525 | 525 | 100.0 | /mnt/stockage/packages/f35/kcron/po/ia/kcron.po | 
- | [it]({{< ref "/f35/language/it.md" >}}) | 525 | 525 | 100.0 | /mnt/stockage/packages/f35/kcron/po/it/kcron.po | 
- | [ko]({{< ref "/f35/language/ko.md" >}}) | 525 | 525 | 100.0 | /mnt/stockage/packages/f35/kcron/po/ko/kcron.po | 
- | [nl]({{< ref "/f35/language/nl.md" >}}) | 525 | 525 | 100.0 | /mnt/stockage/packages/f35/kcron/po/nl/kcron.po | 
- | [pl]({{< ref "/f35/language/pl.md" >}}) | 525 | 525 | 100.0 | /mnt/stockage/packages/f35/kcron/po/pl/kcron.po | 
- | [pt]({{< ref "/f35/language/pt.md" >}}) | 525 | 525 | 100.0 | /mnt/stockage/packages/f35/kcron/po/pt/kcron.po | 
- | [pt_BR]({{< ref "/f35/language/pt_BR.md" >}}) | 525 | 525 | 100.0 | /mnt/stockage/packages/f35/kcron/po/pt_BR/kcron.po | 
- | [sk]({{< ref "/f35/language/sk.md" >}}) | 525 | 525 | 100.0 | /mnt/stockage/packages/f35/kcron/po/sk/kcron.po | 
- | [sl]({{< ref "/f35/language/sl.md" >}}) | 525 | 525 | 100.0 | /mnt/stockage/packages/f35/kcron/po/sl/kcron.po | 
- | [sr]({{< ref "/f35/language/sr.md" >}}) | 534 | 534 | 100.0 | /mnt/stockage/packages/f35/kcron/po/sr/kcron.po | 
- | [sv]({{< ref "/f35/language/sv.md" >}}) | 525 | 525 | 100.0 | /mnt/stockage/packages/f35/kcron/po/sv/kcron.po | 
- | [uk]({{< ref "/f35/language/uk.md" >}}) | 525 | 525 | 100.0 | /mnt/stockage/packages/f35/kcron/po/uk/kcron.po | 
- | [vi]({{< ref "/f35/language/vi.md" >}}) | 525 | 525 | 100.0 | /mnt/stockage/packages/f35/kcron/po/vi/kcron.po | 
- | [zh_Hans]({{< ref "/f35/language/zh_Hans.md" >}}) | 525 | 525 | 100.0 | /mnt/stockage/packages/f35/kcron/po/zh_CN/kcron.po | 
- | [fi]({{< ref "/f35/language/fi.md" >}}) | 524 | 525 | 99.8 | /mnt/stockage/packages/f35/kcron/po/fi/kcron.po | 
- | [cs]({{< ref "/f35/language/cs.md" >}}) | 523 | 525 | 99.6 | /mnt/stockage/packages/f35/kcron/po/cs/kcron.po | 
- | [bs]({{< ref "/f35/language/bs.md" >}}) | 522 | 525 | 99.4 | /mnt/stockage/packages/f35/kcron/po/bs/kcron.po | 
- | [da]({{< ref "/f35/language/da.md" >}}) | 522 | 525 | 99.4 | /mnt/stockage/packages/f35/kcron/po/da/kcron.po | 
- | [de]({{< ref "/f35/language/de.md" >}}) | 522 | 525 | 99.4 | /mnt/stockage/packages/f35/kcron/po/de/kcron.po | 
- | [et]({{< ref "/f35/language/et.md" >}}) | 522 | 525 | 99.4 | /mnt/stockage/packages/f35/kcron/po/et/kcron.po | 
- | [eu]({{< ref "/f35/language/eu.md" >}}) | 522 | 525 | 99.4 | /mnt/stockage/packages/f35/kcron/po/eu/kcron.po | 
- | [ga]({{< ref "/f35/language/ga.md" >}}) | 522 | 525 | 99.4 | /mnt/stockage/packages/f35/kcron/po/ga/kcron.po | 
- | [gl]({{< ref "/f35/language/gl.md" >}}) | 522 | 525 | 99.4 | /mnt/stockage/packages/f35/kcron/po/gl/kcron.po | 
- | [hu]({{< ref "/f35/language/hu.md" >}}) | 522 | 525 | 99.4 | /mnt/stockage/packages/f35/kcron/po/hu/kcron.po | 
- | [ja]({{< ref "/f35/language/ja.md" >}}) | 522 | 525 | 99.4 | /mnt/stockage/packages/f35/kcron/po/ja/kcron.po | 
- | [kk]({{< ref "/f35/language/kk.md" >}}) | 522 | 525 | 99.4 | /mnt/stockage/packages/f35/kcron/po/kk/kcron.po | 
- | [lt]({{< ref "/f35/language/lt.md" >}}) | 522 | 525 | 99.4 | /mnt/stockage/packages/f35/kcron/po/lt/kcron.po | 
- | [nb_NO]({{< ref "/f35/language/nb_NO.md" >}}) | 522 | 525 | 99.4 | /mnt/stockage/packages/f35/kcron/po/nb/kcron.po | 
- | [nds]({{< ref "/f35/language/nds.md" >}}) | 522 | 525 | 99.4 | /mnt/stockage/packages/f35/kcron/po/nds/kcron.po | 
- | [nn]({{< ref "/f35/language/nn.md" >}}) | 522 | 525 | 99.4 | /mnt/stockage/packages/f35/kcron/po/nn/kcron.po | 
- | [ro]({{< ref "/f35/language/ro.md" >}}) | 522 | 525 | 99.4 | /mnt/stockage/packages/f35/kcron/po/ro/kcron.po | 
- | [ru]({{< ref "/f35/language/ru.md" >}}) | 522 | 525 | 99.4 | /mnt/stockage/packages/f35/kcron/po/ru/kcron.po | 
- | [tr]({{< ref "/f35/language/tr.md" >}}) | 522 | 525 | 99.4 | /mnt/stockage/packages/f35/kcron/po/tr/kcron.po | 
- | [ug]({{< ref "/f35/language/ug.md" >}}) | 522 | 525 | 99.4 | /mnt/stockage/packages/f35/kcron/po/ug/kcron.po | 
- | [zh_Hant]({{< ref "/f35/language/zh_Hant.md" >}}) | 522 | 525 | 99.4 | /mnt/stockage/packages/f35/kcron/po/zh_TW/kcron.po | 
- | [lv]({{< ref "/f35/language/lv.md" >}}) | 516 | 525 | 98.3 | /mnt/stockage/packages/f35/kcron/po/lv/kcron.po | 
- | [hr]({{< ref "/f35/language/hr.md" >}}) | 453 | 525 | 86.3 | /mnt/stockage/packages/f35/kcron/po/hr/kcron.po | 
- | [bg]({{< ref "/f35/language/bg.md" >}}) | 351 | 525 | 66.9 | /mnt/stockage/packages/f35/kcron/po/bg/kcron.po | 
- | [he]({{< ref "/f35/language/he.md" >}}) | 323 | 525 | 61.5 | /mnt/stockage/packages/f35/kcron/po/he/kcron.po | 
- | [pa]({{< ref "/f35/language/pa.md" >}}) | 224 | 525 | 42.7 | /mnt/stockage/packages/f35/kcron/po/pa/kcron.po | 
- | [mr]({{< ref "/f35/language/mr.md" >}}) | 208 | 525 | 39.6 | /mnt/stockage/packages/f35/kcron/po/mr/kcron.po | 
- | [hi]({{< ref "/f35/language/hi.md" >}}) | 204 | 525 | 38.9 | /mnt/stockage/packages/f35/kcron/po/hi/kcron.po | 
- | [is]({{< ref "/f35/language/is.md" >}}) | 201 | 525 | 38.3 | /mnt/stockage/packages/f35/kcron/po/is/kcron.po | 
- | [fa]({{< ref "/f35/language/fa.md" >}}) | 198 | 525 | 37.7 | /mnt/stockage/packages/f35/kcron/po/fa/kcron.po | 
- | [ar]({{< ref "/f35/language/ar.md" >}}) | 196 | 525 | 37.3 | /mnt/stockage/packages/f35/kcron/po/ar/kcron.po | 
- | [eo]({{< ref "/f35/language/eo.md" >}}) | 185 | 525 | 35.2 | /mnt/stockage/packages/f35/kcron/po/eo/kcron.po | 
- | [ta]({{< ref "/f35/language/ta.md" >}}) | 176 | 525 | 33.5 | /mnt/stockage/packages/f35/kcron/po/ta/kcron.po | 
- | [tg]({{< ref "/f35/language/tg.md" >}}) | 176 | 525 | 33.5 | /mnt/stockage/packages/f35/kcron/po/tg/kcron.po | 
- | [wa]({{< ref "/f35/language/wa.md" >}}) | 176 | 525 | 33.5 | /mnt/stockage/packages/f35/kcron/po/wa/kcron.po | 
- | [sq]({{< ref "/f35/language/sq.md" >}}) | 163 | 525 | 31.0 | /mnt/stockage/packages/f35/kcron/po/sq/kcron.po | 
- | [be]({{< ref "/f35/language/be.md" >}}) | 75 | 525 | 14.3 | /mnt/stockage/packages/f35/kcron/po/be/kcron.po | 
- | [se]({{< ref "/f35/language/se.md" >}}) | 59 | 525 | 11.2 | /mnt/stockage/packages/f35/kcron/po/se/kcron.po | 
- | [km]({{< ref "/f35/language/km.md" >}}) | 6 | 525 | 1.1 | /mnt/stockage/packages/f35/kcron/po/km/kcron.po | 
+ | [ca](/f35/language/ca) | 525 | 525 | 100.0 | /mnt/stockage/packages/f35/kcron/po/ca/kcron.po | 
+ | [ca@valencia](/f35/language/ca@valencia) | 525 | 525 | 100.0 | /mnt/stockage/packages/f35/kcron/po/ca@valencia/kcron.po | 
+ | [el](/f35/language/el) | 525 | 525 | 100.0 | /mnt/stockage/packages/f35/kcron/po/el/kcron.po | 
+ | [en_GB](/f35/language/en_GB) | 525 | 525 | 100.0 | /mnt/stockage/packages/f35/kcron/po/en_GB/kcron.po | 
+ | [es](/f35/language/es) | 525 | 525 | 100.0 | /mnt/stockage/packages/f35/kcron/po/es/kcron.po | 
+ | [fr](/f35/language/fr) | 525 | 525 | 100.0 | /mnt/stockage/packages/f35/kcron/po/fr/kcron.po | 
+ | [ia](/f35/language/ia) | 525 | 525 | 100.0 | /mnt/stockage/packages/f35/kcron/po/ia/kcron.po | 
+ | [it](/f35/language/it) | 525 | 525 | 100.0 | /mnt/stockage/packages/f35/kcron/po/it/kcron.po | 
+ | [ko](/f35/language/ko) | 525 | 525 | 100.0 | /mnt/stockage/packages/f35/kcron/po/ko/kcron.po | 
+ | [nl](/f35/language/nl) | 525 | 525 | 100.0 | /mnt/stockage/packages/f35/kcron/po/nl/kcron.po | 
+ | [pl](/f35/language/pl) | 525 | 525 | 100.0 | /mnt/stockage/packages/f35/kcron/po/pl/kcron.po | 
+ | [pt](/f35/language/pt) | 525 | 525 | 100.0 | /mnt/stockage/packages/f35/kcron/po/pt/kcron.po | 
+ | [pt_BR](/f35/language/pt_BR) | 525 | 525 | 100.0 | /mnt/stockage/packages/f35/kcron/po/pt_BR/kcron.po | 
+ | [sk](/f35/language/sk) | 525 | 525 | 100.0 | /mnt/stockage/packages/f35/kcron/po/sk/kcron.po | 
+ | [sl](/f35/language/sl) | 525 | 525 | 100.0 | /mnt/stockage/packages/f35/kcron/po/sl/kcron.po | 
+ | [sr](/f35/language/sr) | 534 | 534 | 100.0 | /mnt/stockage/packages/f35/kcron/po/sr/kcron.po | 
+ | [sv](/f35/language/sv) | 525 | 525 | 100.0 | /mnt/stockage/packages/f35/kcron/po/sv/kcron.po | 
+ | [uk](/f35/language/uk) | 525 | 525 | 100.0 | /mnt/stockage/packages/f35/kcron/po/uk/kcron.po | 
+ | [vi](/f35/language/vi) | 525 | 525 | 100.0 | /mnt/stockage/packages/f35/kcron/po/vi/kcron.po | 
+ | [zh_Hans](/f35/language/zh_Hans) | 525 | 525 | 100.0 | /mnt/stockage/packages/f35/kcron/po/zh_CN/kcron.po | 
+ | [fi](/f35/language/fi) | 524 | 525 | 99.8 | /mnt/stockage/packages/f35/kcron/po/fi/kcron.po | 
+ | [cs](/f35/language/cs) | 523 | 525 | 99.6 | /mnt/stockage/packages/f35/kcron/po/cs/kcron.po | 
+ | [bs](/f35/language/bs) | 522 | 525 | 99.4 | /mnt/stockage/packages/f35/kcron/po/bs/kcron.po | 
+ | [da](/f35/language/da) | 522 | 525 | 99.4 | /mnt/stockage/packages/f35/kcron/po/da/kcron.po | 
+ | [de](/f35/language/de) | 522 | 525 | 99.4 | /mnt/stockage/packages/f35/kcron/po/de/kcron.po | 
+ | [et](/f35/language/et) | 522 | 525 | 99.4 | /mnt/stockage/packages/f35/kcron/po/et/kcron.po | 
+ | [eu](/f35/language/eu) | 522 | 525 | 99.4 | /mnt/stockage/packages/f35/kcron/po/eu/kcron.po | 
+ | [ga](/f35/language/ga) | 522 | 525 | 99.4 | /mnt/stockage/packages/f35/kcron/po/ga/kcron.po | 
+ | [gl](/f35/language/gl) | 522 | 525 | 99.4 | /mnt/stockage/packages/f35/kcron/po/gl/kcron.po | 
+ | [hu](/f35/language/hu) | 522 | 525 | 99.4 | /mnt/stockage/packages/f35/kcron/po/hu/kcron.po | 
+ | [ja](/f35/language/ja) | 522 | 525 | 99.4 | /mnt/stockage/packages/f35/kcron/po/ja/kcron.po | 
+ | [kk](/f35/language/kk) | 522 | 525 | 99.4 | /mnt/stockage/packages/f35/kcron/po/kk/kcron.po | 
+ | [lt](/f35/language/lt) | 522 | 525 | 99.4 | /mnt/stockage/packages/f35/kcron/po/lt/kcron.po | 
+ | [nb_NO](/f35/language/nb_NO) | 522 | 525 | 99.4 | /mnt/stockage/packages/f35/kcron/po/nb/kcron.po | 
+ | [nds](/f35/language/nds) | 522 | 525 | 99.4 | /mnt/stockage/packages/f35/kcron/po/nds/kcron.po | 
+ | [nn](/f35/language/nn) | 522 | 525 | 99.4 | /mnt/stockage/packages/f35/kcron/po/nn/kcron.po | 
+ | [ro](/f35/language/ro) | 522 | 525 | 99.4 | /mnt/stockage/packages/f35/kcron/po/ro/kcron.po | 
+ | [ru](/f35/language/ru) | 522 | 525 | 99.4 | /mnt/stockage/packages/f35/kcron/po/ru/kcron.po | 
+ | [tr](/f35/language/tr) | 522 | 525 | 99.4 | /mnt/stockage/packages/f35/kcron/po/tr/kcron.po | 
+ | [ug](/f35/language/ug) | 522 | 525 | 99.4 | /mnt/stockage/packages/f35/kcron/po/ug/kcron.po | 
+ | [zh_Hant](/f35/language/zh_Hant) | 522 | 525 | 99.4 | /mnt/stockage/packages/f35/kcron/po/zh_TW/kcron.po | 
+ | [lv](/f35/language/lv) | 516 | 525 | 98.3 | /mnt/stockage/packages/f35/kcron/po/lv/kcron.po | 
+ | [hr](/f35/language/hr) | 453 | 525 | 86.3 | /mnt/stockage/packages/f35/kcron/po/hr/kcron.po | 
+ | [bg](/f35/language/bg) | 351 | 525 | 66.9 | /mnt/stockage/packages/f35/kcron/po/bg/kcron.po | 
+ | [he](/f35/language/he) | 323 | 525 | 61.5 | /mnt/stockage/packages/f35/kcron/po/he/kcron.po | 
+ | [pa](/f35/language/pa) | 224 | 525 | 42.7 | /mnt/stockage/packages/f35/kcron/po/pa/kcron.po | 
+ | [mr](/f35/language/mr) | 208 | 525 | 39.6 | /mnt/stockage/packages/f35/kcron/po/mr/kcron.po | 
+ | [hi](/f35/language/hi) | 204 | 525 | 38.9 | /mnt/stockage/packages/f35/kcron/po/hi/kcron.po | 
+ | [is](/f35/language/is) | 201 | 525 | 38.3 | /mnt/stockage/packages/f35/kcron/po/is/kcron.po | 
+ | [fa](/f35/language/fa) | 198 | 525 | 37.7 | /mnt/stockage/packages/f35/kcron/po/fa/kcron.po | 
+ | [ar](/f35/language/ar) | 196 | 525 | 37.3 | /mnt/stockage/packages/f35/kcron/po/ar/kcron.po | 
+ | [eo](/f35/language/eo) | 185 | 525 | 35.2 | /mnt/stockage/packages/f35/kcron/po/eo/kcron.po | 
+ | [ta](/f35/language/ta) | 176 | 525 | 33.5 | /mnt/stockage/packages/f35/kcron/po/ta/kcron.po | 
+ | [tg](/f35/language/tg) | 176 | 525 | 33.5 | /mnt/stockage/packages/f35/kcron/po/tg/kcron.po | 
+ | [wa](/f35/language/wa) | 176 | 525 | 33.5 | /mnt/stockage/packages/f35/kcron/po/wa/kcron.po | 
+ | [sq](/f35/language/sq) | 163 | 525 | 31.0 | /mnt/stockage/packages/f35/kcron/po/sq/kcron.po | 
+ | [be](/f35/language/be) | 75 | 525 | 14.3 | /mnt/stockage/packages/f35/kcron/po/be/kcron.po | 
+ | [se](/f35/language/se) | 59 | 525 | 11.2 | /mnt/stockage/packages/f35/kcron/po/se/kcron.po | 
+ | [km](/f35/language/km) | 6 | 525 | 1.1 | /mnt/stockage/packages/f35/kcron/po/km/kcron.po | 
 {.sortable}
 
 

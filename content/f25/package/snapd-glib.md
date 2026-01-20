@@ -18,15 +18,15 @@ The package snapd-glib (version 1.29):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [am]({{< ref "/f25/language/am.md" >}}) | 10 | 10 | 100.0 | /mnt/stockage/packages/f25/snapd-glib/po/am.po | 
- | [en_GB]({{< ref "/f25/language/en_GB.md" >}}) | 10 | 10 | 100.0 | /mnt/stockage/packages/f25/snapd-glib/po/en_GB.po | 
- | [fi]({{< ref "/f25/language/fi.md" >}}) | 10 | 10 | 100.0 | /mnt/stockage/packages/f25/snapd-glib/po/fi.po | 
- | [fr]({{< ref "/f25/language/fr.md" >}}) | 10 | 10 | 100.0 | /mnt/stockage/packages/f25/snapd-glib/po/fr.po | 
- | [it]({{< ref "/f25/language/it.md" >}}) | 10 | 10 | 100.0 | /mnt/stockage/packages/f25/snapd-glib/po/it.po | 
- | [lt]({{< ref "/f25/language/lt.md" >}}) | 10 | 10 | 100.0 | /mnt/stockage/packages/f25/snapd-glib/po/lt.po | 
- | [sr]({{< ref "/f25/language/sr.md" >}}) | 10 | 10 | 100.0 | /mnt/stockage/packages/f25/snapd-glib/po/sr.po | 
- | [tr]({{< ref "/f25/language/tr.md" >}}) | 10 | 10 | 100.0 | /mnt/stockage/packages/f25/snapd-glib/po/tr.po | 
- | [ru]({{< ref "/f25/language/ru.md" >}}) | 0 | 10 | 0.0 | /mnt/stockage/packages/f25/snapd-glib/po/ru.po | 
+ | [am](/f25/language/am) | 10 | 10 | 100.0 | /mnt/stockage/packages/f25/snapd-glib/po/am.po | 
+ | [en_GB](/f25/language/en_GB) | 10 | 10 | 100.0 | /mnt/stockage/packages/f25/snapd-glib/po/en_GB.po | 
+ | [fi](/f25/language/fi) | 10 | 10 | 100.0 | /mnt/stockage/packages/f25/snapd-glib/po/fi.po | 
+ | [fr](/f25/language/fr) | 10 | 10 | 100.0 | /mnt/stockage/packages/f25/snapd-glib/po/fr.po | 
+ | [it](/f25/language/it) | 10 | 10 | 100.0 | /mnt/stockage/packages/f25/snapd-glib/po/it.po | 
+ | [lt](/f25/language/lt) | 10 | 10 | 100.0 | /mnt/stockage/packages/f25/snapd-glib/po/lt.po | 
+ | [sr](/f25/language/sr) | 10 | 10 | 100.0 | /mnt/stockage/packages/f25/snapd-glib/po/sr.po | 
+ | [tr](/f25/language/tr) | 10 | 10 | 100.0 | /mnt/stockage/packages/f25/snapd-glib/po/tr.po | 
+ | [ru](/f25/language/ru) | 0 | 10 | 0.0 | /mnt/stockage/packages/f25/snapd-glib/po/ru.po | 
 {.sortable}
 
 

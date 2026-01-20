@@ -18,8 +18,8 @@ The package libinvm-cli (version 1.0.0.1096):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [es_MX]({{< ref "/f23/language/es_MX.md" >}}) | 70 | 1701 | 4.1 | /mnt/stockage/packages/f23/libinvm-cli/lang/es_MX.po | 
- | [en_US]({{< ref "/f23/language/en_US.md" >}}) | 35 | 1468 | 2.4 | /mnt/stockage/packages/f23/libinvm-cli/lang/en_US.po | 
+ | [es_MX](/f23/language/es_MX) | 70 | 1701 | 4.1 | /mnt/stockage/packages/f23/libinvm-cli/lang/es_MX.po | 
+ | [en_US](/f23/language/en_US) | 35 | 1468 | 2.4 | /mnt/stockage/packages/f23/libinvm-cli/lang/en_US.po | 
 {.sortable}
 
 

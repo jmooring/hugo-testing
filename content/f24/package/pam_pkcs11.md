@@ -18,14 +18,14 @@ The package pam_pkcs11 (version 0.6.8):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [it]({{< ref "/f24/language/it.md" >}}) | 167 | 167 | 100.0 | /mnt/stockage/packages/f24/pam_pkcs11/po/it.po | 
- | [pl]({{< ref "/f24/language/pl.md" >}}) | 164 | 167 | 98.2 | /mnt/stockage/packages/f24/pam_pkcs11/po/pl.po | 
- | [de]({{< ref "/f24/language/de.md" >}}) | 162 | 167 | 97.0 | /mnt/stockage/packages/f24/pam_pkcs11/po/de.po | 
- | [fr]({{< ref "/f24/language/fr.md" >}}) | 43 | 167 | 25.7 | /mnt/stockage/packages/f24/pam_pkcs11/po/fr.po | 
- | [tr]({{< ref "/f24/language/tr.md" >}}) | 43 | 167 | 25.7 | /mnt/stockage/packages/f24/pam_pkcs11/po/tr.po | 
- | [nl]({{< ref "/f24/language/nl.md" >}}) | 34 | 167 | 20.4 | /mnt/stockage/packages/f24/pam_pkcs11/po/nl.po | 
- | [pt_BR]({{< ref "/f24/language/pt_BR.md" >}}) | 34 | 167 | 20.4 | /mnt/stockage/packages/f24/pam_pkcs11/po/pt_br.po | 
- | [ru]({{< ref "/f24/language/ru.md" >}}) | 22 | 167 | 13.2 | /mnt/stockage/packages/f24/pam_pkcs11/po/ru.po | 
+ | [it](/f24/language/it) | 167 | 167 | 100.0 | /mnt/stockage/packages/f24/pam_pkcs11/po/it.po | 
+ | [pl](/f24/language/pl) | 164 | 167 | 98.2 | /mnt/stockage/packages/f24/pam_pkcs11/po/pl.po | 
+ | [de](/f24/language/de) | 162 | 167 | 97.0 | /mnt/stockage/packages/f24/pam_pkcs11/po/de.po | 
+ | [fr](/f24/language/fr) | 43 | 167 | 25.7 | /mnt/stockage/packages/f24/pam_pkcs11/po/fr.po | 
+ | [tr](/f24/language/tr) | 43 | 167 | 25.7 | /mnt/stockage/packages/f24/pam_pkcs11/po/tr.po | 
+ | [nl](/f24/language/nl) | 34 | 167 | 20.4 | /mnt/stockage/packages/f24/pam_pkcs11/po/nl.po | 
+ | [pt_BR](/f24/language/pt_BR) | 34 | 167 | 20.4 | /mnt/stockage/packages/f24/pam_pkcs11/po/pt_br.po | 
+ | [ru](/f24/language/ru) | 22 | 167 | 13.2 | /mnt/stockage/packages/f24/pam_pkcs11/po/ru.po | 
 {.sortable}
 
 

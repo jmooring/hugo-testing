@@ -18,7 +18,7 @@ The package winwrangler (version 0.2.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [nl]({{< ref "/f11/language/nl.md" >}}) | 29 | 29 | 100.0 | /mnt/stockage/packages/f11/winwrangler/po/nl.po | 
+ | [nl](/f11/language/nl) | 29 | 29 | 100.0 | /mnt/stockage/packages/f11/winwrangler/po/nl.po | 
 {.sortable}
 
 

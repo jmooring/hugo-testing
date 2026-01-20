@@ -38,9 +38,9 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [manaplus]({{< ref "/f30/package/manaplus.md" >}}) | 0 | 4384 | 0.0 | Vlaams (http://www.transifex.com/projects/p/manaplus/language/vls/) | 
- | [php-phpmyadmin-sql-parser]({{< ref "/f30/package/php-phpmyadmin-sql-parser.md" >}}) | 0 | 227 | 0.0 | West Flemish <https://hosted.weblate.org/projects/phpmyadmin/master/vls/> | 
- | [php-phpmyadmin-sql-parser5]({{< ref "/f30/package/php-phpmyadmin-sql-parser5.md" >}}) | 0 | 268 | 0.0 | West Flemish <https://hosted.weblate.org/projects/phpmyadmin/master/vls/> | 
+ | [manaplus](/f30/package/manaplus) | 0 | 4384 | 0.0 | Vlaams (http://www.transifex.com/projects/p/manaplus/language/vls/) | 
+ | [php-phpmyadmin-sql-parser](/f30/package/php-phpmyadmin-sql-parser) | 0 | 227 | 0.0 | West Flemish <https://hosted.weblate.org/projects/phpmyadmin/master/vls/> | 
+ | [php-phpmyadmin-sql-parser5](/f30/package/php-phpmyadmin-sql-parser5) | 0 | 268 | 0.0 | West Flemish <https://hosted.weblate.org/projects/phpmyadmin/master/vls/> | 
 {.sortable}
 
 

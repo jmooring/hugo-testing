@@ -18,19 +18,19 @@ The package gnome-shell-extension-netspeed (version 3.30):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [it]({{< ref "/f33/language/it.md" >}}) | 37 | 56 | 66.1 | /mnt/stockage/packages/f33/gnome-shell-extension-netspeed/po/it.po | 
- | [ca]({{< ref "/f33/language/ca.md" >}}) | 33 | 56 | 58.9 | /mnt/stockage/packages/f33/gnome-shell-extension-netspeed/po/ca.po | 
- | [es]({{< ref "/f33/language/es.md" >}}) | 26 | 56 | 46.4 | /mnt/stockage/packages/f33/gnome-shell-extension-netspeed/po/es_ES.po | 
- | [fa]({{< ref "/f33/language/fa.md" >}}) | 26 | 56 | 46.4 | /mnt/stockage/packages/f33/gnome-shell-extension-netspeed/po/fa.po | 
- | [nl]({{< ref "/f33/language/nl.md" >}}) | 26 | 56 | 46.4 | /mnt/stockage/packages/f33/gnome-shell-extension-netspeed/po/nl_NL.po | 
- | [pt_BR]({{< ref "/f33/language/pt_BR.md" >}}) | 26 | 56 | 46.4 | /mnt/stockage/packages/f33/gnome-shell-extension-netspeed/po/pt_BR.po | 
- | [ru]({{< ref "/f33/language/ru.md" >}}) | 26 | 56 | 46.4 | /mnt/stockage/packages/f33/gnome-shell-extension-netspeed/po/ru.po | 
- | [tr]({{< ref "/f33/language/tr.md" >}}) | 26 | 56 | 46.4 | /mnt/stockage/packages/f33/gnome-shell-extension-netspeed/po/tr.po | 
- | [zh_Hans]({{< ref "/f33/language/zh_Hans.md" >}}) | 26 | 56 | 46.4 | /mnt/stockage/packages/f33/gnome-shell-extension-netspeed/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f33/language/zh_Hant.md" >}}) | 26 | 56 | 46.4 | /mnt/stockage/packages/f33/gnome-shell-extension-netspeed/po/zh_TW.po | 
- | [de]({{< ref "/f33/language/de.md" >}}) | 21 | 56 | 37.5 | /mnt/stockage/packages/f33/gnome-shell-extension-netspeed/po/de.po | 
- | [en_CA]({{< ref "/f33/language/en_CA.md" >}}) | 21 | 56 | 37.5 | /mnt/stockage/packages/f33/gnome-shell-extension-netspeed/po/en_CA.po | 
- | [fr]({{< ref "/f33/language/fr.md" >}}) | 21 | 56 | 37.5 | /mnt/stockage/packages/f33/gnome-shell-extension-netspeed/po/fr.po | 
+ | [it](/f33/language/it) | 37 | 56 | 66.1 | /mnt/stockage/packages/f33/gnome-shell-extension-netspeed/po/it.po | 
+ | [ca](/f33/language/ca) | 33 | 56 | 58.9 | /mnt/stockage/packages/f33/gnome-shell-extension-netspeed/po/ca.po | 
+ | [es](/f33/language/es) | 26 | 56 | 46.4 | /mnt/stockage/packages/f33/gnome-shell-extension-netspeed/po/es_ES.po | 
+ | [fa](/f33/language/fa) | 26 | 56 | 46.4 | /mnt/stockage/packages/f33/gnome-shell-extension-netspeed/po/fa.po | 
+ | [nl](/f33/language/nl) | 26 | 56 | 46.4 | /mnt/stockage/packages/f33/gnome-shell-extension-netspeed/po/nl_NL.po | 
+ | [pt_BR](/f33/language/pt_BR) | 26 | 56 | 46.4 | /mnt/stockage/packages/f33/gnome-shell-extension-netspeed/po/pt_BR.po | 
+ | [ru](/f33/language/ru) | 26 | 56 | 46.4 | /mnt/stockage/packages/f33/gnome-shell-extension-netspeed/po/ru.po | 
+ | [tr](/f33/language/tr) | 26 | 56 | 46.4 | /mnt/stockage/packages/f33/gnome-shell-extension-netspeed/po/tr.po | 
+ | [zh_Hans](/f33/language/zh_Hans) | 26 | 56 | 46.4 | /mnt/stockage/packages/f33/gnome-shell-extension-netspeed/po/zh_CN.po | 
+ | [zh_Hant](/f33/language/zh_Hant) | 26 | 56 | 46.4 | /mnt/stockage/packages/f33/gnome-shell-extension-netspeed/po/zh_TW.po | 
+ | [de](/f33/language/de) | 21 | 56 | 37.5 | /mnt/stockage/packages/f33/gnome-shell-extension-netspeed/po/de.po | 
+ | [en_CA](/f33/language/en_CA) | 21 | 56 | 37.5 | /mnt/stockage/packages/f33/gnome-shell-extension-netspeed/po/en_CA.po | 
+ | [fr](/f33/language/fr) | 21 | 56 | 37.5 | /mnt/stockage/packages/f33/gnome-shell-extension-netspeed/po/fr.po | 
 {.sortable}
 
 

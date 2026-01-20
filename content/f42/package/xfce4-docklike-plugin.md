@@ -18,38 +18,38 @@ The package xfce4-docklike-plugin (version 0.4.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [bg]({{< ref "/f42/language/bg.md" >}}) | 153 | 153 | 100.0 | /mnt/stockage/packages/f42/xfce4-docklike-plugin/po/bg.po | 
- | [ca]({{< ref "/f42/language/ca.md" >}}) | 153 | 153 | 100.0 | /mnt/stockage/packages/f42/xfce4-docklike-plugin/po/ca.po | 
- | [da]({{< ref "/f42/language/da.md" >}}) | 153 | 153 | 100.0 | /mnt/stockage/packages/f42/xfce4-docklike-plugin/po/da.po | 
- | [de]({{< ref "/f42/language/de.md" >}}) | 153 | 153 | 100.0 | /mnt/stockage/packages/f42/xfce4-docklike-plugin/po/de.po | 
- | [el]({{< ref "/f42/language/el.md" >}}) | 151 | 151 | 100.0 | /mnt/stockage/packages/f42/xfce4-docklike-plugin/po/el.po | 
- | [en_GB]({{< ref "/f42/language/en_GB.md" >}}) | 153 | 153 | 100.0 | /mnt/stockage/packages/f42/xfce4-docklike-plugin/po/en_GB.po | 
- | [es]({{< ref "/f42/language/es.md" >}}) | 153 | 153 | 100.0 | /mnt/stockage/packages/f42/xfce4-docklike-plugin/po/es.po | 
- | [fr]({{< ref "/f42/language/fr.md" >}}) | 153 | 153 | 100.0 | /mnt/stockage/packages/f42/xfce4-docklike-plugin/po/fr.po | 
- | [he]({{< ref "/f42/language/he.md" >}}) | 151 | 151 | 100.0 | /mnt/stockage/packages/f42/xfce4-docklike-plugin/po/he.po | 
- | [id]({{< ref "/f42/language/id.md" >}}) | 143 | 143 | 100.0 | /mnt/stockage/packages/f42/xfce4-docklike-plugin/po/id.po | 
- | [it]({{< ref "/f42/language/it.md" >}}) | 153 | 153 | 100.0 | /mnt/stockage/packages/f42/xfce4-docklike-plugin/po/it.po | 
- | [ja]({{< ref "/f42/language/ja.md" >}}) | 153 | 153 | 100.0 | /mnt/stockage/packages/f42/xfce4-docklike-plugin/po/ja.po | 
- | [ko]({{< ref "/f42/language/ko.md" >}}) | 151 | 151 | 100.0 | /mnt/stockage/packages/f42/xfce4-docklike-plugin/po/ko.po | 
- | [lt]({{< ref "/f42/language/lt.md" >}}) | 153 | 153 | 100.0 | /mnt/stockage/packages/f42/xfce4-docklike-plugin/po/lt.po | 
- | [nb_NO]({{< ref "/f42/language/nb_NO.md" >}}) | 153 | 153 | 100.0 | /mnt/stockage/packages/f42/xfce4-docklike-plugin/po/nb.po | 
- | [nl]({{< ref "/f42/language/nl.md" >}}) | 153 | 153 | 100.0 | /mnt/stockage/packages/f42/xfce4-docklike-plugin/po/nl.po | 
- | [pl]({{< ref "/f42/language/pl.md" >}}) | 153 | 153 | 100.0 | /mnt/stockage/packages/f42/xfce4-docklike-plugin/po/pl.po | 
- | [pt]({{< ref "/f42/language/pt.md" >}}) | 153 | 153 | 100.0 | /mnt/stockage/packages/f42/xfce4-docklike-plugin/po/pt.po | 
- | [pt_BR]({{< ref "/f42/language/pt_BR.md" >}}) | 153 | 153 | 100.0 | /mnt/stockage/packages/f42/xfce4-docklike-plugin/po/pt_BR.po | 
- | [ru]({{< ref "/f42/language/ru.md" >}}) | 153 | 153 | 100.0 | /mnt/stockage/packages/f42/xfce4-docklike-plugin/po/ru.po | 
- | [sl]({{< ref "/f42/language/sl.md" >}}) | 153 | 153 | 100.0 | /mnt/stockage/packages/f42/xfce4-docklike-plugin/po/sl.po | 
- | [sr]({{< ref "/f42/language/sr.md" >}}) | 153 | 153 | 100.0 | /mnt/stockage/packages/f42/xfce4-docklike-plugin/po/sr.po | 
- | [sv]({{< ref "/f42/language/sv.md" >}}) | 153 | 153 | 100.0 | /mnt/stockage/packages/f42/xfce4-docklike-plugin/po/sv.po | 
- | [tr]({{< ref "/f42/language/tr.md" >}}) | 151 | 151 | 100.0 | /mnt/stockage/packages/f42/xfce4-docklike-plugin/po/tr.po | 
- | [uk]({{< ref "/f42/language/uk.md" >}}) | 153 | 153 | 100.0 | /mnt/stockage/packages/f42/xfce4-docklike-plugin/po/uk.po | 
- | [zh_Hans]({{< ref "/f42/language/zh_Hans.md" >}}) | 153 | 153 | 100.0 | /mnt/stockage/packages/f42/xfce4-docklike-plugin/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f42/language/zh_Hant.md" >}}) | 153 | 153 | 100.0 | /mnt/stockage/packages/f42/xfce4-docklike-plugin/po/zh_TW.po | 
- | [sq]({{< ref "/f42/language/sq.md" >}}) | 152 | 153 | 99.3 | /mnt/stockage/packages/f42/xfce4-docklike-plugin/po/sq.po | 
- | [sk]({{< ref "/f42/language/sk.md" >}}) | 143 | 151 | 94.7 | /mnt/stockage/packages/f42/xfce4-docklike-plugin/po/sk.po | 
- | [ie]({{< ref "/f42/language/ie.md" >}}) | 123 | 143 | 86.0 | /mnt/stockage/packages/f42/xfce4-docklike-plugin/po/ie.po | 
- | [fi]({{< ref "/f42/language/fi.md" >}}) | 114 | 153 | 74.5 | /mnt/stockage/packages/f42/xfce4-docklike-plugin/po/fi.po | 
- | [hr]({{< ref "/f42/language/hr.md" >}}) | 87 | 151 | 57.6 | /mnt/stockage/packages/f42/xfce4-docklike-plugin/po/hr.po | 
+ | [bg](/f42/language/bg) | 153 | 153 | 100.0 | /mnt/stockage/packages/f42/xfce4-docklike-plugin/po/bg.po | 
+ | [ca](/f42/language/ca) | 153 | 153 | 100.0 | /mnt/stockage/packages/f42/xfce4-docklike-plugin/po/ca.po | 
+ | [da](/f42/language/da) | 153 | 153 | 100.0 | /mnt/stockage/packages/f42/xfce4-docklike-plugin/po/da.po | 
+ | [de](/f42/language/de) | 153 | 153 | 100.0 | /mnt/stockage/packages/f42/xfce4-docklike-plugin/po/de.po | 
+ | [el](/f42/language/el) | 151 | 151 | 100.0 | /mnt/stockage/packages/f42/xfce4-docklike-plugin/po/el.po | 
+ | [en_GB](/f42/language/en_GB) | 153 | 153 | 100.0 | /mnt/stockage/packages/f42/xfce4-docklike-plugin/po/en_GB.po | 
+ | [es](/f42/language/es) | 153 | 153 | 100.0 | /mnt/stockage/packages/f42/xfce4-docklike-plugin/po/es.po | 
+ | [fr](/f42/language/fr) | 153 | 153 | 100.0 | /mnt/stockage/packages/f42/xfce4-docklike-plugin/po/fr.po | 
+ | [he](/f42/language/he) | 151 | 151 | 100.0 | /mnt/stockage/packages/f42/xfce4-docklike-plugin/po/he.po | 
+ | [id](/f42/language/id) | 143 | 143 | 100.0 | /mnt/stockage/packages/f42/xfce4-docklike-plugin/po/id.po | 
+ | [it](/f42/language/it) | 153 | 153 | 100.0 | /mnt/stockage/packages/f42/xfce4-docklike-plugin/po/it.po | 
+ | [ja](/f42/language/ja) | 153 | 153 | 100.0 | /mnt/stockage/packages/f42/xfce4-docklike-plugin/po/ja.po | 
+ | [ko](/f42/language/ko) | 151 | 151 | 100.0 | /mnt/stockage/packages/f42/xfce4-docklike-plugin/po/ko.po | 
+ | [lt](/f42/language/lt) | 153 | 153 | 100.0 | /mnt/stockage/packages/f42/xfce4-docklike-plugin/po/lt.po | 
+ | [nb_NO](/f42/language/nb_NO) | 153 | 153 | 100.0 | /mnt/stockage/packages/f42/xfce4-docklike-plugin/po/nb.po | 
+ | [nl](/f42/language/nl) | 153 | 153 | 100.0 | /mnt/stockage/packages/f42/xfce4-docklike-plugin/po/nl.po | 
+ | [pl](/f42/language/pl) | 153 | 153 | 100.0 | /mnt/stockage/packages/f42/xfce4-docklike-plugin/po/pl.po | 
+ | [pt](/f42/language/pt) | 153 | 153 | 100.0 | /mnt/stockage/packages/f42/xfce4-docklike-plugin/po/pt.po | 
+ | [pt_BR](/f42/language/pt_BR) | 153 | 153 | 100.0 | /mnt/stockage/packages/f42/xfce4-docklike-plugin/po/pt_BR.po | 
+ | [ru](/f42/language/ru) | 153 | 153 | 100.0 | /mnt/stockage/packages/f42/xfce4-docklike-plugin/po/ru.po | 
+ | [sl](/f42/language/sl) | 153 | 153 | 100.0 | /mnt/stockage/packages/f42/xfce4-docklike-plugin/po/sl.po | 
+ | [sr](/f42/language/sr) | 153 | 153 | 100.0 | /mnt/stockage/packages/f42/xfce4-docklike-plugin/po/sr.po | 
+ | [sv](/f42/language/sv) | 153 | 153 | 100.0 | /mnt/stockage/packages/f42/xfce4-docklike-plugin/po/sv.po | 
+ | [tr](/f42/language/tr) | 151 | 151 | 100.0 | /mnt/stockage/packages/f42/xfce4-docklike-plugin/po/tr.po | 
+ | [uk](/f42/language/uk) | 153 | 153 | 100.0 | /mnt/stockage/packages/f42/xfce4-docklike-plugin/po/uk.po | 
+ | [zh_Hans](/f42/language/zh_Hans) | 153 | 153 | 100.0 | /mnt/stockage/packages/f42/xfce4-docklike-plugin/po/zh_CN.po | 
+ | [zh_Hant](/f42/language/zh_Hant) | 153 | 153 | 100.0 | /mnt/stockage/packages/f42/xfce4-docklike-plugin/po/zh_TW.po | 
+ | [sq](/f42/language/sq) | 152 | 153 | 99.3 | /mnt/stockage/packages/f42/xfce4-docklike-plugin/po/sq.po | 
+ | [sk](/f42/language/sk) | 143 | 151 | 94.7 | /mnt/stockage/packages/f42/xfce4-docklike-plugin/po/sk.po | 
+ | [ie](/f42/language/ie) | 123 | 143 | 86.0 | /mnt/stockage/packages/f42/xfce4-docklike-plugin/po/ie.po | 
+ | [fi](/f42/language/fi) | 114 | 153 | 74.5 | /mnt/stockage/packages/f42/xfce4-docklike-plugin/po/fi.po | 
+ | [hr](/f42/language/hr) | 87 | 151 | 57.6 | /mnt/stockage/packages/f42/xfce4-docklike-plugin/po/hr.po | 
 {.sortable}
 
 

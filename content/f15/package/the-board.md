@@ -18,18 +18,18 @@ The package the-board (version 0.1.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f15/language/cs.md" >}}) | 54 | 54 | 100.0 | /mnt/stockage/packages/f15/the-board/po/cs.po | 
- | [da]({{< ref "/f15/language/da.md" >}}) | 23 | 23 | 100.0 | /mnt/stockage/packages/f15/the-board/po/da.po | 
- | [es]({{< ref "/f15/language/es.md" >}}) | 50 | 50 | 100.0 | /mnt/stockage/packages/f15/the-board/po/es.po | 
- | [fr]({{< ref "/f15/language/fr.md" >}}) | 54 | 54 | 100.0 | /mnt/stockage/packages/f15/the-board/po/fr.po | 
- | [gl]({{< ref "/f15/language/gl.md" >}}) | 43 | 43 | 100.0 | /mnt/stockage/packages/f15/the-board/po/gl.po | 
- | [he]({{< ref "/f15/language/he.md" >}}) | 54 | 54 | 100.0 | /mnt/stockage/packages/f15/the-board/po/he.po | 
- | [pl]({{< ref "/f15/language/pl.md" >}}) | 45 | 45 | 100.0 | /mnt/stockage/packages/f15/the-board/po/pl.po | 
- | [pt_BR]({{< ref "/f15/language/pt_BR.md" >}}) | 90 | 90 | 100.0 | /mnt/stockage/packages/f15/the-board/po/de.po/mnt/stockage/packages/f15/the-board/po/pt_BR.po | 
- | [sl]({{< ref "/f15/language/sl.md" >}}) | 50 | 50 | 100.0 | /mnt/stockage/packages/f15/the-board/po/sl.po | 
- | [sv]({{< ref "/f15/language/sv.md" >}}) | 45 | 45 | 100.0 | /mnt/stockage/packages/f15/the-board/po/sv.po | 
- | [zh_Hans]({{< ref "/f15/language/zh_Hans.md" >}}) | 43 | 43 | 100.0 | /mnt/stockage/packages/f15/the-board/po/zh_CN.po | 
- | [el]({{< ref "/f15/language/el.md" >}}) | 37 | 43 | 86.0 | /mnt/stockage/packages/f15/the-board/po/el.po | 
+ | [cs](/f15/language/cs) | 54 | 54 | 100.0 | /mnt/stockage/packages/f15/the-board/po/cs.po | 
+ | [da](/f15/language/da) | 23 | 23 | 100.0 | /mnt/stockage/packages/f15/the-board/po/da.po | 
+ | [es](/f15/language/es) | 50 | 50 | 100.0 | /mnt/stockage/packages/f15/the-board/po/es.po | 
+ | [fr](/f15/language/fr) | 54 | 54 | 100.0 | /mnt/stockage/packages/f15/the-board/po/fr.po | 
+ | [gl](/f15/language/gl) | 43 | 43 | 100.0 | /mnt/stockage/packages/f15/the-board/po/gl.po | 
+ | [he](/f15/language/he) | 54 | 54 | 100.0 | /mnt/stockage/packages/f15/the-board/po/he.po | 
+ | [pl](/f15/language/pl) | 45 | 45 | 100.0 | /mnt/stockage/packages/f15/the-board/po/pl.po | 
+ | [pt_BR](/f15/language/pt_BR) | 90 | 90 | 100.0 | /mnt/stockage/packages/f15/the-board/po/de.po/mnt/stockage/packages/f15/the-board/po/pt_BR.po | 
+ | [sl](/f15/language/sl) | 50 | 50 | 100.0 | /mnt/stockage/packages/f15/the-board/po/sl.po | 
+ | [sv](/f15/language/sv) | 45 | 45 | 100.0 | /mnt/stockage/packages/f15/the-board/po/sv.po | 
+ | [zh_Hans](/f15/language/zh_Hans) | 43 | 43 | 100.0 | /mnt/stockage/packages/f15/the-board/po/zh_CN.po | 
+ | [el](/f15/language/el) | 37 | 43 | 86.0 | /mnt/stockage/packages/f15/the-board/po/el.po | 
 {.sortable}
 
 

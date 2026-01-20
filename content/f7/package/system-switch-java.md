@@ -18,8 +18,8 @@ The package system-switch-java (version 1.1.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [en_CA]({{< ref "/f7/language/en_CA.md" >}}) | 81 | 81 | 100.0 | /mnt/stockage/packages/f7/system-switch-java/po/en_CA.po | 
- | [en_GB]({{< ref "/f7/language/en_GB.md" >}}) | 81 | 81 | 100.0 | /mnt/stockage/packages/f7/system-switch-java/po/en_GB.po | 
+ | [en_CA](/f7/language/en_CA) | 81 | 81 | 100.0 | /mnt/stockage/packages/f7/system-switch-java/po/en_CA.po | 
+ | [en_GB](/f7/language/en_GB) | 81 | 81 | 100.0 | /mnt/stockage/packages/f7/system-switch-java/po/en_GB.po | 
 {.sortable}
 
 

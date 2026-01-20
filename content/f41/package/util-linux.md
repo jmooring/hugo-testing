@@ -18,38 +18,38 @@ The package util-linux (version 2.40.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [hr]({{< ref "/f41/language/hr.md" >}}) | 28849 | 28857 | 100.0 | /mnt/stockage/packages/f41/util-linux/po/hr.po | 
- | [ja]({{< ref "/f41/language/ja.md" >}}) | 28849 | 28857 | 100.0 | /mnt/stockage/packages/f41/util-linux/po/ja.po | 
- | [pl]({{< ref "/f41/language/pl.md" >}}) | 28849 | 28857 | 100.0 | /mnt/stockage/packages/f41/util-linux/po/pl.po | 
- | [ro]({{< ref "/f41/language/ro.md" >}}) | 127196 | 127832 | 99.5 | /mnt/stockage/packages/f41/util-linux/po/ro.po/mnt/stockage/packages/f41/util-linux/po-man/ro.po | 
- | [de]({{< ref "/f41/language/de.md" >}}) | 123832 | 127832 | 96.9 | /mnt/stockage/packages/f41/util-linux/po/de.po/mnt/stockage/packages/f41/util-linux/po-man/de.po | 
- | [sr]({{< ref "/f41/language/sr.md" >}}) | 114119 | 127832 | 89.3 | /mnt/stockage/packages/f41/util-linux/po/sr.po/mnt/stockage/packages/f41/util-linux/po-man/sr.po | 
- | [pt]({{< ref "/f41/language/pt.md" >}}) | 24079 | 28857 | 83.4 | /mnt/stockage/packages/f41/util-linux/po/pt.po | 
- | [sv]({{< ref "/f41/language/sv.md" >}}) | 22947 | 28857 | 79.5 | /mnt/stockage/packages/f41/util-linux/po/sv.po | 
- | [uk]({{< ref "/f41/language/uk.md" >}}) | 98353 | 127832 | 76.9 | /mnt/stockage/packages/f41/util-linux/po/uk.po/mnt/stockage/packages/f41/util-linux/po-man/uk.po | 
- | [zh_Hans]({{< ref "/f41/language/zh_Hans.md" >}}) | 21658 | 28857 | 75.1 | /mnt/stockage/packages/f41/util-linux/po/zh_CN.po | 
- | [da]({{< ref "/f41/language/da.md" >}}) | 20988 | 28857 | 72.7 | /mnt/stockage/packages/f41/util-linux/po/da.po | 
- | [fr]({{< ref "/f41/language/fr.md" >}}) | 89703 | 127832 | 70.2 | /mnt/stockage/packages/f41/util-linux/po/fr.po/mnt/stockage/packages/f41/util-linux/po-man/fr.po | 
- | [tr]({{< ref "/f41/language/tr.md" >}}) | 17904 | 28857 | 62.0 | /mnt/stockage/packages/f41/util-linux/po/tr.po | 
- | [nl]({{< ref "/f41/language/nl.md" >}}) | 16994 | 28857 | 58.9 | /mnt/stockage/packages/f41/util-linux/po/nl.po | 
- | [vi]({{< ref "/f41/language/vi.md" >}}) | 15206 | 28857 | 52.7 | /mnt/stockage/packages/f41/util-linux/po/vi.po | 
- | [ko]({{< ref "/f41/language/ko.md" >}}) | 39724 | 127832 | 31.1 | /mnt/stockage/packages/f41/util-linux/po/ko.po/mnt/stockage/packages/f41/util-linux/po-man/ko.po | 
- | [es]({{< ref "/f41/language/es.md" >}}) | 38144 | 127832 | 29.8 | /mnt/stockage/packages/f41/util-linux/po/es.po/mnt/stockage/packages/f41/util-linux/po-man/es.po | 
- | [pt_BR]({{< ref "/f41/language/pt_BR.md" >}}) | 36479 | 127832 | 28.5 | /mnt/stockage/packages/f41/util-linux/po/pt_BR.po/mnt/stockage/packages/f41/util-linux/po-man/pt_BR.po | 
- | [ru]({{< ref "/f41/language/ru.md" >}}) | 8116 | 28857 | 28.1 | /mnt/stockage/packages/f41/util-linux/po/ru.po | 
- | [cs]({{< ref "/f41/language/cs.md" >}}) | 30700 | 127832 | 24.0 | /mnt/stockage/packages/f41/util-linux/po/cs.po/mnt/stockage/packages/f41/util-linux/po-man/cs.po | 
- | [sk]({{< ref "/f41/language/sk.md" >}}) | 4075 | 28857 | 14.1 | /mnt/stockage/packages/f41/util-linux/po/sk.po | 
- | [fi]({{< ref "/f41/language/fi.md" >}}) | 4013 | 28857 | 13.9 | /mnt/stockage/packages/f41/util-linux/po/fi.po | 
- | [zh_Hant]({{< ref "/f41/language/zh_Hant.md" >}}) | 2412 | 28857 | 8.4 | /mnt/stockage/packages/f41/util-linux/po/zh_TW.po | 
- | [id]({{< ref "/f41/language/id.md" >}}) | 2097 | 28857 | 7.3 | /mnt/stockage/packages/f41/util-linux/po/id.po | 
- | [ca]({{< ref "/f41/language/ca.md" >}}) | 1934 | 28857 | 6.7 | /mnt/stockage/packages/f41/util-linux/po/ca.po | 
- | [ka]({{< ref "/f41/language/ka.md" >}}) | 1924 | 28857 | 6.7 | /mnt/stockage/packages/f41/util-linux/po/ka.po | 
- | [hu]({{< ref "/f41/language/hu.md" >}}) | 1805 | 28857 | 6.3 | /mnt/stockage/packages/f41/util-linux/po/hu.po | 
- | [it]({{< ref "/f41/language/it.md" >}}) | 1451 | 28857 | 5.0 | /mnt/stockage/packages/f41/util-linux/po/it.po | 
- | [sl]({{< ref "/f41/language/sl.md" >}}) | 1447 | 28857 | 5.0 | /mnt/stockage/packages/f41/util-linux/po/sl.po | 
- | [et]({{< ref "/f41/language/et.md" >}}) | 1012 | 28857 | 3.5 | /mnt/stockage/packages/f41/util-linux/po/et.po | 
- | [eu]({{< ref "/f41/language/eu.md" >}}) | 831 | 28857 | 2.9 | /mnt/stockage/packages/f41/util-linux/po/eu.po | 
- | [gl]({{< ref "/f41/language/gl.md" >}}) | 756 | 28857 | 2.6 | /mnt/stockage/packages/f41/util-linux/po/gl.po | 
+ | [hr](/f41/language/hr) | 28849 | 28857 | 100.0 | /mnt/stockage/packages/f41/util-linux/po/hr.po | 
+ | [ja](/f41/language/ja) | 28849 | 28857 | 100.0 | /mnt/stockage/packages/f41/util-linux/po/ja.po | 
+ | [pl](/f41/language/pl) | 28849 | 28857 | 100.0 | /mnt/stockage/packages/f41/util-linux/po/pl.po | 
+ | [ro](/f41/language/ro) | 127196 | 127832 | 99.5 | /mnt/stockage/packages/f41/util-linux/po/ro.po/mnt/stockage/packages/f41/util-linux/po-man/ro.po | 
+ | [de](/f41/language/de) | 123832 | 127832 | 96.9 | /mnt/stockage/packages/f41/util-linux/po/de.po/mnt/stockage/packages/f41/util-linux/po-man/de.po | 
+ | [sr](/f41/language/sr) | 114119 | 127832 | 89.3 | /mnt/stockage/packages/f41/util-linux/po/sr.po/mnt/stockage/packages/f41/util-linux/po-man/sr.po | 
+ | [pt](/f41/language/pt) | 24079 | 28857 | 83.4 | /mnt/stockage/packages/f41/util-linux/po/pt.po | 
+ | [sv](/f41/language/sv) | 22947 | 28857 | 79.5 | /mnt/stockage/packages/f41/util-linux/po/sv.po | 
+ | [uk](/f41/language/uk) | 98353 | 127832 | 76.9 | /mnt/stockage/packages/f41/util-linux/po/uk.po/mnt/stockage/packages/f41/util-linux/po-man/uk.po | 
+ | [zh_Hans](/f41/language/zh_Hans) | 21658 | 28857 | 75.1 | /mnt/stockage/packages/f41/util-linux/po/zh_CN.po | 
+ | [da](/f41/language/da) | 20988 | 28857 | 72.7 | /mnt/stockage/packages/f41/util-linux/po/da.po | 
+ | [fr](/f41/language/fr) | 89703 | 127832 | 70.2 | /mnt/stockage/packages/f41/util-linux/po/fr.po/mnt/stockage/packages/f41/util-linux/po-man/fr.po | 
+ | [tr](/f41/language/tr) | 17904 | 28857 | 62.0 | /mnt/stockage/packages/f41/util-linux/po/tr.po | 
+ | [nl](/f41/language/nl) | 16994 | 28857 | 58.9 | /mnt/stockage/packages/f41/util-linux/po/nl.po | 
+ | [vi](/f41/language/vi) | 15206 | 28857 | 52.7 | /mnt/stockage/packages/f41/util-linux/po/vi.po | 
+ | [ko](/f41/language/ko) | 39724 | 127832 | 31.1 | /mnt/stockage/packages/f41/util-linux/po/ko.po/mnt/stockage/packages/f41/util-linux/po-man/ko.po | 
+ | [es](/f41/language/es) | 38144 | 127832 | 29.8 | /mnt/stockage/packages/f41/util-linux/po/es.po/mnt/stockage/packages/f41/util-linux/po-man/es.po | 
+ | [pt_BR](/f41/language/pt_BR) | 36479 | 127832 | 28.5 | /mnt/stockage/packages/f41/util-linux/po/pt_BR.po/mnt/stockage/packages/f41/util-linux/po-man/pt_BR.po | 
+ | [ru](/f41/language/ru) | 8116 | 28857 | 28.1 | /mnt/stockage/packages/f41/util-linux/po/ru.po | 
+ | [cs](/f41/language/cs) | 30700 | 127832 | 24.0 | /mnt/stockage/packages/f41/util-linux/po/cs.po/mnt/stockage/packages/f41/util-linux/po-man/cs.po | 
+ | [sk](/f41/language/sk) | 4075 | 28857 | 14.1 | /mnt/stockage/packages/f41/util-linux/po/sk.po | 
+ | [fi](/f41/language/fi) | 4013 | 28857 | 13.9 | /mnt/stockage/packages/f41/util-linux/po/fi.po | 
+ | [zh_Hant](/f41/language/zh_Hant) | 2412 | 28857 | 8.4 | /mnt/stockage/packages/f41/util-linux/po/zh_TW.po | 
+ | [id](/f41/language/id) | 2097 | 28857 | 7.3 | /mnt/stockage/packages/f41/util-linux/po/id.po | 
+ | [ca](/f41/language/ca) | 1934 | 28857 | 6.7 | /mnt/stockage/packages/f41/util-linux/po/ca.po | 
+ | [ka](/f41/language/ka) | 1924 | 28857 | 6.7 | /mnt/stockage/packages/f41/util-linux/po/ka.po | 
+ | [hu](/f41/language/hu) | 1805 | 28857 | 6.3 | /mnt/stockage/packages/f41/util-linux/po/hu.po | 
+ | [it](/f41/language/it) | 1451 | 28857 | 5.0 | /mnt/stockage/packages/f41/util-linux/po/it.po | 
+ | [sl](/f41/language/sl) | 1447 | 28857 | 5.0 | /mnt/stockage/packages/f41/util-linux/po/sl.po | 
+ | [et](/f41/language/et) | 1012 | 28857 | 3.5 | /mnt/stockage/packages/f41/util-linux/po/et.po | 
+ | [eu](/f41/language/eu) | 831 | 28857 | 2.9 | /mnt/stockage/packages/f41/util-linux/po/eu.po | 
+ | [gl](/f41/language/gl) | 756 | 28857 | 2.6 | /mnt/stockage/packages/f41/util-linux/po/gl.po | 
 {.sortable}
 
 

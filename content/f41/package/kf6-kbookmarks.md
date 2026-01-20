@@ -18,93 +18,93 @@ The package kf6-kbookmarks (version 6.18.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f41/language/ar.md" >}}) | 179 | 179 | 100.0 | /mnt/stockage/packages/f41/kf6-kbookmarks/poqm/ar/kbookmarks6_qt.po | 
- | [be]({{< ref "/f41/language/be.md" >}}) | 179 | 179 | 100.0 | /mnt/stockage/packages/f41/kf6-kbookmarks/poqm/be/kbookmarks6_qt.po | 
- | [bg]({{< ref "/f41/language/bg.md" >}}) | 179 | 179 | 100.0 | /mnt/stockage/packages/f41/kf6-kbookmarks/poqm/bg/kbookmarks6_qt.po | 
- | [ca]({{< ref "/f41/language/ca.md" >}}) | 179 | 179 | 100.0 | /mnt/stockage/packages/f41/kf6-kbookmarks/poqm/ca/kbookmarks6_qt.po | 
- | [ca@valencia]({{< ref "/f41/language/ca@valencia.md" >}}) | 179 | 179 | 100.0 | /mnt/stockage/packages/f41/kf6-kbookmarks/poqm/ca@valencia/kbookmarks6_qt.po | 
- | [cs]({{< ref "/f41/language/cs.md" >}}) | 179 | 179 | 100.0 | /mnt/stockage/packages/f41/kf6-kbookmarks/poqm/cs/kbookmarks6_qt.po | 
- | [de]({{< ref "/f41/language/de.md" >}}) | 179 | 179 | 100.0 | /mnt/stockage/packages/f41/kf6-kbookmarks/poqm/de/kbookmarks6_qt.po | 
- | [en_GB]({{< ref "/f41/language/en_GB.md" >}}) | 179 | 179 | 100.0 | /mnt/stockage/packages/f41/kf6-kbookmarks/poqm/en_GB/kbookmarks6_qt.po | 
- | [eo]({{< ref "/f41/language/eo.md" >}}) | 179 | 179 | 100.0 | /mnt/stockage/packages/f41/kf6-kbookmarks/poqm/eo/kbookmarks6_qt.po | 
- | [es]({{< ref "/f41/language/es.md" >}}) | 179 | 179 | 100.0 | /mnt/stockage/packages/f41/kf6-kbookmarks/poqm/es/kbookmarks6_qt.po | 
- | [eu]({{< ref "/f41/language/eu.md" >}}) | 179 | 179 | 100.0 | /mnt/stockage/packages/f41/kf6-kbookmarks/poqm/eu/kbookmarks6_qt.po | 
- | [fi]({{< ref "/f41/language/fi.md" >}}) | 179 | 179 | 100.0 | /mnt/stockage/packages/f41/kf6-kbookmarks/poqm/fi/kbookmarks6_qt.po | 
- | [fr]({{< ref "/f41/language/fr.md" >}}) | 179 | 179 | 100.0 | /mnt/stockage/packages/f41/kf6-kbookmarks/poqm/fr/kbookmarks6_qt.po | 
- | [gl]({{< ref "/f41/language/gl.md" >}}) | 179 | 179 | 100.0 | /mnt/stockage/packages/f41/kf6-kbookmarks/poqm/gl/kbookmarks6_qt.po | 
- | [he]({{< ref "/f41/language/he.md" >}}) | 179 | 179 | 100.0 | /mnt/stockage/packages/f41/kf6-kbookmarks/poqm/he/kbookmarks6_qt.po | 
- | [hu]({{< ref "/f41/language/hu.md" >}}) | 179 | 179 | 100.0 | /mnt/stockage/packages/f41/kf6-kbookmarks/poqm/hu/kbookmarks6_qt.po | 
- | [ia]({{< ref "/f41/language/ia.md" >}}) | 179 | 179 | 100.0 | /mnt/stockage/packages/f41/kf6-kbookmarks/poqm/ia/kbookmarks6_qt.po | 
- | [is]({{< ref "/f41/language/is.md" >}}) | 179 | 179 | 100.0 | /mnt/stockage/packages/f41/kf6-kbookmarks/poqm/is/kbookmarks6_qt.po | 
- | [it]({{< ref "/f41/language/it.md" >}}) | 179 | 179 | 100.0 | /mnt/stockage/packages/f41/kf6-kbookmarks/poqm/it/kbookmarks6_qt.po | 
- | [ka]({{< ref "/f41/language/ka.md" >}}) | 179 | 179 | 100.0 | /mnt/stockage/packages/f41/kf6-kbookmarks/poqm/ka/kbookmarks6_qt.po | 
- | [ko]({{< ref "/f41/language/ko.md" >}}) | 179 | 179 | 100.0 | /mnt/stockage/packages/f41/kf6-kbookmarks/poqm/ko/kbookmarks6_qt.po | 
- | [lt]({{< ref "/f41/language/lt.md" >}}) | 179 | 179 | 100.0 | /mnt/stockage/packages/f41/kf6-kbookmarks/poqm/lt/kbookmarks6_qt.po | 
- | [lv]({{< ref "/f41/language/lv.md" >}}) | 179 | 179 | 100.0 | /mnt/stockage/packages/f41/kf6-kbookmarks/poqm/lv/kbookmarks6_qt.po | 
- | [nl]({{< ref "/f41/language/nl.md" >}}) | 179 | 179 | 100.0 | /mnt/stockage/packages/f41/kf6-kbookmarks/poqm/nl/kbookmarks6_qt.po | 
- | [nn]({{< ref "/f41/language/nn.md" >}}) | 179 | 179 | 100.0 | /mnt/stockage/packages/f41/kf6-kbookmarks/poqm/nn/kbookmarks6_qt.po | 
- | [pl]({{< ref "/f41/language/pl.md" >}}) | 179 | 179 | 100.0 | /mnt/stockage/packages/f41/kf6-kbookmarks/poqm/pl/kbookmarks6_qt.po | 
- | [pt_BR]({{< ref "/f41/language/pt_BR.md" >}}) | 179 | 179 | 100.0 | /mnt/stockage/packages/f41/kf6-kbookmarks/poqm/pt_BR/kbookmarks6_qt.po | 
- | [ro]({{< ref "/f41/language/ro.md" >}}) | 179 | 179 | 100.0 | /mnt/stockage/packages/f41/kf6-kbookmarks/poqm/ro/kbookmarks6_qt.po | 
- | [ru]({{< ref "/f41/language/ru.md" >}}) | 179 | 179 | 100.0 | /mnt/stockage/packages/f41/kf6-kbookmarks/poqm/ru/kbookmarks6_qt.po | 
- | [sa]({{< ref "/f41/language/sa.md" >}}) | 179 | 179 | 100.0 | /mnt/stockage/packages/f41/kf6-kbookmarks/poqm/sa/kbookmarks6_qt.po | 
- | [sl]({{< ref "/f41/language/sl.md" >}}) | 179 | 179 | 100.0 | /mnt/stockage/packages/f41/kf6-kbookmarks/poqm/sl/kbookmarks6_qt.po | 
- | [sv]({{< ref "/f41/language/sv.md" >}}) | 179 | 179 | 100.0 | /mnt/stockage/packages/f41/kf6-kbookmarks/poqm/sv/kbookmarks6_qt.po | 
- | [ta]({{< ref "/f41/language/ta.md" >}}) | 179 | 179 | 100.0 | /mnt/stockage/packages/f41/kf6-kbookmarks/poqm/ta/kbookmarks6_qt.po | 
- | [tr]({{< ref "/f41/language/tr.md" >}}) | 179 | 179 | 100.0 | /mnt/stockage/packages/f41/kf6-kbookmarks/poqm/tr/kbookmarks6_qt.po | 
- | [uk]({{< ref "/f41/language/uk.md" >}}) | 179 | 179 | 100.0 | /mnt/stockage/packages/f41/kf6-kbookmarks/poqm/uk/kbookmarks6_qt.po | 
- | [zh_Hans]({{< ref "/f41/language/zh_Hans.md" >}}) | 179 | 179 | 100.0 | /mnt/stockage/packages/f41/kf6-kbookmarks/poqm/zh_CN/kbookmarks6_qt.po | 
- | [zh_Hant]({{< ref "/f41/language/zh_Hant.md" >}}) | 179 | 179 | 100.0 | /mnt/stockage/packages/f41/kf6-kbookmarks/poqm/zh_TW/kbookmarks6_qt.po | 
- | [el]({{< ref "/f41/language/el.md" >}}) | 168 | 179 | 93.9 | /mnt/stockage/packages/f41/kf6-kbookmarks/poqm/el/kbookmarks6_qt.po | 
- | [az]({{< ref "/f41/language/az.md" >}}) | 159 | 179 | 88.8 | /mnt/stockage/packages/f41/kf6-kbookmarks/poqm/az/kbookmarks6_qt.po | 
- | [da]({{< ref "/f41/language/da.md" >}}) | 159 | 179 | 88.8 | /mnt/stockage/packages/f41/kf6-kbookmarks/poqm/da/kbookmarks6_qt.po | 
- | [et]({{< ref "/f41/language/et.md" >}}) | 159 | 179 | 88.8 | /mnt/stockage/packages/f41/kf6-kbookmarks/poqm/et/kbookmarks6_qt.po | 
- | [hi]({{< ref "/f41/language/hi.md" >}}) | 159 | 179 | 88.8 | /mnt/stockage/packages/f41/kf6-kbookmarks/poqm/hi/kbookmarks6_qt.po | 
- | [hsb]({{< ref "/f41/language/hsb.md" >}}) | 159 | 179 | 88.8 | /mnt/stockage/packages/f41/kf6-kbookmarks/poqm/hsb/kbookmarks6_qt.po | 
- | [pt]({{< ref "/f41/language/pt.md" >}}) | 159 | 179 | 88.8 | /mnt/stockage/packages/f41/kf6-kbookmarks/poqm/pt/kbookmarks6_qt.po | 
- | [sk]({{< ref "/f41/language/sk.md" >}}) | 159 | 179 | 88.8 | /mnt/stockage/packages/f41/kf6-kbookmarks/poqm/sk/kbookmarks6_qt.po | 
- | [vi]({{< ref "/f41/language/vi.md" >}}) | 159 | 179 | 88.8 | /mnt/stockage/packages/f41/kf6-kbookmarks/poqm/vi/kbookmarks6_qt.po | 
- | [bs]({{< ref "/f41/language/bs.md" >}}) | 89 | 179 | 49.7 | /mnt/stockage/packages/f41/kf6-kbookmarks/poqm/bs/kbookmarks6_qt.po | 
- | [gd]({{< ref "/f41/language/gd.md" >}}) | 89 | 179 | 49.7 | /mnt/stockage/packages/f41/kf6-kbookmarks/poqm/gd/kbookmarks6_qt.po | 
- | [id]({{< ref "/f41/language/id.md" >}}) | 89 | 179 | 49.7 | /mnt/stockage/packages/f41/kf6-kbookmarks/poqm/id/kbookmarks6_qt.po | 
- | [ja]({{< ref "/f41/language/ja.md" >}}) | 89 | 179 | 49.7 | /mnt/stockage/packages/f41/kf6-kbookmarks/poqm/ja/kbookmarks6_qt.po | 
- | [nb_NO]({{< ref "/f41/language/nb_NO.md" >}}) | 89 | 179 | 49.7 | /mnt/stockage/packages/f41/kf6-kbookmarks/poqm/nb/kbookmarks6_qt.po | 
- | [nds]({{< ref "/f41/language/nds.md" >}}) | 89 | 179 | 49.7 | /mnt/stockage/packages/f41/kf6-kbookmarks/poqm/nds/kbookmarks6_qt.po | 
- | [sr]({{< ref "/f41/language/sr.md" >}}) | 89 | 179 | 49.7 | /mnt/stockage/packages/f41/kf6-kbookmarks/poqm/sr/kbookmarks6_qt.po | 
- | [sr@ijekavian]({{< ref "/f41/language/sr@ijekavian.md" >}}) | 89 | 179 | 49.7 | /mnt/stockage/packages/f41/kf6-kbookmarks/poqm/sr@ijekavian/kbookmarks6_qt.po | 
- | [sr@ijekavian_Latn]({{< ref "/f41/language/sr@ijekavian_Latn.md" >}}) | 89 | 179 | 49.7 | /mnt/stockage/packages/f41/kf6-kbookmarks/poqm/sr@ijekavianlatin/kbookmarks6_qt.po | 
- | [sr_Latn]({{< ref "/f41/language/sr_Latn.md" >}}) | 89 | 179 | 49.7 | /mnt/stockage/packages/f41/kf6-kbookmarks/poqm/sr@latin/kbookmarks6_qt.po | 
- | [tg]({{< ref "/f41/language/tg.md" >}}) | 89 | 179 | 49.7 | /mnt/stockage/packages/f41/kf6-kbookmarks/poqm/tg/kbookmarks6_qt.po | 
- | [pa]({{< ref "/f41/language/pa.md" >}}) | 76 | 179 | 42.5 | /mnt/stockage/packages/f41/kf6-kbookmarks/poqm/pa/kbookmarks6_qt.po | 
- | [mr]({{< ref "/f41/language/mr.md" >}}) | 50 | 179 | 27.9 | /mnt/stockage/packages/f41/kf6-kbookmarks/poqm/mr/kbookmarks6_qt.po | 
- | [ast]({{< ref "/f41/language/ast.md" >}}) | 1 | 179 | 0.6 | /mnt/stockage/packages/f41/kf6-kbookmarks/poqm/ast/kbookmarks6_qt.po | 
- | [af]({{< ref "/f41/language/af.md" >}}) | 0 | 179 | 0.0 | /mnt/stockage/packages/f41/kf6-kbookmarks/poqm/af/kbookmarks6_qt.po | 
- | [be_Latn]({{< ref "/f41/language/be_Latn.md" >}}) | 0 | 179 | 0.0 | /mnt/stockage/packages/f41/kf6-kbookmarks/poqm/be@latin/kbookmarks6_qt.po | 
- | [bn]({{< ref "/f41/language/bn.md" >}}) | 0 | 179 | 0.0 | /mnt/stockage/packages/f41/kf6-kbookmarks/poqm/bn/kbookmarks6_qt.po | 
- | [br]({{< ref "/f41/language/br.md" >}}) | 0 | 179 | 0.0 | /mnt/stockage/packages/f41/kf6-kbookmarks/poqm/br/kbookmarks6_qt.po | 
- | [csb]({{< ref "/f41/language/csb.md" >}}) | 0 | 179 | 0.0 | /mnt/stockage/packages/f41/kf6-kbookmarks/poqm/csb/kbookmarks6_qt.po | 
- | [cy]({{< ref "/f41/language/cy.md" >}}) | 0 | 179 | 0.0 | /mnt/stockage/packages/f41/kf6-kbookmarks/poqm/cy/kbookmarks6_qt.po | 
- | [fa]({{< ref "/f41/language/fa.md" >}}) | 0 | 179 | 0.0 | /mnt/stockage/packages/f41/kf6-kbookmarks/poqm/fa/kbookmarks6_qt.po | 
- | [fy]({{< ref "/f41/language/fy.md" >}}) | 0 | 179 | 0.0 | /mnt/stockage/packages/f41/kf6-kbookmarks/poqm/fy/kbookmarks6_qt.po | 
- | [ga]({{< ref "/f41/language/ga.md" >}}) | 0 | 179 | 0.0 | /mnt/stockage/packages/f41/kf6-kbookmarks/poqm/ga/kbookmarks6_qt.po | 
- | [gu]({{< ref "/f41/language/gu.md" >}}) | 0 | 179 | 0.0 | /mnt/stockage/packages/f41/kf6-kbookmarks/poqm/gu/kbookmarks6_qt.po | 
- | [hr]({{< ref "/f41/language/hr.md" >}}) | 0 | 179 | 0.0 | /mnt/stockage/packages/f41/kf6-kbookmarks/poqm/hr/kbookmarks6_qt.po | 
- | [kk]({{< ref "/f41/language/kk.md" >}}) | 0 | 179 | 0.0 | /mnt/stockage/packages/f41/kf6-kbookmarks/poqm/kk/kbookmarks6_qt.po | 
- | [km]({{< ref "/f41/language/km.md" >}}) | 0 | 179 | 0.0 | /mnt/stockage/packages/f41/kf6-kbookmarks/poqm/km/kbookmarks6_qt.po | 
- | [ku]({{< ref "/f41/language/ku.md" >}}) | 0 | 179 | 0.0 | /mnt/stockage/packages/f41/kf6-kbookmarks/poqm/ku/kbookmarks6_qt.po | 
- | [mai]({{< ref "/f41/language/mai.md" >}}) | 0 | 179 | 0.0 | /mnt/stockage/packages/f41/kf6-kbookmarks/poqm/mai/kbookmarks6_qt.po | 
- | [mk]({{< ref "/f41/language/mk.md" >}}) | 0 | 179 | 0.0 | /mnt/stockage/packages/f41/kf6-kbookmarks/poqm/mk/kbookmarks6_qt.po | 
- | [ml]({{< ref "/f41/language/ml.md" >}}) | 0 | 179 | 0.0 | /mnt/stockage/packages/f41/kf6-kbookmarks/poqm/ml/kbookmarks6_qt.po | 
- | [ms]({{< ref "/f41/language/ms.md" >}}) | 0 | 179 | 0.0 | /mnt/stockage/packages/f41/kf6-kbookmarks/poqm/ms/kbookmarks6_qt.po | 
- | [ne]({{< ref "/f41/language/ne.md" >}}) | 0 | 179 | 0.0 | /mnt/stockage/packages/f41/kf6-kbookmarks/poqm/ne/kbookmarks6_qt.po | 
- | [oc]({{< ref "/f41/language/oc.md" >}}) | 0 | 179 | 0.0 | /mnt/stockage/packages/f41/kf6-kbookmarks/poqm/oc/kbookmarks6_qt.po | 
- | [se]({{< ref "/f41/language/se.md" >}}) | 0 | 179 | 0.0 | /mnt/stockage/packages/f41/kf6-kbookmarks/poqm/se/kbookmarks6_qt.po | 
- | [sq]({{< ref "/f41/language/sq.md" >}}) | 0 | 179 | 0.0 | /mnt/stockage/packages/f41/kf6-kbookmarks/poqm/sq/kbookmarks6_qt.po | 
- | [th]({{< ref "/f41/language/th.md" >}}) | 0 | 179 | 0.0 | /mnt/stockage/packages/f41/kf6-kbookmarks/poqm/th/kbookmarks6_qt.po | 
- | [ug]({{< ref "/f41/language/ug.md" >}}) | 0 | 179 | 0.0 | /mnt/stockage/packages/f41/kf6-kbookmarks/poqm/ug/kbookmarks6_qt.po | 
- | [uz]({{< ref "/f41/language/uz.md" >}}) | 0 | 358 | 0.0 | /mnt/stockage/packages/f41/kf6-kbookmarks/poqm/uz@cyrillic/kbookmarks6_qt.po/mnt/stockage/packages/f41/kf6-kbookmarks/poqm/uz/kbookmarks6_qt.po | 
- | [wa]({{< ref "/f41/language/wa.md" >}}) | 0 | 179 | 0.0 | /mnt/stockage/packages/f41/kf6-kbookmarks/poqm/wa/kbookmarks6_qt.po | 
- | [xh]({{< ref "/f41/language/xh.md" >}}) | 0 | 179 | 0.0 | /mnt/stockage/packages/f41/kf6-kbookmarks/poqm/xh/kbookmarks6_qt.po | 
+ | [ar](/f41/language/ar) | 179 | 179 | 100.0 | /mnt/stockage/packages/f41/kf6-kbookmarks/poqm/ar/kbookmarks6_qt.po | 
+ | [be](/f41/language/be) | 179 | 179 | 100.0 | /mnt/stockage/packages/f41/kf6-kbookmarks/poqm/be/kbookmarks6_qt.po | 
+ | [bg](/f41/language/bg) | 179 | 179 | 100.0 | /mnt/stockage/packages/f41/kf6-kbookmarks/poqm/bg/kbookmarks6_qt.po | 
+ | [ca](/f41/language/ca) | 179 | 179 | 100.0 | /mnt/stockage/packages/f41/kf6-kbookmarks/poqm/ca/kbookmarks6_qt.po | 
+ | [ca@valencia](/f41/language/ca@valencia) | 179 | 179 | 100.0 | /mnt/stockage/packages/f41/kf6-kbookmarks/poqm/ca@valencia/kbookmarks6_qt.po | 
+ | [cs](/f41/language/cs) | 179 | 179 | 100.0 | /mnt/stockage/packages/f41/kf6-kbookmarks/poqm/cs/kbookmarks6_qt.po | 
+ | [de](/f41/language/de) | 179 | 179 | 100.0 | /mnt/stockage/packages/f41/kf6-kbookmarks/poqm/de/kbookmarks6_qt.po | 
+ | [en_GB](/f41/language/en_GB) | 179 | 179 | 100.0 | /mnt/stockage/packages/f41/kf6-kbookmarks/poqm/en_GB/kbookmarks6_qt.po | 
+ | [eo](/f41/language/eo) | 179 | 179 | 100.0 | /mnt/stockage/packages/f41/kf6-kbookmarks/poqm/eo/kbookmarks6_qt.po | 
+ | [es](/f41/language/es) | 179 | 179 | 100.0 | /mnt/stockage/packages/f41/kf6-kbookmarks/poqm/es/kbookmarks6_qt.po | 
+ | [eu](/f41/language/eu) | 179 | 179 | 100.0 | /mnt/stockage/packages/f41/kf6-kbookmarks/poqm/eu/kbookmarks6_qt.po | 
+ | [fi](/f41/language/fi) | 179 | 179 | 100.0 | /mnt/stockage/packages/f41/kf6-kbookmarks/poqm/fi/kbookmarks6_qt.po | 
+ | [fr](/f41/language/fr) | 179 | 179 | 100.0 | /mnt/stockage/packages/f41/kf6-kbookmarks/poqm/fr/kbookmarks6_qt.po | 
+ | [gl](/f41/language/gl) | 179 | 179 | 100.0 | /mnt/stockage/packages/f41/kf6-kbookmarks/poqm/gl/kbookmarks6_qt.po | 
+ | [he](/f41/language/he) | 179 | 179 | 100.0 | /mnt/stockage/packages/f41/kf6-kbookmarks/poqm/he/kbookmarks6_qt.po | 
+ | [hu](/f41/language/hu) | 179 | 179 | 100.0 | /mnt/stockage/packages/f41/kf6-kbookmarks/poqm/hu/kbookmarks6_qt.po | 
+ | [ia](/f41/language/ia) | 179 | 179 | 100.0 | /mnt/stockage/packages/f41/kf6-kbookmarks/poqm/ia/kbookmarks6_qt.po | 
+ | [is](/f41/language/is) | 179 | 179 | 100.0 | /mnt/stockage/packages/f41/kf6-kbookmarks/poqm/is/kbookmarks6_qt.po | 
+ | [it](/f41/language/it) | 179 | 179 | 100.0 | /mnt/stockage/packages/f41/kf6-kbookmarks/poqm/it/kbookmarks6_qt.po | 
+ | [ka](/f41/language/ka) | 179 | 179 | 100.0 | /mnt/stockage/packages/f41/kf6-kbookmarks/poqm/ka/kbookmarks6_qt.po | 
+ | [ko](/f41/language/ko) | 179 | 179 | 100.0 | /mnt/stockage/packages/f41/kf6-kbookmarks/poqm/ko/kbookmarks6_qt.po | 
+ | [lt](/f41/language/lt) | 179 | 179 | 100.0 | /mnt/stockage/packages/f41/kf6-kbookmarks/poqm/lt/kbookmarks6_qt.po | 
+ | [lv](/f41/language/lv) | 179 | 179 | 100.0 | /mnt/stockage/packages/f41/kf6-kbookmarks/poqm/lv/kbookmarks6_qt.po | 
+ | [nl](/f41/language/nl) | 179 | 179 | 100.0 | /mnt/stockage/packages/f41/kf6-kbookmarks/poqm/nl/kbookmarks6_qt.po | 
+ | [nn](/f41/language/nn) | 179 | 179 | 100.0 | /mnt/stockage/packages/f41/kf6-kbookmarks/poqm/nn/kbookmarks6_qt.po | 
+ | [pl](/f41/language/pl) | 179 | 179 | 100.0 | /mnt/stockage/packages/f41/kf6-kbookmarks/poqm/pl/kbookmarks6_qt.po | 
+ | [pt_BR](/f41/language/pt_BR) | 179 | 179 | 100.0 | /mnt/stockage/packages/f41/kf6-kbookmarks/poqm/pt_BR/kbookmarks6_qt.po | 
+ | [ro](/f41/language/ro) | 179 | 179 | 100.0 | /mnt/stockage/packages/f41/kf6-kbookmarks/poqm/ro/kbookmarks6_qt.po | 
+ | [ru](/f41/language/ru) | 179 | 179 | 100.0 | /mnt/stockage/packages/f41/kf6-kbookmarks/poqm/ru/kbookmarks6_qt.po | 
+ | [sa](/f41/language/sa) | 179 | 179 | 100.0 | /mnt/stockage/packages/f41/kf6-kbookmarks/poqm/sa/kbookmarks6_qt.po | 
+ | [sl](/f41/language/sl) | 179 | 179 | 100.0 | /mnt/stockage/packages/f41/kf6-kbookmarks/poqm/sl/kbookmarks6_qt.po | 
+ | [sv](/f41/language/sv) | 179 | 179 | 100.0 | /mnt/stockage/packages/f41/kf6-kbookmarks/poqm/sv/kbookmarks6_qt.po | 
+ | [ta](/f41/language/ta) | 179 | 179 | 100.0 | /mnt/stockage/packages/f41/kf6-kbookmarks/poqm/ta/kbookmarks6_qt.po | 
+ | [tr](/f41/language/tr) | 179 | 179 | 100.0 | /mnt/stockage/packages/f41/kf6-kbookmarks/poqm/tr/kbookmarks6_qt.po | 
+ | [uk](/f41/language/uk) | 179 | 179 | 100.0 | /mnt/stockage/packages/f41/kf6-kbookmarks/poqm/uk/kbookmarks6_qt.po | 
+ | [zh_Hans](/f41/language/zh_Hans) | 179 | 179 | 100.0 | /mnt/stockage/packages/f41/kf6-kbookmarks/poqm/zh_CN/kbookmarks6_qt.po | 
+ | [zh_Hant](/f41/language/zh_Hant) | 179 | 179 | 100.0 | /mnt/stockage/packages/f41/kf6-kbookmarks/poqm/zh_TW/kbookmarks6_qt.po | 
+ | [el](/f41/language/el) | 168 | 179 | 93.9 | /mnt/stockage/packages/f41/kf6-kbookmarks/poqm/el/kbookmarks6_qt.po | 
+ | [az](/f41/language/az) | 159 | 179 | 88.8 | /mnt/stockage/packages/f41/kf6-kbookmarks/poqm/az/kbookmarks6_qt.po | 
+ | [da](/f41/language/da) | 159 | 179 | 88.8 | /mnt/stockage/packages/f41/kf6-kbookmarks/poqm/da/kbookmarks6_qt.po | 
+ | [et](/f41/language/et) | 159 | 179 | 88.8 | /mnt/stockage/packages/f41/kf6-kbookmarks/poqm/et/kbookmarks6_qt.po | 
+ | [hi](/f41/language/hi) | 159 | 179 | 88.8 | /mnt/stockage/packages/f41/kf6-kbookmarks/poqm/hi/kbookmarks6_qt.po | 
+ | [hsb](/f41/language/hsb) | 159 | 179 | 88.8 | /mnt/stockage/packages/f41/kf6-kbookmarks/poqm/hsb/kbookmarks6_qt.po | 
+ | [pt](/f41/language/pt) | 159 | 179 | 88.8 | /mnt/stockage/packages/f41/kf6-kbookmarks/poqm/pt/kbookmarks6_qt.po | 
+ | [sk](/f41/language/sk) | 159 | 179 | 88.8 | /mnt/stockage/packages/f41/kf6-kbookmarks/poqm/sk/kbookmarks6_qt.po | 
+ | [vi](/f41/language/vi) | 159 | 179 | 88.8 | /mnt/stockage/packages/f41/kf6-kbookmarks/poqm/vi/kbookmarks6_qt.po | 
+ | [bs](/f41/language/bs) | 89 | 179 | 49.7 | /mnt/stockage/packages/f41/kf6-kbookmarks/poqm/bs/kbookmarks6_qt.po | 
+ | [gd](/f41/language/gd) | 89 | 179 | 49.7 | /mnt/stockage/packages/f41/kf6-kbookmarks/poqm/gd/kbookmarks6_qt.po | 
+ | [id](/f41/language/id) | 89 | 179 | 49.7 | /mnt/stockage/packages/f41/kf6-kbookmarks/poqm/id/kbookmarks6_qt.po | 
+ | [ja](/f41/language/ja) | 89 | 179 | 49.7 | /mnt/stockage/packages/f41/kf6-kbookmarks/poqm/ja/kbookmarks6_qt.po | 
+ | [nb_NO](/f41/language/nb_NO) | 89 | 179 | 49.7 | /mnt/stockage/packages/f41/kf6-kbookmarks/poqm/nb/kbookmarks6_qt.po | 
+ | [nds](/f41/language/nds) | 89 | 179 | 49.7 | /mnt/stockage/packages/f41/kf6-kbookmarks/poqm/nds/kbookmarks6_qt.po | 
+ | [sr](/f41/language/sr) | 89 | 179 | 49.7 | /mnt/stockage/packages/f41/kf6-kbookmarks/poqm/sr/kbookmarks6_qt.po | 
+ | [sr@ijekavian](/f41/language/sr@ijekavian) | 89 | 179 | 49.7 | /mnt/stockage/packages/f41/kf6-kbookmarks/poqm/sr@ijekavian/kbookmarks6_qt.po | 
+ | [sr@ijekavian_Latn](/f41/language/sr@ijekavian_Latn) | 89 | 179 | 49.7 | /mnt/stockage/packages/f41/kf6-kbookmarks/poqm/sr@ijekavianlatin/kbookmarks6_qt.po | 
+ | [sr_Latn](/f41/language/sr_Latn) | 89 | 179 | 49.7 | /mnt/stockage/packages/f41/kf6-kbookmarks/poqm/sr@latin/kbookmarks6_qt.po | 
+ | [tg](/f41/language/tg) | 89 | 179 | 49.7 | /mnt/stockage/packages/f41/kf6-kbookmarks/poqm/tg/kbookmarks6_qt.po | 
+ | [pa](/f41/language/pa) | 76 | 179 | 42.5 | /mnt/stockage/packages/f41/kf6-kbookmarks/poqm/pa/kbookmarks6_qt.po | 
+ | [mr](/f41/language/mr) | 50 | 179 | 27.9 | /mnt/stockage/packages/f41/kf6-kbookmarks/poqm/mr/kbookmarks6_qt.po | 
+ | [ast](/f41/language/ast) | 1 | 179 | 0.6 | /mnt/stockage/packages/f41/kf6-kbookmarks/poqm/ast/kbookmarks6_qt.po | 
+ | [af](/f41/language/af) | 0 | 179 | 0.0 | /mnt/stockage/packages/f41/kf6-kbookmarks/poqm/af/kbookmarks6_qt.po | 
+ | [be_Latn](/f41/language/be_Latn) | 0 | 179 | 0.0 | /mnt/stockage/packages/f41/kf6-kbookmarks/poqm/be@latin/kbookmarks6_qt.po | 
+ | [bn](/f41/language/bn) | 0 | 179 | 0.0 | /mnt/stockage/packages/f41/kf6-kbookmarks/poqm/bn/kbookmarks6_qt.po | 
+ | [br](/f41/language/br) | 0 | 179 | 0.0 | /mnt/stockage/packages/f41/kf6-kbookmarks/poqm/br/kbookmarks6_qt.po | 
+ | [csb](/f41/language/csb) | 0 | 179 | 0.0 | /mnt/stockage/packages/f41/kf6-kbookmarks/poqm/csb/kbookmarks6_qt.po | 
+ | [cy](/f41/language/cy) | 0 | 179 | 0.0 | /mnt/stockage/packages/f41/kf6-kbookmarks/poqm/cy/kbookmarks6_qt.po | 
+ | [fa](/f41/language/fa) | 0 | 179 | 0.0 | /mnt/stockage/packages/f41/kf6-kbookmarks/poqm/fa/kbookmarks6_qt.po | 
+ | [fy](/f41/language/fy) | 0 | 179 | 0.0 | /mnt/stockage/packages/f41/kf6-kbookmarks/poqm/fy/kbookmarks6_qt.po | 
+ | [ga](/f41/language/ga) | 0 | 179 | 0.0 | /mnt/stockage/packages/f41/kf6-kbookmarks/poqm/ga/kbookmarks6_qt.po | 
+ | [gu](/f41/language/gu) | 0 | 179 | 0.0 | /mnt/stockage/packages/f41/kf6-kbookmarks/poqm/gu/kbookmarks6_qt.po | 
+ | [hr](/f41/language/hr) | 0 | 179 | 0.0 | /mnt/stockage/packages/f41/kf6-kbookmarks/poqm/hr/kbookmarks6_qt.po | 
+ | [kk](/f41/language/kk) | 0 | 179 | 0.0 | /mnt/stockage/packages/f41/kf6-kbookmarks/poqm/kk/kbookmarks6_qt.po | 
+ | [km](/f41/language/km) | 0 | 179 | 0.0 | /mnt/stockage/packages/f41/kf6-kbookmarks/poqm/km/kbookmarks6_qt.po | 
+ | [ku](/f41/language/ku) | 0 | 179 | 0.0 | /mnt/stockage/packages/f41/kf6-kbookmarks/poqm/ku/kbookmarks6_qt.po | 
+ | [mai](/f41/language/mai) | 0 | 179 | 0.0 | /mnt/stockage/packages/f41/kf6-kbookmarks/poqm/mai/kbookmarks6_qt.po | 
+ | [mk](/f41/language/mk) | 0 | 179 | 0.0 | /mnt/stockage/packages/f41/kf6-kbookmarks/poqm/mk/kbookmarks6_qt.po | 
+ | [ml](/f41/language/ml) | 0 | 179 | 0.0 | /mnt/stockage/packages/f41/kf6-kbookmarks/poqm/ml/kbookmarks6_qt.po | 
+ | [ms](/f41/language/ms) | 0 | 179 | 0.0 | /mnt/stockage/packages/f41/kf6-kbookmarks/poqm/ms/kbookmarks6_qt.po | 
+ | [ne](/f41/language/ne) | 0 | 179 | 0.0 | /mnt/stockage/packages/f41/kf6-kbookmarks/poqm/ne/kbookmarks6_qt.po | 
+ | [oc](/f41/language/oc) | 0 | 179 | 0.0 | /mnt/stockage/packages/f41/kf6-kbookmarks/poqm/oc/kbookmarks6_qt.po | 
+ | [se](/f41/language/se) | 0 | 179 | 0.0 | /mnt/stockage/packages/f41/kf6-kbookmarks/poqm/se/kbookmarks6_qt.po | 
+ | [sq](/f41/language/sq) | 0 | 179 | 0.0 | /mnt/stockage/packages/f41/kf6-kbookmarks/poqm/sq/kbookmarks6_qt.po | 
+ | [th](/f41/language/th) | 0 | 179 | 0.0 | /mnt/stockage/packages/f41/kf6-kbookmarks/poqm/th/kbookmarks6_qt.po | 
+ | [ug](/f41/language/ug) | 0 | 179 | 0.0 | /mnt/stockage/packages/f41/kf6-kbookmarks/poqm/ug/kbookmarks6_qt.po | 
+ | [uz](/f41/language/uz) | 0 | 358 | 0.0 | /mnt/stockage/packages/f41/kf6-kbookmarks/poqm/uz@cyrillic/kbookmarks6_qt.po/mnt/stockage/packages/f41/kf6-kbookmarks/poqm/uz/kbookmarks6_qt.po | 
+ | [wa](/f41/language/wa) | 0 | 179 | 0.0 | /mnt/stockage/packages/f41/kf6-kbookmarks/poqm/wa/kbookmarks6_qt.po | 
+ | [xh](/f41/language/xh) | 0 | 179 | 0.0 | /mnt/stockage/packages/f41/kf6-kbookmarks/poqm/xh/kbookmarks6_qt.po | 
 {.sortable}
 
 

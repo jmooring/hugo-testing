@@ -18,16 +18,16 @@ The package recutils (version 1.9):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f41/language/de.md" >}}) | 2270 | 2400 | 94.6 | /mnt/stockage/packages/f41/recutils/po/de.po | 
- | [fr]({{< ref "/f41/language/fr.md" >}}) | 2270 | 2400 | 94.6 | /mnt/stockage/packages/f41/recutils/po/fr.po | 
- | [pt_BR]({{< ref "/f41/language/pt_BR.md" >}}) | 2270 | 2400 | 94.6 | /mnt/stockage/packages/f41/recutils/po/pt_BR.po | 
- | [sr]({{< ref "/f41/language/sr.md" >}}) | 2270 | 2400 | 94.6 | /mnt/stockage/packages/f41/recutils/po/sr.po | 
- | [sv]({{< ref "/f41/language/sv.md" >}}) | 2270 | 2400 | 94.6 | /mnt/stockage/packages/f41/recutils/po/sv.po | 
- | [uk]({{< ref "/f41/language/uk.md" >}}) | 2270 | 2400 | 94.6 | /mnt/stockage/packages/f41/recutils/po/uk.po | 
- | [fi]({{< ref "/f41/language/fi.md" >}}) | 1758 | 2400 | 73.2 | /mnt/stockage/packages/f41/recutils/po/fi.po | 
- | [nl]({{< ref "/f41/language/nl.md" >}}) | 1758 | 2400 | 73.2 | /mnt/stockage/packages/f41/recutils/po/nl.po | 
- | [vi]({{< ref "/f41/language/vi.md" >}}) | 1758 | 2400 | 73.2 | /mnt/stockage/packages/f41/recutils/po/vi.po | 
- | [es]({{< ref "/f41/language/es.md" >}}) | 883 | 2400 | 36.8 | /mnt/stockage/packages/f41/recutils/po/es.po | 
+ | [de](/f41/language/de) | 2270 | 2400 | 94.6 | /mnt/stockage/packages/f41/recutils/po/de.po | 
+ | [fr](/f41/language/fr) | 2270 | 2400 | 94.6 | /mnt/stockage/packages/f41/recutils/po/fr.po | 
+ | [pt_BR](/f41/language/pt_BR) | 2270 | 2400 | 94.6 | /mnt/stockage/packages/f41/recutils/po/pt_BR.po | 
+ | [sr](/f41/language/sr) | 2270 | 2400 | 94.6 | /mnt/stockage/packages/f41/recutils/po/sr.po | 
+ | [sv](/f41/language/sv) | 2270 | 2400 | 94.6 | /mnt/stockage/packages/f41/recutils/po/sv.po | 
+ | [uk](/f41/language/uk) | 2270 | 2400 | 94.6 | /mnt/stockage/packages/f41/recutils/po/uk.po | 
+ | [fi](/f41/language/fi) | 1758 | 2400 | 73.2 | /mnt/stockage/packages/f41/recutils/po/fi.po | 
+ | [nl](/f41/language/nl) | 1758 | 2400 | 73.2 | /mnt/stockage/packages/f41/recutils/po/nl.po | 
+ | [vi](/f41/language/vi) | 1758 | 2400 | 73.2 | /mnt/stockage/packages/f41/recutils/po/vi.po | 
+ | [es](/f41/language/es) | 883 | 2400 | 36.8 | /mnt/stockage/packages/f41/recutils/po/es.po | 
 {.sortable}
 
 

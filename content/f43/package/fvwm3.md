@@ -18,16 +18,16 @@ The package fvwm3 (version 1.1.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [uk]({{< ref "/f43/language/uk.md" >}}) | 726 | 726 | 100.0 | /mnt/stockage/packages/f43/fvwm3/po/uk.po | 
- | [zh_Hant]({{< ref "/f43/language/zh_Hant.md" >}}) | 707 | 715 | 98.9 | /mnt/stockage/packages/f43/fvwm3/po/zh_TW.po | 
- | [fr]({{< ref "/f43/language/fr.md" >}}) | 290 | 715 | 40.6 | /mnt/stockage/packages/f43/fvwm3/po/fr.po | 
- | [da]({{< ref "/f43/language/da.md" >}}) | 289 | 715 | 40.4 | /mnt/stockage/packages/f43/fvwm3/po/da.po | 
- | [de]({{< ref "/f43/language/de.md" >}}) | 289 | 715 | 40.4 | /mnt/stockage/packages/f43/fvwm3/po/de.po | 
- | [es]({{< ref "/f43/language/es.md" >}}) | 121 | 715 | 16.9 | /mnt/stockage/packages/f43/fvwm3/po/es.po | 
- | [ru]({{< ref "/f43/language/ru.md" >}}) | 77 | 715 | 10.8 | /mnt/stockage/packages/f43/fvwm3/po/ru.po | 
- | [sv]({{< ref "/f43/language/sv.md" >}}) | 77 | 715 | 10.8 | /mnt/stockage/packages/f43/fvwm3/po/sv_SE.po | 
- | [zh_Hans]({{< ref "/f43/language/zh_Hans.md" >}}) | 76 | 715 | 10.6 | /mnt/stockage/packages/f43/fvwm3/po/zh_CN.po | 
- | [ar]({{< ref "/f43/language/ar.md" >}}) | 9 | 715 | 1.3 | /mnt/stockage/packages/f43/fvwm3/po/ar.po | 
+ | [uk](/f43/language/uk) | 726 | 726 | 100.0 | /mnt/stockage/packages/f43/fvwm3/po/uk.po | 
+ | [zh_Hant](/f43/language/zh_Hant) | 707 | 715 | 98.9 | /mnt/stockage/packages/f43/fvwm3/po/zh_TW.po | 
+ | [fr](/f43/language/fr) | 290 | 715 | 40.6 | /mnt/stockage/packages/f43/fvwm3/po/fr.po | 
+ | [da](/f43/language/da) | 289 | 715 | 40.4 | /mnt/stockage/packages/f43/fvwm3/po/da.po | 
+ | [de](/f43/language/de) | 289 | 715 | 40.4 | /mnt/stockage/packages/f43/fvwm3/po/de.po | 
+ | [es](/f43/language/es) | 121 | 715 | 16.9 | /mnt/stockage/packages/f43/fvwm3/po/es.po | 
+ | [ru](/f43/language/ru) | 77 | 715 | 10.8 | /mnt/stockage/packages/f43/fvwm3/po/ru.po | 
+ | [sv](/f43/language/sv) | 77 | 715 | 10.8 | /mnt/stockage/packages/f43/fvwm3/po/sv_SE.po | 
+ | [zh_Hans](/f43/language/zh_Hans) | 76 | 715 | 10.6 | /mnt/stockage/packages/f43/fvwm3/po/zh_CN.po | 
+ | [ar](/f43/language/ar) | 9 | 715 | 1.3 | /mnt/stockage/packages/f43/fvwm3/po/ar.po | 
 {.sortable}
 
 

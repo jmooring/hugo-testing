@@ -42,10 +42,10 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [slick-greeter]({{< ref "/f35/package/slick-greeter.md" >}}) | 211 | 211 | 100.0 | Venetian <vec@li.org> | 
- | [tuxpaint-stamps]({{< ref "/f35/package/tuxpaint-stamps.md" >}}) | 3220 | 3249 | 99.1 | none | 
- | [libreoffice]({{< ref "/f35/package/libreoffice.md" >}}) | 100340 | 165976 | 60.5 | Venetian <https://translations.documentfoundation.org/projects/libo_ui-master/accessibilitymessages/vec/> | 
- | [tuxpaint]({{< ref "/f35/package/tuxpaint.md" >}}) | 1178 | 2286 | 51.5 | none | 
+ | [slick-greeter](/f35/package/slick-greeter) | 211 | 211 | 100.0 | Venetian <vec@li.org> | 
+ | [tuxpaint-stamps](/f35/package/tuxpaint-stamps) | 3220 | 3249 | 99.1 | none | 
+ | [libreoffice](/f35/package/libreoffice) | 100340 | 165976 | 60.5 | Venetian <https://translations.documentfoundation.org/projects/libo_ui-master/accessibilitymessages/vec/> | 
+ | [tuxpaint](/f35/package/tuxpaint) | 1178 | 2286 | 51.5 | none | 
 {.sortable}
 
 

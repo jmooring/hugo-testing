@@ -18,18 +18,18 @@ The package cockpit (version 0.117):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [uk]({{< ref "/f24/language/uk.md" >}}) | 4114 | 4238 | 97.1 | /mnt/stockage/packages/f24/cockpit/po/uk.po | 
- | [zh_Hans]({{< ref "/f24/language/zh_Hans.md" >}}) | 4114 | 4238 | 97.1 | /mnt/stockage/packages/f24/cockpit/po/zh_CN.po | 
- | [pl]({{< ref "/f24/language/pl.md" >}}) | 4096 | 4238 | 96.6 | /mnt/stockage/packages/f24/cockpit/po/pl.po | 
- | [es]({{< ref "/f24/language/es.md" >}}) | 2641 | 4238 | 62.3 | /mnt/stockage/packages/f24/cockpit/po/es.po | 
- | [ca]({{< ref "/f24/language/ca.md" >}}) | 2619 | 4238 | 61.8 | /mnt/stockage/packages/f24/cockpit/po/ca.po | 
- | [de]({{< ref "/f24/language/de.md" >}}) | 1605 | 4238 | 37.9 | /mnt/stockage/packages/f24/cockpit/po/de.po | 
- | [fr]({{< ref "/f24/language/fr.md" >}}) | 1582 | 4238 | 37.3 | /mnt/stockage/packages/f24/cockpit/po/fr.po | 
- | [pt_BR]({{< ref "/f24/language/pt_BR.md" >}}) | 1146 | 4238 | 27.0 | /mnt/stockage/packages/f24/cockpit/po/pt_BR.po | 
- | [ko]({{< ref "/f24/language/ko.md" >}}) | 783 | 4238 | 18.5 | /mnt/stockage/packages/f24/cockpit/po/ko.po | 
- | [tr]({{< ref "/f24/language/tr.md" >}}) | 728 | 4238 | 17.2 | /mnt/stockage/packages/f24/cockpit/po/tr.po | 
- | [hr]({{< ref "/f24/language/hr.md" >}}) | 560 | 4238 | 13.2 | /mnt/stockage/packages/f24/cockpit/po/hr.po | 
- | [da]({{< ref "/f24/language/da.md" >}}) | 6 | 4238 | 0.1 | /mnt/stockage/packages/f24/cockpit/po/da.po | 
+ | [uk](/f24/language/uk) | 4114 | 4238 | 97.1 | /mnt/stockage/packages/f24/cockpit/po/uk.po | 
+ | [zh_Hans](/f24/language/zh_Hans) | 4114 | 4238 | 97.1 | /mnt/stockage/packages/f24/cockpit/po/zh_CN.po | 
+ | [pl](/f24/language/pl) | 4096 | 4238 | 96.6 | /mnt/stockage/packages/f24/cockpit/po/pl.po | 
+ | [es](/f24/language/es) | 2641 | 4238 | 62.3 | /mnt/stockage/packages/f24/cockpit/po/es.po | 
+ | [ca](/f24/language/ca) | 2619 | 4238 | 61.8 | /mnt/stockage/packages/f24/cockpit/po/ca.po | 
+ | [de](/f24/language/de) | 1605 | 4238 | 37.9 | /mnt/stockage/packages/f24/cockpit/po/de.po | 
+ | [fr](/f24/language/fr) | 1582 | 4238 | 37.3 | /mnt/stockage/packages/f24/cockpit/po/fr.po | 
+ | [pt_BR](/f24/language/pt_BR) | 1146 | 4238 | 27.0 | /mnt/stockage/packages/f24/cockpit/po/pt_BR.po | 
+ | [ko](/f24/language/ko) | 783 | 4238 | 18.5 | /mnt/stockage/packages/f24/cockpit/po/ko.po | 
+ | [tr](/f24/language/tr) | 728 | 4238 | 17.2 | /mnt/stockage/packages/f24/cockpit/po/tr.po | 
+ | [hr](/f24/language/hr) | 560 | 4238 | 13.2 | /mnt/stockage/packages/f24/cockpit/po/hr.po | 
+ | [da](/f24/language/da) | 6 | 4238 | 0.1 | /mnt/stockage/packages/f24/cockpit/po/da.po | 
 {.sortable}
 
 

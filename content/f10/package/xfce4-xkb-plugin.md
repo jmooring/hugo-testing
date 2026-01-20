@@ -18,29 +18,29 @@ The package xfce4-xkb-plugin (version 0.5.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [be]({{< ref "/f10/language/be.md" >}}) | 61 | 61 | 100.0 | /mnt/stockage/packages/f10/xfce4-xkb-plugin/po/be.po | 
- | [bg]({{< ref "/f10/language/bg.md" >}}) | 61 | 61 | 100.0 | /mnt/stockage/packages/f10/xfce4-xkb-plugin/po/bg.po | 
- | [cs]({{< ref "/f10/language/cs.md" >}}) | 61 | 61 | 100.0 | /mnt/stockage/packages/f10/xfce4-xkb-plugin/po/cs.po | 
- | [de]({{< ref "/f10/language/de.md" >}}) | 61 | 61 | 100.0 | /mnt/stockage/packages/f10/xfce4-xkb-plugin/po/de.po | 
- | [eu]({{< ref "/f10/language/eu.md" >}}) | 61 | 61 | 100.0 | /mnt/stockage/packages/f10/xfce4-xkb-plugin/po/eu.po | 
- | [id]({{< ref "/f10/language/id.md" >}}) | 61 | 61 | 100.0 | /mnt/stockage/packages/f10/xfce4-xkb-plugin/po/id.po | 
- | [ja]({{< ref "/f10/language/ja.md" >}}) | 61 | 61 | 100.0 | /mnt/stockage/packages/f10/xfce4-xkb-plugin/po/ja.po | 
- | [pt_BR]({{< ref "/f10/language/pt_BR.md" >}}) | 61 | 61 | 100.0 | /mnt/stockage/packages/f10/xfce4-xkb-plugin/po/pt_BR.po | 
- | [pt_PT]({{< ref "/f10/language/pt_PT.md" >}}) | 61 | 61 | 100.0 | /mnt/stockage/packages/f10/xfce4-xkb-plugin/po/pt_PT.po | 
- | [ca]({{< ref "/f10/language/ca.md" >}}) | 6 | 61 | 9.8 | /mnt/stockage/packages/f10/xfce4-xkb-plugin/po/ca.po | 
- | [da]({{< ref "/f10/language/da.md" >}}) | 6 | 61 | 9.8 | /mnt/stockage/packages/f10/xfce4-xkb-plugin/po/da.po | 
- | [el]({{< ref "/f10/language/el.md" >}}) | 6 | 61 | 9.8 | /mnt/stockage/packages/f10/xfce4-xkb-plugin/po/el.po | 
- | [en_GB]({{< ref "/f10/language/en_GB.md" >}}) | 6 | 61 | 9.8 | /mnt/stockage/packages/f10/xfce4-xkb-plugin/po/en_GB.po | 
- | [fr]({{< ref "/f10/language/fr.md" >}}) | 6 | 61 | 9.8 | /mnt/stockage/packages/f10/xfce4-xkb-plugin/po/fr.po | 
- | [hu]({{< ref "/f10/language/hu.md" >}}) | 6 | 61 | 9.8 | /mnt/stockage/packages/f10/xfce4-xkb-plugin/po/hu.po | 
- | [lv]({{< ref "/f10/language/lv.md" >}}) | 6 | 61 | 9.8 | /mnt/stockage/packages/f10/xfce4-xkb-plugin/po/lv.po | 
- | [pl]({{< ref "/f10/language/pl.md" >}}) | 6 | 61 | 9.8 | /mnt/stockage/packages/f10/xfce4-xkb-plugin/po/pl.po | 
- | [ru]({{< ref "/f10/language/ru.md" >}}) | 6 | 61 | 9.8 | /mnt/stockage/packages/f10/xfce4-xkb-plugin/po/ru.po | 
- | [uk]({{< ref "/f10/language/uk.md" >}}) | 6 | 61 | 9.8 | /mnt/stockage/packages/f10/xfce4-xkb-plugin/po/uk.po | 
- | [ur]({{< ref "/f10/language/ur.md" >}}) | 6 | 61 | 9.8 | /mnt/stockage/packages/f10/xfce4-xkb-plugin/po/ur.po | 
- | [zh_Hant]({{< ref "/f10/language/zh_Hant.md" >}}) | 6 | 61 | 9.8 | /mnt/stockage/packages/f10/xfce4-xkb-plugin/po/zh_TW.po | 
- | [ar]({{< ref "/f10/language/ar.md" >}}) | 2 | 61 | 3.3 | /mnt/stockage/packages/f10/xfce4-xkb-plugin/po/ar.po | 
- | [gl]({{< ref "/f10/language/gl.md" >}}) | 2 | 61 | 3.3 | /mnt/stockage/packages/f10/xfce4-xkb-plugin/po/gl.po | 
+ | [be](/f10/language/be) | 61 | 61 | 100.0 | /mnt/stockage/packages/f10/xfce4-xkb-plugin/po/be.po | 
+ | [bg](/f10/language/bg) | 61 | 61 | 100.0 | /mnt/stockage/packages/f10/xfce4-xkb-plugin/po/bg.po | 
+ | [cs](/f10/language/cs) | 61 | 61 | 100.0 | /mnt/stockage/packages/f10/xfce4-xkb-plugin/po/cs.po | 
+ | [de](/f10/language/de) | 61 | 61 | 100.0 | /mnt/stockage/packages/f10/xfce4-xkb-plugin/po/de.po | 
+ | [eu](/f10/language/eu) | 61 | 61 | 100.0 | /mnt/stockage/packages/f10/xfce4-xkb-plugin/po/eu.po | 
+ | [id](/f10/language/id) | 61 | 61 | 100.0 | /mnt/stockage/packages/f10/xfce4-xkb-plugin/po/id.po | 
+ | [ja](/f10/language/ja) | 61 | 61 | 100.0 | /mnt/stockage/packages/f10/xfce4-xkb-plugin/po/ja.po | 
+ | [pt_BR](/f10/language/pt_BR) | 61 | 61 | 100.0 | /mnt/stockage/packages/f10/xfce4-xkb-plugin/po/pt_BR.po | 
+ | [pt_PT](/f10/language/pt_PT) | 61 | 61 | 100.0 | /mnt/stockage/packages/f10/xfce4-xkb-plugin/po/pt_PT.po | 
+ | [ca](/f10/language/ca) | 6 | 61 | 9.8 | /mnt/stockage/packages/f10/xfce4-xkb-plugin/po/ca.po | 
+ | [da](/f10/language/da) | 6 | 61 | 9.8 | /mnt/stockage/packages/f10/xfce4-xkb-plugin/po/da.po | 
+ | [el](/f10/language/el) | 6 | 61 | 9.8 | /mnt/stockage/packages/f10/xfce4-xkb-plugin/po/el.po | 
+ | [en_GB](/f10/language/en_GB) | 6 | 61 | 9.8 | /mnt/stockage/packages/f10/xfce4-xkb-plugin/po/en_GB.po | 
+ | [fr](/f10/language/fr) | 6 | 61 | 9.8 | /mnt/stockage/packages/f10/xfce4-xkb-plugin/po/fr.po | 
+ | [hu](/f10/language/hu) | 6 | 61 | 9.8 | /mnt/stockage/packages/f10/xfce4-xkb-plugin/po/hu.po | 
+ | [lv](/f10/language/lv) | 6 | 61 | 9.8 | /mnt/stockage/packages/f10/xfce4-xkb-plugin/po/lv.po | 
+ | [pl](/f10/language/pl) | 6 | 61 | 9.8 | /mnt/stockage/packages/f10/xfce4-xkb-plugin/po/pl.po | 
+ | [ru](/f10/language/ru) | 6 | 61 | 9.8 | /mnt/stockage/packages/f10/xfce4-xkb-plugin/po/ru.po | 
+ | [uk](/f10/language/uk) | 6 | 61 | 9.8 | /mnt/stockage/packages/f10/xfce4-xkb-plugin/po/uk.po | 
+ | [ur](/f10/language/ur) | 6 | 61 | 9.8 | /mnt/stockage/packages/f10/xfce4-xkb-plugin/po/ur.po | 
+ | [zh_Hant](/f10/language/zh_Hant) | 6 | 61 | 9.8 | /mnt/stockage/packages/f10/xfce4-xkb-plugin/po/zh_TW.po | 
+ | [ar](/f10/language/ar) | 2 | 61 | 3.3 | /mnt/stockage/packages/f10/xfce4-xkb-plugin/po/ar.po | 
+ | [gl](/f10/language/gl) | 2 | 61 | 3.3 | /mnt/stockage/packages/f10/xfce4-xkb-plugin/po/gl.po | 
 {.sortable}
 
 

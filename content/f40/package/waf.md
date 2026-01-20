@@ -18,7 +18,7 @@ The package waf (version 2.0.27):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [sv]({{< ref "/f40/language/sv.md" >}}) | 15 | 15 | 100.0 | /mnt/stockage/packages/f40/waf/demos/intltool/po/sv.po | 
+ | [sv](/f40/language/sv) | 15 | 15 | 100.0 | /mnt/stockage/packages/f40/waf/demos/intltool/po/sv.po | 
 {.sortable}
 
 

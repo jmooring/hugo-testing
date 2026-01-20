@@ -18,87 +18,87 @@ The package devhelp (version 3.36.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f32/language/ar.md" >}}) | 455 | 455 | 100.0 | /mnt/stockage/packages/f32/devhelp/po/ar.po | 
- | [as]({{< ref "/f32/language/as.md" >}}) | 443 | 443 | 100.0 | /mnt/stockage/packages/f32/devhelp/po/as.po | 
- | [ast]({{< ref "/f32/language/ast.md" >}}) | 456 | 456 | 100.0 | /mnt/stockage/packages/f32/devhelp/po/ast.po | 
- | [be]({{< ref "/f32/language/be.md" >}}) | 386 | 386 | 100.0 | /mnt/stockage/packages/f32/devhelp/po/be.po | 
- | [be_Latn]({{< ref "/f32/language/be_Latn.md" >}}) | 403 | 403 | 100.0 | /mnt/stockage/packages/f32/devhelp/po/be@latin.po | 
- | [bg]({{< ref "/f32/language/bg.md" >}}) | 460 | 460 | 100.0 | /mnt/stockage/packages/f32/devhelp/po/bg.po | 
- | [bn]({{< ref "/f32/language/bn.md" >}}) | 414 | 414 | 100.0 | /mnt/stockage/packages/f32/devhelp/po/bn.po | 
- | [bn_IN]({{< ref "/f32/language/bn_IN.md" >}}) | 360 | 360 | 100.0 | /mnt/stockage/packages/f32/devhelp/po/bn_IN.po | 
- | [bs]({{< ref "/f32/language/bs.md" >}}) | 443 | 443 | 100.0 | /mnt/stockage/packages/f32/devhelp/po/bs.po | 
- | [ca]({{< ref "/f32/language/ca.md" >}}) | 381 | 381 | 100.0 | /mnt/stockage/packages/f32/devhelp/po/ca.po | 
- | [ca@valencia]({{< ref "/f32/language/ca@valencia.md" >}}) | 393 | 393 | 100.0 | /mnt/stockage/packages/f32/devhelp/po/ca@valencia.po | 
- | [cs]({{< ref "/f32/language/cs.md" >}}) | 1111 | 1111 | 100.0 | /mnt/stockage/packages/f32/devhelp/help/cs/cs.po/mnt/stockage/packages/f32/devhelp/po/cs.po | 
- | [da]({{< ref "/f32/language/da.md" >}}) | 381 | 381 | 100.0 | /mnt/stockage/packages/f32/devhelp/po/da.po | 
- | [de]({{< ref "/f32/language/de.md" >}}) | 542 | 542 | 100.0 | /mnt/stockage/packages/f32/devhelp/help/de/de.po/mnt/stockage/packages/f32/devhelp/po/de.po | 
- | [dz]({{< ref "/f32/language/dz.md" >}}) | 273 | 273 | 100.0 | /mnt/stockage/packages/f32/devhelp/po/dz.po | 
- | [el]({{< ref "/f32/language/el.md" >}}) | 386 | 386 | 100.0 | /mnt/stockage/packages/f32/devhelp/po/el.po | 
- | [en_CA]({{< ref "/f32/language/en_CA.md" >}}) | 456 | 456 | 100.0 | /mnt/stockage/packages/f32/devhelp/po/en_CA.po | 
- | [en_GB]({{< ref "/f32/language/en_GB.md" >}}) | 381 | 381 | 100.0 | /mnt/stockage/packages/f32/devhelp/po/en_GB.po | 
- | [eo]({{< ref "/f32/language/eo.md" >}}) | 383 | 383 | 100.0 | /mnt/stockage/packages/f32/devhelp/po/eo.po | 
- | [error]({{< ref "/f32/language/error.md" >}}) | 414 | 414 | 100.0 | /mnt/stockage/packages/f32/devhelp/po/en@shaw.po | 
- | [es]({{< ref "/f32/language/es.md" >}}) | 1111 | 1111 | 100.0 | /mnt/stockage/packages/f32/devhelp/help/es/es.po/mnt/stockage/packages/f32/devhelp/po/es.po | 
- | [et]({{< ref "/f32/language/et.md" >}}) | 415 | 415 | 100.0 | /mnt/stockage/packages/f32/devhelp/po/et.po | 
- | [eu]({{< ref "/f32/language/eu.md" >}}) | 381 | 381 | 100.0 | /mnt/stockage/packages/f32/devhelp/po/eu.po | 
- | [fa]({{< ref "/f32/language/fa.md" >}}) | 381 | 381 | 100.0 | /mnt/stockage/packages/f32/devhelp/po/fa.po | 
- | [fi]({{< ref "/f32/language/fi.md" >}}) | 381 | 381 | 100.0 | /mnt/stockage/packages/f32/devhelp/po/fi.po | 
- | [fr]({{< ref "/f32/language/fr.md" >}}) | 542 | 542 | 100.0 | /mnt/stockage/packages/f32/devhelp/help/fr/fr.po/mnt/stockage/packages/f32/devhelp/po/fr.po | 
- | [fur]({{< ref "/f32/language/fur.md" >}}) | 383 | 383 | 100.0 | /mnt/stockage/packages/f32/devhelp/po/fur.po | 
- | [gl]({{< ref "/f32/language/gl.md" >}}) | 381 | 381 | 100.0 | /mnt/stockage/packages/f32/devhelp/po/gl.po | 
- | [gu]({{< ref "/f32/language/gu.md" >}}) | 309 | 309 | 100.0 | /mnt/stockage/packages/f32/devhelp/po/gu.po | 
- | [he]({{< ref "/f32/language/he.md" >}}) | 481 | 481 | 100.0 | /mnt/stockage/packages/f32/devhelp/po/he.po | 
- | [hi]({{< ref "/f32/language/hi.md" >}}) | 408 | 408 | 100.0 | /mnt/stockage/packages/f32/devhelp/po/hi.po | 
- | [hr]({{< ref "/f32/language/hr.md" >}}) | 542 | 542 | 100.0 | /mnt/stockage/packages/f32/devhelp/help/hr/hr.po/mnt/stockage/packages/f32/devhelp/po/hr.po | 
- | [hu]({{< ref "/f32/language/hu.md" >}}) | 542 | 542 | 100.0 | /mnt/stockage/packages/f32/devhelp/help/hu/hu.po/mnt/stockage/packages/f32/devhelp/po/hu.po | 
- | [hy]({{< ref "/f32/language/hy.md" >}}) | 414 | 414 | 100.0 | /mnt/stockage/packages/f32/devhelp/po/hy.po | 
- | [id]({{< ref "/f32/language/id.md" >}}) | 381 | 381 | 100.0 | /mnt/stockage/packages/f32/devhelp/po/id.po | 
- | [it]({{< ref "/f32/language/it.md" >}}) | 542 | 542 | 100.0 | /mnt/stockage/packages/f32/devhelp/help/it/it.po/mnt/stockage/packages/f32/devhelp/po/it.po | 
- | [km]({{< ref "/f32/language/km.md" >}}) | 455 | 455 | 100.0 | /mnt/stockage/packages/f32/devhelp/po/km.po | 
- | [ko]({{< ref "/f32/language/ko.md" >}}) | 381 | 381 | 100.0 | /mnt/stockage/packages/f32/devhelp/po/ko.po | 
- | [lt]({{< ref "/f32/language/lt.md" >}}) | 381 | 381 | 100.0 | /mnt/stockage/packages/f32/devhelp/po/lt.po | 
- | [lv]({{< ref "/f32/language/lv.md" >}}) | 381 | 381 | 100.0 | /mnt/stockage/packages/f32/devhelp/po/lv.po | 
- | [mk]({{< ref "/f32/language/mk.md" >}}) | 360 | 360 | 100.0 | /mnt/stockage/packages/f32/devhelp/po/mk.po | 
- | [ml]({{< ref "/f32/language/ml.md" >}}) | 415 | 415 | 100.0 | /mnt/stockage/packages/f32/devhelp/po/ml.po | 
- | [ms]({{< ref "/f32/language/ms.md" >}}) | 381 | 381 | 100.0 | /mnt/stockage/packages/f32/devhelp/po/ms.po | 
- | [nb_NO]({{< ref "/f32/language/nb_NO.md" >}}) | 393 | 393 | 100.0 | /mnt/stockage/packages/f32/devhelp/po/nb.po | 
- | [nl]({{< ref "/f32/language/nl.md" >}}) | 381 | 381 | 100.0 | /mnt/stockage/packages/f32/devhelp/po/nl.po | 
- | [nn]({{< ref "/f32/language/nn.md" >}}) | 455 | 455 | 100.0 | /mnt/stockage/packages/f32/devhelp/po/nn.po | 
- | [oc]({{< ref "/f32/language/oc.md" >}}) | 383 | 383 | 100.0 | /mnt/stockage/packages/f32/devhelp/po/oc.po | 
- | [or]({{< ref "/f32/language/or.md" >}}) | 309 | 309 | 100.0 | /mnt/stockage/packages/f32/devhelp/po/or.po | 
- | [pa]({{< ref "/f32/language/pa.md" >}}) | 222 | 222 | 100.0 | /mnt/stockage/packages/f32/devhelp/po/pa.po | 
- | [pl]({{< ref "/f32/language/pl.md" >}}) | 1111 | 1111 | 100.0 | /mnt/stockage/packages/f32/devhelp/help/pl/pl.po/mnt/stockage/packages/f32/devhelp/po/pl.po | 
- | [pt]({{< ref "/f32/language/pt.md" >}}) | 481 | 481 | 100.0 | /mnt/stockage/packages/f32/devhelp/po/pt.po | 
- | [pt_BR]({{< ref "/f32/language/pt_BR.md" >}}) | 1111 | 1111 | 100.0 | /mnt/stockage/packages/f32/devhelp/help/pt_BR/pt_BR.po/mnt/stockage/packages/f32/devhelp/po/pt_BR.po | 
- | [ro]({{< ref "/f32/language/ro.md" >}}) | 381 | 381 | 100.0 | /mnt/stockage/packages/f32/devhelp/po/ro.po | 
- | [ru]({{< ref "/f32/language/ru.md" >}}) | 481 | 481 | 100.0 | /mnt/stockage/packages/f32/devhelp/po/ru.po | 
- | [sk]({{< ref "/f32/language/sk.md" >}}) | 393 | 393 | 100.0 | /mnt/stockage/packages/f32/devhelp/po/sk.po | 
- | [sl]({{< ref "/f32/language/sl.md" >}}) | 381 | 381 | 100.0 | /mnt/stockage/packages/f32/devhelp/po/sl.po | 
- | [sq]({{< ref "/f32/language/sq.md" >}}) | 456 | 456 | 100.0 | /mnt/stockage/packages/f32/devhelp/po/sq.po | 
- | [sr]({{< ref "/f32/language/sr.md" >}}) | 767 | 767 | 100.0 | /mnt/stockage/packages/f32/devhelp/po/sr@latin.po/mnt/stockage/packages/f32/devhelp/po/sr.po | 
- | [sv]({{< ref "/f32/language/sv.md" >}}) | 1111 | 1111 | 100.0 | /mnt/stockage/packages/f32/devhelp/help/sv/sv.po/mnt/stockage/packages/f32/devhelp/po/sv.po | 
- | [te]({{< ref "/f32/language/te.md" >}}) | 455 | 455 | 100.0 | /mnt/stockage/packages/f32/devhelp/po/te.po | 
- | [th]({{< ref "/f32/language/th.md" >}}) | 481 | 481 | 100.0 | /mnt/stockage/packages/f32/devhelp/po/th.po | 
- | [tr]({{< ref "/f32/language/tr.md" >}}) | 381 | 381 | 100.0 | /mnt/stockage/packages/f32/devhelp/po/tr.po | 
- | [ug]({{< ref "/f32/language/ug.md" >}}) | 415 | 415 | 100.0 | /mnt/stockage/packages/f32/devhelp/po/ug.po | 
- | [uk]({{< ref "/f32/language/uk.md" >}}) | 381 | 381 | 100.0 | /mnt/stockage/packages/f32/devhelp/po/uk.po | 
- | [vi]({{< ref "/f32/language/vi.md" >}}) | 393 | 393 | 100.0 | /mnt/stockage/packages/f32/devhelp/po/vi.po | 
- | [zh_Hant]({{< ref "/f32/language/zh_Hant.md" >}}) | 381 | 381 | 100.0 | /mnt/stockage/packages/f32/devhelp/po/zh_TW.po | 
- | [zh_Hant_HK]({{< ref "/f32/language/zh_Hant_HK.md" >}}) | 443 | 443 | 100.0 | /mnt/stockage/packages/f32/devhelp/po/zh_HK.po | 
- | [ta]({{< ref "/f32/language/ta.md" >}}) | 318 | 319 | 99.7 | /mnt/stockage/packages/f32/devhelp/po/ta.po | 
- | [zh_Hans]({{< ref "/f32/language/zh_Hans.md" >}}) | 332 | 386 | 86.0 | /mnt/stockage/packages/f32/devhelp/po/zh_CN.po | 
- | [is]({{< ref "/f32/language/is.md" >}}) | 184 | 222 | 82.9 | /mnt/stockage/packages/f32/devhelp/po/is.po | 
- | [si]({{< ref "/f32/language/si.md" >}}) | 354 | 455 | 77.8 | /mnt/stockage/packages/f32/devhelp/po/si.po | 
- | [ja]({{< ref "/f32/language/ja.md" >}}) | 284 | 381 | 74.5 | /mnt/stockage/packages/f32/devhelp/po/ja.po | 
- | [ps]({{< ref "/f32/language/ps.md" >}}) | 242 | 364 | 66.5 | /mnt/stockage/packages/f32/devhelp/po/ps.po | 
- | [kk]({{< ref "/f32/language/kk.md" >}}) | 218 | 383 | 56.9 | /mnt/stockage/packages/f32/devhelp/po/kk.po | 
- | [az]({{< ref "/f32/language/az.md" >}}) | 111 | 209 | 53.1 | /mnt/stockage/packages/f32/devhelp/po/az.po | 
- | [ne]({{< ref "/f32/language/ne.md" >}}) | 203 | 393 | 51.7 | /mnt/stockage/packages/f32/devhelp/po/ne.po | 
- | [mai]({{< ref "/f32/language/mai.md" >}}) | 115 | 404 | 28.5 | /mnt/stockage/packages/f32/devhelp/po/mai.po | 
- | [tg]({{< ref "/f32/language/tg.md" >}}) | 41 | 415 | 9.9 | /mnt/stockage/packages/f32/devhelp/po/tg.po | 
- | [am]({{< ref "/f32/language/am.md" >}}) | 6 | 209 | 2.9 | /mnt/stockage/packages/f32/devhelp/po/am.po | 
- | [kn]({{< ref "/f32/language/kn.md" >}}) | 5 | 209 | 2.4 | /mnt/stockage/packages/f32/devhelp/po/kn.po | 
- | [rw]({{< ref "/f32/language/rw.md" >}}) | 4 | 217 | 1.8 | /mnt/stockage/packages/f32/devhelp/po/rw.po | 
+ | [ar](/f32/language/ar) | 455 | 455 | 100.0 | /mnt/stockage/packages/f32/devhelp/po/ar.po | 
+ | [as](/f32/language/as) | 443 | 443 | 100.0 | /mnt/stockage/packages/f32/devhelp/po/as.po | 
+ | [ast](/f32/language/ast) | 456 | 456 | 100.0 | /mnt/stockage/packages/f32/devhelp/po/ast.po | 
+ | [be](/f32/language/be) | 386 | 386 | 100.0 | /mnt/stockage/packages/f32/devhelp/po/be.po | 
+ | [be_Latn](/f32/language/be_Latn) | 403 | 403 | 100.0 | /mnt/stockage/packages/f32/devhelp/po/be@latin.po | 
+ | [bg](/f32/language/bg) | 460 | 460 | 100.0 | /mnt/stockage/packages/f32/devhelp/po/bg.po | 
+ | [bn](/f32/language/bn) | 414 | 414 | 100.0 | /mnt/stockage/packages/f32/devhelp/po/bn.po | 
+ | [bn_IN](/f32/language/bn_IN) | 360 | 360 | 100.0 | /mnt/stockage/packages/f32/devhelp/po/bn_IN.po | 
+ | [bs](/f32/language/bs) | 443 | 443 | 100.0 | /mnt/stockage/packages/f32/devhelp/po/bs.po | 
+ | [ca](/f32/language/ca) | 381 | 381 | 100.0 | /mnt/stockage/packages/f32/devhelp/po/ca.po | 
+ | [ca@valencia](/f32/language/ca@valencia) | 393 | 393 | 100.0 | /mnt/stockage/packages/f32/devhelp/po/ca@valencia.po | 
+ | [cs](/f32/language/cs) | 1111 | 1111 | 100.0 | /mnt/stockage/packages/f32/devhelp/help/cs/cs.po/mnt/stockage/packages/f32/devhelp/po/cs.po | 
+ | [da](/f32/language/da) | 381 | 381 | 100.0 | /mnt/stockage/packages/f32/devhelp/po/da.po | 
+ | [de](/f32/language/de) | 542 | 542 | 100.0 | /mnt/stockage/packages/f32/devhelp/help/de/de.po/mnt/stockage/packages/f32/devhelp/po/de.po | 
+ | [dz](/f32/language/dz) | 273 | 273 | 100.0 | /mnt/stockage/packages/f32/devhelp/po/dz.po | 
+ | [el](/f32/language/el) | 386 | 386 | 100.0 | /mnt/stockage/packages/f32/devhelp/po/el.po | 
+ | [en_CA](/f32/language/en_CA) | 456 | 456 | 100.0 | /mnt/stockage/packages/f32/devhelp/po/en_CA.po | 
+ | [en_GB](/f32/language/en_GB) | 381 | 381 | 100.0 | /mnt/stockage/packages/f32/devhelp/po/en_GB.po | 
+ | [eo](/f32/language/eo) | 383 | 383 | 100.0 | /mnt/stockage/packages/f32/devhelp/po/eo.po | 
+ | [error](/f32/language/error) | 414 | 414 | 100.0 | /mnt/stockage/packages/f32/devhelp/po/en@shaw.po | 
+ | [es](/f32/language/es) | 1111 | 1111 | 100.0 | /mnt/stockage/packages/f32/devhelp/help/es/es.po/mnt/stockage/packages/f32/devhelp/po/es.po | 
+ | [et](/f32/language/et) | 415 | 415 | 100.0 | /mnt/stockage/packages/f32/devhelp/po/et.po | 
+ | [eu](/f32/language/eu) | 381 | 381 | 100.0 | /mnt/stockage/packages/f32/devhelp/po/eu.po | 
+ | [fa](/f32/language/fa) | 381 | 381 | 100.0 | /mnt/stockage/packages/f32/devhelp/po/fa.po | 
+ | [fi](/f32/language/fi) | 381 | 381 | 100.0 | /mnt/stockage/packages/f32/devhelp/po/fi.po | 
+ | [fr](/f32/language/fr) | 542 | 542 | 100.0 | /mnt/stockage/packages/f32/devhelp/help/fr/fr.po/mnt/stockage/packages/f32/devhelp/po/fr.po | 
+ | [fur](/f32/language/fur) | 383 | 383 | 100.0 | /mnt/stockage/packages/f32/devhelp/po/fur.po | 
+ | [gl](/f32/language/gl) | 381 | 381 | 100.0 | /mnt/stockage/packages/f32/devhelp/po/gl.po | 
+ | [gu](/f32/language/gu) | 309 | 309 | 100.0 | /mnt/stockage/packages/f32/devhelp/po/gu.po | 
+ | [he](/f32/language/he) | 481 | 481 | 100.0 | /mnt/stockage/packages/f32/devhelp/po/he.po | 
+ | [hi](/f32/language/hi) | 408 | 408 | 100.0 | /mnt/stockage/packages/f32/devhelp/po/hi.po | 
+ | [hr](/f32/language/hr) | 542 | 542 | 100.0 | /mnt/stockage/packages/f32/devhelp/help/hr/hr.po/mnt/stockage/packages/f32/devhelp/po/hr.po | 
+ | [hu](/f32/language/hu) | 542 | 542 | 100.0 | /mnt/stockage/packages/f32/devhelp/help/hu/hu.po/mnt/stockage/packages/f32/devhelp/po/hu.po | 
+ | [hy](/f32/language/hy) | 414 | 414 | 100.0 | /mnt/stockage/packages/f32/devhelp/po/hy.po | 
+ | [id](/f32/language/id) | 381 | 381 | 100.0 | /mnt/stockage/packages/f32/devhelp/po/id.po | 
+ | [it](/f32/language/it) | 542 | 542 | 100.0 | /mnt/stockage/packages/f32/devhelp/help/it/it.po/mnt/stockage/packages/f32/devhelp/po/it.po | 
+ | [km](/f32/language/km) | 455 | 455 | 100.0 | /mnt/stockage/packages/f32/devhelp/po/km.po | 
+ | [ko](/f32/language/ko) | 381 | 381 | 100.0 | /mnt/stockage/packages/f32/devhelp/po/ko.po | 
+ | [lt](/f32/language/lt) | 381 | 381 | 100.0 | /mnt/stockage/packages/f32/devhelp/po/lt.po | 
+ | [lv](/f32/language/lv) | 381 | 381 | 100.0 | /mnt/stockage/packages/f32/devhelp/po/lv.po | 
+ | [mk](/f32/language/mk) | 360 | 360 | 100.0 | /mnt/stockage/packages/f32/devhelp/po/mk.po | 
+ | [ml](/f32/language/ml) | 415 | 415 | 100.0 | /mnt/stockage/packages/f32/devhelp/po/ml.po | 
+ | [ms](/f32/language/ms) | 381 | 381 | 100.0 | /mnt/stockage/packages/f32/devhelp/po/ms.po | 
+ | [nb_NO](/f32/language/nb_NO) | 393 | 393 | 100.0 | /mnt/stockage/packages/f32/devhelp/po/nb.po | 
+ | [nl](/f32/language/nl) | 381 | 381 | 100.0 | /mnt/stockage/packages/f32/devhelp/po/nl.po | 
+ | [nn](/f32/language/nn) | 455 | 455 | 100.0 | /mnt/stockage/packages/f32/devhelp/po/nn.po | 
+ | [oc](/f32/language/oc) | 383 | 383 | 100.0 | /mnt/stockage/packages/f32/devhelp/po/oc.po | 
+ | [or](/f32/language/or) | 309 | 309 | 100.0 | /mnt/stockage/packages/f32/devhelp/po/or.po | 
+ | [pa](/f32/language/pa) | 222 | 222 | 100.0 | /mnt/stockage/packages/f32/devhelp/po/pa.po | 
+ | [pl](/f32/language/pl) | 1111 | 1111 | 100.0 | /mnt/stockage/packages/f32/devhelp/help/pl/pl.po/mnt/stockage/packages/f32/devhelp/po/pl.po | 
+ | [pt](/f32/language/pt) | 481 | 481 | 100.0 | /mnt/stockage/packages/f32/devhelp/po/pt.po | 
+ | [pt_BR](/f32/language/pt_BR) | 1111 | 1111 | 100.0 | /mnt/stockage/packages/f32/devhelp/help/pt_BR/pt_BR.po/mnt/stockage/packages/f32/devhelp/po/pt_BR.po | 
+ | [ro](/f32/language/ro) | 381 | 381 | 100.0 | /mnt/stockage/packages/f32/devhelp/po/ro.po | 
+ | [ru](/f32/language/ru) | 481 | 481 | 100.0 | /mnt/stockage/packages/f32/devhelp/po/ru.po | 
+ | [sk](/f32/language/sk) | 393 | 393 | 100.0 | /mnt/stockage/packages/f32/devhelp/po/sk.po | 
+ | [sl](/f32/language/sl) | 381 | 381 | 100.0 | /mnt/stockage/packages/f32/devhelp/po/sl.po | 
+ | [sq](/f32/language/sq) | 456 | 456 | 100.0 | /mnt/stockage/packages/f32/devhelp/po/sq.po | 
+ | [sr](/f32/language/sr) | 767 | 767 | 100.0 | /mnt/stockage/packages/f32/devhelp/po/sr@latin.po/mnt/stockage/packages/f32/devhelp/po/sr.po | 
+ | [sv](/f32/language/sv) | 1111 | 1111 | 100.0 | /mnt/stockage/packages/f32/devhelp/help/sv/sv.po/mnt/stockage/packages/f32/devhelp/po/sv.po | 
+ | [te](/f32/language/te) | 455 | 455 | 100.0 | /mnt/stockage/packages/f32/devhelp/po/te.po | 
+ | [th](/f32/language/th) | 481 | 481 | 100.0 | /mnt/stockage/packages/f32/devhelp/po/th.po | 
+ | [tr](/f32/language/tr) | 381 | 381 | 100.0 | /mnt/stockage/packages/f32/devhelp/po/tr.po | 
+ | [ug](/f32/language/ug) | 415 | 415 | 100.0 | /mnt/stockage/packages/f32/devhelp/po/ug.po | 
+ | [uk](/f32/language/uk) | 381 | 381 | 100.0 | /mnt/stockage/packages/f32/devhelp/po/uk.po | 
+ | [vi](/f32/language/vi) | 393 | 393 | 100.0 | /mnt/stockage/packages/f32/devhelp/po/vi.po | 
+ | [zh_Hant](/f32/language/zh_Hant) | 381 | 381 | 100.0 | /mnt/stockage/packages/f32/devhelp/po/zh_TW.po | 
+ | [zh_Hant_HK](/f32/language/zh_Hant_HK) | 443 | 443 | 100.0 | /mnt/stockage/packages/f32/devhelp/po/zh_HK.po | 
+ | [ta](/f32/language/ta) | 318 | 319 | 99.7 | /mnt/stockage/packages/f32/devhelp/po/ta.po | 
+ | [zh_Hans](/f32/language/zh_Hans) | 332 | 386 | 86.0 | /mnt/stockage/packages/f32/devhelp/po/zh_CN.po | 
+ | [is](/f32/language/is) | 184 | 222 | 82.9 | /mnt/stockage/packages/f32/devhelp/po/is.po | 
+ | [si](/f32/language/si) | 354 | 455 | 77.8 | /mnt/stockage/packages/f32/devhelp/po/si.po | 
+ | [ja](/f32/language/ja) | 284 | 381 | 74.5 | /mnt/stockage/packages/f32/devhelp/po/ja.po | 
+ | [ps](/f32/language/ps) | 242 | 364 | 66.5 | /mnt/stockage/packages/f32/devhelp/po/ps.po | 
+ | [kk](/f32/language/kk) | 218 | 383 | 56.9 | /mnt/stockage/packages/f32/devhelp/po/kk.po | 
+ | [az](/f32/language/az) | 111 | 209 | 53.1 | /mnt/stockage/packages/f32/devhelp/po/az.po | 
+ | [ne](/f32/language/ne) | 203 | 393 | 51.7 | /mnt/stockage/packages/f32/devhelp/po/ne.po | 
+ | [mai](/f32/language/mai) | 115 | 404 | 28.5 | /mnt/stockage/packages/f32/devhelp/po/mai.po | 
+ | [tg](/f32/language/tg) | 41 | 415 | 9.9 | /mnt/stockage/packages/f32/devhelp/po/tg.po | 
+ | [am](/f32/language/am) | 6 | 209 | 2.9 | /mnt/stockage/packages/f32/devhelp/po/am.po | 
+ | [kn](/f32/language/kn) | 5 | 209 | 2.4 | /mnt/stockage/packages/f32/devhelp/po/kn.po | 
+ | [rw](/f32/language/rw) | 4 | 217 | 1.8 | /mnt/stockage/packages/f32/devhelp/po/rw.po | 
 {.sortable}
 
 

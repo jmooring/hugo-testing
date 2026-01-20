@@ -18,31 +18,31 @@ The package xfce4-mailwatch-plugin (version 1.1.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f12/language/cs.md" >}}) | 659 | 659 | 100.0 | /mnt/stockage/packages/f12/xfce4-mailwatch-plugin/po/cs.po | 
- | [el]({{< ref "/f12/language/el.md" >}}) | 659 | 659 | 100.0 | /mnt/stockage/packages/f12/xfce4-mailwatch-plugin/po/el.po | 
- | [eu]({{< ref "/f12/language/eu.md" >}}) | 659 | 659 | 100.0 | /mnt/stockage/packages/f12/xfce4-mailwatch-plugin/po/eu.po | 
- | [fi]({{< ref "/f12/language/fi.md" >}}) | 659 | 659 | 100.0 | /mnt/stockage/packages/f12/xfce4-mailwatch-plugin/po/fi.po | 
- | [fr]({{< ref "/f12/language/fr.md" >}}) | 659 | 659 | 100.0 | /mnt/stockage/packages/f12/xfce4-mailwatch-plugin/po/fr.po | 
- | [id]({{< ref "/f12/language/id.md" >}}) | 659 | 659 | 100.0 | /mnt/stockage/packages/f12/xfce4-mailwatch-plugin/po/id.po | 
- | [pt_BR]({{< ref "/f12/language/pt_BR.md" >}}) | 659 | 659 | 100.0 | /mnt/stockage/packages/f12/xfce4-mailwatch-plugin/po/pt_BR.po | 
- | [pt_PT]({{< ref "/f12/language/pt_PT.md" >}}) | 659 | 659 | 100.0 | /mnt/stockage/packages/f12/xfce4-mailwatch-plugin/po/pt_PT.po | 
- | [hu]({{< ref "/f12/language/hu.md" >}}) | 598 | 659 | 90.7 | /mnt/stockage/packages/f12/xfce4-mailwatch-plugin/po/hu.po | 
- | [de]({{< ref "/f12/language/de.md" >}}) | 582 | 659 | 88.3 | /mnt/stockage/packages/f12/xfce4-mailwatch-plugin/po/de.po | 
- | [nb_NO]({{< ref "/f12/language/nb_NO.md" >}}) | 582 | 659 | 88.3 | /mnt/stockage/packages/f12/xfce4-mailwatch-plugin/po/nb_NO.po | 
- | [uk]({{< ref "/f12/language/uk.md" >}}) | 582 | 659 | 88.3 | /mnt/stockage/packages/f12/xfce4-mailwatch-plugin/po/uk.po | 
- | [ca]({{< ref "/f12/language/ca.md" >}}) | 572 | 659 | 86.8 | /mnt/stockage/packages/f12/xfce4-mailwatch-plugin/po/ca.po | 
- | [en_GB]({{< ref "/f12/language/en_GB.md" >}}) | 572 | 659 | 86.8 | /mnt/stockage/packages/f12/xfce4-mailwatch-plugin/po/en_GB.po | 
- | [he]({{< ref "/f12/language/he.md" >}}) | 534 | 659 | 81.0 | /mnt/stockage/packages/f12/xfce4-mailwatch-plugin/po/he.po | 
- | [it]({{< ref "/f12/language/it.md" >}}) | 534 | 659 | 81.0 | /mnt/stockage/packages/f12/xfce4-mailwatch-plugin/po/it.po | 
- | [ja]({{< ref "/f12/language/ja.md" >}}) | 534 | 659 | 81.0 | /mnt/stockage/packages/f12/xfce4-mailwatch-plugin/po/ja.po | 
- | [vi]({{< ref "/f12/language/vi.md" >}}) | 534 | 659 | 81.0 | /mnt/stockage/packages/f12/xfce4-mailwatch-plugin/po/vi.po | 
- | [zh_Hans]({{< ref "/f12/language/zh_Hans.md" >}}) | 534 | 659 | 81.0 | /mnt/stockage/packages/f12/xfce4-mailwatch-plugin/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f12/language/zh_Hant.md" >}}) | 534 | 659 | 81.0 | /mnt/stockage/packages/f12/xfce4-mailwatch-plugin/po/zh_TW.po | 
- | [sq]({{< ref "/f12/language/sq.md" >}}) | 504 | 659 | 76.5 | /mnt/stockage/packages/f12/xfce4-mailwatch-plugin/po/sq.po | 
- | [gu]({{< ref "/f12/language/gu.md" >}}) | 442 | 659 | 67.1 | /mnt/stockage/packages/f12/xfce4-mailwatch-plugin/po/gu.po | 
- | [ru]({{< ref "/f12/language/ru.md" >}}) | 215 | 659 | 32.6 | /mnt/stockage/packages/f12/xfce4-mailwatch-plugin/po/ru.po | 
- | [gl]({{< ref "/f12/language/gl.md" >}}) | 43 | 659 | 6.5 | /mnt/stockage/packages/f12/xfce4-mailwatch-plugin/po/gl.po | 
- | [ar]({{< ref "/f12/language/ar.md" >}}) | 0 | 659 | 0.0 | /mnt/stockage/packages/f12/xfce4-mailwatch-plugin/po/ar.po | 
+ | [cs](/f12/language/cs) | 659 | 659 | 100.0 | /mnt/stockage/packages/f12/xfce4-mailwatch-plugin/po/cs.po | 
+ | [el](/f12/language/el) | 659 | 659 | 100.0 | /mnt/stockage/packages/f12/xfce4-mailwatch-plugin/po/el.po | 
+ | [eu](/f12/language/eu) | 659 | 659 | 100.0 | /mnt/stockage/packages/f12/xfce4-mailwatch-plugin/po/eu.po | 
+ | [fi](/f12/language/fi) | 659 | 659 | 100.0 | /mnt/stockage/packages/f12/xfce4-mailwatch-plugin/po/fi.po | 
+ | [fr](/f12/language/fr) | 659 | 659 | 100.0 | /mnt/stockage/packages/f12/xfce4-mailwatch-plugin/po/fr.po | 
+ | [id](/f12/language/id) | 659 | 659 | 100.0 | /mnt/stockage/packages/f12/xfce4-mailwatch-plugin/po/id.po | 
+ | [pt_BR](/f12/language/pt_BR) | 659 | 659 | 100.0 | /mnt/stockage/packages/f12/xfce4-mailwatch-plugin/po/pt_BR.po | 
+ | [pt_PT](/f12/language/pt_PT) | 659 | 659 | 100.0 | /mnt/stockage/packages/f12/xfce4-mailwatch-plugin/po/pt_PT.po | 
+ | [hu](/f12/language/hu) | 598 | 659 | 90.7 | /mnt/stockage/packages/f12/xfce4-mailwatch-plugin/po/hu.po | 
+ | [de](/f12/language/de) | 582 | 659 | 88.3 | /mnt/stockage/packages/f12/xfce4-mailwatch-plugin/po/de.po | 
+ | [nb_NO](/f12/language/nb_NO) | 582 | 659 | 88.3 | /mnt/stockage/packages/f12/xfce4-mailwatch-plugin/po/nb_NO.po | 
+ | [uk](/f12/language/uk) | 582 | 659 | 88.3 | /mnt/stockage/packages/f12/xfce4-mailwatch-plugin/po/uk.po | 
+ | [ca](/f12/language/ca) | 572 | 659 | 86.8 | /mnt/stockage/packages/f12/xfce4-mailwatch-plugin/po/ca.po | 
+ | [en_GB](/f12/language/en_GB) | 572 | 659 | 86.8 | /mnt/stockage/packages/f12/xfce4-mailwatch-plugin/po/en_GB.po | 
+ | [he](/f12/language/he) | 534 | 659 | 81.0 | /mnt/stockage/packages/f12/xfce4-mailwatch-plugin/po/he.po | 
+ | [it](/f12/language/it) | 534 | 659 | 81.0 | /mnt/stockage/packages/f12/xfce4-mailwatch-plugin/po/it.po | 
+ | [ja](/f12/language/ja) | 534 | 659 | 81.0 | /mnt/stockage/packages/f12/xfce4-mailwatch-plugin/po/ja.po | 
+ | [vi](/f12/language/vi) | 534 | 659 | 81.0 | /mnt/stockage/packages/f12/xfce4-mailwatch-plugin/po/vi.po | 
+ | [zh_Hans](/f12/language/zh_Hans) | 534 | 659 | 81.0 | /mnt/stockage/packages/f12/xfce4-mailwatch-plugin/po/zh_CN.po | 
+ | [zh_Hant](/f12/language/zh_Hant) | 534 | 659 | 81.0 | /mnt/stockage/packages/f12/xfce4-mailwatch-plugin/po/zh_TW.po | 
+ | [sq](/f12/language/sq) | 504 | 659 | 76.5 | /mnt/stockage/packages/f12/xfce4-mailwatch-plugin/po/sq.po | 
+ | [gu](/f12/language/gu) | 442 | 659 | 67.1 | /mnt/stockage/packages/f12/xfce4-mailwatch-plugin/po/gu.po | 
+ | [ru](/f12/language/ru) | 215 | 659 | 32.6 | /mnt/stockage/packages/f12/xfce4-mailwatch-plugin/po/ru.po | 
+ | [gl](/f12/language/gl) | 43 | 659 | 6.5 | /mnt/stockage/packages/f12/xfce4-mailwatch-plugin/po/gl.po | 
+ | [ar](/f12/language/ar) | 0 | 659 | 0.0 | /mnt/stockage/packages/f12/xfce4-mailwatch-plugin/po/ar.po | 
 {.sortable}
 
 

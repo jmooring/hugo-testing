@@ -18,31 +18,31 @@ The package pidgin-guifications (version 2.14):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f9/language/fr.md" >}}) | 505 | 505 | 100.0 | /mnt/stockage/packages/f9/pidgin-guifications/po/fr.po | 
- | [gl]({{< ref "/f9/language/gl.md" >}}) | 505 | 505 | 100.0 | /mnt/stockage/packages/f9/pidgin-guifications/po/gl.po | 
- | [zh_Hant]({{< ref "/f9/language/zh_Hant.md" >}}) | 505 | 505 | 100.0 | /mnt/stockage/packages/f9/pidgin-guifications/po/zh_TW.po | 
- | [ru]({{< ref "/f9/language/ru.md" >}}) | 498 | 505 | 98.6 | /mnt/stockage/packages/f9/pidgin-guifications/po/ru.po | 
- | [error]({{< ref "/f9/language/error.md" >}}) | 466 | 505 | 92.3 | /mnt/stockage/packages/f9/pidgin-guifications/po/sr@Latn.po | 
- | [it]({{< ref "/f9/language/it.md" >}}) | 466 | 505 | 92.3 | /mnt/stockage/packages/f9/pidgin-guifications/po/it.po | 
- | [sr]({{< ref "/f9/language/sr.md" >}}) | 466 | 505 | 92.3 | /mnt/stockage/packages/f9/pidgin-guifications/po/sr.po | 
- | [zh_Hans]({{< ref "/f9/language/zh_Hans.md" >}}) | 459 | 505 | 90.9 | /mnt/stockage/packages/f9/pidgin-guifications/po/zh_CN.po | 
- | [bn]({{< ref "/f9/language/bn.md" >}}) | 443 | 505 | 87.7 | /mnt/stockage/packages/f9/pidgin-guifications/po/bn.po | 
- | [de]({{< ref "/f9/language/de.md" >}}) | 442 | 505 | 87.5 | /mnt/stockage/packages/f9/pidgin-guifications/po/de.po | 
- | [en_AU]({{< ref "/f9/language/en_AU.md" >}}) | 442 | 505 | 87.5 | /mnt/stockage/packages/f9/pidgin-guifications/po/en_AU.po | 
- | [en_GB]({{< ref "/f9/language/en_GB.md" >}}) | 442 | 505 | 87.5 | /mnt/stockage/packages/f9/pidgin-guifications/po/en_GB.po | 
- | [ja]({{< ref "/f9/language/ja.md" >}}) | 442 | 505 | 87.5 | /mnt/stockage/packages/f9/pidgin-guifications/po/ja.po | 
- | [nl]({{< ref "/f9/language/nl.md" >}}) | 442 | 505 | 87.5 | /mnt/stockage/packages/f9/pidgin-guifications/po/nl.po | 
- | [sv]({{< ref "/f9/language/sv.md" >}}) | 442 | 505 | 87.5 | /mnt/stockage/packages/f9/pidgin-guifications/po/sv.po | 
- | [pt_BR]({{< ref "/f9/language/pt_BR.md" >}}) | 435 | 505 | 86.1 | /mnt/stockage/packages/f9/pidgin-guifications/po/pt_BR.po | 
- | [uk]({{< ref "/f9/language/uk.md" >}}) | 433 | 505 | 85.7 | /mnt/stockage/packages/f9/pidgin-guifications/po/uk.po | 
- | [hu]({{< ref "/f9/language/hu.md" >}}) | 425 | 505 | 84.2 | /mnt/stockage/packages/f9/pidgin-guifications/po/hu.po | 
- | [pt]({{< ref "/f9/language/pt.md" >}}) | 415 | 505 | 82.2 | /mnt/stockage/packages/f9/pidgin-guifications/po/pt.po | 
- | [sk]({{< ref "/f9/language/sk.md" >}}) | 415 | 505 | 82.2 | /mnt/stockage/packages/f9/pidgin-guifications/po/sk.po | 
- | [mk]({{< ref "/f9/language/mk.md" >}}) | 414 | 505 | 82.0 | /mnt/stockage/packages/f9/pidgin-guifications/po/mk.po | 
- | [cs]({{< ref "/f9/language/cs.md" >}}) | 407 | 505 | 80.6 | /mnt/stockage/packages/f9/pidgin-guifications/po/cs.po | 
- | [es]({{< ref "/f9/language/es.md" >}}) | 389 | 505 | 77.0 | /mnt/stockage/packages/f9/pidgin-guifications/po/es.po | 
- | [he]({{< ref "/f9/language/he.md" >}}) | 223 | 505 | 44.2 | /mnt/stockage/packages/f9/pidgin-guifications/po/he.po | 
- | [nb_NO]({{< ref "/f9/language/nb_NO.md" >}}) | 148 | 505 | 29.3 | /mnt/stockage/packages/f9/pidgin-guifications/po/no.po | 
+ | [fr](/f9/language/fr) | 505 | 505 | 100.0 | /mnt/stockage/packages/f9/pidgin-guifications/po/fr.po | 
+ | [gl](/f9/language/gl) | 505 | 505 | 100.0 | /mnt/stockage/packages/f9/pidgin-guifications/po/gl.po | 
+ | [zh_Hant](/f9/language/zh_Hant) | 505 | 505 | 100.0 | /mnt/stockage/packages/f9/pidgin-guifications/po/zh_TW.po | 
+ | [ru](/f9/language/ru) | 498 | 505 | 98.6 | /mnt/stockage/packages/f9/pidgin-guifications/po/ru.po | 
+ | [error](/f9/language/error) | 466 | 505 | 92.3 | /mnt/stockage/packages/f9/pidgin-guifications/po/sr@Latn.po | 
+ | [it](/f9/language/it) | 466 | 505 | 92.3 | /mnt/stockage/packages/f9/pidgin-guifications/po/it.po | 
+ | [sr](/f9/language/sr) | 466 | 505 | 92.3 | /mnt/stockage/packages/f9/pidgin-guifications/po/sr.po | 
+ | [zh_Hans](/f9/language/zh_Hans) | 459 | 505 | 90.9 | /mnt/stockage/packages/f9/pidgin-guifications/po/zh_CN.po | 
+ | [bn](/f9/language/bn) | 443 | 505 | 87.7 | /mnt/stockage/packages/f9/pidgin-guifications/po/bn.po | 
+ | [de](/f9/language/de) | 442 | 505 | 87.5 | /mnt/stockage/packages/f9/pidgin-guifications/po/de.po | 
+ | [en_AU](/f9/language/en_AU) | 442 | 505 | 87.5 | /mnt/stockage/packages/f9/pidgin-guifications/po/en_AU.po | 
+ | [en_GB](/f9/language/en_GB) | 442 | 505 | 87.5 | /mnt/stockage/packages/f9/pidgin-guifications/po/en_GB.po | 
+ | [ja](/f9/language/ja) | 442 | 505 | 87.5 | /mnt/stockage/packages/f9/pidgin-guifications/po/ja.po | 
+ | [nl](/f9/language/nl) | 442 | 505 | 87.5 | /mnt/stockage/packages/f9/pidgin-guifications/po/nl.po | 
+ | [sv](/f9/language/sv) | 442 | 505 | 87.5 | /mnt/stockage/packages/f9/pidgin-guifications/po/sv.po | 
+ | [pt_BR](/f9/language/pt_BR) | 435 | 505 | 86.1 | /mnt/stockage/packages/f9/pidgin-guifications/po/pt_BR.po | 
+ | [uk](/f9/language/uk) | 433 | 505 | 85.7 | /mnt/stockage/packages/f9/pidgin-guifications/po/uk.po | 
+ | [hu](/f9/language/hu) | 425 | 505 | 84.2 | /mnt/stockage/packages/f9/pidgin-guifications/po/hu.po | 
+ | [pt](/f9/language/pt) | 415 | 505 | 82.2 | /mnt/stockage/packages/f9/pidgin-guifications/po/pt.po | 
+ | [sk](/f9/language/sk) | 415 | 505 | 82.2 | /mnt/stockage/packages/f9/pidgin-guifications/po/sk.po | 
+ | [mk](/f9/language/mk) | 414 | 505 | 82.0 | /mnt/stockage/packages/f9/pidgin-guifications/po/mk.po | 
+ | [cs](/f9/language/cs) | 407 | 505 | 80.6 | /mnt/stockage/packages/f9/pidgin-guifications/po/cs.po | 
+ | [es](/f9/language/es) | 389 | 505 | 77.0 | /mnt/stockage/packages/f9/pidgin-guifications/po/es.po | 
+ | [he](/f9/language/he) | 223 | 505 | 44.2 | /mnt/stockage/packages/f9/pidgin-guifications/po/he.po | 
+ | [nb_NO](/f9/language/nb_NO) | 148 | 505 | 29.3 | /mnt/stockage/packages/f9/pidgin-guifications/po/no.po | 
 {.sortable}
 
 

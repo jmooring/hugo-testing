@@ -18,12 +18,12 @@ The package thunar-volman (version 0.1.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f8/language/de.md" >}}) | 370 | 370 | 100.0 | /mnt/stockage/packages/f8/thunar-volman/po/de.po | 
- | [fi]({{< ref "/f8/language/fi.md" >}}) | 370 | 370 | 100.0 | /mnt/stockage/packages/f8/thunar-volman/po/fi.po | 
- | [fr]({{< ref "/f8/language/fr.md" >}}) | 370 | 370 | 100.0 | /mnt/stockage/packages/f8/thunar-volman/po/fr.po | 
- | [pl]({{< ref "/f8/language/pl.md" >}}) | 370 | 370 | 100.0 | /mnt/stockage/packages/f8/thunar-volman/po/pl.po | 
- | [zh_Hant]({{< ref "/f8/language/zh_Hant.md" >}}) | 370 | 370 | 100.0 | /mnt/stockage/packages/f8/thunar-volman/po/zh_TW.po | 
- | [hu]({{< ref "/f8/language/hu.md" >}}) | 329 | 370 | 88.9 | /mnt/stockage/packages/f8/thunar-volman/po/hu.po | 
+ | [de](/f8/language/de) | 370 | 370 | 100.0 | /mnt/stockage/packages/f8/thunar-volman/po/de.po | 
+ | [fi](/f8/language/fi) | 370 | 370 | 100.0 | /mnt/stockage/packages/f8/thunar-volman/po/fi.po | 
+ | [fr](/f8/language/fr) | 370 | 370 | 100.0 | /mnt/stockage/packages/f8/thunar-volman/po/fr.po | 
+ | [pl](/f8/language/pl) | 370 | 370 | 100.0 | /mnt/stockage/packages/f8/thunar-volman/po/pl.po | 
+ | [zh_Hant](/f8/language/zh_Hant) | 370 | 370 | 100.0 | /mnt/stockage/packages/f8/thunar-volman/po/zh_TW.po | 
+ | [hu](/f8/language/hu) | 329 | 370 | 88.9 | /mnt/stockage/packages/f8/thunar-volman/po/hu.po | 
 {.sortable}
 
 

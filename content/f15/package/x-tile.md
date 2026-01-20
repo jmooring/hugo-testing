@@ -18,14 +18,14 @@ The package x-tile (version 2.2.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f15/language/cs.md" >}}) | 729 | 729 | 100.0 | /mnt/stockage/packages/f15/x-tile/locale/cs.po | 
- | [de]({{< ref "/f15/language/de.md" >}}) | 729 | 729 | 100.0 | /mnt/stockage/packages/f15/x-tile/locale/de.po | 
- | [es_AR]({{< ref "/f15/language/es_AR.md" >}}) | 729 | 729 | 100.0 | /mnt/stockage/packages/f15/x-tile/locale/es_AR.po | 
- | [fr]({{< ref "/f15/language/fr.md" >}}) | 729 | 729 | 100.0 | /mnt/stockage/packages/f15/x-tile/locale/fr.po | 
- | [it]({{< ref "/f15/language/it.md" >}}) | 729 | 729 | 100.0 | /mnt/stockage/packages/f15/x-tile/locale/it.po | 
- | [ru]({{< ref "/f15/language/ru.md" >}}) | 729 | 729 | 100.0 | /mnt/stockage/packages/f15/x-tile/locale/ru.po | 
- | [zh_Hant]({{< ref "/f15/language/zh_Hant.md" >}}) | 729 | 729 | 100.0 | /mnt/stockage/packages/f15/x-tile/locale/zh_TW.po | 
- | [zh_Hans]({{< ref "/f15/language/zh_Hans.md" >}}) | 722 | 729 | 99.0 | /mnt/stockage/packages/f15/x-tile/locale/zh_CN.po | 
+ | [cs](/f15/language/cs) | 729 | 729 | 100.0 | /mnt/stockage/packages/f15/x-tile/locale/cs.po | 
+ | [de](/f15/language/de) | 729 | 729 | 100.0 | /mnt/stockage/packages/f15/x-tile/locale/de.po | 
+ | [es_AR](/f15/language/es_AR) | 729 | 729 | 100.0 | /mnt/stockage/packages/f15/x-tile/locale/es_AR.po | 
+ | [fr](/f15/language/fr) | 729 | 729 | 100.0 | /mnt/stockage/packages/f15/x-tile/locale/fr.po | 
+ | [it](/f15/language/it) | 729 | 729 | 100.0 | /mnt/stockage/packages/f15/x-tile/locale/it.po | 
+ | [ru](/f15/language/ru) | 729 | 729 | 100.0 | /mnt/stockage/packages/f15/x-tile/locale/ru.po | 
+ | [zh_Hant](/f15/language/zh_Hant) | 729 | 729 | 100.0 | /mnt/stockage/packages/f15/x-tile/locale/zh_TW.po | 
+ | [zh_Hans](/f15/language/zh_Hans) | 722 | 729 | 99.0 | /mnt/stockage/packages/f15/x-tile/locale/zh_CN.po | 
 {.sortable}
 
 

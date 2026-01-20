@@ -18,9 +18,9 @@ The package python-kitchen (version 1.2.6):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [en_US]({{< ref "/f33/language/en_US.md" >}}) | 200 | 200 | 100.0 | /mnt/stockage/packages/f33/python-kitchen/po/en_US.po | 
- | [pt_BR]({{< ref "/f33/language/pt_BR.md" >}}) | 52 | 56 | 92.9 | /mnt/stockage/packages/f33/python-kitchen/kitchen2/tests/data/locale/pt_BR.po/mnt/stockage/packages/f33/python-kitchen/kitchen2/tests/data/locale-old/pt_BR.po/mnt/stockage/packages/f33/python-kitchen/kitchen3/tests/data/locale/pt_BR.po/mnt/stockage/packages/f33/python-kitchen/kitchen3/tests/data/locale-old/pt_BR.po | 
- | [de]({{< ref "/f33/language/de.md" >}}) | 7 | 200 | 3.5 | /mnt/stockage/packages/f33/python-kitchen/po/de.po | 
+ | [en_US](/f33/language/en_US) | 200 | 200 | 100.0 | /mnt/stockage/packages/f33/python-kitchen/po/en_US.po | 
+ | [pt_BR](/f33/language/pt_BR) | 52 | 56 | 92.9 | /mnt/stockage/packages/f33/python-kitchen/kitchen2/tests/data/locale/pt_BR.po/mnt/stockage/packages/f33/python-kitchen/kitchen2/tests/data/locale-old/pt_BR.po/mnt/stockage/packages/f33/python-kitchen/kitchen3/tests/data/locale/pt_BR.po/mnt/stockage/packages/f33/python-kitchen/kitchen3/tests/data/locale-old/pt_BR.po | 
+ | [de](/f33/language/de) | 7 | 200 | 3.5 | /mnt/stockage/packages/f33/python-kitchen/po/de.po | 
 {.sortable}
 
 

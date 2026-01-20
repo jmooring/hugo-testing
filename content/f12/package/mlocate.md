@@ -18,25 +18,25 @@ The package mlocate (version 0.22.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f12/language/ca.md" >}}) | 563 | 563 | 100.0 | /mnt/stockage/packages/f12/mlocate/po/ca.po | 
- | [cs]({{< ref "/f12/language/cs.md" >}}) | 563 | 563 | 100.0 | /mnt/stockage/packages/f12/mlocate/po/cs.po | 
- | [da]({{< ref "/f12/language/da.md" >}}) | 563 | 563 | 100.0 | /mnt/stockage/packages/f12/mlocate/po/da.po | 
- | [de]({{< ref "/f12/language/de.md" >}}) | 563 | 563 | 100.0 | /mnt/stockage/packages/f12/mlocate/po/de.po | 
- | [es]({{< ref "/f12/language/es.md" >}}) | 563 | 563 | 100.0 | /mnt/stockage/packages/f12/mlocate/po/es.po | 
- | [fr]({{< ref "/f12/language/fr.md" >}}) | 563 | 563 | 100.0 | /mnt/stockage/packages/f12/mlocate/po/fr.po | 
- | [hu]({{< ref "/f12/language/hu.md" >}}) | 563 | 563 | 100.0 | /mnt/stockage/packages/f12/mlocate/po/hu.po | 
- | [it]({{< ref "/f12/language/it.md" >}}) | 563 | 563 | 100.0 | /mnt/stockage/packages/f12/mlocate/po/it.po | 
- | [ja]({{< ref "/f12/language/ja.md" >}}) | 563 | 563 | 100.0 | /mnt/stockage/packages/f12/mlocate/po/ja.po | 
- | [nl]({{< ref "/f12/language/nl.md" >}}) | 563 | 563 | 100.0 | /mnt/stockage/packages/f12/mlocate/po/nl.po | 
- | [pl]({{< ref "/f12/language/pl.md" >}}) | 563 | 563 | 100.0 | /mnt/stockage/packages/f12/mlocate/po/pl.po | 
- | [pt]({{< ref "/f12/language/pt.md" >}}) | 563 | 563 | 100.0 | /mnt/stockage/packages/f12/mlocate/po/pt.po | 
- | [pt_BR]({{< ref "/f12/language/pt_BR.md" >}}) | 563 | 563 | 100.0 | /mnt/stockage/packages/f12/mlocate/po/pt_BR.po | 
- | [sr]({{< ref "/f12/language/sr.md" >}}) | 563 | 563 | 100.0 | /mnt/stockage/packages/f12/mlocate/po/sr.po | 
- | [sr_Latn]({{< ref "/f12/language/sr_Latn.md" >}}) | 563 | 563 | 100.0 | /mnt/stockage/packages/f12/mlocate/po/sr@latin.po | 
- | [bg]({{< ref "/f12/language/bg.md" >}}) | 275 | 563 | 48.8 | /mnt/stockage/packages/f12/mlocate/po/bg.po | 
- | [sv]({{< ref "/f12/language/sv.md" >}}) | 220 | 563 | 39.1 | /mnt/stockage/packages/f12/mlocate/po/sv.po | 
- | [zh_Hans]({{< ref "/f12/language/zh_Hans.md" >}}) | 209 | 563 | 37.1 | /mnt/stockage/packages/f12/mlocate/po/zh_CN.po | 
- | [ms]({{< ref "/f12/language/ms.md" >}}) | 165 | 563 | 29.3 | /mnt/stockage/packages/f12/mlocate/po/ms.po | 
+ | [ca](/f12/language/ca) | 563 | 563 | 100.0 | /mnt/stockage/packages/f12/mlocate/po/ca.po | 
+ | [cs](/f12/language/cs) | 563 | 563 | 100.0 | /mnt/stockage/packages/f12/mlocate/po/cs.po | 
+ | [da](/f12/language/da) | 563 | 563 | 100.0 | /mnt/stockage/packages/f12/mlocate/po/da.po | 
+ | [de](/f12/language/de) | 563 | 563 | 100.0 | /mnt/stockage/packages/f12/mlocate/po/de.po | 
+ | [es](/f12/language/es) | 563 | 563 | 100.0 | /mnt/stockage/packages/f12/mlocate/po/es.po | 
+ | [fr](/f12/language/fr) | 563 | 563 | 100.0 | /mnt/stockage/packages/f12/mlocate/po/fr.po | 
+ | [hu](/f12/language/hu) | 563 | 563 | 100.0 | /mnt/stockage/packages/f12/mlocate/po/hu.po | 
+ | [it](/f12/language/it) | 563 | 563 | 100.0 | /mnt/stockage/packages/f12/mlocate/po/it.po | 
+ | [ja](/f12/language/ja) | 563 | 563 | 100.0 | /mnt/stockage/packages/f12/mlocate/po/ja.po | 
+ | [nl](/f12/language/nl) | 563 | 563 | 100.0 | /mnt/stockage/packages/f12/mlocate/po/nl.po | 
+ | [pl](/f12/language/pl) | 563 | 563 | 100.0 | /mnt/stockage/packages/f12/mlocate/po/pl.po | 
+ | [pt](/f12/language/pt) | 563 | 563 | 100.0 | /mnt/stockage/packages/f12/mlocate/po/pt.po | 
+ | [pt_BR](/f12/language/pt_BR) | 563 | 563 | 100.0 | /mnt/stockage/packages/f12/mlocate/po/pt_BR.po | 
+ | [sr](/f12/language/sr) | 563 | 563 | 100.0 | /mnt/stockage/packages/f12/mlocate/po/sr.po | 
+ | [sr_Latn](/f12/language/sr_Latn) | 563 | 563 | 100.0 | /mnt/stockage/packages/f12/mlocate/po/sr@latin.po | 
+ | [bg](/f12/language/bg) | 275 | 563 | 48.8 | /mnt/stockage/packages/f12/mlocate/po/bg.po | 
+ | [sv](/f12/language/sv) | 220 | 563 | 39.1 | /mnt/stockage/packages/f12/mlocate/po/sv.po | 
+ | [zh_Hans](/f12/language/zh_Hans) | 209 | 563 | 37.1 | /mnt/stockage/packages/f12/mlocate/po/zh_CN.po | 
+ | [ms](/f12/language/ms) | 165 | 563 | 29.3 | /mnt/stockage/packages/f12/mlocate/po/ms.po | 
 {.sortable}
 
 

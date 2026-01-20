@@ -18,10 +18,10 @@ The package gsequencer (version 3.19.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [pl]({{< ref "/f34/language/pl.md" >}}) | 575 | 667 | 86.2 | /mnt/stockage/packages/f34/gsequencer/po/pl.po | 
- | [fr]({{< ref "/f34/language/fr.md" >}}) | 564 | 667 | 84.6 | /mnt/stockage/packages/f34/gsequencer/po/fr.po | 
- | [de]({{< ref "/f34/language/de.md" >}}) | 558 | 667 | 83.7 | /mnt/stockage/packages/f34/gsequencer/po/de.po | 
- | [it]({{< ref "/f34/language/it.md" >}}) | 0 | 667 | 0.0 | /mnt/stockage/packages/f34/gsequencer/po/it.po | 
+ | [pl](/f34/language/pl) | 575 | 667 | 86.2 | /mnt/stockage/packages/f34/gsequencer/po/pl.po | 
+ | [fr](/f34/language/fr) | 564 | 667 | 84.6 | /mnt/stockage/packages/f34/gsequencer/po/fr.po | 
+ | [de](/f34/language/de) | 558 | 667 | 83.7 | /mnt/stockage/packages/f34/gsequencer/po/de.po | 
+ | [it](/f34/language/it) | 0 | 667 | 0.0 | /mnt/stockage/packages/f34/gsequencer/po/it.po | 
 {.sortable}
 
 

@@ -18,7 +18,7 @@ The package gmediaserver (version 0.13.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [sv]({{< ref "/f25/language/sv.md" >}}) | 1207 | 1207 | 100.0 | /mnt/stockage/packages/f25/gmediaserver/po/sv.po | 
+ | [sv](/f25/language/sv) | 1207 | 1207 | 100.0 | /mnt/stockage/packages/f25/gmediaserver/po/sv.po | 
 {.sortable}
 
 

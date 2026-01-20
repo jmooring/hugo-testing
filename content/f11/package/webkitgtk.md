@@ -18,11 +18,11 @@ The package webkitgtk (version 1.1.10):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [it]({{< ref "/f11/language/it.md" >}}) | 688 | 688 | 100.0 | /mnt/stockage/packages/f11/webkitgtk/WebKit/gtk/po/it.po | 
- | [pt_BR]({{< ref "/f11/language/pt_BR.md" >}}) | 688 | 688 | 100.0 | /mnt/stockage/packages/f11/webkitgtk/WebKit/gtk/po/pt_BR.po | 
- | [ru]({{< ref "/f11/language/ru.md" >}}) | 620 | 722 | 85.9 | /mnt/stockage/packages/f11/webkitgtk/WebKit/gtk/po/ru.po | 
- | [sv]({{< ref "/f11/language/sv.md" >}}) | 364 | 688 | 52.9 | /mnt/stockage/packages/f11/webkitgtk/WebKit/gtk/po/sv.po | 
- | [de]({{< ref "/f11/language/de.md" >}}) | 226 | 688 | 32.8 | /mnt/stockage/packages/f11/webkitgtk/WebKit/gtk/po/de.po | 
+ | [it](/f11/language/it) | 688 | 688 | 100.0 | /mnt/stockage/packages/f11/webkitgtk/WebKit/gtk/po/it.po | 
+ | [pt_BR](/f11/language/pt_BR) | 688 | 688 | 100.0 | /mnt/stockage/packages/f11/webkitgtk/WebKit/gtk/po/pt_BR.po | 
+ | [ru](/f11/language/ru) | 620 | 722 | 85.9 | /mnt/stockage/packages/f11/webkitgtk/WebKit/gtk/po/ru.po | 
+ | [sv](/f11/language/sv) | 364 | 688 | 52.9 | /mnt/stockage/packages/f11/webkitgtk/WebKit/gtk/po/sv.po | 
+ | [de](/f11/language/de) | 226 | 688 | 32.8 | /mnt/stockage/packages/f11/webkitgtk/WebKit/gtk/po/de.po | 
 {.sortable}
 
 

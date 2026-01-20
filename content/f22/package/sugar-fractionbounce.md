@@ -18,106 +18,106 @@ The package sugar-fractionbounce (version 22):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ayc]({{< ref "/f22/language/ayc.md" >}}) | 68 | 68 | 100.0 | /mnt/stockage/packages/f22/sugar-fractionbounce/po/ayc.po | 
- | [da]({{< ref "/f22/language/da.md" >}}) | 68 | 68 | 100.0 | /mnt/stockage/packages/f22/sugar-fractionbounce/po/da.po | 
- | [el]({{< ref "/f22/language/el.md" >}}) | 68 | 68 | 100.0 | /mnt/stockage/packages/f22/sugar-fractionbounce/po/el.po | 
- | [en]({{< ref "/f22/language/en.md" >}}) | 68 | 68 | 100.0 | /mnt/stockage/packages/f22/sugar-fractionbounce/po/en.po | 
- | [en_GB]({{< ref "/f22/language/en_GB.md" >}}) | 68 | 68 | 100.0 | /mnt/stockage/packages/f22/sugar-fractionbounce/po/en_GB.po | 
- | [en_US]({{< ref "/f22/language/en_US.md" >}}) | 68 | 68 | 100.0 | /mnt/stockage/packages/f22/sugar-fractionbounce/po/en_US.po | 
- | [es]({{< ref "/f22/language/es.md" >}}) | 121 | 121 | 100.0 | /mnt/stockage/packages/f22/sugar-fractionbounce/po/es.po | 
- | [fr]({{< ref "/f22/language/fr.md" >}}) | 68 | 68 | 100.0 | /mnt/stockage/packages/f22/sugar-fractionbounce/po/fr.po | 
- | [nl]({{< ref "/f22/language/nl.md" >}}) | 68 | 68 | 100.0 | /mnt/stockage/packages/f22/sugar-fractionbounce/po/nl.po | 
- | [pl]({{< ref "/f22/language/pl.md" >}}) | 68 | 68 | 100.0 | /mnt/stockage/packages/f22/sugar-fractionbounce/po/pl.po | 
- | [pt]({{< ref "/f22/language/pt.md" >}}) | 68 | 68 | 100.0 | /mnt/stockage/packages/f22/sugar-fractionbounce/po/pt.po | 
- | [th]({{< ref "/f22/language/th.md" >}}) | 68 | 68 | 100.0 | /mnt/stockage/packages/f22/sugar-fractionbounce/po/th.po | 
- | [zh_Hans]({{< ref "/f22/language/zh_Hans.md" >}}) | 68 | 68 | 100.0 | /mnt/stockage/packages/f22/sugar-fractionbounce/po/zh_CN.po | 
- | [hy]({{< ref "/f22/language/hy.md" >}}) | 66 | 68 | 97.1 | /mnt/stockage/packages/f22/sugar-fractionbounce/po/hy.po | 
- | [af]({{< ref "/f22/language/af.md" >}}) | 0 | 68 | 0.0 | /mnt/stockage/packages/f22/sugar-fractionbounce/po/af.po | 
- | [ak]({{< ref "/f22/language/ak.md" >}}) | 0 | 68 | 0.0 | /mnt/stockage/packages/f22/sugar-fractionbounce/po/ak.po | 
- | [am]({{< ref "/f22/language/am.md" >}}) | 0 | 68 | 0.0 | /mnt/stockage/packages/f22/sugar-fractionbounce/po/am.po | 
- | [ar]({{< ref "/f22/language/ar.md" >}}) | 0 | 68 | 0.0 | /mnt/stockage/packages/f22/sugar-fractionbounce/po/ar.po | 
- | [ay]({{< ref "/f22/language/ay.md" >}}) | 0 | 68 | 0.0 | /mnt/stockage/packages/f22/sugar-fractionbounce/po/aym.po | 
- | [bg]({{< ref "/f22/language/bg.md" >}}) | 0 | 68 | 0.0 | /mnt/stockage/packages/f22/sugar-fractionbounce/po/bg.po | 
- | [bn]({{< ref "/f22/language/bn.md" >}}) | 0 | 68 | 0.0 | /mnt/stockage/packages/f22/sugar-fractionbounce/po/bn.po | 
- | [bn_IN]({{< ref "/f22/language/bn_IN.md" >}}) | 0 | 68 | 0.0 | /mnt/stockage/packages/f22/sugar-fractionbounce/po/bn_IN.po | 
- | [bs]({{< ref "/f22/language/bs.md" >}}) | 0 | 68 | 0.0 | /mnt/stockage/packages/f22/sugar-fractionbounce/po/bs.po | 
- | [ca]({{< ref "/f22/language/ca.md" >}}) | 0 | 68 | 0.0 | /mnt/stockage/packages/f22/sugar-fractionbounce/po/ca.po | 
- | [cpp]({{< ref "/f22/language/cpp.md" >}}) | 0 | 68 | 0.0 | /mnt/stockage/packages/f22/sugar-fractionbounce/po/cpp.po | 
- | [cs]({{< ref "/f22/language/cs.md" >}}) | 0 | 68 | 0.0 | /mnt/stockage/packages/f22/sugar-fractionbounce/po/cs.po | 
- | [de]({{< ref "/f22/language/de.md" >}}) | 0 | 68 | 0.0 | /mnt/stockage/packages/f22/sugar-fractionbounce/po/de.po | 
- | [dz]({{< ref "/f22/language/dz.md" >}}) | 0 | 68 | 0.0 | /mnt/stockage/packages/f22/sugar-fractionbounce/po/dz.po | 
- | [error]({{< ref "/f22/language/error.md" >}}) | 0 | 272 | 0.0 | /mnt/stockage/packages/f22/sugar-fractionbounce/po/tzo.po/mnt/stockage/packages/f22/sugar-fractionbounce/po/quy.po/mnt/stockage/packages/f22/sugar-fractionbounce/po/pbs.po/mnt/stockage/packages/f22/sugar-fractionbounce/po/mvo.po | 
- | [fa]({{< ref "/f22/language/fa.md" >}}) | 0 | 68 | 0.0 | /mnt/stockage/packages/f22/sugar-fractionbounce/po/fa.po | 
- | [ff]({{< ref "/f22/language/ff.md" >}}) | 0 | 68 | 0.0 | /mnt/stockage/packages/f22/sugar-fractionbounce/po/ff.po | 
- | [fi]({{< ref "/f22/language/fi.md" >}}) | 0 | 68 | 0.0 | /mnt/stockage/packages/f22/sugar-fractionbounce/po/fi.po | 
- | [fil]({{< ref "/f22/language/fil.md" >}}) | 0 | 68 | 0.0 | /mnt/stockage/packages/f22/sugar-fractionbounce/po/fil.po | 
- | [gn]({{< ref "/f22/language/gn.md" >}}) | 0 | 68 | 0.0 | /mnt/stockage/packages/f22/sugar-fractionbounce/po/gn.po | 
- | [gu]({{< ref "/f22/language/gu.md" >}}) | 0 | 68 | 0.0 | /mnt/stockage/packages/f22/sugar-fractionbounce/po/gu.po | 
- | [ha]({{< ref "/f22/language/ha.md" >}}) | 0 | 68 | 0.0 | /mnt/stockage/packages/f22/sugar-fractionbounce/po/ha.po | 
- | [he]({{< ref "/f22/language/he.md" >}}) | 0 | 68 | 0.0 | /mnt/stockage/packages/f22/sugar-fractionbounce/po/he.po | 
- | [hi]({{< ref "/f22/language/hi.md" >}}) | 0 | 68 | 0.0 | /mnt/stockage/packages/f22/sugar-fractionbounce/po/hi.po | 
- | [ht]({{< ref "/f22/language/ht.md" >}}) | 0 | 68 | 0.0 | /mnt/stockage/packages/f22/sugar-fractionbounce/po/ht.po | 
- | [hu]({{< ref "/f22/language/hu.md" >}}) | 0 | 68 | 0.0 | /mnt/stockage/packages/f22/sugar-fractionbounce/po/hu.po | 
- | [hus]({{< ref "/f22/language/hus.md" >}}) | 0 | 68 | 0.0 | /mnt/stockage/packages/f22/sugar-fractionbounce/po/hus.po | 
- | [id]({{< ref "/f22/language/id.md" >}}) | 0 | 68 | 0.0 | /mnt/stockage/packages/f22/sugar-fractionbounce/po/id.po | 
- | [ig]({{< ref "/f22/language/ig.md" >}}) | 0 | 68 | 0.0 | /mnt/stockage/packages/f22/sugar-fractionbounce/po/ig.po | 
- | [is]({{< ref "/f22/language/is.md" >}}) | 0 | 68 | 0.0 | /mnt/stockage/packages/f22/sugar-fractionbounce/po/is.po | 
- | [it]({{< ref "/f22/language/it.md" >}}) | 0 | 68 | 0.0 | /mnt/stockage/packages/f22/sugar-fractionbounce/po/it.po | 
- | [ja]({{< ref "/f22/language/ja.md" >}}) | 0 | 68 | 0.0 | /mnt/stockage/packages/f22/sugar-fractionbounce/po/ja.po | 
- | [km]({{< ref "/f22/language/km.md" >}}) | 0 | 68 | 0.0 | /mnt/stockage/packages/f22/sugar-fractionbounce/po/km.po | 
- | [kn]({{< ref "/f22/language/kn.md" >}}) | 0 | 68 | 0.0 | /mnt/stockage/packages/f22/sugar-fractionbounce/po/kn.po | 
- | [ko]({{< ref "/f22/language/ko.md" >}}) | 0 | 68 | 0.0 | /mnt/stockage/packages/f22/sugar-fractionbounce/po/ko.po | 
- | [kos]({{< ref "/f22/language/kos.md" >}}) | 0 | 68 | 0.0 | /mnt/stockage/packages/f22/sugar-fractionbounce/po/kos.po | 
- | [ku]({{< ref "/f22/language/ku.md" >}}) | 0 | 68 | 0.0 | /mnt/stockage/packages/f22/sugar-fractionbounce/po/ku.po | 
- | [lt]({{< ref "/f22/language/lt.md" >}}) | 0 | 68 | 0.0 | /mnt/stockage/packages/f22/sugar-fractionbounce/po/lt.po | 
- | [lv]({{< ref "/f22/language/lv.md" >}}) | 0 | 68 | 0.0 | /mnt/stockage/packages/f22/sugar-fractionbounce/po/lv.po | 
- | [mg]({{< ref "/f22/language/mg.md" >}}) | 0 | 68 | 0.0 | /mnt/stockage/packages/f22/sugar-fractionbounce/po/mg.po | 
- | [mi]({{< ref "/f22/language/mi.md" >}}) | 0 | 68 | 0.0 | /mnt/stockage/packages/f22/sugar-fractionbounce/po/mi.po | 
- | [mk]({{< ref "/f22/language/mk.md" >}}) | 0 | 68 | 0.0 | /mnt/stockage/packages/f22/sugar-fractionbounce/po/mk.po | 
- | [ml]({{< ref "/f22/language/ml.md" >}}) | 0 | 68 | 0.0 | /mnt/stockage/packages/f22/sugar-fractionbounce/po/ml.po | 
- | [mn]({{< ref "/f22/language/mn.md" >}}) | 0 | 68 | 0.0 | /mnt/stockage/packages/f22/sugar-fractionbounce/po/mn.po | 
- | [mr]({{< ref "/f22/language/mr.md" >}}) | 0 | 68 | 0.0 | /mnt/stockage/packages/f22/sugar-fractionbounce/po/mr.po | 
- | [ms]({{< ref "/f22/language/ms.md" >}}) | 0 | 68 | 0.0 | /mnt/stockage/packages/f22/sugar-fractionbounce/po/ms.po | 
- | [na]({{< ref "/f22/language/na.md" >}}) | 0 | 68 | 0.0 | /mnt/stockage/packages/f22/sugar-fractionbounce/po/na.po | 
- | [nah]({{< ref "/f22/language/nah.md" >}}) | 0 | 68 | 0.0 | /mnt/stockage/packages/f22/sugar-fractionbounce/po/nah.po | 
- | [nb_NO]({{< ref "/f22/language/nb_NO.md" >}}) | 0 | 68 | 0.0 | /mnt/stockage/packages/f22/sugar-fractionbounce/po/nb.po | 
- | [ne]({{< ref "/f22/language/ne.md" >}}) | 0 | 68 | 0.0 | /mnt/stockage/packages/f22/sugar-fractionbounce/po/ne.po | 
- | [nn]({{< ref "/f22/language/nn.md" >}}) | 0 | 68 | 0.0 | /mnt/stockage/packages/f22/sugar-fractionbounce/po/nn.po | 
- | [pa]({{< ref "/f22/language/pa.md" >}}) | 0 | 68 | 0.0 | /mnt/stockage/packages/f22/sugar-fractionbounce/po/pa.po | 
- | [pap]({{< ref "/f22/language/pap.md" >}}) | 0 | 68 | 0.0 | /mnt/stockage/packages/f22/sugar-fractionbounce/po/pap.po | 
- | [prs]({{< ref "/f22/language/prs.md" >}}) | 0 | 68 | 0.0 | /mnt/stockage/packages/f22/sugar-fractionbounce/po/fa_AF.po | 
- | [ps]({{< ref "/f22/language/ps.md" >}}) | 0 | 68 | 0.0 | /mnt/stockage/packages/f22/sugar-fractionbounce/po/ps.po | 
- | [pt_BR]({{< ref "/f22/language/pt_BR.md" >}}) | 0 | 68 | 0.0 | /mnt/stockage/packages/f22/sugar-fractionbounce/po/pt_BR.po | 
- | [qu]({{< ref "/f22/language/qu.md" >}}) | 0 | 68 | 0.0 | /mnt/stockage/packages/f22/sugar-fractionbounce/po/quz.po | 
- | [ro]({{< ref "/f22/language/ro.md" >}}) | 0 | 68 | 0.0 | /mnt/stockage/packages/f22/sugar-fractionbounce/po/ro.po | 
- | [ru]({{< ref "/f22/language/ru.md" >}}) | 0 | 68 | 0.0 | /mnt/stockage/packages/f22/sugar-fractionbounce/po/ru.po | 
- | [rw]({{< ref "/f22/language/rw.md" >}}) | 0 | 68 | 0.0 | /mnt/stockage/packages/f22/sugar-fractionbounce/po/rw.po | 
- | [sd]({{< ref "/f22/language/sd.md" >}}) | 0 | 68 | 0.0 | /mnt/stockage/packages/f22/sugar-fractionbounce/po/sd.po | 
- | [si]({{< ref "/f22/language/si.md" >}}) | 0 | 68 | 0.0 | /mnt/stockage/packages/f22/sugar-fractionbounce/po/si.po | 
- | [sk]({{< ref "/f22/language/sk.md" >}}) | 0 | 68 | 0.0 | /mnt/stockage/packages/f22/sugar-fractionbounce/po/sk.po | 
- | [sl]({{< ref "/f22/language/sl.md" >}}) | 0 | 68 | 0.0 | /mnt/stockage/packages/f22/sugar-fractionbounce/po/sl.po | 
- | [sm]({{< ref "/f22/language/sm.md" >}}) | 0 | 68 | 0.0 | /mnt/stockage/packages/f22/sugar-fractionbounce/po/sm.po | 
- | [son]({{< ref "/f22/language/son.md" >}}) | 0 | 68 | 0.0 | /mnt/stockage/packages/f22/sugar-fractionbounce/po/son.po | 
- | [sq]({{< ref "/f22/language/sq.md" >}}) | 0 | 68 | 0.0 | /mnt/stockage/packages/f22/sugar-fractionbounce/po/sq.po | 
- | [sr]({{< ref "/f22/language/sr.md" >}}) | 0 | 68 | 0.0 | /mnt/stockage/packages/f22/sugar-fractionbounce/po/sr.po | 
- | [st]({{< ref "/f22/language/st.md" >}}) | 0 | 68 | 0.0 | /mnt/stockage/packages/f22/sugar-fractionbounce/po/st.po | 
- | [sv]({{< ref "/f22/language/sv.md" >}}) | 0 | 68 | 0.0 | /mnt/stockage/packages/f22/sugar-fractionbounce/po/sv.po | 
- | [sw]({{< ref "/f22/language/sw.md" >}}) | 0 | 68 | 0.0 | /mnt/stockage/packages/f22/sugar-fractionbounce/po/sw.po | 
- | [ta]({{< ref "/f22/language/ta.md" >}}) | 0 | 68 | 0.0 | /mnt/stockage/packages/f22/sugar-fractionbounce/po/ta.po | 
- | [te]({{< ref "/f22/language/te.md" >}}) | 0 | 68 | 0.0 | /mnt/stockage/packages/f22/sugar-fractionbounce/po/te.po | 
- | [to]({{< ref "/f22/language/to.md" >}}) | 0 | 68 | 0.0 | /mnt/stockage/packages/f22/sugar-fractionbounce/po/to.po | 
- | [tr]({{< ref "/f22/language/tr.md" >}}) | 0 | 68 | 0.0 | /mnt/stockage/packages/f22/sugar-fractionbounce/po/tr.po | 
- | [tvl]({{< ref "/f22/language/tvl.md" >}}) | 0 | 68 | 0.0 | /mnt/stockage/packages/f22/sugar-fractionbounce/po/tvl.po | 
- | [tyv]({{< ref "/f22/language/tyv.md" >}}) | 0 | 68 | 0.0 | /mnt/stockage/packages/f22/sugar-fractionbounce/po/tyv.po | 
- | [tzm]({{< ref "/f22/language/tzm.md" >}}) | 0 | 68 | 0.0 | /mnt/stockage/packages/f22/sugar-fractionbounce/po/tzm.po | 
- | [ug]({{< ref "/f22/language/ug.md" >}}) | 0 | 68 | 0.0 | /mnt/stockage/packages/f22/sugar-fractionbounce/po/ug.po | 
- | [uk]({{< ref "/f22/language/uk.md" >}}) | 0 | 68 | 0.0 | /mnt/stockage/packages/f22/sugar-fractionbounce/po/uk.po | 
- | [ur]({{< ref "/f22/language/ur.md" >}}) | 0 | 68 | 0.0 | /mnt/stockage/packages/f22/sugar-fractionbounce/po/ur.po | 
- | [vi]({{< ref "/f22/language/vi.md" >}}) | 0 | 68 | 0.0 | /mnt/stockage/packages/f22/sugar-fractionbounce/po/vi.po | 
- | [wa]({{< ref "/f22/language/wa.md" >}}) | 0 | 68 | 0.0 | /mnt/stockage/packages/f22/sugar-fractionbounce/po/wa.po | 
- | [yo]({{< ref "/f22/language/yo.md" >}}) | 0 | 68 | 0.0 | /mnt/stockage/packages/f22/sugar-fractionbounce/po/yo.po | 
- | [zh_Hant]({{< ref "/f22/language/zh_Hant.md" >}}) | 0 | 68 | 0.0 | /mnt/stockage/packages/f22/sugar-fractionbounce/po/zh_TW.po | 
- | [zh_Hant_HK]({{< ref "/f22/language/zh_Hant_HK.md" >}}) | 0 | 68 | 0.0 | /mnt/stockage/packages/f22/sugar-fractionbounce/po/zh_HK.po | 
+ | [ayc](/f22/language/ayc) | 68 | 68 | 100.0 | /mnt/stockage/packages/f22/sugar-fractionbounce/po/ayc.po | 
+ | [da](/f22/language/da) | 68 | 68 | 100.0 | /mnt/stockage/packages/f22/sugar-fractionbounce/po/da.po | 
+ | [el](/f22/language/el) | 68 | 68 | 100.0 | /mnt/stockage/packages/f22/sugar-fractionbounce/po/el.po | 
+ | [en](/f22/language/en) | 68 | 68 | 100.0 | /mnt/stockage/packages/f22/sugar-fractionbounce/po/en.po | 
+ | [en_GB](/f22/language/en_GB) | 68 | 68 | 100.0 | /mnt/stockage/packages/f22/sugar-fractionbounce/po/en_GB.po | 
+ | [en_US](/f22/language/en_US) | 68 | 68 | 100.0 | /mnt/stockage/packages/f22/sugar-fractionbounce/po/en_US.po | 
+ | [es](/f22/language/es) | 121 | 121 | 100.0 | /mnt/stockage/packages/f22/sugar-fractionbounce/po/es.po | 
+ | [fr](/f22/language/fr) | 68 | 68 | 100.0 | /mnt/stockage/packages/f22/sugar-fractionbounce/po/fr.po | 
+ | [nl](/f22/language/nl) | 68 | 68 | 100.0 | /mnt/stockage/packages/f22/sugar-fractionbounce/po/nl.po | 
+ | [pl](/f22/language/pl) | 68 | 68 | 100.0 | /mnt/stockage/packages/f22/sugar-fractionbounce/po/pl.po | 
+ | [pt](/f22/language/pt) | 68 | 68 | 100.0 | /mnt/stockage/packages/f22/sugar-fractionbounce/po/pt.po | 
+ | [th](/f22/language/th) | 68 | 68 | 100.0 | /mnt/stockage/packages/f22/sugar-fractionbounce/po/th.po | 
+ | [zh_Hans](/f22/language/zh_Hans) | 68 | 68 | 100.0 | /mnt/stockage/packages/f22/sugar-fractionbounce/po/zh_CN.po | 
+ | [hy](/f22/language/hy) | 66 | 68 | 97.1 | /mnt/stockage/packages/f22/sugar-fractionbounce/po/hy.po | 
+ | [af](/f22/language/af) | 0 | 68 | 0.0 | /mnt/stockage/packages/f22/sugar-fractionbounce/po/af.po | 
+ | [ak](/f22/language/ak) | 0 | 68 | 0.0 | /mnt/stockage/packages/f22/sugar-fractionbounce/po/ak.po | 
+ | [am](/f22/language/am) | 0 | 68 | 0.0 | /mnt/stockage/packages/f22/sugar-fractionbounce/po/am.po | 
+ | [ar](/f22/language/ar) | 0 | 68 | 0.0 | /mnt/stockage/packages/f22/sugar-fractionbounce/po/ar.po | 
+ | [ay](/f22/language/ay) | 0 | 68 | 0.0 | /mnt/stockage/packages/f22/sugar-fractionbounce/po/aym.po | 
+ | [bg](/f22/language/bg) | 0 | 68 | 0.0 | /mnt/stockage/packages/f22/sugar-fractionbounce/po/bg.po | 
+ | [bn](/f22/language/bn) | 0 | 68 | 0.0 | /mnt/stockage/packages/f22/sugar-fractionbounce/po/bn.po | 
+ | [bn_IN](/f22/language/bn_IN) | 0 | 68 | 0.0 | /mnt/stockage/packages/f22/sugar-fractionbounce/po/bn_IN.po | 
+ | [bs](/f22/language/bs) | 0 | 68 | 0.0 | /mnt/stockage/packages/f22/sugar-fractionbounce/po/bs.po | 
+ | [ca](/f22/language/ca) | 0 | 68 | 0.0 | /mnt/stockage/packages/f22/sugar-fractionbounce/po/ca.po | 
+ | [cpp](/f22/language/cpp) | 0 | 68 | 0.0 | /mnt/stockage/packages/f22/sugar-fractionbounce/po/cpp.po | 
+ | [cs](/f22/language/cs) | 0 | 68 | 0.0 | /mnt/stockage/packages/f22/sugar-fractionbounce/po/cs.po | 
+ | [de](/f22/language/de) | 0 | 68 | 0.0 | /mnt/stockage/packages/f22/sugar-fractionbounce/po/de.po | 
+ | [dz](/f22/language/dz) | 0 | 68 | 0.0 | /mnt/stockage/packages/f22/sugar-fractionbounce/po/dz.po | 
+ | [error](/f22/language/error) | 0 | 272 | 0.0 | /mnt/stockage/packages/f22/sugar-fractionbounce/po/tzo.po/mnt/stockage/packages/f22/sugar-fractionbounce/po/quy.po/mnt/stockage/packages/f22/sugar-fractionbounce/po/pbs.po/mnt/stockage/packages/f22/sugar-fractionbounce/po/mvo.po | 
+ | [fa](/f22/language/fa) | 0 | 68 | 0.0 | /mnt/stockage/packages/f22/sugar-fractionbounce/po/fa.po | 
+ | [ff](/f22/language/ff) | 0 | 68 | 0.0 | /mnt/stockage/packages/f22/sugar-fractionbounce/po/ff.po | 
+ | [fi](/f22/language/fi) | 0 | 68 | 0.0 | /mnt/stockage/packages/f22/sugar-fractionbounce/po/fi.po | 
+ | [fil](/f22/language/fil) | 0 | 68 | 0.0 | /mnt/stockage/packages/f22/sugar-fractionbounce/po/fil.po | 
+ | [gn](/f22/language/gn) | 0 | 68 | 0.0 | /mnt/stockage/packages/f22/sugar-fractionbounce/po/gn.po | 
+ | [gu](/f22/language/gu) | 0 | 68 | 0.0 | /mnt/stockage/packages/f22/sugar-fractionbounce/po/gu.po | 
+ | [ha](/f22/language/ha) | 0 | 68 | 0.0 | /mnt/stockage/packages/f22/sugar-fractionbounce/po/ha.po | 
+ | [he](/f22/language/he) | 0 | 68 | 0.0 | /mnt/stockage/packages/f22/sugar-fractionbounce/po/he.po | 
+ | [hi](/f22/language/hi) | 0 | 68 | 0.0 | /mnt/stockage/packages/f22/sugar-fractionbounce/po/hi.po | 
+ | [ht](/f22/language/ht) | 0 | 68 | 0.0 | /mnt/stockage/packages/f22/sugar-fractionbounce/po/ht.po | 
+ | [hu](/f22/language/hu) | 0 | 68 | 0.0 | /mnt/stockage/packages/f22/sugar-fractionbounce/po/hu.po | 
+ | [hus](/f22/language/hus) | 0 | 68 | 0.0 | /mnt/stockage/packages/f22/sugar-fractionbounce/po/hus.po | 
+ | [id](/f22/language/id) | 0 | 68 | 0.0 | /mnt/stockage/packages/f22/sugar-fractionbounce/po/id.po | 
+ | [ig](/f22/language/ig) | 0 | 68 | 0.0 | /mnt/stockage/packages/f22/sugar-fractionbounce/po/ig.po | 
+ | [is](/f22/language/is) | 0 | 68 | 0.0 | /mnt/stockage/packages/f22/sugar-fractionbounce/po/is.po | 
+ | [it](/f22/language/it) | 0 | 68 | 0.0 | /mnt/stockage/packages/f22/sugar-fractionbounce/po/it.po | 
+ | [ja](/f22/language/ja) | 0 | 68 | 0.0 | /mnt/stockage/packages/f22/sugar-fractionbounce/po/ja.po | 
+ | [km](/f22/language/km) | 0 | 68 | 0.0 | /mnt/stockage/packages/f22/sugar-fractionbounce/po/km.po | 
+ | [kn](/f22/language/kn) | 0 | 68 | 0.0 | /mnt/stockage/packages/f22/sugar-fractionbounce/po/kn.po | 
+ | [ko](/f22/language/ko) | 0 | 68 | 0.0 | /mnt/stockage/packages/f22/sugar-fractionbounce/po/ko.po | 
+ | [kos](/f22/language/kos) | 0 | 68 | 0.0 | /mnt/stockage/packages/f22/sugar-fractionbounce/po/kos.po | 
+ | [ku](/f22/language/ku) | 0 | 68 | 0.0 | /mnt/stockage/packages/f22/sugar-fractionbounce/po/ku.po | 
+ | [lt](/f22/language/lt) | 0 | 68 | 0.0 | /mnt/stockage/packages/f22/sugar-fractionbounce/po/lt.po | 
+ | [lv](/f22/language/lv) | 0 | 68 | 0.0 | /mnt/stockage/packages/f22/sugar-fractionbounce/po/lv.po | 
+ | [mg](/f22/language/mg) | 0 | 68 | 0.0 | /mnt/stockage/packages/f22/sugar-fractionbounce/po/mg.po | 
+ | [mi](/f22/language/mi) | 0 | 68 | 0.0 | /mnt/stockage/packages/f22/sugar-fractionbounce/po/mi.po | 
+ | [mk](/f22/language/mk) | 0 | 68 | 0.0 | /mnt/stockage/packages/f22/sugar-fractionbounce/po/mk.po | 
+ | [ml](/f22/language/ml) | 0 | 68 | 0.0 | /mnt/stockage/packages/f22/sugar-fractionbounce/po/ml.po | 
+ | [mn](/f22/language/mn) | 0 | 68 | 0.0 | /mnt/stockage/packages/f22/sugar-fractionbounce/po/mn.po | 
+ | [mr](/f22/language/mr) | 0 | 68 | 0.0 | /mnt/stockage/packages/f22/sugar-fractionbounce/po/mr.po | 
+ | [ms](/f22/language/ms) | 0 | 68 | 0.0 | /mnt/stockage/packages/f22/sugar-fractionbounce/po/ms.po | 
+ | [na](/f22/language/na) | 0 | 68 | 0.0 | /mnt/stockage/packages/f22/sugar-fractionbounce/po/na.po | 
+ | [nah](/f22/language/nah) | 0 | 68 | 0.0 | /mnt/stockage/packages/f22/sugar-fractionbounce/po/nah.po | 
+ | [nb_NO](/f22/language/nb_NO) | 0 | 68 | 0.0 | /mnt/stockage/packages/f22/sugar-fractionbounce/po/nb.po | 
+ | [ne](/f22/language/ne) | 0 | 68 | 0.0 | /mnt/stockage/packages/f22/sugar-fractionbounce/po/ne.po | 
+ | [nn](/f22/language/nn) | 0 | 68 | 0.0 | /mnt/stockage/packages/f22/sugar-fractionbounce/po/nn.po | 
+ | [pa](/f22/language/pa) | 0 | 68 | 0.0 | /mnt/stockage/packages/f22/sugar-fractionbounce/po/pa.po | 
+ | [pap](/f22/language/pap) | 0 | 68 | 0.0 | /mnt/stockage/packages/f22/sugar-fractionbounce/po/pap.po | 
+ | [prs](/f22/language/prs) | 0 | 68 | 0.0 | /mnt/stockage/packages/f22/sugar-fractionbounce/po/fa_AF.po | 
+ | [ps](/f22/language/ps) | 0 | 68 | 0.0 | /mnt/stockage/packages/f22/sugar-fractionbounce/po/ps.po | 
+ | [pt_BR](/f22/language/pt_BR) | 0 | 68 | 0.0 | /mnt/stockage/packages/f22/sugar-fractionbounce/po/pt_BR.po | 
+ | [qu](/f22/language/qu) | 0 | 68 | 0.0 | /mnt/stockage/packages/f22/sugar-fractionbounce/po/quz.po | 
+ | [ro](/f22/language/ro) | 0 | 68 | 0.0 | /mnt/stockage/packages/f22/sugar-fractionbounce/po/ro.po | 
+ | [ru](/f22/language/ru) | 0 | 68 | 0.0 | /mnt/stockage/packages/f22/sugar-fractionbounce/po/ru.po | 
+ | [rw](/f22/language/rw) | 0 | 68 | 0.0 | /mnt/stockage/packages/f22/sugar-fractionbounce/po/rw.po | 
+ | [sd](/f22/language/sd) | 0 | 68 | 0.0 | /mnt/stockage/packages/f22/sugar-fractionbounce/po/sd.po | 
+ | [si](/f22/language/si) | 0 | 68 | 0.0 | /mnt/stockage/packages/f22/sugar-fractionbounce/po/si.po | 
+ | [sk](/f22/language/sk) | 0 | 68 | 0.0 | /mnt/stockage/packages/f22/sugar-fractionbounce/po/sk.po | 
+ | [sl](/f22/language/sl) | 0 | 68 | 0.0 | /mnt/stockage/packages/f22/sugar-fractionbounce/po/sl.po | 
+ | [sm](/f22/language/sm) | 0 | 68 | 0.0 | /mnt/stockage/packages/f22/sugar-fractionbounce/po/sm.po | 
+ | [son](/f22/language/son) | 0 | 68 | 0.0 | /mnt/stockage/packages/f22/sugar-fractionbounce/po/son.po | 
+ | [sq](/f22/language/sq) | 0 | 68 | 0.0 | /mnt/stockage/packages/f22/sugar-fractionbounce/po/sq.po | 
+ | [sr](/f22/language/sr) | 0 | 68 | 0.0 | /mnt/stockage/packages/f22/sugar-fractionbounce/po/sr.po | 
+ | [st](/f22/language/st) | 0 | 68 | 0.0 | /mnt/stockage/packages/f22/sugar-fractionbounce/po/st.po | 
+ | [sv](/f22/language/sv) | 0 | 68 | 0.0 | /mnt/stockage/packages/f22/sugar-fractionbounce/po/sv.po | 
+ | [sw](/f22/language/sw) | 0 | 68 | 0.0 | /mnt/stockage/packages/f22/sugar-fractionbounce/po/sw.po | 
+ | [ta](/f22/language/ta) | 0 | 68 | 0.0 | /mnt/stockage/packages/f22/sugar-fractionbounce/po/ta.po | 
+ | [te](/f22/language/te) | 0 | 68 | 0.0 | /mnt/stockage/packages/f22/sugar-fractionbounce/po/te.po | 
+ | [to](/f22/language/to) | 0 | 68 | 0.0 | /mnt/stockage/packages/f22/sugar-fractionbounce/po/to.po | 
+ | [tr](/f22/language/tr) | 0 | 68 | 0.0 | /mnt/stockage/packages/f22/sugar-fractionbounce/po/tr.po | 
+ | [tvl](/f22/language/tvl) | 0 | 68 | 0.0 | /mnt/stockage/packages/f22/sugar-fractionbounce/po/tvl.po | 
+ | [tyv](/f22/language/tyv) | 0 | 68 | 0.0 | /mnt/stockage/packages/f22/sugar-fractionbounce/po/tyv.po | 
+ | [tzm](/f22/language/tzm) | 0 | 68 | 0.0 | /mnt/stockage/packages/f22/sugar-fractionbounce/po/tzm.po | 
+ | [ug](/f22/language/ug) | 0 | 68 | 0.0 | /mnt/stockage/packages/f22/sugar-fractionbounce/po/ug.po | 
+ | [uk](/f22/language/uk) | 0 | 68 | 0.0 | /mnt/stockage/packages/f22/sugar-fractionbounce/po/uk.po | 
+ | [ur](/f22/language/ur) | 0 | 68 | 0.0 | /mnt/stockage/packages/f22/sugar-fractionbounce/po/ur.po | 
+ | [vi](/f22/language/vi) | 0 | 68 | 0.0 | /mnt/stockage/packages/f22/sugar-fractionbounce/po/vi.po | 
+ | [wa](/f22/language/wa) | 0 | 68 | 0.0 | /mnt/stockage/packages/f22/sugar-fractionbounce/po/wa.po | 
+ | [yo](/f22/language/yo) | 0 | 68 | 0.0 | /mnt/stockage/packages/f22/sugar-fractionbounce/po/yo.po | 
+ | [zh_Hant](/f22/language/zh_Hant) | 0 | 68 | 0.0 | /mnt/stockage/packages/f22/sugar-fractionbounce/po/zh_TW.po | 
+ | [zh_Hant_HK](/f22/language/zh_Hant_HK) | 0 | 68 | 0.0 | /mnt/stockage/packages/f22/sugar-fractionbounce/po/zh_HK.po | 
 {.sortable}
 
 

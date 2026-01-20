@@ -18,7 +18,7 @@ The package pidgin-chime (version 1.4.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [en_GB]({{< ref "/f38/language/en_GB.md" >}}) | 0 | 79 | 0.0 | /mnt/stockage/packages/f38/pidgin-chime/po/en_GB.po | 
+ | [en_GB](/f38/language/en_GB) | 0 | 79 | 0.0 | /mnt/stockage/packages/f38/pidgin-chime/po/en_GB.po | 
 {.sortable}
 
 

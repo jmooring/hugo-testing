@@ -18,46 +18,46 @@ The package gnotime (version 2.2.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [pt_BR]({{< ref "/f8/language/pt_BR.md" >}}) | 1672 | 1672 | 100.0 | /mnt/stockage/packages/f8/gnotime/po/pt_BR.po | 
- | [nb_NO]({{< ref "/f8/language/nb_NO.md" >}}) | 1159 | 1672 | 69.3 | /mnt/stockage/packages/f8/gnotime/po/no.po | 
- | [de]({{< ref "/f8/language/de.md" >}}) | 1072 | 1672 | 64.1 | /mnt/stockage/packages/f8/gnotime/po/de.po | 
- | [pt]({{< ref "/f8/language/pt.md" >}}) | 1072 | 1672 | 64.1 | /mnt/stockage/packages/f8/gnotime/po/pt.po | 
- | [sk]({{< ref "/f8/language/sk.md" >}}) | 1072 | 1672 | 64.1 | /mnt/stockage/packages/f8/gnotime/po/sk.po | 
- | [sv]({{< ref "/f8/language/sv.md" >}}) | 1072 | 1672 | 64.1 | /mnt/stockage/packages/f8/gnotime/po/sv.po | 
- | [eu]({{< ref "/f8/language/eu.md" >}}) | 1062 | 1672 | 63.5 | /mnt/stockage/packages/f8/gnotime/po/eu.po | 
- | [da]({{< ref "/f8/language/da.md" >}}) | 1023 | 1672 | 61.2 | /mnt/stockage/packages/f8/gnotime/po/da.po | 
- | [nn]({{< ref "/f8/language/nn.md" >}}) | 1023 | 1672 | 61.2 | /mnt/stockage/packages/f8/gnotime/po/nn.po | 
- | [lv]({{< ref "/f8/language/lv.md" >}}) | 843 | 1672 | 50.4 | /mnt/stockage/packages/f8/gnotime/po/lv.po | 
- | [fi]({{< ref "/f8/language/fi.md" >}}) | 676 | 1672 | 40.4 | /mnt/stockage/packages/f8/gnotime/po/fi.po | 
- | [fr]({{< ref "/f8/language/fr.md" >}}) | 490 | 1672 | 29.3 | /mnt/stockage/packages/f8/gnotime/po/fr.po | 
- | [pl]({{< ref "/f8/language/pl.md" >}}) | 490 | 1672 | 29.3 | /mnt/stockage/packages/f8/gnotime/po/pl.po | 
- | [zh_Hans]({{< ref "/f8/language/zh_Hans.md" >}}) | 404 | 1672 | 24.2 | /mnt/stockage/packages/f8/gnotime/po/zh_CN.po | 
- | [tr]({{< ref "/f8/language/tr.md" >}}) | 347 | 1672 | 20.8 | /mnt/stockage/packages/f8/gnotime/po/tr.po | 
- | [zh_Hant]({{< ref "/f8/language/zh_Hant.md" >}}) | 289 | 1672 | 17.3 | /mnt/stockage/packages/f8/gnotime/po/zh_TW.po | 
- | [hu]({{< ref "/f8/language/hu.md" >}}) | 273 | 1672 | 16.3 | /mnt/stockage/packages/f8/gnotime/po/hu.po | 
- | [gl]({{< ref "/f8/language/gl.md" >}}) | 133 | 1672 | 8.0 | /mnt/stockage/packages/f8/gnotime/po/gl.po | 
- | [ja]({{< ref "/f8/language/ja.md" >}}) | 133 | 1672 | 8.0 | /mnt/stockage/packages/f8/gnotime/po/ja.po | 
- | [ru]({{< ref "/f8/language/ru.md" >}}) | 133 | 1672 | 8.0 | /mnt/stockage/packages/f8/gnotime/po/ru.po | 
- | [sl]({{< ref "/f8/language/sl.md" >}}) | 133 | 1672 | 8.0 | /mnt/stockage/packages/f8/gnotime/po/sl.po | 
- | [nl]({{< ref "/f8/language/nl.md" >}}) | 123 | 1672 | 7.4 | /mnt/stockage/packages/f8/gnotime/po/nl.po | 
- | [az]({{< ref "/f8/language/az.md" >}}) | 120 | 1672 | 7.2 | /mnt/stockage/packages/f8/gnotime/po/az.po | 
- | [ca]({{< ref "/f8/language/ca.md" >}}) | 120 | 1672 | 7.2 | /mnt/stockage/packages/f8/gnotime/po/ca.po | 
- | [el]({{< ref "/f8/language/el.md" >}}) | 120 | 1672 | 7.2 | /mnt/stockage/packages/f8/gnotime/po/el.po | 
- | [es]({{< ref "/f8/language/es.md" >}}) | 120 | 1672 | 7.2 | /mnt/stockage/packages/f8/gnotime/po/es.po | 
- | [it]({{< ref "/f8/language/it.md" >}}) | 120 | 1672 | 7.2 | /mnt/stockage/packages/f8/gnotime/po/it.po | 
- | [ko]({{< ref "/f8/language/ko.md" >}}) | 120 | 1672 | 7.2 | /mnt/stockage/packages/f8/gnotime/po/ko.po | 
- | [lt]({{< ref "/f8/language/lt.md" >}}) | 120 | 1672 | 7.2 | /mnt/stockage/packages/f8/gnotime/po/lt.po | 
- | [ro]({{< ref "/f8/language/ro.md" >}}) | 120 | 1672 | 7.2 | /mnt/stockage/packages/f8/gnotime/po/ro.po | 
- | [uk]({{< ref "/f8/language/uk.md" >}}) | 120 | 1672 | 7.2 | /mnt/stockage/packages/f8/gnotime/po/uk.po | 
- | [et]({{< ref "/f8/language/et.md" >}}) | 119 | 1672 | 7.1 | /mnt/stockage/packages/f8/gnotime/po/et.po | 
- | [cs]({{< ref "/f8/language/cs.md" >}}) | 110 | 1672 | 6.6 | /mnt/stockage/packages/f8/gnotime/po/cs.po | 
- | [ga]({{< ref "/f8/language/ga.md" >}}) | 94 | 1672 | 5.6 | /mnt/stockage/packages/f8/gnotime/po/ga.po | 
- | [wa]({{< ref "/f8/language/wa.md" >}}) | 85 | 1672 | 5.1 | /mnt/stockage/packages/f8/gnotime/po/wa.po | 
- | [ta]({{< ref "/f8/language/ta.md" >}}) | 18 | 1672 | 1.1 | /mnt/stockage/packages/f8/gnotime/po/ta.po | 
- | [bg]({{< ref "/f8/language/bg.md" >}}) | 6 | 1672 | 0.4 | /mnt/stockage/packages/f8/gnotime/po/bg.po | 
- | [ms]({{< ref "/f8/language/ms.md" >}}) | 6 | 1672 | 0.4 | /mnt/stockage/packages/f8/gnotime/po/ms.po | 
- | [vi]({{< ref "/f8/language/vi.md" >}}) | 6 | 1672 | 0.4 | /mnt/stockage/packages/f8/gnotime/po/vi.po | 
- | [en_GB]({{< ref "/f8/language/en_GB.md" >}}) | 0 | 1672 | 0.0 | /mnt/stockage/packages/f8/gnotime/po/en_GB.po | 
+ | [pt_BR](/f8/language/pt_BR) | 1672 | 1672 | 100.0 | /mnt/stockage/packages/f8/gnotime/po/pt_BR.po | 
+ | [nb_NO](/f8/language/nb_NO) | 1159 | 1672 | 69.3 | /mnt/stockage/packages/f8/gnotime/po/no.po | 
+ | [de](/f8/language/de) | 1072 | 1672 | 64.1 | /mnt/stockage/packages/f8/gnotime/po/de.po | 
+ | [pt](/f8/language/pt) | 1072 | 1672 | 64.1 | /mnt/stockage/packages/f8/gnotime/po/pt.po | 
+ | [sk](/f8/language/sk) | 1072 | 1672 | 64.1 | /mnt/stockage/packages/f8/gnotime/po/sk.po | 
+ | [sv](/f8/language/sv) | 1072 | 1672 | 64.1 | /mnt/stockage/packages/f8/gnotime/po/sv.po | 
+ | [eu](/f8/language/eu) | 1062 | 1672 | 63.5 | /mnt/stockage/packages/f8/gnotime/po/eu.po | 
+ | [da](/f8/language/da) | 1023 | 1672 | 61.2 | /mnt/stockage/packages/f8/gnotime/po/da.po | 
+ | [nn](/f8/language/nn) | 1023 | 1672 | 61.2 | /mnt/stockage/packages/f8/gnotime/po/nn.po | 
+ | [lv](/f8/language/lv) | 843 | 1672 | 50.4 | /mnt/stockage/packages/f8/gnotime/po/lv.po | 
+ | [fi](/f8/language/fi) | 676 | 1672 | 40.4 | /mnt/stockage/packages/f8/gnotime/po/fi.po | 
+ | [fr](/f8/language/fr) | 490 | 1672 | 29.3 | /mnt/stockage/packages/f8/gnotime/po/fr.po | 
+ | [pl](/f8/language/pl) | 490 | 1672 | 29.3 | /mnt/stockage/packages/f8/gnotime/po/pl.po | 
+ | [zh_Hans](/f8/language/zh_Hans) | 404 | 1672 | 24.2 | /mnt/stockage/packages/f8/gnotime/po/zh_CN.po | 
+ | [tr](/f8/language/tr) | 347 | 1672 | 20.8 | /mnt/stockage/packages/f8/gnotime/po/tr.po | 
+ | [zh_Hant](/f8/language/zh_Hant) | 289 | 1672 | 17.3 | /mnt/stockage/packages/f8/gnotime/po/zh_TW.po | 
+ | [hu](/f8/language/hu) | 273 | 1672 | 16.3 | /mnt/stockage/packages/f8/gnotime/po/hu.po | 
+ | [gl](/f8/language/gl) | 133 | 1672 | 8.0 | /mnt/stockage/packages/f8/gnotime/po/gl.po | 
+ | [ja](/f8/language/ja) | 133 | 1672 | 8.0 | /mnt/stockage/packages/f8/gnotime/po/ja.po | 
+ | [ru](/f8/language/ru) | 133 | 1672 | 8.0 | /mnt/stockage/packages/f8/gnotime/po/ru.po | 
+ | [sl](/f8/language/sl) | 133 | 1672 | 8.0 | /mnt/stockage/packages/f8/gnotime/po/sl.po | 
+ | [nl](/f8/language/nl) | 123 | 1672 | 7.4 | /mnt/stockage/packages/f8/gnotime/po/nl.po | 
+ | [az](/f8/language/az) | 120 | 1672 | 7.2 | /mnt/stockage/packages/f8/gnotime/po/az.po | 
+ | [ca](/f8/language/ca) | 120 | 1672 | 7.2 | /mnt/stockage/packages/f8/gnotime/po/ca.po | 
+ | [el](/f8/language/el) | 120 | 1672 | 7.2 | /mnt/stockage/packages/f8/gnotime/po/el.po | 
+ | [es](/f8/language/es) | 120 | 1672 | 7.2 | /mnt/stockage/packages/f8/gnotime/po/es.po | 
+ | [it](/f8/language/it) | 120 | 1672 | 7.2 | /mnt/stockage/packages/f8/gnotime/po/it.po | 
+ | [ko](/f8/language/ko) | 120 | 1672 | 7.2 | /mnt/stockage/packages/f8/gnotime/po/ko.po | 
+ | [lt](/f8/language/lt) | 120 | 1672 | 7.2 | /mnt/stockage/packages/f8/gnotime/po/lt.po | 
+ | [ro](/f8/language/ro) | 120 | 1672 | 7.2 | /mnt/stockage/packages/f8/gnotime/po/ro.po | 
+ | [uk](/f8/language/uk) | 120 | 1672 | 7.2 | /mnt/stockage/packages/f8/gnotime/po/uk.po | 
+ | [et](/f8/language/et) | 119 | 1672 | 7.1 | /mnt/stockage/packages/f8/gnotime/po/et.po | 
+ | [cs](/f8/language/cs) | 110 | 1672 | 6.6 | /mnt/stockage/packages/f8/gnotime/po/cs.po | 
+ | [ga](/f8/language/ga) | 94 | 1672 | 5.6 | /mnt/stockage/packages/f8/gnotime/po/ga.po | 
+ | [wa](/f8/language/wa) | 85 | 1672 | 5.1 | /mnt/stockage/packages/f8/gnotime/po/wa.po | 
+ | [ta](/f8/language/ta) | 18 | 1672 | 1.1 | /mnt/stockage/packages/f8/gnotime/po/ta.po | 
+ | [bg](/f8/language/bg) | 6 | 1672 | 0.4 | /mnt/stockage/packages/f8/gnotime/po/bg.po | 
+ | [ms](/f8/language/ms) | 6 | 1672 | 0.4 | /mnt/stockage/packages/f8/gnotime/po/ms.po | 
+ | [vi](/f8/language/vi) | 6 | 1672 | 0.4 | /mnt/stockage/packages/f8/gnotime/po/vi.po | 
+ | [en_GB](/f8/language/en_GB) | 0 | 1672 | 0.0 | /mnt/stockage/packages/f8/gnotime/po/en_GB.po | 
 {.sortable}
 
 

@@ -38,17 +38,17 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [terminator]({{< ref "/f15/package/terminator.md" >}}) | 9 | 339 | 2.7 | Tuvinian <tyv@li.org> | 
- | [gnome-do]({{< ref "/f15/package/gnome-do.md" >}}) | 4 | 612 | 0.7 | Tuvinian <tyv@li.org> | 
- | [sugar-abacus]({{< ref "/f15/package/sugar-abacus.md" >}}) | 0 | 24 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-clock]({{< ref "/f15/package/sugar-clock.md" >}}) | 0 | 38 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-infoslicer]({{< ref "/f15/package/sugar-infoslicer.md" >}}) | 0 | 185 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-labyrinth]({{< ref "/f15/package/sugar-labyrinth.md" >}}) | 0 | 254 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-measure]({{< ref "/f15/package/sugar-measure.md" >}}) | 0 | 111 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-memorize]({{< ref "/f15/package/sugar-memorize.md" >}}) | 0 | 90 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-moon]({{< ref "/f15/package/sugar-moon.md" >}}) | 0 | 91 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-ruler]({{< ref "/f15/package/sugar-ruler.md" >}}) | 0 | 5 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-visualmatch]({{< ref "/f15/package/sugar-visualmatch.md" >}}) | 0 | 141 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [terminator](/f15/package/terminator) | 9 | 339 | 2.7 | Tuvinian <tyv@li.org> | 
+ | [gnome-do](/f15/package/gnome-do) | 4 | 612 | 0.7 | Tuvinian <tyv@li.org> | 
+ | [sugar-abacus](/f15/package/sugar-abacus) | 0 | 24 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-clock](/f15/package/sugar-clock) | 0 | 38 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-infoslicer](/f15/package/sugar-infoslicer) | 0 | 185 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-labyrinth](/f15/package/sugar-labyrinth) | 0 | 254 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-measure](/f15/package/sugar-measure) | 0 | 111 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-memorize](/f15/package/sugar-memorize) | 0 | 90 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-moon](/f15/package/sugar-moon) | 0 | 91 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-ruler](/f15/package/sugar-ruler) | 0 | 5 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-visualmatch](/f15/package/sugar-visualmatch) | 0 | 141 | 0.0 | LANGUAGE <LL@li.org> | 
 {.sortable}
 
 

@@ -18,43 +18,43 @@ The package emerald (version 0.7.8):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f10/language/ar.md" >}}) | 774 | 774 | 100.0 | /mnt/stockage/packages/f10/emerald/po/ar.po | 
- | [bn]({{< ref "/f10/language/bn.md" >}}) | 774 | 774 | 100.0 | /mnt/stockage/packages/f10/emerald/po/bn.po | 
- | [bn_IN]({{< ref "/f10/language/bn_IN.md" >}}) | 774 | 774 | 100.0 | /mnt/stockage/packages/f10/emerald/po/bn_IN.po | 
- | [de]({{< ref "/f10/language/de.md" >}}) | 774 | 774 | 100.0 | /mnt/stockage/packages/f10/emerald/po/de.po | 
- | [el]({{< ref "/f10/language/el.md" >}}) | 774 | 774 | 100.0 | /mnt/stockage/packages/f10/emerald/po/el.po | 
- | [en_GB]({{< ref "/f10/language/en_GB.md" >}}) | 774 | 774 | 100.0 | /mnt/stockage/packages/f10/emerald/po/en_GB.po | 
- | [es]({{< ref "/f10/language/es.md" >}}) | 774 | 774 | 100.0 | /mnt/stockage/packages/f10/emerald/po/es.po | 
- | [eu]({{< ref "/f10/language/eu.md" >}}) | 774 | 774 | 100.0 | /mnt/stockage/packages/f10/emerald/po/eu.po | 
- | [fr]({{< ref "/f10/language/fr.md" >}}) | 774 | 774 | 100.0 | /mnt/stockage/packages/f10/emerald/po/fr.po | 
- | [gl]({{< ref "/f10/language/gl.md" >}}) | 774 | 774 | 100.0 | /mnt/stockage/packages/f10/emerald/po/gl.po | 
- | [he]({{< ref "/f10/language/he.md" >}}) | 774 | 774 | 100.0 | /mnt/stockage/packages/f10/emerald/po/he.po | 
- | [hi]({{< ref "/f10/language/hi.md" >}}) | 774 | 774 | 100.0 | /mnt/stockage/packages/f10/emerald/po/hi.po | 
- | [hu]({{< ref "/f10/language/hu.md" >}}) | 774 | 774 | 100.0 | /mnt/stockage/packages/f10/emerald/po/hu.po | 
- | [it]({{< ref "/f10/language/it.md" >}}) | 774 | 774 | 100.0 | /mnt/stockage/packages/f10/emerald/po/it.po | 
- | [ko]({{< ref "/f10/language/ko.md" >}}) | 774 | 774 | 100.0 | /mnt/stockage/packages/f10/emerald/po/ko.po | 
- | [nb_NO]({{< ref "/f10/language/nb_NO.md" >}}) | 774 | 774 | 100.0 | /mnt/stockage/packages/f10/emerald/po/nb.po | 
- | [nl]({{< ref "/f10/language/nl.md" >}}) | 774 | 774 | 100.0 | /mnt/stockage/packages/f10/emerald/po/nl.po | 
- | [pa]({{< ref "/f10/language/pa.md" >}}) | 774 | 774 | 100.0 | /mnt/stockage/packages/f10/emerald/po/pa.po | 
- | [pt]({{< ref "/f10/language/pt.md" >}}) | 774 | 774 | 100.0 | /mnt/stockage/packages/f10/emerald/po/pt.po | 
- | [pt_BR]({{< ref "/f10/language/pt_BR.md" >}}) | 774 | 774 | 100.0 | /mnt/stockage/packages/f10/emerald/po/pt_BR.po | 
- | [ru]({{< ref "/f10/language/ru.md" >}}) | 774 | 774 | 100.0 | /mnt/stockage/packages/f10/emerald/po/ru.po | 
- | [sk]({{< ref "/f10/language/sk.md" >}}) | 774 | 774 | 100.0 | /mnt/stockage/packages/f10/emerald/po/sk.po | 
- | [sv]({{< ref "/f10/language/sv.md" >}}) | 774 | 774 | 100.0 | /mnt/stockage/packages/f10/emerald/po/sv.po | 
- | [tr]({{< ref "/f10/language/tr.md" >}}) | 774 | 774 | 100.0 | /mnt/stockage/packages/f10/emerald/po/tr.po | 
- | [zh_Hans]({{< ref "/f10/language/zh_Hans.md" >}}) | 774 | 774 | 100.0 | /mnt/stockage/packages/f10/emerald/po/zh_CN.po | 
- | [ja]({{< ref "/f10/language/ja.md" >}}) | 770 | 774 | 99.5 | /mnt/stockage/packages/f10/emerald/po/ja.po | 
- | [ca]({{< ref "/f10/language/ca.md" >}}) | 762 | 774 | 98.4 | /mnt/stockage/packages/f10/emerald/po/ca.po | 
- | [or]({{< ref "/f10/language/or.md" >}}) | 762 | 774 | 98.4 | /mnt/stockage/packages/f10/emerald/po/or.po | 
- | [gu]({{< ref "/f10/language/gu.md" >}}) | 761 | 774 | 98.3 | /mnt/stockage/packages/f10/emerald/po/gu.po | 
- | [cs]({{< ref "/f10/language/cs.md" >}}) | 753 | 774 | 97.3 | /mnt/stockage/packages/f10/emerald/po/cs.po | 
- | [zh_Hant]({{< ref "/f10/language/zh_Hant.md" >}}) | 739 | 774 | 95.5 | /mnt/stockage/packages/f10/emerald/po/zh_TW.po | 
- | [zh_Hant_HK]({{< ref "/f10/language/zh_Hant_HK.md" >}}) | 739 | 774 | 95.5 | /mnt/stockage/packages/f10/emerald/po/zh_HK.po | 
- | [pl]({{< ref "/f10/language/pl.md" >}}) | 677 | 774 | 87.5 | /mnt/stockage/packages/f10/emerald/po/pl.po | 
- | [es_AR]({{< ref "/f10/language/es_AR.md" >}}) | 671 | 774 | 86.7 | /mnt/stockage/packages/f10/emerald/po/es_AR.po | 
- | [fi]({{< ref "/f10/language/fi.md" >}}) | 442 | 774 | 57.1 | /mnt/stockage/packages/f10/emerald/po/fi.po | 
- | [da]({{< ref "/f10/language/da.md" >}}) | 148 | 774 | 19.1 | /mnt/stockage/packages/f10/emerald/po/da.po | 
- | [fa]({{< ref "/f10/language/fa.md" >}}) | 2 | 774 | 0.3 | /mnt/stockage/packages/f10/emerald/po/fa.po | 
+ | [ar](/f10/language/ar) | 774 | 774 | 100.0 | /mnt/stockage/packages/f10/emerald/po/ar.po | 
+ | [bn](/f10/language/bn) | 774 | 774 | 100.0 | /mnt/stockage/packages/f10/emerald/po/bn.po | 
+ | [bn_IN](/f10/language/bn_IN) | 774 | 774 | 100.0 | /mnt/stockage/packages/f10/emerald/po/bn_IN.po | 
+ | [de](/f10/language/de) | 774 | 774 | 100.0 | /mnt/stockage/packages/f10/emerald/po/de.po | 
+ | [el](/f10/language/el) | 774 | 774 | 100.0 | /mnt/stockage/packages/f10/emerald/po/el.po | 
+ | [en_GB](/f10/language/en_GB) | 774 | 774 | 100.0 | /mnt/stockage/packages/f10/emerald/po/en_GB.po | 
+ | [es](/f10/language/es) | 774 | 774 | 100.0 | /mnt/stockage/packages/f10/emerald/po/es.po | 
+ | [eu](/f10/language/eu) | 774 | 774 | 100.0 | /mnt/stockage/packages/f10/emerald/po/eu.po | 
+ | [fr](/f10/language/fr) | 774 | 774 | 100.0 | /mnt/stockage/packages/f10/emerald/po/fr.po | 
+ | [gl](/f10/language/gl) | 774 | 774 | 100.0 | /mnt/stockage/packages/f10/emerald/po/gl.po | 
+ | [he](/f10/language/he) | 774 | 774 | 100.0 | /mnt/stockage/packages/f10/emerald/po/he.po | 
+ | [hi](/f10/language/hi) | 774 | 774 | 100.0 | /mnt/stockage/packages/f10/emerald/po/hi.po | 
+ | [hu](/f10/language/hu) | 774 | 774 | 100.0 | /mnt/stockage/packages/f10/emerald/po/hu.po | 
+ | [it](/f10/language/it) | 774 | 774 | 100.0 | /mnt/stockage/packages/f10/emerald/po/it.po | 
+ | [ko](/f10/language/ko) | 774 | 774 | 100.0 | /mnt/stockage/packages/f10/emerald/po/ko.po | 
+ | [nb_NO](/f10/language/nb_NO) | 774 | 774 | 100.0 | /mnt/stockage/packages/f10/emerald/po/nb.po | 
+ | [nl](/f10/language/nl) | 774 | 774 | 100.0 | /mnt/stockage/packages/f10/emerald/po/nl.po | 
+ | [pa](/f10/language/pa) | 774 | 774 | 100.0 | /mnt/stockage/packages/f10/emerald/po/pa.po | 
+ | [pt](/f10/language/pt) | 774 | 774 | 100.0 | /mnt/stockage/packages/f10/emerald/po/pt.po | 
+ | [pt_BR](/f10/language/pt_BR) | 774 | 774 | 100.0 | /mnt/stockage/packages/f10/emerald/po/pt_BR.po | 
+ | [ru](/f10/language/ru) | 774 | 774 | 100.0 | /mnt/stockage/packages/f10/emerald/po/ru.po | 
+ | [sk](/f10/language/sk) | 774 | 774 | 100.0 | /mnt/stockage/packages/f10/emerald/po/sk.po | 
+ | [sv](/f10/language/sv) | 774 | 774 | 100.0 | /mnt/stockage/packages/f10/emerald/po/sv.po | 
+ | [tr](/f10/language/tr) | 774 | 774 | 100.0 | /mnt/stockage/packages/f10/emerald/po/tr.po | 
+ | [zh_Hans](/f10/language/zh_Hans) | 774 | 774 | 100.0 | /mnt/stockage/packages/f10/emerald/po/zh_CN.po | 
+ | [ja](/f10/language/ja) | 770 | 774 | 99.5 | /mnt/stockage/packages/f10/emerald/po/ja.po | 
+ | [ca](/f10/language/ca) | 762 | 774 | 98.4 | /mnt/stockage/packages/f10/emerald/po/ca.po | 
+ | [or](/f10/language/or) | 762 | 774 | 98.4 | /mnt/stockage/packages/f10/emerald/po/or.po | 
+ | [gu](/f10/language/gu) | 761 | 774 | 98.3 | /mnt/stockage/packages/f10/emerald/po/gu.po | 
+ | [cs](/f10/language/cs) | 753 | 774 | 97.3 | /mnt/stockage/packages/f10/emerald/po/cs.po | 
+ | [zh_Hant](/f10/language/zh_Hant) | 739 | 774 | 95.5 | /mnt/stockage/packages/f10/emerald/po/zh_TW.po | 
+ | [zh_Hant_HK](/f10/language/zh_Hant_HK) | 739 | 774 | 95.5 | /mnt/stockage/packages/f10/emerald/po/zh_HK.po | 
+ | [pl](/f10/language/pl) | 677 | 774 | 87.5 | /mnt/stockage/packages/f10/emerald/po/pl.po | 
+ | [es_AR](/f10/language/es_AR) | 671 | 774 | 86.7 | /mnt/stockage/packages/f10/emerald/po/es_AR.po | 
+ | [fi](/f10/language/fi) | 442 | 774 | 57.1 | /mnt/stockage/packages/f10/emerald/po/fi.po | 
+ | [da](/f10/language/da) | 148 | 774 | 19.1 | /mnt/stockage/packages/f10/emerald/po/da.po | 
+ | [fa](/f10/language/fa) | 2 | 774 | 0.3 | /mnt/stockage/packages/f10/emerald/po/fa.po | 
 {.sortable}
 
 

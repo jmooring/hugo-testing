@@ -18,7 +18,7 @@ The package gnome-shell-extension-gamemode (version 1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f32/language/de.md" >}}) | 73 | 73 | 100.0 | /mnt/stockage/packages/f32/gnome-shell-extension-gamemode/po/de.po | 
+ | [de](/f32/language/de) | 73 | 73 | 100.0 | /mnt/stockage/packages/f32/gnome-shell-extension-gamemode/po/de.po | 
 {.sortable}
 
 

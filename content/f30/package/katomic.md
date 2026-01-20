@@ -18,57 +18,57 @@ The package katomic (version 19.04.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [bg]({{< ref "/f30/language/bg.md" >}}) | 185 | 185 | 100.0 | /mnt/stockage/packages/f30/katomic/po/bg/katomic.po | 
- | [bs]({{< ref "/f30/language/bs.md" >}}) | 185 | 185 | 100.0 | /mnt/stockage/packages/f30/katomic/po/bs/katomic.po | 
- | [ca]({{< ref "/f30/language/ca.md" >}}) | 185 | 185 | 100.0 | /mnt/stockage/packages/f30/katomic/po/ca/katomic.po | 
- | [ca@valencia]({{< ref "/f30/language/ca@valencia.md" >}}) | 185 | 185 | 100.0 | /mnt/stockage/packages/f30/katomic/po/ca@valencia/katomic.po | 
- | [cs]({{< ref "/f30/language/cs.md" >}}) | 185 | 185 | 100.0 | /mnt/stockage/packages/f30/katomic/po/cs/katomic.po | 
- | [da]({{< ref "/f30/language/da.md" >}}) | 185 | 185 | 100.0 | /mnt/stockage/packages/f30/katomic/po/da/katomic.po | 
- | [de]({{< ref "/f30/language/de.md" >}}) | 185 | 185 | 100.0 | /mnt/stockage/packages/f30/katomic/po/de/katomic.po | 
- | [el]({{< ref "/f30/language/el.md" >}}) | 185 | 185 | 100.0 | /mnt/stockage/packages/f30/katomic/po/el/katomic.po | 
- | [en_GB]({{< ref "/f30/language/en_GB.md" >}}) | 185 | 185 | 100.0 | /mnt/stockage/packages/f30/katomic/po/en_GB/katomic.po | 
- | [es]({{< ref "/f30/language/es.md" >}}) | 185 | 185 | 100.0 | /mnt/stockage/packages/f30/katomic/po/es/katomic.po | 
- | [et]({{< ref "/f30/language/et.md" >}}) | 185 | 185 | 100.0 | /mnt/stockage/packages/f30/katomic/po/et/katomic.po | 
- | [fi]({{< ref "/f30/language/fi.md" >}}) | 185 | 185 | 100.0 | /mnt/stockage/packages/f30/katomic/po/fi/katomic.po | 
- | [fr]({{< ref "/f30/language/fr.md" >}}) | 185 | 185 | 100.0 | /mnt/stockage/packages/f30/katomic/po/fr/katomic.po | 
- | [ga]({{< ref "/f30/language/ga.md" >}}) | 185 | 185 | 100.0 | /mnt/stockage/packages/f30/katomic/po/ga/katomic.po | 
- | [gl]({{< ref "/f30/language/gl.md" >}}) | 185 | 185 | 100.0 | /mnt/stockage/packages/f30/katomic/po/gl/katomic.po | 
- | [hr]({{< ref "/f30/language/hr.md" >}}) | 185 | 185 | 100.0 | /mnt/stockage/packages/f30/katomic/po/hr/katomic.po | 
- | [hu]({{< ref "/f30/language/hu.md" >}}) | 185 | 185 | 100.0 | /mnt/stockage/packages/f30/katomic/po/hu/katomic.po | 
- | [it]({{< ref "/f30/language/it.md" >}}) | 185 | 185 | 100.0 | /mnt/stockage/packages/f30/katomic/po/it/katomic.po | 
- | [kk]({{< ref "/f30/language/kk.md" >}}) | 185 | 185 | 100.0 | /mnt/stockage/packages/f30/katomic/po/kk/katomic.po | 
- | [km]({{< ref "/f30/language/km.md" >}}) | 185 | 185 | 100.0 | /mnt/stockage/packages/f30/katomic/po/km/katomic.po | 
- | [ko]({{< ref "/f30/language/ko.md" >}}) | 185 | 185 | 100.0 | /mnt/stockage/packages/f30/katomic/po/ko/katomic.po | 
- | [lv]({{< ref "/f30/language/lv.md" >}}) | 185 | 185 | 100.0 | /mnt/stockage/packages/f30/katomic/po/lv/katomic.po | 
- | [nb_NO]({{< ref "/f30/language/nb_NO.md" >}}) | 185 | 185 | 100.0 | /mnt/stockage/packages/f30/katomic/po/nb/katomic.po | 
- | [nds]({{< ref "/f30/language/nds.md" >}}) | 185 | 185 | 100.0 | /mnt/stockage/packages/f30/katomic/po/nds/katomic.po | 
- | [nl]({{< ref "/f30/language/nl.md" >}}) | 185 | 185 | 100.0 | /mnt/stockage/packages/f30/katomic/po/nl/katomic.po | 
- | [nn]({{< ref "/f30/language/nn.md" >}}) | 185 | 185 | 100.0 | /mnt/stockage/packages/f30/katomic/po/nn/katomic.po | 
- | [pl]({{< ref "/f30/language/pl.md" >}}) | 185 | 185 | 100.0 | /mnt/stockage/packages/f30/katomic/po/pl/katomic.po | 
- | [pt]({{< ref "/f30/language/pt.md" >}}) | 185 | 185 | 100.0 | /mnt/stockage/packages/f30/katomic/po/pt/katomic.po | 
- | [pt_BR]({{< ref "/f30/language/pt_BR.md" >}}) | 185 | 185 | 100.0 | /mnt/stockage/packages/f30/katomic/po/pt_BR/katomic.po | 
- | [ru]({{< ref "/f30/language/ru.md" >}}) | 185 | 185 | 100.0 | /mnt/stockage/packages/f30/katomic/po/ru/katomic.po | 
- | [sk]({{< ref "/f30/language/sk.md" >}}) | 185 | 185 | 100.0 | /mnt/stockage/packages/f30/katomic/po/sk/katomic.po | 
- | [sl]({{< ref "/f30/language/sl.md" >}}) | 185 | 185 | 100.0 | /mnt/stockage/packages/f30/katomic/po/sl/katomic.po | 
- | [sr]({{< ref "/f30/language/sr.md" >}}) | 185 | 185 | 100.0 | /mnt/stockage/packages/f30/katomic/po/sr/katomic.po | 
- | [sv]({{< ref "/f30/language/sv.md" >}}) | 185 | 185 | 100.0 | /mnt/stockage/packages/f30/katomic/po/sv/katomic.po | 
- | [tr]({{< ref "/f30/language/tr.md" >}}) | 185 | 185 | 100.0 | /mnt/stockage/packages/f30/katomic/po/tr/katomic.po | 
- | [uk]({{< ref "/f30/language/uk.md" >}}) | 185 | 185 | 100.0 | /mnt/stockage/packages/f30/katomic/po/uk/katomic.po | 
- | [zh_Hans]({{< ref "/f30/language/zh_Hans.md" >}}) | 185 | 185 | 100.0 | /mnt/stockage/packages/f30/katomic/po/zh_CN/katomic.po | 
- | [zh_Hant]({{< ref "/f30/language/zh_Hant.md" >}}) | 185 | 185 | 100.0 | /mnt/stockage/packages/f30/katomic/po/zh_TW/katomic.po | 
- | [ja]({{< ref "/f30/language/ja.md" >}}) | 179 | 185 | 96.8 | /mnt/stockage/packages/f30/katomic/po/ja/katomic.po | 
- | [lt]({{< ref "/f30/language/lt.md" >}}) | 131 | 185 | 70.8 | /mnt/stockage/packages/f30/katomic/po/lt/katomic.po | 
- | [ar]({{< ref "/f30/language/ar.md" >}}) | 112 | 185 | 60.5 | /mnt/stockage/packages/f30/katomic/po/ar/katomic.po | 
- | [eu]({{< ref "/f30/language/eu.md" >}}) | 112 | 185 | 60.5 | /mnt/stockage/packages/f30/katomic/po/eu/katomic.po | 
- | [fa]({{< ref "/f30/language/fa.md" >}}) | 112 | 185 | 60.5 | /mnt/stockage/packages/f30/katomic/po/fa/katomic.po | 
- | [ro]({{< ref "/f30/language/ro.md" >}}) | 112 | 185 | 60.5 | /mnt/stockage/packages/f30/katomic/po/ro/katomic.po | 
- | [hi]({{< ref "/f30/language/hi.md" >}}) | 108 | 185 | 58.4 | /mnt/stockage/packages/f30/katomic/po/hi/katomic.po | 
- | [mr]({{< ref "/f30/language/mr.md" >}}) | 73 | 185 | 39.5 | /mnt/stockage/packages/f30/katomic/po/mr/katomic.po | 
- | [eo]({{< ref "/f30/language/eo.md" >}}) | 60 | 185 | 32.4 | /mnt/stockage/packages/f30/katomic/po/eo/katomic.po | 
- | [ug]({{< ref "/f30/language/ug.md" >}}) | 54 | 185 | 29.2 | /mnt/stockage/packages/f30/katomic/po/ug/katomic.po | 
- | [he]({{< ref "/f30/language/he.md" >}}) | 31 | 185 | 16.8 | /mnt/stockage/packages/f30/katomic/po/he/katomic.po | 
- | [is]({{< ref "/f30/language/is.md" >}}) | 31 | 185 | 16.8 | /mnt/stockage/packages/f30/katomic/po/is/katomic.po | 
- | [pa]({{< ref "/f30/language/pa.md" >}}) | 31 | 185 | 16.8 | /mnt/stockage/packages/f30/katomic/po/pa/katomic.po | 
+ | [bg](/f30/language/bg) | 185 | 185 | 100.0 | /mnt/stockage/packages/f30/katomic/po/bg/katomic.po | 
+ | [bs](/f30/language/bs) | 185 | 185 | 100.0 | /mnt/stockage/packages/f30/katomic/po/bs/katomic.po | 
+ | [ca](/f30/language/ca) | 185 | 185 | 100.0 | /mnt/stockage/packages/f30/katomic/po/ca/katomic.po | 
+ | [ca@valencia](/f30/language/ca@valencia) | 185 | 185 | 100.0 | /mnt/stockage/packages/f30/katomic/po/ca@valencia/katomic.po | 
+ | [cs](/f30/language/cs) | 185 | 185 | 100.0 | /mnt/stockage/packages/f30/katomic/po/cs/katomic.po | 
+ | [da](/f30/language/da) | 185 | 185 | 100.0 | /mnt/stockage/packages/f30/katomic/po/da/katomic.po | 
+ | [de](/f30/language/de) | 185 | 185 | 100.0 | /mnt/stockage/packages/f30/katomic/po/de/katomic.po | 
+ | [el](/f30/language/el) | 185 | 185 | 100.0 | /mnt/stockage/packages/f30/katomic/po/el/katomic.po | 
+ | [en_GB](/f30/language/en_GB) | 185 | 185 | 100.0 | /mnt/stockage/packages/f30/katomic/po/en_GB/katomic.po | 
+ | [es](/f30/language/es) | 185 | 185 | 100.0 | /mnt/stockage/packages/f30/katomic/po/es/katomic.po | 
+ | [et](/f30/language/et) | 185 | 185 | 100.0 | /mnt/stockage/packages/f30/katomic/po/et/katomic.po | 
+ | [fi](/f30/language/fi) | 185 | 185 | 100.0 | /mnt/stockage/packages/f30/katomic/po/fi/katomic.po | 
+ | [fr](/f30/language/fr) | 185 | 185 | 100.0 | /mnt/stockage/packages/f30/katomic/po/fr/katomic.po | 
+ | [ga](/f30/language/ga) | 185 | 185 | 100.0 | /mnt/stockage/packages/f30/katomic/po/ga/katomic.po | 
+ | [gl](/f30/language/gl) | 185 | 185 | 100.0 | /mnt/stockage/packages/f30/katomic/po/gl/katomic.po | 
+ | [hr](/f30/language/hr) | 185 | 185 | 100.0 | /mnt/stockage/packages/f30/katomic/po/hr/katomic.po | 
+ | [hu](/f30/language/hu) | 185 | 185 | 100.0 | /mnt/stockage/packages/f30/katomic/po/hu/katomic.po | 
+ | [it](/f30/language/it) | 185 | 185 | 100.0 | /mnt/stockage/packages/f30/katomic/po/it/katomic.po | 
+ | [kk](/f30/language/kk) | 185 | 185 | 100.0 | /mnt/stockage/packages/f30/katomic/po/kk/katomic.po | 
+ | [km](/f30/language/km) | 185 | 185 | 100.0 | /mnt/stockage/packages/f30/katomic/po/km/katomic.po | 
+ | [ko](/f30/language/ko) | 185 | 185 | 100.0 | /mnt/stockage/packages/f30/katomic/po/ko/katomic.po | 
+ | [lv](/f30/language/lv) | 185 | 185 | 100.0 | /mnt/stockage/packages/f30/katomic/po/lv/katomic.po | 
+ | [nb_NO](/f30/language/nb_NO) | 185 | 185 | 100.0 | /mnt/stockage/packages/f30/katomic/po/nb/katomic.po | 
+ | [nds](/f30/language/nds) | 185 | 185 | 100.0 | /mnt/stockage/packages/f30/katomic/po/nds/katomic.po | 
+ | [nl](/f30/language/nl) | 185 | 185 | 100.0 | /mnt/stockage/packages/f30/katomic/po/nl/katomic.po | 
+ | [nn](/f30/language/nn) | 185 | 185 | 100.0 | /mnt/stockage/packages/f30/katomic/po/nn/katomic.po | 
+ | [pl](/f30/language/pl) | 185 | 185 | 100.0 | /mnt/stockage/packages/f30/katomic/po/pl/katomic.po | 
+ | [pt](/f30/language/pt) | 185 | 185 | 100.0 | /mnt/stockage/packages/f30/katomic/po/pt/katomic.po | 
+ | [pt_BR](/f30/language/pt_BR) | 185 | 185 | 100.0 | /mnt/stockage/packages/f30/katomic/po/pt_BR/katomic.po | 
+ | [ru](/f30/language/ru) | 185 | 185 | 100.0 | /mnt/stockage/packages/f30/katomic/po/ru/katomic.po | 
+ | [sk](/f30/language/sk) | 185 | 185 | 100.0 | /mnt/stockage/packages/f30/katomic/po/sk/katomic.po | 
+ | [sl](/f30/language/sl) | 185 | 185 | 100.0 | /mnt/stockage/packages/f30/katomic/po/sl/katomic.po | 
+ | [sr](/f30/language/sr) | 185 | 185 | 100.0 | /mnt/stockage/packages/f30/katomic/po/sr/katomic.po | 
+ | [sv](/f30/language/sv) | 185 | 185 | 100.0 | /mnt/stockage/packages/f30/katomic/po/sv/katomic.po | 
+ | [tr](/f30/language/tr) | 185 | 185 | 100.0 | /mnt/stockage/packages/f30/katomic/po/tr/katomic.po | 
+ | [uk](/f30/language/uk) | 185 | 185 | 100.0 | /mnt/stockage/packages/f30/katomic/po/uk/katomic.po | 
+ | [zh_Hans](/f30/language/zh_Hans) | 185 | 185 | 100.0 | /mnt/stockage/packages/f30/katomic/po/zh_CN/katomic.po | 
+ | [zh_Hant](/f30/language/zh_Hant) | 185 | 185 | 100.0 | /mnt/stockage/packages/f30/katomic/po/zh_TW/katomic.po | 
+ | [ja](/f30/language/ja) | 179 | 185 | 96.8 | /mnt/stockage/packages/f30/katomic/po/ja/katomic.po | 
+ | [lt](/f30/language/lt) | 131 | 185 | 70.8 | /mnt/stockage/packages/f30/katomic/po/lt/katomic.po | 
+ | [ar](/f30/language/ar) | 112 | 185 | 60.5 | /mnt/stockage/packages/f30/katomic/po/ar/katomic.po | 
+ | [eu](/f30/language/eu) | 112 | 185 | 60.5 | /mnt/stockage/packages/f30/katomic/po/eu/katomic.po | 
+ | [fa](/f30/language/fa) | 112 | 185 | 60.5 | /mnt/stockage/packages/f30/katomic/po/fa/katomic.po | 
+ | [ro](/f30/language/ro) | 112 | 185 | 60.5 | /mnt/stockage/packages/f30/katomic/po/ro/katomic.po | 
+ | [hi](/f30/language/hi) | 108 | 185 | 58.4 | /mnt/stockage/packages/f30/katomic/po/hi/katomic.po | 
+ | [mr](/f30/language/mr) | 73 | 185 | 39.5 | /mnt/stockage/packages/f30/katomic/po/mr/katomic.po | 
+ | [eo](/f30/language/eo) | 60 | 185 | 32.4 | /mnt/stockage/packages/f30/katomic/po/eo/katomic.po | 
+ | [ug](/f30/language/ug) | 54 | 185 | 29.2 | /mnt/stockage/packages/f30/katomic/po/ug/katomic.po | 
+ | [he](/f30/language/he) | 31 | 185 | 16.8 | /mnt/stockage/packages/f30/katomic/po/he/katomic.po | 
+ | [is](/f30/language/is) | 31 | 185 | 16.8 | /mnt/stockage/packages/f30/katomic/po/is/katomic.po | 
+ | [pa](/f30/language/pa) | 31 | 185 | 16.8 | /mnt/stockage/packages/f30/katomic/po/pa/katomic.po | 
 {.sortable}
 
 

@@ -18,17 +18,17 @@ The package uget (version 1.8.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [be]({{< ref "/f16/language/be.md" >}}) | 583 | 583 | 100.0 | /mnt/stockage/packages/f16/uget/po/be.po | 
- | [cs]({{< ref "/f16/language/cs.md" >}}) | 583 | 583 | 100.0 | /mnt/stockage/packages/f16/uget/po/cs.po | 
- | [it]({{< ref "/f16/language/it.md" >}}) | 583 | 583 | 100.0 | /mnt/stockage/packages/f16/uget/po/it.po | 
- | [pl]({{< ref "/f16/language/pl.md" >}}) | 583 | 583 | 100.0 | /mnt/stockage/packages/f16/uget/po/pl.po | 
- | [zh_Hant]({{< ref "/f16/language/zh_Hant.md" >}}) | 551 | 583 | 94.5 | /mnt/stockage/packages/f16/uget/po/zh_TW.po | 
- | [zh_Hans]({{< ref "/f16/language/zh_Hans.md" >}}) | 535 | 583 | 91.8 | /mnt/stockage/packages/f16/uget/po/zh_CN.po | 
- | [ru]({{< ref "/f16/language/ru.md" >}}) | 1012 | 1166 | 86.8 | /mnt/stockage/packages/f16/uget/po/uk.po/mnt/stockage/packages/f16/uget/po/ru.po | 
- | [es]({{< ref "/f16/language/es.md" >}}) | 451 | 583 | 77.4 | /mnt/stockage/packages/f16/uget/po/es.po | 
- | [tr]({{< ref "/f16/language/tr.md" >}}) | 447 | 583 | 76.7 | /mnt/stockage/packages/f16/uget/po/tr.po | 
- | [de]({{< ref "/f16/language/de.md" >}}) | 347 | 583 | 59.5 | /mnt/stockage/packages/f16/uget/po/de.po | 
- | [fr]({{< ref "/f16/language/fr.md" >}}) | 37 | 583 | 6.3 | /mnt/stockage/packages/f16/uget/po/fr.po | 
+ | [be](/f16/language/be) | 583 | 583 | 100.0 | /mnt/stockage/packages/f16/uget/po/be.po | 
+ | [cs](/f16/language/cs) | 583 | 583 | 100.0 | /mnt/stockage/packages/f16/uget/po/cs.po | 
+ | [it](/f16/language/it) | 583 | 583 | 100.0 | /mnt/stockage/packages/f16/uget/po/it.po | 
+ | [pl](/f16/language/pl) | 583 | 583 | 100.0 | /mnt/stockage/packages/f16/uget/po/pl.po | 
+ | [zh_Hant](/f16/language/zh_Hant) | 551 | 583 | 94.5 | /mnt/stockage/packages/f16/uget/po/zh_TW.po | 
+ | [zh_Hans](/f16/language/zh_Hans) | 535 | 583 | 91.8 | /mnt/stockage/packages/f16/uget/po/zh_CN.po | 
+ | [ru](/f16/language/ru) | 1012 | 1166 | 86.8 | /mnt/stockage/packages/f16/uget/po/uk.po/mnt/stockage/packages/f16/uget/po/ru.po | 
+ | [es](/f16/language/es) | 451 | 583 | 77.4 | /mnt/stockage/packages/f16/uget/po/es.po | 
+ | [tr](/f16/language/tr) | 447 | 583 | 76.7 | /mnt/stockage/packages/f16/uget/po/tr.po | 
+ | [de](/f16/language/de) | 347 | 583 | 59.5 | /mnt/stockage/packages/f16/uget/po/de.po | 
+ | [fr](/f16/language/fr) | 37 | 583 | 6.3 | /mnt/stockage/packages/f16/uget/po/fr.po | 
 {.sortable}
 
 

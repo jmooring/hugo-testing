@@ -18,12 +18,12 @@ The package gpaste (version 3.34.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f31/language/fr.md" >}}) | 1087 | 1104 | 98.5 | /mnt/stockage/packages/f31/gpaste/po/fr.po | 
- | [sv]({{< ref "/f31/language/sv.md" >}}) | 1022 | 1104 | 92.6 | /mnt/stockage/packages/f31/gpaste/po/sv.po | 
- | [nl]({{< ref "/f31/language/nl.md" >}}) | 1019 | 1104 | 92.3 | /mnt/stockage/packages/f31/gpaste/po/nl_NL.po | 
- | [pt_BR]({{< ref "/f31/language/pt_BR.md" >}}) | 776 | 1104 | 70.3 | /mnt/stockage/packages/f31/gpaste/po/pt_BR.po | 
- | [de]({{< ref "/f31/language/de.md" >}}) | 505 | 1104 | 45.7 | /mnt/stockage/packages/f31/gpaste/po/de.po | 
- | [es]({{< ref "/f31/language/es.md" >}}) | 386 | 1104 | 35.0 | /mnt/stockage/packages/f31/gpaste/po/es.po | 
+ | [fr](/f31/language/fr) | 1087 | 1104 | 98.5 | /mnt/stockage/packages/f31/gpaste/po/fr.po | 
+ | [sv](/f31/language/sv) | 1022 | 1104 | 92.6 | /mnt/stockage/packages/f31/gpaste/po/sv.po | 
+ | [nl](/f31/language/nl) | 1019 | 1104 | 92.3 | /mnt/stockage/packages/f31/gpaste/po/nl_NL.po | 
+ | [pt_BR](/f31/language/pt_BR) | 776 | 1104 | 70.3 | /mnt/stockage/packages/f31/gpaste/po/pt_BR.po | 
+ | [de](/f31/language/de) | 505 | 1104 | 45.7 | /mnt/stockage/packages/f31/gpaste/po/de.po | 
+ | [es](/f31/language/es) | 386 | 1104 | 35.0 | /mnt/stockage/packages/f31/gpaste/po/es.po | 
 {.sortable}
 
 

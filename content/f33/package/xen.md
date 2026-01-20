@@ -18,14 +18,14 @@ The package xen (version 4.14.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [bg]({{< ref "/f33/language/bg.md" >}}) | 35 | 35 | 100.0 | /mnt/stockage/packages/f33/xen/tools/qemu-xen/po/bg.po | 
- | [zh_Hans]({{< ref "/f33/language/zh_Hans.md" >}}) | 35 | 35 | 100.0 | /mnt/stockage/packages/f33/xen/tools/qemu-xen/po/zh_CN.po | 
- | [de]({{< ref "/f33/language/de.md" >}}) | 33 | 35 | 94.3 | /mnt/stockage/packages/f33/xen/tools/qemu-xen/po/de_DE.po | 
- | [fr]({{< ref "/f33/language/fr.md" >}}) | 33 | 35 | 94.3 | /mnt/stockage/packages/f33/xen/tools/qemu-xen/po/fr_FR.po | 
- | [it]({{< ref "/f33/language/it.md" >}}) | 33 | 35 | 94.3 | /mnt/stockage/packages/f33/xen/tools/qemu-xen/po/it.po | 
- | [hu]({{< ref "/f33/language/hu.md" >}}) | 22 | 35 | 62.9 | /mnt/stockage/packages/f33/xen/tools/qemu-xen/po/hu.po | 
- | [tr]({{< ref "/f33/language/tr.md" >}}) | 22 | 35 | 62.9 | /mnt/stockage/packages/f33/xen/tools/qemu-xen/po/tr.po | 
- | [error]({{< ref "/f33/language/error.md" >}}) | 0 | 35 | 0.0 | /mnt/stockage/packages/f33/xen/tools/qemu-xen/po/messages.po | 
+ | [bg](/f33/language/bg) | 35 | 35 | 100.0 | /mnt/stockage/packages/f33/xen/tools/qemu-xen/po/bg.po | 
+ | [zh_Hans](/f33/language/zh_Hans) | 35 | 35 | 100.0 | /mnt/stockage/packages/f33/xen/tools/qemu-xen/po/zh_CN.po | 
+ | [de](/f33/language/de) | 33 | 35 | 94.3 | /mnt/stockage/packages/f33/xen/tools/qemu-xen/po/de_DE.po | 
+ | [fr](/f33/language/fr) | 33 | 35 | 94.3 | /mnt/stockage/packages/f33/xen/tools/qemu-xen/po/fr_FR.po | 
+ | [it](/f33/language/it) | 33 | 35 | 94.3 | /mnt/stockage/packages/f33/xen/tools/qemu-xen/po/it.po | 
+ | [hu](/f33/language/hu) | 22 | 35 | 62.9 | /mnt/stockage/packages/f33/xen/tools/qemu-xen/po/hu.po | 
+ | [tr](/f33/language/tr) | 22 | 35 | 62.9 | /mnt/stockage/packages/f33/xen/tools/qemu-xen/po/tr.po | 
+ | [error](/f33/language/error) | 0 | 35 | 0.0 | /mnt/stockage/packages/f33/xen/tools/qemu-xen/po/messages.po | 
 {.sortable}
 
 

@@ -18,21 +18,21 @@ The package noggin (version 1.7.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [bs]({{< ref "/f39/language/bs.md" >}}) | 849 | 849 | 100.0 | /mnt/stockage/packages/f39/noggin/noggin/translations/bs/LC_MESSAGES/messages.po | 
- | [fi]({{< ref "/f39/language/fi.md" >}}) | 849 | 849 | 100.0 | /mnt/stockage/packages/f39/noggin/noggin/translations/fi/LC_MESSAGES/messages.po | 
- | [ko]({{< ref "/f39/language/ko.md" >}}) | 849 | 849 | 100.0 | /mnt/stockage/packages/f39/noggin/noggin/translations/ko/LC_MESSAGES/messages.po | 
- | [pt_BR]({{< ref "/f39/language/pt_BR.md" >}}) | 849 | 849 | 100.0 | /mnt/stockage/packages/f39/noggin/noggin/translations/pt_BR/LC_MESSAGES/messages.po | 
- | [pt_PT]({{< ref "/f39/language/pt_PT.md" >}}) | 849 | 849 | 100.0 | /mnt/stockage/packages/f39/noggin/noggin/translations/pt_PT/LC_MESSAGES/messages.po | 
- | [tr]({{< ref "/f39/language/tr.md" >}}) | 849 | 849 | 100.0 | /mnt/stockage/packages/f39/noggin/noggin/translations/tr/LC_MESSAGES/messages.po | 
- | [uk]({{< ref "/f39/language/uk.md" >}}) | 849 | 849 | 100.0 | /mnt/stockage/packages/f39/noggin/noggin/translations/uk/LC_MESSAGES/messages.po | 
- | [zh_Hans]({{< ref "/f39/language/zh_Hans.md" >}}) | 849 | 849 | 100.0 | /mnt/stockage/packages/f39/noggin/noggin/translations/zh_Hans/LC_MESSAGES/messages.po | 
- | [de]({{< ref "/f39/language/de.md" >}}) | 639 | 849 | 75.3 | /mnt/stockage/packages/f39/noggin/noggin/translations/de/LC_MESSAGES/messages.po | 
- | [fr]({{< ref "/f39/language/fr.md" >}}) | 362 | 849 | 42.6 | /mnt/stockage/packages/f39/noggin/noggin/translations/fr_FR/LC_MESSAGES/messages.po | 
- | [it]({{< ref "/f39/language/it.md" >}}) | 241 | 849 | 28.4 | /mnt/stockage/packages/f39/noggin/noggin/translations/it/LC_MESSAGES/messages.po | 
- | [he]({{< ref "/f39/language/he.md" >}}) | 152 | 849 | 17.9 | /mnt/stockage/packages/f39/noggin/noggin/translations/he/LC_MESSAGES/messages.po | 
- | [hu]({{< ref "/f39/language/hu.md" >}}) | 26 | 849 | 3.1 | /mnt/stockage/packages/f39/noggin/noggin/translations/hu/LC_MESSAGES/messages.po | 
- | [si]({{< ref "/f39/language/si.md" >}}) | 5 | 849 | 0.6 | /mnt/stockage/packages/f39/noggin/noggin/translations/si/LC_MESSAGES/messages.po | 
- | [ca]({{< ref "/f39/language/ca.md" >}}) | 0 | 849 | 0.0 | /mnt/stockage/packages/f39/noggin/noggin/translations/ca/LC_MESSAGES/messages.po | 
+ | [bs](/f39/language/bs) | 849 | 849 | 100.0 | /mnt/stockage/packages/f39/noggin/noggin/translations/bs/LC_MESSAGES/messages.po | 
+ | [fi](/f39/language/fi) | 849 | 849 | 100.0 | /mnt/stockage/packages/f39/noggin/noggin/translations/fi/LC_MESSAGES/messages.po | 
+ | [ko](/f39/language/ko) | 849 | 849 | 100.0 | /mnt/stockage/packages/f39/noggin/noggin/translations/ko/LC_MESSAGES/messages.po | 
+ | [pt_BR](/f39/language/pt_BR) | 849 | 849 | 100.0 | /mnt/stockage/packages/f39/noggin/noggin/translations/pt_BR/LC_MESSAGES/messages.po | 
+ | [pt_PT](/f39/language/pt_PT) | 849 | 849 | 100.0 | /mnt/stockage/packages/f39/noggin/noggin/translations/pt_PT/LC_MESSAGES/messages.po | 
+ | [tr](/f39/language/tr) | 849 | 849 | 100.0 | /mnt/stockage/packages/f39/noggin/noggin/translations/tr/LC_MESSAGES/messages.po | 
+ | [uk](/f39/language/uk) | 849 | 849 | 100.0 | /mnt/stockage/packages/f39/noggin/noggin/translations/uk/LC_MESSAGES/messages.po | 
+ | [zh_Hans](/f39/language/zh_Hans) | 849 | 849 | 100.0 | /mnt/stockage/packages/f39/noggin/noggin/translations/zh_Hans/LC_MESSAGES/messages.po | 
+ | [de](/f39/language/de) | 639 | 849 | 75.3 | /mnt/stockage/packages/f39/noggin/noggin/translations/de/LC_MESSAGES/messages.po | 
+ | [fr](/f39/language/fr) | 362 | 849 | 42.6 | /mnt/stockage/packages/f39/noggin/noggin/translations/fr_FR/LC_MESSAGES/messages.po | 
+ | [it](/f39/language/it) | 241 | 849 | 28.4 | /mnt/stockage/packages/f39/noggin/noggin/translations/it/LC_MESSAGES/messages.po | 
+ | [he](/f39/language/he) | 152 | 849 | 17.9 | /mnt/stockage/packages/f39/noggin/noggin/translations/he/LC_MESSAGES/messages.po | 
+ | [hu](/f39/language/hu) | 26 | 849 | 3.1 | /mnt/stockage/packages/f39/noggin/noggin/translations/hu/LC_MESSAGES/messages.po | 
+ | [si](/f39/language/si) | 5 | 849 | 0.6 | /mnt/stockage/packages/f39/noggin/noggin/translations/si/LC_MESSAGES/messages.po | 
+ | [ca](/f39/language/ca) | 0 | 849 | 0.0 | /mnt/stockage/packages/f39/noggin/noggin/translations/ca/LC_MESSAGES/messages.po | 
 {.sortable}
 
 

@@ -38,15 +38,15 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [libgweather]({{< ref "/f24/package/libgweather.md" >}}) | 447 | 460 | 97.2 | Spanish <traductores@es.gnome.org> | 
- | [libmateweather]({{< ref "/f24/package/libmateweather.md" >}}) | 361 | 499 | 72.3 | Spanish (Ecuador) (http://www.transifex.com/mate/MATE/language/es_EC/) | 
- | [mate-applets]({{< ref "/f24/package/mate-applets.md" >}}) | 1596 | 2621 | 60.9 | Spanish (Ecuador) (http://www.transifex.com/mate/MATE/language/es_EC/) | 
- | [openerp]({{< ref "/f24/package/openerp.md" >}}) | 30337 | 55898 | 54.3 | Spanish (Ecuador) <es_EC@li.org> | 
- | [openerp7]({{< ref "/f24/package/openerp7.md" >}}) | 17290 | 48417 | 35.7 | Spanish (Ecuador) <es_EC@li.org> | 
- | [openerp-client]({{< ref "/f24/package/openerp-client.md" >}}) | 2354 | 7729 | 30.5 | Spanish (Ecuador) <es_EC@li.org> | 
- | [libmatekbd]({{< ref "/f24/package/libmatekbd.md" >}}) | 0 | 251 | 0.0 | Spanish (Ecuador) (http://www.transifex.com/mate/MATE/language/es_EC/) | 
- | [lollypop]({{< ref "/f24/package/lollypop.md" >}}) | 0 | 889 | 0.0 | Spanish (Ecuador) (http://www.transifex.com/gnumdk/lollypop/language/es_EC/) | 
- | [mate-user-guide]({{< ref "/f24/package/mate-user-guide.md" >}}) | 0 | 5 | 0.0 | Spanish (Ecuador) (http://www.transifex.com/mate/MATE/language/es_EC/) | 
+ | [libgweather](/f24/package/libgweather) | 447 | 460 | 97.2 | Spanish <traductores@es.gnome.org> | 
+ | [libmateweather](/f24/package/libmateweather) | 361 | 499 | 72.3 | Spanish (Ecuador) (http://www.transifex.com/mate/MATE/language/es_EC/) | 
+ | [mate-applets](/f24/package/mate-applets) | 1596 | 2621 | 60.9 | Spanish (Ecuador) (http://www.transifex.com/mate/MATE/language/es_EC/) | 
+ | [openerp](/f24/package/openerp) | 30337 | 55898 | 54.3 | Spanish (Ecuador) <es_EC@li.org> | 
+ | [openerp7](/f24/package/openerp7) | 17290 | 48417 | 35.7 | Spanish (Ecuador) <es_EC@li.org> | 
+ | [openerp-client](/f24/package/openerp-client) | 2354 | 7729 | 30.5 | Spanish (Ecuador) <es_EC@li.org> | 
+ | [libmatekbd](/f24/package/libmatekbd) | 0 | 251 | 0.0 | Spanish (Ecuador) (http://www.transifex.com/mate/MATE/language/es_EC/) | 
+ | [lollypop](/f24/package/lollypop) | 0 | 889 | 0.0 | Spanish (Ecuador) (http://www.transifex.com/gnumdk/lollypop/language/es_EC/) | 
+ | [mate-user-guide](/f24/package/mate-user-guide) | 0 | 5 | 0.0 | Spanish (Ecuador) (http://www.transifex.com/mate/MATE/language/es_EC/) | 
 {.sortable}
 
 

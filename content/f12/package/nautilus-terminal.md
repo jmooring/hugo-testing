@@ -18,24 +18,24 @@ The package nautilus-terminal (version 0.7):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f12/language/cs.md" >}}) | 110 | 110 | 100.0 | /mnt/stockage/packages/f12/nautilus-terminal/locales/cs.po | 
- | [de]({{< ref "/f12/language/de.md" >}}) | 110 | 110 | 100.0 | /mnt/stockage/packages/f12/nautilus-terminal/locales/de.po | 
- | [es]({{< ref "/f12/language/es.md" >}}) | 110 | 110 | 100.0 | /mnt/stockage/packages/f12/nautilus-terminal/locales/es.po | 
- | [fr]({{< ref "/f12/language/fr.md" >}}) | 110 | 110 | 100.0 | /mnt/stockage/packages/f12/nautilus-terminal/locales/fr.po | 
- | [hu]({{< ref "/f12/language/hu.md" >}}) | 110 | 110 | 100.0 | /mnt/stockage/packages/f12/nautilus-terminal/locales/hu.po | 
- | [pl]({{< ref "/f12/language/pl.md" >}}) | 110 | 110 | 100.0 | /mnt/stockage/packages/f12/nautilus-terminal/locales/pl.po | 
- | [pt_BR]({{< ref "/f12/language/pt_BR.md" >}}) | 110 | 110 | 100.0 | /mnt/stockage/packages/f12/nautilus-terminal/locales/pt_BR.po | 
- | [tr]({{< ref "/f12/language/tr.md" >}}) | 110 | 110 | 100.0 | /mnt/stockage/packages/f12/nautilus-terminal/locales/tr.po | 
- | [it]({{< ref "/f12/language/it.md" >}}) | 108 | 110 | 98.2 | /mnt/stockage/packages/f12/nautilus-terminal/locales/it.po | 
- | [lv]({{< ref "/f12/language/lv.md" >}}) | 108 | 110 | 98.2 | /mnt/stockage/packages/f12/nautilus-terminal/locales/lv.po | 
- | [pt]({{< ref "/f12/language/pt.md" >}}) | 103 | 110 | 93.6 | /mnt/stockage/packages/f12/nautilus-terminal/locales/pt.po | 
- | [sv]({{< ref "/f12/language/sv.md" >}}) | 103 | 110 | 93.6 | /mnt/stockage/packages/f12/nautilus-terminal/locales/sv.po | 
- | [bg]({{< ref "/f12/language/bg.md" >}}) | 84 | 110 | 76.4 | /mnt/stockage/packages/f12/nautilus-terminal/locales/bg.po | 
- | [ru]({{< ref "/f12/language/ru.md" >}}) | 79 | 110 | 71.8 | /mnt/stockage/packages/f12/nautilus-terminal/locales/ru.po | 
- | [he]({{< ref "/f12/language/he.md" >}}) | 72 | 110 | 65.5 | /mnt/stockage/packages/f12/nautilus-terminal/locales/he.po | 
- | [nl]({{< ref "/f12/language/nl.md" >}}) | 63 | 110 | 57.3 | /mnt/stockage/packages/f12/nautilus-terminal/locales/nl.po | 
- | [ro]({{< ref "/f12/language/ro.md" >}}) | 52 | 110 | 47.3 | /mnt/stockage/packages/f12/nautilus-terminal/locales/ro.po | 
- | [nb_NO]({{< ref "/f12/language/nb_NO.md" >}}) | 24 | 110 | 21.8 | /mnt/stockage/packages/f12/nautilus-terminal/locales/nb.po | 
+ | [cs](/f12/language/cs) | 110 | 110 | 100.0 | /mnt/stockage/packages/f12/nautilus-terminal/locales/cs.po | 
+ | [de](/f12/language/de) | 110 | 110 | 100.0 | /mnt/stockage/packages/f12/nautilus-terminal/locales/de.po | 
+ | [es](/f12/language/es) | 110 | 110 | 100.0 | /mnt/stockage/packages/f12/nautilus-terminal/locales/es.po | 
+ | [fr](/f12/language/fr) | 110 | 110 | 100.0 | /mnt/stockage/packages/f12/nautilus-terminal/locales/fr.po | 
+ | [hu](/f12/language/hu) | 110 | 110 | 100.0 | /mnt/stockage/packages/f12/nautilus-terminal/locales/hu.po | 
+ | [pl](/f12/language/pl) | 110 | 110 | 100.0 | /mnt/stockage/packages/f12/nautilus-terminal/locales/pl.po | 
+ | [pt_BR](/f12/language/pt_BR) | 110 | 110 | 100.0 | /mnt/stockage/packages/f12/nautilus-terminal/locales/pt_BR.po | 
+ | [tr](/f12/language/tr) | 110 | 110 | 100.0 | /mnt/stockage/packages/f12/nautilus-terminal/locales/tr.po | 
+ | [it](/f12/language/it) | 108 | 110 | 98.2 | /mnt/stockage/packages/f12/nautilus-terminal/locales/it.po | 
+ | [lv](/f12/language/lv) | 108 | 110 | 98.2 | /mnt/stockage/packages/f12/nautilus-terminal/locales/lv.po | 
+ | [pt](/f12/language/pt) | 103 | 110 | 93.6 | /mnt/stockage/packages/f12/nautilus-terminal/locales/pt.po | 
+ | [sv](/f12/language/sv) | 103 | 110 | 93.6 | /mnt/stockage/packages/f12/nautilus-terminal/locales/sv.po | 
+ | [bg](/f12/language/bg) | 84 | 110 | 76.4 | /mnt/stockage/packages/f12/nautilus-terminal/locales/bg.po | 
+ | [ru](/f12/language/ru) | 79 | 110 | 71.8 | /mnt/stockage/packages/f12/nautilus-terminal/locales/ru.po | 
+ | [he](/f12/language/he) | 72 | 110 | 65.5 | /mnt/stockage/packages/f12/nautilus-terminal/locales/he.po | 
+ | [nl](/f12/language/nl) | 63 | 110 | 57.3 | /mnt/stockage/packages/f12/nautilus-terminal/locales/nl.po | 
+ | [ro](/f12/language/ro) | 52 | 110 | 47.3 | /mnt/stockage/packages/f12/nautilus-terminal/locales/ro.po | 
+ | [nb_NO](/f12/language/nb_NO) | 24 | 110 | 21.8 | /mnt/stockage/packages/f12/nautilus-terminal/locales/nb.po | 
 {.sortable}
 
 

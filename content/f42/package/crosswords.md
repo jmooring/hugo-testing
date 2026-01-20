@@ -18,19 +18,19 @@ The package crosswords (version 0.3.16.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [az]({{< ref "/f42/language/az.md" >}}) | 1244 | 1244 | 100.0 | /mnt/stockage/packages/f42/crosswords/po/az.po | 
- | [pl]({{< ref "/f42/language/pl.md" >}}) | 1519 | 1519 | 100.0 | /mnt/stockage/packages/f42/crosswords/po/pl.po | 
- | [pt_BR]({{< ref "/f42/language/pt_BR.md" >}}) | 1229 | 1229 | 100.0 | /mnt/stockage/packages/f42/crosswords/po/pt_BR.po | 
- | [ru]({{< ref "/f42/language/ru.md" >}}) | 1244 | 1244 | 100.0 | /mnt/stockage/packages/f42/crosswords/po/ru.po | 
- | [sl]({{< ref "/f42/language/sl.md" >}}) | 1251 | 1251 | 100.0 | /mnt/stockage/packages/f42/crosswords/po/sl.po | 
- | [uk]({{< ref "/f42/language/uk.md" >}}) | 1251 | 1251 | 100.0 | /mnt/stockage/packages/f42/crosswords/po/uk.po | 
- | [es]({{< ref "/f42/language/es.md" >}}) | 1416 | 1519 | 93.2 | /mnt/stockage/packages/f42/crosswords/po/es.po | 
- | [it]({{< ref "/f42/language/it.md" >}}) | 1296 | 1519 | 85.3 | /mnt/stockage/packages/f42/crosswords/po/it.po | 
- | [nl]({{< ref "/f42/language/nl.md" >}}) | 1063 | 1519 | 70.0 | /mnt/stockage/packages/f42/crosswords/po/nl.po | 
- | [fr]({{< ref "/f42/language/fr.md" >}}) | 1047 | 1519 | 68.9 | /mnt/stockage/packages/f42/crosswords/po/fr.po | 
- | [de]({{< ref "/f42/language/de.md" >}}) | 986 | 1519 | 64.9 | /mnt/stockage/packages/f42/crosswords/po/de.po | 
- | [eu]({{< ref "/f42/language/eu.md" >}}) | 207 | 1229 | 16.8 | /mnt/stockage/packages/f42/crosswords/po/eu.po | 
- | [ka]({{< ref "/f42/language/ka.md" >}}) | 182 | 1251 | 14.5 | /mnt/stockage/packages/f42/crosswords/po/ka.po | 
+ | [az](/f42/language/az) | 1244 | 1244 | 100.0 | /mnt/stockage/packages/f42/crosswords/po/az.po | 
+ | [pl](/f42/language/pl) | 1519 | 1519 | 100.0 | /mnt/stockage/packages/f42/crosswords/po/pl.po | 
+ | [pt_BR](/f42/language/pt_BR) | 1229 | 1229 | 100.0 | /mnt/stockage/packages/f42/crosswords/po/pt_BR.po | 
+ | [ru](/f42/language/ru) | 1244 | 1244 | 100.0 | /mnt/stockage/packages/f42/crosswords/po/ru.po | 
+ | [sl](/f42/language/sl) | 1251 | 1251 | 100.0 | /mnt/stockage/packages/f42/crosswords/po/sl.po | 
+ | [uk](/f42/language/uk) | 1251 | 1251 | 100.0 | /mnt/stockage/packages/f42/crosswords/po/uk.po | 
+ | [es](/f42/language/es) | 1416 | 1519 | 93.2 | /mnt/stockage/packages/f42/crosswords/po/es.po | 
+ | [it](/f42/language/it) | 1296 | 1519 | 85.3 | /mnt/stockage/packages/f42/crosswords/po/it.po | 
+ | [nl](/f42/language/nl) | 1063 | 1519 | 70.0 | /mnt/stockage/packages/f42/crosswords/po/nl.po | 
+ | [fr](/f42/language/fr) | 1047 | 1519 | 68.9 | /mnt/stockage/packages/f42/crosswords/po/fr.po | 
+ | [de](/f42/language/de) | 986 | 1519 | 64.9 | /mnt/stockage/packages/f42/crosswords/po/de.po | 
+ | [eu](/f42/language/eu) | 207 | 1229 | 16.8 | /mnt/stockage/packages/f42/crosswords/po/eu.po | 
+ | [ka](/f42/language/ka) | 182 | 1251 | 14.5 | /mnt/stockage/packages/f42/crosswords/po/ka.po | 
 {.sortable}
 
 

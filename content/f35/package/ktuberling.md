@@ -18,65 +18,65 @@ The package ktuberling (version 21.12.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f35/language/ca.md" >}}) | 158 | 158 | 100.0 | /mnt/stockage/packages/f35/ktuberling/po/ca/ktuberling.po | 
- | [ca@valencia]({{< ref "/f35/language/ca@valencia.md" >}}) | 158 | 158 | 100.0 | /mnt/stockage/packages/f35/ktuberling/po/ca@valencia/ktuberling.po | 
- | [de]({{< ref "/f35/language/de.md" >}}) | 158 | 158 | 100.0 | /mnt/stockage/packages/f35/ktuberling/po/de/ktuberling.po | 
- | [el]({{< ref "/f35/language/el.md" >}}) | 158 | 158 | 100.0 | /mnt/stockage/packages/f35/ktuberling/po/el/ktuberling.po | 
- | [en_GB]({{< ref "/f35/language/en_GB.md" >}}) | 158 | 158 | 100.0 | /mnt/stockage/packages/f35/ktuberling/po/en_GB/ktuberling.po | 
- | [es]({{< ref "/f35/language/es.md" >}}) | 158 | 158 | 100.0 | /mnt/stockage/packages/f35/ktuberling/po/es/ktuberling.po | 
- | [fr]({{< ref "/f35/language/fr.md" >}}) | 158 | 158 | 100.0 | /mnt/stockage/packages/f35/ktuberling/po/fr/ktuberling.po | 
- | [it]({{< ref "/f35/language/it.md" >}}) | 158 | 158 | 100.0 | /mnt/stockage/packages/f35/ktuberling/po/it/ktuberling.po | 
- | [nl]({{< ref "/f35/language/nl.md" >}}) | 158 | 158 | 100.0 | /mnt/stockage/packages/f35/ktuberling/po/nl/ktuberling.po | 
- | [pl]({{< ref "/f35/language/pl.md" >}}) | 158 | 158 | 100.0 | /mnt/stockage/packages/f35/ktuberling/po/pl/ktuberling.po | 
- | [pt]({{< ref "/f35/language/pt.md" >}}) | 158 | 158 | 100.0 | /mnt/stockage/packages/f35/ktuberling/po/pt/ktuberling.po | 
- | [pt_BR]({{< ref "/f35/language/pt_BR.md" >}}) | 158 | 158 | 100.0 | /mnt/stockage/packages/f35/ktuberling/po/pt_BR/ktuberling.po | 
- | [sl]({{< ref "/f35/language/sl.md" >}}) | 158 | 158 | 100.0 | /mnt/stockage/packages/f35/ktuberling/po/sl/ktuberling.po | 
- | [sr]({{< ref "/f35/language/sr.md" >}}) | 158 | 158 | 100.0 | /mnt/stockage/packages/f35/ktuberling/po/sr/ktuberling.po | 
- | [sv]({{< ref "/f35/language/sv.md" >}}) | 158 | 158 | 100.0 | /mnt/stockage/packages/f35/ktuberling/po/sv/ktuberling.po | 
- | [uk]({{< ref "/f35/language/uk.md" >}}) | 158 | 158 | 100.0 | /mnt/stockage/packages/f35/ktuberling/po/uk/ktuberling.po | 
- | [zh_Hans]({{< ref "/f35/language/zh_Hans.md" >}}) | 158 | 158 | 100.0 | /mnt/stockage/packages/f35/ktuberling/po/zh_CN/ktuberling.po | 
- | [da]({{< ref "/f35/language/da.md" >}}) | 154 | 158 | 97.5 | /mnt/stockage/packages/f35/ktuberling/po/da/ktuberling.po | 
- | [fi]({{< ref "/f35/language/fi.md" >}}) | 154 | 158 | 97.5 | /mnt/stockage/packages/f35/ktuberling/po/fi/ktuberling.po | 
- | [gl]({{< ref "/f35/language/gl.md" >}}) | 154 | 158 | 97.5 | /mnt/stockage/packages/f35/ktuberling/po/gl/ktuberling.po | 
- | [id]({{< ref "/f35/language/id.md" >}}) | 154 | 158 | 97.5 | /mnt/stockage/packages/f35/ktuberling/po/id/ktuberling.po | 
- | [sk]({{< ref "/f35/language/sk.md" >}}) | 154 | 158 | 97.5 | /mnt/stockage/packages/f35/ktuberling/po/sk/ktuberling.po | 
- | [tr]({{< ref "/f35/language/tr.md" >}}) | 154 | 158 | 97.5 | /mnt/stockage/packages/f35/ktuberling/po/tr/ktuberling.po | 
- | [zh_Hant]({{< ref "/f35/language/zh_Hant.md" >}}) | 154 | 158 | 97.5 | /mnt/stockage/packages/f35/ktuberling/po/zh_TW/ktuberling.po | 
- | [bs]({{< ref "/f35/language/bs.md" >}}) | 149 | 158 | 94.3 | /mnt/stockage/packages/f35/ktuberling/po/bs/ktuberling.po | 
- | [ga]({{< ref "/f35/language/ga.md" >}}) | 149 | 158 | 94.3 | /mnt/stockage/packages/f35/ktuberling/po/ga/ktuberling.po | 
- | [hu]({{< ref "/f35/language/hu.md" >}}) | 149 | 158 | 94.3 | /mnt/stockage/packages/f35/ktuberling/po/hu/ktuberling.po | 
- | [kk]({{< ref "/f35/language/kk.md" >}}) | 149 | 158 | 94.3 | /mnt/stockage/packages/f35/ktuberling/po/kk/ktuberling.po | 
- | [km]({{< ref "/f35/language/km.md" >}}) | 149 | 158 | 94.3 | /mnt/stockage/packages/f35/ktuberling/po/km/ktuberling.po | 
- | [nb_NO]({{< ref "/f35/language/nb_NO.md" >}}) | 149 | 158 | 94.3 | /mnt/stockage/packages/f35/ktuberling/po/nb/ktuberling.po | 
- | [nds]({{< ref "/f35/language/nds.md" >}}) | 149 | 158 | 94.3 | /mnt/stockage/packages/f35/ktuberling/po/nds/ktuberling.po | 
- | [ru]({{< ref "/f35/language/ru.md" >}}) | 149 | 158 | 94.3 | /mnt/stockage/packages/f35/ktuberling/po/ru/ktuberling.po | 
- | [wa]({{< ref "/f35/language/wa.md" >}}) | 121 | 158 | 76.6 | /mnt/stockage/packages/f35/ktuberling/po/wa/ktuberling.po | 
- | [cs]({{< ref "/f35/language/cs.md" >}}) | 111 | 158 | 70.3 | /mnt/stockage/packages/f35/ktuberling/po/cs/ktuberling.po | 
- | [ko]({{< ref "/f35/language/ko.md" >}}) | 111 | 158 | 70.3 | /mnt/stockage/packages/f35/ktuberling/po/ko/ktuberling.po | 
- | [et]({{< ref "/f35/language/et.md" >}}) | 107 | 158 | 67.7 | /mnt/stockage/packages/f35/ktuberling/po/et/ktuberling.po | 
- | [eu]({{< ref "/f35/language/eu.md" >}}) | 107 | 158 | 67.7 | /mnt/stockage/packages/f35/ktuberling/po/eu/ktuberling.po | 
- | [nn]({{< ref "/f35/language/nn.md" >}}) | 107 | 158 | 67.7 | /mnt/stockage/packages/f35/ktuberling/po/nn/ktuberling.po | 
- | [fa]({{< ref "/f35/language/fa.md" >}}) | 102 | 158 | 64.6 | /mnt/stockage/packages/f35/ktuberling/po/fa/ktuberling.po | 
- | [lt]({{< ref "/f35/language/lt.md" >}}) | 102 | 158 | 64.6 | /mnt/stockage/packages/f35/ktuberling/po/lt/ktuberling.po | 
- | [ja]({{< ref "/f35/language/ja.md" >}}) | 100 | 158 | 63.3 | /mnt/stockage/packages/f35/ktuberling/po/ja/ktuberling.po | 
- | [lv]({{< ref "/f35/language/lv.md" >}}) | 100 | 158 | 63.3 | /mnt/stockage/packages/f35/ktuberling/po/lv/ktuberling.po | 
- | [ro]({{< ref "/f35/language/ro.md" >}}) | 84 | 158 | 53.2 | /mnt/stockage/packages/f35/ktuberling/po/ro/ktuberling.po | 
- | [ar]({{< ref "/f35/language/ar.md" >}}) | 67 | 158 | 42.4 | /mnt/stockage/packages/f35/ktuberling/po/ar/ktuberling.po | 
- | [hi]({{< ref "/f35/language/hi.md" >}}) | 67 | 158 | 42.4 | /mnt/stockage/packages/f35/ktuberling/po/hi/ktuberling.po | 
- | [mr]({{< ref "/f35/language/mr.md" >}}) | 62 | 158 | 39.2 | /mnt/stockage/packages/f35/ktuberling/po/mr/ktuberling.po | 
- | [hr]({{< ref "/f35/language/hr.md" >}}) | 60 | 158 | 38.0 | /mnt/stockage/packages/f35/ktuberling/po/hr/ktuberling.po | 
- | [eo]({{< ref "/f35/language/eo.md" >}}) | 54 | 158 | 34.2 | /mnt/stockage/packages/f35/ktuberling/po/eo/ktuberling.po | 
- | [he]({{< ref "/f35/language/he.md" >}}) | 42 | 158 | 26.6 | /mnt/stockage/packages/f35/ktuberling/po/he/ktuberling.po | 
- | [is]({{< ref "/f35/language/is.md" >}}) | 42 | 158 | 26.6 | /mnt/stockage/packages/f35/ktuberling/po/is/ktuberling.po | 
- | [ta]({{< ref "/f35/language/ta.md" >}}) | 42 | 158 | 26.6 | /mnt/stockage/packages/f35/ktuberling/po/ta/ktuberling.po | 
- | [tg]({{< ref "/f35/language/tg.md" >}}) | 42 | 158 | 26.6 | /mnt/stockage/packages/f35/ktuberling/po/tg/ktuberling.po | 
- | [bg]({{< ref "/f35/language/bg.md" >}}) | 38 | 158 | 24.1 | /mnt/stockage/packages/f35/ktuberling/po/bg/ktuberling.po | 
- | [pa]({{< ref "/f35/language/pa.md" >}}) | 28 | 158 | 17.7 | /mnt/stockage/packages/f35/ktuberling/po/pa/ktuberling.po | 
- | [ug]({{< ref "/f35/language/ug.md" >}}) | 28 | 158 | 17.7 | /mnt/stockage/packages/f35/ktuberling/po/ug/ktuberling.po | 
- | [sq]({{< ref "/f35/language/sq.md" >}}) | 27 | 158 | 17.1 | /mnt/stockage/packages/f35/ktuberling/po/sq/ktuberling.po | 
- | [be]({{< ref "/f35/language/be.md" >}}) | 26 | 158 | 16.5 | /mnt/stockage/packages/f35/ktuberling/po/be/ktuberling.po | 
- | [ml]({{< ref "/f35/language/ml.md" >}}) | 2 | 158 | 1.3 | /mnt/stockage/packages/f35/ktuberling/po/ml/ktuberling.po | 
- | [se]({{< ref "/f35/language/se.md" >}}) | 2 | 158 | 1.3 | /mnt/stockage/packages/f35/ktuberling/po/se/ktuberling.po | 
+ | [ca](/f35/language/ca) | 158 | 158 | 100.0 | /mnt/stockage/packages/f35/ktuberling/po/ca/ktuberling.po | 
+ | [ca@valencia](/f35/language/ca@valencia) | 158 | 158 | 100.0 | /mnt/stockage/packages/f35/ktuberling/po/ca@valencia/ktuberling.po | 
+ | [de](/f35/language/de) | 158 | 158 | 100.0 | /mnt/stockage/packages/f35/ktuberling/po/de/ktuberling.po | 
+ | [el](/f35/language/el) | 158 | 158 | 100.0 | /mnt/stockage/packages/f35/ktuberling/po/el/ktuberling.po | 
+ | [en_GB](/f35/language/en_GB) | 158 | 158 | 100.0 | /mnt/stockage/packages/f35/ktuberling/po/en_GB/ktuberling.po | 
+ | [es](/f35/language/es) | 158 | 158 | 100.0 | /mnt/stockage/packages/f35/ktuberling/po/es/ktuberling.po | 
+ | [fr](/f35/language/fr) | 158 | 158 | 100.0 | /mnt/stockage/packages/f35/ktuberling/po/fr/ktuberling.po | 
+ | [it](/f35/language/it) | 158 | 158 | 100.0 | /mnt/stockage/packages/f35/ktuberling/po/it/ktuberling.po | 
+ | [nl](/f35/language/nl) | 158 | 158 | 100.0 | /mnt/stockage/packages/f35/ktuberling/po/nl/ktuberling.po | 
+ | [pl](/f35/language/pl) | 158 | 158 | 100.0 | /mnt/stockage/packages/f35/ktuberling/po/pl/ktuberling.po | 
+ | [pt](/f35/language/pt) | 158 | 158 | 100.0 | /mnt/stockage/packages/f35/ktuberling/po/pt/ktuberling.po | 
+ | [pt_BR](/f35/language/pt_BR) | 158 | 158 | 100.0 | /mnt/stockage/packages/f35/ktuberling/po/pt_BR/ktuberling.po | 
+ | [sl](/f35/language/sl) | 158 | 158 | 100.0 | /mnt/stockage/packages/f35/ktuberling/po/sl/ktuberling.po | 
+ | [sr](/f35/language/sr) | 158 | 158 | 100.0 | /mnt/stockage/packages/f35/ktuberling/po/sr/ktuberling.po | 
+ | [sv](/f35/language/sv) | 158 | 158 | 100.0 | /mnt/stockage/packages/f35/ktuberling/po/sv/ktuberling.po | 
+ | [uk](/f35/language/uk) | 158 | 158 | 100.0 | /mnt/stockage/packages/f35/ktuberling/po/uk/ktuberling.po | 
+ | [zh_Hans](/f35/language/zh_Hans) | 158 | 158 | 100.0 | /mnt/stockage/packages/f35/ktuberling/po/zh_CN/ktuberling.po | 
+ | [da](/f35/language/da) | 154 | 158 | 97.5 | /mnt/stockage/packages/f35/ktuberling/po/da/ktuberling.po | 
+ | [fi](/f35/language/fi) | 154 | 158 | 97.5 | /mnt/stockage/packages/f35/ktuberling/po/fi/ktuberling.po | 
+ | [gl](/f35/language/gl) | 154 | 158 | 97.5 | /mnt/stockage/packages/f35/ktuberling/po/gl/ktuberling.po | 
+ | [id](/f35/language/id) | 154 | 158 | 97.5 | /mnt/stockage/packages/f35/ktuberling/po/id/ktuberling.po | 
+ | [sk](/f35/language/sk) | 154 | 158 | 97.5 | /mnt/stockage/packages/f35/ktuberling/po/sk/ktuberling.po | 
+ | [tr](/f35/language/tr) | 154 | 158 | 97.5 | /mnt/stockage/packages/f35/ktuberling/po/tr/ktuberling.po | 
+ | [zh_Hant](/f35/language/zh_Hant) | 154 | 158 | 97.5 | /mnt/stockage/packages/f35/ktuberling/po/zh_TW/ktuberling.po | 
+ | [bs](/f35/language/bs) | 149 | 158 | 94.3 | /mnt/stockage/packages/f35/ktuberling/po/bs/ktuberling.po | 
+ | [ga](/f35/language/ga) | 149 | 158 | 94.3 | /mnt/stockage/packages/f35/ktuberling/po/ga/ktuberling.po | 
+ | [hu](/f35/language/hu) | 149 | 158 | 94.3 | /mnt/stockage/packages/f35/ktuberling/po/hu/ktuberling.po | 
+ | [kk](/f35/language/kk) | 149 | 158 | 94.3 | /mnt/stockage/packages/f35/ktuberling/po/kk/ktuberling.po | 
+ | [km](/f35/language/km) | 149 | 158 | 94.3 | /mnt/stockage/packages/f35/ktuberling/po/km/ktuberling.po | 
+ | [nb_NO](/f35/language/nb_NO) | 149 | 158 | 94.3 | /mnt/stockage/packages/f35/ktuberling/po/nb/ktuberling.po | 
+ | [nds](/f35/language/nds) | 149 | 158 | 94.3 | /mnt/stockage/packages/f35/ktuberling/po/nds/ktuberling.po | 
+ | [ru](/f35/language/ru) | 149 | 158 | 94.3 | /mnt/stockage/packages/f35/ktuberling/po/ru/ktuberling.po | 
+ | [wa](/f35/language/wa) | 121 | 158 | 76.6 | /mnt/stockage/packages/f35/ktuberling/po/wa/ktuberling.po | 
+ | [cs](/f35/language/cs) | 111 | 158 | 70.3 | /mnt/stockage/packages/f35/ktuberling/po/cs/ktuberling.po | 
+ | [ko](/f35/language/ko) | 111 | 158 | 70.3 | /mnt/stockage/packages/f35/ktuberling/po/ko/ktuberling.po | 
+ | [et](/f35/language/et) | 107 | 158 | 67.7 | /mnt/stockage/packages/f35/ktuberling/po/et/ktuberling.po | 
+ | [eu](/f35/language/eu) | 107 | 158 | 67.7 | /mnt/stockage/packages/f35/ktuberling/po/eu/ktuberling.po | 
+ | [nn](/f35/language/nn) | 107 | 158 | 67.7 | /mnt/stockage/packages/f35/ktuberling/po/nn/ktuberling.po | 
+ | [fa](/f35/language/fa) | 102 | 158 | 64.6 | /mnt/stockage/packages/f35/ktuberling/po/fa/ktuberling.po | 
+ | [lt](/f35/language/lt) | 102 | 158 | 64.6 | /mnt/stockage/packages/f35/ktuberling/po/lt/ktuberling.po | 
+ | [ja](/f35/language/ja) | 100 | 158 | 63.3 | /mnt/stockage/packages/f35/ktuberling/po/ja/ktuberling.po | 
+ | [lv](/f35/language/lv) | 100 | 158 | 63.3 | /mnt/stockage/packages/f35/ktuberling/po/lv/ktuberling.po | 
+ | [ro](/f35/language/ro) | 84 | 158 | 53.2 | /mnt/stockage/packages/f35/ktuberling/po/ro/ktuberling.po | 
+ | [ar](/f35/language/ar) | 67 | 158 | 42.4 | /mnt/stockage/packages/f35/ktuberling/po/ar/ktuberling.po | 
+ | [hi](/f35/language/hi) | 67 | 158 | 42.4 | /mnt/stockage/packages/f35/ktuberling/po/hi/ktuberling.po | 
+ | [mr](/f35/language/mr) | 62 | 158 | 39.2 | /mnt/stockage/packages/f35/ktuberling/po/mr/ktuberling.po | 
+ | [hr](/f35/language/hr) | 60 | 158 | 38.0 | /mnt/stockage/packages/f35/ktuberling/po/hr/ktuberling.po | 
+ | [eo](/f35/language/eo) | 54 | 158 | 34.2 | /mnt/stockage/packages/f35/ktuberling/po/eo/ktuberling.po | 
+ | [he](/f35/language/he) | 42 | 158 | 26.6 | /mnt/stockage/packages/f35/ktuberling/po/he/ktuberling.po | 
+ | [is](/f35/language/is) | 42 | 158 | 26.6 | /mnt/stockage/packages/f35/ktuberling/po/is/ktuberling.po | 
+ | [ta](/f35/language/ta) | 42 | 158 | 26.6 | /mnt/stockage/packages/f35/ktuberling/po/ta/ktuberling.po | 
+ | [tg](/f35/language/tg) | 42 | 158 | 26.6 | /mnt/stockage/packages/f35/ktuberling/po/tg/ktuberling.po | 
+ | [bg](/f35/language/bg) | 38 | 158 | 24.1 | /mnt/stockage/packages/f35/ktuberling/po/bg/ktuberling.po | 
+ | [pa](/f35/language/pa) | 28 | 158 | 17.7 | /mnt/stockage/packages/f35/ktuberling/po/pa/ktuberling.po | 
+ | [ug](/f35/language/ug) | 28 | 158 | 17.7 | /mnt/stockage/packages/f35/ktuberling/po/ug/ktuberling.po | 
+ | [sq](/f35/language/sq) | 27 | 158 | 17.1 | /mnt/stockage/packages/f35/ktuberling/po/sq/ktuberling.po | 
+ | [be](/f35/language/be) | 26 | 158 | 16.5 | /mnt/stockage/packages/f35/ktuberling/po/be/ktuberling.po | 
+ | [ml](/f35/language/ml) | 2 | 158 | 1.3 | /mnt/stockage/packages/f35/ktuberling/po/ml/ktuberling.po | 
+ | [se](/f35/language/se) | 2 | 158 | 1.3 | /mnt/stockage/packages/f35/ktuberling/po/se/ktuberling.po | 
 {.sortable}
 
 

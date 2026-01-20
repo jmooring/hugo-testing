@@ -18,11 +18,11 @@ The package vdr-graphlcd (version 1.0.8):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f42/language/de.md" >}}) | 65 | 65 | 100.0 | /mnt/stockage/packages/f42/vdr-graphlcd/po/de_DE.po | 
- | [fr]({{< ref "/f42/language/fr.md" >}}) | 65 | 65 | 100.0 | /mnt/stockage/packages/f42/vdr-graphlcd/po/fr_FR.po | 
- | [ro]({{< ref "/f42/language/ro.md" >}}) | 65 | 65 | 100.0 | /mnt/stockage/packages/f42/vdr-graphlcd/po/ro_RO.po | 
- | [it]({{< ref "/f42/language/it.md" >}}) | 61 | 65 | 93.8 | /mnt/stockage/packages/f42/vdr-graphlcd/po/it_IT.po | 
- | [fi]({{< ref "/f42/language/fi.md" >}}) | 54 | 65 | 83.1 | /mnt/stockage/packages/f42/vdr-graphlcd/po/fi_FI.po | 
+ | [de](/f42/language/de) | 65 | 65 | 100.0 | /mnt/stockage/packages/f42/vdr-graphlcd/po/de_DE.po | 
+ | [fr](/f42/language/fr) | 65 | 65 | 100.0 | /mnt/stockage/packages/f42/vdr-graphlcd/po/fr_FR.po | 
+ | [ro](/f42/language/ro) | 65 | 65 | 100.0 | /mnt/stockage/packages/f42/vdr-graphlcd/po/ro_RO.po | 
+ | [it](/f42/language/it) | 61 | 65 | 93.8 | /mnt/stockage/packages/f42/vdr-graphlcd/po/it_IT.po | 
+ | [fi](/f42/language/fi) | 54 | 65 | 83.1 | /mnt/stockage/packages/f42/vdr-graphlcd/po/fi_FI.po | 
 {.sortable}
 
 

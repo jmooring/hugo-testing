@@ -18,26 +18,26 @@ The package openstack-nova (version 2012.2.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [en_US]({{< ref "/f18/language/en_US.md" >}}) | 11421 | 11749 | 97.2 | /mnt/stockage/packages/f18/openstack-nova/nova/locale/en_US/LC_MESSAGES/nova.po | 
- | [cs]({{< ref "/f18/language/cs.md" >}}) | 5565 | 11749 | 47.4 | /mnt/stockage/packages/f18/openstack-nova/nova/locale/cs/LC_MESSAGES/nova.po | 
- | [zh_Hans]({{< ref "/f18/language/zh_Hans.md" >}}) | 5565 | 11749 | 47.4 | /mnt/stockage/packages/f18/openstack-nova/nova/locale/zh_CN/LC_MESSAGES/nova.po | 
- | [ru]({{< ref "/f18/language/ru.md" >}}) | 3272 | 11749 | 27.8 | /mnt/stockage/packages/f18/openstack-nova/nova/locale/ru/LC_MESSAGES/nova.po | 
- | [fr]({{< ref "/f18/language/fr.md" >}}) | 1652 | 11749 | 14.1 | /mnt/stockage/packages/f18/openstack-nova/nova/locale/fr/LC_MESSAGES/nova.po | 
- | [ja]({{< ref "/f18/language/ja.md" >}}) | 955 | 11749 | 8.1 | /mnt/stockage/packages/f18/openstack-nova/nova/locale/ja/LC_MESSAGES/nova.po | 
- | [en_AU]({{< ref "/f18/language/en_AU.md" >}}) | 951 | 11749 | 8.1 | /mnt/stockage/packages/f18/openstack-nova/nova/locale/en_AU/LC_MESSAGES/nova.po | 
- | [es]({{< ref "/f18/language/es.md" >}}) | 864 | 11749 | 7.4 | /mnt/stockage/packages/f18/openstack-nova/nova/locale/es/LC_MESSAGES/nova.po | 
- | [pt_BR]({{< ref "/f18/language/pt_BR.md" >}}) | 849 | 11749 | 7.2 | /mnt/stockage/packages/f18/openstack-nova/nova/locale/pt_BR/LC_MESSAGES/nova.po | 
- | [en_GB]({{< ref "/f18/language/en_GB.md" >}}) | 549 | 11749 | 4.7 | /mnt/stockage/packages/f18/openstack-nova/nova/locale/en_GB/LC_MESSAGES/nova.po | 
- | [it]({{< ref "/f18/language/it.md" >}}) | 283 | 11749 | 2.4 | /mnt/stockage/packages/f18/openstack-nova/nova/locale/it/LC_MESSAGES/nova.po | 
- | [nb_NO]({{< ref "/f18/language/nb_NO.md" >}}) | 258 | 11749 | 2.2 | /mnt/stockage/packages/f18/openstack-nova/nova/locale/nb/LC_MESSAGES/nova.po | 
- | [zh_Hant]({{< ref "/f18/language/zh_Hant.md" >}}) | 132 | 11749 | 1.1 | /mnt/stockage/packages/f18/openstack-nova/nova/locale/zh_TW/LC_MESSAGES/nova.po | 
- | [ko]({{< ref "/f18/language/ko.md" >}}) | 121 | 11749 | 1.0 | /mnt/stockage/packages/f18/openstack-nova/nova/locale/ko/LC_MESSAGES/nova.po | 
- | [de]({{< ref "/f18/language/de.md" >}}) | 112 | 11749 | 1.0 | /mnt/stockage/packages/f18/openstack-nova/nova/locale/de/LC_MESSAGES/nova.po | 
- | [uk]({{< ref "/f18/language/uk.md" >}}) | 57 | 11749 | 0.5 | /mnt/stockage/packages/f18/openstack-nova/nova/locale/uk/LC_MESSAGES/nova.po | 
- | [tl]({{< ref "/f18/language/tl.md" >}}) | 25 | 11749 | 0.2 | /mnt/stockage/packages/f18/openstack-nova/nova/locale/tl/LC_MESSAGES/nova.po | 
- | [da]({{< ref "/f18/language/da.md" >}}) | 8 | 11749 | 0.1 | /mnt/stockage/packages/f18/openstack-nova/nova/locale/da/LC_MESSAGES/nova.po | 
- | [bs]({{< ref "/f18/language/bs.md" >}}) | 5 | 11749 | 0.0 | /mnt/stockage/packages/f18/openstack-nova/nova/locale/bs/LC_MESSAGES/nova.po | 
- | [tr]({{< ref "/f18/language/tr.md" >}}) | 0 | 11749 | 0.0 | /mnt/stockage/packages/f18/openstack-nova/nova/locale/tr/LC_MESSAGES/nova.po | 
+ | [en_US](/f18/language/en_US) | 11421 | 11749 | 97.2 | /mnt/stockage/packages/f18/openstack-nova/nova/locale/en_US/LC_MESSAGES/nova.po | 
+ | [cs](/f18/language/cs) | 5565 | 11749 | 47.4 | /mnt/stockage/packages/f18/openstack-nova/nova/locale/cs/LC_MESSAGES/nova.po | 
+ | [zh_Hans](/f18/language/zh_Hans) | 5565 | 11749 | 47.4 | /mnt/stockage/packages/f18/openstack-nova/nova/locale/zh_CN/LC_MESSAGES/nova.po | 
+ | [ru](/f18/language/ru) | 3272 | 11749 | 27.8 | /mnt/stockage/packages/f18/openstack-nova/nova/locale/ru/LC_MESSAGES/nova.po | 
+ | [fr](/f18/language/fr) | 1652 | 11749 | 14.1 | /mnt/stockage/packages/f18/openstack-nova/nova/locale/fr/LC_MESSAGES/nova.po | 
+ | [ja](/f18/language/ja) | 955 | 11749 | 8.1 | /mnt/stockage/packages/f18/openstack-nova/nova/locale/ja/LC_MESSAGES/nova.po | 
+ | [en_AU](/f18/language/en_AU) | 951 | 11749 | 8.1 | /mnt/stockage/packages/f18/openstack-nova/nova/locale/en_AU/LC_MESSAGES/nova.po | 
+ | [es](/f18/language/es) | 864 | 11749 | 7.4 | /mnt/stockage/packages/f18/openstack-nova/nova/locale/es/LC_MESSAGES/nova.po | 
+ | [pt_BR](/f18/language/pt_BR) | 849 | 11749 | 7.2 | /mnt/stockage/packages/f18/openstack-nova/nova/locale/pt_BR/LC_MESSAGES/nova.po | 
+ | [en_GB](/f18/language/en_GB) | 549 | 11749 | 4.7 | /mnt/stockage/packages/f18/openstack-nova/nova/locale/en_GB/LC_MESSAGES/nova.po | 
+ | [it](/f18/language/it) | 283 | 11749 | 2.4 | /mnt/stockage/packages/f18/openstack-nova/nova/locale/it/LC_MESSAGES/nova.po | 
+ | [nb_NO](/f18/language/nb_NO) | 258 | 11749 | 2.2 | /mnt/stockage/packages/f18/openstack-nova/nova/locale/nb/LC_MESSAGES/nova.po | 
+ | [zh_Hant](/f18/language/zh_Hant) | 132 | 11749 | 1.1 | /mnt/stockage/packages/f18/openstack-nova/nova/locale/zh_TW/LC_MESSAGES/nova.po | 
+ | [ko](/f18/language/ko) | 121 | 11749 | 1.0 | /mnt/stockage/packages/f18/openstack-nova/nova/locale/ko/LC_MESSAGES/nova.po | 
+ | [de](/f18/language/de) | 112 | 11749 | 1.0 | /mnt/stockage/packages/f18/openstack-nova/nova/locale/de/LC_MESSAGES/nova.po | 
+ | [uk](/f18/language/uk) | 57 | 11749 | 0.5 | /mnt/stockage/packages/f18/openstack-nova/nova/locale/uk/LC_MESSAGES/nova.po | 
+ | [tl](/f18/language/tl) | 25 | 11749 | 0.2 | /mnt/stockage/packages/f18/openstack-nova/nova/locale/tl/LC_MESSAGES/nova.po | 
+ | [da](/f18/language/da) | 8 | 11749 | 0.1 | /mnt/stockage/packages/f18/openstack-nova/nova/locale/da/LC_MESSAGES/nova.po | 
+ | [bs](/f18/language/bs) | 5 | 11749 | 0.0 | /mnt/stockage/packages/f18/openstack-nova/nova/locale/bs/LC_MESSAGES/nova.po | 
+ | [tr](/f18/language/tr) | 0 | 11749 | 0.0 | /mnt/stockage/packages/f18/openstack-nova/nova/locale/tr/LC_MESSAGES/nova.po | 
 {.sortable}
 
 

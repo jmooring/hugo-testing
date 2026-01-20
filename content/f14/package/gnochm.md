@@ -18,23 +18,23 @@ The package gnochm (version 0.9.11):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [be]({{< ref "/f14/language/be.md" >}}) | 578 | 581 | 99.5 | /mnt/stockage/packages/f14/gnochm/po/be.po | 
- | [hu]({{< ref "/f14/language/hu.md" >}}) | 578 | 581 | 99.5 | /mnt/stockage/packages/f14/gnochm/po/hu.po | 
- | [sv]({{< ref "/f14/language/sv.md" >}}) | 578 | 581 | 99.5 | /mnt/stockage/packages/f14/gnochm/po/sv.po | 
- | [de]({{< ref "/f14/language/de.md" >}}) | 576 | 581 | 99.1 | /mnt/stockage/packages/f14/gnochm/po/de.po | 
- | [fr]({{< ref "/f14/language/fr.md" >}}) | 576 | 581 | 99.1 | /mnt/stockage/packages/f14/gnochm/po/fr.po | 
- | [cs]({{< ref "/f14/language/cs.md" >}}) | 562 | 581 | 96.7 | /mnt/stockage/packages/f14/gnochm/po/cs.po | 
- | [es]({{< ref "/f14/language/es.md" >}}) | 562 | 581 | 96.7 | /mnt/stockage/packages/f14/gnochm/po/es.po | 
- | [it]({{< ref "/f14/language/it.md" >}}) | 560 | 581 | 96.4 | /mnt/stockage/packages/f14/gnochm/po/it.po | 
- | [pt_BR]({{< ref "/f14/language/pt_BR.md" >}}) | 560 | 581 | 96.4 | /mnt/stockage/packages/f14/gnochm/po/pt_BR.po | 
- | [tr]({{< ref "/f14/language/tr.md" >}}) | 560 | 581 | 96.4 | /mnt/stockage/packages/f14/gnochm/po/tr.po | 
- | [zh_Hans]({{< ref "/f14/language/zh_Hans.md" >}}) | 560 | 581 | 96.4 | /mnt/stockage/packages/f14/gnochm/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f14/language/zh_Hant.md" >}}) | 560 | 581 | 96.4 | /mnt/stockage/packages/f14/gnochm/po/zh_TW.po | 
- | [ja]({{< ref "/f14/language/ja.md" >}}) | 547 | 581 | 94.1 | /mnt/stockage/packages/f14/gnochm/po/ja.po | 
- | [vi]({{< ref "/f14/language/vi.md" >}}) | 536 | 581 | 92.3 | /mnt/stockage/packages/f14/gnochm/po/vi.po | 
- | [ru]({{< ref "/f14/language/ru.md" >}}) | 516 | 581 | 88.8 | /mnt/stockage/packages/f14/gnochm/po/ru.po | 
- | [el]({{< ref "/f14/language/el.md" >}}) | 427 | 581 | 73.5 | /mnt/stockage/packages/f14/gnochm/po/el.po | 
- | [pl]({{< ref "/f14/language/pl.md" >}}) | 417 | 581 | 71.8 | /mnt/stockage/packages/f14/gnochm/po/pl.po | 
+ | [be](/f14/language/be) | 578 | 581 | 99.5 | /mnt/stockage/packages/f14/gnochm/po/be.po | 
+ | [hu](/f14/language/hu) | 578 | 581 | 99.5 | /mnt/stockage/packages/f14/gnochm/po/hu.po | 
+ | [sv](/f14/language/sv) | 578 | 581 | 99.5 | /mnt/stockage/packages/f14/gnochm/po/sv.po | 
+ | [de](/f14/language/de) | 576 | 581 | 99.1 | /mnt/stockage/packages/f14/gnochm/po/de.po | 
+ | [fr](/f14/language/fr) | 576 | 581 | 99.1 | /mnt/stockage/packages/f14/gnochm/po/fr.po | 
+ | [cs](/f14/language/cs) | 562 | 581 | 96.7 | /mnt/stockage/packages/f14/gnochm/po/cs.po | 
+ | [es](/f14/language/es) | 562 | 581 | 96.7 | /mnt/stockage/packages/f14/gnochm/po/es.po | 
+ | [it](/f14/language/it) | 560 | 581 | 96.4 | /mnt/stockage/packages/f14/gnochm/po/it.po | 
+ | [pt_BR](/f14/language/pt_BR) | 560 | 581 | 96.4 | /mnt/stockage/packages/f14/gnochm/po/pt_BR.po | 
+ | [tr](/f14/language/tr) | 560 | 581 | 96.4 | /mnt/stockage/packages/f14/gnochm/po/tr.po | 
+ | [zh_Hans](/f14/language/zh_Hans) | 560 | 581 | 96.4 | /mnt/stockage/packages/f14/gnochm/po/zh_CN.po | 
+ | [zh_Hant](/f14/language/zh_Hant) | 560 | 581 | 96.4 | /mnt/stockage/packages/f14/gnochm/po/zh_TW.po | 
+ | [ja](/f14/language/ja) | 547 | 581 | 94.1 | /mnt/stockage/packages/f14/gnochm/po/ja.po | 
+ | [vi](/f14/language/vi) | 536 | 581 | 92.3 | /mnt/stockage/packages/f14/gnochm/po/vi.po | 
+ | [ru](/f14/language/ru) | 516 | 581 | 88.8 | /mnt/stockage/packages/f14/gnochm/po/ru.po | 
+ | [el](/f14/language/el) | 427 | 581 | 73.5 | /mnt/stockage/packages/f14/gnochm/po/el.po | 
+ | [pl](/f14/language/pl) | 417 | 581 | 71.8 | /mnt/stockage/packages/f14/gnochm/po/pl.po | 
 {.sortable}
 
 

@@ -18,28 +18,28 @@ The package publican-jboss (version 2.6):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [bn_IN]({{< ref "/f20/language/bn_IN.md" >}}) | 120 | 232 | 51.7 | /mnt/stockage/packages/f20/publican-jboss/bn-IN/Feedback.po | 
- | [de]({{< ref "/f20/language/de.md" >}}) | 120 | 232 | 51.7 | /mnt/stockage/packages/f20/publican-jboss/de-DE/Feedback.po | 
- | [es]({{< ref "/f20/language/es.md" >}}) | 120 | 232 | 51.7 | /mnt/stockage/packages/f20/publican-jboss/es-ES/Feedback.po | 
- | [fr]({{< ref "/f20/language/fr.md" >}}) | 120 | 232 | 51.7 | /mnt/stockage/packages/f20/publican-jboss/fr-FR/Feedback.po | 
- | [gu_IN]({{< ref "/f20/language/gu_IN.md" >}}) | 120 | 232 | 51.7 | /mnt/stockage/packages/f20/publican-jboss/gu-IN/Feedback.po | 
- | [hi]({{< ref "/f20/language/hi.md" >}}) | 120 | 232 | 51.7 | /mnt/stockage/packages/f20/publican-jboss/hi-IN/Feedback.po | 
- | [it]({{< ref "/f20/language/it.md" >}}) | 120 | 232 | 51.7 | /mnt/stockage/packages/f20/publican-jboss/it-IT/Feedback.po | 
- | [ja]({{< ref "/f20/language/ja.md" >}}) | 120 | 232 | 51.7 | /mnt/stockage/packages/f20/publican-jboss/ja-JP/Feedback.po | 
- | [kn]({{< ref "/f20/language/kn.md" >}}) | 120 | 232 | 51.7 | /mnt/stockage/packages/f20/publican-jboss/kn-IN/Feedback.po | 
- | [ko]({{< ref "/f20/language/ko.md" >}}) | 120 | 232 | 51.7 | /mnt/stockage/packages/f20/publican-jboss/ko-KR/Feedback.po | 
- | [mr]({{< ref "/f20/language/mr.md" >}}) | 120 | 232 | 51.7 | /mnt/stockage/packages/f20/publican-jboss/mr-IN/Feedback.po | 
- | [or]({{< ref "/f20/language/or.md" >}}) | 120 | 232 | 51.7 | /mnt/stockage/packages/f20/publican-jboss/or-IN/Feedback.po | 
- | [pa]({{< ref "/f20/language/pa.md" >}}) | 120 | 232 | 51.7 | /mnt/stockage/packages/f20/publican-jboss/pa-IN/Feedback.po | 
- | [pt]({{< ref "/f20/language/pt.md" >}}) | 120 | 232 | 51.7 | /mnt/stockage/packages/f20/publican-jboss/pt-BR/Feedback.po | 
- | [ru]({{< ref "/f20/language/ru.md" >}}) | 120 | 232 | 51.7 | /mnt/stockage/packages/f20/publican-jboss/ru-RU/Feedback.po | 
- | [ta]({{< ref "/f20/language/ta.md" >}}) | 120 | 232 | 51.7 | /mnt/stockage/packages/f20/publican-jboss/ta-IN/Feedback.po | 
- | [te]({{< ref "/f20/language/te.md" >}}) | 120 | 232 | 51.7 | /mnt/stockage/packages/f20/publican-jboss/te-IN/Feedback.po | 
- | [zh_Hans]({{< ref "/f20/language/zh_Hans.md" >}}) | 120 | 232 | 51.7 | /mnt/stockage/packages/f20/publican-jboss/zh-CN/Feedback.po | 
- | [zh_Hant]({{< ref "/f20/language/zh_Hant.md" >}}) | 120 | 232 | 51.7 | /mnt/stockage/packages/f20/publican-jboss/zh-TW/Feedback.po | 
- | [ml]({{< ref "/f20/language/ml.md" >}}) | 15 | 232 | 6.5 | /mnt/stockage/packages/f20/publican-jboss/ml-IN/Feedback.po | 
- | [as]({{< ref "/f20/language/as.md" >}}) | 9 | 232 | 3.9 | /mnt/stockage/packages/f20/publican-jboss/as-IN/Feedback.po | 
- | [si]({{< ref "/f20/language/si.md" >}}) | 0 | 232 | 0.0 | /mnt/stockage/packages/f20/publican-jboss/si-LK/Feedback.po | 
+ | [bn_IN](/f20/language/bn_IN) | 120 | 232 | 51.7 | /mnt/stockage/packages/f20/publican-jboss/bn-IN/Feedback.po | 
+ | [de](/f20/language/de) | 120 | 232 | 51.7 | /mnt/stockage/packages/f20/publican-jboss/de-DE/Feedback.po | 
+ | [es](/f20/language/es) | 120 | 232 | 51.7 | /mnt/stockage/packages/f20/publican-jboss/es-ES/Feedback.po | 
+ | [fr](/f20/language/fr) | 120 | 232 | 51.7 | /mnt/stockage/packages/f20/publican-jboss/fr-FR/Feedback.po | 
+ | [gu_IN](/f20/language/gu_IN) | 120 | 232 | 51.7 | /mnt/stockage/packages/f20/publican-jboss/gu-IN/Feedback.po | 
+ | [hi](/f20/language/hi) | 120 | 232 | 51.7 | /mnt/stockage/packages/f20/publican-jboss/hi-IN/Feedback.po | 
+ | [it](/f20/language/it) | 120 | 232 | 51.7 | /mnt/stockage/packages/f20/publican-jboss/it-IT/Feedback.po | 
+ | [ja](/f20/language/ja) | 120 | 232 | 51.7 | /mnt/stockage/packages/f20/publican-jboss/ja-JP/Feedback.po | 
+ | [kn](/f20/language/kn) | 120 | 232 | 51.7 | /mnt/stockage/packages/f20/publican-jboss/kn-IN/Feedback.po | 
+ | [ko](/f20/language/ko) | 120 | 232 | 51.7 | /mnt/stockage/packages/f20/publican-jboss/ko-KR/Feedback.po | 
+ | [mr](/f20/language/mr) | 120 | 232 | 51.7 | /mnt/stockage/packages/f20/publican-jboss/mr-IN/Feedback.po | 
+ | [or](/f20/language/or) | 120 | 232 | 51.7 | /mnt/stockage/packages/f20/publican-jboss/or-IN/Feedback.po | 
+ | [pa](/f20/language/pa) | 120 | 232 | 51.7 | /mnt/stockage/packages/f20/publican-jboss/pa-IN/Feedback.po | 
+ | [pt](/f20/language/pt) | 120 | 232 | 51.7 | /mnt/stockage/packages/f20/publican-jboss/pt-BR/Feedback.po | 
+ | [ru](/f20/language/ru) | 120 | 232 | 51.7 | /mnt/stockage/packages/f20/publican-jboss/ru-RU/Feedback.po | 
+ | [ta](/f20/language/ta) | 120 | 232 | 51.7 | /mnt/stockage/packages/f20/publican-jboss/ta-IN/Feedback.po | 
+ | [te](/f20/language/te) | 120 | 232 | 51.7 | /mnt/stockage/packages/f20/publican-jboss/te-IN/Feedback.po | 
+ | [zh_Hans](/f20/language/zh_Hans) | 120 | 232 | 51.7 | /mnt/stockage/packages/f20/publican-jboss/zh-CN/Feedback.po | 
+ | [zh_Hant](/f20/language/zh_Hant) | 120 | 232 | 51.7 | /mnt/stockage/packages/f20/publican-jboss/zh-TW/Feedback.po | 
+ | [ml](/f20/language/ml) | 15 | 232 | 6.5 | /mnt/stockage/packages/f20/publican-jboss/ml-IN/Feedback.po | 
+ | [as](/f20/language/as) | 9 | 232 | 3.9 | /mnt/stockage/packages/f20/publican-jboss/as-IN/Feedback.po | 
+ | [si](/f20/language/si) | 0 | 232 | 0.0 | /mnt/stockage/packages/f20/publican-jboss/si-LK/Feedback.po | 
 {.sortable}
 
 

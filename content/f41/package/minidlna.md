@@ -18,19 +18,19 @@ The package minidlna (version 1.3.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [da]({{< ref "/f41/language/da.md" >}}) | 40 | 40 | 100.0 | /mnt/stockage/packages/f41/minidlna/po/da.po | 
- | [de]({{< ref "/f41/language/de.md" >}}) | 40 | 40 | 100.0 | /mnt/stockage/packages/f41/minidlna/po/de.po | 
- | [es]({{< ref "/f41/language/es.md" >}}) | 40 | 40 | 100.0 | /mnt/stockage/packages/f41/minidlna/po/es.po | 
- | [fr]({{< ref "/f41/language/fr.md" >}}) | 40 | 40 | 100.0 | /mnt/stockage/packages/f41/minidlna/po/fr.po | 
- | [it]({{< ref "/f41/language/it.md" >}}) | 40 | 40 | 100.0 | /mnt/stockage/packages/f41/minidlna/po/it.po | 
- | [ja]({{< ref "/f41/language/ja.md" >}}) | 40 | 40 | 100.0 | /mnt/stockage/packages/f41/minidlna/po/ja.po | 
- | [ko]({{< ref "/f41/language/ko.md" >}}) | 40 | 40 | 100.0 | /mnt/stockage/packages/f41/minidlna/po/ko.po | 
- | [nb_NO]({{< ref "/f41/language/nb_NO.md" >}}) | 40 | 40 | 100.0 | /mnt/stockage/packages/f41/minidlna/po/nb.po | 
- | [nl]({{< ref "/f41/language/nl.md" >}}) | 40 | 40 | 100.0 | /mnt/stockage/packages/f41/minidlna/po/nl.po | 
- | [pl]({{< ref "/f41/language/pl.md" >}}) | 40 | 40 | 100.0 | /mnt/stockage/packages/f41/minidlna/po/pl.po | 
- | [ru]({{< ref "/f41/language/ru.md" >}}) | 40 | 40 | 100.0 | /mnt/stockage/packages/f41/minidlna/po/ru.po | 
- | [sl]({{< ref "/f41/language/sl.md" >}}) | 40 | 40 | 100.0 | /mnt/stockage/packages/f41/minidlna/po/sl.po | 
- | [sv]({{< ref "/f41/language/sv.md" >}}) | 40 | 40 | 100.0 | /mnt/stockage/packages/f41/minidlna/po/sv.po | 
+ | [da](/f41/language/da) | 40 | 40 | 100.0 | /mnt/stockage/packages/f41/minidlna/po/da.po | 
+ | [de](/f41/language/de) | 40 | 40 | 100.0 | /mnt/stockage/packages/f41/minidlna/po/de.po | 
+ | [es](/f41/language/es) | 40 | 40 | 100.0 | /mnt/stockage/packages/f41/minidlna/po/es.po | 
+ | [fr](/f41/language/fr) | 40 | 40 | 100.0 | /mnt/stockage/packages/f41/minidlna/po/fr.po | 
+ | [it](/f41/language/it) | 40 | 40 | 100.0 | /mnt/stockage/packages/f41/minidlna/po/it.po | 
+ | [ja](/f41/language/ja) | 40 | 40 | 100.0 | /mnt/stockage/packages/f41/minidlna/po/ja.po | 
+ | [ko](/f41/language/ko) | 40 | 40 | 100.0 | /mnt/stockage/packages/f41/minidlna/po/ko.po | 
+ | [nb_NO](/f41/language/nb_NO) | 40 | 40 | 100.0 | /mnt/stockage/packages/f41/minidlna/po/nb.po | 
+ | [nl](/f41/language/nl) | 40 | 40 | 100.0 | /mnt/stockage/packages/f41/minidlna/po/nl.po | 
+ | [pl](/f41/language/pl) | 40 | 40 | 100.0 | /mnt/stockage/packages/f41/minidlna/po/pl.po | 
+ | [ru](/f41/language/ru) | 40 | 40 | 100.0 | /mnt/stockage/packages/f41/minidlna/po/ru.po | 
+ | [sl](/f41/language/sl) | 40 | 40 | 100.0 | /mnt/stockage/packages/f41/minidlna/po/sl.po | 
+ | [sv](/f41/language/sv) | 40 | 40 | 100.0 | /mnt/stockage/packages/f41/minidlna/po/sv.po | 
 {.sortable}
 
 

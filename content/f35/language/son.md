@@ -38,12 +38,12 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [sugar-words]({{< ref "/f35/package/sugar-words.md" >}}) | 3 | 3 | 100.0 | LANGUAGE <LL@li.org> | 
- | [tuxpaint-stamps]({{< ref "/f35/package/tuxpaint-stamps.md" >}}) | 3246 | 3249 | 99.9 | Songhay Localization Team <abdoulseydou@hotmail.com> | 
- | [tuxpaint]({{< ref "/f35/package/tuxpaint.md" >}}) | 1521 | 2286 | 66.5 | Songhay Localization Team | 
- | [gtkspell3]({{< ref "/f35/package/gtkspell3.md" >}}) | 10 | 16 | 62.5 | Songhai <LL@li.org> | 
- | [mingw-gtkspell3]({{< ref "/f35/package/mingw-gtkspell3.md" >}}) | 10 | 16 | 62.5 | Songhai <LL@li.org> | 
- | [iso-codes]({{< ref "/f35/package/iso-codes.md" >}}) | 261 | 982 | 26.6 | Songhai languages <https://hosted.weblate.org/projects/iso-codes/iso-3166-1/son/> | 
+ | [sugar-words](/f35/package/sugar-words) | 3 | 3 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [tuxpaint-stamps](/f35/package/tuxpaint-stamps) | 3246 | 3249 | 99.9 | Songhay Localization Team <abdoulseydou@hotmail.com> | 
+ | [tuxpaint](/f35/package/tuxpaint) | 1521 | 2286 | 66.5 | Songhay Localization Team | 
+ | [gtkspell3](/f35/package/gtkspell3) | 10 | 16 | 62.5 | Songhai <LL@li.org> | 
+ | [mingw-gtkspell3](/f35/package/mingw-gtkspell3) | 10 | 16 | 62.5 | Songhai <LL@li.org> | 
+ | [iso-codes](/f35/package/iso-codes) | 261 | 982 | 26.6 | Songhai languages <https://hosted.weblate.org/projects/iso-codes/iso-3166-1/son/> | 
 {.sortable}
 
 

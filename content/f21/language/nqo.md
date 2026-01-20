@@ -38,7 +38,7 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [mate-desktop]({{< ref "/f21/package/mate-desktop.md" >}}) | 0 | 2288 | 0.0 | N'ko (http://www.transifex.com/projects/p/MATE/language/nqo/) | 
+ | [mate-desktop](/f21/package/mate-desktop) | 0 | 2288 | 0.0 | N'ko (http://www.transifex.com/projects/p/MATE/language/nqo/) | 
 {.sortable}
 
 

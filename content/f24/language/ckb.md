@@ -39,15 +39,15 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [appstream]({{< ref "/f24/package/appstream.md" >}}) | 103 | 715 | 14.4 | Kurdish Sorani <https://hosted.weblate.org/projects/appstream/translations/ckb/> | 
- | [transmission]({{< ref "/f24/package/transmission.md" >}}) | 251 | 1809 | 13.9 | Kurdish (Sorani) <ckb@li.org> | 
- | [midori]({{< ref "/f24/package/midori.md" >}}) | 289 | 3541 | 8.2 | Kurdish (Sorani) <ckb@li.org> | 
- | [mintmenu]({{< ref "/f24/package/mintmenu.md" >}}) | 20 | 1194 | 1.7 | Kurdish (Sorani) <ckb@li.org> | 
- | [stellarium]({{< ref "/f24/package/stellarium.md" >}}) | 71 | 23532 | 0.3 | Kurdish (Sorani) <ckb@li.org> | 
- | [terminator]({{< ref "/f24/package/terminator.md" >}}) | 3 | 1410 | 0.2 | Kurdish (Sorani) <ckb@li.org> | 
- | [feedreader]({{< ref "/f24/package/feedreader.md" >}}) | 0 | 0 | 0.0 |  | 
- | [lightdm]({{< ref "/f24/package/lightdm.md" >}}) | 0 | 79 | 0.0 | Kurdish (Sorani) <ckb@li.org> | 
- | [php-phpmyadmin-sql-parser]({{< ref "/f24/package/php-phpmyadmin-sql-parser.md" >}}) | 0 | 222 | 0.0 | Kurdish Sorani <https://hosted.weblate.org/projects/phpmyadmin/master/ckb/> | 
+ | [appstream](/f24/package/appstream) | 103 | 715 | 14.4 | Kurdish Sorani <https://hosted.weblate.org/projects/appstream/translations/ckb/> | 
+ | [transmission](/f24/package/transmission) | 251 | 1809 | 13.9 | Kurdish (Sorani) <ckb@li.org> | 
+ | [midori](/f24/package/midori) | 289 | 3541 | 8.2 | Kurdish (Sorani) <ckb@li.org> | 
+ | [mintmenu](/f24/package/mintmenu) | 20 | 1194 | 1.7 | Kurdish (Sorani) <ckb@li.org> | 
+ | [stellarium](/f24/package/stellarium) | 71 | 23532 | 0.3 | Kurdish (Sorani) <ckb@li.org> | 
+ | [terminator](/f24/package/terminator) | 3 | 1410 | 0.2 | Kurdish (Sorani) <ckb@li.org> | 
+ | [feedreader](/f24/package/feedreader) | 0 | 0 | 0.0 |  | 
+ | [lightdm](/f24/package/lightdm) | 0 | 79 | 0.0 | Kurdish (Sorani) <ckb@li.org> | 
+ | [php-phpmyadmin-sql-parser](/f24/package/php-phpmyadmin-sql-parser) | 0 | 222 | 0.0 | Kurdish Sorani <https://hosted.weblate.org/projects/phpmyadmin/master/ckb/> | 
 {.sortable}
 
 

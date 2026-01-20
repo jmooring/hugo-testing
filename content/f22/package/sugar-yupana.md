@@ -18,19 +18,19 @@ The package sugar-yupana (version 17):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ayc]({{< ref "/f22/language/ayc.md" >}}) | 30 | 30 | 100.0 | /mnt/stockage/packages/f22/sugar-yupana/po/ayc.po | 
- | [da]({{< ref "/f22/language/da.md" >}}) | 30 | 30 | 100.0 | /mnt/stockage/packages/f22/sugar-yupana/po/da.po | 
- | [en]({{< ref "/f22/language/en.md" >}}) | 30 | 30 | 100.0 | /mnt/stockage/packages/f22/sugar-yupana/po/en.po | 
- | [en_GB]({{< ref "/f22/language/en_GB.md" >}}) | 30 | 30 | 100.0 | /mnt/stockage/packages/f22/sugar-yupana/po/en_GB.po | 
- | [en_US]({{< ref "/f22/language/en_US.md" >}}) | 30 | 30 | 100.0 | /mnt/stockage/packages/f22/sugar-yupana/po/en_US.po | 
- | [es]({{< ref "/f22/language/es.md" >}}) | 30 | 30 | 100.0 | /mnt/stockage/packages/f22/sugar-yupana/po/es.po | 
- | [nl]({{< ref "/f22/language/nl.md" >}}) | 30 | 30 | 100.0 | /mnt/stockage/packages/f22/sugar-yupana/po/nl.po | 
- | [zh_Hans]({{< ref "/f22/language/zh_Hans.md" >}}) | 30 | 30 | 100.0 | /mnt/stockage/packages/f22/sugar-yupana/po/zh_CN.po | 
- | [fr]({{< ref "/f22/language/fr.md" >}}) | 28 | 30 | 93.3 | /mnt/stockage/packages/f22/sugar-yupana/po/fr.po | 
- | [hy]({{< ref "/f22/language/hy.md" >}}) | 28 | 30 | 93.3 | /mnt/stockage/packages/f22/sugar-yupana/po/hy.po | 
- | [hu]({{< ref "/f22/language/hu.md" >}}) | 0 | 30 | 0.0 | /mnt/stockage/packages/f22/sugar-yupana/po/hu.po | 
- | [mi]({{< ref "/f22/language/mi.md" >}}) | 0 | 30 | 0.0 | /mnt/stockage/packages/f22/sugar-yupana/po/mi.po | 
- | [pl]({{< ref "/f22/language/pl.md" >}}) | 0 | 30 | 0.0 | /mnt/stockage/packages/f22/sugar-yupana/po/pl.po | 
+ | [ayc](/f22/language/ayc) | 30 | 30 | 100.0 | /mnt/stockage/packages/f22/sugar-yupana/po/ayc.po | 
+ | [da](/f22/language/da) | 30 | 30 | 100.0 | /mnt/stockage/packages/f22/sugar-yupana/po/da.po | 
+ | [en](/f22/language/en) | 30 | 30 | 100.0 | /mnt/stockage/packages/f22/sugar-yupana/po/en.po | 
+ | [en_GB](/f22/language/en_GB) | 30 | 30 | 100.0 | /mnt/stockage/packages/f22/sugar-yupana/po/en_GB.po | 
+ | [en_US](/f22/language/en_US) | 30 | 30 | 100.0 | /mnt/stockage/packages/f22/sugar-yupana/po/en_US.po | 
+ | [es](/f22/language/es) | 30 | 30 | 100.0 | /mnt/stockage/packages/f22/sugar-yupana/po/es.po | 
+ | [nl](/f22/language/nl) | 30 | 30 | 100.0 | /mnt/stockage/packages/f22/sugar-yupana/po/nl.po | 
+ | [zh_Hans](/f22/language/zh_Hans) | 30 | 30 | 100.0 | /mnt/stockage/packages/f22/sugar-yupana/po/zh_CN.po | 
+ | [fr](/f22/language/fr) | 28 | 30 | 93.3 | /mnt/stockage/packages/f22/sugar-yupana/po/fr.po | 
+ | [hy](/f22/language/hy) | 28 | 30 | 93.3 | /mnt/stockage/packages/f22/sugar-yupana/po/hy.po | 
+ | [hu](/f22/language/hu) | 0 | 30 | 0.0 | /mnt/stockage/packages/f22/sugar-yupana/po/hu.po | 
+ | [mi](/f22/language/mi) | 0 | 30 | 0.0 | /mnt/stockage/packages/f22/sugar-yupana/po/mi.po | 
+ | [pl](/f22/language/pl) | 0 | 30 | 0.0 | /mnt/stockage/packages/f22/sugar-yupana/po/pl.po | 
 {.sortable}
 
 

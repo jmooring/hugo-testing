@@ -18,31 +18,31 @@ The package moblin-panel-media (version 0.0.7):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f12/language/de.md" >}}) | 55 | 55 | 100.0 | /mnt/stockage/packages/f12/moblin-panel-media/po/de.po | 
- | [es]({{< ref "/f12/language/es.md" >}}) | 55 | 55 | 100.0 | /mnt/stockage/packages/f12/moblin-panel-media/po/es.po | 
- | [eu]({{< ref "/f12/language/eu.md" >}}) | 55 | 55 | 100.0 | /mnt/stockage/packages/f12/moblin-panel-media/po/eu.po | 
- | [fi]({{< ref "/f12/language/fi.md" >}}) | 55 | 55 | 100.0 | /mnt/stockage/packages/f12/moblin-panel-media/po/fi.po | 
- | [fr]({{< ref "/f12/language/fr.md" >}}) | 55 | 55 | 100.0 | /mnt/stockage/packages/f12/moblin-panel-media/po/fr.po | 
- | [gl]({{< ref "/f12/language/gl.md" >}}) | 55 | 55 | 100.0 | /mnt/stockage/packages/f12/moblin-panel-media/po/gl.po | 
- | [id]({{< ref "/f12/language/id.md" >}}) | 55 | 55 | 100.0 | /mnt/stockage/packages/f12/moblin-panel-media/po/id.po | 
- | [it]({{< ref "/f12/language/it.md" >}}) | 55 | 55 | 100.0 | /mnt/stockage/packages/f12/moblin-panel-media/po/it.po | 
- | [ja]({{< ref "/f12/language/ja.md" >}}) | 55 | 55 | 100.0 | /mnt/stockage/packages/f12/moblin-panel-media/po/ja.po | 
- | [ko]({{< ref "/f12/language/ko.md" >}}) | 55 | 55 | 100.0 | /mnt/stockage/packages/f12/moblin-panel-media/po/ko.po | 
- | [ms]({{< ref "/f12/language/ms.md" >}}) | 55 | 55 | 100.0 | /mnt/stockage/packages/f12/moblin-panel-media/po/ms.po | 
- | [nl]({{< ref "/f12/language/nl.md" >}}) | 55 | 55 | 100.0 | /mnt/stockage/packages/f12/moblin-panel-media/po/nl.po | 
- | [pa]({{< ref "/f12/language/pa.md" >}}) | 55 | 55 | 100.0 | /mnt/stockage/packages/f12/moblin-panel-media/po/pa.po | 
- | [pl]({{< ref "/f12/language/pl.md" >}}) | 55 | 55 | 100.0 | /mnt/stockage/packages/f12/moblin-panel-media/po/pl.po | 
- | [pt_BR]({{< ref "/f12/language/pt_BR.md" >}}) | 55 | 55 | 100.0 | /mnt/stockage/packages/f12/moblin-panel-media/po/pt_BR.po | 
- | [ro]({{< ref "/f12/language/ro.md" >}}) | 55 | 55 | 100.0 | /mnt/stockage/packages/f12/moblin-panel-media/po/ro.po | 
- | [ru]({{< ref "/f12/language/ru.md" >}}) | 55 | 55 | 100.0 | /mnt/stockage/packages/f12/moblin-panel-media/po/ru.po | 
- | [sv]({{< ref "/f12/language/sv.md" >}}) | 55 | 55 | 100.0 | /mnt/stockage/packages/f12/moblin-panel-media/po/sv.po | 
- | [th]({{< ref "/f12/language/th.md" >}}) | 55 | 55 | 100.0 | /mnt/stockage/packages/f12/moblin-panel-media/po/th.po | 
- | [uk]({{< ref "/f12/language/uk.md" >}}) | 55 | 55 | 100.0 | /mnt/stockage/packages/f12/moblin-panel-media/po/uk.po | 
- | [wa]({{< ref "/f12/language/wa.md" >}}) | 55 | 55 | 100.0 | /mnt/stockage/packages/f12/moblin-panel-media/po/wa.po | 
- | [zh_Hans]({{< ref "/f12/language/zh_Hans.md" >}}) | 55 | 55 | 100.0 | /mnt/stockage/packages/f12/moblin-panel-media/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f12/language/zh_Hant.md" >}}) | 55 | 55 | 100.0 | /mnt/stockage/packages/f12/moblin-panel-media/po/zh_TW.po | 
- | [tr]({{< ref "/f12/language/tr.md" >}}) | 53 | 55 | 96.4 | /mnt/stockage/packages/f12/moblin-panel-media/po/tr.po | 
- | [hu]({{< ref "/f12/language/hu.md" >}}) | 0 | 55 | 0.0 | /mnt/stockage/packages/f12/moblin-panel-media/po/hu.po | 
+ | [de](/f12/language/de) | 55 | 55 | 100.0 | /mnt/stockage/packages/f12/moblin-panel-media/po/de.po | 
+ | [es](/f12/language/es) | 55 | 55 | 100.0 | /mnt/stockage/packages/f12/moblin-panel-media/po/es.po | 
+ | [eu](/f12/language/eu) | 55 | 55 | 100.0 | /mnt/stockage/packages/f12/moblin-panel-media/po/eu.po | 
+ | [fi](/f12/language/fi) | 55 | 55 | 100.0 | /mnt/stockage/packages/f12/moblin-panel-media/po/fi.po | 
+ | [fr](/f12/language/fr) | 55 | 55 | 100.0 | /mnt/stockage/packages/f12/moblin-panel-media/po/fr.po | 
+ | [gl](/f12/language/gl) | 55 | 55 | 100.0 | /mnt/stockage/packages/f12/moblin-panel-media/po/gl.po | 
+ | [id](/f12/language/id) | 55 | 55 | 100.0 | /mnt/stockage/packages/f12/moblin-panel-media/po/id.po | 
+ | [it](/f12/language/it) | 55 | 55 | 100.0 | /mnt/stockage/packages/f12/moblin-panel-media/po/it.po | 
+ | [ja](/f12/language/ja) | 55 | 55 | 100.0 | /mnt/stockage/packages/f12/moblin-panel-media/po/ja.po | 
+ | [ko](/f12/language/ko) | 55 | 55 | 100.0 | /mnt/stockage/packages/f12/moblin-panel-media/po/ko.po | 
+ | [ms](/f12/language/ms) | 55 | 55 | 100.0 | /mnt/stockage/packages/f12/moblin-panel-media/po/ms.po | 
+ | [nl](/f12/language/nl) | 55 | 55 | 100.0 | /mnt/stockage/packages/f12/moblin-panel-media/po/nl.po | 
+ | [pa](/f12/language/pa) | 55 | 55 | 100.0 | /mnt/stockage/packages/f12/moblin-panel-media/po/pa.po | 
+ | [pl](/f12/language/pl) | 55 | 55 | 100.0 | /mnt/stockage/packages/f12/moblin-panel-media/po/pl.po | 
+ | [pt_BR](/f12/language/pt_BR) | 55 | 55 | 100.0 | /mnt/stockage/packages/f12/moblin-panel-media/po/pt_BR.po | 
+ | [ro](/f12/language/ro) | 55 | 55 | 100.0 | /mnt/stockage/packages/f12/moblin-panel-media/po/ro.po | 
+ | [ru](/f12/language/ru) | 55 | 55 | 100.0 | /mnt/stockage/packages/f12/moblin-panel-media/po/ru.po | 
+ | [sv](/f12/language/sv) | 55 | 55 | 100.0 | /mnt/stockage/packages/f12/moblin-panel-media/po/sv.po | 
+ | [th](/f12/language/th) | 55 | 55 | 100.0 | /mnt/stockage/packages/f12/moblin-panel-media/po/th.po | 
+ | [uk](/f12/language/uk) | 55 | 55 | 100.0 | /mnt/stockage/packages/f12/moblin-panel-media/po/uk.po | 
+ | [wa](/f12/language/wa) | 55 | 55 | 100.0 | /mnt/stockage/packages/f12/moblin-panel-media/po/wa.po | 
+ | [zh_Hans](/f12/language/zh_Hans) | 55 | 55 | 100.0 | /mnt/stockage/packages/f12/moblin-panel-media/po/zh_CN.po | 
+ | [zh_Hant](/f12/language/zh_Hant) | 55 | 55 | 100.0 | /mnt/stockage/packages/f12/moblin-panel-media/po/zh_TW.po | 
+ | [tr](/f12/language/tr) | 53 | 55 | 96.4 | /mnt/stockage/packages/f12/moblin-panel-media/po/tr.po | 
+ | [hu](/f12/language/hu) | 0 | 55 | 0.0 | /mnt/stockage/packages/f12/moblin-panel-media/po/hu.po | 
 {.sortable}
 
 

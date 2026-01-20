@@ -18,27 +18,27 @@ The package hugin (version 2018.0.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f29/language/de.md" >}}) | 8859 | 8859 | 100.0 | /mnt/stockage/packages/f29/hugin/src/translations/de.po | 
- | [fr]({{< ref "/f29/language/fr.md" >}}) | 8859 | 8859 | 100.0 | /mnt/stockage/packages/f29/hugin/src/translations/fr.po | 
- | [hu]({{< ref "/f29/language/hu.md" >}}) | 8859 | 8859 | 100.0 | /mnt/stockage/packages/f29/hugin/src/translations/hu.po | 
- | [nl]({{< ref "/f29/language/nl.md" >}}) | 8859 | 8859 | 100.0 | /mnt/stockage/packages/f29/hugin/src/translations/nl.po | 
- | [pt_BR]({{< ref "/f29/language/pt_BR.md" >}}) | 8859 | 8859 | 100.0 | /mnt/stockage/packages/f29/hugin/src/translations/pt_BR.po | 
- | [sk]({{< ref "/f29/language/sk.md" >}}) | 8859 | 8859 | 100.0 | /mnt/stockage/packages/f29/hugin/src/translations/sk.po | 
- | [da]({{< ref "/f29/language/da.md" >}}) | 8386 | 8859 | 94.7 | /mnt/stockage/packages/f29/hugin/src/translations/da.po | 
- | [it]({{< ref "/f29/language/it.md" >}}) | 8386 | 8859 | 94.7 | /mnt/stockage/packages/f29/hugin/src/translations/it.po | 
- | [cs]({{< ref "/f29/language/cs.md" >}}) | 8152 | 8859 | 92.0 | /mnt/stockage/packages/f29/hugin/src/translations/cs_CZ.po | 
- | [ru]({{< ref "/f29/language/ru.md" >}}) | 7762 | 8859 | 87.6 | /mnt/stockage/packages/f29/hugin/src/translations/ru.po | 
- | [ca]({{< ref "/f29/language/ca.md" >}}) | 15052 | 17718 | 85.0 | /mnt/stockage/packages/f29/hugin/src/translations/ca_ES.po/mnt/stockage/packages/f29/hugin/src/translations/ca_ES@valencia.po | 
- | [es]({{< ref "/f29/language/es.md" >}}) | 7500 | 8859 | 84.7 | /mnt/stockage/packages/f29/hugin/src/translations/es.po | 
- | [zh_Hans]({{< ref "/f29/language/zh_Hans.md" >}}) | 6609 | 8859 | 74.6 | /mnt/stockage/packages/f29/hugin/src/translations/zh_CN.po | 
- | [pl]({{< ref "/f29/language/pl.md" >}}) | 6426 | 8859 | 72.5 | /mnt/stockage/packages/f29/hugin/src/translations/pl.po | 
- | [zh_Hant]({{< ref "/f29/language/zh_Hant.md" >}}) | 6405 | 8859 | 72.3 | /mnt/stockage/packages/f29/hugin/src/translations/zh_TW.po | 
- | [ja]({{< ref "/f29/language/ja.md" >}}) | 5453 | 8859 | 61.6 | /mnt/stockage/packages/f29/hugin/src/translations/ja.po | 
- | [sv]({{< ref "/f29/language/sv.md" >}}) | 5232 | 8859 | 59.1 | /mnt/stockage/packages/f29/hugin/src/translations/sv.po | 
- | [eu]({{< ref "/f29/language/eu.md" >}}) | 4611 | 8859 | 52.0 | /mnt/stockage/packages/f29/hugin/src/translations/eu.po | 
- | [fi]({{< ref "/f29/language/fi.md" >}}) | 3518 | 8859 | 39.7 | /mnt/stockage/packages/f29/hugin/src/translations/fi.po | 
- | [ro]({{< ref "/f29/language/ro.md" >}}) | 2780 | 8859 | 31.4 | /mnt/stockage/packages/f29/hugin/src/translations/ro.po | 
- | [en_GB]({{< ref "/f29/language/en_GB.md" >}}) | 727 | 8859 | 8.2 | /mnt/stockage/packages/f29/hugin/src/translations/en_GB.po | 
+ | [de](/f29/language/de) | 8859 | 8859 | 100.0 | /mnt/stockage/packages/f29/hugin/src/translations/de.po | 
+ | [fr](/f29/language/fr) | 8859 | 8859 | 100.0 | /mnt/stockage/packages/f29/hugin/src/translations/fr.po | 
+ | [hu](/f29/language/hu) | 8859 | 8859 | 100.0 | /mnt/stockage/packages/f29/hugin/src/translations/hu.po | 
+ | [nl](/f29/language/nl) | 8859 | 8859 | 100.0 | /mnt/stockage/packages/f29/hugin/src/translations/nl.po | 
+ | [pt_BR](/f29/language/pt_BR) | 8859 | 8859 | 100.0 | /mnt/stockage/packages/f29/hugin/src/translations/pt_BR.po | 
+ | [sk](/f29/language/sk) | 8859 | 8859 | 100.0 | /mnt/stockage/packages/f29/hugin/src/translations/sk.po | 
+ | [da](/f29/language/da) | 8386 | 8859 | 94.7 | /mnt/stockage/packages/f29/hugin/src/translations/da.po | 
+ | [it](/f29/language/it) | 8386 | 8859 | 94.7 | /mnt/stockage/packages/f29/hugin/src/translations/it.po | 
+ | [cs](/f29/language/cs) | 8152 | 8859 | 92.0 | /mnt/stockage/packages/f29/hugin/src/translations/cs_CZ.po | 
+ | [ru](/f29/language/ru) | 7762 | 8859 | 87.6 | /mnt/stockage/packages/f29/hugin/src/translations/ru.po | 
+ | [ca](/f29/language/ca) | 15052 | 17718 | 85.0 | /mnt/stockage/packages/f29/hugin/src/translations/ca_ES.po/mnt/stockage/packages/f29/hugin/src/translations/ca_ES@valencia.po | 
+ | [es](/f29/language/es) | 7500 | 8859 | 84.7 | /mnt/stockage/packages/f29/hugin/src/translations/es.po | 
+ | [zh_Hans](/f29/language/zh_Hans) | 6609 | 8859 | 74.6 | /mnt/stockage/packages/f29/hugin/src/translations/zh_CN.po | 
+ | [pl](/f29/language/pl) | 6426 | 8859 | 72.5 | /mnt/stockage/packages/f29/hugin/src/translations/pl.po | 
+ | [zh_Hant](/f29/language/zh_Hant) | 6405 | 8859 | 72.3 | /mnt/stockage/packages/f29/hugin/src/translations/zh_TW.po | 
+ | [ja](/f29/language/ja) | 5453 | 8859 | 61.6 | /mnt/stockage/packages/f29/hugin/src/translations/ja.po | 
+ | [sv](/f29/language/sv) | 5232 | 8859 | 59.1 | /mnt/stockage/packages/f29/hugin/src/translations/sv.po | 
+ | [eu](/f29/language/eu) | 4611 | 8859 | 52.0 | /mnt/stockage/packages/f29/hugin/src/translations/eu.po | 
+ | [fi](/f29/language/fi) | 3518 | 8859 | 39.7 | /mnt/stockage/packages/f29/hugin/src/translations/fi.po | 
+ | [ro](/f29/language/ro) | 2780 | 8859 | 31.4 | /mnt/stockage/packages/f29/hugin/src/translations/ro.po | 
+ | [en_GB](/f29/language/en_GB) | 727 | 8859 | 8.2 | /mnt/stockage/packages/f29/hugin/src/translations/en_GB.po | 
 {.sortable}
 
 

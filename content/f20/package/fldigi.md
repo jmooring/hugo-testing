@@ -18,12 +18,12 @@ The package fldigi (version 3.22.10):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [es]({{< ref "/f20/language/es.md" >}}) | 5148 | 5651 | 91.1 | /mnt/stockage/packages/f20/fldigi/po/es.po | 
- | [nl]({{< ref "/f20/language/nl.md" >}}) | 5114 | 5651 | 90.5 | /mnt/stockage/packages/f20/fldigi/po/nl.po | 
- | [pl]({{< ref "/f20/language/pl.md" >}}) | 5049 | 5651 | 89.3 | /mnt/stockage/packages/f20/fldigi/po/pl.po | 
- | [de]({{< ref "/f20/language/de.md" >}}) | 3832 | 5651 | 67.8 | /mnt/stockage/packages/f20/fldigi/po/de.po | 
- | [it]({{< ref "/f20/language/it.md" >}}) | 3279 | 5651 | 58.0 | /mnt/stockage/packages/f20/fldigi/po/it.po | 
- | [fr]({{< ref "/f20/language/fr.md" >}}) | 1366 | 5651 | 24.2 | /mnt/stockage/packages/f20/fldigi/po/fr.po | 
+ | [es](/f20/language/es) | 5148 | 5651 | 91.1 | /mnt/stockage/packages/f20/fldigi/po/es.po | 
+ | [nl](/f20/language/nl) | 5114 | 5651 | 90.5 | /mnt/stockage/packages/f20/fldigi/po/nl.po | 
+ | [pl](/f20/language/pl) | 5049 | 5651 | 89.3 | /mnt/stockage/packages/f20/fldigi/po/pl.po | 
+ | [de](/f20/language/de) | 3832 | 5651 | 67.8 | /mnt/stockage/packages/f20/fldigi/po/de.po | 
+ | [it](/f20/language/it) | 3279 | 5651 | 58.0 | /mnt/stockage/packages/f20/fldigi/po/it.po | 
+ | [fr](/f20/language/fr) | 1366 | 5651 | 24.2 | /mnt/stockage/packages/f20/fldigi/po/fr.po | 
 {.sortable}
 
 

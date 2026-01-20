@@ -18,13 +18,13 @@ The package scribes (version 0.3.3.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [nl]({{< ref "/f9/language/nl.md" >}}) | 2384 | 2384 | 100.0 | /mnt/stockage/packages/f9/scribes/po/nl.po | 
- | [pt_BR]({{< ref "/f9/language/pt_BR.md" >}}) | 2384 | 2384 | 100.0 | /mnt/stockage/packages/f9/scribes/po/pt_BR.po | 
- | [it]({{< ref "/f9/language/it.md" >}}) | 1201 | 1203 | 99.8 | /mnt/stockage/packages/f9/scribes/po/it.po | 
- | [de]({{< ref "/f9/language/de.md" >}}) | 2378 | 2384 | 99.7 | /mnt/stockage/packages/f9/scribes/po/de.po | 
- | [fr]({{< ref "/f9/language/fr.md" >}}) | 1780 | 1815 | 98.1 | /mnt/stockage/packages/f9/scribes/po/fr.po | 
- | [zh_Hans]({{< ref "/f9/language/zh_Hans.md" >}}) | 1478 | 1531 | 96.5 | /mnt/stockage/packages/f9/scribes/po/zh_CN.po | 
- | [sv]({{< ref "/f9/language/sv.md" >}}) | 2170 | 2420 | 89.7 | /mnt/stockage/packages/f9/scribes/po/sv.po | 
+ | [nl](/f9/language/nl) | 2384 | 2384 | 100.0 | /mnt/stockage/packages/f9/scribes/po/nl.po | 
+ | [pt_BR](/f9/language/pt_BR) | 2384 | 2384 | 100.0 | /mnt/stockage/packages/f9/scribes/po/pt_BR.po | 
+ | [it](/f9/language/it) | 1201 | 1203 | 99.8 | /mnt/stockage/packages/f9/scribes/po/it.po | 
+ | [de](/f9/language/de) | 2378 | 2384 | 99.7 | /mnt/stockage/packages/f9/scribes/po/de.po | 
+ | [fr](/f9/language/fr) | 1780 | 1815 | 98.1 | /mnt/stockage/packages/f9/scribes/po/fr.po | 
+ | [zh_Hans](/f9/language/zh_Hans) | 1478 | 1531 | 96.5 | /mnt/stockage/packages/f9/scribes/po/zh_CN.po | 
+ | [sv](/f9/language/sv) | 2170 | 2420 | 89.7 | /mnt/stockage/packages/f9/scribes/po/sv.po | 
 {.sortable}
 
 

@@ -38,13 +38,13 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [siril]({{< ref "/f25/package/siril.md" >}}) | 8422 | 8422 | 100.0 | Dutch <antoine.hoeffelman[-at-]gmail.com> | 
- | [clamtk]({{< ref "/f25/package/clamtk.md" >}}) | 677 | 688 | 98.4 | LANGUAGE <LL@li.org> | 
- | [manaplus]({{< ref "/f25/package/manaplus.md" >}}) | 2922 | 6208 | 47.1 | Dutch (Belgium) (http://www.transifex.com/projects/p/manaplus/language/nl_BE/) | 
- | [openerp7]({{< ref "/f25/package/openerp7.md" >}}) | 14647 | 46303 | 31.6 | Dutch (Belgium) <nl_BE@li.org> | 
- | [gourmet]({{< ref "/f25/package/gourmet.md" >}}) | 660 | 3939 | 16.8 | Dutch (Belgium) <nl_BE@li.org> | 
- | [openerp]({{< ref "/f25/package/openerp.md" >}}) | 5259 | 40627 | 12.9 | Dutch (Belgium) <nl_BE@li.org> | 
- | [gnomebaker]({{< ref "/f25/package/gnomebaker.md" >}}) | 117 | 1186 | 9.9 | Dutch (Belgium) <nl_BE@li.org> | 
+ | [siril](/f25/package/siril) | 8422 | 8422 | 100.0 | Dutch <antoine.hoeffelman[-at-]gmail.com> | 
+ | [clamtk](/f25/package/clamtk) | 677 | 688 | 98.4 | LANGUAGE <LL@li.org> | 
+ | [manaplus](/f25/package/manaplus) | 2922 | 6208 | 47.1 | Dutch (Belgium) (http://www.transifex.com/projects/p/manaplus/language/nl_BE/) | 
+ | [openerp7](/f25/package/openerp7) | 14647 | 46303 | 31.6 | Dutch (Belgium) <nl_BE@li.org> | 
+ | [gourmet](/f25/package/gourmet) | 660 | 3939 | 16.8 | Dutch (Belgium) <nl_BE@li.org> | 
+ | [openerp](/f25/package/openerp) | 5259 | 40627 | 12.9 | Dutch (Belgium) <nl_BE@li.org> | 
+ | [gnomebaker](/f25/package/gnomebaker) | 117 | 1186 | 9.9 | Dutch (Belgium) <nl_BE@li.org> | 
 {.sortable}
 
 

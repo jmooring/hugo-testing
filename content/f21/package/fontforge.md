@@ -18,23 +18,23 @@ The package fontforge (version 20141230):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [en_GB]({{< ref "/f21/language/en_GB.md" >}}) | 2141 | 2141 | 100.0 | /mnt/stockage/packages/f21/fontforge/po/en_GB.po | 
- | [uk]({{< ref "/f21/language/uk.md" >}}) | 41666 | 41667 | 100.0 | /mnt/stockage/packages/f21/fontforge/po/uk.po | 
- | [en]({{< ref "/f21/language/en.md" >}}) | 1190 | 1194 | 99.7 | /mnt/stockage/packages/f21/fontforge/mackeys/en.po | 
- | [pl]({{< ref "/f21/language/pl.md" >}}) | 40244 | 41704 | 96.5 | /mnt/stockage/packages/f21/fontforge/po/pl.po | 
- | [vi]({{< ref "/f21/language/vi.md" >}}) | 35890 | 41704 | 86.1 | /mnt/stockage/packages/f21/fontforge/po/vi.po | 
- | [zh_Hant]({{< ref "/f21/language/zh_Hant.md" >}}) | 25648 | 41704 | 61.5 | /mnt/stockage/packages/f21/fontforge/po/zh_TW.po | 
- | [ja]({{< ref "/f21/language/ja.md" >}}) | 20110 | 41704 | 48.2 | /mnt/stockage/packages/f21/fontforge/po/ja.po | 
- | [fr]({{< ref "/f21/language/fr.md" >}}) | 18113 | 41578 | 43.6 | /mnt/stockage/packages/f21/fontforge/po/fr.po/mnt/stockage/packages/f21/fontforge/tests/locale/fr/LC_MESSAGES/test-quotearg.po | 
- | [zh_Hans]({{< ref "/f21/language/zh_Hans.md" >}}) | 14778 | 41704 | 35.4 | /mnt/stockage/packages/f21/fontforge/po/zh_CN.po | 
- | [ca]({{< ref "/f21/language/ca.md" >}}) | 14329 | 41704 | 34.4 | /mnt/stockage/packages/f21/fontforge/po/ca.po | 
- | [ru]({{< ref "/f21/language/ru.md" >}}) | 10464 | 41704 | 25.1 | /mnt/stockage/packages/f21/fontforge/po/ru.po | 
- | [es]({{< ref "/f21/language/es.md" >}}) | 8120 | 41704 | 19.5 | /mnt/stockage/packages/f21/fontforge/po/es.po | 
- | [it]({{< ref "/f21/language/it.md" >}}) | 4390 | 41704 | 10.5 | /mnt/stockage/packages/f21/fontforge/po/it.po | 
- | [el]({{< ref "/f21/language/el.md" >}}) | 1452 | 41704 | 3.5 | /mnt/stockage/packages/f21/fontforge/po/el.po | 
- | [pt]({{< ref "/f21/language/pt.md" >}}) | 786 | 41704 | 1.9 | /mnt/stockage/packages/f21/fontforge/po/pt.po | 
- | [de]({{< ref "/f21/language/de.md" >}}) | 672 | 41706 | 1.6 | /mnt/stockage/packages/f21/fontforge/po/de.po | 
- | [ml]({{< ref "/f21/language/ml.md" >}}) | 25 | 41704 | 0.1 | /mnt/stockage/packages/f21/fontforge/po/ml.po | 
+ | [en_GB](/f21/language/en_GB) | 2141 | 2141 | 100.0 | /mnt/stockage/packages/f21/fontforge/po/en_GB.po | 
+ | [uk](/f21/language/uk) | 41666 | 41667 | 100.0 | /mnt/stockage/packages/f21/fontforge/po/uk.po | 
+ | [en](/f21/language/en) | 1190 | 1194 | 99.7 | /mnt/stockage/packages/f21/fontforge/mackeys/en.po | 
+ | [pl](/f21/language/pl) | 40244 | 41704 | 96.5 | /mnt/stockage/packages/f21/fontforge/po/pl.po | 
+ | [vi](/f21/language/vi) | 35890 | 41704 | 86.1 | /mnt/stockage/packages/f21/fontforge/po/vi.po | 
+ | [zh_Hant](/f21/language/zh_Hant) | 25648 | 41704 | 61.5 | /mnt/stockage/packages/f21/fontforge/po/zh_TW.po | 
+ | [ja](/f21/language/ja) | 20110 | 41704 | 48.2 | /mnt/stockage/packages/f21/fontforge/po/ja.po | 
+ | [fr](/f21/language/fr) | 18113 | 41578 | 43.6 | /mnt/stockage/packages/f21/fontforge/po/fr.po/mnt/stockage/packages/f21/fontforge/tests/locale/fr/LC_MESSAGES/test-quotearg.po | 
+ | [zh_Hans](/f21/language/zh_Hans) | 14778 | 41704 | 35.4 | /mnt/stockage/packages/f21/fontforge/po/zh_CN.po | 
+ | [ca](/f21/language/ca) | 14329 | 41704 | 34.4 | /mnt/stockage/packages/f21/fontforge/po/ca.po | 
+ | [ru](/f21/language/ru) | 10464 | 41704 | 25.1 | /mnt/stockage/packages/f21/fontforge/po/ru.po | 
+ | [es](/f21/language/es) | 8120 | 41704 | 19.5 | /mnt/stockage/packages/f21/fontforge/po/es.po | 
+ | [it](/f21/language/it) | 4390 | 41704 | 10.5 | /mnt/stockage/packages/f21/fontforge/po/it.po | 
+ | [el](/f21/language/el) | 1452 | 41704 | 3.5 | /mnt/stockage/packages/f21/fontforge/po/el.po | 
+ | [pt](/f21/language/pt) | 786 | 41704 | 1.9 | /mnt/stockage/packages/f21/fontforge/po/pt.po | 
+ | [de](/f21/language/de) | 672 | 41706 | 1.6 | /mnt/stockage/packages/f21/fontforge/po/de.po | 
+ | [ml](/f21/language/ml) | 25 | 41704 | 0.1 | /mnt/stockage/packages/f21/fontforge/po/ml.po | 
 {.sortable}
 
 

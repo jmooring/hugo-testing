@@ -18,17 +18,17 @@ The package xboard (version 4.6.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [uk]({{< ref "/f20/language/uk.md" >}}) | 2570 | 2570 | 100.0 | /mnt/stockage/packages/f20/xboard/po/uk.po | 
- | [da]({{< ref "/f20/language/da.md" >}}) | 2517 | 2570 | 97.9 | /mnt/stockage/packages/f20/xboard/po/da.po | 
- | [de]({{< ref "/f20/language/de.md" >}}) | 1467 | 2570 | 57.1 | /mnt/stockage/packages/f20/xboard/po/de.po | 
- | [it]({{< ref "/f20/language/it.md" >}}) | 1059 | 2570 | 41.2 | /mnt/stockage/packages/f20/xboard/po/it.po | 
- | [es]({{< ref "/f20/language/es.md" >}}) | 1056 | 2570 | 41.1 | /mnt/stockage/packages/f20/xboard/po/es.po | 
- | [ru]({{< ref "/f20/language/ru.md" >}}) | 1052 | 2570 | 40.9 | /mnt/stockage/packages/f20/xboard/po/ru.po | 
- | [zh_Hans]({{< ref "/f20/language/zh_Hans.md" >}}) | 1050 | 2570 | 40.9 | /mnt/stockage/packages/f20/xboard/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f20/language/zh_Hant.md" >}}) | 1049 | 2570 | 40.8 | /mnt/stockage/packages/f20/xboard/po/zh_TW.po | 
- | [zh_Hant_HK]({{< ref "/f20/language/zh_Hant_HK.md" >}}) | 1049 | 2570 | 40.8 | /mnt/stockage/packages/f20/xboard/po/zh_HK.po | 
- | [vi]({{< ref "/f20/language/vi.md" >}}) | 284 | 2570 | 11.1 | /mnt/stockage/packages/f20/xboard/po/vi.po | 
- | [tr]({{< ref "/f20/language/tr.md" >}}) | 85 | 2570 | 3.3 | /mnt/stockage/packages/f20/xboard/po/tr.po | 
+ | [uk](/f20/language/uk) | 2570 | 2570 | 100.0 | /mnt/stockage/packages/f20/xboard/po/uk.po | 
+ | [da](/f20/language/da) | 2517 | 2570 | 97.9 | /mnt/stockage/packages/f20/xboard/po/da.po | 
+ | [de](/f20/language/de) | 1467 | 2570 | 57.1 | /mnt/stockage/packages/f20/xboard/po/de.po | 
+ | [it](/f20/language/it) | 1059 | 2570 | 41.2 | /mnt/stockage/packages/f20/xboard/po/it.po | 
+ | [es](/f20/language/es) | 1056 | 2570 | 41.1 | /mnt/stockage/packages/f20/xboard/po/es.po | 
+ | [ru](/f20/language/ru) | 1052 | 2570 | 40.9 | /mnt/stockage/packages/f20/xboard/po/ru.po | 
+ | [zh_Hans](/f20/language/zh_Hans) | 1050 | 2570 | 40.9 | /mnt/stockage/packages/f20/xboard/po/zh_CN.po | 
+ | [zh_Hant](/f20/language/zh_Hant) | 1049 | 2570 | 40.8 | /mnt/stockage/packages/f20/xboard/po/zh_TW.po | 
+ | [zh_Hant_HK](/f20/language/zh_Hant_HK) | 1049 | 2570 | 40.8 | /mnt/stockage/packages/f20/xboard/po/zh_HK.po | 
+ | [vi](/f20/language/vi) | 284 | 2570 | 11.1 | /mnt/stockage/packages/f20/xboard/po/vi.po | 
+ | [tr](/f20/language/tr) | 85 | 2570 | 3.3 | /mnt/stockage/packages/f20/xboard/po/tr.po | 
 {.sortable}
 
 

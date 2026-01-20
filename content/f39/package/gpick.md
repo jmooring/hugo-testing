@@ -18,11 +18,11 @@ The package gpick (version 0.2.6):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f39/language/cs.md" >}}) | 602 | 602 | 100.0 | /mnt/stockage/packages/f39/gpick/share/locale/cs/LC_MESSAGES/gpick.po | 
- | [lt]({{< ref "/f39/language/lt.md" >}}) | 735 | 735 | 100.0 | /mnt/stockage/packages/f39/gpick/share/locale/lt/LC_MESSAGES/gpick.po | 
- | [sv]({{< ref "/f39/language/sv.md" >}}) | 735 | 735 | 100.0 | /mnt/stockage/packages/f39/gpick/share/locale/sv/LC_MESSAGES/gpick.po | 
- | [ru]({{< ref "/f39/language/ru.md" >}}) | 728 | 752 | 96.8 | /mnt/stockage/packages/f39/gpick/share/locale/ru/LC_MESSAGES/gpick.po | 
- | [es]({{< ref "/f39/language/es.md" >}}) | 522 | 602 | 86.7 | /mnt/stockage/packages/f39/gpick/share/locale/es/LC_MESSAGES/gpick.po | 
+ | [cs](/f39/language/cs) | 602 | 602 | 100.0 | /mnt/stockage/packages/f39/gpick/share/locale/cs/LC_MESSAGES/gpick.po | 
+ | [lt](/f39/language/lt) | 735 | 735 | 100.0 | /mnt/stockage/packages/f39/gpick/share/locale/lt/LC_MESSAGES/gpick.po | 
+ | [sv](/f39/language/sv) | 735 | 735 | 100.0 | /mnt/stockage/packages/f39/gpick/share/locale/sv/LC_MESSAGES/gpick.po | 
+ | [ru](/f39/language/ru) | 728 | 752 | 96.8 | /mnt/stockage/packages/f39/gpick/share/locale/ru/LC_MESSAGES/gpick.po | 
+ | [es](/f39/language/es) | 522 | 602 | 86.7 | /mnt/stockage/packages/f39/gpick/share/locale/es/LC_MESSAGES/gpick.po | 
 {.sortable}
 
 

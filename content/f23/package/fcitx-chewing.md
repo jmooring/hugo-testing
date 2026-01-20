@@ -18,10 +18,10 @@ The package fcitx-chewing (version 0.2.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [zh_Hans]({{< ref "/f23/language/zh_Hans.md" >}}) | 52 | 52 | 100.0 | /mnt/stockage/packages/f23/fcitx-chewing/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f23/language/zh_Hant.md" >}}) | 52 | 52 | 100.0 | /mnt/stockage/packages/f23/fcitx-chewing/po/zh_TW.po | 
- | [de]({{< ref "/f23/language/de.md" >}}) | 46 | 52 | 88.5 | /mnt/stockage/packages/f23/fcitx-chewing/po/de.po | 
- | [ja]({{< ref "/f23/language/ja.md" >}}) | 38 | 52 | 73.1 | /mnt/stockage/packages/f23/fcitx-chewing/po/ja.po | 
+ | [zh_Hans](/f23/language/zh_Hans) | 52 | 52 | 100.0 | /mnt/stockage/packages/f23/fcitx-chewing/po/zh_CN.po | 
+ | [zh_Hant](/f23/language/zh_Hant) | 52 | 52 | 100.0 | /mnt/stockage/packages/f23/fcitx-chewing/po/zh_TW.po | 
+ | [de](/f23/language/de) | 46 | 52 | 88.5 | /mnt/stockage/packages/f23/fcitx-chewing/po/de.po | 
+ | [ja](/f23/language/ja) | 38 | 52 | 73.1 | /mnt/stockage/packages/f23/fcitx-chewing/po/ja.po | 
 {.sortable}
 
 

@@ -18,14 +18,14 @@ The package giac (version 1.6.0.25):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f32/language/fr.md" >}}) | 7810 | 8206 | 95.2 | /mnt/stockage/packages/f32/giac/po/fr.po | 
- | [de]({{< ref "/f32/language/de.md" >}}) | 4690 | 8206 | 57.2 | /mnt/stockage/packages/f32/giac/po/de.po | 
- | [es]({{< ref "/f32/language/es.md" >}}) | 4466 | 8206 | 54.4 | /mnt/stockage/packages/f32/giac/po/es.po | 
- | [pt]({{< ref "/f32/language/pt.md" >}}) | 4214 | 8206 | 51.4 | /mnt/stockage/packages/f32/giac/po/pt.po | 
- | [zh_Hans]({{< ref "/f32/language/zh_Hans.md" >}}) | 4214 | 8206 | 51.4 | /mnt/stockage/packages/f32/giac/po/zh.po | 
- | [el]({{< ref "/f32/language/el.md" >}}) | 3214 | 8206 | 39.2 | /mnt/stockage/packages/f32/giac/po/el.po | 
- | [en]({{< ref "/f32/language/en.md" >}}) | 2860 | 8206 | 34.9 | /mnt/stockage/packages/f32/giac/po/en.po | 
- | [it]({{< ref "/f32/language/it.md" >}}) | 0 | 8206 | 0.0 | /mnt/stockage/packages/f32/giac/po/it.po | 
+ | [fr](/f32/language/fr) | 7810 | 8206 | 95.2 | /mnt/stockage/packages/f32/giac/po/fr.po | 
+ | [de](/f32/language/de) | 4690 | 8206 | 57.2 | /mnt/stockage/packages/f32/giac/po/de.po | 
+ | [es](/f32/language/es) | 4466 | 8206 | 54.4 | /mnt/stockage/packages/f32/giac/po/es.po | 
+ | [pt](/f32/language/pt) | 4214 | 8206 | 51.4 | /mnt/stockage/packages/f32/giac/po/pt.po | 
+ | [zh_Hans](/f32/language/zh_Hans) | 4214 | 8206 | 51.4 | /mnt/stockage/packages/f32/giac/po/zh.po | 
+ | [el](/f32/language/el) | 3214 | 8206 | 39.2 | /mnt/stockage/packages/f32/giac/po/el.po | 
+ | [en](/f32/language/en) | 2860 | 8206 | 34.9 | /mnt/stockage/packages/f32/giac/po/en.po | 
+ | [it](/f32/language/it) | 0 | 8206 | 0.0 | /mnt/stockage/packages/f32/giac/po/it.po | 
 {.sortable}
 
 

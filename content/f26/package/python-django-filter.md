@@ -18,12 +18,12 @@ The package python-django-filter (version 1.0.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f26/language/de.md" >}}) | 13 | 13 | 100.0 | /mnt/stockage/packages/f26/python-django-filter/django_filters/locale/de/LC_MESSAGES/django.po | 
- | [es_AR]({{< ref "/f26/language/es_AR.md" >}}) | 16 | 16 | 100.0 | /mnt/stockage/packages/f26/python-django-filter/django_filters/locale/es_AR/LC_MESSAGES/django.po | 
- | [fr]({{< ref "/f26/language/fr.md" >}}) | 16 | 16 | 100.0 | /mnt/stockage/packages/f26/python-django-filter/django_filters/locale/fr/LC_MESSAGES/django.po | 
- | [pl]({{< ref "/f26/language/pl.md" >}}) | 21 | 21 | 100.0 | /mnt/stockage/packages/f26/python-django-filter/django_filters/locale/pl/LC_MESSAGES/django.po | 
- | [ru]({{< ref "/f26/language/ru.md" >}}) | 13 | 13 | 100.0 | /mnt/stockage/packages/f26/python-django-filter/django_filters/locale/ru/LC_MESSAGES/django.po | 
- | [zh_Hans]({{< ref "/f26/language/zh_Hans.md" >}}) | 21 | 21 | 100.0 | /mnt/stockage/packages/f26/python-django-filter/django_filters/locale/zh_CN/LC_MESSAGES/django.po | 
+ | [de](/f26/language/de) | 13 | 13 | 100.0 | /mnt/stockage/packages/f26/python-django-filter/django_filters/locale/de/LC_MESSAGES/django.po | 
+ | [es_AR](/f26/language/es_AR) | 16 | 16 | 100.0 | /mnt/stockage/packages/f26/python-django-filter/django_filters/locale/es_AR/LC_MESSAGES/django.po | 
+ | [fr](/f26/language/fr) | 16 | 16 | 100.0 | /mnt/stockage/packages/f26/python-django-filter/django_filters/locale/fr/LC_MESSAGES/django.po | 
+ | [pl](/f26/language/pl) | 21 | 21 | 100.0 | /mnt/stockage/packages/f26/python-django-filter/django_filters/locale/pl/LC_MESSAGES/django.po | 
+ | [ru](/f26/language/ru) | 13 | 13 | 100.0 | /mnt/stockage/packages/f26/python-django-filter/django_filters/locale/ru/LC_MESSAGES/django.po | 
+ | [zh_Hans](/f26/language/zh_Hans) | 21 | 21 | 100.0 | /mnt/stockage/packages/f26/python-django-filter/django_filters/locale/zh_CN/LC_MESSAGES/django.po | 
 {.sortable}
 
 

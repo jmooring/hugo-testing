@@ -18,50 +18,50 @@ The package mingw-wxWidgets3 (version 3.0.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [bg]({{< ref "/f34/language/bg.md" >}}) | 52 | 52 | 100.0 | /mnt/stockage/packages/f34/mingw-wxWidgets3/samples/internat/bg/internat.po | 
- | [ka]({{< ref "/f34/language/ka.md" >}}) | 51 | 51 | 100.0 | /mnt/stockage/packages/f34/mingw-wxWidgets3/samples/internat/ka/internat.po | 
- | [pt_BR]({{< ref "/f34/language/pt_BR.md" >}}) | 7880 | 7880 | 100.0 | /mnt/stockage/packages/f34/mingw-wxWidgets3/locale/pt_BR.po | 
- | [sv]({{< ref "/f34/language/sv.md" >}}) | 7700 | 7805 | 98.7 | /mnt/stockage/packages/f34/mingw-wxWidgets3/locale/sv.po/mnt/stockage/packages/f34/mingw-wxWidgets3/samples/internat/sv/internat.po | 
- | [ro]({{< ref "/f34/language/ro.md" >}}) | 7590 | 7695 | 98.6 | /mnt/stockage/packages/f34/mingw-wxWidgets3/locale/ro.po | 
- | [de]({{< ref "/f34/language/de.md" >}}) | 7639 | 7746 | 98.6 | /mnt/stockage/packages/f34/mingw-wxWidgets3/locale/de.po/mnt/stockage/packages/f34/mingw-wxWidgets3/samples/internat/de/internat.po | 
- | [es]({{< ref "/f34/language/es.md" >}}) | 7587 | 7695 | 98.6 | /mnt/stockage/packages/f34/mingw-wxWidgets3/locale/es.po | 
- | [eu]({{< ref "/f34/language/eu.md" >}}) | 7587 | 7695 | 98.6 | /mnt/stockage/packages/f34/mingw-wxWidgets3/locale/eu.po | 
- | [ta]({{< ref "/f34/language/ta.md" >}}) | 7587 | 7695 | 98.6 | /mnt/stockage/packages/f34/mingw-wxWidgets3/locale/ta.po | 
- | [uk]({{< ref "/f34/language/uk.md" >}}) | 7587 | 7695 | 98.6 | /mnt/stockage/packages/f34/mingw-wxWidgets3/locale/uk.po | 
- | [it]({{< ref "/f34/language/it.md" >}}) | 7746 | 7876 | 98.3 | /mnt/stockage/packages/f34/mingw-wxWidgets3/locale/it.po/mnt/stockage/packages/f34/mingw-wxWidgets3/locale/msw/it.po/mnt/stockage/packages/f34/mingw-wxWidgets3/samples/internat/it/internat.po | 
- | [an]({{< ref "/f34/language/an.md" >}}) | 7565 | 7695 | 98.3 | /mnt/stockage/packages/f34/mingw-wxWidgets3/locale/an.po | 
- | [gl]({{< ref "/f34/language/gl.md" >}}) | 7565 | 7695 | 98.3 | /mnt/stockage/packages/f34/mingw-wxWidgets3/locale/gl_ES.po | 
- | [id]({{< ref "/f34/language/id.md" >}}) | 7565 | 7695 | 98.3 | /mnt/stockage/packages/f34/mingw-wxWidgets3/locale/id.po | 
- | [nl]({{< ref "/f34/language/nl.md" >}}) | 7565 | 7695 | 98.3 | /mnt/stockage/packages/f34/mingw-wxWidgets3/locale/nl.po | 
- | [tr]({{< ref "/f34/language/tr.md" >}}) | 7565 | 7695 | 98.3 | /mnt/stockage/packages/f34/mingw-wxWidgets3/locale/tr.po | 
- | [pl]({{< ref "/f34/language/pl.md" >}}) | 7667 | 7805 | 98.2 | /mnt/stockage/packages/f34/mingw-wxWidgets3/locale/pl.po/mnt/stockage/packages/f34/mingw-wxWidgets3/samples/internat/pl/internat.po | 
- | [vi]({{< ref "/f34/language/vi.md" >}}) | 7557 | 7695 | 98.2 | /mnt/stockage/packages/f34/mingw-wxWidgets3/locale/vi.po | 
- | [cs]({{< ref "/f34/language/cs.md" >}}) | 7624 | 7800 | 97.7 | /mnt/stockage/packages/f34/mingw-wxWidgets3/locale/cs.po/mnt/stockage/packages/f34/mingw-wxWidgets3/samples/internat/cs/internat.po | 
- | [ne]({{< ref "/f34/language/ne.md" >}}) | 7489 | 7695 | 97.3 | /mnt/stockage/packages/f34/mingw-wxWidgets3/locale/ne.po | 
- | [zh_Hans]({{< ref "/f34/language/zh_Hans.md" >}}) | 7483 | 7695 | 97.2 | /mnt/stockage/packages/f34/mingw-wxWidgets3/locale/zh_CN.po | 
- | [zh_Hant]({{< ref "/f34/language/zh_Hant.md" >}}) | 7383 | 7695 | 95.9 | /mnt/stockage/packages/f34/mingw-wxWidgets3/locale/zh_TW.po | 
- | [error]({{< ref "/f34/language/error.md" >}}) | 63 | 67 | 94.0 | /mnt/stockage/packages/f34/mingw-wxWidgets3/samples/internat/ja_JP.EUC-JP/internat.po | 
- | [fr]({{< ref "/f34/language/fr.md" >}}) | 7244 | 7797 | 92.9 | /mnt/stockage/packages/f34/mingw-wxWidgets3/locale/fr.po/mnt/stockage/packages/f34/mingw-wxWidgets3/samples/internat/fr/internat.po/mnt/stockage/packages/f34/mingw-wxWidgets3/tests/intl/fr/internat.po | 
- | [sl]({{< ref "/f34/language/sl.md" >}}) | 6880 | 7695 | 89.4 | /mnt/stockage/packages/f34/mingw-wxWidgets3/locale/sl.po | 
- | [ja]({{< ref "/f34/language/ja.md" >}}) | 6671 | 7801 | 85.5 | /mnt/stockage/packages/f34/mingw-wxWidgets3/locale/ja.po/mnt/stockage/packages/f34/mingw-wxWidgets3/samples/internat/ja/internat.po | 
- | [ru]({{< ref "/f34/language/ru.md" >}}) | 6610 | 7795 | 84.8 | /mnt/stockage/packages/f34/mingw-wxWidgets3/locale/ru.po/mnt/stockage/packages/f34/mingw-wxWidgets3/samples/internat/ru/internat.po | 
- | [lv]({{< ref "/f34/language/lv.md" >}}) | 6165 | 7695 | 80.1 | /mnt/stockage/packages/f34/mingw-wxWidgets3/locale/lv.po | 
- | [ko]({{< ref "/f34/language/ko.md" >}}) | 5770 | 7695 | 75.0 | /mnt/stockage/packages/f34/mingw-wxWidgets3/locale/ko_KR.po | 
- | [pt]({{< ref "/f34/language/pt.md" >}}) | 5646 | 7695 | 73.4 | /mnt/stockage/packages/f34/mingw-wxWidgets3/locale/pt.po | 
- | [ms]({{< ref "/f34/language/ms.md" >}}) | 5324 | 7695 | 69.2 | /mnt/stockage/packages/f34/mingw-wxWidgets3/locale/ms.po | 
- | [af]({{< ref "/f34/language/af.md" >}}) | 5323 | 7695 | 69.2 | /mnt/stockage/packages/f34/mingw-wxWidgets3/locale/af.po | 
- | [fi]({{< ref "/f34/language/fi.md" >}}) | 5115 | 7695 | 66.5 | /mnt/stockage/packages/f34/mingw-wxWidgets3/locale/fi.po | 
- | [hi]({{< ref "/f34/language/hi.md" >}}) | 4497 | 7695 | 58.4 | /mnt/stockage/packages/f34/mingw-wxWidgets3/locale/hi.po | 
- | [hu]({{< ref "/f34/language/hu.md" >}}) | 4484 | 7695 | 58.3 | /mnt/stockage/packages/f34/mingw-wxWidgets3/locale/hu.po | 
- | [sq]({{< ref "/f34/language/sq.md" >}}) | 4325 | 7695 | 56.2 | /mnt/stockage/packages/f34/mingw-wxWidgets3/locale/sq.po | 
- | [sk]({{< ref "/f34/language/sk.md" >}}) | 4071 | 7695 | 52.9 | /mnt/stockage/packages/f34/mingw-wxWidgets3/locale/sk.po | 
- | [nb_NO]({{< ref "/f34/language/nb_NO.md" >}}) | 3993 | 7695 | 51.9 | /mnt/stockage/packages/f34/mingw-wxWidgets3/locale/nb.po | 
- | [el]({{< ref "/f34/language/el.md" >}}) | 3719 | 7695 | 48.3 | /mnt/stockage/packages/f34/mingw-wxWidgets3/locale/el.po | 
- | [da]({{< ref "/f34/language/da.md" >}}) | 3537 | 7695 | 46.0 | /mnt/stockage/packages/f34/mingw-wxWidgets3/locale/da.po | 
- | [ca]({{< ref "/f34/language/ca.md" >}}) | 2934 | 7695 | 38.1 | /mnt/stockage/packages/f34/mingw-wxWidgets3/locale/ca.po | 
- | [ca@valencia]({{< ref "/f34/language/ca@valencia.md" >}}) | 2928 | 7695 | 38.1 | /mnt/stockage/packages/f34/mingw-wxWidgets3/locale/ca@valencia.po | 
- | [ar]({{< ref "/f34/language/ar.md" >}}) | 1854 | 7805 | 23.8 | /mnt/stockage/packages/f34/mingw-wxWidgets3/locale/ar.po/mnt/stockage/packages/f34/mingw-wxWidgets3/samples/internat/ar/internat.po | 
- | [lt]({{< ref "/f34/language/lt.md" >}}) | 301 | 7695 | 3.9 | /mnt/stockage/packages/f34/mingw-wxWidgets3/locale/lt.po | 
+ | [bg](/f34/language/bg) | 52 | 52 | 100.0 | /mnt/stockage/packages/f34/mingw-wxWidgets3/samples/internat/bg/internat.po | 
+ | [ka](/f34/language/ka) | 51 | 51 | 100.0 | /mnt/stockage/packages/f34/mingw-wxWidgets3/samples/internat/ka/internat.po | 
+ | [pt_BR](/f34/language/pt_BR) | 7880 | 7880 | 100.0 | /mnt/stockage/packages/f34/mingw-wxWidgets3/locale/pt_BR.po | 
+ | [sv](/f34/language/sv) | 7700 | 7805 | 98.7 | /mnt/stockage/packages/f34/mingw-wxWidgets3/locale/sv.po/mnt/stockage/packages/f34/mingw-wxWidgets3/samples/internat/sv/internat.po | 
+ | [ro](/f34/language/ro) | 7590 | 7695 | 98.6 | /mnt/stockage/packages/f34/mingw-wxWidgets3/locale/ro.po | 
+ | [de](/f34/language/de) | 7639 | 7746 | 98.6 | /mnt/stockage/packages/f34/mingw-wxWidgets3/locale/de.po/mnt/stockage/packages/f34/mingw-wxWidgets3/samples/internat/de/internat.po | 
+ | [es](/f34/language/es) | 7587 | 7695 | 98.6 | /mnt/stockage/packages/f34/mingw-wxWidgets3/locale/es.po | 
+ | [eu](/f34/language/eu) | 7587 | 7695 | 98.6 | /mnt/stockage/packages/f34/mingw-wxWidgets3/locale/eu.po | 
+ | [ta](/f34/language/ta) | 7587 | 7695 | 98.6 | /mnt/stockage/packages/f34/mingw-wxWidgets3/locale/ta.po | 
+ | [uk](/f34/language/uk) | 7587 | 7695 | 98.6 | /mnt/stockage/packages/f34/mingw-wxWidgets3/locale/uk.po | 
+ | [it](/f34/language/it) | 7746 | 7876 | 98.3 | /mnt/stockage/packages/f34/mingw-wxWidgets3/locale/it.po/mnt/stockage/packages/f34/mingw-wxWidgets3/locale/msw/it.po/mnt/stockage/packages/f34/mingw-wxWidgets3/samples/internat/it/internat.po | 
+ | [an](/f34/language/an) | 7565 | 7695 | 98.3 | /mnt/stockage/packages/f34/mingw-wxWidgets3/locale/an.po | 
+ | [gl](/f34/language/gl) | 7565 | 7695 | 98.3 | /mnt/stockage/packages/f34/mingw-wxWidgets3/locale/gl_ES.po | 
+ | [id](/f34/language/id) | 7565 | 7695 | 98.3 | /mnt/stockage/packages/f34/mingw-wxWidgets3/locale/id.po | 
+ | [nl](/f34/language/nl) | 7565 | 7695 | 98.3 | /mnt/stockage/packages/f34/mingw-wxWidgets3/locale/nl.po | 
+ | [tr](/f34/language/tr) | 7565 | 7695 | 98.3 | /mnt/stockage/packages/f34/mingw-wxWidgets3/locale/tr.po | 
+ | [pl](/f34/language/pl) | 7667 | 7805 | 98.2 | /mnt/stockage/packages/f34/mingw-wxWidgets3/locale/pl.po/mnt/stockage/packages/f34/mingw-wxWidgets3/samples/internat/pl/internat.po | 
+ | [vi](/f34/language/vi) | 7557 | 7695 | 98.2 | /mnt/stockage/packages/f34/mingw-wxWidgets3/locale/vi.po | 
+ | [cs](/f34/language/cs) | 7624 | 7800 | 97.7 | /mnt/stockage/packages/f34/mingw-wxWidgets3/locale/cs.po/mnt/stockage/packages/f34/mingw-wxWidgets3/samples/internat/cs/internat.po | 
+ | [ne](/f34/language/ne) | 7489 | 7695 | 97.3 | /mnt/stockage/packages/f34/mingw-wxWidgets3/locale/ne.po | 
+ | [zh_Hans](/f34/language/zh_Hans) | 7483 | 7695 | 97.2 | /mnt/stockage/packages/f34/mingw-wxWidgets3/locale/zh_CN.po | 
+ | [zh_Hant](/f34/language/zh_Hant) | 7383 | 7695 | 95.9 | /mnt/stockage/packages/f34/mingw-wxWidgets3/locale/zh_TW.po | 
+ | [error](/f34/language/error) | 63 | 67 | 94.0 | /mnt/stockage/packages/f34/mingw-wxWidgets3/samples/internat/ja_JP.EUC-JP/internat.po | 
+ | [fr](/f34/language/fr) | 7244 | 7797 | 92.9 | /mnt/stockage/packages/f34/mingw-wxWidgets3/locale/fr.po/mnt/stockage/packages/f34/mingw-wxWidgets3/samples/internat/fr/internat.po/mnt/stockage/packages/f34/mingw-wxWidgets3/tests/intl/fr/internat.po | 
+ | [sl](/f34/language/sl) | 6880 | 7695 | 89.4 | /mnt/stockage/packages/f34/mingw-wxWidgets3/locale/sl.po | 
+ | [ja](/f34/language/ja) | 6671 | 7801 | 85.5 | /mnt/stockage/packages/f34/mingw-wxWidgets3/locale/ja.po/mnt/stockage/packages/f34/mingw-wxWidgets3/samples/internat/ja/internat.po | 
+ | [ru](/f34/language/ru) | 6610 | 7795 | 84.8 | /mnt/stockage/packages/f34/mingw-wxWidgets3/locale/ru.po/mnt/stockage/packages/f34/mingw-wxWidgets3/samples/internat/ru/internat.po | 
+ | [lv](/f34/language/lv) | 6165 | 7695 | 80.1 | /mnt/stockage/packages/f34/mingw-wxWidgets3/locale/lv.po | 
+ | [ko](/f34/language/ko) | 5770 | 7695 | 75.0 | /mnt/stockage/packages/f34/mingw-wxWidgets3/locale/ko_KR.po | 
+ | [pt](/f34/language/pt) | 5646 | 7695 | 73.4 | /mnt/stockage/packages/f34/mingw-wxWidgets3/locale/pt.po | 
+ | [ms](/f34/language/ms) | 5324 | 7695 | 69.2 | /mnt/stockage/packages/f34/mingw-wxWidgets3/locale/ms.po | 
+ | [af](/f34/language/af) | 5323 | 7695 | 69.2 | /mnt/stockage/packages/f34/mingw-wxWidgets3/locale/af.po | 
+ | [fi](/f34/language/fi) | 5115 | 7695 | 66.5 | /mnt/stockage/packages/f34/mingw-wxWidgets3/locale/fi.po | 
+ | [hi](/f34/language/hi) | 4497 | 7695 | 58.4 | /mnt/stockage/packages/f34/mingw-wxWidgets3/locale/hi.po | 
+ | [hu](/f34/language/hu) | 4484 | 7695 | 58.3 | /mnt/stockage/packages/f34/mingw-wxWidgets3/locale/hu.po | 
+ | [sq](/f34/language/sq) | 4325 | 7695 | 56.2 | /mnt/stockage/packages/f34/mingw-wxWidgets3/locale/sq.po | 
+ | [sk](/f34/language/sk) | 4071 | 7695 | 52.9 | /mnt/stockage/packages/f34/mingw-wxWidgets3/locale/sk.po | 
+ | [nb_NO](/f34/language/nb_NO) | 3993 | 7695 | 51.9 | /mnt/stockage/packages/f34/mingw-wxWidgets3/locale/nb.po | 
+ | [el](/f34/language/el) | 3719 | 7695 | 48.3 | /mnt/stockage/packages/f34/mingw-wxWidgets3/locale/el.po | 
+ | [da](/f34/language/da) | 3537 | 7695 | 46.0 | /mnt/stockage/packages/f34/mingw-wxWidgets3/locale/da.po | 
+ | [ca](/f34/language/ca) | 2934 | 7695 | 38.1 | /mnt/stockage/packages/f34/mingw-wxWidgets3/locale/ca.po | 
+ | [ca@valencia](/f34/language/ca@valencia) | 2928 | 7695 | 38.1 | /mnt/stockage/packages/f34/mingw-wxWidgets3/locale/ca@valencia.po | 
+ | [ar](/f34/language/ar) | 1854 | 7805 | 23.8 | /mnt/stockage/packages/f34/mingw-wxWidgets3/locale/ar.po/mnt/stockage/packages/f34/mingw-wxWidgets3/samples/internat/ar/internat.po | 
+ | [lt](/f34/language/lt) | 301 | 7695 | 3.9 | /mnt/stockage/packages/f34/mingw-wxWidgets3/locale/lt.po | 
 {.sortable}
 
 

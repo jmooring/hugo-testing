@@ -18,13 +18,13 @@ The package gnome-chemistry-utils (version 0.8.7):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f7/language/de.md" >}}) | 1184 | 1184 | 100.0 | /mnt/stockage/packages/f7/gnome-chemistry-utils/po/de.po | 
- | [fr]({{< ref "/f7/language/fr.md" >}}) | 1184 | 1184 | 100.0 | /mnt/stockage/packages/f7/gnome-chemistry-utils/po/fr.po | 
- | [pt_BR]({{< ref "/f7/language/pt_BR.md" >}}) | 1210 | 1210 | 100.0 | /mnt/stockage/packages/f7/gnome-chemistry-utils/po/pt_BR.po | 
- | [pl]({{< ref "/f7/language/pl.md" >}}) | 1074 | 1184 | 90.7 | /mnt/stockage/packages/f7/gnome-chemistry-utils/po/pl.po | 
- | [it]({{< ref "/f7/language/it.md" >}}) | 881 | 1184 | 74.4 | /mnt/stockage/packages/f7/gnome-chemistry-utils/po/it.po | 
- | [ru]({{< ref "/f7/language/ru.md" >}}) | 206 | 1184 | 17.4 | /mnt/stockage/packages/f7/gnome-chemistry-utils/po/ru.po | 
- | [es]({{< ref "/f7/language/es.md" >}}) | 105 | 1184 | 8.9 | /mnt/stockage/packages/f7/gnome-chemistry-utils/po/es.po | 
+ | [de](/f7/language/de) | 1184 | 1184 | 100.0 | /mnt/stockage/packages/f7/gnome-chemistry-utils/po/de.po | 
+ | [fr](/f7/language/fr) | 1184 | 1184 | 100.0 | /mnt/stockage/packages/f7/gnome-chemistry-utils/po/fr.po | 
+ | [pt_BR](/f7/language/pt_BR) | 1210 | 1210 | 100.0 | /mnt/stockage/packages/f7/gnome-chemistry-utils/po/pt_BR.po | 
+ | [pl](/f7/language/pl) | 1074 | 1184 | 90.7 | /mnt/stockage/packages/f7/gnome-chemistry-utils/po/pl.po | 
+ | [it](/f7/language/it) | 881 | 1184 | 74.4 | /mnt/stockage/packages/f7/gnome-chemistry-utils/po/it.po | 
+ | [ru](/f7/language/ru) | 206 | 1184 | 17.4 | /mnt/stockage/packages/f7/gnome-chemistry-utils/po/ru.po | 
+ | [es](/f7/language/es) | 105 | 1184 | 8.9 | /mnt/stockage/packages/f7/gnome-chemistry-utils/po/es.po | 
 {.sortable}
 
 

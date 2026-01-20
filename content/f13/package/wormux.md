@@ -18,41 +18,41 @@ The package wormux (version 0.9.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [bg]({{< ref "/f13/language/bg.md" >}}) | 1916 | 1916 | 100.0 | /mnt/stockage/packages/f13/wormux/po/bg.po | 
- | [de]({{< ref "/f13/language/de.md" >}}) | 1916 | 1916 | 100.0 | /mnt/stockage/packages/f13/wormux/po/de.po | 
- | [el]({{< ref "/f13/language/el.md" >}}) | 1916 | 1916 | 100.0 | /mnt/stockage/packages/f13/wormux/po/el.po | 
- | [fi]({{< ref "/f13/language/fi.md" >}}) | 1916 | 1916 | 100.0 | /mnt/stockage/packages/f13/wormux/po/fi.po | 
- | [ja]({{< ref "/f13/language/ja.md" >}}) | 1916 | 1916 | 100.0 | /mnt/stockage/packages/f13/wormux/po/ja_JP.po | 
- | [sl]({{< ref "/f13/language/sl.md" >}}) | 1916 | 1916 | 100.0 | /mnt/stockage/packages/f13/wormux/po/sl.po | 
- | [fr]({{< ref "/f13/language/fr.md" >}}) | 1915 | 1916 | 99.9 | /mnt/stockage/packages/f13/wormux/po/fr.po | 
- | [es]({{< ref "/f13/language/es.md" >}}) | 1911 | 1916 | 99.7 | /mnt/stockage/packages/f13/wormux/po/es.po | 
- | [gl]({{< ref "/f13/language/gl.md" >}}) | 1911 | 1916 | 99.7 | /mnt/stockage/packages/f13/wormux/po/gl.po | 
- | [it]({{< ref "/f13/language/it.md" >}}) | 1911 | 1916 | 99.7 | /mnt/stockage/packages/f13/wormux/po/it.po | 
- | [nl]({{< ref "/f13/language/nl.md" >}}) | 1911 | 1916 | 99.7 | /mnt/stockage/packages/f13/wormux/po/nl.po | 
- | [nn]({{< ref "/f13/language/nn.md" >}}) | 1911 | 1916 | 99.7 | /mnt/stockage/packages/f13/wormux/po/nn.po | 
- | [pt_BR]({{< ref "/f13/language/pt_BR.md" >}}) | 1911 | 1916 | 99.7 | /mnt/stockage/packages/f13/wormux/po/pt_BR.po | 
- | [zh_Hans]({{< ref "/f13/language/zh_Hans.md" >}}) | 1911 | 1916 | 99.7 | /mnt/stockage/packages/f13/wormux/po/zh_CN.po | 
- | [pl]({{< ref "/f13/language/pl.md" >}}) | 1877 | 1916 | 98.0 | /mnt/stockage/packages/f13/wormux/po/pl.po | 
- | [pt]({{< ref "/f13/language/pt.md" >}}) | 1865 | 1916 | 97.3 | /mnt/stockage/packages/f13/wormux/po/pt.po | 
- | [ro]({{< ref "/f13/language/ro.md" >}}) | 1865 | 1916 | 97.3 | /mnt/stockage/packages/f13/wormux/po/ro.po | 
- | [sv]({{< ref "/f13/language/sv.md" >}}) | 1835 | 1916 | 95.8 | /mnt/stockage/packages/f13/wormux/po/sv.po | 
- | [da]({{< ref "/f13/language/da.md" >}}) | 1341 | 1916 | 70.0 | /mnt/stockage/packages/f13/wormux/po/da.po | 
- | [zh_Hant]({{< ref "/f13/language/zh_Hant.md" >}}) | 1341 | 1916 | 70.0 | /mnt/stockage/packages/f13/wormux/po/zh_TW.po | 
- | [kw]({{< ref "/f13/language/kw.md" >}}) | 1336 | 1916 | 69.7 | /mnt/stockage/packages/f13/wormux/po/kw.po | 
- | [et]({{< ref "/f13/language/et.md" >}}) | 1328 | 1916 | 69.3 | /mnt/stockage/packages/f13/wormux/po/et.po | 
- | [ca]({{< ref "/f13/language/ca.md" >}}) | 1317 | 1916 | 68.7 | /mnt/stockage/packages/f13/wormux/po/ca.po | 
- | [hu]({{< ref "/f13/language/hu.md" >}}) | 1317 | 1916 | 68.7 | /mnt/stockage/packages/f13/wormux/po/hu.po | 
- | [ru]({{< ref "/f13/language/ru.md" >}}) | 1317 | 1916 | 68.7 | /mnt/stockage/packages/f13/wormux/po/ru.po | 
- | [eo]({{< ref "/f13/language/eo.md" >}}) | 1314 | 1916 | 68.6 | /mnt/stockage/packages/f13/wormux/po/eo.po | 
- | [cs]({{< ref "/f13/language/cs.md" >}}) | 1239 | 1916 | 64.7 | /mnt/stockage/packages/f13/wormux/po/cs.po | 
- | [nb_NO]({{< ref "/f13/language/nb_NO.md" >}}) | 1137 | 1916 | 59.3 | /mnt/stockage/packages/f13/wormux/po/nb.po | 
- | [cpf]({{< ref "/f13/language/cpf.md" >}}) | 940 | 1916 | 49.1 | /mnt/stockage/packages/f13/wormux/po/cpf.po | 
- | [he]({{< ref "/f13/language/he.md" >}}) | 940 | 1916 | 49.1 | /mnt/stockage/packages/f13/wormux/po/he.po | 
- | [fa]({{< ref "/f13/language/fa.md" >}}) | 912 | 1916 | 47.6 | /mnt/stockage/packages/f13/wormux/po/fa.po | 
- | [bs]({{< ref "/f13/language/bs.md" >}}) | 910 | 1916 | 47.5 | /mnt/stockage/packages/f13/wormux/po/bs.po | 
- | [lv]({{< ref "/f13/language/lv.md" >}}) | 625 | 1916 | 32.6 | /mnt/stockage/packages/f13/wormux/po/lv.po | 
- | [sk]({{< ref "/f13/language/sk.md" >}}) | 319 | 1916 | 16.6 | /mnt/stockage/packages/f13/wormux/po/sk.po | 
- | [tr]({{< ref "/f13/language/tr.md" >}}) | 245 | 1916 | 12.8 | /mnt/stockage/packages/f13/wormux/po/tr.po | 
+ | [bg](/f13/language/bg) | 1916 | 1916 | 100.0 | /mnt/stockage/packages/f13/wormux/po/bg.po | 
+ | [de](/f13/language/de) | 1916 | 1916 | 100.0 | /mnt/stockage/packages/f13/wormux/po/de.po | 
+ | [el](/f13/language/el) | 1916 | 1916 | 100.0 | /mnt/stockage/packages/f13/wormux/po/el.po | 
+ | [fi](/f13/language/fi) | 1916 | 1916 | 100.0 | /mnt/stockage/packages/f13/wormux/po/fi.po | 
+ | [ja](/f13/language/ja) | 1916 | 1916 | 100.0 | /mnt/stockage/packages/f13/wormux/po/ja_JP.po | 
+ | [sl](/f13/language/sl) | 1916 | 1916 | 100.0 | /mnt/stockage/packages/f13/wormux/po/sl.po | 
+ | [fr](/f13/language/fr) | 1915 | 1916 | 99.9 | /mnt/stockage/packages/f13/wormux/po/fr.po | 
+ | [es](/f13/language/es) | 1911 | 1916 | 99.7 | /mnt/stockage/packages/f13/wormux/po/es.po | 
+ | [gl](/f13/language/gl) | 1911 | 1916 | 99.7 | /mnt/stockage/packages/f13/wormux/po/gl.po | 
+ | [it](/f13/language/it) | 1911 | 1916 | 99.7 | /mnt/stockage/packages/f13/wormux/po/it.po | 
+ | [nl](/f13/language/nl) | 1911 | 1916 | 99.7 | /mnt/stockage/packages/f13/wormux/po/nl.po | 
+ | [nn](/f13/language/nn) | 1911 | 1916 | 99.7 | /mnt/stockage/packages/f13/wormux/po/nn.po | 
+ | [pt_BR](/f13/language/pt_BR) | 1911 | 1916 | 99.7 | /mnt/stockage/packages/f13/wormux/po/pt_BR.po | 
+ | [zh_Hans](/f13/language/zh_Hans) | 1911 | 1916 | 99.7 | /mnt/stockage/packages/f13/wormux/po/zh_CN.po | 
+ | [pl](/f13/language/pl) | 1877 | 1916 | 98.0 | /mnt/stockage/packages/f13/wormux/po/pl.po | 
+ | [pt](/f13/language/pt) | 1865 | 1916 | 97.3 | /mnt/stockage/packages/f13/wormux/po/pt.po | 
+ | [ro](/f13/language/ro) | 1865 | 1916 | 97.3 | /mnt/stockage/packages/f13/wormux/po/ro.po | 
+ | [sv](/f13/language/sv) | 1835 | 1916 | 95.8 | /mnt/stockage/packages/f13/wormux/po/sv.po | 
+ | [da](/f13/language/da) | 1341 | 1916 | 70.0 | /mnt/stockage/packages/f13/wormux/po/da.po | 
+ | [zh_Hant](/f13/language/zh_Hant) | 1341 | 1916 | 70.0 | /mnt/stockage/packages/f13/wormux/po/zh_TW.po | 
+ | [kw](/f13/language/kw) | 1336 | 1916 | 69.7 | /mnt/stockage/packages/f13/wormux/po/kw.po | 
+ | [et](/f13/language/et) | 1328 | 1916 | 69.3 | /mnt/stockage/packages/f13/wormux/po/et.po | 
+ | [ca](/f13/language/ca) | 1317 | 1916 | 68.7 | /mnt/stockage/packages/f13/wormux/po/ca.po | 
+ | [hu](/f13/language/hu) | 1317 | 1916 | 68.7 | /mnt/stockage/packages/f13/wormux/po/hu.po | 
+ | [ru](/f13/language/ru) | 1317 | 1916 | 68.7 | /mnt/stockage/packages/f13/wormux/po/ru.po | 
+ | [eo](/f13/language/eo) | 1314 | 1916 | 68.6 | /mnt/stockage/packages/f13/wormux/po/eo.po | 
+ | [cs](/f13/language/cs) | 1239 | 1916 | 64.7 | /mnt/stockage/packages/f13/wormux/po/cs.po | 
+ | [nb_NO](/f13/language/nb_NO) | 1137 | 1916 | 59.3 | /mnt/stockage/packages/f13/wormux/po/nb.po | 
+ | [cpf](/f13/language/cpf) | 940 | 1916 | 49.1 | /mnt/stockage/packages/f13/wormux/po/cpf.po | 
+ | [he](/f13/language/he) | 940 | 1916 | 49.1 | /mnt/stockage/packages/f13/wormux/po/he.po | 
+ | [fa](/f13/language/fa) | 912 | 1916 | 47.6 | /mnt/stockage/packages/f13/wormux/po/fa.po | 
+ | [bs](/f13/language/bs) | 910 | 1916 | 47.5 | /mnt/stockage/packages/f13/wormux/po/bs.po | 
+ | [lv](/f13/language/lv) | 625 | 1916 | 32.6 | /mnt/stockage/packages/f13/wormux/po/lv.po | 
+ | [sk](/f13/language/sk) | 319 | 1916 | 16.6 | /mnt/stockage/packages/f13/wormux/po/sk.po | 
+ | [tr](/f13/language/tr) | 245 | 1916 | 12.8 | /mnt/stockage/packages/f13/wormux/po/tr.po | 
 {.sortable}
 
 

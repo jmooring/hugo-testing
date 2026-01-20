@@ -18,20 +18,20 @@ The package newsbeuter (version 2.7):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f18/language/de.md" >}}) | 1261 | 1261 | 100.0 | /mnt/stockage/packages/f18/newsbeuter/po/de.po | 
- | [nb_NO]({{< ref "/f18/language/nb_NO.md" >}}) | 1261 | 1261 | 100.0 | /mnt/stockage/packages/f18/newsbeuter/po/nb.po | 
- | [pl]({{< ref "/f18/language/pl.md" >}}) | 1249 | 1261 | 99.0 | /mnt/stockage/packages/f18/newsbeuter/po/pl.po | 
- | [ru]({{< ref "/f18/language/ru.md" >}}) | 2480 | 2522 | 98.3 | /mnt/stockage/packages/f18/newsbeuter/po/ru.po/mnt/stockage/packages/f18/newsbeuter/po/pt_BR.po | 
- | [es]({{< ref "/f18/language/es.md" >}}) | 2471 | 2522 | 98.0 | /mnt/stockage/packages/f18/newsbeuter/po/es_ES.po/mnt/stockage/packages/f18/newsbeuter/po/es.po | 
- | [hu]({{< ref "/f18/language/hu.md" >}}) | 1210 | 1261 | 96.0 | /mnt/stockage/packages/f18/newsbeuter/po/hu.po | 
- | [it]({{< ref "/f18/language/it.md" >}}) | 1210 | 1261 | 96.0 | /mnt/stockage/packages/f18/newsbeuter/po/it.po | 
- | [zh_Hant]({{< ref "/f18/language/zh_Hant.md" >}}) | 1210 | 1261 | 96.0 | /mnt/stockage/packages/f18/newsbeuter/po/zh_TW.po | 
- | [uk]({{< ref "/f18/language/uk.md" >}}) | 1198 | 1261 | 95.0 | /mnt/stockage/packages/f18/newsbeuter/po/uk.po | 
- | [nl]({{< ref "/f18/language/nl.md" >}}) | 1148 | 1261 | 91.0 | /mnt/stockage/packages/f18/newsbeuter/po/nl.po | 
- | [sv]({{< ref "/f18/language/sv.md" >}}) | 1148 | 1261 | 91.0 | /mnt/stockage/packages/f18/newsbeuter/po/sv.po | 
- | [tr]({{< ref "/f18/language/tr.md" >}}) | 988 | 1261 | 78.4 | /mnt/stockage/packages/f18/newsbeuter/po/tr.po | 
- | [zh_Hans]({{< ref "/f18/language/zh_Hans.md" >}}) | 853 | 1261 | 67.6 | /mnt/stockage/packages/f18/newsbeuter/po/zh.po | 
- | [fr]({{< ref "/f18/language/fr.md" >}}) | 726 | 1261 | 57.6 | /mnt/stockage/packages/f18/newsbeuter/po/fr.po | 
+ | [de](/f18/language/de) | 1261 | 1261 | 100.0 | /mnt/stockage/packages/f18/newsbeuter/po/de.po | 
+ | [nb_NO](/f18/language/nb_NO) | 1261 | 1261 | 100.0 | /mnt/stockage/packages/f18/newsbeuter/po/nb.po | 
+ | [pl](/f18/language/pl) | 1249 | 1261 | 99.0 | /mnt/stockage/packages/f18/newsbeuter/po/pl.po | 
+ | [ru](/f18/language/ru) | 2480 | 2522 | 98.3 | /mnt/stockage/packages/f18/newsbeuter/po/ru.po/mnt/stockage/packages/f18/newsbeuter/po/pt_BR.po | 
+ | [es](/f18/language/es) | 2471 | 2522 | 98.0 | /mnt/stockage/packages/f18/newsbeuter/po/es_ES.po/mnt/stockage/packages/f18/newsbeuter/po/es.po | 
+ | [hu](/f18/language/hu) | 1210 | 1261 | 96.0 | /mnt/stockage/packages/f18/newsbeuter/po/hu.po | 
+ | [it](/f18/language/it) | 1210 | 1261 | 96.0 | /mnt/stockage/packages/f18/newsbeuter/po/it.po | 
+ | [zh_Hant](/f18/language/zh_Hant) | 1210 | 1261 | 96.0 | /mnt/stockage/packages/f18/newsbeuter/po/zh_TW.po | 
+ | [uk](/f18/language/uk) | 1198 | 1261 | 95.0 | /mnt/stockage/packages/f18/newsbeuter/po/uk.po | 
+ | [nl](/f18/language/nl) | 1148 | 1261 | 91.0 | /mnt/stockage/packages/f18/newsbeuter/po/nl.po | 
+ | [sv](/f18/language/sv) | 1148 | 1261 | 91.0 | /mnt/stockage/packages/f18/newsbeuter/po/sv.po | 
+ | [tr](/f18/language/tr) | 988 | 1261 | 78.4 | /mnt/stockage/packages/f18/newsbeuter/po/tr.po | 
+ | [zh_Hans](/f18/language/zh_Hans) | 853 | 1261 | 67.6 | /mnt/stockage/packages/f18/newsbeuter/po/zh.po | 
+ | [fr](/f18/language/fr) | 726 | 1261 | 57.6 | /mnt/stockage/packages/f18/newsbeuter/po/fr.po | 
 {.sortable}
 
 

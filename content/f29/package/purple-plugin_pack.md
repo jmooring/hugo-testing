@@ -18,11 +18,11 @@ The package purple-plugin_pack (version 2.7.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f29/language/de.md" >}}) | 5031 | 5031 | 100.0 | /mnt/stockage/packages/f29/purple-plugin_pack/po/de.po | 
- | [vi]({{< ref "/f29/language/vi.md" >}}) | 2489 | 5008 | 49.7 | /mnt/stockage/packages/f29/purple-plugin_pack/po/vi.po | 
- | [fr]({{< ref "/f29/language/fr.md" >}}) | 2231 | 5008 | 44.5 | /mnt/stockage/packages/f29/purple-plugin_pack/po/fr.po | 
- | [es]({{< ref "/f29/language/es.md" >}}) | 472 | 5008 | 9.4 | /mnt/stockage/packages/f29/purple-plugin_pack/po/es_ES.po | 
- | [en_AU]({{< ref "/f29/language/en_AU.md" >}}) | 0 | 5008 | 0.0 | /mnt/stockage/packages/f29/purple-plugin_pack/po/en_AU.po | 
+ | [de](/f29/language/de) | 5031 | 5031 | 100.0 | /mnt/stockage/packages/f29/purple-plugin_pack/po/de.po | 
+ | [vi](/f29/language/vi) | 2489 | 5008 | 49.7 | /mnt/stockage/packages/f29/purple-plugin_pack/po/vi.po | 
+ | [fr](/f29/language/fr) | 2231 | 5008 | 44.5 | /mnt/stockage/packages/f29/purple-plugin_pack/po/fr.po | 
+ | [es](/f29/language/es) | 472 | 5008 | 9.4 | /mnt/stockage/packages/f29/purple-plugin_pack/po/es_ES.po | 
+ | [en_AU](/f29/language/en_AU) | 0 | 5008 | 0.0 | /mnt/stockage/packages/f29/purple-plugin_pack/po/en_AU.po | 
 {.sortable}
 
 

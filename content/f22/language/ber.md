@@ -38,8 +38,8 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [shutter]({{< ref "/f22/package/shutter.md" >}}) | 62 | 2448 | 2.5 | Berber (Other) <ber@li.org> | 
- | [mintmenu]({{< ref "/f22/package/mintmenu.md" >}}) | 4 | 784 | 0.5 | Berber (Other) <ber@li.org> | 
+ | [shutter](/f22/package/shutter) | 62 | 2448 | 2.5 | Berber (Other) <ber@li.org> | 
+ | [mintmenu](/f22/package/mintmenu) | 4 | 784 | 0.5 | Berber (Other) <ber@li.org> | 
 {.sortable}
 
 

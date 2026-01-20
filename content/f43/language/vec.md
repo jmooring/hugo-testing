@@ -48,11 +48,11 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [xfce4-panel]({{< ref "/f43/package/xfce4-panel.md" >}}) | 2031 | 2045 | 99.3 | Venetian (https://app.transifex.com/xfce/teams/16840/vec/) | 
- | [slick-greeter]({{< ref "/f43/package/slick-greeter.md" >}}) | 211 | 216 | 97.7 | Venetian <vec@li.org> | 
- | [Thunar]({{< ref "/f43/package/Thunar.md" >}}) | 4639 | 5886 | 78.8 | Venetian (https://app.transifex.com/xfce/teams/16840/vec/) | 
- | [libxfce4ui]({{< ref "/f43/package/libxfce4ui.md" >}}) | 799 | 1017 | 78.6 | Venetian (https://app.transifex.com/xfce/teams/16840/vec/) | 
- | [libreoffice]({{< ref "/f43/package/libreoffice.md" >}}) | 93851 | 178000 | 52.7 | Venetian <https://translations.documentfoundation.org/projects/libo_ui-master/avmediamessages/vec/> | 
+ | [xfce4-panel](/f43/package/xfce4-panel) | 2031 | 2045 | 99.3 | Venetian (https://app.transifex.com/xfce/teams/16840/vec/) | 
+ | [slick-greeter](/f43/package/slick-greeter) | 211 | 216 | 97.7 | Venetian <vec@li.org> | 
+ | [Thunar](/f43/package/Thunar) | 4639 | 5886 | 78.8 | Venetian (https://app.transifex.com/xfce/teams/16840/vec/) | 
+ | [libxfce4ui](/f43/package/libxfce4ui) | 799 | 1017 | 78.6 | Venetian (https://app.transifex.com/xfce/teams/16840/vec/) | 
+ | [libreoffice](/f43/package/libreoffice) | 93851 | 178000 | 52.7 | Venetian <https://translations.documentfoundation.org/projects/libo_ui-master/avmediamessages/vec/> | 
 {.sortable}
 
 

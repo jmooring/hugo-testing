@@ -18,8 +18,8 @@ The package fbpanel (version 7.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f33/language/fr.md" >}}) | 73 | 77 | 94.8 | /mnt/stockage/packages/f33/fbpanel/po/fr_FR.UTF-8.po | 
- | [ru]({{< ref "/f33/language/ru.md" >}}) | 72 | 77 | 93.5 | /mnt/stockage/packages/f33/fbpanel/po/ru_RU.UTF-8.po | 
+ | [fr](/f33/language/fr) | 73 | 77 | 94.8 | /mnt/stockage/packages/f33/fbpanel/po/fr_FR.UTF-8.po | 
+ | [ru](/f33/language/ru) | 72 | 77 | 93.5 | /mnt/stockage/packages/f33/fbpanel/po/ru_RU.UTF-8.po | 
 {.sortable}
 
 

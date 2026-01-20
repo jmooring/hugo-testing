@@ -18,12 +18,12 @@ The package stratagus (version 2.4.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [sv]({{< ref "/f33/language/sv.md" >}}) | 245 | 245 | 100.0 | /mnt/stockage/packages/f33/stratagus/po/sv.po | 
- | [fr]({{< ref "/f33/language/fr.md" >}}) | 237 | 245 | 96.7 | /mnt/stockage/packages/f33/stratagus/po/fr.po | 
- | [bg]({{< ref "/f33/language/bg.md" >}}) | 211 | 245 | 86.1 | /mnt/stockage/packages/f33/stratagus/po/bg.po | 
- | [fi]({{< ref "/f33/language/fi.md" >}}) | 211 | 245 | 86.1 | /mnt/stockage/packages/f33/stratagus/po/fi.po | 
- | [pl]({{< ref "/f33/language/pl.md" >}}) | 211 | 245 | 86.1 | /mnt/stockage/packages/f33/stratagus/po/pl.po | 
- | [de]({{< ref "/f33/language/de.md" >}}) | 164 | 245 | 66.9 | /mnt/stockage/packages/f33/stratagus/po/de.po | 
+ | [sv](/f33/language/sv) | 245 | 245 | 100.0 | /mnt/stockage/packages/f33/stratagus/po/sv.po | 
+ | [fr](/f33/language/fr) | 237 | 245 | 96.7 | /mnt/stockage/packages/f33/stratagus/po/fr.po | 
+ | [bg](/f33/language/bg) | 211 | 245 | 86.1 | /mnt/stockage/packages/f33/stratagus/po/bg.po | 
+ | [fi](/f33/language/fi) | 211 | 245 | 86.1 | /mnt/stockage/packages/f33/stratagus/po/fi.po | 
+ | [pl](/f33/language/pl) | 211 | 245 | 86.1 | /mnt/stockage/packages/f33/stratagus/po/pl.po | 
+ | [de](/f33/language/de) | 164 | 245 | 66.9 | /mnt/stockage/packages/f33/stratagus/po/de.po | 
 {.sortable}
 
 

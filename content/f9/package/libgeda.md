@@ -18,10 +18,10 @@ The package libgeda (version 20080127):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f9/language/de.md" >}}) | 992 | 992 | 100.0 | /mnt/stockage/packages/f9/libgeda/po/de_DE.po | 
- | [es]({{< ref "/f9/language/es.md" >}}) | 992 | 992 | 100.0 | /mnt/stockage/packages/f9/libgeda/po/es_ES.po | 
- | [en_GB]({{< ref "/f9/language/en_GB.md" >}}) | 939 | 992 | 94.7 | /mnt/stockage/packages/f9/libgeda/po/en_GB.po | 
- | [nl]({{< ref "/f9/language/nl.md" >}}) | 939 | 992 | 94.7 | /mnt/stockage/packages/f9/libgeda/po/nl_NL.po | 
+ | [de](/f9/language/de) | 992 | 992 | 100.0 | /mnt/stockage/packages/f9/libgeda/po/de_DE.po | 
+ | [es](/f9/language/es) | 992 | 992 | 100.0 | /mnt/stockage/packages/f9/libgeda/po/es_ES.po | 
+ | [en_GB](/f9/language/en_GB) | 939 | 992 | 94.7 | /mnt/stockage/packages/f9/libgeda/po/en_GB.po | 
+ | [nl](/f9/language/nl) | 939 | 992 | 94.7 | /mnt/stockage/packages/f9/libgeda/po/nl_NL.po | 
 {.sortable}
 
 

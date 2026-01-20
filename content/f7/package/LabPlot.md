@@ -18,30 +18,30 @@ The package LabPlot (version 1.5.1.6):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [br]({{< ref "/f7/language/br.md" >}}) | 16459 | 16459 | 100.0 | /mnt/stockage/packages/f7/LabPlot/doc/br/doc.po/mnt/stockage/packages/f7/LabPlot/po/br.po | 
- | [de]({{< ref "/f7/language/de.md" >}}) | 16459 | 16459 | 100.0 | /mnt/stockage/packages/f7/LabPlot/doc/de/doc.po/mnt/stockage/packages/f7/LabPlot/po/de.po | 
- | [nl]({{< ref "/f7/language/nl.md" >}}) | 16459 | 16459 | 100.0 | /mnt/stockage/packages/f7/LabPlot/doc/nl/doc.po/mnt/stockage/packages/f7/LabPlot/po/nl.po | 
- | [fr]({{< ref "/f7/language/fr.md" >}}) | 16381 | 16459 | 99.5 | /mnt/stockage/packages/f7/LabPlot/doc/fr/doc.po/mnt/stockage/packages/f7/LabPlot/po/fr.po | 
- | [es]({{< ref "/f7/language/es.md" >}}) | 2972 | 3101 | 95.8 | /mnt/stockage/packages/f7/LabPlot/po/es.po | 
- | [sv]({{< ref "/f7/language/sv.md" >}}) | 12969 | 16459 | 78.8 | /mnt/stockage/packages/f7/LabPlot/doc/sv/doc.po/mnt/stockage/packages/f7/LabPlot/po/sv.po | 
- | [ru]({{< ref "/f7/language/ru.md" >}}) | 1562 | 3101 | 50.4 | /mnt/stockage/packages/f7/LabPlot/po/ru.po | 
- | [it]({{< ref "/f7/language/it.md" >}}) | 3088 | 16459 | 18.8 | /mnt/stockage/packages/f7/LabPlot/doc/it/doc.po/mnt/stockage/packages/f7/LabPlot/po/it.po | 
- | [pl]({{< ref "/f7/language/pl.md" >}}) | 2376 | 16459 | 14.4 | /mnt/stockage/packages/f7/LabPlot/doc/pl/doc.po/mnt/stockage/packages/f7/LabPlot/po/pl.po | 
- | [ca]({{< ref "/f7/language/ca.md" >}}) | 0 | 3101 | 0.0 | /mnt/stockage/packages/f7/LabPlot/po/ca.po | 
- | [cs]({{< ref "/f7/language/cs.md" >}}) | 0 | 3101 | 0.0 | /mnt/stockage/packages/f7/LabPlot/po/cs.po | 
- | [cy]({{< ref "/f7/language/cy.md" >}}) | 0 | 3101 | 0.0 | /mnt/stockage/packages/f7/LabPlot/po/cy.po | 
- | [da]({{< ref "/f7/language/da.md" >}}) | 0 | 3101 | 0.0 | /mnt/stockage/packages/f7/LabPlot/po/da.po | 
- | [error]({{< ref "/f7/language/error.md" >}}) | 0 | 3124 | 0.0 | /mnt/stockage/packages/f7/LabPlot/po/messages.po/mnt/stockage/packages/f7/LabPlot/po/custom.po | 
- | [et]({{< ref "/f7/language/et.md" >}}) | 0 | 3101 | 0.0 | /mnt/stockage/packages/f7/LabPlot/po/et.po | 
- | [ga]({{< ref "/f7/language/ga.md" >}}) | 0 | 3101 | 0.0 | /mnt/stockage/packages/f7/LabPlot/po/ga.po | 
- | [is]({{< ref "/f7/language/is.md" >}}) | 0 | 3101 | 0.0 | /mnt/stockage/packages/f7/LabPlot/po/is.po | 
- | [ja]({{< ref "/f7/language/ja.md" >}}) | 0 | 3101 | 0.0 | /mnt/stockage/packages/f7/LabPlot/po/ja.po | 
- | [pt]({{< ref "/f7/language/pt.md" >}}) | 0 | 3101 | 0.0 | /mnt/stockage/packages/f7/LabPlot/po/pt.po | 
- | [ro]({{< ref "/f7/language/ro.md" >}}) | 0 | 3101 | 0.0 | /mnt/stockage/packages/f7/LabPlot/po/ro.po | 
- | [sr]({{< ref "/f7/language/sr.md" >}}) | 0 | 3101 | 0.0 | /mnt/stockage/packages/f7/LabPlot/po/sr.po | 
- | [ta]({{< ref "/f7/language/ta.md" >}}) | 0 | 3101 | 0.0 | /mnt/stockage/packages/f7/LabPlot/po/ta.po | 
- | [tr]({{< ref "/f7/language/tr.md" >}}) | 0 | 3101 | 0.0 | /mnt/stockage/packages/f7/LabPlot/po/tr.po | 
- | [zh_Hans]({{< ref "/f7/language/zh_Hans.md" >}}) | 0 | 3101 | 0.0 | /mnt/stockage/packages/f7/LabPlot/po/zh.po | 
+ | [br](/f7/language/br) | 16459 | 16459 | 100.0 | /mnt/stockage/packages/f7/LabPlot/doc/br/doc.po/mnt/stockage/packages/f7/LabPlot/po/br.po | 
+ | [de](/f7/language/de) | 16459 | 16459 | 100.0 | /mnt/stockage/packages/f7/LabPlot/doc/de/doc.po/mnt/stockage/packages/f7/LabPlot/po/de.po | 
+ | [nl](/f7/language/nl) | 16459 | 16459 | 100.0 | /mnt/stockage/packages/f7/LabPlot/doc/nl/doc.po/mnt/stockage/packages/f7/LabPlot/po/nl.po | 
+ | [fr](/f7/language/fr) | 16381 | 16459 | 99.5 | /mnt/stockage/packages/f7/LabPlot/doc/fr/doc.po/mnt/stockage/packages/f7/LabPlot/po/fr.po | 
+ | [es](/f7/language/es) | 2972 | 3101 | 95.8 | /mnt/stockage/packages/f7/LabPlot/po/es.po | 
+ | [sv](/f7/language/sv) | 12969 | 16459 | 78.8 | /mnt/stockage/packages/f7/LabPlot/doc/sv/doc.po/mnt/stockage/packages/f7/LabPlot/po/sv.po | 
+ | [ru](/f7/language/ru) | 1562 | 3101 | 50.4 | /mnt/stockage/packages/f7/LabPlot/po/ru.po | 
+ | [it](/f7/language/it) | 3088 | 16459 | 18.8 | /mnt/stockage/packages/f7/LabPlot/doc/it/doc.po/mnt/stockage/packages/f7/LabPlot/po/it.po | 
+ | [pl](/f7/language/pl) | 2376 | 16459 | 14.4 | /mnt/stockage/packages/f7/LabPlot/doc/pl/doc.po/mnt/stockage/packages/f7/LabPlot/po/pl.po | 
+ | [ca](/f7/language/ca) | 0 | 3101 | 0.0 | /mnt/stockage/packages/f7/LabPlot/po/ca.po | 
+ | [cs](/f7/language/cs) | 0 | 3101 | 0.0 | /mnt/stockage/packages/f7/LabPlot/po/cs.po | 
+ | [cy](/f7/language/cy) | 0 | 3101 | 0.0 | /mnt/stockage/packages/f7/LabPlot/po/cy.po | 
+ | [da](/f7/language/da) | 0 | 3101 | 0.0 | /mnt/stockage/packages/f7/LabPlot/po/da.po | 
+ | [error](/f7/language/error) | 0 | 3124 | 0.0 | /mnt/stockage/packages/f7/LabPlot/po/messages.po/mnt/stockage/packages/f7/LabPlot/po/custom.po | 
+ | [et](/f7/language/et) | 0 | 3101 | 0.0 | /mnt/stockage/packages/f7/LabPlot/po/et.po | 
+ | [ga](/f7/language/ga) | 0 | 3101 | 0.0 | /mnt/stockage/packages/f7/LabPlot/po/ga.po | 
+ | [is](/f7/language/is) | 0 | 3101 | 0.0 | /mnt/stockage/packages/f7/LabPlot/po/is.po | 
+ | [ja](/f7/language/ja) | 0 | 3101 | 0.0 | /mnt/stockage/packages/f7/LabPlot/po/ja.po | 
+ | [pt](/f7/language/pt) | 0 | 3101 | 0.0 | /mnt/stockage/packages/f7/LabPlot/po/pt.po | 
+ | [ro](/f7/language/ro) | 0 | 3101 | 0.0 | /mnt/stockage/packages/f7/LabPlot/po/ro.po | 
+ | [sr](/f7/language/sr) | 0 | 3101 | 0.0 | /mnt/stockage/packages/f7/LabPlot/po/sr.po | 
+ | [ta](/f7/language/ta) | 0 | 3101 | 0.0 | /mnt/stockage/packages/f7/LabPlot/po/ta.po | 
+ | [tr](/f7/language/tr) | 0 | 3101 | 0.0 | /mnt/stockage/packages/f7/LabPlot/po/tr.po | 
+ | [zh_Hans](/f7/language/zh_Hans) | 0 | 3101 | 0.0 | /mnt/stockage/packages/f7/LabPlot/po/zh.po | 
 {.sortable}
 
 

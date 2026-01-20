@@ -18,27 +18,27 @@ The package audit-viewer (version 0.6):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ast]({{< ref "/f11/language/ast.md" >}}) | 611 | 611 | 100.0 | /mnt/stockage/packages/f11/audit-viewer/po/ast.po | 
- | [ca]({{< ref "/f11/language/ca.md" >}}) | 611 | 611 | 100.0 | /mnt/stockage/packages/f11/audit-viewer/po/ca.po | 
- | [cs]({{< ref "/f11/language/cs.md" >}}) | 611 | 611 | 100.0 | /mnt/stockage/packages/f11/audit-viewer/po/cs.po | 
- | [da]({{< ref "/f11/language/da.md" >}}) | 611 | 611 | 100.0 | /mnt/stockage/packages/f11/audit-viewer/po/da.po | 
- | [de]({{< ref "/f11/language/de.md" >}}) | 611 | 611 | 100.0 | /mnt/stockage/packages/f11/audit-viewer/po/de.po | 
- | [es]({{< ref "/f11/language/es.md" >}}) | 611 | 611 | 100.0 | /mnt/stockage/packages/f11/audit-viewer/po/es.po | 
- | [fr]({{< ref "/f11/language/fr.md" >}}) | 611 | 611 | 100.0 | /mnt/stockage/packages/f11/audit-viewer/po/fr.po | 
- | [it]({{< ref "/f11/language/it.md" >}}) | 611 | 611 | 100.0 | /mnt/stockage/packages/f11/audit-viewer/po/it.po | 
- | [ja]({{< ref "/f11/language/ja.md" >}}) | 611 | 611 | 100.0 | /mnt/stockage/packages/f11/audit-viewer/po/ja.po | 
- | [ko]({{< ref "/f11/language/ko.md" >}}) | 611 | 611 | 100.0 | /mnt/stockage/packages/f11/audit-viewer/po/ko.po | 
- | [nl]({{< ref "/f11/language/nl.md" >}}) | 611 | 611 | 100.0 | /mnt/stockage/packages/f11/audit-viewer/po/nl.po | 
- | [pl]({{< ref "/f11/language/pl.md" >}}) | 611 | 611 | 100.0 | /mnt/stockage/packages/f11/audit-viewer/po/pl.po | 
- | [pt]({{< ref "/f11/language/pt.md" >}}) | 611 | 611 | 100.0 | /mnt/stockage/packages/f11/audit-viewer/po/pt.po | 
- | [pt_BR]({{< ref "/f11/language/pt_BR.md" >}}) | 611 | 611 | 100.0 | /mnt/stockage/packages/f11/audit-viewer/po/pt_BR.po | 
- | [ru]({{< ref "/f11/language/ru.md" >}}) | 611 | 611 | 100.0 | /mnt/stockage/packages/f11/audit-viewer/po/ru.po | 
- | [sr]({{< ref "/f11/language/sr.md" >}}) | 611 | 611 | 100.0 | /mnt/stockage/packages/f11/audit-viewer/po/sr.po | 
- | [sr_Latn]({{< ref "/f11/language/sr_Latn.md" >}}) | 611 | 611 | 100.0 | /mnt/stockage/packages/f11/audit-viewer/po/sr@latin.po | 
- | [zh_Hans]({{< ref "/f11/language/zh_Hans.md" >}}) | 611 | 611 | 100.0 | /mnt/stockage/packages/f11/audit-viewer/po/zh_CN.po | 
- | [nb_NO]({{< ref "/f11/language/nb_NO.md" >}}) | 82 | 611 | 13.4 | /mnt/stockage/packages/f11/audit-viewer/po/nb.po | 
- | [ms]({{< ref "/f11/language/ms.md" >}}) | 48 | 611 | 7.9 | /mnt/stockage/packages/f11/audit-viewer/po/ms.po | 
- | [el]({{< ref "/f11/language/el.md" >}}) | 0 | 611 | 0.0 | /mnt/stockage/packages/f11/audit-viewer/po/el.po | 
+ | [ast](/f11/language/ast) | 611 | 611 | 100.0 | /mnt/stockage/packages/f11/audit-viewer/po/ast.po | 
+ | [ca](/f11/language/ca) | 611 | 611 | 100.0 | /mnt/stockage/packages/f11/audit-viewer/po/ca.po | 
+ | [cs](/f11/language/cs) | 611 | 611 | 100.0 | /mnt/stockage/packages/f11/audit-viewer/po/cs.po | 
+ | [da](/f11/language/da) | 611 | 611 | 100.0 | /mnt/stockage/packages/f11/audit-viewer/po/da.po | 
+ | [de](/f11/language/de) | 611 | 611 | 100.0 | /mnt/stockage/packages/f11/audit-viewer/po/de.po | 
+ | [es](/f11/language/es) | 611 | 611 | 100.0 | /mnt/stockage/packages/f11/audit-viewer/po/es.po | 
+ | [fr](/f11/language/fr) | 611 | 611 | 100.0 | /mnt/stockage/packages/f11/audit-viewer/po/fr.po | 
+ | [it](/f11/language/it) | 611 | 611 | 100.0 | /mnt/stockage/packages/f11/audit-viewer/po/it.po | 
+ | [ja](/f11/language/ja) | 611 | 611 | 100.0 | /mnt/stockage/packages/f11/audit-viewer/po/ja.po | 
+ | [ko](/f11/language/ko) | 611 | 611 | 100.0 | /mnt/stockage/packages/f11/audit-viewer/po/ko.po | 
+ | [nl](/f11/language/nl) | 611 | 611 | 100.0 | /mnt/stockage/packages/f11/audit-viewer/po/nl.po | 
+ | [pl](/f11/language/pl) | 611 | 611 | 100.0 | /mnt/stockage/packages/f11/audit-viewer/po/pl.po | 
+ | [pt](/f11/language/pt) | 611 | 611 | 100.0 | /mnt/stockage/packages/f11/audit-viewer/po/pt.po | 
+ | [pt_BR](/f11/language/pt_BR) | 611 | 611 | 100.0 | /mnt/stockage/packages/f11/audit-viewer/po/pt_BR.po | 
+ | [ru](/f11/language/ru) | 611 | 611 | 100.0 | /mnt/stockage/packages/f11/audit-viewer/po/ru.po | 
+ | [sr](/f11/language/sr) | 611 | 611 | 100.0 | /mnt/stockage/packages/f11/audit-viewer/po/sr.po | 
+ | [sr_Latn](/f11/language/sr_Latn) | 611 | 611 | 100.0 | /mnt/stockage/packages/f11/audit-viewer/po/sr@latin.po | 
+ | [zh_Hans](/f11/language/zh_Hans) | 611 | 611 | 100.0 | /mnt/stockage/packages/f11/audit-viewer/po/zh_CN.po | 
+ | [nb_NO](/f11/language/nb_NO) | 82 | 611 | 13.4 | /mnt/stockage/packages/f11/audit-viewer/po/nb.po | 
+ | [ms](/f11/language/ms) | 48 | 611 | 7.9 | /mnt/stockage/packages/f11/audit-viewer/po/ms.po | 
+ | [el](/f11/language/el) | 0 | 611 | 0.0 | /mnt/stockage/packages/f11/audit-viewer/po/el.po | 
 {.sortable}
 
 

@@ -18,7 +18,7 @@ The package cryptsetup-luks (version 1.0.5):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f7/language/de.md" >}}) | 143 | 327 | 43.7 | /mnt/stockage/packages/f7/cryptsetup-luks/po/de.po | 
+ | [de](/f7/language/de) | 143 | 327 | 43.7 | /mnt/stockage/packages/f7/cryptsetup-luks/po/de.po | 
 {.sortable}
 
 

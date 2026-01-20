@@ -18,7 +18,7 @@ The package libdesktop-agnostic (version 0.3.92):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [en]({{< ref "/f16/language/en.md" >}}) | 43 | 43 | 100.0 | /mnt/stockage/packages/f16/libdesktop-agnostic/po/en_US@piglatin.po | 
+ | [en](/f16/language/en) | 43 | 43 | 100.0 | /mnt/stockage/packages/f16/libdesktop-agnostic/po/en_US@piglatin.po | 
 {.sortable}
 
 

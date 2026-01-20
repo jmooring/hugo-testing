@@ -43,11 +43,11 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [mintmenu]({{< ref "/f20/package/mintmenu.md" >}}) | 2637 | 4430 | 59.5 | Somali <so@li.org> | 
- | [gcompris]({{< ref "/f20/package/gcompris.md" >}}) | 2167 | 9603 | 22.6 | Somali <mimursal@mimfi-tech.com> | 
- | [iso-codes]({{< ref "/f20/package/iso-codes.md" >}}) | 125 | 1110 | 11.3 | Somali | 
- | [cinnamon-translations]({{< ref "/f20/package/cinnamon-translations.md" >}}) | 352 | 4946 | 7.1 | Somali <so@li.org> | 
- | [vidalia]({{< ref "/f20/package/vidalia.md" >}}) | 0 | 10377 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [mintmenu](/f20/package/mintmenu) | 2637 | 4430 | 59.5 | Somali <so@li.org> | 
+ | [gcompris](/f20/package/gcompris) | 2167 | 9603 | 22.6 | Somali <mimursal@mimfi-tech.com> | 
+ | [iso-codes](/f20/package/iso-codes) | 125 | 1110 | 11.3 | Somali | 
+ | [cinnamon-translations](/f20/package/cinnamon-translations) | 352 | 4946 | 7.1 | Somali <so@li.org> | 
+ | [vidalia](/f20/package/vidalia) | 0 | 10377 | 0.0 | LANGUAGE <LL@li.org> | 
 {.sortable}
 
 

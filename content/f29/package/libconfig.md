@@ -18,8 +18,8 @@ The package libconfig (version 1.7.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [en_GB]({{< ref "/f29/language/en_GB.md" >}}) | 255 | 255 | 100.0 | /mnt/stockage/packages/f29/libconfig/contrib/ls-config/src/po/en_GB.po | 
- | [pl]({{< ref "/f29/language/pl.md" >}}) | 255 | 255 | 100.0 | /mnt/stockage/packages/f29/libconfig/contrib/ls-config/src/po/pl_PL.po | 
+ | [en_GB](/f29/language/en_GB) | 255 | 255 | 100.0 | /mnt/stockage/packages/f29/libconfig/contrib/ls-config/src/po/en_GB.po | 
+ | [pl](/f29/language/pl) | 255 | 255 | 100.0 | /mnt/stockage/packages/f29/libconfig/contrib/ls-config/src/po/pl_PL.po | 
 {.sortable}
 
 

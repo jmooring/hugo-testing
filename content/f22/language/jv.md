@@ -39,27 +39,27 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [islamic-menus]({{< ref "/f22/package/islamic-menus.md" >}}) | 5 | 5 | 100.0 | Javanese <jv@li.org> | 
- | [whaawmp]({{< ref "/f22/package/whaawmp.md" >}}) | 799 | 799 | 100.0 | Javanese <jv@li.org> | 
- | [mintmenu]({{< ref "/f22/package/mintmenu.md" >}}) | 2644 | 5061 | 52.2 | Javanese <jv@li.org> | 
- | [terminator]({{< ref "/f22/package/terminator.md" >}}) | 299 | 1311 | 22.8 | Javanese <jv@li.org> | 
- | [mate-desktop]({{< ref "/f22/package/mate-desktop.md" >}}) | 471 | 2413 | 19.5 | Javanese (http://www.transifex.com/mate/MATE/language/jv/) | 
- | [jmol]({{< ref "/f22/package/jmol.md" >}}) | 155 | 1712 | 9.1 | Javanese <jv@li.org> | 
- | [gnome-do]({{< ref "/f22/package/gnome-do.md" >}}) | 29 | 612 | 4.7 | Javanese <jv@li.org> | 
- | [cinnamon-translations]({{< ref "/f22/package/cinnamon-translations.md" >}}) | 516 | 11139 | 4.6 | Javanese <jv@li.org> | 
- | [pychess]({{< ref "/f22/package/pychess.md" >}}) | 89 | 3091 | 2.9 | Javanese <jv@li.org> | 
- | [isomaster]({{< ref "/f22/package/isomaster.md" >}}) | 11 | 674 | 1.6 | http://littlesvr.ca/ostd/ | 
- | [gmpc]({{< ref "/f22/package/gmpc.md" >}}) | 23 | 1478 | 1.6 | Javanese <jv@li.org> | 
- | [widelands]({{< ref "/f22/package/widelands.md" >}}) | 38 | 2637 | 1.4 | Javanese <jv@li.org> | 
- | [stellarium]({{< ref "/f22/package/stellarium.md" >}}) | 196 | 15962 | 1.2 | Javanese <jv@li.org> | 
- | [backintime]({{< ref "/f22/package/backintime.md" >}}) | 13 | 1492 | 0.9 | Javanese <jv@li.org> | 
- | [tortoisehg]({{< ref "/f22/package/tortoisehg.md" >}}) | 30 | 12026 | 0.2 | Javanese <jv@li.org> | 
- | [calibre]({{< ref "/f22/package/calibre.md" >}}) | 107 | 147028 | 0.1 | Javanese (http://www.transifex.com/calibre/calibre/language/jv/) | 
- | [edgar]({{< ref "/f22/package/edgar.md" >}}) | 1 | 11475 | 0.0 | Javanese <jv@li.org> | 
- | [ailurus]({{< ref "/f22/package/ailurus.md" >}}) | 0 | 8446 | 0.0 | none | 
- | [libreoffice]({{< ref "/f22/package/libreoffice.md" >}}) | 0 | 5 | 0.0 | LANGUAGE <LL@li.org> | 
- | [vidalia]({{< ref "/f22/package/vidalia.md" >}}) | 0 | 10377 | 0.0 | LANGUAGE <LL@li.org> | 
- | [viking]({{< ref "/f22/package/viking.md" >}}) | 0 | 4135 | 0.0 | Javanese <jv@li.org> | 
+ | [islamic-menus](/f22/package/islamic-menus) | 5 | 5 | 100.0 | Javanese <jv@li.org> | 
+ | [whaawmp](/f22/package/whaawmp) | 799 | 799 | 100.0 | Javanese <jv@li.org> | 
+ | [mintmenu](/f22/package/mintmenu) | 2644 | 5061 | 52.2 | Javanese <jv@li.org> | 
+ | [terminator](/f22/package/terminator) | 299 | 1311 | 22.8 | Javanese <jv@li.org> | 
+ | [mate-desktop](/f22/package/mate-desktop) | 471 | 2413 | 19.5 | Javanese (http://www.transifex.com/mate/MATE/language/jv/) | 
+ | [jmol](/f22/package/jmol) | 155 | 1712 | 9.1 | Javanese <jv@li.org> | 
+ | [gnome-do](/f22/package/gnome-do) | 29 | 612 | 4.7 | Javanese <jv@li.org> | 
+ | [cinnamon-translations](/f22/package/cinnamon-translations) | 516 | 11139 | 4.6 | Javanese <jv@li.org> | 
+ | [pychess](/f22/package/pychess) | 89 | 3091 | 2.9 | Javanese <jv@li.org> | 
+ | [isomaster](/f22/package/isomaster) | 11 | 674 | 1.6 | http://littlesvr.ca/ostd/ | 
+ | [gmpc](/f22/package/gmpc) | 23 | 1478 | 1.6 | Javanese <jv@li.org> | 
+ | [widelands](/f22/package/widelands) | 38 | 2637 | 1.4 | Javanese <jv@li.org> | 
+ | [stellarium](/f22/package/stellarium) | 196 | 15962 | 1.2 | Javanese <jv@li.org> | 
+ | [backintime](/f22/package/backintime) | 13 | 1492 | 0.9 | Javanese <jv@li.org> | 
+ | [tortoisehg](/f22/package/tortoisehg) | 30 | 12026 | 0.2 | Javanese <jv@li.org> | 
+ | [calibre](/f22/package/calibre) | 107 | 147028 | 0.1 | Javanese (http://www.transifex.com/calibre/calibre/language/jv/) | 
+ | [edgar](/f22/package/edgar) | 1 | 11475 | 0.0 | Javanese <jv@li.org> | 
+ | [ailurus](/f22/package/ailurus) | 0 | 8446 | 0.0 | none | 
+ | [libreoffice](/f22/package/libreoffice) | 0 | 5 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [vidalia](/f22/package/vidalia) | 0 | 10377 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [viking](/f22/package/viking) | 0 | 4135 | 0.0 | Javanese <jv@li.org> | 
 {.sortable}
 
 

@@ -18,50 +18,50 @@ The package NetworkManager-openswan (version 0.9.8.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [bg]({{< ref "/f19/language/bg.md" >}}) | 133 | 133 | 100.0 | /mnt/stockage/packages/f19/NetworkManager-openswan/po/bg.po | 
- | [ca]({{< ref "/f19/language/ca.md" >}}) | 139 | 139 | 100.0 | /mnt/stockage/packages/f19/NetworkManager-openswan/po/ca.po | 
- | [cs]({{< ref "/f19/language/cs.md" >}}) | 87 | 87 | 100.0 | /mnt/stockage/packages/f19/NetworkManager-openswan/po/cs.po | 
- | [da]({{< ref "/f19/language/da.md" >}}) | 139 | 139 | 100.0 | /mnt/stockage/packages/f19/NetworkManager-openswan/po/da.po | 
- | [de]({{< ref "/f19/language/de.md" >}}) | 87 | 87 | 100.0 | /mnt/stockage/packages/f19/NetworkManager-openswan/po/de.po | 
- | [dz]({{< ref "/f19/language/dz.md" >}}) | 328 | 328 | 100.0 | /mnt/stockage/packages/f19/NetworkManager-openswan/po/dz.po | 
- | [el]({{< ref "/f19/language/el.md" >}}) | 139 | 139 | 100.0 | /mnt/stockage/packages/f19/NetworkManager-openswan/po/el.po | 
- | [en_GB]({{< ref "/f19/language/en_GB.md" >}}) | 303 | 303 | 100.0 | /mnt/stockage/packages/f19/NetworkManager-openswan/po/en_GB.po | 
- | [es]({{< ref "/f19/language/es.md" >}}) | 87 | 87 | 100.0 | /mnt/stockage/packages/f19/NetworkManager-openswan/po/es.po | 
- | [et]({{< ref "/f19/language/et.md" >}}) | 139 | 139 | 100.0 | /mnt/stockage/packages/f19/NetworkManager-openswan/po/et.po | 
- | [eu]({{< ref "/f19/language/eu.md" >}}) | 139 | 139 | 100.0 | /mnt/stockage/packages/f19/NetworkManager-openswan/po/eu.po | 
- | [fi]({{< ref "/f19/language/fi.md" >}}) | 144 | 144 | 100.0 | /mnt/stockage/packages/f19/NetworkManager-openswan/po/fi.po | 
- | [fr]({{< ref "/f19/language/fr.md" >}}) | 139 | 139 | 100.0 | /mnt/stockage/packages/f19/NetworkManager-openswan/po/fr.po | 
- | [gl]({{< ref "/f19/language/gl.md" >}}) | 139 | 139 | 100.0 | /mnt/stockage/packages/f19/NetworkManager-openswan/po/gl.po | 
- | [gu]({{< ref "/f19/language/gu.md" >}}) | 139 | 139 | 100.0 | /mnt/stockage/packages/f19/NetworkManager-openswan/po/gu.po | 
- | [hu]({{< ref "/f19/language/hu.md" >}}) | 87 | 87 | 100.0 | /mnt/stockage/packages/f19/NetworkManager-openswan/po/hu.po | 
- | [id]({{< ref "/f19/language/id.md" >}}) | 87 | 87 | 100.0 | /mnt/stockage/packages/f19/NetworkManager-openswan/po/id.po | 
- | [it]({{< ref "/f19/language/it.md" >}}) | 87 | 87 | 100.0 | /mnt/stockage/packages/f19/NetworkManager-openswan/po/it.po | 
- | [ja]({{< ref "/f19/language/ja.md" >}}) | 347 | 347 | 100.0 | /mnt/stockage/packages/f19/NetworkManager-openswan/po/ja.po | 
- | [ka]({{< ref "/f19/language/ka.md" >}}) | 328 | 328 | 100.0 | /mnt/stockage/packages/f19/NetworkManager-openswan/po/ka.po | 
- | [ko]({{< ref "/f19/language/ko.md" >}}) | 376 | 376 | 100.0 | /mnt/stockage/packages/f19/NetworkManager-openswan/po/ko.po | 
- | [lt]({{< ref "/f19/language/lt.md" >}}) | 87 | 87 | 100.0 | /mnt/stockage/packages/f19/NetworkManager-openswan/po/lt.po | 
- | [mr]({{< ref "/f19/language/mr.md" >}}) | 139 | 139 | 100.0 | /mnt/stockage/packages/f19/NetworkManager-openswan/po/mr.po | 
- | [nb_NO]({{< ref "/f19/language/nb_NO.md" >}}) | 303 | 303 | 100.0 | /mnt/stockage/packages/f19/NetworkManager-openswan/po/nb.po | 
- | [nl]({{< ref "/f19/language/nl.md" >}}) | 139 | 139 | 100.0 | /mnt/stockage/packages/f19/NetworkManager-openswan/po/nl.po | 
- | [or]({{< ref "/f19/language/or.md" >}}) | 139 | 139 | 100.0 | /mnt/stockage/packages/f19/NetworkManager-openswan/po/or.po | 
- | [pa]({{< ref "/f19/language/pa.md" >}}) | 139 | 139 | 100.0 | /mnt/stockage/packages/f19/NetworkManager-openswan/po/pa.po | 
- | [pl]({{< ref "/f19/language/pl.md" >}}) | 87 | 87 | 100.0 | /mnt/stockage/packages/f19/NetworkManager-openswan/po/pl.po | 
- | [pt]({{< ref "/f19/language/pt.md" >}}) | 139 | 139 | 100.0 | /mnt/stockage/packages/f19/NetworkManager-openswan/po/pt.po | 
- | [pt_BR]({{< ref "/f19/language/pt_BR.md" >}}) | 87 | 87 | 100.0 | /mnt/stockage/packages/f19/NetworkManager-openswan/po/pt_BR.po | 
- | [ru]({{< ref "/f19/language/ru.md" >}}) | 139 | 139 | 100.0 | /mnt/stockage/packages/f19/NetworkManager-openswan/po/ru.po | 
- | [sl]({{< ref "/f19/language/sl.md" >}}) | 87 | 87 | 100.0 | /mnt/stockage/packages/f19/NetworkManager-openswan/po/sl.po | 
- | [sr]({{< ref "/f19/language/sr.md" >}}) | 174 | 174 | 100.0 | /mnt/stockage/packages/f19/NetworkManager-openswan/po/sr.po/mnt/stockage/packages/f19/NetworkManager-openswan/po/sr@latin.po | 
- | [sv]({{< ref "/f19/language/sv.md" >}}) | 139 | 139 | 100.0 | /mnt/stockage/packages/f19/NetworkManager-openswan/po/sv.po | 
- | [ta]({{< ref "/f19/language/ta.md" >}}) | 139 | 139 | 100.0 | /mnt/stockage/packages/f19/NetworkManager-openswan/po/ta.po | 
- | [te]({{< ref "/f19/language/te.md" >}}) | 139 | 139 | 100.0 | /mnt/stockage/packages/f19/NetworkManager-openswan/po/te.po | 
- | [th]({{< ref "/f19/language/th.md" >}}) | 328 | 328 | 100.0 | /mnt/stockage/packages/f19/NetworkManager-openswan/po/th.po | 
- | [uk]({{< ref "/f19/language/uk.md" >}}) | 304 | 304 | 100.0 | /mnt/stockage/packages/f19/NetworkManager-openswan/po/uk.po | 
- | [vi]({{< ref "/f19/language/vi.md" >}}) | 303 | 303 | 100.0 | /mnt/stockage/packages/f19/NetworkManager-openswan/po/vi.po | 
- | [zh_Hans]({{< ref "/f19/language/zh_Hans.md" >}}) | 139 | 139 | 100.0 | /mnt/stockage/packages/f19/NetworkManager-openswan/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f19/language/zh_Hant.md" >}}) | 137 | 139 | 98.6 | /mnt/stockage/packages/f19/NetworkManager-openswan/po/zh_TW.po | 
- | [zh_Hant_HK]({{< ref "/f19/language/zh_Hant_HK.md" >}}) | 137 | 139 | 98.6 | /mnt/stockage/packages/f19/NetworkManager-openswan/po/zh_HK.po | 
- | [mk]({{< ref "/f19/language/mk.md" >}}) | 129 | 133 | 97.0 | /mnt/stockage/packages/f19/NetworkManager-openswan/po/mk.po | 
- | [ar]({{< ref "/f19/language/ar.md" >}}) | 89 | 133 | 66.9 | /mnt/stockage/packages/f19/NetworkManager-openswan/po/ar.po | 
+ | [bg](/f19/language/bg) | 133 | 133 | 100.0 | /mnt/stockage/packages/f19/NetworkManager-openswan/po/bg.po | 
+ | [ca](/f19/language/ca) | 139 | 139 | 100.0 | /mnt/stockage/packages/f19/NetworkManager-openswan/po/ca.po | 
+ | [cs](/f19/language/cs) | 87 | 87 | 100.0 | /mnt/stockage/packages/f19/NetworkManager-openswan/po/cs.po | 
+ | [da](/f19/language/da) | 139 | 139 | 100.0 | /mnt/stockage/packages/f19/NetworkManager-openswan/po/da.po | 
+ | [de](/f19/language/de) | 87 | 87 | 100.0 | /mnt/stockage/packages/f19/NetworkManager-openswan/po/de.po | 
+ | [dz](/f19/language/dz) | 328 | 328 | 100.0 | /mnt/stockage/packages/f19/NetworkManager-openswan/po/dz.po | 
+ | [el](/f19/language/el) | 139 | 139 | 100.0 | /mnt/stockage/packages/f19/NetworkManager-openswan/po/el.po | 
+ | [en_GB](/f19/language/en_GB) | 303 | 303 | 100.0 | /mnt/stockage/packages/f19/NetworkManager-openswan/po/en_GB.po | 
+ | [es](/f19/language/es) | 87 | 87 | 100.0 | /mnt/stockage/packages/f19/NetworkManager-openswan/po/es.po | 
+ | [et](/f19/language/et) | 139 | 139 | 100.0 | /mnt/stockage/packages/f19/NetworkManager-openswan/po/et.po | 
+ | [eu](/f19/language/eu) | 139 | 139 | 100.0 | /mnt/stockage/packages/f19/NetworkManager-openswan/po/eu.po | 
+ | [fi](/f19/language/fi) | 144 | 144 | 100.0 | /mnt/stockage/packages/f19/NetworkManager-openswan/po/fi.po | 
+ | [fr](/f19/language/fr) | 139 | 139 | 100.0 | /mnt/stockage/packages/f19/NetworkManager-openswan/po/fr.po | 
+ | [gl](/f19/language/gl) | 139 | 139 | 100.0 | /mnt/stockage/packages/f19/NetworkManager-openswan/po/gl.po | 
+ | [gu](/f19/language/gu) | 139 | 139 | 100.0 | /mnt/stockage/packages/f19/NetworkManager-openswan/po/gu.po | 
+ | [hu](/f19/language/hu) | 87 | 87 | 100.0 | /mnt/stockage/packages/f19/NetworkManager-openswan/po/hu.po | 
+ | [id](/f19/language/id) | 87 | 87 | 100.0 | /mnt/stockage/packages/f19/NetworkManager-openswan/po/id.po | 
+ | [it](/f19/language/it) | 87 | 87 | 100.0 | /mnt/stockage/packages/f19/NetworkManager-openswan/po/it.po | 
+ | [ja](/f19/language/ja) | 347 | 347 | 100.0 | /mnt/stockage/packages/f19/NetworkManager-openswan/po/ja.po | 
+ | [ka](/f19/language/ka) | 328 | 328 | 100.0 | /mnt/stockage/packages/f19/NetworkManager-openswan/po/ka.po | 
+ | [ko](/f19/language/ko) | 376 | 376 | 100.0 | /mnt/stockage/packages/f19/NetworkManager-openswan/po/ko.po | 
+ | [lt](/f19/language/lt) | 87 | 87 | 100.0 | /mnt/stockage/packages/f19/NetworkManager-openswan/po/lt.po | 
+ | [mr](/f19/language/mr) | 139 | 139 | 100.0 | /mnt/stockage/packages/f19/NetworkManager-openswan/po/mr.po | 
+ | [nb_NO](/f19/language/nb_NO) | 303 | 303 | 100.0 | /mnt/stockage/packages/f19/NetworkManager-openswan/po/nb.po | 
+ | [nl](/f19/language/nl) | 139 | 139 | 100.0 | /mnt/stockage/packages/f19/NetworkManager-openswan/po/nl.po | 
+ | [or](/f19/language/or) | 139 | 139 | 100.0 | /mnt/stockage/packages/f19/NetworkManager-openswan/po/or.po | 
+ | [pa](/f19/language/pa) | 139 | 139 | 100.0 | /mnt/stockage/packages/f19/NetworkManager-openswan/po/pa.po | 
+ | [pl](/f19/language/pl) | 87 | 87 | 100.0 | /mnt/stockage/packages/f19/NetworkManager-openswan/po/pl.po | 
+ | [pt](/f19/language/pt) | 139 | 139 | 100.0 | /mnt/stockage/packages/f19/NetworkManager-openswan/po/pt.po | 
+ | [pt_BR](/f19/language/pt_BR) | 87 | 87 | 100.0 | /mnt/stockage/packages/f19/NetworkManager-openswan/po/pt_BR.po | 
+ | [ru](/f19/language/ru) | 139 | 139 | 100.0 | /mnt/stockage/packages/f19/NetworkManager-openswan/po/ru.po | 
+ | [sl](/f19/language/sl) | 87 | 87 | 100.0 | /mnt/stockage/packages/f19/NetworkManager-openswan/po/sl.po | 
+ | [sr](/f19/language/sr) | 174 | 174 | 100.0 | /mnt/stockage/packages/f19/NetworkManager-openswan/po/sr.po/mnt/stockage/packages/f19/NetworkManager-openswan/po/sr@latin.po | 
+ | [sv](/f19/language/sv) | 139 | 139 | 100.0 | /mnt/stockage/packages/f19/NetworkManager-openswan/po/sv.po | 
+ | [ta](/f19/language/ta) | 139 | 139 | 100.0 | /mnt/stockage/packages/f19/NetworkManager-openswan/po/ta.po | 
+ | [te](/f19/language/te) | 139 | 139 | 100.0 | /mnt/stockage/packages/f19/NetworkManager-openswan/po/te.po | 
+ | [th](/f19/language/th) | 328 | 328 | 100.0 | /mnt/stockage/packages/f19/NetworkManager-openswan/po/th.po | 
+ | [uk](/f19/language/uk) | 304 | 304 | 100.0 | /mnt/stockage/packages/f19/NetworkManager-openswan/po/uk.po | 
+ | [vi](/f19/language/vi) | 303 | 303 | 100.0 | /mnt/stockage/packages/f19/NetworkManager-openswan/po/vi.po | 
+ | [zh_Hans](/f19/language/zh_Hans) | 139 | 139 | 100.0 | /mnt/stockage/packages/f19/NetworkManager-openswan/po/zh_CN.po | 
+ | [zh_Hant](/f19/language/zh_Hant) | 137 | 139 | 98.6 | /mnt/stockage/packages/f19/NetworkManager-openswan/po/zh_TW.po | 
+ | [zh_Hant_HK](/f19/language/zh_Hant_HK) | 137 | 139 | 98.6 | /mnt/stockage/packages/f19/NetworkManager-openswan/po/zh_HK.po | 
+ | [mk](/f19/language/mk) | 129 | 133 | 97.0 | /mnt/stockage/packages/f19/NetworkManager-openswan/po/mk.po | 
+ | [ar](/f19/language/ar) | 89 | 133 | 66.9 | /mnt/stockage/packages/f19/NetworkManager-openswan/po/ar.po | 
 {.sortable}
 
 

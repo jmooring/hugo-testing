@@ -18,21 +18,21 @@ The package xfce4-cpugraph-plugin (version 0.4.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [be]({{< ref "/f11/language/be.md" >}}) | 44 | 44 | 100.0 | /mnt/stockage/packages/f11/xfce4-cpugraph-plugin/po/be.po | 
- | [ca]({{< ref "/f11/language/ca.md" >}}) | 44 | 44 | 100.0 | /mnt/stockage/packages/f11/xfce4-cpugraph-plugin/po/ca.po | 
- | [cs]({{< ref "/f11/language/cs.md" >}}) | 44 | 44 | 100.0 | /mnt/stockage/packages/f11/xfce4-cpugraph-plugin/po/cs.po | 
- | [en_GB]({{< ref "/f11/language/en_GB.md" >}}) | 44 | 44 | 100.0 | /mnt/stockage/packages/f11/xfce4-cpugraph-plugin/po/en_GB.po | 
- | [eu]({{< ref "/f11/language/eu.md" >}}) | 44 | 44 | 100.0 | /mnt/stockage/packages/f11/xfce4-cpugraph-plugin/po/eu.po | 
- | [fr]({{< ref "/f11/language/fr.md" >}}) | 44 | 44 | 100.0 | /mnt/stockage/packages/f11/xfce4-cpugraph-plugin/po/fr.po | 
- | [hu]({{< ref "/f11/language/hu.md" >}}) | 44 | 44 | 100.0 | /mnt/stockage/packages/f11/xfce4-cpugraph-plugin/po/hu.po | 
- | [lv]({{< ref "/f11/language/lv.md" >}}) | 44 | 44 | 100.0 | /mnt/stockage/packages/f11/xfce4-cpugraph-plugin/po/lv.po | 
- | [nb_NO]({{< ref "/f11/language/nb_NO.md" >}}) | 44 | 44 | 100.0 | /mnt/stockage/packages/f11/xfce4-cpugraph-plugin/po/nb_NO.po | 
- | [pl]({{< ref "/f11/language/pl.md" >}}) | 44 | 44 | 100.0 | /mnt/stockage/packages/f11/xfce4-cpugraph-plugin/po/pl.po | 
- | [pt_BR]({{< ref "/f11/language/pt_BR.md" >}}) | 44 | 44 | 100.0 | /mnt/stockage/packages/f11/xfce4-cpugraph-plugin/po/pt_BR.po | 
- | [pt_PT]({{< ref "/f11/language/pt_PT.md" >}}) | 44 | 44 | 100.0 | /mnt/stockage/packages/f11/xfce4-cpugraph-plugin/po/pt_PT.po | 
- | [sq]({{< ref "/f11/language/sq.md" >}}) | 44 | 44 | 100.0 | /mnt/stockage/packages/f11/xfce4-cpugraph-plugin/po/sq.po | 
- | [uk]({{< ref "/f11/language/uk.md" >}}) | 44 | 44 | 100.0 | /mnt/stockage/packages/f11/xfce4-cpugraph-plugin/po/uk.po | 
- | [ur]({{< ref "/f11/language/ur.md" >}}) | 44 | 44 | 100.0 | /mnt/stockage/packages/f11/xfce4-cpugraph-plugin/po/ur.po | 
+ | [be](/f11/language/be) | 44 | 44 | 100.0 | /mnt/stockage/packages/f11/xfce4-cpugraph-plugin/po/be.po | 
+ | [ca](/f11/language/ca) | 44 | 44 | 100.0 | /mnt/stockage/packages/f11/xfce4-cpugraph-plugin/po/ca.po | 
+ | [cs](/f11/language/cs) | 44 | 44 | 100.0 | /mnt/stockage/packages/f11/xfce4-cpugraph-plugin/po/cs.po | 
+ | [en_GB](/f11/language/en_GB) | 44 | 44 | 100.0 | /mnt/stockage/packages/f11/xfce4-cpugraph-plugin/po/en_GB.po | 
+ | [eu](/f11/language/eu) | 44 | 44 | 100.0 | /mnt/stockage/packages/f11/xfce4-cpugraph-plugin/po/eu.po | 
+ | [fr](/f11/language/fr) | 44 | 44 | 100.0 | /mnt/stockage/packages/f11/xfce4-cpugraph-plugin/po/fr.po | 
+ | [hu](/f11/language/hu) | 44 | 44 | 100.0 | /mnt/stockage/packages/f11/xfce4-cpugraph-plugin/po/hu.po | 
+ | [lv](/f11/language/lv) | 44 | 44 | 100.0 | /mnt/stockage/packages/f11/xfce4-cpugraph-plugin/po/lv.po | 
+ | [nb_NO](/f11/language/nb_NO) | 44 | 44 | 100.0 | /mnt/stockage/packages/f11/xfce4-cpugraph-plugin/po/nb_NO.po | 
+ | [pl](/f11/language/pl) | 44 | 44 | 100.0 | /mnt/stockage/packages/f11/xfce4-cpugraph-plugin/po/pl.po | 
+ | [pt_BR](/f11/language/pt_BR) | 44 | 44 | 100.0 | /mnt/stockage/packages/f11/xfce4-cpugraph-plugin/po/pt_BR.po | 
+ | [pt_PT](/f11/language/pt_PT) | 44 | 44 | 100.0 | /mnt/stockage/packages/f11/xfce4-cpugraph-plugin/po/pt_PT.po | 
+ | [sq](/f11/language/sq) | 44 | 44 | 100.0 | /mnt/stockage/packages/f11/xfce4-cpugraph-plugin/po/sq.po | 
+ | [uk](/f11/language/uk) | 44 | 44 | 100.0 | /mnt/stockage/packages/f11/xfce4-cpugraph-plugin/po/uk.po | 
+ | [ur](/f11/language/ur) | 44 | 44 | 100.0 | /mnt/stockage/packages/f11/xfce4-cpugraph-plugin/po/ur.po | 
 {.sortable}
 
 

@@ -18,21 +18,21 @@ The package karp (version 25.03.70~20241125.202901.de3b630):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f42/language/ca.md" >}}) | 282 | 282 | 100.0 | /mnt/stockage/packages/f42/karp/po/ca/karp.po | 
- | [ca@valencia]({{< ref "/f42/language/ca@valencia.md" >}}) | 282 | 282 | 100.0 | /mnt/stockage/packages/f42/karp/po/ca@valencia/karp.po | 
- | [es]({{< ref "/f42/language/es.md" >}}) | 282 | 282 | 100.0 | /mnt/stockage/packages/f42/karp/po/es/karp.po | 
- | [he]({{< ref "/f42/language/he.md" >}}) | 282 | 282 | 100.0 | /mnt/stockage/packages/f42/karp/po/he/karp.po | 
- | [it]({{< ref "/f42/language/it.md" >}}) | 282 | 282 | 100.0 | /mnt/stockage/packages/f42/karp/po/it/karp.po | 
- | [ka]({{< ref "/f42/language/ka.md" >}}) | 282 | 282 | 100.0 | /mnt/stockage/packages/f42/karp/po/ka/karp.po | 
- | [nl]({{< ref "/f42/language/nl.md" >}}) | 282 | 282 | 100.0 | /mnt/stockage/packages/f42/karp/po/nl/karp.po | 
- | [sl]({{< ref "/f42/language/sl.md" >}}) | 282 | 282 | 100.0 | /mnt/stockage/packages/f42/karp/po/sl/karp.po | 
- | [sv]({{< ref "/f42/language/sv.md" >}}) | 282 | 282 | 100.0 | /mnt/stockage/packages/f42/karp/po/sv/karp.po | 
- | [tr]({{< ref "/f42/language/tr.md" >}}) | 282 | 282 | 100.0 | /mnt/stockage/packages/f42/karp/po/tr/karp.po | 
- | [uk]({{< ref "/f42/language/uk.md" >}}) | 280 | 282 | 99.3 | /mnt/stockage/packages/f42/karp/po/uk/karp.po | 
- | [eu]({{< ref "/f42/language/eu.md" >}}) | 275 | 282 | 97.5 | /mnt/stockage/packages/f42/karp/po/eu/karp.po | 
- | [zh_Hans]({{< ref "/f42/language/zh_Hans.md" >}}) | 275 | 282 | 97.5 | /mnt/stockage/packages/f42/karp/po/zh_CN/karp.po | 
- | [de]({{< ref "/f42/language/de.md" >}}) | 0 | 282 | 0.0 | /mnt/stockage/packages/f42/karp/po/de/karp.po | 
- | [fr]({{< ref "/f42/language/fr.md" >}}) | 0 | 282 | 0.0 | /mnt/stockage/packages/f42/karp/po/fr/karp.po | 
+ | [ca](/f42/language/ca) | 282 | 282 | 100.0 | /mnt/stockage/packages/f42/karp/po/ca/karp.po | 
+ | [ca@valencia](/f42/language/ca@valencia) | 282 | 282 | 100.0 | /mnt/stockage/packages/f42/karp/po/ca@valencia/karp.po | 
+ | [es](/f42/language/es) | 282 | 282 | 100.0 | /mnt/stockage/packages/f42/karp/po/es/karp.po | 
+ | [he](/f42/language/he) | 282 | 282 | 100.0 | /mnt/stockage/packages/f42/karp/po/he/karp.po | 
+ | [it](/f42/language/it) | 282 | 282 | 100.0 | /mnt/stockage/packages/f42/karp/po/it/karp.po | 
+ | [ka](/f42/language/ka) | 282 | 282 | 100.0 | /mnt/stockage/packages/f42/karp/po/ka/karp.po | 
+ | [nl](/f42/language/nl) | 282 | 282 | 100.0 | /mnt/stockage/packages/f42/karp/po/nl/karp.po | 
+ | [sl](/f42/language/sl) | 282 | 282 | 100.0 | /mnt/stockage/packages/f42/karp/po/sl/karp.po | 
+ | [sv](/f42/language/sv) | 282 | 282 | 100.0 | /mnt/stockage/packages/f42/karp/po/sv/karp.po | 
+ | [tr](/f42/language/tr) | 282 | 282 | 100.0 | /mnt/stockage/packages/f42/karp/po/tr/karp.po | 
+ | [uk](/f42/language/uk) | 280 | 282 | 99.3 | /mnt/stockage/packages/f42/karp/po/uk/karp.po | 
+ | [eu](/f42/language/eu) | 275 | 282 | 97.5 | /mnt/stockage/packages/f42/karp/po/eu/karp.po | 
+ | [zh_Hans](/f42/language/zh_Hans) | 275 | 282 | 97.5 | /mnt/stockage/packages/f42/karp/po/zh_CN/karp.po | 
+ | [de](/f42/language/de) | 0 | 282 | 0.0 | /mnt/stockage/packages/f42/karp/po/de/karp.po | 
+ | [fr](/f42/language/fr) | 0 | 282 | 0.0 | /mnt/stockage/packages/f42/karp/po/fr/karp.po | 
 {.sortable}
 
 

@@ -18,9 +18,9 @@ The package tuna (version 0.12):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ja]({{< ref "/f22/language/ja.md" >}}) | 1342 | 1342 | 100.0 | /mnt/stockage/packages/f22/tuna/po/ja.po | 
- | [zh_Hans]({{< ref "/f22/language/zh_Hans.md" >}}) | 1339 | 1342 | 99.8 | /mnt/stockage/packages/f22/tuna/po/zh_CN.po | 
- | [pt_BR]({{< ref "/f22/language/pt_BR.md" >}}) | 337 | 1347 | 25.0 | /mnt/stockage/packages/f22/tuna/po/pt_BR.po | 
+ | [ja](/f22/language/ja) | 1342 | 1342 | 100.0 | /mnt/stockage/packages/f22/tuna/po/ja.po | 
+ | [zh_Hans](/f22/language/zh_Hans) | 1339 | 1342 | 99.8 | /mnt/stockage/packages/f22/tuna/po/zh_CN.po | 
+ | [pt_BR](/f22/language/pt_BR) | 337 | 1347 | 25.0 | /mnt/stockage/packages/f22/tuna/po/pt_BR.po | 
 {.sortable}
 
 

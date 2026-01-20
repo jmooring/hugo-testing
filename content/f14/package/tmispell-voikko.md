@@ -18,7 +18,7 @@ The package tmispell-voikko (version 0.7.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fi]({{< ref "/f14/language/fi.md" >}}) | 525 | 525 | 100.0 | /mnt/stockage/packages/f14/tmispell-voikko/po/fi.po | 
+ | [fi](/f14/language/fi) | 525 | 525 | 100.0 | /mnt/stockage/packages/f14/tmispell-voikko/po/fi.po | 
 {.sortable}
 
 

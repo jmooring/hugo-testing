@@ -18,16 +18,16 @@ The package nfoview (version 1.9.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fi]({{< ref "/f14/language/fi.md" >}}) | 108 | 108 | 100.0 | /mnt/stockage/packages/f14/nfoview/po/fi.po | 
- | [he]({{< ref "/f14/language/he.md" >}}) | 108 | 108 | 100.0 | /mnt/stockage/packages/f14/nfoview/po/he.po | 
- | [hu]({{< ref "/f14/language/hu.md" >}}) | 108 | 108 | 100.0 | /mnt/stockage/packages/f14/nfoview/po/hu.po | 
- | [pl]({{< ref "/f14/language/pl.md" >}}) | 108 | 108 | 100.0 | /mnt/stockage/packages/f14/nfoview/po/pl.po | 
- | [ru]({{< ref "/f14/language/ru.md" >}}) | 108 | 108 | 100.0 | /mnt/stockage/packages/f14/nfoview/po/ru.po | 
- | [fr]({{< ref "/f14/language/fr.md" >}}) | 106 | 108 | 98.1 | /mnt/stockage/packages/f14/nfoview/po/fr.po | 
- | [de]({{< ref "/f14/language/de.md" >}}) | 200 | 216 | 92.6 | /mnt/stockage/packages/f14/nfoview/po/de.po/mnt/stockage/packages/f14/nfoview/po/de_CH.po | 
- | [bg]({{< ref "/f14/language/bg.md" >}}) | 98 | 108 | 90.7 | /mnt/stockage/packages/f14/nfoview/po/bg.po | 
- | [it]({{< ref "/f14/language/it.md" >}}) | 98 | 108 | 90.7 | /mnt/stockage/packages/f14/nfoview/po/it.po | 
- | [zh_Hans]({{< ref "/f14/language/zh_Hans.md" >}}) | 98 | 108 | 90.7 | /mnt/stockage/packages/f14/nfoview/po/zh_CN.po | 
+ | [fi](/f14/language/fi) | 108 | 108 | 100.0 | /mnt/stockage/packages/f14/nfoview/po/fi.po | 
+ | [he](/f14/language/he) | 108 | 108 | 100.0 | /mnt/stockage/packages/f14/nfoview/po/he.po | 
+ | [hu](/f14/language/hu) | 108 | 108 | 100.0 | /mnt/stockage/packages/f14/nfoview/po/hu.po | 
+ | [pl](/f14/language/pl) | 108 | 108 | 100.0 | /mnt/stockage/packages/f14/nfoview/po/pl.po | 
+ | [ru](/f14/language/ru) | 108 | 108 | 100.0 | /mnt/stockage/packages/f14/nfoview/po/ru.po | 
+ | [fr](/f14/language/fr) | 106 | 108 | 98.1 | /mnt/stockage/packages/f14/nfoview/po/fr.po | 
+ | [de](/f14/language/de) | 200 | 216 | 92.6 | /mnt/stockage/packages/f14/nfoview/po/de.po/mnt/stockage/packages/f14/nfoview/po/de_CH.po | 
+ | [bg](/f14/language/bg) | 98 | 108 | 90.7 | /mnt/stockage/packages/f14/nfoview/po/bg.po | 
+ | [it](/f14/language/it) | 98 | 108 | 90.7 | /mnt/stockage/packages/f14/nfoview/po/it.po | 
+ | [zh_Hans](/f14/language/zh_Hans) | 98 | 108 | 90.7 | /mnt/stockage/packages/f14/nfoview/po/zh_CN.po | 
 {.sortable}
 
 

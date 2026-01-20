@@ -18,45 +18,45 @@ The package speedcrunch (version 0.12):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [hu]({{< ref "/f30/language/hu.md" >}}) | 93 | 93 | 100.0 | /mnt/stockage/packages/f30/speedcrunch/pkg/desktop-appdata/hu.po | 
- | [it]({{< ref "/f30/language/it.md" >}}) | 93 | 93 | 100.0 | /mnt/stockage/packages/f30/speedcrunch/pkg/desktop-appdata/it.po | 
- | [lt]({{< ref "/f30/language/lt.md" >}}) | 93 | 93 | 100.0 | /mnt/stockage/packages/f30/speedcrunch/pkg/desktop-appdata/lt.po | 
- | [zh_Hans]({{< ref "/f30/language/zh_Hans.md" >}}) | 93 | 93 | 100.0 | /mnt/stockage/packages/f30/speedcrunch/pkg/desktop-appdata/zh.po | 
- | [pt_BR]({{< ref "/f30/language/pt_BR.md" >}}) | 79 | 93 | 84.9 | /mnt/stockage/packages/f30/speedcrunch/pkg/desktop-appdata/pt.po | 
- | [en_GB]({{< ref "/f30/language/en_GB.md" >}}) | 75 | 93 | 80.6 | /mnt/stockage/packages/f30/speedcrunch/pkg/desktop-appdata/en_GB.po | 
- | [ru]({{< ref "/f30/language/ru.md" >}}) | 30 | 93 | 32.3 | /mnt/stockage/packages/f30/speedcrunch/pkg/desktop-appdata/ru.po | 
- | [de]({{< ref "/f30/language/de.md" >}}) | 148 | 2443 | 6.1 | /mnt/stockage/packages/f30/speedcrunch/doc/src/locale/de_DE/LC_MESSAGES/extra-doc-strings.po/mnt/stockage/packages/f30/speedcrunch/doc/src/locale/de_DE/LC_MESSAGES/index.po/mnt/stockage/packages/f30/speedcrunch/doc/src/locale/de_DE/LC_MESSAGES/installation.po/mnt/stockage/packages/f30/speedcrunch/doc/src/locale/de_DE/LC_MESSAGES/reference.po/mnt/stockage/packages/f30/speedcrunch/pkg/desktop-appdata/de.po | 
- | [el]({{< ref "/f30/language/el.md" >}}) | 5 | 93 | 5.4 | /mnt/stockage/packages/f30/speedcrunch/pkg/desktop-appdata/el.po | 
- | [ar]({{< ref "/f30/language/ar.md" >}}) | 0 | 93 | 0.0 | /mnt/stockage/packages/f30/speedcrunch/pkg/desktop-appdata/ar.po | 
- | [ca]({{< ref "/f30/language/ca.md" >}}) | 0 | 93 | 0.0 | /mnt/stockage/packages/f30/speedcrunch/pkg/desktop-appdata/ca.po | 
- | [cs]({{< ref "/f30/language/cs.md" >}}) | 0 | 93 | 0.0 | /mnt/stockage/packages/f30/speedcrunch/pkg/desktop-appdata/cs.po | 
- | [da]({{< ref "/f30/language/da.md" >}}) | 0 | 93 | 0.0 | /mnt/stockage/packages/f30/speedcrunch/pkg/desktop-appdata/da.po | 
- | [eo]({{< ref "/f30/language/eo.md" >}}) | 0 | 93 | 0.0 | /mnt/stockage/packages/f30/speedcrunch/pkg/desktop-appdata/eo.po | 
- | [es]({{< ref "/f30/language/es.md" >}}) | 0 | 2461 | 0.0 | /mnt/stockage/packages/f30/speedcrunch/doc/src/locale/es_ES/LC_MESSAGES/extra-doc-strings.po/mnt/stockage/packages/f30/speedcrunch/doc/src/locale/es_ES/LC_MESSAGES/index.po/mnt/stockage/packages/f30/speedcrunch/doc/src/locale/es_ES/LC_MESSAGES/installation.po/mnt/stockage/packages/f30/speedcrunch/doc/src/locale/es_ES/LC_MESSAGES/reference.po/mnt/stockage/packages/f30/speedcrunch/pkg/desktop-appdata/es.po | 
- | [es_AR]({{< ref "/f30/language/es_AR.md" >}}) | 0 | 93 | 0.0 | /mnt/stockage/packages/f30/speedcrunch/pkg/desktop-appdata/es_AR.po | 
- | [et]({{< ref "/f30/language/et.md" >}}) | 0 | 93 | 0.0 | /mnt/stockage/packages/f30/speedcrunch/pkg/desktop-appdata/et.po | 
- | [eu]({{< ref "/f30/language/eu.md" >}}) | 0 | 93 | 0.0 | /mnt/stockage/packages/f30/speedcrunch/pkg/desktop-appdata/eu.po | 
- | [fa]({{< ref "/f30/language/fa.md" >}}) | 0 | 93 | 0.0 | /mnt/stockage/packages/f30/speedcrunch/pkg/desktop-appdata/fa.po | 
- | [fi]({{< ref "/f30/language/fi.md" >}}) | 0 | 93 | 0.0 | /mnt/stockage/packages/f30/speedcrunch/pkg/desktop-appdata/fi.po | 
- | [fr]({{< ref "/f30/language/fr.md" >}}) | 0 | 2461 | 0.0 | /mnt/stockage/packages/f30/speedcrunch/doc/src/locale/fr_FR/LC_MESSAGES/extra-doc-strings.po/mnt/stockage/packages/f30/speedcrunch/doc/src/locale/fr_FR/LC_MESSAGES/index.po/mnt/stockage/packages/f30/speedcrunch/doc/src/locale/fr_FR/LC_MESSAGES/installation.po/mnt/stockage/packages/f30/speedcrunch/doc/src/locale/fr_FR/LC_MESSAGES/reference.po/mnt/stockage/packages/f30/speedcrunch/pkg/desktop-appdata/fr.po | 
- | [he]({{< ref "/f30/language/he.md" >}}) | 0 | 93 | 0.0 | /mnt/stockage/packages/f30/speedcrunch/pkg/desktop-appdata/he.po | 
- | [id]({{< ref "/f30/language/id.md" >}}) | 0 | 93 | 0.0 | /mnt/stockage/packages/f30/speedcrunch/pkg/desktop-appdata/id.po | 
- | [ja]({{< ref "/f30/language/ja.md" >}}) | 0 | 93 | 0.0 | /mnt/stockage/packages/f30/speedcrunch/pkg/desktop-appdata/ja.po | 
- | [ko]({{< ref "/f30/language/ko.md" >}}) | 0 | 93 | 0.0 | /mnt/stockage/packages/f30/speedcrunch/pkg/desktop-appdata/ko.po | 
- | [lv]({{< ref "/f30/language/lv.md" >}}) | 0 | 93 | 0.0 | /mnt/stockage/packages/f30/speedcrunch/pkg/desktop-appdata/lv.po | 
- | [nb_NO]({{< ref "/f30/language/nb_NO.md" >}}) | 0 | 93 | 0.0 | /mnt/stockage/packages/f30/speedcrunch/pkg/desktop-appdata/nb.po | 
- | [nl]({{< ref "/f30/language/nl.md" >}}) | 0 | 93 | 0.0 | /mnt/stockage/packages/f30/speedcrunch/pkg/desktop-appdata/nl.po | 
- | [pl]({{< ref "/f30/language/pl.md" >}}) | 0 | 93 | 0.0 | /mnt/stockage/packages/f30/speedcrunch/pkg/desktop-appdata/pl.po | 
- | [pt_PT]({{< ref "/f30/language/pt_PT.md" >}}) | 0 | 93 | 0.0 | /mnt/stockage/packages/f30/speedcrunch/pkg/desktop-appdata/pt_PT.po | 
- | [ro]({{< ref "/f30/language/ro.md" >}}) | 0 | 93 | 0.0 | /mnt/stockage/packages/f30/speedcrunch/pkg/desktop-appdata/ro.po | 
- | [sk]({{< ref "/f30/language/sk.md" >}}) | 0 | 93 | 0.0 | /mnt/stockage/packages/f30/speedcrunch/pkg/desktop-appdata/sk.po | 
- | [sl]({{< ref "/f30/language/sl.md" >}}) | 0 | 93 | 0.0 | /mnt/stockage/packages/f30/speedcrunch/pkg/desktop-appdata/sl.po | 
- | [sv]({{< ref "/f30/language/sv.md" >}}) | 0 | 93 | 0.0 | /mnt/stockage/packages/f30/speedcrunch/pkg/desktop-appdata/sv.po | 
- | [tr]({{< ref "/f30/language/tr.md" >}}) | 0 | 93 | 0.0 | /mnt/stockage/packages/f30/speedcrunch/pkg/desktop-appdata/tr.po | 
- | [uk]({{< ref "/f30/language/uk.md" >}}) | 0 | 93 | 0.0 | /mnt/stockage/packages/f30/speedcrunch/pkg/desktop-appdata/uk.po | 
- | [uz_Latn]({{< ref "/f30/language/uz_Latn.md" >}}) | 0 | 93 | 0.0 | /mnt/stockage/packages/f30/speedcrunch/pkg/desktop-appdata/uz@Latn.po | 
- | [vi]({{< ref "/f30/language/vi.md" >}}) | 0 | 93 | 0.0 | /mnt/stockage/packages/f30/speedcrunch/pkg/desktop-appdata/vi.po | 
- | [zh_Hant]({{< ref "/f30/language/zh_Hant.md" >}}) | 0 | 93 | 0.0 | /mnt/stockage/packages/f30/speedcrunch/pkg/desktop-appdata/zh_TW.po | 
+ | [hu](/f30/language/hu) | 93 | 93 | 100.0 | /mnt/stockage/packages/f30/speedcrunch/pkg/desktop-appdata/hu.po | 
+ | [it](/f30/language/it) | 93 | 93 | 100.0 | /mnt/stockage/packages/f30/speedcrunch/pkg/desktop-appdata/it.po | 
+ | [lt](/f30/language/lt) | 93 | 93 | 100.0 | /mnt/stockage/packages/f30/speedcrunch/pkg/desktop-appdata/lt.po | 
+ | [zh_Hans](/f30/language/zh_Hans) | 93 | 93 | 100.0 | /mnt/stockage/packages/f30/speedcrunch/pkg/desktop-appdata/zh.po | 
+ | [pt_BR](/f30/language/pt_BR) | 79 | 93 | 84.9 | /mnt/stockage/packages/f30/speedcrunch/pkg/desktop-appdata/pt.po | 
+ | [en_GB](/f30/language/en_GB) | 75 | 93 | 80.6 | /mnt/stockage/packages/f30/speedcrunch/pkg/desktop-appdata/en_GB.po | 
+ | [ru](/f30/language/ru) | 30 | 93 | 32.3 | /mnt/stockage/packages/f30/speedcrunch/pkg/desktop-appdata/ru.po | 
+ | [de](/f30/language/de) | 148 | 2443 | 6.1 | /mnt/stockage/packages/f30/speedcrunch/doc/src/locale/de_DE/LC_MESSAGES/extra-doc-strings.po/mnt/stockage/packages/f30/speedcrunch/doc/src/locale/de_DE/LC_MESSAGES/index.po/mnt/stockage/packages/f30/speedcrunch/doc/src/locale/de_DE/LC_MESSAGES/installation.po/mnt/stockage/packages/f30/speedcrunch/doc/src/locale/de_DE/LC_MESSAGES/reference.po/mnt/stockage/packages/f30/speedcrunch/pkg/desktop-appdata/de.po | 
+ | [el](/f30/language/el) | 5 | 93 | 5.4 | /mnt/stockage/packages/f30/speedcrunch/pkg/desktop-appdata/el.po | 
+ | [ar](/f30/language/ar) | 0 | 93 | 0.0 | /mnt/stockage/packages/f30/speedcrunch/pkg/desktop-appdata/ar.po | 
+ | [ca](/f30/language/ca) | 0 | 93 | 0.0 | /mnt/stockage/packages/f30/speedcrunch/pkg/desktop-appdata/ca.po | 
+ | [cs](/f30/language/cs) | 0 | 93 | 0.0 | /mnt/stockage/packages/f30/speedcrunch/pkg/desktop-appdata/cs.po | 
+ | [da](/f30/language/da) | 0 | 93 | 0.0 | /mnt/stockage/packages/f30/speedcrunch/pkg/desktop-appdata/da.po | 
+ | [eo](/f30/language/eo) | 0 | 93 | 0.0 | /mnt/stockage/packages/f30/speedcrunch/pkg/desktop-appdata/eo.po | 
+ | [es](/f30/language/es) | 0 | 2461 | 0.0 | /mnt/stockage/packages/f30/speedcrunch/doc/src/locale/es_ES/LC_MESSAGES/extra-doc-strings.po/mnt/stockage/packages/f30/speedcrunch/doc/src/locale/es_ES/LC_MESSAGES/index.po/mnt/stockage/packages/f30/speedcrunch/doc/src/locale/es_ES/LC_MESSAGES/installation.po/mnt/stockage/packages/f30/speedcrunch/doc/src/locale/es_ES/LC_MESSAGES/reference.po/mnt/stockage/packages/f30/speedcrunch/pkg/desktop-appdata/es.po | 
+ | [es_AR](/f30/language/es_AR) | 0 | 93 | 0.0 | /mnt/stockage/packages/f30/speedcrunch/pkg/desktop-appdata/es_AR.po | 
+ | [et](/f30/language/et) | 0 | 93 | 0.0 | /mnt/stockage/packages/f30/speedcrunch/pkg/desktop-appdata/et.po | 
+ | [eu](/f30/language/eu) | 0 | 93 | 0.0 | /mnt/stockage/packages/f30/speedcrunch/pkg/desktop-appdata/eu.po | 
+ | [fa](/f30/language/fa) | 0 | 93 | 0.0 | /mnt/stockage/packages/f30/speedcrunch/pkg/desktop-appdata/fa.po | 
+ | [fi](/f30/language/fi) | 0 | 93 | 0.0 | /mnt/stockage/packages/f30/speedcrunch/pkg/desktop-appdata/fi.po | 
+ | [fr](/f30/language/fr) | 0 | 2461 | 0.0 | /mnt/stockage/packages/f30/speedcrunch/doc/src/locale/fr_FR/LC_MESSAGES/extra-doc-strings.po/mnt/stockage/packages/f30/speedcrunch/doc/src/locale/fr_FR/LC_MESSAGES/index.po/mnt/stockage/packages/f30/speedcrunch/doc/src/locale/fr_FR/LC_MESSAGES/installation.po/mnt/stockage/packages/f30/speedcrunch/doc/src/locale/fr_FR/LC_MESSAGES/reference.po/mnt/stockage/packages/f30/speedcrunch/pkg/desktop-appdata/fr.po | 
+ | [he](/f30/language/he) | 0 | 93 | 0.0 | /mnt/stockage/packages/f30/speedcrunch/pkg/desktop-appdata/he.po | 
+ | [id](/f30/language/id) | 0 | 93 | 0.0 | /mnt/stockage/packages/f30/speedcrunch/pkg/desktop-appdata/id.po | 
+ | [ja](/f30/language/ja) | 0 | 93 | 0.0 | /mnt/stockage/packages/f30/speedcrunch/pkg/desktop-appdata/ja.po | 
+ | [ko](/f30/language/ko) | 0 | 93 | 0.0 | /mnt/stockage/packages/f30/speedcrunch/pkg/desktop-appdata/ko.po | 
+ | [lv](/f30/language/lv) | 0 | 93 | 0.0 | /mnt/stockage/packages/f30/speedcrunch/pkg/desktop-appdata/lv.po | 
+ | [nb_NO](/f30/language/nb_NO) | 0 | 93 | 0.0 | /mnt/stockage/packages/f30/speedcrunch/pkg/desktop-appdata/nb.po | 
+ | [nl](/f30/language/nl) | 0 | 93 | 0.0 | /mnt/stockage/packages/f30/speedcrunch/pkg/desktop-appdata/nl.po | 
+ | [pl](/f30/language/pl) | 0 | 93 | 0.0 | /mnt/stockage/packages/f30/speedcrunch/pkg/desktop-appdata/pl.po | 
+ | [pt_PT](/f30/language/pt_PT) | 0 | 93 | 0.0 | /mnt/stockage/packages/f30/speedcrunch/pkg/desktop-appdata/pt_PT.po | 
+ | [ro](/f30/language/ro) | 0 | 93 | 0.0 | /mnt/stockage/packages/f30/speedcrunch/pkg/desktop-appdata/ro.po | 
+ | [sk](/f30/language/sk) | 0 | 93 | 0.0 | /mnt/stockage/packages/f30/speedcrunch/pkg/desktop-appdata/sk.po | 
+ | [sl](/f30/language/sl) | 0 | 93 | 0.0 | /mnt/stockage/packages/f30/speedcrunch/pkg/desktop-appdata/sl.po | 
+ | [sv](/f30/language/sv) | 0 | 93 | 0.0 | /mnt/stockage/packages/f30/speedcrunch/pkg/desktop-appdata/sv.po | 
+ | [tr](/f30/language/tr) | 0 | 93 | 0.0 | /mnt/stockage/packages/f30/speedcrunch/pkg/desktop-appdata/tr.po | 
+ | [uk](/f30/language/uk) | 0 | 93 | 0.0 | /mnt/stockage/packages/f30/speedcrunch/pkg/desktop-appdata/uk.po | 
+ | [uz_Latn](/f30/language/uz_Latn) | 0 | 93 | 0.0 | /mnt/stockage/packages/f30/speedcrunch/pkg/desktop-appdata/uz@Latn.po | 
+ | [vi](/f30/language/vi) | 0 | 93 | 0.0 | /mnt/stockage/packages/f30/speedcrunch/pkg/desktop-appdata/vi.po | 
+ | [zh_Hant](/f30/language/zh_Hant) | 0 | 93 | 0.0 | /mnt/stockage/packages/f30/speedcrunch/pkg/desktop-appdata/zh_TW.po | 
 {.sortable}
 
 

@@ -18,8 +18,8 @@ The package vips (version 7.10.21):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [en_GB]({{< ref "/f7/language/en_GB.md" >}}) | 0 | 938 | 0.0 | /mnt/stockage/packages/f7/vips/po/en_GB.po | 
- | [error]({{< ref "/f7/language/error.md" >}}) | 0 | 938 | 0.0 | /mnt/stockage/packages/f7/vips/po/malkovich.po | 
+ | [en_GB](/f7/language/en_GB) | 0 | 938 | 0.0 | /mnt/stockage/packages/f7/vips/po/en_GB.po | 
+ | [error](/f7/language/error) | 0 | 938 | 0.0 | /mnt/stockage/packages/f7/vips/po/malkovich.po | 
 {.sortable}
 
 

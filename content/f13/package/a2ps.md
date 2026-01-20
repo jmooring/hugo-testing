@@ -18,23 +18,23 @@ The package a2ps (version 4.14):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f13/language/fr.md" >}}) | 1384 | 1512 | 91.5 | /mnt/stockage/packages/f13/a2ps/po/fr.po | 
- | [nl]({{< ref "/f13/language/nl.md" >}}) | 1384 | 1512 | 91.5 | /mnt/stockage/packages/f13/a2ps/po/nl.po | 
- | [pt]({{< ref "/f13/language/pt.md" >}}) | 1384 | 1512 | 91.5 | /mnt/stockage/packages/f13/a2ps/po/pt.po | 
- | [ru]({{< ref "/f13/language/ru.md" >}}) | 1384 | 1512 | 91.5 | /mnt/stockage/packages/f13/a2ps/po/ru.po | 
- | [ja]({{< ref "/f13/language/ja.md" >}}) | 1374 | 1512 | 90.9 | /mnt/stockage/packages/f13/a2ps/po/ja.po | 
- | [cs]({{< ref "/f13/language/cs.md" >}}) | 1147 | 1512 | 75.9 | /mnt/stockage/packages/f13/a2ps/po/cs.po | 
- | [sv]({{< ref "/f13/language/sv.md" >}}) | 1142 | 1512 | 75.5 | /mnt/stockage/packages/f13/a2ps/po/sv.po | 
- | [de]({{< ref "/f13/language/de.md" >}}) | 1129 | 1512 | 74.7 | /mnt/stockage/packages/f13/a2ps/po/de.po | 
- | [ca]({{< ref "/f13/language/ca.md" >}}) | 963 | 1512 | 63.7 | /mnt/stockage/packages/f13/a2ps/po/ca.po | 
- | [es]({{< ref "/f13/language/es.md" >}}) | 963 | 1512 | 63.7 | /mnt/stockage/packages/f13/a2ps/po/es.po | 
- | [pl]({{< ref "/f13/language/pl.md" >}}) | 962 | 1512 | 63.6 | /mnt/stockage/packages/f13/a2ps/po/pl.po | 
- | [tr]({{< ref "/f13/language/tr.md" >}}) | 938 | 1512 | 62.0 | /mnt/stockage/packages/f13/a2ps/po/tr.po | 
- | [sl]({{< ref "/f13/language/sl.md" >}}) | 937 | 1512 | 62.0 | /mnt/stockage/packages/f13/a2ps/po/sl.po | 
- | [nb_NO]({{< ref "/f13/language/nb_NO.md" >}}) | 667 | 1512 | 44.1 | /mnt/stockage/packages/f13/a2ps/po/no.po | 
- | [it]({{< ref "/f13/language/it.md" >}}) | 478 | 1512 | 31.6 | /mnt/stockage/packages/f13/a2ps/po/it.po | 
- | [ko]({{< ref "/f13/language/ko.md" >}}) | 462 | 1512 | 30.6 | /mnt/stockage/packages/f13/a2ps/po/ko.po | 
- | [da]({{< ref "/f13/language/da.md" >}}) | 24 | 1512 | 1.6 | /mnt/stockage/packages/f13/a2ps/po/da.po | 
+ | [fr](/f13/language/fr) | 1384 | 1512 | 91.5 | /mnt/stockage/packages/f13/a2ps/po/fr.po | 
+ | [nl](/f13/language/nl) | 1384 | 1512 | 91.5 | /mnt/stockage/packages/f13/a2ps/po/nl.po | 
+ | [pt](/f13/language/pt) | 1384 | 1512 | 91.5 | /mnt/stockage/packages/f13/a2ps/po/pt.po | 
+ | [ru](/f13/language/ru) | 1384 | 1512 | 91.5 | /mnt/stockage/packages/f13/a2ps/po/ru.po | 
+ | [ja](/f13/language/ja) | 1374 | 1512 | 90.9 | /mnt/stockage/packages/f13/a2ps/po/ja.po | 
+ | [cs](/f13/language/cs) | 1147 | 1512 | 75.9 | /mnt/stockage/packages/f13/a2ps/po/cs.po | 
+ | [sv](/f13/language/sv) | 1142 | 1512 | 75.5 | /mnt/stockage/packages/f13/a2ps/po/sv.po | 
+ | [de](/f13/language/de) | 1129 | 1512 | 74.7 | /mnt/stockage/packages/f13/a2ps/po/de.po | 
+ | [ca](/f13/language/ca) | 963 | 1512 | 63.7 | /mnt/stockage/packages/f13/a2ps/po/ca.po | 
+ | [es](/f13/language/es) | 963 | 1512 | 63.7 | /mnt/stockage/packages/f13/a2ps/po/es.po | 
+ | [pl](/f13/language/pl) | 962 | 1512 | 63.6 | /mnt/stockage/packages/f13/a2ps/po/pl.po | 
+ | [tr](/f13/language/tr) | 938 | 1512 | 62.0 | /mnt/stockage/packages/f13/a2ps/po/tr.po | 
+ | [sl](/f13/language/sl) | 937 | 1512 | 62.0 | /mnt/stockage/packages/f13/a2ps/po/sl.po | 
+ | [nb_NO](/f13/language/nb_NO) | 667 | 1512 | 44.1 | /mnt/stockage/packages/f13/a2ps/po/no.po | 
+ | [it](/f13/language/it) | 478 | 1512 | 31.6 | /mnt/stockage/packages/f13/a2ps/po/it.po | 
+ | [ko](/f13/language/ko) | 462 | 1512 | 30.6 | /mnt/stockage/packages/f13/a2ps/po/ko.po | 
+ | [da](/f13/language/da) | 24 | 1512 | 1.6 | /mnt/stockage/packages/f13/a2ps/po/da.po | 
 {.sortable}
 
 

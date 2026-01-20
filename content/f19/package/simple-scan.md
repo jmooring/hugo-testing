@@ -18,53 +18,53 @@ The package simple-scan (version 3.8.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [bg]({{< ref "/f19/language/bg.md" >}}) | 651 | 651 | 100.0 | /mnt/stockage/packages/f19/simple-scan/po/bg.po | 
- | [ca]({{< ref "/f19/language/ca.md" >}}) | 651 | 651 | 100.0 | /mnt/stockage/packages/f19/simple-scan/po/ca.po | 
- | [cs]({{< ref "/f19/language/cs.md" >}}) | 651 | 651 | 100.0 | /mnt/stockage/packages/f19/simple-scan/po/cs.po | 
- | [de]({{< ref "/f19/language/de.md" >}}) | 1359 | 1359 | 100.0 | /mnt/stockage/packages/f19/simple-scan/help/de/de.po/mnt/stockage/packages/f19/simple-scan/po/de.po | 
- | [en_GB]({{< ref "/f19/language/en_GB.md" >}}) | 651 | 651 | 100.0 | /mnt/stockage/packages/f19/simple-scan/po/en_GB.po | 
- | [es]({{< ref "/f19/language/es.md" >}}) | 651 | 651 | 100.0 | /mnt/stockage/packages/f19/simple-scan/po/es.po | 
- | [eu]({{< ref "/f19/language/eu.md" >}}) | 651 | 651 | 100.0 | /mnt/stockage/packages/f19/simple-scan/po/eu.po | 
- | [fr]({{< ref "/f19/language/fr.md" >}}) | 651 | 651 | 100.0 | /mnt/stockage/packages/f19/simple-scan/po/fr.po | 
- | [gl]({{< ref "/f19/language/gl.md" >}}) | 651 | 651 | 100.0 | /mnt/stockage/packages/f19/simple-scan/po/gl.po | 
- | [hu]({{< ref "/f19/language/hu.md" >}}) | 651 | 651 | 100.0 | /mnt/stockage/packages/f19/simple-scan/po/hu.po | 
- | [it]({{< ref "/f19/language/it.md" >}}) | 651 | 651 | 100.0 | /mnt/stockage/packages/f19/simple-scan/po/it.po | 
- | [nb_NO]({{< ref "/f19/language/nb_NO.md" >}}) | 651 | 651 | 100.0 | /mnt/stockage/packages/f19/simple-scan/po/nb.po | 
- | [nl]({{< ref "/f19/language/nl.md" >}}) | 651 | 651 | 100.0 | /mnt/stockage/packages/f19/simple-scan/po/nl.po | 
- | [pl]({{< ref "/f19/language/pl.md" >}}) | 651 | 651 | 100.0 | /mnt/stockage/packages/f19/simple-scan/po/pl.po | 
- | [pt]({{< ref "/f19/language/pt.md" >}}) | 651 | 651 | 100.0 | /mnt/stockage/packages/f19/simple-scan/po/pt.po | 
- | [pt_BR]({{< ref "/f19/language/pt_BR.md" >}}) | 651 | 651 | 100.0 | /mnt/stockage/packages/f19/simple-scan/po/pt_BR.po | 
- | [ro]({{< ref "/f19/language/ro.md" >}}) | 651 | 651 | 100.0 | /mnt/stockage/packages/f19/simple-scan/po/ro.po | 
- | [ru]({{< ref "/f19/language/ru.md" >}}) | 651 | 651 | 100.0 | /mnt/stockage/packages/f19/simple-scan/po/ru.po | 
- | [sl]({{< ref "/f19/language/sl.md" >}}) | 651 | 651 | 100.0 | /mnt/stockage/packages/f19/simple-scan/po/sl.po | 
- | [sv]({{< ref "/f19/language/sv.md" >}}) | 651 | 651 | 100.0 | /mnt/stockage/packages/f19/simple-scan/po/sv.po | 
- | [th]({{< ref "/f19/language/th.md" >}}) | 651 | 651 | 100.0 | /mnt/stockage/packages/f19/simple-scan/po/th.po | 
- | [tr]({{< ref "/f19/language/tr.md" >}}) | 651 | 651 | 100.0 | /mnt/stockage/packages/f19/simple-scan/po/tr.po | 
- | [uk]({{< ref "/f19/language/uk.md" >}}) | 651 | 651 | 100.0 | /mnt/stockage/packages/f19/simple-scan/po/uk.po | 
- | [zh_Hans]({{< ref "/f19/language/zh_Hans.md" >}}) | 651 | 651 | 100.0 | /mnt/stockage/packages/f19/simple-scan/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f19/language/zh_Hant.md" >}}) | 651 | 651 | 100.0 | /mnt/stockage/packages/f19/simple-scan/po/zh_TW.po | 
- | [da]({{< ref "/f19/language/da.md" >}}) | 647 | 651 | 99.4 | /mnt/stockage/packages/f19/simple-scan/po/da.po | 
- | [el]({{< ref "/f19/language/el.md" >}}) | 553 | 651 | 84.9 | /mnt/stockage/packages/f19/simple-scan/po/el.po | 
- | [oc]({{< ref "/f19/language/oc.md" >}}) | 548 | 651 | 84.2 | /mnt/stockage/packages/f19/simple-scan/po/oc.po | 
- | [ug]({{< ref "/f19/language/ug.md" >}}) | 548 | 651 | 84.2 | /mnt/stockage/packages/f19/simple-scan/po/ug.po | 
- | [he]({{< ref "/f19/language/he.md" >}}) | 523 | 651 | 80.3 | /mnt/stockage/packages/f19/simple-scan/po/he.po | 
- | [ar]({{< ref "/f19/language/ar.md" >}}) | 477 | 651 | 73.3 | /mnt/stockage/packages/f19/simple-scan/po/ar.po | 
- | [et]({{< ref "/f19/language/et.md" >}}) | 446 | 651 | 68.5 | /mnt/stockage/packages/f19/simple-scan/po/et.po | 
- | [sk]({{< ref "/f19/language/sk.md" >}}) | 421 | 651 | 64.7 | /mnt/stockage/packages/f19/simple-scan/po/sk.po | 
- | [ja]({{< ref "/f19/language/ja.md" >}}) | 347 | 651 | 53.3 | /mnt/stockage/packages/f19/simple-scan/po/ja.po | 
- | [fi]({{< ref "/f19/language/fi.md" >}}) | 327 | 651 | 50.2 | /mnt/stockage/packages/f19/simple-scan/po/fi.po | 
- | [ast]({{< ref "/f19/language/ast.md" >}}) | 240 | 651 | 36.9 | /mnt/stockage/packages/f19/simple-scan/po/ast.po | 
- | [sr]({{< ref "/f19/language/sr.md" >}}) | 240 | 651 | 36.9 | /mnt/stockage/packages/f19/simple-scan/po/sr.po | 
- | [vi]({{< ref "/f19/language/vi.md" >}}) | 237 | 651 | 36.4 | /mnt/stockage/packages/f19/simple-scan/po/vi.po | 
- | [sq]({{< ref "/f19/language/sq.md" >}}) | 161 | 651 | 24.7 | /mnt/stockage/packages/f19/simple-scan/po/sq.po | 
- | [ms]({{< ref "/f19/language/ms.md" >}}) | 23 | 651 | 3.5 | /mnt/stockage/packages/f19/simple-scan/po/ms.po | 
- | [hr]({{< ref "/f19/language/hr.md" >}}) | 22 | 651 | 3.4 | /mnt/stockage/packages/f19/simple-scan/po/hr.po | 
- | [eo]({{< ref "/f19/language/eo.md" >}}) | 8 | 651 | 1.2 | /mnt/stockage/packages/f19/simple-scan/po/eo.po | 
- | [te]({{< ref "/f19/language/te.md" >}}) | 6 | 651 | 0.9 | /mnt/stockage/packages/f19/simple-scan/po/te.po | 
- | [af]({{< ref "/f19/language/af.md" >}}) | 1 | 651 | 0.2 | /mnt/stockage/packages/f19/simple-scan/po/af.po | 
- | [id]({{< ref "/f19/language/id.md" >}}) | 1 | 651 | 0.2 | /mnt/stockage/packages/f19/simple-scan/po/id.po | 
- | [lt]({{< ref "/f19/language/lt.md" >}}) | 1 | 651 | 0.2 | /mnt/stockage/packages/f19/simple-scan/po/lt.po | 
- | [ur]({{< ref "/f19/language/ur.md" >}}) | 0 | 651 | 0.0 | /mnt/stockage/packages/f19/simple-scan/po/ur.po | 
+ | [bg](/f19/language/bg) | 651 | 651 | 100.0 | /mnt/stockage/packages/f19/simple-scan/po/bg.po | 
+ | [ca](/f19/language/ca) | 651 | 651 | 100.0 | /mnt/stockage/packages/f19/simple-scan/po/ca.po | 
+ | [cs](/f19/language/cs) | 651 | 651 | 100.0 | /mnt/stockage/packages/f19/simple-scan/po/cs.po | 
+ | [de](/f19/language/de) | 1359 | 1359 | 100.0 | /mnt/stockage/packages/f19/simple-scan/help/de/de.po/mnt/stockage/packages/f19/simple-scan/po/de.po | 
+ | [en_GB](/f19/language/en_GB) | 651 | 651 | 100.0 | /mnt/stockage/packages/f19/simple-scan/po/en_GB.po | 
+ | [es](/f19/language/es) | 651 | 651 | 100.0 | /mnt/stockage/packages/f19/simple-scan/po/es.po | 
+ | [eu](/f19/language/eu) | 651 | 651 | 100.0 | /mnt/stockage/packages/f19/simple-scan/po/eu.po | 
+ | [fr](/f19/language/fr) | 651 | 651 | 100.0 | /mnt/stockage/packages/f19/simple-scan/po/fr.po | 
+ | [gl](/f19/language/gl) | 651 | 651 | 100.0 | /mnt/stockage/packages/f19/simple-scan/po/gl.po | 
+ | [hu](/f19/language/hu) | 651 | 651 | 100.0 | /mnt/stockage/packages/f19/simple-scan/po/hu.po | 
+ | [it](/f19/language/it) | 651 | 651 | 100.0 | /mnt/stockage/packages/f19/simple-scan/po/it.po | 
+ | [nb_NO](/f19/language/nb_NO) | 651 | 651 | 100.0 | /mnt/stockage/packages/f19/simple-scan/po/nb.po | 
+ | [nl](/f19/language/nl) | 651 | 651 | 100.0 | /mnt/stockage/packages/f19/simple-scan/po/nl.po | 
+ | [pl](/f19/language/pl) | 651 | 651 | 100.0 | /mnt/stockage/packages/f19/simple-scan/po/pl.po | 
+ | [pt](/f19/language/pt) | 651 | 651 | 100.0 | /mnt/stockage/packages/f19/simple-scan/po/pt.po | 
+ | [pt_BR](/f19/language/pt_BR) | 651 | 651 | 100.0 | /mnt/stockage/packages/f19/simple-scan/po/pt_BR.po | 
+ | [ro](/f19/language/ro) | 651 | 651 | 100.0 | /mnt/stockage/packages/f19/simple-scan/po/ro.po | 
+ | [ru](/f19/language/ru) | 651 | 651 | 100.0 | /mnt/stockage/packages/f19/simple-scan/po/ru.po | 
+ | [sl](/f19/language/sl) | 651 | 651 | 100.0 | /mnt/stockage/packages/f19/simple-scan/po/sl.po | 
+ | [sv](/f19/language/sv) | 651 | 651 | 100.0 | /mnt/stockage/packages/f19/simple-scan/po/sv.po | 
+ | [th](/f19/language/th) | 651 | 651 | 100.0 | /mnt/stockage/packages/f19/simple-scan/po/th.po | 
+ | [tr](/f19/language/tr) | 651 | 651 | 100.0 | /mnt/stockage/packages/f19/simple-scan/po/tr.po | 
+ | [uk](/f19/language/uk) | 651 | 651 | 100.0 | /mnt/stockage/packages/f19/simple-scan/po/uk.po | 
+ | [zh_Hans](/f19/language/zh_Hans) | 651 | 651 | 100.0 | /mnt/stockage/packages/f19/simple-scan/po/zh_CN.po | 
+ | [zh_Hant](/f19/language/zh_Hant) | 651 | 651 | 100.0 | /mnt/stockage/packages/f19/simple-scan/po/zh_TW.po | 
+ | [da](/f19/language/da) | 647 | 651 | 99.4 | /mnt/stockage/packages/f19/simple-scan/po/da.po | 
+ | [el](/f19/language/el) | 553 | 651 | 84.9 | /mnt/stockage/packages/f19/simple-scan/po/el.po | 
+ | [oc](/f19/language/oc) | 548 | 651 | 84.2 | /mnt/stockage/packages/f19/simple-scan/po/oc.po | 
+ | [ug](/f19/language/ug) | 548 | 651 | 84.2 | /mnt/stockage/packages/f19/simple-scan/po/ug.po | 
+ | [he](/f19/language/he) | 523 | 651 | 80.3 | /mnt/stockage/packages/f19/simple-scan/po/he.po | 
+ | [ar](/f19/language/ar) | 477 | 651 | 73.3 | /mnt/stockage/packages/f19/simple-scan/po/ar.po | 
+ | [et](/f19/language/et) | 446 | 651 | 68.5 | /mnt/stockage/packages/f19/simple-scan/po/et.po | 
+ | [sk](/f19/language/sk) | 421 | 651 | 64.7 | /mnt/stockage/packages/f19/simple-scan/po/sk.po | 
+ | [ja](/f19/language/ja) | 347 | 651 | 53.3 | /mnt/stockage/packages/f19/simple-scan/po/ja.po | 
+ | [fi](/f19/language/fi) | 327 | 651 | 50.2 | /mnt/stockage/packages/f19/simple-scan/po/fi.po | 
+ | [ast](/f19/language/ast) | 240 | 651 | 36.9 | /mnt/stockage/packages/f19/simple-scan/po/ast.po | 
+ | [sr](/f19/language/sr) | 240 | 651 | 36.9 | /mnt/stockage/packages/f19/simple-scan/po/sr.po | 
+ | [vi](/f19/language/vi) | 237 | 651 | 36.4 | /mnt/stockage/packages/f19/simple-scan/po/vi.po | 
+ | [sq](/f19/language/sq) | 161 | 651 | 24.7 | /mnt/stockage/packages/f19/simple-scan/po/sq.po | 
+ | [ms](/f19/language/ms) | 23 | 651 | 3.5 | /mnt/stockage/packages/f19/simple-scan/po/ms.po | 
+ | [hr](/f19/language/hr) | 22 | 651 | 3.4 | /mnt/stockage/packages/f19/simple-scan/po/hr.po | 
+ | [eo](/f19/language/eo) | 8 | 651 | 1.2 | /mnt/stockage/packages/f19/simple-scan/po/eo.po | 
+ | [te](/f19/language/te) | 6 | 651 | 0.9 | /mnt/stockage/packages/f19/simple-scan/po/te.po | 
+ | [af](/f19/language/af) | 1 | 651 | 0.2 | /mnt/stockage/packages/f19/simple-scan/po/af.po | 
+ | [id](/f19/language/id) | 1 | 651 | 0.2 | /mnt/stockage/packages/f19/simple-scan/po/id.po | 
+ | [lt](/f19/language/lt) | 1 | 651 | 0.2 | /mnt/stockage/packages/f19/simple-scan/po/lt.po | 
+ | [ur](/f19/language/ur) | 0 | 651 | 0.0 | /mnt/stockage/packages/f19/simple-scan/po/ur.po | 
 {.sortable}
 
 

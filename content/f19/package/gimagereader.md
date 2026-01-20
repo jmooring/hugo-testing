@@ -18,8 +18,8 @@ The package gimagereader (version 2.93):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f19/language/de.md" >}}) | 608 | 608 | 100.0 | /mnt/stockage/packages/f19/gimagereader/po/de.po | 
- | [it]({{< ref "/f19/language/it.md" >}}) | 608 | 608 | 100.0 | /mnt/stockage/packages/f19/gimagereader/po/it.po | 
+ | [de](/f19/language/de) | 608 | 608 | 100.0 | /mnt/stockage/packages/f19/gimagereader/po/de.po | 
+ | [it](/f19/language/it) | 608 | 608 | 100.0 | /mnt/stockage/packages/f19/gimagereader/po/it.po | 
 {.sortable}
 
 

@@ -18,26 +18,26 @@ The package trytond-account-invoice-history (version 4.0.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [bg]({{< ref "/f25/language/bg.md" >}}) | 2 | 2 | 100.0 | /mnt/stockage/packages/f25/trytond-account-invoice-history/locale/bg_BG.po | 
- | [ca]({{< ref "/f25/language/ca.md" >}}) | 2 | 2 | 100.0 | /mnt/stockage/packages/f25/trytond-account-invoice-history/locale/ca_ES.po | 
- | [de]({{< ref "/f25/language/de.md" >}}) | 2 | 2 | 100.0 | /mnt/stockage/packages/f25/trytond-account-invoice-history/locale/de_DE.po | 
- | [es]({{< ref "/f25/language/es.md" >}}) | 2 | 2 | 100.0 | /mnt/stockage/packages/f25/trytond-account-invoice-history/locale/es_ES.po | 
- | [es_AR]({{< ref "/f25/language/es_AR.md" >}}) | 2 | 2 | 100.0 | /mnt/stockage/packages/f25/trytond-account-invoice-history/locale/es_AR.po | 
- | [es_CO]({{< ref "/f25/language/es_CO.md" >}}) | 2 | 2 | 100.0 | /mnt/stockage/packages/f25/trytond-account-invoice-history/locale/es_CO.po | 
- | [es_EC]({{< ref "/f25/language/es_EC.md" >}}) | 2 | 2 | 100.0 | /mnt/stockage/packages/f25/trytond-account-invoice-history/locale/es_EC.po | 
- | [es_MX]({{< ref "/f25/language/es_MX.md" >}}) | 2 | 2 | 100.0 | /mnt/stockage/packages/f25/trytond-account-invoice-history/locale/es_MX.po | 
- | [fr]({{< ref "/f25/language/fr.md" >}}) | 2 | 2 | 100.0 | /mnt/stockage/packages/f25/trytond-account-invoice-history/locale/fr_FR.po | 
- | [lo]({{< ref "/f25/language/lo.md" >}}) | 2 | 2 | 100.0 | /mnt/stockage/packages/f25/trytond-account-invoice-history/locale/lo_LA.po | 
- | [pt_BR]({{< ref "/f25/language/pt_BR.md" >}}) | 2 | 2 | 100.0 | /mnt/stockage/packages/f25/trytond-account-invoice-history/locale/pt_BR.po | 
- | [sl]({{< ref "/f25/language/sl.md" >}}) | 2 | 2 | 100.0 | /mnt/stockage/packages/f25/trytond-account-invoice-history/locale/sl_SI.po | 
- | [cs]({{< ref "/f25/language/cs.md" >}}) | 0 | 2 | 0.0 | /mnt/stockage/packages/f25/trytond-account-invoice-history/locale/cs_CZ.po | 
- | [hu]({{< ref "/f25/language/hu.md" >}}) | 0 | 2 | 0.0 | /mnt/stockage/packages/f25/trytond-account-invoice-history/locale/hu_HU.po | 
- | [it]({{< ref "/f25/language/it.md" >}}) | 0 | 2 | 0.0 | /mnt/stockage/packages/f25/trytond-account-invoice-history/locale/it_IT.po | 
- | [ja]({{< ref "/f25/language/ja.md" >}}) | 0 | 2 | 0.0 | /mnt/stockage/packages/f25/trytond-account-invoice-history/locale/ja_JP.po | 
- | [lt]({{< ref "/f25/language/lt.md" >}}) | 0 | 2 | 0.0 | /mnt/stockage/packages/f25/trytond-account-invoice-history/locale/lt_LT.po | 
- | [nl]({{< ref "/f25/language/nl.md" >}}) | 0 | 2 | 0.0 | /mnt/stockage/packages/f25/trytond-account-invoice-history/locale/nl_NL.po | 
- | [ru]({{< ref "/f25/language/ru.md" >}}) | 0 | 2 | 0.0 | /mnt/stockage/packages/f25/trytond-account-invoice-history/locale/ru_RU.po | 
- | [zh_Hans]({{< ref "/f25/language/zh_Hans.md" >}}) | 0 | 2 | 0.0 | /mnt/stockage/packages/f25/trytond-account-invoice-history/locale/zh_CN.po | 
+ | [bg](/f25/language/bg) | 2 | 2 | 100.0 | /mnt/stockage/packages/f25/trytond-account-invoice-history/locale/bg_BG.po | 
+ | [ca](/f25/language/ca) | 2 | 2 | 100.0 | /mnt/stockage/packages/f25/trytond-account-invoice-history/locale/ca_ES.po | 
+ | [de](/f25/language/de) | 2 | 2 | 100.0 | /mnt/stockage/packages/f25/trytond-account-invoice-history/locale/de_DE.po | 
+ | [es](/f25/language/es) | 2 | 2 | 100.0 | /mnt/stockage/packages/f25/trytond-account-invoice-history/locale/es_ES.po | 
+ | [es_AR](/f25/language/es_AR) | 2 | 2 | 100.0 | /mnt/stockage/packages/f25/trytond-account-invoice-history/locale/es_AR.po | 
+ | [es_CO](/f25/language/es_CO) | 2 | 2 | 100.0 | /mnt/stockage/packages/f25/trytond-account-invoice-history/locale/es_CO.po | 
+ | [es_EC](/f25/language/es_EC) | 2 | 2 | 100.0 | /mnt/stockage/packages/f25/trytond-account-invoice-history/locale/es_EC.po | 
+ | [es_MX](/f25/language/es_MX) | 2 | 2 | 100.0 | /mnt/stockage/packages/f25/trytond-account-invoice-history/locale/es_MX.po | 
+ | [fr](/f25/language/fr) | 2 | 2 | 100.0 | /mnt/stockage/packages/f25/trytond-account-invoice-history/locale/fr_FR.po | 
+ | [lo](/f25/language/lo) | 2 | 2 | 100.0 | /mnt/stockage/packages/f25/trytond-account-invoice-history/locale/lo_LA.po | 
+ | [pt_BR](/f25/language/pt_BR) | 2 | 2 | 100.0 | /mnt/stockage/packages/f25/trytond-account-invoice-history/locale/pt_BR.po | 
+ | [sl](/f25/language/sl) | 2 | 2 | 100.0 | /mnt/stockage/packages/f25/trytond-account-invoice-history/locale/sl_SI.po | 
+ | [cs](/f25/language/cs) | 0 | 2 | 0.0 | /mnt/stockage/packages/f25/trytond-account-invoice-history/locale/cs_CZ.po | 
+ | [hu](/f25/language/hu) | 0 | 2 | 0.0 | /mnt/stockage/packages/f25/trytond-account-invoice-history/locale/hu_HU.po | 
+ | [it](/f25/language/it) | 0 | 2 | 0.0 | /mnt/stockage/packages/f25/trytond-account-invoice-history/locale/it_IT.po | 
+ | [ja](/f25/language/ja) | 0 | 2 | 0.0 | /mnt/stockage/packages/f25/trytond-account-invoice-history/locale/ja_JP.po | 
+ | [lt](/f25/language/lt) | 0 | 2 | 0.0 | /mnt/stockage/packages/f25/trytond-account-invoice-history/locale/lt_LT.po | 
+ | [nl](/f25/language/nl) | 0 | 2 | 0.0 | /mnt/stockage/packages/f25/trytond-account-invoice-history/locale/nl_NL.po | 
+ | [ru](/f25/language/ru) | 0 | 2 | 0.0 | /mnt/stockage/packages/f25/trytond-account-invoice-history/locale/ru_RU.po | 
+ | [zh_Hans](/f25/language/zh_Hans) | 0 | 2 | 0.0 | /mnt/stockage/packages/f25/trytond-account-invoice-history/locale/zh_CN.po | 
 {.sortable}
 
 

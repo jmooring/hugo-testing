@@ -18,19 +18,19 @@ The package gpa (version 0.8.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f13/language/de.md" >}}) | 2042 | 2042 | 100.0 | /mnt/stockage/packages/f13/gpa/po/de.po | 
- | [ar]({{< ref "/f13/language/ar.md" >}}) | 1619 | 2042 | 79.3 | /mnt/stockage/packages/f13/gpa/po/ar.po | 
- | [es]({{< ref "/f13/language/es.md" >}}) | 1619 | 2042 | 79.3 | /mnt/stockage/packages/f13/gpa/po/es.po | 
- | [fr]({{< ref "/f13/language/fr.md" >}}) | 1619 | 2042 | 79.3 | /mnt/stockage/packages/f13/gpa/po/fr.po | 
- | [ru]({{< ref "/f13/language/ru.md" >}}) | 1619 | 2042 | 79.3 | /mnt/stockage/packages/f13/gpa/po/ru.po | 
- | [cs]({{< ref "/f13/language/cs.md" >}}) | 1353 | 2042 | 66.3 | /mnt/stockage/packages/f13/gpa/po/cs.po | 
- | [sv]({{< ref "/f13/language/sv.md" >}}) | 1329 | 2042 | 65.1 | /mnt/stockage/packages/f13/gpa/po/sv.po | 
- | [pl]({{< ref "/f13/language/pl.md" >}}) | 1298 | 2042 | 63.6 | /mnt/stockage/packages/f13/gpa/po/pl.po | 
- | [ja]({{< ref "/f13/language/ja.md" >}}) | 1296 | 2042 | 63.5 | /mnt/stockage/packages/f13/gpa/po/ja.po | 
- | [error]({{< ref "/f13/language/error.md" >}}) | 1293 | 2042 | 63.3 | /mnt/stockage/packages/f13/gpa/po/zh_TW.Big5.po | 
- | [tr]({{< ref "/f13/language/tr.md" >}}) | 1293 | 2042 | 63.3 | /mnt/stockage/packages/f13/gpa/po/tr.po | 
- | [nl]({{< ref "/f13/language/nl.md" >}}) | 1281 | 2042 | 62.7 | /mnt/stockage/packages/f13/gpa/po/nl.po | 
- | [pt_BR]({{< ref "/f13/language/pt_BR.md" >}}) | 1083 | 2042 | 53.0 | /mnt/stockage/packages/f13/gpa/po/pt_BR.po | 
+ | [de](/f13/language/de) | 2042 | 2042 | 100.0 | /mnt/stockage/packages/f13/gpa/po/de.po | 
+ | [ar](/f13/language/ar) | 1619 | 2042 | 79.3 | /mnt/stockage/packages/f13/gpa/po/ar.po | 
+ | [es](/f13/language/es) | 1619 | 2042 | 79.3 | /mnt/stockage/packages/f13/gpa/po/es.po | 
+ | [fr](/f13/language/fr) | 1619 | 2042 | 79.3 | /mnt/stockage/packages/f13/gpa/po/fr.po | 
+ | [ru](/f13/language/ru) | 1619 | 2042 | 79.3 | /mnt/stockage/packages/f13/gpa/po/ru.po | 
+ | [cs](/f13/language/cs) | 1353 | 2042 | 66.3 | /mnt/stockage/packages/f13/gpa/po/cs.po | 
+ | [sv](/f13/language/sv) | 1329 | 2042 | 65.1 | /mnt/stockage/packages/f13/gpa/po/sv.po | 
+ | [pl](/f13/language/pl) | 1298 | 2042 | 63.6 | /mnt/stockage/packages/f13/gpa/po/pl.po | 
+ | [ja](/f13/language/ja) | 1296 | 2042 | 63.5 | /mnt/stockage/packages/f13/gpa/po/ja.po | 
+ | [error](/f13/language/error) | 1293 | 2042 | 63.3 | /mnt/stockage/packages/f13/gpa/po/zh_TW.Big5.po | 
+ | [tr](/f13/language/tr) | 1293 | 2042 | 63.3 | /mnt/stockage/packages/f13/gpa/po/tr.po | 
+ | [nl](/f13/language/nl) | 1281 | 2042 | 62.7 | /mnt/stockage/packages/f13/gpa/po/nl.po | 
+ | [pt_BR](/f13/language/pt_BR) | 1083 | 2042 | 53.0 | /mnt/stockage/packages/f13/gpa/po/pt_BR.po | 
 {.sortable}
 
 

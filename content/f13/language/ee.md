@@ -39,7 +39,7 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [pidgin-gfire]({{< ref "/f13/package/pidgin-gfire.md" >}}) | 1173 | 1173 | 100.0 |  | 
+ | [pidgin-gfire](/f13/package/pidgin-gfire) | 1173 | 1173 | 100.0 |  | 
 {.sortable}
 
 

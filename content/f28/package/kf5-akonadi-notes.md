@@ -18,49 +18,49 @@ The package kf5-akonadi-notes (version 18.08.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f28/language/ar.md" >}}) | 2 | 2 | 100.0 | /mnt/stockage/packages/f28/kf5-akonadi-notes/po/ar/akonadinotes5.po | 
- | [ast]({{< ref "/f28/language/ast.md" >}}) | 2 | 2 | 100.0 | /mnt/stockage/packages/f28/kf5-akonadi-notes/po/ast/akonadinotes5.po | 
- | [bs]({{< ref "/f28/language/bs.md" >}}) | 2 | 2 | 100.0 | /mnt/stockage/packages/f28/kf5-akonadi-notes/po/bs/akonadinotes5.po | 
- | [ca]({{< ref "/f28/language/ca.md" >}}) | 2 | 2 | 100.0 | /mnt/stockage/packages/f28/kf5-akonadi-notes/po/ca/akonadinotes5.po | 
- | [ca@valencia]({{< ref "/f28/language/ca@valencia.md" >}}) | 2 | 2 | 100.0 | /mnt/stockage/packages/f28/kf5-akonadi-notes/po/ca@valencia/akonadinotes5.po | 
- | [cs]({{< ref "/f28/language/cs.md" >}}) | 2 | 2 | 100.0 | /mnt/stockage/packages/f28/kf5-akonadi-notes/po/cs/akonadinotes5.po | 
- | [da]({{< ref "/f28/language/da.md" >}}) | 2 | 2 | 100.0 | /mnt/stockage/packages/f28/kf5-akonadi-notes/po/da/akonadinotes5.po | 
- | [de]({{< ref "/f28/language/de.md" >}}) | 2 | 2 | 100.0 | /mnt/stockage/packages/f28/kf5-akonadi-notes/po/de/akonadinotes5.po | 
- | [el]({{< ref "/f28/language/el.md" >}}) | 2 | 2 | 100.0 | /mnt/stockage/packages/f28/kf5-akonadi-notes/po/el/akonadinotes5.po | 
- | [en_GB]({{< ref "/f28/language/en_GB.md" >}}) | 2 | 2 | 100.0 | /mnt/stockage/packages/f28/kf5-akonadi-notes/po/en_GB/akonadinotes5.po | 
- | [es]({{< ref "/f28/language/es.md" >}}) | 2 | 2 | 100.0 | /mnt/stockage/packages/f28/kf5-akonadi-notes/po/es/akonadinotes5.po | 
- | [et]({{< ref "/f28/language/et.md" >}}) | 2 | 2 | 100.0 | /mnt/stockage/packages/f28/kf5-akonadi-notes/po/et/akonadinotes5.po | 
- | [fi]({{< ref "/f28/language/fi.md" >}}) | 2 | 2 | 100.0 | /mnt/stockage/packages/f28/kf5-akonadi-notes/po/fi/akonadinotes5.po | 
- | [fr]({{< ref "/f28/language/fr.md" >}}) | 2 | 2 | 100.0 | /mnt/stockage/packages/f28/kf5-akonadi-notes/po/fr/akonadinotes5.po | 
- | [ga]({{< ref "/f28/language/ga.md" >}}) | 2 | 2 | 100.0 | /mnt/stockage/packages/f28/kf5-akonadi-notes/po/ga/akonadinotes5.po | 
- | [gl]({{< ref "/f28/language/gl.md" >}}) | 2 | 2 | 100.0 | /mnt/stockage/packages/f28/kf5-akonadi-notes/po/gl/akonadinotes5.po | 
- | [he]({{< ref "/f28/language/he.md" >}}) | 2 | 2 | 100.0 | /mnt/stockage/packages/f28/kf5-akonadi-notes/po/he/akonadinotes5.po | 
- | [hu]({{< ref "/f28/language/hu.md" >}}) | 2 | 2 | 100.0 | /mnt/stockage/packages/f28/kf5-akonadi-notes/po/hu/akonadinotes5.po | 
- | [ia]({{< ref "/f28/language/ia.md" >}}) | 2 | 2 | 100.0 | /mnt/stockage/packages/f28/kf5-akonadi-notes/po/ia/akonadinotes5.po | 
- | [it]({{< ref "/f28/language/it.md" >}}) | 2 | 2 | 100.0 | /mnt/stockage/packages/f28/kf5-akonadi-notes/po/it/akonadinotes5.po | 
- | [kk]({{< ref "/f28/language/kk.md" >}}) | 2 | 2 | 100.0 | /mnt/stockage/packages/f28/kf5-akonadi-notes/po/kk/akonadinotes5.po | 
- | [km]({{< ref "/f28/language/km.md" >}}) | 2 | 2 | 100.0 | /mnt/stockage/packages/f28/kf5-akonadi-notes/po/km/akonadinotes5.po | 
- | [ko]({{< ref "/f28/language/ko.md" >}}) | 2 | 2 | 100.0 | /mnt/stockage/packages/f28/kf5-akonadi-notes/po/ko/akonadinotes5.po | 
- | [lt]({{< ref "/f28/language/lt.md" >}}) | 2 | 2 | 100.0 | /mnt/stockage/packages/f28/kf5-akonadi-notes/po/lt/akonadinotes5.po | 
- | [mr]({{< ref "/f28/language/mr.md" >}}) | 2 | 2 | 100.0 | /mnt/stockage/packages/f28/kf5-akonadi-notes/po/mr/akonadinotes5.po | 
- | [nb_NO]({{< ref "/f28/language/nb_NO.md" >}}) | 2 | 2 | 100.0 | /mnt/stockage/packages/f28/kf5-akonadi-notes/po/nb/akonadinotes5.po | 
- | [nds]({{< ref "/f28/language/nds.md" >}}) | 2 | 2 | 100.0 | /mnt/stockage/packages/f28/kf5-akonadi-notes/po/nds/akonadinotes5.po | 
- | [nl]({{< ref "/f28/language/nl.md" >}}) | 2 | 2 | 100.0 | /mnt/stockage/packages/f28/kf5-akonadi-notes/po/nl/akonadinotes5.po | 
- | [pl]({{< ref "/f28/language/pl.md" >}}) | 2 | 2 | 100.0 | /mnt/stockage/packages/f28/kf5-akonadi-notes/po/pl/akonadinotes5.po | 
- | [pt]({{< ref "/f28/language/pt.md" >}}) | 2 | 2 | 100.0 | /mnt/stockage/packages/f28/kf5-akonadi-notes/po/pt/akonadinotes5.po | 
- | [pt_BR]({{< ref "/f28/language/pt_BR.md" >}}) | 2 | 2 | 100.0 | /mnt/stockage/packages/f28/kf5-akonadi-notes/po/pt_BR/akonadinotes5.po | 
- | [ro]({{< ref "/f28/language/ro.md" >}}) | 2 | 2 | 100.0 | /mnt/stockage/packages/f28/kf5-akonadi-notes/po/ro/akonadinotes5.po | 
- | [ru]({{< ref "/f28/language/ru.md" >}}) | 2 | 2 | 100.0 | /mnt/stockage/packages/f28/kf5-akonadi-notes/po/ru/akonadinotes5.po | 
- | [sk]({{< ref "/f28/language/sk.md" >}}) | 2 | 2 | 100.0 | /mnt/stockage/packages/f28/kf5-akonadi-notes/po/sk/akonadinotes5.po | 
- | [sl]({{< ref "/f28/language/sl.md" >}}) | 2 | 2 | 100.0 | /mnt/stockage/packages/f28/kf5-akonadi-notes/po/sl/akonadinotes5.po | 
- | [sr]({{< ref "/f28/language/sr.md" >}}) | 2 | 2 | 100.0 | /mnt/stockage/packages/f28/kf5-akonadi-notes/po/sr/akonadinotes5.po | 
- | [sv]({{< ref "/f28/language/sv.md" >}}) | 2 | 2 | 100.0 | /mnt/stockage/packages/f28/kf5-akonadi-notes/po/sv/akonadinotes5.po | 
- | [tr]({{< ref "/f28/language/tr.md" >}}) | 2 | 2 | 100.0 | /mnt/stockage/packages/f28/kf5-akonadi-notes/po/tr/akonadinotes5.po | 
- | [ug]({{< ref "/f28/language/ug.md" >}}) | 2 | 2 | 100.0 | /mnt/stockage/packages/f28/kf5-akonadi-notes/po/ug/akonadinotes5.po | 
- | [uk]({{< ref "/f28/language/uk.md" >}}) | 2 | 2 | 100.0 | /mnt/stockage/packages/f28/kf5-akonadi-notes/po/uk/akonadinotes5.po | 
- | [zh_Hans]({{< ref "/f28/language/zh_Hans.md" >}}) | 2 | 2 | 100.0 | /mnt/stockage/packages/f28/kf5-akonadi-notes/po/zh_CN/akonadinotes5.po | 
- | [zh_Hant]({{< ref "/f28/language/zh_Hant.md" >}}) | 2 | 2 | 100.0 | /mnt/stockage/packages/f28/kf5-akonadi-notes/po/zh_TW/akonadinotes5.po | 
- | [ja]({{< ref "/f28/language/ja.md" >}}) | 0 | 2 | 0.0 | /mnt/stockage/packages/f28/kf5-akonadi-notes/po/ja/akonadinotes5.po | 
+ | [ar](/f28/language/ar) | 2 | 2 | 100.0 | /mnt/stockage/packages/f28/kf5-akonadi-notes/po/ar/akonadinotes5.po | 
+ | [ast](/f28/language/ast) | 2 | 2 | 100.0 | /mnt/stockage/packages/f28/kf5-akonadi-notes/po/ast/akonadinotes5.po | 
+ | [bs](/f28/language/bs) | 2 | 2 | 100.0 | /mnt/stockage/packages/f28/kf5-akonadi-notes/po/bs/akonadinotes5.po | 
+ | [ca](/f28/language/ca) | 2 | 2 | 100.0 | /mnt/stockage/packages/f28/kf5-akonadi-notes/po/ca/akonadinotes5.po | 
+ | [ca@valencia](/f28/language/ca@valencia) | 2 | 2 | 100.0 | /mnt/stockage/packages/f28/kf5-akonadi-notes/po/ca@valencia/akonadinotes5.po | 
+ | [cs](/f28/language/cs) | 2 | 2 | 100.0 | /mnt/stockage/packages/f28/kf5-akonadi-notes/po/cs/akonadinotes5.po | 
+ | [da](/f28/language/da) | 2 | 2 | 100.0 | /mnt/stockage/packages/f28/kf5-akonadi-notes/po/da/akonadinotes5.po | 
+ | [de](/f28/language/de) | 2 | 2 | 100.0 | /mnt/stockage/packages/f28/kf5-akonadi-notes/po/de/akonadinotes5.po | 
+ | [el](/f28/language/el) | 2 | 2 | 100.0 | /mnt/stockage/packages/f28/kf5-akonadi-notes/po/el/akonadinotes5.po | 
+ | [en_GB](/f28/language/en_GB) | 2 | 2 | 100.0 | /mnt/stockage/packages/f28/kf5-akonadi-notes/po/en_GB/akonadinotes5.po | 
+ | [es](/f28/language/es) | 2 | 2 | 100.0 | /mnt/stockage/packages/f28/kf5-akonadi-notes/po/es/akonadinotes5.po | 
+ | [et](/f28/language/et) | 2 | 2 | 100.0 | /mnt/stockage/packages/f28/kf5-akonadi-notes/po/et/akonadinotes5.po | 
+ | [fi](/f28/language/fi) | 2 | 2 | 100.0 | /mnt/stockage/packages/f28/kf5-akonadi-notes/po/fi/akonadinotes5.po | 
+ | [fr](/f28/language/fr) | 2 | 2 | 100.0 | /mnt/stockage/packages/f28/kf5-akonadi-notes/po/fr/akonadinotes5.po | 
+ | [ga](/f28/language/ga) | 2 | 2 | 100.0 | /mnt/stockage/packages/f28/kf5-akonadi-notes/po/ga/akonadinotes5.po | 
+ | [gl](/f28/language/gl) | 2 | 2 | 100.0 | /mnt/stockage/packages/f28/kf5-akonadi-notes/po/gl/akonadinotes5.po | 
+ | [he](/f28/language/he) | 2 | 2 | 100.0 | /mnt/stockage/packages/f28/kf5-akonadi-notes/po/he/akonadinotes5.po | 
+ | [hu](/f28/language/hu) | 2 | 2 | 100.0 | /mnt/stockage/packages/f28/kf5-akonadi-notes/po/hu/akonadinotes5.po | 
+ | [ia](/f28/language/ia) | 2 | 2 | 100.0 | /mnt/stockage/packages/f28/kf5-akonadi-notes/po/ia/akonadinotes5.po | 
+ | [it](/f28/language/it) | 2 | 2 | 100.0 | /mnt/stockage/packages/f28/kf5-akonadi-notes/po/it/akonadinotes5.po | 
+ | [kk](/f28/language/kk) | 2 | 2 | 100.0 | /mnt/stockage/packages/f28/kf5-akonadi-notes/po/kk/akonadinotes5.po | 
+ | [km](/f28/language/km) | 2 | 2 | 100.0 | /mnt/stockage/packages/f28/kf5-akonadi-notes/po/km/akonadinotes5.po | 
+ | [ko](/f28/language/ko) | 2 | 2 | 100.0 | /mnt/stockage/packages/f28/kf5-akonadi-notes/po/ko/akonadinotes5.po | 
+ | [lt](/f28/language/lt) | 2 | 2 | 100.0 | /mnt/stockage/packages/f28/kf5-akonadi-notes/po/lt/akonadinotes5.po | 
+ | [mr](/f28/language/mr) | 2 | 2 | 100.0 | /mnt/stockage/packages/f28/kf5-akonadi-notes/po/mr/akonadinotes5.po | 
+ | [nb_NO](/f28/language/nb_NO) | 2 | 2 | 100.0 | /mnt/stockage/packages/f28/kf5-akonadi-notes/po/nb/akonadinotes5.po | 
+ | [nds](/f28/language/nds) | 2 | 2 | 100.0 | /mnt/stockage/packages/f28/kf5-akonadi-notes/po/nds/akonadinotes5.po | 
+ | [nl](/f28/language/nl) | 2 | 2 | 100.0 | /mnt/stockage/packages/f28/kf5-akonadi-notes/po/nl/akonadinotes5.po | 
+ | [pl](/f28/language/pl) | 2 | 2 | 100.0 | /mnt/stockage/packages/f28/kf5-akonadi-notes/po/pl/akonadinotes5.po | 
+ | [pt](/f28/language/pt) | 2 | 2 | 100.0 | /mnt/stockage/packages/f28/kf5-akonadi-notes/po/pt/akonadinotes5.po | 
+ | [pt_BR](/f28/language/pt_BR) | 2 | 2 | 100.0 | /mnt/stockage/packages/f28/kf5-akonadi-notes/po/pt_BR/akonadinotes5.po | 
+ | [ro](/f28/language/ro) | 2 | 2 | 100.0 | /mnt/stockage/packages/f28/kf5-akonadi-notes/po/ro/akonadinotes5.po | 
+ | [ru](/f28/language/ru) | 2 | 2 | 100.0 | /mnt/stockage/packages/f28/kf5-akonadi-notes/po/ru/akonadinotes5.po | 
+ | [sk](/f28/language/sk) | 2 | 2 | 100.0 | /mnt/stockage/packages/f28/kf5-akonadi-notes/po/sk/akonadinotes5.po | 
+ | [sl](/f28/language/sl) | 2 | 2 | 100.0 | /mnt/stockage/packages/f28/kf5-akonadi-notes/po/sl/akonadinotes5.po | 
+ | [sr](/f28/language/sr) | 2 | 2 | 100.0 | /mnt/stockage/packages/f28/kf5-akonadi-notes/po/sr/akonadinotes5.po | 
+ | [sv](/f28/language/sv) | 2 | 2 | 100.0 | /mnt/stockage/packages/f28/kf5-akonadi-notes/po/sv/akonadinotes5.po | 
+ | [tr](/f28/language/tr) | 2 | 2 | 100.0 | /mnt/stockage/packages/f28/kf5-akonadi-notes/po/tr/akonadinotes5.po | 
+ | [ug](/f28/language/ug) | 2 | 2 | 100.0 | /mnt/stockage/packages/f28/kf5-akonadi-notes/po/ug/akonadinotes5.po | 
+ | [uk](/f28/language/uk) | 2 | 2 | 100.0 | /mnt/stockage/packages/f28/kf5-akonadi-notes/po/uk/akonadinotes5.po | 
+ | [zh_Hans](/f28/language/zh_Hans) | 2 | 2 | 100.0 | /mnt/stockage/packages/f28/kf5-akonadi-notes/po/zh_CN/akonadinotes5.po | 
+ | [zh_Hant](/f28/language/zh_Hant) | 2 | 2 | 100.0 | /mnt/stockage/packages/f28/kf5-akonadi-notes/po/zh_TW/akonadinotes5.po | 
+ | [ja](/f28/language/ja) | 0 | 2 | 0.0 | /mnt/stockage/packages/f28/kf5-akonadi-notes/po/ja/akonadinotes5.po | 
 {.sortable}
 
 

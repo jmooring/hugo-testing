@@ -18,18 +18,18 @@ The package minigalaxy (version 1.0.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f32/language/de.md" >}}) | 227 | 227 | 100.0 | /mnt/stockage/packages/f32/minigalaxy/data/po/de.po | 
- | [fr]({{< ref "/f32/language/fr.md" >}}) | 227 | 227 | 100.0 | /mnt/stockage/packages/f32/minigalaxy/data/po/fr.po | 
- | [pl]({{< ref "/f32/language/pl.md" >}}) | 227 | 227 | 100.0 | /mnt/stockage/packages/f32/minigalaxy/data/po/pl.po | 
- | [pt_BR]({{< ref "/f32/language/pt_BR.md" >}}) | 227 | 227 | 100.0 | /mnt/stockage/packages/f32/minigalaxy/data/po/pt_BR.po | 
- | [ru]({{< ref "/f32/language/ru.md" >}}) | 227 | 227 | 100.0 | /mnt/stockage/packages/f32/minigalaxy/data/po/ru_RU.po | 
- | [sv]({{< ref "/f32/language/sv.md" >}}) | 227 | 227 | 100.0 | /mnt/stockage/packages/f32/minigalaxy/data/po/sv_SE.po | 
- | [tr]({{< ref "/f32/language/tr.md" >}}) | 227 | 227 | 100.0 | /mnt/stockage/packages/f32/minigalaxy/data/po/tr.po | 
- | [zh_Hans]({{< ref "/f32/language/zh_Hans.md" >}}) | 227 | 227 | 100.0 | /mnt/stockage/packages/f32/minigalaxy/data/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f32/language/zh_Hant.md" >}}) | 227 | 227 | 100.0 | /mnt/stockage/packages/f32/minigalaxy/data/po/zh_TW.po | 
- | [nb_NO]({{< ref "/f32/language/nb_NO.md" >}}) | 453 | 454 | 99.8 | /mnt/stockage/packages/f32/minigalaxy/data/po/nn_NO.po/mnt/stockage/packages/f32/minigalaxy/data/po/nb_NO.po | 
- | [nl]({{< ref "/f32/language/nl.md" >}}) | 222 | 227 | 97.8 | /mnt/stockage/packages/f32/minigalaxy/data/po/nl.po | 
- | [es]({{< ref "/f32/language/es.md" >}}) | 204 | 227 | 89.9 | /mnt/stockage/packages/f32/minigalaxy/data/po/es.po | 
+ | [de](/f32/language/de) | 227 | 227 | 100.0 | /mnt/stockage/packages/f32/minigalaxy/data/po/de.po | 
+ | [fr](/f32/language/fr) | 227 | 227 | 100.0 | /mnt/stockage/packages/f32/minigalaxy/data/po/fr.po | 
+ | [pl](/f32/language/pl) | 227 | 227 | 100.0 | /mnt/stockage/packages/f32/minigalaxy/data/po/pl.po | 
+ | [pt_BR](/f32/language/pt_BR) | 227 | 227 | 100.0 | /mnt/stockage/packages/f32/minigalaxy/data/po/pt_BR.po | 
+ | [ru](/f32/language/ru) | 227 | 227 | 100.0 | /mnt/stockage/packages/f32/minigalaxy/data/po/ru_RU.po | 
+ | [sv](/f32/language/sv) | 227 | 227 | 100.0 | /mnt/stockage/packages/f32/minigalaxy/data/po/sv_SE.po | 
+ | [tr](/f32/language/tr) | 227 | 227 | 100.0 | /mnt/stockage/packages/f32/minigalaxy/data/po/tr.po | 
+ | [zh_Hans](/f32/language/zh_Hans) | 227 | 227 | 100.0 | /mnt/stockage/packages/f32/minigalaxy/data/po/zh_CN.po | 
+ | [zh_Hant](/f32/language/zh_Hant) | 227 | 227 | 100.0 | /mnt/stockage/packages/f32/minigalaxy/data/po/zh_TW.po | 
+ | [nb_NO](/f32/language/nb_NO) | 453 | 454 | 99.8 | /mnt/stockage/packages/f32/minigalaxy/data/po/nn_NO.po/mnt/stockage/packages/f32/minigalaxy/data/po/nb_NO.po | 
+ | [nl](/f32/language/nl) | 222 | 227 | 97.8 | /mnt/stockage/packages/f32/minigalaxy/data/po/nl.po | 
+ | [es](/f32/language/es) | 204 | 227 | 89.9 | /mnt/stockage/packages/f32/minigalaxy/data/po/es.po | 
 {.sortable}
 
 

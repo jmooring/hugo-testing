@@ -18,47 +18,47 @@ The package kunifiedpush (version 25.12.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f43/language/ar.md" >}}) | 180 | 180 | 100.0 | /mnt/stockage/packages/f43/kunifiedpush/po/ar/kcm_push_notifications.po | 
- | [bg]({{< ref "/f43/language/bg.md" >}}) | 180 | 180 | 100.0 | /mnt/stockage/packages/f43/kunifiedpush/po/bg/kcm_push_notifications.po | 
- | [ca]({{< ref "/f43/language/ca.md" >}}) | 180 | 180 | 100.0 | /mnt/stockage/packages/f43/kunifiedpush/po/ca/kcm_push_notifications.po | 
- | [ca@valencia]({{< ref "/f43/language/ca@valencia.md" >}}) | 180 | 180 | 100.0 | /mnt/stockage/packages/f43/kunifiedpush/po/ca@valencia/kcm_push_notifications.po | 
- | [de]({{< ref "/f43/language/de.md" >}}) | 180 | 180 | 100.0 | /mnt/stockage/packages/f43/kunifiedpush/po/de/kcm_push_notifications.po | 
- | [es]({{< ref "/f43/language/es.md" >}}) | 180 | 180 | 100.0 | /mnt/stockage/packages/f43/kunifiedpush/po/es/kcm_push_notifications.po | 
- | [eu]({{< ref "/f43/language/eu.md" >}}) | 180 | 180 | 100.0 | /mnt/stockage/packages/f43/kunifiedpush/po/eu/kcm_push_notifications.po | 
- | [fi]({{< ref "/f43/language/fi.md" >}}) | 180 | 180 | 100.0 | /mnt/stockage/packages/f43/kunifiedpush/po/fi/kcm_push_notifications.po | 
- | [fr]({{< ref "/f43/language/fr.md" >}}) | 180 | 180 | 100.0 | /mnt/stockage/packages/f43/kunifiedpush/po/fr/kcm_push_notifications.po | 
- | [he]({{< ref "/f43/language/he.md" >}}) | 180 | 180 | 100.0 | /mnt/stockage/packages/f43/kunifiedpush/po/he/kcm_push_notifications.po | 
- | [hu]({{< ref "/f43/language/hu.md" >}}) | 180 | 180 | 100.0 | /mnt/stockage/packages/f43/kunifiedpush/po/hu/kcm_push_notifications.po | 
- | [it]({{< ref "/f43/language/it.md" >}}) | 180 | 180 | 100.0 | /mnt/stockage/packages/f43/kunifiedpush/po/it/kcm_push_notifications.po | 
- | [ka]({{< ref "/f43/language/ka.md" >}}) | 180 | 180 | 100.0 | /mnt/stockage/packages/f43/kunifiedpush/po/ka/kcm_push_notifications.po | 
- | [ko]({{< ref "/f43/language/ko.md" >}}) | 180 | 180 | 100.0 | /mnt/stockage/packages/f43/kunifiedpush/po/ko/kcm_push_notifications.po | 
- | [lt]({{< ref "/f43/language/lt.md" >}}) | 180 | 180 | 100.0 | /mnt/stockage/packages/f43/kunifiedpush/po/lt/kcm_push_notifications.po | 
- | [lv]({{< ref "/f43/language/lv.md" >}}) | 180 | 180 | 100.0 | /mnt/stockage/packages/f43/kunifiedpush/po/lv/kcm_push_notifications.po | 
- | [nl]({{< ref "/f43/language/nl.md" >}}) | 180 | 180 | 100.0 | /mnt/stockage/packages/f43/kunifiedpush/po/nl/kcm_push_notifications.po | 
- | [pl]({{< ref "/f43/language/pl.md" >}}) | 180 | 180 | 100.0 | /mnt/stockage/packages/f43/kunifiedpush/po/pl/kcm_push_notifications.po | 
- | [pt_BR]({{< ref "/f43/language/pt_BR.md" >}}) | 180 | 180 | 100.0 | /mnt/stockage/packages/f43/kunifiedpush/po/pt_BR/kcm_push_notifications.po | 
- | [ru]({{< ref "/f43/language/ru.md" >}}) | 180 | 180 | 100.0 | /mnt/stockage/packages/f43/kunifiedpush/po/ru/kcm_push_notifications.po | 
- | [sl]({{< ref "/f43/language/sl.md" >}}) | 180 | 180 | 100.0 | /mnt/stockage/packages/f43/kunifiedpush/po/sl/kcm_push_notifications.po | 
- | [sv]({{< ref "/f43/language/sv.md" >}}) | 180 | 180 | 100.0 | /mnt/stockage/packages/f43/kunifiedpush/po/sv/kcm_push_notifications.po | 
- | [ta]({{< ref "/f43/language/ta.md" >}}) | 180 | 180 | 100.0 | /mnt/stockage/packages/f43/kunifiedpush/po/ta/kcm_push_notifications.po | 
- | [tr]({{< ref "/f43/language/tr.md" >}}) | 180 | 180 | 100.0 | /mnt/stockage/packages/f43/kunifiedpush/po/tr/kcm_push_notifications.po | 
- | [uk]({{< ref "/f43/language/uk.md" >}}) | 180 | 180 | 100.0 | /mnt/stockage/packages/f43/kunifiedpush/po/uk/kcm_push_notifications.po | 
- | [zh_Hans]({{< ref "/f43/language/zh_Hans.md" >}}) | 180 | 180 | 100.0 | /mnt/stockage/packages/f43/kunifiedpush/po/zh_CN/kcm_push_notifications.po | 
- | [zh_Hant]({{< ref "/f43/language/zh_Hant.md" >}}) | 180 | 180 | 100.0 | /mnt/stockage/packages/f43/kunifiedpush/po/zh_TW/kcm_push_notifications.po | 
- | [gl]({{< ref "/f43/language/gl.md" >}}) | 152 | 180 | 84.4 | /mnt/stockage/packages/f43/kunifiedpush/po/gl/kcm_push_notifications.po | 
- | [ia]({{< ref "/f43/language/ia.md" >}}) | 152 | 180 | 84.4 | /mnt/stockage/packages/f43/kunifiedpush/po/ia/kcm_push_notifications.po | 
- | [en_GB]({{< ref "/f43/language/en_GB.md" >}}) | 90 | 180 | 50.0 | /mnt/stockage/packages/f43/kunifiedpush/po/en_GB/kcm_push_notifications.po | 
- | [eo]({{< ref "/f43/language/eo.md" >}}) | 90 | 180 | 50.0 | /mnt/stockage/packages/f43/kunifiedpush/po/eo/kcm_push_notifications.po | 
- | [hi]({{< ref "/f43/language/hi.md" >}}) | 90 | 180 | 50.0 | /mnt/stockage/packages/f43/kunifiedpush/po/hi/kcm_push_notifications.po | 
- | [nn]({{< ref "/f43/language/nn.md" >}}) | 90 | 180 | 50.0 | /mnt/stockage/packages/f43/kunifiedpush/po/nn/kcm_push_notifications.po | 
- | [sa]({{< ref "/f43/language/sa.md" >}}) | 90 | 180 | 50.0 | /mnt/stockage/packages/f43/kunifiedpush/po/sa/kcm_push_notifications.po | 
- | [pt]({{< ref "/f43/language/pt.md" >}}) | 80 | 180 | 44.4 | /mnt/stockage/packages/f43/kunifiedpush/po/pt/kcm_push_notifications.po | 
- | [pa]({{< ref "/f43/language/pa.md" >}}) | 63 | 180 | 35.0 | /mnt/stockage/packages/f43/kunifiedpush/po/pa/kcm_push_notifications.po | 
- | [cs]({{< ref "/f43/language/cs.md" >}}) | 24 | 180 | 13.3 | /mnt/stockage/packages/f43/kunifiedpush/po/cs/kcm_push_notifications.po | 
- | [sk]({{< ref "/f43/language/sk.md" >}}) | 4 | 180 | 2.2 | /mnt/stockage/packages/f43/kunifiedpush/po/sk/kcm_push_notifications.po | 
- | [ast]({{< ref "/f43/language/ast.md" >}}) | 0 | 180 | 0.0 | /mnt/stockage/packages/f43/kunifiedpush/po/ast/kcm_push_notifications.po | 
- | [ga]({{< ref "/f43/language/ga.md" >}}) | 0 | 180 | 0.0 | /mnt/stockage/packages/f43/kunifiedpush/po/ga/kcm_push_notifications.po | 
- | [ja]({{< ref "/f43/language/ja.md" >}}) | 0 | 180 | 0.0 | /mnt/stockage/packages/f43/kunifiedpush/po/ja/kcm_push_notifications.po | 
+ | [ar](/f43/language/ar) | 180 | 180 | 100.0 | /mnt/stockage/packages/f43/kunifiedpush/po/ar/kcm_push_notifications.po | 
+ | [bg](/f43/language/bg) | 180 | 180 | 100.0 | /mnt/stockage/packages/f43/kunifiedpush/po/bg/kcm_push_notifications.po | 
+ | [ca](/f43/language/ca) | 180 | 180 | 100.0 | /mnt/stockage/packages/f43/kunifiedpush/po/ca/kcm_push_notifications.po | 
+ | [ca@valencia](/f43/language/ca@valencia) | 180 | 180 | 100.0 | /mnt/stockage/packages/f43/kunifiedpush/po/ca@valencia/kcm_push_notifications.po | 
+ | [de](/f43/language/de) | 180 | 180 | 100.0 | /mnt/stockage/packages/f43/kunifiedpush/po/de/kcm_push_notifications.po | 
+ | [es](/f43/language/es) | 180 | 180 | 100.0 | /mnt/stockage/packages/f43/kunifiedpush/po/es/kcm_push_notifications.po | 
+ | [eu](/f43/language/eu) | 180 | 180 | 100.0 | /mnt/stockage/packages/f43/kunifiedpush/po/eu/kcm_push_notifications.po | 
+ | [fi](/f43/language/fi) | 180 | 180 | 100.0 | /mnt/stockage/packages/f43/kunifiedpush/po/fi/kcm_push_notifications.po | 
+ | [fr](/f43/language/fr) | 180 | 180 | 100.0 | /mnt/stockage/packages/f43/kunifiedpush/po/fr/kcm_push_notifications.po | 
+ | [he](/f43/language/he) | 180 | 180 | 100.0 | /mnt/stockage/packages/f43/kunifiedpush/po/he/kcm_push_notifications.po | 
+ | [hu](/f43/language/hu) | 180 | 180 | 100.0 | /mnt/stockage/packages/f43/kunifiedpush/po/hu/kcm_push_notifications.po | 
+ | [it](/f43/language/it) | 180 | 180 | 100.0 | /mnt/stockage/packages/f43/kunifiedpush/po/it/kcm_push_notifications.po | 
+ | [ka](/f43/language/ka) | 180 | 180 | 100.0 | /mnt/stockage/packages/f43/kunifiedpush/po/ka/kcm_push_notifications.po | 
+ | [ko](/f43/language/ko) | 180 | 180 | 100.0 | /mnt/stockage/packages/f43/kunifiedpush/po/ko/kcm_push_notifications.po | 
+ | [lt](/f43/language/lt) | 180 | 180 | 100.0 | /mnt/stockage/packages/f43/kunifiedpush/po/lt/kcm_push_notifications.po | 
+ | [lv](/f43/language/lv) | 180 | 180 | 100.0 | /mnt/stockage/packages/f43/kunifiedpush/po/lv/kcm_push_notifications.po | 
+ | [nl](/f43/language/nl) | 180 | 180 | 100.0 | /mnt/stockage/packages/f43/kunifiedpush/po/nl/kcm_push_notifications.po | 
+ | [pl](/f43/language/pl) | 180 | 180 | 100.0 | /mnt/stockage/packages/f43/kunifiedpush/po/pl/kcm_push_notifications.po | 
+ | [pt_BR](/f43/language/pt_BR) | 180 | 180 | 100.0 | /mnt/stockage/packages/f43/kunifiedpush/po/pt_BR/kcm_push_notifications.po | 
+ | [ru](/f43/language/ru) | 180 | 180 | 100.0 | /mnt/stockage/packages/f43/kunifiedpush/po/ru/kcm_push_notifications.po | 
+ | [sl](/f43/language/sl) | 180 | 180 | 100.0 | /mnt/stockage/packages/f43/kunifiedpush/po/sl/kcm_push_notifications.po | 
+ | [sv](/f43/language/sv) | 180 | 180 | 100.0 | /mnt/stockage/packages/f43/kunifiedpush/po/sv/kcm_push_notifications.po | 
+ | [ta](/f43/language/ta) | 180 | 180 | 100.0 | /mnt/stockage/packages/f43/kunifiedpush/po/ta/kcm_push_notifications.po | 
+ | [tr](/f43/language/tr) | 180 | 180 | 100.0 | /mnt/stockage/packages/f43/kunifiedpush/po/tr/kcm_push_notifications.po | 
+ | [uk](/f43/language/uk) | 180 | 180 | 100.0 | /mnt/stockage/packages/f43/kunifiedpush/po/uk/kcm_push_notifications.po | 
+ | [zh_Hans](/f43/language/zh_Hans) | 180 | 180 | 100.0 | /mnt/stockage/packages/f43/kunifiedpush/po/zh_CN/kcm_push_notifications.po | 
+ | [zh_Hant](/f43/language/zh_Hant) | 180 | 180 | 100.0 | /mnt/stockage/packages/f43/kunifiedpush/po/zh_TW/kcm_push_notifications.po | 
+ | [gl](/f43/language/gl) | 152 | 180 | 84.4 | /mnt/stockage/packages/f43/kunifiedpush/po/gl/kcm_push_notifications.po | 
+ | [ia](/f43/language/ia) | 152 | 180 | 84.4 | /mnt/stockage/packages/f43/kunifiedpush/po/ia/kcm_push_notifications.po | 
+ | [en_GB](/f43/language/en_GB) | 90 | 180 | 50.0 | /mnt/stockage/packages/f43/kunifiedpush/po/en_GB/kcm_push_notifications.po | 
+ | [eo](/f43/language/eo) | 90 | 180 | 50.0 | /mnt/stockage/packages/f43/kunifiedpush/po/eo/kcm_push_notifications.po | 
+ | [hi](/f43/language/hi) | 90 | 180 | 50.0 | /mnt/stockage/packages/f43/kunifiedpush/po/hi/kcm_push_notifications.po | 
+ | [nn](/f43/language/nn) | 90 | 180 | 50.0 | /mnt/stockage/packages/f43/kunifiedpush/po/nn/kcm_push_notifications.po | 
+ | [sa](/f43/language/sa) | 90 | 180 | 50.0 | /mnt/stockage/packages/f43/kunifiedpush/po/sa/kcm_push_notifications.po | 
+ | [pt](/f43/language/pt) | 80 | 180 | 44.4 | /mnt/stockage/packages/f43/kunifiedpush/po/pt/kcm_push_notifications.po | 
+ | [pa](/f43/language/pa) | 63 | 180 | 35.0 | /mnt/stockage/packages/f43/kunifiedpush/po/pa/kcm_push_notifications.po | 
+ | [cs](/f43/language/cs) | 24 | 180 | 13.3 | /mnt/stockage/packages/f43/kunifiedpush/po/cs/kcm_push_notifications.po | 
+ | [sk](/f43/language/sk) | 4 | 180 | 2.2 | /mnt/stockage/packages/f43/kunifiedpush/po/sk/kcm_push_notifications.po | 
+ | [ast](/f43/language/ast) | 0 | 180 | 0.0 | /mnt/stockage/packages/f43/kunifiedpush/po/ast/kcm_push_notifications.po | 
+ | [ga](/f43/language/ga) | 0 | 180 | 0.0 | /mnt/stockage/packages/f43/kunifiedpush/po/ga/kcm_push_notifications.po | 
+ | [ja](/f43/language/ja) | 0 | 180 | 0.0 | /mnt/stockage/packages/f43/kunifiedpush/po/ja/kcm_push_notifications.po | 
 {.sortable}
 
 

@@ -18,72 +18,72 @@ The package bleachbit (version 2.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ast]({{< ref "/f29/language/ast.md" >}}) | 1260 | 1260 | 100.0 | /mnt/stockage/packages/f29/bleachbit/po/ast.po | 
- | [ca]({{< ref "/f29/language/ca.md" >}}) | 1543 | 1543 | 100.0 | /mnt/stockage/packages/f29/bleachbit/po/ca.po | 
- | [cs]({{< ref "/f29/language/cs.md" >}}) | 1272 | 1272 | 100.0 | /mnt/stockage/packages/f29/bleachbit/po/cs.po | 
- | [de]({{< ref "/f29/language/de.md" >}}) | 1260 | 1260 | 100.0 | /mnt/stockage/packages/f29/bleachbit/po/de.po | 
- | [en_AU]({{< ref "/f29/language/en_AU.md" >}}) | 1543 | 1543 | 100.0 | /mnt/stockage/packages/f29/bleachbit/po/en_AU.po | 
- | [en_GB]({{< ref "/f29/language/en_GB.md" >}}) | 1272 | 1272 | 100.0 | /mnt/stockage/packages/f29/bleachbit/po/en_GB.po | 
- | [es]({{< ref "/f29/language/es.md" >}}) | 1543 | 1543 | 100.0 | /mnt/stockage/packages/f29/bleachbit/po/es.po | 
- | [eu]({{< ref "/f29/language/eu.md" >}}) | 980 | 980 | 100.0 | /mnt/stockage/packages/f29/bleachbit/po/eu.po | 
- | [fi]({{< ref "/f29/language/fi.md" >}}) | 1272 | 1272 | 100.0 | /mnt/stockage/packages/f29/bleachbit/po/fi.po | 
- | [gl]({{< ref "/f29/language/gl.md" >}}) | 1543 | 1543 | 100.0 | /mnt/stockage/packages/f29/bleachbit/po/gl.po | 
- | [hr]({{< ref "/f29/language/hr.md" >}}) | 1260 | 1260 | 100.0 | /mnt/stockage/packages/f29/bleachbit/po/hr.po | 
- | [hu]({{< ref "/f29/language/hu.md" >}}) | 1112 | 1112 | 100.0 | /mnt/stockage/packages/f29/bleachbit/po/hu.po | 
- | [id]({{< ref "/f29/language/id.md" >}}) | 1272 | 1272 | 100.0 | /mnt/stockage/packages/f29/bleachbit/po/id.po | 
- | [it]({{< ref "/f29/language/it.md" >}}) | 1291 | 1291 | 100.0 | /mnt/stockage/packages/f29/bleachbit/po/it.po | 
- | [ja]({{< ref "/f29/language/ja.md" >}}) | 1300 | 1300 | 100.0 | /mnt/stockage/packages/f29/bleachbit/po/ja.po | 
- | [ms]({{< ref "/f29/language/ms.md" >}}) | 1543 | 1543 | 100.0 | /mnt/stockage/packages/f29/bleachbit/po/ms.po | 
- | [nl]({{< ref "/f29/language/nl.md" >}}) | 1260 | 1260 | 100.0 | /mnt/stockage/packages/f29/bleachbit/po/nl.po | 
- | [pl]({{< ref "/f29/language/pl.md" >}}) | 1272 | 1272 | 100.0 | /mnt/stockage/packages/f29/bleachbit/po/pl.po | 
- | [pt]({{< ref "/f29/language/pt.md" >}}) | 1260 | 1260 | 100.0 | /mnt/stockage/packages/f29/bleachbit/po/pt.po | 
- | [ro]({{< ref "/f29/language/ro.md" >}}) | 1178 | 1178 | 100.0 | /mnt/stockage/packages/f29/bleachbit/po/ro.po | 
- | [sk]({{< ref "/f29/language/sk.md" >}}) | 1151 | 1151 | 100.0 | /mnt/stockage/packages/f29/bleachbit/po/sk.po | 
- | [sq]({{< ref "/f29/language/sq.md" >}}) | 1178 | 1178 | 100.0 | /mnt/stockage/packages/f29/bleachbit/po/sq.po | 
- | [sr]({{< ref "/f29/language/sr.md" >}}) | 1300 | 1300 | 100.0 | /mnt/stockage/packages/f29/bleachbit/po/sr.po | 
- | [tr]({{< ref "/f29/language/tr.md" >}}) | 1123 | 1123 | 100.0 | /mnt/stockage/packages/f29/bleachbit/po/tr.po | 
- | [uk]({{< ref "/f29/language/uk.md" >}}) | 1272 | 1272 | 100.0 | /mnt/stockage/packages/f29/bleachbit/po/uk.po | 
- | [zh_Hant]({{< ref "/f29/language/zh_Hant.md" >}}) | 1300 | 1300 | 100.0 | /mnt/stockage/packages/f29/bleachbit/po/zh_TW.po | 
- | [fr]({{< ref "/f29/language/fr.md" >}}) | 1535 | 1543 | 99.5 | /mnt/stockage/packages/f29/bleachbit/po/fr.po | 
- | [bg]({{< ref "/f29/language/bg.md" >}}) | 974 | 989 | 98.5 | /mnt/stockage/packages/f29/bleachbit/po/bg.po | 
- | [sv]({{< ref "/f29/language/sv.md" >}}) | 1516 | 1543 | 98.3 | /mnt/stockage/packages/f29/bleachbit/po/sv.po | 
- | [uz]({{< ref "/f29/language/uz.md" >}}) | 1105 | 1135 | 97.4 | /mnt/stockage/packages/f29/bleachbit/po/uz.po | 
- | [pt_BR]({{< ref "/f29/language/pt_BR.md" >}}) | 1485 | 1543 | 96.2 | /mnt/stockage/packages/f29/bleachbit/po/pt_BR.po | 
- | [ko]({{< ref "/f29/language/ko.md" >}}) | 1102 | 1151 | 95.7 | /mnt/stockage/packages/f29/bleachbit/po/ko.po | 
- | [ru]({{< ref "/f29/language/ru.md" >}}) | 1185 | 1260 | 94.0 | /mnt/stockage/packages/f29/bleachbit/po/ru.po | 
- | [zh_Hans]({{< ref "/f29/language/zh_Hans.md" >}}) | 1131 | 1205 | 93.9 | /mnt/stockage/packages/f29/bleachbit/po/zh_CN.po | 
- | [lt]({{< ref "/f29/language/lt.md" >}}) | 1028 | 1112 | 92.4 | /mnt/stockage/packages/f29/bleachbit/po/lt.po | 
- | [vi]({{< ref "/f29/language/vi.md" >}}) | 988 | 1078 | 91.7 | /mnt/stockage/packages/f29/bleachbit/po/vi.po | 
- | [el]({{< ref "/f29/language/el.md" >}}) | 1181 | 1300 | 90.8 | /mnt/stockage/packages/f29/bleachbit/po/el.po | 
- | [he]({{< ref "/f29/language/he.md" >}}) | 1398 | 1543 | 90.6 | /mnt/stockage/packages/f29/bleachbit/po/he.po | 
- | [ia]({{< ref "/f29/language/ia.md" >}}) | 1146 | 1272 | 90.1 | /mnt/stockage/packages/f29/bleachbit/po/ia.po | 
- | [nb_NO]({{< ref "/f29/language/nb_NO.md" >}}) | 1115 | 1260 | 88.5 | /mnt/stockage/packages/f29/bleachbit/po/nb.po | 
- | [th]({{< ref "/f29/language/th.md" >}}) | 1107 | 1260 | 87.9 | /mnt/stockage/packages/f29/bleachbit/po/th.po | 
- | [et]({{< ref "/f29/language/et.md" >}}) | 973 | 1112 | 87.5 | /mnt/stockage/packages/f29/bleachbit/po/et.po | 
- | [ar]({{< ref "/f29/language/ar.md" >}}) | 1113 | 1300 | 85.6 | /mnt/stockage/packages/f29/bleachbit/po/ar.po | 
- | [ku]({{< ref "/f29/language/ku.md" >}}) | 817 | 972 | 84.1 | /mnt/stockage/packages/f29/bleachbit/po/ku.po | 
- | [sl]({{< ref "/f29/language/sl.md" >}}) | 1000 | 1260 | 79.4 | /mnt/stockage/packages/f29/bleachbit/po/sl.po | 
- | [da]({{< ref "/f29/language/da.md" >}}) | 980 | 1272 | 77.0 | /mnt/stockage/packages/f29/bleachbit/po/da.po | 
- | [nn]({{< ref "/f29/language/nn.md" >}}) | 750 | 1078 | 69.6 | /mnt/stockage/packages/f29/bleachbit/po/nn.po | 
- | [eo]({{< ref "/f29/language/eo.md" >}}) | 676 | 980 | 69.0 | /mnt/stockage/packages/f29/bleachbit/po/eo.po | 
- | [hi]({{< ref "/f29/language/hi.md" >}}) | 633 | 1260 | 50.2 | /mnt/stockage/packages/f29/bleachbit/po/hi.po | 
- | [be]({{< ref "/f29/language/be.md" >}}) | 600 | 1300 | 46.2 | /mnt/stockage/packages/f29/bleachbit/po/be.po | 
- | [fa]({{< ref "/f29/language/fa.md" >}}) | 442 | 1022 | 43.2 | /mnt/stockage/packages/f29/bleachbit/po/fa.po | 
- | [my]({{< ref "/f29/language/my.md" >}}) | 409 | 987 | 41.4 | /mnt/stockage/packages/f29/bleachbit/po/my.po | 
- | [en_CA]({{< ref "/f29/language/en_CA.md" >}}) | 488 | 1178 | 41.4 | /mnt/stockage/packages/f29/bleachbit/po/en_CA.po | 
- | [ky]({{< ref "/f29/language/ky.md" >}}) | 360 | 980 | 36.7 | /mnt/stockage/packages/f29/bleachbit/po/ky.po | 
- | [te]({{< ref "/f29/language/te.md" >}}) | 258 | 972 | 26.5 | /mnt/stockage/packages/f29/bleachbit/po/te.po | 
- | [ta]({{< ref "/f29/language/ta.md" >}}) | 281 | 1135 | 24.8 | /mnt/stockage/packages/f29/bleachbit/po/ta.po | 
- | [fo]({{< ref "/f29/language/fo.md" >}}) | 155 | 784 | 19.8 | /mnt/stockage/packages/f29/bleachbit/po/fo.po | 
- | [af]({{< ref "/f29/language/af.md" >}}) | 197 | 1272 | 15.5 | /mnt/stockage/packages/f29/bleachbit/po/af.po | 
- | [nds]({{< ref "/f29/language/nds.md" >}}) | 93 | 1260 | 7.4 | /mnt/stockage/packages/f29/bleachbit/po/nds.po | 
- | [ug]({{< ref "/f29/language/ug.md" >}}) | 70 | 980 | 7.1 | /mnt/stockage/packages/f29/bleachbit/po/ug.po | 
- | [lv]({{< ref "/f29/language/lv.md" >}}) | 67 | 1016 | 6.6 | /mnt/stockage/packages/f29/bleachbit/po/lv.po | 
- | [se]({{< ref "/f29/language/se.md" >}}) | 56 | 972 | 5.8 | /mnt/stockage/packages/f29/bleachbit/po/se.po | 
- | [bn]({{< ref "/f29/language/bn.md" >}}) | 77 | 1543 | 5.0 | /mnt/stockage/packages/f29/bleachbit/po/bn.po | 
- | [si]({{< ref "/f29/language/si.md" >}}) | 41 | 957 | 4.3 | /mnt/stockage/packages/f29/bleachbit/po/si.po | 
- | [bs]({{< ref "/f29/language/bs.md" >}}) | 33 | 972 | 3.4 | /mnt/stockage/packages/f29/bleachbit/po/bs.po | 
- | [hy]({{< ref "/f29/language/hy.md" >}}) | 9 | 957 | 0.9 | /mnt/stockage/packages/f29/bleachbit/po/hy.po | 
+ | [ast](/f29/language/ast) | 1260 | 1260 | 100.0 | /mnt/stockage/packages/f29/bleachbit/po/ast.po | 
+ | [ca](/f29/language/ca) | 1543 | 1543 | 100.0 | /mnt/stockage/packages/f29/bleachbit/po/ca.po | 
+ | [cs](/f29/language/cs) | 1272 | 1272 | 100.0 | /mnt/stockage/packages/f29/bleachbit/po/cs.po | 
+ | [de](/f29/language/de) | 1260 | 1260 | 100.0 | /mnt/stockage/packages/f29/bleachbit/po/de.po | 
+ | [en_AU](/f29/language/en_AU) | 1543 | 1543 | 100.0 | /mnt/stockage/packages/f29/bleachbit/po/en_AU.po | 
+ | [en_GB](/f29/language/en_GB) | 1272 | 1272 | 100.0 | /mnt/stockage/packages/f29/bleachbit/po/en_GB.po | 
+ | [es](/f29/language/es) | 1543 | 1543 | 100.0 | /mnt/stockage/packages/f29/bleachbit/po/es.po | 
+ | [eu](/f29/language/eu) | 980 | 980 | 100.0 | /mnt/stockage/packages/f29/bleachbit/po/eu.po | 
+ | [fi](/f29/language/fi) | 1272 | 1272 | 100.0 | /mnt/stockage/packages/f29/bleachbit/po/fi.po | 
+ | [gl](/f29/language/gl) | 1543 | 1543 | 100.0 | /mnt/stockage/packages/f29/bleachbit/po/gl.po | 
+ | [hr](/f29/language/hr) | 1260 | 1260 | 100.0 | /mnt/stockage/packages/f29/bleachbit/po/hr.po | 
+ | [hu](/f29/language/hu) | 1112 | 1112 | 100.0 | /mnt/stockage/packages/f29/bleachbit/po/hu.po | 
+ | [id](/f29/language/id) | 1272 | 1272 | 100.0 | /mnt/stockage/packages/f29/bleachbit/po/id.po | 
+ | [it](/f29/language/it) | 1291 | 1291 | 100.0 | /mnt/stockage/packages/f29/bleachbit/po/it.po | 
+ | [ja](/f29/language/ja) | 1300 | 1300 | 100.0 | /mnt/stockage/packages/f29/bleachbit/po/ja.po | 
+ | [ms](/f29/language/ms) | 1543 | 1543 | 100.0 | /mnt/stockage/packages/f29/bleachbit/po/ms.po | 
+ | [nl](/f29/language/nl) | 1260 | 1260 | 100.0 | /mnt/stockage/packages/f29/bleachbit/po/nl.po | 
+ | [pl](/f29/language/pl) | 1272 | 1272 | 100.0 | /mnt/stockage/packages/f29/bleachbit/po/pl.po | 
+ | [pt](/f29/language/pt) | 1260 | 1260 | 100.0 | /mnt/stockage/packages/f29/bleachbit/po/pt.po | 
+ | [ro](/f29/language/ro) | 1178 | 1178 | 100.0 | /mnt/stockage/packages/f29/bleachbit/po/ro.po | 
+ | [sk](/f29/language/sk) | 1151 | 1151 | 100.0 | /mnt/stockage/packages/f29/bleachbit/po/sk.po | 
+ | [sq](/f29/language/sq) | 1178 | 1178 | 100.0 | /mnt/stockage/packages/f29/bleachbit/po/sq.po | 
+ | [sr](/f29/language/sr) | 1300 | 1300 | 100.0 | /mnt/stockage/packages/f29/bleachbit/po/sr.po | 
+ | [tr](/f29/language/tr) | 1123 | 1123 | 100.0 | /mnt/stockage/packages/f29/bleachbit/po/tr.po | 
+ | [uk](/f29/language/uk) | 1272 | 1272 | 100.0 | /mnt/stockage/packages/f29/bleachbit/po/uk.po | 
+ | [zh_Hant](/f29/language/zh_Hant) | 1300 | 1300 | 100.0 | /mnt/stockage/packages/f29/bleachbit/po/zh_TW.po | 
+ | [fr](/f29/language/fr) | 1535 | 1543 | 99.5 | /mnt/stockage/packages/f29/bleachbit/po/fr.po | 
+ | [bg](/f29/language/bg) | 974 | 989 | 98.5 | /mnt/stockage/packages/f29/bleachbit/po/bg.po | 
+ | [sv](/f29/language/sv) | 1516 | 1543 | 98.3 | /mnt/stockage/packages/f29/bleachbit/po/sv.po | 
+ | [uz](/f29/language/uz) | 1105 | 1135 | 97.4 | /mnt/stockage/packages/f29/bleachbit/po/uz.po | 
+ | [pt_BR](/f29/language/pt_BR) | 1485 | 1543 | 96.2 | /mnt/stockage/packages/f29/bleachbit/po/pt_BR.po | 
+ | [ko](/f29/language/ko) | 1102 | 1151 | 95.7 | /mnt/stockage/packages/f29/bleachbit/po/ko.po | 
+ | [ru](/f29/language/ru) | 1185 | 1260 | 94.0 | /mnt/stockage/packages/f29/bleachbit/po/ru.po | 
+ | [zh_Hans](/f29/language/zh_Hans) | 1131 | 1205 | 93.9 | /mnt/stockage/packages/f29/bleachbit/po/zh_CN.po | 
+ | [lt](/f29/language/lt) | 1028 | 1112 | 92.4 | /mnt/stockage/packages/f29/bleachbit/po/lt.po | 
+ | [vi](/f29/language/vi) | 988 | 1078 | 91.7 | /mnt/stockage/packages/f29/bleachbit/po/vi.po | 
+ | [el](/f29/language/el) | 1181 | 1300 | 90.8 | /mnt/stockage/packages/f29/bleachbit/po/el.po | 
+ | [he](/f29/language/he) | 1398 | 1543 | 90.6 | /mnt/stockage/packages/f29/bleachbit/po/he.po | 
+ | [ia](/f29/language/ia) | 1146 | 1272 | 90.1 | /mnt/stockage/packages/f29/bleachbit/po/ia.po | 
+ | [nb_NO](/f29/language/nb_NO) | 1115 | 1260 | 88.5 | /mnt/stockage/packages/f29/bleachbit/po/nb.po | 
+ | [th](/f29/language/th) | 1107 | 1260 | 87.9 | /mnt/stockage/packages/f29/bleachbit/po/th.po | 
+ | [et](/f29/language/et) | 973 | 1112 | 87.5 | /mnt/stockage/packages/f29/bleachbit/po/et.po | 
+ | [ar](/f29/language/ar) | 1113 | 1300 | 85.6 | /mnt/stockage/packages/f29/bleachbit/po/ar.po | 
+ | [ku](/f29/language/ku) | 817 | 972 | 84.1 | /mnt/stockage/packages/f29/bleachbit/po/ku.po | 
+ | [sl](/f29/language/sl) | 1000 | 1260 | 79.4 | /mnt/stockage/packages/f29/bleachbit/po/sl.po | 
+ | [da](/f29/language/da) | 980 | 1272 | 77.0 | /mnt/stockage/packages/f29/bleachbit/po/da.po | 
+ | [nn](/f29/language/nn) | 750 | 1078 | 69.6 | /mnt/stockage/packages/f29/bleachbit/po/nn.po | 
+ | [eo](/f29/language/eo) | 676 | 980 | 69.0 | /mnt/stockage/packages/f29/bleachbit/po/eo.po | 
+ | [hi](/f29/language/hi) | 633 | 1260 | 50.2 | /mnt/stockage/packages/f29/bleachbit/po/hi.po | 
+ | [be](/f29/language/be) | 600 | 1300 | 46.2 | /mnt/stockage/packages/f29/bleachbit/po/be.po | 
+ | [fa](/f29/language/fa) | 442 | 1022 | 43.2 | /mnt/stockage/packages/f29/bleachbit/po/fa.po | 
+ | [my](/f29/language/my) | 409 | 987 | 41.4 | /mnt/stockage/packages/f29/bleachbit/po/my.po | 
+ | [en_CA](/f29/language/en_CA) | 488 | 1178 | 41.4 | /mnt/stockage/packages/f29/bleachbit/po/en_CA.po | 
+ | [ky](/f29/language/ky) | 360 | 980 | 36.7 | /mnt/stockage/packages/f29/bleachbit/po/ky.po | 
+ | [te](/f29/language/te) | 258 | 972 | 26.5 | /mnt/stockage/packages/f29/bleachbit/po/te.po | 
+ | [ta](/f29/language/ta) | 281 | 1135 | 24.8 | /mnt/stockage/packages/f29/bleachbit/po/ta.po | 
+ | [fo](/f29/language/fo) | 155 | 784 | 19.8 | /mnt/stockage/packages/f29/bleachbit/po/fo.po | 
+ | [af](/f29/language/af) | 197 | 1272 | 15.5 | /mnt/stockage/packages/f29/bleachbit/po/af.po | 
+ | [nds](/f29/language/nds) | 93 | 1260 | 7.4 | /mnt/stockage/packages/f29/bleachbit/po/nds.po | 
+ | [ug](/f29/language/ug) | 70 | 980 | 7.1 | /mnt/stockage/packages/f29/bleachbit/po/ug.po | 
+ | [lv](/f29/language/lv) | 67 | 1016 | 6.6 | /mnt/stockage/packages/f29/bleachbit/po/lv.po | 
+ | [se](/f29/language/se) | 56 | 972 | 5.8 | /mnt/stockage/packages/f29/bleachbit/po/se.po | 
+ | [bn](/f29/language/bn) | 77 | 1543 | 5.0 | /mnt/stockage/packages/f29/bleachbit/po/bn.po | 
+ | [si](/f29/language/si) | 41 | 957 | 4.3 | /mnt/stockage/packages/f29/bleachbit/po/si.po | 
+ | [bs](/f29/language/bs) | 33 | 972 | 3.4 | /mnt/stockage/packages/f29/bleachbit/po/bs.po | 
+ | [hy](/f29/language/hy) | 9 | 957 | 0.9 | /mnt/stockage/packages/f29/bleachbit/po/hy.po | 
 {.sortable}
 
 

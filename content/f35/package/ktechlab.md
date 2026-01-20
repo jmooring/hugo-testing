@@ -18,21 +18,21 @@ The package ktechlab (version 0.40.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f35/language/ca.md" >}}) | 3733 | 3733 | 100.0 | /mnt/stockage/packages/f35/ktechlab/po/ca/ktechlab.po | 
- | [ca@valencia]({{< ref "/f35/language/ca@valencia.md" >}}) | 3733 | 3733 | 100.0 | /mnt/stockage/packages/f35/ktechlab/po/ca@valencia/ktechlab.po | 
- | [es]({{< ref "/f35/language/es.md" >}}) | 3733 | 3733 | 100.0 | /mnt/stockage/packages/f35/ktechlab/po/es/ktechlab.po | 
- | [nl]({{< ref "/f35/language/nl.md" >}}) | 3733 | 3733 | 100.0 | /mnt/stockage/packages/f35/ktechlab/po/nl/ktechlab.po | 
- | [pt]({{< ref "/f35/language/pt.md" >}}) | 3733 | 3733 | 100.0 | /mnt/stockage/packages/f35/ktechlab/po/pt/ktechlab.po | 
- | [sv]({{< ref "/f35/language/sv.md" >}}) | 3733 | 3733 | 100.0 | /mnt/stockage/packages/f35/ktechlab/po/sv/ktechlab.po | 
- | [uk]({{< ref "/f35/language/uk.md" >}}) | 3733 | 3733 | 100.0 | /mnt/stockage/packages/f35/ktechlab/po/uk/ktechlab.po | 
- | [it]({{< ref "/f35/language/it.md" >}}) | 3649 | 3733 | 97.7 | /mnt/stockage/packages/f35/ktechlab/po/it/ktechlab.po | 
- | [hu]({{< ref "/f35/language/hu.md" >}}) | 2761 | 3733 | 74.0 | /mnt/stockage/packages/f35/ktechlab/po/hu/ktechlab.po | 
- | [de]({{< ref "/f35/language/de.md" >}}) | 2369 | 3733 | 63.5 | /mnt/stockage/packages/f35/ktechlab/po/de/ktechlab.po | 
- | [sk]({{< ref "/f35/language/sk.md" >}}) | 2173 | 3733 | 58.2 | /mnt/stockage/packages/f35/ktechlab/po/sk/ktechlab.po | 
- | [fr]({{< ref "/f35/language/fr.md" >}}) | 2070 | 3733 | 55.5 | /mnt/stockage/packages/f35/ktechlab/po/fr/ktechlab.po | 
- | [cs]({{< ref "/f35/language/cs.md" >}}) | 511 | 3733 | 13.7 | /mnt/stockage/packages/f35/ktechlab/po/cs/ktechlab.po | 
- | [pl]({{< ref "/f35/language/pl.md" >}}) | 9 | 3733 | 0.2 | /mnt/stockage/packages/f35/ktechlab/po/pt_BR/ktechlab.po | 
- | [ja]({{< ref "/f35/language/ja.md" >}}) | 0 | 3733 | 0.0 | /mnt/stockage/packages/f35/ktechlab/po/ja/ktechlab.po | 
+ | [ca](/f35/language/ca) | 3733 | 3733 | 100.0 | /mnt/stockage/packages/f35/ktechlab/po/ca/ktechlab.po | 
+ | [ca@valencia](/f35/language/ca@valencia) | 3733 | 3733 | 100.0 | /mnt/stockage/packages/f35/ktechlab/po/ca@valencia/ktechlab.po | 
+ | [es](/f35/language/es) | 3733 | 3733 | 100.0 | /mnt/stockage/packages/f35/ktechlab/po/es/ktechlab.po | 
+ | [nl](/f35/language/nl) | 3733 | 3733 | 100.0 | /mnt/stockage/packages/f35/ktechlab/po/nl/ktechlab.po | 
+ | [pt](/f35/language/pt) | 3733 | 3733 | 100.0 | /mnt/stockage/packages/f35/ktechlab/po/pt/ktechlab.po | 
+ | [sv](/f35/language/sv) | 3733 | 3733 | 100.0 | /mnt/stockage/packages/f35/ktechlab/po/sv/ktechlab.po | 
+ | [uk](/f35/language/uk) | 3733 | 3733 | 100.0 | /mnt/stockage/packages/f35/ktechlab/po/uk/ktechlab.po | 
+ | [it](/f35/language/it) | 3649 | 3733 | 97.7 | /mnt/stockage/packages/f35/ktechlab/po/it/ktechlab.po | 
+ | [hu](/f35/language/hu) | 2761 | 3733 | 74.0 | /mnt/stockage/packages/f35/ktechlab/po/hu/ktechlab.po | 
+ | [de](/f35/language/de) | 2369 | 3733 | 63.5 | /mnt/stockage/packages/f35/ktechlab/po/de/ktechlab.po | 
+ | [sk](/f35/language/sk) | 2173 | 3733 | 58.2 | /mnt/stockage/packages/f35/ktechlab/po/sk/ktechlab.po | 
+ | [fr](/f35/language/fr) | 2070 | 3733 | 55.5 | /mnt/stockage/packages/f35/ktechlab/po/fr/ktechlab.po | 
+ | [cs](/f35/language/cs) | 511 | 3733 | 13.7 | /mnt/stockage/packages/f35/ktechlab/po/cs/ktechlab.po | 
+ | [pl](/f35/language/pl) | 9 | 3733 | 0.2 | /mnt/stockage/packages/f35/ktechlab/po/pt_BR/ktechlab.po | 
+ | [ja](/f35/language/ja) | 0 | 3733 | 0.0 | /mnt/stockage/packages/f35/ktechlab/po/ja/ktechlab.po | 
 {.sortable}
 
 

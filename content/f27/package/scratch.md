@@ -18,55 +18,55 @@ The package scratch (version 1.4.0.7):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f27/language/ar.md" >}}) | 1467 | 1470 | 99.8 | /mnt/stockage/packages/f27/scratch/locale/ar.po | 
- | [fr_CA]({{< ref "/f27/language/fr_CA.md" >}}) | 1467 | 1470 | 99.8 | /mnt/stockage/packages/f27/scratch/locale/fr_CA.po | 
- | [id]({{< ref "/f27/language/id.md" >}}) | 1467 | 1470 | 99.8 | /mnt/stockage/packages/f27/scratch/locale/id.po | 
- | [pl]({{< ref "/f27/language/pl.md" >}}) | 1467 | 1470 | 99.8 | /mnt/stockage/packages/f27/scratch/locale/pl.po | 
- | [th]({{< ref "/f27/language/th.md" >}}) | 1467 | 1470 | 99.8 | /mnt/stockage/packages/f27/scratch/locale/th.po | 
- | [zh_Hant]({{< ref "/f27/language/zh_Hant.md" >}}) | 1467 | 1470 | 99.8 | /mnt/stockage/packages/f27/scratch/locale/zh_TW.po | 
- | [ca]({{< ref "/f27/language/ca.md" >}}) | 1464 | 1470 | 99.6 | /mnt/stockage/packages/f27/scratch/locale/ca.po | 
- | [da]({{< ref "/f27/language/da.md" >}}) | 1464 | 1470 | 99.6 | /mnt/stockage/packages/f27/scratch/locale/da.po | 
- | [error]({{< ref "/f27/language/error.md" >}}) | 1464 | 1470 | 99.6 | /mnt/stockage/packages/f27/scratch/locale/ja_HIRA.po | 
- | [et]({{< ref "/f27/language/et.md" >}}) | 1464 | 1470 | 99.6 | /mnt/stockage/packages/f27/scratch/locale/et.po | 
- | [is]({{< ref "/f27/language/is.md" >}}) | 1464 | 1470 | 99.6 | /mnt/stockage/packages/f27/scratch/locale/is.po | 
- | [ja]({{< ref "/f27/language/ja.md" >}}) | 1464 | 1470 | 99.6 | /mnt/stockage/packages/f27/scratch/locale/ja.po | 
- | [sv]({{< ref "/f27/language/sv.md" >}}) | 1464 | 1470 | 99.6 | /mnt/stockage/packages/f27/scratch/locale/sv.po | 
- | [tr]({{< ref "/f27/language/tr.md" >}}) | 1464 | 1470 | 99.6 | /mnt/stockage/packages/f27/scratch/locale/tr.po | 
- | [zh_Hans]({{< ref "/f27/language/zh_Hans.md" >}}) | 1464 | 1470 | 99.6 | /mnt/stockage/packages/f27/scratch/locale/zh_CN.po | 
- | [de]({{< ref "/f27/language/de.md" >}}) | 1463 | 1470 | 99.5 | /mnt/stockage/packages/f27/scratch/locale/de.po | 
- | [es]({{< ref "/f27/language/es.md" >}}) | 1463 | 1470 | 99.5 | /mnt/stockage/packages/f27/scratch/locale/es.po | 
- | [it]({{< ref "/f27/language/it.md" >}}) | 1463 | 1470 | 99.5 | /mnt/stockage/packages/f27/scratch/locale/it.po | 
- | [nl]({{< ref "/f27/language/nl.md" >}}) | 1463 | 1470 | 99.5 | /mnt/stockage/packages/f27/scratch/locale/nl.po | 
- | [vi]({{< ref "/f27/language/vi.md" >}}) | 1463 | 1470 | 99.5 | /mnt/stockage/packages/f27/scratch/locale/vi.po | 
- | [pt_BR]({{< ref "/f27/language/pt_BR.md" >}}) | 1462 | 1470 | 99.5 | /mnt/stockage/packages/f27/scratch/locale/pt_BR.po | 
- | [rw]({{< ref "/f27/language/rw.md" >}}) | 1462 | 1470 | 99.5 | /mnt/stockage/packages/f27/scratch/locale/rw.po | 
- | [uk]({{< ref "/f27/language/uk.md" >}}) | 1462 | 1470 | 99.5 | /mnt/stockage/packages/f27/scratch/locale/uk.po | 
- | [ko]({{< ref "/f27/language/ko.md" >}}) | 1461 | 1470 | 99.4 | /mnt/stockage/packages/f27/scratch/locale/ko.po | 
- | [nb_NO]({{< ref "/f27/language/nb_NO.md" >}}) | 1460 | 1470 | 99.3 | /mnt/stockage/packages/f27/scratch/locale/no.po | 
- | [fr]({{< ref "/f27/language/fr.md" >}}) | 1456 | 1470 | 99.0 | /mnt/stockage/packages/f27/scratch/locale/fr.po | 
- | [el]({{< ref "/f27/language/el.md" >}}) | 1455 | 1470 | 99.0 | /mnt/stockage/packages/f27/scratch/locale/el.po | 
- | [ru]({{< ref "/f27/language/ru.md" >}}) | 1451 | 1470 | 98.7 | /mnt/stockage/packages/f27/scratch/locale/ru.po | 
- | [cs]({{< ref "/f27/language/cs.md" >}}) | 1444 | 1470 | 98.2 | /mnt/stockage/packages/f27/scratch/locale/cs.po | 
- | [lt]({{< ref "/f27/language/lt.md" >}}) | 1415 | 1470 | 96.3 | /mnt/stockage/packages/f27/scratch/locale/lt.po | 
- | [hu]({{< ref "/f27/language/hu.md" >}}) | 1414 | 1470 | 96.2 | /mnt/stockage/packages/f27/scratch/locale/hu.po | 
- | [he]({{< ref "/f27/language/he.md" >}}) | 1377 | 1470 | 93.7 | /mnt/stockage/packages/f27/scratch/locale/he.po | 
- | [mk]({{< ref "/f27/language/mk.md" >}}) | 1302 | 1470 | 88.6 | /mnt/stockage/packages/f27/scratch/locale/mk.po | 
- | [ne]({{< ref "/f27/language/ne.md" >}}) | 1275 | 1470 | 86.7 | /mnt/stockage/packages/f27/scratch/locale/ne.po | 
- | [fi]({{< ref "/f27/language/fi.md" >}}) | 1255 | 1470 | 85.4 | /mnt/stockage/packages/f27/scratch/locale/fi.po | 
- | [mr]({{< ref "/f27/language/mr.md" >}}) | 1215 | 1470 | 82.7 | /mnt/stockage/packages/f27/scratch/locale/mr.po | 
- | [fa]({{< ref "/f27/language/fa.md" >}}) | 1210 | 1470 | 82.3 | /mnt/stockage/packages/f27/scratch/locale/fa.po | 
- | [mn]({{< ref "/f27/language/mn.md" >}}) | 1209 | 1470 | 82.2 | /mnt/stockage/packages/f27/scratch/locale/mn.po | 
- | [sl]({{< ref "/f27/language/sl.md" >}}) | 1187 | 1470 | 80.7 | /mnt/stockage/packages/f27/scratch/locale/sl.po | 
- | [eu]({{< ref "/f27/language/eu.md" >}}) | 1067 | 1470 | 72.6 | /mnt/stockage/packages/f27/scratch/locale/eu.po | 
- | [hr]({{< ref "/f27/language/hr.md" >}}) | 1002 | 1469 | 68.2 | /mnt/stockage/packages/f27/scratch/locale/hr.po | 
- | [pt]({{< ref "/f27/language/pt.md" >}}) | 984 | 1470 | 66.9 | /mnt/stockage/packages/f27/scratch/locale/pt.po | 
- | [ht]({{< ref "/f27/language/ht.md" >}}) | 949 | 1470 | 64.6 | /mnt/stockage/packages/f27/scratch/locale/ht.po | 
- | [kn]({{< ref "/f27/language/kn.md" >}}) | 856 | 1470 | 58.2 | /mnt/stockage/packages/f27/scratch/locale/kn.po | 
- | [sk]({{< ref "/f27/language/sk.md" >}}) | 834 | 1470 | 56.7 | /mnt/stockage/packages/f27/scratch/locale/sk.po | 
- | [bg]({{< ref "/f27/language/bg.md" >}}) | 592 | 1470 | 40.3 | /mnt/stockage/packages/f27/scratch/locale/bg.po | 
- | [ms]({{< ref "/f27/language/ms.md" >}}) | 443 | 1470 | 30.1 | /mnt/stockage/packages/f27/scratch/locale/ms.po | 
- | [gl]({{< ref "/f27/language/gl.md" >}}) | 292 | 1470 | 19.9 | /mnt/stockage/packages/f27/scratch/locale/gl.po | 
- | [ro]({{< ref "/f27/language/ro.md" >}}) | 292 | 1470 | 19.9 | /mnt/stockage/packages/f27/scratch/locale/ro.po | 
+ | [ar](/f27/language/ar) | 1467 | 1470 | 99.8 | /mnt/stockage/packages/f27/scratch/locale/ar.po | 
+ | [fr_CA](/f27/language/fr_CA) | 1467 | 1470 | 99.8 | /mnt/stockage/packages/f27/scratch/locale/fr_CA.po | 
+ | [id](/f27/language/id) | 1467 | 1470 | 99.8 | /mnt/stockage/packages/f27/scratch/locale/id.po | 
+ | [pl](/f27/language/pl) | 1467 | 1470 | 99.8 | /mnt/stockage/packages/f27/scratch/locale/pl.po | 
+ | [th](/f27/language/th) | 1467 | 1470 | 99.8 | /mnt/stockage/packages/f27/scratch/locale/th.po | 
+ | [zh_Hant](/f27/language/zh_Hant) | 1467 | 1470 | 99.8 | /mnt/stockage/packages/f27/scratch/locale/zh_TW.po | 
+ | [ca](/f27/language/ca) | 1464 | 1470 | 99.6 | /mnt/stockage/packages/f27/scratch/locale/ca.po | 
+ | [da](/f27/language/da) | 1464 | 1470 | 99.6 | /mnt/stockage/packages/f27/scratch/locale/da.po | 
+ | [error](/f27/language/error) | 1464 | 1470 | 99.6 | /mnt/stockage/packages/f27/scratch/locale/ja_HIRA.po | 
+ | [et](/f27/language/et) | 1464 | 1470 | 99.6 | /mnt/stockage/packages/f27/scratch/locale/et.po | 
+ | [is](/f27/language/is) | 1464 | 1470 | 99.6 | /mnt/stockage/packages/f27/scratch/locale/is.po | 
+ | [ja](/f27/language/ja) | 1464 | 1470 | 99.6 | /mnt/stockage/packages/f27/scratch/locale/ja.po | 
+ | [sv](/f27/language/sv) | 1464 | 1470 | 99.6 | /mnt/stockage/packages/f27/scratch/locale/sv.po | 
+ | [tr](/f27/language/tr) | 1464 | 1470 | 99.6 | /mnt/stockage/packages/f27/scratch/locale/tr.po | 
+ | [zh_Hans](/f27/language/zh_Hans) | 1464 | 1470 | 99.6 | /mnt/stockage/packages/f27/scratch/locale/zh_CN.po | 
+ | [de](/f27/language/de) | 1463 | 1470 | 99.5 | /mnt/stockage/packages/f27/scratch/locale/de.po | 
+ | [es](/f27/language/es) | 1463 | 1470 | 99.5 | /mnt/stockage/packages/f27/scratch/locale/es.po | 
+ | [it](/f27/language/it) | 1463 | 1470 | 99.5 | /mnt/stockage/packages/f27/scratch/locale/it.po | 
+ | [nl](/f27/language/nl) | 1463 | 1470 | 99.5 | /mnt/stockage/packages/f27/scratch/locale/nl.po | 
+ | [vi](/f27/language/vi) | 1463 | 1470 | 99.5 | /mnt/stockage/packages/f27/scratch/locale/vi.po | 
+ | [pt_BR](/f27/language/pt_BR) | 1462 | 1470 | 99.5 | /mnt/stockage/packages/f27/scratch/locale/pt_BR.po | 
+ | [rw](/f27/language/rw) | 1462 | 1470 | 99.5 | /mnt/stockage/packages/f27/scratch/locale/rw.po | 
+ | [uk](/f27/language/uk) | 1462 | 1470 | 99.5 | /mnt/stockage/packages/f27/scratch/locale/uk.po | 
+ | [ko](/f27/language/ko) | 1461 | 1470 | 99.4 | /mnt/stockage/packages/f27/scratch/locale/ko.po | 
+ | [nb_NO](/f27/language/nb_NO) | 1460 | 1470 | 99.3 | /mnt/stockage/packages/f27/scratch/locale/no.po | 
+ | [fr](/f27/language/fr) | 1456 | 1470 | 99.0 | /mnt/stockage/packages/f27/scratch/locale/fr.po | 
+ | [el](/f27/language/el) | 1455 | 1470 | 99.0 | /mnt/stockage/packages/f27/scratch/locale/el.po | 
+ | [ru](/f27/language/ru) | 1451 | 1470 | 98.7 | /mnt/stockage/packages/f27/scratch/locale/ru.po | 
+ | [cs](/f27/language/cs) | 1444 | 1470 | 98.2 | /mnt/stockage/packages/f27/scratch/locale/cs.po | 
+ | [lt](/f27/language/lt) | 1415 | 1470 | 96.3 | /mnt/stockage/packages/f27/scratch/locale/lt.po | 
+ | [hu](/f27/language/hu) | 1414 | 1470 | 96.2 | /mnt/stockage/packages/f27/scratch/locale/hu.po | 
+ | [he](/f27/language/he) | 1377 | 1470 | 93.7 | /mnt/stockage/packages/f27/scratch/locale/he.po | 
+ | [mk](/f27/language/mk) | 1302 | 1470 | 88.6 | /mnt/stockage/packages/f27/scratch/locale/mk.po | 
+ | [ne](/f27/language/ne) | 1275 | 1470 | 86.7 | /mnt/stockage/packages/f27/scratch/locale/ne.po | 
+ | [fi](/f27/language/fi) | 1255 | 1470 | 85.4 | /mnt/stockage/packages/f27/scratch/locale/fi.po | 
+ | [mr](/f27/language/mr) | 1215 | 1470 | 82.7 | /mnt/stockage/packages/f27/scratch/locale/mr.po | 
+ | [fa](/f27/language/fa) | 1210 | 1470 | 82.3 | /mnt/stockage/packages/f27/scratch/locale/fa.po | 
+ | [mn](/f27/language/mn) | 1209 | 1470 | 82.2 | /mnt/stockage/packages/f27/scratch/locale/mn.po | 
+ | [sl](/f27/language/sl) | 1187 | 1470 | 80.7 | /mnt/stockage/packages/f27/scratch/locale/sl.po | 
+ | [eu](/f27/language/eu) | 1067 | 1470 | 72.6 | /mnt/stockage/packages/f27/scratch/locale/eu.po | 
+ | [hr](/f27/language/hr) | 1002 | 1469 | 68.2 | /mnt/stockage/packages/f27/scratch/locale/hr.po | 
+ | [pt](/f27/language/pt) | 984 | 1470 | 66.9 | /mnt/stockage/packages/f27/scratch/locale/pt.po | 
+ | [ht](/f27/language/ht) | 949 | 1470 | 64.6 | /mnt/stockage/packages/f27/scratch/locale/ht.po | 
+ | [kn](/f27/language/kn) | 856 | 1470 | 58.2 | /mnt/stockage/packages/f27/scratch/locale/kn.po | 
+ | [sk](/f27/language/sk) | 834 | 1470 | 56.7 | /mnt/stockage/packages/f27/scratch/locale/sk.po | 
+ | [bg](/f27/language/bg) | 592 | 1470 | 40.3 | /mnt/stockage/packages/f27/scratch/locale/bg.po | 
+ | [ms](/f27/language/ms) | 443 | 1470 | 30.1 | /mnt/stockage/packages/f27/scratch/locale/ms.po | 
+ | [gl](/f27/language/gl) | 292 | 1470 | 19.9 | /mnt/stockage/packages/f27/scratch/locale/gl.po | 
+ | [ro](/f27/language/ro) | 292 | 1470 | 19.9 | /mnt/stockage/packages/f27/scratch/locale/ro.po | 
 {.sortable}
 
 

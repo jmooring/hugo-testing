@@ -18,47 +18,47 @@ The package synfigstudio (version 1.2.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca@valencia]({{< ref "/f29/language/ca@valencia.md" >}}) | 6564 | 6564 | 100.0 | /mnt/stockage/packages/f29/synfigstudio/po/ca@valencia.po | 
- | [es]({{< ref "/f29/language/es.md" >}}) | 6564 | 6564 | 100.0 | /mnt/stockage/packages/f29/synfigstudio/po/es.po | 
- | [pl]({{< ref "/f29/language/pl.md" >}}) | 6564 | 6564 | 100.0 | /mnt/stockage/packages/f29/synfigstudio/po/pl_PL.po | 
- | [pt]({{< ref "/f29/language/pt.md" >}}) | 6564 | 6564 | 100.0 | /mnt/stockage/packages/f29/synfigstudio/po/pt.po | 
- | [pt_BR]({{< ref "/f29/language/pt_BR.md" >}}) | 6564 | 6564 | 100.0 | /mnt/stockage/packages/f29/synfigstudio/po/pt_BR.po | 
- | [ru]({{< ref "/f29/language/ru.md" >}}) | 6564 | 6564 | 100.0 | /mnt/stockage/packages/f29/synfigstudio/po/ru.po | 
- | [sr]({{< ref "/f29/language/sr.md" >}}) | 6564 | 6564 | 100.0 | /mnt/stockage/packages/f29/synfigstudio/po/sr_RS.po | 
- | [de]({{< ref "/f29/language/de.md" >}}) | 6559 | 6564 | 99.9 | /mnt/stockage/packages/f29/synfigstudio/po/de.po | 
- | [fr]({{< ref "/f29/language/fr.md" >}}) | 5582 | 6564 | 85.0 | /mnt/stockage/packages/f29/synfigstudio/po/fr.po | 
- | [zh_Hans]({{< ref "/f29/language/zh_Hans.md" >}}) | 4324 | 6564 | 65.9 | /mnt/stockage/packages/f29/synfigstudio/po/zh_CN.po | 
- | [it]({{< ref "/f29/language/it.md" >}}) | 3664 | 6564 | 55.8 | /mnt/stockage/packages/f29/synfigstudio/po/it.po | 
- | [eu]({{< ref "/f29/language/eu.md" >}}) | 6293 | 13128 | 47.9 | /mnt/stockage/packages/f29/synfigstudio/po/eu_ES.po/mnt/stockage/packages/f29/synfigstudio/po/eu.po | 
- | [lt]({{< ref "/f29/language/lt.md" >}}) | 3076 | 6564 | 46.9 | /mnt/stockage/packages/f29/synfigstudio/po/lt.po | 
- | [en_GB]({{< ref "/f29/language/en_GB.md" >}}) | 3014 | 6564 | 45.9 | /mnt/stockage/packages/f29/synfigstudio/po/en_GB.po | 
- | [hu]({{< ref "/f29/language/hu.md" >}}) | 3011 | 6564 | 45.9 | /mnt/stockage/packages/f29/synfigstudio/po/hu.po | 
- | [sv]({{< ref "/f29/language/sv.md" >}}) | 2541 | 6564 | 38.7 | /mnt/stockage/packages/f29/synfigstudio/po/sv_SE.po | 
- | [tr]({{< ref "/f29/language/tr.md" >}}) | 2368 | 6564 | 36.1 | /mnt/stockage/packages/f29/synfigstudio/po/tr.po | 
- | [ca]({{< ref "/f29/language/ca.md" >}}) | 2138 | 6564 | 32.6 | /mnt/stockage/packages/f29/synfigstudio/po/ca.po | 
- | [nl]({{< ref "/f29/language/nl.md" >}}) | 1859 | 6564 | 28.3 | /mnt/stockage/packages/f29/synfigstudio/po/nl.po | 
- | [sk]({{< ref "/f29/language/sk.md" >}}) | 3565 | 13128 | 27.2 | /mnt/stockage/packages/f29/synfigstudio/po/sk_SK.po/mnt/stockage/packages/f29/synfigstudio/po/sk.po | 
- | [da]({{< ref "/f29/language/da.md" >}}) | 1220 | 6564 | 18.6 | /mnt/stockage/packages/f29/synfigstudio/po/da.po | 
- | [ja]({{< ref "/f29/language/ja.md" >}}) | 1978 | 13128 | 15.1 | /mnt/stockage/packages/f29/synfigstudio/po/ja.po/mnt/stockage/packages/f29/synfigstudio/po/ja_JP.po | 
- | [zh_Hant]({{< ref "/f29/language/zh_Hant.md" >}}) | 2349 | 19679 | 11.9 | /mnt/stockage/packages/f29/synfigstudio/po/zh_TW.Big5.po/mnt/stockage/packages/f29/synfigstudio/po/zh_TW.po/mnt/stockage/packages/f29/synfigstudio/po/zh-Hant.po | 
- | [fa]({{< ref "/f29/language/fa.md" >}}) | 682 | 6564 | 10.4 | /mnt/stockage/packages/f29/synfigstudio/po/fa_IR.po | 
- | [cs]({{< ref "/f29/language/cs.md" >}}) | 1356 | 13115 | 10.3 | /mnt/stockage/packages/f29/synfigstudio/po/cs_CZ.po/mnt/stockage/packages/f29/synfigstudio/po/cs.po | 
- | [sl]({{< ref "/f29/language/sl.md" >}}) | 352 | 6564 | 5.4 | /mnt/stockage/packages/f29/synfigstudio/po/sl.po | 
- | [ar]({{< ref "/f29/language/ar.md" >}}) | 171 | 6564 | 2.6 | /mnt/stockage/packages/f29/synfigstudio/po/ar.po | 
- | [bs]({{< ref "/f29/language/bs.md" >}}) | 149 | 6564 | 2.3 | /mnt/stockage/packages/f29/synfigstudio/po/bs.po | 
- | [he]({{< ref "/f29/language/he.md" >}}) | 99 | 6564 | 1.5 | /mnt/stockage/packages/f29/synfigstudio/po/he.po | 
- | [gl]({{< ref "/f29/language/gl.md" >}}) | 56 | 6564 | 0.9 | /mnt/stockage/packages/f29/synfigstudio/po/gl.po | 
- | [nb_NO]({{< ref "/f29/language/nb_NO.md" >}}) | 10 | 6564 | 0.2 | /mnt/stockage/packages/f29/synfigstudio/po/no_NO.po | 
- | [uz_Latn]({{< ref "/f29/language/uz_Latn.md" >}}) | 7 | 6564 | 0.1 | /mnt/stockage/packages/f29/synfigstudio/po/uz@Latn.po | 
- | [el]({{< ref "/f29/language/el.md" >}}) | 5 | 6564 | 0.1 | /mnt/stockage/packages/f29/synfigstudio/po/el_GR.po | 
- | [ro]({{< ref "/f29/language/ro.md" >}}) | 5 | 6564 | 0.1 | /mnt/stockage/packages/f29/synfigstudio/po/ro.po | 
- | [lv]({{< ref "/f29/language/lv.md" >}}) | 4 | 6564 | 0.1 | /mnt/stockage/packages/f29/synfigstudio/po/lv.po | 
- | [si]({{< ref "/f29/language/si.md" >}}) | 1 | 6564 | 0.0 | /mnt/stockage/packages/f29/synfigstudio/po/si.po | 
- | [error]({{< ref "/f29/language/error.md" >}}) | 0 | 19692 | 0.0 | /mnt/stockage/packages/f29/synfigstudio/po/en_CZ.po/mnt/stockage/packages/f29/synfigstudio/po/es_PY.po/mnt/stockage/packages/f29/synfigstudio/po/aa_DJ.po | 
- | [hi]({{< ref "/f29/language/hi.md" >}}) | 0 | 6564 | 0.0 | /mnt/stockage/packages/f29/synfigstudio/po/hi_IN.po | 
- | [kab]({{< ref "/f29/language/kab.md" >}}) | 0 | 6564 | 0.0 | /mnt/stockage/packages/f29/synfigstudio/po/kab.po | 
- | [ne]({{< ref "/f29/language/ne.md" >}}) | 0 | 6564 | 0.0 | /mnt/stockage/packages/f29/synfigstudio/po/ne.po | 
- | [ur]({{< ref "/f29/language/ur.md" >}}) | 0 | 6564 | 0.0 | /mnt/stockage/packages/f29/synfigstudio/po/ur.po | 
+ | [ca@valencia](/f29/language/ca@valencia) | 6564 | 6564 | 100.0 | /mnt/stockage/packages/f29/synfigstudio/po/ca@valencia.po | 
+ | [es](/f29/language/es) | 6564 | 6564 | 100.0 | /mnt/stockage/packages/f29/synfigstudio/po/es.po | 
+ | [pl](/f29/language/pl) | 6564 | 6564 | 100.0 | /mnt/stockage/packages/f29/synfigstudio/po/pl_PL.po | 
+ | [pt](/f29/language/pt) | 6564 | 6564 | 100.0 | /mnt/stockage/packages/f29/synfigstudio/po/pt.po | 
+ | [pt_BR](/f29/language/pt_BR) | 6564 | 6564 | 100.0 | /mnt/stockage/packages/f29/synfigstudio/po/pt_BR.po | 
+ | [ru](/f29/language/ru) | 6564 | 6564 | 100.0 | /mnt/stockage/packages/f29/synfigstudio/po/ru.po | 
+ | [sr](/f29/language/sr) | 6564 | 6564 | 100.0 | /mnt/stockage/packages/f29/synfigstudio/po/sr_RS.po | 
+ | [de](/f29/language/de) | 6559 | 6564 | 99.9 | /mnt/stockage/packages/f29/synfigstudio/po/de.po | 
+ | [fr](/f29/language/fr) | 5582 | 6564 | 85.0 | /mnt/stockage/packages/f29/synfigstudio/po/fr.po | 
+ | [zh_Hans](/f29/language/zh_Hans) | 4324 | 6564 | 65.9 | /mnt/stockage/packages/f29/synfigstudio/po/zh_CN.po | 
+ | [it](/f29/language/it) | 3664 | 6564 | 55.8 | /mnt/stockage/packages/f29/synfigstudio/po/it.po | 
+ | [eu](/f29/language/eu) | 6293 | 13128 | 47.9 | /mnt/stockage/packages/f29/synfigstudio/po/eu_ES.po/mnt/stockage/packages/f29/synfigstudio/po/eu.po | 
+ | [lt](/f29/language/lt) | 3076 | 6564 | 46.9 | /mnt/stockage/packages/f29/synfigstudio/po/lt.po | 
+ | [en_GB](/f29/language/en_GB) | 3014 | 6564 | 45.9 | /mnt/stockage/packages/f29/synfigstudio/po/en_GB.po | 
+ | [hu](/f29/language/hu) | 3011 | 6564 | 45.9 | /mnt/stockage/packages/f29/synfigstudio/po/hu.po | 
+ | [sv](/f29/language/sv) | 2541 | 6564 | 38.7 | /mnt/stockage/packages/f29/synfigstudio/po/sv_SE.po | 
+ | [tr](/f29/language/tr) | 2368 | 6564 | 36.1 | /mnt/stockage/packages/f29/synfigstudio/po/tr.po | 
+ | [ca](/f29/language/ca) | 2138 | 6564 | 32.6 | /mnt/stockage/packages/f29/synfigstudio/po/ca.po | 
+ | [nl](/f29/language/nl) | 1859 | 6564 | 28.3 | /mnt/stockage/packages/f29/synfigstudio/po/nl.po | 
+ | [sk](/f29/language/sk) | 3565 | 13128 | 27.2 | /mnt/stockage/packages/f29/synfigstudio/po/sk_SK.po/mnt/stockage/packages/f29/synfigstudio/po/sk.po | 
+ | [da](/f29/language/da) | 1220 | 6564 | 18.6 | /mnt/stockage/packages/f29/synfigstudio/po/da.po | 
+ | [ja](/f29/language/ja) | 1978 | 13128 | 15.1 | /mnt/stockage/packages/f29/synfigstudio/po/ja.po/mnt/stockage/packages/f29/synfigstudio/po/ja_JP.po | 
+ | [zh_Hant](/f29/language/zh_Hant) | 2349 | 19679 | 11.9 | /mnt/stockage/packages/f29/synfigstudio/po/zh_TW.Big5.po/mnt/stockage/packages/f29/synfigstudio/po/zh_TW.po/mnt/stockage/packages/f29/synfigstudio/po/zh-Hant.po | 
+ | [fa](/f29/language/fa) | 682 | 6564 | 10.4 | /mnt/stockage/packages/f29/synfigstudio/po/fa_IR.po | 
+ | [cs](/f29/language/cs) | 1356 | 13115 | 10.3 | /mnt/stockage/packages/f29/synfigstudio/po/cs_CZ.po/mnt/stockage/packages/f29/synfigstudio/po/cs.po | 
+ | [sl](/f29/language/sl) | 352 | 6564 | 5.4 | /mnt/stockage/packages/f29/synfigstudio/po/sl.po | 
+ | [ar](/f29/language/ar) | 171 | 6564 | 2.6 | /mnt/stockage/packages/f29/synfigstudio/po/ar.po | 
+ | [bs](/f29/language/bs) | 149 | 6564 | 2.3 | /mnt/stockage/packages/f29/synfigstudio/po/bs.po | 
+ | [he](/f29/language/he) | 99 | 6564 | 1.5 | /mnt/stockage/packages/f29/synfigstudio/po/he.po | 
+ | [gl](/f29/language/gl) | 56 | 6564 | 0.9 | /mnt/stockage/packages/f29/synfigstudio/po/gl.po | 
+ | [nb_NO](/f29/language/nb_NO) | 10 | 6564 | 0.2 | /mnt/stockage/packages/f29/synfigstudio/po/no_NO.po | 
+ | [uz_Latn](/f29/language/uz_Latn) | 7 | 6564 | 0.1 | /mnt/stockage/packages/f29/synfigstudio/po/uz@Latn.po | 
+ | [el](/f29/language/el) | 5 | 6564 | 0.1 | /mnt/stockage/packages/f29/synfigstudio/po/el_GR.po | 
+ | [ro](/f29/language/ro) | 5 | 6564 | 0.1 | /mnt/stockage/packages/f29/synfigstudio/po/ro.po | 
+ | [lv](/f29/language/lv) | 4 | 6564 | 0.1 | /mnt/stockage/packages/f29/synfigstudio/po/lv.po | 
+ | [si](/f29/language/si) | 1 | 6564 | 0.0 | /mnt/stockage/packages/f29/synfigstudio/po/si.po | 
+ | [error](/f29/language/error) | 0 | 19692 | 0.0 | /mnt/stockage/packages/f29/synfigstudio/po/en_CZ.po/mnt/stockage/packages/f29/synfigstudio/po/es_PY.po/mnt/stockage/packages/f29/synfigstudio/po/aa_DJ.po | 
+ | [hi](/f29/language/hi) | 0 | 6564 | 0.0 | /mnt/stockage/packages/f29/synfigstudio/po/hi_IN.po | 
+ | [kab](/f29/language/kab) | 0 | 6564 | 0.0 | /mnt/stockage/packages/f29/synfigstudio/po/kab.po | 
+ | [ne](/f29/language/ne) | 0 | 6564 | 0.0 | /mnt/stockage/packages/f29/synfigstudio/po/ne.po | 
+ | [ur](/f29/language/ur) | 0 | 6564 | 0.0 | /mnt/stockage/packages/f29/synfigstudio/po/ur.po | 
 {.sortable}
 
 

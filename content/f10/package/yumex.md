@@ -18,31 +18,31 @@ The package yumex (version 2.0.5):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f10/language/ca.md" >}}) | 585 | 585 | 100.0 | /mnt/stockage/packages/f10/yumex/po/ca.po | 
- | [de]({{< ref "/f10/language/de.md" >}}) | 585 | 585 | 100.0 | /mnt/stockage/packages/f10/yumex/po/de.po | 
- | [es]({{< ref "/f10/language/es.md" >}}) | 585 | 585 | 100.0 | /mnt/stockage/packages/f10/yumex/po/es.po | 
- | [fr]({{< ref "/f10/language/fr.md" >}}) | 585 | 585 | 100.0 | /mnt/stockage/packages/f10/yumex/po/fr.po | 
- | [it]({{< ref "/f10/language/it.md" >}}) | 585 | 585 | 100.0 | /mnt/stockage/packages/f10/yumex/po/it.po | 
- | [pl]({{< ref "/f10/language/pl.md" >}}) | 575 | 575 | 100.0 | /mnt/stockage/packages/f10/yumex/po/pl.po | 
- | [pt_BR]({{< ref "/f10/language/pt_BR.md" >}}) | 591 | 591 | 100.0 | /mnt/stockage/packages/f10/yumex/po/pt_BR.po | 
- | [sr]({{< ref "/f10/language/sr.md" >}}) | 575 | 575 | 100.0 | /mnt/stockage/packages/f10/yumex/po/sr.po | 
- | [sr_Latn]({{< ref "/f10/language/sr_Latn.md" >}}) | 575 | 575 | 100.0 | /mnt/stockage/packages/f10/yumex/po/sr@latin.po | 
- | [hu]({{< ref "/f10/language/hu.md" >}}) | 554 | 575 | 96.3 | /mnt/stockage/packages/f10/yumex/po/hu.po | 
- | [zh_Hans]({{< ref "/f10/language/zh_Hans.md" >}}) | 554 | 575 | 96.3 | /mnt/stockage/packages/f10/yumex/po/zh_CN.po | 
- | [ja]({{< ref "/f10/language/ja.md" >}}) | 550 | 575 | 95.7 | /mnt/stockage/packages/f10/yumex/po/ja.po | 
- | [ru]({{< ref "/f10/language/ru.md" >}}) | 545 | 575 | 94.8 | /mnt/stockage/packages/f10/yumex/po/ru.po | 
- | [da]({{< ref "/f10/language/da.md" >}}) | 532 | 575 | 92.5 | /mnt/stockage/packages/f10/yumex/po/da.po | 
- | [cs]({{< ref "/f10/language/cs.md" >}}) | 527 | 575 | 91.7 | /mnt/stockage/packages/f10/yumex/po/cs.po | 
- | [fi]({{< ref "/f10/language/fi.md" >}}) | 527 | 575 | 91.7 | /mnt/stockage/packages/f10/yumex/po/fi.po | 
- | [pa]({{< ref "/f10/language/pa.md" >}}) | 527 | 575 | 91.7 | /mnt/stockage/packages/f10/yumex/po/pa.po | 
- | [zh_Hant]({{< ref "/f10/language/zh_Hant.md" >}}) | 527 | 575 | 91.7 | /mnt/stockage/packages/f10/yumex/po/zh_TW.po | 
- | [uk]({{< ref "/f10/language/uk.md" >}}) | 297 | 575 | 51.7 | /mnt/stockage/packages/f10/yumex/po/uk.po | 
- | [ko]({{< ref "/f10/language/ko.md" >}}) | 250 | 575 | 43.5 | /mnt/stockage/packages/f10/yumex/po/ko.po | 
- | [ar]({{< ref "/f10/language/ar.md" >}}) | 233 | 585 | 39.8 | /mnt/stockage/packages/f10/yumex/po/ar.po | 
- | [tr]({{< ref "/f10/language/tr.md" >}}) | 161 | 575 | 28.0 | /mnt/stockage/packages/f10/yumex/po/tr.po | 
- | [he]({{< ref "/f10/language/he.md" >}}) | 129 | 575 | 22.4 | /mnt/stockage/packages/f10/yumex/po/he.po | 
- | [ms]({{< ref "/f10/language/ms.md" >}}) | 33 | 575 | 5.7 | /mnt/stockage/packages/f10/yumex/po/ms.po | 
- | [el]({{< ref "/f10/language/el.md" >}}) | 0 | 575 | 0.0 | /mnt/stockage/packages/f10/yumex/po/el.po | 
+ | [ca](/f10/language/ca) | 585 | 585 | 100.0 | /mnt/stockage/packages/f10/yumex/po/ca.po | 
+ | [de](/f10/language/de) | 585 | 585 | 100.0 | /mnt/stockage/packages/f10/yumex/po/de.po | 
+ | [es](/f10/language/es) | 585 | 585 | 100.0 | /mnt/stockage/packages/f10/yumex/po/es.po | 
+ | [fr](/f10/language/fr) | 585 | 585 | 100.0 | /mnt/stockage/packages/f10/yumex/po/fr.po | 
+ | [it](/f10/language/it) | 585 | 585 | 100.0 | /mnt/stockage/packages/f10/yumex/po/it.po | 
+ | [pl](/f10/language/pl) | 575 | 575 | 100.0 | /mnt/stockage/packages/f10/yumex/po/pl.po | 
+ | [pt_BR](/f10/language/pt_BR) | 591 | 591 | 100.0 | /mnt/stockage/packages/f10/yumex/po/pt_BR.po | 
+ | [sr](/f10/language/sr) | 575 | 575 | 100.0 | /mnt/stockage/packages/f10/yumex/po/sr.po | 
+ | [sr_Latn](/f10/language/sr_Latn) | 575 | 575 | 100.0 | /mnt/stockage/packages/f10/yumex/po/sr@latin.po | 
+ | [hu](/f10/language/hu) | 554 | 575 | 96.3 | /mnt/stockage/packages/f10/yumex/po/hu.po | 
+ | [zh_Hans](/f10/language/zh_Hans) | 554 | 575 | 96.3 | /mnt/stockage/packages/f10/yumex/po/zh_CN.po | 
+ | [ja](/f10/language/ja) | 550 | 575 | 95.7 | /mnt/stockage/packages/f10/yumex/po/ja.po | 
+ | [ru](/f10/language/ru) | 545 | 575 | 94.8 | /mnt/stockage/packages/f10/yumex/po/ru.po | 
+ | [da](/f10/language/da) | 532 | 575 | 92.5 | /mnt/stockage/packages/f10/yumex/po/da.po | 
+ | [cs](/f10/language/cs) | 527 | 575 | 91.7 | /mnt/stockage/packages/f10/yumex/po/cs.po | 
+ | [fi](/f10/language/fi) | 527 | 575 | 91.7 | /mnt/stockage/packages/f10/yumex/po/fi.po | 
+ | [pa](/f10/language/pa) | 527 | 575 | 91.7 | /mnt/stockage/packages/f10/yumex/po/pa.po | 
+ | [zh_Hant](/f10/language/zh_Hant) | 527 | 575 | 91.7 | /mnt/stockage/packages/f10/yumex/po/zh_TW.po | 
+ | [uk](/f10/language/uk) | 297 | 575 | 51.7 | /mnt/stockage/packages/f10/yumex/po/uk.po | 
+ | [ko](/f10/language/ko) | 250 | 575 | 43.5 | /mnt/stockage/packages/f10/yumex/po/ko.po | 
+ | [ar](/f10/language/ar) | 233 | 585 | 39.8 | /mnt/stockage/packages/f10/yumex/po/ar.po | 
+ | [tr](/f10/language/tr) | 161 | 575 | 28.0 | /mnt/stockage/packages/f10/yumex/po/tr.po | 
+ | [he](/f10/language/he) | 129 | 575 | 22.4 | /mnt/stockage/packages/f10/yumex/po/he.po | 
+ | [ms](/f10/language/ms) | 33 | 575 | 5.7 | /mnt/stockage/packages/f10/yumex/po/ms.po | 
+ | [el](/f10/language/el) | 0 | 575 | 0.0 | /mnt/stockage/packages/f10/yumex/po/el.po | 
 {.sortable}
 
 

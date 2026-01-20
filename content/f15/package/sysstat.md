@@ -18,31 +18,31 @@ The package sysstat (version 9.0.6.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [af]({{< ref "/f15/language/af.md" >}}) | 234 | 234 | 100.0 | /mnt/stockage/packages/f15/sysstat/nls/af.po | 
- | [da]({{< ref "/f15/language/da.md" >}}) | 448 | 448 | 100.0 | /mnt/stockage/packages/f15/sysstat/nls/da.po | 
- | [de]({{< ref "/f15/language/de.md" >}}) | 448 | 448 | 100.0 | /mnt/stockage/packages/f15/sysstat/nls/de.po | 
- | [es]({{< ref "/f15/language/es.md" >}}) | 234 | 234 | 100.0 | /mnt/stockage/packages/f15/sysstat/nls/es.po | 
- | [fi]({{< ref "/f15/language/fi.md" >}}) | 194 | 194 | 100.0 | /mnt/stockage/packages/f15/sysstat/nls/fi.po | 
- | [fr]({{< ref "/f15/language/fr.md" >}}) | 448 | 448 | 100.0 | /mnt/stockage/packages/f15/sysstat/nls/fr.po | 
- | [id]({{< ref "/f15/language/id.md" >}}) | 448 | 448 | 100.0 | /mnt/stockage/packages/f15/sysstat/nls/id.po | 
- | [it]({{< ref "/f15/language/it.md" >}}) | 448 | 448 | 100.0 | /mnt/stockage/packages/f15/sysstat/nls/it.po | 
- | [lv]({{< ref "/f15/language/lv.md" >}}) | 448 | 448 | 100.0 | /mnt/stockage/packages/f15/sysstat/nls/lv.po | 
- | [mt]({{< ref "/f15/language/mt.md" >}}) | 412 | 412 | 100.0 | /mnt/stockage/packages/f15/sysstat/nls/mt.po | 
- | [nb_NO]({{< ref "/f15/language/nb_NO.md" >}}) | 234 | 234 | 100.0 | /mnt/stockage/packages/f15/sysstat/nls/nb.po | 
- | [nl]({{< ref "/f15/language/nl.md" >}}) | 448 | 448 | 100.0 | /mnt/stockage/packages/f15/sysstat/nls/nl.po | 
- | [nn]({{< ref "/f15/language/nn.md" >}}) | 234 | 234 | 100.0 | /mnt/stockage/packages/f15/sysstat/nls/nn.po | 
- | [pl]({{< ref "/f15/language/pl.md" >}}) | 448 | 448 | 100.0 | /mnt/stockage/packages/f15/sysstat/nls/pl.po | 
- | [pt]({{< ref "/f15/language/pt.md" >}}) | 234 | 234 | 100.0 | /mnt/stockage/packages/f15/sysstat/nls/pt.po | 
- | [pt_BR]({{< ref "/f15/language/pt_BR.md" >}}) | 447 | 447 | 100.0 | /mnt/stockage/packages/f15/sysstat/nls/pt_BR.po | 
- | [ro]({{< ref "/f15/language/ro.md" >}}) | 234 | 234 | 100.0 | /mnt/stockage/packages/f15/sysstat/nls/ro.po | 
- | [ru]({{< ref "/f15/language/ru.md" >}}) | 448 | 448 | 100.0 | /mnt/stockage/packages/f15/sysstat/nls/ru.po | 
- | [sk]({{< ref "/f15/language/sk.md" >}}) | 234 | 234 | 100.0 | /mnt/stockage/packages/f15/sysstat/nls/sk.po | 
- | [sv]({{< ref "/f15/language/sv.md" >}}) | 194 | 194 | 100.0 | /mnt/stockage/packages/f15/sysstat/nls/sv.po | 
- | [vi]({{< ref "/f15/language/vi.md" >}}) | 448 | 448 | 100.0 | /mnt/stockage/packages/f15/sysstat/nls/vi.po | 
- | [zh_Hans]({{< ref "/f15/language/zh_Hans.md" >}}) | 448 | 448 | 100.0 | /mnt/stockage/packages/f15/sysstat/nls/zh_CN.po | 
- | [zh_Hant]({{< ref "/f15/language/zh_Hant.md" >}}) | 293 | 299 | 98.0 | /mnt/stockage/packages/f15/sysstat/nls/zh_TW.po | 
- | [ja]({{< ref "/f15/language/ja.md" >}}) | 428 | 447 | 95.7 | /mnt/stockage/packages/f15/sysstat/nls/ja.po | 
- | [ky]({{< ref "/f15/language/ky.md" >}}) | 222 | 234 | 94.9 | /mnt/stockage/packages/f15/sysstat/nls/ky.po | 
+ | [af](/f15/language/af) | 234 | 234 | 100.0 | /mnt/stockage/packages/f15/sysstat/nls/af.po | 
+ | [da](/f15/language/da) | 448 | 448 | 100.0 | /mnt/stockage/packages/f15/sysstat/nls/da.po | 
+ | [de](/f15/language/de) | 448 | 448 | 100.0 | /mnt/stockage/packages/f15/sysstat/nls/de.po | 
+ | [es](/f15/language/es) | 234 | 234 | 100.0 | /mnt/stockage/packages/f15/sysstat/nls/es.po | 
+ | [fi](/f15/language/fi) | 194 | 194 | 100.0 | /mnt/stockage/packages/f15/sysstat/nls/fi.po | 
+ | [fr](/f15/language/fr) | 448 | 448 | 100.0 | /mnt/stockage/packages/f15/sysstat/nls/fr.po | 
+ | [id](/f15/language/id) | 448 | 448 | 100.0 | /mnt/stockage/packages/f15/sysstat/nls/id.po | 
+ | [it](/f15/language/it) | 448 | 448 | 100.0 | /mnt/stockage/packages/f15/sysstat/nls/it.po | 
+ | [lv](/f15/language/lv) | 448 | 448 | 100.0 | /mnt/stockage/packages/f15/sysstat/nls/lv.po | 
+ | [mt](/f15/language/mt) | 412 | 412 | 100.0 | /mnt/stockage/packages/f15/sysstat/nls/mt.po | 
+ | [nb_NO](/f15/language/nb_NO) | 234 | 234 | 100.0 | /mnt/stockage/packages/f15/sysstat/nls/nb.po | 
+ | [nl](/f15/language/nl) | 448 | 448 | 100.0 | /mnt/stockage/packages/f15/sysstat/nls/nl.po | 
+ | [nn](/f15/language/nn) | 234 | 234 | 100.0 | /mnt/stockage/packages/f15/sysstat/nls/nn.po | 
+ | [pl](/f15/language/pl) | 448 | 448 | 100.0 | /mnt/stockage/packages/f15/sysstat/nls/pl.po | 
+ | [pt](/f15/language/pt) | 234 | 234 | 100.0 | /mnt/stockage/packages/f15/sysstat/nls/pt.po | 
+ | [pt_BR](/f15/language/pt_BR) | 447 | 447 | 100.0 | /mnt/stockage/packages/f15/sysstat/nls/pt_BR.po | 
+ | [ro](/f15/language/ro) | 234 | 234 | 100.0 | /mnt/stockage/packages/f15/sysstat/nls/ro.po | 
+ | [ru](/f15/language/ru) | 448 | 448 | 100.0 | /mnt/stockage/packages/f15/sysstat/nls/ru.po | 
+ | [sk](/f15/language/sk) | 234 | 234 | 100.0 | /mnt/stockage/packages/f15/sysstat/nls/sk.po | 
+ | [sv](/f15/language/sv) | 194 | 194 | 100.0 | /mnt/stockage/packages/f15/sysstat/nls/sv.po | 
+ | [vi](/f15/language/vi) | 448 | 448 | 100.0 | /mnt/stockage/packages/f15/sysstat/nls/vi.po | 
+ | [zh_Hans](/f15/language/zh_Hans) | 448 | 448 | 100.0 | /mnt/stockage/packages/f15/sysstat/nls/zh_CN.po | 
+ | [zh_Hant](/f15/language/zh_Hant) | 293 | 299 | 98.0 | /mnt/stockage/packages/f15/sysstat/nls/zh_TW.po | 
+ | [ja](/f15/language/ja) | 428 | 447 | 95.7 | /mnt/stockage/packages/f15/sysstat/nls/ja.po | 
+ | [ky](/f15/language/ky) | 222 | 234 | 94.9 | /mnt/stockage/packages/f15/sysstat/nls/ky.po | 
 {.sortable}
 
 

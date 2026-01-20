@@ -18,35 +18,35 @@ The package xcdroast (version 0.98a15):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f7/language/ca.md" >}}) | 8044 | 8044 | 100.0 | /mnt/stockage/packages/f7/xcdroast/po/ca.po | 
- | [cs]({{< ref "/f7/language/cs.md" >}}) | 8044 | 8044 | 100.0 | /mnt/stockage/packages/f7/xcdroast/po/cs.po | 
- | [de]({{< ref "/f7/language/de.md" >}}) | 8044 | 8044 | 100.0 | /mnt/stockage/packages/f7/xcdroast/po/de.po | 
- | [fi]({{< ref "/f7/language/fi.md" >}}) | 8044 | 8044 | 100.0 | /mnt/stockage/packages/f7/xcdroast/po/fi.po | 
- | [fr]({{< ref "/f7/language/fr.md" >}}) | 8044 | 8044 | 100.0 | /mnt/stockage/packages/f7/xcdroast/po/fr.po | 
- | [hu]({{< ref "/f7/language/hu.md" >}}) | 8044 | 8044 | 100.0 | /mnt/stockage/packages/f7/xcdroast/po/hu.po | 
- | [it]({{< ref "/f7/language/it.md" >}}) | 8044 | 8044 | 100.0 | /mnt/stockage/packages/f7/xcdroast/po/it.po | 
- | [ja]({{< ref "/f7/language/ja.md" >}}) | 8044 | 8044 | 100.0 | /mnt/stockage/packages/f7/xcdroast/po/ja.po | 
- | [nl]({{< ref "/f7/language/nl.md" >}}) | 8044 | 8044 | 100.0 | /mnt/stockage/packages/f7/xcdroast/po/nl.po | 
- | [pl]({{< ref "/f7/language/pl.md" >}}) | 8044 | 8044 | 100.0 | /mnt/stockage/packages/f7/xcdroast/po/pl.po | 
- | [sq]({{< ref "/f7/language/sq.md" >}}) | 8044 | 8044 | 100.0 | /mnt/stockage/packages/f7/xcdroast/po/sq_AL.po | 
- | [sv]({{< ref "/f7/language/sv.md" >}}) | 8044 | 8044 | 100.0 | /mnt/stockage/packages/f7/xcdroast/po/sv.po | 
- | [pt_BR]({{< ref "/f7/language/pt_BR.md" >}}) | 8040 | 8044 | 100.0 | /mnt/stockage/packages/f7/xcdroast/po/pt_BR.po | 
- | [ru]({{< ref "/f7/language/ru.md" >}}) | 8037 | 8044 | 99.9 | /mnt/stockage/packages/f7/xcdroast/po/ru.po | 
- | [el]({{< ref "/f7/language/el.md" >}}) | 7664 | 8044 | 95.3 | /mnt/stockage/packages/f7/xcdroast/po/el_GR.po | 
- | [ro]({{< ref "/f7/language/ro.md" >}}) | 7274 | 8044 | 90.4 | /mnt/stockage/packages/f7/xcdroast/po/ro.po | 
- | [nb_NO]({{< ref "/f7/language/nb_NO.md" >}}) | 6814 | 8044 | 84.7 | /mnt/stockage/packages/f7/xcdroast/po/no.po | 
- | [uk]({{< ref "/f7/language/uk.md" >}}) | 6814 | 8044 | 84.7 | /mnt/stockage/packages/f7/xcdroast/po/uk.po | 
- | [es]({{< ref "/f7/language/es.md" >}}) | 4847 | 8044 | 60.3 | /mnt/stockage/packages/f7/xcdroast/po/es.po | 
- | [gl]({{< ref "/f7/language/gl.md" >}}) | 4415 | 8044 | 54.9 | /mnt/stockage/packages/f7/xcdroast/po/gl.po | 
- | [et]({{< ref "/f7/language/et.md" >}}) | 4329 | 8044 | 53.8 | /mnt/stockage/packages/f7/xcdroast/po/et.po | 
- | [sk]({{< ref "/f7/language/sk.md" >}}) | 4191 | 8044 | 52.1 | /mnt/stockage/packages/f7/xcdroast/po/sk.po | 
- | [lv]({{< ref "/f7/language/lv.md" >}}) | 4092 | 8044 | 50.9 | /mnt/stockage/packages/f7/xcdroast/po/lv.po | 
- | [bg]({{< ref "/f7/language/bg.md" >}}) | 4009 | 8044 | 49.8 | /mnt/stockage/packages/f7/xcdroast/po/bg.po | 
- | [id]({{< ref "/f7/language/id.md" >}}) | 3743 | 8044 | 46.5 | /mnt/stockage/packages/f7/xcdroast/po/id.po | 
- | [da]({{< ref "/f7/language/da.md" >}}) | 3600 | 8044 | 44.8 | /mnt/stockage/packages/f7/xcdroast/po/da.po | 
- | [tr]({{< ref "/f7/language/tr.md" >}}) | 3600 | 8044 | 44.8 | /mnt/stockage/packages/f7/xcdroast/po/tr.po | 
- | [hr]({{< ref "/f7/language/hr.md" >}}) | 2341 | 8044 | 29.1 | /mnt/stockage/packages/f7/xcdroast/po/hr.po | 
- | [error]({{< ref "/f7/language/error.md" >}}) | 4487 | 16088 | 27.9 | /mnt/stockage/packages/f7/xcdroast/po/zh_CN.GB2312.po/mnt/stockage/packages/f7/xcdroast/po/zh_TW.Big5.po | 
+ | [ca](/f7/language/ca) | 8044 | 8044 | 100.0 | /mnt/stockage/packages/f7/xcdroast/po/ca.po | 
+ | [cs](/f7/language/cs) | 8044 | 8044 | 100.0 | /mnt/stockage/packages/f7/xcdroast/po/cs.po | 
+ | [de](/f7/language/de) | 8044 | 8044 | 100.0 | /mnt/stockage/packages/f7/xcdroast/po/de.po | 
+ | [fi](/f7/language/fi) | 8044 | 8044 | 100.0 | /mnt/stockage/packages/f7/xcdroast/po/fi.po | 
+ | [fr](/f7/language/fr) | 8044 | 8044 | 100.0 | /mnt/stockage/packages/f7/xcdroast/po/fr.po | 
+ | [hu](/f7/language/hu) | 8044 | 8044 | 100.0 | /mnt/stockage/packages/f7/xcdroast/po/hu.po | 
+ | [it](/f7/language/it) | 8044 | 8044 | 100.0 | /mnt/stockage/packages/f7/xcdroast/po/it.po | 
+ | [ja](/f7/language/ja) | 8044 | 8044 | 100.0 | /mnt/stockage/packages/f7/xcdroast/po/ja.po | 
+ | [nl](/f7/language/nl) | 8044 | 8044 | 100.0 | /mnt/stockage/packages/f7/xcdroast/po/nl.po | 
+ | [pl](/f7/language/pl) | 8044 | 8044 | 100.0 | /mnt/stockage/packages/f7/xcdroast/po/pl.po | 
+ | [sq](/f7/language/sq) | 8044 | 8044 | 100.0 | /mnt/stockage/packages/f7/xcdroast/po/sq_AL.po | 
+ | [sv](/f7/language/sv) | 8044 | 8044 | 100.0 | /mnt/stockage/packages/f7/xcdroast/po/sv.po | 
+ | [pt_BR](/f7/language/pt_BR) | 8040 | 8044 | 100.0 | /mnt/stockage/packages/f7/xcdroast/po/pt_BR.po | 
+ | [ru](/f7/language/ru) | 8037 | 8044 | 99.9 | /mnt/stockage/packages/f7/xcdroast/po/ru.po | 
+ | [el](/f7/language/el) | 7664 | 8044 | 95.3 | /mnt/stockage/packages/f7/xcdroast/po/el_GR.po | 
+ | [ro](/f7/language/ro) | 7274 | 8044 | 90.4 | /mnt/stockage/packages/f7/xcdroast/po/ro.po | 
+ | [nb_NO](/f7/language/nb_NO) | 6814 | 8044 | 84.7 | /mnt/stockage/packages/f7/xcdroast/po/no.po | 
+ | [uk](/f7/language/uk) | 6814 | 8044 | 84.7 | /mnt/stockage/packages/f7/xcdroast/po/uk.po | 
+ | [es](/f7/language/es) | 4847 | 8044 | 60.3 | /mnt/stockage/packages/f7/xcdroast/po/es.po | 
+ | [gl](/f7/language/gl) | 4415 | 8044 | 54.9 | /mnt/stockage/packages/f7/xcdroast/po/gl.po | 
+ | [et](/f7/language/et) | 4329 | 8044 | 53.8 | /mnt/stockage/packages/f7/xcdroast/po/et.po | 
+ | [sk](/f7/language/sk) | 4191 | 8044 | 52.1 | /mnt/stockage/packages/f7/xcdroast/po/sk.po | 
+ | [lv](/f7/language/lv) | 4092 | 8044 | 50.9 | /mnt/stockage/packages/f7/xcdroast/po/lv.po | 
+ | [bg](/f7/language/bg) | 4009 | 8044 | 49.8 | /mnt/stockage/packages/f7/xcdroast/po/bg.po | 
+ | [id](/f7/language/id) | 3743 | 8044 | 46.5 | /mnt/stockage/packages/f7/xcdroast/po/id.po | 
+ | [da](/f7/language/da) | 3600 | 8044 | 44.8 | /mnt/stockage/packages/f7/xcdroast/po/da.po | 
+ | [tr](/f7/language/tr) | 3600 | 8044 | 44.8 | /mnt/stockage/packages/f7/xcdroast/po/tr.po | 
+ | [hr](/f7/language/hr) | 2341 | 8044 | 29.1 | /mnt/stockage/packages/f7/xcdroast/po/hr.po | 
+ | [error](/f7/language/error) | 4487 | 16088 | 27.9 | /mnt/stockage/packages/f7/xcdroast/po/zh_CN.GB2312.po/mnt/stockage/packages/f7/xcdroast/po/zh_TW.Big5.po | 
 {.sortable}
 
 

@@ -18,16 +18,16 @@ The package ccdciel (version 0.9.84):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f37/language/fr.md" >}}) | 7023 | 7026 | 100.0 | /mnt/stockage/packages/f37/ccdciel/data/language/ccdciel.fr.po/mnt/stockage/packages/f37/ccdciel/data/language/ccdciel_hints.fr.po | 
- | [zh_Hans]({{< ref "/f37/language/zh_Hans.md" >}}) | 6933 | 7026 | 98.7 | /mnt/stockage/packages/f37/ccdciel/data/language/ccdciel.zh_CN.po/mnt/stockage/packages/f37/ccdciel/data/language/ccdciel_hints.zh_CN.po | 
- | [cs]({{< ref "/f37/language/cs.md" >}}) | 6906 | 7026 | 98.3 | /mnt/stockage/packages/f37/ccdciel/data/language/ccdciel.cs.po/mnt/stockage/packages/f37/ccdciel/data/language/ccdciel_hints.cs.po | 
- | [de]({{< ref "/f37/language/de.md" >}}) | 6850 | 7026 | 97.5 | /mnt/stockage/packages/f37/ccdciel/data/language/ccdciel.de.po/mnt/stockage/packages/f37/ccdciel/data/language/ccdciel_hints.de.po | 
- | [ru]({{< ref "/f37/language/ru.md" >}}) | 6711 | 7026 | 95.5 | /mnt/stockage/packages/f37/ccdciel/data/language/ccdciel.ru.po/mnt/stockage/packages/f37/ccdciel/data/language/ccdciel_hints.ru.po | 
- | [es]({{< ref "/f37/language/es.md" >}}) | 6263 | 7026 | 89.1 | /mnt/stockage/packages/f37/ccdciel/data/language/ccdciel.es.po/mnt/stockage/packages/f37/ccdciel/data/language/ccdciel_hints.es.po | 
- | [en_GB]({{< ref "/f37/language/en_GB.md" >}}) | 5803 | 7026 | 82.6 | /mnt/stockage/packages/f37/ccdciel/data/language/ccdciel.en_GB.po/mnt/stockage/packages/f37/ccdciel/data/language/ccdciel_hints.en_GB.po | 
- | [it]({{< ref "/f37/language/it.md" >}}) | 1736 | 7026 | 24.7 | /mnt/stockage/packages/f37/ccdciel/data/language/ccdciel.it.po/mnt/stockage/packages/f37/ccdciel/data/language/ccdciel_hints.it.po | 
- | [da]({{< ref "/f37/language/da.md" >}}) | 475 | 5792 | 8.2 | /mnt/stockage/packages/f37/ccdciel/data/language/ccdciel.da.po | 
- | [ku]({{< ref "/f37/language/ku.md" >}}) | 38 | 5792 | 0.7 | /mnt/stockage/packages/f37/ccdciel/data/language/ccdciel.ku.po | 
+ | [fr](/f37/language/fr) | 7023 | 7026 | 100.0 | /mnt/stockage/packages/f37/ccdciel/data/language/ccdciel.fr.po/mnt/stockage/packages/f37/ccdciel/data/language/ccdciel_hints.fr.po | 
+ | [zh_Hans](/f37/language/zh_Hans) | 6933 | 7026 | 98.7 | /mnt/stockage/packages/f37/ccdciel/data/language/ccdciel.zh_CN.po/mnt/stockage/packages/f37/ccdciel/data/language/ccdciel_hints.zh_CN.po | 
+ | [cs](/f37/language/cs) | 6906 | 7026 | 98.3 | /mnt/stockage/packages/f37/ccdciel/data/language/ccdciel.cs.po/mnt/stockage/packages/f37/ccdciel/data/language/ccdciel_hints.cs.po | 
+ | [de](/f37/language/de) | 6850 | 7026 | 97.5 | /mnt/stockage/packages/f37/ccdciel/data/language/ccdciel.de.po/mnt/stockage/packages/f37/ccdciel/data/language/ccdciel_hints.de.po | 
+ | [ru](/f37/language/ru) | 6711 | 7026 | 95.5 | /mnt/stockage/packages/f37/ccdciel/data/language/ccdciel.ru.po/mnt/stockage/packages/f37/ccdciel/data/language/ccdciel_hints.ru.po | 
+ | [es](/f37/language/es) | 6263 | 7026 | 89.1 | /mnt/stockage/packages/f37/ccdciel/data/language/ccdciel.es.po/mnt/stockage/packages/f37/ccdciel/data/language/ccdciel_hints.es.po | 
+ | [en_GB](/f37/language/en_GB) | 5803 | 7026 | 82.6 | /mnt/stockage/packages/f37/ccdciel/data/language/ccdciel.en_GB.po/mnt/stockage/packages/f37/ccdciel/data/language/ccdciel_hints.en_GB.po | 
+ | [it](/f37/language/it) | 1736 | 7026 | 24.7 | /mnt/stockage/packages/f37/ccdciel/data/language/ccdciel.it.po/mnt/stockage/packages/f37/ccdciel/data/language/ccdciel_hints.it.po | 
+ | [da](/f37/language/da) | 475 | 5792 | 8.2 | /mnt/stockage/packages/f37/ccdciel/data/language/ccdciel.da.po | 
+ | [ku](/f37/language/ku) | 38 | 5792 | 0.7 | /mnt/stockage/packages/f37/ccdciel/data/language/ccdciel.ku.po | 
 {.sortable}
 
 

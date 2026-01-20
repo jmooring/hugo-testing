@@ -18,69 +18,69 @@ The package gedit-plugins (version 2.22.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f9/language/ar.md" >}}) | 191 | 191 | 100.0 | /mnt/stockage/packages/f9/gedit-plugins/po/ar.po | 
- | [az]({{< ref "/f9/language/az.md" >}}) | 294 | 294 | 100.0 | /mnt/stockage/packages/f9/gedit-plugins/po/az.po | 
- | [be_Latn]({{< ref "/f9/language/be_Latn.md" >}}) | 198 | 198 | 100.0 | /mnt/stockage/packages/f9/gedit-plugins/po/be@latin.po | 
- | [bg]({{< ref "/f9/language/bg.md" >}}) | 133 | 133 | 100.0 | /mnt/stockage/packages/f9/gedit-plugins/po/bg.po | 
- | [ca]({{< ref "/f9/language/ca.md" >}}) | 191 | 191 | 100.0 | /mnt/stockage/packages/f9/gedit-plugins/po/ca.po | 
- | [cs]({{< ref "/f9/language/cs.md" >}}) | 198 | 198 | 100.0 | /mnt/stockage/packages/f9/gedit-plugins/po/cs.po | 
- | [da]({{< ref "/f9/language/da.md" >}}) | 162 | 162 | 100.0 | /mnt/stockage/packages/f9/gedit-plugins/po/da.po | 
- | [de]({{< ref "/f9/language/de.md" >}}) | 281 | 281 | 100.0 | /mnt/stockage/packages/f9/gedit-plugins/po/de.po | 
- | [dz]({{< ref "/f9/language/dz.md" >}}) | 159 | 159 | 100.0 | /mnt/stockage/packages/f9/gedit-plugins/po/dz.po | 
- | [en_CA]({{< ref "/f9/language/en_CA.md" >}}) | 135 | 135 | 100.0 | /mnt/stockage/packages/f9/gedit-plugins/po/en_CA.po | 
- | [en_GB]({{< ref "/f9/language/en_GB.md" >}}) | 198 | 198 | 100.0 | /mnt/stockage/packages/f9/gedit-plugins/po/en_GB.po | 
- | [error]({{< ref "/f9/language/error.md" >}}) | 281 | 281 | 100.0 | /mnt/stockage/packages/f9/gedit-plugins/po/sr@Latn.po | 
- | [es]({{< ref "/f9/language/es.md" >}}) | 198 | 198 | 100.0 | /mnt/stockage/packages/f9/gedit-plugins/po/es.po | 
- | [eu]({{< ref "/f9/language/eu.md" >}}) | 3 | 3 | 100.0 | /mnt/stockage/packages/f9/gedit-plugins/po/eu.po | 
- | [fi]({{< ref "/f9/language/fi.md" >}}) | 198 | 198 | 100.0 | /mnt/stockage/packages/f9/gedit-plugins/po/fi.po | 
- | [fr]({{< ref "/f9/language/fr.md" >}}) | 198 | 198 | 100.0 | /mnt/stockage/packages/f9/gedit-plugins/po/fr.po | 
- | [gu]({{< ref "/f9/language/gu.md" >}}) | 281 | 281 | 100.0 | /mnt/stockage/packages/f9/gedit-plugins/po/gu.po | 
- | [hr]({{< ref "/f9/language/hr.md" >}}) | 281 | 281 | 100.0 | /mnt/stockage/packages/f9/gedit-plugins/po/hr.po | 
- | [hu]({{< ref "/f9/language/hu.md" >}}) | 162 | 162 | 100.0 | /mnt/stockage/packages/f9/gedit-plugins/po/hu.po | 
- | [it]({{< ref "/f9/language/it.md" >}}) | 198 | 198 | 100.0 | /mnt/stockage/packages/f9/gedit-plugins/po/it.po | 
- | [ja]({{< ref "/f9/language/ja.md" >}}) | 162 | 162 | 100.0 | /mnt/stockage/packages/f9/gedit-plugins/po/ja.po | 
- | [ko]({{< ref "/f9/language/ko.md" >}}) | 281 | 281 | 100.0 | /mnt/stockage/packages/f9/gedit-plugins/po/ko.po | 
- | [lt]({{< ref "/f9/language/lt.md" >}}) | 281 | 281 | 100.0 | /mnt/stockage/packages/f9/gedit-plugins/po/lt.po | 
- | [lv]({{< ref "/f9/language/lv.md" >}}) | 3628 | 3628 | 100.0 | /mnt/stockage/packages/f9/gedit-plugins/po/lv.po | 
- | [mn]({{< ref "/f9/language/mn.md" >}}) | 3628 | 3628 | 100.0 | /mnt/stockage/packages/f9/gedit-plugins/po/mn.po | 
- | [nb_NO]({{< ref "/f9/language/nb_NO.md" >}}) | 6 | 6 | 100.0 | /mnt/stockage/packages/f9/gedit-plugins/po/no.po/mnt/stockage/packages/f9/gedit-plugins/po/nb.po | 
- | [ne]({{< ref "/f9/language/ne.md" >}}) | 3 | 3 | 100.0 | /mnt/stockage/packages/f9/gedit-plugins/po/ne.po | 
- | [nl]({{< ref "/f9/language/nl.md" >}}) | 159 | 159 | 100.0 | /mnt/stockage/packages/f9/gedit-plugins/po/nl.po | 
- | [or]({{< ref "/f9/language/or.md" >}}) | 281 | 281 | 100.0 | /mnt/stockage/packages/f9/gedit-plugins/po/or.po | 
- | [pa]({{< ref "/f9/language/pa.md" >}}) | 281 | 281 | 100.0 | /mnt/stockage/packages/f9/gedit-plugins/po/pa.po | 
- | [pl]({{< ref "/f9/language/pl.md" >}}) | 294 | 294 | 100.0 | /mnt/stockage/packages/f9/gedit-plugins/po/pl.po | 
- | [pt]({{< ref "/f9/language/pt.md" >}}) | 162 | 162 | 100.0 | /mnt/stockage/packages/f9/gedit-plugins/po/pt.po | 
- | [pt_BR]({{< ref "/f9/language/pt_BR.md" >}}) | 191 | 191 | 100.0 | /mnt/stockage/packages/f9/gedit-plugins/po/pt_BR.po | 
- | [ro]({{< ref "/f9/language/ro.md" >}}) | 3535 | 3535 | 100.0 | /mnt/stockage/packages/f9/gedit-plugins/po/ro.po | 
- | [ru]({{< ref "/f9/language/ru.md" >}}) | 94 | 94 | 100.0 | /mnt/stockage/packages/f9/gedit-plugins/po/ru.po | 
- | [sk]({{< ref "/f9/language/sk.md" >}}) | 3 | 3 | 100.0 | /mnt/stockage/packages/f9/gedit-plugins/po/sk.po | 
- | [sl]({{< ref "/f9/language/sl.md" >}}) | 3628 | 3628 | 100.0 | /mnt/stockage/packages/f9/gedit-plugins/po/sl.po | 
- | [sq]({{< ref "/f9/language/sq.md" >}}) | 281 | 281 | 100.0 | /mnt/stockage/packages/f9/gedit-plugins/po/sq.po | 
- | [sr]({{< ref "/f9/language/sr.md" >}}) | 281 | 281 | 100.0 | /mnt/stockage/packages/f9/gedit-plugins/po/sr.po | 
- | [sv]({{< ref "/f9/language/sv.md" >}}) | 198 | 198 | 100.0 | /mnt/stockage/packages/f9/gedit-plugins/po/sv.po | 
- | [tr]({{< ref "/f9/language/tr.md" >}}) | 294 | 294 | 100.0 | /mnt/stockage/packages/f9/gedit-plugins/po/tr.po | 
- | [uk]({{< ref "/f9/language/uk.md" >}}) | 3535 | 3535 | 100.0 | /mnt/stockage/packages/f9/gedit-plugins/po/uk.po | 
- | [vi]({{< ref "/f9/language/vi.md" >}}) | 162 | 162 | 100.0 | /mnt/stockage/packages/f9/gedit-plugins/po/vi.po | 
- | [wa]({{< ref "/f9/language/wa.md" >}}) | 281 | 281 | 100.0 | /mnt/stockage/packages/f9/gedit-plugins/po/wa.po | 
- | [zh_Hans]({{< ref "/f9/language/zh_Hans.md" >}}) | 152 | 152 | 100.0 | /mnt/stockage/packages/f9/gedit-plugins/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f9/language/zh_Hant.md" >}}) | 3 | 3 | 100.0 | /mnt/stockage/packages/f9/gedit-plugins/po/zh_TW.po | 
- | [zh_Hant_HK]({{< ref "/f9/language/zh_Hant_HK.md" >}}) | 3 | 3 | 100.0 | /mnt/stockage/packages/f9/gedit-plugins/po/zh_HK.po | 
- | [el]({{< ref "/f9/language/el.md" >}}) | 143 | 162 | 88.3 | /mnt/stockage/packages/f9/gedit-plugins/po/el.po | 
- | [ms]({{< ref "/f9/language/ms.md" >}}) | 2828 | 3405 | 83.1 | /mnt/stockage/packages/f9/gedit-plugins/po/ms.po | 
- | [be]({{< ref "/f9/language/be.md" >}}) | 3081 | 3720 | 82.8 | /mnt/stockage/packages/f9/gedit-plugins/po/be.po | 
- | [ml]({{< ref "/f9/language/ml.md" >}}) | 235 | 294 | 79.9 | /mnt/stockage/packages/f9/gedit-plugins/po/ml.po | 
- | [hi]({{< ref "/f9/language/hi.md" >}}) | 207 | 281 | 73.7 | /mnt/stockage/packages/f9/gedit-plugins/po/hi.po | 
- | [he]({{< ref "/f9/language/he.md" >}}) | 2471 | 3535 | 69.9 | /mnt/stockage/packages/f9/gedit-plugins/po/he.po | 
- | [ta]({{< ref "/f9/language/ta.md" >}}) | 1494 | 2337 | 63.9 | /mnt/stockage/packages/f9/gedit-plugins/po/ta.po | 
- | [et]({{< ref "/f9/language/et.md" >}}) | 66 | 133 | 49.6 | /mnt/stockage/packages/f9/gedit-plugins/po/et.po | 
- | [kn]({{< ref "/f9/language/kn.md" >}}) | 445 | 3409 | 13.1 | /mnt/stockage/packages/f9/gedit-plugins/po/kn.po | 
- | [mk]({{< ref "/f9/language/mk.md" >}}) | 300 | 3409 | 8.8 | /mnt/stockage/packages/f9/gedit-plugins/po/mk.po | 
- | [gl]({{< ref "/f9/language/gl.md" >}}) | 116 | 2246 | 5.2 | /mnt/stockage/packages/f9/gedit-plugins/po/gl.po | 
- | [ga]({{< ref "/f9/language/ga.md" >}}) | 6 | 474 | 1.3 | /mnt/stockage/packages/f9/gedit-plugins/po/ga.po | 
- | [oc]({{< ref "/f9/language/oc.md" >}}) | 2 | 198 | 1.0 | /mnt/stockage/packages/f9/gedit-plugins/po/oc.po | 
- | [nn]({{< ref "/f9/language/nn.md" >}}) | 17 | 2246 | 0.8 | /mnt/stockage/packages/f9/gedit-plugins/po/nn.po | 
- | [rw]({{< ref "/f9/language/rw.md" >}}) | 2 | 281 | 0.7 | /mnt/stockage/packages/f9/gedit-plugins/po/rw.po | 
- | [th]({{< ref "/f9/language/th.md" >}}) | 0 | 3628 | 0.0 | /mnt/stockage/packages/f9/gedit-plugins/po/th.po | 
+ | [ar](/f9/language/ar) | 191 | 191 | 100.0 | /mnt/stockage/packages/f9/gedit-plugins/po/ar.po | 
+ | [az](/f9/language/az) | 294 | 294 | 100.0 | /mnt/stockage/packages/f9/gedit-plugins/po/az.po | 
+ | [be_Latn](/f9/language/be_Latn) | 198 | 198 | 100.0 | /mnt/stockage/packages/f9/gedit-plugins/po/be@latin.po | 
+ | [bg](/f9/language/bg) | 133 | 133 | 100.0 | /mnt/stockage/packages/f9/gedit-plugins/po/bg.po | 
+ | [ca](/f9/language/ca) | 191 | 191 | 100.0 | /mnt/stockage/packages/f9/gedit-plugins/po/ca.po | 
+ | [cs](/f9/language/cs) | 198 | 198 | 100.0 | /mnt/stockage/packages/f9/gedit-plugins/po/cs.po | 
+ | [da](/f9/language/da) | 162 | 162 | 100.0 | /mnt/stockage/packages/f9/gedit-plugins/po/da.po | 
+ | [de](/f9/language/de) | 281 | 281 | 100.0 | /mnt/stockage/packages/f9/gedit-plugins/po/de.po | 
+ | [dz](/f9/language/dz) | 159 | 159 | 100.0 | /mnt/stockage/packages/f9/gedit-plugins/po/dz.po | 
+ | [en_CA](/f9/language/en_CA) | 135 | 135 | 100.0 | /mnt/stockage/packages/f9/gedit-plugins/po/en_CA.po | 
+ | [en_GB](/f9/language/en_GB) | 198 | 198 | 100.0 | /mnt/stockage/packages/f9/gedit-plugins/po/en_GB.po | 
+ | [error](/f9/language/error) | 281 | 281 | 100.0 | /mnt/stockage/packages/f9/gedit-plugins/po/sr@Latn.po | 
+ | [es](/f9/language/es) | 198 | 198 | 100.0 | /mnt/stockage/packages/f9/gedit-plugins/po/es.po | 
+ | [eu](/f9/language/eu) | 3 | 3 | 100.0 | /mnt/stockage/packages/f9/gedit-plugins/po/eu.po | 
+ | [fi](/f9/language/fi) | 198 | 198 | 100.0 | /mnt/stockage/packages/f9/gedit-plugins/po/fi.po | 
+ | [fr](/f9/language/fr) | 198 | 198 | 100.0 | /mnt/stockage/packages/f9/gedit-plugins/po/fr.po | 
+ | [gu](/f9/language/gu) | 281 | 281 | 100.0 | /mnt/stockage/packages/f9/gedit-plugins/po/gu.po | 
+ | [hr](/f9/language/hr) | 281 | 281 | 100.0 | /mnt/stockage/packages/f9/gedit-plugins/po/hr.po | 
+ | [hu](/f9/language/hu) | 162 | 162 | 100.0 | /mnt/stockage/packages/f9/gedit-plugins/po/hu.po | 
+ | [it](/f9/language/it) | 198 | 198 | 100.0 | /mnt/stockage/packages/f9/gedit-plugins/po/it.po | 
+ | [ja](/f9/language/ja) | 162 | 162 | 100.0 | /mnt/stockage/packages/f9/gedit-plugins/po/ja.po | 
+ | [ko](/f9/language/ko) | 281 | 281 | 100.0 | /mnt/stockage/packages/f9/gedit-plugins/po/ko.po | 
+ | [lt](/f9/language/lt) | 281 | 281 | 100.0 | /mnt/stockage/packages/f9/gedit-plugins/po/lt.po | 
+ | [lv](/f9/language/lv) | 3628 | 3628 | 100.0 | /mnt/stockage/packages/f9/gedit-plugins/po/lv.po | 
+ | [mn](/f9/language/mn) | 3628 | 3628 | 100.0 | /mnt/stockage/packages/f9/gedit-plugins/po/mn.po | 
+ | [nb_NO](/f9/language/nb_NO) | 6 | 6 | 100.0 | /mnt/stockage/packages/f9/gedit-plugins/po/no.po/mnt/stockage/packages/f9/gedit-plugins/po/nb.po | 
+ | [ne](/f9/language/ne) | 3 | 3 | 100.0 | /mnt/stockage/packages/f9/gedit-plugins/po/ne.po | 
+ | [nl](/f9/language/nl) | 159 | 159 | 100.0 | /mnt/stockage/packages/f9/gedit-plugins/po/nl.po | 
+ | [or](/f9/language/or) | 281 | 281 | 100.0 | /mnt/stockage/packages/f9/gedit-plugins/po/or.po | 
+ | [pa](/f9/language/pa) | 281 | 281 | 100.0 | /mnt/stockage/packages/f9/gedit-plugins/po/pa.po | 
+ | [pl](/f9/language/pl) | 294 | 294 | 100.0 | /mnt/stockage/packages/f9/gedit-plugins/po/pl.po | 
+ | [pt](/f9/language/pt) | 162 | 162 | 100.0 | /mnt/stockage/packages/f9/gedit-plugins/po/pt.po | 
+ | [pt_BR](/f9/language/pt_BR) | 191 | 191 | 100.0 | /mnt/stockage/packages/f9/gedit-plugins/po/pt_BR.po | 
+ | [ro](/f9/language/ro) | 3535 | 3535 | 100.0 | /mnt/stockage/packages/f9/gedit-plugins/po/ro.po | 
+ | [ru](/f9/language/ru) | 94 | 94 | 100.0 | /mnt/stockage/packages/f9/gedit-plugins/po/ru.po | 
+ | [sk](/f9/language/sk) | 3 | 3 | 100.0 | /mnt/stockage/packages/f9/gedit-plugins/po/sk.po | 
+ | [sl](/f9/language/sl) | 3628 | 3628 | 100.0 | /mnt/stockage/packages/f9/gedit-plugins/po/sl.po | 
+ | [sq](/f9/language/sq) | 281 | 281 | 100.0 | /mnt/stockage/packages/f9/gedit-plugins/po/sq.po | 
+ | [sr](/f9/language/sr) | 281 | 281 | 100.0 | /mnt/stockage/packages/f9/gedit-plugins/po/sr.po | 
+ | [sv](/f9/language/sv) | 198 | 198 | 100.0 | /mnt/stockage/packages/f9/gedit-plugins/po/sv.po | 
+ | [tr](/f9/language/tr) | 294 | 294 | 100.0 | /mnt/stockage/packages/f9/gedit-plugins/po/tr.po | 
+ | [uk](/f9/language/uk) | 3535 | 3535 | 100.0 | /mnt/stockage/packages/f9/gedit-plugins/po/uk.po | 
+ | [vi](/f9/language/vi) | 162 | 162 | 100.0 | /mnt/stockage/packages/f9/gedit-plugins/po/vi.po | 
+ | [wa](/f9/language/wa) | 281 | 281 | 100.0 | /mnt/stockage/packages/f9/gedit-plugins/po/wa.po | 
+ | [zh_Hans](/f9/language/zh_Hans) | 152 | 152 | 100.0 | /mnt/stockage/packages/f9/gedit-plugins/po/zh_CN.po | 
+ | [zh_Hant](/f9/language/zh_Hant) | 3 | 3 | 100.0 | /mnt/stockage/packages/f9/gedit-plugins/po/zh_TW.po | 
+ | [zh_Hant_HK](/f9/language/zh_Hant_HK) | 3 | 3 | 100.0 | /mnt/stockage/packages/f9/gedit-plugins/po/zh_HK.po | 
+ | [el](/f9/language/el) | 143 | 162 | 88.3 | /mnt/stockage/packages/f9/gedit-plugins/po/el.po | 
+ | [ms](/f9/language/ms) | 2828 | 3405 | 83.1 | /mnt/stockage/packages/f9/gedit-plugins/po/ms.po | 
+ | [be](/f9/language/be) | 3081 | 3720 | 82.8 | /mnt/stockage/packages/f9/gedit-plugins/po/be.po | 
+ | [ml](/f9/language/ml) | 235 | 294 | 79.9 | /mnt/stockage/packages/f9/gedit-plugins/po/ml.po | 
+ | [hi](/f9/language/hi) | 207 | 281 | 73.7 | /mnt/stockage/packages/f9/gedit-plugins/po/hi.po | 
+ | [he](/f9/language/he) | 2471 | 3535 | 69.9 | /mnt/stockage/packages/f9/gedit-plugins/po/he.po | 
+ | [ta](/f9/language/ta) | 1494 | 2337 | 63.9 | /mnt/stockage/packages/f9/gedit-plugins/po/ta.po | 
+ | [et](/f9/language/et) | 66 | 133 | 49.6 | /mnt/stockage/packages/f9/gedit-plugins/po/et.po | 
+ | [kn](/f9/language/kn) | 445 | 3409 | 13.1 | /mnt/stockage/packages/f9/gedit-plugins/po/kn.po | 
+ | [mk](/f9/language/mk) | 300 | 3409 | 8.8 | /mnt/stockage/packages/f9/gedit-plugins/po/mk.po | 
+ | [gl](/f9/language/gl) | 116 | 2246 | 5.2 | /mnt/stockage/packages/f9/gedit-plugins/po/gl.po | 
+ | [ga](/f9/language/ga) | 6 | 474 | 1.3 | /mnt/stockage/packages/f9/gedit-plugins/po/ga.po | 
+ | [oc](/f9/language/oc) | 2 | 198 | 1.0 | /mnt/stockage/packages/f9/gedit-plugins/po/oc.po | 
+ | [nn](/f9/language/nn) | 17 | 2246 | 0.8 | /mnt/stockage/packages/f9/gedit-plugins/po/nn.po | 
+ | [rw](/f9/language/rw) | 2 | 281 | 0.7 | /mnt/stockage/packages/f9/gedit-plugins/po/rw.po | 
+ | [th](/f9/language/th) | 0 | 3628 | 0.0 | /mnt/stockage/packages/f9/gedit-plugins/po/th.po | 
 {.sortable}
 
 

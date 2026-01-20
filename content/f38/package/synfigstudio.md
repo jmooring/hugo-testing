@@ -18,48 +18,48 @@ The package synfigstudio (version 1.5.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f38/language/ar.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f38/synfigstudio/po/ar.po | 
- | [bs]({{< ref "/f38/language/bs.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f38/synfigstudio/po/bs.po | 
- | [ca]({{< ref "/f38/language/ca.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f38/synfigstudio/po/ca.po | 
- | [ca@valencia]({{< ref "/f38/language/ca@valencia.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f38/synfigstudio/po/ca@valencia.po | 
- | [cs]({{< ref "/f38/language/cs.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f38/synfigstudio/po/cs.po | 
- | [da]({{< ref "/f38/language/da.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f38/synfigstudio/po/da.po | 
- | [de]({{< ref "/f38/language/de.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f38/synfigstudio/po/de.po | 
- | [el]({{< ref "/f38/language/el.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f38/synfigstudio/po/el_GR.po | 
- | [en_GB]({{< ref "/f38/language/en_GB.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f38/synfigstudio/po/en_GB.po | 
- | [error]({{< ref "/f38/language/error.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f38/synfigstudio/po/es_PY.po | 
- | [es]({{< ref "/f38/language/es.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f38/synfigstudio/po/es.po | 
- | [eu]({{< ref "/f38/language/eu.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f38/synfigstudio/po/eu_ES.po/mnt/stockage/packages/f38/synfigstudio/po/eu.po | 
- | [fa]({{< ref "/f38/language/fa.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f38/synfigstudio/po/fa_IR.po | 
- | [fr]({{< ref "/f38/language/fr.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f38/synfigstudio/po/fr.po | 
- | [gl]({{< ref "/f38/language/gl.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f38/synfigstudio/po/gl.po | 
- | [he]({{< ref "/f38/language/he.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f38/synfigstudio/po/he.po | 
- | [hi]({{< ref "/f38/language/hi.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f38/synfigstudio/po/hi.po | 
- | [hu]({{< ref "/f38/language/hu.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f38/synfigstudio/po/hu.po | 
- | [it]({{< ref "/f38/language/it.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f38/synfigstudio/po/it.po | 
- | [ja]({{< ref "/f38/language/ja.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f38/synfigstudio/po/ja_JP.po | 
- | [kab]({{< ref "/f38/language/kab.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f38/synfigstudio/po/kab.po | 
- | [ko]({{< ref "/f38/language/ko.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f38/synfigstudio/po/ko_KR.po | 
- | [lt]({{< ref "/f38/language/lt.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f38/synfigstudio/po/lt.po | 
- | [lv]({{< ref "/f38/language/lv.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f38/synfigstudio/po/lv.po | 
- | [nb_NO]({{< ref "/f38/language/nb_NO.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f38/synfigstudio/po/nb.po | 
- | [nl]({{< ref "/f38/language/nl.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f38/synfigstudio/po/nl.po | 
- | [pl]({{< ref "/f38/language/pl.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f38/synfigstudio/po/pl_PL.po | 
- | [pt]({{< ref "/f38/language/pt.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f38/synfigstudio/po/pt.po | 
- | [pt_BR]({{< ref "/f38/language/pt_BR.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f38/synfigstudio/po/pt_BR.po | 
- | [ro]({{< ref "/f38/language/ro.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f38/synfigstudio/po/ro.po | 
- | [ru]({{< ref "/f38/language/ru.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f38/synfigstudio/po/ru.po | 
- | [si]({{< ref "/f38/language/si.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f38/synfigstudio/po/si.po | 
- | [sk]({{< ref "/f38/language/sk.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f38/synfigstudio/po/sk.po/mnt/stockage/packages/f38/synfigstudio/po/sk_SK.po | 
- | [sl]({{< ref "/f38/language/sl.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f38/synfigstudio/po/sl.po | 
- | [sr]({{< ref "/f38/language/sr.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f38/synfigstudio/po/sr_RS.po | 
- | [sv]({{< ref "/f38/language/sv.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f38/synfigstudio/po/sv_SE.po | 
- | [tr]({{< ref "/f38/language/tr.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f38/synfigstudio/po/tr.po | 
- | [uk]({{< ref "/f38/language/uk.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f38/synfigstudio/po/uk.po | 
- | [ur]({{< ref "/f38/language/ur.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f38/synfigstudio/po/ur.po | 
- | [uz_Latn]({{< ref "/f38/language/uz_Latn.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f38/synfigstudio/po/uz@Latn.po | 
- | [zh_Hans]({{< ref "/f38/language/zh_Hans.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f38/synfigstudio/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f38/language/zh_Hant.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f38/synfigstudio/po/zh_TW.po/mnt/stockage/packages/f38/synfigstudio/po/zh-Hant.po | 
+ | [ar](/f38/language/ar) | 0 | 0 | 0.0 | /mnt/stockage/packages/f38/synfigstudio/po/ar.po | 
+ | [bs](/f38/language/bs) | 0 | 0 | 0.0 | /mnt/stockage/packages/f38/synfigstudio/po/bs.po | 
+ | [ca](/f38/language/ca) | 0 | 0 | 0.0 | /mnt/stockage/packages/f38/synfigstudio/po/ca.po | 
+ | [ca@valencia](/f38/language/ca@valencia) | 0 | 0 | 0.0 | /mnt/stockage/packages/f38/synfigstudio/po/ca@valencia.po | 
+ | [cs](/f38/language/cs) | 0 | 0 | 0.0 | /mnt/stockage/packages/f38/synfigstudio/po/cs.po | 
+ | [da](/f38/language/da) | 0 | 0 | 0.0 | /mnt/stockage/packages/f38/synfigstudio/po/da.po | 
+ | [de](/f38/language/de) | 0 | 0 | 0.0 | /mnt/stockage/packages/f38/synfigstudio/po/de.po | 
+ | [el](/f38/language/el) | 0 | 0 | 0.0 | /mnt/stockage/packages/f38/synfigstudio/po/el_GR.po | 
+ | [en_GB](/f38/language/en_GB) | 0 | 0 | 0.0 | /mnt/stockage/packages/f38/synfigstudio/po/en_GB.po | 
+ | [error](/f38/language/error) | 0 | 0 | 0.0 | /mnt/stockage/packages/f38/synfigstudio/po/es_PY.po | 
+ | [es](/f38/language/es) | 0 | 0 | 0.0 | /mnt/stockage/packages/f38/synfigstudio/po/es.po | 
+ | [eu](/f38/language/eu) | 0 | 0 | 0.0 | /mnt/stockage/packages/f38/synfigstudio/po/eu_ES.po/mnt/stockage/packages/f38/synfigstudio/po/eu.po | 
+ | [fa](/f38/language/fa) | 0 | 0 | 0.0 | /mnt/stockage/packages/f38/synfigstudio/po/fa_IR.po | 
+ | [fr](/f38/language/fr) | 0 | 0 | 0.0 | /mnt/stockage/packages/f38/synfigstudio/po/fr.po | 
+ | [gl](/f38/language/gl) | 0 | 0 | 0.0 | /mnt/stockage/packages/f38/synfigstudio/po/gl.po | 
+ | [he](/f38/language/he) | 0 | 0 | 0.0 | /mnt/stockage/packages/f38/synfigstudio/po/he.po | 
+ | [hi](/f38/language/hi) | 0 | 0 | 0.0 | /mnt/stockage/packages/f38/synfigstudio/po/hi.po | 
+ | [hu](/f38/language/hu) | 0 | 0 | 0.0 | /mnt/stockage/packages/f38/synfigstudio/po/hu.po | 
+ | [it](/f38/language/it) | 0 | 0 | 0.0 | /mnt/stockage/packages/f38/synfigstudio/po/it.po | 
+ | [ja](/f38/language/ja) | 0 | 0 | 0.0 | /mnt/stockage/packages/f38/synfigstudio/po/ja_JP.po | 
+ | [kab](/f38/language/kab) | 0 | 0 | 0.0 | /mnt/stockage/packages/f38/synfigstudio/po/kab.po | 
+ | [ko](/f38/language/ko) | 0 | 0 | 0.0 | /mnt/stockage/packages/f38/synfigstudio/po/ko_KR.po | 
+ | [lt](/f38/language/lt) | 0 | 0 | 0.0 | /mnt/stockage/packages/f38/synfigstudio/po/lt.po | 
+ | [lv](/f38/language/lv) | 0 | 0 | 0.0 | /mnt/stockage/packages/f38/synfigstudio/po/lv.po | 
+ | [nb_NO](/f38/language/nb_NO) | 0 | 0 | 0.0 | /mnt/stockage/packages/f38/synfigstudio/po/nb.po | 
+ | [nl](/f38/language/nl) | 0 | 0 | 0.0 | /mnt/stockage/packages/f38/synfigstudio/po/nl.po | 
+ | [pl](/f38/language/pl) | 0 | 0 | 0.0 | /mnt/stockage/packages/f38/synfigstudio/po/pl_PL.po | 
+ | [pt](/f38/language/pt) | 0 | 0 | 0.0 | /mnt/stockage/packages/f38/synfigstudio/po/pt.po | 
+ | [pt_BR](/f38/language/pt_BR) | 0 | 0 | 0.0 | /mnt/stockage/packages/f38/synfigstudio/po/pt_BR.po | 
+ | [ro](/f38/language/ro) | 0 | 0 | 0.0 | /mnt/stockage/packages/f38/synfigstudio/po/ro.po | 
+ | [ru](/f38/language/ru) | 0 | 0 | 0.0 | /mnt/stockage/packages/f38/synfigstudio/po/ru.po | 
+ | [si](/f38/language/si) | 0 | 0 | 0.0 | /mnt/stockage/packages/f38/synfigstudio/po/si.po | 
+ | [sk](/f38/language/sk) | 0 | 0 | 0.0 | /mnt/stockage/packages/f38/synfigstudio/po/sk.po/mnt/stockage/packages/f38/synfigstudio/po/sk_SK.po | 
+ | [sl](/f38/language/sl) | 0 | 0 | 0.0 | /mnt/stockage/packages/f38/synfigstudio/po/sl.po | 
+ | [sr](/f38/language/sr) | 0 | 0 | 0.0 | /mnt/stockage/packages/f38/synfigstudio/po/sr_RS.po | 
+ | [sv](/f38/language/sv) | 0 | 0 | 0.0 | /mnt/stockage/packages/f38/synfigstudio/po/sv_SE.po | 
+ | [tr](/f38/language/tr) | 0 | 0 | 0.0 | /mnt/stockage/packages/f38/synfigstudio/po/tr.po | 
+ | [uk](/f38/language/uk) | 0 | 0 | 0.0 | /mnt/stockage/packages/f38/synfigstudio/po/uk.po | 
+ | [ur](/f38/language/ur) | 0 | 0 | 0.0 | /mnt/stockage/packages/f38/synfigstudio/po/ur.po | 
+ | [uz_Latn](/f38/language/uz_Latn) | 0 | 0 | 0.0 | /mnt/stockage/packages/f38/synfigstudio/po/uz@Latn.po | 
+ | [zh_Hans](/f38/language/zh_Hans) | 0 | 0 | 0.0 | /mnt/stockage/packages/f38/synfigstudio/po/zh_CN.po | 
+ | [zh_Hant](/f38/language/zh_Hant) | 0 | 0 | 0.0 | /mnt/stockage/packages/f38/synfigstudio/po/zh_TW.po/mnt/stockage/packages/f38/synfigstudio/po/zh-Hant.po | 
 {.sortable}
 
 

@@ -18,19 +18,19 @@ The package wildcard (version 0.3.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f42/language/ar.md" >}}) | 29 | 29 | 100.0 | /mnt/stockage/packages/f42/wildcard/po/ar.po | 
- | [de]({{< ref "/f42/language/de.md" >}}) | 40 | 40 | 100.0 | /mnt/stockage/packages/f42/wildcard/po/de.po | 
- | [eu]({{< ref "/f42/language/eu.md" >}}) | 127 | 127 | 100.0 | /mnt/stockage/packages/f42/wildcard/po/eu.po | 
- | [fr]({{< ref "/f42/language/fr.md" >}}) | 29 | 29 | 100.0 | /mnt/stockage/packages/f42/wildcard/po/fr.po | 
- | [it]({{< ref "/f42/language/it.md" >}}) | 29 | 29 | 100.0 | /mnt/stockage/packages/f42/wildcard/po/it.po | 
- | [oc]({{< ref "/f42/language/oc.md" >}}) | 29 | 29 | 100.0 | /mnt/stockage/packages/f42/wildcard/po/oc.po | 
- | [pt_BR]({{< ref "/f42/language/pt_BR.md" >}}) | 29 | 29 | 100.0 | /mnt/stockage/packages/f42/wildcard/po/pt_BR.po | 
- | [ru]({{< ref "/f42/language/ru.md" >}}) | 71 | 71 | 100.0 | /mnt/stockage/packages/f42/wildcard/po/ru.po | 
- | [sv]({{< ref "/f42/language/sv.md" >}}) | 127 | 127 | 100.0 | /mnt/stockage/packages/f42/wildcard/po/sv.po | 
- | [uk]({{< ref "/f42/language/uk.md" >}}) | 127 | 127 | 100.0 | /mnt/stockage/packages/f42/wildcard/po/uk.po | 
- | [es]({{< ref "/f42/language/es.md" >}}) | 69 | 71 | 97.2 | /mnt/stockage/packages/f42/wildcard/po/es.po | 
- | [tr]({{< ref "/f42/language/tr.md" >}}) | 121 | 127 | 95.3 | /mnt/stockage/packages/f42/wildcard/po/tr.po | 
- | [fi]({{< ref "/f42/language/fi.md" >}}) | 46 | 71 | 64.8 | /mnt/stockage/packages/f42/wildcard/po/fi.po | 
+ | [ar](/f42/language/ar) | 29 | 29 | 100.0 | /mnt/stockage/packages/f42/wildcard/po/ar.po | 
+ | [de](/f42/language/de) | 40 | 40 | 100.0 | /mnt/stockage/packages/f42/wildcard/po/de.po | 
+ | [eu](/f42/language/eu) | 127 | 127 | 100.0 | /mnt/stockage/packages/f42/wildcard/po/eu.po | 
+ | [fr](/f42/language/fr) | 29 | 29 | 100.0 | /mnt/stockage/packages/f42/wildcard/po/fr.po | 
+ | [it](/f42/language/it) | 29 | 29 | 100.0 | /mnt/stockage/packages/f42/wildcard/po/it.po | 
+ | [oc](/f42/language/oc) | 29 | 29 | 100.0 | /mnt/stockage/packages/f42/wildcard/po/oc.po | 
+ | [pt_BR](/f42/language/pt_BR) | 29 | 29 | 100.0 | /mnt/stockage/packages/f42/wildcard/po/pt_BR.po | 
+ | [ru](/f42/language/ru) | 71 | 71 | 100.0 | /mnt/stockage/packages/f42/wildcard/po/ru.po | 
+ | [sv](/f42/language/sv) | 127 | 127 | 100.0 | /mnt/stockage/packages/f42/wildcard/po/sv.po | 
+ | [uk](/f42/language/uk) | 127 | 127 | 100.0 | /mnt/stockage/packages/f42/wildcard/po/uk.po | 
+ | [es](/f42/language/es) | 69 | 71 | 97.2 | /mnt/stockage/packages/f42/wildcard/po/es.po | 
+ | [tr](/f42/language/tr) | 121 | 127 | 95.3 | /mnt/stockage/packages/f42/wildcard/po/tr.po | 
+ | [fi](/f42/language/fi) | 46 | 71 | 64.8 | /mnt/stockage/packages/f42/wildcard/po/fi.po | 
 {.sortable}
 
 

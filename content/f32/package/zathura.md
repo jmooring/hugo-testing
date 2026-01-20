@@ -18,30 +18,30 @@ The package zathura (version 0.4.5):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [nl]({{< ref "/f32/language/nl.md" >}}) | 725 | 725 | 100.0 | /mnt/stockage/packages/f32/zathura/po/nl.po | 
- | [ru]({{< ref "/f32/language/ru.md" >}}) | 725 | 725 | 100.0 | /mnt/stockage/packages/f32/zathura/po/ru.po | 
- | [sv]({{< ref "/f32/language/sv.md" >}}) | 723 | 725 | 99.7 | /mnt/stockage/packages/f32/zathura/po/sv.po | 
- | [de]({{< ref "/f32/language/de.md" >}}) | 722 | 725 | 99.6 | /mnt/stockage/packages/f32/zathura/po/de.po | 
- | [it]({{< ref "/f32/language/it.md" >}}) | 717 | 725 | 98.9 | /mnt/stockage/packages/f32/zathura/po/it.po | 
- | [ar]({{< ref "/f32/language/ar.md" >}}) | 708 | 725 | 97.7 | /mnt/stockage/packages/f32/zathura/po/ar.po | 
- | [cs]({{< ref "/f32/language/cs.md" >}}) | 700 | 725 | 96.6 | /mnt/stockage/packages/f32/zathura/po/cs.po | 
- | [id]({{< ref "/f32/language/id.md" >}}) | 540 | 725 | 74.5 | /mnt/stockage/packages/f32/zathura/po/id_ID.po | 
- | [pt_BR]({{< ref "/f32/language/pt_BR.md" >}}) | 540 | 725 | 74.5 | /mnt/stockage/packages/f32/zathura/po/pt_BR.po | 
- | [fr]({{< ref "/f32/language/fr.md" >}}) | 470 | 725 | 64.8 | /mnt/stockage/packages/f32/zathura/po/fr.po | 
- | [pl]({{< ref "/f32/language/pl.md" >}}) | 405 | 725 | 55.9 | /mnt/stockage/packages/f32/zathura/po/pl.po | 
- | [tr]({{< ref "/f32/language/tr.md" >}}) | 394 | 725 | 54.3 | /mnt/stockage/packages/f32/zathura/po/tr.po | 
- | [nb_NO]({{< ref "/f32/language/nb_NO.md" >}}) | 377 | 725 | 52.0 | /mnt/stockage/packages/f32/zathura/po/no.po | 
- | [lt]({{< ref "/f32/language/lt.md" >}}) | 370 | 725 | 51.0 | /mnt/stockage/packages/f32/zathura/po/lt.po | 
- | [ca]({{< ref "/f32/language/ca.md" >}}) | 364 | 725 | 50.2 | /mnt/stockage/packages/f32/zathura/po/ca.po | 
- | [es]({{< ref "/f32/language/es.md" >}}) | 344 | 725 | 47.4 | /mnt/stockage/packages/f32/zathura/po/es.po | 
- | [el]({{< ref "/f32/language/el.md" >}}) | 332 | 725 | 45.8 | /mnt/stockage/packages/f32/zathura/po/el.po | 
- | [es_CL]({{< ref "/f32/language/es_CL.md" >}}) | 242 | 725 | 33.4 | /mnt/stockage/packages/f32/zathura/po/es_CL.po | 
- | [eo]({{< ref "/f32/language/eo.md" >}}) | 238 | 725 | 32.8 | /mnt/stockage/packages/f32/zathura/po/eo.po | 
- | [uk]({{< ref "/f32/language/uk.md" >}}) | 229 | 725 | 31.6 | /mnt/stockage/packages/f32/zathura/po/uk_UA.po | 
- | [ta]({{< ref "/f32/language/ta.md" >}}) | 130 | 725 | 17.9 | /mnt/stockage/packages/f32/zathura/po/ta_IN.po | 
- | [et]({{< ref "/f32/language/et.md" >}}) | 49 | 725 | 6.8 | /mnt/stockage/packages/f32/zathura/po/et.po | 
- | [he]({{< ref "/f32/language/he.md" >}}) | 5 | 725 | 0.7 | /mnt/stockage/packages/f32/zathura/po/he.po | 
- | [hr]({{< ref "/f32/language/hr.md" >}}) | 0 | 725 | 0.0 | /mnt/stockage/packages/f32/zathura/po/hr.po | 
+ | [nl](/f32/language/nl) | 725 | 725 | 100.0 | /mnt/stockage/packages/f32/zathura/po/nl.po | 
+ | [ru](/f32/language/ru) | 725 | 725 | 100.0 | /mnt/stockage/packages/f32/zathura/po/ru.po | 
+ | [sv](/f32/language/sv) | 723 | 725 | 99.7 | /mnt/stockage/packages/f32/zathura/po/sv.po | 
+ | [de](/f32/language/de) | 722 | 725 | 99.6 | /mnt/stockage/packages/f32/zathura/po/de.po | 
+ | [it](/f32/language/it) | 717 | 725 | 98.9 | /mnt/stockage/packages/f32/zathura/po/it.po | 
+ | [ar](/f32/language/ar) | 708 | 725 | 97.7 | /mnt/stockage/packages/f32/zathura/po/ar.po | 
+ | [cs](/f32/language/cs) | 700 | 725 | 96.6 | /mnt/stockage/packages/f32/zathura/po/cs.po | 
+ | [id](/f32/language/id) | 540 | 725 | 74.5 | /mnt/stockage/packages/f32/zathura/po/id_ID.po | 
+ | [pt_BR](/f32/language/pt_BR) | 540 | 725 | 74.5 | /mnt/stockage/packages/f32/zathura/po/pt_BR.po | 
+ | [fr](/f32/language/fr) | 470 | 725 | 64.8 | /mnt/stockage/packages/f32/zathura/po/fr.po | 
+ | [pl](/f32/language/pl) | 405 | 725 | 55.9 | /mnt/stockage/packages/f32/zathura/po/pl.po | 
+ | [tr](/f32/language/tr) | 394 | 725 | 54.3 | /mnt/stockage/packages/f32/zathura/po/tr.po | 
+ | [nb_NO](/f32/language/nb_NO) | 377 | 725 | 52.0 | /mnt/stockage/packages/f32/zathura/po/no.po | 
+ | [lt](/f32/language/lt) | 370 | 725 | 51.0 | /mnt/stockage/packages/f32/zathura/po/lt.po | 
+ | [ca](/f32/language/ca) | 364 | 725 | 50.2 | /mnt/stockage/packages/f32/zathura/po/ca.po | 
+ | [es](/f32/language/es) | 344 | 725 | 47.4 | /mnt/stockage/packages/f32/zathura/po/es.po | 
+ | [el](/f32/language/el) | 332 | 725 | 45.8 | /mnt/stockage/packages/f32/zathura/po/el.po | 
+ | [es_CL](/f32/language/es_CL) | 242 | 725 | 33.4 | /mnt/stockage/packages/f32/zathura/po/es_CL.po | 
+ | [eo](/f32/language/eo) | 238 | 725 | 32.8 | /mnt/stockage/packages/f32/zathura/po/eo.po | 
+ | [uk](/f32/language/uk) | 229 | 725 | 31.6 | /mnt/stockage/packages/f32/zathura/po/uk_UA.po | 
+ | [ta](/f32/language/ta) | 130 | 725 | 17.9 | /mnt/stockage/packages/f32/zathura/po/ta_IN.po | 
+ | [et](/f32/language/et) | 49 | 725 | 6.8 | /mnt/stockage/packages/f32/zathura/po/et.po | 
+ | [he](/f32/language/he) | 5 | 725 | 0.7 | /mnt/stockage/packages/f32/zathura/po/he.po | 
+ | [hr](/f32/language/hr) | 0 | 725 | 0.0 | /mnt/stockage/packages/f32/zathura/po/hr.po | 
 {.sortable}
 
 

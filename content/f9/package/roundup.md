@@ -18,16 +18,16 @@ The package roundup (version 1.4.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [es]({{< ref "/f9/language/es.md" >}}) | 4668 | 4668 | 100.0 | /mnt/stockage/packages/f9/roundup/locale/es.po | 
- | [lt]({{< ref "/f9/language/lt.md" >}}) | 4520 | 4520 | 100.0 | /mnt/stockage/packages/f9/roundup/locale/lt.po | 
- | [ru]({{< ref "/f9/language/ru.md" >}}) | 4647 | 4668 | 99.6 | /mnt/stockage/packages/f9/roundup/locale/ru.po | 
- | [zh_Hans]({{< ref "/f9/language/zh_Hans.md" >}}) | 3631 | 3652 | 99.4 | /mnt/stockage/packages/f9/roundup/locale/zh_CN.po | 
- | [zh_Hant]({{< ref "/f9/language/zh_Hant.md" >}}) | 3631 | 3652 | 99.4 | /mnt/stockage/packages/f9/roundup/locale/zh_TW.po | 
- | [de]({{< ref "/f9/language/de.md" >}}) | 4033 | 4413 | 91.4 | /mnt/stockage/packages/f9/roundup/locale/de.po | 
- | [fr]({{< ref "/f9/language/fr.md" >}}) | 3890 | 4363 | 89.2 | /mnt/stockage/packages/f9/roundup/locale/fr.po | 
- | [hu]({{< ref "/f9/language/hu.md" >}}) | 2016 | 4803 | 42.0 | /mnt/stockage/packages/f9/roundup/locale/hu.po | 
- | [it]({{< ref "/f9/language/it.md" >}}) | 1814 | 4549 | 39.9 | /mnt/stockage/packages/f9/roundup/locale/it.po | 
- | [en]({{< ref "/f9/language/en.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f9/roundup/locale/en.po | 
+ | [es](/f9/language/es) | 4668 | 4668 | 100.0 | /mnt/stockage/packages/f9/roundup/locale/es.po | 
+ | [lt](/f9/language/lt) | 4520 | 4520 | 100.0 | /mnt/stockage/packages/f9/roundup/locale/lt.po | 
+ | [ru](/f9/language/ru) | 4647 | 4668 | 99.6 | /mnt/stockage/packages/f9/roundup/locale/ru.po | 
+ | [zh_Hans](/f9/language/zh_Hans) | 3631 | 3652 | 99.4 | /mnt/stockage/packages/f9/roundup/locale/zh_CN.po | 
+ | [zh_Hant](/f9/language/zh_Hant) | 3631 | 3652 | 99.4 | /mnt/stockage/packages/f9/roundup/locale/zh_TW.po | 
+ | [de](/f9/language/de) | 4033 | 4413 | 91.4 | /mnt/stockage/packages/f9/roundup/locale/de.po | 
+ | [fr](/f9/language/fr) | 3890 | 4363 | 89.2 | /mnt/stockage/packages/f9/roundup/locale/fr.po | 
+ | [hu](/f9/language/hu) | 2016 | 4803 | 42.0 | /mnt/stockage/packages/f9/roundup/locale/hu.po | 
+ | [it](/f9/language/it) | 1814 | 4549 | 39.9 | /mnt/stockage/packages/f9/roundup/locale/it.po | 
+ | [en](/f9/language/en) | 0 | 0 | 0.0 | /mnt/stockage/packages/f9/roundup/locale/en.po | 
 {.sortable}
 
 

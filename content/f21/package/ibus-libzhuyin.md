@@ -18,9 +18,9 @@ The package ibus-libzhuyin (version 1.7.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [zh_Hans]({{< ref "/f21/language/zh_Hans.md" >}}) | 190 | 220 | 86.4 | /mnt/stockage/packages/f21/ibus-libzhuyin/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f21/language/zh_Hant.md" >}}) | 190 | 220 | 86.4 | /mnt/stockage/packages/f21/ibus-libzhuyin/po/zh_TW.po | 
- | [zh_Hant_HK]({{< ref "/f21/language/zh_Hant_HK.md" >}}) | 190 | 220 | 86.4 | /mnt/stockage/packages/f21/ibus-libzhuyin/po/zh_HK.po | 
+ | [zh_Hans](/f21/language/zh_Hans) | 190 | 220 | 86.4 | /mnt/stockage/packages/f21/ibus-libzhuyin/po/zh_CN.po | 
+ | [zh_Hant](/f21/language/zh_Hant) | 190 | 220 | 86.4 | /mnt/stockage/packages/f21/ibus-libzhuyin/po/zh_TW.po | 
+ | [zh_Hant_HK](/f21/language/zh_Hant_HK) | 190 | 220 | 86.4 | /mnt/stockage/packages/f21/ibus-libzhuyin/po/zh_HK.po | 
 {.sortable}
 
 

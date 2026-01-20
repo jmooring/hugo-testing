@@ -18,21 +18,21 @@ The package libidn (version 0.6.14):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [error]({{< ref "/f10/language/error.md" >}}) | 430 | 430 | 100.0 | /mnt/stockage/packages/f10/libidn/po/en@boldquot.po/mnt/stockage/packages/f10/libidn/po/en@quot.po | 
- | [pl]({{< ref "/f10/language/pl.md" >}}) | 215 | 215 | 100.0 | /mnt/stockage/packages/f10/libidn/po/pl.po | 
- | [vi]({{< ref "/f10/language/vi.md" >}}) | 215 | 215 | 100.0 | /mnt/stockage/packages/f10/libidn/po/vi.po | 
- | [da]({{< ref "/f10/language/da.md" >}}) | 202 | 215 | 94.0 | /mnt/stockage/packages/f10/libidn/po/da.po | 
- | [eo]({{< ref "/f10/language/eo.md" >}}) | 202 | 215 | 94.0 | /mnt/stockage/packages/f10/libidn/po/eo.po | 
- | [fr]({{< ref "/f10/language/fr.md" >}}) | 202 | 215 | 94.0 | /mnt/stockage/packages/f10/libidn/po/fr.po | 
- | [it]({{< ref "/f10/language/it.md" >}}) | 202 | 215 | 94.0 | /mnt/stockage/packages/f10/libidn/po/it.po | 
- | [ja]({{< ref "/f10/language/ja.md" >}}) | 202 | 215 | 94.0 | /mnt/stockage/packages/f10/libidn/po/ja.po | 
- | [nl]({{< ref "/f10/language/nl.md" >}}) | 202 | 215 | 94.0 | /mnt/stockage/packages/f10/libidn/po/nl.po | 
- | [sr]({{< ref "/f10/language/sr.md" >}}) | 202 | 215 | 94.0 | /mnt/stockage/packages/f10/libidn/po/sr.po | 
- | [zh_Hans]({{< ref "/f10/language/zh_Hans.md" >}}) | 202 | 215 | 94.0 | /mnt/stockage/packages/f10/libidn/po/zh_CN.po | 
- | [sv]({{< ref "/f10/language/sv.md" >}}) | 186 | 215 | 86.5 | /mnt/stockage/packages/f10/libidn/po/sv.po | 
- | [de]({{< ref "/f10/language/de.md" >}}) | 16 | 215 | 7.4 | /mnt/stockage/packages/f10/libidn/po/de.po | 
- | [ro]({{< ref "/f10/language/ro.md" >}}) | 16 | 215 | 7.4 | /mnt/stockage/packages/f10/libidn/po/ro.po | 
- | [rw]({{< ref "/f10/language/rw.md" >}}) | 5 | 215 | 2.3 | /mnt/stockage/packages/f10/libidn/po/rw.po | 
+ | [error](/f10/language/error) | 430 | 430 | 100.0 | /mnt/stockage/packages/f10/libidn/po/en@boldquot.po/mnt/stockage/packages/f10/libidn/po/en@quot.po | 
+ | [pl](/f10/language/pl) | 215 | 215 | 100.0 | /mnt/stockage/packages/f10/libidn/po/pl.po | 
+ | [vi](/f10/language/vi) | 215 | 215 | 100.0 | /mnt/stockage/packages/f10/libidn/po/vi.po | 
+ | [da](/f10/language/da) | 202 | 215 | 94.0 | /mnt/stockage/packages/f10/libidn/po/da.po | 
+ | [eo](/f10/language/eo) | 202 | 215 | 94.0 | /mnt/stockage/packages/f10/libidn/po/eo.po | 
+ | [fr](/f10/language/fr) | 202 | 215 | 94.0 | /mnt/stockage/packages/f10/libidn/po/fr.po | 
+ | [it](/f10/language/it) | 202 | 215 | 94.0 | /mnt/stockage/packages/f10/libidn/po/it.po | 
+ | [ja](/f10/language/ja) | 202 | 215 | 94.0 | /mnt/stockage/packages/f10/libidn/po/ja.po | 
+ | [nl](/f10/language/nl) | 202 | 215 | 94.0 | /mnt/stockage/packages/f10/libidn/po/nl.po | 
+ | [sr](/f10/language/sr) | 202 | 215 | 94.0 | /mnt/stockage/packages/f10/libidn/po/sr.po | 
+ | [zh_Hans](/f10/language/zh_Hans) | 202 | 215 | 94.0 | /mnt/stockage/packages/f10/libidn/po/zh_CN.po | 
+ | [sv](/f10/language/sv) | 186 | 215 | 86.5 | /mnt/stockage/packages/f10/libidn/po/sv.po | 
+ | [de](/f10/language/de) | 16 | 215 | 7.4 | /mnt/stockage/packages/f10/libidn/po/de.po | 
+ | [ro](/f10/language/ro) | 16 | 215 | 7.4 | /mnt/stockage/packages/f10/libidn/po/ro.po | 
+ | [rw](/f10/language/rw) | 5 | 215 | 2.3 | /mnt/stockage/packages/f10/libidn/po/rw.po | 
 {.sortable}
 
 

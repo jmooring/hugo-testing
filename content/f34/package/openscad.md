@@ -18,16 +18,16 @@ The package openscad (version 2021.01):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f34/language/de.md" >}}) | 1515 | 1515 | 100.0 | /mnt/stockage/packages/f34/openscad/locale/de.po | 
- | [zh_Hant]({{< ref "/f34/language/zh_Hant.md" >}}) | 1341 | 1515 | 88.5 | /mnt/stockage/packages/f34/openscad/locale/zh_TW.po | 
- | [ru]({{< ref "/f34/language/ru.md" >}}) | 1295 | 1515 | 85.5 | /mnt/stockage/packages/f34/openscad/locale/ru.po | 
- | [fr]({{< ref "/f34/language/fr.md" >}}) | 1286 | 1515 | 84.9 | /mnt/stockage/packages/f34/openscad/locale/fr.po | 
- | [hy]({{< ref "/f34/language/hy.md" >}}) | 1282 | 1515 | 84.6 | /mnt/stockage/packages/f34/openscad/locale/hy.po | 
- | [pl]({{< ref "/f34/language/pl.md" >}}) | 1045 | 1515 | 69.0 | /mnt/stockage/packages/f34/openscad/locale/pl.po | 
- | [zh_Hans]({{< ref "/f34/language/zh_Hans.md" >}}) | 956 | 1515 | 63.1 | /mnt/stockage/packages/f34/openscad/locale/zh_CN.po | 
- | [uk]({{< ref "/f34/language/uk.md" >}}) | 931 | 1515 | 61.5 | /mnt/stockage/packages/f34/openscad/locale/uk.po | 
- | [cs]({{< ref "/f34/language/cs.md" >}}) | 541 | 1515 | 35.7 | /mnt/stockage/packages/f34/openscad/locale/cs.po | 
- | [es]({{< ref "/f34/language/es.md" >}}) | 504 | 1515 | 33.3 | /mnt/stockage/packages/f34/openscad/locale/es.po | 
+ | [de](/f34/language/de) | 1515 | 1515 | 100.0 | /mnt/stockage/packages/f34/openscad/locale/de.po | 
+ | [zh_Hant](/f34/language/zh_Hant) | 1341 | 1515 | 88.5 | /mnt/stockage/packages/f34/openscad/locale/zh_TW.po | 
+ | [ru](/f34/language/ru) | 1295 | 1515 | 85.5 | /mnt/stockage/packages/f34/openscad/locale/ru.po | 
+ | [fr](/f34/language/fr) | 1286 | 1515 | 84.9 | /mnt/stockage/packages/f34/openscad/locale/fr.po | 
+ | [hy](/f34/language/hy) | 1282 | 1515 | 84.6 | /mnt/stockage/packages/f34/openscad/locale/hy.po | 
+ | [pl](/f34/language/pl) | 1045 | 1515 | 69.0 | /mnt/stockage/packages/f34/openscad/locale/pl.po | 
+ | [zh_Hans](/f34/language/zh_Hans) | 956 | 1515 | 63.1 | /mnt/stockage/packages/f34/openscad/locale/zh_CN.po | 
+ | [uk](/f34/language/uk) | 931 | 1515 | 61.5 | /mnt/stockage/packages/f34/openscad/locale/uk.po | 
+ | [cs](/f34/language/cs) | 541 | 1515 | 35.7 | /mnt/stockage/packages/f34/openscad/locale/cs.po | 
+ | [es](/f34/language/es) | 504 | 1515 | 33.3 | /mnt/stockage/packages/f34/openscad/locale/es.po | 
 {.sortable}
 
 

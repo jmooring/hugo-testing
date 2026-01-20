@@ -18,7 +18,7 @@ The package python-oslo-vmware (version 0.7.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f22/language/fr.md" >}}) | 496 | 496 | 100.0 | /mnt/stockage/packages/f22/python-oslo-vmware/oslo.vmware/locale/fr/LC_MESSAGES/oslo.vmware-log-error.po/mnt/stockage/packages/f22/python-oslo-vmware/oslo.vmware/locale/fr/LC_MESSAGES/oslo.vmware-log-info.po/mnt/stockage/packages/f22/python-oslo-vmware/oslo.vmware/locale/fr/LC_MESSAGES/oslo.vmware-log-warning.po/mnt/stockage/packages/f22/python-oslo-vmware/oslo.vmware/locale/fr/LC_MESSAGES/oslo.vmware.po | 
+ | [fr](/f22/language/fr) | 496 | 496 | 100.0 | /mnt/stockage/packages/f22/python-oslo-vmware/oslo.vmware/locale/fr/LC_MESSAGES/oslo.vmware-log-error.po/mnt/stockage/packages/f22/python-oslo-vmware/oslo.vmware/locale/fr/LC_MESSAGES/oslo.vmware-log-info.po/mnt/stockage/packages/f22/python-oslo-vmware/oslo.vmware/locale/fr/LC_MESSAGES/oslo.vmware-log-warning.po/mnt/stockage/packages/f22/python-oslo-vmware/oslo.vmware/locale/fr/LC_MESSAGES/oslo.vmware.po | 
 {.sortable}
 
 

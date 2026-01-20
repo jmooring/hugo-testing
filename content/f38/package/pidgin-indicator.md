@@ -18,11 +18,11 @@ The package pidgin-indicator (version 1.0.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f38/language/de.md" >}}) | 31 | 31 | 100.0 | /mnt/stockage/packages/f38/pidgin-indicator/po/de.po | 
- | [es]({{< ref "/f38/language/es.md" >}}) | 31 | 31 | 100.0 | /mnt/stockage/packages/f38/pidgin-indicator/po/es.po | 
- | [hu]({{< ref "/f38/language/hu.md" >}}) | 47 | 47 | 100.0 | /mnt/stockage/packages/f38/pidgin-indicator/po/hu.po | 
- | [ru]({{< ref "/f38/language/ru.md" >}}) | 31 | 31 | 100.0 | /mnt/stockage/packages/f38/pidgin-indicator/po/ru.po | 
- | [zh_Hans]({{< ref "/f38/language/zh_Hans.md" >}}) | 31 | 31 | 100.0 | /mnt/stockage/packages/f38/pidgin-indicator/po/zh_CN.po | 
+ | [de](/f38/language/de) | 31 | 31 | 100.0 | /mnt/stockage/packages/f38/pidgin-indicator/po/de.po | 
+ | [es](/f38/language/es) | 31 | 31 | 100.0 | /mnt/stockage/packages/f38/pidgin-indicator/po/es.po | 
+ | [hu](/f38/language/hu) | 47 | 47 | 100.0 | /mnt/stockage/packages/f38/pidgin-indicator/po/hu.po | 
+ | [ru](/f38/language/ru) | 31 | 31 | 100.0 | /mnt/stockage/packages/f38/pidgin-indicator/po/ru.po | 
+ | [zh_Hans](/f38/language/zh_Hans) | 31 | 31 | 100.0 | /mnt/stockage/packages/f38/pidgin-indicator/po/zh_CN.po | 
 {.sortable}
 
 

@@ -18,9 +18,9 @@ The package cinnamon-applet-globalappmenu (version 0.6):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [en]({{< ref "/f24/language/en.md" >}}) | 309 | 309 | 100.0 | /mnt/stockage/packages/f24/cinnamon-applet-globalappmenu/globalAppMenu@lestcape/po/en.po | 
- | [es]({{< ref "/f24/language/es.md" >}}) | 309 | 309 | 100.0 | /mnt/stockage/packages/f24/cinnamon-applet-globalappmenu/globalAppMenu@lestcape/po/es.po | 
- | [hr]({{< ref "/f24/language/hr.md" >}}) | 292 | 309 | 94.5 | /mnt/stockage/packages/f24/cinnamon-applet-globalappmenu/globalAppMenu@lestcape/po/hr.po | 
+ | [en](/f24/language/en) | 309 | 309 | 100.0 | /mnt/stockage/packages/f24/cinnamon-applet-globalappmenu/globalAppMenu@lestcape/po/en.po | 
+ | [es](/f24/language/es) | 309 | 309 | 100.0 | /mnt/stockage/packages/f24/cinnamon-applet-globalappmenu/globalAppMenu@lestcape/po/es.po | 
+ | [hr](/f24/language/hr) | 292 | 309 | 94.5 | /mnt/stockage/packages/f24/cinnamon-applet-globalappmenu/globalAppMenu@lestcape/po/hr.po | 
 {.sortable}
 
 

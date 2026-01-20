@@ -18,102 +18,102 @@ The package magpie (version 0.9.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [as]({{< ref "/f39/language/as.md" >}}) | 1837 | 1837 | 100.0 | /mnt/stockage/packages/f39/magpie/po/as.po | 
- | [be]({{< ref "/f39/language/be.md" >}}) | 1069 | 1069 | 100.0 | /mnt/stockage/packages/f39/magpie/po/be.po | 
- | [bg]({{< ref "/f39/language/bg.md" >}}) | 1253 | 1253 | 100.0 | /mnt/stockage/packages/f39/magpie/po/bg.po | 
- | [bn_IN]({{< ref "/f39/language/bn_IN.md" >}}) | 829 | 829 | 100.0 | /mnt/stockage/packages/f39/magpie/po/bn_IN.po | 
- | [bs]({{< ref "/f39/language/bs.md" >}}) | 809 | 809 | 100.0 | /mnt/stockage/packages/f39/magpie/po/bs.po | 
- | [ca]({{< ref "/f39/language/ca.md" >}}) | 1253 | 1253 | 100.0 | /mnt/stockage/packages/f39/magpie/po/ca.po | 
- | [cs]({{< ref "/f39/language/cs.md" >}}) | 1253 | 1253 | 100.0 | /mnt/stockage/packages/f39/magpie/po/cs.po | 
- | [cy]({{< ref "/f39/language/cy.md" >}}) | 7924 | 7924 | 100.0 | /mnt/stockage/packages/f39/magpie/po/cy.po | 
- | [da]({{< ref "/f39/language/da.md" >}}) | 1253 | 1253 | 100.0 | /mnt/stockage/packages/f39/magpie/po/da.po | 
- | [de]({{< ref "/f39/language/de.md" >}}) | 1253 | 1253 | 100.0 | /mnt/stockage/packages/f39/magpie/po/de.po | 
- | [dz]({{< ref "/f39/language/dz.md" >}}) | 7931 | 7931 | 100.0 | /mnt/stockage/packages/f39/magpie/po/dz.po | 
- | [el]({{< ref "/f39/language/el.md" >}}) | 826 | 826 | 100.0 | /mnt/stockage/packages/f39/magpie/po/el.po | 
- | [en_CA]({{< ref "/f39/language/en_CA.md" >}}) | 8059 | 8059 | 100.0 | /mnt/stockage/packages/f39/magpie/po/en_CA.po | 
- | [en_GB]({{< ref "/f39/language/en_GB.md" >}}) | 1326 | 1326 | 100.0 | /mnt/stockage/packages/f39/magpie/po/en_GB.po | 
- | [es]({{< ref "/f39/language/es.md" >}}) | 1253 | 1253 | 100.0 | /mnt/stockage/packages/f39/magpie/po/es.po | 
- | [eu]({{< ref "/f39/language/eu.md" >}}) | 1253 | 1253 | 100.0 | /mnt/stockage/packages/f39/magpie/po/eu.po | 
- | [fa]({{< ref "/f39/language/fa.md" >}}) | 550 | 550 | 100.0 | /mnt/stockage/packages/f39/magpie/po/fa.po | 
- | [fr]({{< ref "/f39/language/fr.md" >}}) | 1301 | 1301 | 100.0 | /mnt/stockage/packages/f39/magpie/po/fr.po | 
- | [fur]({{< ref "/f39/language/fur.md" >}}) | 1253 | 1253 | 100.0 | /mnt/stockage/packages/f39/magpie/po/fur.po | 
- | [gl]({{< ref "/f39/language/gl.md" >}}) | 1253 | 1253 | 100.0 | /mnt/stockage/packages/f39/magpie/po/gl.po | 
- | [gu]({{< ref "/f39/language/gu.md" >}}) | 1829 | 1829 | 100.0 | /mnt/stockage/packages/f39/magpie/po/gu.po | 
- | [he]({{< ref "/f39/language/he.md" >}}) | 1253 | 1253 | 100.0 | /mnt/stockage/packages/f39/magpie/po/he.po | 
- | [hi]({{< ref "/f39/language/hi.md" >}}) | 1829 | 1829 | 100.0 | /mnt/stockage/packages/f39/magpie/po/hi.po | 
- | [hr]({{< ref "/f39/language/hr.md" >}}) | 1253 | 1253 | 100.0 | /mnt/stockage/packages/f39/magpie/po/hr.po | 
- | [hu]({{< ref "/f39/language/hu.md" >}}) | 1253 | 1253 | 100.0 | /mnt/stockage/packages/f39/magpie/po/hu.po | 
- | [id]({{< ref "/f39/language/id.md" >}}) | 1253 | 1253 | 100.0 | /mnt/stockage/packages/f39/magpie/po/id.po | 
- | [it]({{< ref "/f39/language/it.md" >}}) | 1301 | 1301 | 100.0 | /mnt/stockage/packages/f39/magpie/po/it.po | 
- | [kn]({{< ref "/f39/language/kn.md" >}}) | 1837 | 1837 | 100.0 | /mnt/stockage/packages/f39/magpie/po/kn.po | 
- | [ko]({{< ref "/f39/language/ko.md" >}}) | 1301 | 1301 | 100.0 | /mnt/stockage/packages/f39/magpie/po/ko.po | 
- | [lt]({{< ref "/f39/language/lt.md" >}}) | 1253 | 1253 | 100.0 | /mnt/stockage/packages/f39/magpie/po/lt.po | 
- | [lv]({{< ref "/f39/language/lv.md" >}}) | 1253 | 1253 | 100.0 | /mnt/stockage/packages/f39/magpie/po/lv.po | 
- | [mk]({{< ref "/f39/language/mk.md" >}}) | 7924 | 7924 | 100.0 | /mnt/stockage/packages/f39/magpie/po/mk.po | 
- | [mr]({{< ref "/f39/language/mr.md" >}}) | 1829 | 1829 | 100.0 | /mnt/stockage/packages/f39/magpie/po/mr.po | 
- | [ms]({{< ref "/f39/language/ms.md" >}}) | 1187 | 1187 | 100.0 | /mnt/stockage/packages/f39/magpie/po/ms.po | 
- | [ne]({{< ref "/f39/language/ne.md" >}}) | 1253 | 1253 | 100.0 | /mnt/stockage/packages/f39/magpie/po/ne.po | 
- | [nl]({{< ref "/f39/language/nl.md" >}}) | 1253 | 1253 | 100.0 | /mnt/stockage/packages/f39/magpie/po/nl.po | 
- | [nn]({{< ref "/f39/language/nn.md" >}}) | 8049 | 8049 | 100.0 | /mnt/stockage/packages/f39/magpie/po/nn.po | 
- | [pa]({{< ref "/f39/language/pa.md" >}}) | 1297 | 1297 | 100.0 | /mnt/stockage/packages/f39/magpie/po/pa.po | 
- | [pl]({{< ref "/f39/language/pl.md" >}}) | 1253 | 1253 | 100.0 | /mnt/stockage/packages/f39/magpie/po/pl.po | 
- | [pt]({{< ref "/f39/language/pt.md" >}}) | 1253 | 1253 | 100.0 | /mnt/stockage/packages/f39/magpie/po/pt.po | 
- | [pt_BR]({{< ref "/f39/language/pt_BR.md" >}}) | 1253 | 1253 | 100.0 | /mnt/stockage/packages/f39/magpie/po/pt_BR.po | 
- | [ro]({{< ref "/f39/language/ro.md" >}}) | 1301 | 1301 | 100.0 | /mnt/stockage/packages/f39/magpie/po/ro.po | 
- | [ru]({{< ref "/f39/language/ru.md" >}}) | 1253 | 1253 | 100.0 | /mnt/stockage/packages/f39/magpie/po/ru.po | 
- | [sl]({{< ref "/f39/language/sl.md" >}}) | 1253 | 1253 | 100.0 | /mnt/stockage/packages/f39/magpie/po/sl.po | 
- | [sr]({{< ref "/f39/language/sr.md" >}}) | 2338 | 2338 | 100.0 | /mnt/stockage/packages/f39/magpie/po/sr@latin.po/mnt/stockage/packages/f39/magpie/po/sr.po | 
- | [sv]({{< ref "/f39/language/sv.md" >}}) | 1253 | 1253 | 100.0 | /mnt/stockage/packages/f39/magpie/po/sv.po | 
- | [ta]({{< ref "/f39/language/ta.md" >}}) | 1829 | 1829 | 100.0 | /mnt/stockage/packages/f39/magpie/po/ta.po | 
- | [th]({{< ref "/f39/language/th.md" >}}) | 809 | 809 | 100.0 | /mnt/stockage/packages/f39/magpie/po/th.po | 
- | [tr]({{< ref "/f39/language/tr.md" >}}) | 1253 | 1253 | 100.0 | /mnt/stockage/packages/f39/magpie/po/tr.po | 
- | [uk]({{< ref "/f39/language/uk.md" >}}) | 1253 | 1253 | 100.0 | /mnt/stockage/packages/f39/magpie/po/uk.po | 
- | [vi]({{< ref "/f39/language/vi.md" >}}) | 1301 | 1301 | 100.0 | /mnt/stockage/packages/f39/magpie/po/vi.po | 
- | [zh_Hans]({{< ref "/f39/language/zh_Hans.md" >}}) | 1253 | 1253 | 100.0 | /mnt/stockage/packages/f39/magpie/po/zh_CN.po | 
- | [zh_Hant_HK]({{< ref "/f39/language/zh_Hant_HK.md" >}}) | 1837 | 1837 | 100.0 | /mnt/stockage/packages/f39/magpie/po/zh_HK.po | 
- | [mg]({{< ref "/f39/language/mg.md" >}}) | 7261 | 7264 | 100.0 | /mnt/stockage/packages/f39/magpie/po/mg.po | 
- | [xh]({{< ref "/f39/language/xh.md" >}}) | 6893 | 6919 | 99.6 | /mnt/stockage/packages/f39/magpie/po/xh.po | 
- | [or]({{< ref "/f39/language/or.md" >}}) | 1815 | 1829 | 99.2 | /mnt/stockage/packages/f39/magpie/po/or.po | 
- | [te]({{< ref "/f39/language/te.md" >}}) | 1807 | 1829 | 98.8 | /mnt/stockage/packages/f39/magpie/po/te.po | 
- | [az]({{< ref "/f39/language/az.md" >}}) | 6709 | 6919 | 97.0 | /mnt/stockage/packages/f39/magpie/po/az.po | 
- | [ast]({{< ref "/f39/language/ast.md" >}}) | 2400 | 2492 | 96.3 | /mnt/stockage/packages/f39/magpie/po/ast.po | 
- | [ug]({{< ref "/f39/language/ug.md" >}}) | 2130 | 2261 | 94.2 | /mnt/stockage/packages/f39/magpie/po/ug.po | 
- | [sq]({{< ref "/f39/language/sq.md" >}}) | 8009 | 8587 | 93.3 | /mnt/stockage/packages/f39/magpie/po/sq.po | 
- | [be_Latn]({{< ref "/f39/language/be_Latn.md" >}}) | 3503 | 3864 | 90.7 | /mnt/stockage/packages/f39/magpie/po/be@latin.po | 
- | [oc]({{< ref "/f39/language/oc.md" >}}) | 1119 | 1253 | 89.3 | /mnt/stockage/packages/f39/magpie/po/oc.po | 
- | [ca@valencia]({{< ref "/f39/language/ca@valencia.md" >}}) | 839 | 947 | 88.6 | /mnt/stockage/packages/f39/magpie/po/ca@valencia.po | 
- | [bn]({{< ref "/f39/language/bn.md" >}}) | 5430 | 6919 | 78.5 | /mnt/stockage/packages/f39/magpie/po/bn.po | 
- | [mai]({{< ref "/f39/language/mai.md" >}}) | 2817 | 3864 | 72.9 | /mnt/stockage/packages/f39/magpie/po/mai.po | 
- | [nb_NO]({{< ref "/f39/language/nb_NO.md" >}}) | 839 | 1273 | 65.9 | /mnt/stockage/packages/f39/magpie/po/nb.po | 
- | [sk]({{< ref "/f39/language/sk.md" >}}) | 792 | 1253 | 63.2 | /mnt/stockage/packages/f39/magpie/po/sk.po | 
- | [zh_Hant]({{< ref "/f39/language/zh_Hant.md" >}}) | 788 | 1251 | 63.0 | /mnt/stockage/packages/f39/magpie/po/zh_TW.po | 
- | [ig]({{< ref "/f39/language/ig.md" >}}) | 2294 | 3808 | 60.2 | /mnt/stockage/packages/f39/magpie/po/ig.po | 
- | [yo]({{< ref "/f39/language/yo.md" >}}) | 2294 | 3808 | 60.2 | /mnt/stockage/packages/f39/magpie/po/yo.po | 
- | [gd]({{< ref "/f39/language/gd.md" >}}) | 283 | 476 | 59.5 | /mnt/stockage/packages/f39/magpie/po/gd.po | 
- | [ha]({{< ref "/f39/language/ha.md" >}}) | 2219 | 3808 | 58.3 | /mnt/stockage/packages/f39/magpie/po/ha.po | 
- | [et]({{< ref "/f39/language/et.md" >}}) | 627 | 1085 | 57.8 | /mnt/stockage/packages/f39/magpie/po/et.po | 
- | [ja]({{< ref "/f39/language/ja.md" >}}) | 612 | 1322 | 46.3 | /mnt/stockage/packages/f39/magpie/po/ja.po | 
- | [mn]({{< ref "/f39/language/mn.md" >}}) | 3177 | 6919 | 45.9 | /mnt/stockage/packages/f39/magpie/po/mn.po | 
- | [ka]({{< ref "/f39/language/ka.md" >}}) | 542 | 1253 | 43.3 | /mnt/stockage/packages/f39/magpie/po/ka.po | 
- | [is]({{< ref "/f39/language/is.md" >}}) | 557 | 1301 | 42.8 | /mnt/stockage/packages/f39/magpie/po/is.po | 
- | [ar]({{< ref "/f39/language/ar.md" >}}) | 435 | 1071 | 40.6 | /mnt/stockage/packages/f39/magpie/po/ar.po | 
- | [fi]({{< ref "/f39/language/fi.md" >}}) | 492 | 1251 | 39.3 | /mnt/stockage/packages/f39/magpie/po/fi.po | 
- | [eo]({{< ref "/f39/language/eo.md" >}}) | 390 | 1106 | 35.3 | /mnt/stockage/packages/f39/magpie/po/eo.po | 
- | [ml]({{< ref "/f39/language/ml.md" >}}) | 671 | 2261 | 29.7 | /mnt/stockage/packages/f39/magpie/po/ml.po | 
- | [kk]({{< ref "/f39/language/kk.md" >}}) | 362 | 1253 | 28.9 | /mnt/stockage/packages/f39/magpie/po/kk.po | 
- | [hy]({{< ref "/f39/language/hy.md" >}}) | 1858 | 6919 | 26.9 | /mnt/stockage/packages/f39/magpie/po/hy.po | 
- | [br]({{< ref "/f39/language/br.md" >}}) | 628 | 2437 | 25.8 | /mnt/stockage/packages/f39/magpie/po/br.po | 
- | [nds]({{< ref "/f39/language/nds.md" >}}) | 348 | 2437 | 14.3 | /mnt/stockage/packages/f39/magpie/po/nds.po | 
- | [ku]({{< ref "/f39/language/ku.md" >}}) | 1015 | 7838 | 12.9 | /mnt/stockage/packages/f39/magpie/po/ku.po | 
- | [ga]({{< ref "/f39/language/ga.md" >}}) | 232 | 2063 | 11.2 | /mnt/stockage/packages/f39/magpie/po/ga.po | 
- | [ab]({{< ref "/f39/language/ab.md" >}}) | 126 | 1253 | 10.1 | /mnt/stockage/packages/f39/magpie/po/ab.po | 
- | [wa]({{< ref "/f39/language/wa.md" >}}) | 604 | 6919 | 8.7 | /mnt/stockage/packages/f39/magpie/po/wa.po | 
- | [tg]({{< ref "/f39/language/tg.md" >}}) | 56 | 2261 | 2.5 | /mnt/stockage/packages/f39/magpie/po/tg.po | 
- | [am]({{< ref "/f39/language/am.md" >}}) | 162 | 6919 | 2.3 | /mnt/stockage/packages/f39/magpie/po/am.po | 
- | [la]({{< ref "/f39/language/la.md" >}}) | 80 | 3819 | 2.1 | /mnt/stockage/packages/f39/magpie/po/la.po | 
- | [si]({{< ref "/f39/language/si.md" >}}) | 75 | 8059 | 0.9 | /mnt/stockage/packages/f39/magpie/po/si.po | 
- | [tk]({{< ref "/f39/language/tk.md" >}}) | 49 | 6919 | 0.7 | /mnt/stockage/packages/f39/magpie/po/tk.po | 
- | [rw]({{< ref "/f39/language/rw.md" >}}) | 17 | 6919 | 0.2 | /mnt/stockage/packages/f39/magpie/po/rw.po | 
+ | [as](/f39/language/as) | 1837 | 1837 | 100.0 | /mnt/stockage/packages/f39/magpie/po/as.po | 
+ | [be](/f39/language/be) | 1069 | 1069 | 100.0 | /mnt/stockage/packages/f39/magpie/po/be.po | 
+ | [bg](/f39/language/bg) | 1253 | 1253 | 100.0 | /mnt/stockage/packages/f39/magpie/po/bg.po | 
+ | [bn_IN](/f39/language/bn_IN) | 829 | 829 | 100.0 | /mnt/stockage/packages/f39/magpie/po/bn_IN.po | 
+ | [bs](/f39/language/bs) | 809 | 809 | 100.0 | /mnt/stockage/packages/f39/magpie/po/bs.po | 
+ | [ca](/f39/language/ca) | 1253 | 1253 | 100.0 | /mnt/stockage/packages/f39/magpie/po/ca.po | 
+ | [cs](/f39/language/cs) | 1253 | 1253 | 100.0 | /mnt/stockage/packages/f39/magpie/po/cs.po | 
+ | [cy](/f39/language/cy) | 7924 | 7924 | 100.0 | /mnt/stockage/packages/f39/magpie/po/cy.po | 
+ | [da](/f39/language/da) | 1253 | 1253 | 100.0 | /mnt/stockage/packages/f39/magpie/po/da.po | 
+ | [de](/f39/language/de) | 1253 | 1253 | 100.0 | /mnt/stockage/packages/f39/magpie/po/de.po | 
+ | [dz](/f39/language/dz) | 7931 | 7931 | 100.0 | /mnt/stockage/packages/f39/magpie/po/dz.po | 
+ | [el](/f39/language/el) | 826 | 826 | 100.0 | /mnt/stockage/packages/f39/magpie/po/el.po | 
+ | [en_CA](/f39/language/en_CA) | 8059 | 8059 | 100.0 | /mnt/stockage/packages/f39/magpie/po/en_CA.po | 
+ | [en_GB](/f39/language/en_GB) | 1326 | 1326 | 100.0 | /mnt/stockage/packages/f39/magpie/po/en_GB.po | 
+ | [es](/f39/language/es) | 1253 | 1253 | 100.0 | /mnt/stockage/packages/f39/magpie/po/es.po | 
+ | [eu](/f39/language/eu) | 1253 | 1253 | 100.0 | /mnt/stockage/packages/f39/magpie/po/eu.po | 
+ | [fa](/f39/language/fa) | 550 | 550 | 100.0 | /mnt/stockage/packages/f39/magpie/po/fa.po | 
+ | [fr](/f39/language/fr) | 1301 | 1301 | 100.0 | /mnt/stockage/packages/f39/magpie/po/fr.po | 
+ | [fur](/f39/language/fur) | 1253 | 1253 | 100.0 | /mnt/stockage/packages/f39/magpie/po/fur.po | 
+ | [gl](/f39/language/gl) | 1253 | 1253 | 100.0 | /mnt/stockage/packages/f39/magpie/po/gl.po | 
+ | [gu](/f39/language/gu) | 1829 | 1829 | 100.0 | /mnt/stockage/packages/f39/magpie/po/gu.po | 
+ | [he](/f39/language/he) | 1253 | 1253 | 100.0 | /mnt/stockage/packages/f39/magpie/po/he.po | 
+ | [hi](/f39/language/hi) | 1829 | 1829 | 100.0 | /mnt/stockage/packages/f39/magpie/po/hi.po | 
+ | [hr](/f39/language/hr) | 1253 | 1253 | 100.0 | /mnt/stockage/packages/f39/magpie/po/hr.po | 
+ | [hu](/f39/language/hu) | 1253 | 1253 | 100.0 | /mnt/stockage/packages/f39/magpie/po/hu.po | 
+ | [id](/f39/language/id) | 1253 | 1253 | 100.0 | /mnt/stockage/packages/f39/magpie/po/id.po | 
+ | [it](/f39/language/it) | 1301 | 1301 | 100.0 | /mnt/stockage/packages/f39/magpie/po/it.po | 
+ | [kn](/f39/language/kn) | 1837 | 1837 | 100.0 | /mnt/stockage/packages/f39/magpie/po/kn.po | 
+ | [ko](/f39/language/ko) | 1301 | 1301 | 100.0 | /mnt/stockage/packages/f39/magpie/po/ko.po | 
+ | [lt](/f39/language/lt) | 1253 | 1253 | 100.0 | /mnt/stockage/packages/f39/magpie/po/lt.po | 
+ | [lv](/f39/language/lv) | 1253 | 1253 | 100.0 | /mnt/stockage/packages/f39/magpie/po/lv.po | 
+ | [mk](/f39/language/mk) | 7924 | 7924 | 100.0 | /mnt/stockage/packages/f39/magpie/po/mk.po | 
+ | [mr](/f39/language/mr) | 1829 | 1829 | 100.0 | /mnt/stockage/packages/f39/magpie/po/mr.po | 
+ | [ms](/f39/language/ms) | 1187 | 1187 | 100.0 | /mnt/stockage/packages/f39/magpie/po/ms.po | 
+ | [ne](/f39/language/ne) | 1253 | 1253 | 100.0 | /mnt/stockage/packages/f39/magpie/po/ne.po | 
+ | [nl](/f39/language/nl) | 1253 | 1253 | 100.0 | /mnt/stockage/packages/f39/magpie/po/nl.po | 
+ | [nn](/f39/language/nn) | 8049 | 8049 | 100.0 | /mnt/stockage/packages/f39/magpie/po/nn.po | 
+ | [pa](/f39/language/pa) | 1297 | 1297 | 100.0 | /mnt/stockage/packages/f39/magpie/po/pa.po | 
+ | [pl](/f39/language/pl) | 1253 | 1253 | 100.0 | /mnt/stockage/packages/f39/magpie/po/pl.po | 
+ | [pt](/f39/language/pt) | 1253 | 1253 | 100.0 | /mnt/stockage/packages/f39/magpie/po/pt.po | 
+ | [pt_BR](/f39/language/pt_BR) | 1253 | 1253 | 100.0 | /mnt/stockage/packages/f39/magpie/po/pt_BR.po | 
+ | [ro](/f39/language/ro) | 1301 | 1301 | 100.0 | /mnt/stockage/packages/f39/magpie/po/ro.po | 
+ | [ru](/f39/language/ru) | 1253 | 1253 | 100.0 | /mnt/stockage/packages/f39/magpie/po/ru.po | 
+ | [sl](/f39/language/sl) | 1253 | 1253 | 100.0 | /mnt/stockage/packages/f39/magpie/po/sl.po | 
+ | [sr](/f39/language/sr) | 2338 | 2338 | 100.0 | /mnt/stockage/packages/f39/magpie/po/sr@latin.po/mnt/stockage/packages/f39/magpie/po/sr.po | 
+ | [sv](/f39/language/sv) | 1253 | 1253 | 100.0 | /mnt/stockage/packages/f39/magpie/po/sv.po | 
+ | [ta](/f39/language/ta) | 1829 | 1829 | 100.0 | /mnt/stockage/packages/f39/magpie/po/ta.po | 
+ | [th](/f39/language/th) | 809 | 809 | 100.0 | /mnt/stockage/packages/f39/magpie/po/th.po | 
+ | [tr](/f39/language/tr) | 1253 | 1253 | 100.0 | /mnt/stockage/packages/f39/magpie/po/tr.po | 
+ | [uk](/f39/language/uk) | 1253 | 1253 | 100.0 | /mnt/stockage/packages/f39/magpie/po/uk.po | 
+ | [vi](/f39/language/vi) | 1301 | 1301 | 100.0 | /mnt/stockage/packages/f39/magpie/po/vi.po | 
+ | [zh_Hans](/f39/language/zh_Hans) | 1253 | 1253 | 100.0 | /mnt/stockage/packages/f39/magpie/po/zh_CN.po | 
+ | [zh_Hant_HK](/f39/language/zh_Hant_HK) | 1837 | 1837 | 100.0 | /mnt/stockage/packages/f39/magpie/po/zh_HK.po | 
+ | [mg](/f39/language/mg) | 7261 | 7264 | 100.0 | /mnt/stockage/packages/f39/magpie/po/mg.po | 
+ | [xh](/f39/language/xh) | 6893 | 6919 | 99.6 | /mnt/stockage/packages/f39/magpie/po/xh.po | 
+ | [or](/f39/language/or) | 1815 | 1829 | 99.2 | /mnt/stockage/packages/f39/magpie/po/or.po | 
+ | [te](/f39/language/te) | 1807 | 1829 | 98.8 | /mnt/stockage/packages/f39/magpie/po/te.po | 
+ | [az](/f39/language/az) | 6709 | 6919 | 97.0 | /mnt/stockage/packages/f39/magpie/po/az.po | 
+ | [ast](/f39/language/ast) | 2400 | 2492 | 96.3 | /mnt/stockage/packages/f39/magpie/po/ast.po | 
+ | [ug](/f39/language/ug) | 2130 | 2261 | 94.2 | /mnt/stockage/packages/f39/magpie/po/ug.po | 
+ | [sq](/f39/language/sq) | 8009 | 8587 | 93.3 | /mnt/stockage/packages/f39/magpie/po/sq.po | 
+ | [be_Latn](/f39/language/be_Latn) | 3503 | 3864 | 90.7 | /mnt/stockage/packages/f39/magpie/po/be@latin.po | 
+ | [oc](/f39/language/oc) | 1119 | 1253 | 89.3 | /mnt/stockage/packages/f39/magpie/po/oc.po | 
+ | [ca@valencia](/f39/language/ca@valencia) | 839 | 947 | 88.6 | /mnt/stockage/packages/f39/magpie/po/ca@valencia.po | 
+ | [bn](/f39/language/bn) | 5430 | 6919 | 78.5 | /mnt/stockage/packages/f39/magpie/po/bn.po | 
+ | [mai](/f39/language/mai) | 2817 | 3864 | 72.9 | /mnt/stockage/packages/f39/magpie/po/mai.po | 
+ | [nb_NO](/f39/language/nb_NO) | 839 | 1273 | 65.9 | /mnt/stockage/packages/f39/magpie/po/nb.po | 
+ | [sk](/f39/language/sk) | 792 | 1253 | 63.2 | /mnt/stockage/packages/f39/magpie/po/sk.po | 
+ | [zh_Hant](/f39/language/zh_Hant) | 788 | 1251 | 63.0 | /mnt/stockage/packages/f39/magpie/po/zh_TW.po | 
+ | [ig](/f39/language/ig) | 2294 | 3808 | 60.2 | /mnt/stockage/packages/f39/magpie/po/ig.po | 
+ | [yo](/f39/language/yo) | 2294 | 3808 | 60.2 | /mnt/stockage/packages/f39/magpie/po/yo.po | 
+ | [gd](/f39/language/gd) | 283 | 476 | 59.5 | /mnt/stockage/packages/f39/magpie/po/gd.po | 
+ | [ha](/f39/language/ha) | 2219 | 3808 | 58.3 | /mnt/stockage/packages/f39/magpie/po/ha.po | 
+ | [et](/f39/language/et) | 627 | 1085 | 57.8 | /mnt/stockage/packages/f39/magpie/po/et.po | 
+ | [ja](/f39/language/ja) | 612 | 1322 | 46.3 | /mnt/stockage/packages/f39/magpie/po/ja.po | 
+ | [mn](/f39/language/mn) | 3177 | 6919 | 45.9 | /mnt/stockage/packages/f39/magpie/po/mn.po | 
+ | [ka](/f39/language/ka) | 542 | 1253 | 43.3 | /mnt/stockage/packages/f39/magpie/po/ka.po | 
+ | [is](/f39/language/is) | 557 | 1301 | 42.8 | /mnt/stockage/packages/f39/magpie/po/is.po | 
+ | [ar](/f39/language/ar) | 435 | 1071 | 40.6 | /mnt/stockage/packages/f39/magpie/po/ar.po | 
+ | [fi](/f39/language/fi) | 492 | 1251 | 39.3 | /mnt/stockage/packages/f39/magpie/po/fi.po | 
+ | [eo](/f39/language/eo) | 390 | 1106 | 35.3 | /mnt/stockage/packages/f39/magpie/po/eo.po | 
+ | [ml](/f39/language/ml) | 671 | 2261 | 29.7 | /mnt/stockage/packages/f39/magpie/po/ml.po | 
+ | [kk](/f39/language/kk) | 362 | 1253 | 28.9 | /mnt/stockage/packages/f39/magpie/po/kk.po | 
+ | [hy](/f39/language/hy) | 1858 | 6919 | 26.9 | /mnt/stockage/packages/f39/magpie/po/hy.po | 
+ | [br](/f39/language/br) | 628 | 2437 | 25.8 | /mnt/stockage/packages/f39/magpie/po/br.po | 
+ | [nds](/f39/language/nds) | 348 | 2437 | 14.3 | /mnt/stockage/packages/f39/magpie/po/nds.po | 
+ | [ku](/f39/language/ku) | 1015 | 7838 | 12.9 | /mnt/stockage/packages/f39/magpie/po/ku.po | 
+ | [ga](/f39/language/ga) | 232 | 2063 | 11.2 | /mnt/stockage/packages/f39/magpie/po/ga.po | 
+ | [ab](/f39/language/ab) | 126 | 1253 | 10.1 | /mnt/stockage/packages/f39/magpie/po/ab.po | 
+ | [wa](/f39/language/wa) | 604 | 6919 | 8.7 | /mnt/stockage/packages/f39/magpie/po/wa.po | 
+ | [tg](/f39/language/tg) | 56 | 2261 | 2.5 | /mnt/stockage/packages/f39/magpie/po/tg.po | 
+ | [am](/f39/language/am) | 162 | 6919 | 2.3 | /mnt/stockage/packages/f39/magpie/po/am.po | 
+ | [la](/f39/language/la) | 80 | 3819 | 2.1 | /mnt/stockage/packages/f39/magpie/po/la.po | 
+ | [si](/f39/language/si) | 75 | 8059 | 0.9 | /mnt/stockage/packages/f39/magpie/po/si.po | 
+ | [tk](/f39/language/tk) | 49 | 6919 | 0.7 | /mnt/stockage/packages/f39/magpie/po/tk.po | 
+ | [rw](/f39/language/rw) | 17 | 6919 | 0.2 | /mnt/stockage/packages/f39/magpie/po/rw.po | 
 {.sortable}
 
 

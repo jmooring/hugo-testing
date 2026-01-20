@@ -18,12 +18,12 @@ The package gnome-shell-extension-panel-osd (version 1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f27/language/de.md" >}}) | 120 | 120 | 100.0 | /mnt/stockage/packages/f27/gnome-shell-extension-panel-osd/po/de.po | 
- | [es]({{< ref "/f27/language/es.md" >}}) | 120 | 120 | 100.0 | /mnt/stockage/packages/f27/gnome-shell-extension-panel-osd/po/es.po | 
- | [pl]({{< ref "/f27/language/pl.md" >}}) | 120 | 120 | 100.0 | /mnt/stockage/packages/f27/gnome-shell-extension-panel-osd/po/pl.po | 
- | [pt_BR]({{< ref "/f27/language/pt_BR.md" >}}) | 120 | 120 | 100.0 | /mnt/stockage/packages/f27/gnome-shell-extension-panel-osd/po/pt_BR.po | 
- | [ru]({{< ref "/f27/language/ru.md" >}}) | 120 | 120 | 100.0 | /mnt/stockage/packages/f27/gnome-shell-extension-panel-osd/po/ru.po | 
- | [zh_Hans]({{< ref "/f27/language/zh_Hans.md" >}}) | 76 | 120 | 63.3 | /mnt/stockage/packages/f27/gnome-shell-extension-panel-osd/po/zh_CN.po | 
+ | [de](/f27/language/de) | 120 | 120 | 100.0 | /mnt/stockage/packages/f27/gnome-shell-extension-panel-osd/po/de.po | 
+ | [es](/f27/language/es) | 120 | 120 | 100.0 | /mnt/stockage/packages/f27/gnome-shell-extension-panel-osd/po/es.po | 
+ | [pl](/f27/language/pl) | 120 | 120 | 100.0 | /mnt/stockage/packages/f27/gnome-shell-extension-panel-osd/po/pl.po | 
+ | [pt_BR](/f27/language/pt_BR) | 120 | 120 | 100.0 | /mnt/stockage/packages/f27/gnome-shell-extension-panel-osd/po/pt_BR.po | 
+ | [ru](/f27/language/ru) | 120 | 120 | 100.0 | /mnt/stockage/packages/f27/gnome-shell-extension-panel-osd/po/ru.po | 
+ | [zh_Hans](/f27/language/zh_Hans) | 76 | 120 | 63.3 | /mnt/stockage/packages/f27/gnome-shell-extension-panel-osd/po/zh_CN.po | 
 {.sortable}
 
 

@@ -18,7 +18,7 @@ The package libipuz (version 0.5.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [pt_BR]({{< ref "/f43/language/pt_BR.md" >}}) | 48 | 60 | 80.0 | /mnt/stockage/packages/f43/libipuz/po/pt_BR.po | 
+ | [pt_BR](/f43/language/pt_BR) | 48 | 60 | 80.0 | /mnt/stockage/packages/f43/libipuz/po/pt_BR.po | 
 {.sortable}
 
 

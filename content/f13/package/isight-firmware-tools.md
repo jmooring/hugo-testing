@@ -18,8 +18,8 @@ The package isight-firmware-tools (version 1.5.92):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f13/language/fr.md" >}}) | 319 | 319 | 100.0 | /mnt/stockage/packages/f13/isight-firmware-tools/po/fr.po | 
- | [ja]({{< ref "/f13/language/ja.md" >}}) | 319 | 319 | 100.0 | /mnt/stockage/packages/f13/isight-firmware-tools/po/ja.po | 
+ | [fr](/f13/language/fr) | 319 | 319 | 100.0 | /mnt/stockage/packages/f13/isight-firmware-tools/po/fr.po | 
+ | [ja](/f13/language/ja) | 319 | 319 | 100.0 | /mnt/stockage/packages/f13/isight-firmware-tools/po/ja.po | 
 {.sortable}
 
 

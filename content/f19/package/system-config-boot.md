@@ -18,72 +18,72 @@ The package system-config-boot (version 1.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [as]({{< ref "/f19/language/as.md" >}}) | 119 | 119 | 100.0 | /mnt/stockage/packages/f19/system-config-boot/po/as.po | 
- | [bn_IN]({{< ref "/f19/language/bn_IN.md" >}}) | 119 | 119 | 100.0 | /mnt/stockage/packages/f19/system-config-boot/po/bn_IN.po | 
- | [ca]({{< ref "/f19/language/ca.md" >}}) | 119 | 119 | 100.0 | /mnt/stockage/packages/f19/system-config-boot/po/ca.po | 
- | [cs]({{< ref "/f19/language/cs.md" >}}) | 119 | 119 | 100.0 | /mnt/stockage/packages/f19/system-config-boot/po/cs.po | 
- | [da]({{< ref "/f19/language/da.md" >}}) | 119 | 119 | 100.0 | /mnt/stockage/packages/f19/system-config-boot/po/da.po | 
- | [de]({{< ref "/f19/language/de.md" >}}) | 119 | 119 | 100.0 | /mnt/stockage/packages/f19/system-config-boot/po/de.po | 
- | [el]({{< ref "/f19/language/el.md" >}}) | 119 | 119 | 100.0 | /mnt/stockage/packages/f19/system-config-boot/po/el.po | 
- | [en_GB]({{< ref "/f19/language/en_GB.md" >}}) | 119 | 119 | 100.0 | /mnt/stockage/packages/f19/system-config-boot/po/en_GB.po | 
- | [es]({{< ref "/f19/language/es.md" >}}) | 119 | 119 | 100.0 | /mnt/stockage/packages/f19/system-config-boot/po/es.po | 
- | [fa]({{< ref "/f19/language/fa.md" >}}) | 119 | 119 | 100.0 | /mnt/stockage/packages/f19/system-config-boot/po/fa.po | 
- | [fi]({{< ref "/f19/language/fi.md" >}}) | 119 | 119 | 100.0 | /mnt/stockage/packages/f19/system-config-boot/po/fi.po | 
- | [fr]({{< ref "/f19/language/fr.md" >}}) | 119 | 119 | 100.0 | /mnt/stockage/packages/f19/system-config-boot/po/fr.po | 
- | [gu]({{< ref "/f19/language/gu.md" >}}) | 119 | 119 | 100.0 | /mnt/stockage/packages/f19/system-config-boot/po/gu.po | 
- | [he]({{< ref "/f19/language/he.md" >}}) | 119 | 119 | 100.0 | /mnt/stockage/packages/f19/system-config-boot/po/he.po | 
- | [hi]({{< ref "/f19/language/hi.md" >}}) | 119 | 119 | 100.0 | /mnt/stockage/packages/f19/system-config-boot/po/hi.po | 
- | [hu]({{< ref "/f19/language/hu.md" >}}) | 119 | 119 | 100.0 | /mnt/stockage/packages/f19/system-config-boot/po/hu.po | 
- | [is]({{< ref "/f19/language/is.md" >}}) | 119 | 119 | 100.0 | /mnt/stockage/packages/f19/system-config-boot/po/is.po | 
- | [it]({{< ref "/f19/language/it.md" >}}) | 119 | 119 | 100.0 | /mnt/stockage/packages/f19/system-config-boot/po/it.po | 
- | [ja]({{< ref "/f19/language/ja.md" >}}) | 119 | 119 | 100.0 | /mnt/stockage/packages/f19/system-config-boot/po/ja.po | 
- | [kn]({{< ref "/f19/language/kn.md" >}}) | 119 | 119 | 100.0 | /mnt/stockage/packages/f19/system-config-boot/po/kn.po | 
- | [ko]({{< ref "/f19/language/ko.md" >}}) | 119 | 119 | 100.0 | /mnt/stockage/packages/f19/system-config-boot/po/ko.po | 
- | [ml]({{< ref "/f19/language/ml.md" >}}) | 119 | 119 | 100.0 | /mnt/stockage/packages/f19/system-config-boot/po/ml.po | 
- | [mr]({{< ref "/f19/language/mr.md" >}}) | 119 | 119 | 100.0 | /mnt/stockage/packages/f19/system-config-boot/po/mr.po | 
- | [nl]({{< ref "/f19/language/nl.md" >}}) | 119 | 119 | 100.0 | /mnt/stockage/packages/f19/system-config-boot/po/nl.po | 
- | [or]({{< ref "/f19/language/or.md" >}}) | 119 | 119 | 100.0 | /mnt/stockage/packages/f19/system-config-boot/po/or.po | 
- | [pa]({{< ref "/f19/language/pa.md" >}}) | 119 | 119 | 100.0 | /mnt/stockage/packages/f19/system-config-boot/po/pa.po | 
- | [pl]({{< ref "/f19/language/pl.md" >}}) | 119 | 119 | 100.0 | /mnt/stockage/packages/f19/system-config-boot/po/pl.po | 
- | [pt]({{< ref "/f19/language/pt.md" >}}) | 119 | 119 | 100.0 | /mnt/stockage/packages/f19/system-config-boot/po/pt.po | 
- | [pt_BR]({{< ref "/f19/language/pt_BR.md" >}}) | 119 | 119 | 100.0 | /mnt/stockage/packages/f19/system-config-boot/po/pt_BR.po | 
- | [ru]({{< ref "/f19/language/ru.md" >}}) | 119 | 119 | 100.0 | /mnt/stockage/packages/f19/system-config-boot/po/ru.po | 
- | [sk]({{< ref "/f19/language/sk.md" >}}) | 119 | 119 | 100.0 | /mnt/stockage/packages/f19/system-config-boot/po/sk.po | 
- | [sr]({{< ref "/f19/language/sr.md" >}}) | 119 | 119 | 100.0 | /mnt/stockage/packages/f19/system-config-boot/po/sr.po | 
- | [sr_Latn]({{< ref "/f19/language/sr_Latn.md" >}}) | 119 | 119 | 100.0 | /mnt/stockage/packages/f19/system-config-boot/po/sr@latin.po | 
- | [sv]({{< ref "/f19/language/sv.md" >}}) | 119 | 119 | 100.0 | /mnt/stockage/packages/f19/system-config-boot/po/sv.po | 
- | [ta]({{< ref "/f19/language/ta.md" >}}) | 119 | 119 | 100.0 | /mnt/stockage/packages/f19/system-config-boot/po/ta.po | 
- | [te]({{< ref "/f19/language/te.md" >}}) | 119 | 119 | 100.0 | /mnt/stockage/packages/f19/system-config-boot/po/te.po | 
- | [tr]({{< ref "/f19/language/tr.md" >}}) | 119 | 119 | 100.0 | /mnt/stockage/packages/f19/system-config-boot/po/tr.po | 
- | [uk]({{< ref "/f19/language/uk.md" >}}) | 119 | 119 | 100.0 | /mnt/stockage/packages/f19/system-config-boot/po/uk.po | 
- | [zh_Hans]({{< ref "/f19/language/zh_Hans.md" >}}) | 119 | 119 | 100.0 | /mnt/stockage/packages/f19/system-config-boot/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f19/language/zh_Hant.md" >}}) | 119 | 119 | 100.0 | /mnt/stockage/packages/f19/system-config-boot/po/zh_TW.po | 
- | [nb_NO]({{< ref "/f19/language/nb_NO.md" >}}) | 66 | 119 | 55.5 | /mnt/stockage/packages/f19/system-config-boot/po/nb.po | 
- | [bg]({{< ref "/f19/language/bg.md" >}}) | 46 | 119 | 38.7 | /mnt/stockage/packages/f19/system-config-boot/po/bg.po | 
- | [hr]({{< ref "/f19/language/hr.md" >}}) | 46 | 119 | 38.7 | /mnt/stockage/packages/f19/system-config-boot/po/hr.po | 
- | [id]({{< ref "/f19/language/id.md" >}}) | 46 | 119 | 38.7 | /mnt/stockage/packages/f19/system-config-boot/po/id.po | 
- | [ms]({{< ref "/f19/language/ms.md" >}}) | 46 | 119 | 38.7 | /mnt/stockage/packages/f19/system-config-boot/po/ms.po | 
- | [be]({{< ref "/f19/language/be.md" >}}) | 41 | 119 | 34.5 | /mnt/stockage/packages/f19/system-config-boot/po/be.po | 
- | [bn]({{< ref "/f19/language/bn.md" >}}) | 41 | 119 | 34.5 | /mnt/stockage/packages/f19/system-config-boot/po/bn.po | 
- | [bs]({{< ref "/f19/language/bs.md" >}}) | 41 | 119 | 34.5 | /mnt/stockage/packages/f19/system-config-boot/po/bs.po | 
- | [cy]({{< ref "/f19/language/cy.md" >}}) | 41 | 119 | 34.5 | /mnt/stockage/packages/f19/system-config-boot/po/cy.po | 
- | [et]({{< ref "/f19/language/et.md" >}}) | 41 | 119 | 34.5 | /mnt/stockage/packages/f19/system-config-boot/po/et.po | 
- | [gl]({{< ref "/f19/language/gl.md" >}}) | 41 | 119 | 34.5 | /mnt/stockage/packages/f19/system-config-boot/po/gl.po | 
- | [ka]({{< ref "/f19/language/ka.md" >}}) | 41 | 119 | 34.5 | /mnt/stockage/packages/f19/system-config-boot/po/ka.po | 
- | [lt]({{< ref "/f19/language/lt.md" >}}) | 41 | 119 | 34.5 | /mnt/stockage/packages/f19/system-config-boot/po/lt.po | 
- | [lv]({{< ref "/f19/language/lv.md" >}}) | 41 | 119 | 34.5 | /mnt/stockage/packages/f19/system-config-boot/po/lv.po | 
- | [mk]({{< ref "/f19/language/mk.md" >}}) | 41 | 119 | 34.5 | /mnt/stockage/packages/f19/system-config-boot/po/mk.po | 
- | [ro]({{< ref "/f19/language/ro.md" >}}) | 41 | 119 | 34.5 | /mnt/stockage/packages/f19/system-config-boot/po/ro.po | 
- | [si]({{< ref "/f19/language/si.md" >}}) | 41 | 119 | 34.5 | /mnt/stockage/packages/f19/system-config-boot/po/si.po | 
- | [sl]({{< ref "/f19/language/sl.md" >}}) | 41 | 119 | 34.5 | /mnt/stockage/packages/f19/system-config-boot/po/sl.po | 
- | [sq]({{< ref "/f19/language/sq.md" >}}) | 41 | 119 | 34.5 | /mnt/stockage/packages/f19/system-config-boot/po/sq.po | 
- | [ur]({{< ref "/f19/language/ur.md" >}}) | 41 | 119 | 34.5 | /mnt/stockage/packages/f19/system-config-boot/po/ur.po | 
- | [vi]({{< ref "/f19/language/vi.md" >}}) | 41 | 119 | 34.5 | /mnt/stockage/packages/f19/system-config-boot/po/vi.po | 
- | [ar]({{< ref "/f19/language/ar.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f19/system-config-boot/po/ar.po | 
- | [hy]({{< ref "/f19/language/hy.md" >}}) | 0 | 119 | 0.0 | /mnt/stockage/packages/f19/system-config-boot/po/hy.po | 
- | [ku]({{< ref "/f19/language/ku.md" >}}) | 0 | 119 | 0.0 | /mnt/stockage/packages/f19/system-config-boot/po/ku.po | 
- | [lo]({{< ref "/f19/language/lo.md" >}}) | 0 | 119 | 0.0 | /mnt/stockage/packages/f19/system-config-boot/po/lo.po | 
- | [my]({{< ref "/f19/language/my.md" >}}) | 0 | 119 | 0.0 | /mnt/stockage/packages/f19/system-config-boot/po/my.po | 
+ | [as](/f19/language/as) | 119 | 119 | 100.0 | /mnt/stockage/packages/f19/system-config-boot/po/as.po | 
+ | [bn_IN](/f19/language/bn_IN) | 119 | 119 | 100.0 | /mnt/stockage/packages/f19/system-config-boot/po/bn_IN.po | 
+ | [ca](/f19/language/ca) | 119 | 119 | 100.0 | /mnt/stockage/packages/f19/system-config-boot/po/ca.po | 
+ | [cs](/f19/language/cs) | 119 | 119 | 100.0 | /mnt/stockage/packages/f19/system-config-boot/po/cs.po | 
+ | [da](/f19/language/da) | 119 | 119 | 100.0 | /mnt/stockage/packages/f19/system-config-boot/po/da.po | 
+ | [de](/f19/language/de) | 119 | 119 | 100.0 | /mnt/stockage/packages/f19/system-config-boot/po/de.po | 
+ | [el](/f19/language/el) | 119 | 119 | 100.0 | /mnt/stockage/packages/f19/system-config-boot/po/el.po | 
+ | [en_GB](/f19/language/en_GB) | 119 | 119 | 100.0 | /mnt/stockage/packages/f19/system-config-boot/po/en_GB.po | 
+ | [es](/f19/language/es) | 119 | 119 | 100.0 | /mnt/stockage/packages/f19/system-config-boot/po/es.po | 
+ | [fa](/f19/language/fa) | 119 | 119 | 100.0 | /mnt/stockage/packages/f19/system-config-boot/po/fa.po | 
+ | [fi](/f19/language/fi) | 119 | 119 | 100.0 | /mnt/stockage/packages/f19/system-config-boot/po/fi.po | 
+ | [fr](/f19/language/fr) | 119 | 119 | 100.0 | /mnt/stockage/packages/f19/system-config-boot/po/fr.po | 
+ | [gu](/f19/language/gu) | 119 | 119 | 100.0 | /mnt/stockage/packages/f19/system-config-boot/po/gu.po | 
+ | [he](/f19/language/he) | 119 | 119 | 100.0 | /mnt/stockage/packages/f19/system-config-boot/po/he.po | 
+ | [hi](/f19/language/hi) | 119 | 119 | 100.0 | /mnt/stockage/packages/f19/system-config-boot/po/hi.po | 
+ | [hu](/f19/language/hu) | 119 | 119 | 100.0 | /mnt/stockage/packages/f19/system-config-boot/po/hu.po | 
+ | [is](/f19/language/is) | 119 | 119 | 100.0 | /mnt/stockage/packages/f19/system-config-boot/po/is.po | 
+ | [it](/f19/language/it) | 119 | 119 | 100.0 | /mnt/stockage/packages/f19/system-config-boot/po/it.po | 
+ | [ja](/f19/language/ja) | 119 | 119 | 100.0 | /mnt/stockage/packages/f19/system-config-boot/po/ja.po | 
+ | [kn](/f19/language/kn) | 119 | 119 | 100.0 | /mnt/stockage/packages/f19/system-config-boot/po/kn.po | 
+ | [ko](/f19/language/ko) | 119 | 119 | 100.0 | /mnt/stockage/packages/f19/system-config-boot/po/ko.po | 
+ | [ml](/f19/language/ml) | 119 | 119 | 100.0 | /mnt/stockage/packages/f19/system-config-boot/po/ml.po | 
+ | [mr](/f19/language/mr) | 119 | 119 | 100.0 | /mnt/stockage/packages/f19/system-config-boot/po/mr.po | 
+ | [nl](/f19/language/nl) | 119 | 119 | 100.0 | /mnt/stockage/packages/f19/system-config-boot/po/nl.po | 
+ | [or](/f19/language/or) | 119 | 119 | 100.0 | /mnt/stockage/packages/f19/system-config-boot/po/or.po | 
+ | [pa](/f19/language/pa) | 119 | 119 | 100.0 | /mnt/stockage/packages/f19/system-config-boot/po/pa.po | 
+ | [pl](/f19/language/pl) | 119 | 119 | 100.0 | /mnt/stockage/packages/f19/system-config-boot/po/pl.po | 
+ | [pt](/f19/language/pt) | 119 | 119 | 100.0 | /mnt/stockage/packages/f19/system-config-boot/po/pt.po | 
+ | [pt_BR](/f19/language/pt_BR) | 119 | 119 | 100.0 | /mnt/stockage/packages/f19/system-config-boot/po/pt_BR.po | 
+ | [ru](/f19/language/ru) | 119 | 119 | 100.0 | /mnt/stockage/packages/f19/system-config-boot/po/ru.po | 
+ | [sk](/f19/language/sk) | 119 | 119 | 100.0 | /mnt/stockage/packages/f19/system-config-boot/po/sk.po | 
+ | [sr](/f19/language/sr) | 119 | 119 | 100.0 | /mnt/stockage/packages/f19/system-config-boot/po/sr.po | 
+ | [sr_Latn](/f19/language/sr_Latn) | 119 | 119 | 100.0 | /mnt/stockage/packages/f19/system-config-boot/po/sr@latin.po | 
+ | [sv](/f19/language/sv) | 119 | 119 | 100.0 | /mnt/stockage/packages/f19/system-config-boot/po/sv.po | 
+ | [ta](/f19/language/ta) | 119 | 119 | 100.0 | /mnt/stockage/packages/f19/system-config-boot/po/ta.po | 
+ | [te](/f19/language/te) | 119 | 119 | 100.0 | /mnt/stockage/packages/f19/system-config-boot/po/te.po | 
+ | [tr](/f19/language/tr) | 119 | 119 | 100.0 | /mnt/stockage/packages/f19/system-config-boot/po/tr.po | 
+ | [uk](/f19/language/uk) | 119 | 119 | 100.0 | /mnt/stockage/packages/f19/system-config-boot/po/uk.po | 
+ | [zh_Hans](/f19/language/zh_Hans) | 119 | 119 | 100.0 | /mnt/stockage/packages/f19/system-config-boot/po/zh_CN.po | 
+ | [zh_Hant](/f19/language/zh_Hant) | 119 | 119 | 100.0 | /mnt/stockage/packages/f19/system-config-boot/po/zh_TW.po | 
+ | [nb_NO](/f19/language/nb_NO) | 66 | 119 | 55.5 | /mnt/stockage/packages/f19/system-config-boot/po/nb.po | 
+ | [bg](/f19/language/bg) | 46 | 119 | 38.7 | /mnt/stockage/packages/f19/system-config-boot/po/bg.po | 
+ | [hr](/f19/language/hr) | 46 | 119 | 38.7 | /mnt/stockage/packages/f19/system-config-boot/po/hr.po | 
+ | [id](/f19/language/id) | 46 | 119 | 38.7 | /mnt/stockage/packages/f19/system-config-boot/po/id.po | 
+ | [ms](/f19/language/ms) | 46 | 119 | 38.7 | /mnt/stockage/packages/f19/system-config-boot/po/ms.po | 
+ | [be](/f19/language/be) | 41 | 119 | 34.5 | /mnt/stockage/packages/f19/system-config-boot/po/be.po | 
+ | [bn](/f19/language/bn) | 41 | 119 | 34.5 | /mnt/stockage/packages/f19/system-config-boot/po/bn.po | 
+ | [bs](/f19/language/bs) | 41 | 119 | 34.5 | /mnt/stockage/packages/f19/system-config-boot/po/bs.po | 
+ | [cy](/f19/language/cy) | 41 | 119 | 34.5 | /mnt/stockage/packages/f19/system-config-boot/po/cy.po | 
+ | [et](/f19/language/et) | 41 | 119 | 34.5 | /mnt/stockage/packages/f19/system-config-boot/po/et.po | 
+ | [gl](/f19/language/gl) | 41 | 119 | 34.5 | /mnt/stockage/packages/f19/system-config-boot/po/gl.po | 
+ | [ka](/f19/language/ka) | 41 | 119 | 34.5 | /mnt/stockage/packages/f19/system-config-boot/po/ka.po | 
+ | [lt](/f19/language/lt) | 41 | 119 | 34.5 | /mnt/stockage/packages/f19/system-config-boot/po/lt.po | 
+ | [lv](/f19/language/lv) | 41 | 119 | 34.5 | /mnt/stockage/packages/f19/system-config-boot/po/lv.po | 
+ | [mk](/f19/language/mk) | 41 | 119 | 34.5 | /mnt/stockage/packages/f19/system-config-boot/po/mk.po | 
+ | [ro](/f19/language/ro) | 41 | 119 | 34.5 | /mnt/stockage/packages/f19/system-config-boot/po/ro.po | 
+ | [si](/f19/language/si) | 41 | 119 | 34.5 | /mnt/stockage/packages/f19/system-config-boot/po/si.po | 
+ | [sl](/f19/language/sl) | 41 | 119 | 34.5 | /mnt/stockage/packages/f19/system-config-boot/po/sl.po | 
+ | [sq](/f19/language/sq) | 41 | 119 | 34.5 | /mnt/stockage/packages/f19/system-config-boot/po/sq.po | 
+ | [ur](/f19/language/ur) | 41 | 119 | 34.5 | /mnt/stockage/packages/f19/system-config-boot/po/ur.po | 
+ | [vi](/f19/language/vi) | 41 | 119 | 34.5 | /mnt/stockage/packages/f19/system-config-boot/po/vi.po | 
+ | [ar](/f19/language/ar) | 0 | 0 | 0.0 | /mnt/stockage/packages/f19/system-config-boot/po/ar.po | 
+ | [hy](/f19/language/hy) | 0 | 119 | 0.0 | /mnt/stockage/packages/f19/system-config-boot/po/hy.po | 
+ | [ku](/f19/language/ku) | 0 | 119 | 0.0 | /mnt/stockage/packages/f19/system-config-boot/po/ku.po | 
+ | [lo](/f19/language/lo) | 0 | 119 | 0.0 | /mnt/stockage/packages/f19/system-config-boot/po/lo.po | 
+ | [my](/f19/language/my) | 0 | 119 | 0.0 | /mnt/stockage/packages/f19/system-config-boot/po/my.po | 
 {.sortable}
 
 

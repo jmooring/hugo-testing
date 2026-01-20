@@ -18,11 +18,11 @@ The package extra-cmake-modules (version 6.22.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f42/language/de.md" >}}) | 16 | 16 | 100.0 | /mnt/stockage/packages/f42/extra-cmake-modules/tests/ECMPoQmToolsTest/tr_test-po/de/catalog.po/mnt/stockage/packages/f42/extra-cmake-modules/tests/ECMPoQmToolsTest/tr_test-po/de/catalog2.po | 
- | [en]({{< ref "/f42/language/en.md" >}}) | 16 | 16 | 100.0 | /mnt/stockage/packages/f42/extra-cmake-modules/tests/ECMPoQmToolsTest/tr_test-po/en/catalog.po/mnt/stockage/packages/f42/extra-cmake-modules/tests/ECMPoQmToolsTest/tr_test-po/en/catalog2.po | 
- | [pt]({{< ref "/f42/language/pt.md" >}}) | 8 | 8 | 100.0 | /mnt/stockage/packages/f42/extra-cmake-modules/tests/ECMPoQmToolsTest/tr_test-po/pt/catalog.po | 
- | [pt_BR]({{< ref "/f42/language/pt_BR.md" >}}) | 8 | 8 | 100.0 | /mnt/stockage/packages/f42/extra-cmake-modules/tests/ECMPoQmToolsTest/tr_test-po/pt_BR/catalog.po | 
- | [fr]({{< ref "/f42/language/fr.md" >}}) | 0 | 6 | 0.0 | /mnt/stockage/packages/f42/extra-cmake-modules/tests/ECMPoQmToolsTest/po-custom-dir1/fr/custom-dir1-install-test.po/mnt/stockage/packages/f42/extra-cmake-modules/tests/ECMPoQmToolsTest/po-custom-dir1/es/custom-dir1-install-test.po/mnt/stockage/packages/f42/extra-cmake-modules/tests/ECMPoQmToolsTest/po-custom-dir2/fr/custom-dir2-install-test.po/mnt/stockage/packages/f42/extra-cmake-modules/tests/ECMPoQmToolsTest/po-custom-dir2/es/custom-dir2-install-test.po/mnt/stockage/packages/f42/extra-cmake-modules/tests/ECMPoQmToolsTest/po/fr/install-test.po/mnt/stockage/packages/f42/extra-cmake-modules/tests/ECMPoQmToolsTest/po/es/install-test.po | 
+ | [de](/f42/language/de) | 16 | 16 | 100.0 | /mnt/stockage/packages/f42/extra-cmake-modules/tests/ECMPoQmToolsTest/tr_test-po/de/catalog.po/mnt/stockage/packages/f42/extra-cmake-modules/tests/ECMPoQmToolsTest/tr_test-po/de/catalog2.po | 
+ | [en](/f42/language/en) | 16 | 16 | 100.0 | /mnt/stockage/packages/f42/extra-cmake-modules/tests/ECMPoQmToolsTest/tr_test-po/en/catalog.po/mnt/stockage/packages/f42/extra-cmake-modules/tests/ECMPoQmToolsTest/tr_test-po/en/catalog2.po | 
+ | [pt](/f42/language/pt) | 8 | 8 | 100.0 | /mnt/stockage/packages/f42/extra-cmake-modules/tests/ECMPoQmToolsTest/tr_test-po/pt/catalog.po | 
+ | [pt_BR](/f42/language/pt_BR) | 8 | 8 | 100.0 | /mnt/stockage/packages/f42/extra-cmake-modules/tests/ECMPoQmToolsTest/tr_test-po/pt_BR/catalog.po | 
+ | [fr](/f42/language/fr) | 0 | 6 | 0.0 | /mnt/stockage/packages/f42/extra-cmake-modules/tests/ECMPoQmToolsTest/po-custom-dir1/fr/custom-dir1-install-test.po/mnt/stockage/packages/f42/extra-cmake-modules/tests/ECMPoQmToolsTest/po-custom-dir1/es/custom-dir1-install-test.po/mnt/stockage/packages/f42/extra-cmake-modules/tests/ECMPoQmToolsTest/po-custom-dir2/fr/custom-dir2-install-test.po/mnt/stockage/packages/f42/extra-cmake-modules/tests/ECMPoQmToolsTest/po-custom-dir2/es/custom-dir2-install-test.po/mnt/stockage/packages/f42/extra-cmake-modules/tests/ECMPoQmToolsTest/po/fr/install-test.po/mnt/stockage/packages/f42/extra-cmake-modules/tests/ECMPoQmToolsTest/po/es/install-test.po | 
 {.sortable}
 
 

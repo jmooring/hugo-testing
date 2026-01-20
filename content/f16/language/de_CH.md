@@ -38,31 +38,31 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [iok]({{< ref "/f16/package/iok.md" >}}) | 134 | 134 | 100.0 | German <fedora-trans-de@redhat.com> | 
- | [php-gettext]({{< ref "/f16/package/php-gettext.md" >}}) | 18 | 18 | 100.0 |  | 
- | [php-php-gettext]({{< ref "/f16/package/php-php-gettext.md" >}}) | 18 | 18 | 100.0 |  | 
- | [sectool]({{< ref "/f16/package/sectool.md" >}}) | 2411 | 2411 | 100.0 | German <fedora-trans-de@redhat.com> | 
- | [system-config-users-docs]({{< ref "/f16/package/system-config-users-docs.md" >}}) | 1054 | 1061 | 99.3 | German <fedora-trans-de@redhat.com> | 
- | [publican-fedora]({{< ref "/f16/package/publican-fedora.md" >}}) | 106 | 107 | 99.1 | <de@li.org> | 
- | [usermode]({{< ref "/f16/package/usermode.md" >}}) | 553 | 572 | 96.7 | LANGUAGE <LL@li.org> | 
- | [libuser]({{< ref "/f16/package/libuser.md" >}}) | 1078 | 1146 | 94.1 | LANGUAGE <LL@li.org> | 
- | [fuse-encfs]({{< ref "/f16/package/fuse-encfs.md" >}}) | 1080 | 1315 | 82.1 | German (Switzerland) <de_CH@li.org> | 
- | [pulseaudio]({{< ref "/f16/package/pulseaudio.md" >}}) | 2041 | 2849 | 71.6 | German <fedora-trans-de@redhat.com> | 
- | [sos]({{< ref "/f16/package/sos.md" >}}) | 174 | 267 | 65.2 | German <fedora-trans-de@redhat.com> | 
- | [system-config-samba]({{< ref "/f16/package/system-config-samba.md" >}}) | 351 | 571 | 61.5 | LANGUAGE <LL@li.org> | 
- | [pykickstart]({{< ref "/f16/package/pykickstart.md" >}}) | 209 | 342 | 61.1 | LANGUAGE <LL@li.org> | 
- | [anaconda]({{< ref "/f16/package/anaconda.md" >}}) | 4993 | 9408 | 53.1 | LANGUAGE <LL@li.org> | 
- | [publican]({{< ref "/f16/package/publican.md" >}}) | 354 | 1094 | 32.4 | <fedora-trans-de@redhat.com> | 
- | [volume_key]({{< ref "/f16/package/volume_key.md" >}}) | 186 | 745 | 25.0 | LANGUAGE <LL@li.org> | 
- | [gnomebaker]({{< ref "/f16/package/gnomebaker.md" >}}) | 271 | 1186 | 22.8 | German (Switzerland) <de_CH@li.org> | 
- | [pgadmin3]({{< ref "/f16/package/pgadmin3.md" >}}) | 2152 | 14829 | 14.5 | pgAdmin Developers <pgadmin-hackers@postgresql.org> | 
- | [firstboot]({{< ref "/f16/package/firstboot.md" >}}) | 0 | 596 | 0.0 | LANGUAGE <LL@li.org> | 
- | [im-chooser]({{< ref "/f16/package/im-chooser.md" >}}) | 0 | 226 | 0.0 | LANGUAGE <LL@li.org> | 
- | [imsettings]({{< ref "/f16/package/imsettings.md" >}}) | 0 | 404 | 0.0 | LANGUAGE <LL@li.org> | 
- | [mc]({{< ref "/f16/package/mc.md" >}}) | 0 | 3990 | 0.0 | German (Switzerland) (http://www.transifex.com/projects/p/mc/language/de_CH/) | 
- | [system-config-date]({{< ref "/f16/package/system-config-date.md" >}}) | 0 | 503 | 0.0 | LANGUAGE <LL@li.org> | 
- | [system-config-users]({{< ref "/f16/package/system-config-users.md" >}}) | 0 | 1452 | 0.0 | LANGUAGE <LL@li.org> | 
- | [vidalia]({{< ref "/f16/package/vidalia.md" >}}) | 0 | 4655 | 0.0 | translations@vidalia-project.net | 
+ | [iok](/f16/package/iok) | 134 | 134 | 100.0 | German <fedora-trans-de@redhat.com> | 
+ | [php-gettext](/f16/package/php-gettext) | 18 | 18 | 100.0 |  | 
+ | [php-php-gettext](/f16/package/php-php-gettext) | 18 | 18 | 100.0 |  | 
+ | [sectool](/f16/package/sectool) | 2411 | 2411 | 100.0 | German <fedora-trans-de@redhat.com> | 
+ | [system-config-users-docs](/f16/package/system-config-users-docs) | 1054 | 1061 | 99.3 | German <fedora-trans-de@redhat.com> | 
+ | [publican-fedora](/f16/package/publican-fedora) | 106 | 107 | 99.1 | <de@li.org> | 
+ | [usermode](/f16/package/usermode) | 553 | 572 | 96.7 | LANGUAGE <LL@li.org> | 
+ | [libuser](/f16/package/libuser) | 1078 | 1146 | 94.1 | LANGUAGE <LL@li.org> | 
+ | [fuse-encfs](/f16/package/fuse-encfs) | 1080 | 1315 | 82.1 | German (Switzerland) <de_CH@li.org> | 
+ | [pulseaudio](/f16/package/pulseaudio) | 2041 | 2849 | 71.6 | German <fedora-trans-de@redhat.com> | 
+ | [sos](/f16/package/sos) | 174 | 267 | 65.2 | German <fedora-trans-de@redhat.com> | 
+ | [system-config-samba](/f16/package/system-config-samba) | 351 | 571 | 61.5 | LANGUAGE <LL@li.org> | 
+ | [pykickstart](/f16/package/pykickstart) | 209 | 342 | 61.1 | LANGUAGE <LL@li.org> | 
+ | [anaconda](/f16/package/anaconda) | 4993 | 9408 | 53.1 | LANGUAGE <LL@li.org> | 
+ | [publican](/f16/package/publican) | 354 | 1094 | 32.4 | <fedora-trans-de@redhat.com> | 
+ | [volume_key](/f16/package/volume_key) | 186 | 745 | 25.0 | LANGUAGE <LL@li.org> | 
+ | [gnomebaker](/f16/package/gnomebaker) | 271 | 1186 | 22.8 | German (Switzerland) <de_CH@li.org> | 
+ | [pgadmin3](/f16/package/pgadmin3) | 2152 | 14829 | 14.5 | pgAdmin Developers <pgadmin-hackers@postgresql.org> | 
+ | [firstboot](/f16/package/firstboot) | 0 | 596 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [im-chooser](/f16/package/im-chooser) | 0 | 226 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [imsettings](/f16/package/imsettings) | 0 | 404 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [mc](/f16/package/mc) | 0 | 3990 | 0.0 | German (Switzerland) (http://www.transifex.com/projects/p/mc/language/de_CH/) | 
+ | [system-config-date](/f16/package/system-config-date) | 0 | 503 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [system-config-users](/f16/package/system-config-users) | 0 | 1452 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [vidalia](/f16/package/vidalia) | 0 | 4655 | 0.0 | translations@vidalia-project.net | 
 {.sortable}
 
 
@@ -74,8 +74,8 @@ We use the po metadata to get the language code and the team, but sometimes it f
 
 | Package | Lang from file path/name | polib error | Team |
 |---------|--------------------------|-------------|------|
- | [php-gettext]({{< ref "/f16/package/php-gettext.md" >}}) | /mnt/stockage/packages/f16/php-gettext/examples/locale/de_CH/LC_MESSAGES/messages.po | error-os |  | 
- | [php-php-gettext]({{< ref "/f16/package/php-php-gettext.md" >}}) | /mnt/stockage/packages/f16/php-php-gettext/examples/locale/de_CH/LC_MESSAGES/messages.po | error-os |  | 
+ | [php-gettext](/f16/package/php-gettext) | /mnt/stockage/packages/f16/php-gettext/examples/locale/de_CH/LC_MESSAGES/messages.po | error-os |  | 
+ | [php-php-gettext](/f16/package/php-php-gettext) | /mnt/stockage/packages/f16/php-php-gettext/examples/locale/de_CH/LC_MESSAGES/messages.po | error-os |  | 
 {.sortable}
 
 

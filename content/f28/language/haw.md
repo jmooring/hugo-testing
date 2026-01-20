@@ -38,9 +38,9 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [iso-codes]({{< ref "/f28/package/iso-codes.md" >}}) | 22 | 1090 | 2.0 | Hawaiian <https://hosted.weblate.org/projects/iso-codes/iso-3166-1/haw/> | 
- | [stellarium]({{< ref "/f28/package/stellarium.md" >}}) | 59 | 68196 | 0.1 | Hawaiian (https://www.transifex.com/stellarium/teams/80998/haw/) | 
- | [visualboyadvance-m]({{< ref "/f28/package/visualboyadvance-m.md" >}}) | 0 | 2253 | 0.0 | Hawaiian (http://www.transifex.com/bgk/vba-m/language/haw/) | 
+ | [iso-codes](/f28/package/iso-codes) | 22 | 1090 | 2.0 | Hawaiian <https://hosted.weblate.org/projects/iso-codes/iso-3166-1/haw/> | 
+ | [stellarium](/f28/package/stellarium) | 59 | 68196 | 0.1 | Hawaiian (https://www.transifex.com/stellarium/teams/80998/haw/) | 
+ | [visualboyadvance-m](/f28/package/visualboyadvance-m) | 0 | 2253 | 0.0 | Hawaiian (http://www.transifex.com/bgk/vba-m/language/haw/) | 
 {.sortable}
 
 

@@ -18,35 +18,35 @@ The package pdfarranger (version 1.10.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [es]({{< ref "/f38/language/es.md" >}}) | 526 | 526 | 100.0 | /mnt/stockage/packages/f38/pdfarranger/po/es.po | 
- | [fi]({{< ref "/f38/language/fi.md" >}}) | 526 | 526 | 100.0 | /mnt/stockage/packages/f38/pdfarranger/po/fi.po | 
- | [fr]({{< ref "/f38/language/fr.md" >}}) | 526 | 526 | 100.0 | /mnt/stockage/packages/f38/pdfarranger/po/fr.po | 
- | [he]({{< ref "/f38/language/he.md" >}}) | 526 | 526 | 100.0 | /mnt/stockage/packages/f38/pdfarranger/po/he.po | 
- | [hr]({{< ref "/f38/language/hr.md" >}}) | 526 | 526 | 100.0 | /mnt/stockage/packages/f38/pdfarranger/po/hr.po | 
- | [hu]({{< ref "/f38/language/hu.md" >}}) | 526 | 526 | 100.0 | /mnt/stockage/packages/f38/pdfarranger/po/hu.po | 
- | [is]({{< ref "/f38/language/is.md" >}}) | 526 | 526 | 100.0 | /mnt/stockage/packages/f38/pdfarranger/po/is.po | 
- | [it]({{< ref "/f38/language/it.md" >}}) | 526 | 526 | 100.0 | /mnt/stockage/packages/f38/pdfarranger/po/it.po | 
- | [nl]({{< ref "/f38/language/nl.md" >}}) | 526 | 526 | 100.0 | /mnt/stockage/packages/f38/pdfarranger/po/nl.po | 
- | [oc]({{< ref "/f38/language/oc.md" >}}) | 526 | 526 | 100.0 | /mnt/stockage/packages/f38/pdfarranger/po/oc.po | 
- | [pt_BR]({{< ref "/f38/language/pt_BR.md" >}}) | 526 | 526 | 100.0 | /mnt/stockage/packages/f38/pdfarranger/po/pt_BR.po | 
- | [pt_PT]({{< ref "/f38/language/pt_PT.md" >}}) | 526 | 526 | 100.0 | /mnt/stockage/packages/f38/pdfarranger/po/pt_PT.po | 
- | [ru]({{< ref "/f38/language/ru.md" >}}) | 526 | 526 | 100.0 | /mnt/stockage/packages/f38/pdfarranger/po/ru.po | 
- | [sv]({{< ref "/f38/language/sv.md" >}}) | 526 | 526 | 100.0 | /mnt/stockage/packages/f38/pdfarranger/po/sv.po | 
- | [uk]({{< ref "/f38/language/uk.md" >}}) | 526 | 526 | 100.0 | /mnt/stockage/packages/f38/pdfarranger/po/uk.po | 
- | [el]({{< ref "/f38/language/el.md" >}}) | 525 | 526 | 99.8 | /mnt/stockage/packages/f38/pdfarranger/po/el.po | 
- | [id]({{< ref "/f38/language/id.md" >}}) | 524 | 526 | 99.6 | /mnt/stockage/packages/f38/pdfarranger/po/id.po | 
- | [tr]({{< ref "/f38/language/tr.md" >}}) | 458 | 526 | 87.1 | /mnt/stockage/packages/f38/pdfarranger/po/tr.po | 
- | [de]({{< ref "/f38/language/de.md" >}}) | 457 | 526 | 86.9 | /mnt/stockage/packages/f38/pdfarranger/po/de.po | 
- | [ca]({{< ref "/f38/language/ca.md" >}}) | 434 | 526 | 82.5 | /mnt/stockage/packages/f38/pdfarranger/po/ca.po | 
- | [cs]({{< ref "/f38/language/cs.md" >}}) | 434 | 526 | 82.5 | /mnt/stockage/packages/f38/pdfarranger/po/cs.po | 
- | [da]({{< ref "/f38/language/da.md" >}}) | 434 | 526 | 82.5 | /mnt/stockage/packages/f38/pdfarranger/po/da.po | 
- | [eu]({{< ref "/f38/language/eu.md" >}}) | 434 | 526 | 82.5 | /mnt/stockage/packages/f38/pdfarranger/po/eu.po | 
- | [zh_Hans]({{< ref "/f38/language/zh_Hans.md" >}}) | 434 | 526 | 82.5 | /mnt/stockage/packages/f38/pdfarranger/po/zh_CN.po | 
- | [ja]({{< ref "/f38/language/ja.md" >}}) | 411 | 526 | 78.1 | /mnt/stockage/packages/f38/pdfarranger/po/ja.po | 
- | [ca@valencia]({{< ref "/f38/language/ca@valencia.md" >}}) | 410 | 526 | 77.9 | /mnt/stockage/packages/f38/pdfarranger/po/ca@valencia.po | 
- | [ko]({{< ref "/f38/language/ko.md" >}}) | 385 | 526 | 73.2 | /mnt/stockage/packages/f38/pdfarranger/po/ko.po | 
- | [pl]({{< ref "/f38/language/pl.md" >}}) | 279 | 526 | 53.0 | /mnt/stockage/packages/f38/pdfarranger/po/pl_PL.po | 
- | [zh_Hant]({{< ref "/f38/language/zh_Hant.md" >}}) | 19 | 526 | 3.6 | /mnt/stockage/packages/f38/pdfarranger/po/zh_TW.po | 
+ | [es](/f38/language/es) | 526 | 526 | 100.0 | /mnt/stockage/packages/f38/pdfarranger/po/es.po | 
+ | [fi](/f38/language/fi) | 526 | 526 | 100.0 | /mnt/stockage/packages/f38/pdfarranger/po/fi.po | 
+ | [fr](/f38/language/fr) | 526 | 526 | 100.0 | /mnt/stockage/packages/f38/pdfarranger/po/fr.po | 
+ | [he](/f38/language/he) | 526 | 526 | 100.0 | /mnt/stockage/packages/f38/pdfarranger/po/he.po | 
+ | [hr](/f38/language/hr) | 526 | 526 | 100.0 | /mnt/stockage/packages/f38/pdfarranger/po/hr.po | 
+ | [hu](/f38/language/hu) | 526 | 526 | 100.0 | /mnt/stockage/packages/f38/pdfarranger/po/hu.po | 
+ | [is](/f38/language/is) | 526 | 526 | 100.0 | /mnt/stockage/packages/f38/pdfarranger/po/is.po | 
+ | [it](/f38/language/it) | 526 | 526 | 100.0 | /mnt/stockage/packages/f38/pdfarranger/po/it.po | 
+ | [nl](/f38/language/nl) | 526 | 526 | 100.0 | /mnt/stockage/packages/f38/pdfarranger/po/nl.po | 
+ | [oc](/f38/language/oc) | 526 | 526 | 100.0 | /mnt/stockage/packages/f38/pdfarranger/po/oc.po | 
+ | [pt_BR](/f38/language/pt_BR) | 526 | 526 | 100.0 | /mnt/stockage/packages/f38/pdfarranger/po/pt_BR.po | 
+ | [pt_PT](/f38/language/pt_PT) | 526 | 526 | 100.0 | /mnt/stockage/packages/f38/pdfarranger/po/pt_PT.po | 
+ | [ru](/f38/language/ru) | 526 | 526 | 100.0 | /mnt/stockage/packages/f38/pdfarranger/po/ru.po | 
+ | [sv](/f38/language/sv) | 526 | 526 | 100.0 | /mnt/stockage/packages/f38/pdfarranger/po/sv.po | 
+ | [uk](/f38/language/uk) | 526 | 526 | 100.0 | /mnt/stockage/packages/f38/pdfarranger/po/uk.po | 
+ | [el](/f38/language/el) | 525 | 526 | 99.8 | /mnt/stockage/packages/f38/pdfarranger/po/el.po | 
+ | [id](/f38/language/id) | 524 | 526 | 99.6 | /mnt/stockage/packages/f38/pdfarranger/po/id.po | 
+ | [tr](/f38/language/tr) | 458 | 526 | 87.1 | /mnt/stockage/packages/f38/pdfarranger/po/tr.po | 
+ | [de](/f38/language/de) | 457 | 526 | 86.9 | /mnt/stockage/packages/f38/pdfarranger/po/de.po | 
+ | [ca](/f38/language/ca) | 434 | 526 | 82.5 | /mnt/stockage/packages/f38/pdfarranger/po/ca.po | 
+ | [cs](/f38/language/cs) | 434 | 526 | 82.5 | /mnt/stockage/packages/f38/pdfarranger/po/cs.po | 
+ | [da](/f38/language/da) | 434 | 526 | 82.5 | /mnt/stockage/packages/f38/pdfarranger/po/da.po | 
+ | [eu](/f38/language/eu) | 434 | 526 | 82.5 | /mnt/stockage/packages/f38/pdfarranger/po/eu.po | 
+ | [zh_Hans](/f38/language/zh_Hans) | 434 | 526 | 82.5 | /mnt/stockage/packages/f38/pdfarranger/po/zh_CN.po | 
+ | [ja](/f38/language/ja) | 411 | 526 | 78.1 | /mnt/stockage/packages/f38/pdfarranger/po/ja.po | 
+ | [ca@valencia](/f38/language/ca@valencia) | 410 | 526 | 77.9 | /mnt/stockage/packages/f38/pdfarranger/po/ca@valencia.po | 
+ | [ko](/f38/language/ko) | 385 | 526 | 73.2 | /mnt/stockage/packages/f38/pdfarranger/po/ko.po | 
+ | [pl](/f38/language/pl) | 279 | 526 | 53.0 | /mnt/stockage/packages/f38/pdfarranger/po/pl_PL.po | 
+ | [zh_Hant](/f38/language/zh_Hant) | 19 | 526 | 3.6 | /mnt/stockage/packages/f38/pdfarranger/po/zh_TW.po | 
 {.sortable}
 
 

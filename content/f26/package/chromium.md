@@ -18,11 +18,11 @@ The package chromium (version 63.0.3239.108):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f26/language/de.md" >}}) | 349 | 349 | 100.0 | /mnt/stockage/packages/f26/chromium/third_party/mesa/src/src/mesa/drivers/dri/common/xmlpool/de.po | 
- | [es]({{< ref "/f26/language/es.md" >}}) | 258 | 258 | 100.0 | /mnt/stockage/packages/f26/chromium/third_party/mesa/src/src/mesa/drivers/dri/common/xmlpool/es.po | 
- | [fr]({{< ref "/f26/language/fr.md" >}}) | 258 | 258 | 100.0 | /mnt/stockage/packages/f26/chromium/third_party/mesa/src/src/mesa/drivers/dri/common/xmlpool/fr.po | 
- | [nl]({{< ref "/f26/language/nl.md" >}}) | 258 | 258 | 100.0 | /mnt/stockage/packages/f26/chromium/third_party/mesa/src/src/mesa/drivers/dri/common/xmlpool/nl.po | 
- | [sv]({{< ref "/f26/language/sv.md" >}}) | 270 | 270 | 100.0 | /mnt/stockage/packages/f26/chromium/third_party/mesa/src/src/mesa/drivers/dri/common/xmlpool/sv.po | 
+ | [de](/f26/language/de) | 349 | 349 | 100.0 | /mnt/stockage/packages/f26/chromium/third_party/mesa/src/src/mesa/drivers/dri/common/xmlpool/de.po | 
+ | [es](/f26/language/es) | 258 | 258 | 100.0 | /mnt/stockage/packages/f26/chromium/third_party/mesa/src/src/mesa/drivers/dri/common/xmlpool/es.po | 
+ | [fr](/f26/language/fr) | 258 | 258 | 100.0 | /mnt/stockage/packages/f26/chromium/third_party/mesa/src/src/mesa/drivers/dri/common/xmlpool/fr.po | 
+ | [nl](/f26/language/nl) | 258 | 258 | 100.0 | /mnt/stockage/packages/f26/chromium/third_party/mesa/src/src/mesa/drivers/dri/common/xmlpool/nl.po | 
+ | [sv](/f26/language/sv) | 270 | 270 | 100.0 | /mnt/stockage/packages/f26/chromium/third_party/mesa/src/src/mesa/drivers/dri/common/xmlpool/sv.po | 
 {.sortable}
 
 

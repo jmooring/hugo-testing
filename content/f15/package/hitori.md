@@ -18,25 +18,25 @@ The package hitori (version 0.3.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f15/language/cs.md" >}}) | 923 | 923 | 100.0 | /mnt/stockage/packages/f15/hitori/help/cs/cs.po/mnt/stockage/packages/f15/hitori/po/cs.po | 
- | [de]({{< ref "/f15/language/de.md" >}}) | 923 | 923 | 100.0 | /mnt/stockage/packages/f15/hitori/help/de/de.po/mnt/stockage/packages/f15/hitori/po/de.po | 
- | [el]({{< ref "/f15/language/el.md" >}}) | 172 | 172 | 100.0 | /mnt/stockage/packages/f15/hitori/po/el.po | 
- | [en_GB]({{< ref "/f15/language/en_GB.md" >}}) | 923 | 923 | 100.0 | /mnt/stockage/packages/f15/hitori/help/en_GB/en_GB.po/mnt/stockage/packages/f15/hitori/po/en_GB.po | 
- | [es]({{< ref "/f15/language/es.md" >}}) | 923 | 923 | 100.0 | /mnt/stockage/packages/f15/hitori/help/es/es.po/mnt/stockage/packages/f15/hitori/po/es.po | 
- | [gl]({{< ref "/f15/language/gl.md" >}}) | 172 | 172 | 100.0 | /mnt/stockage/packages/f15/hitori/po/gl.po | 
- | [hu]({{< ref "/f15/language/hu.md" >}}) | 179 | 179 | 100.0 | /mnt/stockage/packages/f15/hitori/po/hu.po | 
- | [id]({{< ref "/f15/language/id.md" >}}) | 172 | 172 | 100.0 | /mnt/stockage/packages/f15/hitori/po/id.po | 
- | [lv]({{< ref "/f15/language/lv.md" >}}) | 179 | 179 | 100.0 | /mnt/stockage/packages/f15/hitori/po/lv.po | 
- | [pa]({{< ref "/f15/language/pa.md" >}}) | 172 | 172 | 100.0 | /mnt/stockage/packages/f15/hitori/po/pa.po | 
- | [pt_BR]({{< ref "/f15/language/pt_BR.md" >}}) | 179 | 179 | 100.0 | /mnt/stockage/packages/f15/hitori/po/pt_BR.po | 
- | [ru]({{< ref "/f15/language/ru.md" >}}) | 179 | 179 | 100.0 | /mnt/stockage/packages/f15/hitori/po/ru.po | 
- | [vi]({{< ref "/f15/language/vi.md" >}}) | 179 | 179 | 100.0 | /mnt/stockage/packages/f15/hitori/po/vi.po | 
- | [fr]({{< ref "/f15/language/fr.md" >}}) | 919 | 923 | 99.6 | /mnt/stockage/packages/f15/hitori/help/fr/fr.po/mnt/stockage/packages/f15/hitori/po/fr.po | 
- | [sl]({{< ref "/f15/language/sl.md" >}}) | 919 | 923 | 99.6 | /mnt/stockage/packages/f15/hitori/help/sl/sl.po/mnt/stockage/packages/f15/hitori/po/sl.po | 
- | [nb_NO]({{< ref "/f15/language/nb_NO.md" >}}) | 130 | 172 | 75.6 | /mnt/stockage/packages/f15/hitori/po/nb.po | 
- | [sv]({{< ref "/f15/language/sv.md" >}}) | 285 | 647 | 44.0 | /mnt/stockage/packages/f15/hitori/help/sv/sv.po/mnt/stockage/packages/f15/hitori/po/sv.po | 
- | [da]({{< ref "/f15/language/da.md" >}}) | 319 | 899 | 35.5 | /mnt/stockage/packages/f15/hitori/help/da/da.po/mnt/stockage/packages/f15/hitori/po/da.po | 
- | [zh_Hans]({{< ref "/f15/language/zh_Hans.md" >}}) | 216 | 1113 | 19.4 | /mnt/stockage/packages/f15/hitori/help/zh_CN/zh_CN.po/mnt/stockage/packages/f15/hitori/po/zh_CN.po | 
+ | [cs](/f15/language/cs) | 923 | 923 | 100.0 | /mnt/stockage/packages/f15/hitori/help/cs/cs.po/mnt/stockage/packages/f15/hitori/po/cs.po | 
+ | [de](/f15/language/de) | 923 | 923 | 100.0 | /mnt/stockage/packages/f15/hitori/help/de/de.po/mnt/stockage/packages/f15/hitori/po/de.po | 
+ | [el](/f15/language/el) | 172 | 172 | 100.0 | /mnt/stockage/packages/f15/hitori/po/el.po | 
+ | [en_GB](/f15/language/en_GB) | 923 | 923 | 100.0 | /mnt/stockage/packages/f15/hitori/help/en_GB/en_GB.po/mnt/stockage/packages/f15/hitori/po/en_GB.po | 
+ | [es](/f15/language/es) | 923 | 923 | 100.0 | /mnt/stockage/packages/f15/hitori/help/es/es.po/mnt/stockage/packages/f15/hitori/po/es.po | 
+ | [gl](/f15/language/gl) | 172 | 172 | 100.0 | /mnt/stockage/packages/f15/hitori/po/gl.po | 
+ | [hu](/f15/language/hu) | 179 | 179 | 100.0 | /mnt/stockage/packages/f15/hitori/po/hu.po | 
+ | [id](/f15/language/id) | 172 | 172 | 100.0 | /mnt/stockage/packages/f15/hitori/po/id.po | 
+ | [lv](/f15/language/lv) | 179 | 179 | 100.0 | /mnt/stockage/packages/f15/hitori/po/lv.po | 
+ | [pa](/f15/language/pa) | 172 | 172 | 100.0 | /mnt/stockage/packages/f15/hitori/po/pa.po | 
+ | [pt_BR](/f15/language/pt_BR) | 179 | 179 | 100.0 | /mnt/stockage/packages/f15/hitori/po/pt_BR.po | 
+ | [ru](/f15/language/ru) | 179 | 179 | 100.0 | /mnt/stockage/packages/f15/hitori/po/ru.po | 
+ | [vi](/f15/language/vi) | 179 | 179 | 100.0 | /mnt/stockage/packages/f15/hitori/po/vi.po | 
+ | [fr](/f15/language/fr) | 919 | 923 | 99.6 | /mnt/stockage/packages/f15/hitori/help/fr/fr.po/mnt/stockage/packages/f15/hitori/po/fr.po | 
+ | [sl](/f15/language/sl) | 919 | 923 | 99.6 | /mnt/stockage/packages/f15/hitori/help/sl/sl.po/mnt/stockage/packages/f15/hitori/po/sl.po | 
+ | [nb_NO](/f15/language/nb_NO) | 130 | 172 | 75.6 | /mnt/stockage/packages/f15/hitori/po/nb.po | 
+ | [sv](/f15/language/sv) | 285 | 647 | 44.0 | /mnt/stockage/packages/f15/hitori/help/sv/sv.po/mnt/stockage/packages/f15/hitori/po/sv.po | 
+ | [da](/f15/language/da) | 319 | 899 | 35.5 | /mnt/stockage/packages/f15/hitori/help/da/da.po/mnt/stockage/packages/f15/hitori/po/da.po | 
+ | [zh_Hans](/f15/language/zh_Hans) | 216 | 1113 | 19.4 | /mnt/stockage/packages/f15/hitori/help/zh_CN/zh_CN.po/mnt/stockage/packages/f15/hitori/po/zh_CN.po | 
 {.sortable}
 
 

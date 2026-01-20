@@ -18,37 +18,37 @@ The package sylpheed (version 3.2.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [be]({{< ref "/f16/language/be.md" >}}) | 6983 | 6983 | 100.0 | /mnt/stockage/packages/f16/sylpheed/po/be.po | 
- | [es]({{< ref "/f16/language/es.md" >}}) | 6983 | 6983 | 100.0 | /mnt/stockage/packages/f16/sylpheed/po/es.po | 
- | [fr]({{< ref "/f16/language/fr.md" >}}) | 6983 | 6983 | 100.0 | /mnt/stockage/packages/f16/sylpheed/po/fr.po | 
- | [ja]({{< ref "/f16/language/ja.md" >}}) | 6983 | 6983 | 100.0 | /mnt/stockage/packages/f16/sylpheed/po/ja.po | 
- | [tr]({{< ref "/f16/language/tr.md" >}}) | 6983 | 6983 | 100.0 | /mnt/stockage/packages/f16/sylpheed/po/tr.po | 
- | [hu]({{< ref "/f16/language/hu.md" >}}) | 6937 | 6983 | 99.3 | /mnt/stockage/packages/f16/sylpheed/po/hu.po | 
- | [nl]({{< ref "/f16/language/nl.md" >}}) | 6935 | 6983 | 99.3 | /mnt/stockage/packages/f16/sylpheed/po/nl.po | 
- | [ro]({{< ref "/f16/language/ro.md" >}}) | 6912 | 6983 | 99.0 | /mnt/stockage/packages/f16/sylpheed/po/ro.po | 
- | [zh_Hant]({{< ref "/f16/language/zh_Hant.md" >}}) | 6906 | 6983 | 98.9 | /mnt/stockage/packages/f16/sylpheed/po/zh_TW.po | 
- | [de]({{< ref "/f16/language/de.md" >}}) | 6889 | 6983 | 98.7 | /mnt/stockage/packages/f16/sylpheed/po/de.po | 
- | [cs]({{< ref "/f16/language/cs.md" >}}) | 6869 | 6983 | 98.4 | /mnt/stockage/packages/f16/sylpheed/po/cs.po | 
- | [pt_BR]({{< ref "/f16/language/pt_BR.md" >}}) | 6869 | 6983 | 98.4 | /mnt/stockage/packages/f16/sylpheed/po/pt_BR.po | 
- | [uk]({{< ref "/f16/language/uk.md" >}}) | 6869 | 6983 | 98.4 | /mnt/stockage/packages/f16/sylpheed/po/uk.po | 
- | [fi]({{< ref "/f16/language/fi.md" >}}) | 6732 | 6983 | 96.4 | /mnt/stockage/packages/f16/sylpheed/po/fi.po | 
- | [ru]({{< ref "/f16/language/ru.md" >}}) | 6598 | 6983 | 94.5 | /mnt/stockage/packages/f16/sylpheed/po/ru.po | 
- | [it]({{< ref "/f16/language/it.md" >}}) | 5922 | 6983 | 84.8 | /mnt/stockage/packages/f16/sylpheed/po/it.po | 
- | [lt]({{< ref "/f16/language/lt.md" >}}) | 5774 | 6983 | 82.7 | /mnt/stockage/packages/f16/sylpheed/po/lt.po | 
- | [pl]({{< ref "/f16/language/pl.md" >}}) | 5475 | 6983 | 78.4 | /mnt/stockage/packages/f16/sylpheed/po/pl.po | 
- | [vi]({{< ref "/f16/language/vi.md" >}}) | 5217 | 6983 | 74.7 | /mnt/stockage/packages/f16/sylpheed/po/vi.po | 
- | [sv]({{< ref "/f16/language/sv.md" >}}) | 5083 | 6983 | 72.8 | /mnt/stockage/packages/f16/sylpheed/po/sv.po | 
- | [el]({{< ref "/f16/language/el.md" >}}) | 4944 | 6983 | 70.8 | /mnt/stockage/packages/f16/sylpheed/po/el.po | 
- | [zh_Hans]({{< ref "/f16/language/zh_Hans.md" >}}) | 4494 | 6983 | 64.4 | /mnt/stockage/packages/f16/sylpheed/po/zh_CN.po | 
- | [sk]({{< ref "/f16/language/sk.md" >}}) | 3921 | 6983 | 56.2 | /mnt/stockage/packages/f16/sylpheed/po/sk.po | 
- | [bg]({{< ref "/f16/language/bg.md" >}}) | 3888 | 6983 | 55.7 | /mnt/stockage/packages/f16/sylpheed/po/bg.po | 
- | [da]({{< ref "/f16/language/da.md" >}}) | 3811 | 6983 | 54.6 | /mnt/stockage/packages/f16/sylpheed/po/da.po | 
- | [gl]({{< ref "/f16/language/gl.md" >}}) | 3705 | 6983 | 53.1 | /mnt/stockage/packages/f16/sylpheed/po/gl.po | 
- | [sl]({{< ref "/f16/language/sl.md" >}}) | 3540 | 6983 | 50.7 | /mnt/stockage/packages/f16/sylpheed/po/sl.po | 
- | [sr]({{< ref "/f16/language/sr.md" >}}) | 3522 | 6983 | 50.4 | /mnt/stockage/packages/f16/sylpheed/po/sr.po | 
- | [et]({{< ref "/f16/language/et.md" >}}) | 3500 | 6983 | 50.1 | /mnt/stockage/packages/f16/sylpheed/po/et.po | 
- | [ko]({{< ref "/f16/language/ko.md" >}}) | 3149 | 6983 | 45.1 | /mnt/stockage/packages/f16/sylpheed/po/ko.po | 
- | [hr]({{< ref "/f16/language/hr.md" >}}) | 2716 | 6983 | 38.9 | /mnt/stockage/packages/f16/sylpheed/po/hr.po | 
+ | [be](/f16/language/be) | 6983 | 6983 | 100.0 | /mnt/stockage/packages/f16/sylpheed/po/be.po | 
+ | [es](/f16/language/es) | 6983 | 6983 | 100.0 | /mnt/stockage/packages/f16/sylpheed/po/es.po | 
+ | [fr](/f16/language/fr) | 6983 | 6983 | 100.0 | /mnt/stockage/packages/f16/sylpheed/po/fr.po | 
+ | [ja](/f16/language/ja) | 6983 | 6983 | 100.0 | /mnt/stockage/packages/f16/sylpheed/po/ja.po | 
+ | [tr](/f16/language/tr) | 6983 | 6983 | 100.0 | /mnt/stockage/packages/f16/sylpheed/po/tr.po | 
+ | [hu](/f16/language/hu) | 6937 | 6983 | 99.3 | /mnt/stockage/packages/f16/sylpheed/po/hu.po | 
+ | [nl](/f16/language/nl) | 6935 | 6983 | 99.3 | /mnt/stockage/packages/f16/sylpheed/po/nl.po | 
+ | [ro](/f16/language/ro) | 6912 | 6983 | 99.0 | /mnt/stockage/packages/f16/sylpheed/po/ro.po | 
+ | [zh_Hant](/f16/language/zh_Hant) | 6906 | 6983 | 98.9 | /mnt/stockage/packages/f16/sylpheed/po/zh_TW.po | 
+ | [de](/f16/language/de) | 6889 | 6983 | 98.7 | /mnt/stockage/packages/f16/sylpheed/po/de.po | 
+ | [cs](/f16/language/cs) | 6869 | 6983 | 98.4 | /mnt/stockage/packages/f16/sylpheed/po/cs.po | 
+ | [pt_BR](/f16/language/pt_BR) | 6869 | 6983 | 98.4 | /mnt/stockage/packages/f16/sylpheed/po/pt_BR.po | 
+ | [uk](/f16/language/uk) | 6869 | 6983 | 98.4 | /mnt/stockage/packages/f16/sylpheed/po/uk.po | 
+ | [fi](/f16/language/fi) | 6732 | 6983 | 96.4 | /mnt/stockage/packages/f16/sylpheed/po/fi.po | 
+ | [ru](/f16/language/ru) | 6598 | 6983 | 94.5 | /mnt/stockage/packages/f16/sylpheed/po/ru.po | 
+ | [it](/f16/language/it) | 5922 | 6983 | 84.8 | /mnt/stockage/packages/f16/sylpheed/po/it.po | 
+ | [lt](/f16/language/lt) | 5774 | 6983 | 82.7 | /mnt/stockage/packages/f16/sylpheed/po/lt.po | 
+ | [pl](/f16/language/pl) | 5475 | 6983 | 78.4 | /mnt/stockage/packages/f16/sylpheed/po/pl.po | 
+ | [vi](/f16/language/vi) | 5217 | 6983 | 74.7 | /mnt/stockage/packages/f16/sylpheed/po/vi.po | 
+ | [sv](/f16/language/sv) | 5083 | 6983 | 72.8 | /mnt/stockage/packages/f16/sylpheed/po/sv.po | 
+ | [el](/f16/language/el) | 4944 | 6983 | 70.8 | /mnt/stockage/packages/f16/sylpheed/po/el.po | 
+ | [zh_Hans](/f16/language/zh_Hans) | 4494 | 6983 | 64.4 | /mnt/stockage/packages/f16/sylpheed/po/zh_CN.po | 
+ | [sk](/f16/language/sk) | 3921 | 6983 | 56.2 | /mnt/stockage/packages/f16/sylpheed/po/sk.po | 
+ | [bg](/f16/language/bg) | 3888 | 6983 | 55.7 | /mnt/stockage/packages/f16/sylpheed/po/bg.po | 
+ | [da](/f16/language/da) | 3811 | 6983 | 54.6 | /mnt/stockage/packages/f16/sylpheed/po/da.po | 
+ | [gl](/f16/language/gl) | 3705 | 6983 | 53.1 | /mnt/stockage/packages/f16/sylpheed/po/gl.po | 
+ | [sl](/f16/language/sl) | 3540 | 6983 | 50.7 | /mnt/stockage/packages/f16/sylpheed/po/sl.po | 
+ | [sr](/f16/language/sr) | 3522 | 6983 | 50.4 | /mnt/stockage/packages/f16/sylpheed/po/sr.po | 
+ | [et](/f16/language/et) | 3500 | 6983 | 50.1 | /mnt/stockage/packages/f16/sylpheed/po/et.po | 
+ | [ko](/f16/language/ko) | 3149 | 6983 | 45.1 | /mnt/stockage/packages/f16/sylpheed/po/ko.po | 
+ | [hr](/f16/language/hr) | 2716 | 6983 | 38.9 | /mnt/stockage/packages/f16/sylpheed/po/hr.po | 
 {.sortable}
 
 

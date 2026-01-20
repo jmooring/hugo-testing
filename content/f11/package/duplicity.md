@@ -18,13 +18,13 @@ The package duplicity (version 0.6.08b):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [en_GB]({{< ref "/f11/language/en_GB.md" >}}) | 643 | 1569 | 41.0 | /mnt/stockage/packages/f11/duplicity/po/en_GB/en_GB.po | 
- | [pt]({{< ref "/f11/language/pt.md" >}}) | 617 | 1616 | 38.2 | /mnt/stockage/packages/f11/duplicity/po/pt/pt.po | 
- | [bg]({{< ref "/f11/language/bg.md" >}}) | 474 | 1609 | 29.5 | /mnt/stockage/packages/f11/duplicity/po/bg/bg.po | 
- | [eo]({{< ref "/f11/language/eo.md" >}}) | 54 | 1616 | 3.3 | /mnt/stockage/packages/f11/duplicity/po/eo/eo.po | 
- | [es]({{< ref "/f11/language/es.md" >}}) | 53 | 1616 | 3.3 | /mnt/stockage/packages/f11/duplicity/po/es/es.po | 
- | [io]({{< ref "/f11/language/io.md" >}}) | 42 | 1616 | 2.6 | /mnt/stockage/packages/f11/duplicity/po/io/io.po | 
- | [zh_Hans]({{< ref "/f11/language/zh_Hans.md" >}}) | 30 | 1616 | 1.9 | /mnt/stockage/packages/f11/duplicity/po/zh_CN/zh_CN.po | 
+ | [en_GB](/f11/language/en_GB) | 643 | 1569 | 41.0 | /mnt/stockage/packages/f11/duplicity/po/en_GB/en_GB.po | 
+ | [pt](/f11/language/pt) | 617 | 1616 | 38.2 | /mnt/stockage/packages/f11/duplicity/po/pt/pt.po | 
+ | [bg](/f11/language/bg) | 474 | 1609 | 29.5 | /mnt/stockage/packages/f11/duplicity/po/bg/bg.po | 
+ | [eo](/f11/language/eo) | 54 | 1616 | 3.3 | /mnt/stockage/packages/f11/duplicity/po/eo/eo.po | 
+ | [es](/f11/language/es) | 53 | 1616 | 3.3 | /mnt/stockage/packages/f11/duplicity/po/es/es.po | 
+ | [io](/f11/language/io) | 42 | 1616 | 2.6 | /mnt/stockage/packages/f11/duplicity/po/io/io.po | 
+ | [zh_Hans](/f11/language/zh_Hans) | 30 | 1616 | 1.9 | /mnt/stockage/packages/f11/duplicity/po/zh_CN/zh_CN.po | 
 {.sortable}
 
 

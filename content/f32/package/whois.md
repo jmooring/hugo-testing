@@ -18,20 +18,20 @@ The package whois (version 5.5.9):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f32/language/cs.md" >}}) | 506 | 506 | 100.0 | /mnt/stockage/packages/f32/whois/po/cs.po | 
- | [da]({{< ref "/f32/language/da.md" >}}) | 506 | 506 | 100.0 | /mnt/stockage/packages/f32/whois/po/da.po | 
- | [de]({{< ref "/f32/language/de.md" >}}) | 506 | 506 | 100.0 | /mnt/stockage/packages/f32/whois/po/de.po | 
- | [es]({{< ref "/f32/language/es.md" >}}) | 506 | 506 | 100.0 | /mnt/stockage/packages/f32/whois/po/es.po | 
- | [fi]({{< ref "/f32/language/fi.md" >}}) | 506 | 506 | 100.0 | /mnt/stockage/packages/f32/whois/po/fi.po | 
- | [fr]({{< ref "/f32/language/fr.md" >}}) | 506 | 506 | 100.0 | /mnt/stockage/packages/f32/whois/po/fr.po | 
- | [it]({{< ref "/f32/language/it.md" >}}) | 506 | 506 | 100.0 | /mnt/stockage/packages/f32/whois/po/it.po | 
- | [pl]({{< ref "/f32/language/pl.md" >}}) | 506 | 506 | 100.0 | /mnt/stockage/packages/f32/whois/po/pl.po | 
- | [pt_BR]({{< ref "/f32/language/pt_BR.md" >}}) | 506 | 506 | 100.0 | /mnt/stockage/packages/f32/whois/po/pt_BR.po | 
- | [ru]({{< ref "/f32/language/ru.md" >}}) | 506 | 506 | 100.0 | /mnt/stockage/packages/f32/whois/po/ru.po | 
- | [zh_Hans]({{< ref "/f32/language/zh_Hans.md" >}}) | 456 | 506 | 90.1 | /mnt/stockage/packages/f32/whois/po/zh_CN.po | 
- | [el]({{< ref "/f32/language/el.md" >}}) | 123 | 506 | 24.3 | /mnt/stockage/packages/f32/whois/po/el.po | 
- | [ja]({{< ref "/f32/language/ja.md" >}}) | 123 | 506 | 24.3 | /mnt/stockage/packages/f32/whois/po/ja.po | 
- | [eu]({{< ref "/f32/language/eu.md" >}}) | 101 | 506 | 20.0 | /mnt/stockage/packages/f32/whois/po/eu.po | 
+ | [cs](/f32/language/cs) | 506 | 506 | 100.0 | /mnt/stockage/packages/f32/whois/po/cs.po | 
+ | [da](/f32/language/da) | 506 | 506 | 100.0 | /mnt/stockage/packages/f32/whois/po/da.po | 
+ | [de](/f32/language/de) | 506 | 506 | 100.0 | /mnt/stockage/packages/f32/whois/po/de.po | 
+ | [es](/f32/language/es) | 506 | 506 | 100.0 | /mnt/stockage/packages/f32/whois/po/es.po | 
+ | [fi](/f32/language/fi) | 506 | 506 | 100.0 | /mnt/stockage/packages/f32/whois/po/fi.po | 
+ | [fr](/f32/language/fr) | 506 | 506 | 100.0 | /mnt/stockage/packages/f32/whois/po/fr.po | 
+ | [it](/f32/language/it) | 506 | 506 | 100.0 | /mnt/stockage/packages/f32/whois/po/it.po | 
+ | [pl](/f32/language/pl) | 506 | 506 | 100.0 | /mnt/stockage/packages/f32/whois/po/pl.po | 
+ | [pt_BR](/f32/language/pt_BR) | 506 | 506 | 100.0 | /mnt/stockage/packages/f32/whois/po/pt_BR.po | 
+ | [ru](/f32/language/ru) | 506 | 506 | 100.0 | /mnt/stockage/packages/f32/whois/po/ru.po | 
+ | [zh_Hans](/f32/language/zh_Hans) | 456 | 506 | 90.1 | /mnt/stockage/packages/f32/whois/po/zh_CN.po | 
+ | [el](/f32/language/el) | 123 | 506 | 24.3 | /mnt/stockage/packages/f32/whois/po/el.po | 
+ | [ja](/f32/language/ja) | 123 | 506 | 24.3 | /mnt/stockage/packages/f32/whois/po/ja.po | 
+ | [eu](/f32/language/eu) | 101 | 506 | 20.0 | /mnt/stockage/packages/f32/whois/po/eu.po | 
 {.sortable}
 
 

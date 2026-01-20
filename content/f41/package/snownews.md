@@ -18,24 +18,24 @@ The package snownews (version 1.9):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [be_Latn]({{< ref "/f41/language/be_Latn.md" >}}) | 791 | 791 | 100.0 | /mnt/stockage/packages/f41/snownews/po/be@latin.po | 
- | [es]({{< ref "/f41/language/es.md" >}}) | 417 | 417 | 100.0 | /mnt/stockage/packages/f41/snownews/po/es.po | 
- | [nl]({{< ref "/f41/language/nl.md" >}}) | 791 | 791 | 100.0 | /mnt/stockage/packages/f41/snownews/po/nl.po | 
- | [pl]({{< ref "/f41/language/pl.md" >}}) | 791 | 791 | 100.0 | /mnt/stockage/packages/f41/snownews/po/pl.po | 
- | [sl]({{< ref "/f41/language/sl.md" >}}) | 560 | 560 | 100.0 | /mnt/stockage/packages/f41/snownews/po/sl.po | 
- | [uk]({{< ref "/f41/language/uk.md" >}}) | 791 | 791 | 100.0 | /mnt/stockage/packages/f41/snownews/po/uk_UA.po | 
- | [zh_Hans]({{< ref "/f41/language/zh_Hans.md" >}}) | 791 | 791 | 100.0 | /mnt/stockage/packages/f41/snownews/po/zh_CN.po | 
- | [pt_BR]({{< ref "/f41/language/pt_BR.md" >}}) | 849 | 850 | 99.9 | /mnt/stockage/packages/f41/snownews/po/pt_BR.po | 
- | [ko]({{< ref "/f41/language/ko.md" >}}) | 802 | 804 | 99.8 | /mnt/stockage/packages/f41/snownews/po/ko.po | 
- | [sr]({{< ref "/f41/language/sr.md" >}}) | 785 | 791 | 99.2 | /mnt/stockage/packages/f41/snownews/po/sr.po | 
- | [de]({{< ref "/f41/language/de.md" >}}) | 796 | 809 | 98.4 | /mnt/stockage/packages/f41/snownews/po/de.po | 
- | [ja]({{< ref "/f41/language/ja.md" >}}) | 704 | 730 | 96.4 | /mnt/stockage/packages/f41/snownews/po/ja.po | 
- | [se]({{< ref "/f41/language/se.md" >}}) | 759 | 791 | 96.0 | /mnt/stockage/packages/f41/snownews/po/se.po | 
- | [it]({{< ref "/f41/language/it.md" >}}) | 634 | 673 | 94.2 | /mnt/stockage/packages/f41/snownews/po/it.po | 
- | [zh_Hant]({{< ref "/f41/language/zh_Hant.md" >}}) | 696 | 791 | 88.0 | /mnt/stockage/packages/f41/snownews/po/zh_TW.po | 
- | [ru]({{< ref "/f41/language/ru.md" >}}) | 689 | 791 | 87.1 | /mnt/stockage/packages/f41/snownews/po/ru.po | 
- | [fr]({{< ref "/f41/language/fr.md" >}}) | 581 | 676 | 85.9 | /mnt/stockage/packages/f41/snownews/po/fr.po | 
- | [error]({{< ref "/f41/language/error.md" >}}) | 0 | 791 | 0.0 | /mnt/stockage/packages/f41/snownews/po/messages.po | 
+ | [be_Latn](/f41/language/be_Latn) | 791 | 791 | 100.0 | /mnt/stockage/packages/f41/snownews/po/be@latin.po | 
+ | [es](/f41/language/es) | 417 | 417 | 100.0 | /mnt/stockage/packages/f41/snownews/po/es.po | 
+ | [nl](/f41/language/nl) | 791 | 791 | 100.0 | /mnt/stockage/packages/f41/snownews/po/nl.po | 
+ | [pl](/f41/language/pl) | 791 | 791 | 100.0 | /mnt/stockage/packages/f41/snownews/po/pl.po | 
+ | [sl](/f41/language/sl) | 560 | 560 | 100.0 | /mnt/stockage/packages/f41/snownews/po/sl.po | 
+ | [uk](/f41/language/uk) | 791 | 791 | 100.0 | /mnt/stockage/packages/f41/snownews/po/uk_UA.po | 
+ | [zh_Hans](/f41/language/zh_Hans) | 791 | 791 | 100.0 | /mnt/stockage/packages/f41/snownews/po/zh_CN.po | 
+ | [pt_BR](/f41/language/pt_BR) | 849 | 850 | 99.9 | /mnt/stockage/packages/f41/snownews/po/pt_BR.po | 
+ | [ko](/f41/language/ko) | 802 | 804 | 99.8 | /mnt/stockage/packages/f41/snownews/po/ko.po | 
+ | [sr](/f41/language/sr) | 785 | 791 | 99.2 | /mnt/stockage/packages/f41/snownews/po/sr.po | 
+ | [de](/f41/language/de) | 796 | 809 | 98.4 | /mnt/stockage/packages/f41/snownews/po/de.po | 
+ | [ja](/f41/language/ja) | 704 | 730 | 96.4 | /mnt/stockage/packages/f41/snownews/po/ja.po | 
+ | [se](/f41/language/se) | 759 | 791 | 96.0 | /mnt/stockage/packages/f41/snownews/po/se.po | 
+ | [it](/f41/language/it) | 634 | 673 | 94.2 | /mnt/stockage/packages/f41/snownews/po/it.po | 
+ | [zh_Hant](/f41/language/zh_Hant) | 696 | 791 | 88.0 | /mnt/stockage/packages/f41/snownews/po/zh_TW.po | 
+ | [ru](/f41/language/ru) | 689 | 791 | 87.1 | /mnt/stockage/packages/f41/snownews/po/ru.po | 
+ | [fr](/f41/language/fr) | 581 | 676 | 85.9 | /mnt/stockage/packages/f41/snownews/po/fr.po | 
+ | [error](/f41/language/error) | 0 | 791 | 0.0 | /mnt/stockage/packages/f41/snownews/po/messages.po | 
 {.sortable}
 
 

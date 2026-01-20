@@ -38,8 +38,8 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [iso-codes]({{< ref "/f27/package/iso-codes.md" >}}) | 22 | 1090 | 2.0 | Hawaiian | 
- | [stellarium]({{< ref "/f27/package/stellarium.md" >}}) | 59 | 67040 | 0.1 | Hawaiian (https://www.transifex.com/stellarium/teams/80998/haw/) | 
+ | [iso-codes](/f27/package/iso-codes) | 22 | 1090 | 2.0 | Hawaiian | 
+ | [stellarium](/f27/package/stellarium) | 59 | 67040 | 0.1 | Hawaiian (https://www.transifex.com/stellarium/teams/80998/haw/) | 
 {.sortable}
 
 

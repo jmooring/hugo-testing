@@ -18,16 +18,16 @@ The package litmus (version 0.14):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ka]({{< ref "/f38/language/ka.md" >}}) | 749 | 749 | 100.0 | /mnt/stockage/packages/f38/litmus/neon/po/ka.po | 
- | [pl]({{< ref "/f38/language/pl.md" >}}) | 662 | 749 | 88.4 | /mnt/stockage/packages/f38/litmus/neon/po/pl.po | 
- | [zh_Hans]({{< ref "/f38/language/zh_Hans.md" >}}) | 476 | 749 | 63.6 | /mnt/stockage/packages/f38/litmus/neon/po/zh_CN.po | 
- | [cs]({{< ref "/f38/language/cs.md" >}}) | 76 | 749 | 10.1 | /mnt/stockage/packages/f38/litmus/neon/po/cs.po | 
- | [de]({{< ref "/f38/language/de.md" >}}) | 76 | 749 | 10.1 | /mnt/stockage/packages/f38/litmus/neon/po/de.po | 
- | [nn]({{< ref "/f38/language/nn.md" >}}) | 76 | 749 | 10.1 | /mnt/stockage/packages/f38/litmus/neon/po/nn.po | 
- | [tr]({{< ref "/f38/language/tr.md" >}}) | 76 | 749 | 10.1 | /mnt/stockage/packages/f38/litmus/neon/po/tr.po | 
- | [ja]({{< ref "/f38/language/ja.md" >}}) | 32 | 749 | 4.3 | /mnt/stockage/packages/f38/litmus/neon/po/ja.po | 
- | [fr]({{< ref "/f38/language/fr.md" >}}) | 0 | 749 | 0.0 | /mnt/stockage/packages/f38/litmus/neon/po/fr.po | 
- | [ru]({{< ref "/f38/language/ru.md" >}}) | 0 | 749 | 0.0 | /mnt/stockage/packages/f38/litmus/neon/po/ru.po | 
+ | [ka](/f38/language/ka) | 749 | 749 | 100.0 | /mnt/stockage/packages/f38/litmus/neon/po/ka.po | 
+ | [pl](/f38/language/pl) | 662 | 749 | 88.4 | /mnt/stockage/packages/f38/litmus/neon/po/pl.po | 
+ | [zh_Hans](/f38/language/zh_Hans) | 476 | 749 | 63.6 | /mnt/stockage/packages/f38/litmus/neon/po/zh_CN.po | 
+ | [cs](/f38/language/cs) | 76 | 749 | 10.1 | /mnt/stockage/packages/f38/litmus/neon/po/cs.po | 
+ | [de](/f38/language/de) | 76 | 749 | 10.1 | /mnt/stockage/packages/f38/litmus/neon/po/de.po | 
+ | [nn](/f38/language/nn) | 76 | 749 | 10.1 | /mnt/stockage/packages/f38/litmus/neon/po/nn.po | 
+ | [tr](/f38/language/tr) | 76 | 749 | 10.1 | /mnt/stockage/packages/f38/litmus/neon/po/tr.po | 
+ | [ja](/f38/language/ja) | 32 | 749 | 4.3 | /mnt/stockage/packages/f38/litmus/neon/po/ja.po | 
+ | [fr](/f38/language/fr) | 0 | 749 | 0.0 | /mnt/stockage/packages/f38/litmus/neon/po/fr.po | 
+ | [ru](/f38/language/ru) | 0 | 749 | 0.0 | /mnt/stockage/packages/f38/litmus/neon/po/ru.po | 
 {.sortable}
 
 

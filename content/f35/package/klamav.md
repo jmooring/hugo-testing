@@ -18,18 +18,18 @@ The package klamav (version 0.46):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f35/language/fr.md" >}}) | 2501 | 2501 | 100.0 | /mnt/stockage/packages/f35/klamav/po/fr.po | 
- | [uk]({{< ref "/f35/language/uk.md" >}}) | 2503 | 2503 | 100.0 | /mnt/stockage/packages/f35/klamav/po/uk.po | 
- | [tr]({{< ref "/f35/language/tr.md" >}}) | 2485 | 2503 | 99.3 | /mnt/stockage/packages/f35/klamav/po/tr.po | 
- | [pt_BR]({{< ref "/f35/language/pt_BR.md" >}}) | 2021 | 2503 | 80.7 | /mnt/stockage/packages/f35/klamav/po/pt_BR.po | 
- | [it]({{< ref "/f35/language/it.md" >}}) | 1726 | 2503 | 69.0 | /mnt/stockage/packages/f35/klamav/po/it.po | 
- | [es]({{< ref "/f35/language/es.md" >}}) | 931 | 2503 | 37.2 | /mnt/stockage/packages/f35/klamav/po/es.po | 
- | [hu]({{< ref "/f35/language/hu.md" >}}) | 768 | 2503 | 30.7 | /mnt/stockage/packages/f35/klamav/po/hu.po | 
- | [cs]({{< ref "/f35/language/cs.md" >}}) | 767 | 2503 | 30.6 | /mnt/stockage/packages/f35/klamav/po/cs.po | 
- | [pl]({{< ref "/f35/language/pl.md" >}}) | 559 | 2503 | 22.3 | /mnt/stockage/packages/f35/klamav/po/pl.po | 
- | [de]({{< ref "/f35/language/de.md" >}}) | 458 | 2503 | 18.3 | /mnt/stockage/packages/f35/klamav/po/de.po | 
- | [zh_Hans]({{< ref "/f35/language/zh_Hans.md" >}}) | 372 | 2503 | 14.9 | /mnt/stockage/packages/f35/klamav/po/zh_CN.po | 
- | [ru]({{< ref "/f35/language/ru.md" >}}) | 358 | 2503 | 14.3 | /mnt/stockage/packages/f35/klamav/po/ru.po | 
+ | [fr](/f35/language/fr) | 2501 | 2501 | 100.0 | /mnt/stockage/packages/f35/klamav/po/fr.po | 
+ | [uk](/f35/language/uk) | 2503 | 2503 | 100.0 | /mnt/stockage/packages/f35/klamav/po/uk.po | 
+ | [tr](/f35/language/tr) | 2485 | 2503 | 99.3 | /mnt/stockage/packages/f35/klamav/po/tr.po | 
+ | [pt_BR](/f35/language/pt_BR) | 2021 | 2503 | 80.7 | /mnt/stockage/packages/f35/klamav/po/pt_BR.po | 
+ | [it](/f35/language/it) | 1726 | 2503 | 69.0 | /mnt/stockage/packages/f35/klamav/po/it.po | 
+ | [es](/f35/language/es) | 931 | 2503 | 37.2 | /mnt/stockage/packages/f35/klamav/po/es.po | 
+ | [hu](/f35/language/hu) | 768 | 2503 | 30.7 | /mnt/stockage/packages/f35/klamav/po/hu.po | 
+ | [cs](/f35/language/cs) | 767 | 2503 | 30.6 | /mnt/stockage/packages/f35/klamav/po/cs.po | 
+ | [pl](/f35/language/pl) | 559 | 2503 | 22.3 | /mnt/stockage/packages/f35/klamav/po/pl.po | 
+ | [de](/f35/language/de) | 458 | 2503 | 18.3 | /mnt/stockage/packages/f35/klamav/po/de.po | 
+ | [zh_Hans](/f35/language/zh_Hans) | 372 | 2503 | 14.9 | /mnt/stockage/packages/f35/klamav/po/zh_CN.po | 
+ | [ru](/f35/language/ru) | 358 | 2503 | 14.3 | /mnt/stockage/packages/f35/klamav/po/ru.po | 
 {.sortable}
 
 

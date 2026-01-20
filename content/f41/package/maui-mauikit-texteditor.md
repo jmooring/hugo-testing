@@ -18,34 +18,34 @@ The package maui-mauikit-texteditor (version 4.0.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f41/language/ca.md" >}}) | 111 | 111 | 100.0 | /mnt/stockage/packages/f41/maui-mauikit-texteditor/po/ca/mauikittexteditor.po | 
- | [ca@valencia]({{< ref "/f41/language/ca@valencia.md" >}}) | 111 | 111 | 100.0 | /mnt/stockage/packages/f41/maui-mauikit-texteditor/po/ca@valencia/mauikittexteditor.po | 
- | [en_GB]({{< ref "/f41/language/en_GB.md" >}}) | 111 | 111 | 100.0 | /mnt/stockage/packages/f41/maui-mauikit-texteditor/po/en_GB/mauikittexteditor.po | 
- | [eo]({{< ref "/f41/language/eo.md" >}}) | 111 | 111 | 100.0 | /mnt/stockage/packages/f41/maui-mauikit-texteditor/po/eo/mauikittexteditor.po | 
- | [es]({{< ref "/f41/language/es.md" >}}) | 111 | 111 | 100.0 | /mnt/stockage/packages/f41/maui-mauikit-texteditor/po/es/mauikittexteditor.po | 
- | [eu]({{< ref "/f41/language/eu.md" >}}) | 111 | 111 | 100.0 | /mnt/stockage/packages/f41/maui-mauikit-texteditor/po/eu/mauikittexteditor.po | 
- | [fr]({{< ref "/f41/language/fr.md" >}}) | 111 | 111 | 100.0 | /mnt/stockage/packages/f41/maui-mauikit-texteditor/po/fr/mauikittexteditor.po | 
- | [gl]({{< ref "/f41/language/gl.md" >}}) | 111 | 111 | 100.0 | /mnt/stockage/packages/f41/maui-mauikit-texteditor/po/gl/mauikittexteditor.po | 
- | [it]({{< ref "/f41/language/it.md" >}}) | 111 | 111 | 100.0 | /mnt/stockage/packages/f41/maui-mauikit-texteditor/po/it/mauikittexteditor.po | 
- | [ka]({{< ref "/f41/language/ka.md" >}}) | 111 | 111 | 100.0 | /mnt/stockage/packages/f41/maui-mauikit-texteditor/po/ka/mauikittexteditor.po | 
- | [ko]({{< ref "/f41/language/ko.md" >}}) | 111 | 111 | 100.0 | /mnt/stockage/packages/f41/maui-mauikit-texteditor/po/ko/mauikittexteditor.po | 
- | [nl]({{< ref "/f41/language/nl.md" >}}) | 111 | 111 | 100.0 | /mnt/stockage/packages/f41/maui-mauikit-texteditor/po/nl/mauikittexteditor.po | 
- | [pl]({{< ref "/f41/language/pl.md" >}}) | 111 | 111 | 100.0 | /mnt/stockage/packages/f41/maui-mauikit-texteditor/po/pl/mauikittexteditor.po | 
- | [sl]({{< ref "/f41/language/sl.md" >}}) | 111 | 111 | 100.0 | /mnt/stockage/packages/f41/maui-mauikit-texteditor/po/sl/mauikittexteditor.po | 
- | [sv]({{< ref "/f41/language/sv.md" >}}) | 111 | 111 | 100.0 | /mnt/stockage/packages/f41/maui-mauikit-texteditor/po/sv/mauikittexteditor.po | 
- | [tr]({{< ref "/f41/language/tr.md" >}}) | 111 | 111 | 100.0 | /mnt/stockage/packages/f41/maui-mauikit-texteditor/po/tr/mauikittexteditor.po | 
- | [uk]({{< ref "/f41/language/uk.md" >}}) | 111 | 111 | 100.0 | /mnt/stockage/packages/f41/maui-mauikit-texteditor/po/uk/mauikittexteditor.po | 
- | [zh_Hant]({{< ref "/f41/language/zh_Hant.md" >}}) | 111 | 111 | 100.0 | /mnt/stockage/packages/f41/maui-mauikit-texteditor/po/zh_TW/mauikittexteditor.po | 
- | [fi]({{< ref "/f41/language/fi.md" >}}) | 93 | 111 | 83.8 | /mnt/stockage/packages/f41/maui-mauikit-texteditor/po/fi/mauikittexteditor.po | 
- | [pt_BR]({{< ref "/f41/language/pt_BR.md" >}}) | 67 | 111 | 60.4 | /mnt/stockage/packages/f41/maui-mauikit-texteditor/po/pt_BR/mauikittexteditor.po | 
- | [nn]({{< ref "/f41/language/nn.md" >}}) | 64 | 111 | 57.7 | /mnt/stockage/packages/f41/maui-mauikit-texteditor/po/nn/mauikittexteditor.po | 
- | [pt]({{< ref "/f41/language/pt.md" >}}) | 64 | 111 | 57.7 | /mnt/stockage/packages/f41/maui-mauikit-texteditor/po/pt/mauikittexteditor.po | 
- | [cs]({{< ref "/f41/language/cs.md" >}}) | 55 | 111 | 49.5 | /mnt/stockage/packages/f41/maui-mauikit-texteditor/po/cs/mauikittexteditor.po | 
- | [de]({{< ref "/f41/language/de.md" >}}) | 48 | 111 | 43.2 | /mnt/stockage/packages/f41/maui-mauikit-texteditor/po/de/mauikittexteditor.po | 
- | [sk]({{< ref "/f41/language/sk.md" >}}) | 22 | 111 | 19.8 | /mnt/stockage/packages/f41/maui-mauikit-texteditor/po/sk/mauikittexteditor.po | 
- | [ja]({{< ref "/f41/language/ja.md" >}}) | 0 | 111 | 0.0 | /mnt/stockage/packages/f41/maui-mauikit-texteditor/po/ja/mauikittexteditor.po | 
- | [lt]({{< ref "/f41/language/lt.md" >}}) | 0 | 111 | 0.0 | /mnt/stockage/packages/f41/maui-mauikit-texteditor/po/lt/mauikittexteditor.po | 
- | [zh_Hans]({{< ref "/f41/language/zh_Hans.md" >}}) | 0 | 111 | 0.0 | /mnt/stockage/packages/f41/maui-mauikit-texteditor/po/zh_CN/mauikittexteditor.po | 
+ | [ca](/f41/language/ca) | 111 | 111 | 100.0 | /mnt/stockage/packages/f41/maui-mauikit-texteditor/po/ca/mauikittexteditor.po | 
+ | [ca@valencia](/f41/language/ca@valencia) | 111 | 111 | 100.0 | /mnt/stockage/packages/f41/maui-mauikit-texteditor/po/ca@valencia/mauikittexteditor.po | 
+ | [en_GB](/f41/language/en_GB) | 111 | 111 | 100.0 | /mnt/stockage/packages/f41/maui-mauikit-texteditor/po/en_GB/mauikittexteditor.po | 
+ | [eo](/f41/language/eo) | 111 | 111 | 100.0 | /mnt/stockage/packages/f41/maui-mauikit-texteditor/po/eo/mauikittexteditor.po | 
+ | [es](/f41/language/es) | 111 | 111 | 100.0 | /mnt/stockage/packages/f41/maui-mauikit-texteditor/po/es/mauikittexteditor.po | 
+ | [eu](/f41/language/eu) | 111 | 111 | 100.0 | /mnt/stockage/packages/f41/maui-mauikit-texteditor/po/eu/mauikittexteditor.po | 
+ | [fr](/f41/language/fr) | 111 | 111 | 100.0 | /mnt/stockage/packages/f41/maui-mauikit-texteditor/po/fr/mauikittexteditor.po | 
+ | [gl](/f41/language/gl) | 111 | 111 | 100.0 | /mnt/stockage/packages/f41/maui-mauikit-texteditor/po/gl/mauikittexteditor.po | 
+ | [it](/f41/language/it) | 111 | 111 | 100.0 | /mnt/stockage/packages/f41/maui-mauikit-texteditor/po/it/mauikittexteditor.po | 
+ | [ka](/f41/language/ka) | 111 | 111 | 100.0 | /mnt/stockage/packages/f41/maui-mauikit-texteditor/po/ka/mauikittexteditor.po | 
+ | [ko](/f41/language/ko) | 111 | 111 | 100.0 | /mnt/stockage/packages/f41/maui-mauikit-texteditor/po/ko/mauikittexteditor.po | 
+ | [nl](/f41/language/nl) | 111 | 111 | 100.0 | /mnt/stockage/packages/f41/maui-mauikit-texteditor/po/nl/mauikittexteditor.po | 
+ | [pl](/f41/language/pl) | 111 | 111 | 100.0 | /mnt/stockage/packages/f41/maui-mauikit-texteditor/po/pl/mauikittexteditor.po | 
+ | [sl](/f41/language/sl) | 111 | 111 | 100.0 | /mnt/stockage/packages/f41/maui-mauikit-texteditor/po/sl/mauikittexteditor.po | 
+ | [sv](/f41/language/sv) | 111 | 111 | 100.0 | /mnt/stockage/packages/f41/maui-mauikit-texteditor/po/sv/mauikittexteditor.po | 
+ | [tr](/f41/language/tr) | 111 | 111 | 100.0 | /mnt/stockage/packages/f41/maui-mauikit-texteditor/po/tr/mauikittexteditor.po | 
+ | [uk](/f41/language/uk) | 111 | 111 | 100.0 | /mnt/stockage/packages/f41/maui-mauikit-texteditor/po/uk/mauikittexteditor.po | 
+ | [zh_Hant](/f41/language/zh_Hant) | 111 | 111 | 100.0 | /mnt/stockage/packages/f41/maui-mauikit-texteditor/po/zh_TW/mauikittexteditor.po | 
+ | [fi](/f41/language/fi) | 93 | 111 | 83.8 | /mnt/stockage/packages/f41/maui-mauikit-texteditor/po/fi/mauikittexteditor.po | 
+ | [pt_BR](/f41/language/pt_BR) | 67 | 111 | 60.4 | /mnt/stockage/packages/f41/maui-mauikit-texteditor/po/pt_BR/mauikittexteditor.po | 
+ | [nn](/f41/language/nn) | 64 | 111 | 57.7 | /mnt/stockage/packages/f41/maui-mauikit-texteditor/po/nn/mauikittexteditor.po | 
+ | [pt](/f41/language/pt) | 64 | 111 | 57.7 | /mnt/stockage/packages/f41/maui-mauikit-texteditor/po/pt/mauikittexteditor.po | 
+ | [cs](/f41/language/cs) | 55 | 111 | 49.5 | /mnt/stockage/packages/f41/maui-mauikit-texteditor/po/cs/mauikittexteditor.po | 
+ | [de](/f41/language/de) | 48 | 111 | 43.2 | /mnt/stockage/packages/f41/maui-mauikit-texteditor/po/de/mauikittexteditor.po | 
+ | [sk](/f41/language/sk) | 22 | 111 | 19.8 | /mnt/stockage/packages/f41/maui-mauikit-texteditor/po/sk/mauikittexteditor.po | 
+ | [ja](/f41/language/ja) | 0 | 111 | 0.0 | /mnt/stockage/packages/f41/maui-mauikit-texteditor/po/ja/mauikittexteditor.po | 
+ | [lt](/f41/language/lt) | 0 | 111 | 0.0 | /mnt/stockage/packages/f41/maui-mauikit-texteditor/po/lt/mauikittexteditor.po | 
+ | [zh_Hans](/f41/language/zh_Hans) | 0 | 111 | 0.0 | /mnt/stockage/packages/f41/maui-mauikit-texteditor/po/zh_CN/mauikittexteditor.po | 
 {.sortable}
 
 

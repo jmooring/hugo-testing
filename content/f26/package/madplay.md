@@ -18,11 +18,11 @@ The package madplay (version 0.15.2b):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [es]({{< ref "/f26/language/es.md" >}}) | 285 | 1131 | 25.2 | /mnt/stockage/packages/f26/madplay/po/es.po | 
- | [nb_NO]({{< ref "/f26/language/nb_NO.md" >}}) | 284 | 1131 | 25.1 | /mnt/stockage/packages/f26/madplay/po/no.po | 
- | [fr]({{< ref "/f26/language/fr.md" >}}) | 277 | 1131 | 24.5 | /mnt/stockage/packages/f26/madplay/po/fr.po | 
- | [hr]({{< ref "/f26/language/hr.md" >}}) | 272 | 1131 | 24.0 | /mnt/stockage/packages/f26/madplay/po/hr.po | 
- | [en]({{< ref "/f26/language/en.md" >}}) | 3 | 1131 | 0.3 | /mnt/stockage/packages/f26/madplay/po/en.po | 
+ | [es](/f26/language/es) | 285 | 1131 | 25.2 | /mnt/stockage/packages/f26/madplay/po/es.po | 
+ | [nb_NO](/f26/language/nb_NO) | 284 | 1131 | 25.1 | /mnt/stockage/packages/f26/madplay/po/no.po | 
+ | [fr](/f26/language/fr) | 277 | 1131 | 24.5 | /mnt/stockage/packages/f26/madplay/po/fr.po | 
+ | [hr](/f26/language/hr) | 272 | 1131 | 24.0 | /mnt/stockage/packages/f26/madplay/po/hr.po | 
+ | [en](/f26/language/en) | 3 | 1131 | 0.3 | /mnt/stockage/packages/f26/madplay/po/en.po | 
 {.sortable}
 
 

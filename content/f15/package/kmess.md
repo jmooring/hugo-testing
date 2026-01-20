@@ -18,26 +18,26 @@ The package kmess (version 2.0.6.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f15/language/ca.md" >}}) | 7402 | 7402 | 100.0 | /mnt/stockage/packages/f15/kmess/po/ca.po | 
- | [fr]({{< ref "/f15/language/fr.md" >}}) | 5042 | 5042 | 100.0 | /mnt/stockage/packages/f15/kmess/po/fr.po | 
- | [zh_Hant]({{< ref "/f15/language/zh_Hant.md" >}}) | 7322 | 7322 | 100.0 | /mnt/stockage/packages/f15/kmess/po/zh_TW.po | 
- | [et]({{< ref "/f15/language/et.md" >}}) | 7434 | 7436 | 100.0 | /mnt/stockage/packages/f15/kmess/po/et.po | 
- | [nl]({{< ref "/f15/language/nl.md" >}}) | 7439 | 7458 | 99.7 | /mnt/stockage/packages/f15/kmess/po/nl.po | 
- | [it]({{< ref "/f15/language/it.md" >}}) | 7369 | 7402 | 99.6 | /mnt/stockage/packages/f15/kmess/po/it.po | 
- | [es]({{< ref "/f15/language/es.md" >}}) | 7295 | 7402 | 98.6 | /mnt/stockage/packages/f15/kmess/po/es.po | 
- | [de]({{< ref "/f15/language/de.md" >}}) | 7288 | 7402 | 98.5 | /mnt/stockage/packages/f15/kmess/po/de.po | 
- | [pt_BR]({{< ref "/f15/language/pt_BR.md" >}}) | 7282 | 7402 | 98.4 | /mnt/stockage/packages/f15/kmess/po/pt_BR.po | 
- | [el]({{< ref "/f15/language/el.md" >}}) | 7252 | 7402 | 98.0 | /mnt/stockage/packages/f15/kmess/po/el.po | 
- | [pt]({{< ref "/f15/language/pt.md" >}}) | 7252 | 7402 | 98.0 | /mnt/stockage/packages/f15/kmess/po/pt.po | 
- | [hu]({{< ref "/f15/language/hu.md" >}}) | 7244 | 7402 | 97.9 | /mnt/stockage/packages/f15/kmess/po/hu.po | 
- | [sk]({{< ref "/f15/language/sk.md" >}}) | 7129 | 7402 | 96.3 | /mnt/stockage/packages/f15/kmess/po/sk.po | 
- | [ru]({{< ref "/f15/language/ru.md" >}}) | 7018 | 7402 | 94.8 | /mnt/stockage/packages/f15/kmess/po/ru.po | 
- | [fi]({{< ref "/f15/language/fi.md" >}}) | 6713 | 7402 | 90.7 | /mnt/stockage/packages/f15/kmess/po/fi.po | 
- | [ar]({{< ref "/f15/language/ar.md" >}}) | 6703 | 7402 | 90.6 | /mnt/stockage/packages/f15/kmess/po/ar.po | 
- | [ja]({{< ref "/f15/language/ja.md" >}}) | 5851 | 7402 | 79.0 | /mnt/stockage/packages/f15/kmess/po/ja.po | 
- | [zh_Hans]({{< ref "/f15/language/zh_Hans.md" >}}) | 4794 | 7402 | 64.8 | /mnt/stockage/packages/f15/kmess/po/zh_CN.po | 
- | [tr]({{< ref "/f15/language/tr.md" >}}) | 4149 | 7402 | 56.1 | /mnt/stockage/packages/f15/kmess/po/tr.po | 
- | [gl]({{< ref "/f15/language/gl.md" >}}) | 1662 | 7402 | 22.5 | /mnt/stockage/packages/f15/kmess/po/gl.po | 
+ | [ca](/f15/language/ca) | 7402 | 7402 | 100.0 | /mnt/stockage/packages/f15/kmess/po/ca.po | 
+ | [fr](/f15/language/fr) | 5042 | 5042 | 100.0 | /mnt/stockage/packages/f15/kmess/po/fr.po | 
+ | [zh_Hant](/f15/language/zh_Hant) | 7322 | 7322 | 100.0 | /mnt/stockage/packages/f15/kmess/po/zh_TW.po | 
+ | [et](/f15/language/et) | 7434 | 7436 | 100.0 | /mnt/stockage/packages/f15/kmess/po/et.po | 
+ | [nl](/f15/language/nl) | 7439 | 7458 | 99.7 | /mnt/stockage/packages/f15/kmess/po/nl.po | 
+ | [it](/f15/language/it) | 7369 | 7402 | 99.6 | /mnt/stockage/packages/f15/kmess/po/it.po | 
+ | [es](/f15/language/es) | 7295 | 7402 | 98.6 | /mnt/stockage/packages/f15/kmess/po/es.po | 
+ | [de](/f15/language/de) | 7288 | 7402 | 98.5 | /mnt/stockage/packages/f15/kmess/po/de.po | 
+ | [pt_BR](/f15/language/pt_BR) | 7282 | 7402 | 98.4 | /mnt/stockage/packages/f15/kmess/po/pt_BR.po | 
+ | [el](/f15/language/el) | 7252 | 7402 | 98.0 | /mnt/stockage/packages/f15/kmess/po/el.po | 
+ | [pt](/f15/language/pt) | 7252 | 7402 | 98.0 | /mnt/stockage/packages/f15/kmess/po/pt.po | 
+ | [hu](/f15/language/hu) | 7244 | 7402 | 97.9 | /mnt/stockage/packages/f15/kmess/po/hu.po | 
+ | [sk](/f15/language/sk) | 7129 | 7402 | 96.3 | /mnt/stockage/packages/f15/kmess/po/sk.po | 
+ | [ru](/f15/language/ru) | 7018 | 7402 | 94.8 | /mnt/stockage/packages/f15/kmess/po/ru.po | 
+ | [fi](/f15/language/fi) | 6713 | 7402 | 90.7 | /mnt/stockage/packages/f15/kmess/po/fi.po | 
+ | [ar](/f15/language/ar) | 6703 | 7402 | 90.6 | /mnt/stockage/packages/f15/kmess/po/ar.po | 
+ | [ja](/f15/language/ja) | 5851 | 7402 | 79.0 | /mnt/stockage/packages/f15/kmess/po/ja.po | 
+ | [zh_Hans](/f15/language/zh_Hans) | 4794 | 7402 | 64.8 | /mnt/stockage/packages/f15/kmess/po/zh_CN.po | 
+ | [tr](/f15/language/tr) | 4149 | 7402 | 56.1 | /mnt/stockage/packages/f15/kmess/po/tr.po | 
+ | [gl](/f15/language/gl) | 1662 | 7402 | 22.5 | /mnt/stockage/packages/f15/kmess/po/gl.po | 
 {.sortable}
 
 

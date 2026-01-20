@@ -18,8 +18,8 @@ The package fswatch (version 1.14.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [es]({{< ref "/f32/language/es.md" >}}) | 537 | 537 | 100.0 | /mnt/stockage/packages/f32/fswatch/po/es.po | 
- | [it]({{< ref "/f32/language/it.md" >}}) | 537 | 537 | 100.0 | /mnt/stockage/packages/f32/fswatch/po/it.po | 
+ | [es](/f32/language/es) | 537 | 537 | 100.0 | /mnt/stockage/packages/f32/fswatch/po/es.po | 
+ | [it](/f32/language/it) | 537 | 537 | 100.0 | /mnt/stockage/packages/f32/fswatch/po/it.po | 
 {.sortable}
 
 

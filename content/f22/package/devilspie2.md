@@ -18,13 +18,13 @@ The package devilspie2 (version 0.38):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fi]({{< ref "/f22/language/fi.md" >}}) | 156 | 156 | 100.0 | /mnt/stockage/packages/f22/devilspie2/po/fi.po | 
- | [fr]({{< ref "/f22/language/fr.md" >}}) | 156 | 156 | 100.0 | /mnt/stockage/packages/f22/devilspie2/po/fr.po | 
- | [ja]({{< ref "/f22/language/ja.md" >}}) | 156 | 156 | 100.0 | /mnt/stockage/packages/f22/devilspie2/po/ja.po | 
- | [nl]({{< ref "/f22/language/nl.md" >}}) | 156 | 156 | 100.0 | /mnt/stockage/packages/f22/devilspie2/po/nl.po | 
- | [pt_BR]({{< ref "/f22/language/pt_BR.md" >}}) | 156 | 156 | 100.0 | /mnt/stockage/packages/f22/devilspie2/po/pt_BR.po | 
- | [ru]({{< ref "/f22/language/ru.md" >}}) | 156 | 156 | 100.0 | /mnt/stockage/packages/f22/devilspie2/po/ru.po | 
- | [sv]({{< ref "/f22/language/sv.md" >}}) | 156 | 156 | 100.0 | /mnt/stockage/packages/f22/devilspie2/po/sv.po | 
+ | [fi](/f22/language/fi) | 156 | 156 | 100.0 | /mnt/stockage/packages/f22/devilspie2/po/fi.po | 
+ | [fr](/f22/language/fr) | 156 | 156 | 100.0 | /mnt/stockage/packages/f22/devilspie2/po/fr.po | 
+ | [ja](/f22/language/ja) | 156 | 156 | 100.0 | /mnt/stockage/packages/f22/devilspie2/po/ja.po | 
+ | [nl](/f22/language/nl) | 156 | 156 | 100.0 | /mnt/stockage/packages/f22/devilspie2/po/nl.po | 
+ | [pt_BR](/f22/language/pt_BR) | 156 | 156 | 100.0 | /mnt/stockage/packages/f22/devilspie2/po/pt_BR.po | 
+ | [ru](/f22/language/ru) | 156 | 156 | 100.0 | /mnt/stockage/packages/f22/devilspie2/po/ru.po | 
+ | [sv](/f22/language/sv) | 156 | 156 | 100.0 | /mnt/stockage/packages/f22/devilspie2/po/sv.po | 
 {.sortable}
 
 

@@ -18,18 +18,18 @@ The package xfce4-mailwatch-plugin (version 1.0.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f7/language/de.md" >}}) | 623 | 623 | 100.0 | /mnt/stockage/packages/f7/xfce4-mailwatch-plugin/po/de.po | 
- | [el]({{< ref "/f7/language/el.md" >}}) | 623 | 623 | 100.0 | /mnt/stockage/packages/f7/xfce4-mailwatch-plugin/po/el.po | 
- | [eu]({{< ref "/f7/language/eu.md" >}}) | 623 | 623 | 100.0 | /mnt/stockage/packages/f7/xfce4-mailwatch-plugin/po/eu.po | 
- | [fi]({{< ref "/f7/language/fi.md" >}}) | 623 | 623 | 100.0 | /mnt/stockage/packages/f7/xfce4-mailwatch-plugin/po/fi.po | 
- | [fr]({{< ref "/f7/language/fr.md" >}}) | 623 | 623 | 100.0 | /mnt/stockage/packages/f7/xfce4-mailwatch-plugin/po/fr.po | 
- | [ja]({{< ref "/f7/language/ja.md" >}}) | 623 | 623 | 100.0 | /mnt/stockage/packages/f7/xfce4-mailwatch-plugin/po/ja.po | 
- | [pt_BR]({{< ref "/f7/language/pt_BR.md" >}}) | 623 | 623 | 100.0 | /mnt/stockage/packages/f7/xfce4-mailwatch-plugin/po/pt_BR.po | 
- | [vi]({{< ref "/f7/language/vi.md" >}}) | 623 | 623 | 100.0 | /mnt/stockage/packages/f7/xfce4-mailwatch-plugin/po/vi.po | 
- | [zh_Hant]({{< ref "/f7/language/zh_Hant.md" >}}) | 623 | 623 | 100.0 | /mnt/stockage/packages/f7/xfce4-mailwatch-plugin/po/zh_TW.po | 
- | [gu]({{< ref "/f7/language/gu.md" >}}) | 529 | 623 | 84.9 | /mnt/stockage/packages/f7/xfce4-mailwatch-plugin/po/gu.po | 
- | [ru]({{< ref "/f7/language/ru.md" >}}) | 227 | 623 | 36.4 | /mnt/stockage/packages/f7/xfce4-mailwatch-plugin/po/ru.po | 
- | [ca]({{< ref "/f7/language/ca.md" >}}) | 162 | 623 | 26.0 | /mnt/stockage/packages/f7/xfce4-mailwatch-plugin/po/ca.po | 
+ | [de](/f7/language/de) | 623 | 623 | 100.0 | /mnt/stockage/packages/f7/xfce4-mailwatch-plugin/po/de.po | 
+ | [el](/f7/language/el) | 623 | 623 | 100.0 | /mnt/stockage/packages/f7/xfce4-mailwatch-plugin/po/el.po | 
+ | [eu](/f7/language/eu) | 623 | 623 | 100.0 | /mnt/stockage/packages/f7/xfce4-mailwatch-plugin/po/eu.po | 
+ | [fi](/f7/language/fi) | 623 | 623 | 100.0 | /mnt/stockage/packages/f7/xfce4-mailwatch-plugin/po/fi.po | 
+ | [fr](/f7/language/fr) | 623 | 623 | 100.0 | /mnt/stockage/packages/f7/xfce4-mailwatch-plugin/po/fr.po | 
+ | [ja](/f7/language/ja) | 623 | 623 | 100.0 | /mnt/stockage/packages/f7/xfce4-mailwatch-plugin/po/ja.po | 
+ | [pt_BR](/f7/language/pt_BR) | 623 | 623 | 100.0 | /mnt/stockage/packages/f7/xfce4-mailwatch-plugin/po/pt_BR.po | 
+ | [vi](/f7/language/vi) | 623 | 623 | 100.0 | /mnt/stockage/packages/f7/xfce4-mailwatch-plugin/po/vi.po | 
+ | [zh_Hant](/f7/language/zh_Hant) | 623 | 623 | 100.0 | /mnt/stockage/packages/f7/xfce4-mailwatch-plugin/po/zh_TW.po | 
+ | [gu](/f7/language/gu) | 529 | 623 | 84.9 | /mnt/stockage/packages/f7/xfce4-mailwatch-plugin/po/gu.po | 
+ | [ru](/f7/language/ru) | 227 | 623 | 36.4 | /mnt/stockage/packages/f7/xfce4-mailwatch-plugin/po/ru.po | 
+ | [ca](/f7/language/ca) | 162 | 623 | 26.0 | /mnt/stockage/packages/f7/xfce4-mailwatch-plugin/po/ca.po | 
 {.sortable}
 
 

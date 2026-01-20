@@ -18,8 +18,8 @@ The package qdigidoc (version 0.4.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [et]({{< ref "/f19/language/et.md" >}}) | 16 | 16 | 100.0 | /mnt/stockage/packages/f19/qdigidoc/extensions/nautilus/po/et.po | 
- | [ru]({{< ref "/f19/language/ru.md" >}}) | 16 | 16 | 100.0 | /mnt/stockage/packages/f19/qdigidoc/extensions/nautilus/po/ru.po | 
+ | [et](/f19/language/et) | 16 | 16 | 100.0 | /mnt/stockage/packages/f19/qdigidoc/extensions/nautilus/po/et.po | 
+ | [ru](/f19/language/ru) | 16 | 16 | 100.0 | /mnt/stockage/packages/f19/qdigidoc/extensions/nautilus/po/ru.po | 
 {.sortable}
 
 

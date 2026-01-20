@@ -18,8 +18,8 @@ The package xfsprogs (version 6.1.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f38/language/de.md" >}}) | 20292 | 20292 | 100.0 | /mnt/stockage/packages/f38/xfsprogs/po/de.po | 
- | [pl]({{< ref "/f38/language/pl.md" >}}) | 26843 | 26843 | 100.0 | /mnt/stockage/packages/f38/xfsprogs/po/pl.po | 
+ | [de](/f38/language/de) | 20292 | 20292 | 100.0 | /mnt/stockage/packages/f38/xfsprogs/po/de.po | 
+ | [pl](/f38/language/pl) | 26843 | 26843 | 100.0 | /mnt/stockage/packages/f38/xfsprogs/po/pl.po | 
 {.sortable}
 
 

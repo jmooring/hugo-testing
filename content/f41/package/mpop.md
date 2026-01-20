@@ -18,17 +18,17 @@ The package mpop (version 1.4.21):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f41/language/de.md" >}}) | 1900 | 1900 | 100.0 | /mnt/stockage/packages/f41/mpop/po/de.po | 
- | [eo]({{< ref "/f41/language/eo.md" >}}) | 1900 | 1900 | 100.0 | /mnt/stockage/packages/f41/mpop/po/eo.po | 
- | [es]({{< ref "/f41/language/es.md" >}}) | 1900 | 1900 | 100.0 | /mnt/stockage/packages/f41/mpop/po/es.po | 
- | [fr]({{< ref "/f41/language/fr.md" >}}) | 1900 | 1900 | 100.0 | /mnt/stockage/packages/f41/mpop/po/fr.po | 
- | [ro]({{< ref "/f41/language/ro.md" >}}) | 1900 | 1900 | 100.0 | /mnt/stockage/packages/f41/mpop/po/ro.po | 
- | [ru]({{< ref "/f41/language/ru.md" >}}) | 1900 | 1900 | 100.0 | /mnt/stockage/packages/f41/mpop/po/ru.po | 
- | [sr]({{< ref "/f41/language/sr.md" >}}) | 1900 | 1900 | 100.0 | /mnt/stockage/packages/f41/mpop/po/sr.po | 
- | [sv]({{< ref "/f41/language/sv.md" >}}) | 1900 | 1900 | 100.0 | /mnt/stockage/packages/f41/mpop/po/sv.po | 
- | [uk]({{< ref "/f41/language/uk.md" >}}) | 1900 | 1900 | 100.0 | /mnt/stockage/packages/f41/mpop/po/uk.po | 
- | [pt_BR]({{< ref "/f41/language/pt_BR.md" >}}) | 1852 | 1900 | 97.5 | /mnt/stockage/packages/f41/mpop/po/pt_BR.po | 
- | [ta]({{< ref "/f41/language/ta.md" >}}) | 484 | 1900 | 25.5 | /mnt/stockage/packages/f41/mpop/po/ta.po | 
+ | [de](/f41/language/de) | 1900 | 1900 | 100.0 | /mnt/stockage/packages/f41/mpop/po/de.po | 
+ | [eo](/f41/language/eo) | 1900 | 1900 | 100.0 | /mnt/stockage/packages/f41/mpop/po/eo.po | 
+ | [es](/f41/language/es) | 1900 | 1900 | 100.0 | /mnt/stockage/packages/f41/mpop/po/es.po | 
+ | [fr](/f41/language/fr) | 1900 | 1900 | 100.0 | /mnt/stockage/packages/f41/mpop/po/fr.po | 
+ | [ro](/f41/language/ro) | 1900 | 1900 | 100.0 | /mnt/stockage/packages/f41/mpop/po/ro.po | 
+ | [ru](/f41/language/ru) | 1900 | 1900 | 100.0 | /mnt/stockage/packages/f41/mpop/po/ru.po | 
+ | [sr](/f41/language/sr) | 1900 | 1900 | 100.0 | /mnt/stockage/packages/f41/mpop/po/sr.po | 
+ | [sv](/f41/language/sv) | 1900 | 1900 | 100.0 | /mnt/stockage/packages/f41/mpop/po/sv.po | 
+ | [uk](/f41/language/uk) | 1900 | 1900 | 100.0 | /mnt/stockage/packages/f41/mpop/po/uk.po | 
+ | [pt_BR](/f41/language/pt_BR) | 1852 | 1900 | 97.5 | /mnt/stockage/packages/f41/mpop/po/pt_BR.po | 
+ | [ta](/f41/language/ta) | 484 | 1900 | 25.5 | /mnt/stockage/packages/f41/mpop/po/ta.po | 
 {.sortable}
 
 

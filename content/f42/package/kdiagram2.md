@@ -18,38 +18,38 @@ The package kdiagram2 (version 2.8.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f42/language/ca.md" >}}) | 66 | 66 | 100.0 | /mnt/stockage/packages/f42/kdiagram2/po/ca/kchart_qt.po/mnt/stockage/packages/f42/kdiagram2/po/ca/kgantt_qt.po | 
- | [ca@valencia]({{< ref "/f42/language/ca@valencia.md" >}}) | 66 | 66 | 100.0 | /mnt/stockage/packages/f42/kdiagram2/po/ca@valencia/kchart_qt.po/mnt/stockage/packages/f42/kdiagram2/po/ca@valencia/kgantt_qt.po | 
- | [de]({{< ref "/f42/language/de.md" >}}) | 66 | 66 | 100.0 | /mnt/stockage/packages/f42/kdiagram2/po/de/kchart_qt.po/mnt/stockage/packages/f42/kdiagram2/po/de/kgantt_qt.po | 
- | [el]({{< ref "/f42/language/el.md" >}}) | 66 | 66 | 100.0 | /mnt/stockage/packages/f42/kdiagram2/po/el/kchart_qt.po/mnt/stockage/packages/f42/kdiagram2/po/el/kgantt_qt.po | 
- | [en_GB]({{< ref "/f42/language/en_GB.md" >}}) | 66 | 66 | 100.0 | /mnt/stockage/packages/f42/kdiagram2/po/en_GB/kchart_qt.po/mnt/stockage/packages/f42/kdiagram2/po/en_GB/kgantt_qt.po | 
- | [es]({{< ref "/f42/language/es.md" >}}) | 66 | 66 | 100.0 | /mnt/stockage/packages/f42/kdiagram2/po/es/kchart_qt.po/mnt/stockage/packages/f42/kdiagram2/po/es/kgantt_qt.po | 
- | [et]({{< ref "/f42/language/et.md" >}}) | 66 | 66 | 100.0 | /mnt/stockage/packages/f42/kdiagram2/po/et/kchart_qt.po/mnt/stockage/packages/f42/kdiagram2/po/et/kgantt_qt.po | 
- | [eu]({{< ref "/f42/language/eu.md" >}}) | 66 | 66 | 100.0 | /mnt/stockage/packages/f42/kdiagram2/po/eu/kchart_qt.po/mnt/stockage/packages/f42/kdiagram2/po/eu/kgantt_qt.po | 
- | [fi]({{< ref "/f42/language/fi.md" >}}) | 66 | 66 | 100.0 | /mnt/stockage/packages/f42/kdiagram2/po/fi/kchart_qt.po/mnt/stockage/packages/f42/kdiagram2/po/fi/kgantt_qt.po | 
- | [fr]({{< ref "/f42/language/fr.md" >}}) | 66 | 66 | 100.0 | /mnt/stockage/packages/f42/kdiagram2/po/fr/kchart_qt.po/mnt/stockage/packages/f42/kdiagram2/po/fr/kgantt_qt.po | 
- | [it]({{< ref "/f42/language/it.md" >}}) | 66 | 66 | 100.0 | /mnt/stockage/packages/f42/kdiagram2/po/it/kchart_qt.po/mnt/stockage/packages/f42/kdiagram2/po/it/kgantt_qt.po | 
- | [ko]({{< ref "/f42/language/ko.md" >}}) | 66 | 66 | 100.0 | /mnt/stockage/packages/f42/kdiagram2/po/ko/kchart_qt.po/mnt/stockage/packages/f42/kdiagram2/po/ko/kgantt_qt.po | 
- | [nl]({{< ref "/f42/language/nl.md" >}}) | 66 | 66 | 100.0 | /mnt/stockage/packages/f42/kdiagram2/po/nl/kchart_qt.po/mnt/stockage/packages/f42/kdiagram2/po/nl/kgantt_qt.po | 
- | [nn]({{< ref "/f42/language/nn.md" >}}) | 66 | 66 | 100.0 | /mnt/stockage/packages/f42/kdiagram2/po/nn/kchart_qt.po/mnt/stockage/packages/f42/kdiagram2/po/nn/kgantt_qt.po | 
- | [pl]({{< ref "/f42/language/pl.md" >}}) | 66 | 66 | 100.0 | /mnt/stockage/packages/f42/kdiagram2/po/pl/kchart_qt.po/mnt/stockage/packages/f42/kdiagram2/po/pl/kgantt_qt.po | 
- | [pt]({{< ref "/f42/language/pt.md" >}}) | 66 | 66 | 100.0 | /mnt/stockage/packages/f42/kdiagram2/po/pt/kchart_qt.po/mnt/stockage/packages/f42/kdiagram2/po/pt/kgantt_qt.po | 
- | [pt_BR]({{< ref "/f42/language/pt_BR.md" >}}) | 66 | 66 | 100.0 | /mnt/stockage/packages/f42/kdiagram2/po/pt_BR/kchart_qt.po/mnt/stockage/packages/f42/kdiagram2/po/pt_BR/kgantt_qt.po | 
- | [ru]({{< ref "/f42/language/ru.md" >}}) | 66 | 66 | 100.0 | /mnt/stockage/packages/f42/kdiagram2/po/ru/kchart_qt.po/mnt/stockage/packages/f42/kdiagram2/po/ru/kgantt_qt.po | 
- | [sk]({{< ref "/f42/language/sk.md" >}}) | 66 | 66 | 100.0 | /mnt/stockage/packages/f42/kdiagram2/po/sk/kchart_qt.po/mnt/stockage/packages/f42/kdiagram2/po/sk/kgantt_qt.po | 
- | [sv]({{< ref "/f42/language/sv.md" >}}) | 66 | 66 | 100.0 | /mnt/stockage/packages/f42/kdiagram2/po/sv/kchart_qt.po/mnt/stockage/packages/f42/kdiagram2/po/sv/kgantt_qt.po | 
- | [uk]({{< ref "/f42/language/uk.md" >}}) | 66 | 66 | 100.0 | /mnt/stockage/packages/f42/kdiagram2/po/uk/kchart_qt.po/mnt/stockage/packages/f42/kdiagram2/po/uk/kgantt_qt.po | 
- | [bs]({{< ref "/f42/language/bs.md" >}}) | 65 | 66 | 98.5 | /mnt/stockage/packages/f42/kdiagram2/po/bs/kchart_qt.po/mnt/stockage/packages/f42/kdiagram2/po/bs/kgantt_qt.po | 
- | [gl]({{< ref "/f42/language/gl.md" >}}) | 65 | 66 | 98.5 | /mnt/stockage/packages/f42/kdiagram2/po/gl/kchart_qt.po/mnt/stockage/packages/f42/kdiagram2/po/gl/kgantt_qt.po | 
- | [tr]({{< ref "/f42/language/tr.md" >}}) | 65 | 66 | 98.5 | /mnt/stockage/packages/f42/kdiagram2/po/tr/kchart_qt.po/mnt/stockage/packages/f42/kdiagram2/po/tr/kgantt_qt.po | 
- | [zh_Hant]({{< ref "/f42/language/zh_Hant.md" >}}) | 65 | 66 | 98.5 | /mnt/stockage/packages/f42/kdiagram2/po/zh_TW/kchart_qt.po/mnt/stockage/packages/f42/kdiagram2/po/zh_TW/kgantt_qt.po | 
- | [ro]({{< ref "/f42/language/ro.md" >}}) | 51 | 52 | 98.1 | /mnt/stockage/packages/f42/kdiagram2/po/ro/kchart_qt.po | 
- | [bg]({{< ref "/f42/language/bg.md" >}}) | 13 | 14 | 92.9 | /mnt/stockage/packages/f42/kdiagram2/po/bg/kgantt_qt.po | 
- | [cs]({{< ref "/f42/language/cs.md" >}}) | 50 | 66 | 75.8 | /mnt/stockage/packages/f42/kdiagram2/po/cs/kchart_qt.po/mnt/stockage/packages/f42/kdiagram2/po/cs/kgantt_qt.po | 
- | [zh_Hans]({{< ref "/f42/language/zh_Hans.md" >}}) | 47 | 66 | 71.2 | /mnt/stockage/packages/f42/kdiagram2/po/zh_CN/kchart_qt.po/mnt/stockage/packages/f42/kdiagram2/po/zh_CN/kgantt_qt.po | 
- | [ar]({{< ref "/f42/language/ar.md" >}}) | 42 | 66 | 63.6 | /mnt/stockage/packages/f42/kdiagram2/po/ar/kchart_qt.po/mnt/stockage/packages/f42/kdiagram2/po/ar/kgantt_qt.po | 
- | [da]({{< ref "/f42/language/da.md" >}}) | 1 | 14 | 7.1 | /mnt/stockage/packages/f42/kdiagram2/po/da/kgantt_qt.po | 
- | [ast]({{< ref "/f42/language/ast.md" >}}) | 2 | 66 | 3.0 | /mnt/stockage/packages/f42/kdiagram2/po/ast/kchart_qt.po/mnt/stockage/packages/f42/kdiagram2/po/ast/kgantt_qt.po | 
+ | [ca](/f42/language/ca) | 66 | 66 | 100.0 | /mnt/stockage/packages/f42/kdiagram2/po/ca/kchart_qt.po/mnt/stockage/packages/f42/kdiagram2/po/ca/kgantt_qt.po | 
+ | [ca@valencia](/f42/language/ca@valencia) | 66 | 66 | 100.0 | /mnt/stockage/packages/f42/kdiagram2/po/ca@valencia/kchart_qt.po/mnt/stockage/packages/f42/kdiagram2/po/ca@valencia/kgantt_qt.po | 
+ | [de](/f42/language/de) | 66 | 66 | 100.0 | /mnt/stockage/packages/f42/kdiagram2/po/de/kchart_qt.po/mnt/stockage/packages/f42/kdiagram2/po/de/kgantt_qt.po | 
+ | [el](/f42/language/el) | 66 | 66 | 100.0 | /mnt/stockage/packages/f42/kdiagram2/po/el/kchart_qt.po/mnt/stockage/packages/f42/kdiagram2/po/el/kgantt_qt.po | 
+ | [en_GB](/f42/language/en_GB) | 66 | 66 | 100.0 | /mnt/stockage/packages/f42/kdiagram2/po/en_GB/kchart_qt.po/mnt/stockage/packages/f42/kdiagram2/po/en_GB/kgantt_qt.po | 
+ | [es](/f42/language/es) | 66 | 66 | 100.0 | /mnt/stockage/packages/f42/kdiagram2/po/es/kchart_qt.po/mnt/stockage/packages/f42/kdiagram2/po/es/kgantt_qt.po | 
+ | [et](/f42/language/et) | 66 | 66 | 100.0 | /mnt/stockage/packages/f42/kdiagram2/po/et/kchart_qt.po/mnt/stockage/packages/f42/kdiagram2/po/et/kgantt_qt.po | 
+ | [eu](/f42/language/eu) | 66 | 66 | 100.0 | /mnt/stockage/packages/f42/kdiagram2/po/eu/kchart_qt.po/mnt/stockage/packages/f42/kdiagram2/po/eu/kgantt_qt.po | 
+ | [fi](/f42/language/fi) | 66 | 66 | 100.0 | /mnt/stockage/packages/f42/kdiagram2/po/fi/kchart_qt.po/mnt/stockage/packages/f42/kdiagram2/po/fi/kgantt_qt.po | 
+ | [fr](/f42/language/fr) | 66 | 66 | 100.0 | /mnt/stockage/packages/f42/kdiagram2/po/fr/kchart_qt.po/mnt/stockage/packages/f42/kdiagram2/po/fr/kgantt_qt.po | 
+ | [it](/f42/language/it) | 66 | 66 | 100.0 | /mnt/stockage/packages/f42/kdiagram2/po/it/kchart_qt.po/mnt/stockage/packages/f42/kdiagram2/po/it/kgantt_qt.po | 
+ | [ko](/f42/language/ko) | 66 | 66 | 100.0 | /mnt/stockage/packages/f42/kdiagram2/po/ko/kchart_qt.po/mnt/stockage/packages/f42/kdiagram2/po/ko/kgantt_qt.po | 
+ | [nl](/f42/language/nl) | 66 | 66 | 100.0 | /mnt/stockage/packages/f42/kdiagram2/po/nl/kchart_qt.po/mnt/stockage/packages/f42/kdiagram2/po/nl/kgantt_qt.po | 
+ | [nn](/f42/language/nn) | 66 | 66 | 100.0 | /mnt/stockage/packages/f42/kdiagram2/po/nn/kchart_qt.po/mnt/stockage/packages/f42/kdiagram2/po/nn/kgantt_qt.po | 
+ | [pl](/f42/language/pl) | 66 | 66 | 100.0 | /mnt/stockage/packages/f42/kdiagram2/po/pl/kchart_qt.po/mnt/stockage/packages/f42/kdiagram2/po/pl/kgantt_qt.po | 
+ | [pt](/f42/language/pt) | 66 | 66 | 100.0 | /mnt/stockage/packages/f42/kdiagram2/po/pt/kchart_qt.po/mnt/stockage/packages/f42/kdiagram2/po/pt/kgantt_qt.po | 
+ | [pt_BR](/f42/language/pt_BR) | 66 | 66 | 100.0 | /mnt/stockage/packages/f42/kdiagram2/po/pt_BR/kchart_qt.po/mnt/stockage/packages/f42/kdiagram2/po/pt_BR/kgantt_qt.po | 
+ | [ru](/f42/language/ru) | 66 | 66 | 100.0 | /mnt/stockage/packages/f42/kdiagram2/po/ru/kchart_qt.po/mnt/stockage/packages/f42/kdiagram2/po/ru/kgantt_qt.po | 
+ | [sk](/f42/language/sk) | 66 | 66 | 100.0 | /mnt/stockage/packages/f42/kdiagram2/po/sk/kchart_qt.po/mnt/stockage/packages/f42/kdiagram2/po/sk/kgantt_qt.po | 
+ | [sv](/f42/language/sv) | 66 | 66 | 100.0 | /mnt/stockage/packages/f42/kdiagram2/po/sv/kchart_qt.po/mnt/stockage/packages/f42/kdiagram2/po/sv/kgantt_qt.po | 
+ | [uk](/f42/language/uk) | 66 | 66 | 100.0 | /mnt/stockage/packages/f42/kdiagram2/po/uk/kchart_qt.po/mnt/stockage/packages/f42/kdiagram2/po/uk/kgantt_qt.po | 
+ | [bs](/f42/language/bs) | 65 | 66 | 98.5 | /mnt/stockage/packages/f42/kdiagram2/po/bs/kchart_qt.po/mnt/stockage/packages/f42/kdiagram2/po/bs/kgantt_qt.po | 
+ | [gl](/f42/language/gl) | 65 | 66 | 98.5 | /mnt/stockage/packages/f42/kdiagram2/po/gl/kchart_qt.po/mnt/stockage/packages/f42/kdiagram2/po/gl/kgantt_qt.po | 
+ | [tr](/f42/language/tr) | 65 | 66 | 98.5 | /mnt/stockage/packages/f42/kdiagram2/po/tr/kchart_qt.po/mnt/stockage/packages/f42/kdiagram2/po/tr/kgantt_qt.po | 
+ | [zh_Hant](/f42/language/zh_Hant) | 65 | 66 | 98.5 | /mnt/stockage/packages/f42/kdiagram2/po/zh_TW/kchart_qt.po/mnt/stockage/packages/f42/kdiagram2/po/zh_TW/kgantt_qt.po | 
+ | [ro](/f42/language/ro) | 51 | 52 | 98.1 | /mnt/stockage/packages/f42/kdiagram2/po/ro/kchart_qt.po | 
+ | [bg](/f42/language/bg) | 13 | 14 | 92.9 | /mnt/stockage/packages/f42/kdiagram2/po/bg/kgantt_qt.po | 
+ | [cs](/f42/language/cs) | 50 | 66 | 75.8 | /mnt/stockage/packages/f42/kdiagram2/po/cs/kchart_qt.po/mnt/stockage/packages/f42/kdiagram2/po/cs/kgantt_qt.po | 
+ | [zh_Hans](/f42/language/zh_Hans) | 47 | 66 | 71.2 | /mnt/stockage/packages/f42/kdiagram2/po/zh_CN/kchart_qt.po/mnt/stockage/packages/f42/kdiagram2/po/zh_CN/kgantt_qt.po | 
+ | [ar](/f42/language/ar) | 42 | 66 | 63.6 | /mnt/stockage/packages/f42/kdiagram2/po/ar/kchart_qt.po/mnt/stockage/packages/f42/kdiagram2/po/ar/kgantt_qt.po | 
+ | [da](/f42/language/da) | 1 | 14 | 7.1 | /mnt/stockage/packages/f42/kdiagram2/po/da/kgantt_qt.po | 
+ | [ast](/f42/language/ast) | 2 | 66 | 3.0 | /mnt/stockage/packages/f42/kdiagram2/po/ast/kchart_qt.po/mnt/stockage/packages/f42/kdiagram2/po/ast/kgantt_qt.po | 
 {.sortable}
 
 

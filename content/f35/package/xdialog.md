@@ -18,19 +18,19 @@ The package xdialog (version 2.3.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f35/language/ca.md" >}}) | 21 | 21 | 100.0 | /mnt/stockage/packages/f35/xdialog/po/ca.po | 
- | [fr]({{< ref "/f35/language/fr.md" >}}) | 21 | 21 | 100.0 | /mnt/stockage/packages/f35/xdialog/po/fr.po | 
- | [hu]({{< ref "/f35/language/hu.md" >}}) | 21 | 21 | 100.0 | /mnt/stockage/packages/f35/xdialog/po/hu.po | 
- | [id]({{< ref "/f35/language/id.md" >}}) | 21 | 21 | 100.0 | /mnt/stockage/packages/f35/xdialog/po/id.po | 
- | [it]({{< ref "/f35/language/it.md" >}}) | 21 | 21 | 100.0 | /mnt/stockage/packages/f35/xdialog/po/it.po | 
- | [nb_NO]({{< ref "/f35/language/nb_NO.md" >}}) | 21 | 21 | 100.0 | /mnt/stockage/packages/f35/xdialog/po/no_NO.po | 
- | [pl]({{< ref "/f35/language/pl.md" >}}) | 21 | 21 | 100.0 | /mnt/stockage/packages/f35/xdialog/po/pl.po | 
- | [de]({{< ref "/f35/language/de.md" >}}) | 20 | 21 | 95.2 | /mnt/stockage/packages/f35/xdialog/po/de.po | 
- | [es]({{< ref "/f35/language/es.md" >}}) | 20 | 21 | 95.2 | /mnt/stockage/packages/f35/xdialog/po/es.po | 
- | [pt_BR]({{< ref "/f35/language/pt_BR.md" >}}) | 20 | 21 | 95.2 | /mnt/stockage/packages/f35/xdialog/po/pt_BR.po | 
- | [ru]({{< ref "/f35/language/ru.md" >}}) | 20 | 21 | 95.2 | /mnt/stockage/packages/f35/xdialog/po/ru.po | 
- | [sv]({{< ref "/f35/language/sv.md" >}}) | 20 | 21 | 95.2 | /mnt/stockage/packages/f35/xdialog/po/sv_SE.po | 
- | [nl]({{< ref "/f35/language/nl.md" >}}) | 17 | 21 | 81.0 | /mnt/stockage/packages/f35/xdialog/po/nl.po | 
+ | [ca](/f35/language/ca) | 21 | 21 | 100.0 | /mnt/stockage/packages/f35/xdialog/po/ca.po | 
+ | [fr](/f35/language/fr) | 21 | 21 | 100.0 | /mnt/stockage/packages/f35/xdialog/po/fr.po | 
+ | [hu](/f35/language/hu) | 21 | 21 | 100.0 | /mnt/stockage/packages/f35/xdialog/po/hu.po | 
+ | [id](/f35/language/id) | 21 | 21 | 100.0 | /mnt/stockage/packages/f35/xdialog/po/id.po | 
+ | [it](/f35/language/it) | 21 | 21 | 100.0 | /mnt/stockage/packages/f35/xdialog/po/it.po | 
+ | [nb_NO](/f35/language/nb_NO) | 21 | 21 | 100.0 | /mnt/stockage/packages/f35/xdialog/po/no_NO.po | 
+ | [pl](/f35/language/pl) | 21 | 21 | 100.0 | /mnt/stockage/packages/f35/xdialog/po/pl.po | 
+ | [de](/f35/language/de) | 20 | 21 | 95.2 | /mnt/stockage/packages/f35/xdialog/po/de.po | 
+ | [es](/f35/language/es) | 20 | 21 | 95.2 | /mnt/stockage/packages/f35/xdialog/po/es.po | 
+ | [pt_BR](/f35/language/pt_BR) | 20 | 21 | 95.2 | /mnt/stockage/packages/f35/xdialog/po/pt_BR.po | 
+ | [ru](/f35/language/ru) | 20 | 21 | 95.2 | /mnt/stockage/packages/f35/xdialog/po/ru.po | 
+ | [sv](/f35/language/sv) | 20 | 21 | 95.2 | /mnt/stockage/packages/f35/xdialog/po/sv_SE.po | 
+ | [nl](/f35/language/nl) | 17 | 21 | 81.0 | /mnt/stockage/packages/f35/xdialog/po/nl.po | 
 {.sortable}
 
 

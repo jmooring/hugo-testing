@@ -18,28 +18,28 @@ The package d-feet (version 0.3.11):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [bs]({{< ref "/f24/language/bs.md" >}}) | 109 | 109 | 100.0 | /mnt/stockage/packages/f24/d-feet/po/bs.po | 
- | [cs]({{< ref "/f24/language/cs.md" >}}) | 184 | 184 | 100.0 | /mnt/stockage/packages/f24/d-feet/help/cs/cs.po/mnt/stockage/packages/f24/d-feet/po/cs.po | 
- | [de]({{< ref "/f24/language/de.md" >}}) | 184 | 184 | 100.0 | /mnt/stockage/packages/f24/d-feet/help/de/de.po/mnt/stockage/packages/f24/d-feet/po/de.po | 
- | [el]({{< ref "/f24/language/el.md" >}}) | 184 | 184 | 100.0 | /mnt/stockage/packages/f24/d-feet/help/el/el.po/mnt/stockage/packages/f24/d-feet/po/el.po | 
- | [es]({{< ref "/f24/language/es.md" >}}) | 184 | 184 | 100.0 | /mnt/stockage/packages/f24/d-feet/help/es/es.po/mnt/stockage/packages/f24/d-feet/po/es.po | 
- | [fi]({{< ref "/f24/language/fi.md" >}}) | 109 | 109 | 100.0 | /mnt/stockage/packages/f24/d-feet/po/fi.po | 
- | [fr]({{< ref "/f24/language/fr.md" >}}) | 109 | 109 | 100.0 | /mnt/stockage/packages/f24/d-feet/po/fr.po | 
- | [gl]({{< ref "/f24/language/gl.md" >}}) | 109 | 109 | 100.0 | /mnt/stockage/packages/f24/d-feet/po/gl.po | 
- | [hu]({{< ref "/f24/language/hu.md" >}}) | 109 | 109 | 100.0 | /mnt/stockage/packages/f24/d-feet/po/hu.po | 
- | [id]({{< ref "/f24/language/id.md" >}}) | 109 | 109 | 100.0 | /mnt/stockage/packages/f24/d-feet/po/id.po | 
- | [lv]({{< ref "/f24/language/lv.md" >}}) | 80 | 80 | 100.0 | /mnt/stockage/packages/f24/d-feet/po/lv.po | 
- | [oc]({{< ref "/f24/language/oc.md" >}}) | 109 | 109 | 100.0 | /mnt/stockage/packages/f24/d-feet/po/oc.po | 
- | [pl]({{< ref "/f24/language/pl.md" >}}) | 109 | 109 | 100.0 | /mnt/stockage/packages/f24/d-feet/po/pl.po | 
- | [pt]({{< ref "/f24/language/pt.md" >}}) | 109 | 109 | 100.0 | /mnt/stockage/packages/f24/d-feet/po/pt.po | 
- | [pt_BR]({{< ref "/f24/language/pt_BR.md" >}}) | 109 | 109 | 100.0 | /mnt/stockage/packages/f24/d-feet/po/pt_BR.po | 
- | [ru]({{< ref "/f24/language/ru.md" >}}) | 82 | 82 | 100.0 | /mnt/stockage/packages/f24/d-feet/po/ru.po | 
- | [sl]({{< ref "/f24/language/sl.md" >}}) | 109 | 109 | 100.0 | /mnt/stockage/packages/f24/d-feet/po/sl.po | 
- | [sr]({{< ref "/f24/language/sr.md" >}}) | 218 | 218 | 100.0 | /mnt/stockage/packages/f24/d-feet/po/sr@latin.po/mnt/stockage/packages/f24/d-feet/po/sr.po | 
- | [sv]({{< ref "/f24/language/sv.md" >}}) | 184 | 184 | 100.0 | /mnt/stockage/packages/f24/d-feet/help/sv/sv.po/mnt/stockage/packages/f24/d-feet/po/sv.po | 
- | [tr]({{< ref "/f24/language/tr.md" >}}) | 109 | 109 | 100.0 | /mnt/stockage/packages/f24/d-feet/po/tr.po | 
- | [da]({{< ref "/f24/language/da.md" >}}) | 108 | 109 | 99.1 | /mnt/stockage/packages/f24/d-feet/po/da.po | 
- | [zh_Hans]({{< ref "/f24/language/zh_Hans.md" >}}) | 84 | 86 | 97.7 | /mnt/stockage/packages/f24/d-feet/po/zh_CN.po | 
+ | [bs](/f24/language/bs) | 109 | 109 | 100.0 | /mnt/stockage/packages/f24/d-feet/po/bs.po | 
+ | [cs](/f24/language/cs) | 184 | 184 | 100.0 | /mnt/stockage/packages/f24/d-feet/help/cs/cs.po/mnt/stockage/packages/f24/d-feet/po/cs.po | 
+ | [de](/f24/language/de) | 184 | 184 | 100.0 | /mnt/stockage/packages/f24/d-feet/help/de/de.po/mnt/stockage/packages/f24/d-feet/po/de.po | 
+ | [el](/f24/language/el) | 184 | 184 | 100.0 | /mnt/stockage/packages/f24/d-feet/help/el/el.po/mnt/stockage/packages/f24/d-feet/po/el.po | 
+ | [es](/f24/language/es) | 184 | 184 | 100.0 | /mnt/stockage/packages/f24/d-feet/help/es/es.po/mnt/stockage/packages/f24/d-feet/po/es.po | 
+ | [fi](/f24/language/fi) | 109 | 109 | 100.0 | /mnt/stockage/packages/f24/d-feet/po/fi.po | 
+ | [fr](/f24/language/fr) | 109 | 109 | 100.0 | /mnt/stockage/packages/f24/d-feet/po/fr.po | 
+ | [gl](/f24/language/gl) | 109 | 109 | 100.0 | /mnt/stockage/packages/f24/d-feet/po/gl.po | 
+ | [hu](/f24/language/hu) | 109 | 109 | 100.0 | /mnt/stockage/packages/f24/d-feet/po/hu.po | 
+ | [id](/f24/language/id) | 109 | 109 | 100.0 | /mnt/stockage/packages/f24/d-feet/po/id.po | 
+ | [lv](/f24/language/lv) | 80 | 80 | 100.0 | /mnt/stockage/packages/f24/d-feet/po/lv.po | 
+ | [oc](/f24/language/oc) | 109 | 109 | 100.0 | /mnt/stockage/packages/f24/d-feet/po/oc.po | 
+ | [pl](/f24/language/pl) | 109 | 109 | 100.0 | /mnt/stockage/packages/f24/d-feet/po/pl.po | 
+ | [pt](/f24/language/pt) | 109 | 109 | 100.0 | /mnt/stockage/packages/f24/d-feet/po/pt.po | 
+ | [pt_BR](/f24/language/pt_BR) | 109 | 109 | 100.0 | /mnt/stockage/packages/f24/d-feet/po/pt_BR.po | 
+ | [ru](/f24/language/ru) | 82 | 82 | 100.0 | /mnt/stockage/packages/f24/d-feet/po/ru.po | 
+ | [sl](/f24/language/sl) | 109 | 109 | 100.0 | /mnt/stockage/packages/f24/d-feet/po/sl.po | 
+ | [sr](/f24/language/sr) | 218 | 218 | 100.0 | /mnt/stockage/packages/f24/d-feet/po/sr@latin.po/mnt/stockage/packages/f24/d-feet/po/sr.po | 
+ | [sv](/f24/language/sv) | 184 | 184 | 100.0 | /mnt/stockage/packages/f24/d-feet/help/sv/sv.po/mnt/stockage/packages/f24/d-feet/po/sv.po | 
+ | [tr](/f24/language/tr) | 109 | 109 | 100.0 | /mnt/stockage/packages/f24/d-feet/po/tr.po | 
+ | [da](/f24/language/da) | 108 | 109 | 99.1 | /mnt/stockage/packages/f24/d-feet/po/da.po | 
+ | [zh_Hans](/f24/language/zh_Hans) | 84 | 86 | 97.7 | /mnt/stockage/packages/f24/d-feet/po/zh_CN.po | 
 {.sortable}
 
 

@@ -18,123 +18,123 @@ The package python-postorius (version 1.3.8):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [he]({{< ref "/f39/language/he.md" >}}) | 5052 | 5054 | 100.0 | /mnt/stockage/packages/f39/python-postorius/src/postorius/locale/he/LC_MESSAGES/django.po | 
- | [nl]({{< ref "/f39/language/nl.md" >}}) | 5052 | 5054 | 100.0 | /mnt/stockage/packages/f39/python-postorius/src/postorius/locale/nl/LC_MESSAGES/django.po | 
- | [pt_BR]({{< ref "/f39/language/pt_BR.md" >}}) | 5052 | 5054 | 100.0 | /mnt/stockage/packages/f39/python-postorius/src/postorius/locale/pt_BR/LC_MESSAGES/django.po | 
- | [tr]({{< ref "/f39/language/tr.md" >}}) | 5052 | 5054 | 100.0 | /mnt/stockage/packages/f39/python-postorius/src/postorius/locale/tr/LC_MESSAGES/django.po | 
- | [uk]({{< ref "/f39/language/uk.md" >}}) | 5052 | 5054 | 100.0 | /mnt/stockage/packages/f39/python-postorius/src/postorius/locale/uk/LC_MESSAGES/django.po | 
- | [zh_Hans]({{< ref "/f39/language/zh_Hans.md" >}}) | 5052 | 5054 | 100.0 | /mnt/stockage/packages/f39/python-postorius/src/postorius/locale/zh_CN/LC_MESSAGES/django.po | 
- | [hu]({{< ref "/f39/language/hu.md" >}}) | 5036 | 5054 | 99.6 | /mnt/stockage/packages/f39/python-postorius/src/postorius/locale/hu/LC_MESSAGES/django.po | 
- | [es]({{< ref "/f39/language/es.md" >}}) | 5024 | 5054 | 99.4 | /mnt/stockage/packages/f39/python-postorius/src/postorius/locale/es/LC_MESSAGES/django.po | 
- | [de]({{< ref "/f39/language/de.md" >}}) | 4977 | 5054 | 98.5 | /mnt/stockage/packages/f39/python-postorius/src/postorius/locale/de/LC_MESSAGES/django.po | 
- | [fr]({{< ref "/f39/language/fr.md" >}}) | 4927 | 5054 | 97.5 | /mnt/stockage/packages/f39/python-postorius/src/postorius/locale/fr/LC_MESSAGES/django.po | 
- | [pt]({{< ref "/f39/language/pt.md" >}}) | 4925 | 5054 | 97.4 | /mnt/stockage/packages/f39/python-postorius/src/postorius/locale/pt/LC_MESSAGES/django.po | 
- | [sq]({{< ref "/f39/language/sq.md" >}}) | 4925 | 5054 | 97.4 | /mnt/stockage/packages/f39/python-postorius/src/postorius/locale/sq/LC_MESSAGES/django.po | 
- | [it]({{< ref "/f39/language/it.md" >}}) | 4638 | 5054 | 91.8 | /mnt/stockage/packages/f39/python-postorius/src/postorius/locale/it/LC_MESSAGES/django.po | 
- | [ru]({{< ref "/f39/language/ru.md" >}}) | 4096 | 5054 | 81.0 | /mnt/stockage/packages/f39/python-postorius/src/postorius/locale/ru/LC_MESSAGES/django.po | 
- | [ko]({{< ref "/f39/language/ko.md" >}}) | 3850 | 5054 | 76.2 | /mnt/stockage/packages/f39/python-postorius/src/postorius/locale/ko/LC_MESSAGES/django.po | 
- | [bg]({{< ref "/f39/language/bg.md" >}}) | 3543 | 5054 | 70.1 | /mnt/stockage/packages/f39/python-postorius/src/postorius/locale/bg/LC_MESSAGES/django.po | 
- | [ca]({{< ref "/f39/language/ca.md" >}}) | 3300 | 5054 | 65.3 | /mnt/stockage/packages/f39/python-postorius/src/postorius/locale/ca/LC_MESSAGES/django.po | 
- | [id]({{< ref "/f39/language/id.md" >}}) | 3035 | 5054 | 60.1 | /mnt/stockage/packages/f39/python-postorius/src/postorius/locale/id/LC_MESSAGES/django.po | 
- | [cs]({{< ref "/f39/language/cs.md" >}}) | 1760 | 5054 | 34.8 | /mnt/stockage/packages/f39/python-postorius/src/postorius/locale/cs/LC_MESSAGES/django.po | 
- | [pl]({{< ref "/f39/language/pl.md" >}}) | 923 | 5054 | 18.3 | /mnt/stockage/packages/f39/python-postorius/src/postorius/locale/pl/LC_MESSAGES/django.po | 
- | [nb_NO]({{< ref "/f39/language/nb_NO.md" >}}) | 810 | 5054 | 16.0 | /mnt/stockage/packages/f39/python-postorius/src/postorius/locale/nb_NO/LC_MESSAGES/django.po | 
- | [ja]({{< ref "/f39/language/ja.md" >}}) | 650 | 5054 | 12.9 | /mnt/stockage/packages/f39/python-postorius/src/postorius/locale/ja/LC_MESSAGES/django.po | 
- | [sv]({{< ref "/f39/language/sv.md" >}}) | 125 | 5054 | 2.5 | /mnt/stockage/packages/f39/python-postorius/src/postorius/locale/sv/LC_MESSAGES/django.po | 
- | [zh_Hant]({{< ref "/f39/language/zh_Hant.md" >}}) | 91 | 5054 | 1.8 | /mnt/stockage/packages/f39/python-postorius/src/postorius/locale/zh_TW/LC_MESSAGES/django.po | 
- | [da]({{< ref "/f39/language/da.md" >}}) | 57 | 5054 | 1.1 | /mnt/stockage/packages/f39/python-postorius/src/postorius/locale/da/LC_MESSAGES/django.po | 
- | [te]({{< ref "/f39/language/te.md" >}}) | 34 | 5054 | 0.7 | /mnt/stockage/packages/f39/python-postorius/src/postorius/locale/te/LC_MESSAGES/django.po | 
- | [bn]({{< ref "/f39/language/bn.md" >}}) | 23 | 5054 | 0.5 | /mnt/stockage/packages/f39/python-postorius/src/postorius/locale/bn/LC_MESSAGES/django.po | 
- | [fi]({{< ref "/f39/language/fi.md" >}}) | 18 | 5054 | 0.4 | /mnt/stockage/packages/f39/python-postorius/src/postorius/locale/fi/LC_MESSAGES/django.po | 
- | [si]({{< ref "/f39/language/si.md" >}}) | 16 | 5054 | 0.3 | /mnt/stockage/packages/f39/python-postorius/src/postorius/locale/si/LC_MESSAGES/django.po | 
- | [oc]({{< ref "/f39/language/oc.md" >}}) | 12 | 5054 | 0.2 | /mnt/stockage/packages/f39/python-postorius/src/postorius/locale/oc/LC_MESSAGES/django.po | 
- | [ar]({{< ref "/f39/language/ar.md" >}}) | 8 | 5054 | 0.2 | /mnt/stockage/packages/f39/python-postorius/src/postorius/locale/ar/LC_MESSAGES/django.po | 
- | [el]({{< ref "/f39/language/el.md" >}}) | 6 | 5054 | 0.1 | /mnt/stockage/packages/f39/python-postorius/src/postorius/locale/el/LC_MESSAGES/django.po | 
- | [hr]({{< ref "/f39/language/hr.md" >}}) | 6 | 5054 | 0.1 | /mnt/stockage/packages/f39/python-postorius/src/postorius/locale/hr/LC_MESSAGES/django.po | 
- | [lt]({{< ref "/f39/language/lt.md" >}}) | 4 | 5054 | 0.1 | /mnt/stockage/packages/f39/python-postorius/src/postorius/locale/lt/LC_MESSAGES/django.po | 
- | [ta]({{< ref "/f39/language/ta.md" >}}) | 2 | 5054 | 0.0 | /mnt/stockage/packages/f39/python-postorius/src/postorius/locale/ta/LC_MESSAGES/django.po | 
- | [th]({{< ref "/f39/language/th.md" >}}) | 2 | 5054 | 0.0 | /mnt/stockage/packages/f39/python-postorius/src/postorius/locale/th/LC_MESSAGES/django.po | 
- | [mr]({{< ref "/f39/language/mr.md" >}}) | 1 | 5054 | 0.0 | /mnt/stockage/packages/f39/python-postorius/src/postorius/locale/mr/LC_MESSAGES/django.po | 
- | [af]({{< ref "/f39/language/af.md" >}}) | 0 | 5054 | 0.0 | /mnt/stockage/packages/f39/python-postorius/src/postorius/locale/af/LC_MESSAGES/django.po | 
- | [am]({{< ref "/f39/language/am.md" >}}) | 0 | 5054 | 0.0 | /mnt/stockage/packages/f39/python-postorius/src/postorius/locale/am/LC_MESSAGES/django.po | 
- | [an]({{< ref "/f39/language/an.md" >}}) | 0 | 5054 | 0.0 | /mnt/stockage/packages/f39/python-postorius/src/postorius/locale/an/LC_MESSAGES/django.po | 
- | [ast]({{< ref "/f39/language/ast.md" >}}) | 0 | 5054 | 0.0 | /mnt/stockage/packages/f39/python-postorius/src/postorius/locale/ast/LC_MESSAGES/django.po | 
- | [az]({{< ref "/f39/language/az.md" >}}) | 0 | 5054 | 0.0 | /mnt/stockage/packages/f39/python-postorius/src/postorius/locale/az/LC_MESSAGES/django.po | 
- | [be]({{< ref "/f39/language/be.md" >}}) | 0 | 5054 | 0.0 | /mnt/stockage/packages/f39/python-postorius/src/postorius/locale/be/LC_MESSAGES/django.po | 
- | [bem]({{< ref "/f39/language/bem.md" >}}) | 0 | 5054 | 0.0 | /mnt/stockage/packages/f39/python-postorius/src/postorius/locale/bem/LC_MESSAGES/django.po | 
- | [bo]({{< ref "/f39/language/bo.md" >}}) | 0 | 5054 | 0.0 | /mnt/stockage/packages/f39/python-postorius/src/postorius/locale/bo/LC_MESSAGES/django.po | 
- | [br]({{< ref "/f39/language/br.md" >}}) | 0 | 5054 | 0.0 | /mnt/stockage/packages/f39/python-postorius/src/postorius/locale/br/LC_MESSAGES/django.po | 
- | [bs]({{< ref "/f39/language/bs.md" >}}) | 0 | 5054 | 0.0 | /mnt/stockage/packages/f39/python-postorius/src/postorius/locale/bs/LC_MESSAGES/django.po | 
- | [ca@valencia]({{< ref "/f39/language/ca@valencia.md" >}}) | 0 | 5054 | 0.0 | /mnt/stockage/packages/f39/python-postorius/src/postorius/locale/ca@valencia/LC_MESSAGES/django.po | 
- | [ce]({{< ref "/f39/language/ce.md" >}}) | 0 | 5054 | 0.0 | /mnt/stockage/packages/f39/python-postorius/src/postorius/locale/ce/LC_MESSAGES/django.po | 
- | [ckb]({{< ref "/f39/language/ckb.md" >}}) | 0 | 5054 | 0.0 | /mnt/stockage/packages/f39/python-postorius/src/postorius/locale/ckb/LC_MESSAGES/django.po | 
- | [co]({{< ref "/f39/language/co.md" >}}) | 0 | 5054 | 0.0 | /mnt/stockage/packages/f39/python-postorius/src/postorius/locale/co/LC_MESSAGES/django.po | 
- | [crh]({{< ref "/f39/language/crh.md" >}}) | 0 | 5054 | 0.0 | /mnt/stockage/packages/f39/python-postorius/src/postorius/locale/crh/LC_MESSAGES/django.po | 
- | [cv]({{< ref "/f39/language/cv.md" >}}) | 0 | 5054 | 0.0 | /mnt/stockage/packages/f39/python-postorius/src/postorius/locale/cv/LC_MESSAGES/django.po | 
- | [cy]({{< ref "/f39/language/cy.md" >}}) | 0 | 5054 | 0.0 | /mnt/stockage/packages/f39/python-postorius/src/postorius/locale/cy/LC_MESSAGES/django.po | 
- | [en_AU]({{< ref "/f39/language/en_AU.md" >}}) | 0 | 5054 | 0.0 | /mnt/stockage/packages/f39/python-postorius/src/postorius/locale/en_AU/LC_MESSAGES/django.po | 
- | [en_CA]({{< ref "/f39/language/en_CA.md" >}}) | 0 | 5054 | 0.0 | /mnt/stockage/packages/f39/python-postorius/src/postorius/locale/en_CA/LC_MESSAGES/django.po | 
- | [en_GB]({{< ref "/f39/language/en_GB.md" >}}) | 0 | 5054 | 0.0 | /mnt/stockage/packages/f39/python-postorius/src/postorius/locale/en_GB/LC_MESSAGES/django.po | 
- | [eo]({{< ref "/f39/language/eo.md" >}}) | 0 | 5054 | 0.0 | /mnt/stockage/packages/f39/python-postorius/src/postorius/locale/eo/LC_MESSAGES/django.po | 
- | [et]({{< ref "/f39/language/et.md" >}}) | 0 | 5054 | 0.0 | /mnt/stockage/packages/f39/python-postorius/src/postorius/locale/et/LC_MESSAGES/django.po | 
- | [eu]({{< ref "/f39/language/eu.md" >}}) | 0 | 5054 | 0.0 | /mnt/stockage/packages/f39/python-postorius/src/postorius/locale/eu/LC_MESSAGES/django.po | 
- | [fa]({{< ref "/f39/language/fa.md" >}}) | 0 | 5054 | 0.0 | /mnt/stockage/packages/f39/python-postorius/src/postorius/locale/fa/LC_MESSAGES/django.po | 
- | [fil]({{< ref "/f39/language/fil.md" >}}) | 0 | 5054 | 0.0 | /mnt/stockage/packages/f39/python-postorius/src/postorius/locale/fil/LC_MESSAGES/django.po | 
- | [fo]({{< ref "/f39/language/fo.md" >}}) | 0 | 5054 | 0.0 | /mnt/stockage/packages/f39/python-postorius/src/postorius/locale/fo/LC_MESSAGES/django.po | 
- | [fr_CA]({{< ref "/f39/language/fr_CA.md" >}}) | 0 | 5054 | 0.0 | /mnt/stockage/packages/f39/python-postorius/src/postorius/locale/fr_CA/LC_MESSAGES/django.po | 
- | [frp]({{< ref "/f39/language/frp.md" >}}) | 0 | 5054 | 0.0 | /mnt/stockage/packages/f39/python-postorius/src/postorius/locale/frp/LC_MESSAGES/django.po | 
- | [fy]({{< ref "/f39/language/fy.md" >}}) | 0 | 5054 | 0.0 | /mnt/stockage/packages/f39/python-postorius/src/postorius/locale/fy/LC_MESSAGES/django.po | 
- | [ga]({{< ref "/f39/language/ga.md" >}}) | 0 | 5054 | 0.0 | /mnt/stockage/packages/f39/python-postorius/src/postorius/locale/ga/LC_MESSAGES/django.po | 
- | [gd]({{< ref "/f39/language/gd.md" >}}) | 0 | 5054 | 0.0 | /mnt/stockage/packages/f39/python-postorius/src/postorius/locale/gd/LC_MESSAGES/django.po | 
- | [gl]({{< ref "/f39/language/gl.md" >}}) | 0 | 5054 | 0.0 | /mnt/stockage/packages/f39/python-postorius/src/postorius/locale/gl/LC_MESSAGES/django.po | 
- | [gu]({{< ref "/f39/language/gu.md" >}}) | 0 | 5054 | 0.0 | /mnt/stockage/packages/f39/python-postorius/src/postorius/locale/gu/LC_MESSAGES/django.po | 
- | [hi]({{< ref "/f39/language/hi.md" >}}) | 0 | 5054 | 0.0 | /mnt/stockage/packages/f39/python-postorius/src/postorius/locale/hi/LC_MESSAGES/django.po | 
- | [ht]({{< ref "/f39/language/ht.md" >}}) | 0 | 5054 | 0.0 | /mnt/stockage/packages/f39/python-postorius/src/postorius/locale/ht/LC_MESSAGES/django.po | 
- | [hy]({{< ref "/f39/language/hy.md" >}}) | 0 | 5054 | 0.0 | /mnt/stockage/packages/f39/python-postorius/src/postorius/locale/hy/LC_MESSAGES/django.po | 
- | [ia]({{< ref "/f39/language/ia.md" >}}) | 0 | 5054 | 0.0 | /mnt/stockage/packages/f39/python-postorius/src/postorius/locale/ia/LC_MESSAGES/django.po | 
- | [is]({{< ref "/f39/language/is.md" >}}) | 0 | 5054 | 0.0 | /mnt/stockage/packages/f39/python-postorius/src/postorius/locale/is/LC_MESSAGES/django.po | 
- | [ka]({{< ref "/f39/language/ka.md" >}}) | 0 | 5054 | 0.0 | /mnt/stockage/packages/f39/python-postorius/src/postorius/locale/ka/LC_MESSAGES/django.po | 
- | [kk]({{< ref "/f39/language/kk.md" >}}) | 0 | 5054 | 0.0 | /mnt/stockage/packages/f39/python-postorius/src/postorius/locale/kk/LC_MESSAGES/django.po | 
- | [kl]({{< ref "/f39/language/kl.md" >}}) | 0 | 5054 | 0.0 | /mnt/stockage/packages/f39/python-postorius/src/postorius/locale/kl/LC_MESSAGES/django.po | 
- | [km]({{< ref "/f39/language/km.md" >}}) | 0 | 5054 | 0.0 | /mnt/stockage/packages/f39/python-postorius/src/postorius/locale/km/LC_MESSAGES/django.po | 
- | [kn]({{< ref "/f39/language/kn.md" >}}) | 0 | 5054 | 0.0 | /mnt/stockage/packages/f39/python-postorius/src/postorius/locale/kn/LC_MESSAGES/django.po | 
- | [ku]({{< ref "/f39/language/ku.md" >}}) | 0 | 5054 | 0.0 | /mnt/stockage/packages/f39/python-postorius/src/postorius/locale/ku/LC_MESSAGES/django.po | 
- | [kw]({{< ref "/f39/language/kw.md" >}}) | 0 | 5054 | 0.0 | /mnt/stockage/packages/f39/python-postorius/src/postorius/locale/kw/LC_MESSAGES/django.po | 
- | [ky]({{< ref "/f39/language/ky.md" >}}) | 0 | 5054 | 0.0 | /mnt/stockage/packages/f39/python-postorius/src/postorius/locale/ky/LC_MESSAGES/django.po | 
- | [la]({{< ref "/f39/language/la.md" >}}) | 0 | 5054 | 0.0 | /mnt/stockage/packages/f39/python-postorius/src/postorius/locale/la/LC_MESSAGES/django.po | 
- | [lb]({{< ref "/f39/language/lb.md" >}}) | 0 | 5054 | 0.0 | /mnt/stockage/packages/f39/python-postorius/src/postorius/locale/lb/LC_MESSAGES/django.po | 
- | [lo]({{< ref "/f39/language/lo.md" >}}) | 0 | 5054 | 0.0 | /mnt/stockage/packages/f39/python-postorius/src/postorius/locale/lo/LC_MESSAGES/django.po | 
- | [lv]({{< ref "/f39/language/lv.md" >}}) | 0 | 5054 | 0.0 | /mnt/stockage/packages/f39/python-postorius/src/postorius/locale/lv/LC_MESSAGES/django.po | 
- | [mg]({{< ref "/f39/language/mg.md" >}}) | 0 | 5054 | 0.0 | /mnt/stockage/packages/f39/python-postorius/src/postorius/locale/mg/LC_MESSAGES/django.po | 
- | [mhr]({{< ref "/f39/language/mhr.md" >}}) | 0 | 5054 | 0.0 | /mnt/stockage/packages/f39/python-postorius/src/postorius/locale/mhr/LC_MESSAGES/django.po | 
- | [mi]({{< ref "/f39/language/mi.md" >}}) | 0 | 5054 | 0.0 | /mnt/stockage/packages/f39/python-postorius/src/postorius/locale/mi/LC_MESSAGES/django.po | 
- | [ml]({{< ref "/f39/language/ml.md" >}}) | 0 | 5054 | 0.0 | /mnt/stockage/packages/f39/python-postorius/src/postorius/locale/ml/LC_MESSAGES/django.po | 
- | [ms]({{< ref "/f39/language/ms.md" >}}) | 0 | 5054 | 0.0 | /mnt/stockage/packages/f39/python-postorius/src/postorius/locale/ms/LC_MESSAGES/django.po | 
- | [my]({{< ref "/f39/language/my.md" >}}) | 0 | 5054 | 0.0 | /mnt/stockage/packages/f39/python-postorius/src/postorius/locale/my/LC_MESSAGES/django.po | 
- | [ne]({{< ref "/f39/language/ne.md" >}}) | 0 | 5054 | 0.0 | /mnt/stockage/packages/f39/python-postorius/src/postorius/locale/ne/LC_MESSAGES/django.po | 
- | [nn]({{< ref "/f39/language/nn.md" >}}) | 0 | 5054 | 0.0 | /mnt/stockage/packages/f39/python-postorius/src/postorius/locale/nn_NO/LC_MESSAGES/django.po | 
- | [os]({{< ref "/f39/language/os.md" >}}) | 0 | 5054 | 0.0 | /mnt/stockage/packages/f39/python-postorius/src/postorius/locale/os/LC_MESSAGES/django.po | 
- | [pa]({{< ref "/f39/language/pa.md" >}}) | 0 | 5054 | 0.0 | /mnt/stockage/packages/f39/python-postorius/src/postorius/locale/pa/LC_MESSAGES/django.po | 
- | [ps]({{< ref "/f39/language/ps.md" >}}) | 0 | 5054 | 0.0 | /mnt/stockage/packages/f39/python-postorius/src/postorius/locale/ps/LC_MESSAGES/django.po | 
- | [ro]({{< ref "/f39/language/ro.md" >}}) | 0 | 5054 | 0.0 | /mnt/stockage/packages/f39/python-postorius/src/postorius/locale/ro/LC_MESSAGES/django.po | 
- | [sa]({{< ref "/f39/language/sa.md" >}}) | 0 | 5054 | 0.0 | /mnt/stockage/packages/f39/python-postorius/src/postorius/locale/sa/LC_MESSAGES/django.po | 
- | [sc]({{< ref "/f39/language/sc.md" >}}) | 0 | 5054 | 0.0 | /mnt/stockage/packages/f39/python-postorius/src/postorius/locale/sc/LC_MESSAGES/django.po | 
- | [sd]({{< ref "/f39/language/sd.md" >}}) | 0 | 5054 | 0.0 | /mnt/stockage/packages/f39/python-postorius/src/postorius/locale/sd/LC_MESSAGES/django.po | 
- | [se]({{< ref "/f39/language/se.md" >}}) | 0 | 5054 | 0.0 | /mnt/stockage/packages/f39/python-postorius/src/postorius/locale/se/LC_MESSAGES/django.po | 
- | [shn]({{< ref "/f39/language/shn.md" >}}) | 0 | 5054 | 0.0 | /mnt/stockage/packages/f39/python-postorius/src/postorius/locale/shn/LC_MESSAGES/django.po | 
- | [sk]({{< ref "/f39/language/sk.md" >}}) | 0 | 5054 | 0.0 | /mnt/stockage/packages/f39/python-postorius/src/postorius/locale/sk/LC_MESSAGES/django.po | 
- | [sl]({{< ref "/f39/language/sl.md" >}}) | 0 | 5054 | 0.0 | /mnt/stockage/packages/f39/python-postorius/src/postorius/locale/sl/LC_MESSAGES/django.po | 
- | [sr]({{< ref "/f39/language/sr.md" >}}) | 0 | 5054 | 0.0 | /mnt/stockage/packages/f39/python-postorius/src/postorius/locale/sr/LC_MESSAGES/django.po | 
- | [sw]({{< ref "/f39/language/sw.md" >}}) | 0 | 5054 | 0.0 | /mnt/stockage/packages/f39/python-postorius/src/postorius/locale/sw/LC_MESSAGES/django.po | 
- | [szl]({{< ref "/f39/language/szl.md" >}}) | 0 | 5054 | 0.0 | /mnt/stockage/packages/f39/python-postorius/src/postorius/locale/szl/LC_MESSAGES/django.po | 
- | [tg]({{< ref "/f39/language/tg.md" >}}) | 0 | 5054 | 0.0 | /mnt/stockage/packages/f39/python-postorius/src/postorius/locale/tg/LC_MESSAGES/django.po | 
- | [ti]({{< ref "/f39/language/ti.md" >}}) | 0 | 5054 | 0.0 | /mnt/stockage/packages/f39/python-postorius/src/postorius/locale/ti/LC_MESSAGES/django.po | 
- | [ug]({{< ref "/f39/language/ug.md" >}}) | 0 | 5054 | 0.0 | /mnt/stockage/packages/f39/python-postorius/src/postorius/locale/ug/LC_MESSAGES/django.po | 
- | [ur]({{< ref "/f39/language/ur.md" >}}) | 0 | 5054 | 0.0 | /mnt/stockage/packages/f39/python-postorius/src/postorius/locale/ur/LC_MESSAGES/django.po | 
- | [uz]({{< ref "/f39/language/uz.md" >}}) | 0 | 5054 | 0.0 | /mnt/stockage/packages/f39/python-postorius/src/postorius/locale/uz/LC_MESSAGES/django.po | 
- | [vi]({{< ref "/f39/language/vi.md" >}}) | 0 | 5054 | 0.0 | /mnt/stockage/packages/f39/python-postorius/src/postorius/locale/vi/LC_MESSAGES/django.po | 
- | [wae]({{< ref "/f39/language/wae.md" >}}) | 0 | 5054 | 0.0 | /mnt/stockage/packages/f39/python-postorius/src/postorius/locale/wae/LC_MESSAGES/django.po | 
- | [zh_Hant_HK]({{< ref "/f39/language/zh_Hant_HK.md" >}}) | 0 | 5054 | 0.0 | /mnt/stockage/packages/f39/python-postorius/src/postorius/locale/zh_HK/LC_MESSAGES/django.po | 
+ | [he](/f39/language/he) | 5052 | 5054 | 100.0 | /mnt/stockage/packages/f39/python-postorius/src/postorius/locale/he/LC_MESSAGES/django.po | 
+ | [nl](/f39/language/nl) | 5052 | 5054 | 100.0 | /mnt/stockage/packages/f39/python-postorius/src/postorius/locale/nl/LC_MESSAGES/django.po | 
+ | [pt_BR](/f39/language/pt_BR) | 5052 | 5054 | 100.0 | /mnt/stockage/packages/f39/python-postorius/src/postorius/locale/pt_BR/LC_MESSAGES/django.po | 
+ | [tr](/f39/language/tr) | 5052 | 5054 | 100.0 | /mnt/stockage/packages/f39/python-postorius/src/postorius/locale/tr/LC_MESSAGES/django.po | 
+ | [uk](/f39/language/uk) | 5052 | 5054 | 100.0 | /mnt/stockage/packages/f39/python-postorius/src/postorius/locale/uk/LC_MESSAGES/django.po | 
+ | [zh_Hans](/f39/language/zh_Hans) | 5052 | 5054 | 100.0 | /mnt/stockage/packages/f39/python-postorius/src/postorius/locale/zh_CN/LC_MESSAGES/django.po | 
+ | [hu](/f39/language/hu) | 5036 | 5054 | 99.6 | /mnt/stockage/packages/f39/python-postorius/src/postorius/locale/hu/LC_MESSAGES/django.po | 
+ | [es](/f39/language/es) | 5024 | 5054 | 99.4 | /mnt/stockage/packages/f39/python-postorius/src/postorius/locale/es/LC_MESSAGES/django.po | 
+ | [de](/f39/language/de) | 4977 | 5054 | 98.5 | /mnt/stockage/packages/f39/python-postorius/src/postorius/locale/de/LC_MESSAGES/django.po | 
+ | [fr](/f39/language/fr) | 4927 | 5054 | 97.5 | /mnt/stockage/packages/f39/python-postorius/src/postorius/locale/fr/LC_MESSAGES/django.po | 
+ | [pt](/f39/language/pt) | 4925 | 5054 | 97.4 | /mnt/stockage/packages/f39/python-postorius/src/postorius/locale/pt/LC_MESSAGES/django.po | 
+ | [sq](/f39/language/sq) | 4925 | 5054 | 97.4 | /mnt/stockage/packages/f39/python-postorius/src/postorius/locale/sq/LC_MESSAGES/django.po | 
+ | [it](/f39/language/it) | 4638 | 5054 | 91.8 | /mnt/stockage/packages/f39/python-postorius/src/postorius/locale/it/LC_MESSAGES/django.po | 
+ | [ru](/f39/language/ru) | 4096 | 5054 | 81.0 | /mnt/stockage/packages/f39/python-postorius/src/postorius/locale/ru/LC_MESSAGES/django.po | 
+ | [ko](/f39/language/ko) | 3850 | 5054 | 76.2 | /mnt/stockage/packages/f39/python-postorius/src/postorius/locale/ko/LC_MESSAGES/django.po | 
+ | [bg](/f39/language/bg) | 3543 | 5054 | 70.1 | /mnt/stockage/packages/f39/python-postorius/src/postorius/locale/bg/LC_MESSAGES/django.po | 
+ | [ca](/f39/language/ca) | 3300 | 5054 | 65.3 | /mnt/stockage/packages/f39/python-postorius/src/postorius/locale/ca/LC_MESSAGES/django.po | 
+ | [id](/f39/language/id) | 3035 | 5054 | 60.1 | /mnt/stockage/packages/f39/python-postorius/src/postorius/locale/id/LC_MESSAGES/django.po | 
+ | [cs](/f39/language/cs) | 1760 | 5054 | 34.8 | /mnt/stockage/packages/f39/python-postorius/src/postorius/locale/cs/LC_MESSAGES/django.po | 
+ | [pl](/f39/language/pl) | 923 | 5054 | 18.3 | /mnt/stockage/packages/f39/python-postorius/src/postorius/locale/pl/LC_MESSAGES/django.po | 
+ | [nb_NO](/f39/language/nb_NO) | 810 | 5054 | 16.0 | /mnt/stockage/packages/f39/python-postorius/src/postorius/locale/nb_NO/LC_MESSAGES/django.po | 
+ | [ja](/f39/language/ja) | 650 | 5054 | 12.9 | /mnt/stockage/packages/f39/python-postorius/src/postorius/locale/ja/LC_MESSAGES/django.po | 
+ | [sv](/f39/language/sv) | 125 | 5054 | 2.5 | /mnt/stockage/packages/f39/python-postorius/src/postorius/locale/sv/LC_MESSAGES/django.po | 
+ | [zh_Hant](/f39/language/zh_Hant) | 91 | 5054 | 1.8 | /mnt/stockage/packages/f39/python-postorius/src/postorius/locale/zh_TW/LC_MESSAGES/django.po | 
+ | [da](/f39/language/da) | 57 | 5054 | 1.1 | /mnt/stockage/packages/f39/python-postorius/src/postorius/locale/da/LC_MESSAGES/django.po | 
+ | [te](/f39/language/te) | 34 | 5054 | 0.7 | /mnt/stockage/packages/f39/python-postorius/src/postorius/locale/te/LC_MESSAGES/django.po | 
+ | [bn](/f39/language/bn) | 23 | 5054 | 0.5 | /mnt/stockage/packages/f39/python-postorius/src/postorius/locale/bn/LC_MESSAGES/django.po | 
+ | [fi](/f39/language/fi) | 18 | 5054 | 0.4 | /mnt/stockage/packages/f39/python-postorius/src/postorius/locale/fi/LC_MESSAGES/django.po | 
+ | [si](/f39/language/si) | 16 | 5054 | 0.3 | /mnt/stockage/packages/f39/python-postorius/src/postorius/locale/si/LC_MESSAGES/django.po | 
+ | [oc](/f39/language/oc) | 12 | 5054 | 0.2 | /mnt/stockage/packages/f39/python-postorius/src/postorius/locale/oc/LC_MESSAGES/django.po | 
+ | [ar](/f39/language/ar) | 8 | 5054 | 0.2 | /mnt/stockage/packages/f39/python-postorius/src/postorius/locale/ar/LC_MESSAGES/django.po | 
+ | [el](/f39/language/el) | 6 | 5054 | 0.1 | /mnt/stockage/packages/f39/python-postorius/src/postorius/locale/el/LC_MESSAGES/django.po | 
+ | [hr](/f39/language/hr) | 6 | 5054 | 0.1 | /mnt/stockage/packages/f39/python-postorius/src/postorius/locale/hr/LC_MESSAGES/django.po | 
+ | [lt](/f39/language/lt) | 4 | 5054 | 0.1 | /mnt/stockage/packages/f39/python-postorius/src/postorius/locale/lt/LC_MESSAGES/django.po | 
+ | [ta](/f39/language/ta) | 2 | 5054 | 0.0 | /mnt/stockage/packages/f39/python-postorius/src/postorius/locale/ta/LC_MESSAGES/django.po | 
+ | [th](/f39/language/th) | 2 | 5054 | 0.0 | /mnt/stockage/packages/f39/python-postorius/src/postorius/locale/th/LC_MESSAGES/django.po | 
+ | [mr](/f39/language/mr) | 1 | 5054 | 0.0 | /mnt/stockage/packages/f39/python-postorius/src/postorius/locale/mr/LC_MESSAGES/django.po | 
+ | [af](/f39/language/af) | 0 | 5054 | 0.0 | /mnt/stockage/packages/f39/python-postorius/src/postorius/locale/af/LC_MESSAGES/django.po | 
+ | [am](/f39/language/am) | 0 | 5054 | 0.0 | /mnt/stockage/packages/f39/python-postorius/src/postorius/locale/am/LC_MESSAGES/django.po | 
+ | [an](/f39/language/an) | 0 | 5054 | 0.0 | /mnt/stockage/packages/f39/python-postorius/src/postorius/locale/an/LC_MESSAGES/django.po | 
+ | [ast](/f39/language/ast) | 0 | 5054 | 0.0 | /mnt/stockage/packages/f39/python-postorius/src/postorius/locale/ast/LC_MESSAGES/django.po | 
+ | [az](/f39/language/az) | 0 | 5054 | 0.0 | /mnt/stockage/packages/f39/python-postorius/src/postorius/locale/az/LC_MESSAGES/django.po | 
+ | [be](/f39/language/be) | 0 | 5054 | 0.0 | /mnt/stockage/packages/f39/python-postorius/src/postorius/locale/be/LC_MESSAGES/django.po | 
+ | [bem](/f39/language/bem) | 0 | 5054 | 0.0 | /mnt/stockage/packages/f39/python-postorius/src/postorius/locale/bem/LC_MESSAGES/django.po | 
+ | [bo](/f39/language/bo) | 0 | 5054 | 0.0 | /mnt/stockage/packages/f39/python-postorius/src/postorius/locale/bo/LC_MESSAGES/django.po | 
+ | [br](/f39/language/br) | 0 | 5054 | 0.0 | /mnt/stockage/packages/f39/python-postorius/src/postorius/locale/br/LC_MESSAGES/django.po | 
+ | [bs](/f39/language/bs) | 0 | 5054 | 0.0 | /mnt/stockage/packages/f39/python-postorius/src/postorius/locale/bs/LC_MESSAGES/django.po | 
+ | [ca@valencia](/f39/language/ca@valencia) | 0 | 5054 | 0.0 | /mnt/stockage/packages/f39/python-postorius/src/postorius/locale/ca@valencia/LC_MESSAGES/django.po | 
+ | [ce](/f39/language/ce) | 0 | 5054 | 0.0 | /mnt/stockage/packages/f39/python-postorius/src/postorius/locale/ce/LC_MESSAGES/django.po | 
+ | [ckb](/f39/language/ckb) | 0 | 5054 | 0.0 | /mnt/stockage/packages/f39/python-postorius/src/postorius/locale/ckb/LC_MESSAGES/django.po | 
+ | [co](/f39/language/co) | 0 | 5054 | 0.0 | /mnt/stockage/packages/f39/python-postorius/src/postorius/locale/co/LC_MESSAGES/django.po | 
+ | [crh](/f39/language/crh) | 0 | 5054 | 0.0 | /mnt/stockage/packages/f39/python-postorius/src/postorius/locale/crh/LC_MESSAGES/django.po | 
+ | [cv](/f39/language/cv) | 0 | 5054 | 0.0 | /mnt/stockage/packages/f39/python-postorius/src/postorius/locale/cv/LC_MESSAGES/django.po | 
+ | [cy](/f39/language/cy) | 0 | 5054 | 0.0 | /mnt/stockage/packages/f39/python-postorius/src/postorius/locale/cy/LC_MESSAGES/django.po | 
+ | [en_AU](/f39/language/en_AU) | 0 | 5054 | 0.0 | /mnt/stockage/packages/f39/python-postorius/src/postorius/locale/en_AU/LC_MESSAGES/django.po | 
+ | [en_CA](/f39/language/en_CA) | 0 | 5054 | 0.0 | /mnt/stockage/packages/f39/python-postorius/src/postorius/locale/en_CA/LC_MESSAGES/django.po | 
+ | [en_GB](/f39/language/en_GB) | 0 | 5054 | 0.0 | /mnt/stockage/packages/f39/python-postorius/src/postorius/locale/en_GB/LC_MESSAGES/django.po | 
+ | [eo](/f39/language/eo) | 0 | 5054 | 0.0 | /mnt/stockage/packages/f39/python-postorius/src/postorius/locale/eo/LC_MESSAGES/django.po | 
+ | [et](/f39/language/et) | 0 | 5054 | 0.0 | /mnt/stockage/packages/f39/python-postorius/src/postorius/locale/et/LC_MESSAGES/django.po | 
+ | [eu](/f39/language/eu) | 0 | 5054 | 0.0 | /mnt/stockage/packages/f39/python-postorius/src/postorius/locale/eu/LC_MESSAGES/django.po | 
+ | [fa](/f39/language/fa) | 0 | 5054 | 0.0 | /mnt/stockage/packages/f39/python-postorius/src/postorius/locale/fa/LC_MESSAGES/django.po | 
+ | [fil](/f39/language/fil) | 0 | 5054 | 0.0 | /mnt/stockage/packages/f39/python-postorius/src/postorius/locale/fil/LC_MESSAGES/django.po | 
+ | [fo](/f39/language/fo) | 0 | 5054 | 0.0 | /mnt/stockage/packages/f39/python-postorius/src/postorius/locale/fo/LC_MESSAGES/django.po | 
+ | [fr_CA](/f39/language/fr_CA) | 0 | 5054 | 0.0 | /mnt/stockage/packages/f39/python-postorius/src/postorius/locale/fr_CA/LC_MESSAGES/django.po | 
+ | [frp](/f39/language/frp) | 0 | 5054 | 0.0 | /mnt/stockage/packages/f39/python-postorius/src/postorius/locale/frp/LC_MESSAGES/django.po | 
+ | [fy](/f39/language/fy) | 0 | 5054 | 0.0 | /mnt/stockage/packages/f39/python-postorius/src/postorius/locale/fy/LC_MESSAGES/django.po | 
+ | [ga](/f39/language/ga) | 0 | 5054 | 0.0 | /mnt/stockage/packages/f39/python-postorius/src/postorius/locale/ga/LC_MESSAGES/django.po | 
+ | [gd](/f39/language/gd) | 0 | 5054 | 0.0 | /mnt/stockage/packages/f39/python-postorius/src/postorius/locale/gd/LC_MESSAGES/django.po | 
+ | [gl](/f39/language/gl) | 0 | 5054 | 0.0 | /mnt/stockage/packages/f39/python-postorius/src/postorius/locale/gl/LC_MESSAGES/django.po | 
+ | [gu](/f39/language/gu) | 0 | 5054 | 0.0 | /mnt/stockage/packages/f39/python-postorius/src/postorius/locale/gu/LC_MESSAGES/django.po | 
+ | [hi](/f39/language/hi) | 0 | 5054 | 0.0 | /mnt/stockage/packages/f39/python-postorius/src/postorius/locale/hi/LC_MESSAGES/django.po | 
+ | [ht](/f39/language/ht) | 0 | 5054 | 0.0 | /mnt/stockage/packages/f39/python-postorius/src/postorius/locale/ht/LC_MESSAGES/django.po | 
+ | [hy](/f39/language/hy) | 0 | 5054 | 0.0 | /mnt/stockage/packages/f39/python-postorius/src/postorius/locale/hy/LC_MESSAGES/django.po | 
+ | [ia](/f39/language/ia) | 0 | 5054 | 0.0 | /mnt/stockage/packages/f39/python-postorius/src/postorius/locale/ia/LC_MESSAGES/django.po | 
+ | [is](/f39/language/is) | 0 | 5054 | 0.0 | /mnt/stockage/packages/f39/python-postorius/src/postorius/locale/is/LC_MESSAGES/django.po | 
+ | [ka](/f39/language/ka) | 0 | 5054 | 0.0 | /mnt/stockage/packages/f39/python-postorius/src/postorius/locale/ka/LC_MESSAGES/django.po | 
+ | [kk](/f39/language/kk) | 0 | 5054 | 0.0 | /mnt/stockage/packages/f39/python-postorius/src/postorius/locale/kk/LC_MESSAGES/django.po | 
+ | [kl](/f39/language/kl) | 0 | 5054 | 0.0 | /mnt/stockage/packages/f39/python-postorius/src/postorius/locale/kl/LC_MESSAGES/django.po | 
+ | [km](/f39/language/km) | 0 | 5054 | 0.0 | /mnt/stockage/packages/f39/python-postorius/src/postorius/locale/km/LC_MESSAGES/django.po | 
+ | [kn](/f39/language/kn) | 0 | 5054 | 0.0 | /mnt/stockage/packages/f39/python-postorius/src/postorius/locale/kn/LC_MESSAGES/django.po | 
+ | [ku](/f39/language/ku) | 0 | 5054 | 0.0 | /mnt/stockage/packages/f39/python-postorius/src/postorius/locale/ku/LC_MESSAGES/django.po | 
+ | [kw](/f39/language/kw) | 0 | 5054 | 0.0 | /mnt/stockage/packages/f39/python-postorius/src/postorius/locale/kw/LC_MESSAGES/django.po | 
+ | [ky](/f39/language/ky) | 0 | 5054 | 0.0 | /mnt/stockage/packages/f39/python-postorius/src/postorius/locale/ky/LC_MESSAGES/django.po | 
+ | [la](/f39/language/la) | 0 | 5054 | 0.0 | /mnt/stockage/packages/f39/python-postorius/src/postorius/locale/la/LC_MESSAGES/django.po | 
+ | [lb](/f39/language/lb) | 0 | 5054 | 0.0 | /mnt/stockage/packages/f39/python-postorius/src/postorius/locale/lb/LC_MESSAGES/django.po | 
+ | [lo](/f39/language/lo) | 0 | 5054 | 0.0 | /mnt/stockage/packages/f39/python-postorius/src/postorius/locale/lo/LC_MESSAGES/django.po | 
+ | [lv](/f39/language/lv) | 0 | 5054 | 0.0 | /mnt/stockage/packages/f39/python-postorius/src/postorius/locale/lv/LC_MESSAGES/django.po | 
+ | [mg](/f39/language/mg) | 0 | 5054 | 0.0 | /mnt/stockage/packages/f39/python-postorius/src/postorius/locale/mg/LC_MESSAGES/django.po | 
+ | [mhr](/f39/language/mhr) | 0 | 5054 | 0.0 | /mnt/stockage/packages/f39/python-postorius/src/postorius/locale/mhr/LC_MESSAGES/django.po | 
+ | [mi](/f39/language/mi) | 0 | 5054 | 0.0 | /mnt/stockage/packages/f39/python-postorius/src/postorius/locale/mi/LC_MESSAGES/django.po | 
+ | [ml](/f39/language/ml) | 0 | 5054 | 0.0 | /mnt/stockage/packages/f39/python-postorius/src/postorius/locale/ml/LC_MESSAGES/django.po | 
+ | [ms](/f39/language/ms) | 0 | 5054 | 0.0 | /mnt/stockage/packages/f39/python-postorius/src/postorius/locale/ms/LC_MESSAGES/django.po | 
+ | [my](/f39/language/my) | 0 | 5054 | 0.0 | /mnt/stockage/packages/f39/python-postorius/src/postorius/locale/my/LC_MESSAGES/django.po | 
+ | [ne](/f39/language/ne) | 0 | 5054 | 0.0 | /mnt/stockage/packages/f39/python-postorius/src/postorius/locale/ne/LC_MESSAGES/django.po | 
+ | [nn](/f39/language/nn) | 0 | 5054 | 0.0 | /mnt/stockage/packages/f39/python-postorius/src/postorius/locale/nn_NO/LC_MESSAGES/django.po | 
+ | [os](/f39/language/os) | 0 | 5054 | 0.0 | /mnt/stockage/packages/f39/python-postorius/src/postorius/locale/os/LC_MESSAGES/django.po | 
+ | [pa](/f39/language/pa) | 0 | 5054 | 0.0 | /mnt/stockage/packages/f39/python-postorius/src/postorius/locale/pa/LC_MESSAGES/django.po | 
+ | [ps](/f39/language/ps) | 0 | 5054 | 0.0 | /mnt/stockage/packages/f39/python-postorius/src/postorius/locale/ps/LC_MESSAGES/django.po | 
+ | [ro](/f39/language/ro) | 0 | 5054 | 0.0 | /mnt/stockage/packages/f39/python-postorius/src/postorius/locale/ro/LC_MESSAGES/django.po | 
+ | [sa](/f39/language/sa) | 0 | 5054 | 0.0 | /mnt/stockage/packages/f39/python-postorius/src/postorius/locale/sa/LC_MESSAGES/django.po | 
+ | [sc](/f39/language/sc) | 0 | 5054 | 0.0 | /mnt/stockage/packages/f39/python-postorius/src/postorius/locale/sc/LC_MESSAGES/django.po | 
+ | [sd](/f39/language/sd) | 0 | 5054 | 0.0 | /mnt/stockage/packages/f39/python-postorius/src/postorius/locale/sd/LC_MESSAGES/django.po | 
+ | [se](/f39/language/se) | 0 | 5054 | 0.0 | /mnt/stockage/packages/f39/python-postorius/src/postorius/locale/se/LC_MESSAGES/django.po | 
+ | [shn](/f39/language/shn) | 0 | 5054 | 0.0 | /mnt/stockage/packages/f39/python-postorius/src/postorius/locale/shn/LC_MESSAGES/django.po | 
+ | [sk](/f39/language/sk) | 0 | 5054 | 0.0 | /mnt/stockage/packages/f39/python-postorius/src/postorius/locale/sk/LC_MESSAGES/django.po | 
+ | [sl](/f39/language/sl) | 0 | 5054 | 0.0 | /mnt/stockage/packages/f39/python-postorius/src/postorius/locale/sl/LC_MESSAGES/django.po | 
+ | [sr](/f39/language/sr) | 0 | 5054 | 0.0 | /mnt/stockage/packages/f39/python-postorius/src/postorius/locale/sr/LC_MESSAGES/django.po | 
+ | [sw](/f39/language/sw) | 0 | 5054 | 0.0 | /mnt/stockage/packages/f39/python-postorius/src/postorius/locale/sw/LC_MESSAGES/django.po | 
+ | [szl](/f39/language/szl) | 0 | 5054 | 0.0 | /mnt/stockage/packages/f39/python-postorius/src/postorius/locale/szl/LC_MESSAGES/django.po | 
+ | [tg](/f39/language/tg) | 0 | 5054 | 0.0 | /mnt/stockage/packages/f39/python-postorius/src/postorius/locale/tg/LC_MESSAGES/django.po | 
+ | [ti](/f39/language/ti) | 0 | 5054 | 0.0 | /mnt/stockage/packages/f39/python-postorius/src/postorius/locale/ti/LC_MESSAGES/django.po | 
+ | [ug](/f39/language/ug) | 0 | 5054 | 0.0 | /mnt/stockage/packages/f39/python-postorius/src/postorius/locale/ug/LC_MESSAGES/django.po | 
+ | [ur](/f39/language/ur) | 0 | 5054 | 0.0 | /mnt/stockage/packages/f39/python-postorius/src/postorius/locale/ur/LC_MESSAGES/django.po | 
+ | [uz](/f39/language/uz) | 0 | 5054 | 0.0 | /mnt/stockage/packages/f39/python-postorius/src/postorius/locale/uz/LC_MESSAGES/django.po | 
+ | [vi](/f39/language/vi) | 0 | 5054 | 0.0 | /mnt/stockage/packages/f39/python-postorius/src/postorius/locale/vi/LC_MESSAGES/django.po | 
+ | [wae](/f39/language/wae) | 0 | 5054 | 0.0 | /mnt/stockage/packages/f39/python-postorius/src/postorius/locale/wae/LC_MESSAGES/django.po | 
+ | [zh_Hant_HK](/f39/language/zh_Hant_HK) | 0 | 5054 | 0.0 | /mnt/stockage/packages/f39/python-postorius/src/postorius/locale/zh_HK/LC_MESSAGES/django.po | 
 {.sortable}
 
 

@@ -44,29 +44,29 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [sugar-abacus]({{< ref "/f43/package/sugar-abacus.md" >}}) | 28 | 28 | 100.0 | LANGUAGE <LL@li.org> | 
- | [sugar-maze]({{< ref "/f43/package/sugar-maze.md" >}}) | 7 | 7 | 100.0 | LANGUAGE <LL@li.org> | 
- | [sugar-memorize]({{< ref "/f43/package/sugar-memorize.md" >}}) | 142 | 142 | 100.0 | LANGUAGE <LL@li.org> | 
- | [sugar-view-slides]({{< ref "/f43/package/sugar-view-slides.md" >}}) | 60 | 60 | 100.0 | LANGUAGE <LL@li.org> | 
- | [sugar-write]({{< ref "/f43/package/sugar-write.md" >}}) | 121 | 121 | 100.0 | LANGUAGE <LL@li.org> | 
- | [sugar-dimensions]({{< ref "/f43/package/sugar-dimensions.md" >}}) | 172 | 176 | 97.7 | LANGUAGE <LL@li.org> | 
- | [sugar-clock]({{< ref "/f43/package/sugar-clock.md" >}}) | 59 | 66 | 89.4 | LANGUAGE <LL@li.org> | 
- | [sugar-stopwatch]({{< ref "/f43/package/sugar-stopwatch.md" >}}) | 3 | 5 | 60.0 | LANGUAGE <LL@li.org> | 
- | [sugar-distance]({{< ref "/f43/package/sugar-distance.md" >}}) | 57 | 99 | 57.6 | LANGUAGE <LL@li.org> | 
- | [sugar-flipsticks]({{< ref "/f43/package/sugar-flipsticks.md" >}}) | 76 | 151 | 50.3 | LANGUAGE <LL@li.org> | 
- | [sugar-browse]({{< ref "/f43/package/sugar-browse.md" >}}) | 167 | 334 | 50.0 | LANGUAGE <LL@li.org> | 
- | [sugar-physics]({{< ref "/f43/package/sugar-physics.md" >}}) | 24 | 48 | 50.0 | LANGUAGE <LL@li.org> | 
- | [iso-codes]({{< ref "/f43/package/iso-codes.md" >}}) | 233 | 989 | 23.6 | Nahuatl languages <https://hosted.weblate.org/projects/iso-codes/iso-3166-1/nah/> | 
- | [sugar-finance]({{< ref "/f43/package/sugar-finance.md" >}}) | 39 | 258 | 15.1 | LANGUAGE <LL@li.org> | 
- | [sugar-terminal]({{< ref "/f43/package/sugar-terminal.md" >}}) | 6 | 121 | 5.0 | LANGUAGE <LL@li.org> | 
- | [mate-system-monitor]({{< ref "/f43/package/mate-system-monitor.md" >}}) | 200 | 4894 | 4.1 | Nahuatl (https://app.transifex.com/mate/teams/13566/nah/) | 
- | [sugar]({{< ref "/f43/package/sugar.md" >}}) | 46 | 2305 | 2.0 | LANGUAGE <LL@li.org> | 
- | [mate-menus]({{< ref "/f43/package/mate-menus.md" >}}) | 1 | 103 | 1.0 | Nahuatl (https://app.transifex.com/mate/teams/13566/nah/) | 
- | [mate-sensors-applet]({{< ref "/f43/package/mate-sensors-applet.md" >}}) | 2 | 313 | 0.6 | Nahuatl (https://www.transifex.com/mate/teams/13566/nah/) | 
- | [mate-menu]({{< ref "/f43/package/mate-menu.md" >}}) | 0 | 308 | 0.0 | Nahuatl (http://www.transifex.com/mate/MATE/language/nah/) | 
- | [mate-themes]({{< ref "/f43/package/mate-themes.md" >}}) | 0 | 74 | 0.0 | Nahuatl (http://app.transifex.com/mate/MATE/language/nah/) | 
- | [sugar-implode]({{< ref "/f43/package/sugar-implode.md" >}}) | 0 | 77 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-speak]({{< ref "/f43/package/sugar-speak.md" >}}) | 0 | 227 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-abacus](/f43/package/sugar-abacus) | 28 | 28 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-maze](/f43/package/sugar-maze) | 7 | 7 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-memorize](/f43/package/sugar-memorize) | 142 | 142 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-view-slides](/f43/package/sugar-view-slides) | 60 | 60 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-write](/f43/package/sugar-write) | 121 | 121 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-dimensions](/f43/package/sugar-dimensions) | 172 | 176 | 97.7 | LANGUAGE <LL@li.org> | 
+ | [sugar-clock](/f43/package/sugar-clock) | 59 | 66 | 89.4 | LANGUAGE <LL@li.org> | 
+ | [sugar-stopwatch](/f43/package/sugar-stopwatch) | 3 | 5 | 60.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-distance](/f43/package/sugar-distance) | 57 | 99 | 57.6 | LANGUAGE <LL@li.org> | 
+ | [sugar-flipsticks](/f43/package/sugar-flipsticks) | 76 | 151 | 50.3 | LANGUAGE <LL@li.org> | 
+ | [sugar-browse](/f43/package/sugar-browse) | 167 | 334 | 50.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-physics](/f43/package/sugar-physics) | 24 | 48 | 50.0 | LANGUAGE <LL@li.org> | 
+ | [iso-codes](/f43/package/iso-codes) | 233 | 989 | 23.6 | Nahuatl languages <https://hosted.weblate.org/projects/iso-codes/iso-3166-1/nah/> | 
+ | [sugar-finance](/f43/package/sugar-finance) | 39 | 258 | 15.1 | LANGUAGE <LL@li.org> | 
+ | [sugar-terminal](/f43/package/sugar-terminal) | 6 | 121 | 5.0 | LANGUAGE <LL@li.org> | 
+ | [mate-system-monitor](/f43/package/mate-system-monitor) | 200 | 4894 | 4.1 | Nahuatl (https://app.transifex.com/mate/teams/13566/nah/) | 
+ | [sugar](/f43/package/sugar) | 46 | 2305 | 2.0 | LANGUAGE <LL@li.org> | 
+ | [mate-menus](/f43/package/mate-menus) | 1 | 103 | 1.0 | Nahuatl (https://app.transifex.com/mate/teams/13566/nah/) | 
+ | [mate-sensors-applet](/f43/package/mate-sensors-applet) | 2 | 313 | 0.6 | Nahuatl (https://www.transifex.com/mate/teams/13566/nah/) | 
+ | [mate-menu](/f43/package/mate-menu) | 0 | 308 | 0.0 | Nahuatl (http://www.transifex.com/mate/MATE/language/nah/) | 
+ | [mate-themes](/f43/package/mate-themes) | 0 | 74 | 0.0 | Nahuatl (http://app.transifex.com/mate/MATE/language/nah/) | 
+ | [sugar-implode](/f43/package/sugar-implode) | 0 | 77 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-speak](/f43/package/sugar-speak) | 0 | 227 | 0.0 | LANGUAGE <LL@li.org> | 
 {.sortable}
 
 

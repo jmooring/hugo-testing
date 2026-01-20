@@ -18,10 +18,10 @@ The package grafana (version 9.2.10):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [en_US]({{< ref "/f38/language/en_US.md" >}}) | 547 | 547 | 100.0 | /mnt/stockage/packages/f38/grafana/public/locales/en-US/messages.po | 
- | [error]({{< ref "/f38/language/error.md" >}}) | 5 | 547 | 0.9 | /mnt/stockage/packages/f38/grafana/public/locales/pseudo-LOCALE/messages.po | 
- | [es]({{< ref "/f38/language/es.md" >}}) | 0 | 547 | 0.0 | /mnt/stockage/packages/f38/grafana/public/locales/es-ES/messages.po | 
- | [fr]({{< ref "/f38/language/fr.md" >}}) | 0 | 547 | 0.0 | /mnt/stockage/packages/f38/grafana/public/locales/fr-FR/messages.po | 
+ | [en_US](/f38/language/en_US) | 547 | 547 | 100.0 | /mnt/stockage/packages/f38/grafana/public/locales/en-US/messages.po | 
+ | [error](/f38/language/error) | 5 | 547 | 0.9 | /mnt/stockage/packages/f38/grafana/public/locales/pseudo-LOCALE/messages.po | 
+ | [es](/f38/language/es) | 0 | 547 | 0.0 | /mnt/stockage/packages/f38/grafana/public/locales/es-ES/messages.po | 
+ | [fr](/f38/language/fr) | 0 | 547 | 0.0 | /mnt/stockage/packages/f38/grafana/public/locales/fr-FR/messages.po | 
 {.sortable}
 
 

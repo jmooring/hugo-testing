@@ -18,53 +18,53 @@ The package kf5-kcalendarutils (version 21.12.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [az]({{< ref "/f35/language/az.md" >}}) | 1475 | 1475 | 100.0 | /mnt/stockage/packages/f35/kf5-kcalendarutils/po/az/libkcalutils5.po | 
- | [ca]({{< ref "/f35/language/ca.md" >}}) | 1475 | 1475 | 100.0 | /mnt/stockage/packages/f35/kf5-kcalendarutils/po/ca/libkcalutils5.po | 
- | [ca@valencia]({{< ref "/f35/language/ca@valencia.md" >}}) | 1475 | 1475 | 100.0 | /mnt/stockage/packages/f35/kf5-kcalendarutils/po/ca@valencia/libkcalutils5.po | 
- | [de]({{< ref "/f35/language/de.md" >}}) | 1475 | 1475 | 100.0 | /mnt/stockage/packages/f35/kf5-kcalendarutils/po/de/libkcalutils5.po | 
- | [en_GB]({{< ref "/f35/language/en_GB.md" >}}) | 1475 | 1475 | 100.0 | /mnt/stockage/packages/f35/kf5-kcalendarutils/po/en_GB/libkcalutils5.po | 
- | [es]({{< ref "/f35/language/es.md" >}}) | 1475 | 1475 | 100.0 | /mnt/stockage/packages/f35/kf5-kcalendarutils/po/es/libkcalutils5.po | 
- | [eu]({{< ref "/f35/language/eu.md" >}}) | 1475 | 1475 | 100.0 | /mnt/stockage/packages/f35/kf5-kcalendarutils/po/eu/libkcalutils5.po | 
- | [fi]({{< ref "/f35/language/fi.md" >}}) | 1475 | 1475 | 100.0 | /mnt/stockage/packages/f35/kf5-kcalendarutils/po/fi/libkcalutils5.po | 
- | [fr]({{< ref "/f35/language/fr.md" >}}) | 1475 | 1475 | 100.0 | /mnt/stockage/packages/f35/kf5-kcalendarutils/po/fr/libkcalutils5.po | 
- | [hu]({{< ref "/f35/language/hu.md" >}}) | 1475 | 1475 | 100.0 | /mnt/stockage/packages/f35/kf5-kcalendarutils/po/hu/libkcalutils5.po | 
- | [ia]({{< ref "/f35/language/ia.md" >}}) | 1475 | 1475 | 100.0 | /mnt/stockage/packages/f35/kf5-kcalendarutils/po/ia/libkcalutils5.po | 
- | [it]({{< ref "/f35/language/it.md" >}}) | 1475 | 1475 | 100.0 | /mnt/stockage/packages/f35/kf5-kcalendarutils/po/it/libkcalutils5.po | 
- | [ko]({{< ref "/f35/language/ko.md" >}}) | 1475 | 1475 | 100.0 | /mnt/stockage/packages/f35/kf5-kcalendarutils/po/ko/libkcalutils5.po | 
- | [nl]({{< ref "/f35/language/nl.md" >}}) | 1475 | 1475 | 100.0 | /mnt/stockage/packages/f35/kf5-kcalendarutils/po/nl/libkcalutils5.po | 
- | [pl]({{< ref "/f35/language/pl.md" >}}) | 1475 | 1475 | 100.0 | /mnt/stockage/packages/f35/kf5-kcalendarutils/po/pl/libkcalutils5.po | 
- | [pt_BR]({{< ref "/f35/language/pt_BR.md" >}}) | 1475 | 1475 | 100.0 | /mnt/stockage/packages/f35/kf5-kcalendarutils/po/pt_BR/libkcalutils5.po | 
- | [sk]({{< ref "/f35/language/sk.md" >}}) | 1475 | 1475 | 100.0 | /mnt/stockage/packages/f35/kf5-kcalendarutils/po/sk/libkcalutils5.po | 
- | [sl]({{< ref "/f35/language/sl.md" >}}) | 1475 | 1475 | 100.0 | /mnt/stockage/packages/f35/kf5-kcalendarutils/po/sl/libkcalutils5.po | 
- | [sv]({{< ref "/f35/language/sv.md" >}}) | 1475 | 1475 | 100.0 | /mnt/stockage/packages/f35/kf5-kcalendarutils/po/sv/libkcalutils5.po | 
- | [uk]({{< ref "/f35/language/uk.md" >}}) | 1475 | 1475 | 100.0 | /mnt/stockage/packages/f35/kf5-kcalendarutils/po/uk/libkcalutils5.po | 
- | [zh_Hans]({{< ref "/f35/language/zh_Hans.md" >}}) | 1475 | 1475 | 100.0 | /mnt/stockage/packages/f35/kf5-kcalendarutils/po/zh_CN/libkcalutils5.po | 
- | [ar]({{< ref "/f35/language/ar.md" >}}) | 1473 | 1475 | 99.9 | /mnt/stockage/packages/f35/kf5-kcalendarutils/po/ar/libkcalutils5.po | 
- | [et]({{< ref "/f35/language/et.md" >}}) | 1473 | 1475 | 99.9 | /mnt/stockage/packages/f35/kf5-kcalendarutils/po/et/libkcalutils5.po | 
- | [pt]({{< ref "/f35/language/pt.md" >}}) | 1473 | 1475 | 99.9 | /mnt/stockage/packages/f35/kf5-kcalendarutils/po/pt/libkcalutils5.po | 
- | [ru]({{< ref "/f35/language/ru.md" >}}) | 1473 | 1475 | 99.9 | /mnt/stockage/packages/f35/kf5-kcalendarutils/po/ru/libkcalutils5.po | 
- | [tr]({{< ref "/f35/language/tr.md" >}}) | 1473 | 1475 | 99.9 | /mnt/stockage/packages/f35/kf5-kcalendarutils/po/tr/libkcalutils5.po | 
- | [gl]({{< ref "/f35/language/gl.md" >}}) | 1462 | 1475 | 99.1 | /mnt/stockage/packages/f35/kf5-kcalendarutils/po/gl/libkcalutils5.po | 
- | [sr]({{< ref "/f35/language/sr.md" >}}) | 1462 | 1475 | 99.1 | /mnt/stockage/packages/f35/kf5-kcalendarutils/po/sr/libkcalutils5.po | 
- | [da]({{< ref "/f35/language/da.md" >}}) | 1434 | 1475 | 97.2 | /mnt/stockage/packages/f35/kf5-kcalendarutils/po/da/libkcalutils5.po | 
- | [cs]({{< ref "/f35/language/cs.md" >}}) | 1421 | 1475 | 96.3 | /mnt/stockage/packages/f35/kf5-kcalendarutils/po/cs/libkcalutils5.po | 
- | [zh_Hant]({{< ref "/f35/language/zh_Hant.md" >}}) | 848 | 1475 | 57.5 | /mnt/stockage/packages/f35/kf5-kcalendarutils/po/zh_TW/libkcalutils5.po | 
- | [nb_NO]({{< ref "/f35/language/nb_NO.md" >}}) | 813 | 1475 | 55.1 | /mnt/stockage/packages/f35/kf5-kcalendarutils/po/nb/libkcalutils5.po | 
- | [nds]({{< ref "/f35/language/nds.md" >}}) | 798 | 1475 | 54.1 | /mnt/stockage/packages/f35/kf5-kcalendarutils/po/nds/libkcalutils5.po | 
- | [ja]({{< ref "/f35/language/ja.md" >}}) | 698 | 1475 | 47.3 | /mnt/stockage/packages/f35/kf5-kcalendarutils/po/ja/libkcalutils5.po | 
- | [bs]({{< ref "/f35/language/bs.md" >}}) | 683 | 1475 | 46.3 | /mnt/stockage/packages/f35/kf5-kcalendarutils/po/bs/libkcalutils5.po | 
- | [el]({{< ref "/f35/language/el.md" >}}) | 683 | 1475 | 46.3 | /mnt/stockage/packages/f35/kf5-kcalendarutils/po/el/libkcalutils5.po | 
- | [kk]({{< ref "/f35/language/kk.md" >}}) | 683 | 1475 | 46.3 | /mnt/stockage/packages/f35/kf5-kcalendarutils/po/kk/libkcalutils5.po | 
- | [km]({{< ref "/f35/language/km.md" >}}) | 651 | 1475 | 44.1 | /mnt/stockage/packages/f35/kf5-kcalendarutils/po/km/libkcalutils5.po | 
- | [nn]({{< ref "/f35/language/nn.md" >}}) | 619 | 1475 | 42.0 | /mnt/stockage/packages/f35/kf5-kcalendarutils/po/nn/libkcalutils5.po | 
- | [ug]({{< ref "/f35/language/ug.md" >}}) | 543 | 1475 | 36.8 | /mnt/stockage/packages/f35/kf5-kcalendarutils/po/ug/libkcalutils5.po | 
- | [ga]({{< ref "/f35/language/ga.md" >}}) | 523 | 1475 | 35.5 | /mnt/stockage/packages/f35/kf5-kcalendarutils/po/ga/libkcalutils5.po | 
- | [lt]({{< ref "/f35/language/lt.md" >}}) | 477 | 1475 | 32.3 | /mnt/stockage/packages/f35/kf5-kcalendarutils/po/lt/libkcalutils5.po | 
- | [ro]({{< ref "/f35/language/ro.md" >}}) | 355 | 1475 | 24.1 | /mnt/stockage/packages/f35/kf5-kcalendarutils/po/ro/libkcalutils5.po | 
- | [pa]({{< ref "/f35/language/pa.md" >}}) | 118 | 1475 | 8.0 | /mnt/stockage/packages/f35/kf5-kcalendarutils/po/pa/libkcalutils5.po | 
- | [mr]({{< ref "/f35/language/mr.md" >}}) | 66 | 1475 | 4.5 | /mnt/stockage/packages/f35/kf5-kcalendarutils/po/mr/libkcalutils5.po | 
- | [se]({{< ref "/f35/language/se.md" >}}) | 5 | 1475 | 0.3 | /mnt/stockage/packages/f35/kf5-kcalendarutils/po/se/libkcalutils5.po | 
- | [hr]({{< ref "/f35/language/hr.md" >}}) | 1 | 1475 | 0.1 | /mnt/stockage/packages/f35/kf5-kcalendarutils/po/hr/libkcalutils5.po | 
+ | [az](/f35/language/az) | 1475 | 1475 | 100.0 | /mnt/stockage/packages/f35/kf5-kcalendarutils/po/az/libkcalutils5.po | 
+ | [ca](/f35/language/ca) | 1475 | 1475 | 100.0 | /mnt/stockage/packages/f35/kf5-kcalendarutils/po/ca/libkcalutils5.po | 
+ | [ca@valencia](/f35/language/ca@valencia) | 1475 | 1475 | 100.0 | /mnt/stockage/packages/f35/kf5-kcalendarutils/po/ca@valencia/libkcalutils5.po | 
+ | [de](/f35/language/de) | 1475 | 1475 | 100.0 | /mnt/stockage/packages/f35/kf5-kcalendarutils/po/de/libkcalutils5.po | 
+ | [en_GB](/f35/language/en_GB) | 1475 | 1475 | 100.0 | /mnt/stockage/packages/f35/kf5-kcalendarutils/po/en_GB/libkcalutils5.po | 
+ | [es](/f35/language/es) | 1475 | 1475 | 100.0 | /mnt/stockage/packages/f35/kf5-kcalendarutils/po/es/libkcalutils5.po | 
+ | [eu](/f35/language/eu) | 1475 | 1475 | 100.0 | /mnt/stockage/packages/f35/kf5-kcalendarutils/po/eu/libkcalutils5.po | 
+ | [fi](/f35/language/fi) | 1475 | 1475 | 100.0 | /mnt/stockage/packages/f35/kf5-kcalendarutils/po/fi/libkcalutils5.po | 
+ | [fr](/f35/language/fr) | 1475 | 1475 | 100.0 | /mnt/stockage/packages/f35/kf5-kcalendarutils/po/fr/libkcalutils5.po | 
+ | [hu](/f35/language/hu) | 1475 | 1475 | 100.0 | /mnt/stockage/packages/f35/kf5-kcalendarutils/po/hu/libkcalutils5.po | 
+ | [ia](/f35/language/ia) | 1475 | 1475 | 100.0 | /mnt/stockage/packages/f35/kf5-kcalendarutils/po/ia/libkcalutils5.po | 
+ | [it](/f35/language/it) | 1475 | 1475 | 100.0 | /mnt/stockage/packages/f35/kf5-kcalendarutils/po/it/libkcalutils5.po | 
+ | [ko](/f35/language/ko) | 1475 | 1475 | 100.0 | /mnt/stockage/packages/f35/kf5-kcalendarutils/po/ko/libkcalutils5.po | 
+ | [nl](/f35/language/nl) | 1475 | 1475 | 100.0 | /mnt/stockage/packages/f35/kf5-kcalendarutils/po/nl/libkcalutils5.po | 
+ | [pl](/f35/language/pl) | 1475 | 1475 | 100.0 | /mnt/stockage/packages/f35/kf5-kcalendarutils/po/pl/libkcalutils5.po | 
+ | [pt_BR](/f35/language/pt_BR) | 1475 | 1475 | 100.0 | /mnt/stockage/packages/f35/kf5-kcalendarutils/po/pt_BR/libkcalutils5.po | 
+ | [sk](/f35/language/sk) | 1475 | 1475 | 100.0 | /mnt/stockage/packages/f35/kf5-kcalendarutils/po/sk/libkcalutils5.po | 
+ | [sl](/f35/language/sl) | 1475 | 1475 | 100.0 | /mnt/stockage/packages/f35/kf5-kcalendarutils/po/sl/libkcalutils5.po | 
+ | [sv](/f35/language/sv) | 1475 | 1475 | 100.0 | /mnt/stockage/packages/f35/kf5-kcalendarutils/po/sv/libkcalutils5.po | 
+ | [uk](/f35/language/uk) | 1475 | 1475 | 100.0 | /mnt/stockage/packages/f35/kf5-kcalendarutils/po/uk/libkcalutils5.po | 
+ | [zh_Hans](/f35/language/zh_Hans) | 1475 | 1475 | 100.0 | /mnt/stockage/packages/f35/kf5-kcalendarutils/po/zh_CN/libkcalutils5.po | 
+ | [ar](/f35/language/ar) | 1473 | 1475 | 99.9 | /mnt/stockage/packages/f35/kf5-kcalendarutils/po/ar/libkcalutils5.po | 
+ | [et](/f35/language/et) | 1473 | 1475 | 99.9 | /mnt/stockage/packages/f35/kf5-kcalendarutils/po/et/libkcalutils5.po | 
+ | [pt](/f35/language/pt) | 1473 | 1475 | 99.9 | /mnt/stockage/packages/f35/kf5-kcalendarutils/po/pt/libkcalutils5.po | 
+ | [ru](/f35/language/ru) | 1473 | 1475 | 99.9 | /mnt/stockage/packages/f35/kf5-kcalendarutils/po/ru/libkcalutils5.po | 
+ | [tr](/f35/language/tr) | 1473 | 1475 | 99.9 | /mnt/stockage/packages/f35/kf5-kcalendarutils/po/tr/libkcalutils5.po | 
+ | [gl](/f35/language/gl) | 1462 | 1475 | 99.1 | /mnt/stockage/packages/f35/kf5-kcalendarutils/po/gl/libkcalutils5.po | 
+ | [sr](/f35/language/sr) | 1462 | 1475 | 99.1 | /mnt/stockage/packages/f35/kf5-kcalendarutils/po/sr/libkcalutils5.po | 
+ | [da](/f35/language/da) | 1434 | 1475 | 97.2 | /mnt/stockage/packages/f35/kf5-kcalendarutils/po/da/libkcalutils5.po | 
+ | [cs](/f35/language/cs) | 1421 | 1475 | 96.3 | /mnt/stockage/packages/f35/kf5-kcalendarutils/po/cs/libkcalutils5.po | 
+ | [zh_Hant](/f35/language/zh_Hant) | 848 | 1475 | 57.5 | /mnt/stockage/packages/f35/kf5-kcalendarutils/po/zh_TW/libkcalutils5.po | 
+ | [nb_NO](/f35/language/nb_NO) | 813 | 1475 | 55.1 | /mnt/stockage/packages/f35/kf5-kcalendarutils/po/nb/libkcalutils5.po | 
+ | [nds](/f35/language/nds) | 798 | 1475 | 54.1 | /mnt/stockage/packages/f35/kf5-kcalendarutils/po/nds/libkcalutils5.po | 
+ | [ja](/f35/language/ja) | 698 | 1475 | 47.3 | /mnt/stockage/packages/f35/kf5-kcalendarutils/po/ja/libkcalutils5.po | 
+ | [bs](/f35/language/bs) | 683 | 1475 | 46.3 | /mnt/stockage/packages/f35/kf5-kcalendarutils/po/bs/libkcalutils5.po | 
+ | [el](/f35/language/el) | 683 | 1475 | 46.3 | /mnt/stockage/packages/f35/kf5-kcalendarutils/po/el/libkcalutils5.po | 
+ | [kk](/f35/language/kk) | 683 | 1475 | 46.3 | /mnt/stockage/packages/f35/kf5-kcalendarutils/po/kk/libkcalutils5.po | 
+ | [km](/f35/language/km) | 651 | 1475 | 44.1 | /mnt/stockage/packages/f35/kf5-kcalendarutils/po/km/libkcalutils5.po | 
+ | [nn](/f35/language/nn) | 619 | 1475 | 42.0 | /mnt/stockage/packages/f35/kf5-kcalendarutils/po/nn/libkcalutils5.po | 
+ | [ug](/f35/language/ug) | 543 | 1475 | 36.8 | /mnt/stockage/packages/f35/kf5-kcalendarutils/po/ug/libkcalutils5.po | 
+ | [ga](/f35/language/ga) | 523 | 1475 | 35.5 | /mnt/stockage/packages/f35/kf5-kcalendarutils/po/ga/libkcalutils5.po | 
+ | [lt](/f35/language/lt) | 477 | 1475 | 32.3 | /mnt/stockage/packages/f35/kf5-kcalendarutils/po/lt/libkcalutils5.po | 
+ | [ro](/f35/language/ro) | 355 | 1475 | 24.1 | /mnt/stockage/packages/f35/kf5-kcalendarutils/po/ro/libkcalutils5.po | 
+ | [pa](/f35/language/pa) | 118 | 1475 | 8.0 | /mnt/stockage/packages/f35/kf5-kcalendarutils/po/pa/libkcalutils5.po | 
+ | [mr](/f35/language/mr) | 66 | 1475 | 4.5 | /mnt/stockage/packages/f35/kf5-kcalendarutils/po/mr/libkcalutils5.po | 
+ | [se](/f35/language/se) | 5 | 1475 | 0.3 | /mnt/stockage/packages/f35/kf5-kcalendarutils/po/se/libkcalutils5.po | 
+ | [hr](/f35/language/hr) | 1 | 1475 | 0.1 | /mnt/stockage/packages/f35/kf5-kcalendarutils/po/hr/libkcalutils5.po | 
 {.sortable}
 
 

@@ -18,7 +18,7 @@ The package fmit (version 1.2.6):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [pt_BR]({{< ref "/f29/language/pt_BR.md" >}}) | 199 | 199 | 100.0 | /mnt/stockage/packages/f29/fmit/distrib/appdata_tr/pt_BR.po | 
+ | [pt_BR](/f29/language/pt_BR) | 199 | 199 | 100.0 | /mnt/stockage/packages/f29/fmit/distrib/appdata_tr/pt_BR.po | 
 {.sortable}
 
 

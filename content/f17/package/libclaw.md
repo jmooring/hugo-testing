@@ -18,7 +18,7 @@ The package libclaw (version 1.7.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f17/language/fr.md" >}}) | 60 | 60 | 100.0 | /mnt/stockage/packages/f17/libclaw/desktop/locale/libclaw/fr.po | 
+ | [fr](/f17/language/fr) | 60 | 60 | 100.0 | /mnt/stockage/packages/f17/libclaw/desktop/locale/libclaw/fr.po | 
 {.sortable}
 
 

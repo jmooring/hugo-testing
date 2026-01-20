@@ -18,24 +18,24 @@ The package python-django-openstack-auth (version 1.1.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f20/language/ar.md" >}}) | 47 | 47 | 100.0 | /mnt/stockage/packages/f20/python-django-openstack-auth/openstack_auth/locale/ar/LC_MESSAGES/django.po | 
- | [de]({{< ref "/f20/language/de.md" >}}) | 47 | 47 | 100.0 | /mnt/stockage/packages/f20/python-django-openstack-auth/openstack_auth/locale/de/LC_MESSAGES/django.po | 
- | [en_AU]({{< ref "/f20/language/en_AU.md" >}}) | 47 | 47 | 100.0 | /mnt/stockage/packages/f20/python-django-openstack-auth/openstack_auth/locale/en_AU/LC_MESSAGES/django.po | 
- | [en_GB]({{< ref "/f20/language/en_GB.md" >}}) | 47 | 47 | 100.0 | /mnt/stockage/packages/f20/python-django-openstack-auth/openstack_auth/locale/en_GB/LC_MESSAGES/django.po | 
- | [es]({{< ref "/f20/language/es.md" >}}) | 47 | 47 | 100.0 | /mnt/stockage/packages/f20/python-django-openstack-auth/openstack_auth/locale/es/LC_MESSAGES/django.po | 
- | [es_MX]({{< ref "/f20/language/es_MX.md" >}}) | 47 | 47 | 100.0 | /mnt/stockage/packages/f20/python-django-openstack-auth/openstack_auth/locale/es_MX/LC_MESSAGES/django.po | 
- | [fr]({{< ref "/f20/language/fr.md" >}}) | 47 | 47 | 100.0 | /mnt/stockage/packages/f20/python-django-openstack-auth/openstack_auth/locale/fr/LC_MESSAGES/django.po | 
- | [hi]({{< ref "/f20/language/hi.md" >}}) | 47 | 47 | 100.0 | /mnt/stockage/packages/f20/python-django-openstack-auth/openstack_auth/locale/hi/LC_MESSAGES/django.po | 
- | [ja]({{< ref "/f20/language/ja.md" >}}) | 47 | 47 | 100.0 | /mnt/stockage/packages/f20/python-django-openstack-auth/openstack_auth/locale/ja/LC_MESSAGES/django.po | 
- | [ko]({{< ref "/f20/language/ko.md" >}}) | 47 | 47 | 100.0 | /mnt/stockage/packages/f20/python-django-openstack-auth/openstack_auth/locale/ko_KR/LC_MESSAGES/django.po | 
- | [nl]({{< ref "/f20/language/nl.md" >}}) | 47 | 47 | 100.0 | /mnt/stockage/packages/f20/python-django-openstack-auth/openstack_auth/locale/nl_NL/LC_MESSAGES/django.po | 
- | [pl]({{< ref "/f20/language/pl.md" >}}) | 47 | 47 | 100.0 | /mnt/stockage/packages/f20/python-django-openstack-auth/openstack_auth/locale/pl_PL/LC_MESSAGES/django.po | 
- | [pt]({{< ref "/f20/language/pt.md" >}}) | 47 | 47 | 100.0 | /mnt/stockage/packages/f20/python-django-openstack-auth/openstack_auth/locale/pt/LC_MESSAGES/django.po | 
- | [pt_BR]({{< ref "/f20/language/pt_BR.md" >}}) | 47 | 47 | 100.0 | /mnt/stockage/packages/f20/python-django-openstack-auth/openstack_auth/locale/pt_BR/LC_MESSAGES/django.po | 
- | [ru]({{< ref "/f20/language/ru.md" >}}) | 47 | 47 | 100.0 | /mnt/stockage/packages/f20/python-django-openstack-auth/openstack_auth/locale/ru/LC_MESSAGES/django.po | 
- | [uk]({{< ref "/f20/language/uk.md" >}}) | 47 | 47 | 100.0 | /mnt/stockage/packages/f20/python-django-openstack-auth/openstack_auth/locale/uk/LC_MESSAGES/django.po | 
- | [zh_Hans]({{< ref "/f20/language/zh_Hans.md" >}}) | 47 | 47 | 100.0 | /mnt/stockage/packages/f20/python-django-openstack-auth/openstack_auth/locale/zh_CN/LC_MESSAGES/django.po | 
- | [zh_Hant]({{< ref "/f20/language/zh_Hant.md" >}}) | 47 | 47 | 100.0 | /mnt/stockage/packages/f20/python-django-openstack-auth/openstack_auth/locale/zh_TW/LC_MESSAGES/django.po | 
+ | [ar](/f20/language/ar) | 47 | 47 | 100.0 | /mnt/stockage/packages/f20/python-django-openstack-auth/openstack_auth/locale/ar/LC_MESSAGES/django.po | 
+ | [de](/f20/language/de) | 47 | 47 | 100.0 | /mnt/stockage/packages/f20/python-django-openstack-auth/openstack_auth/locale/de/LC_MESSAGES/django.po | 
+ | [en_AU](/f20/language/en_AU) | 47 | 47 | 100.0 | /mnt/stockage/packages/f20/python-django-openstack-auth/openstack_auth/locale/en_AU/LC_MESSAGES/django.po | 
+ | [en_GB](/f20/language/en_GB) | 47 | 47 | 100.0 | /mnt/stockage/packages/f20/python-django-openstack-auth/openstack_auth/locale/en_GB/LC_MESSAGES/django.po | 
+ | [es](/f20/language/es) | 47 | 47 | 100.0 | /mnt/stockage/packages/f20/python-django-openstack-auth/openstack_auth/locale/es/LC_MESSAGES/django.po | 
+ | [es_MX](/f20/language/es_MX) | 47 | 47 | 100.0 | /mnt/stockage/packages/f20/python-django-openstack-auth/openstack_auth/locale/es_MX/LC_MESSAGES/django.po | 
+ | [fr](/f20/language/fr) | 47 | 47 | 100.0 | /mnt/stockage/packages/f20/python-django-openstack-auth/openstack_auth/locale/fr/LC_MESSAGES/django.po | 
+ | [hi](/f20/language/hi) | 47 | 47 | 100.0 | /mnt/stockage/packages/f20/python-django-openstack-auth/openstack_auth/locale/hi/LC_MESSAGES/django.po | 
+ | [ja](/f20/language/ja) | 47 | 47 | 100.0 | /mnt/stockage/packages/f20/python-django-openstack-auth/openstack_auth/locale/ja/LC_MESSAGES/django.po | 
+ | [ko](/f20/language/ko) | 47 | 47 | 100.0 | /mnt/stockage/packages/f20/python-django-openstack-auth/openstack_auth/locale/ko_KR/LC_MESSAGES/django.po | 
+ | [nl](/f20/language/nl) | 47 | 47 | 100.0 | /mnt/stockage/packages/f20/python-django-openstack-auth/openstack_auth/locale/nl_NL/LC_MESSAGES/django.po | 
+ | [pl](/f20/language/pl) | 47 | 47 | 100.0 | /mnt/stockage/packages/f20/python-django-openstack-auth/openstack_auth/locale/pl_PL/LC_MESSAGES/django.po | 
+ | [pt](/f20/language/pt) | 47 | 47 | 100.0 | /mnt/stockage/packages/f20/python-django-openstack-auth/openstack_auth/locale/pt/LC_MESSAGES/django.po | 
+ | [pt_BR](/f20/language/pt_BR) | 47 | 47 | 100.0 | /mnt/stockage/packages/f20/python-django-openstack-auth/openstack_auth/locale/pt_BR/LC_MESSAGES/django.po | 
+ | [ru](/f20/language/ru) | 47 | 47 | 100.0 | /mnt/stockage/packages/f20/python-django-openstack-auth/openstack_auth/locale/ru/LC_MESSAGES/django.po | 
+ | [uk](/f20/language/uk) | 47 | 47 | 100.0 | /mnt/stockage/packages/f20/python-django-openstack-auth/openstack_auth/locale/uk/LC_MESSAGES/django.po | 
+ | [zh_Hans](/f20/language/zh_Hans) | 47 | 47 | 100.0 | /mnt/stockage/packages/f20/python-django-openstack-auth/openstack_auth/locale/zh_CN/LC_MESSAGES/django.po | 
+ | [zh_Hant](/f20/language/zh_Hant) | 47 | 47 | 100.0 | /mnt/stockage/packages/f20/python-django-openstack-auth/openstack_auth/locale/zh_TW/LC_MESSAGES/django.po | 
 {.sortable}
 
 

@@ -18,128 +18,128 @@ The package mozo (version 1.22.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [af]({{< ref "/f29/language/af.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f29/mozo/po/af.po | 
- | [am]({{< ref "/f29/language/am.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f29/mozo/po/am.po | 
- | [an]({{< ref "/f29/language/an.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f29/mozo/po/an.po | 
- | [ar]({{< ref "/f29/language/ar.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f29/mozo/po/ar.po | 
- | [as]({{< ref "/f29/language/as.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f29/mozo/po/as.po | 
- | [ast]({{< ref "/f29/language/ast.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f29/mozo/po/ast.po | 
- | [be]({{< ref "/f29/language/be.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f29/mozo/po/be.po | 
- | [bg]({{< ref "/f29/language/bg.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f29/mozo/po/bg.po | 
- | [bn]({{< ref "/f29/language/bn.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f29/mozo/po/bn.po | 
- | [bn_IN]({{< ref "/f29/language/bn_IN.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f29/mozo/po/bn_IN.po | 
- | [br]({{< ref "/f29/language/br.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f29/mozo/po/br.po | 
- | [bs]({{< ref "/f29/language/bs.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f29/mozo/po/bs.po | 
- | [ca]({{< ref "/f29/language/ca.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f29/mozo/po/ca.po | 
- | [ca@valencia]({{< ref "/f29/language/ca@valencia.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f29/mozo/po/ca@valencia.po | 
- | [crh]({{< ref "/f29/language/crh.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f29/mozo/po/crh.po | 
- | [cs]({{< ref "/f29/language/cs.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f29/mozo/po/cs.po | 
- | [cy]({{< ref "/f29/language/cy.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f29/mozo/po/cy.po | 
- | [da]({{< ref "/f29/language/da.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f29/mozo/po/da.po | 
- | [de]({{< ref "/f29/language/de.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f29/mozo/po/de.po | 
- | [dz]({{< ref "/f29/language/dz.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f29/mozo/po/dz.po | 
- | [el]({{< ref "/f29/language/el.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f29/mozo/po/el.po | 
- | [en_AU]({{< ref "/f29/language/en_AU.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f29/mozo/po/en_AU.po | 
- | [en_CA]({{< ref "/f29/language/en_CA.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f29/mozo/po/en_CA.po | 
- | [en_GB]({{< ref "/f29/language/en_GB.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f29/mozo/po/en_GB.po | 
- | [eo]({{< ref "/f29/language/eo.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f29/mozo/po/eo.po | 
- | [es_AR]({{< ref "/f29/language/es_AR.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f29/mozo/po/es_AR.po | 
- | [es_CL]({{< ref "/f29/language/es_CL.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f29/mozo/po/es_CL.po | 
- | [es_CO]({{< ref "/f29/language/es_CO.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f29/mozo/po/es_CO.po | 
- | [es_MX]({{< ref "/f29/language/es_MX.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f29/mozo/po/es_MX.po | 
- | [et]({{< ref "/f29/language/et.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f29/mozo/po/et.po | 
- | [eu]({{< ref "/f29/language/eu.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f29/mozo/po/eu.po | 
- | [fa]({{< ref "/f29/language/fa.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f29/mozo/po/fa.po | 
- | [fi]({{< ref "/f29/language/fi.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f29/mozo/po/fi.po | 
- | [fr]({{< ref "/f29/language/fr.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f29/mozo/po/fr.po | 
- | [fur]({{< ref "/f29/language/fur.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f29/mozo/po/fur.po | 
- | [fy]({{< ref "/f29/language/fy.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f29/mozo/po/fy.po | 
- | [ga]({{< ref "/f29/language/ga.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f29/mozo/po/ga.po | 
- | [gl]({{< ref "/f29/language/gl.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f29/mozo/po/gl.po | 
- | [gu]({{< ref "/f29/language/gu.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f29/mozo/po/gu.po | 
- | [he]({{< ref "/f29/language/he.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f29/mozo/po/he.po | 
- | [hi]({{< ref "/f29/language/hi.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f29/mozo/po/hi.po | 
- | [hr]({{< ref "/f29/language/hr.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f29/mozo/po/hr.po | 
- | [hu]({{< ref "/f29/language/hu.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f29/mozo/po/hu.po | 
- | [hy]({{< ref "/f29/language/hy.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f29/mozo/po/hy.po | 
- | [id]({{< ref "/f29/language/id.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f29/mozo/po/id.po | 
- | [ie]({{< ref "/f29/language/ie.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f29/mozo/po/ie.po | 
- | [is]({{< ref "/f29/language/is.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f29/mozo/po/is.po | 
- | [it]({{< ref "/f29/language/it.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f29/mozo/po/it.po | 
- | [ja]({{< ref "/f29/language/ja.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f29/mozo/po/ja.po | 
- | [ka]({{< ref "/f29/language/ka.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f29/mozo/po/ka.po | 
- | [kk]({{< ref "/f29/language/kk.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f29/mozo/po/kk.po | 
- | [kn]({{< ref "/f29/language/kn.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f29/mozo/po/kn.po | 
- | [ko]({{< ref "/f29/language/ko.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f29/mozo/po/ko.po | 
- | [ky]({{< ref "/f29/language/ky.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f29/mozo/po/ky.po | 
- | [lt]({{< ref "/f29/language/lt.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f29/mozo/po/lt.po | 
- | [lv]({{< ref "/f29/language/lv.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f29/mozo/po/lv.po | 
- | [mai]({{< ref "/f29/language/mai.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f29/mozo/po/mai.po | 
- | [mg]({{< ref "/f29/language/mg.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f29/mozo/po/mg.po | 
- | [mk]({{< ref "/f29/language/mk.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f29/mozo/po/mk.po | 
- | [ml]({{< ref "/f29/language/ml.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f29/mozo/po/ml.po | 
- | [mn]({{< ref "/f29/language/mn.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f29/mozo/po/mn.po | 
- | [mr]({{< ref "/f29/language/mr.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f29/mozo/po/mr.po | 
- | [ms]({{< ref "/f29/language/ms.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f29/mozo/po/ms.po | 
- | [nb_NO]({{< ref "/f29/language/nb_NO.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f29/mozo/po/nb.po | 
- | [nds]({{< ref "/f29/language/nds.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f29/mozo/po/nds.po | 
- | [nl]({{< ref "/f29/language/nl.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f29/mozo/po/nl.po | 
- | [nn]({{< ref "/f29/language/nn.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f29/mozo/po/nn.po | 
- | [oc]({{< ref "/f29/language/oc.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f29/mozo/po/oc.po | 
- | [or]({{< ref "/f29/language/or.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f29/mozo/po/or.po | 
- | [pa]({{< ref "/f29/language/pa.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f29/mozo/po/pa.po | 
- | [pl]({{< ref "/f29/language/pl.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f29/mozo/po/pl.po | 
- | [ps]({{< ref "/f29/language/ps.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f29/mozo/po/ps.po | 
- | [pt]({{< ref "/f29/language/pt.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f29/mozo/po/pt.po | 
- | [pt_BR]({{< ref "/f29/language/pt_BR.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f29/mozo/po/pt_BR.po | 
- | [ro]({{< ref "/f29/language/ro.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f29/mozo/po/ro.po | 
- | [ru]({{< ref "/f29/language/ru.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f29/mozo/po/ru.po | 
- | [sk]({{< ref "/f29/language/sk.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f29/mozo/po/sk.po | 
- | [sl]({{< ref "/f29/language/sl.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f29/mozo/po/sl.po | 
- | [sq]({{< ref "/f29/language/sq.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f29/mozo/po/sq.po | 
- | [sr]({{< ref "/f29/language/sr.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f29/mozo/po/sr.po | 
- | [sr_Latn]({{< ref "/f29/language/sr_Latn.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f29/mozo/po/sr@latin.po | 
- | [sv]({{< ref "/f29/language/sv.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f29/mozo/po/sv.po | 
- | [ta]({{< ref "/f29/language/ta.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f29/mozo/po/ta.po | 
- | [te]({{< ref "/f29/language/te.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f29/mozo/po/te.po | 
- | [th]({{< ref "/f29/language/th.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f29/mozo/po/th.po | 
- | [tr]({{< ref "/f29/language/tr.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f29/mozo/po/tr.po | 
- | [ug]({{< ref "/f29/language/ug.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f29/mozo/po/ug.po | 
- | [uk]({{< ref "/f29/language/uk.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f29/mozo/po/uk.po | 
- | [uz]({{< ref "/f29/language/uz.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f29/mozo/po/uz.po | 
- | [vi]({{< ref "/f29/language/vi.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f29/mozo/po/vi.po | 
- | [zh_Hans]({{< ref "/f29/language/zh_Hans.md" >}}) | 84 | 84 | 100.0 | /mnt/stockage/packages/f29/mozo/po/zh_CN.po/mnt/stockage/packages/f29/mozo/po/cmn.po | 
- | [zh_Hant]({{< ref "/f29/language/zh_Hant.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f29/mozo/po/zh_TW.po | 
- | [zh_Hant_HK]({{< ref "/f29/language/zh_Hant_HK.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f29/mozo/po/zh_HK.po | 
- | [si]({{< ref "/f29/language/si.md" >}}) | 33 | 42 | 78.6 | /mnt/stockage/packages/f29/mozo/po/si.po | 
- | [ku]({{< ref "/f29/language/ku.md" >}}) | 28 | 42 | 66.7 | /mnt/stockage/packages/f29/mozo/po/ku.po | 
- | [es]({{< ref "/f29/language/es.md" >}}) | 52 | 84 | 61.9 | /mnt/stockage/packages/f29/mozo/po/es_ES.po/mnt/stockage/packages/f29/mozo/po/es.po | 
- | [es_VE]({{< ref "/f29/language/es_VE.md" >}}) | 17 | 42 | 40.5 | /mnt/stockage/packages/f29/mozo/po/es_VE.po | 
- | [kmr]({{< ref "/f29/language/kmr.md" >}}) | 14 | 42 | 33.3 | /mnt/stockage/packages/f29/mozo/po/ku_IQ.po | 
- | [fr_CA]({{< ref "/f29/language/fr_CA.md" >}}) | 5 | 42 | 11.9 | /mnt/stockage/packages/f29/mozo/po/fr_CA.po | 
- | [frp]({{< ref "/f29/language/frp.md" >}}) | 5 | 42 | 11.9 | /mnt/stockage/packages/f29/mozo/po/frp.po | 
- | [ne]({{< ref "/f29/language/ne.md" >}}) | 4 | 42 | 9.5 | /mnt/stockage/packages/f29/mozo/po/ne.po | 
- | [xh]({{< ref "/f29/language/xh.md" >}}) | 4 | 42 | 9.5 | /mnt/stockage/packages/f29/mozo/po/xh.po | 
- | [az]({{< ref "/f29/language/az.md" >}}) | 3 | 42 | 7.1 | /mnt/stockage/packages/f29/mozo/po/az.po | 
- | [ha]({{< ref "/f29/language/ha.md" >}}) | 3 | 42 | 7.1 | /mnt/stockage/packages/f29/mozo/po/ha.po | 
- | [ig]({{< ref "/f29/language/ig.md" >}}) | 3 | 42 | 7.1 | /mnt/stockage/packages/f29/mozo/po/ig.po | 
- | [nso]({{< ref "/f29/language/nso.md" >}}) | 3 | 42 | 7.1 | /mnt/stockage/packages/f29/mozo/po/nso.po | 
- | [ur]({{< ref "/f29/language/ur.md" >}}) | 3 | 42 | 7.1 | /mnt/stockage/packages/f29/mozo/po/ur.po | 
- | [yo]({{< ref "/f29/language/yo.md" >}}) | 3 | 42 | 7.1 | /mnt/stockage/packages/f29/mozo/po/yo.po | 
- | [zu]({{< ref "/f29/language/zu.md" >}}) | 3 | 42 | 7.1 | /mnt/stockage/packages/f29/mozo/po/zu.po | 
- | [pms]({{< ref "/f29/language/pms.md" >}}) | 2 | 42 | 4.8 | /mnt/stockage/packages/f29/mozo/po/pms.po | 
- | [rw]({{< ref "/f29/language/rw.md" >}}) | 2 | 42 | 4.8 | /mnt/stockage/packages/f29/mozo/po/rw.po | 
- | [wa]({{< ref "/f29/language/wa.md" >}}) | 2 | 42 | 4.8 | /mnt/stockage/packages/f29/mozo/po/wa.po | 
- | [es_PR]({{< ref "/f29/language/es_PR.md" >}}) | 1 | 42 | 2.4 | /mnt/stockage/packages/f29/mozo/po/es_PR.po | 
- | [gd]({{< ref "/f29/language/gd.md" >}}) | 1 | 42 | 2.4 | /mnt/stockage/packages/f29/mozo/po/gd.po | 
- | [ia]({{< ref "/f29/language/ia.md" >}}) | 1 | 42 | 2.4 | /mnt/stockage/packages/f29/mozo/po/ia.po | 
- | [kab]({{< ref "/f29/language/kab.md" >}}) | 1 | 42 | 2.4 | /mnt/stockage/packages/f29/mozo/po/kab.po | 
- | [la]({{< ref "/f29/language/la.md" >}}) | 1 | 42 | 2.4 | /mnt/stockage/packages/f29/mozo/po/la.po | 
- | [li]({{< ref "/f29/language/li.md" >}}) | 1 | 42 | 2.4 | /mnt/stockage/packages/f29/mozo/po/li.po | 
- | [mi]({{< ref "/f29/language/mi.md" >}}) | 1 | 42 | 2.4 | /mnt/stockage/packages/f29/mozo/po/mi.po | 
- | [sc]({{< ref "/f29/language/sc.md" >}}) | 1 | 42 | 2.4 | /mnt/stockage/packages/f29/mozo/po/sc.po | 
- | [tk]({{< ref "/f29/language/tk.md" >}}) | 1 | 42 | 2.4 | /mnt/stockage/packages/f29/mozo/po/tk.po | 
- | [yi]({{< ref "/f29/language/yi.md" >}}) | 1 | 42 | 2.4 | /mnt/stockage/packages/f29/mozo/po/yi.po | 
+ | [af](/f29/language/af) | 42 | 42 | 100.0 | /mnt/stockage/packages/f29/mozo/po/af.po | 
+ | [am](/f29/language/am) | 42 | 42 | 100.0 | /mnt/stockage/packages/f29/mozo/po/am.po | 
+ | [an](/f29/language/an) | 42 | 42 | 100.0 | /mnt/stockage/packages/f29/mozo/po/an.po | 
+ | [ar](/f29/language/ar) | 42 | 42 | 100.0 | /mnt/stockage/packages/f29/mozo/po/ar.po | 
+ | [as](/f29/language/as) | 42 | 42 | 100.0 | /mnt/stockage/packages/f29/mozo/po/as.po | 
+ | [ast](/f29/language/ast) | 42 | 42 | 100.0 | /mnt/stockage/packages/f29/mozo/po/ast.po | 
+ | [be](/f29/language/be) | 42 | 42 | 100.0 | /mnt/stockage/packages/f29/mozo/po/be.po | 
+ | [bg](/f29/language/bg) | 42 | 42 | 100.0 | /mnt/stockage/packages/f29/mozo/po/bg.po | 
+ | [bn](/f29/language/bn) | 42 | 42 | 100.0 | /mnt/stockage/packages/f29/mozo/po/bn.po | 
+ | [bn_IN](/f29/language/bn_IN) | 42 | 42 | 100.0 | /mnt/stockage/packages/f29/mozo/po/bn_IN.po | 
+ | [br](/f29/language/br) | 42 | 42 | 100.0 | /mnt/stockage/packages/f29/mozo/po/br.po | 
+ | [bs](/f29/language/bs) | 42 | 42 | 100.0 | /mnt/stockage/packages/f29/mozo/po/bs.po | 
+ | [ca](/f29/language/ca) | 42 | 42 | 100.0 | /mnt/stockage/packages/f29/mozo/po/ca.po | 
+ | [ca@valencia](/f29/language/ca@valencia) | 42 | 42 | 100.0 | /mnt/stockage/packages/f29/mozo/po/ca@valencia.po | 
+ | [crh](/f29/language/crh) | 42 | 42 | 100.0 | /mnt/stockage/packages/f29/mozo/po/crh.po | 
+ | [cs](/f29/language/cs) | 42 | 42 | 100.0 | /mnt/stockage/packages/f29/mozo/po/cs.po | 
+ | [cy](/f29/language/cy) | 42 | 42 | 100.0 | /mnt/stockage/packages/f29/mozo/po/cy.po | 
+ | [da](/f29/language/da) | 42 | 42 | 100.0 | /mnt/stockage/packages/f29/mozo/po/da.po | 
+ | [de](/f29/language/de) | 42 | 42 | 100.0 | /mnt/stockage/packages/f29/mozo/po/de.po | 
+ | [dz](/f29/language/dz) | 42 | 42 | 100.0 | /mnt/stockage/packages/f29/mozo/po/dz.po | 
+ | [el](/f29/language/el) | 42 | 42 | 100.0 | /mnt/stockage/packages/f29/mozo/po/el.po | 
+ | [en_AU](/f29/language/en_AU) | 42 | 42 | 100.0 | /mnt/stockage/packages/f29/mozo/po/en_AU.po | 
+ | [en_CA](/f29/language/en_CA) | 42 | 42 | 100.0 | /mnt/stockage/packages/f29/mozo/po/en_CA.po | 
+ | [en_GB](/f29/language/en_GB) | 42 | 42 | 100.0 | /mnt/stockage/packages/f29/mozo/po/en_GB.po | 
+ | [eo](/f29/language/eo) | 42 | 42 | 100.0 | /mnt/stockage/packages/f29/mozo/po/eo.po | 
+ | [es_AR](/f29/language/es_AR) | 42 | 42 | 100.0 | /mnt/stockage/packages/f29/mozo/po/es_AR.po | 
+ | [es_CL](/f29/language/es_CL) | 42 | 42 | 100.0 | /mnt/stockage/packages/f29/mozo/po/es_CL.po | 
+ | [es_CO](/f29/language/es_CO) | 42 | 42 | 100.0 | /mnt/stockage/packages/f29/mozo/po/es_CO.po | 
+ | [es_MX](/f29/language/es_MX) | 42 | 42 | 100.0 | /mnt/stockage/packages/f29/mozo/po/es_MX.po | 
+ | [et](/f29/language/et) | 42 | 42 | 100.0 | /mnt/stockage/packages/f29/mozo/po/et.po | 
+ | [eu](/f29/language/eu) | 42 | 42 | 100.0 | /mnt/stockage/packages/f29/mozo/po/eu.po | 
+ | [fa](/f29/language/fa) | 42 | 42 | 100.0 | /mnt/stockage/packages/f29/mozo/po/fa.po | 
+ | [fi](/f29/language/fi) | 42 | 42 | 100.0 | /mnt/stockage/packages/f29/mozo/po/fi.po | 
+ | [fr](/f29/language/fr) | 42 | 42 | 100.0 | /mnt/stockage/packages/f29/mozo/po/fr.po | 
+ | [fur](/f29/language/fur) | 42 | 42 | 100.0 | /mnt/stockage/packages/f29/mozo/po/fur.po | 
+ | [fy](/f29/language/fy) | 42 | 42 | 100.0 | /mnt/stockage/packages/f29/mozo/po/fy.po | 
+ | [ga](/f29/language/ga) | 42 | 42 | 100.0 | /mnt/stockage/packages/f29/mozo/po/ga.po | 
+ | [gl](/f29/language/gl) | 42 | 42 | 100.0 | /mnt/stockage/packages/f29/mozo/po/gl.po | 
+ | [gu](/f29/language/gu) | 42 | 42 | 100.0 | /mnt/stockage/packages/f29/mozo/po/gu.po | 
+ | [he](/f29/language/he) | 42 | 42 | 100.0 | /mnt/stockage/packages/f29/mozo/po/he.po | 
+ | [hi](/f29/language/hi) | 42 | 42 | 100.0 | /mnt/stockage/packages/f29/mozo/po/hi.po | 
+ | [hr](/f29/language/hr) | 42 | 42 | 100.0 | /mnt/stockage/packages/f29/mozo/po/hr.po | 
+ | [hu](/f29/language/hu) | 42 | 42 | 100.0 | /mnt/stockage/packages/f29/mozo/po/hu.po | 
+ | [hy](/f29/language/hy) | 42 | 42 | 100.0 | /mnt/stockage/packages/f29/mozo/po/hy.po | 
+ | [id](/f29/language/id) | 42 | 42 | 100.0 | /mnt/stockage/packages/f29/mozo/po/id.po | 
+ | [ie](/f29/language/ie) | 42 | 42 | 100.0 | /mnt/stockage/packages/f29/mozo/po/ie.po | 
+ | [is](/f29/language/is) | 42 | 42 | 100.0 | /mnt/stockage/packages/f29/mozo/po/is.po | 
+ | [it](/f29/language/it) | 42 | 42 | 100.0 | /mnt/stockage/packages/f29/mozo/po/it.po | 
+ | [ja](/f29/language/ja) | 42 | 42 | 100.0 | /mnt/stockage/packages/f29/mozo/po/ja.po | 
+ | [ka](/f29/language/ka) | 42 | 42 | 100.0 | /mnt/stockage/packages/f29/mozo/po/ka.po | 
+ | [kk](/f29/language/kk) | 42 | 42 | 100.0 | /mnt/stockage/packages/f29/mozo/po/kk.po | 
+ | [kn](/f29/language/kn) | 42 | 42 | 100.0 | /mnt/stockage/packages/f29/mozo/po/kn.po | 
+ | [ko](/f29/language/ko) | 42 | 42 | 100.0 | /mnt/stockage/packages/f29/mozo/po/ko.po | 
+ | [ky](/f29/language/ky) | 42 | 42 | 100.0 | /mnt/stockage/packages/f29/mozo/po/ky.po | 
+ | [lt](/f29/language/lt) | 42 | 42 | 100.0 | /mnt/stockage/packages/f29/mozo/po/lt.po | 
+ | [lv](/f29/language/lv) | 42 | 42 | 100.0 | /mnt/stockage/packages/f29/mozo/po/lv.po | 
+ | [mai](/f29/language/mai) | 42 | 42 | 100.0 | /mnt/stockage/packages/f29/mozo/po/mai.po | 
+ | [mg](/f29/language/mg) | 42 | 42 | 100.0 | /mnt/stockage/packages/f29/mozo/po/mg.po | 
+ | [mk](/f29/language/mk) | 42 | 42 | 100.0 | /mnt/stockage/packages/f29/mozo/po/mk.po | 
+ | [ml](/f29/language/ml) | 42 | 42 | 100.0 | /mnt/stockage/packages/f29/mozo/po/ml.po | 
+ | [mn](/f29/language/mn) | 42 | 42 | 100.0 | /mnt/stockage/packages/f29/mozo/po/mn.po | 
+ | [mr](/f29/language/mr) | 42 | 42 | 100.0 | /mnt/stockage/packages/f29/mozo/po/mr.po | 
+ | [ms](/f29/language/ms) | 42 | 42 | 100.0 | /mnt/stockage/packages/f29/mozo/po/ms.po | 
+ | [nb_NO](/f29/language/nb_NO) | 42 | 42 | 100.0 | /mnt/stockage/packages/f29/mozo/po/nb.po | 
+ | [nds](/f29/language/nds) | 42 | 42 | 100.0 | /mnt/stockage/packages/f29/mozo/po/nds.po | 
+ | [nl](/f29/language/nl) | 42 | 42 | 100.0 | /mnt/stockage/packages/f29/mozo/po/nl.po | 
+ | [nn](/f29/language/nn) | 42 | 42 | 100.0 | /mnt/stockage/packages/f29/mozo/po/nn.po | 
+ | [oc](/f29/language/oc) | 42 | 42 | 100.0 | /mnt/stockage/packages/f29/mozo/po/oc.po | 
+ | [or](/f29/language/or) | 42 | 42 | 100.0 | /mnt/stockage/packages/f29/mozo/po/or.po | 
+ | [pa](/f29/language/pa) | 42 | 42 | 100.0 | /mnt/stockage/packages/f29/mozo/po/pa.po | 
+ | [pl](/f29/language/pl) | 42 | 42 | 100.0 | /mnt/stockage/packages/f29/mozo/po/pl.po | 
+ | [ps](/f29/language/ps) | 42 | 42 | 100.0 | /mnt/stockage/packages/f29/mozo/po/ps.po | 
+ | [pt](/f29/language/pt) | 42 | 42 | 100.0 | /mnt/stockage/packages/f29/mozo/po/pt.po | 
+ | [pt_BR](/f29/language/pt_BR) | 42 | 42 | 100.0 | /mnt/stockage/packages/f29/mozo/po/pt_BR.po | 
+ | [ro](/f29/language/ro) | 42 | 42 | 100.0 | /mnt/stockage/packages/f29/mozo/po/ro.po | 
+ | [ru](/f29/language/ru) | 42 | 42 | 100.0 | /mnt/stockage/packages/f29/mozo/po/ru.po | 
+ | [sk](/f29/language/sk) | 42 | 42 | 100.0 | /mnt/stockage/packages/f29/mozo/po/sk.po | 
+ | [sl](/f29/language/sl) | 42 | 42 | 100.0 | /mnt/stockage/packages/f29/mozo/po/sl.po | 
+ | [sq](/f29/language/sq) | 42 | 42 | 100.0 | /mnt/stockage/packages/f29/mozo/po/sq.po | 
+ | [sr](/f29/language/sr) | 42 | 42 | 100.0 | /mnt/stockage/packages/f29/mozo/po/sr.po | 
+ | [sr_Latn](/f29/language/sr_Latn) | 42 | 42 | 100.0 | /mnt/stockage/packages/f29/mozo/po/sr@latin.po | 
+ | [sv](/f29/language/sv) | 42 | 42 | 100.0 | /mnt/stockage/packages/f29/mozo/po/sv.po | 
+ | [ta](/f29/language/ta) | 42 | 42 | 100.0 | /mnt/stockage/packages/f29/mozo/po/ta.po | 
+ | [te](/f29/language/te) | 42 | 42 | 100.0 | /mnt/stockage/packages/f29/mozo/po/te.po | 
+ | [th](/f29/language/th) | 42 | 42 | 100.0 | /mnt/stockage/packages/f29/mozo/po/th.po | 
+ | [tr](/f29/language/tr) | 42 | 42 | 100.0 | /mnt/stockage/packages/f29/mozo/po/tr.po | 
+ | [ug](/f29/language/ug) | 42 | 42 | 100.0 | /mnt/stockage/packages/f29/mozo/po/ug.po | 
+ | [uk](/f29/language/uk) | 42 | 42 | 100.0 | /mnt/stockage/packages/f29/mozo/po/uk.po | 
+ | [uz](/f29/language/uz) | 42 | 42 | 100.0 | /mnt/stockage/packages/f29/mozo/po/uz.po | 
+ | [vi](/f29/language/vi) | 42 | 42 | 100.0 | /mnt/stockage/packages/f29/mozo/po/vi.po | 
+ | [zh_Hans](/f29/language/zh_Hans) | 84 | 84 | 100.0 | /mnt/stockage/packages/f29/mozo/po/zh_CN.po/mnt/stockage/packages/f29/mozo/po/cmn.po | 
+ | [zh_Hant](/f29/language/zh_Hant) | 42 | 42 | 100.0 | /mnt/stockage/packages/f29/mozo/po/zh_TW.po | 
+ | [zh_Hant_HK](/f29/language/zh_Hant_HK) | 42 | 42 | 100.0 | /mnt/stockage/packages/f29/mozo/po/zh_HK.po | 
+ | [si](/f29/language/si) | 33 | 42 | 78.6 | /mnt/stockage/packages/f29/mozo/po/si.po | 
+ | [ku](/f29/language/ku) | 28 | 42 | 66.7 | /mnt/stockage/packages/f29/mozo/po/ku.po | 
+ | [es](/f29/language/es) | 52 | 84 | 61.9 | /mnt/stockage/packages/f29/mozo/po/es_ES.po/mnt/stockage/packages/f29/mozo/po/es.po | 
+ | [es_VE](/f29/language/es_VE) | 17 | 42 | 40.5 | /mnt/stockage/packages/f29/mozo/po/es_VE.po | 
+ | [kmr](/f29/language/kmr) | 14 | 42 | 33.3 | /mnt/stockage/packages/f29/mozo/po/ku_IQ.po | 
+ | [fr_CA](/f29/language/fr_CA) | 5 | 42 | 11.9 | /mnt/stockage/packages/f29/mozo/po/fr_CA.po | 
+ | [frp](/f29/language/frp) | 5 | 42 | 11.9 | /mnt/stockage/packages/f29/mozo/po/frp.po | 
+ | [ne](/f29/language/ne) | 4 | 42 | 9.5 | /mnt/stockage/packages/f29/mozo/po/ne.po | 
+ | [xh](/f29/language/xh) | 4 | 42 | 9.5 | /mnt/stockage/packages/f29/mozo/po/xh.po | 
+ | [az](/f29/language/az) | 3 | 42 | 7.1 | /mnt/stockage/packages/f29/mozo/po/az.po | 
+ | [ha](/f29/language/ha) | 3 | 42 | 7.1 | /mnt/stockage/packages/f29/mozo/po/ha.po | 
+ | [ig](/f29/language/ig) | 3 | 42 | 7.1 | /mnt/stockage/packages/f29/mozo/po/ig.po | 
+ | [nso](/f29/language/nso) | 3 | 42 | 7.1 | /mnt/stockage/packages/f29/mozo/po/nso.po | 
+ | [ur](/f29/language/ur) | 3 | 42 | 7.1 | /mnt/stockage/packages/f29/mozo/po/ur.po | 
+ | [yo](/f29/language/yo) | 3 | 42 | 7.1 | /mnt/stockage/packages/f29/mozo/po/yo.po | 
+ | [zu](/f29/language/zu) | 3 | 42 | 7.1 | /mnt/stockage/packages/f29/mozo/po/zu.po | 
+ | [pms](/f29/language/pms) | 2 | 42 | 4.8 | /mnt/stockage/packages/f29/mozo/po/pms.po | 
+ | [rw](/f29/language/rw) | 2 | 42 | 4.8 | /mnt/stockage/packages/f29/mozo/po/rw.po | 
+ | [wa](/f29/language/wa) | 2 | 42 | 4.8 | /mnt/stockage/packages/f29/mozo/po/wa.po | 
+ | [es_PR](/f29/language/es_PR) | 1 | 42 | 2.4 | /mnt/stockage/packages/f29/mozo/po/es_PR.po | 
+ | [gd](/f29/language/gd) | 1 | 42 | 2.4 | /mnt/stockage/packages/f29/mozo/po/gd.po | 
+ | [ia](/f29/language/ia) | 1 | 42 | 2.4 | /mnt/stockage/packages/f29/mozo/po/ia.po | 
+ | [kab](/f29/language/kab) | 1 | 42 | 2.4 | /mnt/stockage/packages/f29/mozo/po/kab.po | 
+ | [la](/f29/language/la) | 1 | 42 | 2.4 | /mnt/stockage/packages/f29/mozo/po/la.po | 
+ | [li](/f29/language/li) | 1 | 42 | 2.4 | /mnt/stockage/packages/f29/mozo/po/li.po | 
+ | [mi](/f29/language/mi) | 1 | 42 | 2.4 | /mnt/stockage/packages/f29/mozo/po/mi.po | 
+ | [sc](/f29/language/sc) | 1 | 42 | 2.4 | /mnt/stockage/packages/f29/mozo/po/sc.po | 
+ | [tk](/f29/language/tk) | 1 | 42 | 2.4 | /mnt/stockage/packages/f29/mozo/po/tk.po | 
+ | [yi](/f29/language/yi) | 1 | 42 | 2.4 | /mnt/stockage/packages/f29/mozo/po/yi.po | 
 {.sortable}
 
 

@@ -18,26 +18,26 @@ The package pbuilder (version 0.215):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f20/language/ca.md" >}}) | 96 | 96 | 100.0 | /mnt/stockage/packages/f20/pbuilder/debian/po/ca.po | 
- | [cs]({{< ref "/f20/language/cs.md" >}}) | 96 | 96 | 100.0 | /mnt/stockage/packages/f20/pbuilder/debian/po/cs.po | 
- | [da]({{< ref "/f20/language/da.md" >}}) | 96 | 96 | 100.0 | /mnt/stockage/packages/f20/pbuilder/debian/po/da.po | 
- | [es]({{< ref "/f20/language/es.md" >}}) | 96 | 96 | 100.0 | /mnt/stockage/packages/f20/pbuilder/debian/po/es.po | 
- | [eu]({{< ref "/f20/language/eu.md" >}}) | 96 | 96 | 100.0 | /mnt/stockage/packages/f20/pbuilder/debian/po/eu.po | 
- | [fi]({{< ref "/f20/language/fi.md" >}}) | 96 | 96 | 100.0 | /mnt/stockage/packages/f20/pbuilder/debian/po/fi.po | 
- | [gl]({{< ref "/f20/language/gl.md" >}}) | 96 | 96 | 100.0 | /mnt/stockage/packages/f20/pbuilder/debian/po/gl.po | 
- | [it]({{< ref "/f20/language/it.md" >}}) | 96 | 96 | 100.0 | /mnt/stockage/packages/f20/pbuilder/debian/po/it.po | 
- | [nl]({{< ref "/f20/language/nl.md" >}}) | 96 | 96 | 100.0 | /mnt/stockage/packages/f20/pbuilder/debian/po/nl.po | 
- | [pt]({{< ref "/f20/language/pt.md" >}}) | 96 | 96 | 100.0 | /mnt/stockage/packages/f20/pbuilder/debian/po/pt.po | 
- | [pt_BR]({{< ref "/f20/language/pt_BR.md" >}}) | 96 | 96 | 100.0 | /mnt/stockage/packages/f20/pbuilder/debian/po/pt_BR.po | 
- | [ro]({{< ref "/f20/language/ro.md" >}}) | 96 | 96 | 100.0 | /mnt/stockage/packages/f20/pbuilder/debian/po/ro.po | 
- | [ru]({{< ref "/f20/language/ru.md" >}}) | 96 | 96 | 100.0 | /mnt/stockage/packages/f20/pbuilder/debian/po/ru.po | 
- | [sk]({{< ref "/f20/language/sk.md" >}}) | 96 | 96 | 100.0 | /mnt/stockage/packages/f20/pbuilder/debian/po/sk.po | 
- | [sr]({{< ref "/f20/language/sr.md" >}}) | 96 | 96 | 100.0 | /mnt/stockage/packages/f20/pbuilder/debian/po/sr.po | 
- | [sr_Latn]({{< ref "/f20/language/sr_Latn.md" >}}) | 96 | 96 | 100.0 | /mnt/stockage/packages/f20/pbuilder/debian/po/sr@latin.po | 
- | [sv]({{< ref "/f20/language/sv.md" >}}) | 96 | 96 | 100.0 | /mnt/stockage/packages/f20/pbuilder/debian/po/sv.po | 
- | [de]({{< ref "/f20/language/de.md" >}}) | 6172 | 6556 | 94.1 | /mnt/stockage/packages/f20/pbuilder/debian/po/de.po/mnt/stockage/packages/f20/pbuilder/Documentation/pbuilder-doc.de.po | 
- | [fr]({{< ref "/f20/language/fr.md" >}}) | 4315 | 6556 | 65.8 | /mnt/stockage/packages/f20/pbuilder/debian/po/fr.po/mnt/stockage/packages/f20/pbuilder/Documentation/pbuilder-doc.fr.po | 
- | [ja]({{< ref "/f20/language/ja.md" >}}) | 1741 | 6556 | 26.6 | /mnt/stockage/packages/f20/pbuilder/debian/po/ja.po/mnt/stockage/packages/f20/pbuilder/Documentation/pbuilder-doc.ja.po | 
+ | [ca](/f20/language/ca) | 96 | 96 | 100.0 | /mnt/stockage/packages/f20/pbuilder/debian/po/ca.po | 
+ | [cs](/f20/language/cs) | 96 | 96 | 100.0 | /mnt/stockage/packages/f20/pbuilder/debian/po/cs.po | 
+ | [da](/f20/language/da) | 96 | 96 | 100.0 | /mnt/stockage/packages/f20/pbuilder/debian/po/da.po | 
+ | [es](/f20/language/es) | 96 | 96 | 100.0 | /mnt/stockage/packages/f20/pbuilder/debian/po/es.po | 
+ | [eu](/f20/language/eu) | 96 | 96 | 100.0 | /mnt/stockage/packages/f20/pbuilder/debian/po/eu.po | 
+ | [fi](/f20/language/fi) | 96 | 96 | 100.0 | /mnt/stockage/packages/f20/pbuilder/debian/po/fi.po | 
+ | [gl](/f20/language/gl) | 96 | 96 | 100.0 | /mnt/stockage/packages/f20/pbuilder/debian/po/gl.po | 
+ | [it](/f20/language/it) | 96 | 96 | 100.0 | /mnt/stockage/packages/f20/pbuilder/debian/po/it.po | 
+ | [nl](/f20/language/nl) | 96 | 96 | 100.0 | /mnt/stockage/packages/f20/pbuilder/debian/po/nl.po | 
+ | [pt](/f20/language/pt) | 96 | 96 | 100.0 | /mnt/stockage/packages/f20/pbuilder/debian/po/pt.po | 
+ | [pt_BR](/f20/language/pt_BR) | 96 | 96 | 100.0 | /mnt/stockage/packages/f20/pbuilder/debian/po/pt_BR.po | 
+ | [ro](/f20/language/ro) | 96 | 96 | 100.0 | /mnt/stockage/packages/f20/pbuilder/debian/po/ro.po | 
+ | [ru](/f20/language/ru) | 96 | 96 | 100.0 | /mnt/stockage/packages/f20/pbuilder/debian/po/ru.po | 
+ | [sk](/f20/language/sk) | 96 | 96 | 100.0 | /mnt/stockage/packages/f20/pbuilder/debian/po/sk.po | 
+ | [sr](/f20/language/sr) | 96 | 96 | 100.0 | /mnt/stockage/packages/f20/pbuilder/debian/po/sr.po | 
+ | [sr_Latn](/f20/language/sr_Latn) | 96 | 96 | 100.0 | /mnt/stockage/packages/f20/pbuilder/debian/po/sr@latin.po | 
+ | [sv](/f20/language/sv) | 96 | 96 | 100.0 | /mnt/stockage/packages/f20/pbuilder/debian/po/sv.po | 
+ | [de](/f20/language/de) | 6172 | 6556 | 94.1 | /mnt/stockage/packages/f20/pbuilder/debian/po/de.po/mnt/stockage/packages/f20/pbuilder/Documentation/pbuilder-doc.de.po | 
+ | [fr](/f20/language/fr) | 4315 | 6556 | 65.8 | /mnt/stockage/packages/f20/pbuilder/debian/po/fr.po/mnt/stockage/packages/f20/pbuilder/Documentation/pbuilder-doc.fr.po | 
+ | [ja](/f20/language/ja) | 1741 | 6556 | 26.6 | /mnt/stockage/packages/f20/pbuilder/debian/po/ja.po/mnt/stockage/packages/f20/pbuilder/Documentation/pbuilder-doc.ja.po | 
 {.sortable}
 
 

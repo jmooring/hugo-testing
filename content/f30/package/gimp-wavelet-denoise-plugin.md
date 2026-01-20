@@ -18,11 +18,11 @@ The package gimp-wavelet-denoise-plugin (version 0.3.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f30/language/de.md" >}}) | 305 | 305 | 100.0 | /mnt/stockage/packages/f30/gimp-wavelet-denoise-plugin/po/de.po | 
- | [et]({{< ref "/f30/language/et.md" >}}) | 305 | 305 | 100.0 | /mnt/stockage/packages/f30/gimp-wavelet-denoise-plugin/po/et.po | 
- | [it]({{< ref "/f30/language/it.md" >}}) | 305 | 305 | 100.0 | /mnt/stockage/packages/f30/gimp-wavelet-denoise-plugin/po/it.po | 
- | [pl]({{< ref "/f30/language/pl.md" >}}) | 305 | 305 | 100.0 | /mnt/stockage/packages/f30/gimp-wavelet-denoise-plugin/po/pl.po | 
- | [ru]({{< ref "/f30/language/ru.md" >}}) | 305 | 305 | 100.0 | /mnt/stockage/packages/f30/gimp-wavelet-denoise-plugin/po/ru.po | 
+ | [de](/f30/language/de) | 305 | 305 | 100.0 | /mnt/stockage/packages/f30/gimp-wavelet-denoise-plugin/po/de.po | 
+ | [et](/f30/language/et) | 305 | 305 | 100.0 | /mnt/stockage/packages/f30/gimp-wavelet-denoise-plugin/po/et.po | 
+ | [it](/f30/language/it) | 305 | 305 | 100.0 | /mnt/stockage/packages/f30/gimp-wavelet-denoise-plugin/po/it.po | 
+ | [pl](/f30/language/pl) | 305 | 305 | 100.0 | /mnt/stockage/packages/f30/gimp-wavelet-denoise-plugin/po/pl.po | 
+ | [ru](/f30/language/ru) | 305 | 305 | 100.0 | /mnt/stockage/packages/f30/gimp-wavelet-denoise-plugin/po/ru.po | 
 {.sortable}
 
 

@@ -18,43 +18,43 @@ The package kf5-kirigami2-addons (version 0.11.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [nn]({{< ref "/f42/language/nn.md" >}}) | 370 | 370 | 100.0 | /mnt/stockage/packages/f42/kf5-kirigami2-addons/po/nn/kirigami-addons.po | 
- | [ca]({{< ref "/f42/language/ca.md" >}}) | 370 | 386 | 95.9 | /mnt/stockage/packages/f42/kf5-kirigami2-addons/po/ca/kirigami-addons.po | 
- | [ca@valencia]({{< ref "/f42/language/ca@valencia.md" >}}) | 370 | 386 | 95.9 | /mnt/stockage/packages/f42/kf5-kirigami2-addons/po/ca@valencia/kirigami-addons.po | 
- | [eo]({{< ref "/f42/language/eo.md" >}}) | 370 | 386 | 95.9 | /mnt/stockage/packages/f42/kf5-kirigami2-addons/po/eo/kirigami-addons.po | 
- | [es]({{< ref "/f42/language/es.md" >}}) | 370 | 386 | 95.9 | /mnt/stockage/packages/f42/kf5-kirigami2-addons/po/es/kirigami-addons.po | 
- | [eu]({{< ref "/f42/language/eu.md" >}}) | 370 | 386 | 95.9 | /mnt/stockage/packages/f42/kf5-kirigami2-addons/po/eu/kirigami-addons.po | 
- | [ka]({{< ref "/f42/language/ka.md" >}}) | 370 | 386 | 95.9 | /mnt/stockage/packages/f42/kf5-kirigami2-addons/po/ka/kirigami-addons.po | 
- | [nl]({{< ref "/f42/language/nl.md" >}}) | 370 | 386 | 95.9 | /mnt/stockage/packages/f42/kf5-kirigami2-addons/po/nl/kirigami-addons.po | 
- | [sl]({{< ref "/f42/language/sl.md" >}}) | 370 | 386 | 95.9 | /mnt/stockage/packages/f42/kf5-kirigami2-addons/po/sl/kirigami-addons.po | 
- | [sv]({{< ref "/f42/language/sv.md" >}}) | 370 | 386 | 95.9 | /mnt/stockage/packages/f42/kf5-kirigami2-addons/po/sv/kirigami-addons.po | 
- | [tr]({{< ref "/f42/language/tr.md" >}}) | 370 | 386 | 95.9 | /mnt/stockage/packages/f42/kf5-kirigami2-addons/po/tr/kirigami-addons.po | 
- | [uk]({{< ref "/f42/language/uk.md" >}}) | 370 | 386 | 95.9 | /mnt/stockage/packages/f42/kf5-kirigami2-addons/po/uk/kirigami-addons.po | 
- | [it]({{< ref "/f42/language/it.md" >}}) | 366 | 386 | 94.8 | /mnt/stockage/packages/f42/kf5-kirigami2-addons/po/it/kirigami-addons.po | 
- | [ko]({{< ref "/f42/language/ko.md" >}}) | 366 | 386 | 94.8 | /mnt/stockage/packages/f42/kf5-kirigami2-addons/po/ko/kirigami-addons.po | 
- | [pt_BR]({{< ref "/f42/language/pt_BR.md" >}}) | 366 | 386 | 94.8 | /mnt/stockage/packages/f42/kf5-kirigami2-addons/po/pt_BR/kirigami-addons.po | 
- | [ta]({{< ref "/f42/language/ta.md" >}}) | 366 | 386 | 94.8 | /mnt/stockage/packages/f42/kf5-kirigami2-addons/po/ta/kirigami-addons.po | 
- | [el]({{< ref "/f42/language/el.md" >}}) | 363 | 386 | 94.0 | /mnt/stockage/packages/f42/kf5-kirigami2-addons/po/el/kirigami-addons.po | 
- | [fi]({{< ref "/f42/language/fi.md" >}}) | 363 | 386 | 94.0 | /mnt/stockage/packages/f42/kf5-kirigami2-addons/po/fi/kirigami-addons.po | 
- | [pt]({{< ref "/f42/language/pt.md" >}}) | 363 | 386 | 94.0 | /mnt/stockage/packages/f42/kf5-kirigami2-addons/po/pt/kirigami-addons.po | 
- | [zh_Hans]({{< ref "/f42/language/zh_Hans.md" >}}) | 363 | 386 | 94.0 | /mnt/stockage/packages/f42/kf5-kirigami2-addons/po/zh_CN/kirigami-addons.po | 
- | [de]({{< ref "/f42/language/de.md" >}}) | 177 | 386 | 45.9 | /mnt/stockage/packages/f42/kf5-kirigami2-addons/po/de/kirigami-addons.po | 
- | [cs]({{< ref "/f42/language/cs.md" >}}) | 93 | 386 | 24.1 | /mnt/stockage/packages/f42/kf5-kirigami2-addons/po/cs/kirigami-addons.po | 
- | [ar]({{< ref "/f42/language/ar.md" >}}) | 91 | 386 | 23.6 | /mnt/stockage/packages/f42/kf5-kirigami2-addons/po/ar/kirigami-addons.po | 
- | [en_GB]({{< ref "/f42/language/en_GB.md" >}}) | 91 | 386 | 23.6 | /mnt/stockage/packages/f42/kf5-kirigami2-addons/po/en_GB/kirigami-addons.po | 
- | [fr]({{< ref "/f42/language/fr.md" >}}) | 91 | 386 | 23.6 | /mnt/stockage/packages/f42/kf5-kirigami2-addons/po/fr/kirigami-addons.po | 
- | [gl]({{< ref "/f42/language/gl.md" >}}) | 91 | 386 | 23.6 | /mnt/stockage/packages/f42/kf5-kirigami2-addons/po/gl/kirigami-addons.po | 
- | [ru]({{< ref "/f42/language/ru.md" >}}) | 91 | 386 | 23.6 | /mnt/stockage/packages/f42/kf5-kirigami2-addons/po/ru/kirigami-addons.po | 
- | [zh_Hant]({{< ref "/f42/language/zh_Hant.md" >}}) | 33 | 386 | 8.5 | /mnt/stockage/packages/f42/kf5-kirigami2-addons/po/zh_TW/kirigami-addons.po | 
- | [pl]({{< ref "/f42/language/pl.md" >}}) | 31 | 386 | 8.0 | /mnt/stockage/packages/f42/kf5-kirigami2-addons/po/pl/kirigami-addons.po | 
- | [az]({{< ref "/f42/language/az.md" >}}) | 7 | 386 | 1.8 | /mnt/stockage/packages/f42/kf5-kirigami2-addons/po/az/kirigami-addons.po | 
- | [bg]({{< ref "/f42/language/bg.md" >}}) | 7 | 386 | 1.8 | /mnt/stockage/packages/f42/kf5-kirigami2-addons/po/bg/kirigami-addons.po | 
- | [ro]({{< ref "/f42/language/ro.md" >}}) | 7 | 386 | 1.8 | /mnt/stockage/packages/f42/kf5-kirigami2-addons/po/ro/kirigami-addons.po | 
- | [sk]({{< ref "/f42/language/sk.md" >}}) | 7 | 386 | 1.8 | /mnt/stockage/packages/f42/kf5-kirigami2-addons/po/sk/kirigami-addons.po | 
- | [hi]({{< ref "/f42/language/hi.md" >}}) | 5 | 386 | 1.3 | /mnt/stockage/packages/f42/kf5-kirigami2-addons/po/hi/kirigami-addons.po | 
- | [hu]({{< ref "/f42/language/hu.md" >}}) | 5 | 386 | 1.3 | /mnt/stockage/packages/f42/kf5-kirigami2-addons/po/hu/kirigami-addons.po | 
- | [ja]({{< ref "/f42/language/ja.md" >}}) | 0 | 386 | 0.0 | /mnt/stockage/packages/f42/kf5-kirigami2-addons/po/ja/kirigami-addons.po | 
- | [lt]({{< ref "/f42/language/lt.md" >}}) | 0 | 386 | 0.0 | /mnt/stockage/packages/f42/kf5-kirigami2-addons/po/lt/kirigami-addons.po | 
+ | [nn](/f42/language/nn) | 370 | 370 | 100.0 | /mnt/stockage/packages/f42/kf5-kirigami2-addons/po/nn/kirigami-addons.po | 
+ | [ca](/f42/language/ca) | 370 | 386 | 95.9 | /mnt/stockage/packages/f42/kf5-kirigami2-addons/po/ca/kirigami-addons.po | 
+ | [ca@valencia](/f42/language/ca@valencia) | 370 | 386 | 95.9 | /mnt/stockage/packages/f42/kf5-kirigami2-addons/po/ca@valencia/kirigami-addons.po | 
+ | [eo](/f42/language/eo) | 370 | 386 | 95.9 | /mnt/stockage/packages/f42/kf5-kirigami2-addons/po/eo/kirigami-addons.po | 
+ | [es](/f42/language/es) | 370 | 386 | 95.9 | /mnt/stockage/packages/f42/kf5-kirigami2-addons/po/es/kirigami-addons.po | 
+ | [eu](/f42/language/eu) | 370 | 386 | 95.9 | /mnt/stockage/packages/f42/kf5-kirigami2-addons/po/eu/kirigami-addons.po | 
+ | [ka](/f42/language/ka) | 370 | 386 | 95.9 | /mnt/stockage/packages/f42/kf5-kirigami2-addons/po/ka/kirigami-addons.po | 
+ | [nl](/f42/language/nl) | 370 | 386 | 95.9 | /mnt/stockage/packages/f42/kf5-kirigami2-addons/po/nl/kirigami-addons.po | 
+ | [sl](/f42/language/sl) | 370 | 386 | 95.9 | /mnt/stockage/packages/f42/kf5-kirigami2-addons/po/sl/kirigami-addons.po | 
+ | [sv](/f42/language/sv) | 370 | 386 | 95.9 | /mnt/stockage/packages/f42/kf5-kirigami2-addons/po/sv/kirigami-addons.po | 
+ | [tr](/f42/language/tr) | 370 | 386 | 95.9 | /mnt/stockage/packages/f42/kf5-kirigami2-addons/po/tr/kirigami-addons.po | 
+ | [uk](/f42/language/uk) | 370 | 386 | 95.9 | /mnt/stockage/packages/f42/kf5-kirigami2-addons/po/uk/kirigami-addons.po | 
+ | [it](/f42/language/it) | 366 | 386 | 94.8 | /mnt/stockage/packages/f42/kf5-kirigami2-addons/po/it/kirigami-addons.po | 
+ | [ko](/f42/language/ko) | 366 | 386 | 94.8 | /mnt/stockage/packages/f42/kf5-kirigami2-addons/po/ko/kirigami-addons.po | 
+ | [pt_BR](/f42/language/pt_BR) | 366 | 386 | 94.8 | /mnt/stockage/packages/f42/kf5-kirigami2-addons/po/pt_BR/kirigami-addons.po | 
+ | [ta](/f42/language/ta) | 366 | 386 | 94.8 | /mnt/stockage/packages/f42/kf5-kirigami2-addons/po/ta/kirigami-addons.po | 
+ | [el](/f42/language/el) | 363 | 386 | 94.0 | /mnt/stockage/packages/f42/kf5-kirigami2-addons/po/el/kirigami-addons.po | 
+ | [fi](/f42/language/fi) | 363 | 386 | 94.0 | /mnt/stockage/packages/f42/kf5-kirigami2-addons/po/fi/kirigami-addons.po | 
+ | [pt](/f42/language/pt) | 363 | 386 | 94.0 | /mnt/stockage/packages/f42/kf5-kirigami2-addons/po/pt/kirigami-addons.po | 
+ | [zh_Hans](/f42/language/zh_Hans) | 363 | 386 | 94.0 | /mnt/stockage/packages/f42/kf5-kirigami2-addons/po/zh_CN/kirigami-addons.po | 
+ | [de](/f42/language/de) | 177 | 386 | 45.9 | /mnt/stockage/packages/f42/kf5-kirigami2-addons/po/de/kirigami-addons.po | 
+ | [cs](/f42/language/cs) | 93 | 386 | 24.1 | /mnt/stockage/packages/f42/kf5-kirigami2-addons/po/cs/kirigami-addons.po | 
+ | [ar](/f42/language/ar) | 91 | 386 | 23.6 | /mnt/stockage/packages/f42/kf5-kirigami2-addons/po/ar/kirigami-addons.po | 
+ | [en_GB](/f42/language/en_GB) | 91 | 386 | 23.6 | /mnt/stockage/packages/f42/kf5-kirigami2-addons/po/en_GB/kirigami-addons.po | 
+ | [fr](/f42/language/fr) | 91 | 386 | 23.6 | /mnt/stockage/packages/f42/kf5-kirigami2-addons/po/fr/kirigami-addons.po | 
+ | [gl](/f42/language/gl) | 91 | 386 | 23.6 | /mnt/stockage/packages/f42/kf5-kirigami2-addons/po/gl/kirigami-addons.po | 
+ | [ru](/f42/language/ru) | 91 | 386 | 23.6 | /mnt/stockage/packages/f42/kf5-kirigami2-addons/po/ru/kirigami-addons.po | 
+ | [zh_Hant](/f42/language/zh_Hant) | 33 | 386 | 8.5 | /mnt/stockage/packages/f42/kf5-kirigami2-addons/po/zh_TW/kirigami-addons.po | 
+ | [pl](/f42/language/pl) | 31 | 386 | 8.0 | /mnt/stockage/packages/f42/kf5-kirigami2-addons/po/pl/kirigami-addons.po | 
+ | [az](/f42/language/az) | 7 | 386 | 1.8 | /mnt/stockage/packages/f42/kf5-kirigami2-addons/po/az/kirigami-addons.po | 
+ | [bg](/f42/language/bg) | 7 | 386 | 1.8 | /mnt/stockage/packages/f42/kf5-kirigami2-addons/po/bg/kirigami-addons.po | 
+ | [ro](/f42/language/ro) | 7 | 386 | 1.8 | /mnt/stockage/packages/f42/kf5-kirigami2-addons/po/ro/kirigami-addons.po | 
+ | [sk](/f42/language/sk) | 7 | 386 | 1.8 | /mnt/stockage/packages/f42/kf5-kirigami2-addons/po/sk/kirigami-addons.po | 
+ | [hi](/f42/language/hi) | 5 | 386 | 1.3 | /mnt/stockage/packages/f42/kf5-kirigami2-addons/po/hi/kirigami-addons.po | 
+ | [hu](/f42/language/hu) | 5 | 386 | 1.3 | /mnt/stockage/packages/f42/kf5-kirigami2-addons/po/hu/kirigami-addons.po | 
+ | [ja](/f42/language/ja) | 0 | 386 | 0.0 | /mnt/stockage/packages/f42/kf5-kirigami2-addons/po/ja/kirigami-addons.po | 
+ | [lt](/f42/language/lt) | 0 | 386 | 0.0 | /mnt/stockage/packages/f42/kf5-kirigami2-addons/po/lt/kirigami-addons.po | 
 {.sortable}
 
 

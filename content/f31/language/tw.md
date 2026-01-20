@@ -38,75 +38,75 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [gjots2]({{< ref "/f31/package/gjots2.md" >}}) | 938 | 953 | 98.4 |  | 
- | [tuxpaint]({{< ref "/f31/package/tuxpaint.md" >}}) | 475 | 1591 | 29.9 |  | 
- | [anaconda]({{< ref "/f31/package/anaconda.md" >}}) | 0 | 7236 | 0.0 | Twi | 
- | [bookworm]({{< ref "/f31/package/bookworm.md" >}}) | 0 | 795 | 0.0 |  | 
- | [coin]({{< ref "/f31/package/coin.md" >}}) | 0 | 252 | 0.0 | none | 
- | [dippi]({{< ref "/f31/package/dippi.md" >}}) | 0 | 397 | 0.0 | none | 
- | [elementary-capnet-assist]({{< ref "/f31/package/elementary-capnet-assist.md" >}}) | 0 | 82 | 0.0 | none | 
- | [elementary-code]({{< ref "/f31/package/elementary-code.md" >}}) | 0 | 1151 | 0.0 | LANGUAGE <LL@li.org> | 
- | [elementary-files]({{< ref "/f31/package/elementary-files.md" >}}) | 0 | 2911 | 0.0 | LANGUAGE <LL@li.org> | 
- | [elementary-greeter]({{< ref "/f31/package/elementary-greeter.md" >}}) | 0 | 166 | 0.0 |  | 
- | [elementary-music]({{< ref "/f31/package/elementary-music.md" >}}) | 0 | 1308 | 0.0 | LANGUAGE <LL@li.org> | 
- | [elementary-photos]({{< ref "/f31/package/elementary-photos.md" >}}) | 0 | 3910 | 0.0 | LANGUAGE <LL@li.org> | 
- | [elementary-planner]({{< ref "/f31/package/elementary-planner.md" >}}) | 0 | 2639 | 0.0 | LANGUAGE <LL@li.org> | 
- | [elementary-screenshot-tool]({{< ref "/f31/package/elementary-screenshot-tool.md" >}}) | 0 | 212 | 0.0 | LANGUAGE <LL@li.org> | 
- | [elementary-shortcut-overlay]({{< ref "/f31/package/elementary-shortcut-overlay.md" >}}) | 0 | 95 | 0.0 | none | 
- | [elementary-sideload]({{< ref "/f31/package/elementary-sideload.md" >}}) | 0 | 224 | 0.0 | none | 
- | [elementary-terminal]({{< ref "/f31/package/elementary-terminal.md" >}}) | 0 | 442 | 0.0 |  | 
- | [elementary-videos]({{< ref "/f31/package/elementary-videos.md" >}}) | 0 | 346 | 0.0 |  | 
- | [entangle]({{< ref "/f31/package/entangle.md" >}}) | 0 | 953 | 0.0 | Twi | 
- | [gala]({{< ref "/f31/package/gala.md" >}}) | 0 | 140 | 0.0 | none | 
- | [granite]({{< ref "/f31/package/granite.md" >}}) | 0 | 269 | 0.0 |  | 
- | [harvey]({{< ref "/f31/package/harvey.md" >}}) | 0 | 57 | 0.0 | none | 
- | [initial-setup]({{< ref "/f31/package/initial-setup.md" >}}) | 0 | 33 | 0.0 | Twi | 
- | [libosinfo]({{< ref "/f31/package/libosinfo.md" >}}) | 0 | 777 | 0.0 | Twi | 
- | [libvirt]({{< ref "/f31/package/libvirt.md" >}}) | 0 | 64581 | 0.0 | Twi | 
- | [libvirt-glib]({{< ref "/f31/package/libvirt-glib.md" >}}) | 0 | 153 | 0.0 | Twi | 
- | [libvirt-sandbox]({{< ref "/f31/package/libvirt-sandbox.md" >}}) | 0 | 617 | 0.0 | Twi | 
- | [mingw-libosinfo]({{< ref "/f31/package/mingw-libosinfo.md" >}}) | 0 | 777 | 0.0 | Twi | 
- | [mingw-libvirt]({{< ref "/f31/package/mingw-libvirt.md" >}}) | 0 | 64090 | 0.0 | Twi | 
- | [mingw-libvirt-glib]({{< ref "/f31/package/mingw-libvirt-glib.md" >}}) | 0 | 153 | 0.0 | Twi | 
- | [mingw-osinfo-db-tools]({{< ref "/f31/package/mingw-osinfo-db-tools.md" >}}) | 0 | 222 | 0.0 | Twi | 
- | [nutty]({{< ref "/f31/package/nutty.md" >}}) | 0 | 608 | 0.0 |  | 
- | [optimizer]({{< ref "/f31/package/optimizer.md" >}}) | 0 | 282 | 0.0 | none | 
- | [osinfo-db-tools]({{< ref "/f31/package/osinfo-db-tools.md" >}}) | 0 | 222 | 0.0 | Twi | 
- | [pam]({{< ref "/f31/package/pam.md" >}}) | 0 | 597 | 0.0 | Twi | 
- | [pantheon-agent-geoclue2]({{< ref "/f31/package/pantheon-agent-geoclue2.md" >}}) | 0 | 101 | 0.0 | LANGUAGE <LL@li.org> | 
- | [pantheon-agent-polkit]({{< ref "/f31/package/pantheon-agent-polkit.md" >}}) | 0 | 48 | 0.0 | LANGUAGE <LL@li.org> | 
- | [pykickstart]({{< ref "/f31/package/pykickstart.md" >}}) | 0 | 1605 | 0.0 | Twi | 
- | [python-fedora]({{< ref "/f31/package/python-fedora.md" >}}) | 0 | 214 | 0.0 | Twi | 
- | [python-meh]({{< ref "/f31/package/python-meh.md" >}}) | 0 | 109 | 0.0 | Twi | 
- | [python-simpleline]({{< ref "/f31/package/python-simpleline.md" >}}) | 0 | 42 | 0.0 | Twi | 
- | [switchboard]({{< ref "/f31/package/switchboard.md" >}}) | 0 | 124 | 0.0 | LANGUAGE <LL@li.org> | 
- | [switchboard-plug-a11y]({{< ref "/f31/package/switchboard-plug-a11y.md" >}}) | 0 | 125 | 0.0 | LANGUAGE <LL@li.org> | 
- | [switchboard-plug-about]({{< ref "/f31/package/switchboard-plug-about.md" >}}) | 0 | 96 | 0.0 | LANGUAGE <LL@li.org> | 
- | [switchboard-plug-applications]({{< ref "/f31/package/switchboard-plug-applications.md" >}}) | 0 | 95 | 0.0 | none | 
- | [switchboard-plug-bluetooth]({{< ref "/f31/package/switchboard-plug-bluetooth.md" >}}) | 0 | 148 | 0.0 | none | 
- | [switchboard-plug-display]({{< ref "/f31/package/switchboard-plug-display.md" >}}) | 0 | 139 | 0.0 | LANGUAGE <LL@li.org> | 
- | [switchboard-plug-keyboard]({{< ref "/f31/package/switchboard-plug-keyboard.md" >}}) | 0 | 530 | 0.0 | none | 
- | [switchboard-plug-mouse-touchpad]({{< ref "/f31/package/switchboard-plug-mouse-touchpad.md" >}}) | 0 | 232 | 0.0 | none | 
- | [switchboard-plug-networking]({{< ref "/f31/package/switchboard-plug-networking.md" >}}) | 0 | 474 | 0.0 |  | 
- | [switchboard-plug-notifications]({{< ref "/f31/package/switchboard-plug-notifications.md" >}}) | 0 | 142 | 0.0 | none | 
- | [switchboard-plug-onlineaccounts]({{< ref "/f31/package/switchboard-plug-onlineaccounts.md" >}}) | 0 | 160 | 0.0 | none | 
- | [switchboard-plug-pantheon-shell]({{< ref "/f31/package/switchboard-plug-pantheon-shell.md" >}}) | 0 | 181 | 0.0 |  | 
- | [switchboard-plug-printers]({{< ref "/f31/package/switchboard-plug-printers.md" >}}) | 0 | 362 | 0.0 | LANGUAGE <LL@li.org> | 
- | [switchboard-plug-sharing]({{< ref "/f31/package/switchboard-plug-sharing.md" >}}) | 0 | 140 | 0.0 | none | 
- | [switchboard-plug-sound]({{< ref "/f31/package/switchboard-plug-sound.md" >}}) | 0 | 152 | 0.0 |  | 
- | [virt-viewer]({{< ref "/f31/package/virt-viewer.md" >}}) | 0 | 835 | 0.0 | Twi | 
- | [vocal]({{< ref "/f31/package/vocal.md" >}}) | 0 | 377 | 0.0 | Twi <tw@li.org> | 
- | [wingpanel]({{< ref "/f31/package/wingpanel.md" >}}) | 0 | 19 | 0.0 | none | 
- | [wingpanel-applications-menu]({{< ref "/f31/package/wingpanel-applications-menu.md" >}}) | 0 | 294 | 0.0 |  | 
- | [wingpanel-indicator-bluetooth]({{< ref "/f31/package/wingpanel-indicator-bluetooth.md" >}}) | 0 | 27 | 0.0 | none | 
- | [wingpanel-indicator-datetime]({{< ref "/f31/package/wingpanel-indicator-datetime.md" >}}) | 0 | 128 | 0.0 |  | 
- | [wingpanel-indicator-keyboard]({{< ref "/f31/package/wingpanel-indicator-keyboard.md" >}}) | 0 | 24 | 0.0 |  | 
- | [wingpanel-indicator-network]({{< ref "/f31/package/wingpanel-indicator-network.md" >}}) | 0 | 97 | 0.0 | none | 
- | [wingpanel-indicator-nightlight]({{< ref "/f31/package/wingpanel-indicator-nightlight.md" >}}) | 0 | 31 | 0.0 |  | 
- | [wingpanel-indicator-notifications]({{< ref "/f31/package/wingpanel-indicator-notifications.md" >}}) | 0 | 38 | 0.0 | none | 
- | [wingpanel-indicator-power]({{< ref "/f31/package/wingpanel-indicator-power.md" >}}) | 0 | 117 | 0.0 | none | 
- | [wingpanel-indicator-session]({{< ref "/f31/package/wingpanel-indicator-session.md" >}}) | 0 | 81 | 0.0 | none | 
- | [wingpanel-indicator-sound]({{< ref "/f31/package/wingpanel-indicator-sound.md" >}}) | 0 | 45 | 0.0 | none | 
+ | [gjots2](/f31/package/gjots2) | 938 | 953 | 98.4 |  | 
+ | [tuxpaint](/f31/package/tuxpaint) | 475 | 1591 | 29.9 |  | 
+ | [anaconda](/f31/package/anaconda) | 0 | 7236 | 0.0 | Twi | 
+ | [bookworm](/f31/package/bookworm) | 0 | 795 | 0.0 |  | 
+ | [coin](/f31/package/coin) | 0 | 252 | 0.0 | none | 
+ | [dippi](/f31/package/dippi) | 0 | 397 | 0.0 | none | 
+ | [elementary-capnet-assist](/f31/package/elementary-capnet-assist) | 0 | 82 | 0.0 | none | 
+ | [elementary-code](/f31/package/elementary-code) | 0 | 1151 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [elementary-files](/f31/package/elementary-files) | 0 | 2911 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [elementary-greeter](/f31/package/elementary-greeter) | 0 | 166 | 0.0 |  | 
+ | [elementary-music](/f31/package/elementary-music) | 0 | 1308 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [elementary-photos](/f31/package/elementary-photos) | 0 | 3910 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [elementary-planner](/f31/package/elementary-planner) | 0 | 2639 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [elementary-screenshot-tool](/f31/package/elementary-screenshot-tool) | 0 | 212 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [elementary-shortcut-overlay](/f31/package/elementary-shortcut-overlay) | 0 | 95 | 0.0 | none | 
+ | [elementary-sideload](/f31/package/elementary-sideload) | 0 | 224 | 0.0 | none | 
+ | [elementary-terminal](/f31/package/elementary-terminal) | 0 | 442 | 0.0 |  | 
+ | [elementary-videos](/f31/package/elementary-videos) | 0 | 346 | 0.0 |  | 
+ | [entangle](/f31/package/entangle) | 0 | 953 | 0.0 | Twi | 
+ | [gala](/f31/package/gala) | 0 | 140 | 0.0 | none | 
+ | [granite](/f31/package/granite) | 0 | 269 | 0.0 |  | 
+ | [harvey](/f31/package/harvey) | 0 | 57 | 0.0 | none | 
+ | [initial-setup](/f31/package/initial-setup) | 0 | 33 | 0.0 | Twi | 
+ | [libosinfo](/f31/package/libosinfo) | 0 | 777 | 0.0 | Twi | 
+ | [libvirt](/f31/package/libvirt) | 0 | 64581 | 0.0 | Twi | 
+ | [libvirt-glib](/f31/package/libvirt-glib) | 0 | 153 | 0.0 | Twi | 
+ | [libvirt-sandbox](/f31/package/libvirt-sandbox) | 0 | 617 | 0.0 | Twi | 
+ | [mingw-libosinfo](/f31/package/mingw-libosinfo) | 0 | 777 | 0.0 | Twi | 
+ | [mingw-libvirt](/f31/package/mingw-libvirt) | 0 | 64090 | 0.0 | Twi | 
+ | [mingw-libvirt-glib](/f31/package/mingw-libvirt-glib) | 0 | 153 | 0.0 | Twi | 
+ | [mingw-osinfo-db-tools](/f31/package/mingw-osinfo-db-tools) | 0 | 222 | 0.0 | Twi | 
+ | [nutty](/f31/package/nutty) | 0 | 608 | 0.0 |  | 
+ | [optimizer](/f31/package/optimizer) | 0 | 282 | 0.0 | none | 
+ | [osinfo-db-tools](/f31/package/osinfo-db-tools) | 0 | 222 | 0.0 | Twi | 
+ | [pam](/f31/package/pam) | 0 | 597 | 0.0 | Twi | 
+ | [pantheon-agent-geoclue2](/f31/package/pantheon-agent-geoclue2) | 0 | 101 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [pantheon-agent-polkit](/f31/package/pantheon-agent-polkit) | 0 | 48 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [pykickstart](/f31/package/pykickstart) | 0 | 1605 | 0.0 | Twi | 
+ | [python-fedora](/f31/package/python-fedora) | 0 | 214 | 0.0 | Twi | 
+ | [python-meh](/f31/package/python-meh) | 0 | 109 | 0.0 | Twi | 
+ | [python-simpleline](/f31/package/python-simpleline) | 0 | 42 | 0.0 | Twi | 
+ | [switchboard](/f31/package/switchboard) | 0 | 124 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [switchboard-plug-a11y](/f31/package/switchboard-plug-a11y) | 0 | 125 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [switchboard-plug-about](/f31/package/switchboard-plug-about) | 0 | 96 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [switchboard-plug-applications](/f31/package/switchboard-plug-applications) | 0 | 95 | 0.0 | none | 
+ | [switchboard-plug-bluetooth](/f31/package/switchboard-plug-bluetooth) | 0 | 148 | 0.0 | none | 
+ | [switchboard-plug-display](/f31/package/switchboard-plug-display) | 0 | 139 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [switchboard-plug-keyboard](/f31/package/switchboard-plug-keyboard) | 0 | 530 | 0.0 | none | 
+ | [switchboard-plug-mouse-touchpad](/f31/package/switchboard-plug-mouse-touchpad) | 0 | 232 | 0.0 | none | 
+ | [switchboard-plug-networking](/f31/package/switchboard-plug-networking) | 0 | 474 | 0.0 |  | 
+ | [switchboard-plug-notifications](/f31/package/switchboard-plug-notifications) | 0 | 142 | 0.0 | none | 
+ | [switchboard-plug-onlineaccounts](/f31/package/switchboard-plug-onlineaccounts) | 0 | 160 | 0.0 | none | 
+ | [switchboard-plug-pantheon-shell](/f31/package/switchboard-plug-pantheon-shell) | 0 | 181 | 0.0 |  | 
+ | [switchboard-plug-printers](/f31/package/switchboard-plug-printers) | 0 | 362 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [switchboard-plug-sharing](/f31/package/switchboard-plug-sharing) | 0 | 140 | 0.0 | none | 
+ | [switchboard-plug-sound](/f31/package/switchboard-plug-sound) | 0 | 152 | 0.0 |  | 
+ | [virt-viewer](/f31/package/virt-viewer) | 0 | 835 | 0.0 | Twi | 
+ | [vocal](/f31/package/vocal) | 0 | 377 | 0.0 | Twi <tw@li.org> | 
+ | [wingpanel](/f31/package/wingpanel) | 0 | 19 | 0.0 | none | 
+ | [wingpanel-applications-menu](/f31/package/wingpanel-applications-menu) | 0 | 294 | 0.0 |  | 
+ | [wingpanel-indicator-bluetooth](/f31/package/wingpanel-indicator-bluetooth) | 0 | 27 | 0.0 | none | 
+ | [wingpanel-indicator-datetime](/f31/package/wingpanel-indicator-datetime) | 0 | 128 | 0.0 |  | 
+ | [wingpanel-indicator-keyboard](/f31/package/wingpanel-indicator-keyboard) | 0 | 24 | 0.0 |  | 
+ | [wingpanel-indicator-network](/f31/package/wingpanel-indicator-network) | 0 | 97 | 0.0 | none | 
+ | [wingpanel-indicator-nightlight](/f31/package/wingpanel-indicator-nightlight) | 0 | 31 | 0.0 |  | 
+ | [wingpanel-indicator-notifications](/f31/package/wingpanel-indicator-notifications) | 0 | 38 | 0.0 | none | 
+ | [wingpanel-indicator-power](/f31/package/wingpanel-indicator-power) | 0 | 117 | 0.0 | none | 
+ | [wingpanel-indicator-session](/f31/package/wingpanel-indicator-session) | 0 | 81 | 0.0 | none | 
+ | [wingpanel-indicator-sound](/f31/package/wingpanel-indicator-sound) | 0 | 45 | 0.0 | none | 
 {.sortable}
 
 

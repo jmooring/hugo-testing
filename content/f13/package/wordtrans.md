@@ -18,11 +18,11 @@ The package wordtrans (version 1.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [es]({{< ref "/f13/language/es.md" >}}) | 1853 | 1853 | 100.0 | /mnt/stockage/packages/f13/wordtrans/po/es.po | 
- | [ca]({{< ref "/f13/language/ca.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f13/wordtrans/po/ca.po | 
- | [de]({{< ref "/f13/language/de.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f13/wordtrans/po/de.po | 
- | [fr]({{< ref "/f13/language/fr.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f13/wordtrans/po/fr.po | 
- | [it]({{< ref "/f13/language/it.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f13/wordtrans/po/it.po | 
+ | [es](/f13/language/es) | 1853 | 1853 | 100.0 | /mnt/stockage/packages/f13/wordtrans/po/es.po | 
+ | [ca](/f13/language/ca) | 0 | 0 | 0.0 | /mnt/stockage/packages/f13/wordtrans/po/ca.po | 
+ | [de](/f13/language/de) | 0 | 0 | 0.0 | /mnt/stockage/packages/f13/wordtrans/po/de.po | 
+ | [fr](/f13/language/fr) | 0 | 0 | 0.0 | /mnt/stockage/packages/f13/wordtrans/po/fr.po | 
+ | [it](/f13/language/it) | 0 | 0 | 0.0 | /mnt/stockage/packages/f13/wordtrans/po/it.po | 
 {.sortable}
 
 

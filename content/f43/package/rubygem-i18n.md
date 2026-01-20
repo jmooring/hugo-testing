@@ -18,7 +18,7 @@ The package rubygem-i18n (version 1.14.6):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f43/language/de.md" >}}) | 38 | 38 | 100.0 | /mnt/stockage/packages/f43/rubygem-i18n/test_data/locales/de.po | 
+ | [de](/f43/language/de) | 38 | 38 | 100.0 | /mnt/stockage/packages/f43/rubygem-i18n/test_data/locales/de.po | 
 {.sortable}
 
 

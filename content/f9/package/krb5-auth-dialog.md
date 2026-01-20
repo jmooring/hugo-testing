@@ -18,7 +18,7 @@ The package krb5-auth-dialog (version 0.7):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [nb_NO]({{< ref "/f9/language/nb_NO.md" >}}) | 83 | 3304 | 2.5 | /mnt/stockage/packages/f9/krb5-auth-dialog/po/nb.po | 
+ | [nb_NO](/f9/language/nb_NO) | 83 | 3304 | 2.5 | /mnt/stockage/packages/f9/krb5-auth-dialog/po/nb.po | 
 {.sortable}
 
 

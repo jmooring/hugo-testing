@@ -18,8 +18,8 @@ The package tilp_and_gfm (version 1.19):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f39/language/de.md" >}}) | 1433 | 1433 | 100.0 | /mnt/stockage/packages/f39/tilp_and_gfm/tilp/trunk/po/de.po | 
- | [fr]({{< ref "/f39/language/fr.md" >}}) | 1690 | 1690 | 100.0 | /mnt/stockage/packages/f39/tilp_and_gfm/gfm/trunk/po/fr.po/mnt/stockage/packages/f39/tilp_and_gfm/tilp/trunk/po/fr.po | 
+ | [de](/f39/language/de) | 1433 | 1433 | 100.0 | /mnt/stockage/packages/f39/tilp_and_gfm/tilp/trunk/po/de.po | 
+ | [fr](/f39/language/fr) | 1690 | 1690 | 100.0 | /mnt/stockage/packages/f39/tilp_and_gfm/gfm/trunk/po/fr.po/mnt/stockage/packages/f39/tilp_and_gfm/tilp/trunk/po/fr.po | 
 {.sortable}
 
 

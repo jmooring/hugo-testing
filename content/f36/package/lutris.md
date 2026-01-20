@@ -18,17 +18,17 @@ The package lutris (version 0.5.12):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fi]({{< ref "/f36/language/fi.md" >}}) | 190 | 190 | 100.0 | /mnt/stockage/packages/f36/lutris/po/fi.po | 
- | [fr]({{< ref "/f36/language/fr.md" >}}) | 6656 | 6656 | 100.0 | /mnt/stockage/packages/f36/lutris/po/fr.po | 
- | [hr]({{< ref "/f36/language/hr.md" >}}) | 6656 | 6656 | 100.0 | /mnt/stockage/packages/f36/lutris/po/hr.po | 
- | [ko]({{< ref "/f36/language/ko.md" >}}) | 190 | 190 | 100.0 | /mnt/stockage/packages/f36/lutris/po/ko.po | 
- | [nl]({{< ref "/f36/language/nl.md" >}}) | 6812 | 6812 | 100.0 | /mnt/stockage/packages/f36/lutris/po/nl.po | 
- | [zh_Hans]({{< ref "/f36/language/zh_Hans.md" >}}) | 6824 | 6824 | 100.0 | /mnt/stockage/packages/f36/lutris/po/zh_CN.po | 
- | [es]({{< ref "/f36/language/es.md" >}}) | 6558 | 6656 | 98.5 | /mnt/stockage/packages/f36/lutris/po/es.po | 
- | [de]({{< ref "/f36/language/de.md" >}}) | 6229 | 6656 | 93.6 | /mnt/stockage/packages/f36/lutris/po/de.po | 
- | [pt_BR]({{< ref "/f36/language/pt_BR.md" >}}) | 5856 | 6656 | 88.0 | /mnt/stockage/packages/f36/lutris/po/pt_BR.po | 
- | [ru]({{< ref "/f36/language/ru.md" >}}) | 4583 | 6656 | 68.9 | /mnt/stockage/packages/f36/lutris/po/ru.po | 
- | [tr]({{< ref "/f36/language/tr.md" >}}) | 123 | 6656 | 1.8 | /mnt/stockage/packages/f36/lutris/po/tr.po | 
+ | [fi](/f36/language/fi) | 190 | 190 | 100.0 | /mnt/stockage/packages/f36/lutris/po/fi.po | 
+ | [fr](/f36/language/fr) | 6656 | 6656 | 100.0 | /mnt/stockage/packages/f36/lutris/po/fr.po | 
+ | [hr](/f36/language/hr) | 6656 | 6656 | 100.0 | /mnt/stockage/packages/f36/lutris/po/hr.po | 
+ | [ko](/f36/language/ko) | 190 | 190 | 100.0 | /mnt/stockage/packages/f36/lutris/po/ko.po | 
+ | [nl](/f36/language/nl) | 6812 | 6812 | 100.0 | /mnt/stockage/packages/f36/lutris/po/nl.po | 
+ | [zh_Hans](/f36/language/zh_Hans) | 6824 | 6824 | 100.0 | /mnt/stockage/packages/f36/lutris/po/zh_CN.po | 
+ | [es](/f36/language/es) | 6558 | 6656 | 98.5 | /mnt/stockage/packages/f36/lutris/po/es.po | 
+ | [de](/f36/language/de) | 6229 | 6656 | 93.6 | /mnt/stockage/packages/f36/lutris/po/de.po | 
+ | [pt_BR](/f36/language/pt_BR) | 5856 | 6656 | 88.0 | /mnt/stockage/packages/f36/lutris/po/pt_BR.po | 
+ | [ru](/f36/language/ru) | 4583 | 6656 | 68.9 | /mnt/stockage/packages/f36/lutris/po/ru.po | 
+ | [tr](/f36/language/tr) | 123 | 6656 | 1.8 | /mnt/stockage/packages/f36/lutris/po/tr.po | 
 {.sortable}
 
 

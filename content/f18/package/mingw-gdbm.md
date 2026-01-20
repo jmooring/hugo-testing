@@ -18,11 +18,11 @@ The package mingw-gdbm (version 1.10):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fi]({{< ref "/f18/language/fi.md" >}}) | 475 | 483 | 98.3 | /mnt/stockage/packages/f18/mingw-gdbm/po/fi.po | 
- | [ja]({{< ref "/f18/language/ja.md" >}}) | 475 | 483 | 98.3 | /mnt/stockage/packages/f18/mingw-gdbm/po/ja.po | 
- | [pl]({{< ref "/f18/language/pl.md" >}}) | 475 | 483 | 98.3 | /mnt/stockage/packages/f18/mingw-gdbm/po/pl.po | 
- | [uk]({{< ref "/f18/language/uk.md" >}}) | 475 | 483 | 98.3 | /mnt/stockage/packages/f18/mingw-gdbm/po/uk.po | 
- | [de]({{< ref "/f18/language/de.md" >}}) | 447 | 483 | 92.5 | /mnt/stockage/packages/f18/mingw-gdbm/po/de.po | 
+ | [fi](/f18/language/fi) | 475 | 483 | 98.3 | /mnt/stockage/packages/f18/mingw-gdbm/po/fi.po | 
+ | [ja](/f18/language/ja) | 475 | 483 | 98.3 | /mnt/stockage/packages/f18/mingw-gdbm/po/ja.po | 
+ | [pl](/f18/language/pl) | 475 | 483 | 98.3 | /mnt/stockage/packages/f18/mingw-gdbm/po/pl.po | 
+ | [uk](/f18/language/uk) | 475 | 483 | 98.3 | /mnt/stockage/packages/f18/mingw-gdbm/po/uk.po | 
+ | [de](/f18/language/de) | 447 | 483 | 92.5 | /mnt/stockage/packages/f18/mingw-gdbm/po/de.po | 
 {.sortable}
 
 

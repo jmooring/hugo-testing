@@ -18,21 +18,21 @@ The package gnuchess (version 6.2.6):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f30/language/de.md" >}}) | 1123 | 1123 | 100.0 | /mnt/stockage/packages/f30/gnuchess/po/de.po | 
- | [eo]({{< ref "/f30/language/eo.md" >}}) | 1123 | 1123 | 100.0 | /mnt/stockage/packages/f30/gnuchess/po/eo.po | 
- | [es]({{< ref "/f30/language/es.md" >}}) | 1123 | 1123 | 100.0 | /mnt/stockage/packages/f30/gnuchess/po/es.po | 
- | [nl]({{< ref "/f30/language/nl.md" >}}) | 1123 | 1123 | 100.0 | /mnt/stockage/packages/f30/gnuchess/po/nl.po | 
- | [pt_BR]({{< ref "/f30/language/pt_BR.md" >}}) | 1123 | 1123 | 100.0 | /mnt/stockage/packages/f30/gnuchess/po/pt_BR.po | 
- | [sv]({{< ref "/f30/language/sv.md" >}}) | 1123 | 1123 | 100.0 | /mnt/stockage/packages/f30/gnuchess/po/sv.po | 
- | [uk]({{< ref "/f30/language/uk.md" >}}) | 1123 | 1123 | 100.0 | /mnt/stockage/packages/f30/gnuchess/po/uk.po | 
- | [zh_Hans]({{< ref "/f30/language/zh_Hans.md" >}}) | 1123 | 1123 | 100.0 | /mnt/stockage/packages/f30/gnuchess/po/zh_CN.po | 
- | [sr]({{< ref "/f30/language/sr.md" >}}) | 1117 | 1123 | 99.5 | /mnt/stockage/packages/f30/gnuchess/po/sr.po | 
- | [nb_NO]({{< ref "/f30/language/nb_NO.md" >}}) | 1018 | 1123 | 90.7 | /mnt/stockage/packages/f30/gnuchess/po/nb.po | 
- | [vi]({{< ref "/f30/language/vi.md" >}}) | 1018 | 1123 | 90.7 | /mnt/stockage/packages/f30/gnuchess/po/vi.po | 
- | [da]({{< ref "/f30/language/da.md" >}}) | 1016 | 1123 | 90.5 | /mnt/stockage/packages/f30/gnuchess/po/da.po | 
- | [fr]({{< ref "/f30/language/fr.md" >}}) | 1016 | 1123 | 90.5 | /mnt/stockage/packages/f30/gnuchess/po/fr.po | 
- | [it]({{< ref "/f30/language/it.md" >}}) | 184 | 1123 | 16.4 | /mnt/stockage/packages/f30/gnuchess/po/it.po | 
- | [gl]({{< ref "/f30/language/gl.md" >}}) | 129 | 1123 | 11.5 | /mnt/stockage/packages/f30/gnuchess/po/gl.po | 
+ | [de](/f30/language/de) | 1123 | 1123 | 100.0 | /mnt/stockage/packages/f30/gnuchess/po/de.po | 
+ | [eo](/f30/language/eo) | 1123 | 1123 | 100.0 | /mnt/stockage/packages/f30/gnuchess/po/eo.po | 
+ | [es](/f30/language/es) | 1123 | 1123 | 100.0 | /mnt/stockage/packages/f30/gnuchess/po/es.po | 
+ | [nl](/f30/language/nl) | 1123 | 1123 | 100.0 | /mnt/stockage/packages/f30/gnuchess/po/nl.po | 
+ | [pt_BR](/f30/language/pt_BR) | 1123 | 1123 | 100.0 | /mnt/stockage/packages/f30/gnuchess/po/pt_BR.po | 
+ | [sv](/f30/language/sv) | 1123 | 1123 | 100.0 | /mnt/stockage/packages/f30/gnuchess/po/sv.po | 
+ | [uk](/f30/language/uk) | 1123 | 1123 | 100.0 | /mnt/stockage/packages/f30/gnuchess/po/uk.po | 
+ | [zh_Hans](/f30/language/zh_Hans) | 1123 | 1123 | 100.0 | /mnt/stockage/packages/f30/gnuchess/po/zh_CN.po | 
+ | [sr](/f30/language/sr) | 1117 | 1123 | 99.5 | /mnt/stockage/packages/f30/gnuchess/po/sr.po | 
+ | [nb_NO](/f30/language/nb_NO) | 1018 | 1123 | 90.7 | /mnt/stockage/packages/f30/gnuchess/po/nb.po | 
+ | [vi](/f30/language/vi) | 1018 | 1123 | 90.7 | /mnt/stockage/packages/f30/gnuchess/po/vi.po | 
+ | [da](/f30/language/da) | 1016 | 1123 | 90.5 | /mnt/stockage/packages/f30/gnuchess/po/da.po | 
+ | [fr](/f30/language/fr) | 1016 | 1123 | 90.5 | /mnt/stockage/packages/f30/gnuchess/po/fr.po | 
+ | [it](/f30/language/it) | 184 | 1123 | 16.4 | /mnt/stockage/packages/f30/gnuchess/po/it.po | 
+ | [gl](/f30/language/gl) | 129 | 1123 | 11.5 | /mnt/stockage/packages/f30/gnuchess/po/gl.po | 
 {.sortable}
 
 

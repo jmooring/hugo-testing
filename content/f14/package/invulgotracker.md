@@ -18,7 +18,7 @@ The package invulgotracker (version 1.07):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [da]({{< ref "/f14/language/da.md" >}}) | 403 | 410 | 98.3 | /mnt/stockage/packages/f14/invulgotracker/po/da.po | 
+ | [da](/f14/language/da) | 403 | 410 | 98.3 | /mnt/stockage/packages/f14/invulgotracker/po/da.po | 
 {.sortable}
 
 

@@ -18,17 +18,17 @@ The package common-lisp-controller (version 7.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f30/language/cs.md" >}}) | 57 | 57 | 100.0 | /mnt/stockage/packages/f30/common-lisp-controller/debian/po/cs.po | 
- | [de]({{< ref "/f30/language/de.md" >}}) | 57 | 57 | 100.0 | /mnt/stockage/packages/f30/common-lisp-controller/debian/po/de.po | 
- | [es]({{< ref "/f30/language/es.md" >}}) | 57 | 57 | 100.0 | /mnt/stockage/packages/f30/common-lisp-controller/debian/po/es.po | 
- | [fi]({{< ref "/f30/language/fi.md" >}}) | 57 | 57 | 100.0 | /mnt/stockage/packages/f30/common-lisp-controller/debian/po/fi.po | 
- | [fr]({{< ref "/f30/language/fr.md" >}}) | 57 | 57 | 100.0 | /mnt/stockage/packages/f30/common-lisp-controller/debian/po/fr.po | 
- | [gl]({{< ref "/f30/language/gl.md" >}}) | 57 | 57 | 100.0 | /mnt/stockage/packages/f30/common-lisp-controller/debian/po/gl.po | 
- | [pt]({{< ref "/f30/language/pt.md" >}}) | 57 | 57 | 100.0 | /mnt/stockage/packages/f30/common-lisp-controller/debian/po/pt.po | 
- | [ru]({{< ref "/f30/language/ru.md" >}}) | 57 | 57 | 100.0 | /mnt/stockage/packages/f30/common-lisp-controller/debian/po/ru.po | 
- | [sv]({{< ref "/f30/language/sv.md" >}}) | 57 | 57 | 100.0 | /mnt/stockage/packages/f30/common-lisp-controller/debian/po/sv.po | 
- | [vi]({{< ref "/f30/language/vi.md" >}}) | 57 | 57 | 100.0 | /mnt/stockage/packages/f30/common-lisp-controller/debian/po/vi.po | 
- | [nl]({{< ref "/f30/language/nl.md" >}}) | 5 | 57 | 8.8 | /mnt/stockage/packages/f30/common-lisp-controller/debian/po/nl.po | 
+ | [cs](/f30/language/cs) | 57 | 57 | 100.0 | /mnt/stockage/packages/f30/common-lisp-controller/debian/po/cs.po | 
+ | [de](/f30/language/de) | 57 | 57 | 100.0 | /mnt/stockage/packages/f30/common-lisp-controller/debian/po/de.po | 
+ | [es](/f30/language/es) | 57 | 57 | 100.0 | /mnt/stockage/packages/f30/common-lisp-controller/debian/po/es.po | 
+ | [fi](/f30/language/fi) | 57 | 57 | 100.0 | /mnt/stockage/packages/f30/common-lisp-controller/debian/po/fi.po | 
+ | [fr](/f30/language/fr) | 57 | 57 | 100.0 | /mnt/stockage/packages/f30/common-lisp-controller/debian/po/fr.po | 
+ | [gl](/f30/language/gl) | 57 | 57 | 100.0 | /mnt/stockage/packages/f30/common-lisp-controller/debian/po/gl.po | 
+ | [pt](/f30/language/pt) | 57 | 57 | 100.0 | /mnt/stockage/packages/f30/common-lisp-controller/debian/po/pt.po | 
+ | [ru](/f30/language/ru) | 57 | 57 | 100.0 | /mnt/stockage/packages/f30/common-lisp-controller/debian/po/ru.po | 
+ | [sv](/f30/language/sv) | 57 | 57 | 100.0 | /mnt/stockage/packages/f30/common-lisp-controller/debian/po/sv.po | 
+ | [vi](/f30/language/vi) | 57 | 57 | 100.0 | /mnt/stockage/packages/f30/common-lisp-controller/debian/po/vi.po | 
+ | [nl](/f30/language/nl) | 5 | 57 | 8.8 | /mnt/stockage/packages/f30/common-lisp-controller/debian/po/nl.po | 
 {.sortable}
 
 

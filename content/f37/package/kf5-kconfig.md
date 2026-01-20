@@ -18,98 +18,98 @@ The package kf5-kconfig (version 5.108.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f37/language/ar.md" >}}) | 289 | 289 | 100.0 | /mnt/stockage/packages/f37/kf5-kconfig/poqm/ar/kconfig5_qt.po | 
- | [az]({{< ref "/f37/language/az.md" >}}) | 289 | 289 | 100.0 | /mnt/stockage/packages/f37/kf5-kconfig/poqm/az/kconfig5_qt.po | 
- | [be]({{< ref "/f37/language/be.md" >}}) | 289 | 289 | 100.0 | /mnt/stockage/packages/f37/kf5-kconfig/poqm/be/kconfig5_qt.po | 
- | [bg]({{< ref "/f37/language/bg.md" >}}) | 289 | 289 | 100.0 | /mnt/stockage/packages/f37/kf5-kconfig/poqm/bg/kconfig5_qt.po | 
- | [ca]({{< ref "/f37/language/ca.md" >}}) | 289 | 289 | 100.0 | /mnt/stockage/packages/f37/kf5-kconfig/poqm/ca/kconfig5_qt.po | 
- | [ca@valencia]({{< ref "/f37/language/ca@valencia.md" >}}) | 289 | 289 | 100.0 | /mnt/stockage/packages/f37/kf5-kconfig/poqm/ca@valencia/kconfig5_qt.po | 
- | [cs]({{< ref "/f37/language/cs.md" >}}) | 289 | 289 | 100.0 | /mnt/stockage/packages/f37/kf5-kconfig/poqm/cs/kconfig5_qt.po | 
- | [de]({{< ref "/f37/language/de.md" >}}) | 289 | 289 | 100.0 | /mnt/stockage/packages/f37/kf5-kconfig/poqm/de/kconfig5_qt.po | 
- | [el]({{< ref "/f37/language/el.md" >}}) | 289 | 289 | 100.0 | /mnt/stockage/packages/f37/kf5-kconfig/poqm/el/kconfig5_qt.po | 
- | [en_GB]({{< ref "/f37/language/en_GB.md" >}}) | 289 | 289 | 100.0 | /mnt/stockage/packages/f37/kf5-kconfig/poqm/en_GB/kconfig5_qt.po | 
- | [es]({{< ref "/f37/language/es.md" >}}) | 289 | 289 | 100.0 | /mnt/stockage/packages/f37/kf5-kconfig/poqm/es/kconfig5_qt.po | 
- | [et]({{< ref "/f37/language/et.md" >}}) | 289 | 289 | 100.0 | /mnt/stockage/packages/f37/kf5-kconfig/poqm/et/kconfig5_qt.po | 
- | [eu]({{< ref "/f37/language/eu.md" >}}) | 289 | 289 | 100.0 | /mnt/stockage/packages/f37/kf5-kconfig/poqm/eu/kconfig5_qt.po | 
- | [fi]({{< ref "/f37/language/fi.md" >}}) | 289 | 289 | 100.0 | /mnt/stockage/packages/f37/kf5-kconfig/poqm/fi/kconfig5_qt.po | 
- | [fr]({{< ref "/f37/language/fr.md" >}}) | 289 | 289 | 100.0 | /mnt/stockage/packages/f37/kf5-kconfig/poqm/fr/kconfig5_qt.po | 
- | [gl]({{< ref "/f37/language/gl.md" >}}) | 289 | 289 | 100.0 | /mnt/stockage/packages/f37/kf5-kconfig/poqm/gl/kconfig5_qt.po | 
- | [ia]({{< ref "/f37/language/ia.md" >}}) | 289 | 289 | 100.0 | /mnt/stockage/packages/f37/kf5-kconfig/poqm/ia/kconfig5_qt.po | 
- | [id]({{< ref "/f37/language/id.md" >}}) | 289 | 289 | 100.0 | /mnt/stockage/packages/f37/kf5-kconfig/poqm/id/kconfig5_qt.po | 
- | [is]({{< ref "/f37/language/is.md" >}}) | 289 | 289 | 100.0 | /mnt/stockage/packages/f37/kf5-kconfig/poqm/is/kconfig5_qt.po | 
- | [it]({{< ref "/f37/language/it.md" >}}) | 289 | 289 | 100.0 | /mnt/stockage/packages/f37/kf5-kconfig/poqm/it/kconfig5_qt.po | 
- | [ka]({{< ref "/f37/language/ka.md" >}}) | 289 | 289 | 100.0 | /mnt/stockage/packages/f37/kf5-kconfig/poqm/ka/kconfig5_qt.po | 
- | [ko]({{< ref "/f37/language/ko.md" >}}) | 289 | 289 | 100.0 | /mnt/stockage/packages/f37/kf5-kconfig/poqm/ko/kconfig5_qt.po | 
- | [nl]({{< ref "/f37/language/nl.md" >}}) | 289 | 289 | 100.0 | /mnt/stockage/packages/f37/kf5-kconfig/poqm/nl/kconfig5_qt.po | 
- | [nn]({{< ref "/f37/language/nn.md" >}}) | 289 | 289 | 100.0 | /mnt/stockage/packages/f37/kf5-kconfig/poqm/nn/kconfig5_qt.po | 
- | [pl]({{< ref "/f37/language/pl.md" >}}) | 289 | 289 | 100.0 | /mnt/stockage/packages/f37/kf5-kconfig/poqm/pl/kconfig5_qt.po | 
- | [pt]({{< ref "/f37/language/pt.md" >}}) | 289 | 289 | 100.0 | /mnt/stockage/packages/f37/kf5-kconfig/poqm/pt/kconfig5_qt.po | 
- | [pt_BR]({{< ref "/f37/language/pt_BR.md" >}}) | 289 | 289 | 100.0 | /mnt/stockage/packages/f37/kf5-kconfig/poqm/pt_BR/kconfig5_qt.po | 
- | [ro]({{< ref "/f37/language/ro.md" >}}) | 289 | 289 | 100.0 | /mnt/stockage/packages/f37/kf5-kconfig/poqm/ro/kconfig5_qt.po | 
- | [ru]({{< ref "/f37/language/ru.md" >}}) | 289 | 289 | 100.0 | /mnt/stockage/packages/f37/kf5-kconfig/poqm/ru/kconfig5_qt.po | 
- | [sl]({{< ref "/f37/language/sl.md" >}}) | 289 | 289 | 100.0 | /mnt/stockage/packages/f37/kf5-kconfig/poqm/sl/kconfig5_qt.po | 
- | [sv]({{< ref "/f37/language/sv.md" >}}) | 289 | 289 | 100.0 | /mnt/stockage/packages/f37/kf5-kconfig/poqm/sv/kconfig5_qt.po | 
- | [ta]({{< ref "/f37/language/ta.md" >}}) | 289 | 289 | 100.0 | /mnt/stockage/packages/f37/kf5-kconfig/poqm/ta/kconfig5_qt.po | 
- | [tr]({{< ref "/f37/language/tr.md" >}}) | 289 | 289 | 100.0 | /mnt/stockage/packages/f37/kf5-kconfig/poqm/tr/kconfig5_qt.po | 
- | [uk]({{< ref "/f37/language/uk.md" >}}) | 289 | 289 | 100.0 | /mnt/stockage/packages/f37/kf5-kconfig/poqm/uk/kconfig5_qt.po | 
- | [vi]({{< ref "/f37/language/vi.md" >}}) | 289 | 289 | 100.0 | /mnt/stockage/packages/f37/kf5-kconfig/poqm/vi/kconfig5_qt.po | 
- | [zh_Hans]({{< ref "/f37/language/zh_Hans.md" >}}) | 289 | 289 | 100.0 | /mnt/stockage/packages/f37/kf5-kconfig/poqm/zh_CN/kconfig5_qt.po | 
- | [zh_Hant]({{< ref "/f37/language/zh_Hant.md" >}}) | 289 | 289 | 100.0 | /mnt/stockage/packages/f37/kf5-kconfig/poqm/zh_TW/kconfig5_qt.po | 
- | [hi]({{< ref "/f37/language/hi.md" >}}) | 285 | 289 | 98.6 | /mnt/stockage/packages/f37/kf5-kconfig/poqm/hi/kconfig5_qt.po | 
- | [hu]({{< ref "/f37/language/hu.md" >}}) | 285 | 289 | 98.6 | /mnt/stockage/packages/f37/kf5-kconfig/poqm/hu/kconfig5_qt.po | 
- | [sk]({{< ref "/f37/language/sk.md" >}}) | 285 | 289 | 98.6 | /mnt/stockage/packages/f37/kf5-kconfig/poqm/sk/kconfig5_qt.po | 
- | [sr]({{< ref "/f37/language/sr.md" >}}) | 259 | 270 | 95.9 | /mnt/stockage/packages/f37/kf5-kconfig/poqm/sr/kconfig5_qt.po | 
- | [sr@ijekavian]({{< ref "/f37/language/sr@ijekavian.md" >}}) | 259 | 270 | 95.9 | /mnt/stockage/packages/f37/kf5-kconfig/poqm/sr@ijekavian/kconfig5_qt.po | 
- | [sr@ijekavian_Latn]({{< ref "/f37/language/sr@ijekavian_Latn.md" >}}) | 259 | 270 | 95.9 | /mnt/stockage/packages/f37/kf5-kconfig/poqm/sr@ijekavianlatin/kconfig5_qt.po | 
- | [sr_Latn]({{< ref "/f37/language/sr_Latn.md" >}}) | 259 | 270 | 95.9 | /mnt/stockage/packages/f37/kf5-kconfig/poqm/sr@latin/kconfig5_qt.po | 
- | [da]({{< ref "/f37/language/da.md" >}}) | 260 | 289 | 90.0 | /mnt/stockage/packages/f37/kf5-kconfig/poqm/da/kconfig5_qt.po | 
- | [lt]({{< ref "/f37/language/lt.md" >}}) | 260 | 289 | 90.0 | /mnt/stockage/packages/f37/kf5-kconfig/poqm/lt/kconfig5_qt.po | 
- | [te]({{< ref "/f37/language/te.md" >}}) | 247 | 289 | 85.5 | /mnt/stockage/packages/f37/kf5-kconfig/poqm/te/kconfig5_qt.po | 
- | [tg]({{< ref "/f37/language/tg.md" >}}) | 247 | 289 | 85.5 | /mnt/stockage/packages/f37/kf5-kconfig/poqm/tg/kconfig5_qt.po | 
- | [gd]({{< ref "/f37/language/gd.md" >}}) | 239 | 289 | 82.7 | /mnt/stockage/packages/f37/kf5-kconfig/poqm/gd/kconfig5_qt.po | 
- | [bs]({{< ref "/f37/language/bs.md" >}}) | 218 | 289 | 75.4 | /mnt/stockage/packages/f37/kf5-kconfig/poqm/bs/kconfig5_qt.po | 
- | [nb_NO]({{< ref "/f37/language/nb_NO.md" >}}) | 218 | 289 | 75.4 | /mnt/stockage/packages/f37/kf5-kconfig/poqm/nb/kconfig5_qt.po | 
- | [nds]({{< ref "/f37/language/nds.md" >}}) | 218 | 289 | 75.4 | /mnt/stockage/packages/f37/kf5-kconfig/poqm/nds/kconfig5_qt.po | 
- | [pa]({{< ref "/f37/language/pa.md" >}}) | 172 | 289 | 59.5 | /mnt/stockage/packages/f37/kf5-kconfig/poqm/pa/kconfig5_qt.po | 
- | [kab]({{< ref "/f37/language/kab.md" >}}) | 128 | 289 | 44.3 | /mnt/stockage/packages/f37/kf5-kconfig/poqm/kab/kconfig5_qt.po | 
- | [ja]({{< ref "/f37/language/ja.md" >}}) | 92 | 289 | 31.8 | /mnt/stockage/packages/f37/kf5-kconfig/poqm/ja/kconfig5_qt.po | 
- | [eo]({{< ref "/f37/language/eo.md" >}}) | 50 | 289 | 17.3 | /mnt/stockage/packages/f37/kf5-kconfig/poqm/eo/kconfig5_qt.po | 
- | [af]({{< ref "/f37/language/af.md" >}}) | 0 | 289 | 0.0 | /mnt/stockage/packages/f37/kf5-kconfig/poqm/af/kconfig5_qt.po | 
- | [be_Latn]({{< ref "/f37/language/be_Latn.md" >}}) | 0 | 289 | 0.0 | /mnt/stockage/packages/f37/kf5-kconfig/poqm/be@latin/kconfig5_qt.po | 
- | [bn]({{< ref "/f37/language/bn.md" >}}) | 0 | 289 | 0.0 | /mnt/stockage/packages/f37/kf5-kconfig/poqm/bn/kconfig5_qt.po | 
- | [bn_IN]({{< ref "/f37/language/bn_IN.md" >}}) | 0 | 289 | 0.0 | /mnt/stockage/packages/f37/kf5-kconfig/poqm/bn_IN/kconfig5_qt.po | 
- | [br]({{< ref "/f37/language/br.md" >}}) | 0 | 289 | 0.0 | /mnt/stockage/packages/f37/kf5-kconfig/poqm/br/kconfig5_qt.po | 
- | [csb]({{< ref "/f37/language/csb.md" >}}) | 0 | 289 | 0.0 | /mnt/stockage/packages/f37/kf5-kconfig/poqm/csb/kconfig5_qt.po | 
- | [cy]({{< ref "/f37/language/cy.md" >}}) | 0 | 289 | 0.0 | /mnt/stockage/packages/f37/kf5-kconfig/poqm/cy/kconfig5_qt.po | 
- | [fa]({{< ref "/f37/language/fa.md" >}}) | 0 | 289 | 0.0 | /mnt/stockage/packages/f37/kf5-kconfig/poqm/fa/kconfig5_qt.po | 
- | [fy]({{< ref "/f37/language/fy.md" >}}) | 0 | 289 | 0.0 | /mnt/stockage/packages/f37/kf5-kconfig/poqm/fy/kconfig5_qt.po | 
- | [ga]({{< ref "/f37/language/ga.md" >}}) | 0 | 289 | 0.0 | /mnt/stockage/packages/f37/kf5-kconfig/poqm/ga/kconfig5_qt.po | 
- | [gu]({{< ref "/f37/language/gu.md" >}}) | 0 | 289 | 0.0 | /mnt/stockage/packages/f37/kf5-kconfig/poqm/gu/kconfig5_qt.po | 
- | [he]({{< ref "/f37/language/he.md" >}}) | 0 | 289 | 0.0 | /mnt/stockage/packages/f37/kf5-kconfig/poqm/he/kconfig5_qt.po | 
- | [hne]({{< ref "/f37/language/hne.md" >}}) | 0 | 289 | 0.0 | /mnt/stockage/packages/f37/kf5-kconfig/poqm/hne/kconfig5_qt.po | 
- | [hr]({{< ref "/f37/language/hr.md" >}}) | 0 | 289 | 0.0 | /mnt/stockage/packages/f37/kf5-kconfig/poqm/hr/kconfig5_qt.po | 
- | [hsb]({{< ref "/f37/language/hsb.md" >}}) | 0 | 289 | 0.0 | /mnt/stockage/packages/f37/kf5-kconfig/poqm/hsb/kconfig5_qt.po | 
- | [kk]({{< ref "/f37/language/kk.md" >}}) | 0 | 289 | 0.0 | /mnt/stockage/packages/f37/kf5-kconfig/poqm/kk/kconfig5_qt.po | 
- | [km]({{< ref "/f37/language/km.md" >}}) | 0 | 289 | 0.0 | /mnt/stockage/packages/f37/kf5-kconfig/poqm/km/kconfig5_qt.po | 
- | [kn]({{< ref "/f37/language/kn.md" >}}) | 0 | 289 | 0.0 | /mnt/stockage/packages/f37/kf5-kconfig/poqm/kn/kconfig5_qt.po | 
- | [ku]({{< ref "/f37/language/ku.md" >}}) | 0 | 289 | 0.0 | /mnt/stockage/packages/f37/kf5-kconfig/poqm/ku/kconfig5_qt.po | 
- | [lb]({{< ref "/f37/language/lb.md" >}}) | 0 | 289 | 0.0 | /mnt/stockage/packages/f37/kf5-kconfig/poqm/lb/kconfig5_qt.po | 
- | [lv]({{< ref "/f37/language/lv.md" >}}) | 0 | 289 | 0.0 | /mnt/stockage/packages/f37/kf5-kconfig/poqm/lv/kconfig5_qt.po | 
- | [mai]({{< ref "/f37/language/mai.md" >}}) | 0 | 289 | 0.0 | /mnt/stockage/packages/f37/kf5-kconfig/poqm/mai/kconfig5_qt.po | 
- | [mk]({{< ref "/f37/language/mk.md" >}}) | 0 | 289 | 0.0 | /mnt/stockage/packages/f37/kf5-kconfig/poqm/mk/kconfig5_qt.po | 
- | [ml]({{< ref "/f37/language/ml.md" >}}) | 0 | 289 | 0.0 | /mnt/stockage/packages/f37/kf5-kconfig/poqm/ml/kconfig5_qt.po | 
- | [mr]({{< ref "/f37/language/mr.md" >}}) | 0 | 289 | 0.0 | /mnt/stockage/packages/f37/kf5-kconfig/poqm/mr/kconfig5_qt.po | 
- | [ms]({{< ref "/f37/language/ms.md" >}}) | 0 | 289 | 0.0 | /mnt/stockage/packages/f37/kf5-kconfig/poqm/ms/kconfig5_qt.po | 
- | [ne]({{< ref "/f37/language/ne.md" >}}) | 0 | 289 | 0.0 | /mnt/stockage/packages/f37/kf5-kconfig/poqm/ne/kconfig5_qt.po | 
- | [or]({{< ref "/f37/language/or.md" >}}) | 0 | 289 | 0.0 | /mnt/stockage/packages/f37/kf5-kconfig/poqm/or/kconfig5_qt.po | 
- | [se]({{< ref "/f37/language/se.md" >}}) | 0 | 289 | 0.0 | /mnt/stockage/packages/f37/kf5-kconfig/poqm/se/kconfig5_qt.po | 
- | [si]({{< ref "/f37/language/si.md" >}}) | 0 | 289 | 0.0 | /mnt/stockage/packages/f37/kf5-kconfig/poqm/si/kconfig5_qt.po | 
- | [sq]({{< ref "/f37/language/sq.md" >}}) | 0 | 289 | 0.0 | /mnt/stockage/packages/f37/kf5-kconfig/poqm/sq/kconfig5_qt.po | 
- | [th]({{< ref "/f37/language/th.md" >}}) | 0 | 289 | 0.0 | /mnt/stockage/packages/f37/kf5-kconfig/poqm/th/kconfig5_qt.po | 
- | [ug]({{< ref "/f37/language/ug.md" >}}) | 0 | 289 | 0.0 | /mnt/stockage/packages/f37/kf5-kconfig/poqm/ug/kconfig5_qt.po | 
- | [uz]({{< ref "/f37/language/uz.md" >}}) | 0 | 578 | 0.0 | /mnt/stockage/packages/f37/kf5-kconfig/poqm/uz@cyrillic/kconfig5_qt.po/mnt/stockage/packages/f37/kf5-kconfig/poqm/uz/kconfig5_qt.po | 
- | [wa]({{< ref "/f37/language/wa.md" >}}) | 0 | 289 | 0.0 | /mnt/stockage/packages/f37/kf5-kconfig/poqm/wa/kconfig5_qt.po | 
- | [xh]({{< ref "/f37/language/xh.md" >}}) | 0 | 289 | 0.0 | /mnt/stockage/packages/f37/kf5-kconfig/poqm/xh/kconfig5_qt.po | 
+ | [ar](/f37/language/ar) | 289 | 289 | 100.0 | /mnt/stockage/packages/f37/kf5-kconfig/poqm/ar/kconfig5_qt.po | 
+ | [az](/f37/language/az) | 289 | 289 | 100.0 | /mnt/stockage/packages/f37/kf5-kconfig/poqm/az/kconfig5_qt.po | 
+ | [be](/f37/language/be) | 289 | 289 | 100.0 | /mnt/stockage/packages/f37/kf5-kconfig/poqm/be/kconfig5_qt.po | 
+ | [bg](/f37/language/bg) | 289 | 289 | 100.0 | /mnt/stockage/packages/f37/kf5-kconfig/poqm/bg/kconfig5_qt.po | 
+ | [ca](/f37/language/ca) | 289 | 289 | 100.0 | /mnt/stockage/packages/f37/kf5-kconfig/poqm/ca/kconfig5_qt.po | 
+ | [ca@valencia](/f37/language/ca@valencia) | 289 | 289 | 100.0 | /mnt/stockage/packages/f37/kf5-kconfig/poqm/ca@valencia/kconfig5_qt.po | 
+ | [cs](/f37/language/cs) | 289 | 289 | 100.0 | /mnt/stockage/packages/f37/kf5-kconfig/poqm/cs/kconfig5_qt.po | 
+ | [de](/f37/language/de) | 289 | 289 | 100.0 | /mnt/stockage/packages/f37/kf5-kconfig/poqm/de/kconfig5_qt.po | 
+ | [el](/f37/language/el) | 289 | 289 | 100.0 | /mnt/stockage/packages/f37/kf5-kconfig/poqm/el/kconfig5_qt.po | 
+ | [en_GB](/f37/language/en_GB) | 289 | 289 | 100.0 | /mnt/stockage/packages/f37/kf5-kconfig/poqm/en_GB/kconfig5_qt.po | 
+ | [es](/f37/language/es) | 289 | 289 | 100.0 | /mnt/stockage/packages/f37/kf5-kconfig/poqm/es/kconfig5_qt.po | 
+ | [et](/f37/language/et) | 289 | 289 | 100.0 | /mnt/stockage/packages/f37/kf5-kconfig/poqm/et/kconfig5_qt.po | 
+ | [eu](/f37/language/eu) | 289 | 289 | 100.0 | /mnt/stockage/packages/f37/kf5-kconfig/poqm/eu/kconfig5_qt.po | 
+ | [fi](/f37/language/fi) | 289 | 289 | 100.0 | /mnt/stockage/packages/f37/kf5-kconfig/poqm/fi/kconfig5_qt.po | 
+ | [fr](/f37/language/fr) | 289 | 289 | 100.0 | /mnt/stockage/packages/f37/kf5-kconfig/poqm/fr/kconfig5_qt.po | 
+ | [gl](/f37/language/gl) | 289 | 289 | 100.0 | /mnt/stockage/packages/f37/kf5-kconfig/poqm/gl/kconfig5_qt.po | 
+ | [ia](/f37/language/ia) | 289 | 289 | 100.0 | /mnt/stockage/packages/f37/kf5-kconfig/poqm/ia/kconfig5_qt.po | 
+ | [id](/f37/language/id) | 289 | 289 | 100.0 | /mnt/stockage/packages/f37/kf5-kconfig/poqm/id/kconfig5_qt.po | 
+ | [is](/f37/language/is) | 289 | 289 | 100.0 | /mnt/stockage/packages/f37/kf5-kconfig/poqm/is/kconfig5_qt.po | 
+ | [it](/f37/language/it) | 289 | 289 | 100.0 | /mnt/stockage/packages/f37/kf5-kconfig/poqm/it/kconfig5_qt.po | 
+ | [ka](/f37/language/ka) | 289 | 289 | 100.0 | /mnt/stockage/packages/f37/kf5-kconfig/poqm/ka/kconfig5_qt.po | 
+ | [ko](/f37/language/ko) | 289 | 289 | 100.0 | /mnt/stockage/packages/f37/kf5-kconfig/poqm/ko/kconfig5_qt.po | 
+ | [nl](/f37/language/nl) | 289 | 289 | 100.0 | /mnt/stockage/packages/f37/kf5-kconfig/poqm/nl/kconfig5_qt.po | 
+ | [nn](/f37/language/nn) | 289 | 289 | 100.0 | /mnt/stockage/packages/f37/kf5-kconfig/poqm/nn/kconfig5_qt.po | 
+ | [pl](/f37/language/pl) | 289 | 289 | 100.0 | /mnt/stockage/packages/f37/kf5-kconfig/poqm/pl/kconfig5_qt.po | 
+ | [pt](/f37/language/pt) | 289 | 289 | 100.0 | /mnt/stockage/packages/f37/kf5-kconfig/poqm/pt/kconfig5_qt.po | 
+ | [pt_BR](/f37/language/pt_BR) | 289 | 289 | 100.0 | /mnt/stockage/packages/f37/kf5-kconfig/poqm/pt_BR/kconfig5_qt.po | 
+ | [ro](/f37/language/ro) | 289 | 289 | 100.0 | /mnt/stockage/packages/f37/kf5-kconfig/poqm/ro/kconfig5_qt.po | 
+ | [ru](/f37/language/ru) | 289 | 289 | 100.0 | /mnt/stockage/packages/f37/kf5-kconfig/poqm/ru/kconfig5_qt.po | 
+ | [sl](/f37/language/sl) | 289 | 289 | 100.0 | /mnt/stockage/packages/f37/kf5-kconfig/poqm/sl/kconfig5_qt.po | 
+ | [sv](/f37/language/sv) | 289 | 289 | 100.0 | /mnt/stockage/packages/f37/kf5-kconfig/poqm/sv/kconfig5_qt.po | 
+ | [ta](/f37/language/ta) | 289 | 289 | 100.0 | /mnt/stockage/packages/f37/kf5-kconfig/poqm/ta/kconfig5_qt.po | 
+ | [tr](/f37/language/tr) | 289 | 289 | 100.0 | /mnt/stockage/packages/f37/kf5-kconfig/poqm/tr/kconfig5_qt.po | 
+ | [uk](/f37/language/uk) | 289 | 289 | 100.0 | /mnt/stockage/packages/f37/kf5-kconfig/poqm/uk/kconfig5_qt.po | 
+ | [vi](/f37/language/vi) | 289 | 289 | 100.0 | /mnt/stockage/packages/f37/kf5-kconfig/poqm/vi/kconfig5_qt.po | 
+ | [zh_Hans](/f37/language/zh_Hans) | 289 | 289 | 100.0 | /mnt/stockage/packages/f37/kf5-kconfig/poqm/zh_CN/kconfig5_qt.po | 
+ | [zh_Hant](/f37/language/zh_Hant) | 289 | 289 | 100.0 | /mnt/stockage/packages/f37/kf5-kconfig/poqm/zh_TW/kconfig5_qt.po | 
+ | [hi](/f37/language/hi) | 285 | 289 | 98.6 | /mnt/stockage/packages/f37/kf5-kconfig/poqm/hi/kconfig5_qt.po | 
+ | [hu](/f37/language/hu) | 285 | 289 | 98.6 | /mnt/stockage/packages/f37/kf5-kconfig/poqm/hu/kconfig5_qt.po | 
+ | [sk](/f37/language/sk) | 285 | 289 | 98.6 | /mnt/stockage/packages/f37/kf5-kconfig/poqm/sk/kconfig5_qt.po | 
+ | [sr](/f37/language/sr) | 259 | 270 | 95.9 | /mnt/stockage/packages/f37/kf5-kconfig/poqm/sr/kconfig5_qt.po | 
+ | [sr@ijekavian](/f37/language/sr@ijekavian) | 259 | 270 | 95.9 | /mnt/stockage/packages/f37/kf5-kconfig/poqm/sr@ijekavian/kconfig5_qt.po | 
+ | [sr@ijekavian_Latn](/f37/language/sr@ijekavian_Latn) | 259 | 270 | 95.9 | /mnt/stockage/packages/f37/kf5-kconfig/poqm/sr@ijekavianlatin/kconfig5_qt.po | 
+ | [sr_Latn](/f37/language/sr_Latn) | 259 | 270 | 95.9 | /mnt/stockage/packages/f37/kf5-kconfig/poqm/sr@latin/kconfig5_qt.po | 
+ | [da](/f37/language/da) | 260 | 289 | 90.0 | /mnt/stockage/packages/f37/kf5-kconfig/poqm/da/kconfig5_qt.po | 
+ | [lt](/f37/language/lt) | 260 | 289 | 90.0 | /mnt/stockage/packages/f37/kf5-kconfig/poqm/lt/kconfig5_qt.po | 
+ | [te](/f37/language/te) | 247 | 289 | 85.5 | /mnt/stockage/packages/f37/kf5-kconfig/poqm/te/kconfig5_qt.po | 
+ | [tg](/f37/language/tg) | 247 | 289 | 85.5 | /mnt/stockage/packages/f37/kf5-kconfig/poqm/tg/kconfig5_qt.po | 
+ | [gd](/f37/language/gd) | 239 | 289 | 82.7 | /mnt/stockage/packages/f37/kf5-kconfig/poqm/gd/kconfig5_qt.po | 
+ | [bs](/f37/language/bs) | 218 | 289 | 75.4 | /mnt/stockage/packages/f37/kf5-kconfig/poqm/bs/kconfig5_qt.po | 
+ | [nb_NO](/f37/language/nb_NO) | 218 | 289 | 75.4 | /mnt/stockage/packages/f37/kf5-kconfig/poqm/nb/kconfig5_qt.po | 
+ | [nds](/f37/language/nds) | 218 | 289 | 75.4 | /mnt/stockage/packages/f37/kf5-kconfig/poqm/nds/kconfig5_qt.po | 
+ | [pa](/f37/language/pa) | 172 | 289 | 59.5 | /mnt/stockage/packages/f37/kf5-kconfig/poqm/pa/kconfig5_qt.po | 
+ | [kab](/f37/language/kab) | 128 | 289 | 44.3 | /mnt/stockage/packages/f37/kf5-kconfig/poqm/kab/kconfig5_qt.po | 
+ | [ja](/f37/language/ja) | 92 | 289 | 31.8 | /mnt/stockage/packages/f37/kf5-kconfig/poqm/ja/kconfig5_qt.po | 
+ | [eo](/f37/language/eo) | 50 | 289 | 17.3 | /mnt/stockage/packages/f37/kf5-kconfig/poqm/eo/kconfig5_qt.po | 
+ | [af](/f37/language/af) | 0 | 289 | 0.0 | /mnt/stockage/packages/f37/kf5-kconfig/poqm/af/kconfig5_qt.po | 
+ | [be_Latn](/f37/language/be_Latn) | 0 | 289 | 0.0 | /mnt/stockage/packages/f37/kf5-kconfig/poqm/be@latin/kconfig5_qt.po | 
+ | [bn](/f37/language/bn) | 0 | 289 | 0.0 | /mnt/stockage/packages/f37/kf5-kconfig/poqm/bn/kconfig5_qt.po | 
+ | [bn_IN](/f37/language/bn_IN) | 0 | 289 | 0.0 | /mnt/stockage/packages/f37/kf5-kconfig/poqm/bn_IN/kconfig5_qt.po | 
+ | [br](/f37/language/br) | 0 | 289 | 0.0 | /mnt/stockage/packages/f37/kf5-kconfig/poqm/br/kconfig5_qt.po | 
+ | [csb](/f37/language/csb) | 0 | 289 | 0.0 | /mnt/stockage/packages/f37/kf5-kconfig/poqm/csb/kconfig5_qt.po | 
+ | [cy](/f37/language/cy) | 0 | 289 | 0.0 | /mnt/stockage/packages/f37/kf5-kconfig/poqm/cy/kconfig5_qt.po | 
+ | [fa](/f37/language/fa) | 0 | 289 | 0.0 | /mnt/stockage/packages/f37/kf5-kconfig/poqm/fa/kconfig5_qt.po | 
+ | [fy](/f37/language/fy) | 0 | 289 | 0.0 | /mnt/stockage/packages/f37/kf5-kconfig/poqm/fy/kconfig5_qt.po | 
+ | [ga](/f37/language/ga) | 0 | 289 | 0.0 | /mnt/stockage/packages/f37/kf5-kconfig/poqm/ga/kconfig5_qt.po | 
+ | [gu](/f37/language/gu) | 0 | 289 | 0.0 | /mnt/stockage/packages/f37/kf5-kconfig/poqm/gu/kconfig5_qt.po | 
+ | [he](/f37/language/he) | 0 | 289 | 0.0 | /mnt/stockage/packages/f37/kf5-kconfig/poqm/he/kconfig5_qt.po | 
+ | [hne](/f37/language/hne) | 0 | 289 | 0.0 | /mnt/stockage/packages/f37/kf5-kconfig/poqm/hne/kconfig5_qt.po | 
+ | [hr](/f37/language/hr) | 0 | 289 | 0.0 | /mnt/stockage/packages/f37/kf5-kconfig/poqm/hr/kconfig5_qt.po | 
+ | [hsb](/f37/language/hsb) | 0 | 289 | 0.0 | /mnt/stockage/packages/f37/kf5-kconfig/poqm/hsb/kconfig5_qt.po | 
+ | [kk](/f37/language/kk) | 0 | 289 | 0.0 | /mnt/stockage/packages/f37/kf5-kconfig/poqm/kk/kconfig5_qt.po | 
+ | [km](/f37/language/km) | 0 | 289 | 0.0 | /mnt/stockage/packages/f37/kf5-kconfig/poqm/km/kconfig5_qt.po | 
+ | [kn](/f37/language/kn) | 0 | 289 | 0.0 | /mnt/stockage/packages/f37/kf5-kconfig/poqm/kn/kconfig5_qt.po | 
+ | [ku](/f37/language/ku) | 0 | 289 | 0.0 | /mnt/stockage/packages/f37/kf5-kconfig/poqm/ku/kconfig5_qt.po | 
+ | [lb](/f37/language/lb) | 0 | 289 | 0.0 | /mnt/stockage/packages/f37/kf5-kconfig/poqm/lb/kconfig5_qt.po | 
+ | [lv](/f37/language/lv) | 0 | 289 | 0.0 | /mnt/stockage/packages/f37/kf5-kconfig/poqm/lv/kconfig5_qt.po | 
+ | [mai](/f37/language/mai) | 0 | 289 | 0.0 | /mnt/stockage/packages/f37/kf5-kconfig/poqm/mai/kconfig5_qt.po | 
+ | [mk](/f37/language/mk) | 0 | 289 | 0.0 | /mnt/stockage/packages/f37/kf5-kconfig/poqm/mk/kconfig5_qt.po | 
+ | [ml](/f37/language/ml) | 0 | 289 | 0.0 | /mnt/stockage/packages/f37/kf5-kconfig/poqm/ml/kconfig5_qt.po | 
+ | [mr](/f37/language/mr) | 0 | 289 | 0.0 | /mnt/stockage/packages/f37/kf5-kconfig/poqm/mr/kconfig5_qt.po | 
+ | [ms](/f37/language/ms) | 0 | 289 | 0.0 | /mnt/stockage/packages/f37/kf5-kconfig/poqm/ms/kconfig5_qt.po | 
+ | [ne](/f37/language/ne) | 0 | 289 | 0.0 | /mnt/stockage/packages/f37/kf5-kconfig/poqm/ne/kconfig5_qt.po | 
+ | [or](/f37/language/or) | 0 | 289 | 0.0 | /mnt/stockage/packages/f37/kf5-kconfig/poqm/or/kconfig5_qt.po | 
+ | [se](/f37/language/se) | 0 | 289 | 0.0 | /mnt/stockage/packages/f37/kf5-kconfig/poqm/se/kconfig5_qt.po | 
+ | [si](/f37/language/si) | 0 | 289 | 0.0 | /mnt/stockage/packages/f37/kf5-kconfig/poqm/si/kconfig5_qt.po | 
+ | [sq](/f37/language/sq) | 0 | 289 | 0.0 | /mnt/stockage/packages/f37/kf5-kconfig/poqm/sq/kconfig5_qt.po | 
+ | [th](/f37/language/th) | 0 | 289 | 0.0 | /mnt/stockage/packages/f37/kf5-kconfig/poqm/th/kconfig5_qt.po | 
+ | [ug](/f37/language/ug) | 0 | 289 | 0.0 | /mnt/stockage/packages/f37/kf5-kconfig/poqm/ug/kconfig5_qt.po | 
+ | [uz](/f37/language/uz) | 0 | 578 | 0.0 | /mnt/stockage/packages/f37/kf5-kconfig/poqm/uz@cyrillic/kconfig5_qt.po/mnt/stockage/packages/f37/kf5-kconfig/poqm/uz/kconfig5_qt.po | 
+ | [wa](/f37/language/wa) | 0 | 289 | 0.0 | /mnt/stockage/packages/f37/kf5-kconfig/poqm/wa/kconfig5_qt.po | 
+ | [xh](/f37/language/xh) | 0 | 289 | 0.0 | /mnt/stockage/packages/f37/kf5-kconfig/poqm/xh/kconfig5_qt.po | 
 {.sortable}
 
 

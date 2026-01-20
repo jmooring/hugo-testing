@@ -18,10 +18,10 @@ The package pcb (version 0.20140316):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [nl]({{< ref "/f25/language/nl.md" >}}) | 3175 | 3175 | 100.0 | /mnt/stockage/packages/f25/pcb/po/nl.po | 
- | [pt_BR]({{< ref "/f25/language/pt_BR.md" >}}) | 6349 | 6349 | 100.0 | /mnt/stockage/packages/f25/pcb/po/pt_BR.po | 
- | [ru]({{< ref "/f25/language/ru.md" >}}) | 4414 | 4414 | 100.0 | /mnt/stockage/packages/f25/pcb/po/ru.po | 
- | [fr]({{< ref "/f25/language/fr.md" >}}) | 1708 | 2765 | 61.8 | /mnt/stockage/packages/f25/pcb/po/fr.po | 
+ | [nl](/f25/language/nl) | 3175 | 3175 | 100.0 | /mnt/stockage/packages/f25/pcb/po/nl.po | 
+ | [pt_BR](/f25/language/pt_BR) | 6349 | 6349 | 100.0 | /mnt/stockage/packages/f25/pcb/po/pt_BR.po | 
+ | [ru](/f25/language/ru) | 4414 | 4414 | 100.0 | /mnt/stockage/packages/f25/pcb/po/ru.po | 
+ | [fr](/f25/language/fr) | 1708 | 2765 | 61.8 | /mnt/stockage/packages/f25/pcb/po/fr.po | 
 {.sortable}
 
 

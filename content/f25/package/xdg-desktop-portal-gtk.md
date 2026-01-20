@@ -18,19 +18,19 @@ The package xdg-desktop-portal-gtk (version 0.7):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f25/language/cs.md" >}}) | 53 | 53 | 100.0 | /mnt/stockage/packages/f25/xdg-desktop-portal-gtk/po/cs.po | 
- | [it]({{< ref "/f25/language/it.md" >}}) | 53 | 53 | 100.0 | /mnt/stockage/packages/f25/xdg-desktop-portal-gtk/po/it.po | 
- | [pl]({{< ref "/f25/language/pl.md" >}}) | 53 | 53 | 100.0 | /mnt/stockage/packages/f25/xdg-desktop-portal-gtk/po/pl.po | 
- | [pt_BR]({{< ref "/f25/language/pt_BR.md" >}}) | 53 | 53 | 100.0 | /mnt/stockage/packages/f25/xdg-desktop-portal-gtk/po/pt_BR.po | 
- | [de]({{< ref "/f25/language/de.md" >}}) | 51 | 53 | 96.2 | /mnt/stockage/packages/f25/xdg-desktop-portal-gtk/po/de.po | 
- | [fr]({{< ref "/f25/language/fr.md" >}}) | 51 | 53 | 96.2 | /mnt/stockage/packages/f25/xdg-desktop-portal-gtk/po/fr.po | 
- | [hu]({{< ref "/f25/language/hu.md" >}}) | 51 | 53 | 96.2 | /mnt/stockage/packages/f25/xdg-desktop-portal-gtk/po/hu.po | 
- | [sv]({{< ref "/f25/language/sv.md" >}}) | 51 | 53 | 96.2 | /mnt/stockage/packages/f25/xdg-desktop-portal-gtk/po/sv.po | 
- | [uk]({{< ref "/f25/language/uk.md" >}}) | 51 | 53 | 96.2 | /mnt/stockage/packages/f25/xdg-desktop-portal-gtk/po/uk.po | 
- | [sk]({{< ref "/f25/language/sk.md" >}}) | 22 | 53 | 41.5 | /mnt/stockage/packages/f25/xdg-desktop-portal-gtk/po/sk.po | 
- | [sr]({{< ref "/f25/language/sr.md" >}}) | 22 | 53 | 41.5 | /mnt/stockage/packages/f25/xdg-desktop-portal-gtk/po/sr.po | 
- | [zh_Hans]({{< ref "/f25/language/zh_Hans.md" >}}) | 22 | 53 | 41.5 | /mnt/stockage/packages/f25/xdg-desktop-portal-gtk/po/zh_CN.po | 
- | [es]({{< ref "/f25/language/es.md" >}}) | 6 | 53 | 11.3 | /mnt/stockage/packages/f25/xdg-desktop-portal-gtk/po/es.po | 
+ | [cs](/f25/language/cs) | 53 | 53 | 100.0 | /mnt/stockage/packages/f25/xdg-desktop-portal-gtk/po/cs.po | 
+ | [it](/f25/language/it) | 53 | 53 | 100.0 | /mnt/stockage/packages/f25/xdg-desktop-portal-gtk/po/it.po | 
+ | [pl](/f25/language/pl) | 53 | 53 | 100.0 | /mnt/stockage/packages/f25/xdg-desktop-portal-gtk/po/pl.po | 
+ | [pt_BR](/f25/language/pt_BR) | 53 | 53 | 100.0 | /mnt/stockage/packages/f25/xdg-desktop-portal-gtk/po/pt_BR.po | 
+ | [de](/f25/language/de) | 51 | 53 | 96.2 | /mnt/stockage/packages/f25/xdg-desktop-portal-gtk/po/de.po | 
+ | [fr](/f25/language/fr) | 51 | 53 | 96.2 | /mnt/stockage/packages/f25/xdg-desktop-portal-gtk/po/fr.po | 
+ | [hu](/f25/language/hu) | 51 | 53 | 96.2 | /mnt/stockage/packages/f25/xdg-desktop-portal-gtk/po/hu.po | 
+ | [sv](/f25/language/sv) | 51 | 53 | 96.2 | /mnt/stockage/packages/f25/xdg-desktop-portal-gtk/po/sv.po | 
+ | [uk](/f25/language/uk) | 51 | 53 | 96.2 | /mnt/stockage/packages/f25/xdg-desktop-portal-gtk/po/uk.po | 
+ | [sk](/f25/language/sk) | 22 | 53 | 41.5 | /mnt/stockage/packages/f25/xdg-desktop-portal-gtk/po/sk.po | 
+ | [sr](/f25/language/sr) | 22 | 53 | 41.5 | /mnt/stockage/packages/f25/xdg-desktop-portal-gtk/po/sr.po | 
+ | [zh_Hans](/f25/language/zh_Hans) | 22 | 53 | 41.5 | /mnt/stockage/packages/f25/xdg-desktop-portal-gtk/po/zh_CN.po | 
+ | [es](/f25/language/es) | 6 | 53 | 11.3 | /mnt/stockage/packages/f25/xdg-desktop-portal-gtk/po/es.po | 
 {.sortable}
 
 

@@ -18,18 +18,18 @@ The package schroot (version 1.6.5):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [en]({{< ref "/f23/language/en.md" >}}) | 1694 | 1694 | 100.0 | /mnt/stockage/packages/f23/schroot/po/en.po | 
- | [da]({{< ref "/f23/language/da.md" >}}) | 1689 | 1694 | 99.7 | /mnt/stockage/packages/f23/schroot/po/da.po | 
- | [de]({{< ref "/f23/language/de.md" >}}) | 1689 | 1694 | 99.7 | /mnt/stockage/packages/f23/schroot/po/de.po | 
- | [fr]({{< ref "/f23/language/fr.md" >}}) | 1689 | 1694 | 99.7 | /mnt/stockage/packages/f23/schroot/po/fr.po | 
- | [pt]({{< ref "/f23/language/pt.md" >}}) | 1689 | 1694 | 99.7 | /mnt/stockage/packages/f23/schroot/po/pt.po | 
- | [man]({{< ref "/f23/language/man.md" >}}) | 12149 | 12625 | 96.2 | /mnt/stockage/packages/f23/schroot/man/po/fr.po | 
- | [zh_Hans]({{< ref "/f23/language/zh_Hans.md" >}}) | 1568 | 1694 | 92.6 | /mnt/stockage/packages/f23/schroot/po/zh_CN.po | 
- | [it]({{< ref "/f23/language/it.md" >}}) | 1049 | 1694 | 61.9 | /mnt/stockage/packages/f23/schroot/po/it.po | 
- | [vi]({{< ref "/f23/language/vi.md" >}}) | 1042 | 1694 | 61.5 | /mnt/stockage/packages/f23/schroot/po/vi.po | 
- | [cs]({{< ref "/f23/language/cs.md" >}}) | 963 | 1694 | 56.8 | /mnt/stockage/packages/f23/schroot/po/cs.po | 
- | [eu]({{< ref "/f23/language/eu.md" >}}) | 758 | 1694 | 44.7 | /mnt/stockage/packages/f23/schroot/po/eu.po | 
- | [sv]({{< ref "/f23/language/sv.md" >}}) | 623 | 1694 | 36.8 | /mnt/stockage/packages/f23/schroot/po/sv.po | 
+ | [en](/f23/language/en) | 1694 | 1694 | 100.0 | /mnt/stockage/packages/f23/schroot/po/en.po | 
+ | [da](/f23/language/da) | 1689 | 1694 | 99.7 | /mnt/stockage/packages/f23/schroot/po/da.po | 
+ | [de](/f23/language/de) | 1689 | 1694 | 99.7 | /mnt/stockage/packages/f23/schroot/po/de.po | 
+ | [fr](/f23/language/fr) | 1689 | 1694 | 99.7 | /mnt/stockage/packages/f23/schroot/po/fr.po | 
+ | [pt](/f23/language/pt) | 1689 | 1694 | 99.7 | /mnt/stockage/packages/f23/schroot/po/pt.po | 
+ | [man](/f23/language/man) | 12149 | 12625 | 96.2 | /mnt/stockage/packages/f23/schroot/man/po/fr.po | 
+ | [zh_Hans](/f23/language/zh_Hans) | 1568 | 1694 | 92.6 | /mnt/stockage/packages/f23/schroot/po/zh_CN.po | 
+ | [it](/f23/language/it) | 1049 | 1694 | 61.9 | /mnt/stockage/packages/f23/schroot/po/it.po | 
+ | [vi](/f23/language/vi) | 1042 | 1694 | 61.5 | /mnt/stockage/packages/f23/schroot/po/vi.po | 
+ | [cs](/f23/language/cs) | 963 | 1694 | 56.8 | /mnt/stockage/packages/f23/schroot/po/cs.po | 
+ | [eu](/f23/language/eu) | 758 | 1694 | 44.7 | /mnt/stockage/packages/f23/schroot/po/eu.po | 
+ | [sv](/f23/language/sv) | 623 | 1694 | 36.8 | /mnt/stockage/packages/f23/schroot/po/sv.po | 
 {.sortable}
 
 

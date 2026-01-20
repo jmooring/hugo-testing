@@ -18,35 +18,35 @@ The package libappstream-glib (version 0.7.11):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f28/language/ca.md" >}}) | 456 | 456 | 100.0 | /mnt/stockage/packages/f28/libappstream-glib/po/ca.po | 
- | [cs]({{< ref "/f28/language/cs.md" >}}) | 456 | 456 | 100.0 | /mnt/stockage/packages/f28/libappstream-glib/po/cs.po | 
- | [da]({{< ref "/f28/language/da.md" >}}) | 206 | 206 | 100.0 | /mnt/stockage/packages/f28/libappstream-glib/po/da.po | 
- | [de]({{< ref "/f28/language/de.md" >}}) | 420 | 420 | 100.0 | /mnt/stockage/packages/f28/libappstream-glib/po/de.po | 
- | [en_GB]({{< ref "/f28/language/en_GB.md" >}}) | 413 | 413 | 100.0 | /mnt/stockage/packages/f28/libappstream-glib/data/tests/rpmbuild/en_GB.po/mnt/stockage/packages/f28/libappstream-glib/po/en_GB.po | 
- | [es]({{< ref "/f28/language/es.md" >}}) | 451 | 451 | 100.0 | /mnt/stockage/packages/f28/libappstream-glib/po/es.po | 
- | [fi]({{< ref "/f28/language/fi.md" >}}) | 99 | 99 | 100.0 | /mnt/stockage/packages/f28/libappstream-glib/po/fi.po | 
- | [fur]({{< ref "/f28/language/fur.md" >}}) | 451 | 451 | 100.0 | /mnt/stockage/packages/f28/libappstream-glib/po/fur.po | 
- | [gl]({{< ref "/f28/language/gl.md" >}}) | 303 | 303 | 100.0 | /mnt/stockage/packages/f28/libappstream-glib/po/gl.po | 
- | [hu]({{< ref "/f28/language/hu.md" >}}) | 451 | 451 | 100.0 | /mnt/stockage/packages/f28/libappstream-glib/po/hu.po | 
- | [id]({{< ref "/f28/language/id.md" >}}) | 451 | 451 | 100.0 | /mnt/stockage/packages/f28/libappstream-glib/po/id.po | 
- | [it]({{< ref "/f28/language/it.md" >}}) | 456 | 456 | 100.0 | /mnt/stockage/packages/f28/libappstream-glib/po/it.po | 
- | [ko]({{< ref "/f28/language/ko.md" >}}) | 405 | 405 | 100.0 | /mnt/stockage/packages/f28/libappstream-glib/po/ko.po | 
- | [lt]({{< ref "/f28/language/lt.md" >}}) | 456 | 456 | 100.0 | /mnt/stockage/packages/f28/libappstream-glib/po/lt.po | 
- | [oc]({{< ref "/f28/language/oc.md" >}}) | 211 | 211 | 100.0 | /mnt/stockage/packages/f28/libappstream-glib/po/oc.po | 
- | [pl]({{< ref "/f28/language/pl.md" >}}) | 456 | 456 | 100.0 | /mnt/stockage/packages/f28/libappstream-glib/po/pl.po | 
- | [pt]({{< ref "/f28/language/pt.md" >}}) | 306 | 306 | 100.0 | /mnt/stockage/packages/f28/libappstream-glib/po/pt.po | 
- | [pt_BR]({{< ref "/f28/language/pt_BR.md" >}}) | 451 | 451 | 100.0 | /mnt/stockage/packages/f28/libappstream-glib/po/pt_BR.po | 
- | [ru]({{< ref "/f28/language/ru.md" >}}) | 409 | 409 | 100.0 | /mnt/stockage/packages/f28/libappstream-glib/data/tests/rpmbuild/ru.po/mnt/stockage/packages/f28/libappstream-glib/po/ru.po | 
- | [sk]({{< ref "/f28/language/sk.md" >}}) | 392 | 392 | 100.0 | /mnt/stockage/packages/f28/libappstream-glib/po/sk.po | 
- | [sl]({{< ref "/f28/language/sl.md" >}}) | 206 | 206 | 100.0 | /mnt/stockage/packages/f28/libappstream-glib/po/sl.po | 
- | [sr]({{< ref "/f28/language/sr.md" >}}) | 391 | 391 | 100.0 | /mnt/stockage/packages/f28/libappstream-glib/po/sr.po | 
- | [sr_Latn]({{< ref "/f28/language/sr_Latn.md" >}}) | 306 | 306 | 100.0 | /mnt/stockage/packages/f28/libappstream-glib/po/sr@latin.po | 
- | [sv]({{< ref "/f28/language/sv.md" >}}) | 456 | 456 | 100.0 | /mnt/stockage/packages/f28/libappstream-glib/po/sv.po | 
- | [tr]({{< ref "/f28/language/tr.md" >}}) | 453 | 453 | 100.0 | /mnt/stockage/packages/f28/libappstream-glib/po/tr.po | 
- | [uk]({{< ref "/f28/language/uk.md" >}}) | 456 | 456 | 100.0 | /mnt/stockage/packages/f28/libappstream-glib/po/uk.po | 
- | [zh_Hant]({{< ref "/f28/language/zh_Hant.md" >}}) | 456 | 456 | 100.0 | /mnt/stockage/packages/f28/libappstream-glib/po/zh_TW.po | 
- | [fr]({{< ref "/f28/language/fr.md" >}}) | 433 | 440 | 98.4 | /mnt/stockage/packages/f28/libappstream-glib/po/fr.po | 
- | [zh_Hans]({{< ref "/f28/language/zh_Hans.md" >}}) | 428 | 435 | 98.4 | /mnt/stockage/packages/f28/libappstream-glib/po/zh_CN.po | 
+ | [ca](/f28/language/ca) | 456 | 456 | 100.0 | /mnt/stockage/packages/f28/libappstream-glib/po/ca.po | 
+ | [cs](/f28/language/cs) | 456 | 456 | 100.0 | /mnt/stockage/packages/f28/libappstream-glib/po/cs.po | 
+ | [da](/f28/language/da) | 206 | 206 | 100.0 | /mnt/stockage/packages/f28/libappstream-glib/po/da.po | 
+ | [de](/f28/language/de) | 420 | 420 | 100.0 | /mnt/stockage/packages/f28/libappstream-glib/po/de.po | 
+ | [en_GB](/f28/language/en_GB) | 413 | 413 | 100.0 | /mnt/stockage/packages/f28/libappstream-glib/data/tests/rpmbuild/en_GB.po/mnt/stockage/packages/f28/libappstream-glib/po/en_GB.po | 
+ | [es](/f28/language/es) | 451 | 451 | 100.0 | /mnt/stockage/packages/f28/libappstream-glib/po/es.po | 
+ | [fi](/f28/language/fi) | 99 | 99 | 100.0 | /mnt/stockage/packages/f28/libappstream-glib/po/fi.po | 
+ | [fur](/f28/language/fur) | 451 | 451 | 100.0 | /mnt/stockage/packages/f28/libappstream-glib/po/fur.po | 
+ | [gl](/f28/language/gl) | 303 | 303 | 100.0 | /mnt/stockage/packages/f28/libappstream-glib/po/gl.po | 
+ | [hu](/f28/language/hu) | 451 | 451 | 100.0 | /mnt/stockage/packages/f28/libappstream-glib/po/hu.po | 
+ | [id](/f28/language/id) | 451 | 451 | 100.0 | /mnt/stockage/packages/f28/libappstream-glib/po/id.po | 
+ | [it](/f28/language/it) | 456 | 456 | 100.0 | /mnt/stockage/packages/f28/libappstream-glib/po/it.po | 
+ | [ko](/f28/language/ko) | 405 | 405 | 100.0 | /mnt/stockage/packages/f28/libappstream-glib/po/ko.po | 
+ | [lt](/f28/language/lt) | 456 | 456 | 100.0 | /mnt/stockage/packages/f28/libappstream-glib/po/lt.po | 
+ | [oc](/f28/language/oc) | 211 | 211 | 100.0 | /mnt/stockage/packages/f28/libappstream-glib/po/oc.po | 
+ | [pl](/f28/language/pl) | 456 | 456 | 100.0 | /mnt/stockage/packages/f28/libappstream-glib/po/pl.po | 
+ | [pt](/f28/language/pt) | 306 | 306 | 100.0 | /mnt/stockage/packages/f28/libappstream-glib/po/pt.po | 
+ | [pt_BR](/f28/language/pt_BR) | 451 | 451 | 100.0 | /mnt/stockage/packages/f28/libappstream-glib/po/pt_BR.po | 
+ | [ru](/f28/language/ru) | 409 | 409 | 100.0 | /mnt/stockage/packages/f28/libappstream-glib/data/tests/rpmbuild/ru.po/mnt/stockage/packages/f28/libappstream-glib/po/ru.po | 
+ | [sk](/f28/language/sk) | 392 | 392 | 100.0 | /mnt/stockage/packages/f28/libappstream-glib/po/sk.po | 
+ | [sl](/f28/language/sl) | 206 | 206 | 100.0 | /mnt/stockage/packages/f28/libappstream-glib/po/sl.po | 
+ | [sr](/f28/language/sr) | 391 | 391 | 100.0 | /mnt/stockage/packages/f28/libappstream-glib/po/sr.po | 
+ | [sr_Latn](/f28/language/sr_Latn) | 306 | 306 | 100.0 | /mnt/stockage/packages/f28/libappstream-glib/po/sr@latin.po | 
+ | [sv](/f28/language/sv) | 456 | 456 | 100.0 | /mnt/stockage/packages/f28/libappstream-glib/po/sv.po | 
+ | [tr](/f28/language/tr) | 453 | 453 | 100.0 | /mnt/stockage/packages/f28/libappstream-glib/po/tr.po | 
+ | [uk](/f28/language/uk) | 456 | 456 | 100.0 | /mnt/stockage/packages/f28/libappstream-glib/po/uk.po | 
+ | [zh_Hant](/f28/language/zh_Hant) | 456 | 456 | 100.0 | /mnt/stockage/packages/f28/libappstream-glib/po/zh_TW.po | 
+ | [fr](/f28/language/fr) | 433 | 440 | 98.4 | /mnt/stockage/packages/f28/libappstream-glib/po/fr.po | 
+ | [zh_Hans](/f28/language/zh_Hans) | 428 | 435 | 98.4 | /mnt/stockage/packages/f28/libappstream-glib/po/zh_CN.po | 
 {.sortable}
 
 

@@ -18,33 +18,33 @@ The package sssd (version 2.7.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ko]({{< ref "/f36/language/ko.md" >}}) | 4309 | 4309 | 100.0 | /mnt/stockage/packages/f36/sssd/po/ko.po | 
- | [pl]({{< ref "/f36/language/pl.md" >}}) | 4309 | 4309 | 100.0 | /mnt/stockage/packages/f36/sssd/po/pl.po | 
- | [tr]({{< ref "/f36/language/tr.md" >}}) | 4309 | 4309 | 100.0 | /mnt/stockage/packages/f36/sssd/po/tr.po | 
- | [sv]({{< ref "/f36/language/sv.md" >}}) | 41552 | 42184 | 98.5 | /mnt/stockage/packages/f36/sssd/po/sv.po/mnt/stockage/packages/f36/sssd/src/man/po/sv.po | 
- | [uk]({{< ref "/f36/language/uk.md" >}}) | 41552 | 42184 | 98.5 | /mnt/stockage/packages/f36/sssd/po/uk.po/mnt/stockage/packages/f36/sssd/src/man/po/uk.po | 
- | [ru]({{< ref "/f36/language/ru.md" >}}) | 41337 | 42184 | 98.0 | /mnt/stockage/packages/f36/sssd/po/ru.po/mnt/stockage/packages/f36/sssd/src/man/po/ru.po | 
- | [es]({{< ref "/f36/language/es.md" >}}) | 28764 | 42184 | 68.2 | /mnt/stockage/packages/f36/sssd/po/es.po/mnt/stockage/packages/f36/sssd/src/man/po/es.po | 
- | [fr]({{< ref "/f36/language/fr.md" >}}) | 17941 | 42184 | 42.5 | /mnt/stockage/packages/f36/sssd/po/fr.po/mnt/stockage/packages/f36/sssd/src/man/po/fr.po | 
- | [de]({{< ref "/f36/language/de.md" >}}) | 16998 | 42184 | 40.3 | /mnt/stockage/packages/f36/sssd/po/de.po/mnt/stockage/packages/f36/sssd/src/man/po/de.po | 
- | [ja]({{< ref "/f36/language/ja.md" >}}) | 12436 | 42184 | 29.5 | /mnt/stockage/packages/f36/sssd/po/ja.po/mnt/stockage/packages/f36/sssd/src/man/po/ja.po | 
- | [ca]({{< ref "/f36/language/ca.md" >}}) | 8886 | 42184 | 21.1 | /mnt/stockage/packages/f36/sssd/po/ca.po/mnt/stockage/packages/f36/sssd/src/man/po/ca.po | 
- | [it]({{< ref "/f36/language/it.md" >}}) | 643 | 4309 | 14.9 | /mnt/stockage/packages/f36/sssd/po/it.po | 
- | [bg]({{< ref "/f36/language/bg.md" >}}) | 509 | 4309 | 11.8 | /mnt/stockage/packages/f36/sssd/po/bg.po | 
- | [cs]({{< ref "/f36/language/cs.md" >}}) | 4929 | 42184 | 11.7 | /mnt/stockage/packages/f36/sssd/po/cs.po/mnt/stockage/packages/f36/sssd/src/man/po/cs.po | 
- | [zh_Hans]({{< ref "/f36/language/zh_Hans.md" >}}) | 4339 | 42184 | 10.3 | /mnt/stockage/packages/f36/sssd/po/zh_CN.po/mnt/stockage/packages/f36/sssd/src/man/po/zh_CN.po | 
- | [id]({{< ref "/f36/language/id.md" >}}) | 230 | 4309 | 5.3 | /mnt/stockage/packages/f36/sssd/po/id.po | 
- | [nl]({{< ref "/f36/language/nl.md" >}}) | 2107 | 42184 | 5.0 | /mnt/stockage/packages/f36/sssd/po/nl.po/mnt/stockage/packages/f36/sssd/src/man/po/nl.po | 
- | [zh_Hant]({{< ref "/f36/language/zh_Hant.md" >}}) | 212 | 4309 | 4.9 | /mnt/stockage/packages/f36/sssd/po/zh_TW.po | 
- | [hu]({{< ref "/f36/language/hu.md" >}}) | 181 | 4309 | 4.2 | /mnt/stockage/packages/f36/sssd/po/hu.po | 
- | [pt]({{< ref "/f36/language/pt.md" >}}) | 1091 | 42184 | 2.6 | /mnt/stockage/packages/f36/sssd/po/pt.po/mnt/stockage/packages/f36/sssd/src/man/po/pt.po | 
- | [fi]({{< ref "/f36/language/fi.md" >}}) | 507 | 42184 | 1.2 | /mnt/stockage/packages/f36/sssd/po/fi.po/mnt/stockage/packages/f36/sssd/src/man/po/fi.po | 
- | [nb_NO]({{< ref "/f36/language/nb_NO.md" >}}) | 39 | 4309 | 0.9 | /mnt/stockage/packages/f36/sssd/po/nb.po | 
- | [eu]({{< ref "/f36/language/eu.md" >}}) | 114 | 42184 | 0.3 | /mnt/stockage/packages/f36/sssd/po/eu.po/mnt/stockage/packages/f36/sssd/src/man/po/eu.po | 
- | [lv]({{< ref "/f36/language/lv.md" >}}) | 87 | 37875 | 0.2 | /mnt/stockage/packages/f36/sssd/src/man/po/lv.po | 
- | [tg]({{< ref "/f36/language/tg.md" >}}) | 75 | 42184 | 0.2 | /mnt/stockage/packages/f36/sssd/po/tg.po/mnt/stockage/packages/f36/sssd/src/man/po/tg.po | 
- | [br]({{< ref "/f36/language/br.md" >}}) | 51 | 37875 | 0.1 | /mnt/stockage/packages/f36/sssd/src/man/po/br.po | 
- | [pt_BR]({{< ref "/f36/language/pt_BR.md" >}}) | 42 | 42184 | 0.1 | /mnt/stockage/packages/f36/sssd/po/pt_BR.po/mnt/stockage/packages/f36/sssd/src/man/po/pt_BR.po | 
+ | [ko](/f36/language/ko) | 4309 | 4309 | 100.0 | /mnt/stockage/packages/f36/sssd/po/ko.po | 
+ | [pl](/f36/language/pl) | 4309 | 4309 | 100.0 | /mnt/stockage/packages/f36/sssd/po/pl.po | 
+ | [tr](/f36/language/tr) | 4309 | 4309 | 100.0 | /mnt/stockage/packages/f36/sssd/po/tr.po | 
+ | [sv](/f36/language/sv) | 41552 | 42184 | 98.5 | /mnt/stockage/packages/f36/sssd/po/sv.po/mnt/stockage/packages/f36/sssd/src/man/po/sv.po | 
+ | [uk](/f36/language/uk) | 41552 | 42184 | 98.5 | /mnt/stockage/packages/f36/sssd/po/uk.po/mnt/stockage/packages/f36/sssd/src/man/po/uk.po | 
+ | [ru](/f36/language/ru) | 41337 | 42184 | 98.0 | /mnt/stockage/packages/f36/sssd/po/ru.po/mnt/stockage/packages/f36/sssd/src/man/po/ru.po | 
+ | [es](/f36/language/es) | 28764 | 42184 | 68.2 | /mnt/stockage/packages/f36/sssd/po/es.po/mnt/stockage/packages/f36/sssd/src/man/po/es.po | 
+ | [fr](/f36/language/fr) | 17941 | 42184 | 42.5 | /mnt/stockage/packages/f36/sssd/po/fr.po/mnt/stockage/packages/f36/sssd/src/man/po/fr.po | 
+ | [de](/f36/language/de) | 16998 | 42184 | 40.3 | /mnt/stockage/packages/f36/sssd/po/de.po/mnt/stockage/packages/f36/sssd/src/man/po/de.po | 
+ | [ja](/f36/language/ja) | 12436 | 42184 | 29.5 | /mnt/stockage/packages/f36/sssd/po/ja.po/mnt/stockage/packages/f36/sssd/src/man/po/ja.po | 
+ | [ca](/f36/language/ca) | 8886 | 42184 | 21.1 | /mnt/stockage/packages/f36/sssd/po/ca.po/mnt/stockage/packages/f36/sssd/src/man/po/ca.po | 
+ | [it](/f36/language/it) | 643 | 4309 | 14.9 | /mnt/stockage/packages/f36/sssd/po/it.po | 
+ | [bg](/f36/language/bg) | 509 | 4309 | 11.8 | /mnt/stockage/packages/f36/sssd/po/bg.po | 
+ | [cs](/f36/language/cs) | 4929 | 42184 | 11.7 | /mnt/stockage/packages/f36/sssd/po/cs.po/mnt/stockage/packages/f36/sssd/src/man/po/cs.po | 
+ | [zh_Hans](/f36/language/zh_Hans) | 4339 | 42184 | 10.3 | /mnt/stockage/packages/f36/sssd/po/zh_CN.po/mnt/stockage/packages/f36/sssd/src/man/po/zh_CN.po | 
+ | [id](/f36/language/id) | 230 | 4309 | 5.3 | /mnt/stockage/packages/f36/sssd/po/id.po | 
+ | [nl](/f36/language/nl) | 2107 | 42184 | 5.0 | /mnt/stockage/packages/f36/sssd/po/nl.po/mnt/stockage/packages/f36/sssd/src/man/po/nl.po | 
+ | [zh_Hant](/f36/language/zh_Hant) | 212 | 4309 | 4.9 | /mnt/stockage/packages/f36/sssd/po/zh_TW.po | 
+ | [hu](/f36/language/hu) | 181 | 4309 | 4.2 | /mnt/stockage/packages/f36/sssd/po/hu.po | 
+ | [pt](/f36/language/pt) | 1091 | 42184 | 2.6 | /mnt/stockage/packages/f36/sssd/po/pt.po/mnt/stockage/packages/f36/sssd/src/man/po/pt.po | 
+ | [fi](/f36/language/fi) | 507 | 42184 | 1.2 | /mnt/stockage/packages/f36/sssd/po/fi.po/mnt/stockage/packages/f36/sssd/src/man/po/fi.po | 
+ | [nb_NO](/f36/language/nb_NO) | 39 | 4309 | 0.9 | /mnt/stockage/packages/f36/sssd/po/nb.po | 
+ | [eu](/f36/language/eu) | 114 | 42184 | 0.3 | /mnt/stockage/packages/f36/sssd/po/eu.po/mnt/stockage/packages/f36/sssd/src/man/po/eu.po | 
+ | [lv](/f36/language/lv) | 87 | 37875 | 0.2 | /mnt/stockage/packages/f36/sssd/src/man/po/lv.po | 
+ | [tg](/f36/language/tg) | 75 | 42184 | 0.2 | /mnt/stockage/packages/f36/sssd/po/tg.po/mnt/stockage/packages/f36/sssd/src/man/po/tg.po | 
+ | [br](/f36/language/br) | 51 | 37875 | 0.1 | /mnt/stockage/packages/f36/sssd/src/man/po/br.po | 
+ | [pt_BR](/f36/language/pt_BR) | 42 | 42184 | 0.1 | /mnt/stockage/packages/f36/sssd/po/pt_BR.po/mnt/stockage/packages/f36/sssd/src/man/po/pt_BR.po | 
 {.sortable}
 
 

@@ -18,8 +18,8 @@ The package libticalcs2 (version 1.1.9):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f29/language/fr.md" >}}) | 1021 | 1021 | 100.0 | /mnt/stockage/packages/f29/libticalcs2/po/fr.po | 
- | [de]({{< ref "/f29/language/de.md" >}}) | 31 | 1021 | 3.0 | /mnt/stockage/packages/f29/libticalcs2/po/de.po | 
+ | [fr](/f29/language/fr) | 1021 | 1021 | 100.0 | /mnt/stockage/packages/f29/libticalcs2/po/fr.po | 
+ | [de](/f29/language/de) | 31 | 1021 | 3.0 | /mnt/stockage/packages/f29/libticalcs2/po/de.po | 
 {.sortable}
 
 

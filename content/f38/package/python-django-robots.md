@@ -18,19 +18,19 @@ The package python-django-robots (version 3.1.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f38/language/de.md" >}}) | 212 | 212 | 100.0 | /mnt/stockage/packages/f38/python-django-robots/robots/locale/de/LC_MESSAGES/django.po | 
- | [es]({{< ref "/f38/language/es.md" >}}) | 212 | 212 | 100.0 | /mnt/stockage/packages/f38/python-django-robots/robots/locale/es_ES/LC_MESSAGES/django.po | 
- | [fr]({{< ref "/f38/language/fr.md" >}}) | 212 | 212 | 100.0 | /mnt/stockage/packages/f38/python-django-robots/robots/locale/fr/LC_MESSAGES/django.po | 
- | [it]({{< ref "/f38/language/it.md" >}}) | 212 | 212 | 100.0 | /mnt/stockage/packages/f38/python-django-robots/robots/locale/it/LC_MESSAGES/django.po | 
- | [pt_BR]({{< ref "/f38/language/pt_BR.md" >}}) | 212 | 212 | 100.0 | /mnt/stockage/packages/f38/python-django-robots/robots/locale/pt_BR/LC_MESSAGES/django.po | 
- | [da]({{< ref "/f38/language/da.md" >}}) | 211 | 212 | 99.5 | /mnt/stockage/packages/f38/python-django-robots/robots/locale/da/LC_MESSAGES/django.po | 
- | [nl]({{< ref "/f38/language/nl.md" >}}) | 211 | 212 | 99.5 | /mnt/stockage/packages/f38/python-django-robots/robots/locale/nl/LC_MESSAGES/django.po | 
- | [ru]({{< ref "/f38/language/ru.md" >}}) | 211 | 212 | 99.5 | /mnt/stockage/packages/f38/python-django-robots/robots/locale/ru/LC_MESSAGES/django.po | 
- | [el]({{< ref "/f38/language/el.md" >}}) | 122 | 212 | 57.5 | /mnt/stockage/packages/f38/python-django-robots/robots/locale/el/LC_MESSAGES/django.po | 
- | [ja]({{< ref "/f38/language/ja.md" >}}) | 44 | 212 | 20.8 | /mnt/stockage/packages/f38/python-django-robots/robots/locale/ja/LC_MESSAGES/django.po | 
- | [uk]({{< ref "/f38/language/uk.md" >}}) | 44 | 212 | 20.8 | /mnt/stockage/packages/f38/python-django-robots/robots/locale/uk/LC_MESSAGES/django.po | 
- | [sk]({{< ref "/f38/language/sk.md" >}}) | 32 | 212 | 15.1 | /mnt/stockage/packages/f38/python-django-robots/robots/locale/sk/LC_MESSAGES/django.po | 
- | [en]({{< ref "/f38/language/en.md" >}}) | 0 | 212 | 0.0 | /mnt/stockage/packages/f38/python-django-robots/robots/locale/en/LC_MESSAGES/django.po | 
+ | [de](/f38/language/de) | 212 | 212 | 100.0 | /mnt/stockage/packages/f38/python-django-robots/robots/locale/de/LC_MESSAGES/django.po | 
+ | [es](/f38/language/es) | 212 | 212 | 100.0 | /mnt/stockage/packages/f38/python-django-robots/robots/locale/es_ES/LC_MESSAGES/django.po | 
+ | [fr](/f38/language/fr) | 212 | 212 | 100.0 | /mnt/stockage/packages/f38/python-django-robots/robots/locale/fr/LC_MESSAGES/django.po | 
+ | [it](/f38/language/it) | 212 | 212 | 100.0 | /mnt/stockage/packages/f38/python-django-robots/robots/locale/it/LC_MESSAGES/django.po | 
+ | [pt_BR](/f38/language/pt_BR) | 212 | 212 | 100.0 | /mnt/stockage/packages/f38/python-django-robots/robots/locale/pt_BR/LC_MESSAGES/django.po | 
+ | [da](/f38/language/da) | 211 | 212 | 99.5 | /mnt/stockage/packages/f38/python-django-robots/robots/locale/da/LC_MESSAGES/django.po | 
+ | [nl](/f38/language/nl) | 211 | 212 | 99.5 | /mnt/stockage/packages/f38/python-django-robots/robots/locale/nl/LC_MESSAGES/django.po | 
+ | [ru](/f38/language/ru) | 211 | 212 | 99.5 | /mnt/stockage/packages/f38/python-django-robots/robots/locale/ru/LC_MESSAGES/django.po | 
+ | [el](/f38/language/el) | 122 | 212 | 57.5 | /mnt/stockage/packages/f38/python-django-robots/robots/locale/el/LC_MESSAGES/django.po | 
+ | [ja](/f38/language/ja) | 44 | 212 | 20.8 | /mnt/stockage/packages/f38/python-django-robots/robots/locale/ja/LC_MESSAGES/django.po | 
+ | [uk](/f38/language/uk) | 44 | 212 | 20.8 | /mnt/stockage/packages/f38/python-django-robots/robots/locale/uk/LC_MESSAGES/django.po | 
+ | [sk](/f38/language/sk) | 32 | 212 | 15.1 | /mnt/stockage/packages/f38/python-django-robots/robots/locale/sk/LC_MESSAGES/django.po | 
+ | [en](/f38/language/en) | 0 | 212 | 0.0 | /mnt/stockage/packages/f38/python-django-robots/robots/locale/en/LC_MESSAGES/django.po | 
 {.sortable}
 
 

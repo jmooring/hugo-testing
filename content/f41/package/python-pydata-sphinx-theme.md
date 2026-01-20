@@ -18,13 +18,13 @@ The package python-pydata-sphinx-theme (version 0.15.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f41/language/ca.md" >}}) | 76 | 76 | 100.0 | /mnt/stockage/packages/f41/python-pydata-sphinx-theme/src/pydata_sphinx_theme/locale/ca/LC_MESSAGES/sphinx.po | 
- | [es]({{< ref "/f41/language/es.md" >}}) | 76 | 76 | 100.0 | /mnt/stockage/packages/f41/python-pydata-sphinx-theme/src/pydata_sphinx_theme/locale/es/LC_MESSAGES/sphinx.po | 
- | [it]({{< ref "/f41/language/it.md" >}}) | 76 | 76 | 100.0 | /mnt/stockage/packages/f41/python-pydata-sphinx-theme/src/pydata_sphinx_theme/locale/it/LC_MESSAGES/sphinx.po | 
- | [fr]({{< ref "/f41/language/fr.md" >}}) | 74 | 76 | 97.4 | /mnt/stockage/packages/f41/python-pydata-sphinx-theme/src/pydata_sphinx_theme/locale/fr/LC_MESSAGES/sphinx.po | 
- | [cs]({{< ref "/f41/language/cs.md" >}}) | 65 | 76 | 85.5 | /mnt/stockage/packages/f41/python-pydata-sphinx-theme/src/pydata_sphinx_theme/locale/cs/LC_MESSAGES/sphinx.po | 
- | [ru]({{< ref "/f41/language/ru.md" >}}) | 61 | 76 | 80.3 | /mnt/stockage/packages/f41/python-pydata-sphinx-theme/src/pydata_sphinx_theme/locale/ru/LC_MESSAGES/sphinx.po | 
- | [en]({{< ref "/f41/language/en.md" >}}) | 0 | 76 | 0.0 | /mnt/stockage/packages/f41/python-pydata-sphinx-theme/src/pydata_sphinx_theme/locale/en/LC_MESSAGES/sphinx.po | 
+ | [ca](/f41/language/ca) | 76 | 76 | 100.0 | /mnt/stockage/packages/f41/python-pydata-sphinx-theme/src/pydata_sphinx_theme/locale/ca/LC_MESSAGES/sphinx.po | 
+ | [es](/f41/language/es) | 76 | 76 | 100.0 | /mnt/stockage/packages/f41/python-pydata-sphinx-theme/src/pydata_sphinx_theme/locale/es/LC_MESSAGES/sphinx.po | 
+ | [it](/f41/language/it) | 76 | 76 | 100.0 | /mnt/stockage/packages/f41/python-pydata-sphinx-theme/src/pydata_sphinx_theme/locale/it/LC_MESSAGES/sphinx.po | 
+ | [fr](/f41/language/fr) | 74 | 76 | 97.4 | /mnt/stockage/packages/f41/python-pydata-sphinx-theme/src/pydata_sphinx_theme/locale/fr/LC_MESSAGES/sphinx.po | 
+ | [cs](/f41/language/cs) | 65 | 76 | 85.5 | /mnt/stockage/packages/f41/python-pydata-sphinx-theme/src/pydata_sphinx_theme/locale/cs/LC_MESSAGES/sphinx.po | 
+ | [ru](/f41/language/ru) | 61 | 76 | 80.3 | /mnt/stockage/packages/f41/python-pydata-sphinx-theme/src/pydata_sphinx_theme/locale/ru/LC_MESSAGES/sphinx.po | 
+ | [en](/f41/language/en) | 0 | 76 | 0.0 | /mnt/stockage/packages/f41/python-pydata-sphinx-theme/src/pydata_sphinx_theme/locale/en/LC_MESSAGES/sphinx.po | 
 {.sortable}
 
 

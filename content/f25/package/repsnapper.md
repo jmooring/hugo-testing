@@ -18,9 +18,9 @@ The package repsnapper (version 2.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f25/language/de.md" >}}) | 1122 | 1257 | 89.3 | /mnt/stockage/packages/f25/repsnapper/po/de_DE.po | 
- | [ar]({{< ref "/f25/language/ar.md" >}}) | 768 | 1257 | 61.1 | /mnt/stockage/packages/f25/repsnapper/po/ar.po | 
- | [en_GB]({{< ref "/f25/language/en_GB.md" >}}) | 0 | 1257 | 0.0 | /mnt/stockage/packages/f25/repsnapper/po/en_GB.po | 
+ | [de](/f25/language/de) | 1122 | 1257 | 89.3 | /mnt/stockage/packages/f25/repsnapper/po/de_DE.po | 
+ | [ar](/f25/language/ar) | 768 | 1257 | 61.1 | /mnt/stockage/packages/f25/repsnapper/po/ar.po | 
+ | [en_GB](/f25/language/en_GB) | 0 | 1257 | 0.0 | /mnt/stockage/packages/f25/repsnapper/po/en_GB.po | 
 {.sortable}
 
 

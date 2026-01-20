@@ -18,10 +18,10 @@ The package w3m (version 0.5.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f25/language/de.md" >}}) | 877 | 877 | 100.0 | /mnt/stockage/packages/f25/w3m/po/de.po | 
- | [ja]({{< ref "/f25/language/ja.md" >}}) | 877 | 877 | 100.0 | /mnt/stockage/packages/f25/w3m/po/ja.po | 
- | [zh_Hans]({{< ref "/f25/language/zh_Hans.md" >}}) | 872 | 877 | 99.4 | /mnt/stockage/packages/f25/w3m/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f25/language/zh_Hant.md" >}}) | 872 | 877 | 99.4 | /mnt/stockage/packages/f25/w3m/po/zh_TW.po | 
+ | [de](/f25/language/de) | 877 | 877 | 100.0 | /mnt/stockage/packages/f25/w3m/po/de.po | 
+ | [ja](/f25/language/ja) | 877 | 877 | 100.0 | /mnt/stockage/packages/f25/w3m/po/ja.po | 
+ | [zh_Hans](/f25/language/zh_Hans) | 872 | 877 | 99.4 | /mnt/stockage/packages/f25/w3m/po/zh_CN.po | 
+ | [zh_Hant](/f25/language/zh_Hant) | 872 | 877 | 99.4 | /mnt/stockage/packages/f25/w3m/po/zh_TW.po | 
 {.sortable}
 
 

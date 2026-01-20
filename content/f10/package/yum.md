@@ -18,23 +18,23 @@ The package yum (version 3.2.24):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f10/language/ca.md" >}}) | 2268 | 2268 | 100.0 | /mnt/stockage/packages/f10/yum/po/ca.po | 
- | [da]({{< ref "/f10/language/da.md" >}}) | 2304 | 2304 | 100.0 | /mnt/stockage/packages/f10/yum/po/da.po | 
- | [de]({{< ref "/f10/language/de.md" >}}) | 2309 | 2309 | 100.0 | /mnt/stockage/packages/f10/yum/po/de.po | 
- | [es]({{< ref "/f10/language/es.md" >}}) | 2330 | 2330 | 100.0 | /mnt/stockage/packages/f10/yum/po/es.po | 
- | [fr]({{< ref "/f10/language/fr.md" >}}) | 2283 | 2283 | 100.0 | /mnt/stockage/packages/f10/yum/po/fr.po | 
- | [nb_NO]({{< ref "/f10/language/nb_NO.md" >}}) | 2305 | 2305 | 100.0 | /mnt/stockage/packages/f10/yum/po/nb.po | 
- | [pl]({{< ref "/f10/language/pl.md" >}}) | 2295 | 2295 | 100.0 | /mnt/stockage/packages/f10/yum/po/pl.po | 
- | [pt_BR]({{< ref "/f10/language/pt_BR.md" >}}) | 2330 | 2330 | 100.0 | /mnt/stockage/packages/f10/yum/po/pt_BR.po | 
- | [sr]({{< ref "/f10/language/sr.md" >}}) | 2274 | 2274 | 100.0 | /mnt/stockage/packages/f10/yum/po/sr.po | 
- | [sr_Latn]({{< ref "/f10/language/sr_Latn.md" >}}) | 2274 | 2274 | 100.0 | /mnt/stockage/packages/f10/yum/po/sr@latin.po | 
- | [sv]({{< ref "/f10/language/sv.md" >}}) | 2238 | 2238 | 100.0 | /mnt/stockage/packages/f10/yum/po/sv.po | 
- | [it]({{< ref "/f10/language/it.md" >}}) | 2233 | 2234 | 100.0 | /mnt/stockage/packages/f10/yum/po/it.po | 
- | [zh_Hans]({{< ref "/f10/language/zh_Hans.md" >}}) | 2013 | 2017 | 99.8 | /mnt/stockage/packages/f10/yum/po/zh_CN.po | 
- | [ja]({{< ref "/f10/language/ja.md" >}}) | 1696 | 2238 | 75.8 | /mnt/stockage/packages/f10/yum/po/ja.po | 
- | [ms]({{< ref "/f10/language/ms.md" >}}) | 103 | 2017 | 5.1 | /mnt/stockage/packages/f10/yum/po/ms.po | 
- | [ru]({{< ref "/f10/language/ru.md" >}}) | 65 | 2017 | 3.2 | /mnt/stockage/packages/f10/yum/po/ru.po | 
- | [pt]({{< ref "/f10/language/pt.md" >}}) | 61 | 2017 | 3.0 | /mnt/stockage/packages/f10/yum/po/pt.po | 
+ | [ca](/f10/language/ca) | 2268 | 2268 | 100.0 | /mnt/stockage/packages/f10/yum/po/ca.po | 
+ | [da](/f10/language/da) | 2304 | 2304 | 100.0 | /mnt/stockage/packages/f10/yum/po/da.po | 
+ | [de](/f10/language/de) | 2309 | 2309 | 100.0 | /mnt/stockage/packages/f10/yum/po/de.po | 
+ | [es](/f10/language/es) | 2330 | 2330 | 100.0 | /mnt/stockage/packages/f10/yum/po/es.po | 
+ | [fr](/f10/language/fr) | 2283 | 2283 | 100.0 | /mnt/stockage/packages/f10/yum/po/fr.po | 
+ | [nb_NO](/f10/language/nb_NO) | 2305 | 2305 | 100.0 | /mnt/stockage/packages/f10/yum/po/nb.po | 
+ | [pl](/f10/language/pl) | 2295 | 2295 | 100.0 | /mnt/stockage/packages/f10/yum/po/pl.po | 
+ | [pt_BR](/f10/language/pt_BR) | 2330 | 2330 | 100.0 | /mnt/stockage/packages/f10/yum/po/pt_BR.po | 
+ | [sr](/f10/language/sr) | 2274 | 2274 | 100.0 | /mnt/stockage/packages/f10/yum/po/sr.po | 
+ | [sr_Latn](/f10/language/sr_Latn) | 2274 | 2274 | 100.0 | /mnt/stockage/packages/f10/yum/po/sr@latin.po | 
+ | [sv](/f10/language/sv) | 2238 | 2238 | 100.0 | /mnt/stockage/packages/f10/yum/po/sv.po | 
+ | [it](/f10/language/it) | 2233 | 2234 | 100.0 | /mnt/stockage/packages/f10/yum/po/it.po | 
+ | [zh_Hans](/f10/language/zh_Hans) | 2013 | 2017 | 99.8 | /mnt/stockage/packages/f10/yum/po/zh_CN.po | 
+ | [ja](/f10/language/ja) | 1696 | 2238 | 75.8 | /mnt/stockage/packages/f10/yum/po/ja.po | 
+ | [ms](/f10/language/ms) | 103 | 2017 | 5.1 | /mnt/stockage/packages/f10/yum/po/ms.po | 
+ | [ru](/f10/language/ru) | 65 | 2017 | 3.2 | /mnt/stockage/packages/f10/yum/po/ru.po | 
+ | [pt](/f10/language/pt) | 61 | 2017 | 3.0 | /mnt/stockage/packages/f10/yum/po/pt.po | 
 {.sortable}
 
 

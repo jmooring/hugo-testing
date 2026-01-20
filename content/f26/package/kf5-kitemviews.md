@@ -18,101 +18,101 @@ The package kf5-kitemviews (version 5.44.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [bs]({{< ref "/f26/language/bs.md" >}}) | 7 | 7 | 100.0 | /mnt/stockage/packages/f26/kf5-kitemviews/po/bs/kitemviews5_qt.po | 
- | [ca]({{< ref "/f26/language/ca.md" >}}) | 7 | 7 | 100.0 | /mnt/stockage/packages/f26/kf5-kitemviews/po/ca/kitemviews5_qt.po | 
- | [ca@valencia]({{< ref "/f26/language/ca@valencia.md" >}}) | 7 | 7 | 100.0 | /mnt/stockage/packages/f26/kf5-kitemviews/po/ca@valencia/kitemviews5_qt.po | 
- | [da]({{< ref "/f26/language/da.md" >}}) | 7 | 7 | 100.0 | /mnt/stockage/packages/f26/kf5-kitemviews/po/da/kitemviews5_qt.po | 
- | [de]({{< ref "/f26/language/de.md" >}}) | 7 | 7 | 100.0 | /mnt/stockage/packages/f26/kf5-kitemviews/po/de/kitemviews5_qt.po | 
- | [el]({{< ref "/f26/language/el.md" >}}) | 7 | 7 | 100.0 | /mnt/stockage/packages/f26/kf5-kitemviews/po/el/kitemviews5_qt.po | 
- | [en_GB]({{< ref "/f26/language/en_GB.md" >}}) | 7 | 7 | 100.0 | /mnt/stockage/packages/f26/kf5-kitemviews/po/en_GB/kitemviews5_qt.po | 
- | [eo]({{< ref "/f26/language/eo.md" >}}) | 7 | 7 | 100.0 | /mnt/stockage/packages/f26/kf5-kitemviews/po/eo/kitemviews5_qt.po | 
- | [es]({{< ref "/f26/language/es.md" >}}) | 7 | 7 | 100.0 | /mnt/stockage/packages/f26/kf5-kitemviews/po/es/kitemviews5_qt.po | 
- | [et]({{< ref "/f26/language/et.md" >}}) | 7 | 7 | 100.0 | /mnt/stockage/packages/f26/kf5-kitemviews/po/et/kitemviews5_qt.po | 
- | [eu]({{< ref "/f26/language/eu.md" >}}) | 7 | 7 | 100.0 | /mnt/stockage/packages/f26/kf5-kitemviews/po/eu/kitemviews5_qt.po | 
- | [fa]({{< ref "/f26/language/fa.md" >}}) | 7 | 7 | 100.0 | /mnt/stockage/packages/f26/kf5-kitemviews/po/fa/kitemviews5_qt.po | 
- | [fi]({{< ref "/f26/language/fi.md" >}}) | 7 | 7 | 100.0 | /mnt/stockage/packages/f26/kf5-kitemviews/po/fi/kitemviews5_qt.po | 
- | [fr]({{< ref "/f26/language/fr.md" >}}) | 7 | 7 | 100.0 | /mnt/stockage/packages/f26/kf5-kitemviews/po/fr/kitemviews5_qt.po | 
- | [gd]({{< ref "/f26/language/gd.md" >}}) | 7 | 7 | 100.0 | /mnt/stockage/packages/f26/kf5-kitemviews/po/gd/kitemviews5_qt.po | 
- | [gl]({{< ref "/f26/language/gl.md" >}}) | 7 | 7 | 100.0 | /mnt/stockage/packages/f26/kf5-kitemviews/po/gl/kitemviews5_qt.po | 
- | [he]({{< ref "/f26/language/he.md" >}}) | 7 | 7 | 100.0 | /mnt/stockage/packages/f26/kf5-kitemviews/po/he/kitemviews5_qt.po | 
- | [hu]({{< ref "/f26/language/hu.md" >}}) | 7 | 7 | 100.0 | /mnt/stockage/packages/f26/kf5-kitemviews/po/hu/kitemviews5_qt.po | 
- | [ia]({{< ref "/f26/language/ia.md" >}}) | 7 | 7 | 100.0 | /mnt/stockage/packages/f26/kf5-kitemviews/po/ia/kitemviews5_qt.po | 
- | [id]({{< ref "/f26/language/id.md" >}}) | 7 | 7 | 100.0 | /mnt/stockage/packages/f26/kf5-kitemviews/po/id/kitemviews5_qt.po | 
- | [it]({{< ref "/f26/language/it.md" >}}) | 7 | 7 | 100.0 | /mnt/stockage/packages/f26/kf5-kitemviews/po/it/kitemviews5_qt.po | 
- | [ja]({{< ref "/f26/language/ja.md" >}}) | 7 | 7 | 100.0 | /mnt/stockage/packages/f26/kf5-kitemviews/po/ja/kitemviews5_qt.po | 
- | [ko]({{< ref "/f26/language/ko.md" >}}) | 7 | 7 | 100.0 | /mnt/stockage/packages/f26/kf5-kitemviews/po/ko/kitemviews5_qt.po | 
- | [lt]({{< ref "/f26/language/lt.md" >}}) | 7 | 7 | 100.0 | /mnt/stockage/packages/f26/kf5-kitemviews/po/lt/kitemviews5_qt.po | 
- | [mr]({{< ref "/f26/language/mr.md" >}}) | 7 | 7 | 100.0 | /mnt/stockage/packages/f26/kf5-kitemviews/po/mr/kitemviews5_qt.po | 
- | [nb_NO]({{< ref "/f26/language/nb_NO.md" >}}) | 7 | 7 | 100.0 | /mnt/stockage/packages/f26/kf5-kitemviews/po/nb/kitemviews5_qt.po | 
- | [nds]({{< ref "/f26/language/nds.md" >}}) | 7 | 7 | 100.0 | /mnt/stockage/packages/f26/kf5-kitemviews/po/nds/kitemviews5_qt.po | 
- | [nl]({{< ref "/f26/language/nl.md" >}}) | 7 | 7 | 100.0 | /mnt/stockage/packages/f26/kf5-kitemviews/po/nl/kitemviews5_qt.po | 
- | [nn]({{< ref "/f26/language/nn.md" >}}) | 7 | 7 | 100.0 | /mnt/stockage/packages/f26/kf5-kitemviews/po/nn/kitemviews5_qt.po | 
- | [pa]({{< ref "/f26/language/pa.md" >}}) | 7 | 7 | 100.0 | /mnt/stockage/packages/f26/kf5-kitemviews/po/pa/kitemviews5_qt.po | 
- | [pl]({{< ref "/f26/language/pl.md" >}}) | 7 | 7 | 100.0 | /mnt/stockage/packages/f26/kf5-kitemviews/po/pl/kitemviews5_qt.po | 
- | [pt]({{< ref "/f26/language/pt.md" >}}) | 7 | 7 | 100.0 | /mnt/stockage/packages/f26/kf5-kitemviews/po/pt/kitemviews5_qt.po | 
- | [pt_BR]({{< ref "/f26/language/pt_BR.md" >}}) | 7 | 7 | 100.0 | /mnt/stockage/packages/f26/kf5-kitemviews/po/pt_BR/kitemviews5_qt.po | 
- | [ru]({{< ref "/f26/language/ru.md" >}}) | 7 | 7 | 100.0 | /mnt/stockage/packages/f26/kf5-kitemviews/po/ru/kitemviews5_qt.po | 
- | [sk]({{< ref "/f26/language/sk.md" >}}) | 7 | 7 | 100.0 | /mnt/stockage/packages/f26/kf5-kitemviews/po/sk/kitemviews5_qt.po | 
- | [sl]({{< ref "/f26/language/sl.md" >}}) | 7 | 7 | 100.0 | /mnt/stockage/packages/f26/kf5-kitemviews/po/sl/kitemviews5_qt.po | 
- | [sr]({{< ref "/f26/language/sr.md" >}}) | 7 | 7 | 100.0 | /mnt/stockage/packages/f26/kf5-kitemviews/po/sr/kitemviews5_qt.po | 
- | [sr@ijekavian]({{< ref "/f26/language/sr@ijekavian.md" >}}) | 7 | 7 | 100.0 | /mnt/stockage/packages/f26/kf5-kitemviews/po/sr@ijekavian/kitemviews5_qt.po | 
- | [sr@ijekavian_Latn]({{< ref "/f26/language/sr@ijekavian_Latn.md" >}}) | 7 | 7 | 100.0 | /mnt/stockage/packages/f26/kf5-kitemviews/po/sr@ijekavianlatin/kitemviews5_qt.po | 
- | [sr_Latn]({{< ref "/f26/language/sr_Latn.md" >}}) | 7 | 7 | 100.0 | /mnt/stockage/packages/f26/kf5-kitemviews/po/sr@latin/kitemviews5_qt.po | 
- | [sv]({{< ref "/f26/language/sv.md" >}}) | 7 | 7 | 100.0 | /mnt/stockage/packages/f26/kf5-kitemviews/po/sv/kitemviews5_qt.po | 
- | [tr]({{< ref "/f26/language/tr.md" >}}) | 7 | 7 | 100.0 | /mnt/stockage/packages/f26/kf5-kitemviews/po/tr/kitemviews5_qt.po | 
- | [uk]({{< ref "/f26/language/uk.md" >}}) | 7 | 7 | 100.0 | /mnt/stockage/packages/f26/kf5-kitemviews/po/uk/kitemviews5_qt.po | 
- | [zh_Hans]({{< ref "/f26/language/zh_Hans.md" >}}) | 7 | 7 | 100.0 | /mnt/stockage/packages/f26/kf5-kitemviews/po/zh_CN/kitemviews5_qt.po | 
- | [zh_Hant]({{< ref "/f26/language/zh_Hant.md" >}}) | 7 | 7 | 100.0 | /mnt/stockage/packages/f26/kf5-kitemviews/po/zh_TW/kitemviews5_qt.po | 
- | [ast]({{< ref "/f26/language/ast.md" >}}) | 5 | 7 | 71.4 | /mnt/stockage/packages/f26/kf5-kitemviews/po/ast/kitemviews5_qt.po | 
- | [en_US]({{< ref "/f26/language/en_US.md" >}}) | 7 | 21 | 33.3 | /mnt/stockage/packages/f26/kf5-kitemviews/po/bn/kitemviews5_qt.po/mnt/stockage/packages/f26/kf5-kitemviews/po/vi/kitemviews5_qt.po/mnt/stockage/packages/f26/kf5-kitemviews/po/cs/kitemviews5_qt.po | 
- | [ar]({{< ref "/f26/language/ar.md" >}}) | 1 | 7 | 14.3 | /mnt/stockage/packages/f26/kf5-kitemviews/po/ar/kitemviews5_qt.po | 
- | [af]({{< ref "/f26/language/af.md" >}}) | 0 | 7 | 0.0 | /mnt/stockage/packages/f26/kf5-kitemviews/po/af/kitemviews5_qt.po | 
- | [as]({{< ref "/f26/language/as.md" >}}) | 0 | 7 | 0.0 | /mnt/stockage/packages/f26/kf5-kitemviews/po/as/kitemviews5_qt.po | 
- | [be]({{< ref "/f26/language/be.md" >}}) | 0 | 7 | 0.0 | /mnt/stockage/packages/f26/kf5-kitemviews/po/be/kitemviews5_qt.po | 
- | [be_Latn]({{< ref "/f26/language/be_Latn.md" >}}) | 0 | 7 | 0.0 | /mnt/stockage/packages/f26/kf5-kitemviews/po/be@latin/kitemviews5_qt.po | 
- | [bg]({{< ref "/f26/language/bg.md" >}}) | 0 | 7 | 0.0 | /mnt/stockage/packages/f26/kf5-kitemviews/po/bg/kitemviews5_qt.po | 
- | [bn_IN]({{< ref "/f26/language/bn_IN.md" >}}) | 0 | 7 | 0.0 | /mnt/stockage/packages/f26/kf5-kitemviews/po/bn_IN/kitemviews5_qt.po | 
- | [br]({{< ref "/f26/language/br.md" >}}) | 0 | 7 | 0.0 | /mnt/stockage/packages/f26/kf5-kitemviews/po/br/kitemviews5_qt.po | 
- | [crh]({{< ref "/f26/language/crh.md" >}}) | 0 | 7 | 0.0 | /mnt/stockage/packages/f26/kf5-kitemviews/po/crh/kitemviews5_qt.po | 
- | [csb]({{< ref "/f26/language/csb.md" >}}) | 0 | 7 | 0.0 | /mnt/stockage/packages/f26/kf5-kitemviews/po/csb/kitemviews5_qt.po | 
- | [cy]({{< ref "/f26/language/cy.md" >}}) | 0 | 7 | 0.0 | /mnt/stockage/packages/f26/kf5-kitemviews/po/cy/kitemviews5_qt.po | 
- | [fy]({{< ref "/f26/language/fy.md" >}}) | 0 | 7 | 0.0 | /mnt/stockage/packages/f26/kf5-kitemviews/po/fy/kitemviews5_qt.po | 
- | [ga]({{< ref "/f26/language/ga.md" >}}) | 0 | 7 | 0.0 | /mnt/stockage/packages/f26/kf5-kitemviews/po/ga/kitemviews5_qt.po | 
- | [gu]({{< ref "/f26/language/gu.md" >}}) | 0 | 7 | 0.0 | /mnt/stockage/packages/f26/kf5-kitemviews/po/gu/kitemviews5_qt.po | 
- | [ha]({{< ref "/f26/language/ha.md" >}}) | 0 | 7 | 0.0 | /mnt/stockage/packages/f26/kf5-kitemviews/po/ha/kitemviews5_qt.po | 
- | [hi]({{< ref "/f26/language/hi.md" >}}) | 0 | 21 | 0.0 | /mnt/stockage/packages/f26/kf5-kitemviews/po/mai/kitemviews5_qt.po/mnt/stockage/packages/f26/kf5-kitemviews/po/hne/kitemviews5_qt.po/mnt/stockage/packages/f26/kf5-kitemviews/po/hi/kitemviews5_qt.po | 
- | [hr]({{< ref "/f26/language/hr.md" >}}) | 0 | 7 | 0.0 | /mnt/stockage/packages/f26/kf5-kitemviews/po/hr/kitemviews5_qt.po | 
- | [hsb]({{< ref "/f26/language/hsb.md" >}}) | 0 | 7 | 0.0 | /mnt/stockage/packages/f26/kf5-kitemviews/po/hsb/kitemviews5_qt.po | 
- | [hy]({{< ref "/f26/language/hy.md" >}}) | 0 | 7 | 0.0 | /mnt/stockage/packages/f26/kf5-kitemviews/po/hy/kitemviews5_qt.po | 
- | [is]({{< ref "/f26/language/is.md" >}}) | 0 | 7 | 0.0 | /mnt/stockage/packages/f26/kf5-kitemviews/po/is/kitemviews5_qt.po | 
- | [ka]({{< ref "/f26/language/ka.md" >}}) | 0 | 7 | 0.0 | /mnt/stockage/packages/f26/kf5-kitemviews/po/ka/kitemviews5_qt.po | 
- | [kk]({{< ref "/f26/language/kk.md" >}}) | 0 | 7 | 0.0 | /mnt/stockage/packages/f26/kf5-kitemviews/po/kk/kitemviews5_qt.po | 
- | [km]({{< ref "/f26/language/km.md" >}}) | 0 | 7 | 0.0 | /mnt/stockage/packages/f26/kf5-kitemviews/po/km/kitemviews5_qt.po | 
- | [kn]({{< ref "/f26/language/kn.md" >}}) | 0 | 7 | 0.0 | /mnt/stockage/packages/f26/kf5-kitemviews/po/kn/kitemviews5_qt.po | 
- | [ku]({{< ref "/f26/language/ku.md" >}}) | 0 | 7 | 0.0 | /mnt/stockage/packages/f26/kf5-kitemviews/po/ku/kitemviews5_qt.po | 
- | [lb]({{< ref "/f26/language/lb.md" >}}) | 0 | 7 | 0.0 | /mnt/stockage/packages/f26/kf5-kitemviews/po/lb/kitemviews5_qt.po | 
- | [lv]({{< ref "/f26/language/lv.md" >}}) | 0 | 7 | 0.0 | /mnt/stockage/packages/f26/kf5-kitemviews/po/lv/kitemviews5_qt.po | 
- | [mk]({{< ref "/f26/language/mk.md" >}}) | 0 | 7 | 0.0 | /mnt/stockage/packages/f26/kf5-kitemviews/po/mk/kitemviews5_qt.po | 
- | [ml]({{< ref "/f26/language/ml.md" >}}) | 0 | 7 | 0.0 | /mnt/stockage/packages/f26/kf5-kitemviews/po/ml/kitemviews5_qt.po | 
- | [ms]({{< ref "/f26/language/ms.md" >}}) | 0 | 7 | 0.0 | /mnt/stockage/packages/f26/kf5-kitemviews/po/ms/kitemviews5_qt.po | 
- | [ne]({{< ref "/f26/language/ne.md" >}}) | 0 | 7 | 0.0 | /mnt/stockage/packages/f26/kf5-kitemviews/po/ne/kitemviews5_qt.po | 
- | [oc]({{< ref "/f26/language/oc.md" >}}) | 0 | 7 | 0.0 | /mnt/stockage/packages/f26/kf5-kitemviews/po/oc/kitemviews5_qt.po | 
- | [or]({{< ref "/f26/language/or.md" >}}) | 0 | 7 | 0.0 | /mnt/stockage/packages/f26/kf5-kitemviews/po/or/kitemviews5_qt.po | 
- | [ps]({{< ref "/f26/language/ps.md" >}}) | 0 | 7 | 0.0 | /mnt/stockage/packages/f26/kf5-kitemviews/po/ps/kitemviews5_qt.po | 
- | [ro]({{< ref "/f26/language/ro.md" >}}) | 0 | 7 | 0.0 | /mnt/stockage/packages/f26/kf5-kitemviews/po/ro/kitemviews5_qt.po | 
- | [se]({{< ref "/f26/language/se.md" >}}) | 0 | 7 | 0.0 | /mnt/stockage/packages/f26/kf5-kitemviews/po/se/kitemviews5_qt.po | 
- | [si]({{< ref "/f26/language/si.md" >}}) | 0 | 7 | 0.0 | /mnt/stockage/packages/f26/kf5-kitemviews/po/si/kitemviews5_qt.po | 
- | [sq]({{< ref "/f26/language/sq.md" >}}) | 0 | 7 | 0.0 | /mnt/stockage/packages/f26/kf5-kitemviews/po/sq/kitemviews5_qt.po | 
- | [ta]({{< ref "/f26/language/ta.md" >}}) | 0 | 7 | 0.0 | /mnt/stockage/packages/f26/kf5-kitemviews/po/ta/kitemviews5_qt.po | 
- | [te]({{< ref "/f26/language/te.md" >}}) | 0 | 7 | 0.0 | /mnt/stockage/packages/f26/kf5-kitemviews/po/te/kitemviews5_qt.po | 
- | [tg]({{< ref "/f26/language/tg.md" >}}) | 0 | 7 | 0.0 | /mnt/stockage/packages/f26/kf5-kitemviews/po/tg/kitemviews5_qt.po | 
- | [th]({{< ref "/f26/language/th.md" >}}) | 0 | 7 | 0.0 | /mnt/stockage/packages/f26/kf5-kitemviews/po/th/kitemviews5_qt.po | 
- | [tt]({{< ref "/f26/language/tt.md" >}}) | 0 | 7 | 0.0 | /mnt/stockage/packages/f26/kf5-kitemviews/po/tt/kitemviews5_qt.po | 
- | [ug]({{< ref "/f26/language/ug.md" >}}) | 0 | 7 | 0.0 | /mnt/stockage/packages/f26/kf5-kitemviews/po/ug/kitemviews5_qt.po | 
- | [uz]({{< ref "/f26/language/uz.md" >}}) | 0 | 14 | 0.0 | /mnt/stockage/packages/f26/kf5-kitemviews/po/uz@cyrillic/kitemviews5_qt.po/mnt/stockage/packages/f26/kf5-kitemviews/po/uz/kitemviews5_qt.po | 
- | [wa]({{< ref "/f26/language/wa.md" >}}) | 0 | 7 | 0.0 | /mnt/stockage/packages/f26/kf5-kitemviews/po/wa/kitemviews5_qt.po | 
- | [xh]({{< ref "/f26/language/xh.md" >}}) | 0 | 7 | 0.0 | /mnt/stockage/packages/f26/kf5-kitemviews/po/xh/kitemviews5_qt.po | 
- | [zh_Hant_HK]({{< ref "/f26/language/zh_Hant_HK.md" >}}) | 0 | 7 | 0.0 | /mnt/stockage/packages/f26/kf5-kitemviews/po/zh_HK/kitemviews5_qt.po | 
+ | [bs](/f26/language/bs) | 7 | 7 | 100.0 | /mnt/stockage/packages/f26/kf5-kitemviews/po/bs/kitemviews5_qt.po | 
+ | [ca](/f26/language/ca) | 7 | 7 | 100.0 | /mnt/stockage/packages/f26/kf5-kitemviews/po/ca/kitemviews5_qt.po | 
+ | [ca@valencia](/f26/language/ca@valencia) | 7 | 7 | 100.0 | /mnt/stockage/packages/f26/kf5-kitemviews/po/ca@valencia/kitemviews5_qt.po | 
+ | [da](/f26/language/da) | 7 | 7 | 100.0 | /mnt/stockage/packages/f26/kf5-kitemviews/po/da/kitemviews5_qt.po | 
+ | [de](/f26/language/de) | 7 | 7 | 100.0 | /mnt/stockage/packages/f26/kf5-kitemviews/po/de/kitemviews5_qt.po | 
+ | [el](/f26/language/el) | 7 | 7 | 100.0 | /mnt/stockage/packages/f26/kf5-kitemviews/po/el/kitemviews5_qt.po | 
+ | [en_GB](/f26/language/en_GB) | 7 | 7 | 100.0 | /mnt/stockage/packages/f26/kf5-kitemviews/po/en_GB/kitemviews5_qt.po | 
+ | [eo](/f26/language/eo) | 7 | 7 | 100.0 | /mnt/stockage/packages/f26/kf5-kitemviews/po/eo/kitemviews5_qt.po | 
+ | [es](/f26/language/es) | 7 | 7 | 100.0 | /mnt/stockage/packages/f26/kf5-kitemviews/po/es/kitemviews5_qt.po | 
+ | [et](/f26/language/et) | 7 | 7 | 100.0 | /mnt/stockage/packages/f26/kf5-kitemviews/po/et/kitemviews5_qt.po | 
+ | [eu](/f26/language/eu) | 7 | 7 | 100.0 | /mnt/stockage/packages/f26/kf5-kitemviews/po/eu/kitemviews5_qt.po | 
+ | [fa](/f26/language/fa) | 7 | 7 | 100.0 | /mnt/stockage/packages/f26/kf5-kitemviews/po/fa/kitemviews5_qt.po | 
+ | [fi](/f26/language/fi) | 7 | 7 | 100.0 | /mnt/stockage/packages/f26/kf5-kitemviews/po/fi/kitemviews5_qt.po | 
+ | [fr](/f26/language/fr) | 7 | 7 | 100.0 | /mnt/stockage/packages/f26/kf5-kitemviews/po/fr/kitemviews5_qt.po | 
+ | [gd](/f26/language/gd) | 7 | 7 | 100.0 | /mnt/stockage/packages/f26/kf5-kitemviews/po/gd/kitemviews5_qt.po | 
+ | [gl](/f26/language/gl) | 7 | 7 | 100.0 | /mnt/stockage/packages/f26/kf5-kitemviews/po/gl/kitemviews5_qt.po | 
+ | [he](/f26/language/he) | 7 | 7 | 100.0 | /mnt/stockage/packages/f26/kf5-kitemviews/po/he/kitemviews5_qt.po | 
+ | [hu](/f26/language/hu) | 7 | 7 | 100.0 | /mnt/stockage/packages/f26/kf5-kitemviews/po/hu/kitemviews5_qt.po | 
+ | [ia](/f26/language/ia) | 7 | 7 | 100.0 | /mnt/stockage/packages/f26/kf5-kitemviews/po/ia/kitemviews5_qt.po | 
+ | [id](/f26/language/id) | 7 | 7 | 100.0 | /mnt/stockage/packages/f26/kf5-kitemviews/po/id/kitemviews5_qt.po | 
+ | [it](/f26/language/it) | 7 | 7 | 100.0 | /mnt/stockage/packages/f26/kf5-kitemviews/po/it/kitemviews5_qt.po | 
+ | [ja](/f26/language/ja) | 7 | 7 | 100.0 | /mnt/stockage/packages/f26/kf5-kitemviews/po/ja/kitemviews5_qt.po | 
+ | [ko](/f26/language/ko) | 7 | 7 | 100.0 | /mnt/stockage/packages/f26/kf5-kitemviews/po/ko/kitemviews5_qt.po | 
+ | [lt](/f26/language/lt) | 7 | 7 | 100.0 | /mnt/stockage/packages/f26/kf5-kitemviews/po/lt/kitemviews5_qt.po | 
+ | [mr](/f26/language/mr) | 7 | 7 | 100.0 | /mnt/stockage/packages/f26/kf5-kitemviews/po/mr/kitemviews5_qt.po | 
+ | [nb_NO](/f26/language/nb_NO) | 7 | 7 | 100.0 | /mnt/stockage/packages/f26/kf5-kitemviews/po/nb/kitemviews5_qt.po | 
+ | [nds](/f26/language/nds) | 7 | 7 | 100.0 | /mnt/stockage/packages/f26/kf5-kitemviews/po/nds/kitemviews5_qt.po | 
+ | [nl](/f26/language/nl) | 7 | 7 | 100.0 | /mnt/stockage/packages/f26/kf5-kitemviews/po/nl/kitemviews5_qt.po | 
+ | [nn](/f26/language/nn) | 7 | 7 | 100.0 | /mnt/stockage/packages/f26/kf5-kitemviews/po/nn/kitemviews5_qt.po | 
+ | [pa](/f26/language/pa) | 7 | 7 | 100.0 | /mnt/stockage/packages/f26/kf5-kitemviews/po/pa/kitemviews5_qt.po | 
+ | [pl](/f26/language/pl) | 7 | 7 | 100.0 | /mnt/stockage/packages/f26/kf5-kitemviews/po/pl/kitemviews5_qt.po | 
+ | [pt](/f26/language/pt) | 7 | 7 | 100.0 | /mnt/stockage/packages/f26/kf5-kitemviews/po/pt/kitemviews5_qt.po | 
+ | [pt_BR](/f26/language/pt_BR) | 7 | 7 | 100.0 | /mnt/stockage/packages/f26/kf5-kitemviews/po/pt_BR/kitemviews5_qt.po | 
+ | [ru](/f26/language/ru) | 7 | 7 | 100.0 | /mnt/stockage/packages/f26/kf5-kitemviews/po/ru/kitemviews5_qt.po | 
+ | [sk](/f26/language/sk) | 7 | 7 | 100.0 | /mnt/stockage/packages/f26/kf5-kitemviews/po/sk/kitemviews5_qt.po | 
+ | [sl](/f26/language/sl) | 7 | 7 | 100.0 | /mnt/stockage/packages/f26/kf5-kitemviews/po/sl/kitemviews5_qt.po | 
+ | [sr](/f26/language/sr) | 7 | 7 | 100.0 | /mnt/stockage/packages/f26/kf5-kitemviews/po/sr/kitemviews5_qt.po | 
+ | [sr@ijekavian](/f26/language/sr@ijekavian) | 7 | 7 | 100.0 | /mnt/stockage/packages/f26/kf5-kitemviews/po/sr@ijekavian/kitemviews5_qt.po | 
+ | [sr@ijekavian_Latn](/f26/language/sr@ijekavian_Latn) | 7 | 7 | 100.0 | /mnt/stockage/packages/f26/kf5-kitemviews/po/sr@ijekavianlatin/kitemviews5_qt.po | 
+ | [sr_Latn](/f26/language/sr_Latn) | 7 | 7 | 100.0 | /mnt/stockage/packages/f26/kf5-kitemviews/po/sr@latin/kitemviews5_qt.po | 
+ | [sv](/f26/language/sv) | 7 | 7 | 100.0 | /mnt/stockage/packages/f26/kf5-kitemviews/po/sv/kitemviews5_qt.po | 
+ | [tr](/f26/language/tr) | 7 | 7 | 100.0 | /mnt/stockage/packages/f26/kf5-kitemviews/po/tr/kitemviews5_qt.po | 
+ | [uk](/f26/language/uk) | 7 | 7 | 100.0 | /mnt/stockage/packages/f26/kf5-kitemviews/po/uk/kitemviews5_qt.po | 
+ | [zh_Hans](/f26/language/zh_Hans) | 7 | 7 | 100.0 | /mnt/stockage/packages/f26/kf5-kitemviews/po/zh_CN/kitemviews5_qt.po | 
+ | [zh_Hant](/f26/language/zh_Hant) | 7 | 7 | 100.0 | /mnt/stockage/packages/f26/kf5-kitemviews/po/zh_TW/kitemviews5_qt.po | 
+ | [ast](/f26/language/ast) | 5 | 7 | 71.4 | /mnt/stockage/packages/f26/kf5-kitemviews/po/ast/kitemviews5_qt.po | 
+ | [en_US](/f26/language/en_US) | 7 | 21 | 33.3 | /mnt/stockage/packages/f26/kf5-kitemviews/po/bn/kitemviews5_qt.po/mnt/stockage/packages/f26/kf5-kitemviews/po/vi/kitemviews5_qt.po/mnt/stockage/packages/f26/kf5-kitemviews/po/cs/kitemviews5_qt.po | 
+ | [ar](/f26/language/ar) | 1 | 7 | 14.3 | /mnt/stockage/packages/f26/kf5-kitemviews/po/ar/kitemviews5_qt.po | 
+ | [af](/f26/language/af) | 0 | 7 | 0.0 | /mnt/stockage/packages/f26/kf5-kitemviews/po/af/kitemviews5_qt.po | 
+ | [as](/f26/language/as) | 0 | 7 | 0.0 | /mnt/stockage/packages/f26/kf5-kitemviews/po/as/kitemviews5_qt.po | 
+ | [be](/f26/language/be) | 0 | 7 | 0.0 | /mnt/stockage/packages/f26/kf5-kitemviews/po/be/kitemviews5_qt.po | 
+ | [be_Latn](/f26/language/be_Latn) | 0 | 7 | 0.0 | /mnt/stockage/packages/f26/kf5-kitemviews/po/be@latin/kitemviews5_qt.po | 
+ | [bg](/f26/language/bg) | 0 | 7 | 0.0 | /mnt/stockage/packages/f26/kf5-kitemviews/po/bg/kitemviews5_qt.po | 
+ | [bn_IN](/f26/language/bn_IN) | 0 | 7 | 0.0 | /mnt/stockage/packages/f26/kf5-kitemviews/po/bn_IN/kitemviews5_qt.po | 
+ | [br](/f26/language/br) | 0 | 7 | 0.0 | /mnt/stockage/packages/f26/kf5-kitemviews/po/br/kitemviews5_qt.po | 
+ | [crh](/f26/language/crh) | 0 | 7 | 0.0 | /mnt/stockage/packages/f26/kf5-kitemviews/po/crh/kitemviews5_qt.po | 
+ | [csb](/f26/language/csb) | 0 | 7 | 0.0 | /mnt/stockage/packages/f26/kf5-kitemviews/po/csb/kitemviews5_qt.po | 
+ | [cy](/f26/language/cy) | 0 | 7 | 0.0 | /mnt/stockage/packages/f26/kf5-kitemviews/po/cy/kitemviews5_qt.po | 
+ | [fy](/f26/language/fy) | 0 | 7 | 0.0 | /mnt/stockage/packages/f26/kf5-kitemviews/po/fy/kitemviews5_qt.po | 
+ | [ga](/f26/language/ga) | 0 | 7 | 0.0 | /mnt/stockage/packages/f26/kf5-kitemviews/po/ga/kitemviews5_qt.po | 
+ | [gu](/f26/language/gu) | 0 | 7 | 0.0 | /mnt/stockage/packages/f26/kf5-kitemviews/po/gu/kitemviews5_qt.po | 
+ | [ha](/f26/language/ha) | 0 | 7 | 0.0 | /mnt/stockage/packages/f26/kf5-kitemviews/po/ha/kitemviews5_qt.po | 
+ | [hi](/f26/language/hi) | 0 | 21 | 0.0 | /mnt/stockage/packages/f26/kf5-kitemviews/po/mai/kitemviews5_qt.po/mnt/stockage/packages/f26/kf5-kitemviews/po/hne/kitemviews5_qt.po/mnt/stockage/packages/f26/kf5-kitemviews/po/hi/kitemviews5_qt.po | 
+ | [hr](/f26/language/hr) | 0 | 7 | 0.0 | /mnt/stockage/packages/f26/kf5-kitemviews/po/hr/kitemviews5_qt.po | 
+ | [hsb](/f26/language/hsb) | 0 | 7 | 0.0 | /mnt/stockage/packages/f26/kf5-kitemviews/po/hsb/kitemviews5_qt.po | 
+ | [hy](/f26/language/hy) | 0 | 7 | 0.0 | /mnt/stockage/packages/f26/kf5-kitemviews/po/hy/kitemviews5_qt.po | 
+ | [is](/f26/language/is) | 0 | 7 | 0.0 | /mnt/stockage/packages/f26/kf5-kitemviews/po/is/kitemviews5_qt.po | 
+ | [ka](/f26/language/ka) | 0 | 7 | 0.0 | /mnt/stockage/packages/f26/kf5-kitemviews/po/ka/kitemviews5_qt.po | 
+ | [kk](/f26/language/kk) | 0 | 7 | 0.0 | /mnt/stockage/packages/f26/kf5-kitemviews/po/kk/kitemviews5_qt.po | 
+ | [km](/f26/language/km) | 0 | 7 | 0.0 | /mnt/stockage/packages/f26/kf5-kitemviews/po/km/kitemviews5_qt.po | 
+ | [kn](/f26/language/kn) | 0 | 7 | 0.0 | /mnt/stockage/packages/f26/kf5-kitemviews/po/kn/kitemviews5_qt.po | 
+ | [ku](/f26/language/ku) | 0 | 7 | 0.0 | /mnt/stockage/packages/f26/kf5-kitemviews/po/ku/kitemviews5_qt.po | 
+ | [lb](/f26/language/lb) | 0 | 7 | 0.0 | /mnt/stockage/packages/f26/kf5-kitemviews/po/lb/kitemviews5_qt.po | 
+ | [lv](/f26/language/lv) | 0 | 7 | 0.0 | /mnt/stockage/packages/f26/kf5-kitemviews/po/lv/kitemviews5_qt.po | 
+ | [mk](/f26/language/mk) | 0 | 7 | 0.0 | /mnt/stockage/packages/f26/kf5-kitemviews/po/mk/kitemviews5_qt.po | 
+ | [ml](/f26/language/ml) | 0 | 7 | 0.0 | /mnt/stockage/packages/f26/kf5-kitemviews/po/ml/kitemviews5_qt.po | 
+ | [ms](/f26/language/ms) | 0 | 7 | 0.0 | /mnt/stockage/packages/f26/kf5-kitemviews/po/ms/kitemviews5_qt.po | 
+ | [ne](/f26/language/ne) | 0 | 7 | 0.0 | /mnt/stockage/packages/f26/kf5-kitemviews/po/ne/kitemviews5_qt.po | 
+ | [oc](/f26/language/oc) | 0 | 7 | 0.0 | /mnt/stockage/packages/f26/kf5-kitemviews/po/oc/kitemviews5_qt.po | 
+ | [or](/f26/language/or) | 0 | 7 | 0.0 | /mnt/stockage/packages/f26/kf5-kitemviews/po/or/kitemviews5_qt.po | 
+ | [ps](/f26/language/ps) | 0 | 7 | 0.0 | /mnt/stockage/packages/f26/kf5-kitemviews/po/ps/kitemviews5_qt.po | 
+ | [ro](/f26/language/ro) | 0 | 7 | 0.0 | /mnt/stockage/packages/f26/kf5-kitemviews/po/ro/kitemviews5_qt.po | 
+ | [se](/f26/language/se) | 0 | 7 | 0.0 | /mnt/stockage/packages/f26/kf5-kitemviews/po/se/kitemviews5_qt.po | 
+ | [si](/f26/language/si) | 0 | 7 | 0.0 | /mnt/stockage/packages/f26/kf5-kitemviews/po/si/kitemviews5_qt.po | 
+ | [sq](/f26/language/sq) | 0 | 7 | 0.0 | /mnt/stockage/packages/f26/kf5-kitemviews/po/sq/kitemviews5_qt.po | 
+ | [ta](/f26/language/ta) | 0 | 7 | 0.0 | /mnt/stockage/packages/f26/kf5-kitemviews/po/ta/kitemviews5_qt.po | 
+ | [te](/f26/language/te) | 0 | 7 | 0.0 | /mnt/stockage/packages/f26/kf5-kitemviews/po/te/kitemviews5_qt.po | 
+ | [tg](/f26/language/tg) | 0 | 7 | 0.0 | /mnt/stockage/packages/f26/kf5-kitemviews/po/tg/kitemviews5_qt.po | 
+ | [th](/f26/language/th) | 0 | 7 | 0.0 | /mnt/stockage/packages/f26/kf5-kitemviews/po/th/kitemviews5_qt.po | 
+ | [tt](/f26/language/tt) | 0 | 7 | 0.0 | /mnt/stockage/packages/f26/kf5-kitemviews/po/tt/kitemviews5_qt.po | 
+ | [ug](/f26/language/ug) | 0 | 7 | 0.0 | /mnt/stockage/packages/f26/kf5-kitemviews/po/ug/kitemviews5_qt.po | 
+ | [uz](/f26/language/uz) | 0 | 14 | 0.0 | /mnt/stockage/packages/f26/kf5-kitemviews/po/uz@cyrillic/kitemviews5_qt.po/mnt/stockage/packages/f26/kf5-kitemviews/po/uz/kitemviews5_qt.po | 
+ | [wa](/f26/language/wa) | 0 | 7 | 0.0 | /mnt/stockage/packages/f26/kf5-kitemviews/po/wa/kitemviews5_qt.po | 
+ | [xh](/f26/language/xh) | 0 | 7 | 0.0 | /mnt/stockage/packages/f26/kf5-kitemviews/po/xh/kitemviews5_qt.po | 
+ | [zh_Hant_HK](/f26/language/zh_Hant_HK) | 0 | 7 | 0.0 | /mnt/stockage/packages/f26/kf5-kitemviews/po/zh_HK/kitemviews5_qt.po | 
 {.sortable}
 
 

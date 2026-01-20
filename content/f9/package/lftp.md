@@ -18,17 +18,17 @@ The package lftp (version 3.6.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f9/language/fr.md" >}}) | 3445 | 3445 | 100.0 | /mnt/stockage/packages/f9/lftp/po/fr.po | 
- | [pl]({{< ref "/f9/language/pl.md" >}}) | 3445 | 3445 | 100.0 | /mnt/stockage/packages/f9/lftp/po/pl.po | 
- | [zh_Hant]({{< ref "/f9/language/zh_Hant.md" >}}) | 2980 | 3445 | 86.5 | /mnt/stockage/packages/f9/lftp/po/zh_TW.po | 
- | [de]({{< ref "/f9/language/de.md" >}}) | 2875 | 3445 | 83.5 | /mnt/stockage/packages/f9/lftp/po/de.po | 
- | [ru]({{< ref "/f9/language/ru.md" >}}) | 2829 | 3445 | 82.1 | /mnt/stockage/packages/f9/lftp/po/ru.po | 
- | [es]({{< ref "/f9/language/es.md" >}}) | 2248 | 3445 | 65.3 | /mnt/stockage/packages/f9/lftp/po/es.po | 
- | [ja]({{< ref "/f9/language/ja.md" >}}) | 1986 | 3445 | 57.6 | /mnt/stockage/packages/f9/lftp/po/ja.po | 
- | [ko]({{< ref "/f9/language/ko.md" >}}) | 1743 | 3445 | 50.6 | /mnt/stockage/packages/f9/lftp/po/ko.po | 
- | [it]({{< ref "/f9/language/it.md" >}}) | 1440 | 3445 | 41.8 | /mnt/stockage/packages/f9/lftp/po/it.po | 
- | [zh_Hans]({{< ref "/f9/language/zh_Hans.md" >}}) | 1089 | 3445 | 31.6 | /mnt/stockage/packages/f9/lftp/po/zh_CN.po | 
- | [pt_BR]({{< ref "/f9/language/pt_BR.md" >}}) | 304 | 3445 | 8.8 | /mnt/stockage/packages/f9/lftp/po/pt_BR.po | 
+ | [fr](/f9/language/fr) | 3445 | 3445 | 100.0 | /mnt/stockage/packages/f9/lftp/po/fr.po | 
+ | [pl](/f9/language/pl) | 3445 | 3445 | 100.0 | /mnt/stockage/packages/f9/lftp/po/pl.po | 
+ | [zh_Hant](/f9/language/zh_Hant) | 2980 | 3445 | 86.5 | /mnt/stockage/packages/f9/lftp/po/zh_TW.po | 
+ | [de](/f9/language/de) | 2875 | 3445 | 83.5 | /mnt/stockage/packages/f9/lftp/po/de.po | 
+ | [ru](/f9/language/ru) | 2829 | 3445 | 82.1 | /mnt/stockage/packages/f9/lftp/po/ru.po | 
+ | [es](/f9/language/es) | 2248 | 3445 | 65.3 | /mnt/stockage/packages/f9/lftp/po/es.po | 
+ | [ja](/f9/language/ja) | 1986 | 3445 | 57.6 | /mnt/stockage/packages/f9/lftp/po/ja.po | 
+ | [ko](/f9/language/ko) | 1743 | 3445 | 50.6 | /mnt/stockage/packages/f9/lftp/po/ko.po | 
+ | [it](/f9/language/it) | 1440 | 3445 | 41.8 | /mnt/stockage/packages/f9/lftp/po/it.po | 
+ | [zh_Hans](/f9/language/zh_Hans) | 1089 | 3445 | 31.6 | /mnt/stockage/packages/f9/lftp/po/zh_CN.po | 
+ | [pt_BR](/f9/language/pt_BR) | 304 | 3445 | 8.8 | /mnt/stockage/packages/f9/lftp/po/pt_BR.po | 
 {.sortable}
 
 

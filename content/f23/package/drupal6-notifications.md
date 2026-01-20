@@ -18,11 +18,11 @@ The package drupal6-notifications (version 2.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [hu]({{< ref "/f23/language/hu.md" >}}) | 1292 | 1292 | 100.0 | /mnt/stockage/packages/f23/drupal6-notifications/translations/hu.po | 
- | [it]({{< ref "/f23/language/it.md" >}}) | 1026 | 1042 | 98.5 | /mnt/stockage/packages/f23/drupal6-notifications/translations/it.po | 
- | [es]({{< ref "/f23/language/es.md" >}}) | 2314 | 2437 | 95.0 | /mnt/stockage/packages/f23/drupal6-notifications/translations/es.po | 
- | [fr]({{< ref "/f23/language/fr.md" >}}) | 390 | 1314 | 29.7 | /mnt/stockage/packages/f23/drupal6-notifications/translations/fr.po | 
- | [de]({{< ref "/f23/language/de.md" >}}) | 664 | 2437 | 27.2 | /mnt/stockage/packages/f23/drupal6-notifications/translations/de.po | 
+ | [hu](/f23/language/hu) | 1292 | 1292 | 100.0 | /mnt/stockage/packages/f23/drupal6-notifications/translations/hu.po | 
+ | [it](/f23/language/it) | 1026 | 1042 | 98.5 | /mnt/stockage/packages/f23/drupal6-notifications/translations/it.po | 
+ | [es](/f23/language/es) | 2314 | 2437 | 95.0 | /mnt/stockage/packages/f23/drupal6-notifications/translations/es.po | 
+ | [fr](/f23/language/fr) | 390 | 1314 | 29.7 | /mnt/stockage/packages/f23/drupal6-notifications/translations/fr.po | 
+ | [de](/f23/language/de) | 664 | 2437 | 27.2 | /mnt/stockage/packages/f23/drupal6-notifications/translations/de.po | 
 {.sortable}
 
 

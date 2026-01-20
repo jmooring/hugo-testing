@@ -38,26 +38,26 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [boost]({{< ref "/f39/package/boost.md" >}}) | 1 | 1 | 100.0 |  | 
- | [ceph]({{< ref "/f39/package/ceph.md" >}}) | 1 | 1 | 100.0 |  | 
- | [clapper]({{< ref "/f39/package/clapper.md" >}}) | 253 | 253 | 100.0 | Hebrew | 
- | [libecpg]({{< ref "/f39/package/libecpg.md" >}}) | 271 | 271 | 100.0 |  | 
- | [libpq]({{< ref "/f39/package/libpq.md" >}}) | 271 | 271 | 100.0 |  | 
- | [mingw-boost]({{< ref "/f39/package/mingw-boost.md" >}}) | 1 | 1 | 100.0 |  | 
- | [mingw-postgresql]({{< ref "/f39/package/mingw-postgresql.md" >}}) | 271 | 271 | 100.0 |  | 
- | [postgresql]({{< ref "/f39/package/postgresql.md" >}}) | 271 | 271 | 100.0 |  | 
- | [poedit]({{< ref "/f39/package/poedit.md" >}}) | 3167 | 3168 | 100.0 | Hebrew | 
- | [postgresql16]({{< ref "/f39/package/postgresql16.md" >}}) | 9124 | 9143 | 99.8 |  | 
- | [cacti]({{< ref "/f39/package/cacti.md" >}}) | 32484 | 32768 | 99.1 | Hebrew (Israel) <http://translate.cacti.net/projects/cacti/core-v1-2-x/he_IL/> | 
- | [python-flask-admin]({{< ref "/f39/package/python-flask-admin.md" >}}) | 320 | 367 | 87.2 | Hebrew | 
- | [coolreader]({{< ref "/f39/package/coolreader.md" >}}) | 545 | 701 | 77.7 | Hebrew | 
- | [visualboyadvance-m]({{< ref "/f39/package/visualboyadvance-m.md" >}}) | 1571 | 3166 | 49.6 | Hebrew (Israel) (http://app.transifex.com/bgk/vba-m/language/he_IL/) | 
- | [electrum]({{< ref "/f39/package/electrum.md" >}}) | 6418 | 13041 | 49.2 | Hebrew | 
- | [xournalpp]({{< ref "/f39/package/xournalpp.md" >}}) | 1239 | 4711 | 26.3 | Hebrew | 
- | [warzone2100]({{< ref "/f39/package/warzone2100.md" >}}) | 2394 | 15773 | 15.2 | Hebrew | 
- | [duplicity]({{< ref "/f39/package/duplicity.md" >}}) | 19 | 2433 | 0.8 | Hebrew | 
- | [clementine]({{< ref "/f39/package/clementine.md" >}}) | 0 | 3803 | 0.0 | Hebrew (Israel) (http://app.transifex.com/davidsansome/clementine/language/he_IL/) | 
- | [python-django-rest-framework]({{< ref "/f39/package/python-django-rest-framework.md" >}}) | 0 | 582 | 0.0 | Hebrew (Israel) (http://www.transifex.com/django-rest-framework-1/django-rest-framework/language/he_IL/) | 
+ | [boost](/f39/package/boost) | 1 | 1 | 100.0 |  | 
+ | [ceph](/f39/package/ceph) | 1 | 1 | 100.0 |  | 
+ | [clapper](/f39/package/clapper) | 253 | 253 | 100.0 | Hebrew | 
+ | [libecpg](/f39/package/libecpg) | 271 | 271 | 100.0 |  | 
+ | [libpq](/f39/package/libpq) | 271 | 271 | 100.0 |  | 
+ | [mingw-boost](/f39/package/mingw-boost) | 1 | 1 | 100.0 |  | 
+ | [mingw-postgresql](/f39/package/mingw-postgresql) | 271 | 271 | 100.0 |  | 
+ | [postgresql](/f39/package/postgresql) | 271 | 271 | 100.0 |  | 
+ | [poedit](/f39/package/poedit) | 3167 | 3168 | 100.0 | Hebrew | 
+ | [postgresql16](/f39/package/postgresql16) | 9124 | 9143 | 99.8 |  | 
+ | [cacti](/f39/package/cacti) | 32484 | 32768 | 99.1 | Hebrew (Israel) <http://translate.cacti.net/projects/cacti/core-v1-2-x/he_IL/> | 
+ | [python-flask-admin](/f39/package/python-flask-admin) | 320 | 367 | 87.2 | Hebrew | 
+ | [coolreader](/f39/package/coolreader) | 545 | 701 | 77.7 | Hebrew | 
+ | [visualboyadvance-m](/f39/package/visualboyadvance-m) | 1571 | 3166 | 49.6 | Hebrew (Israel) (http://app.transifex.com/bgk/vba-m/language/he_IL/) | 
+ | [electrum](/f39/package/electrum) | 6418 | 13041 | 49.2 | Hebrew | 
+ | [xournalpp](/f39/package/xournalpp) | 1239 | 4711 | 26.3 | Hebrew | 
+ | [warzone2100](/f39/package/warzone2100) | 2394 | 15773 | 15.2 | Hebrew | 
+ | [duplicity](/f39/package/duplicity) | 19 | 2433 | 0.8 | Hebrew | 
+ | [clementine](/f39/package/clementine) | 0 | 3803 | 0.0 | Hebrew (Israel) (http://app.transifex.com/davidsansome/clementine/language/he_IL/) | 
+ | [python-django-rest-framework](/f39/package/python-django-rest-framework) | 0 | 582 | 0.0 | Hebrew (Israel) (http://www.transifex.com/django-rest-framework-1/django-rest-framework/language/he_IL/) | 
 {.sortable}
 
 

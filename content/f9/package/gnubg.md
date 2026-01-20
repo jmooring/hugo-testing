@@ -18,17 +18,17 @@ The package gnubg (version 20061119):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [error]({{< ref "/f9/language/error.md" >}}) | 18673 | 18673 | 100.0 | /mnt/stockage/packages/f9/gnubg/gnubg/po/en@quot.po | 
- | [it]({{< ref "/f9/language/it.md" >}}) | 18611 | 18673 | 99.7 | /mnt/stockage/packages/f9/gnubg/gnubg/po/it.po | 
- | [cs]({{< ref "/f9/language/cs.md" >}}) | 18383 | 18673 | 98.4 | /mnt/stockage/packages/f9/gnubg/gnubg/po/cs.po | 
- | [de]({{< ref "/f9/language/de.md" >}}) | 17081 | 18673 | 91.5 | /mnt/stockage/packages/f9/gnubg/gnubg/po/de.po | 
- | [en_US]({{< ref "/f9/language/en_US.md" >}}) | 11975 | 18673 | 64.1 | /mnt/stockage/packages/f9/gnubg/gnubg/po/en_US.po | 
- | [fr]({{< ref "/f9/language/fr.md" >}}) | 8053 | 18673 | 43.1 | /mnt/stockage/packages/f9/gnubg/gnubg/po/fr.po | 
- | [ja]({{< ref "/f9/language/ja.md" >}}) | 7101 | 18673 | 38.0 | /mnt/stockage/packages/f9/gnubg/gnubg/po/ja.po | 
- | [is]({{< ref "/f9/language/is.md" >}}) | 2595 | 18673 | 13.9 | /mnt/stockage/packages/f9/gnubg/gnubg/po/is.po | 
- | [ru]({{< ref "/f9/language/ru.md" >}}) | 2319 | 18673 | 12.4 | /mnt/stockage/packages/f9/gnubg/gnubg/po/ru.po | 
- | [tr]({{< ref "/f9/language/tr.md" >}}) | 2295 | 18673 | 12.3 | /mnt/stockage/packages/f9/gnubg/gnubg/po/tr.po | 
- | [da]({{< ref "/f9/language/da.md" >}}) | 917 | 18673 | 4.9 | /mnt/stockage/packages/f9/gnubg/gnubg/po/da.po | 
+ | [error](/f9/language/error) | 18673 | 18673 | 100.0 | /mnt/stockage/packages/f9/gnubg/gnubg/po/en@quot.po | 
+ | [it](/f9/language/it) | 18611 | 18673 | 99.7 | /mnt/stockage/packages/f9/gnubg/gnubg/po/it.po | 
+ | [cs](/f9/language/cs) | 18383 | 18673 | 98.4 | /mnt/stockage/packages/f9/gnubg/gnubg/po/cs.po | 
+ | [de](/f9/language/de) | 17081 | 18673 | 91.5 | /mnt/stockage/packages/f9/gnubg/gnubg/po/de.po | 
+ | [en_US](/f9/language/en_US) | 11975 | 18673 | 64.1 | /mnt/stockage/packages/f9/gnubg/gnubg/po/en_US.po | 
+ | [fr](/f9/language/fr) | 8053 | 18673 | 43.1 | /mnt/stockage/packages/f9/gnubg/gnubg/po/fr.po | 
+ | [ja](/f9/language/ja) | 7101 | 18673 | 38.0 | /mnt/stockage/packages/f9/gnubg/gnubg/po/ja.po | 
+ | [is](/f9/language/is) | 2595 | 18673 | 13.9 | /mnt/stockage/packages/f9/gnubg/gnubg/po/is.po | 
+ | [ru](/f9/language/ru) | 2319 | 18673 | 12.4 | /mnt/stockage/packages/f9/gnubg/gnubg/po/ru.po | 
+ | [tr](/f9/language/tr) | 2295 | 18673 | 12.3 | /mnt/stockage/packages/f9/gnubg/gnubg/po/tr.po | 
+ | [da](/f9/language/da) | 917 | 18673 | 4.9 | /mnt/stockage/packages/f9/gnubg/gnubg/po/da.po | 
 {.sortable}
 
 

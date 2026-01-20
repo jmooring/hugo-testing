@@ -18,20 +18,20 @@ The package gigolo (version 0.3.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [da]({{< ref "/f11/language/da.md" >}}) | 471 | 476 | 98.9 | /mnt/stockage/packages/f11/gigolo/po/da.po | 
- | [ja]({{< ref "/f11/language/ja.md" >}}) | 456 | 476 | 95.8 | /mnt/stockage/packages/f11/gigolo/po/ja.po | 
- | [sv]({{< ref "/f11/language/sv.md" >}}) | 402 | 476 | 84.5 | /mnt/stockage/packages/f11/gigolo/po/sv.po | 
- | [cs]({{< ref "/f11/language/cs.md" >}}) | 394 | 476 | 82.8 | /mnt/stockage/packages/f11/gigolo/po/cs.po | 
- | [pt_BR]({{< ref "/f11/language/pt_BR.md" >}}) | 394 | 476 | 82.8 | /mnt/stockage/packages/f11/gigolo/po/pt_BR.po | 
- | [ca]({{< ref "/f11/language/ca.md" >}}) | 379 | 476 | 79.6 | /mnt/stockage/packages/f11/gigolo/po/ca.po | 
- | [de]({{< ref "/f11/language/de.md" >}}) | 379 | 476 | 79.6 | /mnt/stockage/packages/f11/gigolo/po/de.po | 
- | [el]({{< ref "/f11/language/el.md" >}}) | 379 | 476 | 79.6 | /mnt/stockage/packages/f11/gigolo/po/el.po | 
- | [es]({{< ref "/f11/language/es.md" >}}) | 379 | 476 | 79.6 | /mnt/stockage/packages/f11/gigolo/po/es.po | 
- | [bg]({{< ref "/f11/language/bg.md" >}}) | 375 | 476 | 78.8 | /mnt/stockage/packages/f11/gigolo/po/bg.po | 
- | [it]({{< ref "/f11/language/it.md" >}}) | 375 | 476 | 78.8 | /mnt/stockage/packages/f11/gigolo/po/it.po | 
- | [tr]({{< ref "/f11/language/tr.md" >}}) | 375 | 476 | 78.8 | /mnt/stockage/packages/f11/gigolo/po/tr.po | 
- | [gl]({{< ref "/f11/language/gl.md" >}}) | 227 | 476 | 47.7 | /mnt/stockage/packages/f11/gigolo/po/gl.po | 
- | [fr]({{< ref "/f11/language/fr.md" >}}) | 136 | 476 | 28.6 | /mnt/stockage/packages/f11/gigolo/po/fr.po | 
+ | [da](/f11/language/da) | 471 | 476 | 98.9 | /mnt/stockage/packages/f11/gigolo/po/da.po | 
+ | [ja](/f11/language/ja) | 456 | 476 | 95.8 | /mnt/stockage/packages/f11/gigolo/po/ja.po | 
+ | [sv](/f11/language/sv) | 402 | 476 | 84.5 | /mnt/stockage/packages/f11/gigolo/po/sv.po | 
+ | [cs](/f11/language/cs) | 394 | 476 | 82.8 | /mnt/stockage/packages/f11/gigolo/po/cs.po | 
+ | [pt_BR](/f11/language/pt_BR) | 394 | 476 | 82.8 | /mnt/stockage/packages/f11/gigolo/po/pt_BR.po | 
+ | [ca](/f11/language/ca) | 379 | 476 | 79.6 | /mnt/stockage/packages/f11/gigolo/po/ca.po | 
+ | [de](/f11/language/de) | 379 | 476 | 79.6 | /mnt/stockage/packages/f11/gigolo/po/de.po | 
+ | [el](/f11/language/el) | 379 | 476 | 79.6 | /mnt/stockage/packages/f11/gigolo/po/el.po | 
+ | [es](/f11/language/es) | 379 | 476 | 79.6 | /mnt/stockage/packages/f11/gigolo/po/es.po | 
+ | [bg](/f11/language/bg) | 375 | 476 | 78.8 | /mnt/stockage/packages/f11/gigolo/po/bg.po | 
+ | [it](/f11/language/it) | 375 | 476 | 78.8 | /mnt/stockage/packages/f11/gigolo/po/it.po | 
+ | [tr](/f11/language/tr) | 375 | 476 | 78.8 | /mnt/stockage/packages/f11/gigolo/po/tr.po | 
+ | [gl](/f11/language/gl) | 227 | 476 | 47.7 | /mnt/stockage/packages/f11/gigolo/po/gl.po | 
+ | [fr](/f11/language/fr) | 136 | 476 | 28.6 | /mnt/stockage/packages/f11/gigolo/po/fr.po | 
 {.sortable}
 
 

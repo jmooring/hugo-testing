@@ -18,48 +18,48 @@ The package libkgapi (version 21.12.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f35/language/ar.md" >}}) | 374 | 374 | 100.0 | /mnt/stockage/packages/f35/libkgapi/poqm/ar/libkgapi_qt.po | 
- | [ca]({{< ref "/f35/language/ca.md" >}}) | 374 | 374 | 100.0 | /mnt/stockage/packages/f35/libkgapi/poqm/ca/libkgapi_qt.po | 
- | [ca@valencia]({{< ref "/f35/language/ca@valencia.md" >}}) | 374 | 374 | 100.0 | /mnt/stockage/packages/f35/libkgapi/poqm/ca@valencia/libkgapi_qt.po | 
- | [de]({{< ref "/f35/language/de.md" >}}) | 374 | 374 | 100.0 | /mnt/stockage/packages/f35/libkgapi/poqm/de/libkgapi_qt.po | 
- | [el]({{< ref "/f35/language/el.md" >}}) | 374 | 374 | 100.0 | /mnt/stockage/packages/f35/libkgapi/poqm/el/libkgapi_qt.po | 
- | [en_GB]({{< ref "/f35/language/en_GB.md" >}}) | 374 | 374 | 100.0 | /mnt/stockage/packages/f35/libkgapi/poqm/en_GB/libkgapi_qt.po | 
- | [es]({{< ref "/f35/language/es.md" >}}) | 374 | 374 | 100.0 | /mnt/stockage/packages/f35/libkgapi/poqm/es/libkgapi_qt.po | 
- | [fi]({{< ref "/f35/language/fi.md" >}}) | 374 | 374 | 100.0 | /mnt/stockage/packages/f35/libkgapi/poqm/fi/libkgapi_qt.po | 
- | [fr]({{< ref "/f35/language/fr.md" >}}) | 374 | 374 | 100.0 | /mnt/stockage/packages/f35/libkgapi/poqm/fr/libkgapi_qt.po | 
- | [hu]({{< ref "/f35/language/hu.md" >}}) | 374 | 374 | 100.0 | /mnt/stockage/packages/f35/libkgapi/poqm/hu/libkgapi_qt.po | 
- | [ia]({{< ref "/f35/language/ia.md" >}}) | 374 | 374 | 100.0 | /mnt/stockage/packages/f35/libkgapi/poqm/ia/libkgapi_qt.po | 
- | [it]({{< ref "/f35/language/it.md" >}}) | 374 | 374 | 100.0 | /mnt/stockage/packages/f35/libkgapi/poqm/it/libkgapi_qt.po | 
- | [ko]({{< ref "/f35/language/ko.md" >}}) | 374 | 374 | 100.0 | /mnt/stockage/packages/f35/libkgapi/poqm/ko/libkgapi_qt.po | 
- | [nl]({{< ref "/f35/language/nl.md" >}}) | 374 | 374 | 100.0 | /mnt/stockage/packages/f35/libkgapi/poqm/nl/libkgapi_qt.po | 
- | [nn]({{< ref "/f35/language/nn.md" >}}) | 374 | 374 | 100.0 | /mnt/stockage/packages/f35/libkgapi/poqm/nn/libkgapi_qt.po | 
- | [pl]({{< ref "/f35/language/pl.md" >}}) | 374 | 374 | 100.0 | /mnt/stockage/packages/f35/libkgapi/poqm/pl/libkgapi_qt.po | 
- | [pt]({{< ref "/f35/language/pt.md" >}}) | 374 | 374 | 100.0 | /mnt/stockage/packages/f35/libkgapi/poqm/pt/libkgapi_qt.po | 
- | [pt_BR]({{< ref "/f35/language/pt_BR.md" >}}) | 374 | 374 | 100.0 | /mnt/stockage/packages/f35/libkgapi/poqm/pt_BR/libkgapi_qt.po | 
- | [sl]({{< ref "/f35/language/sl.md" >}}) | 374 | 374 | 100.0 | /mnt/stockage/packages/f35/libkgapi/poqm/sl/libkgapi_qt.po | 
- | [sv]({{< ref "/f35/language/sv.md" >}}) | 374 | 374 | 100.0 | /mnt/stockage/packages/f35/libkgapi/poqm/sv/libkgapi_qt.po | 
- | [uk]({{< ref "/f35/language/uk.md" >}}) | 374 | 374 | 100.0 | /mnt/stockage/packages/f35/libkgapi/poqm/uk/libkgapi_qt.po | 
- | [zh_Hans]({{< ref "/f35/language/zh_Hans.md" >}}) | 374 | 374 | 100.0 | /mnt/stockage/packages/f35/libkgapi/poqm/zh_CN/libkgapi_qt.po | 
- | [cs]({{< ref "/f35/language/cs.md" >}}) | 339 | 374 | 90.6 | /mnt/stockage/packages/f35/libkgapi/poqm/cs/libkgapi_qt.po | 
- | [ro]({{< ref "/f35/language/ro.md" >}}) | 328 | 374 | 87.7 | /mnt/stockage/packages/f35/libkgapi/poqm/ro/libkgapi_qt.po | 
- | [da]({{< ref "/f35/language/da.md" >}}) | 317 | 374 | 84.8 | /mnt/stockage/packages/f35/libkgapi/poqm/da/libkgapi_qt.po | 
- | [et]({{< ref "/f35/language/et.md" >}}) | 317 | 374 | 84.8 | /mnt/stockage/packages/f35/libkgapi/poqm/et/libkgapi_qt.po | 
- | [gl]({{< ref "/f35/language/gl.md" >}}) | 317 | 374 | 84.8 | /mnt/stockage/packages/f35/libkgapi/poqm/gl/libkgapi_qt.po | 
- | [sk]({{< ref "/f35/language/sk.md" >}}) | 317 | 374 | 84.8 | /mnt/stockage/packages/f35/libkgapi/poqm/sk/libkgapi_qt.po | 
- | [sr]({{< ref "/f35/language/sr.md" >}}) | 300 | 360 | 83.3 | /mnt/stockage/packages/f35/libkgapi/poqm/sr/libkgapi_qt.po | 
- | [zh_Hant]({{< ref "/f35/language/zh_Hant.md" >}}) | 301 | 374 | 80.5 | /mnt/stockage/packages/f35/libkgapi/poqm/zh_TW/libkgapi_qt.po | 
- | [ru]({{< ref "/f35/language/ru.md" >}}) | 289 | 374 | 77.3 | /mnt/stockage/packages/f35/libkgapi/poqm/ru/libkgapi_qt.po | 
- | [tr]({{< ref "/f35/language/tr.md" >}}) | 279 | 374 | 74.6 | /mnt/stockage/packages/f35/libkgapi/poqm/tr/libkgapi_qt.po | 
- | [bs]({{< ref "/f35/language/bs.md" >}}) | 0 | 374 | 0.0 | /mnt/stockage/packages/f35/libkgapi/poqm/bs/libkgapi_qt.po | 
- | [ga]({{< ref "/f35/language/ga.md" >}}) | 0 | 374 | 0.0 | /mnt/stockage/packages/f35/libkgapi/poqm/ga/libkgapi_qt.po | 
- | [ja]({{< ref "/f35/language/ja.md" >}}) | 0 | 374 | 0.0 | /mnt/stockage/packages/f35/libkgapi/poqm/ja/libkgapi_qt.po | 
- | [kk]({{< ref "/f35/language/kk.md" >}}) | 0 | 374 | 0.0 | /mnt/stockage/packages/f35/libkgapi/poqm/kk/libkgapi_qt.po | 
- | [km]({{< ref "/f35/language/km.md" >}}) | 0 | 374 | 0.0 | /mnt/stockage/packages/f35/libkgapi/poqm/km/libkgapi_qt.po | 
- | [lt]({{< ref "/f35/language/lt.md" >}}) | 0 | 374 | 0.0 | /mnt/stockage/packages/f35/libkgapi/poqm/lt/libkgapi_qt.po | 
- | [mr]({{< ref "/f35/language/mr.md" >}}) | 0 | 374 | 0.0 | /mnt/stockage/packages/f35/libkgapi/poqm/mr/libkgapi_qt.po | 
- | [nb_NO]({{< ref "/f35/language/nb_NO.md" >}}) | 0 | 374 | 0.0 | /mnt/stockage/packages/f35/libkgapi/poqm/nb/libkgapi_qt.po | 
- | [nds]({{< ref "/f35/language/nds.md" >}}) | 0 | 374 | 0.0 | /mnt/stockage/packages/f35/libkgapi/poqm/nds/libkgapi_qt.po | 
- | [ug]({{< ref "/f35/language/ug.md" >}}) | 0 | 374 | 0.0 | /mnt/stockage/packages/f35/libkgapi/poqm/ug/libkgapi_qt.po | 
+ | [ar](/f35/language/ar) | 374 | 374 | 100.0 | /mnt/stockage/packages/f35/libkgapi/poqm/ar/libkgapi_qt.po | 
+ | [ca](/f35/language/ca) | 374 | 374 | 100.0 | /mnt/stockage/packages/f35/libkgapi/poqm/ca/libkgapi_qt.po | 
+ | [ca@valencia](/f35/language/ca@valencia) | 374 | 374 | 100.0 | /mnt/stockage/packages/f35/libkgapi/poqm/ca@valencia/libkgapi_qt.po | 
+ | [de](/f35/language/de) | 374 | 374 | 100.0 | /mnt/stockage/packages/f35/libkgapi/poqm/de/libkgapi_qt.po | 
+ | [el](/f35/language/el) | 374 | 374 | 100.0 | /mnt/stockage/packages/f35/libkgapi/poqm/el/libkgapi_qt.po | 
+ | [en_GB](/f35/language/en_GB) | 374 | 374 | 100.0 | /mnt/stockage/packages/f35/libkgapi/poqm/en_GB/libkgapi_qt.po | 
+ | [es](/f35/language/es) | 374 | 374 | 100.0 | /mnt/stockage/packages/f35/libkgapi/poqm/es/libkgapi_qt.po | 
+ | [fi](/f35/language/fi) | 374 | 374 | 100.0 | /mnt/stockage/packages/f35/libkgapi/poqm/fi/libkgapi_qt.po | 
+ | [fr](/f35/language/fr) | 374 | 374 | 100.0 | /mnt/stockage/packages/f35/libkgapi/poqm/fr/libkgapi_qt.po | 
+ | [hu](/f35/language/hu) | 374 | 374 | 100.0 | /mnt/stockage/packages/f35/libkgapi/poqm/hu/libkgapi_qt.po | 
+ | [ia](/f35/language/ia) | 374 | 374 | 100.0 | /mnt/stockage/packages/f35/libkgapi/poqm/ia/libkgapi_qt.po | 
+ | [it](/f35/language/it) | 374 | 374 | 100.0 | /mnt/stockage/packages/f35/libkgapi/poqm/it/libkgapi_qt.po | 
+ | [ko](/f35/language/ko) | 374 | 374 | 100.0 | /mnt/stockage/packages/f35/libkgapi/poqm/ko/libkgapi_qt.po | 
+ | [nl](/f35/language/nl) | 374 | 374 | 100.0 | /mnt/stockage/packages/f35/libkgapi/poqm/nl/libkgapi_qt.po | 
+ | [nn](/f35/language/nn) | 374 | 374 | 100.0 | /mnt/stockage/packages/f35/libkgapi/poqm/nn/libkgapi_qt.po | 
+ | [pl](/f35/language/pl) | 374 | 374 | 100.0 | /mnt/stockage/packages/f35/libkgapi/poqm/pl/libkgapi_qt.po | 
+ | [pt](/f35/language/pt) | 374 | 374 | 100.0 | /mnt/stockage/packages/f35/libkgapi/poqm/pt/libkgapi_qt.po | 
+ | [pt_BR](/f35/language/pt_BR) | 374 | 374 | 100.0 | /mnt/stockage/packages/f35/libkgapi/poqm/pt_BR/libkgapi_qt.po | 
+ | [sl](/f35/language/sl) | 374 | 374 | 100.0 | /mnt/stockage/packages/f35/libkgapi/poqm/sl/libkgapi_qt.po | 
+ | [sv](/f35/language/sv) | 374 | 374 | 100.0 | /mnt/stockage/packages/f35/libkgapi/poqm/sv/libkgapi_qt.po | 
+ | [uk](/f35/language/uk) | 374 | 374 | 100.0 | /mnt/stockage/packages/f35/libkgapi/poqm/uk/libkgapi_qt.po | 
+ | [zh_Hans](/f35/language/zh_Hans) | 374 | 374 | 100.0 | /mnt/stockage/packages/f35/libkgapi/poqm/zh_CN/libkgapi_qt.po | 
+ | [cs](/f35/language/cs) | 339 | 374 | 90.6 | /mnt/stockage/packages/f35/libkgapi/poqm/cs/libkgapi_qt.po | 
+ | [ro](/f35/language/ro) | 328 | 374 | 87.7 | /mnt/stockage/packages/f35/libkgapi/poqm/ro/libkgapi_qt.po | 
+ | [da](/f35/language/da) | 317 | 374 | 84.8 | /mnt/stockage/packages/f35/libkgapi/poqm/da/libkgapi_qt.po | 
+ | [et](/f35/language/et) | 317 | 374 | 84.8 | /mnt/stockage/packages/f35/libkgapi/poqm/et/libkgapi_qt.po | 
+ | [gl](/f35/language/gl) | 317 | 374 | 84.8 | /mnt/stockage/packages/f35/libkgapi/poqm/gl/libkgapi_qt.po | 
+ | [sk](/f35/language/sk) | 317 | 374 | 84.8 | /mnt/stockage/packages/f35/libkgapi/poqm/sk/libkgapi_qt.po | 
+ | [sr](/f35/language/sr) | 300 | 360 | 83.3 | /mnt/stockage/packages/f35/libkgapi/poqm/sr/libkgapi_qt.po | 
+ | [zh_Hant](/f35/language/zh_Hant) | 301 | 374 | 80.5 | /mnt/stockage/packages/f35/libkgapi/poqm/zh_TW/libkgapi_qt.po | 
+ | [ru](/f35/language/ru) | 289 | 374 | 77.3 | /mnt/stockage/packages/f35/libkgapi/poqm/ru/libkgapi_qt.po | 
+ | [tr](/f35/language/tr) | 279 | 374 | 74.6 | /mnt/stockage/packages/f35/libkgapi/poqm/tr/libkgapi_qt.po | 
+ | [bs](/f35/language/bs) | 0 | 374 | 0.0 | /mnt/stockage/packages/f35/libkgapi/poqm/bs/libkgapi_qt.po | 
+ | [ga](/f35/language/ga) | 0 | 374 | 0.0 | /mnt/stockage/packages/f35/libkgapi/poqm/ga/libkgapi_qt.po | 
+ | [ja](/f35/language/ja) | 0 | 374 | 0.0 | /mnt/stockage/packages/f35/libkgapi/poqm/ja/libkgapi_qt.po | 
+ | [kk](/f35/language/kk) | 0 | 374 | 0.0 | /mnt/stockage/packages/f35/libkgapi/poqm/kk/libkgapi_qt.po | 
+ | [km](/f35/language/km) | 0 | 374 | 0.0 | /mnt/stockage/packages/f35/libkgapi/poqm/km/libkgapi_qt.po | 
+ | [lt](/f35/language/lt) | 0 | 374 | 0.0 | /mnt/stockage/packages/f35/libkgapi/poqm/lt/libkgapi_qt.po | 
+ | [mr](/f35/language/mr) | 0 | 374 | 0.0 | /mnt/stockage/packages/f35/libkgapi/poqm/mr/libkgapi_qt.po | 
+ | [nb_NO](/f35/language/nb_NO) | 0 | 374 | 0.0 | /mnt/stockage/packages/f35/libkgapi/poqm/nb/libkgapi_qt.po | 
+ | [nds](/f35/language/nds) | 0 | 374 | 0.0 | /mnt/stockage/packages/f35/libkgapi/poqm/nds/libkgapi_qt.po | 
+ | [ug](/f35/language/ug) | 0 | 374 | 0.0 | /mnt/stockage/packages/f35/libkgapi/poqm/ug/libkgapi_qt.po | 
 {.sortable}
 
 

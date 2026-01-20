@@ -38,19 +38,19 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [xournalpp]({{< ref "/f34/package/xournalpp.md" >}}) | 3975 | 4034 | 98.5 | Arabic | 
- | [python-flask-admin]({{< ref "/f34/package/python-flask-admin.md" >}}) | 320 | 367 | 87.2 | Arabic | 
- | [cacti]({{< ref "/f34/package/cacti.md" >}}) | 25869 | 30673 | 84.3 |  | 
- | [poedit]({{< ref "/f34/package/poedit.md" >}}) | 2446 | 2916 | 83.9 | Arabic | 
- | [gimagereader]({{< ref "/f34/package/gimagereader.md" >}}) | 1305 | 1561 | 83.6 | Arabic <https://hosted.weblate.org/projects/gimagereader/translations/ar_SA/> | 
- | [texi2html]({{< ref "/f34/package/texi2html.md" >}}) | 12 | 19 | 63.2 | Arabic <guido@imperia.net> | 
- | [texinfo]({{< ref "/f34/package/texinfo.md" >}}) | 12 | 19 | 63.2 | Arabic <guido@imperia.net> | 
- | [electrum]({{< ref "/f34/package/electrum.md" >}}) | 1747 | 9000 | 19.4 | Arabic | 
- | [gnome-shell-extension-gsconnect]({{< ref "/f34/package/gnome-shell-extension-gsconnect.md" >}}) | 123 | 651 | 18.9 | Arabic | 
- | [pidgin]({{< ref "/f34/package/pidgin.md" >}}) | 85 | 15835 | 0.5 | Arabic (Saudi Arabia) (http://www.transifex.com/pidgin/pidgin/language/ar_SA/) | 
- | [clapper]({{< ref "/f34/package/clapper.md" >}}) | 0 | 272 | 0.0 | Arabic | 
- | [mate-themes]({{< ref "/f34/package/mate-themes.md" >}}) | 0 | 74 | 0.0 | Arabic (Saudi Arabia) (http://www.transifex.com/mate/MATE/language/ar_SA/) | 
- | [pgadmin3]({{< ref "/f34/package/pgadmin3.md" >}}) | 0 | 6318 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [xournalpp](/f34/package/xournalpp) | 3975 | 4034 | 98.5 | Arabic | 
+ | [python-flask-admin](/f34/package/python-flask-admin) | 320 | 367 | 87.2 | Arabic | 
+ | [cacti](/f34/package/cacti) | 25869 | 30673 | 84.3 |  | 
+ | [poedit](/f34/package/poedit) | 2446 | 2916 | 83.9 | Arabic | 
+ | [gimagereader](/f34/package/gimagereader) | 1305 | 1561 | 83.6 | Arabic <https://hosted.weblate.org/projects/gimagereader/translations/ar_SA/> | 
+ | [texi2html](/f34/package/texi2html) | 12 | 19 | 63.2 | Arabic <guido@imperia.net> | 
+ | [texinfo](/f34/package/texinfo) | 12 | 19 | 63.2 | Arabic <guido@imperia.net> | 
+ | [electrum](/f34/package/electrum) | 1747 | 9000 | 19.4 | Arabic | 
+ | [gnome-shell-extension-gsconnect](/f34/package/gnome-shell-extension-gsconnect) | 123 | 651 | 18.9 | Arabic | 
+ | [pidgin](/f34/package/pidgin) | 85 | 15835 | 0.5 | Arabic (Saudi Arabia) (http://www.transifex.com/pidgin/pidgin/language/ar_SA/) | 
+ | [clapper](/f34/package/clapper) | 0 | 272 | 0.0 | Arabic | 
+ | [mate-themes](/f34/package/mate-themes) | 0 | 74 | 0.0 | Arabic (Saudi Arabia) (http://www.transifex.com/mate/MATE/language/ar_SA/) | 
+ | [pgadmin3](/f34/package/pgadmin3) | 0 | 6318 | 0.0 | LANGUAGE <LL@li.org> | 
 {.sortable}
 
 

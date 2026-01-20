@@ -18,18 +18,18 @@ The package siril (version 0.9.12):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f31/language/fr.md" >}}) | 13745 | 13745 | 100.0 | /mnt/stockage/packages/f31/siril/po/fr.po | 
- | [es]({{< ref "/f31/language/es.md" >}}) | 13672 | 13745 | 99.5 | /mnt/stockage/packages/f31/siril/po/es_ES.po | 
- | [it]({{< ref "/f31/language/it.md" >}}) | 13672 | 13745 | 99.5 | /mnt/stockage/packages/f31/siril/po/it_IT.po | 
- | [el]({{< ref "/f31/language/el.md" >}}) | 13522 | 13745 | 98.4 | /mnt/stockage/packages/f31/siril/po/el.po | 
- | [zh_Hans]({{< ref "/f31/language/zh_Hans.md" >}}) | 13522 | 13745 | 98.4 | /mnt/stockage/packages/f31/siril/po/zh_CN.po | 
- | [de]({{< ref "/f31/language/de.md" >}}) | 13454 | 13745 | 97.9 | /mnt/stockage/packages/f31/siril/po/de.po | 
- | [nl_BE]({{< ref "/f31/language/nl_BE.md" >}}) | 12740 | 13745 | 92.7 | /mnt/stockage/packages/f31/siril/po/nl_BE.po | 
- | [ar_DZ]({{< ref "/f31/language/ar_DZ.md" >}}) | 7664 | 11214 | 68.3 | /mnt/stockage/packages/f31/siril/po/ar_DZ.po | 
- | [uk]({{< ref "/f31/language/uk.md" >}}) | 5540 | 11214 | 49.4 | /mnt/stockage/packages/f31/siril/po/uk.po | 
- | [pl]({{< ref "/f31/language/pl.md" >}}) | 6187 | 13745 | 45.0 | /mnt/stockage/packages/f31/siril/po/pl_PL.po | 
- | [pt_PT]({{< ref "/f31/language/pt_PT.md" >}}) | 2553 | 8291 | 30.8 | /mnt/stockage/packages/f31/siril/po/pt_PT.po | 
- | [tl]({{< ref "/f31/language/tl.md" >}}) | 547 | 8802 | 6.2 | /mnt/stockage/packages/f31/siril/po/tl_PH.po | 
+ | [fr](/f31/language/fr) | 13745 | 13745 | 100.0 | /mnt/stockage/packages/f31/siril/po/fr.po | 
+ | [es](/f31/language/es) | 13672 | 13745 | 99.5 | /mnt/stockage/packages/f31/siril/po/es_ES.po | 
+ | [it](/f31/language/it) | 13672 | 13745 | 99.5 | /mnt/stockage/packages/f31/siril/po/it_IT.po | 
+ | [el](/f31/language/el) | 13522 | 13745 | 98.4 | /mnt/stockage/packages/f31/siril/po/el.po | 
+ | [zh_Hans](/f31/language/zh_Hans) | 13522 | 13745 | 98.4 | /mnt/stockage/packages/f31/siril/po/zh_CN.po | 
+ | [de](/f31/language/de) | 13454 | 13745 | 97.9 | /mnt/stockage/packages/f31/siril/po/de.po | 
+ | [nl_BE](/f31/language/nl_BE) | 12740 | 13745 | 92.7 | /mnt/stockage/packages/f31/siril/po/nl_BE.po | 
+ | [ar_DZ](/f31/language/ar_DZ) | 7664 | 11214 | 68.3 | /mnt/stockage/packages/f31/siril/po/ar_DZ.po | 
+ | [uk](/f31/language/uk) | 5540 | 11214 | 49.4 | /mnt/stockage/packages/f31/siril/po/uk.po | 
+ | [pl](/f31/language/pl) | 6187 | 13745 | 45.0 | /mnt/stockage/packages/f31/siril/po/pl_PL.po | 
+ | [pt_PT](/f31/language/pt_PT) | 2553 | 8291 | 30.8 | /mnt/stockage/packages/f31/siril/po/pt_PT.po | 
+ | [tl](/f31/language/tl) | 547 | 8802 | 6.2 | /mnt/stockage/packages/f31/siril/po/tl_PH.po | 
 {.sortable}
 
 

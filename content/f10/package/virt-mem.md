@@ -18,9 +18,9 @@ The package virt-mem (version 0.2.9):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [pl]({{< ref "/f10/language/pl.md" >}}) | 20 | 348 | 5.7 | /mnt/stockage/packages/f10/virt-mem/po/pl.po | 
- | [pt_BR]({{< ref "/f10/language/pt_BR.md" >}}) | 20 | 348 | 5.7 | /mnt/stockage/packages/f10/virt-mem/po/pt_BR.po | 
- | [ja]({{< ref "/f10/language/ja.md" >}}) | 0 | 348 | 0.0 | /mnt/stockage/packages/f10/virt-mem/po/ja.po | 
+ | [pl](/f10/language/pl) | 20 | 348 | 5.7 | /mnt/stockage/packages/f10/virt-mem/po/pl.po | 
+ | [pt_BR](/f10/language/pt_BR) | 20 | 348 | 5.7 | /mnt/stockage/packages/f10/virt-mem/po/pt_BR.po | 
+ | [ja](/f10/language/ja) | 0 | 348 | 0.0 | /mnt/stockage/packages/f10/virt-mem/po/ja.po | 
 {.sortable}
 
 

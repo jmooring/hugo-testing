@@ -18,48 +18,48 @@ The package kde-gtk-config (version 5.10.5):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f26/language/ca.md" >}}) | 309 | 309 | 100.0 | /mnt/stockage/packages/f26/kde-gtk-config/po/ca/kde-gtk-config.po | 
- | [ca@valencia]({{< ref "/f26/language/ca@valencia.md" >}}) | 309 | 309 | 100.0 | /mnt/stockage/packages/f26/kde-gtk-config/po/ca@valencia/kde-gtk-config.po | 
- | [de]({{< ref "/f26/language/de.md" >}}) | 309 | 309 | 100.0 | /mnt/stockage/packages/f26/kde-gtk-config/po/de/kde-gtk-config.po | 
- | [el]({{< ref "/f26/language/el.md" >}}) | 309 | 309 | 100.0 | /mnt/stockage/packages/f26/kde-gtk-config/po/el/kde-gtk-config.po | 
- | [en_GB]({{< ref "/f26/language/en_GB.md" >}}) | 309 | 309 | 100.0 | /mnt/stockage/packages/f26/kde-gtk-config/po/en_GB/kde-gtk-config.po | 
- | [es]({{< ref "/f26/language/es.md" >}}) | 309 | 309 | 100.0 | /mnt/stockage/packages/f26/kde-gtk-config/po/es/kde-gtk-config.po | 
- | [fi]({{< ref "/f26/language/fi.md" >}}) | 309 | 309 | 100.0 | /mnt/stockage/packages/f26/kde-gtk-config/po/fi/kde-gtk-config.po | 
- | [fr]({{< ref "/f26/language/fr.md" >}}) | 309 | 309 | 100.0 | /mnt/stockage/packages/f26/kde-gtk-config/po/fr/kde-gtk-config.po | 
- | [it]({{< ref "/f26/language/it.md" >}}) | 309 | 309 | 100.0 | /mnt/stockage/packages/f26/kde-gtk-config/po/it/kde-gtk-config.po | 
- | [nl]({{< ref "/f26/language/nl.md" >}}) | 309 | 309 | 100.0 | /mnt/stockage/packages/f26/kde-gtk-config/po/nl/kde-gtk-config.po | 
- | [pl]({{< ref "/f26/language/pl.md" >}}) | 309 | 309 | 100.0 | /mnt/stockage/packages/f26/kde-gtk-config/po/pl/kde-gtk-config.po | 
- | [pt]({{< ref "/f26/language/pt.md" >}}) | 309 | 309 | 100.0 | /mnt/stockage/packages/f26/kde-gtk-config/po/pt/kde-gtk-config.po | 
- | [pt_BR]({{< ref "/f26/language/pt_BR.md" >}}) | 309 | 309 | 100.0 | /mnt/stockage/packages/f26/kde-gtk-config/po/pt_BR/kde-gtk-config.po | 
- | [sk]({{< ref "/f26/language/sk.md" >}}) | 309 | 309 | 100.0 | /mnt/stockage/packages/f26/kde-gtk-config/po/sk/kde-gtk-config.po | 
- | [sl]({{< ref "/f26/language/sl.md" >}}) | 309 | 309 | 100.0 | /mnt/stockage/packages/f26/kde-gtk-config/po/sl/kde-gtk-config.po | 
- | [sr]({{< ref "/f26/language/sr.md" >}}) | 309 | 309 | 100.0 | /mnt/stockage/packages/f26/kde-gtk-config/po/sr/kde-gtk-config.po | 
- | [sr@ijekavian]({{< ref "/f26/language/sr@ijekavian.md" >}}) | 309 | 309 | 100.0 | /mnt/stockage/packages/f26/kde-gtk-config/po/sr@ijekavian/kde-gtk-config.po | 
- | [sr@ijekavian_Latn]({{< ref "/f26/language/sr@ijekavian_Latn.md" >}}) | 309 | 309 | 100.0 | /mnt/stockage/packages/f26/kde-gtk-config/po/sr@ijekavianlatin/kde-gtk-config.po | 
- | [sr_Latn]({{< ref "/f26/language/sr_Latn.md" >}}) | 309 | 309 | 100.0 | /mnt/stockage/packages/f26/kde-gtk-config/po/sr@latin/kde-gtk-config.po | 
- | [sv]({{< ref "/f26/language/sv.md" >}}) | 309 | 309 | 100.0 | /mnt/stockage/packages/f26/kde-gtk-config/po/sv/kde-gtk-config.po | 
- | [tr]({{< ref "/f26/language/tr.md" >}}) | 309 | 309 | 100.0 | /mnt/stockage/packages/f26/kde-gtk-config/po/tr/kde-gtk-config.po | 
- | [uk]({{< ref "/f26/language/uk.md" >}}) | 309 | 309 | 100.0 | /mnt/stockage/packages/f26/kde-gtk-config/po/uk/kde-gtk-config.po | 
- | [zh_Hans]({{< ref "/f26/language/zh_Hans.md" >}}) | 309 | 309 | 100.0 | /mnt/stockage/packages/f26/kde-gtk-config/po/zh_CN/kde-gtk-config.po | 
- | [zh_Hant]({{< ref "/f26/language/zh_Hant.md" >}}) | 309 | 309 | 100.0 | /mnt/stockage/packages/f26/kde-gtk-config/po/zh_TW/kde-gtk-config.po | 
- | [cs]({{< ref "/f26/language/cs.md" >}}) | 305 | 309 | 98.7 | /mnt/stockage/packages/f26/kde-gtk-config/po/cs/kde-gtk-config.po | 
- | [da]({{< ref "/f26/language/da.md" >}}) | 294 | 309 | 95.1 | /mnt/stockage/packages/f26/kde-gtk-config/po/da/kde-gtk-config.po | 
- | [et]({{< ref "/f26/language/et.md" >}}) | 294 | 309 | 95.1 | /mnt/stockage/packages/f26/kde-gtk-config/po/et/kde-gtk-config.po | 
- | [gl]({{< ref "/f26/language/gl.md" >}}) | 294 | 309 | 95.1 | /mnt/stockage/packages/f26/kde-gtk-config/po/gl/kde-gtk-config.po | 
- | [hu]({{< ref "/f26/language/hu.md" >}}) | 294 | 309 | 95.1 | /mnt/stockage/packages/f26/kde-gtk-config/po/hu/kde-gtk-config.po | 
- | [ko]({{< ref "/f26/language/ko.md" >}}) | 294 | 309 | 95.1 | /mnt/stockage/packages/f26/kde-gtk-config/po/ko/kde-gtk-config.po | 
- | [lt]({{< ref "/f26/language/lt.md" >}}) | 294 | 309 | 95.1 | /mnt/stockage/packages/f26/kde-gtk-config/po/lt/kde-gtk-config.po | 
- | [nn]({{< ref "/f26/language/nn.md" >}}) | 294 | 309 | 95.1 | /mnt/stockage/packages/f26/kde-gtk-config/po/nn/kde-gtk-config.po | 
- | [ru]({{< ref "/f26/language/ru.md" >}}) | 294 | 309 | 95.1 | /mnt/stockage/packages/f26/kde-gtk-config/po/ru/kde-gtk-config.po | 
- | [bs]({{< ref "/f26/language/bs.md" >}}) | 292 | 309 | 94.5 | /mnt/stockage/packages/f26/kde-gtk-config/po/bs/kde-gtk-config.po | 
- | [nb_NO]({{< ref "/f26/language/nb_NO.md" >}}) | 292 | 309 | 94.5 | /mnt/stockage/packages/f26/kde-gtk-config/po/nb/kde-gtk-config.po | 
- | [ro]({{< ref "/f26/language/ro.md" >}}) | 292 | 309 | 94.5 | /mnt/stockage/packages/f26/kde-gtk-config/po/ro/kde-gtk-config.po | 
- | [he]({{< ref "/f26/language/he.md" >}}) | 275 | 309 | 89.0 | /mnt/stockage/packages/f26/kde-gtk-config/po/he/kde-gtk-config.po | 
- | [ar]({{< ref "/f26/language/ar.md" >}}) | 270 | 309 | 87.4 | /mnt/stockage/packages/f26/kde-gtk-config/po/ar/kde-gtk-config.po | 
- | [ia]({{< ref "/f26/language/ia.md" >}}) | 26 | 309 | 8.4 | /mnt/stockage/packages/f26/kde-gtk-config/po/ia/kde-gtk-config.po | 
- | [pa]({{< ref "/f26/language/pa.md" >}}) | 8 | 309 | 2.6 | /mnt/stockage/packages/f26/kde-gtk-config/po/pa/kde-gtk-config.po | 
- | [ast]({{< ref "/f26/language/ast.md" >}}) | 4 | 309 | 1.3 | /mnt/stockage/packages/f26/kde-gtk-config/po/ast/kde-gtk-config.po | 
- | [ja]({{< ref "/f26/language/ja.md" >}}) | 0 | 309 | 0.0 | /mnt/stockage/packages/f26/kde-gtk-config/po/ja/kde-gtk-config.po | 
+ | [ca](/f26/language/ca) | 309 | 309 | 100.0 | /mnt/stockage/packages/f26/kde-gtk-config/po/ca/kde-gtk-config.po | 
+ | [ca@valencia](/f26/language/ca@valencia) | 309 | 309 | 100.0 | /mnt/stockage/packages/f26/kde-gtk-config/po/ca@valencia/kde-gtk-config.po | 
+ | [de](/f26/language/de) | 309 | 309 | 100.0 | /mnt/stockage/packages/f26/kde-gtk-config/po/de/kde-gtk-config.po | 
+ | [el](/f26/language/el) | 309 | 309 | 100.0 | /mnt/stockage/packages/f26/kde-gtk-config/po/el/kde-gtk-config.po | 
+ | [en_GB](/f26/language/en_GB) | 309 | 309 | 100.0 | /mnt/stockage/packages/f26/kde-gtk-config/po/en_GB/kde-gtk-config.po | 
+ | [es](/f26/language/es) | 309 | 309 | 100.0 | /mnt/stockage/packages/f26/kde-gtk-config/po/es/kde-gtk-config.po | 
+ | [fi](/f26/language/fi) | 309 | 309 | 100.0 | /mnt/stockage/packages/f26/kde-gtk-config/po/fi/kde-gtk-config.po | 
+ | [fr](/f26/language/fr) | 309 | 309 | 100.0 | /mnt/stockage/packages/f26/kde-gtk-config/po/fr/kde-gtk-config.po | 
+ | [it](/f26/language/it) | 309 | 309 | 100.0 | /mnt/stockage/packages/f26/kde-gtk-config/po/it/kde-gtk-config.po | 
+ | [nl](/f26/language/nl) | 309 | 309 | 100.0 | /mnt/stockage/packages/f26/kde-gtk-config/po/nl/kde-gtk-config.po | 
+ | [pl](/f26/language/pl) | 309 | 309 | 100.0 | /mnt/stockage/packages/f26/kde-gtk-config/po/pl/kde-gtk-config.po | 
+ | [pt](/f26/language/pt) | 309 | 309 | 100.0 | /mnt/stockage/packages/f26/kde-gtk-config/po/pt/kde-gtk-config.po | 
+ | [pt_BR](/f26/language/pt_BR) | 309 | 309 | 100.0 | /mnt/stockage/packages/f26/kde-gtk-config/po/pt_BR/kde-gtk-config.po | 
+ | [sk](/f26/language/sk) | 309 | 309 | 100.0 | /mnt/stockage/packages/f26/kde-gtk-config/po/sk/kde-gtk-config.po | 
+ | [sl](/f26/language/sl) | 309 | 309 | 100.0 | /mnt/stockage/packages/f26/kde-gtk-config/po/sl/kde-gtk-config.po | 
+ | [sr](/f26/language/sr) | 309 | 309 | 100.0 | /mnt/stockage/packages/f26/kde-gtk-config/po/sr/kde-gtk-config.po | 
+ | [sr@ijekavian](/f26/language/sr@ijekavian) | 309 | 309 | 100.0 | /mnt/stockage/packages/f26/kde-gtk-config/po/sr@ijekavian/kde-gtk-config.po | 
+ | [sr@ijekavian_Latn](/f26/language/sr@ijekavian_Latn) | 309 | 309 | 100.0 | /mnt/stockage/packages/f26/kde-gtk-config/po/sr@ijekavianlatin/kde-gtk-config.po | 
+ | [sr_Latn](/f26/language/sr_Latn) | 309 | 309 | 100.0 | /mnt/stockage/packages/f26/kde-gtk-config/po/sr@latin/kde-gtk-config.po | 
+ | [sv](/f26/language/sv) | 309 | 309 | 100.0 | /mnt/stockage/packages/f26/kde-gtk-config/po/sv/kde-gtk-config.po | 
+ | [tr](/f26/language/tr) | 309 | 309 | 100.0 | /mnt/stockage/packages/f26/kde-gtk-config/po/tr/kde-gtk-config.po | 
+ | [uk](/f26/language/uk) | 309 | 309 | 100.0 | /mnt/stockage/packages/f26/kde-gtk-config/po/uk/kde-gtk-config.po | 
+ | [zh_Hans](/f26/language/zh_Hans) | 309 | 309 | 100.0 | /mnt/stockage/packages/f26/kde-gtk-config/po/zh_CN/kde-gtk-config.po | 
+ | [zh_Hant](/f26/language/zh_Hant) | 309 | 309 | 100.0 | /mnt/stockage/packages/f26/kde-gtk-config/po/zh_TW/kde-gtk-config.po | 
+ | [cs](/f26/language/cs) | 305 | 309 | 98.7 | /mnt/stockage/packages/f26/kde-gtk-config/po/cs/kde-gtk-config.po | 
+ | [da](/f26/language/da) | 294 | 309 | 95.1 | /mnt/stockage/packages/f26/kde-gtk-config/po/da/kde-gtk-config.po | 
+ | [et](/f26/language/et) | 294 | 309 | 95.1 | /mnt/stockage/packages/f26/kde-gtk-config/po/et/kde-gtk-config.po | 
+ | [gl](/f26/language/gl) | 294 | 309 | 95.1 | /mnt/stockage/packages/f26/kde-gtk-config/po/gl/kde-gtk-config.po | 
+ | [hu](/f26/language/hu) | 294 | 309 | 95.1 | /mnt/stockage/packages/f26/kde-gtk-config/po/hu/kde-gtk-config.po | 
+ | [ko](/f26/language/ko) | 294 | 309 | 95.1 | /mnt/stockage/packages/f26/kde-gtk-config/po/ko/kde-gtk-config.po | 
+ | [lt](/f26/language/lt) | 294 | 309 | 95.1 | /mnt/stockage/packages/f26/kde-gtk-config/po/lt/kde-gtk-config.po | 
+ | [nn](/f26/language/nn) | 294 | 309 | 95.1 | /mnt/stockage/packages/f26/kde-gtk-config/po/nn/kde-gtk-config.po | 
+ | [ru](/f26/language/ru) | 294 | 309 | 95.1 | /mnt/stockage/packages/f26/kde-gtk-config/po/ru/kde-gtk-config.po | 
+ | [bs](/f26/language/bs) | 292 | 309 | 94.5 | /mnt/stockage/packages/f26/kde-gtk-config/po/bs/kde-gtk-config.po | 
+ | [nb_NO](/f26/language/nb_NO) | 292 | 309 | 94.5 | /mnt/stockage/packages/f26/kde-gtk-config/po/nb/kde-gtk-config.po | 
+ | [ro](/f26/language/ro) | 292 | 309 | 94.5 | /mnt/stockage/packages/f26/kde-gtk-config/po/ro/kde-gtk-config.po | 
+ | [he](/f26/language/he) | 275 | 309 | 89.0 | /mnt/stockage/packages/f26/kde-gtk-config/po/he/kde-gtk-config.po | 
+ | [ar](/f26/language/ar) | 270 | 309 | 87.4 | /mnt/stockage/packages/f26/kde-gtk-config/po/ar/kde-gtk-config.po | 
+ | [ia](/f26/language/ia) | 26 | 309 | 8.4 | /mnt/stockage/packages/f26/kde-gtk-config/po/ia/kde-gtk-config.po | 
+ | [pa](/f26/language/pa) | 8 | 309 | 2.6 | /mnt/stockage/packages/f26/kde-gtk-config/po/pa/kde-gtk-config.po | 
+ | [ast](/f26/language/ast) | 4 | 309 | 1.3 | /mnt/stockage/packages/f26/kde-gtk-config/po/ast/kde-gtk-config.po | 
+ | [ja](/f26/language/ja) | 0 | 309 | 0.0 | /mnt/stockage/packages/f26/kde-gtk-config/po/ja/kde-gtk-config.po | 
 {.sortable}
 
 

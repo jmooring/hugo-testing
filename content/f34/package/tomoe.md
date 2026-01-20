@@ -18,7 +18,7 @@ The package tomoe (version 0.6.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ja]({{< ref "/f34/language/ja.md" >}}) | 73 | 74 | 98.6 | /mnt/stockage/packages/f34/tomoe/po/ja.po | 
+ | [ja](/f34/language/ja) | 73 | 74 | 98.6 | /mnt/stockage/packages/f34/tomoe/po/ja.po | 
 {.sortable}
 
 

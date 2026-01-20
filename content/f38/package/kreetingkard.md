@@ -18,7 +18,7 @@ The package kreetingkard (version 0.7.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ja]({{< ref "/f38/language/ja.md" >}}) | 333 | 345 | 96.5 | /mnt/stockage/packages/f38/kreetingkard/po/ja.po | 
+ | [ja](/f38/language/ja) | 333 | 345 | 96.5 | /mnt/stockage/packages/f38/kreetingkard/po/ja.po | 
 {.sortable}
 
 

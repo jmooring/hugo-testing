@@ -38,15 +38,15 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [lagrange]({{< ref "/f39/package/lagrange.md" >}}) | 1951 | 1965 | 99.3 | Toki Pona <http://weblate.skyjake.fi/projects/lagrange/ui/tok/> | 
- | [kf5-kxmlgui]({{< ref "/f39/package/kf5-kxmlgui.md" >}}) | 1535 | 1574 | 97.5 | toki pona | 
- | [kf5-kcoreaddons]({{< ref "/f39/package/kf5-kcoreaddons.md" >}}) | 352 | 382 | 92.1 | toki pona | 
- | [kf5-kio]({{< ref "/f39/package/kf5-kio.md" >}}) | 7247 | 12037 | 60.2 | Toki Pona <http://weblate.blackquill.cc/projects/ante-toki-pi-ilo-kde/base/tok/> | 
- | [neochat]({{< ref "/f39/package/neochat.md" >}}) | 165 | 2731 | 6.0 | Toki Pona <http://weblate.blackquill.cc/projects/ante-toki-pi-ilo-kde/neochat/tok/> | 
- | [plasma-workspace]({{< ref "/f39/package/plasma-workspace.md" >}}) | 258 | 12899 | 2.0 | Toki Pona <http://weblate.blackquill.cc/projects/ante-toki-pi-ilo-kde/ilo-lawa-pi-ilo-kule-pi-ilo-plasma/tok/> | 
- | [minetest]({{< ref "/f39/package/minetest.md" >}}) | 56 | 9676 | 0.6 | Toki Pona <https://hosted.weblate.org/projects/minetest/minetest/tok/> | 
- | [kolourpaint]({{< ref "/f39/package/kolourpaint.md" >}}) | 10 | 2576 | 0.4 | Toki Pona <http://weblate.blackquill.cc/projects/ante-toki-pi-ilo-kde/ilo-sitelen-kolourpaint/tok/> | 
- | [gpaste]({{< ref "/f39/package/gpaste.md" >}}) | 0 | 1477 | 0.0 | none | 
+ | [lagrange](/f39/package/lagrange) | 1951 | 1965 | 99.3 | Toki Pona <http://weblate.skyjake.fi/projects/lagrange/ui/tok/> | 
+ | [kf5-kxmlgui](/f39/package/kf5-kxmlgui) | 1535 | 1574 | 97.5 | toki pona | 
+ | [kf5-kcoreaddons](/f39/package/kf5-kcoreaddons) | 352 | 382 | 92.1 | toki pona | 
+ | [kf5-kio](/f39/package/kf5-kio) | 7247 | 12037 | 60.2 | Toki Pona <http://weblate.blackquill.cc/projects/ante-toki-pi-ilo-kde/base/tok/> | 
+ | [neochat](/f39/package/neochat) | 165 | 2731 | 6.0 | Toki Pona <http://weblate.blackquill.cc/projects/ante-toki-pi-ilo-kde/neochat/tok/> | 
+ | [plasma-workspace](/f39/package/plasma-workspace) | 258 | 12899 | 2.0 | Toki Pona <http://weblate.blackquill.cc/projects/ante-toki-pi-ilo-kde/ilo-lawa-pi-ilo-kule-pi-ilo-plasma/tok/> | 
+ | [minetest](/f39/package/minetest) | 56 | 9676 | 0.6 | Toki Pona <https://hosted.weblate.org/projects/minetest/minetest/tok/> | 
+ | [kolourpaint](/f39/package/kolourpaint) | 10 | 2576 | 0.4 | Toki Pona <http://weblate.blackquill.cc/projects/ante-toki-pi-ilo-kde/ilo-sitelen-kolourpaint/tok/> | 
+ | [gpaste](/f39/package/gpaste) | 0 | 1477 | 0.0 | none | 
 {.sortable}
 
 

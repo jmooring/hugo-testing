@@ -38,7 +38,7 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [supertuxkart]({{< ref "/f26/package/supertuxkart.md" >}}) | 3137 | 3361 | 93.3 | Karelian (http://www.transifex.com/supertuxkart/supertuxkart/language/krl/) | 
+ | [supertuxkart](/f26/package/supertuxkart) | 3137 | 3361 | 93.3 | Karelian (http://www.transifex.com/supertuxkart/supertuxkart/language/krl/) | 
 {.sortable}
 
 

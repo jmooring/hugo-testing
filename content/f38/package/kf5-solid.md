@@ -18,69 +18,69 @@ The package kf5-solid (version 5.115.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f38/language/ar.md" >}}) | 588 | 588 | 100.0 | /mnt/stockage/packages/f38/kf5-solid/poqm/ar/solid5_qt.po | 
- | [az]({{< ref "/f38/language/az.md" >}}) | 588 | 588 | 100.0 | /mnt/stockage/packages/f38/kf5-solid/poqm/az/solid5_qt.po | 
- | [bg]({{< ref "/f38/language/bg.md" >}}) | 588 | 588 | 100.0 | /mnt/stockage/packages/f38/kf5-solid/poqm/bg/solid5_qt.po | 
- | [ca]({{< ref "/f38/language/ca.md" >}}) | 588 | 588 | 100.0 | /mnt/stockage/packages/f38/kf5-solid/poqm/ca/solid5_qt.po | 
- | [ca@valencia]({{< ref "/f38/language/ca@valencia.md" >}}) | 588 | 588 | 100.0 | /mnt/stockage/packages/f38/kf5-solid/poqm/ca@valencia/solid5_qt.po | 
- | [de]({{< ref "/f38/language/de.md" >}}) | 588 | 588 | 100.0 | /mnt/stockage/packages/f38/kf5-solid/poqm/de/solid5_qt.po | 
- | [en_GB]({{< ref "/f38/language/en_GB.md" >}}) | 588 | 588 | 100.0 | /mnt/stockage/packages/f38/kf5-solid/poqm/en_GB/solid5_qt.po | 
- | [eo]({{< ref "/f38/language/eo.md" >}}) | 588 | 588 | 100.0 | /mnt/stockage/packages/f38/kf5-solid/poqm/eo/solid5_qt.po | 
- | [es]({{< ref "/f38/language/es.md" >}}) | 588 | 588 | 100.0 | /mnt/stockage/packages/f38/kf5-solid/poqm/es/solid5_qt.po | 
- | [eu]({{< ref "/f38/language/eu.md" >}}) | 588 | 588 | 100.0 | /mnt/stockage/packages/f38/kf5-solid/poqm/eu/solid5_qt.po | 
- | [fi]({{< ref "/f38/language/fi.md" >}}) | 588 | 588 | 100.0 | /mnt/stockage/packages/f38/kf5-solid/poqm/fi/solid5_qt.po | 
- | [fr]({{< ref "/f38/language/fr.md" >}}) | 588 | 588 | 100.0 | /mnt/stockage/packages/f38/kf5-solid/poqm/fr/solid5_qt.po | 
- | [gl]({{< ref "/f38/language/gl.md" >}}) | 588 | 588 | 100.0 | /mnt/stockage/packages/f38/kf5-solid/poqm/gl/solid5_qt.po | 
- | [ia]({{< ref "/f38/language/ia.md" >}}) | 588 | 588 | 100.0 | /mnt/stockage/packages/f38/kf5-solid/poqm/ia/solid5_qt.po | 
- | [it]({{< ref "/f38/language/it.md" >}}) | 588 | 588 | 100.0 | /mnt/stockage/packages/f38/kf5-solid/poqm/it/solid5_qt.po | 
- | [ka]({{< ref "/f38/language/ka.md" >}}) | 588 | 588 | 100.0 | /mnt/stockage/packages/f38/kf5-solid/poqm/ka/solid5_qt.po | 
- | [ko]({{< ref "/f38/language/ko.md" >}}) | 588 | 588 | 100.0 | /mnt/stockage/packages/f38/kf5-solid/poqm/ko/solid5_qt.po | 
- | [nl]({{< ref "/f38/language/nl.md" >}}) | 588 | 588 | 100.0 | /mnt/stockage/packages/f38/kf5-solid/poqm/nl/solid5_qt.po | 
- | [nn]({{< ref "/f38/language/nn.md" >}}) | 588 | 588 | 100.0 | /mnt/stockage/packages/f38/kf5-solid/poqm/nn/solid5_qt.po | 
- | [pl]({{< ref "/f38/language/pl.md" >}}) | 588 | 588 | 100.0 | /mnt/stockage/packages/f38/kf5-solid/poqm/pl/solid5_qt.po | 
- | [pt]({{< ref "/f38/language/pt.md" >}}) | 588 | 588 | 100.0 | /mnt/stockage/packages/f38/kf5-solid/poqm/pt/solid5_qt.po | 
- | [pt_BR]({{< ref "/f38/language/pt_BR.md" >}}) | 588 | 588 | 100.0 | /mnt/stockage/packages/f38/kf5-solid/poqm/pt_BR/solid5_qt.po | 
- | [ru]({{< ref "/f38/language/ru.md" >}}) | 588 | 588 | 100.0 | /mnt/stockage/packages/f38/kf5-solid/poqm/ru/solid5_qt.po | 
- | [sl]({{< ref "/f38/language/sl.md" >}}) | 588 | 588 | 100.0 | /mnt/stockage/packages/f38/kf5-solid/poqm/sl/solid5_qt.po | 
- | [sv]({{< ref "/f38/language/sv.md" >}}) | 588 | 588 | 100.0 | /mnt/stockage/packages/f38/kf5-solid/poqm/sv/solid5_qt.po | 
- | [tr]({{< ref "/f38/language/tr.md" >}}) | 588 | 588 | 100.0 | /mnt/stockage/packages/f38/kf5-solid/poqm/tr/solid5_qt.po | 
- | [uk]({{< ref "/f38/language/uk.md" >}}) | 588 | 588 | 100.0 | /mnt/stockage/packages/f38/kf5-solid/poqm/uk/solid5_qt.po | 
- | [zh_Hans]({{< ref "/f38/language/zh_Hans.md" >}}) | 588 | 588 | 100.0 | /mnt/stockage/packages/f38/kf5-solid/poqm/zh_CN/solid5_qt.po | 
- | [zh_Hant]({{< ref "/f38/language/zh_Hant.md" >}}) | 588 | 588 | 100.0 | /mnt/stockage/packages/f38/kf5-solid/poqm/zh_TW/solid5_qt.po | 
- | [sr]({{< ref "/f38/language/sr.md" >}}) | 672 | 682 | 98.5 | /mnt/stockage/packages/f38/kf5-solid/poqm/sr/solid5_qt.po | 
- | [sr@ijekavian]({{< ref "/f38/language/sr@ijekavian.md" >}}) | 672 | 682 | 98.5 | /mnt/stockage/packages/f38/kf5-solid/poqm/sr@ijekavian/solid5_qt.po | 
- | [sr@ijekavian_Latn]({{< ref "/f38/language/sr@ijekavian_Latn.md" >}}) | 672 | 682 | 98.5 | /mnt/stockage/packages/f38/kf5-solid/poqm/sr@ijekavianlatin/solid5_qt.po | 
- | [sr_Latn]({{< ref "/f38/language/sr_Latn.md" >}}) | 672 | 682 | 98.5 | /mnt/stockage/packages/f38/kf5-solid/poqm/sr@latin/solid5_qt.po | 
- | [cs]({{< ref "/f38/language/cs.md" >}}) | 568 | 588 | 96.6 | /mnt/stockage/packages/f38/kf5-solid/poqm/cs/solid5_qt.po | 
- | [hu]({{< ref "/f38/language/hu.md" >}}) | 555 | 588 | 94.4 | /mnt/stockage/packages/f38/kf5-solid/poqm/hu/solid5_qt.po | 
- | [sk]({{< ref "/f38/language/sk.md" >}}) | 555 | 588 | 94.4 | /mnt/stockage/packages/f38/kf5-solid/poqm/sk/solid5_qt.po | 
- | [da]({{< ref "/f38/language/da.md" >}}) | 551 | 588 | 93.7 | /mnt/stockage/packages/f38/kf5-solid/poqm/da/solid5_qt.po | 
- | [el]({{< ref "/f38/language/el.md" >}}) | 551 | 588 | 93.7 | /mnt/stockage/packages/f38/kf5-solid/poqm/el/solid5_qt.po | 
- | [et]({{< ref "/f38/language/et.md" >}}) | 537 | 588 | 91.3 | /mnt/stockage/packages/f38/kf5-solid/poqm/et/solid5_qt.po | 
- | [id]({{< ref "/f38/language/id.md" >}}) | 533 | 588 | 90.6 | /mnt/stockage/packages/f38/kf5-solid/poqm/id/solid5_qt.po | 
- | [lt]({{< ref "/f38/language/lt.md" >}}) | 533 | 588 | 90.6 | /mnt/stockage/packages/f38/kf5-solid/poqm/lt/solid5_qt.po | 
- | [tg]({{< ref "/f38/language/tg.md" >}}) | 533 | 588 | 90.6 | /mnt/stockage/packages/f38/kf5-solid/poqm/tg/solid5_qt.po | 
- | [nb_NO]({{< ref "/f38/language/nb_NO.md" >}}) | 523 | 588 | 88.9 | /mnt/stockage/packages/f38/kf5-solid/poqm/nb/solid5_qt.po | 
- | [bs]({{< ref "/f38/language/bs.md" >}}) | 518 | 588 | 88.1 | /mnt/stockage/packages/f38/kf5-solid/poqm/bs/solid5_qt.po | 
- | [gd]({{< ref "/f38/language/gd.md" >}}) | 518 | 588 | 88.1 | /mnt/stockage/packages/f38/kf5-solid/poqm/gd/solid5_qt.po | 
- | [nds]({{< ref "/f38/language/nds.md" >}}) | 498 | 588 | 84.7 | /mnt/stockage/packages/f38/kf5-solid/poqm/nds/solid5_qt.po | 
- | [ro]({{< ref "/f38/language/ro.md" >}}) | 388 | 588 | 66.0 | /mnt/stockage/packages/f38/kf5-solid/poqm/ro/solid5_qt.po | 
- | [pa]({{< ref "/f38/language/pa.md" >}}) | 347 | 588 | 59.0 | /mnt/stockage/packages/f38/kf5-solid/poqm/pa/solid5_qt.po | 
- | [is]({{< ref "/f38/language/is.md" >}}) | 319 | 588 | 54.3 | /mnt/stockage/packages/f38/kf5-solid/poqm/is/solid5_qt.po | 
- | [mr]({{< ref "/f38/language/mr.md" >}}) | 283 | 588 | 48.1 | /mnt/stockage/packages/f38/kf5-solid/poqm/mr/solid5_qt.po | 
- | [ta]({{< ref "/f38/language/ta.md" >}}) | 170 | 588 | 28.9 | /mnt/stockage/packages/f38/kf5-solid/poqm/ta/solid5_qt.po | 
- | [ja]({{< ref "/f38/language/ja.md" >}}) | 120 | 588 | 20.4 | /mnt/stockage/packages/f38/kf5-solid/poqm/ja/solid5_qt.po | 
- | [he]({{< ref "/f38/language/he.md" >}}) | 72 | 588 | 12.2 | /mnt/stockage/packages/f38/kf5-solid/poqm/he/solid5_qt.po | 
- | [ga]({{< ref "/f38/language/ga.md" >}}) | 0 | 588 | 0.0 | /mnt/stockage/packages/f38/kf5-solid/poqm/ga/solid5_qt.po | 
- | [hr]({{< ref "/f38/language/hr.md" >}}) | 0 | 588 | 0.0 | /mnt/stockage/packages/f38/kf5-solid/poqm/hr/solid5_qt.po | 
- | [kk]({{< ref "/f38/language/kk.md" >}}) | 0 | 588 | 0.0 | /mnt/stockage/packages/f38/kf5-solid/poqm/kk/solid5_qt.po | 
- | [km]({{< ref "/f38/language/km.md" >}}) | 0 | 588 | 0.0 | /mnt/stockage/packages/f38/kf5-solid/poqm/km/solid5_qt.po | 
- | [lv]({{< ref "/f38/language/lv.md" >}}) | 0 | 588 | 0.0 | /mnt/stockage/packages/f38/kf5-solid/poqm/lv/solid5_qt.po | 
- | [ml]({{< ref "/f38/language/ml.md" >}}) | 0 | 588 | 0.0 | /mnt/stockage/packages/f38/kf5-solid/poqm/ml/solid5_qt.po | 
- | [ms]({{< ref "/f38/language/ms.md" >}}) | 0 | 588 | 0.0 | /mnt/stockage/packages/f38/kf5-solid/poqm/ms/solid5_qt.po | 
- | [se]({{< ref "/f38/language/se.md" >}}) | 0 | 588 | 0.0 | /mnt/stockage/packages/f38/kf5-solid/poqm/se/solid5_qt.po | 
- | [th]({{< ref "/f38/language/th.md" >}}) | 0 | 588 | 0.0 | /mnt/stockage/packages/f38/kf5-solid/poqm/th/solid5_qt.po | 
- | [ug]({{< ref "/f38/language/ug.md" >}}) | 0 | 588 | 0.0 | /mnt/stockage/packages/f38/kf5-solid/poqm/ug/solid5_qt.po | 
+ | [ar](/f38/language/ar) | 588 | 588 | 100.0 | /mnt/stockage/packages/f38/kf5-solid/poqm/ar/solid5_qt.po | 
+ | [az](/f38/language/az) | 588 | 588 | 100.0 | /mnt/stockage/packages/f38/kf5-solid/poqm/az/solid5_qt.po | 
+ | [bg](/f38/language/bg) | 588 | 588 | 100.0 | /mnt/stockage/packages/f38/kf5-solid/poqm/bg/solid5_qt.po | 
+ | [ca](/f38/language/ca) | 588 | 588 | 100.0 | /mnt/stockage/packages/f38/kf5-solid/poqm/ca/solid5_qt.po | 
+ | [ca@valencia](/f38/language/ca@valencia) | 588 | 588 | 100.0 | /mnt/stockage/packages/f38/kf5-solid/poqm/ca@valencia/solid5_qt.po | 
+ | [de](/f38/language/de) | 588 | 588 | 100.0 | /mnt/stockage/packages/f38/kf5-solid/poqm/de/solid5_qt.po | 
+ | [en_GB](/f38/language/en_GB) | 588 | 588 | 100.0 | /mnt/stockage/packages/f38/kf5-solid/poqm/en_GB/solid5_qt.po | 
+ | [eo](/f38/language/eo) | 588 | 588 | 100.0 | /mnt/stockage/packages/f38/kf5-solid/poqm/eo/solid5_qt.po | 
+ | [es](/f38/language/es) | 588 | 588 | 100.0 | /mnt/stockage/packages/f38/kf5-solid/poqm/es/solid5_qt.po | 
+ | [eu](/f38/language/eu) | 588 | 588 | 100.0 | /mnt/stockage/packages/f38/kf5-solid/poqm/eu/solid5_qt.po | 
+ | [fi](/f38/language/fi) | 588 | 588 | 100.0 | /mnt/stockage/packages/f38/kf5-solid/poqm/fi/solid5_qt.po | 
+ | [fr](/f38/language/fr) | 588 | 588 | 100.0 | /mnt/stockage/packages/f38/kf5-solid/poqm/fr/solid5_qt.po | 
+ | [gl](/f38/language/gl) | 588 | 588 | 100.0 | /mnt/stockage/packages/f38/kf5-solid/poqm/gl/solid5_qt.po | 
+ | [ia](/f38/language/ia) | 588 | 588 | 100.0 | /mnt/stockage/packages/f38/kf5-solid/poqm/ia/solid5_qt.po | 
+ | [it](/f38/language/it) | 588 | 588 | 100.0 | /mnt/stockage/packages/f38/kf5-solid/poqm/it/solid5_qt.po | 
+ | [ka](/f38/language/ka) | 588 | 588 | 100.0 | /mnt/stockage/packages/f38/kf5-solid/poqm/ka/solid5_qt.po | 
+ | [ko](/f38/language/ko) | 588 | 588 | 100.0 | /mnt/stockage/packages/f38/kf5-solid/poqm/ko/solid5_qt.po | 
+ | [nl](/f38/language/nl) | 588 | 588 | 100.0 | /mnt/stockage/packages/f38/kf5-solid/poqm/nl/solid5_qt.po | 
+ | [nn](/f38/language/nn) | 588 | 588 | 100.0 | /mnt/stockage/packages/f38/kf5-solid/poqm/nn/solid5_qt.po | 
+ | [pl](/f38/language/pl) | 588 | 588 | 100.0 | /mnt/stockage/packages/f38/kf5-solid/poqm/pl/solid5_qt.po | 
+ | [pt](/f38/language/pt) | 588 | 588 | 100.0 | /mnt/stockage/packages/f38/kf5-solid/poqm/pt/solid5_qt.po | 
+ | [pt_BR](/f38/language/pt_BR) | 588 | 588 | 100.0 | /mnt/stockage/packages/f38/kf5-solid/poqm/pt_BR/solid5_qt.po | 
+ | [ru](/f38/language/ru) | 588 | 588 | 100.0 | /mnt/stockage/packages/f38/kf5-solid/poqm/ru/solid5_qt.po | 
+ | [sl](/f38/language/sl) | 588 | 588 | 100.0 | /mnt/stockage/packages/f38/kf5-solid/poqm/sl/solid5_qt.po | 
+ | [sv](/f38/language/sv) | 588 | 588 | 100.0 | /mnt/stockage/packages/f38/kf5-solid/poqm/sv/solid5_qt.po | 
+ | [tr](/f38/language/tr) | 588 | 588 | 100.0 | /mnt/stockage/packages/f38/kf5-solid/poqm/tr/solid5_qt.po | 
+ | [uk](/f38/language/uk) | 588 | 588 | 100.0 | /mnt/stockage/packages/f38/kf5-solid/poqm/uk/solid5_qt.po | 
+ | [zh_Hans](/f38/language/zh_Hans) | 588 | 588 | 100.0 | /mnt/stockage/packages/f38/kf5-solid/poqm/zh_CN/solid5_qt.po | 
+ | [zh_Hant](/f38/language/zh_Hant) | 588 | 588 | 100.0 | /mnt/stockage/packages/f38/kf5-solid/poqm/zh_TW/solid5_qt.po | 
+ | [sr](/f38/language/sr) | 672 | 682 | 98.5 | /mnt/stockage/packages/f38/kf5-solid/poqm/sr/solid5_qt.po | 
+ | [sr@ijekavian](/f38/language/sr@ijekavian) | 672 | 682 | 98.5 | /mnt/stockage/packages/f38/kf5-solid/poqm/sr@ijekavian/solid5_qt.po | 
+ | [sr@ijekavian_Latn](/f38/language/sr@ijekavian_Latn) | 672 | 682 | 98.5 | /mnt/stockage/packages/f38/kf5-solid/poqm/sr@ijekavianlatin/solid5_qt.po | 
+ | [sr_Latn](/f38/language/sr_Latn) | 672 | 682 | 98.5 | /mnt/stockage/packages/f38/kf5-solid/poqm/sr@latin/solid5_qt.po | 
+ | [cs](/f38/language/cs) | 568 | 588 | 96.6 | /mnt/stockage/packages/f38/kf5-solid/poqm/cs/solid5_qt.po | 
+ | [hu](/f38/language/hu) | 555 | 588 | 94.4 | /mnt/stockage/packages/f38/kf5-solid/poqm/hu/solid5_qt.po | 
+ | [sk](/f38/language/sk) | 555 | 588 | 94.4 | /mnt/stockage/packages/f38/kf5-solid/poqm/sk/solid5_qt.po | 
+ | [da](/f38/language/da) | 551 | 588 | 93.7 | /mnt/stockage/packages/f38/kf5-solid/poqm/da/solid5_qt.po | 
+ | [el](/f38/language/el) | 551 | 588 | 93.7 | /mnt/stockage/packages/f38/kf5-solid/poqm/el/solid5_qt.po | 
+ | [et](/f38/language/et) | 537 | 588 | 91.3 | /mnt/stockage/packages/f38/kf5-solid/poqm/et/solid5_qt.po | 
+ | [id](/f38/language/id) | 533 | 588 | 90.6 | /mnt/stockage/packages/f38/kf5-solid/poqm/id/solid5_qt.po | 
+ | [lt](/f38/language/lt) | 533 | 588 | 90.6 | /mnt/stockage/packages/f38/kf5-solid/poqm/lt/solid5_qt.po | 
+ | [tg](/f38/language/tg) | 533 | 588 | 90.6 | /mnt/stockage/packages/f38/kf5-solid/poqm/tg/solid5_qt.po | 
+ | [nb_NO](/f38/language/nb_NO) | 523 | 588 | 88.9 | /mnt/stockage/packages/f38/kf5-solid/poqm/nb/solid5_qt.po | 
+ | [bs](/f38/language/bs) | 518 | 588 | 88.1 | /mnt/stockage/packages/f38/kf5-solid/poqm/bs/solid5_qt.po | 
+ | [gd](/f38/language/gd) | 518 | 588 | 88.1 | /mnt/stockage/packages/f38/kf5-solid/poqm/gd/solid5_qt.po | 
+ | [nds](/f38/language/nds) | 498 | 588 | 84.7 | /mnt/stockage/packages/f38/kf5-solid/poqm/nds/solid5_qt.po | 
+ | [ro](/f38/language/ro) | 388 | 588 | 66.0 | /mnt/stockage/packages/f38/kf5-solid/poqm/ro/solid5_qt.po | 
+ | [pa](/f38/language/pa) | 347 | 588 | 59.0 | /mnt/stockage/packages/f38/kf5-solid/poqm/pa/solid5_qt.po | 
+ | [is](/f38/language/is) | 319 | 588 | 54.3 | /mnt/stockage/packages/f38/kf5-solid/poqm/is/solid5_qt.po | 
+ | [mr](/f38/language/mr) | 283 | 588 | 48.1 | /mnt/stockage/packages/f38/kf5-solid/poqm/mr/solid5_qt.po | 
+ | [ta](/f38/language/ta) | 170 | 588 | 28.9 | /mnt/stockage/packages/f38/kf5-solid/poqm/ta/solid5_qt.po | 
+ | [ja](/f38/language/ja) | 120 | 588 | 20.4 | /mnt/stockage/packages/f38/kf5-solid/poqm/ja/solid5_qt.po | 
+ | [he](/f38/language/he) | 72 | 588 | 12.2 | /mnt/stockage/packages/f38/kf5-solid/poqm/he/solid5_qt.po | 
+ | [ga](/f38/language/ga) | 0 | 588 | 0.0 | /mnt/stockage/packages/f38/kf5-solid/poqm/ga/solid5_qt.po | 
+ | [hr](/f38/language/hr) | 0 | 588 | 0.0 | /mnt/stockage/packages/f38/kf5-solid/poqm/hr/solid5_qt.po | 
+ | [kk](/f38/language/kk) | 0 | 588 | 0.0 | /mnt/stockage/packages/f38/kf5-solid/poqm/kk/solid5_qt.po | 
+ | [km](/f38/language/km) | 0 | 588 | 0.0 | /mnt/stockage/packages/f38/kf5-solid/poqm/km/solid5_qt.po | 
+ | [lv](/f38/language/lv) | 0 | 588 | 0.0 | /mnt/stockage/packages/f38/kf5-solid/poqm/lv/solid5_qt.po | 
+ | [ml](/f38/language/ml) | 0 | 588 | 0.0 | /mnt/stockage/packages/f38/kf5-solid/poqm/ml/solid5_qt.po | 
+ | [ms](/f38/language/ms) | 0 | 588 | 0.0 | /mnt/stockage/packages/f38/kf5-solid/poqm/ms/solid5_qt.po | 
+ | [se](/f38/language/se) | 0 | 588 | 0.0 | /mnt/stockage/packages/f38/kf5-solid/poqm/se/solid5_qt.po | 
+ | [th](/f38/language/th) | 0 | 588 | 0.0 | /mnt/stockage/packages/f38/kf5-solid/poqm/th/solid5_qt.po | 
+ | [ug](/f38/language/ug) | 0 | 588 | 0.0 | /mnt/stockage/packages/f38/kf5-solid/poqm/ug/solid5_qt.po | 
 {.sortable}
 
 

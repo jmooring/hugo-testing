@@ -18,8 +18,8 @@ The package mathmap (version 1.3.5):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f16/language/fr.md" >}}) | 61 | 61 | 100.0 | /mnt/stockage/packages/f16/mathmap/fr.po | 
- | [ru]({{< ref "/f16/language/ru.md" >}}) | 73 | 73 | 100.0 | /mnt/stockage/packages/f16/mathmap/ru.po | 
+ | [fr](/f16/language/fr) | 61 | 61 | 100.0 | /mnt/stockage/packages/f16/mathmap/fr.po | 
+ | [ru](/f16/language/ru) | 73 | 73 | 100.0 | /mnt/stockage/packages/f16/mathmap/ru.po | 
 {.sortable}
 
 

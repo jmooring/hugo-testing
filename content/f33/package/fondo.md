@@ -18,18 +18,18 @@ The package fondo (version 1.5.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f33/language/cs.md" >}}) | 772 | 779 | 99.1 | /mnt/stockage/packages/f33/fondo/po/cs.po/mnt/stockage/packages/f33/fondo/po/extra/cs.po | 
- | [ru]({{< ref "/f33/language/ru.md" >}}) | 251 | 256 | 98.0 | /mnt/stockage/packages/f33/fondo/po/ru.po | 
- | [nl]({{< ref "/f33/language/nl.md" >}}) | 708 | 792 | 89.4 | /mnt/stockage/packages/f33/fondo/po/nl.po/mnt/stockage/packages/f33/fondo/po/extra/nl.po | 
- | [sr]({{< ref "/f33/language/sr.md" >}}) | 670 | 792 | 84.6 | /mnt/stockage/packages/f33/fondo/po/sr.po/mnt/stockage/packages/f33/fondo/po/extra/sr.po | 
- | [es]({{< ref "/f33/language/es.md" >}}) | 655 | 792 | 82.7 | /mnt/stockage/packages/f33/fondo/po/es.po/mnt/stockage/packages/f33/fondo/po/extra/es.po | 
- | [it]({{< ref "/f33/language/it.md" >}}) | 624 | 792 | 78.8 | /mnt/stockage/packages/f33/fondo/po/it.po/mnt/stockage/packages/f33/fondo/po/extra/it.po | 
- | [hr]({{< ref "/f33/language/hr.md" >}}) | 529 | 792 | 66.8 | /mnt/stockage/packages/f33/fondo/po/hr.po/mnt/stockage/packages/f33/fondo/po/extra/hr.po | 
- | [pt]({{< ref "/f33/language/pt.md" >}}) | 529 | 792 | 66.8 | /mnt/stockage/packages/f33/fondo/po/pt.po/mnt/stockage/packages/f33/fondo/po/extra/pt.po | 
- | [de]({{< ref "/f33/language/de.md" >}}) | 455 | 791 | 57.5 | /mnt/stockage/packages/f33/fondo/po/de.po/mnt/stockage/packages/f33/fondo/po/extra/de.po | 
- | [tr]({{< ref "/f33/language/tr.md" >}}) | 438 | 792 | 55.3 | /mnt/stockage/packages/f33/fondo/po/tr.po/mnt/stockage/packages/f33/fondo/po/extra/tr.po | 
- | [pt_BR]({{< ref "/f33/language/pt_BR.md" >}}) | 319 | 792 | 40.3 | /mnt/stockage/packages/f33/fondo/po/pt_BR.po/mnt/stockage/packages/f33/fondo/po/extra/pt_BR.po | 
- | [fr]({{< ref "/f33/language/fr.md" >}}) | 307 | 792 | 38.8 | /mnt/stockage/packages/f33/fondo/po/fr.po/mnt/stockage/packages/f33/fondo/po/extra/fr.po | 
+ | [cs](/f33/language/cs) | 772 | 779 | 99.1 | /mnt/stockage/packages/f33/fondo/po/cs.po/mnt/stockage/packages/f33/fondo/po/extra/cs.po | 
+ | [ru](/f33/language/ru) | 251 | 256 | 98.0 | /mnt/stockage/packages/f33/fondo/po/ru.po | 
+ | [nl](/f33/language/nl) | 708 | 792 | 89.4 | /mnt/stockage/packages/f33/fondo/po/nl.po/mnt/stockage/packages/f33/fondo/po/extra/nl.po | 
+ | [sr](/f33/language/sr) | 670 | 792 | 84.6 | /mnt/stockage/packages/f33/fondo/po/sr.po/mnt/stockage/packages/f33/fondo/po/extra/sr.po | 
+ | [es](/f33/language/es) | 655 | 792 | 82.7 | /mnt/stockage/packages/f33/fondo/po/es.po/mnt/stockage/packages/f33/fondo/po/extra/es.po | 
+ | [it](/f33/language/it) | 624 | 792 | 78.8 | /mnt/stockage/packages/f33/fondo/po/it.po/mnt/stockage/packages/f33/fondo/po/extra/it.po | 
+ | [hr](/f33/language/hr) | 529 | 792 | 66.8 | /mnt/stockage/packages/f33/fondo/po/hr.po/mnt/stockage/packages/f33/fondo/po/extra/hr.po | 
+ | [pt](/f33/language/pt) | 529 | 792 | 66.8 | /mnt/stockage/packages/f33/fondo/po/pt.po/mnt/stockage/packages/f33/fondo/po/extra/pt.po | 
+ | [de](/f33/language/de) | 455 | 791 | 57.5 | /mnt/stockage/packages/f33/fondo/po/de.po/mnt/stockage/packages/f33/fondo/po/extra/de.po | 
+ | [tr](/f33/language/tr) | 438 | 792 | 55.3 | /mnt/stockage/packages/f33/fondo/po/tr.po/mnt/stockage/packages/f33/fondo/po/extra/tr.po | 
+ | [pt_BR](/f33/language/pt_BR) | 319 | 792 | 40.3 | /mnt/stockage/packages/f33/fondo/po/pt_BR.po/mnt/stockage/packages/f33/fondo/po/extra/pt_BR.po | 
+ | [fr](/f33/language/fr) | 307 | 792 | 38.8 | /mnt/stockage/packages/f33/fondo/po/fr.po/mnt/stockage/packages/f33/fondo/po/extra/fr.po | 
 {.sortable}
 
 

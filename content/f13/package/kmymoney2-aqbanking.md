@@ -18,7 +18,7 @@ The package kmymoney2-aqbanking (version 1.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f13/language/de.md" >}}) | 260 | 260 | 100.0 | /mnt/stockage/packages/f13/kmymoney2-aqbanking/po/de.po | 
+ | [de](/f13/language/de) | 260 | 260 | 100.0 | /mnt/stockage/packages/f13/kmymoney2-aqbanking/po/de.po | 
 {.sortable}
 
 

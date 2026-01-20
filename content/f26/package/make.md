@@ -18,31 +18,31 @@ The package make (version 4.2.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f26/language/cs.md" >}}) | 2252 | 2266 | 99.4 | /mnt/stockage/packages/f26/make/po/cs.po | 
- | [hr]({{< ref "/f26/language/hr.md" >}}) | 2252 | 2266 | 99.4 | /mnt/stockage/packages/f26/make/po/hr.po | 
- | [ja]({{< ref "/f26/language/ja.md" >}}) | 2252 | 2266 | 99.4 | /mnt/stockage/packages/f26/make/po/ja.po | 
- | [ko]({{< ref "/f26/language/ko.md" >}}) | 2252 | 2266 | 99.4 | /mnt/stockage/packages/f26/make/po/ko.po | 
- | [nl]({{< ref "/f26/language/nl.md" >}}) | 2252 | 2266 | 99.4 | /mnt/stockage/packages/f26/make/po/nl.po | 
- | [pl]({{< ref "/f26/language/pl.md" >}}) | 2252 | 2266 | 99.4 | /mnt/stockage/packages/f26/make/po/pl.po | 
- | [ru]({{< ref "/f26/language/ru.md" >}}) | 2252 | 2266 | 99.4 | /mnt/stockage/packages/f26/make/po/ru.po | 
- | [sv]({{< ref "/f26/language/sv.md" >}}) | 2252 | 2266 | 99.4 | /mnt/stockage/packages/f26/make/po/sv.po | 
- | [uk]({{< ref "/f26/language/uk.md" >}}) | 2252 | 2266 | 99.4 | /mnt/stockage/packages/f26/make/po/uk.po | 
- | [vi]({{< ref "/f26/language/vi.md" >}}) | 2252 | 2266 | 99.4 | /mnt/stockage/packages/f26/make/po/vi.po | 
- | [de]({{< ref "/f26/language/de.md" >}}) | 2236 | 2266 | 98.7 | /mnt/stockage/packages/f26/make/po/de.po | 
- | [es]({{< ref "/f26/language/es.md" >}}) | 2236 | 2266 | 98.7 | /mnt/stockage/packages/f26/make/po/es.po | 
- | [zh_Hans]({{< ref "/f26/language/zh_Hans.md" >}}) | 2236 | 2266 | 98.7 | /mnt/stockage/packages/f26/make/po/zh_CN.po | 
- | [fr]({{< ref "/f26/language/fr.md" >}}) | 2188 | 2266 | 96.6 | /mnt/stockage/packages/f26/make/po/fr.po | 
- | [id]({{< ref "/f26/language/id.md" >}}) | 2144 | 2266 | 94.6 | /mnt/stockage/packages/f26/make/po/id.po | 
- | [it]({{< ref "/f26/language/it.md" >}}) | 2144 | 2266 | 94.6 | /mnt/stockage/packages/f26/make/po/it.po | 
- | [fi]({{< ref "/f26/language/fi.md" >}}) | 1570 | 2266 | 69.3 | /mnt/stockage/packages/f26/make/po/fi.po | 
- | [da]({{< ref "/f26/language/da.md" >}}) | 1149 | 2266 | 50.7 | /mnt/stockage/packages/f26/make/po/da.po | 
- | [pt_BR]({{< ref "/f26/language/pt_BR.md" >}}) | 1149 | 2266 | 50.7 | /mnt/stockage/packages/f26/make/po/pt_BR.po | 
- | [gl]({{< ref "/f26/language/gl.md" >}}) | 1002 | 2266 | 44.2 | /mnt/stockage/packages/f26/make/po/gl.po | 
- | [ga]({{< ref "/f26/language/ga.md" >}}) | 867 | 2266 | 38.3 | /mnt/stockage/packages/f26/make/po/ga.po | 
- | [tr]({{< ref "/f26/language/tr.md" >}}) | 867 | 2266 | 38.3 | /mnt/stockage/packages/f26/make/po/tr.po | 
- | [he]({{< ref "/f26/language/he.md" >}}) | 520 | 2266 | 22.9 | /mnt/stockage/packages/f26/make/po/he.po | 
- | [lt]({{< ref "/f26/language/lt.md" >}}) | 306 | 2266 | 13.5 | /mnt/stockage/packages/f26/make/po/lt.po | 
- | [be]({{< ref "/f26/language/be.md" >}}) | 241 | 2266 | 10.6 | /mnt/stockage/packages/f26/make/po/be.po | 
+ | [cs](/f26/language/cs) | 2252 | 2266 | 99.4 | /mnt/stockage/packages/f26/make/po/cs.po | 
+ | [hr](/f26/language/hr) | 2252 | 2266 | 99.4 | /mnt/stockage/packages/f26/make/po/hr.po | 
+ | [ja](/f26/language/ja) | 2252 | 2266 | 99.4 | /mnt/stockage/packages/f26/make/po/ja.po | 
+ | [ko](/f26/language/ko) | 2252 | 2266 | 99.4 | /mnt/stockage/packages/f26/make/po/ko.po | 
+ | [nl](/f26/language/nl) | 2252 | 2266 | 99.4 | /mnt/stockage/packages/f26/make/po/nl.po | 
+ | [pl](/f26/language/pl) | 2252 | 2266 | 99.4 | /mnt/stockage/packages/f26/make/po/pl.po | 
+ | [ru](/f26/language/ru) | 2252 | 2266 | 99.4 | /mnt/stockage/packages/f26/make/po/ru.po | 
+ | [sv](/f26/language/sv) | 2252 | 2266 | 99.4 | /mnt/stockage/packages/f26/make/po/sv.po | 
+ | [uk](/f26/language/uk) | 2252 | 2266 | 99.4 | /mnt/stockage/packages/f26/make/po/uk.po | 
+ | [vi](/f26/language/vi) | 2252 | 2266 | 99.4 | /mnt/stockage/packages/f26/make/po/vi.po | 
+ | [de](/f26/language/de) | 2236 | 2266 | 98.7 | /mnt/stockage/packages/f26/make/po/de.po | 
+ | [es](/f26/language/es) | 2236 | 2266 | 98.7 | /mnt/stockage/packages/f26/make/po/es.po | 
+ | [zh_Hans](/f26/language/zh_Hans) | 2236 | 2266 | 98.7 | /mnt/stockage/packages/f26/make/po/zh_CN.po | 
+ | [fr](/f26/language/fr) | 2188 | 2266 | 96.6 | /mnt/stockage/packages/f26/make/po/fr.po | 
+ | [id](/f26/language/id) | 2144 | 2266 | 94.6 | /mnt/stockage/packages/f26/make/po/id.po | 
+ | [it](/f26/language/it) | 2144 | 2266 | 94.6 | /mnt/stockage/packages/f26/make/po/it.po | 
+ | [fi](/f26/language/fi) | 1570 | 2266 | 69.3 | /mnt/stockage/packages/f26/make/po/fi.po | 
+ | [da](/f26/language/da) | 1149 | 2266 | 50.7 | /mnt/stockage/packages/f26/make/po/da.po | 
+ | [pt_BR](/f26/language/pt_BR) | 1149 | 2266 | 50.7 | /mnt/stockage/packages/f26/make/po/pt_BR.po | 
+ | [gl](/f26/language/gl) | 1002 | 2266 | 44.2 | /mnt/stockage/packages/f26/make/po/gl.po | 
+ | [ga](/f26/language/ga) | 867 | 2266 | 38.3 | /mnt/stockage/packages/f26/make/po/ga.po | 
+ | [tr](/f26/language/tr) | 867 | 2266 | 38.3 | /mnt/stockage/packages/f26/make/po/tr.po | 
+ | [he](/f26/language/he) | 520 | 2266 | 22.9 | /mnt/stockage/packages/f26/make/po/he.po | 
+ | [lt](/f26/language/lt) | 306 | 2266 | 13.5 | /mnt/stockage/packages/f26/make/po/lt.po | 
+ | [be](/f26/language/be) | 241 | 2266 | 10.6 | /mnt/stockage/packages/f26/make/po/be.po | 
 {.sortable}
 
 

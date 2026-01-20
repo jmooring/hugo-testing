@@ -18,7 +18,7 @@ The package cpm (version 0.23):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f14/language/de.md" >}}) | 1132 | 1132 | 100.0 | /mnt/stockage/packages/f14/cpm/po/de_DE.po | 
+ | [de](/f14/language/de) | 1132 | 1132 | 100.0 | /mnt/stockage/packages/f14/cpm/po/de_DE.po | 
 {.sortable}
 
 

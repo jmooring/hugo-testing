@@ -18,13 +18,13 @@ The package gxmessage (version 2.20.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f34/language/de.md" >}}) | 245 | 245 | 100.0 | /mnt/stockage/packages/f34/gxmessage/po/de.po | 
- | [sv]({{< ref "/f34/language/sv.md" >}}) | 243 | 243 | 100.0 | /mnt/stockage/packages/f34/gxmessage/po/sv.po | 
- | [sk]({{< ref "/f34/language/sk.md" >}}) | 177 | 243 | 72.8 | /mnt/stockage/packages/f34/gxmessage/po/sk.po | 
- | [en_AU]({{< ref "/f34/language/en_AU.md" >}}) | 22 | 267 | 8.2 | /mnt/stockage/packages/f34/gxmessage/po/en_AU.po | 
- | [en_CA]({{< ref "/f34/language/en_CA.md" >}}) | 22 | 267 | 8.2 | /mnt/stockage/packages/f34/gxmessage/po/en_CA.po | 
- | [en_GB]({{< ref "/f34/language/en_GB.md" >}}) | 22 | 267 | 8.2 | /mnt/stockage/packages/f34/gxmessage/po/en_GB.po | 
- | [en_NZ]({{< ref "/f34/language/en_NZ.md" >}}) | 22 | 267 | 8.2 | /mnt/stockage/packages/f34/gxmessage/po/en_NZ.po | 
+ | [de](/f34/language/de) | 245 | 245 | 100.0 | /mnt/stockage/packages/f34/gxmessage/po/de.po | 
+ | [sv](/f34/language/sv) | 243 | 243 | 100.0 | /mnt/stockage/packages/f34/gxmessage/po/sv.po | 
+ | [sk](/f34/language/sk) | 177 | 243 | 72.8 | /mnt/stockage/packages/f34/gxmessage/po/sk.po | 
+ | [en_AU](/f34/language/en_AU) | 22 | 267 | 8.2 | /mnt/stockage/packages/f34/gxmessage/po/en_AU.po | 
+ | [en_CA](/f34/language/en_CA) | 22 | 267 | 8.2 | /mnt/stockage/packages/f34/gxmessage/po/en_CA.po | 
+ | [en_GB](/f34/language/en_GB) | 22 | 267 | 8.2 | /mnt/stockage/packages/f34/gxmessage/po/en_GB.po | 
+ | [en_NZ](/f34/language/en_NZ) | 22 | 267 | 8.2 | /mnt/stockage/packages/f34/gxmessage/po/en_NZ.po | 
 {.sortable}
 
 

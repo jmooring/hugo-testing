@@ -38,12 +38,12 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [exaile]({{< ref "/f21/package/exaile.md" >}}) | 3852 | 4006 | 96.2 | Sardinian <https://hosted.weblate.org/projects/exaile/master/sc/> | 
- | [mate-notification-daemon]({{< ref "/f21/package/mate-notification-daemon.md" >}}) | 145 | 152 | 95.4 | Sardinian (http://www.transifex.com/projects/p/MATE/language/sc/) | 
- | [gnome-do]({{< ref "/f21/package/gnome-do.md" >}}) | 473 | 612 | 77.3 | Sardinian <sc@li.org> | 
- | [mate-desktop]({{< ref "/f21/package/mate-desktop.md" >}}) | 804 | 2396 | 33.6 | Sardinian (http://www.transifex.com/projects/p/MATE/language/sc/) | 
- | [calibre]({{< ref "/f21/package/calibre.md" >}}) | 3 | 144413 | 0.0 | Sardinian (http://www.transifex.com/projects/p/calibre/language/sc/) | 
- | [lightdm]({{< ref "/f21/package/lightdm.md" >}}) | 0 | 79 | 0.0 | Sardinian <sc@li.org> | 
+ | [exaile](/f21/package/exaile) | 3852 | 4006 | 96.2 | Sardinian <https://hosted.weblate.org/projects/exaile/master/sc/> | 
+ | [mate-notification-daemon](/f21/package/mate-notification-daemon) | 145 | 152 | 95.4 | Sardinian (http://www.transifex.com/projects/p/MATE/language/sc/) | 
+ | [gnome-do](/f21/package/gnome-do) | 473 | 612 | 77.3 | Sardinian <sc@li.org> | 
+ | [mate-desktop](/f21/package/mate-desktop) | 804 | 2396 | 33.6 | Sardinian (http://www.transifex.com/projects/p/MATE/language/sc/) | 
+ | [calibre](/f21/package/calibre) | 3 | 144413 | 0.0 | Sardinian (http://www.transifex.com/projects/p/calibre/language/sc/) | 
+ | [lightdm](/f21/package/lightdm) | 0 | 79 | 0.0 | Sardinian <sc@li.org> | 
 {.sortable}
 
 

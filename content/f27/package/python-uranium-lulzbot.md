@@ -18,20 +18,20 @@ The package python-uranium-lulzbot (version 3.2.23):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f27/language/de.md" >}}) | 404 | 404 | 100.0 | /mnt/stockage/packages/f27/python-uranium-lulzbot/resources/i18n/de/uranium.po | 
- | [en]({{< ref "/f27/language/en.md" >}}) | 404 | 404 | 100.0 | /mnt/stockage/packages/f27/python-uranium-lulzbot/resources/i18n/en/uranium.po | 
- | [error]({{< ref "/f27/language/error.md" >}}) | 404 | 404 | 100.0 | /mnt/stockage/packages/f27/python-uranium-lulzbot/resources/i18n/ptbr/uranium.po | 
- | [es]({{< ref "/f27/language/es.md" >}}) | 404 | 404 | 100.0 | /mnt/stockage/packages/f27/python-uranium-lulzbot/resources/i18n/es/uranium.po | 
- | [fi]({{< ref "/f27/language/fi.md" >}}) | 404 | 404 | 100.0 | /mnt/stockage/packages/f27/python-uranium-lulzbot/resources/i18n/fi/uranium.po | 
- | [fr]({{< ref "/f27/language/fr.md" >}}) | 404 | 404 | 100.0 | /mnt/stockage/packages/f27/python-uranium-lulzbot/resources/i18n/fr/uranium.po | 
- | [it]({{< ref "/f27/language/it.md" >}}) | 404 | 404 | 100.0 | /mnt/stockage/packages/f27/python-uranium-lulzbot/resources/i18n/it/uranium.po | 
- | [nl]({{< ref "/f27/language/nl.md" >}}) | 404 | 404 | 100.0 | /mnt/stockage/packages/f27/python-uranium-lulzbot/resources/i18n/nl/uranium.po | 
- | [pt_PT]({{< ref "/f27/language/pt_PT.md" >}}) | 589 | 589 | 100.0 | /mnt/stockage/packages/f27/python-uranium-lulzbot/resources/i18n/pt_PT/uranium.po | 
- | [ru]({{< ref "/f27/language/ru.md" >}}) | 404 | 404 | 100.0 | /mnt/stockage/packages/f27/python-uranium-lulzbot/resources/i18n/ru/uranium.po | 
- | [tr]({{< ref "/f27/language/tr.md" >}}) | 404 | 404 | 100.0 | /mnt/stockage/packages/f27/python-uranium-lulzbot/resources/i18n/tr/uranium.po | 
- | [zh_Hant]({{< ref "/f27/language/zh_Hant.md" >}}) | 589 | 589 | 100.0 | /mnt/stockage/packages/f27/python-uranium-lulzbot/resources/i18n/zh_TW/uranium.po | 
- | [pl]({{< ref "/f27/language/pl.md" >}}) | 382 | 404 | 94.6 | /mnt/stockage/packages/f27/python-uranium-lulzbot/resources/i18n/pl/uranium.po | 
- | [hu]({{< ref "/f27/language/hu.md" >}}) | 0 | 404 | 0.0 | /mnt/stockage/packages/f27/python-uranium-lulzbot/resources/i18n/hu/uranium.po | 
+ | [de](/f27/language/de) | 404 | 404 | 100.0 | /mnt/stockage/packages/f27/python-uranium-lulzbot/resources/i18n/de/uranium.po | 
+ | [en](/f27/language/en) | 404 | 404 | 100.0 | /mnt/stockage/packages/f27/python-uranium-lulzbot/resources/i18n/en/uranium.po | 
+ | [error](/f27/language/error) | 404 | 404 | 100.0 | /mnt/stockage/packages/f27/python-uranium-lulzbot/resources/i18n/ptbr/uranium.po | 
+ | [es](/f27/language/es) | 404 | 404 | 100.0 | /mnt/stockage/packages/f27/python-uranium-lulzbot/resources/i18n/es/uranium.po | 
+ | [fi](/f27/language/fi) | 404 | 404 | 100.0 | /mnt/stockage/packages/f27/python-uranium-lulzbot/resources/i18n/fi/uranium.po | 
+ | [fr](/f27/language/fr) | 404 | 404 | 100.0 | /mnt/stockage/packages/f27/python-uranium-lulzbot/resources/i18n/fr/uranium.po | 
+ | [it](/f27/language/it) | 404 | 404 | 100.0 | /mnt/stockage/packages/f27/python-uranium-lulzbot/resources/i18n/it/uranium.po | 
+ | [nl](/f27/language/nl) | 404 | 404 | 100.0 | /mnt/stockage/packages/f27/python-uranium-lulzbot/resources/i18n/nl/uranium.po | 
+ | [pt_PT](/f27/language/pt_PT) | 589 | 589 | 100.0 | /mnt/stockage/packages/f27/python-uranium-lulzbot/resources/i18n/pt_PT/uranium.po | 
+ | [ru](/f27/language/ru) | 404 | 404 | 100.0 | /mnt/stockage/packages/f27/python-uranium-lulzbot/resources/i18n/ru/uranium.po | 
+ | [tr](/f27/language/tr) | 404 | 404 | 100.0 | /mnt/stockage/packages/f27/python-uranium-lulzbot/resources/i18n/tr/uranium.po | 
+ | [zh_Hant](/f27/language/zh_Hant) | 589 | 589 | 100.0 | /mnt/stockage/packages/f27/python-uranium-lulzbot/resources/i18n/zh_TW/uranium.po | 
+ | [pl](/f27/language/pl) | 382 | 404 | 94.6 | /mnt/stockage/packages/f27/python-uranium-lulzbot/resources/i18n/pl/uranium.po | 
+ | [hu](/f27/language/hu) | 0 | 404 | 0.0 | /mnt/stockage/packages/f27/python-uranium-lulzbot/resources/i18n/hu/uranium.po | 
 {.sortable}
 
 

@@ -18,11 +18,11 @@ The package ncmpc (version 0.11.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f7/language/fr.md" >}}) | 429 | 434 | 98.8 | /mnt/stockage/packages/f7/ncmpc/po/fr.po | 
- | [de]({{< ref "/f7/language/de.md" >}}) | 428 | 434 | 98.6 | /mnt/stockage/packages/f7/ncmpc/po/de.po | 
- | [ru]({{< ref "/f7/language/ru.md" >}}) | 423 | 434 | 97.5 | /mnt/stockage/packages/f7/ncmpc/po/ru.po | 
- | [sv]({{< ref "/f7/language/sv.md" >}}) | 422 | 434 | 97.2 | /mnt/stockage/packages/f7/ncmpc/po/sv.po | 
- | [es]({{< ref "/f7/language/es.md" >}}) | 389 | 434 | 89.6 | /mnt/stockage/packages/f7/ncmpc/po/es.po | 
+ | [fr](/f7/language/fr) | 429 | 434 | 98.8 | /mnt/stockage/packages/f7/ncmpc/po/fr.po | 
+ | [de](/f7/language/de) | 428 | 434 | 98.6 | /mnt/stockage/packages/f7/ncmpc/po/de.po | 
+ | [ru](/f7/language/ru) | 423 | 434 | 97.5 | /mnt/stockage/packages/f7/ncmpc/po/ru.po | 
+ | [sv](/f7/language/sv) | 422 | 434 | 97.2 | /mnt/stockage/packages/f7/ncmpc/po/sv.po | 
+ | [es](/f7/language/es) | 389 | 434 | 89.6 | /mnt/stockage/packages/f7/ncmpc/po/es.po | 
 {.sortable}
 
 

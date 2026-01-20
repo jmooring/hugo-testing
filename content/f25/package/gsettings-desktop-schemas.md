@@ -18,54 +18,54 @@ The package gsettings-desktop-schemas (version 3.22.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [bs]({{< ref "/f25/language/bs.md" >}}) | 5813 | 5813 | 100.0 | /mnt/stockage/packages/f25/gsettings-desktop-schemas/po/bs.po | 
- | [ca]({{< ref "/f25/language/ca.md" >}}) | 5821 | 5821 | 100.0 | /mnt/stockage/packages/f25/gsettings-desktop-schemas/po/ca.po | 
- | [ca@valencia]({{< ref "/f25/language/ca@valencia.md" >}}) | 5665 | 5665 | 100.0 | /mnt/stockage/packages/f25/gsettings-desktop-schemas/po/ca@valencia.po | 
- | [cs]({{< ref "/f25/language/cs.md" >}}) | 6232 | 6232 | 100.0 | /mnt/stockage/packages/f25/gsettings-desktop-schemas/po/cs.po | 
- | [da]({{< ref "/f25/language/da.md" >}}) | 6232 | 6232 | 100.0 | /mnt/stockage/packages/f25/gsettings-desktop-schemas/po/da.po | 
- | [de]({{< ref "/f25/language/de.md" >}}) | 6232 | 6232 | 100.0 | /mnt/stockage/packages/f25/gsettings-desktop-schemas/po/de.po | 
- | [el]({{< ref "/f25/language/el.md" >}}) | 5863 | 5863 | 100.0 | /mnt/stockage/packages/f25/gsettings-desktop-schemas/po/el.po | 
- | [en_GB]({{< ref "/f25/language/en_GB.md" >}}) | 6232 | 6232 | 100.0 | /mnt/stockage/packages/f25/gsettings-desktop-schemas/po/en_GB.po | 
- | [es]({{< ref "/f25/language/es.md" >}}) | 6232 | 6232 | 100.0 | /mnt/stockage/packages/f25/gsettings-desktop-schemas/po/es.po | 
- | [eu]({{< ref "/f25/language/eu.md" >}}) | 5863 | 5863 | 100.0 | /mnt/stockage/packages/f25/gsettings-desktop-schemas/po/eu.po | 
- | [fr]({{< ref "/f25/language/fr.md" >}}) | 6232 | 6232 | 100.0 | /mnt/stockage/packages/f25/gsettings-desktop-schemas/po/fr.po | 
- | [gl]({{< ref "/f25/language/gl.md" >}}) | 6232 | 6232 | 100.0 | /mnt/stockage/packages/f25/gsettings-desktop-schemas/po/gl.po | 
- | [he]({{< ref "/f25/language/he.md" >}}) | 6232 | 6232 | 100.0 | /mnt/stockage/packages/f25/gsettings-desktop-schemas/po/he.po | 
- | [hi]({{< ref "/f25/language/hi.md" >}}) | 5290 | 5290 | 100.0 | /mnt/stockage/packages/f25/gsettings-desktop-schemas/po/hi.po | 
- | [hu]({{< ref "/f25/language/hu.md" >}}) | 6232 | 6232 | 100.0 | /mnt/stockage/packages/f25/gsettings-desktop-schemas/po/hu.po | 
- | [id]({{< ref "/f25/language/id.md" >}}) | 6232 | 6232 | 100.0 | /mnt/stockage/packages/f25/gsettings-desktop-schemas/po/id.po | 
- | [it]({{< ref "/f25/language/it.md" >}}) | 5863 | 5863 | 100.0 | /mnt/stockage/packages/f25/gsettings-desktop-schemas/po/it.po | 
- | [lt]({{< ref "/f25/language/lt.md" >}}) | 6232 | 6232 | 100.0 | /mnt/stockage/packages/f25/gsettings-desktop-schemas/po/lt.po | 
- | [lv]({{< ref "/f25/language/lv.md" >}}) | 6232 | 6232 | 100.0 | /mnt/stockage/packages/f25/gsettings-desktop-schemas/po/lv.po | 
- | [pl]({{< ref "/f25/language/pl.md" >}}) | 6232 | 6232 | 100.0 | /mnt/stockage/packages/f25/gsettings-desktop-schemas/po/pl.po | 
- | [pt]({{< ref "/f25/language/pt.md" >}}) | 6232 | 6232 | 100.0 | /mnt/stockage/packages/f25/gsettings-desktop-schemas/po/pt.po | 
- | [pt_BR]({{< ref "/f25/language/pt_BR.md" >}}) | 6232 | 6232 | 100.0 | /mnt/stockage/packages/f25/gsettings-desktop-schemas/po/pt_BR.po | 
- | [ru]({{< ref "/f25/language/ru.md" >}}) | 5863 | 5863 | 100.0 | /mnt/stockage/packages/f25/gsettings-desktop-schemas/po/ru.po | 
- | [sl]({{< ref "/f25/language/sl.md" >}}) | 5863 | 5863 | 100.0 | /mnt/stockage/packages/f25/gsettings-desktop-schemas/po/sl.po | 
- | [sr]({{< ref "/f25/language/sr.md" >}}) | 12464 | 12464 | 100.0 | /mnt/stockage/packages/f25/gsettings-desktop-schemas/po/sr.po/mnt/stockage/packages/f25/gsettings-desktop-schemas/po/sr@latin.po | 
- | [sv]({{< ref "/f25/language/sv.md" >}}) | 6232 | 6232 | 100.0 | /mnt/stockage/packages/f25/gsettings-desktop-schemas/po/sv.po | 
- | [tr]({{< ref "/f25/language/tr.md" >}}) | 5838 | 5838 | 100.0 | /mnt/stockage/packages/f25/gsettings-desktop-schemas/po/tr.po | 
- | [zh_Hans]({{< ref "/f25/language/zh_Hans.md" >}}) | 5981 | 5981 | 100.0 | /mnt/stockage/packages/f25/gsettings-desktop-schemas/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f25/language/zh_Hant.md" >}}) | 5844 | 5844 | 100.0 | /mnt/stockage/packages/f25/gsettings-desktop-schemas/po/zh_TW.po | 
- | [zh_Hant_HK]({{< ref "/f25/language/zh_Hant_HK.md" >}}) | 5665 | 5665 | 100.0 | /mnt/stockage/packages/f25/gsettings-desktop-schemas/po/zh_HK.po | 
- | [oc]({{< ref "/f25/language/oc.md" >}}) | 5849 | 5863 | 99.8 | /mnt/stockage/packages/f25/gsettings-desktop-schemas/po/oc.po | 
- | [ug]({{< ref "/f25/language/ug.md" >}}) | 3600 | 5290 | 68.1 | /mnt/stockage/packages/f25/gsettings-desktop-schemas/po/ug.po | 
- | [sk]({{< ref "/f25/language/sk.md" >}}) | 3350 | 5813 | 57.6 | /mnt/stockage/packages/f25/gsettings-desktop-schemas/po/sk.po | 
- | [pa]({{< ref "/f25/language/pa.md" >}}) | 2202 | 4224 | 52.1 | /mnt/stockage/packages/f25/gsettings-desktop-schemas/po/pa.po | 
- | [ja]({{< ref "/f25/language/ja.md" >}}) | 1337 | 2641 | 50.6 | /mnt/stockage/packages/f25/gsettings-desktop-schemas/po/ja.po | 
- | [or]({{< ref "/f25/language/or.md" >}}) | 2113 | 4585 | 46.1 | /mnt/stockage/packages/f25/gsettings-desktop-schemas/po/or.po | 
- | [eo]({{< ref "/f25/language/eo.md" >}}) | 1469 | 4224 | 34.8 | /mnt/stockage/packages/f25/gsettings-desktop-schemas/po/eo.po | 
- | [vi]({{< ref "/f25/language/vi.md" >}}) | 762 | 2430 | 31.4 | /mnt/stockage/packages/f25/gsettings-desktop-schemas/po/vi.po | 
- | [nb_NO]({{< ref "/f25/language/nb_NO.md" >}}) | 1552 | 5549 | 28.0 | /mnt/stockage/packages/f25/gsettings-desktop-schemas/po/nb.po | 
- | [uk]({{< ref "/f25/language/uk.md" >}}) | 1033 | 4585 | 22.5 | /mnt/stockage/packages/f25/gsettings-desktop-schemas/po/uk.po | 
- | [gu]({{< ref "/f25/language/gu.md" >}}) | 1128 | 5665 | 19.9 | /mnt/stockage/packages/f25/gsettings-desktop-schemas/po/gu.po | 
- | [as]({{< ref "/f25/language/as.md" >}}) | 678 | 4585 | 14.8 | /mnt/stockage/packages/f25/gsettings-desktop-schemas/po/as.po | 
- | [kk]({{< ref "/f25/language/kk.md" >}}) | 917 | 6232 | 14.7 | /mnt/stockage/packages/f25/gsettings-desktop-schemas/po/kk.po | 
- | [ml]({{< ref "/f25/language/ml.md" >}}) | 582 | 5290 | 11.0 | /mnt/stockage/packages/f25/gsettings-desktop-schemas/po/ml.po | 
- | [ro]({{< ref "/f25/language/ro.md" >}}) | 433 | 5821 | 7.4 | /mnt/stockage/packages/f25/gsettings-desktop-schemas/po/ro.po | 
- | [fi]({{< ref "/f25/language/fi.md" >}}) | 406 | 5558 | 7.3 | /mnt/stockage/packages/f25/gsettings-desktop-schemas/po/fi.po | 
- | [bg]({{< ref "/f25/language/bg.md" >}}) | 254 | 5319 | 4.8 | /mnt/stockage/packages/f25/gsettings-desktop-schemas/po/bg.po | 
- | [tg]({{< ref "/f25/language/tg.md" >}}) | 8 | 5290 | 0.2 | /mnt/stockage/packages/f25/gsettings-desktop-schemas/po/tg.po | 
+ | [bs](/f25/language/bs) | 5813 | 5813 | 100.0 | /mnt/stockage/packages/f25/gsettings-desktop-schemas/po/bs.po | 
+ | [ca](/f25/language/ca) | 5821 | 5821 | 100.0 | /mnt/stockage/packages/f25/gsettings-desktop-schemas/po/ca.po | 
+ | [ca@valencia](/f25/language/ca@valencia) | 5665 | 5665 | 100.0 | /mnt/stockage/packages/f25/gsettings-desktop-schemas/po/ca@valencia.po | 
+ | [cs](/f25/language/cs) | 6232 | 6232 | 100.0 | /mnt/stockage/packages/f25/gsettings-desktop-schemas/po/cs.po | 
+ | [da](/f25/language/da) | 6232 | 6232 | 100.0 | /mnt/stockage/packages/f25/gsettings-desktop-schemas/po/da.po | 
+ | [de](/f25/language/de) | 6232 | 6232 | 100.0 | /mnt/stockage/packages/f25/gsettings-desktop-schemas/po/de.po | 
+ | [el](/f25/language/el) | 5863 | 5863 | 100.0 | /mnt/stockage/packages/f25/gsettings-desktop-schemas/po/el.po | 
+ | [en_GB](/f25/language/en_GB) | 6232 | 6232 | 100.0 | /mnt/stockage/packages/f25/gsettings-desktop-schemas/po/en_GB.po | 
+ | [es](/f25/language/es) | 6232 | 6232 | 100.0 | /mnt/stockage/packages/f25/gsettings-desktop-schemas/po/es.po | 
+ | [eu](/f25/language/eu) | 5863 | 5863 | 100.0 | /mnt/stockage/packages/f25/gsettings-desktop-schemas/po/eu.po | 
+ | [fr](/f25/language/fr) | 6232 | 6232 | 100.0 | /mnt/stockage/packages/f25/gsettings-desktop-schemas/po/fr.po | 
+ | [gl](/f25/language/gl) | 6232 | 6232 | 100.0 | /mnt/stockage/packages/f25/gsettings-desktop-schemas/po/gl.po | 
+ | [he](/f25/language/he) | 6232 | 6232 | 100.0 | /mnt/stockage/packages/f25/gsettings-desktop-schemas/po/he.po | 
+ | [hi](/f25/language/hi) | 5290 | 5290 | 100.0 | /mnt/stockage/packages/f25/gsettings-desktop-schemas/po/hi.po | 
+ | [hu](/f25/language/hu) | 6232 | 6232 | 100.0 | /mnt/stockage/packages/f25/gsettings-desktop-schemas/po/hu.po | 
+ | [id](/f25/language/id) | 6232 | 6232 | 100.0 | /mnt/stockage/packages/f25/gsettings-desktop-schemas/po/id.po | 
+ | [it](/f25/language/it) | 5863 | 5863 | 100.0 | /mnt/stockage/packages/f25/gsettings-desktop-schemas/po/it.po | 
+ | [lt](/f25/language/lt) | 6232 | 6232 | 100.0 | /mnt/stockage/packages/f25/gsettings-desktop-schemas/po/lt.po | 
+ | [lv](/f25/language/lv) | 6232 | 6232 | 100.0 | /mnt/stockage/packages/f25/gsettings-desktop-schemas/po/lv.po | 
+ | [pl](/f25/language/pl) | 6232 | 6232 | 100.0 | /mnt/stockage/packages/f25/gsettings-desktop-schemas/po/pl.po | 
+ | [pt](/f25/language/pt) | 6232 | 6232 | 100.0 | /mnt/stockage/packages/f25/gsettings-desktop-schemas/po/pt.po | 
+ | [pt_BR](/f25/language/pt_BR) | 6232 | 6232 | 100.0 | /mnt/stockage/packages/f25/gsettings-desktop-schemas/po/pt_BR.po | 
+ | [ru](/f25/language/ru) | 5863 | 5863 | 100.0 | /mnt/stockage/packages/f25/gsettings-desktop-schemas/po/ru.po | 
+ | [sl](/f25/language/sl) | 5863 | 5863 | 100.0 | /mnt/stockage/packages/f25/gsettings-desktop-schemas/po/sl.po | 
+ | [sr](/f25/language/sr) | 12464 | 12464 | 100.0 | /mnt/stockage/packages/f25/gsettings-desktop-schemas/po/sr.po/mnt/stockage/packages/f25/gsettings-desktop-schemas/po/sr@latin.po | 
+ | [sv](/f25/language/sv) | 6232 | 6232 | 100.0 | /mnt/stockage/packages/f25/gsettings-desktop-schemas/po/sv.po | 
+ | [tr](/f25/language/tr) | 5838 | 5838 | 100.0 | /mnt/stockage/packages/f25/gsettings-desktop-schemas/po/tr.po | 
+ | [zh_Hans](/f25/language/zh_Hans) | 5981 | 5981 | 100.0 | /mnt/stockage/packages/f25/gsettings-desktop-schemas/po/zh_CN.po | 
+ | [zh_Hant](/f25/language/zh_Hant) | 5844 | 5844 | 100.0 | /mnt/stockage/packages/f25/gsettings-desktop-schemas/po/zh_TW.po | 
+ | [zh_Hant_HK](/f25/language/zh_Hant_HK) | 5665 | 5665 | 100.0 | /mnt/stockage/packages/f25/gsettings-desktop-schemas/po/zh_HK.po | 
+ | [oc](/f25/language/oc) | 5849 | 5863 | 99.8 | /mnt/stockage/packages/f25/gsettings-desktop-schemas/po/oc.po | 
+ | [ug](/f25/language/ug) | 3600 | 5290 | 68.1 | /mnt/stockage/packages/f25/gsettings-desktop-schemas/po/ug.po | 
+ | [sk](/f25/language/sk) | 3350 | 5813 | 57.6 | /mnt/stockage/packages/f25/gsettings-desktop-schemas/po/sk.po | 
+ | [pa](/f25/language/pa) | 2202 | 4224 | 52.1 | /mnt/stockage/packages/f25/gsettings-desktop-schemas/po/pa.po | 
+ | [ja](/f25/language/ja) | 1337 | 2641 | 50.6 | /mnt/stockage/packages/f25/gsettings-desktop-schemas/po/ja.po | 
+ | [or](/f25/language/or) | 2113 | 4585 | 46.1 | /mnt/stockage/packages/f25/gsettings-desktop-schemas/po/or.po | 
+ | [eo](/f25/language/eo) | 1469 | 4224 | 34.8 | /mnt/stockage/packages/f25/gsettings-desktop-schemas/po/eo.po | 
+ | [vi](/f25/language/vi) | 762 | 2430 | 31.4 | /mnt/stockage/packages/f25/gsettings-desktop-schemas/po/vi.po | 
+ | [nb_NO](/f25/language/nb_NO) | 1552 | 5549 | 28.0 | /mnt/stockage/packages/f25/gsettings-desktop-schemas/po/nb.po | 
+ | [uk](/f25/language/uk) | 1033 | 4585 | 22.5 | /mnt/stockage/packages/f25/gsettings-desktop-schemas/po/uk.po | 
+ | [gu](/f25/language/gu) | 1128 | 5665 | 19.9 | /mnt/stockage/packages/f25/gsettings-desktop-schemas/po/gu.po | 
+ | [as](/f25/language/as) | 678 | 4585 | 14.8 | /mnt/stockage/packages/f25/gsettings-desktop-schemas/po/as.po | 
+ | [kk](/f25/language/kk) | 917 | 6232 | 14.7 | /mnt/stockage/packages/f25/gsettings-desktop-schemas/po/kk.po | 
+ | [ml](/f25/language/ml) | 582 | 5290 | 11.0 | /mnt/stockage/packages/f25/gsettings-desktop-schemas/po/ml.po | 
+ | [ro](/f25/language/ro) | 433 | 5821 | 7.4 | /mnt/stockage/packages/f25/gsettings-desktop-schemas/po/ro.po | 
+ | [fi](/f25/language/fi) | 406 | 5558 | 7.3 | /mnt/stockage/packages/f25/gsettings-desktop-schemas/po/fi.po | 
+ | [bg](/f25/language/bg) | 254 | 5319 | 4.8 | /mnt/stockage/packages/f25/gsettings-desktop-schemas/po/bg.po | 
+ | [tg](/f25/language/tg) | 8 | 5290 | 0.2 | /mnt/stockage/packages/f25/gsettings-desktop-schemas/po/tg.po | 
 {.sortable}
 
 

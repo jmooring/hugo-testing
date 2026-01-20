@@ -18,11 +18,11 @@ The package php-horde-Horde-Smtp (version 1.9.6):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [da]({{< ref "/f34/language/da.md" >}}) | 51 | 51 | 100.0 | /mnt/stockage/packages/f34/php-horde-Horde-Smtp/Horde_Smtp-1.9.6/locale/da/LC_MESSAGES/Horde_Smtp.po | 
- | [es]({{< ref "/f34/language/es.md" >}}) | 154 | 154 | 100.0 | /mnt/stockage/packages/f34/php-horde-Horde-Smtp/Horde_Smtp-1.9.6/locale/es/LC_MESSAGES/Horde_Smtp.po/mnt/stockage/packages/f34/php-horde-Horde-Smtp/Horde_Smtp-1.9.6/locale/el/LC_MESSAGES/Horde_Smtp.po | 
- | [hu]({{< ref "/f34/language/hu.md" >}}) | 51 | 51 | 100.0 | /mnt/stockage/packages/f34/php-horde-Horde-Smtp/Horde_Smtp-1.9.6/locale/hu/LC_MESSAGES/Horde_Smtp.po | 
- | [ja]({{< ref "/f34/language/ja.md" >}}) | 77 | 77 | 100.0 | /mnt/stockage/packages/f34/php-horde-Horde-Smtp/Horde_Smtp-1.9.6/locale/ja/LC_MESSAGES/Horde_Smtp.po | 
- | [tr]({{< ref "/f34/language/tr.md" >}}) | 77 | 77 | 100.0 | /mnt/stockage/packages/f34/php-horde-Horde-Smtp/Horde_Smtp-1.9.6/locale/tr/LC_MESSAGES/Horde_Smtp.po | 
+ | [da](/f34/language/da) | 51 | 51 | 100.0 | /mnt/stockage/packages/f34/php-horde-Horde-Smtp/Horde_Smtp-1.9.6/locale/da/LC_MESSAGES/Horde_Smtp.po | 
+ | [es](/f34/language/es) | 154 | 154 | 100.0 | /mnt/stockage/packages/f34/php-horde-Horde-Smtp/Horde_Smtp-1.9.6/locale/es/LC_MESSAGES/Horde_Smtp.po/mnt/stockage/packages/f34/php-horde-Horde-Smtp/Horde_Smtp-1.9.6/locale/el/LC_MESSAGES/Horde_Smtp.po | 
+ | [hu](/f34/language/hu) | 51 | 51 | 100.0 | /mnt/stockage/packages/f34/php-horde-Horde-Smtp/Horde_Smtp-1.9.6/locale/hu/LC_MESSAGES/Horde_Smtp.po | 
+ | [ja](/f34/language/ja) | 77 | 77 | 100.0 | /mnt/stockage/packages/f34/php-horde-Horde-Smtp/Horde_Smtp-1.9.6/locale/ja/LC_MESSAGES/Horde_Smtp.po | 
+ | [tr](/f34/language/tr) | 77 | 77 | 100.0 | /mnt/stockage/packages/f34/php-horde-Horde-Smtp/Horde_Smtp-1.9.6/locale/tr/LC_MESSAGES/Horde_Smtp.po | 
 {.sortable}
 
 

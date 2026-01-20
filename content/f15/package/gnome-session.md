@@ -18,106 +18,106 @@ The package gnome-session (version 3.0.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [af]({{< ref "/f15/language/af.md" >}}) | 446 | 446 | 100.0 | /mnt/stockage/packages/f15/gnome-session/po/af.po | 
- | [ar]({{< ref "/f15/language/ar.md" >}}) | 446 | 446 | 100.0 | /mnt/stockage/packages/f15/gnome-session/po/ar.po | 
- | [as]({{< ref "/f15/language/as.md" >}}) | 410 | 410 | 100.0 | /mnt/stockage/packages/f15/gnome-session/po/as.po | 
- | [be]({{< ref "/f15/language/be.md" >}}) | 675 | 675 | 100.0 | /mnt/stockage/packages/f15/gnome-session/po/be.po | 
- | [bg]({{< ref "/f15/language/bg.md" >}}) | 446 | 446 | 100.0 | /mnt/stockage/packages/f15/gnome-session/po/bg.po | 
- | [bn]({{< ref "/f15/language/bn.md" >}}) | 446 | 446 | 100.0 | /mnt/stockage/packages/f15/gnome-session/po/bn.po | 
- | [bn_IN]({{< ref "/f15/language/bn_IN.md" >}}) | 428 | 428 | 100.0 | /mnt/stockage/packages/f15/gnome-session/po/bn_IN.po | 
- | [ca]({{< ref "/f15/language/ca.md" >}}) | 1018 | 1018 | 100.0 | /mnt/stockage/packages/f15/gnome-session/po/ca@valencia.po/mnt/stockage/packages/f15/gnome-session/po/ca.po | 
- | [crh]({{< ref "/f15/language/crh.md" >}}) | 572 | 572 | 100.0 | /mnt/stockage/packages/f15/gnome-session/po/crh.po | 
- | [cs]({{< ref "/f15/language/cs.md" >}}) | 446 | 446 | 100.0 | /mnt/stockage/packages/f15/gnome-session/po/cs.po | 
- | [cy]({{< ref "/f15/language/cy.md" >}}) | 569 | 569 | 100.0 | /mnt/stockage/packages/f15/gnome-session/po/cy.po | 
- | [da]({{< ref "/f15/language/da.md" >}}) | 446 | 446 | 100.0 | /mnt/stockage/packages/f15/gnome-session/po/da.po | 
- | [de]({{< ref "/f15/language/de.md" >}}) | 446 | 446 | 100.0 | /mnt/stockage/packages/f15/gnome-session/po/de.po | 
- | [dz]({{< ref "/f15/language/dz.md" >}}) | 899 | 899 | 100.0 | /mnt/stockage/packages/f15/gnome-session/po/dz.po | 
- | [el]({{< ref "/f15/language/el.md" >}}) | 446 | 446 | 100.0 | /mnt/stockage/packages/f15/gnome-session/po/el.po | 
- | [en_CA]({{< ref "/f15/language/en_CA.md" >}}) | 888 | 888 | 100.0 | /mnt/stockage/packages/f15/gnome-session/po/en_CA.po | 
- | [en_GB]({{< ref "/f15/language/en_GB.md" >}}) | 446 | 446 | 100.0 | /mnt/stockage/packages/f15/gnome-session/po/en_GB.po | 
- | [eo]({{< ref "/f15/language/eo.md" >}}) | 638 | 638 | 100.0 | /mnt/stockage/packages/f15/gnome-session/po/eo.po | 
- | [es]({{< ref "/f15/language/es.md" >}}) | 446 | 446 | 100.0 | /mnt/stockage/packages/f15/gnome-session/po/es.po | 
- | [et]({{< ref "/f15/language/et.md" >}}) | 413 | 413 | 100.0 | /mnt/stockage/packages/f15/gnome-session/po/et.po | 
- | [eu]({{< ref "/f15/language/eu.md" >}}) | 446 | 446 | 100.0 | /mnt/stockage/packages/f15/gnome-session/po/eu.po | 
- | [fa]({{< ref "/f15/language/fa.md" >}}) | 446 | 446 | 100.0 | /mnt/stockage/packages/f15/gnome-session/po/fa.po | 
- | [fi]({{< ref "/f15/language/fi.md" >}}) | 572 | 572 | 100.0 | /mnt/stockage/packages/f15/gnome-session/po/fi.po | 
- | [fr]({{< ref "/f15/language/fr.md" >}}) | 446 | 446 | 100.0 | /mnt/stockage/packages/f15/gnome-session/po/fr.po | 
- | [fy]({{< ref "/f15/language/fy.md" >}}) | 448 | 448 | 100.0 | /mnt/stockage/packages/f15/gnome-session/po/fy.po | 
- | [gl]({{< ref "/f15/language/gl.md" >}}) | 446 | 446 | 100.0 | /mnt/stockage/packages/f15/gnome-session/po/gl.po | 
- | [gu]({{< ref "/f15/language/gu.md" >}}) | 388 | 388 | 100.0 | /mnt/stockage/packages/f15/gnome-session/po/gu.po | 
- | [he]({{< ref "/f15/language/he.md" >}}) | 446 | 446 | 100.0 | /mnt/stockage/packages/f15/gnome-session/po/he.po | 
- | [hi]({{< ref "/f15/language/hi.md" >}}) | 638 | 638 | 100.0 | /mnt/stockage/packages/f15/gnome-session/po/hi.po | 
- | [hu]({{< ref "/f15/language/hu.md" >}}) | 446 | 446 | 100.0 | /mnt/stockage/packages/f15/gnome-session/po/hu.po | 
- | [hy]({{< ref "/f15/language/hy.md" >}}) | 570 | 570 | 100.0 | /mnt/stockage/packages/f15/gnome-session/po/hy.po | 
- | [id]({{< ref "/f15/language/id.md" >}}) | 446 | 446 | 100.0 | /mnt/stockage/packages/f15/gnome-session/po/id.po | 
- | [it]({{< ref "/f15/language/it.md" >}}) | 446 | 446 | 100.0 | /mnt/stockage/packages/f15/gnome-session/po/it.po | 
- | [ja]({{< ref "/f15/language/ja.md" >}}) | 446 | 446 | 100.0 | /mnt/stockage/packages/f15/gnome-session/po/ja.po | 
- | [kn]({{< ref "/f15/language/kn.md" >}}) | 638 | 638 | 100.0 | /mnt/stockage/packages/f15/gnome-session/po/kn.po | 
- | [ko]({{< ref "/f15/language/ko.md" >}}) | 446 | 446 | 100.0 | /mnt/stockage/packages/f15/gnome-session/po/ko.po | 
- | [lt]({{< ref "/f15/language/lt.md" >}}) | 446 | 446 | 100.0 | /mnt/stockage/packages/f15/gnome-session/po/lt.po | 
- | [lv]({{< ref "/f15/language/lv.md" >}}) | 446 | 446 | 100.0 | /mnt/stockage/packages/f15/gnome-session/po/lv.po | 
- | [mg]({{< ref "/f15/language/mg.md" >}}) | 571 | 571 | 100.0 | /mnt/stockage/packages/f15/gnome-session/po/mg.po | 
- | [mk]({{< ref "/f15/language/mk.md" >}}) | 714 | 714 | 100.0 | /mnt/stockage/packages/f15/gnome-session/po/mk.po | 
- | [ml]({{< ref "/f15/language/ml.md" >}}) | 638 | 638 | 100.0 | /mnt/stockage/packages/f15/gnome-session/po/ml.po | 
- | [mr]({{< ref "/f15/language/mr.md" >}}) | 622 | 622 | 100.0 | /mnt/stockage/packages/f15/gnome-session/po/mr.po | 
- | [nb_NO]({{< ref "/f15/language/nb_NO.md" >}}) | 446 | 446 | 100.0 | /mnt/stockage/packages/f15/gnome-session/po/nb.po | 
- | [ne]({{< ref "/f15/language/ne.md" >}}) | 888 | 888 | 100.0 | /mnt/stockage/packages/f15/gnome-session/po/ne.po | 
- | [nl]({{< ref "/f15/language/nl.md" >}}) | 446 | 446 | 100.0 | /mnt/stockage/packages/f15/gnome-session/po/nl.po | 
- | [nn]({{< ref "/f15/language/nn.md" >}}) | 638 | 638 | 100.0 | /mnt/stockage/packages/f15/gnome-session/po/nn.po | 
- | [or]({{< ref "/f15/language/or.md" >}}) | 410 | 410 | 100.0 | /mnt/stockage/packages/f15/gnome-session/po/or.po | 
- | [pa]({{< ref "/f15/language/pa.md" >}}) | 446 | 446 | 100.0 | /mnt/stockage/packages/f15/gnome-session/po/pa.po | 
- | [pl]({{< ref "/f15/language/pl.md" >}}) | 446 | 446 | 100.0 | /mnt/stockage/packages/f15/gnome-session/po/pl.po | 
- | [pt]({{< ref "/f15/language/pt.md" >}}) | 446 | 446 | 100.0 | /mnt/stockage/packages/f15/gnome-session/po/pt.po | 
- | [pt_BR]({{< ref "/f15/language/pt_BR.md" >}}) | 446 | 446 | 100.0 | /mnt/stockage/packages/f15/gnome-session/po/pt_BR.po | 
- | [ro]({{< ref "/f15/language/ro.md" >}}) | 446 | 446 | 100.0 | /mnt/stockage/packages/f15/gnome-session/po/ro.po | 
- | [ru]({{< ref "/f15/language/ru.md" >}}) | 446 | 446 | 100.0 | /mnt/stockage/packages/f15/gnome-session/po/ru.po | 
- | [si]({{< ref "/f15/language/si.md" >}}) | 811 | 811 | 100.0 | /mnt/stockage/packages/f15/gnome-session/po/si.po | 
- | [sl]({{< ref "/f15/language/sl.md" >}}) | 446 | 446 | 100.0 | /mnt/stockage/packages/f15/gnome-session/po/sl.po | 
- | [sq]({{< ref "/f15/language/sq.md" >}}) | 811 | 811 | 100.0 | /mnt/stockage/packages/f15/gnome-session/po/sq.po | 
- | [sr]({{< ref "/f15/language/sr.md" >}}) | 448 | 448 | 100.0 | /mnt/stockage/packages/f15/gnome-session/po/sr.po | 
- | [sr_Latn]({{< ref "/f15/language/sr_Latn.md" >}}) | 448 | 448 | 100.0 | /mnt/stockage/packages/f15/gnome-session/po/sr@latin.po | 
- | [sv]({{< ref "/f15/language/sv.md" >}}) | 446 | 446 | 100.0 | /mnt/stockage/packages/f15/gnome-session/po/sv.po | 
- | [ta]({{< ref "/f15/language/ta.md" >}}) | 446 | 446 | 100.0 | /mnt/stockage/packages/f15/gnome-session/po/ta.po | 
- | [te]({{< ref "/f15/language/te.md" >}}) | 638 | 638 | 100.0 | /mnt/stockage/packages/f15/gnome-session/po/te.po | 
- | [th]({{< ref "/f15/language/th.md" >}}) | 446 | 446 | 100.0 | /mnt/stockage/packages/f15/gnome-session/po/th.po | 
- | [tr]({{< ref "/f15/language/tr.md" >}}) | 675 | 675 | 100.0 | /mnt/stockage/packages/f15/gnome-session/po/tr.po | 
- | [uk]({{< ref "/f15/language/uk.md" >}}) | 446 | 446 | 100.0 | /mnt/stockage/packages/f15/gnome-session/po/uk.po | 
- | [vi]({{< ref "/f15/language/vi.md" >}}) | 446 | 446 | 100.0 | /mnt/stockage/packages/f15/gnome-session/po/vi.po | 
- | [wa]({{< ref "/f15/language/wa.md" >}}) | 533 | 533 | 100.0 | /mnt/stockage/packages/f15/gnome-session/po/wa.po | 
- | [zh_Hans]({{< ref "/f15/language/zh_Hans.md" >}}) | 446 | 446 | 100.0 | /mnt/stockage/packages/f15/gnome-session/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f15/language/zh_Hant.md" >}}) | 446 | 446 | 100.0 | /mnt/stockage/packages/f15/gnome-session/po/zh_TW.po | 
- | [zh_Hant_HK]({{< ref "/f15/language/zh_Hant_HK.md" >}}) | 446 | 446 | 100.0 | /mnt/stockage/packages/f15/gnome-session/po/zh_HK.po | 
- | [fur]({{< ref "/f15/language/fur.md" >}}) | 897 | 899 | 99.8 | /mnt/stockage/packages/f15/gnome-session/po/fur.po | 
- | [sk]({{< ref "/f15/language/sk.md" >}}) | 408 | 410 | 99.5 | /mnt/stockage/packages/f15/gnome-session/po/sk.po | 
- | [az]({{< ref "/f15/language/az.md" >}}) | 513 | 516 | 99.4 | /mnt/stockage/packages/f15/gnome-session/po/az.po | 
- | [is]({{< ref "/f15/language/is.md" >}}) | 513 | 516 | 99.4 | /mnt/stockage/packages/f15/gnome-session/po/is.po | 
- | [mn]({{< ref "/f15/language/mn.md" >}}) | 513 | 516 | 99.4 | /mnt/stockage/packages/f15/gnome-session/po/mn.po | 
- | [ms]({{< ref "/f15/language/ms.md" >}}) | 513 | 516 | 99.4 | /mnt/stockage/packages/f15/gnome-session/po/ms.po | 
- | [nso]({{< ref "/f15/language/nso.md" >}}) | 513 | 516 | 99.4 | /mnt/stockage/packages/f15/gnome-session/po/nso.po | 
- | [zu]({{< ref "/f15/language/zu.md" >}}) | 513 | 516 | 99.4 | /mnt/stockage/packages/f15/gnome-session/po/zu.po | 
- | [br]({{< ref "/f15/language/br.md" >}}) | 668 | 675 | 99.0 | /mnt/stockage/packages/f15/gnome-session/po/br.po | 
- | [ast]({{< ref "/f15/language/ast.md" >}}) | 711 | 722 | 98.5 | /mnt/stockage/packages/f15/gnome-session/po/ast.po | 
- | [bs]({{< ref "/f15/language/bs.md" >}}) | 506 | 516 | 98.1 | /mnt/stockage/packages/f15/gnome-session/po/bs.po | 
- | [xh]({{< ref "/f15/language/xh.md" >}}) | 498 | 533 | 93.4 | /mnt/stockage/packages/f15/gnome-session/po/xh.po | 
- | [error]({{< ref "/f15/language/error.md" >}}) | 556 | 638 | 87.1 | /mnt/stockage/packages/f15/gnome-session/po/en@shaw.po | 
- | [ug]({{< ref "/f15/language/ug.md" >}}) | 354 | 446 | 79.4 | /mnt/stockage/packages/f15/gnome-session/po/ug.po | 
- | [be_Latn]({{< ref "/f15/language/be_Latn.md" >}}) | 533 | 714 | 74.6 | /mnt/stockage/packages/f15/gnome-session/po/be@latin.po | 
- | [ka]({{< ref "/f15/language/ka.md" >}}) | 434 | 714 | 60.8 | /mnt/stockage/packages/f15/gnome-session/po/ka.po | 
- | [oc]({{< ref "/f15/language/oc.md" >}}) | 511 | 899 | 56.8 | /mnt/stockage/packages/f15/gnome-session/po/oc.po | 
- | [mai]({{< ref "/f15/language/mai.md" >}}) | 267 | 638 | 41.8 | /mnt/stockage/packages/f15/gnome-session/po/mai.po | 
- | [ga]({{< ref "/f15/language/ga.md" >}}) | 274 | 675 | 40.6 | /mnt/stockage/packages/f15/gnome-session/po/ga.po | 
- | [ps]({{< ref "/f15/language/ps.md" >}}) | 244 | 679 | 35.9 | /mnt/stockage/packages/f15/gnome-session/po/ps.po | 
- | [hr]({{< ref "/f15/language/hr.md" >}}) | 247 | 714 | 34.6 | /mnt/stockage/packages/f15/gnome-session/po/hr.po | 
- | [nds]({{< ref "/f15/language/nds.md" >}}) | 209 | 638 | 32.8 | /mnt/stockage/packages/f15/gnome-session/po/nds.po | 
- | [ku]({{< ref "/f15/language/ku.md" >}}) | 208 | 714 | 29.1 | /mnt/stockage/packages/f15/gnome-session/po/ku.po | 
- | [am]({{< ref "/f15/language/am.md" >}}) | 145 | 516 | 28.1 | /mnt/stockage/packages/f15/gnome-session/po/am.po | 
- | [uz]({{< ref "/f15/language/uz.md" >}}) | 386 | 1406 | 27.5 | /mnt/stockage/packages/f15/gnome-session/po/uz@cyrillic.po/mnt/stockage/packages/f15/gnome-session/po/uz.po | 
- | [ha]({{< ref "/f15/language/ha.md" >}}) | 117 | 722 | 16.2 | /mnt/stockage/packages/f15/gnome-session/po/ha.po | 
- | [ig]({{< ref "/f15/language/ig.md" >}}) | 117 | 722 | 16.2 | /mnt/stockage/packages/f15/gnome-session/po/ig.po | 
- | [yo]({{< ref "/f15/language/yo.md" >}}) | 117 | 722 | 16.2 | /mnt/stockage/packages/f15/gnome-session/po/yo.po | 
- | [tk]({{< ref "/f15/language/tk.md" >}}) | 44 | 516 | 8.5 | /mnt/stockage/packages/f15/gnome-session/po/tk.po | 
- | [rw]({{< ref "/f15/language/rw.md" >}}) | 13 | 533 | 2.4 | /mnt/stockage/packages/f15/gnome-session/po/rw.po | 
- | [mi]({{< ref "/f15/language/mi.md" >}}) | 8 | 516 | 1.6 | /mnt/stockage/packages/f15/gnome-session/po/mi.po | 
+ | [af](/f15/language/af) | 446 | 446 | 100.0 | /mnt/stockage/packages/f15/gnome-session/po/af.po | 
+ | [ar](/f15/language/ar) | 446 | 446 | 100.0 | /mnt/stockage/packages/f15/gnome-session/po/ar.po | 
+ | [as](/f15/language/as) | 410 | 410 | 100.0 | /mnt/stockage/packages/f15/gnome-session/po/as.po | 
+ | [be](/f15/language/be) | 675 | 675 | 100.0 | /mnt/stockage/packages/f15/gnome-session/po/be.po | 
+ | [bg](/f15/language/bg) | 446 | 446 | 100.0 | /mnt/stockage/packages/f15/gnome-session/po/bg.po | 
+ | [bn](/f15/language/bn) | 446 | 446 | 100.0 | /mnt/stockage/packages/f15/gnome-session/po/bn.po | 
+ | [bn_IN](/f15/language/bn_IN) | 428 | 428 | 100.0 | /mnt/stockage/packages/f15/gnome-session/po/bn_IN.po | 
+ | [ca](/f15/language/ca) | 1018 | 1018 | 100.0 | /mnt/stockage/packages/f15/gnome-session/po/ca@valencia.po/mnt/stockage/packages/f15/gnome-session/po/ca.po | 
+ | [crh](/f15/language/crh) | 572 | 572 | 100.0 | /mnt/stockage/packages/f15/gnome-session/po/crh.po | 
+ | [cs](/f15/language/cs) | 446 | 446 | 100.0 | /mnt/stockage/packages/f15/gnome-session/po/cs.po | 
+ | [cy](/f15/language/cy) | 569 | 569 | 100.0 | /mnt/stockage/packages/f15/gnome-session/po/cy.po | 
+ | [da](/f15/language/da) | 446 | 446 | 100.0 | /mnt/stockage/packages/f15/gnome-session/po/da.po | 
+ | [de](/f15/language/de) | 446 | 446 | 100.0 | /mnt/stockage/packages/f15/gnome-session/po/de.po | 
+ | [dz](/f15/language/dz) | 899 | 899 | 100.0 | /mnt/stockage/packages/f15/gnome-session/po/dz.po | 
+ | [el](/f15/language/el) | 446 | 446 | 100.0 | /mnt/stockage/packages/f15/gnome-session/po/el.po | 
+ | [en_CA](/f15/language/en_CA) | 888 | 888 | 100.0 | /mnt/stockage/packages/f15/gnome-session/po/en_CA.po | 
+ | [en_GB](/f15/language/en_GB) | 446 | 446 | 100.0 | /mnt/stockage/packages/f15/gnome-session/po/en_GB.po | 
+ | [eo](/f15/language/eo) | 638 | 638 | 100.0 | /mnt/stockage/packages/f15/gnome-session/po/eo.po | 
+ | [es](/f15/language/es) | 446 | 446 | 100.0 | /mnt/stockage/packages/f15/gnome-session/po/es.po | 
+ | [et](/f15/language/et) | 413 | 413 | 100.0 | /mnt/stockage/packages/f15/gnome-session/po/et.po | 
+ | [eu](/f15/language/eu) | 446 | 446 | 100.0 | /mnt/stockage/packages/f15/gnome-session/po/eu.po | 
+ | [fa](/f15/language/fa) | 446 | 446 | 100.0 | /mnt/stockage/packages/f15/gnome-session/po/fa.po | 
+ | [fi](/f15/language/fi) | 572 | 572 | 100.0 | /mnt/stockage/packages/f15/gnome-session/po/fi.po | 
+ | [fr](/f15/language/fr) | 446 | 446 | 100.0 | /mnt/stockage/packages/f15/gnome-session/po/fr.po | 
+ | [fy](/f15/language/fy) | 448 | 448 | 100.0 | /mnt/stockage/packages/f15/gnome-session/po/fy.po | 
+ | [gl](/f15/language/gl) | 446 | 446 | 100.0 | /mnt/stockage/packages/f15/gnome-session/po/gl.po | 
+ | [gu](/f15/language/gu) | 388 | 388 | 100.0 | /mnt/stockage/packages/f15/gnome-session/po/gu.po | 
+ | [he](/f15/language/he) | 446 | 446 | 100.0 | /mnt/stockage/packages/f15/gnome-session/po/he.po | 
+ | [hi](/f15/language/hi) | 638 | 638 | 100.0 | /mnt/stockage/packages/f15/gnome-session/po/hi.po | 
+ | [hu](/f15/language/hu) | 446 | 446 | 100.0 | /mnt/stockage/packages/f15/gnome-session/po/hu.po | 
+ | [hy](/f15/language/hy) | 570 | 570 | 100.0 | /mnt/stockage/packages/f15/gnome-session/po/hy.po | 
+ | [id](/f15/language/id) | 446 | 446 | 100.0 | /mnt/stockage/packages/f15/gnome-session/po/id.po | 
+ | [it](/f15/language/it) | 446 | 446 | 100.0 | /mnt/stockage/packages/f15/gnome-session/po/it.po | 
+ | [ja](/f15/language/ja) | 446 | 446 | 100.0 | /mnt/stockage/packages/f15/gnome-session/po/ja.po | 
+ | [kn](/f15/language/kn) | 638 | 638 | 100.0 | /mnt/stockage/packages/f15/gnome-session/po/kn.po | 
+ | [ko](/f15/language/ko) | 446 | 446 | 100.0 | /mnt/stockage/packages/f15/gnome-session/po/ko.po | 
+ | [lt](/f15/language/lt) | 446 | 446 | 100.0 | /mnt/stockage/packages/f15/gnome-session/po/lt.po | 
+ | [lv](/f15/language/lv) | 446 | 446 | 100.0 | /mnt/stockage/packages/f15/gnome-session/po/lv.po | 
+ | [mg](/f15/language/mg) | 571 | 571 | 100.0 | /mnt/stockage/packages/f15/gnome-session/po/mg.po | 
+ | [mk](/f15/language/mk) | 714 | 714 | 100.0 | /mnt/stockage/packages/f15/gnome-session/po/mk.po | 
+ | [ml](/f15/language/ml) | 638 | 638 | 100.0 | /mnt/stockage/packages/f15/gnome-session/po/ml.po | 
+ | [mr](/f15/language/mr) | 622 | 622 | 100.0 | /mnt/stockage/packages/f15/gnome-session/po/mr.po | 
+ | [nb_NO](/f15/language/nb_NO) | 446 | 446 | 100.0 | /mnt/stockage/packages/f15/gnome-session/po/nb.po | 
+ | [ne](/f15/language/ne) | 888 | 888 | 100.0 | /mnt/stockage/packages/f15/gnome-session/po/ne.po | 
+ | [nl](/f15/language/nl) | 446 | 446 | 100.0 | /mnt/stockage/packages/f15/gnome-session/po/nl.po | 
+ | [nn](/f15/language/nn) | 638 | 638 | 100.0 | /mnt/stockage/packages/f15/gnome-session/po/nn.po | 
+ | [or](/f15/language/or) | 410 | 410 | 100.0 | /mnt/stockage/packages/f15/gnome-session/po/or.po | 
+ | [pa](/f15/language/pa) | 446 | 446 | 100.0 | /mnt/stockage/packages/f15/gnome-session/po/pa.po | 
+ | [pl](/f15/language/pl) | 446 | 446 | 100.0 | /mnt/stockage/packages/f15/gnome-session/po/pl.po | 
+ | [pt](/f15/language/pt) | 446 | 446 | 100.0 | /mnt/stockage/packages/f15/gnome-session/po/pt.po | 
+ | [pt_BR](/f15/language/pt_BR) | 446 | 446 | 100.0 | /mnt/stockage/packages/f15/gnome-session/po/pt_BR.po | 
+ | [ro](/f15/language/ro) | 446 | 446 | 100.0 | /mnt/stockage/packages/f15/gnome-session/po/ro.po | 
+ | [ru](/f15/language/ru) | 446 | 446 | 100.0 | /mnt/stockage/packages/f15/gnome-session/po/ru.po | 
+ | [si](/f15/language/si) | 811 | 811 | 100.0 | /mnt/stockage/packages/f15/gnome-session/po/si.po | 
+ | [sl](/f15/language/sl) | 446 | 446 | 100.0 | /mnt/stockage/packages/f15/gnome-session/po/sl.po | 
+ | [sq](/f15/language/sq) | 811 | 811 | 100.0 | /mnt/stockage/packages/f15/gnome-session/po/sq.po | 
+ | [sr](/f15/language/sr) | 448 | 448 | 100.0 | /mnt/stockage/packages/f15/gnome-session/po/sr.po | 
+ | [sr_Latn](/f15/language/sr_Latn) | 448 | 448 | 100.0 | /mnt/stockage/packages/f15/gnome-session/po/sr@latin.po | 
+ | [sv](/f15/language/sv) | 446 | 446 | 100.0 | /mnt/stockage/packages/f15/gnome-session/po/sv.po | 
+ | [ta](/f15/language/ta) | 446 | 446 | 100.0 | /mnt/stockage/packages/f15/gnome-session/po/ta.po | 
+ | [te](/f15/language/te) | 638 | 638 | 100.0 | /mnt/stockage/packages/f15/gnome-session/po/te.po | 
+ | [th](/f15/language/th) | 446 | 446 | 100.0 | /mnt/stockage/packages/f15/gnome-session/po/th.po | 
+ | [tr](/f15/language/tr) | 675 | 675 | 100.0 | /mnt/stockage/packages/f15/gnome-session/po/tr.po | 
+ | [uk](/f15/language/uk) | 446 | 446 | 100.0 | /mnt/stockage/packages/f15/gnome-session/po/uk.po | 
+ | [vi](/f15/language/vi) | 446 | 446 | 100.0 | /mnt/stockage/packages/f15/gnome-session/po/vi.po | 
+ | [wa](/f15/language/wa) | 533 | 533 | 100.0 | /mnt/stockage/packages/f15/gnome-session/po/wa.po | 
+ | [zh_Hans](/f15/language/zh_Hans) | 446 | 446 | 100.0 | /mnt/stockage/packages/f15/gnome-session/po/zh_CN.po | 
+ | [zh_Hant](/f15/language/zh_Hant) | 446 | 446 | 100.0 | /mnt/stockage/packages/f15/gnome-session/po/zh_TW.po | 
+ | [zh_Hant_HK](/f15/language/zh_Hant_HK) | 446 | 446 | 100.0 | /mnt/stockage/packages/f15/gnome-session/po/zh_HK.po | 
+ | [fur](/f15/language/fur) | 897 | 899 | 99.8 | /mnt/stockage/packages/f15/gnome-session/po/fur.po | 
+ | [sk](/f15/language/sk) | 408 | 410 | 99.5 | /mnt/stockage/packages/f15/gnome-session/po/sk.po | 
+ | [az](/f15/language/az) | 513 | 516 | 99.4 | /mnt/stockage/packages/f15/gnome-session/po/az.po | 
+ | [is](/f15/language/is) | 513 | 516 | 99.4 | /mnt/stockage/packages/f15/gnome-session/po/is.po | 
+ | [mn](/f15/language/mn) | 513 | 516 | 99.4 | /mnt/stockage/packages/f15/gnome-session/po/mn.po | 
+ | [ms](/f15/language/ms) | 513 | 516 | 99.4 | /mnt/stockage/packages/f15/gnome-session/po/ms.po | 
+ | [nso](/f15/language/nso) | 513 | 516 | 99.4 | /mnt/stockage/packages/f15/gnome-session/po/nso.po | 
+ | [zu](/f15/language/zu) | 513 | 516 | 99.4 | /mnt/stockage/packages/f15/gnome-session/po/zu.po | 
+ | [br](/f15/language/br) | 668 | 675 | 99.0 | /mnt/stockage/packages/f15/gnome-session/po/br.po | 
+ | [ast](/f15/language/ast) | 711 | 722 | 98.5 | /mnt/stockage/packages/f15/gnome-session/po/ast.po | 
+ | [bs](/f15/language/bs) | 506 | 516 | 98.1 | /mnt/stockage/packages/f15/gnome-session/po/bs.po | 
+ | [xh](/f15/language/xh) | 498 | 533 | 93.4 | /mnt/stockage/packages/f15/gnome-session/po/xh.po | 
+ | [error](/f15/language/error) | 556 | 638 | 87.1 | /mnt/stockage/packages/f15/gnome-session/po/en@shaw.po | 
+ | [ug](/f15/language/ug) | 354 | 446 | 79.4 | /mnt/stockage/packages/f15/gnome-session/po/ug.po | 
+ | [be_Latn](/f15/language/be_Latn) | 533 | 714 | 74.6 | /mnt/stockage/packages/f15/gnome-session/po/be@latin.po | 
+ | [ka](/f15/language/ka) | 434 | 714 | 60.8 | /mnt/stockage/packages/f15/gnome-session/po/ka.po | 
+ | [oc](/f15/language/oc) | 511 | 899 | 56.8 | /mnt/stockage/packages/f15/gnome-session/po/oc.po | 
+ | [mai](/f15/language/mai) | 267 | 638 | 41.8 | /mnt/stockage/packages/f15/gnome-session/po/mai.po | 
+ | [ga](/f15/language/ga) | 274 | 675 | 40.6 | /mnt/stockage/packages/f15/gnome-session/po/ga.po | 
+ | [ps](/f15/language/ps) | 244 | 679 | 35.9 | /mnt/stockage/packages/f15/gnome-session/po/ps.po | 
+ | [hr](/f15/language/hr) | 247 | 714 | 34.6 | /mnt/stockage/packages/f15/gnome-session/po/hr.po | 
+ | [nds](/f15/language/nds) | 209 | 638 | 32.8 | /mnt/stockage/packages/f15/gnome-session/po/nds.po | 
+ | [ku](/f15/language/ku) | 208 | 714 | 29.1 | /mnt/stockage/packages/f15/gnome-session/po/ku.po | 
+ | [am](/f15/language/am) | 145 | 516 | 28.1 | /mnt/stockage/packages/f15/gnome-session/po/am.po | 
+ | [uz](/f15/language/uz) | 386 | 1406 | 27.5 | /mnt/stockage/packages/f15/gnome-session/po/uz@cyrillic.po/mnt/stockage/packages/f15/gnome-session/po/uz.po | 
+ | [ha](/f15/language/ha) | 117 | 722 | 16.2 | /mnt/stockage/packages/f15/gnome-session/po/ha.po | 
+ | [ig](/f15/language/ig) | 117 | 722 | 16.2 | /mnt/stockage/packages/f15/gnome-session/po/ig.po | 
+ | [yo](/f15/language/yo) | 117 | 722 | 16.2 | /mnt/stockage/packages/f15/gnome-session/po/yo.po | 
+ | [tk](/f15/language/tk) | 44 | 516 | 8.5 | /mnt/stockage/packages/f15/gnome-session/po/tk.po | 
+ | [rw](/f15/language/rw) | 13 | 533 | 2.4 | /mnt/stockage/packages/f15/gnome-session/po/rw.po | 
+ | [mi](/f15/language/mi) | 8 | 516 | 1.6 | /mnt/stockage/packages/f15/gnome-session/po/mi.po | 
 {.sortable}
 
 

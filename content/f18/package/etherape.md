@@ -18,12 +18,12 @@ The package etherape (version 0.9.12):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [it]({{< ref "/f18/language/it.md" >}}) | 1009 | 1089 | 92.7 | /mnt/stockage/packages/f18/etherape/po/it.po | 
- | [es]({{< ref "/f18/language/es.md" >}}) | 415 | 1089 | 38.1 | /mnt/stockage/packages/f18/etherape/po/es.po | 
- | [sv]({{< ref "/f18/language/sv.md" >}}) | 415 | 1089 | 38.1 | /mnt/stockage/packages/f18/etherape/po/sv.po | 
- | [nl]({{< ref "/f18/language/nl.md" >}}) | 401 | 1089 | 36.8 | /mnt/stockage/packages/f18/etherape/po/nl.po | 
- | [tr]({{< ref "/f18/language/tr.md" >}}) | 148 | 1089 | 13.6 | /mnt/stockage/packages/f18/etherape/po/tr.po | 
- | [fr]({{< ref "/f18/language/fr.md" >}}) | 104 | 1089 | 9.6 | /mnt/stockage/packages/f18/etherape/po/fr.po | 
+ | [it](/f18/language/it) | 1009 | 1089 | 92.7 | /mnt/stockage/packages/f18/etherape/po/it.po | 
+ | [es](/f18/language/es) | 415 | 1089 | 38.1 | /mnt/stockage/packages/f18/etherape/po/es.po | 
+ | [sv](/f18/language/sv) | 415 | 1089 | 38.1 | /mnt/stockage/packages/f18/etherape/po/sv.po | 
+ | [nl](/f18/language/nl) | 401 | 1089 | 36.8 | /mnt/stockage/packages/f18/etherape/po/nl.po | 
+ | [tr](/f18/language/tr) | 148 | 1089 | 13.6 | /mnt/stockage/packages/f18/etherape/po/tr.po | 
+ | [fr](/f18/language/fr) | 104 | 1089 | 9.6 | /mnt/stockage/packages/f18/etherape/po/fr.po | 
 {.sortable}
 
 

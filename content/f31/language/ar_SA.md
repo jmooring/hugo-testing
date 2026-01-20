@@ -38,15 +38,15 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [poedit]({{< ref "/f31/package/poedit.md" >}}) | 2801 | 2813 | 99.6 | Arabic | 
- | [python-flask-admin]({{< ref "/f31/package/python-flask-admin.md" >}}) | 320 | 367 | 87.2 | Arabic | 
- | [gimagereader]({{< ref "/f31/package/gimagereader.md" >}}) | 1305 | 1561 | 83.6 | Arabic <https://hosted.weblate.org/projects/gimagereader/translations/ar_SA/> | 
- | [texi2html]({{< ref "/f31/package/texi2html.md" >}}) | 12 | 19 | 63.2 | Arabic <guido@imperia.net> | 
- | [texinfo]({{< ref "/f31/package/texinfo.md" >}}) | 12 | 19 | 63.2 | Arabic <guido@imperia.net> | 
- | [glpi]({{< ref "/f31/package/glpi.md" >}}) | 3844 | 13772 | 27.9 | Arabic (Saudi Arabia) (https://www.transifex.com/glpi/teams/1637/ar_SA/) | 
- | [gnome-shell-extension-gsconnect]({{< ref "/f31/package/gnome-shell-extension-gsconnect.md" >}}) | 124 | 539 | 23.0 | Arabic | 
- | [electrum]({{< ref "/f31/package/electrum.md" >}}) | 978 | 6886 | 14.2 | Arabic | 
- | [cacti]({{< ref "/f31/package/cacti.md" >}}) | 1074 | 28668 | 3.7 |  | 
+ | [poedit](/f31/package/poedit) | 2801 | 2813 | 99.6 | Arabic | 
+ | [python-flask-admin](/f31/package/python-flask-admin) | 320 | 367 | 87.2 | Arabic | 
+ | [gimagereader](/f31/package/gimagereader) | 1305 | 1561 | 83.6 | Arabic <https://hosted.weblate.org/projects/gimagereader/translations/ar_SA/> | 
+ | [texi2html](/f31/package/texi2html) | 12 | 19 | 63.2 | Arabic <guido@imperia.net> | 
+ | [texinfo](/f31/package/texinfo) | 12 | 19 | 63.2 | Arabic <guido@imperia.net> | 
+ | [glpi](/f31/package/glpi) | 3844 | 13772 | 27.9 | Arabic (Saudi Arabia) (https://www.transifex.com/glpi/teams/1637/ar_SA/) | 
+ | [gnome-shell-extension-gsconnect](/f31/package/gnome-shell-extension-gsconnect) | 124 | 539 | 23.0 | Arabic | 
+ | [electrum](/f31/package/electrum) | 978 | 6886 | 14.2 | Arabic | 
+ | [cacti](/f31/package/cacti) | 1074 | 28668 | 3.7 |  | 
 {.sortable}
 
 

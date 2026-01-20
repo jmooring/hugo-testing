@@ -18,27 +18,27 @@ The package avahi (version 0.6.25):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f13/language/ca.md" >}}) | 826 | 826 | 100.0 | /mnt/stockage/packages/f13/avahi/po/ca.po | 
- | [es]({{< ref "/f13/language/es.md" >}}) | 826 | 826 | 100.0 | /mnt/stockage/packages/f13/avahi/po/es.po | 
- | [fi]({{< ref "/f13/language/fi.md" >}}) | 826 | 826 | 100.0 | /mnt/stockage/packages/f13/avahi/po/fi.po | 
- | [hu]({{< ref "/f13/language/hu.md" >}}) | 826 | 826 | 100.0 | /mnt/stockage/packages/f13/avahi/po/hu.po | 
- | [pl]({{< ref "/f13/language/pl.md" >}}) | 826 | 826 | 100.0 | /mnt/stockage/packages/f13/avahi/po/pl.po | 
- | [pt_BR]({{< ref "/f13/language/pt_BR.md" >}}) | 826 | 826 | 100.0 | /mnt/stockage/packages/f13/avahi/po/pt_BR.po | 
- | [sr]({{< ref "/f13/language/sr.md" >}}) | 826 | 826 | 100.0 | /mnt/stockage/packages/f13/avahi/po/sr.po | 
- | [sr_Latn]({{< ref "/f13/language/sr_Latn.md" >}}) | 826 | 826 | 100.0 | /mnt/stockage/packages/f13/avahi/po/sr@latin.po | 
- | [de]({{< ref "/f13/language/de.md" >}}) | 802 | 826 | 97.1 | /mnt/stockage/packages/f13/avahi/po/de.po | 
- | [fr]({{< ref "/f13/language/fr.md" >}}) | 711 | 826 | 86.1 | /mnt/stockage/packages/f13/avahi/po/fr.po | 
- | [it]({{< ref "/f13/language/it.md" >}}) | 711 | 826 | 86.1 | /mnt/stockage/packages/f13/avahi/po/it.po | 
- | [sv]({{< ref "/f13/language/sv.md" >}}) | 711 | 826 | 86.1 | /mnt/stockage/packages/f13/avahi/po/sv.po | 
- | [ru]({{< ref "/f13/language/ru.md" >}}) | 662 | 826 | 80.1 | /mnt/stockage/packages/f13/avahi/po/ru.po | 
- | [zh_Hans]({{< ref "/f13/language/zh_Hans.md" >}}) | 662 | 826 | 80.1 | /mnt/stockage/packages/f13/avahi/po/zh_CN.po | 
- | [el]({{< ref "/f13/language/el.md" >}}) | 221 | 826 | 26.8 | /mnt/stockage/packages/f13/avahi/po/el.po | 
- | [ms]({{< ref "/f13/language/ms.md" >}}) | 46 | 826 | 5.6 | /mnt/stockage/packages/f13/avahi/po/ms.po | 
- | [en_AU]({{< ref "/f13/language/en_AU.md" >}}) | 2 | 826 | 0.2 | /mnt/stockage/packages/f13/avahi/po/en_AU.po | 
- | [en_GB]({{< ref "/f13/language/en_GB.md" >}}) | 2 | 826 | 0.2 | /mnt/stockage/packages/f13/avahi/po/en_GB.po | 
- | [en_NZ]({{< ref "/f13/language/en_NZ.md" >}}) | 2 | 826 | 0.2 | /mnt/stockage/packages/f13/avahi/po/en_NZ.po | 
- | [en_CA]({{< ref "/f13/language/en_CA.md" >}}) | 1 | 826 | 0.1 | /mnt/stockage/packages/f13/avahi/po/en_CA.po | 
- | [ro]({{< ref "/f13/language/ro.md" >}}) | 0 | 826 | 0.0 | /mnt/stockage/packages/f13/avahi/po/ro.po | 
+ | [ca](/f13/language/ca) | 826 | 826 | 100.0 | /mnt/stockage/packages/f13/avahi/po/ca.po | 
+ | [es](/f13/language/es) | 826 | 826 | 100.0 | /mnt/stockage/packages/f13/avahi/po/es.po | 
+ | [fi](/f13/language/fi) | 826 | 826 | 100.0 | /mnt/stockage/packages/f13/avahi/po/fi.po | 
+ | [hu](/f13/language/hu) | 826 | 826 | 100.0 | /mnt/stockage/packages/f13/avahi/po/hu.po | 
+ | [pl](/f13/language/pl) | 826 | 826 | 100.0 | /mnt/stockage/packages/f13/avahi/po/pl.po | 
+ | [pt_BR](/f13/language/pt_BR) | 826 | 826 | 100.0 | /mnt/stockage/packages/f13/avahi/po/pt_BR.po | 
+ | [sr](/f13/language/sr) | 826 | 826 | 100.0 | /mnt/stockage/packages/f13/avahi/po/sr.po | 
+ | [sr_Latn](/f13/language/sr_Latn) | 826 | 826 | 100.0 | /mnt/stockage/packages/f13/avahi/po/sr@latin.po | 
+ | [de](/f13/language/de) | 802 | 826 | 97.1 | /mnt/stockage/packages/f13/avahi/po/de.po | 
+ | [fr](/f13/language/fr) | 711 | 826 | 86.1 | /mnt/stockage/packages/f13/avahi/po/fr.po | 
+ | [it](/f13/language/it) | 711 | 826 | 86.1 | /mnt/stockage/packages/f13/avahi/po/it.po | 
+ | [sv](/f13/language/sv) | 711 | 826 | 86.1 | /mnt/stockage/packages/f13/avahi/po/sv.po | 
+ | [ru](/f13/language/ru) | 662 | 826 | 80.1 | /mnt/stockage/packages/f13/avahi/po/ru.po | 
+ | [zh_Hans](/f13/language/zh_Hans) | 662 | 826 | 80.1 | /mnt/stockage/packages/f13/avahi/po/zh_CN.po | 
+ | [el](/f13/language/el) | 221 | 826 | 26.8 | /mnt/stockage/packages/f13/avahi/po/el.po | 
+ | [ms](/f13/language/ms) | 46 | 826 | 5.6 | /mnt/stockage/packages/f13/avahi/po/ms.po | 
+ | [en_AU](/f13/language/en_AU) | 2 | 826 | 0.2 | /mnt/stockage/packages/f13/avahi/po/en_AU.po | 
+ | [en_GB](/f13/language/en_GB) | 2 | 826 | 0.2 | /mnt/stockage/packages/f13/avahi/po/en_GB.po | 
+ | [en_NZ](/f13/language/en_NZ) | 2 | 826 | 0.2 | /mnt/stockage/packages/f13/avahi/po/en_NZ.po | 
+ | [en_CA](/f13/language/en_CA) | 1 | 826 | 0.1 | /mnt/stockage/packages/f13/avahi/po/en_CA.po | 
+ | [ro](/f13/language/ro) | 0 | 826 | 0.0 | /mnt/stockage/packages/f13/avahi/po/ro.po | 
 {.sortable}
 
 

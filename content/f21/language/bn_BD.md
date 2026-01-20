@@ -38,21 +38,21 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [squirrelmail]({{< ref "/f21/package/squirrelmail.md" >}}) | 18710 | 18710 | 100.0 | Bengali <ankur-bd-l10n@googlegroups.com> | 
- | [uget]({{< ref "/f21/package/uget.md" >}}) | 572 | 1022 | 56.0 | Bengali (Bangladesh) (http://www.transifex.com/uget/uget/language/bn_BD/) | 
- | [modem-manager-gui]({{< ref "/f21/package/modem-manager-gui.md" >}}) | 350 | 1218 | 28.7 | Bengali (Bangladesh) (http://www.transifex.com/projects/p/modem-manager-gui/language/bn_BD/) | 
- | [poedit]({{< ref "/f21/package/poedit.md" >}}) | 488 | 2461 | 19.8 | Bengali | 
- | [system-config-language]({{< ref "/f21/package/system-config-language.md" >}}) | 22 | 198 | 11.1 | Arabic <support@arabeyes.org> | 
- | [calibre]({{< ref "/f21/package/calibre.md" >}}) | 100 | 144413 | 0.1 | Bengali (Bangladesh) (http://www.transifex.com/projects/p/calibre/language/bn_BD/) | 
- | [fonts-tweak-tool]({{< ref "/f21/package/fonts-tweak-tool.md" >}}) | 0 | 164 | 0.0 | Bengali (Bangladesh) | 
- | [im-chooser]({{< ref "/f21/package/im-chooser.md" >}}) | 0 | 237 | 0.0 | LANGUAGE <LL@li.org> | 
- | [libvirt-sandbox]({{< ref "/f21/package/libvirt-sandbox.md" >}}) | 0 | 583 | 0.0 | Bengali (Bangladesh) (http://www.transifex.com/projects/p/fedora/language/bn_BD/) | 
- | [policycoreutils]({{< ref "/f21/package/policycoreutils.md" >}}) | 0 | 7678 | 0.0 | Bengali (Bangladesh) (http://www.transifex.com/projects/p/fedora/language/bn_BD/) | 
- | [rhn-client-tools]({{< ref "/f21/package/rhn-client-tools.md" >}}) | 0 | 4103 | 0.0 | LANGUAGE <LL@li.org> | 
- | [rhnsd]({{< ref "/f21/package/rhnsd.md" >}}) | 0 | 37 | 0.0 | LANGUAGE <LL@li.org> | 
- | [system-config-date]({{< ref "/f21/package/system-config-date.md" >}}) | 0 | 503 | 0.0 | LANGUAGE <LL@li.org> | 
- | [system-config-services]({{< ref "/f21/package/system-config-services.md" >}}) | 0 | 534 | 0.0 | Bengali (Bangladesh) (http://www.transifex.net/projects/p/fedora/team/bn_BD/) | 
- | [yum-rhn-plugin]({{< ref "/f21/package/yum-rhn-plugin.md" >}}) | 0 | 147 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [squirrelmail](/f21/package/squirrelmail) | 18710 | 18710 | 100.0 | Bengali <ankur-bd-l10n@googlegroups.com> | 
+ | [uget](/f21/package/uget) | 572 | 1022 | 56.0 | Bengali (Bangladesh) (http://www.transifex.com/uget/uget/language/bn_BD/) | 
+ | [modem-manager-gui](/f21/package/modem-manager-gui) | 350 | 1218 | 28.7 | Bengali (Bangladesh) (http://www.transifex.com/projects/p/modem-manager-gui/language/bn_BD/) | 
+ | [poedit](/f21/package/poedit) | 488 | 2461 | 19.8 | Bengali | 
+ | [system-config-language](/f21/package/system-config-language) | 22 | 198 | 11.1 | Arabic <support@arabeyes.org> | 
+ | [calibre](/f21/package/calibre) | 100 | 144413 | 0.1 | Bengali (Bangladesh) (http://www.transifex.com/projects/p/calibre/language/bn_BD/) | 
+ | [fonts-tweak-tool](/f21/package/fonts-tweak-tool) | 0 | 164 | 0.0 | Bengali (Bangladesh) | 
+ | [im-chooser](/f21/package/im-chooser) | 0 | 237 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [libvirt-sandbox](/f21/package/libvirt-sandbox) | 0 | 583 | 0.0 | Bengali (Bangladesh) (http://www.transifex.com/projects/p/fedora/language/bn_BD/) | 
+ | [policycoreutils](/f21/package/policycoreutils) | 0 | 7678 | 0.0 | Bengali (Bangladesh) (http://www.transifex.com/projects/p/fedora/language/bn_BD/) | 
+ | [rhn-client-tools](/f21/package/rhn-client-tools) | 0 | 4103 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [rhnsd](/f21/package/rhnsd) | 0 | 37 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [system-config-date](/f21/package/system-config-date) | 0 | 503 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [system-config-services](/f21/package/system-config-services) | 0 | 534 | 0.0 | Bengali (Bangladesh) (http://www.transifex.net/projects/p/fedora/team/bn_BD/) | 
+ | [yum-rhn-plugin](/f21/package/yum-rhn-plugin) | 0 | 147 | 0.0 | LANGUAGE <LL@li.org> | 
 {.sortable}
 
 

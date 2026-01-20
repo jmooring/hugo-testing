@@ -18,11 +18,11 @@ The package ibus-table (version 1.9.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f19/language/de.md" >}}) | 796 | 796 | 100.0 | /mnt/stockage/packages/f19/ibus-table/po/de.po | 
- | [ja]({{< ref "/f19/language/ja.md" >}}) | 5 | 796 | 0.6 | /mnt/stockage/packages/f19/ibus-table/po/ja.po | 
- | [zh_Hans]({{< ref "/f19/language/zh_Hans.md" >}}) | 0 | 796 | 0.0 | /mnt/stockage/packages/f19/ibus-table/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f19/language/zh_Hant.md" >}}) | 0 | 796 | 0.0 | /mnt/stockage/packages/f19/ibus-table/po/zh_TW.po | 
- | [zh_Hant_HK]({{< ref "/f19/language/zh_Hant_HK.md" >}}) | 0 | 796 | 0.0 | /mnt/stockage/packages/f19/ibus-table/po/zh_HK.po | 
+ | [de](/f19/language/de) | 796 | 796 | 100.0 | /mnt/stockage/packages/f19/ibus-table/po/de.po | 
+ | [ja](/f19/language/ja) | 5 | 796 | 0.6 | /mnt/stockage/packages/f19/ibus-table/po/ja.po | 
+ | [zh_Hans](/f19/language/zh_Hans) | 0 | 796 | 0.0 | /mnt/stockage/packages/f19/ibus-table/po/zh_CN.po | 
+ | [zh_Hant](/f19/language/zh_Hant) | 0 | 796 | 0.0 | /mnt/stockage/packages/f19/ibus-table/po/zh_TW.po | 
+ | [zh_Hant_HK](/f19/language/zh_Hant_HK) | 0 | 796 | 0.0 | /mnt/stockage/packages/f19/ibus-table/po/zh_HK.po | 
 {.sortable}
 
 

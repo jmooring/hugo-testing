@@ -18,20 +18,20 @@ The package gkrellm (version 2.3.5):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f19/language/fr.md" >}}) | 3784 | 3784 | 100.0 | /mnt/stockage/packages/f19/gkrellm/po/fr.po | 
- | [es]({{< ref "/f19/language/es.md" >}}) | 3764 | 3784 | 99.5 | /mnt/stockage/packages/f19/gkrellm/po/es.po | 
- | [de]({{< ref "/f19/language/de.md" >}}) | 3757 | 3784 | 99.3 | /mnt/stockage/packages/f19/gkrellm/po/de.po | 
- | [pt_BR]({{< ref "/f19/language/pt_BR.md" >}}) | 3686 | 3784 | 97.4 | /mnt/stockage/packages/f19/gkrellm/po/pt_BR.po | 
- | [pl]({{< ref "/f19/language/pl.md" >}}) | 3565 | 3784 | 94.2 | /mnt/stockage/packages/f19/gkrellm/po/pl.po | 
- | [bg]({{< ref "/f19/language/bg.md" >}}) | 3389 | 3784 | 89.6 | /mnt/stockage/packages/f19/gkrellm/po/bg.po | 
- | [it]({{< ref "/f19/language/it.md" >}}) | 3386 | 3784 | 89.5 | /mnt/stockage/packages/f19/gkrellm/po/it.po | 
- | [ja]({{< ref "/f19/language/ja.md" >}}) | 3367 | 3784 | 89.0 | /mnt/stockage/packages/f19/gkrellm/po/ja.po | 
- | [cs]({{< ref "/f19/language/cs.md" >}}) | 3332 | 3784 | 88.1 | /mnt/stockage/packages/f19/gkrellm/po/cs.po | 
- | [da]({{< ref "/f19/language/da.md" >}}) | 3332 | 3784 | 88.1 | /mnt/stockage/packages/f19/gkrellm/po/da.po | 
- | [nl]({{< ref "/f19/language/nl.md" >}}) | 3321 | 3784 | 87.8 | /mnt/stockage/packages/f19/gkrellm/po/nl.po | 
- | [sl]({{< ref "/f19/language/sl.md" >}}) | 3321 | 3784 | 87.8 | /mnt/stockage/packages/f19/gkrellm/po/sl.po | 
- | [ru]({{< ref "/f19/language/ru.md" >}}) | 3298 | 3784 | 87.2 | /mnt/stockage/packages/f19/gkrellm/po/ru.po | 
- | [sv]({{< ref "/f19/language/sv.md" >}}) | 3132 | 3784 | 82.8 | /mnt/stockage/packages/f19/gkrellm/po/sv.po | 
+ | [fr](/f19/language/fr) | 3784 | 3784 | 100.0 | /mnt/stockage/packages/f19/gkrellm/po/fr.po | 
+ | [es](/f19/language/es) | 3764 | 3784 | 99.5 | /mnt/stockage/packages/f19/gkrellm/po/es.po | 
+ | [de](/f19/language/de) | 3757 | 3784 | 99.3 | /mnt/stockage/packages/f19/gkrellm/po/de.po | 
+ | [pt_BR](/f19/language/pt_BR) | 3686 | 3784 | 97.4 | /mnt/stockage/packages/f19/gkrellm/po/pt_BR.po | 
+ | [pl](/f19/language/pl) | 3565 | 3784 | 94.2 | /mnt/stockage/packages/f19/gkrellm/po/pl.po | 
+ | [bg](/f19/language/bg) | 3389 | 3784 | 89.6 | /mnt/stockage/packages/f19/gkrellm/po/bg.po | 
+ | [it](/f19/language/it) | 3386 | 3784 | 89.5 | /mnt/stockage/packages/f19/gkrellm/po/it.po | 
+ | [ja](/f19/language/ja) | 3367 | 3784 | 89.0 | /mnt/stockage/packages/f19/gkrellm/po/ja.po | 
+ | [cs](/f19/language/cs) | 3332 | 3784 | 88.1 | /mnt/stockage/packages/f19/gkrellm/po/cs.po | 
+ | [da](/f19/language/da) | 3332 | 3784 | 88.1 | /mnt/stockage/packages/f19/gkrellm/po/da.po | 
+ | [nl](/f19/language/nl) | 3321 | 3784 | 87.8 | /mnt/stockage/packages/f19/gkrellm/po/nl.po | 
+ | [sl](/f19/language/sl) | 3321 | 3784 | 87.8 | /mnt/stockage/packages/f19/gkrellm/po/sl.po | 
+ | [ru](/f19/language/ru) | 3298 | 3784 | 87.2 | /mnt/stockage/packages/f19/gkrellm/po/ru.po | 
+ | [sv](/f19/language/sv) | 3132 | 3784 | 82.8 | /mnt/stockage/packages/f19/gkrellm/po/sv.po | 
 {.sortable}
 
 

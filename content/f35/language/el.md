@@ -47,1229 +47,1229 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [0ad]({{< ref "/f35/package/0ad.md" >}}) | 300 | 300 | 100.0 | Greek (http://www.transifex.com/wildfire-games/0ad/language/el/) | 
- | [GConf2]({{< ref "/f35/package/GConf2.md" >}}) | 4074 | 4074 | 100.0 | team@gnome.gr | 
- | [NetworkManager-iodine]({{< ref "/f35/package/NetworkManager-iodine.md" >}}) | 79 | 79 | 100.0 | team@gnome.gr | 
- | [NetworkManager-pptp]({{< ref "/f35/package/NetworkManager-pptp.md" >}}) | 407 | 407 | 100.0 | Greek <team@gnome.gr> | 
- | [NetworkManager-vpnc]({{< ref "/f35/package/NetworkManager-vpnc.md" >}}) | 479 | 479 | 100.0 | team@gnome.gr | 
- | [PackageKit]({{< ref "/f35/package/PackageKit.md" >}}) | 1211 | 1211 | 100.0 | Greek (http://www.transifex.com/freedesktop/packagekit/language/el/) | 
- | [abattis-cantarell-fonts]({{< ref "/f35/package/abattis-cantarell-fonts.md" >}}) | 27 | 27 | 100.0 | Ελληνικά <> | 
- | [accerciser]({{< ref "/f35/package/accerciser.md" >}}) | 4629 | 4629 | 100.0 | Greek, Modern (1453-) <opensuse-translation-el@opensuse.org> | 
- | [accountsservice]({{< ref "/f35/package/accountsservice.md" >}}) | 59 | 59 | 100.0 | Greek (http://www.transifex.com/freedesktop/accountsservice/language/el/) | 
- | [aisleriot]({{< ref "/f35/package/aisleriot.md" >}}) | 23664 | 23664 | 100.0 | team@lists.gnome.gr | 
- | [akonadi-calendar-tools]({{< ref "/f35/package/akonadi-calendar-tools.md" >}}) | 785 | 785 | 100.0 | Greek <kde-i18n-el@kde.org> | 
- | [akonadi-import-wizard]({{< ref "/f35/package/akonadi-import-wizard.md" >}}) | 394 | 394 | 100.0 | Greek <kde-i18n-el@kde.org> | 
- | [akregator]({{< ref "/f35/package/akregator.md" >}}) | 1908 | 1908 | 100.0 | Greek <kde-i18n-el@kde.org> | 
- | [alacarte]({{< ref "/f35/package/alacarte.md" >}}) | 45 | 45 | 100.0 | team@gnome.gr | 
- | [alleyoop]({{< ref "/f35/package/alleyoop.md" >}}) | 351 | 351 | 100.0 | Greek <team@gnome.gr> | 
- | [almanah]({{< ref "/f35/package/almanah.md" >}}) | 790 | 790 | 100.0 | www.gnome.gr | 
- | [amtk]({{< ref "/f35/package/amtk.md" >}}) | 11 | 11 | 100.0 | Greek <gnome-el-list@gnome.org> | 
- | [analitza]({{< ref "/f35/package/analitza.md" >}}) | 992 | 992 | 100.0 | Greek <kde-i18n-el@kde.org> | 
- | [anjuta]({{< ref "/f35/package/anjuta.md" >}}) | 18892 | 18892 | 100.0 | www.gnome.gr | 
- | [ark]({{< ref "/f35/package/ark.md" >}}) | 1931 | 1931 | 100.0 | Greek <kde-i18n-el@kde.org> | 
- | [artikulate]({{< ref "/f35/package/artikulate.md" >}}) | 338 | 338 | 100.0 | Greek <kde-i18n-el@kde.org> | 
- | [at-spi2-core]({{< ref "/f35/package/at-spi2-core.md" >}}) | 10 | 10 | 100.0 | team@gnome.gr | 
- | [atk]({{< ref "/f35/package/atk.md" >}}) | 440 | 440 | 100.0 | team@lists.gnome.gr | 
- | [atomix]({{< ref "/f35/package/atomix.md" >}}) | 208 | 208 | 100.0 | Greek <team@lists.gnome.gr> | 
- | [audacious]({{< ref "/f35/package/audacious.md" >}}) | 859 | 859 | 100.0 | Greek (http://www.transifex.com/audacious/audacious/language/el/) | 
- | [baloo-widgets]({{< ref "/f35/package/baloo-widgets.md" >}}) | 52 | 52 | 100.0 | Greek <kde-i18n-el@kde.org> | 
- | [baobab]({{< ref "/f35/package/baobab.md" >}}) | 1410 | 1410 | 100.0 | team@lists.gnome.gr | 
- | [bijiben]({{< ref "/f35/package/bijiben.md" >}}) | 1294 | 1294 | 100.0 | www.gnome.gr | 
- | [blinken]({{< ref "/f35/package/blinken.md" >}}) | 134 | 134 | 100.0 | Greek <kde-i18n-el@kde.org> | 
- | [blueberry]({{< ref "/f35/package/blueberry.md" >}}) | 166 | 166 | 100.0 | Greek <el@li.org> | 
- | [boinc-client]({{< ref "/f35/package/boinc-client.md" >}}) | 469 | 469 | 100.0 | Greek (http://www.transifex.com/boinc/boinc/language/el/) | 
- | [bomber]({{< ref "/f35/package/bomber.md" >}}) | 110 | 110 | 100.0 | Greek <kde-i18n-el@kde.org> | 
- | [bovo]({{< ref "/f35/package/bovo.md" >}}) | 81 | 81 | 100.0 | Greek <kde-i18n-el@kde.org> | 
- | [brasero]({{< ref "/f35/package/brasero.md" >}}) | 7751 | 7751 | 100.0 | www.gnome.gr | 
- | [byzanz]({{< ref "/f35/package/byzanz.md" >}}) | 236 | 236 | 100.0 | Greek <team@gnome.gr> | 
- | [calindori]({{< ref "/f35/package/calindori.md" >}}) | 501 | 501 | 100.0 | Greek <kde-i18n-el@kde.org> | 
- | [cantor]({{< ref "/f35/package/cantor.md" >}}) | 3659 | 3659 | 100.0 | Greek <kde-i18n-el@kde.org> | 
- | [caribou]({{< ref "/f35/package/caribou.md" >}}) | 169 | 169 | 100.0 | Greek, Modern (1453-) <opensuse-translation-el@opensuse.org> | 
- | [catfish]({{< ref "/f35/package/catfish.md" >}}) | 1077 | 1077 | 100.0 | Greek (https://www.transifex.com/xfce/teams/16840/el/) | 
- | [cervisia]({{< ref "/f35/package/cervisia.md" >}}) | 1619 | 1619 | 100.0 | Greek <kde-i18n-doc@kde.org> | 
- | [cheese]({{< ref "/f35/package/cheese.md" >}}) | 2100 | 2100 | 100.0 | www.gnome.gr | 
- | [clutter]({{< ref "/f35/package/clutter.md" >}}) | 3057 | 3057 | 100.0 | Greek, Modern (1453-) <opensuse-translation-el@opensuse.org> | 
- | [cogl]({{< ref "/f35/package/cogl.md" >}}) | 393 | 393 | 100.0 | team@gnome.gr | 
- | [console-setup]({{< ref "/f35/package/console-setup.md" >}}) | 984 | 984 | 100.0 | Greek <debian-l10n-greek@lists.debian.org> | 
- | [d-feet]({{< ref "/f35/package/d-feet.md" >}}) | 184 | 184 | 100.0 | Greek <team@gnome.gr> | 
- | [dasher]({{< ref "/f35/package/dasher.md" >}}) | 7220 | 7220 | 100.0 | Greek <team@gnome.gr> | 
- | [devhelp]({{< ref "/f35/package/devhelp.md" >}}) | 386 | 386 | 100.0 | Ελληνικά <> | 
- | [dialog]({{< ref "/f35/package/dialog.md" >}}) | 25 | 25 | 100.0 | Greek <team@lists.gnome.gr> | 
- | [doublecmd]({{< ref "/f35/package/doublecmd.md" >}}) | 10518 | 10518 | 100.0 | Anastasios Kazakis <orca.surfshark@gmail.com> | 
- | [dragon]({{< ref "/f35/package/dragon.md" >}}) | 273 | 273 | 100.0 | Greek <kde-i18n-el@kde.org> | 
- | [easytag]({{< ref "/f35/package/easytag.md" >}}) | 7660 | 7660 | 100.0 | www.gnome.gr | 
- | [eog]({{< ref "/f35/package/eog.md" >}}) | 6606 | 6606 | 100.0 | team@lists.gnome.gr | 
- | [eog-plugins]({{< ref "/f35/package/eog-plugins.md" >}}) | 416 | 416 | 100.0 | Greek, Modern (1453-) <opensuse-translation-el@opensuse.org> | 
- | [epiphany]({{< ref "/f35/package/epiphany.md" >}}) | 7660 | 7660 | 100.0 | Greek, Modern (1453-) <opensuse-translation-el@opensuse.org> | 
- | [evince]({{< ref "/f35/package/evince.md" >}}) | 9221 | 9221 | 100.0 | Ελληνικά <opensuse-translation-el@opensuse.org> | 
- | [evolution-ews]({{< ref "/f35/package/evolution-ews.md" >}}) | 1185 | 1185 | 100.0 | team@gnome.gr | 
- | [evolution-mapi]({{< ref "/f35/package/evolution-mapi.md" >}}) | 1036 | 1036 | 100.0 | team@gnome.gr | 
- | [evolution-rss]({{< ref "/f35/package/evolution-rss.md" >}}) | 882 | 882 | 100.0 | Greek, Modern (1453-) <opensuse-translation-el@opensuse.org> | 
- | [falkon]({{< ref "/f35/package/falkon.md" >}}) | 4386 | 4386 | 100.0 | Greek <kde-i18n-el@kde.org> | 
- | [file-roller]({{< ref "/f35/package/file-roller.md" >}}) | 2933 | 2933 | 100.0 | Greek, Modern (1453-) <opensuse-translation-el@opensuse.org> | 
- | [five-or-more]({{< ref "/f35/package/five-or-more.md" >}}) | 1529 | 1529 | 100.0 | team@lists.gnome.gr | 
- | [fmit]({{< ref "/f35/package/fmit.md" >}}) | 222 | 222 | 100.0 | Greek <https://hosted.weblate.org/projects/fmit/appdata/el/> | 
- | [focuswriter]({{< ref "/f35/package/focuswriter.md" >}}) | 129 | 129 | 100.0 | Greek (http://www.transifex.com/gottcode/focuswriter/language/el/) | 
- | [folks]({{< ref "/f35/package/folks.md" >}}) | 1056 | 1056 | 100.0 | Ελληνικά <opensuse-translation-el@opensuse.org> | 
- | [four-in-a-row]({{< ref "/f35/package/four-in-a-row.md" >}}) | 1398 | 1398 | 100.0 | team@lists.gnome.gr | 
- | [garcon]({{< ref "/f35/package/garcon.md" >}}) | 122 | 122 | 100.0 | Greek (http://www.transifex.com/xfce/garcon/language/el/) | 
- | [gcab]({{< ref "/f35/package/gcab.md" >}}) | 162 | 162 | 100.0 | team@gnome.gr | 
- | [gcompris-qt]({{< ref "/f35/package/gcompris-qt.md" >}}) | 29269 | 29269 | 100.0 | Greek <kde-i18n-el@kde.org> | 
- | [gconf-editor]({{< ref "/f35/package/gconf-editor.md" >}}) | 2834 | 2834 | 100.0 | Greek <team@gnome.gr> | 
- | [gcr]({{< ref "/f35/package/gcr.md" >}}) | 754 | 754 | 100.0 | www.gnome.gr | 
- | [gdk-pixbuf2]({{< ref "/f35/package/gdk-pixbuf2.md" >}}) | 1415 | 1415 | 100.0 | Ελληνικά <> | 
- | [gdm]({{< ref "/f35/package/gdm.md" >}}) | 9989 | 9989 | 100.0 | www.gnome.gr | 
- | [geany]({{< ref "/f35/package/geany.md" >}}) | 6156 | 6156 | 100.0 | Greek | 
- | [gedit]({{< ref "/f35/package/gedit.md" >}}) | 10791 | 10791 | 100.0 | www.gnome.gr | 
- | [gedit-latex]({{< ref "/f35/package/gedit-latex.md" >}}) | 468 | 468 | 100.0 | Greek <team@lists.gnome.gr> | 
- | [gedit-plugins]({{< ref "/f35/package/gedit-plugins.md" >}}) | 3131 | 3131 | 100.0 | team@gnome.gr | 
- | [gegl04]({{< ref "/f35/package/gegl04.md" >}}) | 10254 | 10254 | 100.0 | team@lists.gnome.gr | 
- | [genius]({{< ref "/f35/package/genius.md" >}}) | 8497 | 8497 | 100.0 | www.gnome.gr | 
- | [gftp]({{< ref "/f35/package/gftp.md" >}}) | 3334 | 3334 | 100.0 | <team@gnome.gr> | 
- | [ggz-base-libs]({{< ref "/f35/package/ggz-base-libs.md" >}}) | 66 | 66 | 100.0 | Greek <team@gnome.gr> | 
- | [ghex]({{< ref "/f35/package/ghex.md" >}}) | 3236 | 3236 | 100.0 | team@lists.gnome.gr | 
- | [gimp]({{< ref "/f35/package/gimp.md" >}}) | 39310 | 39310 | 100.0 | team@lists.gnome.gr | 
- | [gimp-help]({{< ref "/f35/package/gimp-help.md" >}}) | 256782 | 256782 | 100.0 | team@lists.gnome.gr | 
- | [gitg]({{< ref "/f35/package/gitg.md" >}}) | 2034 | 2034 | 100.0 | team@lists.gnome.gr | 
- | [glabels]({{< ref "/f35/package/glabels.md" >}}) | 8424 | 8424 | 100.0 | www.gnome.gr | 
- | [glade]({{< ref "/f35/package/glade.md" >}}) | 8555 | 8555 | 100.0 | Greek, Modern (1453-) <opensuse-translation-el@opensuse.org> | 
- | [glib-networking]({{< ref "/f35/package/glib-networking.md" >}}) | 163 | 163 | 100.0 | team@gnome.gr | 
- | [glibc]({{< ref "/f35/package/glibc.md" >}}) | 2868 | 2868 | 100.0 | Greek <nls@tux.hellug.gr> | 
- | [gnome-2048]({{< ref "/f35/package/gnome-2048.md" >}}) | 324 | 324 | 100.0 | Greek <gnome-el-list@gnome.org> | 
- | [gnome-bluetooth]({{< ref "/f35/package/gnome-bluetooth.md" >}}) | 373 | 373 | 100.0 | www.gnome.gr | 
- | [gnome-books]({{< ref "/f35/package/gnome-books.md" >}}) | 421 | 421 | 100.0 | Ελληνικά <> | 
- | [gnome-boxes]({{< ref "/f35/package/gnome-boxes.md" >}}) | 3638 | 3638 | 100.0 | Greek <team@lists.gnome.gr> | 
- | [gnome-calculator]({{< ref "/f35/package/gnome-calculator.md" >}}) | 3556 | 3556 | 100.0 | team@lists.gnome.gr | 
- | [gnome-calendar]({{< ref "/f35/package/gnome-calendar.md" >}}) | 898 | 898 | 100.0 | Greek, Modern (1453-) <gnome-el-list@gnome.org> | 
- | [gnome-characters]({{< ref "/f35/package/gnome-characters.md" >}}) | 181 | 181 | 100.0 | Greek, Modern (1453-) <opensuse-translation-el@opensuse.org> | 
- | [gnome-chess]({{< ref "/f35/package/gnome-chess.md" >}}) | 1513 | 1513 | 100.0 | www.gnome.gr | 
- | [gnome-clocks]({{< ref "/f35/package/gnome-clocks.md" >}}) | 1346 | 1346 | 100.0 | team@lists.gnome.gr | 
- | [gnome-color-manager]({{< ref "/f35/package/gnome-color-manager.md" >}}) | 2330 | 2330 | 100.0 | Greek <team@lists.gnome.gr> | 
- | [gnome-commander]({{< ref "/f35/package/gnome-commander.md" >}}) | 31869 | 31869 | 100.0 | team@lists.gnome.gr | 
- | [gnome-connections]({{< ref "/f35/package/gnome-connections.md" >}}) | 184 | 184 | 100.0 | Greek <gnome-el-list@gnome.org> | 
- | [gnome-contacts]({{< ref "/f35/package/gnome-contacts.md" >}}) | 590 | 590 | 100.0 | Greek, Modern (1453-) <gnome-el-list@gnome.org> | 
- | [gnome-desktop3]({{< ref "/f35/package/gnome-desktop3.md" >}}) | 9744 | 9744 | 100.0 | Greek <team@gnome.gr> | 
- | [gnome-dictionary]({{< ref "/f35/package/gnome-dictionary.md" >}}) | 2162 | 2162 | 100.0 | team@lists.gnome.gr | 
- | [gnome-directory-thumbnailer]({{< ref "/f35/package/gnome-directory-thumbnailer.md" >}}) | 85 | 85 | 100.0 | team@lists.gnome.gr | 
- | [gnome-disk-utility]({{< ref "/f35/package/gnome-disk-utility.md" >}}) | 4085 | 4085 | 100.0 | Greek, Modern (1453-) <gnome-el-list@gnome.org> | 
- | [gnome-doc-utils]({{< ref "/f35/package/gnome-doc-utils.md" >}}) | 251 | 251 | 100.0 | Greek <team@gnome.gr> | 
- | [gnome-flashback]({{< ref "/f35/package/gnome-flashback.md" >}}) | 1088 | 1088 | 100.0 | team@lists.gnome.gr | 
- | [gnome-icon-theme]({{< ref "/f35/package/gnome-icon-theme.md" >}}) | 4 | 4 | 100.0 | team@gnome.gr | 
- | [gnome-initial-setup]({{< ref "/f35/package/gnome-initial-setup.md" >}}) | 874 | 874 | 100.0 | Ελληνικά <> | 
- | [gnome-keyring]({{< ref "/f35/package/gnome-keyring.md" >}}) | 509 | 509 | 100.0 | team@gnome.gr | 
- | [gnome-klotski]({{< ref "/f35/package/gnome-klotski.md" >}}) | 1503 | 1503 | 100.0 | Greek <team@gnome.gr> | 
- | [gnome-logs]({{< ref "/f35/package/gnome-logs.md" >}}) | 652 | 652 | 100.0 | team@lists.gnome.gr | 
- | [gnome-mahjongg]({{< ref "/f35/package/gnome-mahjongg.md" >}}) | 1652 | 1652 | 100.0 | Greek, Modern (1453-) <opensuse-translation-el@opensuse.org> | 
- | [gnome-maps]({{< ref "/f35/package/gnome-maps.md" >}}) | 1481 | 1481 | 100.0 | Greek, Modern (1453-) <gnome-el-list@gnome.org> | 
- | [gnome-menus]({{< ref "/f35/package/gnome-menus.md" >}}) | 80 | 80 | 100.0 | team@lists.gnome.gr | 
- | [gnome-mime-data]({{< ref "/f35/package/gnome-mime-data.md" >}}) | 887 | 887 | 100.0 | Greek <nls@tux.hellug.gr> | 
- | [gnome-mines]({{< ref "/f35/package/gnome-mines.md" >}}) | 1560 | 1560 | 100.0 | team@lists.gnome.gr | 
- | [gnome-multi-writer]({{< ref "/f35/package/gnome-multi-writer.md" >}}) | 387 | 387 | 100.0 | Greek (http://www.transifex.com/projects/p/gnome-multi-writer/language/el/) | 
- | [gnome-music]({{< ref "/f35/package/gnome-music.md" >}}) | 1135 | 1135 | 100.0 | www.gnome.gr | 
- | [gnome-nettool]({{< ref "/f35/package/gnome-nettool.md" >}}) | 1178 | 1178 | 100.0 | Greek <team@gnome.gr> | 
- | [gnome-nibbles]({{< ref "/f35/package/gnome-nibbles.md" >}}) | 2091 | 2091 | 100.0 | team@lists.gnome.gr | 
- | [gnome-online-accounts]({{< ref "/f35/package/gnome-online-accounts.md" >}}) | 669 | 669 | 100.0 | Greek, Modern (1453-) <gnome-el-list@gnome.org> | 
- | [gnome-packagekit]({{< ref "/f35/package/gnome-packagekit.md" >}}) | 3593 | 3593 | 100.0 | Greek, Modern (1453-) <opensuse-translation-el@opensuse.org> | 
- | [gnome-panel]({{< ref "/f35/package/gnome-panel.md" >}}) | 5537 | 5537 | 100.0 | Greek <team@gnome.gr> | 
- | [gnome-photos]({{< ref "/f35/package/gnome-photos.md" >}}) | 1029 | 1029 | 100.0 | www.gnome.gr | 
- | [gnome-pomodoro]({{< ref "/f35/package/gnome-pomodoro.md" >}}) | 258 | 258 | 100.0 | Greek | 
- | [gnome-power-manager]({{< ref "/f35/package/gnome-power-manager.md" >}}) | 483 | 483 | 100.0 | team@gnome.gr | 
- | [gnome-remote-desktop]({{< ref "/f35/package/gnome-remote-desktop.md" >}}) | 164 | 164 | 100.0 | Greek <gnome-el-list@gnome.org> | 
- | [gnome-robots]({{< ref "/f35/package/gnome-robots.md" >}}) | 1688 | 1688 | 100.0 | Greek, Modern (1453-) <opensuse-translation-el@opensuse.org> | 
- | [gnome-screenshot]({{< ref "/f35/package/gnome-screenshot.md" >}}) | 417 | 417 | 100.0 | Greek, Modern (1453-) <gnome-el-list@gnome.org> | 
- | [gnome-search-tool]({{< ref "/f35/package/gnome-search-tool.md" >}}) | 3172 | 3172 | 100.0 | Greek <team@gnome.gr> | 
- | [gnome-session]({{< ref "/f35/package/gnome-session.md" >}}) | 432 | 432 | 100.0 | Greek, Modern (1453-) <gnome-el-list@gnome.org> | 
- | [gnome-shell-extension-bubblemail]({{< ref "/f35/package/gnome-shell-extension-bubblemail.md" >}}) | 98 | 98 | 100.0 | Greek | 
- | [gnome-shell-extension-dash-to-dock]({{< ref "/f35/package/gnome-shell-extension-dash-to-dock.md" >}}) | 424 | 424 | 100.0 |  | 
- | [gnome-shell-extensions]({{< ref "/f35/package/gnome-shell-extensions.md" >}}) | 262 | 262 | 100.0 | Greek, Modern (1453-) <gnome-el-list@gnome.org> | 
- | [gnome-shell-frippery]({{< ref "/f35/package/gnome-shell-frippery.md" >}}) | 22 | 22 | 100.0 | Greek <nls@tux.hellug.gr> | 
- | [gnome-sound-recorder]({{< ref "/f35/package/gnome-sound-recorder.md" >}}) | 242 | 242 | 100.0 | Greek, Modern (1453-) <opensuse-translation-el@opensuse.org> | 
- | [gnome-subtitles]({{< ref "/f35/package/gnome-subtitles.md" >}}) | 2924 | 2924 | 100.0 | Greek <team@gnome.gr> | 
- | [gnome-sudoku]({{< ref "/f35/package/gnome-sudoku.md" >}}) | 2799 | 2799 | 100.0 | www.gnome.gr | 
- | [gnome-system-log]({{< ref "/f35/package/gnome-system-log.md" >}}) | 1219 | 1219 | 100.0 | Ελληνικά, Σύγχρονα <opensuse-translation-el@opensuse.org> | 
- | [gnome-taquin]({{< ref "/f35/package/gnome-taquin.md" >}}) | 1236 | 1236 | 100.0 | Greek <gnome-el-list@gnome.org> | 
- | [gnome-terminal]({{< ref "/f35/package/gnome-terminal.md" >}}) | 7877 | 7877 | 100.0 | team@gnome.gr | 
- | [gnome-themes-extra]({{< ref "/f35/package/gnome-themes-extra.md" >}}) | 15 | 15 | 100.0 | team@gnome.gr | 
- | [gnome-todo]({{< ref "/f35/package/gnome-todo.md" >}}) | 737 | 737 | 100.0 | Greek, Modern (1453-) <gnome-el-list@gnome.org> | 
- | [gnome-tour]({{< ref "/f35/package/gnome-tour.md" >}}) | 114 | 114 | 100.0 | Greek <gnome-el-list@gnome.org> | 
- | [gnome-tweaks]({{< ref "/f35/package/gnome-tweaks.md" >}}) | 657 | 657 | 100.0 | Ελληνικά <> | 
- | [gnome-user-docs]({{< ref "/f35/package/gnome-user-docs.md" >}}) | 56124 | 56124 | 100.0 | www.gnome.gr | 
- | [gnome-user-share]({{< ref "/f35/package/gnome-user-share.md" >}}) | 49 | 49 | 100.0 | Ελληνικά <opensuse-translation-el@opensuse.org> | 
- | [gnome-vfs2]({{< ref "/f35/package/gnome-vfs2.md" >}}) | 1519 | 1519 | 100.0 | Greek <team@gnome.gr> | 
- | [gnome-video-arcade]({{< ref "/f35/package/gnome-video-arcade.md" >}}) | 3682 | 3682 | 100.0 | team@lists.gnome.gr | 
- | [gnome-video-effects]({{< ref "/f35/package/gnome-video-effects.md" >}}) | 256 | 256 | 100.0 | Greek <team@gnome.gr> | 
- | [gnome-weather]({{< ref "/f35/package/gnome-weather.md" >}}) | 247 | 247 | 100.0 | Greek, Modern (1453-) <opensuse-translation-el@opensuse.org> | 
- | [gnote]({{< ref "/f35/package/gnote.md" >}}) | 7299 | 7299 | 100.0 | www.gnome.gr | 
- | [gnumeric]({{< ref "/f35/package/gnumeric.md" >}}) | 37553 | 37553 | 100.0 | team@lists.gnome.gr | 
- | [goffice]({{< ref "/f35/package/goffice.md" >}}) | 6584 | 6584 | 100.0 | team@lists.gnome.gr | 
- | [gpicview]({{< ref "/f35/package/gpicview.md" >}}) | 236 | 236 | 100.0 | Greek <LL@li.org> | 
- | [granatier]({{< ref "/f35/package/granatier.md" >}}) | 244 | 244 | 100.0 | Greek <kde-i18n-el@kde.org> | 
- | [grilo]({{< ref "/f35/package/grilo.md" >}}) | 191 | 191 | 100.0 | Greek, Modern (1453-) <opensuse-translation-el@opensuse.org> | 
- | [grilo-plugins]({{< ref "/f35/package/grilo-plugins.md" >}}) | 537 | 537 | 100.0 | Greek, Modern (1453-) <opensuse-translation-el@opensuse.org> | 
- | [gsettings-desktop-schemas]({{< ref "/f35/package/gsettings-desktop-schemas.md" >}}) | 5863 | 5863 | 100.0 | Greek, Modern (1453-) <opensuse-translation-el@opensuse.org> | 
- | [gspell]({{< ref "/f35/package/gspell.md" >}}) | 76 | 76 | 100.0 | www.gnome.gr | 
- | [gstreamer1-plugins-ugly-free]({{< ref "/f35/package/gstreamer1-plugins-ugly-free.md" >}}) | 80 | 80 | 100.0 | Greek <team@lists.gnome.gr> | 
- | [gtk+]({{< ref "/f35/package/gtk+.md" >}}) | 202 | 202 | 100.0 | Greek <nls@tux.hellug.gr> | 
- | [gtk-doc]({{< ref "/f35/package/gtk-doc.md" >}}) | 11831 | 11831 | 100.0 | team@lists.gnome.gr | 
- | [gtk-murrine-engine]({{< ref "/f35/package/gtk-murrine-engine.md" >}}) | 134 | 134 | 100.0 | Greek <team@gnome.gr> | 
- | [gtk-vnc]({{< ref "/f35/package/gtk-vnc.md" >}}) | 8 | 8 | 100.0 | Greek <team@gnome.gr> | 
- | [gtk2-engines]({{< ref "/f35/package/gtk2-engines.md" >}}) | 119 | 119 | 100.0 | Greek <team@gnome.gr> | 
- | [gtkhtml3]({{< ref "/f35/package/gtkhtml3.md" >}}) | 522 | 522 | 100.0 | Greek <team@gnome.gr> | 
- | [gtksourceview2]({{< ref "/f35/package/gtksourceview2.md" >}}) | 1413 | 1413 | 100.0 | Greek <team@gnome.gr> | 
- | [gtksourceview4]({{< ref "/f35/package/gtksourceview4.md" >}}) | 308 | 308 | 100.0 | team@lists.gnome.gr | 
- | [gtksourceview5]({{< ref "/f35/package/gtksourceview5.md" >}}) | 320 | 320 | 100.0 | team@lists.gnome.gr | 
- | [gtkspell]({{< ref "/f35/package/gtkspell.md" >}}) | 11 | 11 | 100.0 | Greek <nls@tux.hellug.gr> | 
- | [gtkspell3]({{< ref "/f35/package/gtkspell3.md" >}}) | 11 | 11 | 100.0 | Greek <nls@tux.hellug.gr> | 
- | [gtranslator]({{< ref "/f35/package/gtranslator.md" >}}) | 4337 | 4337 | 100.0 | www.gnome.gr | 
- | [guayadeque]({{< ref "/f35/package/guayadeque.md" >}}) | 3326 | 3326 | 100.0 | Greek (Greece) (http://www.transifex.com/projects/p/guayadeque/language/el_GR/) | 
- | [gucharmap]({{< ref "/f35/package/gucharmap.md" >}}) | 2977 | 2977 | 100.0 | Greek <team@gnome.gr> | 
- | [gupnp-tools]({{< ref "/f35/package/gupnp-tools.md" >}}) | 278 | 278 | 100.0 | team@gnome.gr | 
- | [gvfs]({{< ref "/f35/package/gvfs.md" >}}) | 2076 | 2076 | 100.0 | Ελληνικά <> | 
- | [hitori]({{< ref "/f35/package/hitori.md" >}}) | 882 | 882 | 100.0 | team@lists.gnome.gr | 
- | [iagno]({{< ref "/f35/package/iagno.md" >}}) | 1945 | 1945 | 100.0 | team@lists.gnome.gr | 
- | [indent]({{< ref "/f35/package/indent.md" >}}) | 261 | 261 | 100.0 | Greek <https://hosted.weblate.org/projects/indent/translations/el/> | 
- | [inkscape]({{< ref "/f35/package/inkscape.md" >}}) | 43605 | 43605 | 100.0 | team@lists.gnome.gr | 
- | [isomaster]({{< ref "/f35/package/isomaster.md" >}}) | 674 | 674 | 100.0 | Mike Kranidis <mikek@openforall.com> | 
- | [json-glib]({{< ref "/f35/package/json-glib.md" >}}) | 307 | 307 | 100.0 | team@lists.gnome.gr | 
- | [juk]({{< ref "/f35/package/juk.md" >}}) | 1526 | 1526 | 100.0 | Greek <kde-i18n-el@kde.org> | 
- | [k3b]({{< ref "/f35/package/k3b.md" >}}) | 20180 | 20180 | 100.0 | Greek <kde-i18n-el@kde.org> | 
- | [kaccounts-integration]({{< ref "/f35/package/kaccounts-integration.md" >}}) | 174 | 174 | 100.0 | Greek <kde-i18n-el@kde.org> | 
- | [kaccounts-providers]({{< ref "/f35/package/kaccounts-providers.md" >}}) | 101 | 101 | 100.0 | Greek <kde-i18n-el@kde.org> | 
- | [kactivitymanagerd]({{< ref "/f35/package/kactivitymanagerd.md" >}}) | 11 | 11 | 100.0 | Greek <kde-i18n-el@kde.org> | 
- | [kaddressbook]({{< ref "/f35/package/kaddressbook.md" >}}) | 1151 | 1151 | 100.0 | Greek <kde-i18n-el@kde.org> | 
- | [kalarm]({{< ref "/f35/package/kalarm.md" >}}) | 8134 | 8134 | 100.0 | Greek <kde-i18n-el@kde.org> | 
- | [kalgebra]({{< ref "/f35/package/kalgebra.md" >}}) | 256 | 256 | 100.0 | Greek <kde-i18n-el@kde.org> | 
- | [kalzium]({{< ref "/f35/package/kalzium.md" >}}) | 10490 | 10490 | 100.0 | Greek <kde-i18n-el@kde.org> | 
- | [kamera]({{< ref "/f35/package/kamera.md" >}}) | 347 | 347 | 100.0 | Greek <kde-i18n-el@kde.org> | 
- | [kamoso]({{< ref "/f35/package/kamoso.md" >}}) | 142 | 142 | 100.0 | Greek <kde-i18n-el@kde.org> | 
- | [kanagram]({{< ref "/f35/package/kanagram.md" >}}) | 528 | 528 | 100.0 | Greek <kde-i18n-el@kde.org> | 
- | [kapman]({{< ref "/f35/package/kapman.md" >}}) | 114 | 114 | 100.0 | Greek <kde-i18n-el@kde.org> | 
- | [kapptemplate]({{< ref "/f35/package/kapptemplate.md" >}}) | 272 | 272 | 100.0 | Greek <kde-i18n-el@kde.org> | 
- | [katomic]({{< ref "/f35/package/katomic.md" >}}) | 184 | 184 | 100.0 | Greek <kde-i18n-el@kde.org> | 
- | [kaudiocreator]({{< ref "/f35/package/kaudiocreator.md" >}}) | 1136 | 1136 | 100.0 | Greek <kde-i18n-el@kde.org> | 
- | [kbackup]({{< ref "/f35/package/kbackup.md" >}}) | 689 | 689 | 100.0 | English <kde-i18n-el@kde.org> | 
- | [kblackbox]({{< ref "/f35/package/kblackbox.md" >}}) | 1364 | 1364 | 100.0 | Greek <kde-i18n-el@kde.org> | 
- | [kblocks]({{< ref "/f35/package/kblocks.md" >}}) | 147 | 147 | 100.0 | Greek <kde-i18n-el@kde.org> | 
- | [kbounce]({{< ref "/f35/package/kbounce.md" >}}) | 153 | 153 | 100.0 | Greek <kde-i18n-el@kde.org> | 
- | [kbruch]({{< ref "/f35/package/kbruch.md" >}}) | 1347 | 1347 | 100.0 | Greek <kde-i18n-el@kde.org> | 
- | [kcalc]({{< ref "/f35/package/kcalc.md" >}}) | 1066 | 1066 | 100.0 | Greek <kde-i18n-el@kde.org> | 
- | [kcharselect]({{< ref "/f35/package/kcharselect.md" >}}) | 88 | 88 | 100.0 | Greek <kde-i18n-doc@kde.org> | 
- | [kcolorchooser]({{< ref "/f35/package/kcolorchooser.md" >}}) | 29 | 29 | 100.0 | Greek <kde-i18n-el@kde.org> | 
- | [kcron]({{< ref "/f35/package/kcron.md" >}}) | 525 | 525 | 100.0 | Greek <kde-i18n-el@kde.org> | 
- | [kde-connect]({{< ref "/f35/package/kde-connect.md" >}}) | 1311 | 1311 | 100.0 | Greek <kde-i18n-el@kde.org> | 
- | [kde-dev-utils]({{< ref "/f35/package/kde-dev-utils.md" >}}) | 96 | 96 | 100.0 | Greek <kde-i18n-el@kde.org> | 
- | [kde-partitionmanager]({{< ref "/f35/package/kde-partitionmanager.md" >}}) | 2214 | 2214 | 100.0 | Greek <kde-i18n-el@kde.org> | 
- | [kde-print-manager]({{< ref "/f35/package/kde-print-manager.md" >}}) | 971 | 971 | 100.0 | Greek <kde-i18n-el@kde.org> | 
- | [kdebugsettings]({{< ref "/f35/package/kdebugsettings.md" >}}) | 279 | 279 | 100.0 | Greek <kde-i18n-el@kde.org> | 
- | [kdecoration]({{< ref "/f35/package/kdecoration.md" >}}) | 39 | 39 | 100.0 | Greek <kde-i18n-el@kde.org> | 
- | [kdenetwork-filesharing]({{< ref "/f35/package/kdenetwork-filesharing.md" >}}) | 444 | 444 | 100.0 | Greek <kde-i18n-el@kde.org> | 
- | [kdesdk-kioslaves]({{< ref "/f35/package/kdesdk-kioslaves.md" >}}) | 82 | 82 | 100.0 | Greek <kde-i18n-el@kde.org> | 
- | [kdesdk-thumbnailers]({{< ref "/f35/package/kdesdk-thumbnailers.md" >}}) | 4 | 4 | 100.0 | Greek <i18ngr@lists.hellug.gr> | 
- | [kdf]({{< ref "/f35/package/kdf.md" >}}) | 181 | 181 | 100.0 | Greek <kde-i18n-doc@kde.org> | 
- | [kdiagram]({{< ref "/f35/package/kdiagram.md" >}}) | 66 | 66 | 100.0 | Greek <kde-i18n-el@kde.org> | 
- | [kdialog]({{< ref "/f35/package/kdialog.md" >}}) | 382 | 382 | 100.0 | Greek <kde-i18n-el@kde.org> | 
- | [kdiamond]({{< ref "/f35/package/kdiamond.md" >}}) | 122 | 122 | 100.0 | Greek <kde-i18n-el@kde.org> | 
- | [kdiff3]({{< ref "/f35/package/kdiff3.md" >}}) | 3617 | 3617 | 100.0 | Greek <kde-i18n-el@kde.org> | 
- | [kdissert]({{< ref "/f35/package/kdissert.md" >}}) | 2027 | 2027 | 100.0 | Greek <i18ngr@lists.hellug.gr> | 
- | [kdnssd]({{< ref "/f35/package/kdnssd.md" >}}) | 30 | 30 | 100.0 | Greek <kde-i18n-el@kde.org> | 
- | [keditbookmarks]({{< ref "/f35/package/keditbookmarks.md" >}}) | 466 | 466 | 100.0 | Greek <kde-i18n-el@kde.org> | 
- | [kf5-akonadi-calendar]({{< ref "/f35/package/kf5-akonadi-calendar.md" >}}) | 1867 | 1867 | 100.0 | American English <kde-i18n-el@kde.org> | 
- | [kf5-akonadi-contacts]({{< ref "/f35/package/kf5-akonadi-contacts.md" >}}) | 1610 | 1610 | 100.0 | American English <kde-i18n-el@kde.org> | 
- | [kf5-akonadi-notes]({{< ref "/f35/package/kf5-akonadi-notes.md" >}}) | 2 | 2 | 100.0 | Greek <kde-i18n-el@kde.org> | 
- | [kf5-akonadi-search]({{< ref "/f35/package/kf5-akonadi-search.md" >}}) | 48 | 48 | 100.0 | Greek <kde-i18n-el@kde.org> | 
- | [kf5-akonadi-server]({{< ref "/f35/package/kf5-akonadi-server.md" >}}) | 2548 | 2548 | 100.0 | Greek <kde-i18n-el@kde.org> | 
- | [kf5-audiocd-kio]({{< ref "/f35/package/kf5-audiocd-kio.md" >}}) | 1000 | 1000 | 100.0 | Greek <kde-i18n-el@kde.org> | 
- | [kf5-baloo]({{< ref "/f35/package/kf5-baloo.md" >}}) | 836 | 836 | 100.0 | Greek <kde-i18n-el@kde.org> | 
- | [kf5-calendarsupport]({{< ref "/f35/package/kf5-calendarsupport.md" >}}) | 2843 | 2843 | 100.0 | Greek <kde-i18n-el@kde.org> | 
- | [kf5-eventviews]({{< ref "/f35/package/kf5-eventviews.md" >}}) | 2959 | 2959 | 100.0 | Greek <kde-i18n-el@kde.org> | 
- | [kf5-grantleetheme]({{< ref "/f35/package/kf5-grantleetheme.md" >}}) | 14 | 14 | 100.0 | Greek <kde-i18n-el@kde.org> | 
- | [kf5-kalarmcal]({{< ref "/f35/package/kf5-kalarmcal.md" >}}) | 204 | 204 | 100.0 | Greek <kde-i18n-el@kde.org> | 
- | [kf5-kauth]({{< ref "/f35/package/kf5-kauth.md" >}}) | 73 | 73 | 100.0 | Greek <kde-i18n-el@kde.org> | 
- | [kf5-kblog]({{< ref "/f35/package/kf5-kblog.md" >}}) | 243 | 243 | 100.0 | Greek <kde-i18n-el@kde.org> | 
- | [kf5-kbookmarks]({{< ref "/f35/package/kf5-kbookmarks.md" >}}) | 230 | 230 | 100.0 | Greek <kde-i18n-el@kde.org> | 
- | [kf5-kcodecs]({{< ref "/f35/package/kf5-kcodecs.md" >}}) | 372 | 372 | 100.0 | Greek <kde-i18n-el@kde.org> | 
- | [kf5-kcompletion]({{< ref "/f35/package/kf5-kcompletion.md" >}}) | 18 | 18 | 100.0 | Greek <kde-i18n-el@kde.org> | 
- | [kf5-kcontacts]({{< ref "/f35/package/kf5-kcontacts.md" >}}) | 177 | 177 | 100.0 | Greek <kde-i18n-el@kde.org> | 
- | [kf5-kdav]({{< ref "/f35/package/kf5-kdav.md" >}}) | 185 | 185 | 100.0 | Greek <kde-i18n-el@kde.org> | 
- | [kf5-kdbusaddons]({{< ref "/f35/package/kf5-kdbusaddons.md" >}}) | 48 | 48 | 100.0 | Greek <kde-i18n-el@kde.org> | 
- | [kf5-kdesignerplugin]({{< ref "/f35/package/kf5-kdesignerplugin.md" >}}) | 54 | 54 | 100.0 | Greek <kde-i18n-el@kde.org> | 
- | [kf5-kdesu]({{< ref "/f35/package/kf5-kdesu.md" >}}) | 19 | 19 | 100.0 | Greek <kde-i18n-el@kde.org> | 
- | [kf5-kdnssd]({{< ref "/f35/package/kf5-kdnssd.md" >}}) | 3 | 3 | 100.0 | Greek <kde-i18n-el@kde.org> | 
- | [kf5-kdoctools]({{< ref "/f35/package/kf5-kdoctools.md" >}}) | 8 | 8 | 100.0 | Greek <kde-i18n-el@kde.org> | 
- | [kf5-kfilemetadata]({{< ref "/f35/package/kf5-kfilemetadata.md" >}}) | 302 | 302 | 100.0 | Greek <kde-i18n-el@kde.org> | 
- | [kf5-kglobalaccel]({{< ref "/f35/package/kf5-kglobalaccel.md" >}}) | 71 | 71 | 100.0 | Greek <kde-i18n-el@kde.org> | 
- | [kf5-khtml]({{< ref "/f35/package/kf5-khtml.md" >}}) | 1668 | 1668 | 100.0 | Greek <kde-i18n-el@kde.org> | 
- | [kf5-ki18n]({{< ref "/f35/package/kf5-ki18n.md" >}}) | 124 | 124 | 100.0 | Greek <kde-i18n-el@kde.org> | 
- | [kf5-kiconthemes]({{< ref "/f35/package/kf5-kiconthemes.md" >}}) | 39 | 39 | 100.0 | Greek <kde-i18n-el@kde.org> | 
- | [kf5-kidentitymanagement]({{< ref "/f35/package/kf5-kidentitymanagement.md" >}}) | 182 | 182 | 100.0 | Greek <kde-i18n-el@kde.org> | 
- | [kf5-kinit]({{< ref "/f35/package/kf5-kinit.md" >}}) | 116 | 116 | 100.0 | Greek <kde-i18n-el@kde.org> | 
- | [kf5-kipi-plugins]({{< ref "/f35/package/kf5-kipi-plugins.md" >}}) | 4918 | 4918 | 100.0 | Greek <kde-i18n-el@kde.org> | 
- | [kf5-kitemviews]({{< ref "/f35/package/kf5-kitemviews.md" >}}) | 7 | 7 | 100.0 | Greek <kde-i18n-el@kde.org> | 
- | [kf5-kjobwidgets]({{< ref "/f35/package/kf5-kjobwidgets.md" >}}) | 133 | 133 | 100.0 | Greek <kde-i18n-el@kde.org> | 
- | [kf5-kjsembed]({{< ref "/f35/package/kf5-kjsembed.md" >}}) | 248 | 248 | 100.0 | Greek <kde-i18n-el@kde.org> | 
- | [kf5-kldap]({{< ref "/f35/package/kf5-kldap.md" >}}) | 227 | 227 | 100.0 | Greek <kde-i18n-el@kde.org> | 
- | [kf5-kmailtransport]({{< ref "/f35/package/kf5-kmailtransport.md" >}}) | 654 | 654 | 100.0 | Greek <kde-i18n-el@kde.org> | 
- | [kf5-kmime]({{< ref "/f35/package/kf5-kmime.md" >}}) | 159 | 159 | 100.0 | Greek <i18ngr@lists.hellug.gr> | 
- | [kf5-knotifyconfig]({{< ref "/f35/package/kf5-knotifyconfig.md" >}}) | 129 | 129 | 100.0 | Greek <kde-i18n-el@kde.org> | 
- | [kf5-kontactinterface]({{< ref "/f35/package/kf5-kontactinterface.md" >}}) | 4 | 4 | 100.0 | Greek <i18ngr@lists.hellug.gr> | 
- | [kf5-kpackage]({{< ref "/f35/package/kf5-kpackage.md" >}}) | 486 | 486 | 100.0 | Greek <kde-i18n-el@kde.org> | 
- | [kf5-kparts]({{< ref "/f35/package/kf5-kparts.md" >}}) | 132 | 132 | 100.0 | Greek <kde-i18n-el@kde.org> | 
- | [kf5-kpeople]({{< ref "/f35/package/kf5-kpeople.md" >}}) | 13 | 13 | 100.0 | Greek <kde-i18n-el@kde.org> | 
- | [kf5-kpty]({{< ref "/f35/package/kf5-kpty.md" >}}) | 15 | 15 | 100.0 | Greek <kde-i18n-el@kde.org> | 
- | [kf5-kross]({{< ref "/f35/package/kf5-kross.md" >}}) | 100 | 100 | 100.0 | Greek <kde-i18n-el@kde.org> | 
- | [kf5-kservice]({{< ref "/f35/package/kf5-kservice.md" >}}) | 173 | 173 | 100.0 | Greek <kde-i18n-el@kde.org> | 
- | [kf5-ktextwidgets]({{< ref "/f35/package/kf5-ktextwidgets.md" >}}) | 473 | 473 | 100.0 | Greek <kde-i18n-el@kde.org> | 
- | [kf5-ktnef]({{< ref "/f35/package/kf5-ktnef.md" >}}) | 355 | 355 | 100.0 | Greek <kde-i18n-el@kde.org> | 
- | [kf5-kwallet]({{< ref "/f35/package/kf5-kwallet.md" >}}) | 1460 | 1460 | 100.0 | Greek <kde-i18n-el@kde.org> | 
- | [kf5-kwindowsystem]({{< ref "/f35/package/kf5-kwindowsystem.md" >}}) | 2 | 2 | 100.0 | Greek <kde-i18n-el@kde.org> | 
- | [kf5-kxmlrpcclient]({{< ref "/f35/package/kf5-kxmlrpcclient.md" >}}) | 13 | 13 | 100.0 | Greek <i18ngr@lists.hellug.gr> | 
- | [kf5-libgravatar]({{< ref "/f35/package/kf5-libgravatar.md" >}}) | 27 | 27 | 100.0 | Greek <kde-i18n-el@kde.org> | 
- | [kf5-libkcddb]({{< ref "/f35/package/kf5-libkcddb.md" >}}) | 476 | 476 | 100.0 | Greek <kde-i18n-el@kde.org> | 
- | [kf5-libkcompactdisc]({{< ref "/f35/package/kf5-libkcompactdisc.md" >}}) | 15 | 15 | 100.0 | Greek <i18ngr@lists.hellug.gr> | 
- | [kf5-libkdepim]({{< ref "/f35/package/kf5-libkdepim.md" >}}) | 35 | 35 | 100.0 | Greek <kde-i18n-el@kde.org> | 
- | [kf5-libkgeomap]({{< ref "/f35/package/kf5-libkgeomap.md" >}}) | 139 | 139 | 100.0 | Greek <kde-i18n-el@kde.org> | 
- | [kf5-libksane]({{< ref "/f35/package/kf5-libksane.md" >}}) | 363 | 363 | 100.0 | Greek <kde-i18n-el@kde.org> | 
- | [kf5-libktorrent]({{< ref "/f35/package/kf5-libktorrent.md" >}}) | 465 | 465 | 100.0 | Greek <kde-i18n-el@kde.org> | 
- | [kf5-mailimporter]({{< ref "/f35/package/kf5-mailimporter.md" >}}) | 1408 | 1408 | 100.0 | Greek <kde-i18n-el@kde.org> | 
- | [kf5-sonnet]({{< ref "/f35/package/kf5-sonnet.md" >}}) | 683 | 683 | 100.0 | Greek <kde-i18n-el@kde.org> | 
- | [kfind]({{< ref "/f35/package/kfind.md" >}}) | 502 | 502 | 100.0 | Greek <kde-i18n-el@kde.org> | 
- | [kfloppy]({{< ref "/f35/package/kfloppy.md" >}}) | 641 | 641 | 100.0 | Greek <kde-i18n-doc@kde.org> | 
- | [kfourinline]({{< ref "/f35/package/kfourinline.md" >}}) | 392 | 392 | 100.0 | Greek <kde-i18n-el@kde.org> | 
- | [kgamma]({{< ref "/f35/package/kgamma.md" >}}) | 130 | 130 | 100.0 | Greek <i18ngr@lists.hellug.gr> | 
- | [kgeography]({{< ref "/f35/package/kgeography.md" >}}) | 10002 | 10002 | 100.0 | Greek <kde-i18n-el@kde.org> | 
- | [kget]({{< ref "/f35/package/kget.md" >}}) | 2940 | 2940 | 100.0 | Greek <kde-i18n-el@kde.org> | 
- | [kgpg]({{< ref "/f35/package/kgpg.md" >}}) | 5272 | 5272 | 100.0 | Greek <kde-i18n-el@kde.org> | 
- | [kgrab]({{< ref "/f35/package/kgrab.md" >}}) | 370 | 370 | 100.0 | Greek <kde-i18n-el@kde.org> | 
- | [khangman]({{< ref "/f35/package/khangman.md" >}}) | 476 | 476 | 100.0 | Greek <kde-i18n-el@kde.org> | 
- | [khelpcenter]({{< ref "/f35/package/khelpcenter.md" >}}) | 265 | 265 | 100.0 | Greek <kde-i18n-el@kde.org> | 
- | [kiconedit]({{< ref "/f35/package/kiconedit.md" >}}) | 726 | 726 | 100.0 | Greek <kde-i18n-el@kde.org> | 
- | [kig]({{< ref "/f35/package/kig.md" >}}) | 7854 | 7854 | 100.0 | Greek <kde-i18n-el@kde.org> | 
- | [kigo]({{< ref "/f35/package/kigo.md" >}}) | 504 | 504 | 100.0 | Greek <kde-i18n-el@kde.org> | 
- | [killbots]({{< ref "/f35/package/killbots.md" >}}) | 637 | 637 | 100.0 | Greek <kde-i18n-el@kde.org> | 
- | [kio-extras]({{< ref "/f35/package/kio-extras.md" >}}) | 1042 | 1042 | 100.0 | Greek <kde-i18n-el@kde.org> | 
- | [kio_gopher]({{< ref "/f35/package/kio_gopher.md" >}}) | 17 | 17 | 100.0 | greek <kde-i18n-el@kde.org> | 
- | [kiriki]({{< ref "/f35/package/kiriki.md" >}}) | 144 | 144 | 100.0 | Greek <kde-i18n-el@kde.org> | 
- | [kiten]({{< ref "/f35/package/kiten.md" >}}) | 696 | 696 | 100.0 | Greek <kde-i18n-el@kde.org> | 
- | [kjumpingcube]({{< ref "/f35/package/kjumpingcube.md" >}}) | 413 | 413 | 100.0 | Greek <kde-i18n-el@kde.org> | 
- | [klettres]({{< ref "/f35/package/klettres.md" >}}) | 440 | 440 | 100.0 | Greek <kde-i18n-el@kde.org> | 
- | [klickety]({{< ref "/f35/package/klickety.md" >}}) | 178 | 178 | 100.0 | Greek <kde-i18n-el@kde.org> | 
- | [klines]({{< ref "/f35/package/klines.md" >}}) | 99 | 99 | 100.0 | Greek <kde-i18n-el@kde.org> | 
- | [kmag]({{< ref "/f35/package/kmag.md" >}}) | 432 | 432 | 100.0 | Greek <kde-i18n-el@kde.org> | 
- | [kmahjongg]({{< ref "/f35/package/kmahjongg.md" >}}) | 357 | 357 | 100.0 | Greek <kde-i18n-el@kde.org> | 
- | [kmail-account-wizard]({{< ref "/f35/package/kmail-account-wizard.md" >}}) | 815 | 815 | 100.0 | Greek <kde-i18n-el@kde.org> | 
- | [kmenuedit]({{< ref "/f35/package/kmenuedit.md" >}}) | 277 | 277 | 100.0 | Greek <kde-i18n-el@kde.org> | 
- | [kmines]({{< ref "/f35/package/kmines.md" >}}) | 156 | 156 | 100.0 | Greek <kde-i18n-el@kde.org> | 
- | [kmix]({{< ref "/f35/package/kmix.md" >}}) | 1092 | 1092 | 100.0 | Greek <kde-i18n-el@kde.org> | 
- | [kmousetool]({{< ref "/f35/package/kmousetool.md" >}}) | 147 | 147 | 100.0 | Greek <kde-i18n-el@kde.org> | 
- | [kmouth]({{< ref "/f35/package/kmouth.md" >}}) | 1515 | 1515 | 100.0 | Greek <kde-i18n-el@kde.org> | 
- | [kmplot]({{< ref "/f35/package/kmplot.md" >}}) | 2500 | 2500 | 100.0 | Greek <kde-i18n-el@kde.org> | 
- | [knavalbattle]({{< ref "/f35/package/knavalbattle.md" >}}) | 399 | 399 | 100.0 | Greek <kde-i18n-el@kde.org> | 
- | [knetwalk]({{< ref "/f35/package/knetwalk.md" >}}) | 243 | 243 | 100.0 | Greek <kde-i18n-el@kde.org> | 
- | [koffice-kivio]({{< ref "/f35/package/koffice-kivio.md" >}}) | 8417 | 8417 | 100.0 | Greek <i18ngr@lists.hellug.gr> | 
- | [koko]({{< ref "/f35/package/koko.md" >}}) | 300 | 300 | 100.0 | Greek <kde-i18n-el@kde.org> | 
- | [kolf]({{< ref "/f35/package/kolf.md" >}}) | 401 | 401 | 100.0 | Greek <kde-i18n-el@kde.org> | 
- | [kollision]({{< ref "/f35/package/kollision.md" >}}) | 109 | 109 | 100.0 | Greek <kde-i18n-el@kde.org> | 
- | [kolourpaint]({{< ref "/f35/package/kolourpaint.md" >}}) | 2570 | 2570 | 100.0 | Greek <kde-i18n-el@kde.org> | 
- | [kompare]({{< ref "/f35/package/kompare.md" >}}) | 1428 | 1428 | 100.0 | Greek <kde-i18n-el@kde.org> | 
- | [kongress]({{< ref "/f35/package/kongress.md" >}}) | 155 | 155 | 100.0 | Greek <kde-i18n-el@kde.org> | 
- | [konqueror]({{< ref "/f35/package/konqueror.md" >}}) | 8838 | 8838 | 100.0 | Greek <kde-i18n-el@kde.org> | 
- | [konquest]({{< ref "/f35/package/konquest.md" >}}) | 246 | 246 | 100.0 | Greek <kde-i18n-el@kde.org> | 
- | [kontact]({{< ref "/f35/package/kontact.md" >}}) | 600 | 600 | 100.0 | Greek <kde-i18n-el@kde.org> | 
- | [konversation]({{< ref "/f35/package/konversation.md" >}}) | 10345 | 10345 | 100.0 | Greek <kde-i18n-el@kde.org> | 
- | [kopete]({{< ref "/f35/package/kopete.md" >}}) | 18427 | 18427 | 100.0 | Greek <i18ngr@lists.hellug.gr> | 
- | [kpat]({{< ref "/f35/package/kpat.md" >}}) | 576 | 576 | 100.0 | Greek <kde-i18n-el@kde.org> | 
- | [kpmcore]({{< ref "/f35/package/kpmcore.md" >}}) | 3237 | 3237 | 100.0 | Greek <kde-i18n-el@kde.org> | 
- | [krb5-auth-dialog]({{< ref "/f35/package/krb5-auth-dialog.md" >}}) | 2946 | 2946 | 100.0 | Greek <team@gnome.gr> | 
- | [krdc]({{< ref "/f35/package/krdc.md" >}}) | 1178 | 1178 | 100.0 | Greek <kde-i18n-el@kde.org> | 
- | [krename]({{< ref "/f35/package/krename.md" >}}) | 2142 | 2142 | 100.0 | Greek <kde-i18n-el@kde.org> | 
- | [kreversi]({{< ref "/f35/package/kreversi.md" >}}) | 429 | 429 | 100.0 | Greek <kde-i18n-el@kde.org> | 
- | [krfb]({{< ref "/f35/package/krfb.md" >}}) | 735 | 735 | 100.0 | Greek <kde-i18n-el@kde.org> | 
- | [kruler]({{< ref "/f35/package/kruler.md" >}}) | 184 | 184 | 100.0 | Greek <kde-i18n-el@kde.org> | 
- | [kshisen]({{< ref "/f35/package/kshisen.md" >}}) | 608 | 608 | 100.0 | Greek <kde-i18n-el@kde.org> | 
- | [ksig]({{< ref "/f35/package/ksig.md" >}}) | 85 | 85 | 100.0 | Greek <i18ngr@lists.hellug.gr> | 
- | [ksnakeduel]({{< ref "/f35/package/ksnakeduel.md" >}}) | 241 | 241 | 100.0 | Greek <kde-i18n-el@kde.org> | 
- | [kspaceduel]({{< ref "/f35/package/kspaceduel.md" >}}) | 165 | 165 | 100.0 | Greek <kde-i18n-el@kde.org> | 
- | [ksquares]({{< ref "/f35/package/ksquares.md" >}}) | 260 | 260 | 100.0 | Greek <kde-i18n-el@kde.org> | 
- | [ksshaskpass]({{< ref "/f35/package/ksshaskpass.md" >}}) | 50 | 50 | 100.0 | Greek <kde-i18n-el@kde.org> | 
- | [ksystemlog]({{< ref "/f35/package/ksystemlog.md" >}}) | 3034 | 3034 | 100.0 | Greek <kde-i18n-el@kde.org> | 
- | [kteatime]({{< ref "/f35/package/kteatime.md" >}}) | 203 | 203 | 100.0 | Greek <kde-i18n-el@kde.org> | 
- | [ktimer]({{< ref "/f35/package/ktimer.md" >}}) | 258 | 258 | 100.0 | Greek <kde-i18n-doc@kde.org> | 
- | [ktorrent]({{< ref "/f35/package/ktorrent.md" >}}) | 7455 | 7455 | 100.0 | Greek <kde-i18n-el@kde.org> | 
- | [ktouch]({{< ref "/f35/package/ktouch.md" >}}) | 960 | 960 | 100.0 | Greek <kde-i18n-el@kde.org> | 
- | [ktp-accounts-kcm]({{< ref "/f35/package/ktp-accounts-kcm.md" >}}) | 1100 | 1100 | 100.0 | Greek <kde-i18n-el@kde.org> | 
- | [ktp-approver]({{< ref "/f35/package/ktp-approver.md" >}}) | 71 | 71 | 100.0 | Greek <kde-i18n-el@kde.org> | 
- | [ktp-auth-handler]({{< ref "/f35/package/ktp-auth-handler.md" >}}) | 83 | 83 | 100.0 | Greek <kde-i18n-el@kde.org> | 
- | [ktp-common-internals]({{< ref "/f35/package/ktp-common-internals.md" >}}) | 989 | 989 | 100.0 | Greek <kde-i18n-el@kde.org> | 
- | [ktp-contact-list]({{< ref "/f35/package/ktp-contact-list.md" >}}) | 680 | 680 | 100.0 | Greek <kde-i18n-el@kde.org> | 
- | [ktp-contact-runner]({{< ref "/f35/package/ktp-contact-runner.md" >}}) | 208 | 208 | 100.0 | Greek <kde-i18n-el@kde.org> | 
- | [ktp-desktop-applets]({{< ref "/f35/package/ktp-desktop-applets.md" >}}) | 75 | 75 | 100.0 | Greek <kde-i18n-el@kde.org> | 
- | [ktp-filetransfer-handler]({{< ref "/f35/package/ktp-filetransfer-handler.md" >}}) | 141 | 141 | 100.0 | Greek <kde-i18n-el@kde.org> | 
- | [ktp-kded-integration-module]({{< ref "/f35/package/ktp-kded-integration-module.md" >}}) | 490 | 490 | 100.0 | Greek <kde-i18n-el@kde.org> | 
- | [ktp-send-file]({{< ref "/f35/package/ktp-send-file.md" >}}) | 60 | 60 | 100.0 | Greek <kde-i18n-el@kde.org> | 
- | [ktp-text-ui]({{< ref "/f35/package/ktp-text-ui.md" >}}) | 1439 | 1439 | 100.0 | Greek <kde-i18n-el@kde.org> | 
- | [ktuberling]({{< ref "/f35/package/ktuberling.md" >}}) | 158 | 158 | 100.0 | Greek <kde-i18n-el@kde.org> | 
- | [kturtle]({{< ref "/f35/package/kturtle.md" >}}) | 1531 | 1531 | 100.0 | Greek <kde-i18n-el@kde.org> | 
- | [kubrick]({{< ref "/f35/package/kubrick.md" >}}) | 1205 | 1205 | 100.0 | Greek <kde-i18n-el@kde.org> | 
- | [kwalletmanager5]({{< ref "/f35/package/kwalletmanager5.md" >}}) | 800 | 800 | 100.0 | Greek <kde-i18n-el@kde.org> | 
- | [kwave]({{< ref "/f35/package/kwave.md" >}}) | 5798 | 5798 | 100.0 | Greek <kde-i18n-el@kde.org> | 
- | [kwebkitpart]({{< ref "/f35/package/kwebkitpart.md" >}}) | 669 | 669 | 100.0 | Greek <kde-i18n-el@kde.org> | 
- | [kwordquiz]({{< ref "/f35/package/kwordquiz.md" >}}) | 2026 | 2026 | 100.0 | Greek <kde-i18n-el@kde.org> | 
- | [lasem]({{< ref "/f35/package/lasem.md" >}}) | 29 | 29 | 100.0 | team@gnome.gr | 
- | [libbonobo]({{< ref "/f35/package/libbonobo.md" >}}) | 543 | 543 | 100.0 | Greek <team@gnome.gr> | 
- | [libbonoboui]({{< ref "/f35/package/libbonoboui.md" >}}) | 368 | 368 | 100.0 | Greek <team@gnome.gr> | 
- | [libcryptui]({{< ref "/f35/package/libcryptui.md" >}}) | 3011 | 3011 | 100.0 | Greek <team@gnome.gr> | 
- | [libepc]({{< ref "/f35/package/libepc.md" >}}) | 141 | 141 | 100.0 | Greek <team@gnome.gr> | 
- | [libfilezilla]({{< ref "/f35/package/libfilezilla.md" >}}) | 402 | 402 | 100.0 | Stamatis I. Stamatellos <ydatografida@gmail.com> | 
- | [libgda]({{< ref "/f35/package/libgda.md" >}}) | 17316 | 17316 | 100.0 | www.gnome.gr | 
- | [libgdata]({{< ref "/f35/package/libgdata.md" >}}) | 694 | 694 | 100.0 | team@gnome.gr | 
- | [libgdl]({{< ref "/f35/package/libgdl.md" >}}) | 659 | 659 | 100.0 | team@gnome.gr | 
- | [libgnome]({{< ref "/f35/package/libgnome.md" >}}) | 1773 | 1773 | 100.0 | Greek <team@gnome.gr> | 
- | [libgnome-games-support]({{< ref "/f35/package/libgnome-games-support.md" >}}) | 43 | 43 | 100.0 | Greek <team@lists.gnome.gr> | 
- | [libgnome-keyring]({{< ref "/f35/package/libgnome-keyring.md" >}}) | 44 | 44 | 100.0 | Greek <team@lists.gnome.gr> | 
- | [libgnomecanvas]({{< ref "/f35/package/libgnomecanvas.md" >}}) | 378 | 378 | 100.0 | Greek <team@gnome.gr> | 
- | [libgnomekbd]({{< ref "/f35/package/libgnomekbd.md" >}}) | 187 | 187 | 100.0 | Greek <team@gnome.gr> | 
- | [libgnomeui]({{< ref "/f35/package/libgnomeui.md" >}}) | 1309 | 1309 | 100.0 | Greek <team@gnome.gr> | 
- | [libgovirt]({{< ref "/f35/package/libgovirt.md" >}}) | 102 | 102 | 100.0 | team@lists.gnome.gr | 
- | [libgsf]({{< ref "/f35/package/libgsf.md" >}}) | 720 | 720 | 100.0 | team@gnome.gr | 
- | [libgtop2]({{< ref "/f35/package/libgtop2.md" >}}) | 126 | 126 | 100.0 | Greek <nls@tux.hellug.gr> | 
- | [libkdegames]({{< ref "/f35/package/libkdegames.md" >}}) | 370 | 370 | 100.0 | Greek <kde-i18n-doc@kde.org> | 
- | [libkeduvocdocument]({{< ref "/f35/package/libkeduvocdocument.md" >}}) | 171 | 171 | 100.0 | Greek <kde-i18n-el@kde.org> | 
- | [libkgapi]({{< ref "/f35/package/libkgapi.md" >}}) | 374 | 374 | 100.0 | Greek <kde-i18n-el@kde.org> | 
- | [libkmahjongg]({{< ref "/f35/package/libkmahjongg.md" >}}) | 7 | 7 | 100.0 | Greek <i18ngr@lists.hellug.gr> | 
- | [libkomparediff2]({{< ref "/f35/package/libkomparediff2.md" >}}) | 143 | 143 | 100.0 | Greek <kde-i18n-el@kde.org> | 
- | [libmatemixer]({{< ref "/f35/package/libmatemixer.md" >}}) | 242 | 242 | 100.0 | Greek (https://www.transifex.com/mate/teams/13566/el/) | 
- | [libpeas]({{< ref "/f35/package/libpeas.md" >}}) | 103 | 103 | 100.0 | team@gnome.gr | 
- | [libsecret]({{< ref "/f35/package/libsecret.md" >}}) | 59 | 59 | 100.0 | team@lists.gnome.gr | 
- | [libsoup]({{< ref "/f35/package/libsoup.md" >}}) | 183 | 183 | 100.0 | Ελληνικά <> | 
- | [libwnck]({{< ref "/f35/package/libwnck.md" >}}) | 1124 | 1124 | 100.0 | Greek <team@gnome.gr> | 
- | [libwnck3]({{< ref "/f35/package/libwnck3.md" >}}) | 1086 | 1086 | 100.0 | Greek <team@gnome.gr> | 
- | [libxfce4util]({{< ref "/f35/package/libxfce4util.md" >}}) | 424 | 424 | 100.0 | Greek (http://www.transifex.com/xfce/libxfce4util/language/el/) | 
- | [lightdm-settings]({{< ref "/f35/package/lightdm-settings.md" >}}) | 321 | 321 | 100.0 | Greek <el@li.org> | 
- | [lightsoff]({{< ref "/f35/package/lightsoff.md" >}}) | 1137 | 1137 | 100.0 | www.gnome.gr | 
- | [lilypond]({{< ref "/f35/package/lilypond.md" >}}) | 4081 | 4081 | 100.0 | Greek <team@lists.gnome.gr> | 
- | [lincity-ng]({{< ref "/f35/package/lincity-ng.md" >}}) | 1898 | 1898 | 100.0 | <ttnfy17@yahoo.gr> | 
- | [lskat]({{< ref "/f35/package/lskat.md" >}}) | 254 | 254 | 100.0 | Greek <kde-i18n-el@kde.org> | 
- | [lxappearance-obconf]({{< ref "/f35/package/lxappearance-obconf.md" >}}) | 196 | 196 | 100.0 | Greek | 
- | [lxdm]({{< ref "/f35/package/lxdm.md" >}}) | 47 | 47 | 100.0 | LANGUAGE <LL@li.org> | 
- | [lxmenu-data]({{< ref "/f35/package/lxmenu-data.md" >}}) | 97 | 97 | 100.0 | Greek <team@gnome.gr> | 
- | [lxmusic]({{< ref "/f35/package/lxmusic.md" >}}) | 203 | 203 | 100.0 | Greek | 
- | [lxshortcut]({{< ref "/f35/package/lxshortcut.md" >}}) | 43 | 43 | 100.0 | Greek | 
- | [mame]({{< ref "/f35/package/mame.md" >}}) | 3650 | 3650 | 100.0 | MAME Language Team | 
- | [massif-visualizer]({{< ref "/f35/package/massif-visualizer.md" >}}) | 357 | 357 | 100.0 | Greek <kde-i18n-el@kde.org> | 
- | [mate-icon-theme]({{< ref "/f35/package/mate-icon-theme.md" >}}) | 4 | 4 | 100.0 | Greek (https://www.transifex.com/mate/teams/13566/el/) | 
- | [mate-polkit]({{< ref "/f35/package/mate-polkit.md" >}}) | 123 | 123 | 100.0 | Greek (https://www.transifex.com/mate/teams/13566/el/) | 
- | [mbox-importer]({{< ref "/f35/package/mbox-importer.md" >}}) | 40 | 40 | 100.0 | Greek <kde-i18n-el@kde.org> | 
- | [meld]({{< ref "/f35/package/meld.md" >}}) | 5524 | 5524 | 100.0 | www.gnome.gr | 
- | [mingw-GConf2]({{< ref "/f35/package/mingw-GConf2.md" >}}) | 4074 | 4074 | 100.0 | team@gnome.gr | 
- | [mingw-atk]({{< ref "/f35/package/mingw-atk.md" >}}) | 440 | 440 | 100.0 | team@lists.gnome.gr | 
- | [mingw-gdk-pixbuf]({{< ref "/f35/package/mingw-gdk-pixbuf.md" >}}) | 1415 | 1415 | 100.0 | Ελληνικά <> | 
- | [mingw-glib-networking]({{< ref "/f35/package/mingw-glib-networking.md" >}}) | 163 | 163 | 100.0 | team@gnome.gr | 
- | [mingw-gtk-vnc]({{< ref "/f35/package/mingw-gtk-vnc.md" >}}) | 8 | 8 | 100.0 | Greek <team@gnome.gr> | 
- | [mingw-gtkspell3]({{< ref "/f35/package/mingw-gtkspell3.md" >}}) | 11 | 11 | 100.0 | Greek <nls@tux.hellug.gr> | 
- | [mingw-json-glib]({{< ref "/f35/package/mingw-json-glib.md" >}}) | 307 | 307 | 100.0 | team@lists.gnome.gr | 
- | [mingw-libgovirt]({{< ref "/f35/package/mingw-libgovirt.md" >}}) | 102 | 102 | 100.0 | team@lists.gnome.gr | 
- | [mingw-libgsf]({{< ref "/f35/package/mingw-libgsf.md" >}}) | 720 | 720 | 100.0 | team@gnome.gr | 
- | [mingw-libsoup]({{< ref "/f35/package/mingw-libsoup.md" >}}) | 162 | 162 | 100.0 | Ελληνικά <> | 
- | [mingw-p11-kit]({{< ref "/f35/package/mingw-p11-kit.md" >}}) | 476 | 476 | 100.0 | Greek (http://www.transifex.com/freedesktop/p11-kit/language/el/) | 
- | [minigalaxy]({{< ref "/f35/package/minigalaxy.md" >}}) | 407 | 407 | 100.0 |  | 
- | [moserial]({{< ref "/f35/package/moserial.md" >}}) | 2338 | 2338 | 100.0 | Greek <team@gnome.gr> | 
- | [mousetweaks]({{< ref "/f35/package/mousetweaks.md" >}}) | 114 | 114 | 100.0 | team@gnome.gr | 
- | [msitools]({{< ref "/f35/package/msitools.md" >}}) | 71 | 71 | 100.0 | team@gnome.gr | 
- | [muffin]({{< ref "/f35/package/muffin.md" >}}) | 2446 | 2446 | 100.0 | Greek <team@gnome.gr> | 
- | [multimedia-menus]({{< ref "/f35/package/multimedia-menus.md" >}}) | 56 | 56 | 100.0 | Greek Fedora team <fedora-trans-el@redhat.com> | 
- | [mutter]({{< ref "/f35/package/mutter.md" >}}) | 826 | 826 | 100.0 | Greek, Modern (1453-) <opensuse-translation-el@opensuse.org> | 
- | [mutter3.38]({{< ref "/f35/package/mutter3.38.md" >}}) | 826 | 826 | 100.0 | Greek, Modern (1453-) <opensuse-translation-el@opensuse.org> | 
- | [nautilus]({{< ref "/f35/package/nautilus.md" >}}) | 5556 | 5556 | 100.0 | Ελληνικά <> | 
- | [nemiver]({{< ref "/f35/package/nemiver.md" >}}) | 4205 | 4205 | 100.0 | team@gnome.gr | 
- | [nemo-extensions]({{< ref "/f35/package/nemo-extensions.md" >}}) | 258 | 258 | 100.0 | Greek <el@li.org> | 
- | [newt]({{< ref "/f35/package/newt.md" >}}) | 4 | 4 | 100.0 | Greek <debian-l10n-greek@lists.debian.org> | 
- | [nfoview]({{< ref "/f35/package/nfoview.md" >}}) | 115 | 115 | 100.0 | Greek (http://www.transifex.com/otsaloma/nfoview/language/el/) | 
- | [notification-daemon]({{< ref "/f35/package/notification-daemon.md" >}}) | 29 | 29 | 100.0 | team@gnome.gr | 
- | [novnc]({{< ref "/f35/package/novnc.md" >}}) | 127 | 127 | 100.0 | none | 
- | [olpc-switch-desktop]({{< ref "/f35/package/olpc-switch-desktop.md" >}}) | 158 | 158 | 100.0 | LANGUAGE <LL@li.org> | 
- | [p11-kit]({{< ref "/f35/package/p11-kit.md" >}}) | 476 | 476 | 100.0 | Greek (http://www.transifex.com/freedesktop/p11-kit/language/el/) | 
- | [palapeli]({{< ref "/f35/package/palapeli.md" >}}) | 1516 | 1516 | 100.0 | Greek <kde-i18n-el@kde.org> | 
- | [pan]({{< ref "/f35/package/pan.md" >}}) | 3398 | 3398 | 100.0 | team@gnome.gr | 
- | [phonon-backend-gstreamer]({{< ref "/f35/package/phonon-backend-gstreamer.md" >}}) | 104 | 104 | 100.0 | Greek <kde-i18n-el@kde.org> | 
- | [php-phpmyadmin-sql-parser5]({{< ref "/f35/package/php-phpmyadmin-sql-parser5.md" >}}) | 268 | 268 | 100.0 | Greek <https://hosted.weblate.org/projects/phpmyadmin/sql-parser/el/> | 
- | [picmi]({{< ref "/f35/package/picmi.md" >}}) | 202 | 202 | 100.0 | Greek <kde-i18n-el@kde.org> | 
- | [pidgin-otr]({{< ref "/f35/package/pidgin-otr.md" >}}) | 1064 | 1064 | 100.0 | el | 
- | [plasma-integration]({{< ref "/f35/package/plasma-integration.md" >}}) | 58 | 58 | 100.0 | Greek <kde-i18n-el@kde.org> | 
- | [plasma-mediacenter]({{< ref "/f35/package/plasma-mediacenter.md" >}}) | 172 | 172 | 100.0 | Greek <kde-i18n-el@kde.org> | 
- | [plasma-milou]({{< ref "/f35/package/plasma-milou.md" >}}) | 10 | 10 | 100.0 | Greek <kde-i18n-el@kde.org> | 
- | [plasma-systemsettings]({{< ref "/f35/package/plasma-systemsettings.md" >}}) | 218 | 218 | 100.0 | Greek <kde-i18n-el@kde.org> | 
- | [plasma-vault]({{< ref "/f35/package/plasma-vault.md" >}}) | 874 | 874 | 100.0 | Greek <kde-i18n-el@kde.org> | 
- | [plymouth-kcm]({{< ref "/f35/package/plymouth-kcm.md" >}}) | 112 | 112 | 100.0 | Greek <kde-i18n-el@kde.org> | 
- | [pogo]({{< ref "/f35/package/pogo.md" >}}) | 576 | 576 | 100.0 | Greek <el@li.org> | 
- | [polkit-gnome]({{< ref "/f35/package/polkit-gnome.md" >}}) | 94 | 94 | 100.0 | team@gnome.gr | 
- | [polkit-kde]({{< ref "/f35/package/polkit-kde.md" >}}) | 95 | 95 | 100.0 | Greek <kde-i18n-el@kde.org> | 
- | [powerdevil]({{< ref "/f35/package/powerdevil.md" >}}) | 642 | 642 | 100.0 | Greek <kde-i18n-doc@kde.org> | 
- | [python-SecretStorage]({{< ref "/f35/package/python-SecretStorage.md" >}}) | 59 | 59 | 100.0 | team@lists.gnome.gr | 
- | [python-apt]({{< ref "/f35/package/python-apt.md" >}}) | 544 | 544 | 100.0 | Greek <team@gnome.gr> | 
- | [python-caja]({{< ref "/f35/package/python-caja.md" >}}) | 6 | 6 | 100.0 | Greek (https://www.transifex.com/mate/teams/13566/el/) | 
- | [python-django-contrib-comments]({{< ref "/f35/package/python-django-contrib-comments.md" >}}) | 250 | 250 | 100.0 | Greek (http://www.transifex.com/django/django-contrib-comments/language/el/) | 
- | [python-django-extensions]({{< ref "/f35/package/python-django-extensions.md" >}}) | 42 | 42 | 100.0 | LANGUAGE <LL@li.org> | 
- | [python-django-formtools]({{< ref "/f35/package/python-django-formtools.md" >}}) | 32 | 32 | 100.0 | Greek (http://www.transifex.com/django/django-formtools/language/el/) | 
- | [python-django-tables2]({{< ref "/f35/package/python-django-tables2.md" >}}) | 2 | 2 | 100.0 | el <team@lists.gnome.gr> | 
- | [python-sphinxcontrib-htmlhelp]({{< ref "/f35/package/python-sphinxcontrib-htmlhelp.md" >}}) | 25 | 25 | 100.0 | Greek (https://www.transifex.com/sphinx-doc/teams/36659/el/) | 
- | [python-sphinxcontrib-serializinghtml]({{< ref "/f35/package/python-sphinxcontrib-serializinghtml.md" >}}) | 18 | 18 | 100.0 | Greek (https://www.transifex.com/sphinx-doc/teams/36659/el/) | 
- | [qtwebkit]({{< ref "/f35/package/qtwebkit.md" >}}) | 688 | 688 | 100.0 | Greek <team@gnome.gr> | 
- | [quadrapassel]({{< ref "/f35/package/quadrapassel.md" >}}) | 1491 | 1491 | 100.0 | www.gnome.gr | 
- | [redhat-menus]({{< ref "/f35/package/redhat-menus.md" >}}) | 261 | 261 | 100.0 | Greek | 
- | [rekonq]({{< ref "/f35/package/rekonq.md" >}}) | 2202 | 2202 | 100.0 | Greek <kde-i18n-el@kde.org> | 
- | [rhythmbox]({{< ref "/f35/package/rhythmbox.md" >}}) | 11623 | 11623 | 100.0 | Ελληνικά, Σύγχρονα <> | 
- | [rhythmbox-alternative-toolbar]({{< ref "/f35/package/rhythmbox-alternative-toolbar.md" >}}) | 294 | 294 | 100.0 | Greek <el@li.org> | 
- | [rsibreak]({{< ref "/f35/package/rsibreak.md" >}}) | 1175 | 1175 | 100.0 | Greek <kde-i18n-el@kde.org> | 
- | [rygel]({{< ref "/f35/package/rygel.md" >}}) | 1641 | 1641 | 100.0 | Greek, Modern (1453-) <opensuse-translation-el@opensuse.org> | 
- | [scummvm]({{< ref "/f35/package/scummvm.md" >}}) | 9705 | 9705 | 100.0 | Greek <https://translations.scummvm.org/projects/scummvm/scummvm/el/> | 
- | [seahorse]({{< ref "/f35/package/seahorse.md" >}}) | 8957 | 8957 | 100.0 | Greek, Modern (1453-) <opensuse-translation-el@opensuse.org> | 
- | [seahorse-caja]({{< ref "/f35/package/seahorse-caja.md" >}}) | 477 | 477 | 100.0 | team@gnome.gr | 
- | [seahorse-nautilus]({{< ref "/f35/package/seahorse-nautilus.md" >}}) | 477 | 477 | 100.0 | team@gnome.gr | 
- | [setuptool]({{< ref "/f35/package/setuptool.md" >}}) | 55 | 55 | 100.0 | Greek <fedora-trans-el@redhat.com> | 
- | [shotwell]({{< ref "/f35/package/shotwell.md" >}}) | 11481 | 11481 | 100.0 | team@lists.gnome.gr | 
- | [siril]({{< ref "/f35/package/siril.md" >}}) | 18684 | 18684 | 100.0 |  | 
- | [slick-greeter]({{< ref "/f35/package/slick-greeter.md" >}}) | 211 | 211 | 100.0 | Greek <el@li.org> | 
- | [sound-juicer]({{< ref "/f35/package/sound-juicer.md" >}}) | 3609 | 3609 | 100.0 | Greek, Modern (1453-) <opensuse-translation-el@opensuse.org> | 
- | [sparkleshare]({{< ref "/f35/package/sparkleshare.md" >}}) | 371 | 371 | 100.0 |  | 
- | [sugar-words]({{< ref "/f35/package/sugar-words.md" >}}) | 3 | 3 | 100.0 | LANGUAGE <LL@li.org> | 
- | [sushi]({{< ref "/f35/package/sushi.md" >}}) | 54 | 54 | 100.0 | Greek, Modern (1453-) <gnome-el-list@gnome.org> | 
- | [svgpart]({{< ref "/f35/package/svgpart.md" >}}) | 3 | 3 | 100.0 | Greek <i18ngr@lists.hellug.gr> | 
- | [sweeper]({{< ref "/f35/package/sweeper.md" >}}) | 228 | 228 | 100.0 | Greek <kde-i18n-el@kde.org> | 
- | [swell-foop]({{< ref "/f35/package/swell-foop.md" >}}) | 1700 | 1700 | 100.0 | Greek <team@gnome.gr> | 
- | [system-config-rootpassword]({{< ref "/f35/package/system-config-rootpassword.md" >}}) | 116 | 116 | 100.0 | Greek <fedora-trans-el@redhat.com> | 
- | [system-switch-java]({{< ref "/f35/package/system-switch-java.md" >}}) | 81 | 81 | 100.0 | Greek <fedora-trans-el@redhat.com> | 
- | [tali]({{< ref "/f35/package/tali.md" >}}) | 2421 | 2421 | 100.0 | www.gnome.gr | 
- | [template-glib]({{< ref "/f35/package/template-glib.md" >}}) | 23 | 23 | 100.0 | Greek <gnome-el-list@gnome.org> | 
- | [thunar-media-tags-plugin]({{< ref "/f35/package/thunar-media-tags-plugin.md" >}}) | 156 | 156 | 100.0 | Greek (http://www.transifex.com/xfce/thunar-plugins/language/el/) | 
- | [tomboy]({{< ref "/f35/package/tomboy.md" >}}) | 7088 | 7088 | 100.0 | www.gnome.gr | 
- | [totem-pl-parser]({{< ref "/f35/package/totem-pl-parser.md" >}}) | 29 | 29 | 100.0 | Greek <team@gnome.gr> | 
- | [tracker]({{< ref "/f35/package/tracker.md" >}}) | 580 | 580 | 100.0 | Ελληνικά <> | 
- | [transmageddon]({{< ref "/f35/package/transmageddon.md" >}}) | 249 | 249 | 100.0 | Greek <team@gnome.gr> | 
- | [trojita]({{< ref "/f35/package/trojita.md" >}}) | 4754 | 4754 | 100.0 | Greek <kde-i18n-el@kde.org> | 
- | [tumbler]({{< ref "/f35/package/tumbler.md" >}}) | 241 | 241 | 100.0 | Greek (http://www.transifex.com/xfce/tumbler/language/el/) | 
- | [usermode]({{< ref "/f35/package/usermode.md" >}}) | 573 | 573 | 100.0 | Greek <trans-el@lists.fedoraproject.org> | 
- | [vakzination]({{< ref "/f35/package/vakzination.md" >}}) | 88 | 88 | 100.0 | Greek <kde-i18n-el@kde.org> | 
- | [viewnior]({{< ref "/f35/package/viewnior.md" >}}) | 425 | 425 | 100.0 | Greek <el@li.org> | 
- | [vinagre]({{< ref "/f35/package/vinagre.md" >}}) | 2540 | 2540 | 100.0 | Greek, Modern (1453-) <opensuse-translation-el@opensuse.org> | 
- | [wireplumber]({{< ref "/f35/package/wireplumber.md" >}}) | 3 | 3 | 100.0 | team@lists.gnome.gr | 
- | [xapps]({{< ref "/f35/package/xapps.md" >}}) | 73 | 73 | 100.0 | Greek <el@li.org> | 
- | [xdg-desktop-portal-gnome]({{< ref "/f35/package/xdg-desktop-portal-gnome.md" >}}) | 204 | 204 | 100.0 | Greek <gnome-el-list@gnome.org> | 
- | [xdg-user-dirs]({{< ref "/f35/package/xdg-user-dirs.md" >}}) | 28 | 28 | 100.0 | Greek <team@lists.gnome.gr> | 
- | [xdg-user-dirs-gtk]({{< ref "/f35/package/xdg-user-dirs-gtk.md" >}}) | 81 | 81 | 100.0 | Greek <team@gnome.gr> | 
- | [xed]({{< ref "/f35/package/xed.md" >}}) | 11335 | 11335 | 100.0 | Greek <team@mate.gr> | 
- | [xfce4-battery-plugin]({{< ref "/f35/package/xfce4-battery-plugin.md" >}}) | 149 | 149 | 100.0 | Greek (http://www.transifex.com/xfce/xfce-panel-plugins/language/el/) | 
- | [xfce4-datetime-plugin]({{< ref "/f35/package/xfce4-datetime-plugin.md" >}}) | 52 | 52 | 100.0 | Greek (http://www.transifex.com/xfce/xfce-panel-plugins/language/el/) | 
- | [xfce4-diskperf-plugin]({{< ref "/f35/package/xfce4-diskperf-plugin.md" >}}) | 181 | 181 | 100.0 | Greek (http://www.transifex.com/xfce/xfce-panel-plugins/language/el/) | 
- | [xfce4-eyes-plugin]({{< ref "/f35/package/xfce4-eyes-plugin.md" >}}) | 16 | 16 | 100.0 | Greek (http://www.transifex.com/xfce/xfce-panel-plugins/language/el/) | 
- | [xfce4-fsguard-plugin]({{< ref "/f35/package/xfce4-fsguard-plugin.md" >}}) | 71 | 71 | 100.0 | Greek (http://www.transifex.com/xfce/xfce-panel-plugins/language/el/) | 
- | [xfce4-mailwatch-plugin]({{< ref "/f35/package/xfce4-mailwatch-plugin.md" >}}) | 689 | 689 | 100.0 | Greek (http://www.transifex.com/xfce/xfce-panel-plugins/language/el/) | 
- | [xfce4-netload-plugin]({{< ref "/f35/package/xfce4-netload-plugin.md" >}}) | 91 | 91 | 100.0 | Greek (http://www.transifex.com/xfce/xfce-panel-plugins/language/el/) | 
- | [xfce4-notes-plugin]({{< ref "/f35/package/xfce4-notes-plugin.md" >}}) | 163 | 163 | 100.0 | Greek (http://www.transifex.com/xfce/xfce-panel-plugins/language/el/) | 
- | [xfce4-places-plugin]({{< ref "/f35/package/xfce4-places-plugin.md" >}}) | 162 | 162 | 100.0 | Greek (http://www.transifex.com/xfce/xfce-panel-plugins/language/el/) | 
- | [xfce4-pulseaudio-plugin]({{< ref "/f35/package/xfce4-pulseaudio-plugin.md" >}}) | 148 | 148 | 100.0 | Greek (http://www.transifex.com/xfce/xfce-panel-plugins/language/el/) | 
- | [xfce4-smartbookmark-plugin]({{< ref "/f35/package/xfce4-smartbookmark-plugin.md" >}}) | 22 | 22 | 100.0 | Greek (http://www.transifex.com/xfce/xfce-panel-plugins/language/el/) | 
- | [xfce4-timer-plugin]({{< ref "/f35/package/xfce4-timer-plugin.md" >}}) | 135 | 135 | 100.0 | Greek (http://www.transifex.com/xfce/xfce-panel-plugins/language/el/) | 
- | [xfce4-verve-plugin]({{< ref "/f35/package/xfce4-verve-plugin.md" >}}) | 87 | 87 | 100.0 | Greek (http://www.transifex.com/xfce/xfce-panel-plugins/language/el/) | 
- | [xfce4-wavelan-plugin]({{< ref "/f35/package/xfce4-wavelan-plugin.md" >}}) | 67 | 67 | 100.0 | Greek (http://www.transifex.com/xfce/xfce-panel-plugins/language/el/) | 
- | [xfce4-weather-plugin]({{< ref "/f35/package/xfce4-weather-plugin.md" >}}) | 3676 | 3676 | 100.0 | Greek (http://www.transifex.com/xfce/xfce-panel-plugins/language/el/) | 
- | [xfce4-whiskermenu-plugin]({{< ref "/f35/package/xfce4-whiskermenu-plugin.md" >}}) | 387 | 387 | 100.0 | Greek (http://www.transifex.com/gottcode/xfce4-whiskermenu-plugin/language/el/) | 
- | [xfce4-xkb-plugin]({{< ref "/f35/package/xfce4-xkb-plugin.md" >}}) | 57 | 57 | 100.0 | Greek (http://www.transifex.com/xfce/xfce-panel-plugins/language/el/) | 
- | [xfconf]({{< ref "/f35/package/xfconf.md" >}}) | 458 | 458 | 100.0 | Greek (http://www.transifex.com/xfce/xfconf/language/el/) | 
- | [xfdesktop]({{< ref "/f35/package/xfdesktop.md" >}}) | 1036 | 1036 | 100.0 | Greek (http://www.transifex.com/xfce/xfdesktop/language/el/) | 
- | [xreader]({{< ref "/f35/package/xreader.md" >}}) | 3539 | 3539 | 100.0 | Greek <team@mate.gr> | 
- | [yakuake]({{< ref "/f35/package/yakuake.md" >}}) | 1674 | 1674 | 100.0 | Greek <kde-i18n-el@kde.org> | 
- | [yelp]({{< ref "/f35/package/yelp.md" >}}) | 351 | 351 | 100.0 | team@gnome.gr | 
- | [yelp-xsl]({{< ref "/f35/package/yelp-xsl.md" >}}) | 85 | 85 | 100.0 | team@gnome.gr | 
- | [zenity]({{< ref "/f35/package/zenity.md" >}}) | 3888 | 3888 | 100.0 | www.gnome.gr | 
- | [korganizer]({{< ref "/f35/package/korganizer.md" >}}) | 7371 | 7372 | 100.0 | Greek <kde-i18n-el@kde.org> | 
- | [gtk2]({{< ref "/f35/package/gtk2.md" >}}) | 12399 | 12404 | 100.0 | Greek <team@gnome.gr> | 
- | [mingw-gtk2]({{< ref "/f35/package/mingw-gtk2.md" >}}) | 12399 | 12404 | 100.0 | Greek <team@gnome.gr> | 
- | [smb4k]({{< ref "/f35/package/smb4k.md" >}}) | 6433 | 6436 | 100.0 | Greek <kde-i18n-el@kde.org> | 
- | [pinta]({{< ref "/f35/package/pinta.md" >}}) | 1745 | 1746 | 99.9 | Greek <el@li.org> | 
- | [webkit2gtk3]({{< ref "/f35/package/webkit2gtk3.md" >}}) | 1605 | 1606 | 99.9 | Greek <team@gnome.gr> | 
- | [tellico]({{< ref "/f35/package/tellico.md" >}}) | 5858 | 5862 | 99.9 | Greek <kde-i18n-el@kde.org> | 
- | [kmplayer]({{< ref "/f35/package/kmplayer.md" >}}) | 1248 | 1249 | 99.9 | Greek <kde-i18n-el@kde.org> | 
- | [grsync]({{< ref "/f35/package/grsync.md" >}}) | 1159 | 1160 | 99.9 | Greek <team@gnome.gr> | 
- | [tuxpaint-stamps]({{< ref "/f35/package/tuxpaint-stamps.md" >}}) | 3246 | 3249 | 99.9 |  | 
- | [gwenview]({{< ref "/f35/package/gwenview.md" >}}) | 1671 | 1673 | 99.9 | Greek <kde-i18n-el@kde.org> | 
- | [kid3]({{< ref "/f35/package/kid3.md" >}}) | 3179 | 3183 | 99.9 | Greek <kde-i18n-el@kde.org> | 
- | [poedit]({{< ref "/f35/package/poedit.md" >}}) | 2916 | 2920 | 99.9 | Greek | 
- | [gnome-chemistry-utils]({{< ref "/f35/package/gnome-chemistry-utils.md" >}}) | 4556 | 4563 | 99.8 | team@lists.gnome.gr | 
- | [filezilla]({{< ref "/f35/package/filezilla.md" >}}) | 10806 | 10841 | 99.7 | Greek <dglent@free.fr> | 
- | [gnome-system-monitor]({{< ref "/f35/package/gnome-system-monitor.md" >}}) | 5636 | 5655 | 99.7 | team@lists.gnome.gr | 
- | [avahi]({{< ref "/f35/package/avahi.md" >}}) | 865 | 868 | 99.7 | Greek (http://www.transifex.com/lennart/avahi/language/el/) | 
- | [kf5-akonadi-mime]({{< ref "/f35/package/kf5-akonadi-mime.md" >}}) | 567 | 569 | 99.6 | Greek <kde-i18n-el@kde.org> | 
- | [krecipes]({{< ref "/f35/package/krecipes.md" >}}) | 3633 | 3646 | 99.6 | Greek <kde-i18n-el@kde.org> | 
- | [konsole5]({{< ref "/f35/package/konsole5.md" >}}) | 3440 | 3454 | 99.6 | Greek <kde-i18n-el@kde.org> | 
- | [pcmanfm]({{< ref "/f35/package/pcmanfm.md" >}}) | 1210 | 1215 | 99.6 | LANGUAGE <LL@li.org> | 
- | [mingw-colord]({{< ref "/f35/package/mingw-colord.md" >}}) | 1877 | 1885 | 99.6 | Greek (http://www.transifex.com/projects/p/colord/language/el/) | 
- | [okular]({{< ref "/f35/package/okular.md" >}}) | 5367 | 5391 | 99.6 | Greek <kde-i18n-el@kde.org> | 
- | [kanatest]({{< ref "/f35/package/kanatest.md" >}}) | 426 | 428 | 99.5 | Greek <LL@li.org> | 
- | [libmateweather]({{< ref "/f35/package/libmateweather.md" >}}) | 6113 | 6143 | 99.5 | Greek (https://www.transifex.com/mate/teams/13566/el/) | 
- | [kgraphviewer]({{< ref "/f35/package/kgraphviewer.md" >}}) | 1199 | 1205 | 99.5 | Greek <kde-i18n-el@kde.org> | 
- | [exo]({{< ref "/f35/package/exo.md" >}}) | 735 | 739 | 99.5 | Greek (http://www.transifex.com/xfce/exo/language/el/) | 
- | [kate]({{< ref "/f35/package/kate.md" >}}) | 6953 | 6992 | 99.4 | Greek <kde-i18n-el@kde.org> | 
- | [xfce4-dict]({{< ref "/f35/package/xfce4-dict.md" >}}) | 526 | 529 | 99.4 | Greek (http://www.transifex.com/xfce/xfce-apps/language/el/) | 
- | [gtksourceview3]({{< ref "/f35/package/gtksourceview3.md" >}}) | 320 | 322 | 99.4 | team@lists.gnome.gr | 
- | [mingw-gtksourceview3]({{< ref "/f35/package/mingw-gtksourceview3.md" >}}) | 320 | 322 | 99.4 | team@lists.gnome.gr | 
- | [skrooge]({{< ref "/f35/package/skrooge.md" >}}) | 12050 | 12127 | 99.4 | Greek <kde-i18n-el@kde.org> | 
- | [kf5-solid]({{< ref "/f35/package/kf5-solid.md" >}}) | 559 | 563 | 99.3 | Greek <kde-i18n-el@kde.org> | 
- | [lxtask]({{< ref "/f35/package/lxtask.md" >}}) | 129 | 130 | 99.2 | Greek <nls@tux.hellug.gr> | 
- | [amarok]({{< ref "/f35/package/amarok.md" >}}) | 15696 | 15819 | 99.2 | Greek <kde-i18n-el@kde.org> | 
- | [xfce4-mount-plugin]({{< ref "/f35/package/xfce4-mount-plugin.md" >}}) | 380 | 383 | 99.2 | Greek (http://www.transifex.com/xfce/xfce-panel-plugins/language/el/) | 
- | [kf5-syntax-highlighting]({{< ref "/f35/package/kf5-syntax-highlighting.md" >}}) | 607 | 612 | 99.2 | Greek <kde-i18n-el@kde.org> | 
- | [mate-session-manager]({{< ref "/f35/package/mate-session-manager.md" >}}) | 709 | 715 | 99.2 | Greek (https://www.transifex.com/mate/teams/13566/el/) | 
- | [xfce4-taskmanager]({{< ref "/f35/package/xfce4-taskmanager.md" >}}) | 229 | 231 | 99.1 | Greek (http://www.transifex.com/xfce/xfce-apps/language/el/) | 
- | [mcrypt]({{< ref "/f35/package/mcrypt.md" >}}) | 956 | 965 | 99.1 | Hellenic <nls@hellug.gr> | 
- | [kf5-incidenceeditor]({{< ref "/f35/package/kf5-incidenceeditor.md" >}}) | 2187 | 2208 | 99.0 | Greek <kde-i18n-el@kde.org> | 
- | [phosh]({{< ref "/f35/package/phosh.md" >}}) | 208 | 210 | 99.0 | Greek, Modern (1453-) <gnome-el-list@gnome.org> | 
- | [mingw-gstreamer]({{< ref "/f35/package/mingw-gstreamer.md" >}}) | 1898 | 1917 | 99.0 | Greek <team@lists.gnome.gr> | 
- | [thonny]({{< ref "/f35/package/thonny.md" >}}) | 1795 | 1813 | 99.0 |  | 
- | [scratch]({{< ref "/f35/package/scratch.md" >}}) | 1455 | 1470 | 99.0 | LANGUAGE <LL@li.org> | 
- | [supertuxkart]({{< ref "/f35/package/supertuxkart.md" >}}) | 5854 | 5918 | 98.9 | Greek (http://www.transifex.com/supertuxkart/supertuxkart/language/el/) | 
- | [knotes]({{< ref "/f35/package/knotes.md" >}}) | 789 | 798 | 98.9 | Greek <kde-i18n-el@kde.org> | 
- | [kleopatra]({{< ref "/f35/package/kleopatra.md" >}}) | 9938 | 10052 | 98.9 | Greek <kde-i18n-el@kde.org> | 
- | [thunar-archive-plugin]({{< ref "/f35/package/thunar-archive-plugin.md" >}}) | 87 | 88 | 98.9 | Greek (http://www.transifex.com/xfce/thunar-plugins/language/el/) | 
- | [xfmpc]({{< ref "/f35/package/xfmpc.md" >}}) | 173 | 175 | 98.9 | Greek (http://www.transifex.com/xfce/xfce-apps/language/el/) | 
- | [plasma-oxygen]({{< ref "/f35/package/plasma-oxygen.md" >}}) | 792 | 802 | 98.8 | Greek <kde-i18n-el@kde.org> | 
- | [gitweb-caching]({{< ref "/f35/package/gitweb-caching.md" >}}) | 1887 | 1911 | 98.7 | Greek <i18n@lists.hellug.gr> | 
- | [realmd]({{< ref "/f35/package/realmd.md" >}}) | 778 | 789 | 98.6 | Greek (http://www.transifex.com/freedesktop/realmd/language/el/) | 
- | [bygfoot]({{< ref "/f35/package/bygfoot.md" >}}) | 9292 | 9433 | 98.5 |  | 
- | [python-django]({{< ref "/f35/package/python-django.md" >}}) | 3729 | 3787 | 98.5 | Greek (http://www.transifex.com/django/django/language/el/) | 
- | [step]({{< ref "/f35/package/step.md" >}}) | 3760 | 3819 | 98.5 | Greek <kde-i18n-el@kde.org> | 
- | [leafpad]({{< ref "/f35/package/leafpad.md" >}}) | 123 | 125 | 98.4 | Greek <nls@tux.hellug.gr> | 
- | [clementine]({{< ref "/f35/package/clementine.md" >}}) | 5162 | 5251 | 98.3 | Greek (http://www.transifex.com/davidsansome/clementine/language/el/) | 
- | [compiz-plugins-main]({{< ref "/f35/package/compiz-plugins-main.md" >}}) | 4145 | 4218 | 98.3 | Greek <el@li.org> | 
- | [kinfocenter]({{< ref "/f35/package/kinfocenter.md" >}}) | 735 | 748 | 98.3 | Greek <kde-i18n-el@kde.org> | 
- | [kde-l10n]({{< ref "/f35/package/kde-l10n.md" >}}) | 99741 | 101651 | 98.1 | Ελληνικά <i18ngr@lists.hellug.gr> | 
- | [krusader]({{< ref "/f35/package/krusader.md" >}}) | 7775 | 7929 | 98.1 | Greek <kde-i18n-el@kde.org> | 
- | [homebank]({{< ref "/f35/package/homebank.md" >}}) | 2760 | 2815 | 98.0 | Hellenic <christosvas@in.gr> | 
- | [kf5-kxmlgui]({{< ref "/f35/package/kf5-kxmlgui.md" >}}) | 1543 | 1574 | 98.0 | Greek <kde-i18n-el@kde.org> | 
- | [xfwm4]({{< ref "/f35/package/xfwm4.md" >}}) | 647 | 660 | 98.0 | Greek (http://www.transifex.com/xfce/xfwm4/language/el/) | 
- | [audacity]({{< ref "/f35/package/audacity.md" >}}) | 18133 | 18506 | 98.0 | team@lists.gnome.gr | 
- | [xfce4-power-manager]({{< ref "/f35/package/xfce4-power-manager.md" >}}) | 1042 | 1064 | 97.9 | Greek (http://www.transifex.com/xfce/xfce4-power-manager/language/el/) | 
- | [libreoffice]({{< ref "/f35/package/libreoffice.md" >}}) | 681574 | 696478 | 97.9 | Greek <https://translations.documentfoundation.org/projects/libo_ui-master/accessibilitymessages/el/> | 
- | [pidgin]({{< ref "/f35/package/pidgin.md" >}}) | 15489 | 15835 | 97.8 | Greek (http://www.transifex.com/pidgin/pidgin/language/el/) | 
- | [kde-style-breeze]({{< ref "/f35/package/kde-style-breeze.md" >}}) | 260 | 266 | 97.7 | Greek <kde-i18n-el@kde.org> | 
- | [mate-menu]({{< ref "/f35/package/mate-menu.md" >}}) | 301 | 308 | 97.7 | Greek (http://www.transifex.com/mate/MATE/language/el/) | 
- | [bubblemail]({{< ref "/f35/package/bubblemail.md" >}}) | 466 | 478 | 97.5 | Greek <> | 
- | [fprintd]({{< ref "/f35/package/fprintd.md" >}}) | 419 | 430 | 97.4 | Greek (http://www.transifex.com/freedesktop/fprintd/language/el/) | 
- | [cinnamon-translations]({{< ref "/f35/package/cinnamon-translations.md" >}}) | 22677 | 23274 | 97.4 | Greek <el@li.org> | 
- | [gthumb]({{< ref "/f35/package/gthumb.md" >}}) | 8535 | 8760 | 97.4 | team@lists.gnome.gr | 
- | [blogilo]({{< ref "/f35/package/blogilo.md" >}}) | 1157 | 1188 | 97.4 | Greek <kde-i18n-el@kde.org> | 
- | [bleachbit]({{< ref "/f35/package/bleachbit.md" >}}) | 1791 | 1843 | 97.2 | Greek <el@li.org> | 
- | [Thunar]({{< ref "/f35/package/Thunar.md" >}}) | 4282 | 4413 | 97.0 | Greek (https://www.transifex.com/xfce/teams/16840/el/) | 
- | [gbrainy]({{< ref "/f35/package/gbrainy.md" >}}) | 10071 | 10380 | 97.0 | Greek <team@lists.gnome.gr> | 
- | [colord-kde]({{< ref "/f35/package/colord-kde.md" >}}) | 358 | 369 | 97.0 | Greek <kde-i18n-el@kde.org> | 
- | [gnome-control-center]({{< ref "/f35/package/gnome-control-center.md" >}}) | 7103 | 7324 | 97.0 | Greek <fedora-trans-el@redhat.com> | 
- | [diffutils]({{< ref "/f35/package/diffutils.md" >}}) | 1807 | 1864 | 96.9 | Greek <team@lists.gnome.gr> | 
- | [kio-gdrive]({{< ref "/f35/package/kio-gdrive.md" >}}) | 63 | 65 | 96.9 | Greek <kde-i18n-el@kde.org> | 
- | [cracklib]({{< ref "/f35/package/cracklib.md" >}}) | 93 | 96 | 96.9 | Hellenic-Ελληνικά-Greek <hstg@billg.gr> | 
- | [kicad]({{< ref "/f35/package/kicad.md" >}}) | 35777 | 36943 | 96.8 | Greek <https://hosted.weblate.org/projects/kicad/master-source/el/> | 
- | [pacman]({{< ref "/f35/package/pacman.md" >}}) | 5020 | 5189 | 96.7 | Greek (http://www.transifex.com/toofishes/archlinux-pacman/language/el/) | 
- | [klavaro]({{< ref "/f35/package/klavaro.md" >}}) | 1828 | 1893 | 96.6 | Greek <team@lists.gnome.gr> | 
- | [python-django-taggit]({{< ref "/f35/package/python-django-taggit.md" >}}) | 28 | 29 | 96.6 | Greek <el@li.org> | 
- | [xfce4-systemload-plugin]({{< ref "/f35/package/xfce4-systemload-plugin.md" >}}) | 84 | 87 | 96.6 | Greek (http://www.transifex.com/xfce/xfce-panel-plugins/language/el/) | 
- | [thunar-volman]({{< ref "/f35/package/thunar-volman.md" >}}) | 467 | 484 | 96.5 | Greek (http://www.transifex.com/xfce/thunar-volman/language/el/) | 
- | [khotkeys]({{< ref "/f35/package/khotkeys.md" >}}) | 435 | 451 | 96.5 | Greek <kde-i18n-el@kde.org> | 
- | [rocs]({{< ref "/f35/package/rocs.md" >}}) | 1427 | 1480 | 96.4 | Greek <kde-i18n-el@kde.org> | 
- | [gnome-tetravex]({{< ref "/f35/package/gnome-tetravex.md" >}}) | 1617 | 1678 | 96.4 | team@gnome.gr | 
- | [parley]({{< ref "/f35/package/parley.md" >}}) | 3308 | 3439 | 96.2 | Greek <kde-i18n-el@kde.org> | 
- | [skanlite]({{< ref "/f35/package/skanlite.md" >}}) | 176 | 183 | 96.2 | Greek <kde-i18n-el@kde.org> | 
- | [frogr]({{< ref "/f35/package/frogr.md" >}}) | 1438 | 1497 | 96.1 | www.gnome.gr | 
- | [kbrickbuster]({{< ref "/f35/package/kbrickbuster.md" >}}) | 146 | 152 | 96.1 | Greek <kde-i18n-el@kde.org> | 
- | [sugar-typing-turtle]({{< ref "/f35/package/sugar-typing-turtle.md" >}}) | 575 | 599 | 96.0 | LANGUAGE <LL@li.org> | 
- | [easystroke]({{< ref "/f35/package/easystroke.md" >}}) | 451 | 470 | 96.0 | Greek <el@li.org> | 
- | [pitivi]({{< ref "/f35/package/pitivi.md" >}}) | 8629 | 9002 | 95.9 | www.gnome.gr | 
- | [plasma-sdk]({{< ref "/f35/package/plasma-sdk.md" >}}) | 808 | 843 | 95.8 | Greek <kde-i18n-el@kde.org> | 
- | [plasma-breeze]({{< ref "/f35/package/plasma-breeze.md" >}}) | 230 | 240 | 95.8 | Greek <kde-i18n-el@kde.org> | 
- | [audacious-plugins]({{< ref "/f35/package/audacious-plugins.md" >}}) | 4075 | 4254 | 95.8 | Greek (http://www.transifex.com/audacious/audacious/language/el/) | 
- | [kweather]({{< ref "/f35/package/kweather.md" >}}) | 156 | 163 | 95.7 | Greek <kde-i18n-el@kde.org> | 
- | [orca]({{< ref "/f35/package/orca.md" >}}) | 17449 | 18239 | 95.7 | www.gnome.gr | 
- | [ganyremote]({{< ref "/f35/package/ganyremote.md" >}}) | 485 | 507 | 95.7 | Greek | 
- | [libuser]({{< ref "/f35/package/libuser.md" >}}) | 1374 | 1437 | 95.6 | Greek (http://www.transifex.com/projects/p/fedora/language/el/) | 
- | [xfce4-session]({{< ref "/f35/package/xfce4-session.md" >}}) | 722 | 756 | 95.5 | Greek (http://www.transifex.com/xfce/xfce4-session/language/el/) | 
- | [spectacle]({{< ref "/f35/package/spectacle.md" >}}) | 902 | 946 | 95.3 | Greek <kde-i18n-el@kde.org> | 
- | [gtk3]({{< ref "/f35/package/gtk3.md" >}}) | 15303 | 16050 | 95.3 | www.gnome.gr | 
- | [mingw-gtk3]({{< ref "/f35/package/mingw-gtk3.md" >}}) | 15303 | 16050 | 95.3 | www.gnome.gr | 
- | [xfce4-time-out-plugin]({{< ref "/f35/package/xfce4-time-out-plugin.md" >}}) | 101 | 106 | 95.3 | Greek (http://www.transifex.com/xfce/xfce-panel-plugins/language/el/) | 
- | [avogadro]({{< ref "/f35/package/avogadro.md" >}}) | 6293 | 6607 | 95.2 | Greek <el@li.org> | 
- | [kf5-knotifications]({{< ref "/f35/package/kf5-knotifications.md" >}}) | 20 | 21 | 95.2 | Greek <kde-i18n-el@kde.org> | 
- | [mate-menus]({{< ref "/f35/package/mate-menus.md" >}}) | 98 | 103 | 95.1 | Greek (https://www.transifex.com/mate/teams/13566/el/) | 
- | [gretl]({{< ref "/f35/package/gretl.md" >}}) | 16488 | 17330 | 95.1 | Greek | 
- | [onionshare]({{< ref "/f35/package/onionshare.md" >}}) | 4607 | 4844 | 95.1 | el <LL@li.org> | 
- | [gigolo]({{< ref "/f35/package/gigolo.md" >}}) | 519 | 546 | 95.1 | Greek (http://www.transifex.com/xfce/xfce-apps/language/el/) | 
- | [kf5-kconfigwidgets]({{< ref "/f35/package/kf5-kconfigwidgets.md" >}}) | 325 | 342 | 95.0 | Greek <kde-i18n-el@kde.org> | 
- | [kanyremote]({{< ref "/f35/package/kanyremote.md" >}}) | 472 | 497 | 95.0 | Greek | 
- | [ccsm]({{< ref "/f35/package/ccsm.md" >}}) | 561 | 591 | 94.9 | Greek <el@li.org> | 
- | [gparted]({{< ref "/f35/package/gparted.md" >}}) | 7845 | 8266 | 94.9 | team@lists.gnome.gr | 
- | [ksysguard]({{< ref "/f35/package/ksysguard.md" >}}) | 1037 | 1093 | 94.9 | Greek <kde-i18n-el@kde.org> | 
- | [kile]({{< ref "/f35/package/kile.md" >}}) | 12322 | 12994 | 94.8 | Greek <kde-i18n-el@kde.org> | 
- | [colord]({{< ref "/f35/package/colord.md" >}}) | 1885 | 1990 | 94.7 | Greek (http://www.transifex.com/freedesktop/colord/language/el/) | 
- | [plank]({{< ref "/f35/package/plank.md" >}}) | 179 | 189 | 94.7 | Greek <el@li.org> | 
- | [xfce4-settings]({{< ref "/f35/package/xfce4-settings.md" >}}) | 2296 | 2426 | 94.6 | Greek (https://www.transifex.com/xfce/teams/16840/el/) | 
- | [kf5-kholidays]({{< ref "/f35/package/kf5-kholidays.md" >}}) | 139 | 147 | 94.6 | Greek <kde-i18n-el@kde.org> | 
- | [xfce4-appfinder]({{< ref "/f35/package/xfce4-appfinder.md" >}}) | 409 | 433 | 94.5 | Greek (http://www.transifex.com/xfce/xfce4-appfinder/language/el/) | 
- | [psmisc]({{< ref "/f35/package/psmisc.md" >}}) | 935 | 990 | 94.4 | Greek <team@lists.gnome.gr> | 
- | [kf5-kcoreaddons]({{< ref "/f35/package/kf5-kcoreaddons.md" >}}) | 509 | 540 | 94.3 | Greek <kde-i18n-el@kde.org> | 
- | [kexi]({{< ref "/f35/package/kexi.md" >}}) | 6949 | 7380 | 94.2 | Greek <kde-i18n-el@kde.org> | 
- | [kf5-kimap]({{< ref "/f35/package/kf5-kimap.md" >}}) | 111 | 118 | 94.1 | Greek <kde-i18n-el@kde.org> | 
- | [pspp]({{< ref "/f35/package/pspp.md" >}}) | 10330 | 10983 | 94.1 | Greek <team@lists.gnome.gr> | 
- | [cinnamon-desktop]({{< ref "/f35/package/cinnamon-desktop.md" >}}) | 220 | 234 | 94.0 | team@gnome.gr | 
- | [gnome-shell]({{< ref "/f35/package/gnome-shell.md" >}}) | 2622 | 2791 | 93.9 | Greek, Modern (1453-) <gnome-el-list@gnome.org> | 
- | [warmux]({{< ref "/f35/package/warmux.md" >}}) | 2572 | 2744 | 93.7 |  | 
- | [ksirk]({{< ref "/f35/package/ksirk.md" >}}) | 2511 | 2680 | 93.7 | Greek <kde-i18n-el@kde.org> | 
- | [emerald]({{< ref "/f35/package/emerald.md" >}}) | 652 | 696 | 93.7 | Greek <el@li.org> | 
- | [claws-mail]({{< ref "/f35/package/claws-mail.md" >}}) | 19746 | 21088 | 93.6 | hariskar@cryptolab.net | 
- | [gnome-extensions-app]({{< ref "/f35/package/gnome-extensions-app.md" >}}) | 2588 | 2767 | 93.5 | Greek, Modern (1453-) <gnome-el-list@gnome.org> | 
- | [mozo]({{< ref "/f35/package/mozo.md" >}}) | 43 | 46 | 93.5 | Greek (https://www.transifex.com/mate/teams/13566/el/) | 
- | [help2man]({{< ref "/f35/package/help2man.md" >}}) | 532 | 570 | 93.3 | Greek <team@lists.gnome.gr> | 
- | [kf5-kcmutils]({{< ref "/f35/package/kf5-kcmutils.md" >}}) | 248 | 266 | 93.2 | Greek <kde-i18n-el@kde.org> | 
- | [simple-ccsm]({{< ref "/f35/package/simple-ccsm.md" >}}) | 151 | 162 | 93.2 | Greek <el@li.org> | 
- | [cinnamon-control-center]({{< ref "/f35/package/cinnamon-control-center.md" >}}) | 1223 | 1313 | 93.1 | Greek <fedora-trans-el@redhat.com> | 
- | [obconf]({{< ref "/f35/package/obconf.md" >}}) | 686 | 738 | 93.0 | Greek | 
- | [transmission]({{< ref "/f35/package/transmission.md" >}}) | 1856 | 1998 | 92.9 | Greek (https://www.transifex.com/transmissionbt/teams/33778/el/) | 
- | [filelight]({{< ref "/f35/package/filelight.md" >}}) | 404 | 435 | 92.9 | Greek <kde-i18n-doc@kde.org> | 
- | [fragments]({{< ref "/f35/package/fragments.md" >}}) | 1863 | 2006 | 92.9 | Greek (https://www.transifex.com/transmissionbt/teams/33778/el/) | 
- | [bluedevil]({{< ref "/f35/package/bluedevil.md" >}}) | 478 | 515 | 92.8 | Greek <kde-i18n-el@kde.org> | 
- | [quitcount]({{< ref "/f35/package/quitcount.md" >}}) | 154 | 166 | 92.8 | Stella Korakaki <stella@tux.gr> | 
- | [mate-backgrounds]({{< ref "/f35/package/mate-backgrounds.md" >}}) | 51 | 55 | 92.7 | Greek (https://www.transifex.com/mate/teams/13566/el/) | 
- | [sweep]({{< ref "/f35/package/sweep.md" >}}) | 2224 | 2399 | 92.7 | Greek <EL@li.org> | 
- | [kf5-purpose]({{< ref "/f35/package/kf5-purpose.md" >}}) | 299 | 323 | 92.6 | Greek <kde-i18n-el@kde.org> | 
- | [gtkhash]({{< ref "/f35/package/gtkhash.md" >}}) | 197 | 213 | 92.5 | Greek <https://hosted.weblate.org/projects/gtkhash/translations/el/> | 
- | [python-colander]({{< ref "/f35/package/python-colander.md" >}}) | 160 | 173 | 92.5 | el <LL@li.org> | 
- | [xfce4-screenshooter]({{< ref "/f35/package/xfce4-screenshooter.md" >}}) | 487 | 528 | 92.2 | Greek (http://www.transifex.com/xfce/xfce-apps/language/el/) | 
- | [calligra]({{< ref "/f35/package/calligra.md" >}}) | 33022 | 35868 | 92.1 | Greek <kde-i18n-el@kde.org> | 
- | [xfce4-terminal]({{< ref "/f35/package/xfce4-terminal.md" >}}) | 1710 | 1862 | 91.8 | Greek (http://www.transifex.com/xfce/xfce-apps/language/el/) | 
- | [xfburn]({{< ref "/f35/package/xfburn.md" >}}) | 1438 | 1567 | 91.8 | Greek (http://www.transifex.com/xfce/xfce-apps/language/el/) | 
- | [deepin-pw-check]({{< ref "/f35/package/deepin-pw-check.md" >}}) | 54 | 59 | 91.5 | Greek (https://www.transifex.com/linuxdeepin/teams/3617/el/) | 
- | [gnusim8085]({{< ref "/f35/package/gnusim8085.md" >}}) | 515 | 563 | 91.5 | Greek <el@li.org> | 
- | [kclock]({{< ref "/f35/package/kclock.md" >}}) | 31 | 34 | 91.2 | Greek <kde-i18n-el@kde.org> | 
- | [passwd]({{< ref "/f35/package/passwd.md" >}}) | 306 | 336 | 91.1 | Greek <trans-el@lists.fedoraproject.org> | 
- | [lightdm-gtk-greeter-settings]({{< ref "/f35/package/lightdm-gtk-greeter-settings.md" >}}) | 472 | 519 | 90.9 | Greek <el@li.org> | 
- | [compiz-plugins-extra]({{< ref "/f35/package/compiz-plugins-extra.md" >}}) | 3408 | 3750 | 90.9 | Greek <el@li.org> | 
- | [switchboard-plug-notifications]({{< ref "/f35/package/switchboard-plug-notifications.md" >}}) | 129 | 142 | 90.8 | Greek <https://weblate.elementary.io/projects/switchboard/switchboard-plug-notifications/el/> | 
- | [kf5-messagelib]({{< ref "/f35/package/kf5-messagelib.md" >}}) | 7443 | 8201 | 90.8 | Greek <kde-i18n-el@kde.org> | 
- | [mousepad]({{< ref "/f35/package/mousepad.md" >}}) | 1530 | 1686 | 90.7 | Greek (http://www.transifex.com/xfce/xfce-apps/language/el/) | 
- | [bookworm]({{< ref "/f35/package/bookworm.md" >}}) | 721 | 795 | 90.7 | Greek <https://hosted.weblate.org/projects/bookworm/bookworm/el/> | 
- | [evolution-data-server]({{< ref "/f35/package/evolution-data-server.md" >}}) | 7007 | 7732 | 90.6 | Ελληνικά <> | 
- | [python-wtforms]({{< ref "/f35/package/python-wtforms.md" >}}) | 183 | 202 | 90.6 | el <LL@li.org> | 
- | [ristretto]({{< ref "/f35/package/ristretto.md" >}}) | 599 | 662 | 90.5 | Greek (http://www.transifex.com/xfce/xfce-apps/language/el/) | 
- | [python-django-allauth]({{< ref "/f35/package/python-django-allauth.md" >}}) | 834 | 922 | 90.5 | LANGUAGE <LL@li.org> | 
- | [kdepim-addons]({{< ref "/f35/package/kdepim-addons.md" >}}) | 1798 | 1993 | 90.2 | Greek <kde-i18n-el@kde.org> | 
- | [marco]({{< ref "/f35/package/marco.md" >}}) | 3872 | 4303 | 90.0 | Greek (https://www.transifex.com/mate/teams/13566/el/) | 
- | [kf5-kconfig]({{< ref "/f35/package/kf5-kconfig.md" >}}) | 260 | 289 | 90.0 | Greek <kde-i18n-el@kde.org> | 
- | [python-flask-admin]({{< ref "/f35/package/python-flask-admin.md" >}}) | 330 | 367 | 89.9 | Greek | 
- | [xfce4-panel-profiles]({{< ref "/f35/package/xfce4-panel-profiles.md" >}}) | 89 | 99 | 89.9 | Greek (https://www.transifex.com/xfce/teams/16840/el/) | 
- | [evolution]({{< ref "/f35/package/evolution.md" >}}) | 46728 | 52050 | 89.8 | www.gnome.gr | 
- | [plasma-pa]({{< ref "/f35/package/plasma-pa.md" >}}) | 228 | 254 | 89.8 | Greek <kde-i18n-el@kde.org> | 
- | [mate-screensaver]({{< ref "/f35/package/mate-screensaver.md" >}}) | 987 | 1101 | 89.6 | Greek (https://www.transifex.com/mate/teams/13566/el/) | 
- | [lxpanel]({{< ref "/f35/package/lxpanel.md" >}}) | 1251 | 1399 | 89.4 | LANGUAGE <LL@li.org> | 
- | [kf5-kdelibs4support]({{< ref "/f35/package/kf5-kdelibs4support.md" >}}) | 4776 | 5353 | 89.2 | Greek <kde-i18n-el@kde.org> | 
- | [kde-cli-tools]({{< ref "/f35/package/kde-cli-tools.md" >}}) | 2005 | 2250 | 89.1 | Greek <kde-i18n-el@kde.org> | 
- | [gnome-applets]({{< ref "/f35/package/gnome-applets.md" >}}) | 16565 | 18603 | 89.0 | Greek <team@gnome.gr> | 
- | [verbiste]({{< ref "/f35/package/verbiste.md" >}}) | 73 | 82 | 89.0 |  | 
- | [xfce4-genmon-plugin]({{< ref "/f35/package/xfce4-genmon-plugin.md" >}}) | 89 | 100 | 89.0 | Greek (http://www.transifex.com/xfce/xfce-panel-plugins/language/el/) | 
- | [angelfish]({{< ref "/f35/package/angelfish.md" >}}) | 426 | 479 | 88.9 | Greek <kde-i18n-el@kde.org> | 
- | [xfce4-panel]({{< ref "/f35/package/xfce4-panel.md" >}}) | 1642 | 1847 | 88.9 | Greek (https://www.transifex.com/xfce/teams/16840/el/) | 
- | [kf5-kirigami2]({{< ref "/f35/package/kf5-kirigami2.md" >}}) | 88 | 99 | 88.9 | Greek <kde-i18n-el@kde.org> | 
- | [system-config-printer]({{< ref "/f35/package/system-config-printer.md" >}}) | 3078 | 3465 | 88.8 | Greek <trans-el@lists.fedoraproject.org> | 
- | [tuxtype2]({{< ref "/f35/package/tuxtype2.md" >}}) | 71 | 80 | 88.8 | LANGUAGE <LL@li.org> | 
- | [plasma-browser-integration]({{< ref "/f35/package/plasma-browser-integration.md" >}}) | 621 | 701 | 88.6 | Greek <kde-i18n-el@kde.org> | 
- | [gnome-settings-daemon]({{< ref "/f35/package/gnome-settings-daemon.md" >}}) | 3027 | 3417 | 88.6 | Greek, Modern (1453-) <gnome-el-list@gnome.org> | 
- | [gnome-devel-docs]({{< ref "/f35/package/gnome-devel-docs.md" >}}) | 149812 | 169192 | 88.5 | team@gnome.gr | 
- | [xfce4-notifyd]({{< ref "/f35/package/xfce4-notifyd.md" >}}) | 261 | 296 | 88.2 | Greek (http://www.transifex.com/xfce/xfce-apps/language/el/) | 
- | [xfce4-cpufreq-plugin]({{< ref "/f35/package/xfce4-cpufreq-plugin.md" >}}) | 141 | 160 | 88.1 | Greek (http://www.transifex.com/xfce/xfce-panel-plugins/language/el/) | 
- | [switchboard-plug-sharing]({{< ref "/f35/package/switchboard-plug-sharing.md" >}}) | 124 | 141 | 87.9 | Greek <el@li.org> | 
- | [lxlauncher]({{< ref "/f35/package/lxlauncher.md" >}}) | 51 | 58 | 87.9 | Greek <LL@li.org> | 
- | [pastebinit]({{< ref "/f35/package/pastebinit.md" >}}) | 171 | 195 | 87.7 | Greek <el@li.org> | 
- | [kf5-plasma]({{< ref "/f35/package/kf5-plasma.md" >}}) | 345 | 395 | 87.3 | Greek <kde-i18n-el@kde.org> | 
- | [mate-media]({{< ref "/f35/package/mate-media.md" >}}) | 208 | 239 | 87.0 | Greek (https://www.transifex.com/mate/teams/13566/el/) | 
- | [kcm_wacomtablet]({{< ref "/f35/package/kcm_wacomtablet.md" >}}) | 925 | 1064 | 86.9 | Greek <kde-i18n-el@kde.org> | 
- | [l3afpad]({{< ref "/f35/package/l3afpad.md" >}}) | 113 | 130 | 86.9 | Greek <nls@tux.hellug.gr> | 
- | [mate-desktop]({{< ref "/f35/package/mate-desktop.md" >}}) | 2064 | 2376 | 86.9 | Greek (https://www.transifex.com/mate/teams/13566/el/) | 
- | [xchm]({{< ref "/f35/package/xchm.md" >}}) | 203 | 234 | 86.8 | Greek <gr@li.org> | 
- | [lxinput]({{< ref "/f35/package/lxinput.md" >}}) | 72 | 83 | 86.7 | Greek <LL@li.org> | 
- | [plasma-pass]({{< ref "/f35/package/plasma-pass.md" >}}) | 26 | 30 | 86.7 | Greek <kde-i18n-el@kde.org> | 
- | [moodle]({{< ref "/f35/package/moodle.md" >}}) | 45 | 52 | 86.5 | i18n@lists.horde.org | 
- | [rt]({{< ref "/f35/package/rt.md" >}}) | 10255 | 11867 | 86.4 | Greek <el@li.org> | 
- | [ufw]({{< ref "/f35/package/ufw.md" >}}) | 758 | 879 | 86.2 | Greek <el@li.org> | 
- | [caja]({{< ref "/f35/package/caja.md" >}}) | 8342 | 9675 | 86.2 | Greek (https://www.transifex.com/mate/teams/13566/el/) | 
- | [bison]({{< ref "/f35/package/bison.md" >}}) | 1530 | 1776 | 86.1 | Greek <team@lists.gnome.gr> | 
- | [gnome-activity-journal]({{< ref "/f35/package/gnome-activity-journal.md" >}}) | 272 | 316 | 86.1 | Greek <el@li.org> | 
- | [mate-settings-daemon]({{< ref "/f35/package/mate-settings-daemon.md" >}}) | 1896 | 2206 | 85.9 | Greek (https://www.transifex.com/mate/teams/13566/el/) | 
- | [sddm-kcm]({{< ref "/f35/package/sddm-kcm.md" >}}) | 159 | 185 | 85.9 | Greek <kde-i18n-el@kde.org> | 
- | [alexandria]({{< ref "/f35/package/alexandria.md" >}}) | 1039 | 1212 | 85.7 | Greek | 
- | [debconf]({{< ref "/f35/package/debconf.md" >}}) | 737 | 862 | 85.5 | American English <debian-l10n-greek@lists.debian.org> | 
- | [python-formencode]({{< ref "/f35/package/python-formencode.md" >}}) | 693 | 813 | 85.2 | Greek <fedora-trans-el@redhat.com> | 
- | [kdepim-runtime]({{< ref "/f35/package/kdepim-runtime.md" >}}) | 5212 | 6129 | 85.0 | Greek <kde-i18n-el@kde.org> | 
- | [ejabberd]({{< ref "/f35/package/ejabberd.md" >}}) | 1855 | 2185 | 84.9 |  | 
- | [midori]({{< ref "/f35/package/midori.md" >}}) | 3006 | 3541 | 84.9 | Ελληνικά, Σύγχρονα <opensuse-translation-el@opensuse.org> | 
- | [icewm]({{< ref "/f35/package/icewm.md" >}}) | 1902 | 2255 | 84.3 | Greek <https://l10n.opensuse.org/projects/icewm/icewm-1-4-branch/el/> | 
- | [chkconfig]({{< ref "/f35/package/chkconfig.md" >}}) | 500 | 593 | 84.3 | Greek <https://translate.fedoraproject.org/projects/fedora-sysv/chkconfig/el/> | 
- | [libzypp]({{< ref "/f35/package/libzypp.md" >}}) | 2288 | 2714 | 84.3 | Greek <https://l10n.opensuse.org/projects/libzypp/master/el/> | 
- | [atril]({{< ref "/f35/package/atril.md" >}}) | 3696 | 4389 | 84.2 | Greek (https://www.transifex.com/mate/teams/13566/el/) | 
- | [onboard]({{< ref "/f35/package/onboard.md" >}}) | 1942 | 2318 | 83.8 | Greek <el@li.org> | 
- | [kcoloredit]({{< ref "/f35/package/kcoloredit.md" >}}) | 232 | 278 | 83.5 | Greek <kde-i18n-el@kde.org> | 
- | [libmatekbd]({{< ref "/f35/package/libmatekbd.md" >}}) | 256 | 308 | 83.1 | Greek (https://www.transifex.com/mate/teams/13566/el/) | 
- | [tracker-miners]({{< ref "/f35/package/tracker-miners.md" >}}) | 1498 | 1807 | 82.9 | Ελληνικά <> | 
- | [mate-themes]({{< ref "/f35/package/mate-themes.md" >}}) | 61 | 74 | 82.4 | Greek (http://www.transifex.com/mate/MATE/language/el/) | 
- | [kalendar]({{< ref "/f35/package/kalendar.md" >}}) | 799 | 970 | 82.4 | Greek <kde-i18n-el@kde.org> | 
- | [asunder]({{< ref "/f35/package/asunder.md" >}}) | 405 | 492 | 82.3 | <LL@li.org> | 
- | [chromium]({{< ref "/f35/package/chromium.md" >}}) | 10854 | 13218 | 82.1 | www.gnome.gr | 
- | [gtk4]({{< ref "/f35/package/gtk4.md" >}}) | 10854 | 13218 | 82.1 | www.gnome.gr | 
- | [girara]({{< ref "/f35/package/girara.md" >}}) | 173 | 211 | 82.0 | Greek (http://www.transifex.com/pwmt/girara/language/el/) | 
- | [supertux]({{< ref "/f35/package/supertux.md" >}}) | 2497 | 3056 | 81.7 | Greek (http://www.transifex.com/arctic-games/supertux/language/el/) | 
- | [kscreen]({{< ref "/f35/package/kscreen.md" >}}) | 312 | 382 | 81.7 | Greek <kde-i18n-el@kde.org> | 
- | [maliit-keyboard]({{< ref "/f35/package/maliit-keyboard.md" >}}) | 66 | 81 | 81.5 |  | 
- | [frozen-bubble]({{< ref "/f35/package/frozen-bubble.md" >}}) | 567 | 698 | 81.2 | Greek | 
- | [findutils]({{< ref "/f35/package/findutils.md" >}}) | 2146 | 2649 | 81.0 | Greek <team@lists.gnome.gr> | 
- | [warzone2100]({{< ref "/f35/package/warzone2100.md" >}}) | 12641 | 15617 | 80.9 | Greek | 
- | [libfm]({{< ref "/f35/package/libfm.md" >}}) | 1270 | 1575 | 80.6 |  | 
- | [kf5-mailcommon]({{< ref "/f35/package/kf5-mailcommon.md" >}}) | 2392 | 2969 | 80.6 | Greek <kde-i18n-el@kde.org> | 
- | [shared-mime-info]({{< ref "/f35/package/shared-mime-info.md" >}}) | 1653 | 2058 | 80.3 | Greek (http://www.transifex.com/freedesktop/shared-mime-info/language/el/) | 
- | [kf5-ktexteditor]({{< ref "/f35/package/kf5-ktexteditor.md" >}}) | 7020 | 8877 | 79.1 | Greek <kde-i18n-el@kde.org> | 
- | [gnome-do]({{< ref "/f35/package/gnome-do.md" >}}) | 483 | 612 | 78.9 | Greek <el@li.org> | 
- | [gstreamer1]({{< ref "/f35/package/gstreamer1.md" >}}) | 1726 | 2192 | 78.7 | Greek <team@lists.gnome.gr> | 
- | [mingw-gstreamer1]({{< ref "/f35/package/mingw-gstreamer1.md" >}}) | 1726 | 2192 | 78.7 | Greek <team@lists.gnome.gr> | 
- | [tigervnc]({{< ref "/f35/package/tigervnc.md" >}}) | 548 | 697 | 78.6 | Greek <team@lists.gnome.gr> | 
- | [thunar-vcs-plugin]({{< ref "/f35/package/thunar-vcs-plugin.md" >}}) | 466 | 595 | 78.3 | Greek (http://www.transifex.com/xfce/thunar-plugins/language/el/) | 
- | [xfce4-mpc-plugin]({{< ref "/f35/package/xfce4-mpc-plugin.md" >}}) | 61 | 78 | 78.2 | Greek (http://www.transifex.com/xfce/xfce-panel-plugins/language/el/) | 
- | [mate-panel]({{< ref "/f35/package/mate-panel.md" >}}) | 5255 | 6720 | 78.2 | Greek (https://www.transifex.com/mate/teams/13566/el/) | 
- | [gnome-phone-manager]({{< ref "/f35/package/gnome-phone-manager.md" >}}) | 399 | 513 | 77.8 | **Greek** <**team@gnome.gr**> | 
- | [efl]({{< ref "/f35/package/efl.md" >}}) | 121 | 156 | 77.6 | Ελληνικά, Σύγχρονα <opensuse-translation-el@opensuse.org> | 
- | [celestia]({{< ref "/f35/package/celestia.md" >}}) | 2044 | 2640 | 77.4 | Hellenic <ckouz@uom.gr> | 
- | [gnome-break-timer]({{< ref "/f35/package/gnome-break-timer.md" >}}) | 461 | 596 | 77.3 | www.gnome.gr | 
- | [gnome-software]({{< ref "/f35/package/gnome-software.md" >}}) | 3286 | 4249 | 77.3 | Greek, Modern (1453-) <gnome-el-list@gnome.org> | 
- | [elisa-player]({{< ref "/f35/package/elisa-player.md" >}}) | 522 | 676 | 77.2 | Greek <kde-i18n-el@kde.org> | 
- | [libksysguard]({{< ref "/f35/package/libksysguard.md" >}}) | 2968 | 3859 | 76.9 | Greek <kde-i18n-el@kde.org> | 
- | [menulibre]({{< ref "/f35/package/menulibre.md" >}}) | 670 | 873 | 76.7 | Greek <el@li.org> | 
- | [cairo-dock-plug-ins]({{< ref "/f35/package/cairo-dock-plug-ins.md" >}}) | 7790 | 10203 | 76.4 | Greek <el@li.org> | 
- | [shadow-utils]({{< ref "/f35/package/shadow-utils.md" >}}) | 3568 | 4677 | 76.3 | Greek <debian-l10n-greek@lists.debian.org> | 
- | [gramps]({{< ref "/f35/package/gramps.md" >}}) | 30447 | 39917 | 76.3 | Greek <zissis@mail.com> | 
- | [kf5-kio]({{< ref "/f35/package/kf5-kio.md" >}}) | 9055 | 11908 | 76.0 | Greek <kde-i18n-el@kde.org> | 
- | [kmymoney]({{< ref "/f35/package/kmymoney.md" >}}) | 16784 | 22091 | 76.0 | Greek <kde-i18n-doc@kde.org> | 
- | [kf5-kunitconversion]({{< ref "/f35/package/kf5-kunitconversion.md" >}}) | 4371 | 5757 | 75.9 | Greek <kde-i18n-el@kde.org> | 
- | [gscan2pdf]({{< ref "/f35/package/gscan2pdf.md" >}}) | 1385 | 1840 | 75.3 | Greek <el@li.org> | 
- | [radeontop]({{< ref "/f35/package/radeontop.md" >}}) | 152 | 202 | 75.2 | Greek <el@li.org> | 
- | [mate-user-guide]({{< ref "/f35/package/mate-user-guide.md" >}}) | 32289 | 42969 | 75.1 | Greek (https://www.transifex.com/mate/teams/13566/el/) | 
- | [python-sphinx]({{< ref "/f35/package/python-sphinx.md" >}}) | 3593 | 4793 | 75.0 | Greek (http://www.transifex.com/sphinx-doc/sphinx-1/language/el/) | 
- | [xfce4-sensors-plugin]({{< ref "/f35/package/xfce4-sensors-plugin.md" >}}) | 322 | 433 | 74.4 | Greek (http://www.transifex.com/xfce/xfce-panel-plugins/language/el/) | 
- | [xarchiver]({{< ref "/f35/package/xarchiver.md" >}}) | 900 | 1214 | 74.1 | Greek <nls@tux.hellug.gr> | 
- | [kmail]({{< ref "/f35/package/kmail.md" >}}) | 6856 | 9255 | 74.1 | Greek <kde-i18n-el@kde.org> | 
- | [elementary-music]({{< ref "/f35/package/elementary-music.md" >}}) | 892 | 1205 | 74.0 | Greek <https://weblate.elementary.io/projects/music/music/el/> | 
- | [caja-extensions]({{< ref "/f35/package/caja-extensions.md" >}}) | 559 | 760 | 73.6 | Greek (https://www.transifex.com/mate/teams/13566/el/) | 
- | [calls]({{< ref "/f35/package/calls.md" >}}) | 127 | 173 | 73.4 | Greek <gnome-el-list@gnome.org> | 
- | [metacity]({{< ref "/f35/package/metacity.md" >}}) | 1371 | 1873 | 73.2 | Greek <team@gnome.gr> | 
- | [mate-notification-daemon]({{< ref "/f35/package/mate-notification-daemon.md" >}}) | 136 | 186 | 73.1 | Greek (https://www.transifex.com/mate/teams/13566/el/) | 
- | [wineglass]({{< ref "/f35/package/wineglass.md" >}}) | 103 | 143 | 72.0 | Greek | 
- | [compiz]({{< ref "/f35/package/compiz.md" >}}) | 3141 | 4385 | 71.6 | Greek <el@li.org> | 
- | [umbrello]({{< ref "/f35/package/umbrello.md" >}}) | 4630 | 6506 | 71.2 | Greek <kde-i18n-doc@kde.org> | 
- | [pidgin-birthday-reminder]({{< ref "/f35/package/pidgin-birthday-reminder.md" >}}) | 204 | 289 | 70.6 | Greek (http://www.transifex.com/kgraefe/pidgin-birthday-reminder/language/el/) | 
- | [geary]({{< ref "/f35/package/geary.md" >}}) | 3307 | 4685 | 70.6 | www.gnome.gr | 
- | [apt]({{< ref "/f35/package/apt.md" >}}) | 3819 | 5413 | 70.6 | Greek <debian-l10n-greek@lists.debian.org> | 
- | [sugar-write]({{< ref "/f35/package/sugar-write.md" >}}) | 85 | 121 | 70.2 | Greek <olpc@grnet.gr> | 
- | [kpilot]({{< ref "/f35/package/kpilot.md" >}}) | 4982 | 7156 | 69.6 | Greek <kde-i18n-el@kde.org> | 
- | [osmo]({{< ref "/f35/package/osmo.md" >}}) | 1226 | 1771 | 69.2 | Greek | 
- | [workrave]({{< ref "/f35/package/workrave.md" >}}) | 967 | 1398 | 69.2 | <en@li.org> | 
- | [lokalize]({{< ref "/f35/package/lokalize.md" >}}) | 2820 | 4086 | 69.0 | Greek <kde-i18n-doc@kde.org> | 
- | [mingw-wxWidgets]({{< ref "/f35/package/mingw-wxWidgets.md" >}}) | 4403 | 6391 | 68.9 | Tsolakos Stavros <tsolako1@otenet.gr>, Nassos Yiannopoulos <nassosy@compulink.gr> | 
- | [udisks2]({{< ref "/f35/package/udisks2.md" >}}) | 1506 | 2187 | 68.9 | Greek | 
- | [parole]({{< ref "/f35/package/parole.md" >}}) | 745 | 1088 | 68.5 | Greek (http://www.transifex.com/xfce/xfce-apps/language/el/) | 
- | [sylpheed]({{< ref "/f35/package/sylpheed.md" >}}) | 4922 | 7214 | 68.2 | Greek <nls@tux.hellug.gr> | 
- | [isoimagewriter]({{< ref "/f35/package/isoimagewriter.md" >}}) | 266 | 390 | 68.2 | Greek <kde-i18n-el@kde.org> | 
- | [xfce4-clipman-plugin]({{< ref "/f35/package/xfce4-clipman-plugin.md" >}}) | 362 | 531 | 68.2 | Greek (http://www.transifex.com/xfce/xfce-panel-plugins/language/el/) | 
- | [kf5-kdeclarative]({{< ref "/f35/package/kf5-kdeclarative.md" >}}) | 107 | 157 | 68.2 | Greek <kde-i18n-el@kde.org> | 
- | [plasma-nm]({{< ref "/f35/package/plasma-nm.md" >}}) | 3504 | 5221 | 67.1 | Greek <kde-i18n-el@kde.org> | 
- | [gcolor3]({{< ref "/f35/package/gcolor3.md" >}}) | 40 | 60 | 66.7 | Greek | 
- | [tuxpaint]({{< ref "/f35/package/tuxpaint.md" >}}) | 1521 | 2286 | 66.5 |  | 
- | [glib2]({{< ref "/f35/package/glib2.md" >}}) | 4952 | 7465 | 66.3 | www.gnome.gr | 
- | [mingw-glib2]({{< ref "/f35/package/mingw-glib2.md" >}}) | 4952 | 7465 | 66.3 | www.gnome.gr | 
- | [freedink]({{< ref "/f35/package/freedink.md" >}}) | 174 | 263 | 66.2 | Greek <team@lists.gnome.gr> | 
- | [elementary-photos]({{< ref "/f35/package/elementary-photos.md" >}}) | 2653 | 4011 | 66.1 | Greek <https://weblate.elementary.io/projects/photos/photos/el/> | 
- | [hello]({{< ref "/f35/package/hello.md" >}}) | 123 | 186 | 66.1 | Greek <team@lists.gnome.gr> | 
- | [pulsecaster]({{< ref "/f35/package/pulsecaster.md" >}}) | 140 | 214 | 65.4 | Greek (http://www.transifex.com/stickster/pulsecaster/language/el/) | 
- | [initscripts]({{< ref "/f35/package/initscripts.md" >}}) | 731 | 1118 | 65.4 | Greek <trans-el@lists.fedoraproject.org> | 
- | [wike]({{< ref "/f35/package/wike.md" >}}) | 252 | 390 | 64.6 |  | 
- | [zypper]({{< ref "/f35/package/zypper.md" >}}) | 5955 | 9243 | 64.4 | Greek <https://l10n.opensuse.org/projects/zypper/master/el/> | 
- | [gstreamer1-plugins-base]({{< ref "/f35/package/gstreamer1-plugins-base.md" >}}) | 655 | 1037 | 63.2 | Greek <team@lists.gnome.gr> | 
- | [mingw-gstreamer1-plugins-base]({{< ref "/f35/package/mingw-gstreamer1-plugins-base.md" >}}) | 655 | 1037 | 63.2 | Greek <team@lists.gnome.gr> | 
- | [python-nikola]({{< ref "/f35/package/python-nikola.md" >}}) | 59 | 94 | 62.8 | Greek (http://www.transifex.com/ralsina/nikola/language/el/) | 
- | [lxterminal]({{< ref "/f35/package/lxterminal.md" >}}) | 132 | 212 | 62.3 | Greek | 
- | [snapper]({{< ref "/f35/package/snapper.md" >}}) | 678 | 1095 | 61.9 | Greek <https://l10n.opensuse.org/projects/snapper/master/el/> | 
- | [libxfce4ui]({{< ref "/f35/package/libxfce4ui.md" >}}) | 589 | 957 | 61.5 | Greek (http://www.transifex.com/xfce/libxfce4ui/language/el/) | 
- | [xfpanel-switch]({{< ref "/f35/package/xfpanel-switch.md" >}}) | 62 | 101 | 61.4 | Greek <el@li.org> | 
- | [xfe]({{< ref "/f35/package/xfe.md" >}}) | 3757 | 6127 | 61.3 |  | 
- | [hexchat]({{< ref "/f35/package/hexchat.md" >}}) | 3637 | 5971 | 60.9 | Greek (http://www.transifex.com/hexchat/hexchat/language/el/) | 
- | [plasma-desktop]({{< ref "/f35/package/plasma-desktop.md" >}}) | 4743 | 7853 | 60.4 | Greek <kde-i18n-el@kde.org> | 
- | [pipewire-media-session]({{< ref "/f35/package/pipewire-media-session.md" >}}) | 3 | 5 | 60.0 | team@lists.gnome.gr | 
- | [tuxmath]({{< ref "/f35/package/tuxmath.md" >}}) | 869 | 1455 | 59.7 | Giannis Konstantinidis <gloooabvoe9a@gmail.com> | 
- | [xournalpp]({{< ref "/f35/package/xournalpp.md" >}}) | 2400 | 4034 | 59.5 | Greek | 
- | [kf5-kwidgetsaddons]({{< ref "/f35/package/kf5-kwidgetsaddons.md" >}}) | 773 | 1304 | 59.3 | Greek <kde-i18n-el@kde.org> | 
- | [calligraplan]({{< ref "/f35/package/calligraplan.md" >}}) | 5881 | 9943 | 59.1 | Greek <kde-i18n-el@kde.org> | 
- | [enigma]({{< ref "/f35/package/enigma.md" >}}) | 5340 | 9031 | 59.1 | Greek (http://www.transifex.com/projects/p/enigma/language/el/) | 
- | [plasma-workspace]({{< ref "/f35/package/plasma-workspace.md" >}}) | 6648 | 11252 | 59.1 | Greek <kde-i18n-el@kde.org> | 
- | [kdeplasma-addons]({{< ref "/f35/package/kdeplasma-addons.md" >}}) | 903 | 1540 | 58.6 | Greek <kde-i18n-el@kde.org> | 
- | [Zim]({{< ref "/f35/package/Zim.md" >}}) | 1978 | 3386 | 58.4 | Greek <https://hosted.weblate.org/projects/zim/master/el/> | 
- | [xfce4-docklike-plugin]({{< ref "/f35/package/xfce4-docklike-plugin.md" >}}) | 77 | 132 | 58.3 | EL | 
- | [mate-terminal]({{< ref "/f35/package/mate-terminal.md" >}}) | 4877 | 8386 | 58.2 | Greek (https://www.transifex.com/mate/teams/13566/el/) | 
- | [lyx]({{< ref "/f35/package/lyx.md" >}}) | 14858 | 25702 | 57.8 | LyX team <lyx-docs@lists.lyx.org> | 
- | [quodlibet]({{< ref "/f35/package/quodlibet.md" >}}) | 4438 | 7686 | 57.7 | Greek <https://hosted.weblate.org/projects/quodlibet/quodlibet/el/> | 
- | [blueman]({{< ref "/f35/package/blueman.md" >}}) | 1075 | 1863 | 57.7 | Greek <https://hosted.weblate.org/projects/blueman/blueman/el/> | 
- | [cairo-dock]({{< ref "/f35/package/cairo-dock.md" >}}) | 4297 | 7464 | 57.6 | Greek | 
- | [python-django-robots]({{< ref "/f35/package/python-django-robots.md" >}}) | 122 | 212 | 57.5 | Greek (http://www.transifex.com/projects/p/django-robots/language/el/) | 
- | [pulseaudio]({{< ref "/f35/package/pulseaudio.md" >}}) | 2156 | 3752 | 57.5 | team@lists.gnome.gr | 
- | [geeqie]({{< ref "/f35/package/geeqie.md" >}}) | 3092 | 5446 | 56.8 | Greek <231036448@freemail.gr> | 
- | [lxrandr]({{< ref "/f35/package/lxrandr.md" >}}) | 94 | 167 | 56.3 | Greek <LL@li.org> | 
- | [gpodder]({{< ref "/f35/package/gpodder.md" >}}) | 1247 | 2221 | 56.1 | Greek (http://www.transifex.com/projects/p/gpodder/language/el/) | 
- | [mate-power-manager]({{< ref "/f35/package/mate-power-manager.md" >}}) | 2872 | 5119 | 56.1 | Greek (https://www.transifex.com/mate/teams/13566/el/) | 
- | [krecorder]({{< ref "/f35/package/krecorder.md" >}}) | 54 | 97 | 55.7 | Greek <kde-i18n-el@kde.org> | 
- | [aria2]({{< ref "/f35/package/aria2.md" >}}) | 4151 | 7486 | 55.5 | Greek <el@li.org> | 
- | [trac]({{< ref "/f35/package/trac.md" >}}) | 7185 | 13156 | 54.6 | Greek (http://www.transifex.com/projects/p/trac/language/el/) | 
- | [mate-applets]({{< ref "/f35/package/mate-applets.md" >}}) | 8693 | 15957 | 54.5 | Greek (https://www.transifex.com/mate/teams/13566/el/) | 
- | [gstreamer1-plugins-good]({{< ref "/f35/package/gstreamer1-plugins-good.md" >}}) | 450 | 831 | 54.2 | Greek <team@lists.gnome.gr> | 
- | [mingw-gstreamer1-plugins-good]({{< ref "/f35/package/mingw-gstreamer1-plugins-good.md" >}}) | 450 | 831 | 54.2 | Greek <team@lists.gnome.gr> | 
- | [skychart]({{< ref "/f35/package/skychart.md" >}}) | 3505 | 6487 | 54.0 |  | 
- | [marble]({{< ref "/f35/package/marble.md" >}}) | 6062 | 11477 | 52.8 | Greek <kde-i18n-el@kde.org> | 
- | [gnome-usage]({{< ref "/f35/package/gnome-usage.md" >}}) | 134 | 254 | 52.8 | Ελληνικά <> | 
- | [mutt]({{< ref "/f35/package/mutt.md" >}}) | 3536 | 6706 | 52.7 | Greek <EL@li.org> | 
- | [kphotoalbum]({{< ref "/f35/package/kphotoalbum.md" >}}) | 4927 | 9389 | 52.5 | Greek <kde-i18n-el@kde.org> | 
- | [kwin]({{< ref "/f35/package/kwin.md" >}}) | 2949 | 5639 | 52.3 | Greek <kde-i18n-el@kde.org> | 
- | [WindowMaker]({{< ref "/f35/package/WindowMaker.md" >}}) | 1043 | 1995 | 52.3 | Greek | 
- | [dia]({{< ref "/f35/package/dia.md" >}}) | 3442 | 6601 | 52.1 | Greek <team@gnome.gr> | 
- | [sed]({{< ref "/f35/package/sed.md" >}}) | 432 | 830 | 52.0 | Greek <team@lists.gnome.gr> | 
- | [zabbix]({{< ref "/f35/package/zabbix.md" >}}) | 8695 | 16781 | 51.8 | none | 
- | [polari]({{< ref "/f35/package/polari.md" >}}) | 1048 | 2026 | 51.7 | Ελληνικά <> | 
- | [enlightenment]({{< ref "/f35/package/enlightenment.md" >}}) | 4668 | 9053 | 51.6 | Ελληνικά, Σύγχρονα <opensuse-translation-el@opensuse.org> | 
- | [mate-utils]({{< ref "/f35/package/mate-utils.md" >}}) | 5172 | 10060 | 51.4 | Greek (https://www.transifex.com/mate/teams/13566/el/) | 
- | [gnupg1]({{< ref "/f35/package/gnupg1.md" >}}) | 4440 | 8640 | 51.4 | Greek <nls@tux.hellug.gr> | 
- | [kf5-pimcommon]({{< ref "/f35/package/kf5-pimcommon.md" >}}) | 649 | 1266 | 51.3 | Greek <kde-i18n-el@kde.org> | 
- | [spacefm]({{< ref "/f35/package/spacefm.md" >}}) | 4444 | 8722 | 51.0 | Greek (http://www.transifex.com/projects/p/spacefm/language/el/) | 
- | [kscreenlocker]({{< ref "/f35/package/kscreenlocker.md" >}}) | 114 | 224 | 50.9 | Greek <kde-i18n-el@kde.org> | 
- | [grub-customizer]({{< ref "/f35/package/grub-customizer.md" >}}) | 640 | 1295 | 49.4 | Greek <el@li.org> | 
- | [mlocate]({{< ref "/f35/package/mlocate.md" >}}) | 286 | 581 | 49.2 | Greek <trans-el@lists.fedoraproject.org> | 
- | [phodav]({{< ref "/f35/package/phodav.md" >}}) | 31 | 63 | 49.2 | team@lists.gnome.gr | 
- | [gimagereader]({{< ref "/f35/package/gimagereader.md" >}}) | 886 | 1817 | 48.8 | Greek <https://hosted.weblate.org/projects/gimagereader/translations/el/> | 
- | [galculator]({{< ref "/f35/package/galculator.md" >}}) | 454 | 935 | 48.6 | Greek (http://www.transifex.com/mate/MATE/language/el/) | 
- | [lightdm]({{< ref "/f35/package/lightdm.md" >}}) | 79 | 163 | 48.5 | Greek <el@li.org> | 
- | [mingw-wxWidgets3]({{< ref "/f35/package/mingw-wxWidgets3.md" >}}) | 3719 | 7695 | 48.3 | Tsolakos Stavros <tsolako1@otenet.gr>, Nassos Yiannopoulos <nassosy@compulink.gr> | 
- | [python-wxpython4]({{< ref "/f35/package/python-wxpython4.md" >}}) | 3719 | 7695 | 48.3 | Tsolakos Stavros <tsolako1@otenet.gr>, Nassos Yiannopoulos <nassosy@compulink.gr> | 
- | [wxGTK3]({{< ref "/f35/package/wxGTK3.md" >}}) | 3719 | 7695 | 48.3 | Tsolakos Stavros <tsolako1@otenet.gr>, Nassos Yiannopoulos <nassosy@compulink.gr> | 
- | [gnome-builder]({{< ref "/f35/package/gnome-builder.md" >}}) | 2531 | 5239 | 48.3 | Greek <team@lists.gnome.gr> | 
- | [simple-scan]({{< ref "/f35/package/simple-scan.md" >}}) | 1115 | 2323 | 48.0 | Greek, Modern (1453-) <gnome-el-list@gnome.org> | 
- | [mc]({{< ref "/f35/package/mc.md" >}}) | 2086 | 4350 | 48.0 | Greek (http://www.transifex.com/mc/mc/language/el/) | 
- | [kf5-libksieve]({{< ref "/f35/package/kf5-libksieve.md" >}}) | 1616 | 3380 | 47.8 | Greek <kde-i18n-el@kde.org> | 
- | [plasma-drkonqi]({{< ref "/f35/package/plasma-drkonqi.md" >}}) | 934 | 1966 | 47.5 | Greek <kde-i18n-el@kde.org> | 
- | [gnome-font-viewer]({{< ref "/f35/package/gnome-font-viewer.md" >}}) | 253 | 536 | 47.2 | Greek, Modern (1453-) <team@gnome.gr> | 
- | [springlobby]({{< ref "/f35/package/springlobby.md" >}}) | 2136 | 4570 | 46.7 | Greek <el@li.org> | 
- | [visualboyadvance-m]({{< ref "/f35/package/visualboyadvance-m.md" >}}) | 2228 | 4786 | 46.6 | Greek (Greece) (http://www.transifex.com/bgk/vba-m/language/el_GR/) | 
- | [pantheon-agent-geoclue2]({{< ref "/f35/package/pantheon-agent-geoclue2.md" >}}) | 47 | 101 | 46.5 | LANGUAGE <LL@li.org> | 
- | [kf5-kcalendarutils]({{< ref "/f35/package/kf5-kcalendarutils.md" >}}) | 683 | 1475 | 46.3 | Greek <kde-i18n-el@kde.org> | 
- | [wingpanel-indicator-session]({{< ref "/f35/package/wingpanel-indicator-session.md" >}}) | 50 | 108 | 46.3 | Greek <https://weblate.elementary.io/projects/wingpanel/wingpanel-indicator-session/el/> | 
- | [deluge]({{< ref "/f35/package/deluge.md" >}}) | 2003 | 4340 | 46.2 | Greek <el@li.org> | 
- | [wingpanel-indicator-power]({{< ref "/f35/package/wingpanel-indicator-power.md" >}}) | 86 | 191 | 45.0 | LANGUAGE <LL@li.org> | 
- | [fldigi]({{< ref "/f35/package/fldigi.md" >}}) | 3681 | 8190 | 44.9 | Greek (Haris Andrianos) <sv1grb@gmail.com> | 
- | [recode]({{< ref "/f35/package/recode.md" >}}) | 342 | 761 | 44.9 | Greek <team@lists.gnome.gr> | 
- | [libnma]({{< ref "/f35/package/libnma.md" >}}) | 412 | 917 | 44.9 | team@lists.gnome.gr | 
- | [wxGTK]({{< ref "/f35/package/wxGTK.md" >}}) | 3486 | 7815 | 44.6 | Tsolakos Stavros <tsolako1@otenet.gr>, Nassos Yiannopoulos <nassosy@compulink.gr> | 
- | [xdg-desktop-portal-kde]({{< ref "/f35/package/xdg-desktop-portal-kde.md" >}}) | 110 | 247 | 44.5 | Greek <kde-i18n-el@kde.org> | 
- | [zathura]({{< ref "/f35/package/zathura.md" >}}) | 332 | 747 | 44.4 | Greek (http://www.transifex.com/pwmt/zathura/language/el/) | 
- | [elementary-screenshot-tool]({{< ref "/f35/package/elementary-screenshot-tool.md" >}}) | 110 | 248 | 44.4 | LANGUAGE <LL@li.org> | 
- | [sos]({{< ref "/f35/package/sos.md" >}}) | 54 | 122 | 44.3 | Greek <trans-el@lists.fedoraproject.org> | 
- | [grisbi]({{< ref "/f35/package/grisbi.md" >}}) | 6375 | 14496 | 44.0 | KASKAS <ttnfy17@yahoo.gr> | 
- | [totem]({{< ref "/f35/package/totem.md" >}}) | 1402 | 3202 | 43.8 | Ελληνικά <> | 
- | [vdr]({{< ref "/f35/package/vdr.md" >}}) | 593 | 1373 | 43.2 | Greek <vdr@linuxtv.org> | 
- | [compiz-plugins-experimental]({{< ref "/f35/package/compiz-plugins-experimental.md" >}}) | 1930 | 4473 | 43.1 | Greek <el@li.org> | 
- | [xfce4-cpugraph-plugin]({{< ref "/f35/package/xfce4-cpugraph-plugin.md" >}}) | 78 | 181 | 43.1 | Greek (http://www.transifex.com/xfce/xfce-panel-plugins/language/el/) | 
- | [NetworkManager-openconnect]({{< ref "/f35/package/NetworkManager-openconnect.md" >}}) | 2723 | 6362 | 42.8 | team@gnome.gr | 
- | [lollypop]({{< ref "/f35/package/lollypop.md" >}}) | 615 | 1437 | 42.8 | Greek <https://hosted.weblate.org/projects/gnumdk/lollypop/el/> | 
- | [python-django-rest-framework]({{< ref "/f35/package/python-django-rest-framework.md" >}}) | 548 | 1284 | 42.7 | Greek (Greece) (http://www.transifex.com/django-rest-framework-1/django-rest-framework/language/el_GR/) | 
- | [fuse-encfs]({{< ref "/f35/package/fuse-encfs.md" >}}) | 545 | 1289 | 42.3 | Greek <el@li.org> | 
- | [mate-control-center]({{< ref "/f35/package/mate-control-center.md" >}}) | 3479 | 8248 | 42.2 | Greek (https://www.transifex.com/mate/teams/13566/el/) | 
- | [rednotebook]({{< ref "/f35/package/rednotebook.md" >}}) | 483 | 1147 | 42.1 | Greek <el@li.org> | 
- | [quassel]({{< ref "/f35/package/quassel.md" >}}) | 3493 | 8362 | 41.8 | Greek (http://www.transifex.com/quassel/quassel/language/el/) | 
- | [switchboard-plug-networking]({{< ref "/f35/package/switchboard-plug-networking.md" >}}) | 222 | 532 | 41.7 | Greek <https://l10n.elementary.io/projects/switchboard/switchboard-plug-networking/el/> | 
- | [cozy]({{< ref "/f35/package/cozy.md" >}}) | 423 | 1026 | 41.2 | Greek (https://www.transifex.com/geigi/teams/78138/el/) | 
- | [eiskaltdcpp]({{< ref "/f35/package/eiskaltdcpp.md" >}}) | 1490 | 3626 | 41.1 | Greek (https://www.transifex.com/tehnick/teams/11818/el/) | 
- | [gambas3]({{< ref "/f35/package/gambas3.md" >}}) | 2954 | 7233 | 40.8 | LANGUAGE <LL@li.org> | 
- | [deepin-daemon]({{< ref "/f35/package/deepin-daemon.md" >}}) | 926 | 2274 | 40.7 | Greek (Greece) (http://www.transifex.com/linuxdeepin/deepin-desktop-environment/language/el_GR/) | 
- | [pluma]({{< ref "/f35/package/pluma.md" >}}) | 5308 | 13113 | 40.5 | Greek (https://www.transifex.com/mate/teams/13566/el/) | 
- | [eom]({{< ref "/f35/package/eom.md" >}}) | 2006 | 4961 | 40.4 | Greek (https://www.transifex.com/mate/teams/13566/el/) | 
- | [gtk-gnutella]({{< ref "/f35/package/gtk-gnutella.md" >}}) | 6939 | 17295 | 40.1 | Greek (http://www.transifex.com/gtk-gnutella/gtk-gnutella/language/el/) | 
- | [ksudoku]({{< ref "/f35/package/ksudoku.md" >}}) | 700 | 1746 | 40.1 | Greek <kde-i18n-el@kde.org> | 
- | [kcachegrind]({{< ref "/f35/package/kcachegrind.md" >}}) | 1736 | 4367 | 39.8 | Greek <kde-i18n-doc@kde.org> | 
- | [soundconverter]({{< ref "/f35/package/soundconverter.md" >}}) | 201 | 507 | 39.6 | Greek <el@li.org> | 
- | [latte-dock]({{< ref "/f35/package/latte-dock.md" >}}) | 1397 | 3526 | 39.6 | Greek <kde-i18n-el@kde.org> | 
- | [gnome-shell-extension-openweather]({{< ref "/f35/package/gnome-shell-extension-openweather.md" >}}) | 238 | 601 | 39.6 |  | 
- | [terminology]({{< ref "/f35/package/terminology.md" >}}) | 385 | 982 | 39.2 | Greek <https://hosted.weblate.org/projects/terminology/terminology/el/> | 
- | [switchboard]({{< ref "/f35/package/switchboard.md" >}}) | 58 | 148 | 39.2 | Greek <el@li.org> | 
- | [systemd]({{< ref "/f35/package/systemd.md" >}}) | 590 | 1506 | 39.2 | team@lists.gnome.gr | 
- | [mate-calc]({{< ref "/f35/package/mate-calc.md" >}}) | 1300 | 3323 | 39.1 | Greek (https://www.transifex.com/mate/teams/13566/el/) | 
- | [jmol]({{< ref "/f35/package/jmol.md" >}}) | 1238 | 3166 | 39.1 | Greek <el@li.org> | 
- | [stardict]({{< ref "/f35/package/stardict.md" >}}) | 1184 | 3035 | 39.0 |  | 
- | [giac]({{< ref "/f35/package/giac.md" >}}) | 3214 | 8239 | 39.0 | LANGUAGE <LL@li.org> | 
- | [openconnect]({{< ref "/f35/package/openconnect.md" >}}) | 2609 | 6727 | 38.8 | team@gnome.gr | 
- | [xkeyboard-config]({{< ref "/f35/package/xkeyboard-config.md" >}}) | 1524 | 3932 | 38.8 | Greek <team@lists.gnome.gr> | 
- | [liferea]({{< ref "/f35/package/liferea.md" >}}) | 848 | 2216 | 38.3 | <team@gnome.gr> | 
- | [digikam]({{< ref "/f35/package/digikam.md" >}}) | 21848 | 58022 | 37.7 | Greek <kde-i18n-el@kde.org> | 
- | [remmina]({{< ref "/f35/package/remmina.md" >}}) | 1964 | 5272 | 37.3 | Greek <https://hosted.weblate.org/projects/remmina/remmina/el/> | 
- | [gstreamer1-plugins-bad-free]({{< ref "/f35/package/gstreamer1-plugins-bad-free.md" >}}) | 73 | 197 | 37.1 | Greek <team@lists.gnome.gr> | 
- | [mingw-gstreamer1-plugins-bad-free]({{< ref "/f35/package/mingw-gstreamer1-plugins-bad-free.md" >}}) | 73 | 197 | 37.1 | Greek <team@lists.gnome.gr> | 
- | [kdevelop]({{< ref "/f35/package/kdevelop.md" >}}) | 4215 | 11386 | 37.0 | Greek <kde-i18n-el@kde.org> | 
- | [kgoldrunner]({{< ref "/f35/package/kgoldrunner.md" >}}) | 10251 | 28011 | 36.6 | Greek <kde-i18n-el@kde.org> | 
- | [sawfish]({{< ref "/f35/package/sawfish.md" >}}) | 2349 | 6443 | 36.5 | Greek <nls@tux.hellug.gr> | 
- | [dpkg]({{< ref "/f35/package/dpkg.md" >}}) | 4289 | 11825 | 36.3 | Greek <debian-l10n-greek@lists.debian.org> | 
- | [NetworkManager-fortisslvpn]({{< ref "/f35/package/NetworkManager-fortisslvpn.md" >}}) | 117 | 323 | 36.2 | Greek <team@gnome.gr> | 
- | [pragha]({{< ref "/f35/package/pragha.md" >}}) | 322 | 890 | 36.2 | Greek (http://www.transifex.com/p/Pragha/language/el/) | 
- | [grantlee-editor]({{< ref "/f35/package/grantlee-editor.md" >}}) | 51 | 141 | 36.2 | Greek <kde-i18n-el@kde.org> | 
- | [kdevelop-php]({{< ref "/f35/package/kdevelop-php.md" >}}) | 191 | 529 | 36.1 | Greek <kde-i18n-el@kde.org> | 
- | [NetworkManager-openvpn]({{< ref "/f35/package/NetworkManager-openvpn.md" >}}) | 711 | 1976 | 36.0 | team@gnome.gr | 
- | [chrome-gnome-shell]({{< ref "/f35/package/chrome-gnome-shell.md" >}}) | 109 | 308 | 35.4 |  | 
- | [flare]({{< ref "/f35/package/flare.md" >}}) | 3202 | 9076 | 35.3 | Greek (https://www.transifex.com/flareorg/teams/84925/el/) | 
- | [dconf-editor]({{< ref "/f35/package/dconf-editor.md" >}}) | 1042 | 2955 | 35.3 | Greek, Modern (1453-) <opensuse-translation-el@opensuse.org> | 
- | [terminator]({{< ref "/f35/package/terminator.md" >}}) | 507 | 1450 | 35.0 | Greek (https://www.transifex.com/terminator/teams/109338/el/) | 
- | [elementary-calendar]({{< ref "/f35/package/elementary-calendar.md" >}}) | 308 | 888 | 34.7 | Greek <el@li.org> | 
- | [mate-system-monitor]({{< ref "/f35/package/mate-system-monitor.md" >}}) | 1644 | 4847 | 33.9 | Greek (https://www.transifex.com/mate/teams/13566/el/) | 
- | [gpx-viewer]({{< ref "/f35/package/gpx-viewer.md" >}}) | 36 | 108 | 33.3 | Greek <el@li.org> | 
- | [gnucash]({{< ref "/f35/package/gnucash.md" >}}) | 12467 | 37511 | 33.2 | Greek <https://hosted.weblate.org/projects/gnucash/gnucash/el/> | 
- | [switchboard-plug-keyboard]({{< ref "/f35/package/switchboard-plug-keyboard.md" >}}) | 211 | 636 | 33.2 | Greek <https://l10n.elementary.io/projects/switchboard/switchboard-plug-keyboard/el/> | 
- | [NetworkManager-sstp]({{< ref "/f35/package/NetworkManager-sstp.md" >}}) | 273 | 834 | 32.7 | Greek <team@gnome.gr> | 
- | [kdesvn]({{< ref "/f35/package/kdesvn.md" >}}) | 1607 | 4937 | 32.6 | Greek <kde-i18n-el@kde.org> | 
- | [network-manager-applet]({{< ref "/f35/package/network-manager-applet.md" >}}) | 1384 | 4304 | 32.2 | team@lists.gnome.gr | 
- | [okteta]({{< ref "/f35/package/okteta.md" >}}) | 816 | 2538 | 32.2 | Greek <kde-i18n-el@kde.org> | 
- | [avogadro2]({{< ref "/f35/package/avogadro2.md" >}}) | 149 | 464 | 32.1 | Greek <el@li.org> | 
- | [pgadmin3]({{< ref "/f35/package/pgadmin3.md" >}}) | 7406 | 23289 | 31.8 | pgAdmin Developers <pgadmin-hackers@postgresql.org> | 
- | [shutter]({{< ref "/f35/package/shutter.md" >}}) | 983 | 3093 | 31.8 | Greek <el@li.org> | 
- | [wingpanel]({{< ref "/f35/package/wingpanel.md" >}}) | 6 | 19 | 31.6 | LANGUAGE <LL@li.org> | 
- | [cgit]({{< ref "/f35/package/cgit.md" >}}) | 9779 | 31237 | 31.3 | Greek <i18n@lists.hellug.gr> | 
- | [git]({{< ref "/f35/package/git.md" >}}) | 9779 | 31237 | 31.3 | Greek <i18n@lists.hellug.gr> | 
- | [git-cinnabar]({{< ref "/f35/package/git-cinnabar.md" >}}) | 9779 | 31237 | 31.3 | Greek <i18n@lists.hellug.gr> | 
- | [balsa]({{< ref "/f35/package/balsa.md" >}}) | 5855 | 18757 | 31.2 | team@gnome.gr | 
- | [lightdm-gtk]({{< ref "/f35/package/lightdm-gtk.md" >}}) | 27 | 89 | 30.3 | Greek <el@li.org> | 
- | [gnubik]({{< ref "/f35/package/gnubik.md" >}}) | 84 | 279 | 30.1 | Greek <anastasios.pingios@gmail.com> | 
- | [agenda]({{< ref "/f35/package/agenda.md" >}}) | 5 | 17 | 29.4 | Greek <el@li.org> | 
- | [elementary-files]({{< ref "/f35/package/elementary-files.md" >}}) | 1076 | 3669 | 29.3 | Greek <el@li.org> | 
- | [bash]({{< ref "/f35/package/bash.md" >}}) | 3409 | 11699 | 29.1 | Greek <team@lists.gnome.gr> | 
- | [sympa]({{< ref "/f35/package/sympa.md" >}}) | 10762 | 37176 | 28.9 | Ελληνικά | 
- | [pantheon-agent-polkit]({{< ref "/f35/package/pantheon-agent-polkit.md" >}}) | 16 | 56 | 28.6 | LANGUAGE <LL@li.org> | 
- | [calibre]({{< ref "/f35/package/calibre.md" >}}) | 48651 | 170474 | 28.5 | Greek (http://www.transifex.com/calibre/calibre/language/el/) | 
- | [kf5-libkleo]({{< ref "/f35/package/kf5-libkleo.md" >}}) | 493 | 1729 | 28.5 | Greek <kde-i18n-el@kde.org> | 
- | [pipewire]({{< ref "/f35/package/pipewire.md" >}}) | 183 | 647 | 28.3 | team@lists.gnome.gr | 
- | [system-config-language]({{< ref "/f35/package/system-config-language.md" >}}) | 60 | 215 | 27.9 | Greek <team@gnome.gr> | 
- | [switchboard-plug-pantheon-shell]({{< ref "/f35/package/switchboard-plug-pantheon-shell.md" >}}) | 97 | 349 | 27.8 | Greek <https://l10n.elementary.io/projects/switchboard/switchboard-plug-pantheon-shell/el/> | 
- | [switchboard-plug-applications]({{< ref "/f35/package/switchboard-plug-applications.md" >}}) | 63 | 227 | 27.8 | Greek <https://l10n.elementary.io/projects/switchboard/switchboard-plug-applications/el/> | 
- | [anope]({{< ref "/f35/package/anope.md" >}}) | 5536 | 20196 | 27.4 | Greek | 
- | [kstars]({{< ref "/f35/package/kstars.md" >}}) | 17047 | 62342 | 27.3 | Greek <kde-i18n-el@kde.org> | 
- | [tilix]({{< ref "/f35/package/tilix.md" >}}) | 659 | 2429 | 27.1 | Greek <https://hosted.weblate.org/projects/tilix/translations/el/> | 
- | [plasma-disks]({{< ref "/f35/package/plasma-disks.md" >}}) | 57 | 215 | 26.5 | Greek <kde-i18n-el@kde.org> | 
- | [firewalld]({{< ref "/f35/package/firewalld.md" >}}) | 584 | 2217 | 26.3 | Greek (http://www.transifex.com/projects/p/firewalld/language/el/) | 
- | [plasma-discover]({{< ref "/f35/package/plasma-discover.md" >}}) | 637 | 2452 | 26.0 | Greek <kde-i18n-el@kde.org> | 
- | [plasma-nano]({{< ref "/f35/package/plasma-nano.md" >}}) | 9 | 35 | 25.7 | Greek <kde-i18n-el@kde.org> | 
- | [NetworkManager-l2tp]({{< ref "/f35/package/NetworkManager-l2tp.md" >}}) | 313 | 1235 | 25.3 | team@gnome.gr | 
- | [engrampa]({{< ref "/f35/package/engrampa.md" >}}) | 1980 | 7838 | 25.3 | Greek (https://www.transifex.com/mate/teams/13566/el/) | 
- | [psad]({{< ref "/f35/package/psad.md" >}}) | 123 | 493 | 24.9 | Greek <velonis@freemail.gr> | 
- | [kf5-kpimtextedit]({{< ref "/f35/package/kf5-kpimtextedit.md" >}}) | 101 | 415 | 24.3 | Greek <kde-i18n-el@kde.org> | 
- | [wingpanel-applications-menu]({{< ref "/f35/package/wingpanel-applications-menu.md" >}}) | 101 | 415 | 24.3 | Greek <el@li.org> | 
- | [kf5-knewstuff]({{< ref "/f35/package/kf5-knewstuff.md" >}}) | 398 | 1652 | 24.1 | Greek <kde-i18n-el@kde.org> | 
- | [elementary-videos]({{< ref "/f35/package/elementary-videos.md" >}}) | 94 | 391 | 24.0 | Greek <el@li.org> | 
- | [bottles]({{< ref "/f35/package/bottles.md" >}}) | 497 | 2086 | 23.8 | Greek <https://hosted.weblate.org/projects/bottles/bottles/el/> | 
- | [pim-data-exporter]({{< ref "/f35/package/pim-data-exporter.md" >}}) | 182 | 772 | 23.6 | Greek <kde-i18n-el@kde.org> | 
- | [snapd]({{< ref "/f35/package/snapd.md" >}}) | 1012 | 4307 | 23.5 | Greek <el@li.org> | 
- | [switchboard-plug-mouse-touchpad]({{< ref "/f35/package/switchboard-plug-mouse-touchpad.md" >}}) | 64 | 282 | 22.7 | Greek <https://l10n.elementary.io/projects/switchboard/switchboard-plug-mouse-touchpad/el/> | 
- | [kbd]({{< ref "/f35/package/kbd.md" >}}) | 1081 | 4784 | 22.6 | Greek <nls@tux.hellug.gr> | 
- | [rkward]({{< ref "/f35/package/rkward.md" >}}) | 1931 | 8668 | 22.3 | en_US <kde-i18n-doc@lists.kde.org> | 
- | [im-chooser]({{< ref "/f35/package/im-chooser.md" >}}) | 55 | 253 | 21.7 | LANGUAGE <LL@li.org> | 
- | [gnome-passwordsafe]({{< ref "/f35/package/gnome-passwordsafe.md" >}}) | 146 | 715 | 20.4 | Greek, Modern (1453-) <gnome-el-list@gnome.org> | 
- | [exaile]({{< ref "/f35/package/exaile.md" >}}) | 846 | 4168 | 20.3 | Greek <https://hosted.weblate.org/projects/exaile/master/el/> | 
- | [mate-sensors-applet]({{< ref "/f35/package/mate-sensors-applet.md" >}}) | 436 | 2160 | 20.2 | Greek (https://www.transifex.com/mate/teams/13566/el/) | 
- | [deja-dup]({{< ref "/f35/package/deja-dup.md" >}}) | 671 | 3375 | 19.9 | Greek <el@li.org> | 
- | [dnfdragora]({{< ref "/f35/package/dnfdragora.md" >}}) | 343 | 1771 | 19.4 | Greek (https://www.transifex.com/MageiaLinux/teams/9361/el/) | 
- | [gnome-games]({{< ref "/f35/package/gnome-games.md" >}}) | 178 | 923 | 19.3 | Greek, Modern (1453-) <gnome-el-list@gnome.org> | 
- | [arandr]({{< ref "/f35/package/arandr.md" >}}) | 33 | 173 | 19.1 | Greek <https://hosted.weblate.org/projects/arandr/translations/el/> | 
- | [ibus-anthy]({{< ref "/f35/package/ibus-anthy.md" >}}) | 141 | 740 | 19.1 | Greek | 
- | [gummi]({{< ref "/f35/package/gummi.md" >}}) | 143 | 758 | 18.9 | EL <mydimle@gmail.com>> | 
- | [gnupg2]({{< ref "/f35/package/gnupg2.md" >}}) | 2481 | 13633 | 18.2 | team@gnome.gr | 
- | [kjots]({{< ref "/f35/package/kjots.md" >}}) | 117 | 651 | 18.0 | Greek <kde-i18n-el@kde.org> | 
- | [clamtk]({{< ref "/f35/package/clamtk.md" >}}) | 99 | 551 | 18.0 | Greek<LL@li.org> | 
- | [switchboard-plug-a11y]({{< ref "/f35/package/switchboard-plug-a11y.md" >}}) | 32 | 180 | 17.8 | LANGUAGE <LL@li.org> | 
- | [avogadro2-libs]({{< ref "/f35/package/avogadro2-libs.md" >}}) | 699 | 3976 | 17.6 | Greek <https://hosted.weblate.org/projects/avogadro/avogadrolibs/el/> | 
- | [widelands]({{< ref "/f35/package/widelands.md" >}}) | 12376 | 71321 | 17.4 | Greek (http://www.transifex.com/widelands/widelands/language/el/) | 
- | [kBuild]({{< ref "/f35/package/kBuild.md" >}}) | 240 | 1390 | 17.3 | Greek <team@lists.gnome.gr> | 
- | [switchboard-plug-display]({{< ref "/f35/package/switchboard-plug-display.md" >}}) | 31 | 182 | 17.0 | Greek <https://l10n.elementary.io/projects/switchboard/switchboard-plug-display/el/> | 
- | [krita]({{< ref "/f35/package/krita.md" >}}) | 4728 | 27889 | 17.0 | Greek <kde-i18n-el@kde.org> | 
- | [flare-engine]({{< ref "/f35/package/flare-engine.md" >}}) | 313 | 1854 | 16.9 | Greek (https://www.transifex.com/flareorg/teams/84925/el/) | 
- | [wingpanel-indicator-network]({{< ref "/f35/package/wingpanel-indicator-network.md" >}}) | 25 | 150 | 16.7 | Greek <https://weblate.elementary.io/projects/wingpanel/wingpanel-indicator-network/el/> | 
- | [elementary-code]({{< ref "/f35/package/elementary-code.md" >}}) | 261 | 1608 | 16.2 | Greek <https://l10n.elementary.io/projects/code/code/el/> | 
- | [glade2]({{< ref "/f35/package/glade2.md" >}}) | 938 | 5910 | 15.9 | Greek <gnomehellas@gmx.net> | 
- | [iso-codes]({{< ref "/f35/package/iso-codes.md" >}}) | 3710 | 23492 | 15.8 | Greek <https://hosted.weblate.org/projects/iso-codes/iso-15924/el/> | 
- | [drgeo]({{< ref "/f35/package/drgeo.md" >}}) | 311 | 1985 | 15.7 | Greek <nls@tux.hellug.gr> | 
- | [NetworkManager]({{< ref "/f35/package/NetworkManager.md" >}}) | 4280 | 27759 | 15.4 | team@lists.gnome.gr | 
- | [tar]({{< ref "/f35/package/tar.md" >}}) | 557 | 3658 | 15.2 | Greek <nls@tux.hellug.gr> | 
- | [chatty]({{< ref "/f35/package/chatty.md" >}}) | 79 | 522 | 15.1 | Greek | 
- | [elementary-camera]({{< ref "/f35/package/elementary-camera.md" >}}) | 31 | 205 | 15.1 | Greek <https://l10n.elementary.io/projects/camera/camera/el/> | 
- | [NetworkManager-libreswan]({{< ref "/f35/package/NetworkManager-libreswan.md" >}}) | 70 | 465 | 15.1 | Greek <team@gnome.gr> | 
- | [guake]({{< ref "/f35/package/guake.md" >}}) | 241 | 1643 | 14.7 | guake@lists.guake.org | 
- | [wingpanel-indicator-bluetooth]({{< ref "/f35/package/wingpanel-indicator-bluetooth.md" >}}) | 11 | 78 | 14.1 | LANGUAGE <LL@li.org> | 
- | [xfdashboard]({{< ref "/f35/package/xfdashboard.md" >}}) | 956 | 6878 | 13.9 | Greek (http://www.transifex.com/xfdashboard/xfdashboard/language/el/) | 
- | [pdfarranger]({{< ref "/f35/package/pdfarranger.md" >}}) | 45 | 324 | 13.9 | Greek (http://www.transifex.com/logari81/pdfshuffler/language/el/) | 
- | [grep]({{< ref "/f35/package/grep.md" >}}) | 119 | 862 | 13.8 | Greek <team@lists.gnome.gr> | 
- | [picard]({{< ref "/f35/package/picard.md" >}}) | 1991 | 14567 | 13.7 | Greek (http://www.transifex.com/musicbrainz/musicbrainz/language/el/) | 
- | [NetworkManager-ssh]({{< ref "/f35/package/NetworkManager-ssh.md" >}}) | 39 | 286 | 13.6 | team@gnome.gr | 
- | [switchboard-plug-bluetooth]({{< ref "/f35/package/switchboard-plug-bluetooth.md" >}}) | 28 | 206 | 13.6 | Greek <https://l10n.elementary.io/projects/switchboard/switchboard-plug-bluetooth/el/> | 
- | [pluma-plugins]({{< ref "/f35/package/pluma-plugins.md" >}}) | 188 | 1398 | 13.4 | Greek (https://www.transifex.com/mate/teams/13566/el/) | 
- | [switchboard-plug-printers]({{< ref "/f35/package/switchboard-plug-printers.md" >}}) | 54 | 406 | 13.3 | Greek <https://weblate.elementary.io/projects/switchboard/switchboard-plug-printers/el/> | 
- | [switchdesk]({{< ref "/f35/package/switchdesk.md" >}}) | 16 | 122 | 13.1 | Greek <fedora-trans-el@redhat.com> | 
- | [switchboard-plug-sound]({{< ref "/f35/package/switchboard-plug-sound.md" >}}) | 25 | 193 | 13.0 | Greek <https://weblate.elementary.io/projects/switchboard/switchboard-plug-sound/el/> | 
- | [elementary-terminal]({{< ref "/f35/package/elementary-terminal.md" >}}) | 87 | 696 | 12.5 | Greek <el@li.org> | 
- | [elementary-mail]({{< ref "/f35/package/elementary-mail.md" >}}) | 82 | 658 | 12.5 | www.gnome.gr | 
- | [xscreensaver]({{< ref "/f35/package/xscreensaver.md" >}}) | 844 | 7236 | 11.7 | Greek <nls@tux.hellug.gr> | 
- | [paprefs]({{< ref "/f35/package/paprefs.md" >}}) | 15 | 131 | 11.5 | Greek <fedora-trans-el@redhat.com> | 
- | [gajim]({{< ref "/f35/package/gajim.md" >}}) | 982 | 9627 | 10.2 | <> | 
- | [publican]({{< ref "/f35/package/publican.md" >}}) | 532 | 5377 | 9.9 | Greek <fedora-trans-el@redhat.com> | 
- | [wxMaxima]({{< ref "/f35/package/wxMaxima.md" >}}) | 2080 | 21044 | 9.9 | LANGUAGE <LL@li.org> | 
- | [backintime]({{< ref "/f35/package/backintime.md" >}}) | 188 | 1972 | 9.5 | Greek <el@li.org> | 
- | [freeciv]({{< ref "/f35/package/freeciv.md" >}}) | 10028 | 106587 | 9.4 | Greek translation team <gr@li.org> | 
- | [elementary-calculator]({{< ref "/f35/package/elementary-calculator.md" >}}) | 22 | 235 | 9.4 | LANGUAGE <LL@li.org> | 
- | [system-switch-mail]({{< ref "/f35/package/system-switch-mail.md" >}}) | 9 | 101 | 8.9 | Greek Fedora team <fedora-trans-el@redhat.com> | 
- | [electrum]({{< ref "/f35/package/electrum.md" >}}) | 787 | 9000 | 8.7 | Greek | 
- | [rapid-photo-downloader]({{< ref "/f35/package/rapid-photo-downloader.md" >}}) | 696 | 8086 | 8.6 | Greek <el@li.org> | 
- | [switchboard-plug-about]({{< ref "/f35/package/switchboard-plug-about.md" >}}) | 32 | 383 | 8.4 | Greek <el@li.org> | 
- | [playonlinux]({{< ref "/f35/package/playonlinux.md" >}}) | 223 | 2728 | 8.2 | el_EL.UTF-8 <LL@li.org> | 
- | [python-blivet]({{< ref "/f35/package/python-blivet.md" >}}) | 47 | 584 | 8.0 | Greek (http://www.transifex.com/projects/p/blivet/language/el/) | 
- | [mercurial]({{< ref "/f35/package/mercurial.md" >}}) | 1894 | 23859 | 7.9 | Greek | 
- | [gpredict]({{< ref "/f35/package/gpredict.md" >}}) | 482 | 6124 | 7.9 | Greek <el@li.org> | 
- | [elementary-greeter]({{< ref "/f35/package/elementary-greeter.md" >}}) | 17 | 219 | 7.8 | Greek <https://l10n.elementary.io/projects/desktop/greeter/el/> | 
- | [pychess]({{< ref "/f35/package/pychess.md" >}}) | 588 | 7592 | 7.7 | Greek (http://www.transifex.com/gbtami/pychess/language/el/) | 
- | [ardour6]({{< ref "/f35/package/ardour6.md" >}}) | 1725 | 22344 | 7.7 | Hellenic | 
- | [transmission-remote-gtk]({{< ref "/f35/package/transmission-remote-gtk.md" >}}) | 74 | 969 | 7.6 | Greek <el@li.org> | 
- | [granite]({{< ref "/f35/package/granite.md" >}}) | 38 | 498 | 7.6 | Greek <el@li.org> | 
- | [pykickstart]({{< ref "/f35/package/pykickstart.md" >}}) | 128 | 1697 | 7.5 | Greek (http://www.transifex.com/projects/p/pykickstart/language/el/) | 
- | [gala]({{< ref "/f35/package/gala.md" >}}) | 27 | 358 | 7.5 | Greek <https://l10n.elementary.io/projects/desktop/gala/el/> | 
- | [wingpanel-indicator-notifications]({{< ref "/f35/package/wingpanel-indicator-notifications.md" >}}) | 10 | 134 | 7.5 | LANGUAGE <LL@li.org> | 
- | [synapse]({{< ref "/f35/package/synapse.md" >}}) | 63 | 856 | 7.4 | Greek <el@li.org> | 
- | [gettext]({{< ref "/f35/package/gettext.md" >}}) | 568 | 8121 | 7.0 | Greek <simos@teiath.gr> | 
- | [mingw-gettext]({{< ref "/f35/package/mingw-gettext.md" >}}) | 568 | 8121 | 7.0 | Greek <simos@teiath.gr> | 
- | [bluefish]({{< ref "/f35/package/bluefish.md" >}}) | 331 | 4945 | 6.7 | no team | 
- | [mypaint]({{< ref "/f35/package/mypaint.md" >}}) | 418 | 6381 | 6.6 | Greek <https://hosted.weblate.org/projects/mypaint/mypaint/el/> | 
- | [libmypaint]({{< ref "/f35/package/libmypaint.md" >}}) | 148 | 2303 | 6.4 | Greek <https://hosted.weblate.org/projects/mypaint/libmypaint/el/> | 
- | [sysprof]({{< ref "/f35/package/sysprof.md" >}}) | 114 | 1774 | 6.4 | Greek, Modern (1453-) <gnome-el-list@gnome.org> | 
- | [gammu]({{< ref "/f35/package/gammu.md" >}}) | 258 | 4017 | 6.4 | none | 
- | [pavucontrol]({{< ref "/f35/package/pavucontrol.md" >}}) | 31 | 530 | 5.8 | Greek <fedora-trans-el@redhat.com> | 
- | [LabPlot]({{< ref "/f35/package/LabPlot.md" >}}) | 633 | 10997 | 5.8 | Greek <kde-i18n-el@kde.org> | 
- | [speedcrunch]({{< ref "/f35/package/speedcrunch.md" >}}) | 5 | 93 | 5.4 | Greek (http://www.transifex.com/heldercorreia/speedcrunch/language/el/) | 
- | [godot]({{< ref "/f35/package/godot.md" >}}) | 12518 | 246893 | 5.1 | Greek <https://hosted.weblate.org/projects/godot-engine/godot-class-reference/el/> | 
- | [texinfo]({{< ref "/f35/package/texinfo.md" >}}) | 294 | 5842 | 5.0 | Greek <team@lists.gnome.gr> | 
- | [switchboard-plug-onlineaccounts]({{< ref "/f35/package/switchboard-plug-onlineaccounts.md" >}}) | 16 | 322 | 5.0 | Greek <https://l10n.elementary.io/projects/switchboard/switchboard-plug-onlineaccounts/el/> | 
- | [viking]({{< ref "/f35/package/viking.md" >}}) | 246 | 5371 | 4.6 | Greek <el@li.org> | 
- | [coreutils]({{< ref "/f35/package/coreutils.md" >}}) | 948 | 21194 | 4.5 | Greek <team@lists.gnome.gr> | 
- | [mingw-libcharset]({{< ref "/f35/package/mingw-libcharset.md" >}}) | 15 | 336 | 4.5 | Greek <nls@tux.hellug.gr> | 
- | [elementary-capnet-assist]({{< ref "/f35/package/elementary-capnet-assist.md" >}}) | 4 | 90 | 4.4 | Greek <el@li.org> | 
- | [grass]({{< ref "/f35/package/grass.md" >}}) | 5120 | 121789 | 4.2 | Greek <grass-translations@lists.osgeo.org> | 
- | [wdiff]({{< ref "/f35/package/wdiff.md" >}}) | 5 | 120 | 4.2 | Greek <team@lists.gnome.gr> | 
- | [wingpanel-indicator-sound]({{< ref "/f35/package/wingpanel-indicator-sound.md" >}}) | 4 | 96 | 4.2 | LANGUAGE <LL@li.org> | 
- | [abrt]({{< ref "/f35/package/abrt.md" >}}) | 148 | 3676 | 4.0 | Greek (http://www.transifex.com/projects/p/fedora-abrt/language/el/) | 
- | [elementary-notifications]({{< ref "/f35/package/elementary-notifications.md" >}}) | 2 | 50 | 4.0 | Greek <https://l10n.elementary.io/projects/desktop/notifications-extra/el/> | 
- | [kajongg]({{< ref "/f35/package/kajongg.md" >}}) | 95 | 2446 | 3.9 | Ελληνικά <i18ngr@lists.hellug.gr> | 
- | [gnubg]({{< ref "/f35/package/gnubg.md" >}}) | 511 | 13176 | 3.9 | Ελληνικά <team@gnome.gr> | 
- | [pmount]({{< ref "/f35/package/pmount.md" >}}) | 28 | 723 | 3.9 | Greek, Modern (1453-) <el@li.org> | 
- | [edgar]({{< ref "/f35/package/edgar.md" >}}) | 436 | 11474 | 3.8 | Greek <el@li.org> | 
- | [cacti]({{< ref "/f35/package/cacti.md" >}}) | 1181 | 31098 | 3.8 |  | 
- | [wingpanel-indicator-keyboard]({{< ref "/f35/package/wingpanel-indicator-keyboard.md" >}}) | 2 | 53 | 3.8 | LANGUAGE <LL@li.org> | 
- | [stellarium]({{< ref "/f35/package/stellarium.md" >}}) | 5204 | 150019 | 3.5 | Greek (https://www.transifex.com/stellarium/teams/80998/el/) | 
- | [sharutils]({{< ref "/f35/package/sharutils.md" >}}) | 107 | 3147 | 3.4 | Greek <simos@teiath.gr> | 
- | [renameutils]({{< ref "/f35/package/renameutils.md" >}}) | 9 | 265 | 3.4 | Greek <team@lists.gnome.gr> | 
- | [mate-user-admin]({{< ref "/f35/package/mate-user-admin.md" >}}) | 20 | 628 | 3.2 | Greek (https://www.transifex.com/mate/teams/13566/el/) | 
- | [fontforge]({{< ref "/f35/package/fontforge.md" >}}) | 1338 | 42632 | 3.1 | Greek | 
- | [redshift]({{< ref "/f35/package/redshift.md" >}}) | 31 | 1028 | 3.0 | Greek <el@li.org> | 
- | [elinks]({{< ref "/f35/package/elinks.md" >}}) | 357 | 12245 | 2.9 | Greek <nls@tux.hellug.gr> | 
- | [man-db]({{< ref "/f35/package/man-db.md" >}}) | 6 | 206 | 2.9 | Greek <team@lists.gnome.gr> | 
- | [cpu-x]({{< ref "/f35/package/cpu-x.md" >}}) | 40 | 1374 | 2.9 | Greek <https://hosted.weblate.org/projects/cpu-x/translations/el/> | 
- | [minetest]({{< ref "/f35/package/minetest.md" >}}) | 290 | 10049 | 2.9 | Greek <https://hosted.weblate.org/projects/minetest/minetest/el/> | 
- | [light-locker]({{< ref "/f35/package/light-locker.md" >}}) | 7 | 260 | 2.7 | Greek (http://www.transifex.com/the_cavalry/light-locker/language/el/) | 
- | [caja-actions]({{< ref "/f35/package/caja-actions.md" >}}) | 503 | 18815 | 2.7 | Greek (https://www.transifex.com/mate/teams/13566/el/) | 
- | [neverball]({{< ref "/f35/package/neverball.md" >}}) | 73 | 2735 | 2.7 | Greek (http://www.transifex.com/projects/p/neverball/language/el/) | 
- | [anaconda]({{< ref "/f35/package/anaconda.md" >}}) | 208 | 8224 | 2.5 | Greek <https://translate.fedoraproject.org/projects/anaconda/master/el/> | 
- | [switchboard-plug-tweaks]({{< ref "/f35/package/switchboard-plug-tweaks.md" >}}) | 14 | 563 | 2.5 | Greek <el@li.org> | 
- | [manafirewall]({{< ref "/f35/package/manafirewall.md" >}}) | 26 | 1097 | 2.4 | Greek (https://www.transifex.com/MageiaLinux/teams/9361/el/) | 
- | [peek]({{< ref "/f35/package/peek.md" >}}) | 13 | 564 | 2.3 | none | 
- | [gnome-abrt]({{< ref "/f35/package/gnome-abrt.md" >}}) | 5 | 221 | 2.3 | Greek (http://www.transifex.com/projects/p/gnome-abrt/language/el/) | 
- | [wingpanel-indicator-datetime]({{< ref "/f35/package/wingpanel-indicator-datetime.md" >}}) | 4 | 177 | 2.3 | LANGUAGE <LL@li.org> | 
- | [python-django-mailman3]({{< ref "/f35/package/python-django-mailman3.md" >}}) | 7 | 355 | 2.0 | Greek <https://hosted.weblate.org/projects/gnu-mailman/django-mailman3/el/> | 
- | [setroubleshoot]({{< ref "/f35/package/setroubleshoot.md" >}}) | 12 | 635 | 1.9 | Greek (http://www.transifex.com/projects/p/fedora/language/el/) | 
- | [modem-manager-gui]({{< ref "/f35/package/modem-manager-gui.md" >}}) | 55 | 3001 | 1.8 | Greek (http://www.transifex.com/ethereal/modem-manager-gui/language/el/) | 
- | [policycoreutils]({{< ref "/f35/package/policycoreutils.md" >}}) | 214 | 12171 | 1.8 | Greek | 
- | [rpm]({{< ref "/f35/package/rpm.md" >}}) | 74 | 4615 | 1.6 | Greek (http://www.transifex.com/rpm-team/rpm/language/el/) | 
- | [wine]({{< ref "/f35/package/wine.md" >}}) | 300 | 19046 | 1.6 | Greek | 
- | [elementary-shortcut-overlay]({{< ref "/f35/package/elementary-shortcut-overlay.md" >}}) | 2 | 130 | 1.5 | none | 
- | [duplicity]({{< ref "/f35/package/duplicity.md" >}}) | 33 | 2215 | 1.5 | Greek <el@li.org> | 
- | [m4]({{< ref "/f35/package/m4.md" >}}) | 17 | 1171 | 1.5 | Greek <nls@tux.hellug.gr> | 
- | [android-tools]({{< ref "/f35/package/android-tools.md" >}}) | 105 | 7678 | 1.4 | Greek <trans-el@lists.fedoraproject.org> | 
- | [4Pane]({{< ref "/f35/package/4Pane.md" >}}) | 166 | 12684 | 1.3 | Greek (http://www.transifex.com/davidgh/4Pane/language/el/) | 
- | [libvirt]({{< ref "/f35/package/libvirt.md" >}}) | 825 | 67764 | 1.2 | Greek (http://www.transifex.com/projects/p/fedora/language/el/) | 
- | [mingw-libvirt]({{< ref "/f35/package/mingw-libvirt.md" >}}) | 825 | 67764 | 1.2 | Greek (http://www.transifex.com/projects/p/fedora/language/el/) | 
- | [gammastep]({{< ref "/f35/package/gammastep.md" >}}) | 10 | 945 | 1.1 | Greek <el@li.org> | 
- | [cataclysm-dda]({{< ref "/f35/package/cataclysm-dda.md" >}}) | 5958 | 565340 | 1.1 | Greek (https://www.transifex.com/cataclysm-dda-translators/teams/2217/el/) | 
- | [elementary-sideload]({{< ref "/f35/package/elementary-sideload.md" >}}) | 3 | 319 | 0.9 | Greek <https://l10n.elementary.io/projects/desktop/sideload/el/> | 
- | [python-meh]({{< ref "/f35/package/python-meh.md" >}}) | 1 | 109 | 0.9 | Greek (http://www.transifex.com/projects/p/python-meh/language/el/) | 
- | [gutenprint]({{< ref "/f35/package/gutenprint.md" >}}) | 148 | 16326 | 0.9 | Greek <nls@tux.hellug.gr> | 
- | [kirigami-gallery]({{< ref "/f35/package/kirigami-gallery.md" >}}) | 7 | 856 | 0.8 | Greek <kde-i18n-doc@kde.org> | 
- | [synfig]({{< ref "/f35/package/synfig.md" >}}) | 34 | 4745 | 0.7 | Greek (Greece) (http://www.transifex.com/morevnaproject/synfig/language/el_GR/) | 
- | [tilda]({{< ref "/f35/package/tilda.md" >}}) | 4 | 667 | 0.6 | Greek, Modern (1453-) <el@li.org> | 
- | [malcontent]({{< ref "/f35/package/malcontent.md" >}}) | 3 | 584 | 0.5 | none | 
- | [calamares]({{< ref "/f35/package/calamares.md" >}}) | 2 | 490 | 0.4 | Greek (https://www.transifex.com/calamares/teams/20061/el/) | 
- | [ghdl]({{< ref "/f35/package/ghdl.md" >}}) | 179 | 113780 | 0.2 | Greek <nls@tux.hellug.gr> | 
- | [avr-gcc]({{< ref "/f35/package/avr-gcc.md" >}}) | 179 | 119831 | 0.1 | Greek <nls@tux.hellug.gr> | 
- | [cross-gcc]({{< ref "/f35/package/cross-gcc.md" >}}) | 179 | 119923 | 0.1 | Greek <nls@tux.hellug.gr> | 
- | [mingw-gcc]({{< ref "/f35/package/mingw-gcc.md" >}}) | 179 | 119923 | 0.1 | Greek <nls@tux.hellug.gr> | 
- | [gcc]({{< ref "/f35/package/gcc.md" >}}) | 179 | 120020 | 0.1 | Greek <nls@tux.hellug.gr> | 
- | [arm-none-eabi-gcc-cs]({{< ref "/f35/package/arm-none-eabi-gcc-cs.md" >}}) | 176 | 126054 | 0.1 | Greek <nls@tux.hellug.gr> | 
- | [libdnf]({{< ref "/f35/package/libdnf.md" >}}) | 2 | 1480 | 0.1 | Greek | 
- | [rpm-ostree]({{< ref "/f35/package/rpm-ostree.md" >}}) | 2 | 1480 | 0.1 | Greek | 
- | [vdr-epgsearch]({{< ref "/f35/package/vdr-epgsearch.md" >}}) | 3 | 2485 | 0.1 | Greek <vdr@linuxtv.org> | 
- | [python-postorius]({{< ref "/f35/package/python-postorius.md" >}}) | 6 | 4999 | 0.1 | Greek <https://hosted.weblate.org/projects/gnu-mailman/postorius/el/> | 
- | [dnf]({{< ref "/f35/package/dnf.md" >}}) | 5 | 4704 | 0.1 | Greek (http://www.transifex.com/projects/p/dnf/language/el/) | 
- | [synfigstudio]({{< ref "/f35/package/synfigstudio.md" >}}) | 5 | 6952 | 0.1 | Greek (Greece) (http://www.transifex.com/morevnaproject/synfig/language/el_GR/) | 
- | [libreport]({{< ref "/f35/package/libreport.md" >}}) | 2 | 4928 | 0.0 | Greek (http://www.transifex.com/projects/p/libreport/language/el/) | 
- | [breezy]({{< ref "/f35/package/breezy.md" >}}) | 0 | 33704 | 0.0 |  | 
- | [clapper]({{< ref "/f35/package/clapper.md" >}}) | 0 | 272 | 0.0 | Greek | 
- | [coin]({{< ref "/f35/package/coin.md" >}}) | 0 | 252 | 0.0 | none | 
- | [dippi]({{< ref "/f35/package/dippi.md" >}}) | 0 | 1183 | 0.0 | none | 
- | [elementary-icon-theme]({{< ref "/f35/package/elementary-icon-theme.md" >}}) | 0 | 263 | 0.0 | none | 
- | [elementary-onboarding]({{< ref "/f35/package/elementary-onboarding.md" >}}) | 0 | 317 | 0.0 | none | 
- | [elementary-settings-daemon]({{< ref "/f35/package/elementary-settings-daemon.md" >}}) | 0 | 26 | 0.0 | none | 
- | [elementary-tasks]({{< ref "/f35/package/elementary-tasks.md" >}}) | 0 | 394 | 0.0 | none | 
- | [elementary-theme]({{< ref "/f35/package/elementary-theme.md" >}}) | 0 | 63 | 0.0 | none | 
- | [entangle]({{< ref "/f35/package/entangle.md" >}}) | 0 | 953 | 0.0 | Greek | 
- | [feedreader]({{< ref "/f35/package/feedreader.md" >}}) | 0 | 1374 | 0.0 |  | 
- | [fonts-tweak-tool]({{< ref "/f35/package/fonts-tweak-tool.md" >}}) | 0 | 196 | 0.0 | Greek | 
- | [gamehub]({{< ref "/f35/package/gamehub.md" >}}) | 0 | 1115 | 0.0 | none | 
- | [geany-plugins]({{< ref "/f35/package/geany-plugins.md" >}}) | 0 | 8851 | 0.0 | Greek | 
- | [harvey]({{< ref "/f35/package/harvey.md" >}}) | 0 | 182 | 0.0 | none | 
- | [imsettings]({{< ref "/f35/package/imsettings.md" >}}) | 0 | 490 | 0.0 | LANGUAGE <LL@li.org> | 
- | [initial-setup]({{< ref "/f35/package/initial-setup.md" >}}) | 0 | 33 | 0.0 | Greek | 
- | [kdump-anaconda-addon]({{< ref "/f35/package/kdump-anaconda-addon.md" >}}) | 0 | 83 | 0.0 | LANGUAGE <LL@li.org> | 
- | [kreport]({{< ref "/f35/package/kreport.md" >}}) | 0 | 455 | 0.0 | Greek <kde-i18n-el@kde.org> | 
- | [libgweather]({{< ref "/f35/package/libgweather.md" >}}) | 0 | 0 | 0.0 |  | 
- | [libvirt-sandbox]({{< ref "/f35/package/libvirt-sandbox.md" >}}) | 0 | 617 | 0.0 | Greek <trans-el@lists.fedoraproject.org> | 
- | [mailman3]({{< ref "/f35/package/mailman3.md" >}}) | 0 | 4477 | 0.0 | none | 
- | [nutty]({{< ref "/f35/package/nutty.md" >}}) | 0 | 608 | 0.0 |  | 
- | [optimizer]({{< ref "/f35/package/optimizer.md" >}}) | 0 | 282 | 0.0 | none | 
- | [pam]({{< ref "/f35/package/pam.md" >}}) | 0 | 535 | 0.0 | Greek <trans-el@lists.fedoraproject.org> | 
- | [pidgin-sipe]({{< ref "/f35/package/pidgin-sipe.md" >}}) | 0 | 1119 | 0.0 | Greek (http://www.transifex.com/stefanb/pidgin-sipe/language/el/) | 
- | [pyhoca-gui]({{< ref "/f35/package/pyhoca-gui.md" >}}) | 0 | 1865 | 0.0 | none | 
- | [python-fedora]({{< ref "/f35/package/python-fedora.md" >}}) | 0 | 428 | 0.0 | Greek (Greece) (http://www.transifex.com/projects/p/python-fedora/language/el_GR/) | 
- | [python-sphinxcontrib-applehelp]({{< ref "/f35/package/python-sphinxcontrib-applehelp.md" >}}) | 0 | 89 | 0.0 | Greek (https://www.transifex.com/sphinx-doc/teams/36659/el/) | 
- | [python-sphinxcontrib-devhelp]({{< ref "/f35/package/python-sphinxcontrib-devhelp.md" >}}) | 0 | 18 | 0.0 | Greek (https://www.transifex.com/sphinx-doc/teams/36659/el/) | 
- | [python-sphinxcontrib-qthelp]({{< ref "/f35/package/python-sphinxcontrib-qthelp.md" >}}) | 0 | 33 | 0.0 | Greek (https://www.transifex.com/sphinx-doc/teams/36659/el/) | 
- | [retrace-server]({{< ref "/f35/package/retrace-server.md" >}}) | 0 | 433 | 0.0 | Greek | 
- | [setroubleshoot-plugins]({{< ref "/f35/package/setroubleshoot-plugins.md" >}}) | 0 | 6246 | 0.0 | none | 
- | [solaar]({{< ref "/f35/package/solaar.md" >}}) | 0 | 0 | 0.0 | none | 
- | [taxi]({{< ref "/f35/package/taxi.md" >}}) | 0 | 62 | 0.0 | LANGUAGE <LL@li.org> | 
- | [timeshift]({{< ref "/f35/package/timeshift.md" >}}) | 0 | 3012 | 0.0 | Greek <el@li.org> | 
- | [vdr-extrecmenung]({{< ref "/f35/package/vdr-extrecmenung.md" >}}) | 0 | 308 | 0.0 | <vdr@linuxtv.org> | 
- | [vdr-skinenigmang]({{< ref "/f35/package/vdr-skinenigmang.md" >}}) | 0 | 334 | 0.0 | <vdr@linuxtv.org> | 
- | [wingpanel-indicator-nightlight]({{< ref "/f35/package/wingpanel-indicator-nightlight.md" >}}) | 0 | 45 | 0.0 |  | 
- | [znc]({{< ref "/f35/package/znc.md" >}}) | 0 | 8295 | 0.0 | Greek | 
+ | [0ad](/f35/package/0ad) | 300 | 300 | 100.0 | Greek (http://www.transifex.com/wildfire-games/0ad/language/el/) | 
+ | [GConf2](/f35/package/GConf2) | 4074 | 4074 | 100.0 | team@gnome.gr | 
+ | [NetworkManager-iodine](/f35/package/NetworkManager-iodine) | 79 | 79 | 100.0 | team@gnome.gr | 
+ | [NetworkManager-pptp](/f35/package/NetworkManager-pptp) | 407 | 407 | 100.0 | Greek <team@gnome.gr> | 
+ | [NetworkManager-vpnc](/f35/package/NetworkManager-vpnc) | 479 | 479 | 100.0 | team@gnome.gr | 
+ | [PackageKit](/f35/package/PackageKit) | 1211 | 1211 | 100.0 | Greek (http://www.transifex.com/freedesktop/packagekit/language/el/) | 
+ | [abattis-cantarell-fonts](/f35/package/abattis-cantarell-fonts) | 27 | 27 | 100.0 | Ελληνικά <> | 
+ | [accerciser](/f35/package/accerciser) | 4629 | 4629 | 100.0 | Greek, Modern (1453-) <opensuse-translation-el@opensuse.org> | 
+ | [accountsservice](/f35/package/accountsservice) | 59 | 59 | 100.0 | Greek (http://www.transifex.com/freedesktop/accountsservice/language/el/) | 
+ | [aisleriot](/f35/package/aisleriot) | 23664 | 23664 | 100.0 | team@lists.gnome.gr | 
+ | [akonadi-calendar-tools](/f35/package/akonadi-calendar-tools) | 785 | 785 | 100.0 | Greek <kde-i18n-el@kde.org> | 
+ | [akonadi-import-wizard](/f35/package/akonadi-import-wizard) | 394 | 394 | 100.0 | Greek <kde-i18n-el@kde.org> | 
+ | [akregator](/f35/package/akregator) | 1908 | 1908 | 100.0 | Greek <kde-i18n-el@kde.org> | 
+ | [alacarte](/f35/package/alacarte) | 45 | 45 | 100.0 | team@gnome.gr | 
+ | [alleyoop](/f35/package/alleyoop) | 351 | 351 | 100.0 | Greek <team@gnome.gr> | 
+ | [almanah](/f35/package/almanah) | 790 | 790 | 100.0 | www.gnome.gr | 
+ | [amtk](/f35/package/amtk) | 11 | 11 | 100.0 | Greek <gnome-el-list@gnome.org> | 
+ | [analitza](/f35/package/analitza) | 992 | 992 | 100.0 | Greek <kde-i18n-el@kde.org> | 
+ | [anjuta](/f35/package/anjuta) | 18892 | 18892 | 100.0 | www.gnome.gr | 
+ | [ark](/f35/package/ark) | 1931 | 1931 | 100.0 | Greek <kde-i18n-el@kde.org> | 
+ | [artikulate](/f35/package/artikulate) | 338 | 338 | 100.0 | Greek <kde-i18n-el@kde.org> | 
+ | [at-spi2-core](/f35/package/at-spi2-core) | 10 | 10 | 100.0 | team@gnome.gr | 
+ | [atk](/f35/package/atk) | 440 | 440 | 100.0 | team@lists.gnome.gr | 
+ | [atomix](/f35/package/atomix) | 208 | 208 | 100.0 | Greek <team@lists.gnome.gr> | 
+ | [audacious](/f35/package/audacious) | 859 | 859 | 100.0 | Greek (http://www.transifex.com/audacious/audacious/language/el/) | 
+ | [baloo-widgets](/f35/package/baloo-widgets) | 52 | 52 | 100.0 | Greek <kde-i18n-el@kde.org> | 
+ | [baobab](/f35/package/baobab) | 1410 | 1410 | 100.0 | team@lists.gnome.gr | 
+ | [bijiben](/f35/package/bijiben) | 1294 | 1294 | 100.0 | www.gnome.gr | 
+ | [blinken](/f35/package/blinken) | 134 | 134 | 100.0 | Greek <kde-i18n-el@kde.org> | 
+ | [blueberry](/f35/package/blueberry) | 166 | 166 | 100.0 | Greek <el@li.org> | 
+ | [boinc-client](/f35/package/boinc-client) | 469 | 469 | 100.0 | Greek (http://www.transifex.com/boinc/boinc/language/el/) | 
+ | [bomber](/f35/package/bomber) | 110 | 110 | 100.0 | Greek <kde-i18n-el@kde.org> | 
+ | [bovo](/f35/package/bovo) | 81 | 81 | 100.0 | Greek <kde-i18n-el@kde.org> | 
+ | [brasero](/f35/package/brasero) | 7751 | 7751 | 100.0 | www.gnome.gr | 
+ | [byzanz](/f35/package/byzanz) | 236 | 236 | 100.0 | Greek <team@gnome.gr> | 
+ | [calindori](/f35/package/calindori) | 501 | 501 | 100.0 | Greek <kde-i18n-el@kde.org> | 
+ | [cantor](/f35/package/cantor) | 3659 | 3659 | 100.0 | Greek <kde-i18n-el@kde.org> | 
+ | [caribou](/f35/package/caribou) | 169 | 169 | 100.0 | Greek, Modern (1453-) <opensuse-translation-el@opensuse.org> | 
+ | [catfish](/f35/package/catfish) | 1077 | 1077 | 100.0 | Greek (https://www.transifex.com/xfce/teams/16840/el/) | 
+ | [cervisia](/f35/package/cervisia) | 1619 | 1619 | 100.0 | Greek <kde-i18n-doc@kde.org> | 
+ | [cheese](/f35/package/cheese) | 2100 | 2100 | 100.0 | www.gnome.gr | 
+ | [clutter](/f35/package/clutter) | 3057 | 3057 | 100.0 | Greek, Modern (1453-) <opensuse-translation-el@opensuse.org> | 
+ | [cogl](/f35/package/cogl) | 393 | 393 | 100.0 | team@gnome.gr | 
+ | [console-setup](/f35/package/console-setup) | 984 | 984 | 100.0 | Greek <debian-l10n-greek@lists.debian.org> | 
+ | [d-feet](/f35/package/d-feet) | 184 | 184 | 100.0 | Greek <team@gnome.gr> | 
+ | [dasher](/f35/package/dasher) | 7220 | 7220 | 100.0 | Greek <team@gnome.gr> | 
+ | [devhelp](/f35/package/devhelp) | 386 | 386 | 100.0 | Ελληνικά <> | 
+ | [dialog](/f35/package/dialog) | 25 | 25 | 100.0 | Greek <team@lists.gnome.gr> | 
+ | [doublecmd](/f35/package/doublecmd) | 10518 | 10518 | 100.0 | Anastasios Kazakis <orca.surfshark@gmail.com> | 
+ | [dragon](/f35/package/dragon) | 273 | 273 | 100.0 | Greek <kde-i18n-el@kde.org> | 
+ | [easytag](/f35/package/easytag) | 7660 | 7660 | 100.0 | www.gnome.gr | 
+ | [eog](/f35/package/eog) | 6606 | 6606 | 100.0 | team@lists.gnome.gr | 
+ | [eog-plugins](/f35/package/eog-plugins) | 416 | 416 | 100.0 | Greek, Modern (1453-) <opensuse-translation-el@opensuse.org> | 
+ | [epiphany](/f35/package/epiphany) | 7660 | 7660 | 100.0 | Greek, Modern (1453-) <opensuse-translation-el@opensuse.org> | 
+ | [evince](/f35/package/evince) | 9221 | 9221 | 100.0 | Ελληνικά <opensuse-translation-el@opensuse.org> | 
+ | [evolution-ews](/f35/package/evolution-ews) | 1185 | 1185 | 100.0 | team@gnome.gr | 
+ | [evolution-mapi](/f35/package/evolution-mapi) | 1036 | 1036 | 100.0 | team@gnome.gr | 
+ | [evolution-rss](/f35/package/evolution-rss) | 882 | 882 | 100.0 | Greek, Modern (1453-) <opensuse-translation-el@opensuse.org> | 
+ | [falkon](/f35/package/falkon) | 4386 | 4386 | 100.0 | Greek <kde-i18n-el@kde.org> | 
+ | [file-roller](/f35/package/file-roller) | 2933 | 2933 | 100.0 | Greek, Modern (1453-) <opensuse-translation-el@opensuse.org> | 
+ | [five-or-more](/f35/package/five-or-more) | 1529 | 1529 | 100.0 | team@lists.gnome.gr | 
+ | [fmit](/f35/package/fmit) | 222 | 222 | 100.0 | Greek <https://hosted.weblate.org/projects/fmit/appdata/el/> | 
+ | [focuswriter](/f35/package/focuswriter) | 129 | 129 | 100.0 | Greek (http://www.transifex.com/gottcode/focuswriter/language/el/) | 
+ | [folks](/f35/package/folks) | 1056 | 1056 | 100.0 | Ελληνικά <opensuse-translation-el@opensuse.org> | 
+ | [four-in-a-row](/f35/package/four-in-a-row) | 1398 | 1398 | 100.0 | team@lists.gnome.gr | 
+ | [garcon](/f35/package/garcon) | 122 | 122 | 100.0 | Greek (http://www.transifex.com/xfce/garcon/language/el/) | 
+ | [gcab](/f35/package/gcab) | 162 | 162 | 100.0 | team@gnome.gr | 
+ | [gcompris-qt](/f35/package/gcompris-qt) | 29269 | 29269 | 100.0 | Greek <kde-i18n-el@kde.org> | 
+ | [gconf-editor](/f35/package/gconf-editor) | 2834 | 2834 | 100.0 | Greek <team@gnome.gr> | 
+ | [gcr](/f35/package/gcr) | 754 | 754 | 100.0 | www.gnome.gr | 
+ | [gdk-pixbuf2](/f35/package/gdk-pixbuf2) | 1415 | 1415 | 100.0 | Ελληνικά <> | 
+ | [gdm](/f35/package/gdm) | 9989 | 9989 | 100.0 | www.gnome.gr | 
+ | [geany](/f35/package/geany) | 6156 | 6156 | 100.0 | Greek | 
+ | [gedit](/f35/package/gedit) | 10791 | 10791 | 100.0 | www.gnome.gr | 
+ | [gedit-latex](/f35/package/gedit-latex) | 468 | 468 | 100.0 | Greek <team@lists.gnome.gr> | 
+ | [gedit-plugins](/f35/package/gedit-plugins) | 3131 | 3131 | 100.0 | team@gnome.gr | 
+ | [gegl04](/f35/package/gegl04) | 10254 | 10254 | 100.0 | team@lists.gnome.gr | 
+ | [genius](/f35/package/genius) | 8497 | 8497 | 100.0 | www.gnome.gr | 
+ | [gftp](/f35/package/gftp) | 3334 | 3334 | 100.0 | <team@gnome.gr> | 
+ | [ggz-base-libs](/f35/package/ggz-base-libs) | 66 | 66 | 100.0 | Greek <team@gnome.gr> | 
+ | [ghex](/f35/package/ghex) | 3236 | 3236 | 100.0 | team@lists.gnome.gr | 
+ | [gimp](/f35/package/gimp) | 39310 | 39310 | 100.0 | team@lists.gnome.gr | 
+ | [gimp-help](/f35/package/gimp-help) | 256782 | 256782 | 100.0 | team@lists.gnome.gr | 
+ | [gitg](/f35/package/gitg) | 2034 | 2034 | 100.0 | team@lists.gnome.gr | 
+ | [glabels](/f35/package/glabels) | 8424 | 8424 | 100.0 | www.gnome.gr | 
+ | [glade](/f35/package/glade) | 8555 | 8555 | 100.0 | Greek, Modern (1453-) <opensuse-translation-el@opensuse.org> | 
+ | [glib-networking](/f35/package/glib-networking) | 163 | 163 | 100.0 | team@gnome.gr | 
+ | [glibc](/f35/package/glibc) | 2868 | 2868 | 100.0 | Greek <nls@tux.hellug.gr> | 
+ | [gnome-2048](/f35/package/gnome-2048) | 324 | 324 | 100.0 | Greek <gnome-el-list@gnome.org> | 
+ | [gnome-bluetooth](/f35/package/gnome-bluetooth) | 373 | 373 | 100.0 | www.gnome.gr | 
+ | [gnome-books](/f35/package/gnome-books) | 421 | 421 | 100.0 | Ελληνικά <> | 
+ | [gnome-boxes](/f35/package/gnome-boxes) | 3638 | 3638 | 100.0 | Greek <team@lists.gnome.gr> | 
+ | [gnome-calculator](/f35/package/gnome-calculator) | 3556 | 3556 | 100.0 | team@lists.gnome.gr | 
+ | [gnome-calendar](/f35/package/gnome-calendar) | 898 | 898 | 100.0 | Greek, Modern (1453-) <gnome-el-list@gnome.org> | 
+ | [gnome-characters](/f35/package/gnome-characters) | 181 | 181 | 100.0 | Greek, Modern (1453-) <opensuse-translation-el@opensuse.org> | 
+ | [gnome-chess](/f35/package/gnome-chess) | 1513 | 1513 | 100.0 | www.gnome.gr | 
+ | [gnome-clocks](/f35/package/gnome-clocks) | 1346 | 1346 | 100.0 | team@lists.gnome.gr | 
+ | [gnome-color-manager](/f35/package/gnome-color-manager) | 2330 | 2330 | 100.0 | Greek <team@lists.gnome.gr> | 
+ | [gnome-commander](/f35/package/gnome-commander) | 31869 | 31869 | 100.0 | team@lists.gnome.gr | 
+ | [gnome-connections](/f35/package/gnome-connections) | 184 | 184 | 100.0 | Greek <gnome-el-list@gnome.org> | 
+ | [gnome-contacts](/f35/package/gnome-contacts) | 590 | 590 | 100.0 | Greek, Modern (1453-) <gnome-el-list@gnome.org> | 
+ | [gnome-desktop3](/f35/package/gnome-desktop3) | 9744 | 9744 | 100.0 | Greek <team@gnome.gr> | 
+ | [gnome-dictionary](/f35/package/gnome-dictionary) | 2162 | 2162 | 100.0 | team@lists.gnome.gr | 
+ | [gnome-directory-thumbnailer](/f35/package/gnome-directory-thumbnailer) | 85 | 85 | 100.0 | team@lists.gnome.gr | 
+ | [gnome-disk-utility](/f35/package/gnome-disk-utility) | 4085 | 4085 | 100.0 | Greek, Modern (1453-) <gnome-el-list@gnome.org> | 
+ | [gnome-doc-utils](/f35/package/gnome-doc-utils) | 251 | 251 | 100.0 | Greek <team@gnome.gr> | 
+ | [gnome-flashback](/f35/package/gnome-flashback) | 1088 | 1088 | 100.0 | team@lists.gnome.gr | 
+ | [gnome-icon-theme](/f35/package/gnome-icon-theme) | 4 | 4 | 100.0 | team@gnome.gr | 
+ | [gnome-initial-setup](/f35/package/gnome-initial-setup) | 874 | 874 | 100.0 | Ελληνικά <> | 
+ | [gnome-keyring](/f35/package/gnome-keyring) | 509 | 509 | 100.0 | team@gnome.gr | 
+ | [gnome-klotski](/f35/package/gnome-klotski) | 1503 | 1503 | 100.0 | Greek <team@gnome.gr> | 
+ | [gnome-logs](/f35/package/gnome-logs) | 652 | 652 | 100.0 | team@lists.gnome.gr | 
+ | [gnome-mahjongg](/f35/package/gnome-mahjongg) | 1652 | 1652 | 100.0 | Greek, Modern (1453-) <opensuse-translation-el@opensuse.org> | 
+ | [gnome-maps](/f35/package/gnome-maps) | 1481 | 1481 | 100.0 | Greek, Modern (1453-) <gnome-el-list@gnome.org> | 
+ | [gnome-menus](/f35/package/gnome-menus) | 80 | 80 | 100.0 | team@lists.gnome.gr | 
+ | [gnome-mime-data](/f35/package/gnome-mime-data) | 887 | 887 | 100.0 | Greek <nls@tux.hellug.gr> | 
+ | [gnome-mines](/f35/package/gnome-mines) | 1560 | 1560 | 100.0 | team@lists.gnome.gr | 
+ | [gnome-multi-writer](/f35/package/gnome-multi-writer) | 387 | 387 | 100.0 | Greek (http://www.transifex.com/projects/p/gnome-multi-writer/language/el/) | 
+ | [gnome-music](/f35/package/gnome-music) | 1135 | 1135 | 100.0 | www.gnome.gr | 
+ | [gnome-nettool](/f35/package/gnome-nettool) | 1178 | 1178 | 100.0 | Greek <team@gnome.gr> | 
+ | [gnome-nibbles](/f35/package/gnome-nibbles) | 2091 | 2091 | 100.0 | team@lists.gnome.gr | 
+ | [gnome-online-accounts](/f35/package/gnome-online-accounts) | 669 | 669 | 100.0 | Greek, Modern (1453-) <gnome-el-list@gnome.org> | 
+ | [gnome-packagekit](/f35/package/gnome-packagekit) | 3593 | 3593 | 100.0 | Greek, Modern (1453-) <opensuse-translation-el@opensuse.org> | 
+ | [gnome-panel](/f35/package/gnome-panel) | 5537 | 5537 | 100.0 | Greek <team@gnome.gr> | 
+ | [gnome-photos](/f35/package/gnome-photos) | 1029 | 1029 | 100.0 | www.gnome.gr | 
+ | [gnome-pomodoro](/f35/package/gnome-pomodoro) | 258 | 258 | 100.0 | Greek | 
+ | [gnome-power-manager](/f35/package/gnome-power-manager) | 483 | 483 | 100.0 | team@gnome.gr | 
+ | [gnome-remote-desktop](/f35/package/gnome-remote-desktop) | 164 | 164 | 100.0 | Greek <gnome-el-list@gnome.org> | 
+ | [gnome-robots](/f35/package/gnome-robots) | 1688 | 1688 | 100.0 | Greek, Modern (1453-) <opensuse-translation-el@opensuse.org> | 
+ | [gnome-screenshot](/f35/package/gnome-screenshot) | 417 | 417 | 100.0 | Greek, Modern (1453-) <gnome-el-list@gnome.org> | 
+ | [gnome-search-tool](/f35/package/gnome-search-tool) | 3172 | 3172 | 100.0 | Greek <team@gnome.gr> | 
+ | [gnome-session](/f35/package/gnome-session) | 432 | 432 | 100.0 | Greek, Modern (1453-) <gnome-el-list@gnome.org> | 
+ | [gnome-shell-extension-bubblemail](/f35/package/gnome-shell-extension-bubblemail) | 98 | 98 | 100.0 | Greek | 
+ | [gnome-shell-extension-dash-to-dock](/f35/package/gnome-shell-extension-dash-to-dock) | 424 | 424 | 100.0 |  | 
+ | [gnome-shell-extensions](/f35/package/gnome-shell-extensions) | 262 | 262 | 100.0 | Greek, Modern (1453-) <gnome-el-list@gnome.org> | 
+ | [gnome-shell-frippery](/f35/package/gnome-shell-frippery) | 22 | 22 | 100.0 | Greek <nls@tux.hellug.gr> | 
+ | [gnome-sound-recorder](/f35/package/gnome-sound-recorder) | 242 | 242 | 100.0 | Greek, Modern (1453-) <opensuse-translation-el@opensuse.org> | 
+ | [gnome-subtitles](/f35/package/gnome-subtitles) | 2924 | 2924 | 100.0 | Greek <team@gnome.gr> | 
+ | [gnome-sudoku](/f35/package/gnome-sudoku) | 2799 | 2799 | 100.0 | www.gnome.gr | 
+ | [gnome-system-log](/f35/package/gnome-system-log) | 1219 | 1219 | 100.0 | Ελληνικά, Σύγχρονα <opensuse-translation-el@opensuse.org> | 
+ | [gnome-taquin](/f35/package/gnome-taquin) | 1236 | 1236 | 100.0 | Greek <gnome-el-list@gnome.org> | 
+ | [gnome-terminal](/f35/package/gnome-terminal) | 7877 | 7877 | 100.0 | team@gnome.gr | 
+ | [gnome-themes-extra](/f35/package/gnome-themes-extra) | 15 | 15 | 100.0 | team@gnome.gr | 
+ | [gnome-todo](/f35/package/gnome-todo) | 737 | 737 | 100.0 | Greek, Modern (1453-) <gnome-el-list@gnome.org> | 
+ | [gnome-tour](/f35/package/gnome-tour) | 114 | 114 | 100.0 | Greek <gnome-el-list@gnome.org> | 
+ | [gnome-tweaks](/f35/package/gnome-tweaks) | 657 | 657 | 100.0 | Ελληνικά <> | 
+ | [gnome-user-docs](/f35/package/gnome-user-docs) | 56124 | 56124 | 100.0 | www.gnome.gr | 
+ | [gnome-user-share](/f35/package/gnome-user-share) | 49 | 49 | 100.0 | Ελληνικά <opensuse-translation-el@opensuse.org> | 
+ | [gnome-vfs2](/f35/package/gnome-vfs2) | 1519 | 1519 | 100.0 | Greek <team@gnome.gr> | 
+ | [gnome-video-arcade](/f35/package/gnome-video-arcade) | 3682 | 3682 | 100.0 | team@lists.gnome.gr | 
+ | [gnome-video-effects](/f35/package/gnome-video-effects) | 256 | 256 | 100.0 | Greek <team@gnome.gr> | 
+ | [gnome-weather](/f35/package/gnome-weather) | 247 | 247 | 100.0 | Greek, Modern (1453-) <opensuse-translation-el@opensuse.org> | 
+ | [gnote](/f35/package/gnote) | 7299 | 7299 | 100.0 | www.gnome.gr | 
+ | [gnumeric](/f35/package/gnumeric) | 37553 | 37553 | 100.0 | team@lists.gnome.gr | 
+ | [goffice](/f35/package/goffice) | 6584 | 6584 | 100.0 | team@lists.gnome.gr | 
+ | [gpicview](/f35/package/gpicview) | 236 | 236 | 100.0 | Greek <LL@li.org> | 
+ | [granatier](/f35/package/granatier) | 244 | 244 | 100.0 | Greek <kde-i18n-el@kde.org> | 
+ | [grilo](/f35/package/grilo) | 191 | 191 | 100.0 | Greek, Modern (1453-) <opensuse-translation-el@opensuse.org> | 
+ | [grilo-plugins](/f35/package/grilo-plugins) | 537 | 537 | 100.0 | Greek, Modern (1453-) <opensuse-translation-el@opensuse.org> | 
+ | [gsettings-desktop-schemas](/f35/package/gsettings-desktop-schemas) | 5863 | 5863 | 100.0 | Greek, Modern (1453-) <opensuse-translation-el@opensuse.org> | 
+ | [gspell](/f35/package/gspell) | 76 | 76 | 100.0 | www.gnome.gr | 
+ | [gstreamer1-plugins-ugly-free](/f35/package/gstreamer1-plugins-ugly-free) | 80 | 80 | 100.0 | Greek <team@lists.gnome.gr> | 
+ | [gtk+](/f35/package/gtk+) | 202 | 202 | 100.0 | Greek <nls@tux.hellug.gr> | 
+ | [gtk-doc](/f35/package/gtk-doc) | 11831 | 11831 | 100.0 | team@lists.gnome.gr | 
+ | [gtk-murrine-engine](/f35/package/gtk-murrine-engine) | 134 | 134 | 100.0 | Greek <team@gnome.gr> | 
+ | [gtk-vnc](/f35/package/gtk-vnc) | 8 | 8 | 100.0 | Greek <team@gnome.gr> | 
+ | [gtk2-engines](/f35/package/gtk2-engines) | 119 | 119 | 100.0 | Greek <team@gnome.gr> | 
+ | [gtkhtml3](/f35/package/gtkhtml3) | 522 | 522 | 100.0 | Greek <team@gnome.gr> | 
+ | [gtksourceview2](/f35/package/gtksourceview2) | 1413 | 1413 | 100.0 | Greek <team@gnome.gr> | 
+ | [gtksourceview4](/f35/package/gtksourceview4) | 308 | 308 | 100.0 | team@lists.gnome.gr | 
+ | [gtksourceview5](/f35/package/gtksourceview5) | 320 | 320 | 100.0 | team@lists.gnome.gr | 
+ | [gtkspell](/f35/package/gtkspell) | 11 | 11 | 100.0 | Greek <nls@tux.hellug.gr> | 
+ | [gtkspell3](/f35/package/gtkspell3) | 11 | 11 | 100.0 | Greek <nls@tux.hellug.gr> | 
+ | [gtranslator](/f35/package/gtranslator) | 4337 | 4337 | 100.0 | www.gnome.gr | 
+ | [guayadeque](/f35/package/guayadeque) | 3326 | 3326 | 100.0 | Greek (Greece) (http://www.transifex.com/projects/p/guayadeque/language/el_GR/) | 
+ | [gucharmap](/f35/package/gucharmap) | 2977 | 2977 | 100.0 | Greek <team@gnome.gr> | 
+ | [gupnp-tools](/f35/package/gupnp-tools) | 278 | 278 | 100.0 | team@gnome.gr | 
+ | [gvfs](/f35/package/gvfs) | 2076 | 2076 | 100.0 | Ελληνικά <> | 
+ | [hitori](/f35/package/hitori) | 882 | 882 | 100.0 | team@lists.gnome.gr | 
+ | [iagno](/f35/package/iagno) | 1945 | 1945 | 100.0 | team@lists.gnome.gr | 
+ | [indent](/f35/package/indent) | 261 | 261 | 100.0 | Greek <https://hosted.weblate.org/projects/indent/translations/el/> | 
+ | [inkscape](/f35/package/inkscape) | 43605 | 43605 | 100.0 | team@lists.gnome.gr | 
+ | [isomaster](/f35/package/isomaster) | 674 | 674 | 100.0 | Mike Kranidis <mikek@openforall.com> | 
+ | [json-glib](/f35/package/json-glib) | 307 | 307 | 100.0 | team@lists.gnome.gr | 
+ | [juk](/f35/package/juk) | 1526 | 1526 | 100.0 | Greek <kde-i18n-el@kde.org> | 
+ | [k3b](/f35/package/k3b) | 20180 | 20180 | 100.0 | Greek <kde-i18n-el@kde.org> | 
+ | [kaccounts-integration](/f35/package/kaccounts-integration) | 174 | 174 | 100.0 | Greek <kde-i18n-el@kde.org> | 
+ | [kaccounts-providers](/f35/package/kaccounts-providers) | 101 | 101 | 100.0 | Greek <kde-i18n-el@kde.org> | 
+ | [kactivitymanagerd](/f35/package/kactivitymanagerd) | 11 | 11 | 100.0 | Greek <kde-i18n-el@kde.org> | 
+ | [kaddressbook](/f35/package/kaddressbook) | 1151 | 1151 | 100.0 | Greek <kde-i18n-el@kde.org> | 
+ | [kalarm](/f35/package/kalarm) | 8134 | 8134 | 100.0 | Greek <kde-i18n-el@kde.org> | 
+ | [kalgebra](/f35/package/kalgebra) | 256 | 256 | 100.0 | Greek <kde-i18n-el@kde.org> | 
+ | [kalzium](/f35/package/kalzium) | 10490 | 10490 | 100.0 | Greek <kde-i18n-el@kde.org> | 
+ | [kamera](/f35/package/kamera) | 347 | 347 | 100.0 | Greek <kde-i18n-el@kde.org> | 
+ | [kamoso](/f35/package/kamoso) | 142 | 142 | 100.0 | Greek <kde-i18n-el@kde.org> | 
+ | [kanagram](/f35/package/kanagram) | 528 | 528 | 100.0 | Greek <kde-i18n-el@kde.org> | 
+ | [kapman](/f35/package/kapman) | 114 | 114 | 100.0 | Greek <kde-i18n-el@kde.org> | 
+ | [kapptemplate](/f35/package/kapptemplate) | 272 | 272 | 100.0 | Greek <kde-i18n-el@kde.org> | 
+ | [katomic](/f35/package/katomic) | 184 | 184 | 100.0 | Greek <kde-i18n-el@kde.org> | 
+ | [kaudiocreator](/f35/package/kaudiocreator) | 1136 | 1136 | 100.0 | Greek <kde-i18n-el@kde.org> | 
+ | [kbackup](/f35/package/kbackup) | 689 | 689 | 100.0 | English <kde-i18n-el@kde.org> | 
+ | [kblackbox](/f35/package/kblackbox) | 1364 | 1364 | 100.0 | Greek <kde-i18n-el@kde.org> | 
+ | [kblocks](/f35/package/kblocks) | 147 | 147 | 100.0 | Greek <kde-i18n-el@kde.org> | 
+ | [kbounce](/f35/package/kbounce) | 153 | 153 | 100.0 | Greek <kde-i18n-el@kde.org> | 
+ | [kbruch](/f35/package/kbruch) | 1347 | 1347 | 100.0 | Greek <kde-i18n-el@kde.org> | 
+ | [kcalc](/f35/package/kcalc) | 1066 | 1066 | 100.0 | Greek <kde-i18n-el@kde.org> | 
+ | [kcharselect](/f35/package/kcharselect) | 88 | 88 | 100.0 | Greek <kde-i18n-doc@kde.org> | 
+ | [kcolorchooser](/f35/package/kcolorchooser) | 29 | 29 | 100.0 | Greek <kde-i18n-el@kde.org> | 
+ | [kcron](/f35/package/kcron) | 525 | 525 | 100.0 | Greek <kde-i18n-el@kde.org> | 
+ | [kde-connect](/f35/package/kde-connect) | 1311 | 1311 | 100.0 | Greek <kde-i18n-el@kde.org> | 
+ | [kde-dev-utils](/f35/package/kde-dev-utils) | 96 | 96 | 100.0 | Greek <kde-i18n-el@kde.org> | 
+ | [kde-partitionmanager](/f35/package/kde-partitionmanager) | 2214 | 2214 | 100.0 | Greek <kde-i18n-el@kde.org> | 
+ | [kde-print-manager](/f35/package/kde-print-manager) | 971 | 971 | 100.0 | Greek <kde-i18n-el@kde.org> | 
+ | [kdebugsettings](/f35/package/kdebugsettings) | 279 | 279 | 100.0 | Greek <kde-i18n-el@kde.org> | 
+ | [kdecoration](/f35/package/kdecoration) | 39 | 39 | 100.0 | Greek <kde-i18n-el@kde.org> | 
+ | [kdenetwork-filesharing](/f35/package/kdenetwork-filesharing) | 444 | 444 | 100.0 | Greek <kde-i18n-el@kde.org> | 
+ | [kdesdk-kioslaves](/f35/package/kdesdk-kioslaves) | 82 | 82 | 100.0 | Greek <kde-i18n-el@kde.org> | 
+ | [kdesdk-thumbnailers](/f35/package/kdesdk-thumbnailers) | 4 | 4 | 100.0 | Greek <i18ngr@lists.hellug.gr> | 
+ | [kdf](/f35/package/kdf) | 181 | 181 | 100.0 | Greek <kde-i18n-doc@kde.org> | 
+ | [kdiagram](/f35/package/kdiagram) | 66 | 66 | 100.0 | Greek <kde-i18n-el@kde.org> | 
+ | [kdialog](/f35/package/kdialog) | 382 | 382 | 100.0 | Greek <kde-i18n-el@kde.org> | 
+ | [kdiamond](/f35/package/kdiamond) | 122 | 122 | 100.0 | Greek <kde-i18n-el@kde.org> | 
+ | [kdiff3](/f35/package/kdiff3) | 3617 | 3617 | 100.0 | Greek <kde-i18n-el@kde.org> | 
+ | [kdissert](/f35/package/kdissert) | 2027 | 2027 | 100.0 | Greek <i18ngr@lists.hellug.gr> | 
+ | [kdnssd](/f35/package/kdnssd) | 30 | 30 | 100.0 | Greek <kde-i18n-el@kde.org> | 
+ | [keditbookmarks](/f35/package/keditbookmarks) | 466 | 466 | 100.0 | Greek <kde-i18n-el@kde.org> | 
+ | [kf5-akonadi-calendar](/f35/package/kf5-akonadi-calendar) | 1867 | 1867 | 100.0 | American English <kde-i18n-el@kde.org> | 
+ | [kf5-akonadi-contacts](/f35/package/kf5-akonadi-contacts) | 1610 | 1610 | 100.0 | American English <kde-i18n-el@kde.org> | 
+ | [kf5-akonadi-notes](/f35/package/kf5-akonadi-notes) | 2 | 2 | 100.0 | Greek <kde-i18n-el@kde.org> | 
+ | [kf5-akonadi-search](/f35/package/kf5-akonadi-search) | 48 | 48 | 100.0 | Greek <kde-i18n-el@kde.org> | 
+ | [kf5-akonadi-server](/f35/package/kf5-akonadi-server) | 2548 | 2548 | 100.0 | Greek <kde-i18n-el@kde.org> | 
+ | [kf5-audiocd-kio](/f35/package/kf5-audiocd-kio) | 1000 | 1000 | 100.0 | Greek <kde-i18n-el@kde.org> | 
+ | [kf5-baloo](/f35/package/kf5-baloo) | 836 | 836 | 100.0 | Greek <kde-i18n-el@kde.org> | 
+ | [kf5-calendarsupport](/f35/package/kf5-calendarsupport) | 2843 | 2843 | 100.0 | Greek <kde-i18n-el@kde.org> | 
+ | [kf5-eventviews](/f35/package/kf5-eventviews) | 2959 | 2959 | 100.0 | Greek <kde-i18n-el@kde.org> | 
+ | [kf5-grantleetheme](/f35/package/kf5-grantleetheme) | 14 | 14 | 100.0 | Greek <kde-i18n-el@kde.org> | 
+ | [kf5-kalarmcal](/f35/package/kf5-kalarmcal) | 204 | 204 | 100.0 | Greek <kde-i18n-el@kde.org> | 
+ | [kf5-kauth](/f35/package/kf5-kauth) | 73 | 73 | 100.0 | Greek <kde-i18n-el@kde.org> | 
+ | [kf5-kblog](/f35/package/kf5-kblog) | 243 | 243 | 100.0 | Greek <kde-i18n-el@kde.org> | 
+ | [kf5-kbookmarks](/f35/package/kf5-kbookmarks) | 230 | 230 | 100.0 | Greek <kde-i18n-el@kde.org> | 
+ | [kf5-kcodecs](/f35/package/kf5-kcodecs) | 372 | 372 | 100.0 | Greek <kde-i18n-el@kde.org> | 
+ | [kf5-kcompletion](/f35/package/kf5-kcompletion) | 18 | 18 | 100.0 | Greek <kde-i18n-el@kde.org> | 
+ | [kf5-kcontacts](/f35/package/kf5-kcontacts) | 177 | 177 | 100.0 | Greek <kde-i18n-el@kde.org> | 
+ | [kf5-kdav](/f35/package/kf5-kdav) | 185 | 185 | 100.0 | Greek <kde-i18n-el@kde.org> | 
+ | [kf5-kdbusaddons](/f35/package/kf5-kdbusaddons) | 48 | 48 | 100.0 | Greek <kde-i18n-el@kde.org> | 
+ | [kf5-kdesignerplugin](/f35/package/kf5-kdesignerplugin) | 54 | 54 | 100.0 | Greek <kde-i18n-el@kde.org> | 
+ | [kf5-kdesu](/f35/package/kf5-kdesu) | 19 | 19 | 100.0 | Greek <kde-i18n-el@kde.org> | 
+ | [kf5-kdnssd](/f35/package/kf5-kdnssd) | 3 | 3 | 100.0 | Greek <kde-i18n-el@kde.org> | 
+ | [kf5-kdoctools](/f35/package/kf5-kdoctools) | 8 | 8 | 100.0 | Greek <kde-i18n-el@kde.org> | 
+ | [kf5-kfilemetadata](/f35/package/kf5-kfilemetadata) | 302 | 302 | 100.0 | Greek <kde-i18n-el@kde.org> | 
+ | [kf5-kglobalaccel](/f35/package/kf5-kglobalaccel) | 71 | 71 | 100.0 | Greek <kde-i18n-el@kde.org> | 
+ | [kf5-khtml](/f35/package/kf5-khtml) | 1668 | 1668 | 100.0 | Greek <kde-i18n-el@kde.org> | 
+ | [kf5-ki18n](/f35/package/kf5-ki18n) | 124 | 124 | 100.0 | Greek <kde-i18n-el@kde.org> | 
+ | [kf5-kiconthemes](/f35/package/kf5-kiconthemes) | 39 | 39 | 100.0 | Greek <kde-i18n-el@kde.org> | 
+ | [kf5-kidentitymanagement](/f35/package/kf5-kidentitymanagement) | 182 | 182 | 100.0 | Greek <kde-i18n-el@kde.org> | 
+ | [kf5-kinit](/f35/package/kf5-kinit) | 116 | 116 | 100.0 | Greek <kde-i18n-el@kde.org> | 
+ | [kf5-kipi-plugins](/f35/package/kf5-kipi-plugins) | 4918 | 4918 | 100.0 | Greek <kde-i18n-el@kde.org> | 
+ | [kf5-kitemviews](/f35/package/kf5-kitemviews) | 7 | 7 | 100.0 | Greek <kde-i18n-el@kde.org> | 
+ | [kf5-kjobwidgets](/f35/package/kf5-kjobwidgets) | 133 | 133 | 100.0 | Greek <kde-i18n-el@kde.org> | 
+ | [kf5-kjsembed](/f35/package/kf5-kjsembed) | 248 | 248 | 100.0 | Greek <kde-i18n-el@kde.org> | 
+ | [kf5-kldap](/f35/package/kf5-kldap) | 227 | 227 | 100.0 | Greek <kde-i18n-el@kde.org> | 
+ | [kf5-kmailtransport](/f35/package/kf5-kmailtransport) | 654 | 654 | 100.0 | Greek <kde-i18n-el@kde.org> | 
+ | [kf5-kmime](/f35/package/kf5-kmime) | 159 | 159 | 100.0 | Greek <i18ngr@lists.hellug.gr> | 
+ | [kf5-knotifyconfig](/f35/package/kf5-knotifyconfig) | 129 | 129 | 100.0 | Greek <kde-i18n-el@kde.org> | 
+ | [kf5-kontactinterface](/f35/package/kf5-kontactinterface) | 4 | 4 | 100.0 | Greek <i18ngr@lists.hellug.gr> | 
+ | [kf5-kpackage](/f35/package/kf5-kpackage) | 486 | 486 | 100.0 | Greek <kde-i18n-el@kde.org> | 
+ | [kf5-kparts](/f35/package/kf5-kparts) | 132 | 132 | 100.0 | Greek <kde-i18n-el@kde.org> | 
+ | [kf5-kpeople](/f35/package/kf5-kpeople) | 13 | 13 | 100.0 | Greek <kde-i18n-el@kde.org> | 
+ | [kf5-kpty](/f35/package/kf5-kpty) | 15 | 15 | 100.0 | Greek <kde-i18n-el@kde.org> | 
+ | [kf5-kross](/f35/package/kf5-kross) | 100 | 100 | 100.0 | Greek <kde-i18n-el@kde.org> | 
+ | [kf5-kservice](/f35/package/kf5-kservice) | 173 | 173 | 100.0 | Greek <kde-i18n-el@kde.org> | 
+ | [kf5-ktextwidgets](/f35/package/kf5-ktextwidgets) | 473 | 473 | 100.0 | Greek <kde-i18n-el@kde.org> | 
+ | [kf5-ktnef](/f35/package/kf5-ktnef) | 355 | 355 | 100.0 | Greek <kde-i18n-el@kde.org> | 
+ | [kf5-kwallet](/f35/package/kf5-kwallet) | 1460 | 1460 | 100.0 | Greek <kde-i18n-el@kde.org> | 
+ | [kf5-kwindowsystem](/f35/package/kf5-kwindowsystem) | 2 | 2 | 100.0 | Greek <kde-i18n-el@kde.org> | 
+ | [kf5-kxmlrpcclient](/f35/package/kf5-kxmlrpcclient) | 13 | 13 | 100.0 | Greek <i18ngr@lists.hellug.gr> | 
+ | [kf5-libgravatar](/f35/package/kf5-libgravatar) | 27 | 27 | 100.0 | Greek <kde-i18n-el@kde.org> | 
+ | [kf5-libkcddb](/f35/package/kf5-libkcddb) | 476 | 476 | 100.0 | Greek <kde-i18n-el@kde.org> | 
+ | [kf5-libkcompactdisc](/f35/package/kf5-libkcompactdisc) | 15 | 15 | 100.0 | Greek <i18ngr@lists.hellug.gr> | 
+ | [kf5-libkdepim](/f35/package/kf5-libkdepim) | 35 | 35 | 100.0 | Greek <kde-i18n-el@kde.org> | 
+ | [kf5-libkgeomap](/f35/package/kf5-libkgeomap) | 139 | 139 | 100.0 | Greek <kde-i18n-el@kde.org> | 
+ | [kf5-libksane](/f35/package/kf5-libksane) | 363 | 363 | 100.0 | Greek <kde-i18n-el@kde.org> | 
+ | [kf5-libktorrent](/f35/package/kf5-libktorrent) | 465 | 465 | 100.0 | Greek <kde-i18n-el@kde.org> | 
+ | [kf5-mailimporter](/f35/package/kf5-mailimporter) | 1408 | 1408 | 100.0 | Greek <kde-i18n-el@kde.org> | 
+ | [kf5-sonnet](/f35/package/kf5-sonnet) | 683 | 683 | 100.0 | Greek <kde-i18n-el@kde.org> | 
+ | [kfind](/f35/package/kfind) | 502 | 502 | 100.0 | Greek <kde-i18n-el@kde.org> | 
+ | [kfloppy](/f35/package/kfloppy) | 641 | 641 | 100.0 | Greek <kde-i18n-doc@kde.org> | 
+ | [kfourinline](/f35/package/kfourinline) | 392 | 392 | 100.0 | Greek <kde-i18n-el@kde.org> | 
+ | [kgamma](/f35/package/kgamma) | 130 | 130 | 100.0 | Greek <i18ngr@lists.hellug.gr> | 
+ | [kgeography](/f35/package/kgeography) | 10002 | 10002 | 100.0 | Greek <kde-i18n-el@kde.org> | 
+ | [kget](/f35/package/kget) | 2940 | 2940 | 100.0 | Greek <kde-i18n-el@kde.org> | 
+ | [kgpg](/f35/package/kgpg) | 5272 | 5272 | 100.0 | Greek <kde-i18n-el@kde.org> | 
+ | [kgrab](/f35/package/kgrab) | 370 | 370 | 100.0 | Greek <kde-i18n-el@kde.org> | 
+ | [khangman](/f35/package/khangman) | 476 | 476 | 100.0 | Greek <kde-i18n-el@kde.org> | 
+ | [khelpcenter](/f35/package/khelpcenter) | 265 | 265 | 100.0 | Greek <kde-i18n-el@kde.org> | 
+ | [kiconedit](/f35/package/kiconedit) | 726 | 726 | 100.0 | Greek <kde-i18n-el@kde.org> | 
+ | [kig](/f35/package/kig) | 7854 | 7854 | 100.0 | Greek <kde-i18n-el@kde.org> | 
+ | [kigo](/f35/package/kigo) | 504 | 504 | 100.0 | Greek <kde-i18n-el@kde.org> | 
+ | [killbots](/f35/package/killbots) | 637 | 637 | 100.0 | Greek <kde-i18n-el@kde.org> | 
+ | [kio-extras](/f35/package/kio-extras) | 1042 | 1042 | 100.0 | Greek <kde-i18n-el@kde.org> | 
+ | [kio_gopher](/f35/package/kio_gopher) | 17 | 17 | 100.0 | greek <kde-i18n-el@kde.org> | 
+ | [kiriki](/f35/package/kiriki) | 144 | 144 | 100.0 | Greek <kde-i18n-el@kde.org> | 
+ | [kiten](/f35/package/kiten) | 696 | 696 | 100.0 | Greek <kde-i18n-el@kde.org> | 
+ | [kjumpingcube](/f35/package/kjumpingcube) | 413 | 413 | 100.0 | Greek <kde-i18n-el@kde.org> | 
+ | [klettres](/f35/package/klettres) | 440 | 440 | 100.0 | Greek <kde-i18n-el@kde.org> | 
+ | [klickety](/f35/package/klickety) | 178 | 178 | 100.0 | Greek <kde-i18n-el@kde.org> | 
+ | [klines](/f35/package/klines) | 99 | 99 | 100.0 | Greek <kde-i18n-el@kde.org> | 
+ | [kmag](/f35/package/kmag) | 432 | 432 | 100.0 | Greek <kde-i18n-el@kde.org> | 
+ | [kmahjongg](/f35/package/kmahjongg) | 357 | 357 | 100.0 | Greek <kde-i18n-el@kde.org> | 
+ | [kmail-account-wizard](/f35/package/kmail-account-wizard) | 815 | 815 | 100.0 | Greek <kde-i18n-el@kde.org> | 
+ | [kmenuedit](/f35/package/kmenuedit) | 277 | 277 | 100.0 | Greek <kde-i18n-el@kde.org> | 
+ | [kmines](/f35/package/kmines) | 156 | 156 | 100.0 | Greek <kde-i18n-el@kde.org> | 
+ | [kmix](/f35/package/kmix) | 1092 | 1092 | 100.0 | Greek <kde-i18n-el@kde.org> | 
+ | [kmousetool](/f35/package/kmousetool) | 147 | 147 | 100.0 | Greek <kde-i18n-el@kde.org> | 
+ | [kmouth](/f35/package/kmouth) | 1515 | 1515 | 100.0 | Greek <kde-i18n-el@kde.org> | 
+ | [kmplot](/f35/package/kmplot) | 2500 | 2500 | 100.0 | Greek <kde-i18n-el@kde.org> | 
+ | [knavalbattle](/f35/package/knavalbattle) | 399 | 399 | 100.0 | Greek <kde-i18n-el@kde.org> | 
+ | [knetwalk](/f35/package/knetwalk) | 243 | 243 | 100.0 | Greek <kde-i18n-el@kde.org> | 
+ | [koffice-kivio](/f35/package/koffice-kivio) | 8417 | 8417 | 100.0 | Greek <i18ngr@lists.hellug.gr> | 
+ | [koko](/f35/package/koko) | 300 | 300 | 100.0 | Greek <kde-i18n-el@kde.org> | 
+ | [kolf](/f35/package/kolf) | 401 | 401 | 100.0 | Greek <kde-i18n-el@kde.org> | 
+ | [kollision](/f35/package/kollision) | 109 | 109 | 100.0 | Greek <kde-i18n-el@kde.org> | 
+ | [kolourpaint](/f35/package/kolourpaint) | 2570 | 2570 | 100.0 | Greek <kde-i18n-el@kde.org> | 
+ | [kompare](/f35/package/kompare) | 1428 | 1428 | 100.0 | Greek <kde-i18n-el@kde.org> | 
+ | [kongress](/f35/package/kongress) | 155 | 155 | 100.0 | Greek <kde-i18n-el@kde.org> | 
+ | [konqueror](/f35/package/konqueror) | 8838 | 8838 | 100.0 | Greek <kde-i18n-el@kde.org> | 
+ | [konquest](/f35/package/konquest) | 246 | 246 | 100.0 | Greek <kde-i18n-el@kde.org> | 
+ | [kontact](/f35/package/kontact) | 600 | 600 | 100.0 | Greek <kde-i18n-el@kde.org> | 
+ | [konversation](/f35/package/konversation) | 10345 | 10345 | 100.0 | Greek <kde-i18n-el@kde.org> | 
+ | [kopete](/f35/package/kopete) | 18427 | 18427 | 100.0 | Greek <i18ngr@lists.hellug.gr> | 
+ | [kpat](/f35/package/kpat) | 576 | 576 | 100.0 | Greek <kde-i18n-el@kde.org> | 
+ | [kpmcore](/f35/package/kpmcore) | 3237 | 3237 | 100.0 | Greek <kde-i18n-el@kde.org> | 
+ | [krb5-auth-dialog](/f35/package/krb5-auth-dialog) | 2946 | 2946 | 100.0 | Greek <team@gnome.gr> | 
+ | [krdc](/f35/package/krdc) | 1178 | 1178 | 100.0 | Greek <kde-i18n-el@kde.org> | 
+ | [krename](/f35/package/krename) | 2142 | 2142 | 100.0 | Greek <kde-i18n-el@kde.org> | 
+ | [kreversi](/f35/package/kreversi) | 429 | 429 | 100.0 | Greek <kde-i18n-el@kde.org> | 
+ | [krfb](/f35/package/krfb) | 735 | 735 | 100.0 | Greek <kde-i18n-el@kde.org> | 
+ | [kruler](/f35/package/kruler) | 184 | 184 | 100.0 | Greek <kde-i18n-el@kde.org> | 
+ | [kshisen](/f35/package/kshisen) | 608 | 608 | 100.0 | Greek <kde-i18n-el@kde.org> | 
+ | [ksig](/f35/package/ksig) | 85 | 85 | 100.0 | Greek <i18ngr@lists.hellug.gr> | 
+ | [ksnakeduel](/f35/package/ksnakeduel) | 241 | 241 | 100.0 | Greek <kde-i18n-el@kde.org> | 
+ | [kspaceduel](/f35/package/kspaceduel) | 165 | 165 | 100.0 | Greek <kde-i18n-el@kde.org> | 
+ | [ksquares](/f35/package/ksquares) | 260 | 260 | 100.0 | Greek <kde-i18n-el@kde.org> | 
+ | [ksshaskpass](/f35/package/ksshaskpass) | 50 | 50 | 100.0 | Greek <kde-i18n-el@kde.org> | 
+ | [ksystemlog](/f35/package/ksystemlog) | 3034 | 3034 | 100.0 | Greek <kde-i18n-el@kde.org> | 
+ | [kteatime](/f35/package/kteatime) | 203 | 203 | 100.0 | Greek <kde-i18n-el@kde.org> | 
+ | [ktimer](/f35/package/ktimer) | 258 | 258 | 100.0 | Greek <kde-i18n-doc@kde.org> | 
+ | [ktorrent](/f35/package/ktorrent) | 7455 | 7455 | 100.0 | Greek <kde-i18n-el@kde.org> | 
+ | [ktouch](/f35/package/ktouch) | 960 | 960 | 100.0 | Greek <kde-i18n-el@kde.org> | 
+ | [ktp-accounts-kcm](/f35/package/ktp-accounts-kcm) | 1100 | 1100 | 100.0 | Greek <kde-i18n-el@kde.org> | 
+ | [ktp-approver](/f35/package/ktp-approver) | 71 | 71 | 100.0 | Greek <kde-i18n-el@kde.org> | 
+ | [ktp-auth-handler](/f35/package/ktp-auth-handler) | 83 | 83 | 100.0 | Greek <kde-i18n-el@kde.org> | 
+ | [ktp-common-internals](/f35/package/ktp-common-internals) | 989 | 989 | 100.0 | Greek <kde-i18n-el@kde.org> | 
+ | [ktp-contact-list](/f35/package/ktp-contact-list) | 680 | 680 | 100.0 | Greek <kde-i18n-el@kde.org> | 
+ | [ktp-contact-runner](/f35/package/ktp-contact-runner) | 208 | 208 | 100.0 | Greek <kde-i18n-el@kde.org> | 
+ | [ktp-desktop-applets](/f35/package/ktp-desktop-applets) | 75 | 75 | 100.0 | Greek <kde-i18n-el@kde.org> | 
+ | [ktp-filetransfer-handler](/f35/package/ktp-filetransfer-handler) | 141 | 141 | 100.0 | Greek <kde-i18n-el@kde.org> | 
+ | [ktp-kded-integration-module](/f35/package/ktp-kded-integration-module) | 490 | 490 | 100.0 | Greek <kde-i18n-el@kde.org> | 
+ | [ktp-send-file](/f35/package/ktp-send-file) | 60 | 60 | 100.0 | Greek <kde-i18n-el@kde.org> | 
+ | [ktp-text-ui](/f35/package/ktp-text-ui) | 1439 | 1439 | 100.0 | Greek <kde-i18n-el@kde.org> | 
+ | [ktuberling](/f35/package/ktuberling) | 158 | 158 | 100.0 | Greek <kde-i18n-el@kde.org> | 
+ | [kturtle](/f35/package/kturtle) | 1531 | 1531 | 100.0 | Greek <kde-i18n-el@kde.org> | 
+ | [kubrick](/f35/package/kubrick) | 1205 | 1205 | 100.0 | Greek <kde-i18n-el@kde.org> | 
+ | [kwalletmanager5](/f35/package/kwalletmanager5) | 800 | 800 | 100.0 | Greek <kde-i18n-el@kde.org> | 
+ | [kwave](/f35/package/kwave) | 5798 | 5798 | 100.0 | Greek <kde-i18n-el@kde.org> | 
+ | [kwebkitpart](/f35/package/kwebkitpart) | 669 | 669 | 100.0 | Greek <kde-i18n-el@kde.org> | 
+ | [kwordquiz](/f35/package/kwordquiz) | 2026 | 2026 | 100.0 | Greek <kde-i18n-el@kde.org> | 
+ | [lasem](/f35/package/lasem) | 29 | 29 | 100.0 | team@gnome.gr | 
+ | [libbonobo](/f35/package/libbonobo) | 543 | 543 | 100.0 | Greek <team@gnome.gr> | 
+ | [libbonoboui](/f35/package/libbonoboui) | 368 | 368 | 100.0 | Greek <team@gnome.gr> | 
+ | [libcryptui](/f35/package/libcryptui) | 3011 | 3011 | 100.0 | Greek <team@gnome.gr> | 
+ | [libepc](/f35/package/libepc) | 141 | 141 | 100.0 | Greek <team@gnome.gr> | 
+ | [libfilezilla](/f35/package/libfilezilla) | 402 | 402 | 100.0 | Stamatis I. Stamatellos <ydatografida@gmail.com> | 
+ | [libgda](/f35/package/libgda) | 17316 | 17316 | 100.0 | www.gnome.gr | 
+ | [libgdata](/f35/package/libgdata) | 694 | 694 | 100.0 | team@gnome.gr | 
+ | [libgdl](/f35/package/libgdl) | 659 | 659 | 100.0 | team@gnome.gr | 
+ | [libgnome](/f35/package/libgnome) | 1773 | 1773 | 100.0 | Greek <team@gnome.gr> | 
+ | [libgnome-games-support](/f35/package/libgnome-games-support) | 43 | 43 | 100.0 | Greek <team@lists.gnome.gr> | 
+ | [libgnome-keyring](/f35/package/libgnome-keyring) | 44 | 44 | 100.0 | Greek <team@lists.gnome.gr> | 
+ | [libgnomecanvas](/f35/package/libgnomecanvas) | 378 | 378 | 100.0 | Greek <team@gnome.gr> | 
+ | [libgnomekbd](/f35/package/libgnomekbd) | 187 | 187 | 100.0 | Greek <team@gnome.gr> | 
+ | [libgnomeui](/f35/package/libgnomeui) | 1309 | 1309 | 100.0 | Greek <team@gnome.gr> | 
+ | [libgovirt](/f35/package/libgovirt) | 102 | 102 | 100.0 | team@lists.gnome.gr | 
+ | [libgsf](/f35/package/libgsf) | 720 | 720 | 100.0 | team@gnome.gr | 
+ | [libgtop2](/f35/package/libgtop2) | 126 | 126 | 100.0 | Greek <nls@tux.hellug.gr> | 
+ | [libkdegames](/f35/package/libkdegames) | 370 | 370 | 100.0 | Greek <kde-i18n-doc@kde.org> | 
+ | [libkeduvocdocument](/f35/package/libkeduvocdocument) | 171 | 171 | 100.0 | Greek <kde-i18n-el@kde.org> | 
+ | [libkgapi](/f35/package/libkgapi) | 374 | 374 | 100.0 | Greek <kde-i18n-el@kde.org> | 
+ | [libkmahjongg](/f35/package/libkmahjongg) | 7 | 7 | 100.0 | Greek <i18ngr@lists.hellug.gr> | 
+ | [libkomparediff2](/f35/package/libkomparediff2) | 143 | 143 | 100.0 | Greek <kde-i18n-el@kde.org> | 
+ | [libmatemixer](/f35/package/libmatemixer) | 242 | 242 | 100.0 | Greek (https://www.transifex.com/mate/teams/13566/el/) | 
+ | [libpeas](/f35/package/libpeas) | 103 | 103 | 100.0 | team@gnome.gr | 
+ | [libsecret](/f35/package/libsecret) | 59 | 59 | 100.0 | team@lists.gnome.gr | 
+ | [libsoup](/f35/package/libsoup) | 183 | 183 | 100.0 | Ελληνικά <> | 
+ | [libwnck](/f35/package/libwnck) | 1124 | 1124 | 100.0 | Greek <team@gnome.gr> | 
+ | [libwnck3](/f35/package/libwnck3) | 1086 | 1086 | 100.0 | Greek <team@gnome.gr> | 
+ | [libxfce4util](/f35/package/libxfce4util) | 424 | 424 | 100.0 | Greek (http://www.transifex.com/xfce/libxfce4util/language/el/) | 
+ | [lightdm-settings](/f35/package/lightdm-settings) | 321 | 321 | 100.0 | Greek <el@li.org> | 
+ | [lightsoff](/f35/package/lightsoff) | 1137 | 1137 | 100.0 | www.gnome.gr | 
+ | [lilypond](/f35/package/lilypond) | 4081 | 4081 | 100.0 | Greek <team@lists.gnome.gr> | 
+ | [lincity-ng](/f35/package/lincity-ng) | 1898 | 1898 | 100.0 | <ttnfy17@yahoo.gr> | 
+ | [lskat](/f35/package/lskat) | 254 | 254 | 100.0 | Greek <kde-i18n-el@kde.org> | 
+ | [lxappearance-obconf](/f35/package/lxappearance-obconf) | 196 | 196 | 100.0 | Greek | 
+ | [lxdm](/f35/package/lxdm) | 47 | 47 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [lxmenu-data](/f35/package/lxmenu-data) | 97 | 97 | 100.0 | Greek <team@gnome.gr> | 
+ | [lxmusic](/f35/package/lxmusic) | 203 | 203 | 100.0 | Greek | 
+ | [lxshortcut](/f35/package/lxshortcut) | 43 | 43 | 100.0 | Greek | 
+ | [mame](/f35/package/mame) | 3650 | 3650 | 100.0 | MAME Language Team | 
+ | [massif-visualizer](/f35/package/massif-visualizer) | 357 | 357 | 100.0 | Greek <kde-i18n-el@kde.org> | 
+ | [mate-icon-theme](/f35/package/mate-icon-theme) | 4 | 4 | 100.0 | Greek (https://www.transifex.com/mate/teams/13566/el/) | 
+ | [mate-polkit](/f35/package/mate-polkit) | 123 | 123 | 100.0 | Greek (https://www.transifex.com/mate/teams/13566/el/) | 
+ | [mbox-importer](/f35/package/mbox-importer) | 40 | 40 | 100.0 | Greek <kde-i18n-el@kde.org> | 
+ | [meld](/f35/package/meld) | 5524 | 5524 | 100.0 | www.gnome.gr | 
+ | [mingw-GConf2](/f35/package/mingw-GConf2) | 4074 | 4074 | 100.0 | team@gnome.gr | 
+ | [mingw-atk](/f35/package/mingw-atk) | 440 | 440 | 100.0 | team@lists.gnome.gr | 
+ | [mingw-gdk-pixbuf](/f35/package/mingw-gdk-pixbuf) | 1415 | 1415 | 100.0 | Ελληνικά <> | 
+ | [mingw-glib-networking](/f35/package/mingw-glib-networking) | 163 | 163 | 100.0 | team@gnome.gr | 
+ | [mingw-gtk-vnc](/f35/package/mingw-gtk-vnc) | 8 | 8 | 100.0 | Greek <team@gnome.gr> | 
+ | [mingw-gtkspell3](/f35/package/mingw-gtkspell3) | 11 | 11 | 100.0 | Greek <nls@tux.hellug.gr> | 
+ | [mingw-json-glib](/f35/package/mingw-json-glib) | 307 | 307 | 100.0 | team@lists.gnome.gr | 
+ | [mingw-libgovirt](/f35/package/mingw-libgovirt) | 102 | 102 | 100.0 | team@lists.gnome.gr | 
+ | [mingw-libgsf](/f35/package/mingw-libgsf) | 720 | 720 | 100.0 | team@gnome.gr | 
+ | [mingw-libsoup](/f35/package/mingw-libsoup) | 162 | 162 | 100.0 | Ελληνικά <> | 
+ | [mingw-p11-kit](/f35/package/mingw-p11-kit) | 476 | 476 | 100.0 | Greek (http://www.transifex.com/freedesktop/p11-kit/language/el/) | 
+ | [minigalaxy](/f35/package/minigalaxy) | 407 | 407 | 100.0 |  | 
+ | [moserial](/f35/package/moserial) | 2338 | 2338 | 100.0 | Greek <team@gnome.gr> | 
+ | [mousetweaks](/f35/package/mousetweaks) | 114 | 114 | 100.0 | team@gnome.gr | 
+ | [msitools](/f35/package/msitools) | 71 | 71 | 100.0 | team@gnome.gr | 
+ | [muffin](/f35/package/muffin) | 2446 | 2446 | 100.0 | Greek <team@gnome.gr> | 
+ | [multimedia-menus](/f35/package/multimedia-menus) | 56 | 56 | 100.0 | Greek Fedora team <fedora-trans-el@redhat.com> | 
+ | [mutter](/f35/package/mutter) | 826 | 826 | 100.0 | Greek, Modern (1453-) <opensuse-translation-el@opensuse.org> | 
+ | [mutter3.38](/f35/package/mutter3.38) | 826 | 826 | 100.0 | Greek, Modern (1453-) <opensuse-translation-el@opensuse.org> | 
+ | [nautilus](/f35/package/nautilus) | 5556 | 5556 | 100.0 | Ελληνικά <> | 
+ | [nemiver](/f35/package/nemiver) | 4205 | 4205 | 100.0 | team@gnome.gr | 
+ | [nemo-extensions](/f35/package/nemo-extensions) | 258 | 258 | 100.0 | Greek <el@li.org> | 
+ | [newt](/f35/package/newt) | 4 | 4 | 100.0 | Greek <debian-l10n-greek@lists.debian.org> | 
+ | [nfoview](/f35/package/nfoview) | 115 | 115 | 100.0 | Greek (http://www.transifex.com/otsaloma/nfoview/language/el/) | 
+ | [notification-daemon](/f35/package/notification-daemon) | 29 | 29 | 100.0 | team@gnome.gr | 
+ | [novnc](/f35/package/novnc) | 127 | 127 | 100.0 | none | 
+ | [olpc-switch-desktop](/f35/package/olpc-switch-desktop) | 158 | 158 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [p11-kit](/f35/package/p11-kit) | 476 | 476 | 100.0 | Greek (http://www.transifex.com/freedesktop/p11-kit/language/el/) | 
+ | [palapeli](/f35/package/palapeli) | 1516 | 1516 | 100.0 | Greek <kde-i18n-el@kde.org> | 
+ | [pan](/f35/package/pan) | 3398 | 3398 | 100.0 | team@gnome.gr | 
+ | [phonon-backend-gstreamer](/f35/package/phonon-backend-gstreamer) | 104 | 104 | 100.0 | Greek <kde-i18n-el@kde.org> | 
+ | [php-phpmyadmin-sql-parser5](/f35/package/php-phpmyadmin-sql-parser5) | 268 | 268 | 100.0 | Greek <https://hosted.weblate.org/projects/phpmyadmin/sql-parser/el/> | 
+ | [picmi](/f35/package/picmi) | 202 | 202 | 100.0 | Greek <kde-i18n-el@kde.org> | 
+ | [pidgin-otr](/f35/package/pidgin-otr) | 1064 | 1064 | 100.0 | el | 
+ | [plasma-integration](/f35/package/plasma-integration) | 58 | 58 | 100.0 | Greek <kde-i18n-el@kde.org> | 
+ | [plasma-mediacenter](/f35/package/plasma-mediacenter) | 172 | 172 | 100.0 | Greek <kde-i18n-el@kde.org> | 
+ | [plasma-milou](/f35/package/plasma-milou) | 10 | 10 | 100.0 | Greek <kde-i18n-el@kde.org> | 
+ | [plasma-systemsettings](/f35/package/plasma-systemsettings) | 218 | 218 | 100.0 | Greek <kde-i18n-el@kde.org> | 
+ | [plasma-vault](/f35/package/plasma-vault) | 874 | 874 | 100.0 | Greek <kde-i18n-el@kde.org> | 
+ | [plymouth-kcm](/f35/package/plymouth-kcm) | 112 | 112 | 100.0 | Greek <kde-i18n-el@kde.org> | 
+ | [pogo](/f35/package/pogo) | 576 | 576 | 100.0 | Greek <el@li.org> | 
+ | [polkit-gnome](/f35/package/polkit-gnome) | 94 | 94 | 100.0 | team@gnome.gr | 
+ | [polkit-kde](/f35/package/polkit-kde) | 95 | 95 | 100.0 | Greek <kde-i18n-el@kde.org> | 
+ | [powerdevil](/f35/package/powerdevil) | 642 | 642 | 100.0 | Greek <kde-i18n-doc@kde.org> | 
+ | [python-SecretStorage](/f35/package/python-SecretStorage) | 59 | 59 | 100.0 | team@lists.gnome.gr | 
+ | [python-apt](/f35/package/python-apt) | 544 | 544 | 100.0 | Greek <team@gnome.gr> | 
+ | [python-caja](/f35/package/python-caja) | 6 | 6 | 100.0 | Greek (https://www.transifex.com/mate/teams/13566/el/) | 
+ | [python-django-contrib-comments](/f35/package/python-django-contrib-comments) | 250 | 250 | 100.0 | Greek (http://www.transifex.com/django/django-contrib-comments/language/el/) | 
+ | [python-django-extensions](/f35/package/python-django-extensions) | 42 | 42 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [python-django-formtools](/f35/package/python-django-formtools) | 32 | 32 | 100.0 | Greek (http://www.transifex.com/django/django-formtools/language/el/) | 
+ | [python-django-tables2](/f35/package/python-django-tables2) | 2 | 2 | 100.0 | el <team@lists.gnome.gr> | 
+ | [python-sphinxcontrib-htmlhelp](/f35/package/python-sphinxcontrib-htmlhelp) | 25 | 25 | 100.0 | Greek (https://www.transifex.com/sphinx-doc/teams/36659/el/) | 
+ | [python-sphinxcontrib-serializinghtml](/f35/package/python-sphinxcontrib-serializinghtml) | 18 | 18 | 100.0 | Greek (https://www.transifex.com/sphinx-doc/teams/36659/el/) | 
+ | [qtwebkit](/f35/package/qtwebkit) | 688 | 688 | 100.0 | Greek <team@gnome.gr> | 
+ | [quadrapassel](/f35/package/quadrapassel) | 1491 | 1491 | 100.0 | www.gnome.gr | 
+ | [redhat-menus](/f35/package/redhat-menus) | 261 | 261 | 100.0 | Greek | 
+ | [rekonq](/f35/package/rekonq) | 2202 | 2202 | 100.0 | Greek <kde-i18n-el@kde.org> | 
+ | [rhythmbox](/f35/package/rhythmbox) | 11623 | 11623 | 100.0 | Ελληνικά, Σύγχρονα <> | 
+ | [rhythmbox-alternative-toolbar](/f35/package/rhythmbox-alternative-toolbar) | 294 | 294 | 100.0 | Greek <el@li.org> | 
+ | [rsibreak](/f35/package/rsibreak) | 1175 | 1175 | 100.0 | Greek <kde-i18n-el@kde.org> | 
+ | [rygel](/f35/package/rygel) | 1641 | 1641 | 100.0 | Greek, Modern (1453-) <opensuse-translation-el@opensuse.org> | 
+ | [scummvm](/f35/package/scummvm) | 9705 | 9705 | 100.0 | Greek <https://translations.scummvm.org/projects/scummvm/scummvm/el/> | 
+ | [seahorse](/f35/package/seahorse) | 8957 | 8957 | 100.0 | Greek, Modern (1453-) <opensuse-translation-el@opensuse.org> | 
+ | [seahorse-caja](/f35/package/seahorse-caja) | 477 | 477 | 100.0 | team@gnome.gr | 
+ | [seahorse-nautilus](/f35/package/seahorse-nautilus) | 477 | 477 | 100.0 | team@gnome.gr | 
+ | [setuptool](/f35/package/setuptool) | 55 | 55 | 100.0 | Greek <fedora-trans-el@redhat.com> | 
+ | [shotwell](/f35/package/shotwell) | 11481 | 11481 | 100.0 | team@lists.gnome.gr | 
+ | [siril](/f35/package/siril) | 18684 | 18684 | 100.0 |  | 
+ | [slick-greeter](/f35/package/slick-greeter) | 211 | 211 | 100.0 | Greek <el@li.org> | 
+ | [sound-juicer](/f35/package/sound-juicer) | 3609 | 3609 | 100.0 | Greek, Modern (1453-) <opensuse-translation-el@opensuse.org> | 
+ | [sparkleshare](/f35/package/sparkleshare) | 371 | 371 | 100.0 |  | 
+ | [sugar-words](/f35/package/sugar-words) | 3 | 3 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sushi](/f35/package/sushi) | 54 | 54 | 100.0 | Greek, Modern (1453-) <gnome-el-list@gnome.org> | 
+ | [svgpart](/f35/package/svgpart) | 3 | 3 | 100.0 | Greek <i18ngr@lists.hellug.gr> | 
+ | [sweeper](/f35/package/sweeper) | 228 | 228 | 100.0 | Greek <kde-i18n-el@kde.org> | 
+ | [swell-foop](/f35/package/swell-foop) | 1700 | 1700 | 100.0 | Greek <team@gnome.gr> | 
+ | [system-config-rootpassword](/f35/package/system-config-rootpassword) | 116 | 116 | 100.0 | Greek <fedora-trans-el@redhat.com> | 
+ | [system-switch-java](/f35/package/system-switch-java) | 81 | 81 | 100.0 | Greek <fedora-trans-el@redhat.com> | 
+ | [tali](/f35/package/tali) | 2421 | 2421 | 100.0 | www.gnome.gr | 
+ | [template-glib](/f35/package/template-glib) | 23 | 23 | 100.0 | Greek <gnome-el-list@gnome.org> | 
+ | [thunar-media-tags-plugin](/f35/package/thunar-media-tags-plugin) | 156 | 156 | 100.0 | Greek (http://www.transifex.com/xfce/thunar-plugins/language/el/) | 
+ | [tomboy](/f35/package/tomboy) | 7088 | 7088 | 100.0 | www.gnome.gr | 
+ | [totem-pl-parser](/f35/package/totem-pl-parser) | 29 | 29 | 100.0 | Greek <team@gnome.gr> | 
+ | [tracker](/f35/package/tracker) | 580 | 580 | 100.0 | Ελληνικά <> | 
+ | [transmageddon](/f35/package/transmageddon) | 249 | 249 | 100.0 | Greek <team@gnome.gr> | 
+ | [trojita](/f35/package/trojita) | 4754 | 4754 | 100.0 | Greek <kde-i18n-el@kde.org> | 
+ | [tumbler](/f35/package/tumbler) | 241 | 241 | 100.0 | Greek (http://www.transifex.com/xfce/tumbler/language/el/) | 
+ | [usermode](/f35/package/usermode) | 573 | 573 | 100.0 | Greek <trans-el@lists.fedoraproject.org> | 
+ | [vakzination](/f35/package/vakzination) | 88 | 88 | 100.0 | Greek <kde-i18n-el@kde.org> | 
+ | [viewnior](/f35/package/viewnior) | 425 | 425 | 100.0 | Greek <el@li.org> | 
+ | [vinagre](/f35/package/vinagre) | 2540 | 2540 | 100.0 | Greek, Modern (1453-) <opensuse-translation-el@opensuse.org> | 
+ | [wireplumber](/f35/package/wireplumber) | 3 | 3 | 100.0 | team@lists.gnome.gr | 
+ | [xapps](/f35/package/xapps) | 73 | 73 | 100.0 | Greek <el@li.org> | 
+ | [xdg-desktop-portal-gnome](/f35/package/xdg-desktop-portal-gnome) | 204 | 204 | 100.0 | Greek <gnome-el-list@gnome.org> | 
+ | [xdg-user-dirs](/f35/package/xdg-user-dirs) | 28 | 28 | 100.0 | Greek <team@lists.gnome.gr> | 
+ | [xdg-user-dirs-gtk](/f35/package/xdg-user-dirs-gtk) | 81 | 81 | 100.0 | Greek <team@gnome.gr> | 
+ | [xed](/f35/package/xed) | 11335 | 11335 | 100.0 | Greek <team@mate.gr> | 
+ | [xfce4-battery-plugin](/f35/package/xfce4-battery-plugin) | 149 | 149 | 100.0 | Greek (http://www.transifex.com/xfce/xfce-panel-plugins/language/el/) | 
+ | [xfce4-datetime-plugin](/f35/package/xfce4-datetime-plugin) | 52 | 52 | 100.0 | Greek (http://www.transifex.com/xfce/xfce-panel-plugins/language/el/) | 
+ | [xfce4-diskperf-plugin](/f35/package/xfce4-diskperf-plugin) | 181 | 181 | 100.0 | Greek (http://www.transifex.com/xfce/xfce-panel-plugins/language/el/) | 
+ | [xfce4-eyes-plugin](/f35/package/xfce4-eyes-plugin) | 16 | 16 | 100.0 | Greek (http://www.transifex.com/xfce/xfce-panel-plugins/language/el/) | 
+ | [xfce4-fsguard-plugin](/f35/package/xfce4-fsguard-plugin) | 71 | 71 | 100.0 | Greek (http://www.transifex.com/xfce/xfce-panel-plugins/language/el/) | 
+ | [xfce4-mailwatch-plugin](/f35/package/xfce4-mailwatch-plugin) | 689 | 689 | 100.0 | Greek (http://www.transifex.com/xfce/xfce-panel-plugins/language/el/) | 
+ | [xfce4-netload-plugin](/f35/package/xfce4-netload-plugin) | 91 | 91 | 100.0 | Greek (http://www.transifex.com/xfce/xfce-panel-plugins/language/el/) | 
+ | [xfce4-notes-plugin](/f35/package/xfce4-notes-plugin) | 163 | 163 | 100.0 | Greek (http://www.transifex.com/xfce/xfce-panel-plugins/language/el/) | 
+ | [xfce4-places-plugin](/f35/package/xfce4-places-plugin) | 162 | 162 | 100.0 | Greek (http://www.transifex.com/xfce/xfce-panel-plugins/language/el/) | 
+ | [xfce4-pulseaudio-plugin](/f35/package/xfce4-pulseaudio-plugin) | 148 | 148 | 100.0 | Greek (http://www.transifex.com/xfce/xfce-panel-plugins/language/el/) | 
+ | [xfce4-smartbookmark-plugin](/f35/package/xfce4-smartbookmark-plugin) | 22 | 22 | 100.0 | Greek (http://www.transifex.com/xfce/xfce-panel-plugins/language/el/) | 
+ | [xfce4-timer-plugin](/f35/package/xfce4-timer-plugin) | 135 | 135 | 100.0 | Greek (http://www.transifex.com/xfce/xfce-panel-plugins/language/el/) | 
+ | [xfce4-verve-plugin](/f35/package/xfce4-verve-plugin) | 87 | 87 | 100.0 | Greek (http://www.transifex.com/xfce/xfce-panel-plugins/language/el/) | 
+ | [xfce4-wavelan-plugin](/f35/package/xfce4-wavelan-plugin) | 67 | 67 | 100.0 | Greek (http://www.transifex.com/xfce/xfce-panel-plugins/language/el/) | 
+ | [xfce4-weather-plugin](/f35/package/xfce4-weather-plugin) | 3676 | 3676 | 100.0 | Greek (http://www.transifex.com/xfce/xfce-panel-plugins/language/el/) | 
+ | [xfce4-whiskermenu-plugin](/f35/package/xfce4-whiskermenu-plugin) | 387 | 387 | 100.0 | Greek (http://www.transifex.com/gottcode/xfce4-whiskermenu-plugin/language/el/) | 
+ | [xfce4-xkb-plugin](/f35/package/xfce4-xkb-plugin) | 57 | 57 | 100.0 | Greek (http://www.transifex.com/xfce/xfce-panel-plugins/language/el/) | 
+ | [xfconf](/f35/package/xfconf) | 458 | 458 | 100.0 | Greek (http://www.transifex.com/xfce/xfconf/language/el/) | 
+ | [xfdesktop](/f35/package/xfdesktop) | 1036 | 1036 | 100.0 | Greek (http://www.transifex.com/xfce/xfdesktop/language/el/) | 
+ | [xreader](/f35/package/xreader) | 3539 | 3539 | 100.0 | Greek <team@mate.gr> | 
+ | [yakuake](/f35/package/yakuake) | 1674 | 1674 | 100.0 | Greek <kde-i18n-el@kde.org> | 
+ | [yelp](/f35/package/yelp) | 351 | 351 | 100.0 | team@gnome.gr | 
+ | [yelp-xsl](/f35/package/yelp-xsl) | 85 | 85 | 100.0 | team@gnome.gr | 
+ | [zenity](/f35/package/zenity) | 3888 | 3888 | 100.0 | www.gnome.gr | 
+ | [korganizer](/f35/package/korganizer) | 7371 | 7372 | 100.0 | Greek <kde-i18n-el@kde.org> | 
+ | [gtk2](/f35/package/gtk2) | 12399 | 12404 | 100.0 | Greek <team@gnome.gr> | 
+ | [mingw-gtk2](/f35/package/mingw-gtk2) | 12399 | 12404 | 100.0 | Greek <team@gnome.gr> | 
+ | [smb4k](/f35/package/smb4k) | 6433 | 6436 | 100.0 | Greek <kde-i18n-el@kde.org> | 
+ | [pinta](/f35/package/pinta) | 1745 | 1746 | 99.9 | Greek <el@li.org> | 
+ | [webkit2gtk3](/f35/package/webkit2gtk3) | 1605 | 1606 | 99.9 | Greek <team@gnome.gr> | 
+ | [tellico](/f35/package/tellico) | 5858 | 5862 | 99.9 | Greek <kde-i18n-el@kde.org> | 
+ | [kmplayer](/f35/package/kmplayer) | 1248 | 1249 | 99.9 | Greek <kde-i18n-el@kde.org> | 
+ | [grsync](/f35/package/grsync) | 1159 | 1160 | 99.9 | Greek <team@gnome.gr> | 
+ | [tuxpaint-stamps](/f35/package/tuxpaint-stamps) | 3246 | 3249 | 99.9 |  | 
+ | [gwenview](/f35/package/gwenview) | 1671 | 1673 | 99.9 | Greek <kde-i18n-el@kde.org> | 
+ | [kid3](/f35/package/kid3) | 3179 | 3183 | 99.9 | Greek <kde-i18n-el@kde.org> | 
+ | [poedit](/f35/package/poedit) | 2916 | 2920 | 99.9 | Greek | 
+ | [gnome-chemistry-utils](/f35/package/gnome-chemistry-utils) | 4556 | 4563 | 99.8 | team@lists.gnome.gr | 
+ | [filezilla](/f35/package/filezilla) | 10806 | 10841 | 99.7 | Greek <dglent@free.fr> | 
+ | [gnome-system-monitor](/f35/package/gnome-system-monitor) | 5636 | 5655 | 99.7 | team@lists.gnome.gr | 
+ | [avahi](/f35/package/avahi) | 865 | 868 | 99.7 | Greek (http://www.transifex.com/lennart/avahi/language/el/) | 
+ | [kf5-akonadi-mime](/f35/package/kf5-akonadi-mime) | 567 | 569 | 99.6 | Greek <kde-i18n-el@kde.org> | 
+ | [krecipes](/f35/package/krecipes) | 3633 | 3646 | 99.6 | Greek <kde-i18n-el@kde.org> | 
+ | [konsole5](/f35/package/konsole5) | 3440 | 3454 | 99.6 | Greek <kde-i18n-el@kde.org> | 
+ | [pcmanfm](/f35/package/pcmanfm) | 1210 | 1215 | 99.6 | LANGUAGE <LL@li.org> | 
+ | [mingw-colord](/f35/package/mingw-colord) | 1877 | 1885 | 99.6 | Greek (http://www.transifex.com/projects/p/colord/language/el/) | 
+ | [okular](/f35/package/okular) | 5367 | 5391 | 99.6 | Greek <kde-i18n-el@kde.org> | 
+ | [kanatest](/f35/package/kanatest) | 426 | 428 | 99.5 | Greek <LL@li.org> | 
+ | [libmateweather](/f35/package/libmateweather) | 6113 | 6143 | 99.5 | Greek (https://www.transifex.com/mate/teams/13566/el/) | 
+ | [kgraphviewer](/f35/package/kgraphviewer) | 1199 | 1205 | 99.5 | Greek <kde-i18n-el@kde.org> | 
+ | [exo](/f35/package/exo) | 735 | 739 | 99.5 | Greek (http://www.transifex.com/xfce/exo/language/el/) | 
+ | [kate](/f35/package/kate) | 6953 | 6992 | 99.4 | Greek <kde-i18n-el@kde.org> | 
+ | [xfce4-dict](/f35/package/xfce4-dict) | 526 | 529 | 99.4 | Greek (http://www.transifex.com/xfce/xfce-apps/language/el/) | 
+ | [gtksourceview3](/f35/package/gtksourceview3) | 320 | 322 | 99.4 | team@lists.gnome.gr | 
+ | [mingw-gtksourceview3](/f35/package/mingw-gtksourceview3) | 320 | 322 | 99.4 | team@lists.gnome.gr | 
+ | [skrooge](/f35/package/skrooge) | 12050 | 12127 | 99.4 | Greek <kde-i18n-el@kde.org> | 
+ | [kf5-solid](/f35/package/kf5-solid) | 559 | 563 | 99.3 | Greek <kde-i18n-el@kde.org> | 
+ | [lxtask](/f35/package/lxtask) | 129 | 130 | 99.2 | Greek <nls@tux.hellug.gr> | 
+ | [amarok](/f35/package/amarok) | 15696 | 15819 | 99.2 | Greek <kde-i18n-el@kde.org> | 
+ | [xfce4-mount-plugin](/f35/package/xfce4-mount-plugin) | 380 | 383 | 99.2 | Greek (http://www.transifex.com/xfce/xfce-panel-plugins/language/el/) | 
+ | [kf5-syntax-highlighting](/f35/package/kf5-syntax-highlighting) | 607 | 612 | 99.2 | Greek <kde-i18n-el@kde.org> | 
+ | [mate-session-manager](/f35/package/mate-session-manager) | 709 | 715 | 99.2 | Greek (https://www.transifex.com/mate/teams/13566/el/) | 
+ | [xfce4-taskmanager](/f35/package/xfce4-taskmanager) | 229 | 231 | 99.1 | Greek (http://www.transifex.com/xfce/xfce-apps/language/el/) | 
+ | [mcrypt](/f35/package/mcrypt) | 956 | 965 | 99.1 | Hellenic <nls@hellug.gr> | 
+ | [kf5-incidenceeditor](/f35/package/kf5-incidenceeditor) | 2187 | 2208 | 99.0 | Greek <kde-i18n-el@kde.org> | 
+ | [phosh](/f35/package/phosh) | 208 | 210 | 99.0 | Greek, Modern (1453-) <gnome-el-list@gnome.org> | 
+ | [mingw-gstreamer](/f35/package/mingw-gstreamer) | 1898 | 1917 | 99.0 | Greek <team@lists.gnome.gr> | 
+ | [thonny](/f35/package/thonny) | 1795 | 1813 | 99.0 |  | 
+ | [scratch](/f35/package/scratch) | 1455 | 1470 | 99.0 | LANGUAGE <LL@li.org> | 
+ | [supertuxkart](/f35/package/supertuxkart) | 5854 | 5918 | 98.9 | Greek (http://www.transifex.com/supertuxkart/supertuxkart/language/el/) | 
+ | [knotes](/f35/package/knotes) | 789 | 798 | 98.9 | Greek <kde-i18n-el@kde.org> | 
+ | [kleopatra](/f35/package/kleopatra) | 9938 | 10052 | 98.9 | Greek <kde-i18n-el@kde.org> | 
+ | [thunar-archive-plugin](/f35/package/thunar-archive-plugin) | 87 | 88 | 98.9 | Greek (http://www.transifex.com/xfce/thunar-plugins/language/el/) | 
+ | [xfmpc](/f35/package/xfmpc) | 173 | 175 | 98.9 | Greek (http://www.transifex.com/xfce/xfce-apps/language/el/) | 
+ | [plasma-oxygen](/f35/package/plasma-oxygen) | 792 | 802 | 98.8 | Greek <kde-i18n-el@kde.org> | 
+ | [gitweb-caching](/f35/package/gitweb-caching) | 1887 | 1911 | 98.7 | Greek <i18n@lists.hellug.gr> | 
+ | [realmd](/f35/package/realmd) | 778 | 789 | 98.6 | Greek (http://www.transifex.com/freedesktop/realmd/language/el/) | 
+ | [bygfoot](/f35/package/bygfoot) | 9292 | 9433 | 98.5 |  | 
+ | [python-django](/f35/package/python-django) | 3729 | 3787 | 98.5 | Greek (http://www.transifex.com/django/django/language/el/) | 
+ | [step](/f35/package/step) | 3760 | 3819 | 98.5 | Greek <kde-i18n-el@kde.org> | 
+ | [leafpad](/f35/package/leafpad) | 123 | 125 | 98.4 | Greek <nls@tux.hellug.gr> | 
+ | [clementine](/f35/package/clementine) | 5162 | 5251 | 98.3 | Greek (http://www.transifex.com/davidsansome/clementine/language/el/) | 
+ | [compiz-plugins-main](/f35/package/compiz-plugins-main) | 4145 | 4218 | 98.3 | Greek <el@li.org> | 
+ | [kinfocenter](/f35/package/kinfocenter) | 735 | 748 | 98.3 | Greek <kde-i18n-el@kde.org> | 
+ | [kde-l10n](/f35/package/kde-l10n) | 99741 | 101651 | 98.1 | Ελληνικά <i18ngr@lists.hellug.gr> | 
+ | [krusader](/f35/package/krusader) | 7775 | 7929 | 98.1 | Greek <kde-i18n-el@kde.org> | 
+ | [homebank](/f35/package/homebank) | 2760 | 2815 | 98.0 | Hellenic <christosvas@in.gr> | 
+ | [kf5-kxmlgui](/f35/package/kf5-kxmlgui) | 1543 | 1574 | 98.0 | Greek <kde-i18n-el@kde.org> | 
+ | [xfwm4](/f35/package/xfwm4) | 647 | 660 | 98.0 | Greek (http://www.transifex.com/xfce/xfwm4/language/el/) | 
+ | [audacity](/f35/package/audacity) | 18133 | 18506 | 98.0 | team@lists.gnome.gr | 
+ | [xfce4-power-manager](/f35/package/xfce4-power-manager) | 1042 | 1064 | 97.9 | Greek (http://www.transifex.com/xfce/xfce4-power-manager/language/el/) | 
+ | [libreoffice](/f35/package/libreoffice) | 681574 | 696478 | 97.9 | Greek <https://translations.documentfoundation.org/projects/libo_ui-master/accessibilitymessages/el/> | 
+ | [pidgin](/f35/package/pidgin) | 15489 | 15835 | 97.8 | Greek (http://www.transifex.com/pidgin/pidgin/language/el/) | 
+ | [kde-style-breeze](/f35/package/kde-style-breeze) | 260 | 266 | 97.7 | Greek <kde-i18n-el@kde.org> | 
+ | [mate-menu](/f35/package/mate-menu) | 301 | 308 | 97.7 | Greek (http://www.transifex.com/mate/MATE/language/el/) | 
+ | [bubblemail](/f35/package/bubblemail) | 466 | 478 | 97.5 | Greek <> | 
+ | [fprintd](/f35/package/fprintd) | 419 | 430 | 97.4 | Greek (http://www.transifex.com/freedesktop/fprintd/language/el/) | 
+ | [cinnamon-translations](/f35/package/cinnamon-translations) | 22677 | 23274 | 97.4 | Greek <el@li.org> | 
+ | [gthumb](/f35/package/gthumb) | 8535 | 8760 | 97.4 | team@lists.gnome.gr | 
+ | [blogilo](/f35/package/blogilo) | 1157 | 1188 | 97.4 | Greek <kde-i18n-el@kde.org> | 
+ | [bleachbit](/f35/package/bleachbit) | 1791 | 1843 | 97.2 | Greek <el@li.org> | 
+ | [Thunar](/f35/package/Thunar) | 4282 | 4413 | 97.0 | Greek (https://www.transifex.com/xfce/teams/16840/el/) | 
+ | [gbrainy](/f35/package/gbrainy) | 10071 | 10380 | 97.0 | Greek <team@lists.gnome.gr> | 
+ | [colord-kde](/f35/package/colord-kde) | 358 | 369 | 97.0 | Greek <kde-i18n-el@kde.org> | 
+ | [gnome-control-center](/f35/package/gnome-control-center) | 7103 | 7324 | 97.0 | Greek <fedora-trans-el@redhat.com> | 
+ | [diffutils](/f35/package/diffutils) | 1807 | 1864 | 96.9 | Greek <team@lists.gnome.gr> | 
+ | [kio-gdrive](/f35/package/kio-gdrive) | 63 | 65 | 96.9 | Greek <kde-i18n-el@kde.org> | 
+ | [cracklib](/f35/package/cracklib) | 93 | 96 | 96.9 | Hellenic-Ελληνικά-Greek <hstg@billg.gr> | 
+ | [kicad](/f35/package/kicad) | 35777 | 36943 | 96.8 | Greek <https://hosted.weblate.org/projects/kicad/master-source/el/> | 
+ | [pacman](/f35/package/pacman) | 5020 | 5189 | 96.7 | Greek (http://www.transifex.com/toofishes/archlinux-pacman/language/el/) | 
+ | [klavaro](/f35/package/klavaro) | 1828 | 1893 | 96.6 | Greek <team@lists.gnome.gr> | 
+ | [python-django-taggit](/f35/package/python-django-taggit) | 28 | 29 | 96.6 | Greek <el@li.org> | 
+ | [xfce4-systemload-plugin](/f35/package/xfce4-systemload-plugin) | 84 | 87 | 96.6 | Greek (http://www.transifex.com/xfce/xfce-panel-plugins/language/el/) | 
+ | [thunar-volman](/f35/package/thunar-volman) | 467 | 484 | 96.5 | Greek (http://www.transifex.com/xfce/thunar-volman/language/el/) | 
+ | [khotkeys](/f35/package/khotkeys) | 435 | 451 | 96.5 | Greek <kde-i18n-el@kde.org> | 
+ | [rocs](/f35/package/rocs) | 1427 | 1480 | 96.4 | Greek <kde-i18n-el@kde.org> | 
+ | [gnome-tetravex](/f35/package/gnome-tetravex) | 1617 | 1678 | 96.4 | team@gnome.gr | 
+ | [parley](/f35/package/parley) | 3308 | 3439 | 96.2 | Greek <kde-i18n-el@kde.org> | 
+ | [skanlite](/f35/package/skanlite) | 176 | 183 | 96.2 | Greek <kde-i18n-el@kde.org> | 
+ | [frogr](/f35/package/frogr) | 1438 | 1497 | 96.1 | www.gnome.gr | 
+ | [kbrickbuster](/f35/package/kbrickbuster) | 146 | 152 | 96.1 | Greek <kde-i18n-el@kde.org> | 
+ | [sugar-typing-turtle](/f35/package/sugar-typing-turtle) | 575 | 599 | 96.0 | LANGUAGE <LL@li.org> | 
+ | [easystroke](/f35/package/easystroke) | 451 | 470 | 96.0 | Greek <el@li.org> | 
+ | [pitivi](/f35/package/pitivi) | 8629 | 9002 | 95.9 | www.gnome.gr | 
+ | [plasma-sdk](/f35/package/plasma-sdk) | 808 | 843 | 95.8 | Greek <kde-i18n-el@kde.org> | 
+ | [plasma-breeze](/f35/package/plasma-breeze) | 230 | 240 | 95.8 | Greek <kde-i18n-el@kde.org> | 
+ | [audacious-plugins](/f35/package/audacious-plugins) | 4075 | 4254 | 95.8 | Greek (http://www.transifex.com/audacious/audacious/language/el/) | 
+ | [kweather](/f35/package/kweather) | 156 | 163 | 95.7 | Greek <kde-i18n-el@kde.org> | 
+ | [orca](/f35/package/orca) | 17449 | 18239 | 95.7 | www.gnome.gr | 
+ | [ganyremote](/f35/package/ganyremote) | 485 | 507 | 95.7 | Greek | 
+ | [libuser](/f35/package/libuser) | 1374 | 1437 | 95.6 | Greek (http://www.transifex.com/projects/p/fedora/language/el/) | 
+ | [xfce4-session](/f35/package/xfce4-session) | 722 | 756 | 95.5 | Greek (http://www.transifex.com/xfce/xfce4-session/language/el/) | 
+ | [spectacle](/f35/package/spectacle) | 902 | 946 | 95.3 | Greek <kde-i18n-el@kde.org> | 
+ | [gtk3](/f35/package/gtk3) | 15303 | 16050 | 95.3 | www.gnome.gr | 
+ | [mingw-gtk3](/f35/package/mingw-gtk3) | 15303 | 16050 | 95.3 | www.gnome.gr | 
+ | [xfce4-time-out-plugin](/f35/package/xfce4-time-out-plugin) | 101 | 106 | 95.3 | Greek (http://www.transifex.com/xfce/xfce-panel-plugins/language/el/) | 
+ | [avogadro](/f35/package/avogadro) | 6293 | 6607 | 95.2 | Greek <el@li.org> | 
+ | [kf5-knotifications](/f35/package/kf5-knotifications) | 20 | 21 | 95.2 | Greek <kde-i18n-el@kde.org> | 
+ | [mate-menus](/f35/package/mate-menus) | 98 | 103 | 95.1 | Greek (https://www.transifex.com/mate/teams/13566/el/) | 
+ | [gretl](/f35/package/gretl) | 16488 | 17330 | 95.1 | Greek | 
+ | [onionshare](/f35/package/onionshare) | 4607 | 4844 | 95.1 | el <LL@li.org> | 
+ | [gigolo](/f35/package/gigolo) | 519 | 546 | 95.1 | Greek (http://www.transifex.com/xfce/xfce-apps/language/el/) | 
+ | [kf5-kconfigwidgets](/f35/package/kf5-kconfigwidgets) | 325 | 342 | 95.0 | Greek <kde-i18n-el@kde.org> | 
+ | [kanyremote](/f35/package/kanyremote) | 472 | 497 | 95.0 | Greek | 
+ | [ccsm](/f35/package/ccsm) | 561 | 591 | 94.9 | Greek <el@li.org> | 
+ | [gparted](/f35/package/gparted) | 7845 | 8266 | 94.9 | team@lists.gnome.gr | 
+ | [ksysguard](/f35/package/ksysguard) | 1037 | 1093 | 94.9 | Greek <kde-i18n-el@kde.org> | 
+ | [kile](/f35/package/kile) | 12322 | 12994 | 94.8 | Greek <kde-i18n-el@kde.org> | 
+ | [colord](/f35/package/colord) | 1885 | 1990 | 94.7 | Greek (http://www.transifex.com/freedesktop/colord/language/el/) | 
+ | [plank](/f35/package/plank) | 179 | 189 | 94.7 | Greek <el@li.org> | 
+ | [xfce4-settings](/f35/package/xfce4-settings) | 2296 | 2426 | 94.6 | Greek (https://www.transifex.com/xfce/teams/16840/el/) | 
+ | [kf5-kholidays](/f35/package/kf5-kholidays) | 139 | 147 | 94.6 | Greek <kde-i18n-el@kde.org> | 
+ | [xfce4-appfinder](/f35/package/xfce4-appfinder) | 409 | 433 | 94.5 | Greek (http://www.transifex.com/xfce/xfce4-appfinder/language/el/) | 
+ | [psmisc](/f35/package/psmisc) | 935 | 990 | 94.4 | Greek <team@lists.gnome.gr> | 
+ | [kf5-kcoreaddons](/f35/package/kf5-kcoreaddons) | 509 | 540 | 94.3 | Greek <kde-i18n-el@kde.org> | 
+ | [kexi](/f35/package/kexi) | 6949 | 7380 | 94.2 | Greek <kde-i18n-el@kde.org> | 
+ | [kf5-kimap](/f35/package/kf5-kimap) | 111 | 118 | 94.1 | Greek <kde-i18n-el@kde.org> | 
+ | [pspp](/f35/package/pspp) | 10330 | 10983 | 94.1 | Greek <team@lists.gnome.gr> | 
+ | [cinnamon-desktop](/f35/package/cinnamon-desktop) | 220 | 234 | 94.0 | team@gnome.gr | 
+ | [gnome-shell](/f35/package/gnome-shell) | 2622 | 2791 | 93.9 | Greek, Modern (1453-) <gnome-el-list@gnome.org> | 
+ | [warmux](/f35/package/warmux) | 2572 | 2744 | 93.7 |  | 
+ | [ksirk](/f35/package/ksirk) | 2511 | 2680 | 93.7 | Greek <kde-i18n-el@kde.org> | 
+ | [emerald](/f35/package/emerald) | 652 | 696 | 93.7 | Greek <el@li.org> | 
+ | [claws-mail](/f35/package/claws-mail) | 19746 | 21088 | 93.6 | hariskar@cryptolab.net | 
+ | [gnome-extensions-app](/f35/package/gnome-extensions-app) | 2588 | 2767 | 93.5 | Greek, Modern (1453-) <gnome-el-list@gnome.org> | 
+ | [mozo](/f35/package/mozo) | 43 | 46 | 93.5 | Greek (https://www.transifex.com/mate/teams/13566/el/) | 
+ | [help2man](/f35/package/help2man) | 532 | 570 | 93.3 | Greek <team@lists.gnome.gr> | 
+ | [kf5-kcmutils](/f35/package/kf5-kcmutils) | 248 | 266 | 93.2 | Greek <kde-i18n-el@kde.org> | 
+ | [simple-ccsm](/f35/package/simple-ccsm) | 151 | 162 | 93.2 | Greek <el@li.org> | 
+ | [cinnamon-control-center](/f35/package/cinnamon-control-center) | 1223 | 1313 | 93.1 | Greek <fedora-trans-el@redhat.com> | 
+ | [obconf](/f35/package/obconf) | 686 | 738 | 93.0 | Greek | 
+ | [transmission](/f35/package/transmission) | 1856 | 1998 | 92.9 | Greek (https://www.transifex.com/transmissionbt/teams/33778/el/) | 
+ | [filelight](/f35/package/filelight) | 404 | 435 | 92.9 | Greek <kde-i18n-doc@kde.org> | 
+ | [fragments](/f35/package/fragments) | 1863 | 2006 | 92.9 | Greek (https://www.transifex.com/transmissionbt/teams/33778/el/) | 
+ | [bluedevil](/f35/package/bluedevil) | 478 | 515 | 92.8 | Greek <kde-i18n-el@kde.org> | 
+ | [quitcount](/f35/package/quitcount) | 154 | 166 | 92.8 | Stella Korakaki <stella@tux.gr> | 
+ | [mate-backgrounds](/f35/package/mate-backgrounds) | 51 | 55 | 92.7 | Greek (https://www.transifex.com/mate/teams/13566/el/) | 
+ | [sweep](/f35/package/sweep) | 2224 | 2399 | 92.7 | Greek <EL@li.org> | 
+ | [kf5-purpose](/f35/package/kf5-purpose) | 299 | 323 | 92.6 | Greek <kde-i18n-el@kde.org> | 
+ | [gtkhash](/f35/package/gtkhash) | 197 | 213 | 92.5 | Greek <https://hosted.weblate.org/projects/gtkhash/translations/el/> | 
+ | [python-colander](/f35/package/python-colander) | 160 | 173 | 92.5 | el <LL@li.org> | 
+ | [xfce4-screenshooter](/f35/package/xfce4-screenshooter) | 487 | 528 | 92.2 | Greek (http://www.transifex.com/xfce/xfce-apps/language/el/) | 
+ | [calligra](/f35/package/calligra) | 33022 | 35868 | 92.1 | Greek <kde-i18n-el@kde.org> | 
+ | [xfce4-terminal](/f35/package/xfce4-terminal) | 1710 | 1862 | 91.8 | Greek (http://www.transifex.com/xfce/xfce-apps/language/el/) | 
+ | [xfburn](/f35/package/xfburn) | 1438 | 1567 | 91.8 | Greek (http://www.transifex.com/xfce/xfce-apps/language/el/) | 
+ | [deepin-pw-check](/f35/package/deepin-pw-check) | 54 | 59 | 91.5 | Greek (https://www.transifex.com/linuxdeepin/teams/3617/el/) | 
+ | [gnusim8085](/f35/package/gnusim8085) | 515 | 563 | 91.5 | Greek <el@li.org> | 
+ | [kclock](/f35/package/kclock) | 31 | 34 | 91.2 | Greek <kde-i18n-el@kde.org> | 
+ | [passwd](/f35/package/passwd) | 306 | 336 | 91.1 | Greek <trans-el@lists.fedoraproject.org> | 
+ | [lightdm-gtk-greeter-settings](/f35/package/lightdm-gtk-greeter-settings) | 472 | 519 | 90.9 | Greek <el@li.org> | 
+ | [compiz-plugins-extra](/f35/package/compiz-plugins-extra) | 3408 | 3750 | 90.9 | Greek <el@li.org> | 
+ | [switchboard-plug-notifications](/f35/package/switchboard-plug-notifications) | 129 | 142 | 90.8 | Greek <https://weblate.elementary.io/projects/switchboard/switchboard-plug-notifications/el/> | 
+ | [kf5-messagelib](/f35/package/kf5-messagelib) | 7443 | 8201 | 90.8 | Greek <kde-i18n-el@kde.org> | 
+ | [mousepad](/f35/package/mousepad) | 1530 | 1686 | 90.7 | Greek (http://www.transifex.com/xfce/xfce-apps/language/el/) | 
+ | [bookworm](/f35/package/bookworm) | 721 | 795 | 90.7 | Greek <https://hosted.weblate.org/projects/bookworm/bookworm/el/> | 
+ | [evolution-data-server](/f35/package/evolution-data-server) | 7007 | 7732 | 90.6 | Ελληνικά <> | 
+ | [python-wtforms](/f35/package/python-wtforms) | 183 | 202 | 90.6 | el <LL@li.org> | 
+ | [ristretto](/f35/package/ristretto) | 599 | 662 | 90.5 | Greek (http://www.transifex.com/xfce/xfce-apps/language/el/) | 
+ | [python-django-allauth](/f35/package/python-django-allauth) | 834 | 922 | 90.5 | LANGUAGE <LL@li.org> | 
+ | [kdepim-addons](/f35/package/kdepim-addons) | 1798 | 1993 | 90.2 | Greek <kde-i18n-el@kde.org> | 
+ | [marco](/f35/package/marco) | 3872 | 4303 | 90.0 | Greek (https://www.transifex.com/mate/teams/13566/el/) | 
+ | [kf5-kconfig](/f35/package/kf5-kconfig) | 260 | 289 | 90.0 | Greek <kde-i18n-el@kde.org> | 
+ | [python-flask-admin](/f35/package/python-flask-admin) | 330 | 367 | 89.9 | Greek | 
+ | [xfce4-panel-profiles](/f35/package/xfce4-panel-profiles) | 89 | 99 | 89.9 | Greek (https://www.transifex.com/xfce/teams/16840/el/) | 
+ | [evolution](/f35/package/evolution) | 46728 | 52050 | 89.8 | www.gnome.gr | 
+ | [plasma-pa](/f35/package/plasma-pa) | 228 | 254 | 89.8 | Greek <kde-i18n-el@kde.org> | 
+ | [mate-screensaver](/f35/package/mate-screensaver) | 987 | 1101 | 89.6 | Greek (https://www.transifex.com/mate/teams/13566/el/) | 
+ | [lxpanel](/f35/package/lxpanel) | 1251 | 1399 | 89.4 | LANGUAGE <LL@li.org> | 
+ | [kf5-kdelibs4support](/f35/package/kf5-kdelibs4support) | 4776 | 5353 | 89.2 | Greek <kde-i18n-el@kde.org> | 
+ | [kde-cli-tools](/f35/package/kde-cli-tools) | 2005 | 2250 | 89.1 | Greek <kde-i18n-el@kde.org> | 
+ | [gnome-applets](/f35/package/gnome-applets) | 16565 | 18603 | 89.0 | Greek <team@gnome.gr> | 
+ | [verbiste](/f35/package/verbiste) | 73 | 82 | 89.0 |  | 
+ | [xfce4-genmon-plugin](/f35/package/xfce4-genmon-plugin) | 89 | 100 | 89.0 | Greek (http://www.transifex.com/xfce/xfce-panel-plugins/language/el/) | 
+ | [angelfish](/f35/package/angelfish) | 426 | 479 | 88.9 | Greek <kde-i18n-el@kde.org> | 
+ | [xfce4-panel](/f35/package/xfce4-panel) | 1642 | 1847 | 88.9 | Greek (https://www.transifex.com/xfce/teams/16840/el/) | 
+ | [kf5-kirigami2](/f35/package/kf5-kirigami2) | 88 | 99 | 88.9 | Greek <kde-i18n-el@kde.org> | 
+ | [system-config-printer](/f35/package/system-config-printer) | 3078 | 3465 | 88.8 | Greek <trans-el@lists.fedoraproject.org> | 
+ | [tuxtype2](/f35/package/tuxtype2) | 71 | 80 | 88.8 | LANGUAGE <LL@li.org> | 
+ | [plasma-browser-integration](/f35/package/plasma-browser-integration) | 621 | 701 | 88.6 | Greek <kde-i18n-el@kde.org> | 
+ | [gnome-settings-daemon](/f35/package/gnome-settings-daemon) | 3027 | 3417 | 88.6 | Greek, Modern (1453-) <gnome-el-list@gnome.org> | 
+ | [gnome-devel-docs](/f35/package/gnome-devel-docs) | 149812 | 169192 | 88.5 | team@gnome.gr | 
+ | [xfce4-notifyd](/f35/package/xfce4-notifyd) | 261 | 296 | 88.2 | Greek (http://www.transifex.com/xfce/xfce-apps/language/el/) | 
+ | [xfce4-cpufreq-plugin](/f35/package/xfce4-cpufreq-plugin) | 141 | 160 | 88.1 | Greek (http://www.transifex.com/xfce/xfce-panel-plugins/language/el/) | 
+ | [switchboard-plug-sharing](/f35/package/switchboard-plug-sharing) | 124 | 141 | 87.9 | Greek <el@li.org> | 
+ | [lxlauncher](/f35/package/lxlauncher) | 51 | 58 | 87.9 | Greek <LL@li.org> | 
+ | [pastebinit](/f35/package/pastebinit) | 171 | 195 | 87.7 | Greek <el@li.org> | 
+ | [kf5-plasma](/f35/package/kf5-plasma) | 345 | 395 | 87.3 | Greek <kde-i18n-el@kde.org> | 
+ | [mate-media](/f35/package/mate-media) | 208 | 239 | 87.0 | Greek (https://www.transifex.com/mate/teams/13566/el/) | 
+ | [kcm_wacomtablet](/f35/package/kcm_wacomtablet) | 925 | 1064 | 86.9 | Greek <kde-i18n-el@kde.org> | 
+ | [l3afpad](/f35/package/l3afpad) | 113 | 130 | 86.9 | Greek <nls@tux.hellug.gr> | 
+ | [mate-desktop](/f35/package/mate-desktop) | 2064 | 2376 | 86.9 | Greek (https://www.transifex.com/mate/teams/13566/el/) | 
+ | [xchm](/f35/package/xchm) | 203 | 234 | 86.8 | Greek <gr@li.org> | 
+ | [lxinput](/f35/package/lxinput) | 72 | 83 | 86.7 | Greek <LL@li.org> | 
+ | [plasma-pass](/f35/package/plasma-pass) | 26 | 30 | 86.7 | Greek <kde-i18n-el@kde.org> | 
+ | [moodle](/f35/package/moodle) | 45 | 52 | 86.5 | i18n@lists.horde.org | 
+ | [rt](/f35/package/rt) | 10255 | 11867 | 86.4 | Greek <el@li.org> | 
+ | [ufw](/f35/package/ufw) | 758 | 879 | 86.2 | Greek <el@li.org> | 
+ | [caja](/f35/package/caja) | 8342 | 9675 | 86.2 | Greek (https://www.transifex.com/mate/teams/13566/el/) | 
+ | [bison](/f35/package/bison) | 1530 | 1776 | 86.1 | Greek <team@lists.gnome.gr> | 
+ | [gnome-activity-journal](/f35/package/gnome-activity-journal) | 272 | 316 | 86.1 | Greek <el@li.org> | 
+ | [mate-settings-daemon](/f35/package/mate-settings-daemon) | 1896 | 2206 | 85.9 | Greek (https://www.transifex.com/mate/teams/13566/el/) | 
+ | [sddm-kcm](/f35/package/sddm-kcm) | 159 | 185 | 85.9 | Greek <kde-i18n-el@kde.org> | 
+ | [alexandria](/f35/package/alexandria) | 1039 | 1212 | 85.7 | Greek | 
+ | [debconf](/f35/package/debconf) | 737 | 862 | 85.5 | American English <debian-l10n-greek@lists.debian.org> | 
+ | [python-formencode](/f35/package/python-formencode) | 693 | 813 | 85.2 | Greek <fedora-trans-el@redhat.com> | 
+ | [kdepim-runtime](/f35/package/kdepim-runtime) | 5212 | 6129 | 85.0 | Greek <kde-i18n-el@kde.org> | 
+ | [ejabberd](/f35/package/ejabberd) | 1855 | 2185 | 84.9 |  | 
+ | [midori](/f35/package/midori) | 3006 | 3541 | 84.9 | Ελληνικά, Σύγχρονα <opensuse-translation-el@opensuse.org> | 
+ | [icewm](/f35/package/icewm) | 1902 | 2255 | 84.3 | Greek <https://l10n.opensuse.org/projects/icewm/icewm-1-4-branch/el/> | 
+ | [chkconfig](/f35/package/chkconfig) | 500 | 593 | 84.3 | Greek <https://translate.fedoraproject.org/projects/fedora-sysv/chkconfig/el/> | 
+ | [libzypp](/f35/package/libzypp) | 2288 | 2714 | 84.3 | Greek <https://l10n.opensuse.org/projects/libzypp/master/el/> | 
+ | [atril](/f35/package/atril) | 3696 | 4389 | 84.2 | Greek (https://www.transifex.com/mate/teams/13566/el/) | 
+ | [onboard](/f35/package/onboard) | 1942 | 2318 | 83.8 | Greek <el@li.org> | 
+ | [kcoloredit](/f35/package/kcoloredit) | 232 | 278 | 83.5 | Greek <kde-i18n-el@kde.org> | 
+ | [libmatekbd](/f35/package/libmatekbd) | 256 | 308 | 83.1 | Greek (https://www.transifex.com/mate/teams/13566/el/) | 
+ | [tracker-miners](/f35/package/tracker-miners) | 1498 | 1807 | 82.9 | Ελληνικά <> | 
+ | [mate-themes](/f35/package/mate-themes) | 61 | 74 | 82.4 | Greek (http://www.transifex.com/mate/MATE/language/el/) | 
+ | [kalendar](/f35/package/kalendar) | 799 | 970 | 82.4 | Greek <kde-i18n-el@kde.org> | 
+ | [asunder](/f35/package/asunder) | 405 | 492 | 82.3 | <LL@li.org> | 
+ | [chromium](/f35/package/chromium) | 10854 | 13218 | 82.1 | www.gnome.gr | 
+ | [gtk4](/f35/package/gtk4) | 10854 | 13218 | 82.1 | www.gnome.gr | 
+ | [girara](/f35/package/girara) | 173 | 211 | 82.0 | Greek (http://www.transifex.com/pwmt/girara/language/el/) | 
+ | [supertux](/f35/package/supertux) | 2497 | 3056 | 81.7 | Greek (http://www.transifex.com/arctic-games/supertux/language/el/) | 
+ | [kscreen](/f35/package/kscreen) | 312 | 382 | 81.7 | Greek <kde-i18n-el@kde.org> | 
+ | [maliit-keyboard](/f35/package/maliit-keyboard) | 66 | 81 | 81.5 |  | 
+ | [frozen-bubble](/f35/package/frozen-bubble) | 567 | 698 | 81.2 | Greek | 
+ | [findutils](/f35/package/findutils) | 2146 | 2649 | 81.0 | Greek <team@lists.gnome.gr> | 
+ | [warzone2100](/f35/package/warzone2100) | 12641 | 15617 | 80.9 | Greek | 
+ | [libfm](/f35/package/libfm) | 1270 | 1575 | 80.6 |  | 
+ | [kf5-mailcommon](/f35/package/kf5-mailcommon) | 2392 | 2969 | 80.6 | Greek <kde-i18n-el@kde.org> | 
+ | [shared-mime-info](/f35/package/shared-mime-info) | 1653 | 2058 | 80.3 | Greek (http://www.transifex.com/freedesktop/shared-mime-info/language/el/) | 
+ | [kf5-ktexteditor](/f35/package/kf5-ktexteditor) | 7020 | 8877 | 79.1 | Greek <kde-i18n-el@kde.org> | 
+ | [gnome-do](/f35/package/gnome-do) | 483 | 612 | 78.9 | Greek <el@li.org> | 
+ | [gstreamer1](/f35/package/gstreamer1) | 1726 | 2192 | 78.7 | Greek <team@lists.gnome.gr> | 
+ | [mingw-gstreamer1](/f35/package/mingw-gstreamer1) | 1726 | 2192 | 78.7 | Greek <team@lists.gnome.gr> | 
+ | [tigervnc](/f35/package/tigervnc) | 548 | 697 | 78.6 | Greek <team@lists.gnome.gr> | 
+ | [thunar-vcs-plugin](/f35/package/thunar-vcs-plugin) | 466 | 595 | 78.3 | Greek (http://www.transifex.com/xfce/thunar-plugins/language/el/) | 
+ | [xfce4-mpc-plugin](/f35/package/xfce4-mpc-plugin) | 61 | 78 | 78.2 | Greek (http://www.transifex.com/xfce/xfce-panel-plugins/language/el/) | 
+ | [mate-panel](/f35/package/mate-panel) | 5255 | 6720 | 78.2 | Greek (https://www.transifex.com/mate/teams/13566/el/) | 
+ | [gnome-phone-manager](/f35/package/gnome-phone-manager) | 399 | 513 | 77.8 | **Greek** <**team@gnome.gr**> | 
+ | [efl](/f35/package/efl) | 121 | 156 | 77.6 | Ελληνικά, Σύγχρονα <opensuse-translation-el@opensuse.org> | 
+ | [celestia](/f35/package/celestia) | 2044 | 2640 | 77.4 | Hellenic <ckouz@uom.gr> | 
+ | [gnome-break-timer](/f35/package/gnome-break-timer) | 461 | 596 | 77.3 | www.gnome.gr | 
+ | [gnome-software](/f35/package/gnome-software) | 3286 | 4249 | 77.3 | Greek, Modern (1453-) <gnome-el-list@gnome.org> | 
+ | [elisa-player](/f35/package/elisa-player) | 522 | 676 | 77.2 | Greek <kde-i18n-el@kde.org> | 
+ | [libksysguard](/f35/package/libksysguard) | 2968 | 3859 | 76.9 | Greek <kde-i18n-el@kde.org> | 
+ | [menulibre](/f35/package/menulibre) | 670 | 873 | 76.7 | Greek <el@li.org> | 
+ | [cairo-dock-plug-ins](/f35/package/cairo-dock-plug-ins) | 7790 | 10203 | 76.4 | Greek <el@li.org> | 
+ | [shadow-utils](/f35/package/shadow-utils) | 3568 | 4677 | 76.3 | Greek <debian-l10n-greek@lists.debian.org> | 
+ | [gramps](/f35/package/gramps) | 30447 | 39917 | 76.3 | Greek <zissis@mail.com> | 
+ | [kf5-kio](/f35/package/kf5-kio) | 9055 | 11908 | 76.0 | Greek <kde-i18n-el@kde.org> | 
+ | [kmymoney](/f35/package/kmymoney) | 16784 | 22091 | 76.0 | Greek <kde-i18n-doc@kde.org> | 
+ | [kf5-kunitconversion](/f35/package/kf5-kunitconversion) | 4371 | 5757 | 75.9 | Greek <kde-i18n-el@kde.org> | 
+ | [gscan2pdf](/f35/package/gscan2pdf) | 1385 | 1840 | 75.3 | Greek <el@li.org> | 
+ | [radeontop](/f35/package/radeontop) | 152 | 202 | 75.2 | Greek <el@li.org> | 
+ | [mate-user-guide](/f35/package/mate-user-guide) | 32289 | 42969 | 75.1 | Greek (https://www.transifex.com/mate/teams/13566/el/) | 
+ | [python-sphinx](/f35/package/python-sphinx) | 3593 | 4793 | 75.0 | Greek (http://www.transifex.com/sphinx-doc/sphinx-1/language/el/) | 
+ | [xfce4-sensors-plugin](/f35/package/xfce4-sensors-plugin) | 322 | 433 | 74.4 | Greek (http://www.transifex.com/xfce/xfce-panel-plugins/language/el/) | 
+ | [xarchiver](/f35/package/xarchiver) | 900 | 1214 | 74.1 | Greek <nls@tux.hellug.gr> | 
+ | [kmail](/f35/package/kmail) | 6856 | 9255 | 74.1 | Greek <kde-i18n-el@kde.org> | 
+ | [elementary-music](/f35/package/elementary-music) | 892 | 1205 | 74.0 | Greek <https://weblate.elementary.io/projects/music/music/el/> | 
+ | [caja-extensions](/f35/package/caja-extensions) | 559 | 760 | 73.6 | Greek (https://www.transifex.com/mate/teams/13566/el/) | 
+ | [calls](/f35/package/calls) | 127 | 173 | 73.4 | Greek <gnome-el-list@gnome.org> | 
+ | [metacity](/f35/package/metacity) | 1371 | 1873 | 73.2 | Greek <team@gnome.gr> | 
+ | [mate-notification-daemon](/f35/package/mate-notification-daemon) | 136 | 186 | 73.1 | Greek (https://www.transifex.com/mate/teams/13566/el/) | 
+ | [wineglass](/f35/package/wineglass) | 103 | 143 | 72.0 | Greek | 
+ | [compiz](/f35/package/compiz) | 3141 | 4385 | 71.6 | Greek <el@li.org> | 
+ | [umbrello](/f35/package/umbrello) | 4630 | 6506 | 71.2 | Greek <kde-i18n-doc@kde.org> | 
+ | [pidgin-birthday-reminder](/f35/package/pidgin-birthday-reminder) | 204 | 289 | 70.6 | Greek (http://www.transifex.com/kgraefe/pidgin-birthday-reminder/language/el/) | 
+ | [geary](/f35/package/geary) | 3307 | 4685 | 70.6 | www.gnome.gr | 
+ | [apt](/f35/package/apt) | 3819 | 5413 | 70.6 | Greek <debian-l10n-greek@lists.debian.org> | 
+ | [sugar-write](/f35/package/sugar-write) | 85 | 121 | 70.2 | Greek <olpc@grnet.gr> | 
+ | [kpilot](/f35/package/kpilot) | 4982 | 7156 | 69.6 | Greek <kde-i18n-el@kde.org> | 
+ | [osmo](/f35/package/osmo) | 1226 | 1771 | 69.2 | Greek | 
+ | [workrave](/f35/package/workrave) | 967 | 1398 | 69.2 | <en@li.org> | 
+ | [lokalize](/f35/package/lokalize) | 2820 | 4086 | 69.0 | Greek <kde-i18n-doc@kde.org> | 
+ | [mingw-wxWidgets](/f35/package/mingw-wxWidgets) | 4403 | 6391 | 68.9 | Tsolakos Stavros <tsolako1@otenet.gr>, Nassos Yiannopoulos <nassosy@compulink.gr> | 
+ | [udisks2](/f35/package/udisks2) | 1506 | 2187 | 68.9 | Greek | 
+ | [parole](/f35/package/parole) | 745 | 1088 | 68.5 | Greek (http://www.transifex.com/xfce/xfce-apps/language/el/) | 
+ | [sylpheed](/f35/package/sylpheed) | 4922 | 7214 | 68.2 | Greek <nls@tux.hellug.gr> | 
+ | [isoimagewriter](/f35/package/isoimagewriter) | 266 | 390 | 68.2 | Greek <kde-i18n-el@kde.org> | 
+ | [xfce4-clipman-plugin](/f35/package/xfce4-clipman-plugin) | 362 | 531 | 68.2 | Greek (http://www.transifex.com/xfce/xfce-panel-plugins/language/el/) | 
+ | [kf5-kdeclarative](/f35/package/kf5-kdeclarative) | 107 | 157 | 68.2 | Greek <kde-i18n-el@kde.org> | 
+ | [plasma-nm](/f35/package/plasma-nm) | 3504 | 5221 | 67.1 | Greek <kde-i18n-el@kde.org> | 
+ | [gcolor3](/f35/package/gcolor3) | 40 | 60 | 66.7 | Greek | 
+ | [tuxpaint](/f35/package/tuxpaint) | 1521 | 2286 | 66.5 |  | 
+ | [glib2](/f35/package/glib2) | 4952 | 7465 | 66.3 | www.gnome.gr | 
+ | [mingw-glib2](/f35/package/mingw-glib2) | 4952 | 7465 | 66.3 | www.gnome.gr | 
+ | [freedink](/f35/package/freedink) | 174 | 263 | 66.2 | Greek <team@lists.gnome.gr> | 
+ | [elementary-photos](/f35/package/elementary-photos) | 2653 | 4011 | 66.1 | Greek <https://weblate.elementary.io/projects/photos/photos/el/> | 
+ | [hello](/f35/package/hello) | 123 | 186 | 66.1 | Greek <team@lists.gnome.gr> | 
+ | [pulsecaster](/f35/package/pulsecaster) | 140 | 214 | 65.4 | Greek (http://www.transifex.com/stickster/pulsecaster/language/el/) | 
+ | [initscripts](/f35/package/initscripts) | 731 | 1118 | 65.4 | Greek <trans-el@lists.fedoraproject.org> | 
+ | [wike](/f35/package/wike) | 252 | 390 | 64.6 |  | 
+ | [zypper](/f35/package/zypper) | 5955 | 9243 | 64.4 | Greek <https://l10n.opensuse.org/projects/zypper/master/el/> | 
+ | [gstreamer1-plugins-base](/f35/package/gstreamer1-plugins-base) | 655 | 1037 | 63.2 | Greek <team@lists.gnome.gr> | 
+ | [mingw-gstreamer1-plugins-base](/f35/package/mingw-gstreamer1-plugins-base) | 655 | 1037 | 63.2 | Greek <team@lists.gnome.gr> | 
+ | [python-nikola](/f35/package/python-nikola) | 59 | 94 | 62.8 | Greek (http://www.transifex.com/ralsina/nikola/language/el/) | 
+ | [lxterminal](/f35/package/lxterminal) | 132 | 212 | 62.3 | Greek | 
+ | [snapper](/f35/package/snapper) | 678 | 1095 | 61.9 | Greek <https://l10n.opensuse.org/projects/snapper/master/el/> | 
+ | [libxfce4ui](/f35/package/libxfce4ui) | 589 | 957 | 61.5 | Greek (http://www.transifex.com/xfce/libxfce4ui/language/el/) | 
+ | [xfpanel-switch](/f35/package/xfpanel-switch) | 62 | 101 | 61.4 | Greek <el@li.org> | 
+ | [xfe](/f35/package/xfe) | 3757 | 6127 | 61.3 |  | 
+ | [hexchat](/f35/package/hexchat) | 3637 | 5971 | 60.9 | Greek (http://www.transifex.com/hexchat/hexchat/language/el/) | 
+ | [plasma-desktop](/f35/package/plasma-desktop) | 4743 | 7853 | 60.4 | Greek <kde-i18n-el@kde.org> | 
+ | [pipewire-media-session](/f35/package/pipewire-media-session) | 3 | 5 | 60.0 | team@lists.gnome.gr | 
+ | [tuxmath](/f35/package/tuxmath) | 869 | 1455 | 59.7 | Giannis Konstantinidis <gloooabvoe9a@gmail.com> | 
+ | [xournalpp](/f35/package/xournalpp) | 2400 | 4034 | 59.5 | Greek | 
+ | [kf5-kwidgetsaddons](/f35/package/kf5-kwidgetsaddons) | 773 | 1304 | 59.3 | Greek <kde-i18n-el@kde.org> | 
+ | [calligraplan](/f35/package/calligraplan) | 5881 | 9943 | 59.1 | Greek <kde-i18n-el@kde.org> | 
+ | [enigma](/f35/package/enigma) | 5340 | 9031 | 59.1 | Greek (http://www.transifex.com/projects/p/enigma/language/el/) | 
+ | [plasma-workspace](/f35/package/plasma-workspace) | 6648 | 11252 | 59.1 | Greek <kde-i18n-el@kde.org> | 
+ | [kdeplasma-addons](/f35/package/kdeplasma-addons) | 903 | 1540 | 58.6 | Greek <kde-i18n-el@kde.org> | 
+ | [Zim](/f35/package/Zim) | 1978 | 3386 | 58.4 | Greek <https://hosted.weblate.org/projects/zim/master/el/> | 
+ | [xfce4-docklike-plugin](/f35/package/xfce4-docklike-plugin) | 77 | 132 | 58.3 | EL | 
+ | [mate-terminal](/f35/package/mate-terminal) | 4877 | 8386 | 58.2 | Greek (https://www.transifex.com/mate/teams/13566/el/) | 
+ | [lyx](/f35/package/lyx) | 14858 | 25702 | 57.8 | LyX team <lyx-docs@lists.lyx.org> | 
+ | [quodlibet](/f35/package/quodlibet) | 4438 | 7686 | 57.7 | Greek <https://hosted.weblate.org/projects/quodlibet/quodlibet/el/> | 
+ | [blueman](/f35/package/blueman) | 1075 | 1863 | 57.7 | Greek <https://hosted.weblate.org/projects/blueman/blueman/el/> | 
+ | [cairo-dock](/f35/package/cairo-dock) | 4297 | 7464 | 57.6 | Greek | 
+ | [python-django-robots](/f35/package/python-django-robots) | 122 | 212 | 57.5 | Greek (http://www.transifex.com/projects/p/django-robots/language/el/) | 
+ | [pulseaudio](/f35/package/pulseaudio) | 2156 | 3752 | 57.5 | team@lists.gnome.gr | 
+ | [geeqie](/f35/package/geeqie) | 3092 | 5446 | 56.8 | Greek <231036448@freemail.gr> | 
+ | [lxrandr](/f35/package/lxrandr) | 94 | 167 | 56.3 | Greek <LL@li.org> | 
+ | [gpodder](/f35/package/gpodder) | 1247 | 2221 | 56.1 | Greek (http://www.transifex.com/projects/p/gpodder/language/el/) | 
+ | [mate-power-manager](/f35/package/mate-power-manager) | 2872 | 5119 | 56.1 | Greek (https://www.transifex.com/mate/teams/13566/el/) | 
+ | [krecorder](/f35/package/krecorder) | 54 | 97 | 55.7 | Greek <kde-i18n-el@kde.org> | 
+ | [aria2](/f35/package/aria2) | 4151 | 7486 | 55.5 | Greek <el@li.org> | 
+ | [trac](/f35/package/trac) | 7185 | 13156 | 54.6 | Greek (http://www.transifex.com/projects/p/trac/language/el/) | 
+ | [mate-applets](/f35/package/mate-applets) | 8693 | 15957 | 54.5 | Greek (https://www.transifex.com/mate/teams/13566/el/) | 
+ | [gstreamer1-plugins-good](/f35/package/gstreamer1-plugins-good) | 450 | 831 | 54.2 | Greek <team@lists.gnome.gr> | 
+ | [mingw-gstreamer1-plugins-good](/f35/package/mingw-gstreamer1-plugins-good) | 450 | 831 | 54.2 | Greek <team@lists.gnome.gr> | 
+ | [skychart](/f35/package/skychart) | 3505 | 6487 | 54.0 |  | 
+ | [marble](/f35/package/marble) | 6062 | 11477 | 52.8 | Greek <kde-i18n-el@kde.org> | 
+ | [gnome-usage](/f35/package/gnome-usage) | 134 | 254 | 52.8 | Ελληνικά <> | 
+ | [mutt](/f35/package/mutt) | 3536 | 6706 | 52.7 | Greek <EL@li.org> | 
+ | [kphotoalbum](/f35/package/kphotoalbum) | 4927 | 9389 | 52.5 | Greek <kde-i18n-el@kde.org> | 
+ | [kwin](/f35/package/kwin) | 2949 | 5639 | 52.3 | Greek <kde-i18n-el@kde.org> | 
+ | [WindowMaker](/f35/package/WindowMaker) | 1043 | 1995 | 52.3 | Greek | 
+ | [dia](/f35/package/dia) | 3442 | 6601 | 52.1 | Greek <team@gnome.gr> | 
+ | [sed](/f35/package/sed) | 432 | 830 | 52.0 | Greek <team@lists.gnome.gr> | 
+ | [zabbix](/f35/package/zabbix) | 8695 | 16781 | 51.8 | none | 
+ | [polari](/f35/package/polari) | 1048 | 2026 | 51.7 | Ελληνικά <> | 
+ | [enlightenment](/f35/package/enlightenment) | 4668 | 9053 | 51.6 | Ελληνικά, Σύγχρονα <opensuse-translation-el@opensuse.org> | 
+ | [mate-utils](/f35/package/mate-utils) | 5172 | 10060 | 51.4 | Greek (https://www.transifex.com/mate/teams/13566/el/) | 
+ | [gnupg1](/f35/package/gnupg1) | 4440 | 8640 | 51.4 | Greek <nls@tux.hellug.gr> | 
+ | [kf5-pimcommon](/f35/package/kf5-pimcommon) | 649 | 1266 | 51.3 | Greek <kde-i18n-el@kde.org> | 
+ | [spacefm](/f35/package/spacefm) | 4444 | 8722 | 51.0 | Greek (http://www.transifex.com/projects/p/spacefm/language/el/) | 
+ | [kscreenlocker](/f35/package/kscreenlocker) | 114 | 224 | 50.9 | Greek <kde-i18n-el@kde.org> | 
+ | [grub-customizer](/f35/package/grub-customizer) | 640 | 1295 | 49.4 | Greek <el@li.org> | 
+ | [mlocate](/f35/package/mlocate) | 286 | 581 | 49.2 | Greek <trans-el@lists.fedoraproject.org> | 
+ | [phodav](/f35/package/phodav) | 31 | 63 | 49.2 | team@lists.gnome.gr | 
+ | [gimagereader](/f35/package/gimagereader) | 886 | 1817 | 48.8 | Greek <https://hosted.weblate.org/projects/gimagereader/translations/el/> | 
+ | [galculator](/f35/package/galculator) | 454 | 935 | 48.6 | Greek (http://www.transifex.com/mate/MATE/language/el/) | 
+ | [lightdm](/f35/package/lightdm) | 79 | 163 | 48.5 | Greek <el@li.org> | 
+ | [mingw-wxWidgets3](/f35/package/mingw-wxWidgets3) | 3719 | 7695 | 48.3 | Tsolakos Stavros <tsolako1@otenet.gr>, Nassos Yiannopoulos <nassosy@compulink.gr> | 
+ | [python-wxpython4](/f35/package/python-wxpython4) | 3719 | 7695 | 48.3 | Tsolakos Stavros <tsolako1@otenet.gr>, Nassos Yiannopoulos <nassosy@compulink.gr> | 
+ | [wxGTK3](/f35/package/wxGTK3) | 3719 | 7695 | 48.3 | Tsolakos Stavros <tsolako1@otenet.gr>, Nassos Yiannopoulos <nassosy@compulink.gr> | 
+ | [gnome-builder](/f35/package/gnome-builder) | 2531 | 5239 | 48.3 | Greek <team@lists.gnome.gr> | 
+ | [simple-scan](/f35/package/simple-scan) | 1115 | 2323 | 48.0 | Greek, Modern (1453-) <gnome-el-list@gnome.org> | 
+ | [mc](/f35/package/mc) | 2086 | 4350 | 48.0 | Greek (http://www.transifex.com/mc/mc/language/el/) | 
+ | [kf5-libksieve](/f35/package/kf5-libksieve) | 1616 | 3380 | 47.8 | Greek <kde-i18n-el@kde.org> | 
+ | [plasma-drkonqi](/f35/package/plasma-drkonqi) | 934 | 1966 | 47.5 | Greek <kde-i18n-el@kde.org> | 
+ | [gnome-font-viewer](/f35/package/gnome-font-viewer) | 253 | 536 | 47.2 | Greek, Modern (1453-) <team@gnome.gr> | 
+ | [springlobby](/f35/package/springlobby) | 2136 | 4570 | 46.7 | Greek <el@li.org> | 
+ | [visualboyadvance-m](/f35/package/visualboyadvance-m) | 2228 | 4786 | 46.6 | Greek (Greece) (http://www.transifex.com/bgk/vba-m/language/el_GR/) | 
+ | [pantheon-agent-geoclue2](/f35/package/pantheon-agent-geoclue2) | 47 | 101 | 46.5 | LANGUAGE <LL@li.org> | 
+ | [kf5-kcalendarutils](/f35/package/kf5-kcalendarutils) | 683 | 1475 | 46.3 | Greek <kde-i18n-el@kde.org> | 
+ | [wingpanel-indicator-session](/f35/package/wingpanel-indicator-session) | 50 | 108 | 46.3 | Greek <https://weblate.elementary.io/projects/wingpanel/wingpanel-indicator-session/el/> | 
+ | [deluge](/f35/package/deluge) | 2003 | 4340 | 46.2 | Greek <el@li.org> | 
+ | [wingpanel-indicator-power](/f35/package/wingpanel-indicator-power) | 86 | 191 | 45.0 | LANGUAGE <LL@li.org> | 
+ | [fldigi](/f35/package/fldigi) | 3681 | 8190 | 44.9 | Greek (Haris Andrianos) <sv1grb@gmail.com> | 
+ | [recode](/f35/package/recode) | 342 | 761 | 44.9 | Greek <team@lists.gnome.gr> | 
+ | [libnma](/f35/package/libnma) | 412 | 917 | 44.9 | team@lists.gnome.gr | 
+ | [wxGTK](/f35/package/wxGTK) | 3486 | 7815 | 44.6 | Tsolakos Stavros <tsolako1@otenet.gr>, Nassos Yiannopoulos <nassosy@compulink.gr> | 
+ | [xdg-desktop-portal-kde](/f35/package/xdg-desktop-portal-kde) | 110 | 247 | 44.5 | Greek <kde-i18n-el@kde.org> | 
+ | [zathura](/f35/package/zathura) | 332 | 747 | 44.4 | Greek (http://www.transifex.com/pwmt/zathura/language/el/) | 
+ | [elementary-screenshot-tool](/f35/package/elementary-screenshot-tool) | 110 | 248 | 44.4 | LANGUAGE <LL@li.org> | 
+ | [sos](/f35/package/sos) | 54 | 122 | 44.3 | Greek <trans-el@lists.fedoraproject.org> | 
+ | [grisbi](/f35/package/grisbi) | 6375 | 14496 | 44.0 | KASKAS <ttnfy17@yahoo.gr> | 
+ | [totem](/f35/package/totem) | 1402 | 3202 | 43.8 | Ελληνικά <> | 
+ | [vdr](/f35/package/vdr) | 593 | 1373 | 43.2 | Greek <vdr@linuxtv.org> | 
+ | [compiz-plugins-experimental](/f35/package/compiz-plugins-experimental) | 1930 | 4473 | 43.1 | Greek <el@li.org> | 
+ | [xfce4-cpugraph-plugin](/f35/package/xfce4-cpugraph-plugin) | 78 | 181 | 43.1 | Greek (http://www.transifex.com/xfce/xfce-panel-plugins/language/el/) | 
+ | [NetworkManager-openconnect](/f35/package/NetworkManager-openconnect) | 2723 | 6362 | 42.8 | team@gnome.gr | 
+ | [lollypop](/f35/package/lollypop) | 615 | 1437 | 42.8 | Greek <https://hosted.weblate.org/projects/gnumdk/lollypop/el/> | 
+ | [python-django-rest-framework](/f35/package/python-django-rest-framework) | 548 | 1284 | 42.7 | Greek (Greece) (http://www.transifex.com/django-rest-framework-1/django-rest-framework/language/el_GR/) | 
+ | [fuse-encfs](/f35/package/fuse-encfs) | 545 | 1289 | 42.3 | Greek <el@li.org> | 
+ | [mate-control-center](/f35/package/mate-control-center) | 3479 | 8248 | 42.2 | Greek (https://www.transifex.com/mate/teams/13566/el/) | 
+ | [rednotebook](/f35/package/rednotebook) | 483 | 1147 | 42.1 | Greek <el@li.org> | 
+ | [quassel](/f35/package/quassel) | 3493 | 8362 | 41.8 | Greek (http://www.transifex.com/quassel/quassel/language/el/) | 
+ | [switchboard-plug-networking](/f35/package/switchboard-plug-networking) | 222 | 532 | 41.7 | Greek <https://l10n.elementary.io/projects/switchboard/switchboard-plug-networking/el/> | 
+ | [cozy](/f35/package/cozy) | 423 | 1026 | 41.2 | Greek (https://www.transifex.com/geigi/teams/78138/el/) | 
+ | [eiskaltdcpp](/f35/package/eiskaltdcpp) | 1490 | 3626 | 41.1 | Greek (https://www.transifex.com/tehnick/teams/11818/el/) | 
+ | [gambas3](/f35/package/gambas3) | 2954 | 7233 | 40.8 | LANGUAGE <LL@li.org> | 
+ | [deepin-daemon](/f35/package/deepin-daemon) | 926 | 2274 | 40.7 | Greek (Greece) (http://www.transifex.com/linuxdeepin/deepin-desktop-environment/language/el_GR/) | 
+ | [pluma](/f35/package/pluma) | 5308 | 13113 | 40.5 | Greek (https://www.transifex.com/mate/teams/13566/el/) | 
+ | [eom](/f35/package/eom) | 2006 | 4961 | 40.4 | Greek (https://www.transifex.com/mate/teams/13566/el/) | 
+ | [gtk-gnutella](/f35/package/gtk-gnutella) | 6939 | 17295 | 40.1 | Greek (http://www.transifex.com/gtk-gnutella/gtk-gnutella/language/el/) | 
+ | [ksudoku](/f35/package/ksudoku) | 700 | 1746 | 40.1 | Greek <kde-i18n-el@kde.org> | 
+ | [kcachegrind](/f35/package/kcachegrind) | 1736 | 4367 | 39.8 | Greek <kde-i18n-doc@kde.org> | 
+ | [soundconverter](/f35/package/soundconverter) | 201 | 507 | 39.6 | Greek <el@li.org> | 
+ | [latte-dock](/f35/package/latte-dock) | 1397 | 3526 | 39.6 | Greek <kde-i18n-el@kde.org> | 
+ | [gnome-shell-extension-openweather](/f35/package/gnome-shell-extension-openweather) | 238 | 601 | 39.6 |  | 
+ | [terminology](/f35/package/terminology) | 385 | 982 | 39.2 | Greek <https://hosted.weblate.org/projects/terminology/terminology/el/> | 
+ | [switchboard](/f35/package/switchboard) | 58 | 148 | 39.2 | Greek <el@li.org> | 
+ | [systemd](/f35/package/systemd) | 590 | 1506 | 39.2 | team@lists.gnome.gr | 
+ | [mate-calc](/f35/package/mate-calc) | 1300 | 3323 | 39.1 | Greek (https://www.transifex.com/mate/teams/13566/el/) | 
+ | [jmol](/f35/package/jmol) | 1238 | 3166 | 39.1 | Greek <el@li.org> | 
+ | [stardict](/f35/package/stardict) | 1184 | 3035 | 39.0 |  | 
+ | [giac](/f35/package/giac) | 3214 | 8239 | 39.0 | LANGUAGE <LL@li.org> | 
+ | [openconnect](/f35/package/openconnect) | 2609 | 6727 | 38.8 | team@gnome.gr | 
+ | [xkeyboard-config](/f35/package/xkeyboard-config) | 1524 | 3932 | 38.8 | Greek <team@lists.gnome.gr> | 
+ | [liferea](/f35/package/liferea) | 848 | 2216 | 38.3 | <team@gnome.gr> | 
+ | [digikam](/f35/package/digikam) | 21848 | 58022 | 37.7 | Greek <kde-i18n-el@kde.org> | 
+ | [remmina](/f35/package/remmina) | 1964 | 5272 | 37.3 | Greek <https://hosted.weblate.org/projects/remmina/remmina/el/> | 
+ | [gstreamer1-plugins-bad-free](/f35/package/gstreamer1-plugins-bad-free) | 73 | 197 | 37.1 | Greek <team@lists.gnome.gr> | 
+ | [mingw-gstreamer1-plugins-bad-free](/f35/package/mingw-gstreamer1-plugins-bad-free) | 73 | 197 | 37.1 | Greek <team@lists.gnome.gr> | 
+ | [kdevelop](/f35/package/kdevelop) | 4215 | 11386 | 37.0 | Greek <kde-i18n-el@kde.org> | 
+ | [kgoldrunner](/f35/package/kgoldrunner) | 10251 | 28011 | 36.6 | Greek <kde-i18n-el@kde.org> | 
+ | [sawfish](/f35/package/sawfish) | 2349 | 6443 | 36.5 | Greek <nls@tux.hellug.gr> | 
+ | [dpkg](/f35/package/dpkg) | 4289 | 11825 | 36.3 | Greek <debian-l10n-greek@lists.debian.org> | 
+ | [NetworkManager-fortisslvpn](/f35/package/NetworkManager-fortisslvpn) | 117 | 323 | 36.2 | Greek <team@gnome.gr> | 
+ | [pragha](/f35/package/pragha) | 322 | 890 | 36.2 | Greek (http://www.transifex.com/p/Pragha/language/el/) | 
+ | [grantlee-editor](/f35/package/grantlee-editor) | 51 | 141 | 36.2 | Greek <kde-i18n-el@kde.org> | 
+ | [kdevelop-php](/f35/package/kdevelop-php) | 191 | 529 | 36.1 | Greek <kde-i18n-el@kde.org> | 
+ | [NetworkManager-openvpn](/f35/package/NetworkManager-openvpn) | 711 | 1976 | 36.0 | team@gnome.gr | 
+ | [chrome-gnome-shell](/f35/package/chrome-gnome-shell) | 109 | 308 | 35.4 |  | 
+ | [flare](/f35/package/flare) | 3202 | 9076 | 35.3 | Greek (https://www.transifex.com/flareorg/teams/84925/el/) | 
+ | [dconf-editor](/f35/package/dconf-editor) | 1042 | 2955 | 35.3 | Greek, Modern (1453-) <opensuse-translation-el@opensuse.org> | 
+ | [terminator](/f35/package/terminator) | 507 | 1450 | 35.0 | Greek (https://www.transifex.com/terminator/teams/109338/el/) | 
+ | [elementary-calendar](/f35/package/elementary-calendar) | 308 | 888 | 34.7 | Greek <el@li.org> | 
+ | [mate-system-monitor](/f35/package/mate-system-monitor) | 1644 | 4847 | 33.9 | Greek (https://www.transifex.com/mate/teams/13566/el/) | 
+ | [gpx-viewer](/f35/package/gpx-viewer) | 36 | 108 | 33.3 | Greek <el@li.org> | 
+ | [gnucash](/f35/package/gnucash) | 12467 | 37511 | 33.2 | Greek <https://hosted.weblate.org/projects/gnucash/gnucash/el/> | 
+ | [switchboard-plug-keyboard](/f35/package/switchboard-plug-keyboard) | 211 | 636 | 33.2 | Greek <https://l10n.elementary.io/projects/switchboard/switchboard-plug-keyboard/el/> | 
+ | [NetworkManager-sstp](/f35/package/NetworkManager-sstp) | 273 | 834 | 32.7 | Greek <team@gnome.gr> | 
+ | [kdesvn](/f35/package/kdesvn) | 1607 | 4937 | 32.6 | Greek <kde-i18n-el@kde.org> | 
+ | [network-manager-applet](/f35/package/network-manager-applet) | 1384 | 4304 | 32.2 | team@lists.gnome.gr | 
+ | [okteta](/f35/package/okteta) | 816 | 2538 | 32.2 | Greek <kde-i18n-el@kde.org> | 
+ | [avogadro2](/f35/package/avogadro2) | 149 | 464 | 32.1 | Greek <el@li.org> | 
+ | [pgadmin3](/f35/package/pgadmin3) | 7406 | 23289 | 31.8 | pgAdmin Developers <pgadmin-hackers@postgresql.org> | 
+ | [shutter](/f35/package/shutter) | 983 | 3093 | 31.8 | Greek <el@li.org> | 
+ | [wingpanel](/f35/package/wingpanel) | 6 | 19 | 31.6 | LANGUAGE <LL@li.org> | 
+ | [cgit](/f35/package/cgit) | 9779 | 31237 | 31.3 | Greek <i18n@lists.hellug.gr> | 
+ | [git](/f35/package/git) | 9779 | 31237 | 31.3 | Greek <i18n@lists.hellug.gr> | 
+ | [git-cinnabar](/f35/package/git-cinnabar) | 9779 | 31237 | 31.3 | Greek <i18n@lists.hellug.gr> | 
+ | [balsa](/f35/package/balsa) | 5855 | 18757 | 31.2 | team@gnome.gr | 
+ | [lightdm-gtk](/f35/package/lightdm-gtk) | 27 | 89 | 30.3 | Greek <el@li.org> | 
+ | [gnubik](/f35/package/gnubik) | 84 | 279 | 30.1 | Greek <anastasios.pingios@gmail.com> | 
+ | [agenda](/f35/package/agenda) | 5 | 17 | 29.4 | Greek <el@li.org> | 
+ | [elementary-files](/f35/package/elementary-files) | 1076 | 3669 | 29.3 | Greek <el@li.org> | 
+ | [bash](/f35/package/bash) | 3409 | 11699 | 29.1 | Greek <team@lists.gnome.gr> | 
+ | [sympa](/f35/package/sympa) | 10762 | 37176 | 28.9 | Ελληνικά | 
+ | [pantheon-agent-polkit](/f35/package/pantheon-agent-polkit) | 16 | 56 | 28.6 | LANGUAGE <LL@li.org> | 
+ | [calibre](/f35/package/calibre) | 48651 | 170474 | 28.5 | Greek (http://www.transifex.com/calibre/calibre/language/el/) | 
+ | [kf5-libkleo](/f35/package/kf5-libkleo) | 493 | 1729 | 28.5 | Greek <kde-i18n-el@kde.org> | 
+ | [pipewire](/f35/package/pipewire) | 183 | 647 | 28.3 | team@lists.gnome.gr | 
+ | [system-config-language](/f35/package/system-config-language) | 60 | 215 | 27.9 | Greek <team@gnome.gr> | 
+ | [switchboard-plug-pantheon-shell](/f35/package/switchboard-plug-pantheon-shell) | 97 | 349 | 27.8 | Greek <https://l10n.elementary.io/projects/switchboard/switchboard-plug-pantheon-shell/el/> | 
+ | [switchboard-plug-applications](/f35/package/switchboard-plug-applications) | 63 | 227 | 27.8 | Greek <https://l10n.elementary.io/projects/switchboard/switchboard-plug-applications/el/> | 
+ | [anope](/f35/package/anope) | 5536 | 20196 | 27.4 | Greek | 
+ | [kstars](/f35/package/kstars) | 17047 | 62342 | 27.3 | Greek <kde-i18n-el@kde.org> | 
+ | [tilix](/f35/package/tilix) | 659 | 2429 | 27.1 | Greek <https://hosted.weblate.org/projects/tilix/translations/el/> | 
+ | [plasma-disks](/f35/package/plasma-disks) | 57 | 215 | 26.5 | Greek <kde-i18n-el@kde.org> | 
+ | [firewalld](/f35/package/firewalld) | 584 | 2217 | 26.3 | Greek (http://www.transifex.com/projects/p/firewalld/language/el/) | 
+ | [plasma-discover](/f35/package/plasma-discover) | 637 | 2452 | 26.0 | Greek <kde-i18n-el@kde.org> | 
+ | [plasma-nano](/f35/package/plasma-nano) | 9 | 35 | 25.7 | Greek <kde-i18n-el@kde.org> | 
+ | [NetworkManager-l2tp](/f35/package/NetworkManager-l2tp) | 313 | 1235 | 25.3 | team@gnome.gr | 
+ | [engrampa](/f35/package/engrampa) | 1980 | 7838 | 25.3 | Greek (https://www.transifex.com/mate/teams/13566/el/) | 
+ | [psad](/f35/package/psad) | 123 | 493 | 24.9 | Greek <velonis@freemail.gr> | 
+ | [kf5-kpimtextedit](/f35/package/kf5-kpimtextedit) | 101 | 415 | 24.3 | Greek <kde-i18n-el@kde.org> | 
+ | [wingpanel-applications-menu](/f35/package/wingpanel-applications-menu) | 101 | 415 | 24.3 | Greek <el@li.org> | 
+ | [kf5-knewstuff](/f35/package/kf5-knewstuff) | 398 | 1652 | 24.1 | Greek <kde-i18n-el@kde.org> | 
+ | [elementary-videos](/f35/package/elementary-videos) | 94 | 391 | 24.0 | Greek <el@li.org> | 
+ | [bottles](/f35/package/bottles) | 497 | 2086 | 23.8 | Greek <https://hosted.weblate.org/projects/bottles/bottles/el/> | 
+ | [pim-data-exporter](/f35/package/pim-data-exporter) | 182 | 772 | 23.6 | Greek <kde-i18n-el@kde.org> | 
+ | [snapd](/f35/package/snapd) | 1012 | 4307 | 23.5 | Greek <el@li.org> | 
+ | [switchboard-plug-mouse-touchpad](/f35/package/switchboard-plug-mouse-touchpad) | 64 | 282 | 22.7 | Greek <https://l10n.elementary.io/projects/switchboard/switchboard-plug-mouse-touchpad/el/> | 
+ | [kbd](/f35/package/kbd) | 1081 | 4784 | 22.6 | Greek <nls@tux.hellug.gr> | 
+ | [rkward](/f35/package/rkward) | 1931 | 8668 | 22.3 | en_US <kde-i18n-doc@lists.kde.org> | 
+ | [im-chooser](/f35/package/im-chooser) | 55 | 253 | 21.7 | LANGUAGE <LL@li.org> | 
+ | [gnome-passwordsafe](/f35/package/gnome-passwordsafe) | 146 | 715 | 20.4 | Greek, Modern (1453-) <gnome-el-list@gnome.org> | 
+ | [exaile](/f35/package/exaile) | 846 | 4168 | 20.3 | Greek <https://hosted.weblate.org/projects/exaile/master/el/> | 
+ | [mate-sensors-applet](/f35/package/mate-sensors-applet) | 436 | 2160 | 20.2 | Greek (https://www.transifex.com/mate/teams/13566/el/) | 
+ | [deja-dup](/f35/package/deja-dup) | 671 | 3375 | 19.9 | Greek <el@li.org> | 
+ | [dnfdragora](/f35/package/dnfdragora) | 343 | 1771 | 19.4 | Greek (https://www.transifex.com/MageiaLinux/teams/9361/el/) | 
+ | [gnome-games](/f35/package/gnome-games) | 178 | 923 | 19.3 | Greek, Modern (1453-) <gnome-el-list@gnome.org> | 
+ | [arandr](/f35/package/arandr) | 33 | 173 | 19.1 | Greek <https://hosted.weblate.org/projects/arandr/translations/el/> | 
+ | [ibus-anthy](/f35/package/ibus-anthy) | 141 | 740 | 19.1 | Greek | 
+ | [gummi](/f35/package/gummi) | 143 | 758 | 18.9 | EL <mydimle@gmail.com>> | 
+ | [gnupg2](/f35/package/gnupg2) | 2481 | 13633 | 18.2 | team@gnome.gr | 
+ | [kjots](/f35/package/kjots) | 117 | 651 | 18.0 | Greek <kde-i18n-el@kde.org> | 
+ | [clamtk](/f35/package/clamtk) | 99 | 551 | 18.0 | Greek<LL@li.org> | 
+ | [switchboard-plug-a11y](/f35/package/switchboard-plug-a11y) | 32 | 180 | 17.8 | LANGUAGE <LL@li.org> | 
+ | [avogadro2-libs](/f35/package/avogadro2-libs) | 699 | 3976 | 17.6 | Greek <https://hosted.weblate.org/projects/avogadro/avogadrolibs/el/> | 
+ | [widelands](/f35/package/widelands) | 12376 | 71321 | 17.4 | Greek (http://www.transifex.com/widelands/widelands/language/el/) | 
+ | [kBuild](/f35/package/kBuild) | 240 | 1390 | 17.3 | Greek <team@lists.gnome.gr> | 
+ | [switchboard-plug-display](/f35/package/switchboard-plug-display) | 31 | 182 | 17.0 | Greek <https://l10n.elementary.io/projects/switchboard/switchboard-plug-display/el/> | 
+ | [krita](/f35/package/krita) | 4728 | 27889 | 17.0 | Greek <kde-i18n-el@kde.org> | 
+ | [flare-engine](/f35/package/flare-engine) | 313 | 1854 | 16.9 | Greek (https://www.transifex.com/flareorg/teams/84925/el/) | 
+ | [wingpanel-indicator-network](/f35/package/wingpanel-indicator-network) | 25 | 150 | 16.7 | Greek <https://weblate.elementary.io/projects/wingpanel/wingpanel-indicator-network/el/> | 
+ | [elementary-code](/f35/package/elementary-code) | 261 | 1608 | 16.2 | Greek <https://l10n.elementary.io/projects/code/code/el/> | 
+ | [glade2](/f35/package/glade2) | 938 | 5910 | 15.9 | Greek <gnomehellas@gmx.net> | 
+ | [iso-codes](/f35/package/iso-codes) | 3710 | 23492 | 15.8 | Greek <https://hosted.weblate.org/projects/iso-codes/iso-15924/el/> | 
+ | [drgeo](/f35/package/drgeo) | 311 | 1985 | 15.7 | Greek <nls@tux.hellug.gr> | 
+ | [NetworkManager](/f35/package/NetworkManager) | 4280 | 27759 | 15.4 | team@lists.gnome.gr | 
+ | [tar](/f35/package/tar) | 557 | 3658 | 15.2 | Greek <nls@tux.hellug.gr> | 
+ | [chatty](/f35/package/chatty) | 79 | 522 | 15.1 | Greek | 
+ | [elementary-camera](/f35/package/elementary-camera) | 31 | 205 | 15.1 | Greek <https://l10n.elementary.io/projects/camera/camera/el/> | 
+ | [NetworkManager-libreswan](/f35/package/NetworkManager-libreswan) | 70 | 465 | 15.1 | Greek <team@gnome.gr> | 
+ | [guake](/f35/package/guake) | 241 | 1643 | 14.7 | guake@lists.guake.org | 
+ | [wingpanel-indicator-bluetooth](/f35/package/wingpanel-indicator-bluetooth) | 11 | 78 | 14.1 | LANGUAGE <LL@li.org> | 
+ | [xfdashboard](/f35/package/xfdashboard) | 956 | 6878 | 13.9 | Greek (http://www.transifex.com/xfdashboard/xfdashboard/language/el/) | 
+ | [pdfarranger](/f35/package/pdfarranger) | 45 | 324 | 13.9 | Greek (http://www.transifex.com/logari81/pdfshuffler/language/el/) | 
+ | [grep](/f35/package/grep) | 119 | 862 | 13.8 | Greek <team@lists.gnome.gr> | 
+ | [picard](/f35/package/picard) | 1991 | 14567 | 13.7 | Greek (http://www.transifex.com/musicbrainz/musicbrainz/language/el/) | 
+ | [NetworkManager-ssh](/f35/package/NetworkManager-ssh) | 39 | 286 | 13.6 | team@gnome.gr | 
+ | [switchboard-plug-bluetooth](/f35/package/switchboard-plug-bluetooth) | 28 | 206 | 13.6 | Greek <https://l10n.elementary.io/projects/switchboard/switchboard-plug-bluetooth/el/> | 
+ | [pluma-plugins](/f35/package/pluma-plugins) | 188 | 1398 | 13.4 | Greek (https://www.transifex.com/mate/teams/13566/el/) | 
+ | [switchboard-plug-printers](/f35/package/switchboard-plug-printers) | 54 | 406 | 13.3 | Greek <https://weblate.elementary.io/projects/switchboard/switchboard-plug-printers/el/> | 
+ | [switchdesk](/f35/package/switchdesk) | 16 | 122 | 13.1 | Greek <fedora-trans-el@redhat.com> | 
+ | [switchboard-plug-sound](/f35/package/switchboard-plug-sound) | 25 | 193 | 13.0 | Greek <https://weblate.elementary.io/projects/switchboard/switchboard-plug-sound/el/> | 
+ | [elementary-terminal](/f35/package/elementary-terminal) | 87 | 696 | 12.5 | Greek <el@li.org> | 
+ | [elementary-mail](/f35/package/elementary-mail) | 82 | 658 | 12.5 | www.gnome.gr | 
+ | [xscreensaver](/f35/package/xscreensaver) | 844 | 7236 | 11.7 | Greek <nls@tux.hellug.gr> | 
+ | [paprefs](/f35/package/paprefs) | 15 | 131 | 11.5 | Greek <fedora-trans-el@redhat.com> | 
+ | [gajim](/f35/package/gajim) | 982 | 9627 | 10.2 | <> | 
+ | [publican](/f35/package/publican) | 532 | 5377 | 9.9 | Greek <fedora-trans-el@redhat.com> | 
+ | [wxMaxima](/f35/package/wxMaxima) | 2080 | 21044 | 9.9 | LANGUAGE <LL@li.org> | 
+ | [backintime](/f35/package/backintime) | 188 | 1972 | 9.5 | Greek <el@li.org> | 
+ | [freeciv](/f35/package/freeciv) | 10028 | 106587 | 9.4 | Greek translation team <gr@li.org> | 
+ | [elementary-calculator](/f35/package/elementary-calculator) | 22 | 235 | 9.4 | LANGUAGE <LL@li.org> | 
+ | [system-switch-mail](/f35/package/system-switch-mail) | 9 | 101 | 8.9 | Greek Fedora team <fedora-trans-el@redhat.com> | 
+ | [electrum](/f35/package/electrum) | 787 | 9000 | 8.7 | Greek | 
+ | [rapid-photo-downloader](/f35/package/rapid-photo-downloader) | 696 | 8086 | 8.6 | Greek <el@li.org> | 
+ | [switchboard-plug-about](/f35/package/switchboard-plug-about) | 32 | 383 | 8.4 | Greek <el@li.org> | 
+ | [playonlinux](/f35/package/playonlinux) | 223 | 2728 | 8.2 | el_EL.UTF-8 <LL@li.org> | 
+ | [python-blivet](/f35/package/python-blivet) | 47 | 584 | 8.0 | Greek (http://www.transifex.com/projects/p/blivet/language/el/) | 
+ | [mercurial](/f35/package/mercurial) | 1894 | 23859 | 7.9 | Greek | 
+ | [gpredict](/f35/package/gpredict) | 482 | 6124 | 7.9 | Greek <el@li.org> | 
+ | [elementary-greeter](/f35/package/elementary-greeter) | 17 | 219 | 7.8 | Greek <https://l10n.elementary.io/projects/desktop/greeter/el/> | 
+ | [pychess](/f35/package/pychess) | 588 | 7592 | 7.7 | Greek (http://www.transifex.com/gbtami/pychess/language/el/) | 
+ | [ardour6](/f35/package/ardour6) | 1725 | 22344 | 7.7 | Hellenic | 
+ | [transmission-remote-gtk](/f35/package/transmission-remote-gtk) | 74 | 969 | 7.6 | Greek <el@li.org> | 
+ | [granite](/f35/package/granite) | 38 | 498 | 7.6 | Greek <el@li.org> | 
+ | [pykickstart](/f35/package/pykickstart) | 128 | 1697 | 7.5 | Greek (http://www.transifex.com/projects/p/pykickstart/language/el/) | 
+ | [gala](/f35/package/gala) | 27 | 358 | 7.5 | Greek <https://l10n.elementary.io/projects/desktop/gala/el/> | 
+ | [wingpanel-indicator-notifications](/f35/package/wingpanel-indicator-notifications) | 10 | 134 | 7.5 | LANGUAGE <LL@li.org> | 
+ | [synapse](/f35/package/synapse) | 63 | 856 | 7.4 | Greek <el@li.org> | 
+ | [gettext](/f35/package/gettext) | 568 | 8121 | 7.0 | Greek <simos@teiath.gr> | 
+ | [mingw-gettext](/f35/package/mingw-gettext) | 568 | 8121 | 7.0 | Greek <simos@teiath.gr> | 
+ | [bluefish](/f35/package/bluefish) | 331 | 4945 | 6.7 | no team | 
+ | [mypaint](/f35/package/mypaint) | 418 | 6381 | 6.6 | Greek <https://hosted.weblate.org/projects/mypaint/mypaint/el/> | 
+ | [libmypaint](/f35/package/libmypaint) | 148 | 2303 | 6.4 | Greek <https://hosted.weblate.org/projects/mypaint/libmypaint/el/> | 
+ | [sysprof](/f35/package/sysprof) | 114 | 1774 | 6.4 | Greek, Modern (1453-) <gnome-el-list@gnome.org> | 
+ | [gammu](/f35/package/gammu) | 258 | 4017 | 6.4 | none | 
+ | [pavucontrol](/f35/package/pavucontrol) | 31 | 530 | 5.8 | Greek <fedora-trans-el@redhat.com> | 
+ | [LabPlot](/f35/package/LabPlot) | 633 | 10997 | 5.8 | Greek <kde-i18n-el@kde.org> | 
+ | [speedcrunch](/f35/package/speedcrunch) | 5 | 93 | 5.4 | Greek (http://www.transifex.com/heldercorreia/speedcrunch/language/el/) | 
+ | [godot](/f35/package/godot) | 12518 | 246893 | 5.1 | Greek <https://hosted.weblate.org/projects/godot-engine/godot-class-reference/el/> | 
+ | [texinfo](/f35/package/texinfo) | 294 | 5842 | 5.0 | Greek <team@lists.gnome.gr> | 
+ | [switchboard-plug-onlineaccounts](/f35/package/switchboard-plug-onlineaccounts) | 16 | 322 | 5.0 | Greek <https://l10n.elementary.io/projects/switchboard/switchboard-plug-onlineaccounts/el/> | 
+ | [viking](/f35/package/viking) | 246 | 5371 | 4.6 | Greek <el@li.org> | 
+ | [coreutils](/f35/package/coreutils) | 948 | 21194 | 4.5 | Greek <team@lists.gnome.gr> | 
+ | [mingw-libcharset](/f35/package/mingw-libcharset) | 15 | 336 | 4.5 | Greek <nls@tux.hellug.gr> | 
+ | [elementary-capnet-assist](/f35/package/elementary-capnet-assist) | 4 | 90 | 4.4 | Greek <el@li.org> | 
+ | [grass](/f35/package/grass) | 5120 | 121789 | 4.2 | Greek <grass-translations@lists.osgeo.org> | 
+ | [wdiff](/f35/package/wdiff) | 5 | 120 | 4.2 | Greek <team@lists.gnome.gr> | 
+ | [wingpanel-indicator-sound](/f35/package/wingpanel-indicator-sound) | 4 | 96 | 4.2 | LANGUAGE <LL@li.org> | 
+ | [abrt](/f35/package/abrt) | 148 | 3676 | 4.0 | Greek (http://www.transifex.com/projects/p/fedora-abrt/language/el/) | 
+ | [elementary-notifications](/f35/package/elementary-notifications) | 2 | 50 | 4.0 | Greek <https://l10n.elementary.io/projects/desktop/notifications-extra/el/> | 
+ | [kajongg](/f35/package/kajongg) | 95 | 2446 | 3.9 | Ελληνικά <i18ngr@lists.hellug.gr> | 
+ | [gnubg](/f35/package/gnubg) | 511 | 13176 | 3.9 | Ελληνικά <team@gnome.gr> | 
+ | [pmount](/f35/package/pmount) | 28 | 723 | 3.9 | Greek, Modern (1453-) <el@li.org> | 
+ | [edgar](/f35/package/edgar) | 436 | 11474 | 3.8 | Greek <el@li.org> | 
+ | [cacti](/f35/package/cacti) | 1181 | 31098 | 3.8 |  | 
+ | [wingpanel-indicator-keyboard](/f35/package/wingpanel-indicator-keyboard) | 2 | 53 | 3.8 | LANGUAGE <LL@li.org> | 
+ | [stellarium](/f35/package/stellarium) | 5204 | 150019 | 3.5 | Greek (https://www.transifex.com/stellarium/teams/80998/el/) | 
+ | [sharutils](/f35/package/sharutils) | 107 | 3147 | 3.4 | Greek <simos@teiath.gr> | 
+ | [renameutils](/f35/package/renameutils) | 9 | 265 | 3.4 | Greek <team@lists.gnome.gr> | 
+ | [mate-user-admin](/f35/package/mate-user-admin) | 20 | 628 | 3.2 | Greek (https://www.transifex.com/mate/teams/13566/el/) | 
+ | [fontforge](/f35/package/fontforge) | 1338 | 42632 | 3.1 | Greek | 
+ | [redshift](/f35/package/redshift) | 31 | 1028 | 3.0 | Greek <el@li.org> | 
+ | [elinks](/f35/package/elinks) | 357 | 12245 | 2.9 | Greek <nls@tux.hellug.gr> | 
+ | [man-db](/f35/package/man-db) | 6 | 206 | 2.9 | Greek <team@lists.gnome.gr> | 
+ | [cpu-x](/f35/package/cpu-x) | 40 | 1374 | 2.9 | Greek <https://hosted.weblate.org/projects/cpu-x/translations/el/> | 
+ | [minetest](/f35/package/minetest) | 290 | 10049 | 2.9 | Greek <https://hosted.weblate.org/projects/minetest/minetest/el/> | 
+ | [light-locker](/f35/package/light-locker) | 7 | 260 | 2.7 | Greek (http://www.transifex.com/the_cavalry/light-locker/language/el/) | 
+ | [caja-actions](/f35/package/caja-actions) | 503 | 18815 | 2.7 | Greek (https://www.transifex.com/mate/teams/13566/el/) | 
+ | [neverball](/f35/package/neverball) | 73 | 2735 | 2.7 | Greek (http://www.transifex.com/projects/p/neverball/language/el/) | 
+ | [anaconda](/f35/package/anaconda) | 208 | 8224 | 2.5 | Greek <https://translate.fedoraproject.org/projects/anaconda/master/el/> | 
+ | [switchboard-plug-tweaks](/f35/package/switchboard-plug-tweaks) | 14 | 563 | 2.5 | Greek <el@li.org> | 
+ | [manafirewall](/f35/package/manafirewall) | 26 | 1097 | 2.4 | Greek (https://www.transifex.com/MageiaLinux/teams/9361/el/) | 
+ | [peek](/f35/package/peek) | 13 | 564 | 2.3 | none | 
+ | [gnome-abrt](/f35/package/gnome-abrt) | 5 | 221 | 2.3 | Greek (http://www.transifex.com/projects/p/gnome-abrt/language/el/) | 
+ | [wingpanel-indicator-datetime](/f35/package/wingpanel-indicator-datetime) | 4 | 177 | 2.3 | LANGUAGE <LL@li.org> | 
+ | [python-django-mailman3](/f35/package/python-django-mailman3) | 7 | 355 | 2.0 | Greek <https://hosted.weblate.org/projects/gnu-mailman/django-mailman3/el/> | 
+ | [setroubleshoot](/f35/package/setroubleshoot) | 12 | 635 | 1.9 | Greek (http://www.transifex.com/projects/p/fedora/language/el/) | 
+ | [modem-manager-gui](/f35/package/modem-manager-gui) | 55 | 3001 | 1.8 | Greek (http://www.transifex.com/ethereal/modem-manager-gui/language/el/) | 
+ | [policycoreutils](/f35/package/policycoreutils) | 214 | 12171 | 1.8 | Greek | 
+ | [rpm](/f35/package/rpm) | 74 | 4615 | 1.6 | Greek (http://www.transifex.com/rpm-team/rpm/language/el/) | 
+ | [wine](/f35/package/wine) | 300 | 19046 | 1.6 | Greek | 
+ | [elementary-shortcut-overlay](/f35/package/elementary-shortcut-overlay) | 2 | 130 | 1.5 | none | 
+ | [duplicity](/f35/package/duplicity) | 33 | 2215 | 1.5 | Greek <el@li.org> | 
+ | [m4](/f35/package/m4) | 17 | 1171 | 1.5 | Greek <nls@tux.hellug.gr> | 
+ | [android-tools](/f35/package/android-tools) | 105 | 7678 | 1.4 | Greek <trans-el@lists.fedoraproject.org> | 
+ | [4Pane](/f35/package/4Pane) | 166 | 12684 | 1.3 | Greek (http://www.transifex.com/davidgh/4Pane/language/el/) | 
+ | [libvirt](/f35/package/libvirt) | 825 | 67764 | 1.2 | Greek (http://www.transifex.com/projects/p/fedora/language/el/) | 
+ | [mingw-libvirt](/f35/package/mingw-libvirt) | 825 | 67764 | 1.2 | Greek (http://www.transifex.com/projects/p/fedora/language/el/) | 
+ | [gammastep](/f35/package/gammastep) | 10 | 945 | 1.1 | Greek <el@li.org> | 
+ | [cataclysm-dda](/f35/package/cataclysm-dda) | 5958 | 565340 | 1.1 | Greek (https://www.transifex.com/cataclysm-dda-translators/teams/2217/el/) | 
+ | [elementary-sideload](/f35/package/elementary-sideload) | 3 | 319 | 0.9 | Greek <https://l10n.elementary.io/projects/desktop/sideload/el/> | 
+ | [python-meh](/f35/package/python-meh) | 1 | 109 | 0.9 | Greek (http://www.transifex.com/projects/p/python-meh/language/el/) | 
+ | [gutenprint](/f35/package/gutenprint) | 148 | 16326 | 0.9 | Greek <nls@tux.hellug.gr> | 
+ | [kirigami-gallery](/f35/package/kirigami-gallery) | 7 | 856 | 0.8 | Greek <kde-i18n-doc@kde.org> | 
+ | [synfig](/f35/package/synfig) | 34 | 4745 | 0.7 | Greek (Greece) (http://www.transifex.com/morevnaproject/synfig/language/el_GR/) | 
+ | [tilda](/f35/package/tilda) | 4 | 667 | 0.6 | Greek, Modern (1453-) <el@li.org> | 
+ | [malcontent](/f35/package/malcontent) | 3 | 584 | 0.5 | none | 
+ | [calamares](/f35/package/calamares) | 2 | 490 | 0.4 | Greek (https://www.transifex.com/calamares/teams/20061/el/) | 
+ | [ghdl](/f35/package/ghdl) | 179 | 113780 | 0.2 | Greek <nls@tux.hellug.gr> | 
+ | [avr-gcc](/f35/package/avr-gcc) | 179 | 119831 | 0.1 | Greek <nls@tux.hellug.gr> | 
+ | [cross-gcc](/f35/package/cross-gcc) | 179 | 119923 | 0.1 | Greek <nls@tux.hellug.gr> | 
+ | [mingw-gcc](/f35/package/mingw-gcc) | 179 | 119923 | 0.1 | Greek <nls@tux.hellug.gr> | 
+ | [gcc](/f35/package/gcc) | 179 | 120020 | 0.1 | Greek <nls@tux.hellug.gr> | 
+ | [arm-none-eabi-gcc-cs](/f35/package/arm-none-eabi-gcc-cs) | 176 | 126054 | 0.1 | Greek <nls@tux.hellug.gr> | 
+ | [libdnf](/f35/package/libdnf) | 2 | 1480 | 0.1 | Greek | 
+ | [rpm-ostree](/f35/package/rpm-ostree) | 2 | 1480 | 0.1 | Greek | 
+ | [vdr-epgsearch](/f35/package/vdr-epgsearch) | 3 | 2485 | 0.1 | Greek <vdr@linuxtv.org> | 
+ | [python-postorius](/f35/package/python-postorius) | 6 | 4999 | 0.1 | Greek <https://hosted.weblate.org/projects/gnu-mailman/postorius/el/> | 
+ | [dnf](/f35/package/dnf) | 5 | 4704 | 0.1 | Greek (http://www.transifex.com/projects/p/dnf/language/el/) | 
+ | [synfigstudio](/f35/package/synfigstudio) | 5 | 6952 | 0.1 | Greek (Greece) (http://www.transifex.com/morevnaproject/synfig/language/el_GR/) | 
+ | [libreport](/f35/package/libreport) | 2 | 4928 | 0.0 | Greek (http://www.transifex.com/projects/p/libreport/language/el/) | 
+ | [breezy](/f35/package/breezy) | 0 | 33704 | 0.0 |  | 
+ | [clapper](/f35/package/clapper) | 0 | 272 | 0.0 | Greek | 
+ | [coin](/f35/package/coin) | 0 | 252 | 0.0 | none | 
+ | [dippi](/f35/package/dippi) | 0 | 1183 | 0.0 | none | 
+ | [elementary-icon-theme](/f35/package/elementary-icon-theme) | 0 | 263 | 0.0 | none | 
+ | [elementary-onboarding](/f35/package/elementary-onboarding) | 0 | 317 | 0.0 | none | 
+ | [elementary-settings-daemon](/f35/package/elementary-settings-daemon) | 0 | 26 | 0.0 | none | 
+ | [elementary-tasks](/f35/package/elementary-tasks) | 0 | 394 | 0.0 | none | 
+ | [elementary-theme](/f35/package/elementary-theme) | 0 | 63 | 0.0 | none | 
+ | [entangle](/f35/package/entangle) | 0 | 953 | 0.0 | Greek | 
+ | [feedreader](/f35/package/feedreader) | 0 | 1374 | 0.0 |  | 
+ | [fonts-tweak-tool](/f35/package/fonts-tweak-tool) | 0 | 196 | 0.0 | Greek | 
+ | [gamehub](/f35/package/gamehub) | 0 | 1115 | 0.0 | none | 
+ | [geany-plugins](/f35/package/geany-plugins) | 0 | 8851 | 0.0 | Greek | 
+ | [harvey](/f35/package/harvey) | 0 | 182 | 0.0 | none | 
+ | [imsettings](/f35/package/imsettings) | 0 | 490 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [initial-setup](/f35/package/initial-setup) | 0 | 33 | 0.0 | Greek | 
+ | [kdump-anaconda-addon](/f35/package/kdump-anaconda-addon) | 0 | 83 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [kreport](/f35/package/kreport) | 0 | 455 | 0.0 | Greek <kde-i18n-el@kde.org> | 
+ | [libgweather](/f35/package/libgweather) | 0 | 0 | 0.0 |  | 
+ | [libvirt-sandbox](/f35/package/libvirt-sandbox) | 0 | 617 | 0.0 | Greek <trans-el@lists.fedoraproject.org> | 
+ | [mailman3](/f35/package/mailman3) | 0 | 4477 | 0.0 | none | 
+ | [nutty](/f35/package/nutty) | 0 | 608 | 0.0 |  | 
+ | [optimizer](/f35/package/optimizer) | 0 | 282 | 0.0 | none | 
+ | [pam](/f35/package/pam) | 0 | 535 | 0.0 | Greek <trans-el@lists.fedoraproject.org> | 
+ | [pidgin-sipe](/f35/package/pidgin-sipe) | 0 | 1119 | 0.0 | Greek (http://www.transifex.com/stefanb/pidgin-sipe/language/el/) | 
+ | [pyhoca-gui](/f35/package/pyhoca-gui) | 0 | 1865 | 0.0 | none | 
+ | [python-fedora](/f35/package/python-fedora) | 0 | 428 | 0.0 | Greek (Greece) (http://www.transifex.com/projects/p/python-fedora/language/el_GR/) | 
+ | [python-sphinxcontrib-applehelp](/f35/package/python-sphinxcontrib-applehelp) | 0 | 89 | 0.0 | Greek (https://www.transifex.com/sphinx-doc/teams/36659/el/) | 
+ | [python-sphinxcontrib-devhelp](/f35/package/python-sphinxcontrib-devhelp) | 0 | 18 | 0.0 | Greek (https://www.transifex.com/sphinx-doc/teams/36659/el/) | 
+ | [python-sphinxcontrib-qthelp](/f35/package/python-sphinxcontrib-qthelp) | 0 | 33 | 0.0 | Greek (https://www.transifex.com/sphinx-doc/teams/36659/el/) | 
+ | [retrace-server](/f35/package/retrace-server) | 0 | 433 | 0.0 | Greek | 
+ | [setroubleshoot-plugins](/f35/package/setroubleshoot-plugins) | 0 | 6246 | 0.0 | none | 
+ | [solaar](/f35/package/solaar) | 0 | 0 | 0.0 | none | 
+ | [taxi](/f35/package/taxi) | 0 | 62 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [timeshift](/f35/package/timeshift) | 0 | 3012 | 0.0 | Greek <el@li.org> | 
+ | [vdr-extrecmenung](/f35/package/vdr-extrecmenung) | 0 | 308 | 0.0 | <vdr@linuxtv.org> | 
+ | [vdr-skinenigmang](/f35/package/vdr-skinenigmang) | 0 | 334 | 0.0 | <vdr@linuxtv.org> | 
+ | [wingpanel-indicator-nightlight](/f35/package/wingpanel-indicator-nightlight) | 0 | 45 | 0.0 |  | 
+ | [znc](/f35/package/znc) | 0 | 8295 | 0.0 | Greek | 
 {.sortable}
 
 
@@ -1281,7 +1281,7 @@ We use the po metadata to get the language code and the team, but sometimes it f
 
 | Package | Lang from file path/name | polib error | Team |
 |---------|--------------------------|-------------|------|
- | [bygfoot]({{< ref "/f35/package/bygfoot.md" >}}) | /mnt/stockage/packages/f35/bygfoot/po/el.po | error-os |  | 
+ | [bygfoot](/f35/package/bygfoot) | /mnt/stockage/packages/f35/bygfoot/po/el.po | error-os |  | 
 {.sortable}
 
 
@@ -1292,7 +1292,7 @@ We use the calcstats from translate toolkit to get the translation progress, but
 
 | Package | Lang from file path/name | Team |
 |---------|--------------------------|------|
- | [solaar]({{< ref "/f35/package/solaar.md" >}}) | /mnt/stockage/packages/f35/solaar/po/el.po | none | 
+ | [solaar](/f35/package/solaar) | /mnt/stockage/packages/f35/solaar/po/el.po | none | 
 {.sortable}
 
 

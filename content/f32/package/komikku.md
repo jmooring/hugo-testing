@@ -18,12 +18,12 @@ The package komikku (version 0.26.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f32/language/de.md" >}}) | 1648 | 1818 | 90.6 | /mnt/stockage/packages/f32/komikku/po/de.po | 
- | [fr]({{< ref "/f32/language/fr.md" >}}) | 1317 | 1818 | 72.4 | /mnt/stockage/packages/f32/komikku/po/fr.po | 
- | [pt_BR]({{< ref "/f32/language/pt_BR.md" >}}) | 361 | 1818 | 19.9 | /mnt/stockage/packages/f32/komikku/po/pt_BR.po | 
- | [tr]({{< ref "/f32/language/tr.md" >}}) | 358 | 1818 | 19.7 | /mnt/stockage/packages/f32/komikku/po/tr.po | 
- | [nl]({{< ref "/f32/language/nl.md" >}}) | 305 | 1818 | 16.8 | /mnt/stockage/packages/f32/komikku/po/nl.po | 
- | [ru]({{< ref "/f32/language/ru.md" >}}) | 304 | 1818 | 16.7 | /mnt/stockage/packages/f32/komikku/po/ru.po | 
+ | [de](/f32/language/de) | 1648 | 1818 | 90.6 | /mnt/stockage/packages/f32/komikku/po/de.po | 
+ | [fr](/f32/language/fr) | 1317 | 1818 | 72.4 | /mnt/stockage/packages/f32/komikku/po/fr.po | 
+ | [pt_BR](/f32/language/pt_BR) | 361 | 1818 | 19.9 | /mnt/stockage/packages/f32/komikku/po/pt_BR.po | 
+ | [tr](/f32/language/tr) | 358 | 1818 | 19.7 | /mnt/stockage/packages/f32/komikku/po/tr.po | 
+ | [nl](/f32/language/nl) | 305 | 1818 | 16.8 | /mnt/stockage/packages/f32/komikku/po/nl.po | 
+ | [ru](/f32/language/ru) | 304 | 1818 | 16.7 | /mnt/stockage/packages/f32/komikku/po/ru.po | 
 {.sortable}
 
 

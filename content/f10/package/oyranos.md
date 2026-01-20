@@ -18,15 +18,15 @@ The package oyranos (version 0.1.7):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f10/language/de.md" >}}) | 699 | 701 | 99.7 | /mnt/stockage/packages/f10/oyranos/fl_i18n/po/de.po/mnt/stockage/packages/f10/oyranos/po/de.po | 
- | [hy]({{< ref "/f10/language/hy.md" >}}) | 4 | 44 | 9.1 | /mnt/stockage/packages/f10/oyranos/fl_i18n/po/hy.po | 
- | [eo]({{< ref "/f10/language/eo.md" >}}) | 2 | 44 | 4.5 | /mnt/stockage/packages/f10/oyranos/fl_i18n/po/eo.po | 
- | [fr]({{< ref "/f10/language/fr.md" >}}) | 2 | 44 | 4.5 | /mnt/stockage/packages/f10/oyranos/fl_i18n/po/fr.po | 
- | [ja]({{< ref "/f10/language/ja.md" >}}) | 2 | 44 | 4.5 | /mnt/stockage/packages/f10/oyranos/fl_i18n/po/ja.po | 
- | [ru]({{< ref "/f10/language/ru.md" >}}) | 2 | 44 | 4.5 | /mnt/stockage/packages/f10/oyranos/fl_i18n/po/ru.po | 
- | [uk]({{< ref "/f10/language/uk.md" >}}) | 2 | 44 | 4.5 | /mnt/stockage/packages/f10/oyranos/fl_i18n/po/uk.po | 
- | [zh_Hans]({{< ref "/f10/language/zh_Hans.md" >}}) | 2 | 44 | 4.5 | /mnt/stockage/packages/f10/oyranos/fl_i18n/po/zh_CN.po | 
- | [ar]({{< ref "/f10/language/ar.md" >}}) | 0 | 44 | 0.0 | /mnt/stockage/packages/f10/oyranos/fl_i18n/po/ar.po | 
+ | [de](/f10/language/de) | 699 | 701 | 99.7 | /mnt/stockage/packages/f10/oyranos/fl_i18n/po/de.po/mnt/stockage/packages/f10/oyranos/po/de.po | 
+ | [hy](/f10/language/hy) | 4 | 44 | 9.1 | /mnt/stockage/packages/f10/oyranos/fl_i18n/po/hy.po | 
+ | [eo](/f10/language/eo) | 2 | 44 | 4.5 | /mnt/stockage/packages/f10/oyranos/fl_i18n/po/eo.po | 
+ | [fr](/f10/language/fr) | 2 | 44 | 4.5 | /mnt/stockage/packages/f10/oyranos/fl_i18n/po/fr.po | 
+ | [ja](/f10/language/ja) | 2 | 44 | 4.5 | /mnt/stockage/packages/f10/oyranos/fl_i18n/po/ja.po | 
+ | [ru](/f10/language/ru) | 2 | 44 | 4.5 | /mnt/stockage/packages/f10/oyranos/fl_i18n/po/ru.po | 
+ | [uk](/f10/language/uk) | 2 | 44 | 4.5 | /mnt/stockage/packages/f10/oyranos/fl_i18n/po/uk.po | 
+ | [zh_Hans](/f10/language/zh_Hans) | 2 | 44 | 4.5 | /mnt/stockage/packages/f10/oyranos/fl_i18n/po/zh_CN.po | 
+ | [ar](/f10/language/ar) | 0 | 44 | 0.0 | /mnt/stockage/packages/f10/oyranos/fl_i18n/po/ar.po | 
 {.sortable}
 
 

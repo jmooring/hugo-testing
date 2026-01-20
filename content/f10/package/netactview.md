@@ -18,7 +18,7 @@ The package netactview (version 0.4.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ro]({{< ref "/f10/language/ro.md" >}}) | 211 | 211 | 100.0 | /mnt/stockage/packages/f10/netactview/po/ro.po | 
+ | [ro](/f10/language/ro) | 211 | 211 | 100.0 | /mnt/stockage/packages/f10/netactview/po/ro.po | 
 {.sortable}
 
 

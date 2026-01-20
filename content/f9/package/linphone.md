@@ -18,17 +18,17 @@ The package linphone (version 2.1.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f9/language/cs.md" >}}) | 798 | 798 | 100.0 | /mnt/stockage/packages/f9/linphone/po/cs.po | 
- | [hu]({{< ref "/f9/language/hu.md" >}}) | 798 | 798 | 100.0 | /mnt/stockage/packages/f9/linphone/po/hu.po | 
- | [nl]({{< ref "/f9/language/nl.md" >}}) | 773 | 798 | 96.9 | /mnt/stockage/packages/f9/linphone/po/nl.po | 
- | [de]({{< ref "/f9/language/de.md" >}}) | 763 | 798 | 95.6 | /mnt/stockage/packages/f9/linphone/po/de.po | 
- | [fr]({{< ref "/f9/language/fr.md" >}}) | 705 | 798 | 88.3 | /mnt/stockage/packages/f9/linphone/po/fr.po | 
- | [sv]({{< ref "/f9/language/sv.md" >}}) | 614 | 798 | 76.9 | /mnt/stockage/packages/f9/linphone/po/sv.po | 
- | [pt_BR]({{< ref "/f9/language/pt_BR.md" >}}) | 334 | 798 | 41.9 | /mnt/stockage/packages/f9/linphone/po/pt_BR.po | 
- | [pl]({{< ref "/f9/language/pl.md" >}}) | 309 | 798 | 38.7 | /mnt/stockage/packages/f9/linphone/po/pl.po | 
- | [ja]({{< ref "/f9/language/ja.md" >}}) | 296 | 798 | 37.1 | /mnt/stockage/packages/f9/linphone/po/ja.po | 
- | [es]({{< ref "/f9/language/es.md" >}}) | 291 | 798 | 36.5 | /mnt/stockage/packages/f9/linphone/po/es.po | 
- | [it]({{< ref "/f9/language/it.md" >}}) | 109 | 798 | 13.7 | /mnt/stockage/packages/f9/linphone/po/it.po | 
+ | [cs](/f9/language/cs) | 798 | 798 | 100.0 | /mnt/stockage/packages/f9/linphone/po/cs.po | 
+ | [hu](/f9/language/hu) | 798 | 798 | 100.0 | /mnt/stockage/packages/f9/linphone/po/hu.po | 
+ | [nl](/f9/language/nl) | 773 | 798 | 96.9 | /mnt/stockage/packages/f9/linphone/po/nl.po | 
+ | [de](/f9/language/de) | 763 | 798 | 95.6 | /mnt/stockage/packages/f9/linphone/po/de.po | 
+ | [fr](/f9/language/fr) | 705 | 798 | 88.3 | /mnt/stockage/packages/f9/linphone/po/fr.po | 
+ | [sv](/f9/language/sv) | 614 | 798 | 76.9 | /mnt/stockage/packages/f9/linphone/po/sv.po | 
+ | [pt_BR](/f9/language/pt_BR) | 334 | 798 | 41.9 | /mnt/stockage/packages/f9/linphone/po/pt_BR.po | 
+ | [pl](/f9/language/pl) | 309 | 798 | 38.7 | /mnt/stockage/packages/f9/linphone/po/pl.po | 
+ | [ja](/f9/language/ja) | 296 | 798 | 37.1 | /mnt/stockage/packages/f9/linphone/po/ja.po | 
+ | [es](/f9/language/es) | 291 | 798 | 36.5 | /mnt/stockage/packages/f9/linphone/po/es.po | 
+ | [it](/f9/language/it) | 109 | 798 | 13.7 | /mnt/stockage/packages/f9/linphone/po/it.po | 
 {.sortable}
 
 

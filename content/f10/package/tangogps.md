@@ -18,15 +18,15 @@ The package tangogps (version 0.99.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [hu]({{< ref "/f10/language/hu.md" >}}) | 446 | 575 | 77.6 | /mnt/stockage/packages/f10/tangogps/po/hu.po | 
- | [sk]({{< ref "/f10/language/sk.md" >}}) | 423 | 575 | 73.6 | /mnt/stockage/packages/f10/tangogps/po/sk.po | 
- | [es]({{< ref "/f10/language/es.md" >}}) | 357 | 575 | 62.1 | /mnt/stockage/packages/f10/tangogps/po/es.po | 
- | [fr]({{< ref "/f10/language/fr.md" >}}) | 226 | 575 | 39.3 | /mnt/stockage/packages/f10/tangogps/po/fr.po | 
- | [bg]({{< ref "/f10/language/bg.md" >}}) | 215 | 575 | 37.4 | /mnt/stockage/packages/f10/tangogps/po/bg.po | 
- | [cs]({{< ref "/f10/language/cs.md" >}}) | 211 | 575 | 36.7 | /mnt/stockage/packages/f10/tangogps/po/cs.po | 
- | [fi]({{< ref "/f10/language/fi.md" >}}) | 211 | 575 | 36.7 | /mnt/stockage/packages/f10/tangogps/po/fi.po | 
- | [ru]({{< ref "/f10/language/ru.md" >}}) | 194 | 575 | 33.7 | /mnt/stockage/packages/f10/tangogps/po/ru.po | 
- | [de]({{< ref "/f10/language/de.md" >}}) | 3 | 575 | 0.5 | /mnt/stockage/packages/f10/tangogps/po/de.po | 
+ | [hu](/f10/language/hu) | 446 | 575 | 77.6 | /mnt/stockage/packages/f10/tangogps/po/hu.po | 
+ | [sk](/f10/language/sk) | 423 | 575 | 73.6 | /mnt/stockage/packages/f10/tangogps/po/sk.po | 
+ | [es](/f10/language/es) | 357 | 575 | 62.1 | /mnt/stockage/packages/f10/tangogps/po/es.po | 
+ | [fr](/f10/language/fr) | 226 | 575 | 39.3 | /mnt/stockage/packages/f10/tangogps/po/fr.po | 
+ | [bg](/f10/language/bg) | 215 | 575 | 37.4 | /mnt/stockage/packages/f10/tangogps/po/bg.po | 
+ | [cs](/f10/language/cs) | 211 | 575 | 36.7 | /mnt/stockage/packages/f10/tangogps/po/cs.po | 
+ | [fi](/f10/language/fi) | 211 | 575 | 36.7 | /mnt/stockage/packages/f10/tangogps/po/fi.po | 
+ | [ru](/f10/language/ru) | 194 | 575 | 33.7 | /mnt/stockage/packages/f10/tangogps/po/ru.po | 
+ | [de](/f10/language/de) | 3 | 575 | 0.5 | /mnt/stockage/packages/f10/tangogps/po/de.po | 
 {.sortable}
 
 

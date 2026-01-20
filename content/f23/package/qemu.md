@@ -18,13 +18,13 @@ The package qemu (version 2.4.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f23/language/de.md" >}}) | 32 | 32 | 100.0 | /mnt/stockage/packages/f23/qemu/po/de_DE.po | 
- | [fr]({{< ref "/f23/language/fr.md" >}}) | 32 | 32 | 100.0 | /mnt/stockage/packages/f23/qemu/po/fr_FR.po | 
- | [hu]({{< ref "/f23/language/hu.md" >}}) | 22 | 22 | 100.0 | /mnt/stockage/packages/f23/qemu/po/hu.po | 
- | [it]({{< ref "/f23/language/it.md" >}}) | 31 | 31 | 100.0 | /mnt/stockage/packages/f23/qemu/po/it.po | 
- | [tr]({{< ref "/f23/language/tr.md" >}}) | 22 | 22 | 100.0 | /mnt/stockage/packages/f23/qemu/po/tr.po | 
- | [zh_Hans]({{< ref "/f23/language/zh_Hans.md" >}}) | 32 | 32 | 100.0 | /mnt/stockage/packages/f23/qemu/po/zh_CN.po | 
- | [error]({{< ref "/f23/language/error.md" >}}) | 0 | 22 | 0.0 | /mnt/stockage/packages/f23/qemu/po/messages.po | 
+ | [de](/f23/language/de) | 32 | 32 | 100.0 | /mnt/stockage/packages/f23/qemu/po/de_DE.po | 
+ | [fr](/f23/language/fr) | 32 | 32 | 100.0 | /mnt/stockage/packages/f23/qemu/po/fr_FR.po | 
+ | [hu](/f23/language/hu) | 22 | 22 | 100.0 | /mnt/stockage/packages/f23/qemu/po/hu.po | 
+ | [it](/f23/language/it) | 31 | 31 | 100.0 | /mnt/stockage/packages/f23/qemu/po/it.po | 
+ | [tr](/f23/language/tr) | 22 | 22 | 100.0 | /mnt/stockage/packages/f23/qemu/po/tr.po | 
+ | [zh_Hans](/f23/language/zh_Hans) | 32 | 32 | 100.0 | /mnt/stockage/packages/f23/qemu/po/zh_CN.po | 
+ | [error](/f23/language/error) | 0 | 22 | 0.0 | /mnt/stockage/packages/f23/qemu/po/messages.po | 
 {.sortable}
 
 

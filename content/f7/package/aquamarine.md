@@ -18,24 +18,24 @@ The package aquamarine (version 0.2.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f7/language/ca.md" >}}) | 97 | 97 | 100.0 | /mnt/stockage/packages/f7/aquamarine/po/ca.po | 
- | [de]({{< ref "/f7/language/de.md" >}}) | 61 | 61 | 100.0 | /mnt/stockage/packages/f7/aquamarine/po/de.po | 
- | [es]({{< ref "/f7/language/es.md" >}}) | 97 | 97 | 100.0 | /mnt/stockage/packages/f7/aquamarine/po/es_ES.po | 
- | [es_AR]({{< ref "/f7/language/es_AR.md" >}}) | 97 | 97 | 100.0 | /mnt/stockage/packages/f7/aquamarine/po/es_AR.po | 
- | [hu]({{< ref "/f7/language/hu.md" >}}) | 97 | 97 | 100.0 | /mnt/stockage/packages/f7/aquamarine/po/hu_HU.po | 
- | [it]({{< ref "/f7/language/it.md" >}}) | 122 | 122 | 100.0 | /mnt/stockage/packages/f7/aquamarine/po/it_IT.po/mnt/stockage/packages/f7/aquamarine/po/it.po | 
- | [ja]({{< ref "/f7/language/ja.md" >}}) | 97 | 97 | 100.0 | /mnt/stockage/packages/f7/aquamarine/po/ja.po | 
- | [ko]({{< ref "/f7/language/ko.md" >}}) | 61 | 61 | 100.0 | /mnt/stockage/packages/f7/aquamarine/po/ko.po | 
- | [pl]({{< ref "/f7/language/pl.md" >}}) | 61 | 61 | 100.0 | /mnt/stockage/packages/f7/aquamarine/po/pl_PL.po | 
- | [pt]({{< ref "/f7/language/pt.md" >}}) | 97 | 97 | 100.0 | /mnt/stockage/packages/f7/aquamarine/po/pt.po | 
- | [sv]({{< ref "/f7/language/sv.md" >}}) | 61 | 61 | 100.0 | /mnt/stockage/packages/f7/aquamarine/po/sv_SE.po | 
- | [uk]({{< ref "/f7/language/uk.md" >}}) | 61 | 61 | 100.0 | /mnt/stockage/packages/f7/aquamarine/po/uk_UA.po | 
- | [zh_Hans]({{< ref "/f7/language/zh_Hans.md" >}}) | 97 | 97 | 100.0 | /mnt/stockage/packages/f7/aquamarine/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f7/language/zh_Hant.md" >}}) | 97 | 97 | 100.0 | /mnt/stockage/packages/f7/aquamarine/po/zh_TW.po | 
- | [zh_Hant_HK]({{< ref "/f7/language/zh_Hant_HK.md" >}}) | 97 | 97 | 100.0 | /mnt/stockage/packages/f7/aquamarine/po/zh_HK.po | 
- | [ru_UA]({{< ref "/f7/language/ru_UA.md" >}}) | 60 | 61 | 98.4 | /mnt/stockage/packages/f7/aquamarine/po/ru_UA.po | 
- | [ru]({{< ref "/f7/language/ru.md" >}}) | 149 | 158 | 94.3 | /mnt/stockage/packages/f7/aquamarine/po/ru.po/mnt/stockage/packages/f7/aquamarine/po/ru_RU.po | 
- | [nl]({{< ref "/f7/language/nl.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f7/aquamarine/po/nl.po | 
+ | [ca](/f7/language/ca) | 97 | 97 | 100.0 | /mnt/stockage/packages/f7/aquamarine/po/ca.po | 
+ | [de](/f7/language/de) | 61 | 61 | 100.0 | /mnt/stockage/packages/f7/aquamarine/po/de.po | 
+ | [es](/f7/language/es) | 97 | 97 | 100.0 | /mnt/stockage/packages/f7/aquamarine/po/es_ES.po | 
+ | [es_AR](/f7/language/es_AR) | 97 | 97 | 100.0 | /mnt/stockage/packages/f7/aquamarine/po/es_AR.po | 
+ | [hu](/f7/language/hu) | 97 | 97 | 100.0 | /mnt/stockage/packages/f7/aquamarine/po/hu_HU.po | 
+ | [it](/f7/language/it) | 122 | 122 | 100.0 | /mnt/stockage/packages/f7/aquamarine/po/it_IT.po/mnt/stockage/packages/f7/aquamarine/po/it.po | 
+ | [ja](/f7/language/ja) | 97 | 97 | 100.0 | /mnt/stockage/packages/f7/aquamarine/po/ja.po | 
+ | [ko](/f7/language/ko) | 61 | 61 | 100.0 | /mnt/stockage/packages/f7/aquamarine/po/ko.po | 
+ | [pl](/f7/language/pl) | 61 | 61 | 100.0 | /mnt/stockage/packages/f7/aquamarine/po/pl_PL.po | 
+ | [pt](/f7/language/pt) | 97 | 97 | 100.0 | /mnt/stockage/packages/f7/aquamarine/po/pt.po | 
+ | [sv](/f7/language/sv) | 61 | 61 | 100.0 | /mnt/stockage/packages/f7/aquamarine/po/sv_SE.po | 
+ | [uk](/f7/language/uk) | 61 | 61 | 100.0 | /mnt/stockage/packages/f7/aquamarine/po/uk_UA.po | 
+ | [zh_Hans](/f7/language/zh_Hans) | 97 | 97 | 100.0 | /mnt/stockage/packages/f7/aquamarine/po/zh_CN.po | 
+ | [zh_Hant](/f7/language/zh_Hant) | 97 | 97 | 100.0 | /mnt/stockage/packages/f7/aquamarine/po/zh_TW.po | 
+ | [zh_Hant_HK](/f7/language/zh_Hant_HK) | 97 | 97 | 100.0 | /mnt/stockage/packages/f7/aquamarine/po/zh_HK.po | 
+ | [ru_UA](/f7/language/ru_UA) | 60 | 61 | 98.4 | /mnt/stockage/packages/f7/aquamarine/po/ru_UA.po | 
+ | [ru](/f7/language/ru) | 149 | 158 | 94.3 | /mnt/stockage/packages/f7/aquamarine/po/ru.po/mnt/stockage/packages/f7/aquamarine/po/ru_RU.po | 
+ | [nl](/f7/language/nl) | 0 | 0 | 0.0 | /mnt/stockage/packages/f7/aquamarine/po/nl.po | 
 {.sortable}
 
 

@@ -38,10 +38,10 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [mozo]({{< ref "/f22/package/mozo.md" >}}) | 8 | 42 | 19.0 | Kurdish (Iraq) (http://www.transifex.com/projects/p/MATE/language/ku_IQ/) | 
- | [mate-menus]({{< ref "/f22/package/mate-menus.md" >}}) | 11 | 97 | 11.3 | Kurdish (Iraq) (http://www.transifex.com/projects/p/MATE/language/ku_IQ/) | 
- | [pidgin]({{< ref "/f22/package/pidgin.md" >}}) | 123 | 18558 | 0.7 | Kurdish (Iraq) (http://www.transifex.com/projects/p/pidgin/language/ku_IQ/) | 
- | [mate-desktop]({{< ref "/f22/package/mate-desktop.md" >}}) | 12 | 2413 | 0.5 | Kurdish (Iraq) (http://www.transifex.com/mate/MATE/language/ku_IQ/) | 
+ | [mozo](/f22/package/mozo) | 8 | 42 | 19.0 | Kurdish (Iraq) (http://www.transifex.com/projects/p/MATE/language/ku_IQ/) | 
+ | [mate-menus](/f22/package/mate-menus) | 11 | 97 | 11.3 | Kurdish (Iraq) (http://www.transifex.com/projects/p/MATE/language/ku_IQ/) | 
+ | [pidgin](/f22/package/pidgin) | 123 | 18558 | 0.7 | Kurdish (Iraq) (http://www.transifex.com/projects/p/pidgin/language/ku_IQ/) | 
+ | [mate-desktop](/f22/package/mate-desktop) | 12 | 2413 | 0.5 | Kurdish (Iraq) (http://www.transifex.com/mate/MATE/language/ku_IQ/) | 
 {.sortable}
 
 

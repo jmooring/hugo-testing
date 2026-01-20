@@ -18,33 +18,33 @@ The package optiimage (version 1.0.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f43/language/ca.md" >}}) | 145 | 145 | 100.0 | /mnt/stockage/packages/f43/optiimage/po/ca/optiimage.po | 
- | [ca@valencia]({{< ref "/f43/language/ca@valencia.md" >}}) | 145 | 145 | 100.0 | /mnt/stockage/packages/f43/optiimage/po/ca@valencia/optiimage.po | 
- | [en_GB]({{< ref "/f43/language/en_GB.md" >}}) | 145 | 145 | 100.0 | /mnt/stockage/packages/f43/optiimage/po/en_GB/optiimage.po | 
- | [es]({{< ref "/f43/language/es.md" >}}) | 145 | 145 | 100.0 | /mnt/stockage/packages/f43/optiimage/po/es/optiimage.po | 
- | [eu]({{< ref "/f43/language/eu.md" >}}) | 145 | 145 | 100.0 | /mnt/stockage/packages/f43/optiimage/po/eu/optiimage.po | 
- | [fr]({{< ref "/f43/language/fr.md" >}}) | 145 | 145 | 100.0 | /mnt/stockage/packages/f43/optiimage/po/fr/optiimage.po | 
- | [he]({{< ref "/f43/language/he.md" >}}) | 145 | 145 | 100.0 | /mnt/stockage/packages/f43/optiimage/po/he/optiimage.po | 
- | [ia]({{< ref "/f43/language/ia.md" >}}) | 145 | 145 | 100.0 | /mnt/stockage/packages/f43/optiimage/po/ia/optiimage.po | 
- | [ka]({{< ref "/f43/language/ka.md" >}}) | 145 | 145 | 100.0 | /mnt/stockage/packages/f43/optiimage/po/ka/optiimage.po | 
- | [ko]({{< ref "/f43/language/ko.md" >}}) | 145 | 145 | 100.0 | /mnt/stockage/packages/f43/optiimage/po/ko/optiimage.po | 
- | [nl]({{< ref "/f43/language/nl.md" >}}) | 145 | 145 | 100.0 | /mnt/stockage/packages/f43/optiimage/po/nl/optiimage.po | 
- | [sl]({{< ref "/f43/language/sl.md" >}}) | 145 | 145 | 100.0 | /mnt/stockage/packages/f43/optiimage/po/sl/optiimage.po | 
- | [sv]({{< ref "/f43/language/sv.md" >}}) | 145 | 145 | 100.0 | /mnt/stockage/packages/f43/optiimage/po/sv/optiimage.po | 
- | [tr]({{< ref "/f43/language/tr.md" >}}) | 145 | 145 | 100.0 | /mnt/stockage/packages/f43/optiimage/po/tr/optiimage.po | 
- | [uk]({{< ref "/f43/language/uk.md" >}}) | 145 | 145 | 100.0 | /mnt/stockage/packages/f43/optiimage/po/uk/optiimage.po | 
- | [zh_Hans]({{< ref "/f43/language/zh_Hans.md" >}}) | 145 | 145 | 100.0 | /mnt/stockage/packages/f43/optiimage/po/zh_CN/optiimage.po | 
- | [eo]({{< ref "/f43/language/eo.md" >}}) | 144 | 145 | 99.3 | /mnt/stockage/packages/f43/optiimage/po/eo/optiimage.po | 
- | [gl]({{< ref "/f43/language/gl.md" >}}) | 144 | 145 | 99.3 | /mnt/stockage/packages/f43/optiimage/po/gl/optiimage.po | 
- | [lv]({{< ref "/f43/language/lv.md" >}}) | 144 | 145 | 99.3 | /mnt/stockage/packages/f43/optiimage/po/lv/optiimage.po | 
- | [pl]({{< ref "/f43/language/pl.md" >}}) | 144 | 145 | 99.3 | /mnt/stockage/packages/f43/optiimage/po/pl/optiimage.po | 
- | [zh_Hant]({{< ref "/f43/language/zh_Hant.md" >}}) | 144 | 145 | 99.3 | /mnt/stockage/packages/f43/optiimage/po/zh_TW/optiimage.po | 
- | [de]({{< ref "/f43/language/de.md" >}}) | 142 | 145 | 97.9 | /mnt/stockage/packages/f43/optiimage/po/de/optiimage.po | 
- | [fi]({{< ref "/f43/language/fi.md" >}}) | 137 | 145 | 94.5 | /mnt/stockage/packages/f43/optiimage/po/fi/optiimage.po | 
- | [it]({{< ref "/f43/language/it.md" >}}) | 136 | 145 | 93.8 | /mnt/stockage/packages/f43/optiimage/po/it/optiimage.po | 
- | [cs]({{< ref "/f43/language/cs.md" >}}) | 58 | 145 | 40.0 | /mnt/stockage/packages/f43/optiimage/po/cs/optiimage.po | 
- | [sk]({{< ref "/f43/language/sk.md" >}}) | 32 | 145 | 22.1 | /mnt/stockage/packages/f43/optiimage/po/sk/optiimage.po | 
- | [ast]({{< ref "/f43/language/ast.md" >}}) | 1 | 145 | 0.7 | /mnt/stockage/packages/f43/optiimage/po/ast/optiimage.po | 
+ | [ca](/f43/language/ca) | 145 | 145 | 100.0 | /mnt/stockage/packages/f43/optiimage/po/ca/optiimage.po | 
+ | [ca@valencia](/f43/language/ca@valencia) | 145 | 145 | 100.0 | /mnt/stockage/packages/f43/optiimage/po/ca@valencia/optiimage.po | 
+ | [en_GB](/f43/language/en_GB) | 145 | 145 | 100.0 | /mnt/stockage/packages/f43/optiimage/po/en_GB/optiimage.po | 
+ | [es](/f43/language/es) | 145 | 145 | 100.0 | /mnt/stockage/packages/f43/optiimage/po/es/optiimage.po | 
+ | [eu](/f43/language/eu) | 145 | 145 | 100.0 | /mnt/stockage/packages/f43/optiimage/po/eu/optiimage.po | 
+ | [fr](/f43/language/fr) | 145 | 145 | 100.0 | /mnt/stockage/packages/f43/optiimage/po/fr/optiimage.po | 
+ | [he](/f43/language/he) | 145 | 145 | 100.0 | /mnt/stockage/packages/f43/optiimage/po/he/optiimage.po | 
+ | [ia](/f43/language/ia) | 145 | 145 | 100.0 | /mnt/stockage/packages/f43/optiimage/po/ia/optiimage.po | 
+ | [ka](/f43/language/ka) | 145 | 145 | 100.0 | /mnt/stockage/packages/f43/optiimage/po/ka/optiimage.po | 
+ | [ko](/f43/language/ko) | 145 | 145 | 100.0 | /mnt/stockage/packages/f43/optiimage/po/ko/optiimage.po | 
+ | [nl](/f43/language/nl) | 145 | 145 | 100.0 | /mnt/stockage/packages/f43/optiimage/po/nl/optiimage.po | 
+ | [sl](/f43/language/sl) | 145 | 145 | 100.0 | /mnt/stockage/packages/f43/optiimage/po/sl/optiimage.po | 
+ | [sv](/f43/language/sv) | 145 | 145 | 100.0 | /mnt/stockage/packages/f43/optiimage/po/sv/optiimage.po | 
+ | [tr](/f43/language/tr) | 145 | 145 | 100.0 | /mnt/stockage/packages/f43/optiimage/po/tr/optiimage.po | 
+ | [uk](/f43/language/uk) | 145 | 145 | 100.0 | /mnt/stockage/packages/f43/optiimage/po/uk/optiimage.po | 
+ | [zh_Hans](/f43/language/zh_Hans) | 145 | 145 | 100.0 | /mnt/stockage/packages/f43/optiimage/po/zh_CN/optiimage.po | 
+ | [eo](/f43/language/eo) | 144 | 145 | 99.3 | /mnt/stockage/packages/f43/optiimage/po/eo/optiimage.po | 
+ | [gl](/f43/language/gl) | 144 | 145 | 99.3 | /mnt/stockage/packages/f43/optiimage/po/gl/optiimage.po | 
+ | [lv](/f43/language/lv) | 144 | 145 | 99.3 | /mnt/stockage/packages/f43/optiimage/po/lv/optiimage.po | 
+ | [pl](/f43/language/pl) | 144 | 145 | 99.3 | /mnt/stockage/packages/f43/optiimage/po/pl/optiimage.po | 
+ | [zh_Hant](/f43/language/zh_Hant) | 144 | 145 | 99.3 | /mnt/stockage/packages/f43/optiimage/po/zh_TW/optiimage.po | 
+ | [de](/f43/language/de) | 142 | 145 | 97.9 | /mnt/stockage/packages/f43/optiimage/po/de/optiimage.po | 
+ | [fi](/f43/language/fi) | 137 | 145 | 94.5 | /mnt/stockage/packages/f43/optiimage/po/fi/optiimage.po | 
+ | [it](/f43/language/it) | 136 | 145 | 93.8 | /mnt/stockage/packages/f43/optiimage/po/it/optiimage.po | 
+ | [cs](/f43/language/cs) | 58 | 145 | 40.0 | /mnt/stockage/packages/f43/optiimage/po/cs/optiimage.po | 
+ | [sk](/f43/language/sk) | 32 | 145 | 22.1 | /mnt/stockage/packages/f43/optiimage/po/sk/optiimage.po | 
+ | [ast](/f43/language/ast) | 1 | 145 | 0.7 | /mnt/stockage/packages/f43/optiimage/po/ast/optiimage.po | 
 {.sortable}
 
 

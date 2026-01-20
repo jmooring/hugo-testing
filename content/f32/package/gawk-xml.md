@@ -18,7 +18,7 @@ The package gawk-xml (version 1.1.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [es]({{< ref "/f32/language/es.md" >}}) | 61 | 61 | 100.0 | /mnt/stockage/packages/f32/gawk-xml/po/es.po | 
+ | [es](/f32/language/es) | 61 | 61 | 100.0 | /mnt/stockage/packages/f32/gawk-xml/po/es.po | 
 {.sortable}
 
 

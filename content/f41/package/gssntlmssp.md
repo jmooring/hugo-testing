@@ -18,9 +18,9 @@ The package gssntlmssp (version 1.3.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [en_GB]({{< ref "/f41/language/en_GB.md" >}}) | 125 | 125 | 100.0 | /mnt/stockage/packages/f41/gssntlmssp/po/en_GB.po | 
- | [ka]({{< ref "/f41/language/ka.md" >}}) | 125 | 125 | 100.0 | /mnt/stockage/packages/f41/gssntlmssp/po/ka.po | 
- | [ko]({{< ref "/f41/language/ko.md" >}}) | 125 | 125 | 100.0 | /mnt/stockage/packages/f41/gssntlmssp/po/ko.po | 
+ | [en_GB](/f41/language/en_GB) | 125 | 125 | 100.0 | /mnt/stockage/packages/f41/gssntlmssp/po/en_GB.po | 
+ | [ka](/f41/language/ka) | 125 | 125 | 100.0 | /mnt/stockage/packages/f41/gssntlmssp/po/ka.po | 
+ | [ko](/f41/language/ko) | 125 | 125 | 100.0 | /mnt/stockage/packages/f41/gssntlmssp/po/ko.po | 
 {.sortable}
 
 

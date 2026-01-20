@@ -18,23 +18,23 @@ The package git-cola (version 4.15.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ta]({{< ref "/f42/language/ta.md" >}}) | 3887 | 4153 | 93.6 | /mnt/stockage/packages/f42/git-cola/cola/i18n/ta.po | 
- | [pl]({{< ref "/f42/language/pl.md" >}}) | 3614 | 4153 | 87.0 | /mnt/stockage/packages/f42/git-cola/cola/i18n/pl.po | 
- | [ja]({{< ref "/f42/language/ja.md" >}}) | 3483 | 4153 | 83.9 | /mnt/stockage/packages/f42/git-cola/cola/i18n/ja.po | 
- | [zh_Hant]({{< ref "/f42/language/zh_Hant.md" >}}) | 3064 | 4232 | 72.4 | /mnt/stockage/packages/f42/git-cola/cola/i18n/zh_TW.po/mnt/stockage/packages/f42/git-cola/cola/i18n/glossary/zh_tw.po | 
- | [es]({{< ref "/f42/language/es.md" >}}) | 2815 | 4153 | 67.8 | /mnt/stockage/packages/f42/git-cola/cola/i18n/es.po | 
- | [hu]({{< ref "/f42/language/hu.md" >}}) | 2799 | 4153 | 67.4 | /mnt/stockage/packages/f42/git-cola/cola/i18n/hu.po | 
- | [fr]({{< ref "/f42/language/fr.md" >}}) | 2793 | 4153 | 67.3 | /mnt/stockage/packages/f42/git-cola/cola/i18n/fr.po | 
- | [de]({{< ref "/f42/language/de.md" >}}) | 2448 | 4227 | 57.9 | /mnt/stockage/packages/f42/git-cola/cola/i18n/de.po/mnt/stockage/packages/f42/git-cola/cola/i18n/glossary/de.po | 
- | [pt_BR]({{< ref "/f42/language/pt_BR.md" >}}) | 2354 | 4153 | 56.7 | /mnt/stockage/packages/f42/git-cola/cola/i18n/pt_BR.po | 
- | [cs]({{< ref "/f42/language/cs.md" >}}) | 2172 | 4153 | 52.3 | /mnt/stockage/packages/f42/git-cola/cola/i18n/cs.po | 
- | [zh_Hans]({{< ref "/f42/language/zh_Hans.md" >}}) | 2140 | 4223 | 50.7 | /mnt/stockage/packages/f42/git-cola/cola/i18n/zh_CN.po/mnt/stockage/packages/f42/git-cola/cola/i18n/glossary/zh_cn.po | 
- | [uk]({{< ref "/f42/language/uk.md" >}}) | 2067 | 4153 | 49.8 | /mnt/stockage/packages/f42/git-cola/cola/i18n/uk.po | 
- | [ru]({{< ref "/f42/language/ru.md" >}}) | 1544 | 4153 | 37.2 | /mnt/stockage/packages/f42/git-cola/cola/i18n/ru.po | 
- | [id]({{< ref "/f42/language/id.md" >}}) | 1397 | 4153 | 33.6 | /mnt/stockage/packages/f42/git-cola/cola/i18n/id_ID.po | 
- | [tr]({{< ref "/f42/language/tr.md" >}}) | 520 | 4153 | 12.5 | /mnt/stockage/packages/f42/git-cola/cola/i18n/tr_TR.po | 
- | [it]({{< ref "/f42/language/it.md" >}}) | 221 | 4227 | 5.2 | /mnt/stockage/packages/f42/git-cola/cola/i18n/it.po/mnt/stockage/packages/f42/git-cola/cola/i18n/glossary/it.po | 
- | [sv]({{< ref "/f42/language/sv.md" >}}) | 148 | 4153 | 3.6 | /mnt/stockage/packages/f42/git-cola/cola/i18n/sv.po | 
+ | [ta](/f42/language/ta) | 3887 | 4153 | 93.6 | /mnt/stockage/packages/f42/git-cola/cola/i18n/ta.po | 
+ | [pl](/f42/language/pl) | 3614 | 4153 | 87.0 | /mnt/stockage/packages/f42/git-cola/cola/i18n/pl.po | 
+ | [ja](/f42/language/ja) | 3483 | 4153 | 83.9 | /mnt/stockage/packages/f42/git-cola/cola/i18n/ja.po | 
+ | [zh_Hant](/f42/language/zh_Hant) | 3064 | 4232 | 72.4 | /mnt/stockage/packages/f42/git-cola/cola/i18n/zh_TW.po/mnt/stockage/packages/f42/git-cola/cola/i18n/glossary/zh_tw.po | 
+ | [es](/f42/language/es) | 2815 | 4153 | 67.8 | /mnt/stockage/packages/f42/git-cola/cola/i18n/es.po | 
+ | [hu](/f42/language/hu) | 2799 | 4153 | 67.4 | /mnt/stockage/packages/f42/git-cola/cola/i18n/hu.po | 
+ | [fr](/f42/language/fr) | 2793 | 4153 | 67.3 | /mnt/stockage/packages/f42/git-cola/cola/i18n/fr.po | 
+ | [de](/f42/language/de) | 2448 | 4227 | 57.9 | /mnt/stockage/packages/f42/git-cola/cola/i18n/de.po/mnt/stockage/packages/f42/git-cola/cola/i18n/glossary/de.po | 
+ | [pt_BR](/f42/language/pt_BR) | 2354 | 4153 | 56.7 | /mnt/stockage/packages/f42/git-cola/cola/i18n/pt_BR.po | 
+ | [cs](/f42/language/cs) | 2172 | 4153 | 52.3 | /mnt/stockage/packages/f42/git-cola/cola/i18n/cs.po | 
+ | [zh_Hans](/f42/language/zh_Hans) | 2140 | 4223 | 50.7 | /mnt/stockage/packages/f42/git-cola/cola/i18n/zh_CN.po/mnt/stockage/packages/f42/git-cola/cola/i18n/glossary/zh_cn.po | 
+ | [uk](/f42/language/uk) | 2067 | 4153 | 49.8 | /mnt/stockage/packages/f42/git-cola/cola/i18n/uk.po | 
+ | [ru](/f42/language/ru) | 1544 | 4153 | 37.2 | /mnt/stockage/packages/f42/git-cola/cola/i18n/ru.po | 
+ | [id](/f42/language/id) | 1397 | 4153 | 33.6 | /mnt/stockage/packages/f42/git-cola/cola/i18n/id_ID.po | 
+ | [tr](/f42/language/tr) | 520 | 4153 | 12.5 | /mnt/stockage/packages/f42/git-cola/cola/i18n/tr_TR.po | 
+ | [it](/f42/language/it) | 221 | 4227 | 5.2 | /mnt/stockage/packages/f42/git-cola/cola/i18n/it.po/mnt/stockage/packages/f42/git-cola/cola/i18n/glossary/it.po | 
+ | [sv](/f42/language/sv) | 148 | 4153 | 3.6 | /mnt/stockage/packages/f42/git-cola/cola/i18n/sv.po | 
 {.sortable}
 
 

@@ -18,7 +18,7 @@ The package rmol (version 0.25.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f16/language/fr.md" >}}) | 125 | 438 | 28.5 | /mnt/stockage/packages/f16/rmol/po/fr.po | 
+ | [fr](/f16/language/fr) | 125 | 438 | 28.5 | /mnt/stockage/packages/f16/rmol/po/fr.po | 
 {.sortable}
 
 

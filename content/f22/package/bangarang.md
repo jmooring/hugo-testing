@@ -18,23 +18,23 @@ The package bangarang (version 2.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [uk]({{< ref "/f22/language/uk.md" >}}) | 1207 | 1207 | 100.0 | /mnt/stockage/packages/f22/bangarang/po/uk/bangarang.po | 
- | [nl]({{< ref "/f22/language/nl.md" >}}) | 1203 | 1207 | 99.7 | /mnt/stockage/packages/f22/bangarang/po/nl/bangarang.po | 
- | [it]({{< ref "/f22/language/it.md" >}}) | 1132 | 1207 | 93.8 | /mnt/stockage/packages/f22/bangarang/po/it/bangarang.po | 
- | [ru]({{< ref "/f22/language/ru.md" >}}) | 1132 | 1207 | 93.8 | /mnt/stockage/packages/f22/bangarang/po/ru/bangarang.po | 
- | [es]({{< ref "/f22/language/es.md" >}}) | 1121 | 1207 | 92.9 | /mnt/stockage/packages/f22/bangarang/po/es/bangarang.po | 
- | [el]({{< ref "/f22/language/el.md" >}}) | 1084 | 1207 | 89.8 | /mnt/stockage/packages/f22/bangarang/po/el/bangarang.po | 
- | [hu]({{< ref "/f22/language/hu.md" >}}) | 1084 | 1207 | 89.8 | /mnt/stockage/packages/f22/bangarang/po/hu/bangarang.po | 
- | [pt]({{< ref "/f22/language/pt.md" >}}) | 1084 | 1207 | 89.8 | /mnt/stockage/packages/f22/bangarang/po/pt/bangarang.po | 
- | [pt_BR]({{< ref "/f22/language/pt_BR.md" >}}) | 1084 | 1207 | 89.8 | /mnt/stockage/packages/f22/bangarang/po/pt_BR/bangarang.po | 
- | [de]({{< ref "/f22/language/de.md" >}}) | 1076 | 1207 | 89.1 | /mnt/stockage/packages/f22/bangarang/po/de/bangarang.po | 
- | [lt]({{< ref "/f22/language/lt.md" >}}) | 1067 | 1207 | 88.4 | /mnt/stockage/packages/f22/bangarang/po/lt/bangarang.po | 
- | [fi]({{< ref "/f22/language/fi.md" >}}) | 1009 | 1207 | 83.6 | /mnt/stockage/packages/f22/bangarang/po/fi/bangarang.po | 
- | [zh_Hans]({{< ref "/f22/language/zh_Hans.md" >}}) | 1008 | 1207 | 83.5 | /mnt/stockage/packages/f22/bangarang/po/zh_CN/bangarang.po | 
- | [fr]({{< ref "/f22/language/fr.md" >}}) | 988 | 1207 | 81.9 | /mnt/stockage/packages/f22/bangarang/po/fr/bangarang.po | 
- | [cs]({{< ref "/f22/language/cs.md" >}}) | 948 | 1207 | 78.5 | /mnt/stockage/packages/f22/bangarang/po/cs/bangarang.po | 
- | [pl]({{< ref "/f22/language/pl.md" >}}) | 440 | 1207 | 36.5 | /mnt/stockage/packages/f22/bangarang/po/pl/bangarang.po | 
- | [da]({{< ref "/f22/language/da.md" >}}) | 422 | 1207 | 35.0 | /mnt/stockage/packages/f22/bangarang/po/da/bangarang.po | 
+ | [uk](/f22/language/uk) | 1207 | 1207 | 100.0 | /mnt/stockage/packages/f22/bangarang/po/uk/bangarang.po | 
+ | [nl](/f22/language/nl) | 1203 | 1207 | 99.7 | /mnt/stockage/packages/f22/bangarang/po/nl/bangarang.po | 
+ | [it](/f22/language/it) | 1132 | 1207 | 93.8 | /mnt/stockage/packages/f22/bangarang/po/it/bangarang.po | 
+ | [ru](/f22/language/ru) | 1132 | 1207 | 93.8 | /mnt/stockage/packages/f22/bangarang/po/ru/bangarang.po | 
+ | [es](/f22/language/es) | 1121 | 1207 | 92.9 | /mnt/stockage/packages/f22/bangarang/po/es/bangarang.po | 
+ | [el](/f22/language/el) | 1084 | 1207 | 89.8 | /mnt/stockage/packages/f22/bangarang/po/el/bangarang.po | 
+ | [hu](/f22/language/hu) | 1084 | 1207 | 89.8 | /mnt/stockage/packages/f22/bangarang/po/hu/bangarang.po | 
+ | [pt](/f22/language/pt) | 1084 | 1207 | 89.8 | /mnt/stockage/packages/f22/bangarang/po/pt/bangarang.po | 
+ | [pt_BR](/f22/language/pt_BR) | 1084 | 1207 | 89.8 | /mnt/stockage/packages/f22/bangarang/po/pt_BR/bangarang.po | 
+ | [de](/f22/language/de) | 1076 | 1207 | 89.1 | /mnt/stockage/packages/f22/bangarang/po/de/bangarang.po | 
+ | [lt](/f22/language/lt) | 1067 | 1207 | 88.4 | /mnt/stockage/packages/f22/bangarang/po/lt/bangarang.po | 
+ | [fi](/f22/language/fi) | 1009 | 1207 | 83.6 | /mnt/stockage/packages/f22/bangarang/po/fi/bangarang.po | 
+ | [zh_Hans](/f22/language/zh_Hans) | 1008 | 1207 | 83.5 | /mnt/stockage/packages/f22/bangarang/po/zh_CN/bangarang.po | 
+ | [fr](/f22/language/fr) | 988 | 1207 | 81.9 | /mnt/stockage/packages/f22/bangarang/po/fr/bangarang.po | 
+ | [cs](/f22/language/cs) | 948 | 1207 | 78.5 | /mnt/stockage/packages/f22/bangarang/po/cs/bangarang.po | 
+ | [pl](/f22/language/pl) | 440 | 1207 | 36.5 | /mnt/stockage/packages/f22/bangarang/po/pl/bangarang.po | 
+ | [da](/f22/language/da) | 422 | 1207 | 35.0 | /mnt/stockage/packages/f22/bangarang/po/da/bangarang.po | 
 {.sortable}
 
 

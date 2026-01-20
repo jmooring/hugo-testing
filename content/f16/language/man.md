@@ -39,15 +39,15 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [davfs2]({{< ref "/f16/package/davfs2.md" >}}) | 5276 | 5276 | 100.0 |  | 
- | [kde-i18n]({{< ref "/f16/package/kde-i18n.md" >}}) | 181 | 181 | 100.0 | Chinese (traditional) <zh-l10n@linux.org.tw> | 
- | [kde-l10n]({{< ref "/f16/package/kde-l10n.md" >}}) | 183 | 183 | 100.0 | Chinese Traditional <zh-l10n@linux.org.tw> | 
- | [pida]({{< ref "/f16/package/pida.md" >}}) | 7 | 7 | 100.0 |  | 
- | [mkvtoolnix]({{< ref "/f16/package/mkvtoolnix.md" >}}) | 12488 | 12489 | 100.0 | none | 
- | [dpkg]({{< ref "/f16/package/dpkg.md" >}}) | 26824 | 27501 | 97.5 | de <debian-l10n-german@lists.debian.org> | 
- | [shadow-utils]({{< ref "/f16/package/shadow-utils.md" >}}) | 7092 | 15333 | 46.3 | debian-l10n-german <http://lists.debian.org/debian-l10n-german/> | 
- | [po4a]({{< ref "/f16/package/po4a.md" >}}) | 0 | 36 | 0.0 | LANGUAGE <LL@li.org> | 
- | [wine-docs]({{< ref "/f16/package/wine-docs.md" >}}) | 0 | 38 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [davfs2](/f16/package/davfs2) | 5276 | 5276 | 100.0 |  | 
+ | [kde-i18n](/f16/package/kde-i18n) | 181 | 181 | 100.0 | Chinese (traditional) <zh-l10n@linux.org.tw> | 
+ | [kde-l10n](/f16/package/kde-l10n) | 183 | 183 | 100.0 | Chinese Traditional <zh-l10n@linux.org.tw> | 
+ | [pida](/f16/package/pida) | 7 | 7 | 100.0 |  | 
+ | [mkvtoolnix](/f16/package/mkvtoolnix) | 12488 | 12489 | 100.0 | none | 
+ | [dpkg](/f16/package/dpkg) | 26824 | 27501 | 97.5 | de <debian-l10n-german@lists.debian.org> | 
+ | [shadow-utils](/f16/package/shadow-utils) | 7092 | 15333 | 46.3 | debian-l10n-german <http://lists.debian.org/debian-l10n-german/> | 
+ | [po4a](/f16/package/po4a) | 0 | 36 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [wine-docs](/f16/package/wine-docs) | 0 | 38 | 0.0 | LANGUAGE <LL@li.org> | 
 {.sortable}
 
 

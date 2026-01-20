@@ -38,53 +38,53 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [gwibber]({{< ref "/f10/package/gwibber.md" >}}) | 82 | 482 | 17.0 | Lao <lo@li.org> | 
- | [libvirt]({{< ref "/f10/package/libvirt.md" >}}) | 1224 | 8225 | 14.9 | none | 
- | [system-config-netboot]({{< ref "/f10/package/system-config-netboot.md" >}}) | 10 | 1103 | 0.9 | none | 
- | [pidgin]({{< ref "/f10/package/pidgin.md" >}}) | 72 | 17989 | 0.4 | Lao <lo@li.org> | 
- | [anaconda]({{< ref "/f10/package/anaconda.md" >}}) | 0 | 10416 | 0.0 | none | 
- | [authconfig]({{< ref "/f10/package/authconfig.md" >}}) | 0 | 1351 | 0.0 | none | 
- | [chkconfig]({{< ref "/f10/package/chkconfig.md" >}}) | 0 | 430 | 0.0 | none | 
- | [compiz]({{< ref "/f10/package/compiz.md" >}}) | 0 | 39 | 0.0 | Lao <i18n@suse.de> | 
- | [firstboot]({{< ref "/f10/package/firstboot.md" >}}) | 0 | 604 | 0.0 | none | 
- | [hwbrowser]({{< ref "/f10/package/hwbrowser.md" >}}) | 0 | 117 | 0.0 | none | 
- | [im-chooser]({{< ref "/f10/package/im-chooser.md" >}}) | 0 | 152 | 0.0 | none | 
- | [imsettings]({{< ref "/f10/package/imsettings.md" >}}) | 0 | 849 | 0.0 | none | 
- | [initscripts]({{< ref "/f10/package/initscripts.md" >}}) | 0 | 3871 | 0.0 | none | 
- | [kexec-tools]({{< ref "/f10/package/kexec-tools.md" >}}) | 0 | 132 | 0.0 | LANGUAGE <LL@li.org> | 
- | [knetworkmanager]({{< ref "/f10/package/knetworkmanager.md" >}}) | 0 | 408 | 0.0 | Lao <i18n@suse.de> | 
- | [libgxim]({{< ref "/f10/package/libgxim.md" >}}) | 0 | 130 | 0.0 | none | 
- | [passwd]({{< ref "/f10/package/passwd.md" >}}) | 0 | 291 | 0.0 | none | 
- | [policycoreutils]({{< ref "/f10/package/policycoreutils.md" >}}) | 0 | 4363 | 0.0 | LANGUAGE <LL@li.org> | 
- | [pykickstart]({{< ref "/f10/package/pykickstart.md" >}}) | 0 | 284 | 0.0 | LANGUAGE <LL@li.org> | 
- | [redhat-menus]({{< ref "/f10/package/redhat-menus.md" >}}) | 0 | 261 | 0.0 | none | 
- | [rhpl]({{< ref "/f10/package/rhpl.md" >}}) | 0 | 185 | 0.0 | none | 
- | [rhpxl]({{< ref "/f10/package/rhpxl.md" >}}) | 0 | 130 | 0.0 | none | 
- | [setroubleshoot]({{< ref "/f10/package/setroubleshoot.md" >}}) | 0 | 582 | 0.0 | LANGUAGE <LL@li.org> | 
- | [setroubleshoot-plugins]({{< ref "/f10/package/setroubleshoot-plugins.md" >}}) | 0 | 8276 | 0.0 | LANGUAGE <LL@li.org> | 
- | [setuptool]({{< ref "/f10/package/setuptool.md" >}}) | 0 | 60 | 0.0 | none | 
- | [specspo]({{< ref "/f10/package/specspo.md" >}}) | 0 | 305286 | 0.0 | none | 
- | [switchdesk]({{< ref "/f10/package/switchdesk.md" >}}) | 0 | 137 | 0.0 | none | 
- | [system-config-bind]({{< ref "/f10/package/system-config-bind.md" >}}) | 0 | 9419 | 0.0 | none | 
- | [system-config-boot]({{< ref "/f10/package/system-config-boot.md" >}}) | 0 | 46 | 0.0 | none | 
- | [system-config-date]({{< ref "/f10/package/system-config-date.md" >}}) | 0 | 1038 | 0.0 | none | 
- | [system-config-date-docs]({{< ref "/f10/package/system-config-date-docs.md" >}}) | 0 | 660 | 0.0 | LANGUAGE <LL@li.org> | 
- | [system-config-display]({{< ref "/f10/package/system-config-display.md" >}}) | 0 | 398 | 0.0 | none | 
- | [system-config-firewall]({{< ref "/f10/package/system-config-firewall.md" >}}) | 0 | 2497 | 0.0 | none | 
- | [system-config-httpd]({{< ref "/f10/package/system-config-httpd.md" >}}) | 0 | 858 | 0.0 | none | 
- | [system-config-kdump]({{< ref "/f10/package/system-config-kdump.md" >}}) | 0 | 383 | 0.0 | LANGUAGE <LL@li.org> | 
- | [system-config-keyboard]({{< ref "/f10/package/system-config-keyboard.md" >}}) | 0 | 78 | 0.0 | none | 
- | [system-config-kickstart]({{< ref "/f10/package/system-config-kickstart.md" >}}) | 0 | 1054 | 0.0 | none | 
- | [system-config-language]({{< ref "/f10/package/system-config-language.md" >}}) | 0 | 45 | 0.0 | none | 
- | [system-config-network]({{< ref "/f10/package/system-config-network.md" >}}) | 0 | 2894 | 0.0 | none | 
- | [system-config-nfs]({{< ref "/f10/package/system-config-nfs.md" >}}) | 0 | 1517 | 0.0 | LANGUAGE <LL@li.org> | 
- | [system-config-printer]({{< ref "/f10/package/system-config-printer.md" >}}) | 0 | 3005 | 0.0 | none | 
- | [system-config-rootpassword]({{< ref "/f10/package/system-config-rootpassword.md" >}}) | 0 | 116 | 0.0 | none | 
- | [system-config-samba]({{< ref "/f10/package/system-config-samba.md" >}}) | 0 | 422 | 0.0 | none | 
- | [system-config-services]({{< ref "/f10/package/system-config-services.md" >}}) | 0 | 384 | 0.0 | none | 
- | [system-config-users]({{< ref "/f10/package/system-config-users.md" >}}) | 0 | 1337 | 0.0 | none | 
- | [system-config-users-docs]({{< ref "/f10/package/system-config-users-docs.md" >}}) | 0 | 1054 | 0.0 | LANGUAGE <LL@li.org> | 
- | [system-switch-mail]({{< ref "/f10/package/system-switch-mail.md" >}}) | 0 | 134 | 0.0 | none | 
+ | [gwibber](/f10/package/gwibber) | 82 | 482 | 17.0 | Lao <lo@li.org> | 
+ | [libvirt](/f10/package/libvirt) | 1224 | 8225 | 14.9 | none | 
+ | [system-config-netboot](/f10/package/system-config-netboot) | 10 | 1103 | 0.9 | none | 
+ | [pidgin](/f10/package/pidgin) | 72 | 17989 | 0.4 | Lao <lo@li.org> | 
+ | [anaconda](/f10/package/anaconda) | 0 | 10416 | 0.0 | none | 
+ | [authconfig](/f10/package/authconfig) | 0 | 1351 | 0.0 | none | 
+ | [chkconfig](/f10/package/chkconfig) | 0 | 430 | 0.0 | none | 
+ | [compiz](/f10/package/compiz) | 0 | 39 | 0.0 | Lao <i18n@suse.de> | 
+ | [firstboot](/f10/package/firstboot) | 0 | 604 | 0.0 | none | 
+ | [hwbrowser](/f10/package/hwbrowser) | 0 | 117 | 0.0 | none | 
+ | [im-chooser](/f10/package/im-chooser) | 0 | 152 | 0.0 | none | 
+ | [imsettings](/f10/package/imsettings) | 0 | 849 | 0.0 | none | 
+ | [initscripts](/f10/package/initscripts) | 0 | 3871 | 0.0 | none | 
+ | [kexec-tools](/f10/package/kexec-tools) | 0 | 132 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [knetworkmanager](/f10/package/knetworkmanager) | 0 | 408 | 0.0 | Lao <i18n@suse.de> | 
+ | [libgxim](/f10/package/libgxim) | 0 | 130 | 0.0 | none | 
+ | [passwd](/f10/package/passwd) | 0 | 291 | 0.0 | none | 
+ | [policycoreutils](/f10/package/policycoreutils) | 0 | 4363 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [pykickstart](/f10/package/pykickstart) | 0 | 284 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [redhat-menus](/f10/package/redhat-menus) | 0 | 261 | 0.0 | none | 
+ | [rhpl](/f10/package/rhpl) | 0 | 185 | 0.0 | none | 
+ | [rhpxl](/f10/package/rhpxl) | 0 | 130 | 0.0 | none | 
+ | [setroubleshoot](/f10/package/setroubleshoot) | 0 | 582 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [setroubleshoot-plugins](/f10/package/setroubleshoot-plugins) | 0 | 8276 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [setuptool](/f10/package/setuptool) | 0 | 60 | 0.0 | none | 
+ | [specspo](/f10/package/specspo) | 0 | 305286 | 0.0 | none | 
+ | [switchdesk](/f10/package/switchdesk) | 0 | 137 | 0.0 | none | 
+ | [system-config-bind](/f10/package/system-config-bind) | 0 | 9419 | 0.0 | none | 
+ | [system-config-boot](/f10/package/system-config-boot) | 0 | 46 | 0.0 | none | 
+ | [system-config-date](/f10/package/system-config-date) | 0 | 1038 | 0.0 | none | 
+ | [system-config-date-docs](/f10/package/system-config-date-docs) | 0 | 660 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [system-config-display](/f10/package/system-config-display) | 0 | 398 | 0.0 | none | 
+ | [system-config-firewall](/f10/package/system-config-firewall) | 0 | 2497 | 0.0 | none | 
+ | [system-config-httpd](/f10/package/system-config-httpd) | 0 | 858 | 0.0 | none | 
+ | [system-config-kdump](/f10/package/system-config-kdump) | 0 | 383 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [system-config-keyboard](/f10/package/system-config-keyboard) | 0 | 78 | 0.0 | none | 
+ | [system-config-kickstart](/f10/package/system-config-kickstart) | 0 | 1054 | 0.0 | none | 
+ | [system-config-language](/f10/package/system-config-language) | 0 | 45 | 0.0 | none | 
+ | [system-config-network](/f10/package/system-config-network) | 0 | 2894 | 0.0 | none | 
+ | [system-config-nfs](/f10/package/system-config-nfs) | 0 | 1517 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [system-config-printer](/f10/package/system-config-printer) | 0 | 3005 | 0.0 | none | 
+ | [system-config-rootpassword](/f10/package/system-config-rootpassword) | 0 | 116 | 0.0 | none | 
+ | [system-config-samba](/f10/package/system-config-samba) | 0 | 422 | 0.0 | none | 
+ | [system-config-services](/f10/package/system-config-services) | 0 | 384 | 0.0 | none | 
+ | [system-config-users](/f10/package/system-config-users) | 0 | 1337 | 0.0 | none | 
+ | [system-config-users-docs](/f10/package/system-config-users-docs) | 0 | 1054 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [system-switch-mail](/f10/package/system-switch-mail) | 0 | 134 | 0.0 | none | 
 {.sortable}
 
 

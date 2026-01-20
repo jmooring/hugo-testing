@@ -18,35 +18,35 @@ The package arianna (version 23.08.5):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f38/language/ca.md" >}}) | 128 | 128 | 100.0 | /mnt/stockage/packages/f38/arianna/po/ca/arianna.po | 
- | [ca@valencia]({{< ref "/f38/language/ca@valencia.md" >}}) | 128 | 128 | 100.0 | /mnt/stockage/packages/f38/arianna/po/ca@valencia/arianna.po | 
- | [de]({{< ref "/f38/language/de.md" >}}) | 128 | 128 | 100.0 | /mnt/stockage/packages/f38/arianna/po/de/arianna.po | 
- | [en_GB]({{< ref "/f38/language/en_GB.md" >}}) | 128 | 128 | 100.0 | /mnt/stockage/packages/f38/arianna/po/en_GB/arianna.po | 
- | [es]({{< ref "/f38/language/es.md" >}}) | 128 | 128 | 100.0 | /mnt/stockage/packages/f38/arianna/po/es/arianna.po | 
- | [eu]({{< ref "/f38/language/eu.md" >}}) | 128 | 128 | 100.0 | /mnt/stockage/packages/f38/arianna/po/eu/arianna.po | 
- | [fi]({{< ref "/f38/language/fi.md" >}}) | 128 | 128 | 100.0 | /mnt/stockage/packages/f38/arianna/po/fi/arianna.po | 
- | [fr]({{< ref "/f38/language/fr.md" >}}) | 128 | 128 | 100.0 | /mnt/stockage/packages/f38/arianna/po/fr/arianna.po | 
- | [gl]({{< ref "/f38/language/gl.md" >}}) | 128 | 128 | 100.0 | /mnt/stockage/packages/f38/arianna/po/gl/arianna.po | 
- | [ia]({{< ref "/f38/language/ia.md" >}}) | 128 | 128 | 100.0 | /mnt/stockage/packages/f38/arianna/po/ia/arianna.po | 
- | [it]({{< ref "/f38/language/it.md" >}}) | 128 | 128 | 100.0 | /mnt/stockage/packages/f38/arianna/po/it/arianna.po | 
- | [ka]({{< ref "/f38/language/ka.md" >}}) | 128 | 128 | 100.0 | /mnt/stockage/packages/f38/arianna/po/ka/arianna.po | 
- | [ko]({{< ref "/f38/language/ko.md" >}}) | 128 | 128 | 100.0 | /mnt/stockage/packages/f38/arianna/po/ko/arianna.po | 
- | [nl]({{< ref "/f38/language/nl.md" >}}) | 128 | 128 | 100.0 | /mnt/stockage/packages/f38/arianna/po/nl/arianna.po | 
- | [pl]({{< ref "/f38/language/pl.md" >}}) | 128 | 128 | 100.0 | /mnt/stockage/packages/f38/arianna/po/pl/arianna.po | 
- | [pt]({{< ref "/f38/language/pt.md" >}}) | 128 | 128 | 100.0 | /mnt/stockage/packages/f38/arianna/po/pt/arianna.po | 
- | [ro]({{< ref "/f38/language/ro.md" >}}) | 128 | 128 | 100.0 | /mnt/stockage/packages/f38/arianna/po/ro/arianna.po | 
- | [ru]({{< ref "/f38/language/ru.md" >}}) | 128 | 128 | 100.0 | /mnt/stockage/packages/f38/arianna/po/ru/arianna.po | 
- | [sl]({{< ref "/f38/language/sl.md" >}}) | 128 | 128 | 100.0 | /mnt/stockage/packages/f38/arianna/po/sl/arianna.po | 
- | [sv]({{< ref "/f38/language/sv.md" >}}) | 128 | 128 | 100.0 | /mnt/stockage/packages/f38/arianna/po/sv/arianna.po | 
- | [tr]({{< ref "/f38/language/tr.md" >}}) | 128 | 128 | 100.0 | /mnt/stockage/packages/f38/arianna/po/tr/arianna.po | 
- | [uk]({{< ref "/f38/language/uk.md" >}}) | 128 | 128 | 100.0 | /mnt/stockage/packages/f38/arianna/po/uk/arianna.po | 
- | [cs]({{< ref "/f38/language/cs.md" >}}) | 124 | 128 | 96.9 | /mnt/stockage/packages/f38/arianna/po/cs/arianna.po | 
- | [zh_Hans]({{< ref "/f38/language/zh_Hans.md" >}}) | 112 | 128 | 87.5 | /mnt/stockage/packages/f38/arianna/po/zh_CN/arianna.po | 
- | [hu]({{< ref "/f38/language/hu.md" >}}) | 110 | 128 | 85.9 | /mnt/stockage/packages/f38/arianna/po/hu/arianna.po | 
- | [sk]({{< ref "/f38/language/sk.md" >}}) | 38 | 128 | 29.7 | /mnt/stockage/packages/f38/arianna/po/sk/arianna.po | 
- | [pt_BR]({{< ref "/f38/language/pt_BR.md" >}}) | 12 | 128 | 9.4 | /mnt/stockage/packages/f38/arianna/po/pt_BR/arianna.po | 
- | [ja]({{< ref "/f38/language/ja.md" >}}) | 0 | 128 | 0.0 | /mnt/stockage/packages/f38/arianna/po/ja/arianna.po | 
- | [lt]({{< ref "/f38/language/lt.md" >}}) | 0 | 128 | 0.0 | /mnt/stockage/packages/f38/arianna/po/lt/arianna.po | 
+ | [ca](/f38/language/ca) | 128 | 128 | 100.0 | /mnt/stockage/packages/f38/arianna/po/ca/arianna.po | 
+ | [ca@valencia](/f38/language/ca@valencia) | 128 | 128 | 100.0 | /mnt/stockage/packages/f38/arianna/po/ca@valencia/arianna.po | 
+ | [de](/f38/language/de) | 128 | 128 | 100.0 | /mnt/stockage/packages/f38/arianna/po/de/arianna.po | 
+ | [en_GB](/f38/language/en_GB) | 128 | 128 | 100.0 | /mnt/stockage/packages/f38/arianna/po/en_GB/arianna.po | 
+ | [es](/f38/language/es) | 128 | 128 | 100.0 | /mnt/stockage/packages/f38/arianna/po/es/arianna.po | 
+ | [eu](/f38/language/eu) | 128 | 128 | 100.0 | /mnt/stockage/packages/f38/arianna/po/eu/arianna.po | 
+ | [fi](/f38/language/fi) | 128 | 128 | 100.0 | /mnt/stockage/packages/f38/arianna/po/fi/arianna.po | 
+ | [fr](/f38/language/fr) | 128 | 128 | 100.0 | /mnt/stockage/packages/f38/arianna/po/fr/arianna.po | 
+ | [gl](/f38/language/gl) | 128 | 128 | 100.0 | /mnt/stockage/packages/f38/arianna/po/gl/arianna.po | 
+ | [ia](/f38/language/ia) | 128 | 128 | 100.0 | /mnt/stockage/packages/f38/arianna/po/ia/arianna.po | 
+ | [it](/f38/language/it) | 128 | 128 | 100.0 | /mnt/stockage/packages/f38/arianna/po/it/arianna.po | 
+ | [ka](/f38/language/ka) | 128 | 128 | 100.0 | /mnt/stockage/packages/f38/arianna/po/ka/arianna.po | 
+ | [ko](/f38/language/ko) | 128 | 128 | 100.0 | /mnt/stockage/packages/f38/arianna/po/ko/arianna.po | 
+ | [nl](/f38/language/nl) | 128 | 128 | 100.0 | /mnt/stockage/packages/f38/arianna/po/nl/arianna.po | 
+ | [pl](/f38/language/pl) | 128 | 128 | 100.0 | /mnt/stockage/packages/f38/arianna/po/pl/arianna.po | 
+ | [pt](/f38/language/pt) | 128 | 128 | 100.0 | /mnt/stockage/packages/f38/arianna/po/pt/arianna.po | 
+ | [ro](/f38/language/ro) | 128 | 128 | 100.0 | /mnt/stockage/packages/f38/arianna/po/ro/arianna.po | 
+ | [ru](/f38/language/ru) | 128 | 128 | 100.0 | /mnt/stockage/packages/f38/arianna/po/ru/arianna.po | 
+ | [sl](/f38/language/sl) | 128 | 128 | 100.0 | /mnt/stockage/packages/f38/arianna/po/sl/arianna.po | 
+ | [sv](/f38/language/sv) | 128 | 128 | 100.0 | /mnt/stockage/packages/f38/arianna/po/sv/arianna.po | 
+ | [tr](/f38/language/tr) | 128 | 128 | 100.0 | /mnt/stockage/packages/f38/arianna/po/tr/arianna.po | 
+ | [uk](/f38/language/uk) | 128 | 128 | 100.0 | /mnt/stockage/packages/f38/arianna/po/uk/arianna.po | 
+ | [cs](/f38/language/cs) | 124 | 128 | 96.9 | /mnt/stockage/packages/f38/arianna/po/cs/arianna.po | 
+ | [zh_Hans](/f38/language/zh_Hans) | 112 | 128 | 87.5 | /mnt/stockage/packages/f38/arianna/po/zh_CN/arianna.po | 
+ | [hu](/f38/language/hu) | 110 | 128 | 85.9 | /mnt/stockage/packages/f38/arianna/po/hu/arianna.po | 
+ | [sk](/f38/language/sk) | 38 | 128 | 29.7 | /mnt/stockage/packages/f38/arianna/po/sk/arianna.po | 
+ | [pt_BR](/f38/language/pt_BR) | 12 | 128 | 9.4 | /mnt/stockage/packages/f38/arianna/po/pt_BR/arianna.po | 
+ | [ja](/f38/language/ja) | 0 | 128 | 0.0 | /mnt/stockage/packages/f38/arianna/po/ja/arianna.po | 
+ | [lt](/f38/language/lt) | 0 | 128 | 0.0 | /mnt/stockage/packages/f38/arianna/po/lt/arianna.po | 
 {.sortable}
 
 

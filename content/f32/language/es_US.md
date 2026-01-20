@@ -38,9 +38,9 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [libmatekbd]({{< ref "/f32/package/libmatekbd.md" >}}) | 0 | 308 | 0.0 | Spanish (United States) (http://www.transifex.com/mate/MATE/language/es_US/) | 
- | [mate-menu]({{< ref "/f32/package/mate-menu.md" >}}) | 0 | 308 | 0.0 | Spanish (United States) (http://www.transifex.com/mate/MATE/language/es_US/) | 
- | [mate-themes]({{< ref "/f32/package/mate-themes.md" >}}) | 0 | 74 | 0.0 | Spanish (United States) (http://www.transifex.com/mate/MATE/language/es_US/) | 
+ | [libmatekbd](/f32/package/libmatekbd) | 0 | 308 | 0.0 | Spanish (United States) (http://www.transifex.com/mate/MATE/language/es_US/) | 
+ | [mate-menu](/f32/package/mate-menu) | 0 | 308 | 0.0 | Spanish (United States) (http://www.transifex.com/mate/MATE/language/es_US/) | 
+ | [mate-themes](/f32/package/mate-themes) | 0 | 74 | 0.0 | Spanish (United States) (http://www.transifex.com/mate/MATE/language/es_US/) | 
 {.sortable}
 
 

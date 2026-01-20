@@ -18,80 +18,80 @@ The package system-config-kdump (version 1.0.14):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [as]({{< ref "/f11/language/as.md" >}}) | 383 | 383 | 100.0 | /mnt/stockage/packages/f11/system-config-kdump/po/as.po | 
- | [bg]({{< ref "/f11/language/bg.md" >}}) | 383 | 383 | 100.0 | /mnt/stockage/packages/f11/system-config-kdump/po/bg.po | 
- | [bn_IN]({{< ref "/f11/language/bn_IN.md" >}}) | 383 | 383 | 100.0 | /mnt/stockage/packages/f11/system-config-kdump/po/bn_IN.po | 
- | [cs]({{< ref "/f11/language/cs.md" >}}) | 383 | 383 | 100.0 | /mnt/stockage/packages/f11/system-config-kdump/po/cs.po | 
- | [de]({{< ref "/f11/language/de.md" >}}) | 383 | 383 | 100.0 | /mnt/stockage/packages/f11/system-config-kdump/po/de.po | 
- | [es]({{< ref "/f11/language/es.md" >}}) | 383 | 383 | 100.0 | /mnt/stockage/packages/f11/system-config-kdump/po/es.po | 
- | [fi]({{< ref "/f11/language/fi.md" >}}) | 383 | 383 | 100.0 | /mnt/stockage/packages/f11/system-config-kdump/po/fi.po | 
- | [fr]({{< ref "/f11/language/fr.md" >}}) | 383 | 383 | 100.0 | /mnt/stockage/packages/f11/system-config-kdump/po/fr.po | 
- | [gu]({{< ref "/f11/language/gu.md" >}}) | 383 | 383 | 100.0 | /mnt/stockage/packages/f11/system-config-kdump/po/gu.po | 
- | [hi]({{< ref "/f11/language/hi.md" >}}) | 383 | 383 | 100.0 | /mnt/stockage/packages/f11/system-config-kdump/po/hi.po | 
- | [hr]({{< ref "/f11/language/hr.md" >}}) | 383 | 383 | 100.0 | /mnt/stockage/packages/f11/system-config-kdump/po/hr.po | 
- | [it]({{< ref "/f11/language/it.md" >}}) | 383 | 383 | 100.0 | /mnt/stockage/packages/f11/system-config-kdump/po/it.po | 
- | [ja]({{< ref "/f11/language/ja.md" >}}) | 383 | 383 | 100.0 | /mnt/stockage/packages/f11/system-config-kdump/po/ja.po | 
- | [kn]({{< ref "/f11/language/kn.md" >}}) | 383 | 383 | 100.0 | /mnt/stockage/packages/f11/system-config-kdump/po/kn.po | 
- | [ko]({{< ref "/f11/language/ko.md" >}}) | 383 | 383 | 100.0 | /mnt/stockage/packages/f11/system-config-kdump/po/ko.po | 
- | [ml]({{< ref "/f11/language/ml.md" >}}) | 383 | 383 | 100.0 | /mnt/stockage/packages/f11/system-config-kdump/po/ml.po | 
- | [mr]({{< ref "/f11/language/mr.md" >}}) | 383 | 383 | 100.0 | /mnt/stockage/packages/f11/system-config-kdump/po/mr.po | 
- | [ms]({{< ref "/f11/language/ms.md" >}}) | 383 | 383 | 100.0 | /mnt/stockage/packages/f11/system-config-kdump/po/ms.po | 
- | [nl]({{< ref "/f11/language/nl.md" >}}) | 383 | 383 | 100.0 | /mnt/stockage/packages/f11/system-config-kdump/po/nl.po | 
- | [or]({{< ref "/f11/language/or.md" >}}) | 383 | 383 | 100.0 | /mnt/stockage/packages/f11/system-config-kdump/po/or.po | 
- | [pl]({{< ref "/f11/language/pl.md" >}}) | 383 | 383 | 100.0 | /mnt/stockage/packages/f11/system-config-kdump/po/pl.po | 
- | [pt]({{< ref "/f11/language/pt.md" >}}) | 383 | 383 | 100.0 | /mnt/stockage/packages/f11/system-config-kdump/po/pt.po | 
- | [pt_BR]({{< ref "/f11/language/pt_BR.md" >}}) | 383 | 383 | 100.0 | /mnt/stockage/packages/f11/system-config-kdump/po/pt_BR.po | 
- | [sr]({{< ref "/f11/language/sr.md" >}}) | 383 | 383 | 100.0 | /mnt/stockage/packages/f11/system-config-kdump/po/sr.po | 
- | [sr_Latn]({{< ref "/f11/language/sr_Latn.md" >}}) | 383 | 383 | 100.0 | /mnt/stockage/packages/f11/system-config-kdump/po/sr@latin.po | 
- | [sv]({{< ref "/f11/language/sv.md" >}}) | 383 | 383 | 100.0 | /mnt/stockage/packages/f11/system-config-kdump/po/sv.po | 
- | [ta]({{< ref "/f11/language/ta.md" >}}) | 383 | 383 | 100.0 | /mnt/stockage/packages/f11/system-config-kdump/po/ta.po | 
- | [te]({{< ref "/f11/language/te.md" >}}) | 383 | 383 | 100.0 | /mnt/stockage/packages/f11/system-config-kdump/po/te.po | 
- | [zh_Hans]({{< ref "/f11/language/zh_Hans.md" >}}) | 383 | 383 | 100.0 | /mnt/stockage/packages/f11/system-config-kdump/po/zh_CN.po | 
- | [ca]({{< ref "/f11/language/ca.md" >}}) | 350 | 383 | 91.4 | /mnt/stockage/packages/f11/system-config-kdump/po/ca.po | 
- | [bs]({{< ref "/f11/language/bs.md" >}}) | 339 | 383 | 88.5 | /mnt/stockage/packages/f11/system-config-kdump/po/bs.po | 
- | [da]({{< ref "/f11/language/da.md" >}}) | 339 | 383 | 88.5 | /mnt/stockage/packages/f11/system-config-kdump/po/da.po | 
- | [hu]({{< ref "/f11/language/hu.md" >}}) | 339 | 383 | 88.5 | /mnt/stockage/packages/f11/system-config-kdump/po/hu.po | 
- | [lv]({{< ref "/f11/language/lv.md" >}}) | 339 | 383 | 88.5 | /mnt/stockage/packages/f11/system-config-kdump/po/lv.po | 
- | [mai]({{< ref "/f11/language/mai.md" >}}) | 339 | 383 | 88.5 | /mnt/stockage/packages/f11/system-config-kdump/po/mai.po | 
- | [pa]({{< ref "/f11/language/pa.md" >}}) | 339 | 383 | 88.5 | /mnt/stockage/packages/f11/system-config-kdump/po/pa.po | 
- | [ru]({{< ref "/f11/language/ru.md" >}}) | 339 | 383 | 88.5 | /mnt/stockage/packages/f11/system-config-kdump/po/ru.po | 
- | [sk]({{< ref "/f11/language/sk.md" >}}) | 339 | 383 | 88.5 | /mnt/stockage/packages/f11/system-config-kdump/po/sk.po | 
- | [uk]({{< ref "/f11/language/uk.md" >}}) | 339 | 383 | 88.5 | /mnt/stockage/packages/f11/system-config-kdump/po/uk.po | 
- | [zh_Hant]({{< ref "/f11/language/zh_Hant.md" >}}) | 339 | 383 | 88.5 | /mnt/stockage/packages/f11/system-config-kdump/po/zh_TW.po | 
- | [mk]({{< ref "/f11/language/mk.md" >}}) | 243 | 383 | 63.4 | /mnt/stockage/packages/f11/system-config-kdump/po/mk.po | 
- | [ro]({{< ref "/f11/language/ro.md" >}}) | 177 | 383 | 46.2 | /mnt/stockage/packages/f11/system-config-kdump/po/ro.po | 
- | [sl]({{< ref "/f11/language/sl.md" >}}) | 166 | 383 | 43.3 | /mnt/stockage/packages/f11/system-config-kdump/po/sl.po | 
- | [is]({{< ref "/f11/language/is.md" >}}) | 107 | 383 | 27.9 | /mnt/stockage/packages/f11/system-config-kdump/po/is.po | 
- | [nb_NO]({{< ref "/f11/language/nb_NO.md" >}}) | 94 | 766 | 12.3 | /mnt/stockage/packages/f11/system-config-kdump/po/nb.po/mnt/stockage/packages/f11/system-config-kdump/po/no.po | 
- | [af]({{< ref "/f11/language/af.md" >}}) | 0 | 383 | 0.0 | /mnt/stockage/packages/f11/system-config-kdump/po/af.po | 
- | [am]({{< ref "/f11/language/am.md" >}}) | 0 | 383 | 0.0 | /mnt/stockage/packages/f11/system-config-kdump/po/am.po | 
- | [ar]({{< ref "/f11/language/ar.md" >}}) | 0 | 383 | 0.0 | /mnt/stockage/packages/f11/system-config-kdump/po/ar.po | 
- | [be]({{< ref "/f11/language/be.md" >}}) | 0 | 383 | 0.0 | /mnt/stockage/packages/f11/system-config-kdump/po/be.po | 
- | [bn]({{< ref "/f11/language/bn.md" >}}) | 0 | 383 | 0.0 | /mnt/stockage/packages/f11/system-config-kdump/po/bn.po | 
- | [cy]({{< ref "/f11/language/cy.md" >}}) | 0 | 383 | 0.0 | /mnt/stockage/packages/f11/system-config-kdump/po/cy.po | 
- | [el]({{< ref "/f11/language/el.md" >}}) | 0 | 383 | 0.0 | /mnt/stockage/packages/f11/system-config-kdump/po/el.po | 
- | [en_GB]({{< ref "/f11/language/en_GB.md" >}}) | 0 | 383 | 0.0 | /mnt/stockage/packages/f11/system-config-kdump/po/en_GB.po | 
- | [et]({{< ref "/f11/language/et.md" >}}) | 0 | 383 | 0.0 | /mnt/stockage/packages/f11/system-config-kdump/po/et.po | 
- | [eu]({{< ref "/f11/language/eu.md" >}}) | 0 | 383 | 0.0 | /mnt/stockage/packages/f11/system-config-kdump/po/eu_ES.po | 
- | [fa]({{< ref "/f11/language/fa.md" >}}) | 0 | 383 | 0.0 | /mnt/stockage/packages/f11/system-config-kdump/po/fa.po | 
- | [gl]({{< ref "/f11/language/gl.md" >}}) | 0 | 383 | 0.0 | /mnt/stockage/packages/f11/system-config-kdump/po/gl.po | 
- | [he]({{< ref "/f11/language/he.md" >}}) | 0 | 383 | 0.0 | /mnt/stockage/packages/f11/system-config-kdump/po/he.po | 
- | [hy]({{< ref "/f11/language/hy.md" >}}) | 0 | 383 | 0.0 | /mnt/stockage/packages/f11/system-config-kdump/po/hy.po | 
- | [id]({{< ref "/f11/language/id.md" >}}) | 0 | 383 | 0.0 | /mnt/stockage/packages/f11/system-config-kdump/po/id.po | 
- | [ka]({{< ref "/f11/language/ka.md" >}}) | 0 | 383 | 0.0 | /mnt/stockage/packages/f11/system-config-kdump/po/ka.po | 
- | [ku]({{< ref "/f11/language/ku.md" >}}) | 0 | 383 | 0.0 | /mnt/stockage/packages/f11/system-config-kdump/po/ku.po | 
- | [lo]({{< ref "/f11/language/lo.md" >}}) | 0 | 383 | 0.0 | /mnt/stockage/packages/f11/system-config-kdump/po/lo.po | 
- | [lt]({{< ref "/f11/language/lt.md" >}}) | 0 | 383 | 0.0 | /mnt/stockage/packages/f11/system-config-kdump/po/lt.po | 
- | [my]({{< ref "/f11/language/my.md" >}}) | 0 | 383 | 0.0 | /mnt/stockage/packages/f11/system-config-kdump/po/my.po | 
- | [nn]({{< ref "/f11/language/nn.md" >}}) | 0 | 383 | 0.0 | /mnt/stockage/packages/f11/system-config-kdump/po/nn.po | 
- | [nso]({{< ref "/f11/language/nso.md" >}}) | 0 | 383 | 0.0 | /mnt/stockage/packages/f11/system-config-kdump/po/nso.po | 
- | [si]({{< ref "/f11/language/si.md" >}}) | 0 | 383 | 0.0 | /mnt/stockage/packages/f11/system-config-kdump/po/si.po | 
- | [sq]({{< ref "/f11/language/sq.md" >}}) | 0 | 383 | 0.0 | /mnt/stockage/packages/f11/system-config-kdump/po/sq.po | 
- | [th]({{< ref "/f11/language/th.md" >}}) | 0 | 383 | 0.0 | /mnt/stockage/packages/f11/system-config-kdump/po/th.po | 
- | [tr]({{< ref "/f11/language/tr.md" >}}) | 0 | 383 | 0.0 | /mnt/stockage/packages/f11/system-config-kdump/po/tr.po | 
- | [ur]({{< ref "/f11/language/ur.md" >}}) | 0 | 383 | 0.0 | /mnt/stockage/packages/f11/system-config-kdump/po/ur.po | 
- | [vi]({{< ref "/f11/language/vi.md" >}}) | 0 | 383 | 0.0 | /mnt/stockage/packages/f11/system-config-kdump/po/vi.po | 
- | [zu]({{< ref "/f11/language/zu.md" >}}) | 0 | 383 | 0.0 | /mnt/stockage/packages/f11/system-config-kdump/po/zu.po | 
+ | [as](/f11/language/as) | 383 | 383 | 100.0 | /mnt/stockage/packages/f11/system-config-kdump/po/as.po | 
+ | [bg](/f11/language/bg) | 383 | 383 | 100.0 | /mnt/stockage/packages/f11/system-config-kdump/po/bg.po | 
+ | [bn_IN](/f11/language/bn_IN) | 383 | 383 | 100.0 | /mnt/stockage/packages/f11/system-config-kdump/po/bn_IN.po | 
+ | [cs](/f11/language/cs) | 383 | 383 | 100.0 | /mnt/stockage/packages/f11/system-config-kdump/po/cs.po | 
+ | [de](/f11/language/de) | 383 | 383 | 100.0 | /mnt/stockage/packages/f11/system-config-kdump/po/de.po | 
+ | [es](/f11/language/es) | 383 | 383 | 100.0 | /mnt/stockage/packages/f11/system-config-kdump/po/es.po | 
+ | [fi](/f11/language/fi) | 383 | 383 | 100.0 | /mnt/stockage/packages/f11/system-config-kdump/po/fi.po | 
+ | [fr](/f11/language/fr) | 383 | 383 | 100.0 | /mnt/stockage/packages/f11/system-config-kdump/po/fr.po | 
+ | [gu](/f11/language/gu) | 383 | 383 | 100.0 | /mnt/stockage/packages/f11/system-config-kdump/po/gu.po | 
+ | [hi](/f11/language/hi) | 383 | 383 | 100.0 | /mnt/stockage/packages/f11/system-config-kdump/po/hi.po | 
+ | [hr](/f11/language/hr) | 383 | 383 | 100.0 | /mnt/stockage/packages/f11/system-config-kdump/po/hr.po | 
+ | [it](/f11/language/it) | 383 | 383 | 100.0 | /mnt/stockage/packages/f11/system-config-kdump/po/it.po | 
+ | [ja](/f11/language/ja) | 383 | 383 | 100.0 | /mnt/stockage/packages/f11/system-config-kdump/po/ja.po | 
+ | [kn](/f11/language/kn) | 383 | 383 | 100.0 | /mnt/stockage/packages/f11/system-config-kdump/po/kn.po | 
+ | [ko](/f11/language/ko) | 383 | 383 | 100.0 | /mnt/stockage/packages/f11/system-config-kdump/po/ko.po | 
+ | [ml](/f11/language/ml) | 383 | 383 | 100.0 | /mnt/stockage/packages/f11/system-config-kdump/po/ml.po | 
+ | [mr](/f11/language/mr) | 383 | 383 | 100.0 | /mnt/stockage/packages/f11/system-config-kdump/po/mr.po | 
+ | [ms](/f11/language/ms) | 383 | 383 | 100.0 | /mnt/stockage/packages/f11/system-config-kdump/po/ms.po | 
+ | [nl](/f11/language/nl) | 383 | 383 | 100.0 | /mnt/stockage/packages/f11/system-config-kdump/po/nl.po | 
+ | [or](/f11/language/or) | 383 | 383 | 100.0 | /mnt/stockage/packages/f11/system-config-kdump/po/or.po | 
+ | [pl](/f11/language/pl) | 383 | 383 | 100.0 | /mnt/stockage/packages/f11/system-config-kdump/po/pl.po | 
+ | [pt](/f11/language/pt) | 383 | 383 | 100.0 | /mnt/stockage/packages/f11/system-config-kdump/po/pt.po | 
+ | [pt_BR](/f11/language/pt_BR) | 383 | 383 | 100.0 | /mnt/stockage/packages/f11/system-config-kdump/po/pt_BR.po | 
+ | [sr](/f11/language/sr) | 383 | 383 | 100.0 | /mnt/stockage/packages/f11/system-config-kdump/po/sr.po | 
+ | [sr_Latn](/f11/language/sr_Latn) | 383 | 383 | 100.0 | /mnt/stockage/packages/f11/system-config-kdump/po/sr@latin.po | 
+ | [sv](/f11/language/sv) | 383 | 383 | 100.0 | /mnt/stockage/packages/f11/system-config-kdump/po/sv.po | 
+ | [ta](/f11/language/ta) | 383 | 383 | 100.0 | /mnt/stockage/packages/f11/system-config-kdump/po/ta.po | 
+ | [te](/f11/language/te) | 383 | 383 | 100.0 | /mnt/stockage/packages/f11/system-config-kdump/po/te.po | 
+ | [zh_Hans](/f11/language/zh_Hans) | 383 | 383 | 100.0 | /mnt/stockage/packages/f11/system-config-kdump/po/zh_CN.po | 
+ | [ca](/f11/language/ca) | 350 | 383 | 91.4 | /mnt/stockage/packages/f11/system-config-kdump/po/ca.po | 
+ | [bs](/f11/language/bs) | 339 | 383 | 88.5 | /mnt/stockage/packages/f11/system-config-kdump/po/bs.po | 
+ | [da](/f11/language/da) | 339 | 383 | 88.5 | /mnt/stockage/packages/f11/system-config-kdump/po/da.po | 
+ | [hu](/f11/language/hu) | 339 | 383 | 88.5 | /mnt/stockage/packages/f11/system-config-kdump/po/hu.po | 
+ | [lv](/f11/language/lv) | 339 | 383 | 88.5 | /mnt/stockage/packages/f11/system-config-kdump/po/lv.po | 
+ | [mai](/f11/language/mai) | 339 | 383 | 88.5 | /mnt/stockage/packages/f11/system-config-kdump/po/mai.po | 
+ | [pa](/f11/language/pa) | 339 | 383 | 88.5 | /mnt/stockage/packages/f11/system-config-kdump/po/pa.po | 
+ | [ru](/f11/language/ru) | 339 | 383 | 88.5 | /mnt/stockage/packages/f11/system-config-kdump/po/ru.po | 
+ | [sk](/f11/language/sk) | 339 | 383 | 88.5 | /mnt/stockage/packages/f11/system-config-kdump/po/sk.po | 
+ | [uk](/f11/language/uk) | 339 | 383 | 88.5 | /mnt/stockage/packages/f11/system-config-kdump/po/uk.po | 
+ | [zh_Hant](/f11/language/zh_Hant) | 339 | 383 | 88.5 | /mnt/stockage/packages/f11/system-config-kdump/po/zh_TW.po | 
+ | [mk](/f11/language/mk) | 243 | 383 | 63.4 | /mnt/stockage/packages/f11/system-config-kdump/po/mk.po | 
+ | [ro](/f11/language/ro) | 177 | 383 | 46.2 | /mnt/stockage/packages/f11/system-config-kdump/po/ro.po | 
+ | [sl](/f11/language/sl) | 166 | 383 | 43.3 | /mnt/stockage/packages/f11/system-config-kdump/po/sl.po | 
+ | [is](/f11/language/is) | 107 | 383 | 27.9 | /mnt/stockage/packages/f11/system-config-kdump/po/is.po | 
+ | [nb_NO](/f11/language/nb_NO) | 94 | 766 | 12.3 | /mnt/stockage/packages/f11/system-config-kdump/po/nb.po/mnt/stockage/packages/f11/system-config-kdump/po/no.po | 
+ | [af](/f11/language/af) | 0 | 383 | 0.0 | /mnt/stockage/packages/f11/system-config-kdump/po/af.po | 
+ | [am](/f11/language/am) | 0 | 383 | 0.0 | /mnt/stockage/packages/f11/system-config-kdump/po/am.po | 
+ | [ar](/f11/language/ar) | 0 | 383 | 0.0 | /mnt/stockage/packages/f11/system-config-kdump/po/ar.po | 
+ | [be](/f11/language/be) | 0 | 383 | 0.0 | /mnt/stockage/packages/f11/system-config-kdump/po/be.po | 
+ | [bn](/f11/language/bn) | 0 | 383 | 0.0 | /mnt/stockage/packages/f11/system-config-kdump/po/bn.po | 
+ | [cy](/f11/language/cy) | 0 | 383 | 0.0 | /mnt/stockage/packages/f11/system-config-kdump/po/cy.po | 
+ | [el](/f11/language/el) | 0 | 383 | 0.0 | /mnt/stockage/packages/f11/system-config-kdump/po/el.po | 
+ | [en_GB](/f11/language/en_GB) | 0 | 383 | 0.0 | /mnt/stockage/packages/f11/system-config-kdump/po/en_GB.po | 
+ | [et](/f11/language/et) | 0 | 383 | 0.0 | /mnt/stockage/packages/f11/system-config-kdump/po/et.po | 
+ | [eu](/f11/language/eu) | 0 | 383 | 0.0 | /mnt/stockage/packages/f11/system-config-kdump/po/eu_ES.po | 
+ | [fa](/f11/language/fa) | 0 | 383 | 0.0 | /mnt/stockage/packages/f11/system-config-kdump/po/fa.po | 
+ | [gl](/f11/language/gl) | 0 | 383 | 0.0 | /mnt/stockage/packages/f11/system-config-kdump/po/gl.po | 
+ | [he](/f11/language/he) | 0 | 383 | 0.0 | /mnt/stockage/packages/f11/system-config-kdump/po/he.po | 
+ | [hy](/f11/language/hy) | 0 | 383 | 0.0 | /mnt/stockage/packages/f11/system-config-kdump/po/hy.po | 
+ | [id](/f11/language/id) | 0 | 383 | 0.0 | /mnt/stockage/packages/f11/system-config-kdump/po/id.po | 
+ | [ka](/f11/language/ka) | 0 | 383 | 0.0 | /mnt/stockage/packages/f11/system-config-kdump/po/ka.po | 
+ | [ku](/f11/language/ku) | 0 | 383 | 0.0 | /mnt/stockage/packages/f11/system-config-kdump/po/ku.po | 
+ | [lo](/f11/language/lo) | 0 | 383 | 0.0 | /mnt/stockage/packages/f11/system-config-kdump/po/lo.po | 
+ | [lt](/f11/language/lt) | 0 | 383 | 0.0 | /mnt/stockage/packages/f11/system-config-kdump/po/lt.po | 
+ | [my](/f11/language/my) | 0 | 383 | 0.0 | /mnt/stockage/packages/f11/system-config-kdump/po/my.po | 
+ | [nn](/f11/language/nn) | 0 | 383 | 0.0 | /mnt/stockage/packages/f11/system-config-kdump/po/nn.po | 
+ | [nso](/f11/language/nso) | 0 | 383 | 0.0 | /mnt/stockage/packages/f11/system-config-kdump/po/nso.po | 
+ | [si](/f11/language/si) | 0 | 383 | 0.0 | /mnt/stockage/packages/f11/system-config-kdump/po/si.po | 
+ | [sq](/f11/language/sq) | 0 | 383 | 0.0 | /mnt/stockage/packages/f11/system-config-kdump/po/sq.po | 
+ | [th](/f11/language/th) | 0 | 383 | 0.0 | /mnt/stockage/packages/f11/system-config-kdump/po/th.po | 
+ | [tr](/f11/language/tr) | 0 | 383 | 0.0 | /mnt/stockage/packages/f11/system-config-kdump/po/tr.po | 
+ | [ur](/f11/language/ur) | 0 | 383 | 0.0 | /mnt/stockage/packages/f11/system-config-kdump/po/ur.po | 
+ | [vi](/f11/language/vi) | 0 | 383 | 0.0 | /mnt/stockage/packages/f11/system-config-kdump/po/vi.po | 
+ | [zu](/f11/language/zu) | 0 | 383 | 0.0 | /mnt/stockage/packages/f11/system-config-kdump/po/zu.po | 
 {.sortable}
 
 

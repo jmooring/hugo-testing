@@ -18,10 +18,10 @@ The package gyachi (version 1.2.11):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [es]({{< ref "/f19/language/es.md" >}}) | 4176 | 4176 | 100.0 | /mnt/stockage/packages/f19/gyachi/po/es.po | 
- | [fr]({{< ref "/f19/language/fr.md" >}}) | 3331 | 4176 | 79.8 | /mnt/stockage/packages/f19/gyachi/po/fr.po | 
- | [sr]({{< ref "/f19/language/sr.md" >}}) | 2096 | 4184 | 50.1 | /mnt/stockage/packages/f19/gyachi/po/sr.po | 
- | [de]({{< ref "/f19/language/de.md" >}}) | 0 | 4176 | 0.0 | /mnt/stockage/packages/f19/gyachi/po/de.po | 
+ | [es](/f19/language/es) | 4176 | 4176 | 100.0 | /mnt/stockage/packages/f19/gyachi/po/es.po | 
+ | [fr](/f19/language/fr) | 3331 | 4176 | 79.8 | /mnt/stockage/packages/f19/gyachi/po/fr.po | 
+ | [sr](/f19/language/sr) | 2096 | 4184 | 50.1 | /mnt/stockage/packages/f19/gyachi/po/sr.po | 
+ | [de](/f19/language/de) | 0 | 4176 | 0.0 | /mnt/stockage/packages/f19/gyachi/po/de.po | 
 {.sortable}
 
 

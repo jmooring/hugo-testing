@@ -18,21 +18,21 @@ The package cherrytree (version 0.37.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f22/language/cs.md" >}}) | 2745 | 2745 | 100.0 | /mnt/stockage/packages/f22/cherrytree/locale/cs.po | 
- | [de]({{< ref "/f22/language/de.md" >}}) | 2745 | 2745 | 100.0 | /mnt/stockage/packages/f22/cherrytree/locale/de.po | 
- | [es]({{< ref "/f22/language/es.md" >}}) | 2745 | 2745 | 100.0 | /mnt/stockage/packages/f22/cherrytree/locale/es.po | 
- | [hy]({{< ref "/f22/language/hy.md" >}}) | 2745 | 2745 | 100.0 | /mnt/stockage/packages/f22/cherrytree/locale/hy.po | 
- | [it]({{< ref "/f22/language/it.md" >}}) | 2745 | 2745 | 100.0 | /mnt/stockage/packages/f22/cherrytree/locale/it.po | 
- | [ja]({{< ref "/f22/language/ja.md" >}}) | 2745 | 2745 | 100.0 | /mnt/stockage/packages/f22/cherrytree/locale/ja.po | 
- | [pt_BR]({{< ref "/f22/language/pt_BR.md" >}}) | 2745 | 2745 | 100.0 | /mnt/stockage/packages/f22/cherrytree/locale/pt_BR.po | 
- | [ru]({{< ref "/f22/language/ru.md" >}}) | 5490 | 5490 | 100.0 | /mnt/stockage/packages/f22/cherrytree/locale/uk.po/mnt/stockage/packages/f22/cherrytree/locale/ru.po | 
- | [sl]({{< ref "/f22/language/sl.md" >}}) | 2745 | 2745 | 100.0 | /mnt/stockage/packages/f22/cherrytree/locale/sl.po | 
- | [zh_Hans]({{< ref "/f22/language/zh_Hans.md" >}}) | 2745 | 2745 | 100.0 | /mnt/stockage/packages/f22/cherrytree/locale/zh_CN.po | 
- | [fr]({{< ref "/f22/language/fr.md" >}}) | 2535 | 2745 | 92.3 | /mnt/stockage/packages/f22/cherrytree/locale/fr.po | 
- | [lt]({{< ref "/f22/language/lt.md" >}}) | 2535 | 2745 | 92.3 | /mnt/stockage/packages/f22/cherrytree/locale/lt.po | 
- | [nl]({{< ref "/f22/language/nl.md" >}}) | 2535 | 2745 | 92.3 | /mnt/stockage/packages/f22/cherrytree/locale/nl.po | 
- | [pl]({{< ref "/f22/language/pl.md" >}}) | 2535 | 2745 | 92.3 | /mnt/stockage/packages/f22/cherrytree/locale/pl.po | 
- | [tr]({{< ref "/f22/language/tr.md" >}}) | 2467 | 2745 | 89.9 | /mnt/stockage/packages/f22/cherrytree/locale/tr.po | 
+ | [cs](/f22/language/cs) | 2745 | 2745 | 100.0 | /mnt/stockage/packages/f22/cherrytree/locale/cs.po | 
+ | [de](/f22/language/de) | 2745 | 2745 | 100.0 | /mnt/stockage/packages/f22/cherrytree/locale/de.po | 
+ | [es](/f22/language/es) | 2745 | 2745 | 100.0 | /mnt/stockage/packages/f22/cherrytree/locale/es.po | 
+ | [hy](/f22/language/hy) | 2745 | 2745 | 100.0 | /mnt/stockage/packages/f22/cherrytree/locale/hy.po | 
+ | [it](/f22/language/it) | 2745 | 2745 | 100.0 | /mnt/stockage/packages/f22/cherrytree/locale/it.po | 
+ | [ja](/f22/language/ja) | 2745 | 2745 | 100.0 | /mnt/stockage/packages/f22/cherrytree/locale/ja.po | 
+ | [pt_BR](/f22/language/pt_BR) | 2745 | 2745 | 100.0 | /mnt/stockage/packages/f22/cherrytree/locale/pt_BR.po | 
+ | [ru](/f22/language/ru) | 5490 | 5490 | 100.0 | /mnt/stockage/packages/f22/cherrytree/locale/uk.po/mnt/stockage/packages/f22/cherrytree/locale/ru.po | 
+ | [sl](/f22/language/sl) | 2745 | 2745 | 100.0 | /mnt/stockage/packages/f22/cherrytree/locale/sl.po | 
+ | [zh_Hans](/f22/language/zh_Hans) | 2745 | 2745 | 100.0 | /mnt/stockage/packages/f22/cherrytree/locale/zh_CN.po | 
+ | [fr](/f22/language/fr) | 2535 | 2745 | 92.3 | /mnt/stockage/packages/f22/cherrytree/locale/fr.po | 
+ | [lt](/f22/language/lt) | 2535 | 2745 | 92.3 | /mnt/stockage/packages/f22/cherrytree/locale/lt.po | 
+ | [nl](/f22/language/nl) | 2535 | 2745 | 92.3 | /mnt/stockage/packages/f22/cherrytree/locale/nl.po | 
+ | [pl](/f22/language/pl) | 2535 | 2745 | 92.3 | /mnt/stockage/packages/f22/cherrytree/locale/pl.po | 
+ | [tr](/f22/language/tr) | 2467 | 2745 | 89.9 | /mnt/stockage/packages/f22/cherrytree/locale/tr.po | 
 {.sortable}
 
 

@@ -18,7 +18,7 @@ The package rifiuti2 (version 0.7.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [zh_Hant_HK]({{< ref "/f32/language/zh_Hant_HK.md" >}}) | 682 | 682 | 100.0 | /mnt/stockage/packages/f32/rifiuti2/po/zh_HK.po | 
+ | [zh_Hant_HK](/f32/language/zh_Hant_HK) | 682 | 682 | 100.0 | /mnt/stockage/packages/f32/rifiuti2/po/zh_HK.po | 
 {.sortable}
 
 

@@ -38,7 +38,7 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [aircrack-ng]({{< ref "/f22/package/aircrack-ng.md" >}}) | 588 | 588 | 100.0 |  | 
+ | [aircrack-ng](/f22/package/aircrack-ng) | 588 | 588 | 100.0 |  | 
 {.sortable}
 
 

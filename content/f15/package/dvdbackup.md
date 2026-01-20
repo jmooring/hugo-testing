@@ -18,14 +18,14 @@ The package dvdbackup (version 0.4.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f15/language/de.md" >}}) | 1005 | 1005 | 100.0 | /mnt/stockage/packages/f15/dvdbackup/po/de.po | 
- | [error]({{< ref "/f15/language/error.md" >}}) | 2010 | 2010 | 100.0 | /mnt/stockage/packages/f15/dvdbackup/po/en@quot.po/mnt/stockage/packages/f15/dvdbackup/po/en@boldquot.po | 
- | [it]({{< ref "/f15/language/it.md" >}}) | 542 | 1005 | 53.9 | /mnt/stockage/packages/f15/dvdbackup/po/it.po | 
- | [ru]({{< ref "/f15/language/ru.md" >}}) | 172 | 1005 | 17.1 | /mnt/stockage/packages/f15/dvdbackup/po/ru.po | 
- | [fr]({{< ref "/f15/language/fr.md" >}}) | 120 | 1005 | 11.9 | /mnt/stockage/packages/f15/dvdbackup/po/fr.po | 
- | [es]({{< ref "/f15/language/es.md" >}}) | 75 | 1005 | 7.5 | /mnt/stockage/packages/f15/dvdbackup/po/es.po | 
- | [gl]({{< ref "/f15/language/gl.md" >}}) | 67 | 1005 | 6.7 | /mnt/stockage/packages/f15/dvdbackup/po/gl.po | 
- | [nb_NO]({{< ref "/f15/language/nb_NO.md" >}}) | 41 | 1005 | 4.1 | /mnt/stockage/packages/f15/dvdbackup/po/nb.po | 
+ | [de](/f15/language/de) | 1005 | 1005 | 100.0 | /mnt/stockage/packages/f15/dvdbackup/po/de.po | 
+ | [error](/f15/language/error) | 2010 | 2010 | 100.0 | /mnt/stockage/packages/f15/dvdbackup/po/en@quot.po/mnt/stockage/packages/f15/dvdbackup/po/en@boldquot.po | 
+ | [it](/f15/language/it) | 542 | 1005 | 53.9 | /mnt/stockage/packages/f15/dvdbackup/po/it.po | 
+ | [ru](/f15/language/ru) | 172 | 1005 | 17.1 | /mnt/stockage/packages/f15/dvdbackup/po/ru.po | 
+ | [fr](/f15/language/fr) | 120 | 1005 | 11.9 | /mnt/stockage/packages/f15/dvdbackup/po/fr.po | 
+ | [es](/f15/language/es) | 75 | 1005 | 7.5 | /mnt/stockage/packages/f15/dvdbackup/po/es.po | 
+ | [gl](/f15/language/gl) | 67 | 1005 | 6.7 | /mnt/stockage/packages/f15/dvdbackup/po/gl.po | 
+ | [nb_NO](/f15/language/nb_NO) | 41 | 1005 | 4.1 | /mnt/stockage/packages/f15/dvdbackup/po/nb.po | 
 {.sortable}
 
 

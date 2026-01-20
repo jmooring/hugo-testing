@@ -45,9 +45,9 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [gnucash]({{< ref "/f43/package/gnucash.md" >}}) | 22056 | 39578 | 55.7 |  | 
- | [inkscape]({{< ref "/f43/package/inkscape.md" >}}) | 16801 | 51528 | 32.6 | gist | 
- | [libreoffice]({{< ref "/f43/package/libreoffice.md" >}}) | 41933 | 178000 | 23.6 | LANGUAGE <LL@li.org> | 
+ | [gnucash](/f43/package/gnucash) | 22056 | 39578 | 55.7 |  | 
+ | [inkscape](/f43/package/inkscape) | 16801 | 51528 | 32.6 | gist | 
+ | [libreoffice](/f43/package/libreoffice) | 41933 | 178000 | 23.6 | LANGUAGE <LL@li.org> | 
 {.sortable}
 
 
@@ -59,8 +59,8 @@ We use the po metadata to get the language code and the team, but sometimes it f
 
 | Package | Lang from file path/name | polib error | Team |
 |---------|--------------------------|-------------|------|
- | [gnucash]({{< ref "/f43/package/gnucash.md" >}}) | /mnt/stockage/packages/f43/gnucash/gnucash-5.14/po/._mni.po | error-unicode |  | 
- | [gnucash]({{< ref "/f43/package/gnucash.md" >}}) | /mnt/stockage/packages/f43/gnucash/gnucash-5.14/po/glossary/._mni.po | error-unicode |  | 
+ | [gnucash](/f43/package/gnucash) | /mnt/stockage/packages/f43/gnucash/gnucash-5.14/po/._mni.po | error-unicode |  | 
+ | [gnucash](/f43/package/gnucash) | /mnt/stockage/packages/f43/gnucash/gnucash-5.14/po/glossary/._mni.po | error-unicode |  | 
 {.sortable}
 
 
@@ -71,8 +71,8 @@ We use the calcstats from translate toolkit to get the translation progress, but
 
 | Package | Lang from file path/name | Team |
 |---------|--------------------------|------|
- | [gnucash]({{< ref "/f43/package/gnucash.md" >}}) | /mnt/stockage/packages/f43/gnucash/gnucash-5.14/po/._mni.po |  | 
- | [gnucash]({{< ref "/f43/package/gnucash.md" >}}) | /mnt/stockage/packages/f43/gnucash/gnucash-5.14/po/glossary/._mni.po |  | 
+ | [gnucash](/f43/package/gnucash) | /mnt/stockage/packages/f43/gnucash/gnucash-5.14/po/._mni.po |  | 
+ | [gnucash](/f43/package/gnucash) | /mnt/stockage/packages/f43/gnucash/gnucash-5.14/po/glossary/._mni.po |  | 
 {.sortable}
 
 

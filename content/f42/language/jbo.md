@@ -38,13 +38,13 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [maliit-keyboard]({{< ref "/f42/package/maliit-keyboard.md" >}}) | 31 | 81 | 38.3 | Lojban <jbo@li.org> | 
- | [abiword]({{< ref "/f42/package/abiword.md" >}}) | 2031 | 5510 | 36.9 | Lojban | 
- | [supertux]({{< ref "/f42/package/supertux.md" >}}) | 234 | 2866 | 8.2 | Lojban (http://www.transifex.com/arctic-games/supertux/language/jbo/) | 
- | [minetest]({{< ref "/f42/package/minetest.md" >}}) | 638 | 10452 | 6.1 | Lojban <https://hosted.weblate.org/projects/minetest/minetest/jbo/> | 
- | [supertuxkart]({{< ref "/f42/package/supertuxkart.md" >}}) | 251 | 5943 | 4.2 | Lojban (http://app.transifex.com/supertuxkart/supertuxkart/language/jbo/) | 
- | [elementary-files]({{< ref "/f42/package/elementary-files.md" >}}) | 0 | 2656 | 0.0 | Lojban <jbo@li.org> | 
- | [elementary-photos]({{< ref "/f42/package/elementary-photos.md" >}}) | 0 | 2862 | 0.0 | none | 
+ | [maliit-keyboard](/f42/package/maliit-keyboard) | 31 | 81 | 38.3 | Lojban <jbo@li.org> | 
+ | [abiword](/f42/package/abiword) | 2031 | 5510 | 36.9 | Lojban | 
+ | [supertux](/f42/package/supertux) | 234 | 2866 | 8.2 | Lojban (http://www.transifex.com/arctic-games/supertux/language/jbo/) | 
+ | [minetest](/f42/package/minetest) | 638 | 10452 | 6.1 | Lojban <https://hosted.weblate.org/projects/minetest/minetest/jbo/> | 
+ | [supertuxkart](/f42/package/supertuxkart) | 251 | 5943 | 4.2 | Lojban (http://app.transifex.com/supertuxkart/supertuxkart/language/jbo/) | 
+ | [elementary-files](/f42/package/elementary-files) | 0 | 2656 | 0.0 | Lojban <jbo@li.org> | 
+ | [elementary-photos](/f42/package/elementary-photos) | 0 | 2862 | 0.0 | none | 
 {.sortable}
 
 

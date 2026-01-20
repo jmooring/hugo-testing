@@ -18,15 +18,15 @@ The package hardinfo2 (version 2.0.18):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [tr]({{< ref "/f38/language/tr.md" >}}) | 3206 | 3370 | 95.1 | /mnt/stockage/packages/f38/hardinfo2/po/tr.po | 
- | [ko]({{< ref "/f38/language/ko.md" >}}) | 3107 | 3370 | 92.2 | /mnt/stockage/packages/f38/hardinfo2/po/ko.po | 
- | [pt]({{< ref "/f38/language/pt.md" >}}) | 3015 | 3370 | 89.5 | /mnt/stockage/packages/f38/hardinfo2/po/pt.po | 
- | [pt_BR]({{< ref "/f38/language/pt_BR.md" >}}) | 2563 | 3370 | 76.1 | /mnt/stockage/packages/f38/hardinfo2/po/pt_BR.po | 
- | [ru]({{< ref "/f38/language/ru.md" >}}) | 2463 | 3370 | 73.1 | /mnt/stockage/packages/f38/hardinfo2/po/ru.po | 
- | [es]({{< ref "/f38/language/es.md" >}}) | 2316 | 3370 | 68.7 | /mnt/stockage/packages/f38/hardinfo2/po/es.po | 
- | [de]({{< ref "/f38/language/de.md" >}}) | 1165 | 3370 | 34.6 | /mnt/stockage/packages/f38/hardinfo2/po/de.po | 
- | [fr]({{< ref "/f38/language/fr.md" >}}) | 987 | 3370 | 29.3 | /mnt/stockage/packages/f38/hardinfo2/po/fr.po | 
- | [zh_Hans]({{< ref "/f38/language/zh_Hans.md" >}}) | 542 | 3370 | 16.1 | /mnt/stockage/packages/f38/hardinfo2/po/zh_CN.po | 
+ | [tr](/f38/language/tr) | 3206 | 3370 | 95.1 | /mnt/stockage/packages/f38/hardinfo2/po/tr.po | 
+ | [ko](/f38/language/ko) | 3107 | 3370 | 92.2 | /mnt/stockage/packages/f38/hardinfo2/po/ko.po | 
+ | [pt](/f38/language/pt) | 3015 | 3370 | 89.5 | /mnt/stockage/packages/f38/hardinfo2/po/pt.po | 
+ | [pt_BR](/f38/language/pt_BR) | 2563 | 3370 | 76.1 | /mnt/stockage/packages/f38/hardinfo2/po/pt_BR.po | 
+ | [ru](/f38/language/ru) | 2463 | 3370 | 73.1 | /mnt/stockage/packages/f38/hardinfo2/po/ru.po | 
+ | [es](/f38/language/es) | 2316 | 3370 | 68.7 | /mnt/stockage/packages/f38/hardinfo2/po/es.po | 
+ | [de](/f38/language/de) | 1165 | 3370 | 34.6 | /mnt/stockage/packages/f38/hardinfo2/po/de.po | 
+ | [fr](/f38/language/fr) | 987 | 3370 | 29.3 | /mnt/stockage/packages/f38/hardinfo2/po/fr.po | 
+ | [zh_Hans](/f38/language/zh_Hans) | 542 | 3370 | 16.1 | /mnt/stockage/packages/f38/hardinfo2/po/zh_CN.po | 
 {.sortable}
 
 

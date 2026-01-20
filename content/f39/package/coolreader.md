@@ -18,19 +18,19 @@ The package coolreader (version 3.2.59):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [bg]({{< ref "/f39/language/bg.md" >}}) | 695 | 695 | 100.0 | /mnt/stockage/packages/f39/coolreader/cr3gui/po/cr3_bg.po | 
- | [ru]({{< ref "/f39/language/ru.md" >}}) | 701 | 701 | 100.0 | /mnt/stockage/packages/f39/coolreader/cr3gui/po/cr3_ru.po | 
- | [uk]({{< ref "/f39/language/uk.md" >}}) | 701 | 701 | 100.0 | /mnt/stockage/packages/f39/coolreader/cr3gui/po/cr3_uk.po | 
- | [cs]({{< ref "/f39/language/cs.md" >}}) | 695 | 701 | 99.1 | /mnt/stockage/packages/f39/coolreader/cr3gui/po/cr3_cs.po | 
- | [zh_Hans]({{< ref "/f39/language/zh_Hans.md" >}}) | 676 | 701 | 96.4 | /mnt/stockage/packages/f39/coolreader/cr3gui/po/cr3_zh_CN.po | 
- | [ca]({{< ref "/f39/language/ca.md" >}}) | 641 | 695 | 92.2 | /mnt/stockage/packages/f39/coolreader/cr3gui/po/cr3_ca.po | 
- | [es]({{< ref "/f39/language/es.md" >}}) | 611 | 701 | 87.2 | /mnt/stockage/packages/f39/coolreader/cr3gui/po/cr3_es.po | 
- | [lt]({{< ref "/f39/language/lt.md" >}}) | 597 | 701 | 85.2 | /mnt/stockage/packages/f39/coolreader/cr3gui/po/cr3_lt.po | 
- | [pl]({{< ref "/f39/language/pl.md" >}}) | 570 | 701 | 81.3 | /mnt/stockage/packages/f39/coolreader/cr3gui/po/cr3_pl.po | 
- | [he_IL]({{< ref "/f39/language/he_IL.md" >}}) | 545 | 701 | 77.7 | /mnt/stockage/packages/f39/coolreader/cr3gui/po/cr3_he.po | 
- | [fr]({{< ref "/f39/language/fr.md" >}}) | 226 | 695 | 32.5 | /mnt/stockage/packages/f39/coolreader/cr3gui/po/cr3_fr.po | 
- | [zh_Hant]({{< ref "/f39/language/zh_Hant.md" >}}) | 140 | 701 | 20.0 | /mnt/stockage/packages/f39/coolreader/cr3gui/po/cr3_zh_TW.po | 
- | [de]({{< ref "/f39/language/de.md" >}}) | 0 | 701 | 0.0 | /mnt/stockage/packages/f39/coolreader/cr3gui/po/cr3_de.po | 
+ | [bg](/f39/language/bg) | 695 | 695 | 100.0 | /mnt/stockage/packages/f39/coolreader/cr3gui/po/cr3_bg.po | 
+ | [ru](/f39/language/ru) | 701 | 701 | 100.0 | /mnt/stockage/packages/f39/coolreader/cr3gui/po/cr3_ru.po | 
+ | [uk](/f39/language/uk) | 701 | 701 | 100.0 | /mnt/stockage/packages/f39/coolreader/cr3gui/po/cr3_uk.po | 
+ | [cs](/f39/language/cs) | 695 | 701 | 99.1 | /mnt/stockage/packages/f39/coolreader/cr3gui/po/cr3_cs.po | 
+ | [zh_Hans](/f39/language/zh_Hans) | 676 | 701 | 96.4 | /mnt/stockage/packages/f39/coolreader/cr3gui/po/cr3_zh_CN.po | 
+ | [ca](/f39/language/ca) | 641 | 695 | 92.2 | /mnt/stockage/packages/f39/coolreader/cr3gui/po/cr3_ca.po | 
+ | [es](/f39/language/es) | 611 | 701 | 87.2 | /mnt/stockage/packages/f39/coolreader/cr3gui/po/cr3_es.po | 
+ | [lt](/f39/language/lt) | 597 | 701 | 85.2 | /mnt/stockage/packages/f39/coolreader/cr3gui/po/cr3_lt.po | 
+ | [pl](/f39/language/pl) | 570 | 701 | 81.3 | /mnt/stockage/packages/f39/coolreader/cr3gui/po/cr3_pl.po | 
+ | [he_IL](/f39/language/he_IL) | 545 | 701 | 77.7 | /mnt/stockage/packages/f39/coolreader/cr3gui/po/cr3_he.po | 
+ | [fr](/f39/language/fr) | 226 | 695 | 32.5 | /mnt/stockage/packages/f39/coolreader/cr3gui/po/cr3_fr.po | 
+ | [zh_Hant](/f39/language/zh_Hant) | 140 | 701 | 20.0 | /mnt/stockage/packages/f39/coolreader/cr3gui/po/cr3_zh_TW.po | 
+ | [de](/f39/language/de) | 0 | 701 | 0.0 | /mnt/stockage/packages/f39/coolreader/cr3gui/po/cr3_de.po | 
 {.sortable}
 
 

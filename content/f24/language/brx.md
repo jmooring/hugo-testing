@@ -38,37 +38,37 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [alacarte]({{< ref "/f24/package/alacarte.md" >}}) | 42 | 42 | 100.0 | Bodo <brx@li.org> | 
- | [gnucash]({{< ref "/f24/package/gnucash.md" >}}) | 29203 | 29737 | 98.2 | NONE | 
- | [libreoffice]({{< ref "/f24/package/libreoffice.md" >}}) | 43341 | 100373 | 43.2 | LANGUAGE <LL@li.org> | 
- | [iok]({{< ref "/f24/package/iok.md" >}}) | 87 | 206 | 42.2 | Bodo <LL@li.org> | 
- | [abrt]({{< ref "/f24/package/abrt.md" >}}) | 0 | 3230 | 0.0 | Bodo (http://www.transifex.com/projects/p/fedora-abrt/language/brx/) | 
- | [blivet-gui]({{< ref "/f24/package/blivet-gui.md" >}}) | 0 | 711 | 0.0 | Bodo | 
- | [certmonger]({{< ref "/f24/package/certmonger.md" >}}) | 0 | 2478 | 0.0 | Bodo (http://www.transifex.com/projects/p/certmonger/language/brx/) | 
- | [dnf-plugin-system-upgrade]({{< ref "/f24/package/dnf-plugin-system-upgrade.md" >}}) | 0 | 211 | 0.0 | Bodo | 
- | [dnf-plugins-extras]({{< ref "/f24/package/dnf-plugins-extras.md" >}}) | 0 | 375 | 0.0 | Bodo | 
- | [docker-anaconda-addon]({{< ref "/f24/package/docker-anaconda-addon.md" >}}) | 0 | 27 | 0.0 | Bodo | 
- | [entangle]({{< ref "/f24/package/entangle.md" >}}) | 0 | 935 | 0.0 | Bodo | 
- | [fonts-tweak-tool]({{< ref "/f24/package/fonts-tweak-tool.md" >}}) | 0 | 164 | 0.0 | Bodo | 
- | [initial-setup]({{< ref "/f24/package/initial-setup.md" >}}) | 0 | 33 | 0.0 | Bodo | 
- | [libbytesize]({{< ref "/f24/package/libbytesize.md" >}}) | 0 | 17 | 0.0 | Bodo | 
- | [libosinfo]({{< ref "/f24/package/libosinfo.md" >}}) | 0 | 2049 | 0.0 | Bodo | 
- | [libreport]({{< ref "/f24/package/libreport.md" >}}) | 0 | 3501 | 0.0 | Bodo (http://www.transifex.com/projects/p/libreport/language/brx/) | 
- | [libvirt-glib]({{< ref "/f24/package/libvirt-glib.md" >}}) | 0 | 145 | 0.0 | Bodo (http://www.transifex.com/projects/p/libvirt-glib/language/brx/) | 
- | [libvirt-sandbox]({{< ref "/f24/package/libvirt-sandbox.md" >}}) | 0 | 617 | 0.0 | Bodo (http://www.transifex.com/projects/p/fedora/language/brx/) | 
- | [mingw-libvirt-glib]({{< ref "/f24/package/mingw-libvirt-glib.md" >}}) | 0 | 145 | 0.0 | Bodo (http://www.transifex.com/projects/p/libvirt-glib/language/brx/) | 
- | [oscap-anaconda-addon]({{< ref "/f24/package/oscap-anaconda-addon.md" >}}) | 0 | 194 | 0.0 | Bodo (http://www.transifex.com/projects/p/oscap-anaconda-addon/language/brx/) | 
- | [php-phpmyadmin-sql-parser]({{< ref "/f24/package/php-phpmyadmin-sql-parser.md" >}}) | 0 | 222 | 0.0 | Bodo <https://hosted.weblate.org/projects/phpmyadmin/master/brx/> | 
- | [pidgin]({{< ref "/f24/package/pidgin.md" >}}) | 0 | 18558 | 0.0 | Bodo (http://www.transifex.com/projects/p/pidgin/language/brx/) | 
- | [policycoreutils]({{< ref "/f24/package/policycoreutils.md" >}}) | 0 | 7678 | 0.0 | Bodo (http://www.transifex.com/projects/p/fedora/language/brx/) | 
- | [pykickstart]({{< ref "/f24/package/pykickstart.md" >}}) | 0 | 1355 | 0.0 | Bodo | 
- | [python-blivet]({{< ref "/f24/package/python-blivet.md" >}}) | 0 | 707 | 0.0 | Bodo | 
- | [python-fedora]({{< ref "/f24/package/python-fedora.md" >}}) | 0 | 214 | 0.0 | Bodo | 
- | [python-meh]({{< ref "/f24/package/python-meh.md" >}}) | 0 | 109 | 0.0 | Bodo | 
- | [setroubleshoot]({{< ref "/f24/package/setroubleshoot.md" >}}) | 0 | 656 | 0.0 | Bodo (http://www.transifex.com/projects/p/fedora/language/brx/) | 
- | [setroubleshoot-plugins]({{< ref "/f24/package/setroubleshoot-plugins.md" >}}) | 0 | 9830 | 0.0 | Bodo (http://www.transifex.com/projects/p/fedora/language/brx/) | 
- | [system-config-kickstart]({{< ref "/f24/package/system-config-kickstart.md" >}}) | 0 | 1144 | 0.0 | Bodo (http://www.transifex.com/projects/p/system-config-kickstart/language/brx/) | 
- | [virt-viewer]({{< ref "/f24/package/virt-viewer.md" >}}) | 0 | 751 | 0.0 | Bodo | 
+ | [alacarte](/f24/package/alacarte) | 42 | 42 | 100.0 | Bodo <brx@li.org> | 
+ | [gnucash](/f24/package/gnucash) | 29203 | 29737 | 98.2 | NONE | 
+ | [libreoffice](/f24/package/libreoffice) | 43341 | 100373 | 43.2 | LANGUAGE <LL@li.org> | 
+ | [iok](/f24/package/iok) | 87 | 206 | 42.2 | Bodo <LL@li.org> | 
+ | [abrt](/f24/package/abrt) | 0 | 3230 | 0.0 | Bodo (http://www.transifex.com/projects/p/fedora-abrt/language/brx/) | 
+ | [blivet-gui](/f24/package/blivet-gui) | 0 | 711 | 0.0 | Bodo | 
+ | [certmonger](/f24/package/certmonger) | 0 | 2478 | 0.0 | Bodo (http://www.transifex.com/projects/p/certmonger/language/brx/) | 
+ | [dnf-plugin-system-upgrade](/f24/package/dnf-plugin-system-upgrade) | 0 | 211 | 0.0 | Bodo | 
+ | [dnf-plugins-extras](/f24/package/dnf-plugins-extras) | 0 | 375 | 0.0 | Bodo | 
+ | [docker-anaconda-addon](/f24/package/docker-anaconda-addon) | 0 | 27 | 0.0 | Bodo | 
+ | [entangle](/f24/package/entangle) | 0 | 935 | 0.0 | Bodo | 
+ | [fonts-tweak-tool](/f24/package/fonts-tweak-tool) | 0 | 164 | 0.0 | Bodo | 
+ | [initial-setup](/f24/package/initial-setup) | 0 | 33 | 0.0 | Bodo | 
+ | [libbytesize](/f24/package/libbytesize) | 0 | 17 | 0.0 | Bodo | 
+ | [libosinfo](/f24/package/libosinfo) | 0 | 2049 | 0.0 | Bodo | 
+ | [libreport](/f24/package/libreport) | 0 | 3501 | 0.0 | Bodo (http://www.transifex.com/projects/p/libreport/language/brx/) | 
+ | [libvirt-glib](/f24/package/libvirt-glib) | 0 | 145 | 0.0 | Bodo (http://www.transifex.com/projects/p/libvirt-glib/language/brx/) | 
+ | [libvirt-sandbox](/f24/package/libvirt-sandbox) | 0 | 617 | 0.0 | Bodo (http://www.transifex.com/projects/p/fedora/language/brx/) | 
+ | [mingw-libvirt-glib](/f24/package/mingw-libvirt-glib) | 0 | 145 | 0.0 | Bodo (http://www.transifex.com/projects/p/libvirt-glib/language/brx/) | 
+ | [oscap-anaconda-addon](/f24/package/oscap-anaconda-addon) | 0 | 194 | 0.0 | Bodo (http://www.transifex.com/projects/p/oscap-anaconda-addon/language/brx/) | 
+ | [php-phpmyadmin-sql-parser](/f24/package/php-phpmyadmin-sql-parser) | 0 | 222 | 0.0 | Bodo <https://hosted.weblate.org/projects/phpmyadmin/master/brx/> | 
+ | [pidgin](/f24/package/pidgin) | 0 | 18558 | 0.0 | Bodo (http://www.transifex.com/projects/p/pidgin/language/brx/) | 
+ | [policycoreutils](/f24/package/policycoreutils) | 0 | 7678 | 0.0 | Bodo (http://www.transifex.com/projects/p/fedora/language/brx/) | 
+ | [pykickstart](/f24/package/pykickstart) | 0 | 1355 | 0.0 | Bodo | 
+ | [python-blivet](/f24/package/python-blivet) | 0 | 707 | 0.0 | Bodo | 
+ | [python-fedora](/f24/package/python-fedora) | 0 | 214 | 0.0 | Bodo | 
+ | [python-meh](/f24/package/python-meh) | 0 | 109 | 0.0 | Bodo | 
+ | [setroubleshoot](/f24/package/setroubleshoot) | 0 | 656 | 0.0 | Bodo (http://www.transifex.com/projects/p/fedora/language/brx/) | 
+ | [setroubleshoot-plugins](/f24/package/setroubleshoot-plugins) | 0 | 9830 | 0.0 | Bodo (http://www.transifex.com/projects/p/fedora/language/brx/) | 
+ | [system-config-kickstart](/f24/package/system-config-kickstart) | 0 | 1144 | 0.0 | Bodo (http://www.transifex.com/projects/p/system-config-kickstart/language/brx/) | 
+ | [virt-viewer](/f24/package/virt-viewer) | 0 | 751 | 0.0 | Bodo | 
 {.sortable}
 
 

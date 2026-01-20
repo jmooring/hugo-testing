@@ -18,8 +18,8 @@ The package ibus-pinyin (version 1.2.0.20090915):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ja]({{< ref "/f11/language/ja.md" >}}) | 178 | 180 | 98.9 | /mnt/stockage/packages/f11/ibus-pinyin/po/ja.po | 
- | [zh_Hans]({{< ref "/f11/language/zh_Hans.md" >}}) | 138 | 180 | 76.7 | /mnt/stockage/packages/f11/ibus-pinyin/po/zh_CN.po | 
+ | [ja](/f11/language/ja) | 178 | 180 | 98.9 | /mnt/stockage/packages/f11/ibus-pinyin/po/ja.po | 
+ | [zh_Hans](/f11/language/zh_Hans) | 138 | 180 | 76.7 | /mnt/stockage/packages/f11/ibus-pinyin/po/zh_CN.po | 
 {.sortable}
 
 

@@ -18,8 +18,8 @@ The package python-oslo-versionedobjects (version 1.7.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [en_GB]({{< ref "/f24/language/en_GB.md" >}}) | 185 | 185 | 100.0 | /mnt/stockage/packages/f24/python-oslo-versionedobjects/oslo_versionedobjects/locale/en_GB/LC_MESSAGES/oslo_versionedobjects-log-error.po/mnt/stockage/packages/f24/python-oslo-versionedobjects/oslo_versionedobjects/locale/en_GB/LC_MESSAGES/oslo_versionedobjects.po | 
- | [fr]({{< ref "/f24/language/fr.md" >}}) | 15 | 15 | 100.0 | /mnt/stockage/packages/f24/python-oslo-versionedobjects/oslo_versionedobjects/locale/fr/LC_MESSAGES/oslo_versionedobjects-log-error.po | 
+ | [en_GB](/f24/language/en_GB) | 185 | 185 | 100.0 | /mnt/stockage/packages/f24/python-oslo-versionedobjects/oslo_versionedobjects/locale/en_GB/LC_MESSAGES/oslo_versionedobjects-log-error.po/mnt/stockage/packages/f24/python-oslo-versionedobjects/oslo_versionedobjects/locale/en_GB/LC_MESSAGES/oslo_versionedobjects.po | 
+ | [fr](/f24/language/fr) | 15 | 15 | 100.0 | /mnt/stockage/packages/f24/python-oslo-versionedobjects/oslo_versionedobjects/locale/fr/LC_MESSAGES/oslo_versionedobjects-log-error.po | 
 {.sortable}
 
 

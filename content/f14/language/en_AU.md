@@ -38,51 +38,51 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [ario]({{< ref "/f14/package/ario.md" >}}) | 780 | 780 | 100.0 | English (Australia) <en_AU@li.org> | 
- | [pidgin-musictracker]({{< ref "/f14/package/pidgin-musictracker.md" >}}) | 333 | 333 | 100.0 | English (Australia) <en_AU@li.org> | 
- | [pmount]({{< ref "/f14/package/pmount.md" >}}) | 723 | 723 | 100.0 | English (Australia) <en_AU@li.org> | 
- | [fuse-encfs]({{< ref "/f14/package/fuse-encfs.md" >}}) | 1294 | 1315 | 98.4 | English (Australia) <en_AU@li.org> | 
- | [terminator]({{< ref "/f14/package/terminator.md" >}}) | 332 | 339 | 97.9 | English (Australia) <en_AU@li.org> | 
- | [avogadro]({{< ref "/f14/package/avogadro.md" >}}) | 4120 | 4262 | 96.7 | English (Australia) <en_AU@li.org> | 
- | [bzr-explorer]({{< ref "/f14/package/bzr-explorer.md" >}}) | 1576 | 1637 | 96.3 | English (Australia) <en_AU@li.org> | 
- | [xchat-gnome]({{< ref "/f14/package/xchat-gnome.md" >}}) | 3618 | 3901 | 92.7 | English (Australia) <en_AU@li.org> | 
- | [gnome-applet-timer]({{< ref "/f14/package/gnome-applet-timer.md" >}}) | 258 | 280 | 92.1 | English (Australia) <en_AU@li.org> | 
- | [transmission]({{< ref "/f14/package/transmission.md" >}}) | 1366 | 1508 | 90.6 | English (Australia) <en_AU@li.org> | 
- | [Miro]({{< ref "/f14/package/Miro.md" >}}) | 2922 | 3336 | 87.6 | English (Australia) <en_AU@li.org> | 
- | [pidgin-guifications]({{< ref "/f14/package/pidgin-guifications.md" >}}) | 442 | 505 | 87.5 | English (Australian) <trans@six-by-nine.com.au> | 
- | [tortoisehg]({{< ref "/f14/package/tortoisehg.md" >}}) | 5080 | 6301 | 80.6 | English (Australia) <en_AU@li.org> | 
- | [rec-applet]({{< ref "/f14/package/rec-applet.md" >}}) | 85 | 107 | 79.4 | English (Australia) <en_AU@li.org> | 
- | [gnome-do]({{< ref "/f14/package/gnome-do.md" >}}) | 473 | 612 | 77.3 | English (Australia) <en_AU@li.org> | 
- | [pastebinit]({{< ref "/f14/package/pastebinit.md" >}}) | 127 | 165 | 77.0 | English (Australia) <en_AU@li.org> | 
- | [stellarium]({{< ref "/f14/package/stellarium.md" >}}) | 2408 | 3362 | 71.6 | English (Australia) <en_AU@li.org> | 
- | [jokosher]({{< ref "/f14/package/jokosher.md" >}}) | 1460 | 2059 | 70.9 | English (Australia) <en_AU@li.org> | 
- | [soundconverter]({{< ref "/f14/package/soundconverter.md" >}}) | 292 | 450 | 64.9 | English (Australia) <en_AU@li.org> | 
- | [gwibber]({{< ref "/f14/package/gwibber.md" >}}) | 22 | 45 | 48.9 | English (Australia) <en_AU@li.org> | 
- | [tuxpaint-stamps]({{< ref "/f14/package/tuxpaint-stamps.md" >}}) | 1045 | 2617 | 39.9 | English (Australia) <en_AU@li.org> | 
- | [tuxpaint]({{< ref "/f14/package/tuxpaint.md" >}}) | 445 | 1247 | 35.7 | English (Australia) <en_AU@li.org> | 
- | [pidgin]({{< ref "/f14/package/pidgin.md" >}}) | 6278 | 18328 | 34.3 | English/AU <trans@six-by-nine.com.au> | 
- | [inkscape]({{< ref "/f14/package/inkscape.md" >}}) | 5782 | 26528 | 21.8 | English (Australia) | 
- | [homebank]({{< ref "/f14/package/homebank.md" >}}) | 193 | 1509 | 12.8 | English (Australia) <en_AU@li.org> | 
- | [ntfs-config]({{< ref "/f14/package/ntfs-config.md" >}}) | 29 | 357 | 8.1 | English (Australia) <en_AU@li.org> | 
- | [ailurus]({{< ref "/f14/package/ailurus.md" >}}) | 683 | 8506 | 8.0 | none | 
- | [gxmessage]({{< ref "/f14/package/gxmessage.md" >}}) | 12 | 245 | 4.9 | LANGUAGE <LL@li.org> | 
- | [evolution-data-server]({{< ref "/f14/package/evolution-data-server.md" >}}) | 166 | 4504 | 3.7 |  | 
- | [gourmet]({{< ref "/f14/package/gourmet.md" >}}) | 107 | 3647 | 2.9 | English (Australia) <en_AU@li.org> | 
- | [gdesklets]({{< ref "/f14/package/gdesklets.md" >}}) | 41 | 1528 | 2.7 | English (Australia) <en_AU@li.org> | 
- | [gnomebaker]({{< ref "/f14/package/gnomebaker.md" >}}) | 21 | 1186 | 1.8 | English (Australia) <en_AU@li.org> | 
- | [gnome-do-plugins]({{< ref "/f14/package/gnome-do-plugins.md" >}}) | 34 | 2323 | 1.5 | English (Australia) <en_AU@li.org> | 
- | [rapid-photo-downloader]({{< ref "/f14/package/rapid-photo-downloader.md" >}}) | 10 | 1256 | 0.8 | English (Australia) <en_AU@li.org> | 
- | [orage]({{< ref "/f14/package/orage.md" >}}) | 9 | 2110 | 0.4 | Austrilian English <en_gb@li.org> | 
- | [evolution]({{< ref "/f14/package/evolution.md" >}}) | 65 | 17202 | 0.4 |  | 
- | [avahi]({{< ref "/f14/package/avahi.md" >}}) | 2 | 865 | 0.2 |  | 
- | [sweep]({{< ref "/f14/package/sweep.md" >}}) | 2 | 2399 | 0.1 | English/Australia <LL@li.org> | 
- | [avant-window-navigator]({{< ref "/f14/package/avant-window-navigator.md" >}}) | 0 | 1655 | 0.0 | English (Australia) <en_AU@li.org> | 
- | [calibre]({{< ref "/f14/package/calibre.md" >}}) | 0 | 19998 | 0.0 | English (Australia) <en_AU@li.org> | 
- | [evolution-rspam]({{< ref "/f14/package/evolution-rspam.md" >}}) | 0 | 194 | 0.0 | LANGUAGE <LL@li.org> | 
- | [evolution-rss]({{< ref "/f14/package/evolution-rss.md" >}}) | 0 | 589 | 0.0 | LANGUAGE <LL@li.org> | 
- | [gnome-activity-journal]({{< ref "/f14/package/gnome-activity-journal.md" >}}) | 0 | 316 | 0.0 | English (Australia) <en_AU@li.org> | 
- | [purple-plugin_pack]({{< ref "/f14/package/purple-plugin_pack.md" >}}) | 0 | 5008 | 0.0 | English/AU <trans@six-by-nine.com.au> | 
- | [widelands]({{< ref "/f14/package/widelands.md" >}}) | 0 | 1448 | 0.0 | English (Australia) <en_AU@li.org> | 
+ | [ario](/f14/package/ario) | 780 | 780 | 100.0 | English (Australia) <en_AU@li.org> | 
+ | [pidgin-musictracker](/f14/package/pidgin-musictracker) | 333 | 333 | 100.0 | English (Australia) <en_AU@li.org> | 
+ | [pmount](/f14/package/pmount) | 723 | 723 | 100.0 | English (Australia) <en_AU@li.org> | 
+ | [fuse-encfs](/f14/package/fuse-encfs) | 1294 | 1315 | 98.4 | English (Australia) <en_AU@li.org> | 
+ | [terminator](/f14/package/terminator) | 332 | 339 | 97.9 | English (Australia) <en_AU@li.org> | 
+ | [avogadro](/f14/package/avogadro) | 4120 | 4262 | 96.7 | English (Australia) <en_AU@li.org> | 
+ | [bzr-explorer](/f14/package/bzr-explorer) | 1576 | 1637 | 96.3 | English (Australia) <en_AU@li.org> | 
+ | [xchat-gnome](/f14/package/xchat-gnome) | 3618 | 3901 | 92.7 | English (Australia) <en_AU@li.org> | 
+ | [gnome-applet-timer](/f14/package/gnome-applet-timer) | 258 | 280 | 92.1 | English (Australia) <en_AU@li.org> | 
+ | [transmission](/f14/package/transmission) | 1366 | 1508 | 90.6 | English (Australia) <en_AU@li.org> | 
+ | [Miro](/f14/package/Miro) | 2922 | 3336 | 87.6 | English (Australia) <en_AU@li.org> | 
+ | [pidgin-guifications](/f14/package/pidgin-guifications) | 442 | 505 | 87.5 | English (Australian) <trans@six-by-nine.com.au> | 
+ | [tortoisehg](/f14/package/tortoisehg) | 5080 | 6301 | 80.6 | English (Australia) <en_AU@li.org> | 
+ | [rec-applet](/f14/package/rec-applet) | 85 | 107 | 79.4 | English (Australia) <en_AU@li.org> | 
+ | [gnome-do](/f14/package/gnome-do) | 473 | 612 | 77.3 | English (Australia) <en_AU@li.org> | 
+ | [pastebinit](/f14/package/pastebinit) | 127 | 165 | 77.0 | English (Australia) <en_AU@li.org> | 
+ | [stellarium](/f14/package/stellarium) | 2408 | 3362 | 71.6 | English (Australia) <en_AU@li.org> | 
+ | [jokosher](/f14/package/jokosher) | 1460 | 2059 | 70.9 | English (Australia) <en_AU@li.org> | 
+ | [soundconverter](/f14/package/soundconverter) | 292 | 450 | 64.9 | English (Australia) <en_AU@li.org> | 
+ | [gwibber](/f14/package/gwibber) | 22 | 45 | 48.9 | English (Australia) <en_AU@li.org> | 
+ | [tuxpaint-stamps](/f14/package/tuxpaint-stamps) | 1045 | 2617 | 39.9 | English (Australia) <en_AU@li.org> | 
+ | [tuxpaint](/f14/package/tuxpaint) | 445 | 1247 | 35.7 | English (Australia) <en_AU@li.org> | 
+ | [pidgin](/f14/package/pidgin) | 6278 | 18328 | 34.3 | English/AU <trans@six-by-nine.com.au> | 
+ | [inkscape](/f14/package/inkscape) | 5782 | 26528 | 21.8 | English (Australia) | 
+ | [homebank](/f14/package/homebank) | 193 | 1509 | 12.8 | English (Australia) <en_AU@li.org> | 
+ | [ntfs-config](/f14/package/ntfs-config) | 29 | 357 | 8.1 | English (Australia) <en_AU@li.org> | 
+ | [ailurus](/f14/package/ailurus) | 683 | 8506 | 8.0 | none | 
+ | [gxmessage](/f14/package/gxmessage) | 12 | 245 | 4.9 | LANGUAGE <LL@li.org> | 
+ | [evolution-data-server](/f14/package/evolution-data-server) | 166 | 4504 | 3.7 |  | 
+ | [gourmet](/f14/package/gourmet) | 107 | 3647 | 2.9 | English (Australia) <en_AU@li.org> | 
+ | [gdesklets](/f14/package/gdesklets) | 41 | 1528 | 2.7 | English (Australia) <en_AU@li.org> | 
+ | [gnomebaker](/f14/package/gnomebaker) | 21 | 1186 | 1.8 | English (Australia) <en_AU@li.org> | 
+ | [gnome-do-plugins](/f14/package/gnome-do-plugins) | 34 | 2323 | 1.5 | English (Australia) <en_AU@li.org> | 
+ | [rapid-photo-downloader](/f14/package/rapid-photo-downloader) | 10 | 1256 | 0.8 | English (Australia) <en_AU@li.org> | 
+ | [orage](/f14/package/orage) | 9 | 2110 | 0.4 | Austrilian English <en_gb@li.org> | 
+ | [evolution](/f14/package/evolution) | 65 | 17202 | 0.4 |  | 
+ | [avahi](/f14/package/avahi) | 2 | 865 | 0.2 |  | 
+ | [sweep](/f14/package/sweep) | 2 | 2399 | 0.1 | English/Australia <LL@li.org> | 
+ | [avant-window-navigator](/f14/package/avant-window-navigator) | 0 | 1655 | 0.0 | English (Australia) <en_AU@li.org> | 
+ | [calibre](/f14/package/calibre) | 0 | 19998 | 0.0 | English (Australia) <en_AU@li.org> | 
+ | [evolution-rspam](/f14/package/evolution-rspam) | 0 | 194 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [evolution-rss](/f14/package/evolution-rss) | 0 | 589 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [gnome-activity-journal](/f14/package/gnome-activity-journal) | 0 | 316 | 0.0 | English (Australia) <en_AU@li.org> | 
+ | [purple-plugin_pack](/f14/package/purple-plugin_pack) | 0 | 5008 | 0.0 | English/AU <trans@six-by-nine.com.au> | 
+ | [widelands](/f14/package/widelands) | 0 | 1448 | 0.0 | English (Australia) <en_AU@li.org> | 
 {.sortable}
 
 

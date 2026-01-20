@@ -18,16 +18,16 @@ The package moblin-panel-pasteboard (version 0.0.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f13/language/de.md" >}}) | 22 | 22 | 100.0 | /mnt/stockage/packages/f13/moblin-panel-pasteboard/po/de.po | 
- | [es]({{< ref "/f13/language/es.md" >}}) | 22 | 22 | 100.0 | /mnt/stockage/packages/f13/moblin-panel-pasteboard/po/es.po | 
- | [fi]({{< ref "/f13/language/fi.md" >}}) | 22 | 22 | 100.0 | /mnt/stockage/packages/f13/moblin-panel-pasteboard/po/fi.po | 
- | [fr]({{< ref "/f13/language/fr.md" >}}) | 22 | 22 | 100.0 | /mnt/stockage/packages/f13/moblin-panel-pasteboard/po/fr.po | 
- | [ja]({{< ref "/f13/language/ja.md" >}}) | 22 | 22 | 100.0 | /mnt/stockage/packages/f13/moblin-panel-pasteboard/po/ja.po | 
- | [ko]({{< ref "/f13/language/ko.md" >}}) | 22 | 22 | 100.0 | /mnt/stockage/packages/f13/moblin-panel-pasteboard/po/ko.po | 
- | [pt_BR]({{< ref "/f13/language/pt_BR.md" >}}) | 22 | 22 | 100.0 | /mnt/stockage/packages/f13/moblin-panel-pasteboard/po/pt_BR.po | 
- | [sv]({{< ref "/f13/language/sv.md" >}}) | 22 | 22 | 100.0 | /mnt/stockage/packages/f13/moblin-panel-pasteboard/po/sv.po | 
- | [zh_Hans]({{< ref "/f13/language/zh_Hans.md" >}}) | 22 | 22 | 100.0 | /mnt/stockage/packages/f13/moblin-panel-pasteboard/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f13/language/zh_Hant.md" >}}) | 22 | 22 | 100.0 | /mnt/stockage/packages/f13/moblin-panel-pasteboard/po/zh_TW.po | 
+ | [de](/f13/language/de) | 22 | 22 | 100.0 | /mnt/stockage/packages/f13/moblin-panel-pasteboard/po/de.po | 
+ | [es](/f13/language/es) | 22 | 22 | 100.0 | /mnt/stockage/packages/f13/moblin-panel-pasteboard/po/es.po | 
+ | [fi](/f13/language/fi) | 22 | 22 | 100.0 | /mnt/stockage/packages/f13/moblin-panel-pasteboard/po/fi.po | 
+ | [fr](/f13/language/fr) | 22 | 22 | 100.0 | /mnt/stockage/packages/f13/moblin-panel-pasteboard/po/fr.po | 
+ | [ja](/f13/language/ja) | 22 | 22 | 100.0 | /mnt/stockage/packages/f13/moblin-panel-pasteboard/po/ja.po | 
+ | [ko](/f13/language/ko) | 22 | 22 | 100.0 | /mnt/stockage/packages/f13/moblin-panel-pasteboard/po/ko.po | 
+ | [pt_BR](/f13/language/pt_BR) | 22 | 22 | 100.0 | /mnt/stockage/packages/f13/moblin-panel-pasteboard/po/pt_BR.po | 
+ | [sv](/f13/language/sv) | 22 | 22 | 100.0 | /mnt/stockage/packages/f13/moblin-panel-pasteboard/po/sv.po | 
+ | [zh_Hans](/f13/language/zh_Hans) | 22 | 22 | 100.0 | /mnt/stockage/packages/f13/moblin-panel-pasteboard/po/zh_CN.po | 
+ | [zh_Hant](/f13/language/zh_Hant) | 22 | 22 | 100.0 | /mnt/stockage/packages/f13/moblin-panel-pasteboard/po/zh_TW.po | 
 {.sortable}
 
 

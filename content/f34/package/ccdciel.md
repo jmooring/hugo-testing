@@ -18,15 +18,15 @@ The package ccdciel (version 0.9.77):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f34/language/fr.md" >}}) | 6494 | 6497 | 100.0 | /mnt/stockage/packages/f34/ccdciel/data/language/ccdciel.fr.po/mnt/stockage/packages/f34/ccdciel/data/language/ccdciel_hints.fr.po | 
- | [cs]({{< ref "/f34/language/cs.md" >}}) | 6456 | 6497 | 99.4 | /mnt/stockage/packages/f34/ccdciel/data/language/ccdciel.cs.po/mnt/stockage/packages/f34/ccdciel/data/language/ccdciel_hints.cs.po | 
- | [de]({{< ref "/f34/language/de.md" >}}) | 6370 | 6497 | 98.0 | /mnt/stockage/packages/f34/ccdciel/data/language/ccdciel.de.po/mnt/stockage/packages/f34/ccdciel/data/language/ccdciel_hints.de.po | 
- | [ru]({{< ref "/f34/language/ru.md" >}}) | 6305 | 6497 | 97.0 | /mnt/stockage/packages/f34/ccdciel/data/language/ccdciel.ru.po/mnt/stockage/packages/f34/ccdciel/data/language/ccdciel_hints.ru.po | 
- | [en_GB]({{< ref "/f34/language/en_GB.md" >}}) | 5828 | 6497 | 89.7 | /mnt/stockage/packages/f34/ccdciel/data/language/ccdciel.en_GB.po/mnt/stockage/packages/f34/ccdciel/data/language/ccdciel_hints.en_GB.po | 
- | [es]({{< ref "/f34/language/es.md" >}}) | 5689 | 6497 | 87.6 | /mnt/stockage/packages/f34/ccdciel/data/language/ccdciel.es.po/mnt/stockage/packages/f34/ccdciel/data/language/ccdciel_hints.es.po | 
- | [it]({{< ref "/f34/language/it.md" >}}) | 1736 | 6497 | 26.7 | /mnt/stockage/packages/f34/ccdciel/data/language/ccdciel.it.po/mnt/stockage/packages/f34/ccdciel/data/language/ccdciel_hints.it.po | 
- | [da]({{< ref "/f34/language/da.md" >}}) | 475 | 5284 | 9.0 | /mnt/stockage/packages/f34/ccdciel/data/language/ccdciel.da.po | 
- | [ku]({{< ref "/f34/language/ku.md" >}}) | 38 | 5284 | 0.7 | /mnt/stockage/packages/f34/ccdciel/data/language/ccdciel.ku.po | 
+ | [fr](/f34/language/fr) | 6494 | 6497 | 100.0 | /mnt/stockage/packages/f34/ccdciel/data/language/ccdciel.fr.po/mnt/stockage/packages/f34/ccdciel/data/language/ccdciel_hints.fr.po | 
+ | [cs](/f34/language/cs) | 6456 | 6497 | 99.4 | /mnt/stockage/packages/f34/ccdciel/data/language/ccdciel.cs.po/mnt/stockage/packages/f34/ccdciel/data/language/ccdciel_hints.cs.po | 
+ | [de](/f34/language/de) | 6370 | 6497 | 98.0 | /mnt/stockage/packages/f34/ccdciel/data/language/ccdciel.de.po/mnt/stockage/packages/f34/ccdciel/data/language/ccdciel_hints.de.po | 
+ | [ru](/f34/language/ru) | 6305 | 6497 | 97.0 | /mnt/stockage/packages/f34/ccdciel/data/language/ccdciel.ru.po/mnt/stockage/packages/f34/ccdciel/data/language/ccdciel_hints.ru.po | 
+ | [en_GB](/f34/language/en_GB) | 5828 | 6497 | 89.7 | /mnt/stockage/packages/f34/ccdciel/data/language/ccdciel.en_GB.po/mnt/stockage/packages/f34/ccdciel/data/language/ccdciel_hints.en_GB.po | 
+ | [es](/f34/language/es) | 5689 | 6497 | 87.6 | /mnt/stockage/packages/f34/ccdciel/data/language/ccdciel.es.po/mnt/stockage/packages/f34/ccdciel/data/language/ccdciel_hints.es.po | 
+ | [it](/f34/language/it) | 1736 | 6497 | 26.7 | /mnt/stockage/packages/f34/ccdciel/data/language/ccdciel.it.po/mnt/stockage/packages/f34/ccdciel/data/language/ccdciel_hints.it.po | 
+ | [da](/f34/language/da) | 475 | 5284 | 9.0 | /mnt/stockage/packages/f34/ccdciel/data/language/ccdciel.da.po | 
+ | [ku](/f34/language/ku) | 38 | 5284 | 0.7 | /mnt/stockage/packages/f34/ccdciel/data/language/ccdciel.ku.po | 
 {.sortable}
 
 

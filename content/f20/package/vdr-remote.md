@@ -18,12 +18,12 @@ The package vdr-remote (version 0.5.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f20/language/de.md" >}}) | 48 | 48 | 100.0 | /mnt/stockage/packages/f20/vdr-remote/po/de_DE.po | 
- | [fi]({{< ref "/f20/language/fi.md" >}}) | 48 | 48 | 100.0 | /mnt/stockage/packages/f20/vdr-remote/po/fi_FI.po | 
- | [fr]({{< ref "/f20/language/fr.md" >}}) | 48 | 48 | 100.0 | /mnt/stockage/packages/f20/vdr-remote/po/fr_FR.po | 
- | [it]({{< ref "/f20/language/it.md" >}}) | 48 | 48 | 100.0 | /mnt/stockage/packages/f20/vdr-remote/po/it_IT.po | 
- | [pl]({{< ref "/f20/language/pl.md" >}}) | 48 | 48 | 100.0 | /mnt/stockage/packages/f20/vdr-remote/po/pl_PL.po | 
- | [ru]({{< ref "/f20/language/ru.md" >}}) | 48 | 48 | 100.0 | /mnt/stockage/packages/f20/vdr-remote/po/ru_RU.po | 
+ | [de](/f20/language/de) | 48 | 48 | 100.0 | /mnt/stockage/packages/f20/vdr-remote/po/de_DE.po | 
+ | [fi](/f20/language/fi) | 48 | 48 | 100.0 | /mnt/stockage/packages/f20/vdr-remote/po/fi_FI.po | 
+ | [fr](/f20/language/fr) | 48 | 48 | 100.0 | /mnt/stockage/packages/f20/vdr-remote/po/fr_FR.po | 
+ | [it](/f20/language/it) | 48 | 48 | 100.0 | /mnt/stockage/packages/f20/vdr-remote/po/it_IT.po | 
+ | [pl](/f20/language/pl) | 48 | 48 | 100.0 | /mnt/stockage/packages/f20/vdr-remote/po/pl_PL.po | 
+ | [ru](/f20/language/ru) | 48 | 48 | 100.0 | /mnt/stockage/packages/f20/vdr-remote/po/ru_RU.po | 
 {.sortable}
 
 

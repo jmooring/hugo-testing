@@ -38,14 +38,14 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [supertux]({{< ref "/f33/package/supertux.md" >}}) | 234 | 2866 | 8.2 | Lojban (http://www.transifex.com/arctic-games/supertux/language/jbo/) | 
- | [supertuxkart]({{< ref "/f33/package/supertuxkart.md" >}}) | 255 | 5556 | 4.6 | Lojban (http://www.transifex.com/supertuxkart/supertuxkart/language/jbo/) | 
- | [minetest]({{< ref "/f33/package/minetest.md" >}}) | 440 | 9649 | 4.6 | Lojban <https://hosted.weblate.org/projects/minetest/minetest/jbo/> | 
- | [transmission]({{< ref "/f33/package/transmission.md" >}}) | 49 | 1998 | 2.5 | Lojban (https://www.transifex.com/transmissionbt/teams/33778/jbo/) | 
- | [fragments]({{< ref "/f33/package/fragments.md" >}}) | 49 | 2006 | 2.4 | Lojban (https://www.transifex.com/transmissionbt/teams/33778/jbo/) | 
- | [elementary-files]({{< ref "/f33/package/elementary-files.md" >}}) | 0 | 2911 | 0.0 | Lojban <jbo@li.org> | 
- | [elementary-photos]({{< ref "/f33/package/elementary-photos.md" >}}) | 0 | 3910 | 0.0 | none | 
- | [switchboard]({{< ref "/f33/package/switchboard.md" >}}) | 0 | 124 | 0.0 | none | 
+ | [supertux](/f33/package/supertux) | 234 | 2866 | 8.2 | Lojban (http://www.transifex.com/arctic-games/supertux/language/jbo/) | 
+ | [supertuxkart](/f33/package/supertuxkart) | 255 | 5556 | 4.6 | Lojban (http://www.transifex.com/supertuxkart/supertuxkart/language/jbo/) | 
+ | [minetest](/f33/package/minetest) | 440 | 9649 | 4.6 | Lojban <https://hosted.weblate.org/projects/minetest/minetest/jbo/> | 
+ | [transmission](/f33/package/transmission) | 49 | 1998 | 2.5 | Lojban (https://www.transifex.com/transmissionbt/teams/33778/jbo/) | 
+ | [fragments](/f33/package/fragments) | 49 | 2006 | 2.4 | Lojban (https://www.transifex.com/transmissionbt/teams/33778/jbo/) | 
+ | [elementary-files](/f33/package/elementary-files) | 0 | 2911 | 0.0 | Lojban <jbo@li.org> | 
+ | [elementary-photos](/f33/package/elementary-photos) | 0 | 3910 | 0.0 | none | 
+ | [switchboard](/f33/package/switchboard) | 0 | 124 | 0.0 | none | 
 {.sortable}
 
 

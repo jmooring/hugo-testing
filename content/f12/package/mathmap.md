@@ -18,7 +18,7 @@ The package mathmap (version 1.2.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f12/language/fr.md" >}}) | 61 | 61 | 100.0 | /mnt/stockage/packages/f12/mathmap/fr.po | 
+ | [fr](/f12/language/fr) | 61 | 61 | 100.0 | /mnt/stockage/packages/f12/mathmap/fr.po | 
 {.sortable}
 
 

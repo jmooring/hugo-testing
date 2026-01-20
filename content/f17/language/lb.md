@@ -38,15 +38,15 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [flaw]({{< ref "/f17/package/flaw.md" >}}) | 84 | 84 | 100.0 | LANGUAGE <LL@li.org> | 
- | [lightdm-gtk]({{< ref "/f17/package/lightdm-gtk.md" >}}) | 56 | 56 | 100.0 | Luxembourgish <lb@li.org> | 
- | [gnome-do]({{< ref "/f17/package/gnome-do.md" >}}) | 473 | 612 | 77.3 | Luxembourgish <lb@li.org> | 
- | [geany]({{< ref "/f17/package/geany.md" >}}) | 4386 | 5700 | 76.9 | Letzebuergesch | 
- | [gwibber]({{< ref "/f17/package/gwibber.md" >}}) | 460 | 769 | 59.8 | Luxembourgish <lb@li.org> | 
- | [lightdm]({{< ref "/f17/package/lightdm.md" >}}) | 42 | 79 | 53.2 | Luxembourgish <lb@li.org> | 
- | [libreoffice]({{< ref "/f17/package/libreoffice.md" >}}) | 10015 | 531732 | 1.9 | LANGUAGE <LL@li.org> | 
- | [stellarium]({{< ref "/f17/package/stellarium.md" >}}) | 2 | 9286 | 0.0 | Luxembourgish <lb@li.org> | 
- | [vidalia]({{< ref "/f17/package/vidalia.md" >}}) | 0 | 10369 | 0.0 | translations@vidalia-project.net | 
+ | [flaw](/f17/package/flaw) | 84 | 84 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [lightdm-gtk](/f17/package/lightdm-gtk) | 56 | 56 | 100.0 | Luxembourgish <lb@li.org> | 
+ | [gnome-do](/f17/package/gnome-do) | 473 | 612 | 77.3 | Luxembourgish <lb@li.org> | 
+ | [geany](/f17/package/geany) | 4386 | 5700 | 76.9 | Letzebuergesch | 
+ | [gwibber](/f17/package/gwibber) | 460 | 769 | 59.8 | Luxembourgish <lb@li.org> | 
+ | [lightdm](/f17/package/lightdm) | 42 | 79 | 53.2 | Luxembourgish <lb@li.org> | 
+ | [libreoffice](/f17/package/libreoffice) | 10015 | 531732 | 1.9 | LANGUAGE <LL@li.org> | 
+ | [stellarium](/f17/package/stellarium) | 2 | 9286 | 0.0 | Luxembourgish <lb@li.org> | 
+ | [vidalia](/f17/package/vidalia) | 0 | 10369 | 0.0 | translations@vidalia-project.net | 
 {.sortable}
 
 

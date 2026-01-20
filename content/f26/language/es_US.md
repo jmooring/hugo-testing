@@ -38,8 +38,8 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [libmatekbd]({{< ref "/f26/package/libmatekbd.md" >}}) | 0 | 251 | 0.0 | Spanish (United States) (http://www.transifex.com/mate/MATE/language/es_US/) | 
- | [mate-menu]({{< ref "/f26/package/mate-menu.md" >}}) | 0 | 300 | 0.0 | Spanish (United States) (http://www.transifex.com/projects/p/MATE/language/es_US/) | 
+ | [libmatekbd](/f26/package/libmatekbd) | 0 | 251 | 0.0 | Spanish (United States) (http://www.transifex.com/mate/MATE/language/es_US/) | 
+ | [mate-menu](/f26/package/mate-menu) | 0 | 300 | 0.0 | Spanish (United States) (http://www.transifex.com/projects/p/MATE/language/es_US/) | 
 {.sortable}
 
 

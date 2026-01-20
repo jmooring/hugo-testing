@@ -18,17 +18,17 @@ The package xine-lib (version 1.1.12):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [es]({{< ref "/f9/language/es.md" >}}) | 11500 | 11500 | 100.0 | /mnt/stockage/packages/f9/xine-lib/po/es.po | 
- | [de]({{< ref "/f9/language/de.md" >}}) | 11115 | 11500 | 96.7 | /mnt/stockage/packages/f9/xine-lib/po/de.po | 
- | [it]({{< ref "/f9/language/it.md" >}}) | 10896 | 11500 | 94.7 | /mnt/stockage/packages/f9/xine-lib/po/it.po | 
- | [tr]({{< ref "/f9/language/tr.md" >}}) | 10646 | 11500 | 92.6 | /mnt/stockage/packages/f9/xine-lib/po/tr.po | 
- | [cs]({{< ref "/f9/language/cs.md" >}}) | 10393 | 11500 | 90.4 | /mnt/stockage/packages/f9/xine-lib/po/cs.po | 
- | [eu]({{< ref "/f9/language/eu.md" >}}) | 5292 | 11500 | 46.0 | /mnt/stockage/packages/f9/xine-lib/po/eu.po | 
- | [eo]({{< ref "/f9/language/eo.md" >}}) | 5080 | 11500 | 44.2 | /mnt/stockage/packages/f9/xine-lib/po/eo.po | 
- | [sk]({{< ref "/f9/language/sk.md" >}}) | 3090 | 11500 | 26.9 | /mnt/stockage/packages/f9/xine-lib/po/sk.po | 
- | [fr]({{< ref "/f9/language/fr.md" >}}) | 2008 | 11500 | 17.5 | /mnt/stockage/packages/f9/xine-lib/po/fr.po | 
- | [pl]({{< ref "/f9/language/pl.md" >}}) | 469 | 11500 | 4.1 | /mnt/stockage/packages/f9/xine-lib/po/pl.po | 
- | [pt_BR]({{< ref "/f9/language/pt_BR.md" >}}) | 83 | 11500 | 0.7 | /mnt/stockage/packages/f9/xine-lib/po/pt_BR.po | 
+ | [es](/f9/language/es) | 11500 | 11500 | 100.0 | /mnt/stockage/packages/f9/xine-lib/po/es.po | 
+ | [de](/f9/language/de) | 11115 | 11500 | 96.7 | /mnt/stockage/packages/f9/xine-lib/po/de.po | 
+ | [it](/f9/language/it) | 10896 | 11500 | 94.7 | /mnt/stockage/packages/f9/xine-lib/po/it.po | 
+ | [tr](/f9/language/tr) | 10646 | 11500 | 92.6 | /mnt/stockage/packages/f9/xine-lib/po/tr.po | 
+ | [cs](/f9/language/cs) | 10393 | 11500 | 90.4 | /mnt/stockage/packages/f9/xine-lib/po/cs.po | 
+ | [eu](/f9/language/eu) | 5292 | 11500 | 46.0 | /mnt/stockage/packages/f9/xine-lib/po/eu.po | 
+ | [eo](/f9/language/eo) | 5080 | 11500 | 44.2 | /mnt/stockage/packages/f9/xine-lib/po/eo.po | 
+ | [sk](/f9/language/sk) | 3090 | 11500 | 26.9 | /mnt/stockage/packages/f9/xine-lib/po/sk.po | 
+ | [fr](/f9/language/fr) | 2008 | 11500 | 17.5 | /mnt/stockage/packages/f9/xine-lib/po/fr.po | 
+ | [pl](/f9/language/pl) | 469 | 11500 | 4.1 | /mnt/stockage/packages/f9/xine-lib/po/pl.po | 
+ | [pt_BR](/f9/language/pt_BR) | 83 | 11500 | 0.7 | /mnt/stockage/packages/f9/xine-lib/po/pt_BR.po | 
 {.sortable}
 
 

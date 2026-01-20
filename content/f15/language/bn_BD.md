@@ -38,11 +38,11 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [squirrelmail]({{< ref "/f15/package/squirrelmail.md" >}}) | 18710 | 18710 | 100.0 | Bengali <ankur-bd-l10n@googlegroups.com> | 
- | [im-chooser]({{< ref "/f15/package/im-chooser.md" >}}) | 0 | 226 | 0.0 | LANGUAGE <LL@li.org> | 
- | [imsettings]({{< ref "/f15/package/imsettings.md" >}}) | 0 | 404 | 0.0 | LANGUAGE <LL@li.org> | 
- | [system-config-date]({{< ref "/f15/package/system-config-date.md" >}}) | 0 | 466 | 0.0 | LANGUAGE <LL@li.org> | 
- | [system-config-users]({{< ref "/f15/package/system-config-users.md" >}}) | 0 | 1456 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [squirrelmail](/f15/package/squirrelmail) | 18710 | 18710 | 100.0 | Bengali <ankur-bd-l10n@googlegroups.com> | 
+ | [im-chooser](/f15/package/im-chooser) | 0 | 226 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [imsettings](/f15/package/imsettings) | 0 | 404 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [system-config-date](/f15/package/system-config-date) | 0 | 466 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [system-config-users](/f15/package/system-config-users) | 0 | 1456 | 0.0 | LANGUAGE <LL@li.org> | 
 {.sortable}
 
 

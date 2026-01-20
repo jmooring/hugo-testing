@@ -18,90 +18,90 @@ The package bug-buddy (version 2.24.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f10/language/ar.md" >}}) | 989 | 989 | 100.0 | /mnt/stockage/packages/f10/bug-buddy/po/ar.po | 
- | [as]({{< ref "/f10/language/as.md" >}}) | 989 | 989 | 100.0 | /mnt/stockage/packages/f10/bug-buddy/po/as.po | 
- | [be_Latn]({{< ref "/f10/language/be_Latn.md" >}}) | 936 | 936 | 100.0 | /mnt/stockage/packages/f10/bug-buddy/po/be@latin.po | 
- | [bg]({{< ref "/f10/language/bg.md" >}}) | 989 | 989 | 100.0 | /mnt/stockage/packages/f10/bug-buddy/po/bg.po | 
- | [bn]({{< ref "/f10/language/bn.md" >}}) | 830 | 830 | 100.0 | /mnt/stockage/packages/f10/bug-buddy/po/bn.po | 
- | [bn_IN]({{< ref "/f10/language/bn_IN.md" >}}) | 989 | 989 | 100.0 | /mnt/stockage/packages/f10/bug-buddy/po/bn_IN.po | 
- | [ca]({{< ref "/f10/language/ca.md" >}}) | 936 | 936 | 100.0 | /mnt/stockage/packages/f10/bug-buddy/po/ca.po | 
- | [cs]({{< ref "/f10/language/cs.md" >}}) | 989 | 989 | 100.0 | /mnt/stockage/packages/f10/bug-buddy/po/cs.po | 
- | [cy]({{< ref "/f10/language/cy.md" >}}) | 1233 | 1233 | 100.0 | /mnt/stockage/packages/f10/bug-buddy/po/cy.po | 
- | [da]({{< ref "/f10/language/da.md" >}}) | 989 | 989 | 100.0 | /mnt/stockage/packages/f10/bug-buddy/po/da.po | 
- | [de]({{< ref "/f10/language/de.md" >}}) | 989 | 989 | 100.0 | /mnt/stockage/packages/f10/bug-buddy/po/de.po | 
- | [dz]({{< ref "/f10/language/dz.md" >}}) | 941 | 941 | 100.0 | /mnt/stockage/packages/f10/bug-buddy/po/dz.po | 
- | [el]({{< ref "/f10/language/el.md" >}}) | 989 | 989 | 100.0 | /mnt/stockage/packages/f10/bug-buddy/po/el.po | 
- | [en_CA]({{< ref "/f10/language/en_CA.md" >}}) | 930 | 930 | 100.0 | /mnt/stockage/packages/f10/bug-buddy/po/en_CA.po | 
- | [en_GB]({{< ref "/f10/language/en_GB.md" >}}) | 989 | 989 | 100.0 | /mnt/stockage/packages/f10/bug-buddy/po/en_GB.po | 
- | [es]({{< ref "/f10/language/es.md" >}}) | 989 | 989 | 100.0 | /mnt/stockage/packages/f10/bug-buddy/po/es.po | 
- | [et]({{< ref "/f10/language/et.md" >}}) | 989 | 989 | 100.0 | /mnt/stockage/packages/f10/bug-buddy/po/et.po | 
- | [eu]({{< ref "/f10/language/eu.md" >}}) | 989 | 989 | 100.0 | /mnt/stockage/packages/f10/bug-buddy/po/eu.po | 
- | [fi]({{< ref "/f10/language/fi.md" >}}) | 989 | 989 | 100.0 | /mnt/stockage/packages/f10/bug-buddy/po/fi.po | 
- | [fr]({{< ref "/f10/language/fr.md" >}}) | 936 | 936 | 100.0 | /mnt/stockage/packages/f10/bug-buddy/po/fr.po | 
- | [gl]({{< ref "/f10/language/gl.md" >}}) | 936 | 936 | 100.0 | /mnt/stockage/packages/f10/bug-buddy/po/gl.po | 
- | [gu]({{< ref "/f10/language/gu.md" >}}) | 989 | 989 | 100.0 | /mnt/stockage/packages/f10/bug-buddy/po/gu.po | 
- | [he]({{< ref "/f10/language/he.md" >}}) | 936 | 936 | 100.0 | /mnt/stockage/packages/f10/bug-buddy/po/he.po | 
- | [hu]({{< ref "/f10/language/hu.md" >}}) | 989 | 989 | 100.0 | /mnt/stockage/packages/f10/bug-buddy/po/hu.po | 
- | [id]({{< ref "/f10/language/id.md" >}}) | 830 | 830 | 100.0 | /mnt/stockage/packages/f10/bug-buddy/po/id.po | 
- | [it]({{< ref "/f10/language/it.md" >}}) | 989 | 989 | 100.0 | /mnt/stockage/packages/f10/bug-buddy/po/it.po | 
- | [ja]({{< ref "/f10/language/ja.md" >}}) | 989 | 989 | 100.0 | /mnt/stockage/packages/f10/bug-buddy/po/ja.po | 
- | [ka]({{< ref "/f10/language/ka.md" >}}) | 830 | 830 | 100.0 | /mnt/stockage/packages/f10/bug-buddy/po/ka.po | 
- | [kn]({{< ref "/f10/language/kn.md" >}}) | 936 | 936 | 100.0 | /mnt/stockage/packages/f10/bug-buddy/po/kn.po | 
- | [ko]({{< ref "/f10/language/ko.md" >}}) | 989 | 989 | 100.0 | /mnt/stockage/packages/f10/bug-buddy/po/ko.po | 
- | [ky]({{< ref "/f10/language/ky.md" >}}) | 1231 | 1231 | 100.0 | /mnt/stockage/packages/f10/bug-buddy/po/ky.po | 
- | [lt]({{< ref "/f10/language/lt.md" >}}) | 989 | 989 | 100.0 | /mnt/stockage/packages/f10/bug-buddy/po/lt.po | 
- | [lv]({{< ref "/f10/language/lv.md" >}}) | 950 | 950 | 100.0 | /mnt/stockage/packages/f10/bug-buddy/po/lv.po | 
- | [mk]({{< ref "/f10/language/mk.md" >}}) | 989 | 989 | 100.0 | /mnt/stockage/packages/f10/bug-buddy/po/mk.po | 
- | [ml]({{< ref "/f10/language/ml.md" >}}) | 989 | 989 | 100.0 | /mnt/stockage/packages/f10/bug-buddy/po/ml.po | 
- | [mr]({{< ref "/f10/language/mr.md" >}}) | 989 | 989 | 100.0 | /mnt/stockage/packages/f10/bug-buddy/po/mr.po | 
- | [nb_NO]({{< ref "/f10/language/nb_NO.md" >}}) | 989 | 989 | 100.0 | /mnt/stockage/packages/f10/bug-buddy/po/nb.po | 
- | [ne]({{< ref "/f10/language/ne.md" >}}) | 972 | 972 | 100.0 | /mnt/stockage/packages/f10/bug-buddy/po/ne.po | 
- | [nl]({{< ref "/f10/language/nl.md" >}}) | 989 | 989 | 100.0 | /mnt/stockage/packages/f10/bug-buddy/po/nl.po | 
- | [nn]({{< ref "/f10/language/nn.md" >}}) | 941 | 941 | 100.0 | /mnt/stockage/packages/f10/bug-buddy/po/nn.po | 
- | [oc]({{< ref "/f10/language/oc.md" >}}) | 913 | 913 | 100.0 | /mnt/stockage/packages/f10/bug-buddy/po/oc.po | 
- | [or]({{< ref "/f10/language/or.md" >}}) | 936 | 936 | 100.0 | /mnt/stockage/packages/f10/bug-buddy/po/or.po | 
- | [pa]({{< ref "/f10/language/pa.md" >}}) | 930 | 930 | 100.0 | /mnt/stockage/packages/f10/bug-buddy/po/pa.po | 
- | [pl]({{< ref "/f10/language/pl.md" >}}) | 989 | 989 | 100.0 | /mnt/stockage/packages/f10/bug-buddy/po/pl.po | 
- | [pt]({{< ref "/f10/language/pt.md" >}}) | 989 | 989 | 100.0 | /mnt/stockage/packages/f10/bug-buddy/po/pt.po | 
- | [pt_BR]({{< ref "/f10/language/pt_BR.md" >}}) | 989 | 989 | 100.0 | /mnt/stockage/packages/f10/bug-buddy/po/pt_BR.po | 
- | [ro]({{< ref "/f10/language/ro.md" >}}) | 989 | 989 | 100.0 | /mnt/stockage/packages/f10/bug-buddy/po/ro.po | 
- | [ru]({{< ref "/f10/language/ru.md" >}}) | 1007 | 1007 | 100.0 | /mnt/stockage/packages/f10/bug-buddy/po/ru.po | 
- | [sk]({{< ref "/f10/language/sk.md" >}}) | 941 | 941 | 100.0 | /mnt/stockage/packages/f10/bug-buddy/po/sk.po | 
- | [sl]({{< ref "/f10/language/sl.md" >}}) | 989 | 989 | 100.0 | /mnt/stockage/packages/f10/bug-buddy/po/sl.po | 
- | [sq]({{< ref "/f10/language/sq.md" >}}) | 989 | 989 | 100.0 | /mnt/stockage/packages/f10/bug-buddy/po/sq.po | 
- | [sr]({{< ref "/f10/language/sr.md" >}}) | 936 | 936 | 100.0 | /mnt/stockage/packages/f10/bug-buddy/po/sr.po | 
- | [sr_Latn]({{< ref "/f10/language/sr_Latn.md" >}}) | 936 | 936 | 100.0 | /mnt/stockage/packages/f10/bug-buddy/po/sr@latin.po | 
- | [sv]({{< ref "/f10/language/sv.md" >}}) | 936 | 936 | 100.0 | /mnt/stockage/packages/f10/bug-buddy/po/sv.po | 
- | [ta]({{< ref "/f10/language/ta.md" >}}) | 989 | 989 | 100.0 | /mnt/stockage/packages/f10/bug-buddy/po/ta.po | 
- | [th]({{< ref "/f10/language/th.md" >}}) | 936 | 936 | 100.0 | /mnt/stockage/packages/f10/bug-buddy/po/th.po | 
- | [tr]({{< ref "/f10/language/tr.md" >}}) | 989 | 989 | 100.0 | /mnt/stockage/packages/f10/bug-buddy/po/tr.po | 
- | [ug]({{< ref "/f10/language/ug.md" >}}) | 1228 | 1228 | 100.0 | /mnt/stockage/packages/f10/bug-buddy/po/ug.po | 
- | [uk]({{< ref "/f10/language/uk.md" >}}) | 989 | 989 | 100.0 | /mnt/stockage/packages/f10/bug-buddy/po/uk.po | 
- | [vi]({{< ref "/f10/language/vi.md" >}}) | 941 | 941 | 100.0 | /mnt/stockage/packages/f10/bug-buddy/po/vi.po | 
- | [xh]({{< ref "/f10/language/xh.md" >}}) | 1228 | 1228 | 100.0 | /mnt/stockage/packages/f10/bug-buddy/po/xh.po | 
- | [zh_Hans]({{< ref "/f10/language/zh_Hans.md" >}}) | 989 | 989 | 100.0 | /mnt/stockage/packages/f10/bug-buddy/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f10/language/zh_Hant.md" >}}) | 936 | 936 | 100.0 | /mnt/stockage/packages/f10/bug-buddy/po/zh_TW.po | 
- | [zh_Hant_HK]({{< ref "/f10/language/zh_Hant_HK.md" >}}) | 936 | 936 | 100.0 | /mnt/stockage/packages/f10/bug-buddy/po/zh_HK.po | 
- | [az]({{< ref "/f10/language/az.md" >}}) | 1213 | 1228 | 98.8 | /mnt/stockage/packages/f10/bug-buddy/po/az.po | 
- | [bs]({{< ref "/f10/language/bs.md" >}}) | 1213 | 1228 | 98.8 | /mnt/stockage/packages/f10/bug-buddy/po/bs.po | 
- | [ms]({{< ref "/f10/language/ms.md" >}}) | 1213 | 1228 | 98.8 | /mnt/stockage/packages/f10/bug-buddy/po/ms.po | 
- | [mg]({{< ref "/f10/language/mg.md" >}}) | 746 | 756 | 98.7 | /mnt/stockage/packages/f10/bug-buddy/po/mg.po | 
- | [te]({{< ref "/f10/language/te.md" >}}) | 890 | 930 | 95.7 | /mnt/stockage/packages/f10/bug-buddy/po/te.po | 
- | [be]({{< ref "/f10/language/be.md" >}}) | 898 | 989 | 90.8 | /mnt/stockage/packages/f10/bug-buddy/po/be.po | 
- | [wa]({{< ref "/f10/language/wa.md" >}}) | 1050 | 1228 | 85.5 | /mnt/stockage/packages/f10/bug-buddy/po/wa.po | 
- | [hi]({{< ref "/f10/language/hi.md" >}}) | 780 | 989 | 78.9 | /mnt/stockage/packages/f10/bug-buddy/po/hi.po | 
- | [uz]({{< ref "/f10/language/uz.md" >}}) | 593 | 972 | 61.0 | /mnt/stockage/packages/f10/bug-buddy/po/uz@cyrillic.po | 
- | [af]({{< ref "/f10/language/af.md" >}}) | 429 | 941 | 45.6 | /mnt/stockage/packages/f10/bug-buddy/po/af.po | 
- | [fa]({{< ref "/f10/language/fa.md" >}}) | 407 | 941 | 43.3 | /mnt/stockage/packages/f10/bug-buddy/po/fa.po | 
- | [mn]({{< ref "/f10/language/mn.md" >}}) | 286 | 829 | 34.5 | /mnt/stockage/packages/f10/bug-buddy/po/mn.po | 
- | [ga]({{< ref "/f10/language/ga.md" >}}) | 276 | 989 | 27.9 | /mnt/stockage/packages/f10/bug-buddy/po/ga.po | 
- | [ps]({{< ref "/f10/language/ps.md" >}}) | 194 | 941 | 20.6 | /mnt/stockage/packages/f10/bug-buddy/po/ps.po | 
- | [hr]({{< ref "/f10/language/hr.md" >}}) | 72 | 989 | 7.3 | /mnt/stockage/packages/f10/bug-buddy/po/hr.po | 
- | [si]({{< ref "/f10/language/si.md" >}}) | 49 | 930 | 5.3 | /mnt/stockage/packages/f10/bug-buddy/po/si.po | 
- | [ku]({{< ref "/f10/language/ku.md" >}}) | 61 | 1233 | 4.9 | /mnt/stockage/packages/f10/bug-buddy/po/ku.po | 
- | [am]({{< ref "/f10/language/am.md" >}}) | 35 | 1228 | 2.9 | /mnt/stockage/packages/f10/bug-buddy/po/am.po | 
- | [rw]({{< ref "/f10/language/rw.md" >}}) | 18 | 1228 | 1.5 | /mnt/stockage/packages/f10/bug-buddy/po/rw.po | 
- | [is]({{< ref "/f10/language/is.md" >}}) | 10 | 1228 | 0.8 | /mnt/stockage/packages/f10/bug-buddy/po/is.po | 
+ | [ar](/f10/language/ar) | 989 | 989 | 100.0 | /mnt/stockage/packages/f10/bug-buddy/po/ar.po | 
+ | [as](/f10/language/as) | 989 | 989 | 100.0 | /mnt/stockage/packages/f10/bug-buddy/po/as.po | 
+ | [be_Latn](/f10/language/be_Latn) | 936 | 936 | 100.0 | /mnt/stockage/packages/f10/bug-buddy/po/be@latin.po | 
+ | [bg](/f10/language/bg) | 989 | 989 | 100.0 | /mnt/stockage/packages/f10/bug-buddy/po/bg.po | 
+ | [bn](/f10/language/bn) | 830 | 830 | 100.0 | /mnt/stockage/packages/f10/bug-buddy/po/bn.po | 
+ | [bn_IN](/f10/language/bn_IN) | 989 | 989 | 100.0 | /mnt/stockage/packages/f10/bug-buddy/po/bn_IN.po | 
+ | [ca](/f10/language/ca) | 936 | 936 | 100.0 | /mnt/stockage/packages/f10/bug-buddy/po/ca.po | 
+ | [cs](/f10/language/cs) | 989 | 989 | 100.0 | /mnt/stockage/packages/f10/bug-buddy/po/cs.po | 
+ | [cy](/f10/language/cy) | 1233 | 1233 | 100.0 | /mnt/stockage/packages/f10/bug-buddy/po/cy.po | 
+ | [da](/f10/language/da) | 989 | 989 | 100.0 | /mnt/stockage/packages/f10/bug-buddy/po/da.po | 
+ | [de](/f10/language/de) | 989 | 989 | 100.0 | /mnt/stockage/packages/f10/bug-buddy/po/de.po | 
+ | [dz](/f10/language/dz) | 941 | 941 | 100.0 | /mnt/stockage/packages/f10/bug-buddy/po/dz.po | 
+ | [el](/f10/language/el) | 989 | 989 | 100.0 | /mnt/stockage/packages/f10/bug-buddy/po/el.po | 
+ | [en_CA](/f10/language/en_CA) | 930 | 930 | 100.0 | /mnt/stockage/packages/f10/bug-buddy/po/en_CA.po | 
+ | [en_GB](/f10/language/en_GB) | 989 | 989 | 100.0 | /mnt/stockage/packages/f10/bug-buddy/po/en_GB.po | 
+ | [es](/f10/language/es) | 989 | 989 | 100.0 | /mnt/stockage/packages/f10/bug-buddy/po/es.po | 
+ | [et](/f10/language/et) | 989 | 989 | 100.0 | /mnt/stockage/packages/f10/bug-buddy/po/et.po | 
+ | [eu](/f10/language/eu) | 989 | 989 | 100.0 | /mnt/stockage/packages/f10/bug-buddy/po/eu.po | 
+ | [fi](/f10/language/fi) | 989 | 989 | 100.0 | /mnt/stockage/packages/f10/bug-buddy/po/fi.po | 
+ | [fr](/f10/language/fr) | 936 | 936 | 100.0 | /mnt/stockage/packages/f10/bug-buddy/po/fr.po | 
+ | [gl](/f10/language/gl) | 936 | 936 | 100.0 | /mnt/stockage/packages/f10/bug-buddy/po/gl.po | 
+ | [gu](/f10/language/gu) | 989 | 989 | 100.0 | /mnt/stockage/packages/f10/bug-buddy/po/gu.po | 
+ | [he](/f10/language/he) | 936 | 936 | 100.0 | /mnt/stockage/packages/f10/bug-buddy/po/he.po | 
+ | [hu](/f10/language/hu) | 989 | 989 | 100.0 | /mnt/stockage/packages/f10/bug-buddy/po/hu.po | 
+ | [id](/f10/language/id) | 830 | 830 | 100.0 | /mnt/stockage/packages/f10/bug-buddy/po/id.po | 
+ | [it](/f10/language/it) | 989 | 989 | 100.0 | /mnt/stockage/packages/f10/bug-buddy/po/it.po | 
+ | [ja](/f10/language/ja) | 989 | 989 | 100.0 | /mnt/stockage/packages/f10/bug-buddy/po/ja.po | 
+ | [ka](/f10/language/ka) | 830 | 830 | 100.0 | /mnt/stockage/packages/f10/bug-buddy/po/ka.po | 
+ | [kn](/f10/language/kn) | 936 | 936 | 100.0 | /mnt/stockage/packages/f10/bug-buddy/po/kn.po | 
+ | [ko](/f10/language/ko) | 989 | 989 | 100.0 | /mnt/stockage/packages/f10/bug-buddy/po/ko.po | 
+ | [ky](/f10/language/ky) | 1231 | 1231 | 100.0 | /mnt/stockage/packages/f10/bug-buddy/po/ky.po | 
+ | [lt](/f10/language/lt) | 989 | 989 | 100.0 | /mnt/stockage/packages/f10/bug-buddy/po/lt.po | 
+ | [lv](/f10/language/lv) | 950 | 950 | 100.0 | /mnt/stockage/packages/f10/bug-buddy/po/lv.po | 
+ | [mk](/f10/language/mk) | 989 | 989 | 100.0 | /mnt/stockage/packages/f10/bug-buddy/po/mk.po | 
+ | [ml](/f10/language/ml) | 989 | 989 | 100.0 | /mnt/stockage/packages/f10/bug-buddy/po/ml.po | 
+ | [mr](/f10/language/mr) | 989 | 989 | 100.0 | /mnt/stockage/packages/f10/bug-buddy/po/mr.po | 
+ | [nb_NO](/f10/language/nb_NO) | 989 | 989 | 100.0 | /mnt/stockage/packages/f10/bug-buddy/po/nb.po | 
+ | [ne](/f10/language/ne) | 972 | 972 | 100.0 | /mnt/stockage/packages/f10/bug-buddy/po/ne.po | 
+ | [nl](/f10/language/nl) | 989 | 989 | 100.0 | /mnt/stockage/packages/f10/bug-buddy/po/nl.po | 
+ | [nn](/f10/language/nn) | 941 | 941 | 100.0 | /mnt/stockage/packages/f10/bug-buddy/po/nn.po | 
+ | [oc](/f10/language/oc) | 913 | 913 | 100.0 | /mnt/stockage/packages/f10/bug-buddy/po/oc.po | 
+ | [or](/f10/language/or) | 936 | 936 | 100.0 | /mnt/stockage/packages/f10/bug-buddy/po/or.po | 
+ | [pa](/f10/language/pa) | 930 | 930 | 100.0 | /mnt/stockage/packages/f10/bug-buddy/po/pa.po | 
+ | [pl](/f10/language/pl) | 989 | 989 | 100.0 | /mnt/stockage/packages/f10/bug-buddy/po/pl.po | 
+ | [pt](/f10/language/pt) | 989 | 989 | 100.0 | /mnt/stockage/packages/f10/bug-buddy/po/pt.po | 
+ | [pt_BR](/f10/language/pt_BR) | 989 | 989 | 100.0 | /mnt/stockage/packages/f10/bug-buddy/po/pt_BR.po | 
+ | [ro](/f10/language/ro) | 989 | 989 | 100.0 | /mnt/stockage/packages/f10/bug-buddy/po/ro.po | 
+ | [ru](/f10/language/ru) | 1007 | 1007 | 100.0 | /mnt/stockage/packages/f10/bug-buddy/po/ru.po | 
+ | [sk](/f10/language/sk) | 941 | 941 | 100.0 | /mnt/stockage/packages/f10/bug-buddy/po/sk.po | 
+ | [sl](/f10/language/sl) | 989 | 989 | 100.0 | /mnt/stockage/packages/f10/bug-buddy/po/sl.po | 
+ | [sq](/f10/language/sq) | 989 | 989 | 100.0 | /mnt/stockage/packages/f10/bug-buddy/po/sq.po | 
+ | [sr](/f10/language/sr) | 936 | 936 | 100.0 | /mnt/stockage/packages/f10/bug-buddy/po/sr.po | 
+ | [sr_Latn](/f10/language/sr_Latn) | 936 | 936 | 100.0 | /mnt/stockage/packages/f10/bug-buddy/po/sr@latin.po | 
+ | [sv](/f10/language/sv) | 936 | 936 | 100.0 | /mnt/stockage/packages/f10/bug-buddy/po/sv.po | 
+ | [ta](/f10/language/ta) | 989 | 989 | 100.0 | /mnt/stockage/packages/f10/bug-buddy/po/ta.po | 
+ | [th](/f10/language/th) | 936 | 936 | 100.0 | /mnt/stockage/packages/f10/bug-buddy/po/th.po | 
+ | [tr](/f10/language/tr) | 989 | 989 | 100.0 | /mnt/stockage/packages/f10/bug-buddy/po/tr.po | 
+ | [ug](/f10/language/ug) | 1228 | 1228 | 100.0 | /mnt/stockage/packages/f10/bug-buddy/po/ug.po | 
+ | [uk](/f10/language/uk) | 989 | 989 | 100.0 | /mnt/stockage/packages/f10/bug-buddy/po/uk.po | 
+ | [vi](/f10/language/vi) | 941 | 941 | 100.0 | /mnt/stockage/packages/f10/bug-buddy/po/vi.po | 
+ | [xh](/f10/language/xh) | 1228 | 1228 | 100.0 | /mnt/stockage/packages/f10/bug-buddy/po/xh.po | 
+ | [zh_Hans](/f10/language/zh_Hans) | 989 | 989 | 100.0 | /mnt/stockage/packages/f10/bug-buddy/po/zh_CN.po | 
+ | [zh_Hant](/f10/language/zh_Hant) | 936 | 936 | 100.0 | /mnt/stockage/packages/f10/bug-buddy/po/zh_TW.po | 
+ | [zh_Hant_HK](/f10/language/zh_Hant_HK) | 936 | 936 | 100.0 | /mnt/stockage/packages/f10/bug-buddy/po/zh_HK.po | 
+ | [az](/f10/language/az) | 1213 | 1228 | 98.8 | /mnt/stockage/packages/f10/bug-buddy/po/az.po | 
+ | [bs](/f10/language/bs) | 1213 | 1228 | 98.8 | /mnt/stockage/packages/f10/bug-buddy/po/bs.po | 
+ | [ms](/f10/language/ms) | 1213 | 1228 | 98.8 | /mnt/stockage/packages/f10/bug-buddy/po/ms.po | 
+ | [mg](/f10/language/mg) | 746 | 756 | 98.7 | /mnt/stockage/packages/f10/bug-buddy/po/mg.po | 
+ | [te](/f10/language/te) | 890 | 930 | 95.7 | /mnt/stockage/packages/f10/bug-buddy/po/te.po | 
+ | [be](/f10/language/be) | 898 | 989 | 90.8 | /mnt/stockage/packages/f10/bug-buddy/po/be.po | 
+ | [wa](/f10/language/wa) | 1050 | 1228 | 85.5 | /mnt/stockage/packages/f10/bug-buddy/po/wa.po | 
+ | [hi](/f10/language/hi) | 780 | 989 | 78.9 | /mnt/stockage/packages/f10/bug-buddy/po/hi.po | 
+ | [uz](/f10/language/uz) | 593 | 972 | 61.0 | /mnt/stockage/packages/f10/bug-buddy/po/uz@cyrillic.po | 
+ | [af](/f10/language/af) | 429 | 941 | 45.6 | /mnt/stockage/packages/f10/bug-buddy/po/af.po | 
+ | [fa](/f10/language/fa) | 407 | 941 | 43.3 | /mnt/stockage/packages/f10/bug-buddy/po/fa.po | 
+ | [mn](/f10/language/mn) | 286 | 829 | 34.5 | /mnt/stockage/packages/f10/bug-buddy/po/mn.po | 
+ | [ga](/f10/language/ga) | 276 | 989 | 27.9 | /mnt/stockage/packages/f10/bug-buddy/po/ga.po | 
+ | [ps](/f10/language/ps) | 194 | 941 | 20.6 | /mnt/stockage/packages/f10/bug-buddy/po/ps.po | 
+ | [hr](/f10/language/hr) | 72 | 989 | 7.3 | /mnt/stockage/packages/f10/bug-buddy/po/hr.po | 
+ | [si](/f10/language/si) | 49 | 930 | 5.3 | /mnt/stockage/packages/f10/bug-buddy/po/si.po | 
+ | [ku](/f10/language/ku) | 61 | 1233 | 4.9 | /mnt/stockage/packages/f10/bug-buddy/po/ku.po | 
+ | [am](/f10/language/am) | 35 | 1228 | 2.9 | /mnt/stockage/packages/f10/bug-buddy/po/am.po | 
+ | [rw](/f10/language/rw) | 18 | 1228 | 1.5 | /mnt/stockage/packages/f10/bug-buddy/po/rw.po | 
+ | [is](/f10/language/is) | 10 | 1228 | 0.8 | /mnt/stockage/packages/f10/bug-buddy/po/is.po | 
 {.sortable}
 
 

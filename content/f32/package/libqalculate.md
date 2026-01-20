@@ -18,10 +18,10 @@ The package libqalculate (version 3.6.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [sv]({{< ref "/f32/language/sv.md" >}}) | 9435 | 10993 | 85.8 | /mnt/stockage/packages/f32/libqalculate/po/sv.po/mnt/stockage/packages/f32/libqalculate/po-defs/sv.po | 
- | [nl]({{< ref "/f32/language/nl.md" >}}) | 5858 | 10993 | 53.3 | /mnt/stockage/packages/f32/libqalculate/po/nl.po/mnt/stockage/packages/f32/libqalculate/po-defs/nl.po | 
- | [zh_Hans]({{< ref "/f32/language/zh_Hans.md" >}}) | 5460 | 10993 | 49.7 | /mnt/stockage/packages/f32/libqalculate/po/zh_CN.po/mnt/stockage/packages/f32/libqalculate/po-defs/zh_CN.po | 
- | [fr]({{< ref "/f32/language/fr.md" >}}) | 5122 | 10993 | 46.6 | /mnt/stockage/packages/f32/libqalculate/po/fr.po/mnt/stockage/packages/f32/libqalculate/po-defs/fr.po | 
+ | [sv](/f32/language/sv) | 9435 | 10993 | 85.8 | /mnt/stockage/packages/f32/libqalculate/po/sv.po/mnt/stockage/packages/f32/libqalculate/po-defs/sv.po | 
+ | [nl](/f32/language/nl) | 5858 | 10993 | 53.3 | /mnt/stockage/packages/f32/libqalculate/po/nl.po/mnt/stockage/packages/f32/libqalculate/po-defs/nl.po | 
+ | [zh_Hans](/f32/language/zh_Hans) | 5460 | 10993 | 49.7 | /mnt/stockage/packages/f32/libqalculate/po/zh_CN.po/mnt/stockage/packages/f32/libqalculate/po-defs/zh_CN.po | 
+ | [fr](/f32/language/fr) | 5122 | 10993 | 46.6 | /mnt/stockage/packages/f32/libqalculate/po/fr.po/mnt/stockage/packages/f32/libqalculate/po-defs/fr.po | 
 {.sortable}
 
 

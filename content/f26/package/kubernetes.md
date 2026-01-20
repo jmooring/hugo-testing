@@ -18,10 +18,10 @@ The package kubernetes (version 1.7.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [en]({{< ref "/f26/language/en.md" >}}) | 13596 | 13596 | 100.0 | /mnt/stockage/packages/f26/kubernetes/translations/kubectl/en_US/LC_MESSAGES/k8s.po/mnt/stockage/packages/f26/kubernetes/translations/kubectl/default/LC_MESSAGES/k8s.po/mnt/stockage/packages/f26/kubernetes/translations/test/en_US/LC_MESSAGES/k8s.po/mnt/stockage/packages/f26/kubernetes/translations/test/default/LC_MESSAGES/k8s.po | 
- | [fr]({{< ref "/f26/language/fr.md" >}}) | 125 | 125 | 100.0 | /mnt/stockage/packages/f26/kubernetes/translations/kubectl/fr_FR/LC_MESSAGES/k8s.po | 
- | [ja]({{< ref "/f26/language/ja.md" >}}) | 125 | 125 | 100.0 | /mnt/stockage/packages/f26/kubernetes/translations/kubectl/ja_JP/LC_MESSAGES/k8s.po | 
- | [zh_Hans]({{< ref "/f26/language/zh_Hans.md" >}}) | 250 | 250 | 100.0 | /mnt/stockage/packages/f26/kubernetes/translations/kubectl/zh_TW/LC_MESSAGES/k8s.po/mnt/stockage/packages/f26/kubernetes/translations/kubectl/zh_CN/LC_MESSAGES/k8s.po | 
+ | [en](/f26/language/en) | 13596 | 13596 | 100.0 | /mnt/stockage/packages/f26/kubernetes/translations/kubectl/en_US/LC_MESSAGES/k8s.po/mnt/stockage/packages/f26/kubernetes/translations/kubectl/default/LC_MESSAGES/k8s.po/mnt/stockage/packages/f26/kubernetes/translations/test/en_US/LC_MESSAGES/k8s.po/mnt/stockage/packages/f26/kubernetes/translations/test/default/LC_MESSAGES/k8s.po | 
+ | [fr](/f26/language/fr) | 125 | 125 | 100.0 | /mnt/stockage/packages/f26/kubernetes/translations/kubectl/fr_FR/LC_MESSAGES/k8s.po | 
+ | [ja](/f26/language/ja) | 125 | 125 | 100.0 | /mnt/stockage/packages/f26/kubernetes/translations/kubectl/ja_JP/LC_MESSAGES/k8s.po | 
+ | [zh_Hans](/f26/language/zh_Hans) | 250 | 250 | 100.0 | /mnt/stockage/packages/f26/kubernetes/translations/kubectl/zh_TW/LC_MESSAGES/k8s.po/mnt/stockage/packages/f26/kubernetes/translations/kubectl/zh_CN/LC_MESSAGES/k8s.po | 
 {.sortable}
 
 

@@ -18,12 +18,12 @@ The package ravada (version 0.3.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [es]({{< ref "/f27/language/es.md" >}}) | 945 | 945 | 100.0 | /mnt/stockage/packages/f27/ravada/lib/Ravada/I18N/es.po | 
- | [hi]({{< ref "/f27/language/hi.md" >}}) | 508 | 508 | 100.0 | /mnt/stockage/packages/f27/ravada/lib/Ravada/I18N/hi.po | 
- | [id]({{< ref "/f27/language/id.md" >}}) | 1076 | 1076 | 100.0 | /mnt/stockage/packages/f27/ravada/lib/Ravada/I18N/id.po | 
- | [fr]({{< ref "/f27/language/fr.md" >}}) | 854 | 855 | 99.9 | /mnt/stockage/packages/f27/ravada/lib/Ravada/I18N/fr.po | 
- | [ca]({{< ref "/f27/language/ca.md" >}}) | 2395 | 3360 | 71.3 | /mnt/stockage/packages/f27/ravada/lib/Ravada/I18N/pt.po/mnt/stockage/packages/f27/ravada/lib/Ravada/I18N/gl.po/mnt/stockage/packages/f27/ravada/lib/Ravada/I18N/fa.po/mnt/stockage/packages/f27/ravada/lib/Ravada/I18N/en.po/mnt/stockage/packages/f27/ravada/lib/Ravada/I18N/de.po/mnt/stockage/packages/f27/ravada/lib/Ravada/I18N/ca.po | 
- | [ja]({{< ref "/f27/language/ja.md" >}}) | 102 | 255 | 40.0 | /mnt/stockage/packages/f27/ravada/lib/Ravada/I18N/ja.po | 
+ | [es](/f27/language/es) | 945 | 945 | 100.0 | /mnt/stockage/packages/f27/ravada/lib/Ravada/I18N/es.po | 
+ | [hi](/f27/language/hi) | 508 | 508 | 100.0 | /mnt/stockage/packages/f27/ravada/lib/Ravada/I18N/hi.po | 
+ | [id](/f27/language/id) | 1076 | 1076 | 100.0 | /mnt/stockage/packages/f27/ravada/lib/Ravada/I18N/id.po | 
+ | [fr](/f27/language/fr) | 854 | 855 | 99.9 | /mnt/stockage/packages/f27/ravada/lib/Ravada/I18N/fr.po | 
+ | [ca](/f27/language/ca) | 2395 | 3360 | 71.3 | /mnt/stockage/packages/f27/ravada/lib/Ravada/I18N/pt.po/mnt/stockage/packages/f27/ravada/lib/Ravada/I18N/gl.po/mnt/stockage/packages/f27/ravada/lib/Ravada/I18N/fa.po/mnt/stockage/packages/f27/ravada/lib/Ravada/I18N/en.po/mnt/stockage/packages/f27/ravada/lib/Ravada/I18N/de.po/mnt/stockage/packages/f27/ravada/lib/Ravada/I18N/ca.po | 
+ | [ja](/f27/language/ja) | 102 | 255 | 40.0 | /mnt/stockage/packages/f27/ravada/lib/Ravada/I18N/ja.po | 
 {.sortable}
 
 

@@ -18,52 +18,52 @@ The package kgrab (version 0.1.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [bg]({{< ref "/f33/language/bg.md" >}}) | 370 | 370 | 100.0 | /mnt/stockage/packages/f33/kgrab/po/bg/kgrab.po | 
- | [ca]({{< ref "/f33/language/ca.md" >}}) | 370 | 370 | 100.0 | /mnt/stockage/packages/f33/kgrab/po/ca/kgrab.po | 
- | [cs]({{< ref "/f33/language/cs.md" >}}) | 370 | 370 | 100.0 | /mnt/stockage/packages/f33/kgrab/po/cs/kgrab.po | 
- | [da]({{< ref "/f33/language/da.md" >}}) | 370 | 370 | 100.0 | /mnt/stockage/packages/f33/kgrab/po/da/kgrab.po | 
- | [de]({{< ref "/f33/language/de.md" >}}) | 370 | 370 | 100.0 | /mnt/stockage/packages/f33/kgrab/po/de/kgrab.po | 
- | [el]({{< ref "/f33/language/el.md" >}}) | 370 | 370 | 100.0 | /mnt/stockage/packages/f33/kgrab/po/el/kgrab.po | 
- | [en_GB]({{< ref "/f33/language/en_GB.md" >}}) | 370 | 370 | 100.0 | /mnt/stockage/packages/f33/kgrab/po/en_GB/kgrab.po | 
- | [et]({{< ref "/f33/language/et.md" >}}) | 370 | 370 | 100.0 | /mnt/stockage/packages/f33/kgrab/po/et/kgrab.po | 
- | [fi]({{< ref "/f33/language/fi.md" >}}) | 370 | 370 | 100.0 | /mnt/stockage/packages/f33/kgrab/po/fi/kgrab.po | 
- | [fr]({{< ref "/f33/language/fr.md" >}}) | 370 | 370 | 100.0 | /mnt/stockage/packages/f33/kgrab/po/fr/kgrab.po | 
- | [gl]({{< ref "/f33/language/gl.md" >}}) | 370 | 370 | 100.0 | /mnt/stockage/packages/f33/kgrab/po/gl/kgrab.po | 
- | [is]({{< ref "/f33/language/is.md" >}}) | 370 | 370 | 100.0 | /mnt/stockage/packages/f33/kgrab/po/is/kgrab.po | 
- | [it]({{< ref "/f33/language/it.md" >}}) | 370 | 370 | 100.0 | /mnt/stockage/packages/f33/kgrab/po/it/kgrab.po | 
- | [km]({{< ref "/f33/language/km.md" >}}) | 370 | 370 | 100.0 | /mnt/stockage/packages/f33/kgrab/po/km/kgrab.po | 
- | [lv]({{< ref "/f33/language/lv.md" >}}) | 370 | 370 | 100.0 | /mnt/stockage/packages/f33/kgrab/po/lv/kgrab.po | 
- | [nb_NO]({{< ref "/f33/language/nb_NO.md" >}}) | 370 | 370 | 100.0 | /mnt/stockage/packages/f33/kgrab/po/nb/kgrab.po | 
- | [nds]({{< ref "/f33/language/nds.md" >}}) | 370 | 370 | 100.0 | /mnt/stockage/packages/f33/kgrab/po/nds/kgrab.po | 
- | [nl]({{< ref "/f33/language/nl.md" >}}) | 370 | 370 | 100.0 | /mnt/stockage/packages/f33/kgrab/po/nl/kgrab.po | 
- | [pt]({{< ref "/f33/language/pt.md" >}}) | 370 | 370 | 100.0 | /mnt/stockage/packages/f33/kgrab/po/pt/kgrab.po | 
- | [pt_BR]({{< ref "/f33/language/pt_BR.md" >}}) | 370 | 370 | 100.0 | /mnt/stockage/packages/f33/kgrab/po/pt_BR/kgrab.po | 
- | [ro]({{< ref "/f33/language/ro.md" >}}) | 370 | 370 | 100.0 | /mnt/stockage/packages/f33/kgrab/po/ro/kgrab.po | 
- | [sv]({{< ref "/f33/language/sv.md" >}}) | 370 | 370 | 100.0 | /mnt/stockage/packages/f33/kgrab/po/sv/kgrab.po | 
- | [tr]({{< ref "/f33/language/tr.md" >}}) | 370 | 370 | 100.0 | /mnt/stockage/packages/f33/kgrab/po/tr/kgrab.po | 
- | [uk]({{< ref "/f33/language/uk.md" >}}) | 370 | 370 | 100.0 | /mnt/stockage/packages/f33/kgrab/po/uk/kgrab.po | 
- | [zh_Hans]({{< ref "/f33/language/zh_Hans.md" >}}) | 370 | 370 | 100.0 | /mnt/stockage/packages/f33/kgrab/po/zh_CN/kgrab.po | 
- | [zh_Hant]({{< ref "/f33/language/zh_Hant.md" >}}) | 370 | 370 | 100.0 | /mnt/stockage/packages/f33/kgrab/po/zh_TW/kgrab.po | 
- | [hu]({{< ref "/f33/language/hu.md" >}}) | 358 | 370 | 96.8 | /mnt/stockage/packages/f33/kgrab/po/hu/kgrab.po | 
- | [ja]({{< ref "/f33/language/ja.md" >}}) | 358 | 370 | 96.8 | /mnt/stockage/packages/f33/kgrab/po/ja/kgrab.po | 
- | [th]({{< ref "/f33/language/th.md" >}}) | 358 | 370 | 96.8 | /mnt/stockage/packages/f33/kgrab/po/th/kgrab.po | 
- | [pl]({{< ref "/f33/language/pl.md" >}}) | 356 | 370 | 96.2 | /mnt/stockage/packages/f33/kgrab/po/pl/kgrab.po | 
- | [vi]({{< ref "/f33/language/vi.md" >}}) | 356 | 370 | 96.2 | /mnt/stockage/packages/f33/kgrab/po/vi/kgrab.po | 
- | [pa]({{< ref "/f33/language/pa.md" >}}) | 255 | 370 | 68.9 | /mnt/stockage/packages/f33/kgrab/po/pa/kgrab.po | 
- | [he]({{< ref "/f33/language/he.md" >}}) | 152 | 370 | 41.1 | /mnt/stockage/packages/f33/kgrab/po/he/kgrab.po | 
- | [hne]({{< ref "/f33/language/hne.md" >}}) | 152 | 370 | 41.1 | /mnt/stockage/packages/f33/kgrab/po/hne/kgrab.po | 
- | [hi]({{< ref "/f33/language/hi.md" >}}) | 148 | 370 | 40.0 | /mnt/stockage/packages/f33/kgrab/po/hi/kgrab.po | 
- | [eo]({{< ref "/f33/language/eo.md" >}}) | 144 | 370 | 38.9 | /mnt/stockage/packages/f33/kgrab/po/eo/kgrab.po | 
- | [ga]({{< ref "/f33/language/ga.md" >}}) | 130 | 370 | 35.1 | /mnt/stockage/packages/f33/kgrab/po/ga/kgrab.po | 
- | [lt]({{< ref "/f33/language/lt.md" >}}) | 91 | 370 | 24.6 | /mnt/stockage/packages/f33/kgrab/po/lt/kgrab.po | 
- | [be]({{< ref "/f33/language/be.md" >}}) | 35 | 370 | 9.5 | /mnt/stockage/packages/f33/kgrab/po/be/kgrab.po | 
- | [mai]({{< ref "/f33/language/mai.md" >}}) | 26 | 370 | 7.0 | /mnt/stockage/packages/f33/kgrab/po/mai/kgrab.po | 
- | [hr]({{< ref "/f33/language/hr.md" >}}) | 1 | 370 | 0.3 | /mnt/stockage/packages/f33/kgrab/po/hr/kgrab.po | 
- | [ar]({{< ref "/f33/language/ar.md" >}}) | 0 | 370 | 0.0 | /mnt/stockage/packages/f33/kgrab/po/ar/kgrab.po | 
- | [es]({{< ref "/f33/language/es.md" >}}) | 0 | 370 | 0.0 | /mnt/stockage/packages/f33/kgrab/po/es/kgrab.po | 
- | [nn]({{< ref "/f33/language/nn.md" >}}) | 0 | 370 | 0.0 | /mnt/stockage/packages/f33/kgrab/po/nn/kgrab.po | 
- | [se]({{< ref "/f33/language/se.md" >}}) | 0 | 370 | 0.0 | /mnt/stockage/packages/f33/kgrab/po/se/kgrab.po | 
- | [sk]({{< ref "/f33/language/sk.md" >}}) | 0 | 370 | 0.0 | /mnt/stockage/packages/f33/kgrab/po/sk/kgrab.po | 
+ | [bg](/f33/language/bg) | 370 | 370 | 100.0 | /mnt/stockage/packages/f33/kgrab/po/bg/kgrab.po | 
+ | [ca](/f33/language/ca) | 370 | 370 | 100.0 | /mnt/stockage/packages/f33/kgrab/po/ca/kgrab.po | 
+ | [cs](/f33/language/cs) | 370 | 370 | 100.0 | /mnt/stockage/packages/f33/kgrab/po/cs/kgrab.po | 
+ | [da](/f33/language/da) | 370 | 370 | 100.0 | /mnt/stockage/packages/f33/kgrab/po/da/kgrab.po | 
+ | [de](/f33/language/de) | 370 | 370 | 100.0 | /mnt/stockage/packages/f33/kgrab/po/de/kgrab.po | 
+ | [el](/f33/language/el) | 370 | 370 | 100.0 | /mnt/stockage/packages/f33/kgrab/po/el/kgrab.po | 
+ | [en_GB](/f33/language/en_GB) | 370 | 370 | 100.0 | /mnt/stockage/packages/f33/kgrab/po/en_GB/kgrab.po | 
+ | [et](/f33/language/et) | 370 | 370 | 100.0 | /mnt/stockage/packages/f33/kgrab/po/et/kgrab.po | 
+ | [fi](/f33/language/fi) | 370 | 370 | 100.0 | /mnt/stockage/packages/f33/kgrab/po/fi/kgrab.po | 
+ | [fr](/f33/language/fr) | 370 | 370 | 100.0 | /mnt/stockage/packages/f33/kgrab/po/fr/kgrab.po | 
+ | [gl](/f33/language/gl) | 370 | 370 | 100.0 | /mnt/stockage/packages/f33/kgrab/po/gl/kgrab.po | 
+ | [is](/f33/language/is) | 370 | 370 | 100.0 | /mnt/stockage/packages/f33/kgrab/po/is/kgrab.po | 
+ | [it](/f33/language/it) | 370 | 370 | 100.0 | /mnt/stockage/packages/f33/kgrab/po/it/kgrab.po | 
+ | [km](/f33/language/km) | 370 | 370 | 100.0 | /mnt/stockage/packages/f33/kgrab/po/km/kgrab.po | 
+ | [lv](/f33/language/lv) | 370 | 370 | 100.0 | /mnt/stockage/packages/f33/kgrab/po/lv/kgrab.po | 
+ | [nb_NO](/f33/language/nb_NO) | 370 | 370 | 100.0 | /mnt/stockage/packages/f33/kgrab/po/nb/kgrab.po | 
+ | [nds](/f33/language/nds) | 370 | 370 | 100.0 | /mnt/stockage/packages/f33/kgrab/po/nds/kgrab.po | 
+ | [nl](/f33/language/nl) | 370 | 370 | 100.0 | /mnt/stockage/packages/f33/kgrab/po/nl/kgrab.po | 
+ | [pt](/f33/language/pt) | 370 | 370 | 100.0 | /mnt/stockage/packages/f33/kgrab/po/pt/kgrab.po | 
+ | [pt_BR](/f33/language/pt_BR) | 370 | 370 | 100.0 | /mnt/stockage/packages/f33/kgrab/po/pt_BR/kgrab.po | 
+ | [ro](/f33/language/ro) | 370 | 370 | 100.0 | /mnt/stockage/packages/f33/kgrab/po/ro/kgrab.po | 
+ | [sv](/f33/language/sv) | 370 | 370 | 100.0 | /mnt/stockage/packages/f33/kgrab/po/sv/kgrab.po | 
+ | [tr](/f33/language/tr) | 370 | 370 | 100.0 | /mnt/stockage/packages/f33/kgrab/po/tr/kgrab.po | 
+ | [uk](/f33/language/uk) | 370 | 370 | 100.0 | /mnt/stockage/packages/f33/kgrab/po/uk/kgrab.po | 
+ | [zh_Hans](/f33/language/zh_Hans) | 370 | 370 | 100.0 | /mnt/stockage/packages/f33/kgrab/po/zh_CN/kgrab.po | 
+ | [zh_Hant](/f33/language/zh_Hant) | 370 | 370 | 100.0 | /mnt/stockage/packages/f33/kgrab/po/zh_TW/kgrab.po | 
+ | [hu](/f33/language/hu) | 358 | 370 | 96.8 | /mnt/stockage/packages/f33/kgrab/po/hu/kgrab.po | 
+ | [ja](/f33/language/ja) | 358 | 370 | 96.8 | /mnt/stockage/packages/f33/kgrab/po/ja/kgrab.po | 
+ | [th](/f33/language/th) | 358 | 370 | 96.8 | /mnt/stockage/packages/f33/kgrab/po/th/kgrab.po | 
+ | [pl](/f33/language/pl) | 356 | 370 | 96.2 | /mnt/stockage/packages/f33/kgrab/po/pl/kgrab.po | 
+ | [vi](/f33/language/vi) | 356 | 370 | 96.2 | /mnt/stockage/packages/f33/kgrab/po/vi/kgrab.po | 
+ | [pa](/f33/language/pa) | 255 | 370 | 68.9 | /mnt/stockage/packages/f33/kgrab/po/pa/kgrab.po | 
+ | [he](/f33/language/he) | 152 | 370 | 41.1 | /mnt/stockage/packages/f33/kgrab/po/he/kgrab.po | 
+ | [hne](/f33/language/hne) | 152 | 370 | 41.1 | /mnt/stockage/packages/f33/kgrab/po/hne/kgrab.po | 
+ | [hi](/f33/language/hi) | 148 | 370 | 40.0 | /mnt/stockage/packages/f33/kgrab/po/hi/kgrab.po | 
+ | [eo](/f33/language/eo) | 144 | 370 | 38.9 | /mnt/stockage/packages/f33/kgrab/po/eo/kgrab.po | 
+ | [ga](/f33/language/ga) | 130 | 370 | 35.1 | /mnt/stockage/packages/f33/kgrab/po/ga/kgrab.po | 
+ | [lt](/f33/language/lt) | 91 | 370 | 24.6 | /mnt/stockage/packages/f33/kgrab/po/lt/kgrab.po | 
+ | [be](/f33/language/be) | 35 | 370 | 9.5 | /mnt/stockage/packages/f33/kgrab/po/be/kgrab.po | 
+ | [mai](/f33/language/mai) | 26 | 370 | 7.0 | /mnt/stockage/packages/f33/kgrab/po/mai/kgrab.po | 
+ | [hr](/f33/language/hr) | 1 | 370 | 0.3 | /mnt/stockage/packages/f33/kgrab/po/hr/kgrab.po | 
+ | [ar](/f33/language/ar) | 0 | 370 | 0.0 | /mnt/stockage/packages/f33/kgrab/po/ar/kgrab.po | 
+ | [es](/f33/language/es) | 0 | 370 | 0.0 | /mnt/stockage/packages/f33/kgrab/po/es/kgrab.po | 
+ | [nn](/f33/language/nn) | 0 | 370 | 0.0 | /mnt/stockage/packages/f33/kgrab/po/nn/kgrab.po | 
+ | [se](/f33/language/se) | 0 | 370 | 0.0 | /mnt/stockage/packages/f33/kgrab/po/se/kgrab.po | 
+ | [sk](/f33/language/sk) | 0 | 370 | 0.0 | /mnt/stockage/packages/f33/kgrab/po/sk/kgrab.po | 
 {.sortable}
 
 

@@ -18,7 +18,7 @@ The package accountsservice (version 0.6.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [pl]({{< ref "/f14/language/pl.md" >}}) | 56 | 56 | 100.0 | /mnt/stockage/packages/f14/accountsservice/po/pl.po | 
+ | [pl](/f14/language/pl) | 56 | 56 | 100.0 | /mnt/stockage/packages/f14/accountsservice/po/pl.po | 
 {.sortable}
 
 

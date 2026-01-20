@@ -18,52 +18,52 @@ The package kcachegrind (version 19.04.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f31/language/ca.md" >}}) | 4372 | 4372 | 100.0 | /mnt/stockage/packages/f31/kcachegrind/po/ca/kcachegrind.po/mnt/stockage/packages/f31/kcachegrind/poqm/ca/kcachegrind_qt.po | 
- | [ca@valencia]({{< ref "/f31/language/ca@valencia.md" >}}) | 4372 | 4372 | 100.0 | /mnt/stockage/packages/f31/kcachegrind/po/ca@valencia/kcachegrind.po/mnt/stockage/packages/f31/kcachegrind/poqm/ca@valencia/kcachegrind_qt.po | 
- | [de]({{< ref "/f31/language/de.md" >}}) | 4372 | 4372 | 100.0 | /mnt/stockage/packages/f31/kcachegrind/po/de/kcachegrind.po/mnt/stockage/packages/f31/kcachegrind/poqm/de/kcachegrind_qt.po | 
- | [en_GB]({{< ref "/f31/language/en_GB.md" >}}) | 4372 | 4372 | 100.0 | /mnt/stockage/packages/f31/kcachegrind/po/en_GB/kcachegrind.po/mnt/stockage/packages/f31/kcachegrind/poqm/en_GB/kcachegrind_qt.po | 
- | [es]({{< ref "/f31/language/es.md" >}}) | 4372 | 4372 | 100.0 | /mnt/stockage/packages/f31/kcachegrind/po/es/kcachegrind.po/mnt/stockage/packages/f31/kcachegrind/poqm/es/kcachegrind_qt.po | 
- | [fr]({{< ref "/f31/language/fr.md" >}}) | 4372 | 4372 | 100.0 | /mnt/stockage/packages/f31/kcachegrind/po/fr/kcachegrind.po/mnt/stockage/packages/f31/kcachegrind/poqm/fr/kcachegrind_qt.po | 
- | [gl]({{< ref "/f31/language/gl.md" >}}) | 4372 | 4372 | 100.0 | /mnt/stockage/packages/f31/kcachegrind/po/gl/kcachegrind.po/mnt/stockage/packages/f31/kcachegrind/poqm/gl/kcachegrind_qt.po | 
- | [it]({{< ref "/f31/language/it.md" >}}) | 4372 | 4372 | 100.0 | /mnt/stockage/packages/f31/kcachegrind/po/it/kcachegrind.po/mnt/stockage/packages/f31/kcachegrind/poqm/it/kcachegrind_qt.po | 
- | [ko]({{< ref "/f31/language/ko.md" >}}) | 4372 | 4372 | 100.0 | /mnt/stockage/packages/f31/kcachegrind/po/ko/kcachegrind.po/mnt/stockage/packages/f31/kcachegrind/poqm/ko/kcachegrind_qt.po | 
- | [nl]({{< ref "/f31/language/nl.md" >}}) | 4372 | 4372 | 100.0 | /mnt/stockage/packages/f31/kcachegrind/po/nl/kcachegrind.po/mnt/stockage/packages/f31/kcachegrind/poqm/nl/kcachegrind_qt.po | 
- | [pl]({{< ref "/f31/language/pl.md" >}}) | 4372 | 4372 | 100.0 | /mnt/stockage/packages/f31/kcachegrind/po/pl/kcachegrind.po/mnt/stockage/packages/f31/kcachegrind/poqm/pl/kcachegrind_qt.po | 
- | [pt]({{< ref "/f31/language/pt.md" >}}) | 4372 | 4372 | 100.0 | /mnt/stockage/packages/f31/kcachegrind/po/pt/kcachegrind.po/mnt/stockage/packages/f31/kcachegrind/poqm/pt/kcachegrind_qt.po | 
- | [pt_BR]({{< ref "/f31/language/pt_BR.md" >}}) | 4372 | 4372 | 100.0 | /mnt/stockage/packages/f31/kcachegrind/po/pt_BR/kcachegrind.po/mnt/stockage/packages/f31/kcachegrind/poqm/pt_BR/kcachegrind_qt.po | 
- | [sv]({{< ref "/f31/language/sv.md" >}}) | 4372 | 4372 | 100.0 | /mnt/stockage/packages/f31/kcachegrind/po/sv/kcachegrind.po/mnt/stockage/packages/f31/kcachegrind/poqm/sv/kcachegrind_qt.po | 
- | [uk]({{< ref "/f31/language/uk.md" >}}) | 4372 | 4372 | 100.0 | /mnt/stockage/packages/f31/kcachegrind/po/uk/kcachegrind.po/mnt/stockage/packages/f31/kcachegrind/poqm/uk/kcachegrind_qt.po | 
- | [zh_Hant]({{< ref "/f31/language/zh_Hant.md" >}}) | 4372 | 4372 | 100.0 | /mnt/stockage/packages/f31/kcachegrind/po/zh_TW/kcachegrind.po/mnt/stockage/packages/f31/kcachegrind/poqm/zh_TW/kcachegrind_qt.po | 
- | [sk]({{< ref "/f31/language/sk.md" >}}) | 4370 | 4372 | 100.0 | /mnt/stockage/packages/f31/kcachegrind/po/sk/kcachegrind.po/mnt/stockage/packages/f31/kcachegrind/poqm/sk/kcachegrind_qt.po | 
- | [eu]({{< ref "/f31/language/eu.md" >}}) | 1714 | 1736 | 98.7 | /mnt/stockage/packages/f31/kcachegrind/po/eu/kcachegrind.po | 
- | [tr]({{< ref "/f31/language/tr.md" >}}) | 2604 | 4372 | 59.6 | /mnt/stockage/packages/f31/kcachegrind/po/tr/kcachegrind.po/mnt/stockage/packages/f31/kcachegrind/poqm/tr/kcachegrind_qt.po | 
- | [fa]({{< ref "/f31/language/fa.md" >}}) | 1006 | 1736 | 57.9 | /mnt/stockage/packages/f31/kcachegrind/po/fa/kcachegrind.po | 
- | [zh_Hans]({{< ref "/f31/language/zh_Hans.md" >}}) | 1772 | 4372 | 40.5 | /mnt/stockage/packages/f31/kcachegrind/po/zh_CN/kcachegrind.po/mnt/stockage/packages/f31/kcachegrind/poqm/zh_CN/kcachegrind_qt.po | 
- | [el]({{< ref "/f31/language/el.md" >}}) | 1736 | 4372 | 39.7 | /mnt/stockage/packages/f31/kcachegrind/po/el/kcachegrind.po/mnt/stockage/packages/f31/kcachegrind/poqm/el/kcachegrind_qt.po | 
- | [bs]({{< ref "/f31/language/bs.md" >}}) | 1724 | 4372 | 39.4 | /mnt/stockage/packages/f31/kcachegrind/po/bs/kcachegrind.po/mnt/stockage/packages/f31/kcachegrind/poqm/bs/kcachegrind_qt.po | 
- | [da]({{< ref "/f31/language/da.md" >}}) | 1724 | 4372 | 39.4 | /mnt/stockage/packages/f31/kcachegrind/po/da/kcachegrind.po/mnt/stockage/packages/f31/kcachegrind/poqm/da/kcachegrind_qt.po | 
- | [et]({{< ref "/f31/language/et.md" >}}) | 1724 | 4372 | 39.4 | /mnt/stockage/packages/f31/kcachegrind/po/et/kcachegrind.po/mnt/stockage/packages/f31/kcachegrind/poqm/et/kcachegrind_qt.po | 
- | [hu]({{< ref "/f31/language/hu.md" >}}) | 1724 | 4372 | 39.4 | /mnt/stockage/packages/f31/kcachegrind/po/hu/kcachegrind.po/mnt/stockage/packages/f31/kcachegrind/poqm/hu/kcachegrind_qt.po | 
- | [kk]({{< ref "/f31/language/kk.md" >}}) | 1724 | 4372 | 39.4 | /mnt/stockage/packages/f31/kcachegrind/po/kk/kcachegrind.po/mnt/stockage/packages/f31/kcachegrind/poqm/kk/kcachegrind_qt.po | 
- | [nb_NO]({{< ref "/f31/language/nb_NO.md" >}}) | 1724 | 4372 | 39.4 | /mnt/stockage/packages/f31/kcachegrind/po/nb/kcachegrind.po/mnt/stockage/packages/f31/kcachegrind/poqm/nb/kcachegrind_qt.po | 
- | [ru]({{< ref "/f31/language/ru.md" >}}) | 1724 | 4372 | 39.4 | /mnt/stockage/packages/f31/kcachegrind/po/ru/kcachegrind.po/mnt/stockage/packages/f31/kcachegrind/poqm/ru/kcachegrind_qt.po | 
- | [nds]({{< ref "/f31/language/nds.md" >}}) | 1714 | 4372 | 39.2 | /mnt/stockage/packages/f31/kcachegrind/po/nds/kcachegrind.po/mnt/stockage/packages/f31/kcachegrind/poqm/nds/kcachegrind_qt.po | 
- | [hi]({{< ref "/f31/language/hi.md" >}}) | 377 | 1736 | 21.7 | /mnt/stockage/packages/f31/kcachegrind/po/hi/kcachegrind.po | 
- | [fi]({{< ref "/f31/language/fi.md" >}}) | 902 | 4372 | 20.6 | /mnt/stockage/packages/f31/kcachegrind/po/fi/kcachegrind.po/mnt/stockage/packages/f31/kcachegrind/poqm/fi/kcachegrind_qt.po | 
- | [nn]({{< ref "/f31/language/nn.md" >}}) | 530 | 4372 | 12.1 | /mnt/stockage/packages/f31/kcachegrind/po/nn/kcachegrind.po/mnt/stockage/packages/f31/kcachegrind/poqm/nn/kcachegrind_qt.po | 
- | [sl]({{< ref "/f31/language/sl.md" >}}) | 180 | 1736 | 10.4 | /mnt/stockage/packages/f31/kcachegrind/po/sl/kcachegrind.po | 
- | [cs]({{< ref "/f31/language/cs.md" >}}) | 442 | 4372 | 10.1 | /mnt/stockage/packages/f31/kcachegrind/po/cs/kcachegrind.po/mnt/stockage/packages/f31/kcachegrind/poqm/cs/kcachegrind_qt.po | 
- | [pa]({{< ref "/f31/language/pa.md" >}}) | 101 | 1736 | 5.8 | /mnt/stockage/packages/f31/kcachegrind/po/pa/kcachegrind.po | 
- | [km]({{< ref "/f31/language/km.md" >}}) | 71 | 1736 | 4.1 | /mnt/stockage/packages/f31/kcachegrind/po/km/kcachegrind.po | 
- | [ga]({{< ref "/f31/language/ga.md" >}}) | 129 | 4372 | 3.0 | /mnt/stockage/packages/f31/kcachegrind/po/ga/kcachegrind.po/mnt/stockage/packages/f31/kcachegrind/poqm/ga/kcachegrind_qt.po | 
- | [ug]({{< ref "/f31/language/ug.md" >}}) | 79 | 4372 | 1.8 | /mnt/stockage/packages/f31/kcachegrind/po/ug/kcachegrind.po/mnt/stockage/packages/f31/kcachegrind/poqm/ug/kcachegrind_qt.po | 
- | [lt]({{< ref "/f31/language/lt.md" >}}) | 75 | 4372 | 1.7 | /mnt/stockage/packages/f31/kcachegrind/po/lt/kcachegrind.po/mnt/stockage/packages/f31/kcachegrind/poqm/lt/kcachegrind_qt.po | 
- | [eo]({{< ref "/f31/language/eo.md" >}}) | 53 | 4372 | 1.2 | /mnt/stockage/packages/f31/kcachegrind/po/eo/kcachegrind.po/mnt/stockage/packages/f31/kcachegrind/poqm/eo/kcachegrind_qt.po | 
- | [mr]({{< ref "/f31/language/mr.md" >}}) | 39 | 4372 | 0.9 | /mnt/stockage/packages/f31/kcachegrind/po/mr/kcachegrind.po/mnt/stockage/packages/f31/kcachegrind/poqm/mr/kcachegrind_qt.po | 
- | [hr]({{< ref "/f31/language/hr.md" >}}) | 30 | 4372 | 0.7 | /mnt/stockage/packages/f31/kcachegrind/po/hr/kcachegrind.po/mnt/stockage/packages/f31/kcachegrind/poqm/hr/kcachegrind_qt.po | 
- | [ro]({{< ref "/f31/language/ro.md" >}}) | 3 | 1736 | 0.2 | /mnt/stockage/packages/f31/kcachegrind/po/ro/kcachegrind.po | 
- | [ar]({{< ref "/f31/language/ar.md" >}}) | 0 | 1736 | 0.0 | /mnt/stockage/packages/f31/kcachegrind/po/ar/kcachegrind.po | 
- | [ja]({{< ref "/f31/language/ja.md" >}}) | 0 | 4372 | 0.0 | /mnt/stockage/packages/f31/kcachegrind/po/ja/kcachegrind.po/mnt/stockage/packages/f31/kcachegrind/poqm/ja/kcachegrind_qt.po | 
+ | [ca](/f31/language/ca) | 4372 | 4372 | 100.0 | /mnt/stockage/packages/f31/kcachegrind/po/ca/kcachegrind.po/mnt/stockage/packages/f31/kcachegrind/poqm/ca/kcachegrind_qt.po | 
+ | [ca@valencia](/f31/language/ca@valencia) | 4372 | 4372 | 100.0 | /mnt/stockage/packages/f31/kcachegrind/po/ca@valencia/kcachegrind.po/mnt/stockage/packages/f31/kcachegrind/poqm/ca@valencia/kcachegrind_qt.po | 
+ | [de](/f31/language/de) | 4372 | 4372 | 100.0 | /mnt/stockage/packages/f31/kcachegrind/po/de/kcachegrind.po/mnt/stockage/packages/f31/kcachegrind/poqm/de/kcachegrind_qt.po | 
+ | [en_GB](/f31/language/en_GB) | 4372 | 4372 | 100.0 | /mnt/stockage/packages/f31/kcachegrind/po/en_GB/kcachegrind.po/mnt/stockage/packages/f31/kcachegrind/poqm/en_GB/kcachegrind_qt.po | 
+ | [es](/f31/language/es) | 4372 | 4372 | 100.0 | /mnt/stockage/packages/f31/kcachegrind/po/es/kcachegrind.po/mnt/stockage/packages/f31/kcachegrind/poqm/es/kcachegrind_qt.po | 
+ | [fr](/f31/language/fr) | 4372 | 4372 | 100.0 | /mnt/stockage/packages/f31/kcachegrind/po/fr/kcachegrind.po/mnt/stockage/packages/f31/kcachegrind/poqm/fr/kcachegrind_qt.po | 
+ | [gl](/f31/language/gl) | 4372 | 4372 | 100.0 | /mnt/stockage/packages/f31/kcachegrind/po/gl/kcachegrind.po/mnt/stockage/packages/f31/kcachegrind/poqm/gl/kcachegrind_qt.po | 
+ | [it](/f31/language/it) | 4372 | 4372 | 100.0 | /mnt/stockage/packages/f31/kcachegrind/po/it/kcachegrind.po/mnt/stockage/packages/f31/kcachegrind/poqm/it/kcachegrind_qt.po | 
+ | [ko](/f31/language/ko) | 4372 | 4372 | 100.0 | /mnt/stockage/packages/f31/kcachegrind/po/ko/kcachegrind.po/mnt/stockage/packages/f31/kcachegrind/poqm/ko/kcachegrind_qt.po | 
+ | [nl](/f31/language/nl) | 4372 | 4372 | 100.0 | /mnt/stockage/packages/f31/kcachegrind/po/nl/kcachegrind.po/mnt/stockage/packages/f31/kcachegrind/poqm/nl/kcachegrind_qt.po | 
+ | [pl](/f31/language/pl) | 4372 | 4372 | 100.0 | /mnt/stockage/packages/f31/kcachegrind/po/pl/kcachegrind.po/mnt/stockage/packages/f31/kcachegrind/poqm/pl/kcachegrind_qt.po | 
+ | [pt](/f31/language/pt) | 4372 | 4372 | 100.0 | /mnt/stockage/packages/f31/kcachegrind/po/pt/kcachegrind.po/mnt/stockage/packages/f31/kcachegrind/poqm/pt/kcachegrind_qt.po | 
+ | [pt_BR](/f31/language/pt_BR) | 4372 | 4372 | 100.0 | /mnt/stockage/packages/f31/kcachegrind/po/pt_BR/kcachegrind.po/mnt/stockage/packages/f31/kcachegrind/poqm/pt_BR/kcachegrind_qt.po | 
+ | [sv](/f31/language/sv) | 4372 | 4372 | 100.0 | /mnt/stockage/packages/f31/kcachegrind/po/sv/kcachegrind.po/mnt/stockage/packages/f31/kcachegrind/poqm/sv/kcachegrind_qt.po | 
+ | [uk](/f31/language/uk) | 4372 | 4372 | 100.0 | /mnt/stockage/packages/f31/kcachegrind/po/uk/kcachegrind.po/mnt/stockage/packages/f31/kcachegrind/poqm/uk/kcachegrind_qt.po | 
+ | [zh_Hant](/f31/language/zh_Hant) | 4372 | 4372 | 100.0 | /mnt/stockage/packages/f31/kcachegrind/po/zh_TW/kcachegrind.po/mnt/stockage/packages/f31/kcachegrind/poqm/zh_TW/kcachegrind_qt.po | 
+ | [sk](/f31/language/sk) | 4370 | 4372 | 100.0 | /mnt/stockage/packages/f31/kcachegrind/po/sk/kcachegrind.po/mnt/stockage/packages/f31/kcachegrind/poqm/sk/kcachegrind_qt.po | 
+ | [eu](/f31/language/eu) | 1714 | 1736 | 98.7 | /mnt/stockage/packages/f31/kcachegrind/po/eu/kcachegrind.po | 
+ | [tr](/f31/language/tr) | 2604 | 4372 | 59.6 | /mnt/stockage/packages/f31/kcachegrind/po/tr/kcachegrind.po/mnt/stockage/packages/f31/kcachegrind/poqm/tr/kcachegrind_qt.po | 
+ | [fa](/f31/language/fa) | 1006 | 1736 | 57.9 | /mnt/stockage/packages/f31/kcachegrind/po/fa/kcachegrind.po | 
+ | [zh_Hans](/f31/language/zh_Hans) | 1772 | 4372 | 40.5 | /mnt/stockage/packages/f31/kcachegrind/po/zh_CN/kcachegrind.po/mnt/stockage/packages/f31/kcachegrind/poqm/zh_CN/kcachegrind_qt.po | 
+ | [el](/f31/language/el) | 1736 | 4372 | 39.7 | /mnt/stockage/packages/f31/kcachegrind/po/el/kcachegrind.po/mnt/stockage/packages/f31/kcachegrind/poqm/el/kcachegrind_qt.po | 
+ | [bs](/f31/language/bs) | 1724 | 4372 | 39.4 | /mnt/stockage/packages/f31/kcachegrind/po/bs/kcachegrind.po/mnt/stockage/packages/f31/kcachegrind/poqm/bs/kcachegrind_qt.po | 
+ | [da](/f31/language/da) | 1724 | 4372 | 39.4 | /mnt/stockage/packages/f31/kcachegrind/po/da/kcachegrind.po/mnt/stockage/packages/f31/kcachegrind/poqm/da/kcachegrind_qt.po | 
+ | [et](/f31/language/et) | 1724 | 4372 | 39.4 | /mnt/stockage/packages/f31/kcachegrind/po/et/kcachegrind.po/mnt/stockage/packages/f31/kcachegrind/poqm/et/kcachegrind_qt.po | 
+ | [hu](/f31/language/hu) | 1724 | 4372 | 39.4 | /mnt/stockage/packages/f31/kcachegrind/po/hu/kcachegrind.po/mnt/stockage/packages/f31/kcachegrind/poqm/hu/kcachegrind_qt.po | 
+ | [kk](/f31/language/kk) | 1724 | 4372 | 39.4 | /mnt/stockage/packages/f31/kcachegrind/po/kk/kcachegrind.po/mnt/stockage/packages/f31/kcachegrind/poqm/kk/kcachegrind_qt.po | 
+ | [nb_NO](/f31/language/nb_NO) | 1724 | 4372 | 39.4 | /mnt/stockage/packages/f31/kcachegrind/po/nb/kcachegrind.po/mnt/stockage/packages/f31/kcachegrind/poqm/nb/kcachegrind_qt.po | 
+ | [ru](/f31/language/ru) | 1724 | 4372 | 39.4 | /mnt/stockage/packages/f31/kcachegrind/po/ru/kcachegrind.po/mnt/stockage/packages/f31/kcachegrind/poqm/ru/kcachegrind_qt.po | 
+ | [nds](/f31/language/nds) | 1714 | 4372 | 39.2 | /mnt/stockage/packages/f31/kcachegrind/po/nds/kcachegrind.po/mnt/stockage/packages/f31/kcachegrind/poqm/nds/kcachegrind_qt.po | 
+ | [hi](/f31/language/hi) | 377 | 1736 | 21.7 | /mnt/stockage/packages/f31/kcachegrind/po/hi/kcachegrind.po | 
+ | [fi](/f31/language/fi) | 902 | 4372 | 20.6 | /mnt/stockage/packages/f31/kcachegrind/po/fi/kcachegrind.po/mnt/stockage/packages/f31/kcachegrind/poqm/fi/kcachegrind_qt.po | 
+ | [nn](/f31/language/nn) | 530 | 4372 | 12.1 | /mnt/stockage/packages/f31/kcachegrind/po/nn/kcachegrind.po/mnt/stockage/packages/f31/kcachegrind/poqm/nn/kcachegrind_qt.po | 
+ | [sl](/f31/language/sl) | 180 | 1736 | 10.4 | /mnt/stockage/packages/f31/kcachegrind/po/sl/kcachegrind.po | 
+ | [cs](/f31/language/cs) | 442 | 4372 | 10.1 | /mnt/stockage/packages/f31/kcachegrind/po/cs/kcachegrind.po/mnt/stockage/packages/f31/kcachegrind/poqm/cs/kcachegrind_qt.po | 
+ | [pa](/f31/language/pa) | 101 | 1736 | 5.8 | /mnt/stockage/packages/f31/kcachegrind/po/pa/kcachegrind.po | 
+ | [km](/f31/language/km) | 71 | 1736 | 4.1 | /mnt/stockage/packages/f31/kcachegrind/po/km/kcachegrind.po | 
+ | [ga](/f31/language/ga) | 129 | 4372 | 3.0 | /mnt/stockage/packages/f31/kcachegrind/po/ga/kcachegrind.po/mnt/stockage/packages/f31/kcachegrind/poqm/ga/kcachegrind_qt.po | 
+ | [ug](/f31/language/ug) | 79 | 4372 | 1.8 | /mnt/stockage/packages/f31/kcachegrind/po/ug/kcachegrind.po/mnt/stockage/packages/f31/kcachegrind/poqm/ug/kcachegrind_qt.po | 
+ | [lt](/f31/language/lt) | 75 | 4372 | 1.7 | /mnt/stockage/packages/f31/kcachegrind/po/lt/kcachegrind.po/mnt/stockage/packages/f31/kcachegrind/poqm/lt/kcachegrind_qt.po | 
+ | [eo](/f31/language/eo) | 53 | 4372 | 1.2 | /mnt/stockage/packages/f31/kcachegrind/po/eo/kcachegrind.po/mnt/stockage/packages/f31/kcachegrind/poqm/eo/kcachegrind_qt.po | 
+ | [mr](/f31/language/mr) | 39 | 4372 | 0.9 | /mnt/stockage/packages/f31/kcachegrind/po/mr/kcachegrind.po/mnt/stockage/packages/f31/kcachegrind/poqm/mr/kcachegrind_qt.po | 
+ | [hr](/f31/language/hr) | 30 | 4372 | 0.7 | /mnt/stockage/packages/f31/kcachegrind/po/hr/kcachegrind.po/mnt/stockage/packages/f31/kcachegrind/poqm/hr/kcachegrind_qt.po | 
+ | [ro](/f31/language/ro) | 3 | 1736 | 0.2 | /mnt/stockage/packages/f31/kcachegrind/po/ro/kcachegrind.po | 
+ | [ar](/f31/language/ar) | 0 | 1736 | 0.0 | /mnt/stockage/packages/f31/kcachegrind/po/ar/kcachegrind.po | 
+ | [ja](/f31/language/ja) | 0 | 4372 | 0.0 | /mnt/stockage/packages/f31/kcachegrind/po/ja/kcachegrind.po/mnt/stockage/packages/f31/kcachegrind/poqm/ja/kcachegrind_qt.po | 
 {.sortable}
 
 

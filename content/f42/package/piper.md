@@ -18,23 +18,23 @@ The package piper (version 0.8):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [be]({{< ref "/f42/language/be.md" >}}) | 481 | 481 | 100.0 | /mnt/stockage/packages/f42/piper/po/be.po | 
- | [bg]({{< ref "/f42/language/bg.md" >}}) | 492 | 492 | 100.0 | /mnt/stockage/packages/f42/piper/po/bg.po | 
- | [es]({{< ref "/f42/language/es.md" >}}) | 492 | 492 | 100.0 | /mnt/stockage/packages/f42/piper/po/es.po | 
- | [fr]({{< ref "/f42/language/fr.md" >}}) | 501 | 501 | 100.0 | /mnt/stockage/packages/f42/piper/po/fr.po | 
- | [hr]({{< ref "/f42/language/hr.md" >}}) | 492 | 492 | 100.0 | /mnt/stockage/packages/f42/piper/po/hr.po | 
- | [it]({{< ref "/f42/language/it.md" >}}) | 492 | 492 | 100.0 | /mnt/stockage/packages/f42/piper/po/it.po | 
- | [ka]({{< ref "/f42/language/ka.md" >}}) | 496 | 496 | 100.0 | /mnt/stockage/packages/f42/piper/po/ka.po | 
- | [nl]({{< ref "/f42/language/nl.md" >}}) | 499 | 499 | 100.0 | /mnt/stockage/packages/f42/piper/po/nl.po | 
- | [pl]({{< ref "/f42/language/pl.md" >}}) | 492 | 492 | 100.0 | /mnt/stockage/packages/f42/piper/po/pl.po | 
- | [ru]({{< ref "/f42/language/ru.md" >}}) | 484 | 484 | 100.0 | /mnt/stockage/packages/f42/piper/po/ru.po | 
- | [sv]({{< ref "/f42/language/sv.md" >}}) | 492 | 492 | 100.0 | /mnt/stockage/packages/f42/piper/po/sv.po | 
- | [uk]({{< ref "/f42/language/uk.md" >}}) | 481 | 481 | 100.0 | /mnt/stockage/packages/f42/piper/po/uk_UA.po | 
- | [zh_Hans]({{< ref "/f42/language/zh_Hans.md" >}}) | 485 | 485 | 100.0 | /mnt/stockage/packages/f42/piper/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f42/language/zh_Hant.md" >}}) | 492 | 492 | 100.0 | /mnt/stockage/packages/f42/piper/po/zh_TW.po | 
- | [cs]({{< ref "/f42/language/cs.md" >}}) | 484 | 485 | 99.8 | /mnt/stockage/packages/f42/piper/po/cs.po | 
- | [pt_BR]({{< ref "/f42/language/pt_BR.md" >}}) | 471 | 489 | 96.3 | /mnt/stockage/packages/f42/piper/po/pt_BR.po | 
- | [de]({{< ref "/f42/language/de.md" >}}) | 419 | 492 | 85.2 | /mnt/stockage/packages/f42/piper/po/de.po | 
+ | [be](/f42/language/be) | 481 | 481 | 100.0 | /mnt/stockage/packages/f42/piper/po/be.po | 
+ | [bg](/f42/language/bg) | 492 | 492 | 100.0 | /mnt/stockage/packages/f42/piper/po/bg.po | 
+ | [es](/f42/language/es) | 492 | 492 | 100.0 | /mnt/stockage/packages/f42/piper/po/es.po | 
+ | [fr](/f42/language/fr) | 501 | 501 | 100.0 | /mnt/stockage/packages/f42/piper/po/fr.po | 
+ | [hr](/f42/language/hr) | 492 | 492 | 100.0 | /mnt/stockage/packages/f42/piper/po/hr.po | 
+ | [it](/f42/language/it) | 492 | 492 | 100.0 | /mnt/stockage/packages/f42/piper/po/it.po | 
+ | [ka](/f42/language/ka) | 496 | 496 | 100.0 | /mnt/stockage/packages/f42/piper/po/ka.po | 
+ | [nl](/f42/language/nl) | 499 | 499 | 100.0 | /mnt/stockage/packages/f42/piper/po/nl.po | 
+ | [pl](/f42/language/pl) | 492 | 492 | 100.0 | /mnt/stockage/packages/f42/piper/po/pl.po | 
+ | [ru](/f42/language/ru) | 484 | 484 | 100.0 | /mnt/stockage/packages/f42/piper/po/ru.po | 
+ | [sv](/f42/language/sv) | 492 | 492 | 100.0 | /mnt/stockage/packages/f42/piper/po/sv.po | 
+ | [uk](/f42/language/uk) | 481 | 481 | 100.0 | /mnt/stockage/packages/f42/piper/po/uk_UA.po | 
+ | [zh_Hans](/f42/language/zh_Hans) | 485 | 485 | 100.0 | /mnt/stockage/packages/f42/piper/po/zh_CN.po | 
+ | [zh_Hant](/f42/language/zh_Hant) | 492 | 492 | 100.0 | /mnt/stockage/packages/f42/piper/po/zh_TW.po | 
+ | [cs](/f42/language/cs) | 484 | 485 | 99.8 | /mnt/stockage/packages/f42/piper/po/cs.po | 
+ | [pt_BR](/f42/language/pt_BR) | 471 | 489 | 96.3 | /mnt/stockage/packages/f42/piper/po/pt_BR.po | 
+ | [de](/f42/language/de) | 419 | 492 | 85.2 | /mnt/stockage/packages/f42/piper/po/de.po | 
 {.sortable}
 
 

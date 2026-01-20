@@ -18,32 +18,32 @@ The package conglomerate (version 0.9.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [en_CA]({{< ref "/f9/language/en_CA.md" >}}) | 6317 | 6317 | 100.0 | /mnt/stockage/packages/f9/conglomerate/po/en_CA.po | 
- | [fr]({{< ref "/f9/language/fr.md" >}}) | 6297 | 6317 | 99.7 | /mnt/stockage/packages/f9/conglomerate/po/fr.po | 
- | [de]({{< ref "/f9/language/de.md" >}}) | 3653 | 6317 | 57.8 | /mnt/stockage/packages/f9/conglomerate/po/de.po | 
- | [ru]({{< ref "/f9/language/ru.md" >}}) | 3591 | 6317 | 56.8 | /mnt/stockage/packages/f9/conglomerate/po/ru.po | 
- | [es]({{< ref "/f9/language/es.md" >}}) | 3538 | 6317 | 56.0 | /mnt/stockage/packages/f9/conglomerate/po/es.po | 
- | [nl]({{< ref "/f9/language/nl.md" >}}) | 3180 | 6317 | 50.3 | /mnt/stockage/packages/f9/conglomerate/po/nl.po | 
- | [cs]({{< ref "/f9/language/cs.md" >}}) | 3064 | 6317 | 48.5 | /mnt/stockage/packages/f9/conglomerate/po/cs.po | 
- | [en_GB]({{< ref "/f9/language/en_GB.md" >}}) | 2994 | 6317 | 47.4 | /mnt/stockage/packages/f9/conglomerate/po/en_GB.po | 
- | [uk]({{< ref "/f9/language/uk.md" >}}) | 2968 | 6317 | 47.0 | /mnt/stockage/packages/f9/conglomerate/po/uk.po | 
- | [pt_BR]({{< ref "/f9/language/pt_BR.md" >}}) | 2818 | 6317 | 44.6 | /mnt/stockage/packages/f9/conglomerate/po/pt_BR.po | 
- | [pt]({{< ref "/f9/language/pt.md" >}}) | 2777 | 6317 | 44.0 | /mnt/stockage/packages/f9/conglomerate/po/pt.po | 
- | [el]({{< ref "/f9/language/el.md" >}}) | 2722 | 6317 | 43.1 | /mnt/stockage/packages/f9/conglomerate/po/el.po | 
- | [sv]({{< ref "/f9/language/sv.md" >}}) | 2503 | 6317 | 39.6 | /mnt/stockage/packages/f9/conglomerate/po/sv.po | 
- | [error]({{< ref "/f9/language/error.md" >}}) | 2480 | 6317 | 39.3 | /mnt/stockage/packages/f9/conglomerate/po/sr@Latn.po | 
- | [sr]({{< ref "/f9/language/sr.md" >}}) | 2480 | 6317 | 39.3 | /mnt/stockage/packages/f9/conglomerate/po/sr.po | 
- | [ca]({{< ref "/f9/language/ca.md" >}}) | 2426 | 6317 | 38.4 | /mnt/stockage/packages/f9/conglomerate/po/ca.po | 
- | [pa]({{< ref "/f9/language/pa.md" >}}) | 2421 | 6317 | 38.3 | /mnt/stockage/packages/f9/conglomerate/po/pa.po | 
- | [hr]({{< ref "/f9/language/hr.md" >}}) | 2362 | 6317 | 37.4 | /mnt/stockage/packages/f9/conglomerate/po/hr.po | 
- | [pl]({{< ref "/f9/language/pl.md" >}}) | 2084 | 6317 | 33.0 | /mnt/stockage/packages/f9/conglomerate/po/pl.po | 
- | [da]({{< ref "/f9/language/da.md" >}}) | 1981 | 6317 | 31.4 | /mnt/stockage/packages/f9/conglomerate/po/da.po | 
- | [ja]({{< ref "/f9/language/ja.md" >}}) | 740 | 6317 | 11.7 | /mnt/stockage/packages/f9/conglomerate/po/ja.po | 
- | [sq]({{< ref "/f9/language/sq.md" >}}) | 540 | 6317 | 8.5 | /mnt/stockage/packages/f9/conglomerate/po/sq.po | 
- | [zh_Hans]({{< ref "/f9/language/zh_Hans.md" >}}) | 432 | 6317 | 6.8 | /mnt/stockage/packages/f9/conglomerate/po/zh_CN.po | 
- | [nb_NO]({{< ref "/f9/language/nb_NO.md" >}}) | 369 | 6317 | 5.8 | /mnt/stockage/packages/f9/conglomerate/po/no.po | 
- | [rw]({{< ref "/f9/language/rw.md" >}}) | 100 | 6317 | 1.6 | /mnt/stockage/packages/f9/conglomerate/po/rw.po | 
- | [az]({{< ref "/f9/language/az.md" >}}) | 49 | 6317 | 0.8 | /mnt/stockage/packages/f9/conglomerate/po/az.po | 
+ | [en_CA](/f9/language/en_CA) | 6317 | 6317 | 100.0 | /mnt/stockage/packages/f9/conglomerate/po/en_CA.po | 
+ | [fr](/f9/language/fr) | 6297 | 6317 | 99.7 | /mnt/stockage/packages/f9/conglomerate/po/fr.po | 
+ | [de](/f9/language/de) | 3653 | 6317 | 57.8 | /mnt/stockage/packages/f9/conglomerate/po/de.po | 
+ | [ru](/f9/language/ru) | 3591 | 6317 | 56.8 | /mnt/stockage/packages/f9/conglomerate/po/ru.po | 
+ | [es](/f9/language/es) | 3538 | 6317 | 56.0 | /mnt/stockage/packages/f9/conglomerate/po/es.po | 
+ | [nl](/f9/language/nl) | 3180 | 6317 | 50.3 | /mnt/stockage/packages/f9/conglomerate/po/nl.po | 
+ | [cs](/f9/language/cs) | 3064 | 6317 | 48.5 | /mnt/stockage/packages/f9/conglomerate/po/cs.po | 
+ | [en_GB](/f9/language/en_GB) | 2994 | 6317 | 47.4 | /mnt/stockage/packages/f9/conglomerate/po/en_GB.po | 
+ | [uk](/f9/language/uk) | 2968 | 6317 | 47.0 | /mnt/stockage/packages/f9/conglomerate/po/uk.po | 
+ | [pt_BR](/f9/language/pt_BR) | 2818 | 6317 | 44.6 | /mnt/stockage/packages/f9/conglomerate/po/pt_BR.po | 
+ | [pt](/f9/language/pt) | 2777 | 6317 | 44.0 | /mnt/stockage/packages/f9/conglomerate/po/pt.po | 
+ | [el](/f9/language/el) | 2722 | 6317 | 43.1 | /mnt/stockage/packages/f9/conglomerate/po/el.po | 
+ | [sv](/f9/language/sv) | 2503 | 6317 | 39.6 | /mnt/stockage/packages/f9/conglomerate/po/sv.po | 
+ | [error](/f9/language/error) | 2480 | 6317 | 39.3 | /mnt/stockage/packages/f9/conglomerate/po/sr@Latn.po | 
+ | [sr](/f9/language/sr) | 2480 | 6317 | 39.3 | /mnt/stockage/packages/f9/conglomerate/po/sr.po | 
+ | [ca](/f9/language/ca) | 2426 | 6317 | 38.4 | /mnt/stockage/packages/f9/conglomerate/po/ca.po | 
+ | [pa](/f9/language/pa) | 2421 | 6317 | 38.3 | /mnt/stockage/packages/f9/conglomerate/po/pa.po | 
+ | [hr](/f9/language/hr) | 2362 | 6317 | 37.4 | /mnt/stockage/packages/f9/conglomerate/po/hr.po | 
+ | [pl](/f9/language/pl) | 2084 | 6317 | 33.0 | /mnt/stockage/packages/f9/conglomerate/po/pl.po | 
+ | [da](/f9/language/da) | 1981 | 6317 | 31.4 | /mnt/stockage/packages/f9/conglomerate/po/da.po | 
+ | [ja](/f9/language/ja) | 740 | 6317 | 11.7 | /mnt/stockage/packages/f9/conglomerate/po/ja.po | 
+ | [sq](/f9/language/sq) | 540 | 6317 | 8.5 | /mnt/stockage/packages/f9/conglomerate/po/sq.po | 
+ | [zh_Hans](/f9/language/zh_Hans) | 432 | 6317 | 6.8 | /mnt/stockage/packages/f9/conglomerate/po/zh_CN.po | 
+ | [nb_NO](/f9/language/nb_NO) | 369 | 6317 | 5.8 | /mnt/stockage/packages/f9/conglomerate/po/no.po | 
+ | [rw](/f9/language/rw) | 100 | 6317 | 1.6 | /mnt/stockage/packages/f9/conglomerate/po/rw.po | 
+ | [az](/f9/language/az) | 49 | 6317 | 0.8 | /mnt/stockage/packages/f9/conglomerate/po/az.po | 
 {.sortable}
 
 

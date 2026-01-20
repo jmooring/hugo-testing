@@ -38,42 +38,42 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [kf5-kpty]({{< ref "/f31/package/kf5-kpty.md" >}}) | 15 | 15 | 100.0 | Hindi <kde-i18n-doc@lists.kde.org> | 
- | [kf5-kxmlrpcclient]({{< ref "/f31/package/kf5-kxmlrpcclient.md" >}}) | 13 | 13 | 100.0 | Hindi <indlinux-hindi@lists.sourceforge.net> | 
- | [kf5-kjsembed]({{< ref "/f31/package/kf5-kjsembed.md" >}}) | 222 | 248 | 89.5 | Hindi <kde-i18n-doc@lists.kde.org> | 
- | [kf5-ktextwidgets]({{< ref "/f31/package/kf5-ktextwidgets.md" >}}) | 399 | 473 | 84.4 | Hindi <kde-i18n-doc@lists.kde.org> | 
- | [kf5-kcmutils]({{< ref "/f31/package/kf5-kcmutils.md" >}}) | 471 | 566 | 83.2 | Hindi <kde-i18n-doc@lists.kde.org> | 
- | [kiconedit]({{< ref "/f31/package/kiconedit.md" >}}) | 585 | 726 | 80.6 | Hindi <kde-i18n-doc@lists.kde.org> | 
- | [kf5-kross]({{< ref "/f31/package/kf5-kross.md" >}}) | 80 | 100 | 80.0 | Hindi <kde-i18n-doc@lists.kde.org> | 
- | [kcoloredit]({{< ref "/f31/package/kcoloredit.md" >}}) | 174 | 278 | 62.6 | Hindi <kde-i18n-doc@lists.kde.org> | 
- | [kf5-kparts]({{< ref "/f31/package/kf5-kparts.md" >}}) | 71 | 123 | 57.7 | Hindi <kde-i18n-doc@lists.kde.org> | 
- | [kf5-khtml]({{< ref "/f31/package/kf5-khtml.md" >}}) | 922 | 1721 | 53.6 | Hindi <kde-i18n-doc@lists.kde.org> | 
- | [kgrab]({{< ref "/f31/package/kgrab.md" >}}) | 152 | 370 | 41.1 | Hindi <kde-i18n-doc@lists.kde.org> | 
- | [kf5-kconfigwidgets]({{< ref "/f31/package/kf5-kconfigwidgets.md" >}}) | 122 | 324 | 37.7 | Hindi <kde-i18n-doc@lists.kde.org> | 
- | [kf5-kdeclarative]({{< ref "/f31/package/kf5-kdeclarative.md" >}}) | 43 | 116 | 37.1 | Hindi <kde-i18n-doc@lists.kde.org> | 
- | [kf5-ki18n]({{< ref "/f31/package/kf5-ki18n.md" >}}) | 42 | 124 | 33.9 | Hindi <kde-i18n-doc@lists.kde.org> | 
- | [kdiff3]({{< ref "/f31/package/kdiff3.md" >}}) | 1125 | 3384 | 33.2 | Hindi <kde-i18n-doc@lists.kde.org> | 
- | [kf5-kxmlgui]({{< ref "/f31/package/kf5-kxmlgui.md" >}}) | 443 | 1545 | 28.7 | Hindi <kde-i18n-doc@lists.kde.org> | 
- | [kf5-knotifyconfig]({{< ref "/f31/package/kf5-knotifyconfig.md" >}}) | 34 | 129 | 26.4 | Hindi <kde-i18n-doc@lists.kde.org> | 
- | [kf5-kservice]({{< ref "/f31/package/kf5-kservice.md" >}}) | 44 | 167 | 26.3 | Hindi <kde-i18n-doc@lists.kde.org> | 
- | [kf5-kinit]({{< ref "/f31/package/kf5-kinit.md" >}}) | 32 | 134 | 23.9 | Hindi <kde-i18n-doc@lists.kde.org> | 
- | [kf5-kdelibs4support]({{< ref "/f31/package/kf5-kdelibs4support.md" >}}) | 639 | 4813 | 13.3 | Hindi <kde-i18n-doc@lists.kde.org> | 
- | [kf5-knewstuff]({{< ref "/f31/package/kf5-knewstuff.md" >}}) | 64 | 1488 | 4.3 | Hindi <kde-i18n-doc@lists.kde.org> | 
- | [kf5-kauth]({{< ref "/f31/package/kf5-kauth.md" >}}) | 0 | 73 | 0.0 | Hindi <kde-i18n-doc@lists.kde.org> | 
- | [kf5-kcodecs]({{< ref "/f31/package/kf5-kcodecs.md" >}}) | 0 | 372 | 0.0 | Hindi <kde-i18n-doc@lists.kde.org> | 
- | [kf5-kcompletion]({{< ref "/f31/package/kf5-kcompletion.md" >}}) | 0 | 18 | 0.0 | Hindi <kde-i18n-doc@lists.kde.org> | 
- | [kf5-kconfig]({{< ref "/f31/package/kf5-kconfig.md" >}}) | 0 | 269 | 0.0 | Hindi <kde-i18n-doc@lists.kde.org> | 
- | [kf5-kcoreaddons]({{< ref "/f31/package/kf5-kcoreaddons.md" >}}) | 0 | 328 | 0.0 | Hindi <kde-i18n-doc@lists.kde.org> | 
- | [kf5-kdesignerplugin]({{< ref "/f31/package/kf5-kdesignerplugin.md" >}}) | 0 | 54 | 0.0 | Hindi <kde-i18n-doc@lists.kde.org> | 
- | [kf5-kdnssd]({{< ref "/f31/package/kf5-kdnssd.md" >}}) | 0 | 3 | 0.0 | Hindi <kde-i18n-doc@lists.kde.org> | 
- | [kf5-kglobalaccel]({{< ref "/f31/package/kf5-kglobalaccel.md" >}}) | 0 | 71 | 0.0 | Hindi <kde-i18n-doc@lists.kde.org> | 
- | [kf5-kholidays]({{< ref "/f31/package/kf5-kholidays.md" >}}) | 0 | 139 | 0.0 | Hindi <kde-i18n-doc@lists.kde.org> | 
- | [kf5-kitemviews]({{< ref "/f31/package/kf5-kitemviews.md" >}}) | 0 | 7 | 0.0 | Hindi <kde-i18n-doc@lists.kde.org> | 
- | [kf5-kjobwidgets]({{< ref "/f31/package/kf5-kjobwidgets.md" >}}) | 0 | 133 | 0.0 | Hindi <kde-i18n-doc@lists.kde.org> | 
- | [kf5-knotifications]({{< ref "/f31/package/kf5-knotifications.md" >}}) | 0 | 20 | 0.0 | Hindi <kde-i18n-doc@lists.kde.org> | 
- | [kf5-kwidgetsaddons]({{< ref "/f31/package/kf5-kwidgetsaddons.md" >}}) | 0 | 1267 | 0.0 | Hindi <kde-i18n-doc@lists.kde.org> | 
- | [kf5-kwindowsystem]({{< ref "/f31/package/kf5-kwindowsystem.md" >}}) | 0 | 2 | 0.0 | Hindi <kde-i18n-doc@lists.kde.org> | 
- | [kf5-sonnet]({{< ref "/f31/package/kf5-sonnet.md" >}}) | 0 | 667 | 0.0 | Hindi <kde-i18n-doc@lists.kde.org> | 
+ | [kf5-kpty](/f31/package/kf5-kpty) | 15 | 15 | 100.0 | Hindi <kde-i18n-doc@lists.kde.org> | 
+ | [kf5-kxmlrpcclient](/f31/package/kf5-kxmlrpcclient) | 13 | 13 | 100.0 | Hindi <indlinux-hindi@lists.sourceforge.net> | 
+ | [kf5-kjsembed](/f31/package/kf5-kjsembed) | 222 | 248 | 89.5 | Hindi <kde-i18n-doc@lists.kde.org> | 
+ | [kf5-ktextwidgets](/f31/package/kf5-ktextwidgets) | 399 | 473 | 84.4 | Hindi <kde-i18n-doc@lists.kde.org> | 
+ | [kf5-kcmutils](/f31/package/kf5-kcmutils) | 471 | 566 | 83.2 | Hindi <kde-i18n-doc@lists.kde.org> | 
+ | [kiconedit](/f31/package/kiconedit) | 585 | 726 | 80.6 | Hindi <kde-i18n-doc@lists.kde.org> | 
+ | [kf5-kross](/f31/package/kf5-kross) | 80 | 100 | 80.0 | Hindi <kde-i18n-doc@lists.kde.org> | 
+ | [kcoloredit](/f31/package/kcoloredit) | 174 | 278 | 62.6 | Hindi <kde-i18n-doc@lists.kde.org> | 
+ | [kf5-kparts](/f31/package/kf5-kparts) | 71 | 123 | 57.7 | Hindi <kde-i18n-doc@lists.kde.org> | 
+ | [kf5-khtml](/f31/package/kf5-khtml) | 922 | 1721 | 53.6 | Hindi <kde-i18n-doc@lists.kde.org> | 
+ | [kgrab](/f31/package/kgrab) | 152 | 370 | 41.1 | Hindi <kde-i18n-doc@lists.kde.org> | 
+ | [kf5-kconfigwidgets](/f31/package/kf5-kconfigwidgets) | 122 | 324 | 37.7 | Hindi <kde-i18n-doc@lists.kde.org> | 
+ | [kf5-kdeclarative](/f31/package/kf5-kdeclarative) | 43 | 116 | 37.1 | Hindi <kde-i18n-doc@lists.kde.org> | 
+ | [kf5-ki18n](/f31/package/kf5-ki18n) | 42 | 124 | 33.9 | Hindi <kde-i18n-doc@lists.kde.org> | 
+ | [kdiff3](/f31/package/kdiff3) | 1125 | 3384 | 33.2 | Hindi <kde-i18n-doc@lists.kde.org> | 
+ | [kf5-kxmlgui](/f31/package/kf5-kxmlgui) | 443 | 1545 | 28.7 | Hindi <kde-i18n-doc@lists.kde.org> | 
+ | [kf5-knotifyconfig](/f31/package/kf5-knotifyconfig) | 34 | 129 | 26.4 | Hindi <kde-i18n-doc@lists.kde.org> | 
+ | [kf5-kservice](/f31/package/kf5-kservice) | 44 | 167 | 26.3 | Hindi <kde-i18n-doc@lists.kde.org> | 
+ | [kf5-kinit](/f31/package/kf5-kinit) | 32 | 134 | 23.9 | Hindi <kde-i18n-doc@lists.kde.org> | 
+ | [kf5-kdelibs4support](/f31/package/kf5-kdelibs4support) | 639 | 4813 | 13.3 | Hindi <kde-i18n-doc@lists.kde.org> | 
+ | [kf5-knewstuff](/f31/package/kf5-knewstuff) | 64 | 1488 | 4.3 | Hindi <kde-i18n-doc@lists.kde.org> | 
+ | [kf5-kauth](/f31/package/kf5-kauth) | 0 | 73 | 0.0 | Hindi <kde-i18n-doc@lists.kde.org> | 
+ | [kf5-kcodecs](/f31/package/kf5-kcodecs) | 0 | 372 | 0.0 | Hindi <kde-i18n-doc@lists.kde.org> | 
+ | [kf5-kcompletion](/f31/package/kf5-kcompletion) | 0 | 18 | 0.0 | Hindi <kde-i18n-doc@lists.kde.org> | 
+ | [kf5-kconfig](/f31/package/kf5-kconfig) | 0 | 269 | 0.0 | Hindi <kde-i18n-doc@lists.kde.org> | 
+ | [kf5-kcoreaddons](/f31/package/kf5-kcoreaddons) | 0 | 328 | 0.0 | Hindi <kde-i18n-doc@lists.kde.org> | 
+ | [kf5-kdesignerplugin](/f31/package/kf5-kdesignerplugin) | 0 | 54 | 0.0 | Hindi <kde-i18n-doc@lists.kde.org> | 
+ | [kf5-kdnssd](/f31/package/kf5-kdnssd) | 0 | 3 | 0.0 | Hindi <kde-i18n-doc@lists.kde.org> | 
+ | [kf5-kglobalaccel](/f31/package/kf5-kglobalaccel) | 0 | 71 | 0.0 | Hindi <kde-i18n-doc@lists.kde.org> | 
+ | [kf5-kholidays](/f31/package/kf5-kholidays) | 0 | 139 | 0.0 | Hindi <kde-i18n-doc@lists.kde.org> | 
+ | [kf5-kitemviews](/f31/package/kf5-kitemviews) | 0 | 7 | 0.0 | Hindi <kde-i18n-doc@lists.kde.org> | 
+ | [kf5-kjobwidgets](/f31/package/kf5-kjobwidgets) | 0 | 133 | 0.0 | Hindi <kde-i18n-doc@lists.kde.org> | 
+ | [kf5-knotifications](/f31/package/kf5-knotifications) | 0 | 20 | 0.0 | Hindi <kde-i18n-doc@lists.kde.org> | 
+ | [kf5-kwidgetsaddons](/f31/package/kf5-kwidgetsaddons) | 0 | 1267 | 0.0 | Hindi <kde-i18n-doc@lists.kde.org> | 
+ | [kf5-kwindowsystem](/f31/package/kf5-kwindowsystem) | 0 | 2 | 0.0 | Hindi <kde-i18n-doc@lists.kde.org> | 
+ | [kf5-sonnet](/f31/package/kf5-sonnet) | 0 | 667 | 0.0 | Hindi <kde-i18n-doc@lists.kde.org> | 
 {.sortable}
 
 

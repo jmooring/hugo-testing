@@ -38,7 +38,7 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [iso-codes]({{< ref "/f8/package/iso-codes.md" >}}) | 259 | 12174 | 2.1 | Kokanki | 
+ | [iso-codes](/f8/package/iso-codes) | 259 | 12174 | 2.1 | Kokanki | 
 {.sortable}
 
 

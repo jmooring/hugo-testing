@@ -18,42 +18,42 @@ The package xfce4-screensaver (version 4.18.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [bg]({{< ref "/f41/language/bg.md" >}}) | 757 | 757 | 100.0 | /mnt/stockage/packages/f41/xfce4-screensaver/po/bg.po | 
- | [ca]({{< ref "/f41/language/ca.md" >}}) | 757 | 757 | 100.0 | /mnt/stockage/packages/f41/xfce4-screensaver/po/ca.po | 
- | [da]({{< ref "/f41/language/da.md" >}}) | 757 | 757 | 100.0 | /mnt/stockage/packages/f41/xfce4-screensaver/po/da.po | 
- | [de]({{< ref "/f41/language/de.md" >}}) | 757 | 757 | 100.0 | /mnt/stockage/packages/f41/xfce4-screensaver/po/de.po | 
- | [es]({{< ref "/f41/language/es.md" >}}) | 757 | 757 | 100.0 | /mnt/stockage/packages/f41/xfce4-screensaver/po/es.po | 
- | [fr]({{< ref "/f41/language/fr.md" >}}) | 757 | 757 | 100.0 | /mnt/stockage/packages/f41/xfce4-screensaver/po/fr.po | 
- | [he]({{< ref "/f41/language/he.md" >}}) | 757 | 757 | 100.0 | /mnt/stockage/packages/f41/xfce4-screensaver/po/he.po | 
- | [it]({{< ref "/f41/language/it.md" >}}) | 757 | 757 | 100.0 | /mnt/stockage/packages/f41/xfce4-screensaver/po/it.po | 
- | [ja]({{< ref "/f41/language/ja.md" >}}) | 757 | 757 | 100.0 | /mnt/stockage/packages/f41/xfce4-screensaver/po/ja.po | 
- | [ko]({{< ref "/f41/language/ko.md" >}}) | 757 | 757 | 100.0 | /mnt/stockage/packages/f41/xfce4-screensaver/po/ko.po | 
- | [lt]({{< ref "/f41/language/lt.md" >}}) | 757 | 757 | 100.0 | /mnt/stockage/packages/f41/xfce4-screensaver/po/lt.po | 
- | [nb_NO]({{< ref "/f41/language/nb_NO.md" >}}) | 757 | 757 | 100.0 | /mnt/stockage/packages/f41/xfce4-screensaver/po/nb.po | 
- | [nl]({{< ref "/f41/language/nl.md" >}}) | 757 | 757 | 100.0 | /mnt/stockage/packages/f41/xfce4-screensaver/po/nl.po | 
- | [pl]({{< ref "/f41/language/pl.md" >}}) | 757 | 757 | 100.0 | /mnt/stockage/packages/f41/xfce4-screensaver/po/pl.po | 
- | [pt]({{< ref "/f41/language/pt.md" >}}) | 757 | 757 | 100.0 | /mnt/stockage/packages/f41/xfce4-screensaver/po/pt.po | 
- | [pt_BR]({{< ref "/f41/language/pt_BR.md" >}}) | 757 | 757 | 100.0 | /mnt/stockage/packages/f41/xfce4-screensaver/po/pt_BR.po | 
- | [ru]({{< ref "/f41/language/ru.md" >}}) | 757 | 757 | 100.0 | /mnt/stockage/packages/f41/xfce4-screensaver/po/ru.po | 
- | [sl]({{< ref "/f41/language/sl.md" >}}) | 757 | 757 | 100.0 | /mnt/stockage/packages/f41/xfce4-screensaver/po/sl.po | 
- | [sq]({{< ref "/f41/language/sq.md" >}}) | 757 | 757 | 100.0 | /mnt/stockage/packages/f41/xfce4-screensaver/po/sq.po | 
- | [sr]({{< ref "/f41/language/sr.md" >}}) | 757 | 757 | 100.0 | /mnt/stockage/packages/f41/xfce4-screensaver/po/sr.po | 
- | [sv]({{< ref "/f41/language/sv.md" >}}) | 757 | 757 | 100.0 | /mnt/stockage/packages/f41/xfce4-screensaver/po/sv.po | 
- | [tr]({{< ref "/f41/language/tr.md" >}}) | 757 | 757 | 100.0 | /mnt/stockage/packages/f41/xfce4-screensaver/po/tr.po | 
- | [zh_Hans]({{< ref "/f41/language/zh_Hans.md" >}}) | 757 | 757 | 100.0 | /mnt/stockage/packages/f41/xfce4-screensaver/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f41/language/zh_Hant.md" >}}) | 757 | 757 | 100.0 | /mnt/stockage/packages/f41/xfce4-screensaver/po/zh_TW.po | 
- | [eu]({{< ref "/f41/language/eu.md" >}}) | 693 | 757 | 91.5 | /mnt/stockage/packages/f41/xfce4-screensaver/po/eu.po | 
- | [cs]({{< ref "/f41/language/cs.md" >}}) | 656 | 757 | 86.7 | /mnt/stockage/packages/f41/xfce4-screensaver/po/cs.po | 
- | [hy]({{< ref "/f41/language/hy.md" >}}) | 643 | 743 | 86.5 | /mnt/stockage/packages/f41/xfce4-screensaver/po/hy_AM.po | 
- | [be]({{< ref "/f41/language/be.md" >}}) | 650 | 757 | 85.9 | /mnt/stockage/packages/f41/xfce4-screensaver/po/be.po | 
- | [gl]({{< ref "/f41/language/gl.md" >}}) | 650 | 757 | 85.9 | /mnt/stockage/packages/f41/xfce4-screensaver/po/gl.po | 
- | [hu]({{< ref "/f41/language/hu.md" >}}) | 650 | 757 | 85.9 | /mnt/stockage/packages/f41/xfce4-screensaver/po/hu.po | 
- | [ms]({{< ref "/f41/language/ms.md" >}}) | 650 | 757 | 85.9 | /mnt/stockage/packages/f41/xfce4-screensaver/po/ms.po | 
- | [th]({{< ref "/f41/language/th.md" >}}) | 650 | 757 | 85.9 | /mnt/stockage/packages/f41/xfce4-screensaver/po/th.po | 
- | [fi]({{< ref "/f41/language/fi.md" >}}) | 602 | 743 | 81.0 | /mnt/stockage/packages/f41/xfce4-screensaver/po/fi.po | 
- | [en_AU]({{< ref "/f41/language/en_AU.md" >}}) | 596 | 743 | 80.2 | /mnt/stockage/packages/f41/xfce4-screensaver/po/en_AU.po | 
- | [is]({{< ref "/f41/language/is.md" >}}) | 596 | 743 | 80.2 | /mnt/stockage/packages/f41/xfce4-screensaver/po/is.po | 
- | [sk]({{< ref "/f41/language/sk.md" >}}) | 316 | 743 | 42.5 | /mnt/stockage/packages/f41/xfce4-screensaver/po/sk.po | 
+ | [bg](/f41/language/bg) | 757 | 757 | 100.0 | /mnt/stockage/packages/f41/xfce4-screensaver/po/bg.po | 
+ | [ca](/f41/language/ca) | 757 | 757 | 100.0 | /mnt/stockage/packages/f41/xfce4-screensaver/po/ca.po | 
+ | [da](/f41/language/da) | 757 | 757 | 100.0 | /mnt/stockage/packages/f41/xfce4-screensaver/po/da.po | 
+ | [de](/f41/language/de) | 757 | 757 | 100.0 | /mnt/stockage/packages/f41/xfce4-screensaver/po/de.po | 
+ | [es](/f41/language/es) | 757 | 757 | 100.0 | /mnt/stockage/packages/f41/xfce4-screensaver/po/es.po | 
+ | [fr](/f41/language/fr) | 757 | 757 | 100.0 | /mnt/stockage/packages/f41/xfce4-screensaver/po/fr.po | 
+ | [he](/f41/language/he) | 757 | 757 | 100.0 | /mnt/stockage/packages/f41/xfce4-screensaver/po/he.po | 
+ | [it](/f41/language/it) | 757 | 757 | 100.0 | /mnt/stockage/packages/f41/xfce4-screensaver/po/it.po | 
+ | [ja](/f41/language/ja) | 757 | 757 | 100.0 | /mnt/stockage/packages/f41/xfce4-screensaver/po/ja.po | 
+ | [ko](/f41/language/ko) | 757 | 757 | 100.0 | /mnt/stockage/packages/f41/xfce4-screensaver/po/ko.po | 
+ | [lt](/f41/language/lt) | 757 | 757 | 100.0 | /mnt/stockage/packages/f41/xfce4-screensaver/po/lt.po | 
+ | [nb_NO](/f41/language/nb_NO) | 757 | 757 | 100.0 | /mnt/stockage/packages/f41/xfce4-screensaver/po/nb.po | 
+ | [nl](/f41/language/nl) | 757 | 757 | 100.0 | /mnt/stockage/packages/f41/xfce4-screensaver/po/nl.po | 
+ | [pl](/f41/language/pl) | 757 | 757 | 100.0 | /mnt/stockage/packages/f41/xfce4-screensaver/po/pl.po | 
+ | [pt](/f41/language/pt) | 757 | 757 | 100.0 | /mnt/stockage/packages/f41/xfce4-screensaver/po/pt.po | 
+ | [pt_BR](/f41/language/pt_BR) | 757 | 757 | 100.0 | /mnt/stockage/packages/f41/xfce4-screensaver/po/pt_BR.po | 
+ | [ru](/f41/language/ru) | 757 | 757 | 100.0 | /mnt/stockage/packages/f41/xfce4-screensaver/po/ru.po | 
+ | [sl](/f41/language/sl) | 757 | 757 | 100.0 | /mnt/stockage/packages/f41/xfce4-screensaver/po/sl.po | 
+ | [sq](/f41/language/sq) | 757 | 757 | 100.0 | /mnt/stockage/packages/f41/xfce4-screensaver/po/sq.po | 
+ | [sr](/f41/language/sr) | 757 | 757 | 100.0 | /mnt/stockage/packages/f41/xfce4-screensaver/po/sr.po | 
+ | [sv](/f41/language/sv) | 757 | 757 | 100.0 | /mnt/stockage/packages/f41/xfce4-screensaver/po/sv.po | 
+ | [tr](/f41/language/tr) | 757 | 757 | 100.0 | /mnt/stockage/packages/f41/xfce4-screensaver/po/tr.po | 
+ | [zh_Hans](/f41/language/zh_Hans) | 757 | 757 | 100.0 | /mnt/stockage/packages/f41/xfce4-screensaver/po/zh_CN.po | 
+ | [zh_Hant](/f41/language/zh_Hant) | 757 | 757 | 100.0 | /mnt/stockage/packages/f41/xfce4-screensaver/po/zh_TW.po | 
+ | [eu](/f41/language/eu) | 693 | 757 | 91.5 | /mnt/stockage/packages/f41/xfce4-screensaver/po/eu.po | 
+ | [cs](/f41/language/cs) | 656 | 757 | 86.7 | /mnt/stockage/packages/f41/xfce4-screensaver/po/cs.po | 
+ | [hy](/f41/language/hy) | 643 | 743 | 86.5 | /mnt/stockage/packages/f41/xfce4-screensaver/po/hy_AM.po | 
+ | [be](/f41/language/be) | 650 | 757 | 85.9 | /mnt/stockage/packages/f41/xfce4-screensaver/po/be.po | 
+ | [gl](/f41/language/gl) | 650 | 757 | 85.9 | /mnt/stockage/packages/f41/xfce4-screensaver/po/gl.po | 
+ | [hu](/f41/language/hu) | 650 | 757 | 85.9 | /mnt/stockage/packages/f41/xfce4-screensaver/po/hu.po | 
+ | [ms](/f41/language/ms) | 650 | 757 | 85.9 | /mnt/stockage/packages/f41/xfce4-screensaver/po/ms.po | 
+ | [th](/f41/language/th) | 650 | 757 | 85.9 | /mnt/stockage/packages/f41/xfce4-screensaver/po/th.po | 
+ | [fi](/f41/language/fi) | 602 | 743 | 81.0 | /mnt/stockage/packages/f41/xfce4-screensaver/po/fi.po | 
+ | [en_AU](/f41/language/en_AU) | 596 | 743 | 80.2 | /mnt/stockage/packages/f41/xfce4-screensaver/po/en_AU.po | 
+ | [is](/f41/language/is) | 596 | 743 | 80.2 | /mnt/stockage/packages/f41/xfce4-screensaver/po/is.po | 
+ | [sk](/f41/language/sk) | 316 | 743 | 42.5 | /mnt/stockage/packages/f41/xfce4-screensaver/po/sk.po | 
 {.sortable}
 
 

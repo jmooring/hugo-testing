@@ -18,8 +18,8 @@ The package libsecret (version 0.12):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ja]({{< ref "/f18/language/ja.md" >}}) | 44 | 44 | 100.0 | /mnt/stockage/packages/f18/libsecret/po/ja.po | 
- | [pl]({{< ref "/f18/language/pl.md" >}}) | 44 | 44 | 100.0 | /mnt/stockage/packages/f18/libsecret/po/pl.po | 
+ | [ja](/f18/language/ja) | 44 | 44 | 100.0 | /mnt/stockage/packages/f18/libsecret/po/ja.po | 
+ | [pl](/f18/language/pl) | 44 | 44 | 100.0 | /mnt/stockage/packages/f18/libsecret/po/pl.po | 
 {.sortable}
 
 

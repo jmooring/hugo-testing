@@ -18,25 +18,25 @@ The package openstack-heat (version 2013.2.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [bs]({{< ref "/f20/language/bs.md" >}}) | 0 | 4648 | 0.0 | /mnt/stockage/packages/f20/openstack-heat/heat/locale/bs/LC_MESSAGES/heat.po | 
- | [cs]({{< ref "/f20/language/cs.md" >}}) | 0 | 4648 | 0.0 | /mnt/stockage/packages/f20/openstack-heat/heat/locale/cs/LC_MESSAGES/heat.po | 
- | [da]({{< ref "/f20/language/da.md" >}}) | 0 | 4648 | 0.0 | /mnt/stockage/packages/f20/openstack-heat/heat/locale/da/LC_MESSAGES/heat.po | 
- | [de]({{< ref "/f20/language/de.md" >}}) | 0 | 4648 | 0.0 | /mnt/stockage/packages/f20/openstack-heat/heat/locale/de/LC_MESSAGES/heat.po | 
- | [en_AU]({{< ref "/f20/language/en_AU.md" >}}) | 0 | 4648 | 0.0 | /mnt/stockage/packages/f20/openstack-heat/heat/locale/en_AU/LC_MESSAGES/heat.po | 
- | [en_GB]({{< ref "/f20/language/en_GB.md" >}}) | 0 | 4648 | 0.0 | /mnt/stockage/packages/f20/openstack-heat/heat/locale/en_GB/LC_MESSAGES/heat.po | 
- | [en_US]({{< ref "/f20/language/en_US.md" >}}) | 0 | 4648 | 0.0 | /mnt/stockage/packages/f20/openstack-heat/heat/locale/en_US/LC_MESSAGES/heat.po | 
- | [es]({{< ref "/f20/language/es.md" >}}) | 0 | 4648 | 0.0 | /mnt/stockage/packages/f20/openstack-heat/heat/locale/es/LC_MESSAGES/heat.po | 
- | [fr]({{< ref "/f20/language/fr.md" >}}) | 0 | 4648 | 0.0 | /mnt/stockage/packages/f20/openstack-heat/heat/locale/fr/LC_MESSAGES/heat.po | 
- | [it]({{< ref "/f20/language/it.md" >}}) | 0 | 4648 | 0.0 | /mnt/stockage/packages/f20/openstack-heat/heat/locale/it/LC_MESSAGES/heat.po | 
- | [ja]({{< ref "/f20/language/ja.md" >}}) | 0 | 4648 | 0.0 | /mnt/stockage/packages/f20/openstack-heat/heat/locale/ja/LC_MESSAGES/heat.po | 
- | [ko]({{< ref "/f20/language/ko.md" >}}) | 0 | 4648 | 0.0 | /mnt/stockage/packages/f20/openstack-heat/heat/locale/ko/LC_MESSAGES/heat.po | 
- | [pt_BR]({{< ref "/f20/language/pt_BR.md" >}}) | 0 | 4648 | 0.0 | /mnt/stockage/packages/f20/openstack-heat/heat/locale/pt_BR/LC_MESSAGES/heat.po | 
- | [ru]({{< ref "/f20/language/ru.md" >}}) | 0 | 4648 | 0.0 | /mnt/stockage/packages/f20/openstack-heat/heat/locale/ru/LC_MESSAGES/heat.po | 
- | [tl]({{< ref "/f20/language/tl.md" >}}) | 0 | 4648 | 0.0 | /mnt/stockage/packages/f20/openstack-heat/heat/locale/tl/LC_MESSAGES/heat.po | 
- | [tr]({{< ref "/f20/language/tr.md" >}}) | 0 | 4648 | 0.0 | /mnt/stockage/packages/f20/openstack-heat/heat/locale/tr/LC_MESSAGES/heat.po | 
- | [uk]({{< ref "/f20/language/uk.md" >}}) | 0 | 4648 | 0.0 | /mnt/stockage/packages/f20/openstack-heat/heat/locale/uk/LC_MESSAGES/heat.po | 
- | [zh_Hans]({{< ref "/f20/language/zh_Hans.md" >}}) | 0 | 4648 | 0.0 | /mnt/stockage/packages/f20/openstack-heat/heat/locale/zh_CN/LC_MESSAGES/heat.po | 
- | [zh_Hant]({{< ref "/f20/language/zh_Hant.md" >}}) | 0 | 4648 | 0.0 | /mnt/stockage/packages/f20/openstack-heat/heat/locale/zh_TW/LC_MESSAGES/heat.po | 
+ | [bs](/f20/language/bs) | 0 | 4648 | 0.0 | /mnt/stockage/packages/f20/openstack-heat/heat/locale/bs/LC_MESSAGES/heat.po | 
+ | [cs](/f20/language/cs) | 0 | 4648 | 0.0 | /mnt/stockage/packages/f20/openstack-heat/heat/locale/cs/LC_MESSAGES/heat.po | 
+ | [da](/f20/language/da) | 0 | 4648 | 0.0 | /mnt/stockage/packages/f20/openstack-heat/heat/locale/da/LC_MESSAGES/heat.po | 
+ | [de](/f20/language/de) | 0 | 4648 | 0.0 | /mnt/stockage/packages/f20/openstack-heat/heat/locale/de/LC_MESSAGES/heat.po | 
+ | [en_AU](/f20/language/en_AU) | 0 | 4648 | 0.0 | /mnt/stockage/packages/f20/openstack-heat/heat/locale/en_AU/LC_MESSAGES/heat.po | 
+ | [en_GB](/f20/language/en_GB) | 0 | 4648 | 0.0 | /mnt/stockage/packages/f20/openstack-heat/heat/locale/en_GB/LC_MESSAGES/heat.po | 
+ | [en_US](/f20/language/en_US) | 0 | 4648 | 0.0 | /mnt/stockage/packages/f20/openstack-heat/heat/locale/en_US/LC_MESSAGES/heat.po | 
+ | [es](/f20/language/es) | 0 | 4648 | 0.0 | /mnt/stockage/packages/f20/openstack-heat/heat/locale/es/LC_MESSAGES/heat.po | 
+ | [fr](/f20/language/fr) | 0 | 4648 | 0.0 | /mnt/stockage/packages/f20/openstack-heat/heat/locale/fr/LC_MESSAGES/heat.po | 
+ | [it](/f20/language/it) | 0 | 4648 | 0.0 | /mnt/stockage/packages/f20/openstack-heat/heat/locale/it/LC_MESSAGES/heat.po | 
+ | [ja](/f20/language/ja) | 0 | 4648 | 0.0 | /mnt/stockage/packages/f20/openstack-heat/heat/locale/ja/LC_MESSAGES/heat.po | 
+ | [ko](/f20/language/ko) | 0 | 4648 | 0.0 | /mnt/stockage/packages/f20/openstack-heat/heat/locale/ko/LC_MESSAGES/heat.po | 
+ | [pt_BR](/f20/language/pt_BR) | 0 | 4648 | 0.0 | /mnt/stockage/packages/f20/openstack-heat/heat/locale/pt_BR/LC_MESSAGES/heat.po | 
+ | [ru](/f20/language/ru) | 0 | 4648 | 0.0 | /mnt/stockage/packages/f20/openstack-heat/heat/locale/ru/LC_MESSAGES/heat.po | 
+ | [tl](/f20/language/tl) | 0 | 4648 | 0.0 | /mnt/stockage/packages/f20/openstack-heat/heat/locale/tl/LC_MESSAGES/heat.po | 
+ | [tr](/f20/language/tr) | 0 | 4648 | 0.0 | /mnt/stockage/packages/f20/openstack-heat/heat/locale/tr/LC_MESSAGES/heat.po | 
+ | [uk](/f20/language/uk) | 0 | 4648 | 0.0 | /mnt/stockage/packages/f20/openstack-heat/heat/locale/uk/LC_MESSAGES/heat.po | 
+ | [zh_Hans](/f20/language/zh_Hans) | 0 | 4648 | 0.0 | /mnt/stockage/packages/f20/openstack-heat/heat/locale/zh_CN/LC_MESSAGES/heat.po | 
+ | [zh_Hant](/f20/language/zh_Hant) | 0 | 4648 | 0.0 | /mnt/stockage/packages/f20/openstack-heat/heat/locale/zh_TW/LC_MESSAGES/heat.po | 
 {.sortable}
 
 

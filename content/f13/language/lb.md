@@ -38,9 +38,9 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [geany]({{< ref "/f13/package/geany.md" >}}) | 4638 | 5469 | 84.8 | Letzebuergesch | 
- | [Miro]({{< ref "/f13/package/Miro.md" >}}) | 174 | 3336 | 5.2 | Luxembourgish <lb@li.org> | 
- | [vidalia]({{< ref "/f13/package/vidalia.md" >}}) | 0 | 10375 | 0.0 | translations@vidalia-project.net | 
+ | [geany](/f13/package/geany) | 4638 | 5469 | 84.8 | Letzebuergesch | 
+ | [Miro](/f13/package/Miro) | 174 | 3336 | 5.2 | Luxembourgish <lb@li.org> | 
+ | [vidalia](/f13/package/vidalia) | 0 | 10375 | 0.0 | translations@vidalia-project.net | 
 {.sortable}
 
 

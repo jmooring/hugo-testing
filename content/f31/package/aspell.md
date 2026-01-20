@@ -18,41 +18,41 @@ The package aspell (version 0.60.8):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f31/language/de.md" >}}) | 1797 | 1797 | 100.0 | /mnt/stockage/packages/f31/aspell/po/de.po | 
- | [fr]({{< ref "/f31/language/fr.md" >}}) | 1797 | 1797 | 100.0 | /mnt/stockage/packages/f31/aspell/po/fr.po | 
- | [hr]({{< ref "/f31/language/hr.md" >}}) | 1797 | 1797 | 100.0 | /mnt/stockage/packages/f31/aspell/po/hr.po | 
- | [nl]({{< ref "/f31/language/nl.md" >}}) | 1797 | 1797 | 100.0 | /mnt/stockage/packages/f31/aspell/po/nl.po | 
- | [pl]({{< ref "/f31/language/pl.md" >}}) | 1797 | 1797 | 100.0 | /mnt/stockage/packages/f31/aspell/po/pl.po | 
- | [pt]({{< ref "/f31/language/pt.md" >}}) | 1797 | 1797 | 100.0 | /mnt/stockage/packages/f31/aspell/po/pt.po | 
- | [pt_BR]({{< ref "/f31/language/pt_BR.md" >}}) | 1797 | 1797 | 100.0 | /mnt/stockage/packages/f31/aspell/po/pt_BR.po | 
- | [ro]({{< ref "/f31/language/ro.md" >}}) | 1797 | 1797 | 100.0 | /mnt/stockage/packages/f31/aspell/po/ro.po | 
- | [ru]({{< ref "/f31/language/ru.md" >}}) | 1797 | 1797 | 100.0 | /mnt/stockage/packages/f31/aspell/po/ru.po | 
- | [sl]({{< ref "/f31/language/sl.md" >}}) | 1797 | 1797 | 100.0 | /mnt/stockage/packages/f31/aspell/po/sl.po | 
- | [uk]({{< ref "/f31/language/uk.md" >}}) | 1797 | 1797 | 100.0 | /mnt/stockage/packages/f31/aspell/po/uk.po | 
- | [ja]({{< ref "/f31/language/ja.md" >}}) | 1767 | 1797 | 98.3 | /mnt/stockage/packages/f31/aspell/po/ja.po | 
- | [zh_Hans]({{< ref "/f31/language/zh_Hans.md" >}}) | 1739 | 1797 | 96.8 | /mnt/stockage/packages/f31/aspell/po/zh_CN.po | 
- | [cs]({{< ref "/f31/language/cs.md" >}}) | 1706 | 1797 | 94.9 | /mnt/stockage/packages/f31/aspell/po/cs.po | 
- | [da]({{< ref "/f31/language/da.md" >}}) | 1706 | 1797 | 94.9 | /mnt/stockage/packages/f31/aspell/po/da.po | 
- | [eo]({{< ref "/f31/language/eo.md" >}}) | 1706 | 1797 | 94.9 | /mnt/stockage/packages/f31/aspell/po/eo.po | 
- | [fi]({{< ref "/f31/language/fi.md" >}}) | 1706 | 1797 | 94.9 | /mnt/stockage/packages/f31/aspell/po/fi.po | 
- | [ga]({{< ref "/f31/language/ga.md" >}}) | 1706 | 1797 | 94.9 | /mnt/stockage/packages/f31/aspell/po/ga.po | 
- | [sk]({{< ref "/f31/language/sk.md" >}}) | 1706 | 1797 | 94.9 | /mnt/stockage/packages/f31/aspell/po/sk.po | 
- | [sr]({{< ref "/f31/language/sr.md" >}}) | 1706 | 1797 | 94.9 | /mnt/stockage/packages/f31/aspell/po/sr.po | 
- | [sv]({{< ref "/f31/language/sv.md" >}}) | 1706 | 1797 | 94.9 | /mnt/stockage/packages/f31/aspell/po/sv.po | 
- | [vi]({{< ref "/f31/language/vi.md" >}}) | 1706 | 1797 | 94.9 | /mnt/stockage/packages/f31/aspell/po/vi.po | 
- | [ast]({{< ref "/f31/language/ast.md" >}}) | 1697 | 1797 | 94.4 | /mnt/stockage/packages/f31/aspell/po/ast.po | 
- | [es]({{< ref "/f31/language/es.md" >}}) | 1697 | 1797 | 94.4 | /mnt/stockage/packages/f31/aspell/po/es.po | 
- | [id]({{< ref "/f31/language/id.md" >}}) | 1697 | 1797 | 94.4 | /mnt/stockage/packages/f31/aspell/po/id.po | 
- | [it]({{< ref "/f31/language/it.md" >}}) | 1697 | 1797 | 94.4 | /mnt/stockage/packages/f31/aspell/po/it.po | 
- | [ca]({{< ref "/f31/language/ca.md" >}}) | 1665 | 1797 | 92.7 | /mnt/stockage/packages/f31/aspell/po/ca.po | 
- | [en_GB]({{< ref "/f31/language/en_GB.md" >}}) | 1526 | 1797 | 84.9 | /mnt/stockage/packages/f31/aspell/po/en_GB.po | 
- | [mn]({{< ref "/f31/language/mn.md" >}}) | 1526 | 1797 | 84.9 | /mnt/stockage/packages/f31/aspell/po/mn.po | 
- | [fur]({{< ref "/f31/language/fur.md" >}}) | 1313 | 1797 | 73.1 | /mnt/stockage/packages/f31/aspell/po/fur.po | 
- | [wa]({{< ref "/f31/language/wa.md" >}}) | 965 | 1797 | 53.7 | /mnt/stockage/packages/f31/aspell/po/wa.po | 
- | [tg]({{< ref "/f31/language/tg.md" >}}) | 582 | 1797 | 32.4 | /mnt/stockage/packages/f31/aspell/po/tg.po | 
- | [be]({{< ref "/f31/language/be.md" >}}) | 409 | 1797 | 22.8 | /mnt/stockage/packages/f31/aspell/po/be.po | 
- | [ms]({{< ref "/f31/language/ms.md" >}}) | 95 | 1797 | 5.3 | /mnt/stockage/packages/f31/aspell/po/ms.po | 
- | [rw]({{< ref "/f31/language/rw.md" >}}) | 20 | 1797 | 1.1 | /mnt/stockage/packages/f31/aspell/po/rw.po | 
+ | [de](/f31/language/de) | 1797 | 1797 | 100.0 | /mnt/stockage/packages/f31/aspell/po/de.po | 
+ | [fr](/f31/language/fr) | 1797 | 1797 | 100.0 | /mnt/stockage/packages/f31/aspell/po/fr.po | 
+ | [hr](/f31/language/hr) | 1797 | 1797 | 100.0 | /mnt/stockage/packages/f31/aspell/po/hr.po | 
+ | [nl](/f31/language/nl) | 1797 | 1797 | 100.0 | /mnt/stockage/packages/f31/aspell/po/nl.po | 
+ | [pl](/f31/language/pl) | 1797 | 1797 | 100.0 | /mnt/stockage/packages/f31/aspell/po/pl.po | 
+ | [pt](/f31/language/pt) | 1797 | 1797 | 100.0 | /mnt/stockage/packages/f31/aspell/po/pt.po | 
+ | [pt_BR](/f31/language/pt_BR) | 1797 | 1797 | 100.0 | /mnt/stockage/packages/f31/aspell/po/pt_BR.po | 
+ | [ro](/f31/language/ro) | 1797 | 1797 | 100.0 | /mnt/stockage/packages/f31/aspell/po/ro.po | 
+ | [ru](/f31/language/ru) | 1797 | 1797 | 100.0 | /mnt/stockage/packages/f31/aspell/po/ru.po | 
+ | [sl](/f31/language/sl) | 1797 | 1797 | 100.0 | /mnt/stockage/packages/f31/aspell/po/sl.po | 
+ | [uk](/f31/language/uk) | 1797 | 1797 | 100.0 | /mnt/stockage/packages/f31/aspell/po/uk.po | 
+ | [ja](/f31/language/ja) | 1767 | 1797 | 98.3 | /mnt/stockage/packages/f31/aspell/po/ja.po | 
+ | [zh_Hans](/f31/language/zh_Hans) | 1739 | 1797 | 96.8 | /mnt/stockage/packages/f31/aspell/po/zh_CN.po | 
+ | [cs](/f31/language/cs) | 1706 | 1797 | 94.9 | /mnt/stockage/packages/f31/aspell/po/cs.po | 
+ | [da](/f31/language/da) | 1706 | 1797 | 94.9 | /mnt/stockage/packages/f31/aspell/po/da.po | 
+ | [eo](/f31/language/eo) | 1706 | 1797 | 94.9 | /mnt/stockage/packages/f31/aspell/po/eo.po | 
+ | [fi](/f31/language/fi) | 1706 | 1797 | 94.9 | /mnt/stockage/packages/f31/aspell/po/fi.po | 
+ | [ga](/f31/language/ga) | 1706 | 1797 | 94.9 | /mnt/stockage/packages/f31/aspell/po/ga.po | 
+ | [sk](/f31/language/sk) | 1706 | 1797 | 94.9 | /mnt/stockage/packages/f31/aspell/po/sk.po | 
+ | [sr](/f31/language/sr) | 1706 | 1797 | 94.9 | /mnt/stockage/packages/f31/aspell/po/sr.po | 
+ | [sv](/f31/language/sv) | 1706 | 1797 | 94.9 | /mnt/stockage/packages/f31/aspell/po/sv.po | 
+ | [vi](/f31/language/vi) | 1706 | 1797 | 94.9 | /mnt/stockage/packages/f31/aspell/po/vi.po | 
+ | [ast](/f31/language/ast) | 1697 | 1797 | 94.4 | /mnt/stockage/packages/f31/aspell/po/ast.po | 
+ | [es](/f31/language/es) | 1697 | 1797 | 94.4 | /mnt/stockage/packages/f31/aspell/po/es.po | 
+ | [id](/f31/language/id) | 1697 | 1797 | 94.4 | /mnt/stockage/packages/f31/aspell/po/id.po | 
+ | [it](/f31/language/it) | 1697 | 1797 | 94.4 | /mnt/stockage/packages/f31/aspell/po/it.po | 
+ | [ca](/f31/language/ca) | 1665 | 1797 | 92.7 | /mnt/stockage/packages/f31/aspell/po/ca.po | 
+ | [en_GB](/f31/language/en_GB) | 1526 | 1797 | 84.9 | /mnt/stockage/packages/f31/aspell/po/en_GB.po | 
+ | [mn](/f31/language/mn) | 1526 | 1797 | 84.9 | /mnt/stockage/packages/f31/aspell/po/mn.po | 
+ | [fur](/f31/language/fur) | 1313 | 1797 | 73.1 | /mnt/stockage/packages/f31/aspell/po/fur.po | 
+ | [wa](/f31/language/wa) | 965 | 1797 | 53.7 | /mnt/stockage/packages/f31/aspell/po/wa.po | 
+ | [tg](/f31/language/tg) | 582 | 1797 | 32.4 | /mnt/stockage/packages/f31/aspell/po/tg.po | 
+ | [be](/f31/language/be) | 409 | 1797 | 22.8 | /mnt/stockage/packages/f31/aspell/po/be.po | 
+ | [ms](/f31/language/ms) | 95 | 1797 | 5.3 | /mnt/stockage/packages/f31/aspell/po/ms.po | 
+ | [rw](/f31/language/rw) | 20 | 1797 | 1.1 | /mnt/stockage/packages/f31/aspell/po/rw.po | 
 {.sortable}
 
 

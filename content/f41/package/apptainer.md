@@ -18,30 +18,30 @@ The package apptainer (version 1.4.5):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f41/language/cs.md" >}}) | 11138 | 11138 | 100.0 | /mnt/stockage/packages/f41/apptainer/po/cs.po | 
- | [es]({{< ref "/f41/language/es.md" >}}) | 11138 | 11138 | 100.0 | /mnt/stockage/packages/f41/apptainer/po/es.po | 
- | [fr]({{< ref "/f41/language/fr.md" >}}) | 11138 | 11138 | 100.0 | /mnt/stockage/packages/f41/apptainer/po/fr.po | 
- | [pl]({{< ref "/f41/language/pl.md" >}}) | 11138 | 11138 | 100.0 | /mnt/stockage/packages/f41/apptainer/po/pl.po | 
- | [pt]({{< ref "/f41/language/pt.md" >}}) | 11138 | 11138 | 100.0 | /mnt/stockage/packages/f41/apptainer/po/pt.po | 
- | [ro]({{< ref "/f41/language/ro.md" >}}) | 11138 | 11138 | 100.0 | /mnt/stockage/packages/f41/apptainer/po/ro.po | 
- | [sr]({{< ref "/f41/language/sr.md" >}}) | 11138 | 11138 | 100.0 | /mnt/stockage/packages/f41/apptainer/po/sr.po | 
- | [sv]({{< ref "/f41/language/sv.md" >}}) | 11138 | 11138 | 100.0 | /mnt/stockage/packages/f41/apptainer/po/sv.po | 
- | [uk]({{< ref "/f41/language/uk.md" >}}) | 11138 | 11138 | 100.0 | /mnt/stockage/packages/f41/apptainer/po/uk.po | 
- | [vi]({{< ref "/f41/language/vi.md" >}}) | 10359 | 10359 | 100.0 | /mnt/stockage/packages/f41/apptainer/po/vi.po | 
- | [zh_Hans]({{< ref "/f41/language/zh_Hans.md" >}}) | 11138 | 11138 | 100.0 | /mnt/stockage/packages/f41/apptainer/po/zh_CN.po | 
- | [nl]({{< ref "/f41/language/nl.md" >}}) | 10963 | 11138 | 98.4 | /mnt/stockage/packages/f41/apptainer/po/nl.po | 
- | [hu]({{< ref "/f41/language/hu.md" >}}) | 9796 | 10260 | 95.5 | /mnt/stockage/packages/f41/apptainer/po/hu.po | 
- | [de]({{< ref "/f41/language/de.md" >}}) | 9617 | 10626 | 90.5 | /mnt/stockage/packages/f41/apptainer/po/de.po | 
- | [da]({{< ref "/f41/language/da.md" >}}) | 8206 | 10260 | 80.0 | /mnt/stockage/packages/f41/apptainer/po/da.po | 
- | [ca]({{< ref "/f41/language/ca.md" >}}) | 7784 | 10260 | 75.9 | /mnt/stockage/packages/f41/apptainer/po/ca.po | 
- | [eo]({{< ref "/f41/language/eo.md" >}}) | 5210 | 10260 | 50.8 | /mnt/stockage/packages/f41/apptainer/po/eo.po | 
- | [id]({{< ref "/f41/language/id.md" >}}) | 4875 | 10260 | 47.5 | /mnt/stockage/packages/f41/apptainer/po/id.po | 
- | [tr]({{< ref "/f41/language/tr.md" >}}) | 3766 | 10260 | 36.7 | /mnt/stockage/packages/f41/apptainer/po/tr.po | 
- | [it]({{< ref "/f41/language/it.md" >}}) | 3115 | 10260 | 30.4 | /mnt/stockage/packages/f41/apptainer/po/it.po | 
- | [fur]({{< ref "/f41/language/fur.md" >}}) | 2226 | 10359 | 21.5 | /mnt/stockage/packages/f41/apptainer/po/fur.po | 
- | [ms]({{< ref "/f41/language/ms.md" >}}) | 2185 | 11138 | 19.6 | /mnt/stockage/packages/f41/apptainer/po/ms.po | 
- | [fi]({{< ref "/f41/language/fi.md" >}}) | 1074 | 10260 | 10.5 | /mnt/stockage/packages/f41/apptainer/po/fi.po | 
- | [ka]({{< ref "/f41/language/ka.md" >}}) | 450 | 11069 | 4.1 | /mnt/stockage/packages/f41/apptainer/po/ka.po | 
+ | [cs](/f41/language/cs) | 11138 | 11138 | 100.0 | /mnt/stockage/packages/f41/apptainer/po/cs.po | 
+ | [es](/f41/language/es) | 11138 | 11138 | 100.0 | /mnt/stockage/packages/f41/apptainer/po/es.po | 
+ | [fr](/f41/language/fr) | 11138 | 11138 | 100.0 | /mnt/stockage/packages/f41/apptainer/po/fr.po | 
+ | [pl](/f41/language/pl) | 11138 | 11138 | 100.0 | /mnt/stockage/packages/f41/apptainer/po/pl.po | 
+ | [pt](/f41/language/pt) | 11138 | 11138 | 100.0 | /mnt/stockage/packages/f41/apptainer/po/pt.po | 
+ | [ro](/f41/language/ro) | 11138 | 11138 | 100.0 | /mnt/stockage/packages/f41/apptainer/po/ro.po | 
+ | [sr](/f41/language/sr) | 11138 | 11138 | 100.0 | /mnt/stockage/packages/f41/apptainer/po/sr.po | 
+ | [sv](/f41/language/sv) | 11138 | 11138 | 100.0 | /mnt/stockage/packages/f41/apptainer/po/sv.po | 
+ | [uk](/f41/language/uk) | 11138 | 11138 | 100.0 | /mnt/stockage/packages/f41/apptainer/po/uk.po | 
+ | [vi](/f41/language/vi) | 10359 | 10359 | 100.0 | /mnt/stockage/packages/f41/apptainer/po/vi.po | 
+ | [zh_Hans](/f41/language/zh_Hans) | 11138 | 11138 | 100.0 | /mnt/stockage/packages/f41/apptainer/po/zh_CN.po | 
+ | [nl](/f41/language/nl) | 10963 | 11138 | 98.4 | /mnt/stockage/packages/f41/apptainer/po/nl.po | 
+ | [hu](/f41/language/hu) | 9796 | 10260 | 95.5 | /mnt/stockage/packages/f41/apptainer/po/hu.po | 
+ | [de](/f41/language/de) | 9617 | 10626 | 90.5 | /mnt/stockage/packages/f41/apptainer/po/de.po | 
+ | [da](/f41/language/da) | 8206 | 10260 | 80.0 | /mnt/stockage/packages/f41/apptainer/po/da.po | 
+ | [ca](/f41/language/ca) | 7784 | 10260 | 75.9 | /mnt/stockage/packages/f41/apptainer/po/ca.po | 
+ | [eo](/f41/language/eo) | 5210 | 10260 | 50.8 | /mnt/stockage/packages/f41/apptainer/po/eo.po | 
+ | [id](/f41/language/id) | 4875 | 10260 | 47.5 | /mnt/stockage/packages/f41/apptainer/po/id.po | 
+ | [tr](/f41/language/tr) | 3766 | 10260 | 36.7 | /mnt/stockage/packages/f41/apptainer/po/tr.po | 
+ | [it](/f41/language/it) | 3115 | 10260 | 30.4 | /mnt/stockage/packages/f41/apptainer/po/it.po | 
+ | [fur](/f41/language/fur) | 2226 | 10359 | 21.5 | /mnt/stockage/packages/f41/apptainer/po/fur.po | 
+ | [ms](/f41/language/ms) | 2185 | 11138 | 19.6 | /mnt/stockage/packages/f41/apptainer/po/ms.po | 
+ | [fi](/f41/language/fi) | 1074 | 10260 | 10.5 | /mnt/stockage/packages/f41/apptainer/po/fi.po | 
+ | [ka](/f41/language/ka) | 450 | 11069 | 4.1 | /mnt/stockage/packages/f41/apptainer/po/ka.po | 
 {.sortable}
 
 

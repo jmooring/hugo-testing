@@ -18,30 +18,30 @@ The package xfce4-mount-plugin (version 0.5.5):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f10/language/ca.md" >}}) | 298 | 298 | 100.0 | /mnt/stockage/packages/f10/xfce4-mount-plugin/po/ca.po | 
- | [de]({{< ref "/f10/language/de.md" >}}) | 298 | 298 | 100.0 | /mnt/stockage/packages/f10/xfce4-mount-plugin/po/de.po | 
- | [en_GB]({{< ref "/f10/language/en_GB.md" >}}) | 298 | 298 | 100.0 | /mnt/stockage/packages/f10/xfce4-mount-plugin/po/en_GB.po | 
- | [eu]({{< ref "/f10/language/eu.md" >}}) | 298 | 298 | 100.0 | /mnt/stockage/packages/f10/xfce4-mount-plugin/po/eu.po | 
- | [fr]({{< ref "/f10/language/fr.md" >}}) | 298 | 298 | 100.0 | /mnt/stockage/packages/f10/xfce4-mount-plugin/po/fr.po | 
- | [hu]({{< ref "/f10/language/hu.md" >}}) | 298 | 298 | 100.0 | /mnt/stockage/packages/f10/xfce4-mount-plugin/po/hu.po | 
- | [nb_NO]({{< ref "/f10/language/nb_NO.md" >}}) | 298 | 298 | 100.0 | /mnt/stockage/packages/f10/xfce4-mount-plugin/po/nb_NO.po | 
- | [pt_BR]({{< ref "/f10/language/pt_BR.md" >}}) | 298 | 298 | 100.0 | /mnt/stockage/packages/f10/xfce4-mount-plugin/po/pt_BR.po | 
- | [pt_PT]({{< ref "/f10/language/pt_PT.md" >}}) | 298 | 298 | 100.0 | /mnt/stockage/packages/f10/xfce4-mount-plugin/po/pt_PT.po | 
- | [cs]({{< ref "/f10/language/cs.md" >}}) | 283 | 298 | 95.0 | /mnt/stockage/packages/f10/xfce4-mount-plugin/po/cs.po | 
- | [lv]({{< ref "/f10/language/lv.md" >}}) | 283 | 298 | 95.0 | /mnt/stockage/packages/f10/xfce4-mount-plugin/po/lv.po | 
- | [ur]({{< ref "/f10/language/ur.md" >}}) | 283 | 298 | 95.0 | /mnt/stockage/packages/f10/xfce4-mount-plugin/po/ur.po | 
- | [zh_Hans]({{< ref "/f10/language/zh_Hans.md" >}}) | 283 | 298 | 95.0 | /mnt/stockage/packages/f10/xfce4-mount-plugin/po/zh_CN.po | 
- | [uk]({{< ref "/f10/language/uk.md" >}}) | 274 | 298 | 91.9 | /mnt/stockage/packages/f10/xfce4-mount-plugin/po/uk.po | 
- | [pl]({{< ref "/f10/language/pl.md" >}}) | 269 | 298 | 90.3 | /mnt/stockage/packages/f10/xfce4-mount-plugin/po/pl.po | 
- | [el]({{< ref "/f10/language/el.md" >}}) | 109 | 298 | 36.6 | /mnt/stockage/packages/f10/xfce4-mount-plugin/po/el.po | 
- | [ko]({{< ref "/f10/language/ko.md" >}}) | 109 | 298 | 36.6 | /mnt/stockage/packages/f10/xfce4-mount-plugin/po/ko.po | 
- | [sq]({{< ref "/f10/language/sq.md" >}}) | 109 | 298 | 36.6 | /mnt/stockage/packages/f10/xfce4-mount-plugin/po/sq.po | 
- | [zh_Hant]({{< ref "/f10/language/zh_Hant.md" >}}) | 109 | 298 | 36.6 | /mnt/stockage/packages/f10/xfce4-mount-plugin/po/zh_TW.po | 
- | [ja]({{< ref "/f10/language/ja.md" >}}) | 93 | 298 | 31.2 | /mnt/stockage/packages/f10/xfce4-mount-plugin/po/ja.po | 
- | [gl]({{< ref "/f10/language/gl.md" >}}) | 73 | 298 | 24.5 | /mnt/stockage/packages/f10/xfce4-mount-plugin/po/gl.po | 
- | [vi]({{< ref "/f10/language/vi.md" >}}) | 44 | 298 | 14.8 | /mnt/stockage/packages/f10/xfce4-mount-plugin/po/vi.po | 
- | [ru]({{< ref "/f10/language/ru.md" >}}) | 13 | 298 | 4.4 | /mnt/stockage/packages/f10/xfce4-mount-plugin/po/ru.po | 
- | [lt]({{< ref "/f10/language/lt.md" >}}) | 0 | 298 | 0.0 | /mnt/stockage/packages/f10/xfce4-mount-plugin/po/lt.po | 
+ | [ca](/f10/language/ca) | 298 | 298 | 100.0 | /mnt/stockage/packages/f10/xfce4-mount-plugin/po/ca.po | 
+ | [de](/f10/language/de) | 298 | 298 | 100.0 | /mnt/stockage/packages/f10/xfce4-mount-plugin/po/de.po | 
+ | [en_GB](/f10/language/en_GB) | 298 | 298 | 100.0 | /mnt/stockage/packages/f10/xfce4-mount-plugin/po/en_GB.po | 
+ | [eu](/f10/language/eu) | 298 | 298 | 100.0 | /mnt/stockage/packages/f10/xfce4-mount-plugin/po/eu.po | 
+ | [fr](/f10/language/fr) | 298 | 298 | 100.0 | /mnt/stockage/packages/f10/xfce4-mount-plugin/po/fr.po | 
+ | [hu](/f10/language/hu) | 298 | 298 | 100.0 | /mnt/stockage/packages/f10/xfce4-mount-plugin/po/hu.po | 
+ | [nb_NO](/f10/language/nb_NO) | 298 | 298 | 100.0 | /mnt/stockage/packages/f10/xfce4-mount-plugin/po/nb_NO.po | 
+ | [pt_BR](/f10/language/pt_BR) | 298 | 298 | 100.0 | /mnt/stockage/packages/f10/xfce4-mount-plugin/po/pt_BR.po | 
+ | [pt_PT](/f10/language/pt_PT) | 298 | 298 | 100.0 | /mnt/stockage/packages/f10/xfce4-mount-plugin/po/pt_PT.po | 
+ | [cs](/f10/language/cs) | 283 | 298 | 95.0 | /mnt/stockage/packages/f10/xfce4-mount-plugin/po/cs.po | 
+ | [lv](/f10/language/lv) | 283 | 298 | 95.0 | /mnt/stockage/packages/f10/xfce4-mount-plugin/po/lv.po | 
+ | [ur](/f10/language/ur) | 283 | 298 | 95.0 | /mnt/stockage/packages/f10/xfce4-mount-plugin/po/ur.po | 
+ | [zh_Hans](/f10/language/zh_Hans) | 283 | 298 | 95.0 | /mnt/stockage/packages/f10/xfce4-mount-plugin/po/zh_CN.po | 
+ | [uk](/f10/language/uk) | 274 | 298 | 91.9 | /mnt/stockage/packages/f10/xfce4-mount-plugin/po/uk.po | 
+ | [pl](/f10/language/pl) | 269 | 298 | 90.3 | /mnt/stockage/packages/f10/xfce4-mount-plugin/po/pl.po | 
+ | [el](/f10/language/el) | 109 | 298 | 36.6 | /mnt/stockage/packages/f10/xfce4-mount-plugin/po/el.po | 
+ | [ko](/f10/language/ko) | 109 | 298 | 36.6 | /mnt/stockage/packages/f10/xfce4-mount-plugin/po/ko.po | 
+ | [sq](/f10/language/sq) | 109 | 298 | 36.6 | /mnt/stockage/packages/f10/xfce4-mount-plugin/po/sq.po | 
+ | [zh_Hant](/f10/language/zh_Hant) | 109 | 298 | 36.6 | /mnt/stockage/packages/f10/xfce4-mount-plugin/po/zh_TW.po | 
+ | [ja](/f10/language/ja) | 93 | 298 | 31.2 | /mnt/stockage/packages/f10/xfce4-mount-plugin/po/ja.po | 
+ | [gl](/f10/language/gl) | 73 | 298 | 24.5 | /mnt/stockage/packages/f10/xfce4-mount-plugin/po/gl.po | 
+ | [vi](/f10/language/vi) | 44 | 298 | 14.8 | /mnt/stockage/packages/f10/xfce4-mount-plugin/po/vi.po | 
+ | [ru](/f10/language/ru) | 13 | 298 | 4.4 | /mnt/stockage/packages/f10/xfce4-mount-plugin/po/ru.po | 
+ | [lt](/f10/language/lt) | 0 | 298 | 0.0 | /mnt/stockage/packages/f10/xfce4-mount-plugin/po/lt.po | 
 {.sortable}
 
 

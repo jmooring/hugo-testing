@@ -38,7 +38,7 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [gtk2]({{< ref "/f7/package/gtk2.md" >}}) | 9 | 11602 | 0.1 | Iranian Azerbaijani <az-ir@lists.sharif.edu> | 
+ | [gtk2](/f7/package/gtk2) | 9 | 11602 | 0.1 | Iranian Azerbaijani <az-ir@lists.sharif.edu> | 
 {.sortable}
 
 

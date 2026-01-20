@@ -18,12 +18,12 @@ The package vdr-screenshot (version 0.0.14):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f16/language/de.md" >}}) | 35 | 35 | 100.0 | /mnt/stockage/packages/f16/vdr-screenshot/po/de_DE.po | 
- | [it]({{< ref "/f16/language/it.md" >}}) | 35 | 35 | 100.0 | /mnt/stockage/packages/f16/vdr-screenshot/po/it_IT.po | 
- | [tr]({{< ref "/f16/language/tr.md" >}}) | 35 | 35 | 100.0 | /mnt/stockage/packages/f16/vdr-screenshot/po/tr_TR.po | 
- | [ca]({{< ref "/f16/language/ca.md" >}}) | 27 | 35 | 77.1 | /mnt/stockage/packages/f16/vdr-screenshot/po/ca_ES.po | 
- | [es]({{< ref "/f16/language/es.md" >}}) | 27 | 35 | 77.1 | /mnt/stockage/packages/f16/vdr-screenshot/po/es_ES.po | 
- | [fi]({{< ref "/f16/language/fi.md" >}}) | 21 | 35 | 60.0 | /mnt/stockage/packages/f16/vdr-screenshot/po/fi_FI.po | 
+ | [de](/f16/language/de) | 35 | 35 | 100.0 | /mnt/stockage/packages/f16/vdr-screenshot/po/de_DE.po | 
+ | [it](/f16/language/it) | 35 | 35 | 100.0 | /mnt/stockage/packages/f16/vdr-screenshot/po/it_IT.po | 
+ | [tr](/f16/language/tr) | 35 | 35 | 100.0 | /mnt/stockage/packages/f16/vdr-screenshot/po/tr_TR.po | 
+ | [ca](/f16/language/ca) | 27 | 35 | 77.1 | /mnt/stockage/packages/f16/vdr-screenshot/po/ca_ES.po | 
+ | [es](/f16/language/es) | 27 | 35 | 77.1 | /mnt/stockage/packages/f16/vdr-screenshot/po/es_ES.po | 
+ | [fi](/f16/language/fi) | 21 | 35 | 60.0 | /mnt/stockage/packages/f16/vdr-screenshot/po/fi_FI.po | 
 {.sortable}
 
 

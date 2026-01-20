@@ -18,52 +18,52 @@ The package kf5-kpackage (version 5.27.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f23/language/ca.md" >}}) | 429 | 429 | 100.0 | /mnt/stockage/packages/f23/kf5-kpackage/po/ca/libkpackage5.po | 
- | [ca@valencia]({{< ref "/f23/language/ca@valencia.md" >}}) | 429 | 429 | 100.0 | /mnt/stockage/packages/f23/kf5-kpackage/po/ca@valencia/libkpackage5.po | 
- | [da]({{< ref "/f23/language/da.md" >}}) | 429 | 429 | 100.0 | /mnt/stockage/packages/f23/kf5-kpackage/po/da/libkpackage5.po | 
- | [de]({{< ref "/f23/language/de.md" >}}) | 429 | 429 | 100.0 | /mnt/stockage/packages/f23/kf5-kpackage/po/de/libkpackage5.po | 
- | [en_GB]({{< ref "/f23/language/en_GB.md" >}}) | 429 | 429 | 100.0 | /mnt/stockage/packages/f23/kf5-kpackage/po/en_GB/libkpackage5.po | 
- | [es]({{< ref "/f23/language/es.md" >}}) | 429 | 429 | 100.0 | /mnt/stockage/packages/f23/kf5-kpackage/po/es/libkpackage5.po | 
- | [et]({{< ref "/f23/language/et.md" >}}) | 429 | 429 | 100.0 | /mnt/stockage/packages/f23/kf5-kpackage/po/et/libkpackage5.po | 
- | [it]({{< ref "/f23/language/it.md" >}}) | 429 | 429 | 100.0 | /mnt/stockage/packages/f23/kf5-kpackage/po/it/libkpackage5.po | 
- | [nl]({{< ref "/f23/language/nl.md" >}}) | 429 | 429 | 100.0 | /mnt/stockage/packages/f23/kf5-kpackage/po/nl/libkpackage5.po | 
- | [pl]({{< ref "/f23/language/pl.md" >}}) | 429 | 429 | 100.0 | /mnt/stockage/packages/f23/kf5-kpackage/po/pl/libkpackage5.po | 
- | [pt]({{< ref "/f23/language/pt.md" >}}) | 429 | 429 | 100.0 | /mnt/stockage/packages/f23/kf5-kpackage/po/pt/libkpackage5.po | 
- | [ru]({{< ref "/f23/language/ru.md" >}}) | 429 | 429 | 100.0 | /mnt/stockage/packages/f23/kf5-kpackage/po/ru/libkpackage5.po | 
- | [sk]({{< ref "/f23/language/sk.md" >}}) | 429 | 429 | 100.0 | /mnt/stockage/packages/f23/kf5-kpackage/po/sk/libkpackage5.po | 
- | [sl]({{< ref "/f23/language/sl.md" >}}) | 429 | 429 | 100.0 | /mnt/stockage/packages/f23/kf5-kpackage/po/sl/libkpackage5.po | 
- | [sr]({{< ref "/f23/language/sr.md" >}}) | 429 | 429 | 100.0 | /mnt/stockage/packages/f23/kf5-kpackage/po/sr/libkpackage5.po | 
- | [sr@ijekavian]({{< ref "/f23/language/sr@ijekavian.md" >}}) | 429 | 429 | 100.0 | /mnt/stockage/packages/f23/kf5-kpackage/po/sr@ijekavian/libkpackage5.po | 
- | [sr@ijekavian_Latn]({{< ref "/f23/language/sr@ijekavian_Latn.md" >}}) | 429 | 429 | 100.0 | /mnt/stockage/packages/f23/kf5-kpackage/po/sr@ijekavianlatin/libkpackage5.po | 
- | [sr_Latn]({{< ref "/f23/language/sr_Latn.md" >}}) | 429 | 429 | 100.0 | /mnt/stockage/packages/f23/kf5-kpackage/po/sr@latin/libkpackage5.po | 
- | [sv]({{< ref "/f23/language/sv.md" >}}) | 429 | 429 | 100.0 | /mnt/stockage/packages/f23/kf5-kpackage/po/sv/libkpackage5.po | 
- | [uk]({{< ref "/f23/language/uk.md" >}}) | 429 | 429 | 100.0 | /mnt/stockage/packages/f23/kf5-kpackage/po/uk/libkpackage5.po | 
- | [zh_Hant]({{< ref "/f23/language/zh_Hant.md" >}}) | 429 | 429 | 100.0 | /mnt/stockage/packages/f23/kf5-kpackage/po/zh_TW/libkpackage5.po | 
- | [el]({{< ref "/f23/language/el.md" >}}) | 428 | 429 | 99.8 | /mnt/stockage/packages/f23/kf5-kpackage/po/el/libkpackage5.po | 
- | [fi]({{< ref "/f23/language/fi.md" >}}) | 417 | 429 | 97.2 | /mnt/stockage/packages/f23/kf5-kpackage/po/fi/libkpackage5.po | 
- | [gd]({{< ref "/f23/language/gd.md" >}}) | 417 | 429 | 97.2 | /mnt/stockage/packages/f23/kf5-kpackage/po/gd/libkpackage5.po | 
- | [gl]({{< ref "/f23/language/gl.md" >}}) | 417 | 429 | 97.2 | /mnt/stockage/packages/f23/kf5-kpackage/po/gl/libkpackage5.po | 
- | [ko]({{< ref "/f23/language/ko.md" >}}) | 417 | 429 | 97.2 | /mnt/stockage/packages/f23/kf5-kpackage/po/ko/libkpackage5.po | 
- | [nn]({{< ref "/f23/language/nn.md" >}}) | 417 | 429 | 97.2 | /mnt/stockage/packages/f23/kf5-kpackage/po/nn/libkpackage5.po | 
- | [pt_BR]({{< ref "/f23/language/pt_BR.md" >}}) | 417 | 429 | 97.2 | /mnt/stockage/packages/f23/kf5-kpackage/po/pt_BR/libkpackage5.po | 
- | [zh_Hans]({{< ref "/f23/language/zh_Hans.md" >}}) | 417 | 429 | 97.2 | /mnt/stockage/packages/f23/kf5-kpackage/po/zh_CN/libkpackage5.po | 
- | [tr]({{< ref "/f23/language/tr.md" >}}) | 377 | 429 | 87.9 | /mnt/stockage/packages/f23/kf5-kpackage/po/tr/libkpackage5.po | 
- | [nb_NO]({{< ref "/f23/language/nb_NO.md" >}}) | 371 | 429 | 86.5 | /mnt/stockage/packages/f23/kf5-kpackage/po/nb/libkpackage5.po | 
- | [cs]({{< ref "/f23/language/cs.md" >}}) | 349 | 429 | 81.4 | /mnt/stockage/packages/f23/kf5-kpackage/po/cs/libkpackage5.po | 
- | [hu]({{< ref "/f23/language/hu.md" >}}) | 348 | 429 | 81.1 | /mnt/stockage/packages/f23/kf5-kpackage/po/hu/libkpackage5.po | 
- | [ia]({{< ref "/f23/language/ia.md" >}}) | 340 | 429 | 79.3 | /mnt/stockage/packages/f23/kf5-kpackage/po/ia/libkpackage5.po | 
- | [nds]({{< ref "/f23/language/nds.md" >}}) | 308 | 429 | 71.8 | /mnt/stockage/packages/f23/kf5-kpackage/po/nds/libkpackage5.po | 
- | [fr]({{< ref "/f23/language/fr.md" >}}) | 299 | 429 | 69.7 | /mnt/stockage/packages/f23/kf5-kpackage/po/fr/libkpackage5.po | 
- | [bs]({{< ref "/f23/language/bs.md" >}}) | 278 | 429 | 64.8 | /mnt/stockage/packages/f23/kf5-kpackage/po/bs/libkpackage5.po | 
- | [ast]({{< ref "/f23/language/ast.md" >}}) | 245 | 429 | 57.1 | /mnt/stockage/packages/f23/kf5-kpackage/po/ast/libkpackage5.po | 
- | [mr]({{< ref "/f23/language/mr.md" >}}) | 212 | 429 | 49.4 | /mnt/stockage/packages/f23/kf5-kpackage/po/mr/libkpackage5.po | 
- | [ar]({{< ref "/f23/language/ar.md" >}}) | 206 | 429 | 48.0 | /mnt/stockage/packages/f23/kf5-kpackage/po/ar/libkpackage5.po | 
- | [ug]({{< ref "/f23/language/ug.md" >}}) | 175 | 429 | 40.8 | /mnt/stockage/packages/f23/kf5-kpackage/po/ug/libkpackage5.po | 
- | [pa]({{< ref "/f23/language/pa.md" >}}) | 170 | 429 | 39.6 | /mnt/stockage/packages/f23/kf5-kpackage/po/pa/libkpackage5.po | 
- | [ja]({{< ref "/f23/language/ja.md" >}}) | 130 | 429 | 30.3 | /mnt/stockage/packages/f23/kf5-kpackage/po/ja/libkpackage5.po | 
- | [he]({{< ref "/f23/language/he.md" >}}) | 61 | 429 | 14.2 | /mnt/stockage/packages/f23/kf5-kpackage/po/he/libkpackage5.po | 
- | [ro]({{< ref "/f23/language/ro.md" >}}) | 45 | 429 | 10.5 | /mnt/stockage/packages/f23/kf5-kpackage/po/ro/libkpackage5.po | 
- | [lt]({{< ref "/f23/language/lt.md" >}}) | 0 | 429 | 0.0 | /mnt/stockage/packages/f23/kf5-kpackage/po/lt/libkpackage5.po | 
+ | [ca](/f23/language/ca) | 429 | 429 | 100.0 | /mnt/stockage/packages/f23/kf5-kpackage/po/ca/libkpackage5.po | 
+ | [ca@valencia](/f23/language/ca@valencia) | 429 | 429 | 100.0 | /mnt/stockage/packages/f23/kf5-kpackage/po/ca@valencia/libkpackage5.po | 
+ | [da](/f23/language/da) | 429 | 429 | 100.0 | /mnt/stockage/packages/f23/kf5-kpackage/po/da/libkpackage5.po | 
+ | [de](/f23/language/de) | 429 | 429 | 100.0 | /mnt/stockage/packages/f23/kf5-kpackage/po/de/libkpackage5.po | 
+ | [en_GB](/f23/language/en_GB) | 429 | 429 | 100.0 | /mnt/stockage/packages/f23/kf5-kpackage/po/en_GB/libkpackage5.po | 
+ | [es](/f23/language/es) | 429 | 429 | 100.0 | /mnt/stockage/packages/f23/kf5-kpackage/po/es/libkpackage5.po | 
+ | [et](/f23/language/et) | 429 | 429 | 100.0 | /mnt/stockage/packages/f23/kf5-kpackage/po/et/libkpackage5.po | 
+ | [it](/f23/language/it) | 429 | 429 | 100.0 | /mnt/stockage/packages/f23/kf5-kpackage/po/it/libkpackage5.po | 
+ | [nl](/f23/language/nl) | 429 | 429 | 100.0 | /mnt/stockage/packages/f23/kf5-kpackage/po/nl/libkpackage5.po | 
+ | [pl](/f23/language/pl) | 429 | 429 | 100.0 | /mnt/stockage/packages/f23/kf5-kpackage/po/pl/libkpackage5.po | 
+ | [pt](/f23/language/pt) | 429 | 429 | 100.0 | /mnt/stockage/packages/f23/kf5-kpackage/po/pt/libkpackage5.po | 
+ | [ru](/f23/language/ru) | 429 | 429 | 100.0 | /mnt/stockage/packages/f23/kf5-kpackage/po/ru/libkpackage5.po | 
+ | [sk](/f23/language/sk) | 429 | 429 | 100.0 | /mnt/stockage/packages/f23/kf5-kpackage/po/sk/libkpackage5.po | 
+ | [sl](/f23/language/sl) | 429 | 429 | 100.0 | /mnt/stockage/packages/f23/kf5-kpackage/po/sl/libkpackage5.po | 
+ | [sr](/f23/language/sr) | 429 | 429 | 100.0 | /mnt/stockage/packages/f23/kf5-kpackage/po/sr/libkpackage5.po | 
+ | [sr@ijekavian](/f23/language/sr@ijekavian) | 429 | 429 | 100.0 | /mnt/stockage/packages/f23/kf5-kpackage/po/sr@ijekavian/libkpackage5.po | 
+ | [sr@ijekavian_Latn](/f23/language/sr@ijekavian_Latn) | 429 | 429 | 100.0 | /mnt/stockage/packages/f23/kf5-kpackage/po/sr@ijekavianlatin/libkpackage5.po | 
+ | [sr_Latn](/f23/language/sr_Latn) | 429 | 429 | 100.0 | /mnt/stockage/packages/f23/kf5-kpackage/po/sr@latin/libkpackage5.po | 
+ | [sv](/f23/language/sv) | 429 | 429 | 100.0 | /mnt/stockage/packages/f23/kf5-kpackage/po/sv/libkpackage5.po | 
+ | [uk](/f23/language/uk) | 429 | 429 | 100.0 | /mnt/stockage/packages/f23/kf5-kpackage/po/uk/libkpackage5.po | 
+ | [zh_Hant](/f23/language/zh_Hant) | 429 | 429 | 100.0 | /mnt/stockage/packages/f23/kf5-kpackage/po/zh_TW/libkpackage5.po | 
+ | [el](/f23/language/el) | 428 | 429 | 99.8 | /mnt/stockage/packages/f23/kf5-kpackage/po/el/libkpackage5.po | 
+ | [fi](/f23/language/fi) | 417 | 429 | 97.2 | /mnt/stockage/packages/f23/kf5-kpackage/po/fi/libkpackage5.po | 
+ | [gd](/f23/language/gd) | 417 | 429 | 97.2 | /mnt/stockage/packages/f23/kf5-kpackage/po/gd/libkpackage5.po | 
+ | [gl](/f23/language/gl) | 417 | 429 | 97.2 | /mnt/stockage/packages/f23/kf5-kpackage/po/gl/libkpackage5.po | 
+ | [ko](/f23/language/ko) | 417 | 429 | 97.2 | /mnt/stockage/packages/f23/kf5-kpackage/po/ko/libkpackage5.po | 
+ | [nn](/f23/language/nn) | 417 | 429 | 97.2 | /mnt/stockage/packages/f23/kf5-kpackage/po/nn/libkpackage5.po | 
+ | [pt_BR](/f23/language/pt_BR) | 417 | 429 | 97.2 | /mnt/stockage/packages/f23/kf5-kpackage/po/pt_BR/libkpackage5.po | 
+ | [zh_Hans](/f23/language/zh_Hans) | 417 | 429 | 97.2 | /mnt/stockage/packages/f23/kf5-kpackage/po/zh_CN/libkpackage5.po | 
+ | [tr](/f23/language/tr) | 377 | 429 | 87.9 | /mnt/stockage/packages/f23/kf5-kpackage/po/tr/libkpackage5.po | 
+ | [nb_NO](/f23/language/nb_NO) | 371 | 429 | 86.5 | /mnt/stockage/packages/f23/kf5-kpackage/po/nb/libkpackage5.po | 
+ | [cs](/f23/language/cs) | 349 | 429 | 81.4 | /mnt/stockage/packages/f23/kf5-kpackage/po/cs/libkpackage5.po | 
+ | [hu](/f23/language/hu) | 348 | 429 | 81.1 | /mnt/stockage/packages/f23/kf5-kpackage/po/hu/libkpackage5.po | 
+ | [ia](/f23/language/ia) | 340 | 429 | 79.3 | /mnt/stockage/packages/f23/kf5-kpackage/po/ia/libkpackage5.po | 
+ | [nds](/f23/language/nds) | 308 | 429 | 71.8 | /mnt/stockage/packages/f23/kf5-kpackage/po/nds/libkpackage5.po | 
+ | [fr](/f23/language/fr) | 299 | 429 | 69.7 | /mnt/stockage/packages/f23/kf5-kpackage/po/fr/libkpackage5.po | 
+ | [bs](/f23/language/bs) | 278 | 429 | 64.8 | /mnt/stockage/packages/f23/kf5-kpackage/po/bs/libkpackage5.po | 
+ | [ast](/f23/language/ast) | 245 | 429 | 57.1 | /mnt/stockage/packages/f23/kf5-kpackage/po/ast/libkpackage5.po | 
+ | [mr](/f23/language/mr) | 212 | 429 | 49.4 | /mnt/stockage/packages/f23/kf5-kpackage/po/mr/libkpackage5.po | 
+ | [ar](/f23/language/ar) | 206 | 429 | 48.0 | /mnt/stockage/packages/f23/kf5-kpackage/po/ar/libkpackage5.po | 
+ | [ug](/f23/language/ug) | 175 | 429 | 40.8 | /mnt/stockage/packages/f23/kf5-kpackage/po/ug/libkpackage5.po | 
+ | [pa](/f23/language/pa) | 170 | 429 | 39.6 | /mnt/stockage/packages/f23/kf5-kpackage/po/pa/libkpackage5.po | 
+ | [ja](/f23/language/ja) | 130 | 429 | 30.3 | /mnt/stockage/packages/f23/kf5-kpackage/po/ja/libkpackage5.po | 
+ | [he](/f23/language/he) | 61 | 429 | 14.2 | /mnt/stockage/packages/f23/kf5-kpackage/po/he/libkpackage5.po | 
+ | [ro](/f23/language/ro) | 45 | 429 | 10.5 | /mnt/stockage/packages/f23/kf5-kpackage/po/ro/libkpackage5.po | 
+ | [lt](/f23/language/lt) | 0 | 429 | 0.0 | /mnt/stockage/packages/f23/kf5-kpackage/po/lt/libkpackage5.po | 
 {.sortable}
 
 

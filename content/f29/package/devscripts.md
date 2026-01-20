@@ -18,8 +18,8 @@ The package devscripts (version 2.19.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f29/language/fr.md" >}}) | 50586 | 50587 | 100.0 | /mnt/stockage/packages/f29/devscripts/po4a/po/fr.po | 
- | [de]({{< ref "/f29/language/de.md" >}}) | 40557 | 50587 | 80.2 | /mnt/stockage/packages/f29/devscripts/po4a/po/de.po | 
+ | [fr](/f29/language/fr) | 50586 | 50587 | 100.0 | /mnt/stockage/packages/f29/devscripts/po4a/po/fr.po | 
+ | [de](/f29/language/de) | 40557 | 50587 | 80.2 | /mnt/stockage/packages/f29/devscripts/po4a/po/de.po | 
 {.sortable}
 
 

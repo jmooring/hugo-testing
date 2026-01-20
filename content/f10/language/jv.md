@@ -39,9 +39,9 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [backintime]({{< ref "/f10/package/backintime.md" >}}) | 15 | 441 | 3.4 | Javanese <jv@li.org> | 
- | [avant-window-navigator]({{< ref "/f10/package/avant-window-navigator.md" >}}) | 12 | 593 | 2.0 | Javanese <jv@li.org> | 
- | [deluge]({{< ref "/f10/package/deluge.md" >}}) | 11 | 1998 | 0.6 | Javanese <jv@li.org> | 
+ | [backintime](/f10/package/backintime) | 15 | 441 | 3.4 | Javanese <jv@li.org> | 
+ | [avant-window-navigator](/f10/package/avant-window-navigator) | 12 | 593 | 2.0 | Javanese <jv@li.org> | 
+ | [deluge](/f10/package/deluge) | 11 | 1998 | 0.6 | Javanese <jv@li.org> | 
 {.sortable}
 
 

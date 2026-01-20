@@ -18,7 +18,7 @@ The package readahead (version 1.4.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [pl]({{< ref "/f9/language/pl.md" >}}) | 116 | 116 | 100.0 | /mnt/stockage/packages/f9/readahead/po/pl.po | 
+ | [pl](/f9/language/pl) | 116 | 116 | 100.0 | /mnt/stockage/packages/f9/readahead/po/pl.po | 
 {.sortable}
 
 

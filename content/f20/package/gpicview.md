@@ -18,45 +18,45 @@ The package gpicview (version 0.2.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f20/language/ar.md" >}}) | 219 | 219 | 100.0 | /mnt/stockage/packages/f20/gpicview/po/ar.po | 
- | [da]({{< ref "/f20/language/da.md" >}}) | 219 | 219 | 100.0 | /mnt/stockage/packages/f20/gpicview/po/da.po | 
- | [de]({{< ref "/f20/language/de.md" >}}) | 219 | 219 | 100.0 | /mnt/stockage/packages/f20/gpicview/po/de.po | 
- | [es]({{< ref "/f20/language/es.md" >}}) | 219 | 219 | 100.0 | /mnt/stockage/packages/f20/gpicview/po/es.po | 
- | [fr]({{< ref "/f20/language/fr.md" >}}) | 219 | 219 | 100.0 | /mnt/stockage/packages/f20/gpicview/po/fr.po | 
- | [hr]({{< ref "/f20/language/hr.md" >}}) | 219 | 219 | 100.0 | /mnt/stockage/packages/f20/gpicview/po/hr.po | 
- | [hu]({{< ref "/f20/language/hu.md" >}}) | 219 | 219 | 100.0 | /mnt/stockage/packages/f20/gpicview/po/hu.po | 
- | [id]({{< ref "/f20/language/id.md" >}}) | 219 | 219 | 100.0 | /mnt/stockage/packages/f20/gpicview/po/id.po | 
- | [it]({{< ref "/f20/language/it.md" >}}) | 219 | 219 | 100.0 | /mnt/stockage/packages/f20/gpicview/po/it.po | 
- | [ja]({{< ref "/f20/language/ja.md" >}}) | 219 | 219 | 100.0 | /mnt/stockage/packages/f20/gpicview/po/ja.po | 
- | [lt]({{< ref "/f20/language/lt.md" >}}) | 219 | 219 | 100.0 | /mnt/stockage/packages/f20/gpicview/po/lt.po | 
- | [ms]({{< ref "/f20/language/ms.md" >}}) | 219 | 219 | 100.0 | /mnt/stockage/packages/f20/gpicview/po/ms.po | 
- | [nl]({{< ref "/f20/language/nl.md" >}}) | 219 | 219 | 100.0 | /mnt/stockage/packages/f20/gpicview/po/nl.po | 
- | [pl]({{< ref "/f20/language/pl.md" >}}) | 219 | 219 | 100.0 | /mnt/stockage/packages/f20/gpicview/po/pl.po | 
- | [pt]({{< ref "/f20/language/pt.md" >}}) | 219 | 219 | 100.0 | /mnt/stockage/packages/f20/gpicview/po/pt.po | 
- | [pt_BR]({{< ref "/f20/language/pt_BR.md" >}}) | 219 | 219 | 100.0 | /mnt/stockage/packages/f20/gpicview/po/pt_BR.po | 
- | [ru]({{< ref "/f20/language/ru.md" >}}) | 219 | 219 | 100.0 | /mnt/stockage/packages/f20/gpicview/po/ru.po | 
- | [sk]({{< ref "/f20/language/sk.md" >}}) | 219 | 219 | 100.0 | /mnt/stockage/packages/f20/gpicview/po/sk.po | 
- | [sl]({{< ref "/f20/language/sl.md" >}}) | 219 | 219 | 100.0 | /mnt/stockage/packages/f20/gpicview/po/sl.po | 
- | [sv]({{< ref "/f20/language/sv.md" >}}) | 219 | 219 | 100.0 | /mnt/stockage/packages/f20/gpicview/po/sv.po | 
- | [uk]({{< ref "/f20/language/uk.md" >}}) | 219 | 219 | 100.0 | /mnt/stockage/packages/f20/gpicview/po/uk.po | 
- | [ur]({{< ref "/f20/language/ur.md" >}}) | 219 | 219 | 100.0 | /mnt/stockage/packages/f20/gpicview/po/ur.po | 
- | [ur_PK]({{< ref "/f20/language/ur_PK.md" >}}) | 219 | 219 | 100.0 | /mnt/stockage/packages/f20/gpicview/po/ur_PK.po | 
- | [zh_Hant]({{< ref "/f20/language/zh_Hant.md" >}}) | 219 | 219 | 100.0 | /mnt/stockage/packages/f20/gpicview/po/zh_TW.po | 
- | [cs]({{< ref "/f20/language/cs.md" >}}) | 104 | 219 | 47.5 | /mnt/stockage/packages/f20/gpicview/po/cs.po | 
- | [et]({{< ref "/f20/language/et.md" >}}) | 104 | 219 | 47.5 | /mnt/stockage/packages/f20/gpicview/po/et.po | 
- | [eu]({{< ref "/f20/language/eu.md" >}}) | 104 | 219 | 47.5 | /mnt/stockage/packages/f20/gpicview/po/eu.po | 
- | [fi]({{< ref "/f20/language/fi.md" >}}) | 104 | 219 | 47.5 | /mnt/stockage/packages/f20/gpicview/po/fi.po | 
- | [nb_NO]({{< ref "/f20/language/nb_NO.md" >}}) | 104 | 219 | 47.5 | /mnt/stockage/packages/f20/gpicview/po/nb.po | 
- | [zh_Hans]({{< ref "/f20/language/zh_Hans.md" >}}) | 104 | 219 | 47.5 | /mnt/stockage/packages/f20/gpicview/po/zh_CN.po | 
- | [gl]({{< ref "/f20/language/gl.md" >}}) | 56 | 219 | 25.6 | /mnt/stockage/packages/f20/gpicview/po/gl.po | 
- | [af]({{< ref "/f20/language/af.md" >}}) | 15 | 219 | 6.8 | /mnt/stockage/packages/f20/gpicview/po/af.po | 
- | [fa]({{< ref "/f20/language/fa.md" >}}) | 0 | 219 | 0.0 | /mnt/stockage/packages/f20/gpicview/po/fa.po | 
- | [ko]({{< ref "/f20/language/ko.md" >}}) | 0 | 219 | 0.0 | /mnt/stockage/packages/f20/gpicview/po/ko.po | 
- | [ml]({{< ref "/f20/language/ml.md" >}}) | 0 | 219 | 0.0 | /mnt/stockage/packages/f20/gpicview/po/ml.po | 
- | [nn]({{< ref "/f20/language/nn.md" >}}) | 0 | 219 | 0.0 | /mnt/stockage/packages/f20/gpicview/po/nn.po | 
- | [ps]({{< ref "/f20/language/ps.md" >}}) | 0 | 219 | 0.0 | /mnt/stockage/packages/f20/gpicview/po/ps.po | 
- | [tr]({{< ref "/f20/language/tr.md" >}}) | 0 | 219 | 0.0 | /mnt/stockage/packages/f20/gpicview/po/tr.po | 
- | [vi]({{< ref "/f20/language/vi.md" >}}) | 0 | 219 | 0.0 | /mnt/stockage/packages/f20/gpicview/po/vi.po | 
+ | [ar](/f20/language/ar) | 219 | 219 | 100.0 | /mnt/stockage/packages/f20/gpicview/po/ar.po | 
+ | [da](/f20/language/da) | 219 | 219 | 100.0 | /mnt/stockage/packages/f20/gpicview/po/da.po | 
+ | [de](/f20/language/de) | 219 | 219 | 100.0 | /mnt/stockage/packages/f20/gpicview/po/de.po | 
+ | [es](/f20/language/es) | 219 | 219 | 100.0 | /mnt/stockage/packages/f20/gpicview/po/es.po | 
+ | [fr](/f20/language/fr) | 219 | 219 | 100.0 | /mnt/stockage/packages/f20/gpicview/po/fr.po | 
+ | [hr](/f20/language/hr) | 219 | 219 | 100.0 | /mnt/stockage/packages/f20/gpicview/po/hr.po | 
+ | [hu](/f20/language/hu) | 219 | 219 | 100.0 | /mnt/stockage/packages/f20/gpicview/po/hu.po | 
+ | [id](/f20/language/id) | 219 | 219 | 100.0 | /mnt/stockage/packages/f20/gpicview/po/id.po | 
+ | [it](/f20/language/it) | 219 | 219 | 100.0 | /mnt/stockage/packages/f20/gpicview/po/it.po | 
+ | [ja](/f20/language/ja) | 219 | 219 | 100.0 | /mnt/stockage/packages/f20/gpicview/po/ja.po | 
+ | [lt](/f20/language/lt) | 219 | 219 | 100.0 | /mnt/stockage/packages/f20/gpicview/po/lt.po | 
+ | [ms](/f20/language/ms) | 219 | 219 | 100.0 | /mnt/stockage/packages/f20/gpicview/po/ms.po | 
+ | [nl](/f20/language/nl) | 219 | 219 | 100.0 | /mnt/stockage/packages/f20/gpicview/po/nl.po | 
+ | [pl](/f20/language/pl) | 219 | 219 | 100.0 | /mnt/stockage/packages/f20/gpicview/po/pl.po | 
+ | [pt](/f20/language/pt) | 219 | 219 | 100.0 | /mnt/stockage/packages/f20/gpicview/po/pt.po | 
+ | [pt_BR](/f20/language/pt_BR) | 219 | 219 | 100.0 | /mnt/stockage/packages/f20/gpicview/po/pt_BR.po | 
+ | [ru](/f20/language/ru) | 219 | 219 | 100.0 | /mnt/stockage/packages/f20/gpicview/po/ru.po | 
+ | [sk](/f20/language/sk) | 219 | 219 | 100.0 | /mnt/stockage/packages/f20/gpicview/po/sk.po | 
+ | [sl](/f20/language/sl) | 219 | 219 | 100.0 | /mnt/stockage/packages/f20/gpicview/po/sl.po | 
+ | [sv](/f20/language/sv) | 219 | 219 | 100.0 | /mnt/stockage/packages/f20/gpicview/po/sv.po | 
+ | [uk](/f20/language/uk) | 219 | 219 | 100.0 | /mnt/stockage/packages/f20/gpicview/po/uk.po | 
+ | [ur](/f20/language/ur) | 219 | 219 | 100.0 | /mnt/stockage/packages/f20/gpicview/po/ur.po | 
+ | [ur_PK](/f20/language/ur_PK) | 219 | 219 | 100.0 | /mnt/stockage/packages/f20/gpicview/po/ur_PK.po | 
+ | [zh_Hant](/f20/language/zh_Hant) | 219 | 219 | 100.0 | /mnt/stockage/packages/f20/gpicview/po/zh_TW.po | 
+ | [cs](/f20/language/cs) | 104 | 219 | 47.5 | /mnt/stockage/packages/f20/gpicview/po/cs.po | 
+ | [et](/f20/language/et) | 104 | 219 | 47.5 | /mnt/stockage/packages/f20/gpicview/po/et.po | 
+ | [eu](/f20/language/eu) | 104 | 219 | 47.5 | /mnt/stockage/packages/f20/gpicview/po/eu.po | 
+ | [fi](/f20/language/fi) | 104 | 219 | 47.5 | /mnt/stockage/packages/f20/gpicview/po/fi.po | 
+ | [nb_NO](/f20/language/nb_NO) | 104 | 219 | 47.5 | /mnt/stockage/packages/f20/gpicview/po/nb.po | 
+ | [zh_Hans](/f20/language/zh_Hans) | 104 | 219 | 47.5 | /mnt/stockage/packages/f20/gpicview/po/zh_CN.po | 
+ | [gl](/f20/language/gl) | 56 | 219 | 25.6 | /mnt/stockage/packages/f20/gpicview/po/gl.po | 
+ | [af](/f20/language/af) | 15 | 219 | 6.8 | /mnt/stockage/packages/f20/gpicview/po/af.po | 
+ | [fa](/f20/language/fa) | 0 | 219 | 0.0 | /mnt/stockage/packages/f20/gpicview/po/fa.po | 
+ | [ko](/f20/language/ko) | 0 | 219 | 0.0 | /mnt/stockage/packages/f20/gpicview/po/ko.po | 
+ | [ml](/f20/language/ml) | 0 | 219 | 0.0 | /mnt/stockage/packages/f20/gpicview/po/ml.po | 
+ | [nn](/f20/language/nn) | 0 | 219 | 0.0 | /mnt/stockage/packages/f20/gpicview/po/nn.po | 
+ | [ps](/f20/language/ps) | 0 | 219 | 0.0 | /mnt/stockage/packages/f20/gpicview/po/ps.po | 
+ | [tr](/f20/language/tr) | 0 | 219 | 0.0 | /mnt/stockage/packages/f20/gpicview/po/tr.po | 
+ | [vi](/f20/language/vi) | 0 | 219 | 0.0 | /mnt/stockage/packages/f20/gpicview/po/vi.po | 
 {.sortable}
 
 

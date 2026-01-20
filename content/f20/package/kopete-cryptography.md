@@ -18,42 +18,42 @@ The package kopete-cryptography (version 1.3.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [da]({{< ref "/f20/language/da.md" >}}) | 408 | 408 | 100.0 | /mnt/stockage/packages/f20/kopete-cryptography/po/da/kopete-cryptography.po | 
- | [en_GB]({{< ref "/f20/language/en_GB.md" >}}) | 408 | 408 | 100.0 | /mnt/stockage/packages/f20/kopete-cryptography/po/en_GB/kopete-cryptography.po | 
- | [es]({{< ref "/f20/language/es.md" >}}) | 408 | 408 | 100.0 | /mnt/stockage/packages/f20/kopete-cryptography/po/es/kopete-cryptography.po | 
- | [et]({{< ref "/f20/language/et.md" >}}) | 408 | 408 | 100.0 | /mnt/stockage/packages/f20/kopete-cryptography/po/et/kopete-cryptography.po | 
- | [fr]({{< ref "/f20/language/fr.md" >}}) | 408 | 408 | 100.0 | /mnt/stockage/packages/f20/kopete-cryptography/po/fr/kopete-cryptography.po | 
- | [ga]({{< ref "/f20/language/ga.md" >}}) | 408 | 408 | 100.0 | /mnt/stockage/packages/f20/kopete-cryptography/po/ga/kopete-cryptography.po | 
- | [gl]({{< ref "/f20/language/gl.md" >}}) | 408 | 408 | 100.0 | /mnt/stockage/packages/f20/kopete-cryptography/po/gl/kopete-cryptography.po | 
- | [it]({{< ref "/f20/language/it.md" >}}) | 408 | 408 | 100.0 | /mnt/stockage/packages/f20/kopete-cryptography/po/it/kopete-cryptography.po | 
- | [km]({{< ref "/f20/language/km.md" >}}) | 408 | 408 | 100.0 | /mnt/stockage/packages/f20/kopete-cryptography/po/km/kopete-cryptography.po | 
- | [nb_NO]({{< ref "/f20/language/nb_NO.md" >}}) | 408 | 408 | 100.0 | /mnt/stockage/packages/f20/kopete-cryptography/po/nb/kopete-cryptography.po | 
- | [nds]({{< ref "/f20/language/nds.md" >}}) | 408 | 408 | 100.0 | /mnt/stockage/packages/f20/kopete-cryptography/po/nds/kopete-cryptography.po | 
- | [nl]({{< ref "/f20/language/nl.md" >}}) | 408 | 408 | 100.0 | /mnt/stockage/packages/f20/kopete-cryptography/po/nl/kopete-cryptography.po | 
- | [pt]({{< ref "/f20/language/pt.md" >}}) | 408 | 408 | 100.0 | /mnt/stockage/packages/f20/kopete-cryptography/po/pt/kopete-cryptography.po | 
- | [pt_BR]({{< ref "/f20/language/pt_BR.md" >}}) | 408 | 408 | 100.0 | /mnt/stockage/packages/f20/kopete-cryptography/po/pt_BR/kopete-cryptography.po | 
- | [sv]({{< ref "/f20/language/sv.md" >}}) | 408 | 408 | 100.0 | /mnt/stockage/packages/f20/kopete-cryptography/po/sv/kopete-cryptography.po | 
- | [tr]({{< ref "/f20/language/tr.md" >}}) | 408 | 408 | 100.0 | /mnt/stockage/packages/f20/kopete-cryptography/po/tr/kopete-cryptography.po | 
- | [uk]({{< ref "/f20/language/uk.md" >}}) | 408 | 408 | 100.0 | /mnt/stockage/packages/f20/kopete-cryptography/po/uk/kopete-cryptography.po | 
- | [zh_Hant]({{< ref "/f20/language/zh_Hant.md" >}}) | 408 | 408 | 100.0 | /mnt/stockage/packages/f20/kopete-cryptography/po/zh_TW/kopete-cryptography.po | 
- | [el]({{< ref "/f20/language/el.md" >}}) | 384 | 408 | 94.1 | /mnt/stockage/packages/f20/kopete-cryptography/po/el/kopete-cryptography.po | 
- | [ja]({{< ref "/f20/language/ja.md" >}}) | 384 | 408 | 94.1 | /mnt/stockage/packages/f20/kopete-cryptography/po/ja/kopete-cryptography.po | 
- | [ro]({{< ref "/f20/language/ro.md" >}}) | 384 | 408 | 94.1 | /mnt/stockage/packages/f20/kopete-cryptography/po/ro/kopete-cryptography.po | 
- | [lt]({{< ref "/f20/language/lt.md" >}}) | 350 | 408 | 85.8 | /mnt/stockage/packages/f20/kopete-cryptography/po/lt/kopete-cryptography.po | 
- | [zh_Hans]({{< ref "/f20/language/zh_Hans.md" >}}) | 350 | 408 | 85.8 | /mnt/stockage/packages/f20/kopete-cryptography/po/zh_CN/kopete-cryptography.po | 
- | [pa]({{< ref "/f20/language/pa.md" >}}) | 114 | 408 | 27.9 | /mnt/stockage/packages/f20/kopete-cryptography/po/pa/kopete-cryptography.po | 
- | [de]({{< ref "/f20/language/de.md" >}}) | 63 | 408 | 15.4 | /mnt/stockage/packages/f20/kopete-cryptography/po/de/kopete-cryptography.po | 
- | [is]({{< ref "/f20/language/is.md" >}}) | 61 | 408 | 15.0 | /mnt/stockage/packages/f20/kopete-cryptography/po/is/kopete-cryptography.po | 
- | [hne]({{< ref "/f20/language/hne.md" >}}) | 55 | 408 | 13.5 | /mnt/stockage/packages/f20/kopete-cryptography/po/hne/kopete-cryptography.po | 
- | [cs]({{< ref "/f20/language/cs.md" >}}) | 37 | 408 | 9.1 | /mnt/stockage/packages/f20/kopete-cryptography/po/cs/kopete-cryptography.po | 
- | [be]({{< ref "/f20/language/be.md" >}}) | 33 | 408 | 8.1 | /mnt/stockage/packages/f20/kopete-cryptography/po/be/kopete-cryptography.po | 
- | [hi]({{< ref "/f20/language/hi.md" >}}) | 11 | 408 | 2.7 | /mnt/stockage/packages/f20/kopete-cryptography/po/hi/kopete-cryptography.po | 
- | [eo]({{< ref "/f20/language/eo.md" >}}) | 6 | 408 | 1.5 | /mnt/stockage/packages/f20/kopete-cryptography/po/eo/kopete-cryptography.po | 
- | [oc]({{< ref "/f20/language/oc.md" >}}) | 6 | 408 | 1.5 | /mnt/stockage/packages/f20/kopete-cryptography/po/oc/kopete-cryptography.po | 
- | [hr]({{< ref "/f20/language/hr.md" >}}) | 2 | 408 | 0.5 | /mnt/stockage/packages/f20/kopete-cryptography/po/hr/kopete-cryptography.po | 
- | [ar]({{< ref "/f20/language/ar.md" >}}) | 0 | 408 | 0.0 | /mnt/stockage/packages/f20/kopete-cryptography/po/ar/kopete-cryptography.po | 
- | [nn]({{< ref "/f20/language/nn.md" >}}) | 0 | 408 | 0.0 | /mnt/stockage/packages/f20/kopete-cryptography/po/nn/kopete-cryptography.po | 
- | [sk]({{< ref "/f20/language/sk.md" >}}) | 0 | 408 | 0.0 | /mnt/stockage/packages/f20/kopete-cryptography/po/sk/kopete-cryptography.po | 
+ | [da](/f20/language/da) | 408 | 408 | 100.0 | /mnt/stockage/packages/f20/kopete-cryptography/po/da/kopete-cryptography.po | 
+ | [en_GB](/f20/language/en_GB) | 408 | 408 | 100.0 | /mnt/stockage/packages/f20/kopete-cryptography/po/en_GB/kopete-cryptography.po | 
+ | [es](/f20/language/es) | 408 | 408 | 100.0 | /mnt/stockage/packages/f20/kopete-cryptography/po/es/kopete-cryptography.po | 
+ | [et](/f20/language/et) | 408 | 408 | 100.0 | /mnt/stockage/packages/f20/kopete-cryptography/po/et/kopete-cryptography.po | 
+ | [fr](/f20/language/fr) | 408 | 408 | 100.0 | /mnt/stockage/packages/f20/kopete-cryptography/po/fr/kopete-cryptography.po | 
+ | [ga](/f20/language/ga) | 408 | 408 | 100.0 | /mnt/stockage/packages/f20/kopete-cryptography/po/ga/kopete-cryptography.po | 
+ | [gl](/f20/language/gl) | 408 | 408 | 100.0 | /mnt/stockage/packages/f20/kopete-cryptography/po/gl/kopete-cryptography.po | 
+ | [it](/f20/language/it) | 408 | 408 | 100.0 | /mnt/stockage/packages/f20/kopete-cryptography/po/it/kopete-cryptography.po | 
+ | [km](/f20/language/km) | 408 | 408 | 100.0 | /mnt/stockage/packages/f20/kopete-cryptography/po/km/kopete-cryptography.po | 
+ | [nb_NO](/f20/language/nb_NO) | 408 | 408 | 100.0 | /mnt/stockage/packages/f20/kopete-cryptography/po/nb/kopete-cryptography.po | 
+ | [nds](/f20/language/nds) | 408 | 408 | 100.0 | /mnt/stockage/packages/f20/kopete-cryptography/po/nds/kopete-cryptography.po | 
+ | [nl](/f20/language/nl) | 408 | 408 | 100.0 | /mnt/stockage/packages/f20/kopete-cryptography/po/nl/kopete-cryptography.po | 
+ | [pt](/f20/language/pt) | 408 | 408 | 100.0 | /mnt/stockage/packages/f20/kopete-cryptography/po/pt/kopete-cryptography.po | 
+ | [pt_BR](/f20/language/pt_BR) | 408 | 408 | 100.0 | /mnt/stockage/packages/f20/kopete-cryptography/po/pt_BR/kopete-cryptography.po | 
+ | [sv](/f20/language/sv) | 408 | 408 | 100.0 | /mnt/stockage/packages/f20/kopete-cryptography/po/sv/kopete-cryptography.po | 
+ | [tr](/f20/language/tr) | 408 | 408 | 100.0 | /mnt/stockage/packages/f20/kopete-cryptography/po/tr/kopete-cryptography.po | 
+ | [uk](/f20/language/uk) | 408 | 408 | 100.0 | /mnt/stockage/packages/f20/kopete-cryptography/po/uk/kopete-cryptography.po | 
+ | [zh_Hant](/f20/language/zh_Hant) | 408 | 408 | 100.0 | /mnt/stockage/packages/f20/kopete-cryptography/po/zh_TW/kopete-cryptography.po | 
+ | [el](/f20/language/el) | 384 | 408 | 94.1 | /mnt/stockage/packages/f20/kopete-cryptography/po/el/kopete-cryptography.po | 
+ | [ja](/f20/language/ja) | 384 | 408 | 94.1 | /mnt/stockage/packages/f20/kopete-cryptography/po/ja/kopete-cryptography.po | 
+ | [ro](/f20/language/ro) | 384 | 408 | 94.1 | /mnt/stockage/packages/f20/kopete-cryptography/po/ro/kopete-cryptography.po | 
+ | [lt](/f20/language/lt) | 350 | 408 | 85.8 | /mnt/stockage/packages/f20/kopete-cryptography/po/lt/kopete-cryptography.po | 
+ | [zh_Hans](/f20/language/zh_Hans) | 350 | 408 | 85.8 | /mnt/stockage/packages/f20/kopete-cryptography/po/zh_CN/kopete-cryptography.po | 
+ | [pa](/f20/language/pa) | 114 | 408 | 27.9 | /mnt/stockage/packages/f20/kopete-cryptography/po/pa/kopete-cryptography.po | 
+ | [de](/f20/language/de) | 63 | 408 | 15.4 | /mnt/stockage/packages/f20/kopete-cryptography/po/de/kopete-cryptography.po | 
+ | [is](/f20/language/is) | 61 | 408 | 15.0 | /mnt/stockage/packages/f20/kopete-cryptography/po/is/kopete-cryptography.po | 
+ | [hne](/f20/language/hne) | 55 | 408 | 13.5 | /mnt/stockage/packages/f20/kopete-cryptography/po/hne/kopete-cryptography.po | 
+ | [cs](/f20/language/cs) | 37 | 408 | 9.1 | /mnt/stockage/packages/f20/kopete-cryptography/po/cs/kopete-cryptography.po | 
+ | [be](/f20/language/be) | 33 | 408 | 8.1 | /mnt/stockage/packages/f20/kopete-cryptography/po/be/kopete-cryptography.po | 
+ | [hi](/f20/language/hi) | 11 | 408 | 2.7 | /mnt/stockage/packages/f20/kopete-cryptography/po/hi/kopete-cryptography.po | 
+ | [eo](/f20/language/eo) | 6 | 408 | 1.5 | /mnt/stockage/packages/f20/kopete-cryptography/po/eo/kopete-cryptography.po | 
+ | [oc](/f20/language/oc) | 6 | 408 | 1.5 | /mnt/stockage/packages/f20/kopete-cryptography/po/oc/kopete-cryptography.po | 
+ | [hr](/f20/language/hr) | 2 | 408 | 0.5 | /mnt/stockage/packages/f20/kopete-cryptography/po/hr/kopete-cryptography.po | 
+ | [ar](/f20/language/ar) | 0 | 408 | 0.0 | /mnt/stockage/packages/f20/kopete-cryptography/po/ar/kopete-cryptography.po | 
+ | [nn](/f20/language/nn) | 0 | 408 | 0.0 | /mnt/stockage/packages/f20/kopete-cryptography/po/nn/kopete-cryptography.po | 
+ | [sk](/f20/language/sk) | 0 | 408 | 0.0 | /mnt/stockage/packages/f20/kopete-cryptography/po/sk/kopete-cryptography.po | 
 {.sortable}
 
 

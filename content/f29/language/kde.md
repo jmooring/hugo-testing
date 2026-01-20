@@ -38,7 +38,7 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [sflphone]({{< ref "/f29/package/sflphone.md" >}}) | 1563 | 2106 | 74.2 | Bosnian | 
+ | [sflphone](/f29/package/sflphone) | 1563 | 2106 | 74.2 | Bosnian | 
 {.sortable}
 
 

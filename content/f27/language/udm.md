@@ -38,9 +38,9 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [python-django]({{< ref "/f27/package/python-django.md" >}}) | 475 | 3350 | 14.2 | Udmurt (http://www.transifex.com/django/django/language/udm/) | 
- | [elementary-calculator]({{< ref "/f27/package/elementary-calculator.md" >}}) | 6 | 52 | 11.5 | Udmurt <udm@li.org> | 
- | [pantheon-calculator]({{< ref "/f27/package/pantheon-calculator.md" >}}) | 6 | 52 | 11.5 | Udmurt <udm@li.org> | 
+ | [python-django](/f27/package/python-django) | 475 | 3350 | 14.2 | Udmurt (http://www.transifex.com/django/django/language/udm/) | 
+ | [elementary-calculator](/f27/package/elementary-calculator) | 6 | 52 | 11.5 | Udmurt <udm@li.org> | 
+ | [pantheon-calculator](/f27/package/pantheon-calculator) | 6 | 52 | 11.5 | Udmurt <udm@li.org> | 
 {.sortable}
 
 

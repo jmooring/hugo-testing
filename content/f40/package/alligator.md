@@ -18,45 +18,45 @@ The package alligator (version 25.04.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f40/language/ar.md" >}}) | 193 | 193 | 100.0 | /mnt/stockage/packages/f40/alligator/po/ar/alligator.po | 
- | [ca]({{< ref "/f40/language/ca.md" >}}) | 193 | 193 | 100.0 | /mnt/stockage/packages/f40/alligator/po/ca/alligator.po | 
- | [ca@valencia]({{< ref "/f40/language/ca@valencia.md" >}}) | 193 | 193 | 100.0 | /mnt/stockage/packages/f40/alligator/po/ca@valencia/alligator.po | 
- | [es]({{< ref "/f40/language/es.md" >}}) | 193 | 193 | 100.0 | /mnt/stockage/packages/f40/alligator/po/es/alligator.po | 
- | [eu]({{< ref "/f40/language/eu.md" >}}) | 193 | 193 | 100.0 | /mnt/stockage/packages/f40/alligator/po/eu/alligator.po | 
- | [fi]({{< ref "/f40/language/fi.md" >}}) | 193 | 193 | 100.0 | /mnt/stockage/packages/f40/alligator/po/fi/alligator.po | 
- | [fr]({{< ref "/f40/language/fr.md" >}}) | 193 | 193 | 100.0 | /mnt/stockage/packages/f40/alligator/po/fr/alligator.po | 
- | [gl]({{< ref "/f40/language/gl.md" >}}) | 193 | 193 | 100.0 | /mnt/stockage/packages/f40/alligator/po/gl/alligator.po | 
- | [he]({{< ref "/f40/language/he.md" >}}) | 193 | 193 | 100.0 | /mnt/stockage/packages/f40/alligator/po/he/alligator.po | 
- | [ia]({{< ref "/f40/language/ia.md" >}}) | 193 | 193 | 100.0 | /mnt/stockage/packages/f40/alligator/po/ia/alligator.po | 
- | [it]({{< ref "/f40/language/it.md" >}}) | 193 | 193 | 100.0 | /mnt/stockage/packages/f40/alligator/po/it/alligator.po | 
- | [ka]({{< ref "/f40/language/ka.md" >}}) | 193 | 193 | 100.0 | /mnt/stockage/packages/f40/alligator/po/ka/alligator.po | 
- | [ko]({{< ref "/f40/language/ko.md" >}}) | 193 | 193 | 100.0 | /mnt/stockage/packages/f40/alligator/po/ko/alligator.po | 
- | [lv]({{< ref "/f40/language/lv.md" >}}) | 193 | 193 | 100.0 | /mnt/stockage/packages/f40/alligator/po/lv/alligator.po | 
- | [nl]({{< ref "/f40/language/nl.md" >}}) | 193 | 193 | 100.0 | /mnt/stockage/packages/f40/alligator/po/nl/alligator.po | 
- | [pl]({{< ref "/f40/language/pl.md" >}}) | 193 | 193 | 100.0 | /mnt/stockage/packages/f40/alligator/po/pl/alligator.po | 
- | [ru]({{< ref "/f40/language/ru.md" >}}) | 193 | 193 | 100.0 | /mnt/stockage/packages/f40/alligator/po/ru/alligator.po | 
- | [sl]({{< ref "/f40/language/sl.md" >}}) | 193 | 193 | 100.0 | /mnt/stockage/packages/f40/alligator/po/sl/alligator.po | 
- | [sv]({{< ref "/f40/language/sv.md" >}}) | 193 | 193 | 100.0 | /mnt/stockage/packages/f40/alligator/po/sv/alligator.po | 
- | [tr]({{< ref "/f40/language/tr.md" >}}) | 193 | 193 | 100.0 | /mnt/stockage/packages/f40/alligator/po/tr/alligator.po | 
- | [uk]({{< ref "/f40/language/uk.md" >}}) | 193 | 193 | 100.0 | /mnt/stockage/packages/f40/alligator/po/uk/alligator.po | 
- | [zh_Hans]({{< ref "/f40/language/zh_Hans.md" >}}) | 193 | 193 | 100.0 | /mnt/stockage/packages/f40/alligator/po/zh_CN/alligator.po | 
- | [zh_Hant]({{< ref "/f40/language/zh_Hant.md" >}}) | 193 | 193 | 100.0 | /mnt/stockage/packages/f40/alligator/po/zh_TW/alligator.po | 
- | [eo]({{< ref "/f40/language/eo.md" >}}) | 192 | 193 | 99.5 | /mnt/stockage/packages/f40/alligator/po/eo/alligator.po | 
- | [sa]({{< ref "/f40/language/sa.md" >}}) | 189 | 193 | 97.9 | /mnt/stockage/packages/f40/alligator/po/sa/alligator.po | 
- | [en_GB]({{< ref "/f40/language/en_GB.md" >}}) | 187 | 193 | 96.9 | /mnt/stockage/packages/f40/alligator/po/en_GB/alligator.po | 
- | [hu]({{< ref "/f40/language/hu.md" >}}) | 187 | 193 | 96.9 | /mnt/stockage/packages/f40/alligator/po/hu/alligator.po | 
- | [cs]({{< ref "/f40/language/cs.md" >}}) | 178 | 193 | 92.2 | /mnt/stockage/packages/f40/alligator/po/cs/alligator.po | 
- | [pt_BR]({{< ref "/f40/language/pt_BR.md" >}}) | 176 | 193 | 91.2 | /mnt/stockage/packages/f40/alligator/po/pt_BR/alligator.po | 
- | [de]({{< ref "/f40/language/de.md" >}}) | 175 | 193 | 90.7 | /mnt/stockage/packages/f40/alligator/po/de/alligator.po | 
- | [sk]({{< ref "/f40/language/sk.md" >}}) | 172 | 193 | 89.1 | /mnt/stockage/packages/f40/alligator/po/sk/alligator.po | 
- | [pt]({{< ref "/f40/language/pt.md" >}}) | 165 | 193 | 85.5 | /mnt/stockage/packages/f40/alligator/po/pt/alligator.po | 
- | [pa]({{< ref "/f40/language/pa.md" >}}) | 159 | 193 | 82.4 | /mnt/stockage/packages/f40/alligator/po/pa/alligator.po | 
- | [nn]({{< ref "/f40/language/nn.md" >}}) | 71 | 193 | 36.8 | /mnt/stockage/packages/f40/alligator/po/nn/alligator.po | 
- | [et]({{< ref "/f40/language/et.md" >}}) | 62 | 193 | 32.1 | /mnt/stockage/packages/f40/alligator/po/et/alligator.po | 
- | [ast]({{< ref "/f40/language/ast.md" >}}) | 4 | 193 | 2.1 | /mnt/stockage/packages/f40/alligator/po/ast/alligator.po | 
- | [hi]({{< ref "/f40/language/hi.md" >}}) | 0 | 193 | 0.0 | /mnt/stockage/packages/f40/alligator/po/hi/alligator.po | 
- | [ja]({{< ref "/f40/language/ja.md" >}}) | 0 | 193 | 0.0 | /mnt/stockage/packages/f40/alligator/po/ja/alligator.po | 
- | [lt]({{< ref "/f40/language/lt.md" >}}) | 0 | 193 | 0.0 | /mnt/stockage/packages/f40/alligator/po/lt/alligator.po | 
+ | [ar](/f40/language/ar) | 193 | 193 | 100.0 | /mnt/stockage/packages/f40/alligator/po/ar/alligator.po | 
+ | [ca](/f40/language/ca) | 193 | 193 | 100.0 | /mnt/stockage/packages/f40/alligator/po/ca/alligator.po | 
+ | [ca@valencia](/f40/language/ca@valencia) | 193 | 193 | 100.0 | /mnt/stockage/packages/f40/alligator/po/ca@valencia/alligator.po | 
+ | [es](/f40/language/es) | 193 | 193 | 100.0 | /mnt/stockage/packages/f40/alligator/po/es/alligator.po | 
+ | [eu](/f40/language/eu) | 193 | 193 | 100.0 | /mnt/stockage/packages/f40/alligator/po/eu/alligator.po | 
+ | [fi](/f40/language/fi) | 193 | 193 | 100.0 | /mnt/stockage/packages/f40/alligator/po/fi/alligator.po | 
+ | [fr](/f40/language/fr) | 193 | 193 | 100.0 | /mnt/stockage/packages/f40/alligator/po/fr/alligator.po | 
+ | [gl](/f40/language/gl) | 193 | 193 | 100.0 | /mnt/stockage/packages/f40/alligator/po/gl/alligator.po | 
+ | [he](/f40/language/he) | 193 | 193 | 100.0 | /mnt/stockage/packages/f40/alligator/po/he/alligator.po | 
+ | [ia](/f40/language/ia) | 193 | 193 | 100.0 | /mnt/stockage/packages/f40/alligator/po/ia/alligator.po | 
+ | [it](/f40/language/it) | 193 | 193 | 100.0 | /mnt/stockage/packages/f40/alligator/po/it/alligator.po | 
+ | [ka](/f40/language/ka) | 193 | 193 | 100.0 | /mnt/stockage/packages/f40/alligator/po/ka/alligator.po | 
+ | [ko](/f40/language/ko) | 193 | 193 | 100.0 | /mnt/stockage/packages/f40/alligator/po/ko/alligator.po | 
+ | [lv](/f40/language/lv) | 193 | 193 | 100.0 | /mnt/stockage/packages/f40/alligator/po/lv/alligator.po | 
+ | [nl](/f40/language/nl) | 193 | 193 | 100.0 | /mnt/stockage/packages/f40/alligator/po/nl/alligator.po | 
+ | [pl](/f40/language/pl) | 193 | 193 | 100.0 | /mnt/stockage/packages/f40/alligator/po/pl/alligator.po | 
+ | [ru](/f40/language/ru) | 193 | 193 | 100.0 | /mnt/stockage/packages/f40/alligator/po/ru/alligator.po | 
+ | [sl](/f40/language/sl) | 193 | 193 | 100.0 | /mnt/stockage/packages/f40/alligator/po/sl/alligator.po | 
+ | [sv](/f40/language/sv) | 193 | 193 | 100.0 | /mnt/stockage/packages/f40/alligator/po/sv/alligator.po | 
+ | [tr](/f40/language/tr) | 193 | 193 | 100.0 | /mnt/stockage/packages/f40/alligator/po/tr/alligator.po | 
+ | [uk](/f40/language/uk) | 193 | 193 | 100.0 | /mnt/stockage/packages/f40/alligator/po/uk/alligator.po | 
+ | [zh_Hans](/f40/language/zh_Hans) | 193 | 193 | 100.0 | /mnt/stockage/packages/f40/alligator/po/zh_CN/alligator.po | 
+ | [zh_Hant](/f40/language/zh_Hant) | 193 | 193 | 100.0 | /mnt/stockage/packages/f40/alligator/po/zh_TW/alligator.po | 
+ | [eo](/f40/language/eo) | 192 | 193 | 99.5 | /mnt/stockage/packages/f40/alligator/po/eo/alligator.po | 
+ | [sa](/f40/language/sa) | 189 | 193 | 97.9 | /mnt/stockage/packages/f40/alligator/po/sa/alligator.po | 
+ | [en_GB](/f40/language/en_GB) | 187 | 193 | 96.9 | /mnt/stockage/packages/f40/alligator/po/en_GB/alligator.po | 
+ | [hu](/f40/language/hu) | 187 | 193 | 96.9 | /mnt/stockage/packages/f40/alligator/po/hu/alligator.po | 
+ | [cs](/f40/language/cs) | 178 | 193 | 92.2 | /mnt/stockage/packages/f40/alligator/po/cs/alligator.po | 
+ | [pt_BR](/f40/language/pt_BR) | 176 | 193 | 91.2 | /mnt/stockage/packages/f40/alligator/po/pt_BR/alligator.po | 
+ | [de](/f40/language/de) | 175 | 193 | 90.7 | /mnt/stockage/packages/f40/alligator/po/de/alligator.po | 
+ | [sk](/f40/language/sk) | 172 | 193 | 89.1 | /mnt/stockage/packages/f40/alligator/po/sk/alligator.po | 
+ | [pt](/f40/language/pt) | 165 | 193 | 85.5 | /mnt/stockage/packages/f40/alligator/po/pt/alligator.po | 
+ | [pa](/f40/language/pa) | 159 | 193 | 82.4 | /mnt/stockage/packages/f40/alligator/po/pa/alligator.po | 
+ | [nn](/f40/language/nn) | 71 | 193 | 36.8 | /mnt/stockage/packages/f40/alligator/po/nn/alligator.po | 
+ | [et](/f40/language/et) | 62 | 193 | 32.1 | /mnt/stockage/packages/f40/alligator/po/et/alligator.po | 
+ | [ast](/f40/language/ast) | 4 | 193 | 2.1 | /mnt/stockage/packages/f40/alligator/po/ast/alligator.po | 
+ | [hi](/f40/language/hi) | 0 | 193 | 0.0 | /mnt/stockage/packages/f40/alligator/po/hi/alligator.po | 
+ | [ja](/f40/language/ja) | 0 | 193 | 0.0 | /mnt/stockage/packages/f40/alligator/po/ja/alligator.po | 
+ | [lt](/f40/language/lt) | 0 | 193 | 0.0 | /mnt/stockage/packages/f40/alligator/po/lt/alligator.po | 
 {.sortable}
 
 

@@ -18,42 +18,42 @@ The package neochat (version 23.01.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [es]({{< ref "/f36/language/es.md" >}}) | 2463 | 2463 | 100.0 | /mnt/stockage/packages/f36/neochat/po/es/neochat.po | 
- | [ar]({{< ref "/f36/language/ar.md" >}}) | 2463 | 2464 | 100.0 | /mnt/stockage/packages/f36/neochat/po/ar/neochat.po | 
- | [ca]({{< ref "/f36/language/ca.md" >}}) | 2463 | 2464 | 100.0 | /mnt/stockage/packages/f36/neochat/po/ca/neochat.po | 
- | [eu]({{< ref "/f36/language/eu.md" >}}) | 2463 | 2464 | 100.0 | /mnt/stockage/packages/f36/neochat/po/eu/neochat.po | 
- | [fr]({{< ref "/f36/language/fr.md" >}}) | 2463 | 2464 | 100.0 | /mnt/stockage/packages/f36/neochat/po/fr/neochat.po | 
- | [it]({{< ref "/f36/language/it.md" >}}) | 2463 | 2464 | 100.0 | /mnt/stockage/packages/f36/neochat/po/it/neochat.po | 
- | [ka]({{< ref "/f36/language/ka.md" >}}) | 2463 | 2464 | 100.0 | /mnt/stockage/packages/f36/neochat/po/ka/neochat.po | 
- | [nl]({{< ref "/f36/language/nl.md" >}}) | 2463 | 2464 | 100.0 | /mnt/stockage/packages/f36/neochat/po/nl/neochat.po | 
- | [sl]({{< ref "/f36/language/sl.md" >}}) | 2463 | 2464 | 100.0 | /mnt/stockage/packages/f36/neochat/po/sl/neochat.po | 
- | [tr]({{< ref "/f36/language/tr.md" >}}) | 2463 | 2464 | 100.0 | /mnt/stockage/packages/f36/neochat/po/tr/neochat.po | 
- | [uk]({{< ref "/f36/language/uk.md" >}}) | 2463 | 2464 | 100.0 | /mnt/stockage/packages/f36/neochat/po/uk/neochat.po | 
- | [ca@valencia]({{< ref "/f36/language/ca@valencia.md" >}}) | 2456 | 2464 | 99.7 | /mnt/stockage/packages/f36/neochat/po/ca@valencia/neochat.po | 
- | [pt]({{< ref "/f36/language/pt.md" >}}) | 2456 | 2464 | 99.7 | /mnt/stockage/packages/f36/neochat/po/pt/neochat.po | 
- | [id]({{< ref "/f36/language/id.md" >}}) | 2443 | 2464 | 99.1 | /mnt/stockage/packages/f36/neochat/po/id/neochat.po | 
- | [el]({{< ref "/f36/language/el.md" >}}) | 2430 | 2464 | 98.6 | /mnt/stockage/packages/f36/neochat/po/el/neochat.po | 
- | [ta]({{< ref "/f36/language/ta.md" >}}) | 2405 | 2464 | 97.6 | /mnt/stockage/packages/f36/neochat/po/ta/neochat.po | 
- | [en_GB]({{< ref "/f36/language/en_GB.md" >}}) | 2277 | 2464 | 92.4 | /mnt/stockage/packages/f36/neochat/po/en_GB/neochat.po | 
- | [ru]({{< ref "/f36/language/ru.md" >}}) | 2234 | 2464 | 90.7 | /mnt/stockage/packages/f36/neochat/po/ru/neochat.po | 
- | [de]({{< ref "/f36/language/de.md" >}}) | 2216 | 2464 | 89.9 | /mnt/stockage/packages/f36/neochat/po/de/neochat.po | 
- | [pl]({{< ref "/f36/language/pl.md" >}}) | 2203 | 2464 | 89.4 | /mnt/stockage/packages/f36/neochat/po/pl/neochat.po | 
- | [sv]({{< ref "/f36/language/sv.md" >}}) | 1414 | 2464 | 57.4 | /mnt/stockage/packages/f36/neochat/po/sv/neochat.po | 
- | [zh_Hans]({{< ref "/f36/language/zh_Hans.md" >}}) | 1400 | 2464 | 56.8 | /mnt/stockage/packages/f36/neochat/po/zh_CN/neochat.po | 
- | [ia]({{< ref "/f36/language/ia.md" >}}) | 1234 | 2464 | 50.1 | /mnt/stockage/packages/f36/neochat/po/ia/neochat.po | 
- | [az]({{< ref "/f36/language/az.md" >}}) | 1044 | 2464 | 42.4 | /mnt/stockage/packages/f36/neochat/po/az/neochat.po | 
- | [fi]({{< ref "/f36/language/fi.md" >}}) | 1044 | 2464 | 42.4 | /mnt/stockage/packages/f36/neochat/po/fi/neochat.po | 
- | [ko]({{< ref "/f36/language/ko.md" >}}) | 1044 | 2464 | 42.4 | /mnt/stockage/packages/f36/neochat/po/ko/neochat.po | 
- | [pt_BR]({{< ref "/f36/language/pt_BR.md" >}}) | 1044 | 2464 | 42.4 | /mnt/stockage/packages/f36/neochat/po/pt_BR/neochat.po | 
- | [hu]({{< ref "/f36/language/hu.md" >}}) | 844 | 2464 | 34.3 | /mnt/stockage/packages/f36/neochat/po/hu/neochat.po | 
- | [sk]({{< ref "/f36/language/sk.md" >}}) | 743 | 2464 | 30.2 | /mnt/stockage/packages/f36/neochat/po/sk/neochat.po | 
- | [pa]({{< ref "/f36/language/pa.md" >}}) | 673 | 2464 | 27.3 | /mnt/stockage/packages/f36/neochat/po/pa/neochat.po | 
- | [ie]({{< ref "/f36/language/ie.md" >}}) | 603 | 2464 | 24.5 | /mnt/stockage/packages/f36/neochat/po/ie/neochat.po | 
- | [nn]({{< ref "/f36/language/nn.md" >}}) | 587 | 2463 | 23.8 | /mnt/stockage/packages/f36/neochat/po/nn/neochat.po | 
- | [cs]({{< ref "/f36/language/cs.md" >}}) | 454 | 2464 | 18.4 | /mnt/stockage/packages/f36/neochat/po/cs/neochat.po | 
- | [tok]({{< ref "/f36/language/tok.md" >}}) | 177 | 2464 | 7.2 | /mnt/stockage/packages/f36/neochat/po/tok/neochat.po | 
- | [da]({{< ref "/f36/language/da.md" >}}) | 90 | 2464 | 3.7 | /mnt/stockage/packages/f36/neochat/po/da/neochat.po | 
- | [zh_Hant]({{< ref "/f36/language/zh_Hant.md" >}}) | 10 | 2464 | 0.4 | /mnt/stockage/packages/f36/neochat/po/zh_TW/neochat.po | 
+ | [es](/f36/language/es) | 2463 | 2463 | 100.0 | /mnt/stockage/packages/f36/neochat/po/es/neochat.po | 
+ | [ar](/f36/language/ar) | 2463 | 2464 | 100.0 | /mnt/stockage/packages/f36/neochat/po/ar/neochat.po | 
+ | [ca](/f36/language/ca) | 2463 | 2464 | 100.0 | /mnt/stockage/packages/f36/neochat/po/ca/neochat.po | 
+ | [eu](/f36/language/eu) | 2463 | 2464 | 100.0 | /mnt/stockage/packages/f36/neochat/po/eu/neochat.po | 
+ | [fr](/f36/language/fr) | 2463 | 2464 | 100.0 | /mnt/stockage/packages/f36/neochat/po/fr/neochat.po | 
+ | [it](/f36/language/it) | 2463 | 2464 | 100.0 | /mnt/stockage/packages/f36/neochat/po/it/neochat.po | 
+ | [ka](/f36/language/ka) | 2463 | 2464 | 100.0 | /mnt/stockage/packages/f36/neochat/po/ka/neochat.po | 
+ | [nl](/f36/language/nl) | 2463 | 2464 | 100.0 | /mnt/stockage/packages/f36/neochat/po/nl/neochat.po | 
+ | [sl](/f36/language/sl) | 2463 | 2464 | 100.0 | /mnt/stockage/packages/f36/neochat/po/sl/neochat.po | 
+ | [tr](/f36/language/tr) | 2463 | 2464 | 100.0 | /mnt/stockage/packages/f36/neochat/po/tr/neochat.po | 
+ | [uk](/f36/language/uk) | 2463 | 2464 | 100.0 | /mnt/stockage/packages/f36/neochat/po/uk/neochat.po | 
+ | [ca@valencia](/f36/language/ca@valencia) | 2456 | 2464 | 99.7 | /mnt/stockage/packages/f36/neochat/po/ca@valencia/neochat.po | 
+ | [pt](/f36/language/pt) | 2456 | 2464 | 99.7 | /mnt/stockage/packages/f36/neochat/po/pt/neochat.po | 
+ | [id](/f36/language/id) | 2443 | 2464 | 99.1 | /mnt/stockage/packages/f36/neochat/po/id/neochat.po | 
+ | [el](/f36/language/el) | 2430 | 2464 | 98.6 | /mnt/stockage/packages/f36/neochat/po/el/neochat.po | 
+ | [ta](/f36/language/ta) | 2405 | 2464 | 97.6 | /mnt/stockage/packages/f36/neochat/po/ta/neochat.po | 
+ | [en_GB](/f36/language/en_GB) | 2277 | 2464 | 92.4 | /mnt/stockage/packages/f36/neochat/po/en_GB/neochat.po | 
+ | [ru](/f36/language/ru) | 2234 | 2464 | 90.7 | /mnt/stockage/packages/f36/neochat/po/ru/neochat.po | 
+ | [de](/f36/language/de) | 2216 | 2464 | 89.9 | /mnt/stockage/packages/f36/neochat/po/de/neochat.po | 
+ | [pl](/f36/language/pl) | 2203 | 2464 | 89.4 | /mnt/stockage/packages/f36/neochat/po/pl/neochat.po | 
+ | [sv](/f36/language/sv) | 1414 | 2464 | 57.4 | /mnt/stockage/packages/f36/neochat/po/sv/neochat.po | 
+ | [zh_Hans](/f36/language/zh_Hans) | 1400 | 2464 | 56.8 | /mnt/stockage/packages/f36/neochat/po/zh_CN/neochat.po | 
+ | [ia](/f36/language/ia) | 1234 | 2464 | 50.1 | /mnt/stockage/packages/f36/neochat/po/ia/neochat.po | 
+ | [az](/f36/language/az) | 1044 | 2464 | 42.4 | /mnt/stockage/packages/f36/neochat/po/az/neochat.po | 
+ | [fi](/f36/language/fi) | 1044 | 2464 | 42.4 | /mnt/stockage/packages/f36/neochat/po/fi/neochat.po | 
+ | [ko](/f36/language/ko) | 1044 | 2464 | 42.4 | /mnt/stockage/packages/f36/neochat/po/ko/neochat.po | 
+ | [pt_BR](/f36/language/pt_BR) | 1044 | 2464 | 42.4 | /mnt/stockage/packages/f36/neochat/po/pt_BR/neochat.po | 
+ | [hu](/f36/language/hu) | 844 | 2464 | 34.3 | /mnt/stockage/packages/f36/neochat/po/hu/neochat.po | 
+ | [sk](/f36/language/sk) | 743 | 2464 | 30.2 | /mnt/stockage/packages/f36/neochat/po/sk/neochat.po | 
+ | [pa](/f36/language/pa) | 673 | 2464 | 27.3 | /mnt/stockage/packages/f36/neochat/po/pa/neochat.po | 
+ | [ie](/f36/language/ie) | 603 | 2464 | 24.5 | /mnt/stockage/packages/f36/neochat/po/ie/neochat.po | 
+ | [nn](/f36/language/nn) | 587 | 2463 | 23.8 | /mnt/stockage/packages/f36/neochat/po/nn/neochat.po | 
+ | [cs](/f36/language/cs) | 454 | 2464 | 18.4 | /mnt/stockage/packages/f36/neochat/po/cs/neochat.po | 
+ | [tok](/f36/language/tok) | 177 | 2464 | 7.2 | /mnt/stockage/packages/f36/neochat/po/tok/neochat.po | 
+ | [da](/f36/language/da) | 90 | 2464 | 3.7 | /mnt/stockage/packages/f36/neochat/po/da/neochat.po | 
+ | [zh_Hant](/f36/language/zh_Hant) | 10 | 2464 | 0.4 | /mnt/stockage/packages/f36/neochat/po/zh_TW/neochat.po | 
 {.sortable}
 
 

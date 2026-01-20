@@ -18,7 +18,7 @@ The package cutter (version 1.2.6):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ja]({{< ref "/f27/language/ja.md" >}}) | 10420 | 20420 | 51.0 | /mnt/stockage/packages/f27/cutter/doc/reference/ja.po/mnt/stockage/packages/f27/cutter/po/ja.po | 
+ | [ja](/f27/language/ja) | 10420 | 20420 | 51.0 | /mnt/stockage/packages/f27/cutter/doc/reference/ja.po/mnt/stockage/packages/f27/cutter/po/ja.po | 
 {.sortable}
 
 

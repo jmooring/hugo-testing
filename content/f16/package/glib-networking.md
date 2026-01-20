@@ -18,60 +18,60 @@ The package glib-networking (version 2.30.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [as]({{< ref "/f16/language/as.md" >}}) | 86 | 86 | 100.0 | /mnt/stockage/packages/f16/glib-networking/po/as.po | 
- | [bg]({{< ref "/f16/language/bg.md" >}}) | 86 | 86 | 100.0 | /mnt/stockage/packages/f16/glib-networking/po/bg.po | 
- | [bn_IN]({{< ref "/f16/language/bn_IN.md" >}}) | 86 | 86 | 100.0 | /mnt/stockage/packages/f16/glib-networking/po/bn_IN.po | 
- | [ca]({{< ref "/f16/language/ca.md" >}}) | 172 | 172 | 100.0 | /mnt/stockage/packages/f16/glib-networking/po/ca.po/mnt/stockage/packages/f16/glib-networking/po/ca@valencia.po | 
- | [cs]({{< ref "/f16/language/cs.md" >}}) | 86 | 86 | 100.0 | /mnt/stockage/packages/f16/glib-networking/po/cs.po | 
- | [da]({{< ref "/f16/language/da.md" >}}) | 86 | 86 | 100.0 | /mnt/stockage/packages/f16/glib-networking/po/da.po | 
- | [de]({{< ref "/f16/language/de.md" >}}) | 86 | 86 | 100.0 | /mnt/stockage/packages/f16/glib-networking/po/de.po | 
- | [el]({{< ref "/f16/language/el.md" >}}) | 86 | 86 | 100.0 | /mnt/stockage/packages/f16/glib-networking/po/el.po | 
- | [en_CA]({{< ref "/f16/language/en_CA.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f16/glib-networking/po/en_CA.po | 
- | [en_GB]({{< ref "/f16/language/en_GB.md" >}}) | 86 | 86 | 100.0 | /mnt/stockage/packages/f16/glib-networking/po/en_GB.po | 
- | [es]({{< ref "/f16/language/es.md" >}}) | 86 | 86 | 100.0 | /mnt/stockage/packages/f16/glib-networking/po/es.po | 
- | [et]({{< ref "/f16/language/et.md" >}}) | 86 | 86 | 100.0 | /mnt/stockage/packages/f16/glib-networking/po/et.po | 
- | [eu]({{< ref "/f16/language/eu.md" >}}) | 86 | 86 | 100.0 | /mnt/stockage/packages/f16/glib-networking/po/eu.po | 
- | [fa]({{< ref "/f16/language/fa.md" >}}) | 86 | 86 | 100.0 | /mnt/stockage/packages/f16/glib-networking/po/fa.po | 
- | [fi]({{< ref "/f16/language/fi.md" >}}) | 86 | 86 | 100.0 | /mnt/stockage/packages/f16/glib-networking/po/fi.po | 
- | [fr]({{< ref "/f16/language/fr.md" >}}) | 86 | 86 | 100.0 | /mnt/stockage/packages/f16/glib-networking/po/fr.po | 
- | [gl]({{< ref "/f16/language/gl.md" >}}) | 86 | 86 | 100.0 | /mnt/stockage/packages/f16/glib-networking/po/gl.po | 
- | [gu]({{< ref "/f16/language/gu.md" >}}) | 86 | 86 | 100.0 | /mnt/stockage/packages/f16/glib-networking/po/gu.po | 
- | [he]({{< ref "/f16/language/he.md" >}}) | 86 | 86 | 100.0 | /mnt/stockage/packages/f16/glib-networking/po/he.po | 
- | [hi]({{< ref "/f16/language/hi.md" >}}) | 86 | 86 | 100.0 | /mnt/stockage/packages/f16/glib-networking/po/hi.po | 
- | [hu]({{< ref "/f16/language/hu.md" >}}) | 86 | 86 | 100.0 | /mnt/stockage/packages/f16/glib-networking/po/hu.po | 
- | [id]({{< ref "/f16/language/id.md" >}}) | 86 | 86 | 100.0 | /mnt/stockage/packages/f16/glib-networking/po/id.po | 
- | [it]({{< ref "/f16/language/it.md" >}}) | 86 | 86 | 100.0 | /mnt/stockage/packages/f16/glib-networking/po/it.po | 
- | [ja]({{< ref "/f16/language/ja.md" >}}) | 86 | 86 | 100.0 | /mnt/stockage/packages/f16/glib-networking/po/ja.po | 
- | [kn]({{< ref "/f16/language/kn.md" >}}) | 86 | 86 | 100.0 | /mnt/stockage/packages/f16/glib-networking/po/kn.po | 
- | [ko]({{< ref "/f16/language/ko.md" >}}) | 86 | 86 | 100.0 | /mnt/stockage/packages/f16/glib-networking/po/ko.po | 
- | [lt]({{< ref "/f16/language/lt.md" >}}) | 86 | 86 | 100.0 | /mnt/stockage/packages/f16/glib-networking/po/lt.po | 
- | [lv]({{< ref "/f16/language/lv.md" >}}) | 86 | 86 | 100.0 | /mnt/stockage/packages/f16/glib-networking/po/lv.po | 
- | [mr]({{< ref "/f16/language/mr.md" >}}) | 86 | 86 | 100.0 | /mnt/stockage/packages/f16/glib-networking/po/mr.po | 
- | [nb_NO]({{< ref "/f16/language/nb_NO.md" >}}) | 86 | 86 | 100.0 | /mnt/stockage/packages/f16/glib-networking/po/nb.po | 
- | [nl]({{< ref "/f16/language/nl.md" >}}) | 86 | 86 | 100.0 | /mnt/stockage/packages/f16/glib-networking/po/nl.po | 
- | [or]({{< ref "/f16/language/or.md" >}}) | 86 | 86 | 100.0 | /mnt/stockage/packages/f16/glib-networking/po/or.po | 
- | [pa]({{< ref "/f16/language/pa.md" >}}) | 86 | 86 | 100.0 | /mnt/stockage/packages/f16/glib-networking/po/pa.po | 
- | [pl]({{< ref "/f16/language/pl.md" >}}) | 86 | 86 | 100.0 | /mnt/stockage/packages/f16/glib-networking/po/pl.po | 
- | [pt]({{< ref "/f16/language/pt.md" >}}) | 86 | 86 | 100.0 | /mnt/stockage/packages/f16/glib-networking/po/pt.po | 
- | [pt_BR]({{< ref "/f16/language/pt_BR.md" >}}) | 86 | 86 | 100.0 | /mnt/stockage/packages/f16/glib-networking/po/pt_BR.po | 
- | [ro]({{< ref "/f16/language/ro.md" >}}) | 86 | 86 | 100.0 | /mnt/stockage/packages/f16/glib-networking/po/ro.po | 
- | [ru]({{< ref "/f16/language/ru.md" >}}) | 86 | 86 | 100.0 | /mnt/stockage/packages/f16/glib-networking/po/ru.po | 
- | [sl]({{< ref "/f16/language/sl.md" >}}) | 86 | 86 | 100.0 | /mnt/stockage/packages/f16/glib-networking/po/sl.po | 
- | [sr]({{< ref "/f16/language/sr.md" >}}) | 86 | 86 | 100.0 | /mnt/stockage/packages/f16/glib-networking/po/sr.po | 
- | [sr_Latn]({{< ref "/f16/language/sr_Latn.md" >}}) | 86 | 86 | 100.0 | /mnt/stockage/packages/f16/glib-networking/po/sr@latin.po | 
- | [sv]({{< ref "/f16/language/sv.md" >}}) | 86 | 86 | 100.0 | /mnt/stockage/packages/f16/glib-networking/po/sv.po | 
- | [ta]({{< ref "/f16/language/ta.md" >}}) | 86 | 86 | 100.0 | /mnt/stockage/packages/f16/glib-networking/po/ta.po | 
- | [te]({{< ref "/f16/language/te.md" >}}) | 86 | 86 | 100.0 | /mnt/stockage/packages/f16/glib-networking/po/te.po | 
- | [th]({{< ref "/f16/language/th.md" >}}) | 86 | 86 | 100.0 | /mnt/stockage/packages/f16/glib-networking/po/th.po | 
- | [ug]({{< ref "/f16/language/ug.md" >}}) | 86 | 86 | 100.0 | /mnt/stockage/packages/f16/glib-networking/po/ug.po | 
- | [uk]({{< ref "/f16/language/uk.md" >}}) | 86 | 86 | 100.0 | /mnt/stockage/packages/f16/glib-networking/po/uk.po | 
- | [vi]({{< ref "/f16/language/vi.md" >}}) | 86 | 86 | 100.0 | /mnt/stockage/packages/f16/glib-networking/po/vi.po | 
- | [zh_Hans]({{< ref "/f16/language/zh_Hans.md" >}}) | 86 | 86 | 100.0 | /mnt/stockage/packages/f16/glib-networking/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f16/language/zh_Hant.md" >}}) | 86 | 86 | 100.0 | /mnt/stockage/packages/f16/glib-networking/po/zh_TW.po | 
- | [zh_Hant_HK]({{< ref "/f16/language/zh_Hant_HK.md" >}}) | 86 | 86 | 100.0 | /mnt/stockage/packages/f16/glib-networking/po/zh_HK.po | 
- | [tr]({{< ref "/f16/language/tr.md" >}}) | 75 | 86 | 87.2 | /mnt/stockage/packages/f16/glib-networking/po/tr.po | 
- | [eo]({{< ref "/f16/language/eo.md" >}}) | 72 | 86 | 83.7 | /mnt/stockage/packages/f16/glib-networking/po/eo.po | 
- | [be]({{< ref "/f16/language/be.md" >}}) | 66 | 86 | 76.7 | /mnt/stockage/packages/f16/glib-networking/po/be.po | 
+ | [as](/f16/language/as) | 86 | 86 | 100.0 | /mnt/stockage/packages/f16/glib-networking/po/as.po | 
+ | [bg](/f16/language/bg) | 86 | 86 | 100.0 | /mnt/stockage/packages/f16/glib-networking/po/bg.po | 
+ | [bn_IN](/f16/language/bn_IN) | 86 | 86 | 100.0 | /mnt/stockage/packages/f16/glib-networking/po/bn_IN.po | 
+ | [ca](/f16/language/ca) | 172 | 172 | 100.0 | /mnt/stockage/packages/f16/glib-networking/po/ca.po/mnt/stockage/packages/f16/glib-networking/po/ca@valencia.po | 
+ | [cs](/f16/language/cs) | 86 | 86 | 100.0 | /mnt/stockage/packages/f16/glib-networking/po/cs.po | 
+ | [da](/f16/language/da) | 86 | 86 | 100.0 | /mnt/stockage/packages/f16/glib-networking/po/da.po | 
+ | [de](/f16/language/de) | 86 | 86 | 100.0 | /mnt/stockage/packages/f16/glib-networking/po/de.po | 
+ | [el](/f16/language/el) | 86 | 86 | 100.0 | /mnt/stockage/packages/f16/glib-networking/po/el.po | 
+ | [en_CA](/f16/language/en_CA) | 4 | 4 | 100.0 | /mnt/stockage/packages/f16/glib-networking/po/en_CA.po | 
+ | [en_GB](/f16/language/en_GB) | 86 | 86 | 100.0 | /mnt/stockage/packages/f16/glib-networking/po/en_GB.po | 
+ | [es](/f16/language/es) | 86 | 86 | 100.0 | /mnt/stockage/packages/f16/glib-networking/po/es.po | 
+ | [et](/f16/language/et) | 86 | 86 | 100.0 | /mnt/stockage/packages/f16/glib-networking/po/et.po | 
+ | [eu](/f16/language/eu) | 86 | 86 | 100.0 | /mnt/stockage/packages/f16/glib-networking/po/eu.po | 
+ | [fa](/f16/language/fa) | 86 | 86 | 100.0 | /mnt/stockage/packages/f16/glib-networking/po/fa.po | 
+ | [fi](/f16/language/fi) | 86 | 86 | 100.0 | /mnt/stockage/packages/f16/glib-networking/po/fi.po | 
+ | [fr](/f16/language/fr) | 86 | 86 | 100.0 | /mnt/stockage/packages/f16/glib-networking/po/fr.po | 
+ | [gl](/f16/language/gl) | 86 | 86 | 100.0 | /mnt/stockage/packages/f16/glib-networking/po/gl.po | 
+ | [gu](/f16/language/gu) | 86 | 86 | 100.0 | /mnt/stockage/packages/f16/glib-networking/po/gu.po | 
+ | [he](/f16/language/he) | 86 | 86 | 100.0 | /mnt/stockage/packages/f16/glib-networking/po/he.po | 
+ | [hi](/f16/language/hi) | 86 | 86 | 100.0 | /mnt/stockage/packages/f16/glib-networking/po/hi.po | 
+ | [hu](/f16/language/hu) | 86 | 86 | 100.0 | /mnt/stockage/packages/f16/glib-networking/po/hu.po | 
+ | [id](/f16/language/id) | 86 | 86 | 100.0 | /mnt/stockage/packages/f16/glib-networking/po/id.po | 
+ | [it](/f16/language/it) | 86 | 86 | 100.0 | /mnt/stockage/packages/f16/glib-networking/po/it.po | 
+ | [ja](/f16/language/ja) | 86 | 86 | 100.0 | /mnt/stockage/packages/f16/glib-networking/po/ja.po | 
+ | [kn](/f16/language/kn) | 86 | 86 | 100.0 | /mnt/stockage/packages/f16/glib-networking/po/kn.po | 
+ | [ko](/f16/language/ko) | 86 | 86 | 100.0 | /mnt/stockage/packages/f16/glib-networking/po/ko.po | 
+ | [lt](/f16/language/lt) | 86 | 86 | 100.0 | /mnt/stockage/packages/f16/glib-networking/po/lt.po | 
+ | [lv](/f16/language/lv) | 86 | 86 | 100.0 | /mnt/stockage/packages/f16/glib-networking/po/lv.po | 
+ | [mr](/f16/language/mr) | 86 | 86 | 100.0 | /mnt/stockage/packages/f16/glib-networking/po/mr.po | 
+ | [nb_NO](/f16/language/nb_NO) | 86 | 86 | 100.0 | /mnt/stockage/packages/f16/glib-networking/po/nb.po | 
+ | [nl](/f16/language/nl) | 86 | 86 | 100.0 | /mnt/stockage/packages/f16/glib-networking/po/nl.po | 
+ | [or](/f16/language/or) | 86 | 86 | 100.0 | /mnt/stockage/packages/f16/glib-networking/po/or.po | 
+ | [pa](/f16/language/pa) | 86 | 86 | 100.0 | /mnt/stockage/packages/f16/glib-networking/po/pa.po | 
+ | [pl](/f16/language/pl) | 86 | 86 | 100.0 | /mnt/stockage/packages/f16/glib-networking/po/pl.po | 
+ | [pt](/f16/language/pt) | 86 | 86 | 100.0 | /mnt/stockage/packages/f16/glib-networking/po/pt.po | 
+ | [pt_BR](/f16/language/pt_BR) | 86 | 86 | 100.0 | /mnt/stockage/packages/f16/glib-networking/po/pt_BR.po | 
+ | [ro](/f16/language/ro) | 86 | 86 | 100.0 | /mnt/stockage/packages/f16/glib-networking/po/ro.po | 
+ | [ru](/f16/language/ru) | 86 | 86 | 100.0 | /mnt/stockage/packages/f16/glib-networking/po/ru.po | 
+ | [sl](/f16/language/sl) | 86 | 86 | 100.0 | /mnt/stockage/packages/f16/glib-networking/po/sl.po | 
+ | [sr](/f16/language/sr) | 86 | 86 | 100.0 | /mnt/stockage/packages/f16/glib-networking/po/sr.po | 
+ | [sr_Latn](/f16/language/sr_Latn) | 86 | 86 | 100.0 | /mnt/stockage/packages/f16/glib-networking/po/sr@latin.po | 
+ | [sv](/f16/language/sv) | 86 | 86 | 100.0 | /mnt/stockage/packages/f16/glib-networking/po/sv.po | 
+ | [ta](/f16/language/ta) | 86 | 86 | 100.0 | /mnt/stockage/packages/f16/glib-networking/po/ta.po | 
+ | [te](/f16/language/te) | 86 | 86 | 100.0 | /mnt/stockage/packages/f16/glib-networking/po/te.po | 
+ | [th](/f16/language/th) | 86 | 86 | 100.0 | /mnt/stockage/packages/f16/glib-networking/po/th.po | 
+ | [ug](/f16/language/ug) | 86 | 86 | 100.0 | /mnt/stockage/packages/f16/glib-networking/po/ug.po | 
+ | [uk](/f16/language/uk) | 86 | 86 | 100.0 | /mnt/stockage/packages/f16/glib-networking/po/uk.po | 
+ | [vi](/f16/language/vi) | 86 | 86 | 100.0 | /mnt/stockage/packages/f16/glib-networking/po/vi.po | 
+ | [zh_Hans](/f16/language/zh_Hans) | 86 | 86 | 100.0 | /mnt/stockage/packages/f16/glib-networking/po/zh_CN.po | 
+ | [zh_Hant](/f16/language/zh_Hant) | 86 | 86 | 100.0 | /mnt/stockage/packages/f16/glib-networking/po/zh_TW.po | 
+ | [zh_Hant_HK](/f16/language/zh_Hant_HK) | 86 | 86 | 100.0 | /mnt/stockage/packages/f16/glib-networking/po/zh_HK.po | 
+ | [tr](/f16/language/tr) | 75 | 86 | 87.2 | /mnt/stockage/packages/f16/glib-networking/po/tr.po | 
+ | [eo](/f16/language/eo) | 72 | 86 | 83.7 | /mnt/stockage/packages/f16/glib-networking/po/eo.po | 
+ | [be](/f16/language/be) | 66 | 86 | 76.7 | /mnt/stockage/packages/f16/glib-networking/po/be.po | 
 {.sortable}
 
 

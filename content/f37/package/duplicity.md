@@ -18,20 +18,20 @@ The package duplicity (version 1.2.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de_AT]({{< ref "/f37/language/de_AT.md" >}}) | 1937 | 2317 | 83.6 | /mnt/stockage/packages/f37/duplicity/po/de_AT.po | 
- | [cs]({{< ref "/f37/language/cs.md" >}}) | 1933 | 2317 | 83.4 | /mnt/stockage/packages/f37/duplicity/po/cs_CZ.po | 
- | [fr]({{< ref "/f37/language/fr.md" >}}) | 1571 | 2317 | 67.8 | /mnt/stockage/packages/f37/duplicity/po/fr_FR.po | 
- | [zh_Hans]({{< ref "/f37/language/zh_Hans.md" >}}) | 1567 | 2317 | 67.6 | /mnt/stockage/packages/f37/duplicity/po/zh_CN.po | 
- | [ru_UA]({{< ref "/f37/language/ru_UA.md" >}}) | 1347 | 2317 | 58.1 | /mnt/stockage/packages/f37/duplicity/po/ru_UA.po | 
- | [pt_BR]({{< ref "/f37/language/pt_BR.md" >}}) | 1318 | 2317 | 56.9 | /mnt/stockage/packages/f37/duplicity/po/pt_BR.po | 
- | [error]({{< ref "/f37/language/error.md" >}}) | 3199 | 6951 | 46.0 | /mnt/stockage/packages/f37/duplicity/po/ru_BY.po/mnt/stockage/packages/f37/duplicity/po/nl_SR.po/mnt/stockage/packages/f37/duplicity/po/es_EM.po | 
- | [ko]({{< ref "/f37/language/ko.md" >}}) | 349 | 2317 | 15.1 | /mnt/stockage/packages/f37/duplicity/po/ko_KR.po | 
- | [en_GB]({{< ref "/f37/language/en_GB.md" >}}) | 180 | 2317 | 7.8 | /mnt/stockage/packages/f37/duplicity/po/en_GB.po | 
- | [en_AU]({{< ref "/f37/language/en_AU.md" >}}) | 51 | 2317 | 2.2 | /mnt/stockage/packages/f37/duplicity/po/en_AU.po | 
- | [ca]({{< ref "/f37/language/ca.md" >}}) | 0 | 2317 | 0.0 | /mnt/stockage/packages/f37/duplicity/po/ca_ES.po | 
- | [nl]({{< ref "/f37/language/nl.md" >}}) | 0 | 2317 | 0.0 | /mnt/stockage/packages/f37/duplicity/po/nl_NL.po | 
- | [ro]({{< ref "/f37/language/ro.md" >}}) | 0 | 2317 | 0.0 | /mnt/stockage/packages/f37/duplicity/po/ro_RO.po | 
- | [zh_Hant]({{< ref "/f37/language/zh_Hant.md" >}}) | 0 | 2317 | 0.0 | /mnt/stockage/packages/f37/duplicity/po/zh_TW.po | 
+ | [de_AT](/f37/language/de_AT) | 1937 | 2317 | 83.6 | /mnt/stockage/packages/f37/duplicity/po/de_AT.po | 
+ | [cs](/f37/language/cs) | 1933 | 2317 | 83.4 | /mnt/stockage/packages/f37/duplicity/po/cs_CZ.po | 
+ | [fr](/f37/language/fr) | 1571 | 2317 | 67.8 | /mnt/stockage/packages/f37/duplicity/po/fr_FR.po | 
+ | [zh_Hans](/f37/language/zh_Hans) | 1567 | 2317 | 67.6 | /mnt/stockage/packages/f37/duplicity/po/zh_CN.po | 
+ | [ru_UA](/f37/language/ru_UA) | 1347 | 2317 | 58.1 | /mnt/stockage/packages/f37/duplicity/po/ru_UA.po | 
+ | [pt_BR](/f37/language/pt_BR) | 1318 | 2317 | 56.9 | /mnt/stockage/packages/f37/duplicity/po/pt_BR.po | 
+ | [error](/f37/language/error) | 3199 | 6951 | 46.0 | /mnt/stockage/packages/f37/duplicity/po/ru_BY.po/mnt/stockage/packages/f37/duplicity/po/nl_SR.po/mnt/stockage/packages/f37/duplicity/po/es_EM.po | 
+ | [ko](/f37/language/ko) | 349 | 2317 | 15.1 | /mnt/stockage/packages/f37/duplicity/po/ko_KR.po | 
+ | [en_GB](/f37/language/en_GB) | 180 | 2317 | 7.8 | /mnt/stockage/packages/f37/duplicity/po/en_GB.po | 
+ | [en_AU](/f37/language/en_AU) | 51 | 2317 | 2.2 | /mnt/stockage/packages/f37/duplicity/po/en_AU.po | 
+ | [ca](/f37/language/ca) | 0 | 2317 | 0.0 | /mnt/stockage/packages/f37/duplicity/po/ca_ES.po | 
+ | [nl](/f37/language/nl) | 0 | 2317 | 0.0 | /mnt/stockage/packages/f37/duplicity/po/nl_NL.po | 
+ | [ro](/f37/language/ro) | 0 | 2317 | 0.0 | /mnt/stockage/packages/f37/duplicity/po/ro_RO.po | 
+ | [zh_Hant](/f37/language/zh_Hant) | 0 | 2317 | 0.0 | /mnt/stockage/packages/f37/duplicity/po/zh_TW.po | 
 {.sortable}
 
 

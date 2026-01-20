@@ -38,7 +38,7 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [deepin-daemon]({{< ref "/f42/package/deepin-daemon.md" >}}) | 3 | 1222 | 0.2 | Kapampangan (https://app.transifex.com/linuxdeepin/teams/3617/pam/) | 
+ | [deepin-daemon](/f42/package/deepin-daemon) | 3 | 1222 | 0.2 | Kapampangan (https://app.transifex.com/linuxdeepin/teams/3617/pam/) | 
 {.sortable}
 
 

@@ -18,20 +18,20 @@ The package gaupol (version 1.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f29/language/cs.md" >}}) | 2000 | 2000 | 100.0 | /mnt/stockage/packages/f29/gaupol/po/cs.po | 
- | [es]({{< ref "/f29/language/es.md" >}}) | 2000 | 2000 | 100.0 | /mnt/stockage/packages/f29/gaupol/po/es.po | 
- | [fi]({{< ref "/f29/language/fi.md" >}}) | 2000 | 2000 | 100.0 | /mnt/stockage/packages/f29/gaupol/po/fi.po | 
- | [fr]({{< ref "/f29/language/fr.md" >}}) | 1959 | 2000 | 98.0 | /mnt/stockage/packages/f29/gaupol/po/fr.po | 
- | [pt_BR]({{< ref "/f29/language/pt_BR.md" >}}) | 1959 | 2000 | 98.0 | /mnt/stockage/packages/f29/gaupol/po/pt_BR.po | 
- | [pl]({{< ref "/f29/language/pl.md" >}}) | 1931 | 2000 | 96.5 | /mnt/stockage/packages/f29/gaupol/po/pl.po | 
- | [hu]({{< ref "/f29/language/hu.md" >}}) | 1882 | 2000 | 94.1 | /mnt/stockage/packages/f29/gaupol/po/hu.po | 
- | [sr]({{< ref "/f29/language/sr.md" >}}) | 1882 | 2000 | 94.1 | /mnt/stockage/packages/f29/gaupol/po/sr.po | 
- | [ru]({{< ref "/f29/language/ru.md" >}}) | 1696 | 2000 | 84.8 | /mnt/stockage/packages/f29/gaupol/po/ru.po | 
- | [gl]({{< ref "/f29/language/gl.md" >}}) | 1582 | 2000 | 79.1 | /mnt/stockage/packages/f29/gaupol/po/gl.po | 
- | [de]({{< ref "/f29/language/de.md" >}}) | 1523 | 2000 | 76.1 | /mnt/stockage/packages/f29/gaupol/po/de.po | 
- | [he]({{< ref "/f29/language/he.md" >}}) | 1505 | 2000 | 75.2 | /mnt/stockage/packages/f29/gaupol/po/he.po | 
- | [tr]({{< ref "/f29/language/tr.md" >}}) | 1505 | 2000 | 75.2 | /mnt/stockage/packages/f29/gaupol/po/tr.po | 
- | [is]({{< ref "/f29/language/is.md" >}}) | 1488 | 2000 | 74.4 | /mnt/stockage/packages/f29/gaupol/po/is.po | 
+ | [cs](/f29/language/cs) | 2000 | 2000 | 100.0 | /mnt/stockage/packages/f29/gaupol/po/cs.po | 
+ | [es](/f29/language/es) | 2000 | 2000 | 100.0 | /mnt/stockage/packages/f29/gaupol/po/es.po | 
+ | [fi](/f29/language/fi) | 2000 | 2000 | 100.0 | /mnt/stockage/packages/f29/gaupol/po/fi.po | 
+ | [fr](/f29/language/fr) | 1959 | 2000 | 98.0 | /mnt/stockage/packages/f29/gaupol/po/fr.po | 
+ | [pt_BR](/f29/language/pt_BR) | 1959 | 2000 | 98.0 | /mnt/stockage/packages/f29/gaupol/po/pt_BR.po | 
+ | [pl](/f29/language/pl) | 1931 | 2000 | 96.5 | /mnt/stockage/packages/f29/gaupol/po/pl.po | 
+ | [hu](/f29/language/hu) | 1882 | 2000 | 94.1 | /mnt/stockage/packages/f29/gaupol/po/hu.po | 
+ | [sr](/f29/language/sr) | 1882 | 2000 | 94.1 | /mnt/stockage/packages/f29/gaupol/po/sr.po | 
+ | [ru](/f29/language/ru) | 1696 | 2000 | 84.8 | /mnt/stockage/packages/f29/gaupol/po/ru.po | 
+ | [gl](/f29/language/gl) | 1582 | 2000 | 79.1 | /mnt/stockage/packages/f29/gaupol/po/gl.po | 
+ | [de](/f29/language/de) | 1523 | 2000 | 76.1 | /mnt/stockage/packages/f29/gaupol/po/de.po | 
+ | [he](/f29/language/he) | 1505 | 2000 | 75.2 | /mnt/stockage/packages/f29/gaupol/po/he.po | 
+ | [tr](/f29/language/tr) | 1505 | 2000 | 75.2 | /mnt/stockage/packages/f29/gaupol/po/tr.po | 
+ | [is](/f29/language/is) | 1488 | 2000 | 74.4 | /mnt/stockage/packages/f29/gaupol/po/is.po | 
 {.sortable}
 
 

@@ -18,22 +18,22 @@ The package thunar-archive-plugin (version 0.2.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f7/language/cs.md" >}}) | 86 | 86 | 100.0 | /mnt/stockage/packages/f7/thunar-archive-plugin/po/cs.po | 
- | [de]({{< ref "/f7/language/de.md" >}}) | 86 | 86 | 100.0 | /mnt/stockage/packages/f7/thunar-archive-plugin/po/de.po | 
- | [el]({{< ref "/f7/language/el.md" >}}) | 86 | 86 | 100.0 | /mnt/stockage/packages/f7/thunar-archive-plugin/po/el.po | 
- | [eu]({{< ref "/f7/language/eu.md" >}}) | 86 | 86 | 100.0 | /mnt/stockage/packages/f7/thunar-archive-plugin/po/eu.po | 
- | [fr]({{< ref "/f7/language/fr.md" >}}) | 86 | 86 | 100.0 | /mnt/stockage/packages/f7/thunar-archive-plugin/po/fr.po | 
- | [hu]({{< ref "/f7/language/hu.md" >}}) | 86 | 86 | 100.0 | /mnt/stockage/packages/f7/thunar-archive-plugin/po/hu.po | 
- | [it]({{< ref "/f7/language/it.md" >}}) | 86 | 86 | 100.0 | /mnt/stockage/packages/f7/thunar-archive-plugin/po/it.po | 
- | [nl]({{< ref "/f7/language/nl.md" >}}) | 86 | 86 | 100.0 | /mnt/stockage/packages/f7/thunar-archive-plugin/po/nl.po | 
- | [pa]({{< ref "/f7/language/pa.md" >}}) | 86 | 86 | 100.0 | /mnt/stockage/packages/f7/thunar-archive-plugin/po/pa.po | 
- | [pl]({{< ref "/f7/language/pl.md" >}}) | 86 | 86 | 100.0 | /mnt/stockage/packages/f7/thunar-archive-plugin/po/pl.po | 
- | [eo]({{< ref "/f7/language/eo.md" >}}) | 74 | 86 | 86.0 | /mnt/stockage/packages/f7/thunar-archive-plugin/po/eo.po | 
- | [zh_Hant]({{< ref "/f7/language/zh_Hant.md" >}}) | 74 | 86 | 86.0 | /mnt/stockage/packages/f7/thunar-archive-plugin/po/zh_TW.po | 
- | [ca]({{< ref "/f7/language/ca.md" >}}) | 52 | 86 | 60.5 | /mnt/stockage/packages/f7/thunar-archive-plugin/po/ca.po | 
- | [ja]({{< ref "/f7/language/ja.md" >}}) | 52 | 86 | 60.5 | /mnt/stockage/packages/f7/thunar-archive-plugin/po/ja.po | 
- | [ru]({{< ref "/f7/language/ru.md" >}}) | 52 | 86 | 60.5 | /mnt/stockage/packages/f7/thunar-archive-plugin/po/ru.po | 
- | [pt_BR]({{< ref "/f7/language/pt_BR.md" >}}) | 36 | 86 | 41.9 | /mnt/stockage/packages/f7/thunar-archive-plugin/po/pt_BR.po | 
+ | [cs](/f7/language/cs) | 86 | 86 | 100.0 | /mnt/stockage/packages/f7/thunar-archive-plugin/po/cs.po | 
+ | [de](/f7/language/de) | 86 | 86 | 100.0 | /mnt/stockage/packages/f7/thunar-archive-plugin/po/de.po | 
+ | [el](/f7/language/el) | 86 | 86 | 100.0 | /mnt/stockage/packages/f7/thunar-archive-plugin/po/el.po | 
+ | [eu](/f7/language/eu) | 86 | 86 | 100.0 | /mnt/stockage/packages/f7/thunar-archive-plugin/po/eu.po | 
+ | [fr](/f7/language/fr) | 86 | 86 | 100.0 | /mnt/stockage/packages/f7/thunar-archive-plugin/po/fr.po | 
+ | [hu](/f7/language/hu) | 86 | 86 | 100.0 | /mnt/stockage/packages/f7/thunar-archive-plugin/po/hu.po | 
+ | [it](/f7/language/it) | 86 | 86 | 100.0 | /mnt/stockage/packages/f7/thunar-archive-plugin/po/it.po | 
+ | [nl](/f7/language/nl) | 86 | 86 | 100.0 | /mnt/stockage/packages/f7/thunar-archive-plugin/po/nl.po | 
+ | [pa](/f7/language/pa) | 86 | 86 | 100.0 | /mnt/stockage/packages/f7/thunar-archive-plugin/po/pa.po | 
+ | [pl](/f7/language/pl) | 86 | 86 | 100.0 | /mnt/stockage/packages/f7/thunar-archive-plugin/po/pl.po | 
+ | [eo](/f7/language/eo) | 74 | 86 | 86.0 | /mnt/stockage/packages/f7/thunar-archive-plugin/po/eo.po | 
+ | [zh_Hant](/f7/language/zh_Hant) | 74 | 86 | 86.0 | /mnt/stockage/packages/f7/thunar-archive-plugin/po/zh_TW.po | 
+ | [ca](/f7/language/ca) | 52 | 86 | 60.5 | /mnt/stockage/packages/f7/thunar-archive-plugin/po/ca.po | 
+ | [ja](/f7/language/ja) | 52 | 86 | 60.5 | /mnt/stockage/packages/f7/thunar-archive-plugin/po/ja.po | 
+ | [ru](/f7/language/ru) | 52 | 86 | 60.5 | /mnt/stockage/packages/f7/thunar-archive-plugin/po/ru.po | 
+ | [pt_BR](/f7/language/pt_BR) | 36 | 86 | 41.9 | /mnt/stockage/packages/f7/thunar-archive-plugin/po/pt_BR.po | 
 {.sortable}
 
 

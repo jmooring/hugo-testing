@@ -18,8 +18,8 @@ The package waf (version 1.5.15):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [es]({{< ref "/f11/language/es.md" >}}) | 2117 | 2117 | 100.0 | /mnt/stockage/packages/f11/waf/demos/gnome/help/es/es.po/mnt/stockage/packages/f11/waf/demos/gnome/po/es.po | 
- | [fr]({{< ref "/f11/language/fr.md" >}}) | 2014 | 2014 | 100.0 | /mnt/stockage/packages/f11/waf/demos/gnome/help/fr/fr.po | 
+ | [es](/f11/language/es) | 2117 | 2117 | 100.0 | /mnt/stockage/packages/f11/waf/demos/gnome/help/es/es.po/mnt/stockage/packages/f11/waf/demos/gnome/po/es.po | 
+ | [fr](/f11/language/fr) | 2014 | 2014 | 100.0 | /mnt/stockage/packages/f11/waf/demos/gnome/help/fr/fr.po | 
 {.sortable}
 
 

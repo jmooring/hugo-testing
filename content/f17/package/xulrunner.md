@@ -18,7 +18,7 @@ The package xulrunner (version 22.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [en_US]({{< ref "/f17/language/en_US.md" >}}) | 6 | 6 | 100.0 | /mnt/stockage/packages/f17/xulrunner/python/mozbuild/mozbuild/locale/en-US/LC_MESSAGES/mozbuild.po | 
+ | [en_US](/f17/language/en_US) | 6 | 6 | 100.0 | /mnt/stockage/packages/f17/xulrunner/python/mozbuild/mozbuild/locale/en-US/LC_MESSAGES/mozbuild.po | 
 {.sortable}
 
 

@@ -18,16 +18,16 @@ The package php-horde-Horde-Imap-Client (version 2.29.16):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [da]({{< ref "/f27/language/da.md" >}}) | 383 | 383 | 100.0 | /mnt/stockage/packages/f27/php-horde-Horde-Imap-Client/Horde_Imap_Client-2.29.16/locale/da/LC_MESSAGES/Horde_Imap_Client.po | 
- | [de]({{< ref "/f27/language/de.md" >}}) | 760 | 760 | 100.0 | /mnt/stockage/packages/f27/php-horde-Horde-Imap-Client/Horde_Imap_Client-2.29.16/locale/el/LC_MESSAGES/Horde_Imap_Client.po/mnt/stockage/packages/f27/php-horde-Horde-Imap-Client/Horde_Imap_Client-2.29.16/locale/de/LC_MESSAGES/Horde_Imap_Client.po | 
- | [es]({{< ref "/f27/language/es.md" >}}) | 386 | 386 | 100.0 | /mnt/stockage/packages/f27/php-horde-Horde-Imap-Client/Horde_Imap_Client-2.29.16/locale/es/LC_MESSAGES/Horde_Imap_Client.po | 
- | [fi]({{< ref "/f27/language/fi.md" >}}) | 375 | 375 | 100.0 | /mnt/stockage/packages/f27/php-horde-Horde-Imap-Client/Horde_Imap_Client-2.29.16/locale/fi/LC_MESSAGES/Horde_Imap_Client.po | 
- | [fr]({{< ref "/f27/language/fr.md" >}}) | 389 | 389 | 100.0 | /mnt/stockage/packages/f27/php-horde-Horde-Imap-Client/Horde_Imap_Client-2.29.16/locale/fr/LC_MESSAGES/Horde_Imap_Client.po | 
- | [hu]({{< ref "/f27/language/hu.md" >}}) | 383 | 383 | 100.0 | /mnt/stockage/packages/f27/php-horde-Horde-Imap-Client/Horde_Imap_Client-2.29.16/locale/hu/LC_MESSAGES/Horde_Imap_Client.po | 
- | [ja]({{< ref "/f27/language/ja.md" >}}) | 383 | 383 | 100.0 | /mnt/stockage/packages/f27/php-horde-Horde-Imap-Client/Horde_Imap_Client-2.29.16/locale/ja/LC_MESSAGES/Horde_Imap_Client.po | 
- | [nl]({{< ref "/f27/language/nl.md" >}}) | 375 | 375 | 100.0 | /mnt/stockage/packages/f27/php-horde-Horde-Imap-Client/Horde_Imap_Client-2.29.16/locale/nl/LC_MESSAGES/Horde_Imap_Client.po | 
- | [tr]({{< ref "/f27/language/tr.md" >}}) | 390 | 390 | 100.0 | /mnt/stockage/packages/f27/php-horde-Horde-Imap-Client/Horde_Imap_Client-2.29.16/locale/tr/LC_MESSAGES/Horde_Imap_Client.po | 
- | [eu]({{< ref "/f27/language/eu.md" >}}) | 95 | 263 | 36.1 | /mnt/stockage/packages/f27/php-horde-Horde-Imap-Client/Horde_Imap_Client-2.29.16/locale/eu/LC_MESSAGES/Horde_Imap_Client.po | 
+ | [da](/f27/language/da) | 383 | 383 | 100.0 | /mnt/stockage/packages/f27/php-horde-Horde-Imap-Client/Horde_Imap_Client-2.29.16/locale/da/LC_MESSAGES/Horde_Imap_Client.po | 
+ | [de](/f27/language/de) | 760 | 760 | 100.0 | /mnt/stockage/packages/f27/php-horde-Horde-Imap-Client/Horde_Imap_Client-2.29.16/locale/el/LC_MESSAGES/Horde_Imap_Client.po/mnt/stockage/packages/f27/php-horde-Horde-Imap-Client/Horde_Imap_Client-2.29.16/locale/de/LC_MESSAGES/Horde_Imap_Client.po | 
+ | [es](/f27/language/es) | 386 | 386 | 100.0 | /mnt/stockage/packages/f27/php-horde-Horde-Imap-Client/Horde_Imap_Client-2.29.16/locale/es/LC_MESSAGES/Horde_Imap_Client.po | 
+ | [fi](/f27/language/fi) | 375 | 375 | 100.0 | /mnt/stockage/packages/f27/php-horde-Horde-Imap-Client/Horde_Imap_Client-2.29.16/locale/fi/LC_MESSAGES/Horde_Imap_Client.po | 
+ | [fr](/f27/language/fr) | 389 | 389 | 100.0 | /mnt/stockage/packages/f27/php-horde-Horde-Imap-Client/Horde_Imap_Client-2.29.16/locale/fr/LC_MESSAGES/Horde_Imap_Client.po | 
+ | [hu](/f27/language/hu) | 383 | 383 | 100.0 | /mnt/stockage/packages/f27/php-horde-Horde-Imap-Client/Horde_Imap_Client-2.29.16/locale/hu/LC_MESSAGES/Horde_Imap_Client.po | 
+ | [ja](/f27/language/ja) | 383 | 383 | 100.0 | /mnt/stockage/packages/f27/php-horde-Horde-Imap-Client/Horde_Imap_Client-2.29.16/locale/ja/LC_MESSAGES/Horde_Imap_Client.po | 
+ | [nl](/f27/language/nl) | 375 | 375 | 100.0 | /mnt/stockage/packages/f27/php-horde-Horde-Imap-Client/Horde_Imap_Client-2.29.16/locale/nl/LC_MESSAGES/Horde_Imap_Client.po | 
+ | [tr](/f27/language/tr) | 390 | 390 | 100.0 | /mnt/stockage/packages/f27/php-horde-Horde-Imap-Client/Horde_Imap_Client-2.29.16/locale/tr/LC_MESSAGES/Horde_Imap_Client.po | 
+ | [eu](/f27/language/eu) | 95 | 263 | 36.1 | /mnt/stockage/packages/f27/php-horde-Horde-Imap-Client/Horde_Imap_Client-2.29.16/locale/eu/LC_MESSAGES/Horde_Imap_Client.po | 
 {.sortable}
 
 

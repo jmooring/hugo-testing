@@ -44,9 +44,9 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [abiword]({{< ref "/f43/package/abiword.md" >}}) | 992 | 5394 | 18.4 | unknown <email@address> | 
- | [lollypop]({{< ref "/f43/package/lollypop.md" >}}) | 139 | 1428 | 9.7 | English (Ireland) <https://hosted.weblate.org/projects/gnumdk/lollypop/en_IE/> | 
- | [cinnamon-translations]({{< ref "/f43/package/cinnamon-translations.md" >}}) | 4 | 7533 | 0.1 | English (Ireland) <en_IE@li.org> | 
+ | [abiword](/f43/package/abiword) | 992 | 5394 | 18.4 | unknown <email@address> | 
+ | [lollypop](/f43/package/lollypop) | 139 | 1428 | 9.7 | English (Ireland) <https://hosted.weblate.org/projects/gnumdk/lollypop/en_IE/> | 
+ | [cinnamon-translations](/f43/package/cinnamon-translations) | 4 | 7533 | 0.1 | English (Ireland) <en_IE@li.org> | 
 {.sortable}
 
 

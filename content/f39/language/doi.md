@@ -38,10 +38,10 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [gnucash]({{< ref "/f39/package/gnucash.md" >}}) | 14324 | 39228 | 36.5 | NONE | 
- | [inkscape]({{< ref "/f39/package/inkscape.md" >}}) | 15931 | 49568 | 32.1 | LANGUAGE <LL@li.org> | 
- | [tuxpaint]({{< ref "/f39/package/tuxpaint.md" >}}) | 1120 | 3763 | 29.8 | Dogri | 
- | [libreoffice]({{< ref "/f39/package/libreoffice.md" >}}) | 45611 | 171188 | 26.6 | LANGUAGE <LL@li.org> | 
+ | [gnucash](/f39/package/gnucash) | 14324 | 39228 | 36.5 | NONE | 
+ | [inkscape](/f39/package/inkscape) | 15931 | 49568 | 32.1 | LANGUAGE <LL@li.org> | 
+ | [tuxpaint](/f39/package/tuxpaint) | 1120 | 3763 | 29.8 | Dogri | 
+ | [libreoffice](/f39/package/libreoffice) | 45611 | 171188 | 26.6 | LANGUAGE <LL@li.org> | 
 {.sortable}
 
 

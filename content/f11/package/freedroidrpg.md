@@ -18,10 +18,10 @@ The package freedroidrpg (version 0.12.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f11/language/de.md" >}}) | 28648 | 35947 | 79.7 | /mnt/stockage/packages/f11/freedroidrpg/po/de_DE/LC_MESSAGES/freedroidrpg.po/mnt/stockage/packages/f11/freedroidrpg/po/de_DE/LC_MESSAGES/freedroidrpg_data.po/mnt/stockage/packages/f11/freedroidrpg/po/de_DE/LC_MESSAGES/freedroidrpg_dialogs.po | 
- | [fr]({{< ref "/f11/language/fr.md" >}}) | 17046 | 35947 | 47.4 | /mnt/stockage/packages/f11/freedroidrpg/po/fr_FR/LC_MESSAGES/freedroidrpg.po/mnt/stockage/packages/f11/freedroidrpg/po/fr_FR/LC_MESSAGES/freedroidrpg_data.po/mnt/stockage/packages/f11/freedroidrpg/po/fr_FR/LC_MESSAGES/freedroidrpg_dialogs.po | 
- | [ru]({{< ref "/f11/language/ru.md" >}}) | 15374 | 35947 | 42.8 | /mnt/stockage/packages/f11/freedroidrpg/po/ru_RU/LC_MESSAGES/freedroidrpg.po/mnt/stockage/packages/f11/freedroidrpg/po/ru_RU/LC_MESSAGES/freedroidrpg_data.po/mnt/stockage/packages/f11/freedroidrpg/po/ru_RU/LC_MESSAGES/freedroidrpg_dialogs.po | 
- | [sv]({{< ref "/f11/language/sv.md" >}}) | 6021 | 35947 | 16.7 | /mnt/stockage/packages/f11/freedroidrpg/po/sv_SE/LC_MESSAGES/freedroidrpg.po/mnt/stockage/packages/f11/freedroidrpg/po/sv_SE/LC_MESSAGES/freedroidrpg_data.po/mnt/stockage/packages/f11/freedroidrpg/po/sv_SE/LC_MESSAGES/freedroidrpg_dialogs.po | 
+ | [de](/f11/language/de) | 28648 | 35947 | 79.7 | /mnt/stockage/packages/f11/freedroidrpg/po/de_DE/LC_MESSAGES/freedroidrpg.po/mnt/stockage/packages/f11/freedroidrpg/po/de_DE/LC_MESSAGES/freedroidrpg_data.po/mnt/stockage/packages/f11/freedroidrpg/po/de_DE/LC_MESSAGES/freedroidrpg_dialogs.po | 
+ | [fr](/f11/language/fr) | 17046 | 35947 | 47.4 | /mnt/stockage/packages/f11/freedroidrpg/po/fr_FR/LC_MESSAGES/freedroidrpg.po/mnt/stockage/packages/f11/freedroidrpg/po/fr_FR/LC_MESSAGES/freedroidrpg_data.po/mnt/stockage/packages/f11/freedroidrpg/po/fr_FR/LC_MESSAGES/freedroidrpg_dialogs.po | 
+ | [ru](/f11/language/ru) | 15374 | 35947 | 42.8 | /mnt/stockage/packages/f11/freedroidrpg/po/ru_RU/LC_MESSAGES/freedroidrpg.po/mnt/stockage/packages/f11/freedroidrpg/po/ru_RU/LC_MESSAGES/freedroidrpg_data.po/mnt/stockage/packages/f11/freedroidrpg/po/ru_RU/LC_MESSAGES/freedroidrpg_dialogs.po | 
+ | [sv](/f11/language/sv) | 6021 | 35947 | 16.7 | /mnt/stockage/packages/f11/freedroidrpg/po/sv_SE/LC_MESSAGES/freedroidrpg.po/mnt/stockage/packages/f11/freedroidrpg/po/sv_SE/LC_MESSAGES/freedroidrpg_data.po/mnt/stockage/packages/f11/freedroidrpg/po/sv_SE/LC_MESSAGES/freedroidrpg_dialogs.po | 
 {.sortable}
 
 

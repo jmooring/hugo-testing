@@ -18,23 +18,23 @@ The package nss-pam-ldapd (version 0.7.6):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f13/language/cs.md" >}}) | 438 | 438 | 100.0 | /mnt/stockage/packages/f13/nss-pam-ldapd/debian/po/cs.po | 
- | [de]({{< ref "/f13/language/de.md" >}}) | 438 | 438 | 100.0 | /mnt/stockage/packages/f13/nss-pam-ldapd/debian/po/de.po | 
- | [es]({{< ref "/f13/language/es.md" >}}) | 438 | 438 | 100.0 | /mnt/stockage/packages/f13/nss-pam-ldapd/debian/po/es.po | 
- | [fi]({{< ref "/f13/language/fi.md" >}}) | 438 | 438 | 100.0 | /mnt/stockage/packages/f13/nss-pam-ldapd/debian/po/fi.po | 
- | [fr]({{< ref "/f13/language/fr.md" >}}) | 438 | 438 | 100.0 | /mnt/stockage/packages/f13/nss-pam-ldapd/debian/po/fr.po | 
- | [gl]({{< ref "/f13/language/gl.md" >}}) | 438 | 438 | 100.0 | /mnt/stockage/packages/f13/nss-pam-ldapd/debian/po/gl.po | 
- | [it]({{< ref "/f13/language/it.md" >}}) | 438 | 438 | 100.0 | /mnt/stockage/packages/f13/nss-pam-ldapd/debian/po/it.po | 
- | [ja]({{< ref "/f13/language/ja.md" >}}) | 438 | 438 | 100.0 | /mnt/stockage/packages/f13/nss-pam-ldapd/debian/po/ja.po | 
- | [pt]({{< ref "/f13/language/pt.md" >}}) | 438 | 438 | 100.0 | /mnt/stockage/packages/f13/nss-pam-ldapd/debian/po/pt.po | 
- | [ru]({{< ref "/f13/language/ru.md" >}}) | 438 | 438 | 100.0 | /mnt/stockage/packages/f13/nss-pam-ldapd/debian/po/ru.po | 
- | [sv]({{< ref "/f13/language/sv.md" >}}) | 438 | 438 | 100.0 | /mnt/stockage/packages/f13/nss-pam-ldapd/debian/po/sv.po | 
- | [vi]({{< ref "/f13/language/vi.md" >}}) | 438 | 438 | 100.0 | /mnt/stockage/packages/f13/nss-pam-ldapd/debian/po/vi.po | 
- | [zh_Hans]({{< ref "/f13/language/zh_Hans.md" >}}) | 430 | 438 | 98.2 | /mnt/stockage/packages/f13/nss-pam-ldapd/debian/po/zh_CN.po | 
- | [da]({{< ref "/f13/language/da.md" >}}) | 185 | 438 | 42.2 | /mnt/stockage/packages/f13/nss-pam-ldapd/debian/po/da.po | 
- | [nl]({{< ref "/f13/language/nl.md" >}}) | 105 | 438 | 24.0 | /mnt/stockage/packages/f13/nss-pam-ldapd/debian/po/nl.po | 
- | [ca]({{< ref "/f13/language/ca.md" >}}) | 53 | 438 | 12.1 | /mnt/stockage/packages/f13/nss-pam-ldapd/debian/po/ca.po | 
- | [pt_BR]({{< ref "/f13/language/pt_BR.md" >}}) | 53 | 438 | 12.1 | /mnt/stockage/packages/f13/nss-pam-ldapd/debian/po/pt_BR.po | 
+ | [cs](/f13/language/cs) | 438 | 438 | 100.0 | /mnt/stockage/packages/f13/nss-pam-ldapd/debian/po/cs.po | 
+ | [de](/f13/language/de) | 438 | 438 | 100.0 | /mnt/stockage/packages/f13/nss-pam-ldapd/debian/po/de.po | 
+ | [es](/f13/language/es) | 438 | 438 | 100.0 | /mnt/stockage/packages/f13/nss-pam-ldapd/debian/po/es.po | 
+ | [fi](/f13/language/fi) | 438 | 438 | 100.0 | /mnt/stockage/packages/f13/nss-pam-ldapd/debian/po/fi.po | 
+ | [fr](/f13/language/fr) | 438 | 438 | 100.0 | /mnt/stockage/packages/f13/nss-pam-ldapd/debian/po/fr.po | 
+ | [gl](/f13/language/gl) | 438 | 438 | 100.0 | /mnt/stockage/packages/f13/nss-pam-ldapd/debian/po/gl.po | 
+ | [it](/f13/language/it) | 438 | 438 | 100.0 | /mnt/stockage/packages/f13/nss-pam-ldapd/debian/po/it.po | 
+ | [ja](/f13/language/ja) | 438 | 438 | 100.0 | /mnt/stockage/packages/f13/nss-pam-ldapd/debian/po/ja.po | 
+ | [pt](/f13/language/pt) | 438 | 438 | 100.0 | /mnt/stockage/packages/f13/nss-pam-ldapd/debian/po/pt.po | 
+ | [ru](/f13/language/ru) | 438 | 438 | 100.0 | /mnt/stockage/packages/f13/nss-pam-ldapd/debian/po/ru.po | 
+ | [sv](/f13/language/sv) | 438 | 438 | 100.0 | /mnt/stockage/packages/f13/nss-pam-ldapd/debian/po/sv.po | 
+ | [vi](/f13/language/vi) | 438 | 438 | 100.0 | /mnt/stockage/packages/f13/nss-pam-ldapd/debian/po/vi.po | 
+ | [zh_Hans](/f13/language/zh_Hans) | 430 | 438 | 98.2 | /mnt/stockage/packages/f13/nss-pam-ldapd/debian/po/zh_CN.po | 
+ | [da](/f13/language/da) | 185 | 438 | 42.2 | /mnt/stockage/packages/f13/nss-pam-ldapd/debian/po/da.po | 
+ | [nl](/f13/language/nl) | 105 | 438 | 24.0 | /mnt/stockage/packages/f13/nss-pam-ldapd/debian/po/nl.po | 
+ | [ca](/f13/language/ca) | 53 | 438 | 12.1 | /mnt/stockage/packages/f13/nss-pam-ldapd/debian/po/ca.po | 
+ | [pt_BR](/f13/language/pt_BR) | 53 | 438 | 12.1 | /mnt/stockage/packages/f13/nss-pam-ldapd/debian/po/pt_BR.po | 
 {.sortable}
 
 

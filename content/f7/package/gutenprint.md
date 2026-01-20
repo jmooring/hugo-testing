@@ -18,22 +18,22 @@ The package gutenprint (version 5.0.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [da]({{< ref "/f7/language/da.md" >}}) | 6660 | 6935 | 96.0 | /mnt/stockage/packages/f7/gutenprint/po/da.po | 
- | [en_GB]({{< ref "/f7/language/en_GB.md" >}}) | 6660 | 6935 | 96.0 | /mnt/stockage/packages/f7/gutenprint/po/en_GB.po | 
- | [nl]({{< ref "/f7/language/nl.md" >}}) | 6660 | 6935 | 96.0 | /mnt/stockage/packages/f7/gutenprint/po/nl.po | 
- | [fr]({{< ref "/f7/language/fr.md" >}}) | 6578 | 6935 | 94.9 | /mnt/stockage/packages/f7/gutenprint/po/fr.po | 
- | [sv]({{< ref "/f7/language/sv.md" >}}) | 6038 | 6935 | 87.1 | /mnt/stockage/packages/f7/gutenprint/po/sv.po | 
- | [hu]({{< ref "/f7/language/hu.md" >}}) | 5292 | 6935 | 76.3 | /mnt/stockage/packages/f7/gutenprint/po/hu.po | 
- | [cs]({{< ref "/f7/language/cs.md" >}}) | 2024 | 6935 | 29.2 | /mnt/stockage/packages/f7/gutenprint/po/cs.po | 
- | [ja]({{< ref "/f7/language/ja.md" >}}) | 2012 | 6935 | 29.0 | /mnt/stockage/packages/f7/gutenprint/po/ja.po | 
- | [pt]({{< ref "/f7/language/pt.md" >}}) | 2012 | 6935 | 29.0 | /mnt/stockage/packages/f7/gutenprint/po/pt.po | 
- | [de]({{< ref "/f7/language/de.md" >}}) | 1999 | 6935 | 28.8 | /mnt/stockage/packages/f7/gutenprint/po/de.po | 
- | [sk]({{< ref "/f7/language/sk.md" >}}) | 1999 | 6935 | 28.8 | /mnt/stockage/packages/f7/gutenprint/po/sk.po | 
- | [es]({{< ref "/f7/language/es.md" >}}) | 1863 | 6935 | 26.9 | /mnt/stockage/packages/f7/gutenprint/po/es.po | 
- | [zh_Hant]({{< ref "/f7/language/zh_Hant.md" >}}) | 1625 | 6935 | 23.4 | /mnt/stockage/packages/f7/gutenprint/po/zh_TW.po | 
- | [nb_NO]({{< ref "/f7/language/nb_NO.md" >}}) | 695 | 6935 | 10.0 | /mnt/stockage/packages/f7/gutenprint/po/nb.po | 
- | [pl]({{< ref "/f7/language/pl.md" >}}) | 316 | 6935 | 4.6 | /mnt/stockage/packages/f7/gutenprint/po/pl.po | 
- | [el]({{< ref "/f7/language/el.md" >}}) | 148 | 6935 | 2.1 | /mnt/stockage/packages/f7/gutenprint/po/el.po | 
+ | [da](/f7/language/da) | 6660 | 6935 | 96.0 | /mnt/stockage/packages/f7/gutenprint/po/da.po | 
+ | [en_GB](/f7/language/en_GB) | 6660 | 6935 | 96.0 | /mnt/stockage/packages/f7/gutenprint/po/en_GB.po | 
+ | [nl](/f7/language/nl) | 6660 | 6935 | 96.0 | /mnt/stockage/packages/f7/gutenprint/po/nl.po | 
+ | [fr](/f7/language/fr) | 6578 | 6935 | 94.9 | /mnt/stockage/packages/f7/gutenprint/po/fr.po | 
+ | [sv](/f7/language/sv) | 6038 | 6935 | 87.1 | /mnt/stockage/packages/f7/gutenprint/po/sv.po | 
+ | [hu](/f7/language/hu) | 5292 | 6935 | 76.3 | /mnt/stockage/packages/f7/gutenprint/po/hu.po | 
+ | [cs](/f7/language/cs) | 2024 | 6935 | 29.2 | /mnt/stockage/packages/f7/gutenprint/po/cs.po | 
+ | [ja](/f7/language/ja) | 2012 | 6935 | 29.0 | /mnt/stockage/packages/f7/gutenprint/po/ja.po | 
+ | [pt](/f7/language/pt) | 2012 | 6935 | 29.0 | /mnt/stockage/packages/f7/gutenprint/po/pt.po | 
+ | [de](/f7/language/de) | 1999 | 6935 | 28.8 | /mnt/stockage/packages/f7/gutenprint/po/de.po | 
+ | [sk](/f7/language/sk) | 1999 | 6935 | 28.8 | /mnt/stockage/packages/f7/gutenprint/po/sk.po | 
+ | [es](/f7/language/es) | 1863 | 6935 | 26.9 | /mnt/stockage/packages/f7/gutenprint/po/es.po | 
+ | [zh_Hant](/f7/language/zh_Hant) | 1625 | 6935 | 23.4 | /mnt/stockage/packages/f7/gutenprint/po/zh_TW.po | 
+ | [nb_NO](/f7/language/nb_NO) | 695 | 6935 | 10.0 | /mnt/stockage/packages/f7/gutenprint/po/nb.po | 
+ | [pl](/f7/language/pl) | 316 | 6935 | 4.6 | /mnt/stockage/packages/f7/gutenprint/po/pl.po | 
+ | [el](/f7/language/el) | 148 | 6935 | 2.1 | /mnt/stockage/packages/f7/gutenprint/po/el.po | 
 {.sortable}
 
 

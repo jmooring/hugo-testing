@@ -38,12 +38,12 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [supertux]({{< ref "/f25/package/supertux.md" >}}) | 229 | 2980 | 7.7 | Lojban (http://www.transifex.com/arctic-games/supertux/language/jbo/) | 
- | [gala]({{< ref "/f25/package/gala.md" >}}) | 24 | 683 | 3.5 | Lojban <jbo@li.org> | 
- | [minetest]({{< ref "/f25/package/minetest.md" >}}) | 174 | 6406 | 2.7 | Lojban <https://hosted.weblate.org/projects/minetest/minetest/jbo/> | 
- | [gtg]({{< ref "/f25/package/gtg.md" >}}) | 2 | 3497 | 0.1 | Lojban <jbo@li.org> | 
- | [pantheon-files]({{< ref "/f25/package/pantheon-files.md" >}}) | 1 | 2487 | 0.0 | Lojban <jbo@li.org> | 
- | [appcenter]({{< ref "/f25/package/appcenter.md" >}}) | 0 | 681 | 0.0 | Lojban <jbo@li.org> | 
+ | [supertux](/f25/package/supertux) | 229 | 2980 | 7.7 | Lojban (http://www.transifex.com/arctic-games/supertux/language/jbo/) | 
+ | [gala](/f25/package/gala) | 24 | 683 | 3.5 | Lojban <jbo@li.org> | 
+ | [minetest](/f25/package/minetest) | 174 | 6406 | 2.7 | Lojban <https://hosted.weblate.org/projects/minetest/minetest/jbo/> | 
+ | [gtg](/f25/package/gtg) | 2 | 3497 | 0.1 | Lojban <jbo@li.org> | 
+ | [pantheon-files](/f25/package/pantheon-files) | 1 | 2487 | 0.0 | Lojban <jbo@li.org> | 
+ | [appcenter](/f25/package/appcenter) | 0 | 681 | 0.0 | Lojban <jbo@li.org> | 
 {.sortable}
 
 

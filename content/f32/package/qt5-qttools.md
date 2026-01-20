@@ -18,8 +18,8 @@ The package qt5-qttools (version 5.14.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f32/language/de.md" >}}) | 48 | 48 | 100.0 | /mnt/stockage/packages/f32/qt5-qttools/tests/auto/linguist/lconvert/data/test1-de.po | 
- | [zh_Hans]({{< ref "/f32/language/zh_Hans.md" >}}) | 44 | 44 | 100.0 | /mnt/stockage/packages/f32/qt5-qttools/tests/auto/linguist/lconvert/data/test1-cn.po | 
+ | [de](/f32/language/de) | 48 | 48 | 100.0 | /mnt/stockage/packages/f32/qt5-qttools/tests/auto/linguist/lconvert/data/test1-de.po | 
+ | [zh_Hans](/f32/language/zh_Hans) | 44 | 44 | 100.0 | /mnt/stockage/packages/f32/qt5-qttools/tests/auto/linguist/lconvert/data/test1-cn.po | 
 {.sortable}
 
 

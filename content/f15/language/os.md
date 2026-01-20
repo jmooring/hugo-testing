@@ -39,8 +39,8 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [cmucl]({{< ref "/f15/package/cmucl.md" >}}) | 69 | 69 | 100.0 | Pig Latin (auto-translated) | 
- | [pychess]({{< ref "/f15/package/pychess.md" >}}) | 345 | 2849 | 12.1 | Occitan (post 1500) <oc@li.org> | 
+ | [cmucl](/f15/package/cmucl) | 69 | 69 | 100.0 | Pig Latin (auto-translated) | 
+ | [pychess](/f15/package/pychess) | 345 | 2849 | 12.1 | Occitan (post 1500) <oc@li.org> | 
 {.sortable}
 
 

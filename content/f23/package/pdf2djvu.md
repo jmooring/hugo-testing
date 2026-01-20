@@ -18,12 +18,12 @@ The package pdf2djvu (version 0.7.21):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f23/language/de.md" >}}) | 1756 | 1756 | 100.0 | /mnt/stockage/packages/f23/pdf2djvu/doc/po/pdf2djvu.de.po/mnt/stockage/packages/f23/pdf2djvu/po/de.po | 
- | [fr]({{< ref "/f23/language/fr.md" >}}) | 1114 | 1114 | 100.0 | /mnt/stockage/packages/f23/pdf2djvu/doc/po/pdf2djvu.fr.po | 
- | [pl]({{< ref "/f23/language/pl.md" >}}) | 1756 | 1756 | 100.0 | /mnt/stockage/packages/f23/pdf2djvu/doc/po/pdf2djvu.pl.po/mnt/stockage/packages/f23/pdf2djvu/po/pl.po | 
- | [pt]({{< ref "/f23/language/pt.md" >}}) | 1756 | 1756 | 100.0 | /mnt/stockage/packages/f23/pdf2djvu/doc/po/pdf2djvu.pt.po/mnt/stockage/packages/f23/pdf2djvu/po/pt.po | 
- | [ru]({{< ref "/f23/language/ru.md" >}}) | 1756 | 1756 | 100.0 | /mnt/stockage/packages/f23/pdf2djvu/doc/po/pdf2djvu.ru.po/mnt/stockage/packages/f23/pdf2djvu/po/ru.po | 
- | [uk]({{< ref "/f23/language/uk.md" >}}) | 1756 | 1756 | 100.0 | /mnt/stockage/packages/f23/pdf2djvu/doc/po/pdf2djvu.uk.po/mnt/stockage/packages/f23/pdf2djvu/po/uk.po | 
+ | [de](/f23/language/de) | 1756 | 1756 | 100.0 | /mnt/stockage/packages/f23/pdf2djvu/doc/po/pdf2djvu.de.po/mnt/stockage/packages/f23/pdf2djvu/po/de.po | 
+ | [fr](/f23/language/fr) | 1114 | 1114 | 100.0 | /mnt/stockage/packages/f23/pdf2djvu/doc/po/pdf2djvu.fr.po | 
+ | [pl](/f23/language/pl) | 1756 | 1756 | 100.0 | /mnt/stockage/packages/f23/pdf2djvu/doc/po/pdf2djvu.pl.po/mnt/stockage/packages/f23/pdf2djvu/po/pl.po | 
+ | [pt](/f23/language/pt) | 1756 | 1756 | 100.0 | /mnt/stockage/packages/f23/pdf2djvu/doc/po/pdf2djvu.pt.po/mnt/stockage/packages/f23/pdf2djvu/po/pt.po | 
+ | [ru](/f23/language/ru) | 1756 | 1756 | 100.0 | /mnt/stockage/packages/f23/pdf2djvu/doc/po/pdf2djvu.ru.po/mnt/stockage/packages/f23/pdf2djvu/po/ru.po | 
+ | [uk](/f23/language/uk) | 1756 | 1756 | 100.0 | /mnt/stockage/packages/f23/pdf2djvu/doc/po/pdf2djvu.uk.po/mnt/stockage/packages/f23/pdf2djvu/po/uk.po | 
 {.sortable}
 
 

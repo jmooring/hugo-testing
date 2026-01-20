@@ -18,13 +18,13 @@ The package scim-input-pad (version 0.1.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f10/language/de.md" >}}) | 226 | 226 | 100.0 | /mnt/stockage/packages/f10/scim-input-pad/po/de.po | 
- | [fr]({{< ref "/f10/language/fr.md" >}}) | 226 | 226 | 100.0 | /mnt/stockage/packages/f10/scim-input-pad/po/fr.po | 
- | [it]({{< ref "/f10/language/it.md" >}}) | 226 | 226 | 100.0 | /mnt/stockage/packages/f10/scim-input-pad/po/it.po | 
- | [ja]({{< ref "/f10/language/ja.md" >}}) | 226 | 226 | 100.0 | /mnt/stockage/packages/f10/scim-input-pad/po/ja.po | 
- | [zh_Hans]({{< ref "/f10/language/zh_Hans.md" >}}) | 223 | 226 | 98.7 | /mnt/stockage/packages/f10/scim-input-pad/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f10/language/zh_Hant.md" >}}) | 223 | 226 | 98.7 | /mnt/stockage/packages/f10/scim-input-pad/po/zh_TW.po | 
- | [pa]({{< ref "/f10/language/pa.md" >}}) | 112 | 226 | 49.6 | /mnt/stockage/packages/f10/scim-input-pad/po/pa.po | 
+ | [de](/f10/language/de) | 226 | 226 | 100.0 | /mnt/stockage/packages/f10/scim-input-pad/po/de.po | 
+ | [fr](/f10/language/fr) | 226 | 226 | 100.0 | /mnt/stockage/packages/f10/scim-input-pad/po/fr.po | 
+ | [it](/f10/language/it) | 226 | 226 | 100.0 | /mnt/stockage/packages/f10/scim-input-pad/po/it.po | 
+ | [ja](/f10/language/ja) | 226 | 226 | 100.0 | /mnt/stockage/packages/f10/scim-input-pad/po/ja.po | 
+ | [zh_Hans](/f10/language/zh_Hans) | 223 | 226 | 98.7 | /mnt/stockage/packages/f10/scim-input-pad/po/zh_CN.po | 
+ | [zh_Hant](/f10/language/zh_Hant) | 223 | 226 | 98.7 | /mnt/stockage/packages/f10/scim-input-pad/po/zh_TW.po | 
+ | [pa](/f10/language/pa) | 112 | 226 | 49.6 | /mnt/stockage/packages/f10/scim-input-pad/po/pa.po | 
 {.sortable}
 
 

@@ -18,88 +18,88 @@ The package system-config-date-docs (version 1.0.8):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f12/language/ca.md" >}}) | 728 | 728 | 100.0 | /mnt/stockage/packages/f12/system-config-date-docs/doc/ca/ca.po | 
- | [da]({{< ref "/f12/language/da.md" >}}) | 728 | 728 | 100.0 | /mnt/stockage/packages/f12/system-config-date-docs/doc/da/da.po | 
- | [de]({{< ref "/f12/language/de.md" >}}) | 728 | 728 | 100.0 | /mnt/stockage/packages/f12/system-config-date-docs/doc/de/de.po | 
- | [es]({{< ref "/f12/language/es.md" >}}) | 728 | 728 | 100.0 | /mnt/stockage/packages/f12/system-config-date-docs/doc/es/es.po | 
- | [gu]({{< ref "/f12/language/gu.md" >}}) | 728 | 728 | 100.0 | /mnt/stockage/packages/f12/system-config-date-docs/doc/gu/gu.po | 
- | [hu]({{< ref "/f12/language/hu.md" >}}) | 728 | 728 | 100.0 | /mnt/stockage/packages/f12/system-config-date-docs/doc/hu/hu.po | 
- | [it]({{< ref "/f12/language/it.md" >}}) | 728 | 728 | 100.0 | /mnt/stockage/packages/f12/system-config-date-docs/doc/it/it.po | 
- | [ja]({{< ref "/f12/language/ja.md" >}}) | 728 | 728 | 100.0 | /mnt/stockage/packages/f12/system-config-date-docs/doc/ja/ja.po | 
- | [kn]({{< ref "/f12/language/kn.md" >}}) | 728 | 728 | 100.0 | /mnt/stockage/packages/f12/system-config-date-docs/doc/kn/kn.po | 
- | [ml]({{< ref "/f12/language/ml.md" >}}) | 728 | 728 | 100.0 | /mnt/stockage/packages/f12/system-config-date-docs/doc/ml/ml.po | 
- | [nl]({{< ref "/f12/language/nl.md" >}}) | 728 | 728 | 100.0 | /mnt/stockage/packages/f12/system-config-date-docs/doc/nl/nl.po | 
- | [pa]({{< ref "/f12/language/pa.md" >}}) | 728 | 728 | 100.0 | /mnt/stockage/packages/f12/system-config-date-docs/doc/pa/pa.po | 
- | [pl]({{< ref "/f12/language/pl.md" >}}) | 728 | 728 | 100.0 | /mnt/stockage/packages/f12/system-config-date-docs/doc/pl/pl.po | 
- | [pt]({{< ref "/f12/language/pt.md" >}}) | 728 | 728 | 100.0 | /mnt/stockage/packages/f12/system-config-date-docs/doc/pt/pt.po | 
- | [pt_BR]({{< ref "/f12/language/pt_BR.md" >}}) | 728 | 728 | 100.0 | /mnt/stockage/packages/f12/system-config-date-docs/doc/pt_BR/pt_BR.po | 
- | [ru]({{< ref "/f12/language/ru.md" >}}) | 728 | 728 | 100.0 | /mnt/stockage/packages/f12/system-config-date-docs/doc/ru/ru.po | 
- | [sr]({{< ref "/f12/language/sr.md" >}}) | 728 | 728 | 100.0 | /mnt/stockage/packages/f12/system-config-date-docs/doc/sr/sr.po | 
- | [sr_Latn]({{< ref "/f12/language/sr_Latn.md" >}}) | 728 | 728 | 100.0 | /mnt/stockage/packages/f12/system-config-date-docs/doc/sr@latin/sr@latin.po | 
- | [sv]({{< ref "/f12/language/sv.md" >}}) | 728 | 728 | 100.0 | /mnt/stockage/packages/f12/system-config-date-docs/doc/sv/sv.po | 
- | [ta]({{< ref "/f12/language/ta.md" >}}) | 728 | 728 | 100.0 | /mnt/stockage/packages/f12/system-config-date-docs/doc/ta/ta.po | 
- | [te]({{< ref "/f12/language/te.md" >}}) | 728 | 728 | 100.0 | /mnt/stockage/packages/f12/system-config-date-docs/doc/te/te.po | 
- | [th]({{< ref "/f12/language/th.md" >}}) | 728 | 728 | 100.0 | /mnt/stockage/packages/f12/system-config-date-docs/doc/th/th.po | 
- | [zh_Hant]({{< ref "/f12/language/zh_Hant.md" >}}) | 728 | 728 | 100.0 | /mnt/stockage/packages/f12/system-config-date-docs/doc/zh_TW/zh_TW.po | 
- | [zh_Hans]({{< ref "/f12/language/zh_Hans.md" >}}) | 719 | 728 | 98.8 | /mnt/stockage/packages/f12/system-config-date-docs/doc/zh_CN/zh_CN.po | 
- | [fr]({{< ref "/f12/language/fr.md" >}}) | 660 | 728 | 90.7 | /mnt/stockage/packages/f12/system-config-date-docs/doc/fr/fr.po | 
- | [mr]({{< ref "/f12/language/mr.md" >}}) | 405 | 728 | 55.6 | /mnt/stockage/packages/f12/system-config-date-docs/doc/mr/mr.po | 
- | [el]({{< ref "/f12/language/el.md" >}}) | 337 | 728 | 46.3 | /mnt/stockage/packages/f12/system-config-date-docs/doc/el/el.po | 
- | [or]({{< ref "/f12/language/or.md" >}}) | 83 | 728 | 11.4 | /mnt/stockage/packages/f12/system-config-date-docs/doc/or/or.po | 
- | [hi]({{< ref "/f12/language/hi.md" >}}) | 43 | 728 | 5.9 | /mnt/stockage/packages/f12/system-config-date-docs/doc/hi/hi.po | 
- | [af]({{< ref "/f12/language/af.md" >}}) | 0 | 728 | 0.0 | /mnt/stockage/packages/f12/system-config-date-docs/doc/af/af.po | 
- | [am]({{< ref "/f12/language/am.md" >}}) | 0 | 728 | 0.0 | /mnt/stockage/packages/f12/system-config-date-docs/doc/am/am.po | 
- | [ar]({{< ref "/f12/language/ar.md" >}}) | 0 | 728 | 0.0 | /mnt/stockage/packages/f12/system-config-date-docs/doc/ar/ar.po | 
- | [as]({{< ref "/f12/language/as.md" >}}) | 0 | 728 | 0.0 | /mnt/stockage/packages/f12/system-config-date-docs/doc/as/as.po | 
- | [az]({{< ref "/f12/language/az.md" >}}) | 0 | 728 | 0.0 | /mnt/stockage/packages/f12/system-config-date-docs/doc/az/az.po | 
- | [bal]({{< ref "/f12/language/bal.md" >}}) | 0 | 728 | 0.0 | /mnt/stockage/packages/f12/system-config-date-docs/doc/bal/bal.po | 
- | [be]({{< ref "/f12/language/be.md" >}}) | 0 | 728 | 0.0 | /mnt/stockage/packages/f12/system-config-date-docs/doc/be/be.po | 
- | [be_Latn]({{< ref "/f12/language/be_Latn.md" >}}) | 0 | 728 | 0.0 | /mnt/stockage/packages/f12/system-config-date-docs/doc/be@latin/be@latin.po | 
- | [bg]({{< ref "/f12/language/bg.md" >}}) | 0 | 728 | 0.0 | /mnt/stockage/packages/f12/system-config-date-docs/doc/bg/bg.po | 
- | [bn]({{< ref "/f12/language/bn.md" >}}) | 0 | 728 | 0.0 | /mnt/stockage/packages/f12/system-config-date-docs/doc/bn/bn.po | 
- | [bn_IN]({{< ref "/f12/language/bn_IN.md" >}}) | 0 | 728 | 0.0 | /mnt/stockage/packages/f12/system-config-date-docs/doc/bn_IN/bn_IN.po | 
- | [bs]({{< ref "/f12/language/bs.md" >}}) | 0 | 728 | 0.0 | /mnt/stockage/packages/f12/system-config-date-docs/doc/bs/bs.po | 
- | [cs]({{< ref "/f12/language/cs.md" >}}) | 0 | 728 | 0.0 | /mnt/stockage/packages/f12/system-config-date-docs/doc/cs/cs.po | 
- | [cy]({{< ref "/f12/language/cy.md" >}}) | 0 | 728 | 0.0 | /mnt/stockage/packages/f12/system-config-date-docs/doc/cy/cy.po | 
- | [dz]({{< ref "/f12/language/dz.md" >}}) | 0 | 728 | 0.0 | /mnt/stockage/packages/f12/system-config-date-docs/doc/dz/dz.po | 
- | [en_GB]({{< ref "/f12/language/en_GB.md" >}}) | 0 | 728 | 0.0 | /mnt/stockage/packages/f12/system-config-date-docs/doc/en_GB/en_GB.po | 
- | [et]({{< ref "/f12/language/et.md" >}}) | 0 | 728 | 0.0 | /mnt/stockage/packages/f12/system-config-date-docs/doc/et/et.po | 
- | [eu]({{< ref "/f12/language/eu.md" >}}) | 0 | 1456 | 0.0 | /mnt/stockage/packages/f12/system-config-date-docs/doc/eu_ES/eu_ES.po/mnt/stockage/packages/f12/system-config-date-docs/doc/eu/eu.po | 
- | [fa]({{< ref "/f12/language/fa.md" >}}) | 0 | 728 | 0.0 | /mnt/stockage/packages/f12/system-config-date-docs/doc/fa/fa.po | 
- | [fi]({{< ref "/f12/language/fi.md" >}}) | 0 | 728 | 0.0 | /mnt/stockage/packages/f12/system-config-date-docs/doc/fi/fi.po | 
- | [gl]({{< ref "/f12/language/gl.md" >}}) | 0 | 728 | 0.0 | /mnt/stockage/packages/f12/system-config-date-docs/doc/gl/gl.po | 
- | [he]({{< ref "/f12/language/he.md" >}}) | 0 | 728 | 0.0 | /mnt/stockage/packages/f12/system-config-date-docs/doc/he/he.po | 
- | [hr]({{< ref "/f12/language/hr.md" >}}) | 0 | 728 | 0.0 | /mnt/stockage/packages/f12/system-config-date-docs/doc/hr/hr.po | 
- | [hy]({{< ref "/f12/language/hy.md" >}}) | 0 | 728 | 0.0 | /mnt/stockage/packages/f12/system-config-date-docs/doc/hy/hy.po | 
- | [id]({{< ref "/f12/language/id.md" >}}) | 0 | 728 | 0.0 | /mnt/stockage/packages/f12/system-config-date-docs/doc/id/id.po | 
- | [ilo]({{< ref "/f12/language/ilo.md" >}}) | 0 | 728 | 0.0 | /mnt/stockage/packages/f12/system-config-date-docs/doc/ilo/ilo.po | 
- | [is]({{< ref "/f12/language/is.md" >}}) | 0 | 728 | 0.0 | /mnt/stockage/packages/f12/system-config-date-docs/doc/is/is.po | 
- | [ka]({{< ref "/f12/language/ka.md" >}}) | 0 | 728 | 0.0 | /mnt/stockage/packages/f12/system-config-date-docs/doc/ka/ka.po | 
- | [ko]({{< ref "/f12/language/ko.md" >}}) | 0 | 728 | 0.0 | /mnt/stockage/packages/f12/system-config-date-docs/doc/ko/ko.po | 
- | [ku]({{< ref "/f12/language/ku.md" >}}) | 0 | 728 | 0.0 | /mnt/stockage/packages/f12/system-config-date-docs/doc/ku/ku.po | 
- | [lo]({{< ref "/f12/language/lo.md" >}}) | 0 | 728 | 0.0 | /mnt/stockage/packages/f12/system-config-date-docs/doc/lo/lo.po | 
- | [lt]({{< ref "/f12/language/lt.md" >}}) | 0 | 728 | 0.0 | /mnt/stockage/packages/f12/system-config-date-docs/doc/lt/lt.po | 
- | [lv]({{< ref "/f12/language/lv.md" >}}) | 0 | 728 | 0.0 | /mnt/stockage/packages/f12/system-config-date-docs/doc/lv/lv.po | 
- | [mai]({{< ref "/f12/language/mai.md" >}}) | 0 | 728 | 0.0 | /mnt/stockage/packages/f12/system-config-date-docs/doc/mai/mai.po | 
- | [mk]({{< ref "/f12/language/mk.md" >}}) | 0 | 728 | 0.0 | /mnt/stockage/packages/f12/system-config-date-docs/doc/mk/mk.po | 
- | [mn]({{< ref "/f12/language/mn.md" >}}) | 0 | 728 | 0.0 | /mnt/stockage/packages/f12/system-config-date-docs/doc/mn/mn.po | 
- | [ms]({{< ref "/f12/language/ms.md" >}}) | 0 | 728 | 0.0 | /mnt/stockage/packages/f12/system-config-date-docs/doc/ms/ms.po | 
- | [my]({{< ref "/f12/language/my.md" >}}) | 0 | 728 | 0.0 | /mnt/stockage/packages/f12/system-config-date-docs/doc/my/my.po | 
- | [nb_NO]({{< ref "/f12/language/nb_NO.md" >}}) | 0 | 1456 | 0.0 | /mnt/stockage/packages/f12/system-config-date-docs/doc/no/no.po/mnt/stockage/packages/f12/system-config-date-docs/doc/nb/nb.po | 
- | [ne]({{< ref "/f12/language/ne.md" >}}) | 0 | 728 | 0.0 | /mnt/stockage/packages/f12/system-config-date-docs/doc/ne/ne.po | 
- | [nn]({{< ref "/f12/language/nn.md" >}}) | 0 | 728 | 0.0 | /mnt/stockage/packages/f12/system-config-date-docs/doc/nn/nn.po | 
- | [nso]({{< ref "/f12/language/nso.md" >}}) | 0 | 728 | 0.0 | /mnt/stockage/packages/f12/system-config-date-docs/doc/nso/nso.po | 
- | [ro]({{< ref "/f12/language/ro.md" >}}) | 0 | 728 | 0.0 | /mnt/stockage/packages/f12/system-config-date-docs/doc/ro/ro.po | 
- | [si]({{< ref "/f12/language/si.md" >}}) | 0 | 728 | 0.0 | /mnt/stockage/packages/f12/system-config-date-docs/doc/si/si.po | 
- | [sk]({{< ref "/f12/language/sk.md" >}}) | 0 | 728 | 0.0 | /mnt/stockage/packages/f12/system-config-date-docs/doc/sk/sk.po | 
- | [sl]({{< ref "/f12/language/sl.md" >}}) | 0 | 728 | 0.0 | /mnt/stockage/packages/f12/system-config-date-docs/doc/sl/sl.po | 
- | [sq]({{< ref "/f12/language/sq.md" >}}) | 0 | 728 | 0.0 | /mnt/stockage/packages/f12/system-config-date-docs/doc/sq/sq.po | 
- | [tl]({{< ref "/f12/language/tl.md" >}}) | 0 | 728 | 0.0 | /mnt/stockage/packages/f12/system-config-date-docs/doc/tl/tl.po | 
- | [tr]({{< ref "/f12/language/tr.md" >}}) | 0 | 728 | 0.0 | /mnt/stockage/packages/f12/system-config-date-docs/doc/tr/tr.po | 
- | [uk]({{< ref "/f12/language/uk.md" >}}) | 0 | 728 | 0.0 | /mnt/stockage/packages/f12/system-config-date-docs/doc/uk/uk.po | 
- | [ur]({{< ref "/f12/language/ur.md" >}}) | 0 | 728 | 0.0 | /mnt/stockage/packages/f12/system-config-date-docs/doc/ur/ur.po | 
- | [vi]({{< ref "/f12/language/vi.md" >}}) | 0 | 728 | 0.0 | /mnt/stockage/packages/f12/system-config-date-docs/doc/vi/vi.po | 
- | [zu]({{< ref "/f12/language/zu.md" >}}) | 0 | 728 | 0.0 | /mnt/stockage/packages/f12/system-config-date-docs/doc/zu/zu.po | 
+ | [ca](/f12/language/ca) | 728 | 728 | 100.0 | /mnt/stockage/packages/f12/system-config-date-docs/doc/ca/ca.po | 
+ | [da](/f12/language/da) | 728 | 728 | 100.0 | /mnt/stockage/packages/f12/system-config-date-docs/doc/da/da.po | 
+ | [de](/f12/language/de) | 728 | 728 | 100.0 | /mnt/stockage/packages/f12/system-config-date-docs/doc/de/de.po | 
+ | [es](/f12/language/es) | 728 | 728 | 100.0 | /mnt/stockage/packages/f12/system-config-date-docs/doc/es/es.po | 
+ | [gu](/f12/language/gu) | 728 | 728 | 100.0 | /mnt/stockage/packages/f12/system-config-date-docs/doc/gu/gu.po | 
+ | [hu](/f12/language/hu) | 728 | 728 | 100.0 | /mnt/stockage/packages/f12/system-config-date-docs/doc/hu/hu.po | 
+ | [it](/f12/language/it) | 728 | 728 | 100.0 | /mnt/stockage/packages/f12/system-config-date-docs/doc/it/it.po | 
+ | [ja](/f12/language/ja) | 728 | 728 | 100.0 | /mnt/stockage/packages/f12/system-config-date-docs/doc/ja/ja.po | 
+ | [kn](/f12/language/kn) | 728 | 728 | 100.0 | /mnt/stockage/packages/f12/system-config-date-docs/doc/kn/kn.po | 
+ | [ml](/f12/language/ml) | 728 | 728 | 100.0 | /mnt/stockage/packages/f12/system-config-date-docs/doc/ml/ml.po | 
+ | [nl](/f12/language/nl) | 728 | 728 | 100.0 | /mnt/stockage/packages/f12/system-config-date-docs/doc/nl/nl.po | 
+ | [pa](/f12/language/pa) | 728 | 728 | 100.0 | /mnt/stockage/packages/f12/system-config-date-docs/doc/pa/pa.po | 
+ | [pl](/f12/language/pl) | 728 | 728 | 100.0 | /mnt/stockage/packages/f12/system-config-date-docs/doc/pl/pl.po | 
+ | [pt](/f12/language/pt) | 728 | 728 | 100.0 | /mnt/stockage/packages/f12/system-config-date-docs/doc/pt/pt.po | 
+ | [pt_BR](/f12/language/pt_BR) | 728 | 728 | 100.0 | /mnt/stockage/packages/f12/system-config-date-docs/doc/pt_BR/pt_BR.po | 
+ | [ru](/f12/language/ru) | 728 | 728 | 100.0 | /mnt/stockage/packages/f12/system-config-date-docs/doc/ru/ru.po | 
+ | [sr](/f12/language/sr) | 728 | 728 | 100.0 | /mnt/stockage/packages/f12/system-config-date-docs/doc/sr/sr.po | 
+ | [sr_Latn](/f12/language/sr_Latn) | 728 | 728 | 100.0 | /mnt/stockage/packages/f12/system-config-date-docs/doc/sr@latin/sr@latin.po | 
+ | [sv](/f12/language/sv) | 728 | 728 | 100.0 | /mnt/stockage/packages/f12/system-config-date-docs/doc/sv/sv.po | 
+ | [ta](/f12/language/ta) | 728 | 728 | 100.0 | /mnt/stockage/packages/f12/system-config-date-docs/doc/ta/ta.po | 
+ | [te](/f12/language/te) | 728 | 728 | 100.0 | /mnt/stockage/packages/f12/system-config-date-docs/doc/te/te.po | 
+ | [th](/f12/language/th) | 728 | 728 | 100.0 | /mnt/stockage/packages/f12/system-config-date-docs/doc/th/th.po | 
+ | [zh_Hant](/f12/language/zh_Hant) | 728 | 728 | 100.0 | /mnt/stockage/packages/f12/system-config-date-docs/doc/zh_TW/zh_TW.po | 
+ | [zh_Hans](/f12/language/zh_Hans) | 719 | 728 | 98.8 | /mnt/stockage/packages/f12/system-config-date-docs/doc/zh_CN/zh_CN.po | 
+ | [fr](/f12/language/fr) | 660 | 728 | 90.7 | /mnt/stockage/packages/f12/system-config-date-docs/doc/fr/fr.po | 
+ | [mr](/f12/language/mr) | 405 | 728 | 55.6 | /mnt/stockage/packages/f12/system-config-date-docs/doc/mr/mr.po | 
+ | [el](/f12/language/el) | 337 | 728 | 46.3 | /mnt/stockage/packages/f12/system-config-date-docs/doc/el/el.po | 
+ | [or](/f12/language/or) | 83 | 728 | 11.4 | /mnt/stockage/packages/f12/system-config-date-docs/doc/or/or.po | 
+ | [hi](/f12/language/hi) | 43 | 728 | 5.9 | /mnt/stockage/packages/f12/system-config-date-docs/doc/hi/hi.po | 
+ | [af](/f12/language/af) | 0 | 728 | 0.0 | /mnt/stockage/packages/f12/system-config-date-docs/doc/af/af.po | 
+ | [am](/f12/language/am) | 0 | 728 | 0.0 | /mnt/stockage/packages/f12/system-config-date-docs/doc/am/am.po | 
+ | [ar](/f12/language/ar) | 0 | 728 | 0.0 | /mnt/stockage/packages/f12/system-config-date-docs/doc/ar/ar.po | 
+ | [as](/f12/language/as) | 0 | 728 | 0.0 | /mnt/stockage/packages/f12/system-config-date-docs/doc/as/as.po | 
+ | [az](/f12/language/az) | 0 | 728 | 0.0 | /mnt/stockage/packages/f12/system-config-date-docs/doc/az/az.po | 
+ | [bal](/f12/language/bal) | 0 | 728 | 0.0 | /mnt/stockage/packages/f12/system-config-date-docs/doc/bal/bal.po | 
+ | [be](/f12/language/be) | 0 | 728 | 0.0 | /mnt/stockage/packages/f12/system-config-date-docs/doc/be/be.po | 
+ | [be_Latn](/f12/language/be_Latn) | 0 | 728 | 0.0 | /mnt/stockage/packages/f12/system-config-date-docs/doc/be@latin/be@latin.po | 
+ | [bg](/f12/language/bg) | 0 | 728 | 0.0 | /mnt/stockage/packages/f12/system-config-date-docs/doc/bg/bg.po | 
+ | [bn](/f12/language/bn) | 0 | 728 | 0.0 | /mnt/stockage/packages/f12/system-config-date-docs/doc/bn/bn.po | 
+ | [bn_IN](/f12/language/bn_IN) | 0 | 728 | 0.0 | /mnt/stockage/packages/f12/system-config-date-docs/doc/bn_IN/bn_IN.po | 
+ | [bs](/f12/language/bs) | 0 | 728 | 0.0 | /mnt/stockage/packages/f12/system-config-date-docs/doc/bs/bs.po | 
+ | [cs](/f12/language/cs) | 0 | 728 | 0.0 | /mnt/stockage/packages/f12/system-config-date-docs/doc/cs/cs.po | 
+ | [cy](/f12/language/cy) | 0 | 728 | 0.0 | /mnt/stockage/packages/f12/system-config-date-docs/doc/cy/cy.po | 
+ | [dz](/f12/language/dz) | 0 | 728 | 0.0 | /mnt/stockage/packages/f12/system-config-date-docs/doc/dz/dz.po | 
+ | [en_GB](/f12/language/en_GB) | 0 | 728 | 0.0 | /mnt/stockage/packages/f12/system-config-date-docs/doc/en_GB/en_GB.po | 
+ | [et](/f12/language/et) | 0 | 728 | 0.0 | /mnt/stockage/packages/f12/system-config-date-docs/doc/et/et.po | 
+ | [eu](/f12/language/eu) | 0 | 1456 | 0.0 | /mnt/stockage/packages/f12/system-config-date-docs/doc/eu_ES/eu_ES.po/mnt/stockage/packages/f12/system-config-date-docs/doc/eu/eu.po | 
+ | [fa](/f12/language/fa) | 0 | 728 | 0.0 | /mnt/stockage/packages/f12/system-config-date-docs/doc/fa/fa.po | 
+ | [fi](/f12/language/fi) | 0 | 728 | 0.0 | /mnt/stockage/packages/f12/system-config-date-docs/doc/fi/fi.po | 
+ | [gl](/f12/language/gl) | 0 | 728 | 0.0 | /mnt/stockage/packages/f12/system-config-date-docs/doc/gl/gl.po | 
+ | [he](/f12/language/he) | 0 | 728 | 0.0 | /mnt/stockage/packages/f12/system-config-date-docs/doc/he/he.po | 
+ | [hr](/f12/language/hr) | 0 | 728 | 0.0 | /mnt/stockage/packages/f12/system-config-date-docs/doc/hr/hr.po | 
+ | [hy](/f12/language/hy) | 0 | 728 | 0.0 | /mnt/stockage/packages/f12/system-config-date-docs/doc/hy/hy.po | 
+ | [id](/f12/language/id) | 0 | 728 | 0.0 | /mnt/stockage/packages/f12/system-config-date-docs/doc/id/id.po | 
+ | [ilo](/f12/language/ilo) | 0 | 728 | 0.0 | /mnt/stockage/packages/f12/system-config-date-docs/doc/ilo/ilo.po | 
+ | [is](/f12/language/is) | 0 | 728 | 0.0 | /mnt/stockage/packages/f12/system-config-date-docs/doc/is/is.po | 
+ | [ka](/f12/language/ka) | 0 | 728 | 0.0 | /mnt/stockage/packages/f12/system-config-date-docs/doc/ka/ka.po | 
+ | [ko](/f12/language/ko) | 0 | 728 | 0.0 | /mnt/stockage/packages/f12/system-config-date-docs/doc/ko/ko.po | 
+ | [ku](/f12/language/ku) | 0 | 728 | 0.0 | /mnt/stockage/packages/f12/system-config-date-docs/doc/ku/ku.po | 
+ | [lo](/f12/language/lo) | 0 | 728 | 0.0 | /mnt/stockage/packages/f12/system-config-date-docs/doc/lo/lo.po | 
+ | [lt](/f12/language/lt) | 0 | 728 | 0.0 | /mnt/stockage/packages/f12/system-config-date-docs/doc/lt/lt.po | 
+ | [lv](/f12/language/lv) | 0 | 728 | 0.0 | /mnt/stockage/packages/f12/system-config-date-docs/doc/lv/lv.po | 
+ | [mai](/f12/language/mai) | 0 | 728 | 0.0 | /mnt/stockage/packages/f12/system-config-date-docs/doc/mai/mai.po | 
+ | [mk](/f12/language/mk) | 0 | 728 | 0.0 | /mnt/stockage/packages/f12/system-config-date-docs/doc/mk/mk.po | 
+ | [mn](/f12/language/mn) | 0 | 728 | 0.0 | /mnt/stockage/packages/f12/system-config-date-docs/doc/mn/mn.po | 
+ | [ms](/f12/language/ms) | 0 | 728 | 0.0 | /mnt/stockage/packages/f12/system-config-date-docs/doc/ms/ms.po | 
+ | [my](/f12/language/my) | 0 | 728 | 0.0 | /mnt/stockage/packages/f12/system-config-date-docs/doc/my/my.po | 
+ | [nb_NO](/f12/language/nb_NO) | 0 | 1456 | 0.0 | /mnt/stockage/packages/f12/system-config-date-docs/doc/no/no.po/mnt/stockage/packages/f12/system-config-date-docs/doc/nb/nb.po | 
+ | [ne](/f12/language/ne) | 0 | 728 | 0.0 | /mnt/stockage/packages/f12/system-config-date-docs/doc/ne/ne.po | 
+ | [nn](/f12/language/nn) | 0 | 728 | 0.0 | /mnt/stockage/packages/f12/system-config-date-docs/doc/nn/nn.po | 
+ | [nso](/f12/language/nso) | 0 | 728 | 0.0 | /mnt/stockage/packages/f12/system-config-date-docs/doc/nso/nso.po | 
+ | [ro](/f12/language/ro) | 0 | 728 | 0.0 | /mnt/stockage/packages/f12/system-config-date-docs/doc/ro/ro.po | 
+ | [si](/f12/language/si) | 0 | 728 | 0.0 | /mnt/stockage/packages/f12/system-config-date-docs/doc/si/si.po | 
+ | [sk](/f12/language/sk) | 0 | 728 | 0.0 | /mnt/stockage/packages/f12/system-config-date-docs/doc/sk/sk.po | 
+ | [sl](/f12/language/sl) | 0 | 728 | 0.0 | /mnt/stockage/packages/f12/system-config-date-docs/doc/sl/sl.po | 
+ | [sq](/f12/language/sq) | 0 | 728 | 0.0 | /mnt/stockage/packages/f12/system-config-date-docs/doc/sq/sq.po | 
+ | [tl](/f12/language/tl) | 0 | 728 | 0.0 | /mnt/stockage/packages/f12/system-config-date-docs/doc/tl/tl.po | 
+ | [tr](/f12/language/tr) | 0 | 728 | 0.0 | /mnt/stockage/packages/f12/system-config-date-docs/doc/tr/tr.po | 
+ | [uk](/f12/language/uk) | 0 | 728 | 0.0 | /mnt/stockage/packages/f12/system-config-date-docs/doc/uk/uk.po | 
+ | [ur](/f12/language/ur) | 0 | 728 | 0.0 | /mnt/stockage/packages/f12/system-config-date-docs/doc/ur/ur.po | 
+ | [vi](/f12/language/vi) | 0 | 728 | 0.0 | /mnt/stockage/packages/f12/system-config-date-docs/doc/vi/vi.po | 
+ | [zu](/f12/language/zu) | 0 | 728 | 0.0 | /mnt/stockage/packages/f12/system-config-date-docs/doc/zu/zu.po | 
 {.sortable}
 
 

@@ -18,11 +18,11 @@ The package termit (version 2.4.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [hu]({{< ref "/f13/language/hu.md" >}}) | 38 | 47 | 80.9 | /mnt/stockage/packages/f13/termit/po/hu.po | 
- | [ko]({{< ref "/f13/language/ko.md" >}}) | 38 | 47 | 80.9 | /mnt/stockage/packages/f13/termit/po/ko.po | 
- | [ru]({{< ref "/f13/language/ru.md" >}}) | 31 | 47 | 66.0 | /mnt/stockage/packages/f13/termit/po/ru.po | 
- | [fr]({{< ref "/f13/language/fr.md" >}}) | 30 | 47 | 63.8 | /mnt/stockage/packages/f13/termit/po/fr.po | 
- | [zh_Hant]({{< ref "/f13/language/zh_Hant.md" >}}) | 30 | 47 | 63.8 | /mnt/stockage/packages/f13/termit/po/zh_TW.po | 
+ | [hu](/f13/language/hu) | 38 | 47 | 80.9 | /mnt/stockage/packages/f13/termit/po/hu.po | 
+ | [ko](/f13/language/ko) | 38 | 47 | 80.9 | /mnt/stockage/packages/f13/termit/po/ko.po | 
+ | [ru](/f13/language/ru) | 31 | 47 | 66.0 | /mnt/stockage/packages/f13/termit/po/ru.po | 
+ | [fr](/f13/language/fr) | 30 | 47 | 63.8 | /mnt/stockage/packages/f13/termit/po/fr.po | 
+ | [zh_Hant](/f13/language/zh_Hant) | 30 | 47 | 63.8 | /mnt/stockage/packages/f13/termit/po/zh_TW.po | 
 {.sortable}
 
 

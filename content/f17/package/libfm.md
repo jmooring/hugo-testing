@@ -18,64 +18,64 @@ The package libfm (version 1.1.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [be]({{< ref "/f17/language/be.md" >}}) | 859 | 859 | 100.0 | /mnt/stockage/packages/f17/libfm/po/be.po | 
- | [cs]({{< ref "/f17/language/cs.md" >}}) | 859 | 859 | 100.0 | /mnt/stockage/packages/f17/libfm/po/cs.po | 
- | [en_GB]({{< ref "/f17/language/en_GB.md" >}}) | 859 | 859 | 100.0 | /mnt/stockage/packages/f17/libfm/po/en_GB.po | 
- | [et]({{< ref "/f17/language/et.md" >}}) | 859 | 859 | 100.0 | /mnt/stockage/packages/f17/libfm/po/et.po | 
- | [gl]({{< ref "/f17/language/gl.md" >}}) | 859 | 859 | 100.0 | /mnt/stockage/packages/f17/libfm/po/gl.po | 
- | [he]({{< ref "/f17/language/he.md" >}}) | 859 | 859 | 100.0 | /mnt/stockage/packages/f17/libfm/po/he.po | 
- | [it]({{< ref "/f17/language/it.md" >}}) | 859 | 859 | 100.0 | /mnt/stockage/packages/f17/libfm/po/it.po | 
- | [ja]({{< ref "/f17/language/ja.md" >}}) | 859 | 859 | 100.0 | /mnt/stockage/packages/f17/libfm/po/ja.po | 
- | [ko]({{< ref "/f17/language/ko.md" >}}) | 859 | 859 | 100.0 | /mnt/stockage/packages/f17/libfm/po/ko.po | 
- | [lt]({{< ref "/f17/language/lt.md" >}}) | 859 | 859 | 100.0 | /mnt/stockage/packages/f17/libfm/po/lt.po | 
- | [nl]({{< ref "/f17/language/nl.md" >}}) | 859 | 859 | 100.0 | /mnt/stockage/packages/f17/libfm/po/nl.po | 
- | [pt]({{< ref "/f17/language/pt.md" >}}) | 859 | 859 | 100.0 | /mnt/stockage/packages/f17/libfm/po/pt.po | 
- | [pt_BR]({{< ref "/f17/language/pt_BR.md" >}}) | 859 | 859 | 100.0 | /mnt/stockage/packages/f17/libfm/po/pt_BR.po | 
- | [ro]({{< ref "/f17/language/ro.md" >}}) | 859 | 859 | 100.0 | /mnt/stockage/packages/f17/libfm/po/ro.po | 
- | [ru]({{< ref "/f17/language/ru.md" >}}) | 859 | 859 | 100.0 | /mnt/stockage/packages/f17/libfm/po/ru.po | 
- | [sv]({{< ref "/f17/language/sv.md" >}}) | 859 | 859 | 100.0 | /mnt/stockage/packages/f17/libfm/po/sv.po | 
- | [tr]({{< ref "/f17/language/tr.md" >}}) | 859 | 859 | 100.0 | /mnt/stockage/packages/f17/libfm/po/tr.po | 
- | [ug]({{< ref "/f17/language/ug.md" >}}) | 859 | 859 | 100.0 | /mnt/stockage/packages/f17/libfm/po/ug.po | 
- | [uk]({{< ref "/f17/language/uk.md" >}}) | 859 | 859 | 100.0 | /mnt/stockage/packages/f17/libfm/po/uk.po | 
- | [vi]({{< ref "/f17/language/vi.md" >}}) | 859 | 859 | 100.0 | /mnt/stockage/packages/f17/libfm/po/vi.po | 
- | [zh_Hans]({{< ref "/f17/language/zh_Hans.md" >}}) | 859 | 859 | 100.0 | /mnt/stockage/packages/f17/libfm/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f17/language/zh_Hant.md" >}}) | 859 | 859 | 100.0 | /mnt/stockage/packages/f17/libfm/po/zh_TW.po | 
- | [bg]({{< ref "/f17/language/bg.md" >}}) | 853 | 859 | 99.3 | /mnt/stockage/packages/f17/libfm/po/bg.po | 
- | [eu]({{< ref "/f17/language/eu.md" >}}) | 838 | 859 | 97.6 | /mnt/stockage/packages/f17/libfm/po/eu.po | 
- | [de]({{< ref "/f17/language/de.md" >}}) | 813 | 859 | 94.6 | /mnt/stockage/packages/f17/libfm/po/de.po | 
- | [hr]({{< ref "/f17/language/hr.md" >}}) | 773 | 859 | 90.0 | /mnt/stockage/packages/f17/libfm/po/hr.po | 
- | [es]({{< ref "/f17/language/es.md" >}}) | 760 | 859 | 88.5 | /mnt/stockage/packages/f17/libfm/po/es.po | 
- | [sr]({{< ref "/f17/language/sr.md" >}}) | 755 | 859 | 87.9 | /mnt/stockage/packages/f17/libfm/po/sr.po | 
- | [el]({{< ref "/f17/language/el.md" >}}) | 684 | 859 | 79.6 | /mnt/stockage/packages/f17/libfm/po/el.po | 
- | [id]({{< ref "/f17/language/id.md" >}}) | 684 | 859 | 79.6 | /mnt/stockage/packages/f17/libfm/po/id.po | 
- | [kk]({{< ref "/f17/language/kk.md" >}}) | 684 | 859 | 79.6 | /mnt/stockage/packages/f17/libfm/po/kk.po | 
- | [lg]({{< ref "/f17/language/lg.md" >}}) | 684 | 859 | 79.6 | /mnt/stockage/packages/f17/libfm/po/lg.po | 
- | [pl]({{< ref "/f17/language/pl.md" >}}) | 684 | 859 | 79.6 | /mnt/stockage/packages/f17/libfm/po/pl.po | 
- | [sl]({{< ref "/f17/language/sl.md" >}}) | 684 | 859 | 79.6 | /mnt/stockage/packages/f17/libfm/po/sl.po | 
- | [hu]({{< ref "/f17/language/hu.md" >}}) | 636 | 859 | 74.0 | /mnt/stockage/packages/f17/libfm/po/hu.po | 
- | [fi]({{< ref "/f17/language/fi.md" >}}) | 627 | 859 | 73.0 | /mnt/stockage/packages/f17/libfm/po/fi.po | 
- | [fr]({{< ref "/f17/language/fr.md" >}}) | 624 | 859 | 72.6 | /mnt/stockage/packages/f17/libfm/po/fr.po | 
- | [da]({{< ref "/f17/language/da.md" >}}) | 568 | 859 | 66.1 | /mnt/stockage/packages/f17/libfm/po/da.po | 
- | [te]({{< ref "/f17/language/te.md" >}}) | 568 | 859 | 66.1 | /mnt/stockage/packages/f17/libfm/po/te.po | 
- | [tt]({{< ref "/f17/language/tt.md" >}}) | 568 | 859 | 66.1 | /mnt/stockage/packages/f17/libfm/po/tt_RU.po | 
- | [fa]({{< ref "/f17/language/fa.md" >}}) | 562 | 859 | 65.4 | /mnt/stockage/packages/f17/libfm/po/fa.po | 
- | [fo]({{< ref "/f17/language/fo.md" >}}) | 541 | 859 | 63.0 | /mnt/stockage/packages/f17/libfm/po/fo.po | 
- | [sr_Latn]({{< ref "/f17/language/sr_Latn.md" >}}) | 485 | 859 | 56.5 | /mnt/stockage/packages/f17/libfm/po/sr@latin.po | 
- | [sk]({{< ref "/f17/language/sk.md" >}}) | 464 | 859 | 54.0 | /mnt/stockage/packages/f17/libfm/po/sk.po | 
- | [bn]({{< ref "/f17/language/bn.md" >}}) | 380 | 859 | 44.2 | /mnt/stockage/packages/f17/libfm/po/bn.po | 
- | [ca]({{< ref "/f17/language/ca.md" >}}) | 380 | 859 | 44.2 | /mnt/stockage/packages/f17/libfm/po/ca.po | 
- | [ar]({{< ref "/f17/language/ar.md" >}}) | 249 | 859 | 29.0 | /mnt/stockage/packages/f17/libfm/po/ar.po | 
- | [bn_IN]({{< ref "/f17/language/bn_IN.md" >}}) | 39 | 859 | 4.5 | /mnt/stockage/packages/f17/libfm/po/bn_IN.po | 
- | [af]({{< ref "/f17/language/af.md" >}}) | 0 | 859 | 0.0 | /mnt/stockage/packages/f17/libfm/po/af.po | 
- | [es_VE]({{< ref "/f17/language/es_VE.md" >}}) | 0 | 859 | 0.0 | /mnt/stockage/packages/f17/libfm/po/es_VE.po | 
- | [ml]({{< ref "/f17/language/ml.md" >}}) | 0 | 859 | 0.0 | /mnt/stockage/packages/f17/libfm/po/ml.po | 
- | [ms]({{< ref "/f17/language/ms.md" >}}) | 0 | 859 | 0.0 | /mnt/stockage/packages/f17/libfm/po/ms.po | 
- | [nb_NO]({{< ref "/f17/language/nb_NO.md" >}}) | 0 | 859 | 0.0 | /mnt/stockage/packages/f17/libfm/po/nb.po | 
- | [nn]({{< ref "/f17/language/nn.md" >}}) | 0 | 859 | 0.0 | /mnt/stockage/packages/f17/libfm/po/nn.po | 
- | [ps]({{< ref "/f17/language/ps.md" >}}) | 0 | 859 | 0.0 | /mnt/stockage/packages/f17/libfm/po/ps.po | 
- | [th]({{< ref "/f17/language/th.md" >}}) | 0 | 859 | 0.0 | /mnt/stockage/packages/f17/libfm/po/th.po | 
- | [ur]({{< ref "/f17/language/ur.md" >}}) | 0 | 859 | 0.0 | /mnt/stockage/packages/f17/libfm/po/ur.po | 
- | [ur_PK]({{< ref "/f17/language/ur_PK.md" >}}) | 0 | 859 | 0.0 | /mnt/stockage/packages/f17/libfm/po/ur_PK.po | 
+ | [be](/f17/language/be) | 859 | 859 | 100.0 | /mnt/stockage/packages/f17/libfm/po/be.po | 
+ | [cs](/f17/language/cs) | 859 | 859 | 100.0 | /mnt/stockage/packages/f17/libfm/po/cs.po | 
+ | [en_GB](/f17/language/en_GB) | 859 | 859 | 100.0 | /mnt/stockage/packages/f17/libfm/po/en_GB.po | 
+ | [et](/f17/language/et) | 859 | 859 | 100.0 | /mnt/stockage/packages/f17/libfm/po/et.po | 
+ | [gl](/f17/language/gl) | 859 | 859 | 100.0 | /mnt/stockage/packages/f17/libfm/po/gl.po | 
+ | [he](/f17/language/he) | 859 | 859 | 100.0 | /mnt/stockage/packages/f17/libfm/po/he.po | 
+ | [it](/f17/language/it) | 859 | 859 | 100.0 | /mnt/stockage/packages/f17/libfm/po/it.po | 
+ | [ja](/f17/language/ja) | 859 | 859 | 100.0 | /mnt/stockage/packages/f17/libfm/po/ja.po | 
+ | [ko](/f17/language/ko) | 859 | 859 | 100.0 | /mnt/stockage/packages/f17/libfm/po/ko.po | 
+ | [lt](/f17/language/lt) | 859 | 859 | 100.0 | /mnt/stockage/packages/f17/libfm/po/lt.po | 
+ | [nl](/f17/language/nl) | 859 | 859 | 100.0 | /mnt/stockage/packages/f17/libfm/po/nl.po | 
+ | [pt](/f17/language/pt) | 859 | 859 | 100.0 | /mnt/stockage/packages/f17/libfm/po/pt.po | 
+ | [pt_BR](/f17/language/pt_BR) | 859 | 859 | 100.0 | /mnt/stockage/packages/f17/libfm/po/pt_BR.po | 
+ | [ro](/f17/language/ro) | 859 | 859 | 100.0 | /mnt/stockage/packages/f17/libfm/po/ro.po | 
+ | [ru](/f17/language/ru) | 859 | 859 | 100.0 | /mnt/stockage/packages/f17/libfm/po/ru.po | 
+ | [sv](/f17/language/sv) | 859 | 859 | 100.0 | /mnt/stockage/packages/f17/libfm/po/sv.po | 
+ | [tr](/f17/language/tr) | 859 | 859 | 100.0 | /mnt/stockage/packages/f17/libfm/po/tr.po | 
+ | [ug](/f17/language/ug) | 859 | 859 | 100.0 | /mnt/stockage/packages/f17/libfm/po/ug.po | 
+ | [uk](/f17/language/uk) | 859 | 859 | 100.0 | /mnt/stockage/packages/f17/libfm/po/uk.po | 
+ | [vi](/f17/language/vi) | 859 | 859 | 100.0 | /mnt/stockage/packages/f17/libfm/po/vi.po | 
+ | [zh_Hans](/f17/language/zh_Hans) | 859 | 859 | 100.0 | /mnt/stockage/packages/f17/libfm/po/zh_CN.po | 
+ | [zh_Hant](/f17/language/zh_Hant) | 859 | 859 | 100.0 | /mnt/stockage/packages/f17/libfm/po/zh_TW.po | 
+ | [bg](/f17/language/bg) | 853 | 859 | 99.3 | /mnt/stockage/packages/f17/libfm/po/bg.po | 
+ | [eu](/f17/language/eu) | 838 | 859 | 97.6 | /mnt/stockage/packages/f17/libfm/po/eu.po | 
+ | [de](/f17/language/de) | 813 | 859 | 94.6 | /mnt/stockage/packages/f17/libfm/po/de.po | 
+ | [hr](/f17/language/hr) | 773 | 859 | 90.0 | /mnt/stockage/packages/f17/libfm/po/hr.po | 
+ | [es](/f17/language/es) | 760 | 859 | 88.5 | /mnt/stockage/packages/f17/libfm/po/es.po | 
+ | [sr](/f17/language/sr) | 755 | 859 | 87.9 | /mnt/stockage/packages/f17/libfm/po/sr.po | 
+ | [el](/f17/language/el) | 684 | 859 | 79.6 | /mnt/stockage/packages/f17/libfm/po/el.po | 
+ | [id](/f17/language/id) | 684 | 859 | 79.6 | /mnt/stockage/packages/f17/libfm/po/id.po | 
+ | [kk](/f17/language/kk) | 684 | 859 | 79.6 | /mnt/stockage/packages/f17/libfm/po/kk.po | 
+ | [lg](/f17/language/lg) | 684 | 859 | 79.6 | /mnt/stockage/packages/f17/libfm/po/lg.po | 
+ | [pl](/f17/language/pl) | 684 | 859 | 79.6 | /mnt/stockage/packages/f17/libfm/po/pl.po | 
+ | [sl](/f17/language/sl) | 684 | 859 | 79.6 | /mnt/stockage/packages/f17/libfm/po/sl.po | 
+ | [hu](/f17/language/hu) | 636 | 859 | 74.0 | /mnt/stockage/packages/f17/libfm/po/hu.po | 
+ | [fi](/f17/language/fi) | 627 | 859 | 73.0 | /mnt/stockage/packages/f17/libfm/po/fi.po | 
+ | [fr](/f17/language/fr) | 624 | 859 | 72.6 | /mnt/stockage/packages/f17/libfm/po/fr.po | 
+ | [da](/f17/language/da) | 568 | 859 | 66.1 | /mnt/stockage/packages/f17/libfm/po/da.po | 
+ | [te](/f17/language/te) | 568 | 859 | 66.1 | /mnt/stockage/packages/f17/libfm/po/te.po | 
+ | [tt](/f17/language/tt) | 568 | 859 | 66.1 | /mnt/stockage/packages/f17/libfm/po/tt_RU.po | 
+ | [fa](/f17/language/fa) | 562 | 859 | 65.4 | /mnt/stockage/packages/f17/libfm/po/fa.po | 
+ | [fo](/f17/language/fo) | 541 | 859 | 63.0 | /mnt/stockage/packages/f17/libfm/po/fo.po | 
+ | [sr_Latn](/f17/language/sr_Latn) | 485 | 859 | 56.5 | /mnt/stockage/packages/f17/libfm/po/sr@latin.po | 
+ | [sk](/f17/language/sk) | 464 | 859 | 54.0 | /mnt/stockage/packages/f17/libfm/po/sk.po | 
+ | [bn](/f17/language/bn) | 380 | 859 | 44.2 | /mnt/stockage/packages/f17/libfm/po/bn.po | 
+ | [ca](/f17/language/ca) | 380 | 859 | 44.2 | /mnt/stockage/packages/f17/libfm/po/ca.po | 
+ | [ar](/f17/language/ar) | 249 | 859 | 29.0 | /mnt/stockage/packages/f17/libfm/po/ar.po | 
+ | [bn_IN](/f17/language/bn_IN) | 39 | 859 | 4.5 | /mnt/stockage/packages/f17/libfm/po/bn_IN.po | 
+ | [af](/f17/language/af) | 0 | 859 | 0.0 | /mnt/stockage/packages/f17/libfm/po/af.po | 
+ | [es_VE](/f17/language/es_VE) | 0 | 859 | 0.0 | /mnt/stockage/packages/f17/libfm/po/es_VE.po | 
+ | [ml](/f17/language/ml) | 0 | 859 | 0.0 | /mnt/stockage/packages/f17/libfm/po/ml.po | 
+ | [ms](/f17/language/ms) | 0 | 859 | 0.0 | /mnt/stockage/packages/f17/libfm/po/ms.po | 
+ | [nb_NO](/f17/language/nb_NO) | 0 | 859 | 0.0 | /mnt/stockage/packages/f17/libfm/po/nb.po | 
+ | [nn](/f17/language/nn) | 0 | 859 | 0.0 | /mnt/stockage/packages/f17/libfm/po/nn.po | 
+ | [ps](/f17/language/ps) | 0 | 859 | 0.0 | /mnt/stockage/packages/f17/libfm/po/ps.po | 
+ | [th](/f17/language/th) | 0 | 859 | 0.0 | /mnt/stockage/packages/f17/libfm/po/th.po | 
+ | [ur](/f17/language/ur) | 0 | 859 | 0.0 | /mnt/stockage/packages/f17/libfm/po/ur.po | 
+ | [ur_PK](/f17/language/ur_PK) | 0 | 859 | 0.0 | /mnt/stockage/packages/f17/libfm/po/ur_PK.po | 
 {.sortable}
 
 

@@ -18,21 +18,21 @@ The package help2man (version 1.40.12):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f16/language/de.md" >}}) | 524 | 524 | 100.0 | /mnt/stockage/packages/f16/help2man/po/de.po | 
- | [el]({{< ref "/f16/language/el.md" >}}) | 524 | 524 | 100.0 | /mnt/stockage/packages/f16/help2man/po/el.po | 
- | [eo]({{< ref "/f16/language/eo.md" >}}) | 524 | 524 | 100.0 | /mnt/stockage/packages/f16/help2man/po/eo.po | 
- | [fr]({{< ref "/f16/language/fr.md" >}}) | 524 | 524 | 100.0 | /mnt/stockage/packages/f16/help2man/po/fr.po | 
- | [hr]({{< ref "/f16/language/hr.md" >}}) | 524 | 524 | 100.0 | /mnt/stockage/packages/f16/help2man/po/hr.po | 
- | [it]({{< ref "/f16/language/it.md" >}}) | 524 | 524 | 100.0 | /mnt/stockage/packages/f16/help2man/po/it.po | 
- | [ja]({{< ref "/f16/language/ja.md" >}}) | 524 | 524 | 100.0 | /mnt/stockage/packages/f16/help2man/po/ja.po | 
- | [pl]({{< ref "/f16/language/pl.md" >}}) | 524 | 524 | 100.0 | /mnt/stockage/packages/f16/help2man/po/pl.po | 
- | [pt_BR]({{< ref "/f16/language/pt_BR.md" >}}) | 524 | 524 | 100.0 | /mnt/stockage/packages/f16/help2man/po/pt_BR.po | 
- | [ru]({{< ref "/f16/language/ru.md" >}}) | 524 | 524 | 100.0 | /mnt/stockage/packages/f16/help2man/po/ru.po | 
- | [sr]({{< ref "/f16/language/sr.md" >}}) | 524 | 524 | 100.0 | /mnt/stockage/packages/f16/help2man/po/sr.po | 
- | [uk]({{< ref "/f16/language/uk.md" >}}) | 524 | 524 | 100.0 | /mnt/stockage/packages/f16/help2man/po/uk.po | 
- | [vi]({{< ref "/f16/language/vi.md" >}}) | 524 | 524 | 100.0 | /mnt/stockage/packages/f16/help2man/po/vi.po | 
- | [fi]({{< ref "/f16/language/fi.md" >}}) | 522 | 524 | 99.6 | /mnt/stockage/packages/f16/help2man/po/fi.po | 
- | [sv]({{< ref "/f16/language/sv.md" >}}) | 349 | 524 | 66.6 | /mnt/stockage/packages/f16/help2man/po/sv.po | 
+ | [de](/f16/language/de) | 524 | 524 | 100.0 | /mnt/stockage/packages/f16/help2man/po/de.po | 
+ | [el](/f16/language/el) | 524 | 524 | 100.0 | /mnt/stockage/packages/f16/help2man/po/el.po | 
+ | [eo](/f16/language/eo) | 524 | 524 | 100.0 | /mnt/stockage/packages/f16/help2man/po/eo.po | 
+ | [fr](/f16/language/fr) | 524 | 524 | 100.0 | /mnt/stockage/packages/f16/help2man/po/fr.po | 
+ | [hr](/f16/language/hr) | 524 | 524 | 100.0 | /mnt/stockage/packages/f16/help2man/po/hr.po | 
+ | [it](/f16/language/it) | 524 | 524 | 100.0 | /mnt/stockage/packages/f16/help2man/po/it.po | 
+ | [ja](/f16/language/ja) | 524 | 524 | 100.0 | /mnt/stockage/packages/f16/help2man/po/ja.po | 
+ | [pl](/f16/language/pl) | 524 | 524 | 100.0 | /mnt/stockage/packages/f16/help2man/po/pl.po | 
+ | [pt_BR](/f16/language/pt_BR) | 524 | 524 | 100.0 | /mnt/stockage/packages/f16/help2man/po/pt_BR.po | 
+ | [ru](/f16/language/ru) | 524 | 524 | 100.0 | /mnt/stockage/packages/f16/help2man/po/ru.po | 
+ | [sr](/f16/language/sr) | 524 | 524 | 100.0 | /mnt/stockage/packages/f16/help2man/po/sr.po | 
+ | [uk](/f16/language/uk) | 524 | 524 | 100.0 | /mnt/stockage/packages/f16/help2man/po/uk.po | 
+ | [vi](/f16/language/vi) | 524 | 524 | 100.0 | /mnt/stockage/packages/f16/help2man/po/vi.po | 
+ | [fi](/f16/language/fi) | 522 | 524 | 99.6 | /mnt/stockage/packages/f16/help2man/po/fi.po | 
+ | [sv](/f16/language/sv) | 349 | 524 | 66.6 | /mnt/stockage/packages/f16/help2man/po/sv.po | 
 {.sortable}
 
 

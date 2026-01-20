@@ -38,8 +38,8 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [iok]({{< ref "/f17/package/iok.md" >}}) | 137 | 206 | 66.5 | Dogri <LL@li.org> | 
- | [libreoffice]({{< ref "/f17/package/libreoffice.md" >}}) | 56626 | 93282 | 60.7 | LANGUAGE <LL@li.org> | 
+ | [iok](/f17/package/iok) | 137 | 206 | 66.5 | Dogri <LL@li.org> | 
+ | [libreoffice](/f17/package/libreoffice) | 56626 | 93282 | 60.7 | LANGUAGE <LL@li.org> | 
 {.sortable}
 
 

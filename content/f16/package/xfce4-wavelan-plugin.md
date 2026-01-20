@@ -18,38 +18,38 @@ The package xfce4-wavelan-plugin (version 0.5.6):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ast]({{< ref "/f16/language/ast.md" >}}) | 49 | 49 | 100.0 | /mnt/stockage/packages/f16/xfce4-wavelan-plugin/po/ast.po | 
- | [be]({{< ref "/f16/language/be.md" >}}) | 49 | 49 | 100.0 | /mnt/stockage/packages/f16/xfce4-wavelan-plugin/po/be.po | 
- | [ca]({{< ref "/f16/language/ca.md" >}}) | 49 | 49 | 100.0 | /mnt/stockage/packages/f16/xfce4-wavelan-plugin/po/ca.po | 
- | [cs]({{< ref "/f16/language/cs.md" >}}) | 49 | 49 | 100.0 | /mnt/stockage/packages/f16/xfce4-wavelan-plugin/po/cs.po | 
- | [da]({{< ref "/f16/language/da.md" >}}) | 49 | 49 | 100.0 | /mnt/stockage/packages/f16/xfce4-wavelan-plugin/po/da.po | 
- | [de]({{< ref "/f16/language/de.md" >}}) | 49 | 49 | 100.0 | /mnt/stockage/packages/f16/xfce4-wavelan-plugin/po/de.po | 
- | [en_GB]({{< ref "/f16/language/en_GB.md" >}}) | 49 | 49 | 100.0 | /mnt/stockage/packages/f16/xfce4-wavelan-plugin/po/en_GB.po | 
- | [es]({{< ref "/f16/language/es.md" >}}) | 49 | 49 | 100.0 | /mnt/stockage/packages/f16/xfce4-wavelan-plugin/po/es.po | 
- | [eu]({{< ref "/f16/language/eu.md" >}}) | 49 | 49 | 100.0 | /mnt/stockage/packages/f16/xfce4-wavelan-plugin/po/eu.po | 
- | [fr]({{< ref "/f16/language/fr.md" >}}) | 49 | 49 | 100.0 | /mnt/stockage/packages/f16/xfce4-wavelan-plugin/po/fr.po | 
- | [gl]({{< ref "/f16/language/gl.md" >}}) | 49 | 49 | 100.0 | /mnt/stockage/packages/f16/xfce4-wavelan-plugin/po/gl.po | 
- | [hu]({{< ref "/f16/language/hu.md" >}}) | 49 | 49 | 100.0 | /mnt/stockage/packages/f16/xfce4-wavelan-plugin/po/hu.po | 
- | [id]({{< ref "/f16/language/id.md" >}}) | 49 | 49 | 100.0 | /mnt/stockage/packages/f16/xfce4-wavelan-plugin/po/id.po | 
- | [it]({{< ref "/f16/language/it.md" >}}) | 49 | 49 | 100.0 | /mnt/stockage/packages/f16/xfce4-wavelan-plugin/po/it.po | 
- | [ja]({{< ref "/f16/language/ja.md" >}}) | 49 | 49 | 100.0 | /mnt/stockage/packages/f16/xfce4-wavelan-plugin/po/ja.po | 
- | [kk]({{< ref "/f16/language/kk.md" >}}) | 49 | 49 | 100.0 | /mnt/stockage/packages/f16/xfce4-wavelan-plugin/po/kk.po | 
- | [lv]({{< ref "/f16/language/lv.md" >}}) | 49 | 49 | 100.0 | /mnt/stockage/packages/f16/xfce4-wavelan-plugin/po/lv.po | 
- | [pt]({{< ref "/f16/language/pt.md" >}}) | 49 | 49 | 100.0 | /mnt/stockage/packages/f16/xfce4-wavelan-plugin/po/pt.po | 
- | [pt_BR]({{< ref "/f16/language/pt_BR.md" >}}) | 49 | 49 | 100.0 | /mnt/stockage/packages/f16/xfce4-wavelan-plugin/po/pt_BR.po | 
- | [ru]({{< ref "/f16/language/ru.md" >}}) | 49 | 49 | 100.0 | /mnt/stockage/packages/f16/xfce4-wavelan-plugin/po/ru.po | 
- | [sv]({{< ref "/f16/language/sv.md" >}}) | 49 | 49 | 100.0 | /mnt/stockage/packages/f16/xfce4-wavelan-plugin/po/sv.po | 
- | [tr]({{< ref "/f16/language/tr.md" >}}) | 49 | 49 | 100.0 | /mnt/stockage/packages/f16/xfce4-wavelan-plugin/po/tr.po | 
- | [ug]({{< ref "/f16/language/ug.md" >}}) | 49 | 49 | 100.0 | /mnt/stockage/packages/f16/xfce4-wavelan-plugin/po/ug.po | 
- | [uk]({{< ref "/f16/language/uk.md" >}}) | 49 | 49 | 100.0 | /mnt/stockage/packages/f16/xfce4-wavelan-plugin/po/uk.po | 
- | [ur]({{< ref "/f16/language/ur.md" >}}) | 98 | 98 | 100.0 | /mnt/stockage/packages/f16/xfce4-wavelan-plugin/po/ur_PK.po/mnt/stockage/packages/f16/xfce4-wavelan-plugin/po/ur.po | 
- | [zh_Hans]({{< ref "/f16/language/zh_Hans.md" >}}) | 49 | 49 | 100.0 | /mnt/stockage/packages/f16/xfce4-wavelan-plugin/po/zh_CN.po | 
- | [ko]({{< ref "/f16/language/ko.md" >}}) | 37 | 49 | 75.5 | /mnt/stockage/packages/f16/xfce4-wavelan-plugin/po/ko.po | 
- | [nb_NO]({{< ref "/f16/language/nb_NO.md" >}}) | 37 | 49 | 75.5 | /mnt/stockage/packages/f16/xfce4-wavelan-plugin/po/nb.po | 
- | [pl]({{< ref "/f16/language/pl.md" >}}) | 37 | 49 | 75.5 | /mnt/stockage/packages/f16/xfce4-wavelan-plugin/po/pl.po | 
- | [sq]({{< ref "/f16/language/sq.md" >}}) | 37 | 49 | 75.5 | /mnt/stockage/packages/f16/xfce4-wavelan-plugin/po/sq.po | 
- | [ar]({{< ref "/f16/language/ar.md" >}}) | 10 | 49 | 20.4 | /mnt/stockage/packages/f16/xfce4-wavelan-plugin/po/ar.po | 
- | [vi]({{< ref "/f16/language/vi.md" >}}) | 10 | 49 | 20.4 | /mnt/stockage/packages/f16/xfce4-wavelan-plugin/po/vi.po | 
+ | [ast](/f16/language/ast) | 49 | 49 | 100.0 | /mnt/stockage/packages/f16/xfce4-wavelan-plugin/po/ast.po | 
+ | [be](/f16/language/be) | 49 | 49 | 100.0 | /mnt/stockage/packages/f16/xfce4-wavelan-plugin/po/be.po | 
+ | [ca](/f16/language/ca) | 49 | 49 | 100.0 | /mnt/stockage/packages/f16/xfce4-wavelan-plugin/po/ca.po | 
+ | [cs](/f16/language/cs) | 49 | 49 | 100.0 | /mnt/stockage/packages/f16/xfce4-wavelan-plugin/po/cs.po | 
+ | [da](/f16/language/da) | 49 | 49 | 100.0 | /mnt/stockage/packages/f16/xfce4-wavelan-plugin/po/da.po | 
+ | [de](/f16/language/de) | 49 | 49 | 100.0 | /mnt/stockage/packages/f16/xfce4-wavelan-plugin/po/de.po | 
+ | [en_GB](/f16/language/en_GB) | 49 | 49 | 100.0 | /mnt/stockage/packages/f16/xfce4-wavelan-plugin/po/en_GB.po | 
+ | [es](/f16/language/es) | 49 | 49 | 100.0 | /mnt/stockage/packages/f16/xfce4-wavelan-plugin/po/es.po | 
+ | [eu](/f16/language/eu) | 49 | 49 | 100.0 | /mnt/stockage/packages/f16/xfce4-wavelan-plugin/po/eu.po | 
+ | [fr](/f16/language/fr) | 49 | 49 | 100.0 | /mnt/stockage/packages/f16/xfce4-wavelan-plugin/po/fr.po | 
+ | [gl](/f16/language/gl) | 49 | 49 | 100.0 | /mnt/stockage/packages/f16/xfce4-wavelan-plugin/po/gl.po | 
+ | [hu](/f16/language/hu) | 49 | 49 | 100.0 | /mnt/stockage/packages/f16/xfce4-wavelan-plugin/po/hu.po | 
+ | [id](/f16/language/id) | 49 | 49 | 100.0 | /mnt/stockage/packages/f16/xfce4-wavelan-plugin/po/id.po | 
+ | [it](/f16/language/it) | 49 | 49 | 100.0 | /mnt/stockage/packages/f16/xfce4-wavelan-plugin/po/it.po | 
+ | [ja](/f16/language/ja) | 49 | 49 | 100.0 | /mnt/stockage/packages/f16/xfce4-wavelan-plugin/po/ja.po | 
+ | [kk](/f16/language/kk) | 49 | 49 | 100.0 | /mnt/stockage/packages/f16/xfce4-wavelan-plugin/po/kk.po | 
+ | [lv](/f16/language/lv) | 49 | 49 | 100.0 | /mnt/stockage/packages/f16/xfce4-wavelan-plugin/po/lv.po | 
+ | [pt](/f16/language/pt) | 49 | 49 | 100.0 | /mnt/stockage/packages/f16/xfce4-wavelan-plugin/po/pt.po | 
+ | [pt_BR](/f16/language/pt_BR) | 49 | 49 | 100.0 | /mnt/stockage/packages/f16/xfce4-wavelan-plugin/po/pt_BR.po | 
+ | [ru](/f16/language/ru) | 49 | 49 | 100.0 | /mnt/stockage/packages/f16/xfce4-wavelan-plugin/po/ru.po | 
+ | [sv](/f16/language/sv) | 49 | 49 | 100.0 | /mnt/stockage/packages/f16/xfce4-wavelan-plugin/po/sv.po | 
+ | [tr](/f16/language/tr) | 49 | 49 | 100.0 | /mnt/stockage/packages/f16/xfce4-wavelan-plugin/po/tr.po | 
+ | [ug](/f16/language/ug) | 49 | 49 | 100.0 | /mnt/stockage/packages/f16/xfce4-wavelan-plugin/po/ug.po | 
+ | [uk](/f16/language/uk) | 49 | 49 | 100.0 | /mnt/stockage/packages/f16/xfce4-wavelan-plugin/po/uk.po | 
+ | [ur](/f16/language/ur) | 98 | 98 | 100.0 | /mnt/stockage/packages/f16/xfce4-wavelan-plugin/po/ur_PK.po/mnt/stockage/packages/f16/xfce4-wavelan-plugin/po/ur.po | 
+ | [zh_Hans](/f16/language/zh_Hans) | 49 | 49 | 100.0 | /mnt/stockage/packages/f16/xfce4-wavelan-plugin/po/zh_CN.po | 
+ | [ko](/f16/language/ko) | 37 | 49 | 75.5 | /mnt/stockage/packages/f16/xfce4-wavelan-plugin/po/ko.po | 
+ | [nb_NO](/f16/language/nb_NO) | 37 | 49 | 75.5 | /mnt/stockage/packages/f16/xfce4-wavelan-plugin/po/nb.po | 
+ | [pl](/f16/language/pl) | 37 | 49 | 75.5 | /mnt/stockage/packages/f16/xfce4-wavelan-plugin/po/pl.po | 
+ | [sq](/f16/language/sq) | 37 | 49 | 75.5 | /mnt/stockage/packages/f16/xfce4-wavelan-plugin/po/sq.po | 
+ | [ar](/f16/language/ar) | 10 | 49 | 20.4 | /mnt/stockage/packages/f16/xfce4-wavelan-plugin/po/ar.po | 
+ | [vi](/f16/language/vi) | 10 | 49 | 20.4 | /mnt/stockage/packages/f16/xfce4-wavelan-plugin/po/vi.po | 
 {.sortable}
 
 

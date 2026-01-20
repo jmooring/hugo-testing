@@ -38,34 +38,34 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [widelands]({{< ref "/f17/package/widelands.md" >}}) | 9271 | 28838 | 32.1 | Latin <la@li.org> | 
- | [wesnoth]({{< ref "/f17/package/wesnoth.md" >}}) | 69073 | 245373 | 28.2 | Latin <http://wiki.wesnoth.org/LatinTranslation> | 
- | [libgtop2]({{< ref "/f17/package/libgtop2.md" >}}) | 24 | 126 | 19.0 | Latin <la@li.org> | 
- | [cinnamon]({{< ref "/f17/package/cinnamon.md" >}}) | 301 | 1696 | 17.7 | Latin <la@li.org> | 
- | [synapse]({{< ref "/f17/package/synapse.md" >}}) | 61 | 711 | 8.6 | Latin <la@li.org> | 
- | [byobu]({{< ref "/f17/package/byobu.md" >}}) | 14 | 177 | 7.9 | Latin <la@li.org> | 
- | [gnome-applet-alarm-clock]({{< ref "/f17/package/gnome-applet-alarm-clock.md" >}}) | 25 | 417 | 6.0 | Latin <la@li.org> | 
- | [gedit]({{< ref "/f17/package/gedit.md" >}}) | 207 | 4942 | 4.2 | Latin <la@li.org> | 
- | [mate-text-editor]({{< ref "/f17/package/mate-text-editor.md" >}}) | 207 | 4942 | 4.2 | Latin <la@li.org> | 
- | [stellarium]({{< ref "/f17/package/stellarium.md" >}}) | 234 | 9286 | 2.5 | Latin <la@li.org> | 
- | [pinta]({{< ref "/f17/package/pinta.md" >}}) | 29 | 1311 | 2.2 | Latin <la@li.org> | 
- | [mate-window-manager]({{< ref "/f17/package/mate-window-manager.md" >}}) | 80 | 3819 | 2.1 | Latin <la@li.org> | 
- | [metacity]({{< ref "/f17/package/metacity.md" >}}) | 80 | 3819 | 2.1 | Latin <la@li.org> | 
- | [muffin]({{< ref "/f17/package/muffin.md" >}}) | 80 | 3819 | 2.1 | Latin <la@li.org> | 
- | [mutter]({{< ref "/f17/package/mutter.md" >}}) | 80 | 3819 | 2.1 | Latin <la@li.org> | 
- | [yelp]({{< ref "/f17/package/yelp.md" >}}) | 13 | 1035 | 1.3 | Latin <la@li.org> | 
- | [libgnomeprintui22]({{< ref "/f17/package/libgnomeprintui22.md" >}}) | 6 | 481 | 1.2 | Latin <la@li.org> | 
- | [terminator]({{< ref "/f17/package/terminator.md" >}}) | 9 | 726 | 1.2 | Latin <la@li.org> | 
- | [gedit-plugins]({{< ref "/f17/package/gedit-plugins.md" >}}) | 2 | 1205 | 0.2 | Latin <la@li.org> | 
- | [gwibber]({{< ref "/f17/package/gwibber.md" >}}) | 1 | 769 | 0.1 | Latin <la@li.org> | 
- | [libgnomeui]({{< ref "/f17/package/libgnomeui.md" >}}) | 1 | 1309 | 0.1 | Latin <la@li.org> | 
- | [libmateui]({{< ref "/f17/package/libmateui.md" >}}) | 1 | 1309 | 0.1 | Latin <la@li.org> | 
- | [warzone2100]({{< ref "/f17/package/warzone2100.md" >}}) | 9 | 13001 | 0.1 | Latin | 
- | [gnome-panel]({{< ref "/f17/package/gnome-panel.md" >}}) | 3 | 4582 | 0.1 | Latin <gnome-latin-list@gnome.org> | 
- | [mate-panel]({{< ref "/f17/package/mate-panel.md" >}}) | 3 | 4582 | 0.1 | Latin <mate-latin-list@gnome.org> | 
- | [gnome-do-plugins]({{< ref "/f17/package/gnome-do-plugins.md" >}}) | 0 | 2323 | 0.0 | Latin <la@li.org> | 
- | [im-chooser]({{< ref "/f17/package/im-chooser.md" >}}) | 0 | 226 | 0.0 | LANGUAGE <LL@li.org> | 
- | [imsettings]({{< ref "/f17/package/imsettings.md" >}}) | 0 | 404 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [widelands](/f17/package/widelands) | 9271 | 28838 | 32.1 | Latin <la@li.org> | 
+ | [wesnoth](/f17/package/wesnoth) | 69073 | 245373 | 28.2 | Latin <http://wiki.wesnoth.org/LatinTranslation> | 
+ | [libgtop2](/f17/package/libgtop2) | 24 | 126 | 19.0 | Latin <la@li.org> | 
+ | [cinnamon](/f17/package/cinnamon) | 301 | 1696 | 17.7 | Latin <la@li.org> | 
+ | [synapse](/f17/package/synapse) | 61 | 711 | 8.6 | Latin <la@li.org> | 
+ | [byobu](/f17/package/byobu) | 14 | 177 | 7.9 | Latin <la@li.org> | 
+ | [gnome-applet-alarm-clock](/f17/package/gnome-applet-alarm-clock) | 25 | 417 | 6.0 | Latin <la@li.org> | 
+ | [gedit](/f17/package/gedit) | 207 | 4942 | 4.2 | Latin <la@li.org> | 
+ | [mate-text-editor](/f17/package/mate-text-editor) | 207 | 4942 | 4.2 | Latin <la@li.org> | 
+ | [stellarium](/f17/package/stellarium) | 234 | 9286 | 2.5 | Latin <la@li.org> | 
+ | [pinta](/f17/package/pinta) | 29 | 1311 | 2.2 | Latin <la@li.org> | 
+ | [mate-window-manager](/f17/package/mate-window-manager) | 80 | 3819 | 2.1 | Latin <la@li.org> | 
+ | [metacity](/f17/package/metacity) | 80 | 3819 | 2.1 | Latin <la@li.org> | 
+ | [muffin](/f17/package/muffin) | 80 | 3819 | 2.1 | Latin <la@li.org> | 
+ | [mutter](/f17/package/mutter) | 80 | 3819 | 2.1 | Latin <la@li.org> | 
+ | [yelp](/f17/package/yelp) | 13 | 1035 | 1.3 | Latin <la@li.org> | 
+ | [libgnomeprintui22](/f17/package/libgnomeprintui22) | 6 | 481 | 1.2 | Latin <la@li.org> | 
+ | [terminator](/f17/package/terminator) | 9 | 726 | 1.2 | Latin <la@li.org> | 
+ | [gedit-plugins](/f17/package/gedit-plugins) | 2 | 1205 | 0.2 | Latin <la@li.org> | 
+ | [gwibber](/f17/package/gwibber) | 1 | 769 | 0.1 | Latin <la@li.org> | 
+ | [libgnomeui](/f17/package/libgnomeui) | 1 | 1309 | 0.1 | Latin <la@li.org> | 
+ | [libmateui](/f17/package/libmateui) | 1 | 1309 | 0.1 | Latin <la@li.org> | 
+ | [warzone2100](/f17/package/warzone2100) | 9 | 13001 | 0.1 | Latin | 
+ | [gnome-panel](/f17/package/gnome-panel) | 3 | 4582 | 0.1 | Latin <gnome-latin-list@gnome.org> | 
+ | [mate-panel](/f17/package/mate-panel) | 3 | 4582 | 0.1 | Latin <mate-latin-list@gnome.org> | 
+ | [gnome-do-plugins](/f17/package/gnome-do-plugins) | 0 | 2323 | 0.0 | Latin <la@li.org> | 
+ | [im-chooser](/f17/package/im-chooser) | 0 | 226 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [imsettings](/f17/package/imsettings) | 0 | 404 | 0.0 | LANGUAGE <LL@li.org> | 
 {.sortable}
 
 

@@ -39,8 +39,8 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [tuxpaint]({{< ref "/f10/package/tuxpaint.md" >}}) | 548 | 761 | 72.0 | LANGUAGE <LL@li.org> | 
- | [iso-codes]({{< ref "/f10/package/iso-codes.md" >}}) | 322 | 18596 | 1.7 | Venda <venda@translate.org.za> | 
+ | [tuxpaint](/f10/package/tuxpaint) | 548 | 761 | 72.0 | LANGUAGE <LL@li.org> | 
+ | [iso-codes](/f10/package/iso-codes) | 322 | 18596 | 1.7 | Venda <venda@translate.org.za> | 
 {.sortable}
 
 

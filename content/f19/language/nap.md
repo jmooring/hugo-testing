@@ -38,10 +38,10 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [gnome-do]({{< ref "/f19/package/gnome-do.md" >}}) | 37 | 612 | 6.0 | Neapolitan <nap@li.org> | 
- | [pootle]({{< ref "/f19/package/pootle.md" >}}) | 134 | 2424 | 5.5 | Napulitano <napulitano@nap.i-iter.mobi> | 
- | [deluge]({{< ref "/f19/package/deluge.md" >}}) | 82 | 2726 | 3.0 | Neapolitan <nap@li.org> | 
- | [vidalia]({{< ref "/f19/package/vidalia.md" >}}) | 0 | 10369 | 0.0 | translations@vidalia-project.net | 
+ | [gnome-do](/f19/package/gnome-do) | 37 | 612 | 6.0 | Neapolitan <nap@li.org> | 
+ | [pootle](/f19/package/pootle) | 134 | 2424 | 5.5 | Napulitano <napulitano@nap.i-iter.mobi> | 
+ | [deluge](/f19/package/deluge) | 82 | 2726 | 3.0 | Neapolitan <nap@li.org> | 
+ | [vidalia](/f19/package/vidalia) | 0 | 10369 | 0.0 | translations@vidalia-project.net | 
 {.sortable}
 
 

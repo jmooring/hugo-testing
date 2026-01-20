@@ -18,18 +18,18 @@ The package sugar-srilanka (version 4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ayc]({{< ref "/f36/language/ayc.md" >}}) | 459 | 459 | 100.0 | /mnt/stockage/packages/f36/sugar-srilanka/po/ayc.po | 
- | [en]({{< ref "/f36/language/en.md" >}}) | 459 | 459 | 100.0 | /mnt/stockage/packages/f36/sugar-srilanka/po/en.po | 
- | [en_GB]({{< ref "/f36/language/en_GB.md" >}}) | 489 | 489 | 100.0 | /mnt/stockage/packages/f36/sugar-srilanka/po/en_GB.po | 
- | [en_US]({{< ref "/f36/language/en_US.md" >}}) | 489 | 489 | 100.0 | /mnt/stockage/packages/f36/sugar-srilanka/po/en_US.po | 
- | [es]({{< ref "/f36/language/es.md" >}}) | 459 | 459 | 100.0 | /mnt/stockage/packages/f36/sugar-srilanka/po/es.po | 
- | [nl]({{< ref "/f36/language/nl.md" >}}) | 459 | 459 | 100.0 | /mnt/stockage/packages/f36/sugar-srilanka/po/nl.po | 
- | [pap]({{< ref "/f36/language/pap.md" >}}) | 459 | 459 | 100.0 | /mnt/stockage/packages/f36/sugar-srilanka/po/pap.po | 
- | [hi]({{< ref "/f36/language/hi.md" >}}) | 403 | 459 | 87.8 | /mnt/stockage/packages/f36/sugar-srilanka/po/hi.po | 
- | [mr]({{< ref "/f36/language/mr.md" >}}) | 369 | 459 | 80.4 | /mnt/stockage/packages/f36/sugar-srilanka/po/mr.po | 
- | [zh_Hans]({{< ref "/f36/language/zh_Hans.md" >}}) | 274 | 459 | 59.7 | /mnt/stockage/packages/f36/sugar-srilanka/po/zh_CN.po | 
- | [pl]({{< ref "/f36/language/pl.md" >}}) | 210 | 459 | 45.8 | /mnt/stockage/packages/f36/sugar-srilanka/po/pl.po | 
- | [hy]({{< ref "/f36/language/hy.md" >}}) | 145 | 459 | 31.6 | /mnt/stockage/packages/f36/sugar-srilanka/po/hy.po | 
+ | [ayc](/f36/language/ayc) | 459 | 459 | 100.0 | /mnt/stockage/packages/f36/sugar-srilanka/po/ayc.po | 
+ | [en](/f36/language/en) | 459 | 459 | 100.0 | /mnt/stockage/packages/f36/sugar-srilanka/po/en.po | 
+ | [en_GB](/f36/language/en_GB) | 489 | 489 | 100.0 | /mnt/stockage/packages/f36/sugar-srilanka/po/en_GB.po | 
+ | [en_US](/f36/language/en_US) | 489 | 489 | 100.0 | /mnt/stockage/packages/f36/sugar-srilanka/po/en_US.po | 
+ | [es](/f36/language/es) | 459 | 459 | 100.0 | /mnt/stockage/packages/f36/sugar-srilanka/po/es.po | 
+ | [nl](/f36/language/nl) | 459 | 459 | 100.0 | /mnt/stockage/packages/f36/sugar-srilanka/po/nl.po | 
+ | [pap](/f36/language/pap) | 459 | 459 | 100.0 | /mnt/stockage/packages/f36/sugar-srilanka/po/pap.po | 
+ | [hi](/f36/language/hi) | 403 | 459 | 87.8 | /mnt/stockage/packages/f36/sugar-srilanka/po/hi.po | 
+ | [mr](/f36/language/mr) | 369 | 459 | 80.4 | /mnt/stockage/packages/f36/sugar-srilanka/po/mr.po | 
+ | [zh_Hans](/f36/language/zh_Hans) | 274 | 459 | 59.7 | /mnt/stockage/packages/f36/sugar-srilanka/po/zh_CN.po | 
+ | [pl](/f36/language/pl) | 210 | 459 | 45.8 | /mnt/stockage/packages/f36/sugar-srilanka/po/pl.po | 
+ | [hy](/f36/language/hy) | 145 | 459 | 31.6 | /mnt/stockage/packages/f36/sugar-srilanka/po/hy.po | 
 {.sortable}
 
 

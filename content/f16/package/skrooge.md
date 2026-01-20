@@ -18,40 +18,40 @@ The package skrooge (version 0.9.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [da]({{< ref "/f16/language/da.md" >}}) | 6769 | 6769 | 100.0 | /mnt/stockage/packages/f16/skrooge/po/da/skrooge.po | 
- | [es]({{< ref "/f16/language/es.md" >}}) | 6769 | 6769 | 100.0 | /mnt/stockage/packages/f16/skrooge/po/es/skrooge.po | 
- | [fr]({{< ref "/f16/language/fr.md" >}}) | 6769 | 6769 | 100.0 | /mnt/stockage/packages/f16/skrooge/po/fr/skrooge.po | 
- | [pt]({{< ref "/f16/language/pt.md" >}}) | 6769 | 6769 | 100.0 | /mnt/stockage/packages/f16/skrooge/po/pt/skrooge.po | 
- | [pt_BR]({{< ref "/f16/language/pt_BR.md" >}}) | 6769 | 6769 | 100.0 | /mnt/stockage/packages/f16/skrooge/po/pt_BR/skrooge.po | 
- | [sv]({{< ref "/f16/language/sv.md" >}}) | 6769 | 6769 | 100.0 | /mnt/stockage/packages/f16/skrooge/po/sv/skrooge.po | 
- | [uk]({{< ref "/f16/language/uk.md" >}}) | 6769 | 6769 | 100.0 | /mnt/stockage/packages/f16/skrooge/po/uk/skrooge.po | 
- | [nb_NO]({{< ref "/f16/language/nb_NO.md" >}}) | 6430 | 6769 | 95.0 | /mnt/stockage/packages/f16/skrooge/po/nb/skrooge.po | 
- | [cs]({{< ref "/f16/language/cs.md" >}}) | 6233 | 6769 | 92.1 | /mnt/stockage/packages/f16/skrooge/po/cs/skrooge.po | 
- | [it]({{< ref "/f16/language/it.md" >}}) | 4767 | 6769 | 70.4 | /mnt/stockage/packages/f16/skrooge/po/it/skrooge.po | 
- | [el]({{< ref "/f16/language/el.md" >}}) | 4291 | 6769 | 63.4 | /mnt/stockage/packages/f16/skrooge/po/el/skrooge.po | 
- | [en_GB]({{< ref "/f16/language/en_GB.md" >}}) | 3772 | 6769 | 55.7 | /mnt/stockage/packages/f16/skrooge/po/en_GB/skrooge.po | 
- | [ca]({{< ref "/f16/language/ca.md" >}}) | 6676 | 13538 | 49.3 | /mnt/stockage/packages/f16/skrooge/po/ca/skrooge.po/mnt/stockage/packages/f16/skrooge/po/ca@valencia/skrooge.po | 
- | [ko]({{< ref "/f16/language/ko.md" >}}) | 3328 | 6769 | 49.2 | /mnt/stockage/packages/f16/skrooge/po/ko/skrooge.po | 
- | [hu]({{< ref "/f16/language/hu.md" >}}) | 2959 | 6769 | 43.7 | /mnt/stockage/packages/f16/skrooge/po/hu/skrooge.po | 
- | [nl]({{< ref "/f16/language/nl.md" >}}) | 2783 | 6769 | 41.1 | /mnt/stockage/packages/f16/skrooge/po/nl/skrooge.po | 
- | [nds]({{< ref "/f16/language/nds.md" >}}) | 2769 | 6769 | 40.9 | /mnt/stockage/packages/f16/skrooge/po/nds/skrooge.po | 
- | [lt]({{< ref "/f16/language/lt.md" >}}) | 2548 | 6769 | 37.6 | /mnt/stockage/packages/f16/skrooge/po/lt/skrooge.po | 
- | [de]({{< ref "/f16/language/de.md" >}}) | 2035 | 6769 | 30.1 | /mnt/stockage/packages/f16/skrooge/po/de/skrooge.po | 
- | [ru]({{< ref "/f16/language/ru.md" >}}) | 1960 | 6769 | 29.0 | /mnt/stockage/packages/f16/skrooge/po/ru/skrooge.po | 
- | [zh_Hant]({{< ref "/f16/language/zh_Hant.md" >}}) | 787 | 6769 | 11.6 | /mnt/stockage/packages/f16/skrooge/po/zh_TW/skrooge.po | 
- | [gl]({{< ref "/f16/language/gl.md" >}}) | 509 | 6769 | 7.5 | /mnt/stockage/packages/f16/skrooge/po/gl/skrooge.po | 
- | [pl]({{< ref "/f16/language/pl.md" >}}) | 480 | 6769 | 7.1 | /mnt/stockage/packages/f16/skrooge/po/pl/skrooge.po | 
- | [tr]({{< ref "/f16/language/tr.md" >}}) | 469 | 6769 | 6.9 | /mnt/stockage/packages/f16/skrooge/po/tr/skrooge.po | 
- | [ug]({{< ref "/f16/language/ug.md" >}}) | 377 | 6769 | 5.6 | /mnt/stockage/packages/f16/skrooge/po/ug/skrooge.po | 
- | [bg]({{< ref "/f16/language/bg.md" >}}) | 87 | 6769 | 1.3 | /mnt/stockage/packages/f16/skrooge/po/bg/skrooge.po | 
- | [ga]({{< ref "/f16/language/ga.md" >}}) | 75 | 6769 | 1.1 | /mnt/stockage/packages/f16/skrooge/po/ga/skrooge.po | 
- | [eo]({{< ref "/f16/language/eo.md" >}}) | 52 | 6769 | 0.8 | /mnt/stockage/packages/f16/skrooge/po/eo/skrooge.po | 
- | [ro]({{< ref "/f16/language/ro.md" >}}) | 36 | 6769 | 0.5 | /mnt/stockage/packages/f16/skrooge/po/ro/skrooge.po | 
- | [bs]({{< ref "/f16/language/bs.md" >}}) | 8 | 6769 | 0.1 | /mnt/stockage/packages/f16/skrooge/po/bs/skrooge.po | 
- | [ms]({{< ref "/f16/language/ms.md" >}}) | 8 | 6769 | 0.1 | /mnt/stockage/packages/f16/skrooge/po/ms/skrooge.po | 
- | [et]({{< ref "/f16/language/et.md" >}}) | 1 | 6769 | 0.0 | /mnt/stockage/packages/f16/skrooge/po/et/skrooge.po | 
- | [ja]({{< ref "/f16/language/ja.md" >}}) | 0 | 6769 | 0.0 | /mnt/stockage/packages/f16/skrooge/po/ja/skrooge.po | 
- | [sk]({{< ref "/f16/language/sk.md" >}}) | 0 | 6769 | 0.0 | /mnt/stockage/packages/f16/skrooge/po/sk/skrooge.po | 
+ | [da](/f16/language/da) | 6769 | 6769 | 100.0 | /mnt/stockage/packages/f16/skrooge/po/da/skrooge.po | 
+ | [es](/f16/language/es) | 6769 | 6769 | 100.0 | /mnt/stockage/packages/f16/skrooge/po/es/skrooge.po | 
+ | [fr](/f16/language/fr) | 6769 | 6769 | 100.0 | /mnt/stockage/packages/f16/skrooge/po/fr/skrooge.po | 
+ | [pt](/f16/language/pt) | 6769 | 6769 | 100.0 | /mnt/stockage/packages/f16/skrooge/po/pt/skrooge.po | 
+ | [pt_BR](/f16/language/pt_BR) | 6769 | 6769 | 100.0 | /mnt/stockage/packages/f16/skrooge/po/pt_BR/skrooge.po | 
+ | [sv](/f16/language/sv) | 6769 | 6769 | 100.0 | /mnt/stockage/packages/f16/skrooge/po/sv/skrooge.po | 
+ | [uk](/f16/language/uk) | 6769 | 6769 | 100.0 | /mnt/stockage/packages/f16/skrooge/po/uk/skrooge.po | 
+ | [nb_NO](/f16/language/nb_NO) | 6430 | 6769 | 95.0 | /mnt/stockage/packages/f16/skrooge/po/nb/skrooge.po | 
+ | [cs](/f16/language/cs) | 6233 | 6769 | 92.1 | /mnt/stockage/packages/f16/skrooge/po/cs/skrooge.po | 
+ | [it](/f16/language/it) | 4767 | 6769 | 70.4 | /mnt/stockage/packages/f16/skrooge/po/it/skrooge.po | 
+ | [el](/f16/language/el) | 4291 | 6769 | 63.4 | /mnt/stockage/packages/f16/skrooge/po/el/skrooge.po | 
+ | [en_GB](/f16/language/en_GB) | 3772 | 6769 | 55.7 | /mnt/stockage/packages/f16/skrooge/po/en_GB/skrooge.po | 
+ | [ca](/f16/language/ca) | 6676 | 13538 | 49.3 | /mnt/stockage/packages/f16/skrooge/po/ca/skrooge.po/mnt/stockage/packages/f16/skrooge/po/ca@valencia/skrooge.po | 
+ | [ko](/f16/language/ko) | 3328 | 6769 | 49.2 | /mnt/stockage/packages/f16/skrooge/po/ko/skrooge.po | 
+ | [hu](/f16/language/hu) | 2959 | 6769 | 43.7 | /mnt/stockage/packages/f16/skrooge/po/hu/skrooge.po | 
+ | [nl](/f16/language/nl) | 2783 | 6769 | 41.1 | /mnt/stockage/packages/f16/skrooge/po/nl/skrooge.po | 
+ | [nds](/f16/language/nds) | 2769 | 6769 | 40.9 | /mnt/stockage/packages/f16/skrooge/po/nds/skrooge.po | 
+ | [lt](/f16/language/lt) | 2548 | 6769 | 37.6 | /mnt/stockage/packages/f16/skrooge/po/lt/skrooge.po | 
+ | [de](/f16/language/de) | 2035 | 6769 | 30.1 | /mnt/stockage/packages/f16/skrooge/po/de/skrooge.po | 
+ | [ru](/f16/language/ru) | 1960 | 6769 | 29.0 | /mnt/stockage/packages/f16/skrooge/po/ru/skrooge.po | 
+ | [zh_Hant](/f16/language/zh_Hant) | 787 | 6769 | 11.6 | /mnt/stockage/packages/f16/skrooge/po/zh_TW/skrooge.po | 
+ | [gl](/f16/language/gl) | 509 | 6769 | 7.5 | /mnt/stockage/packages/f16/skrooge/po/gl/skrooge.po | 
+ | [pl](/f16/language/pl) | 480 | 6769 | 7.1 | /mnt/stockage/packages/f16/skrooge/po/pl/skrooge.po | 
+ | [tr](/f16/language/tr) | 469 | 6769 | 6.9 | /mnt/stockage/packages/f16/skrooge/po/tr/skrooge.po | 
+ | [ug](/f16/language/ug) | 377 | 6769 | 5.6 | /mnt/stockage/packages/f16/skrooge/po/ug/skrooge.po | 
+ | [bg](/f16/language/bg) | 87 | 6769 | 1.3 | /mnt/stockage/packages/f16/skrooge/po/bg/skrooge.po | 
+ | [ga](/f16/language/ga) | 75 | 6769 | 1.1 | /mnt/stockage/packages/f16/skrooge/po/ga/skrooge.po | 
+ | [eo](/f16/language/eo) | 52 | 6769 | 0.8 | /mnt/stockage/packages/f16/skrooge/po/eo/skrooge.po | 
+ | [ro](/f16/language/ro) | 36 | 6769 | 0.5 | /mnt/stockage/packages/f16/skrooge/po/ro/skrooge.po | 
+ | [bs](/f16/language/bs) | 8 | 6769 | 0.1 | /mnt/stockage/packages/f16/skrooge/po/bs/skrooge.po | 
+ | [ms](/f16/language/ms) | 8 | 6769 | 0.1 | /mnt/stockage/packages/f16/skrooge/po/ms/skrooge.po | 
+ | [et](/f16/language/et) | 1 | 6769 | 0.0 | /mnt/stockage/packages/f16/skrooge/po/et/skrooge.po | 
+ | [ja](/f16/language/ja) | 0 | 6769 | 0.0 | /mnt/stockage/packages/f16/skrooge/po/ja/skrooge.po | 
+ | [sk](/f16/language/sk) | 0 | 6769 | 0.0 | /mnt/stockage/packages/f16/skrooge/po/sk/skrooge.po | 
 {.sortable}
 
 

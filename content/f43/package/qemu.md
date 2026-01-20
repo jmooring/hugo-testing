@@ -18,15 +18,15 @@ The package qemu (version 10.1.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [bg]({{< ref "/f43/language/bg.md" >}}) | 35 | 35 | 100.0 | /mnt/stockage/packages/f43/qemu/po/bg.po | 
- | [it]({{< ref "/f43/language/it.md" >}}) | 35 | 35 | 100.0 | /mnt/stockage/packages/f43/qemu/po/it.po | 
- | [sv]({{< ref "/f43/language/sv.md" >}}) | 35 | 35 | 100.0 | /mnt/stockage/packages/f43/qemu/po/sv.po | 
- | [tr]({{< ref "/f43/language/tr.md" >}}) | 35 | 35 | 100.0 | /mnt/stockage/packages/f43/qemu/po/tr.po | 
- | [uk]({{< ref "/f43/language/uk.md" >}}) | 35 | 35 | 100.0 | /mnt/stockage/packages/f43/qemu/po/uk.po | 
- | [zh_Hans]({{< ref "/f43/language/zh_Hans.md" >}}) | 35 | 35 | 100.0 | /mnt/stockage/packages/f43/qemu/po/zh_CN.po | 
- | [de]({{< ref "/f43/language/de.md" >}}) | 33 | 35 | 94.3 | /mnt/stockage/packages/f43/qemu/po/de_DE.po | 
- | [fr]({{< ref "/f43/language/fr.md" >}}) | 33 | 35 | 94.3 | /mnt/stockage/packages/f43/qemu/po/fr_FR.po | 
- | [hu]({{< ref "/f43/language/hu.md" >}}) | 22 | 35 | 62.9 | /mnt/stockage/packages/f43/qemu/po/hu.po | 
+ | [bg](/f43/language/bg) | 35 | 35 | 100.0 | /mnt/stockage/packages/f43/qemu/po/bg.po | 
+ | [it](/f43/language/it) | 35 | 35 | 100.0 | /mnt/stockage/packages/f43/qemu/po/it.po | 
+ | [sv](/f43/language/sv) | 35 | 35 | 100.0 | /mnt/stockage/packages/f43/qemu/po/sv.po | 
+ | [tr](/f43/language/tr) | 35 | 35 | 100.0 | /mnt/stockage/packages/f43/qemu/po/tr.po | 
+ | [uk](/f43/language/uk) | 35 | 35 | 100.0 | /mnt/stockage/packages/f43/qemu/po/uk.po | 
+ | [zh_Hans](/f43/language/zh_Hans) | 35 | 35 | 100.0 | /mnt/stockage/packages/f43/qemu/po/zh_CN.po | 
+ | [de](/f43/language/de) | 33 | 35 | 94.3 | /mnt/stockage/packages/f43/qemu/po/de_DE.po | 
+ | [fr](/f43/language/fr) | 33 | 35 | 94.3 | /mnt/stockage/packages/f43/qemu/po/fr_FR.po | 
+ | [hu](/f43/language/hu) | 22 | 35 | 62.9 | /mnt/stockage/packages/f43/qemu/po/hu.po | 
 {.sortable}
 
 

@@ -18,8 +18,8 @@ The package butt (version 0.1.31):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f35/language/de.md" >}}) | 1917 | 1917 | 100.0 | /mnt/stockage/packages/f35/butt/po/de.po | 
- | [fr]({{< ref "/f35/language/fr.md" >}}) | 1917 | 1917 | 100.0 | /mnt/stockage/packages/f35/butt/po/fr.po | 
+ | [de](/f35/language/de) | 1917 | 1917 | 100.0 | /mnt/stockage/packages/f35/butt/po/de.po | 
+ | [fr](/f35/language/fr) | 1917 | 1917 | 100.0 | /mnt/stockage/packages/f35/butt/po/fr.po | 
 {.sortable}
 
 

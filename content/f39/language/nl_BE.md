@@ -38,20 +38,20 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [codeblocks]({{< ref "/f39/package/codeblocks.md" >}}) | 613 | 613 | 100.0 | Flemish <https://hosted.weblate.org/projects/hunspell/translations/nl_BE/> | 
- | [mingw-hunspell]({{< ref "/f39/package/mingw-hunspell.md" >}}) | 613 | 613 | 100.0 | Dutch (Belgium) <https://hosted.weblate.org/projects/hunspell/translations/nl_BE/> | 
- | [picard]({{< ref "/f39/package/picard.md" >}}) | 386 | 386 | 100.0 | Dutch (Belgium) (http://app.transifex.com/musicbrainz/musicbrainz/language/nl_BE/) | 
- | [clamtk]({{< ref "/f39/package/clamtk.md" >}}) | 677 | 688 | 98.4 | LANGUAGE <LL@li.org> | 
- | [hunspell]({{< ref "/f39/package/hunspell.md" >}}) | 592 | 613 | 96.6 | Dutch (Belgium) <https://hosted.weblate.org/projects/hunspell/translations/nl_BE/> | 
- | [gtkhash]({{< ref "/f39/package/gtkhash.md" >}}) | 197 | 213 | 92.5 | Flemish <https://hosted.weblate.org/projects/gtkhash/translations/nl_BE/> | 
- | [siril]({{< ref "/f39/package/siril.md" >}}) | 33950 | 43025 | 78.9 | Dutch (Belgium) <https://weblate.pixls.us/projects/siril/siril-application-1-2/nl_BE/> | 
- | [budgie-desktop]({{< ref "/f39/package/budgie-desktop.md" >}}) | 980 | 1859 | 52.7 | Dutch (Belgium) (https://app.transifex.com/buddiesofbudgie/teams/129844/nl_BE/) | 
- | [lollypop]({{< ref "/f39/package/lollypop.md" >}}) | 606 | 1428 | 42.4 | Flemish <https://hosted.weblate.org/projects/gnumdk/lollypop/nl_BE/> | 
- | [gnome-shell-extension-gsconnect]({{< ref "/f39/package/gnome-shell-extension-gsconnect.md" >}}) | 319 | 829 | 38.5 | Dutch <vistausss@outlook.com> | 
- | [duplicity]({{< ref "/f39/package/duplicity.md" >}}) | 393 | 2433 | 16.2 | Dutch, Belgium | 
- | [bubblemail]({{< ref "/f39/package/bubblemail.md" >}}) | 0 | 478 | 0.0 | none | 
- | [gnome-shell-extension-bubblemail]({{< ref "/f39/package/gnome-shell-extension-bubblemail.md" >}}) | 0 | 133 | 0.0 | none | 
- | [mc]({{< ref "/f39/package/mc.md" >}}) | 0 | 4394 | 0.0 | Dutch (Belgium) (http://app.transifex.com/mc/mc/language/nl_BE/) | 
+ | [codeblocks](/f39/package/codeblocks) | 613 | 613 | 100.0 | Flemish <https://hosted.weblate.org/projects/hunspell/translations/nl_BE/> | 
+ | [mingw-hunspell](/f39/package/mingw-hunspell) | 613 | 613 | 100.0 | Dutch (Belgium) <https://hosted.weblate.org/projects/hunspell/translations/nl_BE/> | 
+ | [picard](/f39/package/picard) | 386 | 386 | 100.0 | Dutch (Belgium) (http://app.transifex.com/musicbrainz/musicbrainz/language/nl_BE/) | 
+ | [clamtk](/f39/package/clamtk) | 677 | 688 | 98.4 | LANGUAGE <LL@li.org> | 
+ | [hunspell](/f39/package/hunspell) | 592 | 613 | 96.6 | Dutch (Belgium) <https://hosted.weblate.org/projects/hunspell/translations/nl_BE/> | 
+ | [gtkhash](/f39/package/gtkhash) | 197 | 213 | 92.5 | Flemish <https://hosted.weblate.org/projects/gtkhash/translations/nl_BE/> | 
+ | [siril](/f39/package/siril) | 33950 | 43025 | 78.9 | Dutch (Belgium) <https://weblate.pixls.us/projects/siril/siril-application-1-2/nl_BE/> | 
+ | [budgie-desktop](/f39/package/budgie-desktop) | 980 | 1859 | 52.7 | Dutch (Belgium) (https://app.transifex.com/buddiesofbudgie/teams/129844/nl_BE/) | 
+ | [lollypop](/f39/package/lollypop) | 606 | 1428 | 42.4 | Flemish <https://hosted.weblate.org/projects/gnumdk/lollypop/nl_BE/> | 
+ | [gnome-shell-extension-gsconnect](/f39/package/gnome-shell-extension-gsconnect) | 319 | 829 | 38.5 | Dutch <vistausss@outlook.com> | 
+ | [duplicity](/f39/package/duplicity) | 393 | 2433 | 16.2 | Dutch, Belgium | 
+ | [bubblemail](/f39/package/bubblemail) | 0 | 478 | 0.0 | none | 
+ | [gnome-shell-extension-bubblemail](/f39/package/gnome-shell-extension-bubblemail) | 0 | 133 | 0.0 | none | 
+ | [mc](/f39/package/mc) | 0 | 4394 | 0.0 | Dutch (Belgium) (http://app.transifex.com/mc/mc/language/nl_BE/) | 
 {.sortable}
 
 

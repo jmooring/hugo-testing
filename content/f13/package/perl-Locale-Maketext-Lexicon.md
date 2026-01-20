@@ -18,7 +18,7 @@ The package perl-Locale-Maketext-Lexicon (version 0.84):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [en]({{< ref "/f13/language/en.md" >}}) | 3 | 3 | 100.0 | /mnt/stockage/packages/f13/perl-Locale-Maketext-Lexicon/t/lib/Myi18n/en.po | 
+ | [en](/f13/language/en) | 3 | 3 | 100.0 | /mnt/stockage/packages/f13/perl-Locale-Maketext-Lexicon/t/lib/Myi18n/en.po | 
 {.sortable}
 
 

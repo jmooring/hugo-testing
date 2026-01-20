@@ -18,23 +18,23 @@ The package clawsker (version 1.4.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f40/language/ca.md" >}}) | 1693 | 1693 | 100.0 | /mnt/stockage/packages/f40/clawsker/po/ca.po | 
- | [da]({{< ref "/f40/language/da.md" >}}) | 1537 | 1537 | 100.0 | /mnt/stockage/packages/f40/clawsker/po/da.po | 
- | [de]({{< ref "/f40/language/de.md" >}}) | 1376 | 1376 | 100.0 | /mnt/stockage/packages/f40/clawsker/po/unmaint/de.po | 
- | [es]({{< ref "/f40/language/es.md" >}}) | 1693 | 1693 | 100.0 | /mnt/stockage/packages/f40/clawsker/po/es.po | 
- | [fr]({{< ref "/f40/language/fr.md" >}}) | 1693 | 1693 | 100.0 | /mnt/stockage/packages/f40/clawsker/po/fr.po | 
- | [id]({{< ref "/f40/language/id.md" >}}) | 1262 | 1262 | 100.0 | /mnt/stockage/packages/f40/clawsker/po/unmaint/id.po | 
- | [it]({{< ref "/f40/language/it.md" >}}) | 840 | 840 | 100.0 | /mnt/stockage/packages/f40/clawsker/po/unmaint/it.po | 
- | [nb_NO]({{< ref "/f40/language/nb_NO.md" >}}) | 1400 | 1400 | 100.0 | /mnt/stockage/packages/f40/clawsker/po/unmaint/nb.po | 
- | [nl]({{< ref "/f40/language/nl.md" >}}) | 1693 | 1693 | 100.0 | /mnt/stockage/packages/f40/clawsker/po/nl.po | 
- | [pl]({{< ref "/f40/language/pl.md" >}}) | 1603 | 1603 | 100.0 | /mnt/stockage/packages/f40/clawsker/po/pl.po | 
- | [pt_BR]({{< ref "/f40/language/pt_BR.md" >}}) | 1440 | 1440 | 100.0 | /mnt/stockage/packages/f40/clawsker/po/unmaint/pt_BR.po | 
- | [pt_PT]({{< ref "/f40/language/pt_PT.md" >}}) | 1440 | 1440 | 100.0 | /mnt/stockage/packages/f40/clawsker/po/unmaint/pt_PT.po | 
- | [ru]({{< ref "/f40/language/ru.md" >}}) | 1603 | 1603 | 100.0 | /mnt/stockage/packages/f40/clawsker/po/ru.po | 
- | [sr]({{< ref "/f40/language/sr.md" >}}) | 1312 | 1312 | 100.0 | /mnt/stockage/packages/f40/clawsker/po/unmaint/sr.po/mnt/stockage/packages/f40/clawsker/po/unmaint/sr@latin.po | 
- | [sv]({{< ref "/f40/language/sv.md" >}}) | 1693 | 1693 | 100.0 | /mnt/stockage/packages/f40/clawsker/po/sv.po | 
- | [tr]({{< ref "/f40/language/tr.md" >}}) | 1693 | 1693 | 100.0 | /mnt/stockage/packages/f40/clawsker/po/tr.po | 
- | [zh_Hant]({{< ref "/f40/language/zh_Hant.md" >}}) | 1511 | 1511 | 100.0 | /mnt/stockage/packages/f40/clawsker/po/zh_TW.po | 
+ | [ca](/f40/language/ca) | 1693 | 1693 | 100.0 | /mnt/stockage/packages/f40/clawsker/po/ca.po | 
+ | [da](/f40/language/da) | 1537 | 1537 | 100.0 | /mnt/stockage/packages/f40/clawsker/po/da.po | 
+ | [de](/f40/language/de) | 1376 | 1376 | 100.0 | /mnt/stockage/packages/f40/clawsker/po/unmaint/de.po | 
+ | [es](/f40/language/es) | 1693 | 1693 | 100.0 | /mnt/stockage/packages/f40/clawsker/po/es.po | 
+ | [fr](/f40/language/fr) | 1693 | 1693 | 100.0 | /mnt/stockage/packages/f40/clawsker/po/fr.po | 
+ | [id](/f40/language/id) | 1262 | 1262 | 100.0 | /mnt/stockage/packages/f40/clawsker/po/unmaint/id.po | 
+ | [it](/f40/language/it) | 840 | 840 | 100.0 | /mnt/stockage/packages/f40/clawsker/po/unmaint/it.po | 
+ | [nb_NO](/f40/language/nb_NO) | 1400 | 1400 | 100.0 | /mnt/stockage/packages/f40/clawsker/po/unmaint/nb.po | 
+ | [nl](/f40/language/nl) | 1693 | 1693 | 100.0 | /mnt/stockage/packages/f40/clawsker/po/nl.po | 
+ | [pl](/f40/language/pl) | 1603 | 1603 | 100.0 | /mnt/stockage/packages/f40/clawsker/po/pl.po | 
+ | [pt_BR](/f40/language/pt_BR) | 1440 | 1440 | 100.0 | /mnt/stockage/packages/f40/clawsker/po/unmaint/pt_BR.po | 
+ | [pt_PT](/f40/language/pt_PT) | 1440 | 1440 | 100.0 | /mnt/stockage/packages/f40/clawsker/po/unmaint/pt_PT.po | 
+ | [ru](/f40/language/ru) | 1603 | 1603 | 100.0 | /mnt/stockage/packages/f40/clawsker/po/ru.po | 
+ | [sr](/f40/language/sr) | 1312 | 1312 | 100.0 | /mnt/stockage/packages/f40/clawsker/po/unmaint/sr.po/mnt/stockage/packages/f40/clawsker/po/unmaint/sr@latin.po | 
+ | [sv](/f40/language/sv) | 1693 | 1693 | 100.0 | /mnt/stockage/packages/f40/clawsker/po/sv.po | 
+ | [tr](/f40/language/tr) | 1693 | 1693 | 100.0 | /mnt/stockage/packages/f40/clawsker/po/tr.po | 
+ | [zh_Hant](/f40/language/zh_Hant) | 1511 | 1511 | 100.0 | /mnt/stockage/packages/f40/clawsker/po/zh_TW.po | 
 {.sortable}
 
 

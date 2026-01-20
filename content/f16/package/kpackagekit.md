@@ -18,42 +18,42 @@ The package kpackagekit (version 0.6.3.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [da]({{< ref "/f16/language/da.md" >}}) | 3646 | 3646 | 100.0 | /mnt/stockage/packages/f16/kpackagekit/po/da/kpackagekit.po | 
- | [hu]({{< ref "/f16/language/hu.md" >}}) | 3646 | 3646 | 100.0 | /mnt/stockage/packages/f16/kpackagekit/po/hu/kpackagekit.po | 
- | [pa]({{< ref "/f16/language/pa.md" >}}) | 3646 | 3646 | 100.0 | /mnt/stockage/packages/f16/kpackagekit/po/pa/kpackagekit.po | 
- | [pt]({{< ref "/f16/language/pt.md" >}}) | 3646 | 3646 | 100.0 | /mnt/stockage/packages/f16/kpackagekit/po/pt/kpackagekit.po | 
- | [pt_BR]({{< ref "/f16/language/pt_BR.md" >}}) | 3646 | 3646 | 100.0 | /mnt/stockage/packages/f16/kpackagekit/po/pt_BR/kpackagekit.po | 
- | [sv]({{< ref "/f16/language/sv.md" >}}) | 3646 | 3646 | 100.0 | /mnt/stockage/packages/f16/kpackagekit/po/sv/kpackagekit.po | 
- | [uk]({{< ref "/f16/language/uk.md" >}}) | 3646 | 3646 | 100.0 | /mnt/stockage/packages/f16/kpackagekit/po/uk/kpackagekit.po | 
- | [sk]({{< ref "/f16/language/sk.md" >}}) | 3609 | 3646 | 99.0 | /mnt/stockage/packages/f16/kpackagekit/po/sk/kpackagekit.po | 
- | [de]({{< ref "/f16/language/de.md" >}}) | 3603 | 3646 | 98.8 | /mnt/stockage/packages/f16/kpackagekit/po/de/kpackagekit.po | 
- | [fr]({{< ref "/f16/language/fr.md" >}}) | 3587 | 3646 | 98.4 | /mnt/stockage/packages/f16/kpackagekit/po/fr/kpackagekit.po | 
- | [it]({{< ref "/f16/language/it.md" >}}) | 3587 | 3646 | 98.4 | /mnt/stockage/packages/f16/kpackagekit/po/it/kpackagekit.po | 
- | [pl]({{< ref "/f16/language/pl.md" >}}) | 3587 | 3646 | 98.4 | /mnt/stockage/packages/f16/kpackagekit/po/pl/kpackagekit.po | 
- | [lt]({{< ref "/f16/language/lt.md" >}}) | 3560 | 3646 | 97.6 | /mnt/stockage/packages/f16/kpackagekit/po/lt/kpackagekit.po | 
- | [sl]({{< ref "/f16/language/sl.md" >}}) | 3560 | 3646 | 97.6 | /mnt/stockage/packages/f16/kpackagekit/po/sl/kpackagekit.po | 
- | [ca]({{< ref "/f16/language/ca.md" >}}) | 7084 | 7292 | 97.1 | /mnt/stockage/packages/f16/kpackagekit/po/ca@valencia/kpackagekit.po/mnt/stockage/packages/f16/kpackagekit/po/ca/kpackagekit.po | 
- | [es]({{< ref "/f16/language/es.md" >}}) | 3535 | 3646 | 97.0 | /mnt/stockage/packages/f16/kpackagekit/po/es/kpackagekit.po | 
- | [ru]({{< ref "/f16/language/ru.md" >}}) | 3533 | 3646 | 96.9 | /mnt/stockage/packages/f16/kpackagekit/po/ru/kpackagekit.po | 
- | [en_GB]({{< ref "/f16/language/en_GB.md" >}}) | 3504 | 3646 | 96.1 | /mnt/stockage/packages/f16/kpackagekit/po/en_GB/kpackagekit.po | 
- | [tr]({{< ref "/f16/language/tr.md" >}}) | 3270 | 3646 | 89.7 | /mnt/stockage/packages/f16/kpackagekit/po/tr/kpackagekit.po | 
- | [et]({{< ref "/f16/language/et.md" >}}) | 3054 | 3646 | 83.8 | /mnt/stockage/packages/f16/kpackagekit/po/et/kpackagekit.po | 
- | [zh_Hant]({{< ref "/f16/language/zh_Hant.md" >}}) | 3004 | 3646 | 82.4 | /mnt/stockage/packages/f16/kpackagekit/po/zh_TW/kpackagekit.po | 
- | [cs]({{< ref "/f16/language/cs.md" >}}) | 2928 | 3646 | 80.3 | /mnt/stockage/packages/f16/kpackagekit/po/cs/kpackagekit.po | 
- | [ja]({{< ref "/f16/language/ja.md" >}}) | 2669 | 3646 | 73.2 | /mnt/stockage/packages/f16/kpackagekit/po/ja/kpackagekit.po | 
- | [zh_Hans]({{< ref "/f16/language/zh_Hans.md" >}}) | 2113 | 3646 | 58.0 | /mnt/stockage/packages/f16/kpackagekit/po/zh_CN/kpackagekit.po | 
- | [bg]({{< ref "/f16/language/bg.md" >}}) | 1995 | 3646 | 54.7 | /mnt/stockage/packages/f16/kpackagekit/po/bg/kpackagekit.po | 
- | [nds]({{< ref "/f16/language/nds.md" >}}) | 1988 | 3646 | 54.5 | /mnt/stockage/packages/f16/kpackagekit/po/nds/kpackagekit.po | 
- | [nl]({{< ref "/f16/language/nl.md" >}}) | 1793 | 3646 | 49.2 | /mnt/stockage/packages/f16/kpackagekit/po/nl/kpackagekit.po | 
- | [ro]({{< ref "/f16/language/ro.md" >}}) | 1791 | 3646 | 49.1 | /mnt/stockage/packages/f16/kpackagekit/po/ro/kpackagekit.po | 
- | [fi]({{< ref "/f16/language/fi.md" >}}) | 1782 | 3646 | 48.9 | /mnt/stockage/packages/f16/kpackagekit/po/fi/kpackagekit.po | 
- | [nn]({{< ref "/f16/language/nn.md" >}}) | 1107 | 3646 | 30.4 | /mnt/stockage/packages/f16/kpackagekit/po/nn/kpackagekit.po | 
- | [gl]({{< ref "/f16/language/gl.md" >}}) | 1100 | 3646 | 30.2 | /mnt/stockage/packages/f16/kpackagekit/po/gl/kpackagekit.po | 
- | [ga]({{< ref "/f16/language/ga.md" >}}) | 979 | 3646 | 26.9 | /mnt/stockage/packages/f16/kpackagekit/po/ga/kpackagekit.po | 
- | [ast]({{< ref "/f16/language/ast.md" >}}) | 943 | 3646 | 25.9 | /mnt/stockage/packages/f16/kpackagekit/po/ast/kpackagekit.po | 
- | [el]({{< ref "/f16/language/el.md" >}}) | 702 | 3646 | 19.3 | /mnt/stockage/packages/f16/kpackagekit/po/el/kpackagekit.po | 
- | [eo]({{< ref "/f16/language/eo.md" >}}) | 107 | 3646 | 2.9 | /mnt/stockage/packages/f16/kpackagekit/po/eo/kpackagekit.po | 
- | [nb_NO]({{< ref "/f16/language/nb_NO.md" >}}) | 5 | 3646 | 0.1 | /mnt/stockage/packages/f16/kpackagekit/po/nb/kpackagekit.po | 
+ | [da](/f16/language/da) | 3646 | 3646 | 100.0 | /mnt/stockage/packages/f16/kpackagekit/po/da/kpackagekit.po | 
+ | [hu](/f16/language/hu) | 3646 | 3646 | 100.0 | /mnt/stockage/packages/f16/kpackagekit/po/hu/kpackagekit.po | 
+ | [pa](/f16/language/pa) | 3646 | 3646 | 100.0 | /mnt/stockage/packages/f16/kpackagekit/po/pa/kpackagekit.po | 
+ | [pt](/f16/language/pt) | 3646 | 3646 | 100.0 | /mnt/stockage/packages/f16/kpackagekit/po/pt/kpackagekit.po | 
+ | [pt_BR](/f16/language/pt_BR) | 3646 | 3646 | 100.0 | /mnt/stockage/packages/f16/kpackagekit/po/pt_BR/kpackagekit.po | 
+ | [sv](/f16/language/sv) | 3646 | 3646 | 100.0 | /mnt/stockage/packages/f16/kpackagekit/po/sv/kpackagekit.po | 
+ | [uk](/f16/language/uk) | 3646 | 3646 | 100.0 | /mnt/stockage/packages/f16/kpackagekit/po/uk/kpackagekit.po | 
+ | [sk](/f16/language/sk) | 3609 | 3646 | 99.0 | /mnt/stockage/packages/f16/kpackagekit/po/sk/kpackagekit.po | 
+ | [de](/f16/language/de) | 3603 | 3646 | 98.8 | /mnt/stockage/packages/f16/kpackagekit/po/de/kpackagekit.po | 
+ | [fr](/f16/language/fr) | 3587 | 3646 | 98.4 | /mnt/stockage/packages/f16/kpackagekit/po/fr/kpackagekit.po | 
+ | [it](/f16/language/it) | 3587 | 3646 | 98.4 | /mnt/stockage/packages/f16/kpackagekit/po/it/kpackagekit.po | 
+ | [pl](/f16/language/pl) | 3587 | 3646 | 98.4 | /mnt/stockage/packages/f16/kpackagekit/po/pl/kpackagekit.po | 
+ | [lt](/f16/language/lt) | 3560 | 3646 | 97.6 | /mnt/stockage/packages/f16/kpackagekit/po/lt/kpackagekit.po | 
+ | [sl](/f16/language/sl) | 3560 | 3646 | 97.6 | /mnt/stockage/packages/f16/kpackagekit/po/sl/kpackagekit.po | 
+ | [ca](/f16/language/ca) | 7084 | 7292 | 97.1 | /mnt/stockage/packages/f16/kpackagekit/po/ca@valencia/kpackagekit.po/mnt/stockage/packages/f16/kpackagekit/po/ca/kpackagekit.po | 
+ | [es](/f16/language/es) | 3535 | 3646 | 97.0 | /mnt/stockage/packages/f16/kpackagekit/po/es/kpackagekit.po | 
+ | [ru](/f16/language/ru) | 3533 | 3646 | 96.9 | /mnt/stockage/packages/f16/kpackagekit/po/ru/kpackagekit.po | 
+ | [en_GB](/f16/language/en_GB) | 3504 | 3646 | 96.1 | /mnt/stockage/packages/f16/kpackagekit/po/en_GB/kpackagekit.po | 
+ | [tr](/f16/language/tr) | 3270 | 3646 | 89.7 | /mnt/stockage/packages/f16/kpackagekit/po/tr/kpackagekit.po | 
+ | [et](/f16/language/et) | 3054 | 3646 | 83.8 | /mnt/stockage/packages/f16/kpackagekit/po/et/kpackagekit.po | 
+ | [zh_Hant](/f16/language/zh_Hant) | 3004 | 3646 | 82.4 | /mnt/stockage/packages/f16/kpackagekit/po/zh_TW/kpackagekit.po | 
+ | [cs](/f16/language/cs) | 2928 | 3646 | 80.3 | /mnt/stockage/packages/f16/kpackagekit/po/cs/kpackagekit.po | 
+ | [ja](/f16/language/ja) | 2669 | 3646 | 73.2 | /mnt/stockage/packages/f16/kpackagekit/po/ja/kpackagekit.po | 
+ | [zh_Hans](/f16/language/zh_Hans) | 2113 | 3646 | 58.0 | /mnt/stockage/packages/f16/kpackagekit/po/zh_CN/kpackagekit.po | 
+ | [bg](/f16/language/bg) | 1995 | 3646 | 54.7 | /mnt/stockage/packages/f16/kpackagekit/po/bg/kpackagekit.po | 
+ | [nds](/f16/language/nds) | 1988 | 3646 | 54.5 | /mnt/stockage/packages/f16/kpackagekit/po/nds/kpackagekit.po | 
+ | [nl](/f16/language/nl) | 1793 | 3646 | 49.2 | /mnt/stockage/packages/f16/kpackagekit/po/nl/kpackagekit.po | 
+ | [ro](/f16/language/ro) | 1791 | 3646 | 49.1 | /mnt/stockage/packages/f16/kpackagekit/po/ro/kpackagekit.po | 
+ | [fi](/f16/language/fi) | 1782 | 3646 | 48.9 | /mnt/stockage/packages/f16/kpackagekit/po/fi/kpackagekit.po | 
+ | [nn](/f16/language/nn) | 1107 | 3646 | 30.4 | /mnt/stockage/packages/f16/kpackagekit/po/nn/kpackagekit.po | 
+ | [gl](/f16/language/gl) | 1100 | 3646 | 30.2 | /mnt/stockage/packages/f16/kpackagekit/po/gl/kpackagekit.po | 
+ | [ga](/f16/language/ga) | 979 | 3646 | 26.9 | /mnt/stockage/packages/f16/kpackagekit/po/ga/kpackagekit.po | 
+ | [ast](/f16/language/ast) | 943 | 3646 | 25.9 | /mnt/stockage/packages/f16/kpackagekit/po/ast/kpackagekit.po | 
+ | [el](/f16/language/el) | 702 | 3646 | 19.3 | /mnt/stockage/packages/f16/kpackagekit/po/el/kpackagekit.po | 
+ | [eo](/f16/language/eo) | 107 | 3646 | 2.9 | /mnt/stockage/packages/f16/kpackagekit/po/eo/kpackagekit.po | 
+ | [nb_NO](/f16/language/nb_NO) | 5 | 3646 | 0.1 | /mnt/stockage/packages/f16/kpackagekit/po/nb/kpackagekit.po | 
 {.sortable}
 
 

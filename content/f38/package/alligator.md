@@ -18,38 +18,38 @@ The package alligator (version 23.08.5):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f38/language/ca.md" >}}) | 171 | 171 | 100.0 | /mnt/stockage/packages/f38/alligator/po/ca/alligator.po | 
- | [ca@valencia]({{< ref "/f38/language/ca@valencia.md" >}}) | 171 | 171 | 100.0 | /mnt/stockage/packages/f38/alligator/po/ca@valencia/alligator.po | 
- | [cs]({{< ref "/f38/language/cs.md" >}}) | 171 | 171 | 100.0 | /mnt/stockage/packages/f38/alligator/po/cs/alligator.po | 
- | [de]({{< ref "/f38/language/de.md" >}}) | 171 | 171 | 100.0 | /mnt/stockage/packages/f38/alligator/po/de/alligator.po | 
- | [en_GB]({{< ref "/f38/language/en_GB.md" >}}) | 171 | 171 | 100.0 | /mnt/stockage/packages/f38/alligator/po/en_GB/alligator.po | 
- | [es]({{< ref "/f38/language/es.md" >}}) | 171 | 171 | 100.0 | /mnt/stockage/packages/f38/alligator/po/es/alligator.po | 
- | [eu]({{< ref "/f38/language/eu.md" >}}) | 171 | 171 | 100.0 | /mnt/stockage/packages/f38/alligator/po/eu/alligator.po | 
- | [fi]({{< ref "/f38/language/fi.md" >}}) | 171 | 171 | 100.0 | /mnt/stockage/packages/f38/alligator/po/fi/alligator.po | 
- | [fr]({{< ref "/f38/language/fr.md" >}}) | 171 | 171 | 100.0 | /mnt/stockage/packages/f38/alligator/po/fr/alligator.po | 
- | [gl]({{< ref "/f38/language/gl.md" >}}) | 171 | 171 | 100.0 | /mnt/stockage/packages/f38/alligator/po/gl/alligator.po | 
- | [ia]({{< ref "/f38/language/ia.md" >}}) | 171 | 171 | 100.0 | /mnt/stockage/packages/f38/alligator/po/ia/alligator.po | 
- | [it]({{< ref "/f38/language/it.md" >}}) | 171 | 171 | 100.0 | /mnt/stockage/packages/f38/alligator/po/it/alligator.po | 
- | [ka]({{< ref "/f38/language/ka.md" >}}) | 171 | 171 | 100.0 | /mnt/stockage/packages/f38/alligator/po/ka/alligator.po | 
- | [ko]({{< ref "/f38/language/ko.md" >}}) | 171 | 171 | 100.0 | /mnt/stockage/packages/f38/alligator/po/ko/alligator.po | 
- | [nl]({{< ref "/f38/language/nl.md" >}}) | 171 | 171 | 100.0 | /mnt/stockage/packages/f38/alligator/po/nl/alligator.po | 
- | [pl]({{< ref "/f38/language/pl.md" >}}) | 171 | 171 | 100.0 | /mnt/stockage/packages/f38/alligator/po/pl/alligator.po | 
- | [pt]({{< ref "/f38/language/pt.md" >}}) | 171 | 171 | 100.0 | /mnt/stockage/packages/f38/alligator/po/pt/alligator.po | 
- | [pt_BR]({{< ref "/f38/language/pt_BR.md" >}}) | 171 | 171 | 100.0 | /mnt/stockage/packages/f38/alligator/po/pt_BR/alligator.po | 
- | [ru]({{< ref "/f38/language/ru.md" >}}) | 171 | 171 | 100.0 | /mnt/stockage/packages/f38/alligator/po/ru/alligator.po | 
- | [sl]({{< ref "/f38/language/sl.md" >}}) | 171 | 171 | 100.0 | /mnt/stockage/packages/f38/alligator/po/sl/alligator.po | 
- | [sv]({{< ref "/f38/language/sv.md" >}}) | 171 | 171 | 100.0 | /mnt/stockage/packages/f38/alligator/po/sv/alligator.po | 
- | [tr]({{< ref "/f38/language/tr.md" >}}) | 171 | 171 | 100.0 | /mnt/stockage/packages/f38/alligator/po/tr/alligator.po | 
- | [uk]({{< ref "/f38/language/uk.md" >}}) | 171 | 171 | 100.0 | /mnt/stockage/packages/f38/alligator/po/uk/alligator.po | 
- | [zh_Hans]({{< ref "/f38/language/zh_Hans.md" >}}) | 171 | 171 | 100.0 | /mnt/stockage/packages/f38/alligator/po/zh_CN/alligator.po | 
- | [zh_Hant]({{< ref "/f38/language/zh_Hant.md" >}}) | 165 | 171 | 96.5 | /mnt/stockage/packages/f38/alligator/po/zh_TW/alligator.po | 
- | [hu]({{< ref "/f38/language/hu.md" >}}) | 106 | 171 | 62.0 | /mnt/stockage/packages/f38/alligator/po/hu/alligator.po | 
- | [pa]({{< ref "/f38/language/pa.md" >}}) | 103 | 171 | 60.2 | /mnt/stockage/packages/f38/alligator/po/pa/alligator.po | 
- | [nn]({{< ref "/f38/language/nn.md" >}}) | 74 | 171 | 43.3 | /mnt/stockage/packages/f38/alligator/po/nn/alligator.po | 
- | [et]({{< ref "/f38/language/et.md" >}}) | 63 | 171 | 36.8 | /mnt/stockage/packages/f38/alligator/po/et/alligator.po | 
- | [sk]({{< ref "/f38/language/sk.md" >}}) | 49 | 171 | 28.7 | /mnt/stockage/packages/f38/alligator/po/sk/alligator.po | 
- | [ja]({{< ref "/f38/language/ja.md" >}}) | 0 | 171 | 0.0 | /mnt/stockage/packages/f38/alligator/po/ja/alligator.po | 
- | [lt]({{< ref "/f38/language/lt.md" >}}) | 0 | 171 | 0.0 | /mnt/stockage/packages/f38/alligator/po/lt/alligator.po | 
+ | [ca](/f38/language/ca) | 171 | 171 | 100.0 | /mnt/stockage/packages/f38/alligator/po/ca/alligator.po | 
+ | [ca@valencia](/f38/language/ca@valencia) | 171 | 171 | 100.0 | /mnt/stockage/packages/f38/alligator/po/ca@valencia/alligator.po | 
+ | [cs](/f38/language/cs) | 171 | 171 | 100.0 | /mnt/stockage/packages/f38/alligator/po/cs/alligator.po | 
+ | [de](/f38/language/de) | 171 | 171 | 100.0 | /mnt/stockage/packages/f38/alligator/po/de/alligator.po | 
+ | [en_GB](/f38/language/en_GB) | 171 | 171 | 100.0 | /mnt/stockage/packages/f38/alligator/po/en_GB/alligator.po | 
+ | [es](/f38/language/es) | 171 | 171 | 100.0 | /mnt/stockage/packages/f38/alligator/po/es/alligator.po | 
+ | [eu](/f38/language/eu) | 171 | 171 | 100.0 | /mnt/stockage/packages/f38/alligator/po/eu/alligator.po | 
+ | [fi](/f38/language/fi) | 171 | 171 | 100.0 | /mnt/stockage/packages/f38/alligator/po/fi/alligator.po | 
+ | [fr](/f38/language/fr) | 171 | 171 | 100.0 | /mnt/stockage/packages/f38/alligator/po/fr/alligator.po | 
+ | [gl](/f38/language/gl) | 171 | 171 | 100.0 | /mnt/stockage/packages/f38/alligator/po/gl/alligator.po | 
+ | [ia](/f38/language/ia) | 171 | 171 | 100.0 | /mnt/stockage/packages/f38/alligator/po/ia/alligator.po | 
+ | [it](/f38/language/it) | 171 | 171 | 100.0 | /mnt/stockage/packages/f38/alligator/po/it/alligator.po | 
+ | [ka](/f38/language/ka) | 171 | 171 | 100.0 | /mnt/stockage/packages/f38/alligator/po/ka/alligator.po | 
+ | [ko](/f38/language/ko) | 171 | 171 | 100.0 | /mnt/stockage/packages/f38/alligator/po/ko/alligator.po | 
+ | [nl](/f38/language/nl) | 171 | 171 | 100.0 | /mnt/stockage/packages/f38/alligator/po/nl/alligator.po | 
+ | [pl](/f38/language/pl) | 171 | 171 | 100.0 | /mnt/stockage/packages/f38/alligator/po/pl/alligator.po | 
+ | [pt](/f38/language/pt) | 171 | 171 | 100.0 | /mnt/stockage/packages/f38/alligator/po/pt/alligator.po | 
+ | [pt_BR](/f38/language/pt_BR) | 171 | 171 | 100.0 | /mnt/stockage/packages/f38/alligator/po/pt_BR/alligator.po | 
+ | [ru](/f38/language/ru) | 171 | 171 | 100.0 | /mnt/stockage/packages/f38/alligator/po/ru/alligator.po | 
+ | [sl](/f38/language/sl) | 171 | 171 | 100.0 | /mnt/stockage/packages/f38/alligator/po/sl/alligator.po | 
+ | [sv](/f38/language/sv) | 171 | 171 | 100.0 | /mnt/stockage/packages/f38/alligator/po/sv/alligator.po | 
+ | [tr](/f38/language/tr) | 171 | 171 | 100.0 | /mnt/stockage/packages/f38/alligator/po/tr/alligator.po | 
+ | [uk](/f38/language/uk) | 171 | 171 | 100.0 | /mnt/stockage/packages/f38/alligator/po/uk/alligator.po | 
+ | [zh_Hans](/f38/language/zh_Hans) | 171 | 171 | 100.0 | /mnt/stockage/packages/f38/alligator/po/zh_CN/alligator.po | 
+ | [zh_Hant](/f38/language/zh_Hant) | 165 | 171 | 96.5 | /mnt/stockage/packages/f38/alligator/po/zh_TW/alligator.po | 
+ | [hu](/f38/language/hu) | 106 | 171 | 62.0 | /mnt/stockage/packages/f38/alligator/po/hu/alligator.po | 
+ | [pa](/f38/language/pa) | 103 | 171 | 60.2 | /mnt/stockage/packages/f38/alligator/po/pa/alligator.po | 
+ | [nn](/f38/language/nn) | 74 | 171 | 43.3 | /mnt/stockage/packages/f38/alligator/po/nn/alligator.po | 
+ | [et](/f38/language/et) | 63 | 171 | 36.8 | /mnt/stockage/packages/f38/alligator/po/et/alligator.po | 
+ | [sk](/f38/language/sk) | 49 | 171 | 28.7 | /mnt/stockage/packages/f38/alligator/po/sk/alligator.po | 
+ | [ja](/f38/language/ja) | 0 | 171 | 0.0 | /mnt/stockage/packages/f38/alligator/po/ja/alligator.po | 
+ | [lt](/f38/language/lt) | 0 | 171 | 0.0 | /mnt/stockage/packages/f38/alligator/po/lt/alligator.po | 
 {.sortable}
 
 

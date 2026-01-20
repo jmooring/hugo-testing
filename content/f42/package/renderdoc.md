@@ -18,17 +18,17 @@ The package renderdoc (version 1.39):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f42/language/de.md" >}}) | 79 | 79 | 100.0 | /mnt/stockage/packages/f42/renderdoc/docs/sphinx_rtd_theme_chm_friendly/locale/de/LC_MESSAGES/sphinx.po | 
- | [es]({{< ref "/f42/language/es.md" >}}) | 82 | 82 | 100.0 | /mnt/stockage/packages/f42/renderdoc/docs/sphinx_rtd_theme_chm_friendly/locale/es/LC_MESSAGES/sphinx.po | 
- | [et]({{< ref "/f42/language/et.md" >}}) | 79 | 79 | 100.0 | /mnt/stockage/packages/f42/renderdoc/docs/sphinx_rtd_theme_chm_friendly/locale/et/LC_MESSAGES/sphinx.po | 
- | [fr]({{< ref "/f42/language/fr.md" >}}) | 78 | 78 | 100.0 | /mnt/stockage/packages/f42/renderdoc/docs/sphinx_rtd_theme_chm_friendly/locale/fr/LC_MESSAGES/sphinx.po | 
- | [nl]({{< ref "/f42/language/nl.md" >}}) | 82 | 82 | 100.0 | /mnt/stockage/packages/f42/renderdoc/docs/sphinx_rtd_theme_chm_friendly/locale/nl/LC_MESSAGES/sphinx.po | 
- | [pt_BR]({{< ref "/f42/language/pt_BR.md" >}}) | 82 | 82 | 100.0 | /mnt/stockage/packages/f42/renderdoc/docs/sphinx_rtd_theme_chm_friendly/locale/pt_BR/LC_MESSAGES/sphinx.po | 
- | [ru]({{< ref "/f42/language/ru.md" >}}) | 82 | 82 | 100.0 | /mnt/stockage/packages/f42/renderdoc/docs/sphinx_rtd_theme_chm_friendly/locale/ru/LC_MESSAGES/sphinx.po | 
- | [sv]({{< ref "/f42/language/sv.md" >}}) | 81 | 81 | 100.0 | /mnt/stockage/packages/f42/renderdoc/docs/sphinx_rtd_theme_chm_friendly/locale/sv/LC_MESSAGES/sphinx.po | 
- | [tr]({{< ref "/f42/language/tr.md" >}}) | 77 | 77 | 100.0 | /mnt/stockage/packages/f42/renderdoc/docs/sphinx_rtd_theme_chm_friendly/locale/tr/LC_MESSAGES/sphinx.po | 
- | [zh_Hans]({{< ref "/f42/language/zh_Hans.md" >}}) | 81 | 81 | 100.0 | /mnt/stockage/packages/f42/renderdoc/docs/sphinx_rtd_theme_chm_friendly/locale/zh_CN/LC_MESSAGES/sphinx.po | 
- | [en]({{< ref "/f42/language/en.md" >}}) | 0 | 88 | 0.0 | /mnt/stockage/packages/f42/renderdoc/docs/sphinx_rtd_theme_chm_friendly/locale/en/LC_MESSAGES/sphinx.po | 
+ | [de](/f42/language/de) | 79 | 79 | 100.0 | /mnt/stockage/packages/f42/renderdoc/docs/sphinx_rtd_theme_chm_friendly/locale/de/LC_MESSAGES/sphinx.po | 
+ | [es](/f42/language/es) | 82 | 82 | 100.0 | /mnt/stockage/packages/f42/renderdoc/docs/sphinx_rtd_theme_chm_friendly/locale/es/LC_MESSAGES/sphinx.po | 
+ | [et](/f42/language/et) | 79 | 79 | 100.0 | /mnt/stockage/packages/f42/renderdoc/docs/sphinx_rtd_theme_chm_friendly/locale/et/LC_MESSAGES/sphinx.po | 
+ | [fr](/f42/language/fr) | 78 | 78 | 100.0 | /mnt/stockage/packages/f42/renderdoc/docs/sphinx_rtd_theme_chm_friendly/locale/fr/LC_MESSAGES/sphinx.po | 
+ | [nl](/f42/language/nl) | 82 | 82 | 100.0 | /mnt/stockage/packages/f42/renderdoc/docs/sphinx_rtd_theme_chm_friendly/locale/nl/LC_MESSAGES/sphinx.po | 
+ | [pt_BR](/f42/language/pt_BR) | 82 | 82 | 100.0 | /mnt/stockage/packages/f42/renderdoc/docs/sphinx_rtd_theme_chm_friendly/locale/pt_BR/LC_MESSAGES/sphinx.po | 
+ | [ru](/f42/language/ru) | 82 | 82 | 100.0 | /mnt/stockage/packages/f42/renderdoc/docs/sphinx_rtd_theme_chm_friendly/locale/ru/LC_MESSAGES/sphinx.po | 
+ | [sv](/f42/language/sv) | 81 | 81 | 100.0 | /mnt/stockage/packages/f42/renderdoc/docs/sphinx_rtd_theme_chm_friendly/locale/sv/LC_MESSAGES/sphinx.po | 
+ | [tr](/f42/language/tr) | 77 | 77 | 100.0 | /mnt/stockage/packages/f42/renderdoc/docs/sphinx_rtd_theme_chm_friendly/locale/tr/LC_MESSAGES/sphinx.po | 
+ | [zh_Hans](/f42/language/zh_Hans) | 81 | 81 | 100.0 | /mnt/stockage/packages/f42/renderdoc/docs/sphinx_rtd_theme_chm_friendly/locale/zh_CN/LC_MESSAGES/sphinx.po | 
+ | [en](/f42/language/en) | 0 | 88 | 0.0 | /mnt/stockage/packages/f42/renderdoc/docs/sphinx_rtd_theme_chm_friendly/locale/en/LC_MESSAGES/sphinx.po | 
 {.sortable}
 
 

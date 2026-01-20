@@ -18,45 +18,45 @@ The package qrca (version 25.04.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f41/language/ar.md" >}}) | 140 | 140 | 100.0 | /mnt/stockage/packages/f41/qrca/po/ar/qrca.po | 
- | [ca]({{< ref "/f41/language/ca.md" >}}) | 140 | 140 | 100.0 | /mnt/stockage/packages/f41/qrca/po/ca/qrca.po | 
- | [ca@valencia]({{< ref "/f41/language/ca@valencia.md" >}}) | 140 | 140 | 100.0 | /mnt/stockage/packages/f41/qrca/po/ca@valencia/qrca.po | 
- | [es]({{< ref "/f41/language/es.md" >}}) | 140 | 140 | 100.0 | /mnt/stockage/packages/f41/qrca/po/es/qrca.po | 
- | [eu]({{< ref "/f41/language/eu.md" >}}) | 140 | 140 | 100.0 | /mnt/stockage/packages/f41/qrca/po/eu/qrca.po | 
- | [fi]({{< ref "/f41/language/fi.md" >}}) | 140 | 140 | 100.0 | /mnt/stockage/packages/f41/qrca/po/fi/qrca.po | 
- | [fr]({{< ref "/f41/language/fr.md" >}}) | 140 | 140 | 100.0 | /mnt/stockage/packages/f41/qrca/po/fr/qrca.po | 
- | [gl]({{< ref "/f41/language/gl.md" >}}) | 140 | 140 | 100.0 | /mnt/stockage/packages/f41/qrca/po/gl/qrca.po | 
- | [he]({{< ref "/f41/language/he.md" >}}) | 140 | 140 | 100.0 | /mnt/stockage/packages/f41/qrca/po/he/qrca.po | 
- | [ia]({{< ref "/f41/language/ia.md" >}}) | 140 | 140 | 100.0 | /mnt/stockage/packages/f41/qrca/po/ia/qrca.po | 
- | [it]({{< ref "/f41/language/it.md" >}}) | 140 | 140 | 100.0 | /mnt/stockage/packages/f41/qrca/po/it/qrca.po | 
- | [ka]({{< ref "/f41/language/ka.md" >}}) | 140 | 140 | 100.0 | /mnt/stockage/packages/f41/qrca/po/ka/qrca.po | 
- | [ko]({{< ref "/f41/language/ko.md" >}}) | 140 | 140 | 100.0 | /mnt/stockage/packages/f41/qrca/po/ko/qrca.po | 
- | [lv]({{< ref "/f41/language/lv.md" >}}) | 140 | 140 | 100.0 | /mnt/stockage/packages/f41/qrca/po/lv/qrca.po | 
- | [nl]({{< ref "/f41/language/nl.md" >}}) | 140 | 140 | 100.0 | /mnt/stockage/packages/f41/qrca/po/nl/qrca.po | 
- | [pl]({{< ref "/f41/language/pl.md" >}}) | 140 | 140 | 100.0 | /mnt/stockage/packages/f41/qrca/po/pl/qrca.po | 
- | [pt_BR]({{< ref "/f41/language/pt_BR.md" >}}) | 140 | 140 | 100.0 | /mnt/stockage/packages/f41/qrca/po/pt_BR/qrca.po | 
- | [ru]({{< ref "/f41/language/ru.md" >}}) | 140 | 140 | 100.0 | /mnt/stockage/packages/f41/qrca/po/ru/qrca.po | 
- | [sl]({{< ref "/f41/language/sl.md" >}}) | 140 | 140 | 100.0 | /mnt/stockage/packages/f41/qrca/po/sl/qrca.po | 
- | [sv]({{< ref "/f41/language/sv.md" >}}) | 140 | 140 | 100.0 | /mnt/stockage/packages/f41/qrca/po/sv/qrca.po | 
- | [tr]({{< ref "/f41/language/tr.md" >}}) | 140 | 140 | 100.0 | /mnt/stockage/packages/f41/qrca/po/tr/qrca.po | 
- | [uk]({{< ref "/f41/language/uk.md" >}}) | 140 | 140 | 100.0 | /mnt/stockage/packages/f41/qrca/po/uk/qrca.po | 
- | [zh_Hans]({{< ref "/f41/language/zh_Hans.md" >}}) | 140 | 140 | 100.0 | /mnt/stockage/packages/f41/qrca/po/zh_CN/qrca.po | 
- | [zh_Hant]({{< ref "/f41/language/zh_Hant.md" >}}) | 140 | 140 | 100.0 | /mnt/stockage/packages/f41/qrca/po/zh_TW/qrca.po | 
- | [eo]({{< ref "/f41/language/eo.md" >}}) | 124 | 140 | 88.6 | /mnt/stockage/packages/f41/qrca/po/eo/qrca.po | 
- | [cs]({{< ref "/f41/language/cs.md" >}}) | 101 | 140 | 72.1 | /mnt/stockage/packages/f41/qrca/po/cs/qrca.po | 
- | [de]({{< ref "/f41/language/de.md" >}}) | 101 | 140 | 72.1 | /mnt/stockage/packages/f41/qrca/po/de/qrca.po | 
- | [en_GB]({{< ref "/f41/language/en_GB.md" >}}) | 101 | 140 | 72.1 | /mnt/stockage/packages/f41/qrca/po/en_GB/qrca.po | 
- | [hi]({{< ref "/f41/language/hi.md" >}}) | 101 | 140 | 72.1 | /mnt/stockage/packages/f41/qrca/po/hi/qrca.po | 
- | [hu]({{< ref "/f41/language/hu.md" >}}) | 101 | 140 | 72.1 | /mnt/stockage/packages/f41/qrca/po/hu/qrca.po | 
- | [nn]({{< ref "/f41/language/nn.md" >}}) | 101 | 140 | 72.1 | /mnt/stockage/packages/f41/qrca/po/nn/qrca.po | 
- | [pa]({{< ref "/f41/language/pa.md" >}}) | 101 | 140 | 72.1 | /mnt/stockage/packages/f41/qrca/po/pa/qrca.po | 
- | [pt]({{< ref "/f41/language/pt.md" >}}) | 101 | 140 | 72.1 | /mnt/stockage/packages/f41/qrca/po/pt/qrca.po | 
- | [sa]({{< ref "/f41/language/sa.md" >}}) | 101 | 140 | 72.1 | /mnt/stockage/packages/f41/qrca/po/sa/qrca.po | 
- | [et]({{< ref "/f41/language/et.md" >}}) | 48 | 140 | 34.3 | /mnt/stockage/packages/f41/qrca/po/et/qrca.po | 
- | [sk]({{< ref "/f41/language/sk.md" >}}) | 21 | 140 | 15.0 | /mnt/stockage/packages/f41/qrca/po/sk/qrca.po | 
- | [ast]({{< ref "/f41/language/ast.md" >}}) | 15 | 140 | 10.7 | /mnt/stockage/packages/f41/qrca/po/ast/qrca.po | 
- | [ja]({{< ref "/f41/language/ja.md" >}}) | 0 | 140 | 0.0 | /mnt/stockage/packages/f41/qrca/po/ja/qrca.po | 
- | [lt]({{< ref "/f41/language/lt.md" >}}) | 0 | 140 | 0.0 | /mnt/stockage/packages/f41/qrca/po/lt/qrca.po | 
+ | [ar](/f41/language/ar) | 140 | 140 | 100.0 | /mnt/stockage/packages/f41/qrca/po/ar/qrca.po | 
+ | [ca](/f41/language/ca) | 140 | 140 | 100.0 | /mnt/stockage/packages/f41/qrca/po/ca/qrca.po | 
+ | [ca@valencia](/f41/language/ca@valencia) | 140 | 140 | 100.0 | /mnt/stockage/packages/f41/qrca/po/ca@valencia/qrca.po | 
+ | [es](/f41/language/es) | 140 | 140 | 100.0 | /mnt/stockage/packages/f41/qrca/po/es/qrca.po | 
+ | [eu](/f41/language/eu) | 140 | 140 | 100.0 | /mnt/stockage/packages/f41/qrca/po/eu/qrca.po | 
+ | [fi](/f41/language/fi) | 140 | 140 | 100.0 | /mnt/stockage/packages/f41/qrca/po/fi/qrca.po | 
+ | [fr](/f41/language/fr) | 140 | 140 | 100.0 | /mnt/stockage/packages/f41/qrca/po/fr/qrca.po | 
+ | [gl](/f41/language/gl) | 140 | 140 | 100.0 | /mnt/stockage/packages/f41/qrca/po/gl/qrca.po | 
+ | [he](/f41/language/he) | 140 | 140 | 100.0 | /mnt/stockage/packages/f41/qrca/po/he/qrca.po | 
+ | [ia](/f41/language/ia) | 140 | 140 | 100.0 | /mnt/stockage/packages/f41/qrca/po/ia/qrca.po | 
+ | [it](/f41/language/it) | 140 | 140 | 100.0 | /mnt/stockage/packages/f41/qrca/po/it/qrca.po | 
+ | [ka](/f41/language/ka) | 140 | 140 | 100.0 | /mnt/stockage/packages/f41/qrca/po/ka/qrca.po | 
+ | [ko](/f41/language/ko) | 140 | 140 | 100.0 | /mnt/stockage/packages/f41/qrca/po/ko/qrca.po | 
+ | [lv](/f41/language/lv) | 140 | 140 | 100.0 | /mnt/stockage/packages/f41/qrca/po/lv/qrca.po | 
+ | [nl](/f41/language/nl) | 140 | 140 | 100.0 | /mnt/stockage/packages/f41/qrca/po/nl/qrca.po | 
+ | [pl](/f41/language/pl) | 140 | 140 | 100.0 | /mnt/stockage/packages/f41/qrca/po/pl/qrca.po | 
+ | [pt_BR](/f41/language/pt_BR) | 140 | 140 | 100.0 | /mnt/stockage/packages/f41/qrca/po/pt_BR/qrca.po | 
+ | [ru](/f41/language/ru) | 140 | 140 | 100.0 | /mnt/stockage/packages/f41/qrca/po/ru/qrca.po | 
+ | [sl](/f41/language/sl) | 140 | 140 | 100.0 | /mnt/stockage/packages/f41/qrca/po/sl/qrca.po | 
+ | [sv](/f41/language/sv) | 140 | 140 | 100.0 | /mnt/stockage/packages/f41/qrca/po/sv/qrca.po | 
+ | [tr](/f41/language/tr) | 140 | 140 | 100.0 | /mnt/stockage/packages/f41/qrca/po/tr/qrca.po | 
+ | [uk](/f41/language/uk) | 140 | 140 | 100.0 | /mnt/stockage/packages/f41/qrca/po/uk/qrca.po | 
+ | [zh_Hans](/f41/language/zh_Hans) | 140 | 140 | 100.0 | /mnt/stockage/packages/f41/qrca/po/zh_CN/qrca.po | 
+ | [zh_Hant](/f41/language/zh_Hant) | 140 | 140 | 100.0 | /mnt/stockage/packages/f41/qrca/po/zh_TW/qrca.po | 
+ | [eo](/f41/language/eo) | 124 | 140 | 88.6 | /mnt/stockage/packages/f41/qrca/po/eo/qrca.po | 
+ | [cs](/f41/language/cs) | 101 | 140 | 72.1 | /mnt/stockage/packages/f41/qrca/po/cs/qrca.po | 
+ | [de](/f41/language/de) | 101 | 140 | 72.1 | /mnt/stockage/packages/f41/qrca/po/de/qrca.po | 
+ | [en_GB](/f41/language/en_GB) | 101 | 140 | 72.1 | /mnt/stockage/packages/f41/qrca/po/en_GB/qrca.po | 
+ | [hi](/f41/language/hi) | 101 | 140 | 72.1 | /mnt/stockage/packages/f41/qrca/po/hi/qrca.po | 
+ | [hu](/f41/language/hu) | 101 | 140 | 72.1 | /mnt/stockage/packages/f41/qrca/po/hu/qrca.po | 
+ | [nn](/f41/language/nn) | 101 | 140 | 72.1 | /mnt/stockage/packages/f41/qrca/po/nn/qrca.po | 
+ | [pa](/f41/language/pa) | 101 | 140 | 72.1 | /mnt/stockage/packages/f41/qrca/po/pa/qrca.po | 
+ | [pt](/f41/language/pt) | 101 | 140 | 72.1 | /mnt/stockage/packages/f41/qrca/po/pt/qrca.po | 
+ | [sa](/f41/language/sa) | 101 | 140 | 72.1 | /mnt/stockage/packages/f41/qrca/po/sa/qrca.po | 
+ | [et](/f41/language/et) | 48 | 140 | 34.3 | /mnt/stockage/packages/f41/qrca/po/et/qrca.po | 
+ | [sk](/f41/language/sk) | 21 | 140 | 15.0 | /mnt/stockage/packages/f41/qrca/po/sk/qrca.po | 
+ | [ast](/f41/language/ast) | 15 | 140 | 10.7 | /mnt/stockage/packages/f41/qrca/po/ast/qrca.po | 
+ | [ja](/f41/language/ja) | 0 | 140 | 0.0 | /mnt/stockage/packages/f41/qrca/po/ja/qrca.po | 
+ | [lt](/f41/language/lt) | 0 | 140 | 0.0 | /mnt/stockage/packages/f41/qrca/po/lt/qrca.po | 
 {.sortable}
 
 

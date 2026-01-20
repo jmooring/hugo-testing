@@ -18,7 +18,7 @@ The package jamin (version 0.95.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ru]({{< ref "/f10/language/ru.md" >}}) | 2453 | 3352 | 73.2 | /mnt/stockage/packages/f10/jamin/po/ru.po | 
+ | [ru](/f10/language/ru) | 2453 | 3352 | 73.2 | /mnt/stockage/packages/f10/jamin/po/ru.po | 
 {.sortable}
 
 

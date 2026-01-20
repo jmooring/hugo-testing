@@ -18,59 +18,59 @@ The package gnucash (version 2.6.18):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [lv]({{< ref "/f25/language/lv.md" >}}) | 30194 | 30194 | 100.0 | /mnt/stockage/packages/f25/gnucash/po/lv.po | 
- | [sr]({{< ref "/f25/language/sr.md" >}}) | 30186 | 30186 | 100.0 | /mnt/stockage/packages/f25/gnucash/po/sr.po | 
- | [ca]({{< ref "/f25/language/ca.md" >}}) | 30390 | 30425 | 99.9 | /mnt/stockage/packages/f25/gnucash/po/ca.po/mnt/stockage/packages/f25/gnucash/po/glossary/ca.po | 
- | [nl]({{< ref "/f25/language/nl.md" >}}) | 30390 | 30425 | 99.9 | /mnt/stockage/packages/f25/gnucash/po/nl.po/mnt/stockage/packages/f25/gnucash/po/glossary/nl.po | 
- | [zh_Hans]({{< ref "/f25/language/zh_Hans.md" >}}) | 25964 | 26001 | 99.9 | /mnt/stockage/packages/f25/gnucash/po/zh_CN.po/mnt/stockage/packages/f25/gnucash/po/glossary/zh_CN.po | 
- | [pt]({{< ref "/f25/language/pt.md" >}}) | 30348 | 30425 | 99.7 | /mnt/stockage/packages/f25/gnucash/po/pt.po/mnt/stockage/packages/f25/gnucash/po/glossary/pt.po | 
- | [ar]({{< ref "/f25/language/ar.md" >}}) | 29940 | 30157 | 99.3 | /mnt/stockage/packages/f25/gnucash/po/ar.po | 
- | [as]({{< ref "/f25/language/as.md" >}}) | 29203 | 29737 | 98.2 | /mnt/stockage/packages/f25/gnucash/po/as.po | 
- | [brx]({{< ref "/f25/language/brx.md" >}}) | 29203 | 29737 | 98.2 | /mnt/stockage/packages/f25/gnucash/po/brx.po | 
- | [error]({{< ref "/f25/language/error.md" >}}) | 58406 | 59474 | 98.2 | /mnt/stockage/packages/f25/gnucash/po/mni@bengali.po/mnt/stockage/packages/f25/gnucash/po/kok@latin.po | 
- | [kn]({{< ref "/f25/language/kn.md" >}}) | 29203 | 29737 | 98.2 | /mnt/stockage/packages/f25/gnucash/po/kn.po | 
- | [kok]({{< ref "/f25/language/kok.md" >}}) | 29203 | 29737 | 98.2 | /mnt/stockage/packages/f25/gnucash/po/kok.po | 
- | [ks]({{< ref "/f25/language/ks.md" >}}) | 29203 | 29737 | 98.2 | /mnt/stockage/packages/f25/gnucash/po/ks.po | 
- | [mni]({{< ref "/f25/language/mni.md" >}}) | 29203 | 29737 | 98.2 | /mnt/stockage/packages/f25/gnucash/po/mni.po | 
- | [mr]({{< ref "/f25/language/mr.md" >}}) | 29203 | 29737 | 98.2 | /mnt/stockage/packages/f25/gnucash/po/mr.po | 
- | [ta]({{< ref "/f25/language/ta.md" >}}) | 29203 | 29737 | 98.2 | /mnt/stockage/packages/f25/gnucash/po/ta.po | 
- | [te]({{< ref "/f25/language/te.md" >}}) | 29203 | 29737 | 98.2 | /mnt/stockage/packages/f25/gnucash/po/te.po | 
- | [ur]({{< ref "/f25/language/ur.md" >}}) | 29192 | 29737 | 98.2 | /mnt/stockage/packages/f25/gnucash/po/ur.po | 
- | [tr]({{< ref "/f25/language/tr.md" >}}) | 29588 | 30157 | 98.1 | /mnt/stockage/packages/f25/gnucash/po/tr.po | 
- | [hi]({{< ref "/f25/language/hi.md" >}}) | 29174 | 29737 | 98.1 | /mnt/stockage/packages/f25/gnucash/po/hi.po | 
- | [mai]({{< ref "/f25/language/mai.md" >}}) | 29174 | 29737 | 98.1 | /mnt/stockage/packages/f25/gnucash/po/mai.po | 
- | [it]({{< ref "/f25/language/it.md" >}}) | 28967 | 30139 | 96.1 | /mnt/stockage/packages/f25/gnucash/po/it.po/mnt/stockage/packages/f25/gnucash/po/glossary/it.po | 
- | [de]({{< ref "/f25/language/de.md" >}}) | 29198 | 30595 | 95.4 | /mnt/stockage/packages/f25/gnucash/po/de.po/mnt/stockage/packages/f25/gnucash/po/glossary/de.po | 
- | [ru]({{< ref "/f25/language/ru.md" >}}) | 28324 | 30139 | 94.0 | /mnt/stockage/packages/f25/gnucash/po/ru.po/mnt/stockage/packages/f25/gnucash/po/glossary/ru.po | 
- | [lt]({{< ref "/f25/language/lt.md" >}}) | 25473 | 29737 | 85.7 | /mnt/stockage/packages/f25/gnucash/po/lt.po | 
- | [pt_BR]({{< ref "/f25/language/pt_BR.md" >}}) | 24556 | 30139 | 81.5 | /mnt/stockage/packages/f25/gnucash/po/pt_BR.po/mnt/stockage/packages/f25/gnucash/po/glossary/pt_BR.po | 
- | [fr]({{< ref "/f25/language/fr.md" >}}) | 23670 | 30139 | 78.5 | /mnt/stockage/packages/f25/gnucash/po/fr.po/mnt/stockage/packages/f25/gnucash/po/glossary/fr.po | 
- | [da]({{< ref "/f25/language/da.md" >}}) | 20377 | 30381 | 67.1 | /mnt/stockage/packages/f25/gnucash/po/da.po/mnt/stockage/packages/f25/gnucash/po/glossary/da.po | 
- | [bg]({{< ref "/f25/language/bg.md" >}}) | 19898 | 30139 | 66.0 | /mnt/stockage/packages/f25/gnucash/po/bg.po/mnt/stockage/packages/f25/gnucash/po/glossary/bg.po | 
- | [cs]({{< ref "/f25/language/cs.md" >}}) | 16651 | 26326 | 63.2 | /mnt/stockage/packages/f25/gnucash/po/cs.po | 
- | [pl]({{< ref "/f25/language/pl.md" >}}) | 18457 | 30139 | 61.2 | /mnt/stockage/packages/f25/gnucash/po/pl.po/mnt/stockage/packages/f25/gnucash/po/glossary/pl.po | 
- | [ja]({{< ref "/f25/language/ja.md" >}}) | 18341 | 30157 | 60.8 | /mnt/stockage/packages/f25/gnucash/po/ja.po | 
- | [uk]({{< ref "/f25/language/uk.md" >}}) | 16051 | 26498 | 60.6 | /mnt/stockage/packages/f25/gnucash/po/uk.po | 
- | [doi]({{< ref "/f25/language/doi.md" >}}) | 17163 | 29737 | 57.7 | /mnt/stockage/packages/f25/gnucash/po/doi.po | 
- | [gu]({{< ref "/f25/language/gu.md" >}}) | 17077 | 29737 | 57.4 | /mnt/stockage/packages/f25/gnucash/po/gu.po | 
- | [ro]({{< ref "/f25/language/ro.md" >}}) | 16728 | 29737 | 56.3 | /mnt/stockage/packages/f25/gnucash/po/ro.po | 
- | [es]({{< ref "/f25/language/es.md" >}}) | 32781 | 60296 | 54.4 | /mnt/stockage/packages/f25/gnucash/po/es.po/mnt/stockage/packages/f25/gnucash/po/es_NI.po/mnt/stockage/packages/f25/gnucash/po/glossary/es.po | 
- | [hu]({{< ref "/f25/language/hu.md" >}}) | 16239 | 30139 | 53.9 | /mnt/stockage/packages/f25/gnucash/po/hu.po/mnt/stockage/packages/f25/gnucash/po/glossary/hu.po | 
- | [en_GB]({{< ref "/f25/language/en_GB.md" >}}) | 15756 | 29737 | 53.0 | /mnt/stockage/packages/f25/gnucash/po/en_GB.po | 
- | [vi]({{< ref "/f25/language/vi.md" >}}) | 15700 | 30139 | 52.1 | /mnt/stockage/packages/f25/gnucash/po/vi.po/mnt/stockage/packages/f25/gnucash/po/glossary/vi.po | 
- | [sk]({{< ref "/f25/language/sk.md" >}}) | 12589 | 26756 | 47.1 | /mnt/stockage/packages/f25/gnucash/po/sk.po/mnt/stockage/packages/f25/gnucash/po/glossary/sk.po | 
- | [nb_NO]({{< ref "/f25/language/nb_NO.md" >}}) | 13333 | 30139 | 44.2 | /mnt/stockage/packages/f25/gnucash/po/nb.po/mnt/stockage/packages/f25/gnucash/po/glossary/nb.po | 
- | [ne]({{< ref "/f25/language/ne.md" >}}) | 13075 | 29737 | 44.0 | /mnt/stockage/packages/f25/gnucash/po/ne.po | 
- | [sv]({{< ref "/f25/language/sv.md" >}}) | 12785 | 30200 | 42.3 | /mnt/stockage/packages/f25/gnucash/po/sv.po/mnt/stockage/packages/f25/gnucash/po/glossary/sv.po | 
- | [zh_Hant]({{< ref "/f25/language/zh_Hant.md" >}}) | 12167 | 30139 | 40.4 | /mnt/stockage/packages/f25/gnucash/po/zh_TW.po/mnt/stockage/packages/f25/gnucash/po/glossary/zh_TW.po | 
- | [el]({{< ref "/f25/language/el.md" >}}) | 11680 | 30139 | 38.8 | /mnt/stockage/packages/f25/gnucash/po/el.po/mnt/stockage/packages/f25/gnucash/po/glossary/el.po | 
- | [fi]({{< ref "/f25/language/fi.md" >}}) | 8610 | 30026 | 28.7 | /mnt/stockage/packages/f25/gnucash/po/fi.po | 
- | [eu]({{< ref "/f25/language/eu.md" >}}) | 6867 | 24180 | 28.4 | /mnt/stockage/packages/f25/gnucash/po/eu.po | 
- | [ko]({{< ref "/f25/language/ko.md" >}}) | 8381 | 29737 | 28.2 | /mnt/stockage/packages/f25/gnucash/po/ko.po | 
- | [fa]({{< ref "/f25/language/fa.md" >}}) | 4310 | 30157 | 14.3 | /mnt/stockage/packages/f25/gnucash/po/fa.po | 
- | [he]({{< ref "/f25/language/he.md" >}}) | 4087 | 30139 | 13.6 | /mnt/stockage/packages/f25/gnucash/po/he.po/mnt/stockage/packages/f25/gnucash/po/glossary/he.po | 
- | [rw]({{< ref "/f25/language/rw.md" >}}) | 249 | 24582 | 1.0 | /mnt/stockage/packages/f25/gnucash/po/rw.po/mnt/stockage/packages/f25/gnucash/po/glossary/rw.po | 
- | [az]({{< ref "/f25/language/az.md" >}}) | 71 | 24180 | 0.3 | /mnt/stockage/packages/f25/gnucash/po/az.po | 
+ | [lv](/f25/language/lv) | 30194 | 30194 | 100.0 | /mnt/stockage/packages/f25/gnucash/po/lv.po | 
+ | [sr](/f25/language/sr) | 30186 | 30186 | 100.0 | /mnt/stockage/packages/f25/gnucash/po/sr.po | 
+ | [ca](/f25/language/ca) | 30390 | 30425 | 99.9 | /mnt/stockage/packages/f25/gnucash/po/ca.po/mnt/stockage/packages/f25/gnucash/po/glossary/ca.po | 
+ | [nl](/f25/language/nl) | 30390 | 30425 | 99.9 | /mnt/stockage/packages/f25/gnucash/po/nl.po/mnt/stockage/packages/f25/gnucash/po/glossary/nl.po | 
+ | [zh_Hans](/f25/language/zh_Hans) | 25964 | 26001 | 99.9 | /mnt/stockage/packages/f25/gnucash/po/zh_CN.po/mnt/stockage/packages/f25/gnucash/po/glossary/zh_CN.po | 
+ | [pt](/f25/language/pt) | 30348 | 30425 | 99.7 | /mnt/stockage/packages/f25/gnucash/po/pt.po/mnt/stockage/packages/f25/gnucash/po/glossary/pt.po | 
+ | [ar](/f25/language/ar) | 29940 | 30157 | 99.3 | /mnt/stockage/packages/f25/gnucash/po/ar.po | 
+ | [as](/f25/language/as) | 29203 | 29737 | 98.2 | /mnt/stockage/packages/f25/gnucash/po/as.po | 
+ | [brx](/f25/language/brx) | 29203 | 29737 | 98.2 | /mnt/stockage/packages/f25/gnucash/po/brx.po | 
+ | [error](/f25/language/error) | 58406 | 59474 | 98.2 | /mnt/stockage/packages/f25/gnucash/po/mni@bengali.po/mnt/stockage/packages/f25/gnucash/po/kok@latin.po | 
+ | [kn](/f25/language/kn) | 29203 | 29737 | 98.2 | /mnt/stockage/packages/f25/gnucash/po/kn.po | 
+ | [kok](/f25/language/kok) | 29203 | 29737 | 98.2 | /mnt/stockage/packages/f25/gnucash/po/kok.po | 
+ | [ks](/f25/language/ks) | 29203 | 29737 | 98.2 | /mnt/stockage/packages/f25/gnucash/po/ks.po | 
+ | [mni](/f25/language/mni) | 29203 | 29737 | 98.2 | /mnt/stockage/packages/f25/gnucash/po/mni.po | 
+ | [mr](/f25/language/mr) | 29203 | 29737 | 98.2 | /mnt/stockage/packages/f25/gnucash/po/mr.po | 
+ | [ta](/f25/language/ta) | 29203 | 29737 | 98.2 | /mnt/stockage/packages/f25/gnucash/po/ta.po | 
+ | [te](/f25/language/te) | 29203 | 29737 | 98.2 | /mnt/stockage/packages/f25/gnucash/po/te.po | 
+ | [ur](/f25/language/ur) | 29192 | 29737 | 98.2 | /mnt/stockage/packages/f25/gnucash/po/ur.po | 
+ | [tr](/f25/language/tr) | 29588 | 30157 | 98.1 | /mnt/stockage/packages/f25/gnucash/po/tr.po | 
+ | [hi](/f25/language/hi) | 29174 | 29737 | 98.1 | /mnt/stockage/packages/f25/gnucash/po/hi.po | 
+ | [mai](/f25/language/mai) | 29174 | 29737 | 98.1 | /mnt/stockage/packages/f25/gnucash/po/mai.po | 
+ | [it](/f25/language/it) | 28967 | 30139 | 96.1 | /mnt/stockage/packages/f25/gnucash/po/it.po/mnt/stockage/packages/f25/gnucash/po/glossary/it.po | 
+ | [de](/f25/language/de) | 29198 | 30595 | 95.4 | /mnt/stockage/packages/f25/gnucash/po/de.po/mnt/stockage/packages/f25/gnucash/po/glossary/de.po | 
+ | [ru](/f25/language/ru) | 28324 | 30139 | 94.0 | /mnt/stockage/packages/f25/gnucash/po/ru.po/mnt/stockage/packages/f25/gnucash/po/glossary/ru.po | 
+ | [lt](/f25/language/lt) | 25473 | 29737 | 85.7 | /mnt/stockage/packages/f25/gnucash/po/lt.po | 
+ | [pt_BR](/f25/language/pt_BR) | 24556 | 30139 | 81.5 | /mnt/stockage/packages/f25/gnucash/po/pt_BR.po/mnt/stockage/packages/f25/gnucash/po/glossary/pt_BR.po | 
+ | [fr](/f25/language/fr) | 23670 | 30139 | 78.5 | /mnt/stockage/packages/f25/gnucash/po/fr.po/mnt/stockage/packages/f25/gnucash/po/glossary/fr.po | 
+ | [da](/f25/language/da) | 20377 | 30381 | 67.1 | /mnt/stockage/packages/f25/gnucash/po/da.po/mnt/stockage/packages/f25/gnucash/po/glossary/da.po | 
+ | [bg](/f25/language/bg) | 19898 | 30139 | 66.0 | /mnt/stockage/packages/f25/gnucash/po/bg.po/mnt/stockage/packages/f25/gnucash/po/glossary/bg.po | 
+ | [cs](/f25/language/cs) | 16651 | 26326 | 63.2 | /mnt/stockage/packages/f25/gnucash/po/cs.po | 
+ | [pl](/f25/language/pl) | 18457 | 30139 | 61.2 | /mnt/stockage/packages/f25/gnucash/po/pl.po/mnt/stockage/packages/f25/gnucash/po/glossary/pl.po | 
+ | [ja](/f25/language/ja) | 18341 | 30157 | 60.8 | /mnt/stockage/packages/f25/gnucash/po/ja.po | 
+ | [uk](/f25/language/uk) | 16051 | 26498 | 60.6 | /mnt/stockage/packages/f25/gnucash/po/uk.po | 
+ | [doi](/f25/language/doi) | 17163 | 29737 | 57.7 | /mnt/stockage/packages/f25/gnucash/po/doi.po | 
+ | [gu](/f25/language/gu) | 17077 | 29737 | 57.4 | /mnt/stockage/packages/f25/gnucash/po/gu.po | 
+ | [ro](/f25/language/ro) | 16728 | 29737 | 56.3 | /mnt/stockage/packages/f25/gnucash/po/ro.po | 
+ | [es](/f25/language/es) | 32781 | 60296 | 54.4 | /mnt/stockage/packages/f25/gnucash/po/es.po/mnt/stockage/packages/f25/gnucash/po/es_NI.po/mnt/stockage/packages/f25/gnucash/po/glossary/es.po | 
+ | [hu](/f25/language/hu) | 16239 | 30139 | 53.9 | /mnt/stockage/packages/f25/gnucash/po/hu.po/mnt/stockage/packages/f25/gnucash/po/glossary/hu.po | 
+ | [en_GB](/f25/language/en_GB) | 15756 | 29737 | 53.0 | /mnt/stockage/packages/f25/gnucash/po/en_GB.po | 
+ | [vi](/f25/language/vi) | 15700 | 30139 | 52.1 | /mnt/stockage/packages/f25/gnucash/po/vi.po/mnt/stockage/packages/f25/gnucash/po/glossary/vi.po | 
+ | [sk](/f25/language/sk) | 12589 | 26756 | 47.1 | /mnt/stockage/packages/f25/gnucash/po/sk.po/mnt/stockage/packages/f25/gnucash/po/glossary/sk.po | 
+ | [nb_NO](/f25/language/nb_NO) | 13333 | 30139 | 44.2 | /mnt/stockage/packages/f25/gnucash/po/nb.po/mnt/stockage/packages/f25/gnucash/po/glossary/nb.po | 
+ | [ne](/f25/language/ne) | 13075 | 29737 | 44.0 | /mnt/stockage/packages/f25/gnucash/po/ne.po | 
+ | [sv](/f25/language/sv) | 12785 | 30200 | 42.3 | /mnt/stockage/packages/f25/gnucash/po/sv.po/mnt/stockage/packages/f25/gnucash/po/glossary/sv.po | 
+ | [zh_Hant](/f25/language/zh_Hant) | 12167 | 30139 | 40.4 | /mnt/stockage/packages/f25/gnucash/po/zh_TW.po/mnt/stockage/packages/f25/gnucash/po/glossary/zh_TW.po | 
+ | [el](/f25/language/el) | 11680 | 30139 | 38.8 | /mnt/stockage/packages/f25/gnucash/po/el.po/mnt/stockage/packages/f25/gnucash/po/glossary/el.po | 
+ | [fi](/f25/language/fi) | 8610 | 30026 | 28.7 | /mnt/stockage/packages/f25/gnucash/po/fi.po | 
+ | [eu](/f25/language/eu) | 6867 | 24180 | 28.4 | /mnt/stockage/packages/f25/gnucash/po/eu.po | 
+ | [ko](/f25/language/ko) | 8381 | 29737 | 28.2 | /mnt/stockage/packages/f25/gnucash/po/ko.po | 
+ | [fa](/f25/language/fa) | 4310 | 30157 | 14.3 | /mnt/stockage/packages/f25/gnucash/po/fa.po | 
+ | [he](/f25/language/he) | 4087 | 30139 | 13.6 | /mnt/stockage/packages/f25/gnucash/po/he.po/mnt/stockage/packages/f25/gnucash/po/glossary/he.po | 
+ | [rw](/f25/language/rw) | 249 | 24582 | 1.0 | /mnt/stockage/packages/f25/gnucash/po/rw.po/mnt/stockage/packages/f25/gnucash/po/glossary/rw.po | 
+ | [az](/f25/language/az) | 71 | 24180 | 0.3 | /mnt/stockage/packages/f25/gnucash/po/az.po | 
 {.sortable}
 
 

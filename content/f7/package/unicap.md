@@ -18,8 +18,8 @@ The package unicap (version 0.2.23):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f7/language/de.md" >}}) | 99 | 100 | 99.0 | /mnt/stockage/packages/f7/unicap/po/de.po | 
- | [fr]({{< ref "/f7/language/fr.md" >}}) | 97 | 98 | 99.0 | /mnt/stockage/packages/f7/unicap/po/fr.po | 
+ | [de](/f7/language/de) | 99 | 100 | 99.0 | /mnt/stockage/packages/f7/unicap/po/de.po | 
+ | [fr](/f7/language/fr) | 97 | 98 | 99.0 | /mnt/stockage/packages/f7/unicap/po/fr.po | 
 {.sortable}
 
 

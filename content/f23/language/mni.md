@@ -39,10 +39,10 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [tuxpaint]({{< ref "/f23/package/tuxpaint.md" >}}) | 1515 | 1515 | 100.0 | LANGUAGE <LL@li.org> | 
- | [gnucash]({{< ref "/f23/package/gnucash.md" >}}) | 29203 | 29737 | 98.2 | Maniuri (MM) <gistlrc@gmail.com> | 
- | [libreoffice]({{< ref "/f23/package/libreoffice.md" >}}) | 58237 | 99723 | 58.4 | LANGUAGE <LL@li.org> | 
- | [iok]({{< ref "/f23/package/iok.md" >}}) | 73 | 206 | 35.4 | Manipuri <LL@li.org> | 
+ | [tuxpaint](/f23/package/tuxpaint) | 1515 | 1515 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [gnucash](/f23/package/gnucash) | 29203 | 29737 | 98.2 | Maniuri (MM) <gistlrc@gmail.com> | 
+ | [libreoffice](/f23/package/libreoffice) | 58237 | 99723 | 58.4 | LANGUAGE <LL@li.org> | 
+ | [iok](/f23/package/iok) | 73 | 206 | 35.4 | Manipuri <LL@li.org> | 
 {.sortable}
 
 

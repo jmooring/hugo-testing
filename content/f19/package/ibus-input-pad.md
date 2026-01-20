@@ -18,12 +18,12 @@ The package ibus-input-pad (version 1.4.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ja]({{< ref "/f19/language/ja.md" >}}) | 100 | 100 | 100.0 | /mnt/stockage/packages/f19/ibus-input-pad/po/ja.po | 
- | [pl]({{< ref "/f19/language/pl.md" >}}) | 100 | 100 | 100.0 | /mnt/stockage/packages/f19/ibus-input-pad/po/pl.po | 
- | [uk]({{< ref "/f19/language/uk.md" >}}) | 90 | 90 | 100.0 | /mnt/stockage/packages/f19/ibus-input-pad/po/uk.po | 
- | [zh_Hant]({{< ref "/f19/language/zh_Hant.md" >}}) | 90 | 90 | 100.0 | /mnt/stockage/packages/f19/ibus-input-pad/po/zh_TW.po | 
- | [te]({{< ref "/f19/language/te.md" >}}) | 45 | 90 | 50.0 | /mnt/stockage/packages/f19/ibus-input-pad/po/te.po | 
- | [fr]({{< ref "/f19/language/fr.md" >}}) | 0 | 90 | 0.0 | /mnt/stockage/packages/f19/ibus-input-pad/po/fr.po | 
+ | [ja](/f19/language/ja) | 100 | 100 | 100.0 | /mnt/stockage/packages/f19/ibus-input-pad/po/ja.po | 
+ | [pl](/f19/language/pl) | 100 | 100 | 100.0 | /mnt/stockage/packages/f19/ibus-input-pad/po/pl.po | 
+ | [uk](/f19/language/uk) | 90 | 90 | 100.0 | /mnt/stockage/packages/f19/ibus-input-pad/po/uk.po | 
+ | [zh_Hant](/f19/language/zh_Hant) | 90 | 90 | 100.0 | /mnt/stockage/packages/f19/ibus-input-pad/po/zh_TW.po | 
+ | [te](/f19/language/te) | 45 | 90 | 50.0 | /mnt/stockage/packages/f19/ibus-input-pad/po/te.po | 
+ | [fr](/f19/language/fr) | 0 | 90 | 0.0 | /mnt/stockage/packages/f19/ibus-input-pad/po/fr.po | 
 {.sortable}
 
 

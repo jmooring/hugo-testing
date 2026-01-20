@@ -39,19 +39,19 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [eog]({{< ref "/f18/package/eog.md" >}}) | 953 | 1193 | 79.9 | Kashmiri <ks-gnome-trans-commits@lists.code.indlinux.net> | 
- | [evince]({{< ref "/f18/package/evince.md" >}}) | 789 | 989 | 79.8 | Kashmiri <ks-gnome-trans-commits@lists.code.indlinux.net> | 
- | [mate-document-viewer]({{< ref "/f18/package/mate-document-viewer.md" >}}) | 789 | 989 | 79.8 | Kashmiri <ks-mate-trans-commits@lists.code.indlinux.net> | 
- | [yelp]({{< ref "/f18/package/yelp.md" >}}) | 753 | 1035 | 72.8 | Kashmiri <ks-gnome-trans-commits@lists.code.indlinux.net> | 
- | [libreoffice]({{< ref "/f18/package/libreoffice.md" >}}) | 56693 | 91771 | 61.8 | LANGUAGE <LL@li.org> | 
- | [mate-image-viewer]({{< ref "/f18/package/mate-image-viewer.md" >}}) | 761 | 1623 | 46.9 | LANGUAGE <LL@li.org> | 
- | [entangle]({{< ref "/f18/package/entangle.md" >}}) | 0 | 754 | 0.0 | Kashmiri (http://www.transifex.com/projects/p/fedora/language/ks/) | 
- | [pykickstart]({{< ref "/f18/package/pykickstart.md" >}}) | 0 | 343 | 0.0 | Kashmiri (http://www.transifex.com/projects/p/fedora/language/ks/) | 
- | [python-meh]({{< ref "/f18/package/python-meh.md" >}}) | 0 | 64 | 0.0 | Kashmiri (http://www.transifex.com/projects/p/fedora/language/ks/) | 
- | [system-config-date]({{< ref "/f18/package/system-config-date.md" >}}) | 0 | 1850 | 0.0 | Kashmiri (http://www.transifex.com/projects/p/fedora/language/ks/) | 
- | [system-config-kickstart]({{< ref "/f18/package/system-config-kickstart.md" >}}) | 0 | 1148 | 0.0 | Kashmiri (http://www.transifex.com/projects/p/fedora/language/ks/) | 
- | [system-config-samba]({{< ref "/f18/package/system-config-samba.md" >}}) | 0 | 571 | 0.0 | Kashmiri (http://www.transifex.com/projects/p/fedora/language/ks/) | 
- | [system-config-users]({{< ref "/f18/package/system-config-users.md" >}}) | 0 | 1452 | 0.0 | Kashmiri (http://www.transifex.com/projects/p/fedora/language/ks/) | 
+ | [eog](/f18/package/eog) | 953 | 1193 | 79.9 | Kashmiri <ks-gnome-trans-commits@lists.code.indlinux.net> | 
+ | [evince](/f18/package/evince) | 789 | 989 | 79.8 | Kashmiri <ks-gnome-trans-commits@lists.code.indlinux.net> | 
+ | [mate-document-viewer](/f18/package/mate-document-viewer) | 789 | 989 | 79.8 | Kashmiri <ks-mate-trans-commits@lists.code.indlinux.net> | 
+ | [yelp](/f18/package/yelp) | 753 | 1035 | 72.8 | Kashmiri <ks-gnome-trans-commits@lists.code.indlinux.net> | 
+ | [libreoffice](/f18/package/libreoffice) | 56693 | 91771 | 61.8 | LANGUAGE <LL@li.org> | 
+ | [mate-image-viewer](/f18/package/mate-image-viewer) | 761 | 1623 | 46.9 | LANGUAGE <LL@li.org> | 
+ | [entangle](/f18/package/entangle) | 0 | 754 | 0.0 | Kashmiri (http://www.transifex.com/projects/p/fedora/language/ks/) | 
+ | [pykickstart](/f18/package/pykickstart) | 0 | 343 | 0.0 | Kashmiri (http://www.transifex.com/projects/p/fedora/language/ks/) | 
+ | [python-meh](/f18/package/python-meh) | 0 | 64 | 0.0 | Kashmiri (http://www.transifex.com/projects/p/fedora/language/ks/) | 
+ | [system-config-date](/f18/package/system-config-date) | 0 | 1850 | 0.0 | Kashmiri (http://www.transifex.com/projects/p/fedora/language/ks/) | 
+ | [system-config-kickstart](/f18/package/system-config-kickstart) | 0 | 1148 | 0.0 | Kashmiri (http://www.transifex.com/projects/p/fedora/language/ks/) | 
+ | [system-config-samba](/f18/package/system-config-samba) | 0 | 571 | 0.0 | Kashmiri (http://www.transifex.com/projects/p/fedora/language/ks/) | 
+ | [system-config-users](/f18/package/system-config-users) | 0 | 1452 | 0.0 | Kashmiri (http://www.transifex.com/projects/p/fedora/language/ks/) | 
 {.sortable}
 
 

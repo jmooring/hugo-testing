@@ -18,8 +18,8 @@ The package WoeUSB (version 3.1.5):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [zh_Hant]({{< ref "/f26/language/zh_Hant.md" >}}) | 165 | 165 | 100.0 | /mnt/stockage/packages/f26/WoeUSB/src/locale/zh_TW/LC_MESSAGES/woeusb.po | 
- | [fr]({{< ref "/f26/language/fr.md" >}}) | 6414 | 6556 | 97.8 | /mnt/stockage/packages/f26/WoeUSB/src/locale/fr/LC_MESSAGES/woeusb.po/mnt/stockage/packages/f26/WoeUSB/src/locale/fr/LC_MESSAGES/wxstd.po | 
+ | [zh_Hant](/f26/language/zh_Hant) | 165 | 165 | 100.0 | /mnt/stockage/packages/f26/WoeUSB/src/locale/zh_TW/LC_MESSAGES/woeusb.po | 
+ | [fr](/f26/language/fr) | 6414 | 6556 | 97.8 | /mnt/stockage/packages/f26/WoeUSB/src/locale/fr/LC_MESSAGES/woeusb.po/mnt/stockage/packages/f26/WoeUSB/src/locale/fr/LC_MESSAGES/wxstd.po | 
 {.sortable}
 
 

@@ -18,14 +18,14 @@ The package pspp (version 0.7.9):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f16/language/ca.md" >}}) | 8275 | 8889 | 93.1 | /mnt/stockage/packages/f16/pspp/po/ca.po | 
- | [es]({{< ref "/f16/language/es.md" >}}) | 8254 | 8889 | 92.9 | /mnt/stockage/packages/f16/pspp/po/es.po | 
- | [nl]({{< ref "/f16/language/nl.md" >}}) | 7435 | 8889 | 83.6 | /mnt/stockage/packages/f16/pspp/po/nl.po | 
- | [lt]({{< ref "/f16/language/lt.md" >}}) | 6234 | 8889 | 70.1 | /mnt/stockage/packages/f16/pspp/po/lt.po | 
- | [pt_BR]({{< ref "/f16/language/pt_BR.md" >}}) | 3115 | 8889 | 35.0 | /mnt/stockage/packages/f16/pspp/po/pt_BR.po | 
- | [fr]({{< ref "/f16/language/fr.md" >}}) | 1522 | 8889 | 17.1 | /mnt/stockage/packages/f16/pspp/po/fr.po | 
- | [de]({{< ref "/f16/language/de.md" >}}) | 690 | 8889 | 7.8 | /mnt/stockage/packages/f16/pspp/po/de.po | 
- | [en_GB]({{< ref "/f16/language/en_GB.md" >}}) | 608 | 8889 | 6.8 | /mnt/stockage/packages/f16/pspp/po/en_GB.po | 
+ | [ca](/f16/language/ca) | 8275 | 8889 | 93.1 | /mnt/stockage/packages/f16/pspp/po/ca.po | 
+ | [es](/f16/language/es) | 8254 | 8889 | 92.9 | /mnt/stockage/packages/f16/pspp/po/es.po | 
+ | [nl](/f16/language/nl) | 7435 | 8889 | 83.6 | /mnt/stockage/packages/f16/pspp/po/nl.po | 
+ | [lt](/f16/language/lt) | 6234 | 8889 | 70.1 | /mnt/stockage/packages/f16/pspp/po/lt.po | 
+ | [pt_BR](/f16/language/pt_BR) | 3115 | 8889 | 35.0 | /mnt/stockage/packages/f16/pspp/po/pt_BR.po | 
+ | [fr](/f16/language/fr) | 1522 | 8889 | 17.1 | /mnt/stockage/packages/f16/pspp/po/fr.po | 
+ | [de](/f16/language/de) | 690 | 8889 | 7.8 | /mnt/stockage/packages/f16/pspp/po/de.po | 
+ | [en_GB](/f16/language/en_GB) | 608 | 8889 | 6.8 | /mnt/stockage/packages/f16/pspp/po/en_GB.po | 
 {.sortable}
 
 

@@ -18,48 +18,48 @@ The package php-horde-Horde-Perms (version 2.1.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [bg]({{< ref "/f20/language/bg.md" >}}) | 6 | 6 | 100.0 | /mnt/stockage/packages/f20/php-horde-Horde-Perms/Horde_Perms-2.1.4/locale/bg/LC_MESSAGES/Horde_Perms.po | 
- | [ca]({{< ref "/f20/language/ca.md" >}}) | 6 | 6 | 100.0 | /mnt/stockage/packages/f20/php-horde-Horde-Perms/Horde_Perms-2.1.4/locale/ca/LC_MESSAGES/Horde_Perms.po | 
- | [cs]({{< ref "/f20/language/cs.md" >}}) | 6 | 6 | 100.0 | /mnt/stockage/packages/f20/php-horde-Horde-Perms/Horde_Perms-2.1.4/locale/cs/LC_MESSAGES/Horde_Perms.po | 
- | [da]({{< ref "/f20/language/da.md" >}}) | 17 | 17 | 100.0 | /mnt/stockage/packages/f20/php-horde-Horde-Perms/Horde_Perms-2.1.4/locale/da/LC_MESSAGES/Horde_Perms.po | 
- | [de]({{< ref "/f20/language/de.md" >}}) | 17 | 17 | 100.0 | /mnt/stockage/packages/f20/php-horde-Horde-Perms/Horde_Perms-2.1.4/locale/de/LC_MESSAGES/Horde_Perms.po | 
- | [el]({{< ref "/f20/language/el.md" >}}) | 6 | 6 | 100.0 | /mnt/stockage/packages/f20/php-horde-Horde-Perms/Horde_Perms-2.1.4/locale/el/LC_MESSAGES/Horde_Perms.po | 
- | [es]({{< ref "/f20/language/es.md" >}}) | 17 | 17 | 100.0 | /mnt/stockage/packages/f20/php-horde-Horde-Perms/Horde_Perms-2.1.4/locale/es/LC_MESSAGES/Horde_Perms.po | 
- | [et]({{< ref "/f20/language/et.md" >}}) | 6 | 6 | 100.0 | /mnt/stockage/packages/f20/php-horde-Horde-Perms/Horde_Perms-2.1.4/locale/et/LC_MESSAGES/Horde_Perms.po | 
- | [eu]({{< ref "/f20/language/eu.md" >}}) | 17 | 17 | 100.0 | /mnt/stockage/packages/f20/php-horde-Horde-Perms/Horde_Perms-2.1.4/locale/eu/LC_MESSAGES/Horde_Perms.po | 
- | [fa]({{< ref "/f20/language/fa.md" >}}) | 6 | 6 | 100.0 | /mnt/stockage/packages/f20/php-horde-Horde-Perms/Horde_Perms-2.1.4/locale/fa/LC_MESSAGES/Horde_Perms.po | 
- | [fi]({{< ref "/f20/language/fi.md" >}}) | 17 | 17 | 100.0 | /mnt/stockage/packages/f20/php-horde-Horde-Perms/Horde_Perms-2.1.4/locale/fi/LC_MESSAGES/Horde_Perms.po | 
- | [fr]({{< ref "/f20/language/fr.md" >}}) | 17 | 17 | 100.0 | /mnt/stockage/packages/f20/php-horde-Horde-Perms/Horde_Perms-2.1.4/locale/fr/LC_MESSAGES/Horde_Perms.po | 
- | [hr]({{< ref "/f20/language/hr.md" >}}) | 17 | 17 | 100.0 | /mnt/stockage/packages/f20/php-horde-Horde-Perms/Horde_Perms-2.1.4/locale/hr/LC_MESSAGES/Horde_Perms.po | 
- | [hu]({{< ref "/f20/language/hu.md" >}}) | 17 | 17 | 100.0 | /mnt/stockage/packages/f20/php-horde-Horde-Perms/Horde_Perms-2.1.4/locale/hu/LC_MESSAGES/Horde_Perms.po | 
- | [it]({{< ref "/f20/language/it.md" >}}) | 6 | 6 | 100.0 | /mnt/stockage/packages/f20/php-horde-Horde-Perms/Horde_Perms-2.1.4/locale/it/LC_MESSAGES/Horde_Perms.po | 
- | [ja]({{< ref "/f20/language/ja.md" >}}) | 17 | 17 | 100.0 | /mnt/stockage/packages/f20/php-horde-Horde-Perms/Horde_Perms-2.1.4/locale/ja/LC_MESSAGES/Horde_Perms.po | 
- | [lt]({{< ref "/f20/language/lt.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f20/php-horde-Horde-Perms/Horde_Perms-2.1.4/locale/lt/LC_MESSAGES/Horde_Perms.po | 
- | [lv]({{< ref "/f20/language/lv.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f20/php-horde-Horde-Perms/Horde_Perms-2.1.4/locale/lv/LC_MESSAGES/Horde_Perms.po | 
- | [nb_NO]({{< ref "/f20/language/nb_NO.md" >}}) | 6 | 6 | 100.0 | /mnt/stockage/packages/f20/php-horde-Horde-Perms/Horde_Perms-2.1.4/locale/nb/LC_MESSAGES/Horde_Perms.po | 
- | [nl]({{< ref "/f20/language/nl.md" >}}) | 17 | 17 | 100.0 | /mnt/stockage/packages/f20/php-horde-Horde-Perms/Horde_Perms-2.1.4/locale/nl/LC_MESSAGES/Horde_Perms.po | 
- | [pt]({{< ref "/f20/language/pt.md" >}}) | 6 | 6 | 100.0 | /mnt/stockage/packages/f20/php-horde-Horde-Perms/Horde_Perms-2.1.4/locale/pt/LC_MESSAGES/Horde_Perms.po | 
- | [pt_BR]({{< ref "/f20/language/pt_BR.md" >}}) | 17 | 17 | 100.0 | /mnt/stockage/packages/f20/php-horde-Horde-Perms/Horde_Perms-2.1.4/locale/pt_BR/LC_MESSAGES/Horde_Perms.po | 
- | [ru]({{< ref "/f20/language/ru.md" >}}) | 6 | 6 | 100.0 | /mnt/stockage/packages/f20/php-horde-Horde-Perms/Horde_Perms-2.1.4/locale/ru/LC_MESSAGES/Horde_Perms.po | 
- | [sk]({{< ref "/f20/language/sk.md" >}}) | 17 | 17 | 100.0 | /mnt/stockage/packages/f20/php-horde-Horde-Perms/Horde_Perms-2.1.4/locale/sk/LC_MESSAGES/Horde_Perms.po | 
- | [sl]({{< ref "/f20/language/sl.md" >}}) | 6 | 6 | 100.0 | /mnt/stockage/packages/f20/php-horde-Horde-Perms/Horde_Perms-2.1.4/locale/sl/LC_MESSAGES/Horde_Perms.po | 
- | [sv]({{< ref "/f20/language/sv.md" >}}) | 6 | 6 | 100.0 | /mnt/stockage/packages/f20/php-horde-Horde-Perms/Horde_Perms-2.1.4/locale/sv/LC_MESSAGES/Horde_Perms.po | 
- | [tr]({{< ref "/f20/language/tr.md" >}}) | 6 | 6 | 100.0 | /mnt/stockage/packages/f20/php-horde-Horde-Perms/Horde_Perms-2.1.4/locale/tr/LC_MESSAGES/Horde_Perms.po | 
- | [uk]({{< ref "/f20/language/uk.md" >}}) | 6 | 6 | 100.0 | /mnt/stockage/packages/f20/php-horde-Horde-Perms/Horde_Perms-2.1.4/locale/uk/LC_MESSAGES/Horde_Perms.po | 
- | [zh_Hans]({{< ref "/f20/language/zh_Hans.md" >}}) | 6 | 6 | 100.0 | /mnt/stockage/packages/f20/php-horde-Horde-Perms/Horde_Perms-2.1.4/locale/zh_CN/LC_MESSAGES/Horde_Perms.po | 
- | [zh_Hant]({{< ref "/f20/language/zh_Hant.md" >}}) | 6 | 6 | 100.0 | /mnt/stockage/packages/f20/php-horde-Horde-Perms/Horde_Perms-2.1.4/locale/zh_TW/LC_MESSAGES/Horde_Perms.po | 
- | [pl]({{< ref "/f20/language/pl.md" >}}) | 5 | 6 | 83.3 | /mnt/stockage/packages/f20/php-horde-Horde-Perms/Horde_Perms-2.1.4/locale/pl/LC_MESSAGES/Horde_Perms.po | 
- | [id]({{< ref "/f20/language/id.md" >}}) | 4 | 6 | 66.7 | /mnt/stockage/packages/f20/php-horde-Horde-Perms/Horde_Perms-2.1.4/locale/id/LC_MESSAGES/Horde_Perms.po | 
- | [km]({{< ref "/f20/language/km.md" >}}) | 4 | 6 | 66.7 | /mnt/stockage/packages/f20/php-horde-Horde-Perms/Horde_Perms-2.1.4/locale/km/LC_MESSAGES/Horde_Perms.po | 
- | [nn]({{< ref "/f20/language/nn.md" >}}) | 4 | 6 | 66.7 | /mnt/stockage/packages/f20/php-horde-Horde-Perms/Horde_Perms-2.1.4/locale/nn/LC_MESSAGES/Horde_Perms.po | 
- | [bs]({{< ref "/f20/language/bs.md" >}}) | 3 | 6 | 50.0 | /mnt/stockage/packages/f20/php-horde-Horde-Perms/Horde_Perms-2.1.4/locale/bs/LC_MESSAGES/Horde_Perms.po | 
- | [is]({{< ref "/f20/language/is.md" >}}) | 2 | 6 | 33.3 | /mnt/stockage/packages/f20/php-horde-Horde-Perms/Horde_Perms-2.1.4/locale/is/LC_MESSAGES/Horde_Perms.po | 
- | [ko]({{< ref "/f20/language/ko.md" >}}) | 2 | 6 | 33.3 | /mnt/stockage/packages/f20/php-horde-Horde-Perms/Horde_Perms-2.1.4/locale/ko/LC_MESSAGES/Horde_Perms.po | 
- | [mk]({{< ref "/f20/language/mk.md" >}}) | 1 | 6 | 16.7 | /mnt/stockage/packages/f20/php-horde-Horde-Perms/Horde_Perms-2.1.4/locale/mk/LC_MESSAGES/Horde_Perms.po | 
- | [ar]({{< ref "/f20/language/ar.md" >}}) | 0 | 6 | 0.0 | /mnt/stockage/packages/f20/php-horde-Horde-Perms/Horde_Perms-2.1.4/locale/ar/LC_MESSAGES/Horde_Perms.po | 
- | [gl]({{< ref "/f20/language/gl.md" >}}) | 0 | 6 | 0.0 | /mnt/stockage/packages/f20/php-horde-Horde-Perms/Horde_Perms-2.1.4/locale/gl/LC_MESSAGES/Horde_Perms.po | 
- | [he]({{< ref "/f20/language/he.md" >}}) | 0 | 6 | 0.0 | /mnt/stockage/packages/f20/php-horde-Horde-Perms/Horde_Perms-2.1.4/locale/he/LC_MESSAGES/Horde_Perms.po | 
- | [ro]({{< ref "/f20/language/ro.md" >}}) | 0 | 6 | 0.0 | /mnt/stockage/packages/f20/php-horde-Horde-Perms/Horde_Perms-2.1.4/locale/ro/LC_MESSAGES/Horde_Perms.po | 
+ | [bg](/f20/language/bg) | 6 | 6 | 100.0 | /mnt/stockage/packages/f20/php-horde-Horde-Perms/Horde_Perms-2.1.4/locale/bg/LC_MESSAGES/Horde_Perms.po | 
+ | [ca](/f20/language/ca) | 6 | 6 | 100.0 | /mnt/stockage/packages/f20/php-horde-Horde-Perms/Horde_Perms-2.1.4/locale/ca/LC_MESSAGES/Horde_Perms.po | 
+ | [cs](/f20/language/cs) | 6 | 6 | 100.0 | /mnt/stockage/packages/f20/php-horde-Horde-Perms/Horde_Perms-2.1.4/locale/cs/LC_MESSAGES/Horde_Perms.po | 
+ | [da](/f20/language/da) | 17 | 17 | 100.0 | /mnt/stockage/packages/f20/php-horde-Horde-Perms/Horde_Perms-2.1.4/locale/da/LC_MESSAGES/Horde_Perms.po | 
+ | [de](/f20/language/de) | 17 | 17 | 100.0 | /mnt/stockage/packages/f20/php-horde-Horde-Perms/Horde_Perms-2.1.4/locale/de/LC_MESSAGES/Horde_Perms.po | 
+ | [el](/f20/language/el) | 6 | 6 | 100.0 | /mnt/stockage/packages/f20/php-horde-Horde-Perms/Horde_Perms-2.1.4/locale/el/LC_MESSAGES/Horde_Perms.po | 
+ | [es](/f20/language/es) | 17 | 17 | 100.0 | /mnt/stockage/packages/f20/php-horde-Horde-Perms/Horde_Perms-2.1.4/locale/es/LC_MESSAGES/Horde_Perms.po | 
+ | [et](/f20/language/et) | 6 | 6 | 100.0 | /mnt/stockage/packages/f20/php-horde-Horde-Perms/Horde_Perms-2.1.4/locale/et/LC_MESSAGES/Horde_Perms.po | 
+ | [eu](/f20/language/eu) | 17 | 17 | 100.0 | /mnt/stockage/packages/f20/php-horde-Horde-Perms/Horde_Perms-2.1.4/locale/eu/LC_MESSAGES/Horde_Perms.po | 
+ | [fa](/f20/language/fa) | 6 | 6 | 100.0 | /mnt/stockage/packages/f20/php-horde-Horde-Perms/Horde_Perms-2.1.4/locale/fa/LC_MESSAGES/Horde_Perms.po | 
+ | [fi](/f20/language/fi) | 17 | 17 | 100.0 | /mnt/stockage/packages/f20/php-horde-Horde-Perms/Horde_Perms-2.1.4/locale/fi/LC_MESSAGES/Horde_Perms.po | 
+ | [fr](/f20/language/fr) | 17 | 17 | 100.0 | /mnt/stockage/packages/f20/php-horde-Horde-Perms/Horde_Perms-2.1.4/locale/fr/LC_MESSAGES/Horde_Perms.po | 
+ | [hr](/f20/language/hr) | 17 | 17 | 100.0 | /mnt/stockage/packages/f20/php-horde-Horde-Perms/Horde_Perms-2.1.4/locale/hr/LC_MESSAGES/Horde_Perms.po | 
+ | [hu](/f20/language/hu) | 17 | 17 | 100.0 | /mnt/stockage/packages/f20/php-horde-Horde-Perms/Horde_Perms-2.1.4/locale/hu/LC_MESSAGES/Horde_Perms.po | 
+ | [it](/f20/language/it) | 6 | 6 | 100.0 | /mnt/stockage/packages/f20/php-horde-Horde-Perms/Horde_Perms-2.1.4/locale/it/LC_MESSAGES/Horde_Perms.po | 
+ | [ja](/f20/language/ja) | 17 | 17 | 100.0 | /mnt/stockage/packages/f20/php-horde-Horde-Perms/Horde_Perms-2.1.4/locale/ja/LC_MESSAGES/Horde_Perms.po | 
+ | [lt](/f20/language/lt) | 4 | 4 | 100.0 | /mnt/stockage/packages/f20/php-horde-Horde-Perms/Horde_Perms-2.1.4/locale/lt/LC_MESSAGES/Horde_Perms.po | 
+ | [lv](/f20/language/lv) | 4 | 4 | 100.0 | /mnt/stockage/packages/f20/php-horde-Horde-Perms/Horde_Perms-2.1.4/locale/lv/LC_MESSAGES/Horde_Perms.po | 
+ | [nb_NO](/f20/language/nb_NO) | 6 | 6 | 100.0 | /mnt/stockage/packages/f20/php-horde-Horde-Perms/Horde_Perms-2.1.4/locale/nb/LC_MESSAGES/Horde_Perms.po | 
+ | [nl](/f20/language/nl) | 17 | 17 | 100.0 | /mnt/stockage/packages/f20/php-horde-Horde-Perms/Horde_Perms-2.1.4/locale/nl/LC_MESSAGES/Horde_Perms.po | 
+ | [pt](/f20/language/pt) | 6 | 6 | 100.0 | /mnt/stockage/packages/f20/php-horde-Horde-Perms/Horde_Perms-2.1.4/locale/pt/LC_MESSAGES/Horde_Perms.po | 
+ | [pt_BR](/f20/language/pt_BR) | 17 | 17 | 100.0 | /mnt/stockage/packages/f20/php-horde-Horde-Perms/Horde_Perms-2.1.4/locale/pt_BR/LC_MESSAGES/Horde_Perms.po | 
+ | [ru](/f20/language/ru) | 6 | 6 | 100.0 | /mnt/stockage/packages/f20/php-horde-Horde-Perms/Horde_Perms-2.1.4/locale/ru/LC_MESSAGES/Horde_Perms.po | 
+ | [sk](/f20/language/sk) | 17 | 17 | 100.0 | /mnt/stockage/packages/f20/php-horde-Horde-Perms/Horde_Perms-2.1.4/locale/sk/LC_MESSAGES/Horde_Perms.po | 
+ | [sl](/f20/language/sl) | 6 | 6 | 100.0 | /mnt/stockage/packages/f20/php-horde-Horde-Perms/Horde_Perms-2.1.4/locale/sl/LC_MESSAGES/Horde_Perms.po | 
+ | [sv](/f20/language/sv) | 6 | 6 | 100.0 | /mnt/stockage/packages/f20/php-horde-Horde-Perms/Horde_Perms-2.1.4/locale/sv/LC_MESSAGES/Horde_Perms.po | 
+ | [tr](/f20/language/tr) | 6 | 6 | 100.0 | /mnt/stockage/packages/f20/php-horde-Horde-Perms/Horde_Perms-2.1.4/locale/tr/LC_MESSAGES/Horde_Perms.po | 
+ | [uk](/f20/language/uk) | 6 | 6 | 100.0 | /mnt/stockage/packages/f20/php-horde-Horde-Perms/Horde_Perms-2.1.4/locale/uk/LC_MESSAGES/Horde_Perms.po | 
+ | [zh_Hans](/f20/language/zh_Hans) | 6 | 6 | 100.0 | /mnt/stockage/packages/f20/php-horde-Horde-Perms/Horde_Perms-2.1.4/locale/zh_CN/LC_MESSAGES/Horde_Perms.po | 
+ | [zh_Hant](/f20/language/zh_Hant) | 6 | 6 | 100.0 | /mnt/stockage/packages/f20/php-horde-Horde-Perms/Horde_Perms-2.1.4/locale/zh_TW/LC_MESSAGES/Horde_Perms.po | 
+ | [pl](/f20/language/pl) | 5 | 6 | 83.3 | /mnt/stockage/packages/f20/php-horde-Horde-Perms/Horde_Perms-2.1.4/locale/pl/LC_MESSAGES/Horde_Perms.po | 
+ | [id](/f20/language/id) | 4 | 6 | 66.7 | /mnt/stockage/packages/f20/php-horde-Horde-Perms/Horde_Perms-2.1.4/locale/id/LC_MESSAGES/Horde_Perms.po | 
+ | [km](/f20/language/km) | 4 | 6 | 66.7 | /mnt/stockage/packages/f20/php-horde-Horde-Perms/Horde_Perms-2.1.4/locale/km/LC_MESSAGES/Horde_Perms.po | 
+ | [nn](/f20/language/nn) | 4 | 6 | 66.7 | /mnt/stockage/packages/f20/php-horde-Horde-Perms/Horde_Perms-2.1.4/locale/nn/LC_MESSAGES/Horde_Perms.po | 
+ | [bs](/f20/language/bs) | 3 | 6 | 50.0 | /mnt/stockage/packages/f20/php-horde-Horde-Perms/Horde_Perms-2.1.4/locale/bs/LC_MESSAGES/Horde_Perms.po | 
+ | [is](/f20/language/is) | 2 | 6 | 33.3 | /mnt/stockage/packages/f20/php-horde-Horde-Perms/Horde_Perms-2.1.4/locale/is/LC_MESSAGES/Horde_Perms.po | 
+ | [ko](/f20/language/ko) | 2 | 6 | 33.3 | /mnt/stockage/packages/f20/php-horde-Horde-Perms/Horde_Perms-2.1.4/locale/ko/LC_MESSAGES/Horde_Perms.po | 
+ | [mk](/f20/language/mk) | 1 | 6 | 16.7 | /mnt/stockage/packages/f20/php-horde-Horde-Perms/Horde_Perms-2.1.4/locale/mk/LC_MESSAGES/Horde_Perms.po | 
+ | [ar](/f20/language/ar) | 0 | 6 | 0.0 | /mnt/stockage/packages/f20/php-horde-Horde-Perms/Horde_Perms-2.1.4/locale/ar/LC_MESSAGES/Horde_Perms.po | 
+ | [gl](/f20/language/gl) | 0 | 6 | 0.0 | /mnt/stockage/packages/f20/php-horde-Horde-Perms/Horde_Perms-2.1.4/locale/gl/LC_MESSAGES/Horde_Perms.po | 
+ | [he](/f20/language/he) | 0 | 6 | 0.0 | /mnt/stockage/packages/f20/php-horde-Horde-Perms/Horde_Perms-2.1.4/locale/he/LC_MESSAGES/Horde_Perms.po | 
+ | [ro](/f20/language/ro) | 0 | 6 | 0.0 | /mnt/stockage/packages/f20/php-horde-Horde-Perms/Horde_Perms-2.1.4/locale/ro/LC_MESSAGES/Horde_Perms.po | 
 {.sortable}
 
 

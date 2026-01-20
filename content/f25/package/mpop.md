@@ -18,7 +18,7 @@ The package mpop (version 1.2.6):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f25/language/de.md" >}}) | 1432 | 1829 | 78.3 | /mnt/stockage/packages/f25/mpop/po/de.po | 
+ | [de](/f25/language/de) | 1432 | 1829 | 78.3 | /mnt/stockage/packages/f25/mpop/po/de.po | 
 {.sortable}
 
 

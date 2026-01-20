@@ -18,10 +18,10 @@ The package lutris (version 0.5.7.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f31/language/fr.md" >}}) | 190 | 190 | 100.0 | /mnt/stockage/packages/f31/lutris/po/fr.po | 
- | [nl]({{< ref "/f31/language/nl.md" >}}) | 5258 | 5258 | 100.0 | /mnt/stockage/packages/f31/lutris/po/nl.po | 
- | [tr]({{< ref "/f31/language/tr.md" >}}) | 190 | 190 | 100.0 | /mnt/stockage/packages/f31/lutris/po/tr.po | 
- | [zh_Hans]({{< ref "/f31/language/zh_Hans.md" >}}) | 5380 | 5380 | 100.0 | /mnt/stockage/packages/f31/lutris/po/zh_CN.po | 
+ | [fr](/f31/language/fr) | 190 | 190 | 100.0 | /mnt/stockage/packages/f31/lutris/po/fr.po | 
+ | [nl](/f31/language/nl) | 5258 | 5258 | 100.0 | /mnt/stockage/packages/f31/lutris/po/nl.po | 
+ | [tr](/f31/language/tr) | 190 | 190 | 100.0 | /mnt/stockage/packages/f31/lutris/po/tr.po | 
+ | [zh_Hans](/f31/language/zh_Hans) | 5380 | 5380 | 100.0 | /mnt/stockage/packages/f31/lutris/po/zh_CN.po | 
 {.sortable}
 
 

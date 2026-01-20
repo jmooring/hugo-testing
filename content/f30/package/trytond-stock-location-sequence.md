@@ -18,26 +18,26 @@ The package trytond-stock-location-sequence (version 4.0.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [bg]({{< ref "/f30/language/bg.md" >}}) | 1 | 1 | 100.0 | /mnt/stockage/packages/f30/trytond-stock-location-sequence/locale/bg_BG.po | 
- | [ca]({{< ref "/f30/language/ca.md" >}}) | 1 | 1 | 100.0 | /mnt/stockage/packages/f30/trytond-stock-location-sequence/locale/ca_ES.po | 
- | [de]({{< ref "/f30/language/de.md" >}}) | 1 | 1 | 100.0 | /mnt/stockage/packages/f30/trytond-stock-location-sequence/locale/de_DE.po | 
- | [es]({{< ref "/f30/language/es.md" >}}) | 1 | 1 | 100.0 | /mnt/stockage/packages/f30/trytond-stock-location-sequence/locale/es_ES.po | 
- | [es_AR]({{< ref "/f30/language/es_AR.md" >}}) | 1 | 1 | 100.0 | /mnt/stockage/packages/f30/trytond-stock-location-sequence/locale/es_AR.po | 
- | [es_CO]({{< ref "/f30/language/es_CO.md" >}}) | 1 | 1 | 100.0 | /mnt/stockage/packages/f30/trytond-stock-location-sequence/locale/es_CO.po | 
- | [es_EC]({{< ref "/f30/language/es_EC.md" >}}) | 1 | 1 | 100.0 | /mnt/stockage/packages/f30/trytond-stock-location-sequence/locale/es_EC.po | 
- | [es_MX]({{< ref "/f30/language/es_MX.md" >}}) | 1 | 1 | 100.0 | /mnt/stockage/packages/f30/trytond-stock-location-sequence/locale/es_MX.po | 
- | [fr]({{< ref "/f30/language/fr.md" >}}) | 1 | 1 | 100.0 | /mnt/stockage/packages/f30/trytond-stock-location-sequence/locale/fr_FR.po | 
- | [hu]({{< ref "/f30/language/hu.md" >}}) | 1 | 1 | 100.0 | /mnt/stockage/packages/f30/trytond-stock-location-sequence/locale/hu_HU.po | 
- | [lo]({{< ref "/f30/language/lo.md" >}}) | 1 | 1 | 100.0 | /mnt/stockage/packages/f30/trytond-stock-location-sequence/locale/lo_LA.po | 
- | [pt_BR]({{< ref "/f30/language/pt_BR.md" >}}) | 1 | 1 | 100.0 | /mnt/stockage/packages/f30/trytond-stock-location-sequence/locale/pt_BR.po | 
- | [sl]({{< ref "/f30/language/sl.md" >}}) | 1 | 1 | 100.0 | /mnt/stockage/packages/f30/trytond-stock-location-sequence/locale/sl_SI.po | 
- | [zh_Hans]({{< ref "/f30/language/zh_Hans.md" >}}) | 1 | 1 | 100.0 | /mnt/stockage/packages/f30/trytond-stock-location-sequence/locale/zh_CN.po | 
- | [cs]({{< ref "/f30/language/cs.md" >}}) | 0 | 1 | 0.0 | /mnt/stockage/packages/f30/trytond-stock-location-sequence/locale/cs_CZ.po | 
- | [it]({{< ref "/f30/language/it.md" >}}) | 0 | 1 | 0.0 | /mnt/stockage/packages/f30/trytond-stock-location-sequence/locale/it_IT.po | 
- | [ja]({{< ref "/f30/language/ja.md" >}}) | 0 | 1 | 0.0 | /mnt/stockage/packages/f30/trytond-stock-location-sequence/locale/ja_JP.po | 
- | [lt]({{< ref "/f30/language/lt.md" >}}) | 0 | 1 | 0.0 | /mnt/stockage/packages/f30/trytond-stock-location-sequence/locale/lt_LT.po | 
- | [nl]({{< ref "/f30/language/nl.md" >}}) | 0 | 1 | 0.0 | /mnt/stockage/packages/f30/trytond-stock-location-sequence/locale/nl_NL.po | 
- | [ru]({{< ref "/f30/language/ru.md" >}}) | 0 | 1 | 0.0 | /mnt/stockage/packages/f30/trytond-stock-location-sequence/locale/ru_RU.po | 
+ | [bg](/f30/language/bg) | 1 | 1 | 100.0 | /mnt/stockage/packages/f30/trytond-stock-location-sequence/locale/bg_BG.po | 
+ | [ca](/f30/language/ca) | 1 | 1 | 100.0 | /mnt/stockage/packages/f30/trytond-stock-location-sequence/locale/ca_ES.po | 
+ | [de](/f30/language/de) | 1 | 1 | 100.0 | /mnt/stockage/packages/f30/trytond-stock-location-sequence/locale/de_DE.po | 
+ | [es](/f30/language/es) | 1 | 1 | 100.0 | /mnt/stockage/packages/f30/trytond-stock-location-sequence/locale/es_ES.po | 
+ | [es_AR](/f30/language/es_AR) | 1 | 1 | 100.0 | /mnt/stockage/packages/f30/trytond-stock-location-sequence/locale/es_AR.po | 
+ | [es_CO](/f30/language/es_CO) | 1 | 1 | 100.0 | /mnt/stockage/packages/f30/trytond-stock-location-sequence/locale/es_CO.po | 
+ | [es_EC](/f30/language/es_EC) | 1 | 1 | 100.0 | /mnt/stockage/packages/f30/trytond-stock-location-sequence/locale/es_EC.po | 
+ | [es_MX](/f30/language/es_MX) | 1 | 1 | 100.0 | /mnt/stockage/packages/f30/trytond-stock-location-sequence/locale/es_MX.po | 
+ | [fr](/f30/language/fr) | 1 | 1 | 100.0 | /mnt/stockage/packages/f30/trytond-stock-location-sequence/locale/fr_FR.po | 
+ | [hu](/f30/language/hu) | 1 | 1 | 100.0 | /mnt/stockage/packages/f30/trytond-stock-location-sequence/locale/hu_HU.po | 
+ | [lo](/f30/language/lo) | 1 | 1 | 100.0 | /mnt/stockage/packages/f30/trytond-stock-location-sequence/locale/lo_LA.po | 
+ | [pt_BR](/f30/language/pt_BR) | 1 | 1 | 100.0 | /mnt/stockage/packages/f30/trytond-stock-location-sequence/locale/pt_BR.po | 
+ | [sl](/f30/language/sl) | 1 | 1 | 100.0 | /mnt/stockage/packages/f30/trytond-stock-location-sequence/locale/sl_SI.po | 
+ | [zh_Hans](/f30/language/zh_Hans) | 1 | 1 | 100.0 | /mnt/stockage/packages/f30/trytond-stock-location-sequence/locale/zh_CN.po | 
+ | [cs](/f30/language/cs) | 0 | 1 | 0.0 | /mnt/stockage/packages/f30/trytond-stock-location-sequence/locale/cs_CZ.po | 
+ | [it](/f30/language/it) | 0 | 1 | 0.0 | /mnt/stockage/packages/f30/trytond-stock-location-sequence/locale/it_IT.po | 
+ | [ja](/f30/language/ja) | 0 | 1 | 0.0 | /mnt/stockage/packages/f30/trytond-stock-location-sequence/locale/ja_JP.po | 
+ | [lt](/f30/language/lt) | 0 | 1 | 0.0 | /mnt/stockage/packages/f30/trytond-stock-location-sequence/locale/lt_LT.po | 
+ | [nl](/f30/language/nl) | 0 | 1 | 0.0 | /mnt/stockage/packages/f30/trytond-stock-location-sequence/locale/nl_NL.po | 
+ | [ru](/f30/language/ru) | 0 | 1 | 0.0 | /mnt/stockage/packages/f30/trytond-stock-location-sequence/locale/ru_RU.po | 
 {.sortable}
 
 

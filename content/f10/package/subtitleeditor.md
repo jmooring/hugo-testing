@@ -18,25 +18,25 @@ The package subtitleeditor (version 0.30.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f10/language/cs.md" >}}) | 2465 | 2465 | 100.0 | /mnt/stockage/packages/f10/subtitleeditor/po/cs.po | 
- | [en_GB]({{< ref "/f10/language/en_GB.md" >}}) | 1817 | 1817 | 100.0 | /mnt/stockage/packages/f10/subtitleeditor/po/en_GB.po | 
- | [zh_Hans]({{< ref "/f10/language/zh_Hans.md" >}}) | 2425 | 2465 | 98.4 | /mnt/stockage/packages/f10/subtitleeditor/po/zh_CN.po | 
- | [fr]({{< ref "/f10/language/fr.md" >}}) | 2350 | 2465 | 95.3 | /mnt/stockage/packages/f10/subtitleeditor/po/fr.po | 
- | [pl]({{< ref "/f10/language/pl.md" >}}) | 2152 | 2465 | 87.3 | /mnt/stockage/packages/f10/subtitleeditor/po/pl.po | 
- | [es]({{< ref "/f10/language/es.md" >}}) | 1608 | 2128 | 75.6 | /mnt/stockage/packages/f10/subtitleeditor/po/es.po | 
- | [it]({{< ref "/f10/language/it.md" >}}) | 839 | 1817 | 46.2 | /mnt/stockage/packages/f10/subtitleeditor/po/it.po | 
- | [hu]({{< ref "/f10/language/hu.md" >}}) | 759 | 2128 | 35.7 | /mnt/stockage/packages/f10/subtitleeditor/po/hu.po | 
- | [tr]({{< ref "/f10/language/tr.md" >}}) | 460 | 2128 | 21.6 | /mnt/stockage/packages/f10/subtitleeditor/po/tr.po | 
- | [pt]({{< ref "/f10/language/pt.md" >}}) | 383 | 1817 | 21.1 | /mnt/stockage/packages/f10/subtitleeditor/po/pt.po | 
- | [nl]({{< ref "/f10/language/nl.md" >}}) | 348 | 1817 | 19.2 | /mnt/stockage/packages/f10/subtitleeditor/po/nl.po | 
- | [pt_PT]({{< ref "/f10/language/pt_PT.md" >}}) | 304 | 1817 | 16.7 | /mnt/stockage/packages/f10/subtitleeditor/po/pt_PT.po | 
- | [pt_BR]({{< ref "/f10/language/pt_BR.md" >}}) | 291 | 1817 | 16.0 | /mnt/stockage/packages/f10/subtitleeditor/po/pt_BR.po | 
- | [sr]({{< ref "/f10/language/sr.md" >}}) | 238 | 1817 | 13.1 | /mnt/stockage/packages/f10/subtitleeditor/po/sr.po | 
- | [da]({{< ref "/f10/language/da.md" >}}) | 223 | 1817 | 12.3 | /mnt/stockage/packages/f10/subtitleeditor/po/da.po | 
- | [ru]({{< ref "/f10/language/ru.md" >}}) | 112 | 1817 | 6.2 | /mnt/stockage/packages/f10/subtitleeditor/po/ru.po | 
- | [ca]({{< ref "/f10/language/ca.md" >}}) | 98 | 1817 | 5.4 | /mnt/stockage/packages/f10/subtitleeditor/po/ca.po | 
- | [gl]({{< ref "/f10/language/gl.md" >}}) | 32 | 1817 | 1.8 | /mnt/stockage/packages/f10/subtitleeditor/po/gl.po | 
- | [de]({{< ref "/f10/language/de.md" >}}) | 5 | 1817 | 0.3 | /mnt/stockage/packages/f10/subtitleeditor/po/de.po | 
+ | [cs](/f10/language/cs) | 2465 | 2465 | 100.0 | /mnt/stockage/packages/f10/subtitleeditor/po/cs.po | 
+ | [en_GB](/f10/language/en_GB) | 1817 | 1817 | 100.0 | /mnt/stockage/packages/f10/subtitleeditor/po/en_GB.po | 
+ | [zh_Hans](/f10/language/zh_Hans) | 2425 | 2465 | 98.4 | /mnt/stockage/packages/f10/subtitleeditor/po/zh_CN.po | 
+ | [fr](/f10/language/fr) | 2350 | 2465 | 95.3 | /mnt/stockage/packages/f10/subtitleeditor/po/fr.po | 
+ | [pl](/f10/language/pl) | 2152 | 2465 | 87.3 | /mnt/stockage/packages/f10/subtitleeditor/po/pl.po | 
+ | [es](/f10/language/es) | 1608 | 2128 | 75.6 | /mnt/stockage/packages/f10/subtitleeditor/po/es.po | 
+ | [it](/f10/language/it) | 839 | 1817 | 46.2 | /mnt/stockage/packages/f10/subtitleeditor/po/it.po | 
+ | [hu](/f10/language/hu) | 759 | 2128 | 35.7 | /mnt/stockage/packages/f10/subtitleeditor/po/hu.po | 
+ | [tr](/f10/language/tr) | 460 | 2128 | 21.6 | /mnt/stockage/packages/f10/subtitleeditor/po/tr.po | 
+ | [pt](/f10/language/pt) | 383 | 1817 | 21.1 | /mnt/stockage/packages/f10/subtitleeditor/po/pt.po | 
+ | [nl](/f10/language/nl) | 348 | 1817 | 19.2 | /mnt/stockage/packages/f10/subtitleeditor/po/nl.po | 
+ | [pt_PT](/f10/language/pt_PT) | 304 | 1817 | 16.7 | /mnt/stockage/packages/f10/subtitleeditor/po/pt_PT.po | 
+ | [pt_BR](/f10/language/pt_BR) | 291 | 1817 | 16.0 | /mnt/stockage/packages/f10/subtitleeditor/po/pt_BR.po | 
+ | [sr](/f10/language/sr) | 238 | 1817 | 13.1 | /mnt/stockage/packages/f10/subtitleeditor/po/sr.po | 
+ | [da](/f10/language/da) | 223 | 1817 | 12.3 | /mnt/stockage/packages/f10/subtitleeditor/po/da.po | 
+ | [ru](/f10/language/ru) | 112 | 1817 | 6.2 | /mnt/stockage/packages/f10/subtitleeditor/po/ru.po | 
+ | [ca](/f10/language/ca) | 98 | 1817 | 5.4 | /mnt/stockage/packages/f10/subtitleeditor/po/ca.po | 
+ | [gl](/f10/language/gl) | 32 | 1817 | 1.8 | /mnt/stockage/packages/f10/subtitleeditor/po/gl.po | 
+ | [de](/f10/language/de) | 5 | 1817 | 0.3 | /mnt/stockage/packages/f10/subtitleeditor/po/de.po | 
 {.sortable}
 
 

@@ -38,10 +38,10 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [libgweather]({{< ref "/f21/package/libgweather.md" >}}) | 447 | 460 | 97.2 | Spanish <traductores@es.gnome.org> | 
- | [mate-applets]({{< ref "/f21/package/mate-applets.md" >}}) | 1814 | 2283 | 79.5 | Spanish (Panama) (http://www.transifex.com/projects/p/MATE/language/es_PA/) | 
- | [libmateweather]({{< ref "/f21/package/libmateweather.md" >}}) | 361 | 487 | 74.1 | Spanish (Panama) (http://www.transifex.com/projects/p/MATE/language/es_PA/) | 
- | [mate-desktop]({{< ref "/f21/package/mate-desktop.md" >}}) | 0 | 2288 | 0.0 | Spanish (Panama) (http://www.transifex.com/projects/p/MATE/language/es_PA/) | 
+ | [libgweather](/f21/package/libgweather) | 447 | 460 | 97.2 | Spanish <traductores@es.gnome.org> | 
+ | [mate-applets](/f21/package/mate-applets) | 1814 | 2283 | 79.5 | Spanish (Panama) (http://www.transifex.com/projects/p/MATE/language/es_PA/) | 
+ | [libmateweather](/f21/package/libmateweather) | 361 | 487 | 74.1 | Spanish (Panama) (http://www.transifex.com/projects/p/MATE/language/es_PA/) | 
+ | [mate-desktop](/f21/package/mate-desktop) | 0 | 2288 | 0.0 | Spanish (Panama) (http://www.transifex.com/projects/p/MATE/language/es_PA/) | 
 {.sortable}
 
 

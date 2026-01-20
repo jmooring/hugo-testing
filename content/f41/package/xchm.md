@@ -18,26 +18,26 @@ The package xchm (version 1.37):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ro]({{< ref "/f41/language/ro.md" >}}) | 241 | 241 | 100.0 | /mnt/stockage/packages/f41/xchm/po/ro.po | 
- | [sv]({{< ref "/f41/language/sv.md" >}}) | 237 | 241 | 98.3 | /mnt/stockage/packages/f41/xchm/po/sv.po | 
- | [pl]({{< ref "/f41/language/pl.md" >}}) | 232 | 241 | 96.3 | /mnt/stockage/packages/f41/xchm/po/pl.po | 
- | [es]({{< ref "/f41/language/es.md" >}}) | 217 | 241 | 90.0 | /mnt/stockage/packages/f41/xchm/po/es.po | 
- | [fr]({{< ref "/f41/language/fr.md" >}}) | 217 | 241 | 90.0 | /mnt/stockage/packages/f41/xchm/po/fr.po | 
- | [ru]({{< ref "/f41/language/ru.md" >}}) | 217 | 241 | 90.0 | /mnt/stockage/packages/f41/xchm/po/ru.po | 
- | [el]({{< ref "/f41/language/el.md" >}}) | 201 | 241 | 83.4 | /mnt/stockage/packages/f41/xchm/po/el.po | 
- | [pt_PT]({{< ref "/f41/language/pt_PT.md" >}}) | 195 | 241 | 80.9 | /mnt/stockage/packages/f41/xchm/po/pt_PT.po | 
- | [be]({{< ref "/f41/language/be.md" >}}) | 193 | 241 | 80.1 | /mnt/stockage/packages/f41/xchm/po/be.po | 
- | [de]({{< ref "/f41/language/de.md" >}}) | 183 | 241 | 75.9 | /mnt/stockage/packages/f41/xchm/po/de.po | 
- | [uk]({{< ref "/f41/language/uk.md" >}}) | 153 | 241 | 63.5 | /mnt/stockage/packages/f41/xchm/po/uk.po | 
- | [pt_BR]({{< ref "/f41/language/pt_BR.md" >}}) | 151 | 241 | 62.7 | /mnt/stockage/packages/f41/xchm/po/pt_BR.po | 
- | [cs]({{< ref "/f41/language/cs.md" >}}) | 140 | 241 | 58.1 | /mnt/stockage/packages/f41/xchm/po/cs.po | 
- | [zh_Hans]({{< ref "/f41/language/zh_Hans.md" >}}) | 140 | 241 | 58.1 | /mnt/stockage/packages/f41/xchm/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f41/language/zh_Hant.md" >}}) | 140 | 241 | 58.1 | /mnt/stockage/packages/f41/xchm/po/zh_TW.po | 
- | [bg]({{< ref "/f41/language/bg.md" >}}) | 137 | 241 | 56.8 | /mnt/stockage/packages/f41/xchm/po/bg.po | 
- | [hu]({{< ref "/f41/language/hu.md" >}}) | 137 | 241 | 56.8 | /mnt/stockage/packages/f41/xchm/po/hu.po | 
- | [it]({{< ref "/f41/language/it.md" >}}) | 137 | 241 | 56.8 | /mnt/stockage/packages/f41/xchm/po/it.po | 
- | [lv]({{< ref "/f41/language/lv.md" >}}) | 137 | 241 | 56.8 | /mnt/stockage/packages/f41/xchm/po/lv.po | 
- | [sk]({{< ref "/f41/language/sk.md" >}}) | 137 | 241 | 56.8 | /mnt/stockage/packages/f41/xchm/po/sk.po | 
+ | [ro](/f41/language/ro) | 241 | 241 | 100.0 | /mnt/stockage/packages/f41/xchm/po/ro.po | 
+ | [sv](/f41/language/sv) | 237 | 241 | 98.3 | /mnt/stockage/packages/f41/xchm/po/sv.po | 
+ | [pl](/f41/language/pl) | 232 | 241 | 96.3 | /mnt/stockage/packages/f41/xchm/po/pl.po | 
+ | [es](/f41/language/es) | 217 | 241 | 90.0 | /mnt/stockage/packages/f41/xchm/po/es.po | 
+ | [fr](/f41/language/fr) | 217 | 241 | 90.0 | /mnt/stockage/packages/f41/xchm/po/fr.po | 
+ | [ru](/f41/language/ru) | 217 | 241 | 90.0 | /mnt/stockage/packages/f41/xchm/po/ru.po | 
+ | [el](/f41/language/el) | 201 | 241 | 83.4 | /mnt/stockage/packages/f41/xchm/po/el.po | 
+ | [pt_PT](/f41/language/pt_PT) | 195 | 241 | 80.9 | /mnt/stockage/packages/f41/xchm/po/pt_PT.po | 
+ | [be](/f41/language/be) | 193 | 241 | 80.1 | /mnt/stockage/packages/f41/xchm/po/be.po | 
+ | [de](/f41/language/de) | 183 | 241 | 75.9 | /mnt/stockage/packages/f41/xchm/po/de.po | 
+ | [uk](/f41/language/uk) | 153 | 241 | 63.5 | /mnt/stockage/packages/f41/xchm/po/uk.po | 
+ | [pt_BR](/f41/language/pt_BR) | 151 | 241 | 62.7 | /mnt/stockage/packages/f41/xchm/po/pt_BR.po | 
+ | [cs](/f41/language/cs) | 140 | 241 | 58.1 | /mnt/stockage/packages/f41/xchm/po/cs.po | 
+ | [zh_Hans](/f41/language/zh_Hans) | 140 | 241 | 58.1 | /mnt/stockage/packages/f41/xchm/po/zh_CN.po | 
+ | [zh_Hant](/f41/language/zh_Hant) | 140 | 241 | 58.1 | /mnt/stockage/packages/f41/xchm/po/zh_TW.po | 
+ | [bg](/f41/language/bg) | 137 | 241 | 56.8 | /mnt/stockage/packages/f41/xchm/po/bg.po | 
+ | [hu](/f41/language/hu) | 137 | 241 | 56.8 | /mnt/stockage/packages/f41/xchm/po/hu.po | 
+ | [it](/f41/language/it) | 137 | 241 | 56.8 | /mnt/stockage/packages/f41/xchm/po/it.po | 
+ | [lv](/f41/language/lv) | 137 | 241 | 56.8 | /mnt/stockage/packages/f41/xchm/po/lv.po | 
+ | [sk](/f41/language/sk) | 137 | 241 | 56.8 | /mnt/stockage/packages/f41/xchm/po/sk.po | 
 {.sortable}
 
 

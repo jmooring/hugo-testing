@@ -18,16 +18,16 @@ The package virtualplanet (version 1.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [el]({{< ref "/f23/language/el.md" >}}) | 382 | 438 | 87.2 | /mnt/stockage/packages/f23/virtualplanet/vpa/language/vpa.el.po | 
- | [it]({{< ref "/f23/language/it.md" >}}) | 382 | 438 | 87.2 | /mnt/stockage/packages/f23/virtualplanet/vpa/language/vpa.it.po | 
- | [ca]({{< ref "/f23/language/ca.md" >}}) | 381 | 438 | 87.0 | /mnt/stockage/packages/f23/virtualplanet/vpa/language/vpa.ca.po | 
- | [hu]({{< ref "/f23/language/hu.md" >}}) | 344 | 438 | 78.5 | /mnt/stockage/packages/f23/virtualplanet/vpa/language/vpa.hu.po | 
- | [nl]({{< ref "/f23/language/nl.md" >}}) | 344 | 438 | 78.5 | /mnt/stockage/packages/f23/virtualplanet/vpa/language/vpa.nl.po | 
- | [es]({{< ref "/f23/language/es.md" >}}) | 343 | 438 | 78.3 | /mnt/stockage/packages/f23/virtualplanet/vpa/language/vpa.es.po | 
- | [sk]({{< ref "/f23/language/sk.md" >}}) | 342 | 438 | 78.1 | /mnt/stockage/packages/f23/virtualplanet/vpa/language/vpa.sk.po | 
- | [lt]({{< ref "/f23/language/lt.md" >}}) | 341 | 438 | 77.9 | /mnt/stockage/packages/f23/virtualplanet/vpa/language/vpa.lt.po | 
- | [cs]({{< ref "/f23/language/cs.md" >}}) | 308 | 438 | 70.3 | /mnt/stockage/packages/f23/virtualplanet/vpa/language/vpa.cs.po | 
- | [fr]({{< ref "/f23/language/fr.md" >}}) | 824 | 1314 | 62.7 | /mnt/stockage/packages/f23/virtualplanet/vpa/language/vpa.de.po/mnt/stockage/packages/f23/virtualplanet/vpa/language/vpa.en.po/mnt/stockage/packages/f23/virtualplanet/vpa/language/vpa.fr.po | 
+ | [el](/f23/language/el) | 382 | 438 | 87.2 | /mnt/stockage/packages/f23/virtualplanet/vpa/language/vpa.el.po | 
+ | [it](/f23/language/it) | 382 | 438 | 87.2 | /mnt/stockage/packages/f23/virtualplanet/vpa/language/vpa.it.po | 
+ | [ca](/f23/language/ca) | 381 | 438 | 87.0 | /mnt/stockage/packages/f23/virtualplanet/vpa/language/vpa.ca.po | 
+ | [hu](/f23/language/hu) | 344 | 438 | 78.5 | /mnt/stockage/packages/f23/virtualplanet/vpa/language/vpa.hu.po | 
+ | [nl](/f23/language/nl) | 344 | 438 | 78.5 | /mnt/stockage/packages/f23/virtualplanet/vpa/language/vpa.nl.po | 
+ | [es](/f23/language/es) | 343 | 438 | 78.3 | /mnt/stockage/packages/f23/virtualplanet/vpa/language/vpa.es.po | 
+ | [sk](/f23/language/sk) | 342 | 438 | 78.1 | /mnt/stockage/packages/f23/virtualplanet/vpa/language/vpa.sk.po | 
+ | [lt](/f23/language/lt) | 341 | 438 | 77.9 | /mnt/stockage/packages/f23/virtualplanet/vpa/language/vpa.lt.po | 
+ | [cs](/f23/language/cs) | 308 | 438 | 70.3 | /mnt/stockage/packages/f23/virtualplanet/vpa/language/vpa.cs.po | 
+ | [fr](/f23/language/fr) | 824 | 1314 | 62.7 | /mnt/stockage/packages/f23/virtualplanet/vpa/language/vpa.de.po/mnt/stockage/packages/f23/virtualplanet/vpa/language/vpa.en.po/mnt/stockage/packages/f23/virtualplanet/vpa/language/vpa.fr.po | 
 {.sortable}
 
 

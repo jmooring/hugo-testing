@@ -18,25 +18,25 @@ The package gretl (version 2023b):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [el]({{< ref "/f37/language/el.md" >}}) | 19693 | 19693 | 100.0 | /mnt/stockage/packages/f37/gretl/po/el.po | 
- | [gl]({{< ref "/f37/language/gl.md" >}}) | 19693 | 19693 | 100.0 | /mnt/stockage/packages/f37/gretl/po/gl.po | 
- | [ru]({{< ref "/f37/language/ru.md" >}}) | 19693 | 19693 | 100.0 | /mnt/stockage/packages/f37/gretl/po/ru.po | 
- | [pt]({{< ref "/f37/language/pt.md" >}}) | 39374 | 39386 | 100.0 | /mnt/stockage/packages/f37/gretl/po/pt_BR.po/mnt/stockage/packages/f37/gretl/po/pt.po | 
- | [de]({{< ref "/f37/language/de.md" >}}) | 19666 | 19693 | 99.9 | /mnt/stockage/packages/f37/gretl/po/de.po | 
- | [it]({{< ref "/f37/language/it.md" >}}) | 17313 | 19693 | 87.9 | /mnt/stockage/packages/f37/gretl/po/it.po | 
- | [pl]({{< ref "/f37/language/pl.md" >}}) | 17310 | 19693 | 87.9 | /mnt/stockage/packages/f37/gretl/po/pl.po | 
- | [tr]({{< ref "/f37/language/tr.md" >}}) | 17145 | 19693 | 87.1 | /mnt/stockage/packages/f37/gretl/po/tr.po | 
- | [fr]({{< ref "/f37/language/fr.md" >}}) | 17133 | 19693 | 87.0 | /mnt/stockage/packages/f37/gretl/po/fr.po | 
- | [sq]({{< ref "/f37/language/sq.md" >}}) | 16445 | 19693 | 83.5 | /mnt/stockage/packages/f37/gretl/po/sq.po | 
- | [uk]({{< ref "/f37/language/uk.md" >}}) | 15142 | 19693 | 76.9 | /mnt/stockage/packages/f37/gretl/po/uk.po | 
- | [es]({{< ref "/f37/language/es.md" >}}) | 44306 | 59079 | 75.0 | /mnt/stockage/packages/f37/gretl/po/es.po/mnt/stockage/packages/f37/gretl/po/cs.po/mnt/stockage/packages/f37/gretl/po/ca.po | 
- | [bg]({{< ref "/f37/language/bg.md" >}}) | 14330 | 19693 | 72.8 | /mnt/stockage/packages/f37/gretl/po/bg.po | 
- | [ja]({{< ref "/f37/language/ja.md" >}}) | 14031 | 19693 | 71.2 | /mnt/stockage/packages/f37/gretl/po/ja.po | 
- | [eu]({{< ref "/f37/language/eu.md" >}}) | 12683 | 19693 | 64.4 | /mnt/stockage/packages/f37/gretl/po/eu.po | 
- | [zh_Hant]({{< ref "/f37/language/zh_Hant.md" >}}) | 12467 | 19693 | 63.3 | /mnt/stockage/packages/f37/gretl/po/zh_TW.po | 
- | [zh_Hans]({{< ref "/f37/language/zh_Hans.md" >}}) | 12080 | 19693 | 61.3 | /mnt/stockage/packages/f37/gretl/po/zh_CN.po | 
- | [ro]({{< ref "/f37/language/ro.md" >}}) | 6551 | 19693 | 33.3 | /mnt/stockage/packages/f37/gretl/po/ro.po | 
- | [rw]({{< ref "/f37/language/rw.md" >}}) | 85 | 12610 | 0.7 | /mnt/stockage/packages/f37/gretl/po/rw.po | 
+ | [el](/f37/language/el) | 19693 | 19693 | 100.0 | /mnt/stockage/packages/f37/gretl/po/el.po | 
+ | [gl](/f37/language/gl) | 19693 | 19693 | 100.0 | /mnt/stockage/packages/f37/gretl/po/gl.po | 
+ | [ru](/f37/language/ru) | 19693 | 19693 | 100.0 | /mnt/stockage/packages/f37/gretl/po/ru.po | 
+ | [pt](/f37/language/pt) | 39374 | 39386 | 100.0 | /mnt/stockage/packages/f37/gretl/po/pt_BR.po/mnt/stockage/packages/f37/gretl/po/pt.po | 
+ | [de](/f37/language/de) | 19666 | 19693 | 99.9 | /mnt/stockage/packages/f37/gretl/po/de.po | 
+ | [it](/f37/language/it) | 17313 | 19693 | 87.9 | /mnt/stockage/packages/f37/gretl/po/it.po | 
+ | [pl](/f37/language/pl) | 17310 | 19693 | 87.9 | /mnt/stockage/packages/f37/gretl/po/pl.po | 
+ | [tr](/f37/language/tr) | 17145 | 19693 | 87.1 | /mnt/stockage/packages/f37/gretl/po/tr.po | 
+ | [fr](/f37/language/fr) | 17133 | 19693 | 87.0 | /mnt/stockage/packages/f37/gretl/po/fr.po | 
+ | [sq](/f37/language/sq) | 16445 | 19693 | 83.5 | /mnt/stockage/packages/f37/gretl/po/sq.po | 
+ | [uk](/f37/language/uk) | 15142 | 19693 | 76.9 | /mnt/stockage/packages/f37/gretl/po/uk.po | 
+ | [es](/f37/language/es) | 44306 | 59079 | 75.0 | /mnt/stockage/packages/f37/gretl/po/es.po/mnt/stockage/packages/f37/gretl/po/cs.po/mnt/stockage/packages/f37/gretl/po/ca.po | 
+ | [bg](/f37/language/bg) | 14330 | 19693 | 72.8 | /mnt/stockage/packages/f37/gretl/po/bg.po | 
+ | [ja](/f37/language/ja) | 14031 | 19693 | 71.2 | /mnt/stockage/packages/f37/gretl/po/ja.po | 
+ | [eu](/f37/language/eu) | 12683 | 19693 | 64.4 | /mnt/stockage/packages/f37/gretl/po/eu.po | 
+ | [zh_Hant](/f37/language/zh_Hant) | 12467 | 19693 | 63.3 | /mnt/stockage/packages/f37/gretl/po/zh_TW.po | 
+ | [zh_Hans](/f37/language/zh_Hans) | 12080 | 19693 | 61.3 | /mnt/stockage/packages/f37/gretl/po/zh_CN.po | 
+ | [ro](/f37/language/ro) | 6551 | 19693 | 33.3 | /mnt/stockage/packages/f37/gretl/po/ro.po | 
+ | [rw](/f37/language/rw) | 85 | 12610 | 0.7 | /mnt/stockage/packages/f37/gretl/po/rw.po | 
 {.sortable}
 
 

@@ -18,10 +18,10 @@ The package printrun (version 2013.10.19):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f18/language/de.md" >}}) | 566 | 566 | 100.0 | /mnt/stockage/packages/f18/printrun/locale/de/LC_MESSAGES/plater.po/mnt/stockage/packages/f18/printrun/locale/de/LC_MESSAGES/pronterface.po | 
- | [it]({{< ref "/f18/language/it.md" >}}) | 566 | 566 | 100.0 | /mnt/stockage/packages/f18/printrun/locale/it/LC_MESSAGES/plater.po/mnt/stockage/packages/f18/printrun/locale/it/LC_MESSAGES/pronterface.po | 
- | [nl]({{< ref "/f18/language/nl.md" >}}) | 326 | 504 | 64.7 | /mnt/stockage/packages/f18/printrun/locale/nl/LC_MESSAGES/nl.po | 
- | [fr]({{< ref "/f18/language/fr.md" >}}) | 1098 | 1718 | 63.9 | /mnt/stockage/packages/f18/printrun/locale/fr/LC_MESSAGES/plater.po/mnt/stockage/packages/f18/printrun/locale/fr/LC_MESSAGES/pronterface.po | 
+ | [de](/f18/language/de) | 566 | 566 | 100.0 | /mnt/stockage/packages/f18/printrun/locale/de/LC_MESSAGES/plater.po/mnt/stockage/packages/f18/printrun/locale/de/LC_MESSAGES/pronterface.po | 
+ | [it](/f18/language/it) | 566 | 566 | 100.0 | /mnt/stockage/packages/f18/printrun/locale/it/LC_MESSAGES/plater.po/mnt/stockage/packages/f18/printrun/locale/it/LC_MESSAGES/pronterface.po | 
+ | [nl](/f18/language/nl) | 326 | 504 | 64.7 | /mnt/stockage/packages/f18/printrun/locale/nl/LC_MESSAGES/nl.po | 
+ | [fr](/f18/language/fr) | 1098 | 1718 | 63.9 | /mnt/stockage/packages/f18/printrun/locale/fr/LC_MESSAGES/plater.po/mnt/stockage/packages/f18/printrun/locale/fr/LC_MESSAGES/pronterface.po | 
 {.sortable}
 
 

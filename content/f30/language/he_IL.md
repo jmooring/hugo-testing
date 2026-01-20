@@ -38,27 +38,27 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [boost]({{< ref "/f30/package/boost.md" >}}) | 1 | 1 | 100.0 |  | 
- | [ceph]({{< ref "/f30/package/ceph.md" >}}) | 1 | 1 | 100.0 |  | 
- | [libpq]({{< ref "/f30/package/libpq.md" >}}) | 1727 | 1727 | 100.0 |  | 
- | [mingw-boost]({{< ref "/f30/package/mingw-boost.md" >}}) | 1 | 1 | 100.0 |  | 
- | [poedit]({{< ref "/f30/package/poedit.md" >}}) | 2813 | 2813 | 100.0 | Hebrew | 
- | [python-django-countries]({{< ref "/f30/package/python-django-countries.md" >}}) | 442 | 442 | 100.0 | Hebrew (Israel) (http://www.transifex.com/smileychris/django-countries/language/he_IL/) | 
- | [libecpg]({{< ref "/f30/package/libecpg.md" >}}) | 9124 | 9143 | 99.8 |  | 
- | [mingw-postgresql]({{< ref "/f30/package/mingw-postgresql.md" >}}) | 9124 | 9143 | 99.8 |  | 
- | [postgresql]({{< ref "/f30/package/postgresql.md" >}}) | 9124 | 9143 | 99.8 |  | 
- | [python-flask-admin]({{< ref "/f30/package/python-flask-admin.md" >}}) | 320 | 367 | 87.2 | Hebrew | 
- | [coolreader]({{< ref "/f30/package/coolreader.md" >}}) | 545 | 701 | 77.7 | Hebrew | 
- | [glpi]({{< ref "/f30/package/glpi.md" >}}) | 7018 | 14162 | 49.6 | Hebrew (Israel) (https://www.transifex.com/glpi/teams/1637/he_IL/) | 
- | [squirrelmail]({{< ref "/f30/package/squirrelmail.md" >}}) | 2440 | 6878 | 35.5 | HEBREW <squirrelmail-i18n@lists.sourceforge.net> | 
- | [smb4k]({{< ref "/f30/package/smb4k.md" >}}) | 11 | 32 | 34.4 | Hebrew <kde-i18n-doc@kde.org> | 
- | [wxPython]({{< ref "/f30/package/wxPython.md" >}}) | 360 | 2457 | 14.7 | Hebrew <he@li.org> | 
- | [cacti]({{< ref "/f30/package/cacti.md" >}}) | 879 | 28465 | 3.1 |  | 
- | [clementine]({{< ref "/f30/package/clementine.md" >}}) | 0 | 5127 | 0.0 | Hebrew (Israel) (http://www.transifex.com/davidsansome/clementine/language/he_IL/) | 
- | [publican-fedora]({{< ref "/f30/package/publican-fedora.md" >}}) | 0 | 1 | 0.0 | None | 
- | [python-django-helpdesk]({{< ref "/f30/package/python-django-helpdesk.md" >}}) | 0 | 3241 | 0.0 | Hebrew (Israel) (http://www.transifex.com/rossp/django-helpdesk/language/he_IL/) | 
- | [python-django-rest-framework]({{< ref "/f30/package/python-django-rest-framework.md" >}}) | 0 | 582 | 0.0 | Hebrew (Israel) (http://www.transifex.com/django-rest-framework-1/django-rest-framework/language/he_IL/) | 
- | [visualboyadvance-m]({{< ref "/f30/package/visualboyadvance-m.md" >}}) | 0 | 2393 | 0.0 | Hebrew (Israel) (http://www.transifex.com/bgk/vba-m/language/he_IL/) | 
+ | [boost](/f30/package/boost) | 1 | 1 | 100.0 |  | 
+ | [ceph](/f30/package/ceph) | 1 | 1 | 100.0 |  | 
+ | [libpq](/f30/package/libpq) | 1727 | 1727 | 100.0 |  | 
+ | [mingw-boost](/f30/package/mingw-boost) | 1 | 1 | 100.0 |  | 
+ | [poedit](/f30/package/poedit) | 2813 | 2813 | 100.0 | Hebrew | 
+ | [python-django-countries](/f30/package/python-django-countries) | 442 | 442 | 100.0 | Hebrew (Israel) (http://www.transifex.com/smileychris/django-countries/language/he_IL/) | 
+ | [libecpg](/f30/package/libecpg) | 9124 | 9143 | 99.8 |  | 
+ | [mingw-postgresql](/f30/package/mingw-postgresql) | 9124 | 9143 | 99.8 |  | 
+ | [postgresql](/f30/package/postgresql) | 9124 | 9143 | 99.8 |  | 
+ | [python-flask-admin](/f30/package/python-flask-admin) | 320 | 367 | 87.2 | Hebrew | 
+ | [coolreader](/f30/package/coolreader) | 545 | 701 | 77.7 | Hebrew | 
+ | [glpi](/f30/package/glpi) | 7018 | 14162 | 49.6 | Hebrew (Israel) (https://www.transifex.com/glpi/teams/1637/he_IL/) | 
+ | [squirrelmail](/f30/package/squirrelmail) | 2440 | 6878 | 35.5 | HEBREW <squirrelmail-i18n@lists.sourceforge.net> | 
+ | [smb4k](/f30/package/smb4k) | 11 | 32 | 34.4 | Hebrew <kde-i18n-doc@kde.org> | 
+ | [wxPython](/f30/package/wxPython) | 360 | 2457 | 14.7 | Hebrew <he@li.org> | 
+ | [cacti](/f30/package/cacti) | 879 | 28465 | 3.1 |  | 
+ | [clementine](/f30/package/clementine) | 0 | 5127 | 0.0 | Hebrew (Israel) (http://www.transifex.com/davidsansome/clementine/language/he_IL/) | 
+ | [publican-fedora](/f30/package/publican-fedora) | 0 | 1 | 0.0 | None | 
+ | [python-django-helpdesk](/f30/package/python-django-helpdesk) | 0 | 3241 | 0.0 | Hebrew (Israel) (http://www.transifex.com/rossp/django-helpdesk/language/he_IL/) | 
+ | [python-django-rest-framework](/f30/package/python-django-rest-framework) | 0 | 582 | 0.0 | Hebrew (Israel) (http://www.transifex.com/django-rest-framework-1/django-rest-framework/language/he_IL/) | 
+ | [visualboyadvance-m](/f30/package/visualboyadvance-m) | 0 | 2393 | 0.0 | Hebrew (Israel) (http://www.transifex.com/bgk/vba-m/language/he_IL/) | 
 {.sortable}
 
 

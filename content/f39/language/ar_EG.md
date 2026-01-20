@@ -38,14 +38,14 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [sequeler]({{< ref "/f39/package/sequeler.md" >}}) | 406 | 406 | 100.0 | Arabic (Egypt) <https://hosted.weblate.org/projects/sequeler/translations/ar_EG/> | 
- | [xed]({{< ref "/f39/package/xed.md" >}}) | 3751 | 3759 | 99.8 | anwar AL_iskandrany <anwareleskndrany13@gmail.com> | 
- | [xreader]({{< ref "/f39/package/xreader.md" >}}) | 1620 | 1625 | 99.7 | anwar AL_iskandrany <anwareleskndrany13@gmail.com> | 
- | [slick-greeter]({{< ref "/f39/package/slick-greeter.md" >}}) | 213 | 216 | 98.6 | anwar AL_iskandrany <anwareleskndrany13@gmail.com> | 
- | [timeshift]({{< ref "/f39/package/timeshift.md" >}}) | 2630 | 2870 | 91.6 | anwar AL_iskandrany <anwareleskndrany13@gmail.com> | 
- | [cinnamon-translations]({{< ref "/f39/package/cinnamon-translations.md" >}}) | 21079 | 23673 | 89.0 | انور الاسكندرانى <anwareleskndrany13@gmail.com> | 
- | [lightdm-settings]({{< ref "/f39/package/lightdm-settings.md" >}}) | 308 | 355 | 86.8 | anwar AL_iskandrany <anwar eleskndrany13@gmail.com> | 
- | [folder-color-switcher]({{< ref "/f39/package/folder-color-switcher.md" >}}) | 51 | 65 | 78.5 | anwar AL_iskandrany <anwareleskndrany13@gmail.com> | 
+ | [sequeler](/f39/package/sequeler) | 406 | 406 | 100.0 | Arabic (Egypt) <https://hosted.weblate.org/projects/sequeler/translations/ar_EG/> | 
+ | [xed](/f39/package/xed) | 3751 | 3759 | 99.8 | anwar AL_iskandrany <anwareleskndrany13@gmail.com> | 
+ | [xreader](/f39/package/xreader) | 1620 | 1625 | 99.7 | anwar AL_iskandrany <anwareleskndrany13@gmail.com> | 
+ | [slick-greeter](/f39/package/slick-greeter) | 213 | 216 | 98.6 | anwar AL_iskandrany <anwareleskndrany13@gmail.com> | 
+ | [timeshift](/f39/package/timeshift) | 2630 | 2870 | 91.6 | anwar AL_iskandrany <anwareleskndrany13@gmail.com> | 
+ | [cinnamon-translations](/f39/package/cinnamon-translations) | 21079 | 23673 | 89.0 | انور الاسكندرانى <anwareleskndrany13@gmail.com> | 
+ | [lightdm-settings](/f39/package/lightdm-settings) | 308 | 355 | 86.8 | anwar AL_iskandrany <anwar eleskndrany13@gmail.com> | 
+ | [folder-color-switcher](/f39/package/folder-color-switcher) | 51 | 65 | 78.5 | anwar AL_iskandrany <anwareleskndrany13@gmail.com> | 
 {.sortable}
 
 

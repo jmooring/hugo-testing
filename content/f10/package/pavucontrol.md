@@ -18,12 +18,12 @@ The package pavucontrol (version 0.9.7):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f10/language/de.md" >}}) | 184 | 184 | 100.0 | /mnt/stockage/packages/f10/pavucontrol/po/de.po | 
- | [fr]({{< ref "/f10/language/fr.md" >}}) | 184 | 184 | 100.0 | /mnt/stockage/packages/f10/pavucontrol/po/fr.po | 
- | [hu]({{< ref "/f10/language/hu.md" >}}) | 184 | 184 | 100.0 | /mnt/stockage/packages/f10/pavucontrol/po/hu.po | 
- | [pl]({{< ref "/f10/language/pl.md" >}}) | 184 | 184 | 100.0 | /mnt/stockage/packages/f10/pavucontrol/po/pl.po | 
- | [sv]({{< ref "/f10/language/sv.md" >}}) | 184 | 184 | 100.0 | /mnt/stockage/packages/f10/pavucontrol/po/sv.po | 
- | [el]({{< ref "/f10/language/el.md" >}}) | 6 | 184 | 3.3 | /mnt/stockage/packages/f10/pavucontrol/po/el.po | 
+ | [de](/f10/language/de) | 184 | 184 | 100.0 | /mnt/stockage/packages/f10/pavucontrol/po/de.po | 
+ | [fr](/f10/language/fr) | 184 | 184 | 100.0 | /mnt/stockage/packages/f10/pavucontrol/po/fr.po | 
+ | [hu](/f10/language/hu) | 184 | 184 | 100.0 | /mnt/stockage/packages/f10/pavucontrol/po/hu.po | 
+ | [pl](/f10/language/pl) | 184 | 184 | 100.0 | /mnt/stockage/packages/f10/pavucontrol/po/pl.po | 
+ | [sv](/f10/language/sv) | 184 | 184 | 100.0 | /mnt/stockage/packages/f10/pavucontrol/po/sv.po | 
+ | [el](/f10/language/el) | 6 | 184 | 3.3 | /mnt/stockage/packages/f10/pavucontrol/po/el.po | 
 {.sortable}
 
 

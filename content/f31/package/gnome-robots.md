@@ -18,94 +18,94 @@ The package gnome-robots (version 3.34.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [be]({{< ref "/f31/language/be.md" >}}) | 597 | 597 | 100.0 | /mnt/stockage/packages/f31/gnome-robots/po/be.po | 
- | [bg]({{< ref "/f31/language/bg.md" >}}) | 597 | 597 | 100.0 | /mnt/stockage/packages/f31/gnome-robots/po/bg.po | 
- | [bs]({{< ref "/f31/language/bs.md" >}}) | 629 | 629 | 100.0 | /mnt/stockage/packages/f31/gnome-robots/po/bs.po | 
- | [ca]({{< ref "/f31/language/ca.md" >}}) | 1692 | 1692 | 100.0 | /mnt/stockage/packages/f31/gnome-robots/help/ca/ca.po/mnt/stockage/packages/f31/gnome-robots/po/ca.po | 
- | [ca@valencia]({{< ref "/f31/language/ca@valencia.md" >}}) | 597 | 597 | 100.0 | /mnt/stockage/packages/f31/gnome-robots/po/ca@valencia.po | 
- | [cs]({{< ref "/f31/language/cs.md" >}}) | 1692 | 1692 | 100.0 | /mnt/stockage/packages/f31/gnome-robots/help/cs/cs.po/mnt/stockage/packages/f31/gnome-robots/po/cs.po | 
- | [da]({{< ref "/f31/language/da.md" >}}) | 597 | 597 | 100.0 | /mnt/stockage/packages/f31/gnome-robots/po/da.po | 
- | [de]({{< ref "/f31/language/de.md" >}}) | 1692 | 1692 | 100.0 | /mnt/stockage/packages/f31/gnome-robots/help/de/de.po/mnt/stockage/packages/f31/gnome-robots/po/de.po | 
- | [el]({{< ref "/f31/language/el.md" >}}) | 1692 | 1692 | 100.0 | /mnt/stockage/packages/f31/gnome-robots/help/el/el.po/mnt/stockage/packages/f31/gnome-robots/po/el.po | 
- | [en_GB]({{< ref "/f31/language/en_GB.md" >}}) | 597 | 597 | 100.0 | /mnt/stockage/packages/f31/gnome-robots/po/en_GB.po | 
- | [eo]({{< ref "/f31/language/eo.md" >}}) | 600 | 600 | 100.0 | /mnt/stockage/packages/f31/gnome-robots/po/eo.po | 
- | [es]({{< ref "/f31/language/es.md" >}}) | 1692 | 1692 | 100.0 | /mnt/stockage/packages/f31/gnome-robots/help/es/es.po/mnt/stockage/packages/f31/gnome-robots/po/es.po | 
- | [et]({{< ref "/f31/language/et.md" >}}) | 823 | 823 | 100.0 | /mnt/stockage/packages/f31/gnome-robots/po/et.po | 
- | [eu]({{< ref "/f31/language/eu.md" >}}) | 597 | 597 | 100.0 | /mnt/stockage/packages/f31/gnome-robots/po/eu.po | 
- | [fa]({{< ref "/f31/language/fa.md" >}}) | 597 | 597 | 100.0 | /mnt/stockage/packages/f31/gnome-robots/po/fa.po | 
- | [fi]({{< ref "/f31/language/fi.md" >}}) | 600 | 600 | 100.0 | /mnt/stockage/packages/f31/gnome-robots/po/fi.po | 
- | [fr]({{< ref "/f31/language/fr.md" >}}) | 1692 | 1692 | 100.0 | /mnt/stockage/packages/f31/gnome-robots/help/fr/fr.po/mnt/stockage/packages/f31/gnome-robots/po/fr.po | 
- | [fur]({{< ref "/f31/language/fur.md" >}}) | 600 | 600 | 100.0 | /mnt/stockage/packages/f31/gnome-robots/po/fur.po | 
- | [gl]({{< ref "/f31/language/gl.md" >}}) | 600 | 600 | 100.0 | /mnt/stockage/packages/f31/gnome-robots/po/gl.po | 
- | [he]({{< ref "/f31/language/he.md" >}}) | 597 | 597 | 100.0 | /mnt/stockage/packages/f31/gnome-robots/po/he.po | 
- | [hi]({{< ref "/f31/language/hi.md" >}}) | 823 | 823 | 100.0 | /mnt/stockage/packages/f31/gnome-robots/po/hi.po | 
- | [hr]({{< ref "/f31/language/hr.md" >}}) | 600 | 600 | 100.0 | /mnt/stockage/packages/f31/gnome-robots/po/hr.po | 
- | [hu]({{< ref "/f31/language/hu.md" >}}) | 1692 | 1692 | 100.0 | /mnt/stockage/packages/f31/gnome-robots/help/hu/hu.po/mnt/stockage/packages/f31/gnome-robots/po/hu.po | 
- | [id]({{< ref "/f31/language/id.md" >}}) | 597 | 597 | 100.0 | /mnt/stockage/packages/f31/gnome-robots/po/id.po | 
- | [is]({{< ref "/f31/language/is.md" >}}) | 597 | 597 | 100.0 | /mnt/stockage/packages/f31/gnome-robots/po/is.po | 
- | [it]({{< ref "/f31/language/it.md" >}}) | 600 | 600 | 100.0 | /mnt/stockage/packages/f31/gnome-robots/po/it.po | 
- | [ja]({{< ref "/f31/language/ja.md" >}}) | 597 | 597 | 100.0 | /mnt/stockage/packages/f31/gnome-robots/po/ja.po | 
- | [ko]({{< ref "/f31/language/ko.md" >}}) | 597 | 597 | 100.0 | /mnt/stockage/packages/f31/gnome-robots/po/ko.po | 
- | [lt]({{< ref "/f31/language/lt.md" >}}) | 600 | 600 | 100.0 | /mnt/stockage/packages/f31/gnome-robots/po/lt.po | 
- | [lv]({{< ref "/f31/language/lv.md" >}}) | 600 | 600 | 100.0 | /mnt/stockage/packages/f31/gnome-robots/po/lv.po | 
- | [nb_NO]({{< ref "/f31/language/nb_NO.md" >}}) | 597 | 597 | 100.0 | /mnt/stockage/packages/f31/gnome-robots/po/nb.po | 
- | [nl]({{< ref "/f31/language/nl.md" >}}) | 600 | 600 | 100.0 | /mnt/stockage/packages/f31/gnome-robots/po/nl.po | 
- | [oc]({{< ref "/f31/language/oc.md" >}}) | 594 | 594 | 100.0 | /mnt/stockage/packages/f31/gnome-robots/po/oc.po | 
- | [pl]({{< ref "/f31/language/pl.md" >}}) | 1692 | 1692 | 100.0 | /mnt/stockage/packages/f31/gnome-robots/help/pl/pl.po/mnt/stockage/packages/f31/gnome-robots/po/pl.po | 
- | [pt]({{< ref "/f31/language/pt.md" >}}) | 597 | 597 | 100.0 | /mnt/stockage/packages/f31/gnome-robots/po/pt.po | 
- | [pt_BR]({{< ref "/f31/language/pt_BR.md" >}}) | 1689 | 1689 | 100.0 | /mnt/stockage/packages/f31/gnome-robots/help/pt_BR/pt_BR.po/mnt/stockage/packages/f31/gnome-robots/po/pt_BR.po | 
- | [ro]({{< ref "/f31/language/ro.md" >}}) | 600 | 600 | 100.0 | /mnt/stockage/packages/f31/gnome-robots/po/ro.po | 
- | [ru]({{< ref "/f31/language/ru.md" >}}) | 597 | 597 | 100.0 | /mnt/stockage/packages/f31/gnome-robots/po/ru.po | 
- | [sk]({{< ref "/f31/language/sk.md" >}}) | 597 | 597 | 100.0 | /mnt/stockage/packages/f31/gnome-robots/po/sk.po | 
- | [sl]({{< ref "/f31/language/sl.md" >}}) | 600 | 600 | 100.0 | /mnt/stockage/packages/f31/gnome-robots/po/sl.po | 
- | [sr]({{< ref "/f31/language/sr.md" >}}) | 1197 | 1197 | 100.0 | /mnt/stockage/packages/f31/gnome-robots/po/sr@latin.po/mnt/stockage/packages/f31/gnome-robots/po/sr.po | 
- | [sv]({{< ref "/f31/language/sv.md" >}}) | 1692 | 1692 | 100.0 | /mnt/stockage/packages/f31/gnome-robots/help/sv/sv.po/mnt/stockage/packages/f31/gnome-robots/po/sv.po | 
- | [ta]({{< ref "/f31/language/ta.md" >}}) | 823 | 823 | 100.0 | /mnt/stockage/packages/f31/gnome-robots/po/ta.po | 
- | [tr]({{< ref "/f31/language/tr.md" >}}) | 600 | 600 | 100.0 | /mnt/stockage/packages/f31/gnome-robots/po/tr.po | 
- | [uk]({{< ref "/f31/language/uk.md" >}}) | 597 | 597 | 100.0 | /mnt/stockage/packages/f31/gnome-robots/po/uk.po | 
- | [zh_Hans]({{< ref "/f31/language/zh_Hans.md" >}}) | 597 | 597 | 100.0 | /mnt/stockage/packages/f31/gnome-robots/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f31/language/zh_Hant.md" >}}) | 600 | 600 | 100.0 | /mnt/stockage/packages/f31/gnome-robots/po/zh_TW.po | 
- | [zh_Hant_HK]({{< ref "/f31/language/zh_Hant_HK.md" >}}) | 636 | 636 | 100.0 | /mnt/stockage/packages/f31/gnome-robots/po/zh_HK.po | 
- | [ug]({{< ref "/f31/language/ug.md" >}}) | 822 | 823 | 99.9 | /mnt/stockage/packages/f31/gnome-robots/po/ug.po | 
- | [ml]({{< ref "/f31/language/ml.md" >}}) | 742 | 823 | 90.2 | /mnt/stockage/packages/f31/gnome-robots/po/ml.po | 
- | [pa]({{< ref "/f31/language/pa.md" >}}) | 458 | 597 | 76.7 | /mnt/stockage/packages/f31/gnome-robots/po/pa.po | 
- | [th]({{< ref "/f31/language/th.md" >}}) | 458 | 597 | 76.7 | /mnt/stockage/packages/f31/gnome-robots/po/th.po | 
- | [km]({{< ref "/f31/language/km.md" >}}) | 456 | 597 | 76.4 | /mnt/stockage/packages/f31/gnome-robots/po/km.po | 
- | [vi]({{< ref "/f31/language/vi.md" >}}) | 446 | 597 | 74.7 | /mnt/stockage/packages/f31/gnome-robots/po/vi.po | 
- | [te]({{< ref "/f31/language/te.md" >}}) | 440 | 597 | 73.7 | /mnt/stockage/packages/f31/gnome-robots/po/te.po | 
- | [en_CA]({{< ref "/f31/language/en_CA.md" >}}) | 435 | 597 | 72.9 | /mnt/stockage/packages/f31/gnome-robots/po/en_CA.po | 
- | [ar]({{< ref "/f31/language/ar.md" >}}) | 434 | 597 | 72.7 | /mnt/stockage/packages/f31/gnome-robots/po/ar.po | 
- | [dz]({{< ref "/f31/language/dz.md" >}}) | 386 | 597 | 64.7 | /mnt/stockage/packages/f31/gnome-robots/po/dz.po | 
- | [af]({{< ref "/f31/language/af.md" >}}) | 384 | 597 | 64.3 | /mnt/stockage/packages/f31/gnome-robots/po/af.po | 
- | [as]({{< ref "/f31/language/as.md" >}}) | 384 | 597 | 64.3 | /mnt/stockage/packages/f31/gnome-robots/po/as.po | 
- | [bn]({{< ref "/f31/language/bn.md" >}}) | 384 | 597 | 64.3 | /mnt/stockage/packages/f31/gnome-robots/po/bn.po | 
- | [bn_IN]({{< ref "/f31/language/bn_IN.md" >}}) | 384 | 597 | 64.3 | /mnt/stockage/packages/f31/gnome-robots/po/bn_IN.po | 
- | [gu]({{< ref "/f31/language/gu.md" >}}) | 384 | 597 | 64.3 | /mnt/stockage/packages/f31/gnome-robots/po/gu.po | 
- | [kn]({{< ref "/f31/language/kn.md" >}}) | 384 | 597 | 64.3 | /mnt/stockage/packages/f31/gnome-robots/po/kn.po | 
- | [mk]({{< ref "/f31/language/mk.md" >}}) | 384 | 597 | 64.3 | /mnt/stockage/packages/f31/gnome-robots/po/mk.po | 
- | [mr]({{< ref "/f31/language/mr.md" >}}) | 384 | 597 | 64.3 | /mnt/stockage/packages/f31/gnome-robots/po/mr.po | 
- | [ne]({{< ref "/f31/language/ne.md" >}}) | 384 | 597 | 64.3 | /mnt/stockage/packages/f31/gnome-robots/po/ne.po | 
- | [nn]({{< ref "/f31/language/nn.md" >}}) | 384 | 597 | 64.3 | /mnt/stockage/packages/f31/gnome-robots/po/nn.po | 
- | [or]({{< ref "/f31/language/or.md" >}}) | 384 | 597 | 64.3 | /mnt/stockage/packages/f31/gnome-robots/po/or.po | 
- | [ast]({{< ref "/f31/language/ast.md" >}}) | 382 | 597 | 64.0 | /mnt/stockage/packages/f31/gnome-robots/po/ast.po | 
- | [error]({{< ref "/f31/language/error.md" >}}) | 350 | 597 | 58.6 | /mnt/stockage/packages/f31/gnome-robots/po/en@shaw.po | 
- | [mai]({{< ref "/f31/language/mai.md" >}}) | 324 | 597 | 54.3 | /mnt/stockage/packages/f31/gnome-robots/po/mai.po | 
- | [cy]({{< ref "/f31/language/cy.md" >}}) | 323 | 597 | 54.1 | /mnt/stockage/packages/f31/gnome-robots/po/cy.po | 
- | [sq]({{< ref "/f31/language/sq.md" >}}) | 321 | 597 | 53.8 | /mnt/stockage/packages/f31/gnome-robots/po/sq.po | 
- | [xh]({{< ref "/f31/language/xh.md" >}}) | 250 | 597 | 41.9 | /mnt/stockage/packages/f31/gnome-robots/po/xh.po | 
- | [az]({{< ref "/f31/language/az.md" >}}) | 245 | 597 | 41.0 | /mnt/stockage/packages/f31/gnome-robots/po/az.po | 
- | [mn]({{< ref "/f31/language/mn.md" >}}) | 95 | 597 | 15.9 | /mnt/stockage/packages/f31/gnome-robots/po/mn.po | 
- | [ms]({{< ref "/f31/language/ms.md" >}}) | 64 | 597 | 10.7 | /mnt/stockage/packages/f31/gnome-robots/po/ms.po | 
- | [kk]({{< ref "/f31/language/kk.md" >}}) | 43 | 594 | 7.2 | /mnt/stockage/packages/f31/gnome-robots/po/kk.po | 
- | [si]({{< ref "/f31/language/si.md" >}}) | 43 | 597 | 7.2 | /mnt/stockage/packages/f31/gnome-robots/po/si.po | 
- | [br]({{< ref "/f31/language/br.md" >}}) | 28 | 597 | 4.7 | /mnt/stockage/packages/f31/gnome-robots/po/br.po | 
- | [tg]({{< ref "/f31/language/tg.md" >}}) | 35 | 823 | 4.3 | /mnt/stockage/packages/f31/gnome-robots/po/tg.po | 
- | [ga]({{< ref "/f31/language/ga.md" >}}) | 21 | 597 | 3.5 | /mnt/stockage/packages/f31/gnome-robots/po/ga.po | 
- | [ka]({{< ref "/f31/language/ka.md" >}}) | 20 | 597 | 3.4 | /mnt/stockage/packages/f31/gnome-robots/po/ka.po | 
- | [wa]({{< ref "/f31/language/wa.md" >}}) | 19 | 597 | 3.2 | /mnt/stockage/packages/f31/gnome-robots/po/wa.po | 
- | [rw]({{< ref "/f31/language/rw.md" >}}) | 5 | 597 | 0.8 | /mnt/stockage/packages/f31/gnome-robots/po/rw.po | 
- | [am]({{< ref "/f31/language/am.md" >}}) | 4 | 597 | 0.7 | /mnt/stockage/packages/f31/gnome-robots/po/am.po | 
- | [ku]({{< ref "/f31/language/ku.md" >}}) | 0 | 597 | 0.0 | /mnt/stockage/packages/f31/gnome-robots/po/ku.po | 
+ | [be](/f31/language/be) | 597 | 597 | 100.0 | /mnt/stockage/packages/f31/gnome-robots/po/be.po | 
+ | [bg](/f31/language/bg) | 597 | 597 | 100.0 | /mnt/stockage/packages/f31/gnome-robots/po/bg.po | 
+ | [bs](/f31/language/bs) | 629 | 629 | 100.0 | /mnt/stockage/packages/f31/gnome-robots/po/bs.po | 
+ | [ca](/f31/language/ca) | 1692 | 1692 | 100.0 | /mnt/stockage/packages/f31/gnome-robots/help/ca/ca.po/mnt/stockage/packages/f31/gnome-robots/po/ca.po | 
+ | [ca@valencia](/f31/language/ca@valencia) | 597 | 597 | 100.0 | /mnt/stockage/packages/f31/gnome-robots/po/ca@valencia.po | 
+ | [cs](/f31/language/cs) | 1692 | 1692 | 100.0 | /mnt/stockage/packages/f31/gnome-robots/help/cs/cs.po/mnt/stockage/packages/f31/gnome-robots/po/cs.po | 
+ | [da](/f31/language/da) | 597 | 597 | 100.0 | /mnt/stockage/packages/f31/gnome-robots/po/da.po | 
+ | [de](/f31/language/de) | 1692 | 1692 | 100.0 | /mnt/stockage/packages/f31/gnome-robots/help/de/de.po/mnt/stockage/packages/f31/gnome-robots/po/de.po | 
+ | [el](/f31/language/el) | 1692 | 1692 | 100.0 | /mnt/stockage/packages/f31/gnome-robots/help/el/el.po/mnt/stockage/packages/f31/gnome-robots/po/el.po | 
+ | [en_GB](/f31/language/en_GB) | 597 | 597 | 100.0 | /mnt/stockage/packages/f31/gnome-robots/po/en_GB.po | 
+ | [eo](/f31/language/eo) | 600 | 600 | 100.0 | /mnt/stockage/packages/f31/gnome-robots/po/eo.po | 
+ | [es](/f31/language/es) | 1692 | 1692 | 100.0 | /mnt/stockage/packages/f31/gnome-robots/help/es/es.po/mnt/stockage/packages/f31/gnome-robots/po/es.po | 
+ | [et](/f31/language/et) | 823 | 823 | 100.0 | /mnt/stockage/packages/f31/gnome-robots/po/et.po | 
+ | [eu](/f31/language/eu) | 597 | 597 | 100.0 | /mnt/stockage/packages/f31/gnome-robots/po/eu.po | 
+ | [fa](/f31/language/fa) | 597 | 597 | 100.0 | /mnt/stockage/packages/f31/gnome-robots/po/fa.po | 
+ | [fi](/f31/language/fi) | 600 | 600 | 100.0 | /mnt/stockage/packages/f31/gnome-robots/po/fi.po | 
+ | [fr](/f31/language/fr) | 1692 | 1692 | 100.0 | /mnt/stockage/packages/f31/gnome-robots/help/fr/fr.po/mnt/stockage/packages/f31/gnome-robots/po/fr.po | 
+ | [fur](/f31/language/fur) | 600 | 600 | 100.0 | /mnt/stockage/packages/f31/gnome-robots/po/fur.po | 
+ | [gl](/f31/language/gl) | 600 | 600 | 100.0 | /mnt/stockage/packages/f31/gnome-robots/po/gl.po | 
+ | [he](/f31/language/he) | 597 | 597 | 100.0 | /mnt/stockage/packages/f31/gnome-robots/po/he.po | 
+ | [hi](/f31/language/hi) | 823 | 823 | 100.0 | /mnt/stockage/packages/f31/gnome-robots/po/hi.po | 
+ | [hr](/f31/language/hr) | 600 | 600 | 100.0 | /mnt/stockage/packages/f31/gnome-robots/po/hr.po | 
+ | [hu](/f31/language/hu) | 1692 | 1692 | 100.0 | /mnt/stockage/packages/f31/gnome-robots/help/hu/hu.po/mnt/stockage/packages/f31/gnome-robots/po/hu.po | 
+ | [id](/f31/language/id) | 597 | 597 | 100.0 | /mnt/stockage/packages/f31/gnome-robots/po/id.po | 
+ | [is](/f31/language/is) | 597 | 597 | 100.0 | /mnt/stockage/packages/f31/gnome-robots/po/is.po | 
+ | [it](/f31/language/it) | 600 | 600 | 100.0 | /mnt/stockage/packages/f31/gnome-robots/po/it.po | 
+ | [ja](/f31/language/ja) | 597 | 597 | 100.0 | /mnt/stockage/packages/f31/gnome-robots/po/ja.po | 
+ | [ko](/f31/language/ko) | 597 | 597 | 100.0 | /mnt/stockage/packages/f31/gnome-robots/po/ko.po | 
+ | [lt](/f31/language/lt) | 600 | 600 | 100.0 | /mnt/stockage/packages/f31/gnome-robots/po/lt.po | 
+ | [lv](/f31/language/lv) | 600 | 600 | 100.0 | /mnt/stockage/packages/f31/gnome-robots/po/lv.po | 
+ | [nb_NO](/f31/language/nb_NO) | 597 | 597 | 100.0 | /mnt/stockage/packages/f31/gnome-robots/po/nb.po | 
+ | [nl](/f31/language/nl) | 600 | 600 | 100.0 | /mnt/stockage/packages/f31/gnome-robots/po/nl.po | 
+ | [oc](/f31/language/oc) | 594 | 594 | 100.0 | /mnt/stockage/packages/f31/gnome-robots/po/oc.po | 
+ | [pl](/f31/language/pl) | 1692 | 1692 | 100.0 | /mnt/stockage/packages/f31/gnome-robots/help/pl/pl.po/mnt/stockage/packages/f31/gnome-robots/po/pl.po | 
+ | [pt](/f31/language/pt) | 597 | 597 | 100.0 | /mnt/stockage/packages/f31/gnome-robots/po/pt.po | 
+ | [pt_BR](/f31/language/pt_BR) | 1689 | 1689 | 100.0 | /mnt/stockage/packages/f31/gnome-robots/help/pt_BR/pt_BR.po/mnt/stockage/packages/f31/gnome-robots/po/pt_BR.po | 
+ | [ro](/f31/language/ro) | 600 | 600 | 100.0 | /mnt/stockage/packages/f31/gnome-robots/po/ro.po | 
+ | [ru](/f31/language/ru) | 597 | 597 | 100.0 | /mnt/stockage/packages/f31/gnome-robots/po/ru.po | 
+ | [sk](/f31/language/sk) | 597 | 597 | 100.0 | /mnt/stockage/packages/f31/gnome-robots/po/sk.po | 
+ | [sl](/f31/language/sl) | 600 | 600 | 100.0 | /mnt/stockage/packages/f31/gnome-robots/po/sl.po | 
+ | [sr](/f31/language/sr) | 1197 | 1197 | 100.0 | /mnt/stockage/packages/f31/gnome-robots/po/sr@latin.po/mnt/stockage/packages/f31/gnome-robots/po/sr.po | 
+ | [sv](/f31/language/sv) | 1692 | 1692 | 100.0 | /mnt/stockage/packages/f31/gnome-robots/help/sv/sv.po/mnt/stockage/packages/f31/gnome-robots/po/sv.po | 
+ | [ta](/f31/language/ta) | 823 | 823 | 100.0 | /mnt/stockage/packages/f31/gnome-robots/po/ta.po | 
+ | [tr](/f31/language/tr) | 600 | 600 | 100.0 | /mnt/stockage/packages/f31/gnome-robots/po/tr.po | 
+ | [uk](/f31/language/uk) | 597 | 597 | 100.0 | /mnt/stockage/packages/f31/gnome-robots/po/uk.po | 
+ | [zh_Hans](/f31/language/zh_Hans) | 597 | 597 | 100.0 | /mnt/stockage/packages/f31/gnome-robots/po/zh_CN.po | 
+ | [zh_Hant](/f31/language/zh_Hant) | 600 | 600 | 100.0 | /mnt/stockage/packages/f31/gnome-robots/po/zh_TW.po | 
+ | [zh_Hant_HK](/f31/language/zh_Hant_HK) | 636 | 636 | 100.0 | /mnt/stockage/packages/f31/gnome-robots/po/zh_HK.po | 
+ | [ug](/f31/language/ug) | 822 | 823 | 99.9 | /mnt/stockage/packages/f31/gnome-robots/po/ug.po | 
+ | [ml](/f31/language/ml) | 742 | 823 | 90.2 | /mnt/stockage/packages/f31/gnome-robots/po/ml.po | 
+ | [pa](/f31/language/pa) | 458 | 597 | 76.7 | /mnt/stockage/packages/f31/gnome-robots/po/pa.po | 
+ | [th](/f31/language/th) | 458 | 597 | 76.7 | /mnt/stockage/packages/f31/gnome-robots/po/th.po | 
+ | [km](/f31/language/km) | 456 | 597 | 76.4 | /mnt/stockage/packages/f31/gnome-robots/po/km.po | 
+ | [vi](/f31/language/vi) | 446 | 597 | 74.7 | /mnt/stockage/packages/f31/gnome-robots/po/vi.po | 
+ | [te](/f31/language/te) | 440 | 597 | 73.7 | /mnt/stockage/packages/f31/gnome-robots/po/te.po | 
+ | [en_CA](/f31/language/en_CA) | 435 | 597 | 72.9 | /mnt/stockage/packages/f31/gnome-robots/po/en_CA.po | 
+ | [ar](/f31/language/ar) | 434 | 597 | 72.7 | /mnt/stockage/packages/f31/gnome-robots/po/ar.po | 
+ | [dz](/f31/language/dz) | 386 | 597 | 64.7 | /mnt/stockage/packages/f31/gnome-robots/po/dz.po | 
+ | [af](/f31/language/af) | 384 | 597 | 64.3 | /mnt/stockage/packages/f31/gnome-robots/po/af.po | 
+ | [as](/f31/language/as) | 384 | 597 | 64.3 | /mnt/stockage/packages/f31/gnome-robots/po/as.po | 
+ | [bn](/f31/language/bn) | 384 | 597 | 64.3 | /mnt/stockage/packages/f31/gnome-robots/po/bn.po | 
+ | [bn_IN](/f31/language/bn_IN) | 384 | 597 | 64.3 | /mnt/stockage/packages/f31/gnome-robots/po/bn_IN.po | 
+ | [gu](/f31/language/gu) | 384 | 597 | 64.3 | /mnt/stockage/packages/f31/gnome-robots/po/gu.po | 
+ | [kn](/f31/language/kn) | 384 | 597 | 64.3 | /mnt/stockage/packages/f31/gnome-robots/po/kn.po | 
+ | [mk](/f31/language/mk) | 384 | 597 | 64.3 | /mnt/stockage/packages/f31/gnome-robots/po/mk.po | 
+ | [mr](/f31/language/mr) | 384 | 597 | 64.3 | /mnt/stockage/packages/f31/gnome-robots/po/mr.po | 
+ | [ne](/f31/language/ne) | 384 | 597 | 64.3 | /mnt/stockage/packages/f31/gnome-robots/po/ne.po | 
+ | [nn](/f31/language/nn) | 384 | 597 | 64.3 | /mnt/stockage/packages/f31/gnome-robots/po/nn.po | 
+ | [or](/f31/language/or) | 384 | 597 | 64.3 | /mnt/stockage/packages/f31/gnome-robots/po/or.po | 
+ | [ast](/f31/language/ast) | 382 | 597 | 64.0 | /mnt/stockage/packages/f31/gnome-robots/po/ast.po | 
+ | [error](/f31/language/error) | 350 | 597 | 58.6 | /mnt/stockage/packages/f31/gnome-robots/po/en@shaw.po | 
+ | [mai](/f31/language/mai) | 324 | 597 | 54.3 | /mnt/stockage/packages/f31/gnome-robots/po/mai.po | 
+ | [cy](/f31/language/cy) | 323 | 597 | 54.1 | /mnt/stockage/packages/f31/gnome-robots/po/cy.po | 
+ | [sq](/f31/language/sq) | 321 | 597 | 53.8 | /mnt/stockage/packages/f31/gnome-robots/po/sq.po | 
+ | [xh](/f31/language/xh) | 250 | 597 | 41.9 | /mnt/stockage/packages/f31/gnome-robots/po/xh.po | 
+ | [az](/f31/language/az) | 245 | 597 | 41.0 | /mnt/stockage/packages/f31/gnome-robots/po/az.po | 
+ | [mn](/f31/language/mn) | 95 | 597 | 15.9 | /mnt/stockage/packages/f31/gnome-robots/po/mn.po | 
+ | [ms](/f31/language/ms) | 64 | 597 | 10.7 | /mnt/stockage/packages/f31/gnome-robots/po/ms.po | 
+ | [kk](/f31/language/kk) | 43 | 594 | 7.2 | /mnt/stockage/packages/f31/gnome-robots/po/kk.po | 
+ | [si](/f31/language/si) | 43 | 597 | 7.2 | /mnt/stockage/packages/f31/gnome-robots/po/si.po | 
+ | [br](/f31/language/br) | 28 | 597 | 4.7 | /mnt/stockage/packages/f31/gnome-robots/po/br.po | 
+ | [tg](/f31/language/tg) | 35 | 823 | 4.3 | /mnt/stockage/packages/f31/gnome-robots/po/tg.po | 
+ | [ga](/f31/language/ga) | 21 | 597 | 3.5 | /mnt/stockage/packages/f31/gnome-robots/po/ga.po | 
+ | [ka](/f31/language/ka) | 20 | 597 | 3.4 | /mnt/stockage/packages/f31/gnome-robots/po/ka.po | 
+ | [wa](/f31/language/wa) | 19 | 597 | 3.2 | /mnt/stockage/packages/f31/gnome-robots/po/wa.po | 
+ | [rw](/f31/language/rw) | 5 | 597 | 0.8 | /mnt/stockage/packages/f31/gnome-robots/po/rw.po | 
+ | [am](/f31/language/am) | 4 | 597 | 0.7 | /mnt/stockage/packages/f31/gnome-robots/po/am.po | 
+ | [ku](/f31/language/ku) | 0 | 597 | 0.0 | /mnt/stockage/packages/f31/gnome-robots/po/ku.po | 
 {.sortable}
 
 

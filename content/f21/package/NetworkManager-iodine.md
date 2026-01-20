@@ -18,10 +18,10 @@ The package NetworkManager-iodine (version 0.0.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [es]({{< ref "/f21/language/es.md" >}}) | 76 | 76 | 100.0 | /mnt/stockage/packages/f21/NetworkManager-iodine/po/es.po | 
- | [it]({{< ref "/f21/language/it.md" >}}) | 76 | 76 | 100.0 | /mnt/stockage/packages/f21/NetworkManager-iodine/po/it.po | 
- | [pl]({{< ref "/f21/language/pl.md" >}}) | 76 | 76 | 100.0 | /mnt/stockage/packages/f21/NetworkManager-iodine/po/pl.po | 
- | [sl]({{< ref "/f21/language/sl.md" >}}) | 9 | 76 | 11.8 | /mnt/stockage/packages/f21/NetworkManager-iodine/po/sl.po | 
+ | [es](/f21/language/es) | 76 | 76 | 100.0 | /mnt/stockage/packages/f21/NetworkManager-iodine/po/es.po | 
+ | [it](/f21/language/it) | 76 | 76 | 100.0 | /mnt/stockage/packages/f21/NetworkManager-iodine/po/it.po | 
+ | [pl](/f21/language/pl) | 76 | 76 | 100.0 | /mnt/stockage/packages/f21/NetworkManager-iodine/po/pl.po | 
+ | [sl](/f21/language/sl) | 9 | 76 | 11.8 | /mnt/stockage/packages/f21/NetworkManager-iodine/po/sl.po | 
 {.sortable}
 
 

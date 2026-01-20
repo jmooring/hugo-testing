@@ -18,13 +18,13 @@ The package virt-df (version 2.1.5):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f10/language/ca.md" >}}) | 102 | 105 | 97.1 | /mnt/stockage/packages/f10/virt-df/po/ca.po | 
- | [de]({{< ref "/f10/language/de.md" >}}) | 102 | 105 | 97.1 | /mnt/stockage/packages/f10/virt-df/po/de.po | 
- | [it]({{< ref "/f10/language/it.md" >}}) | 102 | 105 | 97.1 | /mnt/stockage/packages/f10/virt-df/po/it.po | 
- | [pl]({{< ref "/f10/language/pl.md" >}}) | 102 | 105 | 97.1 | /mnt/stockage/packages/f10/virt-df/po/pl.po | 
- | [pt_BR]({{< ref "/f10/language/pt_BR.md" >}}) | 102 | 105 | 97.1 | /mnt/stockage/packages/f10/virt-df/po/pt_BR.po | 
- | [zh_Hans]({{< ref "/f10/language/zh_Hans.md" >}}) | 102 | 105 | 97.1 | /mnt/stockage/packages/f10/virt-df/po/zh_CN.po | 
- | [ja]({{< ref "/f10/language/ja.md" >}}) | 0 | 105 | 0.0 | /mnt/stockage/packages/f10/virt-df/po/ja.po | 
+ | [ca](/f10/language/ca) | 102 | 105 | 97.1 | /mnt/stockage/packages/f10/virt-df/po/ca.po | 
+ | [de](/f10/language/de) | 102 | 105 | 97.1 | /mnt/stockage/packages/f10/virt-df/po/de.po | 
+ | [it](/f10/language/it) | 102 | 105 | 97.1 | /mnt/stockage/packages/f10/virt-df/po/it.po | 
+ | [pl](/f10/language/pl) | 102 | 105 | 97.1 | /mnt/stockage/packages/f10/virt-df/po/pl.po | 
+ | [pt_BR](/f10/language/pt_BR) | 102 | 105 | 97.1 | /mnt/stockage/packages/f10/virt-df/po/pt_BR.po | 
+ | [zh_Hans](/f10/language/zh_Hans) | 102 | 105 | 97.1 | /mnt/stockage/packages/f10/virt-df/po/zh_CN.po | 
+ | [ja](/f10/language/ja) | 0 | 105 | 0.0 | /mnt/stockage/packages/f10/virt-df/po/ja.po | 
 {.sortable}
 
 

@@ -18,28 +18,28 @@ The package homerun (version 1.2.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f19/language/ca.md" >}}) | 504 | 504 | 100.0 | /mnt/stockage/packages/f19/homerun/po/ca/plasma_applet_org.kde.homerun.po | 
- | [da]({{< ref "/f19/language/da.md" >}}) | 504 | 504 | 100.0 | /mnt/stockage/packages/f19/homerun/po/da/plasma_applet_org.kde.homerun.po | 
- | [de]({{< ref "/f19/language/de.md" >}}) | 504 | 504 | 100.0 | /mnt/stockage/packages/f19/homerun/po/de/plasma_applet_org.kde.homerun.po | 
- | [fi]({{< ref "/f19/language/fi.md" >}}) | 504 | 504 | 100.0 | /mnt/stockage/packages/f19/homerun/po/fi/plasma_applet_org.kde.homerun.po | 
- | [it]({{< ref "/f19/language/it.md" >}}) | 504 | 504 | 100.0 | /mnt/stockage/packages/f19/homerun/po/it/plasma_applet_org.kde.homerun.po | 
- | [nl]({{< ref "/f19/language/nl.md" >}}) | 504 | 504 | 100.0 | /mnt/stockage/packages/f19/homerun/po/nl/plasma_applet_org.kde.homerun.po | 
- | [pl]({{< ref "/f19/language/pl.md" >}}) | 504 | 504 | 100.0 | /mnt/stockage/packages/f19/homerun/po/pl/plasma_applet_org.kde.homerun.po | 
- | [pt]({{< ref "/f19/language/pt.md" >}}) | 504 | 504 | 100.0 | /mnt/stockage/packages/f19/homerun/po/pt/plasma_applet_org.kde.homerun.po | 
- | [pt_BR]({{< ref "/f19/language/pt_BR.md" >}}) | 504 | 504 | 100.0 | /mnt/stockage/packages/f19/homerun/po/pt_BR/plasma_applet_org.kde.homerun.po | 
- | [sk]({{< ref "/f19/language/sk.md" >}}) | 504 | 504 | 100.0 | /mnt/stockage/packages/f19/homerun/po/sk/plasma_applet_org.kde.homerun.po | 
- | [sl]({{< ref "/f19/language/sl.md" >}}) | 504 | 504 | 100.0 | /mnt/stockage/packages/f19/homerun/po/sl/plasma_applet_org.kde.homerun.po | 
- | [sv]({{< ref "/f19/language/sv.md" >}}) | 504 | 504 | 100.0 | /mnt/stockage/packages/f19/homerun/po/sv/plasma_applet_org.kde.homerun.po | 
- | [uk]({{< ref "/f19/language/uk.md" >}}) | 504 | 504 | 100.0 | /mnt/stockage/packages/f19/homerun/po/uk/plasma_applet_org.kde.homerun.po | 
- | [ca@valencia]({{< ref "/f19/language/ca@valencia.md" >}}) | 481 | 504 | 95.4 | /mnt/stockage/packages/f19/homerun/po/ca@valencia/plasma_applet_org.kde.homerun.po | 
- | [el]({{< ref "/f19/language/el.md" >}}) | 481 | 504 | 95.4 | /mnt/stockage/packages/f19/homerun/po/el/plasma_applet_org.kde.homerun.po | 
- | [tr]({{< ref "/f19/language/tr.md" >}}) | 481 | 504 | 95.4 | /mnt/stockage/packages/f19/homerun/po/tr/plasma_applet_org.kde.homerun.po | 
- | [fr]({{< ref "/f19/language/fr.md" >}}) | 475 | 504 | 94.2 | /mnt/stockage/packages/f19/homerun/po/fr/plasma_applet_org.kde.homerun.po | 
- | [es]({{< ref "/f19/language/es.md" >}}) | 474 | 504 | 94.0 | /mnt/stockage/packages/f19/homerun/po/es/plasma_applet_org.kde.homerun.po | 
- | [gl]({{< ref "/f19/language/gl.md" >}}) | 390 | 504 | 77.4 | /mnt/stockage/packages/f19/homerun/po/gl/plasma_applet_org.kde.homerun.po | 
- | [zh_Hans]({{< ref "/f19/language/zh_Hans.md" >}}) | 390 | 504 | 77.4 | /mnt/stockage/packages/f19/homerun/po/zh_CN/plasma_applet_org.kde.homerun.po | 
- | [ro]({{< ref "/f19/language/ro.md" >}}) | 299 | 504 | 59.3 | /mnt/stockage/packages/f19/homerun/po/ro/plasma_applet_org.kde.homerun.po | 
- | [cs]({{< ref "/f19/language/cs.md" >}}) | 284 | 504 | 56.3 | /mnt/stockage/packages/f19/homerun/po/cs/plasma_applet_org.kde.homerun.po | 
+ | [ca](/f19/language/ca) | 504 | 504 | 100.0 | /mnt/stockage/packages/f19/homerun/po/ca/plasma_applet_org.kde.homerun.po | 
+ | [da](/f19/language/da) | 504 | 504 | 100.0 | /mnt/stockage/packages/f19/homerun/po/da/plasma_applet_org.kde.homerun.po | 
+ | [de](/f19/language/de) | 504 | 504 | 100.0 | /mnt/stockage/packages/f19/homerun/po/de/plasma_applet_org.kde.homerun.po | 
+ | [fi](/f19/language/fi) | 504 | 504 | 100.0 | /mnt/stockage/packages/f19/homerun/po/fi/plasma_applet_org.kde.homerun.po | 
+ | [it](/f19/language/it) | 504 | 504 | 100.0 | /mnt/stockage/packages/f19/homerun/po/it/plasma_applet_org.kde.homerun.po | 
+ | [nl](/f19/language/nl) | 504 | 504 | 100.0 | /mnt/stockage/packages/f19/homerun/po/nl/plasma_applet_org.kde.homerun.po | 
+ | [pl](/f19/language/pl) | 504 | 504 | 100.0 | /mnt/stockage/packages/f19/homerun/po/pl/plasma_applet_org.kde.homerun.po | 
+ | [pt](/f19/language/pt) | 504 | 504 | 100.0 | /mnt/stockage/packages/f19/homerun/po/pt/plasma_applet_org.kde.homerun.po | 
+ | [pt_BR](/f19/language/pt_BR) | 504 | 504 | 100.0 | /mnt/stockage/packages/f19/homerun/po/pt_BR/plasma_applet_org.kde.homerun.po | 
+ | [sk](/f19/language/sk) | 504 | 504 | 100.0 | /mnt/stockage/packages/f19/homerun/po/sk/plasma_applet_org.kde.homerun.po | 
+ | [sl](/f19/language/sl) | 504 | 504 | 100.0 | /mnt/stockage/packages/f19/homerun/po/sl/plasma_applet_org.kde.homerun.po | 
+ | [sv](/f19/language/sv) | 504 | 504 | 100.0 | /mnt/stockage/packages/f19/homerun/po/sv/plasma_applet_org.kde.homerun.po | 
+ | [uk](/f19/language/uk) | 504 | 504 | 100.0 | /mnt/stockage/packages/f19/homerun/po/uk/plasma_applet_org.kde.homerun.po | 
+ | [ca@valencia](/f19/language/ca@valencia) | 481 | 504 | 95.4 | /mnt/stockage/packages/f19/homerun/po/ca@valencia/plasma_applet_org.kde.homerun.po | 
+ | [el](/f19/language/el) | 481 | 504 | 95.4 | /mnt/stockage/packages/f19/homerun/po/el/plasma_applet_org.kde.homerun.po | 
+ | [tr](/f19/language/tr) | 481 | 504 | 95.4 | /mnt/stockage/packages/f19/homerun/po/tr/plasma_applet_org.kde.homerun.po | 
+ | [fr](/f19/language/fr) | 475 | 504 | 94.2 | /mnt/stockage/packages/f19/homerun/po/fr/plasma_applet_org.kde.homerun.po | 
+ | [es](/f19/language/es) | 474 | 504 | 94.0 | /mnt/stockage/packages/f19/homerun/po/es/plasma_applet_org.kde.homerun.po | 
+ | [gl](/f19/language/gl) | 390 | 504 | 77.4 | /mnt/stockage/packages/f19/homerun/po/gl/plasma_applet_org.kde.homerun.po | 
+ | [zh_Hans](/f19/language/zh_Hans) | 390 | 504 | 77.4 | /mnt/stockage/packages/f19/homerun/po/zh_CN/plasma_applet_org.kde.homerun.po | 
+ | [ro](/f19/language/ro) | 299 | 504 | 59.3 | /mnt/stockage/packages/f19/homerun/po/ro/plasma_applet_org.kde.homerun.po | 
+ | [cs](/f19/language/cs) | 284 | 504 | 56.3 | /mnt/stockage/packages/f19/homerun/po/cs/plasma_applet_org.kde.homerun.po | 
 {.sortable}
 
 

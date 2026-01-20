@@ -18,10 +18,10 @@ The package nuntius (version 0.2.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f34/language/de.md" >}}) | 47 | 47 | 100.0 | /mnt/stockage/packages/f34/nuntius/po/de.po | 
- | [es]({{< ref "/f34/language/es.md" >}}) | 47 | 47 | 100.0 | /mnt/stockage/packages/f34/nuntius/po/es.po | 
- | [pl]({{< ref "/f34/language/pl.md" >}}) | 47 | 47 | 100.0 | /mnt/stockage/packages/f34/nuntius/po/pl.po | 
- | [sk]({{< ref "/f34/language/sk.md" >}}) | 47 | 47 | 100.0 | /mnt/stockage/packages/f34/nuntius/po/sk.po | 
+ | [de](/f34/language/de) | 47 | 47 | 100.0 | /mnt/stockage/packages/f34/nuntius/po/de.po | 
+ | [es](/f34/language/es) | 47 | 47 | 100.0 | /mnt/stockage/packages/f34/nuntius/po/es.po | 
+ | [pl](/f34/language/pl) | 47 | 47 | 100.0 | /mnt/stockage/packages/f34/nuntius/po/pl.po | 
+ | [sk](/f34/language/sk) | 47 | 47 | 100.0 | /mnt/stockage/packages/f34/nuntius/po/sk.po | 
 {.sortable}
 
 

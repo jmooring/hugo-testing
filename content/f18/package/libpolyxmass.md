@@ -18,8 +18,8 @@ The package libpolyxmass (version 0.9.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [error]({{< ref "/f18/language/error.md" >}}) | 4278 | 4278 | 100.0 | /mnt/stockage/packages/f18/libpolyxmass/po/en@boldquot.po/mnt/stockage/packages/f18/libpolyxmass/po/en@quot.po | 
- | [fr]({{< ref "/f18/language/fr.md" >}}) | 2139 | 2139 | 100.0 | /mnt/stockage/packages/f18/libpolyxmass/po/fr.po | 
+ | [error](/f18/language/error) | 4278 | 4278 | 100.0 | /mnt/stockage/packages/f18/libpolyxmass/po/en@boldquot.po/mnt/stockage/packages/f18/libpolyxmass/po/en@quot.po | 
+ | [fr](/f18/language/fr) | 2139 | 2139 | 100.0 | /mnt/stockage/packages/f18/libpolyxmass/po/fr.po | 
 {.sortable}
 
 

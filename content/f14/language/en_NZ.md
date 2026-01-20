@@ -38,9 +38,9 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [avahi]({{< ref "/f14/package/avahi.md" >}}) | 758 | 865 | 87.6 | British English <en@li.org> | 
- | [gxmessage]({{< ref "/f14/package/gxmessage.md" >}}) | 12 | 245 | 4.9 | LANGUAGE <LL@li.org> | 
- | [php-laconica]({{< ref "/f14/package/php-laconica.md" >}}) | 54 | 1692 | 3.2 |  | 
+ | [avahi](/f14/package/avahi) | 758 | 865 | 87.6 | British English <en@li.org> | 
+ | [gxmessage](/f14/package/gxmessage) | 12 | 245 | 4.9 | LANGUAGE <LL@li.org> | 
+ | [php-laconica](/f14/package/php-laconica) | 54 | 1692 | 3.2 |  | 
 {.sortable}
 
 

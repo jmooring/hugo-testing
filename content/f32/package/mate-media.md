@@ -18,138 +18,138 @@ The package mate-media (version 1.24.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f32/language/ca.md" >}}) | 239 | 239 | 100.0 | /mnt/stockage/packages/f32/mate-media/po/ca.po | 
- | [cs]({{< ref "/f32/language/cs.md" >}}) | 239 | 239 | 100.0 | /mnt/stockage/packages/f32/mate-media/po/cs.po | 
- | [da]({{< ref "/f32/language/da.md" >}}) | 239 | 239 | 100.0 | /mnt/stockage/packages/f32/mate-media/po/da.po | 
- | [gl]({{< ref "/f32/language/gl.md" >}}) | 239 | 239 | 100.0 | /mnt/stockage/packages/f32/mate-media/po/gl.po | 
- | [id]({{< ref "/f32/language/id.md" >}}) | 239 | 239 | 100.0 | /mnt/stockage/packages/f32/mate-media/po/id.po | 
- | [it]({{< ref "/f32/language/it.md" >}}) | 239 | 239 | 100.0 | /mnt/stockage/packages/f32/mate-media/po/it.po | 
- | [lt]({{< ref "/f32/language/lt.md" >}}) | 239 | 239 | 100.0 | /mnt/stockage/packages/f32/mate-media/po/lt.po | 
- | [ms]({{< ref "/f32/language/ms.md" >}}) | 239 | 239 | 100.0 | /mnt/stockage/packages/f32/mate-media/po/ms.po | 
- | [nb_NO]({{< ref "/f32/language/nb_NO.md" >}}) | 239 | 239 | 100.0 | /mnt/stockage/packages/f32/mate-media/po/nb.po | 
- | [nl]({{< ref "/f32/language/nl.md" >}}) | 239 | 239 | 100.0 | /mnt/stockage/packages/f32/mate-media/po/nl.po | 
- | [sr]({{< ref "/f32/language/sr.md" >}}) | 239 | 239 | 100.0 | /mnt/stockage/packages/f32/mate-media/po/sr.po | 
- | [fr]({{< ref "/f32/language/fr.md" >}}) | 235 | 239 | 98.3 | /mnt/stockage/packages/f32/mate-media/po/fr.po | 
- | [pl]({{< ref "/f32/language/pl.md" >}}) | 231 | 239 | 96.7 | /mnt/stockage/packages/f32/mate-media/po/pl.po | 
- | [ru]({{< ref "/f32/language/ru.md" >}}) | 231 | 239 | 96.7 | /mnt/stockage/packages/f32/mate-media/po/ru.po | 
- | [sv]({{< ref "/f32/language/sv.md" >}}) | 231 | 239 | 96.7 | /mnt/stockage/packages/f32/mate-media/po/sv.po | 
- | [uk]({{< ref "/f32/language/uk.md" >}}) | 231 | 239 | 96.7 | /mnt/stockage/packages/f32/mate-media/po/uk.po | 
- | [zh_Hant]({{< ref "/f32/language/zh_Hant.md" >}}) | 231 | 239 | 96.7 | /mnt/stockage/packages/f32/mate-media/po/zh_TW.po | 
- | [de]({{< ref "/f32/language/de.md" >}}) | 230 | 239 | 96.2 | /mnt/stockage/packages/f32/mate-media/po/de.po | 
- | [pt_BR]({{< ref "/f32/language/pt_BR.md" >}}) | 226 | 239 | 94.6 | /mnt/stockage/packages/f32/mate-media/po/pt_BR.po | 
- | [sl]({{< ref "/f32/language/sl.md" >}}) | 226 | 239 | 94.6 | /mnt/stockage/packages/f32/mate-media/po/sl.po | 
- | [et]({{< ref "/f32/language/et.md" >}}) | 224 | 239 | 93.7 | /mnt/stockage/packages/f32/mate-media/po/et.po | 
- | [hu]({{< ref "/f32/language/hu.md" >}}) | 224 | 239 | 93.7 | /mnt/stockage/packages/f32/mate-media/po/hu.po | 
- | [ie]({{< ref "/f32/language/ie.md" >}}) | 224 | 239 | 93.7 | /mnt/stockage/packages/f32/mate-media/po/ie.po | 
- | [ko]({{< ref "/f32/language/ko.md" >}}) | 224 | 239 | 93.7 | /mnt/stockage/packages/f32/mate-media/po/ko.po | 
- | [tr]({{< ref "/f32/language/tr.md" >}}) | 214 | 239 | 89.5 | /mnt/stockage/packages/f32/mate-media/po/tr.po | 
- | [am]({{< ref "/f32/language/am.md" >}}) | 209 | 239 | 87.4 | /mnt/stockage/packages/f32/mate-media/po/am.po | 
- | [bg]({{< ref "/f32/language/bg.md" >}}) | 209 | 239 | 87.4 | /mnt/stockage/packages/f32/mate-media/po/bg.po | 
- | [ca@valencia]({{< ref "/f32/language/ca@valencia.md" >}}) | 209 | 239 | 87.4 | /mnt/stockage/packages/f32/mate-media/po/ca@valencia.po | 
- | [el]({{< ref "/f32/language/el.md" >}}) | 209 | 239 | 87.4 | /mnt/stockage/packages/f32/mate-media/po/el.po | 
- | [en_GB]({{< ref "/f32/language/en_GB.md" >}}) | 209 | 239 | 87.4 | /mnt/stockage/packages/f32/mate-media/po/en_GB.po | 
- | [fi]({{< ref "/f32/language/fi.md" >}}) | 209 | 239 | 87.4 | /mnt/stockage/packages/f32/mate-media/po/fi.po | 
- | [hr]({{< ref "/f32/language/hr.md" >}}) | 209 | 239 | 87.4 | /mnt/stockage/packages/f32/mate-media/po/hr.po | 
- | [pt]({{< ref "/f32/language/pt.md" >}}) | 209 | 239 | 87.4 | /mnt/stockage/packages/f32/mate-media/po/pt.po | 
- | [ro]({{< ref "/f32/language/ro.md" >}}) | 209 | 239 | 87.4 | /mnt/stockage/packages/f32/mate-media/po/ro.po | 
- | [sk]({{< ref "/f32/language/sk.md" >}}) | 209 | 239 | 87.4 | /mnt/stockage/packages/f32/mate-media/po/sk.po | 
- | [vi]({{< ref "/f32/language/vi.md" >}}) | 209 | 239 | 87.4 | /mnt/stockage/packages/f32/mate-media/po/vi.po | 
- | [be]({{< ref "/f32/language/be.md" >}}) | 207 | 239 | 86.6 | /mnt/stockage/packages/f32/mate-media/po/be.po | 
- | [br]({{< ref "/f32/language/br.md" >}}) | 207 | 239 | 86.6 | /mnt/stockage/packages/f32/mate-media/po/br.po | 
- | [en_AU]({{< ref "/f32/language/en_AU.md" >}}) | 207 | 239 | 86.6 | /mnt/stockage/packages/f32/mate-media/po/en_AU.po | 
- | [hy]({{< ref "/f32/language/hy.md" >}}) | 207 | 239 | 86.6 | /mnt/stockage/packages/f32/mate-media/po/hy.po | 
- | [ja]({{< ref "/f32/language/ja.md" >}}) | 207 | 239 | 86.6 | /mnt/stockage/packages/f32/mate-media/po/ja.po | 
- | [ar]({{< ref "/f32/language/ar.md" >}}) | 197 | 239 | 82.4 | /mnt/stockage/packages/f32/mate-media/po/ar.po | 
- | [nds]({{< ref "/f32/language/nds.md" >}}) | 190 | 239 | 79.5 | /mnt/stockage/packages/f32/mate-media/po/nds.po | 
- | [zh_Hans]({{< ref "/f32/language/zh_Hans.md" >}}) | 376 | 478 | 78.7 | /mnt/stockage/packages/f32/mate-media/po/cmn.po/mnt/stockage/packages/f32/mate-media/po/zh_CN.po | 
- | [kk]({{< ref "/f32/language/kk.md" >}}) | 167 | 239 | 69.9 | /mnt/stockage/packages/f32/mate-media/po/kk.po | 
- | [eu]({{< ref "/f32/language/eu.md" >}}) | 163 | 239 | 68.2 | /mnt/stockage/packages/f32/mate-media/po/eu.po | 
- | [zh_Hant_HK]({{< ref "/f32/language/zh_Hant_HK.md" >}}) | 163 | 239 | 68.2 | /mnt/stockage/packages/f32/mate-media/po/zh_HK.po | 
- | [he]({{< ref "/f32/language/he.md" >}}) | 137 | 239 | 57.3 | /mnt/stockage/packages/f32/mate-media/po/he.po | 
- | [lv]({{< ref "/f32/language/lv.md" >}}) | 137 | 239 | 57.3 | /mnt/stockage/packages/f32/mate-media/po/lv.po | 
- | [mr]({{< ref "/f32/language/mr.md" >}}) | 137 | 239 | 57.3 | /mnt/stockage/packages/f32/mate-media/po/mr.po | 
- | [pa]({{< ref "/f32/language/pa.md" >}}) | 137 | 239 | 57.3 | /mnt/stockage/packages/f32/mate-media/po/pa.po | 
- | [sr_Latn]({{< ref "/f32/language/sr_Latn.md" >}}) | 137 | 239 | 57.3 | /mnt/stockage/packages/f32/mate-media/po/sr@latin.po | 
- | [ug]({{< ref "/f32/language/ug.md" >}}) | 137 | 239 | 57.3 | /mnt/stockage/packages/f32/mate-media/po/ug.po | 
- | [ur]({{< ref "/f32/language/ur.md" >}}) | 135 | 239 | 56.5 | /mnt/stockage/packages/f32/mate-media/po/ur.po | 
- | [gu]({{< ref "/f32/language/gu.md" >}}) | 125 | 239 | 52.3 | /mnt/stockage/packages/f32/mate-media/po/gu.po | 
- | [as]({{< ref "/f32/language/as.md" >}}) | 121 | 239 | 50.6 | /mnt/stockage/packages/f32/mate-media/po/as.po | 
- | [ast]({{< ref "/f32/language/ast.md" >}}) | 121 | 239 | 50.6 | /mnt/stockage/packages/f32/mate-media/po/ast.po | 
- | [bn]({{< ref "/f32/language/bn.md" >}}) | 121 | 239 | 50.6 | /mnt/stockage/packages/f32/mate-media/po/bn.po | 
- | [bn_IN]({{< ref "/f32/language/bn_IN.md" >}}) | 121 | 239 | 50.6 | /mnt/stockage/packages/f32/mate-media/po/bn_IN.po | 
- | [hi]({{< ref "/f32/language/hi.md" >}}) | 121 | 239 | 50.6 | /mnt/stockage/packages/f32/mate-media/po/hi.po | 
- | [kn]({{< ref "/f32/language/kn.md" >}}) | 121 | 239 | 50.6 | /mnt/stockage/packages/f32/mate-media/po/kn.po | 
- | [ky]({{< ref "/f32/language/ky.md" >}}) | 121 | 239 | 50.6 | /mnt/stockage/packages/f32/mate-media/po/ky.po | 
- | [ml]({{< ref "/f32/language/ml.md" >}}) | 121 | 239 | 50.6 | /mnt/stockage/packages/f32/mate-media/po/ml.po | 
- | [or]({{< ref "/f32/language/or.md" >}}) | 121 | 239 | 50.6 | /mnt/stockage/packages/f32/mate-media/po/or.po | 
- | [ta]({{< ref "/f32/language/ta.md" >}}) | 121 | 239 | 50.6 | /mnt/stockage/packages/f32/mate-media/po/ta.po | 
- | [te]({{< ref "/f32/language/te.md" >}}) | 121 | 239 | 50.6 | /mnt/stockage/packages/f32/mate-media/po/te.po | 
- | [th]({{< ref "/f32/language/th.md" >}}) | 121 | 239 | 50.6 | /mnt/stockage/packages/f32/mate-media/po/th.po | 
- | [es]({{< ref "/f32/language/es.md" >}}) | 238 | 478 | 49.8 | /mnt/stockage/packages/f32/mate-media/po/es_ES.po/mnt/stockage/packages/f32/mate-media/po/es.po | 
- | [af]({{< ref "/f32/language/af.md" >}}) | 116 | 239 | 48.5 | /mnt/stockage/packages/f32/mate-media/po/af.po | 
- | [ga]({{< ref "/f32/language/ga.md" >}}) | 111 | 239 | 46.4 | /mnt/stockage/packages/f32/mate-media/po/ga.po | 
- | [nn]({{< ref "/f32/language/nn.md" >}}) | 95 | 239 | 39.7 | /mnt/stockage/packages/f32/mate-media/po/nn.po | 
- | [oc]({{< ref "/f32/language/oc.md" >}}) | 75 | 239 | 31.4 | /mnt/stockage/packages/f32/mate-media/po/oc.po | 
- | [cy]({{< ref "/f32/language/cy.md" >}}) | 55 | 239 | 23.0 | /mnt/stockage/packages/f32/mate-media/po/cy.po | 
- | [sq]({{< ref "/f32/language/sq.md" >}}) | 52 | 239 | 21.8 | /mnt/stockage/packages/f32/mate-media/po/sq.po | 
- | [uz]({{< ref "/f32/language/uz.md" >}}) | 43 | 239 | 18.0 | /mnt/stockage/packages/f32/mate-media/po/uz.po | 
- | [fa]({{< ref "/f32/language/fa.md" >}}) | 37 | 239 | 15.5 | /mnt/stockage/packages/f32/mate-media/po/fa.po | 
- | [mai]({{< ref "/f32/language/mai.md" >}}) | 29 | 239 | 12.1 | /mnt/stockage/packages/f32/mate-media/po/mai.po | 
- | [kmr]({{< ref "/f32/language/kmr.md" >}}) | 27 | 239 | 11.3 | /mnt/stockage/packages/f32/mate-media/po/ku_IQ.po | 
- | [bs]({{< ref "/f32/language/bs.md" >}}) | 24 | 239 | 10.0 | /mnt/stockage/packages/f32/mate-media/po/bs.po | 
- | [frp]({{< ref "/f32/language/frp.md" >}}) | 22 | 239 | 9.2 | /mnt/stockage/packages/f32/mate-media/po/frp.po | 
- | [mk]({{< ref "/f32/language/mk.md" >}}) | 22 | 239 | 9.2 | /mnt/stockage/packages/f32/mate-media/po/mk.po | 
- | [eo]({{< ref "/f32/language/eo.md" >}}) | 21 | 239 | 8.8 | /mnt/stockage/packages/f32/mate-media/po/eo.po | 
- | [crh]({{< ref "/f32/language/crh.md" >}}) | 20 | 239 | 8.4 | /mnt/stockage/packages/f32/mate-media/po/crh.po | 
- | [dz]({{< ref "/f32/language/dz.md" >}}) | 20 | 239 | 8.4 | /mnt/stockage/packages/f32/mate-media/po/dz.po | 
- | [is]({{< ref "/f32/language/is.md" >}}) | 20 | 239 | 8.4 | /mnt/stockage/packages/f32/mate-media/po/is.po | 
- | [ku]({{< ref "/f32/language/ku.md" >}}) | 20 | 239 | 8.4 | /mnt/stockage/packages/f32/mate-media/po/ku.po | 
- | [mn]({{< ref "/f32/language/mn.md" >}}) | 20 | 239 | 8.4 | /mnt/stockage/packages/f32/mate-media/po/mn.po | 
- | [ne]({{< ref "/f32/language/ne.md" >}}) | 20 | 239 | 8.4 | /mnt/stockage/packages/f32/mate-media/po/ne.po | 
- | [si]({{< ref "/f32/language/si.md" >}}) | 20 | 239 | 8.4 | /mnt/stockage/packages/f32/mate-media/po/si.po | 
- | [en_CA]({{< ref "/f32/language/en_CA.md" >}}) | 19 | 239 | 7.9 | /mnt/stockage/packages/f32/mate-media/po/en_CA.po | 
- | [mg]({{< ref "/f32/language/mg.md" >}}) | 19 | 239 | 7.9 | /mnt/stockage/packages/f32/mate-media/po/mg.po | 
- | [ps]({{< ref "/f32/language/ps.md" >}}) | 19 | 239 | 7.9 | /mnt/stockage/packages/f32/mate-media/po/ps.po | 
- | [ka]({{< ref "/f32/language/ka.md" >}}) | 18 | 239 | 7.5 | /mnt/stockage/packages/f32/mate-media/po/ka.po | 
- | [wa]({{< ref "/f32/language/wa.md" >}}) | 18 | 239 | 7.5 | /mnt/stockage/packages/f32/mate-media/po/wa.po | 
- | [pms]({{< ref "/f32/language/pms.md" >}}) | 17 | 239 | 7.1 | /mnt/stockage/packages/f32/mate-media/po/pms.po | 
- | [xh]({{< ref "/f32/language/xh.md" >}}) | 17 | 239 | 7.1 | /mnt/stockage/packages/f32/mate-media/po/xh.po | 
- | [az]({{< ref "/f32/language/az.md" >}}) | 16 | 239 | 6.7 | /mnt/stockage/packages/f32/mate-media/po/az.po | 
- | [fur]({{< ref "/f32/language/fur.md" >}}) | 15 | 239 | 6.3 | /mnt/stockage/packages/f32/mate-media/po/fur.po | 
- | [es_CO]({{< ref "/f32/language/es_CO.md" >}}) | 14 | 239 | 5.9 | /mnt/stockage/packages/f32/mate-media/po/es_CO.po | 
- | [fy]({{< ref "/f32/language/fy.md" >}}) | 13 | 239 | 5.4 | /mnt/stockage/packages/f32/mate-media/po/fy.po | 
- | [es_AR]({{< ref "/f32/language/es_AR.md" >}}) | 12 | 239 | 5.0 | /mnt/stockage/packages/f32/mate-media/po/es_AR.po | 
- | [es_MX]({{< ref "/f32/language/es_MX.md" >}}) | 12 | 239 | 5.0 | /mnt/stockage/packages/f32/mate-media/po/es_MX.po | 
- | [es_PR]({{< ref "/f32/language/es_PR.md" >}}) | 12 | 239 | 5.0 | /mnt/stockage/packages/f32/mate-media/po/es_PR.po | 
- | [ia]({{< ref "/f32/language/ia.md" >}}) | 12 | 239 | 5.0 | /mnt/stockage/packages/f32/mate-media/po/ia.po | 
- | [kab]({{< ref "/f32/language/kab.md" >}}) | 12 | 239 | 5.0 | /mnt/stockage/packages/f32/mate-media/po/kab.po | 
- | [rw]({{< ref "/f32/language/rw.md" >}}) | 11 | 239 | 4.6 | /mnt/stockage/packages/f32/mate-media/po/rw.po | 
- | [sc]({{< ref "/f32/language/sc.md" >}}) | 11 | 239 | 4.6 | /mnt/stockage/packages/f32/mate-media/po/sc.po | 
- | [jv]({{< ref "/f32/language/jv.md" >}}) | 10 | 239 | 4.2 | /mnt/stockage/packages/f32/mate-media/po/jv.po | 
- | [tk]({{< ref "/f32/language/tk.md" >}}) | 8 | 239 | 3.3 | /mnt/stockage/packages/f32/mate-media/po/tk.po | 
- | [es_CL]({{< ref "/f32/language/es_CL.md" >}}) | 7 | 239 | 2.9 | /mnt/stockage/packages/f32/mate-media/po/es_CL.po | 
- | [nso]({{< ref "/f32/language/nso.md" >}}) | 7 | 239 | 2.9 | /mnt/stockage/packages/f32/mate-media/po/nso.po | 
- | [zu]({{< ref "/f32/language/zu.md" >}}) | 7 | 239 | 2.9 | /mnt/stockage/packages/f32/mate-media/po/zu.po | 
- | [yi]({{< ref "/f32/language/yi.md" >}}) | 6 | 239 | 2.5 | /mnt/stockage/packages/f32/mate-media/po/yi.po | 
- | [es_VE]({{< ref "/f32/language/es_VE.md" >}}) | 5 | 239 | 2.1 | /mnt/stockage/packages/f32/mate-media/po/es_VE.po | 
- | [fr_CA]({{< ref "/f32/language/fr_CA.md" >}}) | 5 | 239 | 2.1 | /mnt/stockage/packages/f32/mate-media/po/fr_CA.po | 
- | [ha]({{< ref "/f32/language/ha.md" >}}) | 5 | 239 | 2.1 | /mnt/stockage/packages/f32/mate-media/po/ha.po | 
- | [ig]({{< ref "/f32/language/ig.md" >}}) | 5 | 239 | 2.1 | /mnt/stockage/packages/f32/mate-media/po/ig.po | 
- | [yo]({{< ref "/f32/language/yo.md" >}}) | 5 | 239 | 2.1 | /mnt/stockage/packages/f32/mate-media/po/yo.po | 
- | [es_CR]({{< ref "/f32/language/es_CR.md" >}}) | 4 | 239 | 1.7 | /mnt/stockage/packages/f32/mate-media/po/es_CR.po | 
- | [es_DO]({{< ref "/f32/language/es_DO.md" >}}) | 4 | 239 | 1.7 | /mnt/stockage/packages/f32/mate-media/po/es_DO.po | 
- | [es_EC]({{< ref "/f32/language/es_EC.md" >}}) | 4 | 239 | 1.7 | /mnt/stockage/packages/f32/mate-media/po/es_EC.po | 
- | [es_NI]({{< ref "/f32/language/es_NI.md" >}}) | 4 | 239 | 1.7 | /mnt/stockage/packages/f32/mate-media/po/es_NI.po | 
- | [es_PA]({{< ref "/f32/language/es_PA.md" >}}) | 4 | 239 | 1.7 | /mnt/stockage/packages/f32/mate-media/po/es_PA.po | 
- | [es_PE]({{< ref "/f32/language/es_PE.md" >}}) | 4 | 239 | 1.7 | /mnt/stockage/packages/f32/mate-media/po/es_PE.po | 
- | [es_SV]({{< ref "/f32/language/es_SV.md" >}}) | 4 | 239 | 1.7 | /mnt/stockage/packages/f32/mate-media/po/es_SV.po | 
- | [es_UY]({{< ref "/f32/language/es_UY.md" >}}) | 4 | 239 | 1.7 | /mnt/stockage/packages/f32/mate-media/po/es_UY.po | 
- | [li]({{< ref "/f32/language/li.md" >}}) | 4 | 239 | 1.7 | /mnt/stockage/packages/f32/mate-media/po/li.po | 
- | [an]({{< ref "/f32/language/an.md" >}}) | 3 | 239 | 1.3 | /mnt/stockage/packages/f32/mate-media/po/an.po | 
- | [ks]({{< ref "/f32/language/ks.md" >}}) | 3 | 239 | 1.3 | /mnt/stockage/packages/f32/mate-media/po/ks.po | 
- | [la]({{< ref "/f32/language/la.md" >}}) | 3 | 239 | 1.3 | /mnt/stockage/packages/f32/mate-media/po/la.po | 
- | [mi]({{< ref "/f32/language/mi.md" >}}) | 3 | 239 | 1.3 | /mnt/stockage/packages/f32/mate-media/po/mi.po | 
- | [gd]({{< ref "/f32/language/gd.md" >}}) | 2 | 239 | 0.8 | /mnt/stockage/packages/f32/mate-media/po/gd.po | 
+ | [ca](/f32/language/ca) | 239 | 239 | 100.0 | /mnt/stockage/packages/f32/mate-media/po/ca.po | 
+ | [cs](/f32/language/cs) | 239 | 239 | 100.0 | /mnt/stockage/packages/f32/mate-media/po/cs.po | 
+ | [da](/f32/language/da) | 239 | 239 | 100.0 | /mnt/stockage/packages/f32/mate-media/po/da.po | 
+ | [gl](/f32/language/gl) | 239 | 239 | 100.0 | /mnt/stockage/packages/f32/mate-media/po/gl.po | 
+ | [id](/f32/language/id) | 239 | 239 | 100.0 | /mnt/stockage/packages/f32/mate-media/po/id.po | 
+ | [it](/f32/language/it) | 239 | 239 | 100.0 | /mnt/stockage/packages/f32/mate-media/po/it.po | 
+ | [lt](/f32/language/lt) | 239 | 239 | 100.0 | /mnt/stockage/packages/f32/mate-media/po/lt.po | 
+ | [ms](/f32/language/ms) | 239 | 239 | 100.0 | /mnt/stockage/packages/f32/mate-media/po/ms.po | 
+ | [nb_NO](/f32/language/nb_NO) | 239 | 239 | 100.0 | /mnt/stockage/packages/f32/mate-media/po/nb.po | 
+ | [nl](/f32/language/nl) | 239 | 239 | 100.0 | /mnt/stockage/packages/f32/mate-media/po/nl.po | 
+ | [sr](/f32/language/sr) | 239 | 239 | 100.0 | /mnt/stockage/packages/f32/mate-media/po/sr.po | 
+ | [fr](/f32/language/fr) | 235 | 239 | 98.3 | /mnt/stockage/packages/f32/mate-media/po/fr.po | 
+ | [pl](/f32/language/pl) | 231 | 239 | 96.7 | /mnt/stockage/packages/f32/mate-media/po/pl.po | 
+ | [ru](/f32/language/ru) | 231 | 239 | 96.7 | /mnt/stockage/packages/f32/mate-media/po/ru.po | 
+ | [sv](/f32/language/sv) | 231 | 239 | 96.7 | /mnt/stockage/packages/f32/mate-media/po/sv.po | 
+ | [uk](/f32/language/uk) | 231 | 239 | 96.7 | /mnt/stockage/packages/f32/mate-media/po/uk.po | 
+ | [zh_Hant](/f32/language/zh_Hant) | 231 | 239 | 96.7 | /mnt/stockage/packages/f32/mate-media/po/zh_TW.po | 
+ | [de](/f32/language/de) | 230 | 239 | 96.2 | /mnt/stockage/packages/f32/mate-media/po/de.po | 
+ | [pt_BR](/f32/language/pt_BR) | 226 | 239 | 94.6 | /mnt/stockage/packages/f32/mate-media/po/pt_BR.po | 
+ | [sl](/f32/language/sl) | 226 | 239 | 94.6 | /mnt/stockage/packages/f32/mate-media/po/sl.po | 
+ | [et](/f32/language/et) | 224 | 239 | 93.7 | /mnt/stockage/packages/f32/mate-media/po/et.po | 
+ | [hu](/f32/language/hu) | 224 | 239 | 93.7 | /mnt/stockage/packages/f32/mate-media/po/hu.po | 
+ | [ie](/f32/language/ie) | 224 | 239 | 93.7 | /mnt/stockage/packages/f32/mate-media/po/ie.po | 
+ | [ko](/f32/language/ko) | 224 | 239 | 93.7 | /mnt/stockage/packages/f32/mate-media/po/ko.po | 
+ | [tr](/f32/language/tr) | 214 | 239 | 89.5 | /mnt/stockage/packages/f32/mate-media/po/tr.po | 
+ | [am](/f32/language/am) | 209 | 239 | 87.4 | /mnt/stockage/packages/f32/mate-media/po/am.po | 
+ | [bg](/f32/language/bg) | 209 | 239 | 87.4 | /mnt/stockage/packages/f32/mate-media/po/bg.po | 
+ | [ca@valencia](/f32/language/ca@valencia) | 209 | 239 | 87.4 | /mnt/stockage/packages/f32/mate-media/po/ca@valencia.po | 
+ | [el](/f32/language/el) | 209 | 239 | 87.4 | /mnt/stockage/packages/f32/mate-media/po/el.po | 
+ | [en_GB](/f32/language/en_GB) | 209 | 239 | 87.4 | /mnt/stockage/packages/f32/mate-media/po/en_GB.po | 
+ | [fi](/f32/language/fi) | 209 | 239 | 87.4 | /mnt/stockage/packages/f32/mate-media/po/fi.po | 
+ | [hr](/f32/language/hr) | 209 | 239 | 87.4 | /mnt/stockage/packages/f32/mate-media/po/hr.po | 
+ | [pt](/f32/language/pt) | 209 | 239 | 87.4 | /mnt/stockage/packages/f32/mate-media/po/pt.po | 
+ | [ro](/f32/language/ro) | 209 | 239 | 87.4 | /mnt/stockage/packages/f32/mate-media/po/ro.po | 
+ | [sk](/f32/language/sk) | 209 | 239 | 87.4 | /mnt/stockage/packages/f32/mate-media/po/sk.po | 
+ | [vi](/f32/language/vi) | 209 | 239 | 87.4 | /mnt/stockage/packages/f32/mate-media/po/vi.po | 
+ | [be](/f32/language/be) | 207 | 239 | 86.6 | /mnt/stockage/packages/f32/mate-media/po/be.po | 
+ | [br](/f32/language/br) | 207 | 239 | 86.6 | /mnt/stockage/packages/f32/mate-media/po/br.po | 
+ | [en_AU](/f32/language/en_AU) | 207 | 239 | 86.6 | /mnt/stockage/packages/f32/mate-media/po/en_AU.po | 
+ | [hy](/f32/language/hy) | 207 | 239 | 86.6 | /mnt/stockage/packages/f32/mate-media/po/hy.po | 
+ | [ja](/f32/language/ja) | 207 | 239 | 86.6 | /mnt/stockage/packages/f32/mate-media/po/ja.po | 
+ | [ar](/f32/language/ar) | 197 | 239 | 82.4 | /mnt/stockage/packages/f32/mate-media/po/ar.po | 
+ | [nds](/f32/language/nds) | 190 | 239 | 79.5 | /mnt/stockage/packages/f32/mate-media/po/nds.po | 
+ | [zh_Hans](/f32/language/zh_Hans) | 376 | 478 | 78.7 | /mnt/stockage/packages/f32/mate-media/po/cmn.po/mnt/stockage/packages/f32/mate-media/po/zh_CN.po | 
+ | [kk](/f32/language/kk) | 167 | 239 | 69.9 | /mnt/stockage/packages/f32/mate-media/po/kk.po | 
+ | [eu](/f32/language/eu) | 163 | 239 | 68.2 | /mnt/stockage/packages/f32/mate-media/po/eu.po | 
+ | [zh_Hant_HK](/f32/language/zh_Hant_HK) | 163 | 239 | 68.2 | /mnt/stockage/packages/f32/mate-media/po/zh_HK.po | 
+ | [he](/f32/language/he) | 137 | 239 | 57.3 | /mnt/stockage/packages/f32/mate-media/po/he.po | 
+ | [lv](/f32/language/lv) | 137 | 239 | 57.3 | /mnt/stockage/packages/f32/mate-media/po/lv.po | 
+ | [mr](/f32/language/mr) | 137 | 239 | 57.3 | /mnt/stockage/packages/f32/mate-media/po/mr.po | 
+ | [pa](/f32/language/pa) | 137 | 239 | 57.3 | /mnt/stockage/packages/f32/mate-media/po/pa.po | 
+ | [sr_Latn](/f32/language/sr_Latn) | 137 | 239 | 57.3 | /mnt/stockage/packages/f32/mate-media/po/sr@latin.po | 
+ | [ug](/f32/language/ug) | 137 | 239 | 57.3 | /mnt/stockage/packages/f32/mate-media/po/ug.po | 
+ | [ur](/f32/language/ur) | 135 | 239 | 56.5 | /mnt/stockage/packages/f32/mate-media/po/ur.po | 
+ | [gu](/f32/language/gu) | 125 | 239 | 52.3 | /mnt/stockage/packages/f32/mate-media/po/gu.po | 
+ | [as](/f32/language/as) | 121 | 239 | 50.6 | /mnt/stockage/packages/f32/mate-media/po/as.po | 
+ | [ast](/f32/language/ast) | 121 | 239 | 50.6 | /mnt/stockage/packages/f32/mate-media/po/ast.po | 
+ | [bn](/f32/language/bn) | 121 | 239 | 50.6 | /mnt/stockage/packages/f32/mate-media/po/bn.po | 
+ | [bn_IN](/f32/language/bn_IN) | 121 | 239 | 50.6 | /mnt/stockage/packages/f32/mate-media/po/bn_IN.po | 
+ | [hi](/f32/language/hi) | 121 | 239 | 50.6 | /mnt/stockage/packages/f32/mate-media/po/hi.po | 
+ | [kn](/f32/language/kn) | 121 | 239 | 50.6 | /mnt/stockage/packages/f32/mate-media/po/kn.po | 
+ | [ky](/f32/language/ky) | 121 | 239 | 50.6 | /mnt/stockage/packages/f32/mate-media/po/ky.po | 
+ | [ml](/f32/language/ml) | 121 | 239 | 50.6 | /mnt/stockage/packages/f32/mate-media/po/ml.po | 
+ | [or](/f32/language/or) | 121 | 239 | 50.6 | /mnt/stockage/packages/f32/mate-media/po/or.po | 
+ | [ta](/f32/language/ta) | 121 | 239 | 50.6 | /mnt/stockage/packages/f32/mate-media/po/ta.po | 
+ | [te](/f32/language/te) | 121 | 239 | 50.6 | /mnt/stockage/packages/f32/mate-media/po/te.po | 
+ | [th](/f32/language/th) | 121 | 239 | 50.6 | /mnt/stockage/packages/f32/mate-media/po/th.po | 
+ | [es](/f32/language/es) | 238 | 478 | 49.8 | /mnt/stockage/packages/f32/mate-media/po/es_ES.po/mnt/stockage/packages/f32/mate-media/po/es.po | 
+ | [af](/f32/language/af) | 116 | 239 | 48.5 | /mnt/stockage/packages/f32/mate-media/po/af.po | 
+ | [ga](/f32/language/ga) | 111 | 239 | 46.4 | /mnt/stockage/packages/f32/mate-media/po/ga.po | 
+ | [nn](/f32/language/nn) | 95 | 239 | 39.7 | /mnt/stockage/packages/f32/mate-media/po/nn.po | 
+ | [oc](/f32/language/oc) | 75 | 239 | 31.4 | /mnt/stockage/packages/f32/mate-media/po/oc.po | 
+ | [cy](/f32/language/cy) | 55 | 239 | 23.0 | /mnt/stockage/packages/f32/mate-media/po/cy.po | 
+ | [sq](/f32/language/sq) | 52 | 239 | 21.8 | /mnt/stockage/packages/f32/mate-media/po/sq.po | 
+ | [uz](/f32/language/uz) | 43 | 239 | 18.0 | /mnt/stockage/packages/f32/mate-media/po/uz.po | 
+ | [fa](/f32/language/fa) | 37 | 239 | 15.5 | /mnt/stockage/packages/f32/mate-media/po/fa.po | 
+ | [mai](/f32/language/mai) | 29 | 239 | 12.1 | /mnt/stockage/packages/f32/mate-media/po/mai.po | 
+ | [kmr](/f32/language/kmr) | 27 | 239 | 11.3 | /mnt/stockage/packages/f32/mate-media/po/ku_IQ.po | 
+ | [bs](/f32/language/bs) | 24 | 239 | 10.0 | /mnt/stockage/packages/f32/mate-media/po/bs.po | 
+ | [frp](/f32/language/frp) | 22 | 239 | 9.2 | /mnt/stockage/packages/f32/mate-media/po/frp.po | 
+ | [mk](/f32/language/mk) | 22 | 239 | 9.2 | /mnt/stockage/packages/f32/mate-media/po/mk.po | 
+ | [eo](/f32/language/eo) | 21 | 239 | 8.8 | /mnt/stockage/packages/f32/mate-media/po/eo.po | 
+ | [crh](/f32/language/crh) | 20 | 239 | 8.4 | /mnt/stockage/packages/f32/mate-media/po/crh.po | 
+ | [dz](/f32/language/dz) | 20 | 239 | 8.4 | /mnt/stockage/packages/f32/mate-media/po/dz.po | 
+ | [is](/f32/language/is) | 20 | 239 | 8.4 | /mnt/stockage/packages/f32/mate-media/po/is.po | 
+ | [ku](/f32/language/ku) | 20 | 239 | 8.4 | /mnt/stockage/packages/f32/mate-media/po/ku.po | 
+ | [mn](/f32/language/mn) | 20 | 239 | 8.4 | /mnt/stockage/packages/f32/mate-media/po/mn.po | 
+ | [ne](/f32/language/ne) | 20 | 239 | 8.4 | /mnt/stockage/packages/f32/mate-media/po/ne.po | 
+ | [si](/f32/language/si) | 20 | 239 | 8.4 | /mnt/stockage/packages/f32/mate-media/po/si.po | 
+ | [en_CA](/f32/language/en_CA) | 19 | 239 | 7.9 | /mnt/stockage/packages/f32/mate-media/po/en_CA.po | 
+ | [mg](/f32/language/mg) | 19 | 239 | 7.9 | /mnt/stockage/packages/f32/mate-media/po/mg.po | 
+ | [ps](/f32/language/ps) | 19 | 239 | 7.9 | /mnt/stockage/packages/f32/mate-media/po/ps.po | 
+ | [ka](/f32/language/ka) | 18 | 239 | 7.5 | /mnt/stockage/packages/f32/mate-media/po/ka.po | 
+ | [wa](/f32/language/wa) | 18 | 239 | 7.5 | /mnt/stockage/packages/f32/mate-media/po/wa.po | 
+ | [pms](/f32/language/pms) | 17 | 239 | 7.1 | /mnt/stockage/packages/f32/mate-media/po/pms.po | 
+ | [xh](/f32/language/xh) | 17 | 239 | 7.1 | /mnt/stockage/packages/f32/mate-media/po/xh.po | 
+ | [az](/f32/language/az) | 16 | 239 | 6.7 | /mnt/stockage/packages/f32/mate-media/po/az.po | 
+ | [fur](/f32/language/fur) | 15 | 239 | 6.3 | /mnt/stockage/packages/f32/mate-media/po/fur.po | 
+ | [es_CO](/f32/language/es_CO) | 14 | 239 | 5.9 | /mnt/stockage/packages/f32/mate-media/po/es_CO.po | 
+ | [fy](/f32/language/fy) | 13 | 239 | 5.4 | /mnt/stockage/packages/f32/mate-media/po/fy.po | 
+ | [es_AR](/f32/language/es_AR) | 12 | 239 | 5.0 | /mnt/stockage/packages/f32/mate-media/po/es_AR.po | 
+ | [es_MX](/f32/language/es_MX) | 12 | 239 | 5.0 | /mnt/stockage/packages/f32/mate-media/po/es_MX.po | 
+ | [es_PR](/f32/language/es_PR) | 12 | 239 | 5.0 | /mnt/stockage/packages/f32/mate-media/po/es_PR.po | 
+ | [ia](/f32/language/ia) | 12 | 239 | 5.0 | /mnt/stockage/packages/f32/mate-media/po/ia.po | 
+ | [kab](/f32/language/kab) | 12 | 239 | 5.0 | /mnt/stockage/packages/f32/mate-media/po/kab.po | 
+ | [rw](/f32/language/rw) | 11 | 239 | 4.6 | /mnt/stockage/packages/f32/mate-media/po/rw.po | 
+ | [sc](/f32/language/sc) | 11 | 239 | 4.6 | /mnt/stockage/packages/f32/mate-media/po/sc.po | 
+ | [jv](/f32/language/jv) | 10 | 239 | 4.2 | /mnt/stockage/packages/f32/mate-media/po/jv.po | 
+ | [tk](/f32/language/tk) | 8 | 239 | 3.3 | /mnt/stockage/packages/f32/mate-media/po/tk.po | 
+ | [es_CL](/f32/language/es_CL) | 7 | 239 | 2.9 | /mnt/stockage/packages/f32/mate-media/po/es_CL.po | 
+ | [nso](/f32/language/nso) | 7 | 239 | 2.9 | /mnt/stockage/packages/f32/mate-media/po/nso.po | 
+ | [zu](/f32/language/zu) | 7 | 239 | 2.9 | /mnt/stockage/packages/f32/mate-media/po/zu.po | 
+ | [yi](/f32/language/yi) | 6 | 239 | 2.5 | /mnt/stockage/packages/f32/mate-media/po/yi.po | 
+ | [es_VE](/f32/language/es_VE) | 5 | 239 | 2.1 | /mnt/stockage/packages/f32/mate-media/po/es_VE.po | 
+ | [fr_CA](/f32/language/fr_CA) | 5 | 239 | 2.1 | /mnt/stockage/packages/f32/mate-media/po/fr_CA.po | 
+ | [ha](/f32/language/ha) | 5 | 239 | 2.1 | /mnt/stockage/packages/f32/mate-media/po/ha.po | 
+ | [ig](/f32/language/ig) | 5 | 239 | 2.1 | /mnt/stockage/packages/f32/mate-media/po/ig.po | 
+ | [yo](/f32/language/yo) | 5 | 239 | 2.1 | /mnt/stockage/packages/f32/mate-media/po/yo.po | 
+ | [es_CR](/f32/language/es_CR) | 4 | 239 | 1.7 | /mnt/stockage/packages/f32/mate-media/po/es_CR.po | 
+ | [es_DO](/f32/language/es_DO) | 4 | 239 | 1.7 | /mnt/stockage/packages/f32/mate-media/po/es_DO.po | 
+ | [es_EC](/f32/language/es_EC) | 4 | 239 | 1.7 | /mnt/stockage/packages/f32/mate-media/po/es_EC.po | 
+ | [es_NI](/f32/language/es_NI) | 4 | 239 | 1.7 | /mnt/stockage/packages/f32/mate-media/po/es_NI.po | 
+ | [es_PA](/f32/language/es_PA) | 4 | 239 | 1.7 | /mnt/stockage/packages/f32/mate-media/po/es_PA.po | 
+ | [es_PE](/f32/language/es_PE) | 4 | 239 | 1.7 | /mnt/stockage/packages/f32/mate-media/po/es_PE.po | 
+ | [es_SV](/f32/language/es_SV) | 4 | 239 | 1.7 | /mnt/stockage/packages/f32/mate-media/po/es_SV.po | 
+ | [es_UY](/f32/language/es_UY) | 4 | 239 | 1.7 | /mnt/stockage/packages/f32/mate-media/po/es_UY.po | 
+ | [li](/f32/language/li) | 4 | 239 | 1.7 | /mnt/stockage/packages/f32/mate-media/po/li.po | 
+ | [an](/f32/language/an) | 3 | 239 | 1.3 | /mnt/stockage/packages/f32/mate-media/po/an.po | 
+ | [ks](/f32/language/ks) | 3 | 239 | 1.3 | /mnt/stockage/packages/f32/mate-media/po/ks.po | 
+ | [la](/f32/language/la) | 3 | 239 | 1.3 | /mnt/stockage/packages/f32/mate-media/po/la.po | 
+ | [mi](/f32/language/mi) | 3 | 239 | 1.3 | /mnt/stockage/packages/f32/mate-media/po/mi.po | 
+ | [gd](/f32/language/gd) | 2 | 239 | 0.8 | /mnt/stockage/packages/f32/mate-media/po/gd.po | 
 {.sortable}
 
 

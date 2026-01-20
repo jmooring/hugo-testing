@@ -18,15 +18,15 @@ The package eboard (version 1.1.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [pt_BR]({{< ref "/f10/language/pt_BR.md" >}}) | 2247 | 2247 | 100.0 | /mnt/stockage/packages/f10/eboard/multilang/eboard.pt_BR.po | 
- | [fr]({{< ref "/f10/language/fr.md" >}}) | 2238 | 2318 | 96.5 | /mnt/stockage/packages/f10/eboard/multilang/eboard.fr.po | 
- | [es]({{< ref "/f10/language/es.md" >}}) | 2167 | 2247 | 96.4 | /mnt/stockage/packages/f10/eboard/multilang/eboard.es.po | 
- | [it]({{< ref "/f10/language/it.md" >}}) | 2167 | 2247 | 96.4 | /mnt/stockage/packages/f10/eboard/multilang/eboard.it.po | 
- | [pl]({{< ref "/f10/language/pl.md" >}}) | 2044 | 2283 | 89.5 | /mnt/stockage/packages/f10/eboard/multilang/eboard.pl.po | 
- | [cs]({{< ref "/f10/language/cs.md" >}}) | 1978 | 2217 | 89.2 | /mnt/stockage/packages/f10/eboard/multilang/eboard.cs.po | 
- | [de]({{< ref "/f10/language/de.md" >}}) | 1978 | 2217 | 89.2 | /mnt/stockage/packages/f10/eboard/multilang/eboard.de.po | 
- | [ja]({{< ref "/f10/language/ja.md" >}}) | 1380 | 2211 | 62.4 | /mnt/stockage/packages/f10/eboard/multilang/eboard.ja.po | 
- | [hu]({{< ref "/f10/language/hu.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f10/eboard/multilang/eboard.hu.po | 
+ | [pt_BR](/f10/language/pt_BR) | 2247 | 2247 | 100.0 | /mnt/stockage/packages/f10/eboard/multilang/eboard.pt_BR.po | 
+ | [fr](/f10/language/fr) | 2238 | 2318 | 96.5 | /mnt/stockage/packages/f10/eboard/multilang/eboard.fr.po | 
+ | [es](/f10/language/es) | 2167 | 2247 | 96.4 | /mnt/stockage/packages/f10/eboard/multilang/eboard.es.po | 
+ | [it](/f10/language/it) | 2167 | 2247 | 96.4 | /mnt/stockage/packages/f10/eboard/multilang/eboard.it.po | 
+ | [pl](/f10/language/pl) | 2044 | 2283 | 89.5 | /mnt/stockage/packages/f10/eboard/multilang/eboard.pl.po | 
+ | [cs](/f10/language/cs) | 1978 | 2217 | 89.2 | /mnt/stockage/packages/f10/eboard/multilang/eboard.cs.po | 
+ | [de](/f10/language/de) | 1978 | 2217 | 89.2 | /mnt/stockage/packages/f10/eboard/multilang/eboard.de.po | 
+ | [ja](/f10/language/ja) | 1380 | 2211 | 62.4 | /mnt/stockage/packages/f10/eboard/multilang/eboard.ja.po | 
+ | [hu](/f10/language/hu) | 0 | 0 | 0.0 | /mnt/stockage/packages/f10/eboard/multilang/eboard.hu.po | 
 {.sortable}
 
 

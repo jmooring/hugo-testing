@@ -18,10 +18,10 @@ The package libepc (version 0.3.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f9/language/ca.md" >}}) | 141 | 141 | 100.0 | /mnt/stockage/packages/f9/libepc/po/ca.po | 
- | [de]({{< ref "/f9/language/de.md" >}}) | 141 | 141 | 100.0 | /mnt/stockage/packages/f9/libepc/po/de.po | 
- | [sv]({{< ref "/f9/language/sv.md" >}}) | 203 | 206 | 98.5 | /mnt/stockage/packages/f9/libepc/po/sv.po | 
- | [es]({{< ref "/f9/language/es.md" >}}) | 136 | 141 | 96.5 | /mnt/stockage/packages/f9/libepc/po/es.po | 
+ | [ca](/f9/language/ca) | 141 | 141 | 100.0 | /mnt/stockage/packages/f9/libepc/po/ca.po | 
+ | [de](/f9/language/de) | 141 | 141 | 100.0 | /mnt/stockage/packages/f9/libepc/po/de.po | 
+ | [sv](/f9/language/sv) | 203 | 206 | 98.5 | /mnt/stockage/packages/f9/libepc/po/sv.po | 
+ | [es](/f9/language/es) | 136 | 141 | 96.5 | /mnt/stockage/packages/f9/libepc/po/es.po | 
 {.sortable}
 
 

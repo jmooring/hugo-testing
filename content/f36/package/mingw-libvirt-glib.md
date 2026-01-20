@@ -18,22 +18,22 @@ The package mingw-libvirt-glib (version 4.0.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f36/language/cs.md" >}}) | 158 | 158 | 100.0 | /mnt/stockage/packages/f36/mingw-libvirt-glib/po/cs.po | 
- | [de]({{< ref "/f36/language/de.md" >}}) | 158 | 158 | 100.0 | /mnt/stockage/packages/f36/mingw-libvirt-glib/po/de.po | 
- | [es]({{< ref "/f36/language/es.md" >}}) | 158 | 158 | 100.0 | /mnt/stockage/packages/f36/mingw-libvirt-glib/po/es.po | 
- | [fi]({{< ref "/f36/language/fi.md" >}}) | 158 | 158 | 100.0 | /mnt/stockage/packages/f36/mingw-libvirt-glib/po/fi.po | 
- | [fr]({{< ref "/f36/language/fr.md" >}}) | 158 | 158 | 100.0 | /mnt/stockage/packages/f36/mingw-libvirt-glib/po/fr.po | 
- | [id]({{< ref "/f36/language/id.md" >}}) | 158 | 158 | 100.0 | /mnt/stockage/packages/f36/mingw-libvirt-glib/po/id.po | 
- | [it]({{< ref "/f36/language/it.md" >}}) | 158 | 158 | 100.0 | /mnt/stockage/packages/f36/mingw-libvirt-glib/po/it.po | 
- | [pl]({{< ref "/f36/language/pl.md" >}}) | 158 | 158 | 100.0 | /mnt/stockage/packages/f36/mingw-libvirt-glib/po/pl.po | 
- | [tr]({{< ref "/f36/language/tr.md" >}}) | 158 | 158 | 100.0 | /mnt/stockage/packages/f36/mingw-libvirt-glib/po/tr.po | 
- | [uk]({{< ref "/f36/language/uk.md" >}}) | 158 | 158 | 100.0 | /mnt/stockage/packages/f36/mingw-libvirt-glib/po/uk.po | 
- | [ca]({{< ref "/f36/language/ca.md" >}}) | 153 | 158 | 96.8 | /mnt/stockage/packages/f36/mingw-libvirt-glib/po/ca.po | 
- | [en_GB]({{< ref "/f36/language/en_GB.md" >}}) | 129 | 158 | 81.6 | /mnt/stockage/packages/f36/mingw-libvirt-glib/po/en_GB.po | 
- | [hi]({{< ref "/f36/language/hi.md" >}}) | 129 | 158 | 81.6 | /mnt/stockage/packages/f36/mingw-libvirt-glib/po/hi.po | 
- | [ja]({{< ref "/f36/language/ja.md" >}}) | 129 | 158 | 81.6 | /mnt/stockage/packages/f36/mingw-libvirt-glib/po/ja.po | 
- | [pt_BR]({{< ref "/f36/language/pt_BR.md" >}}) | 129 | 158 | 81.6 | /mnt/stockage/packages/f36/mingw-libvirt-glib/po/pt_BR.po | 
- | [ru]({{< ref "/f36/language/ru.md" >}}) | 4 | 158 | 2.5 | /mnt/stockage/packages/f36/mingw-libvirt-glib/po/ru.po | 
+ | [cs](/f36/language/cs) | 158 | 158 | 100.0 | /mnt/stockage/packages/f36/mingw-libvirt-glib/po/cs.po | 
+ | [de](/f36/language/de) | 158 | 158 | 100.0 | /mnt/stockage/packages/f36/mingw-libvirt-glib/po/de.po | 
+ | [es](/f36/language/es) | 158 | 158 | 100.0 | /mnt/stockage/packages/f36/mingw-libvirt-glib/po/es.po | 
+ | [fi](/f36/language/fi) | 158 | 158 | 100.0 | /mnt/stockage/packages/f36/mingw-libvirt-glib/po/fi.po | 
+ | [fr](/f36/language/fr) | 158 | 158 | 100.0 | /mnt/stockage/packages/f36/mingw-libvirt-glib/po/fr.po | 
+ | [id](/f36/language/id) | 158 | 158 | 100.0 | /mnt/stockage/packages/f36/mingw-libvirt-glib/po/id.po | 
+ | [it](/f36/language/it) | 158 | 158 | 100.0 | /mnt/stockage/packages/f36/mingw-libvirt-glib/po/it.po | 
+ | [pl](/f36/language/pl) | 158 | 158 | 100.0 | /mnt/stockage/packages/f36/mingw-libvirt-glib/po/pl.po | 
+ | [tr](/f36/language/tr) | 158 | 158 | 100.0 | /mnt/stockage/packages/f36/mingw-libvirt-glib/po/tr.po | 
+ | [uk](/f36/language/uk) | 158 | 158 | 100.0 | /mnt/stockage/packages/f36/mingw-libvirt-glib/po/uk.po | 
+ | [ca](/f36/language/ca) | 153 | 158 | 96.8 | /mnt/stockage/packages/f36/mingw-libvirt-glib/po/ca.po | 
+ | [en_GB](/f36/language/en_GB) | 129 | 158 | 81.6 | /mnt/stockage/packages/f36/mingw-libvirt-glib/po/en_GB.po | 
+ | [hi](/f36/language/hi) | 129 | 158 | 81.6 | /mnt/stockage/packages/f36/mingw-libvirt-glib/po/hi.po | 
+ | [ja](/f36/language/ja) | 129 | 158 | 81.6 | /mnt/stockage/packages/f36/mingw-libvirt-glib/po/ja.po | 
+ | [pt_BR](/f36/language/pt_BR) | 129 | 158 | 81.6 | /mnt/stockage/packages/f36/mingw-libvirt-glib/po/pt_BR.po | 
+ | [ru](/f36/language/ru) | 4 | 158 | 2.5 | /mnt/stockage/packages/f36/mingw-libvirt-glib/po/ru.po | 
 {.sortable}
 
 

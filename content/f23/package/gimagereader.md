@@ -18,22 +18,22 @@ The package gimagereader (version 3.2.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f23/language/cs.md" >}}) | 1049 | 1049 | 100.0 | /mnt/stockage/packages/f23/gimagereader/po/cs.po | 
- | [de]({{< ref "/f23/language/de.md" >}}) | 1049 | 1049 | 100.0 | /mnt/stockage/packages/f23/gimagereader/po/de.po | 
- | [es]({{< ref "/f23/language/es.md" >}}) | 1049 | 1049 | 100.0 | /mnt/stockage/packages/f23/gimagereader/po/es_ES.po | 
- | [fr]({{< ref "/f23/language/fr.md" >}}) | 1049 | 1049 | 100.0 | /mnt/stockage/packages/f23/gimagereader/po/fr.po | 
- | [it]({{< ref "/f23/language/it.md" >}}) | 1049 | 1049 | 100.0 | /mnt/stockage/packages/f23/gimagereader/po/it.po | 
- | [ru]({{< ref "/f23/language/ru.md" >}}) | 1049 | 1049 | 100.0 | /mnt/stockage/packages/f23/gimagereader/po/ru.po | 
- | [sv]({{< ref "/f23/language/sv.md" >}}) | 1049 | 1049 | 100.0 | /mnt/stockage/packages/f23/gimagereader/po/sv.po | 
- | [zh_Hans]({{< ref "/f23/language/zh_Hans.md" >}}) | 1041 | 1049 | 99.2 | /mnt/stockage/packages/f23/gimagereader/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f23/language/zh_Hant.md" >}}) | 1041 | 1049 | 99.2 | /mnt/stockage/packages/f23/gimagereader/po/zh_TW.po | 
- | [zh_Hant_HK]({{< ref "/f23/language/zh_Hant_HK.md" >}}) | 1041 | 1049 | 99.2 | /mnt/stockage/packages/f23/gimagereader/po/zh_HK.po | 
- | [pl]({{< ref "/f23/language/pl.md" >}}) | 945 | 1049 | 90.1 | /mnt/stockage/packages/f23/gimagereader/po/pl.po | 
- | [el]({{< ref "/f23/language/el.md" >}}) | 841 | 1049 | 80.2 | /mnt/stockage/packages/f23/gimagereader/po/el.po | 
- | [sl]({{< ref "/f23/language/sl.md" >}}) | 841 | 1049 | 80.2 | /mnt/stockage/packages/f23/gimagereader/po/sl.po | 
- | [uk]({{< ref "/f23/language/uk.md" >}}) | 791 | 1049 | 75.4 | /mnt/stockage/packages/f23/gimagereader/po/uk.po | 
- | [pt_BR]({{< ref "/f23/language/pt_BR.md" >}}) | 705 | 1049 | 67.2 | /mnt/stockage/packages/f23/gimagereader/po/pt_BR.po | 
- | [tr]({{< ref "/f23/language/tr.md" >}}) | 666 | 1049 | 63.5 | /mnt/stockage/packages/f23/gimagereader/po/tr.po | 
+ | [cs](/f23/language/cs) | 1049 | 1049 | 100.0 | /mnt/stockage/packages/f23/gimagereader/po/cs.po | 
+ | [de](/f23/language/de) | 1049 | 1049 | 100.0 | /mnt/stockage/packages/f23/gimagereader/po/de.po | 
+ | [es](/f23/language/es) | 1049 | 1049 | 100.0 | /mnt/stockage/packages/f23/gimagereader/po/es_ES.po | 
+ | [fr](/f23/language/fr) | 1049 | 1049 | 100.0 | /mnt/stockage/packages/f23/gimagereader/po/fr.po | 
+ | [it](/f23/language/it) | 1049 | 1049 | 100.0 | /mnt/stockage/packages/f23/gimagereader/po/it.po | 
+ | [ru](/f23/language/ru) | 1049 | 1049 | 100.0 | /mnt/stockage/packages/f23/gimagereader/po/ru.po | 
+ | [sv](/f23/language/sv) | 1049 | 1049 | 100.0 | /mnt/stockage/packages/f23/gimagereader/po/sv.po | 
+ | [zh_Hans](/f23/language/zh_Hans) | 1041 | 1049 | 99.2 | /mnt/stockage/packages/f23/gimagereader/po/zh_CN.po | 
+ | [zh_Hant](/f23/language/zh_Hant) | 1041 | 1049 | 99.2 | /mnt/stockage/packages/f23/gimagereader/po/zh_TW.po | 
+ | [zh_Hant_HK](/f23/language/zh_Hant_HK) | 1041 | 1049 | 99.2 | /mnt/stockage/packages/f23/gimagereader/po/zh_HK.po | 
+ | [pl](/f23/language/pl) | 945 | 1049 | 90.1 | /mnt/stockage/packages/f23/gimagereader/po/pl.po | 
+ | [el](/f23/language/el) | 841 | 1049 | 80.2 | /mnt/stockage/packages/f23/gimagereader/po/el.po | 
+ | [sl](/f23/language/sl) | 841 | 1049 | 80.2 | /mnt/stockage/packages/f23/gimagereader/po/sl.po | 
+ | [uk](/f23/language/uk) | 791 | 1049 | 75.4 | /mnt/stockage/packages/f23/gimagereader/po/uk.po | 
+ | [pt_BR](/f23/language/pt_BR) | 705 | 1049 | 67.2 | /mnt/stockage/packages/f23/gimagereader/po/pt_BR.po | 
+ | [tr](/f23/language/tr) | 666 | 1049 | 63.5 | /mnt/stockage/packages/f23/gimagereader/po/tr.po | 
 {.sortable}
 
 

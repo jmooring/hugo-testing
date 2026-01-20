@@ -18,72 +18,72 @@ The package sugar-words (version 24):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ach]({{< ref "/f33/language/ach.md" >}}) | 3 | 3 | 100.0 | /mnt/stockage/packages/f33/sugar-words/po/ach.po | 
- | [am]({{< ref "/f33/language/am.md" >}}) | 3 | 3 | 100.0 | /mnt/stockage/packages/f33/sugar-words/po/am.po | 
- | [ayc]({{< ref "/f33/language/ayc.md" >}}) | 3 | 3 | 100.0 | /mnt/stockage/packages/f33/sugar-words/po/ayc.po | 
- | [bn]({{< ref "/f33/language/bn.md" >}}) | 3 | 3 | 100.0 | /mnt/stockage/packages/f33/sugar-words/po/bn.po | 
- | [ca]({{< ref "/f33/language/ca.md" >}}) | 3 | 3 | 100.0 | /mnt/stockage/packages/f33/sugar-words/po/ca.po | 
- | [cs]({{< ref "/f33/language/cs.md" >}}) | 3 | 3 | 100.0 | /mnt/stockage/packages/f33/sugar-words/po/cs.po | 
- | [da]({{< ref "/f33/language/da.md" >}}) | 3 | 3 | 100.0 | /mnt/stockage/packages/f33/sugar-words/po/da.po | 
- | [de]({{< ref "/f33/language/de.md" >}}) | 3 | 3 | 100.0 | /mnt/stockage/packages/f33/sugar-words/po/de.po | 
- | [el]({{< ref "/f33/language/el.md" >}}) | 3 | 3 | 100.0 | /mnt/stockage/packages/f33/sugar-words/po/el.po | 
- | [en]({{< ref "/f33/language/en.md" >}}) | 3 | 3 | 100.0 | /mnt/stockage/packages/f33/sugar-words/po/en.po | 
- | [en_GB]({{< ref "/f33/language/en_GB.md" >}}) | 3 | 3 | 100.0 | /mnt/stockage/packages/f33/sugar-words/po/en_GB.po | 
- | [en_US]({{< ref "/f33/language/en_US.md" >}}) | 3 | 3 | 100.0 | /mnt/stockage/packages/f33/sugar-words/po/en_US.po | 
- | [error]({{< ref "/f33/language/error.md" >}}) | 3 | 3 | 100.0 | /mnt/stockage/packages/f33/sugar-words/po/pbs.po | 
- | [es]({{< ref "/f33/language/es.md" >}}) | 3 | 3 | 100.0 | /mnt/stockage/packages/f33/sugar-words/po/es.po | 
- | [fa]({{< ref "/f33/language/fa.md" >}}) | 3 | 3 | 100.0 | /mnt/stockage/packages/f33/sugar-words/po/fa.po | 
- | [fr]({{< ref "/f33/language/fr.md" >}}) | 3 | 3 | 100.0 | /mnt/stockage/packages/f33/sugar-words/po/fr.po | 
- | [gu]({{< ref "/f33/language/gu.md" >}}) | 3 | 3 | 100.0 | /mnt/stockage/packages/f33/sugar-words/po/gu.po | 
- | [gug]({{< ref "/f33/language/gug.md" >}}) | 3 | 3 | 100.0 | /mnt/stockage/packages/f33/sugar-words/po/gug.po | 
- | [he]({{< ref "/f33/language/he.md" >}}) | 3 | 3 | 100.0 | /mnt/stockage/packages/f33/sugar-words/po/he.po | 
- | [hi]({{< ref "/f33/language/hi.md" >}}) | 3 | 3 | 100.0 | /mnt/stockage/packages/f33/sugar-words/po/hi.po | 
- | [ht]({{< ref "/f33/language/ht.md" >}}) | 3 | 3 | 100.0 | /mnt/stockage/packages/f33/sugar-words/po/ht.po | 
- | [hu]({{< ref "/f33/language/hu.md" >}}) | 3 | 3 | 100.0 | /mnt/stockage/packages/f33/sugar-words/po/hu.po | 
- | [hus]({{< ref "/f33/language/hus.md" >}}) | 3 | 3 | 100.0 | /mnt/stockage/packages/f33/sugar-words/po/hus.po | 
- | [hy]({{< ref "/f33/language/hy.md" >}}) | 3 | 3 | 100.0 | /mnt/stockage/packages/f33/sugar-words/po/hy.po | 
- | [id]({{< ref "/f33/language/id.md" >}}) | 3 | 3 | 100.0 | /mnt/stockage/packages/f33/sugar-words/po/id.po | 
- | [is]({{< ref "/f33/language/is.md" >}}) | 3 | 3 | 100.0 | /mnt/stockage/packages/f33/sugar-words/po/is.po | 
- | [it]({{< ref "/f33/language/it.md" >}}) | 3 | 3 | 100.0 | /mnt/stockage/packages/f33/sugar-words/po/it.po | 
- | [ja]({{< ref "/f33/language/ja.md" >}}) | 3 | 3 | 100.0 | /mnt/stockage/packages/f33/sugar-words/po/ja.po | 
- | [kab]({{< ref "/f33/language/kab.md" >}}) | 3 | 3 | 100.0 | /mnt/stockage/packages/f33/sugar-words/po/kab.po | 
- | [ko]({{< ref "/f33/language/ko.md" >}}) | 3 | 3 | 100.0 | /mnt/stockage/packages/f33/sugar-words/po/ko.po | 
- | [lt]({{< ref "/f33/language/lt.md" >}}) | 3 | 3 | 100.0 | /mnt/stockage/packages/f33/sugar-words/po/lt.po | 
- | [mg]({{< ref "/f33/language/mg.md" >}}) | 3 | 3 | 100.0 | /mnt/stockage/packages/f33/sugar-words/po/mg.po | 
- | [mi]({{< ref "/f33/language/mi.md" >}}) | 3 | 3 | 100.0 | /mnt/stockage/packages/f33/sugar-words/po/mi.po | 
- | [ml]({{< ref "/f33/language/ml.md" >}}) | 3 | 3 | 100.0 | /mnt/stockage/packages/f33/sugar-words/po/ml.po | 
- | [mn]({{< ref "/f33/language/mn.md" >}}) | 3 | 3 | 100.0 | /mnt/stockage/packages/f33/sugar-words/po/mn.po | 
- | [ms]({{< ref "/f33/language/ms.md" >}}) | 3 | 3 | 100.0 | /mnt/stockage/packages/f33/sugar-words/po/ms.po | 
- | [nah]({{< ref "/f33/language/nah.md" >}}) | 3 | 3 | 100.0 | /mnt/stockage/packages/f33/sugar-words/po/nah.po | 
- | [ne]({{< ref "/f33/language/ne.md" >}}) | 3 | 3 | 100.0 | /mnt/stockage/packages/f33/sugar-words/po/ne.po | 
- | [nl]({{< ref "/f33/language/nl.md" >}}) | 3 | 3 | 100.0 | /mnt/stockage/packages/f33/sugar-words/po/nl.po | 
- | [pap]({{< ref "/f33/language/pap.md" >}}) | 3 | 3 | 100.0 | /mnt/stockage/packages/f33/sugar-words/po/pap.po | 
- | [pl]({{< ref "/f33/language/pl.md" >}}) | 3 | 3 | 100.0 | /mnt/stockage/packages/f33/sugar-words/po/pl.po | 
- | [pt]({{< ref "/f33/language/pt.md" >}}) | 3 | 3 | 100.0 | /mnt/stockage/packages/f33/sugar-words/po/pt.po | 
- | [pt_BR]({{< ref "/f33/language/pt_BR.md" >}}) | 3 | 3 | 100.0 | /mnt/stockage/packages/f33/sugar-words/po/pt_BR.po | 
- | [qu]({{< ref "/f33/language/qu.md" >}}) | 3 | 3 | 100.0 | /mnt/stockage/packages/f33/sugar-words/po/quz.po | 
- | [ro]({{< ref "/f33/language/ro.md" >}}) | 3 | 3 | 100.0 | /mnt/stockage/packages/f33/sugar-words/po/ro.po | 
- | [ru]({{< ref "/f33/language/ru.md" >}}) | 3 | 3 | 100.0 | /mnt/stockage/packages/f33/sugar-words/po/ru.po | 
- | [rw]({{< ref "/f33/language/rw.md" >}}) | 3 | 3 | 100.0 | /mnt/stockage/packages/f33/sugar-words/po/rw.po | 
- | [si]({{< ref "/f33/language/si.md" >}}) | 3 | 3 | 100.0 | /mnt/stockage/packages/f33/sugar-words/po/si.po | 
- | [sk]({{< ref "/f33/language/sk.md" >}}) | 3 | 3 | 100.0 | /mnt/stockage/packages/f33/sugar-words/po/sk.po | 
- | [sl]({{< ref "/f33/language/sl.md" >}}) | 3 | 3 | 100.0 | /mnt/stockage/packages/f33/sugar-words/po/sl.po | 
- | [son]({{< ref "/f33/language/son.md" >}}) | 3 | 3 | 100.0 | /mnt/stockage/packages/f33/sugar-words/po/son.po | 
- | [sq]({{< ref "/f33/language/sq.md" >}}) | 3 | 3 | 100.0 | /mnt/stockage/packages/f33/sugar-words/po/sq.po | 
- | [sr]({{< ref "/f33/language/sr.md" >}}) | 3 | 3 | 100.0 | /mnt/stockage/packages/f33/sugar-words/po/sr.po | 
- | [sv]({{< ref "/f33/language/sv.md" >}}) | 3 | 3 | 100.0 | /mnt/stockage/packages/f33/sugar-words/po/sv.po | 
- | [sw]({{< ref "/f33/language/sw.md" >}}) | 3 | 3 | 100.0 | /mnt/stockage/packages/f33/sugar-words/po/sw.po | 
- | [ta]({{< ref "/f33/language/ta.md" >}}) | 3 | 3 | 100.0 | /mnt/stockage/packages/f33/sugar-words/po/ta.po | 
- | [th]({{< ref "/f33/language/th.md" >}}) | 3 | 3 | 100.0 | /mnt/stockage/packages/f33/sugar-words/po/th.po | 
- | [ug]({{< ref "/f33/language/ug.md" >}}) | 3 | 3 | 100.0 | /mnt/stockage/packages/f33/sugar-words/po/ug.po | 
- | [uk]({{< ref "/f33/language/uk.md" >}}) | 3 | 3 | 100.0 | /mnt/stockage/packages/f33/sugar-words/po/uk.po | 
- | [vi]({{< ref "/f33/language/vi.md" >}}) | 3 | 3 | 100.0 | /mnt/stockage/packages/f33/sugar-words/po/vi.po | 
- | [zh_Hans]({{< ref "/f33/language/zh_Hans.md" >}}) | 3 | 3 | 100.0 | /mnt/stockage/packages/f33/sugar-words/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f33/language/zh_Hant.md" >}}) | 3 | 3 | 100.0 | /mnt/stockage/packages/f33/sugar-words/po/zh_TW.po | 
- | [ar]({{< ref "/f33/language/ar.md" >}}) | 2 | 3 | 66.7 | /mnt/stockage/packages/f33/sugar-words/po/ar.po | 
- | [km]({{< ref "/f33/language/km.md" >}}) | 2 | 3 | 66.7 | /mnt/stockage/packages/f33/sugar-words/po/km.po | 
- | [mr]({{< ref "/f33/language/mr.md" >}}) | 1 | 3 | 33.3 | /mnt/stockage/packages/f33/sugar-words/po/mr.po | 
- | [ur]({{< ref "/f33/language/ur.md" >}}) | 0 | 3 | 0.0 | /mnt/stockage/packages/f33/sugar-words/po/ur.po | 
+ | [ach](/f33/language/ach) | 3 | 3 | 100.0 | /mnt/stockage/packages/f33/sugar-words/po/ach.po | 
+ | [am](/f33/language/am) | 3 | 3 | 100.0 | /mnt/stockage/packages/f33/sugar-words/po/am.po | 
+ | [ayc](/f33/language/ayc) | 3 | 3 | 100.0 | /mnt/stockage/packages/f33/sugar-words/po/ayc.po | 
+ | [bn](/f33/language/bn) | 3 | 3 | 100.0 | /mnt/stockage/packages/f33/sugar-words/po/bn.po | 
+ | [ca](/f33/language/ca) | 3 | 3 | 100.0 | /mnt/stockage/packages/f33/sugar-words/po/ca.po | 
+ | [cs](/f33/language/cs) | 3 | 3 | 100.0 | /mnt/stockage/packages/f33/sugar-words/po/cs.po | 
+ | [da](/f33/language/da) | 3 | 3 | 100.0 | /mnt/stockage/packages/f33/sugar-words/po/da.po | 
+ | [de](/f33/language/de) | 3 | 3 | 100.0 | /mnt/stockage/packages/f33/sugar-words/po/de.po | 
+ | [el](/f33/language/el) | 3 | 3 | 100.0 | /mnt/stockage/packages/f33/sugar-words/po/el.po | 
+ | [en](/f33/language/en) | 3 | 3 | 100.0 | /mnt/stockage/packages/f33/sugar-words/po/en.po | 
+ | [en_GB](/f33/language/en_GB) | 3 | 3 | 100.0 | /mnt/stockage/packages/f33/sugar-words/po/en_GB.po | 
+ | [en_US](/f33/language/en_US) | 3 | 3 | 100.0 | /mnt/stockage/packages/f33/sugar-words/po/en_US.po | 
+ | [error](/f33/language/error) | 3 | 3 | 100.0 | /mnt/stockage/packages/f33/sugar-words/po/pbs.po | 
+ | [es](/f33/language/es) | 3 | 3 | 100.0 | /mnt/stockage/packages/f33/sugar-words/po/es.po | 
+ | [fa](/f33/language/fa) | 3 | 3 | 100.0 | /mnt/stockage/packages/f33/sugar-words/po/fa.po | 
+ | [fr](/f33/language/fr) | 3 | 3 | 100.0 | /mnt/stockage/packages/f33/sugar-words/po/fr.po | 
+ | [gu](/f33/language/gu) | 3 | 3 | 100.0 | /mnt/stockage/packages/f33/sugar-words/po/gu.po | 
+ | [gug](/f33/language/gug) | 3 | 3 | 100.0 | /mnt/stockage/packages/f33/sugar-words/po/gug.po | 
+ | [he](/f33/language/he) | 3 | 3 | 100.0 | /mnt/stockage/packages/f33/sugar-words/po/he.po | 
+ | [hi](/f33/language/hi) | 3 | 3 | 100.0 | /mnt/stockage/packages/f33/sugar-words/po/hi.po | 
+ | [ht](/f33/language/ht) | 3 | 3 | 100.0 | /mnt/stockage/packages/f33/sugar-words/po/ht.po | 
+ | [hu](/f33/language/hu) | 3 | 3 | 100.0 | /mnt/stockage/packages/f33/sugar-words/po/hu.po | 
+ | [hus](/f33/language/hus) | 3 | 3 | 100.0 | /mnt/stockage/packages/f33/sugar-words/po/hus.po | 
+ | [hy](/f33/language/hy) | 3 | 3 | 100.0 | /mnt/stockage/packages/f33/sugar-words/po/hy.po | 
+ | [id](/f33/language/id) | 3 | 3 | 100.0 | /mnt/stockage/packages/f33/sugar-words/po/id.po | 
+ | [is](/f33/language/is) | 3 | 3 | 100.0 | /mnt/stockage/packages/f33/sugar-words/po/is.po | 
+ | [it](/f33/language/it) | 3 | 3 | 100.0 | /mnt/stockage/packages/f33/sugar-words/po/it.po | 
+ | [ja](/f33/language/ja) | 3 | 3 | 100.0 | /mnt/stockage/packages/f33/sugar-words/po/ja.po | 
+ | [kab](/f33/language/kab) | 3 | 3 | 100.0 | /mnt/stockage/packages/f33/sugar-words/po/kab.po | 
+ | [ko](/f33/language/ko) | 3 | 3 | 100.0 | /mnt/stockage/packages/f33/sugar-words/po/ko.po | 
+ | [lt](/f33/language/lt) | 3 | 3 | 100.0 | /mnt/stockage/packages/f33/sugar-words/po/lt.po | 
+ | [mg](/f33/language/mg) | 3 | 3 | 100.0 | /mnt/stockage/packages/f33/sugar-words/po/mg.po | 
+ | [mi](/f33/language/mi) | 3 | 3 | 100.0 | /mnt/stockage/packages/f33/sugar-words/po/mi.po | 
+ | [ml](/f33/language/ml) | 3 | 3 | 100.0 | /mnt/stockage/packages/f33/sugar-words/po/ml.po | 
+ | [mn](/f33/language/mn) | 3 | 3 | 100.0 | /mnt/stockage/packages/f33/sugar-words/po/mn.po | 
+ | [ms](/f33/language/ms) | 3 | 3 | 100.0 | /mnt/stockage/packages/f33/sugar-words/po/ms.po | 
+ | [nah](/f33/language/nah) | 3 | 3 | 100.0 | /mnt/stockage/packages/f33/sugar-words/po/nah.po | 
+ | [ne](/f33/language/ne) | 3 | 3 | 100.0 | /mnt/stockage/packages/f33/sugar-words/po/ne.po | 
+ | [nl](/f33/language/nl) | 3 | 3 | 100.0 | /mnt/stockage/packages/f33/sugar-words/po/nl.po | 
+ | [pap](/f33/language/pap) | 3 | 3 | 100.0 | /mnt/stockage/packages/f33/sugar-words/po/pap.po | 
+ | [pl](/f33/language/pl) | 3 | 3 | 100.0 | /mnt/stockage/packages/f33/sugar-words/po/pl.po | 
+ | [pt](/f33/language/pt) | 3 | 3 | 100.0 | /mnt/stockage/packages/f33/sugar-words/po/pt.po | 
+ | [pt_BR](/f33/language/pt_BR) | 3 | 3 | 100.0 | /mnt/stockage/packages/f33/sugar-words/po/pt_BR.po | 
+ | [qu](/f33/language/qu) | 3 | 3 | 100.0 | /mnt/stockage/packages/f33/sugar-words/po/quz.po | 
+ | [ro](/f33/language/ro) | 3 | 3 | 100.0 | /mnt/stockage/packages/f33/sugar-words/po/ro.po | 
+ | [ru](/f33/language/ru) | 3 | 3 | 100.0 | /mnt/stockage/packages/f33/sugar-words/po/ru.po | 
+ | [rw](/f33/language/rw) | 3 | 3 | 100.0 | /mnt/stockage/packages/f33/sugar-words/po/rw.po | 
+ | [si](/f33/language/si) | 3 | 3 | 100.0 | /mnt/stockage/packages/f33/sugar-words/po/si.po | 
+ | [sk](/f33/language/sk) | 3 | 3 | 100.0 | /mnt/stockage/packages/f33/sugar-words/po/sk.po | 
+ | [sl](/f33/language/sl) | 3 | 3 | 100.0 | /mnt/stockage/packages/f33/sugar-words/po/sl.po | 
+ | [son](/f33/language/son) | 3 | 3 | 100.0 | /mnt/stockage/packages/f33/sugar-words/po/son.po | 
+ | [sq](/f33/language/sq) | 3 | 3 | 100.0 | /mnt/stockage/packages/f33/sugar-words/po/sq.po | 
+ | [sr](/f33/language/sr) | 3 | 3 | 100.0 | /mnt/stockage/packages/f33/sugar-words/po/sr.po | 
+ | [sv](/f33/language/sv) | 3 | 3 | 100.0 | /mnt/stockage/packages/f33/sugar-words/po/sv.po | 
+ | [sw](/f33/language/sw) | 3 | 3 | 100.0 | /mnt/stockage/packages/f33/sugar-words/po/sw.po | 
+ | [ta](/f33/language/ta) | 3 | 3 | 100.0 | /mnt/stockage/packages/f33/sugar-words/po/ta.po | 
+ | [th](/f33/language/th) | 3 | 3 | 100.0 | /mnt/stockage/packages/f33/sugar-words/po/th.po | 
+ | [ug](/f33/language/ug) | 3 | 3 | 100.0 | /mnt/stockage/packages/f33/sugar-words/po/ug.po | 
+ | [uk](/f33/language/uk) | 3 | 3 | 100.0 | /mnt/stockage/packages/f33/sugar-words/po/uk.po | 
+ | [vi](/f33/language/vi) | 3 | 3 | 100.0 | /mnt/stockage/packages/f33/sugar-words/po/vi.po | 
+ | [zh_Hans](/f33/language/zh_Hans) | 3 | 3 | 100.0 | /mnt/stockage/packages/f33/sugar-words/po/zh_CN.po | 
+ | [zh_Hant](/f33/language/zh_Hant) | 3 | 3 | 100.0 | /mnt/stockage/packages/f33/sugar-words/po/zh_TW.po | 
+ | [ar](/f33/language/ar) | 2 | 3 | 66.7 | /mnt/stockage/packages/f33/sugar-words/po/ar.po | 
+ | [km](/f33/language/km) | 2 | 3 | 66.7 | /mnt/stockage/packages/f33/sugar-words/po/km.po | 
+ | [mr](/f33/language/mr) | 1 | 3 | 33.3 | /mnt/stockage/packages/f33/sugar-words/po/mr.po | 
+ | [ur](/f33/language/ur) | 0 | 3 | 0.0 | /mnt/stockage/packages/f33/sugar-words/po/ur.po | 
 {.sortable}
 
 

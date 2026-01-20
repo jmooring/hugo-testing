@@ -18,15 +18,15 @@ The package cantata (version 1.4.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f20/language/cs.md" >}}) | 6933 | 6933 | 100.0 | /mnt/stockage/packages/f20/cantata/po/cs.po | 
- | [es]({{< ref "/f20/language/es.md" >}}) | 6933 | 6933 | 100.0 | /mnt/stockage/packages/f20/cantata/po/es.po | 
- | [hu]({{< ref "/f20/language/hu.md" >}}) | 6933 | 6933 | 100.0 | /mnt/stockage/packages/f20/cantata/po/hu.po | 
- | [ko]({{< ref "/f20/language/ko.md" >}}) | 6933 | 6933 | 100.0 | /mnt/stockage/packages/f20/cantata/po/ko.po | 
- | [pl]({{< ref "/f20/language/pl.md" >}}) | 6933 | 6933 | 100.0 | /mnt/stockage/packages/f20/cantata/po/pl.po | 
- | [ru]({{< ref "/f20/language/ru.md" >}}) | 6135 | 6933 | 88.5 | /mnt/stockage/packages/f20/cantata/po/ru.po | 
- | [de]({{< ref "/f20/language/de.md" >}}) | 4809 | 6933 | 69.4 | /mnt/stockage/packages/f20/cantata/po/de.po | 
- | [zh_Hans]({{< ref "/f20/language/zh_Hans.md" >}}) | 1925 | 6933 | 27.8 | /mnt/stockage/packages/f20/cantata/po/zh_CN.po | 
- | [en_GB]({{< ref "/f20/language/en_GB.md" >}}) | 120 | 6933 | 1.7 | /mnt/stockage/packages/f20/cantata/po/en_GB.po | 
+ | [cs](/f20/language/cs) | 6933 | 6933 | 100.0 | /mnt/stockage/packages/f20/cantata/po/cs.po | 
+ | [es](/f20/language/es) | 6933 | 6933 | 100.0 | /mnt/stockage/packages/f20/cantata/po/es.po | 
+ | [hu](/f20/language/hu) | 6933 | 6933 | 100.0 | /mnt/stockage/packages/f20/cantata/po/hu.po | 
+ | [ko](/f20/language/ko) | 6933 | 6933 | 100.0 | /mnt/stockage/packages/f20/cantata/po/ko.po | 
+ | [pl](/f20/language/pl) | 6933 | 6933 | 100.0 | /mnt/stockage/packages/f20/cantata/po/pl.po | 
+ | [ru](/f20/language/ru) | 6135 | 6933 | 88.5 | /mnt/stockage/packages/f20/cantata/po/ru.po | 
+ | [de](/f20/language/de) | 4809 | 6933 | 69.4 | /mnt/stockage/packages/f20/cantata/po/de.po | 
+ | [zh_Hans](/f20/language/zh_Hans) | 1925 | 6933 | 27.8 | /mnt/stockage/packages/f20/cantata/po/zh_CN.po | 
+ | [en_GB](/f20/language/en_GB) | 120 | 6933 | 1.7 | /mnt/stockage/packages/f20/cantata/po/en_GB.po | 
 {.sortable}
 
 

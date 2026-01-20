@@ -18,15 +18,15 @@ The package fcitx5-chinese-addons (version 5.0.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [zh_Hans]({{< ref "/f32/language/zh_Hans.md" >}}) | 916 | 916 | 100.0 | /mnt/stockage/packages/f32/fcitx5-chinese-addons/po/zh_CN.po | 
- | [da]({{< ref "/f32/language/da.md" >}}) | 880 | 916 | 96.1 | /mnt/stockage/packages/f32/fcitx5-chinese-addons/po/da.po | 
- | [ko]({{< ref "/f32/language/ko.md" >}}) | 518 | 916 | 56.6 | /mnt/stockage/packages/f32/fcitx5-chinese-addons/po/ko.po | 
- | [de]({{< ref "/f32/language/de.md" >}}) | 331 | 916 | 36.1 | /mnt/stockage/packages/f32/fcitx5-chinese-addons/po/de.po | 
- | [ru]({{< ref "/f32/language/ru.md" >}}) | 182 | 916 | 19.9 | /mnt/stockage/packages/f32/fcitx5-chinese-addons/po/ru.po | 
- | [zh_Hant]({{< ref "/f32/language/zh_Hant.md" >}}) | 158 | 916 | 17.2 | /mnt/stockage/packages/f32/fcitx5-chinese-addons/po/zh_TW.po | 
- | [ca]({{< ref "/f32/language/ca.md" >}}) | 99 | 916 | 10.8 | /mnt/stockage/packages/f32/fcitx5-chinese-addons/po/ca.po | 
- | [he]({{< ref "/f32/language/he.md" >}}) | 5 | 916 | 0.5 | /mnt/stockage/packages/f32/fcitx5-chinese-addons/po/he.po | 
- | [ja]({{< ref "/f32/language/ja.md" >}}) | 1 | 916 | 0.1 | /mnt/stockage/packages/f32/fcitx5-chinese-addons/po/ja.po | 
+ | [zh_Hans](/f32/language/zh_Hans) | 916 | 916 | 100.0 | /mnt/stockage/packages/f32/fcitx5-chinese-addons/po/zh_CN.po | 
+ | [da](/f32/language/da) | 880 | 916 | 96.1 | /mnt/stockage/packages/f32/fcitx5-chinese-addons/po/da.po | 
+ | [ko](/f32/language/ko) | 518 | 916 | 56.6 | /mnt/stockage/packages/f32/fcitx5-chinese-addons/po/ko.po | 
+ | [de](/f32/language/de) | 331 | 916 | 36.1 | /mnt/stockage/packages/f32/fcitx5-chinese-addons/po/de.po | 
+ | [ru](/f32/language/ru) | 182 | 916 | 19.9 | /mnt/stockage/packages/f32/fcitx5-chinese-addons/po/ru.po | 
+ | [zh_Hant](/f32/language/zh_Hant) | 158 | 916 | 17.2 | /mnt/stockage/packages/f32/fcitx5-chinese-addons/po/zh_TW.po | 
+ | [ca](/f32/language/ca) | 99 | 916 | 10.8 | /mnt/stockage/packages/f32/fcitx5-chinese-addons/po/ca.po | 
+ | [he](/f32/language/he) | 5 | 916 | 0.5 | /mnt/stockage/packages/f32/fcitx5-chinese-addons/po/he.po | 
+ | [ja](/f32/language/ja) | 1 | 916 | 0.1 | /mnt/stockage/packages/f32/fcitx5-chinese-addons/po/ja.po | 
 {.sortable}
 
 

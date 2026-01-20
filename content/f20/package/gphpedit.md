@@ -18,9 +18,9 @@ The package gphpedit (version 0.9.98):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [es]({{< ref "/f20/language/es.md" >}}) | 873 | 1071 | 81.5 | /mnt/stockage/packages/f20/gphpedit/po/es.po | 
- | [de]({{< ref "/f20/language/de.md" >}}) | 590 | 1056 | 55.9 | /mnt/stockage/packages/f20/gphpedit/po/de.po | 
- | [en]({{< ref "/f20/language/en.md" >}}) | 4 | 683 | 0.6 | /mnt/stockage/packages/f20/gphpedit/po/en.po | 
+ | [es](/f20/language/es) | 873 | 1071 | 81.5 | /mnt/stockage/packages/f20/gphpedit/po/es.po | 
+ | [de](/f20/language/de) | 590 | 1056 | 55.9 | /mnt/stockage/packages/f20/gphpedit/po/de.po | 
+ | [en](/f20/language/en) | 4 | 683 | 0.6 | /mnt/stockage/packages/f20/gphpedit/po/en.po | 
 {.sortable}
 
 

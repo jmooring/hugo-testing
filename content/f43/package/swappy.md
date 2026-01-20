@@ -18,11 +18,11 @@ The package swappy (version 1.5.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [en]({{< ref "/f43/language/en.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f43/swappy/src/po/en.po | 
- | [fr]({{< ref "/f43/language/fr.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f43/swappy/src/po/fr.po | 
- | [de]({{< ref "/f43/language/de.md" >}}) | 19 | 24 | 79.2 | /mnt/stockage/packages/f43/swappy/src/po/de.po | 
- | [pt_BR]({{< ref "/f43/language/pt_BR.md" >}}) | 19 | 24 | 79.2 | /mnt/stockage/packages/f43/swappy/src/po/pt_BR.po | 
- | [tr]({{< ref "/f43/language/tr.md" >}}) | 19 | 24 | 79.2 | /mnt/stockage/packages/f43/swappy/src/po/tr.po | 
+ | [en](/f43/language/en) | 24 | 24 | 100.0 | /mnt/stockage/packages/f43/swappy/src/po/en.po | 
+ | [fr](/f43/language/fr) | 24 | 24 | 100.0 | /mnt/stockage/packages/f43/swappy/src/po/fr.po | 
+ | [de](/f43/language/de) | 19 | 24 | 79.2 | /mnt/stockage/packages/f43/swappy/src/po/de.po | 
+ | [pt_BR](/f43/language/pt_BR) | 19 | 24 | 79.2 | /mnt/stockage/packages/f43/swappy/src/po/pt_BR.po | 
+ | [tr](/f43/language/tr) | 19 | 24 | 79.2 | /mnt/stockage/packages/f43/swappy/src/po/tr.po | 
 {.sortable}
 
 

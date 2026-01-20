@@ -18,19 +18,19 @@ The package openstack-neutron (version 2014.2.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [en_GB]({{< ref "/f22/language/en_GB.md" >}}) | 76 | 278 | 27.3 | /mnt/stockage/packages/f22/openstack-neutron/neutron/locale/en_GB/LC_MESSAGES/neutron-log-info.po | 
- | [te]({{< ref "/f22/language/te.md" >}}) | 76 | 278 | 27.3 | /mnt/stockage/packages/f22/openstack-neutron/neutron/locale/te_IN/LC_MESSAGES/neutron-log-info.po | 
- | [de]({{< ref "/f22/language/de.md" >}}) | 75 | 278 | 27.0 | /mnt/stockage/packages/f22/openstack-neutron/neutron/locale/de/LC_MESSAGES/neutron-log-info.po | 
- | [it]({{< ref "/f22/language/it.md" >}}) | 75 | 278 | 27.0 | /mnt/stockage/packages/f22/openstack-neutron/neutron/locale/it/LC_MESSAGES/neutron-log-info.po | 
- | [fr]({{< ref "/f22/language/fr.md" >}}) | 71 | 278 | 25.5 | /mnt/stockage/packages/f22/openstack-neutron/neutron/locale/fr/LC_MESSAGES/neutron-log-info.po | 
- | [zh_Hans]({{< ref "/f22/language/zh_Hans.md" >}}) | 71 | 278 | 25.5 | /mnt/stockage/packages/f22/openstack-neutron/neutron/locale/zh_CN/LC_MESSAGES/neutron-log-info.po | 
- | [en_AU]({{< ref "/f22/language/en_AU.md" >}}) | 58 | 278 | 20.9 | /mnt/stockage/packages/f22/openstack-neutron/neutron/locale/en_AU/LC_MESSAGES/neutron-log-info.po | 
- | [es]({{< ref "/f22/language/es.md" >}}) | 58 | 278 | 20.9 | /mnt/stockage/packages/f22/openstack-neutron/neutron/locale/es/LC_MESSAGES/neutron-log-info.po | 
- | [ja]({{< ref "/f22/language/ja.md" >}}) | 58 | 278 | 20.9 | /mnt/stockage/packages/f22/openstack-neutron/neutron/locale/ja/LC_MESSAGES/neutron-log-info.po | 
- | [ko]({{< ref "/f22/language/ko.md" >}}) | 58 | 278 | 20.9 | /mnt/stockage/packages/f22/openstack-neutron/neutron/locale/ko_KR/LC_MESSAGES/neutron-log-info.po | 
- | [zh_Hant]({{< ref "/f22/language/zh_Hant.md" >}}) | 58 | 278 | 20.9 | /mnt/stockage/packages/f22/openstack-neutron/neutron/locale/zh_TW/LC_MESSAGES/neutron-log-info.po | 
- | [pt_BR]({{< ref "/f22/language/pt_BR.md" >}}) | 127 | 675 | 18.8 | /mnt/stockage/packages/f22/openstack-neutron/neutron/locale/pt_BR/LC_MESSAGES/neutron-log-info.po/mnt/stockage/packages/f22/openstack-neutron/neutron/locale/pt_BR/LC_MESSAGES/neutron-log-error.po | 
- | [vi]({{< ref "/f22/language/vi.md" >}}) | 52 | 278 | 18.7 | /mnt/stockage/packages/f22/openstack-neutron/neutron/locale/vi_VN/LC_MESSAGES/neutron-log-info.po | 
+ | [en_GB](/f22/language/en_GB) | 76 | 278 | 27.3 | /mnt/stockage/packages/f22/openstack-neutron/neutron/locale/en_GB/LC_MESSAGES/neutron-log-info.po | 
+ | [te](/f22/language/te) | 76 | 278 | 27.3 | /mnt/stockage/packages/f22/openstack-neutron/neutron/locale/te_IN/LC_MESSAGES/neutron-log-info.po | 
+ | [de](/f22/language/de) | 75 | 278 | 27.0 | /mnt/stockage/packages/f22/openstack-neutron/neutron/locale/de/LC_MESSAGES/neutron-log-info.po | 
+ | [it](/f22/language/it) | 75 | 278 | 27.0 | /mnt/stockage/packages/f22/openstack-neutron/neutron/locale/it/LC_MESSAGES/neutron-log-info.po | 
+ | [fr](/f22/language/fr) | 71 | 278 | 25.5 | /mnt/stockage/packages/f22/openstack-neutron/neutron/locale/fr/LC_MESSAGES/neutron-log-info.po | 
+ | [zh_Hans](/f22/language/zh_Hans) | 71 | 278 | 25.5 | /mnt/stockage/packages/f22/openstack-neutron/neutron/locale/zh_CN/LC_MESSAGES/neutron-log-info.po | 
+ | [en_AU](/f22/language/en_AU) | 58 | 278 | 20.9 | /mnt/stockage/packages/f22/openstack-neutron/neutron/locale/en_AU/LC_MESSAGES/neutron-log-info.po | 
+ | [es](/f22/language/es) | 58 | 278 | 20.9 | /mnt/stockage/packages/f22/openstack-neutron/neutron/locale/es/LC_MESSAGES/neutron-log-info.po | 
+ | [ja](/f22/language/ja) | 58 | 278 | 20.9 | /mnt/stockage/packages/f22/openstack-neutron/neutron/locale/ja/LC_MESSAGES/neutron-log-info.po | 
+ | [ko](/f22/language/ko) | 58 | 278 | 20.9 | /mnt/stockage/packages/f22/openstack-neutron/neutron/locale/ko_KR/LC_MESSAGES/neutron-log-info.po | 
+ | [zh_Hant](/f22/language/zh_Hant) | 58 | 278 | 20.9 | /mnt/stockage/packages/f22/openstack-neutron/neutron/locale/zh_TW/LC_MESSAGES/neutron-log-info.po | 
+ | [pt_BR](/f22/language/pt_BR) | 127 | 675 | 18.8 | /mnt/stockage/packages/f22/openstack-neutron/neutron/locale/pt_BR/LC_MESSAGES/neutron-log-info.po/mnt/stockage/packages/f22/openstack-neutron/neutron/locale/pt_BR/LC_MESSAGES/neutron-log-error.po | 
+ | [vi](/f22/language/vi) | 52 | 278 | 18.7 | /mnt/stockage/packages/f22/openstack-neutron/neutron/locale/vi_VN/LC_MESSAGES/neutron-log-info.po | 
 {.sortable}
 
 

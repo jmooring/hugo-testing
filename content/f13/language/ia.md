@@ -39,11 +39,11 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [mailman]({{< ref "/f13/package/mailman.md" >}}) | 15548 | 21904 | 71.0 | Interlingua <TradSoft@interlingua.com> | 
- | [widelands]({{< ref "/f13/package/widelands.md" >}}) | 328 | 6817 | 4.8 | Interlingua <ia@li.org> | 
- | [stellarium]({{< ref "/f13/package/stellarium.md" >}}) | 26 | 1384 | 1.9 | Interlingua <ia@li.org> | 
- | [gtk2]({{< ref "/f13/package/gtk2.md" >}}) | 78 | 13704 | 0.6 | Interlingua | 
- | [mingw32-gtk2]({{< ref "/f13/package/mingw32-gtk2.md" >}}) | 78 | 13704 | 0.6 | Interlingua | 
+ | [mailman](/f13/package/mailman) | 15548 | 21904 | 71.0 | Interlingua <TradSoft@interlingua.com> | 
+ | [widelands](/f13/package/widelands) | 328 | 6817 | 4.8 | Interlingua <ia@li.org> | 
+ | [stellarium](/f13/package/stellarium) | 26 | 1384 | 1.9 | Interlingua <ia@li.org> | 
+ | [gtk2](/f13/package/gtk2) | 78 | 13704 | 0.6 | Interlingua | 
+ | [mingw32-gtk2](/f13/package/mingw32-gtk2) | 78 | 13704 | 0.6 | Interlingua | 
 {.sortable}
 
 

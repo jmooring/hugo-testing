@@ -18,22 +18,22 @@ The package gnome-tweak-tool (version 3.0.5):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f15/language/cs.md" >}}) | 7 | 7 | 100.0 | /mnt/stockage/packages/f15/gnome-tweak-tool/po/cs.po | 
- | [da]({{< ref "/f15/language/da.md" >}}) | 7 | 7 | 100.0 | /mnt/stockage/packages/f15/gnome-tweak-tool/po/da.po | 
- | [de]({{< ref "/f15/language/de.md" >}}) | 7 | 7 | 100.0 | /mnt/stockage/packages/f15/gnome-tweak-tool/po/de.po | 
- | [el]({{< ref "/f15/language/el.md" >}}) | 7 | 7 | 100.0 | /mnt/stockage/packages/f15/gnome-tweak-tool/po/el.po | 
- | [es]({{< ref "/f15/language/es.md" >}}) | 7 | 7 | 100.0 | /mnt/stockage/packages/f15/gnome-tweak-tool/po/es.po | 
- | [ja]({{< ref "/f15/language/ja.md" >}}) | 7 | 7 | 100.0 | /mnt/stockage/packages/f15/gnome-tweak-tool/po/ja.po | 
- | [lv]({{< ref "/f15/language/lv.md" >}}) | 7 | 7 | 100.0 | /mnt/stockage/packages/f15/gnome-tweak-tool/po/lv.po | 
- | [nb_NO]({{< ref "/f15/language/nb_NO.md" >}}) | 7 | 7 | 100.0 | /mnt/stockage/packages/f15/gnome-tweak-tool/po/nb.po | 
- | [pl]({{< ref "/f15/language/pl.md" >}}) | 7 | 7 | 100.0 | /mnt/stockage/packages/f15/gnome-tweak-tool/po/pl.po | 
- | [pt]({{< ref "/f15/language/pt.md" >}}) | 7 | 7 | 100.0 | /mnt/stockage/packages/f15/gnome-tweak-tool/po/pt.po | 
- | [pt_BR]({{< ref "/f15/language/pt_BR.md" >}}) | 7 | 7 | 100.0 | /mnt/stockage/packages/f15/gnome-tweak-tool/po/pt_BR.po | 
- | [sl]({{< ref "/f15/language/sl.md" >}}) | 7 | 7 | 100.0 | /mnt/stockage/packages/f15/gnome-tweak-tool/po/sl.po | 
- | [sv]({{< ref "/f15/language/sv.md" >}}) | 7 | 7 | 100.0 | /mnt/stockage/packages/f15/gnome-tweak-tool/po/sv.po | 
- | [uk]({{< ref "/f15/language/uk.md" >}}) | 7 | 7 | 100.0 | /mnt/stockage/packages/f15/gnome-tweak-tool/po/uk.po | 
- | [vi]({{< ref "/f15/language/vi.md" >}}) | 7 | 7 | 100.0 | /mnt/stockage/packages/f15/gnome-tweak-tool/po/vi.po | 
- | [zh_Hans]({{< ref "/f15/language/zh_Hans.md" >}}) | 7 | 7 | 100.0 | /mnt/stockage/packages/f15/gnome-tweak-tool/po/zh_CN.po | 
+ | [cs](/f15/language/cs) | 7 | 7 | 100.0 | /mnt/stockage/packages/f15/gnome-tweak-tool/po/cs.po | 
+ | [da](/f15/language/da) | 7 | 7 | 100.0 | /mnt/stockage/packages/f15/gnome-tweak-tool/po/da.po | 
+ | [de](/f15/language/de) | 7 | 7 | 100.0 | /mnt/stockage/packages/f15/gnome-tweak-tool/po/de.po | 
+ | [el](/f15/language/el) | 7 | 7 | 100.0 | /mnt/stockage/packages/f15/gnome-tweak-tool/po/el.po | 
+ | [es](/f15/language/es) | 7 | 7 | 100.0 | /mnt/stockage/packages/f15/gnome-tweak-tool/po/es.po | 
+ | [ja](/f15/language/ja) | 7 | 7 | 100.0 | /mnt/stockage/packages/f15/gnome-tweak-tool/po/ja.po | 
+ | [lv](/f15/language/lv) | 7 | 7 | 100.0 | /mnt/stockage/packages/f15/gnome-tweak-tool/po/lv.po | 
+ | [nb_NO](/f15/language/nb_NO) | 7 | 7 | 100.0 | /mnt/stockage/packages/f15/gnome-tweak-tool/po/nb.po | 
+ | [pl](/f15/language/pl) | 7 | 7 | 100.0 | /mnt/stockage/packages/f15/gnome-tweak-tool/po/pl.po | 
+ | [pt](/f15/language/pt) | 7 | 7 | 100.0 | /mnt/stockage/packages/f15/gnome-tweak-tool/po/pt.po | 
+ | [pt_BR](/f15/language/pt_BR) | 7 | 7 | 100.0 | /mnt/stockage/packages/f15/gnome-tweak-tool/po/pt_BR.po | 
+ | [sl](/f15/language/sl) | 7 | 7 | 100.0 | /mnt/stockage/packages/f15/gnome-tweak-tool/po/sl.po | 
+ | [sv](/f15/language/sv) | 7 | 7 | 100.0 | /mnt/stockage/packages/f15/gnome-tweak-tool/po/sv.po | 
+ | [uk](/f15/language/uk) | 7 | 7 | 100.0 | /mnt/stockage/packages/f15/gnome-tweak-tool/po/uk.po | 
+ | [vi](/f15/language/vi) | 7 | 7 | 100.0 | /mnt/stockage/packages/f15/gnome-tweak-tool/po/vi.po | 
+ | [zh_Hans](/f15/language/zh_Hans) | 7 | 7 | 100.0 | /mnt/stockage/packages/f15/gnome-tweak-tool/po/zh_CN.po | 
 {.sortable}
 
 

@@ -38,10 +38,10 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [abiword]({{< ref "/f7/package/abiword.md" >}}) | 3127 | 4644 | 67.3 | unknown <email@address> | 
- | [pgadmin3]({{< ref "/f7/package/pgadmin3.md" >}}) | 2152 | 7344 | 29.3 | pgAdmin Developers <pgadmin-hackers@postgresql.org> | 
- | [gnomebaker]({{< ref "/f7/package/gnomebaker.md" >}}) | 271 | 1186 | 22.8 | German (Switzerland) <de_CH@li.org> | 
- | [fuse-encfs]({{< ref "/f7/package/fuse-encfs.md" >}}) | 265 | 1310 | 20.2 | German (Switzerland) <de_CH@li.org> | 
+ | [abiword](/f7/package/abiword) | 3127 | 4644 | 67.3 | unknown <email@address> | 
+ | [pgadmin3](/f7/package/pgadmin3) | 2152 | 7344 | 29.3 | pgAdmin Developers <pgadmin-hackers@postgresql.org> | 
+ | [gnomebaker](/f7/package/gnomebaker) | 271 | 1186 | 22.8 | German (Switzerland) <de_CH@li.org> | 
+ | [fuse-encfs](/f7/package/fuse-encfs) | 265 | 1310 | 20.2 | German (Switzerland) <de_CH@li.org> | 
 {.sortable}
 
 

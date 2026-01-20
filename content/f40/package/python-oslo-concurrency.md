@@ -18,10 +18,10 @@ The package python-oslo-concurrency (version 5.2.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f40/language/de.md" >}}) | 87 | 87 | 100.0 | /mnt/stockage/packages/f40/python-oslo-concurrency/oslo_concurrency/locale/de/LC_MESSAGES/oslo_concurrency.po | 
- | [en_GB]({{< ref "/f40/language/en_GB.md" >}}) | 380 | 380 | 100.0 | /mnt/stockage/packages/f40/python-oslo-concurrency/oslo_concurrency/locale/en_GB/LC_MESSAGES/oslo_concurrency.po/mnt/stockage/packages/f40/python-oslo-concurrency/releasenotes/source/locale/en_GB/LC_MESSAGES/releasenotes.po | 
- | [es]({{< ref "/f40/language/es.md" >}}) | 87 | 87 | 100.0 | /mnt/stockage/packages/f40/python-oslo-concurrency/oslo_concurrency/locale/es/LC_MESSAGES/oslo_concurrency.po | 
- | [fr]({{< ref "/f40/language/fr.md" >}}) | 108 | 108 | 100.0 | /mnt/stockage/packages/f40/python-oslo-concurrency/oslo_concurrency/locale/fr/LC_MESSAGES/oslo_concurrency.po/mnt/stockage/packages/f40/python-oslo-concurrency/releasenotes/source/locale/fr/LC_MESSAGES/releasenotes.po | 
+ | [de](/f40/language/de) | 87 | 87 | 100.0 | /mnt/stockage/packages/f40/python-oslo-concurrency/oslo_concurrency/locale/de/LC_MESSAGES/oslo_concurrency.po | 
+ | [en_GB](/f40/language/en_GB) | 380 | 380 | 100.0 | /mnt/stockage/packages/f40/python-oslo-concurrency/oslo_concurrency/locale/en_GB/LC_MESSAGES/oslo_concurrency.po/mnt/stockage/packages/f40/python-oslo-concurrency/releasenotes/source/locale/en_GB/LC_MESSAGES/releasenotes.po | 
+ | [es](/f40/language/es) | 87 | 87 | 100.0 | /mnt/stockage/packages/f40/python-oslo-concurrency/oslo_concurrency/locale/es/LC_MESSAGES/oslo_concurrency.po | 
+ | [fr](/f40/language/fr) | 108 | 108 | 100.0 | /mnt/stockage/packages/f40/python-oslo-concurrency/oslo_concurrency/locale/fr/LC_MESSAGES/oslo_concurrency.po/mnt/stockage/packages/f40/python-oslo-concurrency/releasenotes/source/locale/fr/LC_MESSAGES/releasenotes.po | 
 {.sortable}
 
 

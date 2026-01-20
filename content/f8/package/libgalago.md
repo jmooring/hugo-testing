@@ -18,10 +18,10 @@ The package libgalago (version 0.5.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [da]({{< ref "/f8/language/da.md" >}}) | 32 | 32 | 100.0 | /mnt/stockage/packages/f8/libgalago/po/da.po | 
- | [de]({{< ref "/f8/language/de.md" >}}) | 32 | 32 | 100.0 | /mnt/stockage/packages/f8/libgalago/po/de.po | 
- | [fr]({{< ref "/f8/language/fr.md" >}}) | 32 | 32 | 100.0 | /mnt/stockage/packages/f8/libgalago/po/fr.po | 
- | [pt_BR]({{< ref "/f8/language/pt_BR.md" >}}) | 32 | 32 | 100.0 | /mnt/stockage/packages/f8/libgalago/po/pt_BR.po | 
+ | [da](/f8/language/da) | 32 | 32 | 100.0 | /mnt/stockage/packages/f8/libgalago/po/da.po | 
+ | [de](/f8/language/de) | 32 | 32 | 100.0 | /mnt/stockage/packages/f8/libgalago/po/de.po | 
+ | [fr](/f8/language/fr) | 32 | 32 | 100.0 | /mnt/stockage/packages/f8/libgalago/po/fr.po | 
+ | [pt_BR](/f8/language/pt_BR) | 32 | 32 | 100.0 | /mnt/stockage/packages/f8/libgalago/po/pt_BR.po | 
 {.sortable}
 
 

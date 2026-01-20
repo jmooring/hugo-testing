@@ -18,11 +18,11 @@ The package wxGlade (version 0.6.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ko]({{< ref "/f7/language/ko.md" >}}) | 1406 | 1406 | 100.0 | /mnt/stockage/packages/f7/wxGlade/po/ko.po | 
- | [it]({{< ref "/f7/language/it.md" >}}) | 197 | 284 | 69.4 | /mnt/stockage/packages/f7/wxGlade/po/it.po | 
- | [de]({{< ref "/f7/language/de.md" >}}) | 0 | 1406 | 0.0 | /mnt/stockage/packages/f7/wxGlade/po/de.po | 
- | [en]({{< ref "/f7/language/en.md" >}}) | 0 | 284 | 0.0 | /mnt/stockage/packages/f7/wxGlade/po/en.po | 
- | [fr]({{< ref "/f7/language/fr.md" >}}) | 0 | 1406 | 0.0 | /mnt/stockage/packages/f7/wxGlade/po/fr.po | 
+ | [ko](/f7/language/ko) | 1406 | 1406 | 100.0 | /mnt/stockage/packages/f7/wxGlade/po/ko.po | 
+ | [it](/f7/language/it) | 197 | 284 | 69.4 | /mnt/stockage/packages/f7/wxGlade/po/it.po | 
+ | [de](/f7/language/de) | 0 | 1406 | 0.0 | /mnt/stockage/packages/f7/wxGlade/po/de.po | 
+ | [en](/f7/language/en) | 0 | 284 | 0.0 | /mnt/stockage/packages/f7/wxGlade/po/en.po | 
+ | [fr](/f7/language/fr) | 0 | 1406 | 0.0 | /mnt/stockage/packages/f7/wxGlade/po/fr.po | 
 {.sortable}
 
 

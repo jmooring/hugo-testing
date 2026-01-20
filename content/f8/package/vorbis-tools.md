@@ -18,18 +18,18 @@ The package vorbis-tools (version 1.1.1.svn20070412):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f8/language/fr.md" >}}) | 1681 | 3317 | 50.7 | /mnt/stockage/packages/f8/vorbis-tools/po/fr.po | 
- | [be]({{< ref "/f8/language/be.md" >}}) | 1551 | 3317 | 46.8 | /mnt/stockage/packages/f8/vorbis-tools/po/be.po | 
- | [cs]({{< ref "/f8/language/cs.md" >}}) | 1551 | 3317 | 46.8 | /mnt/stockage/packages/f8/vorbis-tools/po/cs.po | 
- | [es]({{< ref "/f8/language/es.md" >}}) | 1551 | 3317 | 46.8 | /mnt/stockage/packages/f8/vorbis-tools/po/es.po | 
- | [nl]({{< ref "/f8/language/nl.md" >}}) | 1551 | 3317 | 46.8 | /mnt/stockage/packages/f8/vorbis-tools/po/nl.po | 
- | [ro]({{< ref "/f8/language/ro.md" >}}) | 1551 | 3317 | 46.8 | /mnt/stockage/packages/f8/vorbis-tools/po/ro.po | 
- | [uk]({{< ref "/f8/language/uk.md" >}}) | 1551 | 3317 | 46.8 | /mnt/stockage/packages/f8/vorbis-tools/po/uk.po | 
- | [ru]({{< ref "/f8/language/ru.md" >}}) | 1542 | 3317 | 46.5 | /mnt/stockage/packages/f8/vorbis-tools/po/ru.po | 
- | [hu]({{< ref "/f8/language/hu.md" >}}) | 1074 | 3317 | 32.4 | /mnt/stockage/packages/f8/vorbis-tools/po/hu.po | 
- | [sv]({{< ref "/f8/language/sv.md" >}}) | 789 | 3317 | 23.8 | /mnt/stockage/packages/f8/vorbis-tools/po/sv.po | 
- | [da]({{< ref "/f8/language/da.md" >}}) | 785 | 3317 | 23.7 | /mnt/stockage/packages/f8/vorbis-tools/po/da.po | 
- | [hr]({{< ref "/f8/language/hr.md" >}}) | 105 | 3317 | 3.2 | /mnt/stockage/packages/f8/vorbis-tools/po/hr.po | 
+ | [fr](/f8/language/fr) | 1681 | 3317 | 50.7 | /mnt/stockage/packages/f8/vorbis-tools/po/fr.po | 
+ | [be](/f8/language/be) | 1551 | 3317 | 46.8 | /mnt/stockage/packages/f8/vorbis-tools/po/be.po | 
+ | [cs](/f8/language/cs) | 1551 | 3317 | 46.8 | /mnt/stockage/packages/f8/vorbis-tools/po/cs.po | 
+ | [es](/f8/language/es) | 1551 | 3317 | 46.8 | /mnt/stockage/packages/f8/vorbis-tools/po/es.po | 
+ | [nl](/f8/language/nl) | 1551 | 3317 | 46.8 | /mnt/stockage/packages/f8/vorbis-tools/po/nl.po | 
+ | [ro](/f8/language/ro) | 1551 | 3317 | 46.8 | /mnt/stockage/packages/f8/vorbis-tools/po/ro.po | 
+ | [uk](/f8/language/uk) | 1551 | 3317 | 46.8 | /mnt/stockage/packages/f8/vorbis-tools/po/uk.po | 
+ | [ru](/f8/language/ru) | 1542 | 3317 | 46.5 | /mnt/stockage/packages/f8/vorbis-tools/po/ru.po | 
+ | [hu](/f8/language/hu) | 1074 | 3317 | 32.4 | /mnt/stockage/packages/f8/vorbis-tools/po/hu.po | 
+ | [sv](/f8/language/sv) | 789 | 3317 | 23.8 | /mnt/stockage/packages/f8/vorbis-tools/po/sv.po | 
+ | [da](/f8/language/da) | 785 | 3317 | 23.7 | /mnt/stockage/packages/f8/vorbis-tools/po/da.po | 
+ | [hr](/f8/language/hr) | 105 | 3317 | 3.2 | /mnt/stockage/packages/f8/vorbis-tools/po/hr.po | 
 {.sortable}
 
 

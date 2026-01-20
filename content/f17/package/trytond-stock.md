@@ -18,14 +18,14 @@ The package trytond-stock (version 2.2.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f17/language/de.md" >}}) | 1154 | 1154 | 100.0 | /mnt/stockage/packages/f17/trytond-stock/locale/de_DE.po | 
- | [fr]({{< ref "/f17/language/fr.md" >}}) | 1141 | 1141 | 100.0 | /mnt/stockage/packages/f17/trytond-stock/locale/fr_FR.po | 
- | [bg]({{< ref "/f17/language/bg.md" >}}) | 1087 | 1121 | 97.0 | /mnt/stockage/packages/f17/trytond-stock/locale/bg_BG.po | 
- | [es_CO]({{< ref "/f17/language/es_CO.md" >}}) | 988 | 1148 | 86.1 | /mnt/stockage/packages/f17/trytond-stock/locale/es_CO.po | 
- | [es]({{< ref "/f17/language/es.md" >}}) | 964 | 1148 | 84.0 | /mnt/stockage/packages/f17/trytond-stock/locale/es_ES.po | 
- | [ru]({{< ref "/f17/language/ru.md" >}}) | 752 | 1121 | 67.1 | /mnt/stockage/packages/f17/trytond-stock/locale/ru_RU.po | 
- | [cs]({{< ref "/f17/language/cs.md" >}}) | 0 | 1121 | 0.0 | /mnt/stockage/packages/f17/trytond-stock/locale/cs_CZ.po | 
- | [nl]({{< ref "/f17/language/nl.md" >}}) | 0 | 1121 | 0.0 | /mnt/stockage/packages/f17/trytond-stock/locale/nl_NL.po | 
+ | [de](/f17/language/de) | 1154 | 1154 | 100.0 | /mnt/stockage/packages/f17/trytond-stock/locale/de_DE.po | 
+ | [fr](/f17/language/fr) | 1141 | 1141 | 100.0 | /mnt/stockage/packages/f17/trytond-stock/locale/fr_FR.po | 
+ | [bg](/f17/language/bg) | 1087 | 1121 | 97.0 | /mnt/stockage/packages/f17/trytond-stock/locale/bg_BG.po | 
+ | [es_CO](/f17/language/es_CO) | 988 | 1148 | 86.1 | /mnt/stockage/packages/f17/trytond-stock/locale/es_CO.po | 
+ | [es](/f17/language/es) | 964 | 1148 | 84.0 | /mnt/stockage/packages/f17/trytond-stock/locale/es_ES.po | 
+ | [ru](/f17/language/ru) | 752 | 1121 | 67.1 | /mnt/stockage/packages/f17/trytond-stock/locale/ru_RU.po | 
+ | [cs](/f17/language/cs) | 0 | 1121 | 0.0 | /mnt/stockage/packages/f17/trytond-stock/locale/cs_CZ.po | 
+ | [nl](/f17/language/nl) | 0 | 1121 | 0.0 | /mnt/stockage/packages/f17/trytond-stock/locale/nl_NL.po | 
 {.sortable}
 
 

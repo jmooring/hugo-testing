@@ -18,42 +18,42 @@ The package warmux (version 11.04.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f26/language/de.md" >}}) | 2744 | 2744 | 100.0 | /mnt/stockage/packages/f26/warmux/po/de.po | 
- | [da]({{< ref "/f26/language/da.md" >}}) | 2736 | 2744 | 99.7 | /mnt/stockage/packages/f26/warmux/po/da.po | 
- | [fi]({{< ref "/f26/language/fi.md" >}}) | 2736 | 2744 | 99.7 | /mnt/stockage/packages/f26/warmux/po/fi.po | 
- | [fr]({{< ref "/f26/language/fr.md" >}}) | 2736 | 2744 | 99.7 | /mnt/stockage/packages/f26/warmux/po/fr.po | 
- | [gl]({{< ref "/f26/language/gl.md" >}}) | 2736 | 2744 | 99.7 | /mnt/stockage/packages/f26/warmux/po/gl.po | 
- | [nn]({{< ref "/f26/language/nn.md" >}}) | 2736 | 2744 | 99.7 | /mnt/stockage/packages/f26/warmux/po/nn.po | 
- | [pl]({{< ref "/f26/language/pl.md" >}}) | 2736 | 2744 | 99.7 | /mnt/stockage/packages/f26/warmux/po/pl.po | 
- | [zh_Hans]({{< ref "/f26/language/zh_Hans.md" >}}) | 2736 | 2744 | 99.7 | /mnt/stockage/packages/f26/warmux/po/zh_CN.po | 
- | [el]({{< ref "/f26/language/el.md" >}}) | 2572 | 2744 | 93.7 | /mnt/stockage/packages/f26/warmux/po/el.po | 
- | [uk]({{< ref "/f26/language/uk.md" >}}) | 1892 | 2744 | 69.0 | /mnt/stockage/packages/f26/warmux/po/uk.po | 
- | [sl]({{< ref "/f26/language/sl.md" >}}) | 1718 | 2744 | 62.6 | /mnt/stockage/packages/f26/warmux/po/sl.po | 
- | [it]({{< ref "/f26/language/it.md" >}}) | 1670 | 2744 | 60.9 | /mnt/stockage/packages/f26/warmux/po/it.po | 
- | [bg]({{< ref "/f26/language/bg.md" >}}) | 1635 | 2744 | 59.6 | /mnt/stockage/packages/f26/warmux/po/bg.po | 
- | [ja]({{< ref "/f26/language/ja.md" >}}) | 1635 | 2744 | 59.6 | /mnt/stockage/packages/f26/warmux/po/ja_JP.po | 
- | [es]({{< ref "/f26/language/es.md" >}}) | 1630 | 2744 | 59.4 | /mnt/stockage/packages/f26/warmux/po/es.po | 
- | [nl]({{< ref "/f26/language/nl.md" >}}) | 1630 | 2744 | 59.4 | /mnt/stockage/packages/f26/warmux/po/nl.po | 
- | [pt_BR]({{< ref "/f26/language/pt_BR.md" >}}) | 1630 | 2744 | 59.4 | /mnt/stockage/packages/f26/warmux/po/pt_BR.po | 
- | [sk]({{< ref "/f26/language/sk.md" >}}) | 1621 | 2744 | 59.1 | /mnt/stockage/packages/f26/warmux/po/sk.po | 
- | [pt]({{< ref "/f26/language/pt.md" >}}) | 1584 | 2744 | 57.7 | /mnt/stockage/packages/f26/warmux/po/pt.po | 
- | [ro]({{< ref "/f26/language/ro.md" >}}) | 1584 | 2744 | 57.7 | /mnt/stockage/packages/f26/warmux/po/ro.po | 
- | [sv]({{< ref "/f26/language/sv.md" >}}) | 1554 | 2744 | 56.6 | /mnt/stockage/packages/f26/warmux/po/sv.po | 
- | [ru]({{< ref "/f26/language/ru.md" >}}) | 1485 | 2744 | 54.1 | /mnt/stockage/packages/f26/warmux/po/ru.po | 
- | [zh_Hant]({{< ref "/f26/language/zh_Hant.md" >}}) | 1278 | 2744 | 46.6 | /mnt/stockage/packages/f26/warmux/po/zh_TW.po | 
- | [kw]({{< ref "/f26/language/kw.md" >}}) | 1273 | 2744 | 46.4 | /mnt/stockage/packages/f26/warmux/po/kw.po | 
- | [et]({{< ref "/f26/language/et.md" >}}) | 1271 | 2744 | 46.3 | /mnt/stockage/packages/f26/warmux/po/et.po | 
- | [ca]({{< ref "/f26/language/ca.md" >}}) | 1264 | 2744 | 46.1 | /mnt/stockage/packages/f26/warmux/po/ca.po | 
- | [hu]({{< ref "/f26/language/hu.md" >}}) | 1264 | 2744 | 46.1 | /mnt/stockage/packages/f26/warmux/po/hu.po | 
- | [eo]({{< ref "/f26/language/eo.md" >}}) | 1261 | 2744 | 46.0 | /mnt/stockage/packages/f26/warmux/po/eo.po | 
- | [cs]({{< ref "/f26/language/cs.md" >}}) | 1186 | 2744 | 43.2 | /mnt/stockage/packages/f26/warmux/po/cs.po | 
- | [nb_NO]({{< ref "/f26/language/nb_NO.md" >}}) | 1096 | 2744 | 39.9 | /mnt/stockage/packages/f26/warmux/po/nb.po | 
- | [cpf]({{< ref "/f26/language/cpf.md" >}}) | 902 | 2744 | 32.9 | /mnt/stockage/packages/f26/warmux/po/cpf.po | 
- | [he]({{< ref "/f26/language/he.md" >}}) | 902 | 2744 | 32.9 | /mnt/stockage/packages/f26/warmux/po/he.po | 
- | [fa]({{< ref "/f26/language/fa.md" >}}) | 876 | 2744 | 31.9 | /mnt/stockage/packages/f26/warmux/po/fa.po | 
- | [bs]({{< ref "/f26/language/bs.md" >}}) | 874 | 2744 | 31.9 | /mnt/stockage/packages/f26/warmux/po/bs.po | 
- | [lv]({{< ref "/f26/language/lv.md" >}}) | 589 | 2744 | 21.5 | /mnt/stockage/packages/f26/warmux/po/lv.po | 
- | [tr]({{< ref "/f26/language/tr.md" >}}) | 237 | 2744 | 8.6 | /mnt/stockage/packages/f26/warmux/po/tr.po | 
+ | [de](/f26/language/de) | 2744 | 2744 | 100.0 | /mnt/stockage/packages/f26/warmux/po/de.po | 
+ | [da](/f26/language/da) | 2736 | 2744 | 99.7 | /mnt/stockage/packages/f26/warmux/po/da.po | 
+ | [fi](/f26/language/fi) | 2736 | 2744 | 99.7 | /mnt/stockage/packages/f26/warmux/po/fi.po | 
+ | [fr](/f26/language/fr) | 2736 | 2744 | 99.7 | /mnt/stockage/packages/f26/warmux/po/fr.po | 
+ | [gl](/f26/language/gl) | 2736 | 2744 | 99.7 | /mnt/stockage/packages/f26/warmux/po/gl.po | 
+ | [nn](/f26/language/nn) | 2736 | 2744 | 99.7 | /mnt/stockage/packages/f26/warmux/po/nn.po | 
+ | [pl](/f26/language/pl) | 2736 | 2744 | 99.7 | /mnt/stockage/packages/f26/warmux/po/pl.po | 
+ | [zh_Hans](/f26/language/zh_Hans) | 2736 | 2744 | 99.7 | /mnt/stockage/packages/f26/warmux/po/zh_CN.po | 
+ | [el](/f26/language/el) | 2572 | 2744 | 93.7 | /mnt/stockage/packages/f26/warmux/po/el.po | 
+ | [uk](/f26/language/uk) | 1892 | 2744 | 69.0 | /mnt/stockage/packages/f26/warmux/po/uk.po | 
+ | [sl](/f26/language/sl) | 1718 | 2744 | 62.6 | /mnt/stockage/packages/f26/warmux/po/sl.po | 
+ | [it](/f26/language/it) | 1670 | 2744 | 60.9 | /mnt/stockage/packages/f26/warmux/po/it.po | 
+ | [bg](/f26/language/bg) | 1635 | 2744 | 59.6 | /mnt/stockage/packages/f26/warmux/po/bg.po | 
+ | [ja](/f26/language/ja) | 1635 | 2744 | 59.6 | /mnt/stockage/packages/f26/warmux/po/ja_JP.po | 
+ | [es](/f26/language/es) | 1630 | 2744 | 59.4 | /mnt/stockage/packages/f26/warmux/po/es.po | 
+ | [nl](/f26/language/nl) | 1630 | 2744 | 59.4 | /mnt/stockage/packages/f26/warmux/po/nl.po | 
+ | [pt_BR](/f26/language/pt_BR) | 1630 | 2744 | 59.4 | /mnt/stockage/packages/f26/warmux/po/pt_BR.po | 
+ | [sk](/f26/language/sk) | 1621 | 2744 | 59.1 | /mnt/stockage/packages/f26/warmux/po/sk.po | 
+ | [pt](/f26/language/pt) | 1584 | 2744 | 57.7 | /mnt/stockage/packages/f26/warmux/po/pt.po | 
+ | [ro](/f26/language/ro) | 1584 | 2744 | 57.7 | /mnt/stockage/packages/f26/warmux/po/ro.po | 
+ | [sv](/f26/language/sv) | 1554 | 2744 | 56.6 | /mnt/stockage/packages/f26/warmux/po/sv.po | 
+ | [ru](/f26/language/ru) | 1485 | 2744 | 54.1 | /mnt/stockage/packages/f26/warmux/po/ru.po | 
+ | [zh_Hant](/f26/language/zh_Hant) | 1278 | 2744 | 46.6 | /mnt/stockage/packages/f26/warmux/po/zh_TW.po | 
+ | [kw](/f26/language/kw) | 1273 | 2744 | 46.4 | /mnt/stockage/packages/f26/warmux/po/kw.po | 
+ | [et](/f26/language/et) | 1271 | 2744 | 46.3 | /mnt/stockage/packages/f26/warmux/po/et.po | 
+ | [ca](/f26/language/ca) | 1264 | 2744 | 46.1 | /mnt/stockage/packages/f26/warmux/po/ca.po | 
+ | [hu](/f26/language/hu) | 1264 | 2744 | 46.1 | /mnt/stockage/packages/f26/warmux/po/hu.po | 
+ | [eo](/f26/language/eo) | 1261 | 2744 | 46.0 | /mnt/stockage/packages/f26/warmux/po/eo.po | 
+ | [cs](/f26/language/cs) | 1186 | 2744 | 43.2 | /mnt/stockage/packages/f26/warmux/po/cs.po | 
+ | [nb_NO](/f26/language/nb_NO) | 1096 | 2744 | 39.9 | /mnt/stockage/packages/f26/warmux/po/nb.po | 
+ | [cpf](/f26/language/cpf) | 902 | 2744 | 32.9 | /mnt/stockage/packages/f26/warmux/po/cpf.po | 
+ | [he](/f26/language/he) | 902 | 2744 | 32.9 | /mnt/stockage/packages/f26/warmux/po/he.po | 
+ | [fa](/f26/language/fa) | 876 | 2744 | 31.9 | /mnt/stockage/packages/f26/warmux/po/fa.po | 
+ | [bs](/f26/language/bs) | 874 | 2744 | 31.9 | /mnt/stockage/packages/f26/warmux/po/bs.po | 
+ | [lv](/f26/language/lv) | 589 | 2744 | 21.5 | /mnt/stockage/packages/f26/warmux/po/lv.po | 
+ | [tr](/f26/language/tr) | 237 | 2744 | 8.6 | /mnt/stockage/packages/f26/warmux/po/tr.po | 
 {.sortable}
 
 

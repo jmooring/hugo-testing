@@ -18,63 +18,63 @@ The package NetworkManager-fortisslvpn (version 1.2.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f25/language/ca.md" >}}) | 205 | 205 | 100.0 | /mnt/stockage/packages/f25/NetworkManager-fortisslvpn/po/ca.po | 
- | [cs]({{< ref "/f25/language/cs.md" >}}) | 297 | 297 | 100.0 | /mnt/stockage/packages/f25/NetworkManager-fortisslvpn/po/cs.po | 
- | [de]({{< ref "/f25/language/de.md" >}}) | 297 | 297 | 100.0 | /mnt/stockage/packages/f25/NetworkManager-fortisslvpn/po/de.po | 
- | [el]({{< ref "/f25/language/el.md" >}}) | 183 | 183 | 100.0 | /mnt/stockage/packages/f25/NetworkManager-fortisslvpn/po/el.po | 
- | [es]({{< ref "/f25/language/es.md" >}}) | 205 | 205 | 100.0 | /mnt/stockage/packages/f25/NetworkManager-fortisslvpn/po/es.po | 
- | [hu]({{< ref "/f25/language/hu.md" >}}) | 297 | 297 | 100.0 | /mnt/stockage/packages/f25/NetworkManager-fortisslvpn/po/hu.po | 
- | [id]({{< ref "/f25/language/id.md" >}}) | 205 | 205 | 100.0 | /mnt/stockage/packages/f25/NetworkManager-fortisslvpn/po/id.po | 
- | [it]({{< ref "/f25/language/it.md" >}}) | 205 | 205 | 100.0 | /mnt/stockage/packages/f25/NetworkManager-fortisslvpn/po/it.po | 
- | [lt]({{< ref "/f25/language/lt.md" >}}) | 205 | 205 | 100.0 | /mnt/stockage/packages/f25/NetworkManager-fortisslvpn/po/lt.po | 
- | [pl]({{< ref "/f25/language/pl.md" >}}) | 297 | 297 | 100.0 | /mnt/stockage/packages/f25/NetworkManager-fortisslvpn/po/pl.po | 
- | [pt]({{< ref "/f25/language/pt.md" >}}) | 183 | 183 | 100.0 | /mnt/stockage/packages/f25/NetworkManager-fortisslvpn/po/pt.po | 
- | [pt_BR]({{< ref "/f25/language/pt_BR.md" >}}) | 205 | 205 | 100.0 | /mnt/stockage/packages/f25/NetworkManager-fortisslvpn/po/pt_BR.po | 
- | [sr]({{< ref "/f25/language/sr.md" >}}) | 205 | 205 | 100.0 | /mnt/stockage/packages/f25/NetworkManager-fortisslvpn/po/sr.po | 
- | [sr_Latn]({{< ref "/f25/language/sr_Latn.md" >}}) | 205 | 205 | 100.0 | /mnt/stockage/packages/f25/NetworkManager-fortisslvpn/po/sr@latin.po | 
- | [sv]({{< ref "/f25/language/sv.md" >}}) | 205 | 205 | 100.0 | /mnt/stockage/packages/f25/NetworkManager-fortisslvpn/po/sv.po | 
- | [bs]({{< ref "/f25/language/bs.md" >}}) | 107 | 174 | 61.5 | /mnt/stockage/packages/f25/NetworkManager-fortisslvpn/po/bs.po | 
- | [da]({{< ref "/f25/language/da.md" >}}) | 107 | 174 | 61.5 | /mnt/stockage/packages/f25/NetworkManager-fortisslvpn/po/da.po | 
- | [eu]({{< ref "/f25/language/eu.md" >}}) | 107 | 174 | 61.5 | /mnt/stockage/packages/f25/NetworkManager-fortisslvpn/po/eu.po | 
- | [fr]({{< ref "/f25/language/fr.md" >}}) | 107 | 174 | 61.5 | /mnt/stockage/packages/f25/NetworkManager-fortisslvpn/po/fr.po | 
- | [gl]({{< ref "/f25/language/gl.md" >}}) | 107 | 174 | 61.5 | /mnt/stockage/packages/f25/NetworkManager-fortisslvpn/po/gl.po | 
- | [lv]({{< ref "/f25/language/lv.md" >}}) | 107 | 174 | 61.5 | /mnt/stockage/packages/f25/NetworkManager-fortisslvpn/po/lv.po | 
- | [oc]({{< ref "/f25/language/oc.md" >}}) | 107 | 174 | 61.5 | /mnt/stockage/packages/f25/NetworkManager-fortisslvpn/po/oc.po | 
- | [ru]({{< ref "/f25/language/ru.md" >}}) | 107 | 174 | 61.5 | /mnt/stockage/packages/f25/NetworkManager-fortisslvpn/po/ru.po | 
- | [sl]({{< ref "/f25/language/sl.md" >}}) | 107 | 174 | 61.5 | /mnt/stockage/packages/f25/NetworkManager-fortisslvpn/po/sl.po | 
- | [tr]({{< ref "/f25/language/tr.md" >}}) | 107 | 174 | 61.5 | /mnt/stockage/packages/f25/NetworkManager-fortisslvpn/po/tr.po | 
- | [ja]({{< ref "/f25/language/ja.md" >}}) | 92 | 174 | 52.9 | /mnt/stockage/packages/f25/NetworkManager-fortisslvpn/po/ja.po | 
- | [zh_Hans]({{< ref "/f25/language/zh_Hans.md" >}}) | 92 | 174 | 52.9 | /mnt/stockage/packages/f25/NetworkManager-fortisslvpn/po/zh_CN.po | 
- | [pa]({{< ref "/f25/language/pa.md" >}}) | 72 | 174 | 41.4 | /mnt/stockage/packages/f25/NetworkManager-fortisslvpn/po/pa.po | 
- | [nb_NO]({{< ref "/f25/language/nb_NO.md" >}}) | 57 | 174 | 32.8 | /mnt/stockage/packages/f25/NetworkManager-fortisslvpn/po/nb.po | 
- | [fi]({{< ref "/f25/language/fi.md" >}}) | 48 | 174 | 27.6 | /mnt/stockage/packages/f25/NetworkManager-fortisslvpn/po/fi.po | 
- | [as]({{< ref "/f25/language/as.md" >}}) | 22 | 174 | 12.6 | /mnt/stockage/packages/f25/NetworkManager-fortisslvpn/po/as.po | 
- | [be_Latn]({{< ref "/f25/language/be_Latn.md" >}}) | 22 | 174 | 12.6 | /mnt/stockage/packages/f25/NetworkManager-fortisslvpn/po/be@latin.po | 
- | [bg]({{< ref "/f25/language/bg.md" >}}) | 22 | 174 | 12.6 | /mnt/stockage/packages/f25/NetworkManager-fortisslvpn/po/bg.po | 
- | [bn_IN]({{< ref "/f25/language/bn_IN.md" >}}) | 22 | 174 | 12.6 | /mnt/stockage/packages/f25/NetworkManager-fortisslvpn/po/bn_IN.po | 
- | [ca@valencia]({{< ref "/f25/language/ca@valencia.md" >}}) | 22 | 174 | 12.6 | /mnt/stockage/packages/f25/NetworkManager-fortisslvpn/po/ca@valencia.po | 
- | [en_GB]({{< ref "/f25/language/en_GB.md" >}}) | 22 | 174 | 12.6 | /mnt/stockage/packages/f25/NetworkManager-fortisslvpn/po/en_GB.po | 
- | [et]({{< ref "/f25/language/et.md" >}}) | 22 | 174 | 12.6 | /mnt/stockage/packages/f25/NetworkManager-fortisslvpn/po/et.po | 
- | [fa]({{< ref "/f25/language/fa.md" >}}) | 22 | 174 | 12.6 | /mnt/stockage/packages/f25/NetworkManager-fortisslvpn/po/fa.po | 
- | [gu]({{< ref "/f25/language/gu.md" >}}) | 22 | 174 | 12.6 | /mnt/stockage/packages/f25/NetworkManager-fortisslvpn/po/gu.po | 
- | [he]({{< ref "/f25/language/he.md" >}}) | 22 | 174 | 12.6 | /mnt/stockage/packages/f25/NetworkManager-fortisslvpn/po/he.po | 
- | [kn]({{< ref "/f25/language/kn.md" >}}) | 22 | 174 | 12.6 | /mnt/stockage/packages/f25/NetworkManager-fortisslvpn/po/kn.po | 
- | [ko]({{< ref "/f25/language/ko.md" >}}) | 22 | 174 | 12.6 | /mnt/stockage/packages/f25/NetworkManager-fortisslvpn/po/ko.po | 
- | [mr]({{< ref "/f25/language/mr.md" >}}) | 22 | 174 | 12.6 | /mnt/stockage/packages/f25/NetworkManager-fortisslvpn/po/mr.po | 
- | [ro]({{< ref "/f25/language/ro.md" >}}) | 22 | 174 | 12.6 | /mnt/stockage/packages/f25/NetworkManager-fortisslvpn/po/ro.po | 
- | [ta]({{< ref "/f25/language/ta.md" >}}) | 22 | 174 | 12.6 | /mnt/stockage/packages/f25/NetworkManager-fortisslvpn/po/ta.po | 
- | [te]({{< ref "/f25/language/te.md" >}}) | 22 | 174 | 12.6 | /mnt/stockage/packages/f25/NetworkManager-fortisslvpn/po/te.po | 
- | [ug]({{< ref "/f25/language/ug.md" >}}) | 22 | 174 | 12.6 | /mnt/stockage/packages/f25/NetworkManager-fortisslvpn/po/ug.po | 
- | [uk]({{< ref "/f25/language/uk.md" >}}) | 22 | 174 | 12.6 | /mnt/stockage/packages/f25/NetworkManager-fortisslvpn/po/uk.po | 
- | [zh_Hant]({{< ref "/f25/language/zh_Hant.md" >}}) | 22 | 174 | 12.6 | /mnt/stockage/packages/f25/NetworkManager-fortisslvpn/po/zh_TW.po | 
- | [zh_Hant_HK]({{< ref "/f25/language/zh_Hant_HK.md" >}}) | 22 | 174 | 12.6 | /mnt/stockage/packages/f25/NetworkManager-fortisslvpn/po/zh_HK.po | 
- | [nl]({{< ref "/f25/language/nl.md" >}}) | 19 | 174 | 10.9 | /mnt/stockage/packages/f25/NetworkManager-fortisslvpn/po/nl.po | 
- | [eo]({{< ref "/f25/language/eo.md" >}}) | 8 | 174 | 4.6 | /mnt/stockage/packages/f25/NetworkManager-fortisslvpn/po/eo.po | 
- | [ar]({{< ref "/f25/language/ar.md" >}}) | 1 | 174 | 0.6 | /mnt/stockage/packages/f25/NetworkManager-fortisslvpn/po/ar.po | 
- | [ka]({{< ref "/f25/language/ka.md" >}}) | 1 | 174 | 0.6 | /mnt/stockage/packages/f25/NetworkManager-fortisslvpn/po/ka.po | 
- | [mk]({{< ref "/f25/language/mk.md" >}}) | 1 | 174 | 0.6 | /mnt/stockage/packages/f25/NetworkManager-fortisslvpn/po/mk.po | 
- | [th]({{< ref "/f25/language/th.md" >}}) | 1 | 174 | 0.6 | /mnt/stockage/packages/f25/NetworkManager-fortisslvpn/po/th.po | 
- | [vi]({{< ref "/f25/language/vi.md" >}}) | 1 | 174 | 0.6 | /mnt/stockage/packages/f25/NetworkManager-fortisslvpn/po/vi.po | 
+ | [ca](/f25/language/ca) | 205 | 205 | 100.0 | /mnt/stockage/packages/f25/NetworkManager-fortisslvpn/po/ca.po | 
+ | [cs](/f25/language/cs) | 297 | 297 | 100.0 | /mnt/stockage/packages/f25/NetworkManager-fortisslvpn/po/cs.po | 
+ | [de](/f25/language/de) | 297 | 297 | 100.0 | /mnt/stockage/packages/f25/NetworkManager-fortisslvpn/po/de.po | 
+ | [el](/f25/language/el) | 183 | 183 | 100.0 | /mnt/stockage/packages/f25/NetworkManager-fortisslvpn/po/el.po | 
+ | [es](/f25/language/es) | 205 | 205 | 100.0 | /mnt/stockage/packages/f25/NetworkManager-fortisslvpn/po/es.po | 
+ | [hu](/f25/language/hu) | 297 | 297 | 100.0 | /mnt/stockage/packages/f25/NetworkManager-fortisslvpn/po/hu.po | 
+ | [id](/f25/language/id) | 205 | 205 | 100.0 | /mnt/stockage/packages/f25/NetworkManager-fortisslvpn/po/id.po | 
+ | [it](/f25/language/it) | 205 | 205 | 100.0 | /mnt/stockage/packages/f25/NetworkManager-fortisslvpn/po/it.po | 
+ | [lt](/f25/language/lt) | 205 | 205 | 100.0 | /mnt/stockage/packages/f25/NetworkManager-fortisslvpn/po/lt.po | 
+ | [pl](/f25/language/pl) | 297 | 297 | 100.0 | /mnt/stockage/packages/f25/NetworkManager-fortisslvpn/po/pl.po | 
+ | [pt](/f25/language/pt) | 183 | 183 | 100.0 | /mnt/stockage/packages/f25/NetworkManager-fortisslvpn/po/pt.po | 
+ | [pt_BR](/f25/language/pt_BR) | 205 | 205 | 100.0 | /mnt/stockage/packages/f25/NetworkManager-fortisslvpn/po/pt_BR.po | 
+ | [sr](/f25/language/sr) | 205 | 205 | 100.0 | /mnt/stockage/packages/f25/NetworkManager-fortisslvpn/po/sr.po | 
+ | [sr_Latn](/f25/language/sr_Latn) | 205 | 205 | 100.0 | /mnt/stockage/packages/f25/NetworkManager-fortisslvpn/po/sr@latin.po | 
+ | [sv](/f25/language/sv) | 205 | 205 | 100.0 | /mnt/stockage/packages/f25/NetworkManager-fortisslvpn/po/sv.po | 
+ | [bs](/f25/language/bs) | 107 | 174 | 61.5 | /mnt/stockage/packages/f25/NetworkManager-fortisslvpn/po/bs.po | 
+ | [da](/f25/language/da) | 107 | 174 | 61.5 | /mnt/stockage/packages/f25/NetworkManager-fortisslvpn/po/da.po | 
+ | [eu](/f25/language/eu) | 107 | 174 | 61.5 | /mnt/stockage/packages/f25/NetworkManager-fortisslvpn/po/eu.po | 
+ | [fr](/f25/language/fr) | 107 | 174 | 61.5 | /mnt/stockage/packages/f25/NetworkManager-fortisslvpn/po/fr.po | 
+ | [gl](/f25/language/gl) | 107 | 174 | 61.5 | /mnt/stockage/packages/f25/NetworkManager-fortisslvpn/po/gl.po | 
+ | [lv](/f25/language/lv) | 107 | 174 | 61.5 | /mnt/stockage/packages/f25/NetworkManager-fortisslvpn/po/lv.po | 
+ | [oc](/f25/language/oc) | 107 | 174 | 61.5 | /mnt/stockage/packages/f25/NetworkManager-fortisslvpn/po/oc.po | 
+ | [ru](/f25/language/ru) | 107 | 174 | 61.5 | /mnt/stockage/packages/f25/NetworkManager-fortisslvpn/po/ru.po | 
+ | [sl](/f25/language/sl) | 107 | 174 | 61.5 | /mnt/stockage/packages/f25/NetworkManager-fortisslvpn/po/sl.po | 
+ | [tr](/f25/language/tr) | 107 | 174 | 61.5 | /mnt/stockage/packages/f25/NetworkManager-fortisslvpn/po/tr.po | 
+ | [ja](/f25/language/ja) | 92 | 174 | 52.9 | /mnt/stockage/packages/f25/NetworkManager-fortisslvpn/po/ja.po | 
+ | [zh_Hans](/f25/language/zh_Hans) | 92 | 174 | 52.9 | /mnt/stockage/packages/f25/NetworkManager-fortisslvpn/po/zh_CN.po | 
+ | [pa](/f25/language/pa) | 72 | 174 | 41.4 | /mnt/stockage/packages/f25/NetworkManager-fortisslvpn/po/pa.po | 
+ | [nb_NO](/f25/language/nb_NO) | 57 | 174 | 32.8 | /mnt/stockage/packages/f25/NetworkManager-fortisslvpn/po/nb.po | 
+ | [fi](/f25/language/fi) | 48 | 174 | 27.6 | /mnt/stockage/packages/f25/NetworkManager-fortisslvpn/po/fi.po | 
+ | [as](/f25/language/as) | 22 | 174 | 12.6 | /mnt/stockage/packages/f25/NetworkManager-fortisslvpn/po/as.po | 
+ | [be_Latn](/f25/language/be_Latn) | 22 | 174 | 12.6 | /mnt/stockage/packages/f25/NetworkManager-fortisslvpn/po/be@latin.po | 
+ | [bg](/f25/language/bg) | 22 | 174 | 12.6 | /mnt/stockage/packages/f25/NetworkManager-fortisslvpn/po/bg.po | 
+ | [bn_IN](/f25/language/bn_IN) | 22 | 174 | 12.6 | /mnt/stockage/packages/f25/NetworkManager-fortisslvpn/po/bn_IN.po | 
+ | [ca@valencia](/f25/language/ca@valencia) | 22 | 174 | 12.6 | /mnt/stockage/packages/f25/NetworkManager-fortisslvpn/po/ca@valencia.po | 
+ | [en_GB](/f25/language/en_GB) | 22 | 174 | 12.6 | /mnt/stockage/packages/f25/NetworkManager-fortisslvpn/po/en_GB.po | 
+ | [et](/f25/language/et) | 22 | 174 | 12.6 | /mnt/stockage/packages/f25/NetworkManager-fortisslvpn/po/et.po | 
+ | [fa](/f25/language/fa) | 22 | 174 | 12.6 | /mnt/stockage/packages/f25/NetworkManager-fortisslvpn/po/fa.po | 
+ | [gu](/f25/language/gu) | 22 | 174 | 12.6 | /mnt/stockage/packages/f25/NetworkManager-fortisslvpn/po/gu.po | 
+ | [he](/f25/language/he) | 22 | 174 | 12.6 | /mnt/stockage/packages/f25/NetworkManager-fortisslvpn/po/he.po | 
+ | [kn](/f25/language/kn) | 22 | 174 | 12.6 | /mnt/stockage/packages/f25/NetworkManager-fortisslvpn/po/kn.po | 
+ | [ko](/f25/language/ko) | 22 | 174 | 12.6 | /mnt/stockage/packages/f25/NetworkManager-fortisslvpn/po/ko.po | 
+ | [mr](/f25/language/mr) | 22 | 174 | 12.6 | /mnt/stockage/packages/f25/NetworkManager-fortisslvpn/po/mr.po | 
+ | [ro](/f25/language/ro) | 22 | 174 | 12.6 | /mnt/stockage/packages/f25/NetworkManager-fortisslvpn/po/ro.po | 
+ | [ta](/f25/language/ta) | 22 | 174 | 12.6 | /mnt/stockage/packages/f25/NetworkManager-fortisslvpn/po/ta.po | 
+ | [te](/f25/language/te) | 22 | 174 | 12.6 | /mnt/stockage/packages/f25/NetworkManager-fortisslvpn/po/te.po | 
+ | [ug](/f25/language/ug) | 22 | 174 | 12.6 | /mnt/stockage/packages/f25/NetworkManager-fortisslvpn/po/ug.po | 
+ | [uk](/f25/language/uk) | 22 | 174 | 12.6 | /mnt/stockage/packages/f25/NetworkManager-fortisslvpn/po/uk.po | 
+ | [zh_Hant](/f25/language/zh_Hant) | 22 | 174 | 12.6 | /mnt/stockage/packages/f25/NetworkManager-fortisslvpn/po/zh_TW.po | 
+ | [zh_Hant_HK](/f25/language/zh_Hant_HK) | 22 | 174 | 12.6 | /mnt/stockage/packages/f25/NetworkManager-fortisslvpn/po/zh_HK.po | 
+ | [nl](/f25/language/nl) | 19 | 174 | 10.9 | /mnt/stockage/packages/f25/NetworkManager-fortisslvpn/po/nl.po | 
+ | [eo](/f25/language/eo) | 8 | 174 | 4.6 | /mnt/stockage/packages/f25/NetworkManager-fortisslvpn/po/eo.po | 
+ | [ar](/f25/language/ar) | 1 | 174 | 0.6 | /mnt/stockage/packages/f25/NetworkManager-fortisslvpn/po/ar.po | 
+ | [ka](/f25/language/ka) | 1 | 174 | 0.6 | /mnt/stockage/packages/f25/NetworkManager-fortisslvpn/po/ka.po | 
+ | [mk](/f25/language/mk) | 1 | 174 | 0.6 | /mnt/stockage/packages/f25/NetworkManager-fortisslvpn/po/mk.po | 
+ | [th](/f25/language/th) | 1 | 174 | 0.6 | /mnt/stockage/packages/f25/NetworkManager-fortisslvpn/po/th.po | 
+ | [vi](/f25/language/vi) | 1 | 174 | 0.6 | /mnt/stockage/packages/f25/NetworkManager-fortisslvpn/po/vi.po | 
 {.sortable}
 
 

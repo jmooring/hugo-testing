@@ -18,89 +18,89 @@ The package system-config-users-docs (version 1.0.8):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [bn_IN]({{< ref "/f13/language/bn_IN.md" >}}) | 1054 | 1054 | 100.0 | /mnt/stockage/packages/f13/system-config-users-docs/doc/bn_IN/bn_IN.po | 
- | [ca]({{< ref "/f13/language/ca.md" >}}) | 1054 | 1054 | 100.0 | /mnt/stockage/packages/f13/system-config-users-docs/doc/ca/ca.po | 
- | [da]({{< ref "/f13/language/da.md" >}}) | 1054 | 1054 | 100.0 | /mnt/stockage/packages/f13/system-config-users-docs/doc/da/da.po | 
- | [de]({{< ref "/f13/language/de.md" >}}) | 1054 | 1054 | 100.0 | /mnt/stockage/packages/f13/system-config-users-docs/doc/de/de.po | 
- | [de_CH]({{< ref "/f13/language/de_CH.md" >}}) | 1054 | 1054 | 100.0 | /mnt/stockage/packages/f13/system-config-users-docs/doc/de_CH/de_CH.po | 
- | [el]({{< ref "/f13/language/el.md" >}}) | 1054 | 1054 | 100.0 | /mnt/stockage/packages/f13/system-config-users-docs/doc/el/el.po | 
- | [es]({{< ref "/f13/language/es.md" >}}) | 1054 | 1054 | 100.0 | /mnt/stockage/packages/f13/system-config-users-docs/doc/es/es.po | 
- | [fr]({{< ref "/f13/language/fr.md" >}}) | 1054 | 1054 | 100.0 | /mnt/stockage/packages/f13/system-config-users-docs/doc/fr/fr.po | 
- | [gu]({{< ref "/f13/language/gu.md" >}}) | 1054 | 1054 | 100.0 | /mnt/stockage/packages/f13/system-config-users-docs/doc/gu/gu.po | 
- | [hu]({{< ref "/f13/language/hu.md" >}}) | 1054 | 1054 | 100.0 | /mnt/stockage/packages/f13/system-config-users-docs/doc/hu/hu.po | 
- | [id]({{< ref "/f13/language/id.md" >}}) | 1054 | 1054 | 100.0 | /mnt/stockage/packages/f13/system-config-users-docs/doc/id/id.po | 
- | [it]({{< ref "/f13/language/it.md" >}}) | 1054 | 1054 | 100.0 | /mnt/stockage/packages/f13/system-config-users-docs/doc/it/it.po | 
- | [ja]({{< ref "/f13/language/ja.md" >}}) | 1054 | 1054 | 100.0 | /mnt/stockage/packages/f13/system-config-users-docs/doc/ja/ja.po | 
- | [kn]({{< ref "/f13/language/kn.md" >}}) | 1054 | 1054 | 100.0 | /mnt/stockage/packages/f13/system-config-users-docs/doc/kn/kn.po | 
- | [ml]({{< ref "/f13/language/ml.md" >}}) | 1054 | 1054 | 100.0 | /mnt/stockage/packages/f13/system-config-users-docs/doc/ml/ml.po | 
- | [mr]({{< ref "/f13/language/mr.md" >}}) | 1054 | 1054 | 100.0 | /mnt/stockage/packages/f13/system-config-users-docs/doc/mr/mr.po | 
- | [nl]({{< ref "/f13/language/nl.md" >}}) | 1054 | 1054 | 100.0 | /mnt/stockage/packages/f13/system-config-users-docs/doc/nl/nl.po | 
- | [pa]({{< ref "/f13/language/pa.md" >}}) | 1054 | 1054 | 100.0 | /mnt/stockage/packages/f13/system-config-users-docs/doc/pa/pa.po | 
- | [pl]({{< ref "/f13/language/pl.md" >}}) | 1054 | 1054 | 100.0 | /mnt/stockage/packages/f13/system-config-users-docs/doc/pl/pl.po | 
- | [pt]({{< ref "/f13/language/pt.md" >}}) | 1054 | 1054 | 100.0 | /mnt/stockage/packages/f13/system-config-users-docs/doc/pt/pt.po | 
- | [pt_BR]({{< ref "/f13/language/pt_BR.md" >}}) | 1054 | 1054 | 100.0 | /mnt/stockage/packages/f13/system-config-users-docs/doc/pt_BR/pt_BR.po | 
- | [ru]({{< ref "/f13/language/ru.md" >}}) | 1054 | 1054 | 100.0 | /mnt/stockage/packages/f13/system-config-users-docs/doc/ru/ru.po | 
- | [sr]({{< ref "/f13/language/sr.md" >}}) | 1054 | 1054 | 100.0 | /mnt/stockage/packages/f13/system-config-users-docs/doc/sr/sr.po | 
- | [sr_Latn]({{< ref "/f13/language/sr_Latn.md" >}}) | 1054 | 1054 | 100.0 | /mnt/stockage/packages/f13/system-config-users-docs/doc/sr@latin/sr@latin.po | 
- | [sv]({{< ref "/f13/language/sv.md" >}}) | 1054 | 1054 | 100.0 | /mnt/stockage/packages/f13/system-config-users-docs/doc/sv/sv.po | 
- | [ta]({{< ref "/f13/language/ta.md" >}}) | 1054 | 1054 | 100.0 | /mnt/stockage/packages/f13/system-config-users-docs/doc/ta/ta.po | 
- | [uk]({{< ref "/f13/language/uk.md" >}}) | 1054 | 1054 | 100.0 | /mnt/stockage/packages/f13/system-config-users-docs/doc/uk/uk.po | 
- | [zh_Hans]({{< ref "/f13/language/zh_Hans.md" >}}) | 1054 | 1054 | 100.0 | /mnt/stockage/packages/f13/system-config-users-docs/doc/zh_CN/zh_CN.po | 
- | [zh_Hant]({{< ref "/f13/language/zh_Hant.md" >}}) | 1054 | 1054 | 100.0 | /mnt/stockage/packages/f13/system-config-users-docs/doc/zh_TW/zh_TW.po | 
- | [sq]({{< ref "/f13/language/sq.md" >}}) | 1317 | 1337 | 98.5 | /mnt/stockage/packages/f13/system-config-users-docs/doc/sq/sq.po | 
- | [or]({{< ref "/f13/language/or.md" >}}) | 189 | 1054 | 17.9 | /mnt/stockage/packages/f13/system-config-users-docs/doc/or/or.po | 
- | [hi]({{< ref "/f13/language/hi.md" >}}) | 50 | 1054 | 4.7 | /mnt/stockage/packages/f13/system-config-users-docs/doc/hi/hi.po | 
- | [af]({{< ref "/f13/language/af.md" >}}) | 0 | 1054 | 0.0 | /mnt/stockage/packages/f13/system-config-users-docs/doc/af/af.po | 
- | [am]({{< ref "/f13/language/am.md" >}}) | 0 | 1054 | 0.0 | /mnt/stockage/packages/f13/system-config-users-docs/doc/am/am.po | 
- | [ar]({{< ref "/f13/language/ar.md" >}}) | 0 | 1054 | 0.0 | /mnt/stockage/packages/f13/system-config-users-docs/doc/ar/ar.po | 
- | [as]({{< ref "/f13/language/as.md" >}}) | 0 | 1054 | 0.0 | /mnt/stockage/packages/f13/system-config-users-docs/doc/as/as.po | 
- | [az]({{< ref "/f13/language/az.md" >}}) | 0 | 1054 | 0.0 | /mnt/stockage/packages/f13/system-config-users-docs/doc/az/az.po | 
- | [bal]({{< ref "/f13/language/bal.md" >}}) | 0 | 1054 | 0.0 | /mnt/stockage/packages/f13/system-config-users-docs/doc/bal/bal.po | 
- | [be]({{< ref "/f13/language/be.md" >}}) | 0 | 1054 | 0.0 | /mnt/stockage/packages/f13/system-config-users-docs/doc/be/be.po | 
- | [be_Latn]({{< ref "/f13/language/be_Latn.md" >}}) | 0 | 1054 | 0.0 | /mnt/stockage/packages/f13/system-config-users-docs/doc/be@latin/be@latin.po | 
- | [bg]({{< ref "/f13/language/bg.md" >}}) | 0 | 1054 | 0.0 | /mnt/stockage/packages/f13/system-config-users-docs/doc/bg/bg.po | 
- | [bn]({{< ref "/f13/language/bn.md" >}}) | 0 | 1054 | 0.0 | /mnt/stockage/packages/f13/system-config-users-docs/doc/bn/bn.po | 
- | [bs]({{< ref "/f13/language/bs.md" >}}) | 0 | 1054 | 0.0 | /mnt/stockage/packages/f13/system-config-users-docs/doc/bs/bs.po | 
- | [cs]({{< ref "/f13/language/cs.md" >}}) | 0 | 1054 | 0.0 | /mnt/stockage/packages/f13/system-config-users-docs/doc/cs/cs.po | 
- | [cy]({{< ref "/f13/language/cy.md" >}}) | 0 | 1054 | 0.0 | /mnt/stockage/packages/f13/system-config-users-docs/doc/cy/cy.po | 
- | [dz]({{< ref "/f13/language/dz.md" >}}) | 0 | 1054 | 0.0 | /mnt/stockage/packages/f13/system-config-users-docs/doc/dz/dz.po | 
- | [en_GB]({{< ref "/f13/language/en_GB.md" >}}) | 0 | 1054 | 0.0 | /mnt/stockage/packages/f13/system-config-users-docs/doc/en_GB/en_GB.po | 
- | [et]({{< ref "/f13/language/et.md" >}}) | 0 | 1054 | 0.0 | /mnt/stockage/packages/f13/system-config-users-docs/doc/et/et.po | 
- | [eu]({{< ref "/f13/language/eu.md" >}}) | 0 | 2108 | 0.0 | /mnt/stockage/packages/f13/system-config-users-docs/doc/eu_ES/eu_ES.po/mnt/stockage/packages/f13/system-config-users-docs/doc/eu/eu.po | 
- | [fa]({{< ref "/f13/language/fa.md" >}}) | 0 | 1054 | 0.0 | /mnt/stockage/packages/f13/system-config-users-docs/doc/fa/fa.po | 
- | [fi]({{< ref "/f13/language/fi.md" >}}) | 0 | 1054 | 0.0 | /mnt/stockage/packages/f13/system-config-users-docs/doc/fi/fi.po | 
- | [gl]({{< ref "/f13/language/gl.md" >}}) | 0 | 1054 | 0.0 | /mnt/stockage/packages/f13/system-config-users-docs/doc/gl/gl.po | 
- | [he]({{< ref "/f13/language/he.md" >}}) | 0 | 1054 | 0.0 | /mnt/stockage/packages/f13/system-config-users-docs/doc/he/he.po | 
- | [hr]({{< ref "/f13/language/hr.md" >}}) | 0 | 1054 | 0.0 | /mnt/stockage/packages/f13/system-config-users-docs/doc/hr/hr.po | 
- | [hy]({{< ref "/f13/language/hy.md" >}}) | 0 | 1054 | 0.0 | /mnt/stockage/packages/f13/system-config-users-docs/doc/hy/hy.po | 
- | [ilo]({{< ref "/f13/language/ilo.md" >}}) | 0 | 1054 | 0.0 | /mnt/stockage/packages/f13/system-config-users-docs/doc/ilo/ilo.po | 
- | [is]({{< ref "/f13/language/is.md" >}}) | 0 | 1054 | 0.0 | /mnt/stockage/packages/f13/system-config-users-docs/doc/is/is.po | 
- | [ka]({{< ref "/f13/language/ka.md" >}}) | 0 | 1054 | 0.0 | /mnt/stockage/packages/f13/system-config-users-docs/doc/ka/ka.po | 
- | [ko]({{< ref "/f13/language/ko.md" >}}) | 0 | 1054 | 0.0 | /mnt/stockage/packages/f13/system-config-users-docs/doc/ko/ko.po | 
- | [ku]({{< ref "/f13/language/ku.md" >}}) | 0 | 1054 | 0.0 | /mnt/stockage/packages/f13/system-config-users-docs/doc/ku/ku.po | 
- | [lo]({{< ref "/f13/language/lo.md" >}}) | 0 | 1054 | 0.0 | /mnt/stockage/packages/f13/system-config-users-docs/doc/lo/lo.po | 
- | [lt]({{< ref "/f13/language/lt.md" >}}) | 0 | 1054 | 0.0 | /mnt/stockage/packages/f13/system-config-users-docs/doc/lt/lt.po | 
- | [lv]({{< ref "/f13/language/lv.md" >}}) | 0 | 1054 | 0.0 | /mnt/stockage/packages/f13/system-config-users-docs/doc/lv/lv.po | 
- | [mai]({{< ref "/f13/language/mai.md" >}}) | 0 | 1054 | 0.0 | /mnt/stockage/packages/f13/system-config-users-docs/doc/mai/mai.po | 
- | [mk]({{< ref "/f13/language/mk.md" >}}) | 0 | 1054 | 0.0 | /mnt/stockage/packages/f13/system-config-users-docs/doc/mk/mk.po | 
- | [mn]({{< ref "/f13/language/mn.md" >}}) | 0 | 1054 | 0.0 | /mnt/stockage/packages/f13/system-config-users-docs/doc/mn/mn.po | 
- | [ms]({{< ref "/f13/language/ms.md" >}}) | 0 | 1054 | 0.0 | /mnt/stockage/packages/f13/system-config-users-docs/doc/ms/ms.po | 
- | [my]({{< ref "/f13/language/my.md" >}}) | 0 | 1054 | 0.0 | /mnt/stockage/packages/f13/system-config-users-docs/doc/my/my.po | 
- | [nb_NO]({{< ref "/f13/language/nb_NO.md" >}}) | 0 | 2108 | 0.0 | /mnt/stockage/packages/f13/system-config-users-docs/doc/no/no.po/mnt/stockage/packages/f13/system-config-users-docs/doc/nb/nb.po | 
- | [ne]({{< ref "/f13/language/ne.md" >}}) | 0 | 1054 | 0.0 | /mnt/stockage/packages/f13/system-config-users-docs/doc/ne/ne.po | 
- | [nn]({{< ref "/f13/language/nn.md" >}}) | 0 | 1054 | 0.0 | /mnt/stockage/packages/f13/system-config-users-docs/doc/nn/nn.po | 
- | [nso]({{< ref "/f13/language/nso.md" >}}) | 0 | 1054 | 0.0 | /mnt/stockage/packages/f13/system-config-users-docs/doc/nso/nso.po | 
- | [ro]({{< ref "/f13/language/ro.md" >}}) | 0 | 1054 | 0.0 | /mnt/stockage/packages/f13/system-config-users-docs/doc/ro/ro.po | 
- | [si]({{< ref "/f13/language/si.md" >}}) | 0 | 1054 | 0.0 | /mnt/stockage/packages/f13/system-config-users-docs/doc/si/si.po | 
- | [sk]({{< ref "/f13/language/sk.md" >}}) | 0 | 1054 | 0.0 | /mnt/stockage/packages/f13/system-config-users-docs/doc/sk/sk.po | 
- | [sl]({{< ref "/f13/language/sl.md" >}}) | 0 | 1054 | 0.0 | /mnt/stockage/packages/f13/system-config-users-docs/doc/sl/sl.po | 
- | [te]({{< ref "/f13/language/te.md" >}}) | 0 | 1054 | 0.0 | /mnt/stockage/packages/f13/system-config-users-docs/doc/te/te.po | 
- | [th]({{< ref "/f13/language/th.md" >}}) | 0 | 1054 | 0.0 | /mnt/stockage/packages/f13/system-config-users-docs/doc/th/th.po | 
- | [tl]({{< ref "/f13/language/tl.md" >}}) | 0 | 1054 | 0.0 | /mnt/stockage/packages/f13/system-config-users-docs/doc/tl/tl.po | 
- | [tr]({{< ref "/f13/language/tr.md" >}}) | 0 | 1054 | 0.0 | /mnt/stockage/packages/f13/system-config-users-docs/doc/tr/tr.po | 
- | [ur]({{< ref "/f13/language/ur.md" >}}) | 0 | 1054 | 0.0 | /mnt/stockage/packages/f13/system-config-users-docs/doc/ur/ur.po | 
- | [vi]({{< ref "/f13/language/vi.md" >}}) | 0 | 1054 | 0.0 | /mnt/stockage/packages/f13/system-config-users-docs/doc/vi/vi.po | 
- | [zu]({{< ref "/f13/language/zu.md" >}}) | 0 | 1054 | 0.0 | /mnt/stockage/packages/f13/system-config-users-docs/doc/zu/zu.po | 
+ | [bn_IN](/f13/language/bn_IN) | 1054 | 1054 | 100.0 | /mnt/stockage/packages/f13/system-config-users-docs/doc/bn_IN/bn_IN.po | 
+ | [ca](/f13/language/ca) | 1054 | 1054 | 100.0 | /mnt/stockage/packages/f13/system-config-users-docs/doc/ca/ca.po | 
+ | [da](/f13/language/da) | 1054 | 1054 | 100.0 | /mnt/stockage/packages/f13/system-config-users-docs/doc/da/da.po | 
+ | [de](/f13/language/de) | 1054 | 1054 | 100.0 | /mnt/stockage/packages/f13/system-config-users-docs/doc/de/de.po | 
+ | [de_CH](/f13/language/de_CH) | 1054 | 1054 | 100.0 | /mnt/stockage/packages/f13/system-config-users-docs/doc/de_CH/de_CH.po | 
+ | [el](/f13/language/el) | 1054 | 1054 | 100.0 | /mnt/stockage/packages/f13/system-config-users-docs/doc/el/el.po | 
+ | [es](/f13/language/es) | 1054 | 1054 | 100.0 | /mnt/stockage/packages/f13/system-config-users-docs/doc/es/es.po | 
+ | [fr](/f13/language/fr) | 1054 | 1054 | 100.0 | /mnt/stockage/packages/f13/system-config-users-docs/doc/fr/fr.po | 
+ | [gu](/f13/language/gu) | 1054 | 1054 | 100.0 | /mnt/stockage/packages/f13/system-config-users-docs/doc/gu/gu.po | 
+ | [hu](/f13/language/hu) | 1054 | 1054 | 100.0 | /mnt/stockage/packages/f13/system-config-users-docs/doc/hu/hu.po | 
+ | [id](/f13/language/id) | 1054 | 1054 | 100.0 | /mnt/stockage/packages/f13/system-config-users-docs/doc/id/id.po | 
+ | [it](/f13/language/it) | 1054 | 1054 | 100.0 | /mnt/stockage/packages/f13/system-config-users-docs/doc/it/it.po | 
+ | [ja](/f13/language/ja) | 1054 | 1054 | 100.0 | /mnt/stockage/packages/f13/system-config-users-docs/doc/ja/ja.po | 
+ | [kn](/f13/language/kn) | 1054 | 1054 | 100.0 | /mnt/stockage/packages/f13/system-config-users-docs/doc/kn/kn.po | 
+ | [ml](/f13/language/ml) | 1054 | 1054 | 100.0 | /mnt/stockage/packages/f13/system-config-users-docs/doc/ml/ml.po | 
+ | [mr](/f13/language/mr) | 1054 | 1054 | 100.0 | /mnt/stockage/packages/f13/system-config-users-docs/doc/mr/mr.po | 
+ | [nl](/f13/language/nl) | 1054 | 1054 | 100.0 | /mnt/stockage/packages/f13/system-config-users-docs/doc/nl/nl.po | 
+ | [pa](/f13/language/pa) | 1054 | 1054 | 100.0 | /mnt/stockage/packages/f13/system-config-users-docs/doc/pa/pa.po | 
+ | [pl](/f13/language/pl) | 1054 | 1054 | 100.0 | /mnt/stockage/packages/f13/system-config-users-docs/doc/pl/pl.po | 
+ | [pt](/f13/language/pt) | 1054 | 1054 | 100.0 | /mnt/stockage/packages/f13/system-config-users-docs/doc/pt/pt.po | 
+ | [pt_BR](/f13/language/pt_BR) | 1054 | 1054 | 100.0 | /mnt/stockage/packages/f13/system-config-users-docs/doc/pt_BR/pt_BR.po | 
+ | [ru](/f13/language/ru) | 1054 | 1054 | 100.0 | /mnt/stockage/packages/f13/system-config-users-docs/doc/ru/ru.po | 
+ | [sr](/f13/language/sr) | 1054 | 1054 | 100.0 | /mnt/stockage/packages/f13/system-config-users-docs/doc/sr/sr.po | 
+ | [sr_Latn](/f13/language/sr_Latn) | 1054 | 1054 | 100.0 | /mnt/stockage/packages/f13/system-config-users-docs/doc/sr@latin/sr@latin.po | 
+ | [sv](/f13/language/sv) | 1054 | 1054 | 100.0 | /mnt/stockage/packages/f13/system-config-users-docs/doc/sv/sv.po | 
+ | [ta](/f13/language/ta) | 1054 | 1054 | 100.0 | /mnt/stockage/packages/f13/system-config-users-docs/doc/ta/ta.po | 
+ | [uk](/f13/language/uk) | 1054 | 1054 | 100.0 | /mnt/stockage/packages/f13/system-config-users-docs/doc/uk/uk.po | 
+ | [zh_Hans](/f13/language/zh_Hans) | 1054 | 1054 | 100.0 | /mnt/stockage/packages/f13/system-config-users-docs/doc/zh_CN/zh_CN.po | 
+ | [zh_Hant](/f13/language/zh_Hant) | 1054 | 1054 | 100.0 | /mnt/stockage/packages/f13/system-config-users-docs/doc/zh_TW/zh_TW.po | 
+ | [sq](/f13/language/sq) | 1317 | 1337 | 98.5 | /mnt/stockage/packages/f13/system-config-users-docs/doc/sq/sq.po | 
+ | [or](/f13/language/or) | 189 | 1054 | 17.9 | /mnt/stockage/packages/f13/system-config-users-docs/doc/or/or.po | 
+ | [hi](/f13/language/hi) | 50 | 1054 | 4.7 | /mnt/stockage/packages/f13/system-config-users-docs/doc/hi/hi.po | 
+ | [af](/f13/language/af) | 0 | 1054 | 0.0 | /mnt/stockage/packages/f13/system-config-users-docs/doc/af/af.po | 
+ | [am](/f13/language/am) | 0 | 1054 | 0.0 | /mnt/stockage/packages/f13/system-config-users-docs/doc/am/am.po | 
+ | [ar](/f13/language/ar) | 0 | 1054 | 0.0 | /mnt/stockage/packages/f13/system-config-users-docs/doc/ar/ar.po | 
+ | [as](/f13/language/as) | 0 | 1054 | 0.0 | /mnt/stockage/packages/f13/system-config-users-docs/doc/as/as.po | 
+ | [az](/f13/language/az) | 0 | 1054 | 0.0 | /mnt/stockage/packages/f13/system-config-users-docs/doc/az/az.po | 
+ | [bal](/f13/language/bal) | 0 | 1054 | 0.0 | /mnt/stockage/packages/f13/system-config-users-docs/doc/bal/bal.po | 
+ | [be](/f13/language/be) | 0 | 1054 | 0.0 | /mnt/stockage/packages/f13/system-config-users-docs/doc/be/be.po | 
+ | [be_Latn](/f13/language/be_Latn) | 0 | 1054 | 0.0 | /mnt/stockage/packages/f13/system-config-users-docs/doc/be@latin/be@latin.po | 
+ | [bg](/f13/language/bg) | 0 | 1054 | 0.0 | /mnt/stockage/packages/f13/system-config-users-docs/doc/bg/bg.po | 
+ | [bn](/f13/language/bn) | 0 | 1054 | 0.0 | /mnt/stockage/packages/f13/system-config-users-docs/doc/bn/bn.po | 
+ | [bs](/f13/language/bs) | 0 | 1054 | 0.0 | /mnt/stockage/packages/f13/system-config-users-docs/doc/bs/bs.po | 
+ | [cs](/f13/language/cs) | 0 | 1054 | 0.0 | /mnt/stockage/packages/f13/system-config-users-docs/doc/cs/cs.po | 
+ | [cy](/f13/language/cy) | 0 | 1054 | 0.0 | /mnt/stockage/packages/f13/system-config-users-docs/doc/cy/cy.po | 
+ | [dz](/f13/language/dz) | 0 | 1054 | 0.0 | /mnt/stockage/packages/f13/system-config-users-docs/doc/dz/dz.po | 
+ | [en_GB](/f13/language/en_GB) | 0 | 1054 | 0.0 | /mnt/stockage/packages/f13/system-config-users-docs/doc/en_GB/en_GB.po | 
+ | [et](/f13/language/et) | 0 | 1054 | 0.0 | /mnt/stockage/packages/f13/system-config-users-docs/doc/et/et.po | 
+ | [eu](/f13/language/eu) | 0 | 2108 | 0.0 | /mnt/stockage/packages/f13/system-config-users-docs/doc/eu_ES/eu_ES.po/mnt/stockage/packages/f13/system-config-users-docs/doc/eu/eu.po | 
+ | [fa](/f13/language/fa) | 0 | 1054 | 0.0 | /mnt/stockage/packages/f13/system-config-users-docs/doc/fa/fa.po | 
+ | [fi](/f13/language/fi) | 0 | 1054 | 0.0 | /mnt/stockage/packages/f13/system-config-users-docs/doc/fi/fi.po | 
+ | [gl](/f13/language/gl) | 0 | 1054 | 0.0 | /mnt/stockage/packages/f13/system-config-users-docs/doc/gl/gl.po | 
+ | [he](/f13/language/he) | 0 | 1054 | 0.0 | /mnt/stockage/packages/f13/system-config-users-docs/doc/he/he.po | 
+ | [hr](/f13/language/hr) | 0 | 1054 | 0.0 | /mnt/stockage/packages/f13/system-config-users-docs/doc/hr/hr.po | 
+ | [hy](/f13/language/hy) | 0 | 1054 | 0.0 | /mnt/stockage/packages/f13/system-config-users-docs/doc/hy/hy.po | 
+ | [ilo](/f13/language/ilo) | 0 | 1054 | 0.0 | /mnt/stockage/packages/f13/system-config-users-docs/doc/ilo/ilo.po | 
+ | [is](/f13/language/is) | 0 | 1054 | 0.0 | /mnt/stockage/packages/f13/system-config-users-docs/doc/is/is.po | 
+ | [ka](/f13/language/ka) | 0 | 1054 | 0.0 | /mnt/stockage/packages/f13/system-config-users-docs/doc/ka/ka.po | 
+ | [ko](/f13/language/ko) | 0 | 1054 | 0.0 | /mnt/stockage/packages/f13/system-config-users-docs/doc/ko/ko.po | 
+ | [ku](/f13/language/ku) | 0 | 1054 | 0.0 | /mnt/stockage/packages/f13/system-config-users-docs/doc/ku/ku.po | 
+ | [lo](/f13/language/lo) | 0 | 1054 | 0.0 | /mnt/stockage/packages/f13/system-config-users-docs/doc/lo/lo.po | 
+ | [lt](/f13/language/lt) | 0 | 1054 | 0.0 | /mnt/stockage/packages/f13/system-config-users-docs/doc/lt/lt.po | 
+ | [lv](/f13/language/lv) | 0 | 1054 | 0.0 | /mnt/stockage/packages/f13/system-config-users-docs/doc/lv/lv.po | 
+ | [mai](/f13/language/mai) | 0 | 1054 | 0.0 | /mnt/stockage/packages/f13/system-config-users-docs/doc/mai/mai.po | 
+ | [mk](/f13/language/mk) | 0 | 1054 | 0.0 | /mnt/stockage/packages/f13/system-config-users-docs/doc/mk/mk.po | 
+ | [mn](/f13/language/mn) | 0 | 1054 | 0.0 | /mnt/stockage/packages/f13/system-config-users-docs/doc/mn/mn.po | 
+ | [ms](/f13/language/ms) | 0 | 1054 | 0.0 | /mnt/stockage/packages/f13/system-config-users-docs/doc/ms/ms.po | 
+ | [my](/f13/language/my) | 0 | 1054 | 0.0 | /mnt/stockage/packages/f13/system-config-users-docs/doc/my/my.po | 
+ | [nb_NO](/f13/language/nb_NO) | 0 | 2108 | 0.0 | /mnt/stockage/packages/f13/system-config-users-docs/doc/no/no.po/mnt/stockage/packages/f13/system-config-users-docs/doc/nb/nb.po | 
+ | [ne](/f13/language/ne) | 0 | 1054 | 0.0 | /mnt/stockage/packages/f13/system-config-users-docs/doc/ne/ne.po | 
+ | [nn](/f13/language/nn) | 0 | 1054 | 0.0 | /mnt/stockage/packages/f13/system-config-users-docs/doc/nn/nn.po | 
+ | [nso](/f13/language/nso) | 0 | 1054 | 0.0 | /mnt/stockage/packages/f13/system-config-users-docs/doc/nso/nso.po | 
+ | [ro](/f13/language/ro) | 0 | 1054 | 0.0 | /mnt/stockage/packages/f13/system-config-users-docs/doc/ro/ro.po | 
+ | [si](/f13/language/si) | 0 | 1054 | 0.0 | /mnt/stockage/packages/f13/system-config-users-docs/doc/si/si.po | 
+ | [sk](/f13/language/sk) | 0 | 1054 | 0.0 | /mnt/stockage/packages/f13/system-config-users-docs/doc/sk/sk.po | 
+ | [sl](/f13/language/sl) | 0 | 1054 | 0.0 | /mnt/stockage/packages/f13/system-config-users-docs/doc/sl/sl.po | 
+ | [te](/f13/language/te) | 0 | 1054 | 0.0 | /mnt/stockage/packages/f13/system-config-users-docs/doc/te/te.po | 
+ | [th](/f13/language/th) | 0 | 1054 | 0.0 | /mnt/stockage/packages/f13/system-config-users-docs/doc/th/th.po | 
+ | [tl](/f13/language/tl) | 0 | 1054 | 0.0 | /mnt/stockage/packages/f13/system-config-users-docs/doc/tl/tl.po | 
+ | [tr](/f13/language/tr) | 0 | 1054 | 0.0 | /mnt/stockage/packages/f13/system-config-users-docs/doc/tr/tr.po | 
+ | [ur](/f13/language/ur) | 0 | 1054 | 0.0 | /mnt/stockage/packages/f13/system-config-users-docs/doc/ur/ur.po | 
+ | [vi](/f13/language/vi) | 0 | 1054 | 0.0 | /mnt/stockage/packages/f13/system-config-users-docs/doc/vi/vi.po | 
+ | [zu](/f13/language/zu) | 0 | 1054 | 0.0 | /mnt/stockage/packages/f13/system-config-users-docs/doc/zu/zu.po | 
 {.sortable}
 
 

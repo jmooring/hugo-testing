@@ -18,16 +18,16 @@ The package dnsmasq (version 2.80):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f31/language/de.md" >}}) | 2918 | 2918 | 100.0 | /mnt/stockage/packages/f31/dnsmasq/po/de.po | 
- | [pl]({{< ref "/f31/language/pl.md" >}}) | 2805 | 2918 | 96.1 | /mnt/stockage/packages/f31/dnsmasq/po/pl.po | 
- | [fr]({{< ref "/f31/language/fr.md" >}}) | 2284 | 2918 | 78.3 | /mnt/stockage/packages/f31/dnsmasq/po/fr.po | 
- | [es]({{< ref "/f31/language/es.md" >}}) | 1430 | 2918 | 49.0 | /mnt/stockage/packages/f31/dnsmasq/po/es.po | 
- | [nb_NO]({{< ref "/f31/language/nb_NO.md" >}}) | 757 | 2918 | 25.9 | /mnt/stockage/packages/f31/dnsmasq/po/no.po | 
- | [ro]({{< ref "/f31/language/ro.md" >}}) | 757 | 2918 | 25.9 | /mnt/stockage/packages/f31/dnsmasq/po/ro.po | 
- | [id]({{< ref "/f31/language/id.md" >}}) | 745 | 2918 | 25.5 | /mnt/stockage/packages/f31/dnsmasq/po/id.po | 
- | [fi]({{< ref "/f31/language/fi.md" >}}) | 0 | 2918 | 0.0 | /mnt/stockage/packages/f31/dnsmasq/po/fi.po | 
- | [it]({{< ref "/f31/language/it.md" >}}) | 0 | 2918 | 0.0 | /mnt/stockage/packages/f31/dnsmasq/po/it.po | 
- | [pt]({{< ref "/f31/language/pt.md" >}}) | 0 | 2918 | 0.0 | /mnt/stockage/packages/f31/dnsmasq/po/pt_BR.po | 
+ | [de](/f31/language/de) | 2918 | 2918 | 100.0 | /mnt/stockage/packages/f31/dnsmasq/po/de.po | 
+ | [pl](/f31/language/pl) | 2805 | 2918 | 96.1 | /mnt/stockage/packages/f31/dnsmasq/po/pl.po | 
+ | [fr](/f31/language/fr) | 2284 | 2918 | 78.3 | /mnt/stockage/packages/f31/dnsmasq/po/fr.po | 
+ | [es](/f31/language/es) | 1430 | 2918 | 49.0 | /mnt/stockage/packages/f31/dnsmasq/po/es.po | 
+ | [nb_NO](/f31/language/nb_NO) | 757 | 2918 | 25.9 | /mnt/stockage/packages/f31/dnsmasq/po/no.po | 
+ | [ro](/f31/language/ro) | 757 | 2918 | 25.9 | /mnt/stockage/packages/f31/dnsmasq/po/ro.po | 
+ | [id](/f31/language/id) | 745 | 2918 | 25.5 | /mnt/stockage/packages/f31/dnsmasq/po/id.po | 
+ | [fi](/f31/language/fi) | 0 | 2918 | 0.0 | /mnt/stockage/packages/f31/dnsmasq/po/fi.po | 
+ | [it](/f31/language/it) | 0 | 2918 | 0.0 | /mnt/stockage/packages/f31/dnsmasq/po/it.po | 
+ | [pt](/f31/language/pt) | 0 | 2918 | 0.0 | /mnt/stockage/packages/f31/dnsmasq/po/pt_BR.po | 
 {.sortable}
 
 

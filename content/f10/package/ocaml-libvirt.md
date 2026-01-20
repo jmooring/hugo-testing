@@ -18,9 +18,9 @@ The package ocaml-libvirt (version 0.6.1.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [pl]({{< ref "/f10/language/pl.md" >}}) | 1113 | 1113 | 100.0 | /mnt/stockage/packages/f10/ocaml-libvirt/po/pl.po | 
- | [pt_BR]({{< ref "/f10/language/pt_BR.md" >}}) | 1113 | 1113 | 100.0 | /mnt/stockage/packages/f10/ocaml-libvirt/po/pt_BR.po | 
- | [ja]({{< ref "/f10/language/ja.md" >}}) | 2 | 1113 | 0.2 | /mnt/stockage/packages/f10/ocaml-libvirt/po/ja.po | 
+ | [pl](/f10/language/pl) | 1113 | 1113 | 100.0 | /mnt/stockage/packages/f10/ocaml-libvirt/po/pl.po | 
+ | [pt_BR](/f10/language/pt_BR) | 1113 | 1113 | 100.0 | /mnt/stockage/packages/f10/ocaml-libvirt/po/pt_BR.po | 
+ | [ja](/f10/language/ja) | 2 | 1113 | 0.2 | /mnt/stockage/packages/f10/ocaml-libvirt/po/ja.po | 
 {.sortable}
 
 

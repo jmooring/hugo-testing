@@ -18,13 +18,13 @@ The package noggin (version 0.0.1^git20210323.3b487ed):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fi]({{< ref "/f33/language/fi.md" >}}) | 849 | 849 | 100.0 | /mnt/stockage/packages/f33/noggin/noggin/translations/fi/LC_MESSAGES/messages.po | 
- | [ko]({{< ref "/f33/language/ko.md" >}}) | 849 | 849 | 100.0 | /mnt/stockage/packages/f33/noggin/noggin/translations/ko/LC_MESSAGES/messages.po | 
- | [pt_BR]({{< ref "/f33/language/pt_BR.md" >}}) | 849 | 849 | 100.0 | /mnt/stockage/packages/f33/noggin/noggin/translations/pt_BR/LC_MESSAGES/messages.po | 
- | [pt_PT]({{< ref "/f33/language/pt_PT.md" >}}) | 849 | 849 | 100.0 | /mnt/stockage/packages/f33/noggin/noggin/translations/pt_PT/LC_MESSAGES/messages.po | 
- | [tr]({{< ref "/f33/language/tr.md" >}}) | 849 | 849 | 100.0 | /mnt/stockage/packages/f33/noggin/noggin/translations/tr/LC_MESSAGES/messages.po | 
- | [uk]({{< ref "/f33/language/uk.md" >}}) | 849 | 849 | 100.0 | /mnt/stockage/packages/f33/noggin/noggin/translations/uk/LC_MESSAGES/messages.po | 
- | [fr]({{< ref "/f33/language/fr.md" >}}) | 263 | 849 | 31.0 | /mnt/stockage/packages/f33/noggin/noggin/translations/fr_FR/LC_MESSAGES/messages.po | 
+ | [fi](/f33/language/fi) | 849 | 849 | 100.0 | /mnt/stockage/packages/f33/noggin/noggin/translations/fi/LC_MESSAGES/messages.po | 
+ | [ko](/f33/language/ko) | 849 | 849 | 100.0 | /mnt/stockage/packages/f33/noggin/noggin/translations/ko/LC_MESSAGES/messages.po | 
+ | [pt_BR](/f33/language/pt_BR) | 849 | 849 | 100.0 | /mnt/stockage/packages/f33/noggin/noggin/translations/pt_BR/LC_MESSAGES/messages.po | 
+ | [pt_PT](/f33/language/pt_PT) | 849 | 849 | 100.0 | /mnt/stockage/packages/f33/noggin/noggin/translations/pt_PT/LC_MESSAGES/messages.po | 
+ | [tr](/f33/language/tr) | 849 | 849 | 100.0 | /mnt/stockage/packages/f33/noggin/noggin/translations/tr/LC_MESSAGES/messages.po | 
+ | [uk](/f33/language/uk) | 849 | 849 | 100.0 | /mnt/stockage/packages/f33/noggin/noggin/translations/uk/LC_MESSAGES/messages.po | 
+ | [fr](/f33/language/fr) | 263 | 849 | 31.0 | /mnt/stockage/packages/f33/noggin/noggin/translations/fr_FR/LC_MESSAGES/messages.po | 
 {.sortable}
 
 

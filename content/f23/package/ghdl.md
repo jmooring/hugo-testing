@@ -18,28 +18,28 @@ The package ghdl (version 0.34dev):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [eo]({{< ref "/f23/language/eo.md" >}}) | 1230 | 1230 | 100.0 | /mnt/stockage/packages/f23/ghdl/libcpp/po/eo.po | 
- | [pt_BR]({{< ref "/f23/language/pt_BR.md" >}}) | 1230 | 1230 | 100.0 | /mnt/stockage/packages/f23/ghdl/libcpp/po/pt_BR.po | 
- | [sv]({{< ref "/f23/language/sv.md" >}}) | 80406 | 80406 | 100.0 | /mnt/stockage/packages/f23/ghdl/gcc/po/sv.po/mnt/stockage/packages/f23/ghdl/libcpp/po/sv.po | 
- | [uk]({{< ref "/f23/language/uk.md" >}}) | 1230 | 1230 | 100.0 | /mnt/stockage/packages/f23/ghdl/libcpp/po/uk.po | 
- | [de]({{< ref "/f23/language/de.md" >}}) | 72515 | 80411 | 90.2 | /mnt/stockage/packages/f23/ghdl/gcc/po/de.po/mnt/stockage/packages/f23/ghdl/libcpp/po/de.po/mnt/stockage/packages/f23/ghdl/libstdc++-v3/po/de.po | 
- | [es]({{< ref "/f23/language/es.md" >}}) | 66860 | 80406 | 83.2 | /mnt/stockage/packages/f23/ghdl/gcc/po/es.po/mnt/stockage/packages/f23/ghdl/libcpp/po/es.po | 
- | [ca]({{< ref "/f23/language/ca.md" >}}) | 989 | 1230 | 80.4 | /mnt/stockage/packages/f23/ghdl/libcpp/po/ca.po | 
- | [zh_Hans]({{< ref "/f23/language/zh_Hans.md" >}}) | 52606 | 80406 | 65.4 | /mnt/stockage/packages/f23/ghdl/gcc/po/zh_CN.po/mnt/stockage/packages/f23/ghdl/libcpp/po/zh_CN.po | 
- | [id]({{< ref "/f23/language/id.md" >}}) | 41453 | 80406 | 51.6 | /mnt/stockage/packages/f23/ghdl/gcc/po/id.po/mnt/stockage/packages/f23/ghdl/libcpp/po/id.po | 
- | [sr]({{< ref "/f23/language/sr.md" >}}) | 32175 | 80406 | 40.0 | /mnt/stockage/packages/f23/ghdl/gcc/po/sr.po/mnt/stockage/packages/f23/ghdl/libcpp/po/sr.po | 
- | [tr]({{< ref "/f23/language/tr.md" >}}) | 28516 | 80406 | 35.5 | /mnt/stockage/packages/f23/ghdl/gcc/po/tr.po/mnt/stockage/packages/f23/ghdl/libcpp/po/tr.po | 
- | [ja]({{< ref "/f23/language/ja.md" >}}) | 25864 | 80406 | 32.2 | /mnt/stockage/packages/f23/ghdl/gcc/po/ja.po/mnt/stockage/packages/f23/ghdl/libcpp/po/ja.po | 
- | [zh_Hant]({{< ref "/f23/language/zh_Hant.md" >}}) | 25419 | 80406 | 31.6 | /mnt/stockage/packages/f23/ghdl/gcc/po/zh_TW.po/mnt/stockage/packages/f23/ghdl/libcpp/po/zh_TW.po | 
- | [vi]({{< ref "/f23/language/vi.md" >}}) | 24909 | 80406 | 31.0 | /mnt/stockage/packages/f23/ghdl/gcc/po/vi.po/mnt/stockage/packages/f23/ghdl/libcpp/po/vi.po | 
- | [ru]({{< ref "/f23/language/ru.md" >}}) | 22744 | 80406 | 28.3 | /mnt/stockage/packages/f23/ghdl/gcc/po/ru.po/mnt/stockage/packages/f23/ghdl/libcpp/po/ru.po | 
- | [fi]({{< ref "/f23/language/fi.md" >}}) | 15628 | 80406 | 19.4 | /mnt/stockage/packages/f23/ghdl/gcc/po/fi.po/mnt/stockage/packages/f23/ghdl/libcpp/po/fi.po | 
- | [fr]({{< ref "/f23/language/fr.md" >}}) | 11570 | 80411 | 14.4 | /mnt/stockage/packages/f23/ghdl/gcc/po/fr.po/mnt/stockage/packages/f23/ghdl/libcpp/po/fr.po/mnt/stockage/packages/f23/ghdl/libstdc++-v3/po/fr.po | 
- | [da]({{< ref "/f23/language/da.md" >}}) | 8470 | 80406 | 10.5 | /mnt/stockage/packages/f23/ghdl/gcc/po/da.po/mnt/stockage/packages/f23/ghdl/libcpp/po/da.po | 
- | [nl]({{< ref "/f23/language/nl.md" >}}) | 6421 | 80406 | 8.0 | /mnt/stockage/packages/f23/ghdl/gcc/po/nl.po/mnt/stockage/packages/f23/ghdl/libcpp/po/nl.po | 
- | [hr]({{< ref "/f23/language/hr.md" >}}) | 779 | 79176 | 1.0 | /mnt/stockage/packages/f23/ghdl/gcc/po/hr.po | 
- | [be]({{< ref "/f23/language/be.md" >}}) | 431 | 80406 | 0.5 | /mnt/stockage/packages/f23/ghdl/gcc/po/be.po/mnt/stockage/packages/f23/ghdl/libcpp/po/be.po | 
- | [el]({{< ref "/f23/language/el.md" >}}) | 417 | 80406 | 0.5 | /mnt/stockage/packages/f23/ghdl/gcc/po/el.po/mnt/stockage/packages/f23/ghdl/libcpp/po/el.po | 
+ | [eo](/f23/language/eo) | 1230 | 1230 | 100.0 | /mnt/stockage/packages/f23/ghdl/libcpp/po/eo.po | 
+ | [pt_BR](/f23/language/pt_BR) | 1230 | 1230 | 100.0 | /mnt/stockage/packages/f23/ghdl/libcpp/po/pt_BR.po | 
+ | [sv](/f23/language/sv) | 80406 | 80406 | 100.0 | /mnt/stockage/packages/f23/ghdl/gcc/po/sv.po/mnt/stockage/packages/f23/ghdl/libcpp/po/sv.po | 
+ | [uk](/f23/language/uk) | 1230 | 1230 | 100.0 | /mnt/stockage/packages/f23/ghdl/libcpp/po/uk.po | 
+ | [de](/f23/language/de) | 72515 | 80411 | 90.2 | /mnt/stockage/packages/f23/ghdl/gcc/po/de.po/mnt/stockage/packages/f23/ghdl/libcpp/po/de.po/mnt/stockage/packages/f23/ghdl/libstdc++-v3/po/de.po | 
+ | [es](/f23/language/es) | 66860 | 80406 | 83.2 | /mnt/stockage/packages/f23/ghdl/gcc/po/es.po/mnt/stockage/packages/f23/ghdl/libcpp/po/es.po | 
+ | [ca](/f23/language/ca) | 989 | 1230 | 80.4 | /mnt/stockage/packages/f23/ghdl/libcpp/po/ca.po | 
+ | [zh_Hans](/f23/language/zh_Hans) | 52606 | 80406 | 65.4 | /mnt/stockage/packages/f23/ghdl/gcc/po/zh_CN.po/mnt/stockage/packages/f23/ghdl/libcpp/po/zh_CN.po | 
+ | [id](/f23/language/id) | 41453 | 80406 | 51.6 | /mnt/stockage/packages/f23/ghdl/gcc/po/id.po/mnt/stockage/packages/f23/ghdl/libcpp/po/id.po | 
+ | [sr](/f23/language/sr) | 32175 | 80406 | 40.0 | /mnt/stockage/packages/f23/ghdl/gcc/po/sr.po/mnt/stockage/packages/f23/ghdl/libcpp/po/sr.po | 
+ | [tr](/f23/language/tr) | 28516 | 80406 | 35.5 | /mnt/stockage/packages/f23/ghdl/gcc/po/tr.po/mnt/stockage/packages/f23/ghdl/libcpp/po/tr.po | 
+ | [ja](/f23/language/ja) | 25864 | 80406 | 32.2 | /mnt/stockage/packages/f23/ghdl/gcc/po/ja.po/mnt/stockage/packages/f23/ghdl/libcpp/po/ja.po | 
+ | [zh_Hant](/f23/language/zh_Hant) | 25419 | 80406 | 31.6 | /mnt/stockage/packages/f23/ghdl/gcc/po/zh_TW.po/mnt/stockage/packages/f23/ghdl/libcpp/po/zh_TW.po | 
+ | [vi](/f23/language/vi) | 24909 | 80406 | 31.0 | /mnt/stockage/packages/f23/ghdl/gcc/po/vi.po/mnt/stockage/packages/f23/ghdl/libcpp/po/vi.po | 
+ | [ru](/f23/language/ru) | 22744 | 80406 | 28.3 | /mnt/stockage/packages/f23/ghdl/gcc/po/ru.po/mnt/stockage/packages/f23/ghdl/libcpp/po/ru.po | 
+ | [fi](/f23/language/fi) | 15628 | 80406 | 19.4 | /mnt/stockage/packages/f23/ghdl/gcc/po/fi.po/mnt/stockage/packages/f23/ghdl/libcpp/po/fi.po | 
+ | [fr](/f23/language/fr) | 11570 | 80411 | 14.4 | /mnt/stockage/packages/f23/ghdl/gcc/po/fr.po/mnt/stockage/packages/f23/ghdl/libcpp/po/fr.po/mnt/stockage/packages/f23/ghdl/libstdc++-v3/po/fr.po | 
+ | [da](/f23/language/da) | 8470 | 80406 | 10.5 | /mnt/stockage/packages/f23/ghdl/gcc/po/da.po/mnt/stockage/packages/f23/ghdl/libcpp/po/da.po | 
+ | [nl](/f23/language/nl) | 6421 | 80406 | 8.0 | /mnt/stockage/packages/f23/ghdl/gcc/po/nl.po/mnt/stockage/packages/f23/ghdl/libcpp/po/nl.po | 
+ | [hr](/f23/language/hr) | 779 | 79176 | 1.0 | /mnt/stockage/packages/f23/ghdl/gcc/po/hr.po | 
+ | [be](/f23/language/be) | 431 | 80406 | 0.5 | /mnt/stockage/packages/f23/ghdl/gcc/po/be.po/mnt/stockage/packages/f23/ghdl/libcpp/po/be.po | 
+ | [el](/f23/language/el) | 417 | 80406 | 0.5 | /mnt/stockage/packages/f23/ghdl/gcc/po/el.po/mnt/stockage/packages/f23/ghdl/libcpp/po/el.po | 
 {.sortable}
 
 

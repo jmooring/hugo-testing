@@ -18,18 +18,18 @@ The package nemiver (version 0.5.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f9/language/ca.md" >}}) | 812 | 812 | 100.0 | /mnt/stockage/packages/f9/nemiver/po/ca.po | 
- | [de]({{< ref "/f9/language/de.md" >}}) | 408 | 408 | 100.0 | /mnt/stockage/packages/f9/nemiver/po/de.po | 
- | [dz]({{< ref "/f9/language/dz.md" >}}) | 675 | 675 | 100.0 | /mnt/stockage/packages/f9/nemiver/po/dz.po | 
- | [en_GB]({{< ref "/f9/language/en_GB.md" >}}) | 670 | 670 | 100.0 | /mnt/stockage/packages/f9/nemiver/po/en_GB.po | 
- | [fi]({{< ref "/f9/language/fi.md" >}}) | 812 | 812 | 100.0 | /mnt/stockage/packages/f9/nemiver/po/fi.po | 
- | [fr]({{< ref "/f9/language/fr.md" >}}) | 812 | 812 | 100.0 | /mnt/stockage/packages/f9/nemiver/po/fr.po | 
- | [ja]({{< ref "/f9/language/ja.md" >}}) | 812 | 812 | 100.0 | /mnt/stockage/packages/f9/nemiver/po/ja.po | 
- | [nl]({{< ref "/f9/language/nl.md" >}}) | 409 | 420 | 97.4 | /mnt/stockage/packages/f9/nemiver/po/nl.po | 
- | [es]({{< ref "/f9/language/es.md" >}}) | 1325 | 3142 | 42.2 | /mnt/stockage/packages/f9/nemiver/help/es/es.po/mnt/stockage/packages/f9/nemiver/po/es.po | 
- | [sv]({{< ref "/f9/language/sv.md" >}}) | 875 | 2636 | 33.2 | /mnt/stockage/packages/f9/nemiver/help/sv/sv.po/mnt/stockage/packages/f9/nemiver/po/sv.po | 
- | [ar]({{< ref "/f9/language/ar.md" >}}) | 123 | 763 | 16.1 | /mnt/stockage/packages/f9/nemiver/po/ar.po | 
- | [oc]({{< ref "/f9/language/oc.md" >}}) | 236 | 2722 | 8.7 | /mnt/stockage/packages/f9/nemiver/help/oc/oc.po/mnt/stockage/packages/f9/nemiver/po/oc.po | 
+ | [ca](/f9/language/ca) | 812 | 812 | 100.0 | /mnt/stockage/packages/f9/nemiver/po/ca.po | 
+ | [de](/f9/language/de) | 408 | 408 | 100.0 | /mnt/stockage/packages/f9/nemiver/po/de.po | 
+ | [dz](/f9/language/dz) | 675 | 675 | 100.0 | /mnt/stockage/packages/f9/nemiver/po/dz.po | 
+ | [en_GB](/f9/language/en_GB) | 670 | 670 | 100.0 | /mnt/stockage/packages/f9/nemiver/po/en_GB.po | 
+ | [fi](/f9/language/fi) | 812 | 812 | 100.0 | /mnt/stockage/packages/f9/nemiver/po/fi.po | 
+ | [fr](/f9/language/fr) | 812 | 812 | 100.0 | /mnt/stockage/packages/f9/nemiver/po/fr.po | 
+ | [ja](/f9/language/ja) | 812 | 812 | 100.0 | /mnt/stockage/packages/f9/nemiver/po/ja.po | 
+ | [nl](/f9/language/nl) | 409 | 420 | 97.4 | /mnt/stockage/packages/f9/nemiver/po/nl.po | 
+ | [es](/f9/language/es) | 1325 | 3142 | 42.2 | /mnt/stockage/packages/f9/nemiver/help/es/es.po/mnt/stockage/packages/f9/nemiver/po/es.po | 
+ | [sv](/f9/language/sv) | 875 | 2636 | 33.2 | /mnt/stockage/packages/f9/nemiver/help/sv/sv.po/mnt/stockage/packages/f9/nemiver/po/sv.po | 
+ | [ar](/f9/language/ar) | 123 | 763 | 16.1 | /mnt/stockage/packages/f9/nemiver/po/ar.po | 
+ | [oc](/f9/language/oc) | 236 | 2722 | 8.7 | /mnt/stockage/packages/f9/nemiver/help/oc/oc.po/mnt/stockage/packages/f9/nemiver/po/oc.po | 
 {.sortable}
 
 

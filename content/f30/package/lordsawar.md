@@ -18,12 +18,12 @@ The package lordsawar (version 0.3.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f30/language/ca.md" >}}) | 6927 | 6927 | 100.0 | /mnt/stockage/packages/f30/lordsawar/po/ca.po | 
- | [da]({{< ref "/f30/language/da.md" >}}) | 6927 | 6927 | 100.0 | /mnt/stockage/packages/f30/lordsawar/po/da.po | 
- | [de]({{< ref "/f30/language/de.md" >}}) | 5718 | 5718 | 100.0 | /mnt/stockage/packages/f30/lordsawar/po/de.po | 
- | [nl]({{< ref "/f30/language/nl.md" >}}) | 1618 | 3178 | 50.9 | /mnt/stockage/packages/f30/lordsawar/po/nl.po | 
- | [pl]({{< ref "/f30/language/pl.md" >}}) | 942 | 5718 | 16.5 | /mnt/stockage/packages/f30/lordsawar/po/pl.po | 
- | [hu]({{< ref "/f30/language/hu.md" >}}) | 1126 | 6927 | 16.3 | /mnt/stockage/packages/f30/lordsawar/po/hu.po | 
+ | [ca](/f30/language/ca) | 6927 | 6927 | 100.0 | /mnt/stockage/packages/f30/lordsawar/po/ca.po | 
+ | [da](/f30/language/da) | 6927 | 6927 | 100.0 | /mnt/stockage/packages/f30/lordsawar/po/da.po | 
+ | [de](/f30/language/de) | 5718 | 5718 | 100.0 | /mnt/stockage/packages/f30/lordsawar/po/de.po | 
+ | [nl](/f30/language/nl) | 1618 | 3178 | 50.9 | /mnt/stockage/packages/f30/lordsawar/po/nl.po | 
+ | [pl](/f30/language/pl) | 942 | 5718 | 16.5 | /mnt/stockage/packages/f30/lordsawar/po/pl.po | 
+ | [hu](/f30/language/hu) | 1126 | 6927 | 16.3 | /mnt/stockage/packages/f30/lordsawar/po/hu.po | 
 {.sortable}
 
 

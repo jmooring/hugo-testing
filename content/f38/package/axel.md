@@ -18,17 +18,17 @@ The package axel (version 2.17.13):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ka]({{< ref "/f38/language/ka.md" >}}) | 596 | 607 | 98.2 | /mnt/stockage/packages/f38/axel/po/ka.po | 
- | [de]({{< ref "/f38/language/de.md" >}}) | 352 | 607 | 58.0 | /mnt/stockage/packages/f38/axel/po/de.po | 
- | [es]({{< ref "/f38/language/es.md" >}}) | 352 | 607 | 58.0 | /mnt/stockage/packages/f38/axel/po/es.po | 
- | [it]({{< ref "/f38/language/it.md" >}}) | 347 | 607 | 57.2 | /mnt/stockage/packages/f38/axel/po/it.po | 
- | [pt_BR]({{< ref "/f38/language/pt_BR.md" >}}) | 347 | 607 | 57.2 | /mnt/stockage/packages/f38/axel/po/pt_BR.po | 
- | [tr]({{< ref "/f38/language/tr.md" >}}) | 335 | 607 | 55.2 | /mnt/stockage/packages/f38/axel/po/tr.po | 
- | [zh_Hans]({{< ref "/f38/language/zh_Hans.md" >}}) | 323 | 607 | 53.2 | /mnt/stockage/packages/f38/axel/po/zh_CN.po | 
- | [id]({{< ref "/f38/language/id.md" >}}) | 272 | 607 | 44.8 | /mnt/stockage/packages/f38/axel/po/id_ID.po | 
- | [ja]({{< ref "/f38/language/ja.md" >}}) | 265 | 607 | 43.7 | /mnt/stockage/packages/f38/axel/po/ja.po | 
- | [ru]({{< ref "/f38/language/ru.md" >}}) | 261 | 607 | 43.0 | /mnt/stockage/packages/f38/axel/po/ru.po | 
- | [nl]({{< ref "/f38/language/nl.md" >}}) | 199 | 607 | 32.8 | /mnt/stockage/packages/f38/axel/po/nl.po | 
+ | [ka](/f38/language/ka) | 596 | 607 | 98.2 | /mnt/stockage/packages/f38/axel/po/ka.po | 
+ | [de](/f38/language/de) | 352 | 607 | 58.0 | /mnt/stockage/packages/f38/axel/po/de.po | 
+ | [es](/f38/language/es) | 352 | 607 | 58.0 | /mnt/stockage/packages/f38/axel/po/es.po | 
+ | [it](/f38/language/it) | 347 | 607 | 57.2 | /mnt/stockage/packages/f38/axel/po/it.po | 
+ | [pt_BR](/f38/language/pt_BR) | 347 | 607 | 57.2 | /mnt/stockage/packages/f38/axel/po/pt_BR.po | 
+ | [tr](/f38/language/tr) | 335 | 607 | 55.2 | /mnt/stockage/packages/f38/axel/po/tr.po | 
+ | [zh_Hans](/f38/language/zh_Hans) | 323 | 607 | 53.2 | /mnt/stockage/packages/f38/axel/po/zh_CN.po | 
+ | [id](/f38/language/id) | 272 | 607 | 44.8 | /mnt/stockage/packages/f38/axel/po/id_ID.po | 
+ | [ja](/f38/language/ja) | 265 | 607 | 43.7 | /mnt/stockage/packages/f38/axel/po/ja.po | 
+ | [ru](/f38/language/ru) | 261 | 607 | 43.0 | /mnt/stockage/packages/f38/axel/po/ru.po | 
+ | [nl](/f38/language/nl) | 199 | 607 | 32.8 | /mnt/stockage/packages/f38/axel/po/nl.po | 
 {.sortable}
 
 

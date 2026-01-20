@@ -18,47 +18,47 @@ The package audacious-plugins (version 4.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f35/language/ar.md" >}}) | 4254 | 4254 | 100.0 | /mnt/stockage/packages/f35/audacious-plugins/po/ar.po | 
- | [da]({{< ref "/f35/language/da.md" >}}) | 4254 | 4254 | 100.0 | /mnt/stockage/packages/f35/audacious-plugins/po/da.po | 
- | [de]({{< ref "/f35/language/de.md" >}}) | 4254 | 4254 | 100.0 | /mnt/stockage/packages/f35/audacious-plugins/po/de.po | 
- | [es]({{< ref "/f35/language/es.md" >}}) | 4254 | 4254 | 100.0 | /mnt/stockage/packages/f35/audacious-plugins/po/es.po | 
- | [fi]({{< ref "/f35/language/fi.md" >}}) | 4254 | 4254 | 100.0 | /mnt/stockage/packages/f35/audacious-plugins/po/fi.po | 
- | [fr]({{< ref "/f35/language/fr.md" >}}) | 4254 | 4254 | 100.0 | /mnt/stockage/packages/f35/audacious-plugins/po/fr.po | 
- | [nl]({{< ref "/f35/language/nl.md" >}}) | 4254 | 4254 | 100.0 | /mnt/stockage/packages/f35/audacious-plugins/po/nl.po | 
- | [pl]({{< ref "/f35/language/pl.md" >}}) | 4254 | 4254 | 100.0 | /mnt/stockage/packages/f35/audacious-plugins/po/pl.po | 
- | [pt_BR]({{< ref "/f35/language/pt_BR.md" >}}) | 4254 | 4254 | 100.0 | /mnt/stockage/packages/f35/audacious-plugins/po/pt_BR.po | 
- | [lv]({{< ref "/f35/language/lv.md" >}}) | 4244 | 4254 | 99.8 | /mnt/stockage/packages/f35/audacious-plugins/po/lv.po | 
- | [sv]({{< ref "/f35/language/sv.md" >}}) | 4198 | 4254 | 98.7 | /mnt/stockage/packages/f35/audacious-plugins/po/sv.po | 
- | [cs]({{< ref "/f35/language/cs.md" >}}) | 4092 | 4254 | 96.2 | /mnt/stockage/packages/f35/audacious-plugins/po/cs.po | 
- | [es_MX]({{< ref "/f35/language/es_MX.md" >}}) | 4092 | 4254 | 96.2 | /mnt/stockage/packages/f35/audacious-plugins/po/es_MX.po | 
- | [ru]({{< ref "/f35/language/ru.md" >}}) | 4092 | 4254 | 96.2 | /mnt/stockage/packages/f35/audacious-plugins/po/ru.po | 
- | [sl]({{< ref "/f35/language/sl.md" >}}) | 4092 | 4254 | 96.2 | /mnt/stockage/packages/f35/audacious-plugins/po/sl.po | 
- | [tr]({{< ref "/f35/language/tr.md" >}}) | 4092 | 4254 | 96.2 | /mnt/stockage/packages/f35/audacious-plugins/po/tr.po | 
- | [uk]({{< ref "/f35/language/uk.md" >}}) | 4092 | 4254 | 96.2 | /mnt/stockage/packages/f35/audacious-plugins/po/uk.po | 
- | [gl]({{< ref "/f35/language/gl.md" >}}) | 4087 | 4254 | 96.1 | /mnt/stockage/packages/f35/audacious-plugins/po/gl.po | 
- | [el]({{< ref "/f35/language/el.md" >}}) | 4075 | 4254 | 95.8 | /mnt/stockage/packages/f35/audacious-plugins/po/el.po | 
- | [zh_Hant]({{< ref "/f35/language/zh_Hant.md" >}}) | 4029 | 4254 | 94.7 | /mnt/stockage/packages/f35/audacious-plugins/po/zh_TW.po | 
- | [ja]({{< ref "/f35/language/ja.md" >}}) | 3870 | 4254 | 91.0 | /mnt/stockage/packages/f35/audacious-plugins/po/ja.po | 
- | [bg]({{< ref "/f35/language/bg.md" >}}) | 3866 | 4254 | 90.9 | /mnt/stockage/packages/f35/audacious-plugins/po/bg.po | 
- | [hu]({{< ref "/f35/language/hu.md" >}}) | 3866 | 4254 | 90.9 | /mnt/stockage/packages/f35/audacious-plugins/po/hu.po | 
- | [ms]({{< ref "/f35/language/ms.md" >}}) | 3866 | 4254 | 90.9 | /mnt/stockage/packages/f35/audacious-plugins/po/ms.po | 
- | [pt_PT]({{< ref "/f35/language/pt_PT.md" >}}) | 3866 | 4254 | 90.9 | /mnt/stockage/packages/f35/audacious-plugins/po/pt_PT.po | 
- | [sk]({{< ref "/f35/language/sk.md" >}}) | 3721 | 4254 | 87.5 | /mnt/stockage/packages/f35/audacious-plugins/po/sk.po | 
- | [ca]({{< ref "/f35/language/ca.md" >}}) | 3593 | 4254 | 84.5 | /mnt/stockage/packages/f35/audacious-plugins/po/ca.po | 
- | [it]({{< ref "/f35/language/it.md" >}}) | 3281 | 4254 | 77.1 | /mnt/stockage/packages/f35/audacious-plugins/po/it.po | 
- | [zh_Hans]({{< ref "/f35/language/zh_Hans.md" >}}) | 6351 | 8508 | 74.6 | /mnt/stockage/packages/f35/audacious-plugins/po/zh_CN.po/mnt/stockage/packages/f35/audacious-plugins/po/cmn.po | 
- | [sr]({{< ref "/f35/language/sr.md" >}}) | 6069 | 8508 | 71.3 | /mnt/stockage/packages/f35/audacious-plugins/po/sr.po/mnt/stockage/packages/f35/audacious-plugins/po/sr_RS.po | 
- | [ko]({{< ref "/f35/language/ko.md" >}}) | 2883 | 4254 | 67.8 | /mnt/stockage/packages/f35/audacious-plugins/po/ko.po | 
- | [lt]({{< ref "/f35/language/lt.md" >}}) | 2384 | 4254 | 56.0 | /mnt/stockage/packages/f35/audacious-plugins/po/lt.po | 
- | [si]({{< ref "/f35/language/si.md" >}}) | 2134 | 4254 | 50.2 | /mnt/stockage/packages/f35/audacious-plugins/po/si.po | 
- | [et]({{< ref "/f35/language/et.md" >}}) | 1971 | 4254 | 46.3 | /mnt/stockage/packages/f35/audacious-plugins/po/et.po | 
- | [sq]({{< ref "/f35/language/sq.md" >}}) | 1534 | 4254 | 36.1 | /mnt/stockage/packages/f35/audacious-plugins/po/sq.po | 
- | [en_GB]({{< ref "/f35/language/en_GB.md" >}}) | 1461 | 4254 | 34.3 | /mnt/stockage/packages/f35/audacious-plugins/po/en_GB.po | 
- | [id]({{< ref "/f35/language/id.md" >}}) | 1367 | 4254 | 32.1 | /mnt/stockage/packages/f35/audacious-plugins/po/id_ID.po | 
- | [es_AR]({{< ref "/f35/language/es_AR.md" >}}) | 1244 | 4254 | 29.2 | /mnt/stockage/packages/f35/audacious-plugins/po/es_AR.po | 
- | [ta]({{< ref "/f35/language/ta.md" >}}) | 1073 | 4254 | 25.2 | /mnt/stockage/packages/f35/audacious-plugins/po/ta.po | 
- | [ml]({{< ref "/f35/language/ml.md" >}}) | 997 | 4254 | 23.4 | /mnt/stockage/packages/f35/audacious-plugins/po/ml_IN.po | 
- | [be]({{< ref "/f35/language/be.md" >}}) | 897 | 4254 | 21.1 | /mnt/stockage/packages/f35/audacious-plugins/po/be.po | 
+ | [ar](/f35/language/ar) | 4254 | 4254 | 100.0 | /mnt/stockage/packages/f35/audacious-plugins/po/ar.po | 
+ | [da](/f35/language/da) | 4254 | 4254 | 100.0 | /mnt/stockage/packages/f35/audacious-plugins/po/da.po | 
+ | [de](/f35/language/de) | 4254 | 4254 | 100.0 | /mnt/stockage/packages/f35/audacious-plugins/po/de.po | 
+ | [es](/f35/language/es) | 4254 | 4254 | 100.0 | /mnt/stockage/packages/f35/audacious-plugins/po/es.po | 
+ | [fi](/f35/language/fi) | 4254 | 4254 | 100.0 | /mnt/stockage/packages/f35/audacious-plugins/po/fi.po | 
+ | [fr](/f35/language/fr) | 4254 | 4254 | 100.0 | /mnt/stockage/packages/f35/audacious-plugins/po/fr.po | 
+ | [nl](/f35/language/nl) | 4254 | 4254 | 100.0 | /mnt/stockage/packages/f35/audacious-plugins/po/nl.po | 
+ | [pl](/f35/language/pl) | 4254 | 4254 | 100.0 | /mnt/stockage/packages/f35/audacious-plugins/po/pl.po | 
+ | [pt_BR](/f35/language/pt_BR) | 4254 | 4254 | 100.0 | /mnt/stockage/packages/f35/audacious-plugins/po/pt_BR.po | 
+ | [lv](/f35/language/lv) | 4244 | 4254 | 99.8 | /mnt/stockage/packages/f35/audacious-plugins/po/lv.po | 
+ | [sv](/f35/language/sv) | 4198 | 4254 | 98.7 | /mnt/stockage/packages/f35/audacious-plugins/po/sv.po | 
+ | [cs](/f35/language/cs) | 4092 | 4254 | 96.2 | /mnt/stockage/packages/f35/audacious-plugins/po/cs.po | 
+ | [es_MX](/f35/language/es_MX) | 4092 | 4254 | 96.2 | /mnt/stockage/packages/f35/audacious-plugins/po/es_MX.po | 
+ | [ru](/f35/language/ru) | 4092 | 4254 | 96.2 | /mnt/stockage/packages/f35/audacious-plugins/po/ru.po | 
+ | [sl](/f35/language/sl) | 4092 | 4254 | 96.2 | /mnt/stockage/packages/f35/audacious-plugins/po/sl.po | 
+ | [tr](/f35/language/tr) | 4092 | 4254 | 96.2 | /mnt/stockage/packages/f35/audacious-plugins/po/tr.po | 
+ | [uk](/f35/language/uk) | 4092 | 4254 | 96.2 | /mnt/stockage/packages/f35/audacious-plugins/po/uk.po | 
+ | [gl](/f35/language/gl) | 4087 | 4254 | 96.1 | /mnt/stockage/packages/f35/audacious-plugins/po/gl.po | 
+ | [el](/f35/language/el) | 4075 | 4254 | 95.8 | /mnt/stockage/packages/f35/audacious-plugins/po/el.po | 
+ | [zh_Hant](/f35/language/zh_Hant) | 4029 | 4254 | 94.7 | /mnt/stockage/packages/f35/audacious-plugins/po/zh_TW.po | 
+ | [ja](/f35/language/ja) | 3870 | 4254 | 91.0 | /mnt/stockage/packages/f35/audacious-plugins/po/ja.po | 
+ | [bg](/f35/language/bg) | 3866 | 4254 | 90.9 | /mnt/stockage/packages/f35/audacious-plugins/po/bg.po | 
+ | [hu](/f35/language/hu) | 3866 | 4254 | 90.9 | /mnt/stockage/packages/f35/audacious-plugins/po/hu.po | 
+ | [ms](/f35/language/ms) | 3866 | 4254 | 90.9 | /mnt/stockage/packages/f35/audacious-plugins/po/ms.po | 
+ | [pt_PT](/f35/language/pt_PT) | 3866 | 4254 | 90.9 | /mnt/stockage/packages/f35/audacious-plugins/po/pt_PT.po | 
+ | [sk](/f35/language/sk) | 3721 | 4254 | 87.5 | /mnt/stockage/packages/f35/audacious-plugins/po/sk.po | 
+ | [ca](/f35/language/ca) | 3593 | 4254 | 84.5 | /mnt/stockage/packages/f35/audacious-plugins/po/ca.po | 
+ | [it](/f35/language/it) | 3281 | 4254 | 77.1 | /mnt/stockage/packages/f35/audacious-plugins/po/it.po | 
+ | [zh_Hans](/f35/language/zh_Hans) | 6351 | 8508 | 74.6 | /mnt/stockage/packages/f35/audacious-plugins/po/zh_CN.po/mnt/stockage/packages/f35/audacious-plugins/po/cmn.po | 
+ | [sr](/f35/language/sr) | 6069 | 8508 | 71.3 | /mnt/stockage/packages/f35/audacious-plugins/po/sr.po/mnt/stockage/packages/f35/audacious-plugins/po/sr_RS.po | 
+ | [ko](/f35/language/ko) | 2883 | 4254 | 67.8 | /mnt/stockage/packages/f35/audacious-plugins/po/ko.po | 
+ | [lt](/f35/language/lt) | 2384 | 4254 | 56.0 | /mnt/stockage/packages/f35/audacious-plugins/po/lt.po | 
+ | [si](/f35/language/si) | 2134 | 4254 | 50.2 | /mnt/stockage/packages/f35/audacious-plugins/po/si.po | 
+ | [et](/f35/language/et) | 1971 | 4254 | 46.3 | /mnt/stockage/packages/f35/audacious-plugins/po/et.po | 
+ | [sq](/f35/language/sq) | 1534 | 4254 | 36.1 | /mnt/stockage/packages/f35/audacious-plugins/po/sq.po | 
+ | [en_GB](/f35/language/en_GB) | 1461 | 4254 | 34.3 | /mnt/stockage/packages/f35/audacious-plugins/po/en_GB.po | 
+ | [id](/f35/language/id) | 1367 | 4254 | 32.1 | /mnt/stockage/packages/f35/audacious-plugins/po/id_ID.po | 
+ | [es_AR](/f35/language/es_AR) | 1244 | 4254 | 29.2 | /mnt/stockage/packages/f35/audacious-plugins/po/es_AR.po | 
+ | [ta](/f35/language/ta) | 1073 | 4254 | 25.2 | /mnt/stockage/packages/f35/audacious-plugins/po/ta.po | 
+ | [ml](/f35/language/ml) | 997 | 4254 | 23.4 | /mnt/stockage/packages/f35/audacious-plugins/po/ml_IN.po | 
+ | [be](/f35/language/be) | 897 | 4254 | 21.1 | /mnt/stockage/packages/f35/audacious-plugins/po/be.po | 
 {.sortable}
 
 

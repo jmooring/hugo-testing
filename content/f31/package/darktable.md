@@ -18,15 +18,15 @@ The package darktable (version 3.2.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [es]({{< ref "/f31/language/es.md" >}}) | 19457 | 19457 | 100.0 | /mnt/stockage/packages/f31/darktable/doc/man/po/es.po/mnt/stockage/packages/f31/darktable/po/es.po | 
- | [he_IL]({{< ref "/f31/language/he_IL.md" >}}) | 17429 | 17429 | 100.0 | /mnt/stockage/packages/f31/darktable/po/he.po | 
- | [it]({{< ref "/f31/language/it.md" >}}) | 17429 | 17429 | 100.0 | /mnt/stockage/packages/f31/darktable/po/it.po | 
- | [pl]({{< ref "/f31/language/pl.md" >}}) | 16181 | 16181 | 100.0 | /mnt/stockage/packages/f31/darktable/po/pl.po | 
- | [pt_BR]({{< ref "/f31/language/pt_BR.md" >}}) | 17429 | 17429 | 100.0 | /mnt/stockage/packages/f31/darktable/po/pt_BR.po | 
- | [ru]({{< ref "/f31/language/ru.md" >}}) | 17429 | 17429 | 100.0 | /mnt/stockage/packages/f31/darktable/po/ru.po | 
- | [sl]({{< ref "/f31/language/sl.md" >}}) | 17429 | 17429 | 100.0 | /mnt/stockage/packages/f31/darktable/po/sl.po | 
- | [fr]({{< ref "/f31/language/fr.md" >}}) | 19525 | 19527 | 100.0 | /mnt/stockage/packages/f31/darktable/doc/man/po/fr.po/mnt/stockage/packages/f31/darktable/po/fr.po | 
- | [de]({{< ref "/f31/language/de.md" >}}) | 18671 | 19527 | 95.6 | /mnt/stockage/packages/f31/darktable/doc/man/po/de.po/mnt/stockage/packages/f31/darktable/po/de.po | 
+ | [es](/f31/language/es) | 19457 | 19457 | 100.0 | /mnt/stockage/packages/f31/darktable/doc/man/po/es.po/mnt/stockage/packages/f31/darktable/po/es.po | 
+ | [he_IL](/f31/language/he_IL) | 17429 | 17429 | 100.0 | /mnt/stockage/packages/f31/darktable/po/he.po | 
+ | [it](/f31/language/it) | 17429 | 17429 | 100.0 | /mnt/stockage/packages/f31/darktable/po/it.po | 
+ | [pl](/f31/language/pl) | 16181 | 16181 | 100.0 | /mnt/stockage/packages/f31/darktable/po/pl.po | 
+ | [pt_BR](/f31/language/pt_BR) | 17429 | 17429 | 100.0 | /mnt/stockage/packages/f31/darktable/po/pt_BR.po | 
+ | [ru](/f31/language/ru) | 17429 | 17429 | 100.0 | /mnt/stockage/packages/f31/darktable/po/ru.po | 
+ | [sl](/f31/language/sl) | 17429 | 17429 | 100.0 | /mnt/stockage/packages/f31/darktable/po/sl.po | 
+ | [fr](/f31/language/fr) | 19525 | 19527 | 100.0 | /mnt/stockage/packages/f31/darktable/doc/man/po/fr.po/mnt/stockage/packages/f31/darktable/po/fr.po | 
+ | [de](/f31/language/de) | 18671 | 19527 | 95.6 | /mnt/stockage/packages/f31/darktable/doc/man/po/de.po/mnt/stockage/packages/f31/darktable/po/de.po | 
 {.sortable}
 
 

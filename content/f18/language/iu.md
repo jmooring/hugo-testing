@@ -38,9 +38,9 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [openerp]({{< ref "/f18/package/openerp.md" >}}) | 2 | 633 | 0.3 | Inuktitut <iu@li.org> | 
- | [gnome-do]({{< ref "/f18/package/gnome-do.md" >}}) | 0 | 612 | 0.0 | Inuktitut <iu@li.org> | 
- | [openerp-client]({{< ref "/f18/package/openerp-client.md" >}}) | 0 | 7729 | 0.0 | Inuktitut <iu@li.org> | 
+ | [openerp](/f18/package/openerp) | 2 | 633 | 0.3 | Inuktitut <iu@li.org> | 
+ | [gnome-do](/f18/package/gnome-do) | 0 | 612 | 0.0 | Inuktitut <iu@li.org> | 
+ | [openerp-client](/f18/package/openerp-client) | 0 | 7729 | 0.0 | Inuktitut <iu@li.org> | 
 {.sortable}
 
 

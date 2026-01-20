@@ -18,39 +18,39 @@ The package edgar (version 1.34):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f32/language/de.md" >}}) | 11474 | 11474 | 100.0 | /mnt/stockage/packages/f32/edgar/locale/de.po | 
- | [en_GB]({{< ref "/f32/language/en_GB.md" >}}) | 11474 | 11474 | 100.0 | /mnt/stockage/packages/f32/edgar/locale/en_GB.po | 
- | [en_US]({{< ref "/f32/language/en_US.md" >}}) | 11474 | 11474 | 100.0 | /mnt/stockage/packages/f32/edgar/locale/en_US.po | 
- | [fr]({{< ref "/f32/language/fr.md" >}}) | 11474 | 11474 | 100.0 | /mnt/stockage/packages/f32/edgar/locale/fr.po | 
- | [it]({{< ref "/f32/language/it.md" >}}) | 11474 | 11474 | 100.0 | /mnt/stockage/packages/f32/edgar/locale/it.po | 
- | [ja]({{< ref "/f32/language/ja.md" >}}) | 11474 | 11474 | 100.0 | /mnt/stockage/packages/f32/edgar/locale/ja.po | 
- | [nl]({{< ref "/f32/language/nl.md" >}}) | 11474 | 11474 | 100.0 | /mnt/stockage/packages/f32/edgar/locale/nl.po | 
- | [pt_BR]({{< ref "/f32/language/pt_BR.md" >}}) | 11474 | 11474 | 100.0 | /mnt/stockage/packages/f32/edgar/locale/pt_BR.po | 
- | [ru]({{< ref "/f32/language/ru.md" >}}) | 11474 | 11474 | 100.0 | /mnt/stockage/packages/f32/edgar/locale/ru.po | 
- | [uk]({{< ref "/f32/language/uk.md" >}}) | 11474 | 11474 | 100.0 | /mnt/stockage/packages/f32/edgar/locale/uk.po | 
- | [es]({{< ref "/f32/language/es.md" >}}) | 11435 | 11474 | 99.7 | /mnt/stockage/packages/f32/edgar/locale/es.po | 
- | [cs]({{< ref "/f32/language/cs.md" >}}) | 11364 | 11474 | 99.0 | /mnt/stockage/packages/f32/edgar/locale/cs.po | 
- | [zh_Hans]({{< ref "/f32/language/zh_Hans.md" >}}) | 3636 | 11474 | 31.7 | /mnt/stockage/packages/f32/edgar/locale/zh_CN.po | 
- | [sk]({{< ref "/f32/language/sk.md" >}}) | 2245 | 11474 | 19.6 | /mnt/stockage/packages/f32/edgar/locale/sk.po | 
- | [pl]({{< ref "/f32/language/pl.md" >}}) | 2015 | 11474 | 17.6 | /mnt/stockage/packages/f32/edgar/locale/pl.po | 
- | [pt]({{< ref "/f32/language/pt.md" >}}) | 960 | 11474 | 8.4 | /mnt/stockage/packages/f32/edgar/locale/pt.po | 
- | [ro]({{< ref "/f32/language/ro.md" >}}) | 860 | 11474 | 7.5 | /mnt/stockage/packages/f32/edgar/locale/ro.po | 
- | [fa]({{< ref "/f32/language/fa.md" >}}) | 792 | 11474 | 6.9 | /mnt/stockage/packages/f32/edgar/locale/fa.po | 
- | [eo]({{< ref "/f32/language/eo.md" >}}) | 599 | 11474 | 5.2 | /mnt/stockage/packages/f32/edgar/locale/eo.po | 
- | [el]({{< ref "/f32/language/el.md" >}}) | 436 | 11474 | 3.8 | /mnt/stockage/packages/f32/edgar/locale/el.po | 
- | [id]({{< ref "/f32/language/id.md" >}}) | 333 | 11474 | 2.9 | /mnt/stockage/packages/f32/edgar/locale/id.po | 
- | [ms]({{< ref "/f32/language/ms.md" >}}) | 200 | 11474 | 1.7 | /mnt/stockage/packages/f32/edgar/locale/ms.po | 
- | [da]({{< ref "/f32/language/da.md" >}}) | 4 | 11474 | 0.0 | /mnt/stockage/packages/f32/edgar/locale/da.po | 
- | [sv]({{< ref "/f32/language/sv.md" >}}) | 4 | 11474 | 0.0 | /mnt/stockage/packages/f32/edgar/locale/sv.po | 
- | [tr]({{< ref "/f32/language/tr.md" >}}) | 4 | 11474 | 0.0 | /mnt/stockage/packages/f32/edgar/locale/tr.po | 
- | [hi]({{< ref "/f32/language/hi.md" >}}) | 2 | 11474 | 0.0 | /mnt/stockage/packages/f32/edgar/locale/hi.po | 
- | [sr]({{< ref "/f32/language/sr.md" >}}) | 2 | 11474 | 0.0 | /mnt/stockage/packages/f32/edgar/locale/sr.po | 
- | [ar]({{< ref "/f32/language/ar.md" >}}) | 1 | 11474 | 0.0 | /mnt/stockage/packages/f32/edgar/locale/ar.po | 
- | [jv]({{< ref "/f32/language/jv.md" >}}) | 1 | 11474 | 0.0 | /mnt/stockage/packages/f32/edgar/locale/jv.po | 
- | [ko]({{< ref "/f32/language/ko.md" >}}) | 1 | 11474 | 0.0 | /mnt/stockage/packages/f32/edgar/locale/ko.po | 
- | [ta]({{< ref "/f32/language/ta.md" >}}) | 1 | 11474 | 0.0 | /mnt/stockage/packages/f32/edgar/locale/ta.po | 
- | [ur]({{< ref "/f32/language/ur.md" >}}) | 1 | 11474 | 0.0 | /mnt/stockage/packages/f32/edgar/locale/ur.po | 
- | [vi]({{< ref "/f32/language/vi.md" >}}) | 1 | 11474 | 0.0 | /mnt/stockage/packages/f32/edgar/locale/vi.po | 
+ | [de](/f32/language/de) | 11474 | 11474 | 100.0 | /mnt/stockage/packages/f32/edgar/locale/de.po | 
+ | [en_GB](/f32/language/en_GB) | 11474 | 11474 | 100.0 | /mnt/stockage/packages/f32/edgar/locale/en_GB.po | 
+ | [en_US](/f32/language/en_US) | 11474 | 11474 | 100.0 | /mnt/stockage/packages/f32/edgar/locale/en_US.po | 
+ | [fr](/f32/language/fr) | 11474 | 11474 | 100.0 | /mnt/stockage/packages/f32/edgar/locale/fr.po | 
+ | [it](/f32/language/it) | 11474 | 11474 | 100.0 | /mnt/stockage/packages/f32/edgar/locale/it.po | 
+ | [ja](/f32/language/ja) | 11474 | 11474 | 100.0 | /mnt/stockage/packages/f32/edgar/locale/ja.po | 
+ | [nl](/f32/language/nl) | 11474 | 11474 | 100.0 | /mnt/stockage/packages/f32/edgar/locale/nl.po | 
+ | [pt_BR](/f32/language/pt_BR) | 11474 | 11474 | 100.0 | /mnt/stockage/packages/f32/edgar/locale/pt_BR.po | 
+ | [ru](/f32/language/ru) | 11474 | 11474 | 100.0 | /mnt/stockage/packages/f32/edgar/locale/ru.po | 
+ | [uk](/f32/language/uk) | 11474 | 11474 | 100.0 | /mnt/stockage/packages/f32/edgar/locale/uk.po | 
+ | [es](/f32/language/es) | 11435 | 11474 | 99.7 | /mnt/stockage/packages/f32/edgar/locale/es.po | 
+ | [cs](/f32/language/cs) | 11364 | 11474 | 99.0 | /mnt/stockage/packages/f32/edgar/locale/cs.po | 
+ | [zh_Hans](/f32/language/zh_Hans) | 3636 | 11474 | 31.7 | /mnt/stockage/packages/f32/edgar/locale/zh_CN.po | 
+ | [sk](/f32/language/sk) | 2245 | 11474 | 19.6 | /mnt/stockage/packages/f32/edgar/locale/sk.po | 
+ | [pl](/f32/language/pl) | 2015 | 11474 | 17.6 | /mnt/stockage/packages/f32/edgar/locale/pl.po | 
+ | [pt](/f32/language/pt) | 960 | 11474 | 8.4 | /mnt/stockage/packages/f32/edgar/locale/pt.po | 
+ | [ro](/f32/language/ro) | 860 | 11474 | 7.5 | /mnt/stockage/packages/f32/edgar/locale/ro.po | 
+ | [fa](/f32/language/fa) | 792 | 11474 | 6.9 | /mnt/stockage/packages/f32/edgar/locale/fa.po | 
+ | [eo](/f32/language/eo) | 599 | 11474 | 5.2 | /mnt/stockage/packages/f32/edgar/locale/eo.po | 
+ | [el](/f32/language/el) | 436 | 11474 | 3.8 | /mnt/stockage/packages/f32/edgar/locale/el.po | 
+ | [id](/f32/language/id) | 333 | 11474 | 2.9 | /mnt/stockage/packages/f32/edgar/locale/id.po | 
+ | [ms](/f32/language/ms) | 200 | 11474 | 1.7 | /mnt/stockage/packages/f32/edgar/locale/ms.po | 
+ | [da](/f32/language/da) | 4 | 11474 | 0.0 | /mnt/stockage/packages/f32/edgar/locale/da.po | 
+ | [sv](/f32/language/sv) | 4 | 11474 | 0.0 | /mnt/stockage/packages/f32/edgar/locale/sv.po | 
+ | [tr](/f32/language/tr) | 4 | 11474 | 0.0 | /mnt/stockage/packages/f32/edgar/locale/tr.po | 
+ | [hi](/f32/language/hi) | 2 | 11474 | 0.0 | /mnt/stockage/packages/f32/edgar/locale/hi.po | 
+ | [sr](/f32/language/sr) | 2 | 11474 | 0.0 | /mnt/stockage/packages/f32/edgar/locale/sr.po | 
+ | [ar](/f32/language/ar) | 1 | 11474 | 0.0 | /mnt/stockage/packages/f32/edgar/locale/ar.po | 
+ | [jv](/f32/language/jv) | 1 | 11474 | 0.0 | /mnt/stockage/packages/f32/edgar/locale/jv.po | 
+ | [ko](/f32/language/ko) | 1 | 11474 | 0.0 | /mnt/stockage/packages/f32/edgar/locale/ko.po | 
+ | [ta](/f32/language/ta) | 1 | 11474 | 0.0 | /mnt/stockage/packages/f32/edgar/locale/ta.po | 
+ | [ur](/f32/language/ur) | 1 | 11474 | 0.0 | /mnt/stockage/packages/f32/edgar/locale/ur.po | 
+ | [vi](/f32/language/vi) | 1 | 11474 | 0.0 | /mnt/stockage/packages/f32/edgar/locale/vi.po | 
 {.sortable}
 
 

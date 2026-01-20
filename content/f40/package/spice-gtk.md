@@ -18,12 +18,12 @@ The package spice-gtk (version 0.42):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ka]({{< ref "/f40/language/ka.md" >}}) | 339 | 339 | 100.0 | /mnt/stockage/packages/f40/spice-gtk/po/ka.po | 
- | [it]({{< ref "/f40/language/it.md" >}}) | 314 | 339 | 92.6 | /mnt/stockage/packages/f40/spice-gtk/po/it.po | 
- | [cs]({{< ref "/f40/language/cs.md" >}}) | 311 | 339 | 91.7 | /mnt/stockage/packages/f40/spice-gtk/po/cs.po | 
- | [ru]({{< ref "/f40/language/ru.md" >}}) | 303 | 339 | 89.4 | /mnt/stockage/packages/f40/spice-gtk/po/ru.po | 
- | [de]({{< ref "/f40/language/de.md" >}}) | 240 | 339 | 70.8 | /mnt/stockage/packages/f40/spice-gtk/po/de.po | 
- | [fr]({{< ref "/f40/language/fr.md" >}}) | 2 | 339 | 0.6 | /mnt/stockage/packages/f40/spice-gtk/po/fr.po | 
+ | [ka](/f40/language/ka) | 339 | 339 | 100.0 | /mnt/stockage/packages/f40/spice-gtk/po/ka.po | 
+ | [it](/f40/language/it) | 314 | 339 | 92.6 | /mnt/stockage/packages/f40/spice-gtk/po/it.po | 
+ | [cs](/f40/language/cs) | 311 | 339 | 91.7 | /mnt/stockage/packages/f40/spice-gtk/po/cs.po | 
+ | [ru](/f40/language/ru) | 303 | 339 | 89.4 | /mnt/stockage/packages/f40/spice-gtk/po/ru.po | 
+ | [de](/f40/language/de) | 240 | 339 | 70.8 | /mnt/stockage/packages/f40/spice-gtk/po/de.po | 
+ | [fr](/f40/language/fr) | 2 | 339 | 0.6 | /mnt/stockage/packages/f40/spice-gtk/po/fr.po | 
 {.sortable}
 
 

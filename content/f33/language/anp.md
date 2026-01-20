@@ -38,16 +38,16 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [anaconda]({{< ref "/f33/package/anaconda.md" >}}) | 0 | 7147 | 0.0 | Angika | 
- | [entangle]({{< ref "/f33/package/entangle.md" >}}) | 0 | 953 | 0.0 | Angika | 
- | [fonts-tweak-tool]({{< ref "/f33/package/fonts-tweak-tool.md" >}}) | 0 | 196 | 0.0 | Angika | 
- | [initial-setup]({{< ref "/f33/package/initial-setup.md" >}}) | 0 | 33 | 0.0 | Angika | 
- | [libvirt-glib]({{< ref "/f33/package/libvirt-glib.md" >}}) | 0 | 158 | 0.0 | Angika | 
- | [libvirt-sandbox]({{< ref "/f33/package/libvirt-sandbox.md" >}}) | 0 | 617 | 0.0 | Angika | 
- | [mingw-libvirt-glib]({{< ref "/f33/package/mingw-libvirt-glib.md" >}}) | 0 | 158 | 0.0 | Angika | 
- | [python-fedora]({{< ref "/f33/package/python-fedora.md" >}}) | 0 | 214 | 0.0 | Angika | 
- | [python-meh]({{< ref "/f33/package/python-meh.md" >}}) | 0 | 109 | 0.0 | Angika | 
- | [virt-viewer]({{< ref "/f33/package/virt-viewer.md" >}}) | 0 | 854 | 0.0 | Angika | 
+ | [anaconda](/f33/package/anaconda) | 0 | 7147 | 0.0 | Angika | 
+ | [entangle](/f33/package/entangle) | 0 | 953 | 0.0 | Angika | 
+ | [fonts-tweak-tool](/f33/package/fonts-tweak-tool) | 0 | 196 | 0.0 | Angika | 
+ | [initial-setup](/f33/package/initial-setup) | 0 | 33 | 0.0 | Angika | 
+ | [libvirt-glib](/f33/package/libvirt-glib) | 0 | 158 | 0.0 | Angika | 
+ | [libvirt-sandbox](/f33/package/libvirt-sandbox) | 0 | 617 | 0.0 | Angika | 
+ | [mingw-libvirt-glib](/f33/package/mingw-libvirt-glib) | 0 | 158 | 0.0 | Angika | 
+ | [python-fedora](/f33/package/python-fedora) | 0 | 214 | 0.0 | Angika | 
+ | [python-meh](/f33/package/python-meh) | 0 | 109 | 0.0 | Angika | 
+ | [virt-viewer](/f33/package/virt-viewer) | 0 | 854 | 0.0 | Angika | 
 {.sortable}
 
 

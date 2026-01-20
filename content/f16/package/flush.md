@@ -18,12 +18,12 @@ The package flush (version 0.9.10):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f16/language/de.md" >}}) | 2640 | 2640 | 100.0 | /mnt/stockage/packages/f16/flush/po/de.po | 
- | [es]({{< ref "/f16/language/es.md" >}}) | 2640 | 2640 | 100.0 | /mnt/stockage/packages/f16/flush/po/es.po | 
- | [ru]({{< ref "/f16/language/ru.md" >}}) | 2640 | 2640 | 100.0 | /mnt/stockage/packages/f16/flush/po/ru.po | 
- | [bg]({{< ref "/f16/language/bg.md" >}}) | 2630 | 2640 | 99.6 | /mnt/stockage/packages/f16/flush/po/bg.po | 
- | [uk]({{< ref "/f16/language/uk.md" >}}) | 1102 | 2640 | 41.7 | /mnt/stockage/packages/f16/flush/po/uk.po | 
- | [fi]({{< ref "/f16/language/fi.md" >}}) | 25 | 2640 | 0.9 | /mnt/stockage/packages/f16/flush/po/fi.po | 
+ | [de](/f16/language/de) | 2640 | 2640 | 100.0 | /mnt/stockage/packages/f16/flush/po/de.po | 
+ | [es](/f16/language/es) | 2640 | 2640 | 100.0 | /mnt/stockage/packages/f16/flush/po/es.po | 
+ | [ru](/f16/language/ru) | 2640 | 2640 | 100.0 | /mnt/stockage/packages/f16/flush/po/ru.po | 
+ | [bg](/f16/language/bg) | 2630 | 2640 | 99.6 | /mnt/stockage/packages/f16/flush/po/bg.po | 
+ | [uk](/f16/language/uk) | 1102 | 2640 | 41.7 | /mnt/stockage/packages/f16/flush/po/uk.po | 
+ | [fi](/f16/language/fi) | 25 | 2640 | 0.9 | /mnt/stockage/packages/f16/flush/po/fi.po | 
 {.sortable}
 
 

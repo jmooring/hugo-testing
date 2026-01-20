@@ -18,7 +18,7 @@ The package python-flask-babel (version 0.11.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f32/language/de.md" >}}) | 23 | 23 | 100.0 | /mnt/stockage/packages/f32/python-flask-babel/tests/renamed_translations/de/LC_MESSAGES/messages.po/mnt/stockage/packages/f32/python-flask-babel/tests/translations/de/LC_MESSAGES/messages.po/mnt/stockage/packages/f32/python-flask-babel/tests/translations_different_domain/de/LC_MESSAGES/myapp.po | 
+ | [de](/f32/language/de) | 23 | 23 | 100.0 | /mnt/stockage/packages/f32/python-flask-babel/tests/renamed_translations/de/LC_MESSAGES/messages.po/mnt/stockage/packages/f32/python-flask-babel/tests/translations/de/LC_MESSAGES/messages.po/mnt/stockage/packages/f32/python-flask-babel/tests/translations_different_domain/de/LC_MESSAGES/myapp.po | 
 {.sortable}
 
 

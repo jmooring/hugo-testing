@@ -18,9 +18,9 @@ The package vdr-skinelchihd (version 1.2.9):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f42/language/de.md" >}}) | 158 | 158 | 100.0 | /mnt/stockage/packages/f42/vdr-skinelchihd/po/de_DE.po | 
- | [it]({{< ref "/f42/language/it.md" >}}) | 83 | 158 | 52.5 | /mnt/stockage/packages/f42/vdr-skinelchihd/po/it_IT.po | 
- | [fr]({{< ref "/f42/language/fr.md" >}}) | 67 | 158 | 42.4 | /mnt/stockage/packages/f42/vdr-skinelchihd/po/fr_FR.po | 
+ | [de](/f42/language/de) | 158 | 158 | 100.0 | /mnt/stockage/packages/f42/vdr-skinelchihd/po/de_DE.po | 
+ | [it](/f42/language/it) | 83 | 158 | 52.5 | /mnt/stockage/packages/f42/vdr-skinelchihd/po/it_IT.po | 
+ | [fr](/f42/language/fr) | 67 | 158 | 42.4 | /mnt/stockage/packages/f42/vdr-skinelchihd/po/fr_FR.po | 
 {.sortable}
 
 

@@ -18,8 +18,8 @@ The package iptux (version 0.4.5):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [en_GB]({{< ref "/f10/language/en_GB.md" >}}) | 727 | 727 | 100.0 | /mnt/stockage/packages/f10/iptux/po/en_GB.po | 
- | [zh_Hans]({{< ref "/f10/language/zh_Hans.md" >}}) | 669 | 727 | 92.0 | /mnt/stockage/packages/f10/iptux/po/zh_CN.po | 
+ | [en_GB](/f10/language/en_GB) | 727 | 727 | 100.0 | /mnt/stockage/packages/f10/iptux/po/en_GB.po | 
+ | [zh_Hans](/f10/language/zh_Hans) | 669 | 727 | 92.0 | /mnt/stockage/packages/f10/iptux/po/zh_CN.po | 
 {.sortable}
 
 

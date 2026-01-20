@@ -40,10 +40,10 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [eog]({{< ref "/f16/package/eog.md" >}}) | 1589 | 1589 | 100.0 | ts | 
- | [kde-i18n]({{< ref "/f16/package/kde-i18n.md" >}}) | 5 | 5 | 100.0 | Traditional Chinese <zh_l10n@linux.org.tw> | 
- | [libreoffice]({{< ref "/f16/package/libreoffice.md" >}}) | 49750 | 95497 | 52.1 | LANGUAGE <LL@li.org> | 
- | [exaile]({{< ref "/f16/package/exaile.md" >}}) | 1 | 3683 | 0.0 | Tsonga <ts@li.org> | 
+ | [eog](/f16/package/eog) | 1589 | 1589 | 100.0 | ts | 
+ | [kde-i18n](/f16/package/kde-i18n) | 5 | 5 | 100.0 | Traditional Chinese <zh_l10n@linux.org.tw> | 
+ | [libreoffice](/f16/package/libreoffice) | 49750 | 95497 | 52.1 | LANGUAGE <LL@li.org> | 
+ | [exaile](/f16/package/exaile) | 1 | 3683 | 0.0 | Tsonga <ts@li.org> | 
 {.sortable}
 
 

@@ -18,25 +18,25 @@ The package flare-engine (version 0.19):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [gd]({{< ref "/f20/language/gd.md" >}}) | 753 | 753 | 100.0 | /mnt/stockage/packages/f20/flare-engine/mods/default/languages/data.gd.po/mnt/stockage/packages/f20/flare-engine/mods/default/languages/engine.gd.po | 
- | [ru]({{< ref "/f20/language/ru.md" >}}) | 598 | 598 | 100.0 | /mnt/stockage/packages/f20/flare-engine/mods/default/languages/engine.ru.po | 
- | [uk]({{< ref "/f20/language/uk.md" >}}) | 753 | 753 | 100.0 | /mnt/stockage/packages/f20/flare-engine/mods/default/languages/data.uk.po/mnt/stockage/packages/f20/flare-engine/mods/default/languages/engine.uk.po | 
- | [el]({{< ref "/f20/language/el.md" >}}) | 595 | 598 | 99.5 | /mnt/stockage/packages/f20/flare-engine/mods/default/languages/engine.el.po | 
- | [de]({{< ref "/f20/language/de.md" >}}) | 578 | 598 | 96.7 | /mnt/stockage/packages/f20/flare-engine/mods/default/languages/engine.de.po | 
- | [be]({{< ref "/f20/language/be.md" >}}) | 550 | 598 | 92.0 | /mnt/stockage/packages/f20/flare-engine/mods/default/languages/engine.be.po | 
- | [pl]({{< ref "/f20/language/pl.md" >}}) | 549 | 598 | 91.8 | /mnt/stockage/packages/f20/flare-engine/mods/default/languages/engine.pl.po | 
- | [gl]({{< ref "/f20/language/gl.md" >}}) | 491 | 598 | 82.1 | /mnt/stockage/packages/f20/flare-engine/mods/default/languages/engine.gl.po | 
- | [zh_Hans]({{< ref "/f20/language/zh_Hans.md" >}}) | 491 | 598 | 82.1 | /mnt/stockage/packages/f20/flare-engine/mods/default/languages/engine.zh.po | 
- | [fr]({{< ref "/f20/language/fr.md" >}}) | 489 | 598 | 81.8 | /mnt/stockage/packages/f20/flare-engine/mods/default/languages/engine.fr.po | 
- | [es]({{< ref "/f20/language/es.md" >}}) | 488 | 598 | 81.6 | /mnt/stockage/packages/f20/flare-engine/mods/default/languages/engine.es.po | 
- | [ja]({{< ref "/f20/language/ja.md" >}}) | 488 | 598 | 81.6 | /mnt/stockage/packages/f20/flare-engine/mods/default/languages/engine.ja.po | 
- | [fi]({{< ref "/f20/language/fi.md" >}}) | 472 | 598 | 78.9 | /mnt/stockage/packages/f20/flare-engine/mods/default/languages/engine.fi.po | 
- | [sv]({{< ref "/f20/language/sv.md" >}}) | 462 | 598 | 77.3 | /mnt/stockage/packages/f20/flare-engine/mods/default/languages/engine.sv.po | 
- | [cs]({{< ref "/f20/language/cs.md" >}}) | 422 | 598 | 70.6 | /mnt/stockage/packages/f20/flare-engine/mods/default/languages/engine.cs.po | 
- | [it]({{< ref "/f20/language/it.md" >}}) | 412 | 598 | 68.9 | /mnt/stockage/packages/f20/flare-engine/mods/default/languages/engine.it.po | 
- | [nl]({{< ref "/f20/language/nl.md" >}}) | 273 | 598 | 45.7 | /mnt/stockage/packages/f20/flare-engine/mods/default/languages/engine.nl.po | 
- | [nb_NO]({{< ref "/f20/language/nb_NO.md" >}}) | 272 | 598 | 45.5 | /mnt/stockage/packages/f20/flare-engine/mods/default/languages/engine.nb.po | 
- | [sk]({{< ref "/f20/language/sk.md" >}}) | 224 | 598 | 37.5 | /mnt/stockage/packages/f20/flare-engine/mods/default/languages/engine.sk.po | 
+ | [gd](/f20/language/gd) | 753 | 753 | 100.0 | /mnt/stockage/packages/f20/flare-engine/mods/default/languages/data.gd.po/mnt/stockage/packages/f20/flare-engine/mods/default/languages/engine.gd.po | 
+ | [ru](/f20/language/ru) | 598 | 598 | 100.0 | /mnt/stockage/packages/f20/flare-engine/mods/default/languages/engine.ru.po | 
+ | [uk](/f20/language/uk) | 753 | 753 | 100.0 | /mnt/stockage/packages/f20/flare-engine/mods/default/languages/data.uk.po/mnt/stockage/packages/f20/flare-engine/mods/default/languages/engine.uk.po | 
+ | [el](/f20/language/el) | 595 | 598 | 99.5 | /mnt/stockage/packages/f20/flare-engine/mods/default/languages/engine.el.po | 
+ | [de](/f20/language/de) | 578 | 598 | 96.7 | /mnt/stockage/packages/f20/flare-engine/mods/default/languages/engine.de.po | 
+ | [be](/f20/language/be) | 550 | 598 | 92.0 | /mnt/stockage/packages/f20/flare-engine/mods/default/languages/engine.be.po | 
+ | [pl](/f20/language/pl) | 549 | 598 | 91.8 | /mnt/stockage/packages/f20/flare-engine/mods/default/languages/engine.pl.po | 
+ | [gl](/f20/language/gl) | 491 | 598 | 82.1 | /mnt/stockage/packages/f20/flare-engine/mods/default/languages/engine.gl.po | 
+ | [zh_Hans](/f20/language/zh_Hans) | 491 | 598 | 82.1 | /mnt/stockage/packages/f20/flare-engine/mods/default/languages/engine.zh.po | 
+ | [fr](/f20/language/fr) | 489 | 598 | 81.8 | /mnt/stockage/packages/f20/flare-engine/mods/default/languages/engine.fr.po | 
+ | [es](/f20/language/es) | 488 | 598 | 81.6 | /mnt/stockage/packages/f20/flare-engine/mods/default/languages/engine.es.po | 
+ | [ja](/f20/language/ja) | 488 | 598 | 81.6 | /mnt/stockage/packages/f20/flare-engine/mods/default/languages/engine.ja.po | 
+ | [fi](/f20/language/fi) | 472 | 598 | 78.9 | /mnt/stockage/packages/f20/flare-engine/mods/default/languages/engine.fi.po | 
+ | [sv](/f20/language/sv) | 462 | 598 | 77.3 | /mnt/stockage/packages/f20/flare-engine/mods/default/languages/engine.sv.po | 
+ | [cs](/f20/language/cs) | 422 | 598 | 70.6 | /mnt/stockage/packages/f20/flare-engine/mods/default/languages/engine.cs.po | 
+ | [it](/f20/language/it) | 412 | 598 | 68.9 | /mnt/stockage/packages/f20/flare-engine/mods/default/languages/engine.it.po | 
+ | [nl](/f20/language/nl) | 273 | 598 | 45.7 | /mnt/stockage/packages/f20/flare-engine/mods/default/languages/engine.nl.po | 
+ | [nb_NO](/f20/language/nb_NO) | 272 | 598 | 45.5 | /mnt/stockage/packages/f20/flare-engine/mods/default/languages/engine.nb.po | 
+ | [sk](/f20/language/sk) | 224 | 598 | 37.5 | /mnt/stockage/packages/f20/flare-engine/mods/default/languages/engine.sk.po | 
 {.sortable}
 
 

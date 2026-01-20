@@ -18,10 +18,10 @@ The package butt (version 0.1.34):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f37/language/de.md" >}}) | 2198 | 2198 | 100.0 | /mnt/stockage/packages/f37/butt/po/de.po | 
- | [es]({{< ref "/f37/language/es.md" >}}) | 2198 | 2198 | 100.0 | /mnt/stockage/packages/f37/butt/po/es.po | 
- | [fr]({{< ref "/f37/language/fr.md" >}}) | 2198 | 2198 | 100.0 | /mnt/stockage/packages/f37/butt/po/fr.po | 
- | [pt_BR]({{< ref "/f37/language/pt_BR.md" >}}) | 2198 | 2198 | 100.0 | /mnt/stockage/packages/f37/butt/po/pt_BR.po | 
+ | [de](/f37/language/de) | 2198 | 2198 | 100.0 | /mnt/stockage/packages/f37/butt/po/de.po | 
+ | [es](/f37/language/es) | 2198 | 2198 | 100.0 | /mnt/stockage/packages/f37/butt/po/es.po | 
+ | [fr](/f37/language/fr) | 2198 | 2198 | 100.0 | /mnt/stockage/packages/f37/butt/po/fr.po | 
+ | [pt_BR](/f37/language/pt_BR) | 2198 | 2198 | 100.0 | /mnt/stockage/packages/f37/butt/po/pt_BR.po | 
 {.sortable}
 
 

@@ -18,7 +18,7 @@ The package media-explorer (version 0.4.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f23/language/fr.md" >}}) | 186 | 235 | 79.1 | /mnt/stockage/packages/f23/media-explorer/po/fr.po | 
+ | [fr](/f23/language/fr) | 186 | 235 | 79.1 | /mnt/stockage/packages/f23/media-explorer/po/fr.po | 
 {.sortable}
 
 

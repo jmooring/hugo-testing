@@ -18,29 +18,29 @@ The package efl (version 1.17.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f24/language/ca.md" >}}) | 147 | 147 | 100.0 | /mnt/stockage/packages/f24/efl/po/ca.po | 
- | [eo]({{< ref "/f24/language/eo.md" >}}) | 147 | 147 | 100.0 | /mnt/stockage/packages/f24/efl/po/eo.po | 
- | [es]({{< ref "/f24/language/es.md" >}}) | 147 | 147 | 100.0 | /mnt/stockage/packages/f24/efl/po/es.po | 
- | [fi]({{< ref "/f24/language/fi.md" >}}) | 147 | 147 | 100.0 | /mnt/stockage/packages/f24/efl/po/fi.po | 
- | [it]({{< ref "/f24/language/it.md" >}}) | 147 | 147 | 100.0 | /mnt/stockage/packages/f24/efl/po/it.po | 
- | [ko]({{< ref "/f24/language/ko.md" >}}) | 147 | 147 | 100.0 | /mnt/stockage/packages/f24/efl/po/ko.po | 
- | [pt]({{< ref "/f24/language/pt.md" >}}) | 147 | 147 | 100.0 | /mnt/stockage/packages/f24/efl/po/pt.po | 
- | [sr]({{< ref "/f24/language/sr.md" >}}) | 147 | 147 | 100.0 | /mnt/stockage/packages/f24/efl/po/sr.po | 
- | [tr]({{< ref "/f24/language/tr.md" >}}) | 147 | 147 | 100.0 | /mnt/stockage/packages/f24/efl/po/tr.po | 
- | [vi]({{< ref "/f24/language/vi.md" >}}) | 147 | 147 | 100.0 | /mnt/stockage/packages/f24/efl/po/vi.po | 
- | [fr]({{< ref "/f24/language/fr.md" >}}) | 126 | 147 | 85.7 | /mnt/stockage/packages/f24/efl/po/fr.po | 
- | [cs]({{< ref "/f24/language/cs.md" >}}) | 116 | 147 | 78.9 | /mnt/stockage/packages/f24/efl/po/cs.po | 
- | [el]({{< ref "/f24/language/el.md" >}}) | 116 | 147 | 78.9 | /mnt/stockage/packages/f24/efl/po/el.po | 
- | [gl]({{< ref "/f24/language/gl.md" >}}) | 116 | 147 | 78.9 | /mnt/stockage/packages/f24/efl/po/gl.po | 
- | [hu]({{< ref "/f24/language/hu.md" >}}) | 116 | 147 | 78.9 | /mnt/stockage/packages/f24/efl/po/hu.po | 
- | [ja]({{< ref "/f24/language/ja.md" >}}) | 116 | 147 | 78.9 | /mnt/stockage/packages/f24/efl/po/ja.po | 
- | [pl]({{< ref "/f24/language/pl.md" >}}) | 116 | 147 | 78.9 | /mnt/stockage/packages/f24/efl/po/pl.po | 
- | [zh_Hans]({{< ref "/f24/language/zh_Hans.md" >}}) | 116 | 147 | 78.9 | /mnt/stockage/packages/f24/efl/po/zh_CN.po | 
- | [de]({{< ref "/f24/language/de.md" >}}) | 109 | 147 | 74.1 | /mnt/stockage/packages/f24/efl/po/de.po | 
- | [nl]({{< ref "/f24/language/nl.md" >}}) | 109 | 147 | 74.1 | /mnt/stockage/packages/f24/efl/po/nl.po | 
- | [sl]({{< ref "/f24/language/sl.md" >}}) | 109 | 147 | 74.1 | /mnt/stockage/packages/f24/efl/po/sl.po | 
- | [lt]({{< ref "/f24/language/lt.md" >}}) | 49 | 147 | 33.3 | /mnt/stockage/packages/f24/efl/po/lt.po | 
- | [ru]({{< ref "/f24/language/ru.md" >}}) | 8 | 147 | 5.4 | /mnt/stockage/packages/f24/efl/po/ru.po | 
+ | [ca](/f24/language/ca) | 147 | 147 | 100.0 | /mnt/stockage/packages/f24/efl/po/ca.po | 
+ | [eo](/f24/language/eo) | 147 | 147 | 100.0 | /mnt/stockage/packages/f24/efl/po/eo.po | 
+ | [es](/f24/language/es) | 147 | 147 | 100.0 | /mnt/stockage/packages/f24/efl/po/es.po | 
+ | [fi](/f24/language/fi) | 147 | 147 | 100.0 | /mnt/stockage/packages/f24/efl/po/fi.po | 
+ | [it](/f24/language/it) | 147 | 147 | 100.0 | /mnt/stockage/packages/f24/efl/po/it.po | 
+ | [ko](/f24/language/ko) | 147 | 147 | 100.0 | /mnt/stockage/packages/f24/efl/po/ko.po | 
+ | [pt](/f24/language/pt) | 147 | 147 | 100.0 | /mnt/stockage/packages/f24/efl/po/pt.po | 
+ | [sr](/f24/language/sr) | 147 | 147 | 100.0 | /mnt/stockage/packages/f24/efl/po/sr.po | 
+ | [tr](/f24/language/tr) | 147 | 147 | 100.0 | /mnt/stockage/packages/f24/efl/po/tr.po | 
+ | [vi](/f24/language/vi) | 147 | 147 | 100.0 | /mnt/stockage/packages/f24/efl/po/vi.po | 
+ | [fr](/f24/language/fr) | 126 | 147 | 85.7 | /mnt/stockage/packages/f24/efl/po/fr.po | 
+ | [cs](/f24/language/cs) | 116 | 147 | 78.9 | /mnt/stockage/packages/f24/efl/po/cs.po | 
+ | [el](/f24/language/el) | 116 | 147 | 78.9 | /mnt/stockage/packages/f24/efl/po/el.po | 
+ | [gl](/f24/language/gl) | 116 | 147 | 78.9 | /mnt/stockage/packages/f24/efl/po/gl.po | 
+ | [hu](/f24/language/hu) | 116 | 147 | 78.9 | /mnt/stockage/packages/f24/efl/po/hu.po | 
+ | [ja](/f24/language/ja) | 116 | 147 | 78.9 | /mnt/stockage/packages/f24/efl/po/ja.po | 
+ | [pl](/f24/language/pl) | 116 | 147 | 78.9 | /mnt/stockage/packages/f24/efl/po/pl.po | 
+ | [zh_Hans](/f24/language/zh_Hans) | 116 | 147 | 78.9 | /mnt/stockage/packages/f24/efl/po/zh_CN.po | 
+ | [de](/f24/language/de) | 109 | 147 | 74.1 | /mnt/stockage/packages/f24/efl/po/de.po | 
+ | [nl](/f24/language/nl) | 109 | 147 | 74.1 | /mnt/stockage/packages/f24/efl/po/nl.po | 
+ | [sl](/f24/language/sl) | 109 | 147 | 74.1 | /mnt/stockage/packages/f24/efl/po/sl.po | 
+ | [lt](/f24/language/lt) | 49 | 147 | 33.3 | /mnt/stockage/packages/f24/efl/po/lt.po | 
+ | [ru](/f24/language/ru) | 8 | 147 | 5.4 | /mnt/stockage/packages/f24/efl/po/ru.po | 
 {.sortable}
 
 

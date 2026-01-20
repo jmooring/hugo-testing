@@ -38,15 +38,15 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [blueberry]({{< ref "/f32/package/blueberry.md" >}}) | 138 | 162 | 85.2 | Neapolitan <nap@li.org> | 
- | [cinnamon-translations]({{< ref "/f32/package/cinnamon-translations.md" >}}) | 2857 | 8940 | 32.0 | Neapolitan <nap@li.org> | 
- | [slick-greeter]({{< ref "/f32/package/slick-greeter.md" >}}) | 35 | 211 | 16.6 | Neapolitan <nap@li.org> | 
- | [midori]({{< ref "/f32/package/midori.md" >}}) | 429 | 3541 | 12.1 | Neapolitan <nap@li.org> | 
- | [lightdm-settings]({{< ref "/f32/package/lightdm-settings.md" >}}) | 36 | 310 | 11.6 | Neapolitan <nap@li.org> | 
- | [gnome-do]({{< ref "/f32/package/gnome-do.md" >}}) | 37 | 612 | 6.0 | Neapolitan <nap@li.org> | 
- | [peek]({{< ref "/f32/package/peek.md" >}}) | 33 | 564 | 5.9 | Neapolitan <https://hosted.weblate.org/projects/peek/translations/nap/> | 
- | [sugar]({{< ref "/f32/package/sugar.md" >}}) | 0 | 2305 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-toolkit-gtk3]({{< ref "/f32/package/sugar-toolkit-gtk3.md" >}}) | 0 | 213 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [blueberry](/f32/package/blueberry) | 138 | 162 | 85.2 | Neapolitan <nap@li.org> | 
+ | [cinnamon-translations](/f32/package/cinnamon-translations) | 2857 | 8940 | 32.0 | Neapolitan <nap@li.org> | 
+ | [slick-greeter](/f32/package/slick-greeter) | 35 | 211 | 16.6 | Neapolitan <nap@li.org> | 
+ | [midori](/f32/package/midori) | 429 | 3541 | 12.1 | Neapolitan <nap@li.org> | 
+ | [lightdm-settings](/f32/package/lightdm-settings) | 36 | 310 | 11.6 | Neapolitan <nap@li.org> | 
+ | [gnome-do](/f32/package/gnome-do) | 37 | 612 | 6.0 | Neapolitan <nap@li.org> | 
+ | [peek](/f32/package/peek) | 33 | 564 | 5.9 | Neapolitan <https://hosted.weblate.org/projects/peek/translations/nap/> | 
+ | [sugar](/f32/package/sugar) | 0 | 2305 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-toolkit-gtk3](/f32/package/sugar-toolkit-gtk3) | 0 | 213 | 0.0 | LANGUAGE <LL@li.org> | 
 {.sortable}
 
 

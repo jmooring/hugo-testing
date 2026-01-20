@@ -18,74 +18,74 @@ The package udisks2 (version 2.7.6):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f28/language/ca.md" >}}) | 2009 | 2009 | 100.0 | /mnt/stockage/packages/f28/udisks2/po/ca.po | 
- | [cs]({{< ref "/f28/language/cs.md" >}}) | 2009 | 2009 | 100.0 | /mnt/stockage/packages/f28/udisks2/po/cs.po | 
- | [da]({{< ref "/f28/language/da.md" >}}) | 2009 | 2009 | 100.0 | /mnt/stockage/packages/f28/udisks2/po/da.po | 
- | [es]({{< ref "/f28/language/es.md" >}}) | 2009 | 2009 | 100.0 | /mnt/stockage/packages/f28/udisks2/po/es.po | 
- | [hu]({{< ref "/f28/language/hu.md" >}}) | 2009 | 2009 | 100.0 | /mnt/stockage/packages/f28/udisks2/po/hu.po | 
- | [id]({{< ref "/f28/language/id.md" >}}) | 2009 | 2009 | 100.0 | /mnt/stockage/packages/f28/udisks2/po/id.po | 
- | [it]({{< ref "/f28/language/it.md" >}}) | 2009 | 2009 | 100.0 | /mnt/stockage/packages/f28/udisks2/po/it.po | 
- | [nl]({{< ref "/f28/language/nl.md" >}}) | 2009 | 2009 | 100.0 | /mnt/stockage/packages/f28/udisks2/po/nl.po | 
- | [pl]({{< ref "/f28/language/pl.md" >}}) | 2009 | 2009 | 100.0 | /mnt/stockage/packages/f28/udisks2/po/pl.po | 
- | [sk]({{< ref "/f28/language/sk.md" >}}) | 2009 | 2009 | 100.0 | /mnt/stockage/packages/f28/udisks2/po/sk.po | 
- | [sv]({{< ref "/f28/language/sv.md" >}}) | 2009 | 2009 | 100.0 | /mnt/stockage/packages/f28/udisks2/po/sv.po | 
- | [uk]({{< ref "/f28/language/uk.md" >}}) | 2009 | 2009 | 100.0 | /mnt/stockage/packages/f28/udisks2/po/uk.po | 
- | [fr]({{< ref "/f28/language/fr.md" >}}) | 1988 | 2009 | 99.0 | /mnt/stockage/packages/f28/udisks2/po/fr.po | 
- | [zh_Hans]({{< ref "/f28/language/zh_Hans.md" >}}) | 1988 | 2009 | 99.0 | /mnt/stockage/packages/f28/udisks2/po/zh_CN.po | 
- | [de]({{< ref "/f28/language/de.md" >}}) | 1920 | 2009 | 95.6 | /mnt/stockage/packages/f28/udisks2/po/de.po | 
- | [kk]({{< ref "/f28/language/kk.md" >}}) | 1920 | 2009 | 95.6 | /mnt/stockage/packages/f28/udisks2/po/kk.po | 
- | [pt_BR]({{< ref "/f28/language/pt_BR.md" >}}) | 1920 | 2009 | 95.6 | /mnt/stockage/packages/f28/udisks2/po/pt_BR.po | 
- | [en_GB]({{< ref "/f28/language/en_GB.md" >}}) | 1676 | 2009 | 83.4 | /mnt/stockage/packages/f28/udisks2/po/en_GB.po | 
- | [ko]({{< ref "/f28/language/ko.md" >}}) | 1519 | 2009 | 75.6 | /mnt/stockage/packages/f28/udisks2/po/ko.po | 
- | [el]({{< ref "/f28/language/el.md" >}}) | 1508 | 2009 | 75.1 | /mnt/stockage/packages/f28/udisks2/po/el.po | 
- | [tr]({{< ref "/f28/language/tr.md" >}}) | 1508 | 2009 | 75.1 | /mnt/stockage/packages/f28/udisks2/po/tr.po | 
- | [gl]({{< ref "/f28/language/gl.md" >}}) | 1500 | 2009 | 74.7 | /mnt/stockage/packages/f28/udisks2/po/gl.po | 
- | [ru]({{< ref "/f28/language/ru.md" >}}) | 1500 | 2009 | 74.7 | /mnt/stockage/packages/f28/udisks2/po/ru.po | 
- | [sl]({{< ref "/f28/language/sl.md" >}}) | 1500 | 2009 | 74.7 | /mnt/stockage/packages/f28/udisks2/po/sl.po | 
- | [sr]({{< ref "/f28/language/sr.md" >}}) | 1500 | 2009 | 74.7 | /mnt/stockage/packages/f28/udisks2/po/sr.po | 
- | [ja]({{< ref "/f28/language/ja.md" >}}) | 1461 | 2009 | 72.7 | /mnt/stockage/packages/f28/udisks2/po/ja.po | 
- | [lt]({{< ref "/f28/language/lt.md" >}}) | 1461 | 2009 | 72.7 | /mnt/stockage/packages/f28/udisks2/po/lt.po | 
- | [zh_Hant]({{< ref "/f28/language/zh_Hant.md" >}}) | 1454 | 2009 | 72.4 | /mnt/stockage/packages/f28/udisks2/po/zh_TW.po | 
- | [hr]({{< ref "/f28/language/hr.md" >}}) | 1204 | 2009 | 59.9 | /mnt/stockage/packages/f28/udisks2/po/hr.po | 
- | [fi]({{< ref "/f28/language/fi.md" >}}) | 1050 | 2009 | 52.3 | /mnt/stockage/packages/f28/udisks2/po/fi.po | 
- | [lv]({{< ref "/f28/language/lv.md" >}}) | 847 | 2009 | 42.2 | /mnt/stockage/packages/f28/udisks2/po/lv.po | 
- | [ia]({{< ref "/f28/language/ia.md" >}}) | 482 | 2009 | 24.0 | /mnt/stockage/packages/f28/udisks2/po/ia.po | 
- | [pa]({{< ref "/f28/language/pa.md" >}}) | 482 | 2009 | 24.0 | /mnt/stockage/packages/f28/udisks2/po/pa.po | 
- | [eu]({{< ref "/f28/language/eu.md" >}}) | 441 | 2009 | 22.0 | /mnt/stockage/packages/f28/udisks2/po/eu.po | 
- | [ar]({{< ref "/f28/language/ar.md" >}}) | 0 | 1929 | 0.0 | /mnt/stockage/packages/f28/udisks2/po/ar.po | 
- | [as]({{< ref "/f28/language/as.md" >}}) | 0 | 1929 | 0.0 | /mnt/stockage/packages/f28/udisks2/po/as.po | 
- | [az]({{< ref "/f28/language/az.md" >}}) | 0 | 1929 | 0.0 | /mnt/stockage/packages/f28/udisks2/po/az.po | 
- | [bg]({{< ref "/f28/language/bg.md" >}}) | 0 | 1929 | 0.0 | /mnt/stockage/packages/f28/udisks2/po/bg.po | 
- | [bn_IN]({{< ref "/f28/language/bn_IN.md" >}}) | 0 | 1929 | 0.0 | /mnt/stockage/packages/f28/udisks2/po/bn_IN.po | 
- | [ca@valencia]({{< ref "/f28/language/ca@valencia.md" >}}) | 0 | 1929 | 0.0 | /mnt/stockage/packages/f28/udisks2/po/ca@valencia.po | 
- | [cy]({{< ref "/f28/language/cy.md" >}}) | 0 | 1929 | 0.0 | /mnt/stockage/packages/f28/udisks2/po/cy.po | 
- | [eo]({{< ref "/f28/language/eo.md" >}}) | 0 | 1929 | 0.0 | /mnt/stockage/packages/f28/udisks2/po/eo.po | 
- | [et]({{< ref "/f28/language/et.md" >}}) | 0 | 1929 | 0.0 | /mnt/stockage/packages/f28/udisks2/po/et.po | 
- | [fa]({{< ref "/f28/language/fa.md" >}}) | 0 | 1929 | 0.0 | /mnt/stockage/packages/f28/udisks2/po/fa.po | 
- | [fo]({{< ref "/f28/language/fo.md" >}}) | 0 | 1929 | 0.0 | /mnt/stockage/packages/f28/udisks2/po/fo.po | 
- | [ga]({{< ref "/f28/language/ga.md" >}}) | 0 | 1929 | 0.0 | /mnt/stockage/packages/f28/udisks2/po/ga.po | 
- | [gu]({{< ref "/f28/language/gu.md" >}}) | 0 | 1929 | 0.0 | /mnt/stockage/packages/f28/udisks2/po/gu.po | 
- | [he]({{< ref "/f28/language/he.md" >}}) | 0 | 1929 | 0.0 | /mnt/stockage/packages/f28/udisks2/po/he.po | 
- | [hi]({{< ref "/f28/language/hi.md" >}}) | 0 | 1929 | 0.0 | /mnt/stockage/packages/f28/udisks2/po/hi.po | 
- | [ka]({{< ref "/f28/language/ka.md" >}}) | 0 | 1929 | 0.0 | /mnt/stockage/packages/f28/udisks2/po/ka.po | 
- | [kn]({{< ref "/f28/language/kn.md" >}}) | 0 | 1929 | 0.0 | /mnt/stockage/packages/f28/udisks2/po/kn.po | 
- | [ml]({{< ref "/f28/language/ml.md" >}}) | 0 | 1929 | 0.0 | /mnt/stockage/packages/f28/udisks2/po/ml.po | 
- | [mr]({{< ref "/f28/language/mr.md" >}}) | 0 | 1929 | 0.0 | /mnt/stockage/packages/f28/udisks2/po/mr.po | 
- | [ms]({{< ref "/f28/language/ms.md" >}}) | 0 | 1929 | 0.0 | /mnt/stockage/packages/f28/udisks2/po/ms.po | 
- | [nb_NO]({{< ref "/f28/language/nb_NO.md" >}}) | 0 | 1929 | 0.0 | /mnt/stockage/packages/f28/udisks2/po/nb.po | 
- | [nn]({{< ref "/f28/language/nn.md" >}}) | 0 | 1929 | 0.0 | /mnt/stockage/packages/f28/udisks2/po/nn.po | 
- | [oc]({{< ref "/f28/language/oc.md" >}}) | 0 | 1929 | 0.0 | /mnt/stockage/packages/f28/udisks2/po/oc.po | 
- | [or]({{< ref "/f28/language/or.md" >}}) | 0 | 1929 | 0.0 | /mnt/stockage/packages/f28/udisks2/po/or.po | 
- | [pt]({{< ref "/f28/language/pt.md" >}}) | 0 | 1929 | 0.0 | /mnt/stockage/packages/f28/udisks2/po/pt.po | 
- | [ro]({{< ref "/f28/language/ro.md" >}}) | 0 | 1929 | 0.0 | /mnt/stockage/packages/f28/udisks2/po/ro.po | 
- | [sq]({{< ref "/f28/language/sq.md" >}}) | 0 | 1929 | 0.0 | /mnt/stockage/packages/f28/udisks2/po/sq.po | 
- | [sr_Latn]({{< ref "/f28/language/sr_Latn.md" >}}) | 0 | 1929 | 0.0 | /mnt/stockage/packages/f28/udisks2/po/sr@latin.po | 
- | [ta]({{< ref "/f28/language/ta.md" >}}) | 0 | 1929 | 0.0 | /mnt/stockage/packages/f28/udisks2/po/ta.po | 
- | [te]({{< ref "/f28/language/te.md" >}}) | 0 | 1929 | 0.0 | /mnt/stockage/packages/f28/udisks2/po/te.po | 
- | [th]({{< ref "/f28/language/th.md" >}}) | 0 | 1929 | 0.0 | /mnt/stockage/packages/f28/udisks2/po/th.po | 
- | [vi]({{< ref "/f28/language/vi.md" >}}) | 0 | 1929 | 0.0 | /mnt/stockage/packages/f28/udisks2/po/vi.po | 
- | [wa]({{< ref "/f28/language/wa.md" >}}) | 0 | 1929 | 0.0 | /mnt/stockage/packages/f28/udisks2/po/wa.po | 
- | [zh_Hant_HK]({{< ref "/f28/language/zh_Hant_HK.md" >}}) | 0 | 1929 | 0.0 | /mnt/stockage/packages/f28/udisks2/po/zh_HK.po | 
+ | [ca](/f28/language/ca) | 2009 | 2009 | 100.0 | /mnt/stockage/packages/f28/udisks2/po/ca.po | 
+ | [cs](/f28/language/cs) | 2009 | 2009 | 100.0 | /mnt/stockage/packages/f28/udisks2/po/cs.po | 
+ | [da](/f28/language/da) | 2009 | 2009 | 100.0 | /mnt/stockage/packages/f28/udisks2/po/da.po | 
+ | [es](/f28/language/es) | 2009 | 2009 | 100.0 | /mnt/stockage/packages/f28/udisks2/po/es.po | 
+ | [hu](/f28/language/hu) | 2009 | 2009 | 100.0 | /mnt/stockage/packages/f28/udisks2/po/hu.po | 
+ | [id](/f28/language/id) | 2009 | 2009 | 100.0 | /mnt/stockage/packages/f28/udisks2/po/id.po | 
+ | [it](/f28/language/it) | 2009 | 2009 | 100.0 | /mnt/stockage/packages/f28/udisks2/po/it.po | 
+ | [nl](/f28/language/nl) | 2009 | 2009 | 100.0 | /mnt/stockage/packages/f28/udisks2/po/nl.po | 
+ | [pl](/f28/language/pl) | 2009 | 2009 | 100.0 | /mnt/stockage/packages/f28/udisks2/po/pl.po | 
+ | [sk](/f28/language/sk) | 2009 | 2009 | 100.0 | /mnt/stockage/packages/f28/udisks2/po/sk.po | 
+ | [sv](/f28/language/sv) | 2009 | 2009 | 100.0 | /mnt/stockage/packages/f28/udisks2/po/sv.po | 
+ | [uk](/f28/language/uk) | 2009 | 2009 | 100.0 | /mnt/stockage/packages/f28/udisks2/po/uk.po | 
+ | [fr](/f28/language/fr) | 1988 | 2009 | 99.0 | /mnt/stockage/packages/f28/udisks2/po/fr.po | 
+ | [zh_Hans](/f28/language/zh_Hans) | 1988 | 2009 | 99.0 | /mnt/stockage/packages/f28/udisks2/po/zh_CN.po | 
+ | [de](/f28/language/de) | 1920 | 2009 | 95.6 | /mnt/stockage/packages/f28/udisks2/po/de.po | 
+ | [kk](/f28/language/kk) | 1920 | 2009 | 95.6 | /mnt/stockage/packages/f28/udisks2/po/kk.po | 
+ | [pt_BR](/f28/language/pt_BR) | 1920 | 2009 | 95.6 | /mnt/stockage/packages/f28/udisks2/po/pt_BR.po | 
+ | [en_GB](/f28/language/en_GB) | 1676 | 2009 | 83.4 | /mnt/stockage/packages/f28/udisks2/po/en_GB.po | 
+ | [ko](/f28/language/ko) | 1519 | 2009 | 75.6 | /mnt/stockage/packages/f28/udisks2/po/ko.po | 
+ | [el](/f28/language/el) | 1508 | 2009 | 75.1 | /mnt/stockage/packages/f28/udisks2/po/el.po | 
+ | [tr](/f28/language/tr) | 1508 | 2009 | 75.1 | /mnt/stockage/packages/f28/udisks2/po/tr.po | 
+ | [gl](/f28/language/gl) | 1500 | 2009 | 74.7 | /mnt/stockage/packages/f28/udisks2/po/gl.po | 
+ | [ru](/f28/language/ru) | 1500 | 2009 | 74.7 | /mnt/stockage/packages/f28/udisks2/po/ru.po | 
+ | [sl](/f28/language/sl) | 1500 | 2009 | 74.7 | /mnt/stockage/packages/f28/udisks2/po/sl.po | 
+ | [sr](/f28/language/sr) | 1500 | 2009 | 74.7 | /mnt/stockage/packages/f28/udisks2/po/sr.po | 
+ | [ja](/f28/language/ja) | 1461 | 2009 | 72.7 | /mnt/stockage/packages/f28/udisks2/po/ja.po | 
+ | [lt](/f28/language/lt) | 1461 | 2009 | 72.7 | /mnt/stockage/packages/f28/udisks2/po/lt.po | 
+ | [zh_Hant](/f28/language/zh_Hant) | 1454 | 2009 | 72.4 | /mnt/stockage/packages/f28/udisks2/po/zh_TW.po | 
+ | [hr](/f28/language/hr) | 1204 | 2009 | 59.9 | /mnt/stockage/packages/f28/udisks2/po/hr.po | 
+ | [fi](/f28/language/fi) | 1050 | 2009 | 52.3 | /mnt/stockage/packages/f28/udisks2/po/fi.po | 
+ | [lv](/f28/language/lv) | 847 | 2009 | 42.2 | /mnt/stockage/packages/f28/udisks2/po/lv.po | 
+ | [ia](/f28/language/ia) | 482 | 2009 | 24.0 | /mnt/stockage/packages/f28/udisks2/po/ia.po | 
+ | [pa](/f28/language/pa) | 482 | 2009 | 24.0 | /mnt/stockage/packages/f28/udisks2/po/pa.po | 
+ | [eu](/f28/language/eu) | 441 | 2009 | 22.0 | /mnt/stockage/packages/f28/udisks2/po/eu.po | 
+ | [ar](/f28/language/ar) | 0 | 1929 | 0.0 | /mnt/stockage/packages/f28/udisks2/po/ar.po | 
+ | [as](/f28/language/as) | 0 | 1929 | 0.0 | /mnt/stockage/packages/f28/udisks2/po/as.po | 
+ | [az](/f28/language/az) | 0 | 1929 | 0.0 | /mnt/stockage/packages/f28/udisks2/po/az.po | 
+ | [bg](/f28/language/bg) | 0 | 1929 | 0.0 | /mnt/stockage/packages/f28/udisks2/po/bg.po | 
+ | [bn_IN](/f28/language/bn_IN) | 0 | 1929 | 0.0 | /mnt/stockage/packages/f28/udisks2/po/bn_IN.po | 
+ | [ca@valencia](/f28/language/ca@valencia) | 0 | 1929 | 0.0 | /mnt/stockage/packages/f28/udisks2/po/ca@valencia.po | 
+ | [cy](/f28/language/cy) | 0 | 1929 | 0.0 | /mnt/stockage/packages/f28/udisks2/po/cy.po | 
+ | [eo](/f28/language/eo) | 0 | 1929 | 0.0 | /mnt/stockage/packages/f28/udisks2/po/eo.po | 
+ | [et](/f28/language/et) | 0 | 1929 | 0.0 | /mnt/stockage/packages/f28/udisks2/po/et.po | 
+ | [fa](/f28/language/fa) | 0 | 1929 | 0.0 | /mnt/stockage/packages/f28/udisks2/po/fa.po | 
+ | [fo](/f28/language/fo) | 0 | 1929 | 0.0 | /mnt/stockage/packages/f28/udisks2/po/fo.po | 
+ | [ga](/f28/language/ga) | 0 | 1929 | 0.0 | /mnt/stockage/packages/f28/udisks2/po/ga.po | 
+ | [gu](/f28/language/gu) | 0 | 1929 | 0.0 | /mnt/stockage/packages/f28/udisks2/po/gu.po | 
+ | [he](/f28/language/he) | 0 | 1929 | 0.0 | /mnt/stockage/packages/f28/udisks2/po/he.po | 
+ | [hi](/f28/language/hi) | 0 | 1929 | 0.0 | /mnt/stockage/packages/f28/udisks2/po/hi.po | 
+ | [ka](/f28/language/ka) | 0 | 1929 | 0.0 | /mnt/stockage/packages/f28/udisks2/po/ka.po | 
+ | [kn](/f28/language/kn) | 0 | 1929 | 0.0 | /mnt/stockage/packages/f28/udisks2/po/kn.po | 
+ | [ml](/f28/language/ml) | 0 | 1929 | 0.0 | /mnt/stockage/packages/f28/udisks2/po/ml.po | 
+ | [mr](/f28/language/mr) | 0 | 1929 | 0.0 | /mnt/stockage/packages/f28/udisks2/po/mr.po | 
+ | [ms](/f28/language/ms) | 0 | 1929 | 0.0 | /mnt/stockage/packages/f28/udisks2/po/ms.po | 
+ | [nb_NO](/f28/language/nb_NO) | 0 | 1929 | 0.0 | /mnt/stockage/packages/f28/udisks2/po/nb.po | 
+ | [nn](/f28/language/nn) | 0 | 1929 | 0.0 | /mnt/stockage/packages/f28/udisks2/po/nn.po | 
+ | [oc](/f28/language/oc) | 0 | 1929 | 0.0 | /mnt/stockage/packages/f28/udisks2/po/oc.po | 
+ | [or](/f28/language/or) | 0 | 1929 | 0.0 | /mnt/stockage/packages/f28/udisks2/po/or.po | 
+ | [pt](/f28/language/pt) | 0 | 1929 | 0.0 | /mnt/stockage/packages/f28/udisks2/po/pt.po | 
+ | [ro](/f28/language/ro) | 0 | 1929 | 0.0 | /mnt/stockage/packages/f28/udisks2/po/ro.po | 
+ | [sq](/f28/language/sq) | 0 | 1929 | 0.0 | /mnt/stockage/packages/f28/udisks2/po/sq.po | 
+ | [sr_Latn](/f28/language/sr_Latn) | 0 | 1929 | 0.0 | /mnt/stockage/packages/f28/udisks2/po/sr@latin.po | 
+ | [ta](/f28/language/ta) | 0 | 1929 | 0.0 | /mnt/stockage/packages/f28/udisks2/po/ta.po | 
+ | [te](/f28/language/te) | 0 | 1929 | 0.0 | /mnt/stockage/packages/f28/udisks2/po/te.po | 
+ | [th](/f28/language/th) | 0 | 1929 | 0.0 | /mnt/stockage/packages/f28/udisks2/po/th.po | 
+ | [vi](/f28/language/vi) | 0 | 1929 | 0.0 | /mnt/stockage/packages/f28/udisks2/po/vi.po | 
+ | [wa](/f28/language/wa) | 0 | 1929 | 0.0 | /mnt/stockage/packages/f28/udisks2/po/wa.po | 
+ | [zh_Hant_HK](/f28/language/zh_Hant_HK) | 0 | 1929 | 0.0 | /mnt/stockage/packages/f28/udisks2/po/zh_HK.po | 
 {.sortable}
 
 

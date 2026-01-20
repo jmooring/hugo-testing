@@ -38,13 +38,13 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [maliit-keyboard]({{< ref "/f41/package/maliit-keyboard.md" >}}) | 31 | 81 | 38.3 | Lojban <jbo@li.org> | 
- | [supertux]({{< ref "/f41/package/supertux.md" >}}) | 234 | 2866 | 8.2 | Lojban (http://www.transifex.com/arctic-games/supertux/language/jbo/) | 
- | [minetest]({{< ref "/f41/package/minetest.md" >}}) | 638 | 10452 | 6.1 | Lojban <https://hosted.weblate.org/projects/minetest/minetest/jbo/> | 
- | [supertuxkart]({{< ref "/f41/package/supertuxkart.md" >}}) | 255 | 5959 | 4.3 | Lojban (http://www.transifex.com/supertuxkart/supertuxkart/language/jbo/) | 
- | [transmission]({{< ref "/f41/package/transmission.md" >}}) | 49 | 2441 | 2.0 | Lojban (https://app.transifex.com/transmissionbt/teams/33778/jbo/) | 
- | [elementary-files]({{< ref "/f41/package/elementary-files.md" >}}) | 0 | 2606 | 0.0 | Lojban <jbo@li.org> | 
- | [elementary-photos]({{< ref "/f41/package/elementary-photos.md" >}}) | 0 | 2862 | 0.0 | none | 
+ | [maliit-keyboard](/f41/package/maliit-keyboard) | 31 | 81 | 38.3 | Lojban <jbo@li.org> | 
+ | [supertux](/f41/package/supertux) | 234 | 2866 | 8.2 | Lojban (http://www.transifex.com/arctic-games/supertux/language/jbo/) | 
+ | [minetest](/f41/package/minetest) | 638 | 10452 | 6.1 | Lojban <https://hosted.weblate.org/projects/minetest/minetest/jbo/> | 
+ | [supertuxkart](/f41/package/supertuxkart) | 255 | 5959 | 4.3 | Lojban (http://www.transifex.com/supertuxkart/supertuxkart/language/jbo/) | 
+ | [transmission](/f41/package/transmission) | 49 | 2441 | 2.0 | Lojban (https://app.transifex.com/transmissionbt/teams/33778/jbo/) | 
+ | [elementary-files](/f41/package/elementary-files) | 0 | 2606 | 0.0 | Lojban <jbo@li.org> | 
+ | [elementary-photos](/f41/package/elementary-photos) | 0 | 2862 | 0.0 | none | 
 {.sortable}
 
 

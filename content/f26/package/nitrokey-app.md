@@ -18,7 +18,7 @@ The package nitrokey-app (version 1.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f26/language/de.md" >}}) | 0 | 93 | 0.0 | /mnt/stockage/packages/f26/nitrokey-app/po/de_DE/nitrokey-app.po | 
+ | [de](/f26/language/de) | 0 | 93 | 0.0 | /mnt/stockage/packages/f26/nitrokey-app/po/de_DE/nitrokey-app.po | 
 {.sortable}
 
 

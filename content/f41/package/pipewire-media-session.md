@@ -18,56 +18,56 @@ The package pipewire-media-session (version 0.4.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f41/language/cs.md" >}}) | 5 | 5 | 100.0 | /mnt/stockage/packages/f41/pipewire-media-session/po/cs.po | 
- | [da]({{< ref "/f41/language/da.md" >}}) | 5 | 5 | 100.0 | /mnt/stockage/packages/f41/pipewire-media-session/po/da.po | 
- | [fi]({{< ref "/f41/language/fi.md" >}}) | 5 | 5 | 100.0 | /mnt/stockage/packages/f41/pipewire-media-session/po/fi.po | 
- | [hr]({{< ref "/f41/language/hr.md" >}}) | 5 | 5 | 100.0 | /mnt/stockage/packages/f41/pipewire-media-session/po/hr.po | 
- | [id]({{< ref "/f41/language/id.md" >}}) | 5 | 5 | 100.0 | /mnt/stockage/packages/f41/pipewire-media-session/po/id.po | 
- | [it]({{< ref "/f41/language/it.md" >}}) | 5 | 5 | 100.0 | /mnt/stockage/packages/f41/pipewire-media-session/po/it.po | 
- | [my]({{< ref "/f41/language/my.md" >}}) | 5 | 5 | 100.0 | /mnt/stockage/packages/f41/pipewire-media-session/po/my.po | 
- | [nl]({{< ref "/f41/language/nl.md" >}}) | 5 | 5 | 100.0 | /mnt/stockage/packages/f41/pipewire-media-session/po/nl.po | 
- | [nn]({{< ref "/f41/language/nn.md" >}}) | 5 | 5 | 100.0 | /mnt/stockage/packages/f41/pipewire-media-session/po/nn.po | 
- | [pl]({{< ref "/f41/language/pl.md" >}}) | 5 | 5 | 100.0 | /mnt/stockage/packages/f41/pipewire-media-session/po/pl.po | 
- | [pt]({{< ref "/f41/language/pt.md" >}}) | 5 | 5 | 100.0 | /mnt/stockage/packages/f41/pipewire-media-session/po/pt.po | 
- | [pt_BR]({{< ref "/f41/language/pt_BR.md" >}}) | 5 | 5 | 100.0 | /mnt/stockage/packages/f41/pipewire-media-session/po/pt_BR.po | 
- | [ru]({{< ref "/f41/language/ru.md" >}}) | 5 | 5 | 100.0 | /mnt/stockage/packages/f41/pipewire-media-session/po/ru.po | 
- | [sv]({{< ref "/f41/language/sv.md" >}}) | 5 | 5 | 100.0 | /mnt/stockage/packages/f41/pipewire-media-session/po/sv.po | 
- | [tr]({{< ref "/f41/language/tr.md" >}}) | 5 | 5 | 100.0 | /mnt/stockage/packages/f41/pipewire-media-session/po/tr.po | 
- | [uk]({{< ref "/f41/language/uk.md" >}}) | 5 | 5 | 100.0 | /mnt/stockage/packages/f41/pipewire-media-session/po/uk.po | 
- | [zh_Hans]({{< ref "/f41/language/zh_Hans.md" >}}) | 5 | 5 | 100.0 | /mnt/stockage/packages/f41/pipewire-media-session/po/zh_CN.po | 
- | [af]({{< ref "/f41/language/af.md" >}}) | 3 | 5 | 60.0 | /mnt/stockage/packages/f41/pipewire-media-session/po/af.po | 
- | [as]({{< ref "/f41/language/as.md" >}}) | 3 | 5 | 60.0 | /mnt/stockage/packages/f41/pipewire-media-session/po/as.po | 
- | [be]({{< ref "/f41/language/be.md" >}}) | 3 | 5 | 60.0 | /mnt/stockage/packages/f41/pipewire-media-session/po/be.po | 
- | [bn_IN]({{< ref "/f41/language/bn_IN.md" >}}) | 3 | 5 | 60.0 | /mnt/stockage/packages/f41/pipewire-media-session/po/bn_IN.po | 
- | [ca]({{< ref "/f41/language/ca.md" >}}) | 3 | 5 | 60.0 | /mnt/stockage/packages/f41/pipewire-media-session/po/ca.po | 
- | [de]({{< ref "/f41/language/de.md" >}}) | 6 | 10 | 60.0 | /mnt/stockage/packages/f41/pipewire-media-session/po/de_CH.po/mnt/stockage/packages/f41/pipewire-media-session/po/de.po | 
- | [el]({{< ref "/f41/language/el.md" >}}) | 3 | 5 | 60.0 | /mnt/stockage/packages/f41/pipewire-media-session/po/el.po | 
- | [es]({{< ref "/f41/language/es.md" >}}) | 3 | 5 | 60.0 | /mnt/stockage/packages/f41/pipewire-media-session/po/es.po | 
- | [fr]({{< ref "/f41/language/fr.md" >}}) | 3 | 5 | 60.0 | /mnt/stockage/packages/f41/pipewire-media-session/po/fr.po | 
- | [gl]({{< ref "/f41/language/gl.md" >}}) | 3 | 5 | 60.0 | /mnt/stockage/packages/f41/pipewire-media-session/po/gl.po | 
- | [gu]({{< ref "/f41/language/gu.md" >}}) | 3 | 5 | 60.0 | /mnt/stockage/packages/f41/pipewire-media-session/po/gu.po | 
- | [he]({{< ref "/f41/language/he.md" >}}) | 3 | 5 | 60.0 | /mnt/stockage/packages/f41/pipewire-media-session/po/he.po | 
- | [hi]({{< ref "/f41/language/hi.md" >}}) | 3 | 5 | 60.0 | /mnt/stockage/packages/f41/pipewire-media-session/po/hi.po | 
- | [hu]({{< ref "/f41/language/hu.md" >}}) | 3 | 5 | 60.0 | /mnt/stockage/packages/f41/pipewire-media-session/po/hu.po | 
- | [ja]({{< ref "/f41/language/ja.md" >}}) | 3 | 5 | 60.0 | /mnt/stockage/packages/f41/pipewire-media-session/po/ja.po | 
- | [kk]({{< ref "/f41/language/kk.md" >}}) | 3 | 5 | 60.0 | /mnt/stockage/packages/f41/pipewire-media-session/po/kk.po | 
- | [kn]({{< ref "/f41/language/kn.md" >}}) | 3 | 5 | 60.0 | /mnt/stockage/packages/f41/pipewire-media-session/po/kn.po | 
- | [ko]({{< ref "/f41/language/ko.md" >}}) | 3 | 5 | 60.0 | /mnt/stockage/packages/f41/pipewire-media-session/po/ko.po | 
- | [lt]({{< ref "/f41/language/lt.md" >}}) | 3 | 5 | 60.0 | /mnt/stockage/packages/f41/pipewire-media-session/po/lt.po | 
- | [ml]({{< ref "/f41/language/ml.md" >}}) | 3 | 5 | 60.0 | /mnt/stockage/packages/f41/pipewire-media-session/po/ml.po | 
- | [mr]({{< ref "/f41/language/mr.md" >}}) | 3 | 5 | 60.0 | /mnt/stockage/packages/f41/pipewire-media-session/po/mr.po | 
- | [oc]({{< ref "/f41/language/oc.md" >}}) | 3 | 5 | 60.0 | /mnt/stockage/packages/f41/pipewire-media-session/po/oc.po | 
- | [or]({{< ref "/f41/language/or.md" >}}) | 3 | 5 | 60.0 | /mnt/stockage/packages/f41/pipewire-media-session/po/or.po | 
- | [pa]({{< ref "/f41/language/pa.md" >}}) | 3 | 5 | 60.0 | /mnt/stockage/packages/f41/pipewire-media-session/po/pa.po | 
- | [sk]({{< ref "/f41/language/sk.md" >}}) | 3 | 5 | 60.0 | /mnt/stockage/packages/f41/pipewire-media-session/po/sk.po | 
- | [sr]({{< ref "/f41/language/sr.md" >}}) | 3 | 5 | 60.0 | /mnt/stockage/packages/f41/pipewire-media-session/po/sr.po | 
- | [sr_Latn]({{< ref "/f41/language/sr_Latn.md" >}}) | 3 | 5 | 60.0 | /mnt/stockage/packages/f41/pipewire-media-session/po/sr@latin.po | 
- | [ta]({{< ref "/f41/language/ta.md" >}}) | 3 | 5 | 60.0 | /mnt/stockage/packages/f41/pipewire-media-session/po/ta.po | 
- | [te]({{< ref "/f41/language/te.md" >}}) | 3 | 5 | 60.0 | /mnt/stockage/packages/f41/pipewire-media-session/po/te.po | 
- | [zh_Hant]({{< ref "/f41/language/zh_Hant.md" >}}) | 3 | 5 | 60.0 | /mnt/stockage/packages/f41/pipewire-media-session/po/zh_TW.po | 
- | [eo]({{< ref "/f41/language/eo.md" >}}) | 2 | 5 | 40.0 | /mnt/stockage/packages/f41/pipewire-media-session/po/eo.po | 
- | [bg]({{< ref "/f41/language/bg.md" >}}) | 0 | 5 | 0.0 | /mnt/stockage/packages/f41/pipewire-media-session/po/bg.po | 
- | [si]({{< ref "/f41/language/si.md" >}}) | 0 | 5 | 0.0 | /mnt/stockage/packages/f41/pipewire-media-session/po/si.po | 
+ | [cs](/f41/language/cs) | 5 | 5 | 100.0 | /mnt/stockage/packages/f41/pipewire-media-session/po/cs.po | 
+ | [da](/f41/language/da) | 5 | 5 | 100.0 | /mnt/stockage/packages/f41/pipewire-media-session/po/da.po | 
+ | [fi](/f41/language/fi) | 5 | 5 | 100.0 | /mnt/stockage/packages/f41/pipewire-media-session/po/fi.po | 
+ | [hr](/f41/language/hr) | 5 | 5 | 100.0 | /mnt/stockage/packages/f41/pipewire-media-session/po/hr.po | 
+ | [id](/f41/language/id) | 5 | 5 | 100.0 | /mnt/stockage/packages/f41/pipewire-media-session/po/id.po | 
+ | [it](/f41/language/it) | 5 | 5 | 100.0 | /mnt/stockage/packages/f41/pipewire-media-session/po/it.po | 
+ | [my](/f41/language/my) | 5 | 5 | 100.0 | /mnt/stockage/packages/f41/pipewire-media-session/po/my.po | 
+ | [nl](/f41/language/nl) | 5 | 5 | 100.0 | /mnt/stockage/packages/f41/pipewire-media-session/po/nl.po | 
+ | [nn](/f41/language/nn) | 5 | 5 | 100.0 | /mnt/stockage/packages/f41/pipewire-media-session/po/nn.po | 
+ | [pl](/f41/language/pl) | 5 | 5 | 100.0 | /mnt/stockage/packages/f41/pipewire-media-session/po/pl.po | 
+ | [pt](/f41/language/pt) | 5 | 5 | 100.0 | /mnt/stockage/packages/f41/pipewire-media-session/po/pt.po | 
+ | [pt_BR](/f41/language/pt_BR) | 5 | 5 | 100.0 | /mnt/stockage/packages/f41/pipewire-media-session/po/pt_BR.po | 
+ | [ru](/f41/language/ru) | 5 | 5 | 100.0 | /mnt/stockage/packages/f41/pipewire-media-session/po/ru.po | 
+ | [sv](/f41/language/sv) | 5 | 5 | 100.0 | /mnt/stockage/packages/f41/pipewire-media-session/po/sv.po | 
+ | [tr](/f41/language/tr) | 5 | 5 | 100.0 | /mnt/stockage/packages/f41/pipewire-media-session/po/tr.po | 
+ | [uk](/f41/language/uk) | 5 | 5 | 100.0 | /mnt/stockage/packages/f41/pipewire-media-session/po/uk.po | 
+ | [zh_Hans](/f41/language/zh_Hans) | 5 | 5 | 100.0 | /mnt/stockage/packages/f41/pipewire-media-session/po/zh_CN.po | 
+ | [af](/f41/language/af) | 3 | 5 | 60.0 | /mnt/stockage/packages/f41/pipewire-media-session/po/af.po | 
+ | [as](/f41/language/as) | 3 | 5 | 60.0 | /mnt/stockage/packages/f41/pipewire-media-session/po/as.po | 
+ | [be](/f41/language/be) | 3 | 5 | 60.0 | /mnt/stockage/packages/f41/pipewire-media-session/po/be.po | 
+ | [bn_IN](/f41/language/bn_IN) | 3 | 5 | 60.0 | /mnt/stockage/packages/f41/pipewire-media-session/po/bn_IN.po | 
+ | [ca](/f41/language/ca) | 3 | 5 | 60.0 | /mnt/stockage/packages/f41/pipewire-media-session/po/ca.po | 
+ | [de](/f41/language/de) | 6 | 10 | 60.0 | /mnt/stockage/packages/f41/pipewire-media-session/po/de_CH.po/mnt/stockage/packages/f41/pipewire-media-session/po/de.po | 
+ | [el](/f41/language/el) | 3 | 5 | 60.0 | /mnt/stockage/packages/f41/pipewire-media-session/po/el.po | 
+ | [es](/f41/language/es) | 3 | 5 | 60.0 | /mnt/stockage/packages/f41/pipewire-media-session/po/es.po | 
+ | [fr](/f41/language/fr) | 3 | 5 | 60.0 | /mnt/stockage/packages/f41/pipewire-media-session/po/fr.po | 
+ | [gl](/f41/language/gl) | 3 | 5 | 60.0 | /mnt/stockage/packages/f41/pipewire-media-session/po/gl.po | 
+ | [gu](/f41/language/gu) | 3 | 5 | 60.0 | /mnt/stockage/packages/f41/pipewire-media-session/po/gu.po | 
+ | [he](/f41/language/he) | 3 | 5 | 60.0 | /mnt/stockage/packages/f41/pipewire-media-session/po/he.po | 
+ | [hi](/f41/language/hi) | 3 | 5 | 60.0 | /mnt/stockage/packages/f41/pipewire-media-session/po/hi.po | 
+ | [hu](/f41/language/hu) | 3 | 5 | 60.0 | /mnt/stockage/packages/f41/pipewire-media-session/po/hu.po | 
+ | [ja](/f41/language/ja) | 3 | 5 | 60.0 | /mnt/stockage/packages/f41/pipewire-media-session/po/ja.po | 
+ | [kk](/f41/language/kk) | 3 | 5 | 60.0 | /mnt/stockage/packages/f41/pipewire-media-session/po/kk.po | 
+ | [kn](/f41/language/kn) | 3 | 5 | 60.0 | /mnt/stockage/packages/f41/pipewire-media-session/po/kn.po | 
+ | [ko](/f41/language/ko) | 3 | 5 | 60.0 | /mnt/stockage/packages/f41/pipewire-media-session/po/ko.po | 
+ | [lt](/f41/language/lt) | 3 | 5 | 60.0 | /mnt/stockage/packages/f41/pipewire-media-session/po/lt.po | 
+ | [ml](/f41/language/ml) | 3 | 5 | 60.0 | /mnt/stockage/packages/f41/pipewire-media-session/po/ml.po | 
+ | [mr](/f41/language/mr) | 3 | 5 | 60.0 | /mnt/stockage/packages/f41/pipewire-media-session/po/mr.po | 
+ | [oc](/f41/language/oc) | 3 | 5 | 60.0 | /mnt/stockage/packages/f41/pipewire-media-session/po/oc.po | 
+ | [or](/f41/language/or) | 3 | 5 | 60.0 | /mnt/stockage/packages/f41/pipewire-media-session/po/or.po | 
+ | [pa](/f41/language/pa) | 3 | 5 | 60.0 | /mnt/stockage/packages/f41/pipewire-media-session/po/pa.po | 
+ | [sk](/f41/language/sk) | 3 | 5 | 60.0 | /mnt/stockage/packages/f41/pipewire-media-session/po/sk.po | 
+ | [sr](/f41/language/sr) | 3 | 5 | 60.0 | /mnt/stockage/packages/f41/pipewire-media-session/po/sr.po | 
+ | [sr_Latn](/f41/language/sr_Latn) | 3 | 5 | 60.0 | /mnt/stockage/packages/f41/pipewire-media-session/po/sr@latin.po | 
+ | [ta](/f41/language/ta) | 3 | 5 | 60.0 | /mnt/stockage/packages/f41/pipewire-media-session/po/ta.po | 
+ | [te](/f41/language/te) | 3 | 5 | 60.0 | /mnt/stockage/packages/f41/pipewire-media-session/po/te.po | 
+ | [zh_Hant](/f41/language/zh_Hant) | 3 | 5 | 60.0 | /mnt/stockage/packages/f41/pipewire-media-session/po/zh_TW.po | 
+ | [eo](/f41/language/eo) | 2 | 5 | 40.0 | /mnt/stockage/packages/f41/pipewire-media-session/po/eo.po | 
+ | [bg](/f41/language/bg) | 0 | 5 | 0.0 | /mnt/stockage/packages/f41/pipewire-media-session/po/bg.po | 
+ | [si](/f41/language/si) | 0 | 5 | 0.0 | /mnt/stockage/packages/f41/pipewire-media-session/po/si.po | 
 {.sortable}
 
 

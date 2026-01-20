@@ -18,19 +18,19 @@ The package dcraw (version 8.82):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f9/language/cs.md" >}}) | 559 | 559 | 100.0 | /mnt/stockage/packages/f9/dcraw/dcraw_cs.po | 
- | [de]({{< ref "/f9/language/de.md" >}}) | 590 | 590 | 100.0 | /mnt/stockage/packages/f9/dcraw/dcraw_de.po | 
- | [eo]({{< ref "/f9/language/eo.md" >}}) | 519 | 519 | 100.0 | /mnt/stockage/packages/f9/dcraw/dcraw_eo.po | 
- | [es]({{< ref "/f9/language/es.md" >}}) | 559 | 559 | 100.0 | /mnt/stockage/packages/f9/dcraw/dcraw_es.po | 
- | [fr]({{< ref "/f9/language/fr.md" >}}) | 590 | 590 | 100.0 | /mnt/stockage/packages/f9/dcraw/dcraw_fr.po | 
- | [hu]({{< ref "/f9/language/hu.md" >}}) | 517 | 517 | 100.0 | /mnt/stockage/packages/f9/dcraw/dcraw_hu.po | 
- | [it]({{< ref "/f9/language/it.md" >}}) | 559 | 559 | 100.0 | /mnt/stockage/packages/f9/dcraw/dcraw_it.po | 
- | [nl]({{< ref "/f9/language/nl.md" >}}) | 481 | 481 | 100.0 | /mnt/stockage/packages/f9/dcraw/dcraw_nl.po | 
- | [pl]({{< ref "/f9/language/pl.md" >}}) | 538 | 538 | 100.0 | /mnt/stockage/packages/f9/dcraw/dcraw_pl.po | 
- | [pt]({{< ref "/f9/language/pt.md" >}}) | 590 | 590 | 100.0 | /mnt/stockage/packages/f9/dcraw/dcraw_pt.po | 
- | [ru]({{< ref "/f9/language/ru.md" >}}) | 590 | 590 | 100.0 | /mnt/stockage/packages/f9/dcraw/dcraw_ru.po | 
- | [zh_Hans]({{< ref "/f9/language/zh_Hans.md" >}}) | 511 | 511 | 100.0 | /mnt/stockage/packages/f9/dcraw/dcraw_zh_CN.po | 
- | [zh_Hant]({{< ref "/f9/language/zh_Hant.md" >}}) | 511 | 511 | 100.0 | /mnt/stockage/packages/f9/dcraw/dcraw_zh_TW.po | 
+ | [cs](/f9/language/cs) | 559 | 559 | 100.0 | /mnt/stockage/packages/f9/dcraw/dcraw_cs.po | 
+ | [de](/f9/language/de) | 590 | 590 | 100.0 | /mnt/stockage/packages/f9/dcraw/dcraw_de.po | 
+ | [eo](/f9/language/eo) | 519 | 519 | 100.0 | /mnt/stockage/packages/f9/dcraw/dcraw_eo.po | 
+ | [es](/f9/language/es) | 559 | 559 | 100.0 | /mnt/stockage/packages/f9/dcraw/dcraw_es.po | 
+ | [fr](/f9/language/fr) | 590 | 590 | 100.0 | /mnt/stockage/packages/f9/dcraw/dcraw_fr.po | 
+ | [hu](/f9/language/hu) | 517 | 517 | 100.0 | /mnt/stockage/packages/f9/dcraw/dcraw_hu.po | 
+ | [it](/f9/language/it) | 559 | 559 | 100.0 | /mnt/stockage/packages/f9/dcraw/dcraw_it.po | 
+ | [nl](/f9/language/nl) | 481 | 481 | 100.0 | /mnt/stockage/packages/f9/dcraw/dcraw_nl.po | 
+ | [pl](/f9/language/pl) | 538 | 538 | 100.0 | /mnt/stockage/packages/f9/dcraw/dcraw_pl.po | 
+ | [pt](/f9/language/pt) | 590 | 590 | 100.0 | /mnt/stockage/packages/f9/dcraw/dcraw_pt.po | 
+ | [ru](/f9/language/ru) | 590 | 590 | 100.0 | /mnt/stockage/packages/f9/dcraw/dcraw_ru.po | 
+ | [zh_Hans](/f9/language/zh_Hans) | 511 | 511 | 100.0 | /mnt/stockage/packages/f9/dcraw/dcraw_zh_CN.po | 
+ | [zh_Hant](/f9/language/zh_Hant) | 511 | 511 | 100.0 | /mnt/stockage/packages/f9/dcraw/dcraw_zh_TW.po | 
 {.sortable}
 
 

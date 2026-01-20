@@ -38,11 +38,11 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [pootle]({{< ref "/f20/package/pootle.md" >}}) | 2424 | 2424 | 100.0 | LANGUAGE <LL@li.org> | 
- | [virtaal]({{< ref "/f20/package/virtaal.md" >}}) | 1618 | 1653 | 97.9 | LANGUAGE <LL@li.org> | 
- | [abrt]({{< ref "/f20/package/abrt.md" >}}) | 0 | 2722 | 0.0 | Acoli (http://www.transifex.com/projects/p/fedora/language/ach/) | 
- | [certmonger]({{< ref "/f20/package/certmonger.md" >}}) | 0 | 1669 | 0.0 | Acoli (http://www.transifex.com/projects/p/certmonger/language/ach/) | 
- | [entangle]({{< ref "/f20/package/entangle.md" >}}) | 0 | 916 | 0.0 | Acoli (http://www.transifex.com/projects/p/entangle/language/ach/) | 
+ | [pootle](/f20/package/pootle) | 2424 | 2424 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [virtaal](/f20/package/virtaal) | 1618 | 1653 | 97.9 | LANGUAGE <LL@li.org> | 
+ | [abrt](/f20/package/abrt) | 0 | 2722 | 0.0 | Acoli (http://www.transifex.com/projects/p/fedora/language/ach/) | 
+ | [certmonger](/f20/package/certmonger) | 0 | 1669 | 0.0 | Acoli (http://www.transifex.com/projects/p/certmonger/language/ach/) | 
+ | [entangle](/f20/package/entangle) | 0 | 916 | 0.0 | Acoli (http://www.transifex.com/projects/p/entangle/language/ach/) | 
 {.sortable}
 
 

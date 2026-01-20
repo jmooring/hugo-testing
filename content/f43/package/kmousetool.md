@@ -18,80 +18,80 @@ The package kmousetool (version 25.12.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f43/language/ar.md" >}}) | 147 | 147 | 100.0 | /mnt/stockage/packages/f43/kmousetool/po/ar/kmousetool.po | 
- | [bg]({{< ref "/f43/language/bg.md" >}}) | 147 | 147 | 100.0 | /mnt/stockage/packages/f43/kmousetool/po/bg/kmousetool.po | 
- | [ca]({{< ref "/f43/language/ca.md" >}}) | 147 | 147 | 100.0 | /mnt/stockage/packages/f43/kmousetool/po/ca/kmousetool.po | 
- | [ca@valencia]({{< ref "/f43/language/ca@valencia.md" >}}) | 147 | 147 | 100.0 | /mnt/stockage/packages/f43/kmousetool/po/ca@valencia/kmousetool.po | 
- | [da]({{< ref "/f43/language/da.md" >}}) | 147 | 147 | 100.0 | /mnt/stockage/packages/f43/kmousetool/po/da/kmousetool.po | 
- | [de]({{< ref "/f43/language/de.md" >}}) | 147 | 147 | 100.0 | /mnt/stockage/packages/f43/kmousetool/po/de/kmousetool.po | 
- | [el]({{< ref "/f43/language/el.md" >}}) | 147 | 147 | 100.0 | /mnt/stockage/packages/f43/kmousetool/po/el/kmousetool.po | 
- | [en_GB]({{< ref "/f43/language/en_GB.md" >}}) | 147 | 147 | 100.0 | /mnt/stockage/packages/f43/kmousetool/po/en_GB/kmousetool.po | 
- | [eo]({{< ref "/f43/language/eo.md" >}}) | 147 | 147 | 100.0 | /mnt/stockage/packages/f43/kmousetool/po/eo/kmousetool.po | 
- | [es]({{< ref "/f43/language/es.md" >}}) | 147 | 147 | 100.0 | /mnt/stockage/packages/f43/kmousetool/po/es/kmousetool.po | 
- | [eu]({{< ref "/f43/language/eu.md" >}}) | 147 | 147 | 100.0 | /mnt/stockage/packages/f43/kmousetool/po/eu/kmousetool.po | 
- | [fi]({{< ref "/f43/language/fi.md" >}}) | 147 | 147 | 100.0 | /mnt/stockage/packages/f43/kmousetool/po/fi/kmousetool.po | 
- | [fr]({{< ref "/f43/language/fr.md" >}}) | 147 | 147 | 100.0 | /mnt/stockage/packages/f43/kmousetool/po/fr/kmousetool.po | 
- | [gl]({{< ref "/f43/language/gl.md" >}}) | 147 | 147 | 100.0 | /mnt/stockage/packages/f43/kmousetool/po/gl/kmousetool.po | 
- | [he]({{< ref "/f43/language/he.md" >}}) | 147 | 147 | 100.0 | /mnt/stockage/packages/f43/kmousetool/po/he/kmousetool.po | 
- | [hu]({{< ref "/f43/language/hu.md" >}}) | 147 | 147 | 100.0 | /mnt/stockage/packages/f43/kmousetool/po/hu/kmousetool.po | 
- | [ia]({{< ref "/f43/language/ia.md" >}}) | 147 | 147 | 100.0 | /mnt/stockage/packages/f43/kmousetool/po/ia/kmousetool.po | 
- | [is]({{< ref "/f43/language/is.md" >}}) | 147 | 147 | 100.0 | /mnt/stockage/packages/f43/kmousetool/po/is/kmousetool.po | 
- | [it]({{< ref "/f43/language/it.md" >}}) | 147 | 147 | 100.0 | /mnt/stockage/packages/f43/kmousetool/po/it/kmousetool.po | 
- | [ka]({{< ref "/f43/language/ka.md" >}}) | 147 | 147 | 100.0 | /mnt/stockage/packages/f43/kmousetool/po/ka/kmousetool.po | 
- | [ko]({{< ref "/f43/language/ko.md" >}}) | 147 | 147 | 100.0 | /mnt/stockage/packages/f43/kmousetool/po/ko/kmousetool.po | 
- | [lv]({{< ref "/f43/language/lv.md" >}}) | 147 | 147 | 100.0 | /mnt/stockage/packages/f43/kmousetool/po/lv/kmousetool.po | 
- | [nl]({{< ref "/f43/language/nl.md" >}}) | 147 | 147 | 100.0 | /mnt/stockage/packages/f43/kmousetool/po/nl/kmousetool.po | 
- | [nn]({{< ref "/f43/language/nn.md" >}}) | 147 | 147 | 100.0 | /mnt/stockage/packages/f43/kmousetool/po/nn/kmousetool.po | 
- | [pl]({{< ref "/f43/language/pl.md" >}}) | 147 | 147 | 100.0 | /mnt/stockage/packages/f43/kmousetool/po/pl/kmousetool.po | 
- | [pt]({{< ref "/f43/language/pt.md" >}}) | 147 | 147 | 100.0 | /mnt/stockage/packages/f43/kmousetool/po/pt/kmousetool.po | 
- | [pt_BR]({{< ref "/f43/language/pt_BR.md" >}}) | 147 | 147 | 100.0 | /mnt/stockage/packages/f43/kmousetool/po/pt_BR/kmousetool.po | 
- | [ro]({{< ref "/f43/language/ro.md" >}}) | 147 | 147 | 100.0 | /mnt/stockage/packages/f43/kmousetool/po/ro/kmousetool.po | 
- | [ru]({{< ref "/f43/language/ru.md" >}}) | 147 | 147 | 100.0 | /mnt/stockage/packages/f43/kmousetool/po/ru/kmousetool.po | 
- | [sa]({{< ref "/f43/language/sa.md" >}}) | 147 | 147 | 100.0 | /mnt/stockage/packages/f43/kmousetool/po/sa/kmousetool.po | 
- | [sk]({{< ref "/f43/language/sk.md" >}}) | 147 | 147 | 100.0 | /mnt/stockage/packages/f43/kmousetool/po/sk/kmousetool.po | 
- | [sl]({{< ref "/f43/language/sl.md" >}}) | 147 | 147 | 100.0 | /mnt/stockage/packages/f43/kmousetool/po/sl/kmousetool.po | 
- | [sv]({{< ref "/f43/language/sv.md" >}}) | 147 | 147 | 100.0 | /mnt/stockage/packages/f43/kmousetool/po/sv/kmousetool.po | 
- | [tr]({{< ref "/f43/language/tr.md" >}}) | 147 | 147 | 100.0 | /mnt/stockage/packages/f43/kmousetool/po/tr/kmousetool.po | 
- | [uk]({{< ref "/f43/language/uk.md" >}}) | 147 | 147 | 100.0 | /mnt/stockage/packages/f43/kmousetool/po/uk/kmousetool.po | 
- | [vi]({{< ref "/f43/language/vi.md" >}}) | 147 | 147 | 100.0 | /mnt/stockage/packages/f43/kmousetool/po/vi/kmousetool.po | 
- | [zh_Hans]({{< ref "/f43/language/zh_Hans.md" >}}) | 147 | 147 | 100.0 | /mnt/stockage/packages/f43/kmousetool/po/zh_CN/kmousetool.po | 
- | [zh_Hant]({{< ref "/f43/language/zh_Hant.md" >}}) | 147 | 147 | 100.0 | /mnt/stockage/packages/f43/kmousetool/po/zh_TW/kmousetool.po | 
- | [cs]({{< ref "/f43/language/cs.md" >}}) | 143 | 147 | 97.3 | /mnt/stockage/packages/f43/kmousetool/po/cs/kmousetool.po | 
- | [et]({{< ref "/f43/language/et.md" >}}) | 139 | 147 | 94.6 | /mnt/stockage/packages/f43/kmousetool/po/et/kmousetool.po | 
- | [sr]({{< ref "/f43/language/sr.md" >}}) | 139 | 147 | 94.6 | /mnt/stockage/packages/f43/kmousetool/po/sr/kmousetool.po | 
- | [sr@ijekavian]({{< ref "/f43/language/sr@ijekavian.md" >}}) | 139 | 147 | 94.6 | /mnt/stockage/packages/f43/kmousetool/po/sr@ijekavian/kmousetool.po | 
- | [sr@ijekavian_Latn]({{< ref "/f43/language/sr@ijekavian_Latn.md" >}}) | 139 | 147 | 94.6 | /mnt/stockage/packages/f43/kmousetool/po/sr@ijekavianlatin/kmousetool.po | 
- | [sr_Latn]({{< ref "/f43/language/sr_Latn.md" >}}) | 139 | 147 | 94.6 | /mnt/stockage/packages/f43/kmousetool/po/sr@latin/kmousetool.po | 
- | [bs]({{< ref "/f43/language/bs.md" >}}) | 103 | 147 | 70.1 | /mnt/stockage/packages/f43/kmousetool/po/bs/kmousetool.po | 
- | [ga]({{< ref "/f43/language/ga.md" >}}) | 103 | 147 | 70.1 | /mnt/stockage/packages/f43/kmousetool/po/ga/kmousetool.po | 
- | [kk]({{< ref "/f43/language/kk.md" >}}) | 103 | 147 | 70.1 | /mnt/stockage/packages/f43/kmousetool/po/kk/kmousetool.po | 
- | [nb_NO]({{< ref "/f43/language/nb_NO.md" >}}) | 103 | 147 | 70.1 | /mnt/stockage/packages/f43/kmousetool/po/nb/kmousetool.po | 
- | [nds]({{< ref "/f43/language/nds.md" >}}) | 103 | 147 | 70.1 | /mnt/stockage/packages/f43/kmousetool/po/nds/kmousetool.po | 
- | [hr]({{< ref "/f43/language/hr.md" >}}) | 101 | 147 | 68.7 | /mnt/stockage/packages/f43/kmousetool/po/hr/kmousetool.po | 
- | [ja]({{< ref "/f43/language/ja.md" >}}) | 101 | 147 | 68.7 | /mnt/stockage/packages/f43/kmousetool/po/ja/kmousetool.po | 
- | [km]({{< ref "/f43/language/km.md" >}}) | 101 | 147 | 68.7 | /mnt/stockage/packages/f43/kmousetool/po/km/kmousetool.po | 
- | [ml]({{< ref "/f43/language/ml.md" >}}) | 101 | 147 | 68.7 | /mnt/stockage/packages/f43/kmousetool/po/ml/kmousetool.po | 
- | [th]({{< ref "/f43/language/th.md" >}}) | 101 | 147 | 68.7 | /mnt/stockage/packages/f43/kmousetool/po/th/kmousetool.po | 
- | [ku]({{< ref "/f43/language/ku.md" >}}) | 100 | 147 | 68.0 | /mnt/stockage/packages/f43/kmousetool/po/ku/kmousetool.po | 
- | [ne]({{< ref "/f43/language/ne.md" >}}) | 94 | 147 | 63.9 | /mnt/stockage/packages/f43/kmousetool/po/ne/kmousetool.po | 
- | [fa]({{< ref "/f43/language/fa.md" >}}) | 93 | 147 | 63.3 | /mnt/stockage/packages/f43/kmousetool/po/fa/kmousetool.po | 
- | [mk]({{< ref "/f43/language/mk.md" >}}) | 93 | 147 | 63.3 | /mnt/stockage/packages/f43/kmousetool/po/mk/kmousetool.po | 
- | [ms]({{< ref "/f43/language/ms.md" >}}) | 93 | 147 | 63.3 | /mnt/stockage/packages/f43/kmousetool/po/ms/kmousetool.po | 
- | [tg]({{< ref "/f43/language/tg.md" >}}) | 93 | 147 | 63.3 | /mnt/stockage/packages/f43/kmousetool/po/tg/kmousetool.po | 
- | [ta]({{< ref "/f43/language/ta.md" >}}) | 90 | 147 | 61.2 | /mnt/stockage/packages/f43/kmousetool/po/ta/kmousetool.po | 
- | [br]({{< ref "/f43/language/br.md" >}}) | 71 | 147 | 48.3 | /mnt/stockage/packages/f43/kmousetool/po/br/kmousetool.po | 
- | [hi]({{< ref "/f43/language/hi.md" >}}) | 54 | 147 | 36.7 | /mnt/stockage/packages/f43/kmousetool/po/hi/kmousetool.po | 
- | [hne]({{< ref "/f43/language/hne.md" >}}) | 54 | 147 | 36.7 | /mnt/stockage/packages/f43/kmousetool/po/hne/kmousetool.po | 
- | [cy]({{< ref "/f43/language/cy.md" >}}) | 47 | 147 | 32.0 | /mnt/stockage/packages/f43/kmousetool/po/cy/kmousetool.po | 
- | [pa]({{< ref "/f43/language/pa.md" >}}) | 34 | 147 | 23.1 | /mnt/stockage/packages/f43/kmousetool/po/pa/kmousetool.po | 
- | [mr]({{< ref "/f43/language/mr.md" >}}) | 32 | 147 | 21.8 | /mnt/stockage/packages/f43/kmousetool/po/mr/kmousetool.po | 
- | [ug]({{< ref "/f43/language/ug.md" >}}) | 28 | 147 | 19.0 | /mnt/stockage/packages/f43/kmousetool/po/ug/kmousetool.po | 
- | [sq]({{< ref "/f43/language/sq.md" >}}) | 18 | 147 | 12.2 | /mnt/stockage/packages/f43/kmousetool/po/sq/kmousetool.po | 
- | [be]({{< ref "/f43/language/be.md" >}}) | 12 | 147 | 8.2 | /mnt/stockage/packages/f43/kmousetool/po/be/kmousetool.po | 
- | [oc]({{< ref "/f43/language/oc.md" >}}) | 12 | 147 | 8.2 | /mnt/stockage/packages/f43/kmousetool/po/oc/kmousetool.po | 
- | [lt]({{< ref "/f43/language/lt.md" >}}) | 8 | 147 | 5.4 | /mnt/stockage/packages/f43/kmousetool/po/lt/kmousetool.po | 
- | [ast]({{< ref "/f43/language/ast.md" >}}) | 4 | 147 | 2.7 | /mnt/stockage/packages/f43/kmousetool/po/ast/kmousetool.po | 
- | [se]({{< ref "/f43/language/se.md" >}}) | 0 | 147 | 0.0 | /mnt/stockage/packages/f43/kmousetool/po/se/kmousetool.po | 
+ | [ar](/f43/language/ar) | 147 | 147 | 100.0 | /mnt/stockage/packages/f43/kmousetool/po/ar/kmousetool.po | 
+ | [bg](/f43/language/bg) | 147 | 147 | 100.0 | /mnt/stockage/packages/f43/kmousetool/po/bg/kmousetool.po | 
+ | [ca](/f43/language/ca) | 147 | 147 | 100.0 | /mnt/stockage/packages/f43/kmousetool/po/ca/kmousetool.po | 
+ | [ca@valencia](/f43/language/ca@valencia) | 147 | 147 | 100.0 | /mnt/stockage/packages/f43/kmousetool/po/ca@valencia/kmousetool.po | 
+ | [da](/f43/language/da) | 147 | 147 | 100.0 | /mnt/stockage/packages/f43/kmousetool/po/da/kmousetool.po | 
+ | [de](/f43/language/de) | 147 | 147 | 100.0 | /mnt/stockage/packages/f43/kmousetool/po/de/kmousetool.po | 
+ | [el](/f43/language/el) | 147 | 147 | 100.0 | /mnt/stockage/packages/f43/kmousetool/po/el/kmousetool.po | 
+ | [en_GB](/f43/language/en_GB) | 147 | 147 | 100.0 | /mnt/stockage/packages/f43/kmousetool/po/en_GB/kmousetool.po | 
+ | [eo](/f43/language/eo) | 147 | 147 | 100.0 | /mnt/stockage/packages/f43/kmousetool/po/eo/kmousetool.po | 
+ | [es](/f43/language/es) | 147 | 147 | 100.0 | /mnt/stockage/packages/f43/kmousetool/po/es/kmousetool.po | 
+ | [eu](/f43/language/eu) | 147 | 147 | 100.0 | /mnt/stockage/packages/f43/kmousetool/po/eu/kmousetool.po | 
+ | [fi](/f43/language/fi) | 147 | 147 | 100.0 | /mnt/stockage/packages/f43/kmousetool/po/fi/kmousetool.po | 
+ | [fr](/f43/language/fr) | 147 | 147 | 100.0 | /mnt/stockage/packages/f43/kmousetool/po/fr/kmousetool.po | 
+ | [gl](/f43/language/gl) | 147 | 147 | 100.0 | /mnt/stockage/packages/f43/kmousetool/po/gl/kmousetool.po | 
+ | [he](/f43/language/he) | 147 | 147 | 100.0 | /mnt/stockage/packages/f43/kmousetool/po/he/kmousetool.po | 
+ | [hu](/f43/language/hu) | 147 | 147 | 100.0 | /mnt/stockage/packages/f43/kmousetool/po/hu/kmousetool.po | 
+ | [ia](/f43/language/ia) | 147 | 147 | 100.0 | /mnt/stockage/packages/f43/kmousetool/po/ia/kmousetool.po | 
+ | [is](/f43/language/is) | 147 | 147 | 100.0 | /mnt/stockage/packages/f43/kmousetool/po/is/kmousetool.po | 
+ | [it](/f43/language/it) | 147 | 147 | 100.0 | /mnt/stockage/packages/f43/kmousetool/po/it/kmousetool.po | 
+ | [ka](/f43/language/ka) | 147 | 147 | 100.0 | /mnt/stockage/packages/f43/kmousetool/po/ka/kmousetool.po | 
+ | [ko](/f43/language/ko) | 147 | 147 | 100.0 | /mnt/stockage/packages/f43/kmousetool/po/ko/kmousetool.po | 
+ | [lv](/f43/language/lv) | 147 | 147 | 100.0 | /mnt/stockage/packages/f43/kmousetool/po/lv/kmousetool.po | 
+ | [nl](/f43/language/nl) | 147 | 147 | 100.0 | /mnt/stockage/packages/f43/kmousetool/po/nl/kmousetool.po | 
+ | [nn](/f43/language/nn) | 147 | 147 | 100.0 | /mnt/stockage/packages/f43/kmousetool/po/nn/kmousetool.po | 
+ | [pl](/f43/language/pl) | 147 | 147 | 100.0 | /mnt/stockage/packages/f43/kmousetool/po/pl/kmousetool.po | 
+ | [pt](/f43/language/pt) | 147 | 147 | 100.0 | /mnt/stockage/packages/f43/kmousetool/po/pt/kmousetool.po | 
+ | [pt_BR](/f43/language/pt_BR) | 147 | 147 | 100.0 | /mnt/stockage/packages/f43/kmousetool/po/pt_BR/kmousetool.po | 
+ | [ro](/f43/language/ro) | 147 | 147 | 100.0 | /mnt/stockage/packages/f43/kmousetool/po/ro/kmousetool.po | 
+ | [ru](/f43/language/ru) | 147 | 147 | 100.0 | /mnt/stockage/packages/f43/kmousetool/po/ru/kmousetool.po | 
+ | [sa](/f43/language/sa) | 147 | 147 | 100.0 | /mnt/stockage/packages/f43/kmousetool/po/sa/kmousetool.po | 
+ | [sk](/f43/language/sk) | 147 | 147 | 100.0 | /mnt/stockage/packages/f43/kmousetool/po/sk/kmousetool.po | 
+ | [sl](/f43/language/sl) | 147 | 147 | 100.0 | /mnt/stockage/packages/f43/kmousetool/po/sl/kmousetool.po | 
+ | [sv](/f43/language/sv) | 147 | 147 | 100.0 | /mnt/stockage/packages/f43/kmousetool/po/sv/kmousetool.po | 
+ | [tr](/f43/language/tr) | 147 | 147 | 100.0 | /mnt/stockage/packages/f43/kmousetool/po/tr/kmousetool.po | 
+ | [uk](/f43/language/uk) | 147 | 147 | 100.0 | /mnt/stockage/packages/f43/kmousetool/po/uk/kmousetool.po | 
+ | [vi](/f43/language/vi) | 147 | 147 | 100.0 | /mnt/stockage/packages/f43/kmousetool/po/vi/kmousetool.po | 
+ | [zh_Hans](/f43/language/zh_Hans) | 147 | 147 | 100.0 | /mnt/stockage/packages/f43/kmousetool/po/zh_CN/kmousetool.po | 
+ | [zh_Hant](/f43/language/zh_Hant) | 147 | 147 | 100.0 | /mnt/stockage/packages/f43/kmousetool/po/zh_TW/kmousetool.po | 
+ | [cs](/f43/language/cs) | 143 | 147 | 97.3 | /mnt/stockage/packages/f43/kmousetool/po/cs/kmousetool.po | 
+ | [et](/f43/language/et) | 139 | 147 | 94.6 | /mnt/stockage/packages/f43/kmousetool/po/et/kmousetool.po | 
+ | [sr](/f43/language/sr) | 139 | 147 | 94.6 | /mnt/stockage/packages/f43/kmousetool/po/sr/kmousetool.po | 
+ | [sr@ijekavian](/f43/language/sr@ijekavian) | 139 | 147 | 94.6 | /mnt/stockage/packages/f43/kmousetool/po/sr@ijekavian/kmousetool.po | 
+ | [sr@ijekavian_Latn](/f43/language/sr@ijekavian_Latn) | 139 | 147 | 94.6 | /mnt/stockage/packages/f43/kmousetool/po/sr@ijekavianlatin/kmousetool.po | 
+ | [sr_Latn](/f43/language/sr_Latn) | 139 | 147 | 94.6 | /mnt/stockage/packages/f43/kmousetool/po/sr@latin/kmousetool.po | 
+ | [bs](/f43/language/bs) | 103 | 147 | 70.1 | /mnt/stockage/packages/f43/kmousetool/po/bs/kmousetool.po | 
+ | [ga](/f43/language/ga) | 103 | 147 | 70.1 | /mnt/stockage/packages/f43/kmousetool/po/ga/kmousetool.po | 
+ | [kk](/f43/language/kk) | 103 | 147 | 70.1 | /mnt/stockage/packages/f43/kmousetool/po/kk/kmousetool.po | 
+ | [nb_NO](/f43/language/nb_NO) | 103 | 147 | 70.1 | /mnt/stockage/packages/f43/kmousetool/po/nb/kmousetool.po | 
+ | [nds](/f43/language/nds) | 103 | 147 | 70.1 | /mnt/stockage/packages/f43/kmousetool/po/nds/kmousetool.po | 
+ | [hr](/f43/language/hr) | 101 | 147 | 68.7 | /mnt/stockage/packages/f43/kmousetool/po/hr/kmousetool.po | 
+ | [ja](/f43/language/ja) | 101 | 147 | 68.7 | /mnt/stockage/packages/f43/kmousetool/po/ja/kmousetool.po | 
+ | [km](/f43/language/km) | 101 | 147 | 68.7 | /mnt/stockage/packages/f43/kmousetool/po/km/kmousetool.po | 
+ | [ml](/f43/language/ml) | 101 | 147 | 68.7 | /mnt/stockage/packages/f43/kmousetool/po/ml/kmousetool.po | 
+ | [th](/f43/language/th) | 101 | 147 | 68.7 | /mnt/stockage/packages/f43/kmousetool/po/th/kmousetool.po | 
+ | [ku](/f43/language/ku) | 100 | 147 | 68.0 | /mnt/stockage/packages/f43/kmousetool/po/ku/kmousetool.po | 
+ | [ne](/f43/language/ne) | 94 | 147 | 63.9 | /mnt/stockage/packages/f43/kmousetool/po/ne/kmousetool.po | 
+ | [fa](/f43/language/fa) | 93 | 147 | 63.3 | /mnt/stockage/packages/f43/kmousetool/po/fa/kmousetool.po | 
+ | [mk](/f43/language/mk) | 93 | 147 | 63.3 | /mnt/stockage/packages/f43/kmousetool/po/mk/kmousetool.po | 
+ | [ms](/f43/language/ms) | 93 | 147 | 63.3 | /mnt/stockage/packages/f43/kmousetool/po/ms/kmousetool.po | 
+ | [tg](/f43/language/tg) | 93 | 147 | 63.3 | /mnt/stockage/packages/f43/kmousetool/po/tg/kmousetool.po | 
+ | [ta](/f43/language/ta) | 90 | 147 | 61.2 | /mnt/stockage/packages/f43/kmousetool/po/ta/kmousetool.po | 
+ | [br](/f43/language/br) | 71 | 147 | 48.3 | /mnt/stockage/packages/f43/kmousetool/po/br/kmousetool.po | 
+ | [hi](/f43/language/hi) | 54 | 147 | 36.7 | /mnt/stockage/packages/f43/kmousetool/po/hi/kmousetool.po | 
+ | [hne](/f43/language/hne) | 54 | 147 | 36.7 | /mnt/stockage/packages/f43/kmousetool/po/hne/kmousetool.po | 
+ | [cy](/f43/language/cy) | 47 | 147 | 32.0 | /mnt/stockage/packages/f43/kmousetool/po/cy/kmousetool.po | 
+ | [pa](/f43/language/pa) | 34 | 147 | 23.1 | /mnt/stockage/packages/f43/kmousetool/po/pa/kmousetool.po | 
+ | [mr](/f43/language/mr) | 32 | 147 | 21.8 | /mnt/stockage/packages/f43/kmousetool/po/mr/kmousetool.po | 
+ | [ug](/f43/language/ug) | 28 | 147 | 19.0 | /mnt/stockage/packages/f43/kmousetool/po/ug/kmousetool.po | 
+ | [sq](/f43/language/sq) | 18 | 147 | 12.2 | /mnt/stockage/packages/f43/kmousetool/po/sq/kmousetool.po | 
+ | [be](/f43/language/be) | 12 | 147 | 8.2 | /mnt/stockage/packages/f43/kmousetool/po/be/kmousetool.po | 
+ | [oc](/f43/language/oc) | 12 | 147 | 8.2 | /mnt/stockage/packages/f43/kmousetool/po/oc/kmousetool.po | 
+ | [lt](/f43/language/lt) | 8 | 147 | 5.4 | /mnt/stockage/packages/f43/kmousetool/po/lt/kmousetool.po | 
+ | [ast](/f43/language/ast) | 4 | 147 | 2.7 | /mnt/stockage/packages/f43/kmousetool/po/ast/kmousetool.po | 
+ | [se](/f43/language/se) | 0 | 147 | 0.0 | /mnt/stockage/packages/f43/kmousetool/po/se/kmousetool.po | 
 {.sortable}
 
 

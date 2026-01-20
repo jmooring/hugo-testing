@@ -18,11 +18,11 @@ The package fcitx5-libthai (version 5.0.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [da]({{< ref "/f33/language/da.md" >}}) | 20 | 20 | 100.0 | /mnt/stockage/packages/f33/fcitx5-libthai/po/da.po | 
- | [ja]({{< ref "/f33/language/ja.md" >}}) | 20 | 20 | 100.0 | /mnt/stockage/packages/f33/fcitx5-libthai/po/ja.po | 
- | [zh_Hans]({{< ref "/f33/language/zh_Hans.md" >}}) | 20 | 20 | 100.0 | /mnt/stockage/packages/f33/fcitx5-libthai/po/zh_CN.po | 
- | [ko]({{< ref "/f33/language/ko.md" >}}) | 16 | 20 | 80.0 | /mnt/stockage/packages/f33/fcitx5-libthai/po/ko.po | 
- | [he]({{< ref "/f33/language/he.md" >}}) | 2 | 20 | 10.0 | /mnt/stockage/packages/f33/fcitx5-libthai/po/he.po | 
+ | [da](/f33/language/da) | 20 | 20 | 100.0 | /mnt/stockage/packages/f33/fcitx5-libthai/po/da.po | 
+ | [ja](/f33/language/ja) | 20 | 20 | 100.0 | /mnt/stockage/packages/f33/fcitx5-libthai/po/ja.po | 
+ | [zh_Hans](/f33/language/zh_Hans) | 20 | 20 | 100.0 | /mnt/stockage/packages/f33/fcitx5-libthai/po/zh_CN.po | 
+ | [ko](/f33/language/ko) | 16 | 20 | 80.0 | /mnt/stockage/packages/f33/fcitx5-libthai/po/ko.po | 
+ | [he](/f33/language/he) | 2 | 20 | 10.0 | /mnt/stockage/packages/f33/fcitx5-libthai/po/he.po | 
 {.sortable}
 
 

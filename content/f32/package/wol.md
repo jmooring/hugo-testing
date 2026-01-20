@@ -18,11 +18,11 @@ The package wol (version 0.7.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f32/language/de.md" >}}) | 298 | 298 | 100.0 | /mnt/stockage/packages/f32/wol/po/de.po | 
- | [sv]({{< ref "/f32/language/sv.md" >}}) | 298 | 298 | 100.0 | /mnt/stockage/packages/f32/wol/po/sv.po | 
- | [es]({{< ref "/f32/language/es.md" >}}) | 293 | 298 | 98.3 | /mnt/stockage/packages/f32/wol/po/es.po | 
- | [fr]({{< ref "/f32/language/fr.md" >}}) | 175 | 298 | 58.7 | /mnt/stockage/packages/f32/wol/po/fr.po | 
- | [it]({{< ref "/f32/language/it.md" >}}) | 175 | 298 | 58.7 | /mnt/stockage/packages/f32/wol/po/it.po | 
+ | [de](/f32/language/de) | 298 | 298 | 100.0 | /mnt/stockage/packages/f32/wol/po/de.po | 
+ | [sv](/f32/language/sv) | 298 | 298 | 100.0 | /mnt/stockage/packages/f32/wol/po/sv.po | 
+ | [es](/f32/language/es) | 293 | 298 | 98.3 | /mnt/stockage/packages/f32/wol/po/es.po | 
+ | [fr](/f32/language/fr) | 175 | 298 | 58.7 | /mnt/stockage/packages/f32/wol/po/fr.po | 
+ | [it](/f32/language/it) | 175 | 298 | 58.7 | /mnt/stockage/packages/f32/wol/po/it.po | 
 {.sortable}
 
 

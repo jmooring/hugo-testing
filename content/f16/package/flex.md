@@ -18,22 +18,22 @@ The package flex (version 2.5.35):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f16/language/de.md" >}}) | 1069 | 1069 | 100.0 | /mnt/stockage/packages/f16/flex/po/de.po | 
- | [nl]({{< ref "/f16/language/nl.md" >}}) | 1069 | 1069 | 100.0 | /mnt/stockage/packages/f16/flex/po/nl.po | 
- | [pl]({{< ref "/f16/language/pl.md" >}}) | 1069 | 1069 | 100.0 | /mnt/stockage/packages/f16/flex/po/pl.po | 
- | [vi]({{< ref "/f16/language/vi.md" >}}) | 1069 | 1069 | 100.0 | /mnt/stockage/packages/f16/flex/po/vi.po | 
- | [ca]({{< ref "/f16/language/ca.md" >}}) | 1052 | 1069 | 98.4 | /mnt/stockage/packages/f16/flex/po/ca.po | 
- | [fr]({{< ref "/f16/language/fr.md" >}}) | 1052 | 1069 | 98.4 | /mnt/stockage/packages/f16/flex/po/fr.po | 
- | [ga]({{< ref "/f16/language/ga.md" >}}) | 1052 | 1069 | 98.4 | /mnt/stockage/packages/f16/flex/po/ga.po | 
- | [ro]({{< ref "/f16/language/ro.md" >}}) | 1052 | 1069 | 98.4 | /mnt/stockage/packages/f16/flex/po/ro.po | 
- | [sv]({{< ref "/f16/language/sv.md" >}}) | 1052 | 1069 | 98.4 | /mnt/stockage/packages/f16/flex/po/sv.po | 
- | [tr]({{< ref "/f16/language/tr.md" >}}) | 1052 | 1069 | 98.4 | /mnt/stockage/packages/f16/flex/po/tr.po | 
- | [pt_BR]({{< ref "/f16/language/pt_BR.md" >}}) | 728 | 1069 | 68.1 | /mnt/stockage/packages/f16/flex/po/pt_BR.po | 
- | [ru]({{< ref "/f16/language/ru.md" >}}) | 614 | 1069 | 57.4 | /mnt/stockage/packages/f16/flex/po/ru.po | 
- | [es]({{< ref "/f16/language/es.md" >}}) | 609 | 1069 | 57.0 | /mnt/stockage/packages/f16/flex/po/es.po | 
- | [da]({{< ref "/f16/language/da.md" >}}) | 546 | 1069 | 51.1 | /mnt/stockage/packages/f16/flex/po/da.po | 
- | [ko]({{< ref "/f16/language/ko.md" >}}) | 536 | 1069 | 50.1 | /mnt/stockage/packages/f16/flex/po/ko.po | 
- | [zh_Hans]({{< ref "/f16/language/zh_Hans.md" >}}) | 205 | 1069 | 19.2 | /mnt/stockage/packages/f16/flex/po/zh_CN.po | 
+ | [de](/f16/language/de) | 1069 | 1069 | 100.0 | /mnt/stockage/packages/f16/flex/po/de.po | 
+ | [nl](/f16/language/nl) | 1069 | 1069 | 100.0 | /mnt/stockage/packages/f16/flex/po/nl.po | 
+ | [pl](/f16/language/pl) | 1069 | 1069 | 100.0 | /mnt/stockage/packages/f16/flex/po/pl.po | 
+ | [vi](/f16/language/vi) | 1069 | 1069 | 100.0 | /mnt/stockage/packages/f16/flex/po/vi.po | 
+ | [ca](/f16/language/ca) | 1052 | 1069 | 98.4 | /mnt/stockage/packages/f16/flex/po/ca.po | 
+ | [fr](/f16/language/fr) | 1052 | 1069 | 98.4 | /mnt/stockage/packages/f16/flex/po/fr.po | 
+ | [ga](/f16/language/ga) | 1052 | 1069 | 98.4 | /mnt/stockage/packages/f16/flex/po/ga.po | 
+ | [ro](/f16/language/ro) | 1052 | 1069 | 98.4 | /mnt/stockage/packages/f16/flex/po/ro.po | 
+ | [sv](/f16/language/sv) | 1052 | 1069 | 98.4 | /mnt/stockage/packages/f16/flex/po/sv.po | 
+ | [tr](/f16/language/tr) | 1052 | 1069 | 98.4 | /mnt/stockage/packages/f16/flex/po/tr.po | 
+ | [pt_BR](/f16/language/pt_BR) | 728 | 1069 | 68.1 | /mnt/stockage/packages/f16/flex/po/pt_BR.po | 
+ | [ru](/f16/language/ru) | 614 | 1069 | 57.4 | /mnt/stockage/packages/f16/flex/po/ru.po | 
+ | [es](/f16/language/es) | 609 | 1069 | 57.0 | /mnt/stockage/packages/f16/flex/po/es.po | 
+ | [da](/f16/language/da) | 546 | 1069 | 51.1 | /mnt/stockage/packages/f16/flex/po/da.po | 
+ | [ko](/f16/language/ko) | 536 | 1069 | 50.1 | /mnt/stockage/packages/f16/flex/po/ko.po | 
+ | [zh_Hans](/f16/language/zh_Hans) | 205 | 1069 | 19.2 | /mnt/stockage/packages/f16/flex/po/zh_CN.po | 
 {.sortable}
 
 

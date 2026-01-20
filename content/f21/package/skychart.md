@@ -18,39 +18,39 @@ The package skychart (version 3.10):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [lt]({{< ref "/f21/language/lt.md" >}}) | 1702 | 1702 | 100.0 | /mnt/stockage/packages/f21/skychart/tools/data/language/lclstrconsts.lt.po | 
- | [pt]({{< ref "/f21/language/pt.md" >}}) | 6411 | 6411 | 100.0 | /mnt/stockage/packages/f21/skychart/tools/data/language/lclstrconsts.pt.po/mnt/stockage/packages/f21/skychart/tools/data/language/skychart.pt.po | 
- | [pt_BR]({{< ref "/f21/language/pt_BR.md" >}}) | 6350 | 6350 | 100.0 | /mnt/stockage/packages/f21/skychart/tools/data/language/lclstrconsts.pt_BR.po/mnt/stockage/packages/f21/skychart/tools/data/language/skychart.pt_BR.po | 
- | [ru]({{< ref "/f21/language/ru.md" >}}) | 1702 | 1702 | 100.0 | /mnt/stockage/packages/f21/skychart/tools/data/language/lclstrconsts.ru.po | 
- | [es]({{< ref "/f21/language/es.md" >}}) | 6360 | 6411 | 99.2 | /mnt/stockage/packages/f21/skychart/tools/data/language/lclstrconsts.es.po/mnt/stockage/packages/f21/skychart/tools/data/language/skychart.es.po | 
- | [nl]({{< ref "/f21/language/nl.md" >}}) | 6326 | 6411 | 98.7 | /mnt/stockage/packages/f21/skychart/tools/data/language/lclstrconsts.nl.po/mnt/stockage/packages/f21/skychart/tools/data/language/skychart.nl.po | 
- | [it]({{< ref "/f21/language/it.md" >}}) | 6190 | 6411 | 96.6 | /mnt/stockage/packages/f21/skychart/tools/data/language/lclstrconsts.it.po/mnt/stockage/packages/f21/skychart/tools/data/language/skychart.it.po | 
- | [he]({{< ref "/f21/language/he.md" >}}) | 1555 | 1702 | 91.4 | /mnt/stockage/packages/f21/skychart/tools/data/language/lclstrconsts.he.po | 
- | [th]({{< ref "/f21/language/th.md" >}}) | 4205 | 4709 | 89.3 | /mnt/stockage/packages/f21/skychart/tools/data/language/skychart.th.po | 
- | [en_US]({{< ref "/f21/language/en_US.md" >}}) | 4194 | 4709 | 89.1 | /mnt/stockage/packages/f21/skychart/tools/data/language/skychart.sl.po | 
- | [sv]({{< ref "/f21/language/sv.md" >}}) | 4187 | 4709 | 88.9 | /mnt/stockage/packages/f21/skychart/tools/data/language/skychart.sv.po | 
- | [hu]({{< ref "/f21/language/hu.md" >}}) | 4099 | 4709 | 87.0 | /mnt/stockage/packages/f21/skychart/tools/data/language/skychart.hu.po | 
- | [ca]({{< ref "/f21/language/ca.md" >}}) | 5484 | 6411 | 85.5 | /mnt/stockage/packages/f21/skychart/tools/data/language/lclstrconsts.ca.po/mnt/stockage/packages/f21/skychart/tools/data/language/skychart.ca.po | 
- | [de]({{< ref "/f21/language/de.md" >}}) | 5420 | 6411 | 84.5 | /mnt/stockage/packages/f21/skychart/tools/data/language/lclstrconsts.de.po/mnt/stockage/packages/f21/skychart/tools/data/language/skychart.de.po | 
- | [ru_UA]({{< ref "/f21/language/ru_UA.md" >}}) | 3874 | 4709 | 82.3 | /mnt/stockage/packages/f21/skychart/tools/data/language/skychart.ru.po | 
- | [nb_NO]({{< ref "/f21/language/nb_NO.md" >}}) | 8802 | 11120 | 79.2 | /mnt/stockage/packages/f21/skychart/tools/data/language/lclstrconsts.no.po/mnt/stockage/packages/f21/skychart/tools/data/language/skychart.nb.po/mnt/stockage/packages/f21/skychart/tools/data/language/skychart.no.po | 
- | [is]({{< ref "/f21/language/is.md" >}}) | 4395 | 5573 | 78.9 | /mnt/stockage/packages/f21/skychart/tools/data/language/lclstrconsts.is.po/mnt/stockage/packages/f21/skychart/tools/data/language/skychart.is.po | 
- | [cs]({{< ref "/f21/language/cs.md" >}}) | 5030 | 6411 | 78.5 | /mnt/stockage/packages/f21/skychart/tools/data/language/lclstrconsts.cs.po/mnt/stockage/packages/f21/skychart/tools/data/language/skychart.cs.po | 
- | [uk]({{< ref "/f21/language/uk.md" >}}) | 4879 | 6411 | 76.1 | /mnt/stockage/packages/f21/skychart/tools/data/language/lclstrconsts.uk.po/mnt/stockage/packages/f21/skychart/tools/data/language/skychart.uk.po | 
- | [error]({{< ref "/f21/language/error.md" >}}) | 1886 | 2592 | 72.8 | /mnt/stockage/packages/f21/skychart/tools/data/language/lclstrconsts.plwin.po/mnt/stockage/packages/f21/skychart/tools/data/language/lclstrconsts.pliso.po/mnt/stockage/packages/f21/skychart/tools/data/language/lclstrconsts.pb.po | 
- | [zh_Hant]({{< ref "/f21/language/zh_Hant.md" >}}) | 3260 | 4709 | 69.2 | /mnt/stockage/packages/f21/skychart/tools/data/language/skychart.zh_TW.po | 
- | [fr]({{< ref "/f21/language/fr.md" >}}) | 13448 | 20538 | 65.5 | /mnt/stockage/packages/f21/skychart/tools/data/language/lclstrconsts.fr.po/mnt/stockage/packages/f21/skychart/tools/data/language/skychart.fr.po/mnt/stockage/packages/f21/skychart/tools/data/language/skychart.pl.po/mnt/stockage/packages/f21/skychart/tools/data/language/skychart.en.po/mnt/stockage/packages/f21/skychart/tools/data/language/skychart.hr.po | 
- | [zh_Hans]({{< ref "/f21/language/zh_Hans.md" >}}) | 8756 | 13631 | 64.2 | /mnt/stockage/packages/f21/skychart/tools/data/language/lclstrconsts.zh-cn.po/mnt/stockage/packages/f21/skychart/tools/data/language/lclstrconsts.zh.po/mnt/stockage/packages/f21/skychart/tools/data/language/lclstrconsts.zh_CN.po/mnt/stockage/packages/f21/skychart/tools/data/language/skychart.zh_CN.po/mnt/stockage/packages/f21/skychart/tools/data/language/skychart.zh.po | 
- | [el]({{< ref "/f21/language/el.md" >}}) | 3776 | 6350 | 59.5 | /mnt/stockage/packages/f21/skychart/tools/data/language/lclstrconsts.el.po/mnt/stockage/packages/f21/skychart/tools/data/language/skychart.el.po | 
- | [id]({{< ref "/f21/language/id.md" >}}) | 760 | 1702 | 44.7 | /mnt/stockage/packages/f21/skychart/tools/data/language/lclstrconsts.id.po | 
- | [sk]({{< ref "/f21/language/sk.md" >}}) | 710 | 1702 | 41.7 | /mnt/stockage/packages/f21/skychart/tools/data/language/lclstrconsts.sk.po | 
- | [pl]({{< ref "/f21/language/pl.md" >}}) | 507 | 1702 | 29.8 | /mnt/stockage/packages/f21/skychart/tools/data/language/lclstrconsts.pl.po | 
- | [fi]({{< ref "/f21/language/fi.md" >}}) | 235 | 1702 | 13.8 | /mnt/stockage/packages/f21/skychart/tools/data/language/lclstrconsts.fi.po | 
- | [tr]({{< ref "/f21/language/tr.md" >}}) | 785 | 6411 | 12.2 | /mnt/stockage/packages/f21/skychart/tools/data/language/lclstrconsts.tr.po/mnt/stockage/packages/f21/skychart/tools/data/language/skychart.tr.po | 
- | [ml]({{< ref "/f21/language/ml.md" >}}) | 136 | 4709 | 2.9 | /mnt/stockage/packages/f21/skychart/tools/data/language/skychart.ml.po | 
- | [fa]({{< ref "/f21/language/fa.md" >}}) | 25 | 4709 | 0.5 | /mnt/stockage/packages/f21/skychart/tools/data/language/skychart.fa.po | 
- | [ja]({{< ref "/f21/language/ja.md" >}}) | 8 | 4709 | 0.2 | /mnt/stockage/packages/f21/skychart/tools/data/language/skychart.ja.po | 
- | [si]({{< ref "/f21/language/si.md" >}}) | 6 | 4709 | 0.1 | /mnt/stockage/packages/f21/skychart/tools/data/language/skychart.si.po | 
+ | [lt](/f21/language/lt) | 1702 | 1702 | 100.0 | /mnt/stockage/packages/f21/skychart/tools/data/language/lclstrconsts.lt.po | 
+ | [pt](/f21/language/pt) | 6411 | 6411 | 100.0 | /mnt/stockage/packages/f21/skychart/tools/data/language/lclstrconsts.pt.po/mnt/stockage/packages/f21/skychart/tools/data/language/skychart.pt.po | 
+ | [pt_BR](/f21/language/pt_BR) | 6350 | 6350 | 100.0 | /mnt/stockage/packages/f21/skychart/tools/data/language/lclstrconsts.pt_BR.po/mnt/stockage/packages/f21/skychart/tools/data/language/skychart.pt_BR.po | 
+ | [ru](/f21/language/ru) | 1702 | 1702 | 100.0 | /mnt/stockage/packages/f21/skychart/tools/data/language/lclstrconsts.ru.po | 
+ | [es](/f21/language/es) | 6360 | 6411 | 99.2 | /mnt/stockage/packages/f21/skychart/tools/data/language/lclstrconsts.es.po/mnt/stockage/packages/f21/skychart/tools/data/language/skychart.es.po | 
+ | [nl](/f21/language/nl) | 6326 | 6411 | 98.7 | /mnt/stockage/packages/f21/skychart/tools/data/language/lclstrconsts.nl.po/mnt/stockage/packages/f21/skychart/tools/data/language/skychart.nl.po | 
+ | [it](/f21/language/it) | 6190 | 6411 | 96.6 | /mnt/stockage/packages/f21/skychart/tools/data/language/lclstrconsts.it.po/mnt/stockage/packages/f21/skychart/tools/data/language/skychart.it.po | 
+ | [he](/f21/language/he) | 1555 | 1702 | 91.4 | /mnt/stockage/packages/f21/skychart/tools/data/language/lclstrconsts.he.po | 
+ | [th](/f21/language/th) | 4205 | 4709 | 89.3 | /mnt/stockage/packages/f21/skychart/tools/data/language/skychart.th.po | 
+ | [en_US](/f21/language/en_US) | 4194 | 4709 | 89.1 | /mnt/stockage/packages/f21/skychart/tools/data/language/skychart.sl.po | 
+ | [sv](/f21/language/sv) | 4187 | 4709 | 88.9 | /mnt/stockage/packages/f21/skychart/tools/data/language/skychart.sv.po | 
+ | [hu](/f21/language/hu) | 4099 | 4709 | 87.0 | /mnt/stockage/packages/f21/skychart/tools/data/language/skychart.hu.po | 
+ | [ca](/f21/language/ca) | 5484 | 6411 | 85.5 | /mnt/stockage/packages/f21/skychart/tools/data/language/lclstrconsts.ca.po/mnt/stockage/packages/f21/skychart/tools/data/language/skychart.ca.po | 
+ | [de](/f21/language/de) | 5420 | 6411 | 84.5 | /mnt/stockage/packages/f21/skychart/tools/data/language/lclstrconsts.de.po/mnt/stockage/packages/f21/skychart/tools/data/language/skychart.de.po | 
+ | [ru_UA](/f21/language/ru_UA) | 3874 | 4709 | 82.3 | /mnt/stockage/packages/f21/skychart/tools/data/language/skychart.ru.po | 
+ | [nb_NO](/f21/language/nb_NO) | 8802 | 11120 | 79.2 | /mnt/stockage/packages/f21/skychart/tools/data/language/lclstrconsts.no.po/mnt/stockage/packages/f21/skychart/tools/data/language/skychart.nb.po/mnt/stockage/packages/f21/skychart/tools/data/language/skychart.no.po | 
+ | [is](/f21/language/is) | 4395 | 5573 | 78.9 | /mnt/stockage/packages/f21/skychart/tools/data/language/lclstrconsts.is.po/mnt/stockage/packages/f21/skychart/tools/data/language/skychart.is.po | 
+ | [cs](/f21/language/cs) | 5030 | 6411 | 78.5 | /mnt/stockage/packages/f21/skychart/tools/data/language/lclstrconsts.cs.po/mnt/stockage/packages/f21/skychart/tools/data/language/skychart.cs.po | 
+ | [uk](/f21/language/uk) | 4879 | 6411 | 76.1 | /mnt/stockage/packages/f21/skychart/tools/data/language/lclstrconsts.uk.po/mnt/stockage/packages/f21/skychart/tools/data/language/skychart.uk.po | 
+ | [error](/f21/language/error) | 1886 | 2592 | 72.8 | /mnt/stockage/packages/f21/skychart/tools/data/language/lclstrconsts.plwin.po/mnt/stockage/packages/f21/skychart/tools/data/language/lclstrconsts.pliso.po/mnt/stockage/packages/f21/skychart/tools/data/language/lclstrconsts.pb.po | 
+ | [zh_Hant](/f21/language/zh_Hant) | 3260 | 4709 | 69.2 | /mnt/stockage/packages/f21/skychart/tools/data/language/skychart.zh_TW.po | 
+ | [fr](/f21/language/fr) | 13448 | 20538 | 65.5 | /mnt/stockage/packages/f21/skychart/tools/data/language/lclstrconsts.fr.po/mnt/stockage/packages/f21/skychart/tools/data/language/skychart.fr.po/mnt/stockage/packages/f21/skychart/tools/data/language/skychart.pl.po/mnt/stockage/packages/f21/skychart/tools/data/language/skychart.en.po/mnt/stockage/packages/f21/skychart/tools/data/language/skychart.hr.po | 
+ | [zh_Hans](/f21/language/zh_Hans) | 8756 | 13631 | 64.2 | /mnt/stockage/packages/f21/skychart/tools/data/language/lclstrconsts.zh-cn.po/mnt/stockage/packages/f21/skychart/tools/data/language/lclstrconsts.zh.po/mnt/stockage/packages/f21/skychart/tools/data/language/lclstrconsts.zh_CN.po/mnt/stockage/packages/f21/skychart/tools/data/language/skychart.zh_CN.po/mnt/stockage/packages/f21/skychart/tools/data/language/skychart.zh.po | 
+ | [el](/f21/language/el) | 3776 | 6350 | 59.5 | /mnt/stockage/packages/f21/skychart/tools/data/language/lclstrconsts.el.po/mnt/stockage/packages/f21/skychart/tools/data/language/skychart.el.po | 
+ | [id](/f21/language/id) | 760 | 1702 | 44.7 | /mnt/stockage/packages/f21/skychart/tools/data/language/lclstrconsts.id.po | 
+ | [sk](/f21/language/sk) | 710 | 1702 | 41.7 | /mnt/stockage/packages/f21/skychart/tools/data/language/lclstrconsts.sk.po | 
+ | [pl](/f21/language/pl) | 507 | 1702 | 29.8 | /mnt/stockage/packages/f21/skychart/tools/data/language/lclstrconsts.pl.po | 
+ | [fi](/f21/language/fi) | 235 | 1702 | 13.8 | /mnt/stockage/packages/f21/skychart/tools/data/language/lclstrconsts.fi.po | 
+ | [tr](/f21/language/tr) | 785 | 6411 | 12.2 | /mnt/stockage/packages/f21/skychart/tools/data/language/lclstrconsts.tr.po/mnt/stockage/packages/f21/skychart/tools/data/language/skychart.tr.po | 
+ | [ml](/f21/language/ml) | 136 | 4709 | 2.9 | /mnt/stockage/packages/f21/skychart/tools/data/language/skychart.ml.po | 
+ | [fa](/f21/language/fa) | 25 | 4709 | 0.5 | /mnt/stockage/packages/f21/skychart/tools/data/language/skychart.fa.po | 
+ | [ja](/f21/language/ja) | 8 | 4709 | 0.2 | /mnt/stockage/packages/f21/skychart/tools/data/language/skychart.ja.po | 
+ | [si](/f21/language/si) | 6 | 4709 | 0.1 | /mnt/stockage/packages/f21/skychart/tools/data/language/skychart.si.po | 
 {.sortable}
 
 

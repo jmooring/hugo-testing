@@ -38,23 +38,23 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [warmux]({{< ref "/f23/package/warmux.md" >}}) | 1273 | 2744 | 46.4 | Treylyansow <treylyansow@kernewegva.com> | 
- | [isomaster]({{< ref "/f23/package/isomaster.md" >}}) | 11 | 674 | 1.6 | http://littlesvr.ca/ostd/ | 
- | [blivet-gui]({{< ref "/f23/package/blivet-gui.md" >}}) | 0 | 1426 | 0.0 | Cornish | 
- | [dnf-plugin-system-upgrade]({{< ref "/f23/package/dnf-plugin-system-upgrade.md" >}}) | 0 | 422 | 0.0 | Cornish (United Kingdom) | 
- | [dnf-plugins-extras]({{< ref "/f23/package/dnf-plugins-extras.md" >}}) | 0 | 750 | 0.0 | Cornish (United Kingdom) | 
- | [entangle]({{< ref "/f23/package/entangle.md" >}}) | 0 | 1868 | 0.0 | Cornish | 
- | [initial-setup]({{< ref "/f23/package/initial-setup.md" >}}) | 0 | 66 | 0.0 | Cornish (United Kingdom) | 
- | [libosinfo]({{< ref "/f23/package/libosinfo.md" >}}) | 0 | 3742 | 0.0 | Cornish (United Kingdom) | 
- | [libvirt-glib]({{< ref "/f23/package/libvirt-glib.md" >}}) | 0 | 276 | 0.0 | Cornish | 
- | [libvirt-sandbox]({{< ref "/f23/package/libvirt-sandbox.md" >}}) | 0 | 1234 | 0.0 | Cornish | 
- | [pykickstart]({{< ref "/f23/package/pykickstart.md" >}}) | 0 | 2552 | 0.0 | Cornish (United Kingdom) | 
- | [python-blivet]({{< ref "/f23/package/python-blivet.md" >}}) | 0 | 1392 | 0.0 | Cornish | 
- | [python-fedora]({{< ref "/f23/package/python-fedora.md" >}}) | 0 | 428 | 0.0 | Cornish (United Kingdom) | 
- | [python-meh]({{< ref "/f23/package/python-meh.md" >}}) | 0 | 218 | 0.0 | Cornish (United Kingdom) | 
- | [supertuxkart]({{< ref "/f23/package/supertuxkart.md" >}}) | 0 | 0 | 0.0 |  | 
- | [vidalia]({{< ref "/f23/package/vidalia.md" >}}) | 0 | 10373 | 0.0 | LANGUAGE <LL@li.org> | 
- | [virt-viewer]({{< ref "/f23/package/virt-viewer.md" >}}) | 0 | 1384 | 0.0 | Cornish | 
+ | [warmux](/f23/package/warmux) | 1273 | 2744 | 46.4 | Treylyansow <treylyansow@kernewegva.com> | 
+ | [isomaster](/f23/package/isomaster) | 11 | 674 | 1.6 | http://littlesvr.ca/ostd/ | 
+ | [blivet-gui](/f23/package/blivet-gui) | 0 | 1426 | 0.0 | Cornish | 
+ | [dnf-plugin-system-upgrade](/f23/package/dnf-plugin-system-upgrade) | 0 | 422 | 0.0 | Cornish (United Kingdom) | 
+ | [dnf-plugins-extras](/f23/package/dnf-plugins-extras) | 0 | 750 | 0.0 | Cornish (United Kingdom) | 
+ | [entangle](/f23/package/entangle) | 0 | 1868 | 0.0 | Cornish | 
+ | [initial-setup](/f23/package/initial-setup) | 0 | 66 | 0.0 | Cornish (United Kingdom) | 
+ | [libosinfo](/f23/package/libosinfo) | 0 | 3742 | 0.0 | Cornish (United Kingdom) | 
+ | [libvirt-glib](/f23/package/libvirt-glib) | 0 | 276 | 0.0 | Cornish | 
+ | [libvirt-sandbox](/f23/package/libvirt-sandbox) | 0 | 1234 | 0.0 | Cornish | 
+ | [pykickstart](/f23/package/pykickstart) | 0 | 2552 | 0.0 | Cornish (United Kingdom) | 
+ | [python-blivet](/f23/package/python-blivet) | 0 | 1392 | 0.0 | Cornish | 
+ | [python-fedora](/f23/package/python-fedora) | 0 | 428 | 0.0 | Cornish (United Kingdom) | 
+ | [python-meh](/f23/package/python-meh) | 0 | 218 | 0.0 | Cornish (United Kingdom) | 
+ | [supertuxkart](/f23/package/supertuxkart) | 0 | 0 | 0.0 |  | 
+ | [vidalia](/f23/package/vidalia) | 0 | 10373 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [virt-viewer](/f23/package/virt-viewer) | 0 | 1384 | 0.0 | Cornish | 
 {.sortable}
 
 
@@ -66,7 +66,7 @@ We use the po metadata to get the language code and the team, but sometimes it f
 
 | Package | Lang from file path/name | polib error | Team |
 |---------|--------------------------|-------------|------|
- | [supertuxkart]({{< ref "/f23/package/supertuxkart.md" >}}) | /mnt/stockage/packages/f23/supertuxkart/data/po/kw.po | error-os |  | 
+ | [supertuxkart](/f23/package/supertuxkart) | /mnt/stockage/packages/f23/supertuxkart/data/po/kw.po | error-os |  | 
 {.sortable}
 
 
@@ -77,7 +77,7 @@ We use the calcstats from translate toolkit to get the translation progress, but
 
 | Package | Lang from file path/name | Team |
 |---------|--------------------------|------|
- | [supertuxkart]({{< ref "/f23/package/supertuxkart.md" >}}) | /mnt/stockage/packages/f23/supertuxkart/data/po/kw.po |  | 
+ | [supertuxkart](/f23/package/supertuxkart) | /mnt/stockage/packages/f23/supertuxkart/data/po/kw.po |  | 
 {.sortable}
 
 

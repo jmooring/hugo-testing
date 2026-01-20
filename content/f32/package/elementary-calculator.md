@@ -18,88 +18,88 @@ The package elementary-calculator (version 1.6.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f32/language/ca.md" >}}) | 130 | 130 | 100.0 | /mnt/stockage/packages/f32/elementary-calculator/po/ca.po/mnt/stockage/packages/f32/elementary-calculator/po/extra/ca.po | 
- | [es]({{< ref "/f32/language/es.md" >}}) | 130 | 130 | 100.0 | /mnt/stockage/packages/f32/elementary-calculator/po/es.po/mnt/stockage/packages/f32/elementary-calculator/po/extra/es.po | 
- | [fr]({{< ref "/f32/language/fr.md" >}}) | 130 | 130 | 100.0 | /mnt/stockage/packages/f32/elementary-calculator/po/fr.po/mnt/stockage/packages/f32/elementary-calculator/po/extra/fr.po | 
- | [he]({{< ref "/f32/language/he.md" >}}) | 130 | 130 | 100.0 | /mnt/stockage/packages/f32/elementary-calculator/po/he.po/mnt/stockage/packages/f32/elementary-calculator/po/extra/he.po | 
- | [it]({{< ref "/f32/language/it.md" >}}) | 130 | 130 | 100.0 | /mnt/stockage/packages/f32/elementary-calculator/po/it.po/mnt/stockage/packages/f32/elementary-calculator/po/extra/it.po | 
- | [ja]({{< ref "/f32/language/ja.md" >}}) | 130 | 130 | 100.0 | /mnt/stockage/packages/f32/elementary-calculator/po/ja.po/mnt/stockage/packages/f32/elementary-calculator/po/extra/ja.po | 
- | [mr]({{< ref "/f32/language/mr.md" >}}) | 130 | 130 | 100.0 | /mnt/stockage/packages/f32/elementary-calculator/po/mr.po/mnt/stockage/packages/f32/elementary-calculator/po/extra/mr.po | 
- | [pt]({{< ref "/f32/language/pt.md" >}}) | 130 | 130 | 100.0 | /mnt/stockage/packages/f32/elementary-calculator/po/pt.po/mnt/stockage/packages/f32/elementary-calculator/po/extra/pt.po | 
- | [ro]({{< ref "/f32/language/ro.md" >}}) | 130 | 130 | 100.0 | /mnt/stockage/packages/f32/elementary-calculator/po/ro.po/mnt/stockage/packages/f32/elementary-calculator/po/extra/ro.po | 
- | [sr]({{< ref "/f32/language/sr.md" >}}) | 130 | 130 | 100.0 | /mnt/stockage/packages/f32/elementary-calculator/po/sr.po/mnt/stockage/packages/f32/elementary-calculator/po/extra/sr.po | 
- | [tr]({{< ref "/f32/language/tr.md" >}}) | 130 | 130 | 100.0 | /mnt/stockage/packages/f32/elementary-calculator/po/tr.po/mnt/stockage/packages/f32/elementary-calculator/po/extra/tr.po | 
- | [uk]({{< ref "/f32/language/uk.md" >}}) | 130 | 130 | 100.0 | /mnt/stockage/packages/f32/elementary-calculator/po/uk.po/mnt/stockage/packages/f32/elementary-calculator/po/extra/uk.po | 
- | [pt_BR]({{< ref "/f32/language/pt_BR.md" >}}) | 118 | 130 | 90.8 | /mnt/stockage/packages/f32/elementary-calculator/po/pt_BR.po/mnt/stockage/packages/f32/elementary-calculator/po/extra/pt_BR.po | 
- | [cs]({{< ref "/f32/language/cs.md" >}}) | 110 | 130 | 84.6 | /mnt/stockage/packages/f32/elementary-calculator/po/cs.po/mnt/stockage/packages/f32/elementary-calculator/po/extra/cs.po | 
- | [da]({{< ref "/f32/language/da.md" >}}) | 110 | 130 | 84.6 | /mnt/stockage/packages/f32/elementary-calculator/po/da.po/mnt/stockage/packages/f32/elementary-calculator/po/extra/da.po | 
- | [de]({{< ref "/f32/language/de.md" >}}) | 110 | 130 | 84.6 | /mnt/stockage/packages/f32/elementary-calculator/po/de.po/mnt/stockage/packages/f32/elementary-calculator/po/extra/de.po | 
- | [en_GB]({{< ref "/f32/language/en_GB.md" >}}) | 110 | 130 | 84.6 | /mnt/stockage/packages/f32/elementary-calculator/po/en_GB.po/mnt/stockage/packages/f32/elementary-calculator/po/extra/en_GB.po | 
- | [nl]({{< ref "/f32/language/nl.md" >}}) | 110 | 130 | 84.6 | /mnt/stockage/packages/f32/elementary-calculator/po/nl.po/mnt/stockage/packages/f32/elementary-calculator/po/extra/nl.po | 
- | [nn]({{< ref "/f32/language/nn.md" >}}) | 110 | 130 | 84.6 | /mnt/stockage/packages/f32/elementary-calculator/po/nn.po/mnt/stockage/packages/f32/elementary-calculator/po/extra/nn.po | 
- | [uz]({{< ref "/f32/language/uz.md" >}}) | 110 | 130 | 84.6 | /mnt/stockage/packages/f32/elementary-calculator/po/uz.po/mnt/stockage/packages/f32/elementary-calculator/po/extra/uz.po | 
- | [eo]({{< ref "/f32/language/eo.md" >}}) | 105 | 130 | 80.8 | /mnt/stockage/packages/f32/elementary-calculator/po/eo.po/mnt/stockage/packages/f32/elementary-calculator/po/extra/eo.po | 
- | [sl]({{< ref "/f32/language/sl.md" >}}) | 105 | 130 | 80.8 | /mnt/stockage/packages/f32/elementary-calculator/po/sl.po/mnt/stockage/packages/f32/elementary-calculator/po/extra/sl.po | 
- | [szl]({{< ref "/f32/language/szl.md" >}}) | 105 | 130 | 80.8 | /mnt/stockage/packages/f32/elementary-calculator/po/szl.po/mnt/stockage/packages/f32/elementary-calculator/po/extra/szl.po | 
- | [nb_NO]({{< ref "/f32/language/nb_NO.md" >}}) | 102 | 130 | 78.5 | /mnt/stockage/packages/f32/elementary-calculator/po/nb.po/mnt/stockage/packages/f32/elementary-calculator/po/extra/nb.po | 
- | [ar]({{< ref "/f32/language/ar.md" >}}) | 101 | 130 | 77.7 | /mnt/stockage/packages/f32/elementary-calculator/po/ar.po/mnt/stockage/packages/f32/elementary-calculator/po/extra/ar.po | 
- | [fi]({{< ref "/f32/language/fi.md" >}}) | 96 | 130 | 73.8 | /mnt/stockage/packages/f32/elementary-calculator/po/fi.po/mnt/stockage/packages/f32/elementary-calculator/po/extra/fi.po | 
- | [pl]({{< ref "/f32/language/pl.md" >}}) | 96 | 130 | 73.8 | /mnt/stockage/packages/f32/elementary-calculator/po/pl.po/mnt/stockage/packages/f32/elementary-calculator/po/extra/pl.po | 
- | [vi]({{< ref "/f32/language/vi.md" >}}) | 89 | 130 | 68.5 | /mnt/stockage/packages/f32/elementary-calculator/po/vi.po/mnt/stockage/packages/f32/elementary-calculator/po/extra/vi.po | 
- | [ru]({{< ref "/f32/language/ru.md" >}}) | 80 | 130 | 61.5 | /mnt/stockage/packages/f32/elementary-calculator/po/ru.po/mnt/stockage/packages/f32/elementary-calculator/po/extra/ru.po | 
- | [gl]({{< ref "/f32/language/gl.md" >}}) | 79 | 130 | 60.8 | /mnt/stockage/packages/f32/elementary-calculator/po/gl.po/mnt/stockage/packages/f32/elementary-calculator/po/extra/gl.po | 
- | [ko]({{< ref "/f32/language/ko.md" >}}) | 79 | 130 | 60.8 | /mnt/stockage/packages/f32/elementary-calculator/po/ko.po/mnt/stockage/packages/f32/elementary-calculator/po/extra/ko.po | 
- | [lt]({{< ref "/f32/language/lt.md" >}}) | 79 | 130 | 60.8 | /mnt/stockage/packages/f32/elementary-calculator/po/lt.po/mnt/stockage/packages/f32/elementary-calculator/po/extra/lt.po | 
- | [zh_Hant]({{< ref "/f32/language/zh_Hant.md" >}}) | 79 | 130 | 60.8 | /mnt/stockage/packages/f32/elementary-calculator/po/zh_TW.po/mnt/stockage/packages/f32/elementary-calculator/po/extra/zh_TW.po | 
- | [bs]({{< ref "/f32/language/bs.md" >}}) | 78 | 130 | 60.0 | /mnt/stockage/packages/f32/elementary-calculator/po/bs.po/mnt/stockage/packages/f32/elementary-calculator/po/extra/bs.po | 
- | [hi]({{< ref "/f32/language/hi.md" >}}) | 78 | 130 | 60.0 | /mnt/stockage/packages/f32/elementary-calculator/po/hi.po/mnt/stockage/packages/f32/elementary-calculator/po/extra/hi.po | 
- | [id]({{< ref "/f32/language/id.md" >}}) | 78 | 130 | 60.0 | /mnt/stockage/packages/f32/elementary-calculator/po/id.po/mnt/stockage/packages/f32/elementary-calculator/po/extra/id.po | 
- | [sk]({{< ref "/f32/language/sk.md" >}}) | 78 | 130 | 60.0 | /mnt/stockage/packages/f32/elementary-calculator/po/sk.po/mnt/stockage/packages/f32/elementary-calculator/po/extra/sk.po | 
- | [sv]({{< ref "/f32/language/sv.md" >}}) | 78 | 130 | 60.0 | /mnt/stockage/packages/f32/elementary-calculator/po/sv.po/mnt/stockage/packages/f32/elementary-calculator/po/extra/sv.po | 
- | [tl]({{< ref "/f32/language/tl.md" >}}) | 77 | 130 | 59.2 | /mnt/stockage/packages/f32/elementary-calculator/po/tl.po/mnt/stockage/packages/f32/elementary-calculator/po/extra/tl.po | 
- | [en_CA]({{< ref "/f32/language/en_CA.md" >}}) | 76 | 130 | 58.5 | /mnt/stockage/packages/f32/elementary-calculator/po/en_CA.po/mnt/stockage/packages/f32/elementary-calculator/po/extra/en_CA.po | 
- | [hu]({{< ref "/f32/language/hu.md" >}}) | 76 | 130 | 58.5 | /mnt/stockage/packages/f32/elementary-calculator/po/hu.po/mnt/stockage/packages/f32/elementary-calculator/po/extra/hu.po | 
- | [bg]({{< ref "/f32/language/bg.md" >}}) | 75 | 130 | 57.7 | /mnt/stockage/packages/f32/elementary-calculator/po/bg.po/mnt/stockage/packages/f32/elementary-calculator/po/extra/bg.po | 
- | [bn]({{< ref "/f32/language/bn.md" >}}) | 75 | 130 | 57.7 | /mnt/stockage/packages/f32/elementary-calculator/po/bn.po/mnt/stockage/packages/f32/elementary-calculator/po/extra/bn.po | 
- | [et]({{< ref "/f32/language/et.md" >}}) | 75 | 130 | 57.7 | /mnt/stockage/packages/f32/elementary-calculator/po/et.po/mnt/stockage/packages/f32/elementary-calculator/po/extra/et.po | 
- | [hr]({{< ref "/f32/language/hr.md" >}}) | 75 | 130 | 57.7 | /mnt/stockage/packages/f32/elementary-calculator/po/hr.po/mnt/stockage/packages/f32/elementary-calculator/po/extra/hr.po | 
- | [sq]({{< ref "/f32/language/sq.md" >}}) | 75 | 130 | 57.7 | /mnt/stockage/packages/f32/elementary-calculator/po/sq.po/mnt/stockage/packages/f32/elementary-calculator/po/extra/sq.po | 
- | [ug]({{< ref "/f32/language/ug.md" >}}) | 75 | 130 | 57.7 | /mnt/stockage/packages/f32/elementary-calculator/po/ug.po/mnt/stockage/packages/f32/elementary-calculator/po/extra/ug.po | 
- | [zh_Hans]({{< ref "/f32/language/zh_Hans.md" >}}) | 122 | 260 | 46.9 | /mnt/stockage/packages/f32/elementary-calculator/po/zh_CN.po/mnt/stockage/packages/f32/elementary-calculator/po/zh.po/mnt/stockage/packages/f32/elementary-calculator/po/extra/zh_CN.po/mnt/stockage/packages/f32/elementary-calculator/po/extra/zh.po | 
- | [ku]({{< ref "/f32/language/ku.md" >}}) | 59 | 130 | 45.4 | /mnt/stockage/packages/f32/elementary-calculator/po/ku.po/mnt/stockage/packages/f32/elementary-calculator/po/extra/ku.po | 
- | [my]({{< ref "/f32/language/my.md" >}}) | 55 | 130 | 42.3 | /mnt/stockage/packages/f32/elementary-calculator/po/my.po/mnt/stockage/packages/f32/elementary-calculator/po/extra/my.po | 
- | [ms]({{< ref "/f32/language/ms.md" >}}) | 52 | 130 | 40.0 | /mnt/stockage/packages/f32/elementary-calculator/po/ms.po/mnt/stockage/packages/f32/elementary-calculator/po/extra/ms.po | 
- | [az]({{< ref "/f32/language/az.md" >}}) | 51 | 130 | 39.2 | /mnt/stockage/packages/f32/elementary-calculator/po/az.po/mnt/stockage/packages/f32/elementary-calculator/po/extra/az.po | 
- | [ka]({{< ref "/f32/language/ka.md" >}}) | 51 | 130 | 39.2 | /mnt/stockage/packages/f32/elementary-calculator/po/ka.po/mnt/stockage/packages/f32/elementary-calculator/po/extra/ka.po | 
- | [ro_MD]({{< ref "/f32/language/ro_MD.md" >}}) | 51 | 130 | 39.2 | /mnt/stockage/packages/f32/elementary-calculator/po/mo.po/mnt/stockage/packages/f32/elementary-calculator/po/extra/mo.po | 
- | [ta]({{< ref "/f32/language/ta.md" >}}) | 51 | 130 | 39.2 | /mnt/stockage/packages/f32/elementary-calculator/po/ta.po/mnt/stockage/packages/f32/elementary-calculator/po/extra/ta.po | 
- | [fr_CA]({{< ref "/f32/language/fr_CA.md" >}}) | 49 | 130 | 37.7 | /mnt/stockage/packages/f32/elementary-calculator/po/fr_CA.po/mnt/stockage/packages/f32/elementary-calculator/po/extra/fr_CA.po | 
- | [eu]({{< ref "/f32/language/eu.md" >}}) | 45 | 130 | 34.6 | /mnt/stockage/packages/f32/elementary-calculator/po/eu.po/mnt/stockage/packages/f32/elementary-calculator/po/extra/eu.po | 
- | [en_AU]({{< ref "/f32/language/en_AU.md" >}}) | 38 | 130 | 29.2 | /mnt/stockage/packages/f32/elementary-calculator/po/en_AU.po/mnt/stockage/packages/f32/elementary-calculator/po/extra/en_AU.po | 
- | [th]({{< ref "/f32/language/th.md" >}}) | 38 | 130 | 29.2 | /mnt/stockage/packages/f32/elementary-calculator/po/th.po/mnt/stockage/packages/f32/elementary-calculator/po/extra/th.po | 
- | [lv]({{< ref "/f32/language/lv.md" >}}) | 35 | 130 | 26.9 | /mnt/stockage/packages/f32/elementary-calculator/po/lv.po/mnt/stockage/packages/f32/elementary-calculator/po/extra/lv.po | 
- | [ur]({{< ref "/f32/language/ur.md" >}}) | 34 | 130 | 26.2 | /mnt/stockage/packages/f32/elementary-calculator/po/ur.po/mnt/stockage/packages/f32/elementary-calculator/po/extra/ur.po | 
- | [el]({{< ref "/f32/language/el.md" >}}) | 28 | 130 | 21.5 | /mnt/stockage/packages/f32/elementary-calculator/po/el.po/mnt/stockage/packages/f32/elementary-calculator/po/extra/el.po | 
- | [be]({{< ref "/f32/language/be.md" >}}) | 27 | 130 | 20.8 | /mnt/stockage/packages/f32/elementary-calculator/po/be.po/mnt/stockage/packages/f32/elementary-calculator/po/extra/be.po | 
- | [cv]({{< ref "/f32/language/cv.md" >}}) | 27 | 130 | 20.8 | /mnt/stockage/packages/f32/elementary-calculator/po/cv.po/mnt/stockage/packages/f32/elementary-calculator/po/extra/cv.po | 
- | [fa]({{< ref "/f32/language/fa.md" >}}) | 27 | 130 | 20.8 | /mnt/stockage/packages/f32/elementary-calculator/po/fa.po/mnt/stockage/packages/f32/elementary-calculator/po/extra/fa.po | 
- | [lb]({{< ref "/f32/language/lb.md" >}}) | 27 | 130 | 20.8 | /mnt/stockage/packages/f32/elementary-calculator/po/lb.po/mnt/stockage/packages/f32/elementary-calculator/po/extra/lb.po | 
- | [mk]({{< ref "/f32/language/mk.md" >}}) | 27 | 130 | 20.8 | /mnt/stockage/packages/f32/elementary-calculator/po/mk.po/mnt/stockage/packages/f32/elementary-calculator/po/extra/mk.po | 
- | [ckb]({{< ref "/f32/language/ckb.md" >}}) | 26 | 130 | 20.0 | /mnt/stockage/packages/f32/elementary-calculator/po/ckb.po/mnt/stockage/packages/f32/elementary-calculator/po/extra/ckb.po | 
- | [mn]({{< ref "/f32/language/mn.md" >}}) | 24 | 130 | 18.5 | /mnt/stockage/packages/f32/elementary-calculator/po/mn.po/mnt/stockage/packages/f32/elementary-calculator/po/extra/mn.po | 
- | [mg]({{< ref "/f32/language/mg.md" >}}) | 21 | 130 | 16.2 | /mnt/stockage/packages/f32/elementary-calculator/po/mg.po/mnt/stockage/packages/f32/elementary-calculator/po/extra/mg.po | 
- | [af]({{< ref "/f32/language/af.md" >}}) | 19 | 130 | 14.6 | /mnt/stockage/packages/f32/elementary-calculator/po/af.po/mnt/stockage/packages/f32/elementary-calculator/po/extra/af.po | 
- | [hy]({{< ref "/f32/language/hy.md" >}}) | 15 | 130 | 11.5 | /mnt/stockage/packages/f32/elementary-calculator/po/hy.po/mnt/stockage/packages/f32/elementary-calculator/po/extra/hy.po | 
- | [is]({{< ref "/f32/language/is.md" >}}) | 15 | 130 | 11.5 | /mnt/stockage/packages/f32/elementary-calculator/po/is.po/mnt/stockage/packages/f32/elementary-calculator/po/extra/is.po | 
- | [jv]({{< ref "/f32/language/jv.md" >}}) | 9 | 130 | 6.9 | /mnt/stockage/packages/f32/elementary-calculator/po/jv.po/mnt/stockage/packages/f32/elementary-calculator/po/extra/jv.po | 
- | [si]({{< ref "/f32/language/si.md" >}}) | 5 | 130 | 3.8 | /mnt/stockage/packages/f32/elementary-calculator/po/si.po/mnt/stockage/packages/f32/elementary-calculator/po/extra/si.po | 
- | [sma]({{< ref "/f32/language/sma.md" >}}) | 5 | 130 | 3.8 | /mnt/stockage/packages/f32/elementary-calculator/po/sma.po/mnt/stockage/packages/f32/elementary-calculator/po/extra/sma.po | 
- | [lg]({{< ref "/f32/language/lg.md" >}}) | 4 | 130 | 3.1 | /mnt/stockage/packages/f32/elementary-calculator/po/lg.po/mnt/stockage/packages/f32/elementary-calculator/po/extra/lg.po | 
- | [ga]({{< ref "/f32/language/ga.md" >}}) | 2 | 130 | 1.5 | /mnt/stockage/packages/f32/elementary-calculator/po/ga.po/mnt/stockage/packages/f32/elementary-calculator/po/extra/ga.po | 
- | [kn]({{< ref "/f32/language/kn.md" >}}) | 2 | 130 | 1.5 | /mnt/stockage/packages/f32/elementary-calculator/po/kn.po/mnt/stockage/packages/f32/elementary-calculator/po/extra/kn.po | 
- | [sa]({{< ref "/f32/language/sa.md" >}}) | 2 | 130 | 1.5 | /mnt/stockage/packages/f32/elementary-calculator/po/sa.po/mnt/stockage/packages/f32/elementary-calculator/po/extra/sa.po | 
- | [te]({{< ref "/f32/language/te.md" >}}) | 2 | 130 | 1.5 | /mnt/stockage/packages/f32/elementary-calculator/po/te.po/mnt/stockage/packages/f32/elementary-calculator/po/extra/te.po | 
- | [ak]({{< ref "/f32/language/ak.md" >}}) | 1 | 130 | 0.8 | /mnt/stockage/packages/f32/elementary-calculator/po/ak.po/mnt/stockage/packages/f32/elementary-calculator/po/extra/ak.po | 
+ | [ca](/f32/language/ca) | 130 | 130 | 100.0 | /mnt/stockage/packages/f32/elementary-calculator/po/ca.po/mnt/stockage/packages/f32/elementary-calculator/po/extra/ca.po | 
+ | [es](/f32/language/es) | 130 | 130 | 100.0 | /mnt/stockage/packages/f32/elementary-calculator/po/es.po/mnt/stockage/packages/f32/elementary-calculator/po/extra/es.po | 
+ | [fr](/f32/language/fr) | 130 | 130 | 100.0 | /mnt/stockage/packages/f32/elementary-calculator/po/fr.po/mnt/stockage/packages/f32/elementary-calculator/po/extra/fr.po | 
+ | [he](/f32/language/he) | 130 | 130 | 100.0 | /mnt/stockage/packages/f32/elementary-calculator/po/he.po/mnt/stockage/packages/f32/elementary-calculator/po/extra/he.po | 
+ | [it](/f32/language/it) | 130 | 130 | 100.0 | /mnt/stockage/packages/f32/elementary-calculator/po/it.po/mnt/stockage/packages/f32/elementary-calculator/po/extra/it.po | 
+ | [ja](/f32/language/ja) | 130 | 130 | 100.0 | /mnt/stockage/packages/f32/elementary-calculator/po/ja.po/mnt/stockage/packages/f32/elementary-calculator/po/extra/ja.po | 
+ | [mr](/f32/language/mr) | 130 | 130 | 100.0 | /mnt/stockage/packages/f32/elementary-calculator/po/mr.po/mnt/stockage/packages/f32/elementary-calculator/po/extra/mr.po | 
+ | [pt](/f32/language/pt) | 130 | 130 | 100.0 | /mnt/stockage/packages/f32/elementary-calculator/po/pt.po/mnt/stockage/packages/f32/elementary-calculator/po/extra/pt.po | 
+ | [ro](/f32/language/ro) | 130 | 130 | 100.0 | /mnt/stockage/packages/f32/elementary-calculator/po/ro.po/mnt/stockage/packages/f32/elementary-calculator/po/extra/ro.po | 
+ | [sr](/f32/language/sr) | 130 | 130 | 100.0 | /mnt/stockage/packages/f32/elementary-calculator/po/sr.po/mnt/stockage/packages/f32/elementary-calculator/po/extra/sr.po | 
+ | [tr](/f32/language/tr) | 130 | 130 | 100.0 | /mnt/stockage/packages/f32/elementary-calculator/po/tr.po/mnt/stockage/packages/f32/elementary-calculator/po/extra/tr.po | 
+ | [uk](/f32/language/uk) | 130 | 130 | 100.0 | /mnt/stockage/packages/f32/elementary-calculator/po/uk.po/mnt/stockage/packages/f32/elementary-calculator/po/extra/uk.po | 
+ | [pt_BR](/f32/language/pt_BR) | 118 | 130 | 90.8 | /mnt/stockage/packages/f32/elementary-calculator/po/pt_BR.po/mnt/stockage/packages/f32/elementary-calculator/po/extra/pt_BR.po | 
+ | [cs](/f32/language/cs) | 110 | 130 | 84.6 | /mnt/stockage/packages/f32/elementary-calculator/po/cs.po/mnt/stockage/packages/f32/elementary-calculator/po/extra/cs.po | 
+ | [da](/f32/language/da) | 110 | 130 | 84.6 | /mnt/stockage/packages/f32/elementary-calculator/po/da.po/mnt/stockage/packages/f32/elementary-calculator/po/extra/da.po | 
+ | [de](/f32/language/de) | 110 | 130 | 84.6 | /mnt/stockage/packages/f32/elementary-calculator/po/de.po/mnt/stockage/packages/f32/elementary-calculator/po/extra/de.po | 
+ | [en_GB](/f32/language/en_GB) | 110 | 130 | 84.6 | /mnt/stockage/packages/f32/elementary-calculator/po/en_GB.po/mnt/stockage/packages/f32/elementary-calculator/po/extra/en_GB.po | 
+ | [nl](/f32/language/nl) | 110 | 130 | 84.6 | /mnt/stockage/packages/f32/elementary-calculator/po/nl.po/mnt/stockage/packages/f32/elementary-calculator/po/extra/nl.po | 
+ | [nn](/f32/language/nn) | 110 | 130 | 84.6 | /mnt/stockage/packages/f32/elementary-calculator/po/nn.po/mnt/stockage/packages/f32/elementary-calculator/po/extra/nn.po | 
+ | [uz](/f32/language/uz) | 110 | 130 | 84.6 | /mnt/stockage/packages/f32/elementary-calculator/po/uz.po/mnt/stockage/packages/f32/elementary-calculator/po/extra/uz.po | 
+ | [eo](/f32/language/eo) | 105 | 130 | 80.8 | /mnt/stockage/packages/f32/elementary-calculator/po/eo.po/mnt/stockage/packages/f32/elementary-calculator/po/extra/eo.po | 
+ | [sl](/f32/language/sl) | 105 | 130 | 80.8 | /mnt/stockage/packages/f32/elementary-calculator/po/sl.po/mnt/stockage/packages/f32/elementary-calculator/po/extra/sl.po | 
+ | [szl](/f32/language/szl) | 105 | 130 | 80.8 | /mnt/stockage/packages/f32/elementary-calculator/po/szl.po/mnt/stockage/packages/f32/elementary-calculator/po/extra/szl.po | 
+ | [nb_NO](/f32/language/nb_NO) | 102 | 130 | 78.5 | /mnt/stockage/packages/f32/elementary-calculator/po/nb.po/mnt/stockage/packages/f32/elementary-calculator/po/extra/nb.po | 
+ | [ar](/f32/language/ar) | 101 | 130 | 77.7 | /mnt/stockage/packages/f32/elementary-calculator/po/ar.po/mnt/stockage/packages/f32/elementary-calculator/po/extra/ar.po | 
+ | [fi](/f32/language/fi) | 96 | 130 | 73.8 | /mnt/stockage/packages/f32/elementary-calculator/po/fi.po/mnt/stockage/packages/f32/elementary-calculator/po/extra/fi.po | 
+ | [pl](/f32/language/pl) | 96 | 130 | 73.8 | /mnt/stockage/packages/f32/elementary-calculator/po/pl.po/mnt/stockage/packages/f32/elementary-calculator/po/extra/pl.po | 
+ | [vi](/f32/language/vi) | 89 | 130 | 68.5 | /mnt/stockage/packages/f32/elementary-calculator/po/vi.po/mnt/stockage/packages/f32/elementary-calculator/po/extra/vi.po | 
+ | [ru](/f32/language/ru) | 80 | 130 | 61.5 | /mnt/stockage/packages/f32/elementary-calculator/po/ru.po/mnt/stockage/packages/f32/elementary-calculator/po/extra/ru.po | 
+ | [gl](/f32/language/gl) | 79 | 130 | 60.8 | /mnt/stockage/packages/f32/elementary-calculator/po/gl.po/mnt/stockage/packages/f32/elementary-calculator/po/extra/gl.po | 
+ | [ko](/f32/language/ko) | 79 | 130 | 60.8 | /mnt/stockage/packages/f32/elementary-calculator/po/ko.po/mnt/stockage/packages/f32/elementary-calculator/po/extra/ko.po | 
+ | [lt](/f32/language/lt) | 79 | 130 | 60.8 | /mnt/stockage/packages/f32/elementary-calculator/po/lt.po/mnt/stockage/packages/f32/elementary-calculator/po/extra/lt.po | 
+ | [zh_Hant](/f32/language/zh_Hant) | 79 | 130 | 60.8 | /mnt/stockage/packages/f32/elementary-calculator/po/zh_TW.po/mnt/stockage/packages/f32/elementary-calculator/po/extra/zh_TW.po | 
+ | [bs](/f32/language/bs) | 78 | 130 | 60.0 | /mnt/stockage/packages/f32/elementary-calculator/po/bs.po/mnt/stockage/packages/f32/elementary-calculator/po/extra/bs.po | 
+ | [hi](/f32/language/hi) | 78 | 130 | 60.0 | /mnt/stockage/packages/f32/elementary-calculator/po/hi.po/mnt/stockage/packages/f32/elementary-calculator/po/extra/hi.po | 
+ | [id](/f32/language/id) | 78 | 130 | 60.0 | /mnt/stockage/packages/f32/elementary-calculator/po/id.po/mnt/stockage/packages/f32/elementary-calculator/po/extra/id.po | 
+ | [sk](/f32/language/sk) | 78 | 130 | 60.0 | /mnt/stockage/packages/f32/elementary-calculator/po/sk.po/mnt/stockage/packages/f32/elementary-calculator/po/extra/sk.po | 
+ | [sv](/f32/language/sv) | 78 | 130 | 60.0 | /mnt/stockage/packages/f32/elementary-calculator/po/sv.po/mnt/stockage/packages/f32/elementary-calculator/po/extra/sv.po | 
+ | [tl](/f32/language/tl) | 77 | 130 | 59.2 | /mnt/stockage/packages/f32/elementary-calculator/po/tl.po/mnt/stockage/packages/f32/elementary-calculator/po/extra/tl.po | 
+ | [en_CA](/f32/language/en_CA) | 76 | 130 | 58.5 | /mnt/stockage/packages/f32/elementary-calculator/po/en_CA.po/mnt/stockage/packages/f32/elementary-calculator/po/extra/en_CA.po | 
+ | [hu](/f32/language/hu) | 76 | 130 | 58.5 | /mnt/stockage/packages/f32/elementary-calculator/po/hu.po/mnt/stockage/packages/f32/elementary-calculator/po/extra/hu.po | 
+ | [bg](/f32/language/bg) | 75 | 130 | 57.7 | /mnt/stockage/packages/f32/elementary-calculator/po/bg.po/mnt/stockage/packages/f32/elementary-calculator/po/extra/bg.po | 
+ | [bn](/f32/language/bn) | 75 | 130 | 57.7 | /mnt/stockage/packages/f32/elementary-calculator/po/bn.po/mnt/stockage/packages/f32/elementary-calculator/po/extra/bn.po | 
+ | [et](/f32/language/et) | 75 | 130 | 57.7 | /mnt/stockage/packages/f32/elementary-calculator/po/et.po/mnt/stockage/packages/f32/elementary-calculator/po/extra/et.po | 
+ | [hr](/f32/language/hr) | 75 | 130 | 57.7 | /mnt/stockage/packages/f32/elementary-calculator/po/hr.po/mnt/stockage/packages/f32/elementary-calculator/po/extra/hr.po | 
+ | [sq](/f32/language/sq) | 75 | 130 | 57.7 | /mnt/stockage/packages/f32/elementary-calculator/po/sq.po/mnt/stockage/packages/f32/elementary-calculator/po/extra/sq.po | 
+ | [ug](/f32/language/ug) | 75 | 130 | 57.7 | /mnt/stockage/packages/f32/elementary-calculator/po/ug.po/mnt/stockage/packages/f32/elementary-calculator/po/extra/ug.po | 
+ | [zh_Hans](/f32/language/zh_Hans) | 122 | 260 | 46.9 | /mnt/stockage/packages/f32/elementary-calculator/po/zh_CN.po/mnt/stockage/packages/f32/elementary-calculator/po/zh.po/mnt/stockage/packages/f32/elementary-calculator/po/extra/zh_CN.po/mnt/stockage/packages/f32/elementary-calculator/po/extra/zh.po | 
+ | [ku](/f32/language/ku) | 59 | 130 | 45.4 | /mnt/stockage/packages/f32/elementary-calculator/po/ku.po/mnt/stockage/packages/f32/elementary-calculator/po/extra/ku.po | 
+ | [my](/f32/language/my) | 55 | 130 | 42.3 | /mnt/stockage/packages/f32/elementary-calculator/po/my.po/mnt/stockage/packages/f32/elementary-calculator/po/extra/my.po | 
+ | [ms](/f32/language/ms) | 52 | 130 | 40.0 | /mnt/stockage/packages/f32/elementary-calculator/po/ms.po/mnt/stockage/packages/f32/elementary-calculator/po/extra/ms.po | 
+ | [az](/f32/language/az) | 51 | 130 | 39.2 | /mnt/stockage/packages/f32/elementary-calculator/po/az.po/mnt/stockage/packages/f32/elementary-calculator/po/extra/az.po | 
+ | [ka](/f32/language/ka) | 51 | 130 | 39.2 | /mnt/stockage/packages/f32/elementary-calculator/po/ka.po/mnt/stockage/packages/f32/elementary-calculator/po/extra/ka.po | 
+ | [ro_MD](/f32/language/ro_MD) | 51 | 130 | 39.2 | /mnt/stockage/packages/f32/elementary-calculator/po/mo.po/mnt/stockage/packages/f32/elementary-calculator/po/extra/mo.po | 
+ | [ta](/f32/language/ta) | 51 | 130 | 39.2 | /mnt/stockage/packages/f32/elementary-calculator/po/ta.po/mnt/stockage/packages/f32/elementary-calculator/po/extra/ta.po | 
+ | [fr_CA](/f32/language/fr_CA) | 49 | 130 | 37.7 | /mnt/stockage/packages/f32/elementary-calculator/po/fr_CA.po/mnt/stockage/packages/f32/elementary-calculator/po/extra/fr_CA.po | 
+ | [eu](/f32/language/eu) | 45 | 130 | 34.6 | /mnt/stockage/packages/f32/elementary-calculator/po/eu.po/mnt/stockage/packages/f32/elementary-calculator/po/extra/eu.po | 
+ | [en_AU](/f32/language/en_AU) | 38 | 130 | 29.2 | /mnt/stockage/packages/f32/elementary-calculator/po/en_AU.po/mnt/stockage/packages/f32/elementary-calculator/po/extra/en_AU.po | 
+ | [th](/f32/language/th) | 38 | 130 | 29.2 | /mnt/stockage/packages/f32/elementary-calculator/po/th.po/mnt/stockage/packages/f32/elementary-calculator/po/extra/th.po | 
+ | [lv](/f32/language/lv) | 35 | 130 | 26.9 | /mnt/stockage/packages/f32/elementary-calculator/po/lv.po/mnt/stockage/packages/f32/elementary-calculator/po/extra/lv.po | 
+ | [ur](/f32/language/ur) | 34 | 130 | 26.2 | /mnt/stockage/packages/f32/elementary-calculator/po/ur.po/mnt/stockage/packages/f32/elementary-calculator/po/extra/ur.po | 
+ | [el](/f32/language/el) | 28 | 130 | 21.5 | /mnt/stockage/packages/f32/elementary-calculator/po/el.po/mnt/stockage/packages/f32/elementary-calculator/po/extra/el.po | 
+ | [be](/f32/language/be) | 27 | 130 | 20.8 | /mnt/stockage/packages/f32/elementary-calculator/po/be.po/mnt/stockage/packages/f32/elementary-calculator/po/extra/be.po | 
+ | [cv](/f32/language/cv) | 27 | 130 | 20.8 | /mnt/stockage/packages/f32/elementary-calculator/po/cv.po/mnt/stockage/packages/f32/elementary-calculator/po/extra/cv.po | 
+ | [fa](/f32/language/fa) | 27 | 130 | 20.8 | /mnt/stockage/packages/f32/elementary-calculator/po/fa.po/mnt/stockage/packages/f32/elementary-calculator/po/extra/fa.po | 
+ | [lb](/f32/language/lb) | 27 | 130 | 20.8 | /mnt/stockage/packages/f32/elementary-calculator/po/lb.po/mnt/stockage/packages/f32/elementary-calculator/po/extra/lb.po | 
+ | [mk](/f32/language/mk) | 27 | 130 | 20.8 | /mnt/stockage/packages/f32/elementary-calculator/po/mk.po/mnt/stockage/packages/f32/elementary-calculator/po/extra/mk.po | 
+ | [ckb](/f32/language/ckb) | 26 | 130 | 20.0 | /mnt/stockage/packages/f32/elementary-calculator/po/ckb.po/mnt/stockage/packages/f32/elementary-calculator/po/extra/ckb.po | 
+ | [mn](/f32/language/mn) | 24 | 130 | 18.5 | /mnt/stockage/packages/f32/elementary-calculator/po/mn.po/mnt/stockage/packages/f32/elementary-calculator/po/extra/mn.po | 
+ | [mg](/f32/language/mg) | 21 | 130 | 16.2 | /mnt/stockage/packages/f32/elementary-calculator/po/mg.po/mnt/stockage/packages/f32/elementary-calculator/po/extra/mg.po | 
+ | [af](/f32/language/af) | 19 | 130 | 14.6 | /mnt/stockage/packages/f32/elementary-calculator/po/af.po/mnt/stockage/packages/f32/elementary-calculator/po/extra/af.po | 
+ | [hy](/f32/language/hy) | 15 | 130 | 11.5 | /mnt/stockage/packages/f32/elementary-calculator/po/hy.po/mnt/stockage/packages/f32/elementary-calculator/po/extra/hy.po | 
+ | [is](/f32/language/is) | 15 | 130 | 11.5 | /mnt/stockage/packages/f32/elementary-calculator/po/is.po/mnt/stockage/packages/f32/elementary-calculator/po/extra/is.po | 
+ | [jv](/f32/language/jv) | 9 | 130 | 6.9 | /mnt/stockage/packages/f32/elementary-calculator/po/jv.po/mnt/stockage/packages/f32/elementary-calculator/po/extra/jv.po | 
+ | [si](/f32/language/si) | 5 | 130 | 3.8 | /mnt/stockage/packages/f32/elementary-calculator/po/si.po/mnt/stockage/packages/f32/elementary-calculator/po/extra/si.po | 
+ | [sma](/f32/language/sma) | 5 | 130 | 3.8 | /mnt/stockage/packages/f32/elementary-calculator/po/sma.po/mnt/stockage/packages/f32/elementary-calculator/po/extra/sma.po | 
+ | [lg](/f32/language/lg) | 4 | 130 | 3.1 | /mnt/stockage/packages/f32/elementary-calculator/po/lg.po/mnt/stockage/packages/f32/elementary-calculator/po/extra/lg.po | 
+ | [ga](/f32/language/ga) | 2 | 130 | 1.5 | /mnt/stockage/packages/f32/elementary-calculator/po/ga.po/mnt/stockage/packages/f32/elementary-calculator/po/extra/ga.po | 
+ | [kn](/f32/language/kn) | 2 | 130 | 1.5 | /mnt/stockage/packages/f32/elementary-calculator/po/kn.po/mnt/stockage/packages/f32/elementary-calculator/po/extra/kn.po | 
+ | [sa](/f32/language/sa) | 2 | 130 | 1.5 | /mnt/stockage/packages/f32/elementary-calculator/po/sa.po/mnt/stockage/packages/f32/elementary-calculator/po/extra/sa.po | 
+ | [te](/f32/language/te) | 2 | 130 | 1.5 | /mnt/stockage/packages/f32/elementary-calculator/po/te.po/mnt/stockage/packages/f32/elementary-calculator/po/extra/te.po | 
+ | [ak](/f32/language/ak) | 1 | 130 | 0.8 | /mnt/stockage/packages/f32/elementary-calculator/po/ak.po/mnt/stockage/packages/f32/elementary-calculator/po/extra/ak.po | 
 {.sortable}
 
 

@@ -18,7 +18,7 @@ The package codeina (version 0.10.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [nl]({{< ref "/f8/language/nl.md" >}}) | 281 | 399 | 70.4 | /mnt/stockage/packages/f8/codeina/po/nl.po | 
+ | [nl](/f8/language/nl) | 281 | 399 | 70.4 | /mnt/stockage/packages/f8/codeina/po/nl.po | 
 {.sortable}
 
 

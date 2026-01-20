@@ -18,15 +18,15 @@ The package virt-v2v (version 0.8.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [es]({{< ref "/f15/language/es.md" >}}) | 1463 | 1463 | 100.0 | /mnt/stockage/packages/f15/virt-v2v/po/es.po | 
- | [nl]({{< ref "/f15/language/nl.md" >}}) | 1463 | 1463 | 100.0 | /mnt/stockage/packages/f15/virt-v2v/po/nl.po | 
- | [pl]({{< ref "/f15/language/pl.md" >}}) | 1463 | 1463 | 100.0 | /mnt/stockage/packages/f15/virt-v2v/po/pl.po | 
- | [uk]({{< ref "/f15/language/uk.md" >}}) | 1463 | 1463 | 100.0 | /mnt/stockage/packages/f15/virt-v2v/po/uk.po | 
- | [zh_Hans]({{< ref "/f15/language/zh_Hans.md" >}}) | 986 | 1463 | 67.4 | /mnt/stockage/packages/f15/virt-v2v/po/zh_CN.po | 
- | [it]({{< ref "/f15/language/it.md" >}}) | 706 | 1463 | 48.3 | /mnt/stockage/packages/f15/virt-v2v/po/it.po | 
- | [ru]({{< ref "/f15/language/ru.md" >}}) | 427 | 1463 | 29.2 | /mnt/stockage/packages/f15/virt-v2v/po/ru.po | 
- | [or]({{< ref "/f15/language/or.md" >}}) | 28 | 1463 | 1.9 | /mnt/stockage/packages/f15/virt-v2v/po/or.po | 
- | [te]({{< ref "/f15/language/te.md" >}}) | 28 | 1463 | 1.9 | /mnt/stockage/packages/f15/virt-v2v/po/te.po | 
+ | [es](/f15/language/es) | 1463 | 1463 | 100.0 | /mnt/stockage/packages/f15/virt-v2v/po/es.po | 
+ | [nl](/f15/language/nl) | 1463 | 1463 | 100.0 | /mnt/stockage/packages/f15/virt-v2v/po/nl.po | 
+ | [pl](/f15/language/pl) | 1463 | 1463 | 100.0 | /mnt/stockage/packages/f15/virt-v2v/po/pl.po | 
+ | [uk](/f15/language/uk) | 1463 | 1463 | 100.0 | /mnt/stockage/packages/f15/virt-v2v/po/uk.po | 
+ | [zh_Hans](/f15/language/zh_Hans) | 986 | 1463 | 67.4 | /mnt/stockage/packages/f15/virt-v2v/po/zh_CN.po | 
+ | [it](/f15/language/it) | 706 | 1463 | 48.3 | /mnt/stockage/packages/f15/virt-v2v/po/it.po | 
+ | [ru](/f15/language/ru) | 427 | 1463 | 29.2 | /mnt/stockage/packages/f15/virt-v2v/po/ru.po | 
+ | [or](/f15/language/or) | 28 | 1463 | 1.9 | /mnt/stockage/packages/f15/virt-v2v/po/or.po | 
+ | [te](/f15/language/te) | 28 | 1463 | 1.9 | /mnt/stockage/packages/f15/virt-v2v/po/te.po | 
 {.sortable}
 
 

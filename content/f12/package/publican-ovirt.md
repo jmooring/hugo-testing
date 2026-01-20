@@ -18,28 +18,28 @@ The package publican-ovirt (version 0.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [as]({{< ref "/f12/language/as.md" >}}) | 288 | 288 | 100.0 | /mnt/stockage/packages/f12/publican-ovirt/as-IN/Boilerplate.po/mnt/stockage/packages/f12/publican-ovirt/as-IN/Feedback.po | 
- | [bn_IN]({{< ref "/f12/language/bn_IN.md" >}}) | 288 | 288 | 100.0 | /mnt/stockage/packages/f12/publican-ovirt/bn-IN/Boilerplate.po/mnt/stockage/packages/f12/publican-ovirt/bn-IN/Feedback.po | 
- | [de]({{< ref "/f12/language/de.md" >}}) | 288 | 288 | 100.0 | /mnt/stockage/packages/f12/publican-ovirt/de-DE/Boilerplate.po/mnt/stockage/packages/f12/publican-ovirt/de-DE/Feedback.po | 
- | [gu_IN]({{< ref "/f12/language/gu_IN.md" >}}) | 288 | 288 | 100.0 | /mnt/stockage/packages/f12/publican-ovirt/gu-IN/Boilerplate.po/mnt/stockage/packages/f12/publican-ovirt/gu-IN/Feedback.po | 
- | [hi]({{< ref "/f12/language/hi.md" >}}) | 288 | 288 | 100.0 | /mnt/stockage/packages/f12/publican-ovirt/hi-IN/Boilerplate.po/mnt/stockage/packages/f12/publican-ovirt/hi-IN/Feedback.po | 
- | [kn]({{< ref "/f12/language/kn.md" >}}) | 288 | 288 | 100.0 | /mnt/stockage/packages/f12/publican-ovirt/kn-IN/Boilerplate.po/mnt/stockage/packages/f12/publican-ovirt/kn-IN/Feedback.po | 
- | [ml]({{< ref "/f12/language/ml.md" >}}) | 288 | 288 | 100.0 | /mnt/stockage/packages/f12/publican-ovirt/ml-IN/Boilerplate.po/mnt/stockage/packages/f12/publican-ovirt/ml-IN/Feedback.po | 
- | [mr]({{< ref "/f12/language/mr.md" >}}) | 288 | 288 | 100.0 | /mnt/stockage/packages/f12/publican-ovirt/mr-IN/Boilerplate.po/mnt/stockage/packages/f12/publican-ovirt/mr-IN/Feedback.po | 
- | [or]({{< ref "/f12/language/or.md" >}}) | 288 | 288 | 100.0 | /mnt/stockage/packages/f12/publican-ovirt/or-IN/Boilerplate.po/mnt/stockage/packages/f12/publican-ovirt/or-IN/Feedback.po | 
- | [pa]({{< ref "/f12/language/pa.md" >}}) | 288 | 288 | 100.0 | /mnt/stockage/packages/f12/publican-ovirt/pa-IN/Boilerplate.po/mnt/stockage/packages/f12/publican-ovirt/pa-IN/Feedback.po | 
- | [pt_BR]({{< ref "/f12/language/pt_BR.md" >}}) | 288 | 288 | 100.0 | /mnt/stockage/packages/f12/publican-ovirt/pt-BR/Boilerplate.po/mnt/stockage/packages/f12/publican-ovirt/pt-BR/Feedback.po | 
- | [si]({{< ref "/f12/language/si.md" >}}) | 288 | 288 | 100.0 | /mnt/stockage/packages/f12/publican-ovirt/si-LK/Boilerplate.po/mnt/stockage/packages/f12/publican-ovirt/si-LK/Feedback.po | 
- | [ta]({{< ref "/f12/language/ta.md" >}}) | 288 | 288 | 100.0 | /mnt/stockage/packages/f12/publican-ovirt/ta-IN/Boilerplate.po/mnt/stockage/packages/f12/publican-ovirt/ta-IN/Feedback.po | 
- | [te]({{< ref "/f12/language/te.md" >}}) | 288 | 288 | 100.0 | /mnt/stockage/packages/f12/publican-ovirt/te-IN/Boilerplate.po/mnt/stockage/packages/f12/publican-ovirt/te-IN/Feedback.po | 
- | [zh_Hant]({{< ref "/f12/language/zh_Hant.md" >}}) | 288 | 288 | 100.0 | /mnt/stockage/packages/f12/publican-ovirt/zh-TW/Boilerplate.po/mnt/stockage/packages/f12/publican-ovirt/zh-TW/Feedback.po | 
- | [es]({{< ref "/f12/language/es.md" >}}) | 107 | 288 | 37.2 | /mnt/stockage/packages/f12/publican-ovirt/es-ES/Boilerplate.po/mnt/stockage/packages/f12/publican-ovirt/es-ES/Feedback.po | 
- | [fr]({{< ref "/f12/language/fr.md" >}}) | 107 | 288 | 37.2 | /mnt/stockage/packages/f12/publican-ovirt/fr-FR/Boilerplate.po/mnt/stockage/packages/f12/publican-ovirt/fr-FR/Feedback.po | 
- | [it]({{< ref "/f12/language/it.md" >}}) | 107 | 288 | 37.2 | /mnt/stockage/packages/f12/publican-ovirt/it-IT/Boilerplate.po/mnt/stockage/packages/f12/publican-ovirt/it-IT/Feedback.po | 
- | [ja]({{< ref "/f12/language/ja.md" >}}) | 107 | 288 | 37.2 | /mnt/stockage/packages/f12/publican-ovirt/ja-JP/Boilerplate.po/mnt/stockage/packages/f12/publican-ovirt/ja-JP/Feedback.po | 
- | [ko]({{< ref "/f12/language/ko.md" >}}) | 107 | 288 | 37.2 | /mnt/stockage/packages/f12/publican-ovirt/ko-KR/Boilerplate.po/mnt/stockage/packages/f12/publican-ovirt/ko-KR/Feedback.po | 
- | [zh_Hans]({{< ref "/f12/language/zh_Hans.md" >}}) | 107 | 288 | 37.2 | /mnt/stockage/packages/f12/publican-ovirt/zh-CN/Boilerplate.po/mnt/stockage/packages/f12/publican-ovirt/zh-CN/Feedback.po | 
- | [ru]({{< ref "/f12/language/ru.md" >}}) | 0 | 288 | 0.0 | /mnt/stockage/packages/f12/publican-ovirt/ru-RU/Boilerplate.po/mnt/stockage/packages/f12/publican-ovirt/ru-RU/Feedback.po | 
+ | [as](/f12/language/as) | 288 | 288 | 100.0 | /mnt/stockage/packages/f12/publican-ovirt/as-IN/Boilerplate.po/mnt/stockage/packages/f12/publican-ovirt/as-IN/Feedback.po | 
+ | [bn_IN](/f12/language/bn_IN) | 288 | 288 | 100.0 | /mnt/stockage/packages/f12/publican-ovirt/bn-IN/Boilerplate.po/mnt/stockage/packages/f12/publican-ovirt/bn-IN/Feedback.po | 
+ | [de](/f12/language/de) | 288 | 288 | 100.0 | /mnt/stockage/packages/f12/publican-ovirt/de-DE/Boilerplate.po/mnt/stockage/packages/f12/publican-ovirt/de-DE/Feedback.po | 
+ | [gu_IN](/f12/language/gu_IN) | 288 | 288 | 100.0 | /mnt/stockage/packages/f12/publican-ovirt/gu-IN/Boilerplate.po/mnt/stockage/packages/f12/publican-ovirt/gu-IN/Feedback.po | 
+ | [hi](/f12/language/hi) | 288 | 288 | 100.0 | /mnt/stockage/packages/f12/publican-ovirt/hi-IN/Boilerplate.po/mnt/stockage/packages/f12/publican-ovirt/hi-IN/Feedback.po | 
+ | [kn](/f12/language/kn) | 288 | 288 | 100.0 | /mnt/stockage/packages/f12/publican-ovirt/kn-IN/Boilerplate.po/mnt/stockage/packages/f12/publican-ovirt/kn-IN/Feedback.po | 
+ | [ml](/f12/language/ml) | 288 | 288 | 100.0 | /mnt/stockage/packages/f12/publican-ovirt/ml-IN/Boilerplate.po/mnt/stockage/packages/f12/publican-ovirt/ml-IN/Feedback.po | 
+ | [mr](/f12/language/mr) | 288 | 288 | 100.0 | /mnt/stockage/packages/f12/publican-ovirt/mr-IN/Boilerplate.po/mnt/stockage/packages/f12/publican-ovirt/mr-IN/Feedback.po | 
+ | [or](/f12/language/or) | 288 | 288 | 100.0 | /mnt/stockage/packages/f12/publican-ovirt/or-IN/Boilerplate.po/mnt/stockage/packages/f12/publican-ovirt/or-IN/Feedback.po | 
+ | [pa](/f12/language/pa) | 288 | 288 | 100.0 | /mnt/stockage/packages/f12/publican-ovirt/pa-IN/Boilerplate.po/mnt/stockage/packages/f12/publican-ovirt/pa-IN/Feedback.po | 
+ | [pt_BR](/f12/language/pt_BR) | 288 | 288 | 100.0 | /mnt/stockage/packages/f12/publican-ovirt/pt-BR/Boilerplate.po/mnt/stockage/packages/f12/publican-ovirt/pt-BR/Feedback.po | 
+ | [si](/f12/language/si) | 288 | 288 | 100.0 | /mnt/stockage/packages/f12/publican-ovirt/si-LK/Boilerplate.po/mnt/stockage/packages/f12/publican-ovirt/si-LK/Feedback.po | 
+ | [ta](/f12/language/ta) | 288 | 288 | 100.0 | /mnt/stockage/packages/f12/publican-ovirt/ta-IN/Boilerplate.po/mnt/stockage/packages/f12/publican-ovirt/ta-IN/Feedback.po | 
+ | [te](/f12/language/te) | 288 | 288 | 100.0 | /mnt/stockage/packages/f12/publican-ovirt/te-IN/Boilerplate.po/mnt/stockage/packages/f12/publican-ovirt/te-IN/Feedback.po | 
+ | [zh_Hant](/f12/language/zh_Hant) | 288 | 288 | 100.0 | /mnt/stockage/packages/f12/publican-ovirt/zh-TW/Boilerplate.po/mnt/stockage/packages/f12/publican-ovirt/zh-TW/Feedback.po | 
+ | [es](/f12/language/es) | 107 | 288 | 37.2 | /mnt/stockage/packages/f12/publican-ovirt/es-ES/Boilerplate.po/mnt/stockage/packages/f12/publican-ovirt/es-ES/Feedback.po | 
+ | [fr](/f12/language/fr) | 107 | 288 | 37.2 | /mnt/stockage/packages/f12/publican-ovirt/fr-FR/Boilerplate.po/mnt/stockage/packages/f12/publican-ovirt/fr-FR/Feedback.po | 
+ | [it](/f12/language/it) | 107 | 288 | 37.2 | /mnt/stockage/packages/f12/publican-ovirt/it-IT/Boilerplate.po/mnt/stockage/packages/f12/publican-ovirt/it-IT/Feedback.po | 
+ | [ja](/f12/language/ja) | 107 | 288 | 37.2 | /mnt/stockage/packages/f12/publican-ovirt/ja-JP/Boilerplate.po/mnt/stockage/packages/f12/publican-ovirt/ja-JP/Feedback.po | 
+ | [ko](/f12/language/ko) | 107 | 288 | 37.2 | /mnt/stockage/packages/f12/publican-ovirt/ko-KR/Boilerplate.po/mnt/stockage/packages/f12/publican-ovirt/ko-KR/Feedback.po | 
+ | [zh_Hans](/f12/language/zh_Hans) | 107 | 288 | 37.2 | /mnt/stockage/packages/f12/publican-ovirt/zh-CN/Boilerplate.po/mnt/stockage/packages/f12/publican-ovirt/zh-CN/Feedback.po | 
+ | [ru](/f12/language/ru) | 0 | 288 | 0.0 | /mnt/stockage/packages/f12/publican-ovirt/ru-RU/Boilerplate.po/mnt/stockage/packages/f12/publican-ovirt/ru-RU/Feedback.po | 
 {.sortable}
 
 

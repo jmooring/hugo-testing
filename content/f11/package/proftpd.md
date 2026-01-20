@@ -18,14 +18,14 @@ The package proftpd (version 1.3.2d):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [bg]({{< ref "/f11/language/bg.md" >}}) | 823 | 823 | 100.0 | /mnt/stockage/packages/f11/proftpd/locale/bg_BG.po | 
- | [en_US]({{< ref "/f11/language/en_US.md" >}}) | 771 | 771 | 100.0 | /mnt/stockage/packages/f11/proftpd/locale/en_US.po | 
- | [fr]({{< ref "/f11/language/fr.md" >}}) | 771 | 771 | 100.0 | /mnt/stockage/packages/f11/proftpd/locale/fr_FR.po | 
- | [it]({{< ref "/f11/language/it.md" >}}) | 823 | 823 | 100.0 | /mnt/stockage/packages/f11/proftpd/locale/it_IT.po | 
- | [ko]({{< ref "/f11/language/ko.md" >}}) | 823 | 823 | 100.0 | /mnt/stockage/packages/f11/proftpd/locale/ko_KR.po | 
- | [ru]({{< ref "/f11/language/ru.md" >}}) | 615 | 615 | 100.0 | /mnt/stockage/packages/f11/proftpd/locale/ru_RU.po | 
- | [zh_Hans]({{< ref "/f11/language/zh_Hans.md" >}}) | 823 | 823 | 100.0 | /mnt/stockage/packages/f11/proftpd/locale/zh_CN.po | 
- | [zh_Hant]({{< ref "/f11/language/zh_Hant.md" >}}) | 823 | 823 | 100.0 | /mnt/stockage/packages/f11/proftpd/locale/zh_TW.po | 
+ | [bg](/f11/language/bg) | 823 | 823 | 100.0 | /mnt/stockage/packages/f11/proftpd/locale/bg_BG.po | 
+ | [en_US](/f11/language/en_US) | 771 | 771 | 100.0 | /mnt/stockage/packages/f11/proftpd/locale/en_US.po | 
+ | [fr](/f11/language/fr) | 771 | 771 | 100.0 | /mnt/stockage/packages/f11/proftpd/locale/fr_FR.po | 
+ | [it](/f11/language/it) | 823 | 823 | 100.0 | /mnt/stockage/packages/f11/proftpd/locale/it_IT.po | 
+ | [ko](/f11/language/ko) | 823 | 823 | 100.0 | /mnt/stockage/packages/f11/proftpd/locale/ko_KR.po | 
+ | [ru](/f11/language/ru) | 615 | 615 | 100.0 | /mnt/stockage/packages/f11/proftpd/locale/ru_RU.po | 
+ | [zh_Hans](/f11/language/zh_Hans) | 823 | 823 | 100.0 | /mnt/stockage/packages/f11/proftpd/locale/zh_CN.po | 
+ | [zh_Hant](/f11/language/zh_Hant) | 823 | 823 | 100.0 | /mnt/stockage/packages/f11/proftpd/locale/zh_TW.po | 
 {.sortable}
 
 

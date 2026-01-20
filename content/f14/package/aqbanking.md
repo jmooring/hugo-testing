@@ -18,7 +18,7 @@ The package aqbanking (version 4.2.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f14/language/de.md" >}}) | 4740 | 6075 | 78.0 | /mnt/stockage/packages/f14/aqbanking/po/de.po | 
+ | [de](/f14/language/de) | 4740 | 6075 | 78.0 | /mnt/stockage/packages/f14/aqbanking/po/de.po | 
 {.sortable}
 
 

@@ -18,33 +18,33 @@ The package gnupg2 (version 2.2.20):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f32/language/de.md" >}}) | 13511 | 13511 | 100.0 | /mnt/stockage/packages/f32/gnupg2/po/de.po | 
- | [en]({{< ref "/f32/language/en.md" >}}) | 27022 | 27022 | 100.0 | /mnt/stockage/packages/f32/gnupg2/po/en@boldquot.po/mnt/stockage/packages/f32/gnupg2/po/en@quot.po | 
- | [ja]({{< ref "/f32/language/ja.md" >}}) | 13511 | 13511 | 100.0 | /mnt/stockage/packages/f32/gnupg2/po/ja.po | 
- | [cs]({{< ref "/f32/language/cs.md" >}}) | 13405 | 13511 | 99.2 | /mnt/stockage/packages/f32/gnupg2/po/cs.po | 
- | [pl]({{< ref "/f32/language/pl.md" >}}) | 13405 | 13511 | 99.2 | /mnt/stockage/packages/f32/gnupg2/po/pl.po | 
- | [ru]({{< ref "/f32/language/ru.md" >}}) | 13405 | 13511 | 99.2 | /mnt/stockage/packages/f32/gnupg2/po/ru.po | 
- | [es]({{< ref "/f32/language/es.md" >}}) | 13253 | 13511 | 98.1 | /mnt/stockage/packages/f32/gnupg2/po/es.po | 
- | [zh_Hans]({{< ref "/f32/language/zh_Hans.md" >}}) | 13188 | 13511 | 97.6 | /mnt/stockage/packages/f32/gnupg2/po/zh_CN.po | 
- | [nb_NO]({{< ref "/f32/language/nb_NO.md" >}}) | 13162 | 13511 | 97.4 | /mnt/stockage/packages/f32/gnupg2/po/nb.po | 
- | [uk]({{< ref "/f32/language/uk.md" >}}) | 12958 | 13511 | 95.9 | /mnt/stockage/packages/f32/gnupg2/po/uk.po | 
- | [fr]({{< ref "/f32/language/fr.md" >}}) | 11425 | 13511 | 84.6 | /mnt/stockage/packages/f32/gnupg2/po/fr.po | 
- | [zh_Hant]({{< ref "/f32/language/zh_Hant.md" >}}) | 11406 | 13511 | 84.4 | /mnt/stockage/packages/f32/gnupg2/po/zh_TW.po | 
- | [da]({{< ref "/f32/language/da.md" >}}) | 8087 | 13511 | 59.9 | /mnt/stockage/packages/f32/gnupg2/po/da.po | 
- | [sv]({{< ref "/f32/language/sv.md" >}}) | 7964 | 13511 | 58.9 | /mnt/stockage/packages/f32/gnupg2/po/sv.po | 
- | [tr]({{< ref "/f32/language/tr.md" >}}) | 7617 | 13511 | 56.4 | /mnt/stockage/packages/f32/gnupg2/po/tr.po | 
- | [ro]({{< ref "/f32/language/ro.md" >}}) | 4846 | 13511 | 35.9 | /mnt/stockage/packages/f32/gnupg2/po/ro.po | 
- | [el]({{< ref "/f32/language/el.md" >}}) | 2524 | 13511 | 18.7 | /mnt/stockage/packages/f32/gnupg2/po/el.po | 
- | [et]({{< ref "/f32/language/et.md" >}}) | 2524 | 13511 | 18.7 | /mnt/stockage/packages/f32/gnupg2/po/et.po | 
- | [fi]({{< ref "/f32/language/fi.md" >}}) | 2524 | 13511 | 18.7 | /mnt/stockage/packages/f32/gnupg2/po/fi.po | 
- | [hu]({{< ref "/f32/language/hu.md" >}}) | 2524 | 13511 | 18.7 | /mnt/stockage/packages/f32/gnupg2/po/hu.po | 
- | [id]({{< ref "/f32/language/id.md" >}}) | 2524 | 13511 | 18.7 | /mnt/stockage/packages/f32/gnupg2/po/id.po | 
- | [it]({{< ref "/f32/language/it.md" >}}) | 2524 | 13511 | 18.7 | /mnt/stockage/packages/f32/gnupg2/po/it.po | 
- | [sk]({{< ref "/f32/language/sk.md" >}}) | 2519 | 13511 | 18.6 | /mnt/stockage/packages/f32/gnupg2/po/sk.po | 
- | [ca]({{< ref "/f32/language/ca.md" >}}) | 2496 | 13511 | 18.5 | /mnt/stockage/packages/f32/gnupg2/po/ca.po | 
- | [gl]({{< ref "/f32/language/gl.md" >}}) | 2490 | 13511 | 18.4 | /mnt/stockage/packages/f32/gnupg2/po/gl.po | 
- | [pt]({{< ref "/f32/language/pt.md" >}}) | 2083 | 13511 | 15.4 | /mnt/stockage/packages/f32/gnupg2/po/pt.po | 
- | [eo]({{< ref "/f32/language/eo.md" >}}) | 1658 | 13511 | 12.3 | /mnt/stockage/packages/f32/gnupg2/po/eo.po | 
+ | [de](/f32/language/de) | 13511 | 13511 | 100.0 | /mnt/stockage/packages/f32/gnupg2/po/de.po | 
+ | [en](/f32/language/en) | 27022 | 27022 | 100.0 | /mnt/stockage/packages/f32/gnupg2/po/en@boldquot.po/mnt/stockage/packages/f32/gnupg2/po/en@quot.po | 
+ | [ja](/f32/language/ja) | 13511 | 13511 | 100.0 | /mnt/stockage/packages/f32/gnupg2/po/ja.po | 
+ | [cs](/f32/language/cs) | 13405 | 13511 | 99.2 | /mnt/stockage/packages/f32/gnupg2/po/cs.po | 
+ | [pl](/f32/language/pl) | 13405 | 13511 | 99.2 | /mnt/stockage/packages/f32/gnupg2/po/pl.po | 
+ | [ru](/f32/language/ru) | 13405 | 13511 | 99.2 | /mnt/stockage/packages/f32/gnupg2/po/ru.po | 
+ | [es](/f32/language/es) | 13253 | 13511 | 98.1 | /mnt/stockage/packages/f32/gnupg2/po/es.po | 
+ | [zh_Hans](/f32/language/zh_Hans) | 13188 | 13511 | 97.6 | /mnt/stockage/packages/f32/gnupg2/po/zh_CN.po | 
+ | [nb_NO](/f32/language/nb_NO) | 13162 | 13511 | 97.4 | /mnt/stockage/packages/f32/gnupg2/po/nb.po | 
+ | [uk](/f32/language/uk) | 12958 | 13511 | 95.9 | /mnt/stockage/packages/f32/gnupg2/po/uk.po | 
+ | [fr](/f32/language/fr) | 11425 | 13511 | 84.6 | /mnt/stockage/packages/f32/gnupg2/po/fr.po | 
+ | [zh_Hant](/f32/language/zh_Hant) | 11406 | 13511 | 84.4 | /mnt/stockage/packages/f32/gnupg2/po/zh_TW.po | 
+ | [da](/f32/language/da) | 8087 | 13511 | 59.9 | /mnt/stockage/packages/f32/gnupg2/po/da.po | 
+ | [sv](/f32/language/sv) | 7964 | 13511 | 58.9 | /mnt/stockage/packages/f32/gnupg2/po/sv.po | 
+ | [tr](/f32/language/tr) | 7617 | 13511 | 56.4 | /mnt/stockage/packages/f32/gnupg2/po/tr.po | 
+ | [ro](/f32/language/ro) | 4846 | 13511 | 35.9 | /mnt/stockage/packages/f32/gnupg2/po/ro.po | 
+ | [el](/f32/language/el) | 2524 | 13511 | 18.7 | /mnt/stockage/packages/f32/gnupg2/po/el.po | 
+ | [et](/f32/language/et) | 2524 | 13511 | 18.7 | /mnt/stockage/packages/f32/gnupg2/po/et.po | 
+ | [fi](/f32/language/fi) | 2524 | 13511 | 18.7 | /mnt/stockage/packages/f32/gnupg2/po/fi.po | 
+ | [hu](/f32/language/hu) | 2524 | 13511 | 18.7 | /mnt/stockage/packages/f32/gnupg2/po/hu.po | 
+ | [id](/f32/language/id) | 2524 | 13511 | 18.7 | /mnt/stockage/packages/f32/gnupg2/po/id.po | 
+ | [it](/f32/language/it) | 2524 | 13511 | 18.7 | /mnt/stockage/packages/f32/gnupg2/po/it.po | 
+ | [sk](/f32/language/sk) | 2519 | 13511 | 18.6 | /mnt/stockage/packages/f32/gnupg2/po/sk.po | 
+ | [ca](/f32/language/ca) | 2496 | 13511 | 18.5 | /mnt/stockage/packages/f32/gnupg2/po/ca.po | 
+ | [gl](/f32/language/gl) | 2490 | 13511 | 18.4 | /mnt/stockage/packages/f32/gnupg2/po/gl.po | 
+ | [pt](/f32/language/pt) | 2083 | 13511 | 15.4 | /mnt/stockage/packages/f32/gnupg2/po/pt.po | 
+ | [eo](/f32/language/eo) | 1658 | 13511 | 12.3 | /mnt/stockage/packages/f32/gnupg2/po/eo.po | 
 {.sortable}
 
 

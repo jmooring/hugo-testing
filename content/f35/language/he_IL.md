@@ -38,26 +38,26 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [boost]({{< ref "/f35/package/boost.md" >}}) | 1 | 1 | 100.0 |  | 
- | [ceph]({{< ref "/f35/package/ceph.md" >}}) | 1 | 1 | 100.0 |  | 
- | [darktable]({{< ref "/f35/package/darktable.md" >}}) | 23878 | 23878 | 100.0 |  | 
- | [libecpg]({{< ref "/f35/package/libecpg.md" >}}) | 271 | 271 | 100.0 |  | 
- | [libpq]({{< ref "/f35/package/libpq.md" >}}) | 271 | 271 | 100.0 |  | 
- | [mingw-boost]({{< ref "/f35/package/mingw-boost.md" >}}) | 1 | 1 | 100.0 |  | 
- | [percona-xtrabackup]({{< ref "/f35/package/percona-xtrabackup.md" >}}) | 1 | 1 | 100.0 |  | 
- | [poedit]({{< ref "/f35/package/poedit.md" >}}) | 2920 | 2920 | 100.0 | Hebrew | 
- | [postgresql]({{< ref "/f35/package/postgresql.md" >}}) | 1727 | 1727 | 100.0 |  | 
- | [mingw-postgresql]({{< ref "/f35/package/mingw-postgresql.md" >}}) | 9124 | 9143 | 99.8 |  | 
- | [python-flask-admin]({{< ref "/f35/package/python-flask-admin.md" >}}) | 320 | 367 | 87.2 | Hebrew | 
- | [electrum]({{< ref "/f35/package/electrum.md" >}}) | 7128 | 9000 | 79.2 | Hebrew | 
- | [coolreader]({{< ref "/f35/package/coolreader.md" >}}) | 545 | 701 | 77.7 | Hebrew | 
- | [xournalpp]({{< ref "/f35/package/xournalpp.md" >}}) | 984 | 4034 | 24.4 | Hebrew | 
- | [cacti]({{< ref "/f35/package/cacti.md" >}}) | 972 | 31098 | 3.1 |  | 
- | [warzone2100]({{< ref "/f35/package/warzone2100.md" >}}) | 116 | 15617 | 0.7 | Hebrew | 
- | [clapper]({{< ref "/f35/package/clapper.md" >}}) | 0 | 272 | 0.0 | Hebrew | 
- | [clementine]({{< ref "/f35/package/clementine.md" >}}) | 0 | 5251 | 0.0 | Hebrew (Israel) (http://www.transifex.com/davidsansome/clementine/language/he_IL/) | 
- | [python-django-rest-framework]({{< ref "/f35/package/python-django-rest-framework.md" >}}) | 0 | 582 | 0.0 | Hebrew (Israel) (http://www.transifex.com/django-rest-framework-1/django-rest-framework/language/he_IL/) | 
- | [visualboyadvance-m]({{< ref "/f35/package/visualboyadvance-m.md" >}}) | 0 | 2393 | 0.0 | Hebrew (Israel) (http://www.transifex.com/bgk/vba-m/language/he_IL/) | 
+ | [boost](/f35/package/boost) | 1 | 1 | 100.0 |  | 
+ | [ceph](/f35/package/ceph) | 1 | 1 | 100.0 |  | 
+ | [darktable](/f35/package/darktable) | 23878 | 23878 | 100.0 |  | 
+ | [libecpg](/f35/package/libecpg) | 271 | 271 | 100.0 |  | 
+ | [libpq](/f35/package/libpq) | 271 | 271 | 100.0 |  | 
+ | [mingw-boost](/f35/package/mingw-boost) | 1 | 1 | 100.0 |  | 
+ | [percona-xtrabackup](/f35/package/percona-xtrabackup) | 1 | 1 | 100.0 |  | 
+ | [poedit](/f35/package/poedit) | 2920 | 2920 | 100.0 | Hebrew | 
+ | [postgresql](/f35/package/postgresql) | 1727 | 1727 | 100.0 |  | 
+ | [mingw-postgresql](/f35/package/mingw-postgresql) | 9124 | 9143 | 99.8 |  | 
+ | [python-flask-admin](/f35/package/python-flask-admin) | 320 | 367 | 87.2 | Hebrew | 
+ | [electrum](/f35/package/electrum) | 7128 | 9000 | 79.2 | Hebrew | 
+ | [coolreader](/f35/package/coolreader) | 545 | 701 | 77.7 | Hebrew | 
+ | [xournalpp](/f35/package/xournalpp) | 984 | 4034 | 24.4 | Hebrew | 
+ | [cacti](/f35/package/cacti) | 972 | 31098 | 3.1 |  | 
+ | [warzone2100](/f35/package/warzone2100) | 116 | 15617 | 0.7 | Hebrew | 
+ | [clapper](/f35/package/clapper) | 0 | 272 | 0.0 | Hebrew | 
+ | [clementine](/f35/package/clementine) | 0 | 5251 | 0.0 | Hebrew (Israel) (http://www.transifex.com/davidsansome/clementine/language/he_IL/) | 
+ | [python-django-rest-framework](/f35/package/python-django-rest-framework) | 0 | 582 | 0.0 | Hebrew (Israel) (http://www.transifex.com/django-rest-framework-1/django-rest-framework/language/he_IL/) | 
+ | [visualboyadvance-m](/f35/package/visualboyadvance-m) | 0 | 2393 | 0.0 | Hebrew (Israel) (http://www.transifex.com/bgk/vba-m/language/he_IL/) | 
 {.sortable}
 
 

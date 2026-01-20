@@ -18,48 +18,48 @@ The package php-horde-Horde-Itip (version 2.1.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [da]({{< ref "/f23/language/da.md" >}}) | 56 | 56 | 100.0 | /mnt/stockage/packages/f23/php-horde-Horde-Itip/Horde_Itip-2.1.2/locale/da/LC_MESSAGES/Horde_Itip.po | 
- | [de]({{< ref "/f23/language/de.md" >}}) | 56 | 56 | 100.0 | /mnt/stockage/packages/f23/php-horde-Horde-Itip/Horde_Itip-2.1.2/locale/de/LC_MESSAGES/Horde_Itip.po | 
- | [el]({{< ref "/f23/language/el.md" >}}) | 56 | 56 | 100.0 | /mnt/stockage/packages/f23/php-horde-Horde-Itip/Horde_Itip-2.1.2/locale/el/LC_MESSAGES/Horde_Itip.po | 
- | [en_US]({{< ref "/f23/language/en_US.md" >}}) | 56 | 56 | 100.0 | /mnt/stockage/packages/f23/php-horde-Horde-Itip/Horde_Itip-2.1.2/locale/nl/LC_MESSAGES/Horde_Itip.po | 
- | [es]({{< ref "/f23/language/es.md" >}}) | 56 | 56 | 100.0 | /mnt/stockage/packages/f23/php-horde-Horde-Itip/Horde_Itip-2.1.2/locale/es/LC_MESSAGES/Horde_Itip.po | 
- | [et]({{< ref "/f23/language/et.md" >}}) | 56 | 56 | 100.0 | /mnt/stockage/packages/f23/php-horde-Horde-Itip/Horde_Itip-2.1.2/locale/et/LC_MESSAGES/Horde_Itip.po | 
- | [eu]({{< ref "/f23/language/eu.md" >}}) | 56 | 56 | 100.0 | /mnt/stockage/packages/f23/php-horde-Horde-Itip/Horde_Itip-2.1.2/locale/eu/LC_MESSAGES/Horde_Itip.po | 
- | [fi]({{< ref "/f23/language/fi.md" >}}) | 56 | 56 | 100.0 | /mnt/stockage/packages/f23/php-horde-Horde-Itip/Horde_Itip-2.1.2/locale/fi/LC_MESSAGES/Horde_Itip.po | 
- | [fr]({{< ref "/f23/language/fr.md" >}}) | 56 | 56 | 100.0 | /mnt/stockage/packages/f23/php-horde-Horde-Itip/Horde_Itip-2.1.2/locale/fr/LC_MESSAGES/Horde_Itip.po | 
- | [hr]({{< ref "/f23/language/hr.md" >}}) | 56 | 56 | 100.0 | /mnt/stockage/packages/f23/php-horde-Horde-Itip/Horde_Itip-2.1.2/locale/hr/LC_MESSAGES/Horde_Itip.po | 
- | [hu]({{< ref "/f23/language/hu.md" >}}) | 56 | 56 | 100.0 | /mnt/stockage/packages/f23/php-horde-Horde-Itip/Horde_Itip-2.1.2/locale/hu/LC_MESSAGES/Horde_Itip.po | 
- | [ja]({{< ref "/f23/language/ja.md" >}}) | 56 | 56 | 100.0 | /mnt/stockage/packages/f23/php-horde-Horde-Itip/Horde_Itip-2.1.2/locale/ja/LC_MESSAGES/Horde_Itip.po | 
- | [lt]({{< ref "/f23/language/lt.md" >}}) | 56 | 56 | 100.0 | /mnt/stockage/packages/f23/php-horde-Horde-Itip/Horde_Itip-2.1.2/locale/lt/LC_MESSAGES/Horde_Itip.po | 
- | [lv]({{< ref "/f23/language/lv.md" >}}) | 56 | 56 | 100.0 | /mnt/stockage/packages/f23/php-horde-Horde-Itip/Horde_Itip-2.1.2/locale/lv/LC_MESSAGES/Horde_Itip.po | 
- | [pt_BR]({{< ref "/f23/language/pt_BR.md" >}}) | 56 | 56 | 100.0 | /mnt/stockage/packages/f23/php-horde-Horde-Itip/Horde_Itip-2.1.2/locale/pt_BR/LC_MESSAGES/Horde_Itip.po | 
- | [sk]({{< ref "/f23/language/sk.md" >}}) | 56 | 56 | 100.0 | /mnt/stockage/packages/f23/php-horde-Horde-Itip/Horde_Itip-2.1.2/locale/sk/LC_MESSAGES/Horde_Itip.po | 
- | [uk]({{< ref "/f23/language/uk.md" >}}) | 56 | 56 | 100.0 | /mnt/stockage/packages/f23/php-horde-Horde-Itip/Horde_Itip-2.1.2/locale/uk/LC_MESSAGES/Horde_Itip.po | 
- | [fa]({{< ref "/f23/language/fa.md" >}}) | 2 | 56 | 3.6 | /mnt/stockage/packages/f23/php-horde-Horde-Itip/Horde_Itip-2.1.2/locale/fa/LC_MESSAGES/Horde_Itip.po | 
- | [nb_NO]({{< ref "/f23/language/nb_NO.md" >}}) | 2 | 56 | 3.6 | /mnt/stockage/packages/f23/php-horde-Horde-Itip/Horde_Itip-2.1.2/locale/nb/LC_MESSAGES/Horde_Itip.po | 
- | [sv]({{< ref "/f23/language/sv.md" >}}) | 2 | 56 | 3.6 | /mnt/stockage/packages/f23/php-horde-Horde-Itip/Horde_Itip-2.1.2/locale/sv/LC_MESSAGES/Horde_Itip.po | 
- | [ar]({{< ref "/f23/language/ar.md" >}}) | 0 | 56 | 0.0 | /mnt/stockage/packages/f23/php-horde-Horde-Itip/Horde_Itip-2.1.2/locale/ar/LC_MESSAGES/Horde_Itip.po | 
- | [bg]({{< ref "/f23/language/bg.md" >}}) | 0 | 56 | 0.0 | /mnt/stockage/packages/f23/php-horde-Horde-Itip/Horde_Itip-2.1.2/locale/bg/LC_MESSAGES/Horde_Itip.po | 
- | [bs]({{< ref "/f23/language/bs.md" >}}) | 0 | 56 | 0.0 | /mnt/stockage/packages/f23/php-horde-Horde-Itip/Horde_Itip-2.1.2/locale/bs/LC_MESSAGES/Horde_Itip.po | 
- | [ca]({{< ref "/f23/language/ca.md" >}}) | 0 | 56 | 0.0 | /mnt/stockage/packages/f23/php-horde-Horde-Itip/Horde_Itip-2.1.2/locale/ca/LC_MESSAGES/Horde_Itip.po | 
- | [cs]({{< ref "/f23/language/cs.md" >}}) | 0 | 56 | 0.0 | /mnt/stockage/packages/f23/php-horde-Horde-Itip/Horde_Itip-2.1.2/locale/cs/LC_MESSAGES/Horde_Itip.po | 
- | [gl]({{< ref "/f23/language/gl.md" >}}) | 0 | 56 | 0.0 | /mnt/stockage/packages/f23/php-horde-Horde-Itip/Horde_Itip-2.1.2/locale/gl/LC_MESSAGES/Horde_Itip.po | 
- | [he]({{< ref "/f23/language/he.md" >}}) | 0 | 56 | 0.0 | /mnt/stockage/packages/f23/php-horde-Horde-Itip/Horde_Itip-2.1.2/locale/he/LC_MESSAGES/Horde_Itip.po | 
- | [id]({{< ref "/f23/language/id.md" >}}) | 0 | 56 | 0.0 | /mnt/stockage/packages/f23/php-horde-Horde-Itip/Horde_Itip-2.1.2/locale/id/LC_MESSAGES/Horde_Itip.po | 
- | [is]({{< ref "/f23/language/is.md" >}}) | 0 | 56 | 0.0 | /mnt/stockage/packages/f23/php-horde-Horde-Itip/Horde_Itip-2.1.2/locale/is/LC_MESSAGES/Horde_Itip.po | 
- | [it]({{< ref "/f23/language/it.md" >}}) | 0 | 56 | 0.0 | /mnt/stockage/packages/f23/php-horde-Horde-Itip/Horde_Itip-2.1.2/locale/it/LC_MESSAGES/Horde_Itip.po | 
- | [km]({{< ref "/f23/language/km.md" >}}) | 0 | 56 | 0.0 | /mnt/stockage/packages/f23/php-horde-Horde-Itip/Horde_Itip-2.1.2/locale/km/LC_MESSAGES/Horde_Itip.po | 
- | [ko]({{< ref "/f23/language/ko.md" >}}) | 0 | 56 | 0.0 | /mnt/stockage/packages/f23/php-horde-Horde-Itip/Horde_Itip-2.1.2/locale/ko/LC_MESSAGES/Horde_Itip.po | 
- | [mk]({{< ref "/f23/language/mk.md" >}}) | 0 | 56 | 0.0 | /mnt/stockage/packages/f23/php-horde-Horde-Itip/Horde_Itip-2.1.2/locale/mk/LC_MESSAGES/Horde_Itip.po | 
- | [nn]({{< ref "/f23/language/nn.md" >}}) | 0 | 56 | 0.0 | /mnt/stockage/packages/f23/php-horde-Horde-Itip/Horde_Itip-2.1.2/locale/nn/LC_MESSAGES/Horde_Itip.po | 
- | [pl]({{< ref "/f23/language/pl.md" >}}) | 0 | 56 | 0.0 | /mnt/stockage/packages/f23/php-horde-Horde-Itip/Horde_Itip-2.1.2/locale/pl/LC_MESSAGES/Horde_Itip.po | 
- | [pt]({{< ref "/f23/language/pt.md" >}}) | 0 | 56 | 0.0 | /mnt/stockage/packages/f23/php-horde-Horde-Itip/Horde_Itip-2.1.2/locale/pt/LC_MESSAGES/Horde_Itip.po | 
- | [ro]({{< ref "/f23/language/ro.md" >}}) | 0 | 56 | 0.0 | /mnt/stockage/packages/f23/php-horde-Horde-Itip/Horde_Itip-2.1.2/locale/ro/LC_MESSAGES/Horde_Itip.po | 
- | [ru]({{< ref "/f23/language/ru.md" >}}) | 0 | 56 | 0.0 | /mnt/stockage/packages/f23/php-horde-Horde-Itip/Horde_Itip-2.1.2/locale/ru/LC_MESSAGES/Horde_Itip.po | 
- | [sl]({{< ref "/f23/language/sl.md" >}}) | 0 | 56 | 0.0 | /mnt/stockage/packages/f23/php-horde-Horde-Itip/Horde_Itip-2.1.2/locale/sl/LC_MESSAGES/Horde_Itip.po | 
- | [tr]({{< ref "/f23/language/tr.md" >}}) | 0 | 56 | 0.0 | /mnt/stockage/packages/f23/php-horde-Horde-Itip/Horde_Itip-2.1.2/locale/tr/LC_MESSAGES/Horde_Itip.po | 
- | [zh_Hans]({{< ref "/f23/language/zh_Hans.md" >}}) | 0 | 56 | 0.0 | /mnt/stockage/packages/f23/php-horde-Horde-Itip/Horde_Itip-2.1.2/locale/zh_CN/LC_MESSAGES/Horde_Itip.po | 
- | [zh_Hant]({{< ref "/f23/language/zh_Hant.md" >}}) | 0 | 56 | 0.0 | /mnt/stockage/packages/f23/php-horde-Horde-Itip/Horde_Itip-2.1.2/locale/zh_TW/LC_MESSAGES/Horde_Itip.po | 
+ | [da](/f23/language/da) | 56 | 56 | 100.0 | /mnt/stockage/packages/f23/php-horde-Horde-Itip/Horde_Itip-2.1.2/locale/da/LC_MESSAGES/Horde_Itip.po | 
+ | [de](/f23/language/de) | 56 | 56 | 100.0 | /mnt/stockage/packages/f23/php-horde-Horde-Itip/Horde_Itip-2.1.2/locale/de/LC_MESSAGES/Horde_Itip.po | 
+ | [el](/f23/language/el) | 56 | 56 | 100.0 | /mnt/stockage/packages/f23/php-horde-Horde-Itip/Horde_Itip-2.1.2/locale/el/LC_MESSAGES/Horde_Itip.po | 
+ | [en_US](/f23/language/en_US) | 56 | 56 | 100.0 | /mnt/stockage/packages/f23/php-horde-Horde-Itip/Horde_Itip-2.1.2/locale/nl/LC_MESSAGES/Horde_Itip.po | 
+ | [es](/f23/language/es) | 56 | 56 | 100.0 | /mnt/stockage/packages/f23/php-horde-Horde-Itip/Horde_Itip-2.1.2/locale/es/LC_MESSAGES/Horde_Itip.po | 
+ | [et](/f23/language/et) | 56 | 56 | 100.0 | /mnt/stockage/packages/f23/php-horde-Horde-Itip/Horde_Itip-2.1.2/locale/et/LC_MESSAGES/Horde_Itip.po | 
+ | [eu](/f23/language/eu) | 56 | 56 | 100.0 | /mnt/stockage/packages/f23/php-horde-Horde-Itip/Horde_Itip-2.1.2/locale/eu/LC_MESSAGES/Horde_Itip.po | 
+ | [fi](/f23/language/fi) | 56 | 56 | 100.0 | /mnt/stockage/packages/f23/php-horde-Horde-Itip/Horde_Itip-2.1.2/locale/fi/LC_MESSAGES/Horde_Itip.po | 
+ | [fr](/f23/language/fr) | 56 | 56 | 100.0 | /mnt/stockage/packages/f23/php-horde-Horde-Itip/Horde_Itip-2.1.2/locale/fr/LC_MESSAGES/Horde_Itip.po | 
+ | [hr](/f23/language/hr) | 56 | 56 | 100.0 | /mnt/stockage/packages/f23/php-horde-Horde-Itip/Horde_Itip-2.1.2/locale/hr/LC_MESSAGES/Horde_Itip.po | 
+ | [hu](/f23/language/hu) | 56 | 56 | 100.0 | /mnt/stockage/packages/f23/php-horde-Horde-Itip/Horde_Itip-2.1.2/locale/hu/LC_MESSAGES/Horde_Itip.po | 
+ | [ja](/f23/language/ja) | 56 | 56 | 100.0 | /mnt/stockage/packages/f23/php-horde-Horde-Itip/Horde_Itip-2.1.2/locale/ja/LC_MESSAGES/Horde_Itip.po | 
+ | [lt](/f23/language/lt) | 56 | 56 | 100.0 | /mnt/stockage/packages/f23/php-horde-Horde-Itip/Horde_Itip-2.1.2/locale/lt/LC_MESSAGES/Horde_Itip.po | 
+ | [lv](/f23/language/lv) | 56 | 56 | 100.0 | /mnt/stockage/packages/f23/php-horde-Horde-Itip/Horde_Itip-2.1.2/locale/lv/LC_MESSAGES/Horde_Itip.po | 
+ | [pt_BR](/f23/language/pt_BR) | 56 | 56 | 100.0 | /mnt/stockage/packages/f23/php-horde-Horde-Itip/Horde_Itip-2.1.2/locale/pt_BR/LC_MESSAGES/Horde_Itip.po | 
+ | [sk](/f23/language/sk) | 56 | 56 | 100.0 | /mnt/stockage/packages/f23/php-horde-Horde-Itip/Horde_Itip-2.1.2/locale/sk/LC_MESSAGES/Horde_Itip.po | 
+ | [uk](/f23/language/uk) | 56 | 56 | 100.0 | /mnt/stockage/packages/f23/php-horde-Horde-Itip/Horde_Itip-2.1.2/locale/uk/LC_MESSAGES/Horde_Itip.po | 
+ | [fa](/f23/language/fa) | 2 | 56 | 3.6 | /mnt/stockage/packages/f23/php-horde-Horde-Itip/Horde_Itip-2.1.2/locale/fa/LC_MESSAGES/Horde_Itip.po | 
+ | [nb_NO](/f23/language/nb_NO) | 2 | 56 | 3.6 | /mnt/stockage/packages/f23/php-horde-Horde-Itip/Horde_Itip-2.1.2/locale/nb/LC_MESSAGES/Horde_Itip.po | 
+ | [sv](/f23/language/sv) | 2 | 56 | 3.6 | /mnt/stockage/packages/f23/php-horde-Horde-Itip/Horde_Itip-2.1.2/locale/sv/LC_MESSAGES/Horde_Itip.po | 
+ | [ar](/f23/language/ar) | 0 | 56 | 0.0 | /mnt/stockage/packages/f23/php-horde-Horde-Itip/Horde_Itip-2.1.2/locale/ar/LC_MESSAGES/Horde_Itip.po | 
+ | [bg](/f23/language/bg) | 0 | 56 | 0.0 | /mnt/stockage/packages/f23/php-horde-Horde-Itip/Horde_Itip-2.1.2/locale/bg/LC_MESSAGES/Horde_Itip.po | 
+ | [bs](/f23/language/bs) | 0 | 56 | 0.0 | /mnt/stockage/packages/f23/php-horde-Horde-Itip/Horde_Itip-2.1.2/locale/bs/LC_MESSAGES/Horde_Itip.po | 
+ | [ca](/f23/language/ca) | 0 | 56 | 0.0 | /mnt/stockage/packages/f23/php-horde-Horde-Itip/Horde_Itip-2.1.2/locale/ca/LC_MESSAGES/Horde_Itip.po | 
+ | [cs](/f23/language/cs) | 0 | 56 | 0.0 | /mnt/stockage/packages/f23/php-horde-Horde-Itip/Horde_Itip-2.1.2/locale/cs/LC_MESSAGES/Horde_Itip.po | 
+ | [gl](/f23/language/gl) | 0 | 56 | 0.0 | /mnt/stockage/packages/f23/php-horde-Horde-Itip/Horde_Itip-2.1.2/locale/gl/LC_MESSAGES/Horde_Itip.po | 
+ | [he](/f23/language/he) | 0 | 56 | 0.0 | /mnt/stockage/packages/f23/php-horde-Horde-Itip/Horde_Itip-2.1.2/locale/he/LC_MESSAGES/Horde_Itip.po | 
+ | [id](/f23/language/id) | 0 | 56 | 0.0 | /mnt/stockage/packages/f23/php-horde-Horde-Itip/Horde_Itip-2.1.2/locale/id/LC_MESSAGES/Horde_Itip.po | 
+ | [is](/f23/language/is) | 0 | 56 | 0.0 | /mnt/stockage/packages/f23/php-horde-Horde-Itip/Horde_Itip-2.1.2/locale/is/LC_MESSAGES/Horde_Itip.po | 
+ | [it](/f23/language/it) | 0 | 56 | 0.0 | /mnt/stockage/packages/f23/php-horde-Horde-Itip/Horde_Itip-2.1.2/locale/it/LC_MESSAGES/Horde_Itip.po | 
+ | [km](/f23/language/km) | 0 | 56 | 0.0 | /mnt/stockage/packages/f23/php-horde-Horde-Itip/Horde_Itip-2.1.2/locale/km/LC_MESSAGES/Horde_Itip.po | 
+ | [ko](/f23/language/ko) | 0 | 56 | 0.0 | /mnt/stockage/packages/f23/php-horde-Horde-Itip/Horde_Itip-2.1.2/locale/ko/LC_MESSAGES/Horde_Itip.po | 
+ | [mk](/f23/language/mk) | 0 | 56 | 0.0 | /mnt/stockage/packages/f23/php-horde-Horde-Itip/Horde_Itip-2.1.2/locale/mk/LC_MESSAGES/Horde_Itip.po | 
+ | [nn](/f23/language/nn) | 0 | 56 | 0.0 | /mnt/stockage/packages/f23/php-horde-Horde-Itip/Horde_Itip-2.1.2/locale/nn/LC_MESSAGES/Horde_Itip.po | 
+ | [pl](/f23/language/pl) | 0 | 56 | 0.0 | /mnt/stockage/packages/f23/php-horde-Horde-Itip/Horde_Itip-2.1.2/locale/pl/LC_MESSAGES/Horde_Itip.po | 
+ | [pt](/f23/language/pt) | 0 | 56 | 0.0 | /mnt/stockage/packages/f23/php-horde-Horde-Itip/Horde_Itip-2.1.2/locale/pt/LC_MESSAGES/Horde_Itip.po | 
+ | [ro](/f23/language/ro) | 0 | 56 | 0.0 | /mnt/stockage/packages/f23/php-horde-Horde-Itip/Horde_Itip-2.1.2/locale/ro/LC_MESSAGES/Horde_Itip.po | 
+ | [ru](/f23/language/ru) | 0 | 56 | 0.0 | /mnt/stockage/packages/f23/php-horde-Horde-Itip/Horde_Itip-2.1.2/locale/ru/LC_MESSAGES/Horde_Itip.po | 
+ | [sl](/f23/language/sl) | 0 | 56 | 0.0 | /mnt/stockage/packages/f23/php-horde-Horde-Itip/Horde_Itip-2.1.2/locale/sl/LC_MESSAGES/Horde_Itip.po | 
+ | [tr](/f23/language/tr) | 0 | 56 | 0.0 | /mnt/stockage/packages/f23/php-horde-Horde-Itip/Horde_Itip-2.1.2/locale/tr/LC_MESSAGES/Horde_Itip.po | 
+ | [zh_Hans](/f23/language/zh_Hans) | 0 | 56 | 0.0 | /mnt/stockage/packages/f23/php-horde-Horde-Itip/Horde_Itip-2.1.2/locale/zh_CN/LC_MESSAGES/Horde_Itip.po | 
+ | [zh_Hant](/f23/language/zh_Hant) | 0 | 56 | 0.0 | /mnt/stockage/packages/f23/php-horde-Horde-Itip/Horde_Itip-2.1.2/locale/zh_TW/LC_MESSAGES/Horde_Itip.po | 
 {.sortable}
 
 

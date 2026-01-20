@@ -18,11 +18,11 @@ The package pcb (version 4.2.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [pt_BR]({{< ref "/f32/language/pt_BR.md" >}}) | 6246 | 6544 | 95.4 | /mnt/stockage/packages/f32/pcb/po/pt_BR.po | 
- | [ru]({{< ref "/f32/language/ru.md" >}}) | 4381 | 6544 | 66.9 | /mnt/stockage/packages/f32/pcb/po/ru.po | 
- | [nl]({{< ref "/f32/language/nl.md" >}}) | 2894 | 6544 | 44.2 | /mnt/stockage/packages/f32/pcb/po/nl.po | 
- | [fr]({{< ref "/f32/language/fr.md" >}}) | 928 | 6544 | 14.2 | /mnt/stockage/packages/f32/pcb/po/fr.po | 
- | [de]({{< ref "/f32/language/de.md" >}}) | 0 | 6544 | 0.0 | /mnt/stockage/packages/f32/pcb/po/de.po | 
+ | [pt_BR](/f32/language/pt_BR) | 6246 | 6544 | 95.4 | /mnt/stockage/packages/f32/pcb/po/pt_BR.po | 
+ | [ru](/f32/language/ru) | 4381 | 6544 | 66.9 | /mnt/stockage/packages/f32/pcb/po/ru.po | 
+ | [nl](/f32/language/nl) | 2894 | 6544 | 44.2 | /mnt/stockage/packages/f32/pcb/po/nl.po | 
+ | [fr](/f32/language/fr) | 928 | 6544 | 14.2 | /mnt/stockage/packages/f32/pcb/po/fr.po | 
+ | [de](/f32/language/de) | 0 | 6544 | 0.0 | /mnt/stockage/packages/f32/pcb/po/de.po | 
 {.sortable}
 
 

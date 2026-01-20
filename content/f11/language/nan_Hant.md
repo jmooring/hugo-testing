@@ -38,7 +38,7 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [stellarium]({{< ref "/f11/package/stellarium.md" >}}) | 0 | 1456 | 0.0 | Min Nan Chinese <nan@li.org> | 
+ | [stellarium](/f11/package/stellarium) | 0 | 1456 | 0.0 | Min Nan Chinese <nan@li.org> | 
 {.sortable}
 
 

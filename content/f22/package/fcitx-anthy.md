@@ -18,10 +18,10 @@ The package fcitx-anthy (version 0.2.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ja]({{< ref "/f22/language/ja.md" >}}) | 356 | 356 | 100.0 | /mnt/stockage/packages/f22/fcitx-anthy/po/ja.po | 
- | [de]({{< ref "/f22/language/de.md" >}}) | 339 | 356 | 95.2 | /mnt/stockage/packages/f22/fcitx-anthy/po/de.po | 
- | [zh_Hans]({{< ref "/f22/language/zh_Hans.md" >}}) | 339 | 356 | 95.2 | /mnt/stockage/packages/f22/fcitx-anthy/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f22/language/zh_Hant.md" >}}) | 287 | 356 | 80.6 | /mnt/stockage/packages/f22/fcitx-anthy/po/zh_TW.po | 
+ | [ja](/f22/language/ja) | 356 | 356 | 100.0 | /mnt/stockage/packages/f22/fcitx-anthy/po/ja.po | 
+ | [de](/f22/language/de) | 339 | 356 | 95.2 | /mnt/stockage/packages/f22/fcitx-anthy/po/de.po | 
+ | [zh_Hans](/f22/language/zh_Hans) | 339 | 356 | 95.2 | /mnt/stockage/packages/f22/fcitx-anthy/po/zh_CN.po | 
+ | [zh_Hant](/f22/language/zh_Hant) | 287 | 356 | 80.6 | /mnt/stockage/packages/f22/fcitx-anthy/po/zh_TW.po | 
 {.sortable}
 
 

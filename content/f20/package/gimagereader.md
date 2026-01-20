@@ -18,14 +18,14 @@ The package gimagereader (version 3.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f20/language/cs.md" >}}) | 741 | 741 | 100.0 | /mnt/stockage/packages/f20/gimagereader/po/cs.po | 
- | [de]({{< ref "/f20/language/de.md" >}}) | 741 | 741 | 100.0 | /mnt/stockage/packages/f20/gimagereader/po/de.po | 
- | [en_US]({{< ref "/f20/language/en_US.md" >}}) | 741 | 741 | 100.0 | /mnt/stockage/packages/f20/gimagereader/po/pt_BR.po | 
- | [es]({{< ref "/f20/language/es.md" >}}) | 741 | 741 | 100.0 | /mnt/stockage/packages/f20/gimagereader/po/es_ES.po | 
- | [fr]({{< ref "/f20/language/fr.md" >}}) | 741 | 741 | 100.0 | /mnt/stockage/packages/f20/gimagereader/po/fr.po | 
- | [it]({{< ref "/f20/language/it.md" >}}) | 741 | 741 | 100.0 | /mnt/stockage/packages/f20/gimagereader/po/it.po | 
- | [ru]({{< ref "/f20/language/ru.md" >}}) | 741 | 741 | 100.0 | /mnt/stockage/packages/f20/gimagereader/po/ru.po | 
- | [zh_Hans]({{< ref "/f20/language/zh_Hans.md" >}}) | 411 | 741 | 55.5 | /mnt/stockage/packages/f20/gimagereader/po/zh_CN.po | 
+ | [cs](/f20/language/cs) | 741 | 741 | 100.0 | /mnt/stockage/packages/f20/gimagereader/po/cs.po | 
+ | [de](/f20/language/de) | 741 | 741 | 100.0 | /mnt/stockage/packages/f20/gimagereader/po/de.po | 
+ | [en_US](/f20/language/en_US) | 741 | 741 | 100.0 | /mnt/stockage/packages/f20/gimagereader/po/pt_BR.po | 
+ | [es](/f20/language/es) | 741 | 741 | 100.0 | /mnt/stockage/packages/f20/gimagereader/po/es_ES.po | 
+ | [fr](/f20/language/fr) | 741 | 741 | 100.0 | /mnt/stockage/packages/f20/gimagereader/po/fr.po | 
+ | [it](/f20/language/it) | 741 | 741 | 100.0 | /mnt/stockage/packages/f20/gimagereader/po/it.po | 
+ | [ru](/f20/language/ru) | 741 | 741 | 100.0 | /mnt/stockage/packages/f20/gimagereader/po/ru.po | 
+ | [zh_Hans](/f20/language/zh_Hans) | 411 | 741 | 55.5 | /mnt/stockage/packages/f20/gimagereader/po/zh_CN.po | 
 {.sortable}
 
 

@@ -18,17 +18,17 @@ The package blackbox-terminal (version 0.15.0~^2.bb1ce17):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f43/language/cs.md" >}}) | 1115 | 1115 | 100.0 | /mnt/stockage/packages/f43/blackbox-terminal/po/cs.po | 
- | [de]({{< ref "/f43/language/de.md" >}}) | 1115 | 1115 | 100.0 | /mnt/stockage/packages/f43/blackbox-terminal/po/de.po | 
- | [es]({{< ref "/f43/language/es.md" >}}) | 1115 | 1115 | 100.0 | /mnt/stockage/packages/f43/blackbox-terminal/po/es.po | 
- | [fr]({{< ref "/f43/language/fr.md" >}}) | 1115 | 1115 | 100.0 | /mnt/stockage/packages/f43/blackbox-terminal/po/fr.po | 
- | [nl]({{< ref "/f43/language/nl.md" >}}) | 1115 | 1115 | 100.0 | /mnt/stockage/packages/f43/blackbox-terminal/po/nl.po | 
- | [pt_BR]({{< ref "/f43/language/pt_BR.md" >}}) | 1115 | 1115 | 100.0 | /mnt/stockage/packages/f43/blackbox-terminal/po/pt_BR.po | 
- | [ru]({{< ref "/f43/language/ru.md" >}}) | 1115 | 1115 | 100.0 | /mnt/stockage/packages/f43/blackbox-terminal/po/ru.po | 
- | [sv]({{< ref "/f43/language/sv.md" >}}) | 1115 | 1115 | 100.0 | /mnt/stockage/packages/f43/blackbox-terminal/po/sv.po | 
- | [tr]({{< ref "/f43/language/tr.md" >}}) | 1115 | 1115 | 100.0 | /mnt/stockage/packages/f43/blackbox-terminal/po/tr.po | 
- | [zh_Hans]({{< ref "/f43/language/zh_Hans.md" >}}) | 1115 | 1115 | 100.0 | /mnt/stockage/packages/f43/blackbox-terminal/po/zh_CN.po | 
- | [it]({{< ref "/f43/language/it.md" >}}) | 1113 | 1115 | 99.8 | /mnt/stockage/packages/f43/blackbox-terminal/po/it.po | 
+ | [cs](/f43/language/cs) | 1115 | 1115 | 100.0 | /mnt/stockage/packages/f43/blackbox-terminal/po/cs.po | 
+ | [de](/f43/language/de) | 1115 | 1115 | 100.0 | /mnt/stockage/packages/f43/blackbox-terminal/po/de.po | 
+ | [es](/f43/language/es) | 1115 | 1115 | 100.0 | /mnt/stockage/packages/f43/blackbox-terminal/po/es.po | 
+ | [fr](/f43/language/fr) | 1115 | 1115 | 100.0 | /mnt/stockage/packages/f43/blackbox-terminal/po/fr.po | 
+ | [nl](/f43/language/nl) | 1115 | 1115 | 100.0 | /mnt/stockage/packages/f43/blackbox-terminal/po/nl.po | 
+ | [pt_BR](/f43/language/pt_BR) | 1115 | 1115 | 100.0 | /mnt/stockage/packages/f43/blackbox-terminal/po/pt_BR.po | 
+ | [ru](/f43/language/ru) | 1115 | 1115 | 100.0 | /mnt/stockage/packages/f43/blackbox-terminal/po/ru.po | 
+ | [sv](/f43/language/sv) | 1115 | 1115 | 100.0 | /mnt/stockage/packages/f43/blackbox-terminal/po/sv.po | 
+ | [tr](/f43/language/tr) | 1115 | 1115 | 100.0 | /mnt/stockage/packages/f43/blackbox-terminal/po/tr.po | 
+ | [zh_Hans](/f43/language/zh_Hans) | 1115 | 1115 | 100.0 | /mnt/stockage/packages/f43/blackbox-terminal/po/zh_CN.po | 
+ | [it](/f43/language/it) | 1113 | 1115 | 99.8 | /mnt/stockage/packages/f43/blackbox-terminal/po/it.po | 
 {.sortable}
 
 

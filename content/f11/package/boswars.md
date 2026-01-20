@@ -18,19 +18,19 @@ The package boswars (version 2.5):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f11/language/fr.md" >}}) | 205 | 215 | 95.3 | /mnt/stockage/packages/f11/boswars/languages/fr.po | 
- | [da]({{< ref "/f11/language/da.md" >}}) | 204 | 215 | 94.9 | /mnt/stockage/packages/f11/boswars/languages/da.po | 
- | [es]({{< ref "/f11/language/es.md" >}}) | 204 | 215 | 94.9 | /mnt/stockage/packages/f11/boswars/languages/es.po | 
- | [nl]({{< ref "/f11/language/nl.md" >}}) | 204 | 215 | 94.9 | /mnt/stockage/packages/f11/boswars/languages/nl.po | 
- | [pt]({{< ref "/f11/language/pt.md" >}}) | 204 | 215 | 94.9 | /mnt/stockage/packages/f11/boswars/languages/pt.po | 
- | [sv]({{< ref "/f11/language/sv.md" >}}) | 204 | 215 | 94.9 | /mnt/stockage/packages/f11/boswars/languages/sv.po | 
- | [tr]({{< ref "/f11/language/tr.md" >}}) | 204 | 215 | 94.9 | /mnt/stockage/packages/f11/boswars/languages/tr.po | 
- | [fi]({{< ref "/f11/language/fi.md" >}}) | 191 | 215 | 88.8 | /mnt/stockage/packages/f11/boswars/languages/fi.po | 
- | [cs]({{< ref "/f11/language/cs.md" >}}) | 190 | 215 | 88.4 | /mnt/stockage/packages/f11/boswars/languages/cs.po | 
- | [de]({{< ref "/f11/language/de.md" >}}) | 186 | 215 | 86.5 | /mnt/stockage/packages/f11/boswars/languages/de.po | 
- | [bg]({{< ref "/f11/language/bg.md" >}}) | 171 | 215 | 79.5 | /mnt/stockage/packages/f11/boswars/languages/bg.po | 
- | [pl]({{< ref "/f11/language/pl.md" >}}) | 171 | 215 | 79.5 | /mnt/stockage/packages/f11/boswars/languages/pl.po | 
- | [error]({{< ref "/f11/language/error.md" >}}) | 3980 | 6840 | 58.2 | /mnt/stockage/packages/f11/boswars/languages/bos-tr.po/mnt/stockage/packages/f11/boswars/languages/bos-sv.po/mnt/stockage/packages/f11/boswars/languages/bos-pt.po/mnt/stockage/packages/f11/boswars/languages/bos-nl.po/mnt/stockage/packages/f11/boswars/languages/bos-fr.po/mnt/stockage/packages/f11/boswars/languages/bos-fi.po/mnt/stockage/packages/f11/boswars/languages/bos-es.po/mnt/stockage/packages/f11/boswars/languages/bos-de.po/mnt/stockage/packages/f11/boswars/languages/bos-da.po/mnt/stockage/packages/f11/boswars/languages/bos-cs.po | 
+ | [fr](/f11/language/fr) | 205 | 215 | 95.3 | /mnt/stockage/packages/f11/boswars/languages/fr.po | 
+ | [da](/f11/language/da) | 204 | 215 | 94.9 | /mnt/stockage/packages/f11/boswars/languages/da.po | 
+ | [es](/f11/language/es) | 204 | 215 | 94.9 | /mnt/stockage/packages/f11/boswars/languages/es.po | 
+ | [nl](/f11/language/nl) | 204 | 215 | 94.9 | /mnt/stockage/packages/f11/boswars/languages/nl.po | 
+ | [pt](/f11/language/pt) | 204 | 215 | 94.9 | /mnt/stockage/packages/f11/boswars/languages/pt.po | 
+ | [sv](/f11/language/sv) | 204 | 215 | 94.9 | /mnt/stockage/packages/f11/boswars/languages/sv.po | 
+ | [tr](/f11/language/tr) | 204 | 215 | 94.9 | /mnt/stockage/packages/f11/boswars/languages/tr.po | 
+ | [fi](/f11/language/fi) | 191 | 215 | 88.8 | /mnt/stockage/packages/f11/boswars/languages/fi.po | 
+ | [cs](/f11/language/cs) | 190 | 215 | 88.4 | /mnt/stockage/packages/f11/boswars/languages/cs.po | 
+ | [de](/f11/language/de) | 186 | 215 | 86.5 | /mnt/stockage/packages/f11/boswars/languages/de.po | 
+ | [bg](/f11/language/bg) | 171 | 215 | 79.5 | /mnt/stockage/packages/f11/boswars/languages/bg.po | 
+ | [pl](/f11/language/pl) | 171 | 215 | 79.5 | /mnt/stockage/packages/f11/boswars/languages/pl.po | 
+ | [error](/f11/language/error) | 3980 | 6840 | 58.2 | /mnt/stockage/packages/f11/boswars/languages/bos-tr.po/mnt/stockage/packages/f11/boswars/languages/bos-sv.po/mnt/stockage/packages/f11/boswars/languages/bos-pt.po/mnt/stockage/packages/f11/boswars/languages/bos-nl.po/mnt/stockage/packages/f11/boswars/languages/bos-fr.po/mnt/stockage/packages/f11/boswars/languages/bos-fi.po/mnt/stockage/packages/f11/boswars/languages/bos-es.po/mnt/stockage/packages/f11/boswars/languages/bos-de.po/mnt/stockage/packages/f11/boswars/languages/bos-da.po/mnt/stockage/packages/f11/boswars/languages/bos-cs.po | 
 {.sortable}
 
 

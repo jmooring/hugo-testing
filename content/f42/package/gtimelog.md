@@ -18,11 +18,11 @@ The package gtimelog (version 0.12.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [lt]({{< ref "/f42/language/lt.md" >}}) | 511 | 511 | 100.0 | /mnt/stockage/packages/f42/gtimelog/src/gtimelog/po/lt.po | 
- | [nb_NO]({{< ref "/f42/language/nb_NO.md" >}}) | 504 | 511 | 98.6 | /mnt/stockage/packages/f42/gtimelog/src/gtimelog/po/nb.po | 
- | [nl]({{< ref "/f42/language/nl.md" >}}) | 504 | 511 | 98.6 | /mnt/stockage/packages/f42/gtimelog/src/gtimelog/po/nl.po | 
- | [fr]({{< ref "/f42/language/fr.md" >}}) | 475 | 511 | 93.0 | /mnt/stockage/packages/f42/gtimelog/src/gtimelog/po/fr.po | 
- | [en]({{< ref "/f42/language/en.md" >}}) | 6 | 511 | 1.2 | /mnt/stockage/packages/f42/gtimelog/src/gtimelog/po/en.po | 
+ | [lt](/f42/language/lt) | 511 | 511 | 100.0 | /mnt/stockage/packages/f42/gtimelog/src/gtimelog/po/lt.po | 
+ | [nb_NO](/f42/language/nb_NO) | 504 | 511 | 98.6 | /mnt/stockage/packages/f42/gtimelog/src/gtimelog/po/nb.po | 
+ | [nl](/f42/language/nl) | 504 | 511 | 98.6 | /mnt/stockage/packages/f42/gtimelog/src/gtimelog/po/nl.po | 
+ | [fr](/f42/language/fr) | 475 | 511 | 93.0 | /mnt/stockage/packages/f42/gtimelog/src/gtimelog/po/fr.po | 
+ | [en](/f42/language/en) | 6 | 511 | 1.2 | /mnt/stockage/packages/f42/gtimelog/src/gtimelog/po/en.po | 
 {.sortable}
 
 

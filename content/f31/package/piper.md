@@ -18,11 +18,11 @@ The package piper (version 0.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [hr]({{< ref "/f31/language/hr.md" >}}) | 471 | 471 | 100.0 | /mnt/stockage/packages/f31/piper/po/hr.po | 
- | [pl]({{< ref "/f31/language/pl.md" >}}) | 471 | 471 | 100.0 | /mnt/stockage/packages/f31/piper/po/pl.po | 
- | [sv]({{< ref "/f31/language/sv.md" >}}) | 363 | 363 | 100.0 | /mnt/stockage/packages/f31/piper/po/sv.po | 
- | [nl]({{< ref "/f31/language/nl.md" >}}) | 361 | 363 | 99.4 | /mnt/stockage/packages/f31/piper/po/nl.po | 
- | [de]({{< ref "/f31/language/de.md" >}}) | 423 | 471 | 89.8 | /mnt/stockage/packages/f31/piper/po/de.po | 
+ | [hr](/f31/language/hr) | 471 | 471 | 100.0 | /mnt/stockage/packages/f31/piper/po/hr.po | 
+ | [pl](/f31/language/pl) | 471 | 471 | 100.0 | /mnt/stockage/packages/f31/piper/po/pl.po | 
+ | [sv](/f31/language/sv) | 363 | 363 | 100.0 | /mnt/stockage/packages/f31/piper/po/sv.po | 
+ | [nl](/f31/language/nl) | 361 | 363 | 99.4 | /mnt/stockage/packages/f31/piper/po/nl.po | 
+ | [de](/f31/language/de) | 423 | 471 | 89.8 | /mnt/stockage/packages/f31/piper/po/de.po | 
 {.sortable}
 
 

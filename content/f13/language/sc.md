@@ -38,8 +38,8 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [pootle]({{< ref "/f13/package/pootle.md" >}}) | 2424 | 2424 | 100.0 | LANGUAGE <LL@li.org> | 
- | [calibre]({{< ref "/f13/package/calibre.md" >}}) | 3 | 19998 | 0.0 | Sardinian <sc@li.org> | 
+ | [pootle](/f13/package/pootle) | 2424 | 2424 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [calibre](/f13/package/calibre) | 3 | 19998 | 0.0 | Sardinian <sc@li.org> | 
 {.sortable}
 
 

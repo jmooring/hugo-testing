@@ -18,14 +18,14 @@ The package git-cola (version 1.9.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f18/language/de.md" >}}) | 1500 | 1541 | 97.3 | /mnt/stockage/packages/f18/git-cola/po/de.po/mnt/stockage/packages/f18/git-cola/po/glossary/de.po | 
- | [it]({{< ref "/f18/language/it.md" >}}) | 219 | 1541 | 14.2 | /mnt/stockage/packages/f18/git-cola/po/it.po/mnt/stockage/packages/f18/git-cola/po/glossary/it.po | 
- | [zh_Hans]({{< ref "/f18/language/zh_Hans.md" >}}) | 215 | 1537 | 14.0 | /mnt/stockage/packages/f18/git-cola/po/zh_CN.po/mnt/stockage/packages/f18/git-cola/po/glossary/zh_cn.po | 
- | [fr]({{< ref "/f18/language/fr.md" >}}) | 145 | 1467 | 9.9 | /mnt/stockage/packages/f18/git-cola/po/fr.po | 
- | [hu]({{< ref "/f18/language/hu.md" >}}) | 145 | 1467 | 9.9 | /mnt/stockage/packages/f18/git-cola/po/hu.po | 
- | [ja]({{< ref "/f18/language/ja.md" >}}) | 145 | 1467 | 9.9 | /mnt/stockage/packages/f18/git-cola/po/ja.po | 
- | [ru]({{< ref "/f18/language/ru.md" >}}) | 145 | 1467 | 9.9 | /mnt/stockage/packages/f18/git-cola/po/ru.po | 
- | [sv]({{< ref "/f18/language/sv.md" >}}) | 145 | 1467 | 9.9 | /mnt/stockage/packages/f18/git-cola/po/sv.po | 
+ | [de](/f18/language/de) | 1500 | 1541 | 97.3 | /mnt/stockage/packages/f18/git-cola/po/de.po/mnt/stockage/packages/f18/git-cola/po/glossary/de.po | 
+ | [it](/f18/language/it) | 219 | 1541 | 14.2 | /mnt/stockage/packages/f18/git-cola/po/it.po/mnt/stockage/packages/f18/git-cola/po/glossary/it.po | 
+ | [zh_Hans](/f18/language/zh_Hans) | 215 | 1537 | 14.0 | /mnt/stockage/packages/f18/git-cola/po/zh_CN.po/mnt/stockage/packages/f18/git-cola/po/glossary/zh_cn.po | 
+ | [fr](/f18/language/fr) | 145 | 1467 | 9.9 | /mnt/stockage/packages/f18/git-cola/po/fr.po | 
+ | [hu](/f18/language/hu) | 145 | 1467 | 9.9 | /mnt/stockage/packages/f18/git-cola/po/hu.po | 
+ | [ja](/f18/language/ja) | 145 | 1467 | 9.9 | /mnt/stockage/packages/f18/git-cola/po/ja.po | 
+ | [ru](/f18/language/ru) | 145 | 1467 | 9.9 | /mnt/stockage/packages/f18/git-cola/po/ru.po | 
+ | [sv](/f18/language/sv) | 145 | 1467 | 9.9 | /mnt/stockage/packages/f18/git-cola/po/sv.po | 
 {.sortable}
 
 

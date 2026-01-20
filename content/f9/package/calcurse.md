@@ -18,11 +18,11 @@ The package calcurse (version 2.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [nl]({{< ref "/f9/language/nl.md" >}}) | 3549 | 3549 | 100.0 | /mnt/stockage/packages/f9/calcurse/po/nl.po | 
- | [fr]({{< ref "/f9/language/fr.md" >}}) | 3114 | 3549 | 87.7 | /mnt/stockage/packages/f9/calcurse/po/fr.po | 
- | [de]({{< ref "/f9/language/de.md" >}}) | 3048 | 3549 | 85.9 | /mnt/stockage/packages/f9/calcurse/po/de.po | 
- | [es]({{< ref "/f9/language/es.md" >}}) | 3000 | 3549 | 84.5 | /mnt/stockage/packages/f9/calcurse/po/es.po | 
- | [en]({{< ref "/f9/language/en.md" >}}) | 838 | 3549 | 23.6 | /mnt/stockage/packages/f9/calcurse/po/en.po | 
+ | [nl](/f9/language/nl) | 3549 | 3549 | 100.0 | /mnt/stockage/packages/f9/calcurse/po/nl.po | 
+ | [fr](/f9/language/fr) | 3114 | 3549 | 87.7 | /mnt/stockage/packages/f9/calcurse/po/fr.po | 
+ | [de](/f9/language/de) | 3048 | 3549 | 85.9 | /mnt/stockage/packages/f9/calcurse/po/de.po | 
+ | [es](/f9/language/es) | 3000 | 3549 | 84.5 | /mnt/stockage/packages/f9/calcurse/po/es.po | 
+ | [en](/f9/language/en) | 838 | 3549 | 23.6 | /mnt/stockage/packages/f9/calcurse/po/en.po | 
 {.sortable}
 
 

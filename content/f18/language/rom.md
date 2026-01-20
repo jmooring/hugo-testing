@@ -38,7 +38,7 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [openerp-client]({{< ref "/f18/package/openerp-client.md" >}}) | 0 | 7729 | 0.0 | Romany <rom@li.org> | 
+ | [openerp-client](/f18/package/openerp-client) | 0 | 7729 | 0.0 | Romany <rom@li.org> | 
 {.sortable}
 
 

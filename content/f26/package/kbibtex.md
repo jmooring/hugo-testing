@@ -18,32 +18,32 @@ The package kbibtex (version 0.6.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f26/language/ca.md" >}}) | 2294 | 2294 | 100.0 | /mnt/stockage/packages/f26/kbibtex/po/ca/kbibtex.po | 
- | [ca@valencia]({{< ref "/f26/language/ca@valencia.md" >}}) | 2294 | 2294 | 100.0 | /mnt/stockage/packages/f26/kbibtex/po/ca@valencia/kbibtex.po | 
- | [de]({{< ref "/f26/language/de.md" >}}) | 2294 | 2294 | 100.0 | /mnt/stockage/packages/f26/kbibtex/po/de/kbibtex.po | 
- | [en_GB]({{< ref "/f26/language/en_GB.md" >}}) | 2294 | 2294 | 100.0 | /mnt/stockage/packages/f26/kbibtex/po/en_GB/kbibtex.po | 
- | [es]({{< ref "/f26/language/es.md" >}}) | 2294 | 2294 | 100.0 | /mnt/stockage/packages/f26/kbibtex/po/es/kbibtex.po | 
- | [nl]({{< ref "/f26/language/nl.md" >}}) | 2294 | 2294 | 100.0 | /mnt/stockage/packages/f26/kbibtex/po/nl/kbibtex.po | 
- | [pl]({{< ref "/f26/language/pl.md" >}}) | 2294 | 2294 | 100.0 | /mnt/stockage/packages/f26/kbibtex/po/pl/kbibtex.po | 
- | [pt]({{< ref "/f26/language/pt.md" >}}) | 2294 | 2294 | 100.0 | /mnt/stockage/packages/f26/kbibtex/po/pt/kbibtex.po | 
- | [pt_BR]({{< ref "/f26/language/pt_BR.md" >}}) | 2294 | 2294 | 100.0 | /mnt/stockage/packages/f26/kbibtex/po/pt_BR/kbibtex.po | 
- | [sk]({{< ref "/f26/language/sk.md" >}}) | 2294 | 2294 | 100.0 | /mnt/stockage/packages/f26/kbibtex/po/sk/kbibtex.po | 
- | [sv]({{< ref "/f26/language/sv.md" >}}) | 2294 | 2294 | 100.0 | /mnt/stockage/packages/f26/kbibtex/po/sv/kbibtex.po | 
- | [uk]({{< ref "/f26/language/uk.md" >}}) | 2294 | 2294 | 100.0 | /mnt/stockage/packages/f26/kbibtex/po/uk/kbibtex.po | 
- | [et]({{< ref "/f26/language/et.md" >}}) | 2285 | 2294 | 99.6 | /mnt/stockage/packages/f26/kbibtex/po/et/kbibtex.po | 
- | [gl]({{< ref "/f26/language/gl.md" >}}) | 2285 | 2294 | 99.6 | /mnt/stockage/packages/f26/kbibtex/po/gl/kbibtex.po | 
- | [it]({{< ref "/f26/language/it.md" >}}) | 2267 | 2294 | 98.8 | /mnt/stockage/packages/f26/kbibtex/po/it/kbibtex.po | 
- | [bs]({{< ref "/f26/language/bs.md" >}}) | 2259 | 2294 | 98.5 | /mnt/stockage/packages/f26/kbibtex/po/bs/kbibtex.po | 
- | [fi]({{< ref "/f26/language/fi.md" >}}) | 2249 | 2294 | 98.0 | /mnt/stockage/packages/f26/kbibtex/po/fi/kbibtex.po | 
- | [fr]({{< ref "/f26/language/fr.md" >}}) | 2238 | 2294 | 97.6 | /mnt/stockage/packages/f26/kbibtex/po/fr/kbibtex.po | 
- | [cs]({{< ref "/f26/language/cs.md" >}}) | 1897 | 2294 | 82.7 | /mnt/stockage/packages/f26/kbibtex/po/cs/kbibtex.po | 
- | [nb_NO]({{< ref "/f26/language/nb_NO.md" >}}) | 1400 | 2294 | 61.0 | /mnt/stockage/packages/f26/kbibtex/po/nb/kbibtex.po | 
- | [ru]({{< ref "/f26/language/ru.md" >}}) | 1092 | 2294 | 47.6 | /mnt/stockage/packages/f26/kbibtex/po/ru/kbibtex.po | 
- | [hu]({{< ref "/f26/language/hu.md" >}}) | 63 | 2294 | 2.7 | /mnt/stockage/packages/f26/kbibtex/po/hu/kbibtex.po | 
- | [ast]({{< ref "/f26/language/ast.md" >}}) | 1 | 2294 | 0.0 | /mnt/stockage/packages/f26/kbibtex/po/ast/kbibtex.po | 
- | [ja]({{< ref "/f26/language/ja.md" >}}) | 0 | 2294 | 0.0 | /mnt/stockage/packages/f26/kbibtex/po/ja/kbibtex.po | 
- | [lt]({{< ref "/f26/language/lt.md" >}}) | 0 | 2294 | 0.0 | /mnt/stockage/packages/f26/kbibtex/po/lt/kbibtex.po | 
- | [nds]({{< ref "/f26/language/nds.md" >}}) | 0 | 2294 | 0.0 | /mnt/stockage/packages/f26/kbibtex/po/nds/kbibtex.po | 
+ | [ca](/f26/language/ca) | 2294 | 2294 | 100.0 | /mnt/stockage/packages/f26/kbibtex/po/ca/kbibtex.po | 
+ | [ca@valencia](/f26/language/ca@valencia) | 2294 | 2294 | 100.0 | /mnt/stockage/packages/f26/kbibtex/po/ca@valencia/kbibtex.po | 
+ | [de](/f26/language/de) | 2294 | 2294 | 100.0 | /mnt/stockage/packages/f26/kbibtex/po/de/kbibtex.po | 
+ | [en_GB](/f26/language/en_GB) | 2294 | 2294 | 100.0 | /mnt/stockage/packages/f26/kbibtex/po/en_GB/kbibtex.po | 
+ | [es](/f26/language/es) | 2294 | 2294 | 100.0 | /mnt/stockage/packages/f26/kbibtex/po/es/kbibtex.po | 
+ | [nl](/f26/language/nl) | 2294 | 2294 | 100.0 | /mnt/stockage/packages/f26/kbibtex/po/nl/kbibtex.po | 
+ | [pl](/f26/language/pl) | 2294 | 2294 | 100.0 | /mnt/stockage/packages/f26/kbibtex/po/pl/kbibtex.po | 
+ | [pt](/f26/language/pt) | 2294 | 2294 | 100.0 | /mnt/stockage/packages/f26/kbibtex/po/pt/kbibtex.po | 
+ | [pt_BR](/f26/language/pt_BR) | 2294 | 2294 | 100.0 | /mnt/stockage/packages/f26/kbibtex/po/pt_BR/kbibtex.po | 
+ | [sk](/f26/language/sk) | 2294 | 2294 | 100.0 | /mnt/stockage/packages/f26/kbibtex/po/sk/kbibtex.po | 
+ | [sv](/f26/language/sv) | 2294 | 2294 | 100.0 | /mnt/stockage/packages/f26/kbibtex/po/sv/kbibtex.po | 
+ | [uk](/f26/language/uk) | 2294 | 2294 | 100.0 | /mnt/stockage/packages/f26/kbibtex/po/uk/kbibtex.po | 
+ | [et](/f26/language/et) | 2285 | 2294 | 99.6 | /mnt/stockage/packages/f26/kbibtex/po/et/kbibtex.po | 
+ | [gl](/f26/language/gl) | 2285 | 2294 | 99.6 | /mnt/stockage/packages/f26/kbibtex/po/gl/kbibtex.po | 
+ | [it](/f26/language/it) | 2267 | 2294 | 98.8 | /mnt/stockage/packages/f26/kbibtex/po/it/kbibtex.po | 
+ | [bs](/f26/language/bs) | 2259 | 2294 | 98.5 | /mnt/stockage/packages/f26/kbibtex/po/bs/kbibtex.po | 
+ | [fi](/f26/language/fi) | 2249 | 2294 | 98.0 | /mnt/stockage/packages/f26/kbibtex/po/fi/kbibtex.po | 
+ | [fr](/f26/language/fr) | 2238 | 2294 | 97.6 | /mnt/stockage/packages/f26/kbibtex/po/fr/kbibtex.po | 
+ | [cs](/f26/language/cs) | 1897 | 2294 | 82.7 | /mnt/stockage/packages/f26/kbibtex/po/cs/kbibtex.po | 
+ | [nb_NO](/f26/language/nb_NO) | 1400 | 2294 | 61.0 | /mnt/stockage/packages/f26/kbibtex/po/nb/kbibtex.po | 
+ | [ru](/f26/language/ru) | 1092 | 2294 | 47.6 | /mnt/stockage/packages/f26/kbibtex/po/ru/kbibtex.po | 
+ | [hu](/f26/language/hu) | 63 | 2294 | 2.7 | /mnt/stockage/packages/f26/kbibtex/po/hu/kbibtex.po | 
+ | [ast](/f26/language/ast) | 1 | 2294 | 0.0 | /mnt/stockage/packages/f26/kbibtex/po/ast/kbibtex.po | 
+ | [ja](/f26/language/ja) | 0 | 2294 | 0.0 | /mnt/stockage/packages/f26/kbibtex/po/ja/kbibtex.po | 
+ | [lt](/f26/language/lt) | 0 | 2294 | 0.0 | /mnt/stockage/packages/f26/kbibtex/po/lt/kbibtex.po | 
+ | [nds](/f26/language/nds) | 0 | 2294 | 0.0 | /mnt/stockage/packages/f26/kbibtex/po/nds/kbibtex.po | 
 {.sortable}
 
 

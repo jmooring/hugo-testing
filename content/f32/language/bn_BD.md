@@ -38,13 +38,13 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [squirrelmail]({{< ref "/f32/package/squirrelmail.md" >}}) | 18710 | 18710 | 100.0 | Bengali <ankur-bd-l10n@googlegroups.com> | 
- | [gtkhash]({{< ref "/f32/package/gtkhash.md" >}}) | 197 | 213 | 92.5 | Bengali (Bangladesh) <https://hosted.weblate.org/projects/gtkhash/translations/bn_BD/> | 
- | [uget]({{< ref "/f32/package/uget.md" >}}) | 591 | 1085 | 54.5 | Bengali (Bangladesh) (http://www.transifex.com/uget/uget/language/bn_BD/) | 
- | [modem-manager-gui]({{< ref "/f32/package/modem-manager-gui.md" >}}) | 786 | 3303 | 23.8 | Bengali (Bangladesh) (http://www.transifex.com/ethereal/modem-manager-gui/language/bn_BD/) | 
- | [calibre]({{< ref "/f32/package/calibre.md" >}}) | 470 | 160974 | 0.3 | Bengali (Bangladesh) (http://www.transifex.com/calibre/calibre/language/bn_BD/) | 
- | [fonts-tweak-tool]({{< ref "/f32/package/fonts-tweak-tool.md" >}}) | 0 | 196 | 0.0 | Bengali (Bangladesh) | 
- | [policycoreutils]({{< ref "/f32/package/policycoreutils.md" >}}) | 0 | 7678 | 0.0 | Bengali (Bangladesh) (http://www.transifex.com/projects/p/fedora/language/bn_BD/) | 
+ | [squirrelmail](/f32/package/squirrelmail) | 18710 | 18710 | 100.0 | Bengali <ankur-bd-l10n@googlegroups.com> | 
+ | [gtkhash](/f32/package/gtkhash) | 197 | 213 | 92.5 | Bengali (Bangladesh) <https://hosted.weblate.org/projects/gtkhash/translations/bn_BD/> | 
+ | [uget](/f32/package/uget) | 591 | 1085 | 54.5 | Bengali (Bangladesh) (http://www.transifex.com/uget/uget/language/bn_BD/) | 
+ | [modem-manager-gui](/f32/package/modem-manager-gui) | 786 | 3303 | 23.8 | Bengali (Bangladesh) (http://www.transifex.com/ethereal/modem-manager-gui/language/bn_BD/) | 
+ | [calibre](/f32/package/calibre) | 470 | 160974 | 0.3 | Bengali (Bangladesh) (http://www.transifex.com/calibre/calibre/language/bn_BD/) | 
+ | [fonts-tweak-tool](/f32/package/fonts-tweak-tool) | 0 | 196 | 0.0 | Bengali (Bangladesh) | 
+ | [policycoreutils](/f32/package/policycoreutils) | 0 | 7678 | 0.0 | Bengali (Bangladesh) (http://www.transifex.com/projects/p/fedora/language/bn_BD/) | 
 {.sortable}
 
 

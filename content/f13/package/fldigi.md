@@ -18,7 +18,7 @@ The package fldigi (version 3.20.32):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f13/language/fr.md" >}}) | 859 | 3339 | 25.7 | /mnt/stockage/packages/f13/fldigi/po/fr.po | 
+ | [fr](/f13/language/fr) | 859 | 3339 | 25.7 | /mnt/stockage/packages/f13/fldigi/po/fr.po | 
 {.sortable}
 
 

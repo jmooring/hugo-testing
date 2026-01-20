@@ -18,26 +18,26 @@ The package simsu (version 1.3.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [bg]({{< ref "/f28/language/bg.md" >}}) | 81 | 81 | 100.0 | /mnt/stockage/packages/f28/simsu/icons/po/bg.po | 
- | [de]({{< ref "/f28/language/de.md" >}}) | 81 | 81 | 100.0 | /mnt/stockage/packages/f28/simsu/icons/po/de.po | 
- | [el]({{< ref "/f28/language/el.md" >}}) | 81 | 81 | 100.0 | /mnt/stockage/packages/f28/simsu/icons/po/el.po | 
- | [es]({{< ref "/f28/language/es.md" >}}) | 81 | 81 | 100.0 | /mnt/stockage/packages/f28/simsu/icons/po/es.po | 
- | [fr]({{< ref "/f28/language/fr.md" >}}) | 81 | 81 | 100.0 | /mnt/stockage/packages/f28/simsu/icons/po/fr.po | 
- | [lt]({{< ref "/f28/language/lt.md" >}}) | 81 | 81 | 100.0 | /mnt/stockage/packages/f28/simsu/icons/po/lt.po | 
- | [ms]({{< ref "/f28/language/ms.md" >}}) | 81 | 81 | 100.0 | /mnt/stockage/packages/f28/simsu/icons/po/ms.po | 
- | [nl]({{< ref "/f28/language/nl.md" >}}) | 81 | 81 | 100.0 | /mnt/stockage/packages/f28/simsu/icons/po/nl.po | 
- | [pl]({{< ref "/f28/language/pl.md" >}}) | 81 | 81 | 100.0 | /mnt/stockage/packages/f28/simsu/icons/po/pl.po | 
- | [pt]({{< ref "/f28/language/pt.md" >}}) | 81 | 81 | 100.0 | /mnt/stockage/packages/f28/simsu/icons/po/pt.po | 
- | [ro]({{< ref "/f28/language/ro.md" >}}) | 81 | 81 | 100.0 | /mnt/stockage/packages/f28/simsu/icons/po/ro.po | 
- | [zh_Hant]({{< ref "/f28/language/zh_Hant.md" >}}) | 81 | 81 | 100.0 | /mnt/stockage/packages/f28/simsu/icons/po/zh_TW.po | 
- | [cs]({{< ref "/f28/language/cs.md" >}}) | 9 | 81 | 11.1 | /mnt/stockage/packages/f28/simsu/icons/po/cs.po | 
- | [he]({{< ref "/f28/language/he.md" >}}) | 2 | 81 | 2.5 | /mnt/stockage/packages/f28/simsu/icons/po/he.po | 
- | [ca]({{< ref "/f28/language/ca.md" >}}) | 0 | 81 | 0.0 | /mnt/stockage/packages/f28/simsu/icons/po/ca.po | 
- | [es_CL]({{< ref "/f28/language/es_CL.md" >}}) | 0 | 81 | 0.0 | /mnt/stockage/packages/f28/simsu/icons/po/es_CL.po | 
- | [hu]({{< ref "/f28/language/hu.md" >}}) | 0 | 81 | 0.0 | /mnt/stockage/packages/f28/simsu/icons/po/hu.po | 
- | [ru]({{< ref "/f28/language/ru.md" >}}) | 0 | 81 | 0.0 | /mnt/stockage/packages/f28/simsu/icons/po/ru.po | 
- | [tr]({{< ref "/f28/language/tr.md" >}}) | 0 | 81 | 0.0 | /mnt/stockage/packages/f28/simsu/icons/po/tr.po | 
- | [uk]({{< ref "/f28/language/uk.md" >}}) | 0 | 81 | 0.0 | /mnt/stockage/packages/f28/simsu/icons/po/uk.po | 
+ | [bg](/f28/language/bg) | 81 | 81 | 100.0 | /mnt/stockage/packages/f28/simsu/icons/po/bg.po | 
+ | [de](/f28/language/de) | 81 | 81 | 100.0 | /mnt/stockage/packages/f28/simsu/icons/po/de.po | 
+ | [el](/f28/language/el) | 81 | 81 | 100.0 | /mnt/stockage/packages/f28/simsu/icons/po/el.po | 
+ | [es](/f28/language/es) | 81 | 81 | 100.0 | /mnt/stockage/packages/f28/simsu/icons/po/es.po | 
+ | [fr](/f28/language/fr) | 81 | 81 | 100.0 | /mnt/stockage/packages/f28/simsu/icons/po/fr.po | 
+ | [lt](/f28/language/lt) | 81 | 81 | 100.0 | /mnt/stockage/packages/f28/simsu/icons/po/lt.po | 
+ | [ms](/f28/language/ms) | 81 | 81 | 100.0 | /mnt/stockage/packages/f28/simsu/icons/po/ms.po | 
+ | [nl](/f28/language/nl) | 81 | 81 | 100.0 | /mnt/stockage/packages/f28/simsu/icons/po/nl.po | 
+ | [pl](/f28/language/pl) | 81 | 81 | 100.0 | /mnt/stockage/packages/f28/simsu/icons/po/pl.po | 
+ | [pt](/f28/language/pt) | 81 | 81 | 100.0 | /mnt/stockage/packages/f28/simsu/icons/po/pt.po | 
+ | [ro](/f28/language/ro) | 81 | 81 | 100.0 | /mnt/stockage/packages/f28/simsu/icons/po/ro.po | 
+ | [zh_Hant](/f28/language/zh_Hant) | 81 | 81 | 100.0 | /mnt/stockage/packages/f28/simsu/icons/po/zh_TW.po | 
+ | [cs](/f28/language/cs) | 9 | 81 | 11.1 | /mnt/stockage/packages/f28/simsu/icons/po/cs.po | 
+ | [he](/f28/language/he) | 2 | 81 | 2.5 | /mnt/stockage/packages/f28/simsu/icons/po/he.po | 
+ | [ca](/f28/language/ca) | 0 | 81 | 0.0 | /mnt/stockage/packages/f28/simsu/icons/po/ca.po | 
+ | [es_CL](/f28/language/es_CL) | 0 | 81 | 0.0 | /mnt/stockage/packages/f28/simsu/icons/po/es_CL.po | 
+ | [hu](/f28/language/hu) | 0 | 81 | 0.0 | /mnt/stockage/packages/f28/simsu/icons/po/hu.po | 
+ | [ru](/f28/language/ru) | 0 | 81 | 0.0 | /mnt/stockage/packages/f28/simsu/icons/po/ru.po | 
+ | [tr](/f28/language/tr) | 0 | 81 | 0.0 | /mnt/stockage/packages/f28/simsu/icons/po/tr.po | 
+ | [uk](/f28/language/uk) | 0 | 81 | 0.0 | /mnt/stockage/packages/f28/simsu/icons/po/uk.po | 
 {.sortable}
 
 

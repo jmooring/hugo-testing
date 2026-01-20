@@ -18,10 +18,10 @@ The package msmtp (version 1.8.7):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f30/language/de.md" >}}) | 1828 | 1828 | 100.0 | /mnt/stockage/packages/f30/msmtp/po/de.po | 
- | [fr]({{< ref "/f30/language/fr.md" >}}) | 1828 | 1828 | 100.0 | /mnt/stockage/packages/f30/msmtp/po/fr.po | 
- | [pt_BR]({{< ref "/f30/language/pt_BR.md" >}}) | 1828 | 1828 | 100.0 | /mnt/stockage/packages/f30/msmtp/po/pt_BR.po | 
- | [uk]({{< ref "/f30/language/uk.md" >}}) | 1828 | 1828 | 100.0 | /mnt/stockage/packages/f30/msmtp/po/uk.po | 
+ | [de](/f30/language/de) | 1828 | 1828 | 100.0 | /mnt/stockage/packages/f30/msmtp/po/de.po | 
+ | [fr](/f30/language/fr) | 1828 | 1828 | 100.0 | /mnt/stockage/packages/f30/msmtp/po/fr.po | 
+ | [pt_BR](/f30/language/pt_BR) | 1828 | 1828 | 100.0 | /mnt/stockage/packages/f30/msmtp/po/pt_BR.po | 
+ | [uk](/f30/language/uk) | 1828 | 1828 | 100.0 | /mnt/stockage/packages/f30/msmtp/po/uk.po | 
 {.sortable}
 
 

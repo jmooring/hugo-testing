@@ -18,7 +18,7 @@ The package kita (version 0.177.5):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ja]({{< ref "/f40/language/ja.md" >}}) | 602 | 690 | 87.2 | /mnt/stockage/packages/f40/kita/kita/po/ja.po | 
+ | [ja](/f40/language/ja) | 602 | 690 | 87.2 | /mnt/stockage/packages/f40/kita/kita/po/ja.po | 
 {.sortable}
 
 

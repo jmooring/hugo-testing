@@ -18,16 +18,16 @@ The package dnsmasq (version 2.46):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [pl]({{< ref "/f10/language/pl.md" >}}) | 1755 | 1755 | 100.0 | /mnt/stockage/packages/f10/dnsmasq/po/pl.po | 
- | [fr]({{< ref "/f10/language/fr.md" >}}) | 1310 | 1755 | 74.6 | /mnt/stockage/packages/f10/dnsmasq/po/fr.po | 
- | [es]({{< ref "/f10/language/es.md" >}}) | 1308 | 1755 | 74.5 | /mnt/stockage/packages/f10/dnsmasq/po/es.po | 
- | [nb_NO]({{< ref "/f10/language/nb_NO.md" >}}) | 846 | 1755 | 48.2 | /mnt/stockage/packages/f10/dnsmasq/po/no.po | 
- | [ro]({{< ref "/f10/language/ro.md" >}}) | 846 | 1755 | 48.2 | /mnt/stockage/packages/f10/dnsmasq/po/ro.po | 
- | [id]({{< ref "/f10/language/id.md" >}}) | 834 | 1755 | 47.5 | /mnt/stockage/packages/f10/dnsmasq/po/id.po | 
- | [de]({{< ref "/f10/language/de.md" >}}) | 126 | 1755 | 7.2 | /mnt/stockage/packages/f10/dnsmasq/po/de.po | 
- | [fi]({{< ref "/f10/language/fi.md" >}}) | 0 | 1755 | 0.0 | /mnt/stockage/packages/f10/dnsmasq/po/fi.po | 
- | [it]({{< ref "/f10/language/it.md" >}}) | 0 | 1755 | 0.0 | /mnt/stockage/packages/f10/dnsmasq/po/it.po | 
- | [pt_BR]({{< ref "/f10/language/pt_BR.md" >}}) | 0 | 1755 | 0.0 | /mnt/stockage/packages/f10/dnsmasq/po/pt_BR.po | 
+ | [pl](/f10/language/pl) | 1755 | 1755 | 100.0 | /mnt/stockage/packages/f10/dnsmasq/po/pl.po | 
+ | [fr](/f10/language/fr) | 1310 | 1755 | 74.6 | /mnt/stockage/packages/f10/dnsmasq/po/fr.po | 
+ | [es](/f10/language/es) | 1308 | 1755 | 74.5 | /mnt/stockage/packages/f10/dnsmasq/po/es.po | 
+ | [nb_NO](/f10/language/nb_NO) | 846 | 1755 | 48.2 | /mnt/stockage/packages/f10/dnsmasq/po/no.po | 
+ | [ro](/f10/language/ro) | 846 | 1755 | 48.2 | /mnt/stockage/packages/f10/dnsmasq/po/ro.po | 
+ | [id](/f10/language/id) | 834 | 1755 | 47.5 | /mnt/stockage/packages/f10/dnsmasq/po/id.po | 
+ | [de](/f10/language/de) | 126 | 1755 | 7.2 | /mnt/stockage/packages/f10/dnsmasq/po/de.po | 
+ | [fi](/f10/language/fi) | 0 | 1755 | 0.0 | /mnt/stockage/packages/f10/dnsmasq/po/fi.po | 
+ | [it](/f10/language/it) | 0 | 1755 | 0.0 | /mnt/stockage/packages/f10/dnsmasq/po/it.po | 
+ | [pt_BR](/f10/language/pt_BR) | 0 | 1755 | 0.0 | /mnt/stockage/packages/f10/dnsmasq/po/pt_BR.po | 
 {.sortable}
 
 

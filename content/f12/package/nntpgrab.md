@@ -18,8 +18,8 @@ The package nntpgrab (version 0.6.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [nl]({{< ref "/f12/language/nl.md" >}}) | 1892 | 1892 | 100.0 | /mnt/stockage/packages/f12/nntpgrab/po/nl.po | 
- | [fr]({{< ref "/f12/language/fr.md" >}}) | 1498 | 1892 | 79.2 | /mnt/stockage/packages/f12/nntpgrab/po/fr.po | 
+ | [nl](/f12/language/nl) | 1892 | 1892 | 100.0 | /mnt/stockage/packages/f12/nntpgrab/po/nl.po | 
+ | [fr](/f12/language/fr) | 1498 | 1892 | 79.2 | /mnt/stockage/packages/f12/nntpgrab/po/fr.po | 
 {.sortable}
 
 

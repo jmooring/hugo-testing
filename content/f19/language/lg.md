@@ -38,30 +38,30 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [libfm]({{< ref "/f19/package/libfm.md" >}}) | 859 | 859 | 100.0 | lg <kbirabwa@yahoo.co.uk> | 
- | [lxappearance]({{< ref "/f19/package/lxappearance.md" >}}) | 212 | 212 | 100.0 | Luganda <kbirabwa@yahoo.co.uk> | 
- | [lxinput]({{< ref "/f19/package/lxinput.md" >}}) | 72 | 72 | 100.0 | Luganda <kbirabwa@yahoo.co.uk> | 
- | [lxlauncher]({{< ref "/f19/package/lxlauncher.md" >}}) | 51 | 51 | 100.0 | LANGUAGE <LL@li.org> | 
- | [lxpolkit]({{< ref "/f19/package/lxpolkit.md" >}}) | 15 | 15 | 100.0 | LANGUAGE <LL@li.org> | 
- | [lxrandr]({{< ref "/f19/package/lxrandr.md" >}}) | 122 | 122 | 100.0 | LANGUAGE <LL@li.org> | 
- | [lxsession]({{< ref "/f19/package/lxsession.md" >}}) | 36 | 36 | 100.0 | LANGUAGE <LL@li.org> | 
- | [lxsession-edit]({{< ref "/f19/package/lxsession-edit.md" >}}) | 64 | 64 | 100.0 | LANGUAGE <LL@li.org> | 
- | [lxshortcut]({{< ref "/f19/package/lxshortcut.md" >}}) | 43 | 43 | 100.0 | LANGUAGE <LL@li.org> | 
- | [lxterminal]({{< ref "/f19/package/lxterminal.md" >}}) | 144 | 144 | 100.0 | lg <kbirabwa@yahoo.co.uk> | 
- | [pcmanfm]({{< ref "/f19/package/pcmanfm.md" >}}) | 799 | 799 | 100.0 | lg <kbirabwa@yahoo.co.uk> | 
- | [lxappearance-obconf]({{< ref "/f19/package/lxappearance-obconf.md" >}}) | 191 | 196 | 97.4 | LANGUAGE <LL@li.org> | 
- | [pootle]({{< ref "/f19/package/pootle.md" >}}) | 6476 | 6817 | 95.0 | LANGUAGE <LL@li.org> | 
- | [lxpanel]({{< ref "/f19/package/lxpanel.md" >}}) | 929 | 987 | 94.1 | Luganda <kbirabwa@yahoo.co.uk> | 
- | [virtaal]({{< ref "/f19/package/virtaal.md" >}}) | 1422 | 1653 | 86.0 | LANGUAGE <LL@li.org> | 
- | [gtkspell3]({{< ref "/f19/package/gtkspell3.md" >}}) | 10 | 15 | 66.7 | Ganda <LL@li.org> | 
- | [mingw-gtkspell3]({{< ref "/f19/package/mingw-gtkspell3.md" >}}) | 10 | 15 | 66.7 | Ganda <LL@li.org> | 
- | [coreutils]({{< ref "/f19/package/coreutils.md" >}}) | 12793 | 20279 | 63.1 | Luganda <kbirabwa@yahoo.co.uk> | 
- | [libgnomeui]({{< ref "/f19/package/libgnomeui.md" >}}) | 332 | 1226 | 27.1 | Luganda <kbirabwa@yahoo.co.uk> | 
- | [gtk3]({{< ref "/f19/package/gtk3.md" >}}) | 1889 | 12341 | 15.3 | Luganda <kbirabwa@yahoo.co.uk> | 
- | [mingw-gtk3]({{< ref "/f19/package/mingw-gtk3.md" >}}) | 1889 | 12341 | 15.3 | Luganda <kbirabwa@yahoo.co.uk> | 
- | [findutils]({{< ref "/f19/package/findutils.md" >}}) | 103 | 2413 | 4.3 | Luganda <kompyuta@kizito.freeuk.com> | 
- | [sugar-browse]({{< ref "/f19/package/sugar-browse.md" >}}) | 0 | 134 | 0.0 | LANGUAGE <LL@li.org> | 
- | [vidalia]({{< ref "/f19/package/vidalia.md" >}}) | 0 | 9310 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [libfm](/f19/package/libfm) | 859 | 859 | 100.0 | lg <kbirabwa@yahoo.co.uk> | 
+ | [lxappearance](/f19/package/lxappearance) | 212 | 212 | 100.0 | Luganda <kbirabwa@yahoo.co.uk> | 
+ | [lxinput](/f19/package/lxinput) | 72 | 72 | 100.0 | Luganda <kbirabwa@yahoo.co.uk> | 
+ | [lxlauncher](/f19/package/lxlauncher) | 51 | 51 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [lxpolkit](/f19/package/lxpolkit) | 15 | 15 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [lxrandr](/f19/package/lxrandr) | 122 | 122 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [lxsession](/f19/package/lxsession) | 36 | 36 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [lxsession-edit](/f19/package/lxsession-edit) | 64 | 64 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [lxshortcut](/f19/package/lxshortcut) | 43 | 43 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [lxterminal](/f19/package/lxterminal) | 144 | 144 | 100.0 | lg <kbirabwa@yahoo.co.uk> | 
+ | [pcmanfm](/f19/package/pcmanfm) | 799 | 799 | 100.0 | lg <kbirabwa@yahoo.co.uk> | 
+ | [lxappearance-obconf](/f19/package/lxappearance-obconf) | 191 | 196 | 97.4 | LANGUAGE <LL@li.org> | 
+ | [pootle](/f19/package/pootle) | 6476 | 6817 | 95.0 | LANGUAGE <LL@li.org> | 
+ | [lxpanel](/f19/package/lxpanel) | 929 | 987 | 94.1 | Luganda <kbirabwa@yahoo.co.uk> | 
+ | [virtaal](/f19/package/virtaal) | 1422 | 1653 | 86.0 | LANGUAGE <LL@li.org> | 
+ | [gtkspell3](/f19/package/gtkspell3) | 10 | 15 | 66.7 | Ganda <LL@li.org> | 
+ | [mingw-gtkspell3](/f19/package/mingw-gtkspell3) | 10 | 15 | 66.7 | Ganda <LL@li.org> | 
+ | [coreutils](/f19/package/coreutils) | 12793 | 20279 | 63.1 | Luganda <kbirabwa@yahoo.co.uk> | 
+ | [libgnomeui](/f19/package/libgnomeui) | 332 | 1226 | 27.1 | Luganda <kbirabwa@yahoo.co.uk> | 
+ | [gtk3](/f19/package/gtk3) | 1889 | 12341 | 15.3 | Luganda <kbirabwa@yahoo.co.uk> | 
+ | [mingw-gtk3](/f19/package/mingw-gtk3) | 1889 | 12341 | 15.3 | Luganda <kbirabwa@yahoo.co.uk> | 
+ | [findutils](/f19/package/findutils) | 103 | 2413 | 4.3 | Luganda <kompyuta@kizito.freeuk.com> | 
+ | [sugar-browse](/f19/package/sugar-browse) | 0 | 134 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [vidalia](/f19/package/vidalia) | 0 | 9310 | 0.0 | LANGUAGE <LL@li.org> | 
 {.sortable}
 
 

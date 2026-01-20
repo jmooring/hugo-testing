@@ -38,14 +38,14 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [folder-color-switcher]({{< ref "/f37/package/folder-color-switcher.md" >}}) | 22 | 65 | 33.8 | Standard Moroccan Tamazight <zgh@li.org> | 
- | [xapps]({{< ref "/f37/package/xapps.md" >}}) | 18 | 73 | 24.7 | Standard Moroccan Tamazight <zgh@li.org> | 
- | [blueberry]({{< ref "/f37/package/blueberry.md" >}}) | 39 | 172 | 22.7 | Standard Moroccan Tamazight <zgh@li.org> | 
- | [slick-greeter]({{< ref "/f37/package/slick-greeter.md" >}}) | 37 | 211 | 17.5 | Standard Moroccan Tamazight <zgh@li.org> | 
- | [lightdm-settings]({{< ref "/f37/package/lightdm-settings.md" >}}) | 40 | 324 | 12.3 | Standard Moroccan Tamazight <zgh@li.org> | 
- | [xreader]({{< ref "/f37/package/xreader.md" >}}) | 104 | 1623 | 6.4 | Standard Moroccan Tamazight <zgh@li.org> | 
- | [xed]({{< ref "/f37/package/xed.md" >}}) | 213 | 3759 | 5.7 | Standard Moroccan Tamazight <zgh@li.org> | 
- | [cinnamon-translations]({{< ref "/f37/package/cinnamon-translations.md" >}}) | 403 | 18439 | 2.2 | Standard Moroccan Tamazight <zgh@li.org> | 
+ | [folder-color-switcher](/f37/package/folder-color-switcher) | 22 | 65 | 33.8 | Standard Moroccan Tamazight <zgh@li.org> | 
+ | [xapps](/f37/package/xapps) | 18 | 73 | 24.7 | Standard Moroccan Tamazight <zgh@li.org> | 
+ | [blueberry](/f37/package/blueberry) | 39 | 172 | 22.7 | Standard Moroccan Tamazight <zgh@li.org> | 
+ | [slick-greeter](/f37/package/slick-greeter) | 37 | 211 | 17.5 | Standard Moroccan Tamazight <zgh@li.org> | 
+ | [lightdm-settings](/f37/package/lightdm-settings) | 40 | 324 | 12.3 | Standard Moroccan Tamazight <zgh@li.org> | 
+ | [xreader](/f37/package/xreader) | 104 | 1623 | 6.4 | Standard Moroccan Tamazight <zgh@li.org> | 
+ | [xed](/f37/package/xed) | 213 | 3759 | 5.7 | Standard Moroccan Tamazight <zgh@li.org> | 
+ | [cinnamon-translations](/f37/package/cinnamon-translations) | 403 | 18439 | 2.2 | Standard Moroccan Tamazight <zgh@li.org> | 
 {.sortable}
 
 

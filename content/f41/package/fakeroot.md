@@ -18,13 +18,13 @@ The package fakeroot (version 1.37.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ro]({{< ref "/f41/language/ro.md" >}}) | 1271 | 1541 | 82.5 | /mnt/stockage/packages/f41/fakeroot/doc/po4a/po/ro.po | 
- | [de]({{< ref "/f41/language/de.md" >}}) | 923 | 1541 | 59.9 | /mnt/stockage/packages/f41/fakeroot/doc/po4a/po/de.po | 
- | [pt]({{< ref "/f41/language/pt.md" >}}) | 923 | 1541 | 59.9 | /mnt/stockage/packages/f41/fakeroot/doc/po4a/po/pt.po | 
- | [es]({{< ref "/f41/language/es.md" >}}) | 852 | 1541 | 55.3 | /mnt/stockage/packages/f41/fakeroot/doc/po4a/po/es.po | 
- | [fr]({{< ref "/f41/language/fr.md" >}}) | 852 | 1541 | 55.3 | /mnt/stockage/packages/f41/fakeroot/doc/po4a/po/fr.po | 
- | [sv]({{< ref "/f41/language/sv.md" >}}) | 852 | 1541 | 55.3 | /mnt/stockage/packages/f41/fakeroot/doc/po4a/po/sv.po | 
- | [nl]({{< ref "/f41/language/nl.md" >}}) | 850 | 1541 | 55.2 | /mnt/stockage/packages/f41/fakeroot/doc/po4a/po/nl.po | 
+ | [ro](/f41/language/ro) | 1271 | 1541 | 82.5 | /mnt/stockage/packages/f41/fakeroot/doc/po4a/po/ro.po | 
+ | [de](/f41/language/de) | 923 | 1541 | 59.9 | /mnt/stockage/packages/f41/fakeroot/doc/po4a/po/de.po | 
+ | [pt](/f41/language/pt) | 923 | 1541 | 59.9 | /mnt/stockage/packages/f41/fakeroot/doc/po4a/po/pt.po | 
+ | [es](/f41/language/es) | 852 | 1541 | 55.3 | /mnt/stockage/packages/f41/fakeroot/doc/po4a/po/es.po | 
+ | [fr](/f41/language/fr) | 852 | 1541 | 55.3 | /mnt/stockage/packages/f41/fakeroot/doc/po4a/po/fr.po | 
+ | [sv](/f41/language/sv) | 852 | 1541 | 55.3 | /mnt/stockage/packages/f41/fakeroot/doc/po4a/po/sv.po | 
+ | [nl](/f41/language/nl) | 850 | 1541 | 55.2 | /mnt/stockage/packages/f41/fakeroot/doc/po4a/po/nl.po | 
 {.sortable}
 
 

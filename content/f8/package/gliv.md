@@ -18,18 +18,18 @@ The package gliv (version 1.9.6):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f8/language/fr.md" >}}) | 1008 | 1008 | 100.0 | /mnt/stockage/packages/f8/gliv/po/fr.po | 
- | [ru]({{< ref "/f8/language/ru.md" >}}) | 996 | 1008 | 98.8 | /mnt/stockage/packages/f8/gliv/po/ru.po | 
- | [sv]({{< ref "/f8/language/sv.md" >}}) | 967 | 1008 | 95.9 | /mnt/stockage/packages/f8/gliv/po/sv.po | 
- | [bg]({{< ref "/f8/language/bg.md" >}}) | 910 | 1008 | 90.3 | /mnt/stockage/packages/f8/gliv/po/bg.po | 
- | [vi]({{< ref "/f8/language/vi.md" >}}) | 722 | 1008 | 71.6 | /mnt/stockage/packages/f8/gliv/po/vi.po | 
- | [pt_BR]({{< ref "/f8/language/pt_BR.md" >}}) | 688 | 1008 | 68.3 | /mnt/stockage/packages/f8/gliv/po/pt_BR.po | 
- | [ro]({{< ref "/f8/language/ro.md" >}}) | 688 | 1008 | 68.3 | /mnt/stockage/packages/f8/gliv/po/ro.po | 
- | [sk]({{< ref "/f8/language/sk.md" >}}) | 688 | 1008 | 68.3 | /mnt/stockage/packages/f8/gliv/po/sk.po | 
- | [de]({{< ref "/f8/language/de.md" >}}) | 686 | 1008 | 68.1 | /mnt/stockage/packages/f8/gliv/po/de.po | 
- | [nl]({{< ref "/f8/language/nl.md" >}}) | 685 | 1008 | 68.0 | /mnt/stockage/packages/f8/gliv/po/nl.po | 
- | [tr]({{< ref "/f8/language/tr.md" >}}) | 659 | 1008 | 65.4 | /mnt/stockage/packages/f8/gliv/po/tr.po | 
- | [rw]({{< ref "/f8/language/rw.md" >}}) | 28 | 1008 | 2.8 | /mnt/stockage/packages/f8/gliv/po/rw.po | 
+ | [fr](/f8/language/fr) | 1008 | 1008 | 100.0 | /mnt/stockage/packages/f8/gliv/po/fr.po | 
+ | [ru](/f8/language/ru) | 996 | 1008 | 98.8 | /mnt/stockage/packages/f8/gliv/po/ru.po | 
+ | [sv](/f8/language/sv) | 967 | 1008 | 95.9 | /mnt/stockage/packages/f8/gliv/po/sv.po | 
+ | [bg](/f8/language/bg) | 910 | 1008 | 90.3 | /mnt/stockage/packages/f8/gliv/po/bg.po | 
+ | [vi](/f8/language/vi) | 722 | 1008 | 71.6 | /mnt/stockage/packages/f8/gliv/po/vi.po | 
+ | [pt_BR](/f8/language/pt_BR) | 688 | 1008 | 68.3 | /mnt/stockage/packages/f8/gliv/po/pt_BR.po | 
+ | [ro](/f8/language/ro) | 688 | 1008 | 68.3 | /mnt/stockage/packages/f8/gliv/po/ro.po | 
+ | [sk](/f8/language/sk) | 688 | 1008 | 68.3 | /mnt/stockage/packages/f8/gliv/po/sk.po | 
+ | [de](/f8/language/de) | 686 | 1008 | 68.1 | /mnt/stockage/packages/f8/gliv/po/de.po | 
+ | [nl](/f8/language/nl) | 685 | 1008 | 68.0 | /mnt/stockage/packages/f8/gliv/po/nl.po | 
+ | [tr](/f8/language/tr) | 659 | 1008 | 65.4 | /mnt/stockage/packages/f8/gliv/po/tr.po | 
+ | [rw](/f8/language/rw) | 28 | 1008 | 2.8 | /mnt/stockage/packages/f8/gliv/po/rw.po | 
 {.sortable}
 
 

@@ -18,16 +18,16 @@ The package flatpak (version 0.9.7):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [uk]({{< ref "/f25/language/uk.md" >}}) | 2329 | 2329 | 100.0 | /mnt/stockage/packages/f25/flatpak/po/uk.po | 
- | [hu]({{< ref "/f25/language/hu.md" >}}) | 2310 | 2329 | 99.2 | /mnt/stockage/packages/f25/flatpak/po/hu.po | 
- | [tr]({{< ref "/f25/language/tr.md" >}}) | 2246 | 2329 | 96.4 | /mnt/stockage/packages/f25/flatpak/po/tr.po | 
- | [pt_BR]({{< ref "/f25/language/pt_BR.md" >}}) | 2211 | 2329 | 94.9 | /mnt/stockage/packages/f25/flatpak/po/pt_BR.po | 
- | [pl]({{< ref "/f25/language/pl.md" >}}) | 2167 | 2329 | 93.0 | /mnt/stockage/packages/f25/flatpak/po/pl.po | 
- | [sv]({{< ref "/f25/language/sv.md" >}}) | 2153 | 2329 | 92.4 | /mnt/stockage/packages/f25/flatpak/po/sv.po | 
- | [de]({{< ref "/f25/language/de.md" >}}) | 2083 | 2329 | 89.4 | /mnt/stockage/packages/f25/flatpak/po/de.po | 
- | [ru]({{< ref "/f25/language/ru.md" >}}) | 2060 | 2329 | 88.4 | /mnt/stockage/packages/f25/flatpak/po/ru.po | 
- | [cs]({{< ref "/f25/language/cs.md" >}}) | 2017 | 2329 | 86.6 | /mnt/stockage/packages/f25/flatpak/po/cs.po | 
- | [sk]({{< ref "/f25/language/sk.md" >}}) | 659 | 2329 | 28.3 | /mnt/stockage/packages/f25/flatpak/po/sk.po | 
+ | [uk](/f25/language/uk) | 2329 | 2329 | 100.0 | /mnt/stockage/packages/f25/flatpak/po/uk.po | 
+ | [hu](/f25/language/hu) | 2310 | 2329 | 99.2 | /mnt/stockage/packages/f25/flatpak/po/hu.po | 
+ | [tr](/f25/language/tr) | 2246 | 2329 | 96.4 | /mnt/stockage/packages/f25/flatpak/po/tr.po | 
+ | [pt_BR](/f25/language/pt_BR) | 2211 | 2329 | 94.9 | /mnt/stockage/packages/f25/flatpak/po/pt_BR.po | 
+ | [pl](/f25/language/pl) | 2167 | 2329 | 93.0 | /mnt/stockage/packages/f25/flatpak/po/pl.po | 
+ | [sv](/f25/language/sv) | 2153 | 2329 | 92.4 | /mnt/stockage/packages/f25/flatpak/po/sv.po | 
+ | [de](/f25/language/de) | 2083 | 2329 | 89.4 | /mnt/stockage/packages/f25/flatpak/po/de.po | 
+ | [ru](/f25/language/ru) | 2060 | 2329 | 88.4 | /mnt/stockage/packages/f25/flatpak/po/ru.po | 
+ | [cs](/f25/language/cs) | 2017 | 2329 | 86.6 | /mnt/stockage/packages/f25/flatpak/po/cs.po | 
+ | [sk](/f25/language/sk) | 659 | 2329 | 28.3 | /mnt/stockage/packages/f25/flatpak/po/sk.po | 
 {.sortable}
 
 

@@ -18,12 +18,12 @@ The package printrun (version 2.0.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [hy]({{< ref "/f37/language/hy.md" >}}) | 2658 | 2659 | 100.0 | /mnt/stockage/packages/f37/printrun/locale/hy/LC_MESSAGES/plater.po/mnt/stockage/packages/f37/printrun/locale/hy/LC_MESSAGES/pronterface.po | 
- | [fr]({{< ref "/f37/language/fr.md" >}}) | 2231 | 2659 | 83.9 | /mnt/stockage/packages/f37/printrun/locale/fr/LC_MESSAGES/plater.po/mnt/stockage/packages/f37/printrun/locale/fr/LC_MESSAGES/pronterface.po | 
- | [ar]({{< ref "/f37/language/ar.md" >}}) | 38 | 65 | 58.5 | /mnt/stockage/packages/f37/printrun/locale/ar/LC_MESSAGES/plater.po | 
- | [de]({{< ref "/f37/language/de.md" >}}) | 1756 | 3163 | 55.5 | /mnt/stockage/packages/f37/printrun/locale/de/LC_MESSAGES/plater.po/mnt/stockage/packages/f37/printrun/locale/de/LC_MESSAGES/pronterface.po | 
- | [it]({{< ref "/f37/language/it.md" >}}) | 408 | 2656 | 15.4 | /mnt/stockage/packages/f37/printrun/locale/it/LC_MESSAGES/plater.po/mnt/stockage/packages/f37/printrun/locale/it/LC_MESSAGES/pronterface.po | 
- | [nl]({{< ref "/f37/language/nl.md" >}}) | 293 | 2594 | 11.3 | /mnt/stockage/packages/f37/printrun/locale/nl/LC_MESSAGES/pronterface.po | 
+ | [hy](/f37/language/hy) | 2658 | 2659 | 100.0 | /mnt/stockage/packages/f37/printrun/locale/hy/LC_MESSAGES/plater.po/mnt/stockage/packages/f37/printrun/locale/hy/LC_MESSAGES/pronterface.po | 
+ | [fr](/f37/language/fr) | 2231 | 2659 | 83.9 | /mnt/stockage/packages/f37/printrun/locale/fr/LC_MESSAGES/plater.po/mnt/stockage/packages/f37/printrun/locale/fr/LC_MESSAGES/pronterface.po | 
+ | [ar](/f37/language/ar) | 38 | 65 | 58.5 | /mnt/stockage/packages/f37/printrun/locale/ar/LC_MESSAGES/plater.po | 
+ | [de](/f37/language/de) | 1756 | 3163 | 55.5 | /mnt/stockage/packages/f37/printrun/locale/de/LC_MESSAGES/plater.po/mnt/stockage/packages/f37/printrun/locale/de/LC_MESSAGES/pronterface.po | 
+ | [it](/f37/language/it) | 408 | 2656 | 15.4 | /mnt/stockage/packages/f37/printrun/locale/it/LC_MESSAGES/plater.po/mnt/stockage/packages/f37/printrun/locale/it/LC_MESSAGES/pronterface.po | 
+ | [nl](/f37/language/nl) | 293 | 2594 | 11.3 | /mnt/stockage/packages/f37/printrun/locale/nl/LC_MESSAGES/pronterface.po | 
 {.sortable}
 
 

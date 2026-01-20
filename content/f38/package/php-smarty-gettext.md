@@ -18,9 +18,9 @@ The package php-smarty-gettext (version 1.7.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [en_US]({{< ref "/f38/language/en_US.md" >}}) | 6 | 6 | 100.0 | /mnt/stockage/packages/f38/php-smarty-gettext/tests/i18n/en_US/LC_MESSAGES/messages.po | 
- | [et]({{< ref "/f38/language/et.md" >}}) | 17 | 17 | 100.0 | /mnt/stockage/packages/f38/php-smarty-gettext/tests/i18n/et_EE/LC_MESSAGES/issue6.po | 
- | [pl]({{< ref "/f38/language/pl.md" >}}) | 14 | 14 | 100.0 | /mnt/stockage/packages/f38/php-smarty-gettext/tests/i18n/pl_PL/LC_MESSAGES/messages.po/mnt/stockage/packages/f38/php-smarty-gettext/tests/i18n/pl_PL/LC_MESSAGES/messages2.po | 
+ | [en_US](/f38/language/en_US) | 6 | 6 | 100.0 | /mnt/stockage/packages/f38/php-smarty-gettext/tests/i18n/en_US/LC_MESSAGES/messages.po | 
+ | [et](/f38/language/et) | 17 | 17 | 100.0 | /mnt/stockage/packages/f38/php-smarty-gettext/tests/i18n/et_EE/LC_MESSAGES/issue6.po | 
+ | [pl](/f38/language/pl) | 14 | 14 | 100.0 | /mnt/stockage/packages/f38/php-smarty-gettext/tests/i18n/pl_PL/LC_MESSAGES/messages.po/mnt/stockage/packages/f38/php-smarty-gettext/tests/i18n/pl_PL/LC_MESSAGES/messages2.po | 
 {.sortable}
 
 

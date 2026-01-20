@@ -18,15 +18,15 @@ The package knutclient (version 1.0.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f13/language/fr.md" >}}) | 640 | 640 | 100.0 | /mnt/stockage/packages/f13/knutclient/po/fr.po | 
- | [pl]({{< ref "/f13/language/pl.md" >}}) | 640 | 640 | 100.0 | /mnt/stockage/packages/f13/knutclient/po/pl.po | 
- | [cs]({{< ref "/f13/language/cs.md" >}}) | 600 | 640 | 93.8 | /mnt/stockage/packages/f13/knutclient/po/cs.po | 
- | [es]({{< ref "/f13/language/es.md" >}}) | 584 | 640 | 91.2 | /mnt/stockage/packages/f13/knutclient/po/es.po | 
- | [de]({{< ref "/f13/language/de.md" >}}) | 573 | 640 | 89.5 | /mnt/stockage/packages/f13/knutclient/po/de.po | 
- | [pt_BR]({{< ref "/f13/language/pt_BR.md" >}}) | 573 | 640 | 89.5 | /mnt/stockage/packages/f13/knutclient/po/pt_BR.po | 
- | [ru]({{< ref "/f13/language/ru.md" >}}) | 552 | 640 | 86.2 | /mnt/stockage/packages/f13/knutclient/po/ru.po | 
- | [it]({{< ref "/f13/language/it.md" >}}) | 517 | 640 | 80.8 | /mnt/stockage/packages/f13/knutclient/po/it.po | 
- | [uk]({{< ref "/f13/language/uk.md" >}}) | 473 | 640 | 73.9 | /mnt/stockage/packages/f13/knutclient/po/uk.po | 
+ | [fr](/f13/language/fr) | 640 | 640 | 100.0 | /mnt/stockage/packages/f13/knutclient/po/fr.po | 
+ | [pl](/f13/language/pl) | 640 | 640 | 100.0 | /mnt/stockage/packages/f13/knutclient/po/pl.po | 
+ | [cs](/f13/language/cs) | 600 | 640 | 93.8 | /mnt/stockage/packages/f13/knutclient/po/cs.po | 
+ | [es](/f13/language/es) | 584 | 640 | 91.2 | /mnt/stockage/packages/f13/knutclient/po/es.po | 
+ | [de](/f13/language/de) | 573 | 640 | 89.5 | /mnt/stockage/packages/f13/knutclient/po/de.po | 
+ | [pt_BR](/f13/language/pt_BR) | 573 | 640 | 89.5 | /mnt/stockage/packages/f13/knutclient/po/pt_BR.po | 
+ | [ru](/f13/language/ru) | 552 | 640 | 86.2 | /mnt/stockage/packages/f13/knutclient/po/ru.po | 
+ | [it](/f13/language/it) | 517 | 640 | 80.8 | /mnt/stockage/packages/f13/knutclient/po/it.po | 
+ | [uk](/f13/language/uk) | 473 | 640 | 73.9 | /mnt/stockage/packages/f13/knutclient/po/uk.po | 
 {.sortable}
 
 

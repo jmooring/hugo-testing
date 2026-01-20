@@ -18,25 +18,25 @@ The package mariadb (version 10.1.33):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f26/language/de.md" >}}) | 265 | 274 | 96.7 | /mnt/stockage/packages/f26/mariadb/debian/po/de.po | 
- | [fr]({{< ref "/f26/language/fr.md" >}}) | 265 | 274 | 96.7 | /mnt/stockage/packages/f26/mariadb/debian/po/fr.po | 
- | [it]({{< ref "/f26/language/it.md" >}}) | 265 | 274 | 96.7 | /mnt/stockage/packages/f26/mariadb/debian/po/it.po | 
- | [ja]({{< ref "/f26/language/ja.md" >}}) | 265 | 274 | 96.7 | /mnt/stockage/packages/f26/mariadb/debian/po/ja.po | 
- | [ru]({{< ref "/f26/language/ru.md" >}}) | 265 | 274 | 96.7 | /mnt/stockage/packages/f26/mariadb/debian/po/ru.po | 
- | [sv]({{< ref "/f26/language/sv.md" >}}) | 265 | 274 | 96.7 | /mnt/stockage/packages/f26/mariadb/debian/po/sv.po | 
- | [eu]({{< ref "/f26/language/eu.md" >}}) | 206 | 274 | 75.2 | /mnt/stockage/packages/f26/mariadb/debian/po/eu.po | 
- | [da]({{< ref "/f26/language/da.md" >}}) | 184 | 274 | 67.2 | /mnt/stockage/packages/f26/mariadb/debian/po/da.po | 
- | [es]({{< ref "/f26/language/es.md" >}}) | 184 | 274 | 67.2 | /mnt/stockage/packages/f26/mariadb/debian/po/es.po | 
- | [ar]({{< ref "/f26/language/ar.md" >}}) | 174 | 274 | 63.5 | /mnt/stockage/packages/f26/mariadb/debian/po/ar.po | 
- | [cs]({{< ref "/f26/language/cs.md" >}}) | 174 | 274 | 63.5 | /mnt/stockage/packages/f26/mariadb/debian/po/cs.po | 
- | [gl]({{< ref "/f26/language/gl.md" >}}) | 174 | 274 | 63.5 | /mnt/stockage/packages/f26/mariadb/debian/po/gl.po | 
- | [pt]({{< ref "/f26/language/pt.md" >}}) | 174 | 274 | 63.5 | /mnt/stockage/packages/f26/mariadb/debian/po/pt.po | 
- | [pt_BR]({{< ref "/f26/language/pt_BR.md" >}}) | 174 | 274 | 63.5 | /mnt/stockage/packages/f26/mariadb/debian/po/pt_BR.po | 
- | [ca]({{< ref "/f26/language/ca.md" >}}) | 0 | 274 | 0.0 | /mnt/stockage/packages/f26/mariadb/debian/po/ca.po | 
- | [nb_NO]({{< ref "/f26/language/nb_NO.md" >}}) | 0 | 274 | 0.0 | /mnt/stockage/packages/f26/mariadb/debian/po/nb.po | 
- | [nl]({{< ref "/f26/language/nl.md" >}}) | 0 | 274 | 0.0 | /mnt/stockage/packages/f26/mariadb/debian/po/nl.po | 
- | [ro]({{< ref "/f26/language/ro.md" >}}) | 0 | 274 | 0.0 | /mnt/stockage/packages/f26/mariadb/debian/po/ro.po | 
- | [tr]({{< ref "/f26/language/tr.md" >}}) | 0 | 274 | 0.0 | /mnt/stockage/packages/f26/mariadb/debian/po/tr.po | 
+ | [de](/f26/language/de) | 265 | 274 | 96.7 | /mnt/stockage/packages/f26/mariadb/debian/po/de.po | 
+ | [fr](/f26/language/fr) | 265 | 274 | 96.7 | /mnt/stockage/packages/f26/mariadb/debian/po/fr.po | 
+ | [it](/f26/language/it) | 265 | 274 | 96.7 | /mnt/stockage/packages/f26/mariadb/debian/po/it.po | 
+ | [ja](/f26/language/ja) | 265 | 274 | 96.7 | /mnt/stockage/packages/f26/mariadb/debian/po/ja.po | 
+ | [ru](/f26/language/ru) | 265 | 274 | 96.7 | /mnt/stockage/packages/f26/mariadb/debian/po/ru.po | 
+ | [sv](/f26/language/sv) | 265 | 274 | 96.7 | /mnt/stockage/packages/f26/mariadb/debian/po/sv.po | 
+ | [eu](/f26/language/eu) | 206 | 274 | 75.2 | /mnt/stockage/packages/f26/mariadb/debian/po/eu.po | 
+ | [da](/f26/language/da) | 184 | 274 | 67.2 | /mnt/stockage/packages/f26/mariadb/debian/po/da.po | 
+ | [es](/f26/language/es) | 184 | 274 | 67.2 | /mnt/stockage/packages/f26/mariadb/debian/po/es.po | 
+ | [ar](/f26/language/ar) | 174 | 274 | 63.5 | /mnt/stockage/packages/f26/mariadb/debian/po/ar.po | 
+ | [cs](/f26/language/cs) | 174 | 274 | 63.5 | /mnt/stockage/packages/f26/mariadb/debian/po/cs.po | 
+ | [gl](/f26/language/gl) | 174 | 274 | 63.5 | /mnt/stockage/packages/f26/mariadb/debian/po/gl.po | 
+ | [pt](/f26/language/pt) | 174 | 274 | 63.5 | /mnt/stockage/packages/f26/mariadb/debian/po/pt.po | 
+ | [pt_BR](/f26/language/pt_BR) | 174 | 274 | 63.5 | /mnt/stockage/packages/f26/mariadb/debian/po/pt_BR.po | 
+ | [ca](/f26/language/ca) | 0 | 274 | 0.0 | /mnt/stockage/packages/f26/mariadb/debian/po/ca.po | 
+ | [nb_NO](/f26/language/nb_NO) | 0 | 274 | 0.0 | /mnt/stockage/packages/f26/mariadb/debian/po/nb.po | 
+ | [nl](/f26/language/nl) | 0 | 274 | 0.0 | /mnt/stockage/packages/f26/mariadb/debian/po/nl.po | 
+ | [ro](/f26/language/ro) | 0 | 274 | 0.0 | /mnt/stockage/packages/f26/mariadb/debian/po/ro.po | 
+ | [tr](/f26/language/tr) | 0 | 274 | 0.0 | /mnt/stockage/packages/f26/mariadb/debian/po/tr.po | 
 {.sortable}
 
 

@@ -18,38 +18,38 @@ The package dexter (version 0.18):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f14/language/ca.md" >}}) | 228 | 228 | 100.0 | /mnt/stockage/packages/f14/dexter/po/ca.po | 
- | [de]({{< ref "/f14/language/de.md" >}}) | 228 | 228 | 100.0 | /mnt/stockage/packages/f14/dexter/po/de.po | 
- | [es]({{< ref "/f14/language/es.md" >}}) | 228 | 228 | 100.0 | /mnt/stockage/packages/f14/dexter/po/es.po | 
- | [hu]({{< ref "/f14/language/hu.md" >}}) | 228 | 228 | 100.0 | /mnt/stockage/packages/f14/dexter/po/hu.po | 
- | [it]({{< ref "/f14/language/it.md" >}}) | 228 | 228 | 100.0 | /mnt/stockage/packages/f14/dexter/po/it.po | 
- | [ms]({{< ref "/f14/language/ms.md" >}}) | 228 | 228 | 100.0 | /mnt/stockage/packages/f14/dexter/po/ms.po | 
- | [nl]({{< ref "/f14/language/nl.md" >}}) | 228 | 228 | 100.0 | /mnt/stockage/packages/f14/dexter/po/nl.po | 
- | [nn]({{< ref "/f14/language/nn.md" >}}) | 228 | 228 | 100.0 | /mnt/stockage/packages/f14/dexter/po/nn.po | 
- | [pl]({{< ref "/f14/language/pl.md" >}}) | 228 | 228 | 100.0 | /mnt/stockage/packages/f14/dexter/po/pl.po | 
- | [pt_BR]({{< ref "/f14/language/pt_BR.md" >}}) | 228 | 228 | 100.0 | /mnt/stockage/packages/f14/dexter/po/pt_BR.po | 
- | [ru]({{< ref "/f14/language/ru.md" >}}) | 228 | 228 | 100.0 | /mnt/stockage/packages/f14/dexter/po/ru.po | 
- | [sl]({{< ref "/f14/language/sl.md" >}}) | 228 | 228 | 100.0 | /mnt/stockage/packages/f14/dexter/po/sl.po | 
- | [tr]({{< ref "/f14/language/tr.md" >}}) | 228 | 228 | 100.0 | /mnt/stockage/packages/f14/dexter/po/tr.po | 
- | [sv]({{< ref "/f14/language/sv.md" >}}) | 225 | 228 | 98.7 | /mnt/stockage/packages/f14/dexter/po/sv.po | 
- | [ar]({{< ref "/f14/language/ar.md" >}}) | 221 | 228 | 96.9 | /mnt/stockage/packages/f14/dexter/po/ar.po | 
- | [bg]({{< ref "/f14/language/bg.md" >}}) | 221 | 228 | 96.9 | /mnt/stockage/packages/f14/dexter/po/bg.po | 
- | [el]({{< ref "/f14/language/el.md" >}}) | 221 | 228 | 96.9 | /mnt/stockage/packages/f14/dexter/po/el.po | 
- | [en_GB]({{< ref "/f14/language/en_GB.md" >}}) | 221 | 228 | 96.9 | /mnt/stockage/packages/f14/dexter/po/en_GB.po | 
- | [fi]({{< ref "/f14/language/fi.md" >}}) | 221 | 228 | 96.9 | /mnt/stockage/packages/f14/dexter/po/fi.po | 
- | [fr]({{< ref "/f14/language/fr.md" >}}) | 221 | 228 | 96.9 | /mnt/stockage/packages/f14/dexter/po/fr.po | 
- | [hi]({{< ref "/f14/language/hi.md" >}}) | 221 | 228 | 96.9 | /mnt/stockage/packages/f14/dexter/po/hi.po | 
- | [id]({{< ref "/f14/language/id.md" >}}) | 221 | 228 | 96.9 | /mnt/stockage/packages/f14/dexter/po/id.po | 
- | [ro]({{< ref "/f14/language/ro.md" >}}) | 221 | 228 | 96.9 | /mnt/stockage/packages/f14/dexter/po/ro.po | 
- | [nb_NO]({{< ref "/f14/language/nb_NO.md" >}}) | 217 | 228 | 95.2 | /mnt/stockage/packages/f14/dexter/po/nb.po | 
- | [gl]({{< ref "/f14/language/gl.md" >}}) | 211 | 228 | 92.5 | /mnt/stockage/packages/f14/dexter/po/gl.po | 
- | [sr]({{< ref "/f14/language/sr.md" >}}) | 206 | 228 | 90.4 | /mnt/stockage/packages/f14/dexter/po/sr.po | 
- | [af]({{< ref "/f14/language/af.md" >}}) | 149 | 228 | 65.4 | /mnt/stockage/packages/f14/dexter/po/af.po | 
- | [da]({{< ref "/f14/language/da.md" >}}) | 139 | 228 | 61.0 | /mnt/stockage/packages/f14/dexter/po/da.po | 
- | [pt]({{< ref "/f14/language/pt.md" >}}) | 138 | 228 | 60.5 | /mnt/stockage/packages/f14/dexter/po/pt.po | 
- | [ml]({{< ref "/f14/language/ml.md" >}}) | 104 | 228 | 45.6 | /mnt/stockage/packages/f14/dexter/po/ml.po | 
- | [fil]({{< ref "/f14/language/fil.md" >}}) | 43 | 228 | 18.9 | /mnt/stockage/packages/f14/dexter/po/fil.po | 
- | [eo]({{< ref "/f14/language/eo.md" >}}) | 41 | 228 | 18.0 | /mnt/stockage/packages/f14/dexter/po/eo.po | 
+ | [ca](/f14/language/ca) | 228 | 228 | 100.0 | /mnt/stockage/packages/f14/dexter/po/ca.po | 
+ | [de](/f14/language/de) | 228 | 228 | 100.0 | /mnt/stockage/packages/f14/dexter/po/de.po | 
+ | [es](/f14/language/es) | 228 | 228 | 100.0 | /mnt/stockage/packages/f14/dexter/po/es.po | 
+ | [hu](/f14/language/hu) | 228 | 228 | 100.0 | /mnt/stockage/packages/f14/dexter/po/hu.po | 
+ | [it](/f14/language/it) | 228 | 228 | 100.0 | /mnt/stockage/packages/f14/dexter/po/it.po | 
+ | [ms](/f14/language/ms) | 228 | 228 | 100.0 | /mnt/stockage/packages/f14/dexter/po/ms.po | 
+ | [nl](/f14/language/nl) | 228 | 228 | 100.0 | /mnt/stockage/packages/f14/dexter/po/nl.po | 
+ | [nn](/f14/language/nn) | 228 | 228 | 100.0 | /mnt/stockage/packages/f14/dexter/po/nn.po | 
+ | [pl](/f14/language/pl) | 228 | 228 | 100.0 | /mnt/stockage/packages/f14/dexter/po/pl.po | 
+ | [pt_BR](/f14/language/pt_BR) | 228 | 228 | 100.0 | /mnt/stockage/packages/f14/dexter/po/pt_BR.po | 
+ | [ru](/f14/language/ru) | 228 | 228 | 100.0 | /mnt/stockage/packages/f14/dexter/po/ru.po | 
+ | [sl](/f14/language/sl) | 228 | 228 | 100.0 | /mnt/stockage/packages/f14/dexter/po/sl.po | 
+ | [tr](/f14/language/tr) | 228 | 228 | 100.0 | /mnt/stockage/packages/f14/dexter/po/tr.po | 
+ | [sv](/f14/language/sv) | 225 | 228 | 98.7 | /mnt/stockage/packages/f14/dexter/po/sv.po | 
+ | [ar](/f14/language/ar) | 221 | 228 | 96.9 | /mnt/stockage/packages/f14/dexter/po/ar.po | 
+ | [bg](/f14/language/bg) | 221 | 228 | 96.9 | /mnt/stockage/packages/f14/dexter/po/bg.po | 
+ | [el](/f14/language/el) | 221 | 228 | 96.9 | /mnt/stockage/packages/f14/dexter/po/el.po | 
+ | [en_GB](/f14/language/en_GB) | 221 | 228 | 96.9 | /mnt/stockage/packages/f14/dexter/po/en_GB.po | 
+ | [fi](/f14/language/fi) | 221 | 228 | 96.9 | /mnt/stockage/packages/f14/dexter/po/fi.po | 
+ | [fr](/f14/language/fr) | 221 | 228 | 96.9 | /mnt/stockage/packages/f14/dexter/po/fr.po | 
+ | [hi](/f14/language/hi) | 221 | 228 | 96.9 | /mnt/stockage/packages/f14/dexter/po/hi.po | 
+ | [id](/f14/language/id) | 221 | 228 | 96.9 | /mnt/stockage/packages/f14/dexter/po/id.po | 
+ | [ro](/f14/language/ro) | 221 | 228 | 96.9 | /mnt/stockage/packages/f14/dexter/po/ro.po | 
+ | [nb_NO](/f14/language/nb_NO) | 217 | 228 | 95.2 | /mnt/stockage/packages/f14/dexter/po/nb.po | 
+ | [gl](/f14/language/gl) | 211 | 228 | 92.5 | /mnt/stockage/packages/f14/dexter/po/gl.po | 
+ | [sr](/f14/language/sr) | 206 | 228 | 90.4 | /mnt/stockage/packages/f14/dexter/po/sr.po | 
+ | [af](/f14/language/af) | 149 | 228 | 65.4 | /mnt/stockage/packages/f14/dexter/po/af.po | 
+ | [da](/f14/language/da) | 139 | 228 | 61.0 | /mnt/stockage/packages/f14/dexter/po/da.po | 
+ | [pt](/f14/language/pt) | 138 | 228 | 60.5 | /mnt/stockage/packages/f14/dexter/po/pt.po | 
+ | [ml](/f14/language/ml) | 104 | 228 | 45.6 | /mnt/stockage/packages/f14/dexter/po/ml.po | 
+ | [fil](/f14/language/fil) | 43 | 228 | 18.9 | /mnt/stockage/packages/f14/dexter/po/fil.po | 
+ | [eo](/f14/language/eo) | 41 | 228 | 18.0 | /mnt/stockage/packages/f14/dexter/po/eo.po | 
 {.sortable}
 
 

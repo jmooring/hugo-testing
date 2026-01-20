@@ -18,7 +18,7 @@ The package yash (version 2.56.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ja]({{< ref "/f38/language/ja.md" >}}) | 2090 | 2090 | 100.0 | /mnt/stockage/packages/f38/yash/po/ja.po | 
+ | [ja](/f38/language/ja) | 2090 | 2090 | 100.0 | /mnt/stockage/packages/f38/yash/po/ja.po | 
 {.sortable}
 
 

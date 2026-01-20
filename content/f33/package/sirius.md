@@ -18,10 +18,10 @@ The package sirius (version 0.8.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f33/language/de.md" >}}) | 154 | 154 | 100.0 | /mnt/stockage/packages/f33/sirius/po/de.po | 
- | [fr]({{< ref "/f33/language/fr.md" >}}) | 154 | 154 | 100.0 | /mnt/stockage/packages/f33/sirius/po/fr.po | 
- | [ru]({{< ref "/f33/language/ru.md" >}}) | 154 | 154 | 100.0 | /mnt/stockage/packages/f33/sirius/po/ru.po | 
- | [sv]({{< ref "/f33/language/sv.md" >}}) | 154 | 154 | 100.0 | /mnt/stockage/packages/f33/sirius/po/sv.po | 
+ | [de](/f33/language/de) | 154 | 154 | 100.0 | /mnt/stockage/packages/f33/sirius/po/de.po | 
+ | [fr](/f33/language/fr) | 154 | 154 | 100.0 | /mnt/stockage/packages/f33/sirius/po/fr.po | 
+ | [ru](/f33/language/ru) | 154 | 154 | 100.0 | /mnt/stockage/packages/f33/sirius/po/ru.po | 
+ | [sv](/f33/language/sv) | 154 | 154 | 100.0 | /mnt/stockage/packages/f33/sirius/po/sv.po | 
 {.sortable}
 
 

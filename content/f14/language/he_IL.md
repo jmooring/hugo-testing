@@ -38,12 +38,12 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [filezilla]({{< ref "/f14/package/filezilla.md" >}}) | 9117 | 9147 | 99.7 | ABZPMGDNHM7 (please do not remove)Language: he | 
- | [squirrelmail]({{< ref "/f14/package/squirrelmail.md" >}}) | 2440 | 6878 | 35.5 | HEBREW <squirrelmail-i18n@lists.sourceforge.net> | 
- | [horde]({{< ref "/f14/package/horde.md" >}}) | 209 | 7103 | 2.9 | i18n@lists.horde.org | 
- | [imp]({{< ref "/f14/package/imp.md" >}}) | 73 | 5647 | 1.3 | i18n@lists.horde.org | 
- | [publican]({{< ref "/f14/package/publican.md" >}}) | 0 | 191 | 0.0 | None | 
- | [publican-fedora]({{< ref "/f14/package/publican-fedora.md" >}}) | 0 | 1 | 0.0 | None | 
+ | [filezilla](/f14/package/filezilla) | 9117 | 9147 | 99.7 | ABZPMGDNHM7 (please do not remove)Language: he | 
+ | [squirrelmail](/f14/package/squirrelmail) | 2440 | 6878 | 35.5 | HEBREW <squirrelmail-i18n@lists.sourceforge.net> | 
+ | [horde](/f14/package/horde) | 209 | 7103 | 2.9 | i18n@lists.horde.org | 
+ | [imp](/f14/package/imp) | 73 | 5647 | 1.3 | i18n@lists.horde.org | 
+ | [publican](/f14/package/publican) | 0 | 191 | 0.0 | None | 
+ | [publican-fedora](/f14/package/publican-fedora) | 0 | 1 | 0.0 | None | 
 {.sortable}
 
 

@@ -38,14 +38,14 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [folder-color-switcher]({{< ref "/f38/package/folder-color-switcher.md" >}}) | 51 | 65 | 78.5 | Neapolitan <nap@li.org> | 
- | [cinnamon-translations]({{< ref "/f38/package/cinnamon-translations.md" >}}) | 2745 | 9516 | 28.8 | Neapolitan <nap@li.org> | 
- | [slick-greeter]({{< ref "/f38/package/slick-greeter.md" >}}) | 35 | 216 | 16.2 | Neapolitan <nap@li.org> | 
- | [midori]({{< ref "/f38/package/midori.md" >}}) | 429 | 3541 | 12.1 | Neapolitan <nap@li.org> | 
- | [lightdm-settings]({{< ref "/f38/package/lightdm-settings.md" >}}) | 36 | 355 | 10.1 | Neapolitan <nap@li.org> | 
- | [gnome-do]({{< ref "/f38/package/gnome-do.md" >}}) | 37 | 612 | 6.0 | Neapolitan <nap@li.org> | 
- | [peek]({{< ref "/f38/package/peek.md" >}}) | 33 | 564 | 5.9 | Neapolitan <https://hosted.weblate.org/projects/peek/translations/nap/> | 
- | [deluge]({{< ref "/f38/package/deluge.md" >}}) | 62 | 4340 | 1.4 | Neapolitan <nap@li.org> | 
+ | [folder-color-switcher](/f38/package/folder-color-switcher) | 51 | 65 | 78.5 | Neapolitan <nap@li.org> | 
+ | [cinnamon-translations](/f38/package/cinnamon-translations) | 2745 | 9516 | 28.8 | Neapolitan <nap@li.org> | 
+ | [slick-greeter](/f38/package/slick-greeter) | 35 | 216 | 16.2 | Neapolitan <nap@li.org> | 
+ | [midori](/f38/package/midori) | 429 | 3541 | 12.1 | Neapolitan <nap@li.org> | 
+ | [lightdm-settings](/f38/package/lightdm-settings) | 36 | 355 | 10.1 | Neapolitan <nap@li.org> | 
+ | [gnome-do](/f38/package/gnome-do) | 37 | 612 | 6.0 | Neapolitan <nap@li.org> | 
+ | [peek](/f38/package/peek) | 33 | 564 | 5.9 | Neapolitan <https://hosted.weblate.org/projects/peek/translations/nap/> | 
+ | [deluge](/f38/package/deluge) | 62 | 4340 | 1.4 | Neapolitan <nap@li.org> | 
 {.sortable}
 
 

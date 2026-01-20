@@ -18,31 +18,31 @@ The package scummvm (version 2.2.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [be]({{< ref "/f32/language/be.md" >}}) | 6851 | 6851 | 100.0 | /mnt/stockage/packages/f32/scummvm/po/be_BY.po | 
- | [de]({{< ref "/f32/language/de.md" >}}) | 6851 | 6851 | 100.0 | /mnt/stockage/packages/f32/scummvm/po/de_DE.po | 
- | [el]({{< ref "/f32/language/el.md" >}}) | 6851 | 6851 | 100.0 | /mnt/stockage/packages/f32/scummvm/po/el.po | 
- | [es]({{< ref "/f32/language/es.md" >}}) | 6851 | 6851 | 100.0 | /mnt/stockage/packages/f32/scummvm/po/es_ES.po | 
- | [fi]({{< ref "/f32/language/fi.md" >}}) | 6851 | 6851 | 100.0 | /mnt/stockage/packages/f32/scummvm/po/fi_FI.po | 
- | [fr]({{< ref "/f32/language/fr.md" >}}) | 6851 | 6851 | 100.0 | /mnt/stockage/packages/f32/scummvm/po/fr_FR.po | 
- | [hu]({{< ref "/f32/language/hu.md" >}}) | 6851 | 6851 | 100.0 | /mnt/stockage/packages/f32/scummvm/po/hu_HU.po | 
- | [it]({{< ref "/f32/language/it.md" >}}) | 6851 | 6851 | 100.0 | /mnt/stockage/packages/f32/scummvm/po/it_IT.po | 
- | [nl]({{< ref "/f32/language/nl.md" >}}) | 6851 | 6851 | 100.0 | /mnt/stockage/packages/f32/scummvm/po/nl_NL.po | 
- | [pt_BR]({{< ref "/f32/language/pt_BR.md" >}}) | 6851 | 6851 | 100.0 | /mnt/stockage/packages/f32/scummvm/po/pt_BR.po | 
- | [ru]({{< ref "/f32/language/ru.md" >}}) | 6851 | 6851 | 100.0 | /mnt/stockage/packages/f32/scummvm/po/ru_RU.po | 
- | [uk]({{< ref "/f32/language/uk.md" >}}) | 6851 | 6851 | 100.0 | /mnt/stockage/packages/f32/scummvm/po/uk_UA.po | 
- | [da]({{< ref "/f32/language/da.md" >}}) | 5632 | 6851 | 82.2 | /mnt/stockage/packages/f32/scummvm/po/da.po | 
- | [he]({{< ref "/f32/language/he.md" >}}) | 5627 | 6851 | 82.1 | /mnt/stockage/packages/f32/scummvm/po/he.po | 
- | [pl]({{< ref "/f32/language/pl.md" >}}) | 4967 | 6851 | 72.5 | /mnt/stockage/packages/f32/scummvm/po/pl_PL.po | 
- | [cs]({{< ref "/f32/language/cs.md" >}}) | 4775 | 6851 | 69.7 | /mnt/stockage/packages/f32/scummvm/po/cs_CZ.po | 
- | [sv]({{< ref "/f32/language/sv.md" >}}) | 4395 | 6851 | 64.2 | /mnt/stockage/packages/f32/scummvm/po/sv_SE.po | 
- | [gl]({{< ref "/f32/language/gl.md" >}}) | 4159 | 6851 | 60.7 | /mnt/stockage/packages/f32/scummvm/po/gl_ES.po | 
- | [pt_PT]({{< ref "/f32/language/pt_PT.md" >}}) | 4106 | 6851 | 59.9 | /mnt/stockage/packages/f32/scummvm/po/pt_PT.po | 
- | [nb_NO]({{< ref "/f32/language/nb_NO.md" >}}) | 2881 | 6851 | 42.1 | /mnt/stockage/packages/f32/scummvm/po/nb_NO.po | 
- | [error]({{< ref "/f32/language/error.md" >}}) | 2642 | 6851 | 38.6 | /mnt/stockage/packages/f32/scummvm/po/zh-Latn_CN.po | 
- | [eu]({{< ref "/f32/language/eu.md" >}}) | 2608 | 6851 | 38.1 | /mnt/stockage/packages/f32/scummvm/po/eu.po | 
- | [ca]({{< ref "/f32/language/ca.md" >}}) | 2496 | 6851 | 36.4 | /mnt/stockage/packages/f32/scummvm/po/ca_ES.po | 
- | [nn]({{< ref "/f32/language/nn.md" >}}) | 2068 | 6851 | 30.2 | /mnt/stockage/packages/f32/scummvm/po/nn_NO.po | 
- | [en]({{< ref "/f32/language/en.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f32/scummvm/devtools/create_supernova/strings1-en.po/mnt/stockage/packages/f32/scummvm/devtools/create_supernova/strings2-en.po | 
+ | [be](/f32/language/be) | 6851 | 6851 | 100.0 | /mnt/stockage/packages/f32/scummvm/po/be_BY.po | 
+ | [de](/f32/language/de) | 6851 | 6851 | 100.0 | /mnt/stockage/packages/f32/scummvm/po/de_DE.po | 
+ | [el](/f32/language/el) | 6851 | 6851 | 100.0 | /mnt/stockage/packages/f32/scummvm/po/el.po | 
+ | [es](/f32/language/es) | 6851 | 6851 | 100.0 | /mnt/stockage/packages/f32/scummvm/po/es_ES.po | 
+ | [fi](/f32/language/fi) | 6851 | 6851 | 100.0 | /mnt/stockage/packages/f32/scummvm/po/fi_FI.po | 
+ | [fr](/f32/language/fr) | 6851 | 6851 | 100.0 | /mnt/stockage/packages/f32/scummvm/po/fr_FR.po | 
+ | [hu](/f32/language/hu) | 6851 | 6851 | 100.0 | /mnt/stockage/packages/f32/scummvm/po/hu_HU.po | 
+ | [it](/f32/language/it) | 6851 | 6851 | 100.0 | /mnt/stockage/packages/f32/scummvm/po/it_IT.po | 
+ | [nl](/f32/language/nl) | 6851 | 6851 | 100.0 | /mnt/stockage/packages/f32/scummvm/po/nl_NL.po | 
+ | [pt_BR](/f32/language/pt_BR) | 6851 | 6851 | 100.0 | /mnt/stockage/packages/f32/scummvm/po/pt_BR.po | 
+ | [ru](/f32/language/ru) | 6851 | 6851 | 100.0 | /mnt/stockage/packages/f32/scummvm/po/ru_RU.po | 
+ | [uk](/f32/language/uk) | 6851 | 6851 | 100.0 | /mnt/stockage/packages/f32/scummvm/po/uk_UA.po | 
+ | [da](/f32/language/da) | 5632 | 6851 | 82.2 | /mnt/stockage/packages/f32/scummvm/po/da.po | 
+ | [he](/f32/language/he) | 5627 | 6851 | 82.1 | /mnt/stockage/packages/f32/scummvm/po/he.po | 
+ | [pl](/f32/language/pl) | 4967 | 6851 | 72.5 | /mnt/stockage/packages/f32/scummvm/po/pl_PL.po | 
+ | [cs](/f32/language/cs) | 4775 | 6851 | 69.7 | /mnt/stockage/packages/f32/scummvm/po/cs_CZ.po | 
+ | [sv](/f32/language/sv) | 4395 | 6851 | 64.2 | /mnt/stockage/packages/f32/scummvm/po/sv_SE.po | 
+ | [gl](/f32/language/gl) | 4159 | 6851 | 60.7 | /mnt/stockage/packages/f32/scummvm/po/gl_ES.po | 
+ | [pt_PT](/f32/language/pt_PT) | 4106 | 6851 | 59.9 | /mnt/stockage/packages/f32/scummvm/po/pt_PT.po | 
+ | [nb_NO](/f32/language/nb_NO) | 2881 | 6851 | 42.1 | /mnt/stockage/packages/f32/scummvm/po/nb_NO.po | 
+ | [error](/f32/language/error) | 2642 | 6851 | 38.6 | /mnt/stockage/packages/f32/scummvm/po/zh-Latn_CN.po | 
+ | [eu](/f32/language/eu) | 2608 | 6851 | 38.1 | /mnt/stockage/packages/f32/scummvm/po/eu.po | 
+ | [ca](/f32/language/ca) | 2496 | 6851 | 36.4 | /mnt/stockage/packages/f32/scummvm/po/ca_ES.po | 
+ | [nn](/f32/language/nn) | 2068 | 6851 | 30.2 | /mnt/stockage/packages/f32/scummvm/po/nn_NO.po | 
+ | [en](/f32/language/en) | 0 | 0 | 0.0 | /mnt/stockage/packages/f32/scummvm/devtools/create_supernova/strings1-en.po/mnt/stockage/packages/f32/scummvm/devtools/create_supernova/strings2-en.po | 
 {.sortable}
 
 

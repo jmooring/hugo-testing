@@ -18,11 +18,11 @@ The package cpufrequtils (version 008):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f16/language/cs.md" >}}) | 538 | 538 | 100.0 | /mnt/stockage/packages/f16/cpufrequtils/po/cs.po | 
- | [de]({{< ref "/f16/language/de.md" >}}) | 583 | 583 | 100.0 | /mnt/stockage/packages/f16/cpufrequtils/po/de.po | 
- | [fr]({{< ref "/f16/language/fr.md" >}}) | 538 | 538 | 100.0 | /mnt/stockage/packages/f16/cpufrequtils/po/fr.po | 
- | [it]({{< ref "/f16/language/it.md" >}}) | 583 | 583 | 100.0 | /mnt/stockage/packages/f16/cpufrequtils/po/it.po | 
- | [pt]({{< ref "/f16/language/pt.md" >}}) | 583 | 583 | 100.0 | /mnt/stockage/packages/f16/cpufrequtils/po/pt.po | 
+ | [cs](/f16/language/cs) | 538 | 538 | 100.0 | /mnt/stockage/packages/f16/cpufrequtils/po/cs.po | 
+ | [de](/f16/language/de) | 583 | 583 | 100.0 | /mnt/stockage/packages/f16/cpufrequtils/po/de.po | 
+ | [fr](/f16/language/fr) | 538 | 538 | 100.0 | /mnt/stockage/packages/f16/cpufrequtils/po/fr.po | 
+ | [it](/f16/language/it) | 583 | 583 | 100.0 | /mnt/stockage/packages/f16/cpufrequtils/po/it.po | 
+ | [pt](/f16/language/pt) | 583 | 583 | 100.0 | /mnt/stockage/packages/f16/cpufrequtils/po/pt.po | 
 {.sortable}
 
 

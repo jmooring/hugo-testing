@@ -18,13 +18,13 @@ The package input-remapper (version 2.1.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [pt_BR]({{< ref "/f41/language/pt_BR.md" >}}) | 1162 | 1162 | 100.0 | /mnt/stockage/packages/f41/input-remapper/po/pt_BR.po/mnt/stockage/packages/f41/input-remapper/po/pt.po | 
- | [it]({{< ref "/f41/language/it.md" >}}) | 1152 | 1162 | 99.1 | /mnt/stockage/packages/f41/input-remapper/po/it_IT.po/mnt/stockage/packages/f41/input-remapper/po/it.po | 
- | [uk]({{< ref "/f41/language/uk.md" >}}) | 638 | 1162 | 54.9 | /mnt/stockage/packages/f41/input-remapper/po/uk_UA.po/mnt/stockage/packages/f41/input-remapper/po/uk.po | 
- | [ru]({{< ref "/f41/language/ru.md" >}}) | 542 | 1162 | 46.6 | /mnt/stockage/packages/f41/input-remapper/po/ru_RU.po/mnt/stockage/packages/f41/input-remapper/po/ru.po | 
- | [sk]({{< ref "/f41/language/sk.md" >}}) | 456 | 1162 | 39.2 | /mnt/stockage/packages/f41/input-remapper/po/sk_SK.po/mnt/stockage/packages/f41/input-remapper/po/sk.po | 
- | [zh_Hans]({{< ref "/f41/language/zh_Hans.md" >}}) | 456 | 1162 | 39.2 | /mnt/stockage/packages/f41/input-remapper/po/zh_CN.po/mnt/stockage/packages/f41/input-remapper/po/zh.po | 
- | [fr]({{< ref "/f41/language/fr.md" >}}) | 396 | 1162 | 34.1 | /mnt/stockage/packages/f41/input-remapper/po/fr_FR.po/mnt/stockage/packages/f41/input-remapper/po/fr.po | 
+ | [pt_BR](/f41/language/pt_BR) | 1162 | 1162 | 100.0 | /mnt/stockage/packages/f41/input-remapper/po/pt_BR.po/mnt/stockage/packages/f41/input-remapper/po/pt.po | 
+ | [it](/f41/language/it) | 1152 | 1162 | 99.1 | /mnt/stockage/packages/f41/input-remapper/po/it_IT.po/mnt/stockage/packages/f41/input-remapper/po/it.po | 
+ | [uk](/f41/language/uk) | 638 | 1162 | 54.9 | /mnt/stockage/packages/f41/input-remapper/po/uk_UA.po/mnt/stockage/packages/f41/input-remapper/po/uk.po | 
+ | [ru](/f41/language/ru) | 542 | 1162 | 46.6 | /mnt/stockage/packages/f41/input-remapper/po/ru_RU.po/mnt/stockage/packages/f41/input-remapper/po/ru.po | 
+ | [sk](/f41/language/sk) | 456 | 1162 | 39.2 | /mnt/stockage/packages/f41/input-remapper/po/sk_SK.po/mnt/stockage/packages/f41/input-remapper/po/sk.po | 
+ | [zh_Hans](/f41/language/zh_Hans) | 456 | 1162 | 39.2 | /mnt/stockage/packages/f41/input-remapper/po/zh_CN.po/mnt/stockage/packages/f41/input-remapper/po/zh.po | 
+ | [fr](/f41/language/fr) | 396 | 1162 | 34.1 | /mnt/stockage/packages/f41/input-remapper/po/fr_FR.po/mnt/stockage/packages/f41/input-remapper/po/fr.po | 
 {.sortable}
 
 

@@ -18,13 +18,13 @@ The package gdmap (version 0.7.5):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f9/language/de.md" >}}) | 122 | 122 | 100.0 | /mnt/stockage/packages/f9/gdmap/po/de.po | 
- | [fr]({{< ref "/f9/language/fr.md" >}}) | 86 | 122 | 70.5 | /mnt/stockage/packages/f9/gdmap/po/fr.po | 
- | [he]({{< ref "/f9/language/he.md" >}}) | 86 | 122 | 70.5 | /mnt/stockage/packages/f9/gdmap/po/he.po | 
- | [hr]({{< ref "/f9/language/hr.md" >}}) | 86 | 122 | 70.5 | /mnt/stockage/packages/f9/gdmap/po/hr.po | 
- | [ru]({{< ref "/f9/language/ru.md" >}}) | 86 | 122 | 70.5 | /mnt/stockage/packages/f9/gdmap/po/ru.po | 
- | [tr]({{< ref "/f9/language/tr.md" >}}) | 86 | 122 | 70.5 | /mnt/stockage/packages/f9/gdmap/po/tr.po | 
- | [bg]({{< ref "/f9/language/bg.md" >}}) | 84 | 122 | 68.9 | /mnt/stockage/packages/f9/gdmap/po/bg.po | 
+ | [de](/f9/language/de) | 122 | 122 | 100.0 | /mnt/stockage/packages/f9/gdmap/po/de.po | 
+ | [fr](/f9/language/fr) | 86 | 122 | 70.5 | /mnt/stockage/packages/f9/gdmap/po/fr.po | 
+ | [he](/f9/language/he) | 86 | 122 | 70.5 | /mnt/stockage/packages/f9/gdmap/po/he.po | 
+ | [hr](/f9/language/hr) | 86 | 122 | 70.5 | /mnt/stockage/packages/f9/gdmap/po/hr.po | 
+ | [ru](/f9/language/ru) | 86 | 122 | 70.5 | /mnt/stockage/packages/f9/gdmap/po/ru.po | 
+ | [tr](/f9/language/tr) | 86 | 122 | 70.5 | /mnt/stockage/packages/f9/gdmap/po/tr.po | 
+ | [bg](/f9/language/bg) | 84 | 122 | 68.9 | /mnt/stockage/packages/f9/gdmap/po/bg.po | 
 {.sortable}
 
 

@@ -18,200 +18,200 @@ The package dippi (version 2.7.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [es]({{< ref "/f34/language/es.md" >}}) | 397 | 397 | 100.0 | /mnt/stockage/packages/f34/dippi/po/es.po | 
- | [lt]({{< ref "/f34/language/lt.md" >}}) | 397 | 397 | 100.0 | /mnt/stockage/packages/f34/dippi/po/lt.po | 
- | [nl]({{< ref "/f34/language/nl.md" >}}) | 397 | 397 | 100.0 | /mnt/stockage/packages/f34/dippi/po/nl.po | 
- | [fr]({{< ref "/f34/language/fr.md" >}}) | 385 | 397 | 97.0 | /mnt/stockage/packages/f34/dippi/po/fr.po | 
- | [fr_CA]({{< ref "/f34/language/fr_CA.md" >}}) | 385 | 397 | 97.0 | /mnt/stockage/packages/f34/dippi/po/fr_CA.po | 
- | [en_AU]({{< ref "/f34/language/en_AU.md" >}}) | 381 | 397 | 96.0 | /mnt/stockage/packages/f34/dippi/po/en_AU.po | 
- | [en_CA]({{< ref "/f34/language/en_CA.md" >}}) | 381 | 397 | 96.0 | /mnt/stockage/packages/f34/dippi/po/en_CA.po | 
- | [en_GB]({{< ref "/f34/language/en_GB.md" >}}) | 381 | 397 | 96.0 | /mnt/stockage/packages/f34/dippi/po/en_GB.po | 
- | [pt]({{< ref "/f34/language/pt.md" >}}) | 375 | 397 | 94.5 | /mnt/stockage/packages/f34/dippi/po/pt.po | 
- | [aa]({{< ref "/f34/language/aa.md" >}}) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/aa.po | 
- | [ab]({{< ref "/f34/language/ab.md" >}}) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/ab.po | 
- | [ae]({{< ref "/f34/language/ae.md" >}}) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/ae.po | 
- | [af]({{< ref "/f34/language/af.md" >}}) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/af.po | 
- | [ak]({{< ref "/f34/language/ak.md" >}}) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/ak.po | 
- | [am]({{< ref "/f34/language/am.md" >}}) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/am.po | 
- | [an]({{< ref "/f34/language/an.md" >}}) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/an.po | 
- | [ar]({{< ref "/f34/language/ar.md" >}}) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/ar.po | 
- | [as]({{< ref "/f34/language/as.md" >}}) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/as.po | 
- | [ast]({{< ref "/f34/language/ast.md" >}}) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/ast.po | 
- | [av]({{< ref "/f34/language/av.md" >}}) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/av.po | 
- | [ay]({{< ref "/f34/language/ay.md" >}}) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/ay.po | 
- | [az]({{< ref "/f34/language/az.md" >}}) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/az.po | 
- | [ba]({{< ref "/f34/language/ba.md" >}}) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/ba.po | 
- | [be]({{< ref "/f34/language/be.md" >}}) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/be.po | 
- | [bg]({{< ref "/f34/language/bg.md" >}}) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/bg.po | 
- | [bh]({{< ref "/f34/language/bh.md" >}}) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/bh.po | 
- | [bi]({{< ref "/f34/language/bi.md" >}}) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/bi.po | 
- | [bm]({{< ref "/f34/language/bm.md" >}}) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/bm.po | 
- | [bn]({{< ref "/f34/language/bn.md" >}}) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/bn.po | 
- | [bo]({{< ref "/f34/language/bo.md" >}}) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/bo.po | 
- | [br]({{< ref "/f34/language/br.md" >}}) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/br.po | 
- | [bs]({{< ref "/f34/language/bs.md" >}}) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/bs.po | 
- | [ca]({{< ref "/f34/language/ca.md" >}}) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/ca.po | 
- | [ce]({{< ref "/f34/language/ce.md" >}}) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/ce.po | 
- | [ch]({{< ref "/f34/language/ch.md" >}}) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/ch.po | 
- | [ckb]({{< ref "/f34/language/ckb.md" >}}) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/ckb.po | 
- | [co]({{< ref "/f34/language/co.md" >}}) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/co.po | 
- | [cr]({{< ref "/f34/language/cr.md" >}}) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/cr.po | 
- | [cs]({{< ref "/f34/language/cs.md" >}}) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/cs.po | 
- | [cu]({{< ref "/f34/language/cu.md" >}}) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/cu.po | 
- | [cv]({{< ref "/f34/language/cv.md" >}}) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/cv.po | 
- | [cy]({{< ref "/f34/language/cy.md" >}}) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/cy.po | 
- | [da]({{< ref "/f34/language/da.md" >}}) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/da.po | 
- | [de]({{< ref "/f34/language/de.md" >}}) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/de.po | 
- | [dv]({{< ref "/f34/language/dv.md" >}}) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/dv.po | 
- | [dz]({{< ref "/f34/language/dz.md" >}}) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/dz.po | 
- | [ee]({{< ref "/f34/language/ee.md" >}}) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/ee.po | 
- | [el]({{< ref "/f34/language/el.md" >}}) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/el.po | 
- | [eo]({{< ref "/f34/language/eo.md" >}}) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/eo.po | 
- | [et]({{< ref "/f34/language/et.md" >}}) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/et.po | 
- | [eu]({{< ref "/f34/language/eu.md" >}}) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/eu.po | 
- | [fa]({{< ref "/f34/language/fa.md" >}}) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/fa.po | 
- | [ff]({{< ref "/f34/language/ff.md" >}}) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/ff.po | 
- | [fi]({{< ref "/f34/language/fi.md" >}}) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/fi.po | 
- | [fj]({{< ref "/f34/language/fj.md" >}}) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/fj.po | 
- | [fo]({{< ref "/f34/language/fo.md" >}}) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/fo.po | 
- | [fy]({{< ref "/f34/language/fy.md" >}}) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/fy.po | 
- | [ga]({{< ref "/f34/language/ga.md" >}}) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/ga.po | 
- | [gd]({{< ref "/f34/language/gd.md" >}}) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/gd.po | 
- | [gl]({{< ref "/f34/language/gl.md" >}}) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/gl.po | 
- | [gn]({{< ref "/f34/language/gn.md" >}}) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/gn.po | 
- | [gu]({{< ref "/f34/language/gu.md" >}}) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/gu.po | 
- | [gv]({{< ref "/f34/language/gv.md" >}}) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/gv.po | 
- | [ha]({{< ref "/f34/language/ha.md" >}}) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/ha.po | 
- | [he]({{< ref "/f34/language/he.md" >}}) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/he.po | 
- | [hi]({{< ref "/f34/language/hi.md" >}}) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/hi.po | 
- | [ho]({{< ref "/f34/language/ho.md" >}}) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/ho.po | 
- | [hr]({{< ref "/f34/language/hr.md" >}}) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/hr.po | 
- | [ht]({{< ref "/f34/language/ht.md" >}}) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/ht.po | 
- | [hu]({{< ref "/f34/language/hu.md" >}}) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/hu.po | 
- | [hy]({{< ref "/f34/language/hy.md" >}}) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/hy.po | 
- | [hz]({{< ref "/f34/language/hz.md" >}}) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/hz.po | 
- | [ia]({{< ref "/f34/language/ia.md" >}}) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/ia.po | 
- | [id]({{< ref "/f34/language/id.md" >}}) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/id.po | 
- | [ie]({{< ref "/f34/language/ie.md" >}}) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/ie.po | 
- | [ig]({{< ref "/f34/language/ig.md" >}}) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/ig.po | 
- | [ii]({{< ref "/f34/language/ii.md" >}}) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/ii.po | 
- | [ik]({{< ref "/f34/language/ik.md" >}}) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/ik.po | 
- | [io]({{< ref "/f34/language/io.md" >}}) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/io.po | 
- | [is]({{< ref "/f34/language/is.md" >}}) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/is.po | 
- | [it]({{< ref "/f34/language/it.md" >}}) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/it.po | 
- | [iu]({{< ref "/f34/language/iu.md" >}}) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/iu.po | 
- | [ja]({{< ref "/f34/language/ja.md" >}}) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/ja.po | 
- | [jv]({{< ref "/f34/language/jv.md" >}}) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/jv.po | 
- | [ka]({{< ref "/f34/language/ka.md" >}}) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/ka.po | 
- | [kg]({{< ref "/f34/language/kg.md" >}}) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/kg.po | 
- | [ki]({{< ref "/f34/language/ki.md" >}}) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/ki.po | 
- | [kj]({{< ref "/f34/language/kj.md" >}}) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/kj.po | 
- | [kk]({{< ref "/f34/language/kk.md" >}}) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/kk.po | 
- | [kl]({{< ref "/f34/language/kl.md" >}}) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/kl.po | 
- | [km]({{< ref "/f34/language/km.md" >}}) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/km.po | 
- | [kn]({{< ref "/f34/language/kn.md" >}}) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/kn.po | 
- | [ko]({{< ref "/f34/language/ko.md" >}}) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/ko.po | 
- | [kr]({{< ref "/f34/language/kr.md" >}}) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/kr.po | 
- | [ks]({{< ref "/f34/language/ks.md" >}}) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/ks.po | 
- | [ku]({{< ref "/f34/language/ku.md" >}}) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/ku.po | 
- | [kv]({{< ref "/f34/language/kv.md" >}}) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/kv.po | 
- | [kw]({{< ref "/f34/language/kw.md" >}}) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/kw.po | 
- | [ky]({{< ref "/f34/language/ky.md" >}}) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/ky.po | 
- | [la]({{< ref "/f34/language/la.md" >}}) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/la.po | 
- | [lb]({{< ref "/f34/language/lb.md" >}}) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/lb.po | 
- | [lg]({{< ref "/f34/language/lg.md" >}}) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/lg.po | 
- | [li]({{< ref "/f34/language/li.md" >}}) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/li.po | 
- | [ln]({{< ref "/f34/language/ln.md" >}}) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/ln.po | 
- | [lo]({{< ref "/f34/language/lo.md" >}}) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/lo.po | 
- | [lu]({{< ref "/f34/language/lu.md" >}}) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/lu.po | 
- | [lv]({{< ref "/f34/language/lv.md" >}}) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/lv.po | 
- | [mg]({{< ref "/f34/language/mg.md" >}}) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/mg.po | 
- | [mh]({{< ref "/f34/language/mh.md" >}}) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/mh.po | 
- | [mi]({{< ref "/f34/language/mi.md" >}}) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/mi.po | 
- | [mk]({{< ref "/f34/language/mk.md" >}}) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/mk.po | 
- | [ml]({{< ref "/f34/language/ml.md" >}}) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/ml.po | 
- | [mn]({{< ref "/f34/language/mn.md" >}}) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/mn.po | 
- | [mr]({{< ref "/f34/language/mr.md" >}}) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/mr.po | 
- | [ms]({{< ref "/f34/language/ms.md" >}}) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/ms.po | 
- | [mt]({{< ref "/f34/language/mt.md" >}}) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/mt.po | 
- | [my]({{< ref "/f34/language/my.md" >}}) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/my.po | 
- | [na]({{< ref "/f34/language/na.md" >}}) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/na.po | 
- | [nb_NO]({{< ref "/f34/language/nb_NO.md" >}}) | 0 | 794 | 0.0 | /mnt/stockage/packages/f34/dippi/po/no.po/mnt/stockage/packages/f34/dippi/po/nb.po | 
- | [nd]({{< ref "/f34/language/nd.md" >}}) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/nd.po | 
- | [ne]({{< ref "/f34/language/ne.md" >}}) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/ne.po | 
- | [ng]({{< ref "/f34/language/ng.md" >}}) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/ng.po | 
- | [nn]({{< ref "/f34/language/nn.md" >}}) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/nn.po | 
- | [nr]({{< ref "/f34/language/nr.md" >}}) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/nr.po | 
- | [nv]({{< ref "/f34/language/nv.md" >}}) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/nv.po | 
- | [ny]({{< ref "/f34/language/ny.md" >}}) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/ny.po | 
- | [oc]({{< ref "/f34/language/oc.md" >}}) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/oc.po | 
- | [oj]({{< ref "/f34/language/oj.md" >}}) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/oj.po | 
- | [om]({{< ref "/f34/language/om.md" >}}) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/om.po | 
- | [or]({{< ref "/f34/language/or.md" >}}) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/or.po | 
- | [os]({{< ref "/f34/language/os.md" >}}) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/os.po | 
- | [pa]({{< ref "/f34/language/pa.md" >}}) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/pa.po | 
- | [pi]({{< ref "/f34/language/pi.md" >}}) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/pi.po | 
- | [pl]({{< ref "/f34/language/pl.md" >}}) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/pl.po | 
- | [ps]({{< ref "/f34/language/ps.md" >}}) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/ps.po | 
- | [pt_BR]({{< ref "/f34/language/pt_BR.md" >}}) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/pt_BR.po | 
- | [qu]({{< ref "/f34/language/qu.md" >}}) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/qu.po | 
- | [rm]({{< ref "/f34/language/rm.md" >}}) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/rm.po | 
- | [rn]({{< ref "/f34/language/rn.md" >}}) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/rn.po | 
- | [ro]({{< ref "/f34/language/ro.md" >}}) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/ro.po | 
- | [ro_MD]({{< ref "/f34/language/ro_MD.md" >}}) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/mo.po | 
- | [ru]({{< ref "/f34/language/ru.md" >}}) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/ru.po | 
- | [rue]({{< ref "/f34/language/rue.md" >}}) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/rue.po | 
- | [rw]({{< ref "/f34/language/rw.md" >}}) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/rw.po | 
- | [sa]({{< ref "/f34/language/sa.md" >}}) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/sa.po | 
- | [sc]({{< ref "/f34/language/sc.md" >}}) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/sc.po | 
- | [sd]({{< ref "/f34/language/sd.md" >}}) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/sd.po | 
- | [se]({{< ref "/f34/language/se.md" >}}) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/se.po | 
- | [sg]({{< ref "/f34/language/sg.md" >}}) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/sg.po | 
- | [si]({{< ref "/f34/language/si.md" >}}) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/si.po | 
- | [sk]({{< ref "/f34/language/sk.md" >}}) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/sk.po | 
- | [sl]({{< ref "/f34/language/sl.md" >}}) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/sl.po | 
- | [sm]({{< ref "/f34/language/sm.md" >}}) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/sm.po | 
- | [sma]({{< ref "/f34/language/sma.md" >}}) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/sma.po | 
- | [sn]({{< ref "/f34/language/sn.md" >}}) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/sn.po | 
- | [so]({{< ref "/f34/language/so.md" >}}) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/so.po | 
- | [sq]({{< ref "/f34/language/sq.md" >}}) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/sq.po | 
- | [sr]({{< ref "/f34/language/sr.md" >}}) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/sr.po | 
- | [ss]({{< ref "/f34/language/ss.md" >}}) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/ss.po | 
- | [st]({{< ref "/f34/language/st.md" >}}) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/st.po | 
- | [su]({{< ref "/f34/language/su.md" >}}) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/su.po | 
- | [sv]({{< ref "/f34/language/sv.md" >}}) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/sv.po | 
- | [sw]({{< ref "/f34/language/sw.md" >}}) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/sw.po | 
- | [ta]({{< ref "/f34/language/ta.md" >}}) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/ta.po | 
- | [te]({{< ref "/f34/language/te.md" >}}) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/te.po | 
- | [tg]({{< ref "/f34/language/tg.md" >}}) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/tg.po | 
- | [th]({{< ref "/f34/language/th.md" >}}) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/th.po | 
- | [ti]({{< ref "/f34/language/ti.md" >}}) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/ti.po | 
- | [tk]({{< ref "/f34/language/tk.md" >}}) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/tk.po | 
- | [tl]({{< ref "/f34/language/tl.md" >}}) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/tl.po | 
- | [tn]({{< ref "/f34/language/tn.md" >}}) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/tn.po | 
- | [to]({{< ref "/f34/language/to.md" >}}) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/to.po | 
- | [tr]({{< ref "/f34/language/tr.md" >}}) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/tr.po | 
- | [ts]({{< ref "/f34/language/ts.md" >}}) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/ts.po | 
- | [tt]({{< ref "/f34/language/tt.md" >}}) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/tt.po | 
- | [tw]({{< ref "/f34/language/tw.md" >}}) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/tw.po | 
- | [ty]({{< ref "/f34/language/ty.md" >}}) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/ty.po | 
- | [ug]({{< ref "/f34/language/ug.md" >}}) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/ug.po | 
- | [uk]({{< ref "/f34/language/uk.md" >}}) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/uk.po | 
- | [ur]({{< ref "/f34/language/ur.md" >}}) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/ur.po | 
- | [uz]({{< ref "/f34/language/uz.md" >}}) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/uz.po | 
- | [ve]({{< ref "/f34/language/ve.md" >}}) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/ve.po | 
- | [vi]({{< ref "/f34/language/vi.md" >}}) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/vi.po | 
- | [vo]({{< ref "/f34/language/vo.md" >}}) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/vo.po | 
- | [wa]({{< ref "/f34/language/wa.md" >}}) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/wa.po | 
- | [wo]({{< ref "/f34/language/wo.md" >}}) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/wo.po | 
- | [xh]({{< ref "/f34/language/xh.md" >}}) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/xh.po | 
- | [yi]({{< ref "/f34/language/yi.md" >}}) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/yi.po | 
- | [yo]({{< ref "/f34/language/yo.md" >}}) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/yo.po | 
- | [za]({{< ref "/f34/language/za.md" >}}) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/za.po | 
- | [zh_Hans]({{< ref "/f34/language/zh_Hans.md" >}}) | 0 | 794 | 0.0 | /mnt/stockage/packages/f34/dippi/po/zh_CN.po/mnt/stockage/packages/f34/dippi/po/zh.po | 
- | [zh_Hant]({{< ref "/f34/language/zh_Hant.md" >}}) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/zh_TW.po | 
- | [zh_Hant_HK]({{< ref "/f34/language/zh_Hant_HK.md" >}}) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/zh_HK.po | 
- | [zu]({{< ref "/f34/language/zu.md" >}}) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/zu.po | 
+ | [es](/f34/language/es) | 397 | 397 | 100.0 | /mnt/stockage/packages/f34/dippi/po/es.po | 
+ | [lt](/f34/language/lt) | 397 | 397 | 100.0 | /mnt/stockage/packages/f34/dippi/po/lt.po | 
+ | [nl](/f34/language/nl) | 397 | 397 | 100.0 | /mnt/stockage/packages/f34/dippi/po/nl.po | 
+ | [fr](/f34/language/fr) | 385 | 397 | 97.0 | /mnt/stockage/packages/f34/dippi/po/fr.po | 
+ | [fr_CA](/f34/language/fr_CA) | 385 | 397 | 97.0 | /mnt/stockage/packages/f34/dippi/po/fr_CA.po | 
+ | [en_AU](/f34/language/en_AU) | 381 | 397 | 96.0 | /mnt/stockage/packages/f34/dippi/po/en_AU.po | 
+ | [en_CA](/f34/language/en_CA) | 381 | 397 | 96.0 | /mnt/stockage/packages/f34/dippi/po/en_CA.po | 
+ | [en_GB](/f34/language/en_GB) | 381 | 397 | 96.0 | /mnt/stockage/packages/f34/dippi/po/en_GB.po | 
+ | [pt](/f34/language/pt) | 375 | 397 | 94.5 | /mnt/stockage/packages/f34/dippi/po/pt.po | 
+ | [aa](/f34/language/aa) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/aa.po | 
+ | [ab](/f34/language/ab) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/ab.po | 
+ | [ae](/f34/language/ae) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/ae.po | 
+ | [af](/f34/language/af) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/af.po | 
+ | [ak](/f34/language/ak) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/ak.po | 
+ | [am](/f34/language/am) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/am.po | 
+ | [an](/f34/language/an) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/an.po | 
+ | [ar](/f34/language/ar) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/ar.po | 
+ | [as](/f34/language/as) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/as.po | 
+ | [ast](/f34/language/ast) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/ast.po | 
+ | [av](/f34/language/av) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/av.po | 
+ | [ay](/f34/language/ay) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/ay.po | 
+ | [az](/f34/language/az) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/az.po | 
+ | [ba](/f34/language/ba) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/ba.po | 
+ | [be](/f34/language/be) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/be.po | 
+ | [bg](/f34/language/bg) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/bg.po | 
+ | [bh](/f34/language/bh) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/bh.po | 
+ | [bi](/f34/language/bi) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/bi.po | 
+ | [bm](/f34/language/bm) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/bm.po | 
+ | [bn](/f34/language/bn) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/bn.po | 
+ | [bo](/f34/language/bo) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/bo.po | 
+ | [br](/f34/language/br) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/br.po | 
+ | [bs](/f34/language/bs) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/bs.po | 
+ | [ca](/f34/language/ca) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/ca.po | 
+ | [ce](/f34/language/ce) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/ce.po | 
+ | [ch](/f34/language/ch) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/ch.po | 
+ | [ckb](/f34/language/ckb) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/ckb.po | 
+ | [co](/f34/language/co) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/co.po | 
+ | [cr](/f34/language/cr) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/cr.po | 
+ | [cs](/f34/language/cs) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/cs.po | 
+ | [cu](/f34/language/cu) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/cu.po | 
+ | [cv](/f34/language/cv) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/cv.po | 
+ | [cy](/f34/language/cy) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/cy.po | 
+ | [da](/f34/language/da) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/da.po | 
+ | [de](/f34/language/de) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/de.po | 
+ | [dv](/f34/language/dv) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/dv.po | 
+ | [dz](/f34/language/dz) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/dz.po | 
+ | [ee](/f34/language/ee) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/ee.po | 
+ | [el](/f34/language/el) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/el.po | 
+ | [eo](/f34/language/eo) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/eo.po | 
+ | [et](/f34/language/et) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/et.po | 
+ | [eu](/f34/language/eu) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/eu.po | 
+ | [fa](/f34/language/fa) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/fa.po | 
+ | [ff](/f34/language/ff) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/ff.po | 
+ | [fi](/f34/language/fi) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/fi.po | 
+ | [fj](/f34/language/fj) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/fj.po | 
+ | [fo](/f34/language/fo) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/fo.po | 
+ | [fy](/f34/language/fy) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/fy.po | 
+ | [ga](/f34/language/ga) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/ga.po | 
+ | [gd](/f34/language/gd) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/gd.po | 
+ | [gl](/f34/language/gl) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/gl.po | 
+ | [gn](/f34/language/gn) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/gn.po | 
+ | [gu](/f34/language/gu) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/gu.po | 
+ | [gv](/f34/language/gv) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/gv.po | 
+ | [ha](/f34/language/ha) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/ha.po | 
+ | [he](/f34/language/he) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/he.po | 
+ | [hi](/f34/language/hi) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/hi.po | 
+ | [ho](/f34/language/ho) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/ho.po | 
+ | [hr](/f34/language/hr) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/hr.po | 
+ | [ht](/f34/language/ht) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/ht.po | 
+ | [hu](/f34/language/hu) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/hu.po | 
+ | [hy](/f34/language/hy) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/hy.po | 
+ | [hz](/f34/language/hz) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/hz.po | 
+ | [ia](/f34/language/ia) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/ia.po | 
+ | [id](/f34/language/id) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/id.po | 
+ | [ie](/f34/language/ie) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/ie.po | 
+ | [ig](/f34/language/ig) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/ig.po | 
+ | [ii](/f34/language/ii) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/ii.po | 
+ | [ik](/f34/language/ik) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/ik.po | 
+ | [io](/f34/language/io) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/io.po | 
+ | [is](/f34/language/is) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/is.po | 
+ | [it](/f34/language/it) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/it.po | 
+ | [iu](/f34/language/iu) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/iu.po | 
+ | [ja](/f34/language/ja) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/ja.po | 
+ | [jv](/f34/language/jv) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/jv.po | 
+ | [ka](/f34/language/ka) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/ka.po | 
+ | [kg](/f34/language/kg) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/kg.po | 
+ | [ki](/f34/language/ki) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/ki.po | 
+ | [kj](/f34/language/kj) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/kj.po | 
+ | [kk](/f34/language/kk) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/kk.po | 
+ | [kl](/f34/language/kl) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/kl.po | 
+ | [km](/f34/language/km) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/km.po | 
+ | [kn](/f34/language/kn) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/kn.po | 
+ | [ko](/f34/language/ko) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/ko.po | 
+ | [kr](/f34/language/kr) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/kr.po | 
+ | [ks](/f34/language/ks) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/ks.po | 
+ | [ku](/f34/language/ku) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/ku.po | 
+ | [kv](/f34/language/kv) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/kv.po | 
+ | [kw](/f34/language/kw) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/kw.po | 
+ | [ky](/f34/language/ky) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/ky.po | 
+ | [la](/f34/language/la) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/la.po | 
+ | [lb](/f34/language/lb) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/lb.po | 
+ | [lg](/f34/language/lg) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/lg.po | 
+ | [li](/f34/language/li) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/li.po | 
+ | [ln](/f34/language/ln) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/ln.po | 
+ | [lo](/f34/language/lo) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/lo.po | 
+ | [lu](/f34/language/lu) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/lu.po | 
+ | [lv](/f34/language/lv) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/lv.po | 
+ | [mg](/f34/language/mg) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/mg.po | 
+ | [mh](/f34/language/mh) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/mh.po | 
+ | [mi](/f34/language/mi) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/mi.po | 
+ | [mk](/f34/language/mk) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/mk.po | 
+ | [ml](/f34/language/ml) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/ml.po | 
+ | [mn](/f34/language/mn) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/mn.po | 
+ | [mr](/f34/language/mr) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/mr.po | 
+ | [ms](/f34/language/ms) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/ms.po | 
+ | [mt](/f34/language/mt) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/mt.po | 
+ | [my](/f34/language/my) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/my.po | 
+ | [na](/f34/language/na) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/na.po | 
+ | [nb_NO](/f34/language/nb_NO) | 0 | 794 | 0.0 | /mnt/stockage/packages/f34/dippi/po/no.po/mnt/stockage/packages/f34/dippi/po/nb.po | 
+ | [nd](/f34/language/nd) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/nd.po | 
+ | [ne](/f34/language/ne) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/ne.po | 
+ | [ng](/f34/language/ng) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/ng.po | 
+ | [nn](/f34/language/nn) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/nn.po | 
+ | [nr](/f34/language/nr) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/nr.po | 
+ | [nv](/f34/language/nv) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/nv.po | 
+ | [ny](/f34/language/ny) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/ny.po | 
+ | [oc](/f34/language/oc) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/oc.po | 
+ | [oj](/f34/language/oj) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/oj.po | 
+ | [om](/f34/language/om) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/om.po | 
+ | [or](/f34/language/or) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/or.po | 
+ | [os](/f34/language/os) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/os.po | 
+ | [pa](/f34/language/pa) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/pa.po | 
+ | [pi](/f34/language/pi) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/pi.po | 
+ | [pl](/f34/language/pl) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/pl.po | 
+ | [ps](/f34/language/ps) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/ps.po | 
+ | [pt_BR](/f34/language/pt_BR) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/pt_BR.po | 
+ | [qu](/f34/language/qu) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/qu.po | 
+ | [rm](/f34/language/rm) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/rm.po | 
+ | [rn](/f34/language/rn) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/rn.po | 
+ | [ro](/f34/language/ro) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/ro.po | 
+ | [ro_MD](/f34/language/ro_MD) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/mo.po | 
+ | [ru](/f34/language/ru) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/ru.po | 
+ | [rue](/f34/language/rue) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/rue.po | 
+ | [rw](/f34/language/rw) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/rw.po | 
+ | [sa](/f34/language/sa) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/sa.po | 
+ | [sc](/f34/language/sc) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/sc.po | 
+ | [sd](/f34/language/sd) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/sd.po | 
+ | [se](/f34/language/se) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/se.po | 
+ | [sg](/f34/language/sg) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/sg.po | 
+ | [si](/f34/language/si) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/si.po | 
+ | [sk](/f34/language/sk) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/sk.po | 
+ | [sl](/f34/language/sl) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/sl.po | 
+ | [sm](/f34/language/sm) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/sm.po | 
+ | [sma](/f34/language/sma) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/sma.po | 
+ | [sn](/f34/language/sn) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/sn.po | 
+ | [so](/f34/language/so) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/so.po | 
+ | [sq](/f34/language/sq) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/sq.po | 
+ | [sr](/f34/language/sr) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/sr.po | 
+ | [ss](/f34/language/ss) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/ss.po | 
+ | [st](/f34/language/st) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/st.po | 
+ | [su](/f34/language/su) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/su.po | 
+ | [sv](/f34/language/sv) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/sv.po | 
+ | [sw](/f34/language/sw) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/sw.po | 
+ | [ta](/f34/language/ta) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/ta.po | 
+ | [te](/f34/language/te) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/te.po | 
+ | [tg](/f34/language/tg) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/tg.po | 
+ | [th](/f34/language/th) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/th.po | 
+ | [ti](/f34/language/ti) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/ti.po | 
+ | [tk](/f34/language/tk) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/tk.po | 
+ | [tl](/f34/language/tl) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/tl.po | 
+ | [tn](/f34/language/tn) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/tn.po | 
+ | [to](/f34/language/to) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/to.po | 
+ | [tr](/f34/language/tr) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/tr.po | 
+ | [ts](/f34/language/ts) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/ts.po | 
+ | [tt](/f34/language/tt) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/tt.po | 
+ | [tw](/f34/language/tw) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/tw.po | 
+ | [ty](/f34/language/ty) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/ty.po | 
+ | [ug](/f34/language/ug) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/ug.po | 
+ | [uk](/f34/language/uk) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/uk.po | 
+ | [ur](/f34/language/ur) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/ur.po | 
+ | [uz](/f34/language/uz) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/uz.po | 
+ | [ve](/f34/language/ve) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/ve.po | 
+ | [vi](/f34/language/vi) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/vi.po | 
+ | [vo](/f34/language/vo) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/vo.po | 
+ | [wa](/f34/language/wa) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/wa.po | 
+ | [wo](/f34/language/wo) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/wo.po | 
+ | [xh](/f34/language/xh) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/xh.po | 
+ | [yi](/f34/language/yi) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/yi.po | 
+ | [yo](/f34/language/yo) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/yo.po | 
+ | [za](/f34/language/za) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/za.po | 
+ | [zh_Hans](/f34/language/zh_Hans) | 0 | 794 | 0.0 | /mnt/stockage/packages/f34/dippi/po/zh_CN.po/mnt/stockage/packages/f34/dippi/po/zh.po | 
+ | [zh_Hant](/f34/language/zh_Hant) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/zh_TW.po | 
+ | [zh_Hant_HK](/f34/language/zh_Hant_HK) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/zh_HK.po | 
+ | [zu](/f34/language/zu) | 0 | 397 | 0.0 | /mnt/stockage/packages/f34/dippi/po/zu.po | 
 {.sortable}
 
 

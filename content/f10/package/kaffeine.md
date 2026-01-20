@@ -18,48 +18,48 @@ The package kaffeine (version 0.8.7):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [bg]({{< ref "/f10/language/bg.md" >}}) | 2354 | 2354 | 100.0 | /mnt/stockage/packages/f10/kaffeine/po/bg.po | 
- | [ca]({{< ref "/f10/language/ca.md" >}}) | 2354 | 2354 | 100.0 | /mnt/stockage/packages/f10/kaffeine/po/ca.po | 
- | [cs]({{< ref "/f10/language/cs.md" >}}) | 2354 | 2354 | 100.0 | /mnt/stockage/packages/f10/kaffeine/po/cs.po | 
- | [da]({{< ref "/f10/language/da.md" >}}) | 2354 | 2354 | 100.0 | /mnt/stockage/packages/f10/kaffeine/po/da.po | 
- | [de]({{< ref "/f10/language/de.md" >}}) | 2354 | 2354 | 100.0 | /mnt/stockage/packages/f10/kaffeine/po/de.po | 
- | [el]({{< ref "/f10/language/el.md" >}}) | 2354 | 2354 | 100.0 | /mnt/stockage/packages/f10/kaffeine/po/el.po | 
- | [fr]({{< ref "/f10/language/fr.md" >}}) | 2354 | 2354 | 100.0 | /mnt/stockage/packages/f10/kaffeine/po/fr.po | 
- | [hu]({{< ref "/f10/language/hu.md" >}}) | 2354 | 2354 | 100.0 | /mnt/stockage/packages/f10/kaffeine/po/hu.po | 
- | [it]({{< ref "/f10/language/it.md" >}}) | 2354 | 2354 | 100.0 | /mnt/stockage/packages/f10/kaffeine/po/it.po | 
- | [nl]({{< ref "/f10/language/nl.md" >}}) | 2354 | 2354 | 100.0 | /mnt/stockage/packages/f10/kaffeine/po/nl.po | 
- | [pl]({{< ref "/f10/language/pl.md" >}}) | 2354 | 2354 | 100.0 | /mnt/stockage/packages/f10/kaffeine/po/pl.po | 
- | [pt]({{< ref "/f10/language/pt.md" >}}) | 2354 | 2354 | 100.0 | /mnt/stockage/packages/f10/kaffeine/po/pt.po | 
- | [pt_BR]({{< ref "/f10/language/pt_BR.md" >}}) | 2354 | 2354 | 100.0 | /mnt/stockage/packages/f10/kaffeine/po/pt_BR.po | 
- | [sv]({{< ref "/f10/language/sv.md" >}}) | 2354 | 2354 | 100.0 | /mnt/stockage/packages/f10/kaffeine/po/sv.po | 
- | [et]({{< ref "/f10/language/et.md" >}}) | 2353 | 2354 | 100.0 | /mnt/stockage/packages/f10/kaffeine/po/et.po | 
- | [error]({{< ref "/f10/language/error.md" >}}) | 4697 | 4708 | 99.8 | /mnt/stockage/packages/f10/kaffeine/po/sr@Latn.po/mnt/stockage/packages/f10/kaffeine/po/xx.po | 
- | [sr]({{< ref "/f10/language/sr.md" >}}) | 2343 | 2354 | 99.5 | /mnt/stockage/packages/f10/kaffeine/po/sr.po | 
- | [he]({{< ref "/f10/language/he.md" >}}) | 2340 | 2354 | 99.4 | /mnt/stockage/packages/f10/kaffeine/po/he.po | 
- | [tr]({{< ref "/f10/language/tr.md" >}}) | 2335 | 2354 | 99.2 | /mnt/stockage/packages/f10/kaffeine/po/tr.po | 
- | [gl]({{< ref "/f10/language/gl.md" >}}) | 2330 | 2354 | 99.0 | /mnt/stockage/packages/f10/kaffeine/po/gl.po | 
- | [nb_NO]({{< ref "/f10/language/nb_NO.md" >}}) | 2325 | 2354 | 98.8 | /mnt/stockage/packages/f10/kaffeine/po/nb.po | 
- | [ja]({{< ref "/f10/language/ja.md" >}}) | 2302 | 2354 | 97.8 | /mnt/stockage/packages/f10/kaffeine/po/ja.po | 
- | [ru]({{< ref "/f10/language/ru.md" >}}) | 2281 | 2354 | 96.9 | /mnt/stockage/packages/f10/kaffeine/po/ru.po | 
- | [nn]({{< ref "/f10/language/nn.md" >}}) | 2280 | 2354 | 96.9 | /mnt/stockage/packages/f10/kaffeine/po/nn.po | 
- | [zh_Hans]({{< ref "/f10/language/zh_Hans.md" >}}) | 2202 | 2354 | 93.5 | /mnt/stockage/packages/f10/kaffeine/po/zh_CN.po | 
- | [fi]({{< ref "/f10/language/fi.md" >}}) | 2177 | 2354 | 92.5 | /mnt/stockage/packages/f10/kaffeine/po/fi.po | 
- | [bn]({{< ref "/f10/language/bn.md" >}}) | 2174 | 2354 | 92.4 | /mnt/stockage/packages/f10/kaffeine/po/bn.po | 
- | [es]({{< ref "/f10/language/es.md" >}}) | 2161 | 2354 | 91.8 | /mnt/stockage/packages/f10/kaffeine/po/es.po | 
- | [km]({{< ref "/f10/language/km.md" >}}) | 2108 | 2354 | 89.5 | /mnt/stockage/packages/f10/kaffeine/po/km.po | 
- | [ar]({{< ref "/f10/language/ar.md" >}}) | 2106 | 2354 | 89.5 | /mnt/stockage/packages/f10/kaffeine/po/ar.po | 
- | [pa]({{< ref "/f10/language/pa.md" >}}) | 1743 | 2354 | 74.0 | /mnt/stockage/packages/f10/kaffeine/po/pa.po | 
- | [zh_Hant]({{< ref "/f10/language/zh_Hant.md" >}}) | 1648 | 2354 | 70.0 | /mnt/stockage/packages/f10/kaffeine/po/zh_TW.po | 
- | [mk]({{< ref "/f10/language/mk.md" >}}) | 1366 | 2354 | 58.0 | /mnt/stockage/packages/f10/kaffeine/po/mk.po | 
- | [uk]({{< ref "/f10/language/uk.md" >}}) | 1305 | 2354 | 55.4 | /mnt/stockage/packages/f10/kaffeine/po/uk.po | 
- | [lt]({{< ref "/f10/language/lt.md" >}}) | 1158 | 2354 | 49.2 | /mnt/stockage/packages/f10/kaffeine/po/lt.po | 
- | [uz]({{< ref "/f10/language/uz.md" >}}) | 1081 | 2354 | 45.9 | /mnt/stockage/packages/f10/kaffeine/po/uz.po | 
- | [ga]({{< ref "/f10/language/ga.md" >}}) | 907 | 2354 | 38.5 | /mnt/stockage/packages/f10/kaffeine/po/ga.po | 
- | [se]({{< ref "/f10/language/se.md" >}}) | 871 | 2354 | 37.0 | /mnt/stockage/packages/f10/kaffeine/po/se.po | 
- | [br]({{< ref "/f10/language/br.md" >}}) | 784 | 2354 | 33.3 | /mnt/stockage/packages/f10/kaffeine/po/br.po | 
- | [tg]({{< ref "/f10/language/tg.md" >}}) | 468 | 2354 | 19.9 | /mnt/stockage/packages/f10/kaffeine/po/tg.po | 
- | [ka]({{< ref "/f10/language/ka.md" >}}) | 12 | 2354 | 0.5 | /mnt/stockage/packages/f10/kaffeine/po/ka.po | 
- | [sk]({{< ref "/f10/language/sk.md" >}}) | 0 | 2354 | 0.0 | /mnt/stockage/packages/f10/kaffeine/po/sk.po | 
+ | [bg](/f10/language/bg) | 2354 | 2354 | 100.0 | /mnt/stockage/packages/f10/kaffeine/po/bg.po | 
+ | [ca](/f10/language/ca) | 2354 | 2354 | 100.0 | /mnt/stockage/packages/f10/kaffeine/po/ca.po | 
+ | [cs](/f10/language/cs) | 2354 | 2354 | 100.0 | /mnt/stockage/packages/f10/kaffeine/po/cs.po | 
+ | [da](/f10/language/da) | 2354 | 2354 | 100.0 | /mnt/stockage/packages/f10/kaffeine/po/da.po | 
+ | [de](/f10/language/de) | 2354 | 2354 | 100.0 | /mnt/stockage/packages/f10/kaffeine/po/de.po | 
+ | [el](/f10/language/el) | 2354 | 2354 | 100.0 | /mnt/stockage/packages/f10/kaffeine/po/el.po | 
+ | [fr](/f10/language/fr) | 2354 | 2354 | 100.0 | /mnt/stockage/packages/f10/kaffeine/po/fr.po | 
+ | [hu](/f10/language/hu) | 2354 | 2354 | 100.0 | /mnt/stockage/packages/f10/kaffeine/po/hu.po | 
+ | [it](/f10/language/it) | 2354 | 2354 | 100.0 | /mnt/stockage/packages/f10/kaffeine/po/it.po | 
+ | [nl](/f10/language/nl) | 2354 | 2354 | 100.0 | /mnt/stockage/packages/f10/kaffeine/po/nl.po | 
+ | [pl](/f10/language/pl) | 2354 | 2354 | 100.0 | /mnt/stockage/packages/f10/kaffeine/po/pl.po | 
+ | [pt](/f10/language/pt) | 2354 | 2354 | 100.0 | /mnt/stockage/packages/f10/kaffeine/po/pt.po | 
+ | [pt_BR](/f10/language/pt_BR) | 2354 | 2354 | 100.0 | /mnt/stockage/packages/f10/kaffeine/po/pt_BR.po | 
+ | [sv](/f10/language/sv) | 2354 | 2354 | 100.0 | /mnt/stockage/packages/f10/kaffeine/po/sv.po | 
+ | [et](/f10/language/et) | 2353 | 2354 | 100.0 | /mnt/stockage/packages/f10/kaffeine/po/et.po | 
+ | [error](/f10/language/error) | 4697 | 4708 | 99.8 | /mnt/stockage/packages/f10/kaffeine/po/sr@Latn.po/mnt/stockage/packages/f10/kaffeine/po/xx.po | 
+ | [sr](/f10/language/sr) | 2343 | 2354 | 99.5 | /mnt/stockage/packages/f10/kaffeine/po/sr.po | 
+ | [he](/f10/language/he) | 2340 | 2354 | 99.4 | /mnt/stockage/packages/f10/kaffeine/po/he.po | 
+ | [tr](/f10/language/tr) | 2335 | 2354 | 99.2 | /mnt/stockage/packages/f10/kaffeine/po/tr.po | 
+ | [gl](/f10/language/gl) | 2330 | 2354 | 99.0 | /mnt/stockage/packages/f10/kaffeine/po/gl.po | 
+ | [nb_NO](/f10/language/nb_NO) | 2325 | 2354 | 98.8 | /mnt/stockage/packages/f10/kaffeine/po/nb.po | 
+ | [ja](/f10/language/ja) | 2302 | 2354 | 97.8 | /mnt/stockage/packages/f10/kaffeine/po/ja.po | 
+ | [ru](/f10/language/ru) | 2281 | 2354 | 96.9 | /mnt/stockage/packages/f10/kaffeine/po/ru.po | 
+ | [nn](/f10/language/nn) | 2280 | 2354 | 96.9 | /mnt/stockage/packages/f10/kaffeine/po/nn.po | 
+ | [zh_Hans](/f10/language/zh_Hans) | 2202 | 2354 | 93.5 | /mnt/stockage/packages/f10/kaffeine/po/zh_CN.po | 
+ | [fi](/f10/language/fi) | 2177 | 2354 | 92.5 | /mnt/stockage/packages/f10/kaffeine/po/fi.po | 
+ | [bn](/f10/language/bn) | 2174 | 2354 | 92.4 | /mnt/stockage/packages/f10/kaffeine/po/bn.po | 
+ | [es](/f10/language/es) | 2161 | 2354 | 91.8 | /mnt/stockage/packages/f10/kaffeine/po/es.po | 
+ | [km](/f10/language/km) | 2108 | 2354 | 89.5 | /mnt/stockage/packages/f10/kaffeine/po/km.po | 
+ | [ar](/f10/language/ar) | 2106 | 2354 | 89.5 | /mnt/stockage/packages/f10/kaffeine/po/ar.po | 
+ | [pa](/f10/language/pa) | 1743 | 2354 | 74.0 | /mnt/stockage/packages/f10/kaffeine/po/pa.po | 
+ | [zh_Hant](/f10/language/zh_Hant) | 1648 | 2354 | 70.0 | /mnt/stockage/packages/f10/kaffeine/po/zh_TW.po | 
+ | [mk](/f10/language/mk) | 1366 | 2354 | 58.0 | /mnt/stockage/packages/f10/kaffeine/po/mk.po | 
+ | [uk](/f10/language/uk) | 1305 | 2354 | 55.4 | /mnt/stockage/packages/f10/kaffeine/po/uk.po | 
+ | [lt](/f10/language/lt) | 1158 | 2354 | 49.2 | /mnt/stockage/packages/f10/kaffeine/po/lt.po | 
+ | [uz](/f10/language/uz) | 1081 | 2354 | 45.9 | /mnt/stockage/packages/f10/kaffeine/po/uz.po | 
+ | [ga](/f10/language/ga) | 907 | 2354 | 38.5 | /mnt/stockage/packages/f10/kaffeine/po/ga.po | 
+ | [se](/f10/language/se) | 871 | 2354 | 37.0 | /mnt/stockage/packages/f10/kaffeine/po/se.po | 
+ | [br](/f10/language/br) | 784 | 2354 | 33.3 | /mnt/stockage/packages/f10/kaffeine/po/br.po | 
+ | [tg](/f10/language/tg) | 468 | 2354 | 19.9 | /mnt/stockage/packages/f10/kaffeine/po/tg.po | 
+ | [ka](/f10/language/ka) | 12 | 2354 | 0.5 | /mnt/stockage/packages/f10/kaffeine/po/ka.po | 
+ | [sk](/f10/language/sk) | 0 | 2354 | 0.0 | /mnt/stockage/packages/f10/kaffeine/po/sk.po | 
 {.sortable}
 
 

@@ -18,13 +18,13 @@ The package mate-applet-softupd (version 0.4.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [pt_BR]({{< ref "/f23/language/pt_BR.md" >}}) | 40 | 40 | 100.0 | /mnt/stockage/packages/f23/mate-applet-softupd/po/pt_BR.po | 
- | [pt_PT]({{< ref "/f23/language/pt_PT.md" >}}) | 40 | 40 | 100.0 | /mnt/stockage/packages/f23/mate-applet-softupd/po/pt_PT.po | 
- | [bg]({{< ref "/f23/language/bg.md" >}}) | 37 | 40 | 92.5 | /mnt/stockage/packages/f23/mate-applet-softupd/po/bg_BG.po | 
- | [en_GB]({{< ref "/f23/language/en_GB.md" >}}) | 37 | 40 | 92.5 | /mnt/stockage/packages/f23/mate-applet-softupd/po/en_GB.po | 
- | [en_US]({{< ref "/f23/language/en_US.md" >}}) | 37 | 40 | 92.5 | /mnt/stockage/packages/f23/mate-applet-softupd/po/en_US.po | 
- | [fr]({{< ref "/f23/language/fr.md" >}}) | 37 | 40 | 92.5 | /mnt/stockage/packages/f23/mate-applet-softupd/po/fr_FR.po | 
- | [ru]({{< ref "/f23/language/ru.md" >}}) | 37 | 40 | 92.5 | /mnt/stockage/packages/f23/mate-applet-softupd/po/ru_RU.po | 
+ | [pt_BR](/f23/language/pt_BR) | 40 | 40 | 100.0 | /mnt/stockage/packages/f23/mate-applet-softupd/po/pt_BR.po | 
+ | [pt_PT](/f23/language/pt_PT) | 40 | 40 | 100.0 | /mnt/stockage/packages/f23/mate-applet-softupd/po/pt_PT.po | 
+ | [bg](/f23/language/bg) | 37 | 40 | 92.5 | /mnt/stockage/packages/f23/mate-applet-softupd/po/bg_BG.po | 
+ | [en_GB](/f23/language/en_GB) | 37 | 40 | 92.5 | /mnt/stockage/packages/f23/mate-applet-softupd/po/en_GB.po | 
+ | [en_US](/f23/language/en_US) | 37 | 40 | 92.5 | /mnt/stockage/packages/f23/mate-applet-softupd/po/en_US.po | 
+ | [fr](/f23/language/fr) | 37 | 40 | 92.5 | /mnt/stockage/packages/f23/mate-applet-softupd/po/fr_FR.po | 
+ | [ru](/f23/language/ru) | 37 | 40 | 92.5 | /mnt/stockage/packages/f23/mate-applet-softupd/po/ru_RU.po | 
 {.sortable}
 
 

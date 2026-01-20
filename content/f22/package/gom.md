@@ -18,17 +18,17 @@ The package gom (version 0.3.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [bs]({{< ref "/f22/language/bs.md" >}}) | 175 | 175 | 100.0 | /mnt/stockage/packages/f22/gom/po/bs.po | 
- | [cs]({{< ref "/f22/language/cs.md" >}}) | 175 | 175 | 100.0 | /mnt/stockage/packages/f22/gom/po/cs.po | 
- | [el]({{< ref "/f22/language/el.md" >}}) | 170 | 170 | 100.0 | /mnt/stockage/packages/f22/gom/po/el.po | 
- | [es]({{< ref "/f22/language/es.md" >}}) | 175 | 175 | 100.0 | /mnt/stockage/packages/f22/gom/po/es.po | 
- | [hu]({{< ref "/f22/language/hu.md" >}}) | 175 | 175 | 100.0 | /mnt/stockage/packages/f22/gom/po/hu.po | 
- | [id]({{< ref "/f22/language/id.md" >}}) | 165 | 165 | 100.0 | /mnt/stockage/packages/f22/gom/po/id.po | 
- | [pl]({{< ref "/f22/language/pl.md" >}}) | 175 | 175 | 100.0 | /mnt/stockage/packages/f22/gom/po/pl.po | 
- | [pt_BR]({{< ref "/f22/language/pt_BR.md" >}}) | 175 | 175 | 100.0 | /mnt/stockage/packages/f22/gom/po/pt_BR.po | 
- | [sr]({{< ref "/f22/language/sr.md" >}}) | 350 | 350 | 100.0 | /mnt/stockage/packages/f22/gom/po/sr@latin.po/mnt/stockage/packages/f22/gom/po/sr.po | 
- | [de]({{< ref "/f22/language/de.md" >}}) | 77 | 164 | 47.0 | /mnt/stockage/packages/f22/gom/po/de.po | 
- | [sl]({{< ref "/f22/language/sl.md" >}}) | 40 | 170 | 23.5 | /mnt/stockage/packages/f22/gom/po/sl.po | 
+ | [bs](/f22/language/bs) | 175 | 175 | 100.0 | /mnt/stockage/packages/f22/gom/po/bs.po | 
+ | [cs](/f22/language/cs) | 175 | 175 | 100.0 | /mnt/stockage/packages/f22/gom/po/cs.po | 
+ | [el](/f22/language/el) | 170 | 170 | 100.0 | /mnt/stockage/packages/f22/gom/po/el.po | 
+ | [es](/f22/language/es) | 175 | 175 | 100.0 | /mnt/stockage/packages/f22/gom/po/es.po | 
+ | [hu](/f22/language/hu) | 175 | 175 | 100.0 | /mnt/stockage/packages/f22/gom/po/hu.po | 
+ | [id](/f22/language/id) | 165 | 165 | 100.0 | /mnt/stockage/packages/f22/gom/po/id.po | 
+ | [pl](/f22/language/pl) | 175 | 175 | 100.0 | /mnt/stockage/packages/f22/gom/po/pl.po | 
+ | [pt_BR](/f22/language/pt_BR) | 175 | 175 | 100.0 | /mnt/stockage/packages/f22/gom/po/pt_BR.po | 
+ | [sr](/f22/language/sr) | 350 | 350 | 100.0 | /mnt/stockage/packages/f22/gom/po/sr@latin.po/mnt/stockage/packages/f22/gom/po/sr.po | 
+ | [de](/f22/language/de) | 77 | 164 | 47.0 | /mnt/stockage/packages/f22/gom/po/de.po | 
+ | [sl](/f22/language/sl) | 40 | 170 | 23.5 | /mnt/stockage/packages/f22/gom/po/sl.po | 
 {.sortable}
 
 

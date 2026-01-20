@@ -18,7 +18,7 @@ The package pidgin-privacy-please (version 0.6.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f13/language/de.md" >}}) | 170 | 170 | 100.0 | /mnt/stockage/packages/f13/pidgin-privacy-please/po/de.po | 
+ | [de](/f13/language/de) | 170 | 170 | 100.0 | /mnt/stockage/packages/f13/pidgin-privacy-please/po/de.po | 
 {.sortable}
 
 

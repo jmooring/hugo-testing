@@ -18,21 +18,21 @@ The package elementary (version 1.7.9):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [eo]({{< ref "/f20/language/eo.md" >}}) | 53 | 53 | 100.0 | /mnt/stockage/packages/f20/elementary/po/eo.po | 
- | [it]({{< ref "/f20/language/it.md" >}}) | 53 | 53 | 100.0 | /mnt/stockage/packages/f20/elementary/po/it.po | 
- | [pt_PT]({{< ref "/f20/language/pt_PT.md" >}}) | 53 | 53 | 100.0 | /mnt/stockage/packages/f20/elementary/po/pt.po | 
- | [zh_Hans]({{< ref "/f20/language/zh_Hans.md" >}}) | 42 | 53 | 79.2 | /mnt/stockage/packages/f20/elementary/po/zh_CN.po | 
- | [cs]({{< ref "/f20/language/cs.md" >}}) | 30 | 53 | 56.6 | /mnt/stockage/packages/f20/elementary/po/cs.po | 
- | [fr]({{< ref "/f20/language/fr.md" >}}) | 30 | 53 | 56.6 | /mnt/stockage/packages/f20/elementary/po/fr.po | 
- | [ko]({{< ref "/f20/language/ko.md" >}}) | 11 | 53 | 20.8 | /mnt/stockage/packages/f20/elementary/po/ko_KR.po | 
- | [de]({{< ref "/f20/language/de.md" >}}) | 18 | 106 | 17.0 | /mnt/stockage/packages/f20/elementary/po/de.po/mnt/stockage/packages/f20/elementary/po/nl.po | 
- | [he]({{< ref "/f20/language/he.md" >}}) | 7 | 53 | 13.2 | /mnt/stockage/packages/f20/elementary/po/he.po | 
- | [ar]({{< ref "/f20/language/ar.md" >}}) | 1 | 53 | 1.9 | /mnt/stockage/packages/f20/elementary/po/ar.po | 
- | [azb]({{< ref "/f20/language/azb.md" >}}) | 1 | 53 | 1.9 | /mnt/stockage/packages/f20/elementary/po/az_IR.po | 
- | [fa]({{< ref "/f20/language/fa.md" >}}) | 1 | 53 | 1.9 | /mnt/stockage/packages/f20/elementary/po/fa.po | 
- | [ps]({{< ref "/f20/language/ps.md" >}}) | 1 | 53 | 1.9 | /mnt/stockage/packages/f20/elementary/po/ps.po | 
- | [ur]({{< ref "/f20/language/ur.md" >}}) | 1 | 53 | 1.9 | /mnt/stockage/packages/f20/elementary/po/ur.po | 
- | [yi]({{< ref "/f20/language/yi.md" >}}) | 1 | 53 | 1.9 | /mnt/stockage/packages/f20/elementary/po/yi.po | 
+ | [eo](/f20/language/eo) | 53 | 53 | 100.0 | /mnt/stockage/packages/f20/elementary/po/eo.po | 
+ | [it](/f20/language/it) | 53 | 53 | 100.0 | /mnt/stockage/packages/f20/elementary/po/it.po | 
+ | [pt_PT](/f20/language/pt_PT) | 53 | 53 | 100.0 | /mnt/stockage/packages/f20/elementary/po/pt.po | 
+ | [zh_Hans](/f20/language/zh_Hans) | 42 | 53 | 79.2 | /mnt/stockage/packages/f20/elementary/po/zh_CN.po | 
+ | [cs](/f20/language/cs) | 30 | 53 | 56.6 | /mnt/stockage/packages/f20/elementary/po/cs.po | 
+ | [fr](/f20/language/fr) | 30 | 53 | 56.6 | /mnt/stockage/packages/f20/elementary/po/fr.po | 
+ | [ko](/f20/language/ko) | 11 | 53 | 20.8 | /mnt/stockage/packages/f20/elementary/po/ko_KR.po | 
+ | [de](/f20/language/de) | 18 | 106 | 17.0 | /mnt/stockage/packages/f20/elementary/po/de.po/mnt/stockage/packages/f20/elementary/po/nl.po | 
+ | [he](/f20/language/he) | 7 | 53 | 13.2 | /mnt/stockage/packages/f20/elementary/po/he.po | 
+ | [ar](/f20/language/ar) | 1 | 53 | 1.9 | /mnt/stockage/packages/f20/elementary/po/ar.po | 
+ | [azb](/f20/language/azb) | 1 | 53 | 1.9 | /mnt/stockage/packages/f20/elementary/po/az_IR.po | 
+ | [fa](/f20/language/fa) | 1 | 53 | 1.9 | /mnt/stockage/packages/f20/elementary/po/fa.po | 
+ | [ps](/f20/language/ps) | 1 | 53 | 1.9 | /mnt/stockage/packages/f20/elementary/po/ps.po | 
+ | [ur](/f20/language/ur) | 1 | 53 | 1.9 | /mnt/stockage/packages/f20/elementary/po/ur.po | 
+ | [yi](/f20/language/yi) | 1 | 53 | 1.9 | /mnt/stockage/packages/f20/elementary/po/yi.po | 
 {.sortable}
 
 

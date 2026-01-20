@@ -18,54 +18,54 @@ The package wine (version 5.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f30/language/ca.md" >}}) | 16870 | 16870 | 100.0 | /mnt/stockage/packages/f30/wine/po/ca.po | 
- | [en]({{< ref "/f30/language/en.md" >}}) | 16870 | 16870 | 100.0 | /mnt/stockage/packages/f30/wine/po/en.po | 
- | [en_US]({{< ref "/f30/language/en_US.md" >}}) | 16870 | 16870 | 100.0 | /mnt/stockage/packages/f30/wine/po/en_US.po | 
- | [fi]({{< ref "/f30/language/fi.md" >}}) | 16870 | 16870 | 100.0 | /mnt/stockage/packages/f30/wine/po/fi.po | 
- | [lt]({{< ref "/f30/language/lt.md" >}}) | 16870 | 16870 | 100.0 | /mnt/stockage/packages/f30/wine/po/lt.po | 
- | [tr]({{< ref "/f30/language/tr.md" >}}) | 16867 | 16870 | 100.0 | /mnt/stockage/packages/f30/wine/po/tr.po | 
- | [de]({{< ref "/f30/language/de.md" >}}) | 16855 | 16870 | 99.9 | /mnt/stockage/packages/f30/wine/po/de.po | 
- | [ko]({{< ref "/f30/language/ko.md" >}}) | 16853 | 16870 | 99.9 | /mnt/stockage/packages/f30/wine/po/ko.po | 
- | [pt_BR]({{< ref "/f30/language/pt_BR.md" >}}) | 16853 | 16870 | 99.9 | /mnt/stockage/packages/f30/wine/po/pt_BR.po | 
- | [zh_Hans]({{< ref "/f30/language/zh_Hans.md" >}}) | 16853 | 16870 | 99.9 | /mnt/stockage/packages/f30/wine/po/zh_CN.po | 
- | [ja]({{< ref "/f30/language/ja.md" >}}) | 16852 | 16870 | 99.9 | /mnt/stockage/packages/f30/wine/po/ja.po | 
- | [ru]({{< ref "/f30/language/ru.md" >}}) | 16148 | 16870 | 95.7 | /mnt/stockage/packages/f30/wine/po/ru.po | 
- | [nb_NO]({{< ref "/f30/language/nb_NO.md" >}}) | 15856 | 16870 | 94.0 | /mnt/stockage/packages/f30/wine/po/nb_NO.po | 
- | [pl]({{< ref "/f30/language/pl.md" >}}) | 15153 | 16870 | 89.8 | /mnt/stockage/packages/f30/wine/po/pl.po | 
- | [sv]({{< ref "/f30/language/sv.md" >}}) | 14886 | 16870 | 88.2 | /mnt/stockage/packages/f30/wine/po/sv.po | 
- | [pt_PT]({{< ref "/f30/language/pt_PT.md" >}}) | 14698 | 16870 | 87.1 | /mnt/stockage/packages/f30/wine/po/pt_PT.po | 
- | [uk]({{< ref "/f30/language/uk.md" >}}) | 14424 | 16870 | 85.5 | /mnt/stockage/packages/f30/wine/po/uk.po | 
- | [fr]({{< ref "/f30/language/fr.md" >}}) | 13968 | 16870 | 82.8 | /mnt/stockage/packages/f30/wine/po/fr.po | 
- | [es]({{< ref "/f30/language/es.md" >}}) | 12686 | 16870 | 75.2 | /mnt/stockage/packages/f30/wine/po/es.po | 
- | [it]({{< ref "/f30/language/it.md" >}}) | 12633 | 16870 | 74.9 | /mnt/stockage/packages/f30/wine/po/it.po | 
- | [da]({{< ref "/f30/language/da.md" >}}) | 12608 | 16870 | 74.7 | /mnt/stockage/packages/f30/wine/po/da.po | 
- | [hu]({{< ref "/f30/language/hu.md" >}}) | 12576 | 16870 | 74.5 | /mnt/stockage/packages/f30/wine/po/hu.po | 
- | [sl]({{< ref "/f30/language/sl.md" >}}) | 12549 | 16870 | 74.4 | /mnt/stockage/packages/f30/wine/po/sl.po | 
- | [nl]({{< ref "/f30/language/nl.md" >}}) | 12489 | 16870 | 74.0 | /mnt/stockage/packages/f30/wine/po/nl.po | 
- | [zh_Hant]({{< ref "/f30/language/zh_Hant.md" >}}) | 12225 | 16870 | 72.5 | /mnt/stockage/packages/f30/wine/po/zh_TW.po | 
- | [ar]({{< ref "/f30/language/ar.md" >}}) | 12177 | 16870 | 72.2 | /mnt/stockage/packages/f30/wine/po/ar.po | 
- | [cs]({{< ref "/f30/language/cs.md" >}}) | 10819 | 16870 | 64.1 | /mnt/stockage/packages/f30/wine/po/cs.po | 
- | [ro]({{< ref "/f30/language/ro.md" >}}) | 10785 | 16870 | 63.9 | /mnt/stockage/packages/f30/wine/po/ro.po | 
- | [hr]({{< ref "/f30/language/hr.md" >}}) | 9084 | 16870 | 53.8 | /mnt/stockage/packages/f30/wine/po/hr.po | 
- | [si]({{< ref "/f30/language/si.md" >}}) | 8198 | 16870 | 48.6 | /mnt/stockage/packages/f30/wine/po/si.po | 
- | [he]({{< ref "/f30/language/he.md" >}}) | 4718 | 16870 | 28.0 | /mnt/stockage/packages/f30/wine/po/he.po | 
- | [ast]({{< ref "/f30/language/ast.md" >}}) | 3636 | 16870 | 21.6 | /mnt/stockage/packages/f30/wine/po/ast.po | 
- | [eo]({{< ref "/f30/language/eo.md" >}}) | 2560 | 16870 | 15.2 | /mnt/stockage/packages/f30/wine/po/eo.po | 
- | [sr_Latn]({{< ref "/f30/language/sr_Latn.md" >}}) | 2363 | 16870 | 14.0 | /mnt/stockage/packages/f30/wine/po/sr_RS@latin.po | 
- | [sr_Cyrl]({{< ref "/f30/language/sr_Cyrl.md" >}}) | 2189 | 16870 | 13.0 | /mnt/stockage/packages/f30/wine/po/sr_RS@cyrillic.po | 
- | [sk]({{< ref "/f30/language/sk.md" >}}) | 2006 | 16870 | 11.9 | /mnt/stockage/packages/f30/wine/po/sk.po | 
- | [bg]({{< ref "/f30/language/bg.md" >}}) | 1282 | 16870 | 7.6 | /mnt/stockage/packages/f30/wine/po/bg.po | 
- | [th]({{< ref "/f30/language/th.md" >}}) | 418 | 16870 | 2.5 | /mnt/stockage/packages/f30/wine/po/th.po | 
- | [el]({{< ref "/f30/language/el.md" >}}) | 302 | 16870 | 1.8 | /mnt/stockage/packages/f30/wine/po/el.po | 
- | [wa]({{< ref "/f30/language/wa.md" >}}) | 242 | 16870 | 1.4 | /mnt/stockage/packages/f30/wine/po/wa.po | 
- | [ta]({{< ref "/f30/language/ta.md" >}}) | 228 | 16870 | 1.4 | /mnt/stockage/packages/f30/wine/po/ta.po | 
- | [ml]({{< ref "/f30/language/ml.md" >}}) | 153 | 16870 | 0.9 | /mnt/stockage/packages/f30/wine/po/ml.po | 
- | [fa]({{< ref "/f30/language/fa.md" >}}) | 107 | 16870 | 0.6 | /mnt/stockage/packages/f30/wine/po/fa.po | 
- | [rm]({{< ref "/f30/language/rm.md" >}}) | 38 | 16870 | 0.2 | /mnt/stockage/packages/f30/wine/po/rm.po | 
- | [hi]({{< ref "/f30/language/hi.md" >}}) | 13 | 16870 | 0.1 | /mnt/stockage/packages/f30/wine/po/hi.po | 
- | [or]({{< ref "/f30/language/or.md" >}}) | 12 | 16870 | 0.1 | /mnt/stockage/packages/f30/wine/po/or.po | 
- | [pa]({{< ref "/f30/language/pa.md" >}}) | 12 | 16870 | 0.1 | /mnt/stockage/packages/f30/wine/po/pa.po | 
- | [te]({{< ref "/f30/language/te.md" >}}) | 12 | 16870 | 0.1 | /mnt/stockage/packages/f30/wine/po/te.po | 
+ | [ca](/f30/language/ca) | 16870 | 16870 | 100.0 | /mnt/stockage/packages/f30/wine/po/ca.po | 
+ | [en](/f30/language/en) | 16870 | 16870 | 100.0 | /mnt/stockage/packages/f30/wine/po/en.po | 
+ | [en_US](/f30/language/en_US) | 16870 | 16870 | 100.0 | /mnt/stockage/packages/f30/wine/po/en_US.po | 
+ | [fi](/f30/language/fi) | 16870 | 16870 | 100.0 | /mnt/stockage/packages/f30/wine/po/fi.po | 
+ | [lt](/f30/language/lt) | 16870 | 16870 | 100.0 | /mnt/stockage/packages/f30/wine/po/lt.po | 
+ | [tr](/f30/language/tr) | 16867 | 16870 | 100.0 | /mnt/stockage/packages/f30/wine/po/tr.po | 
+ | [de](/f30/language/de) | 16855 | 16870 | 99.9 | /mnt/stockage/packages/f30/wine/po/de.po | 
+ | [ko](/f30/language/ko) | 16853 | 16870 | 99.9 | /mnt/stockage/packages/f30/wine/po/ko.po | 
+ | [pt_BR](/f30/language/pt_BR) | 16853 | 16870 | 99.9 | /mnt/stockage/packages/f30/wine/po/pt_BR.po | 
+ | [zh_Hans](/f30/language/zh_Hans) | 16853 | 16870 | 99.9 | /mnt/stockage/packages/f30/wine/po/zh_CN.po | 
+ | [ja](/f30/language/ja) | 16852 | 16870 | 99.9 | /mnt/stockage/packages/f30/wine/po/ja.po | 
+ | [ru](/f30/language/ru) | 16148 | 16870 | 95.7 | /mnt/stockage/packages/f30/wine/po/ru.po | 
+ | [nb_NO](/f30/language/nb_NO) | 15856 | 16870 | 94.0 | /mnt/stockage/packages/f30/wine/po/nb_NO.po | 
+ | [pl](/f30/language/pl) | 15153 | 16870 | 89.8 | /mnt/stockage/packages/f30/wine/po/pl.po | 
+ | [sv](/f30/language/sv) | 14886 | 16870 | 88.2 | /mnt/stockage/packages/f30/wine/po/sv.po | 
+ | [pt_PT](/f30/language/pt_PT) | 14698 | 16870 | 87.1 | /mnt/stockage/packages/f30/wine/po/pt_PT.po | 
+ | [uk](/f30/language/uk) | 14424 | 16870 | 85.5 | /mnt/stockage/packages/f30/wine/po/uk.po | 
+ | [fr](/f30/language/fr) | 13968 | 16870 | 82.8 | /mnt/stockage/packages/f30/wine/po/fr.po | 
+ | [es](/f30/language/es) | 12686 | 16870 | 75.2 | /mnt/stockage/packages/f30/wine/po/es.po | 
+ | [it](/f30/language/it) | 12633 | 16870 | 74.9 | /mnt/stockage/packages/f30/wine/po/it.po | 
+ | [da](/f30/language/da) | 12608 | 16870 | 74.7 | /mnt/stockage/packages/f30/wine/po/da.po | 
+ | [hu](/f30/language/hu) | 12576 | 16870 | 74.5 | /mnt/stockage/packages/f30/wine/po/hu.po | 
+ | [sl](/f30/language/sl) | 12549 | 16870 | 74.4 | /mnt/stockage/packages/f30/wine/po/sl.po | 
+ | [nl](/f30/language/nl) | 12489 | 16870 | 74.0 | /mnt/stockage/packages/f30/wine/po/nl.po | 
+ | [zh_Hant](/f30/language/zh_Hant) | 12225 | 16870 | 72.5 | /mnt/stockage/packages/f30/wine/po/zh_TW.po | 
+ | [ar](/f30/language/ar) | 12177 | 16870 | 72.2 | /mnt/stockage/packages/f30/wine/po/ar.po | 
+ | [cs](/f30/language/cs) | 10819 | 16870 | 64.1 | /mnt/stockage/packages/f30/wine/po/cs.po | 
+ | [ro](/f30/language/ro) | 10785 | 16870 | 63.9 | /mnt/stockage/packages/f30/wine/po/ro.po | 
+ | [hr](/f30/language/hr) | 9084 | 16870 | 53.8 | /mnt/stockage/packages/f30/wine/po/hr.po | 
+ | [si](/f30/language/si) | 8198 | 16870 | 48.6 | /mnt/stockage/packages/f30/wine/po/si.po | 
+ | [he](/f30/language/he) | 4718 | 16870 | 28.0 | /mnt/stockage/packages/f30/wine/po/he.po | 
+ | [ast](/f30/language/ast) | 3636 | 16870 | 21.6 | /mnt/stockage/packages/f30/wine/po/ast.po | 
+ | [eo](/f30/language/eo) | 2560 | 16870 | 15.2 | /mnt/stockage/packages/f30/wine/po/eo.po | 
+ | [sr_Latn](/f30/language/sr_Latn) | 2363 | 16870 | 14.0 | /mnt/stockage/packages/f30/wine/po/sr_RS@latin.po | 
+ | [sr_Cyrl](/f30/language/sr_Cyrl) | 2189 | 16870 | 13.0 | /mnt/stockage/packages/f30/wine/po/sr_RS@cyrillic.po | 
+ | [sk](/f30/language/sk) | 2006 | 16870 | 11.9 | /mnt/stockage/packages/f30/wine/po/sk.po | 
+ | [bg](/f30/language/bg) | 1282 | 16870 | 7.6 | /mnt/stockage/packages/f30/wine/po/bg.po | 
+ | [th](/f30/language/th) | 418 | 16870 | 2.5 | /mnt/stockage/packages/f30/wine/po/th.po | 
+ | [el](/f30/language/el) | 302 | 16870 | 1.8 | /mnt/stockage/packages/f30/wine/po/el.po | 
+ | [wa](/f30/language/wa) | 242 | 16870 | 1.4 | /mnt/stockage/packages/f30/wine/po/wa.po | 
+ | [ta](/f30/language/ta) | 228 | 16870 | 1.4 | /mnt/stockage/packages/f30/wine/po/ta.po | 
+ | [ml](/f30/language/ml) | 153 | 16870 | 0.9 | /mnt/stockage/packages/f30/wine/po/ml.po | 
+ | [fa](/f30/language/fa) | 107 | 16870 | 0.6 | /mnt/stockage/packages/f30/wine/po/fa.po | 
+ | [rm](/f30/language/rm) | 38 | 16870 | 0.2 | /mnt/stockage/packages/f30/wine/po/rm.po | 
+ | [hi](/f30/language/hi) | 13 | 16870 | 0.1 | /mnt/stockage/packages/f30/wine/po/hi.po | 
+ | [or](/f30/language/or) | 12 | 16870 | 0.1 | /mnt/stockage/packages/f30/wine/po/or.po | 
+ | [pa](/f30/language/pa) | 12 | 16870 | 0.1 | /mnt/stockage/packages/f30/wine/po/pa.po | 
+ | [te](/f30/language/te) | 12 | 16870 | 0.1 | /mnt/stockage/packages/f30/wine/po/te.po | 
 {.sortable}
 
 

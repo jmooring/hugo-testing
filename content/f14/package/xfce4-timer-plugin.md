@@ -18,26 +18,26 @@ The package xfce4-timer-plugin (version 0.6.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f14/language/ca.md" >}}) | 94 | 94 | 100.0 | /mnt/stockage/packages/f14/xfce4-timer-plugin/po/ca.po | 
- | [cs]({{< ref "/f14/language/cs.md" >}}) | 94 | 94 | 100.0 | /mnt/stockage/packages/f14/xfce4-timer-plugin/po/cs.po | 
- | [da]({{< ref "/f14/language/da.md" >}}) | 94 | 94 | 100.0 | /mnt/stockage/packages/f14/xfce4-timer-plugin/po/da.po | 
- | [en_GB]({{< ref "/f14/language/en_GB.md" >}}) | 94 | 94 | 100.0 | /mnt/stockage/packages/f14/xfce4-timer-plugin/po/en_GB.po | 
- | [eu]({{< ref "/f14/language/eu.md" >}}) | 94 | 94 | 100.0 | /mnt/stockage/packages/f14/xfce4-timer-plugin/po/eu.po | 
- | [fr]({{< ref "/f14/language/fr.md" >}}) | 94 | 94 | 100.0 | /mnt/stockage/packages/f14/xfce4-timer-plugin/po/fr.po | 
- | [hu]({{< ref "/f14/language/hu.md" >}}) | 94 | 94 | 100.0 | /mnt/stockage/packages/f14/xfce4-timer-plugin/po/hu.po | 
- | [id]({{< ref "/f14/language/id.md" >}}) | 94 | 94 | 100.0 | /mnt/stockage/packages/f14/xfce4-timer-plugin/po/id.po | 
- | [ja]({{< ref "/f14/language/ja.md" >}}) | 94 | 94 | 100.0 | /mnt/stockage/packages/f14/xfce4-timer-plugin/po/ja.po | 
- | [lv]({{< ref "/f14/language/lv.md" >}}) | 94 | 94 | 100.0 | /mnt/stockage/packages/f14/xfce4-timer-plugin/po/lv.po | 
- | [pl]({{< ref "/f14/language/pl.md" >}}) | 94 | 94 | 100.0 | /mnt/stockage/packages/f14/xfce4-timer-plugin/po/pl.po | 
- | [pt_BR]({{< ref "/f14/language/pt_BR.md" >}}) | 94 | 94 | 100.0 | /mnt/stockage/packages/f14/xfce4-timer-plugin/po/pt_BR.po | 
- | [pt_PT]({{< ref "/f14/language/pt_PT.md" >}}) | 94 | 94 | 100.0 | /mnt/stockage/packages/f14/xfce4-timer-plugin/po/pt_PT.po | 
- | [sq]({{< ref "/f14/language/sq.md" >}}) | 94 | 94 | 100.0 | /mnt/stockage/packages/f14/xfce4-timer-plugin/po/sq.po | 
- | [tr]({{< ref "/f14/language/tr.md" >}}) | 94 | 94 | 100.0 | /mnt/stockage/packages/f14/xfce4-timer-plugin/po/tr.po | 
- | [uk]({{< ref "/f14/language/uk.md" >}}) | 94 | 94 | 100.0 | /mnt/stockage/packages/f14/xfce4-timer-plugin/po/uk.po | 
- | [ur]({{< ref "/f14/language/ur.md" >}}) | 94 | 94 | 100.0 | /mnt/stockage/packages/f14/xfce4-timer-plugin/po/ur.po | 
- | [ru]({{< ref "/f14/language/ru.md" >}}) | 81 | 94 | 86.2 | /mnt/stockage/packages/f14/xfce4-timer-plugin/po/ru.po | 
- | [gl]({{< ref "/f14/language/gl.md" >}}) | 38 | 94 | 40.4 | /mnt/stockage/packages/f14/xfce4-timer-plugin/po/gl.po | 
- | [ar]({{< ref "/f14/language/ar.md" >}}) | 0 | 94 | 0.0 | /mnt/stockage/packages/f14/xfce4-timer-plugin/po/ar.po | 
+ | [ca](/f14/language/ca) | 94 | 94 | 100.0 | /mnt/stockage/packages/f14/xfce4-timer-plugin/po/ca.po | 
+ | [cs](/f14/language/cs) | 94 | 94 | 100.0 | /mnt/stockage/packages/f14/xfce4-timer-plugin/po/cs.po | 
+ | [da](/f14/language/da) | 94 | 94 | 100.0 | /mnt/stockage/packages/f14/xfce4-timer-plugin/po/da.po | 
+ | [en_GB](/f14/language/en_GB) | 94 | 94 | 100.0 | /mnt/stockage/packages/f14/xfce4-timer-plugin/po/en_GB.po | 
+ | [eu](/f14/language/eu) | 94 | 94 | 100.0 | /mnt/stockage/packages/f14/xfce4-timer-plugin/po/eu.po | 
+ | [fr](/f14/language/fr) | 94 | 94 | 100.0 | /mnt/stockage/packages/f14/xfce4-timer-plugin/po/fr.po | 
+ | [hu](/f14/language/hu) | 94 | 94 | 100.0 | /mnt/stockage/packages/f14/xfce4-timer-plugin/po/hu.po | 
+ | [id](/f14/language/id) | 94 | 94 | 100.0 | /mnt/stockage/packages/f14/xfce4-timer-plugin/po/id.po | 
+ | [ja](/f14/language/ja) | 94 | 94 | 100.0 | /mnt/stockage/packages/f14/xfce4-timer-plugin/po/ja.po | 
+ | [lv](/f14/language/lv) | 94 | 94 | 100.0 | /mnt/stockage/packages/f14/xfce4-timer-plugin/po/lv.po | 
+ | [pl](/f14/language/pl) | 94 | 94 | 100.0 | /mnt/stockage/packages/f14/xfce4-timer-plugin/po/pl.po | 
+ | [pt_BR](/f14/language/pt_BR) | 94 | 94 | 100.0 | /mnt/stockage/packages/f14/xfce4-timer-plugin/po/pt_BR.po | 
+ | [pt_PT](/f14/language/pt_PT) | 94 | 94 | 100.0 | /mnt/stockage/packages/f14/xfce4-timer-plugin/po/pt_PT.po | 
+ | [sq](/f14/language/sq) | 94 | 94 | 100.0 | /mnt/stockage/packages/f14/xfce4-timer-plugin/po/sq.po | 
+ | [tr](/f14/language/tr) | 94 | 94 | 100.0 | /mnt/stockage/packages/f14/xfce4-timer-plugin/po/tr.po | 
+ | [uk](/f14/language/uk) | 94 | 94 | 100.0 | /mnt/stockage/packages/f14/xfce4-timer-plugin/po/uk.po | 
+ | [ur](/f14/language/ur) | 94 | 94 | 100.0 | /mnt/stockage/packages/f14/xfce4-timer-plugin/po/ur.po | 
+ | [ru](/f14/language/ru) | 81 | 94 | 86.2 | /mnt/stockage/packages/f14/xfce4-timer-plugin/po/ru.po | 
+ | [gl](/f14/language/gl) | 38 | 94 | 40.4 | /mnt/stockage/packages/f14/xfce4-timer-plugin/po/gl.po | 
+ | [ar](/f14/language/ar) | 0 | 94 | 0.0 | /mnt/stockage/packages/f14/xfce4-timer-plugin/po/ar.po | 
 {.sortable}
 
 

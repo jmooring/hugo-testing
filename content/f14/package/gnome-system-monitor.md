@@ -18,91 +18,91 @@ The package gnome-system-monitor (version 2.28.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [as]({{< ref "/f14/language/as.md" >}}) | 918 | 918 | 100.0 | /mnt/stockage/packages/f14/gnome-system-monitor/po/as.po | 
- | [az]({{< ref "/f14/language/az.md" >}}) | 502 | 502 | 100.0 | /mnt/stockage/packages/f14/gnome-system-monitor/po/az.po | 
- | [be]({{< ref "/f14/language/be.md" >}}) | 933 | 933 | 100.0 | /mnt/stockage/packages/f14/gnome-system-monitor/po/be.po | 
- | [bg]({{< ref "/f14/language/bg.md" >}}) | 4022 | 4022 | 100.0 | /mnt/stockage/packages/f14/gnome-system-monitor/help/bg/bg.po/mnt/stockage/packages/f14/gnome-system-monitor/po/bg.po | 
- | [bn]({{< ref "/f14/language/bn.md" >}}) | 933 | 933 | 100.0 | /mnt/stockage/packages/f14/gnome-system-monitor/po/bn.po | 
- | [bn_IN]({{< ref "/f14/language/bn_IN.md" >}}) | 933 | 933 | 100.0 | /mnt/stockage/packages/f14/gnome-system-monitor/po/bn_IN.po | 
- | [bs]({{< ref "/f14/language/bs.md" >}}) | 502 | 502 | 100.0 | /mnt/stockage/packages/f14/gnome-system-monitor/po/bs.po | 
- | [ca]({{< ref "/f14/language/ca.md" >}}) | 3774 | 3774 | 100.0 | /mnt/stockage/packages/f14/gnome-system-monitor/help/ca/ca.po/mnt/stockage/packages/f14/gnome-system-monitor/po/ca.po | 
- | [ca@valencia]({{< ref "/f14/language/ca@valencia.md" >}}) | 933 | 933 | 100.0 | /mnt/stockage/packages/f14/gnome-system-monitor/po/ca@valencia.po | 
- | [cs]({{< ref "/f14/language/cs.md" >}}) | 3817 | 3817 | 100.0 | /mnt/stockage/packages/f14/gnome-system-monitor/help/cs/cs.po/mnt/stockage/packages/f14/gnome-system-monitor/po/cs.po | 
- | [cy]({{< ref "/f14/language/cy.md" >}}) | 645 | 645 | 100.0 | /mnt/stockage/packages/f14/gnome-system-monitor/po/cy.po | 
- | [da]({{< ref "/f14/language/da.md" >}}) | 3817 | 3817 | 100.0 | /mnt/stockage/packages/f14/gnome-system-monitor/help/da/da.po/mnt/stockage/packages/f14/gnome-system-monitor/po/da.po | 
- | [de]({{< ref "/f14/language/de.md" >}}) | 3817 | 3817 | 100.0 | /mnt/stockage/packages/f14/gnome-system-monitor/help/de/de.po/mnt/stockage/packages/f14/gnome-system-monitor/po/de.po | 
- | [dz]({{< ref "/f14/language/dz.md" >}}) | 868 | 868 | 100.0 | /mnt/stockage/packages/f14/gnome-system-monitor/po/dz.po | 
- | [el]({{< ref "/f14/language/el.md" >}}) | 3817 | 3817 | 100.0 | /mnt/stockage/packages/f14/gnome-system-monitor/help/el/el.po/mnt/stockage/packages/f14/gnome-system-monitor/po/el.po | 
- | [en_CA]({{< ref "/f14/language/en_CA.md" >}}) | 645 | 645 | 100.0 | /mnt/stockage/packages/f14/gnome-system-monitor/po/en_CA.po | 
- | [en_GB]({{< ref "/f14/language/en_GB.md" >}}) | 933 | 933 | 100.0 | /mnt/stockage/packages/f14/gnome-system-monitor/po/en_GB.po | 
- | [es]({{< ref "/f14/language/es.md" >}}) | 3817 | 3817 | 100.0 | /mnt/stockage/packages/f14/gnome-system-monitor/help/es/es.po/mnt/stockage/packages/f14/gnome-system-monitor/po/es.po | 
- | [et]({{< ref "/f14/language/et.md" >}}) | 933 | 933 | 100.0 | /mnt/stockage/packages/f14/gnome-system-monitor/po/et.po | 
- | [eu]({{< ref "/f14/language/eu.md" >}}) | 933 | 933 | 100.0 | /mnt/stockage/packages/f14/gnome-system-monitor/po/eu.po | 
- | [fi]({{< ref "/f14/language/fi.md" >}}) | 933 | 933 | 100.0 | /mnt/stockage/packages/f14/gnome-system-monitor/po/fi.po | 
- | [fr]({{< ref "/f14/language/fr.md" >}}) | 3817 | 3817 | 100.0 | /mnt/stockage/packages/f14/gnome-system-monitor/help/fr/fr.po/mnt/stockage/packages/f14/gnome-system-monitor/po/fr.po | 
- | [gl]({{< ref "/f14/language/gl.md" >}}) | 933 | 933 | 100.0 | /mnt/stockage/packages/f14/gnome-system-monitor/po/gl.po | 
- | [gu]({{< ref "/f14/language/gu.md" >}}) | 933 | 933 | 100.0 | /mnt/stockage/packages/f14/gnome-system-monitor/po/gu.po | 
- | [he]({{< ref "/f14/language/he.md" >}}) | 933 | 933 | 100.0 | /mnt/stockage/packages/f14/gnome-system-monitor/po/he.po | 
- | [hi]({{< ref "/f14/language/hi.md" >}}) | 933 | 933 | 100.0 | /mnt/stockage/packages/f14/gnome-system-monitor/po/hi.po | 
- | [hu]({{< ref "/f14/language/hu.md" >}}) | 933 | 933 | 100.0 | /mnt/stockage/packages/f14/gnome-system-monitor/po/hu.po | 
- | [id]({{< ref "/f14/language/id.md" >}}) | 933 | 933 | 100.0 | /mnt/stockage/packages/f14/gnome-system-monitor/po/id.po | 
- | [it]({{< ref "/f14/language/it.md" >}}) | 933 | 933 | 100.0 | /mnt/stockage/packages/f14/gnome-system-monitor/po/it.po | 
- | [ja]({{< ref "/f14/language/ja.md" >}}) | 933 | 933 | 100.0 | /mnt/stockage/packages/f14/gnome-system-monitor/po/ja.po | 
- | [ka]({{< ref "/f14/language/ka.md" >}}) | 839 | 839 | 100.0 | /mnt/stockage/packages/f14/gnome-system-monitor/po/ka.po | 
- | [kn]({{< ref "/f14/language/kn.md" >}}) | 933 | 933 | 100.0 | /mnt/stockage/packages/f14/gnome-system-monitor/po/kn.po | 
- | [ko]({{< ref "/f14/language/ko.md" >}}) | 933 | 933 | 100.0 | /mnt/stockage/packages/f14/gnome-system-monitor/po/ko.po | 
- | [lt]({{< ref "/f14/language/lt.md" >}}) | 933 | 933 | 100.0 | /mnt/stockage/packages/f14/gnome-system-monitor/po/lt.po | 
- | [lv]({{< ref "/f14/language/lv.md" >}}) | 933 | 933 | 100.0 | /mnt/stockage/packages/f14/gnome-system-monitor/po/lv.po | 
- | [mk]({{< ref "/f14/language/mk.md" >}}) | 913 | 913 | 100.0 | /mnt/stockage/packages/f14/gnome-system-monitor/po/mk.po | 
- | [ml]({{< ref "/f14/language/ml.md" >}}) | 933 | 933 | 100.0 | /mnt/stockage/packages/f14/gnome-system-monitor/po/ml.po | 
- | [mn]({{< ref "/f14/language/mn.md" >}}) | 498 | 498 | 100.0 | /mnt/stockage/packages/f14/gnome-system-monitor/po/mn.po | 
- | [mr]({{< ref "/f14/language/mr.md" >}}) | 933 | 933 | 100.0 | /mnt/stockage/packages/f14/gnome-system-monitor/po/mr.po | 
- | [ms]({{< ref "/f14/language/ms.md" >}}) | 502 | 502 | 100.0 | /mnt/stockage/packages/f14/gnome-system-monitor/po/ms.po | 
- | [nb_NO]({{< ref "/f14/language/nb_NO.md" >}}) | 933 | 933 | 100.0 | /mnt/stockage/packages/f14/gnome-system-monitor/po/nb.po | 
- | [ne]({{< ref "/f14/language/ne.md" >}}) | 839 | 839 | 100.0 | /mnt/stockage/packages/f14/gnome-system-monitor/po/ne.po | 
- | [nl]({{< ref "/f14/language/nl.md" >}}) | 933 | 933 | 100.0 | /mnt/stockage/packages/f14/gnome-system-monitor/po/nl.po | 
- | [nn]({{< ref "/f14/language/nn.md" >}}) | 874 | 874 | 100.0 | /mnt/stockage/packages/f14/gnome-system-monitor/po/nn.po | 
- | [or]({{< ref "/f14/language/or.md" >}}) | 933 | 933 | 100.0 | /mnt/stockage/packages/f14/gnome-system-monitor/po/or.po | 
- | [pl]({{< ref "/f14/language/pl.md" >}}) | 933 | 933 | 100.0 | /mnt/stockage/packages/f14/gnome-system-monitor/po/pl.po | 
- | [pt]({{< ref "/f14/language/pt.md" >}}) | 933 | 933 | 100.0 | /mnt/stockage/packages/f14/gnome-system-monitor/po/pt.po | 
- | [pt_BR]({{< ref "/f14/language/pt_BR.md" >}}) | 933 | 933 | 100.0 | /mnt/stockage/packages/f14/gnome-system-monitor/po/pt_BR.po | 
- | [ro]({{< ref "/f14/language/ro.md" >}}) | 933 | 933 | 100.0 | /mnt/stockage/packages/f14/gnome-system-monitor/po/ro.po | 
- | [ru]({{< ref "/f14/language/ru.md" >}}) | 933 | 933 | 100.0 | /mnt/stockage/packages/f14/gnome-system-monitor/po/ru.po | 
- | [sl]({{< ref "/f14/language/sl.md" >}}) | 933 | 933 | 100.0 | /mnt/stockage/packages/f14/gnome-system-monitor/po/sl.po | 
- | [sq]({{< ref "/f14/language/sq.md" >}}) | 645 | 645 | 100.0 | /mnt/stockage/packages/f14/gnome-system-monitor/po/sq.po | 
- | [sr]({{< ref "/f14/language/sr.md" >}}) | 933 | 933 | 100.0 | /mnt/stockage/packages/f14/gnome-system-monitor/po/sr.po | 
- | [sr_Latn]({{< ref "/f14/language/sr_Latn.md" >}}) | 933 | 933 | 100.0 | /mnt/stockage/packages/f14/gnome-system-monitor/po/sr@latin.po | 
- | [sv]({{< ref "/f14/language/sv.md" >}}) | 3774 | 3774 | 100.0 | /mnt/stockage/packages/f14/gnome-system-monitor/help/sv/sv.po/mnt/stockage/packages/f14/gnome-system-monitor/po/sv.po | 
- | [ta]({{< ref "/f14/language/ta.md" >}}) | 933 | 933 | 100.0 | /mnt/stockage/packages/f14/gnome-system-monitor/po/ta.po | 
- | [te]({{< ref "/f14/language/te.md" >}}) | 933 | 933 | 100.0 | /mnt/stockage/packages/f14/gnome-system-monitor/po/te.po | 
- | [th]({{< ref "/f14/language/th.md" >}}) | 933 | 933 | 100.0 | /mnt/stockage/packages/f14/gnome-system-monitor/po/th.po | 
- | [tr]({{< ref "/f14/language/tr.md" >}}) | 933 | 933 | 100.0 | /mnt/stockage/packages/f14/gnome-system-monitor/po/tr.po | 
- | [ug]({{< ref "/f14/language/ug.md" >}}) | 933 | 933 | 100.0 | /mnt/stockage/packages/f14/gnome-system-monitor/po/ug.po | 
- | [uk]({{< ref "/f14/language/uk.md" >}}) | 933 | 933 | 100.0 | /mnt/stockage/packages/f14/gnome-system-monitor/po/uk.po | 
- | [vi]({{< ref "/f14/language/vi.md" >}}) | 918 | 918 | 100.0 | /mnt/stockage/packages/f14/gnome-system-monitor/po/vi.po | 
- | [zh_Hans]({{< ref "/f14/language/zh_Hans.md" >}}) | 3817 | 3817 | 100.0 | /mnt/stockage/packages/f14/gnome-system-monitor/help/zh_CN/zh_CN.po/mnt/stockage/packages/f14/gnome-system-monitor/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f14/language/zh_Hant.md" >}}) | 933 | 933 | 100.0 | /mnt/stockage/packages/f14/gnome-system-monitor/po/zh_TW.po | 
- | [zh_Hant_HK]({{< ref "/f14/language/zh_Hant_HK.md" >}}) | 933 | 933 | 100.0 | /mnt/stockage/packages/f14/gnome-system-monitor/po/zh_HK.po | 
- | [mg]({{< ref "/f14/language/mg.md" >}}) | 845 | 846 | 99.9 | /mnt/stockage/packages/f14/gnome-system-monitor/po/mg.po | 
- | [ast]({{< ref "/f14/language/ast.md" >}}) | 913 | 918 | 99.5 | /mnt/stockage/packages/f14/gnome-system-monitor/po/ast.po | 
- | [sk]({{< ref "/f14/language/sk.md" >}}) | 926 | 933 | 99.2 | /mnt/stockage/packages/f14/gnome-system-monitor/po/sk.po | 
- | [ar]({{< ref "/f14/language/ar.md" >}}) | 3400 | 3774 | 90.1 | /mnt/stockage/packages/f14/gnome-system-monitor/help/ar/ar.po/mnt/stockage/packages/f14/gnome-system-monitor/po/ar.po | 
- | [error]({{< ref "/f14/language/error.md" >}}) | 727 | 933 | 77.9 | /mnt/stockage/packages/f14/gnome-system-monitor/po/en@shaw.po | 
- | [li]({{< ref "/f14/language/li.md" >}}) | 388 | 502 | 77.3 | /mnt/stockage/packages/f14/gnome-system-monitor/po/li.po | 
- | [mai]({{< ref "/f14/language/mai.md" >}}) | 577 | 933 | 61.8 | /mnt/stockage/packages/f14/gnome-system-monitor/po/mai.po | 
- | [be_Latn]({{< ref "/f14/language/be_Latn.md" >}}) | 545 | 913 | 59.7 | /mnt/stockage/packages/f14/gnome-system-monitor/po/be@latin.po | 
- | [ps]({{< ref "/f14/language/ps.md" >}}) | 479 | 868 | 55.2 | /mnt/stockage/packages/f14/gnome-system-monitor/po/ps.po | 
- | [hr]({{< ref "/f14/language/hr.md" >}}) | 471 | 913 | 51.6 | /mnt/stockage/packages/f14/gnome-system-monitor/po/hr.po | 
- | [pa]({{< ref "/f14/language/pa.md" >}}) | 1834 | 3774 | 48.6 | /mnt/stockage/packages/f14/gnome-system-monitor/help/pa/pa.po/mnt/stockage/packages/f14/gnome-system-monitor/po/pa.po | 
- | [eo]({{< ref "/f14/language/eo.md" >}}) | 409 | 933 | 43.8 | /mnt/stockage/packages/f14/gnome-system-monitor/po/eo.po | 
- | [si]({{< ref "/f14/language/si.md" >}}) | 258 | 839 | 30.8 | /mnt/stockage/packages/f14/gnome-system-monitor/po/si.po | 
- | [ku]({{< ref "/f14/language/ku.md" >}}) | 154 | 645 | 23.9 | /mnt/stockage/packages/f14/gnome-system-monitor/po/ku.po | 
- | [fa]({{< ref "/f14/language/fa.md" >}}) | 75 | 502 | 14.9 | /mnt/stockage/packages/f14/gnome-system-monitor/po/fa.po | 
- | [am]({{< ref "/f14/language/am.md" >}}) | 74 | 502 | 14.7 | /mnt/stockage/packages/f14/gnome-system-monitor/po/am.po | 
- | [ga]({{< ref "/f14/language/ga.md" >}}) | 118 | 868 | 13.6 | /mnt/stockage/packages/f14/gnome-system-monitor/po/ga.po | 
- | [nds]({{< ref "/f14/language/nds.md" >}}) | 97 | 933 | 10.4 | /mnt/stockage/packages/f14/gnome-system-monitor/po/nds.po | 
- | [oc]({{< ref "/f14/language/oc.md" >}}) | 187 | 3754 | 5.0 | /mnt/stockage/packages/f14/gnome-system-monitor/help/oc/oc.po/mnt/stockage/packages/f14/gnome-system-monitor/po/oc.po | 
- | [rw]({{< ref "/f14/language/rw.md" >}}) | 22 | 610 | 3.6 | /mnt/stockage/packages/f14/gnome-system-monitor/po/rw.po | 
+ | [as](/f14/language/as) | 918 | 918 | 100.0 | /mnt/stockage/packages/f14/gnome-system-monitor/po/as.po | 
+ | [az](/f14/language/az) | 502 | 502 | 100.0 | /mnt/stockage/packages/f14/gnome-system-monitor/po/az.po | 
+ | [be](/f14/language/be) | 933 | 933 | 100.0 | /mnt/stockage/packages/f14/gnome-system-monitor/po/be.po | 
+ | [bg](/f14/language/bg) | 4022 | 4022 | 100.0 | /mnt/stockage/packages/f14/gnome-system-monitor/help/bg/bg.po/mnt/stockage/packages/f14/gnome-system-monitor/po/bg.po | 
+ | [bn](/f14/language/bn) | 933 | 933 | 100.0 | /mnt/stockage/packages/f14/gnome-system-monitor/po/bn.po | 
+ | [bn_IN](/f14/language/bn_IN) | 933 | 933 | 100.0 | /mnt/stockage/packages/f14/gnome-system-monitor/po/bn_IN.po | 
+ | [bs](/f14/language/bs) | 502 | 502 | 100.0 | /mnt/stockage/packages/f14/gnome-system-monitor/po/bs.po | 
+ | [ca](/f14/language/ca) | 3774 | 3774 | 100.0 | /mnt/stockage/packages/f14/gnome-system-monitor/help/ca/ca.po/mnt/stockage/packages/f14/gnome-system-monitor/po/ca.po | 
+ | [ca@valencia](/f14/language/ca@valencia) | 933 | 933 | 100.0 | /mnt/stockage/packages/f14/gnome-system-monitor/po/ca@valencia.po | 
+ | [cs](/f14/language/cs) | 3817 | 3817 | 100.0 | /mnt/stockage/packages/f14/gnome-system-monitor/help/cs/cs.po/mnt/stockage/packages/f14/gnome-system-monitor/po/cs.po | 
+ | [cy](/f14/language/cy) | 645 | 645 | 100.0 | /mnt/stockage/packages/f14/gnome-system-monitor/po/cy.po | 
+ | [da](/f14/language/da) | 3817 | 3817 | 100.0 | /mnt/stockage/packages/f14/gnome-system-monitor/help/da/da.po/mnt/stockage/packages/f14/gnome-system-monitor/po/da.po | 
+ | [de](/f14/language/de) | 3817 | 3817 | 100.0 | /mnt/stockage/packages/f14/gnome-system-monitor/help/de/de.po/mnt/stockage/packages/f14/gnome-system-monitor/po/de.po | 
+ | [dz](/f14/language/dz) | 868 | 868 | 100.0 | /mnt/stockage/packages/f14/gnome-system-monitor/po/dz.po | 
+ | [el](/f14/language/el) | 3817 | 3817 | 100.0 | /mnt/stockage/packages/f14/gnome-system-monitor/help/el/el.po/mnt/stockage/packages/f14/gnome-system-monitor/po/el.po | 
+ | [en_CA](/f14/language/en_CA) | 645 | 645 | 100.0 | /mnt/stockage/packages/f14/gnome-system-monitor/po/en_CA.po | 
+ | [en_GB](/f14/language/en_GB) | 933 | 933 | 100.0 | /mnt/stockage/packages/f14/gnome-system-monitor/po/en_GB.po | 
+ | [es](/f14/language/es) | 3817 | 3817 | 100.0 | /mnt/stockage/packages/f14/gnome-system-monitor/help/es/es.po/mnt/stockage/packages/f14/gnome-system-monitor/po/es.po | 
+ | [et](/f14/language/et) | 933 | 933 | 100.0 | /mnt/stockage/packages/f14/gnome-system-monitor/po/et.po | 
+ | [eu](/f14/language/eu) | 933 | 933 | 100.0 | /mnt/stockage/packages/f14/gnome-system-monitor/po/eu.po | 
+ | [fi](/f14/language/fi) | 933 | 933 | 100.0 | /mnt/stockage/packages/f14/gnome-system-monitor/po/fi.po | 
+ | [fr](/f14/language/fr) | 3817 | 3817 | 100.0 | /mnt/stockage/packages/f14/gnome-system-monitor/help/fr/fr.po/mnt/stockage/packages/f14/gnome-system-monitor/po/fr.po | 
+ | [gl](/f14/language/gl) | 933 | 933 | 100.0 | /mnt/stockage/packages/f14/gnome-system-monitor/po/gl.po | 
+ | [gu](/f14/language/gu) | 933 | 933 | 100.0 | /mnt/stockage/packages/f14/gnome-system-monitor/po/gu.po | 
+ | [he](/f14/language/he) | 933 | 933 | 100.0 | /mnt/stockage/packages/f14/gnome-system-monitor/po/he.po | 
+ | [hi](/f14/language/hi) | 933 | 933 | 100.0 | /mnt/stockage/packages/f14/gnome-system-monitor/po/hi.po | 
+ | [hu](/f14/language/hu) | 933 | 933 | 100.0 | /mnt/stockage/packages/f14/gnome-system-monitor/po/hu.po | 
+ | [id](/f14/language/id) | 933 | 933 | 100.0 | /mnt/stockage/packages/f14/gnome-system-monitor/po/id.po | 
+ | [it](/f14/language/it) | 933 | 933 | 100.0 | /mnt/stockage/packages/f14/gnome-system-monitor/po/it.po | 
+ | [ja](/f14/language/ja) | 933 | 933 | 100.0 | /mnt/stockage/packages/f14/gnome-system-monitor/po/ja.po | 
+ | [ka](/f14/language/ka) | 839 | 839 | 100.0 | /mnt/stockage/packages/f14/gnome-system-monitor/po/ka.po | 
+ | [kn](/f14/language/kn) | 933 | 933 | 100.0 | /mnt/stockage/packages/f14/gnome-system-monitor/po/kn.po | 
+ | [ko](/f14/language/ko) | 933 | 933 | 100.0 | /mnt/stockage/packages/f14/gnome-system-monitor/po/ko.po | 
+ | [lt](/f14/language/lt) | 933 | 933 | 100.0 | /mnt/stockage/packages/f14/gnome-system-monitor/po/lt.po | 
+ | [lv](/f14/language/lv) | 933 | 933 | 100.0 | /mnt/stockage/packages/f14/gnome-system-monitor/po/lv.po | 
+ | [mk](/f14/language/mk) | 913 | 913 | 100.0 | /mnt/stockage/packages/f14/gnome-system-monitor/po/mk.po | 
+ | [ml](/f14/language/ml) | 933 | 933 | 100.0 | /mnt/stockage/packages/f14/gnome-system-monitor/po/ml.po | 
+ | [mn](/f14/language/mn) | 498 | 498 | 100.0 | /mnt/stockage/packages/f14/gnome-system-monitor/po/mn.po | 
+ | [mr](/f14/language/mr) | 933 | 933 | 100.0 | /mnt/stockage/packages/f14/gnome-system-monitor/po/mr.po | 
+ | [ms](/f14/language/ms) | 502 | 502 | 100.0 | /mnt/stockage/packages/f14/gnome-system-monitor/po/ms.po | 
+ | [nb_NO](/f14/language/nb_NO) | 933 | 933 | 100.0 | /mnt/stockage/packages/f14/gnome-system-monitor/po/nb.po | 
+ | [ne](/f14/language/ne) | 839 | 839 | 100.0 | /mnt/stockage/packages/f14/gnome-system-monitor/po/ne.po | 
+ | [nl](/f14/language/nl) | 933 | 933 | 100.0 | /mnt/stockage/packages/f14/gnome-system-monitor/po/nl.po | 
+ | [nn](/f14/language/nn) | 874 | 874 | 100.0 | /mnt/stockage/packages/f14/gnome-system-monitor/po/nn.po | 
+ | [or](/f14/language/or) | 933 | 933 | 100.0 | /mnt/stockage/packages/f14/gnome-system-monitor/po/or.po | 
+ | [pl](/f14/language/pl) | 933 | 933 | 100.0 | /mnt/stockage/packages/f14/gnome-system-monitor/po/pl.po | 
+ | [pt](/f14/language/pt) | 933 | 933 | 100.0 | /mnt/stockage/packages/f14/gnome-system-monitor/po/pt.po | 
+ | [pt_BR](/f14/language/pt_BR) | 933 | 933 | 100.0 | /mnt/stockage/packages/f14/gnome-system-monitor/po/pt_BR.po | 
+ | [ro](/f14/language/ro) | 933 | 933 | 100.0 | /mnt/stockage/packages/f14/gnome-system-monitor/po/ro.po | 
+ | [ru](/f14/language/ru) | 933 | 933 | 100.0 | /mnt/stockage/packages/f14/gnome-system-monitor/po/ru.po | 
+ | [sl](/f14/language/sl) | 933 | 933 | 100.0 | /mnt/stockage/packages/f14/gnome-system-monitor/po/sl.po | 
+ | [sq](/f14/language/sq) | 645 | 645 | 100.0 | /mnt/stockage/packages/f14/gnome-system-monitor/po/sq.po | 
+ | [sr](/f14/language/sr) | 933 | 933 | 100.0 | /mnt/stockage/packages/f14/gnome-system-monitor/po/sr.po | 
+ | [sr_Latn](/f14/language/sr_Latn) | 933 | 933 | 100.0 | /mnt/stockage/packages/f14/gnome-system-monitor/po/sr@latin.po | 
+ | [sv](/f14/language/sv) | 3774 | 3774 | 100.0 | /mnt/stockage/packages/f14/gnome-system-monitor/help/sv/sv.po/mnt/stockage/packages/f14/gnome-system-monitor/po/sv.po | 
+ | [ta](/f14/language/ta) | 933 | 933 | 100.0 | /mnt/stockage/packages/f14/gnome-system-monitor/po/ta.po | 
+ | [te](/f14/language/te) | 933 | 933 | 100.0 | /mnt/stockage/packages/f14/gnome-system-monitor/po/te.po | 
+ | [th](/f14/language/th) | 933 | 933 | 100.0 | /mnt/stockage/packages/f14/gnome-system-monitor/po/th.po | 
+ | [tr](/f14/language/tr) | 933 | 933 | 100.0 | /mnt/stockage/packages/f14/gnome-system-monitor/po/tr.po | 
+ | [ug](/f14/language/ug) | 933 | 933 | 100.0 | /mnt/stockage/packages/f14/gnome-system-monitor/po/ug.po | 
+ | [uk](/f14/language/uk) | 933 | 933 | 100.0 | /mnt/stockage/packages/f14/gnome-system-monitor/po/uk.po | 
+ | [vi](/f14/language/vi) | 918 | 918 | 100.0 | /mnt/stockage/packages/f14/gnome-system-monitor/po/vi.po | 
+ | [zh_Hans](/f14/language/zh_Hans) | 3817 | 3817 | 100.0 | /mnt/stockage/packages/f14/gnome-system-monitor/help/zh_CN/zh_CN.po/mnt/stockage/packages/f14/gnome-system-monitor/po/zh_CN.po | 
+ | [zh_Hant](/f14/language/zh_Hant) | 933 | 933 | 100.0 | /mnt/stockage/packages/f14/gnome-system-monitor/po/zh_TW.po | 
+ | [zh_Hant_HK](/f14/language/zh_Hant_HK) | 933 | 933 | 100.0 | /mnt/stockage/packages/f14/gnome-system-monitor/po/zh_HK.po | 
+ | [mg](/f14/language/mg) | 845 | 846 | 99.9 | /mnt/stockage/packages/f14/gnome-system-monitor/po/mg.po | 
+ | [ast](/f14/language/ast) | 913 | 918 | 99.5 | /mnt/stockage/packages/f14/gnome-system-monitor/po/ast.po | 
+ | [sk](/f14/language/sk) | 926 | 933 | 99.2 | /mnt/stockage/packages/f14/gnome-system-monitor/po/sk.po | 
+ | [ar](/f14/language/ar) | 3400 | 3774 | 90.1 | /mnt/stockage/packages/f14/gnome-system-monitor/help/ar/ar.po/mnt/stockage/packages/f14/gnome-system-monitor/po/ar.po | 
+ | [error](/f14/language/error) | 727 | 933 | 77.9 | /mnt/stockage/packages/f14/gnome-system-monitor/po/en@shaw.po | 
+ | [li](/f14/language/li) | 388 | 502 | 77.3 | /mnt/stockage/packages/f14/gnome-system-monitor/po/li.po | 
+ | [mai](/f14/language/mai) | 577 | 933 | 61.8 | /mnt/stockage/packages/f14/gnome-system-monitor/po/mai.po | 
+ | [be_Latn](/f14/language/be_Latn) | 545 | 913 | 59.7 | /mnt/stockage/packages/f14/gnome-system-monitor/po/be@latin.po | 
+ | [ps](/f14/language/ps) | 479 | 868 | 55.2 | /mnt/stockage/packages/f14/gnome-system-monitor/po/ps.po | 
+ | [hr](/f14/language/hr) | 471 | 913 | 51.6 | /mnt/stockage/packages/f14/gnome-system-monitor/po/hr.po | 
+ | [pa](/f14/language/pa) | 1834 | 3774 | 48.6 | /mnt/stockage/packages/f14/gnome-system-monitor/help/pa/pa.po/mnt/stockage/packages/f14/gnome-system-monitor/po/pa.po | 
+ | [eo](/f14/language/eo) | 409 | 933 | 43.8 | /mnt/stockage/packages/f14/gnome-system-monitor/po/eo.po | 
+ | [si](/f14/language/si) | 258 | 839 | 30.8 | /mnt/stockage/packages/f14/gnome-system-monitor/po/si.po | 
+ | [ku](/f14/language/ku) | 154 | 645 | 23.9 | /mnt/stockage/packages/f14/gnome-system-monitor/po/ku.po | 
+ | [fa](/f14/language/fa) | 75 | 502 | 14.9 | /mnt/stockage/packages/f14/gnome-system-monitor/po/fa.po | 
+ | [am](/f14/language/am) | 74 | 502 | 14.7 | /mnt/stockage/packages/f14/gnome-system-monitor/po/am.po | 
+ | [ga](/f14/language/ga) | 118 | 868 | 13.6 | /mnt/stockage/packages/f14/gnome-system-monitor/po/ga.po | 
+ | [nds](/f14/language/nds) | 97 | 933 | 10.4 | /mnt/stockage/packages/f14/gnome-system-monitor/po/nds.po | 
+ | [oc](/f14/language/oc) | 187 | 3754 | 5.0 | /mnt/stockage/packages/f14/gnome-system-monitor/help/oc/oc.po/mnt/stockage/packages/f14/gnome-system-monitor/po/oc.po | 
+ | [rw](/f14/language/rw) | 22 | 610 | 3.6 | /mnt/stockage/packages/f14/gnome-system-monitor/po/rw.po | 
 {.sortable}
 
 

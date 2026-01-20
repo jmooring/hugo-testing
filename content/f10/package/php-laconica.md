@@ -18,8 +18,8 @@ The package php-laconica (version 0.5.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f10/language/fr.md" >}}) | 1692 | 1692 | 100.0 | /mnt/stockage/packages/f10/php-laconica/locale/fr_FR/LC_MESSAGES/laconica.po | 
- | [en_NZ]({{< ref "/f10/language/en_NZ.md" >}}) | 54 | 1692 | 3.2 | /mnt/stockage/packages/f10/php-laconica/locale/en_NZ/LC_MESSAGES/laconica.po | 
+ | [fr](/f10/language/fr) | 1692 | 1692 | 100.0 | /mnt/stockage/packages/f10/php-laconica/locale/fr_FR/LC_MESSAGES/laconica.po | 
+ | [en_NZ](/f10/language/en_NZ) | 54 | 1692 | 3.2 | /mnt/stockage/packages/f10/php-laconica/locale/en_NZ/LC_MESSAGES/laconica.po | 
 {.sortable}
 
 

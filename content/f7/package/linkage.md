@@ -18,7 +18,7 @@ The package linkage (version 0.1.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [sv]({{< ref "/f7/language/sv.md" >}}) | 688 | 703 | 97.9 | /mnt/stockage/packages/f7/linkage/po/sv.po | 
+ | [sv](/f7/language/sv) | 688 | 703 | 97.9 | /mnt/stockage/packages/f7/linkage/po/sv.po | 
 {.sortable}
 
 

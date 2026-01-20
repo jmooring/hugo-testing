@@ -18,7 +18,7 @@ The package awf-gtk2 (version 2.6.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f35/language/fr.md" >}}) | 140 | 140 | 100.0 | /mnt/stockage/packages/f35/awf-gtk2/src/po/fr.po | 
+ | [fr](/f35/language/fr) | 140 | 140 | 100.0 | /mnt/stockage/packages/f35/awf-gtk2/src/po/fr.po | 
 {.sortable}
 
 

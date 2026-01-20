@@ -18,19 +18,19 @@ The package trustedqsl (version 2.5.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f31/language/ca.md" >}}) | 4275 | 4275 | 100.0 | /mnt/stockage/packages/f31/trustedqsl/apps/lang/ca_ES/tqslapp.po | 
- | [de]({{< ref "/f31/language/de.md" >}}) | 4275 | 4275 | 100.0 | /mnt/stockage/packages/f31/trustedqsl/apps/lang/de/tqslapp.po | 
- | [es]({{< ref "/f31/language/es.md" >}}) | 4275 | 4275 | 100.0 | /mnt/stockage/packages/f31/trustedqsl/apps/lang/es/tqslapp.po | 
- | [it]({{< ref "/f31/language/it.md" >}}) | 4275 | 4275 | 100.0 | /mnt/stockage/packages/f31/trustedqsl/apps/lang/it/tqslapp.po | 
- | [pl]({{< ref "/f31/language/pl.md" >}}) | 4275 | 4275 | 100.0 | /mnt/stockage/packages/f31/trustedqsl/apps/lang/pl_PL/tqslapp.po | 
- | [pt]({{< ref "/f31/language/pt.md" >}}) | 4275 | 4275 | 100.0 | /mnt/stockage/packages/f31/trustedqsl/apps/lang/pt/tqslapp.po | 
- | [ru]({{< ref "/f31/language/ru.md" >}}) | 4275 | 4275 | 100.0 | /mnt/stockage/packages/f31/trustedqsl/apps/lang/ru/tqslapp.po | 
- | [tr]({{< ref "/f31/language/tr.md" >}}) | 4275 | 4275 | 100.0 | /mnt/stockage/packages/f31/trustedqsl/apps/lang/tr_TR/tqslapp.po | 
- | [zh_Hans]({{< ref "/f31/language/zh_Hans.md" >}}) | 4275 | 4275 | 100.0 | /mnt/stockage/packages/f31/trustedqsl/apps/lang/zh/tqslapp.po | 
- | [fi]({{< ref "/f31/language/fi.md" >}}) | 4272 | 4275 | 99.9 | /mnt/stockage/packages/f31/trustedqsl/apps/lang/fi/tqslapp.po | 
- | [fr]({{< ref "/f31/language/fr.md" >}}) | 4269 | 4275 | 99.9 | /mnt/stockage/packages/f31/trustedqsl/apps/lang/fr/tqslapp.po | 
- | [ja]({{< ref "/f31/language/ja.md" >}}) | 4257 | 4275 | 99.6 | /mnt/stockage/packages/f31/trustedqsl/apps/lang/ja/tqslapp.po | 
- | [hi]({{< ref "/f31/language/hi.md" >}}) | 8772 | 11970 | 73.3 | /mnt/stockage/packages/f31/trustedqsl/apps/lang/hi_IN/tqslapp.po/mnt/stockage/packages/f31/trustedqsl/apps/lang/hi_IN/wxstd.po | 
+ | [ca](/f31/language/ca) | 4275 | 4275 | 100.0 | /mnt/stockage/packages/f31/trustedqsl/apps/lang/ca_ES/tqslapp.po | 
+ | [de](/f31/language/de) | 4275 | 4275 | 100.0 | /mnt/stockage/packages/f31/trustedqsl/apps/lang/de/tqslapp.po | 
+ | [es](/f31/language/es) | 4275 | 4275 | 100.0 | /mnt/stockage/packages/f31/trustedqsl/apps/lang/es/tqslapp.po | 
+ | [it](/f31/language/it) | 4275 | 4275 | 100.0 | /mnt/stockage/packages/f31/trustedqsl/apps/lang/it/tqslapp.po | 
+ | [pl](/f31/language/pl) | 4275 | 4275 | 100.0 | /mnt/stockage/packages/f31/trustedqsl/apps/lang/pl_PL/tqslapp.po | 
+ | [pt](/f31/language/pt) | 4275 | 4275 | 100.0 | /mnt/stockage/packages/f31/trustedqsl/apps/lang/pt/tqslapp.po | 
+ | [ru](/f31/language/ru) | 4275 | 4275 | 100.0 | /mnt/stockage/packages/f31/trustedqsl/apps/lang/ru/tqslapp.po | 
+ | [tr](/f31/language/tr) | 4275 | 4275 | 100.0 | /mnt/stockage/packages/f31/trustedqsl/apps/lang/tr_TR/tqslapp.po | 
+ | [zh_Hans](/f31/language/zh_Hans) | 4275 | 4275 | 100.0 | /mnt/stockage/packages/f31/trustedqsl/apps/lang/zh/tqslapp.po | 
+ | [fi](/f31/language/fi) | 4272 | 4275 | 99.9 | /mnt/stockage/packages/f31/trustedqsl/apps/lang/fi/tqslapp.po | 
+ | [fr](/f31/language/fr) | 4269 | 4275 | 99.9 | /mnt/stockage/packages/f31/trustedqsl/apps/lang/fr/tqslapp.po | 
+ | [ja](/f31/language/ja) | 4257 | 4275 | 99.6 | /mnt/stockage/packages/f31/trustedqsl/apps/lang/ja/tqslapp.po | 
+ | [hi](/f31/language/hi) | 8772 | 11970 | 73.3 | /mnt/stockage/packages/f31/trustedqsl/apps/lang/hi_IN/tqslapp.po/mnt/stockage/packages/f31/trustedqsl/apps/lang/hi_IN/wxstd.po | 
 {.sortable}
 
 

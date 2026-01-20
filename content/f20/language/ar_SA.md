@@ -38,11 +38,11 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [childsplay]({{< ref "/f20/package/childsplay.md" >}}) | 1065 | 1226 | 86.9 | Arabic <> | 
- | [perl-libintl]({{< ref "/f20/package/perl-libintl.md" >}}) | 12 | 19 | 63.2 | Arabic <guido@imperia.net> | 
- | [texinfo]({{< ref "/f20/package/texinfo.md" >}}) | 12 | 19 | 63.2 | Arabic <guido@imperia.net> | 
- | [glpi]({{< ref "/f20/package/glpi.md" >}}) | 3530 | 9435 | 37.4 | Arabic (Saudi Arabia) (http://www.transifex.com/projects/p/GLPI/language/ar_SA/) | 
- | [publican-fedora]({{< ref "/f20/package/publican-fedora.md" >}}) | 0 | 1 | 0.0 | None | 
+ | [childsplay](/f20/package/childsplay) | 1065 | 1226 | 86.9 | Arabic <> | 
+ | [perl-libintl](/f20/package/perl-libintl) | 12 | 19 | 63.2 | Arabic <guido@imperia.net> | 
+ | [texinfo](/f20/package/texinfo) | 12 | 19 | 63.2 | Arabic <guido@imperia.net> | 
+ | [glpi](/f20/package/glpi) | 3530 | 9435 | 37.4 | Arabic (Saudi Arabia) (http://www.transifex.com/projects/p/GLPI/language/ar_SA/) | 
+ | [publican-fedora](/f20/package/publican-fedora) | 0 | 1 | 0.0 | None | 
 {.sortable}
 
 

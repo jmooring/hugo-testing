@@ -18,69 +18,69 @@ The package kcoloredit (version 4.4.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f27/language/ca.md" >}}) | 278 | 278 | 100.0 | /mnt/stockage/packages/f27/kcoloredit/po/ca/kcoloredit.po | 
- | [ca@valencia]({{< ref "/f27/language/ca@valencia.md" >}}) | 278 | 278 | 100.0 | /mnt/stockage/packages/f27/kcoloredit/po/ca@valencia/kcoloredit.po | 
- | [cs]({{< ref "/f27/language/cs.md" >}}) | 278 | 278 | 100.0 | /mnt/stockage/packages/f27/kcoloredit/po/cs/kcoloredit.po | 
- | [da]({{< ref "/f27/language/da.md" >}}) | 278 | 278 | 100.0 | /mnt/stockage/packages/f27/kcoloredit/po/da/kcoloredit.po | 
- | [en_GB]({{< ref "/f27/language/en_GB.md" >}}) | 278 | 278 | 100.0 | /mnt/stockage/packages/f27/kcoloredit/po/en_GB/kcoloredit.po | 
- | [es]({{< ref "/f27/language/es.md" >}}) | 278 | 278 | 100.0 | /mnt/stockage/packages/f27/kcoloredit/po/es/kcoloredit.po | 
- | [et]({{< ref "/f27/language/et.md" >}}) | 278 | 278 | 100.0 | /mnt/stockage/packages/f27/kcoloredit/po/et/kcoloredit.po | 
- | [fi]({{< ref "/f27/language/fi.md" >}}) | 278 | 278 | 100.0 | /mnt/stockage/packages/f27/kcoloredit/po/fi/kcoloredit.po | 
- | [fr]({{< ref "/f27/language/fr.md" >}}) | 278 | 278 | 100.0 | /mnt/stockage/packages/f27/kcoloredit/po/fr/kcoloredit.po | 
- | [gl]({{< ref "/f27/language/gl.md" >}}) | 278 | 278 | 100.0 | /mnt/stockage/packages/f27/kcoloredit/po/gl/kcoloredit.po | 
- | [is]({{< ref "/f27/language/is.md" >}}) | 278 | 278 | 100.0 | /mnt/stockage/packages/f27/kcoloredit/po/is/kcoloredit.po | 
- | [lv]({{< ref "/f27/language/lv.md" >}}) | 278 | 278 | 100.0 | /mnt/stockage/packages/f27/kcoloredit/po/lv/kcoloredit.po | 
- | [nb_NO]({{< ref "/f27/language/nb_NO.md" >}}) | 278 | 278 | 100.0 | /mnt/stockage/packages/f27/kcoloredit/po/nb/kcoloredit.po | 
- | [nl]({{< ref "/f27/language/nl.md" >}}) | 278 | 278 | 100.0 | /mnt/stockage/packages/f27/kcoloredit/po/nl/kcoloredit.po | 
- | [pt]({{< ref "/f27/language/pt.md" >}}) | 278 | 278 | 100.0 | /mnt/stockage/packages/f27/kcoloredit/po/pt/kcoloredit.po | 
- | [pt_BR]({{< ref "/f27/language/pt_BR.md" >}}) | 278 | 278 | 100.0 | /mnt/stockage/packages/f27/kcoloredit/po/pt_BR/kcoloredit.po | 
- | [sv]({{< ref "/f27/language/sv.md" >}}) | 278 | 278 | 100.0 | /mnt/stockage/packages/f27/kcoloredit/po/sv/kcoloredit.po | 
- | [uk]({{< ref "/f27/language/uk.md" >}}) | 278 | 278 | 100.0 | /mnt/stockage/packages/f27/kcoloredit/po/uk/kcoloredit.po | 
- | [zh_Hant]({{< ref "/f27/language/zh_Hant.md" >}}) | 278 | 278 | 100.0 | /mnt/stockage/packages/f27/kcoloredit/po/zh_TW/kcoloredit.po | 
- | [de]({{< ref "/f27/language/de.md" >}}) | 276 | 278 | 99.3 | /mnt/stockage/packages/f27/kcoloredit/po/de/kcoloredit.po | 
- | [nds]({{< ref "/f27/language/nds.md" >}}) | 274 | 278 | 98.6 | /mnt/stockage/packages/f27/kcoloredit/po/nds/kcoloredit.po | 
- | [tr]({{< ref "/f27/language/tr.md" >}}) | 254 | 278 | 91.4 | /mnt/stockage/packages/f27/kcoloredit/po/tr/kcoloredit.po | 
- | [el]({{< ref "/f27/language/el.md" >}}) | 232 | 278 | 83.5 | /mnt/stockage/packages/f27/kcoloredit/po/el/kcoloredit.po | 
- | [ja]({{< ref "/f27/language/ja.md" >}}) | 232 | 278 | 83.5 | /mnt/stockage/packages/f27/kcoloredit/po/ja/kcoloredit.po | 
- | [km]({{< ref "/f27/language/km.md" >}}) | 232 | 278 | 83.5 | /mnt/stockage/packages/f27/kcoloredit/po/km/kcoloredit.po | 
- | [ro]({{< ref "/f27/language/ro.md" >}}) | 232 | 278 | 83.5 | /mnt/stockage/packages/f27/kcoloredit/po/ro/kcoloredit.po | 
- | [zh_Hans]({{< ref "/f27/language/zh_Hans.md" >}}) | 232 | 278 | 83.5 | /mnt/stockage/packages/f27/kcoloredit/po/zh_CN/kcoloredit.po | 
- | [th]({{< ref "/f27/language/th.md" >}}) | 228 | 278 | 82.0 | /mnt/stockage/packages/f27/kcoloredit/po/th/kcoloredit.po | 
- | [ku]({{< ref "/f27/language/ku.md" >}}) | 219 | 278 | 78.8 | /mnt/stockage/packages/f27/kcoloredit/po/ku/kcoloredit.po | 
- | [pl]({{< ref "/f27/language/pl.md" >}}) | 219 | 278 | 78.8 | /mnt/stockage/packages/f27/kcoloredit/po/pl/kcoloredit.po | 
- | [it]({{< ref "/f27/language/it.md" >}}) | 205 | 278 | 73.7 | /mnt/stockage/packages/f27/kcoloredit/po/it/kcoloredit.po | 
- | [hne]({{< ref "/f27/language/hne.md" >}}) | 174 | 278 | 62.6 | /mnt/stockage/packages/f27/kcoloredit/po/hne/kcoloredit.po | 
- | [hr]({{< ref "/f27/language/hr.md" >}}) | 164 | 278 | 59.0 | /mnt/stockage/packages/f27/kcoloredit/po/hr/kcoloredit.po | 
- | [pa]({{< ref "/f27/language/pa.md" >}}) | 159 | 278 | 57.2 | /mnt/stockage/packages/f27/kcoloredit/po/pa/kcoloredit.po | 
- | [lt]({{< ref "/f27/language/lt.md" >}}) | 134 | 278 | 48.2 | /mnt/stockage/packages/f27/kcoloredit/po/lt/kcoloredit.po | 
- | [bg]({{< ref "/f27/language/bg.md" >}}) | 133 | 278 | 47.8 | /mnt/stockage/packages/f27/kcoloredit/po/bg/kcoloredit.po | 
- | [ga]({{< ref "/f27/language/ga.md" >}}) | 133 | 278 | 47.8 | /mnt/stockage/packages/f27/kcoloredit/po/ga/kcoloredit.po | 
- | [ru]({{< ref "/f27/language/ru.md" >}}) | 133 | 278 | 47.8 | /mnt/stockage/packages/f27/kcoloredit/po/ru/kcoloredit.po | 
- | [mai]({{< ref "/f27/language/mai.md" >}}) | 69 | 278 | 24.8 | /mnt/stockage/packages/f27/kcoloredit/po/mai/kcoloredit.po | 
- | [eo]({{< ref "/f27/language/eo.md" >}}) | 34 | 278 | 12.2 | /mnt/stockage/packages/f27/kcoloredit/po/eo/kcoloredit.po | 
- | [oc]({{< ref "/f27/language/oc.md" >}}) | 13 | 278 | 4.7 | /mnt/stockage/packages/f27/kcoloredit/po/oc/kcoloredit.po | 
- | [hu]({{< ref "/f27/language/hu.md" >}}) | 11 | 278 | 4.0 | /mnt/stockage/packages/f27/kcoloredit/po/hu/kcoloredit.po | 
- | [ta]({{< ref "/f27/language/ta.md" >}}) | 11 | 278 | 4.0 | /mnt/stockage/packages/f27/kcoloredit/po/ta/kcoloredit.po | 
- | [vi]({{< ref "/f27/language/vi.md" >}}) | 11 | 278 | 4.0 | /mnt/stockage/packages/f27/kcoloredit/po/vi/kcoloredit.po | 
- | [be]({{< ref "/f27/language/be.md" >}}) | 9 | 278 | 3.2 | /mnt/stockage/packages/f27/kcoloredit/po/be/kcoloredit.po | 
- | [br]({{< ref "/f27/language/br.md" >}}) | 9 | 278 | 3.2 | /mnt/stockage/packages/f27/kcoloredit/po/br/kcoloredit.po | 
- | [hi]({{< ref "/f27/language/hi.md" >}}) | 9 | 278 | 3.2 | /mnt/stockage/packages/f27/kcoloredit/po/hi/kcoloredit.po | 
- | [ne]({{< ref "/f27/language/ne.md" >}}) | 9 | 278 | 3.2 | /mnt/stockage/packages/f27/kcoloredit/po/ne/kcoloredit.po | 
- | [af]({{< ref "/f27/language/af.md" >}}) | 8 | 278 | 2.9 | /mnt/stockage/packages/f27/kcoloredit/po/af/kcoloredit.po | 
- | [ar]({{< ref "/f27/language/ar.md" >}}) | 8 | 278 | 2.9 | /mnt/stockage/packages/f27/kcoloredit/po/ar/kcoloredit.po | 
- | [eu]({{< ref "/f27/language/eu.md" >}}) | 8 | 278 | 2.9 | /mnt/stockage/packages/f27/kcoloredit/po/eu/kcoloredit.po | 
- | [he]({{< ref "/f27/language/he.md" >}}) | 8 | 278 | 2.9 | /mnt/stockage/packages/f27/kcoloredit/po/he/kcoloredit.po | 
- | [mk]({{< ref "/f27/language/mk.md" >}}) | 8 | 278 | 2.9 | /mnt/stockage/packages/f27/kcoloredit/po/mk/kcoloredit.po | 
- | [ms]({{< ref "/f27/language/ms.md" >}}) | 8 | 278 | 2.9 | /mnt/stockage/packages/f27/kcoloredit/po/ms/kcoloredit.po | 
- | [sk]({{< ref "/f27/language/sk.md" >}}) | 8 | 278 | 2.9 | /mnt/stockage/packages/f27/kcoloredit/po/sk/kcoloredit.po | 
- | [sl]({{< ref "/f27/language/sl.md" >}}) | 8 | 278 | 2.9 | /mnt/stockage/packages/f27/kcoloredit/po/sl/kcoloredit.po | 
- | [tg]({{< ref "/f27/language/tg.md" >}}) | 8 | 278 | 2.9 | /mnt/stockage/packages/f27/kcoloredit/po/tg/kcoloredit.po | 
- | [xh]({{< ref "/f27/language/xh.md" >}}) | 8 | 278 | 2.9 | /mnt/stockage/packages/f27/kcoloredit/po/xh/kcoloredit.po | 
- | [zh_Hant_HK]({{< ref "/f27/language/zh_Hant_HK.md" >}}) | 8 | 278 | 2.9 | /mnt/stockage/packages/f27/kcoloredit/po/zh_HK/kcoloredit.po | 
- | [fa]({{< ref "/f27/language/fa.md" >}}) | 7 | 278 | 2.5 | /mnt/stockage/packages/f27/kcoloredit/po/fa/kcoloredit.po | 
- | [se]({{< ref "/f27/language/se.md" >}}) | 7 | 278 | 2.5 | /mnt/stockage/packages/f27/kcoloredit/po/se/kcoloredit.po | 
- | [cy]({{< ref "/f27/language/cy.md" >}}) | 6 | 278 | 2.2 | /mnt/stockage/packages/f27/kcoloredit/po/cy/kcoloredit.po | 
- | [nn]({{< ref "/f27/language/nn.md" >}}) | 0 | 278 | 0.0 | /mnt/stockage/packages/f27/kcoloredit/po/nn/kcoloredit.po | 
+ | [ca](/f27/language/ca) | 278 | 278 | 100.0 | /mnt/stockage/packages/f27/kcoloredit/po/ca/kcoloredit.po | 
+ | [ca@valencia](/f27/language/ca@valencia) | 278 | 278 | 100.0 | /mnt/stockage/packages/f27/kcoloredit/po/ca@valencia/kcoloredit.po | 
+ | [cs](/f27/language/cs) | 278 | 278 | 100.0 | /mnt/stockage/packages/f27/kcoloredit/po/cs/kcoloredit.po | 
+ | [da](/f27/language/da) | 278 | 278 | 100.0 | /mnt/stockage/packages/f27/kcoloredit/po/da/kcoloredit.po | 
+ | [en_GB](/f27/language/en_GB) | 278 | 278 | 100.0 | /mnt/stockage/packages/f27/kcoloredit/po/en_GB/kcoloredit.po | 
+ | [es](/f27/language/es) | 278 | 278 | 100.0 | /mnt/stockage/packages/f27/kcoloredit/po/es/kcoloredit.po | 
+ | [et](/f27/language/et) | 278 | 278 | 100.0 | /mnt/stockage/packages/f27/kcoloredit/po/et/kcoloredit.po | 
+ | [fi](/f27/language/fi) | 278 | 278 | 100.0 | /mnt/stockage/packages/f27/kcoloredit/po/fi/kcoloredit.po | 
+ | [fr](/f27/language/fr) | 278 | 278 | 100.0 | /mnt/stockage/packages/f27/kcoloredit/po/fr/kcoloredit.po | 
+ | [gl](/f27/language/gl) | 278 | 278 | 100.0 | /mnt/stockage/packages/f27/kcoloredit/po/gl/kcoloredit.po | 
+ | [is](/f27/language/is) | 278 | 278 | 100.0 | /mnt/stockage/packages/f27/kcoloredit/po/is/kcoloredit.po | 
+ | [lv](/f27/language/lv) | 278 | 278 | 100.0 | /mnt/stockage/packages/f27/kcoloredit/po/lv/kcoloredit.po | 
+ | [nb_NO](/f27/language/nb_NO) | 278 | 278 | 100.0 | /mnt/stockage/packages/f27/kcoloredit/po/nb/kcoloredit.po | 
+ | [nl](/f27/language/nl) | 278 | 278 | 100.0 | /mnt/stockage/packages/f27/kcoloredit/po/nl/kcoloredit.po | 
+ | [pt](/f27/language/pt) | 278 | 278 | 100.0 | /mnt/stockage/packages/f27/kcoloredit/po/pt/kcoloredit.po | 
+ | [pt_BR](/f27/language/pt_BR) | 278 | 278 | 100.0 | /mnt/stockage/packages/f27/kcoloredit/po/pt_BR/kcoloredit.po | 
+ | [sv](/f27/language/sv) | 278 | 278 | 100.0 | /mnt/stockage/packages/f27/kcoloredit/po/sv/kcoloredit.po | 
+ | [uk](/f27/language/uk) | 278 | 278 | 100.0 | /mnt/stockage/packages/f27/kcoloredit/po/uk/kcoloredit.po | 
+ | [zh_Hant](/f27/language/zh_Hant) | 278 | 278 | 100.0 | /mnt/stockage/packages/f27/kcoloredit/po/zh_TW/kcoloredit.po | 
+ | [de](/f27/language/de) | 276 | 278 | 99.3 | /mnt/stockage/packages/f27/kcoloredit/po/de/kcoloredit.po | 
+ | [nds](/f27/language/nds) | 274 | 278 | 98.6 | /mnt/stockage/packages/f27/kcoloredit/po/nds/kcoloredit.po | 
+ | [tr](/f27/language/tr) | 254 | 278 | 91.4 | /mnt/stockage/packages/f27/kcoloredit/po/tr/kcoloredit.po | 
+ | [el](/f27/language/el) | 232 | 278 | 83.5 | /mnt/stockage/packages/f27/kcoloredit/po/el/kcoloredit.po | 
+ | [ja](/f27/language/ja) | 232 | 278 | 83.5 | /mnt/stockage/packages/f27/kcoloredit/po/ja/kcoloredit.po | 
+ | [km](/f27/language/km) | 232 | 278 | 83.5 | /mnt/stockage/packages/f27/kcoloredit/po/km/kcoloredit.po | 
+ | [ro](/f27/language/ro) | 232 | 278 | 83.5 | /mnt/stockage/packages/f27/kcoloredit/po/ro/kcoloredit.po | 
+ | [zh_Hans](/f27/language/zh_Hans) | 232 | 278 | 83.5 | /mnt/stockage/packages/f27/kcoloredit/po/zh_CN/kcoloredit.po | 
+ | [th](/f27/language/th) | 228 | 278 | 82.0 | /mnt/stockage/packages/f27/kcoloredit/po/th/kcoloredit.po | 
+ | [ku](/f27/language/ku) | 219 | 278 | 78.8 | /mnt/stockage/packages/f27/kcoloredit/po/ku/kcoloredit.po | 
+ | [pl](/f27/language/pl) | 219 | 278 | 78.8 | /mnt/stockage/packages/f27/kcoloredit/po/pl/kcoloredit.po | 
+ | [it](/f27/language/it) | 205 | 278 | 73.7 | /mnt/stockage/packages/f27/kcoloredit/po/it/kcoloredit.po | 
+ | [hne](/f27/language/hne) | 174 | 278 | 62.6 | /mnt/stockage/packages/f27/kcoloredit/po/hne/kcoloredit.po | 
+ | [hr](/f27/language/hr) | 164 | 278 | 59.0 | /mnt/stockage/packages/f27/kcoloredit/po/hr/kcoloredit.po | 
+ | [pa](/f27/language/pa) | 159 | 278 | 57.2 | /mnt/stockage/packages/f27/kcoloredit/po/pa/kcoloredit.po | 
+ | [lt](/f27/language/lt) | 134 | 278 | 48.2 | /mnt/stockage/packages/f27/kcoloredit/po/lt/kcoloredit.po | 
+ | [bg](/f27/language/bg) | 133 | 278 | 47.8 | /mnt/stockage/packages/f27/kcoloredit/po/bg/kcoloredit.po | 
+ | [ga](/f27/language/ga) | 133 | 278 | 47.8 | /mnt/stockage/packages/f27/kcoloredit/po/ga/kcoloredit.po | 
+ | [ru](/f27/language/ru) | 133 | 278 | 47.8 | /mnt/stockage/packages/f27/kcoloredit/po/ru/kcoloredit.po | 
+ | [mai](/f27/language/mai) | 69 | 278 | 24.8 | /mnt/stockage/packages/f27/kcoloredit/po/mai/kcoloredit.po | 
+ | [eo](/f27/language/eo) | 34 | 278 | 12.2 | /mnt/stockage/packages/f27/kcoloredit/po/eo/kcoloredit.po | 
+ | [oc](/f27/language/oc) | 13 | 278 | 4.7 | /mnt/stockage/packages/f27/kcoloredit/po/oc/kcoloredit.po | 
+ | [hu](/f27/language/hu) | 11 | 278 | 4.0 | /mnt/stockage/packages/f27/kcoloredit/po/hu/kcoloredit.po | 
+ | [ta](/f27/language/ta) | 11 | 278 | 4.0 | /mnt/stockage/packages/f27/kcoloredit/po/ta/kcoloredit.po | 
+ | [vi](/f27/language/vi) | 11 | 278 | 4.0 | /mnt/stockage/packages/f27/kcoloredit/po/vi/kcoloredit.po | 
+ | [be](/f27/language/be) | 9 | 278 | 3.2 | /mnt/stockage/packages/f27/kcoloredit/po/be/kcoloredit.po | 
+ | [br](/f27/language/br) | 9 | 278 | 3.2 | /mnt/stockage/packages/f27/kcoloredit/po/br/kcoloredit.po | 
+ | [hi](/f27/language/hi) | 9 | 278 | 3.2 | /mnt/stockage/packages/f27/kcoloredit/po/hi/kcoloredit.po | 
+ | [ne](/f27/language/ne) | 9 | 278 | 3.2 | /mnt/stockage/packages/f27/kcoloredit/po/ne/kcoloredit.po | 
+ | [af](/f27/language/af) | 8 | 278 | 2.9 | /mnt/stockage/packages/f27/kcoloredit/po/af/kcoloredit.po | 
+ | [ar](/f27/language/ar) | 8 | 278 | 2.9 | /mnt/stockage/packages/f27/kcoloredit/po/ar/kcoloredit.po | 
+ | [eu](/f27/language/eu) | 8 | 278 | 2.9 | /mnt/stockage/packages/f27/kcoloredit/po/eu/kcoloredit.po | 
+ | [he](/f27/language/he) | 8 | 278 | 2.9 | /mnt/stockage/packages/f27/kcoloredit/po/he/kcoloredit.po | 
+ | [mk](/f27/language/mk) | 8 | 278 | 2.9 | /mnt/stockage/packages/f27/kcoloredit/po/mk/kcoloredit.po | 
+ | [ms](/f27/language/ms) | 8 | 278 | 2.9 | /mnt/stockage/packages/f27/kcoloredit/po/ms/kcoloredit.po | 
+ | [sk](/f27/language/sk) | 8 | 278 | 2.9 | /mnt/stockage/packages/f27/kcoloredit/po/sk/kcoloredit.po | 
+ | [sl](/f27/language/sl) | 8 | 278 | 2.9 | /mnt/stockage/packages/f27/kcoloredit/po/sl/kcoloredit.po | 
+ | [tg](/f27/language/tg) | 8 | 278 | 2.9 | /mnt/stockage/packages/f27/kcoloredit/po/tg/kcoloredit.po | 
+ | [xh](/f27/language/xh) | 8 | 278 | 2.9 | /mnt/stockage/packages/f27/kcoloredit/po/xh/kcoloredit.po | 
+ | [zh_Hant_HK](/f27/language/zh_Hant_HK) | 8 | 278 | 2.9 | /mnt/stockage/packages/f27/kcoloredit/po/zh_HK/kcoloredit.po | 
+ | [fa](/f27/language/fa) | 7 | 278 | 2.5 | /mnt/stockage/packages/f27/kcoloredit/po/fa/kcoloredit.po | 
+ | [se](/f27/language/se) | 7 | 278 | 2.5 | /mnt/stockage/packages/f27/kcoloredit/po/se/kcoloredit.po | 
+ | [cy](/f27/language/cy) | 6 | 278 | 2.2 | /mnt/stockage/packages/f27/kcoloredit/po/cy/kcoloredit.po | 
+ | [nn](/f27/language/nn) | 0 | 278 | 0.0 | /mnt/stockage/packages/f27/kcoloredit/po/nn/kcoloredit.po | 
 {.sortable}
 
 

@@ -18,13 +18,13 @@ The package gnash (version 0.8.9):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f14/language/cs.md" >}}) | 8293 | 8748 | 94.8 | /mnt/stockage/packages/f14/gnash/po/cs.po | 
- | [es]({{< ref "/f14/language/es.md" >}}) | 2148 | 8748 | 24.6 | /mnt/stockage/packages/f14/gnash/po/es.po | 
- | [fr]({{< ref "/f14/language/fr.md" >}}) | 1734 | 8748 | 19.8 | /mnt/stockage/packages/f14/gnash/po/fr.po | 
- | [fi]({{< ref "/f14/language/fi.md" >}}) | 796 | 8748 | 9.1 | /mnt/stockage/packages/f14/gnash/po/fi.po | 
- | [de]({{< ref "/f14/language/de.md" >}}) | 679 | 8748 | 7.8 | /mnt/stockage/packages/f14/gnash/po/de.po | 
- | [ja]({{< ref "/f14/language/ja.md" >}}) | 369 | 8748 | 4.2 | /mnt/stockage/packages/f14/gnash/po/ja.po | 
- | [it]({{< ref "/f14/language/it.md" >}}) | 240 | 8748 | 2.7 | /mnt/stockage/packages/f14/gnash/po/it.po | 
+ | [cs](/f14/language/cs) | 8293 | 8748 | 94.8 | /mnt/stockage/packages/f14/gnash/po/cs.po | 
+ | [es](/f14/language/es) | 2148 | 8748 | 24.6 | /mnt/stockage/packages/f14/gnash/po/es.po | 
+ | [fr](/f14/language/fr) | 1734 | 8748 | 19.8 | /mnt/stockage/packages/f14/gnash/po/fr.po | 
+ | [fi](/f14/language/fi) | 796 | 8748 | 9.1 | /mnt/stockage/packages/f14/gnash/po/fi.po | 
+ | [de](/f14/language/de) | 679 | 8748 | 7.8 | /mnt/stockage/packages/f14/gnash/po/de.po | 
+ | [ja](/f14/language/ja) | 369 | 8748 | 4.2 | /mnt/stockage/packages/f14/gnash/po/ja.po | 
+ | [it](/f14/language/it) | 240 | 8748 | 2.7 | /mnt/stockage/packages/f14/gnash/po/it.po | 
 {.sortable}
 
 

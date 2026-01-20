@@ -18,13 +18,13 @@ The package libdazzle (version 3.44.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f42/language/de.md" >}}) | 173 | 173 | 100.0 | /mnt/stockage/packages/f42/libdazzle/po/de.po | 
- | [es]({{< ref "/f42/language/es.md" >}}) | 173 | 173 | 100.0 | /mnt/stockage/packages/f42/libdazzle/po/es.po | 
- | [pl]({{< ref "/f42/language/pl.md" >}}) | 173 | 173 | 100.0 | /mnt/stockage/packages/f42/libdazzle/po/pl.po | 
- | [sv]({{< ref "/f42/language/sv.md" >}}) | 173 | 173 | 100.0 | /mnt/stockage/packages/f42/libdazzle/po/sv.po | 
- | [uk]({{< ref "/f42/language/uk.md" >}}) | 173 | 173 | 100.0 | /mnt/stockage/packages/f42/libdazzle/po/uk.po | 
- | [zh_Hans]({{< ref "/f42/language/zh_Hans.md" >}}) | 164 | 173 | 94.8 | /mnt/stockage/packages/f42/libdazzle/po/zh_CN.po | 
- | [eu]({{< ref "/f42/language/eu.md" >}}) | 93 | 173 | 53.8 | /mnt/stockage/packages/f42/libdazzle/po/eu.po | 
+ | [de](/f42/language/de) | 173 | 173 | 100.0 | /mnt/stockage/packages/f42/libdazzle/po/de.po | 
+ | [es](/f42/language/es) | 173 | 173 | 100.0 | /mnt/stockage/packages/f42/libdazzle/po/es.po | 
+ | [pl](/f42/language/pl) | 173 | 173 | 100.0 | /mnt/stockage/packages/f42/libdazzle/po/pl.po | 
+ | [sv](/f42/language/sv) | 173 | 173 | 100.0 | /mnt/stockage/packages/f42/libdazzle/po/sv.po | 
+ | [uk](/f42/language/uk) | 173 | 173 | 100.0 | /mnt/stockage/packages/f42/libdazzle/po/uk.po | 
+ | [zh_Hans](/f42/language/zh_Hans) | 164 | 173 | 94.8 | /mnt/stockage/packages/f42/libdazzle/po/zh_CN.po | 
+ | [eu](/f42/language/eu) | 93 | 173 | 53.8 | /mnt/stockage/packages/f42/libdazzle/po/eu.po | 
 {.sortable}
 
 

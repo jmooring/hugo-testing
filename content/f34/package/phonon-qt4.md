@@ -18,35 +18,35 @@ The package phonon-qt4 (version 4.10.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f34/language/ca.md" >}}) | 116 | 116 | 100.0 | /mnt/stockage/packages/f34/phonon-qt4/po/ca/libphonon_qt.po | 
- | [de]({{< ref "/f34/language/de.md" >}}) | 116 | 116 | 100.0 | /mnt/stockage/packages/f34/phonon-qt4/po/de/libphonon_qt.po | 
- | [es]({{< ref "/f34/language/es.md" >}}) | 116 | 116 | 100.0 | /mnt/stockage/packages/f34/phonon-qt4/po/es/libphonon_qt.po | 
- | [eu]({{< ref "/f34/language/eu.md" >}}) | 116 | 116 | 100.0 | /mnt/stockage/packages/f34/phonon-qt4/po/eu/libphonon_qt.po | 
- | [gl]({{< ref "/f34/language/gl.md" >}}) | 116 | 116 | 100.0 | /mnt/stockage/packages/f34/phonon-qt4/po/gl/libphonon_qt.po | 
- | [it]({{< ref "/f34/language/it.md" >}}) | 116 | 116 | 100.0 | /mnt/stockage/packages/f34/phonon-qt4/po/it/libphonon_qt.po | 
- | [ko]({{< ref "/f34/language/ko.md" >}}) | 116 | 116 | 100.0 | /mnt/stockage/packages/f34/phonon-qt4/po/ko/libphonon_qt.po | 
- | [nl]({{< ref "/f34/language/nl.md" >}}) | 116 | 116 | 100.0 | /mnt/stockage/packages/f34/phonon-qt4/po/nl/libphonon_qt.po | 
- | [nn]({{< ref "/f34/language/nn.md" >}}) | 116 | 116 | 100.0 | /mnt/stockage/packages/f34/phonon-qt4/po/nn/libphonon_qt.po | 
- | [pl]({{< ref "/f34/language/pl.md" >}}) | 116 | 116 | 100.0 | /mnt/stockage/packages/f34/phonon-qt4/po/pl/libphonon_qt.po | 
- | [pt_BR]({{< ref "/f34/language/pt_BR.md" >}}) | 116 | 116 | 100.0 | /mnt/stockage/packages/f34/phonon-qt4/po/pt_BR/libphonon_qt.po | 
- | [sr]({{< ref "/f34/language/sr.md" >}}) | 116 | 116 | 100.0 | /mnt/stockage/packages/f34/phonon-qt4/po/sr/libphonon_qt.po | 
- | [sr@ijekavian]({{< ref "/f34/language/sr@ijekavian.md" >}}) | 116 | 116 | 100.0 | /mnt/stockage/packages/f34/phonon-qt4/po/sr@ijekavian/libphonon_qt.po | 
- | [sr@ijekavian_Latn]({{< ref "/f34/language/sr@ijekavian_Latn.md" >}}) | 116 | 116 | 100.0 | /mnt/stockage/packages/f34/phonon-qt4/po/sr@ijekavianlatin/libphonon_qt.po | 
- | [sr_Latn]({{< ref "/f34/language/sr_Latn.md" >}}) | 116 | 116 | 100.0 | /mnt/stockage/packages/f34/phonon-qt4/po/sr@latin/libphonon_qt.po | 
- | [sv]({{< ref "/f34/language/sv.md" >}}) | 116 | 116 | 100.0 | /mnt/stockage/packages/f34/phonon-qt4/po/sv/libphonon_qt.po | 
- | [uk]({{< ref "/f34/language/uk.md" >}}) | 116 | 116 | 100.0 | /mnt/stockage/packages/f34/phonon-qt4/po/uk/libphonon_qt.po | 
- | [ca@valencia]({{< ref "/f34/language/ca@valencia.md" >}}) | 0 | 116 | 0.0 | /mnt/stockage/packages/f34/phonon-qt4/po/ca@valencia/libphonon_qt.po | 
- | [cs]({{< ref "/f34/language/cs.md" >}}) | 0 | 116 | 0.0 | /mnt/stockage/packages/f34/phonon-qt4/po/cs/libphonon_qt.po | 
- | [en_GB]({{< ref "/f34/language/en_GB.md" >}}) | 0 | 116 | 0.0 | /mnt/stockage/packages/f34/phonon-qt4/po/en_GB/libphonon_qt.po | 
- | [fi]({{< ref "/f34/language/fi.md" >}}) | 0 | 116 | 0.0 | /mnt/stockage/packages/f34/phonon-qt4/po/fi/libphonon_qt.po | 
- | [fr]({{< ref "/f34/language/fr.md" >}}) | 0 | 116 | 0.0 | /mnt/stockage/packages/f34/phonon-qt4/po/fr/libphonon_qt.po | 
- | [id]({{< ref "/f34/language/id.md" >}}) | 0 | 116 | 0.0 | /mnt/stockage/packages/f34/phonon-qt4/po/id/libphonon_qt.po | 
- | [is]({{< ref "/f34/language/is.md" >}}) | 0 | 116 | 0.0 | /mnt/stockage/packages/f34/phonon-qt4/po/is/libphonon_qt.po | 
- | [ja]({{< ref "/f34/language/ja.md" >}}) | 0 | 116 | 0.0 | /mnt/stockage/packages/f34/phonon-qt4/po/ja/libphonon_qt.po | 
- | [nb_NO]({{< ref "/f34/language/nb_NO.md" >}}) | 0 | 116 | 0.0 | /mnt/stockage/packages/f34/phonon-qt4/po/nb/libphonon_qt.po | 
- | [se]({{< ref "/f34/language/se.md" >}}) | 0 | 116 | 0.0 | /mnt/stockage/packages/f34/phonon-qt4/po/se/libphonon_qt.po | 
- | [sk]({{< ref "/f34/language/sk.md" >}}) | 0 | 116 | 0.0 | /mnt/stockage/packages/f34/phonon-qt4/po/sk/libphonon_qt.po | 
- | [zh_Hans]({{< ref "/f34/language/zh_Hans.md" >}}) | 0 | 116 | 0.0 | /mnt/stockage/packages/f34/phonon-qt4/po/zh_CN/libphonon_qt.po | 
+ | [ca](/f34/language/ca) | 116 | 116 | 100.0 | /mnt/stockage/packages/f34/phonon-qt4/po/ca/libphonon_qt.po | 
+ | [de](/f34/language/de) | 116 | 116 | 100.0 | /mnt/stockage/packages/f34/phonon-qt4/po/de/libphonon_qt.po | 
+ | [es](/f34/language/es) | 116 | 116 | 100.0 | /mnt/stockage/packages/f34/phonon-qt4/po/es/libphonon_qt.po | 
+ | [eu](/f34/language/eu) | 116 | 116 | 100.0 | /mnt/stockage/packages/f34/phonon-qt4/po/eu/libphonon_qt.po | 
+ | [gl](/f34/language/gl) | 116 | 116 | 100.0 | /mnt/stockage/packages/f34/phonon-qt4/po/gl/libphonon_qt.po | 
+ | [it](/f34/language/it) | 116 | 116 | 100.0 | /mnt/stockage/packages/f34/phonon-qt4/po/it/libphonon_qt.po | 
+ | [ko](/f34/language/ko) | 116 | 116 | 100.0 | /mnt/stockage/packages/f34/phonon-qt4/po/ko/libphonon_qt.po | 
+ | [nl](/f34/language/nl) | 116 | 116 | 100.0 | /mnt/stockage/packages/f34/phonon-qt4/po/nl/libphonon_qt.po | 
+ | [nn](/f34/language/nn) | 116 | 116 | 100.0 | /mnt/stockage/packages/f34/phonon-qt4/po/nn/libphonon_qt.po | 
+ | [pl](/f34/language/pl) | 116 | 116 | 100.0 | /mnt/stockage/packages/f34/phonon-qt4/po/pl/libphonon_qt.po | 
+ | [pt_BR](/f34/language/pt_BR) | 116 | 116 | 100.0 | /mnt/stockage/packages/f34/phonon-qt4/po/pt_BR/libphonon_qt.po | 
+ | [sr](/f34/language/sr) | 116 | 116 | 100.0 | /mnt/stockage/packages/f34/phonon-qt4/po/sr/libphonon_qt.po | 
+ | [sr@ijekavian](/f34/language/sr@ijekavian) | 116 | 116 | 100.0 | /mnt/stockage/packages/f34/phonon-qt4/po/sr@ijekavian/libphonon_qt.po | 
+ | [sr@ijekavian_Latn](/f34/language/sr@ijekavian_Latn) | 116 | 116 | 100.0 | /mnt/stockage/packages/f34/phonon-qt4/po/sr@ijekavianlatin/libphonon_qt.po | 
+ | [sr_Latn](/f34/language/sr_Latn) | 116 | 116 | 100.0 | /mnt/stockage/packages/f34/phonon-qt4/po/sr@latin/libphonon_qt.po | 
+ | [sv](/f34/language/sv) | 116 | 116 | 100.0 | /mnt/stockage/packages/f34/phonon-qt4/po/sv/libphonon_qt.po | 
+ | [uk](/f34/language/uk) | 116 | 116 | 100.0 | /mnt/stockage/packages/f34/phonon-qt4/po/uk/libphonon_qt.po | 
+ | [ca@valencia](/f34/language/ca@valencia) | 0 | 116 | 0.0 | /mnt/stockage/packages/f34/phonon-qt4/po/ca@valencia/libphonon_qt.po | 
+ | [cs](/f34/language/cs) | 0 | 116 | 0.0 | /mnt/stockage/packages/f34/phonon-qt4/po/cs/libphonon_qt.po | 
+ | [en_GB](/f34/language/en_GB) | 0 | 116 | 0.0 | /mnt/stockage/packages/f34/phonon-qt4/po/en_GB/libphonon_qt.po | 
+ | [fi](/f34/language/fi) | 0 | 116 | 0.0 | /mnt/stockage/packages/f34/phonon-qt4/po/fi/libphonon_qt.po | 
+ | [fr](/f34/language/fr) | 0 | 116 | 0.0 | /mnt/stockage/packages/f34/phonon-qt4/po/fr/libphonon_qt.po | 
+ | [id](/f34/language/id) | 0 | 116 | 0.0 | /mnt/stockage/packages/f34/phonon-qt4/po/id/libphonon_qt.po | 
+ | [is](/f34/language/is) | 0 | 116 | 0.0 | /mnt/stockage/packages/f34/phonon-qt4/po/is/libphonon_qt.po | 
+ | [ja](/f34/language/ja) | 0 | 116 | 0.0 | /mnt/stockage/packages/f34/phonon-qt4/po/ja/libphonon_qt.po | 
+ | [nb_NO](/f34/language/nb_NO) | 0 | 116 | 0.0 | /mnt/stockage/packages/f34/phonon-qt4/po/nb/libphonon_qt.po | 
+ | [se](/f34/language/se) | 0 | 116 | 0.0 | /mnt/stockage/packages/f34/phonon-qt4/po/se/libphonon_qt.po | 
+ | [sk](/f34/language/sk) | 0 | 116 | 0.0 | /mnt/stockage/packages/f34/phonon-qt4/po/sk/libphonon_qt.po | 
+ | [zh_Hans](/f34/language/zh_Hans) | 0 | 116 | 0.0 | /mnt/stockage/packages/f34/phonon-qt4/po/zh_CN/libphonon_qt.po | 
 {.sortable}
 
 

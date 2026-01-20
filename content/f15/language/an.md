@@ -38,20 +38,20 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [alacarte]({{< ref "/f15/package/alacarte.md" >}}) | 42 | 42 | 100.0 | Aragonese <softaragones@googlegroups.com> | 
- | [epiphany]({{< ref "/f15/package/epiphany.md" >}}) | 2268 | 2268 | 100.0 | Aragonese <softaragones@googlegroups.com> | 
- | [gnome-backgrounds]({{< ref "/f15/package/gnome-backgrounds.md" >}}) | 29 | 29 | 100.0 | Aragonese <softaragones@googlegroups.com> | 
- | [gnome-menus]({{< ref "/f15/package/gnome-menus.md" >}}) | 125 | 125 | 100.0 | Aragonés <softaragones@googlegroups.com> | 
- | [gnome-themes-standard]({{< ref "/f15/package/gnome-themes-standard.md" >}}) | 24 | 24 | 100.0 | Aragonese <softaragones@googlegroups.com> | 
- | [xdg-user-dirs]({{< ref "/f15/package/xdg-user-dirs.md" >}}) | 28 | 28 | 100.0 | Aragonese <softaragones@googlegroups.com> | 
- | [gnome-desktop]({{< ref "/f15/package/gnome-desktop.md" >}}) | 366 | 438 | 83.6 | Aragonés <softaragones@googlegroups.com> | 
- | [gnome-desktop3]({{< ref "/f15/package/gnome-desktop3.md" >}}) | 366 | 438 | 83.6 | Aragonés <softaragones@googlegroups.com> | 
- | [evince]({{< ref "/f15/package/evince.md" >}}) | 920 | 1419 | 64.8 | Aragonese <softaragones@googlegroups.com> | 
- | [file-roller]({{< ref "/f15/package/file-roller.md" >}}) | 470 | 1519 | 30.9 | Aragonese <softaragones@googlegroups.com> | 
- | [gdm]({{< ref "/f15/package/gdm.md" >}}) | 241 | 1094 | 22.0 | Aragonese <softaragones@googlegroups.com> | 
- | [NetworkManager]({{< ref "/f15/package/NetworkManager.md" >}}) | 502 | 2477 | 20.3 | Aragonese <softaragones@googlegroups.com> | 
- | [transmission]({{< ref "/f15/package/transmission.md" >}}) | 217 | 1528 | 14.2 | Aragonese <an@li.org> | 
- | [empathy]({{< ref "/f15/package/empathy.md" >}}) | 437 | 3620 | 12.1 | Aragonese <softaragones@googlegroups.com> | 
+ | [alacarte](/f15/package/alacarte) | 42 | 42 | 100.0 | Aragonese <softaragones@googlegroups.com> | 
+ | [epiphany](/f15/package/epiphany) | 2268 | 2268 | 100.0 | Aragonese <softaragones@googlegroups.com> | 
+ | [gnome-backgrounds](/f15/package/gnome-backgrounds) | 29 | 29 | 100.0 | Aragonese <softaragones@googlegroups.com> | 
+ | [gnome-menus](/f15/package/gnome-menus) | 125 | 125 | 100.0 | Aragonés <softaragones@googlegroups.com> | 
+ | [gnome-themes-standard](/f15/package/gnome-themes-standard) | 24 | 24 | 100.0 | Aragonese <softaragones@googlegroups.com> | 
+ | [xdg-user-dirs](/f15/package/xdg-user-dirs) | 28 | 28 | 100.0 | Aragonese <softaragones@googlegroups.com> | 
+ | [gnome-desktop](/f15/package/gnome-desktop) | 366 | 438 | 83.6 | Aragonés <softaragones@googlegroups.com> | 
+ | [gnome-desktop3](/f15/package/gnome-desktop3) | 366 | 438 | 83.6 | Aragonés <softaragones@googlegroups.com> | 
+ | [evince](/f15/package/evince) | 920 | 1419 | 64.8 | Aragonese <softaragones@googlegroups.com> | 
+ | [file-roller](/f15/package/file-roller) | 470 | 1519 | 30.9 | Aragonese <softaragones@googlegroups.com> | 
+ | [gdm](/f15/package/gdm) | 241 | 1094 | 22.0 | Aragonese <softaragones@googlegroups.com> | 
+ | [NetworkManager](/f15/package/NetworkManager) | 502 | 2477 | 20.3 | Aragonese <softaragones@googlegroups.com> | 
+ | [transmission](/f15/package/transmission) | 217 | 1528 | 14.2 | Aragonese <an@li.org> | 
+ | [empathy](/f15/package/empathy) | 437 | 3620 | 12.1 | Aragonese <softaragones@googlegroups.com> | 
 {.sortable}
 
 

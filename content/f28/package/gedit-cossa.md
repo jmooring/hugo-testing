@@ -18,21 +18,21 @@ The package gedit-cossa (version 3.2.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f28/language/cs.md" >}}) | 101 | 101 | 100.0 | /mnt/stockage/packages/f28/gedit-cossa/po/cs.po | 
- | [da]({{< ref "/f28/language/da.md" >}}) | 101 | 101 | 100.0 | /mnt/stockage/packages/f28/gedit-cossa/po/da.po | 
- | [de]({{< ref "/f28/language/de.md" >}}) | 101 | 101 | 100.0 | /mnt/stockage/packages/f28/gedit-cossa/po/de.po | 
- | [es]({{< ref "/f28/language/es.md" >}}) | 101 | 101 | 100.0 | /mnt/stockage/packages/f28/gedit-cossa/po/es.po | 
- | [gl]({{< ref "/f28/language/gl.md" >}}) | 101 | 101 | 100.0 | /mnt/stockage/packages/f28/gedit-cossa/po/gl.po | 
- | [ja]({{< ref "/f28/language/ja.md" >}}) | 88 | 88 | 100.0 | /mnt/stockage/packages/f28/gedit-cossa/po/ja.po | 
- | [lv]({{< ref "/f28/language/lv.md" >}}) | 101 | 101 | 100.0 | /mnt/stockage/packages/f28/gedit-cossa/po/lv.po | 
- | [pl]({{< ref "/f28/language/pl.md" >}}) | 101 | 101 | 100.0 | /mnt/stockage/packages/f28/gedit-cossa/po/pl.po | 
- | [pt_BR]({{< ref "/f28/language/pt_BR.md" >}}) | 88 | 88 | 100.0 | /mnt/stockage/packages/f28/gedit-cossa/po/pt_BR.po | 
- | [ru]({{< ref "/f28/language/ru.md" >}}) | 88 | 88 | 100.0 | /mnt/stockage/packages/f28/gedit-cossa/po/ru.po | 
- | [sl]({{< ref "/f28/language/sl.md" >}}) | 101 | 101 | 100.0 | /mnt/stockage/packages/f28/gedit-cossa/po/sl.po | 
- | [th]({{< ref "/f28/language/th.md" >}}) | 101 | 101 | 100.0 | /mnt/stockage/packages/f28/gedit-cossa/po/th.po | 
- | [el]({{< ref "/f28/language/el.md" >}}) | 100 | 101 | 99.0 | /mnt/stockage/packages/f28/gedit-cossa/po/el.po | 
- | [sv]({{< ref "/f28/language/sv.md" >}}) | 37 | 101 | 36.6 | /mnt/stockage/packages/f28/gedit-cossa/po/sv.po | 
- | [nb_NO]({{< ref "/f28/language/nb_NO.md" >}}) | 35 | 101 | 34.7 | /mnt/stockage/packages/f28/gedit-cossa/po/nb.po | 
+ | [cs](/f28/language/cs) | 101 | 101 | 100.0 | /mnt/stockage/packages/f28/gedit-cossa/po/cs.po | 
+ | [da](/f28/language/da) | 101 | 101 | 100.0 | /mnt/stockage/packages/f28/gedit-cossa/po/da.po | 
+ | [de](/f28/language/de) | 101 | 101 | 100.0 | /mnt/stockage/packages/f28/gedit-cossa/po/de.po | 
+ | [es](/f28/language/es) | 101 | 101 | 100.0 | /mnt/stockage/packages/f28/gedit-cossa/po/es.po | 
+ | [gl](/f28/language/gl) | 101 | 101 | 100.0 | /mnt/stockage/packages/f28/gedit-cossa/po/gl.po | 
+ | [ja](/f28/language/ja) | 88 | 88 | 100.0 | /mnt/stockage/packages/f28/gedit-cossa/po/ja.po | 
+ | [lv](/f28/language/lv) | 101 | 101 | 100.0 | /mnt/stockage/packages/f28/gedit-cossa/po/lv.po | 
+ | [pl](/f28/language/pl) | 101 | 101 | 100.0 | /mnt/stockage/packages/f28/gedit-cossa/po/pl.po | 
+ | [pt_BR](/f28/language/pt_BR) | 88 | 88 | 100.0 | /mnt/stockage/packages/f28/gedit-cossa/po/pt_BR.po | 
+ | [ru](/f28/language/ru) | 88 | 88 | 100.0 | /mnt/stockage/packages/f28/gedit-cossa/po/ru.po | 
+ | [sl](/f28/language/sl) | 101 | 101 | 100.0 | /mnt/stockage/packages/f28/gedit-cossa/po/sl.po | 
+ | [th](/f28/language/th) | 101 | 101 | 100.0 | /mnt/stockage/packages/f28/gedit-cossa/po/th.po | 
+ | [el](/f28/language/el) | 100 | 101 | 99.0 | /mnt/stockage/packages/f28/gedit-cossa/po/el.po | 
+ | [sv](/f28/language/sv) | 37 | 101 | 36.6 | /mnt/stockage/packages/f28/gedit-cossa/po/sv.po | 
+ | [nb_NO](/f28/language/nb_NO) | 35 | 101 | 34.7 | /mnt/stockage/packages/f28/gedit-cossa/po/nb.po | 
 {.sortable}
 
 

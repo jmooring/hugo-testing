@@ -18,28 +18,28 @@ The package eiciel (version 0.9.12.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f30/language/ar.md" >}}) | 168 | 168 | 100.0 | /mnt/stockage/packages/f30/eiciel/po/ar.po | 
- | [ca]({{< ref "/f30/language/ca.md" >}}) | 168 | 168 | 100.0 | /mnt/stockage/packages/f30/eiciel/po/ca.po | 
- | [cs]({{< ref "/f30/language/cs.md" >}}) | 168 | 168 | 100.0 | /mnt/stockage/packages/f30/eiciel/po/cs.po | 
- | [de]({{< ref "/f30/language/de.md" >}}) | 168 | 168 | 100.0 | /mnt/stockage/packages/f30/eiciel/po/de.po | 
- | [es]({{< ref "/f30/language/es.md" >}}) | 168 | 168 | 100.0 | /mnt/stockage/packages/f30/eiciel/po/es.po | 
- | [fr]({{< ref "/f30/language/fr.md" >}}) | 168 | 168 | 100.0 | /mnt/stockage/packages/f30/eiciel/po/fr.po | 
- | [it]({{< ref "/f30/language/it.md" >}}) | 168 | 168 | 100.0 | /mnt/stockage/packages/f30/eiciel/po/it.po | 
- | [ja]({{< ref "/f30/language/ja.md" >}}) | 168 | 168 | 100.0 | /mnt/stockage/packages/f30/eiciel/po/ja.po | 
- | [nl]({{< ref "/f30/language/nl.md" >}}) | 168 | 168 | 100.0 | /mnt/stockage/packages/f30/eiciel/po/nl.po | 
- | [pl]({{< ref "/f30/language/pl.md" >}}) | 168 | 168 | 100.0 | /mnt/stockage/packages/f30/eiciel/po/pl.po | 
- | [pt_BR]({{< ref "/f30/language/pt_BR.md" >}}) | 168 | 168 | 100.0 | /mnt/stockage/packages/f30/eiciel/po/pt_BR.po | 
- | [ru]({{< ref "/f30/language/ru.md" >}}) | 168 | 168 | 100.0 | /mnt/stockage/packages/f30/eiciel/po/ru.po | 
- | [sv]({{< ref "/f30/language/sv.md" >}}) | 168 | 168 | 100.0 | /mnt/stockage/packages/f30/eiciel/po/sv.po | 
- | [uk]({{< ref "/f30/language/uk.md" >}}) | 168 | 168 | 100.0 | /mnt/stockage/packages/f30/eiciel/po/uk.po | 
- | [zh_Hans]({{< ref "/f30/language/zh_Hans.md" >}}) | 168 | 168 | 100.0 | /mnt/stockage/packages/f30/eiciel/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f30/language/zh_Hant.md" >}}) | 168 | 168 | 100.0 | /mnt/stockage/packages/f30/eiciel/po/zh_TW.po | 
- | [hu]({{< ref "/f30/language/hu.md" >}}) | 146 | 168 | 86.9 | /mnt/stockage/packages/f30/eiciel/po/hu.po | 
- | [ko]({{< ref "/f30/language/ko.md" >}}) | 146 | 168 | 86.9 | /mnt/stockage/packages/f30/eiciel/po/ko.po | 
- | [da]({{< ref "/f30/language/da.md" >}}) | 58 | 168 | 34.5 | /mnt/stockage/packages/f30/eiciel/po/da.po | 
- | [en_GB]({{< ref "/f30/language/en_GB.md" >}}) | 9 | 168 | 5.4 | /mnt/stockage/packages/f30/eiciel/po/en_GB.po | 
- | [en_US]({{< ref "/f30/language/en_US.md" >}}) | 3 | 168 | 1.8 | /mnt/stockage/packages/f30/eiciel/po/en_US.po | 
- | [nn]({{< ref "/f30/language/nn.md" >}}) | 0 | 168 | 0.0 | /mnt/stockage/packages/f30/eiciel/po/nn.po | 
+ | [ar](/f30/language/ar) | 168 | 168 | 100.0 | /mnt/stockage/packages/f30/eiciel/po/ar.po | 
+ | [ca](/f30/language/ca) | 168 | 168 | 100.0 | /mnt/stockage/packages/f30/eiciel/po/ca.po | 
+ | [cs](/f30/language/cs) | 168 | 168 | 100.0 | /mnt/stockage/packages/f30/eiciel/po/cs.po | 
+ | [de](/f30/language/de) | 168 | 168 | 100.0 | /mnt/stockage/packages/f30/eiciel/po/de.po | 
+ | [es](/f30/language/es) | 168 | 168 | 100.0 | /mnt/stockage/packages/f30/eiciel/po/es.po | 
+ | [fr](/f30/language/fr) | 168 | 168 | 100.0 | /mnt/stockage/packages/f30/eiciel/po/fr.po | 
+ | [it](/f30/language/it) | 168 | 168 | 100.0 | /mnt/stockage/packages/f30/eiciel/po/it.po | 
+ | [ja](/f30/language/ja) | 168 | 168 | 100.0 | /mnt/stockage/packages/f30/eiciel/po/ja.po | 
+ | [nl](/f30/language/nl) | 168 | 168 | 100.0 | /mnt/stockage/packages/f30/eiciel/po/nl.po | 
+ | [pl](/f30/language/pl) | 168 | 168 | 100.0 | /mnt/stockage/packages/f30/eiciel/po/pl.po | 
+ | [pt_BR](/f30/language/pt_BR) | 168 | 168 | 100.0 | /mnt/stockage/packages/f30/eiciel/po/pt_BR.po | 
+ | [ru](/f30/language/ru) | 168 | 168 | 100.0 | /mnt/stockage/packages/f30/eiciel/po/ru.po | 
+ | [sv](/f30/language/sv) | 168 | 168 | 100.0 | /mnt/stockage/packages/f30/eiciel/po/sv.po | 
+ | [uk](/f30/language/uk) | 168 | 168 | 100.0 | /mnt/stockage/packages/f30/eiciel/po/uk.po | 
+ | [zh_Hans](/f30/language/zh_Hans) | 168 | 168 | 100.0 | /mnt/stockage/packages/f30/eiciel/po/zh_CN.po | 
+ | [zh_Hant](/f30/language/zh_Hant) | 168 | 168 | 100.0 | /mnt/stockage/packages/f30/eiciel/po/zh_TW.po | 
+ | [hu](/f30/language/hu) | 146 | 168 | 86.9 | /mnt/stockage/packages/f30/eiciel/po/hu.po | 
+ | [ko](/f30/language/ko) | 146 | 168 | 86.9 | /mnt/stockage/packages/f30/eiciel/po/ko.po | 
+ | [da](/f30/language/da) | 58 | 168 | 34.5 | /mnt/stockage/packages/f30/eiciel/po/da.po | 
+ | [en_GB](/f30/language/en_GB) | 9 | 168 | 5.4 | /mnt/stockage/packages/f30/eiciel/po/en_GB.po | 
+ | [en_US](/f30/language/en_US) | 3 | 168 | 1.8 | /mnt/stockage/packages/f30/eiciel/po/en_US.po | 
+ | [nn](/f30/language/nn) | 0 | 168 | 0.0 | /mnt/stockage/packages/f30/eiciel/po/nn.po | 
 {.sortable}
 
 

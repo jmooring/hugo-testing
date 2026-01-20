@@ -18,23 +18,23 @@ The package fwupd (version 0.7.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [hu]({{< ref "/f23/language/hu.md" >}}) | 428 | 429 | 99.8 | /mnt/stockage/packages/f23/fwupd/po/hu.po | 
- | [pl]({{< ref "/f23/language/pl.md" >}}) | 428 | 429 | 99.8 | /mnt/stockage/packages/f23/fwupd/po/pl.po | 
- | [ru]({{< ref "/f23/language/ru.md" >}}) | 428 | 429 | 99.8 | /mnt/stockage/packages/f23/fwupd/po/ru.po | 
- | [sk]({{< ref "/f23/language/sk.md" >}}) | 428 | 429 | 99.8 | /mnt/stockage/packages/f23/fwupd/po/sk.po | 
- | [uk]({{< ref "/f23/language/uk.md" >}}) | 428 | 429 | 99.8 | /mnt/stockage/packages/f23/fwupd/po/uk.po | 
- | [zh_Hans]({{< ref "/f23/language/zh_Hans.md" >}}) | 428 | 429 | 99.8 | /mnt/stockage/packages/f23/fwupd/po/zh_CN.po | 
- | [cs]({{< ref "/f23/language/cs.md" >}}) | 403 | 429 | 93.9 | /mnt/stockage/packages/f23/fwupd/po/cs.po | 
- | [nl]({{< ref "/f23/language/nl.md" >}}) | 403 | 429 | 93.9 | /mnt/stockage/packages/f23/fwupd/po/nl_NL.po | 
- | [pt_BR]({{< ref "/f23/language/pt_BR.md" >}}) | 403 | 429 | 93.9 | /mnt/stockage/packages/f23/fwupd/po/pt_BR.po | 
- | [sr]({{< ref "/f23/language/sr.md" >}}) | 403 | 429 | 93.9 | /mnt/stockage/packages/f23/fwupd/po/sr.po | 
- | [de]({{< ref "/f23/language/de.md" >}}) | 384 | 429 | 89.5 | /mnt/stockage/packages/f23/fwupd/po/de.po | 
- | [en_GB]({{< ref "/f23/language/en_GB.md" >}}) | 384 | 429 | 89.5 | /mnt/stockage/packages/f23/fwupd/po/en_GB.po | 
- | [sv]({{< ref "/f23/language/sv.md" >}}) | 189 | 429 | 44.1 | /mnt/stockage/packages/f23/fwupd/po/sv.po | 
- | [oc]({{< ref "/f23/language/oc.md" >}}) | 121 | 429 | 28.2 | /mnt/stockage/packages/f23/fwupd/po/oc.po | 
- | [he]({{< ref "/f23/language/he.md" >}}) | 120 | 429 | 28.0 | /mnt/stockage/packages/f23/fwupd/po/he.po | 
- | [fr]({{< ref "/f23/language/fr.md" >}}) | 109 | 429 | 25.4 | /mnt/stockage/packages/f23/fwupd/po/fr.po | 
- | [hi]({{< ref "/f23/language/hi.md" >}}) | 109 | 429 | 25.4 | /mnt/stockage/packages/f23/fwupd/po/hi_IN.po | 
+ | [hu](/f23/language/hu) | 428 | 429 | 99.8 | /mnt/stockage/packages/f23/fwupd/po/hu.po | 
+ | [pl](/f23/language/pl) | 428 | 429 | 99.8 | /mnt/stockage/packages/f23/fwupd/po/pl.po | 
+ | [ru](/f23/language/ru) | 428 | 429 | 99.8 | /mnt/stockage/packages/f23/fwupd/po/ru.po | 
+ | [sk](/f23/language/sk) | 428 | 429 | 99.8 | /mnt/stockage/packages/f23/fwupd/po/sk.po | 
+ | [uk](/f23/language/uk) | 428 | 429 | 99.8 | /mnt/stockage/packages/f23/fwupd/po/uk.po | 
+ | [zh_Hans](/f23/language/zh_Hans) | 428 | 429 | 99.8 | /mnt/stockage/packages/f23/fwupd/po/zh_CN.po | 
+ | [cs](/f23/language/cs) | 403 | 429 | 93.9 | /mnt/stockage/packages/f23/fwupd/po/cs.po | 
+ | [nl](/f23/language/nl) | 403 | 429 | 93.9 | /mnt/stockage/packages/f23/fwupd/po/nl_NL.po | 
+ | [pt_BR](/f23/language/pt_BR) | 403 | 429 | 93.9 | /mnt/stockage/packages/f23/fwupd/po/pt_BR.po | 
+ | [sr](/f23/language/sr) | 403 | 429 | 93.9 | /mnt/stockage/packages/f23/fwupd/po/sr.po | 
+ | [de](/f23/language/de) | 384 | 429 | 89.5 | /mnt/stockage/packages/f23/fwupd/po/de.po | 
+ | [en_GB](/f23/language/en_GB) | 384 | 429 | 89.5 | /mnt/stockage/packages/f23/fwupd/po/en_GB.po | 
+ | [sv](/f23/language/sv) | 189 | 429 | 44.1 | /mnt/stockage/packages/f23/fwupd/po/sv.po | 
+ | [oc](/f23/language/oc) | 121 | 429 | 28.2 | /mnt/stockage/packages/f23/fwupd/po/oc.po | 
+ | [he](/f23/language/he) | 120 | 429 | 28.0 | /mnt/stockage/packages/f23/fwupd/po/he.po | 
+ | [fr](/f23/language/fr) | 109 | 429 | 25.4 | /mnt/stockage/packages/f23/fwupd/po/fr.po | 
+ | [hi](/f23/language/hi) | 109 | 429 | 25.4 | /mnt/stockage/packages/f23/fwupd/po/hi_IN.po | 
 {.sortable}
 
 

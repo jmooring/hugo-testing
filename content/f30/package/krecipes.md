@@ -18,36 +18,36 @@ The package krecipes (version 2.1.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [bs]({{< ref "/f30/language/bs.md" >}}) | 3646 | 3646 | 100.0 | /mnt/stockage/packages/f30/krecipes/po/bs/krecipes.po | 
- | [ca]({{< ref "/f30/language/ca.md" >}}) | 3646 | 3646 | 100.0 | /mnt/stockage/packages/f30/krecipes/po/ca/krecipes.po | 
- | [da]({{< ref "/f30/language/da.md" >}}) | 3646 | 3646 | 100.0 | /mnt/stockage/packages/f30/krecipes/po/da/krecipes.po | 
- | [de]({{< ref "/f30/language/de.md" >}}) | 3646 | 3646 | 100.0 | /mnt/stockage/packages/f30/krecipes/po/de/krecipes.po | 
- | [en_GB]({{< ref "/f30/language/en_GB.md" >}}) | 3646 | 3646 | 100.0 | /mnt/stockage/packages/f30/krecipes/po/en_GB/krecipes.po | 
- | [es]({{< ref "/f30/language/es.md" >}}) | 3646 | 3646 | 100.0 | /mnt/stockage/packages/f30/krecipes/po/es/krecipes.po | 
- | [fi]({{< ref "/f30/language/fi.md" >}}) | 3646 | 3646 | 100.0 | /mnt/stockage/packages/f30/krecipes/po/fi/krecipes.po | 
- | [it]({{< ref "/f30/language/it.md" >}}) | 3646 | 3646 | 100.0 | /mnt/stockage/packages/f30/krecipes/po/it/krecipes.po | 
- | [nl]({{< ref "/f30/language/nl.md" >}}) | 3646 | 3646 | 100.0 | /mnt/stockage/packages/f30/krecipes/po/nl/krecipes.po | 
- | [pl]({{< ref "/f30/language/pl.md" >}}) | 3646 | 3646 | 100.0 | /mnt/stockage/packages/f30/krecipes/po/pl/krecipes.po | 
- | [pt]({{< ref "/f30/language/pt.md" >}}) | 3646 | 3646 | 100.0 | /mnt/stockage/packages/f30/krecipes/po/pt/krecipes.po | 
- | [pt_BR]({{< ref "/f30/language/pt_BR.md" >}}) | 3646 | 3646 | 100.0 | /mnt/stockage/packages/f30/krecipes/po/pt_BR/krecipes.po | 
- | [ru]({{< ref "/f30/language/ru.md" >}}) | 3646 | 3646 | 100.0 | /mnt/stockage/packages/f30/krecipes/po/ru/krecipes.po | 
- | [sk]({{< ref "/f30/language/sk.md" >}}) | 3646 | 3646 | 100.0 | /mnt/stockage/packages/f30/krecipes/po/sk/krecipes.po | 
- | [sl]({{< ref "/f30/language/sl.md" >}}) | 3646 | 3646 | 100.0 | /mnt/stockage/packages/f30/krecipes/po/sl/krecipes.po | 
- | [sv]({{< ref "/f30/language/sv.md" >}}) | 3646 | 3646 | 100.0 | /mnt/stockage/packages/f30/krecipes/po/sv/krecipes.po | 
- | [uk]({{< ref "/f30/language/uk.md" >}}) | 3646 | 3646 | 100.0 | /mnt/stockage/packages/f30/krecipes/po/uk/krecipes.po | 
- | [el]({{< ref "/f30/language/el.md" >}}) | 3633 | 3646 | 99.6 | /mnt/stockage/packages/f30/krecipes/po/el/krecipes.po | 
- | [et]({{< ref "/f30/language/et.md" >}}) | 3633 | 3646 | 99.6 | /mnt/stockage/packages/f30/krecipes/po/et/krecipes.po | 
- | [fr]({{< ref "/f30/language/fr.md" >}}) | 3633 | 3646 | 99.6 | /mnt/stockage/packages/f30/krecipes/po/fr/krecipes.po | 
- | [gl]({{< ref "/f30/language/gl.md" >}}) | 3633 | 3646 | 99.6 | /mnt/stockage/packages/f30/krecipes/po/gl/krecipes.po | 
- | [hu]({{< ref "/f30/language/hu.md" >}}) | 3633 | 3646 | 99.6 | /mnt/stockage/packages/f30/krecipes/po/hu/krecipes.po | 
- | [nb_NO]({{< ref "/f30/language/nb_NO.md" >}}) | 3633 | 3646 | 99.6 | /mnt/stockage/packages/f30/krecipes/po/nb/krecipes.po | 
- | [nds]({{< ref "/f30/language/nds.md" >}}) | 3633 | 3646 | 99.6 | /mnt/stockage/packages/f30/krecipes/po/nds/krecipes.po | 
- | [tr]({{< ref "/f30/language/tr.md" >}}) | 3633 | 3646 | 99.6 | /mnt/stockage/packages/f30/krecipes/po/tr/krecipes.po | 
- | [zh_Hant]({{< ref "/f30/language/zh_Hant.md" >}}) | 3633 | 3646 | 99.6 | /mnt/stockage/packages/f30/krecipes/po/zh_TW/krecipes.po | 
- | [kk]({{< ref "/f30/language/kk.md" >}}) | 3555 | 3646 | 97.5 | /mnt/stockage/packages/f30/krecipes/po/kk/krecipes.po | 
- | [ca@valencia]({{< ref "/f30/language/ca@valencia.md" >}}) | 3534 | 3646 | 96.9 | /mnt/stockage/packages/f30/krecipes/po/ca@valencia/krecipes.po | 
- | [ja]({{< ref "/f30/language/ja.md" >}}) | 3388 | 3646 | 92.9 | /mnt/stockage/packages/f30/krecipes/po/ja/krecipes.po | 
- | [cs]({{< ref "/f30/language/cs.md" >}}) | 2504 | 3646 | 68.7 | /mnt/stockage/packages/f30/krecipes/po/cs/krecipes.po | 
+ | [bs](/f30/language/bs) | 3646 | 3646 | 100.0 | /mnt/stockage/packages/f30/krecipes/po/bs/krecipes.po | 
+ | [ca](/f30/language/ca) | 3646 | 3646 | 100.0 | /mnt/stockage/packages/f30/krecipes/po/ca/krecipes.po | 
+ | [da](/f30/language/da) | 3646 | 3646 | 100.0 | /mnt/stockage/packages/f30/krecipes/po/da/krecipes.po | 
+ | [de](/f30/language/de) | 3646 | 3646 | 100.0 | /mnt/stockage/packages/f30/krecipes/po/de/krecipes.po | 
+ | [en_GB](/f30/language/en_GB) | 3646 | 3646 | 100.0 | /mnt/stockage/packages/f30/krecipes/po/en_GB/krecipes.po | 
+ | [es](/f30/language/es) | 3646 | 3646 | 100.0 | /mnt/stockage/packages/f30/krecipes/po/es/krecipes.po | 
+ | [fi](/f30/language/fi) | 3646 | 3646 | 100.0 | /mnt/stockage/packages/f30/krecipes/po/fi/krecipes.po | 
+ | [it](/f30/language/it) | 3646 | 3646 | 100.0 | /mnt/stockage/packages/f30/krecipes/po/it/krecipes.po | 
+ | [nl](/f30/language/nl) | 3646 | 3646 | 100.0 | /mnt/stockage/packages/f30/krecipes/po/nl/krecipes.po | 
+ | [pl](/f30/language/pl) | 3646 | 3646 | 100.0 | /mnt/stockage/packages/f30/krecipes/po/pl/krecipes.po | 
+ | [pt](/f30/language/pt) | 3646 | 3646 | 100.0 | /mnt/stockage/packages/f30/krecipes/po/pt/krecipes.po | 
+ | [pt_BR](/f30/language/pt_BR) | 3646 | 3646 | 100.0 | /mnt/stockage/packages/f30/krecipes/po/pt_BR/krecipes.po | 
+ | [ru](/f30/language/ru) | 3646 | 3646 | 100.0 | /mnt/stockage/packages/f30/krecipes/po/ru/krecipes.po | 
+ | [sk](/f30/language/sk) | 3646 | 3646 | 100.0 | /mnt/stockage/packages/f30/krecipes/po/sk/krecipes.po | 
+ | [sl](/f30/language/sl) | 3646 | 3646 | 100.0 | /mnt/stockage/packages/f30/krecipes/po/sl/krecipes.po | 
+ | [sv](/f30/language/sv) | 3646 | 3646 | 100.0 | /mnt/stockage/packages/f30/krecipes/po/sv/krecipes.po | 
+ | [uk](/f30/language/uk) | 3646 | 3646 | 100.0 | /mnt/stockage/packages/f30/krecipes/po/uk/krecipes.po | 
+ | [el](/f30/language/el) | 3633 | 3646 | 99.6 | /mnt/stockage/packages/f30/krecipes/po/el/krecipes.po | 
+ | [et](/f30/language/et) | 3633 | 3646 | 99.6 | /mnt/stockage/packages/f30/krecipes/po/et/krecipes.po | 
+ | [fr](/f30/language/fr) | 3633 | 3646 | 99.6 | /mnt/stockage/packages/f30/krecipes/po/fr/krecipes.po | 
+ | [gl](/f30/language/gl) | 3633 | 3646 | 99.6 | /mnt/stockage/packages/f30/krecipes/po/gl/krecipes.po | 
+ | [hu](/f30/language/hu) | 3633 | 3646 | 99.6 | /mnt/stockage/packages/f30/krecipes/po/hu/krecipes.po | 
+ | [nb_NO](/f30/language/nb_NO) | 3633 | 3646 | 99.6 | /mnt/stockage/packages/f30/krecipes/po/nb/krecipes.po | 
+ | [nds](/f30/language/nds) | 3633 | 3646 | 99.6 | /mnt/stockage/packages/f30/krecipes/po/nds/krecipes.po | 
+ | [tr](/f30/language/tr) | 3633 | 3646 | 99.6 | /mnt/stockage/packages/f30/krecipes/po/tr/krecipes.po | 
+ | [zh_Hant](/f30/language/zh_Hant) | 3633 | 3646 | 99.6 | /mnt/stockage/packages/f30/krecipes/po/zh_TW/krecipes.po | 
+ | [kk](/f30/language/kk) | 3555 | 3646 | 97.5 | /mnt/stockage/packages/f30/krecipes/po/kk/krecipes.po | 
+ | [ca@valencia](/f30/language/ca@valencia) | 3534 | 3646 | 96.9 | /mnt/stockage/packages/f30/krecipes/po/ca@valencia/krecipes.po | 
+ | [ja](/f30/language/ja) | 3388 | 3646 | 92.9 | /mnt/stockage/packages/f30/krecipes/po/ja/krecipes.po | 
+ | [cs](/f30/language/cs) | 2504 | 3646 | 68.7 | /mnt/stockage/packages/f30/krecipes/po/cs/krecipes.po | 
 {.sortable}
 
 

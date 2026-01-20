@@ -18,12 +18,12 @@ The package kubernetes (version 1.10.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [en]({{< ref "/f27/language/en.md" >}}) | 13598 | 13598 | 100.0 | /mnt/stockage/packages/f27/kubernetes/translations/kubectl/en_US/LC_MESSAGES/k8s.po/mnt/stockage/packages/f27/kubernetes/translations/kubectl/default/LC_MESSAGES/k8s.po/mnt/stockage/packages/f27/kubernetes/translations/test/en_US/LC_MESSAGES/k8s.po/mnt/stockage/packages/f27/kubernetes/translations/test/default/LC_MESSAGES/k8s.po | 
- | [fr]({{< ref "/f27/language/fr.md" >}}) | 125 | 125 | 100.0 | /mnt/stockage/packages/f27/kubernetes/translations/kubectl/fr_FR/LC_MESSAGES/k8s.po | 
- | [it]({{< ref "/f27/language/it.md" >}}) | 6796 | 6796 | 100.0 | /mnt/stockage/packages/f27/kubernetes/translations/kubectl/it_IT/LC_MESSAGES/k8s.po | 
- | [ja]({{< ref "/f27/language/ja.md" >}}) | 125 | 125 | 100.0 | /mnt/stockage/packages/f27/kubernetes/translations/kubectl/ja_JP/LC_MESSAGES/k8s.po | 
- | [zh_Hans]({{< ref "/f27/language/zh_Hans.md" >}}) | 6879 | 6879 | 100.0 | /mnt/stockage/packages/f27/kubernetes/translations/kubectl/zh_TW/LC_MESSAGES/k8s.po/mnt/stockage/packages/f27/kubernetes/translations/kubectl/zh_CN/LC_MESSAGES/k8s.po | 
- | [de]({{< ref "/f27/language/de.md" >}}) | 5965 | 6796 | 87.8 | /mnt/stockage/packages/f27/kubernetes/translations/kubectl/de_DE/LC_MESSAGES/k8s.po | 
+ | [en](/f27/language/en) | 13598 | 13598 | 100.0 | /mnt/stockage/packages/f27/kubernetes/translations/kubectl/en_US/LC_MESSAGES/k8s.po/mnt/stockage/packages/f27/kubernetes/translations/kubectl/default/LC_MESSAGES/k8s.po/mnt/stockage/packages/f27/kubernetes/translations/test/en_US/LC_MESSAGES/k8s.po/mnt/stockage/packages/f27/kubernetes/translations/test/default/LC_MESSAGES/k8s.po | 
+ | [fr](/f27/language/fr) | 125 | 125 | 100.0 | /mnt/stockage/packages/f27/kubernetes/translations/kubectl/fr_FR/LC_MESSAGES/k8s.po | 
+ | [it](/f27/language/it) | 6796 | 6796 | 100.0 | /mnt/stockage/packages/f27/kubernetes/translations/kubectl/it_IT/LC_MESSAGES/k8s.po | 
+ | [ja](/f27/language/ja) | 125 | 125 | 100.0 | /mnt/stockage/packages/f27/kubernetes/translations/kubectl/ja_JP/LC_MESSAGES/k8s.po | 
+ | [zh_Hans](/f27/language/zh_Hans) | 6879 | 6879 | 100.0 | /mnt/stockage/packages/f27/kubernetes/translations/kubectl/zh_TW/LC_MESSAGES/k8s.po/mnt/stockage/packages/f27/kubernetes/translations/kubectl/zh_CN/LC_MESSAGES/k8s.po | 
+ | [de](/f27/language/de) | 5965 | 6796 | 87.8 | /mnt/stockage/packages/f27/kubernetes/translations/kubectl/de_DE/LC_MESSAGES/k8s.po | 
 {.sortable}
 
 

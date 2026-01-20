@@ -18,8 +18,8 @@ The package lvm2 (version 2.02.24):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f7/language/de.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f7/lvm2/po/de.po | 
- | [error]({{< ref "/f7/language/error.md" >}}) | 0 | 8477 | 0.0 | /mnt/stockage/packages/f7/lvm2/po/lvm2.po | 
+ | [de](/f7/language/de) | 0 | 0 | 0.0 | /mnt/stockage/packages/f7/lvm2/po/de.po | 
+ | [error](/f7/language/error) | 0 | 8477 | 0.0 | /mnt/stockage/packages/f7/lvm2/po/lvm2.po | 
 {.sortable}
 
 

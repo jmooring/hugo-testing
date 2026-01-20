@@ -18,8 +18,8 @@ The package tre (version 0.7.6):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fi]({{< ref "/f11/language/fi.md" >}}) | 429 | 429 | 100.0 | /mnt/stockage/packages/f11/tre/po/fi.po | 
- | [sv]({{< ref "/f11/language/sv.md" >}}) | 424 | 429 | 98.8 | /mnt/stockage/packages/f11/tre/po/sv.po | 
+ | [fi](/f11/language/fi) | 429 | 429 | 100.0 | /mnt/stockage/packages/f11/tre/po/fi.po | 
+ | [sv](/f11/language/sv) | 424 | 429 | 98.8 | /mnt/stockage/packages/f11/tre/po/sv.po | 
 {.sortable}
 
 

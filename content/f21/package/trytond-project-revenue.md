@@ -18,16 +18,16 @@ The package trytond-project-revenue (version 2.6.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [bg]({{< ref "/f21/language/bg.md" >}}) | 63 | 63 | 100.0 | /mnt/stockage/packages/f21/trytond-project-revenue/locale/bg_BG.po | 
- | [de]({{< ref "/f21/language/de.md" >}}) | 64 | 64 | 100.0 | /mnt/stockage/packages/f21/trytond-project-revenue/locale/de_DE.po | 
- | [es]({{< ref "/f21/language/es.md" >}}) | 64 | 64 | 100.0 | /mnt/stockage/packages/f21/trytond-project-revenue/locale/es_ES.po | 
- | [es_AR]({{< ref "/f21/language/es_AR.md" >}}) | 64 | 64 | 100.0 | /mnt/stockage/packages/f21/trytond-project-revenue/locale/es_AR.po | 
- | [es_CO]({{< ref "/f21/language/es_CO.md" >}}) | 64 | 64 | 100.0 | /mnt/stockage/packages/f21/trytond-project-revenue/locale/es_CO.po | 
- | [fr]({{< ref "/f21/language/fr.md" >}}) | 64 | 64 | 100.0 | /mnt/stockage/packages/f21/trytond-project-revenue/locale/fr_FR.po | 
- | [ca]({{< ref "/f21/language/ca.md" >}}) | 62 | 64 | 96.9 | /mnt/stockage/packages/f21/trytond-project-revenue/locale/ca_ES.po | 
- | [cs]({{< ref "/f21/language/cs.md" >}}) | 0 | 61 | 0.0 | /mnt/stockage/packages/f21/trytond-project-revenue/locale/cs_CZ.po | 
- | [nl]({{< ref "/f21/language/nl.md" >}}) | 0 | 61 | 0.0 | /mnt/stockage/packages/f21/trytond-project-revenue/locale/nl_NL.po | 
- | [ru]({{< ref "/f21/language/ru.md" >}}) | 0 | 61 | 0.0 | /mnt/stockage/packages/f21/trytond-project-revenue/locale/ru_RU.po | 
+ | [bg](/f21/language/bg) | 63 | 63 | 100.0 | /mnt/stockage/packages/f21/trytond-project-revenue/locale/bg_BG.po | 
+ | [de](/f21/language/de) | 64 | 64 | 100.0 | /mnt/stockage/packages/f21/trytond-project-revenue/locale/de_DE.po | 
+ | [es](/f21/language/es) | 64 | 64 | 100.0 | /mnt/stockage/packages/f21/trytond-project-revenue/locale/es_ES.po | 
+ | [es_AR](/f21/language/es_AR) | 64 | 64 | 100.0 | /mnt/stockage/packages/f21/trytond-project-revenue/locale/es_AR.po | 
+ | [es_CO](/f21/language/es_CO) | 64 | 64 | 100.0 | /mnt/stockage/packages/f21/trytond-project-revenue/locale/es_CO.po | 
+ | [fr](/f21/language/fr) | 64 | 64 | 100.0 | /mnt/stockage/packages/f21/trytond-project-revenue/locale/fr_FR.po | 
+ | [ca](/f21/language/ca) | 62 | 64 | 96.9 | /mnt/stockage/packages/f21/trytond-project-revenue/locale/ca_ES.po | 
+ | [cs](/f21/language/cs) | 0 | 61 | 0.0 | /mnt/stockage/packages/f21/trytond-project-revenue/locale/cs_CZ.po | 
+ | [nl](/f21/language/nl) | 0 | 61 | 0.0 | /mnt/stockage/packages/f21/trytond-project-revenue/locale/nl_NL.po | 
+ | [ru](/f21/language/ru) | 0 | 61 | 0.0 | /mnt/stockage/packages/f21/trytond-project-revenue/locale/ru_RU.po | 
 {.sortable}
 
 

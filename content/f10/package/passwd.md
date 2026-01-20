@@ -18,71 +18,71 @@ The package passwd (version 0.75):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [as]({{< ref "/f10/language/as.md" >}}) | 291 | 291 | 100.0 | /mnt/stockage/packages/f10/passwd/po/as.po | 
- | [bg]({{< ref "/f10/language/bg.md" >}}) | 291 | 291 | 100.0 | /mnt/stockage/packages/f10/passwd/po/bg.po | 
- | [bn_IN]({{< ref "/f10/language/bn_IN.md" >}}) | 291 | 291 | 100.0 | /mnt/stockage/packages/f10/passwd/po/bn_IN.po | 
- | [bs]({{< ref "/f10/language/bs.md" >}}) | 291 | 291 | 100.0 | /mnt/stockage/packages/f10/passwd/po/bs.po | 
- | [ca]({{< ref "/f10/language/ca.md" >}}) | 291 | 291 | 100.0 | /mnt/stockage/packages/f10/passwd/po/ca.po | 
- | [cs]({{< ref "/f10/language/cs.md" >}}) | 291 | 291 | 100.0 | /mnt/stockage/packages/f10/passwd/po/cs.po | 
- | [da]({{< ref "/f10/language/da.md" >}}) | 291 | 291 | 100.0 | /mnt/stockage/packages/f10/passwd/po/da.po | 
- | [de]({{< ref "/f10/language/de.md" >}}) | 291 | 291 | 100.0 | /mnt/stockage/packages/f10/passwd/po/de.po | 
- | [es]({{< ref "/f10/language/es.md" >}}) | 291 | 291 | 100.0 | /mnt/stockage/packages/f10/passwd/po/es.po | 
- | [fi]({{< ref "/f10/language/fi.md" >}}) | 291 | 291 | 100.0 | /mnt/stockage/packages/f10/passwd/po/fi.po | 
- | [fr]({{< ref "/f10/language/fr.md" >}}) | 291 | 291 | 100.0 | /mnt/stockage/packages/f10/passwd/po/fr.po | 
- | [gu]({{< ref "/f10/language/gu.md" >}}) | 291 | 291 | 100.0 | /mnt/stockage/packages/f10/passwd/po/gu.po | 
- | [hi]({{< ref "/f10/language/hi.md" >}}) | 291 | 291 | 100.0 | /mnt/stockage/packages/f10/passwd/po/hi.po | 
- | [hr]({{< ref "/f10/language/hr.md" >}}) | 291 | 291 | 100.0 | /mnt/stockage/packages/f10/passwd/po/hr.po | 
- | [hu]({{< ref "/f10/language/hu.md" >}}) | 291 | 291 | 100.0 | /mnt/stockage/packages/f10/passwd/po/hu.po | 
- | [it]({{< ref "/f10/language/it.md" >}}) | 291 | 291 | 100.0 | /mnt/stockage/packages/f10/passwd/po/it.po | 
- | [ja]({{< ref "/f10/language/ja.md" >}}) | 291 | 291 | 100.0 | /mnt/stockage/packages/f10/passwd/po/ja.po | 
- | [kn]({{< ref "/f10/language/kn.md" >}}) | 291 | 291 | 100.0 | /mnt/stockage/packages/f10/passwd/po/kn.po | 
- | [ko]({{< ref "/f10/language/ko.md" >}}) | 291 | 291 | 100.0 | /mnt/stockage/packages/f10/passwd/po/ko.po | 
- | [mk]({{< ref "/f10/language/mk.md" >}}) | 291 | 291 | 100.0 | /mnt/stockage/packages/f10/passwd/po/mk.po | 
- | [ml]({{< ref "/f10/language/ml.md" >}}) | 291 | 291 | 100.0 | /mnt/stockage/packages/f10/passwd/po/ml.po | 
- | [mr]({{< ref "/f10/language/mr.md" >}}) | 291 | 291 | 100.0 | /mnt/stockage/packages/f10/passwd/po/mr.po | 
- | [nl]({{< ref "/f10/language/nl.md" >}}) | 291 | 291 | 100.0 | /mnt/stockage/packages/f10/passwd/po/nl.po | 
- | [or]({{< ref "/f10/language/or.md" >}}) | 291 | 291 | 100.0 | /mnt/stockage/packages/f10/passwd/po/or.po | 
- | [pa]({{< ref "/f10/language/pa.md" >}}) | 291 | 291 | 100.0 | /mnt/stockage/packages/f10/passwd/po/pa.po | 
- | [pl]({{< ref "/f10/language/pl.md" >}}) | 291 | 291 | 100.0 | /mnt/stockage/packages/f10/passwd/po/pl.po | 
- | [pt]({{< ref "/f10/language/pt.md" >}}) | 291 | 291 | 100.0 | /mnt/stockage/packages/f10/passwd/po/pt.po | 
- | [pt_BR]({{< ref "/f10/language/pt_BR.md" >}}) | 291 | 291 | 100.0 | /mnt/stockage/packages/f10/passwd/po/pt_BR.po | 
- | [ro]({{< ref "/f10/language/ro.md" >}}) | 291 | 291 | 100.0 | /mnt/stockage/packages/f10/passwd/po/ro.po | 
- | [ru]({{< ref "/f10/language/ru.md" >}}) | 291 | 291 | 100.0 | /mnt/stockage/packages/f10/passwd/po/ru.po | 
- | [sk]({{< ref "/f10/language/sk.md" >}}) | 291 | 291 | 100.0 | /mnt/stockage/packages/f10/passwd/po/sk.po | 
- | [sl]({{< ref "/f10/language/sl.md" >}}) | 291 | 291 | 100.0 | /mnt/stockage/packages/f10/passwd/po/sl.po | 
- | [sr]({{< ref "/f10/language/sr.md" >}}) | 291 | 291 | 100.0 | /mnt/stockage/packages/f10/passwd/po/sr.po | 
- | [sr_Latn]({{< ref "/f10/language/sr_Latn.md" >}}) | 291 | 291 | 100.0 | /mnt/stockage/packages/f10/passwd/po/sr@latin.po | 
- | [sv]({{< ref "/f10/language/sv.md" >}}) | 291 | 291 | 100.0 | /mnt/stockage/packages/f10/passwd/po/sv.po | 
- | [ta]({{< ref "/f10/language/ta.md" >}}) | 291 | 291 | 100.0 | /mnt/stockage/packages/f10/passwd/po/ta.po | 
- | [te]({{< ref "/f10/language/te.md" >}}) | 291 | 291 | 100.0 | /mnt/stockage/packages/f10/passwd/po/te.po | 
- | [uk]({{< ref "/f10/language/uk.md" >}}) | 291 | 291 | 100.0 | /mnt/stockage/packages/f10/passwd/po/uk.po | 
- | [zh_Hans]({{< ref "/f10/language/zh_Hans.md" >}}) | 291 | 291 | 100.0 | /mnt/stockage/packages/f10/passwd/po/zh_CN.po | 
- | [ms]({{< ref "/f10/language/ms.md" >}}) | 236 | 291 | 81.1 | /mnt/stockage/packages/f10/passwd/po/ms.po | 
- | [nb_NO]({{< ref "/f10/language/nb_NO.md" >}}) | 182 | 291 | 62.5 | /mnt/stockage/packages/f10/passwd/po/nb.po | 
- | [en_GB]({{< ref "/f10/language/en_GB.md" >}}) | 155 | 291 | 53.3 | /mnt/stockage/packages/f10/passwd/po/en_GB.po | 
- | [ka]({{< ref "/f10/language/ka.md" >}}) | 89 | 291 | 30.6 | /mnt/stockage/packages/f10/passwd/po/ka.po | 
- | [is]({{< ref "/f10/language/is.md" >}}) | 44 | 291 | 15.1 | /mnt/stockage/packages/f10/passwd/po/is.po | 
- | [id]({{< ref "/f10/language/id.md" >}}) | 26 | 291 | 8.9 | /mnt/stockage/packages/f10/passwd/po/id.po | 
- | [ar]({{< ref "/f10/language/ar.md" >}}) | 0 | 291 | 0.0 | /mnt/stockage/packages/f10/passwd/po/ar.po | 
- | [bn]({{< ref "/f10/language/bn.md" >}}) | 0 | 291 | 0.0 | /mnt/stockage/packages/f10/passwd/po/bn.po | 
- | [cy]({{< ref "/f10/language/cy.md" >}}) | 0 | 291 | 0.0 | /mnt/stockage/packages/f10/passwd/po/cy.po | 
- | [el]({{< ref "/f10/language/el.md" >}}) | 0 | 291 | 0.0 | /mnt/stockage/packages/f10/passwd/po/el.po | 
- | [et]({{< ref "/f10/language/et.md" >}}) | 0 | 291 | 0.0 | /mnt/stockage/packages/f10/passwd/po/et.po | 
- | [fa]({{< ref "/f10/language/fa.md" >}}) | 0 | 291 | 0.0 | /mnt/stockage/packages/f10/passwd/po/fa.po | 
- | [gl]({{< ref "/f10/language/gl.md" >}}) | 0 | 291 | 0.0 | /mnt/stockage/packages/f10/passwd/po/gl.po | 
- | [he]({{< ref "/f10/language/he.md" >}}) | 0 | 291 | 0.0 | /mnt/stockage/packages/f10/passwd/po/he.po | 
- | [hy]({{< ref "/f10/language/hy.md" >}}) | 0 | 291 | 0.0 | /mnt/stockage/packages/f10/passwd/po/hy.po | 
- | [ku]({{< ref "/f10/language/ku.md" >}}) | 0 | 291 | 0.0 | /mnt/stockage/packages/f10/passwd/po/ku.po | 
- | [lo]({{< ref "/f10/language/lo.md" >}}) | 0 | 291 | 0.0 | /mnt/stockage/packages/f10/passwd/po/lo.po | 
- | [my]({{< ref "/f10/language/my.md" >}}) | 0 | 291 | 0.0 | /mnt/stockage/packages/f10/passwd/po/my.po | 
- | [nn]({{< ref "/f10/language/nn.md" >}}) | 0 | 291 | 0.0 | /mnt/stockage/packages/f10/passwd/po/nn.po | 
- | [si]({{< ref "/f10/language/si.md" >}}) | 0 | 291 | 0.0 | /mnt/stockage/packages/f10/passwd/po/si.po | 
- | [sq]({{< ref "/f10/language/sq.md" >}}) | 0 | 291 | 0.0 | /mnt/stockage/packages/f10/passwd/po/sq.po | 
- | [tr]({{< ref "/f10/language/tr.md" >}}) | 0 | 291 | 0.0 | /mnt/stockage/packages/f10/passwd/po/tr.po | 
- | [ur]({{< ref "/f10/language/ur.md" >}}) | 0 | 291 | 0.0 | /mnt/stockage/packages/f10/passwd/po/ur.po | 
- | [vi]({{< ref "/f10/language/vi.md" >}}) | 0 | 291 | 0.0 | /mnt/stockage/packages/f10/passwd/po/vi.po | 
- | [wa]({{< ref "/f10/language/wa.md" >}}) | 0 | 291 | 0.0 | /mnt/stockage/packages/f10/passwd/po/wa.po | 
- | [zh_Hant]({{< ref "/f10/language/zh_Hant.md" >}}) | 0 | 291 | 0.0 | /mnt/stockage/packages/f10/passwd/po/zh_TW.po | 
+ | [as](/f10/language/as) | 291 | 291 | 100.0 | /mnt/stockage/packages/f10/passwd/po/as.po | 
+ | [bg](/f10/language/bg) | 291 | 291 | 100.0 | /mnt/stockage/packages/f10/passwd/po/bg.po | 
+ | [bn_IN](/f10/language/bn_IN) | 291 | 291 | 100.0 | /mnt/stockage/packages/f10/passwd/po/bn_IN.po | 
+ | [bs](/f10/language/bs) | 291 | 291 | 100.0 | /mnt/stockage/packages/f10/passwd/po/bs.po | 
+ | [ca](/f10/language/ca) | 291 | 291 | 100.0 | /mnt/stockage/packages/f10/passwd/po/ca.po | 
+ | [cs](/f10/language/cs) | 291 | 291 | 100.0 | /mnt/stockage/packages/f10/passwd/po/cs.po | 
+ | [da](/f10/language/da) | 291 | 291 | 100.0 | /mnt/stockage/packages/f10/passwd/po/da.po | 
+ | [de](/f10/language/de) | 291 | 291 | 100.0 | /mnt/stockage/packages/f10/passwd/po/de.po | 
+ | [es](/f10/language/es) | 291 | 291 | 100.0 | /mnt/stockage/packages/f10/passwd/po/es.po | 
+ | [fi](/f10/language/fi) | 291 | 291 | 100.0 | /mnt/stockage/packages/f10/passwd/po/fi.po | 
+ | [fr](/f10/language/fr) | 291 | 291 | 100.0 | /mnt/stockage/packages/f10/passwd/po/fr.po | 
+ | [gu](/f10/language/gu) | 291 | 291 | 100.0 | /mnt/stockage/packages/f10/passwd/po/gu.po | 
+ | [hi](/f10/language/hi) | 291 | 291 | 100.0 | /mnt/stockage/packages/f10/passwd/po/hi.po | 
+ | [hr](/f10/language/hr) | 291 | 291 | 100.0 | /mnt/stockage/packages/f10/passwd/po/hr.po | 
+ | [hu](/f10/language/hu) | 291 | 291 | 100.0 | /mnt/stockage/packages/f10/passwd/po/hu.po | 
+ | [it](/f10/language/it) | 291 | 291 | 100.0 | /mnt/stockage/packages/f10/passwd/po/it.po | 
+ | [ja](/f10/language/ja) | 291 | 291 | 100.0 | /mnt/stockage/packages/f10/passwd/po/ja.po | 
+ | [kn](/f10/language/kn) | 291 | 291 | 100.0 | /mnt/stockage/packages/f10/passwd/po/kn.po | 
+ | [ko](/f10/language/ko) | 291 | 291 | 100.0 | /mnt/stockage/packages/f10/passwd/po/ko.po | 
+ | [mk](/f10/language/mk) | 291 | 291 | 100.0 | /mnt/stockage/packages/f10/passwd/po/mk.po | 
+ | [ml](/f10/language/ml) | 291 | 291 | 100.0 | /mnt/stockage/packages/f10/passwd/po/ml.po | 
+ | [mr](/f10/language/mr) | 291 | 291 | 100.0 | /mnt/stockage/packages/f10/passwd/po/mr.po | 
+ | [nl](/f10/language/nl) | 291 | 291 | 100.0 | /mnt/stockage/packages/f10/passwd/po/nl.po | 
+ | [or](/f10/language/or) | 291 | 291 | 100.0 | /mnt/stockage/packages/f10/passwd/po/or.po | 
+ | [pa](/f10/language/pa) | 291 | 291 | 100.0 | /mnt/stockage/packages/f10/passwd/po/pa.po | 
+ | [pl](/f10/language/pl) | 291 | 291 | 100.0 | /mnt/stockage/packages/f10/passwd/po/pl.po | 
+ | [pt](/f10/language/pt) | 291 | 291 | 100.0 | /mnt/stockage/packages/f10/passwd/po/pt.po | 
+ | [pt_BR](/f10/language/pt_BR) | 291 | 291 | 100.0 | /mnt/stockage/packages/f10/passwd/po/pt_BR.po | 
+ | [ro](/f10/language/ro) | 291 | 291 | 100.0 | /mnt/stockage/packages/f10/passwd/po/ro.po | 
+ | [ru](/f10/language/ru) | 291 | 291 | 100.0 | /mnt/stockage/packages/f10/passwd/po/ru.po | 
+ | [sk](/f10/language/sk) | 291 | 291 | 100.0 | /mnt/stockage/packages/f10/passwd/po/sk.po | 
+ | [sl](/f10/language/sl) | 291 | 291 | 100.0 | /mnt/stockage/packages/f10/passwd/po/sl.po | 
+ | [sr](/f10/language/sr) | 291 | 291 | 100.0 | /mnt/stockage/packages/f10/passwd/po/sr.po | 
+ | [sr_Latn](/f10/language/sr_Latn) | 291 | 291 | 100.0 | /mnt/stockage/packages/f10/passwd/po/sr@latin.po | 
+ | [sv](/f10/language/sv) | 291 | 291 | 100.0 | /mnt/stockage/packages/f10/passwd/po/sv.po | 
+ | [ta](/f10/language/ta) | 291 | 291 | 100.0 | /mnt/stockage/packages/f10/passwd/po/ta.po | 
+ | [te](/f10/language/te) | 291 | 291 | 100.0 | /mnt/stockage/packages/f10/passwd/po/te.po | 
+ | [uk](/f10/language/uk) | 291 | 291 | 100.0 | /mnt/stockage/packages/f10/passwd/po/uk.po | 
+ | [zh_Hans](/f10/language/zh_Hans) | 291 | 291 | 100.0 | /mnt/stockage/packages/f10/passwd/po/zh_CN.po | 
+ | [ms](/f10/language/ms) | 236 | 291 | 81.1 | /mnt/stockage/packages/f10/passwd/po/ms.po | 
+ | [nb_NO](/f10/language/nb_NO) | 182 | 291 | 62.5 | /mnt/stockage/packages/f10/passwd/po/nb.po | 
+ | [en_GB](/f10/language/en_GB) | 155 | 291 | 53.3 | /mnt/stockage/packages/f10/passwd/po/en_GB.po | 
+ | [ka](/f10/language/ka) | 89 | 291 | 30.6 | /mnt/stockage/packages/f10/passwd/po/ka.po | 
+ | [is](/f10/language/is) | 44 | 291 | 15.1 | /mnt/stockage/packages/f10/passwd/po/is.po | 
+ | [id](/f10/language/id) | 26 | 291 | 8.9 | /mnt/stockage/packages/f10/passwd/po/id.po | 
+ | [ar](/f10/language/ar) | 0 | 291 | 0.0 | /mnt/stockage/packages/f10/passwd/po/ar.po | 
+ | [bn](/f10/language/bn) | 0 | 291 | 0.0 | /mnt/stockage/packages/f10/passwd/po/bn.po | 
+ | [cy](/f10/language/cy) | 0 | 291 | 0.0 | /mnt/stockage/packages/f10/passwd/po/cy.po | 
+ | [el](/f10/language/el) | 0 | 291 | 0.0 | /mnt/stockage/packages/f10/passwd/po/el.po | 
+ | [et](/f10/language/et) | 0 | 291 | 0.0 | /mnt/stockage/packages/f10/passwd/po/et.po | 
+ | [fa](/f10/language/fa) | 0 | 291 | 0.0 | /mnt/stockage/packages/f10/passwd/po/fa.po | 
+ | [gl](/f10/language/gl) | 0 | 291 | 0.0 | /mnt/stockage/packages/f10/passwd/po/gl.po | 
+ | [he](/f10/language/he) | 0 | 291 | 0.0 | /mnt/stockage/packages/f10/passwd/po/he.po | 
+ | [hy](/f10/language/hy) | 0 | 291 | 0.0 | /mnt/stockage/packages/f10/passwd/po/hy.po | 
+ | [ku](/f10/language/ku) | 0 | 291 | 0.0 | /mnt/stockage/packages/f10/passwd/po/ku.po | 
+ | [lo](/f10/language/lo) | 0 | 291 | 0.0 | /mnt/stockage/packages/f10/passwd/po/lo.po | 
+ | [my](/f10/language/my) | 0 | 291 | 0.0 | /mnt/stockage/packages/f10/passwd/po/my.po | 
+ | [nn](/f10/language/nn) | 0 | 291 | 0.0 | /mnt/stockage/packages/f10/passwd/po/nn.po | 
+ | [si](/f10/language/si) | 0 | 291 | 0.0 | /mnt/stockage/packages/f10/passwd/po/si.po | 
+ | [sq](/f10/language/sq) | 0 | 291 | 0.0 | /mnt/stockage/packages/f10/passwd/po/sq.po | 
+ | [tr](/f10/language/tr) | 0 | 291 | 0.0 | /mnt/stockage/packages/f10/passwd/po/tr.po | 
+ | [ur](/f10/language/ur) | 0 | 291 | 0.0 | /mnt/stockage/packages/f10/passwd/po/ur.po | 
+ | [vi](/f10/language/vi) | 0 | 291 | 0.0 | /mnt/stockage/packages/f10/passwd/po/vi.po | 
+ | [wa](/f10/language/wa) | 0 | 291 | 0.0 | /mnt/stockage/packages/f10/passwd/po/wa.po | 
+ | [zh_Hant](/f10/language/zh_Hant) | 0 | 291 | 0.0 | /mnt/stockage/packages/f10/passwd/po/zh_TW.po | 
 {.sortable}
 
 

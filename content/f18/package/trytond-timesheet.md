@@ -18,16 +18,16 @@ The package trytond-timesheet (version 2.4.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f18/language/de.md" >}}) | 256 | 256 | 100.0 | /mnt/stockage/packages/f18/trytond-timesheet/locale/de_DE.po | 
- | [es]({{< ref "/f18/language/es.md" >}}) | 256 | 256 | 100.0 | /mnt/stockage/packages/f18/trytond-timesheet/locale/es_ES.po | 
- | [es_AR]({{< ref "/f18/language/es_AR.md" >}}) | 256 | 256 | 100.0 | /mnt/stockage/packages/f18/trytond-timesheet/locale/es_AR.po | 
- | [fr]({{< ref "/f18/language/fr.md" >}}) | 303 | 303 | 100.0 | /mnt/stockage/packages/f18/trytond-timesheet/locale/fr_FR.po | 
- | [bg]({{< ref "/f18/language/bg.md" >}}) | 248 | 256 | 96.9 | /mnt/stockage/packages/f18/trytond-timesheet/locale/bg_BG.po | 
- | [ca]({{< ref "/f18/language/ca.md" >}}) | 148 | 256 | 57.8 | /mnt/stockage/packages/f18/trytond-timesheet/locale/ca_ES.po | 
- | [es_CO]({{< ref "/f18/language/es_CO.md" >}}) | 148 | 256 | 57.8 | /mnt/stockage/packages/f18/trytond-timesheet/locale/es_CO.po | 
- | [nl]({{< ref "/f18/language/nl.md" >}}) | 148 | 258 | 57.4 | /mnt/stockage/packages/f18/trytond-timesheet/locale/nl_NL.po | 
- | [cs]({{< ref "/f18/language/cs.md" >}}) | 0 | 258 | 0.0 | /mnt/stockage/packages/f18/trytond-timesheet/locale/cs_CZ.po | 
- | [ru]({{< ref "/f18/language/ru.md" >}}) | 0 | 258 | 0.0 | /mnt/stockage/packages/f18/trytond-timesheet/locale/ru_RU.po | 
+ | [de](/f18/language/de) | 256 | 256 | 100.0 | /mnt/stockage/packages/f18/trytond-timesheet/locale/de_DE.po | 
+ | [es](/f18/language/es) | 256 | 256 | 100.0 | /mnt/stockage/packages/f18/trytond-timesheet/locale/es_ES.po | 
+ | [es_AR](/f18/language/es_AR) | 256 | 256 | 100.0 | /mnt/stockage/packages/f18/trytond-timesheet/locale/es_AR.po | 
+ | [fr](/f18/language/fr) | 303 | 303 | 100.0 | /mnt/stockage/packages/f18/trytond-timesheet/locale/fr_FR.po | 
+ | [bg](/f18/language/bg) | 248 | 256 | 96.9 | /mnt/stockage/packages/f18/trytond-timesheet/locale/bg_BG.po | 
+ | [ca](/f18/language/ca) | 148 | 256 | 57.8 | /mnt/stockage/packages/f18/trytond-timesheet/locale/ca_ES.po | 
+ | [es_CO](/f18/language/es_CO) | 148 | 256 | 57.8 | /mnt/stockage/packages/f18/trytond-timesheet/locale/es_CO.po | 
+ | [nl](/f18/language/nl) | 148 | 258 | 57.4 | /mnt/stockage/packages/f18/trytond-timesheet/locale/nl_NL.po | 
+ | [cs](/f18/language/cs) | 0 | 258 | 0.0 | /mnt/stockage/packages/f18/trytond-timesheet/locale/cs_CZ.po | 
+ | [ru](/f18/language/ru) | 0 | 258 | 0.0 | /mnt/stockage/packages/f18/trytond-timesheet/locale/ru_RU.po | 
 {.sortable}
 
 

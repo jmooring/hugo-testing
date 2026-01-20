@@ -18,12 +18,12 @@ The package mpop (version 1.4.10):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f37/language/de.md" >}}) | 1911 | 1955 | 97.7 | /mnt/stockage/packages/f37/mpop/po/de.po | 
- | [pt_BR]({{< ref "/f37/language/pt_BR.md" >}}) | 1911 | 1955 | 97.7 | /mnt/stockage/packages/f37/mpop/po/pt_BR.po | 
- | [sr]({{< ref "/f37/language/sr.md" >}}) | 1911 | 1955 | 97.7 | /mnt/stockage/packages/f37/mpop/po/sr.po | 
- | [uk]({{< ref "/f37/language/uk.md" >}}) | 1911 | 1955 | 97.7 | /mnt/stockage/packages/f37/mpop/po/uk.po | 
- | [es]({{< ref "/f37/language/es.md" >}}) | 1325 | 1955 | 67.8 | /mnt/stockage/packages/f37/mpop/po/es.po | 
- | [ta]({{< ref "/f37/language/ta.md" >}}) | 487 | 1955 | 24.9 | /mnt/stockage/packages/f37/mpop/po/ta.po | 
+ | [de](/f37/language/de) | 1911 | 1955 | 97.7 | /mnt/stockage/packages/f37/mpop/po/de.po | 
+ | [pt_BR](/f37/language/pt_BR) | 1911 | 1955 | 97.7 | /mnt/stockage/packages/f37/mpop/po/pt_BR.po | 
+ | [sr](/f37/language/sr) | 1911 | 1955 | 97.7 | /mnt/stockage/packages/f37/mpop/po/sr.po | 
+ | [uk](/f37/language/uk) | 1911 | 1955 | 97.7 | /mnt/stockage/packages/f37/mpop/po/uk.po | 
+ | [es](/f37/language/es) | 1325 | 1955 | 67.8 | /mnt/stockage/packages/f37/mpop/po/es.po | 
+ | [ta](/f37/language/ta) | 487 | 1955 | 24.9 | /mnt/stockage/packages/f37/mpop/po/ta.po | 
 {.sortable}
 
 

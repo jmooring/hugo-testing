@@ -18,44 +18,44 @@ The package python-manatools (version 0.0.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [af]({{< ref "/f41/language/af.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f41/python-manatools/po/af.po | 
- | [ast]({{< ref "/f41/language/ast.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f41/python-manatools/po/ast.po | 
- | [bg]({{< ref "/f41/language/bg.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f41/python-manatools/po/bg.po | 
- | [ca]({{< ref "/f41/language/ca.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f41/python-manatools/po/ca.po | 
- | [cs]({{< ref "/f41/language/cs.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f41/python-manatools/po/cs.po | 
- | [da]({{< ref "/f41/language/da.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f41/python-manatools/po/da.po | 
- | [de]({{< ref "/f41/language/de.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f41/python-manatools/po/de.po | 
- | [el]({{< ref "/f41/language/el.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f41/python-manatools/po/el.po | 
- | [es]({{< ref "/f41/language/es.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f41/python-manatools/po/es.po | 
- | [et]({{< ref "/f41/language/et.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f41/python-manatools/po/et.po | 
- | [eu]({{< ref "/f41/language/eu.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f41/python-manatools/po/eu.po | 
- | [fr]({{< ref "/f41/language/fr.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f41/python-manatools/po/fr.po | 
- | [he]({{< ref "/f41/language/he.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f41/python-manatools/po/he.po | 
- | [hi]({{< ref "/f41/language/hi.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f41/python-manatools/po/hi.po | 
- | [hr]({{< ref "/f41/language/hr.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f41/python-manatools/po/hr.po | 
- | [hu]({{< ref "/f41/language/hu.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f41/python-manatools/po/hu.po | 
- | [ie]({{< ref "/f41/language/ie.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f41/python-manatools/po/ie.po | 
- | [it]({{< ref "/f41/language/it.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f41/python-manatools/po/it.po | 
- | [ja]({{< ref "/f41/language/ja.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f41/python-manatools/po/ja.po | 
- | [lt]({{< ref "/f41/language/lt.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f41/python-manatools/po/lt.po | 
- | [nb_NO]({{< ref "/f41/language/nb_NO.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f41/python-manatools/po/nb.po | 
- | [nl]({{< ref "/f41/language/nl.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f41/python-manatools/po/nl.po | 
- | [pl]({{< ref "/f41/language/pl.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f41/python-manatools/po/pl.po | 
- | [pt]({{< ref "/f41/language/pt.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f41/python-manatools/po/pt.po | 
- | [pt_BR]({{< ref "/f41/language/pt_BR.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f41/python-manatools/po/pt_BR.po | 
- | [ro]({{< ref "/f41/language/ro.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f41/python-manatools/po/ro.po | 
- | [ru]({{< ref "/f41/language/ru.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f41/python-manatools/po/ru.po | 
- | [sk]({{< ref "/f41/language/sk.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f41/python-manatools/po/sk.po | 
- | [sl]({{< ref "/f41/language/sl.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f41/python-manatools/po/sl.po | 
- | [sq]({{< ref "/f41/language/sq.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f41/python-manatools/po/sq.po | 
- | [sr]({{< ref "/f41/language/sr.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f41/python-manatools/po/sr.po | 
- | [sv]({{< ref "/f41/language/sv.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f41/python-manatools/po/sv.po | 
- | [tr]({{< ref "/f41/language/tr.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f41/python-manatools/po/tr.po | 
- | [uk]({{< ref "/f41/language/uk.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f41/python-manatools/po/uk.po | 
- | [zh_Hans]({{< ref "/f41/language/zh_Hans.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f41/python-manatools/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f41/language/zh_Hant.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f41/python-manatools/po/zh_TW.po | 
- | [cy]({{< ref "/f41/language/cy.md" >}}) | 2 | 4 | 50.0 | /mnt/stockage/packages/f41/python-manatools/po/cy.po | 
- | [wa]({{< ref "/f41/language/wa.md" >}}) | 2 | 4 | 50.0 | /mnt/stockage/packages/f41/python-manatools/po/wa.po | 
+ | [af](/f41/language/af) | 4 | 4 | 100.0 | /mnt/stockage/packages/f41/python-manatools/po/af.po | 
+ | [ast](/f41/language/ast) | 4 | 4 | 100.0 | /mnt/stockage/packages/f41/python-manatools/po/ast.po | 
+ | [bg](/f41/language/bg) | 4 | 4 | 100.0 | /mnt/stockage/packages/f41/python-manatools/po/bg.po | 
+ | [ca](/f41/language/ca) | 4 | 4 | 100.0 | /mnt/stockage/packages/f41/python-manatools/po/ca.po | 
+ | [cs](/f41/language/cs) | 4 | 4 | 100.0 | /mnt/stockage/packages/f41/python-manatools/po/cs.po | 
+ | [da](/f41/language/da) | 4 | 4 | 100.0 | /mnt/stockage/packages/f41/python-manatools/po/da.po | 
+ | [de](/f41/language/de) | 4 | 4 | 100.0 | /mnt/stockage/packages/f41/python-manatools/po/de.po | 
+ | [el](/f41/language/el) | 4 | 4 | 100.0 | /mnt/stockage/packages/f41/python-manatools/po/el.po | 
+ | [es](/f41/language/es) | 4 | 4 | 100.0 | /mnt/stockage/packages/f41/python-manatools/po/es.po | 
+ | [et](/f41/language/et) | 4 | 4 | 100.0 | /mnt/stockage/packages/f41/python-manatools/po/et.po | 
+ | [eu](/f41/language/eu) | 4 | 4 | 100.0 | /mnt/stockage/packages/f41/python-manatools/po/eu.po | 
+ | [fr](/f41/language/fr) | 4 | 4 | 100.0 | /mnt/stockage/packages/f41/python-manatools/po/fr.po | 
+ | [he](/f41/language/he) | 4 | 4 | 100.0 | /mnt/stockage/packages/f41/python-manatools/po/he.po | 
+ | [hi](/f41/language/hi) | 4 | 4 | 100.0 | /mnt/stockage/packages/f41/python-manatools/po/hi.po | 
+ | [hr](/f41/language/hr) | 4 | 4 | 100.0 | /mnt/stockage/packages/f41/python-manatools/po/hr.po | 
+ | [hu](/f41/language/hu) | 4 | 4 | 100.0 | /mnt/stockage/packages/f41/python-manatools/po/hu.po | 
+ | [ie](/f41/language/ie) | 4 | 4 | 100.0 | /mnt/stockage/packages/f41/python-manatools/po/ie.po | 
+ | [it](/f41/language/it) | 4 | 4 | 100.0 | /mnt/stockage/packages/f41/python-manatools/po/it.po | 
+ | [ja](/f41/language/ja) | 4 | 4 | 100.0 | /mnt/stockage/packages/f41/python-manatools/po/ja.po | 
+ | [lt](/f41/language/lt) | 4 | 4 | 100.0 | /mnt/stockage/packages/f41/python-manatools/po/lt.po | 
+ | [nb_NO](/f41/language/nb_NO) | 4 | 4 | 100.0 | /mnt/stockage/packages/f41/python-manatools/po/nb.po | 
+ | [nl](/f41/language/nl) | 4 | 4 | 100.0 | /mnt/stockage/packages/f41/python-manatools/po/nl.po | 
+ | [pl](/f41/language/pl) | 4 | 4 | 100.0 | /mnt/stockage/packages/f41/python-manatools/po/pl.po | 
+ | [pt](/f41/language/pt) | 4 | 4 | 100.0 | /mnt/stockage/packages/f41/python-manatools/po/pt.po | 
+ | [pt_BR](/f41/language/pt_BR) | 4 | 4 | 100.0 | /mnt/stockage/packages/f41/python-manatools/po/pt_BR.po | 
+ | [ro](/f41/language/ro) | 4 | 4 | 100.0 | /mnt/stockage/packages/f41/python-manatools/po/ro.po | 
+ | [ru](/f41/language/ru) | 4 | 4 | 100.0 | /mnt/stockage/packages/f41/python-manatools/po/ru.po | 
+ | [sk](/f41/language/sk) | 4 | 4 | 100.0 | /mnt/stockage/packages/f41/python-manatools/po/sk.po | 
+ | [sl](/f41/language/sl) | 4 | 4 | 100.0 | /mnt/stockage/packages/f41/python-manatools/po/sl.po | 
+ | [sq](/f41/language/sq) | 4 | 4 | 100.0 | /mnt/stockage/packages/f41/python-manatools/po/sq.po | 
+ | [sr](/f41/language/sr) | 4 | 4 | 100.0 | /mnt/stockage/packages/f41/python-manatools/po/sr.po | 
+ | [sv](/f41/language/sv) | 4 | 4 | 100.0 | /mnt/stockage/packages/f41/python-manatools/po/sv.po | 
+ | [tr](/f41/language/tr) | 4 | 4 | 100.0 | /mnt/stockage/packages/f41/python-manatools/po/tr.po | 
+ | [uk](/f41/language/uk) | 4 | 4 | 100.0 | /mnt/stockage/packages/f41/python-manatools/po/uk.po | 
+ | [zh_Hans](/f41/language/zh_Hans) | 4 | 4 | 100.0 | /mnt/stockage/packages/f41/python-manatools/po/zh_CN.po | 
+ | [zh_Hant](/f41/language/zh_Hant) | 4 | 4 | 100.0 | /mnt/stockage/packages/f41/python-manatools/po/zh_TW.po | 
+ | [cy](/f41/language/cy) | 2 | 4 | 50.0 | /mnt/stockage/packages/f41/python-manatools/po/cy.po | 
+ | [wa](/f41/language/wa) | 2 | 4 | 50.0 | /mnt/stockage/packages/f41/python-manatools/po/wa.po | 
 {.sortable}
 
 

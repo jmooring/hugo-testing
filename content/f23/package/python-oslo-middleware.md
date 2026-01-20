@@ -18,9 +18,9 @@ The package python-oslo-middleware (version 1.0.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f23/language/de.md" >}}) | 12 | 12 | 100.0 | /mnt/stockage/packages/f23/python-oslo-middleware/oslo.middleware/locale/de/LC_MESSAGES/oslo.middleware-log-error.po/mnt/stockage/packages/f23/python-oslo-middleware/oslo.middleware/locale/de/LC_MESSAGES/oslo.middleware.po | 
- | [en_GB]({{< ref "/f23/language/en_GB.md" >}}) | 12 | 12 | 100.0 | /mnt/stockage/packages/f23/python-oslo-middleware/oslo.middleware/locale/en_GB/LC_MESSAGES/oslo.middleware-log-error.po/mnt/stockage/packages/f23/python-oslo-middleware/oslo.middleware/locale/en_GB/LC_MESSAGES/oslo.middleware.po | 
- | [fr]({{< ref "/f23/language/fr.md" >}}) | 12 | 12 | 100.0 | /mnt/stockage/packages/f23/python-oslo-middleware/oslo.middleware/locale/fr/LC_MESSAGES/oslo.middleware-log-error.po/mnt/stockage/packages/f23/python-oslo-middleware/oslo.middleware/locale/fr/LC_MESSAGES/oslo.middleware.po | 
+ | [de](/f23/language/de) | 12 | 12 | 100.0 | /mnt/stockage/packages/f23/python-oslo-middleware/oslo.middleware/locale/de/LC_MESSAGES/oslo.middleware-log-error.po/mnt/stockage/packages/f23/python-oslo-middleware/oslo.middleware/locale/de/LC_MESSAGES/oslo.middleware.po | 
+ | [en_GB](/f23/language/en_GB) | 12 | 12 | 100.0 | /mnt/stockage/packages/f23/python-oslo-middleware/oslo.middleware/locale/en_GB/LC_MESSAGES/oslo.middleware-log-error.po/mnt/stockage/packages/f23/python-oslo-middleware/oslo.middleware/locale/en_GB/LC_MESSAGES/oslo.middleware.po | 
+ | [fr](/f23/language/fr) | 12 | 12 | 100.0 | /mnt/stockage/packages/f23/python-oslo-middleware/oslo.middleware/locale/fr/LC_MESSAGES/oslo.middleware-log-error.po/mnt/stockage/packages/f23/python-oslo-middleware/oslo.middleware/locale/fr/LC_MESSAGES/oslo.middleware.po | 
 {.sortable}
 
 

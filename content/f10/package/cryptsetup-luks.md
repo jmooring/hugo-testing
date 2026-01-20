@@ -18,8 +18,8 @@ The package cryptsetup-luks (version 1.0.6):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [sv]({{< ref "/f10/language/sv.md" >}}) | 297 | 400 | 74.2 | /mnt/stockage/packages/f10/cryptsetup-luks/po/sv.po | 
- | [de]({{< ref "/f10/language/de.md" >}}) | 143 | 400 | 35.8 | /mnt/stockage/packages/f10/cryptsetup-luks/po/de.po | 
+ | [sv](/f10/language/sv) | 297 | 400 | 74.2 | /mnt/stockage/packages/f10/cryptsetup-luks/po/sv.po | 
+ | [de](/f10/language/de) | 143 | 400 | 35.8 | /mnt/stockage/packages/f10/cryptsetup-luks/po/de.po | 
 {.sortable}
 
 

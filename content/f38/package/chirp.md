@@ -18,20 +18,20 @@ The package chirp (version 0.4.0^20231101git35c8a1c0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [es]({{< ref "/f38/language/es.md" >}}) | 4740 | 4740 | 100.0 | /mnt/stockage/packages/f38/chirp/chirp/locale/es.po | 
- | [ru]({{< ref "/f38/language/ru.md" >}}) | 4740 | 4740 | 100.0 | /mnt/stockage/packages/f38/chirp/chirp/locale/ru.po | 
- | [tr]({{< ref "/f38/language/tr.md" >}}) | 4269 | 4740 | 90.1 | /mnt/stockage/packages/f38/chirp/chirp/locale/tr_TR.po | 
- | [pl]({{< ref "/f38/language/pl.md" >}}) | 1293 | 4740 | 27.3 | /mnt/stockage/packages/f38/chirp/chirp/locale/pl.po | 
- | [el]({{< ref "/f38/language/el.md" >}}) | 511 | 4740 | 10.8 | /mnt/stockage/packages/f38/chirp/chirp/locale/el.po | 
- | [zh_Hans]({{< ref "/f38/language/zh_Hans.md" >}}) | 40 | 4740 | 0.8 | /mnt/stockage/packages/f38/chirp/chirp/locale/zh_CN.po | 
- | [de]({{< ref "/f38/language/de.md" >}}) | 38 | 4740 | 0.8 | /mnt/stockage/packages/f38/chirp/chirp/locale/de.po | 
- | [hu]({{< ref "/f38/language/hu.md" >}}) | 38 | 4740 | 0.8 | /mnt/stockage/packages/f38/chirp/chirp/locale/hu.po | 
- | [fr]({{< ref "/f38/language/fr.md" >}}) | 35 | 4740 | 0.7 | /mnt/stockage/packages/f38/chirp/chirp/locale/fr.po | 
- | [it]({{< ref "/f38/language/it.md" >}}) | 35 | 4740 | 0.7 | /mnt/stockage/packages/f38/chirp/chirp/locale/it.po | 
- | [nl]({{< ref "/f38/language/nl.md" >}}) | 35 | 4740 | 0.7 | /mnt/stockage/packages/f38/chirp/chirp/locale/nl.po | 
- | [pt_BR]({{< ref "/f38/language/pt_BR.md" >}}) | 35 | 4740 | 0.7 | /mnt/stockage/packages/f38/chirp/chirp/locale/pt_BR.po | 
- | [uk]({{< ref "/f38/language/uk.md" >}}) | 23 | 4740 | 0.5 | /mnt/stockage/packages/f38/chirp/chirp/locale/uk_UA.po | 
- | [en_US]({{< ref "/f38/language/en_US.md" >}}) | 2 | 4740 | 0.0 | /mnt/stockage/packages/f38/chirp/chirp/locale/en_US.po | 
+ | [es](/f38/language/es) | 4740 | 4740 | 100.0 | /mnt/stockage/packages/f38/chirp/chirp/locale/es.po | 
+ | [ru](/f38/language/ru) | 4740 | 4740 | 100.0 | /mnt/stockage/packages/f38/chirp/chirp/locale/ru.po | 
+ | [tr](/f38/language/tr) | 4269 | 4740 | 90.1 | /mnt/stockage/packages/f38/chirp/chirp/locale/tr_TR.po | 
+ | [pl](/f38/language/pl) | 1293 | 4740 | 27.3 | /mnt/stockage/packages/f38/chirp/chirp/locale/pl.po | 
+ | [el](/f38/language/el) | 511 | 4740 | 10.8 | /mnt/stockage/packages/f38/chirp/chirp/locale/el.po | 
+ | [zh_Hans](/f38/language/zh_Hans) | 40 | 4740 | 0.8 | /mnt/stockage/packages/f38/chirp/chirp/locale/zh_CN.po | 
+ | [de](/f38/language/de) | 38 | 4740 | 0.8 | /mnt/stockage/packages/f38/chirp/chirp/locale/de.po | 
+ | [hu](/f38/language/hu) | 38 | 4740 | 0.8 | /mnt/stockage/packages/f38/chirp/chirp/locale/hu.po | 
+ | [fr](/f38/language/fr) | 35 | 4740 | 0.7 | /mnt/stockage/packages/f38/chirp/chirp/locale/fr.po | 
+ | [it](/f38/language/it) | 35 | 4740 | 0.7 | /mnt/stockage/packages/f38/chirp/chirp/locale/it.po | 
+ | [nl](/f38/language/nl) | 35 | 4740 | 0.7 | /mnt/stockage/packages/f38/chirp/chirp/locale/nl.po | 
+ | [pt_BR](/f38/language/pt_BR) | 35 | 4740 | 0.7 | /mnt/stockage/packages/f38/chirp/chirp/locale/pt_BR.po | 
+ | [uk](/f38/language/uk) | 23 | 4740 | 0.5 | /mnt/stockage/packages/f38/chirp/chirp/locale/uk_UA.po | 
+ | [en_US](/f38/language/en_US) | 2 | 4740 | 0.0 | /mnt/stockage/packages/f38/chirp/chirp/locale/en_US.po | 
 {.sortable}
 
 

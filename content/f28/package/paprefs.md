@@ -18,41 +18,41 @@ The package paprefs (version 1.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [bn_IN]({{< ref "/f28/language/bn_IN.md" >}}) | 131 | 131 | 100.0 | /mnt/stockage/packages/f28/paprefs/po/bn_IN.po | 
- | [ca]({{< ref "/f28/language/ca.md" >}}) | 131 | 131 | 100.0 | /mnt/stockage/packages/f28/paprefs/po/ca.po | 
- | [cs]({{< ref "/f28/language/cs.md" >}}) | 131 | 131 | 100.0 | /mnt/stockage/packages/f28/paprefs/po/cs.po | 
- | [de]({{< ref "/f28/language/de.md" >}}) | 131 | 131 | 100.0 | /mnt/stockage/packages/f28/paprefs/po/de.po | 
- | [es]({{< ref "/f28/language/es.md" >}}) | 131 | 131 | 100.0 | /mnt/stockage/packages/f28/paprefs/po/es.po | 
- | [fi]({{< ref "/f28/language/fi.md" >}}) | 131 | 131 | 100.0 | /mnt/stockage/packages/f28/paprefs/po/fi.po | 
- | [gu]({{< ref "/f28/language/gu.md" >}}) | 131 | 131 | 100.0 | /mnt/stockage/packages/f28/paprefs/po/gu.po | 
- | [hi]({{< ref "/f28/language/hi.md" >}}) | 131 | 131 | 100.0 | /mnt/stockage/packages/f28/paprefs/po/hi.po | 
- | [hr]({{< ref "/f28/language/hr.md" >}}) | 136 | 136 | 100.0 | /mnt/stockage/packages/f28/paprefs/po/hr.po | 
- | [kn]({{< ref "/f28/language/kn.md" >}}) | 131 | 131 | 100.0 | /mnt/stockage/packages/f28/paprefs/po/kn.po | 
- | [ml]({{< ref "/f28/language/ml.md" >}}) | 131 | 131 | 100.0 | /mnt/stockage/packages/f28/paprefs/po/ml.po | 
- | [mr]({{< ref "/f28/language/mr.md" >}}) | 131 | 131 | 100.0 | /mnt/stockage/packages/f28/paprefs/po/mr.po | 
- | [nl]({{< ref "/f28/language/nl.md" >}}) | 131 | 131 | 100.0 | /mnt/stockage/packages/f28/paprefs/po/nl.po | 
- | [or]({{< ref "/f28/language/or.md" >}}) | 131 | 131 | 100.0 | /mnt/stockage/packages/f28/paprefs/po/or.po | 
- | [pa]({{< ref "/f28/language/pa.md" >}}) | 131 | 131 | 100.0 | /mnt/stockage/packages/f28/paprefs/po/pa.po | 
- | [pl]({{< ref "/f28/language/pl.md" >}}) | 136 | 136 | 100.0 | /mnt/stockage/packages/f28/paprefs/po/pl.po | 
- | [pt_BR]({{< ref "/f28/language/pt_BR.md" >}}) | 131 | 131 | 100.0 | /mnt/stockage/packages/f28/paprefs/po/pt_BR.po | 
- | [sk]({{< ref "/f28/language/sk.md" >}}) | 131 | 131 | 100.0 | /mnt/stockage/packages/f28/paprefs/po/sk.po | 
- | [sr]({{< ref "/f28/language/sr.md" >}}) | 131 | 131 | 100.0 | /mnt/stockage/packages/f28/paprefs/po/sr.po | 
- | [sr_Latn]({{< ref "/f28/language/sr_Latn.md" >}}) | 131 | 131 | 100.0 | /mnt/stockage/packages/f28/paprefs/po/sr@latin.po | 
- | [sv]({{< ref "/f28/language/sv.md" >}}) | 136 | 136 | 100.0 | /mnt/stockage/packages/f28/paprefs/po/sv.po | 
- | [ta]({{< ref "/f28/language/ta.md" >}}) | 131 | 131 | 100.0 | /mnt/stockage/packages/f28/paprefs/po/ta.po | 
- | [te]({{< ref "/f28/language/te.md" >}}) | 131 | 131 | 100.0 | /mnt/stockage/packages/f28/paprefs/po/te.po | 
- | [uk]({{< ref "/f28/language/uk.md" >}}) | 131 | 131 | 100.0 | /mnt/stockage/packages/f28/paprefs/po/uk.po | 
- | [as]({{< ref "/f28/language/as.md" >}}) | 51 | 131 | 38.9 | /mnt/stockage/packages/f28/paprefs/po/as.po | 
- | [da]({{< ref "/f28/language/da.md" >}}) | 51 | 131 | 38.9 | /mnt/stockage/packages/f28/paprefs/po/da.po | 
- | [fr]({{< ref "/f28/language/fr.md" >}}) | 51 | 131 | 38.9 | /mnt/stockage/packages/f28/paprefs/po/fr.po | 
- | [hu]({{< ref "/f28/language/hu.md" >}}) | 51 | 131 | 38.9 | /mnt/stockage/packages/f28/paprefs/po/hu.po | 
- | [it]({{< ref "/f28/language/it.md" >}}) | 51 | 131 | 38.9 | /mnt/stockage/packages/f28/paprefs/po/it.po | 
- | [ms]({{< ref "/f28/language/ms.md" >}}) | 51 | 131 | 38.9 | /mnt/stockage/packages/f28/paprefs/po/ms.po | 
- | [pt]({{< ref "/f28/language/pt.md" >}}) | 51 | 131 | 38.9 | /mnt/stockage/packages/f28/paprefs/po/pt.po | 
- | [th]({{< ref "/f28/language/th.md" >}}) | 51 | 131 | 38.9 | /mnt/stockage/packages/f28/paprefs/po/th.po | 
- | [zh_Hans]({{< ref "/f28/language/zh_Hans.md" >}}) | 51 | 131 | 38.9 | /mnt/stockage/packages/f28/paprefs/po/zh_CN.po | 
- | [tr]({{< ref "/f28/language/tr.md" >}}) | 28 | 131 | 21.4 | /mnt/stockage/packages/f28/paprefs/po/tr.po | 
- | [el]({{< ref "/f28/language/el.md" >}}) | 15 | 131 | 11.5 | /mnt/stockage/packages/f28/paprefs/po/el.po | 
+ | [bn_IN](/f28/language/bn_IN) | 131 | 131 | 100.0 | /mnt/stockage/packages/f28/paprefs/po/bn_IN.po | 
+ | [ca](/f28/language/ca) | 131 | 131 | 100.0 | /mnt/stockage/packages/f28/paprefs/po/ca.po | 
+ | [cs](/f28/language/cs) | 131 | 131 | 100.0 | /mnt/stockage/packages/f28/paprefs/po/cs.po | 
+ | [de](/f28/language/de) | 131 | 131 | 100.0 | /mnt/stockage/packages/f28/paprefs/po/de.po | 
+ | [es](/f28/language/es) | 131 | 131 | 100.0 | /mnt/stockage/packages/f28/paprefs/po/es.po | 
+ | [fi](/f28/language/fi) | 131 | 131 | 100.0 | /mnt/stockage/packages/f28/paprefs/po/fi.po | 
+ | [gu](/f28/language/gu) | 131 | 131 | 100.0 | /mnt/stockage/packages/f28/paprefs/po/gu.po | 
+ | [hi](/f28/language/hi) | 131 | 131 | 100.0 | /mnt/stockage/packages/f28/paprefs/po/hi.po | 
+ | [hr](/f28/language/hr) | 136 | 136 | 100.0 | /mnt/stockage/packages/f28/paprefs/po/hr.po | 
+ | [kn](/f28/language/kn) | 131 | 131 | 100.0 | /mnt/stockage/packages/f28/paprefs/po/kn.po | 
+ | [ml](/f28/language/ml) | 131 | 131 | 100.0 | /mnt/stockage/packages/f28/paprefs/po/ml.po | 
+ | [mr](/f28/language/mr) | 131 | 131 | 100.0 | /mnt/stockage/packages/f28/paprefs/po/mr.po | 
+ | [nl](/f28/language/nl) | 131 | 131 | 100.0 | /mnt/stockage/packages/f28/paprefs/po/nl.po | 
+ | [or](/f28/language/or) | 131 | 131 | 100.0 | /mnt/stockage/packages/f28/paprefs/po/or.po | 
+ | [pa](/f28/language/pa) | 131 | 131 | 100.0 | /mnt/stockage/packages/f28/paprefs/po/pa.po | 
+ | [pl](/f28/language/pl) | 136 | 136 | 100.0 | /mnt/stockage/packages/f28/paprefs/po/pl.po | 
+ | [pt_BR](/f28/language/pt_BR) | 131 | 131 | 100.0 | /mnt/stockage/packages/f28/paprefs/po/pt_BR.po | 
+ | [sk](/f28/language/sk) | 131 | 131 | 100.0 | /mnt/stockage/packages/f28/paprefs/po/sk.po | 
+ | [sr](/f28/language/sr) | 131 | 131 | 100.0 | /mnt/stockage/packages/f28/paprefs/po/sr.po | 
+ | [sr_Latn](/f28/language/sr_Latn) | 131 | 131 | 100.0 | /mnt/stockage/packages/f28/paprefs/po/sr@latin.po | 
+ | [sv](/f28/language/sv) | 136 | 136 | 100.0 | /mnt/stockage/packages/f28/paprefs/po/sv.po | 
+ | [ta](/f28/language/ta) | 131 | 131 | 100.0 | /mnt/stockage/packages/f28/paprefs/po/ta.po | 
+ | [te](/f28/language/te) | 131 | 131 | 100.0 | /mnt/stockage/packages/f28/paprefs/po/te.po | 
+ | [uk](/f28/language/uk) | 131 | 131 | 100.0 | /mnt/stockage/packages/f28/paprefs/po/uk.po | 
+ | [as](/f28/language/as) | 51 | 131 | 38.9 | /mnt/stockage/packages/f28/paprefs/po/as.po | 
+ | [da](/f28/language/da) | 51 | 131 | 38.9 | /mnt/stockage/packages/f28/paprefs/po/da.po | 
+ | [fr](/f28/language/fr) | 51 | 131 | 38.9 | /mnt/stockage/packages/f28/paprefs/po/fr.po | 
+ | [hu](/f28/language/hu) | 51 | 131 | 38.9 | /mnt/stockage/packages/f28/paprefs/po/hu.po | 
+ | [it](/f28/language/it) | 51 | 131 | 38.9 | /mnt/stockage/packages/f28/paprefs/po/it.po | 
+ | [ms](/f28/language/ms) | 51 | 131 | 38.9 | /mnt/stockage/packages/f28/paprefs/po/ms.po | 
+ | [pt](/f28/language/pt) | 51 | 131 | 38.9 | /mnt/stockage/packages/f28/paprefs/po/pt.po | 
+ | [th](/f28/language/th) | 51 | 131 | 38.9 | /mnt/stockage/packages/f28/paprefs/po/th.po | 
+ | [zh_Hans](/f28/language/zh_Hans) | 51 | 131 | 38.9 | /mnt/stockage/packages/f28/paprefs/po/zh_CN.po | 
+ | [tr](/f28/language/tr) | 28 | 131 | 21.4 | /mnt/stockage/packages/f28/paprefs/po/tr.po | 
+ | [el](/f28/language/el) | 15 | 131 | 11.5 | /mnt/stockage/packages/f28/paprefs/po/el.po | 
 {.sortable}
 
 

@@ -18,37 +18,37 @@ The package boinc-client (version 5.10.45):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f9/language/ca.md" >}}) | 863 | 863 | 100.0 | /mnt/stockage/packages/f9/boinc-client/languages/translations/ca.po/mnt/stockage/packages/f9/boinc-client/locale/client/ca/BOINC Manager.po | 
- | [cs]({{< ref "/f9/language/cs.md" >}}) | 2984 | 2984 | 100.0 | /mnt/stockage/packages/f9/boinc-client/languages/translations/cs.po/mnt/stockage/packages/f9/boinc-client/locale/client/cs/BOINC Manager.po | 
- | [da]({{< ref "/f9/language/da.md" >}}) | 2287 | 2287 | 100.0 | /mnt/stockage/packages/f9/boinc-client/locale/client/da/BOINC Manager.po | 
- | [el]({{< ref "/f9/language/el.md" >}}) | 1593 | 1593 | 100.0 | /mnt/stockage/packages/f9/boinc-client/locale/client/el/BOINC Manager.po | 
- | [es]({{< ref "/f9/language/es.md" >}}) | 3228 | 3228 | 100.0 | /mnt/stockage/packages/f9/boinc-client/languages/translations/es.po/mnt/stockage/packages/f9/boinc-client/locale/client/es/BOINC Manager.po | 
- | [fi]({{< ref "/f9/language/fi.md" >}}) | 2983 | 2983 | 100.0 | /mnt/stockage/packages/f9/boinc-client/locale/client/fi/BOINC Manager.po | 
- | [hr]({{< ref "/f9/language/hr.md" >}}) | 996 | 996 | 100.0 | /mnt/stockage/packages/f9/boinc-client/locale/client/hr/BOINC Manager.po | 
- | [hu]({{< ref "/f9/language/hu.md" >}}) | 1593 | 1593 | 100.0 | /mnt/stockage/packages/f9/boinc-client/locale/client/hu/BOINC Manager.po | 
- | [lv]({{< ref "/f9/language/lv.md" >}}) | 1827 | 1827 | 100.0 | /mnt/stockage/packages/f9/boinc-client/locale/client/lv/BOINC Manager.po | 
- | [nl]({{< ref "/f9/language/nl.md" >}}) | 3228 | 3228 | 100.0 | /mnt/stockage/packages/f9/boinc-client/languages/translations/nl.po/mnt/stockage/packages/f9/boinc-client/locale/client/nl/BOINC Manager.po | 
- | [pl]({{< ref "/f9/language/pl.md" >}}) | 3228 | 3228 | 100.0 | /mnt/stockage/packages/f9/boinc-client/languages/translations/pl.po/mnt/stockage/packages/f9/boinc-client/locale/client/pl/BOINC Manager.po | 
- | [pt]({{< ref "/f9/language/pt.md" >}}) | 766 | 766 | 100.0 | /mnt/stockage/packages/f9/boinc-client/locale/client/pt/BOINC Manager.po | 
- | [ro]({{< ref "/f9/language/ro.md" >}}) | 1549 | 1549 | 100.0 | /mnt/stockage/packages/f9/boinc-client/locale/client/ro/BOINC Manager.po | 
- | [sk]({{< ref "/f9/language/sk.md" >}}) | 3115 | 3115 | 100.0 | /mnt/stockage/packages/f9/boinc-client/languages/translations/sk.po/mnt/stockage/packages/f9/boinc-client/locale/client/sk/BOINC Manager.po | 
- | [sv]({{< ref "/f9/language/sv.md" >}}) | 2287 | 2287 | 100.0 | /mnt/stockage/packages/f9/boinc-client/locale/client/sv_SE/BOINC Manager.po | 
- | [zh_Hans]({{< ref "/f9/language/zh_Hans.md" >}}) | 3427 | 3427 | 100.0 | /mnt/stockage/packages/f9/boinc-client/languages/translations/zh_CN.po/mnt/stockage/packages/f9/boinc-client/locale/client/zh_CN/BOINC Manager.po | 
- | [zh_Hant]({{< ref "/f9/language/zh_Hant.md" >}}) | 3258 | 3258 | 100.0 | /mnt/stockage/packages/f9/boinc-client/locale/client/zh_TW/Boinc Manager.po | 
- | [pt_BR]({{< ref "/f9/language/pt_BR.md" >}}) | 2786 | 2787 | 100.0 | /mnt/stockage/packages/f9/boinc-client/languages/translations/pt_BR.po/mnt/stockage/packages/f9/boinc-client/locale/client/pt_BR/BOINC Manager.po | 
- | [fr]({{< ref "/f9/language/fr.md" >}}) | 2981 | 2983 | 99.9 | /mnt/stockage/packages/f9/boinc-client/languages/translations/fr.po/mnt/stockage/packages/f9/boinc-client/locale/client/fr/BOINC Manager.po | 
- | [bg]({{< ref "/f9/language/bg.md" >}}) | 2266 | 2271 | 99.8 | /mnt/stockage/packages/f9/boinc-client/languages/translations/bg.po/mnt/stockage/packages/f9/boinc-client/locale/client/bg/BOINC Manager.po | 
- | [de]({{< ref "/f9/language/de.md" >}}) | 3307 | 3316 | 99.7 | /mnt/stockage/packages/f9/boinc-client/languages/translations/de.po/mnt/stockage/packages/f9/boinc-client/locale/client/de/BOINC Manager.po | 
- | [ar]({{< ref "/f9/language/ar.md" >}}) | 3108 | 3127 | 99.4 | /mnt/stockage/packages/f9/boinc-client/languages/translations/ar.po/mnt/stockage/packages/f9/boinc-client/locale/client/ar/BOINC Manager.po | 
- | [ru]({{< ref "/f9/language/ru.md" >}}) | 3618 | 3685 | 98.2 | /mnt/stockage/packages/f9/boinc-client/languages/translations/ru.po/mnt/stockage/packages/f9/boinc-client/locale/client/ru/BOINC Manager.po | 
- | [be]({{< ref "/f9/language/be.md" >}}) | 2998 | 3060 | 98.0 | /mnt/stockage/packages/f9/boinc-client/languages/translations/be.po/mnt/stockage/packages/f9/boinc-client/locale/client/be/BOINC Manager.po | 
- | [ko]({{< ref "/f9/language/ko.md" >}}) | 2156 | 2360 | 91.4 | /mnt/stockage/packages/f9/boinc-client/locale/client/ko_KR/BOINC Manager.po | 
- | [ja]({{< ref "/f9/language/ja.md" >}}) | 5208 | 5860 | 88.9 | /mnt/stockage/packages/f9/boinc-client/languages/translations/ja.po/mnt/stockage/packages/f9/boinc-client/languages/translations/ja_JP.po/mnt/stockage/packages/f9/boinc-client/locale/client/ja/BOINC Manager.po/mnt/stockage/packages/f9/boinc-client/locale/client/ja/BOINC Manager.win98.po | 
- | [it]({{< ref "/f9/language/it.md" >}}) | 2193 | 2977 | 73.7 | /mnt/stockage/packages/f9/boinc-client/locale/client/it/BOINC Manager.po | 
- | [lt]({{< ref "/f9/language/lt.md" >}}) | 2258 | 3148 | 71.7 | /mnt/stockage/packages/f9/boinc-client/languages/translations/lt.po/mnt/stockage/packages/f9/boinc-client/locale/client/lt/BOINC Manager.po | 
- | [en]({{< ref "/f9/language/en.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f9/boinc-client/languages/translations/en.po | 
- | [en_US]({{< ref "/f9/language/en_US.md" >}}) | 0 | 3228 | 0.0 | /mnt/stockage/packages/f9/boinc-client/locale/client/en_US/BOINC Manager.po | 
- | [tr]({{< ref "/f9/language/tr.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f9/boinc-client/languages/translations/tr.po | 
+ | [ca](/f9/language/ca) | 863 | 863 | 100.0 | /mnt/stockage/packages/f9/boinc-client/languages/translations/ca.po/mnt/stockage/packages/f9/boinc-client/locale/client/ca/BOINC Manager.po | 
+ | [cs](/f9/language/cs) | 2984 | 2984 | 100.0 | /mnt/stockage/packages/f9/boinc-client/languages/translations/cs.po/mnt/stockage/packages/f9/boinc-client/locale/client/cs/BOINC Manager.po | 
+ | [da](/f9/language/da) | 2287 | 2287 | 100.0 | /mnt/stockage/packages/f9/boinc-client/locale/client/da/BOINC Manager.po | 
+ | [el](/f9/language/el) | 1593 | 1593 | 100.0 | /mnt/stockage/packages/f9/boinc-client/locale/client/el/BOINC Manager.po | 
+ | [es](/f9/language/es) | 3228 | 3228 | 100.0 | /mnt/stockage/packages/f9/boinc-client/languages/translations/es.po/mnt/stockage/packages/f9/boinc-client/locale/client/es/BOINC Manager.po | 
+ | [fi](/f9/language/fi) | 2983 | 2983 | 100.0 | /mnt/stockage/packages/f9/boinc-client/locale/client/fi/BOINC Manager.po | 
+ | [hr](/f9/language/hr) | 996 | 996 | 100.0 | /mnt/stockage/packages/f9/boinc-client/locale/client/hr/BOINC Manager.po | 
+ | [hu](/f9/language/hu) | 1593 | 1593 | 100.0 | /mnt/stockage/packages/f9/boinc-client/locale/client/hu/BOINC Manager.po | 
+ | [lv](/f9/language/lv) | 1827 | 1827 | 100.0 | /mnt/stockage/packages/f9/boinc-client/locale/client/lv/BOINC Manager.po | 
+ | [nl](/f9/language/nl) | 3228 | 3228 | 100.0 | /mnt/stockage/packages/f9/boinc-client/languages/translations/nl.po/mnt/stockage/packages/f9/boinc-client/locale/client/nl/BOINC Manager.po | 
+ | [pl](/f9/language/pl) | 3228 | 3228 | 100.0 | /mnt/stockage/packages/f9/boinc-client/languages/translations/pl.po/mnt/stockage/packages/f9/boinc-client/locale/client/pl/BOINC Manager.po | 
+ | [pt](/f9/language/pt) | 766 | 766 | 100.0 | /mnt/stockage/packages/f9/boinc-client/locale/client/pt/BOINC Manager.po | 
+ | [ro](/f9/language/ro) | 1549 | 1549 | 100.0 | /mnt/stockage/packages/f9/boinc-client/locale/client/ro/BOINC Manager.po | 
+ | [sk](/f9/language/sk) | 3115 | 3115 | 100.0 | /mnt/stockage/packages/f9/boinc-client/languages/translations/sk.po/mnt/stockage/packages/f9/boinc-client/locale/client/sk/BOINC Manager.po | 
+ | [sv](/f9/language/sv) | 2287 | 2287 | 100.0 | /mnt/stockage/packages/f9/boinc-client/locale/client/sv_SE/BOINC Manager.po | 
+ | [zh_Hans](/f9/language/zh_Hans) | 3427 | 3427 | 100.0 | /mnt/stockage/packages/f9/boinc-client/languages/translations/zh_CN.po/mnt/stockage/packages/f9/boinc-client/locale/client/zh_CN/BOINC Manager.po | 
+ | [zh_Hant](/f9/language/zh_Hant) | 3258 | 3258 | 100.0 | /mnt/stockage/packages/f9/boinc-client/locale/client/zh_TW/Boinc Manager.po | 
+ | [pt_BR](/f9/language/pt_BR) | 2786 | 2787 | 100.0 | /mnt/stockage/packages/f9/boinc-client/languages/translations/pt_BR.po/mnt/stockage/packages/f9/boinc-client/locale/client/pt_BR/BOINC Manager.po | 
+ | [fr](/f9/language/fr) | 2981 | 2983 | 99.9 | /mnt/stockage/packages/f9/boinc-client/languages/translations/fr.po/mnt/stockage/packages/f9/boinc-client/locale/client/fr/BOINC Manager.po | 
+ | [bg](/f9/language/bg) | 2266 | 2271 | 99.8 | /mnt/stockage/packages/f9/boinc-client/languages/translations/bg.po/mnt/stockage/packages/f9/boinc-client/locale/client/bg/BOINC Manager.po | 
+ | [de](/f9/language/de) | 3307 | 3316 | 99.7 | /mnt/stockage/packages/f9/boinc-client/languages/translations/de.po/mnt/stockage/packages/f9/boinc-client/locale/client/de/BOINC Manager.po | 
+ | [ar](/f9/language/ar) | 3108 | 3127 | 99.4 | /mnt/stockage/packages/f9/boinc-client/languages/translations/ar.po/mnt/stockage/packages/f9/boinc-client/locale/client/ar/BOINC Manager.po | 
+ | [ru](/f9/language/ru) | 3618 | 3685 | 98.2 | /mnt/stockage/packages/f9/boinc-client/languages/translations/ru.po/mnt/stockage/packages/f9/boinc-client/locale/client/ru/BOINC Manager.po | 
+ | [be](/f9/language/be) | 2998 | 3060 | 98.0 | /mnt/stockage/packages/f9/boinc-client/languages/translations/be.po/mnt/stockage/packages/f9/boinc-client/locale/client/be/BOINC Manager.po | 
+ | [ko](/f9/language/ko) | 2156 | 2360 | 91.4 | /mnt/stockage/packages/f9/boinc-client/locale/client/ko_KR/BOINC Manager.po | 
+ | [ja](/f9/language/ja) | 5208 | 5860 | 88.9 | /mnt/stockage/packages/f9/boinc-client/languages/translations/ja.po/mnt/stockage/packages/f9/boinc-client/languages/translations/ja_JP.po/mnt/stockage/packages/f9/boinc-client/locale/client/ja/BOINC Manager.po/mnt/stockage/packages/f9/boinc-client/locale/client/ja/BOINC Manager.win98.po | 
+ | [it](/f9/language/it) | 2193 | 2977 | 73.7 | /mnt/stockage/packages/f9/boinc-client/locale/client/it/BOINC Manager.po | 
+ | [lt](/f9/language/lt) | 2258 | 3148 | 71.7 | /mnt/stockage/packages/f9/boinc-client/languages/translations/lt.po/mnt/stockage/packages/f9/boinc-client/locale/client/lt/BOINC Manager.po | 
+ | [en](/f9/language/en) | 0 | 0 | 0.0 | /mnt/stockage/packages/f9/boinc-client/languages/translations/en.po | 
+ | [en_US](/f9/language/en_US) | 0 | 3228 | 0.0 | /mnt/stockage/packages/f9/boinc-client/locale/client/en_US/BOINC Manager.po | 
+ | [tr](/f9/language/tr) | 0 | 0 | 0.0 | /mnt/stockage/packages/f9/boinc-client/languages/translations/tr.po | 
 {.sortable}
 
 

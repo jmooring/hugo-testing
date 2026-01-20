@@ -38,7 +38,7 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [efl]({{< ref "/f41/package/efl.md" >}}) | 5 | 5 | 100.0 |  | 
+ | [efl](/f41/package/efl) | 5 | 5 | 100.0 |  | 
 {.sortable}
 
 

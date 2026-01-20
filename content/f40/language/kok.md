@@ -38,10 +38,10 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [gnucash]({{< ref "/f40/package/gnucash.md" >}}) | 22313 | 39597 | 56.4 | NONE | 
- | [inkscape]({{< ref "/f40/package/inkscape.md" >}}) | 16975 | 49568 | 34.2 | Konkani | 
- | [libreoffice]({{< ref "/f40/package/libreoffice.md" >}}) | 42179 | 171085 | 24.7 | Konkani <https://translations.documentfoundation.org/projects/libo_ui-24-2/accessibilitymessages/kok/> | 
- | [iso-codes]({{< ref "/f40/package/iso-codes.md" >}}) | 247 | 14815 | 1.7 | Konkani | 
+ | [gnucash](/f40/package/gnucash) | 22313 | 39597 | 56.4 | NONE | 
+ | [inkscape](/f40/package/inkscape) | 16975 | 49568 | 34.2 | Konkani | 
+ | [libreoffice](/f40/package/libreoffice) | 42179 | 171085 | 24.7 | Konkani <https://translations.documentfoundation.org/projects/libo_ui-24-2/accessibilitymessages/kok/> | 
+ | [iso-codes](/f40/package/iso-codes) | 247 | 14815 | 1.7 | Konkani | 
 {.sortable}
 
 

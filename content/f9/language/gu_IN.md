@@ -38,10 +38,10 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [publican-fedora]({{< ref "/f9/package/publican-fedora.md" >}}) | 898 | 1079 | 83.2 | Gujarati <fedora-trans-gu@redhat.com> | 
- | [emerald]({{< ref "/f9/package/emerald.md" >}}) | 577 | 762 | 75.7 | beryl-project <ixce@beryl-project.org> | 
- | [publican]({{< ref "/f9/package/publican.md" >}}) | 370 | 3345 | 11.1 | Gujarati <fedora-trans-gu@redhat.com> | 
- | [pgadmin3]({{< ref "/f9/package/pgadmin3.md" >}}) | 2 | 7331 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [publican-fedora](/f9/package/publican-fedora) | 898 | 1079 | 83.2 | Gujarati <fedora-trans-gu@redhat.com> | 
+ | [emerald](/f9/package/emerald) | 577 | 762 | 75.7 | beryl-project <ixce@beryl-project.org> | 
+ | [publican](/f9/package/publican) | 370 | 3345 | 11.1 | Gujarati <fedora-trans-gu@redhat.com> | 
+ | [pgadmin3](/f9/package/pgadmin3) | 2 | 7331 | 0.0 | LANGUAGE <LL@li.org> | 
 {.sortable}
 
 

@@ -18,48 +18,48 @@ The package kio-gdrive (version 23.08.5):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f39/language/ar.md" >}}) | 76 | 76 | 100.0 | /mnt/stockage/packages/f39/kio-gdrive/po/ar/kio5_gdrive.po | 
- | [az]({{< ref "/f39/language/az.md" >}}) | 76 | 76 | 100.0 | /mnt/stockage/packages/f39/kio-gdrive/po/az/kio5_gdrive.po | 
- | [be]({{< ref "/f39/language/be.md" >}}) | 76 | 76 | 100.0 | /mnt/stockage/packages/f39/kio-gdrive/po/be/kio5_gdrive.po | 
- | [ca]({{< ref "/f39/language/ca.md" >}}) | 76 | 76 | 100.0 | /mnt/stockage/packages/f39/kio-gdrive/po/ca/kio5_gdrive.po | 
- | [ca@valencia]({{< ref "/f39/language/ca@valencia.md" >}}) | 76 | 76 | 100.0 | /mnt/stockage/packages/f39/kio-gdrive/po/ca@valencia/kio5_gdrive.po | 
- | [de]({{< ref "/f39/language/de.md" >}}) | 76 | 76 | 100.0 | /mnt/stockage/packages/f39/kio-gdrive/po/de/kio5_gdrive.po | 
- | [en_GB]({{< ref "/f39/language/en_GB.md" >}}) | 76 | 76 | 100.0 | /mnt/stockage/packages/f39/kio-gdrive/po/en_GB/kio5_gdrive.po | 
- | [es]({{< ref "/f39/language/es.md" >}}) | 76 | 76 | 100.0 | /mnt/stockage/packages/f39/kio-gdrive/po/es/kio5_gdrive.po | 
- | [eu]({{< ref "/f39/language/eu.md" >}}) | 76 | 76 | 100.0 | /mnt/stockage/packages/f39/kio-gdrive/po/eu/kio5_gdrive.po | 
- | [fi]({{< ref "/f39/language/fi.md" >}}) | 76 | 76 | 100.0 | /mnt/stockage/packages/f39/kio-gdrive/po/fi/kio5_gdrive.po | 
- | [fr]({{< ref "/f39/language/fr.md" >}}) | 76 | 76 | 100.0 | /mnt/stockage/packages/f39/kio-gdrive/po/fr/kio5_gdrive.po | 
- | [gl]({{< ref "/f39/language/gl.md" >}}) | 76 | 76 | 100.0 | /mnt/stockage/packages/f39/kio-gdrive/po/gl/kio5_gdrive.po | 
- | [ia]({{< ref "/f39/language/ia.md" >}}) | 76 | 76 | 100.0 | /mnt/stockage/packages/f39/kio-gdrive/po/ia/kio5_gdrive.po | 
- | [id]({{< ref "/f39/language/id.md" >}}) | 76 | 76 | 100.0 | /mnt/stockage/packages/f39/kio-gdrive/po/id/kio5_gdrive.po | 
- | [it]({{< ref "/f39/language/it.md" >}}) | 76 | 76 | 100.0 | /mnt/stockage/packages/f39/kio-gdrive/po/it/kio5_gdrive.po | 
- | [ka]({{< ref "/f39/language/ka.md" >}}) | 76 | 76 | 100.0 | /mnt/stockage/packages/f39/kio-gdrive/po/ka/kio5_gdrive.po | 
- | [ko]({{< ref "/f39/language/ko.md" >}}) | 76 | 76 | 100.0 | /mnt/stockage/packages/f39/kio-gdrive/po/ko/kio5_gdrive.po | 
- | [nl]({{< ref "/f39/language/nl.md" >}}) | 76 | 76 | 100.0 | /mnt/stockage/packages/f39/kio-gdrive/po/nl/kio5_gdrive.po | 
- | [nn]({{< ref "/f39/language/nn.md" >}}) | 76 | 76 | 100.0 | /mnt/stockage/packages/f39/kio-gdrive/po/nn/kio5_gdrive.po | 
- | [pl]({{< ref "/f39/language/pl.md" >}}) | 76 | 76 | 100.0 | /mnt/stockage/packages/f39/kio-gdrive/po/pl/kio5_gdrive.po | 
- | [pt]({{< ref "/f39/language/pt.md" >}}) | 76 | 76 | 100.0 | /mnt/stockage/packages/f39/kio-gdrive/po/pt/kio5_gdrive.po | 
- | [pt_BR]({{< ref "/f39/language/pt_BR.md" >}}) | 76 | 76 | 100.0 | /mnt/stockage/packages/f39/kio-gdrive/po/pt_BR/kio5_gdrive.po | 
- | [ru]({{< ref "/f39/language/ru.md" >}}) | 76 | 76 | 100.0 | /mnt/stockage/packages/f39/kio-gdrive/po/ru/kio5_gdrive.po | 
- | [sk]({{< ref "/f39/language/sk.md" >}}) | 76 | 76 | 100.0 | /mnt/stockage/packages/f39/kio-gdrive/po/sk/kio5_gdrive.po | 
- | [sl]({{< ref "/f39/language/sl.md" >}}) | 76 | 76 | 100.0 | /mnt/stockage/packages/f39/kio-gdrive/po/sl/kio5_gdrive.po | 
- | [sv]({{< ref "/f39/language/sv.md" >}}) | 76 | 76 | 100.0 | /mnt/stockage/packages/f39/kio-gdrive/po/sv/kio5_gdrive.po | 
- | [ta]({{< ref "/f39/language/ta.md" >}}) | 76 | 76 | 100.0 | /mnt/stockage/packages/f39/kio-gdrive/po/ta/kio5_gdrive.po | 
- | [tr]({{< ref "/f39/language/tr.md" >}}) | 76 | 76 | 100.0 | /mnt/stockage/packages/f39/kio-gdrive/po/tr/kio5_gdrive.po | 
- | [uk]({{< ref "/f39/language/uk.md" >}}) | 76 | 76 | 100.0 | /mnt/stockage/packages/f39/kio-gdrive/po/uk/kio5_gdrive.po | 
- | [zh_Hans]({{< ref "/f39/language/zh_Hans.md" >}}) | 76 | 76 | 100.0 | /mnt/stockage/packages/f39/kio-gdrive/po/zh_CN/kio5_gdrive.po | 
- | [zh_Hant]({{< ref "/f39/language/zh_Hant.md" >}}) | 76 | 76 | 100.0 | /mnt/stockage/packages/f39/kio-gdrive/po/zh_TW/kio5_gdrive.po | 
- | [cs]({{< ref "/f39/language/cs.md" >}}) | 68 | 76 | 89.5 | /mnt/stockage/packages/f39/kio-gdrive/po/cs/kio5_gdrive.po | 
- | [da]({{< ref "/f39/language/da.md" >}}) | 65 | 76 | 85.5 | /mnt/stockage/packages/f39/kio-gdrive/po/da/kio5_gdrive.po | 
- | [el]({{< ref "/f39/language/el.md" >}}) | 63 | 76 | 82.9 | /mnt/stockage/packages/f39/kio-gdrive/po/el/kio5_gdrive.po | 
- | [hi]({{< ref "/f39/language/hi.md" >}}) | 63 | 76 | 82.9 | /mnt/stockage/packages/f39/kio-gdrive/po/hi/kio5_gdrive.po | 
- | [hu]({{< ref "/f39/language/hu.md" >}}) | 63 | 76 | 82.9 | /mnt/stockage/packages/f39/kio-gdrive/po/hu/kio5_gdrive.po | 
- | [lt]({{< ref "/f39/language/lt.md" >}}) | 63 | 76 | 82.9 | /mnt/stockage/packages/f39/kio-gdrive/po/lt/kio5_gdrive.po | 
- | [ie]({{< ref "/f39/language/ie.md" >}}) | 60 | 76 | 78.9 | /mnt/stockage/packages/f39/kio-gdrive/po/ie/kio5_gdrive.po | 
- | [ro]({{< ref "/f39/language/ro.md" >}}) | 52 | 76 | 68.4 | /mnt/stockage/packages/f39/kio-gdrive/po/ro/kio5_gdrive.po | 
- | [et]({{< ref "/f39/language/et.md" >}}) | 47 | 76 | 61.8 | /mnt/stockage/packages/f39/kio-gdrive/po/et/kio5_gdrive.po | 
- | [he]({{< ref "/f39/language/he.md" >}}) | 12 | 76 | 15.8 | /mnt/stockage/packages/f39/kio-gdrive/po/he/kio5_gdrive.po | 
- | [ja]({{< ref "/f39/language/ja.md" >}}) | 0 | 76 | 0.0 | /mnt/stockage/packages/f39/kio-gdrive/po/ja/kio5_gdrive.po | 
+ | [ar](/f39/language/ar) | 76 | 76 | 100.0 | /mnt/stockage/packages/f39/kio-gdrive/po/ar/kio5_gdrive.po | 
+ | [az](/f39/language/az) | 76 | 76 | 100.0 | /mnt/stockage/packages/f39/kio-gdrive/po/az/kio5_gdrive.po | 
+ | [be](/f39/language/be) | 76 | 76 | 100.0 | /mnt/stockage/packages/f39/kio-gdrive/po/be/kio5_gdrive.po | 
+ | [ca](/f39/language/ca) | 76 | 76 | 100.0 | /mnt/stockage/packages/f39/kio-gdrive/po/ca/kio5_gdrive.po | 
+ | [ca@valencia](/f39/language/ca@valencia) | 76 | 76 | 100.0 | /mnt/stockage/packages/f39/kio-gdrive/po/ca@valencia/kio5_gdrive.po | 
+ | [de](/f39/language/de) | 76 | 76 | 100.0 | /mnt/stockage/packages/f39/kio-gdrive/po/de/kio5_gdrive.po | 
+ | [en_GB](/f39/language/en_GB) | 76 | 76 | 100.0 | /mnt/stockage/packages/f39/kio-gdrive/po/en_GB/kio5_gdrive.po | 
+ | [es](/f39/language/es) | 76 | 76 | 100.0 | /mnt/stockage/packages/f39/kio-gdrive/po/es/kio5_gdrive.po | 
+ | [eu](/f39/language/eu) | 76 | 76 | 100.0 | /mnt/stockage/packages/f39/kio-gdrive/po/eu/kio5_gdrive.po | 
+ | [fi](/f39/language/fi) | 76 | 76 | 100.0 | /mnt/stockage/packages/f39/kio-gdrive/po/fi/kio5_gdrive.po | 
+ | [fr](/f39/language/fr) | 76 | 76 | 100.0 | /mnt/stockage/packages/f39/kio-gdrive/po/fr/kio5_gdrive.po | 
+ | [gl](/f39/language/gl) | 76 | 76 | 100.0 | /mnt/stockage/packages/f39/kio-gdrive/po/gl/kio5_gdrive.po | 
+ | [ia](/f39/language/ia) | 76 | 76 | 100.0 | /mnt/stockage/packages/f39/kio-gdrive/po/ia/kio5_gdrive.po | 
+ | [id](/f39/language/id) | 76 | 76 | 100.0 | /mnt/stockage/packages/f39/kio-gdrive/po/id/kio5_gdrive.po | 
+ | [it](/f39/language/it) | 76 | 76 | 100.0 | /mnt/stockage/packages/f39/kio-gdrive/po/it/kio5_gdrive.po | 
+ | [ka](/f39/language/ka) | 76 | 76 | 100.0 | /mnt/stockage/packages/f39/kio-gdrive/po/ka/kio5_gdrive.po | 
+ | [ko](/f39/language/ko) | 76 | 76 | 100.0 | /mnt/stockage/packages/f39/kio-gdrive/po/ko/kio5_gdrive.po | 
+ | [nl](/f39/language/nl) | 76 | 76 | 100.0 | /mnt/stockage/packages/f39/kio-gdrive/po/nl/kio5_gdrive.po | 
+ | [nn](/f39/language/nn) | 76 | 76 | 100.0 | /mnt/stockage/packages/f39/kio-gdrive/po/nn/kio5_gdrive.po | 
+ | [pl](/f39/language/pl) | 76 | 76 | 100.0 | /mnt/stockage/packages/f39/kio-gdrive/po/pl/kio5_gdrive.po | 
+ | [pt](/f39/language/pt) | 76 | 76 | 100.0 | /mnt/stockage/packages/f39/kio-gdrive/po/pt/kio5_gdrive.po | 
+ | [pt_BR](/f39/language/pt_BR) | 76 | 76 | 100.0 | /mnt/stockage/packages/f39/kio-gdrive/po/pt_BR/kio5_gdrive.po | 
+ | [ru](/f39/language/ru) | 76 | 76 | 100.0 | /mnt/stockage/packages/f39/kio-gdrive/po/ru/kio5_gdrive.po | 
+ | [sk](/f39/language/sk) | 76 | 76 | 100.0 | /mnt/stockage/packages/f39/kio-gdrive/po/sk/kio5_gdrive.po | 
+ | [sl](/f39/language/sl) | 76 | 76 | 100.0 | /mnt/stockage/packages/f39/kio-gdrive/po/sl/kio5_gdrive.po | 
+ | [sv](/f39/language/sv) | 76 | 76 | 100.0 | /mnt/stockage/packages/f39/kio-gdrive/po/sv/kio5_gdrive.po | 
+ | [ta](/f39/language/ta) | 76 | 76 | 100.0 | /mnt/stockage/packages/f39/kio-gdrive/po/ta/kio5_gdrive.po | 
+ | [tr](/f39/language/tr) | 76 | 76 | 100.0 | /mnt/stockage/packages/f39/kio-gdrive/po/tr/kio5_gdrive.po | 
+ | [uk](/f39/language/uk) | 76 | 76 | 100.0 | /mnt/stockage/packages/f39/kio-gdrive/po/uk/kio5_gdrive.po | 
+ | [zh_Hans](/f39/language/zh_Hans) | 76 | 76 | 100.0 | /mnt/stockage/packages/f39/kio-gdrive/po/zh_CN/kio5_gdrive.po | 
+ | [zh_Hant](/f39/language/zh_Hant) | 76 | 76 | 100.0 | /mnt/stockage/packages/f39/kio-gdrive/po/zh_TW/kio5_gdrive.po | 
+ | [cs](/f39/language/cs) | 68 | 76 | 89.5 | /mnt/stockage/packages/f39/kio-gdrive/po/cs/kio5_gdrive.po | 
+ | [da](/f39/language/da) | 65 | 76 | 85.5 | /mnt/stockage/packages/f39/kio-gdrive/po/da/kio5_gdrive.po | 
+ | [el](/f39/language/el) | 63 | 76 | 82.9 | /mnt/stockage/packages/f39/kio-gdrive/po/el/kio5_gdrive.po | 
+ | [hi](/f39/language/hi) | 63 | 76 | 82.9 | /mnt/stockage/packages/f39/kio-gdrive/po/hi/kio5_gdrive.po | 
+ | [hu](/f39/language/hu) | 63 | 76 | 82.9 | /mnt/stockage/packages/f39/kio-gdrive/po/hu/kio5_gdrive.po | 
+ | [lt](/f39/language/lt) | 63 | 76 | 82.9 | /mnt/stockage/packages/f39/kio-gdrive/po/lt/kio5_gdrive.po | 
+ | [ie](/f39/language/ie) | 60 | 76 | 78.9 | /mnt/stockage/packages/f39/kio-gdrive/po/ie/kio5_gdrive.po | 
+ | [ro](/f39/language/ro) | 52 | 76 | 68.4 | /mnt/stockage/packages/f39/kio-gdrive/po/ro/kio5_gdrive.po | 
+ | [et](/f39/language/et) | 47 | 76 | 61.8 | /mnt/stockage/packages/f39/kio-gdrive/po/et/kio5_gdrive.po | 
+ | [he](/f39/language/he) | 12 | 76 | 15.8 | /mnt/stockage/packages/f39/kio-gdrive/po/he/kio5_gdrive.po | 
+ | [ja](/f39/language/ja) | 0 | 76 | 0.0 | /mnt/stockage/packages/f39/kio-gdrive/po/ja/kio5_gdrive.po | 
 {.sortable}
 
 

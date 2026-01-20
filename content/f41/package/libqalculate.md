@@ -18,15 +18,15 @@ The package libqalculate (version 5.2.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ru]({{< ref "/f41/language/ru.md" >}}) | 13974 | 14114 | 99.0 | /mnt/stockage/packages/f41/libqalculate/po/ru.po/mnt/stockage/packages/f41/libqalculate/po-defs/ru.po | 
- | [zh_Hans]({{< ref "/f41/language/zh_Hans.md" >}}) | 12321 | 14114 | 87.3 | /mnt/stockage/packages/f41/libqalculate/po/zh_CN.po/mnt/stockage/packages/f41/libqalculate/po-defs/zh_CN.po | 
- | [de]({{< ref "/f41/language/de.md" >}}) | 3755 | 4349 | 86.3 | /mnt/stockage/packages/f41/libqalculate/po/de.po | 
- | [sv]({{< ref "/f41/language/sv.md" >}}) | 12125 | 14114 | 85.9 | /mnt/stockage/packages/f41/libqalculate/po/sv.po/mnt/stockage/packages/f41/libqalculate/po-defs/sv.po | 
- | [es]({{< ref "/f41/language/es.md" >}}) | 11833 | 14114 | 83.8 | /mnt/stockage/packages/f41/libqalculate/po/es.po/mnt/stockage/packages/f41/libqalculate/po-defs/es.po | 
- | [ka]({{< ref "/f41/language/ka.md" >}}) | 2884 | 4349 | 66.3 | /mnt/stockage/packages/f41/libqalculate/po/ka.po | 
- | [fr]({{< ref "/f41/language/fr.md" >}}) | 8493 | 14114 | 60.2 | /mnt/stockage/packages/f41/libqalculate/po/fr.po/mnt/stockage/packages/f41/libqalculate/po-defs/fr.po | 
- | [ca]({{< ref "/f41/language/ca.md" >}}) | 6876 | 14114 | 48.7 | /mnt/stockage/packages/f41/libqalculate/po/ca.po/mnt/stockage/packages/f41/libqalculate/po-defs/ca.po | 
- | [nl]({{< ref "/f41/language/nl.md" >}}) | 5942 | 14114 | 42.1 | /mnt/stockage/packages/f41/libqalculate/po/nl.po/mnt/stockage/packages/f41/libqalculate/po-defs/nl.po | 
+ | [ru](/f41/language/ru) | 13974 | 14114 | 99.0 | /mnt/stockage/packages/f41/libqalculate/po/ru.po/mnt/stockage/packages/f41/libqalculate/po-defs/ru.po | 
+ | [zh_Hans](/f41/language/zh_Hans) | 12321 | 14114 | 87.3 | /mnt/stockage/packages/f41/libqalculate/po/zh_CN.po/mnt/stockage/packages/f41/libqalculate/po-defs/zh_CN.po | 
+ | [de](/f41/language/de) | 3755 | 4349 | 86.3 | /mnt/stockage/packages/f41/libqalculate/po/de.po | 
+ | [sv](/f41/language/sv) | 12125 | 14114 | 85.9 | /mnt/stockage/packages/f41/libqalculate/po/sv.po/mnt/stockage/packages/f41/libqalculate/po-defs/sv.po | 
+ | [es](/f41/language/es) | 11833 | 14114 | 83.8 | /mnt/stockage/packages/f41/libqalculate/po/es.po/mnt/stockage/packages/f41/libqalculate/po-defs/es.po | 
+ | [ka](/f41/language/ka) | 2884 | 4349 | 66.3 | /mnt/stockage/packages/f41/libqalculate/po/ka.po | 
+ | [fr](/f41/language/fr) | 8493 | 14114 | 60.2 | /mnt/stockage/packages/f41/libqalculate/po/fr.po/mnt/stockage/packages/f41/libqalculate/po-defs/fr.po | 
+ | [ca](/f41/language/ca) | 6876 | 14114 | 48.7 | /mnt/stockage/packages/f41/libqalculate/po/ca.po/mnt/stockage/packages/f41/libqalculate/po-defs/ca.po | 
+ | [nl](/f41/language/nl) | 5942 | 14114 | 42.1 | /mnt/stockage/packages/f41/libqalculate/po/nl.po/mnt/stockage/packages/f41/libqalculate/po-defs/nl.po | 
 {.sortable}
 
 

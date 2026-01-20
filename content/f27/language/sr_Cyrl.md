@@ -38,13 +38,13 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [godot]({{< ref "/f27/package/godot.md" >}}) | 4265 | 7030 | 60.7 | Serbian (cyrillic) <https://hosted.weblate.org/projects/godot-engine/godot/sr_Cyrl/> | 
- | [minetest]({{< ref "/f27/package/minetest.md" >}}) | 1615 | 6406 | 25.2 | Serbian (cyrillic) <https://hosted.weblate.org/projects/minetest/minetest/sr_Cyrl/> | 
- | [publican]({{< ref "/f27/package/publican.md" >}}) | 1058 | 5443 | 19.4 | Serbian <trans-sr@lists.fedoraproject.org> | 
- | [wine]({{< ref "/f27/package/wine.md" >}}) | 2192 | 15757 | 13.9 | Serbian (Cyrillic) | 
- | [mypaint]({{< ref "/f27/package/mypaint.md" >}}) | 161 | 5320 | 3.0 | Serbian (cyrillic) <https://hosted.weblate.org/projects/mypaint/mypaint/sr@cyrillic/> | 
- | [blivet-gui]({{< ref "/f27/package/blivet-gui.md" >}}) | 0 | 703 | 0.0 | Serbian (Cyrillic) | 
- | [fonts-tweak-tool]({{< ref "/f27/package/fonts-tweak-tool.md" >}}) | 0 | 164 | 0.0 | Serbian (Cyrillic) | 
+ | [godot](/f27/package/godot) | 4265 | 7030 | 60.7 | Serbian (cyrillic) <https://hosted.weblate.org/projects/godot-engine/godot/sr_Cyrl/> | 
+ | [minetest](/f27/package/minetest) | 1615 | 6406 | 25.2 | Serbian (cyrillic) <https://hosted.weblate.org/projects/minetest/minetest/sr_Cyrl/> | 
+ | [publican](/f27/package/publican) | 1058 | 5443 | 19.4 | Serbian <trans-sr@lists.fedoraproject.org> | 
+ | [wine](/f27/package/wine) | 2192 | 15757 | 13.9 | Serbian (Cyrillic) | 
+ | [mypaint](/f27/package/mypaint) | 161 | 5320 | 3.0 | Serbian (cyrillic) <https://hosted.weblate.org/projects/mypaint/mypaint/sr@cyrillic/> | 
+ | [blivet-gui](/f27/package/blivet-gui) | 0 | 703 | 0.0 | Serbian (Cyrillic) | 
+ | [fonts-tweak-tool](/f27/package/fonts-tweak-tool) | 0 | 164 | 0.0 | Serbian (Cyrillic) | 
 {.sortable}
 
 

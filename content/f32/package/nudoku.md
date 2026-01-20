@@ -18,10 +18,10 @@ The package nudoku (version 2.0.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [es]({{< ref "/f32/language/es.md" >}}) | 121 | 139 | 87.1 | /mnt/stockage/packages/f32/nudoku/po/es.po | 
- | [de]({{< ref "/f32/language/de.md" >}}) | 90 | 139 | 64.7 | /mnt/stockage/packages/f32/nudoku/po/de.po | 
- | [fr]({{< ref "/f32/language/fr.md" >}}) | 90 | 139 | 64.7 | /mnt/stockage/packages/f32/nudoku/po/fr.po | 
- | [ru]({{< ref "/f32/language/ru.md" >}}) | 87 | 139 | 62.6 | /mnt/stockage/packages/f32/nudoku/po/ru.po | 
+ | [es](/f32/language/es) | 121 | 139 | 87.1 | /mnt/stockage/packages/f32/nudoku/po/es.po | 
+ | [de](/f32/language/de) | 90 | 139 | 64.7 | /mnt/stockage/packages/f32/nudoku/po/de.po | 
+ | [fr](/f32/language/fr) | 90 | 139 | 64.7 | /mnt/stockage/packages/f32/nudoku/po/fr.po | 
+ | [ru](/f32/language/ru) | 87 | 139 | 62.6 | /mnt/stockage/packages/f32/nudoku/po/ru.po | 
 {.sortable}
 
 

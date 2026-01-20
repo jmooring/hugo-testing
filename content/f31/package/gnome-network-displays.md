@@ -18,9 +18,9 @@ The package gnome-network-displays (version 0.90.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [it]({{< ref "/f31/language/it.md" >}}) | 118 | 118 | 100.0 | /mnt/stockage/packages/f31/gnome-network-displays/po/it.po | 
- | [tr]({{< ref "/f31/language/tr.md" >}}) | 118 | 118 | 100.0 | /mnt/stockage/packages/f31/gnome-network-displays/po/tr.po | 
- | [de]({{< ref "/f31/language/de.md" >}}) | 115 | 118 | 97.5 | /mnt/stockage/packages/f31/gnome-network-displays/po/de.po | 
+ | [it](/f31/language/it) | 118 | 118 | 100.0 | /mnt/stockage/packages/f31/gnome-network-displays/po/it.po | 
+ | [tr](/f31/language/tr) | 118 | 118 | 100.0 | /mnt/stockage/packages/f31/gnome-network-displays/po/tr.po | 
+ | [de](/f31/language/de) | 115 | 118 | 97.5 | /mnt/stockage/packages/f31/gnome-network-displays/po/de.po | 
 {.sortable}
 
 

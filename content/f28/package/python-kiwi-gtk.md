@@ -18,13 +18,13 @@ The package python-kiwi-gtk (version 1.11.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [pt_BR]({{< ref "/f28/language/pt_BR.md" >}}) | 196 | 196 | 100.0 | /mnt/stockage/packages/f28/python-kiwi-gtk/po/pt_BR.po | 
- | [es]({{< ref "/f28/language/es.md" >}}) | 179 | 196 | 91.3 | /mnt/stockage/packages/f28/python-kiwi-gtk/po/es_ES.po | 
- | [es_CL]({{< ref "/f28/language/es_CL.md" >}}) | 179 | 196 | 91.3 | /mnt/stockage/packages/f28/python-kiwi-gtk/po/es_CL.po | 
- | [it]({{< ref "/f28/language/it.md" >}}) | 179 | 196 | 91.3 | /mnt/stockage/packages/f28/python-kiwi-gtk/po/it.po | 
- | [pl]({{< ref "/f28/language/pl.md" >}}) | 170 | 196 | 86.7 | /mnt/stockage/packages/f28/python-kiwi-gtk/po/pl.po | 
- | [sv]({{< ref "/f28/language/sv.md" >}}) | 163 | 196 | 83.2 | /mnt/stockage/packages/f28/python-kiwi-gtk/po/sv.po | 
- | [fr]({{< ref "/f28/language/fr.md" >}}) | 140 | 196 | 71.4 | /mnt/stockage/packages/f28/python-kiwi-gtk/po/fr.po | 
+ | [pt_BR](/f28/language/pt_BR) | 196 | 196 | 100.0 | /mnt/stockage/packages/f28/python-kiwi-gtk/po/pt_BR.po | 
+ | [es](/f28/language/es) | 179 | 196 | 91.3 | /mnt/stockage/packages/f28/python-kiwi-gtk/po/es_ES.po | 
+ | [es_CL](/f28/language/es_CL) | 179 | 196 | 91.3 | /mnt/stockage/packages/f28/python-kiwi-gtk/po/es_CL.po | 
+ | [it](/f28/language/it) | 179 | 196 | 91.3 | /mnt/stockage/packages/f28/python-kiwi-gtk/po/it.po | 
+ | [pl](/f28/language/pl) | 170 | 196 | 86.7 | /mnt/stockage/packages/f28/python-kiwi-gtk/po/pl.po | 
+ | [sv](/f28/language/sv) | 163 | 196 | 83.2 | /mnt/stockage/packages/f28/python-kiwi-gtk/po/sv.po | 
+ | [fr](/f28/language/fr) | 140 | 196 | 71.4 | /mnt/stockage/packages/f28/python-kiwi-gtk/po/fr.po | 
 {.sortable}
 
 

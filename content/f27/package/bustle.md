@@ -18,7 +18,7 @@ The package bustle (version 0.5.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [en]({{< ref "/f27/language/en.md" >}}) | 119 | 119 | 100.0 | /mnt/stockage/packages/f27/bustle/po/en.po | 
+ | [en](/f27/language/en) | 119 | 119 | 100.0 | /mnt/stockage/packages/f27/bustle/po/en.po | 
 {.sortable}
 
 

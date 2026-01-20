@@ -18,34 +18,34 @@ The package gedit-latex (version 3.20.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [bs]({{< ref "/f28/language/bs.md" >}}) | 468 | 468 | 100.0 | /mnt/stockage/packages/f28/gedit-latex/po/bs.po | 
- | [cs]({{< ref "/f28/language/cs.md" >}}) | 468 | 468 | 100.0 | /mnt/stockage/packages/f28/gedit-latex/po/cs.po | 
- | [da]({{< ref "/f28/language/da.md" >}}) | 466 | 466 | 100.0 | /mnt/stockage/packages/f28/gedit-latex/po/da.po | 
- | [de]({{< ref "/f28/language/de.md" >}}) | 478 | 478 | 100.0 | /mnt/stockage/packages/f28/gedit-latex/po/de.po | 
- | [el]({{< ref "/f28/language/el.md" >}}) | 468 | 468 | 100.0 | /mnt/stockage/packages/f28/gedit-latex/po/el.po | 
- | [es]({{< ref "/f28/language/es.md" >}}) | 468 | 468 | 100.0 | /mnt/stockage/packages/f28/gedit-latex/po/es.po | 
- | [fr]({{< ref "/f28/language/fr.md" >}}) | 934 | 934 | 100.0 | /mnt/stockage/packages/f28/gedit-latex/po/fr.po/mnt/stockage/packages/f28/gedit-latex/po/oc.po | 
- | [gl]({{< ref "/f28/language/gl.md" >}}) | 466 | 466 | 100.0 | /mnt/stockage/packages/f28/gedit-latex/po/gl.po | 
- | [hu]({{< ref "/f28/language/hu.md" >}}) | 478 | 478 | 100.0 | /mnt/stockage/packages/f28/gedit-latex/po/hu.po | 
- | [it]({{< ref "/f28/language/it.md" >}}) | 468 | 468 | 100.0 | /mnt/stockage/packages/f28/gedit-latex/po/it.po | 
- | [ko]({{< ref "/f28/language/ko.md" >}}) | 466 | 466 | 100.0 | /mnt/stockage/packages/f28/gedit-latex/po/ko.po | 
- | [lv]({{< ref "/f28/language/lv.md" >}}) | 468 | 468 | 100.0 | /mnt/stockage/packages/f28/gedit-latex/po/lv.po | 
- | [pl]({{< ref "/f28/language/pl.md" >}}) | 478 | 478 | 100.0 | /mnt/stockage/packages/f28/gedit-latex/po/pl.po | 
- | [pt]({{< ref "/f28/language/pt.md" >}}) | 468 | 468 | 100.0 | /mnt/stockage/packages/f28/gedit-latex/po/pt.po | 
- | [pt_BR]({{< ref "/f28/language/pt_BR.md" >}}) | 478 | 478 | 100.0 | /mnt/stockage/packages/f28/gedit-latex/po/pt_BR.po | 
- | [sl]({{< ref "/f28/language/sl.md" >}}) | 468 | 468 | 100.0 | /mnt/stockage/packages/f28/gedit-latex/po/sl.po | 
- | [sr]({{< ref "/f28/language/sr.md" >}}) | 936 | 936 | 100.0 | /mnt/stockage/packages/f28/gedit-latex/po/sr@latin.po/mnt/stockage/packages/f28/gedit-latex/po/sr.po | 
- | [th]({{< ref "/f28/language/th.md" >}}) | 468 | 468 | 100.0 | /mnt/stockage/packages/f28/gedit-latex/po/th.po | 
- | [zh_Hans]({{< ref "/f28/language/zh_Hans.md" >}}) | 466 | 466 | 100.0 | /mnt/stockage/packages/f28/gedit-latex/po/zh_CN.po | 
- | [id]({{< ref "/f28/language/id.md" >}}) | 449 | 468 | 95.9 | /mnt/stockage/packages/f28/gedit-latex/po/id.po | 
- | [zh_Hant]({{< ref "/f28/language/zh_Hant.md" >}}) | 412 | 468 | 88.0 | /mnt/stockage/packages/f28/gedit-latex/po/zh_TW.po | 
- | [ro]({{< ref "/f28/language/ro.md" >}}) | 411 | 468 | 87.8 | /mnt/stockage/packages/f28/gedit-latex/po/ro.po | 
- | [ru]({{< ref "/f28/language/ru.md" >}}) | 251 | 298 | 84.2 | /mnt/stockage/packages/f28/gedit-latex/po/ru.po | 
- | [eu]({{< ref "/f28/language/eu.md" >}}) | 282 | 468 | 60.3 | /mnt/stockage/packages/f28/gedit-latex/po/eu.po | 
- | [sv]({{< ref "/f28/language/sv.md" >}}) | 221 | 468 | 47.2 | /mnt/stockage/packages/f28/gedit-latex/po/sv.po | 
- | [nb_NO]({{< ref "/f28/language/nb_NO.md" >}}) | 85 | 298 | 28.5 | /mnt/stockage/packages/f28/gedit-latex/po/nb.po | 
- | [ca]({{< ref "/f28/language/ca.md" >}}) | 111 | 466 | 23.8 | /mnt/stockage/packages/f28/gedit-latex/po/ca.po | 
- | [eo]({{< ref "/f28/language/eo.md" >}}) | 95 | 416 | 22.8 | /mnt/stockage/packages/f28/gedit-latex/po/eo.po | 
+ | [bs](/f28/language/bs) | 468 | 468 | 100.0 | /mnt/stockage/packages/f28/gedit-latex/po/bs.po | 
+ | [cs](/f28/language/cs) | 468 | 468 | 100.0 | /mnt/stockage/packages/f28/gedit-latex/po/cs.po | 
+ | [da](/f28/language/da) | 466 | 466 | 100.0 | /mnt/stockage/packages/f28/gedit-latex/po/da.po | 
+ | [de](/f28/language/de) | 478 | 478 | 100.0 | /mnt/stockage/packages/f28/gedit-latex/po/de.po | 
+ | [el](/f28/language/el) | 468 | 468 | 100.0 | /mnt/stockage/packages/f28/gedit-latex/po/el.po | 
+ | [es](/f28/language/es) | 468 | 468 | 100.0 | /mnt/stockage/packages/f28/gedit-latex/po/es.po | 
+ | [fr](/f28/language/fr) | 934 | 934 | 100.0 | /mnt/stockage/packages/f28/gedit-latex/po/fr.po/mnt/stockage/packages/f28/gedit-latex/po/oc.po | 
+ | [gl](/f28/language/gl) | 466 | 466 | 100.0 | /mnt/stockage/packages/f28/gedit-latex/po/gl.po | 
+ | [hu](/f28/language/hu) | 478 | 478 | 100.0 | /mnt/stockage/packages/f28/gedit-latex/po/hu.po | 
+ | [it](/f28/language/it) | 468 | 468 | 100.0 | /mnt/stockage/packages/f28/gedit-latex/po/it.po | 
+ | [ko](/f28/language/ko) | 466 | 466 | 100.0 | /mnt/stockage/packages/f28/gedit-latex/po/ko.po | 
+ | [lv](/f28/language/lv) | 468 | 468 | 100.0 | /mnt/stockage/packages/f28/gedit-latex/po/lv.po | 
+ | [pl](/f28/language/pl) | 478 | 478 | 100.0 | /mnt/stockage/packages/f28/gedit-latex/po/pl.po | 
+ | [pt](/f28/language/pt) | 468 | 468 | 100.0 | /mnt/stockage/packages/f28/gedit-latex/po/pt.po | 
+ | [pt_BR](/f28/language/pt_BR) | 478 | 478 | 100.0 | /mnt/stockage/packages/f28/gedit-latex/po/pt_BR.po | 
+ | [sl](/f28/language/sl) | 468 | 468 | 100.0 | /mnt/stockage/packages/f28/gedit-latex/po/sl.po | 
+ | [sr](/f28/language/sr) | 936 | 936 | 100.0 | /mnt/stockage/packages/f28/gedit-latex/po/sr@latin.po/mnt/stockage/packages/f28/gedit-latex/po/sr.po | 
+ | [th](/f28/language/th) | 468 | 468 | 100.0 | /mnt/stockage/packages/f28/gedit-latex/po/th.po | 
+ | [zh_Hans](/f28/language/zh_Hans) | 466 | 466 | 100.0 | /mnt/stockage/packages/f28/gedit-latex/po/zh_CN.po | 
+ | [id](/f28/language/id) | 449 | 468 | 95.9 | /mnt/stockage/packages/f28/gedit-latex/po/id.po | 
+ | [zh_Hant](/f28/language/zh_Hant) | 412 | 468 | 88.0 | /mnt/stockage/packages/f28/gedit-latex/po/zh_TW.po | 
+ | [ro](/f28/language/ro) | 411 | 468 | 87.8 | /mnt/stockage/packages/f28/gedit-latex/po/ro.po | 
+ | [ru](/f28/language/ru) | 251 | 298 | 84.2 | /mnt/stockage/packages/f28/gedit-latex/po/ru.po | 
+ | [eu](/f28/language/eu) | 282 | 468 | 60.3 | /mnt/stockage/packages/f28/gedit-latex/po/eu.po | 
+ | [sv](/f28/language/sv) | 221 | 468 | 47.2 | /mnt/stockage/packages/f28/gedit-latex/po/sv.po | 
+ | [nb_NO](/f28/language/nb_NO) | 85 | 298 | 28.5 | /mnt/stockage/packages/f28/gedit-latex/po/nb.po | 
+ | [ca](/f28/language/ca) | 111 | 466 | 23.8 | /mnt/stockage/packages/f28/gedit-latex/po/ca.po | 
+ | [eo](/f28/language/eo) | 95 | 416 | 22.8 | /mnt/stockage/packages/f28/gedit-latex/po/eo.po | 
 {.sortable}
 
 

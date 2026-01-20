@@ -18,59 +18,59 @@ The package libgda (version 5.2.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f25/language/cs.md" >}}) | 17224 | 17224 | 100.0 | /mnt/stockage/packages/f25/libgda/po/cs.po/mnt/stockage/packages/f25/libgda/tools/browser/help/cs/cs.po | 
- | [de]({{< ref "/f25/language/de.md" >}}) | 17184 | 17184 | 100.0 | /mnt/stockage/packages/f25/libgda/po/de.po/mnt/stockage/packages/f25/libgda/tools/browser/help/de/de.po | 
- | [el]({{< ref "/f25/language/el.md" >}}) | 17054 | 17054 | 100.0 | /mnt/stockage/packages/f25/libgda/po/el.po/mnt/stockage/packages/f25/libgda/tools/browser/help/el/el.po | 
- | [es]({{< ref "/f25/language/es.md" >}}) | 17224 | 17224 | 100.0 | /mnt/stockage/packages/f25/libgda/po/es.po/mnt/stockage/packages/f25/libgda/tools/browser/help/es/es.po | 
- | [eu]({{< ref "/f25/language/eu.md" >}}) | 11386 | 11386 | 100.0 | /mnt/stockage/packages/f25/libgda/po/eu.po | 
- | [id]({{< ref "/f25/language/id.md" >}}) | 17221 | 17221 | 100.0 | /mnt/stockage/packages/f25/libgda/po/id.po/mnt/stockage/packages/f25/libgda/tools/browser/help/id/id.po | 
- | [it]({{< ref "/f25/language/it.md" >}}) | 11452 | 11452 | 100.0 | /mnt/stockage/packages/f25/libgda/po/it.po | 
- | [sr]({{< ref "/f25/language/sr.md" >}}) | 22488 | 22904 | 98.2 | /mnt/stockage/packages/f25/libgda/po/sr.po/mnt/stockage/packages/f25/libgda/po/sr@latin.po | 
- | [fr]({{< ref "/f25/language/fr.md" >}}) | 9623 | 11142 | 86.4 | /mnt/stockage/packages/f25/libgda/po/fr.po | 
- | [gl]({{< ref "/f25/language/gl.md" >}}) | 11965 | 14431 | 82.9 | /mnt/stockage/packages/f25/libgda/po/gl.po/mnt/stockage/packages/f25/libgda/tools/browser/help/gl/gl.po | 
- | [da]({{< ref "/f25/language/da.md" >}}) | 8449 | 11142 | 75.8 | /mnt/stockage/packages/f25/libgda/po/da.po | 
- | [pt]({{< ref "/f25/language/pt.md" >}}) | 8091 | 11142 | 72.6 | /mnt/stockage/packages/f25/libgda/po/pt.po | 
- | [sl]({{< ref "/f25/language/sl.md" >}}) | 11890 | 17184 | 69.2 | /mnt/stockage/packages/f25/libgda/po/sl.po/mnt/stockage/packages/f25/libgda/tools/browser/help/sl/sl.po | 
- | [zh_Hans]({{< ref "/f25/language/zh_Hans.md" >}}) | 11383 | 16930 | 67.2 | /mnt/stockage/packages/f25/libgda/po/zh_CN.po/mnt/stockage/packages/f25/libgda/tools/browser/help/zh_CN/zh_CN.po | 
- | [ru]({{< ref "/f25/language/ru.md" >}}) | 7342 | 11246 | 65.3 | /mnt/stockage/packages/f25/libgda/po/ru.po | 
- | [pt_BR]({{< ref "/f25/language/pt_BR.md" >}}) | 9544 | 17184 | 55.5 | /mnt/stockage/packages/f25/libgda/po/pt_BR.po/mnt/stockage/packages/f25/libgda/tools/browser/help/pt_BR/pt_BR.po | 
- | [fi]({{< ref "/f25/language/fi.md" >}}) | 5048 | 11142 | 45.3 | /mnt/stockage/packages/f25/libgda/po/fi.po | 
- | [nb_NO]({{< ref "/f25/language/nb_NO.md" >}}) | 2896 | 11246 | 25.8 | /mnt/stockage/packages/f25/libgda/po/nb.po | 
- | [ne]({{< ref "/f25/language/ne.md" >}}) | 2049 | 11142 | 18.4 | /mnt/stockage/packages/f25/libgda/po/ne.po | 
- | [vi]({{< ref "/f25/language/vi.md" >}}) | 2049 | 11142 | 18.4 | /mnt/stockage/packages/f25/libgda/po/vi.po | 
- | [ca]({{< ref "/f25/language/ca.md" >}}) | 1749 | 11322 | 15.4 | /mnt/stockage/packages/f25/libgda/po/ca.po | 
- | [ca@valencia]({{< ref "/f25/language/ca@valencia.md" >}}) | 1749 | 11322 | 15.4 | /mnt/stockage/packages/f25/libgda/po/ca@valencia.po | 
- | [en_GB]({{< ref "/f25/language/en_GB.md" >}}) | 1490 | 11142 | 13.4 | /mnt/stockage/packages/f25/libgda/po/en_GB.po | 
- | [dz]({{< ref "/f25/language/dz.md" >}}) | 1488 | 11142 | 13.4 | /mnt/stockage/packages/f25/libgda/po/dz.po | 
- | [zh_Hant]({{< ref "/f25/language/zh_Hant.md" >}}) | 1081 | 11142 | 9.7 | /mnt/stockage/packages/f25/libgda/po/zh_TW.po | 
- | [zh_Hant_HK]({{< ref "/f25/language/zh_Hant_HK.md" >}}) | 1081 | 11142 | 9.7 | /mnt/stockage/packages/f25/libgda/po/zh_HK.po | 
- | [sv]({{< ref "/f25/language/sv.md" >}}) | 805 | 11142 | 7.2 | /mnt/stockage/packages/f25/libgda/po/sv.po | 
- | [lt]({{< ref "/f25/language/lt.md" >}}) | 723 | 11142 | 6.5 | /mnt/stockage/packages/f25/libgda/po/lt.po | 
- | [lv]({{< ref "/f25/language/lv.md" >}}) | 623 | 11452 | 5.4 | /mnt/stockage/packages/f25/libgda/po/lv.po | 
- | [eo]({{< ref "/f25/language/eo.md" >}}) | 478 | 11142 | 4.3 | /mnt/stockage/packages/f25/libgda/po/eo.po | 
- | [ja]({{< ref "/f25/language/ja.md" >}}) | 316 | 11142 | 2.8 | /mnt/stockage/packages/f25/libgda/po/ja.po | 
- | [nl]({{< ref "/f25/language/nl.md" >}}) | 281 | 11142 | 2.5 | /mnt/stockage/packages/f25/libgda/po/nl.po | 
- | [tg]({{< ref "/f25/language/tg.md" >}}) | 261 | 11322 | 2.3 | /mnt/stockage/packages/f25/libgda/po/tg.po | 
- | [en_CA]({{< ref "/f25/language/en_CA.md" >}}) | 222 | 11142 | 2.0 | /mnt/stockage/packages/f25/libgda/po/en_CA.po | 
- | [uk]({{< ref "/f25/language/uk.md" >}}) | 131 | 11142 | 1.2 | /mnt/stockage/packages/f25/libgda/po/uk.po | 
- | [oc]({{< ref "/f25/language/oc.md" >}}) | 100 | 11142 | 0.9 | /mnt/stockage/packages/f25/libgda/po/oc.po | 
- | [error]({{< ref "/f25/language/error.md" >}}) | 79 | 11142 | 0.7 | /mnt/stockage/packages/f25/libgda/po/sr@Latn.po | 
- | [hr]({{< ref "/f25/language/hr.md" >}}) | 78 | 11142 | 0.7 | /mnt/stockage/packages/f25/libgda/po/hr.po | 
- | [ms]({{< ref "/f25/language/ms.md" >}}) | 78 | 11142 | 0.7 | /mnt/stockage/packages/f25/libgda/po/ms.po | 
- | [pl]({{< ref "/f25/language/pl.md" >}}) | 78 | 11142 | 0.7 | /mnt/stockage/packages/f25/libgda/po/pl.po | 
- | [sk]({{< ref "/f25/language/sk.md" >}}) | 78 | 11142 | 0.7 | /mnt/stockage/packages/f25/libgda/po/sk.po | 
- | [ko]({{< ref "/f25/language/ko.md" >}}) | 37 | 11142 | 0.3 | /mnt/stockage/packages/f25/libgda/po/ko.po | 
- | [hu]({{< ref "/f25/language/hu.md" >}}) | 33 | 11142 | 0.3 | /mnt/stockage/packages/f25/libgda/po/hu.po | 
- | [fa]({{< ref "/f25/language/fa.md" >}}) | 31 | 11142 | 0.3 | /mnt/stockage/packages/f25/libgda/po/fa.po | 
- | [sq]({{< ref "/f25/language/sq.md" >}}) | 28 | 11142 | 0.3 | /mnt/stockage/packages/f25/libgda/po/sq.po | 
- | [pa]({{< ref "/f25/language/pa.md" >}}) | 27 | 11142 | 0.2 | /mnt/stockage/packages/f25/libgda/po/pa.po | 
- | [ar]({{< ref "/f25/language/ar.md" >}}) | 23 | 11142 | 0.2 | /mnt/stockage/packages/f25/libgda/po/ar.po | 
- | [rw]({{< ref "/f25/language/rw.md" >}}) | 23 | 11142 | 0.2 | /mnt/stockage/packages/f25/libgda/po/rw.po | 
- | [ga]({{< ref "/f25/language/ga.md" >}}) | 14 | 11142 | 0.1 | /mnt/stockage/packages/f25/libgda/po/ga.po | 
- | [ml]({{< ref "/f25/language/ml.md" >}}) | 12 | 11142 | 0.1 | /mnt/stockage/packages/f25/libgda/po/ml.po | 
- | [tr]({{< ref "/f25/language/tr.md" >}}) | 9 | 11142 | 0.1 | /mnt/stockage/packages/f25/libgda/po/tr.po | 
- | [az]({{< ref "/f25/language/az.md" >}}) | 7 | 11142 | 0.1 | /mnt/stockage/packages/f25/libgda/po/az.po | 
- | [mk]({{< ref "/f25/language/mk.md" >}}) | 0 | 11142 | 0.0 | /mnt/stockage/packages/f25/libgda/po/mk.po | 
+ | [cs](/f25/language/cs) | 17224 | 17224 | 100.0 | /mnt/stockage/packages/f25/libgda/po/cs.po/mnt/stockage/packages/f25/libgda/tools/browser/help/cs/cs.po | 
+ | [de](/f25/language/de) | 17184 | 17184 | 100.0 | /mnt/stockage/packages/f25/libgda/po/de.po/mnt/stockage/packages/f25/libgda/tools/browser/help/de/de.po | 
+ | [el](/f25/language/el) | 17054 | 17054 | 100.0 | /mnt/stockage/packages/f25/libgda/po/el.po/mnt/stockage/packages/f25/libgda/tools/browser/help/el/el.po | 
+ | [es](/f25/language/es) | 17224 | 17224 | 100.0 | /mnt/stockage/packages/f25/libgda/po/es.po/mnt/stockage/packages/f25/libgda/tools/browser/help/es/es.po | 
+ | [eu](/f25/language/eu) | 11386 | 11386 | 100.0 | /mnt/stockage/packages/f25/libgda/po/eu.po | 
+ | [id](/f25/language/id) | 17221 | 17221 | 100.0 | /mnt/stockage/packages/f25/libgda/po/id.po/mnt/stockage/packages/f25/libgda/tools/browser/help/id/id.po | 
+ | [it](/f25/language/it) | 11452 | 11452 | 100.0 | /mnt/stockage/packages/f25/libgda/po/it.po | 
+ | [sr](/f25/language/sr) | 22488 | 22904 | 98.2 | /mnt/stockage/packages/f25/libgda/po/sr.po/mnt/stockage/packages/f25/libgda/po/sr@latin.po | 
+ | [fr](/f25/language/fr) | 9623 | 11142 | 86.4 | /mnt/stockage/packages/f25/libgda/po/fr.po | 
+ | [gl](/f25/language/gl) | 11965 | 14431 | 82.9 | /mnt/stockage/packages/f25/libgda/po/gl.po/mnt/stockage/packages/f25/libgda/tools/browser/help/gl/gl.po | 
+ | [da](/f25/language/da) | 8449 | 11142 | 75.8 | /mnt/stockage/packages/f25/libgda/po/da.po | 
+ | [pt](/f25/language/pt) | 8091 | 11142 | 72.6 | /mnt/stockage/packages/f25/libgda/po/pt.po | 
+ | [sl](/f25/language/sl) | 11890 | 17184 | 69.2 | /mnt/stockage/packages/f25/libgda/po/sl.po/mnt/stockage/packages/f25/libgda/tools/browser/help/sl/sl.po | 
+ | [zh_Hans](/f25/language/zh_Hans) | 11383 | 16930 | 67.2 | /mnt/stockage/packages/f25/libgda/po/zh_CN.po/mnt/stockage/packages/f25/libgda/tools/browser/help/zh_CN/zh_CN.po | 
+ | [ru](/f25/language/ru) | 7342 | 11246 | 65.3 | /mnt/stockage/packages/f25/libgda/po/ru.po | 
+ | [pt_BR](/f25/language/pt_BR) | 9544 | 17184 | 55.5 | /mnt/stockage/packages/f25/libgda/po/pt_BR.po/mnt/stockage/packages/f25/libgda/tools/browser/help/pt_BR/pt_BR.po | 
+ | [fi](/f25/language/fi) | 5048 | 11142 | 45.3 | /mnt/stockage/packages/f25/libgda/po/fi.po | 
+ | [nb_NO](/f25/language/nb_NO) | 2896 | 11246 | 25.8 | /mnt/stockage/packages/f25/libgda/po/nb.po | 
+ | [ne](/f25/language/ne) | 2049 | 11142 | 18.4 | /mnt/stockage/packages/f25/libgda/po/ne.po | 
+ | [vi](/f25/language/vi) | 2049 | 11142 | 18.4 | /mnt/stockage/packages/f25/libgda/po/vi.po | 
+ | [ca](/f25/language/ca) | 1749 | 11322 | 15.4 | /mnt/stockage/packages/f25/libgda/po/ca.po | 
+ | [ca@valencia](/f25/language/ca@valencia) | 1749 | 11322 | 15.4 | /mnt/stockage/packages/f25/libgda/po/ca@valencia.po | 
+ | [en_GB](/f25/language/en_GB) | 1490 | 11142 | 13.4 | /mnt/stockage/packages/f25/libgda/po/en_GB.po | 
+ | [dz](/f25/language/dz) | 1488 | 11142 | 13.4 | /mnt/stockage/packages/f25/libgda/po/dz.po | 
+ | [zh_Hant](/f25/language/zh_Hant) | 1081 | 11142 | 9.7 | /mnt/stockage/packages/f25/libgda/po/zh_TW.po | 
+ | [zh_Hant_HK](/f25/language/zh_Hant_HK) | 1081 | 11142 | 9.7 | /mnt/stockage/packages/f25/libgda/po/zh_HK.po | 
+ | [sv](/f25/language/sv) | 805 | 11142 | 7.2 | /mnt/stockage/packages/f25/libgda/po/sv.po | 
+ | [lt](/f25/language/lt) | 723 | 11142 | 6.5 | /mnt/stockage/packages/f25/libgda/po/lt.po | 
+ | [lv](/f25/language/lv) | 623 | 11452 | 5.4 | /mnt/stockage/packages/f25/libgda/po/lv.po | 
+ | [eo](/f25/language/eo) | 478 | 11142 | 4.3 | /mnt/stockage/packages/f25/libgda/po/eo.po | 
+ | [ja](/f25/language/ja) | 316 | 11142 | 2.8 | /mnt/stockage/packages/f25/libgda/po/ja.po | 
+ | [nl](/f25/language/nl) | 281 | 11142 | 2.5 | /mnt/stockage/packages/f25/libgda/po/nl.po | 
+ | [tg](/f25/language/tg) | 261 | 11322 | 2.3 | /mnt/stockage/packages/f25/libgda/po/tg.po | 
+ | [en_CA](/f25/language/en_CA) | 222 | 11142 | 2.0 | /mnt/stockage/packages/f25/libgda/po/en_CA.po | 
+ | [uk](/f25/language/uk) | 131 | 11142 | 1.2 | /mnt/stockage/packages/f25/libgda/po/uk.po | 
+ | [oc](/f25/language/oc) | 100 | 11142 | 0.9 | /mnt/stockage/packages/f25/libgda/po/oc.po | 
+ | [error](/f25/language/error) | 79 | 11142 | 0.7 | /mnt/stockage/packages/f25/libgda/po/sr@Latn.po | 
+ | [hr](/f25/language/hr) | 78 | 11142 | 0.7 | /mnt/stockage/packages/f25/libgda/po/hr.po | 
+ | [ms](/f25/language/ms) | 78 | 11142 | 0.7 | /mnt/stockage/packages/f25/libgda/po/ms.po | 
+ | [pl](/f25/language/pl) | 78 | 11142 | 0.7 | /mnt/stockage/packages/f25/libgda/po/pl.po | 
+ | [sk](/f25/language/sk) | 78 | 11142 | 0.7 | /mnt/stockage/packages/f25/libgda/po/sk.po | 
+ | [ko](/f25/language/ko) | 37 | 11142 | 0.3 | /mnt/stockage/packages/f25/libgda/po/ko.po | 
+ | [hu](/f25/language/hu) | 33 | 11142 | 0.3 | /mnt/stockage/packages/f25/libgda/po/hu.po | 
+ | [fa](/f25/language/fa) | 31 | 11142 | 0.3 | /mnt/stockage/packages/f25/libgda/po/fa.po | 
+ | [sq](/f25/language/sq) | 28 | 11142 | 0.3 | /mnt/stockage/packages/f25/libgda/po/sq.po | 
+ | [pa](/f25/language/pa) | 27 | 11142 | 0.2 | /mnt/stockage/packages/f25/libgda/po/pa.po | 
+ | [ar](/f25/language/ar) | 23 | 11142 | 0.2 | /mnt/stockage/packages/f25/libgda/po/ar.po | 
+ | [rw](/f25/language/rw) | 23 | 11142 | 0.2 | /mnt/stockage/packages/f25/libgda/po/rw.po | 
+ | [ga](/f25/language/ga) | 14 | 11142 | 0.1 | /mnt/stockage/packages/f25/libgda/po/ga.po | 
+ | [ml](/f25/language/ml) | 12 | 11142 | 0.1 | /mnt/stockage/packages/f25/libgda/po/ml.po | 
+ | [tr](/f25/language/tr) | 9 | 11142 | 0.1 | /mnt/stockage/packages/f25/libgda/po/tr.po | 
+ | [az](/f25/language/az) | 7 | 11142 | 0.1 | /mnt/stockage/packages/f25/libgda/po/az.po | 
+ | [mk](/f25/language/mk) | 0 | 11142 | 0.0 | /mnt/stockage/packages/f25/libgda/po/mk.po | 
 {.sortable}
 
 

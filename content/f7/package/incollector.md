@@ -18,18 +18,18 @@ The package incollector (version 1.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f7/language/cs.md" >}}) | 596 | 596 | 100.0 | /mnt/stockage/packages/f7/incollector/po/cs.po | 
- | [de]({{< ref "/f7/language/de.md" >}}) | 596 | 596 | 100.0 | /mnt/stockage/packages/f7/incollector/po/de.po | 
- | [it]({{< ref "/f7/language/it.md" >}}) | 596 | 596 | 100.0 | /mnt/stockage/packages/f7/incollector/po/it.po | 
- | [pl]({{< ref "/f7/language/pl.md" >}}) | 596 | 596 | 100.0 | /mnt/stockage/packages/f7/incollector/po/pl.po | 
- | [be]({{< ref "/f7/language/be.md" >}}) | 594 | 596 | 99.7 | /mnt/stockage/packages/f7/incollector/po/be-latin.po | 
- | [uk]({{< ref "/f7/language/uk.md" >}}) | 594 | 596 | 99.7 | /mnt/stockage/packages/f7/incollector/po/ua.po | 
- | [fr]({{< ref "/f7/language/fr.md" >}}) | 593 | 596 | 99.5 | /mnt/stockage/packages/f7/incollector/po/fr.po | 
- | [es]({{< ref "/f7/language/es.md" >}}) | 587 | 596 | 98.5 | /mnt/stockage/packages/f7/incollector/po/es.po | 
- | [pt]({{< ref "/f7/language/pt.md" >}}) | 330 | 596 | 55.4 | /mnt/stockage/packages/f7/incollector/po/pt.po | 
- | [bg]({{< ref "/f7/language/bg.md" >}}) | 327 | 596 | 54.9 | /mnt/stockage/packages/f7/incollector/po/bg.po | 
- | [ca]({{< ref "/f7/language/ca.md" >}}) | 316 | 596 | 53.0 | /mnt/stockage/packages/f7/incollector/po/ca.po | 
- | [ru]({{< ref "/f7/language/ru.md" >}}) | 315 | 596 | 52.9 | /mnt/stockage/packages/f7/incollector/po/ru.po | 
+ | [cs](/f7/language/cs) | 596 | 596 | 100.0 | /mnt/stockage/packages/f7/incollector/po/cs.po | 
+ | [de](/f7/language/de) | 596 | 596 | 100.0 | /mnt/stockage/packages/f7/incollector/po/de.po | 
+ | [it](/f7/language/it) | 596 | 596 | 100.0 | /mnt/stockage/packages/f7/incollector/po/it.po | 
+ | [pl](/f7/language/pl) | 596 | 596 | 100.0 | /mnt/stockage/packages/f7/incollector/po/pl.po | 
+ | [be](/f7/language/be) | 594 | 596 | 99.7 | /mnt/stockage/packages/f7/incollector/po/be-latin.po | 
+ | [uk](/f7/language/uk) | 594 | 596 | 99.7 | /mnt/stockage/packages/f7/incollector/po/ua.po | 
+ | [fr](/f7/language/fr) | 593 | 596 | 99.5 | /mnt/stockage/packages/f7/incollector/po/fr.po | 
+ | [es](/f7/language/es) | 587 | 596 | 98.5 | /mnt/stockage/packages/f7/incollector/po/es.po | 
+ | [pt](/f7/language/pt) | 330 | 596 | 55.4 | /mnt/stockage/packages/f7/incollector/po/pt.po | 
+ | [bg](/f7/language/bg) | 327 | 596 | 54.9 | /mnt/stockage/packages/f7/incollector/po/bg.po | 
+ | [ca](/f7/language/ca) | 316 | 596 | 53.0 | /mnt/stockage/packages/f7/incollector/po/ca.po | 
+ | [ru](/f7/language/ru) | 315 | 596 | 52.9 | /mnt/stockage/packages/f7/incollector/po/ru.po | 
 {.sortable}
 
 

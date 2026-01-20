@@ -38,7 +38,7 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [poedit]({{< ref "/f26/package/poedit.md" >}}) | 1041 | 2639 | 39.4 | Sorani (Kurdish) | 
+ | [poedit](/f26/package/poedit) | 1041 | 2639 | 39.4 | Sorani (Kurdish) | 
 {.sortable}
 
 

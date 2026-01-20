@@ -18,21 +18,21 @@ The package phodav (version 2.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [bs]({{< ref "/f28/language/bs.md" >}}) | 40 | 40 | 100.0 | /mnt/stockage/packages/f28/phodav/po/bs.po | 
- | [cs]({{< ref "/f28/language/cs.md" >}}) | 40 | 40 | 100.0 | /mnt/stockage/packages/f28/phodav/po/cs.po | 
- | [da]({{< ref "/f28/language/da.md" >}}) | 40 | 40 | 100.0 | /mnt/stockage/packages/f28/phodav/po/da.po | 
- | [de]({{< ref "/f28/language/de.md" >}}) | 40 | 40 | 100.0 | /mnt/stockage/packages/f28/phodav/po/de.po | 
- | [el]({{< ref "/f28/language/el.md" >}}) | 40 | 40 | 100.0 | /mnt/stockage/packages/f28/phodav/po/el.po | 
- | [es]({{< ref "/f28/language/es.md" >}}) | 40 | 40 | 100.0 | /mnt/stockage/packages/f28/phodav/po/es.po | 
- | [hu]({{< ref "/f28/language/hu.md" >}}) | 40 | 40 | 100.0 | /mnt/stockage/packages/f28/phodav/po/hu.po | 
- | [id]({{< ref "/f28/language/id.md" >}}) | 35 | 35 | 100.0 | /mnt/stockage/packages/f28/phodav/po/id.po | 
- | [pl]({{< ref "/f28/language/pl.md" >}}) | 40 | 40 | 100.0 | /mnt/stockage/packages/f28/phodav/po/pl.po | 
- | [pt]({{< ref "/f28/language/pt.md" >}}) | 40 | 40 | 100.0 | /mnt/stockage/packages/f28/phodav/po/pt.po | 
- | [pt_BR]({{< ref "/f28/language/pt_BR.md" >}}) | 40 | 40 | 100.0 | /mnt/stockage/packages/f28/phodav/po/pt_BR.po | 
- | [sl]({{< ref "/f28/language/sl.md" >}}) | 40 | 40 | 100.0 | /mnt/stockage/packages/f28/phodav/po/sl.po | 
- | [sr]({{< ref "/f28/language/sr.md" >}}) | 80 | 80 | 100.0 | /mnt/stockage/packages/f28/phodav/po/sr@latin.po/mnt/stockage/packages/f28/phodav/po/sr.po | 
- | [sv]({{< ref "/f28/language/sv.md" >}}) | 40 | 40 | 100.0 | /mnt/stockage/packages/f28/phodav/po/sv.po | 
- | [tr]({{< ref "/f28/language/tr.md" >}}) | 40 | 40 | 100.0 | /mnt/stockage/packages/f28/phodav/po/tr.po | 
+ | [bs](/f28/language/bs) | 40 | 40 | 100.0 | /mnt/stockage/packages/f28/phodav/po/bs.po | 
+ | [cs](/f28/language/cs) | 40 | 40 | 100.0 | /mnt/stockage/packages/f28/phodav/po/cs.po | 
+ | [da](/f28/language/da) | 40 | 40 | 100.0 | /mnt/stockage/packages/f28/phodav/po/da.po | 
+ | [de](/f28/language/de) | 40 | 40 | 100.0 | /mnt/stockage/packages/f28/phodav/po/de.po | 
+ | [el](/f28/language/el) | 40 | 40 | 100.0 | /mnt/stockage/packages/f28/phodav/po/el.po | 
+ | [es](/f28/language/es) | 40 | 40 | 100.0 | /mnt/stockage/packages/f28/phodav/po/es.po | 
+ | [hu](/f28/language/hu) | 40 | 40 | 100.0 | /mnt/stockage/packages/f28/phodav/po/hu.po | 
+ | [id](/f28/language/id) | 35 | 35 | 100.0 | /mnt/stockage/packages/f28/phodav/po/id.po | 
+ | [pl](/f28/language/pl) | 40 | 40 | 100.0 | /mnt/stockage/packages/f28/phodav/po/pl.po | 
+ | [pt](/f28/language/pt) | 40 | 40 | 100.0 | /mnt/stockage/packages/f28/phodav/po/pt.po | 
+ | [pt_BR](/f28/language/pt_BR) | 40 | 40 | 100.0 | /mnt/stockage/packages/f28/phodav/po/pt_BR.po | 
+ | [sl](/f28/language/sl) | 40 | 40 | 100.0 | /mnt/stockage/packages/f28/phodav/po/sl.po | 
+ | [sr](/f28/language/sr) | 80 | 80 | 100.0 | /mnt/stockage/packages/f28/phodav/po/sr@latin.po/mnt/stockage/packages/f28/phodav/po/sr.po | 
+ | [sv](/f28/language/sv) | 40 | 40 | 100.0 | /mnt/stockage/packages/f28/phodav/po/sv.po | 
+ | [tr](/f28/language/tr) | 40 | 40 | 100.0 | /mnt/stockage/packages/f28/phodav/po/tr.po | 
 {.sortable}
 
 

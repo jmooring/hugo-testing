@@ -18,22 +18,22 @@ The package arm-gp2x-linux-gcc (version 4.1.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f18/language/de.md" >}}) | 41048 | 41048 | 100.0 | /mnt/stockage/packages/f18/arm-gp2x-linux-gcc/gcc/po/de.po/mnt/stockage/packages/f18/arm-gp2x-linux-gcc/libcpp/po/de.po/mnt/stockage/packages/f18/arm-gp2x-linux-gcc/libstdc++-v3/po/de.po | 
- | [es]({{< ref "/f18/language/es.md" >}}) | 41043 | 41043 | 100.0 | /mnt/stockage/packages/f18/arm-gp2x-linux-gcc/gcc/po/es.po/mnt/stockage/packages/f18/arm-gp2x-linux-gcc/libcpp/po/es.po | 
- | [vi]({{< ref "/f18/language/vi.md" >}}) | 1101 | 1101 | 100.0 | /mnt/stockage/packages/f18/arm-gp2x-linux-gcc/libcpp/po/vi.po | 
- | [sv]({{< ref "/f18/language/sv.md" >}}) | 40900 | 41043 | 99.7 | /mnt/stockage/packages/f18/arm-gp2x-linux-gcc/gcc/po/sv.po/mnt/stockage/packages/f18/arm-gp2x-linux-gcc/libcpp/po/sv.po | 
- | [tr]({{< ref "/f18/language/tr.md" >}}) | 39841 | 41043 | 97.1 | /mnt/stockage/packages/f18/arm-gp2x-linux-gcc/gcc/po/tr.po/mnt/stockage/packages/f18/arm-gp2x-linux-gcc/libcpp/po/tr.po | 
- | [zh_Hans]({{< ref "/f18/language/zh_Hans.md" >}}) | 34913 | 41043 | 85.1 | /mnt/stockage/packages/f18/arm-gp2x-linux-gcc/gcc/po/zh_CN.po/mnt/stockage/packages/f18/arm-gp2x-linux-gcc/libcpp/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f18/language/zh_Hant.md" >}}) | 34842 | 41043 | 84.9 | /mnt/stockage/packages/f18/arm-gp2x-linux-gcc/gcc/po/zh_TW.po/mnt/stockage/packages/f18/arm-gp2x-linux-gcc/libcpp/po/zh_TW.po | 
- | [ru]({{< ref "/f18/language/ru.md" >}}) | 18699 | 39942 | 46.8 | /mnt/stockage/packages/f18/arm-gp2x-linux-gcc/gcc/po/ru.po | 
- | [fr]({{< ref "/f18/language/fr.md" >}}) | 13652 | 41048 | 33.3 | /mnt/stockage/packages/f18/arm-gp2x-linux-gcc/gcc/po/fr.po/mnt/stockage/packages/f18/arm-gp2x-linux-gcc/libcpp/po/fr.po/mnt/stockage/packages/f18/arm-gp2x-linux-gcc/libstdc++-v3/po/fr.po | 
- | [da]({{< ref "/f18/language/da.md" >}}) | 10425 | 41043 | 25.4 | /mnt/stockage/packages/f18/arm-gp2x-linux-gcc/gcc/po/da.po/mnt/stockage/packages/f18/arm-gp2x-linux-gcc/libcpp/po/da.po | 
- | [ca]({{< ref "/f18/language/ca.md" >}}) | 10219 | 41043 | 24.9 | /mnt/stockage/packages/f18/arm-gp2x-linux-gcc/gcc/po/ca.po/mnt/stockage/packages/f18/arm-gp2x-linux-gcc/libcpp/po/ca.po | 
- | [nl]({{< ref "/f18/language/nl.md" >}}) | 6002 | 41043 | 14.6 | /mnt/stockage/packages/f18/arm-gp2x-linux-gcc/gcc/po/nl.po/mnt/stockage/packages/f18/arm-gp2x-linux-gcc/libcpp/po/nl.po | 
- | [ja]({{< ref "/f18/language/ja.md" >}}) | 5862 | 41043 | 14.3 | /mnt/stockage/packages/f18/arm-gp2x-linux-gcc/gcc/po/ja.po/mnt/stockage/packages/f18/arm-gp2x-linux-gcc/libcpp/po/ja.po | 
- | [be]({{< ref "/f18/language/be.md" >}}) | 461 | 41043 | 1.1 | /mnt/stockage/packages/f18/arm-gp2x-linux-gcc/gcc/po/be.po/mnt/stockage/packages/f18/arm-gp2x-linux-gcc/libcpp/po/be.po | 
- | [el]({{< ref "/f18/language/el.md" >}}) | 459 | 41043 | 1.1 | /mnt/stockage/packages/f18/arm-gp2x-linux-gcc/gcc/po/el.po/mnt/stockage/packages/f18/arm-gp2x-linux-gcc/libcpp/po/el.po | 
- | [rw]({{< ref "/f18/language/rw.md" >}}) | 0 | 41043 | 0.0 | /mnt/stockage/packages/f18/arm-gp2x-linux-gcc/gcc/po/rw.po/mnt/stockage/packages/f18/arm-gp2x-linux-gcc/libcpp/po/rw.po | 
+ | [de](/f18/language/de) | 41048 | 41048 | 100.0 | /mnt/stockage/packages/f18/arm-gp2x-linux-gcc/gcc/po/de.po/mnt/stockage/packages/f18/arm-gp2x-linux-gcc/libcpp/po/de.po/mnt/stockage/packages/f18/arm-gp2x-linux-gcc/libstdc++-v3/po/de.po | 
+ | [es](/f18/language/es) | 41043 | 41043 | 100.0 | /mnt/stockage/packages/f18/arm-gp2x-linux-gcc/gcc/po/es.po/mnt/stockage/packages/f18/arm-gp2x-linux-gcc/libcpp/po/es.po | 
+ | [vi](/f18/language/vi) | 1101 | 1101 | 100.0 | /mnt/stockage/packages/f18/arm-gp2x-linux-gcc/libcpp/po/vi.po | 
+ | [sv](/f18/language/sv) | 40900 | 41043 | 99.7 | /mnt/stockage/packages/f18/arm-gp2x-linux-gcc/gcc/po/sv.po/mnt/stockage/packages/f18/arm-gp2x-linux-gcc/libcpp/po/sv.po | 
+ | [tr](/f18/language/tr) | 39841 | 41043 | 97.1 | /mnt/stockage/packages/f18/arm-gp2x-linux-gcc/gcc/po/tr.po/mnt/stockage/packages/f18/arm-gp2x-linux-gcc/libcpp/po/tr.po | 
+ | [zh_Hans](/f18/language/zh_Hans) | 34913 | 41043 | 85.1 | /mnt/stockage/packages/f18/arm-gp2x-linux-gcc/gcc/po/zh_CN.po/mnt/stockage/packages/f18/arm-gp2x-linux-gcc/libcpp/po/zh_CN.po | 
+ | [zh_Hant](/f18/language/zh_Hant) | 34842 | 41043 | 84.9 | /mnt/stockage/packages/f18/arm-gp2x-linux-gcc/gcc/po/zh_TW.po/mnt/stockage/packages/f18/arm-gp2x-linux-gcc/libcpp/po/zh_TW.po | 
+ | [ru](/f18/language/ru) | 18699 | 39942 | 46.8 | /mnt/stockage/packages/f18/arm-gp2x-linux-gcc/gcc/po/ru.po | 
+ | [fr](/f18/language/fr) | 13652 | 41048 | 33.3 | /mnt/stockage/packages/f18/arm-gp2x-linux-gcc/gcc/po/fr.po/mnt/stockage/packages/f18/arm-gp2x-linux-gcc/libcpp/po/fr.po/mnt/stockage/packages/f18/arm-gp2x-linux-gcc/libstdc++-v3/po/fr.po | 
+ | [da](/f18/language/da) | 10425 | 41043 | 25.4 | /mnt/stockage/packages/f18/arm-gp2x-linux-gcc/gcc/po/da.po/mnt/stockage/packages/f18/arm-gp2x-linux-gcc/libcpp/po/da.po | 
+ | [ca](/f18/language/ca) | 10219 | 41043 | 24.9 | /mnt/stockage/packages/f18/arm-gp2x-linux-gcc/gcc/po/ca.po/mnt/stockage/packages/f18/arm-gp2x-linux-gcc/libcpp/po/ca.po | 
+ | [nl](/f18/language/nl) | 6002 | 41043 | 14.6 | /mnt/stockage/packages/f18/arm-gp2x-linux-gcc/gcc/po/nl.po/mnt/stockage/packages/f18/arm-gp2x-linux-gcc/libcpp/po/nl.po | 
+ | [ja](/f18/language/ja) | 5862 | 41043 | 14.3 | /mnt/stockage/packages/f18/arm-gp2x-linux-gcc/gcc/po/ja.po/mnt/stockage/packages/f18/arm-gp2x-linux-gcc/libcpp/po/ja.po | 
+ | [be](/f18/language/be) | 461 | 41043 | 1.1 | /mnt/stockage/packages/f18/arm-gp2x-linux-gcc/gcc/po/be.po/mnt/stockage/packages/f18/arm-gp2x-linux-gcc/libcpp/po/be.po | 
+ | [el](/f18/language/el) | 459 | 41043 | 1.1 | /mnt/stockage/packages/f18/arm-gp2x-linux-gcc/gcc/po/el.po/mnt/stockage/packages/f18/arm-gp2x-linux-gcc/libcpp/po/el.po | 
+ | [rw](/f18/language/rw) | 0 | 41043 | 0.0 | /mnt/stockage/packages/f18/arm-gp2x-linux-gcc/gcc/po/rw.po/mnt/stockage/packages/f18/arm-gp2x-linux-gcc/libcpp/po/rw.po | 
 {.sortable}
 
 

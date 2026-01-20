@@ -18,20 +18,20 @@ The package xine-ui (version 0.99.6):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f15/language/cs.md" >}}) | 2975 | 2975 | 100.0 | /mnt/stockage/packages/f15/xine-ui/po/cs.po/mnt/stockage/packages/f15/xine-ui/src/xitk/xine-toolkit/po/cs.po | 
- | [es]({{< ref "/f15/language/es.md" >}}) | 2975 | 2975 | 100.0 | /mnt/stockage/packages/f15/xine-ui/po/es.po/mnt/stockage/packages/f15/xine-ui/src/xitk/xine-toolkit/po/es.po | 
- | [it]({{< ref "/f15/language/it.md" >}}) | 2948 | 2975 | 99.1 | /mnt/stockage/packages/f15/xine-ui/po/it.po/mnt/stockage/packages/f15/xine-ui/src/xitk/xine-toolkit/po/it.po | 
- | [de]({{< ref "/f15/language/de.md" >}}) | 2946 | 2975 | 99.0 | /mnt/stockage/packages/f15/xine-ui/po/de.po/mnt/stockage/packages/f15/xine-ui/src/xitk/xine-toolkit/po/de.po | 
- | [fr]({{< ref "/f15/language/fr.md" >}}) | 2946 | 2975 | 99.0 | /mnt/stockage/packages/f15/xine-ui/po/fr.po/mnt/stockage/packages/f15/xine-ui/src/xitk/xine-toolkit/po/fr.po | 
- | [eo]({{< ref "/f15/language/eo.md" >}}) | 2891 | 2920 | 99.0 | /mnt/stockage/packages/f15/xine-ui/po/eo.po | 
- | [ru]({{< ref "/f15/language/ru.md" >}}) | 2868 | 2975 | 96.4 | /mnt/stockage/packages/f15/xine-ui/po/ru.po/mnt/stockage/packages/f15/xine-ui/src/xitk/xine-toolkit/po/ru.po | 
- | [nb_NO]({{< ref "/f15/language/nb_NO.md" >}}) | 2859 | 2975 | 96.1 | /mnt/stockage/packages/f15/xine-ui/po/nb.po/mnt/stockage/packages/f15/xine-ui/src/xitk/xine-toolkit/po/nb.po | 
- | [ja]({{< ref "/f15/language/ja.md" >}}) | 2813 | 2975 | 94.6 | /mnt/stockage/packages/f15/xine-ui/po/ja.po/mnt/stockage/packages/f15/xine-ui/src/xitk/xine-toolkit/po/ja.po | 
- | [eu]({{< ref "/f15/language/eu.md" >}}) | 2804 | 2975 | 94.3 | /mnt/stockage/packages/f15/xine-ui/po/eu.po/mnt/stockage/packages/f15/xine-ui/src/xitk/xine-toolkit/po/eu.po | 
- | [pl]({{< ref "/f15/language/pl.md" >}}) | 2763 | 2975 | 92.9 | /mnt/stockage/packages/f15/xine-ui/po/pl.po/mnt/stockage/packages/f15/xine-ui/src/xitk/xine-toolkit/po/pl.po | 
- | [sk]({{< ref "/f15/language/sk.md" >}}) | 2507 | 2975 | 84.3 | /mnt/stockage/packages/f15/xine-ui/po/sk.po/mnt/stockage/packages/f15/xine-ui/src/xitk/xine-toolkit/po/sk.po | 
- | [pt_BR]({{< ref "/f15/language/pt_BR.md" >}}) | 1851 | 2975 | 62.2 | /mnt/stockage/packages/f15/xine-ui/po/pt_BR.po/mnt/stockage/packages/f15/xine-ui/src/xitk/xine-toolkit/po/pt_BR.po | 
- | [uk]({{< ref "/f15/language/uk.md" >}}) | 452 | 2975 | 15.2 | /mnt/stockage/packages/f15/xine-ui/po/uk.po/mnt/stockage/packages/f15/xine-ui/src/xitk/xine-toolkit/po/uk.po | 
+ | [cs](/f15/language/cs) | 2975 | 2975 | 100.0 | /mnt/stockage/packages/f15/xine-ui/po/cs.po/mnt/stockage/packages/f15/xine-ui/src/xitk/xine-toolkit/po/cs.po | 
+ | [es](/f15/language/es) | 2975 | 2975 | 100.0 | /mnt/stockage/packages/f15/xine-ui/po/es.po/mnt/stockage/packages/f15/xine-ui/src/xitk/xine-toolkit/po/es.po | 
+ | [it](/f15/language/it) | 2948 | 2975 | 99.1 | /mnt/stockage/packages/f15/xine-ui/po/it.po/mnt/stockage/packages/f15/xine-ui/src/xitk/xine-toolkit/po/it.po | 
+ | [de](/f15/language/de) | 2946 | 2975 | 99.0 | /mnt/stockage/packages/f15/xine-ui/po/de.po/mnt/stockage/packages/f15/xine-ui/src/xitk/xine-toolkit/po/de.po | 
+ | [fr](/f15/language/fr) | 2946 | 2975 | 99.0 | /mnt/stockage/packages/f15/xine-ui/po/fr.po/mnt/stockage/packages/f15/xine-ui/src/xitk/xine-toolkit/po/fr.po | 
+ | [eo](/f15/language/eo) | 2891 | 2920 | 99.0 | /mnt/stockage/packages/f15/xine-ui/po/eo.po | 
+ | [ru](/f15/language/ru) | 2868 | 2975 | 96.4 | /mnt/stockage/packages/f15/xine-ui/po/ru.po/mnt/stockage/packages/f15/xine-ui/src/xitk/xine-toolkit/po/ru.po | 
+ | [nb_NO](/f15/language/nb_NO) | 2859 | 2975 | 96.1 | /mnt/stockage/packages/f15/xine-ui/po/nb.po/mnt/stockage/packages/f15/xine-ui/src/xitk/xine-toolkit/po/nb.po | 
+ | [ja](/f15/language/ja) | 2813 | 2975 | 94.6 | /mnt/stockage/packages/f15/xine-ui/po/ja.po/mnt/stockage/packages/f15/xine-ui/src/xitk/xine-toolkit/po/ja.po | 
+ | [eu](/f15/language/eu) | 2804 | 2975 | 94.3 | /mnt/stockage/packages/f15/xine-ui/po/eu.po/mnt/stockage/packages/f15/xine-ui/src/xitk/xine-toolkit/po/eu.po | 
+ | [pl](/f15/language/pl) | 2763 | 2975 | 92.9 | /mnt/stockage/packages/f15/xine-ui/po/pl.po/mnt/stockage/packages/f15/xine-ui/src/xitk/xine-toolkit/po/pl.po | 
+ | [sk](/f15/language/sk) | 2507 | 2975 | 84.3 | /mnt/stockage/packages/f15/xine-ui/po/sk.po/mnt/stockage/packages/f15/xine-ui/src/xitk/xine-toolkit/po/sk.po | 
+ | [pt_BR](/f15/language/pt_BR) | 1851 | 2975 | 62.2 | /mnt/stockage/packages/f15/xine-ui/po/pt_BR.po/mnt/stockage/packages/f15/xine-ui/src/xitk/xine-toolkit/po/pt_BR.po | 
+ | [uk](/f15/language/uk) | 452 | 2975 | 15.2 | /mnt/stockage/packages/f15/xine-ui/po/uk.po/mnt/stockage/packages/f15/xine-ui/src/xitk/xine-toolkit/po/uk.po | 
 {.sortable}
 
 

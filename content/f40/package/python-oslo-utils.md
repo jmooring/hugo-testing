@@ -18,9 +18,9 @@ The package python-oslo-utils (version 6.2.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f40/language/de.md" >}}) | 70 | 70 | 100.0 | /mnt/stockage/packages/f40/python-oslo-utils/oslo_utils/locale/de/LC_MESSAGES/oslo_utils.po | 
- | [en_GB]({{< ref "/f40/language/en_GB.md" >}}) | 725 | 725 | 100.0 | /mnt/stockage/packages/f40/python-oslo-utils/oslo_utils/locale/en_GB/LC_MESSAGES/oslo_utils.po/mnt/stockage/packages/f40/python-oslo-utils/releasenotes/source/locale/en_GB/LC_MESSAGES/releasenotes.po | 
- | [fr]({{< ref "/f40/language/fr.md" >}}) | 70 | 70 | 100.0 | /mnt/stockage/packages/f40/python-oslo-utils/oslo_utils/locale/fr/LC_MESSAGES/oslo_utils.po | 
+ | [de](/f40/language/de) | 70 | 70 | 100.0 | /mnt/stockage/packages/f40/python-oslo-utils/oslo_utils/locale/de/LC_MESSAGES/oslo_utils.po | 
+ | [en_GB](/f40/language/en_GB) | 725 | 725 | 100.0 | /mnt/stockage/packages/f40/python-oslo-utils/oslo_utils/locale/en_GB/LC_MESSAGES/oslo_utils.po/mnt/stockage/packages/f40/python-oslo-utils/releasenotes/source/locale/en_GB/LC_MESSAGES/releasenotes.po | 
+ | [fr](/f40/language/fr) | 70 | 70 | 100.0 | /mnt/stockage/packages/f40/python-oslo-utils/oslo_utils/locale/fr/LC_MESSAGES/oslo_utils.po | 
 {.sortable}
 
 

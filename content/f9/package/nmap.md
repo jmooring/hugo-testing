@@ -18,7 +18,7 @@ The package nmap (version 4.53):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [pt_BR]({{< ref "/f9/language/pt_BR.md" >}}) | 1342 | 1395 | 96.2 | /mnt/stockage/packages/f9/nmap/zenmap/share/zenmap/locale/pt_BR.po/mnt/stockage/packages/f9/nmap/zenmap/share/zenmap/locale/pt_BR/LC_MESSAGES/umit.po | 
+ | [pt_BR](/f9/language/pt_BR) | 1342 | 1395 | 96.2 | /mnt/stockage/packages/f9/nmap/zenmap/share/zenmap/locale/pt_BR.po/mnt/stockage/packages/f9/nmap/zenmap/share/zenmap/locale/pt_BR/LC_MESSAGES/umit.po | 
 {.sortable}
 
 

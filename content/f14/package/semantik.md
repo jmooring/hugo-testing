@@ -18,10 +18,10 @@ The package semantik (version 0.7.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [el]({{< ref "/f14/language/el.md" >}}) | 444 | 444 | 100.0 | /mnt/stockage/packages/f14/semantik/src/po/el.po | 
- | [ru]({{< ref "/f14/language/ru.md" >}}) | 425 | 444 | 95.7 | /mnt/stockage/packages/f14/semantik/src/po/ru.po | 
- | [fr]({{< ref "/f14/language/fr.md" >}}) | 400 | 444 | 90.1 | /mnt/stockage/packages/f14/semantik/src/po/fr.po | 
- | [es]({{< ref "/f14/language/es.md" >}}) | 1 | 444 | 0.2 | /mnt/stockage/packages/f14/semantik/src/po/es.po | 
+ | [el](/f14/language/el) | 444 | 444 | 100.0 | /mnt/stockage/packages/f14/semantik/src/po/el.po | 
+ | [ru](/f14/language/ru) | 425 | 444 | 95.7 | /mnt/stockage/packages/f14/semantik/src/po/ru.po | 
+ | [fr](/f14/language/fr) | 400 | 444 | 90.1 | /mnt/stockage/packages/f14/semantik/src/po/fr.po | 
+ | [es](/f14/language/es) | 1 | 444 | 0.2 | /mnt/stockage/packages/f14/semantik/src/po/es.po | 
 {.sortable}
 
 

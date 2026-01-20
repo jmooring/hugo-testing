@@ -18,11 +18,11 @@ The package ibus-pinyin (version 1.5.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f26/language/fr.md" >}}) | 170 | 170 | 100.0 | /mnt/stockage/packages/f26/ibus-pinyin/po/fr.po | 
- | [zh_Hans]({{< ref "/f26/language/zh_Hans.md" >}}) | 168 | 168 | 100.0 | /mnt/stockage/packages/f26/ibus-pinyin/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f26/language/zh_Hant.md" >}}) | 168 | 168 | 100.0 | /mnt/stockage/packages/f26/ibus-pinyin/po/zh_TW.po | 
- | [zh_Hant_HK]({{< ref "/f26/language/zh_Hant_HK.md" >}}) | 168 | 168 | 100.0 | /mnt/stockage/packages/f26/ibus-pinyin/po/zh_HK.po | 
- | [ru]({{< ref "/f26/language/ru.md" >}}) | 63 | 157 | 40.1 | /mnt/stockage/packages/f26/ibus-pinyin/po/ru.po | 
+ | [fr](/f26/language/fr) | 170 | 170 | 100.0 | /mnt/stockage/packages/f26/ibus-pinyin/po/fr.po | 
+ | [zh_Hans](/f26/language/zh_Hans) | 168 | 168 | 100.0 | /mnt/stockage/packages/f26/ibus-pinyin/po/zh_CN.po | 
+ | [zh_Hant](/f26/language/zh_Hant) | 168 | 168 | 100.0 | /mnt/stockage/packages/f26/ibus-pinyin/po/zh_TW.po | 
+ | [zh_Hant_HK](/f26/language/zh_Hant_HK) | 168 | 168 | 100.0 | /mnt/stockage/packages/f26/ibus-pinyin/po/zh_HK.po | 
+ | [ru](/f26/language/ru) | 63 | 157 | 40.1 | /mnt/stockage/packages/f26/ibus-pinyin/po/ru.po | 
 {.sortable}
 
 

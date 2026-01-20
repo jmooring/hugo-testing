@@ -18,25 +18,25 @@ The package kbd (version 2.0.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f25/language/cs.md" >}}) | 2372 | 2372 | 100.0 | /mnt/stockage/packages/f25/kbd/po/cs.po | 
- | [nl]({{< ref "/f25/language/nl.md" >}}) | 2372 | 2372 | 100.0 | /mnt/stockage/packages/f25/kbd/po/nl.po | 
- | [pl]({{< ref "/f25/language/pl.md" >}}) | 2372 | 2372 | 100.0 | /mnt/stockage/packages/f25/kbd/po/pl.po | 
- | [ru]({{< ref "/f25/language/ru.md" >}}) | 2372 | 2372 | 100.0 | /mnt/stockage/packages/f25/kbd/po/ru.po | 
- | [uk]({{< ref "/f25/language/uk.md" >}}) | 2372 | 2372 | 100.0 | /mnt/stockage/packages/f25/kbd/po/uk.po | 
- | [vi]({{< ref "/f25/language/vi.md" >}}) | 2372 | 2372 | 100.0 | /mnt/stockage/packages/f25/kbd/po/vi.po | 
- | [de]({{< ref "/f25/language/de.md" >}}) | 2187 | 2372 | 92.2 | /mnt/stockage/packages/f25/kbd/po/de.po | 
- | [eo]({{< ref "/f25/language/eo.md" >}}) | 2187 | 2372 | 92.2 | /mnt/stockage/packages/f25/kbd/po/eo.po | 
- | [hu]({{< ref "/f25/language/hu.md" >}}) | 2187 | 2372 | 92.2 | /mnt/stockage/packages/f25/kbd/po/hu.po | 
- | [fr]({{< ref "/f25/language/fr.md" >}}) | 1971 | 2372 | 83.1 | /mnt/stockage/packages/f25/kbd/po/fr.po | 
- | [da]({{< ref "/f25/language/da.md" >}}) | 1747 | 2372 | 73.7 | /mnt/stockage/packages/f25/kbd/po/da.po | 
- | [it]({{< ref "/f25/language/it.md" >}}) | 1747 | 2372 | 73.7 | /mnt/stockage/packages/f25/kbd/po/it.po | 
- | [el]({{< ref "/f25/language/el.md" >}}) | 3376 | 4744 | 71.2 | /mnt/stockage/packages/f25/kbd/po/gr.po/mnt/stockage/packages/f25/kbd/po/el.po | 
- | [id]({{< ref "/f25/language/id.md" >}}) | 1513 | 2372 | 63.8 | /mnt/stockage/packages/f25/kbd/po/id.po | 
- | [zh_Hans]({{< ref "/f25/language/zh_Hans.md" >}}) | 1498 | 2372 | 63.2 | /mnt/stockage/packages/f25/kbd/po/zh_CN.po | 
- | [es]({{< ref "/f25/language/es.md" >}}) | 1431 | 2372 | 60.3 | /mnt/stockage/packages/f25/kbd/po/es.po | 
- | [sv]({{< ref "/f25/language/sv.md" >}}) | 1207 | 2372 | 50.9 | /mnt/stockage/packages/f25/kbd/po/sv.po | 
- | [tr]({{< ref "/f25/language/tr.md" >}}) | 1201 | 2372 | 50.6 | /mnt/stockage/packages/f25/kbd/po/tr.po | 
- | [ro]({{< ref "/f25/language/ro.md" >}}) | 1189 | 2372 | 50.1 | /mnt/stockage/packages/f25/kbd/po/ro.po | 
+ | [cs](/f25/language/cs) | 2372 | 2372 | 100.0 | /mnt/stockage/packages/f25/kbd/po/cs.po | 
+ | [nl](/f25/language/nl) | 2372 | 2372 | 100.0 | /mnt/stockage/packages/f25/kbd/po/nl.po | 
+ | [pl](/f25/language/pl) | 2372 | 2372 | 100.0 | /mnt/stockage/packages/f25/kbd/po/pl.po | 
+ | [ru](/f25/language/ru) | 2372 | 2372 | 100.0 | /mnt/stockage/packages/f25/kbd/po/ru.po | 
+ | [uk](/f25/language/uk) | 2372 | 2372 | 100.0 | /mnt/stockage/packages/f25/kbd/po/uk.po | 
+ | [vi](/f25/language/vi) | 2372 | 2372 | 100.0 | /mnt/stockage/packages/f25/kbd/po/vi.po | 
+ | [de](/f25/language/de) | 2187 | 2372 | 92.2 | /mnt/stockage/packages/f25/kbd/po/de.po | 
+ | [eo](/f25/language/eo) | 2187 | 2372 | 92.2 | /mnt/stockage/packages/f25/kbd/po/eo.po | 
+ | [hu](/f25/language/hu) | 2187 | 2372 | 92.2 | /mnt/stockage/packages/f25/kbd/po/hu.po | 
+ | [fr](/f25/language/fr) | 1971 | 2372 | 83.1 | /mnt/stockage/packages/f25/kbd/po/fr.po | 
+ | [da](/f25/language/da) | 1747 | 2372 | 73.7 | /mnt/stockage/packages/f25/kbd/po/da.po | 
+ | [it](/f25/language/it) | 1747 | 2372 | 73.7 | /mnt/stockage/packages/f25/kbd/po/it.po | 
+ | [el](/f25/language/el) | 3376 | 4744 | 71.2 | /mnt/stockage/packages/f25/kbd/po/gr.po/mnt/stockage/packages/f25/kbd/po/el.po | 
+ | [id](/f25/language/id) | 1513 | 2372 | 63.8 | /mnt/stockage/packages/f25/kbd/po/id.po | 
+ | [zh_Hans](/f25/language/zh_Hans) | 1498 | 2372 | 63.2 | /mnt/stockage/packages/f25/kbd/po/zh_CN.po | 
+ | [es](/f25/language/es) | 1431 | 2372 | 60.3 | /mnt/stockage/packages/f25/kbd/po/es.po | 
+ | [sv](/f25/language/sv) | 1207 | 2372 | 50.9 | /mnt/stockage/packages/f25/kbd/po/sv.po | 
+ | [tr](/f25/language/tr) | 1201 | 2372 | 50.6 | /mnt/stockage/packages/f25/kbd/po/tr.po | 
+ | [ro](/f25/language/ro) | 1189 | 2372 | 50.1 | /mnt/stockage/packages/f25/kbd/po/ro.po | 
 {.sortable}
 
 

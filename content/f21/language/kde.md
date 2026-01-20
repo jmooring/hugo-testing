@@ -38,9 +38,9 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [kde-l10n]({{< ref "/f21/package/kde-l10n.md" >}}) | 195 | 195 | 100.0 | Chinese Traditional <zh-l10n@linux.org.tw> | 
- | [bluedevil]({{< ref "/f21/package/bluedevil.md" >}}) | 494 | 507 | 97.4 | Hungarian <kde-l10n-hu@kde.org> | 
- | [sflphone]({{< ref "/f21/package/sflphone.md" >}}) | 1563 | 2106 | 74.2 | Bosnian | 
+ | [kde-l10n](/f21/package/kde-l10n) | 195 | 195 | 100.0 | Chinese Traditional <zh-l10n@linux.org.tw> | 
+ | [bluedevil](/f21/package/bluedevil) | 494 | 507 | 97.4 | Hungarian <kde-l10n-hu@kde.org> | 
+ | [sflphone](/f21/package/sflphone) | 1563 | 2106 | 74.2 | Bosnian | 
 {.sortable}
 
 

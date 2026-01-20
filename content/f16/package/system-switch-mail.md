@@ -18,71 +18,71 @@ The package system-switch-mail (version 1.0.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f16/language/ar.md" >}}) | 134 | 134 | 100.0 | /mnt/stockage/packages/f16/system-switch-mail/po/ar.po | 
- | [as]({{< ref "/f16/language/as.md" >}}) | 158 | 158 | 100.0 | /mnt/stockage/packages/f16/system-switch-mail/po/as.po | 
- | [bal]({{< ref "/f16/language/bal.md" >}}) | 158 | 158 | 100.0 | /mnt/stockage/packages/f16/system-switch-mail/po/bal.po | 
- | [be]({{< ref "/f16/language/be.md" >}}) | 138 | 138 | 100.0 | /mnt/stockage/packages/f16/system-switch-mail/po/be.po | 
- | [bg]({{< ref "/f16/language/bg.md" >}}) | 158 | 158 | 100.0 | /mnt/stockage/packages/f16/system-switch-mail/po/bg.po | 
- | [bn]({{< ref "/f16/language/bn.md" >}}) | 134 | 134 | 100.0 | /mnt/stockage/packages/f16/system-switch-mail/po/bn.po | 
- | [bn_IN]({{< ref "/f16/language/bn_IN.md" >}}) | 158 | 158 | 100.0 | /mnt/stockage/packages/f16/system-switch-mail/po/bn_IN.po | 
- | [bs]({{< ref "/f16/language/bs.md" >}}) | 134 | 134 | 100.0 | /mnt/stockage/packages/f16/system-switch-mail/po/bs.po | 
- | [ca]({{< ref "/f16/language/ca.md" >}}) | 158 | 158 | 100.0 | /mnt/stockage/packages/f16/system-switch-mail/po/ca.po | 
- | [cs]({{< ref "/f16/language/cs.md" >}}) | 158 | 158 | 100.0 | /mnt/stockage/packages/f16/system-switch-mail/po/cs.po | 
- | [cy]({{< ref "/f16/language/cy.md" >}}) | 134 | 134 | 100.0 | /mnt/stockage/packages/f16/system-switch-mail/po/cy.po | 
- | [da]({{< ref "/f16/language/da.md" >}}) | 134 | 134 | 100.0 | /mnt/stockage/packages/f16/system-switch-mail/po/da.po | 
- | [de]({{< ref "/f16/language/de.md" >}}) | 134 | 134 | 100.0 | /mnt/stockage/packages/f16/system-switch-mail/po/de.po | 
- | [el]({{< ref "/f16/language/el.md" >}}) | 158 | 158 | 100.0 | /mnt/stockage/packages/f16/system-switch-mail/po/el.po | 
- | [es]({{< ref "/f16/language/es.md" >}}) | 158 | 158 | 100.0 | /mnt/stockage/packages/f16/system-switch-mail/po/es.po | 
- | [et]({{< ref "/f16/language/et.md" >}}) | 134 | 134 | 100.0 | /mnt/stockage/packages/f16/system-switch-mail/po/et.po | 
- | [fi]({{< ref "/f16/language/fi.md" >}}) | 158 | 158 | 100.0 | /mnt/stockage/packages/f16/system-switch-mail/po/fi.po | 
- | [fr]({{< ref "/f16/language/fr.md" >}}) | 158 | 158 | 100.0 | /mnt/stockage/packages/f16/system-switch-mail/po/fr.po | 
- | [gu]({{< ref "/f16/language/gu.md" >}}) | 158 | 158 | 100.0 | /mnt/stockage/packages/f16/system-switch-mail/po/gu.po | 
- | [he]({{< ref "/f16/language/he.md" >}}) | 158 | 158 | 100.0 | /mnt/stockage/packages/f16/system-switch-mail/po/he.po | 
- | [hi]({{< ref "/f16/language/hi.md" >}}) | 158 | 158 | 100.0 | /mnt/stockage/packages/f16/system-switch-mail/po/hi.po | 
- | [hr]({{< ref "/f16/language/hr.md" >}}) | 134 | 134 | 100.0 | /mnt/stockage/packages/f16/system-switch-mail/po/hr.po | 
- | [hu]({{< ref "/f16/language/hu.md" >}}) | 158 | 158 | 100.0 | /mnt/stockage/packages/f16/system-switch-mail/po/hu.po | 
- | [id]({{< ref "/f16/language/id.md" >}}) | 158 | 158 | 100.0 | /mnt/stockage/packages/f16/system-switch-mail/po/id.po | 
- | [is]({{< ref "/f16/language/is.md" >}}) | 134 | 134 | 100.0 | /mnt/stockage/packages/f16/system-switch-mail/po/is.po | 
- | [it]({{< ref "/f16/language/it.md" >}}) | 158 | 158 | 100.0 | /mnt/stockage/packages/f16/system-switch-mail/po/it.po | 
- | [ja]({{< ref "/f16/language/ja.md" >}}) | 158 | 158 | 100.0 | /mnt/stockage/packages/f16/system-switch-mail/po/ja.po | 
- | [ka]({{< ref "/f16/language/ka.md" >}}) | 134 | 134 | 100.0 | /mnt/stockage/packages/f16/system-switch-mail/po/ka.po | 
- | [kn]({{< ref "/f16/language/kn.md" >}}) | 158 | 158 | 100.0 | /mnt/stockage/packages/f16/system-switch-mail/po/kn.po | 
- | [ko]({{< ref "/f16/language/ko.md" >}}) | 158 | 158 | 100.0 | /mnt/stockage/packages/f16/system-switch-mail/po/ko.po | 
- | [lv]({{< ref "/f16/language/lv.md" >}}) | 134 | 134 | 100.0 | /mnt/stockage/packages/f16/system-switch-mail/po/lv.po | 
- | [mai]({{< ref "/f16/language/mai.md" >}}) | 158 | 158 | 100.0 | /mnt/stockage/packages/f16/system-switch-mail/po/mai.po | 
- | [mk]({{< ref "/f16/language/mk.md" >}}) | 134 | 134 | 100.0 | /mnt/stockage/packages/f16/system-switch-mail/po/mk.po | 
- | [ml]({{< ref "/f16/language/ml.md" >}}) | 158 | 158 | 100.0 | /mnt/stockage/packages/f16/system-switch-mail/po/ml.po | 
- | [mr]({{< ref "/f16/language/mr.md" >}}) | 158 | 158 | 100.0 | /mnt/stockage/packages/f16/system-switch-mail/po/mr.po | 
- | [ms]({{< ref "/f16/language/ms.md" >}}) | 134 | 134 | 100.0 | /mnt/stockage/packages/f16/system-switch-mail/po/ms.po | 
- | [nb_NO]({{< ref "/f16/language/nb_NO.md" >}}) | 158 | 158 | 100.0 | /mnt/stockage/packages/f16/system-switch-mail/po/nb.po | 
- | [nl]({{< ref "/f16/language/nl.md" >}}) | 158 | 158 | 100.0 | /mnt/stockage/packages/f16/system-switch-mail/po/nl.po | 
- | [or]({{< ref "/f16/language/or.md" >}}) | 158 | 158 | 100.0 | /mnt/stockage/packages/f16/system-switch-mail/po/or.po | 
- | [pa]({{< ref "/f16/language/pa.md" >}}) | 158 | 158 | 100.0 | /mnt/stockage/packages/f16/system-switch-mail/po/pa.po | 
- | [pl]({{< ref "/f16/language/pl.md" >}}) | 134 | 134 | 100.0 | /mnt/stockage/packages/f16/system-switch-mail/po/pl.po | 
- | [pt]({{< ref "/f16/language/pt.md" >}}) | 158 | 158 | 100.0 | /mnt/stockage/packages/f16/system-switch-mail/po/pt.po | 
- | [pt_BR]({{< ref "/f16/language/pt_BR.md" >}}) | 134 | 134 | 100.0 | /mnt/stockage/packages/f16/system-switch-mail/po/pt_BR.po | 
- | [ro]({{< ref "/f16/language/ro.md" >}}) | 134 | 134 | 100.0 | /mnt/stockage/packages/f16/system-switch-mail/po/ro.po | 
- | [ru]({{< ref "/f16/language/ru.md" >}}) | 134 | 134 | 100.0 | /mnt/stockage/packages/f16/system-switch-mail/po/ru.po | 
- | [si]({{< ref "/f16/language/si.md" >}}) | 134 | 134 | 100.0 | /mnt/stockage/packages/f16/system-switch-mail/po/si.po | 
- | [sk]({{< ref "/f16/language/sk.md" >}}) | 158 | 158 | 100.0 | /mnt/stockage/packages/f16/system-switch-mail/po/sk.po | 
- | [sl]({{< ref "/f16/language/sl.md" >}}) | 134 | 134 | 100.0 | /mnt/stockage/packages/f16/system-switch-mail/po/sl.po | 
- | [sr]({{< ref "/f16/language/sr.md" >}}) | 158 | 158 | 100.0 | /mnt/stockage/packages/f16/system-switch-mail/po/sr.po | 
- | [sr_Latn]({{< ref "/f16/language/sr_Latn.md" >}}) | 158 | 158 | 100.0 | /mnt/stockage/packages/f16/system-switch-mail/po/sr@latin.po | 
- | [sv]({{< ref "/f16/language/sv.md" >}}) | 158 | 158 | 100.0 | /mnt/stockage/packages/f16/system-switch-mail/po/sv.po | 
- | [ta]({{< ref "/f16/language/ta.md" >}}) | 158 | 158 | 100.0 | /mnt/stockage/packages/f16/system-switch-mail/po/ta.po | 
- | [te]({{< ref "/f16/language/te.md" >}}) | 158 | 158 | 100.0 | /mnt/stockage/packages/f16/system-switch-mail/po/te.po | 
- | [tr]({{< ref "/f16/language/tr.md" >}}) | 138 | 138 | 100.0 | /mnt/stockage/packages/f16/system-switch-mail/po/tr.po | 
- | [uk]({{< ref "/f16/language/uk.md" >}}) | 134 | 134 | 100.0 | /mnt/stockage/packages/f16/system-switch-mail/po/uk.po | 
- | [zh_Hans]({{< ref "/f16/language/zh_Hans.md" >}}) | 158 | 158 | 100.0 | /mnt/stockage/packages/f16/system-switch-mail/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f16/language/zh_Hant.md" >}}) | 158 | 158 | 100.0 | /mnt/stockage/packages/f16/system-switch-mail/po/zh_TW.po | 
- | [gl]({{< ref "/f16/language/gl.md" >}}) | 9 | 134 | 6.7 | /mnt/stockage/packages/f16/system-switch-mail/po/gl.po | 
- | [en_GB]({{< ref "/f16/language/en_GB.md" >}}) | 0 | 134 | 0.0 | /mnt/stockage/packages/f16/system-switch-mail/po/en_GB.po | 
- | [hy]({{< ref "/f16/language/hy.md" >}}) | 0 | 134 | 0.0 | /mnt/stockage/packages/f16/system-switch-mail/po/hy.po | 
- | [ku]({{< ref "/f16/language/ku.md" >}}) | 0 | 134 | 0.0 | /mnt/stockage/packages/f16/system-switch-mail/po/ku.po | 
- | [lo]({{< ref "/f16/language/lo.md" >}}) | 0 | 134 | 0.0 | /mnt/stockage/packages/f16/system-switch-mail/po/lo.po | 
- | [my]({{< ref "/f16/language/my.md" >}}) | 0 | 134 | 0.0 | /mnt/stockage/packages/f16/system-switch-mail/po/my.po | 
- | [sq]({{< ref "/f16/language/sq.md" >}}) | 0 | 134 | 0.0 | /mnt/stockage/packages/f16/system-switch-mail/po/sq.po | 
- | [ur]({{< ref "/f16/language/ur.md" >}}) | 0 | 134 | 0.0 | /mnt/stockage/packages/f16/system-switch-mail/po/ur.po | 
+ | [ar](/f16/language/ar) | 134 | 134 | 100.0 | /mnt/stockage/packages/f16/system-switch-mail/po/ar.po | 
+ | [as](/f16/language/as) | 158 | 158 | 100.0 | /mnt/stockage/packages/f16/system-switch-mail/po/as.po | 
+ | [bal](/f16/language/bal) | 158 | 158 | 100.0 | /mnt/stockage/packages/f16/system-switch-mail/po/bal.po | 
+ | [be](/f16/language/be) | 138 | 138 | 100.0 | /mnt/stockage/packages/f16/system-switch-mail/po/be.po | 
+ | [bg](/f16/language/bg) | 158 | 158 | 100.0 | /mnt/stockage/packages/f16/system-switch-mail/po/bg.po | 
+ | [bn](/f16/language/bn) | 134 | 134 | 100.0 | /mnt/stockage/packages/f16/system-switch-mail/po/bn.po | 
+ | [bn_IN](/f16/language/bn_IN) | 158 | 158 | 100.0 | /mnt/stockage/packages/f16/system-switch-mail/po/bn_IN.po | 
+ | [bs](/f16/language/bs) | 134 | 134 | 100.0 | /mnt/stockage/packages/f16/system-switch-mail/po/bs.po | 
+ | [ca](/f16/language/ca) | 158 | 158 | 100.0 | /mnt/stockage/packages/f16/system-switch-mail/po/ca.po | 
+ | [cs](/f16/language/cs) | 158 | 158 | 100.0 | /mnt/stockage/packages/f16/system-switch-mail/po/cs.po | 
+ | [cy](/f16/language/cy) | 134 | 134 | 100.0 | /mnt/stockage/packages/f16/system-switch-mail/po/cy.po | 
+ | [da](/f16/language/da) | 134 | 134 | 100.0 | /mnt/stockage/packages/f16/system-switch-mail/po/da.po | 
+ | [de](/f16/language/de) | 134 | 134 | 100.0 | /mnt/stockage/packages/f16/system-switch-mail/po/de.po | 
+ | [el](/f16/language/el) | 158 | 158 | 100.0 | /mnt/stockage/packages/f16/system-switch-mail/po/el.po | 
+ | [es](/f16/language/es) | 158 | 158 | 100.0 | /mnt/stockage/packages/f16/system-switch-mail/po/es.po | 
+ | [et](/f16/language/et) | 134 | 134 | 100.0 | /mnt/stockage/packages/f16/system-switch-mail/po/et.po | 
+ | [fi](/f16/language/fi) | 158 | 158 | 100.0 | /mnt/stockage/packages/f16/system-switch-mail/po/fi.po | 
+ | [fr](/f16/language/fr) | 158 | 158 | 100.0 | /mnt/stockage/packages/f16/system-switch-mail/po/fr.po | 
+ | [gu](/f16/language/gu) | 158 | 158 | 100.0 | /mnt/stockage/packages/f16/system-switch-mail/po/gu.po | 
+ | [he](/f16/language/he) | 158 | 158 | 100.0 | /mnt/stockage/packages/f16/system-switch-mail/po/he.po | 
+ | [hi](/f16/language/hi) | 158 | 158 | 100.0 | /mnt/stockage/packages/f16/system-switch-mail/po/hi.po | 
+ | [hr](/f16/language/hr) | 134 | 134 | 100.0 | /mnt/stockage/packages/f16/system-switch-mail/po/hr.po | 
+ | [hu](/f16/language/hu) | 158 | 158 | 100.0 | /mnt/stockage/packages/f16/system-switch-mail/po/hu.po | 
+ | [id](/f16/language/id) | 158 | 158 | 100.0 | /mnt/stockage/packages/f16/system-switch-mail/po/id.po | 
+ | [is](/f16/language/is) | 134 | 134 | 100.0 | /mnt/stockage/packages/f16/system-switch-mail/po/is.po | 
+ | [it](/f16/language/it) | 158 | 158 | 100.0 | /mnt/stockage/packages/f16/system-switch-mail/po/it.po | 
+ | [ja](/f16/language/ja) | 158 | 158 | 100.0 | /mnt/stockage/packages/f16/system-switch-mail/po/ja.po | 
+ | [ka](/f16/language/ka) | 134 | 134 | 100.0 | /mnt/stockage/packages/f16/system-switch-mail/po/ka.po | 
+ | [kn](/f16/language/kn) | 158 | 158 | 100.0 | /mnt/stockage/packages/f16/system-switch-mail/po/kn.po | 
+ | [ko](/f16/language/ko) | 158 | 158 | 100.0 | /mnt/stockage/packages/f16/system-switch-mail/po/ko.po | 
+ | [lv](/f16/language/lv) | 134 | 134 | 100.0 | /mnt/stockage/packages/f16/system-switch-mail/po/lv.po | 
+ | [mai](/f16/language/mai) | 158 | 158 | 100.0 | /mnt/stockage/packages/f16/system-switch-mail/po/mai.po | 
+ | [mk](/f16/language/mk) | 134 | 134 | 100.0 | /mnt/stockage/packages/f16/system-switch-mail/po/mk.po | 
+ | [ml](/f16/language/ml) | 158 | 158 | 100.0 | /mnt/stockage/packages/f16/system-switch-mail/po/ml.po | 
+ | [mr](/f16/language/mr) | 158 | 158 | 100.0 | /mnt/stockage/packages/f16/system-switch-mail/po/mr.po | 
+ | [ms](/f16/language/ms) | 134 | 134 | 100.0 | /mnt/stockage/packages/f16/system-switch-mail/po/ms.po | 
+ | [nb_NO](/f16/language/nb_NO) | 158 | 158 | 100.0 | /mnt/stockage/packages/f16/system-switch-mail/po/nb.po | 
+ | [nl](/f16/language/nl) | 158 | 158 | 100.0 | /mnt/stockage/packages/f16/system-switch-mail/po/nl.po | 
+ | [or](/f16/language/or) | 158 | 158 | 100.0 | /mnt/stockage/packages/f16/system-switch-mail/po/or.po | 
+ | [pa](/f16/language/pa) | 158 | 158 | 100.0 | /mnt/stockage/packages/f16/system-switch-mail/po/pa.po | 
+ | [pl](/f16/language/pl) | 134 | 134 | 100.0 | /mnt/stockage/packages/f16/system-switch-mail/po/pl.po | 
+ | [pt](/f16/language/pt) | 158 | 158 | 100.0 | /mnt/stockage/packages/f16/system-switch-mail/po/pt.po | 
+ | [pt_BR](/f16/language/pt_BR) | 134 | 134 | 100.0 | /mnt/stockage/packages/f16/system-switch-mail/po/pt_BR.po | 
+ | [ro](/f16/language/ro) | 134 | 134 | 100.0 | /mnt/stockage/packages/f16/system-switch-mail/po/ro.po | 
+ | [ru](/f16/language/ru) | 134 | 134 | 100.0 | /mnt/stockage/packages/f16/system-switch-mail/po/ru.po | 
+ | [si](/f16/language/si) | 134 | 134 | 100.0 | /mnt/stockage/packages/f16/system-switch-mail/po/si.po | 
+ | [sk](/f16/language/sk) | 158 | 158 | 100.0 | /mnt/stockage/packages/f16/system-switch-mail/po/sk.po | 
+ | [sl](/f16/language/sl) | 134 | 134 | 100.0 | /mnt/stockage/packages/f16/system-switch-mail/po/sl.po | 
+ | [sr](/f16/language/sr) | 158 | 158 | 100.0 | /mnt/stockage/packages/f16/system-switch-mail/po/sr.po | 
+ | [sr_Latn](/f16/language/sr_Latn) | 158 | 158 | 100.0 | /mnt/stockage/packages/f16/system-switch-mail/po/sr@latin.po | 
+ | [sv](/f16/language/sv) | 158 | 158 | 100.0 | /mnt/stockage/packages/f16/system-switch-mail/po/sv.po | 
+ | [ta](/f16/language/ta) | 158 | 158 | 100.0 | /mnt/stockage/packages/f16/system-switch-mail/po/ta.po | 
+ | [te](/f16/language/te) | 158 | 158 | 100.0 | /mnt/stockage/packages/f16/system-switch-mail/po/te.po | 
+ | [tr](/f16/language/tr) | 138 | 138 | 100.0 | /mnt/stockage/packages/f16/system-switch-mail/po/tr.po | 
+ | [uk](/f16/language/uk) | 134 | 134 | 100.0 | /mnt/stockage/packages/f16/system-switch-mail/po/uk.po | 
+ | [zh_Hans](/f16/language/zh_Hans) | 158 | 158 | 100.0 | /mnt/stockage/packages/f16/system-switch-mail/po/zh_CN.po | 
+ | [zh_Hant](/f16/language/zh_Hant) | 158 | 158 | 100.0 | /mnt/stockage/packages/f16/system-switch-mail/po/zh_TW.po | 
+ | [gl](/f16/language/gl) | 9 | 134 | 6.7 | /mnt/stockage/packages/f16/system-switch-mail/po/gl.po | 
+ | [en_GB](/f16/language/en_GB) | 0 | 134 | 0.0 | /mnt/stockage/packages/f16/system-switch-mail/po/en_GB.po | 
+ | [hy](/f16/language/hy) | 0 | 134 | 0.0 | /mnt/stockage/packages/f16/system-switch-mail/po/hy.po | 
+ | [ku](/f16/language/ku) | 0 | 134 | 0.0 | /mnt/stockage/packages/f16/system-switch-mail/po/ku.po | 
+ | [lo](/f16/language/lo) | 0 | 134 | 0.0 | /mnt/stockage/packages/f16/system-switch-mail/po/lo.po | 
+ | [my](/f16/language/my) | 0 | 134 | 0.0 | /mnt/stockage/packages/f16/system-switch-mail/po/my.po | 
+ | [sq](/f16/language/sq) | 0 | 134 | 0.0 | /mnt/stockage/packages/f16/system-switch-mail/po/sq.po | 
+ | [ur](/f16/language/ur) | 0 | 134 | 0.0 | /mnt/stockage/packages/f16/system-switch-mail/po/ur.po | 
 {.sortable}
 
 

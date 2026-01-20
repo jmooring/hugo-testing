@@ -18,25 +18,25 @@ The package gummi (version 0.6.6):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [hu]({{< ref "/f28/language/hu.md" >}}) | 755 | 758 | 99.6 | /mnt/stockage/packages/f28/gummi/po/hu.po | 
- | [es]({{< ref "/f28/language/es.md" >}}) | 723 | 758 | 95.4 | /mnt/stockage/packages/f28/gummi/po/es.po | 
- | [zh_Hans]({{< ref "/f28/language/zh_Hans.md" >}}) | 683 | 758 | 90.1 | /mnt/stockage/packages/f28/gummi/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f28/language/zh_Hant.md" >}}) | 683 | 758 | 90.1 | /mnt/stockage/packages/f28/gummi/po/zh_TW.po | 
- | [ca]({{< ref "/f28/language/ca.md" >}}) | 669 | 758 | 88.3 | /mnt/stockage/packages/f28/gummi/po/ca.po | 
- | [sv]({{< ref "/f28/language/sv.md" >}}) | 669 | 758 | 88.3 | /mnt/stockage/packages/f28/gummi/po/sv.po | 
- | [pt_BR]({{< ref "/f28/language/pt_BR.md" >}}) | 665 | 758 | 87.7 | /mnt/stockage/packages/f28/gummi/po/pt_BR.po | 
- | [pt]({{< ref "/f28/language/pt.md" >}}) | 654 | 758 | 86.3 | /mnt/stockage/packages/f28/gummi/po/pt.po | 
- | [de]({{< ref "/f28/language/de.md" >}}) | 619 | 758 | 81.7 | /mnt/stockage/packages/f28/gummi/po/de.po | 
- | [fr]({{< ref "/f28/language/fr.md" >}}) | 603 | 758 | 79.6 | /mnt/stockage/packages/f28/gummi/po/fr.po | 
- | [ru]({{< ref "/f28/language/ru.md" >}}) | 390 | 758 | 51.5 | /mnt/stockage/packages/f28/gummi/po/ru.po | 
- | [cs]({{< ref "/f28/language/cs.md" >}}) | 372 | 758 | 49.1 | /mnt/stockage/packages/f28/gummi/po/cs.po | 
- | [nl]({{< ref "/f28/language/nl.md" >}}) | 316 | 758 | 41.7 | /mnt/stockage/packages/f28/gummi/po/nl.po | 
- | [it]({{< ref "/f28/language/it.md" >}}) | 292 | 758 | 38.5 | /mnt/stockage/packages/f28/gummi/po/it.po | 
- | [pl]({{< ref "/f28/language/pl.md" >}}) | 292 | 758 | 38.5 | /mnt/stockage/packages/f28/gummi/po/pl.po | 
- | [ar]({{< ref "/f28/language/ar.md" >}}) | 210 | 758 | 27.7 | /mnt/stockage/packages/f28/gummi/po/ar.po | 
- | [ro]({{< ref "/f28/language/ro.md" >}}) | 164 | 758 | 21.6 | /mnt/stockage/packages/f28/gummi/po/ro.po | 
- | [da]({{< ref "/f28/language/da.md" >}}) | 145 | 758 | 19.1 | /mnt/stockage/packages/f28/gummi/po/da.po | 
- | [el]({{< ref "/f28/language/el.md" >}}) | 143 | 758 | 18.9 | /mnt/stockage/packages/f28/gummi/po/el.po | 
+ | [hu](/f28/language/hu) | 755 | 758 | 99.6 | /mnt/stockage/packages/f28/gummi/po/hu.po | 
+ | [es](/f28/language/es) | 723 | 758 | 95.4 | /mnt/stockage/packages/f28/gummi/po/es.po | 
+ | [zh_Hans](/f28/language/zh_Hans) | 683 | 758 | 90.1 | /mnt/stockage/packages/f28/gummi/po/zh_CN.po | 
+ | [zh_Hant](/f28/language/zh_Hant) | 683 | 758 | 90.1 | /mnt/stockage/packages/f28/gummi/po/zh_TW.po | 
+ | [ca](/f28/language/ca) | 669 | 758 | 88.3 | /mnt/stockage/packages/f28/gummi/po/ca.po | 
+ | [sv](/f28/language/sv) | 669 | 758 | 88.3 | /mnt/stockage/packages/f28/gummi/po/sv.po | 
+ | [pt_BR](/f28/language/pt_BR) | 665 | 758 | 87.7 | /mnt/stockage/packages/f28/gummi/po/pt_BR.po | 
+ | [pt](/f28/language/pt) | 654 | 758 | 86.3 | /mnt/stockage/packages/f28/gummi/po/pt.po | 
+ | [de](/f28/language/de) | 619 | 758 | 81.7 | /mnt/stockage/packages/f28/gummi/po/de.po | 
+ | [fr](/f28/language/fr) | 603 | 758 | 79.6 | /mnt/stockage/packages/f28/gummi/po/fr.po | 
+ | [ru](/f28/language/ru) | 390 | 758 | 51.5 | /mnt/stockage/packages/f28/gummi/po/ru.po | 
+ | [cs](/f28/language/cs) | 372 | 758 | 49.1 | /mnt/stockage/packages/f28/gummi/po/cs.po | 
+ | [nl](/f28/language/nl) | 316 | 758 | 41.7 | /mnt/stockage/packages/f28/gummi/po/nl.po | 
+ | [it](/f28/language/it) | 292 | 758 | 38.5 | /mnt/stockage/packages/f28/gummi/po/it.po | 
+ | [pl](/f28/language/pl) | 292 | 758 | 38.5 | /mnt/stockage/packages/f28/gummi/po/pl.po | 
+ | [ar](/f28/language/ar) | 210 | 758 | 27.7 | /mnt/stockage/packages/f28/gummi/po/ar.po | 
+ | [ro](/f28/language/ro) | 164 | 758 | 21.6 | /mnt/stockage/packages/f28/gummi/po/ro.po | 
+ | [da](/f28/language/da) | 145 | 758 | 19.1 | /mnt/stockage/packages/f28/gummi/po/da.po | 
+ | [el](/f28/language/el) | 143 | 758 | 18.9 | /mnt/stockage/packages/f28/gummi/po/el.po | 
 {.sortable}
 
 

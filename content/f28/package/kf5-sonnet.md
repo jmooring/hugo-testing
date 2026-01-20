@@ -18,100 +18,100 @@ The package kf5-sonnet (version 5.55.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f28/language/ca.md" >}}) | 667 | 667 | 100.0 | /mnt/stockage/packages/f28/kf5-sonnet/po/ca/sonnet5_qt.po | 
- | [ca@valencia]({{< ref "/f28/language/ca@valencia.md" >}}) | 667 | 667 | 100.0 | /mnt/stockage/packages/f28/kf5-sonnet/po/ca@valencia/sonnet5_qt.po | 
- | [de]({{< ref "/f28/language/de.md" >}}) | 667 | 667 | 100.0 | /mnt/stockage/packages/f28/kf5-sonnet/po/de/sonnet5_qt.po | 
- | [es]({{< ref "/f28/language/es.md" >}}) | 667 | 667 | 100.0 | /mnt/stockage/packages/f28/kf5-sonnet/po/es/sonnet5_qt.po | 
- | [fi]({{< ref "/f28/language/fi.md" >}}) | 667 | 667 | 100.0 | /mnt/stockage/packages/f28/kf5-sonnet/po/fi/sonnet5_qt.po | 
- | [fr]({{< ref "/f28/language/fr.md" >}}) | 667 | 667 | 100.0 | /mnt/stockage/packages/f28/kf5-sonnet/po/fr/sonnet5_qt.po | 
- | [gl]({{< ref "/f28/language/gl.md" >}}) | 667 | 667 | 100.0 | /mnt/stockage/packages/f28/kf5-sonnet/po/gl/sonnet5_qt.po | 
- | [id]({{< ref "/f28/language/id.md" >}}) | 667 | 667 | 100.0 | /mnt/stockage/packages/f28/kf5-sonnet/po/id/sonnet5_qt.po | 
- | [it]({{< ref "/f28/language/it.md" >}}) | 667 | 667 | 100.0 | /mnt/stockage/packages/f28/kf5-sonnet/po/it/sonnet5_qt.po | 
- | [nl]({{< ref "/f28/language/nl.md" >}}) | 667 | 667 | 100.0 | /mnt/stockage/packages/f28/kf5-sonnet/po/nl/sonnet5_qt.po | 
- | [nn]({{< ref "/f28/language/nn.md" >}}) | 667 | 667 | 100.0 | /mnt/stockage/packages/f28/kf5-sonnet/po/nn/sonnet5_qt.po | 
- | [pl]({{< ref "/f28/language/pl.md" >}}) | 667 | 667 | 100.0 | /mnt/stockage/packages/f28/kf5-sonnet/po/pl/sonnet5_qt.po | 
- | [pt]({{< ref "/f28/language/pt.md" >}}) | 667 | 667 | 100.0 | /mnt/stockage/packages/f28/kf5-sonnet/po/pt/sonnet5_qt.po | 
- | [pt_BR]({{< ref "/f28/language/pt_BR.md" >}}) | 667 | 667 | 100.0 | /mnt/stockage/packages/f28/kf5-sonnet/po/pt_BR/sonnet5_qt.po | 
- | [ru]({{< ref "/f28/language/ru.md" >}}) | 667 | 667 | 100.0 | /mnt/stockage/packages/f28/kf5-sonnet/po/ru/sonnet5_qt.po | 
- | [sk]({{< ref "/f28/language/sk.md" >}}) | 667 | 667 | 100.0 | /mnt/stockage/packages/f28/kf5-sonnet/po/sk/sonnet5_qt.po | 
- | [sv]({{< ref "/f28/language/sv.md" >}}) | 667 | 667 | 100.0 | /mnt/stockage/packages/f28/kf5-sonnet/po/sv/sonnet5_qt.po | 
- | [uk]({{< ref "/f28/language/uk.md" >}}) | 667 | 667 | 100.0 | /mnt/stockage/packages/f28/kf5-sonnet/po/uk/sonnet5_qt.po | 
- | [zh_Hans]({{< ref "/f28/language/zh_Hans.md" >}}) | 667 | 667 | 100.0 | /mnt/stockage/packages/f28/kf5-sonnet/po/zh_CN/sonnet5_qt.po | 
- | [zh_Hant]({{< ref "/f28/language/zh_Hant.md" >}}) | 667 | 667 | 100.0 | /mnt/stockage/packages/f28/kf5-sonnet/po/zh_TW/sonnet5_qt.po | 
- | [da]({{< ref "/f28/language/da.md" >}}) | 663 | 667 | 99.4 | /mnt/stockage/packages/f28/kf5-sonnet/po/da/sonnet5_qt.po | 
- | [el]({{< ref "/f28/language/el.md" >}}) | 663 | 667 | 99.4 | /mnt/stockage/packages/f28/kf5-sonnet/po/el/sonnet5_qt.po | 
- | [en_GB]({{< ref "/f28/language/en_GB.md" >}}) | 663 | 667 | 99.4 | /mnt/stockage/packages/f28/kf5-sonnet/po/en_GB/sonnet5_qt.po | 
- | [et]({{< ref "/f28/language/et.md" >}}) | 663 | 667 | 99.4 | /mnt/stockage/packages/f28/kf5-sonnet/po/et/sonnet5_qt.po | 
- | [eu]({{< ref "/f28/language/eu.md" >}}) | 663 | 667 | 99.4 | /mnt/stockage/packages/f28/kf5-sonnet/po/eu/sonnet5_qt.po | 
- | [gd]({{< ref "/f28/language/gd.md" >}}) | 663 | 667 | 99.4 | /mnt/stockage/packages/f28/kf5-sonnet/po/gd/sonnet5_qt.po | 
- | [hu]({{< ref "/f28/language/hu.md" >}}) | 663 | 667 | 99.4 | /mnt/stockage/packages/f28/kf5-sonnet/po/hu/sonnet5_qt.po | 
- | [ia]({{< ref "/f28/language/ia.md" >}}) | 663 | 667 | 99.4 | /mnt/stockage/packages/f28/kf5-sonnet/po/ia/sonnet5_qt.po | 
- | [ko]({{< ref "/f28/language/ko.md" >}}) | 663 | 667 | 99.4 | /mnt/stockage/packages/f28/kf5-sonnet/po/ko/sonnet5_qt.po | 
- | [sl]({{< ref "/f28/language/sl.md" >}}) | 663 | 667 | 99.4 | /mnt/stockage/packages/f28/kf5-sonnet/po/sl/sonnet5_qt.po | 
- | [sr]({{< ref "/f28/language/sr.md" >}}) | 663 | 667 | 99.4 | /mnt/stockage/packages/f28/kf5-sonnet/po/sr/sonnet5_qt.po | 
- | [sr@ijekavian]({{< ref "/f28/language/sr@ijekavian.md" >}}) | 663 | 667 | 99.4 | /mnt/stockage/packages/f28/kf5-sonnet/po/sr@ijekavian/sonnet5_qt.po | 
- | [sr@ijekavian_Latn]({{< ref "/f28/language/sr@ijekavian_Latn.md" >}}) | 663 | 667 | 99.4 | /mnt/stockage/packages/f28/kf5-sonnet/po/sr@ijekavianlatin/sonnet5_qt.po | 
- | [sr_Latn]({{< ref "/f28/language/sr_Latn.md" >}}) | 663 | 667 | 99.4 | /mnt/stockage/packages/f28/kf5-sonnet/po/sr@latin/sonnet5_qt.po | 
- | [tr]({{< ref "/f28/language/tr.md" >}}) | 663 | 667 | 99.4 | /mnt/stockage/packages/f28/kf5-sonnet/po/tr/sonnet5_qt.po | 
- | [bs]({{< ref "/f28/language/bs.md" >}}) | 657 | 667 | 98.5 | /mnt/stockage/packages/f28/kf5-sonnet/po/bs/sonnet5_qt.po | 
- | [nb_NO]({{< ref "/f28/language/nb_NO.md" >}}) | 657 | 667 | 98.5 | /mnt/stockage/packages/f28/kf5-sonnet/po/nb/sonnet5_qt.po | 
- | [nds]({{< ref "/f28/language/nds.md" >}}) | 657 | 667 | 98.5 | /mnt/stockage/packages/f28/kf5-sonnet/po/nds/sonnet5_qt.po | 
- | [lt]({{< ref "/f28/language/lt.md" >}}) | 639 | 667 | 95.8 | /mnt/stockage/packages/f28/kf5-sonnet/po/lt/sonnet5_qt.po | 
- | [pa]({{< ref "/f28/language/pa.md" >}}) | 639 | 667 | 95.8 | /mnt/stockage/packages/f28/kf5-sonnet/po/pa/sonnet5_qt.po | 
- | [eo]({{< ref "/f28/language/eo.md" >}}) | 479 | 667 | 71.8 | /mnt/stockage/packages/f28/kf5-sonnet/po/eo/sonnet5_qt.po | 
- | [ar]({{< ref "/f28/language/ar.md" >}}) | 305 | 667 | 45.7 | /mnt/stockage/packages/f28/kf5-sonnet/po/ar/sonnet5_qt.po | 
- | [he]({{< ref "/f28/language/he.md" >}}) | 228 | 667 | 34.2 | /mnt/stockage/packages/f28/kf5-sonnet/po/he/sonnet5_qt.po | 
- | [en_US]({{< ref "/f28/language/en_US.md" >}}) | 663 | 2001 | 33.1 | /mnt/stockage/packages/f28/kf5-sonnet/po/bn/sonnet5_qt.po/mnt/stockage/packages/f28/kf5-sonnet/po/cs/sonnet5_qt.po/mnt/stockage/packages/f28/kf5-sonnet/po/vi/sonnet5_qt.po | 
- | [mr]({{< ref "/f28/language/mr.md" >}}) | 219 | 667 | 32.8 | /mnt/stockage/packages/f28/kf5-sonnet/po/mr/sonnet5_qt.po | 
- | [af]({{< ref "/f28/language/af.md" >}}) | 0 | 667 | 0.0 | /mnt/stockage/packages/f28/kf5-sonnet/po/af/sonnet5_qt.po | 
- | [as]({{< ref "/f28/language/as.md" >}}) | 0 | 667 | 0.0 | /mnt/stockage/packages/f28/kf5-sonnet/po/as/sonnet5_qt.po | 
- | [be]({{< ref "/f28/language/be.md" >}}) | 0 | 667 | 0.0 | /mnt/stockage/packages/f28/kf5-sonnet/po/be/sonnet5_qt.po | 
- | [be_Latn]({{< ref "/f28/language/be_Latn.md" >}}) | 0 | 667 | 0.0 | /mnt/stockage/packages/f28/kf5-sonnet/po/be@latin/sonnet5_qt.po | 
- | [bg]({{< ref "/f28/language/bg.md" >}}) | 0 | 667 | 0.0 | /mnt/stockage/packages/f28/kf5-sonnet/po/bg/sonnet5_qt.po | 
- | [bn_IN]({{< ref "/f28/language/bn_IN.md" >}}) | 0 | 667 | 0.0 | /mnt/stockage/packages/f28/kf5-sonnet/po/bn_IN/sonnet5_qt.po | 
- | [br]({{< ref "/f28/language/br.md" >}}) | 0 | 667 | 0.0 | /mnt/stockage/packages/f28/kf5-sonnet/po/br/sonnet5_qt.po | 
- | [crh]({{< ref "/f28/language/crh.md" >}}) | 0 | 667 | 0.0 | /mnt/stockage/packages/f28/kf5-sonnet/po/crh/sonnet5_qt.po | 
- | [csb]({{< ref "/f28/language/csb.md" >}}) | 0 | 667 | 0.0 | /mnt/stockage/packages/f28/kf5-sonnet/po/csb/sonnet5_qt.po | 
- | [cy]({{< ref "/f28/language/cy.md" >}}) | 0 | 667 | 0.0 | /mnt/stockage/packages/f28/kf5-sonnet/po/cy/sonnet5_qt.po | 
- | [fa]({{< ref "/f28/language/fa.md" >}}) | 0 | 667 | 0.0 | /mnt/stockage/packages/f28/kf5-sonnet/po/fa/sonnet5_qt.po | 
- | [fy]({{< ref "/f28/language/fy.md" >}}) | 0 | 667 | 0.0 | /mnt/stockage/packages/f28/kf5-sonnet/po/fy/sonnet5_qt.po | 
- | [ga]({{< ref "/f28/language/ga.md" >}}) | 0 | 667 | 0.0 | /mnt/stockage/packages/f28/kf5-sonnet/po/ga/sonnet5_qt.po | 
- | [gu]({{< ref "/f28/language/gu.md" >}}) | 0 | 667 | 0.0 | /mnt/stockage/packages/f28/kf5-sonnet/po/gu/sonnet5_qt.po | 
- | [ha]({{< ref "/f28/language/ha.md" >}}) | 0 | 667 | 0.0 | /mnt/stockage/packages/f28/kf5-sonnet/po/ha/sonnet5_qt.po | 
- | [hi]({{< ref "/f28/language/hi.md" >}}) | 0 | 2001 | 0.0 | /mnt/stockage/packages/f28/kf5-sonnet/po/hne/sonnet5_qt.po/mnt/stockage/packages/f28/kf5-sonnet/po/hi/sonnet5_qt.po/mnt/stockage/packages/f28/kf5-sonnet/po/mai/sonnet5_qt.po | 
- | [hr]({{< ref "/f28/language/hr.md" >}}) | 0 | 667 | 0.0 | /mnt/stockage/packages/f28/kf5-sonnet/po/hr/sonnet5_qt.po | 
- | [hsb]({{< ref "/f28/language/hsb.md" >}}) | 0 | 667 | 0.0 | /mnt/stockage/packages/f28/kf5-sonnet/po/hsb/sonnet5_qt.po | 
- | [hy]({{< ref "/f28/language/hy.md" >}}) | 0 | 667 | 0.0 | /mnt/stockage/packages/f28/kf5-sonnet/po/hy/sonnet5_qt.po | 
- | [is]({{< ref "/f28/language/is.md" >}}) | 0 | 667 | 0.0 | /mnt/stockage/packages/f28/kf5-sonnet/po/is/sonnet5_qt.po | 
- | [ja]({{< ref "/f28/language/ja.md" >}}) | 0 | 667 | 0.0 | /mnt/stockage/packages/f28/kf5-sonnet/po/ja/sonnet5_qt.po | 
- | [ka]({{< ref "/f28/language/ka.md" >}}) | 0 | 667 | 0.0 | /mnt/stockage/packages/f28/kf5-sonnet/po/ka/sonnet5_qt.po | 
- | [kk]({{< ref "/f28/language/kk.md" >}}) | 0 | 667 | 0.0 | /mnt/stockage/packages/f28/kf5-sonnet/po/kk/sonnet5_qt.po | 
- | [km]({{< ref "/f28/language/km.md" >}}) | 0 | 667 | 0.0 | /mnt/stockage/packages/f28/kf5-sonnet/po/km/sonnet5_qt.po | 
- | [kn]({{< ref "/f28/language/kn.md" >}}) | 0 | 667 | 0.0 | /mnt/stockage/packages/f28/kf5-sonnet/po/kn/sonnet5_qt.po | 
- | [ku]({{< ref "/f28/language/ku.md" >}}) | 0 | 667 | 0.0 | /mnt/stockage/packages/f28/kf5-sonnet/po/ku/sonnet5_qt.po | 
- | [lb]({{< ref "/f28/language/lb.md" >}}) | 0 | 667 | 0.0 | /mnt/stockage/packages/f28/kf5-sonnet/po/lb/sonnet5_qt.po | 
- | [lv]({{< ref "/f28/language/lv.md" >}}) | 0 | 667 | 0.0 | /mnt/stockage/packages/f28/kf5-sonnet/po/lv/sonnet5_qt.po | 
- | [mk]({{< ref "/f28/language/mk.md" >}}) | 0 | 667 | 0.0 | /mnt/stockage/packages/f28/kf5-sonnet/po/mk/sonnet5_qt.po | 
- | [ml]({{< ref "/f28/language/ml.md" >}}) | 0 | 667 | 0.0 | /mnt/stockage/packages/f28/kf5-sonnet/po/ml/sonnet5_qt.po | 
- | [ms]({{< ref "/f28/language/ms.md" >}}) | 0 | 667 | 0.0 | /mnt/stockage/packages/f28/kf5-sonnet/po/ms/sonnet5_qt.po | 
- | [ne]({{< ref "/f28/language/ne.md" >}}) | 0 | 667 | 0.0 | /mnt/stockage/packages/f28/kf5-sonnet/po/ne/sonnet5_qt.po | 
- | [oc]({{< ref "/f28/language/oc.md" >}}) | 0 | 667 | 0.0 | /mnt/stockage/packages/f28/kf5-sonnet/po/oc/sonnet5_qt.po | 
- | [or]({{< ref "/f28/language/or.md" >}}) | 0 | 667 | 0.0 | /mnt/stockage/packages/f28/kf5-sonnet/po/or/sonnet5_qt.po | 
- | [ps]({{< ref "/f28/language/ps.md" >}}) | 0 | 667 | 0.0 | /mnt/stockage/packages/f28/kf5-sonnet/po/ps/sonnet5_qt.po | 
- | [ro]({{< ref "/f28/language/ro.md" >}}) | 0 | 667 | 0.0 | /mnt/stockage/packages/f28/kf5-sonnet/po/ro/sonnet5_qt.po | 
- | [se]({{< ref "/f28/language/se.md" >}}) | 0 | 667 | 0.0 | /mnt/stockage/packages/f28/kf5-sonnet/po/se/sonnet5_qt.po | 
- | [si]({{< ref "/f28/language/si.md" >}}) | 0 | 667 | 0.0 | /mnt/stockage/packages/f28/kf5-sonnet/po/si/sonnet5_qt.po | 
- | [sq]({{< ref "/f28/language/sq.md" >}}) | 0 | 667 | 0.0 | /mnt/stockage/packages/f28/kf5-sonnet/po/sq/sonnet5_qt.po | 
- | [ta]({{< ref "/f28/language/ta.md" >}}) | 0 | 667 | 0.0 | /mnt/stockage/packages/f28/kf5-sonnet/po/ta/sonnet5_qt.po | 
- | [te]({{< ref "/f28/language/te.md" >}}) | 0 | 667 | 0.0 | /mnt/stockage/packages/f28/kf5-sonnet/po/te/sonnet5_qt.po | 
- | [tg]({{< ref "/f28/language/tg.md" >}}) | 0 | 667 | 0.0 | /mnt/stockage/packages/f28/kf5-sonnet/po/tg/sonnet5_qt.po | 
- | [th]({{< ref "/f28/language/th.md" >}}) | 0 | 667 | 0.0 | /mnt/stockage/packages/f28/kf5-sonnet/po/th/sonnet5_qt.po | 
- | [tt]({{< ref "/f28/language/tt.md" >}}) | 0 | 667 | 0.0 | /mnt/stockage/packages/f28/kf5-sonnet/po/tt/sonnet5_qt.po | 
- | [ug]({{< ref "/f28/language/ug.md" >}}) | 0 | 667 | 0.0 | /mnt/stockage/packages/f28/kf5-sonnet/po/ug/sonnet5_qt.po | 
- | [uz]({{< ref "/f28/language/uz.md" >}}) | 0 | 1334 | 0.0 | /mnt/stockage/packages/f28/kf5-sonnet/po/uz@cyrillic/sonnet5_qt.po/mnt/stockage/packages/f28/kf5-sonnet/po/uz/sonnet5_qt.po | 
- | [wa]({{< ref "/f28/language/wa.md" >}}) | 0 | 667 | 0.0 | /mnt/stockage/packages/f28/kf5-sonnet/po/wa/sonnet5_qt.po | 
- | [xh]({{< ref "/f28/language/xh.md" >}}) | 0 | 667 | 0.0 | /mnt/stockage/packages/f28/kf5-sonnet/po/xh/sonnet5_qt.po | 
- | [zh_Hant_HK]({{< ref "/f28/language/zh_Hant_HK.md" >}}) | 0 | 667 | 0.0 | /mnt/stockage/packages/f28/kf5-sonnet/po/zh_HK/sonnet5_qt.po | 
+ | [ca](/f28/language/ca) | 667 | 667 | 100.0 | /mnt/stockage/packages/f28/kf5-sonnet/po/ca/sonnet5_qt.po | 
+ | [ca@valencia](/f28/language/ca@valencia) | 667 | 667 | 100.0 | /mnt/stockage/packages/f28/kf5-sonnet/po/ca@valencia/sonnet5_qt.po | 
+ | [de](/f28/language/de) | 667 | 667 | 100.0 | /mnt/stockage/packages/f28/kf5-sonnet/po/de/sonnet5_qt.po | 
+ | [es](/f28/language/es) | 667 | 667 | 100.0 | /mnt/stockage/packages/f28/kf5-sonnet/po/es/sonnet5_qt.po | 
+ | [fi](/f28/language/fi) | 667 | 667 | 100.0 | /mnt/stockage/packages/f28/kf5-sonnet/po/fi/sonnet5_qt.po | 
+ | [fr](/f28/language/fr) | 667 | 667 | 100.0 | /mnt/stockage/packages/f28/kf5-sonnet/po/fr/sonnet5_qt.po | 
+ | [gl](/f28/language/gl) | 667 | 667 | 100.0 | /mnt/stockage/packages/f28/kf5-sonnet/po/gl/sonnet5_qt.po | 
+ | [id](/f28/language/id) | 667 | 667 | 100.0 | /mnt/stockage/packages/f28/kf5-sonnet/po/id/sonnet5_qt.po | 
+ | [it](/f28/language/it) | 667 | 667 | 100.0 | /mnt/stockage/packages/f28/kf5-sonnet/po/it/sonnet5_qt.po | 
+ | [nl](/f28/language/nl) | 667 | 667 | 100.0 | /mnt/stockage/packages/f28/kf5-sonnet/po/nl/sonnet5_qt.po | 
+ | [nn](/f28/language/nn) | 667 | 667 | 100.0 | /mnt/stockage/packages/f28/kf5-sonnet/po/nn/sonnet5_qt.po | 
+ | [pl](/f28/language/pl) | 667 | 667 | 100.0 | /mnt/stockage/packages/f28/kf5-sonnet/po/pl/sonnet5_qt.po | 
+ | [pt](/f28/language/pt) | 667 | 667 | 100.0 | /mnt/stockage/packages/f28/kf5-sonnet/po/pt/sonnet5_qt.po | 
+ | [pt_BR](/f28/language/pt_BR) | 667 | 667 | 100.0 | /mnt/stockage/packages/f28/kf5-sonnet/po/pt_BR/sonnet5_qt.po | 
+ | [ru](/f28/language/ru) | 667 | 667 | 100.0 | /mnt/stockage/packages/f28/kf5-sonnet/po/ru/sonnet5_qt.po | 
+ | [sk](/f28/language/sk) | 667 | 667 | 100.0 | /mnt/stockage/packages/f28/kf5-sonnet/po/sk/sonnet5_qt.po | 
+ | [sv](/f28/language/sv) | 667 | 667 | 100.0 | /mnt/stockage/packages/f28/kf5-sonnet/po/sv/sonnet5_qt.po | 
+ | [uk](/f28/language/uk) | 667 | 667 | 100.0 | /mnt/stockage/packages/f28/kf5-sonnet/po/uk/sonnet5_qt.po | 
+ | [zh_Hans](/f28/language/zh_Hans) | 667 | 667 | 100.0 | /mnt/stockage/packages/f28/kf5-sonnet/po/zh_CN/sonnet5_qt.po | 
+ | [zh_Hant](/f28/language/zh_Hant) | 667 | 667 | 100.0 | /mnt/stockage/packages/f28/kf5-sonnet/po/zh_TW/sonnet5_qt.po | 
+ | [da](/f28/language/da) | 663 | 667 | 99.4 | /mnt/stockage/packages/f28/kf5-sonnet/po/da/sonnet5_qt.po | 
+ | [el](/f28/language/el) | 663 | 667 | 99.4 | /mnt/stockage/packages/f28/kf5-sonnet/po/el/sonnet5_qt.po | 
+ | [en_GB](/f28/language/en_GB) | 663 | 667 | 99.4 | /mnt/stockage/packages/f28/kf5-sonnet/po/en_GB/sonnet5_qt.po | 
+ | [et](/f28/language/et) | 663 | 667 | 99.4 | /mnt/stockage/packages/f28/kf5-sonnet/po/et/sonnet5_qt.po | 
+ | [eu](/f28/language/eu) | 663 | 667 | 99.4 | /mnt/stockage/packages/f28/kf5-sonnet/po/eu/sonnet5_qt.po | 
+ | [gd](/f28/language/gd) | 663 | 667 | 99.4 | /mnt/stockage/packages/f28/kf5-sonnet/po/gd/sonnet5_qt.po | 
+ | [hu](/f28/language/hu) | 663 | 667 | 99.4 | /mnt/stockage/packages/f28/kf5-sonnet/po/hu/sonnet5_qt.po | 
+ | [ia](/f28/language/ia) | 663 | 667 | 99.4 | /mnt/stockage/packages/f28/kf5-sonnet/po/ia/sonnet5_qt.po | 
+ | [ko](/f28/language/ko) | 663 | 667 | 99.4 | /mnt/stockage/packages/f28/kf5-sonnet/po/ko/sonnet5_qt.po | 
+ | [sl](/f28/language/sl) | 663 | 667 | 99.4 | /mnt/stockage/packages/f28/kf5-sonnet/po/sl/sonnet5_qt.po | 
+ | [sr](/f28/language/sr) | 663 | 667 | 99.4 | /mnt/stockage/packages/f28/kf5-sonnet/po/sr/sonnet5_qt.po | 
+ | [sr@ijekavian](/f28/language/sr@ijekavian) | 663 | 667 | 99.4 | /mnt/stockage/packages/f28/kf5-sonnet/po/sr@ijekavian/sonnet5_qt.po | 
+ | [sr@ijekavian_Latn](/f28/language/sr@ijekavian_Latn) | 663 | 667 | 99.4 | /mnt/stockage/packages/f28/kf5-sonnet/po/sr@ijekavianlatin/sonnet5_qt.po | 
+ | [sr_Latn](/f28/language/sr_Latn) | 663 | 667 | 99.4 | /mnt/stockage/packages/f28/kf5-sonnet/po/sr@latin/sonnet5_qt.po | 
+ | [tr](/f28/language/tr) | 663 | 667 | 99.4 | /mnt/stockage/packages/f28/kf5-sonnet/po/tr/sonnet5_qt.po | 
+ | [bs](/f28/language/bs) | 657 | 667 | 98.5 | /mnt/stockage/packages/f28/kf5-sonnet/po/bs/sonnet5_qt.po | 
+ | [nb_NO](/f28/language/nb_NO) | 657 | 667 | 98.5 | /mnt/stockage/packages/f28/kf5-sonnet/po/nb/sonnet5_qt.po | 
+ | [nds](/f28/language/nds) | 657 | 667 | 98.5 | /mnt/stockage/packages/f28/kf5-sonnet/po/nds/sonnet5_qt.po | 
+ | [lt](/f28/language/lt) | 639 | 667 | 95.8 | /mnt/stockage/packages/f28/kf5-sonnet/po/lt/sonnet5_qt.po | 
+ | [pa](/f28/language/pa) | 639 | 667 | 95.8 | /mnt/stockage/packages/f28/kf5-sonnet/po/pa/sonnet5_qt.po | 
+ | [eo](/f28/language/eo) | 479 | 667 | 71.8 | /mnt/stockage/packages/f28/kf5-sonnet/po/eo/sonnet5_qt.po | 
+ | [ar](/f28/language/ar) | 305 | 667 | 45.7 | /mnt/stockage/packages/f28/kf5-sonnet/po/ar/sonnet5_qt.po | 
+ | [he](/f28/language/he) | 228 | 667 | 34.2 | /mnt/stockage/packages/f28/kf5-sonnet/po/he/sonnet5_qt.po | 
+ | [en_US](/f28/language/en_US) | 663 | 2001 | 33.1 | /mnt/stockage/packages/f28/kf5-sonnet/po/bn/sonnet5_qt.po/mnt/stockage/packages/f28/kf5-sonnet/po/cs/sonnet5_qt.po/mnt/stockage/packages/f28/kf5-sonnet/po/vi/sonnet5_qt.po | 
+ | [mr](/f28/language/mr) | 219 | 667 | 32.8 | /mnt/stockage/packages/f28/kf5-sonnet/po/mr/sonnet5_qt.po | 
+ | [af](/f28/language/af) | 0 | 667 | 0.0 | /mnt/stockage/packages/f28/kf5-sonnet/po/af/sonnet5_qt.po | 
+ | [as](/f28/language/as) | 0 | 667 | 0.0 | /mnt/stockage/packages/f28/kf5-sonnet/po/as/sonnet5_qt.po | 
+ | [be](/f28/language/be) | 0 | 667 | 0.0 | /mnt/stockage/packages/f28/kf5-sonnet/po/be/sonnet5_qt.po | 
+ | [be_Latn](/f28/language/be_Latn) | 0 | 667 | 0.0 | /mnt/stockage/packages/f28/kf5-sonnet/po/be@latin/sonnet5_qt.po | 
+ | [bg](/f28/language/bg) | 0 | 667 | 0.0 | /mnt/stockage/packages/f28/kf5-sonnet/po/bg/sonnet5_qt.po | 
+ | [bn_IN](/f28/language/bn_IN) | 0 | 667 | 0.0 | /mnt/stockage/packages/f28/kf5-sonnet/po/bn_IN/sonnet5_qt.po | 
+ | [br](/f28/language/br) | 0 | 667 | 0.0 | /mnt/stockage/packages/f28/kf5-sonnet/po/br/sonnet5_qt.po | 
+ | [crh](/f28/language/crh) | 0 | 667 | 0.0 | /mnt/stockage/packages/f28/kf5-sonnet/po/crh/sonnet5_qt.po | 
+ | [csb](/f28/language/csb) | 0 | 667 | 0.0 | /mnt/stockage/packages/f28/kf5-sonnet/po/csb/sonnet5_qt.po | 
+ | [cy](/f28/language/cy) | 0 | 667 | 0.0 | /mnt/stockage/packages/f28/kf5-sonnet/po/cy/sonnet5_qt.po | 
+ | [fa](/f28/language/fa) | 0 | 667 | 0.0 | /mnt/stockage/packages/f28/kf5-sonnet/po/fa/sonnet5_qt.po | 
+ | [fy](/f28/language/fy) | 0 | 667 | 0.0 | /mnt/stockage/packages/f28/kf5-sonnet/po/fy/sonnet5_qt.po | 
+ | [ga](/f28/language/ga) | 0 | 667 | 0.0 | /mnt/stockage/packages/f28/kf5-sonnet/po/ga/sonnet5_qt.po | 
+ | [gu](/f28/language/gu) | 0 | 667 | 0.0 | /mnt/stockage/packages/f28/kf5-sonnet/po/gu/sonnet5_qt.po | 
+ | [ha](/f28/language/ha) | 0 | 667 | 0.0 | /mnt/stockage/packages/f28/kf5-sonnet/po/ha/sonnet5_qt.po | 
+ | [hi](/f28/language/hi) | 0 | 2001 | 0.0 | /mnt/stockage/packages/f28/kf5-sonnet/po/hne/sonnet5_qt.po/mnt/stockage/packages/f28/kf5-sonnet/po/hi/sonnet5_qt.po/mnt/stockage/packages/f28/kf5-sonnet/po/mai/sonnet5_qt.po | 
+ | [hr](/f28/language/hr) | 0 | 667 | 0.0 | /mnt/stockage/packages/f28/kf5-sonnet/po/hr/sonnet5_qt.po | 
+ | [hsb](/f28/language/hsb) | 0 | 667 | 0.0 | /mnt/stockage/packages/f28/kf5-sonnet/po/hsb/sonnet5_qt.po | 
+ | [hy](/f28/language/hy) | 0 | 667 | 0.0 | /mnt/stockage/packages/f28/kf5-sonnet/po/hy/sonnet5_qt.po | 
+ | [is](/f28/language/is) | 0 | 667 | 0.0 | /mnt/stockage/packages/f28/kf5-sonnet/po/is/sonnet5_qt.po | 
+ | [ja](/f28/language/ja) | 0 | 667 | 0.0 | /mnt/stockage/packages/f28/kf5-sonnet/po/ja/sonnet5_qt.po | 
+ | [ka](/f28/language/ka) | 0 | 667 | 0.0 | /mnt/stockage/packages/f28/kf5-sonnet/po/ka/sonnet5_qt.po | 
+ | [kk](/f28/language/kk) | 0 | 667 | 0.0 | /mnt/stockage/packages/f28/kf5-sonnet/po/kk/sonnet5_qt.po | 
+ | [km](/f28/language/km) | 0 | 667 | 0.0 | /mnt/stockage/packages/f28/kf5-sonnet/po/km/sonnet5_qt.po | 
+ | [kn](/f28/language/kn) | 0 | 667 | 0.0 | /mnt/stockage/packages/f28/kf5-sonnet/po/kn/sonnet5_qt.po | 
+ | [ku](/f28/language/ku) | 0 | 667 | 0.0 | /mnt/stockage/packages/f28/kf5-sonnet/po/ku/sonnet5_qt.po | 
+ | [lb](/f28/language/lb) | 0 | 667 | 0.0 | /mnt/stockage/packages/f28/kf5-sonnet/po/lb/sonnet5_qt.po | 
+ | [lv](/f28/language/lv) | 0 | 667 | 0.0 | /mnt/stockage/packages/f28/kf5-sonnet/po/lv/sonnet5_qt.po | 
+ | [mk](/f28/language/mk) | 0 | 667 | 0.0 | /mnt/stockage/packages/f28/kf5-sonnet/po/mk/sonnet5_qt.po | 
+ | [ml](/f28/language/ml) | 0 | 667 | 0.0 | /mnt/stockage/packages/f28/kf5-sonnet/po/ml/sonnet5_qt.po | 
+ | [ms](/f28/language/ms) | 0 | 667 | 0.0 | /mnt/stockage/packages/f28/kf5-sonnet/po/ms/sonnet5_qt.po | 
+ | [ne](/f28/language/ne) | 0 | 667 | 0.0 | /mnt/stockage/packages/f28/kf5-sonnet/po/ne/sonnet5_qt.po | 
+ | [oc](/f28/language/oc) | 0 | 667 | 0.0 | /mnt/stockage/packages/f28/kf5-sonnet/po/oc/sonnet5_qt.po | 
+ | [or](/f28/language/or) | 0 | 667 | 0.0 | /mnt/stockage/packages/f28/kf5-sonnet/po/or/sonnet5_qt.po | 
+ | [ps](/f28/language/ps) | 0 | 667 | 0.0 | /mnt/stockage/packages/f28/kf5-sonnet/po/ps/sonnet5_qt.po | 
+ | [ro](/f28/language/ro) | 0 | 667 | 0.0 | /mnt/stockage/packages/f28/kf5-sonnet/po/ro/sonnet5_qt.po | 
+ | [se](/f28/language/se) | 0 | 667 | 0.0 | /mnt/stockage/packages/f28/kf5-sonnet/po/se/sonnet5_qt.po | 
+ | [si](/f28/language/si) | 0 | 667 | 0.0 | /mnt/stockage/packages/f28/kf5-sonnet/po/si/sonnet5_qt.po | 
+ | [sq](/f28/language/sq) | 0 | 667 | 0.0 | /mnt/stockage/packages/f28/kf5-sonnet/po/sq/sonnet5_qt.po | 
+ | [ta](/f28/language/ta) | 0 | 667 | 0.0 | /mnt/stockage/packages/f28/kf5-sonnet/po/ta/sonnet5_qt.po | 
+ | [te](/f28/language/te) | 0 | 667 | 0.0 | /mnt/stockage/packages/f28/kf5-sonnet/po/te/sonnet5_qt.po | 
+ | [tg](/f28/language/tg) | 0 | 667 | 0.0 | /mnt/stockage/packages/f28/kf5-sonnet/po/tg/sonnet5_qt.po | 
+ | [th](/f28/language/th) | 0 | 667 | 0.0 | /mnt/stockage/packages/f28/kf5-sonnet/po/th/sonnet5_qt.po | 
+ | [tt](/f28/language/tt) | 0 | 667 | 0.0 | /mnt/stockage/packages/f28/kf5-sonnet/po/tt/sonnet5_qt.po | 
+ | [ug](/f28/language/ug) | 0 | 667 | 0.0 | /mnt/stockage/packages/f28/kf5-sonnet/po/ug/sonnet5_qt.po | 
+ | [uz](/f28/language/uz) | 0 | 1334 | 0.0 | /mnt/stockage/packages/f28/kf5-sonnet/po/uz@cyrillic/sonnet5_qt.po/mnt/stockage/packages/f28/kf5-sonnet/po/uz/sonnet5_qt.po | 
+ | [wa](/f28/language/wa) | 0 | 667 | 0.0 | /mnt/stockage/packages/f28/kf5-sonnet/po/wa/sonnet5_qt.po | 
+ | [xh](/f28/language/xh) | 0 | 667 | 0.0 | /mnt/stockage/packages/f28/kf5-sonnet/po/xh/sonnet5_qt.po | 
+ | [zh_Hant_HK](/f28/language/zh_Hant_HK) | 0 | 667 | 0.0 | /mnt/stockage/packages/f28/kf5-sonnet/po/zh_HK/sonnet5_qt.po | 
 {.sortable}
 
 

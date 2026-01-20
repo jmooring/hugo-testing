@@ -18,75 +18,75 @@ The package caribou (version 0.4.21):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [an]({{< ref "/f31/language/an.md" >}}) | 169 | 169 | 100.0 | /mnt/stockage/packages/f31/caribou/po/an.po | 
- | [ar]({{< ref "/f31/language/ar.md" >}}) | 169 | 169 | 100.0 | /mnt/stockage/packages/f31/caribou/po/ar.po | 
- | [as]({{< ref "/f31/language/as.md" >}}) | 171 | 171 | 100.0 | /mnt/stockage/packages/f31/caribou/po/as.po | 
- | [ast]({{< ref "/f31/language/ast.md" >}}) | 200 | 200 | 100.0 | /mnt/stockage/packages/f31/caribou/po/ast.po | 
- | [be]({{< ref "/f31/language/be.md" >}}) | 171 | 171 | 100.0 | /mnt/stockage/packages/f31/caribou/po/be.po | 
- | [bg]({{< ref "/f31/language/bg.md" >}}) | 169 | 169 | 100.0 | /mnt/stockage/packages/f31/caribou/po/bg.po | 
- | [bn_IN]({{< ref "/f31/language/bn_IN.md" >}}) | 171 | 171 | 100.0 | /mnt/stockage/packages/f31/caribou/po/bn_IN.po | 
- | [bs]({{< ref "/f31/language/bs.md" >}}) | 169 | 169 | 100.0 | /mnt/stockage/packages/f31/caribou/po/bs.po | 
- | [ca]({{< ref "/f31/language/ca.md" >}}) | 169 | 169 | 100.0 | /mnt/stockage/packages/f31/caribou/po/ca.po | 
- | [ca@valencia]({{< ref "/f31/language/ca@valencia.md" >}}) | 171 | 171 | 100.0 | /mnt/stockage/packages/f31/caribou/po/ca@valencia.po | 
- | [cs]({{< ref "/f31/language/cs.md" >}}) | 169 | 169 | 100.0 | /mnt/stockage/packages/f31/caribou/po/cs.po | 
- | [da]({{< ref "/f31/language/da.md" >}}) | 169 | 169 | 100.0 | /mnt/stockage/packages/f31/caribou/po/da.po | 
- | [de]({{< ref "/f31/language/de.md" >}}) | 169 | 169 | 100.0 | /mnt/stockage/packages/f31/caribou/po/de.po | 
- | [el]({{< ref "/f31/language/el.md" >}}) | 169 | 169 | 100.0 | /mnt/stockage/packages/f31/caribou/po/el.po | 
- | [en_GB]({{< ref "/f31/language/en_GB.md" >}}) | 200 | 200 | 100.0 | /mnt/stockage/packages/f31/caribou/po/en_GB.po | 
- | [es]({{< ref "/f31/language/es.md" >}}) | 169 | 169 | 100.0 | /mnt/stockage/packages/f31/caribou/po/es.po | 
- | [et]({{< ref "/f31/language/et.md" >}}) | 169 | 169 | 100.0 | /mnt/stockage/packages/f31/caribou/po/et.po | 
- | [eu]({{< ref "/f31/language/eu.md" >}}) | 169 | 169 | 100.0 | /mnt/stockage/packages/f31/caribou/po/eu.po | 
- | [fa]({{< ref "/f31/language/fa.md" >}}) | 169 | 169 | 100.0 | /mnt/stockage/packages/f31/caribou/po/fa.po | 
- | [fr]({{< ref "/f31/language/fr.md" >}}) | 169 | 169 | 100.0 | /mnt/stockage/packages/f31/caribou/po/fr.po | 
- | [fur]({{< ref "/f31/language/fur.md" >}}) | 169 | 169 | 100.0 | /mnt/stockage/packages/f31/caribou/po/fur.po | 
- | [gl]({{< ref "/f31/language/gl.md" >}}) | 169 | 169 | 100.0 | /mnt/stockage/packages/f31/caribou/po/gl.po | 
- | [gu]({{< ref "/f31/language/gu.md" >}}) | 169 | 169 | 100.0 | /mnt/stockage/packages/f31/caribou/po/gu.po | 
- | [he]({{< ref "/f31/language/he.md" >}}) | 171 | 171 | 100.0 | /mnt/stockage/packages/f31/caribou/po/he.po | 
- | [hi]({{< ref "/f31/language/hi.md" >}}) | 171 | 171 | 100.0 | /mnt/stockage/packages/f31/caribou/po/hi.po | 
- | [hu]({{< ref "/f31/language/hu.md" >}}) | 169 | 169 | 100.0 | /mnt/stockage/packages/f31/caribou/po/hu.po | 
- | [id]({{< ref "/f31/language/id.md" >}}) | 169 | 169 | 100.0 | /mnt/stockage/packages/f31/caribou/po/id.po | 
- | [it]({{< ref "/f31/language/it.md" >}}) | 169 | 169 | 100.0 | /mnt/stockage/packages/f31/caribou/po/it.po | 
- | [ja]({{< ref "/f31/language/ja.md" >}}) | 171 | 171 | 100.0 | /mnt/stockage/packages/f31/caribou/po/ja.po | 
- | [kk]({{< ref "/f31/language/kk.md" >}}) | 169 | 169 | 100.0 | /mnt/stockage/packages/f31/caribou/po/kk.po | 
- | [km]({{< ref "/f31/language/km.md" >}}) | 200 | 200 | 100.0 | /mnt/stockage/packages/f31/caribou/po/km.po | 
- | [kn]({{< ref "/f31/language/kn.md" >}}) | 171 | 171 | 100.0 | /mnt/stockage/packages/f31/caribou/po/kn.po | 
- | [ko]({{< ref "/f31/language/ko.md" >}}) | 169 | 169 | 100.0 | /mnt/stockage/packages/f31/caribou/po/ko.po | 
- | [lt]({{< ref "/f31/language/lt.md" >}}) | 169 | 169 | 100.0 | /mnt/stockage/packages/f31/caribou/po/lt.po | 
- | [lv]({{< ref "/f31/language/lv.md" >}}) | 169 | 169 | 100.0 | /mnt/stockage/packages/f31/caribou/po/lv.po | 
- | [mk]({{< ref "/f31/language/mk.md" >}}) | 200 | 200 | 100.0 | /mnt/stockage/packages/f31/caribou/po/mk.po | 
- | [ml]({{< ref "/f31/language/ml.md" >}}) | 171 | 171 | 100.0 | /mnt/stockage/packages/f31/caribou/po/ml.po | 
- | [mr]({{< ref "/f31/language/mr.md" >}}) | 171 | 171 | 100.0 | /mnt/stockage/packages/f31/caribou/po/mr.po | 
- | [ms]({{< ref "/f31/language/ms.md" >}}) | 23 | 23 | 100.0 | /mnt/stockage/packages/f31/caribou/po/ms.po | 
- | [nb_NO]({{< ref "/f31/language/nb_NO.md" >}}) | 169 | 169 | 100.0 | /mnt/stockage/packages/f31/caribou/po/nb.po | 
- | [nl]({{< ref "/f31/language/nl.md" >}}) | 169 | 169 | 100.0 | /mnt/stockage/packages/f31/caribou/po/nl.po | 
- | [nn]({{< ref "/f31/language/nn.md" >}}) | 16 | 16 | 100.0 | /mnt/stockage/packages/f31/caribou/po/nn.po | 
- | [oc]({{< ref "/f31/language/oc.md" >}}) | 169 | 169 | 100.0 | /mnt/stockage/packages/f31/caribou/po/oc.po | 
- | [or]({{< ref "/f31/language/or.md" >}}) | 171 | 171 | 100.0 | /mnt/stockage/packages/f31/caribou/po/or.po | 
- | [pa]({{< ref "/f31/language/pa.md" >}}) | 171 | 171 | 100.0 | /mnt/stockage/packages/f31/caribou/po/pa.po | 
- | [pl]({{< ref "/f31/language/pl.md" >}}) | 169 | 169 | 100.0 | /mnt/stockage/packages/f31/caribou/po/pl.po | 
- | [pt]({{< ref "/f31/language/pt.md" >}}) | 169 | 169 | 100.0 | /mnt/stockage/packages/f31/caribou/po/pt.po | 
- | [pt_BR]({{< ref "/f31/language/pt_BR.md" >}}) | 169 | 169 | 100.0 | /mnt/stockage/packages/f31/caribou/po/pt_BR.po | 
- | [ro]({{< ref "/f31/language/ro.md" >}}) | 169 | 169 | 100.0 | /mnt/stockage/packages/f31/caribou/po/ro.po | 
- | [ru]({{< ref "/f31/language/ru.md" >}}) | 169 | 169 | 100.0 | /mnt/stockage/packages/f31/caribou/po/ru.po | 
- | [sk]({{< ref "/f31/language/sk.md" >}}) | 169 | 169 | 100.0 | /mnt/stockage/packages/f31/caribou/po/sk.po | 
- | [sl]({{< ref "/f31/language/sl.md" >}}) | 169 | 169 | 100.0 | /mnt/stockage/packages/f31/caribou/po/sl.po | 
- | [sr]({{< ref "/f31/language/sr.md" >}}) | 169 | 169 | 100.0 | /mnt/stockage/packages/f31/caribou/po/sr.po | 
- | [sr_Latn]({{< ref "/f31/language/sr_Latn.md" >}}) | 169 | 169 | 100.0 | /mnt/stockage/packages/f31/caribou/po/sr@latin.po | 
- | [sv]({{< ref "/f31/language/sv.md" >}}) | 169 | 169 | 100.0 | /mnt/stockage/packages/f31/caribou/po/sv.po | 
- | [ta]({{< ref "/f31/language/ta.md" >}}) | 171 | 171 | 100.0 | /mnt/stockage/packages/f31/caribou/po/ta.po | 
- | [te]({{< ref "/f31/language/te.md" >}}) | 171 | 171 | 100.0 | /mnt/stockage/packages/f31/caribou/po/te.po | 
- | [tg]({{< ref "/f31/language/tg.md" >}}) | 169 | 169 | 100.0 | /mnt/stockage/packages/f31/caribou/po/tg.po | 
- | [tr]({{< ref "/f31/language/tr.md" >}}) | 169 | 169 | 100.0 | /mnt/stockage/packages/f31/caribou/po/tr.po | 
- | [ug]({{< ref "/f31/language/ug.md" >}}) | 200 | 200 | 100.0 | /mnt/stockage/packages/f31/caribou/po/ug.po | 
- | [uk]({{< ref "/f31/language/uk.md" >}}) | 169 | 169 | 100.0 | /mnt/stockage/packages/f31/caribou/po/uk.po | 
- | [vi]({{< ref "/f31/language/vi.md" >}}) | 169 | 169 | 100.0 | /mnt/stockage/packages/f31/caribou/po/vi.po | 
- | [zh_Hans]({{< ref "/f31/language/zh_Hans.md" >}}) | 169 | 169 | 100.0 | /mnt/stockage/packages/f31/caribou/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f31/language/zh_Hant.md" >}}) | 169 | 169 | 100.0 | /mnt/stockage/packages/f31/caribou/po/zh_TW.po | 
- | [zh_Hant_HK]({{< ref "/f31/language/zh_Hant_HK.md" >}}) | 171 | 171 | 100.0 | /mnt/stockage/packages/f31/caribou/po/zh_HK.po | 
- | [eo]({{< ref "/f31/language/eo.md" >}}) | 149 | 169 | 88.2 | /mnt/stockage/packages/f31/caribou/po/eo.po | 
- | [si]({{< ref "/f31/language/si.md" >}}) | 123 | 200 | 61.5 | /mnt/stockage/packages/f31/caribou/po/si.po | 
- | [fi]({{< ref "/f31/language/fi.md" >}}) | 105 | 200 | 52.5 | /mnt/stockage/packages/f31/caribou/po/fi.po | 
- | [ne]({{< ref "/f31/language/ne.md" >}}) | 35 | 171 | 20.5 | /mnt/stockage/packages/f31/caribou/po/ne.po | 
+ | [an](/f31/language/an) | 169 | 169 | 100.0 | /mnt/stockage/packages/f31/caribou/po/an.po | 
+ | [ar](/f31/language/ar) | 169 | 169 | 100.0 | /mnt/stockage/packages/f31/caribou/po/ar.po | 
+ | [as](/f31/language/as) | 171 | 171 | 100.0 | /mnt/stockage/packages/f31/caribou/po/as.po | 
+ | [ast](/f31/language/ast) | 200 | 200 | 100.0 | /mnt/stockage/packages/f31/caribou/po/ast.po | 
+ | [be](/f31/language/be) | 171 | 171 | 100.0 | /mnt/stockage/packages/f31/caribou/po/be.po | 
+ | [bg](/f31/language/bg) | 169 | 169 | 100.0 | /mnt/stockage/packages/f31/caribou/po/bg.po | 
+ | [bn_IN](/f31/language/bn_IN) | 171 | 171 | 100.0 | /mnt/stockage/packages/f31/caribou/po/bn_IN.po | 
+ | [bs](/f31/language/bs) | 169 | 169 | 100.0 | /mnt/stockage/packages/f31/caribou/po/bs.po | 
+ | [ca](/f31/language/ca) | 169 | 169 | 100.0 | /mnt/stockage/packages/f31/caribou/po/ca.po | 
+ | [ca@valencia](/f31/language/ca@valencia) | 171 | 171 | 100.0 | /mnt/stockage/packages/f31/caribou/po/ca@valencia.po | 
+ | [cs](/f31/language/cs) | 169 | 169 | 100.0 | /mnt/stockage/packages/f31/caribou/po/cs.po | 
+ | [da](/f31/language/da) | 169 | 169 | 100.0 | /mnt/stockage/packages/f31/caribou/po/da.po | 
+ | [de](/f31/language/de) | 169 | 169 | 100.0 | /mnt/stockage/packages/f31/caribou/po/de.po | 
+ | [el](/f31/language/el) | 169 | 169 | 100.0 | /mnt/stockage/packages/f31/caribou/po/el.po | 
+ | [en_GB](/f31/language/en_GB) | 200 | 200 | 100.0 | /mnt/stockage/packages/f31/caribou/po/en_GB.po | 
+ | [es](/f31/language/es) | 169 | 169 | 100.0 | /mnt/stockage/packages/f31/caribou/po/es.po | 
+ | [et](/f31/language/et) | 169 | 169 | 100.0 | /mnt/stockage/packages/f31/caribou/po/et.po | 
+ | [eu](/f31/language/eu) | 169 | 169 | 100.0 | /mnt/stockage/packages/f31/caribou/po/eu.po | 
+ | [fa](/f31/language/fa) | 169 | 169 | 100.0 | /mnt/stockage/packages/f31/caribou/po/fa.po | 
+ | [fr](/f31/language/fr) | 169 | 169 | 100.0 | /mnt/stockage/packages/f31/caribou/po/fr.po | 
+ | [fur](/f31/language/fur) | 169 | 169 | 100.0 | /mnt/stockage/packages/f31/caribou/po/fur.po | 
+ | [gl](/f31/language/gl) | 169 | 169 | 100.0 | /mnt/stockage/packages/f31/caribou/po/gl.po | 
+ | [gu](/f31/language/gu) | 169 | 169 | 100.0 | /mnt/stockage/packages/f31/caribou/po/gu.po | 
+ | [he](/f31/language/he) | 171 | 171 | 100.0 | /mnt/stockage/packages/f31/caribou/po/he.po | 
+ | [hi](/f31/language/hi) | 171 | 171 | 100.0 | /mnt/stockage/packages/f31/caribou/po/hi.po | 
+ | [hu](/f31/language/hu) | 169 | 169 | 100.0 | /mnt/stockage/packages/f31/caribou/po/hu.po | 
+ | [id](/f31/language/id) | 169 | 169 | 100.0 | /mnt/stockage/packages/f31/caribou/po/id.po | 
+ | [it](/f31/language/it) | 169 | 169 | 100.0 | /mnt/stockage/packages/f31/caribou/po/it.po | 
+ | [ja](/f31/language/ja) | 171 | 171 | 100.0 | /mnt/stockage/packages/f31/caribou/po/ja.po | 
+ | [kk](/f31/language/kk) | 169 | 169 | 100.0 | /mnt/stockage/packages/f31/caribou/po/kk.po | 
+ | [km](/f31/language/km) | 200 | 200 | 100.0 | /mnt/stockage/packages/f31/caribou/po/km.po | 
+ | [kn](/f31/language/kn) | 171 | 171 | 100.0 | /mnt/stockage/packages/f31/caribou/po/kn.po | 
+ | [ko](/f31/language/ko) | 169 | 169 | 100.0 | /mnt/stockage/packages/f31/caribou/po/ko.po | 
+ | [lt](/f31/language/lt) | 169 | 169 | 100.0 | /mnt/stockage/packages/f31/caribou/po/lt.po | 
+ | [lv](/f31/language/lv) | 169 | 169 | 100.0 | /mnt/stockage/packages/f31/caribou/po/lv.po | 
+ | [mk](/f31/language/mk) | 200 | 200 | 100.0 | /mnt/stockage/packages/f31/caribou/po/mk.po | 
+ | [ml](/f31/language/ml) | 171 | 171 | 100.0 | /mnt/stockage/packages/f31/caribou/po/ml.po | 
+ | [mr](/f31/language/mr) | 171 | 171 | 100.0 | /mnt/stockage/packages/f31/caribou/po/mr.po | 
+ | [ms](/f31/language/ms) | 23 | 23 | 100.0 | /mnt/stockage/packages/f31/caribou/po/ms.po | 
+ | [nb_NO](/f31/language/nb_NO) | 169 | 169 | 100.0 | /mnt/stockage/packages/f31/caribou/po/nb.po | 
+ | [nl](/f31/language/nl) | 169 | 169 | 100.0 | /mnt/stockage/packages/f31/caribou/po/nl.po | 
+ | [nn](/f31/language/nn) | 16 | 16 | 100.0 | /mnt/stockage/packages/f31/caribou/po/nn.po | 
+ | [oc](/f31/language/oc) | 169 | 169 | 100.0 | /mnt/stockage/packages/f31/caribou/po/oc.po | 
+ | [or](/f31/language/or) | 171 | 171 | 100.0 | /mnt/stockage/packages/f31/caribou/po/or.po | 
+ | [pa](/f31/language/pa) | 171 | 171 | 100.0 | /mnt/stockage/packages/f31/caribou/po/pa.po | 
+ | [pl](/f31/language/pl) | 169 | 169 | 100.0 | /mnt/stockage/packages/f31/caribou/po/pl.po | 
+ | [pt](/f31/language/pt) | 169 | 169 | 100.0 | /mnt/stockage/packages/f31/caribou/po/pt.po | 
+ | [pt_BR](/f31/language/pt_BR) | 169 | 169 | 100.0 | /mnt/stockage/packages/f31/caribou/po/pt_BR.po | 
+ | [ro](/f31/language/ro) | 169 | 169 | 100.0 | /mnt/stockage/packages/f31/caribou/po/ro.po | 
+ | [ru](/f31/language/ru) | 169 | 169 | 100.0 | /mnt/stockage/packages/f31/caribou/po/ru.po | 
+ | [sk](/f31/language/sk) | 169 | 169 | 100.0 | /mnt/stockage/packages/f31/caribou/po/sk.po | 
+ | [sl](/f31/language/sl) | 169 | 169 | 100.0 | /mnt/stockage/packages/f31/caribou/po/sl.po | 
+ | [sr](/f31/language/sr) | 169 | 169 | 100.0 | /mnt/stockage/packages/f31/caribou/po/sr.po | 
+ | [sr_Latn](/f31/language/sr_Latn) | 169 | 169 | 100.0 | /mnt/stockage/packages/f31/caribou/po/sr@latin.po | 
+ | [sv](/f31/language/sv) | 169 | 169 | 100.0 | /mnt/stockage/packages/f31/caribou/po/sv.po | 
+ | [ta](/f31/language/ta) | 171 | 171 | 100.0 | /mnt/stockage/packages/f31/caribou/po/ta.po | 
+ | [te](/f31/language/te) | 171 | 171 | 100.0 | /mnt/stockage/packages/f31/caribou/po/te.po | 
+ | [tg](/f31/language/tg) | 169 | 169 | 100.0 | /mnt/stockage/packages/f31/caribou/po/tg.po | 
+ | [tr](/f31/language/tr) | 169 | 169 | 100.0 | /mnt/stockage/packages/f31/caribou/po/tr.po | 
+ | [ug](/f31/language/ug) | 200 | 200 | 100.0 | /mnt/stockage/packages/f31/caribou/po/ug.po | 
+ | [uk](/f31/language/uk) | 169 | 169 | 100.0 | /mnt/stockage/packages/f31/caribou/po/uk.po | 
+ | [vi](/f31/language/vi) | 169 | 169 | 100.0 | /mnt/stockage/packages/f31/caribou/po/vi.po | 
+ | [zh_Hans](/f31/language/zh_Hans) | 169 | 169 | 100.0 | /mnt/stockage/packages/f31/caribou/po/zh_CN.po | 
+ | [zh_Hant](/f31/language/zh_Hant) | 169 | 169 | 100.0 | /mnt/stockage/packages/f31/caribou/po/zh_TW.po | 
+ | [zh_Hant_HK](/f31/language/zh_Hant_HK) | 171 | 171 | 100.0 | /mnt/stockage/packages/f31/caribou/po/zh_HK.po | 
+ | [eo](/f31/language/eo) | 149 | 169 | 88.2 | /mnt/stockage/packages/f31/caribou/po/eo.po | 
+ | [si](/f31/language/si) | 123 | 200 | 61.5 | /mnt/stockage/packages/f31/caribou/po/si.po | 
+ | [fi](/f31/language/fi) | 105 | 200 | 52.5 | /mnt/stockage/packages/f31/caribou/po/fi.po | 
+ | [ne](/f31/language/ne) | 35 | 171 | 20.5 | /mnt/stockage/packages/f31/caribou/po/ne.po | 
 {.sortable}
 
 

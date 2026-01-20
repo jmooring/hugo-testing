@@ -18,26 +18,26 @@ The package trader (version 7.20):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [da]({{< ref "/f39/language/da.md" >}}) | 2039 | 2039 | 100.0 | /mnt/stockage/packages/f39/trader/po/da.po | 
- | [de]({{< ref "/f39/language/de.md" >}}) | 2039 | 2039 | 100.0 | /mnt/stockage/packages/f39/trader/po/de.po | 
- | [en_AU]({{< ref "/f39/language/en_AU.md" >}}) | 2039 | 2039 | 100.0 | /mnt/stockage/packages/f39/trader/po/en_AU.po | 
- | [en_CA]({{< ref "/f39/language/en_CA.md" >}}) | 2039 | 2039 | 100.0 | /mnt/stockage/packages/f39/trader/po/en_CA.po | 
- | [en_GB]({{< ref "/f39/language/en_GB.md" >}}) | 2039 | 2039 | 100.0 | /mnt/stockage/packages/f39/trader/po/en_GB.po | 
- | [en_US]({{< ref "/f39/language/en_US.md" >}}) | 2039 | 2039 | 100.0 | /mnt/stockage/packages/f39/trader/po/en_US.po | 
- | [eo]({{< ref "/f39/language/eo.md" >}}) | 2039 | 2039 | 100.0 | /mnt/stockage/packages/f39/trader/po/eo.po | 
- | [error]({{< ref "/f39/language/error.md" >}}) | 2039 | 2039 | 100.0 | /mnt/stockage/packages/f39/trader/po/en@quot.po | 
- | [fr]({{< ref "/f39/language/fr.md" >}}) | 2039 | 2039 | 100.0 | /mnt/stockage/packages/f39/trader/po/fr.po | 
- | [hu]({{< ref "/f39/language/hu.md" >}}) | 2039 | 2039 | 100.0 | /mnt/stockage/packages/f39/trader/po/hu.po | 
- | [nb_NO]({{< ref "/f39/language/nb_NO.md" >}}) | 2039 | 2039 | 100.0 | /mnt/stockage/packages/f39/trader/po/nb.po | 
- | [pl]({{< ref "/f39/language/pl.md" >}}) | 2039 | 2039 | 100.0 | /mnt/stockage/packages/f39/trader/po/pl.po | 
- | [pt_BR]({{< ref "/f39/language/pt_BR.md" >}}) | 2039 | 2039 | 100.0 | /mnt/stockage/packages/f39/trader/po/pt_BR.po | 
- | [ro]({{< ref "/f39/language/ro.md" >}}) | 2039 | 2039 | 100.0 | /mnt/stockage/packages/f39/trader/po/ro.po | 
- | [ru]({{< ref "/f39/language/ru.md" >}}) | 2039 | 2039 | 100.0 | /mnt/stockage/packages/f39/trader/po/ru.po | 
- | [sr]({{< ref "/f39/language/sr.md" >}}) | 2039 | 2039 | 100.0 | /mnt/stockage/packages/f39/trader/po/sr.po | 
- | [sv]({{< ref "/f39/language/sv.md" >}}) | 2039 | 2039 | 100.0 | /mnt/stockage/packages/f39/trader/po/sv.po | 
- | [uk]({{< ref "/f39/language/uk.md" >}}) | 2039 | 2039 | 100.0 | /mnt/stockage/packages/f39/trader/po/uk.po | 
- | [fi]({{< ref "/f39/language/fi.md" >}}) | 2038 | 2039 | 100.0 | /mnt/stockage/packages/f39/trader/po/fi.po | 
- | [hr]({{< ref "/f39/language/hr.md" >}}) | 2038 | 2039 | 100.0 | /mnt/stockage/packages/f39/trader/po/hr.po | 
+ | [da](/f39/language/da) | 2039 | 2039 | 100.0 | /mnt/stockage/packages/f39/trader/po/da.po | 
+ | [de](/f39/language/de) | 2039 | 2039 | 100.0 | /mnt/stockage/packages/f39/trader/po/de.po | 
+ | [en_AU](/f39/language/en_AU) | 2039 | 2039 | 100.0 | /mnt/stockage/packages/f39/trader/po/en_AU.po | 
+ | [en_CA](/f39/language/en_CA) | 2039 | 2039 | 100.0 | /mnt/stockage/packages/f39/trader/po/en_CA.po | 
+ | [en_GB](/f39/language/en_GB) | 2039 | 2039 | 100.0 | /mnt/stockage/packages/f39/trader/po/en_GB.po | 
+ | [en_US](/f39/language/en_US) | 2039 | 2039 | 100.0 | /mnt/stockage/packages/f39/trader/po/en_US.po | 
+ | [eo](/f39/language/eo) | 2039 | 2039 | 100.0 | /mnt/stockage/packages/f39/trader/po/eo.po | 
+ | [error](/f39/language/error) | 2039 | 2039 | 100.0 | /mnt/stockage/packages/f39/trader/po/en@quot.po | 
+ | [fr](/f39/language/fr) | 2039 | 2039 | 100.0 | /mnt/stockage/packages/f39/trader/po/fr.po | 
+ | [hu](/f39/language/hu) | 2039 | 2039 | 100.0 | /mnt/stockage/packages/f39/trader/po/hu.po | 
+ | [nb_NO](/f39/language/nb_NO) | 2039 | 2039 | 100.0 | /mnt/stockage/packages/f39/trader/po/nb.po | 
+ | [pl](/f39/language/pl) | 2039 | 2039 | 100.0 | /mnt/stockage/packages/f39/trader/po/pl.po | 
+ | [pt_BR](/f39/language/pt_BR) | 2039 | 2039 | 100.0 | /mnt/stockage/packages/f39/trader/po/pt_BR.po | 
+ | [ro](/f39/language/ro) | 2039 | 2039 | 100.0 | /mnt/stockage/packages/f39/trader/po/ro.po | 
+ | [ru](/f39/language/ru) | 2039 | 2039 | 100.0 | /mnt/stockage/packages/f39/trader/po/ru.po | 
+ | [sr](/f39/language/sr) | 2039 | 2039 | 100.0 | /mnt/stockage/packages/f39/trader/po/sr.po | 
+ | [sv](/f39/language/sv) | 2039 | 2039 | 100.0 | /mnt/stockage/packages/f39/trader/po/sv.po | 
+ | [uk](/f39/language/uk) | 2039 | 2039 | 100.0 | /mnt/stockage/packages/f39/trader/po/uk.po | 
+ | [fi](/f39/language/fi) | 2038 | 2039 | 100.0 | /mnt/stockage/packages/f39/trader/po/fi.po | 
+ | [hr](/f39/language/hr) | 2038 | 2039 | 100.0 | /mnt/stockage/packages/f39/trader/po/hr.po | 
 {.sortable}
 
 

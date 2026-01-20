@@ -18,7 +18,7 @@ The package PolicyKit-gnome (version 0.6):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [da]({{< ref "/f8/language/da.md" >}}) | 300 | 300 | 100.0 | /mnt/stockage/packages/f8/PolicyKit-gnome/po/da.po | 
+ | [da](/f8/language/da) | 300 | 300 | 100.0 | /mnt/stockage/packages/f8/PolicyKit-gnome/po/da.po | 
 {.sortable}
 
 

@@ -18,87 +18,87 @@ The package sugar-paint (version 70):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ach]({{< ref "/f33/language/ach.md" >}}) | 106 | 106 | 100.0 | /mnt/stockage/packages/f33/sugar-paint/po/ach.po | 
- | [am]({{< ref "/f33/language/am.md" >}}) | 106 | 106 | 100.0 | /mnt/stockage/packages/f33/sugar-paint/po/am.po | 
- | [ar]({{< ref "/f33/language/ar.md" >}}) | 106 | 106 | 100.0 | /mnt/stockage/packages/f33/sugar-paint/po/ar.po | 
- | [ayc]({{< ref "/f33/language/ayc.md" >}}) | 106 | 106 | 100.0 | /mnt/stockage/packages/f33/sugar-paint/po/ayc.po | 
- | [ca]({{< ref "/f33/language/ca.md" >}}) | 106 | 106 | 100.0 | /mnt/stockage/packages/f33/sugar-paint/po/ca.po | 
- | [da]({{< ref "/f33/language/da.md" >}}) | 106 | 106 | 100.0 | /mnt/stockage/packages/f33/sugar-paint/po/da.po | 
- | [de]({{< ref "/f33/language/de.md" >}}) | 106 | 106 | 100.0 | /mnt/stockage/packages/f33/sugar-paint/po/de.po | 
- | [en]({{< ref "/f33/language/en.md" >}}) | 106 | 106 | 100.0 | /mnt/stockage/packages/f33/sugar-paint/po/en.po | 
- | [en_GB]({{< ref "/f33/language/en_GB.md" >}}) | 106 | 106 | 100.0 | /mnt/stockage/packages/f33/sugar-paint/po/en_GB.po | 
- | [en_US]({{< ref "/f33/language/en_US.md" >}}) | 96 | 96 | 100.0 | /mnt/stockage/packages/f33/sugar-paint/po/en_US.po | 
- | [es]({{< ref "/f33/language/es.md" >}}) | 106 | 106 | 100.0 | /mnt/stockage/packages/f33/sugar-paint/po/es.po | 
- | [fa]({{< ref "/f33/language/fa.md" >}}) | 106 | 106 | 100.0 | /mnt/stockage/packages/f33/sugar-paint/po/fa.po | 
- | [fr]({{< ref "/f33/language/fr.md" >}}) | 106 | 106 | 100.0 | /mnt/stockage/packages/f33/sugar-paint/po/fr.po | 
- | [fy]({{< ref "/f33/language/fy.md" >}}) | 106 | 106 | 100.0 | /mnt/stockage/packages/f33/sugar-paint/po/fy.po | 
- | [gl]({{< ref "/f33/language/gl.md" >}}) | 106 | 106 | 100.0 | /mnt/stockage/packages/f33/sugar-paint/po/gl.po | 
- | [gug]({{< ref "/f33/language/gug.md" >}}) | 106 | 106 | 100.0 | /mnt/stockage/packages/f33/sugar-paint/po/gug.po | 
- | [he]({{< ref "/f33/language/he.md" >}}) | 106 | 106 | 100.0 | /mnt/stockage/packages/f33/sugar-paint/po/he.po | 
- | [hi]({{< ref "/f33/language/hi.md" >}}) | 106 | 106 | 100.0 | /mnt/stockage/packages/f33/sugar-paint/po/hi.po | 
- | [hr]({{< ref "/f33/language/hr.md" >}}) | 106 | 106 | 100.0 | /mnt/stockage/packages/f33/sugar-paint/po/hr.po | 
- | [hy]({{< ref "/f33/language/hy.md" >}}) | 106 | 106 | 100.0 | /mnt/stockage/packages/f33/sugar-paint/po/hy.po | 
- | [id]({{< ref "/f33/language/id.md" >}}) | 106 | 106 | 100.0 | /mnt/stockage/packages/f33/sugar-paint/po/id.po | 
- | [is]({{< ref "/f33/language/is.md" >}}) | 106 | 106 | 100.0 | /mnt/stockage/packages/f33/sugar-paint/po/is.po | 
- | [it]({{< ref "/f33/language/it.md" >}}) | 106 | 106 | 100.0 | /mnt/stockage/packages/f33/sugar-paint/po/it.po | 
- | [lt]({{< ref "/f33/language/lt.md" >}}) | 106 | 106 | 100.0 | /mnt/stockage/packages/f33/sugar-paint/po/lt.po | 
- | [ne]({{< ref "/f33/language/ne.md" >}}) | 106 | 106 | 100.0 | /mnt/stockage/packages/f33/sugar-paint/po/ne.po | 
- | [nl]({{< ref "/f33/language/nl.md" >}}) | 106 | 106 | 100.0 | /mnt/stockage/packages/f33/sugar-paint/po/nl.po | 
- | [pap]({{< ref "/f33/language/pap.md" >}}) | 106 | 106 | 100.0 | /mnt/stockage/packages/f33/sugar-paint/po/pap.po | 
- | [pl]({{< ref "/f33/language/pl.md" >}}) | 106 | 106 | 100.0 | /mnt/stockage/packages/f33/sugar-paint/po/pl.po | 
- | [pt_BR]({{< ref "/f33/language/pt_BR.md" >}}) | 106 | 106 | 100.0 | /mnt/stockage/packages/f33/sugar-paint/po/pt_BR.po | 
- | [ru]({{< ref "/f33/language/ru.md" >}}) | 106 | 106 | 100.0 | /mnt/stockage/packages/f33/sugar-paint/po/ru.po | 
- | [sk]({{< ref "/f33/language/sk.md" >}}) | 106 | 106 | 100.0 | /mnt/stockage/packages/f33/sugar-paint/po/sk.po | 
- | [sv]({{< ref "/f33/language/sv.md" >}}) | 106 | 106 | 100.0 | /mnt/stockage/packages/f33/sugar-paint/po/sv.po | 
- | [uk]({{< ref "/f33/language/uk.md" >}}) | 106 | 106 | 100.0 | /mnt/stockage/packages/f33/sugar-paint/po/uk.po | 
- | [vi]({{< ref "/f33/language/vi.md" >}}) | 106 | 106 | 100.0 | /mnt/stockage/packages/f33/sugar-paint/po/vi.po | 
- | [yo]({{< ref "/f33/language/yo.md" >}}) | 106 | 106 | 100.0 | /mnt/stockage/packages/f33/sugar-paint/po/yo.po | 
- | [zh_Hans]({{< ref "/f33/language/zh_Hans.md" >}}) | 106 | 106 | 100.0 | /mnt/stockage/packages/f33/sugar-paint/po/zh_CN.po | 
- | [el]({{< ref "/f33/language/el.md" >}}) | 104 | 106 | 98.1 | /mnt/stockage/packages/f33/sugar-paint/po/el.po | 
- | [sq]({{< ref "/f33/language/sq.md" >}}) | 104 | 106 | 98.1 | /mnt/stockage/packages/f33/sugar-paint/po/sq.po | 
- | [hu]({{< ref "/f33/language/hu.md" >}}) | 101 | 106 | 95.3 | /mnt/stockage/packages/f33/sugar-paint/po/hu.po | 
- | [ig]({{< ref "/f33/language/ig.md" >}}) | 101 | 106 | 95.3 | /mnt/stockage/packages/f33/sugar-paint/po/ibo.po | 
- | [error]({{< ref "/f33/language/error.md" >}}) | 163 | 173 | 94.2 | /mnt/stockage/packages/f33/sugar-paint/po/pseudo.po/mnt/stockage/packages/f33/sugar-paint/po/pbs.po | 
- | [pt]({{< ref "/f33/language/pt.md" >}}) | 90 | 106 | 84.9 | /mnt/stockage/packages/f33/sugar-paint/po/pt.po | 
- | [qu]({{< ref "/f33/language/qu.md" >}}) | 90 | 106 | 84.9 | /mnt/stockage/packages/f33/sugar-paint/po/quz.po | 
- | [ay]({{< ref "/f33/language/ay.md" >}}) | 64 | 88 | 72.7 | /mnt/stockage/packages/f33/sugar-paint/po/aym.po | 
- | [mi]({{< ref "/f33/language/mi.md" >}}) | 64 | 106 | 60.4 | /mnt/stockage/packages/f33/sugar-paint/po/mi.po | 
- | [zh_Hant]({{< ref "/f33/language/zh_Hant.md" >}}) | 61 | 106 | 57.5 | /mnt/stockage/packages/f33/sugar-paint/po/zh_TW.po | 
- | [hus]({{< ref "/f33/language/hus.md" >}}) | 60 | 106 | 56.6 | /mnt/stockage/packages/f33/sugar-paint/po/hus.po | 
- | [sr]({{< ref "/f33/language/sr.md" >}}) | 60 | 106 | 56.6 | /mnt/stockage/packages/f33/sugar-paint/po/sr.po | 
- | [ta]({{< ref "/f33/language/ta.md" >}}) | 60 | 106 | 56.6 | /mnt/stockage/packages/f33/sugar-paint/po/ta.po | 
- | [th]({{< ref "/f33/language/th.md" >}}) | 60 | 106 | 56.6 | /mnt/stockage/packages/f33/sugar-paint/po/th.po | 
- | [nah]({{< ref "/f33/language/nah.md" >}}) | 56 | 106 | 52.8 | /mnt/stockage/packages/f33/sugar-paint/po/nah.po | 
- | [te]({{< ref "/f33/language/te.md" >}}) | 53 | 106 | 50.0 | /mnt/stockage/packages/f33/sugar-paint/po/te.po | 
- | [ja]({{< ref "/f33/language/ja.md" >}}) | 52 | 106 | 49.1 | /mnt/stockage/packages/f33/sugar-paint/po/ja.po | 
- | [sw]({{< ref "/f33/language/sw.md" >}}) | 48 | 106 | 45.3 | /mnt/stockage/packages/f33/sugar-paint/po/sw.po | 
- | [prs]({{< ref "/f33/language/prs.md" >}}) | 37 | 90 | 41.1 | /mnt/stockage/packages/f33/sugar-paint/po/fa_AF.po | 
- | [km]({{< ref "/f33/language/km.md" >}}) | 41 | 106 | 38.7 | /mnt/stockage/packages/f33/sugar-paint/po/km.po | 
- | [nb_NO]({{< ref "/f33/language/nb_NO.md" >}}) | 33 | 90 | 36.7 | /mnt/stockage/packages/f33/sugar-paint/po/nb.po | 
- | [rw]({{< ref "/f33/language/rw.md" >}}) | 38 | 106 | 35.8 | /mnt/stockage/packages/f33/sugar-paint/po/rw.po | 
- | [bg]({{< ref "/f33/language/bg.md" >}}) | 37 | 106 | 34.9 | /mnt/stockage/packages/f33/sugar-paint/po/bg.po | 
- | [bn]({{< ref "/f33/language/bn.md" >}}) | 37 | 106 | 34.9 | /mnt/stockage/packages/f33/sugar-paint/po/bn.po | 
- | [ht]({{< ref "/f33/language/ht.md" >}}) | 37 | 106 | 34.9 | /mnt/stockage/packages/f33/sugar-paint/po/ht.po | 
- | [kab]({{< ref "/f33/language/kab.md" >}}) | 37 | 106 | 34.9 | /mnt/stockage/packages/f33/sugar-paint/po/kab.po | 
- | [mk]({{< ref "/f33/language/mk.md" >}}) | 37 | 106 | 34.9 | /mnt/stockage/packages/f33/sugar-paint/po/mk.po | 
- | [mn]({{< ref "/f33/language/mn.md" >}}) | 37 | 106 | 34.9 | /mnt/stockage/packages/f33/sugar-paint/po/mn.po | 
- | [mr]({{< ref "/f33/language/mr.md" >}}) | 37 | 106 | 34.9 | /mnt/stockage/packages/f33/sugar-paint/po/mr.po | 
- | [ps]({{< ref "/f33/language/ps.md" >}}) | 37 | 106 | 34.9 | /mnt/stockage/packages/f33/sugar-paint/po/ps.po | 
- | [ro]({{< ref "/f33/language/ro.md" >}}) | 37 | 106 | 34.9 | /mnt/stockage/packages/f33/sugar-paint/po/ro.po | 
- | [si]({{< ref "/f33/language/si.md" >}}) | 37 | 106 | 34.9 | /mnt/stockage/packages/f33/sugar-paint/po/si.po | 
- | [sl]({{< ref "/f33/language/sl.md" >}}) | 37 | 106 | 34.9 | /mnt/stockage/packages/f33/sugar-paint/po/sl.po | 
- | [tr]({{< ref "/f33/language/tr.md" >}}) | 37 | 106 | 34.9 | /mnt/stockage/packages/f33/sugar-paint/po/tr.po | 
- | [ur]({{< ref "/f33/language/ur.md" >}}) | 37 | 106 | 34.9 | /mnt/stockage/packages/f33/sugar-paint/po/ur.po | 
- | [bn_IN]({{< ref "/f33/language/bn_IN.md" >}}) | 31 | 106 | 29.2 | /mnt/stockage/packages/f33/sugar-paint/po/bn_IN.po | 
- | [af]({{< ref "/f33/language/af.md" >}}) | 26 | 106 | 24.5 | /mnt/stockage/packages/f33/sugar-paint/po/af.po | 
- | [ko]({{< ref "/f33/language/ko.md" >}}) | 42 | 173 | 24.3 | /mnt/stockage/packages/f33/sugar-paint/po/ko_KO.po/mnt/stockage/packages/f33/sugar-paint/po/ko.po | 
- | [mg]({{< ref "/f33/language/mg.md" >}}) | 20 | 106 | 18.9 | /mnt/stockage/packages/f33/sugar-paint/po/mg.po | 
- | [cs]({{< ref "/f33/language/cs.md" >}}) | 12 | 106 | 11.3 | /mnt/stockage/packages/f33/sugar-paint/po/cs.po | 
- | [sm]({{< ref "/f33/language/sm.md" >}}) | 5 | 106 | 4.7 | /mnt/stockage/packages/f33/sugar-paint/po/sm.po | 
- | [tzm]({{< ref "/f33/language/tzm.md" >}}) | 5 | 106 | 4.7 | /mnt/stockage/packages/f33/sugar-paint/po/tzm.po | 
- | [bi]({{< ref "/f33/language/bi.md" >}}) | 1 | 106 | 0.9 | /mnt/stockage/packages/f33/sugar-paint/po/bi.po | 
- | [kos]({{< ref "/f33/language/kos.md" >}}) | 1 | 106 | 0.9 | /mnt/stockage/packages/f33/sugar-paint/po/kos.po | 
- | [ml]({{< ref "/f33/language/ml.md" >}}) | 1 | 106 | 0.9 | /mnt/stockage/packages/f33/sugar-paint/po/ml.po | 
+ | [ach](/f33/language/ach) | 106 | 106 | 100.0 | /mnt/stockage/packages/f33/sugar-paint/po/ach.po | 
+ | [am](/f33/language/am) | 106 | 106 | 100.0 | /mnt/stockage/packages/f33/sugar-paint/po/am.po | 
+ | [ar](/f33/language/ar) | 106 | 106 | 100.0 | /mnt/stockage/packages/f33/sugar-paint/po/ar.po | 
+ | [ayc](/f33/language/ayc) | 106 | 106 | 100.0 | /mnt/stockage/packages/f33/sugar-paint/po/ayc.po | 
+ | [ca](/f33/language/ca) | 106 | 106 | 100.0 | /mnt/stockage/packages/f33/sugar-paint/po/ca.po | 
+ | [da](/f33/language/da) | 106 | 106 | 100.0 | /mnt/stockage/packages/f33/sugar-paint/po/da.po | 
+ | [de](/f33/language/de) | 106 | 106 | 100.0 | /mnt/stockage/packages/f33/sugar-paint/po/de.po | 
+ | [en](/f33/language/en) | 106 | 106 | 100.0 | /mnt/stockage/packages/f33/sugar-paint/po/en.po | 
+ | [en_GB](/f33/language/en_GB) | 106 | 106 | 100.0 | /mnt/stockage/packages/f33/sugar-paint/po/en_GB.po | 
+ | [en_US](/f33/language/en_US) | 96 | 96 | 100.0 | /mnt/stockage/packages/f33/sugar-paint/po/en_US.po | 
+ | [es](/f33/language/es) | 106 | 106 | 100.0 | /mnt/stockage/packages/f33/sugar-paint/po/es.po | 
+ | [fa](/f33/language/fa) | 106 | 106 | 100.0 | /mnt/stockage/packages/f33/sugar-paint/po/fa.po | 
+ | [fr](/f33/language/fr) | 106 | 106 | 100.0 | /mnt/stockage/packages/f33/sugar-paint/po/fr.po | 
+ | [fy](/f33/language/fy) | 106 | 106 | 100.0 | /mnt/stockage/packages/f33/sugar-paint/po/fy.po | 
+ | [gl](/f33/language/gl) | 106 | 106 | 100.0 | /mnt/stockage/packages/f33/sugar-paint/po/gl.po | 
+ | [gug](/f33/language/gug) | 106 | 106 | 100.0 | /mnt/stockage/packages/f33/sugar-paint/po/gug.po | 
+ | [he](/f33/language/he) | 106 | 106 | 100.0 | /mnt/stockage/packages/f33/sugar-paint/po/he.po | 
+ | [hi](/f33/language/hi) | 106 | 106 | 100.0 | /mnt/stockage/packages/f33/sugar-paint/po/hi.po | 
+ | [hr](/f33/language/hr) | 106 | 106 | 100.0 | /mnt/stockage/packages/f33/sugar-paint/po/hr.po | 
+ | [hy](/f33/language/hy) | 106 | 106 | 100.0 | /mnt/stockage/packages/f33/sugar-paint/po/hy.po | 
+ | [id](/f33/language/id) | 106 | 106 | 100.0 | /mnt/stockage/packages/f33/sugar-paint/po/id.po | 
+ | [is](/f33/language/is) | 106 | 106 | 100.0 | /mnt/stockage/packages/f33/sugar-paint/po/is.po | 
+ | [it](/f33/language/it) | 106 | 106 | 100.0 | /mnt/stockage/packages/f33/sugar-paint/po/it.po | 
+ | [lt](/f33/language/lt) | 106 | 106 | 100.0 | /mnt/stockage/packages/f33/sugar-paint/po/lt.po | 
+ | [ne](/f33/language/ne) | 106 | 106 | 100.0 | /mnt/stockage/packages/f33/sugar-paint/po/ne.po | 
+ | [nl](/f33/language/nl) | 106 | 106 | 100.0 | /mnt/stockage/packages/f33/sugar-paint/po/nl.po | 
+ | [pap](/f33/language/pap) | 106 | 106 | 100.0 | /mnt/stockage/packages/f33/sugar-paint/po/pap.po | 
+ | [pl](/f33/language/pl) | 106 | 106 | 100.0 | /mnt/stockage/packages/f33/sugar-paint/po/pl.po | 
+ | [pt_BR](/f33/language/pt_BR) | 106 | 106 | 100.0 | /mnt/stockage/packages/f33/sugar-paint/po/pt_BR.po | 
+ | [ru](/f33/language/ru) | 106 | 106 | 100.0 | /mnt/stockage/packages/f33/sugar-paint/po/ru.po | 
+ | [sk](/f33/language/sk) | 106 | 106 | 100.0 | /mnt/stockage/packages/f33/sugar-paint/po/sk.po | 
+ | [sv](/f33/language/sv) | 106 | 106 | 100.0 | /mnt/stockage/packages/f33/sugar-paint/po/sv.po | 
+ | [uk](/f33/language/uk) | 106 | 106 | 100.0 | /mnt/stockage/packages/f33/sugar-paint/po/uk.po | 
+ | [vi](/f33/language/vi) | 106 | 106 | 100.0 | /mnt/stockage/packages/f33/sugar-paint/po/vi.po | 
+ | [yo](/f33/language/yo) | 106 | 106 | 100.0 | /mnt/stockage/packages/f33/sugar-paint/po/yo.po | 
+ | [zh_Hans](/f33/language/zh_Hans) | 106 | 106 | 100.0 | /mnt/stockage/packages/f33/sugar-paint/po/zh_CN.po | 
+ | [el](/f33/language/el) | 104 | 106 | 98.1 | /mnt/stockage/packages/f33/sugar-paint/po/el.po | 
+ | [sq](/f33/language/sq) | 104 | 106 | 98.1 | /mnt/stockage/packages/f33/sugar-paint/po/sq.po | 
+ | [hu](/f33/language/hu) | 101 | 106 | 95.3 | /mnt/stockage/packages/f33/sugar-paint/po/hu.po | 
+ | [ig](/f33/language/ig) | 101 | 106 | 95.3 | /mnt/stockage/packages/f33/sugar-paint/po/ibo.po | 
+ | [error](/f33/language/error) | 163 | 173 | 94.2 | /mnt/stockage/packages/f33/sugar-paint/po/pseudo.po/mnt/stockage/packages/f33/sugar-paint/po/pbs.po | 
+ | [pt](/f33/language/pt) | 90 | 106 | 84.9 | /mnt/stockage/packages/f33/sugar-paint/po/pt.po | 
+ | [qu](/f33/language/qu) | 90 | 106 | 84.9 | /mnt/stockage/packages/f33/sugar-paint/po/quz.po | 
+ | [ay](/f33/language/ay) | 64 | 88 | 72.7 | /mnt/stockage/packages/f33/sugar-paint/po/aym.po | 
+ | [mi](/f33/language/mi) | 64 | 106 | 60.4 | /mnt/stockage/packages/f33/sugar-paint/po/mi.po | 
+ | [zh_Hant](/f33/language/zh_Hant) | 61 | 106 | 57.5 | /mnt/stockage/packages/f33/sugar-paint/po/zh_TW.po | 
+ | [hus](/f33/language/hus) | 60 | 106 | 56.6 | /mnt/stockage/packages/f33/sugar-paint/po/hus.po | 
+ | [sr](/f33/language/sr) | 60 | 106 | 56.6 | /mnt/stockage/packages/f33/sugar-paint/po/sr.po | 
+ | [ta](/f33/language/ta) | 60 | 106 | 56.6 | /mnt/stockage/packages/f33/sugar-paint/po/ta.po | 
+ | [th](/f33/language/th) | 60 | 106 | 56.6 | /mnt/stockage/packages/f33/sugar-paint/po/th.po | 
+ | [nah](/f33/language/nah) | 56 | 106 | 52.8 | /mnt/stockage/packages/f33/sugar-paint/po/nah.po | 
+ | [te](/f33/language/te) | 53 | 106 | 50.0 | /mnt/stockage/packages/f33/sugar-paint/po/te.po | 
+ | [ja](/f33/language/ja) | 52 | 106 | 49.1 | /mnt/stockage/packages/f33/sugar-paint/po/ja.po | 
+ | [sw](/f33/language/sw) | 48 | 106 | 45.3 | /mnt/stockage/packages/f33/sugar-paint/po/sw.po | 
+ | [prs](/f33/language/prs) | 37 | 90 | 41.1 | /mnt/stockage/packages/f33/sugar-paint/po/fa_AF.po | 
+ | [km](/f33/language/km) | 41 | 106 | 38.7 | /mnt/stockage/packages/f33/sugar-paint/po/km.po | 
+ | [nb_NO](/f33/language/nb_NO) | 33 | 90 | 36.7 | /mnt/stockage/packages/f33/sugar-paint/po/nb.po | 
+ | [rw](/f33/language/rw) | 38 | 106 | 35.8 | /mnt/stockage/packages/f33/sugar-paint/po/rw.po | 
+ | [bg](/f33/language/bg) | 37 | 106 | 34.9 | /mnt/stockage/packages/f33/sugar-paint/po/bg.po | 
+ | [bn](/f33/language/bn) | 37 | 106 | 34.9 | /mnt/stockage/packages/f33/sugar-paint/po/bn.po | 
+ | [ht](/f33/language/ht) | 37 | 106 | 34.9 | /mnt/stockage/packages/f33/sugar-paint/po/ht.po | 
+ | [kab](/f33/language/kab) | 37 | 106 | 34.9 | /mnt/stockage/packages/f33/sugar-paint/po/kab.po | 
+ | [mk](/f33/language/mk) | 37 | 106 | 34.9 | /mnt/stockage/packages/f33/sugar-paint/po/mk.po | 
+ | [mn](/f33/language/mn) | 37 | 106 | 34.9 | /mnt/stockage/packages/f33/sugar-paint/po/mn.po | 
+ | [mr](/f33/language/mr) | 37 | 106 | 34.9 | /mnt/stockage/packages/f33/sugar-paint/po/mr.po | 
+ | [ps](/f33/language/ps) | 37 | 106 | 34.9 | /mnt/stockage/packages/f33/sugar-paint/po/ps.po | 
+ | [ro](/f33/language/ro) | 37 | 106 | 34.9 | /mnt/stockage/packages/f33/sugar-paint/po/ro.po | 
+ | [si](/f33/language/si) | 37 | 106 | 34.9 | /mnt/stockage/packages/f33/sugar-paint/po/si.po | 
+ | [sl](/f33/language/sl) | 37 | 106 | 34.9 | /mnt/stockage/packages/f33/sugar-paint/po/sl.po | 
+ | [tr](/f33/language/tr) | 37 | 106 | 34.9 | /mnt/stockage/packages/f33/sugar-paint/po/tr.po | 
+ | [ur](/f33/language/ur) | 37 | 106 | 34.9 | /mnt/stockage/packages/f33/sugar-paint/po/ur.po | 
+ | [bn_IN](/f33/language/bn_IN) | 31 | 106 | 29.2 | /mnt/stockage/packages/f33/sugar-paint/po/bn_IN.po | 
+ | [af](/f33/language/af) | 26 | 106 | 24.5 | /mnt/stockage/packages/f33/sugar-paint/po/af.po | 
+ | [ko](/f33/language/ko) | 42 | 173 | 24.3 | /mnt/stockage/packages/f33/sugar-paint/po/ko_KO.po/mnt/stockage/packages/f33/sugar-paint/po/ko.po | 
+ | [mg](/f33/language/mg) | 20 | 106 | 18.9 | /mnt/stockage/packages/f33/sugar-paint/po/mg.po | 
+ | [cs](/f33/language/cs) | 12 | 106 | 11.3 | /mnt/stockage/packages/f33/sugar-paint/po/cs.po | 
+ | [sm](/f33/language/sm) | 5 | 106 | 4.7 | /mnt/stockage/packages/f33/sugar-paint/po/sm.po | 
+ | [tzm](/f33/language/tzm) | 5 | 106 | 4.7 | /mnt/stockage/packages/f33/sugar-paint/po/tzm.po | 
+ | [bi](/f33/language/bi) | 1 | 106 | 0.9 | /mnt/stockage/packages/f33/sugar-paint/po/bi.po | 
+ | [kos](/f33/language/kos) | 1 | 106 | 0.9 | /mnt/stockage/packages/f33/sugar-paint/po/kos.po | 
+ | [ml](/f33/language/ml) | 1 | 106 | 0.9 | /mnt/stockage/packages/f33/sugar-paint/po/ml.po | 
 {.sortable}
 
 

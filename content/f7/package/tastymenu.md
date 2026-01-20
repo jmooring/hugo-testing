@@ -18,10 +18,10 @@ The package tastymenu (version 0.8.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f7/language/de.md" >}}) | 570 | 570 | 100.0 | /mnt/stockage/packages/f7/tastymenu/po/de.po | 
- | [it]({{< ref "/f7/language/it.md" >}}) | 570 | 570 | 100.0 | /mnt/stockage/packages/f7/tastymenu/po/it.po | 
- | [ru]({{< ref "/f7/language/ru.md" >}}) | 570 | 570 | 100.0 | /mnt/stockage/packages/f7/tastymenu/po/ru.po | 
- | [es]({{< ref "/f7/language/es.md" >}}) | 550 | 570 | 96.5 | /mnt/stockage/packages/f7/tastymenu/po/es.po | 
+ | [de](/f7/language/de) | 570 | 570 | 100.0 | /mnt/stockage/packages/f7/tastymenu/po/de.po | 
+ | [it](/f7/language/it) | 570 | 570 | 100.0 | /mnt/stockage/packages/f7/tastymenu/po/it.po | 
+ | [ru](/f7/language/ru) | 570 | 570 | 100.0 | /mnt/stockage/packages/f7/tastymenu/po/ru.po | 
+ | [es](/f7/language/es) | 550 | 570 | 96.5 | /mnt/stockage/packages/f7/tastymenu/po/es.po | 
 {.sortable}
 
 

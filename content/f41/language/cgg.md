@@ -38,8 +38,8 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [tuxpaint]({{< ref "/f41/package/tuxpaint.md" >}}) | 1098 | 5355 | 20.5 | none | 
- | [vlc]({{< ref "/f41/package/vlc.md" >}}) | 1398 | 34779 | 4.0 | Chiga (https://app.transifex.com/yaron/teams/16553/cgg/) | 
+ | [tuxpaint](/f41/package/tuxpaint) | 1098 | 5355 | 20.5 | none | 
+ | [vlc](/f41/package/vlc) | 1398 | 34779 | 4.0 | Chiga (https://app.transifex.com/yaron/teams/16553/cgg/) | 
 {.sortable}
 
 

@@ -18,15 +18,15 @@ The package catfish (version 0.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f9/language/ca.md" >}}) | 76 | 76 | 100.0 | /mnt/stockage/packages/f9/catfish/i18n/ca.po | 
- | [de]({{< ref "/f9/language/de.md" >}}) | 76 | 76 | 100.0 | /mnt/stockage/packages/f9/catfish/i18n/de.po | 
- | [es]({{< ref "/f9/language/es.md" >}}) | 76 | 76 | 100.0 | /mnt/stockage/packages/f9/catfish/i18n/es.po | 
- | [fr]({{< ref "/f9/language/fr.md" >}}) | 76 | 76 | 100.0 | /mnt/stockage/packages/f9/catfish/i18n/fr.po | 
- | [pl]({{< ref "/f9/language/pl.md" >}}) | 76 | 76 | 100.0 | /mnt/stockage/packages/f9/catfish/i18n/pl.po | 
- | [ru]({{< ref "/f9/language/ru.md" >}}) | 76 | 76 | 100.0 | /mnt/stockage/packages/f9/catfish/i18n/ru.po | 
- | [it]({{< ref "/f9/language/it.md" >}}) | 74 | 76 | 97.4 | /mnt/stockage/packages/f9/catfish/i18n/it.po | 
- | [sv]({{< ref "/f9/language/sv.md" >}}) | 74 | 76 | 97.4 | /mnt/stockage/packages/f9/catfish/i18n/sv.po | 
- | [da]({{< ref "/f9/language/da.md" >}}) | 17 | 76 | 22.4 | /mnt/stockage/packages/f9/catfish/i18n/da.po | 
+ | [ca](/f9/language/ca) | 76 | 76 | 100.0 | /mnt/stockage/packages/f9/catfish/i18n/ca.po | 
+ | [de](/f9/language/de) | 76 | 76 | 100.0 | /mnt/stockage/packages/f9/catfish/i18n/de.po | 
+ | [es](/f9/language/es) | 76 | 76 | 100.0 | /mnt/stockage/packages/f9/catfish/i18n/es.po | 
+ | [fr](/f9/language/fr) | 76 | 76 | 100.0 | /mnt/stockage/packages/f9/catfish/i18n/fr.po | 
+ | [pl](/f9/language/pl) | 76 | 76 | 100.0 | /mnt/stockage/packages/f9/catfish/i18n/pl.po | 
+ | [ru](/f9/language/ru) | 76 | 76 | 100.0 | /mnt/stockage/packages/f9/catfish/i18n/ru.po | 
+ | [it](/f9/language/it) | 74 | 76 | 97.4 | /mnt/stockage/packages/f9/catfish/i18n/it.po | 
+ | [sv](/f9/language/sv) | 74 | 76 | 97.4 | /mnt/stockage/packages/f9/catfish/i18n/sv.po | 
+ | [da](/f9/language/da) | 17 | 76 | 22.4 | /mnt/stockage/packages/f9/catfish/i18n/da.po | 
 {.sortable}
 
 

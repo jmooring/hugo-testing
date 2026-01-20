@@ -18,11 +18,11 @@ The package cantata (version 0.9.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f18/language/cs.md" >}}) | 3765 | 3765 | 100.0 | /mnt/stockage/packages/f18/cantata/po/cs.po | 
- | [de]({{< ref "/f18/language/de.md" >}}) | 3765 | 3765 | 100.0 | /mnt/stockage/packages/f18/cantata/po/de.po | 
- | [pl]({{< ref "/f18/language/pl.md" >}}) | 3765 | 3765 | 100.0 | /mnt/stockage/packages/f18/cantata/po/pl.po | 
- | [es]({{< ref "/f18/language/es.md" >}}) | 3183 | 3765 | 84.5 | /mnt/stockage/packages/f18/cantata/po/es.po | 
- | [ko]({{< ref "/f18/language/ko.md" >}}) | 6241 | 7530 | 82.9 | /mnt/stockage/packages/f18/cantata/po/zh_CN.po/mnt/stockage/packages/f18/cantata/po/ko.po | 
+ | [cs](/f18/language/cs) | 3765 | 3765 | 100.0 | /mnt/stockage/packages/f18/cantata/po/cs.po | 
+ | [de](/f18/language/de) | 3765 | 3765 | 100.0 | /mnt/stockage/packages/f18/cantata/po/de.po | 
+ | [pl](/f18/language/pl) | 3765 | 3765 | 100.0 | /mnt/stockage/packages/f18/cantata/po/pl.po | 
+ | [es](/f18/language/es) | 3183 | 3765 | 84.5 | /mnt/stockage/packages/f18/cantata/po/es.po | 
+ | [ko](/f18/language/ko) | 6241 | 7530 | 82.9 | /mnt/stockage/packages/f18/cantata/po/zh_CN.po/mnt/stockage/packages/f18/cantata/po/ko.po | 
 {.sortable}
 
 

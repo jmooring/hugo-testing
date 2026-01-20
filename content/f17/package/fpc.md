@@ -18,12 +18,12 @@ The package fpc (version 2.6.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f17/language/de.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f17/fpc/fpcsrc/packages/fcl-base/examples/intl/restest.de.po/mnt/stockage/packages/f17/fpc/fpcsrc/utils/fpdoc/intl/dglobals.de.po/mnt/stockage/packages/f17/fpc/fpcsrc/utils/fpdoc/intl/dwriter.de.po/mnt/stockage/packages/f17/fpc/fpcsrc/utils/fpdoc/intl/fpdoc.de.po/mnt/stockage/packages/f17/fpc/fpcsrc/utils/fpdoc/intl/fpdocmk.de.po/mnt/stockage/packages/f17/fpc/fpcsrc/utils/fpdoc/intl/fpdocstr.de.po/mnt/stockage/packages/f17/fpc/fpcsrc/utils/fpdoc/intl/makeskel.de.po | 
- | [error]({{< ref "/f17/language/error.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f17/fpc/fpcsrc/packages/fcl-base/examples/intl/restest.pb.po | 
- | [nl]({{< ref "/f17/language/nl.md" >}}) | 3 | 3 | 100.0 | /mnt/stockage/packages/f17/fpc/fpcsrc/packages/fcl-base/examples/intl/restest.nl.po | 
- | [ru]({{< ref "/f17/language/ru.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f17/fpc/fpcsrc/packages/fcl-base/examples/intl/restest.ru.po | 
- | [sk]({{< ref "/f17/language/sk.md" >}}) | 74 | 74 | 100.0 | /mnt/stockage/packages/f17/fpc/fpcsrc/utils/fpdoc/intl/dglobals.sk.po | 
- | [fr]({{< ref "/f17/language/fr.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f17/fpc/fpcsrc/packages/fcl-base/examples/intl/restest.fr.po | 
+ | [de](/f17/language/de) | 4 | 4 | 100.0 | /mnt/stockage/packages/f17/fpc/fpcsrc/packages/fcl-base/examples/intl/restest.de.po/mnt/stockage/packages/f17/fpc/fpcsrc/utils/fpdoc/intl/dglobals.de.po/mnt/stockage/packages/f17/fpc/fpcsrc/utils/fpdoc/intl/dwriter.de.po/mnt/stockage/packages/f17/fpc/fpcsrc/utils/fpdoc/intl/fpdoc.de.po/mnt/stockage/packages/f17/fpc/fpcsrc/utils/fpdoc/intl/fpdocmk.de.po/mnt/stockage/packages/f17/fpc/fpcsrc/utils/fpdoc/intl/fpdocstr.de.po/mnt/stockage/packages/f17/fpc/fpcsrc/utils/fpdoc/intl/makeskel.de.po | 
+ | [error](/f17/language/error) | 4 | 4 | 100.0 | /mnt/stockage/packages/f17/fpc/fpcsrc/packages/fcl-base/examples/intl/restest.pb.po | 
+ | [nl](/f17/language/nl) | 3 | 3 | 100.0 | /mnt/stockage/packages/f17/fpc/fpcsrc/packages/fcl-base/examples/intl/restest.nl.po | 
+ | [ru](/f17/language/ru) | 4 | 4 | 100.0 | /mnt/stockage/packages/f17/fpc/fpcsrc/packages/fcl-base/examples/intl/restest.ru.po | 
+ | [sk](/f17/language/sk) | 74 | 74 | 100.0 | /mnt/stockage/packages/f17/fpc/fpcsrc/utils/fpdoc/intl/dglobals.sk.po | 
+ | [fr](/f17/language/fr) | 0 | 0 | 0.0 | /mnt/stockage/packages/f17/fpc/fpcsrc/packages/fcl-base/examples/intl/restest.fr.po | 
 {.sortable}
 
 

@@ -18,7 +18,7 @@ The package swappy (version 1.2.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [en]({{< ref "/f31/language/en.md" >}}) | 19 | 19 | 100.0 | /mnt/stockage/packages/f31/swappy/src/po/en.po | 
+ | [en](/f31/language/en) | 19 | 19 | 100.0 | /mnt/stockage/packages/f31/swappy/src/po/en.po | 
 {.sortable}
 
 

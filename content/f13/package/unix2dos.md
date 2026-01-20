@@ -18,7 +18,7 @@ The package unix2dos (version 4.1.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [nl]({{< ref "/f13/language/nl.md" >}}) | 202 | 386 | 52.3 | /mnt/stockage/packages/f13/unix2dos/po/nl.po | 
+ | [nl](/f13/language/nl) | 202 | 386 | 52.3 | /mnt/stockage/packages/f13/unix2dos/po/nl.po | 
 {.sortable}
 
 

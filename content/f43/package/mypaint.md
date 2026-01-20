@@ -18,88 +18,88 @@ The package mypaint (version 2.0.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f43/language/ca.md" >}}) | 6407 | 6407 | 100.0 | /mnt/stockage/packages/f43/mypaint/po/ca.po | 
- | [ca@valencia]({{< ref "/f43/language/ca@valencia.md" >}}) | 6407 | 6407 | 100.0 | /mnt/stockage/packages/f43/mypaint/po/ca@valencia.po | 
- | [cs]({{< ref "/f43/language/cs.md" >}}) | 6381 | 6381 | 100.0 | /mnt/stockage/packages/f43/mypaint/po/cs.po | 
- | [en_CA]({{< ref "/f43/language/en_CA.md" >}}) | 6407 | 6407 | 100.0 | /mnt/stockage/packages/f43/mypaint/po/en_CA.po | 
- | [en_GB]({{< ref "/f43/language/en_GB.md" >}}) | 6407 | 6407 | 100.0 | /mnt/stockage/packages/f43/mypaint/po/en_GB.po | 
- | [ko]({{< ref "/f43/language/ko.md" >}}) | 6381 | 6381 | 100.0 | /mnt/stockage/packages/f43/mypaint/po/ko.po | 
- | [sv]({{< ref "/f43/language/sv.md" >}}) | 6407 | 6407 | 100.0 | /mnt/stockage/packages/f43/mypaint/po/sv.po | 
- | [tr]({{< ref "/f43/language/tr.md" >}}) | 6407 | 6407 | 100.0 | /mnt/stockage/packages/f43/mypaint/po/tr.po | 
- | [ru]({{< ref "/f43/language/ru.md" >}}) | 6082 | 6381 | 95.3 | /mnt/stockage/packages/f43/mypaint/po/ru.po | 
- | [de]({{< ref "/f43/language/de.md" >}}) | 5677 | 6381 | 89.0 | /mnt/stockage/packages/f43/mypaint/po/de.po | 
- | [zh_Hans]({{< ref "/f43/language/zh_Hans.md" >}}) | 5602 | 6381 | 87.8 | /mnt/stockage/packages/f43/mypaint/po/zh_CN.po | 
- | [it]({{< ref "/f43/language/it.md" >}}) | 5257 | 6381 | 82.4 | /mnt/stockage/packages/f43/mypaint/po/it.po | 
- | [sk]({{< ref "/f43/language/sk.md" >}}) | 5211 | 6381 | 81.7 | /mnt/stockage/packages/f43/mypaint/po/sk.po | 
- | [zh_Hant]({{< ref "/f43/language/zh_Hant.md" >}}) | 4792 | 6381 | 75.1 | /mnt/stockage/packages/f43/mypaint/po/zh_TW.po | 
- | [pt]({{< ref "/f43/language/pt.md" >}}) | 4790 | 6381 | 75.1 | /mnt/stockage/packages/f43/mypaint/po/pt.po | 
- | [es]({{< ref "/f43/language/es.md" >}}) | 4783 | 6381 | 75.0 | /mnt/stockage/packages/f43/mypaint/po/es.po | 
- | [da]({{< ref "/f43/language/da.md" >}}) | 4780 | 6381 | 74.9 | /mnt/stockage/packages/f43/mypaint/po/da.po | 
- | [ja]({{< ref "/f43/language/ja.md" >}}) | 4780 | 6381 | 74.9 | /mnt/stockage/packages/f43/mypaint/po/ja.po | 
- | [nl]({{< ref "/f43/language/nl.md" >}}) | 4780 | 6381 | 74.9 | /mnt/stockage/packages/f43/mypaint/po/nl.po | 
- | [pl]({{< ref "/f43/language/pl.md" >}}) | 4780 | 6381 | 74.9 | /mnt/stockage/packages/f43/mypaint/po/pl.po | 
- | [is]({{< ref "/f43/language/is.md" >}}) | 4694 | 6381 | 73.6 | /mnt/stockage/packages/f43/mypaint/po/is.po | 
- | [fr]({{< ref "/f43/language/fr.md" >}}) | 3942 | 6381 | 61.8 | /mnt/stockage/packages/f43/mypaint/po/fr.po | 
- | [hr]({{< ref "/f43/language/hr.md" >}}) | 3400 | 6381 | 53.3 | /mnt/stockage/packages/f43/mypaint/po/hr.po | 
- | [pt_BR]({{< ref "/f43/language/pt_BR.md" >}}) | 3263 | 6381 | 51.1 | /mnt/stockage/packages/f43/mypaint/po/pt_BR.po | 
- | [nn]({{< ref "/f43/language/nn.md" >}}) | 3213 | 6381 | 50.4 | /mnt/stockage/packages/f43/mypaint/po/nn_NO.po | 
- | [hu]({{< ref "/f43/language/hu.md" >}}) | 2451 | 6381 | 38.4 | /mnt/stockage/packages/f43/mypaint/po/hu.po | 
- | [nb_NO]({{< ref "/f43/language/nb_NO.md" >}}) | 2254 | 6381 | 35.3 | /mnt/stockage/packages/f43/mypaint/po/nb.po | 
- | [fa]({{< ref "/f43/language/fa.md" >}}) | 2055 | 6381 | 32.2 | /mnt/stockage/packages/f43/mypaint/po/fa.po | 
- | [id]({{< ref "/f43/language/id.md" >}}) | 1466 | 6381 | 23.0 | /mnt/stockage/packages/f43/mypaint/po/id.po | 
- | [uk]({{< ref "/f43/language/uk.md" >}}) | 877 | 6381 | 13.7 | /mnt/stockage/packages/f43/mypaint/po/uk.po | 
- | [fi]({{< ref "/f43/language/fi.md" >}}) | 766 | 6381 | 12.0 | /mnt/stockage/packages/f43/mypaint/po/fi.po | 
- | [he]({{< ref "/f43/language/he.md" >}}) | 699 | 6381 | 11.0 | /mnt/stockage/packages/f43/mypaint/po/he.po | 
- | [ro]({{< ref "/f43/language/ro.md" >}}) | 642 | 6381 | 10.1 | /mnt/stockage/packages/f43/mypaint/po/ro.po | 
- | [sl]({{< ref "/f43/language/sl.md" >}}) | 470 | 6381 | 7.4 | /mnt/stockage/packages/f43/mypaint/po/sl.po | 
- | [el]({{< ref "/f43/language/el.md" >}}) | 418 | 6381 | 6.6 | /mnt/stockage/packages/f43/mypaint/po/el.po | 
- | [ckb]({{< ref "/f43/language/ckb.md" >}}) | 379 | 6381 | 5.9 | /mnt/stockage/packages/f43/mypaint/po/ckb.po | 
- | [te]({{< ref "/f43/language/te.md" >}}) | 364 | 6381 | 5.7 | /mnt/stockage/packages/f43/mypaint/po/te.po | 
- | [ms]({{< ref "/f43/language/ms.md" >}}) | 358 | 6381 | 5.6 | /mnt/stockage/packages/f43/mypaint/po/ms.po | 
- | [mr]({{< ref "/f43/language/mr.md" >}}) | 340 | 6381 | 5.3 | /mnt/stockage/packages/f43/mypaint/po/mr.po | 
- | [eo]({{< ref "/f43/language/eo.md" >}}) | 320 | 6381 | 5.0 | /mnt/stockage/packages/f43/mypaint/po/eo.po | 
- | [brx]({{< ref "/f43/language/brx.md" >}}) | 283 | 6381 | 4.4 | /mnt/stockage/packages/f43/mypaint/po/brx.po | 
- | [ar]({{< ref "/f43/language/ar.md" >}}) | 197 | 6381 | 3.1 | /mnt/stockage/packages/f43/mypaint/po/ar.po | 
- | [gl]({{< ref "/f43/language/gl.md" >}}) | 163 | 6381 | 2.6 | /mnt/stockage/packages/f43/mypaint/po/gl.po | 
- | [vi]({{< ref "/f43/language/vi.md" >}}) | 163 | 6381 | 2.6 | /mnt/stockage/packages/f43/mypaint/po/vi.po | 
- | [th]({{< ref "/f43/language/th.md" >}}) | 161 | 6381 | 2.5 | /mnt/stockage/packages/f43/mypaint/po/th.po | 
- | [sr]({{< ref "/f43/language/sr.md" >}}) | 273 | 12762 | 2.1 | /mnt/stockage/packages/f43/mypaint/po/sr.po/mnt/stockage/packages/f43/mypaint/po/sr@latin.po | 
- | [kab]({{< ref "/f43/language/kab.md" >}}) | 115 | 6381 | 1.8 | /mnt/stockage/packages/f43/mypaint/po/kab.po | 
- | [eu]({{< ref "/f43/language/eu.md" >}}) | 102 | 6381 | 1.6 | /mnt/stockage/packages/f43/mypaint/po/eu.po | 
- | [bg]({{< ref "/f43/language/bg.md" >}}) | 26 | 6381 | 0.4 | /mnt/stockage/packages/f43/mypaint/po/bg.po | 
- | [lv]({{< ref "/f43/language/lv.md" >}}) | 26 | 6381 | 0.4 | /mnt/stockage/packages/f43/mypaint/po/lv.po | 
- | [et]({{< ref "/f43/language/et.md" >}}) | 24 | 6381 | 0.4 | /mnt/stockage/packages/f43/mypaint/po/et.po | 
- | [lt]({{< ref "/f43/language/lt.md" >}}) | 22 | 6381 | 0.3 | /mnt/stockage/packages/f43/mypaint/po/lt.po | 
- | [ta]({{< ref "/f43/language/ta.md" >}}) | 21 | 6381 | 0.3 | /mnt/stockage/packages/f43/mypaint/po/ta.po | 
- | [pa]({{< ref "/f43/language/pa.md" >}}) | 20 | 6381 | 0.3 | /mnt/stockage/packages/f43/mypaint/po/pa.po | 
- | [ga]({{< ref "/f43/language/ga.md" >}}) | 19 | 6381 | 0.3 | /mnt/stockage/packages/f43/mypaint/po/ga.po | 
- | [hi]({{< ref "/f43/language/hi.md" >}}) | 19 | 6381 | 0.3 | /mnt/stockage/packages/f43/mypaint/po/hi.po | 
- | [be]({{< ref "/f43/language/be.md" >}}) | 18 | 6381 | 0.3 | /mnt/stockage/packages/f43/mypaint/po/be.po | 
- | [bn]({{< ref "/f43/language/bn.md" >}}) | 18 | 6381 | 0.3 | /mnt/stockage/packages/f43/mypaint/po/bn.po | 
- | [kn]({{< ref "/f43/language/kn.md" >}}) | 18 | 6381 | 0.3 | /mnt/stockage/packages/f43/mypaint/po/kn.po | 
- | [af]({{< ref "/f43/language/af.md" >}}) | 17 | 6381 | 0.3 | /mnt/stockage/packages/f43/mypaint/po/af.po | 
- | [bs]({{< ref "/f43/language/bs.md" >}}) | 17 | 6381 | 0.3 | /mnt/stockage/packages/f43/mypaint/po/bs.po | 
- | [gu]({{< ref "/f43/language/gu.md" >}}) | 17 | 6381 | 0.3 | /mnt/stockage/packages/f43/mypaint/po/gu.po | 
- | [wa]({{< ref "/f43/language/wa.md" >}}) | 17 | 6381 | 0.3 | /mnt/stockage/packages/f43/mypaint/po/wa.po | 
- | [zh_Hant_HK]({{< ref "/f43/language/zh_Hant_HK.md" >}}) | 17 | 6381 | 0.3 | /mnt/stockage/packages/f43/mypaint/po/zh_HK.po | 
- | [ast]({{< ref "/f43/language/ast.md" >}}) | 16 | 6381 | 0.3 | /mnt/stockage/packages/f43/mypaint/po/ast.po | 
- | [br]({{< ref "/f43/language/br.md" >}}) | 16 | 6381 | 0.3 | /mnt/stockage/packages/f43/mypaint/po/br.po | 
- | [mn]({{< ref "/f43/language/mn.md" >}}) | 16 | 6381 | 0.3 | /mnt/stockage/packages/f43/mypaint/po/mn.po | 
- | [az]({{< ref "/f43/language/az.md" >}}) | 15 | 6381 | 0.2 | /mnt/stockage/packages/f43/mypaint/po/az.po | 
- | [kk]({{< ref "/f43/language/kk.md" >}}) | 15 | 6381 | 0.2 | /mnt/stockage/packages/f43/mypaint/po/kk.po | 
- | [oc]({{< ref "/f43/language/oc.md" >}}) | 15 | 6381 | 0.2 | /mnt/stockage/packages/f43/mypaint/po/oc.po | 
- | [se]({{< ref "/f43/language/se.md" >}}) | 15 | 6381 | 0.2 | /mnt/stockage/packages/f43/mypaint/po/se.po | 
- | [tg]({{< ref "/f43/language/tg.md" >}}) | 15 | 6381 | 0.2 | /mnt/stockage/packages/f43/mypaint/po/tg.po | 
- | [uz]({{< ref "/f43/language/uz.md" >}}) | 15 | 6381 | 0.2 | /mnt/stockage/packages/f43/mypaint/po/uz.po | 
- | [as]({{< ref "/f43/language/as.md" >}}) | 14 | 6381 | 0.2 | /mnt/stockage/packages/f43/mypaint/po/as.po | 
- | [csb]({{< ref "/f43/language/csb.md" >}}) | 14 | 6381 | 0.2 | /mnt/stockage/packages/f43/mypaint/po/csb.po | 
- | [fy]({{< ref "/f43/language/fy.md" >}}) | 14 | 6381 | 0.2 | /mnt/stockage/packages/f43/mypaint/po/fy.po | 
- | [mai]({{< ref "/f43/language/mai.md" >}}) | 14 | 6381 | 0.2 | /mnt/stockage/packages/f43/mypaint/po/mai.po | 
- | [sq]({{< ref "/f43/language/sq.md" >}}) | 14 | 6381 | 0.2 | /mnt/stockage/packages/f43/mypaint/po/sq.po | 
- | [dz]({{< ref "/f43/language/dz.md" >}}) | 13 | 6381 | 0.2 | /mnt/stockage/packages/f43/mypaint/po/dz.po | 
- | [ka]({{< ref "/f43/language/ka.md" >}}) | 11 | 6381 | 0.2 | /mnt/stockage/packages/f43/mypaint/po/ka.po | 
- | [hy]({{< ref "/f43/language/hy.md" >}}) | 7 | 6381 | 0.1 | /mnt/stockage/packages/f43/mypaint/po/hy.po | 
- | [ml]({{< ref "/f43/language/ml.md" >}}) | 0 | 6381 | 0.0 | /mnt/stockage/packages/f43/mypaint/po/ml.po | 
+ | [ca](/f43/language/ca) | 6407 | 6407 | 100.0 | /mnt/stockage/packages/f43/mypaint/po/ca.po | 
+ | [ca@valencia](/f43/language/ca@valencia) | 6407 | 6407 | 100.0 | /mnt/stockage/packages/f43/mypaint/po/ca@valencia.po | 
+ | [cs](/f43/language/cs) | 6381 | 6381 | 100.0 | /mnt/stockage/packages/f43/mypaint/po/cs.po | 
+ | [en_CA](/f43/language/en_CA) | 6407 | 6407 | 100.0 | /mnt/stockage/packages/f43/mypaint/po/en_CA.po | 
+ | [en_GB](/f43/language/en_GB) | 6407 | 6407 | 100.0 | /mnt/stockage/packages/f43/mypaint/po/en_GB.po | 
+ | [ko](/f43/language/ko) | 6381 | 6381 | 100.0 | /mnt/stockage/packages/f43/mypaint/po/ko.po | 
+ | [sv](/f43/language/sv) | 6407 | 6407 | 100.0 | /mnt/stockage/packages/f43/mypaint/po/sv.po | 
+ | [tr](/f43/language/tr) | 6407 | 6407 | 100.0 | /mnt/stockage/packages/f43/mypaint/po/tr.po | 
+ | [ru](/f43/language/ru) | 6082 | 6381 | 95.3 | /mnt/stockage/packages/f43/mypaint/po/ru.po | 
+ | [de](/f43/language/de) | 5677 | 6381 | 89.0 | /mnt/stockage/packages/f43/mypaint/po/de.po | 
+ | [zh_Hans](/f43/language/zh_Hans) | 5602 | 6381 | 87.8 | /mnt/stockage/packages/f43/mypaint/po/zh_CN.po | 
+ | [it](/f43/language/it) | 5257 | 6381 | 82.4 | /mnt/stockage/packages/f43/mypaint/po/it.po | 
+ | [sk](/f43/language/sk) | 5211 | 6381 | 81.7 | /mnt/stockage/packages/f43/mypaint/po/sk.po | 
+ | [zh_Hant](/f43/language/zh_Hant) | 4792 | 6381 | 75.1 | /mnt/stockage/packages/f43/mypaint/po/zh_TW.po | 
+ | [pt](/f43/language/pt) | 4790 | 6381 | 75.1 | /mnt/stockage/packages/f43/mypaint/po/pt.po | 
+ | [es](/f43/language/es) | 4783 | 6381 | 75.0 | /mnt/stockage/packages/f43/mypaint/po/es.po | 
+ | [da](/f43/language/da) | 4780 | 6381 | 74.9 | /mnt/stockage/packages/f43/mypaint/po/da.po | 
+ | [ja](/f43/language/ja) | 4780 | 6381 | 74.9 | /mnt/stockage/packages/f43/mypaint/po/ja.po | 
+ | [nl](/f43/language/nl) | 4780 | 6381 | 74.9 | /mnt/stockage/packages/f43/mypaint/po/nl.po | 
+ | [pl](/f43/language/pl) | 4780 | 6381 | 74.9 | /mnt/stockage/packages/f43/mypaint/po/pl.po | 
+ | [is](/f43/language/is) | 4694 | 6381 | 73.6 | /mnt/stockage/packages/f43/mypaint/po/is.po | 
+ | [fr](/f43/language/fr) | 3942 | 6381 | 61.8 | /mnt/stockage/packages/f43/mypaint/po/fr.po | 
+ | [hr](/f43/language/hr) | 3400 | 6381 | 53.3 | /mnt/stockage/packages/f43/mypaint/po/hr.po | 
+ | [pt_BR](/f43/language/pt_BR) | 3263 | 6381 | 51.1 | /mnt/stockage/packages/f43/mypaint/po/pt_BR.po | 
+ | [nn](/f43/language/nn) | 3213 | 6381 | 50.4 | /mnt/stockage/packages/f43/mypaint/po/nn_NO.po | 
+ | [hu](/f43/language/hu) | 2451 | 6381 | 38.4 | /mnt/stockage/packages/f43/mypaint/po/hu.po | 
+ | [nb_NO](/f43/language/nb_NO) | 2254 | 6381 | 35.3 | /mnt/stockage/packages/f43/mypaint/po/nb.po | 
+ | [fa](/f43/language/fa) | 2055 | 6381 | 32.2 | /mnt/stockage/packages/f43/mypaint/po/fa.po | 
+ | [id](/f43/language/id) | 1466 | 6381 | 23.0 | /mnt/stockage/packages/f43/mypaint/po/id.po | 
+ | [uk](/f43/language/uk) | 877 | 6381 | 13.7 | /mnt/stockage/packages/f43/mypaint/po/uk.po | 
+ | [fi](/f43/language/fi) | 766 | 6381 | 12.0 | /mnt/stockage/packages/f43/mypaint/po/fi.po | 
+ | [he](/f43/language/he) | 699 | 6381 | 11.0 | /mnt/stockage/packages/f43/mypaint/po/he.po | 
+ | [ro](/f43/language/ro) | 642 | 6381 | 10.1 | /mnt/stockage/packages/f43/mypaint/po/ro.po | 
+ | [sl](/f43/language/sl) | 470 | 6381 | 7.4 | /mnt/stockage/packages/f43/mypaint/po/sl.po | 
+ | [el](/f43/language/el) | 418 | 6381 | 6.6 | /mnt/stockage/packages/f43/mypaint/po/el.po | 
+ | [ckb](/f43/language/ckb) | 379 | 6381 | 5.9 | /mnt/stockage/packages/f43/mypaint/po/ckb.po | 
+ | [te](/f43/language/te) | 364 | 6381 | 5.7 | /mnt/stockage/packages/f43/mypaint/po/te.po | 
+ | [ms](/f43/language/ms) | 358 | 6381 | 5.6 | /mnt/stockage/packages/f43/mypaint/po/ms.po | 
+ | [mr](/f43/language/mr) | 340 | 6381 | 5.3 | /mnt/stockage/packages/f43/mypaint/po/mr.po | 
+ | [eo](/f43/language/eo) | 320 | 6381 | 5.0 | /mnt/stockage/packages/f43/mypaint/po/eo.po | 
+ | [brx](/f43/language/brx) | 283 | 6381 | 4.4 | /mnt/stockage/packages/f43/mypaint/po/brx.po | 
+ | [ar](/f43/language/ar) | 197 | 6381 | 3.1 | /mnt/stockage/packages/f43/mypaint/po/ar.po | 
+ | [gl](/f43/language/gl) | 163 | 6381 | 2.6 | /mnt/stockage/packages/f43/mypaint/po/gl.po | 
+ | [vi](/f43/language/vi) | 163 | 6381 | 2.6 | /mnt/stockage/packages/f43/mypaint/po/vi.po | 
+ | [th](/f43/language/th) | 161 | 6381 | 2.5 | /mnt/stockage/packages/f43/mypaint/po/th.po | 
+ | [sr](/f43/language/sr) | 273 | 12762 | 2.1 | /mnt/stockage/packages/f43/mypaint/po/sr.po/mnt/stockage/packages/f43/mypaint/po/sr@latin.po | 
+ | [kab](/f43/language/kab) | 115 | 6381 | 1.8 | /mnt/stockage/packages/f43/mypaint/po/kab.po | 
+ | [eu](/f43/language/eu) | 102 | 6381 | 1.6 | /mnt/stockage/packages/f43/mypaint/po/eu.po | 
+ | [bg](/f43/language/bg) | 26 | 6381 | 0.4 | /mnt/stockage/packages/f43/mypaint/po/bg.po | 
+ | [lv](/f43/language/lv) | 26 | 6381 | 0.4 | /mnt/stockage/packages/f43/mypaint/po/lv.po | 
+ | [et](/f43/language/et) | 24 | 6381 | 0.4 | /mnt/stockage/packages/f43/mypaint/po/et.po | 
+ | [lt](/f43/language/lt) | 22 | 6381 | 0.3 | /mnt/stockage/packages/f43/mypaint/po/lt.po | 
+ | [ta](/f43/language/ta) | 21 | 6381 | 0.3 | /mnt/stockage/packages/f43/mypaint/po/ta.po | 
+ | [pa](/f43/language/pa) | 20 | 6381 | 0.3 | /mnt/stockage/packages/f43/mypaint/po/pa.po | 
+ | [ga](/f43/language/ga) | 19 | 6381 | 0.3 | /mnt/stockage/packages/f43/mypaint/po/ga.po | 
+ | [hi](/f43/language/hi) | 19 | 6381 | 0.3 | /mnt/stockage/packages/f43/mypaint/po/hi.po | 
+ | [be](/f43/language/be) | 18 | 6381 | 0.3 | /mnt/stockage/packages/f43/mypaint/po/be.po | 
+ | [bn](/f43/language/bn) | 18 | 6381 | 0.3 | /mnt/stockage/packages/f43/mypaint/po/bn.po | 
+ | [kn](/f43/language/kn) | 18 | 6381 | 0.3 | /mnt/stockage/packages/f43/mypaint/po/kn.po | 
+ | [af](/f43/language/af) | 17 | 6381 | 0.3 | /mnt/stockage/packages/f43/mypaint/po/af.po | 
+ | [bs](/f43/language/bs) | 17 | 6381 | 0.3 | /mnt/stockage/packages/f43/mypaint/po/bs.po | 
+ | [gu](/f43/language/gu) | 17 | 6381 | 0.3 | /mnt/stockage/packages/f43/mypaint/po/gu.po | 
+ | [wa](/f43/language/wa) | 17 | 6381 | 0.3 | /mnt/stockage/packages/f43/mypaint/po/wa.po | 
+ | [zh_Hant_HK](/f43/language/zh_Hant_HK) | 17 | 6381 | 0.3 | /mnt/stockage/packages/f43/mypaint/po/zh_HK.po | 
+ | [ast](/f43/language/ast) | 16 | 6381 | 0.3 | /mnt/stockage/packages/f43/mypaint/po/ast.po | 
+ | [br](/f43/language/br) | 16 | 6381 | 0.3 | /mnt/stockage/packages/f43/mypaint/po/br.po | 
+ | [mn](/f43/language/mn) | 16 | 6381 | 0.3 | /mnt/stockage/packages/f43/mypaint/po/mn.po | 
+ | [az](/f43/language/az) | 15 | 6381 | 0.2 | /mnt/stockage/packages/f43/mypaint/po/az.po | 
+ | [kk](/f43/language/kk) | 15 | 6381 | 0.2 | /mnt/stockage/packages/f43/mypaint/po/kk.po | 
+ | [oc](/f43/language/oc) | 15 | 6381 | 0.2 | /mnt/stockage/packages/f43/mypaint/po/oc.po | 
+ | [se](/f43/language/se) | 15 | 6381 | 0.2 | /mnt/stockage/packages/f43/mypaint/po/se.po | 
+ | [tg](/f43/language/tg) | 15 | 6381 | 0.2 | /mnt/stockage/packages/f43/mypaint/po/tg.po | 
+ | [uz](/f43/language/uz) | 15 | 6381 | 0.2 | /mnt/stockage/packages/f43/mypaint/po/uz.po | 
+ | [as](/f43/language/as) | 14 | 6381 | 0.2 | /mnt/stockage/packages/f43/mypaint/po/as.po | 
+ | [csb](/f43/language/csb) | 14 | 6381 | 0.2 | /mnt/stockage/packages/f43/mypaint/po/csb.po | 
+ | [fy](/f43/language/fy) | 14 | 6381 | 0.2 | /mnt/stockage/packages/f43/mypaint/po/fy.po | 
+ | [mai](/f43/language/mai) | 14 | 6381 | 0.2 | /mnt/stockage/packages/f43/mypaint/po/mai.po | 
+ | [sq](/f43/language/sq) | 14 | 6381 | 0.2 | /mnt/stockage/packages/f43/mypaint/po/sq.po | 
+ | [dz](/f43/language/dz) | 13 | 6381 | 0.2 | /mnt/stockage/packages/f43/mypaint/po/dz.po | 
+ | [ka](/f43/language/ka) | 11 | 6381 | 0.2 | /mnt/stockage/packages/f43/mypaint/po/ka.po | 
+ | [hy](/f43/language/hy) | 7 | 6381 | 0.1 | /mnt/stockage/packages/f43/mypaint/po/hy.po | 
+ | [ml](/f43/language/ml) | 0 | 6381 | 0.0 | /mnt/stockage/packages/f43/mypaint/po/ml.po | 
 {.sortable}
 
 

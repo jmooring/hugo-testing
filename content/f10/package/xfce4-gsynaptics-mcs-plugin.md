@@ -18,7 +18,7 @@ The package xfce4-gsynaptics-mcs-plugin (version 1.0.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f10/language/fr.md" >}}) | 3 | 3 | 100.0 | /mnt/stockage/packages/f10/xfce4-gsynaptics-mcs-plugin/po/fr.po | 
+ | [fr](/f10/language/fr) | 3 | 3 | 100.0 | /mnt/stockage/packages/f10/xfce4-gsynaptics-mcs-plugin/po/fr.po | 
 {.sortable}
 
 

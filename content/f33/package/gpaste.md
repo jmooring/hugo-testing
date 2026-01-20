@@ -18,14 +18,14 @@ The package gpaste (version 3.38.6):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f33/language/fr.md" >}}) | 1207 | 1213 | 99.5 | /mnt/stockage/packages/f33/gpaste/po/fr.po | 
- | [sv]({{< ref "/f33/language/sv.md" >}}) | 939 | 1213 | 77.4 | /mnt/stockage/packages/f33/gpaste/po/sv.po | 
- | [nl]({{< ref "/f33/language/nl.md" >}}) | 936 | 1213 | 77.2 | /mnt/stockage/packages/f33/gpaste/po/nl_NL.po | 
- | [pt_BR]({{< ref "/f33/language/pt_BR.md" >}}) | 694 | 1213 | 57.2 | /mnt/stockage/packages/f33/gpaste/po/pt_BR.po | 
- | [de]({{< ref "/f33/language/de.md" >}}) | 675 | 1213 | 55.6 | /mnt/stockage/packages/f33/gpaste/po/de.po | 
- | [es]({{< ref "/f33/language/es.md" >}}) | 608 | 1213 | 50.1 | /mnt/stockage/packages/f33/gpaste/po/es.po | 
- | [nb_NO]({{< ref "/f33/language/nb_NO.md" >}}) | 464 | 1213 | 38.3 | /mnt/stockage/packages/f33/gpaste/po/nb_NO.po | 
- | [ja]({{< ref "/f33/language/ja.md" >}}) | 421 | 1213 | 34.7 | /mnt/stockage/packages/f33/gpaste/po/ja.po | 
+ | [fr](/f33/language/fr) | 1207 | 1213 | 99.5 | /mnt/stockage/packages/f33/gpaste/po/fr.po | 
+ | [sv](/f33/language/sv) | 939 | 1213 | 77.4 | /mnt/stockage/packages/f33/gpaste/po/sv.po | 
+ | [nl](/f33/language/nl) | 936 | 1213 | 77.2 | /mnt/stockage/packages/f33/gpaste/po/nl_NL.po | 
+ | [pt_BR](/f33/language/pt_BR) | 694 | 1213 | 57.2 | /mnt/stockage/packages/f33/gpaste/po/pt_BR.po | 
+ | [de](/f33/language/de) | 675 | 1213 | 55.6 | /mnt/stockage/packages/f33/gpaste/po/de.po | 
+ | [es](/f33/language/es) | 608 | 1213 | 50.1 | /mnt/stockage/packages/f33/gpaste/po/es.po | 
+ | [nb_NO](/f33/language/nb_NO) | 464 | 1213 | 38.3 | /mnt/stockage/packages/f33/gpaste/po/nb_NO.po | 
+ | [ja](/f33/language/ja) | 421 | 1213 | 34.7 | /mnt/stockage/packages/f33/gpaste/po/ja.po | 
 {.sortable}
 
 

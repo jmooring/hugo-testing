@@ -18,12 +18,12 @@ The package kazehakase (version 0.5.8):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f26/language/cs.md" >}}) | 1888 | 1889 | 99.9 | /mnt/stockage/packages/f26/kazehakase/po/cs.po | 
- | [ja]({{< ref "/f26/language/ja.md" >}}) | 1886 | 1889 | 99.8 | /mnt/stockage/packages/f26/kazehakase/po/ja.po | 
- | [nl]({{< ref "/f26/language/nl.md" >}}) | 1835 | 1858 | 98.8 | /mnt/stockage/packages/f26/kazehakase/po/nl.po | 
- | [de]({{< ref "/f26/language/de.md" >}}) | 1851 | 1889 | 98.0 | /mnt/stockage/packages/f26/kazehakase/po/de.po | 
- | [fr]({{< ref "/f26/language/fr.md" >}}) | 1801 | 1889 | 95.3 | /mnt/stockage/packages/f26/kazehakase/po/fr.po | 
- | [ru]({{< ref "/f26/language/ru.md" >}}) | 1737 | 1889 | 92.0 | /mnt/stockage/packages/f26/kazehakase/po/ru.po | 
+ | [cs](/f26/language/cs) | 1888 | 1889 | 99.9 | /mnt/stockage/packages/f26/kazehakase/po/cs.po | 
+ | [ja](/f26/language/ja) | 1886 | 1889 | 99.8 | /mnt/stockage/packages/f26/kazehakase/po/ja.po | 
+ | [nl](/f26/language/nl) | 1835 | 1858 | 98.8 | /mnt/stockage/packages/f26/kazehakase/po/nl.po | 
+ | [de](/f26/language/de) | 1851 | 1889 | 98.0 | /mnt/stockage/packages/f26/kazehakase/po/de.po | 
+ | [fr](/f26/language/fr) | 1801 | 1889 | 95.3 | /mnt/stockage/packages/f26/kazehakase/po/fr.po | 
+ | [ru](/f26/language/ru) | 1737 | 1889 | 92.0 | /mnt/stockage/packages/f26/kazehakase/po/ru.po | 
 {.sortable}
 
 

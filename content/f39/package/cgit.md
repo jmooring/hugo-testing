@@ -18,29 +18,29 @@ The package cgit (version 1.2.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [bg]({{< ref "/f39/language/bg.md" >}}) | 39262 | 39262 | 100.0 | /mnt/stockage/packages/f39/cgit/git-gui/po/bg.po/mnt/stockage/packages/f39/cgit/git-gui/po/glossary/bg.po/mnt/stockage/packages/f39/cgit/gitk-git/po/bg.po/mnt/stockage/packages/f39/cgit/po/bg.po | 
- | [de]({{< ref "/f39/language/de.md" >}}) | 39339 | 39339 | 100.0 | /mnt/stockage/packages/f39/cgit/git-gui/po/de.po/mnt/stockage/packages/f39/cgit/git-gui/po/glossary/de.po/mnt/stockage/packages/f39/cgit/gitk-git/po/de.po/mnt/stockage/packages/f39/cgit/po/de.po | 
- | [is]({{< ref "/f39/language/is.md" >}}) | 81 | 81 | 100.0 | /mnt/stockage/packages/f39/cgit/po/is.po | 
- | [ko]({{< ref "/f39/language/ko.md" >}}) | 24346 | 24346 | 100.0 | /mnt/stockage/packages/f39/cgit/po/ko.po | 
- | [pl]({{< ref "/f39/language/pl.md" >}}) | 35369 | 35369 | 100.0 | /mnt/stockage/packages/f39/cgit/po/pl.po | 
- | [pt]({{< ref "/f39/language/pt.md" >}}) | 3808 | 3808 | 100.0 | /mnt/stockage/packages/f39/cgit/git-gui/po/pt_pt.po/mnt/stockage/packages/f39/cgit/git-gui/po/glossary/pt_pt.po/mnt/stockage/packages/f39/cgit/gitk-git/po/pt_pt.po | 
- | [sv]({{< ref "/f39/language/sv.md" >}}) | 39046 | 39046 | 100.0 | /mnt/stockage/packages/f39/cgit/git-gui/po/sv.po/mnt/stockage/packages/f39/cgit/gitk-git/po/sv.po/mnt/stockage/packages/f39/cgit/po/sv.po | 
- | [tr]({{< ref "/f39/language/tr.md" >}}) | 35369 | 35369 | 100.0 | /mnt/stockage/packages/f39/cgit/po/tr.po | 
- | [vi]({{< ref "/f39/language/vi.md" >}}) | 39021 | 39021 | 100.0 | /mnt/stockage/packages/f39/cgit/git-gui/po/vi.po/mnt/stockage/packages/f39/cgit/gitk-git/po/vi.po/mnt/stockage/packages/f39/cgit/po/vi.po | 
- | [zh_Hant]({{< ref "/f39/language/zh_Hant.md" >}}) | 35369 | 35369 | 100.0 | /mnt/stockage/packages/f39/cgit/po/zh_TW.po | 
- | [fr]({{< ref "/f39/language/fr.md" >}}) | 38932 | 38945 | 100.0 | /mnt/stockage/packages/f39/cgit/git-gui/po/fr.po/mnt/stockage/packages/f39/cgit/git-gui/po/glossary/fr.po/mnt/stockage/packages/f39/cgit/gitk-git/po/fr.po/mnt/stockage/packages/f39/cgit/po/fr.po | 
- | [ja]({{< ref "/f39/language/ja.md" >}}) | 3675 | 3677 | 99.9 | /mnt/stockage/packages/f39/cgit/git-gui/po/ja.po/mnt/stockage/packages/f39/cgit/gitk-git/po/ja.po | 
- | [zh_Hans]({{< ref "/f39/language/zh_Hans.md" >}}) | 38361 | 38439 | 99.8 | /mnt/stockage/packages/f39/cgit/git-gui/po/zh_cn.po/mnt/stockage/packages/f39/cgit/git-gui/po/glossary/zh_cn.po/mnt/stockage/packages/f39/cgit/gitk-git/po/zh_cn.po/mnt/stockage/packages/f39/cgit/po/zh_CN.po | 
- | [it]({{< ref "/f39/language/it.md" >}}) | 37440 | 37613 | 99.5 | /mnt/stockage/packages/f39/cgit/git-gui/po/it.po/mnt/stockage/packages/f39/cgit/git-gui/po/glossary/it.po/mnt/stockage/packages/f39/cgit/gitk-git/po/it.po/mnt/stockage/packages/f39/cgit/po/it.po | 
- | [es]({{< ref "/f39/language/es.md" >}}) | 35996 | 36497 | 98.6 | /mnt/stockage/packages/f39/cgit/gitk-git/po/es.po/mnt/stockage/packages/f39/cgit/po/es.po | 
- | [hu]({{< ref "/f39/language/hu.md" >}}) | 3304 | 3463 | 95.4 | /mnt/stockage/packages/f39/cgit/git-gui/po/hu.po/mnt/stockage/packages/f39/cgit/gitk-git/po/hu.po | 
- | [pt_BR]({{< ref "/f39/language/pt_BR.md" >}}) | 3391 | 3569 | 95.0 | /mnt/stockage/packages/f39/cgit/git-gui/po/pt_br.po/mnt/stockage/packages/f39/cgit/git-gui/po/glossary/pt_br.po/mnt/stockage/packages/f39/cgit/gitk-git/po/pt_br.po | 
- | [ca]({{< ref "/f39/language/ca.md" >}}) | 31142 | 36496 | 85.3 | /mnt/stockage/packages/f39/cgit/gitk-git/po/ca.po/mnt/stockage/packages/f39/cgit/po/ca.po | 
- | [nb_NO]({{< ref "/f39/language/nb_NO.md" >}}) | 1882 | 2325 | 80.9 | /mnt/stockage/packages/f39/cgit/git-gui/po/nb.po | 
- | [pt_PT]({{< ref "/f39/language/pt_PT.md" >}}) | 27071 | 35572 | 76.1 | /mnt/stockage/packages/f39/cgit/po/pt_PT.po | 
- | [ru]({{< ref "/f39/language/ru.md" >}}) | 26804 | 38073 | 70.4 | /mnt/stockage/packages/f39/cgit/git-gui/po/ru.po/mnt/stockage/packages/f39/cgit/gitk-git/po/ru.po/mnt/stockage/packages/f39/cgit/po/ru.po | 
- | [id]({{< ref "/f39/language/id.md" >}}) | 22362 | 35369 | 63.2 | /mnt/stockage/packages/f39/cgit/po/id.po | 
- | [el]({{< ref "/f39/language/el.md" >}}) | 9779 | 31237 | 31.3 | /mnt/stockage/packages/f39/cgit/git-gui/po/el.po/mnt/stockage/packages/f39/cgit/git-gui/po/glossary/el.po/mnt/stockage/packages/f39/cgit/po/el.po | 
+ | [bg](/f39/language/bg) | 39262 | 39262 | 100.0 | /mnt/stockage/packages/f39/cgit/git-gui/po/bg.po/mnt/stockage/packages/f39/cgit/git-gui/po/glossary/bg.po/mnt/stockage/packages/f39/cgit/gitk-git/po/bg.po/mnt/stockage/packages/f39/cgit/po/bg.po | 
+ | [de](/f39/language/de) | 39339 | 39339 | 100.0 | /mnt/stockage/packages/f39/cgit/git-gui/po/de.po/mnt/stockage/packages/f39/cgit/git-gui/po/glossary/de.po/mnt/stockage/packages/f39/cgit/gitk-git/po/de.po/mnt/stockage/packages/f39/cgit/po/de.po | 
+ | [is](/f39/language/is) | 81 | 81 | 100.0 | /mnt/stockage/packages/f39/cgit/po/is.po | 
+ | [ko](/f39/language/ko) | 24346 | 24346 | 100.0 | /mnt/stockage/packages/f39/cgit/po/ko.po | 
+ | [pl](/f39/language/pl) | 35369 | 35369 | 100.0 | /mnt/stockage/packages/f39/cgit/po/pl.po | 
+ | [pt](/f39/language/pt) | 3808 | 3808 | 100.0 | /mnt/stockage/packages/f39/cgit/git-gui/po/pt_pt.po/mnt/stockage/packages/f39/cgit/git-gui/po/glossary/pt_pt.po/mnt/stockage/packages/f39/cgit/gitk-git/po/pt_pt.po | 
+ | [sv](/f39/language/sv) | 39046 | 39046 | 100.0 | /mnt/stockage/packages/f39/cgit/git-gui/po/sv.po/mnt/stockage/packages/f39/cgit/gitk-git/po/sv.po/mnt/stockage/packages/f39/cgit/po/sv.po | 
+ | [tr](/f39/language/tr) | 35369 | 35369 | 100.0 | /mnt/stockage/packages/f39/cgit/po/tr.po | 
+ | [vi](/f39/language/vi) | 39021 | 39021 | 100.0 | /mnt/stockage/packages/f39/cgit/git-gui/po/vi.po/mnt/stockage/packages/f39/cgit/gitk-git/po/vi.po/mnt/stockage/packages/f39/cgit/po/vi.po | 
+ | [zh_Hant](/f39/language/zh_Hant) | 35369 | 35369 | 100.0 | /mnt/stockage/packages/f39/cgit/po/zh_TW.po | 
+ | [fr](/f39/language/fr) | 38932 | 38945 | 100.0 | /mnt/stockage/packages/f39/cgit/git-gui/po/fr.po/mnt/stockage/packages/f39/cgit/git-gui/po/glossary/fr.po/mnt/stockage/packages/f39/cgit/gitk-git/po/fr.po/mnt/stockage/packages/f39/cgit/po/fr.po | 
+ | [ja](/f39/language/ja) | 3675 | 3677 | 99.9 | /mnt/stockage/packages/f39/cgit/git-gui/po/ja.po/mnt/stockage/packages/f39/cgit/gitk-git/po/ja.po | 
+ | [zh_Hans](/f39/language/zh_Hans) | 38361 | 38439 | 99.8 | /mnt/stockage/packages/f39/cgit/git-gui/po/zh_cn.po/mnt/stockage/packages/f39/cgit/git-gui/po/glossary/zh_cn.po/mnt/stockage/packages/f39/cgit/gitk-git/po/zh_cn.po/mnt/stockage/packages/f39/cgit/po/zh_CN.po | 
+ | [it](/f39/language/it) | 37440 | 37613 | 99.5 | /mnt/stockage/packages/f39/cgit/git-gui/po/it.po/mnt/stockage/packages/f39/cgit/git-gui/po/glossary/it.po/mnt/stockage/packages/f39/cgit/gitk-git/po/it.po/mnt/stockage/packages/f39/cgit/po/it.po | 
+ | [es](/f39/language/es) | 35996 | 36497 | 98.6 | /mnt/stockage/packages/f39/cgit/gitk-git/po/es.po/mnt/stockage/packages/f39/cgit/po/es.po | 
+ | [hu](/f39/language/hu) | 3304 | 3463 | 95.4 | /mnt/stockage/packages/f39/cgit/git-gui/po/hu.po/mnt/stockage/packages/f39/cgit/gitk-git/po/hu.po | 
+ | [pt_BR](/f39/language/pt_BR) | 3391 | 3569 | 95.0 | /mnt/stockage/packages/f39/cgit/git-gui/po/pt_br.po/mnt/stockage/packages/f39/cgit/git-gui/po/glossary/pt_br.po/mnt/stockage/packages/f39/cgit/gitk-git/po/pt_br.po | 
+ | [ca](/f39/language/ca) | 31142 | 36496 | 85.3 | /mnt/stockage/packages/f39/cgit/gitk-git/po/ca.po/mnt/stockage/packages/f39/cgit/po/ca.po | 
+ | [nb_NO](/f39/language/nb_NO) | 1882 | 2325 | 80.9 | /mnt/stockage/packages/f39/cgit/git-gui/po/nb.po | 
+ | [pt_PT](/f39/language/pt_PT) | 27071 | 35572 | 76.1 | /mnt/stockage/packages/f39/cgit/po/pt_PT.po | 
+ | [ru](/f39/language/ru) | 26804 | 38073 | 70.4 | /mnt/stockage/packages/f39/cgit/git-gui/po/ru.po/mnt/stockage/packages/f39/cgit/gitk-git/po/ru.po/mnt/stockage/packages/f39/cgit/po/ru.po | 
+ | [id](/f39/language/id) | 22362 | 35369 | 63.2 | /mnt/stockage/packages/f39/cgit/po/id.po | 
+ | [el](/f39/language/el) | 9779 | 31237 | 31.3 | /mnt/stockage/packages/f39/cgit/git-gui/po/el.po/mnt/stockage/packages/f39/cgit/git-gui/po/glossary/el.po/mnt/stockage/packages/f39/cgit/po/el.po | 
 {.sortable}
 
 

@@ -38,8 +38,8 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [gtk-vnc]({{< ref "/f35/package/gtk-vnc.md" >}}) | 8 | 8 | 100.0 | Wayuunaiki | 
- | [mingw-gtk-vnc]({{< ref "/f35/package/mingw-gtk-vnc.md" >}}) | 8 | 8 | 100.0 | Wayuunaiki | 
+ | [gtk-vnc](/f35/package/gtk-vnc) | 8 | 8 | 100.0 | Wayuunaiki | 
+ | [mingw-gtk-vnc](/f35/package/mingw-gtk-vnc) | 8 | 8 | 100.0 | Wayuunaiki | 
 {.sortable}
 
 

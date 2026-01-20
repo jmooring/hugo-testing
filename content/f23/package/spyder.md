@@ -18,8 +18,8 @@ The package spyder (version 2.3.8):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f23/language/fr.md" >}}) | 5203 | 5212 | 99.8 | /mnt/stockage/packages/f23/spyder/spyderlib/locale/fr/LC_MESSAGES/spyderlib.po/mnt/stockage/packages/f23/spyder/spyderplugins/locale/fr/LC_MESSAGES/p_breakpoints.po/mnt/stockage/packages/f23/spyder/spyderplugins/locale/fr/LC_MESSAGES/p_profiler.po/mnt/stockage/packages/f23/spyder/spyderplugins/locale/fr/LC_MESSAGES/p_pylint.po | 
- | [es]({{< ref "/f23/language/es.md" >}}) | 5068 | 5212 | 97.2 | /mnt/stockage/packages/f23/spyder/spyderlib/locale/es/LC_MESSAGES/spyderlib.po/mnt/stockage/packages/f23/spyder/spyderplugins/locale/es/LC_MESSAGES/p_breakpoints.po/mnt/stockage/packages/f23/spyder/spyderplugins/locale/es/LC_MESSAGES/p_profiler.po/mnt/stockage/packages/f23/spyder/spyderplugins/locale/es/LC_MESSAGES/p_pylint.po | 
+ | [fr](/f23/language/fr) | 5203 | 5212 | 99.8 | /mnt/stockage/packages/f23/spyder/spyderlib/locale/fr/LC_MESSAGES/spyderlib.po/mnt/stockage/packages/f23/spyder/spyderplugins/locale/fr/LC_MESSAGES/p_breakpoints.po/mnt/stockage/packages/f23/spyder/spyderplugins/locale/fr/LC_MESSAGES/p_profiler.po/mnt/stockage/packages/f23/spyder/spyderplugins/locale/fr/LC_MESSAGES/p_pylint.po | 
+ | [es](/f23/language/es) | 5068 | 5212 | 97.2 | /mnt/stockage/packages/f23/spyder/spyderlib/locale/es/LC_MESSAGES/spyderlib.po/mnt/stockage/packages/f23/spyder/spyderplugins/locale/es/LC_MESSAGES/p_breakpoints.po/mnt/stockage/packages/f23/spyder/spyderplugins/locale/es/LC_MESSAGES/p_profiler.po/mnt/stockage/packages/f23/spyder/spyderplugins/locale/es/LC_MESSAGES/p_pylint.po | 
 {.sortable}
 
 

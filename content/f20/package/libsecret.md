@@ -18,28 +18,28 @@ The package libsecret (version 0.16):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f20/language/cs.md" >}}) | 59 | 59 | 100.0 | /mnt/stockage/packages/f20/libsecret/po/cs.po | 
- | [da]({{< ref "/f20/language/da.md" >}}) | 59 | 59 | 100.0 | /mnt/stockage/packages/f20/libsecret/po/da.po | 
- | [de]({{< ref "/f20/language/de.md" >}}) | 59 | 59 | 100.0 | /mnt/stockage/packages/f20/libsecret/po/de.po | 
- | [es]({{< ref "/f20/language/es.md" >}}) | 59 | 59 | 100.0 | /mnt/stockage/packages/f20/libsecret/po/es.po | 
- | [fr]({{< ref "/f20/language/fr.md" >}}) | 59 | 59 | 100.0 | /mnt/stockage/packages/f20/libsecret/po/fr.po | 
- | [gl]({{< ref "/f20/language/gl.md" >}}) | 59 | 59 | 100.0 | /mnt/stockage/packages/f20/libsecret/po/gl.po | 
- | [he]({{< ref "/f20/language/he.md" >}}) | 59 | 59 | 100.0 | /mnt/stockage/packages/f20/libsecret/po/he.po | 
- | [hu]({{< ref "/f20/language/hu.md" >}}) | 59 | 59 | 100.0 | /mnt/stockage/packages/f20/libsecret/po/hu.po | 
- | [id]({{< ref "/f20/language/id.md" >}}) | 59 | 59 | 100.0 | /mnt/stockage/packages/f20/libsecret/po/id.po | 
- | [it]({{< ref "/f20/language/it.md" >}}) | 59 | 59 | 100.0 | /mnt/stockage/packages/f20/libsecret/po/it.po | 
- | [ja]({{< ref "/f20/language/ja.md" >}}) | 44 | 44 | 100.0 | /mnt/stockage/packages/f20/libsecret/po/ja.po | 
- | [lt]({{< ref "/f20/language/lt.md" >}}) | 59 | 59 | 100.0 | /mnt/stockage/packages/f20/libsecret/po/lt.po | 
- | [nb_NO]({{< ref "/f20/language/nb_NO.md" >}}) | 59 | 59 | 100.0 | /mnt/stockage/packages/f20/libsecret/po/nb.po | 
- | [pl]({{< ref "/f20/language/pl.md" >}}) | 59 | 59 | 100.0 | /mnt/stockage/packages/f20/libsecret/po/pl.po | 
- | [pt_BR]({{< ref "/f20/language/pt_BR.md" >}}) | 59 | 59 | 100.0 | /mnt/stockage/packages/f20/libsecret/po/pt_BR.po | 
- | [ru]({{< ref "/f20/language/ru.md" >}}) | 59 | 59 | 100.0 | /mnt/stockage/packages/f20/libsecret/po/ru.po | 
- | [sk]({{< ref "/f20/language/sk.md" >}}) | 59 | 59 | 100.0 | /mnt/stockage/packages/f20/libsecret/po/sk.po | 
- | [sl]({{< ref "/f20/language/sl.md" >}}) | 59 | 59 | 100.0 | /mnt/stockage/packages/f20/libsecret/po/sl.po | 
- | [sr]({{< ref "/f20/language/sr.md" >}}) | 118 | 118 | 100.0 | /mnt/stockage/packages/f20/libsecret/po/sr.po/mnt/stockage/packages/f20/libsecret/po/sr@latin.po | 
- | [zh_Hant]({{< ref "/f20/language/zh_Hant.md" >}}) | 118 | 118 | 100.0 | /mnt/stockage/packages/f20/libsecret/po/zh_HK.po/mnt/stockage/packages/f20/libsecret/po/zh_TW.po | 
- | [fur]({{< ref "/f20/language/fur.md" >}}) | 44 | 59 | 74.6 | /mnt/stockage/packages/f20/libsecret/po/fur.po | 
- | [pa]({{< ref "/f20/language/pa.md" >}}) | 27 | 59 | 45.8 | /mnt/stockage/packages/f20/libsecret/po/pa.po | 
+ | [cs](/f20/language/cs) | 59 | 59 | 100.0 | /mnt/stockage/packages/f20/libsecret/po/cs.po | 
+ | [da](/f20/language/da) | 59 | 59 | 100.0 | /mnt/stockage/packages/f20/libsecret/po/da.po | 
+ | [de](/f20/language/de) | 59 | 59 | 100.0 | /mnt/stockage/packages/f20/libsecret/po/de.po | 
+ | [es](/f20/language/es) | 59 | 59 | 100.0 | /mnt/stockage/packages/f20/libsecret/po/es.po | 
+ | [fr](/f20/language/fr) | 59 | 59 | 100.0 | /mnt/stockage/packages/f20/libsecret/po/fr.po | 
+ | [gl](/f20/language/gl) | 59 | 59 | 100.0 | /mnt/stockage/packages/f20/libsecret/po/gl.po | 
+ | [he](/f20/language/he) | 59 | 59 | 100.0 | /mnt/stockage/packages/f20/libsecret/po/he.po | 
+ | [hu](/f20/language/hu) | 59 | 59 | 100.0 | /mnt/stockage/packages/f20/libsecret/po/hu.po | 
+ | [id](/f20/language/id) | 59 | 59 | 100.0 | /mnt/stockage/packages/f20/libsecret/po/id.po | 
+ | [it](/f20/language/it) | 59 | 59 | 100.0 | /mnt/stockage/packages/f20/libsecret/po/it.po | 
+ | [ja](/f20/language/ja) | 44 | 44 | 100.0 | /mnt/stockage/packages/f20/libsecret/po/ja.po | 
+ | [lt](/f20/language/lt) | 59 | 59 | 100.0 | /mnt/stockage/packages/f20/libsecret/po/lt.po | 
+ | [nb_NO](/f20/language/nb_NO) | 59 | 59 | 100.0 | /mnt/stockage/packages/f20/libsecret/po/nb.po | 
+ | [pl](/f20/language/pl) | 59 | 59 | 100.0 | /mnt/stockage/packages/f20/libsecret/po/pl.po | 
+ | [pt_BR](/f20/language/pt_BR) | 59 | 59 | 100.0 | /mnt/stockage/packages/f20/libsecret/po/pt_BR.po | 
+ | [ru](/f20/language/ru) | 59 | 59 | 100.0 | /mnt/stockage/packages/f20/libsecret/po/ru.po | 
+ | [sk](/f20/language/sk) | 59 | 59 | 100.0 | /mnt/stockage/packages/f20/libsecret/po/sk.po | 
+ | [sl](/f20/language/sl) | 59 | 59 | 100.0 | /mnt/stockage/packages/f20/libsecret/po/sl.po | 
+ | [sr](/f20/language/sr) | 118 | 118 | 100.0 | /mnt/stockage/packages/f20/libsecret/po/sr.po/mnt/stockage/packages/f20/libsecret/po/sr@latin.po | 
+ | [zh_Hant](/f20/language/zh_Hant) | 118 | 118 | 100.0 | /mnt/stockage/packages/f20/libsecret/po/zh_HK.po/mnt/stockage/packages/f20/libsecret/po/zh_TW.po | 
+ | [fur](/f20/language/fur) | 44 | 59 | 74.6 | /mnt/stockage/packages/f20/libsecret/po/fur.po | 
+ | [pa](/f20/language/pa) | 27 | 59 | 45.8 | /mnt/stockage/packages/f20/libsecret/po/pa.po | 
 {.sortable}
 
 

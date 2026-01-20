@@ -18,18 +18,18 @@ The package xz (version 5.2.5):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f32/language/de.md" >}}) | 11852 | 11852 | 100.0 | /mnt/stockage/packages/f32/xz/po/de.po/mnt/stockage/packages/f32/xz/po4a/de.po | 
- | [fi]({{< ref "/f32/language/fi.md" >}}) | 1379 | 1379 | 100.0 | /mnt/stockage/packages/f32/xz/po/fi.po | 
- | [fr]({{< ref "/f32/language/fr.md" >}}) | 1379 | 1379 | 100.0 | /mnt/stockage/packages/f32/xz/po/fr.po | 
- | [hu]({{< ref "/f32/language/hu.md" >}}) | 1379 | 1379 | 100.0 | /mnt/stockage/packages/f32/xz/po/hu.po | 
- | [it]({{< ref "/f32/language/it.md" >}}) | 1379 | 1379 | 100.0 | /mnt/stockage/packages/f32/xz/po/it.po | 
- | [pl]({{< ref "/f32/language/pl.md" >}}) | 1379 | 1379 | 100.0 | /mnt/stockage/packages/f32/xz/po/pl.po | 
- | [pt_BR]({{< ref "/f32/language/pt_BR.md" >}}) | 1379 | 1379 | 100.0 | /mnt/stockage/packages/f32/xz/po/pt_BR.po | 
- | [zh_Hans]({{< ref "/f32/language/zh_Hans.md" >}}) | 1379 | 1379 | 100.0 | /mnt/stockage/packages/f32/xz/po/zh_CN.po | 
- | [vi]({{< ref "/f32/language/vi.md" >}}) | 1360 | 1379 | 98.6 | /mnt/stockage/packages/f32/xz/po/vi.po | 
- | [zh_Hant]({{< ref "/f32/language/zh_Hant.md" >}}) | 1320 | 1379 | 95.7 | /mnt/stockage/packages/f32/xz/po/zh_TW.po | 
- | [cs]({{< ref "/f32/language/cs.md" >}}) | 1130 | 1379 | 81.9 | /mnt/stockage/packages/f32/xz/po/cs.po | 
- | [da]({{< ref "/f32/language/da.md" >}}) | 782 | 1379 | 56.7 | /mnt/stockage/packages/f32/xz/po/da.po | 
+ | [de](/f32/language/de) | 11852 | 11852 | 100.0 | /mnt/stockage/packages/f32/xz/po/de.po/mnt/stockage/packages/f32/xz/po4a/de.po | 
+ | [fi](/f32/language/fi) | 1379 | 1379 | 100.0 | /mnt/stockage/packages/f32/xz/po/fi.po | 
+ | [fr](/f32/language/fr) | 1379 | 1379 | 100.0 | /mnt/stockage/packages/f32/xz/po/fr.po | 
+ | [hu](/f32/language/hu) | 1379 | 1379 | 100.0 | /mnt/stockage/packages/f32/xz/po/hu.po | 
+ | [it](/f32/language/it) | 1379 | 1379 | 100.0 | /mnt/stockage/packages/f32/xz/po/it.po | 
+ | [pl](/f32/language/pl) | 1379 | 1379 | 100.0 | /mnt/stockage/packages/f32/xz/po/pl.po | 
+ | [pt_BR](/f32/language/pt_BR) | 1379 | 1379 | 100.0 | /mnt/stockage/packages/f32/xz/po/pt_BR.po | 
+ | [zh_Hans](/f32/language/zh_Hans) | 1379 | 1379 | 100.0 | /mnt/stockage/packages/f32/xz/po/zh_CN.po | 
+ | [vi](/f32/language/vi) | 1360 | 1379 | 98.6 | /mnt/stockage/packages/f32/xz/po/vi.po | 
+ | [zh_Hant](/f32/language/zh_Hant) | 1320 | 1379 | 95.7 | /mnt/stockage/packages/f32/xz/po/zh_TW.po | 
+ | [cs](/f32/language/cs) | 1130 | 1379 | 81.9 | /mnt/stockage/packages/f32/xz/po/cs.po | 
+ | [da](/f32/language/da) | 782 | 1379 | 56.7 | /mnt/stockage/packages/f32/xz/po/da.po | 
 {.sortable}
 
 

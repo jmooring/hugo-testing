@@ -18,14 +18,14 @@ The package trytond-product (version 2.2.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f17/language/de.md" >}}) | 345 | 345 | 100.0 | /mnt/stockage/packages/f17/trytond-product/locale/de_DE.po | 
- | [fr]({{< ref "/f17/language/fr.md" >}}) | 288 | 288 | 100.0 | /mnt/stockage/packages/f17/trytond-product/locale/fr_FR.po | 
- | [es_CO]({{< ref "/f17/language/es_CO.md" >}}) | 281 | 289 | 97.2 | /mnt/stockage/packages/f17/trytond-product/locale/es_CO.po | 
- | [bg]({{< ref "/f17/language/bg.md" >}}) | 261 | 269 | 97.0 | /mnt/stockage/packages/f17/trytond-product/locale/bg_BG.po | 
- | [es]({{< ref "/f17/language/es.md" >}}) | 260 | 273 | 95.2 | /mnt/stockage/packages/f17/trytond-product/locale/es_ES.po | 
- | [nl]({{< ref "/f17/language/nl.md" >}}) | 344 | 385 | 89.4 | /mnt/stockage/packages/f17/trytond-product/locale/nl_NL.po | 
- | [ru]({{< ref "/f17/language/ru.md" >}}) | 207 | 269 | 77.0 | /mnt/stockage/packages/f17/trytond-product/locale/ru_RU.po | 
- | [cs]({{< ref "/f17/language/cs.md" >}}) | 0 | 269 | 0.0 | /mnt/stockage/packages/f17/trytond-product/locale/cs_CZ.po | 
+ | [de](/f17/language/de) | 345 | 345 | 100.0 | /mnt/stockage/packages/f17/trytond-product/locale/de_DE.po | 
+ | [fr](/f17/language/fr) | 288 | 288 | 100.0 | /mnt/stockage/packages/f17/trytond-product/locale/fr_FR.po | 
+ | [es_CO](/f17/language/es_CO) | 281 | 289 | 97.2 | /mnt/stockage/packages/f17/trytond-product/locale/es_CO.po | 
+ | [bg](/f17/language/bg) | 261 | 269 | 97.0 | /mnt/stockage/packages/f17/trytond-product/locale/bg_BG.po | 
+ | [es](/f17/language/es) | 260 | 273 | 95.2 | /mnt/stockage/packages/f17/trytond-product/locale/es_ES.po | 
+ | [nl](/f17/language/nl) | 344 | 385 | 89.4 | /mnt/stockage/packages/f17/trytond-product/locale/nl_NL.po | 
+ | [ru](/f17/language/ru) | 207 | 269 | 77.0 | /mnt/stockage/packages/f17/trytond-product/locale/ru_RU.po | 
+ | [cs](/f17/language/cs) | 0 | 269 | 0.0 | /mnt/stockage/packages/f17/trytond-product/locale/cs_CZ.po | 
 {.sortable}
 
 

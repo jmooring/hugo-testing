@@ -18,16 +18,16 @@ The package trytond-account-product (version 2.6.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [bg]({{< ref "/f21/language/bg.md" >}}) | 201 | 201 | 100.0 | /mnt/stockage/packages/f21/trytond-account-product/locale/bg_BG.po | 
- | [ca]({{< ref "/f21/language/ca.md" >}}) | 201 | 201 | 100.0 | /mnt/stockage/packages/f21/trytond-account-product/locale/ca_ES.po | 
- | [de]({{< ref "/f21/language/de.md" >}}) | 203 | 203 | 100.0 | /mnt/stockage/packages/f21/trytond-account-product/locale/de_DE.po | 
- | [es]({{< ref "/f21/language/es.md" >}}) | 202 | 202 | 100.0 | /mnt/stockage/packages/f21/trytond-account-product/locale/es_ES.po | 
- | [es_AR]({{< ref "/f21/language/es_AR.md" >}}) | 202 | 202 | 100.0 | /mnt/stockage/packages/f21/trytond-account-product/locale/es_AR.po | 
- | [es_CO]({{< ref "/f21/language/es_CO.md" >}}) | 202 | 202 | 100.0 | /mnt/stockage/packages/f21/trytond-account-product/locale/es_CO.po | 
- | [fr]({{< ref "/f21/language/fr.md" >}}) | 218 | 218 | 100.0 | /mnt/stockage/packages/f21/trytond-account-product/locale/fr_FR.po | 
- | [nl]({{< ref "/f21/language/nl.md" >}}) | 114 | 201 | 56.7 | /mnt/stockage/packages/f21/trytond-account-product/locale/nl_NL.po | 
- | [cs]({{< ref "/f21/language/cs.md" >}}) | 0 | 201 | 0.0 | /mnt/stockage/packages/f21/trytond-account-product/locale/cs_CZ.po | 
- | [ru]({{< ref "/f21/language/ru.md" >}}) | 0 | 201 | 0.0 | /mnt/stockage/packages/f21/trytond-account-product/locale/ru_RU.po | 
+ | [bg](/f21/language/bg) | 201 | 201 | 100.0 | /mnt/stockage/packages/f21/trytond-account-product/locale/bg_BG.po | 
+ | [ca](/f21/language/ca) | 201 | 201 | 100.0 | /mnt/stockage/packages/f21/trytond-account-product/locale/ca_ES.po | 
+ | [de](/f21/language/de) | 203 | 203 | 100.0 | /mnt/stockage/packages/f21/trytond-account-product/locale/de_DE.po | 
+ | [es](/f21/language/es) | 202 | 202 | 100.0 | /mnt/stockage/packages/f21/trytond-account-product/locale/es_ES.po | 
+ | [es_AR](/f21/language/es_AR) | 202 | 202 | 100.0 | /mnt/stockage/packages/f21/trytond-account-product/locale/es_AR.po | 
+ | [es_CO](/f21/language/es_CO) | 202 | 202 | 100.0 | /mnt/stockage/packages/f21/trytond-account-product/locale/es_CO.po | 
+ | [fr](/f21/language/fr) | 218 | 218 | 100.0 | /mnt/stockage/packages/f21/trytond-account-product/locale/fr_FR.po | 
+ | [nl](/f21/language/nl) | 114 | 201 | 56.7 | /mnt/stockage/packages/f21/trytond-account-product/locale/nl_NL.po | 
+ | [cs](/f21/language/cs) | 0 | 201 | 0.0 | /mnt/stockage/packages/f21/trytond-account-product/locale/cs_CZ.po | 
+ | [ru](/f21/language/ru) | 0 | 201 | 0.0 | /mnt/stockage/packages/f21/trytond-account-product/locale/ru_RU.po | 
 {.sortable}
 
 

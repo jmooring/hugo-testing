@@ -18,91 +18,91 @@ The package kf5-kiconthemes (version 5.73.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ast]({{< ref "/f31/language/ast.md" >}}) | 37 | 37 | 100.0 | /mnt/stockage/packages/f31/kf5-kiconthemes/po/ast/kiconthemes5.po | 
- | [az]({{< ref "/f31/language/az.md" >}}) | 37 | 37 | 100.0 | /mnt/stockage/packages/f31/kf5-kiconthemes/po/az/kiconthemes5.po | 
- | [ca]({{< ref "/f31/language/ca.md" >}}) | 37 | 37 | 100.0 | /mnt/stockage/packages/f31/kf5-kiconthemes/po/ca/kiconthemes5.po | 
- | [ca@valencia]({{< ref "/f31/language/ca@valencia.md" >}}) | 37 | 37 | 100.0 | /mnt/stockage/packages/f31/kf5-kiconthemes/po/ca@valencia/kiconthemes5.po | 
- | [cs]({{< ref "/f31/language/cs.md" >}}) | 37 | 37 | 100.0 | /mnt/stockage/packages/f31/kf5-kiconthemes/po/cs/kiconthemes5.po | 
- | [da]({{< ref "/f31/language/da.md" >}}) | 37 | 37 | 100.0 | /mnt/stockage/packages/f31/kf5-kiconthemes/po/da/kiconthemes5.po | 
- | [de]({{< ref "/f31/language/de.md" >}}) | 37 | 37 | 100.0 | /mnt/stockage/packages/f31/kf5-kiconthemes/po/de/kiconthemes5.po | 
- | [en_GB]({{< ref "/f31/language/en_GB.md" >}}) | 37 | 37 | 100.0 | /mnt/stockage/packages/f31/kf5-kiconthemes/po/en_GB/kiconthemes5.po | 
- | [es]({{< ref "/f31/language/es.md" >}}) | 37 | 37 | 100.0 | /mnt/stockage/packages/f31/kf5-kiconthemes/po/es/kiconthemes5.po | 
- | [et]({{< ref "/f31/language/et.md" >}}) | 37 | 37 | 100.0 | /mnt/stockage/packages/f31/kf5-kiconthemes/po/et/kiconthemes5.po | 
- | [eu]({{< ref "/f31/language/eu.md" >}}) | 37 | 37 | 100.0 | /mnt/stockage/packages/f31/kf5-kiconthemes/po/eu/kiconthemes5.po | 
- | [fi]({{< ref "/f31/language/fi.md" >}}) | 37 | 37 | 100.0 | /mnt/stockage/packages/f31/kf5-kiconthemes/po/fi/kiconthemes5.po | 
- | [fr]({{< ref "/f31/language/fr.md" >}}) | 37 | 37 | 100.0 | /mnt/stockage/packages/f31/kf5-kiconthemes/po/fr/kiconthemes5.po | 
- | [gl]({{< ref "/f31/language/gl.md" >}}) | 37 | 37 | 100.0 | /mnt/stockage/packages/f31/kf5-kiconthemes/po/gl/kiconthemes5.po | 
- | [hu]({{< ref "/f31/language/hu.md" >}}) | 37 | 37 | 100.0 | /mnt/stockage/packages/f31/kf5-kiconthemes/po/hu/kiconthemes5.po | 
- | [ia]({{< ref "/f31/language/ia.md" >}}) | 37 | 37 | 100.0 | /mnt/stockage/packages/f31/kf5-kiconthemes/po/ia/kiconthemes5.po | 
- | [id]({{< ref "/f31/language/id.md" >}}) | 37 | 37 | 100.0 | /mnt/stockage/packages/f31/kf5-kiconthemes/po/id/kiconthemes5.po | 
- | [it]({{< ref "/f31/language/it.md" >}}) | 37 | 37 | 100.0 | /mnt/stockage/packages/f31/kf5-kiconthemes/po/it/kiconthemes5.po | 
- | [ko]({{< ref "/f31/language/ko.md" >}}) | 37 | 37 | 100.0 | /mnt/stockage/packages/f31/kf5-kiconthemes/po/ko/kiconthemes5.po | 
- | [lt]({{< ref "/f31/language/lt.md" >}}) | 37 | 37 | 100.0 | /mnt/stockage/packages/f31/kf5-kiconthemes/po/lt/kiconthemes5.po | 
- | [nl]({{< ref "/f31/language/nl.md" >}}) | 37 | 37 | 100.0 | /mnt/stockage/packages/f31/kf5-kiconthemes/po/nl/kiconthemes5.po | 
- | [nn]({{< ref "/f31/language/nn.md" >}}) | 37 | 37 | 100.0 | /mnt/stockage/packages/f31/kf5-kiconthemes/po/nn/kiconthemes5.po | 
- | [pl]({{< ref "/f31/language/pl.md" >}}) | 37 | 37 | 100.0 | /mnt/stockage/packages/f31/kf5-kiconthemes/po/pl/kiconthemes5.po | 
- | [pt]({{< ref "/f31/language/pt.md" >}}) | 37 | 37 | 100.0 | /mnt/stockage/packages/f31/kf5-kiconthemes/po/pt/kiconthemes5.po | 
- | [pt_BR]({{< ref "/f31/language/pt_BR.md" >}}) | 37 | 37 | 100.0 | /mnt/stockage/packages/f31/kf5-kiconthemes/po/pt_BR/kiconthemes5.po | 
- | [ru]({{< ref "/f31/language/ru.md" >}}) | 37 | 37 | 100.0 | /mnt/stockage/packages/f31/kf5-kiconthemes/po/ru/kiconthemes5.po | 
- | [sk]({{< ref "/f31/language/sk.md" >}}) | 37 | 37 | 100.0 | /mnt/stockage/packages/f31/kf5-kiconthemes/po/sk/kiconthemes5.po | 
- | [sl]({{< ref "/f31/language/sl.md" >}}) | 37 | 37 | 100.0 | /mnt/stockage/packages/f31/kf5-kiconthemes/po/sl/kiconthemes5.po | 
- | [sv]({{< ref "/f31/language/sv.md" >}}) | 37 | 37 | 100.0 | /mnt/stockage/packages/f31/kf5-kiconthemes/po/sv/kiconthemes5.po | 
- | [tg]({{< ref "/f31/language/tg.md" >}}) | 37 | 37 | 100.0 | /mnt/stockage/packages/f31/kf5-kiconthemes/po/tg/kiconthemes5.po | 
- | [uk]({{< ref "/f31/language/uk.md" >}}) | 37 | 37 | 100.0 | /mnt/stockage/packages/f31/kf5-kiconthemes/po/uk/kiconthemes5.po | 
- | [zh_Hans]({{< ref "/f31/language/zh_Hans.md" >}}) | 37 | 37 | 100.0 | /mnt/stockage/packages/f31/kf5-kiconthemes/po/zh_CN/kiconthemes5.po | 
- | [zh_Hant]({{< ref "/f31/language/zh_Hant.md" >}}) | 37 | 37 | 100.0 | /mnt/stockage/packages/f31/kf5-kiconthemes/po/zh_TW/kiconthemes5.po | 
- | [ar]({{< ref "/f31/language/ar.md" >}}) | 26 | 37 | 70.3 | /mnt/stockage/packages/f31/kf5-kiconthemes/po/ar/kiconthemes5.po | 
- | [el]({{< ref "/f31/language/el.md" >}}) | 26 | 37 | 70.3 | /mnt/stockage/packages/f31/kf5-kiconthemes/po/el/kiconthemes5.po | 
- | [ja]({{< ref "/f31/language/ja.md" >}}) | 26 | 37 | 70.3 | /mnt/stockage/packages/f31/kf5-kiconthemes/po/ja/kiconthemes5.po | 
- | [se]({{< ref "/f31/language/se.md" >}}) | 26 | 37 | 70.3 | /mnt/stockage/packages/f31/kf5-kiconthemes/po/se/kiconthemes5.po | 
- | [sr]({{< ref "/f31/language/sr.md" >}}) | 26 | 37 | 70.3 | /mnt/stockage/packages/f31/kf5-kiconthemes/po/sr/kiconthemes5.po | 
- | [sr@ijekavian]({{< ref "/f31/language/sr@ijekavian.md" >}}) | 26 | 37 | 70.3 | /mnt/stockage/packages/f31/kf5-kiconthemes/po/sr@ijekavian/kiconthemes5.po | 
- | [sr@ijekavian_Latn]({{< ref "/f31/language/sr@ijekavian_Latn.md" >}}) | 26 | 37 | 70.3 | /mnt/stockage/packages/f31/kf5-kiconthemes/po/sr@ijekavianlatin/kiconthemes5.po | 
- | [sr_Latn]({{< ref "/f31/language/sr_Latn.md" >}}) | 26 | 37 | 70.3 | /mnt/stockage/packages/f31/kf5-kiconthemes/po/sr@latin/kiconthemes5.po | 
- | [tr]({{< ref "/f31/language/tr.md" >}}) | 26 | 37 | 70.3 | /mnt/stockage/packages/f31/kf5-kiconthemes/po/tr/kiconthemes5.po | 
- | [be_Latn]({{< ref "/f31/language/be_Latn.md" >}}) | 25 | 37 | 67.6 | /mnt/stockage/packages/f31/kf5-kiconthemes/po/be@latin/kiconthemes5.po | 
- | [bg]({{< ref "/f31/language/bg.md" >}}) | 25 | 37 | 67.6 | /mnt/stockage/packages/f31/kf5-kiconthemes/po/bg/kiconthemes5.po | 
- | [bs]({{< ref "/f31/language/bs.md" >}}) | 25 | 37 | 67.6 | /mnt/stockage/packages/f31/kf5-kiconthemes/po/bs/kiconthemes5.po | 
- | [eo]({{< ref "/f31/language/eo.md" >}}) | 25 | 37 | 67.6 | /mnt/stockage/packages/f31/kf5-kiconthemes/po/eo/kiconthemes5.po | 
- | [fa]({{< ref "/f31/language/fa.md" >}}) | 25 | 37 | 67.6 | /mnt/stockage/packages/f31/kf5-kiconthemes/po/fa/kiconthemes5.po | 
- | [fy]({{< ref "/f31/language/fy.md" >}}) | 25 | 37 | 67.6 | /mnt/stockage/packages/f31/kf5-kiconthemes/po/fy/kiconthemes5.po | 
- | [ga]({{< ref "/f31/language/ga.md" >}}) | 25 | 37 | 67.6 | /mnt/stockage/packages/f31/kf5-kiconthemes/po/ga/kiconthemes5.po | 
- | [gd]({{< ref "/f31/language/gd.md" >}}) | 25 | 37 | 67.6 | /mnt/stockage/packages/f31/kf5-kiconthemes/po/gd/kiconthemes5.po | 
- | [gu]({{< ref "/f31/language/gu.md" >}}) | 25 | 37 | 67.6 | /mnt/stockage/packages/f31/kf5-kiconthemes/po/gu/kiconthemes5.po | 
- | [hi]({{< ref "/f31/language/hi.md" >}}) | 25 | 37 | 67.6 | /mnt/stockage/packages/f31/kf5-kiconthemes/po/hi/kiconthemes5.po | 
- | [hr]({{< ref "/f31/language/hr.md" >}}) | 25 | 37 | 67.6 | /mnt/stockage/packages/f31/kf5-kiconthemes/po/hr/kiconthemes5.po | 
- | [hsb]({{< ref "/f31/language/hsb.md" >}}) | 25 | 37 | 67.6 | /mnt/stockage/packages/f31/kf5-kiconthemes/po/hsb/kiconthemes5.po | 
- | [is]({{< ref "/f31/language/is.md" >}}) | 25 | 37 | 67.6 | /mnt/stockage/packages/f31/kf5-kiconthemes/po/is/kiconthemes5.po | 
- | [kk]({{< ref "/f31/language/kk.md" >}}) | 25 | 37 | 67.6 | /mnt/stockage/packages/f31/kf5-kiconthemes/po/kk/kiconthemes5.po | 
- | [km]({{< ref "/f31/language/km.md" >}}) | 25 | 37 | 67.6 | /mnt/stockage/packages/f31/kf5-kiconthemes/po/km/kiconthemes5.po | 
- | [lv]({{< ref "/f31/language/lv.md" >}}) | 25 | 37 | 67.6 | /mnt/stockage/packages/f31/kf5-kiconthemes/po/lv/kiconthemes5.po | 
- | [mai]({{< ref "/f31/language/mai.md" >}}) | 25 | 37 | 67.6 | /mnt/stockage/packages/f31/kf5-kiconthemes/po/mai/kiconthemes5.po | 
- | [mk]({{< ref "/f31/language/mk.md" >}}) | 25 | 37 | 67.6 | /mnt/stockage/packages/f31/kf5-kiconthemes/po/mk/kiconthemes5.po | 
- | [nb_NO]({{< ref "/f31/language/nb_NO.md" >}}) | 25 | 37 | 67.6 | /mnt/stockage/packages/f31/kf5-kiconthemes/po/nb/kiconthemes5.po | 
- | [nds]({{< ref "/f31/language/nds.md" >}}) | 25 | 37 | 67.6 | /mnt/stockage/packages/f31/kf5-kiconthemes/po/nds/kiconthemes5.po | 
- | [ne]({{< ref "/f31/language/ne.md" >}}) | 25 | 37 | 67.6 | /mnt/stockage/packages/f31/kf5-kiconthemes/po/ne/kiconthemes5.po | 
- | [pa]({{< ref "/f31/language/pa.md" >}}) | 25 | 37 | 67.6 | /mnt/stockage/packages/f31/kf5-kiconthemes/po/pa/kiconthemes5.po | 
- | [ro]({{< ref "/f31/language/ro.md" >}}) | 25 | 37 | 67.6 | /mnt/stockage/packages/f31/kf5-kiconthemes/po/ro/kiconthemes5.po | 
- | [ta]({{< ref "/f31/language/ta.md" >}}) | 25 | 37 | 67.6 | /mnt/stockage/packages/f31/kf5-kiconthemes/po/ta/kiconthemes5.po | 
- | [th]({{< ref "/f31/language/th.md" >}}) | 25 | 37 | 67.6 | /mnt/stockage/packages/f31/kf5-kiconthemes/po/th/kiconthemes5.po | 
- | [ug]({{< ref "/f31/language/ug.md" >}}) | 25 | 37 | 67.6 | /mnt/stockage/packages/f31/kf5-kiconthemes/po/ug/kiconthemes5.po | 
- | [vi]({{< ref "/f31/language/vi.md" >}}) | 25 | 37 | 67.6 | /mnt/stockage/packages/f31/kf5-kiconthemes/po/vi/kiconthemes5.po | 
- | [he]({{< ref "/f31/language/he.md" >}}) | 24 | 37 | 64.9 | /mnt/stockage/packages/f31/kf5-kiconthemes/po/he/kiconthemes5.po | 
- | [af]({{< ref "/f31/language/af.md" >}}) | 20 | 37 | 54.1 | /mnt/stockage/packages/f31/kf5-kiconthemes/po/af/kiconthemes5.po | 
- | [be]({{< ref "/f31/language/be.md" >}}) | 20 | 37 | 54.1 | /mnt/stockage/packages/f31/kf5-kiconthemes/po/be/kiconthemes5.po | 
- | [ms]({{< ref "/f31/language/ms.md" >}}) | 20 | 37 | 54.1 | /mnt/stockage/packages/f31/kf5-kiconthemes/po/ms/kiconthemes5.po | 
- | [mr]({{< ref "/f31/language/mr.md" >}}) | 19 | 37 | 51.4 | /mnt/stockage/packages/f31/kf5-kiconthemes/po/mr/kiconthemes5.po | 
- | [wa]({{< ref "/f31/language/wa.md" >}}) | 18 | 37 | 48.6 | /mnt/stockage/packages/f31/kf5-kiconthemes/po/wa/kiconthemes5.po | 
- | [uz]({{< ref "/f31/language/uz.md" >}}) | 34 | 74 | 45.9 | /mnt/stockage/packages/f31/kf5-kiconthemes/po/uz/kiconthemes5.po/mnt/stockage/packages/f31/kf5-kiconthemes/po/uz@cyrillic/kiconthemes5.po | 
- | [br]({{< ref "/f31/language/br.md" >}}) | 15 | 37 | 40.5 | /mnt/stockage/packages/f31/kf5-kiconthemes/po/br/kiconthemes5.po | 
- | [cy]({{< ref "/f31/language/cy.md" >}}) | 15 | 37 | 40.5 | /mnt/stockage/packages/f31/kf5-kiconthemes/po/cy/kiconthemes5.po | 
- | [bn]({{< ref "/f31/language/bn.md" >}}) | 13 | 37 | 35.1 | /mnt/stockage/packages/f31/kf5-kiconthemes/po/bn/kiconthemes5.po | 
- | [xh]({{< ref "/f31/language/xh.md" >}}) | 12 | 37 | 32.4 | /mnt/stockage/packages/f31/kf5-kiconthemes/po/xh/kiconthemes5.po | 
- | [oc]({{< ref "/f31/language/oc.md" >}}) | 11 | 37 | 29.7 | /mnt/stockage/packages/f31/kf5-kiconthemes/po/oc/kiconthemes5.po | 
- | [sq]({{< ref "/f31/language/sq.md" >}}) | 1 | 37 | 2.7 | /mnt/stockage/packages/f31/kf5-kiconthemes/po/sq/kiconthemes5.po | 
- | [csb]({{< ref "/f31/language/csb.md" >}}) | 0 | 37 | 0.0 | /mnt/stockage/packages/f31/kf5-kiconthemes/po/csb/kiconthemes5.po | 
- | [ku]({{< ref "/f31/language/ku.md" >}}) | 0 | 37 | 0.0 | /mnt/stockage/packages/f31/kf5-kiconthemes/po/ku/kiconthemes5.po | 
- | [ml]({{< ref "/f31/language/ml.md" >}}) | 0 | 37 | 0.0 | /mnt/stockage/packages/f31/kf5-kiconthemes/po/ml/kiconthemes5.po | 
+ | [ast](/f31/language/ast) | 37 | 37 | 100.0 | /mnt/stockage/packages/f31/kf5-kiconthemes/po/ast/kiconthemes5.po | 
+ | [az](/f31/language/az) | 37 | 37 | 100.0 | /mnt/stockage/packages/f31/kf5-kiconthemes/po/az/kiconthemes5.po | 
+ | [ca](/f31/language/ca) | 37 | 37 | 100.0 | /mnt/stockage/packages/f31/kf5-kiconthemes/po/ca/kiconthemes5.po | 
+ | [ca@valencia](/f31/language/ca@valencia) | 37 | 37 | 100.0 | /mnt/stockage/packages/f31/kf5-kiconthemes/po/ca@valencia/kiconthemes5.po | 
+ | [cs](/f31/language/cs) | 37 | 37 | 100.0 | /mnt/stockage/packages/f31/kf5-kiconthemes/po/cs/kiconthemes5.po | 
+ | [da](/f31/language/da) | 37 | 37 | 100.0 | /mnt/stockage/packages/f31/kf5-kiconthemes/po/da/kiconthemes5.po | 
+ | [de](/f31/language/de) | 37 | 37 | 100.0 | /mnt/stockage/packages/f31/kf5-kiconthemes/po/de/kiconthemes5.po | 
+ | [en_GB](/f31/language/en_GB) | 37 | 37 | 100.0 | /mnt/stockage/packages/f31/kf5-kiconthemes/po/en_GB/kiconthemes5.po | 
+ | [es](/f31/language/es) | 37 | 37 | 100.0 | /mnt/stockage/packages/f31/kf5-kiconthemes/po/es/kiconthemes5.po | 
+ | [et](/f31/language/et) | 37 | 37 | 100.0 | /mnt/stockage/packages/f31/kf5-kiconthemes/po/et/kiconthemes5.po | 
+ | [eu](/f31/language/eu) | 37 | 37 | 100.0 | /mnt/stockage/packages/f31/kf5-kiconthemes/po/eu/kiconthemes5.po | 
+ | [fi](/f31/language/fi) | 37 | 37 | 100.0 | /mnt/stockage/packages/f31/kf5-kiconthemes/po/fi/kiconthemes5.po | 
+ | [fr](/f31/language/fr) | 37 | 37 | 100.0 | /mnt/stockage/packages/f31/kf5-kiconthemes/po/fr/kiconthemes5.po | 
+ | [gl](/f31/language/gl) | 37 | 37 | 100.0 | /mnt/stockage/packages/f31/kf5-kiconthemes/po/gl/kiconthemes5.po | 
+ | [hu](/f31/language/hu) | 37 | 37 | 100.0 | /mnt/stockage/packages/f31/kf5-kiconthemes/po/hu/kiconthemes5.po | 
+ | [ia](/f31/language/ia) | 37 | 37 | 100.0 | /mnt/stockage/packages/f31/kf5-kiconthemes/po/ia/kiconthemes5.po | 
+ | [id](/f31/language/id) | 37 | 37 | 100.0 | /mnt/stockage/packages/f31/kf5-kiconthemes/po/id/kiconthemes5.po | 
+ | [it](/f31/language/it) | 37 | 37 | 100.0 | /mnt/stockage/packages/f31/kf5-kiconthemes/po/it/kiconthemes5.po | 
+ | [ko](/f31/language/ko) | 37 | 37 | 100.0 | /mnt/stockage/packages/f31/kf5-kiconthemes/po/ko/kiconthemes5.po | 
+ | [lt](/f31/language/lt) | 37 | 37 | 100.0 | /mnt/stockage/packages/f31/kf5-kiconthemes/po/lt/kiconthemes5.po | 
+ | [nl](/f31/language/nl) | 37 | 37 | 100.0 | /mnt/stockage/packages/f31/kf5-kiconthemes/po/nl/kiconthemes5.po | 
+ | [nn](/f31/language/nn) | 37 | 37 | 100.0 | /mnt/stockage/packages/f31/kf5-kiconthemes/po/nn/kiconthemes5.po | 
+ | [pl](/f31/language/pl) | 37 | 37 | 100.0 | /mnt/stockage/packages/f31/kf5-kiconthemes/po/pl/kiconthemes5.po | 
+ | [pt](/f31/language/pt) | 37 | 37 | 100.0 | /mnt/stockage/packages/f31/kf5-kiconthemes/po/pt/kiconthemes5.po | 
+ | [pt_BR](/f31/language/pt_BR) | 37 | 37 | 100.0 | /mnt/stockage/packages/f31/kf5-kiconthemes/po/pt_BR/kiconthemes5.po | 
+ | [ru](/f31/language/ru) | 37 | 37 | 100.0 | /mnt/stockage/packages/f31/kf5-kiconthemes/po/ru/kiconthemes5.po | 
+ | [sk](/f31/language/sk) | 37 | 37 | 100.0 | /mnt/stockage/packages/f31/kf5-kiconthemes/po/sk/kiconthemes5.po | 
+ | [sl](/f31/language/sl) | 37 | 37 | 100.0 | /mnt/stockage/packages/f31/kf5-kiconthemes/po/sl/kiconthemes5.po | 
+ | [sv](/f31/language/sv) | 37 | 37 | 100.0 | /mnt/stockage/packages/f31/kf5-kiconthemes/po/sv/kiconthemes5.po | 
+ | [tg](/f31/language/tg) | 37 | 37 | 100.0 | /mnt/stockage/packages/f31/kf5-kiconthemes/po/tg/kiconthemes5.po | 
+ | [uk](/f31/language/uk) | 37 | 37 | 100.0 | /mnt/stockage/packages/f31/kf5-kiconthemes/po/uk/kiconthemes5.po | 
+ | [zh_Hans](/f31/language/zh_Hans) | 37 | 37 | 100.0 | /mnt/stockage/packages/f31/kf5-kiconthemes/po/zh_CN/kiconthemes5.po | 
+ | [zh_Hant](/f31/language/zh_Hant) | 37 | 37 | 100.0 | /mnt/stockage/packages/f31/kf5-kiconthemes/po/zh_TW/kiconthemes5.po | 
+ | [ar](/f31/language/ar) | 26 | 37 | 70.3 | /mnt/stockage/packages/f31/kf5-kiconthemes/po/ar/kiconthemes5.po | 
+ | [el](/f31/language/el) | 26 | 37 | 70.3 | /mnt/stockage/packages/f31/kf5-kiconthemes/po/el/kiconthemes5.po | 
+ | [ja](/f31/language/ja) | 26 | 37 | 70.3 | /mnt/stockage/packages/f31/kf5-kiconthemes/po/ja/kiconthemes5.po | 
+ | [se](/f31/language/se) | 26 | 37 | 70.3 | /mnt/stockage/packages/f31/kf5-kiconthemes/po/se/kiconthemes5.po | 
+ | [sr](/f31/language/sr) | 26 | 37 | 70.3 | /mnt/stockage/packages/f31/kf5-kiconthemes/po/sr/kiconthemes5.po | 
+ | [sr@ijekavian](/f31/language/sr@ijekavian) | 26 | 37 | 70.3 | /mnt/stockage/packages/f31/kf5-kiconthemes/po/sr@ijekavian/kiconthemes5.po | 
+ | [sr@ijekavian_Latn](/f31/language/sr@ijekavian_Latn) | 26 | 37 | 70.3 | /mnt/stockage/packages/f31/kf5-kiconthemes/po/sr@ijekavianlatin/kiconthemes5.po | 
+ | [sr_Latn](/f31/language/sr_Latn) | 26 | 37 | 70.3 | /mnt/stockage/packages/f31/kf5-kiconthemes/po/sr@latin/kiconthemes5.po | 
+ | [tr](/f31/language/tr) | 26 | 37 | 70.3 | /mnt/stockage/packages/f31/kf5-kiconthemes/po/tr/kiconthemes5.po | 
+ | [be_Latn](/f31/language/be_Latn) | 25 | 37 | 67.6 | /mnt/stockage/packages/f31/kf5-kiconthemes/po/be@latin/kiconthemes5.po | 
+ | [bg](/f31/language/bg) | 25 | 37 | 67.6 | /mnt/stockage/packages/f31/kf5-kiconthemes/po/bg/kiconthemes5.po | 
+ | [bs](/f31/language/bs) | 25 | 37 | 67.6 | /mnt/stockage/packages/f31/kf5-kiconthemes/po/bs/kiconthemes5.po | 
+ | [eo](/f31/language/eo) | 25 | 37 | 67.6 | /mnt/stockage/packages/f31/kf5-kiconthemes/po/eo/kiconthemes5.po | 
+ | [fa](/f31/language/fa) | 25 | 37 | 67.6 | /mnt/stockage/packages/f31/kf5-kiconthemes/po/fa/kiconthemes5.po | 
+ | [fy](/f31/language/fy) | 25 | 37 | 67.6 | /mnt/stockage/packages/f31/kf5-kiconthemes/po/fy/kiconthemes5.po | 
+ | [ga](/f31/language/ga) | 25 | 37 | 67.6 | /mnt/stockage/packages/f31/kf5-kiconthemes/po/ga/kiconthemes5.po | 
+ | [gd](/f31/language/gd) | 25 | 37 | 67.6 | /mnt/stockage/packages/f31/kf5-kiconthemes/po/gd/kiconthemes5.po | 
+ | [gu](/f31/language/gu) | 25 | 37 | 67.6 | /mnt/stockage/packages/f31/kf5-kiconthemes/po/gu/kiconthemes5.po | 
+ | [hi](/f31/language/hi) | 25 | 37 | 67.6 | /mnt/stockage/packages/f31/kf5-kiconthemes/po/hi/kiconthemes5.po | 
+ | [hr](/f31/language/hr) | 25 | 37 | 67.6 | /mnt/stockage/packages/f31/kf5-kiconthemes/po/hr/kiconthemes5.po | 
+ | [hsb](/f31/language/hsb) | 25 | 37 | 67.6 | /mnt/stockage/packages/f31/kf5-kiconthemes/po/hsb/kiconthemes5.po | 
+ | [is](/f31/language/is) | 25 | 37 | 67.6 | /mnt/stockage/packages/f31/kf5-kiconthemes/po/is/kiconthemes5.po | 
+ | [kk](/f31/language/kk) | 25 | 37 | 67.6 | /mnt/stockage/packages/f31/kf5-kiconthemes/po/kk/kiconthemes5.po | 
+ | [km](/f31/language/km) | 25 | 37 | 67.6 | /mnt/stockage/packages/f31/kf5-kiconthemes/po/km/kiconthemes5.po | 
+ | [lv](/f31/language/lv) | 25 | 37 | 67.6 | /mnt/stockage/packages/f31/kf5-kiconthemes/po/lv/kiconthemes5.po | 
+ | [mai](/f31/language/mai) | 25 | 37 | 67.6 | /mnt/stockage/packages/f31/kf5-kiconthemes/po/mai/kiconthemes5.po | 
+ | [mk](/f31/language/mk) | 25 | 37 | 67.6 | /mnt/stockage/packages/f31/kf5-kiconthemes/po/mk/kiconthemes5.po | 
+ | [nb_NO](/f31/language/nb_NO) | 25 | 37 | 67.6 | /mnt/stockage/packages/f31/kf5-kiconthemes/po/nb/kiconthemes5.po | 
+ | [nds](/f31/language/nds) | 25 | 37 | 67.6 | /mnt/stockage/packages/f31/kf5-kiconthemes/po/nds/kiconthemes5.po | 
+ | [ne](/f31/language/ne) | 25 | 37 | 67.6 | /mnt/stockage/packages/f31/kf5-kiconthemes/po/ne/kiconthemes5.po | 
+ | [pa](/f31/language/pa) | 25 | 37 | 67.6 | /mnt/stockage/packages/f31/kf5-kiconthemes/po/pa/kiconthemes5.po | 
+ | [ro](/f31/language/ro) | 25 | 37 | 67.6 | /mnt/stockage/packages/f31/kf5-kiconthemes/po/ro/kiconthemes5.po | 
+ | [ta](/f31/language/ta) | 25 | 37 | 67.6 | /mnt/stockage/packages/f31/kf5-kiconthemes/po/ta/kiconthemes5.po | 
+ | [th](/f31/language/th) | 25 | 37 | 67.6 | /mnt/stockage/packages/f31/kf5-kiconthemes/po/th/kiconthemes5.po | 
+ | [ug](/f31/language/ug) | 25 | 37 | 67.6 | /mnt/stockage/packages/f31/kf5-kiconthemes/po/ug/kiconthemes5.po | 
+ | [vi](/f31/language/vi) | 25 | 37 | 67.6 | /mnt/stockage/packages/f31/kf5-kiconthemes/po/vi/kiconthemes5.po | 
+ | [he](/f31/language/he) | 24 | 37 | 64.9 | /mnt/stockage/packages/f31/kf5-kiconthemes/po/he/kiconthemes5.po | 
+ | [af](/f31/language/af) | 20 | 37 | 54.1 | /mnt/stockage/packages/f31/kf5-kiconthemes/po/af/kiconthemes5.po | 
+ | [be](/f31/language/be) | 20 | 37 | 54.1 | /mnt/stockage/packages/f31/kf5-kiconthemes/po/be/kiconthemes5.po | 
+ | [ms](/f31/language/ms) | 20 | 37 | 54.1 | /mnt/stockage/packages/f31/kf5-kiconthemes/po/ms/kiconthemes5.po | 
+ | [mr](/f31/language/mr) | 19 | 37 | 51.4 | /mnt/stockage/packages/f31/kf5-kiconthemes/po/mr/kiconthemes5.po | 
+ | [wa](/f31/language/wa) | 18 | 37 | 48.6 | /mnt/stockage/packages/f31/kf5-kiconthemes/po/wa/kiconthemes5.po | 
+ | [uz](/f31/language/uz) | 34 | 74 | 45.9 | /mnt/stockage/packages/f31/kf5-kiconthemes/po/uz/kiconthemes5.po/mnt/stockage/packages/f31/kf5-kiconthemes/po/uz@cyrillic/kiconthemes5.po | 
+ | [br](/f31/language/br) | 15 | 37 | 40.5 | /mnt/stockage/packages/f31/kf5-kiconthemes/po/br/kiconthemes5.po | 
+ | [cy](/f31/language/cy) | 15 | 37 | 40.5 | /mnt/stockage/packages/f31/kf5-kiconthemes/po/cy/kiconthemes5.po | 
+ | [bn](/f31/language/bn) | 13 | 37 | 35.1 | /mnt/stockage/packages/f31/kf5-kiconthemes/po/bn/kiconthemes5.po | 
+ | [xh](/f31/language/xh) | 12 | 37 | 32.4 | /mnt/stockage/packages/f31/kf5-kiconthemes/po/xh/kiconthemes5.po | 
+ | [oc](/f31/language/oc) | 11 | 37 | 29.7 | /mnt/stockage/packages/f31/kf5-kiconthemes/po/oc/kiconthemes5.po | 
+ | [sq](/f31/language/sq) | 1 | 37 | 2.7 | /mnt/stockage/packages/f31/kf5-kiconthemes/po/sq/kiconthemes5.po | 
+ | [csb](/f31/language/csb) | 0 | 37 | 0.0 | /mnt/stockage/packages/f31/kf5-kiconthemes/po/csb/kiconthemes5.po | 
+ | [ku](/f31/language/ku) | 0 | 37 | 0.0 | /mnt/stockage/packages/f31/kf5-kiconthemes/po/ku/kiconthemes5.po | 
+ | [ml](/f31/language/ml) | 0 | 37 | 0.0 | /mnt/stockage/packages/f31/kf5-kiconthemes/po/ml/kiconthemes5.po | 
 {.sortable}
 
 

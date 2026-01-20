@@ -18,27 +18,27 @@ The package gnome-shell-extensions (version 3.0.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f15/language/cs.md" >}}) | 89 | 89 | 100.0 | /mnt/stockage/packages/f15/gnome-shell-extensions/po/cs.po | 
- | [da]({{< ref "/f15/language/da.md" >}}) | 73 | 73 | 100.0 | /mnt/stockage/packages/f15/gnome-shell-extensions/po/da.po | 
- | [de]({{< ref "/f15/language/de.md" >}}) | 89 | 89 | 100.0 | /mnt/stockage/packages/f15/gnome-shell-extensions/po/de.po | 
- | [es]({{< ref "/f15/language/es.md" >}}) | 89 | 89 | 100.0 | /mnt/stockage/packages/f15/gnome-shell-extensions/po/es.po | 
- | [fa]({{< ref "/f15/language/fa.md" >}}) | 89 | 89 | 100.0 | /mnt/stockage/packages/f15/gnome-shell-extensions/po/fa.po | 
- | [fr]({{< ref "/f15/language/fr.md" >}}) | 89 | 89 | 100.0 | /mnt/stockage/packages/f15/gnome-shell-extensions/po/fr.po | 
- | [gl]({{< ref "/f15/language/gl.md" >}}) | 73 | 73 | 100.0 | /mnt/stockage/packages/f15/gnome-shell-extensions/po/gl.po | 
- | [he]({{< ref "/f15/language/he.md" >}}) | 198 | 198 | 100.0 | /mnt/stockage/packages/f15/gnome-shell-extensions/po/he.po | 
- | [it]({{< ref "/f15/language/it.md" >}}) | 89 | 89 | 100.0 | /mnt/stockage/packages/f15/gnome-shell-extensions/po/it.po | 
- | [lv]({{< ref "/f15/language/lv.md" >}}) | 89 | 89 | 100.0 | /mnt/stockage/packages/f15/gnome-shell-extensions/po/lv.po | 
- | [nb_NO]({{< ref "/f15/language/nb_NO.md" >}}) | 89 | 89 | 100.0 | /mnt/stockage/packages/f15/gnome-shell-extensions/po/nb.po | 
- | [pa]({{< ref "/f15/language/pa.md" >}}) | 89 | 89 | 100.0 | /mnt/stockage/packages/f15/gnome-shell-extensions/po/pa.po | 
- | [pl]({{< ref "/f15/language/pl.md" >}}) | 89 | 89 | 100.0 | /mnt/stockage/packages/f15/gnome-shell-extensions/po/pl.po | 
- | [pt]({{< ref "/f15/language/pt.md" >}}) | 73 | 73 | 100.0 | /mnt/stockage/packages/f15/gnome-shell-extensions/po/pt.po | 
- | [pt_BR]({{< ref "/f15/language/pt_BR.md" >}}) | 89 | 89 | 100.0 | /mnt/stockage/packages/f15/gnome-shell-extensions/po/pt_BR.po | 
- | [ru]({{< ref "/f15/language/ru.md" >}}) | 89 | 89 | 100.0 | /mnt/stockage/packages/f15/gnome-shell-extensions/po/ru.po | 
- | [sl]({{< ref "/f15/language/sl.md" >}}) | 89 | 89 | 100.0 | /mnt/stockage/packages/f15/gnome-shell-extensions/po/sl.po | 
- | [sv]({{< ref "/f15/language/sv.md" >}}) | 73 | 73 | 100.0 | /mnt/stockage/packages/f15/gnome-shell-extensions/po/sv.po | 
- | [vi]({{< ref "/f15/language/vi.md" >}}) | 89 | 89 | 100.0 | /mnt/stockage/packages/f15/gnome-shell-extensions/po/vi.po | 
- | [zh_Hans]({{< ref "/f15/language/zh_Hans.md" >}}) | 89 | 89 | 100.0 | /mnt/stockage/packages/f15/gnome-shell-extensions/po/zh_CN.po | 
- | [hu]({{< ref "/f15/language/hu.md" >}}) | 89 | 198 | 44.9 | /mnt/stockage/packages/f15/gnome-shell-extensions/po/hu.po | 
+ | [cs](/f15/language/cs) | 89 | 89 | 100.0 | /mnt/stockage/packages/f15/gnome-shell-extensions/po/cs.po | 
+ | [da](/f15/language/da) | 73 | 73 | 100.0 | /mnt/stockage/packages/f15/gnome-shell-extensions/po/da.po | 
+ | [de](/f15/language/de) | 89 | 89 | 100.0 | /mnt/stockage/packages/f15/gnome-shell-extensions/po/de.po | 
+ | [es](/f15/language/es) | 89 | 89 | 100.0 | /mnt/stockage/packages/f15/gnome-shell-extensions/po/es.po | 
+ | [fa](/f15/language/fa) | 89 | 89 | 100.0 | /mnt/stockage/packages/f15/gnome-shell-extensions/po/fa.po | 
+ | [fr](/f15/language/fr) | 89 | 89 | 100.0 | /mnt/stockage/packages/f15/gnome-shell-extensions/po/fr.po | 
+ | [gl](/f15/language/gl) | 73 | 73 | 100.0 | /mnt/stockage/packages/f15/gnome-shell-extensions/po/gl.po | 
+ | [he](/f15/language/he) | 198 | 198 | 100.0 | /mnt/stockage/packages/f15/gnome-shell-extensions/po/he.po | 
+ | [it](/f15/language/it) | 89 | 89 | 100.0 | /mnt/stockage/packages/f15/gnome-shell-extensions/po/it.po | 
+ | [lv](/f15/language/lv) | 89 | 89 | 100.0 | /mnt/stockage/packages/f15/gnome-shell-extensions/po/lv.po | 
+ | [nb_NO](/f15/language/nb_NO) | 89 | 89 | 100.0 | /mnt/stockage/packages/f15/gnome-shell-extensions/po/nb.po | 
+ | [pa](/f15/language/pa) | 89 | 89 | 100.0 | /mnt/stockage/packages/f15/gnome-shell-extensions/po/pa.po | 
+ | [pl](/f15/language/pl) | 89 | 89 | 100.0 | /mnt/stockage/packages/f15/gnome-shell-extensions/po/pl.po | 
+ | [pt](/f15/language/pt) | 73 | 73 | 100.0 | /mnt/stockage/packages/f15/gnome-shell-extensions/po/pt.po | 
+ | [pt_BR](/f15/language/pt_BR) | 89 | 89 | 100.0 | /mnt/stockage/packages/f15/gnome-shell-extensions/po/pt_BR.po | 
+ | [ru](/f15/language/ru) | 89 | 89 | 100.0 | /mnt/stockage/packages/f15/gnome-shell-extensions/po/ru.po | 
+ | [sl](/f15/language/sl) | 89 | 89 | 100.0 | /mnt/stockage/packages/f15/gnome-shell-extensions/po/sl.po | 
+ | [sv](/f15/language/sv) | 73 | 73 | 100.0 | /mnt/stockage/packages/f15/gnome-shell-extensions/po/sv.po | 
+ | [vi](/f15/language/vi) | 89 | 89 | 100.0 | /mnt/stockage/packages/f15/gnome-shell-extensions/po/vi.po | 
+ | [zh_Hans](/f15/language/zh_Hans) | 89 | 89 | 100.0 | /mnt/stockage/packages/f15/gnome-shell-extensions/po/zh_CN.po | 
+ | [hu](/f15/language/hu) | 89 | 198 | 44.9 | /mnt/stockage/packages/f15/gnome-shell-extensions/po/hu.po | 
 {.sortable}
 
 

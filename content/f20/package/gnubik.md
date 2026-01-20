@@ -18,34 +18,34 @@ The package gnubik (version 2.4.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [da]({{< ref "/f20/language/da.md" >}}) | 278 | 278 | 100.0 | /mnt/stockage/packages/f20/gnubik/po/da.po | 
- | [de]({{< ref "/f20/language/de.md" >}}) | 278 | 278 | 100.0 | /mnt/stockage/packages/f20/gnubik/po/de.po | 
- | [eo]({{< ref "/f20/language/eo.md" >}}) | 278 | 278 | 100.0 | /mnt/stockage/packages/f20/gnubik/po/eo.po | 
- | [fi]({{< ref "/f20/language/fi.md" >}}) | 278 | 278 | 100.0 | /mnt/stockage/packages/f20/gnubik/po/fi.po | 
- | [hr]({{< ref "/f20/language/hr.md" >}}) | 278 | 278 | 100.0 | /mnt/stockage/packages/f20/gnubik/po/hr.po | 
- | [it]({{< ref "/f20/language/it.md" >}}) | 278 | 278 | 100.0 | /mnt/stockage/packages/f20/gnubik/po/it.po | 
- | [nl]({{< ref "/f20/language/nl.md" >}}) | 278 | 278 | 100.0 | /mnt/stockage/packages/f20/gnubik/po/nl.po | 
- | [pl]({{< ref "/f20/language/pl.md" >}}) | 278 | 278 | 100.0 | /mnt/stockage/packages/f20/gnubik/po/pl.po | 
- | [sl]({{< ref "/f20/language/sl.md" >}}) | 278 | 278 | 100.0 | /mnt/stockage/packages/f20/gnubik/po/sl.po | 
- | [sr]({{< ref "/f20/language/sr.md" >}}) | 278 | 278 | 100.0 | /mnt/stockage/packages/f20/gnubik/po/sr.po | 
- | [uk]({{< ref "/f20/language/uk.md" >}}) | 278 | 278 | 100.0 | /mnt/stockage/packages/f20/gnubik/po/uk.po | 
- | [bg]({{< ref "/f20/language/bg.md" >}}) | 113 | 278 | 40.6 | /mnt/stockage/packages/f20/gnubik/po/bg.po | 
- | [sv]({{< ref "/f20/language/sv.md" >}}) | 113 | 278 | 40.6 | /mnt/stockage/packages/f20/gnubik/po/sv.po | 
- | [pt]({{< ref "/f20/language/pt.md" >}}) | 109 | 278 | 39.2 | /mnt/stockage/packages/f20/gnubik/po/pt.po | 
- | [el]({{< ref "/f20/language/el.md" >}}) | 97 | 278 | 34.9 | /mnt/stockage/packages/f20/gnubik/po/el.po | 
- | [eu]({{< ref "/f20/language/eu.md" >}}) | 97 | 278 | 34.9 | /mnt/stockage/packages/f20/gnubik/po/eu.po | 
- | [ru]({{< ref "/f20/language/ru.md" >}}) | 97 | 278 | 34.9 | /mnt/stockage/packages/f20/gnubik/po/ru.po | 
- | [zh_Hans]({{< ref "/f20/language/zh_Hans.md" >}}) | 87 | 278 | 31.3 | /mnt/stockage/packages/f20/gnubik/po/zh_CN.po | 
- | [ca]({{< ref "/f20/language/ca.md" >}}) | 45 | 278 | 16.2 | /mnt/stockage/packages/f20/gnubik/po/ca.po | 
- | [es]({{< ref "/f20/language/es.md" >}}) | 45 | 278 | 16.2 | /mnt/stockage/packages/f20/gnubik/po/es.po | 
- | [fr]({{< ref "/f20/language/fr.md" >}}) | 45 | 278 | 16.2 | /mnt/stockage/packages/f20/gnubik/po/fr.po | 
- | [he]({{< ref "/f20/language/he.md" >}}) | 45 | 278 | 16.2 | /mnt/stockage/packages/f20/gnubik/po/he.po | 
- | [ms]({{< ref "/f20/language/ms.md" >}}) | 45 | 278 | 16.2 | /mnt/stockage/packages/f20/gnubik/po/ms.po | 
- | [nb_NO]({{< ref "/f20/language/nb_NO.md" >}}) | 45 | 278 | 16.2 | /mnt/stockage/packages/f20/gnubik/po/nb.po | 
- | [ro]({{< ref "/f20/language/ro.md" >}}) | 45 | 278 | 16.2 | /mnt/stockage/packages/f20/gnubik/po/ro.po | 
- | [tr]({{< ref "/f20/language/tr.md" >}}) | 45 | 278 | 16.2 | /mnt/stockage/packages/f20/gnubik/po/tr.po | 
- | [en_US]({{< ref "/f20/language/en_US.md" >}}) | 35 | 278 | 12.6 | /mnt/stockage/packages/f20/gnubik/po/en_US.po | 
- | [pt_BR]({{< ref "/f20/language/pt_BR.md" >}}) | 35 | 278 | 12.6 | /mnt/stockage/packages/f20/gnubik/po/pt_BR.po | 
+ | [da](/f20/language/da) | 278 | 278 | 100.0 | /mnt/stockage/packages/f20/gnubik/po/da.po | 
+ | [de](/f20/language/de) | 278 | 278 | 100.0 | /mnt/stockage/packages/f20/gnubik/po/de.po | 
+ | [eo](/f20/language/eo) | 278 | 278 | 100.0 | /mnt/stockage/packages/f20/gnubik/po/eo.po | 
+ | [fi](/f20/language/fi) | 278 | 278 | 100.0 | /mnt/stockage/packages/f20/gnubik/po/fi.po | 
+ | [hr](/f20/language/hr) | 278 | 278 | 100.0 | /mnt/stockage/packages/f20/gnubik/po/hr.po | 
+ | [it](/f20/language/it) | 278 | 278 | 100.0 | /mnt/stockage/packages/f20/gnubik/po/it.po | 
+ | [nl](/f20/language/nl) | 278 | 278 | 100.0 | /mnt/stockage/packages/f20/gnubik/po/nl.po | 
+ | [pl](/f20/language/pl) | 278 | 278 | 100.0 | /mnt/stockage/packages/f20/gnubik/po/pl.po | 
+ | [sl](/f20/language/sl) | 278 | 278 | 100.0 | /mnt/stockage/packages/f20/gnubik/po/sl.po | 
+ | [sr](/f20/language/sr) | 278 | 278 | 100.0 | /mnt/stockage/packages/f20/gnubik/po/sr.po | 
+ | [uk](/f20/language/uk) | 278 | 278 | 100.0 | /mnt/stockage/packages/f20/gnubik/po/uk.po | 
+ | [bg](/f20/language/bg) | 113 | 278 | 40.6 | /mnt/stockage/packages/f20/gnubik/po/bg.po | 
+ | [sv](/f20/language/sv) | 113 | 278 | 40.6 | /mnt/stockage/packages/f20/gnubik/po/sv.po | 
+ | [pt](/f20/language/pt) | 109 | 278 | 39.2 | /mnt/stockage/packages/f20/gnubik/po/pt.po | 
+ | [el](/f20/language/el) | 97 | 278 | 34.9 | /mnt/stockage/packages/f20/gnubik/po/el.po | 
+ | [eu](/f20/language/eu) | 97 | 278 | 34.9 | /mnt/stockage/packages/f20/gnubik/po/eu.po | 
+ | [ru](/f20/language/ru) | 97 | 278 | 34.9 | /mnt/stockage/packages/f20/gnubik/po/ru.po | 
+ | [zh_Hans](/f20/language/zh_Hans) | 87 | 278 | 31.3 | /mnt/stockage/packages/f20/gnubik/po/zh_CN.po | 
+ | [ca](/f20/language/ca) | 45 | 278 | 16.2 | /mnt/stockage/packages/f20/gnubik/po/ca.po | 
+ | [es](/f20/language/es) | 45 | 278 | 16.2 | /mnt/stockage/packages/f20/gnubik/po/es.po | 
+ | [fr](/f20/language/fr) | 45 | 278 | 16.2 | /mnt/stockage/packages/f20/gnubik/po/fr.po | 
+ | [he](/f20/language/he) | 45 | 278 | 16.2 | /mnt/stockage/packages/f20/gnubik/po/he.po | 
+ | [ms](/f20/language/ms) | 45 | 278 | 16.2 | /mnt/stockage/packages/f20/gnubik/po/ms.po | 
+ | [nb_NO](/f20/language/nb_NO) | 45 | 278 | 16.2 | /mnt/stockage/packages/f20/gnubik/po/nb.po | 
+ | [ro](/f20/language/ro) | 45 | 278 | 16.2 | /mnt/stockage/packages/f20/gnubik/po/ro.po | 
+ | [tr](/f20/language/tr) | 45 | 278 | 16.2 | /mnt/stockage/packages/f20/gnubik/po/tr.po | 
+ | [en_US](/f20/language/en_US) | 35 | 278 | 12.6 | /mnt/stockage/packages/f20/gnubik/po/en_US.po | 
+ | [pt_BR](/f20/language/pt_BR) | 35 | 278 | 12.6 | /mnt/stockage/packages/f20/gnubik/po/pt_BR.po | 
 {.sortable}
 
 

@@ -18,23 +18,23 @@ The package pidgin-birthday-reminder (version 1.11):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f31/language/de.md" >}}) | 289 | 289 | 100.0 | /mnt/stockage/packages/f31/pidgin-birthday-reminder/po/de.po | 
- | [lt]({{< ref "/f31/language/lt.md" >}}) | 289 | 289 | 100.0 | /mnt/stockage/packages/f31/pidgin-birthday-reminder/po/lt.po | 
- | [pl]({{< ref "/f31/language/pl.md" >}}) | 289 | 289 | 100.0 | /mnt/stockage/packages/f31/pidgin-birthday-reminder/po/pl.po | 
- | [cs]({{< ref "/f31/language/cs.md" >}}) | 204 | 289 | 70.6 | /mnt/stockage/packages/f31/pidgin-birthday-reminder/po/cs.po | 
- | [el]({{< ref "/f31/language/el.md" >}}) | 204 | 289 | 70.6 | /mnt/stockage/packages/f31/pidgin-birthday-reminder/po/el.po | 
- | [es]({{< ref "/f31/language/es.md" >}}) | 204 | 289 | 70.6 | /mnt/stockage/packages/f31/pidgin-birthday-reminder/po/es.po | 
- | [fr]({{< ref "/f31/language/fr.md" >}}) | 204 | 289 | 70.6 | /mnt/stockage/packages/f31/pidgin-birthday-reminder/po/fr.po | 
- | [gl]({{< ref "/f31/language/gl.md" >}}) | 204 | 289 | 70.6 | /mnt/stockage/packages/f31/pidgin-birthday-reminder/po/gl.po | 
- | [he]({{< ref "/f31/language/he.md" >}}) | 204 | 289 | 70.6 | /mnt/stockage/packages/f31/pidgin-birthday-reminder/po/he.po | 
- | [it]({{< ref "/f31/language/it.md" >}}) | 204 | 289 | 70.6 | /mnt/stockage/packages/f31/pidgin-birthday-reminder/po/it.po | 
- | [nl]({{< ref "/f31/language/nl.md" >}}) | 204 | 289 | 70.6 | /mnt/stockage/packages/f31/pidgin-birthday-reminder/po/nl.po | 
- | [pt]({{< ref "/f31/language/pt.md" >}}) | 204 | 289 | 70.6 | /mnt/stockage/packages/f31/pidgin-birthday-reminder/po/pt.po | 
- | [pt_BR]({{< ref "/f31/language/pt_BR.md" >}}) | 204 | 289 | 70.6 | /mnt/stockage/packages/f31/pidgin-birthday-reminder/po/pt_BR.po | 
- | [ru]({{< ref "/f31/language/ru.md" >}}) | 204 | 289 | 70.6 | /mnt/stockage/packages/f31/pidgin-birthday-reminder/po/ru.po | 
- | [sk]({{< ref "/f31/language/sk.md" >}}) | 204 | 289 | 70.6 | /mnt/stockage/packages/f31/pidgin-birthday-reminder/po/sk.po | 
- | [ta]({{< ref "/f31/language/ta.md" >}}) | 54 | 289 | 18.7 | /mnt/stockage/packages/f31/pidgin-birthday-reminder/po/ta.po | 
- | [tr]({{< ref "/f31/language/tr.md" >}}) | 20 | 289 | 6.9 | /mnt/stockage/packages/f31/pidgin-birthday-reminder/po/tr.po | 
+ | [de](/f31/language/de) | 289 | 289 | 100.0 | /mnt/stockage/packages/f31/pidgin-birthday-reminder/po/de.po | 
+ | [lt](/f31/language/lt) | 289 | 289 | 100.0 | /mnt/stockage/packages/f31/pidgin-birthday-reminder/po/lt.po | 
+ | [pl](/f31/language/pl) | 289 | 289 | 100.0 | /mnt/stockage/packages/f31/pidgin-birthday-reminder/po/pl.po | 
+ | [cs](/f31/language/cs) | 204 | 289 | 70.6 | /mnt/stockage/packages/f31/pidgin-birthday-reminder/po/cs.po | 
+ | [el](/f31/language/el) | 204 | 289 | 70.6 | /mnt/stockage/packages/f31/pidgin-birthday-reminder/po/el.po | 
+ | [es](/f31/language/es) | 204 | 289 | 70.6 | /mnt/stockage/packages/f31/pidgin-birthday-reminder/po/es.po | 
+ | [fr](/f31/language/fr) | 204 | 289 | 70.6 | /mnt/stockage/packages/f31/pidgin-birthday-reminder/po/fr.po | 
+ | [gl](/f31/language/gl) | 204 | 289 | 70.6 | /mnt/stockage/packages/f31/pidgin-birthday-reminder/po/gl.po | 
+ | [he](/f31/language/he) | 204 | 289 | 70.6 | /mnt/stockage/packages/f31/pidgin-birthday-reminder/po/he.po | 
+ | [it](/f31/language/it) | 204 | 289 | 70.6 | /mnt/stockage/packages/f31/pidgin-birthday-reminder/po/it.po | 
+ | [nl](/f31/language/nl) | 204 | 289 | 70.6 | /mnt/stockage/packages/f31/pidgin-birthday-reminder/po/nl.po | 
+ | [pt](/f31/language/pt) | 204 | 289 | 70.6 | /mnt/stockage/packages/f31/pidgin-birthday-reminder/po/pt.po | 
+ | [pt_BR](/f31/language/pt_BR) | 204 | 289 | 70.6 | /mnt/stockage/packages/f31/pidgin-birthday-reminder/po/pt_BR.po | 
+ | [ru](/f31/language/ru) | 204 | 289 | 70.6 | /mnt/stockage/packages/f31/pidgin-birthday-reminder/po/ru.po | 
+ | [sk](/f31/language/sk) | 204 | 289 | 70.6 | /mnt/stockage/packages/f31/pidgin-birthday-reminder/po/sk.po | 
+ | [ta](/f31/language/ta) | 54 | 289 | 18.7 | /mnt/stockage/packages/f31/pidgin-birthday-reminder/po/ta.po | 
+ | [tr](/f31/language/tr) | 20 | 289 | 6.9 | /mnt/stockage/packages/f31/pidgin-birthday-reminder/po/tr.po | 
 {.sortable}
 
 

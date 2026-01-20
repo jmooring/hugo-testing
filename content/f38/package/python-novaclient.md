@@ -18,8 +18,8 @@ The package python-novaclient (version 18.1.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [en_GB]({{< ref "/f38/language/en_GB.md" >}}) | 273 | 273 | 100.0 | /mnt/stockage/packages/f38/python-novaclient/releasenotes/source/locale/en_GB/LC_MESSAGES/releasenotes.po | 
- | [fr]({{< ref "/f38/language/fr.md" >}}) | 116 | 116 | 100.0 | /mnt/stockage/packages/f38/python-novaclient/releasenotes/source/locale/fr/LC_MESSAGES/releasenotes.po | 
+ | [en_GB](/f38/language/en_GB) | 273 | 273 | 100.0 | /mnt/stockage/packages/f38/python-novaclient/releasenotes/source/locale/en_GB/LC_MESSAGES/releasenotes.po | 
+ | [fr](/f38/language/fr) | 116 | 116 | 100.0 | /mnt/stockage/packages/f38/python-novaclient/releasenotes/source/locale/fr/LC_MESSAGES/releasenotes.po | 
 {.sortable}
 
 

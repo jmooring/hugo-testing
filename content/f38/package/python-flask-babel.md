@@ -18,7 +18,7 @@ The package python-flask-babel (version 2.0.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f38/language/de.md" >}}) | 31 | 31 | 100.0 | /mnt/stockage/packages/f38/python-flask-babel/tests/renamed_translations/de/LC_MESSAGES/messages.po/mnt/stockage/packages/f38/python-flask-babel/tests/renamed_translations/de/LC_MESSAGES/myapp.po/mnt/stockage/packages/f38/python-flask-babel/tests/translations/de/LC_MESSAGES/messages.po/mnt/stockage/packages/f38/python-flask-babel/tests/translations/de/LC_MESSAGES/test.po/mnt/stockage/packages/f38/python-flask-babel/tests/translations_different_domain/de/LC_MESSAGES/myapp.po | 
+ | [de](/f38/language/de) | 31 | 31 | 100.0 | /mnt/stockage/packages/f38/python-flask-babel/tests/renamed_translations/de/LC_MESSAGES/messages.po/mnt/stockage/packages/f38/python-flask-babel/tests/renamed_translations/de/LC_MESSAGES/myapp.po/mnt/stockage/packages/f38/python-flask-babel/tests/translations/de/LC_MESSAGES/messages.po/mnt/stockage/packages/f38/python-flask-babel/tests/translations/de/LC_MESSAGES/test.po/mnt/stockage/packages/f38/python-flask-babel/tests/translations_different_domain/de/LC_MESSAGES/myapp.po | 
 {.sortable}
 
 

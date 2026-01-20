@@ -18,9 +18,9 @@ The package kwooty (version 1.1.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f38/language/cs.md" >}}) | 1592 | 1592 | 100.0 | /mnt/stockage/packages/f38/kwooty/po/cs/kwooty.po | 
- | [fr]({{< ref "/f38/language/fr.md" >}}) | 1592 | 1592 | 100.0 | /mnt/stockage/packages/f38/kwooty/po/fr/kwooty.po | 
- | [de]({{< ref "/f38/language/de.md" >}}) | 1553 | 1592 | 97.6 | /mnt/stockage/packages/f38/kwooty/po/de/kwooty.po | 
+ | [cs](/f38/language/cs) | 1592 | 1592 | 100.0 | /mnt/stockage/packages/f38/kwooty/po/cs/kwooty.po | 
+ | [fr](/f38/language/fr) | 1592 | 1592 | 100.0 | /mnt/stockage/packages/f38/kwooty/po/fr/kwooty.po | 
+ | [de](/f38/language/de) | 1553 | 1592 | 97.6 | /mnt/stockage/packages/f38/kwooty/po/de/kwooty.po | 
 {.sortable}
 
 

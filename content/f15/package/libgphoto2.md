@@ -18,25 +18,25 @@ The package libgphoto2 (version 2.4.10.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [pl]({{< ref "/f15/language/pl.md" >}}) | 10791 | 10791 | 100.0 | /mnt/stockage/packages/f15/libgphoto2/libgphoto2_port/po/pl.po/mnt/stockage/packages/f15/libgphoto2/po/pl.po | 
- | [pt_BR]({{< ref "/f15/language/pt_BR.md" >}}) | 626 | 626 | 100.0 | /mnt/stockage/packages/f15/libgphoto2/libgphoto2_port/po/pt_BR.po | 
- | [sk]({{< ref "/f15/language/sk.md" >}}) | 626 | 626 | 100.0 | /mnt/stockage/packages/f15/libgphoto2/libgphoto2_port/po/sk.po | 
- | [de]({{< ref "/f15/language/de.md" >}}) | 10746 | 10791 | 99.6 | /mnt/stockage/packages/f15/libgphoto2/libgphoto2_port/po/de.po/mnt/stockage/packages/f15/libgphoto2/po/de.po | 
- | [vi]({{< ref "/f15/language/vi.md" >}}) | 10599 | 10791 | 98.2 | /mnt/stockage/packages/f15/libgphoto2/libgphoto2_port/po/vi.po/mnt/stockage/packages/f15/libgphoto2/po/vi.po | 
- | [zh_Hant]({{< ref "/f15/language/zh_Hant.md" >}}) | 564 | 626 | 90.1 | /mnt/stockage/packages/f15/libgphoto2/libgphoto2_port/po/zh_TW.po | 
- | [fr]({{< ref "/f15/language/fr.md" >}}) | 9422 | 10791 | 87.3 | /mnt/stockage/packages/f15/libgphoto2/libgphoto2_port/po/fr.po/mnt/stockage/packages/f15/libgphoto2/po/fr.po | 
- | [da]({{< ref "/f15/language/da.md" >}}) | 9388 | 10791 | 87.0 | /mnt/stockage/packages/f15/libgphoto2/libgphoto2_port/po/da.po/mnt/stockage/packages/f15/libgphoto2/po/da.po | 
- | [nl]({{< ref "/f15/language/nl.md" >}}) | 7541 | 10791 | 69.9 | /mnt/stockage/packages/f15/libgphoto2/libgphoto2_port/po/nl.po/mnt/stockage/packages/f15/libgphoto2/po/nl.po | 
- | [uk]({{< ref "/f15/language/uk.md" >}}) | 7033 | 10791 | 65.2 | /mnt/stockage/packages/f15/libgphoto2/libgphoto2_port/po/uk.po/mnt/stockage/packages/f15/libgphoto2/po/uk.po | 
- | [ja]({{< ref "/f15/language/ja.md" >}}) | 6253 | 10791 | 57.9 | /mnt/stockage/packages/f15/libgphoto2/libgphoto2_port/po/ja.po/mnt/stockage/packages/f15/libgphoto2/po/ja.po | 
- | [it]({{< ref "/f15/language/it.md" >}}) | 5900 | 10791 | 54.7 | /mnt/stockage/packages/f15/libgphoto2/libgphoto2_port/po/it.po/mnt/stockage/packages/f15/libgphoto2/po/it.po | 
- | [cs]({{< ref "/f15/language/cs.md" >}}) | 296 | 626 | 47.3 | /mnt/stockage/packages/f15/libgphoto2/libgphoto2_port/po/cs.po | 
- | [eu]({{< ref "/f15/language/eu.md" >}}) | 5101 | 10791 | 47.3 | /mnt/stockage/packages/f15/libgphoto2/libgphoto2_port/po/eu.po/mnt/stockage/packages/f15/libgphoto2/po/eu.po | 
- | [es]({{< ref "/f15/language/es.md" >}}) | 4558 | 10791 | 42.2 | /mnt/stockage/packages/f15/libgphoto2/libgphoto2_port/po/es.po/mnt/stockage/packages/f15/libgphoto2/po/es.po | 
- | [ru]({{< ref "/f15/language/ru.md" >}}) | 3837 | 10791 | 35.6 | /mnt/stockage/packages/f15/libgphoto2/libgphoto2_port/po/ru.po/mnt/stockage/packages/f15/libgphoto2/po/ru.po | 
- | [sv]({{< ref "/f15/language/sv.md" >}}) | 3426 | 10791 | 31.7 | /mnt/stockage/packages/f15/libgphoto2/libgphoto2_port/po/sv.po/mnt/stockage/packages/f15/libgphoto2/po/sv.po | 
- | [zh_Hans]({{< ref "/f15/language/zh_Hans.md" >}}) | 3125 | 10791 | 29.0 | /mnt/stockage/packages/f15/libgphoto2/libgphoto2_port/po/zh_CN.po/mnt/stockage/packages/f15/libgphoto2/po/zh_CN.po | 
- | [hu]({{< ref "/f15/language/hu.md" >}}) | 2812 | 10165 | 27.7 | /mnt/stockage/packages/f15/libgphoto2/po/hu.po | 
+ | [pl](/f15/language/pl) | 10791 | 10791 | 100.0 | /mnt/stockage/packages/f15/libgphoto2/libgphoto2_port/po/pl.po/mnt/stockage/packages/f15/libgphoto2/po/pl.po | 
+ | [pt_BR](/f15/language/pt_BR) | 626 | 626 | 100.0 | /mnt/stockage/packages/f15/libgphoto2/libgphoto2_port/po/pt_BR.po | 
+ | [sk](/f15/language/sk) | 626 | 626 | 100.0 | /mnt/stockage/packages/f15/libgphoto2/libgphoto2_port/po/sk.po | 
+ | [de](/f15/language/de) | 10746 | 10791 | 99.6 | /mnt/stockage/packages/f15/libgphoto2/libgphoto2_port/po/de.po/mnt/stockage/packages/f15/libgphoto2/po/de.po | 
+ | [vi](/f15/language/vi) | 10599 | 10791 | 98.2 | /mnt/stockage/packages/f15/libgphoto2/libgphoto2_port/po/vi.po/mnt/stockage/packages/f15/libgphoto2/po/vi.po | 
+ | [zh_Hant](/f15/language/zh_Hant) | 564 | 626 | 90.1 | /mnt/stockage/packages/f15/libgphoto2/libgphoto2_port/po/zh_TW.po | 
+ | [fr](/f15/language/fr) | 9422 | 10791 | 87.3 | /mnt/stockage/packages/f15/libgphoto2/libgphoto2_port/po/fr.po/mnt/stockage/packages/f15/libgphoto2/po/fr.po | 
+ | [da](/f15/language/da) | 9388 | 10791 | 87.0 | /mnt/stockage/packages/f15/libgphoto2/libgphoto2_port/po/da.po/mnt/stockage/packages/f15/libgphoto2/po/da.po | 
+ | [nl](/f15/language/nl) | 7541 | 10791 | 69.9 | /mnt/stockage/packages/f15/libgphoto2/libgphoto2_port/po/nl.po/mnt/stockage/packages/f15/libgphoto2/po/nl.po | 
+ | [uk](/f15/language/uk) | 7033 | 10791 | 65.2 | /mnt/stockage/packages/f15/libgphoto2/libgphoto2_port/po/uk.po/mnt/stockage/packages/f15/libgphoto2/po/uk.po | 
+ | [ja](/f15/language/ja) | 6253 | 10791 | 57.9 | /mnt/stockage/packages/f15/libgphoto2/libgphoto2_port/po/ja.po/mnt/stockage/packages/f15/libgphoto2/po/ja.po | 
+ | [it](/f15/language/it) | 5900 | 10791 | 54.7 | /mnt/stockage/packages/f15/libgphoto2/libgphoto2_port/po/it.po/mnt/stockage/packages/f15/libgphoto2/po/it.po | 
+ | [cs](/f15/language/cs) | 296 | 626 | 47.3 | /mnt/stockage/packages/f15/libgphoto2/libgphoto2_port/po/cs.po | 
+ | [eu](/f15/language/eu) | 5101 | 10791 | 47.3 | /mnt/stockage/packages/f15/libgphoto2/libgphoto2_port/po/eu.po/mnt/stockage/packages/f15/libgphoto2/po/eu.po | 
+ | [es](/f15/language/es) | 4558 | 10791 | 42.2 | /mnt/stockage/packages/f15/libgphoto2/libgphoto2_port/po/es.po/mnt/stockage/packages/f15/libgphoto2/po/es.po | 
+ | [ru](/f15/language/ru) | 3837 | 10791 | 35.6 | /mnt/stockage/packages/f15/libgphoto2/libgphoto2_port/po/ru.po/mnt/stockage/packages/f15/libgphoto2/po/ru.po | 
+ | [sv](/f15/language/sv) | 3426 | 10791 | 31.7 | /mnt/stockage/packages/f15/libgphoto2/libgphoto2_port/po/sv.po/mnt/stockage/packages/f15/libgphoto2/po/sv.po | 
+ | [zh_Hans](/f15/language/zh_Hans) | 3125 | 10791 | 29.0 | /mnt/stockage/packages/f15/libgphoto2/libgphoto2_port/po/zh_CN.po/mnt/stockage/packages/f15/libgphoto2/po/zh_CN.po | 
+ | [hu](/f15/language/hu) | 2812 | 10165 | 27.7 | /mnt/stockage/packages/f15/libgphoto2/po/hu.po | 
 {.sortable}
 
 

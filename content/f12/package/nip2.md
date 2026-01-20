@@ -18,8 +18,8 @@ The package nip2 (version 7.18.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [error]({{< ref "/f12/language/error.md" >}}) | 1925 | 3370 | 57.1 | /mnt/stockage/packages/f12/nip2/po/malkovich.po | 
- | [en_GB]({{< ref "/f12/language/en_GB.md" >}}) | 18 | 3370 | 0.5 | /mnt/stockage/packages/f12/nip2/po/en_GB.po | 
+ | [error](/f12/language/error) | 1925 | 3370 | 57.1 | /mnt/stockage/packages/f12/nip2/po/malkovich.po | 
+ | [en_GB](/f12/language/en_GB) | 18 | 3370 | 0.5 | /mnt/stockage/packages/f12/nip2/po/en_GB.po | 
 {.sortable}
 
 

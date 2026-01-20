@@ -40,45 +40,45 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [sugar]({{< ref "/f40/package/sugar.md" >}}) | 2219 | 2219 | 100.0 | LANGUAGE <LL@li.org> | 
- | [sugar-abacus]({{< ref "/f40/package/sugar-abacus.md" >}}) | 34 | 34 | 100.0 | LANGUAGE <LL@li.org> | 
- | [sugar-maze]({{< ref "/f40/package/sugar-maze.md" >}}) | 7 | 7 | 100.0 | LANGUAGE <LL@li.org> | 
- | [sugar-pippy]({{< ref "/f40/package/sugar-pippy.md" >}}) | 117 | 117 | 100.0 | LANGUAGE <LL@li.org> | 
- | [sugar-toolkit-gtk3]({{< ref "/f40/package/sugar-toolkit-gtk3.md" >}}) | 156 | 156 | 100.0 | LANGUAGE <LL@li.org> | 
- | [sugar-physics]({{< ref "/f40/package/sugar-physics.md" >}}) | 28 | 48 | 58.3 | LANGUAGE <LL@li.org> | 
- | [sugar-chat]({{< ref "/f40/package/sugar-chat.md" >}}) | 78 | 137 | 56.9 | LANGUAGE <LL@li.org> | 
- | [lxmenu-data]({{< ref "/f40/package/lxmenu-data.md" >}}) | 53 | 97 | 54.6 |  | 
- | [gnome-menus]({{< ref "/f40/package/gnome-menus.md" >}}) | 71 | 133 | 53.4 |  | 
- | [sugar-deducto]({{< ref "/f40/package/sugar-deducto.md" >}}) | 40 | 107 | 37.4 | LANGUAGE <LL@li.org> | 
- | [sugar-colordeducto]({{< ref "/f40/package/sugar-colordeducto.md" >}}) | 39 | 109 | 35.8 | LANGUAGE <LL@li.org> | 
- | [sugar-read]({{< ref "/f40/package/sugar-read.md" >}}) | 38 | 114 | 33.3 | LANGUAGE <LL@li.org> | 
- | [iso-codes]({{< ref "/f40/package/iso-codes.md" >}}) | 256 | 989 | 25.9 | Guarani <https://hosted.weblate.org/projects/iso-codes/iso-3166-1/gn/> | 
- | [sugar-finance]({{< ref "/f40/package/sugar-finance.md" >}}) | 40 | 258 | 15.5 | LANGUAGE <LL@li.org> | 
- | [bookworm]({{< ref "/f40/package/bookworm.md" >}}) | 0 | 795 | 0.0 |  | 
- | [coin]({{< ref "/f40/package/coin.md" >}}) | 0 | 252 | 0.0 | none | 
- | [dippi]({{< ref "/f40/package/dippi.md" >}}) | 0 | 1537 | 0.0 | none | 
- | [elementary-code]({{< ref "/f40/package/elementary-code.md" >}}) | 0 | 1572 | 0.0 | LANGUAGE <LL@li.org> | 
- | [elementary-files]({{< ref "/f40/package/elementary-files.md" >}}) | 0 | 2538 | 0.0 | LANGUAGE <LL@li.org> | 
- | [elementary-icon-theme]({{< ref "/f40/package/elementary-icon-theme.md" >}}) | 0 | 349 | 0.0 | none | 
- | [elementary-mail]({{< ref "/f40/package/elementary-mail.md" >}}) | 0 | 861 | 0.0 |  | 
- | [elementary-music]({{< ref "/f40/package/elementary-music.md" >}}) | 0 | 207 | 0.0 | LANGUAGE <LL@li.org> | 
- | [elementary-notifications]({{< ref "/f40/package/elementary-notifications.md" >}}) | 0 | 40 | 0.0 | none | 
- | [gala]({{< ref "/f40/package/gala.md" >}}) | 0 | 281 | 0.0 | none | 
- | [granite]({{< ref "/f40/package/granite.md" >}}) | 0 | 498 | 0.0 |  | 
- | [granite-7]({{< ref "/f40/package/granite-7.md" >}}) | 0 | 369 | 0.0 |  | 
- | [harvey]({{< ref "/f40/package/harvey.md" >}}) | 0 | 182 | 0.0 | none | 
- | [nutty]({{< ref "/f40/package/nutty.md" >}}) | 0 | 608 | 0.0 |  | 
- | [optimizer]({{< ref "/f40/package/optimizer.md" >}}) | 0 | 282 | 0.0 | none | 
- | [regextester]({{< ref "/f40/package/regextester.md" >}}) | 0 | 104 | 0.0 | none | 
- | [sugar-clock]({{< ref "/f40/package/sugar-clock.md" >}}) | 0 | 66 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-dimensions]({{< ref "/f40/package/sugar-dimensions.md" >}}) | 0 | 161 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-implode]({{< ref "/f40/package/sugar-implode.md" >}}) | 0 | 77 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-terminal]({{< ref "/f40/package/sugar-terminal.md" >}}) | 0 | 15 | 0.0 | LANGUAGE <LL@li.org> | 
- | [wingpanel]({{< ref "/f40/package/wingpanel.md" >}}) | 0 | 57 | 0.0 | none | 
- | [wingpanel-indicator-a11y]({{< ref "/f40/package/wingpanel-indicator-a11y.md" >}}) | 0 | 55 | 0.0 | none | 
- | [wingpanel-indicator-bluetooth]({{< ref "/f40/package/wingpanel-indicator-bluetooth.md" >}}) | 0 | 80 | 0.0 | none | 
- | [wingpanel-indicator-datetime]({{< ref "/f40/package/wingpanel-indicator-datetime.md" >}}) | 0 | 103 | 0.0 |  | 
- | [wingpanel-indicator-keyboard]({{< ref "/f40/package/wingpanel-indicator-keyboard.md" >}}) | 0 | 56 | 0.0 |  | 
+ | [sugar](/f40/package/sugar) | 2219 | 2219 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-abacus](/f40/package/sugar-abacus) | 34 | 34 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-maze](/f40/package/sugar-maze) | 7 | 7 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-pippy](/f40/package/sugar-pippy) | 117 | 117 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-toolkit-gtk3](/f40/package/sugar-toolkit-gtk3) | 156 | 156 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-physics](/f40/package/sugar-physics) | 28 | 48 | 58.3 | LANGUAGE <LL@li.org> | 
+ | [sugar-chat](/f40/package/sugar-chat) | 78 | 137 | 56.9 | LANGUAGE <LL@li.org> | 
+ | [lxmenu-data](/f40/package/lxmenu-data) | 53 | 97 | 54.6 |  | 
+ | [gnome-menus](/f40/package/gnome-menus) | 71 | 133 | 53.4 |  | 
+ | [sugar-deducto](/f40/package/sugar-deducto) | 40 | 107 | 37.4 | LANGUAGE <LL@li.org> | 
+ | [sugar-colordeducto](/f40/package/sugar-colordeducto) | 39 | 109 | 35.8 | LANGUAGE <LL@li.org> | 
+ | [sugar-read](/f40/package/sugar-read) | 38 | 114 | 33.3 | LANGUAGE <LL@li.org> | 
+ | [iso-codes](/f40/package/iso-codes) | 256 | 989 | 25.9 | Guarani <https://hosted.weblate.org/projects/iso-codes/iso-3166-1/gn/> | 
+ | [sugar-finance](/f40/package/sugar-finance) | 40 | 258 | 15.5 | LANGUAGE <LL@li.org> | 
+ | [bookworm](/f40/package/bookworm) | 0 | 795 | 0.0 |  | 
+ | [coin](/f40/package/coin) | 0 | 252 | 0.0 | none | 
+ | [dippi](/f40/package/dippi) | 0 | 1537 | 0.0 | none | 
+ | [elementary-code](/f40/package/elementary-code) | 0 | 1572 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [elementary-files](/f40/package/elementary-files) | 0 | 2538 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [elementary-icon-theme](/f40/package/elementary-icon-theme) | 0 | 349 | 0.0 | none | 
+ | [elementary-mail](/f40/package/elementary-mail) | 0 | 861 | 0.0 |  | 
+ | [elementary-music](/f40/package/elementary-music) | 0 | 207 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [elementary-notifications](/f40/package/elementary-notifications) | 0 | 40 | 0.0 | none | 
+ | [gala](/f40/package/gala) | 0 | 281 | 0.0 | none | 
+ | [granite](/f40/package/granite) | 0 | 498 | 0.0 |  | 
+ | [granite-7](/f40/package/granite-7) | 0 | 369 | 0.0 |  | 
+ | [harvey](/f40/package/harvey) | 0 | 182 | 0.0 | none | 
+ | [nutty](/f40/package/nutty) | 0 | 608 | 0.0 |  | 
+ | [optimizer](/f40/package/optimizer) | 0 | 282 | 0.0 | none | 
+ | [regextester](/f40/package/regextester) | 0 | 104 | 0.0 | none | 
+ | [sugar-clock](/f40/package/sugar-clock) | 0 | 66 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-dimensions](/f40/package/sugar-dimensions) | 0 | 161 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-implode](/f40/package/sugar-implode) | 0 | 77 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-terminal](/f40/package/sugar-terminal) | 0 | 15 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [wingpanel](/f40/package/wingpanel) | 0 | 57 | 0.0 | none | 
+ | [wingpanel-indicator-a11y](/f40/package/wingpanel-indicator-a11y) | 0 | 55 | 0.0 | none | 
+ | [wingpanel-indicator-bluetooth](/f40/package/wingpanel-indicator-bluetooth) | 0 | 80 | 0.0 | none | 
+ | [wingpanel-indicator-datetime](/f40/package/wingpanel-indicator-datetime) | 0 | 103 | 0.0 |  | 
+ | [wingpanel-indicator-keyboard](/f40/package/wingpanel-indicator-keyboard) | 0 | 56 | 0.0 |  | 
 {.sortable}
 
 

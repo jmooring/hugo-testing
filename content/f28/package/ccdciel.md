@@ -18,11 +18,11 @@ The package ccdciel (version 0.9.47):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [en_GB]({{< ref "/f28/language/en_GB.md" >}}) | 3492 | 3511 | 99.5 | /mnt/stockage/packages/f28/ccdciel/data/language/ccdciel.en_GB.po | 
- | [fr]({{< ref "/f28/language/fr.md" >}}) | 3475 | 3511 | 99.0 | /mnt/stockage/packages/f28/ccdciel/data/language/ccdciel.fr.po | 
- | [it]({{< ref "/f28/language/it.md" >}}) | 1536 | 3511 | 43.7 | /mnt/stockage/packages/f28/ccdciel/data/language/ccdciel.it.po | 
- | [ku]({{< ref "/f28/language/ku.md" >}}) | 37 | 3511 | 1.1 | /mnt/stockage/packages/f28/ccdciel/data/language/ccdciel.ku.po | 
- | [de]({{< ref "/f28/language/de.md" >}}) | 21 | 3511 | 0.6 | /mnt/stockage/packages/f28/ccdciel/data/language/ccdciel.de.po | 
+ | [en_GB](/f28/language/en_GB) | 3492 | 3511 | 99.5 | /mnt/stockage/packages/f28/ccdciel/data/language/ccdciel.en_GB.po | 
+ | [fr](/f28/language/fr) | 3475 | 3511 | 99.0 | /mnt/stockage/packages/f28/ccdciel/data/language/ccdciel.fr.po | 
+ | [it](/f28/language/it) | 1536 | 3511 | 43.7 | /mnt/stockage/packages/f28/ccdciel/data/language/ccdciel.it.po | 
+ | [ku](/f28/language/ku) | 37 | 3511 | 1.1 | /mnt/stockage/packages/f28/ccdciel/data/language/ccdciel.ku.po | 
+ | [de](/f28/language/de) | 21 | 3511 | 0.6 | /mnt/stockage/packages/f28/ccdciel/data/language/ccdciel.de.po | 
 {.sortable}
 
 

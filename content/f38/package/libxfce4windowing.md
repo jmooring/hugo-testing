@@ -18,41 +18,41 @@ The package libxfce4windowing (version 4.19.2^git20231104.1fbbf17):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [bg]({{< ref "/f38/language/bg.md" >}}) | 63 | 63 | 100.0 | /mnt/stockage/packages/f38/libxfce4windowing/po/bg.po | 
- | [ca]({{< ref "/f38/language/ca.md" >}}) | 63 | 63 | 100.0 | /mnt/stockage/packages/f38/libxfce4windowing/po/ca.po | 
- | [da]({{< ref "/f38/language/da.md" >}}) | 63 | 63 | 100.0 | /mnt/stockage/packages/f38/libxfce4windowing/po/da.po | 
- | [de]({{< ref "/f38/language/de.md" >}}) | 63 | 63 | 100.0 | /mnt/stockage/packages/f38/libxfce4windowing/po/de.po | 
- | [en_CA]({{< ref "/f38/language/en_CA.md" >}}) | 63 | 63 | 100.0 | /mnt/stockage/packages/f38/libxfce4windowing/po/en_CA.po | 
- | [en_GB]({{< ref "/f38/language/en_GB.md" >}}) | 63 | 63 | 100.0 | /mnt/stockage/packages/f38/libxfce4windowing/po/en_GB.po | 
- | [es]({{< ref "/f38/language/es.md" >}}) | 63 | 63 | 100.0 | /mnt/stockage/packages/f38/libxfce4windowing/po/es.po | 
- | [et]({{< ref "/f38/language/et.md" >}}) | 63 | 63 | 100.0 | /mnt/stockage/packages/f38/libxfce4windowing/po/et.po | 
- | [fr]({{< ref "/f38/language/fr.md" >}}) | 63 | 63 | 100.0 | /mnt/stockage/packages/f38/libxfce4windowing/po/fr.po | 
- | [he]({{< ref "/f38/language/he.md" >}}) | 63 | 63 | 100.0 | /mnt/stockage/packages/f38/libxfce4windowing/po/he.po | 
- | [id]({{< ref "/f38/language/id.md" >}}) | 63 | 63 | 100.0 | /mnt/stockage/packages/f38/libxfce4windowing/po/id.po | 
- | [ie]({{< ref "/f38/language/ie.md" >}}) | 63 | 63 | 100.0 | /mnt/stockage/packages/f38/libxfce4windowing/po/ie.po | 
- | [it]({{< ref "/f38/language/it.md" >}}) | 63 | 63 | 100.0 | /mnt/stockage/packages/f38/libxfce4windowing/po/it.po | 
- | [ja]({{< ref "/f38/language/ja.md" >}}) | 63 | 63 | 100.0 | /mnt/stockage/packages/f38/libxfce4windowing/po/ja.po | 
- | [ko]({{< ref "/f38/language/ko.md" >}}) | 63 | 63 | 100.0 | /mnt/stockage/packages/f38/libxfce4windowing/po/ko.po | 
- | [lt]({{< ref "/f38/language/lt.md" >}}) | 63 | 63 | 100.0 | /mnt/stockage/packages/f38/libxfce4windowing/po/lt.po | 
- | [nb_NO]({{< ref "/f38/language/nb_NO.md" >}}) | 63 | 63 | 100.0 | /mnt/stockage/packages/f38/libxfce4windowing/po/nb.po | 
- | [nl]({{< ref "/f38/language/nl.md" >}}) | 63 | 63 | 100.0 | /mnt/stockage/packages/f38/libxfce4windowing/po/nl.po | 
- | [pl]({{< ref "/f38/language/pl.md" >}}) | 63 | 63 | 100.0 | /mnt/stockage/packages/f38/libxfce4windowing/po/pl.po | 
- | [pt]({{< ref "/f38/language/pt.md" >}}) | 63 | 63 | 100.0 | /mnt/stockage/packages/f38/libxfce4windowing/po/pt.po | 
- | [pt_BR]({{< ref "/f38/language/pt_BR.md" >}}) | 63 | 63 | 100.0 | /mnt/stockage/packages/f38/libxfce4windowing/po/pt_BR.po | 
- | [ru]({{< ref "/f38/language/ru.md" >}}) | 63 | 63 | 100.0 | /mnt/stockage/packages/f38/libxfce4windowing/po/ru.po | 
- | [sl]({{< ref "/f38/language/sl.md" >}}) | 63 | 63 | 100.0 | /mnt/stockage/packages/f38/libxfce4windowing/po/sl.po | 
- | [sq]({{< ref "/f38/language/sq.md" >}}) | 63 | 63 | 100.0 | /mnt/stockage/packages/f38/libxfce4windowing/po/sq.po | 
- | [sr]({{< ref "/f38/language/sr.md" >}}) | 63 | 63 | 100.0 | /mnt/stockage/packages/f38/libxfce4windowing/po/sr.po | 
- | [sv]({{< ref "/f38/language/sv.md" >}}) | 63 | 63 | 100.0 | /mnt/stockage/packages/f38/libxfce4windowing/po/sv.po | 
- | [tr]({{< ref "/f38/language/tr.md" >}}) | 63 | 63 | 100.0 | /mnt/stockage/packages/f38/libxfce4windowing/po/tr.po | 
- | [uk]({{< ref "/f38/language/uk.md" >}}) | 63 | 63 | 100.0 | /mnt/stockage/packages/f38/libxfce4windowing/po/uk.po | 
- | [zh_Hans]({{< ref "/f38/language/zh_Hans.md" >}}) | 63 | 63 | 100.0 | /mnt/stockage/packages/f38/libxfce4windowing/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f38/language/zh_Hant.md" >}}) | 63 | 63 | 100.0 | /mnt/stockage/packages/f38/libxfce4windowing/po/zh_TW.po | 
- | [oc]({{< ref "/f38/language/oc.md" >}}) | 40 | 63 | 63.5 | /mnt/stockage/packages/f38/libxfce4windowing/po/oc.po | 
- | [ga]({{< ref "/f38/language/ga.md" >}}) | 39 | 63 | 61.9 | /mnt/stockage/packages/f38/libxfce4windowing/po/ga.po | 
- | [hr]({{< ref "/f38/language/hr.md" >}}) | 38 | 63 | 60.3 | /mnt/stockage/packages/f38/libxfce4windowing/po/hr.po | 
- | [fi]({{< ref "/f38/language/fi.md" >}}) | 36 | 63 | 57.1 | /mnt/stockage/packages/f38/libxfce4windowing/po/fi.po | 
- | [ro]({{< ref "/f38/language/ro.md" >}}) | 25 | 63 | 39.7 | /mnt/stockage/packages/f38/libxfce4windowing/po/ro.po | 
+ | [bg](/f38/language/bg) | 63 | 63 | 100.0 | /mnt/stockage/packages/f38/libxfce4windowing/po/bg.po | 
+ | [ca](/f38/language/ca) | 63 | 63 | 100.0 | /mnt/stockage/packages/f38/libxfce4windowing/po/ca.po | 
+ | [da](/f38/language/da) | 63 | 63 | 100.0 | /mnt/stockage/packages/f38/libxfce4windowing/po/da.po | 
+ | [de](/f38/language/de) | 63 | 63 | 100.0 | /mnt/stockage/packages/f38/libxfce4windowing/po/de.po | 
+ | [en_CA](/f38/language/en_CA) | 63 | 63 | 100.0 | /mnt/stockage/packages/f38/libxfce4windowing/po/en_CA.po | 
+ | [en_GB](/f38/language/en_GB) | 63 | 63 | 100.0 | /mnt/stockage/packages/f38/libxfce4windowing/po/en_GB.po | 
+ | [es](/f38/language/es) | 63 | 63 | 100.0 | /mnt/stockage/packages/f38/libxfce4windowing/po/es.po | 
+ | [et](/f38/language/et) | 63 | 63 | 100.0 | /mnt/stockage/packages/f38/libxfce4windowing/po/et.po | 
+ | [fr](/f38/language/fr) | 63 | 63 | 100.0 | /mnt/stockage/packages/f38/libxfce4windowing/po/fr.po | 
+ | [he](/f38/language/he) | 63 | 63 | 100.0 | /mnt/stockage/packages/f38/libxfce4windowing/po/he.po | 
+ | [id](/f38/language/id) | 63 | 63 | 100.0 | /mnt/stockage/packages/f38/libxfce4windowing/po/id.po | 
+ | [ie](/f38/language/ie) | 63 | 63 | 100.0 | /mnt/stockage/packages/f38/libxfce4windowing/po/ie.po | 
+ | [it](/f38/language/it) | 63 | 63 | 100.0 | /mnt/stockage/packages/f38/libxfce4windowing/po/it.po | 
+ | [ja](/f38/language/ja) | 63 | 63 | 100.0 | /mnt/stockage/packages/f38/libxfce4windowing/po/ja.po | 
+ | [ko](/f38/language/ko) | 63 | 63 | 100.0 | /mnt/stockage/packages/f38/libxfce4windowing/po/ko.po | 
+ | [lt](/f38/language/lt) | 63 | 63 | 100.0 | /mnt/stockage/packages/f38/libxfce4windowing/po/lt.po | 
+ | [nb_NO](/f38/language/nb_NO) | 63 | 63 | 100.0 | /mnt/stockage/packages/f38/libxfce4windowing/po/nb.po | 
+ | [nl](/f38/language/nl) | 63 | 63 | 100.0 | /mnt/stockage/packages/f38/libxfce4windowing/po/nl.po | 
+ | [pl](/f38/language/pl) | 63 | 63 | 100.0 | /mnt/stockage/packages/f38/libxfce4windowing/po/pl.po | 
+ | [pt](/f38/language/pt) | 63 | 63 | 100.0 | /mnt/stockage/packages/f38/libxfce4windowing/po/pt.po | 
+ | [pt_BR](/f38/language/pt_BR) | 63 | 63 | 100.0 | /mnt/stockage/packages/f38/libxfce4windowing/po/pt_BR.po | 
+ | [ru](/f38/language/ru) | 63 | 63 | 100.0 | /mnt/stockage/packages/f38/libxfce4windowing/po/ru.po | 
+ | [sl](/f38/language/sl) | 63 | 63 | 100.0 | /mnt/stockage/packages/f38/libxfce4windowing/po/sl.po | 
+ | [sq](/f38/language/sq) | 63 | 63 | 100.0 | /mnt/stockage/packages/f38/libxfce4windowing/po/sq.po | 
+ | [sr](/f38/language/sr) | 63 | 63 | 100.0 | /mnt/stockage/packages/f38/libxfce4windowing/po/sr.po | 
+ | [sv](/f38/language/sv) | 63 | 63 | 100.0 | /mnt/stockage/packages/f38/libxfce4windowing/po/sv.po | 
+ | [tr](/f38/language/tr) | 63 | 63 | 100.0 | /mnt/stockage/packages/f38/libxfce4windowing/po/tr.po | 
+ | [uk](/f38/language/uk) | 63 | 63 | 100.0 | /mnt/stockage/packages/f38/libxfce4windowing/po/uk.po | 
+ | [zh_Hans](/f38/language/zh_Hans) | 63 | 63 | 100.0 | /mnt/stockage/packages/f38/libxfce4windowing/po/zh_CN.po | 
+ | [zh_Hant](/f38/language/zh_Hant) | 63 | 63 | 100.0 | /mnt/stockage/packages/f38/libxfce4windowing/po/zh_TW.po | 
+ | [oc](/f38/language/oc) | 40 | 63 | 63.5 | /mnt/stockage/packages/f38/libxfce4windowing/po/oc.po | 
+ | [ga](/f38/language/ga) | 39 | 63 | 61.9 | /mnt/stockage/packages/f38/libxfce4windowing/po/ga.po | 
+ | [hr](/f38/language/hr) | 38 | 63 | 60.3 | /mnt/stockage/packages/f38/libxfce4windowing/po/hr.po | 
+ | [fi](/f38/language/fi) | 36 | 63 | 57.1 | /mnt/stockage/packages/f38/libxfce4windowing/po/fi.po | 
+ | [ro](/f38/language/ro) | 25 | 63 | 39.7 | /mnt/stockage/packages/f38/libxfce4windowing/po/ro.po | 
 {.sortable}
 
 

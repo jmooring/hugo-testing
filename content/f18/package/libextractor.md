@@ -18,16 +18,16 @@ The package libextractor (version 0.6.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [uk]({{< ref "/f18/language/uk.md" >}}) | 1698 | 1711 | 99.2 | /mnt/stockage/packages/f18/libextractor/po/uk.po | 
- | [vi]({{< ref "/f18/language/vi.md" >}}) | 1698 | 1711 | 99.2 | /mnt/stockage/packages/f18/libextractor/po/vi.po | 
- | [sv]({{< ref "/f18/language/sv.md" >}}) | 598 | 1711 | 35.0 | /mnt/stockage/packages/f18/libextractor/po/sv.po | 
- | [ga]({{< ref "/f18/language/ga.md" >}}) | 580 | 1711 | 33.9 | /mnt/stockage/packages/f18/libextractor/po/ga.po | 
- | [nl]({{< ref "/f18/language/nl.md" >}}) | 580 | 1711 | 33.9 | /mnt/stockage/packages/f18/libextractor/po/nl.po | 
- | [it]({{< ref "/f18/language/it.md" >}}) | 579 | 1711 | 33.8 | /mnt/stockage/packages/f18/libextractor/po/it.po | 
- | [de]({{< ref "/f18/language/de.md" >}}) | 556 | 1711 | 32.5 | /mnt/stockage/packages/f18/libextractor/po/de.po | 
- | [fr]({{< ref "/f18/language/fr.md" >}}) | 498 | 1711 | 29.1 | /mnt/stockage/packages/f18/libextractor/po/fr.po | 
- | [ro]({{< ref "/f18/language/ro.md" >}}) | 462 | 1711 | 27.0 | /mnt/stockage/packages/f18/libextractor/po/ro.po | 
- | [rw]({{< ref "/f18/language/rw.md" >}}) | 10 | 1711 | 0.6 | /mnt/stockage/packages/f18/libextractor/po/rw.po | 
+ | [uk](/f18/language/uk) | 1698 | 1711 | 99.2 | /mnt/stockage/packages/f18/libextractor/po/uk.po | 
+ | [vi](/f18/language/vi) | 1698 | 1711 | 99.2 | /mnt/stockage/packages/f18/libextractor/po/vi.po | 
+ | [sv](/f18/language/sv) | 598 | 1711 | 35.0 | /mnt/stockage/packages/f18/libextractor/po/sv.po | 
+ | [ga](/f18/language/ga) | 580 | 1711 | 33.9 | /mnt/stockage/packages/f18/libextractor/po/ga.po | 
+ | [nl](/f18/language/nl) | 580 | 1711 | 33.9 | /mnt/stockage/packages/f18/libextractor/po/nl.po | 
+ | [it](/f18/language/it) | 579 | 1711 | 33.8 | /mnt/stockage/packages/f18/libextractor/po/it.po | 
+ | [de](/f18/language/de) | 556 | 1711 | 32.5 | /mnt/stockage/packages/f18/libextractor/po/de.po | 
+ | [fr](/f18/language/fr) | 498 | 1711 | 29.1 | /mnt/stockage/packages/f18/libextractor/po/fr.po | 
+ | [ro](/f18/language/ro) | 462 | 1711 | 27.0 | /mnt/stockage/packages/f18/libextractor/po/ro.po | 
+ | [rw](/f18/language/rw) | 10 | 1711 | 0.6 | /mnt/stockage/packages/f18/libextractor/po/rw.po | 
 {.sortable}
 
 

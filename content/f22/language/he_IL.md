@@ -38,19 +38,19 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [boost]({{< ref "/f22/package/boost.md" >}}) | 1 | 1 | 100.0 |  | 
- | [gnome-clocks]({{< ref "/f22/package/gnome-clocks.md" >}}) | 223 | 223 | 100.0 | עברית <> | 
- | [gnome-color-manager]({{< ref "/f22/package/gnome-color-manager.md" >}}) | 1793 | 1793 | 100.0 | עברית <> | 
- | [gnome-contacts]({{< ref "/f22/package/gnome-contacts.md" >}}) | 411 | 411 | 100.0 | עברית <> | 
- | [mingw-boost]({{< ref "/f22/package/mingw-boost.md" >}}) | 1 | 1 | 100.0 |  | 
- | [rygel]({{< ref "/f22/package/rygel.md" >}}) | 971 | 1140 | 85.2 | עברית <> | 
- | [konversation]({{< ref "/f22/package/konversation.md" >}}) | 5677 | 10235 | 55.5 | Hebrew <kde-i18n-doc@kde.org> | 
- | [poedit]({{< ref "/f22/package/poedit.md" >}}) | 1185 | 2461 | 48.2 | Hebrew | 
- | [glpi]({{< ref "/f22/package/glpi.md" >}}) | 4295 | 10636 | 40.4 | Hebrew (Israel) (http://www.transifex.com/glpi/GLPI/language/he_IL/) | 
- | [squirrelmail]({{< ref "/f22/package/squirrelmail.md" >}}) | 2440 | 6878 | 35.5 | HEBREW <squirrelmail-i18n@lists.sourceforge.net> | 
- | [wxPython]({{< ref "/f22/package/wxPython.md" >}}) | 360 | 2457 | 14.7 | Hebrew <he@li.org> | 
- | [clementine]({{< ref "/f22/package/clementine.md" >}}) | 0 | 5091 | 0.0 | Hebrew (Israel) (http://www.transifex.com/davidsansome/clementine/language/he_IL/) | 
- | [publican-fedora]({{< ref "/f22/package/publican-fedora.md" >}}) | 0 | 1 | 0.0 | None | 
+ | [boost](/f22/package/boost) | 1 | 1 | 100.0 |  | 
+ | [gnome-clocks](/f22/package/gnome-clocks) | 223 | 223 | 100.0 | עברית <> | 
+ | [gnome-color-manager](/f22/package/gnome-color-manager) | 1793 | 1793 | 100.0 | עברית <> | 
+ | [gnome-contacts](/f22/package/gnome-contacts) | 411 | 411 | 100.0 | עברית <> | 
+ | [mingw-boost](/f22/package/mingw-boost) | 1 | 1 | 100.0 |  | 
+ | [rygel](/f22/package/rygel) | 971 | 1140 | 85.2 | עברית <> | 
+ | [konversation](/f22/package/konversation) | 5677 | 10235 | 55.5 | Hebrew <kde-i18n-doc@kde.org> | 
+ | [poedit](/f22/package/poedit) | 1185 | 2461 | 48.2 | Hebrew | 
+ | [glpi](/f22/package/glpi) | 4295 | 10636 | 40.4 | Hebrew (Israel) (http://www.transifex.com/glpi/GLPI/language/he_IL/) | 
+ | [squirrelmail](/f22/package/squirrelmail) | 2440 | 6878 | 35.5 | HEBREW <squirrelmail-i18n@lists.sourceforge.net> | 
+ | [wxPython](/f22/package/wxPython) | 360 | 2457 | 14.7 | Hebrew <he@li.org> | 
+ | [clementine](/f22/package/clementine) | 0 | 5091 | 0.0 | Hebrew (Israel) (http://www.transifex.com/davidsansome/clementine/language/he_IL/) | 
+ | [publican-fedora](/f22/package/publican-fedora) | 0 | 1 | 0.0 | None | 
 {.sortable}
 
 

@@ -18,24 +18,24 @@ The package zanshin (version 0.2.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [da]({{< ref "/f19/language/da.md" >}}) | 322 | 322 | 100.0 | /mnt/stockage/packages/f19/zanshin/da/zanshin.po | 
- | [es]({{< ref "/f19/language/es.md" >}}) | 322 | 322 | 100.0 | /mnt/stockage/packages/f19/zanshin/es/zanshin.po | 
- | [fr]({{< ref "/f19/language/fr.md" >}}) | 322 | 322 | 100.0 | /mnt/stockage/packages/f19/zanshin/fr/zanshin.po | 
- | [nl]({{< ref "/f19/language/nl.md" >}}) | 322 | 322 | 100.0 | /mnt/stockage/packages/f19/zanshin/nl/zanshin.po | 
- | [pl]({{< ref "/f19/language/pl.md" >}}) | 322 | 322 | 100.0 | /mnt/stockage/packages/f19/zanshin/pl/zanshin.po | 
- | [pt]({{< ref "/f19/language/pt.md" >}}) | 322 | 322 | 100.0 | /mnt/stockage/packages/f19/zanshin/pt/zanshin.po | 
- | [pt_BR]({{< ref "/f19/language/pt_BR.md" >}}) | 322 | 322 | 100.0 | /mnt/stockage/packages/f19/zanshin/pt_BR/zanshin.po | 
- | [sv]({{< ref "/f19/language/sv.md" >}}) | 322 | 322 | 100.0 | /mnt/stockage/packages/f19/zanshin/sv/zanshin.po | 
- | [uk]({{< ref "/f19/language/uk.md" >}}) | 322 | 322 | 100.0 | /mnt/stockage/packages/f19/zanshin/uk/zanshin.po | 
- | [it]({{< ref "/f19/language/it.md" >}}) | 309 | 322 | 96.0 | /mnt/stockage/packages/f19/zanshin/it/zanshin.po | 
- | [nb_NO]({{< ref "/f19/language/nb_NO.md" >}}) | 227 | 322 | 70.5 | /mnt/stockage/packages/f19/zanshin/nb/zanshin.po | 
- | [et]({{< ref "/f19/language/et.md" >}}) | 211 | 322 | 65.5 | /mnt/stockage/packages/f19/zanshin/et/zanshin.po | 
- | [de]({{< ref "/f19/language/de.md" >}}) | 210 | 322 | 65.2 | /mnt/stockage/packages/f19/zanshin/de/zanshin.po | 
- | [nds]({{< ref "/f19/language/nds.md" >}}) | 77 | 322 | 23.9 | /mnt/stockage/packages/f19/zanshin/nds/zanshin.po | 
- | [cs]({{< ref "/f19/language/cs.md" >}}) | 59 | 322 | 18.3 | /mnt/stockage/packages/f19/zanshin/cs/zanshin.po | 
- | [ug]({{< ref "/f19/language/ug.md" >}}) | 36 | 322 | 11.2 | /mnt/stockage/packages/f19/zanshin/ug/zanshin.po | 
- | [ja]({{< ref "/f19/language/ja.md" >}}) | 0 | 322 | 0.0 | /mnt/stockage/packages/f19/zanshin/ja/zanshin.po | 
- | [lt]({{< ref "/f19/language/lt.md" >}}) | 0 | 322 | 0.0 | /mnt/stockage/packages/f19/zanshin/lt/zanshin.po | 
+ | [da](/f19/language/da) | 322 | 322 | 100.0 | /mnt/stockage/packages/f19/zanshin/da/zanshin.po | 
+ | [es](/f19/language/es) | 322 | 322 | 100.0 | /mnt/stockage/packages/f19/zanshin/es/zanshin.po | 
+ | [fr](/f19/language/fr) | 322 | 322 | 100.0 | /mnt/stockage/packages/f19/zanshin/fr/zanshin.po | 
+ | [nl](/f19/language/nl) | 322 | 322 | 100.0 | /mnt/stockage/packages/f19/zanshin/nl/zanshin.po | 
+ | [pl](/f19/language/pl) | 322 | 322 | 100.0 | /mnt/stockage/packages/f19/zanshin/pl/zanshin.po | 
+ | [pt](/f19/language/pt) | 322 | 322 | 100.0 | /mnt/stockage/packages/f19/zanshin/pt/zanshin.po | 
+ | [pt_BR](/f19/language/pt_BR) | 322 | 322 | 100.0 | /mnt/stockage/packages/f19/zanshin/pt_BR/zanshin.po | 
+ | [sv](/f19/language/sv) | 322 | 322 | 100.0 | /mnt/stockage/packages/f19/zanshin/sv/zanshin.po | 
+ | [uk](/f19/language/uk) | 322 | 322 | 100.0 | /mnt/stockage/packages/f19/zanshin/uk/zanshin.po | 
+ | [it](/f19/language/it) | 309 | 322 | 96.0 | /mnt/stockage/packages/f19/zanshin/it/zanshin.po | 
+ | [nb_NO](/f19/language/nb_NO) | 227 | 322 | 70.5 | /mnt/stockage/packages/f19/zanshin/nb/zanshin.po | 
+ | [et](/f19/language/et) | 211 | 322 | 65.5 | /mnt/stockage/packages/f19/zanshin/et/zanshin.po | 
+ | [de](/f19/language/de) | 210 | 322 | 65.2 | /mnt/stockage/packages/f19/zanshin/de/zanshin.po | 
+ | [nds](/f19/language/nds) | 77 | 322 | 23.9 | /mnt/stockage/packages/f19/zanshin/nds/zanshin.po | 
+ | [cs](/f19/language/cs) | 59 | 322 | 18.3 | /mnt/stockage/packages/f19/zanshin/cs/zanshin.po | 
+ | [ug](/f19/language/ug) | 36 | 322 | 11.2 | /mnt/stockage/packages/f19/zanshin/ug/zanshin.po | 
+ | [ja](/f19/language/ja) | 0 | 322 | 0.0 | /mnt/stockage/packages/f19/zanshin/ja/zanshin.po | 
+ | [lt](/f19/language/lt) | 0 | 322 | 0.0 | /mnt/stockage/packages/f19/zanshin/lt/zanshin.po | 
 {.sortable}
 
 

@@ -18,8 +18,8 @@ The package polyester (version 2.0.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [pl]({{< ref "/f16/language/pl.md" >}}) | 126 | 4397 | 2.9 | /mnt/stockage/packages/f16/polyester/po/pl/kstyle_polyester_config.po | 
- | [it]({{< ref "/f16/language/it.md" >}}) | 111 | 4397 | 2.5 | /mnt/stockage/packages/f16/polyester/po/it/kstyle_polyester_config.po | 
+ | [pl](/f16/language/pl) | 126 | 4397 | 2.9 | /mnt/stockage/packages/f16/polyester/po/pl/kstyle_polyester_config.po | 
+ | [it](/f16/language/it) | 111 | 4397 | 2.5 | /mnt/stockage/packages/f16/polyester/po/it/kstyle_polyester_config.po | 
 {.sortable}
 
 

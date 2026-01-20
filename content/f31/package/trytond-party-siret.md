@@ -18,26 +18,26 @@ The package trytond-party-siret (version 4.0.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f31/language/ca.md" >}}) | 18 | 18 | 100.0 | /mnt/stockage/packages/f31/trytond-party-siret/locale/ca_ES.po | 
- | [de]({{< ref "/f31/language/de.md" >}}) | 18 | 18 | 100.0 | /mnt/stockage/packages/f31/trytond-party-siret/locale/de_DE.po | 
- | [es]({{< ref "/f31/language/es.md" >}}) | 18 | 18 | 100.0 | /mnt/stockage/packages/f31/trytond-party-siret/locale/es_ES.po | 
- | [es_AR]({{< ref "/f31/language/es_AR.md" >}}) | 18 | 18 | 100.0 | /mnt/stockage/packages/f31/trytond-party-siret/locale/es_AR.po | 
- | [es_CO]({{< ref "/f31/language/es_CO.md" >}}) | 18 | 18 | 100.0 | /mnt/stockage/packages/f31/trytond-party-siret/locale/es_CO.po | 
- | [es_EC]({{< ref "/f31/language/es_EC.md" >}}) | 18 | 18 | 100.0 | /mnt/stockage/packages/f31/trytond-party-siret/locale/es_EC.po | 
- | [es_MX]({{< ref "/f31/language/es_MX.md" >}}) | 18 | 18 | 100.0 | /mnt/stockage/packages/f31/trytond-party-siret/locale/es_MX.po | 
- | [fr]({{< ref "/f31/language/fr.md" >}}) | 18 | 18 | 100.0 | /mnt/stockage/packages/f31/trytond-party-siret/locale/fr_FR.po | 
- | [hu]({{< ref "/f31/language/hu.md" >}}) | 18 | 18 | 100.0 | /mnt/stockage/packages/f31/trytond-party-siret/locale/hu_HU.po | 
- | [pt_BR]({{< ref "/f31/language/pt_BR.md" >}}) | 18 | 18 | 100.0 | /mnt/stockage/packages/f31/trytond-party-siret/locale/pt_BR.po | 
- | [sl]({{< ref "/f31/language/sl.md" >}}) | 18 | 18 | 100.0 | /mnt/stockage/packages/f31/trytond-party-siret/locale/sl_SI.po | 
- | [bg]({{< ref "/f31/language/bg.md" >}}) | 4 | 18 | 22.2 | /mnt/stockage/packages/f31/trytond-party-siret/locale/bg_BG.po | 
- | [cs]({{< ref "/f31/language/cs.md" >}}) | 0 | 18 | 0.0 | /mnt/stockage/packages/f31/trytond-party-siret/locale/cs_CZ.po | 
- | [it]({{< ref "/f31/language/it.md" >}}) | 0 | 18 | 0.0 | /mnt/stockage/packages/f31/trytond-party-siret/locale/it_IT.po | 
- | [ja]({{< ref "/f31/language/ja.md" >}}) | 0 | 18 | 0.0 | /mnt/stockage/packages/f31/trytond-party-siret/locale/ja_JP.po | 
- | [lo]({{< ref "/f31/language/lo.md" >}}) | 0 | 18 | 0.0 | /mnt/stockage/packages/f31/trytond-party-siret/locale/lo_LA.po | 
- | [lt]({{< ref "/f31/language/lt.md" >}}) | 0 | 18 | 0.0 | /mnt/stockage/packages/f31/trytond-party-siret/locale/lt_LT.po | 
- | [nl]({{< ref "/f31/language/nl.md" >}}) | 0 | 18 | 0.0 | /mnt/stockage/packages/f31/trytond-party-siret/locale/nl_NL.po | 
- | [ru]({{< ref "/f31/language/ru.md" >}}) | 0 | 18 | 0.0 | /mnt/stockage/packages/f31/trytond-party-siret/locale/ru_RU.po | 
- | [zh_Hans]({{< ref "/f31/language/zh_Hans.md" >}}) | 0 | 18 | 0.0 | /mnt/stockage/packages/f31/trytond-party-siret/locale/zh_CN.po | 
+ | [ca](/f31/language/ca) | 18 | 18 | 100.0 | /mnt/stockage/packages/f31/trytond-party-siret/locale/ca_ES.po | 
+ | [de](/f31/language/de) | 18 | 18 | 100.0 | /mnt/stockage/packages/f31/trytond-party-siret/locale/de_DE.po | 
+ | [es](/f31/language/es) | 18 | 18 | 100.0 | /mnt/stockage/packages/f31/trytond-party-siret/locale/es_ES.po | 
+ | [es_AR](/f31/language/es_AR) | 18 | 18 | 100.0 | /mnt/stockage/packages/f31/trytond-party-siret/locale/es_AR.po | 
+ | [es_CO](/f31/language/es_CO) | 18 | 18 | 100.0 | /mnt/stockage/packages/f31/trytond-party-siret/locale/es_CO.po | 
+ | [es_EC](/f31/language/es_EC) | 18 | 18 | 100.0 | /mnt/stockage/packages/f31/trytond-party-siret/locale/es_EC.po | 
+ | [es_MX](/f31/language/es_MX) | 18 | 18 | 100.0 | /mnt/stockage/packages/f31/trytond-party-siret/locale/es_MX.po | 
+ | [fr](/f31/language/fr) | 18 | 18 | 100.0 | /mnt/stockage/packages/f31/trytond-party-siret/locale/fr_FR.po | 
+ | [hu](/f31/language/hu) | 18 | 18 | 100.0 | /mnt/stockage/packages/f31/trytond-party-siret/locale/hu_HU.po | 
+ | [pt_BR](/f31/language/pt_BR) | 18 | 18 | 100.0 | /mnt/stockage/packages/f31/trytond-party-siret/locale/pt_BR.po | 
+ | [sl](/f31/language/sl) | 18 | 18 | 100.0 | /mnt/stockage/packages/f31/trytond-party-siret/locale/sl_SI.po | 
+ | [bg](/f31/language/bg) | 4 | 18 | 22.2 | /mnt/stockage/packages/f31/trytond-party-siret/locale/bg_BG.po | 
+ | [cs](/f31/language/cs) | 0 | 18 | 0.0 | /mnt/stockage/packages/f31/trytond-party-siret/locale/cs_CZ.po | 
+ | [it](/f31/language/it) | 0 | 18 | 0.0 | /mnt/stockage/packages/f31/trytond-party-siret/locale/it_IT.po | 
+ | [ja](/f31/language/ja) | 0 | 18 | 0.0 | /mnt/stockage/packages/f31/trytond-party-siret/locale/ja_JP.po | 
+ | [lo](/f31/language/lo) | 0 | 18 | 0.0 | /mnt/stockage/packages/f31/trytond-party-siret/locale/lo_LA.po | 
+ | [lt](/f31/language/lt) | 0 | 18 | 0.0 | /mnt/stockage/packages/f31/trytond-party-siret/locale/lt_LT.po | 
+ | [nl](/f31/language/nl) | 0 | 18 | 0.0 | /mnt/stockage/packages/f31/trytond-party-siret/locale/nl_NL.po | 
+ | [ru](/f31/language/ru) | 0 | 18 | 0.0 | /mnt/stockage/packages/f31/trytond-party-siret/locale/ru_RU.po | 
+ | [zh_Hans](/f31/language/zh_Hans) | 0 | 18 | 0.0 | /mnt/stockage/packages/f31/trytond-party-siret/locale/zh_CN.po | 
 {.sortable}
 
 

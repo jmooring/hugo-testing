@@ -18,11 +18,11 @@ The package debhelper (version 13.9.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [pt]({{< ref "/f35/language/pt.md" >}}) | 24888 | 25030 | 99.4 | /mnt/stockage/packages/f35/debhelper/man/po4a/po/pt.po | 
- | [fr]({{< ref "/f35/language/fr.md" >}}) | 23337 | 25030 | 93.2 | /mnt/stockage/packages/f35/debhelper/man/po4a/po/fr.po | 
- | [de]({{< ref "/f35/language/de.md" >}}) | 23147 | 25030 | 92.5 | /mnt/stockage/packages/f35/debhelper/man/po4a/po/de.po | 
- | [ja]({{< ref "/f35/language/ja.md" >}}) | 11564 | 25030 | 46.2 | /mnt/stockage/packages/f35/debhelper/man/po4a/po/ja.po | 
- | [es]({{< ref "/f35/language/es.md" >}}) | 10319 | 25030 | 41.2 | /mnt/stockage/packages/f35/debhelper/man/po4a/po/es.po | 
+ | [pt](/f35/language/pt) | 24888 | 25030 | 99.4 | /mnt/stockage/packages/f35/debhelper/man/po4a/po/pt.po | 
+ | [fr](/f35/language/fr) | 23337 | 25030 | 93.2 | /mnt/stockage/packages/f35/debhelper/man/po4a/po/fr.po | 
+ | [de](/f35/language/de) | 23147 | 25030 | 92.5 | /mnt/stockage/packages/f35/debhelper/man/po4a/po/de.po | 
+ | [ja](/f35/language/ja) | 11564 | 25030 | 46.2 | /mnt/stockage/packages/f35/debhelper/man/po4a/po/ja.po | 
+ | [es](/f35/language/es) | 10319 | 25030 | 41.2 | /mnt/stockage/packages/f35/debhelper/man/po4a/po/es.po | 
 {.sortable}
 
 

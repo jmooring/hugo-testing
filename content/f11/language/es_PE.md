@@ -38,10 +38,10 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [gnome-applets]({{< ref "/f11/package/gnome-applets.md" >}}) | 3858 | 3858 | 100.0 | Spanish <traductores@es.gnome.org> | 
- | [libgweather]({{< ref "/f11/package/libgweather.md" >}}) | 447 | 460 | 97.2 | Spanish <traductores@es.gnome.org> | 
- | [liblicense]({{< ref "/f11/package/liblicense.md" >}}) | 44 | 66 | 66.7 | LANGUAGE <LL@li.org> | 
- | [fuse-encfs]({{< ref "/f11/package/fuse-encfs.md" >}}) | 134 | 1311 | 10.2 | Spanish (Peru) <es_PE@li.org> | 
+ | [gnome-applets](/f11/package/gnome-applets) | 3858 | 3858 | 100.0 | Spanish <traductores@es.gnome.org> | 
+ | [libgweather](/f11/package/libgweather) | 447 | 460 | 97.2 | Spanish <traductores@es.gnome.org> | 
+ | [liblicense](/f11/package/liblicense) | 44 | 66 | 66.7 | LANGUAGE <LL@li.org> | 
+ | [fuse-encfs](/f11/package/fuse-encfs) | 134 | 1311 | 10.2 | Spanish (Peru) <es_PE@li.org> | 
 {.sortable}
 
 

@@ -18,9 +18,9 @@ The package openstack-ceilometer (version 2015.1.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f23/language/fr.md" >}}) | 89 | 89 | 100.0 | /mnt/stockage/packages/f23/openstack-ceilometer/ceilometer/locale/fr/LC_MESSAGES/ceilometer-log-info.po | 
- | [zh_Hans]({{< ref "/f23/language/zh_Hans.md" >}}) | 1780 | 2085 | 85.4 | /mnt/stockage/packages/f23/openstack-ceilometer/ceilometer/locale/zh_CN/LC_MESSAGES/ceilometer-log-info.po/mnt/stockage/packages/f23/openstack-ceilometer/ceilometer/locale/zh_CN/LC_MESSAGES/ceilometer.po/mnt/stockage/packages/f23/openstack-ceilometer/ceilometer/locale/zh_CN/LC_MESSAGES/ceilometer-log-error.po/mnt/stockage/packages/f23/openstack-ceilometer/ceilometer/locale/zh_CN/LC_MESSAGES/ceilometer-log-warning.po | 
- | [en_GB]({{< ref "/f23/language/en_GB.md" >}}) | 1397 | 1881 | 74.3 | /mnt/stockage/packages/f23/openstack-ceilometer/ceilometer/locale/en_GB/LC_MESSAGES/ceilometer-log-info.po/mnt/stockage/packages/f23/openstack-ceilometer/ceilometer/locale/en_GB/LC_MESSAGES/ceilometer.po | 
+ | [fr](/f23/language/fr) | 89 | 89 | 100.0 | /mnt/stockage/packages/f23/openstack-ceilometer/ceilometer/locale/fr/LC_MESSAGES/ceilometer-log-info.po | 
+ | [zh_Hans](/f23/language/zh_Hans) | 1780 | 2085 | 85.4 | /mnt/stockage/packages/f23/openstack-ceilometer/ceilometer/locale/zh_CN/LC_MESSAGES/ceilometer-log-info.po/mnt/stockage/packages/f23/openstack-ceilometer/ceilometer/locale/zh_CN/LC_MESSAGES/ceilometer.po/mnt/stockage/packages/f23/openstack-ceilometer/ceilometer/locale/zh_CN/LC_MESSAGES/ceilometer-log-error.po/mnt/stockage/packages/f23/openstack-ceilometer/ceilometer/locale/zh_CN/LC_MESSAGES/ceilometer-log-warning.po | 
+ | [en_GB](/f23/language/en_GB) | 1397 | 1881 | 74.3 | /mnt/stockage/packages/f23/openstack-ceilometer/ceilometer/locale/en_GB/LC_MESSAGES/ceilometer-log-info.po/mnt/stockage/packages/f23/openstack-ceilometer/ceilometer/locale/en_GB/LC_MESSAGES/ceilometer.po | 
 {.sortable}
 
 

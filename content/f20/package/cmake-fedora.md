@@ -18,10 +18,10 @@ The package cmake-fedora (version 2.3.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f20/language/de.md" >}}) | 263 | 277 | 94.9 | /mnt/stockage/packages/f20/cmake-fedora/test/data/po/de_DE.po | 
- | [es]({{< ref "/f20/language/es.md" >}}) | 263 | 277 | 94.9 | /mnt/stockage/packages/f20/cmake-fedora/test/data/po/es_ES.po | 
- | [fr]({{< ref "/f20/language/fr.md" >}}) | 263 | 277 | 94.9 | /mnt/stockage/packages/f20/cmake-fedora/test/data/po/fr_FR.po | 
- | [it]({{< ref "/f20/language/it.md" >}}) | 263 | 277 | 94.9 | /mnt/stockage/packages/f20/cmake-fedora/test/data/po/it_IT.po | 
+ | [de](/f20/language/de) | 263 | 277 | 94.9 | /mnt/stockage/packages/f20/cmake-fedora/test/data/po/de_DE.po | 
+ | [es](/f20/language/es) | 263 | 277 | 94.9 | /mnt/stockage/packages/f20/cmake-fedora/test/data/po/es_ES.po | 
+ | [fr](/f20/language/fr) | 263 | 277 | 94.9 | /mnt/stockage/packages/f20/cmake-fedora/test/data/po/fr_FR.po | 
+ | [it](/f20/language/it) | 263 | 277 | 94.9 | /mnt/stockage/packages/f20/cmake-fedora/test/data/po/it_IT.po | 
 {.sortable}
 
 

@@ -18,26 +18,26 @@ The package preupgrade (version 1.1.8):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f12/language/ar.md" >}}) | 801 | 801 | 100.0 | /mnt/stockage/packages/f12/preupgrade/po/ar.po | 
- | [bs]({{< ref "/f12/language/bs.md" >}}) | 801 | 801 | 100.0 | /mnt/stockage/packages/f12/preupgrade/po/bs.po | 
- | [de]({{< ref "/f12/language/de.md" >}}) | 801 | 801 | 100.0 | /mnt/stockage/packages/f12/preupgrade/po/de.po | 
- | [en_GB]({{< ref "/f12/language/en_GB.md" >}}) | 801 | 801 | 100.0 | /mnt/stockage/packages/f12/preupgrade/po/en_GB.po | 
- | [es]({{< ref "/f12/language/es.md" >}}) | 801 | 801 | 100.0 | /mnt/stockage/packages/f12/preupgrade/po/es.po | 
- | [fa]({{< ref "/f12/language/fa.md" >}}) | 801 | 801 | 100.0 | /mnt/stockage/packages/f12/preupgrade/po/fa.po | 
- | [fi]({{< ref "/f12/language/fi.md" >}}) | 801 | 801 | 100.0 | /mnt/stockage/packages/f12/preupgrade/po/fi.po | 
- | [fr]({{< ref "/f12/language/fr.md" >}}) | 801 | 801 | 100.0 | /mnt/stockage/packages/f12/preupgrade/po/fr.po | 
- | [he]({{< ref "/f12/language/he.md" >}}) | 801 | 801 | 100.0 | /mnt/stockage/packages/f12/preupgrade/po/he.po | 
- | [ja]({{< ref "/f12/language/ja.md" >}}) | 801 | 801 | 100.0 | /mnt/stockage/packages/f12/preupgrade/po/ja.po | 
- | [nl]({{< ref "/f12/language/nl.md" >}}) | 801 | 801 | 100.0 | /mnt/stockage/packages/f12/preupgrade/po/nl.po | 
- | [pl]({{< ref "/f12/language/pl.md" >}}) | 801 | 801 | 100.0 | /mnt/stockage/packages/f12/preupgrade/po/pl.po | 
- | [pt]({{< ref "/f12/language/pt.md" >}}) | 801 | 801 | 100.0 | /mnt/stockage/packages/f12/preupgrade/po/pt.po | 
- | [pt_BR]({{< ref "/f12/language/pt_BR.md" >}}) | 801 | 801 | 100.0 | /mnt/stockage/packages/f12/preupgrade/po/pt_BR.po | 
- | [ru]({{< ref "/f12/language/ru.md" >}}) | 801 | 801 | 100.0 | /mnt/stockage/packages/f12/preupgrade/po/ru.po | 
- | [sv]({{< ref "/f12/language/sv.md" >}}) | 801 | 801 | 100.0 | /mnt/stockage/packages/f12/preupgrade/po/sv.po | 
- | [uk]({{< ref "/f12/language/uk.md" >}}) | 801 | 801 | 100.0 | /mnt/stockage/packages/f12/preupgrade/po/uk.po | 
- | [zh_Hans]({{< ref "/f12/language/zh_Hans.md" >}}) | 801 | 801 | 100.0 | /mnt/stockage/packages/f12/preupgrade/po/zh_CN.po | 
- | [el]({{< ref "/f12/language/el.md" >}}) | 224 | 801 | 28.0 | /mnt/stockage/packages/f12/preupgrade/po/el.po | 
- | [ca]({{< ref "/f12/language/ca.md" >}}) | 154 | 801 | 19.2 | /mnt/stockage/packages/f12/preupgrade/po/ca.po | 
+ | [ar](/f12/language/ar) | 801 | 801 | 100.0 | /mnt/stockage/packages/f12/preupgrade/po/ar.po | 
+ | [bs](/f12/language/bs) | 801 | 801 | 100.0 | /mnt/stockage/packages/f12/preupgrade/po/bs.po | 
+ | [de](/f12/language/de) | 801 | 801 | 100.0 | /mnt/stockage/packages/f12/preupgrade/po/de.po | 
+ | [en_GB](/f12/language/en_GB) | 801 | 801 | 100.0 | /mnt/stockage/packages/f12/preupgrade/po/en_GB.po | 
+ | [es](/f12/language/es) | 801 | 801 | 100.0 | /mnt/stockage/packages/f12/preupgrade/po/es.po | 
+ | [fa](/f12/language/fa) | 801 | 801 | 100.0 | /mnt/stockage/packages/f12/preupgrade/po/fa.po | 
+ | [fi](/f12/language/fi) | 801 | 801 | 100.0 | /mnt/stockage/packages/f12/preupgrade/po/fi.po | 
+ | [fr](/f12/language/fr) | 801 | 801 | 100.0 | /mnt/stockage/packages/f12/preupgrade/po/fr.po | 
+ | [he](/f12/language/he) | 801 | 801 | 100.0 | /mnt/stockage/packages/f12/preupgrade/po/he.po | 
+ | [ja](/f12/language/ja) | 801 | 801 | 100.0 | /mnt/stockage/packages/f12/preupgrade/po/ja.po | 
+ | [nl](/f12/language/nl) | 801 | 801 | 100.0 | /mnt/stockage/packages/f12/preupgrade/po/nl.po | 
+ | [pl](/f12/language/pl) | 801 | 801 | 100.0 | /mnt/stockage/packages/f12/preupgrade/po/pl.po | 
+ | [pt](/f12/language/pt) | 801 | 801 | 100.0 | /mnt/stockage/packages/f12/preupgrade/po/pt.po | 
+ | [pt_BR](/f12/language/pt_BR) | 801 | 801 | 100.0 | /mnt/stockage/packages/f12/preupgrade/po/pt_BR.po | 
+ | [ru](/f12/language/ru) | 801 | 801 | 100.0 | /mnt/stockage/packages/f12/preupgrade/po/ru.po | 
+ | [sv](/f12/language/sv) | 801 | 801 | 100.0 | /mnt/stockage/packages/f12/preupgrade/po/sv.po | 
+ | [uk](/f12/language/uk) | 801 | 801 | 100.0 | /mnt/stockage/packages/f12/preupgrade/po/uk.po | 
+ | [zh_Hans](/f12/language/zh_Hans) | 801 | 801 | 100.0 | /mnt/stockage/packages/f12/preupgrade/po/zh_CN.po | 
+ | [el](/f12/language/el) | 224 | 801 | 28.0 | /mnt/stockage/packages/f12/preupgrade/po/el.po | 
+ | [ca](/f12/language/ca) | 154 | 801 | 19.2 | /mnt/stockage/packages/f12/preupgrade/po/ca.po | 
 {.sortable}
 
 

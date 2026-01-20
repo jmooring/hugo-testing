@@ -18,10 +18,10 @@ The package nordugrid-arc (version 6.19.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [sv]({{< ref "/f38/language/sv.md" >}}) | 27026 | 27101 | 99.7 | /mnt/stockage/packages/f38/nordugrid-arc/po/sv.po | 
- | [ru]({{< ref "/f38/language/ru.md" >}}) | 26910 | 27101 | 99.3 | /mnt/stockage/packages/f38/nordugrid-arc/po/ru.po | 
- | [de]({{< ref "/f38/language/de.md" >}}) | 1998 | 27101 | 7.4 | /mnt/stockage/packages/f38/nordugrid-arc/po/de.po | 
- | [hu]({{< ref "/f38/language/hu.md" >}}) | 401 | 27101 | 1.5 | /mnt/stockage/packages/f38/nordugrid-arc/po/hu.po | 
+ | [sv](/f38/language/sv) | 27026 | 27101 | 99.7 | /mnt/stockage/packages/f38/nordugrid-arc/po/sv.po | 
+ | [ru](/f38/language/ru) | 26910 | 27101 | 99.3 | /mnt/stockage/packages/f38/nordugrid-arc/po/ru.po | 
+ | [de](/f38/language/de) | 1998 | 27101 | 7.4 | /mnt/stockage/packages/f38/nordugrid-arc/po/de.po | 
+ | [hu](/f38/language/hu) | 401 | 27101 | 1.5 | /mnt/stockage/packages/f38/nordugrid-arc/po/hu.po | 
 {.sortable}
 
 

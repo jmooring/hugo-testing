@@ -18,8 +18,8 @@ The package conky-manager (version 2.3.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [hr]({{< ref "/f19/language/hr.md" >}}) | 661 | 661 | 100.0 | /mnt/stockage/packages/f19/conky-manager/po/conky-manager-hr.po | 
- | [cs]({{< ref "/f19/language/cs.md" >}}) | 555 | 661 | 84.0 | /mnt/stockage/packages/f19/conky-manager/po/conky-manager-cs.po | 
+ | [hr](/f19/language/hr) | 661 | 661 | 100.0 | /mnt/stockage/packages/f19/conky-manager/po/conky-manager-hr.po | 
+ | [cs](/f19/language/cs) | 555 | 661 | 84.0 | /mnt/stockage/packages/f19/conky-manager/po/conky-manager-cs.po | 
 {.sortable}
 
 

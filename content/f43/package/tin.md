@@ -18,18 +18,18 @@ The package tin (version 2.6.5):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [en_GB]({{< ref "/f43/language/en_GB.md" >}}) | 41075 | 41075 | 100.0 | /mnt/stockage/packages/f43/tin/po/en_GB.po/mnt/stockage/packages/f43/tin/po-man/en_GB.po | 
- | [de]({{< ref "/f43/language/de.md" >}}) | 39370 | 41075 | 95.8 | /mnt/stockage/packages/f43/tin/po/de.po/mnt/stockage/packages/f43/tin/po-man/de.po | 
- | [et]({{< ref "/f43/language/et.md" >}}) | 11347 | 13301 | 85.3 | /mnt/stockage/packages/f43/tin/po/et.po | 
- | [fr]({{< ref "/f43/language/fr.md" >}}) | 10987 | 13301 | 82.6 | /mnt/stockage/packages/f43/tin/po/fr.po | 
- | [tr]({{< ref "/f43/language/tr.md" >}}) | 9605 | 13301 | 72.2 | /mnt/stockage/packages/f43/tin/po/tr.po | 
- | [zh_Hans]({{< ref "/f43/language/zh_Hans.md" >}}) | 9378 | 13301 | 70.5 | /mnt/stockage/packages/f43/tin/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f43/language/zh_Hant.md" >}}) | 9378 | 13301 | 70.5 | /mnt/stockage/packages/f43/tin/po/zh_TW.po | 
- | [da]({{< ref "/f43/language/da.md" >}}) | 8639 | 13301 | 65.0 | /mnt/stockage/packages/f43/tin/po/da.po | 
- | [ro]({{< ref "/f43/language/ro.md" >}}) | 21965 | 41075 | 53.5 | /mnt/stockage/packages/f43/tin/po/ro.po/mnt/stockage/packages/f43/tin/po-man/ro.po | 
- | [ru]({{< ref "/f43/language/ru.md" >}}) | 6111 | 13301 | 45.9 | /mnt/stockage/packages/f43/tin/po/ru.po | 
- | [sv]({{< ref "/f43/language/sv.md" >}}) | 921 | 13301 | 6.9 | /mnt/stockage/packages/f43/tin/po/sv.po | 
- | [es]({{< ref "/f43/language/es.md" >}}) | 1931 | 41075 | 4.7 | /mnt/stockage/packages/f43/tin/po/es.po/mnt/stockage/packages/f43/tin/po-man/es.po | 
+ | [en_GB](/f43/language/en_GB) | 41075 | 41075 | 100.0 | /mnt/stockage/packages/f43/tin/po/en_GB.po/mnt/stockage/packages/f43/tin/po-man/en_GB.po | 
+ | [de](/f43/language/de) | 39370 | 41075 | 95.8 | /mnt/stockage/packages/f43/tin/po/de.po/mnt/stockage/packages/f43/tin/po-man/de.po | 
+ | [et](/f43/language/et) | 11347 | 13301 | 85.3 | /mnt/stockage/packages/f43/tin/po/et.po | 
+ | [fr](/f43/language/fr) | 10987 | 13301 | 82.6 | /mnt/stockage/packages/f43/tin/po/fr.po | 
+ | [tr](/f43/language/tr) | 9605 | 13301 | 72.2 | /mnt/stockage/packages/f43/tin/po/tr.po | 
+ | [zh_Hans](/f43/language/zh_Hans) | 9378 | 13301 | 70.5 | /mnt/stockage/packages/f43/tin/po/zh_CN.po | 
+ | [zh_Hant](/f43/language/zh_Hant) | 9378 | 13301 | 70.5 | /mnt/stockage/packages/f43/tin/po/zh_TW.po | 
+ | [da](/f43/language/da) | 8639 | 13301 | 65.0 | /mnt/stockage/packages/f43/tin/po/da.po | 
+ | [ro](/f43/language/ro) | 21965 | 41075 | 53.5 | /mnt/stockage/packages/f43/tin/po/ro.po/mnt/stockage/packages/f43/tin/po-man/ro.po | 
+ | [ru](/f43/language/ru) | 6111 | 13301 | 45.9 | /mnt/stockage/packages/f43/tin/po/ru.po | 
+ | [sv](/f43/language/sv) | 921 | 13301 | 6.9 | /mnt/stockage/packages/f43/tin/po/sv.po | 
+ | [es](/f43/language/es) | 1931 | 41075 | 4.7 | /mnt/stockage/packages/f43/tin/po/es.po/mnt/stockage/packages/f43/tin/po-man/es.po | 
 {.sortable}
 
 

@@ -18,25 +18,25 @@ The package flatpak (version 1.10.7):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [pl]({{< ref "/f34/language/pl.md" >}}) | 5711 | 5739 | 99.5 | /mnt/stockage/packages/f34/flatpak/po/pl.po | 
- | [uk]({{< ref "/f34/language/uk.md" >}}) | 5679 | 5739 | 99.0 | /mnt/stockage/packages/f34/flatpak/po/uk.po | 
- | [id]({{< ref "/f34/language/id.md" >}}) | 5635 | 5739 | 98.2 | /mnt/stockage/packages/f34/flatpak/po/id.po | 
- | [pt_BR]({{< ref "/f34/language/pt_BR.md" >}}) | 5634 | 5739 | 98.2 | /mnt/stockage/packages/f34/flatpak/po/pt_BR.po | 
- | [hr]({{< ref "/f34/language/hr.md" >}}) | 5411 | 5739 | 94.3 | /mnt/stockage/packages/f34/flatpak/po/hr.po | 
- | [ro]({{< ref "/f34/language/ro.md" >}}) | 5351 | 5739 | 93.2 | /mnt/stockage/packages/f34/flatpak/po/ro.po | 
- | [da]({{< ref "/f34/language/da.md" >}}) | 5210 | 5739 | 90.8 | /mnt/stockage/packages/f34/flatpak/po/da.po | 
- | [ru]({{< ref "/f34/language/ru.md" >}}) | 5190 | 5739 | 90.4 | /mnt/stockage/packages/f34/flatpak/po/ru.po | 
- | [zh_Hant]({{< ref "/f34/language/zh_Hant.md" >}}) | 5162 | 5739 | 89.9 | /mnt/stockage/packages/f34/flatpak/po/zh_TW.po | 
- | [cs]({{< ref "/f34/language/cs.md" >}}) | 4900 | 5739 | 85.4 | /mnt/stockage/packages/f34/flatpak/po/cs.po | 
- | [en_GB]({{< ref "/f34/language/en_GB.md" >}}) | 4721 | 5739 | 82.3 | /mnt/stockage/packages/f34/flatpak/po/en_GB.po | 
- | [es]({{< ref "/f34/language/es.md" >}}) | 3327 | 5739 | 58.0 | /mnt/stockage/packages/f34/flatpak/po/es.po | 
- | [sv]({{< ref "/f34/language/sv.md" >}}) | 3150 | 5739 | 54.9 | /mnt/stockage/packages/f34/flatpak/po/sv.po | 
- | [hu]({{< ref "/f34/language/hu.md" >}}) | 2380 | 5739 | 41.5 | /mnt/stockage/packages/f34/flatpak/po/hu.po | 
- | [tr]({{< ref "/f34/language/tr.md" >}}) | 2341 | 5739 | 40.8 | /mnt/stockage/packages/f34/flatpak/po/tr.po | 
- | [de]({{< ref "/f34/language/de.md" >}}) | 2327 | 5739 | 40.5 | /mnt/stockage/packages/f34/flatpak/po/de.po | 
- | [gl]({{< ref "/f34/language/gl.md" >}}) | 2232 | 5739 | 38.9 | /mnt/stockage/packages/f34/flatpak/po/gl.po | 
- | [sk]({{< ref "/f34/language/sk.md" >}}) | 509 | 5739 | 8.9 | /mnt/stockage/packages/f34/flatpak/po/sk.po | 
- | [oc]({{< ref "/f34/language/oc.md" >}}) | 157 | 5739 | 2.7 | /mnt/stockage/packages/f34/flatpak/po/oc.po | 
+ | [pl](/f34/language/pl) | 5711 | 5739 | 99.5 | /mnt/stockage/packages/f34/flatpak/po/pl.po | 
+ | [uk](/f34/language/uk) | 5679 | 5739 | 99.0 | /mnt/stockage/packages/f34/flatpak/po/uk.po | 
+ | [id](/f34/language/id) | 5635 | 5739 | 98.2 | /mnt/stockage/packages/f34/flatpak/po/id.po | 
+ | [pt_BR](/f34/language/pt_BR) | 5634 | 5739 | 98.2 | /mnt/stockage/packages/f34/flatpak/po/pt_BR.po | 
+ | [hr](/f34/language/hr) | 5411 | 5739 | 94.3 | /mnt/stockage/packages/f34/flatpak/po/hr.po | 
+ | [ro](/f34/language/ro) | 5351 | 5739 | 93.2 | /mnt/stockage/packages/f34/flatpak/po/ro.po | 
+ | [da](/f34/language/da) | 5210 | 5739 | 90.8 | /mnt/stockage/packages/f34/flatpak/po/da.po | 
+ | [ru](/f34/language/ru) | 5190 | 5739 | 90.4 | /mnt/stockage/packages/f34/flatpak/po/ru.po | 
+ | [zh_Hant](/f34/language/zh_Hant) | 5162 | 5739 | 89.9 | /mnt/stockage/packages/f34/flatpak/po/zh_TW.po | 
+ | [cs](/f34/language/cs) | 4900 | 5739 | 85.4 | /mnt/stockage/packages/f34/flatpak/po/cs.po | 
+ | [en_GB](/f34/language/en_GB) | 4721 | 5739 | 82.3 | /mnt/stockage/packages/f34/flatpak/po/en_GB.po | 
+ | [es](/f34/language/es) | 3327 | 5739 | 58.0 | /mnt/stockage/packages/f34/flatpak/po/es.po | 
+ | [sv](/f34/language/sv) | 3150 | 5739 | 54.9 | /mnt/stockage/packages/f34/flatpak/po/sv.po | 
+ | [hu](/f34/language/hu) | 2380 | 5739 | 41.5 | /mnt/stockage/packages/f34/flatpak/po/hu.po | 
+ | [tr](/f34/language/tr) | 2341 | 5739 | 40.8 | /mnt/stockage/packages/f34/flatpak/po/tr.po | 
+ | [de](/f34/language/de) | 2327 | 5739 | 40.5 | /mnt/stockage/packages/f34/flatpak/po/de.po | 
+ | [gl](/f34/language/gl) | 2232 | 5739 | 38.9 | /mnt/stockage/packages/f34/flatpak/po/gl.po | 
+ | [sk](/f34/language/sk) | 509 | 5739 | 8.9 | /mnt/stockage/packages/f34/flatpak/po/sk.po | 
+ | [oc](/f34/language/oc) | 157 | 5739 | 2.7 | /mnt/stockage/packages/f34/flatpak/po/oc.po | 
 {.sortable}
 
 

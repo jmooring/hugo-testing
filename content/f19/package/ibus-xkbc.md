@@ -18,15 +18,15 @@ The package ibus-xkbc (version 1.3.3.20100922):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f19/language/de.md" >}}) | 61 | 61 | 100.0 | /mnt/stockage/packages/f19/ibus-xkbc/po/de.po | 
- | [es]({{< ref "/f19/language/es.md" >}}) | 61 | 61 | 100.0 | /mnt/stockage/packages/f19/ibus-xkbc/po/es.po | 
- | [fr]({{< ref "/f19/language/fr.md" >}}) | 61 | 61 | 100.0 | /mnt/stockage/packages/f19/ibus-xkbc/po/fr.po | 
- | [it]({{< ref "/f19/language/it.md" >}}) | 61 | 61 | 100.0 | /mnt/stockage/packages/f19/ibus-xkbc/po/it.po | 
- | [ja]({{< ref "/f19/language/ja.md" >}}) | 61 | 61 | 100.0 | /mnt/stockage/packages/f19/ibus-xkbc/po/ja.po | 
- | [ko]({{< ref "/f19/language/ko.md" >}}) | 61 | 61 | 100.0 | /mnt/stockage/packages/f19/ibus-xkbc/po/ko.po | 
- | [pt_BR]({{< ref "/f19/language/pt_BR.md" >}}) | 61 | 61 | 100.0 | /mnt/stockage/packages/f19/ibus-xkbc/po/pt_BR.po | 
- | [zh_Hans]({{< ref "/f19/language/zh_Hans.md" >}}) | 61 | 61 | 100.0 | /mnt/stockage/packages/f19/ibus-xkbc/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f19/language/zh_Hant.md" >}}) | 61 | 61 | 100.0 | /mnt/stockage/packages/f19/ibus-xkbc/po/zh_TW.po | 
+ | [de](/f19/language/de) | 61 | 61 | 100.0 | /mnt/stockage/packages/f19/ibus-xkbc/po/de.po | 
+ | [es](/f19/language/es) | 61 | 61 | 100.0 | /mnt/stockage/packages/f19/ibus-xkbc/po/es.po | 
+ | [fr](/f19/language/fr) | 61 | 61 | 100.0 | /mnt/stockage/packages/f19/ibus-xkbc/po/fr.po | 
+ | [it](/f19/language/it) | 61 | 61 | 100.0 | /mnt/stockage/packages/f19/ibus-xkbc/po/it.po | 
+ | [ja](/f19/language/ja) | 61 | 61 | 100.0 | /mnt/stockage/packages/f19/ibus-xkbc/po/ja.po | 
+ | [ko](/f19/language/ko) | 61 | 61 | 100.0 | /mnt/stockage/packages/f19/ibus-xkbc/po/ko.po | 
+ | [pt_BR](/f19/language/pt_BR) | 61 | 61 | 100.0 | /mnt/stockage/packages/f19/ibus-xkbc/po/pt_BR.po | 
+ | [zh_Hans](/f19/language/zh_Hans) | 61 | 61 | 100.0 | /mnt/stockage/packages/f19/ibus-xkbc/po/zh_CN.po | 
+ | [zh_Hant](/f19/language/zh_Hant) | 61 | 61 | 100.0 | /mnt/stockage/packages/f19/ibus-xkbc/po/zh_TW.po | 
 {.sortable}
 
 

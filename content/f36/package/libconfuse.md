@@ -18,9 +18,9 @@ The package libconfuse (version 3.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f36/language/de.md" >}}) | 153 | 158 | 96.8 | /mnt/stockage/packages/f36/libconfuse/po/de.po | 
- | [sv]({{< ref "/f36/language/sv.md" >}}) | 153 | 158 | 96.8 | /mnt/stockage/packages/f36/libconfuse/po/sv.po | 
- | [fr]({{< ref "/f36/language/fr.md" >}}) | 118 | 158 | 74.7 | /mnt/stockage/packages/f36/libconfuse/po/fr.po | 
+ | [de](/f36/language/de) | 153 | 158 | 96.8 | /mnt/stockage/packages/f36/libconfuse/po/de.po | 
+ | [sv](/f36/language/sv) | 153 | 158 | 96.8 | /mnt/stockage/packages/f36/libconfuse/po/sv.po | 
+ | [fr](/f36/language/fr) | 118 | 158 | 74.7 | /mnt/stockage/packages/f36/libconfuse/po/fr.po | 
 {.sortable}
 
 

@@ -18,20 +18,20 @@ The package python-django-filter (version 2.3.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [be]({{< ref "/f31/language/be.md" >}}) | 85 | 85 | 100.0 | /mnt/stockage/packages/f31/python-django-filter/django_filters/locale/be/LC_MESSAGES/django.po | 
- | [bg]({{< ref "/f31/language/bg.md" >}}) | 86 | 86 | 100.0 | /mnt/stockage/packages/f31/python-django-filter/django_filters/locale/bg/LC_MESSAGES/django.po | 
- | [cs]({{< ref "/f31/language/cs.md" >}}) | 85 | 85 | 100.0 | /mnt/stockage/packages/f31/python-django-filter/django_filters/locale/cs/LC_MESSAGES/django.po | 
- | [es]({{< ref "/f31/language/es.md" >}}) | 85 | 85 | 100.0 | /mnt/stockage/packages/f31/python-django-filter/django_filters/locale/es_ES/LC_MESSAGES/django.po | 
- | [es_AR]({{< ref "/f31/language/es_AR.md" >}}) | 16 | 16 | 100.0 | /mnt/stockage/packages/f31/python-django-filter/django_filters/locale/es_AR/LC_MESSAGES/django.po | 
- | [fr]({{< ref "/f31/language/fr.md" >}}) | 16 | 16 | 100.0 | /mnt/stockage/packages/f31/python-django-filter/django_filters/locale/fr/LC_MESSAGES/django.po | 
- | [pt_BR]({{< ref "/f31/language/pt_BR.md" >}}) | 85 | 85 | 100.0 | /mnt/stockage/packages/f31/python-django-filter/django_filters/locale/pt_BR/LC_MESSAGES/django.po | 
- | [ru]({{< ref "/f31/language/ru.md" >}}) | 85 | 85 | 100.0 | /mnt/stockage/packages/f31/python-django-filter/django_filters/locale/ru/LC_MESSAGES/django.po | 
- | [sk]({{< ref "/f31/language/sk.md" >}}) | 85 | 85 | 100.0 | /mnt/stockage/packages/f31/python-django-filter/django_filters/locale/sk/LC_MESSAGES/django.po | 
- | [uk]({{< ref "/f31/language/uk.md" >}}) | 85 | 85 | 100.0 | /mnt/stockage/packages/f31/python-django-filter/django_filters/locale/uk/LC_MESSAGES/django.po | 
- | [zh_Hans]({{< ref "/f31/language/zh_Hans.md" >}}) | 21 | 21 | 100.0 | /mnt/stockage/packages/f31/python-django-filter/django_filters/locale/zh_CN/LC_MESSAGES/django.po | 
- | [de]({{< ref "/f31/language/de.md" >}}) | 169 | 170 | 99.4 | /mnt/stockage/packages/f31/python-django-filter/django_filters/locale/el/LC_MESSAGES/django.po/mnt/stockage/packages/f31/python-django-filter/django_filters/locale/de/LC_MESSAGES/django.po | 
- | [da]({{< ref "/f31/language/da.md" >}}) | 82 | 85 | 96.5 | /mnt/stockage/packages/f31/python-django-filter/django_filters/locale/da/LC_MESSAGES/django.po | 
- | [pl]({{< ref "/f31/language/pl.md" >}}) | 62 | 85 | 72.9 | /mnt/stockage/packages/f31/python-django-filter/django_filters/locale/pl/LC_MESSAGES/django.po | 
+ | [be](/f31/language/be) | 85 | 85 | 100.0 | /mnt/stockage/packages/f31/python-django-filter/django_filters/locale/be/LC_MESSAGES/django.po | 
+ | [bg](/f31/language/bg) | 86 | 86 | 100.0 | /mnt/stockage/packages/f31/python-django-filter/django_filters/locale/bg/LC_MESSAGES/django.po | 
+ | [cs](/f31/language/cs) | 85 | 85 | 100.0 | /mnt/stockage/packages/f31/python-django-filter/django_filters/locale/cs/LC_MESSAGES/django.po | 
+ | [es](/f31/language/es) | 85 | 85 | 100.0 | /mnt/stockage/packages/f31/python-django-filter/django_filters/locale/es_ES/LC_MESSAGES/django.po | 
+ | [es_AR](/f31/language/es_AR) | 16 | 16 | 100.0 | /mnt/stockage/packages/f31/python-django-filter/django_filters/locale/es_AR/LC_MESSAGES/django.po | 
+ | [fr](/f31/language/fr) | 16 | 16 | 100.0 | /mnt/stockage/packages/f31/python-django-filter/django_filters/locale/fr/LC_MESSAGES/django.po | 
+ | [pt_BR](/f31/language/pt_BR) | 85 | 85 | 100.0 | /mnt/stockage/packages/f31/python-django-filter/django_filters/locale/pt_BR/LC_MESSAGES/django.po | 
+ | [ru](/f31/language/ru) | 85 | 85 | 100.0 | /mnt/stockage/packages/f31/python-django-filter/django_filters/locale/ru/LC_MESSAGES/django.po | 
+ | [sk](/f31/language/sk) | 85 | 85 | 100.0 | /mnt/stockage/packages/f31/python-django-filter/django_filters/locale/sk/LC_MESSAGES/django.po | 
+ | [uk](/f31/language/uk) | 85 | 85 | 100.0 | /mnt/stockage/packages/f31/python-django-filter/django_filters/locale/uk/LC_MESSAGES/django.po | 
+ | [zh_Hans](/f31/language/zh_Hans) | 21 | 21 | 100.0 | /mnt/stockage/packages/f31/python-django-filter/django_filters/locale/zh_CN/LC_MESSAGES/django.po | 
+ | [de](/f31/language/de) | 169 | 170 | 99.4 | /mnt/stockage/packages/f31/python-django-filter/django_filters/locale/el/LC_MESSAGES/django.po/mnt/stockage/packages/f31/python-django-filter/django_filters/locale/de/LC_MESSAGES/django.po | 
+ | [da](/f31/language/da) | 82 | 85 | 96.5 | /mnt/stockage/packages/f31/python-django-filter/django_filters/locale/da/LC_MESSAGES/django.po | 
+ | [pl](/f31/language/pl) | 62 | 85 | 72.9 | /mnt/stockage/packages/f31/python-django-filter/django_filters/locale/pl/LC_MESSAGES/django.po | 
 {.sortable}
 
 

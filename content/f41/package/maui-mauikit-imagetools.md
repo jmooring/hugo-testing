@@ -18,34 +18,34 @@ The package maui-mauikit-imagetools (version 4.0.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f41/language/ca.md" >}}) | 61 | 61 | 100.0 | /mnt/stockage/packages/f41/maui-mauikit-imagetools/po/ca/mauikitimagetools.po | 
- | [ca@valencia]({{< ref "/f41/language/ca@valencia.md" >}}) | 61 | 61 | 100.0 | /mnt/stockage/packages/f41/maui-mauikit-imagetools/po/ca@valencia/mauikitimagetools.po | 
- | [en_GB]({{< ref "/f41/language/en_GB.md" >}}) | 61 | 61 | 100.0 | /mnt/stockage/packages/f41/maui-mauikit-imagetools/po/en_GB/mauikitimagetools.po | 
- | [eo]({{< ref "/f41/language/eo.md" >}}) | 61 | 61 | 100.0 | /mnt/stockage/packages/f41/maui-mauikit-imagetools/po/eo/mauikitimagetools.po | 
- | [es]({{< ref "/f41/language/es.md" >}}) | 61 | 61 | 100.0 | /mnt/stockage/packages/f41/maui-mauikit-imagetools/po/es/mauikitimagetools.po | 
- | [eu]({{< ref "/f41/language/eu.md" >}}) | 61 | 61 | 100.0 | /mnt/stockage/packages/f41/maui-mauikit-imagetools/po/eu/mauikitimagetools.po | 
- | [fi]({{< ref "/f41/language/fi.md" >}}) | 61 | 61 | 100.0 | /mnt/stockage/packages/f41/maui-mauikit-imagetools/po/fi/mauikitimagetools.po | 
- | [fr]({{< ref "/f41/language/fr.md" >}}) | 61 | 61 | 100.0 | /mnt/stockage/packages/f41/maui-mauikit-imagetools/po/fr/mauikitimagetools.po | 
- | [gl]({{< ref "/f41/language/gl.md" >}}) | 61 | 61 | 100.0 | /mnt/stockage/packages/f41/maui-mauikit-imagetools/po/gl/mauikitimagetools.po | 
- | [it]({{< ref "/f41/language/it.md" >}}) | 61 | 61 | 100.0 | /mnt/stockage/packages/f41/maui-mauikit-imagetools/po/it/mauikitimagetools.po | 
- | [ka]({{< ref "/f41/language/ka.md" >}}) | 61 | 61 | 100.0 | /mnt/stockage/packages/f41/maui-mauikit-imagetools/po/ka/mauikitimagetools.po | 
- | [ko]({{< ref "/f41/language/ko.md" >}}) | 61 | 61 | 100.0 | /mnt/stockage/packages/f41/maui-mauikit-imagetools/po/ko/mauikitimagetools.po | 
- | [nl]({{< ref "/f41/language/nl.md" >}}) | 61 | 61 | 100.0 | /mnt/stockage/packages/f41/maui-mauikit-imagetools/po/nl/mauikitimagetools.po | 
- | [nn]({{< ref "/f41/language/nn.md" >}}) | 61 | 61 | 100.0 | /mnt/stockage/packages/f41/maui-mauikit-imagetools/po/nn/mauikitimagetools.po | 
- | [pl]({{< ref "/f41/language/pl.md" >}}) | 61 | 61 | 100.0 | /mnt/stockage/packages/f41/maui-mauikit-imagetools/po/pl/mauikitimagetools.po | 
- | [sl]({{< ref "/f41/language/sl.md" >}}) | 61 | 61 | 100.0 | /mnt/stockage/packages/f41/maui-mauikit-imagetools/po/sl/mauikitimagetools.po | 
- | [sv]({{< ref "/f41/language/sv.md" >}}) | 61 | 61 | 100.0 | /mnt/stockage/packages/f41/maui-mauikit-imagetools/po/sv/mauikitimagetools.po | 
- | [tr]({{< ref "/f41/language/tr.md" >}}) | 61 | 61 | 100.0 | /mnt/stockage/packages/f41/maui-mauikit-imagetools/po/tr/mauikitimagetools.po | 
- | [uk]({{< ref "/f41/language/uk.md" >}}) | 61 | 61 | 100.0 | /mnt/stockage/packages/f41/maui-mauikit-imagetools/po/uk/mauikitimagetools.po | 
- | [zh_Hant]({{< ref "/f41/language/zh_Hant.md" >}}) | 61 | 61 | 100.0 | /mnt/stockage/packages/f41/maui-mauikit-imagetools/po/zh_TW/mauikitimagetools.po | 
- | [pt]({{< ref "/f41/language/pt.md" >}}) | 53 | 61 | 86.9 | /mnt/stockage/packages/f41/maui-mauikit-imagetools/po/pt/mauikitimagetools.po | 
- | [de]({{< ref "/f41/language/de.md" >}}) | 24 | 61 | 39.3 | /mnt/stockage/packages/f41/maui-mauikit-imagetools/po/de/mauikitimagetools.po | 
- | [cs]({{< ref "/f41/language/cs.md" >}}) | 21 | 61 | 34.4 | /mnt/stockage/packages/f41/maui-mauikit-imagetools/po/cs/mauikitimagetools.po | 
- | [sk]({{< ref "/f41/language/sk.md" >}}) | 21 | 61 | 34.4 | /mnt/stockage/packages/f41/maui-mauikit-imagetools/po/sk/mauikitimagetools.po | 
- | [zh_Hans]({{< ref "/f41/language/zh_Hans.md" >}}) | 20 | 61 | 32.8 | /mnt/stockage/packages/f41/maui-mauikit-imagetools/po/zh_CN/mauikitimagetools.po | 
- | [pt_BR]({{< ref "/f41/language/pt_BR.md" >}}) | 3 | 61 | 4.9 | /mnt/stockage/packages/f41/maui-mauikit-imagetools/po/pt_BR/mauikitimagetools.po | 
- | [ja]({{< ref "/f41/language/ja.md" >}}) | 0 | 61 | 0.0 | /mnt/stockage/packages/f41/maui-mauikit-imagetools/po/ja/mauikitimagetools.po | 
- | [lt]({{< ref "/f41/language/lt.md" >}}) | 0 | 61 | 0.0 | /mnt/stockage/packages/f41/maui-mauikit-imagetools/po/lt/mauikitimagetools.po | 
+ | [ca](/f41/language/ca) | 61 | 61 | 100.0 | /mnt/stockage/packages/f41/maui-mauikit-imagetools/po/ca/mauikitimagetools.po | 
+ | [ca@valencia](/f41/language/ca@valencia) | 61 | 61 | 100.0 | /mnt/stockage/packages/f41/maui-mauikit-imagetools/po/ca@valencia/mauikitimagetools.po | 
+ | [en_GB](/f41/language/en_GB) | 61 | 61 | 100.0 | /mnt/stockage/packages/f41/maui-mauikit-imagetools/po/en_GB/mauikitimagetools.po | 
+ | [eo](/f41/language/eo) | 61 | 61 | 100.0 | /mnt/stockage/packages/f41/maui-mauikit-imagetools/po/eo/mauikitimagetools.po | 
+ | [es](/f41/language/es) | 61 | 61 | 100.0 | /mnt/stockage/packages/f41/maui-mauikit-imagetools/po/es/mauikitimagetools.po | 
+ | [eu](/f41/language/eu) | 61 | 61 | 100.0 | /mnt/stockage/packages/f41/maui-mauikit-imagetools/po/eu/mauikitimagetools.po | 
+ | [fi](/f41/language/fi) | 61 | 61 | 100.0 | /mnt/stockage/packages/f41/maui-mauikit-imagetools/po/fi/mauikitimagetools.po | 
+ | [fr](/f41/language/fr) | 61 | 61 | 100.0 | /mnt/stockage/packages/f41/maui-mauikit-imagetools/po/fr/mauikitimagetools.po | 
+ | [gl](/f41/language/gl) | 61 | 61 | 100.0 | /mnt/stockage/packages/f41/maui-mauikit-imagetools/po/gl/mauikitimagetools.po | 
+ | [it](/f41/language/it) | 61 | 61 | 100.0 | /mnt/stockage/packages/f41/maui-mauikit-imagetools/po/it/mauikitimagetools.po | 
+ | [ka](/f41/language/ka) | 61 | 61 | 100.0 | /mnt/stockage/packages/f41/maui-mauikit-imagetools/po/ka/mauikitimagetools.po | 
+ | [ko](/f41/language/ko) | 61 | 61 | 100.0 | /mnt/stockage/packages/f41/maui-mauikit-imagetools/po/ko/mauikitimagetools.po | 
+ | [nl](/f41/language/nl) | 61 | 61 | 100.0 | /mnt/stockage/packages/f41/maui-mauikit-imagetools/po/nl/mauikitimagetools.po | 
+ | [nn](/f41/language/nn) | 61 | 61 | 100.0 | /mnt/stockage/packages/f41/maui-mauikit-imagetools/po/nn/mauikitimagetools.po | 
+ | [pl](/f41/language/pl) | 61 | 61 | 100.0 | /mnt/stockage/packages/f41/maui-mauikit-imagetools/po/pl/mauikitimagetools.po | 
+ | [sl](/f41/language/sl) | 61 | 61 | 100.0 | /mnt/stockage/packages/f41/maui-mauikit-imagetools/po/sl/mauikitimagetools.po | 
+ | [sv](/f41/language/sv) | 61 | 61 | 100.0 | /mnt/stockage/packages/f41/maui-mauikit-imagetools/po/sv/mauikitimagetools.po | 
+ | [tr](/f41/language/tr) | 61 | 61 | 100.0 | /mnt/stockage/packages/f41/maui-mauikit-imagetools/po/tr/mauikitimagetools.po | 
+ | [uk](/f41/language/uk) | 61 | 61 | 100.0 | /mnt/stockage/packages/f41/maui-mauikit-imagetools/po/uk/mauikitimagetools.po | 
+ | [zh_Hant](/f41/language/zh_Hant) | 61 | 61 | 100.0 | /mnt/stockage/packages/f41/maui-mauikit-imagetools/po/zh_TW/mauikitimagetools.po | 
+ | [pt](/f41/language/pt) | 53 | 61 | 86.9 | /mnt/stockage/packages/f41/maui-mauikit-imagetools/po/pt/mauikitimagetools.po | 
+ | [de](/f41/language/de) | 24 | 61 | 39.3 | /mnt/stockage/packages/f41/maui-mauikit-imagetools/po/de/mauikitimagetools.po | 
+ | [cs](/f41/language/cs) | 21 | 61 | 34.4 | /mnt/stockage/packages/f41/maui-mauikit-imagetools/po/cs/mauikitimagetools.po | 
+ | [sk](/f41/language/sk) | 21 | 61 | 34.4 | /mnt/stockage/packages/f41/maui-mauikit-imagetools/po/sk/mauikitimagetools.po | 
+ | [zh_Hans](/f41/language/zh_Hans) | 20 | 61 | 32.8 | /mnt/stockage/packages/f41/maui-mauikit-imagetools/po/zh_CN/mauikitimagetools.po | 
+ | [pt_BR](/f41/language/pt_BR) | 3 | 61 | 4.9 | /mnt/stockage/packages/f41/maui-mauikit-imagetools/po/pt_BR/mauikitimagetools.po | 
+ | [ja](/f41/language/ja) | 0 | 61 | 0.0 | /mnt/stockage/packages/f41/maui-mauikit-imagetools/po/ja/mauikitimagetools.po | 
+ | [lt](/f41/language/lt) | 0 | 61 | 0.0 | /mnt/stockage/packages/f41/maui-mauikit-imagetools/po/lt/mauikitimagetools.po | 
 {.sortable}
 
 

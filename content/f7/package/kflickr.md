@@ -18,10 +18,10 @@ The package kflickr (version 0.8):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [es]({{< ref "/f7/language/es.md" >}}) | 281 | 281 | 100.0 | /mnt/stockage/packages/f7/kflickr/po/es.po | 
- | [fr]({{< ref "/f7/language/fr.md" >}}) | 281 | 281 | 100.0 | /mnt/stockage/packages/f7/kflickr/po/fr.po | 
- | [it]({{< ref "/f7/language/it.md" >}}) | 281 | 281 | 100.0 | /mnt/stockage/packages/f7/kflickr/po/it.po | 
- | [de]({{< ref "/f7/language/de.md" >}}) | 269 | 281 | 95.7 | /mnt/stockage/packages/f7/kflickr/po/de.po | 
+ | [es](/f7/language/es) | 281 | 281 | 100.0 | /mnt/stockage/packages/f7/kflickr/po/es.po | 
+ | [fr](/f7/language/fr) | 281 | 281 | 100.0 | /mnt/stockage/packages/f7/kflickr/po/fr.po | 
+ | [it](/f7/language/it) | 281 | 281 | 100.0 | /mnt/stockage/packages/f7/kflickr/po/it.po | 
+ | [de](/f7/language/de) | 269 | 281 | 95.7 | /mnt/stockage/packages/f7/kflickr/po/de.po | 
 {.sortable}
 
 

@@ -18,23 +18,23 @@ The package rawstudio (version 2.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [da]({{< ref "/f36/language/da.md" >}}) | 1606 | 1606 | 100.0 | /mnt/stockage/packages/f36/rawstudio/po/da.po | 
- | [nl]({{< ref "/f36/language/nl.md" >}}) | 1617 | 1617 | 100.0 | /mnt/stockage/packages/f36/rawstudio/po/nl.po | 
- | [fi]({{< ref "/f36/language/fi.md" >}}) | 1589 | 1606 | 98.9 | /mnt/stockage/packages/f36/rawstudio/po/fi.po | 
- | [it]({{< ref "/f36/language/it.md" >}}) | 1337 | 1606 | 83.3 | /mnt/stockage/packages/f36/rawstudio/po/it.po | 
- | [en]({{< ref "/f36/language/en.md" >}}) | 1315 | 1606 | 81.9 | /mnt/stockage/packages/f36/rawstudio/po/en.po | 
- | [fr]({{< ref "/f36/language/fr.md" >}}) | 1315 | 1606 | 81.9 | /mnt/stockage/packages/f36/rawstudio/po/fr.po | 
- | [pl]({{< ref "/f36/language/pl.md" >}}) | 1315 | 1606 | 81.9 | /mnt/stockage/packages/f36/rawstudio/po/pl.po | 
- | [ja]({{< ref "/f36/language/ja.md" >}}) | 1302 | 1606 | 81.1 | /mnt/stockage/packages/f36/rawstudio/po/ja.po | 
- | [nb_NO]({{< ref "/f36/language/nb_NO.md" >}}) | 1302 | 1606 | 81.1 | /mnt/stockage/packages/f36/rawstudio/po/nb.po | 
- | [sv]({{< ref "/f36/language/sv.md" >}}) | 1100 | 1606 | 68.5 | /mnt/stockage/packages/f36/rawstudio/po/sv.po | 
- | [ru]({{< ref "/f36/language/ru.md" >}}) | 972 | 1606 | 60.5 | /mnt/stockage/packages/f36/rawstudio/po/ru.po | 
- | [de]({{< ref "/f36/language/de.md" >}}) | 542 | 1606 | 33.7 | /mnt/stockage/packages/f36/rawstudio/po/de.po | 
- | [hu]({{< ref "/f36/language/hu.md" >}}) | 538 | 1606 | 33.5 | /mnt/stockage/packages/f36/rawstudio/po/hu.po | 
- | [ca]({{< ref "/f36/language/ca.md" >}}) | 317 | 1606 | 19.7 | /mnt/stockage/packages/f36/rawstudio/po/ca.po | 
- | [es]({{< ref "/f36/language/es.md" >}}) | 317 | 1606 | 19.7 | /mnt/stockage/packages/f36/rawstudio/po/es.po | 
- | [cs]({{< ref "/f36/language/cs.md" >}}) | 264 | 1606 | 16.4 | /mnt/stockage/packages/f36/rawstudio/po/cs.po | 
- | [pt_BR]({{< ref "/f36/language/pt_BR.md" >}}) | 148 | 1606 | 9.2 | /mnt/stockage/packages/f36/rawstudio/po/pt_BR.po | 
+ | [da](/f36/language/da) | 1606 | 1606 | 100.0 | /mnt/stockage/packages/f36/rawstudio/po/da.po | 
+ | [nl](/f36/language/nl) | 1617 | 1617 | 100.0 | /mnt/stockage/packages/f36/rawstudio/po/nl.po | 
+ | [fi](/f36/language/fi) | 1589 | 1606 | 98.9 | /mnt/stockage/packages/f36/rawstudio/po/fi.po | 
+ | [it](/f36/language/it) | 1337 | 1606 | 83.3 | /mnt/stockage/packages/f36/rawstudio/po/it.po | 
+ | [en](/f36/language/en) | 1315 | 1606 | 81.9 | /mnt/stockage/packages/f36/rawstudio/po/en.po | 
+ | [fr](/f36/language/fr) | 1315 | 1606 | 81.9 | /mnt/stockage/packages/f36/rawstudio/po/fr.po | 
+ | [pl](/f36/language/pl) | 1315 | 1606 | 81.9 | /mnt/stockage/packages/f36/rawstudio/po/pl.po | 
+ | [ja](/f36/language/ja) | 1302 | 1606 | 81.1 | /mnt/stockage/packages/f36/rawstudio/po/ja.po | 
+ | [nb_NO](/f36/language/nb_NO) | 1302 | 1606 | 81.1 | /mnt/stockage/packages/f36/rawstudio/po/nb.po | 
+ | [sv](/f36/language/sv) | 1100 | 1606 | 68.5 | /mnt/stockage/packages/f36/rawstudio/po/sv.po | 
+ | [ru](/f36/language/ru) | 972 | 1606 | 60.5 | /mnt/stockage/packages/f36/rawstudio/po/ru.po | 
+ | [de](/f36/language/de) | 542 | 1606 | 33.7 | /mnt/stockage/packages/f36/rawstudio/po/de.po | 
+ | [hu](/f36/language/hu) | 538 | 1606 | 33.5 | /mnt/stockage/packages/f36/rawstudio/po/hu.po | 
+ | [ca](/f36/language/ca) | 317 | 1606 | 19.7 | /mnt/stockage/packages/f36/rawstudio/po/ca.po | 
+ | [es](/f36/language/es) | 317 | 1606 | 19.7 | /mnt/stockage/packages/f36/rawstudio/po/es.po | 
+ | [cs](/f36/language/cs) | 264 | 1606 | 16.4 | /mnt/stockage/packages/f36/rawstudio/po/cs.po | 
+ | [pt_BR](/f36/language/pt_BR) | 148 | 1606 | 9.2 | /mnt/stockage/packages/f36/rawstudio/po/pt_BR.po | 
 {.sortable}
 
 

@@ -38,8 +38,8 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [cinnamon-translations]({{< ref "/f26/package/cinnamon-translations.md" >}}) | 4 | 50 | 8.0 | Ga <gaa@li.org> | 
- | [mintmenu]({{< ref "/f26/package/mintmenu.md" >}}) | 4 | 50 | 8.0 | Ga <gaa@li.org> | 
+ | [cinnamon-translations](/f26/package/cinnamon-translations) | 4 | 50 | 8.0 | Ga <gaa@li.org> | 
+ | [mintmenu](/f26/package/mintmenu) | 4 | 50 | 8.0 | Ga <gaa@li.org> | 
 {.sortable}
 
 

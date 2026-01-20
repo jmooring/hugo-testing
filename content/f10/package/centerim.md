@@ -18,23 +18,23 @@ The package centerim (version 4.22.6):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f10/language/cs.md" >}}) | 2743 | 2756 | 99.5 | /mnt/stockage/packages/f10/centerim/po/cs.po | 
- | [zh_Hant]({{< ref "/f10/language/zh_Hant.md" >}}) | 2688 | 2756 | 97.5 | /mnt/stockage/packages/f10/centerim/po/zh_TW.po | 
- | [de]({{< ref "/f10/language/de.md" >}}) | 2603 | 2756 | 94.4 | /mnt/stockage/packages/f10/centerim/po/de.po | 
- | [zh_Hans]({{< ref "/f10/language/zh_Hans.md" >}}) | 2362 | 2756 | 85.7 | /mnt/stockage/packages/f10/centerim/po/zh_CN.po | 
- | [ru]({{< ref "/f10/language/ru.md" >}}) | 2343 | 2756 | 85.0 | /mnt/stockage/packages/f10/centerim/po/ru.po | 
- | [pl]({{< ref "/f10/language/pl.md" >}}) | 2246 | 2756 | 81.5 | /mnt/stockage/packages/f10/centerim/po/pl.po | 
- | [fr]({{< ref "/f10/language/fr.md" >}}) | 2096 | 2756 | 76.1 | /mnt/stockage/packages/f10/centerim/po/fr.po | 
- | [nl]({{< ref "/f10/language/nl.md" >}}) | 2053 | 2756 | 74.5 | /mnt/stockage/packages/f10/centerim/po/nl.po | 
- | [hu]({{< ref "/f10/language/hu.md" >}}) | 1946 | 2756 | 70.6 | /mnt/stockage/packages/f10/centerim/po/hu.po | 
- | [sv]({{< ref "/f10/language/sv.md" >}}) | 1942 | 2756 | 70.5 | /mnt/stockage/packages/f10/centerim/po/sv.po | 
- | [bg]({{< ref "/f10/language/bg.md" >}}) | 1795 | 2756 | 65.1 | /mnt/stockage/packages/f10/centerim/po/bg.po | 
- | [ms]({{< ref "/f10/language/ms.md" >}}) | 1600 | 2756 | 58.1 | /mnt/stockage/packages/f10/centerim/po/ms.po | 
- | [es]({{< ref "/f10/language/es.md" >}}) | 1355 | 2756 | 49.2 | /mnt/stockage/packages/f10/centerim/po/es.po | 
- | [ro]({{< ref "/f10/language/ro.md" >}}) | 1124 | 2756 | 40.8 | /mnt/stockage/packages/f10/centerim/po/ro.po | 
- | [uk]({{< ref "/f10/language/uk.md" >}}) | 869 | 2756 | 31.5 | /mnt/stockage/packages/f10/centerim/po/uk.po | 
- | [it]({{< ref "/f10/language/it.md" >}}) | 507 | 2756 | 18.4 | /mnt/stockage/packages/f10/centerim/po/it.po | 
- | [pt_BR]({{< ref "/f10/language/pt_BR.md" >}}) | 313 | 2756 | 11.4 | /mnt/stockage/packages/f10/centerim/po/pt_BR.po | 
+ | [cs](/f10/language/cs) | 2743 | 2756 | 99.5 | /mnt/stockage/packages/f10/centerim/po/cs.po | 
+ | [zh_Hant](/f10/language/zh_Hant) | 2688 | 2756 | 97.5 | /mnt/stockage/packages/f10/centerim/po/zh_TW.po | 
+ | [de](/f10/language/de) | 2603 | 2756 | 94.4 | /mnt/stockage/packages/f10/centerim/po/de.po | 
+ | [zh_Hans](/f10/language/zh_Hans) | 2362 | 2756 | 85.7 | /mnt/stockage/packages/f10/centerim/po/zh_CN.po | 
+ | [ru](/f10/language/ru) | 2343 | 2756 | 85.0 | /mnt/stockage/packages/f10/centerim/po/ru.po | 
+ | [pl](/f10/language/pl) | 2246 | 2756 | 81.5 | /mnt/stockage/packages/f10/centerim/po/pl.po | 
+ | [fr](/f10/language/fr) | 2096 | 2756 | 76.1 | /mnt/stockage/packages/f10/centerim/po/fr.po | 
+ | [nl](/f10/language/nl) | 2053 | 2756 | 74.5 | /mnt/stockage/packages/f10/centerim/po/nl.po | 
+ | [hu](/f10/language/hu) | 1946 | 2756 | 70.6 | /mnt/stockage/packages/f10/centerim/po/hu.po | 
+ | [sv](/f10/language/sv) | 1942 | 2756 | 70.5 | /mnt/stockage/packages/f10/centerim/po/sv.po | 
+ | [bg](/f10/language/bg) | 1795 | 2756 | 65.1 | /mnt/stockage/packages/f10/centerim/po/bg.po | 
+ | [ms](/f10/language/ms) | 1600 | 2756 | 58.1 | /mnt/stockage/packages/f10/centerim/po/ms.po | 
+ | [es](/f10/language/es) | 1355 | 2756 | 49.2 | /mnt/stockage/packages/f10/centerim/po/es.po | 
+ | [ro](/f10/language/ro) | 1124 | 2756 | 40.8 | /mnt/stockage/packages/f10/centerim/po/ro.po | 
+ | [uk](/f10/language/uk) | 869 | 2756 | 31.5 | /mnt/stockage/packages/f10/centerim/po/uk.po | 
+ | [it](/f10/language/it) | 507 | 2756 | 18.4 | /mnt/stockage/packages/f10/centerim/po/it.po | 
+ | [pt_BR](/f10/language/pt_BR) | 313 | 2756 | 11.4 | /mnt/stockage/packages/f10/centerim/po/pt_BR.po | 
 {.sortable}
 
 

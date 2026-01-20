@@ -38,75 +38,75 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [arandr]({{< ref "/f39/package/arandr.md" >}}) | 173 | 173 | 100.0 | Sardinian <https://hosted.weblate.org/projects/arandr/translations/sc/> | 
- | [bookworm]({{< ref "/f39/package/bookworm.md" >}}) | 795 | 795 | 100.0 | Sardinian <https://hosted.weblate.org/projects/bookworm/bookworm/sc/> | 
- | [gnome-do]({{< ref "/f39/package/gnome-do.md" >}}) | 473 | 612 | 77.3 | Sardinian <sc@li.org> | 
- | [mate-icon-theme]({{< ref "/f39/package/mate-icon-theme.md" >}}) | 3 | 4 | 75.0 | Sardinian (https://www.transifex.com/mate/teams/13566/sc/) | 
- | [exaile]({{< ref "/f39/package/exaile.md" >}}) | 3362 | 4602 | 73.1 | Sardinian <https://hosted.weblate.org/projects/exaile/master/sc/> | 
- | [folder-color-switcher]({{< ref "/f39/package/folder-color-switcher.md" >}}) | 45 | 65 | 69.2 | LANGUAGE <LL@li.org> | 
- | [mate-notification-daemon]({{< ref "/f39/package/mate-notification-daemon.md" >}}) | 116 | 186 | 62.4 | Sardinian (https://app.transifex.com/mate/teams/13566/sc/) | 
- | [tuxpaint]({{< ref "/f39/package/tuxpaint.md" >}}) | 1545 | 3763 | 41.1 | LANGUAGE <LL@li.org> | 
- | [stellarium]({{< ref "/f39/package/stellarium.md" >}}) | 78312 | 205992 | 38.0 | Sardinian (https://app.transifex.com/stellarium/teams/80998/sc/) | 
- | [slick-greeter]({{< ref "/f39/package/slick-greeter.md" >}}) | 82 | 216 | 38.0 | Sardinian <sc@li.org> | 
- | [mate-desktop]({{< ref "/f39/package/mate-desktop.md" >}}) | 769 | 2376 | 32.4 | Sardinian (https://app.transifex.com/mate/teams/13566/sc/) | 
- | [cinnamon-translations]({{< ref "/f39/package/cinnamon-translations.md" >}}) | 6478 | 22025 | 29.4 | Sardinian <sc@li.org> | 
- | [iso-codes]({{< ref "/f39/package/iso-codes.md" >}}) | 6656 | 23930 | 27.8 | Sardinian <https://hosted.weblate.org/projects/iso-codes/iso-15924/sc/> | 
- | [xreader]({{< ref "/f39/package/xreader.md" >}}) | 360 | 1625 | 22.2 | Sardinian (http://www.transifex.com/mate/MATE/language/sc/) | 
- | [lightdm-settings]({{< ref "/f39/package/lightdm-settings.md" >}}) | 72 | 355 | 20.3 | LANGUAGE <LL@li.org> | 
- | [libmypaint]({{< ref "/f39/package/libmypaint.md" >}}) | 457 | 2303 | 19.8 | Sardinian <https://hosted.weblate.org/projects/mypaint/libmypaint/sc/> | 
- | [mate-user-guide]({{< ref "/f39/package/mate-user-guide.md" >}}) | 1 | 6 | 16.7 | Sardinian (https://app.transifex.com/mate/teams/13566/sc/) | 
- | [atril]({{< ref "/f39/package/atril.md" >}}) | 352 | 2326 | 15.1 | Sardinian (https://app.transifex.com/mate/teams/13566/sc/) | 
- | [skychart]({{< ref "/f39/package/skychart.md" >}}) | 685 | 5028 | 13.6 | Sardinian <sc@li.org> | 
- | [mate-session-manager]({{< ref "/f39/package/mate-session-manager.md" >}}) | 66 | 715 | 9.2 | Sardinian (https://app.transifex.com/mate/teams/13566/sc/) | 
- | [mozo]({{< ref "/f39/package/mozo.md" >}}) | 3 | 46 | 6.5 | Sardinian (https://www.transifex.com/mate/teams/13566/sc/) | 
- | [mate-media]({{< ref "/f39/package/mate-media.md" >}}) | 11 | 239 | 4.6 | Sardinian (https://app.transifex.com/mate/teams/13566/sc/) | 
- | [caja]({{< ref "/f39/package/caja.md" >}}) | 438 | 9675 | 4.5 | Sardinian (https://app.transifex.com/mate/teams/13566/sc/) | 
- | [caja-extensions]({{< ref "/f39/package/caja-extensions.md" >}}) | 33 | 760 | 4.3 | Sardinian (https://www.transifex.com/mate/teams/13566/sc/) | 
- | [engrampa]({{< ref "/f39/package/engrampa.md" >}}) | 75 | 2049 | 3.7 | Sardinian (https://app.transifex.com/mate/teams/13566/sc/) | 
- | [libmatekbd]({{< ref "/f39/package/libmatekbd.md" >}}) | 9 | 308 | 2.9 | Sardinian (https://app.transifex.com/mate/teams/13566/sc/) | 
- | [eom]({{< ref "/f39/package/eom.md" >}}) | 41 | 1779 | 2.3 | Sardinian (https://app.transifex.com/mate/teams/13566/sc/) | 
- | [mate-utils]({{< ref "/f39/package/mate-utils.md" >}}) | 78 | 3879 | 2.0 | Sardinian (https://app.transifex.com/mate/teams/13566/sc/) | 
- | [mate-menus]({{< ref "/f39/package/mate-menus.md" >}}) | 2 | 103 | 1.9 | Sardinian (https://app.transifex.com/mate/teams/13566/sc/) | 
- | [mate-sensors-applet]({{< ref "/f39/package/mate-sensors-applet.md" >}}) | 6 | 313 | 1.9 | Sardinian (https://www.transifex.com/mate/teams/13566/sc/) | 
- | [manafirewall]({{< ref "/f39/package/manafirewall.md" >}}) | 14 | 1097 | 1.3 | Sardinian (https://www.transifex.com/MageiaLinux/teams/9361/sc/) | 
- | [mate-screensaver]({{< ref "/f39/package/mate-screensaver.md" >}}) | 14 | 1101 | 1.3 | Sardinian (https://app.transifex.com/mate/teams/13566/sc/) | 
- | [mate-panel]({{< ref "/f39/package/mate-panel.md" >}}) | 71 | 5620 | 1.3 | Sardinian (https://www.transifex.com/mate/teams/13566/sc/) | 
- | [mate-menu]({{< ref "/f39/package/mate-menu.md" >}}) | 3 | 308 | 1.0 | Sardinian (http://www.transifex.com/mate/MATE/language/sc/) | 
- | [caja-actions]({{< ref "/f39/package/caja-actions.md" >}}) | 64 | 7082 | 0.9 | Sardinian (https://www.transifex.com/mate/teams/13566/sc/) | 
- | [mate-system-monitor]({{< ref "/f39/package/mate-system-monitor.md" >}}) | 14 | 1558 | 0.9 | Sardinian (https://app.transifex.com/mate/teams/13566/sc/) | 
- | [mate-terminal]({{< ref "/f39/package/mate-terminal.md" >}}) | 38 | 4719 | 0.8 | Sardinian (https://app.transifex.com/mate/teams/13566/sc/) | 
- | [mate-control-center]({{< ref "/f39/package/mate-control-center.md" >}}) | 18 | 3331 | 0.5 | Sardinian (https://www.transifex.com/mate/teams/13566/sc/) | 
- | [mate-power-manager]({{< ref "/f39/package/mate-power-manager.md" >}}) | 14 | 2656 | 0.5 | Sardinian (https://www.transifex.com/mate/teams/13566/sc/) | 
- | [pluma-plugins]({{< ref "/f39/package/pluma-plugins.md" >}}) | 1 | 510 | 0.2 | Sardinian (https://www.transifex.com/mate/teams/13566/sc/) | 
- | [mate-applets]({{< ref "/f39/package/mate-applets.md" >}}) | 2 | 1515 | 0.1 | Sardinian (https://www.transifex.com/mate/teams/13566/sc/) | 
- | [calibre]({{< ref "/f39/package/calibre.md" >}}) | 3 | 170967 | 0.0 | Sardinian (http://www.transifex.com/calibre/calibre/language/sc/) | 
- | [coin]({{< ref "/f39/package/coin.md" >}}) | 0 | 252 | 0.0 | none | 
- | [dippi]({{< ref "/f39/package/dippi.md" >}}) | 0 | 1540 | 0.0 | none | 
- | [elementary-code]({{< ref "/f39/package/elementary-code.md" >}}) | 0 | 1572 | 0.0 | LANGUAGE <LL@li.org> | 
- | [elementary-files]({{< ref "/f39/package/elementary-files.md" >}}) | 0 | 2538 | 0.0 | LANGUAGE <LL@li.org> | 
- | [elementary-icon-theme]({{< ref "/f39/package/elementary-icon-theme.md" >}}) | 0 | 394 | 0.0 | none | 
- | [elementary-mail]({{< ref "/f39/package/elementary-mail.md" >}}) | 0 | 861 | 0.0 |  | 
- | [elementary-music]({{< ref "/f39/package/elementary-music.md" >}}) | 0 | 207 | 0.0 | LANGUAGE <LL@li.org> | 
- | [elementary-notifications]({{< ref "/f39/package/elementary-notifications.md" >}}) | 0 | 40 | 0.0 | none | 
- | [fonts-tweak-tool]({{< ref "/f39/package/fonts-tweak-tool.md" >}}) | 0 | 195 | 0.0 | Sardinian | 
- | [gala]({{< ref "/f39/package/gala.md" >}}) | 0 | 259 | 0.0 | none | 
- | [granite]({{< ref "/f39/package/granite.md" >}}) | 0 | 498 | 0.0 |  | 
- | [granite-7]({{< ref "/f39/package/granite-7.md" >}}) | 0 | 369 | 0.0 |  | 
- | [harvey]({{< ref "/f39/package/harvey.md" >}}) | 0 | 182 | 0.0 | none | 
- | [lightdm]({{< ref "/f39/package/lightdm.md" >}}) | 0 | 163 | 0.0 | Sardinian <sc@li.org> | 
- | [mate-themes]({{< ref "/f39/package/mate-themes.md" >}}) | 0 | 74 | 0.0 | Sardinian (http://app.transifex.com/mate/MATE/language/sc/) | 
- | [nutty]({{< ref "/f39/package/nutty.md" >}}) | 0 | 608 | 0.0 |  | 
- | [optimizer]({{< ref "/f39/package/optimizer.md" >}}) | 0 | 282 | 0.0 | none | 
- | [pyhoca-gui]({{< ref "/f39/package/pyhoca-gui.md" >}}) | 0 | 1865 | 0.0 | none | 
- | [python-django-mailman3]({{< ref "/f39/package/python-django-mailman3.md" >}}) | 0 | 355 | 0.0 | LANGUAGE <LL@li.org> | 
- | [python-hyperkitty]({{< ref "/f39/package/python-hyperkitty.md" >}}) | 0 | 951 | 0.0 | LANGUAGE <LL@li.org> | 
- | [python-postorius]({{< ref "/f39/package/python-postorius.md" >}}) | 0 | 5054 | 0.0 | LANGUAGE <LL@li.org> | 
- | [regextester]({{< ref "/f39/package/regextester.md" >}}) | 0 | 104 | 0.0 | none | 
- | [wingpanel]({{< ref "/f39/package/wingpanel.md" >}}) | 0 | 16 | 0.0 | none | 
- | [wingpanel-indicator-a11y]({{< ref "/f39/package/wingpanel-indicator-a11y.md" >}}) | 0 | 55 | 0.0 | none | 
- | [wingpanel-indicator-bluetooth]({{< ref "/f39/package/wingpanel-indicator-bluetooth.md" >}}) | 0 | 283 | 0.0 | none | 
- | [wingpanel-indicator-datetime]({{< ref "/f39/package/wingpanel-indicator-datetime.md" >}}) | 0 | 177 | 0.0 |  | 
- | [wingpanel-indicator-keyboard]({{< ref "/f39/package/wingpanel-indicator-keyboard.md" >}}) | 0 | 63 | 0.0 |  | 
+ | [arandr](/f39/package/arandr) | 173 | 173 | 100.0 | Sardinian <https://hosted.weblate.org/projects/arandr/translations/sc/> | 
+ | [bookworm](/f39/package/bookworm) | 795 | 795 | 100.0 | Sardinian <https://hosted.weblate.org/projects/bookworm/bookworm/sc/> | 
+ | [gnome-do](/f39/package/gnome-do) | 473 | 612 | 77.3 | Sardinian <sc@li.org> | 
+ | [mate-icon-theme](/f39/package/mate-icon-theme) | 3 | 4 | 75.0 | Sardinian (https://www.transifex.com/mate/teams/13566/sc/) | 
+ | [exaile](/f39/package/exaile) | 3362 | 4602 | 73.1 | Sardinian <https://hosted.weblate.org/projects/exaile/master/sc/> | 
+ | [folder-color-switcher](/f39/package/folder-color-switcher) | 45 | 65 | 69.2 | LANGUAGE <LL@li.org> | 
+ | [mate-notification-daemon](/f39/package/mate-notification-daemon) | 116 | 186 | 62.4 | Sardinian (https://app.transifex.com/mate/teams/13566/sc/) | 
+ | [tuxpaint](/f39/package/tuxpaint) | 1545 | 3763 | 41.1 | LANGUAGE <LL@li.org> | 
+ | [stellarium](/f39/package/stellarium) | 78312 | 205992 | 38.0 | Sardinian (https://app.transifex.com/stellarium/teams/80998/sc/) | 
+ | [slick-greeter](/f39/package/slick-greeter) | 82 | 216 | 38.0 | Sardinian <sc@li.org> | 
+ | [mate-desktop](/f39/package/mate-desktop) | 769 | 2376 | 32.4 | Sardinian (https://app.transifex.com/mate/teams/13566/sc/) | 
+ | [cinnamon-translations](/f39/package/cinnamon-translations) | 6478 | 22025 | 29.4 | Sardinian <sc@li.org> | 
+ | [iso-codes](/f39/package/iso-codes) | 6656 | 23930 | 27.8 | Sardinian <https://hosted.weblate.org/projects/iso-codes/iso-15924/sc/> | 
+ | [xreader](/f39/package/xreader) | 360 | 1625 | 22.2 | Sardinian (http://www.transifex.com/mate/MATE/language/sc/) | 
+ | [lightdm-settings](/f39/package/lightdm-settings) | 72 | 355 | 20.3 | LANGUAGE <LL@li.org> | 
+ | [libmypaint](/f39/package/libmypaint) | 457 | 2303 | 19.8 | Sardinian <https://hosted.weblate.org/projects/mypaint/libmypaint/sc/> | 
+ | [mate-user-guide](/f39/package/mate-user-guide) | 1 | 6 | 16.7 | Sardinian (https://app.transifex.com/mate/teams/13566/sc/) | 
+ | [atril](/f39/package/atril) | 352 | 2326 | 15.1 | Sardinian (https://app.transifex.com/mate/teams/13566/sc/) | 
+ | [skychart](/f39/package/skychart) | 685 | 5028 | 13.6 | Sardinian <sc@li.org> | 
+ | [mate-session-manager](/f39/package/mate-session-manager) | 66 | 715 | 9.2 | Sardinian (https://app.transifex.com/mate/teams/13566/sc/) | 
+ | [mozo](/f39/package/mozo) | 3 | 46 | 6.5 | Sardinian (https://www.transifex.com/mate/teams/13566/sc/) | 
+ | [mate-media](/f39/package/mate-media) | 11 | 239 | 4.6 | Sardinian (https://app.transifex.com/mate/teams/13566/sc/) | 
+ | [caja](/f39/package/caja) | 438 | 9675 | 4.5 | Sardinian (https://app.transifex.com/mate/teams/13566/sc/) | 
+ | [caja-extensions](/f39/package/caja-extensions) | 33 | 760 | 4.3 | Sardinian (https://www.transifex.com/mate/teams/13566/sc/) | 
+ | [engrampa](/f39/package/engrampa) | 75 | 2049 | 3.7 | Sardinian (https://app.transifex.com/mate/teams/13566/sc/) | 
+ | [libmatekbd](/f39/package/libmatekbd) | 9 | 308 | 2.9 | Sardinian (https://app.transifex.com/mate/teams/13566/sc/) | 
+ | [eom](/f39/package/eom) | 41 | 1779 | 2.3 | Sardinian (https://app.transifex.com/mate/teams/13566/sc/) | 
+ | [mate-utils](/f39/package/mate-utils) | 78 | 3879 | 2.0 | Sardinian (https://app.transifex.com/mate/teams/13566/sc/) | 
+ | [mate-menus](/f39/package/mate-menus) | 2 | 103 | 1.9 | Sardinian (https://app.transifex.com/mate/teams/13566/sc/) | 
+ | [mate-sensors-applet](/f39/package/mate-sensors-applet) | 6 | 313 | 1.9 | Sardinian (https://www.transifex.com/mate/teams/13566/sc/) | 
+ | [manafirewall](/f39/package/manafirewall) | 14 | 1097 | 1.3 | Sardinian (https://www.transifex.com/MageiaLinux/teams/9361/sc/) | 
+ | [mate-screensaver](/f39/package/mate-screensaver) | 14 | 1101 | 1.3 | Sardinian (https://app.transifex.com/mate/teams/13566/sc/) | 
+ | [mate-panel](/f39/package/mate-panel) | 71 | 5620 | 1.3 | Sardinian (https://www.transifex.com/mate/teams/13566/sc/) | 
+ | [mate-menu](/f39/package/mate-menu) | 3 | 308 | 1.0 | Sardinian (http://www.transifex.com/mate/MATE/language/sc/) | 
+ | [caja-actions](/f39/package/caja-actions) | 64 | 7082 | 0.9 | Sardinian (https://www.transifex.com/mate/teams/13566/sc/) | 
+ | [mate-system-monitor](/f39/package/mate-system-monitor) | 14 | 1558 | 0.9 | Sardinian (https://app.transifex.com/mate/teams/13566/sc/) | 
+ | [mate-terminal](/f39/package/mate-terminal) | 38 | 4719 | 0.8 | Sardinian (https://app.transifex.com/mate/teams/13566/sc/) | 
+ | [mate-control-center](/f39/package/mate-control-center) | 18 | 3331 | 0.5 | Sardinian (https://www.transifex.com/mate/teams/13566/sc/) | 
+ | [mate-power-manager](/f39/package/mate-power-manager) | 14 | 2656 | 0.5 | Sardinian (https://www.transifex.com/mate/teams/13566/sc/) | 
+ | [pluma-plugins](/f39/package/pluma-plugins) | 1 | 510 | 0.2 | Sardinian (https://www.transifex.com/mate/teams/13566/sc/) | 
+ | [mate-applets](/f39/package/mate-applets) | 2 | 1515 | 0.1 | Sardinian (https://www.transifex.com/mate/teams/13566/sc/) | 
+ | [calibre](/f39/package/calibre) | 3 | 170967 | 0.0 | Sardinian (http://www.transifex.com/calibre/calibre/language/sc/) | 
+ | [coin](/f39/package/coin) | 0 | 252 | 0.0 | none | 
+ | [dippi](/f39/package/dippi) | 0 | 1540 | 0.0 | none | 
+ | [elementary-code](/f39/package/elementary-code) | 0 | 1572 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [elementary-files](/f39/package/elementary-files) | 0 | 2538 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [elementary-icon-theme](/f39/package/elementary-icon-theme) | 0 | 394 | 0.0 | none | 
+ | [elementary-mail](/f39/package/elementary-mail) | 0 | 861 | 0.0 |  | 
+ | [elementary-music](/f39/package/elementary-music) | 0 | 207 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [elementary-notifications](/f39/package/elementary-notifications) | 0 | 40 | 0.0 | none | 
+ | [fonts-tweak-tool](/f39/package/fonts-tweak-tool) | 0 | 195 | 0.0 | Sardinian | 
+ | [gala](/f39/package/gala) | 0 | 259 | 0.0 | none | 
+ | [granite](/f39/package/granite) | 0 | 498 | 0.0 |  | 
+ | [granite-7](/f39/package/granite-7) | 0 | 369 | 0.0 |  | 
+ | [harvey](/f39/package/harvey) | 0 | 182 | 0.0 | none | 
+ | [lightdm](/f39/package/lightdm) | 0 | 163 | 0.0 | Sardinian <sc@li.org> | 
+ | [mate-themes](/f39/package/mate-themes) | 0 | 74 | 0.0 | Sardinian (http://app.transifex.com/mate/MATE/language/sc/) | 
+ | [nutty](/f39/package/nutty) | 0 | 608 | 0.0 |  | 
+ | [optimizer](/f39/package/optimizer) | 0 | 282 | 0.0 | none | 
+ | [pyhoca-gui](/f39/package/pyhoca-gui) | 0 | 1865 | 0.0 | none | 
+ | [python-django-mailman3](/f39/package/python-django-mailman3) | 0 | 355 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [python-hyperkitty](/f39/package/python-hyperkitty) | 0 | 951 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [python-postorius](/f39/package/python-postorius) | 0 | 5054 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [regextester](/f39/package/regextester) | 0 | 104 | 0.0 | none | 
+ | [wingpanel](/f39/package/wingpanel) | 0 | 16 | 0.0 | none | 
+ | [wingpanel-indicator-a11y](/f39/package/wingpanel-indicator-a11y) | 0 | 55 | 0.0 | none | 
+ | [wingpanel-indicator-bluetooth](/f39/package/wingpanel-indicator-bluetooth) | 0 | 283 | 0.0 | none | 
+ | [wingpanel-indicator-datetime](/f39/package/wingpanel-indicator-datetime) | 0 | 177 | 0.0 |  | 
+ | [wingpanel-indicator-keyboard](/f39/package/wingpanel-indicator-keyboard) | 0 | 63 | 0.0 |  | 
 {.sortable}
 
 

@@ -38,7 +38,7 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [mkvtoolnix]({{< ref "/f36/package/mkvtoolnix.md" >}}) | 24550 | 24605 | 99.8 | Chinese (Singapore) (http://www.transifex.com/moritz-bunkus/mkvtoolnix/language/zh_SG/) | 
+ | [mkvtoolnix](/f36/package/mkvtoolnix) | 24550 | 24605 | 99.8 | Chinese (Singapore) (http://www.transifex.com/moritz-bunkus/mkvtoolnix/language/zh_SG/) | 
 {.sortable}
 
 

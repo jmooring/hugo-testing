@@ -18,15 +18,15 @@ The package ModemManager (version 1.8.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f29/language/cs.md" >}}) | 134 | 134 | 100.0 | /mnt/stockage/packages/f29/ModemManager/po/cs.po | 
- | [hu]({{< ref "/f29/language/hu.md" >}}) | 134 | 134 | 100.0 | /mnt/stockage/packages/f29/ModemManager/po/hu.po | 
- | [id]({{< ref "/f29/language/id.md" >}}) | 134 | 134 | 100.0 | /mnt/stockage/packages/f29/ModemManager/po/id.po | 
- | [pl]({{< ref "/f29/language/pl.md" >}}) | 134 | 134 | 100.0 | /mnt/stockage/packages/f29/ModemManager/po/pl.po | 
- | [pt_BR]({{< ref "/f29/language/pt_BR.md" >}}) | 134 | 134 | 100.0 | /mnt/stockage/packages/f29/ModemManager/po/pt_BR.po | 
- | [sk]({{< ref "/f29/language/sk.md" >}}) | 134 | 134 | 100.0 | /mnt/stockage/packages/f29/ModemManager/po/sk.po | 
- | [sv]({{< ref "/f29/language/sv.md" >}}) | 134 | 134 | 100.0 | /mnt/stockage/packages/f29/ModemManager/po/sv.po | 
- | [uk]({{< ref "/f29/language/uk.md" >}}) | 134 | 134 | 100.0 | /mnt/stockage/packages/f29/ModemManager/po/uk.po | 
- | [de]({{< ref "/f29/language/de.md" >}}) | 105 | 134 | 78.4 | /mnt/stockage/packages/f29/ModemManager/po/de.po | 
+ | [cs](/f29/language/cs) | 134 | 134 | 100.0 | /mnt/stockage/packages/f29/ModemManager/po/cs.po | 
+ | [hu](/f29/language/hu) | 134 | 134 | 100.0 | /mnt/stockage/packages/f29/ModemManager/po/hu.po | 
+ | [id](/f29/language/id) | 134 | 134 | 100.0 | /mnt/stockage/packages/f29/ModemManager/po/id.po | 
+ | [pl](/f29/language/pl) | 134 | 134 | 100.0 | /mnt/stockage/packages/f29/ModemManager/po/pl.po | 
+ | [pt_BR](/f29/language/pt_BR) | 134 | 134 | 100.0 | /mnt/stockage/packages/f29/ModemManager/po/pt_BR.po | 
+ | [sk](/f29/language/sk) | 134 | 134 | 100.0 | /mnt/stockage/packages/f29/ModemManager/po/sk.po | 
+ | [sv](/f29/language/sv) | 134 | 134 | 100.0 | /mnt/stockage/packages/f29/ModemManager/po/sv.po | 
+ | [uk](/f29/language/uk) | 134 | 134 | 100.0 | /mnt/stockage/packages/f29/ModemManager/po/uk.po | 
+ | [de](/f29/language/de) | 105 | 134 | 78.4 | /mnt/stockage/packages/f29/ModemManager/po/de.po | 
 {.sortable}
 
 

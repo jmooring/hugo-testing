@@ -18,8 +18,8 @@ The package nextcloud (version 10.0.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [es]({{< ref "/f27/language/es.md" >}}) | 10 | 10 | 100.0 | /mnt/stockage/packages/f27/nextcloud/apps/user_saml/3rdparty/vendor/onelogin/php-saml/locale/es_ES/LC_MESSAGES/phptoolkit.po | 
- | [en_US]({{< ref "/f27/language/en_US.md" >}}) | 3 | 10 | 30.0 | /mnt/stockage/packages/f27/nextcloud/apps/user_saml/3rdparty/vendor/onelogin/php-saml/locale/en_US/LC_MESSAGES/phptoolkit.po | 
+ | [es](/f27/language/es) | 10 | 10 | 100.0 | /mnt/stockage/packages/f27/nextcloud/apps/user_saml/3rdparty/vendor/onelogin/php-saml/locale/es_ES/LC_MESSAGES/phptoolkit.po | 
+ | [en_US](/f27/language/en_US) | 3 | 10 | 30.0 | /mnt/stockage/packages/f27/nextcloud/apps/user_saml/3rdparty/vendor/onelogin/php-saml/locale/en_US/LC_MESSAGES/phptoolkit.po | 
 {.sortable}
 
 

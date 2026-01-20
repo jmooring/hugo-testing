@@ -39,90 +39,90 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [at-spi]({{< ref "/f11/package/at-spi.md" >}}) | 4 | 4 | 100.0 | Xhosa <xh-translate@ubuntu.com> | 
- | [bug-buddy]({{< ref "/f11/package/bug-buddy.md" >}}) | 1228 | 1228 | 100.0 | Xhosa <xh-translate@ubuntu.com> | 
- | [contact-lookup-applet]({{< ref "/f11/package/contact-lookup-applet.md" >}}) | 260 | 260 | 100.0 | Xhosa <xh-translate@ubuntu.com> | 
- | [ekiga]({{< ref "/f11/package/ekiga.md" >}}) | 5923 | 5923 | 100.0 | Xhosa <xh-translate@ubuntu.com> | 
- | [gconf-editor]({{< ref "/f11/package/gconf-editor.md" >}}) | 334 | 334 | 100.0 | Xhosa <xh-translate@ubuntu.com> | 
- | [ggz-gtk-client]({{< ref "/f11/package/ggz-gtk-client.md" >}}) | 7 | 7 | 100.0 | Xhosa <xh-translate@ubuntu.com> | 
- | [gnome-desktop]({{< ref "/f11/package/gnome-desktop.md" >}}) | 320 | 320 | 100.0 | Xhosa <xh-translate@ubuntu.com> | 
- | [gnome-icon-theme]({{< ref "/f11/package/gnome-icon-theme.md" >}}) | 53 | 53 | 100.0 | Xhosa <xh-translate@ubuntu.com> | 
- | [gnome-menus]({{< ref "/f11/package/gnome-menus.md" >}}) | 68 | 68 | 100.0 | Xhosa <xh-translate@ubuntu.com> | 
- | [gnome-mime-data]({{< ref "/f11/package/gnome-mime-data.md" >}}) | 887 | 887 | 100.0 | Xhosa <xh-translate@ubuntu.com> | 
- | [gnome-pilot]({{< ref "/f11/package/gnome-pilot.md" >}}) | 1403 | 1403 | 100.0 | Xhosa <xh-translate@ubuntu.com> | 
- | [gnome-themes]({{< ref "/f11/package/gnome-themes.md" >}}) | 101 | 101 | 100.0 | Xhosa <xh-translate@ubuntu.com> | 
- | [gnome-vfs2]({{< ref "/f11/package/gnome-vfs2.md" >}}) | 1281 | 1281 | 100.0 | Xhosa <xh-translate@ubuntu.com> | 
- | [gthumb]({{< ref "/f11/package/gthumb.md" >}}) | 2610 | 2610 | 100.0 | Xhosa <xh-translate@ubuntu.com> | 
- | [gtkhtml3]({{< ref "/f11/package/gtkhtml3.md" >}}) | 949 | 949 | 100.0 | Xhosa <xh-translate@ubuntu.com> | 
- | [gtksourceview]({{< ref "/f11/package/gtksourceview.md" >}}) | 725 | 725 | 100.0 | Xhosa <xh-translate@ubuntu.com> | 
- | [gtksourceview2]({{< ref "/f11/package/gtksourceview2.md" >}}) | 725 | 725 | 100.0 | Xhosa <xh-translate@ubuntu.com> | 
- | [gucharmap]({{< ref "/f11/package/gucharmap.md" >}}) | 507 | 507 | 100.0 | Xhosa <xh-translate@ubuntu.com> | 
- | [libgnome]({{< ref "/f11/package/libgnome.md" >}}) | 1407 | 1407 | 100.0 | Xhosa <xh-translate@ubuntu.com> | 
- | [libgnomecanvas]({{< ref "/f11/package/libgnomecanvas.md" >}}) | 357 | 357 | 100.0 | Xhosa <xh-translate@ubuntu.com> | 
- | [libgnomeprint22]({{< ref "/f11/package/libgnomeprint22.md" >}}) | 168 | 168 | 100.0 | Xhosa <xh-translate@ubuntu.com> | 
- | [libgtop2]({{< ref "/f11/package/libgtop2.md" >}}) | 134 | 134 | 100.0 | Xhosa <xh-translate@ubuntu.com> | 
- | [libwnck]({{< ref "/f11/package/libwnck.md" >}}) | 73 | 73 | 100.0 | Xhosa <xh-translate@ubuntu.com> | 
- | [mingw32-gtkhtml3]({{< ref "/f11/package/mingw32-gtkhtml3.md" >}}) | 949 | 949 | 100.0 | Xhosa <xh-translate@ubuntu.com> | 
- | [newt]({{< ref "/f11/package/newt.md" >}}) | 4 | 4 | 100.0 | Xhosa <xh-translate@ubuntu.com> | 
- | [vino]({{< ref "/f11/package/vino.md" >}}) | 540 | 540 | 100.0 | Xhosa <xh-translate@ubuntu.com> | 
- | [vte]({{< ref "/f11/package/vte.md" >}}) | 96 | 96 | 100.0 | Xhosa <xh-translate@ubuntu.com> | 
- | [yelp]({{< ref "/f11/package/yelp.md" >}}) | 597 | 597 | 100.0 | Xhosa <xh-translate@ubuntu.com> | 
- | [metacity]({{< ref "/f11/package/metacity.md" >}}) | 6893 | 6919 | 99.6 | Xhosa <xh-translate@ubuntu.com> | 
- | [evolution-exchange]({{< ref "/f11/package/evolution-exchange.md" >}}) | 1900 | 1908 | 99.6 | Xhosa <xh-translate@ubuntu.com> | 
- | [libbonoboui]({{< ref "/f11/package/libbonoboui.md" >}}) | 358 | 360 | 99.4 | Xhosa <xh-translate@ubuntu.com> | 
- | [gnome-terminal]({{< ref "/f11/package/gnome-terminal.md" >}}) | 4378 | 4403 | 99.4 | Xhosa <xh-translate@ubuntu.com> | 
- | [evolution-data-server]({{< ref "/f11/package/evolution-data-server.md" >}}) | 4654 | 4689 | 99.3 | Xhosa <xh-translate@ubuntu.com> | 
- | [eel2]({{< ref "/f11/package/eel2.md" >}}) | 231 | 235 | 98.3 | Xhosa <xh-translate@ubuntu.com> | 
- | [gedit]({{< ref "/f11/package/gedit.md" >}}) | 4121 | 4206 | 98.0 | Xhosa <xh-translate@ubuntu.com> | 
- | [sound-juicer]({{< ref "/f11/package/sound-juicer.md" >}}) | 683 | 699 | 97.7 | Xhosa <xh-translate@ubuntu.com> | 
- | [GConf2]({{< ref "/f11/package/GConf2.md" >}}) | 3832 | 3954 | 96.9 | Xhosa <xh-translate@ubuntu.com> | 
- | [GConf2-dbus]({{< ref "/f11/package/GConf2-dbus.md" >}}) | 3832 | 3954 | 96.9 | Xhosa <xh-translate@ubuntu.com> | 
- | [nautilus]({{< ref "/f11/package/nautilus.md" >}}) | 6945 | 7210 | 96.3 | Xhosa <xh-translate@ubuntu.com> | 
- | [gdm]({{< ref "/f11/package/gdm.md" >}}) | 5137 | 5348 | 96.1 | Xhosa <xh-translate@ubuntu.com> | 
- | [libgnomeprintui22]({{< ref "/f11/package/libgnomeprintui22.md" >}}) | 410 | 427 | 96.0 | Xhosa <xh-translate@ubuntu.com> | 
- | [gnome-applets]({{< ref "/f11/package/gnome-applets.md" >}}) | 3815 | 3978 | 95.9 | Xhosa <xh-translate@ubuntu.com> | 
- | [atk]({{< ref "/f11/package/atk.md" >}}) | 359 | 375 | 95.7 | Xhosa <xh-translate@ubuntu.com> | 
- | [mingw32-atk]({{< ref "/f11/package/mingw32-atk.md" >}}) | 359 | 375 | 95.7 | Xhosa <xh-translate@ubuntu.com> | 
- | [totem]({{< ref "/f11/package/totem.md" >}}) | 1466 | 1532 | 95.7 | Xhosa <xh-translate@ubuntu.com> | 
- | [totem-pl-parser]({{< ref "/f11/package/totem-pl-parser.md" >}}) | 1466 | 1532 | 95.7 | Xhosa <xh-translate@ubuntu.com> | 
- | [file-roller]({{< ref "/f11/package/file-roller.md" >}}) | 928 | 971 | 95.6 | Xhosa Team <xhosa@ubuntu.com> | 
- | [gnome-panel]({{< ref "/f11/package/gnome-panel.md" >}}) | 3739 | 3941 | 94.9 | Xhosa <xh-translate@ubuntu.com> | 
- | [gnome-nettool]({{< ref "/f11/package/gnome-nettool.md" >}}) | 487 | 520 | 93.7 | Xhosa <xh-translate@ubuntu.com> | 
- | [gnome-utils]({{< ref "/f11/package/gnome-utils.md" >}}) | 2445 | 2616 | 93.5 | Xhosa <xh-translate@ubuntu.com> | 
- | [gnome-session]({{< ref "/f11/package/gnome-session.md" >}}) | 498 | 533 | 93.4 | Xhosa <xh-translate@ubuntu.com> | 
- | [gcalctool]({{< ref "/f11/package/gcalctool.md" >}}) | 851 | 915 | 93.0 | Xhosa <xh-translate@ubuntu.com> | 
- | [libbonobo]({{< ref "/f11/package/libbonobo.md" >}}) | 485 | 524 | 92.6 | Xhosa <xh-translate@ubuntu.com> | 
- | [zenity]({{< ref "/f11/package/zenity.md" >}}) | 359 | 394 | 91.1 | Xhosa <xh-translate@ubuntu.com> | 
- | [eog]({{< ref "/f11/package/eog.md" >}}) | 600 | 667 | 90.0 | Xhosa <xh-translate@ubuntu.com> | 
- | [libgnomeui]({{< ref "/f11/package/libgnomeui.md" >}}) | 1266 | 1419 | 89.2 | Xhosa <xh-translate@ubuntu.com> | 
- | [kmid]({{< ref "/f11/package/kmid.md" >}}) | 475 | 535 | 88.8 | Xhosa <xhosa@translate.org.za> | 
- | [nautilus-cd-burner]({{< ref "/f11/package/nautilus-cd-burner.md" >}}) | 654 | 768 | 85.2 | Xhosa <xh-translate@ubuntu.com> | 
- | [gnome-pilot-conduits]({{< ref "/f11/package/gnome-pilot-conduits.md" >}}) | 177 | 209 | 84.7 | Xhosa <xh-translate@ubuntu.com> | 
- | [control-center]({{< ref "/f11/package/control-center.md" >}}) | 2831 | 3382 | 83.7 | Xhosa <xh-translate@ubuntu.com> | 
- | [synaptic]({{< ref "/f11/package/synaptic.md" >}}) | 2649 | 3231 | 82.0 | Xhosa <xh-translate@ubuntu.com> | 
- | [gnome-media]({{< ref "/f11/package/gnome-media.md" >}}) | 1425 | 1795 | 79.4 | Xhosa <xh-translate@ubuntu.com> | 
- | [gst-mixer]({{< ref "/f11/package/gst-mixer.md" >}}) | 1425 | 1795 | 79.4 | Xhosa <xh-translate@ubuntu.com> | 
- | [libgweather]({{< ref "/f11/package/libgweather.md" >}}) | 355 | 460 | 77.2 | Xhosa <xh-translate@ubuntu.com> | 
- | [evolution]({{< ref "/f11/package/evolution.md" >}}) | 12845 | 17202 | 74.7 | Xhosa <xh-translate@ubuntu.com> | 
- | [gnome-keyring]({{< ref "/f11/package/gnome-keyring.md" >}}) | 524 | 711 | 73.7 | Xhosa <xh-translate@ubuntu.com> | 
- | [gnome-netstatus]({{< ref "/f11/package/gnome-netstatus.md" >}}) | 302 | 417 | 72.4 | Xhosa <xh-translate@ubuntu.com> | 
- | [tuxpaint]({{< ref "/f11/package/tuxpaint.md" >}}) | 527 | 761 | 69.3 | LANGUAGE <LL@li.org> | 
- | [gimp]({{< ref "/f11/package/gimp.md" >}}) | 13993 | 20334 | 68.8 | Xhosa <xh-translate@ubuntu.com> | 
- | [kiconedit]({{< ref "/f11/package/kiconedit.md" >}}) | 493 | 726 | 67.9 | Xhosa <xhosa@translate.org.za> | 
- | [gtk2]({{< ref "/f11/package/gtk2.md" >}}) | 7915 | 12928 | 61.2 | Xhosa <xh-translate@ubuntu.com> | 
- | [mingw32-gtk2]({{< ref "/f11/package/mingw32-gtk2.md" >}}) | 7915 | 12928 | 61.2 | Xhosa <xh-translate@ubuntu.com> | 
- | [ksig]({{< ref "/f11/package/ksig.md" >}}) | 52 | 85 | 61.2 | Xhosa <xhosa@translate.org.za> | 
- | [lxmenu-data]({{< ref "/f11/package/lxmenu-data.md" >}}) | 51 | 97 | 52.6 | Xhosa <xh-translate@ubuntu.com> | 
- | [gnome-games]({{< ref "/f11/package/gnome-games.md" >}}) | 3605 | 7066 | 51.0 | Xhosa <xh-translate@ubuntu.com> | 
- | [glib2]({{< ref "/f11/package/glib2.md" >}}) | 929 | 2350 | 39.5 | Xhosa <xh-translate@ubuntu.com> | 
- | [mingw32-glib2]({{< ref "/f11/package/mingw32-glib2.md" >}}) | 929 | 2350 | 39.5 | Xhosa <xh-translate@ubuntu.com> | 
- | [pidgin]({{< ref "/f11/package/pidgin.md" >}}) | 6316 | 18144 | 34.8 | Xhosa <xh-translate@ubuntu.com> | 
- | [gnome-settings-daemon]({{< ref "/f11/package/gnome-settings-daemon.md" >}}) | 313 | 1034 | 30.3 | Xhosa <xh-translate@ubuntu.com> | 
- | [konq-plugins]({{< ref "/f11/package/konq-plugins.md" >}}) | 242 | 934 | 25.9 | Xhosa <xhosa@translate.org.za> | 
- | [kpilot]({{< ref "/f11/package/kpilot.md" >}}) | 521 | 7156 | 7.3 | Xhosa <xhosa@translate.org.za> | 
- | [kcoloredit]({{< ref "/f11/package/kcoloredit.md" >}}) | 8 | 278 | 2.9 | Xhosa <xhosa@translate.org.za> | 
- | [iso-codes]({{< ref "/f11/package/iso-codes.md" >}}) | 166 | 12287 | 1.4 | Xhosa <xhosa@translate.org.za> | 
- | [compiz]({{< ref "/f11/package/compiz.md" >}}) | 0 | 39 | 0.0 | Novell Language <language@novell.com> | 
+ | [at-spi](/f11/package/at-spi) | 4 | 4 | 100.0 | Xhosa <xh-translate@ubuntu.com> | 
+ | [bug-buddy](/f11/package/bug-buddy) | 1228 | 1228 | 100.0 | Xhosa <xh-translate@ubuntu.com> | 
+ | [contact-lookup-applet](/f11/package/contact-lookup-applet) | 260 | 260 | 100.0 | Xhosa <xh-translate@ubuntu.com> | 
+ | [ekiga](/f11/package/ekiga) | 5923 | 5923 | 100.0 | Xhosa <xh-translate@ubuntu.com> | 
+ | [gconf-editor](/f11/package/gconf-editor) | 334 | 334 | 100.0 | Xhosa <xh-translate@ubuntu.com> | 
+ | [ggz-gtk-client](/f11/package/ggz-gtk-client) | 7 | 7 | 100.0 | Xhosa <xh-translate@ubuntu.com> | 
+ | [gnome-desktop](/f11/package/gnome-desktop) | 320 | 320 | 100.0 | Xhosa <xh-translate@ubuntu.com> | 
+ | [gnome-icon-theme](/f11/package/gnome-icon-theme) | 53 | 53 | 100.0 | Xhosa <xh-translate@ubuntu.com> | 
+ | [gnome-menus](/f11/package/gnome-menus) | 68 | 68 | 100.0 | Xhosa <xh-translate@ubuntu.com> | 
+ | [gnome-mime-data](/f11/package/gnome-mime-data) | 887 | 887 | 100.0 | Xhosa <xh-translate@ubuntu.com> | 
+ | [gnome-pilot](/f11/package/gnome-pilot) | 1403 | 1403 | 100.0 | Xhosa <xh-translate@ubuntu.com> | 
+ | [gnome-themes](/f11/package/gnome-themes) | 101 | 101 | 100.0 | Xhosa <xh-translate@ubuntu.com> | 
+ | [gnome-vfs2](/f11/package/gnome-vfs2) | 1281 | 1281 | 100.0 | Xhosa <xh-translate@ubuntu.com> | 
+ | [gthumb](/f11/package/gthumb) | 2610 | 2610 | 100.0 | Xhosa <xh-translate@ubuntu.com> | 
+ | [gtkhtml3](/f11/package/gtkhtml3) | 949 | 949 | 100.0 | Xhosa <xh-translate@ubuntu.com> | 
+ | [gtksourceview](/f11/package/gtksourceview) | 725 | 725 | 100.0 | Xhosa <xh-translate@ubuntu.com> | 
+ | [gtksourceview2](/f11/package/gtksourceview2) | 725 | 725 | 100.0 | Xhosa <xh-translate@ubuntu.com> | 
+ | [gucharmap](/f11/package/gucharmap) | 507 | 507 | 100.0 | Xhosa <xh-translate@ubuntu.com> | 
+ | [libgnome](/f11/package/libgnome) | 1407 | 1407 | 100.0 | Xhosa <xh-translate@ubuntu.com> | 
+ | [libgnomecanvas](/f11/package/libgnomecanvas) | 357 | 357 | 100.0 | Xhosa <xh-translate@ubuntu.com> | 
+ | [libgnomeprint22](/f11/package/libgnomeprint22) | 168 | 168 | 100.0 | Xhosa <xh-translate@ubuntu.com> | 
+ | [libgtop2](/f11/package/libgtop2) | 134 | 134 | 100.0 | Xhosa <xh-translate@ubuntu.com> | 
+ | [libwnck](/f11/package/libwnck) | 73 | 73 | 100.0 | Xhosa <xh-translate@ubuntu.com> | 
+ | [mingw32-gtkhtml3](/f11/package/mingw32-gtkhtml3) | 949 | 949 | 100.0 | Xhosa <xh-translate@ubuntu.com> | 
+ | [newt](/f11/package/newt) | 4 | 4 | 100.0 | Xhosa <xh-translate@ubuntu.com> | 
+ | [vino](/f11/package/vino) | 540 | 540 | 100.0 | Xhosa <xh-translate@ubuntu.com> | 
+ | [vte](/f11/package/vte) | 96 | 96 | 100.0 | Xhosa <xh-translate@ubuntu.com> | 
+ | [yelp](/f11/package/yelp) | 597 | 597 | 100.0 | Xhosa <xh-translate@ubuntu.com> | 
+ | [metacity](/f11/package/metacity) | 6893 | 6919 | 99.6 | Xhosa <xh-translate@ubuntu.com> | 
+ | [evolution-exchange](/f11/package/evolution-exchange) | 1900 | 1908 | 99.6 | Xhosa <xh-translate@ubuntu.com> | 
+ | [libbonoboui](/f11/package/libbonoboui) | 358 | 360 | 99.4 | Xhosa <xh-translate@ubuntu.com> | 
+ | [gnome-terminal](/f11/package/gnome-terminal) | 4378 | 4403 | 99.4 | Xhosa <xh-translate@ubuntu.com> | 
+ | [evolution-data-server](/f11/package/evolution-data-server) | 4654 | 4689 | 99.3 | Xhosa <xh-translate@ubuntu.com> | 
+ | [eel2](/f11/package/eel2) | 231 | 235 | 98.3 | Xhosa <xh-translate@ubuntu.com> | 
+ | [gedit](/f11/package/gedit) | 4121 | 4206 | 98.0 | Xhosa <xh-translate@ubuntu.com> | 
+ | [sound-juicer](/f11/package/sound-juicer) | 683 | 699 | 97.7 | Xhosa <xh-translate@ubuntu.com> | 
+ | [GConf2](/f11/package/GConf2) | 3832 | 3954 | 96.9 | Xhosa <xh-translate@ubuntu.com> | 
+ | [GConf2-dbus](/f11/package/GConf2-dbus) | 3832 | 3954 | 96.9 | Xhosa <xh-translate@ubuntu.com> | 
+ | [nautilus](/f11/package/nautilus) | 6945 | 7210 | 96.3 | Xhosa <xh-translate@ubuntu.com> | 
+ | [gdm](/f11/package/gdm) | 5137 | 5348 | 96.1 | Xhosa <xh-translate@ubuntu.com> | 
+ | [libgnomeprintui22](/f11/package/libgnomeprintui22) | 410 | 427 | 96.0 | Xhosa <xh-translate@ubuntu.com> | 
+ | [gnome-applets](/f11/package/gnome-applets) | 3815 | 3978 | 95.9 | Xhosa <xh-translate@ubuntu.com> | 
+ | [atk](/f11/package/atk) | 359 | 375 | 95.7 | Xhosa <xh-translate@ubuntu.com> | 
+ | [mingw32-atk](/f11/package/mingw32-atk) | 359 | 375 | 95.7 | Xhosa <xh-translate@ubuntu.com> | 
+ | [totem](/f11/package/totem) | 1466 | 1532 | 95.7 | Xhosa <xh-translate@ubuntu.com> | 
+ | [totem-pl-parser](/f11/package/totem-pl-parser) | 1466 | 1532 | 95.7 | Xhosa <xh-translate@ubuntu.com> | 
+ | [file-roller](/f11/package/file-roller) | 928 | 971 | 95.6 | Xhosa Team <xhosa@ubuntu.com> | 
+ | [gnome-panel](/f11/package/gnome-panel) | 3739 | 3941 | 94.9 | Xhosa <xh-translate@ubuntu.com> | 
+ | [gnome-nettool](/f11/package/gnome-nettool) | 487 | 520 | 93.7 | Xhosa <xh-translate@ubuntu.com> | 
+ | [gnome-utils](/f11/package/gnome-utils) | 2445 | 2616 | 93.5 | Xhosa <xh-translate@ubuntu.com> | 
+ | [gnome-session](/f11/package/gnome-session) | 498 | 533 | 93.4 | Xhosa <xh-translate@ubuntu.com> | 
+ | [gcalctool](/f11/package/gcalctool) | 851 | 915 | 93.0 | Xhosa <xh-translate@ubuntu.com> | 
+ | [libbonobo](/f11/package/libbonobo) | 485 | 524 | 92.6 | Xhosa <xh-translate@ubuntu.com> | 
+ | [zenity](/f11/package/zenity) | 359 | 394 | 91.1 | Xhosa <xh-translate@ubuntu.com> | 
+ | [eog](/f11/package/eog) | 600 | 667 | 90.0 | Xhosa <xh-translate@ubuntu.com> | 
+ | [libgnomeui](/f11/package/libgnomeui) | 1266 | 1419 | 89.2 | Xhosa <xh-translate@ubuntu.com> | 
+ | [kmid](/f11/package/kmid) | 475 | 535 | 88.8 | Xhosa <xhosa@translate.org.za> | 
+ | [nautilus-cd-burner](/f11/package/nautilus-cd-burner) | 654 | 768 | 85.2 | Xhosa <xh-translate@ubuntu.com> | 
+ | [gnome-pilot-conduits](/f11/package/gnome-pilot-conduits) | 177 | 209 | 84.7 | Xhosa <xh-translate@ubuntu.com> | 
+ | [control-center](/f11/package/control-center) | 2831 | 3382 | 83.7 | Xhosa <xh-translate@ubuntu.com> | 
+ | [synaptic](/f11/package/synaptic) | 2649 | 3231 | 82.0 | Xhosa <xh-translate@ubuntu.com> | 
+ | [gnome-media](/f11/package/gnome-media) | 1425 | 1795 | 79.4 | Xhosa <xh-translate@ubuntu.com> | 
+ | [gst-mixer](/f11/package/gst-mixer) | 1425 | 1795 | 79.4 | Xhosa <xh-translate@ubuntu.com> | 
+ | [libgweather](/f11/package/libgweather) | 355 | 460 | 77.2 | Xhosa <xh-translate@ubuntu.com> | 
+ | [evolution](/f11/package/evolution) | 12845 | 17202 | 74.7 | Xhosa <xh-translate@ubuntu.com> | 
+ | [gnome-keyring](/f11/package/gnome-keyring) | 524 | 711 | 73.7 | Xhosa <xh-translate@ubuntu.com> | 
+ | [gnome-netstatus](/f11/package/gnome-netstatus) | 302 | 417 | 72.4 | Xhosa <xh-translate@ubuntu.com> | 
+ | [tuxpaint](/f11/package/tuxpaint) | 527 | 761 | 69.3 | LANGUAGE <LL@li.org> | 
+ | [gimp](/f11/package/gimp) | 13993 | 20334 | 68.8 | Xhosa <xh-translate@ubuntu.com> | 
+ | [kiconedit](/f11/package/kiconedit) | 493 | 726 | 67.9 | Xhosa <xhosa@translate.org.za> | 
+ | [gtk2](/f11/package/gtk2) | 7915 | 12928 | 61.2 | Xhosa <xh-translate@ubuntu.com> | 
+ | [mingw32-gtk2](/f11/package/mingw32-gtk2) | 7915 | 12928 | 61.2 | Xhosa <xh-translate@ubuntu.com> | 
+ | [ksig](/f11/package/ksig) | 52 | 85 | 61.2 | Xhosa <xhosa@translate.org.za> | 
+ | [lxmenu-data](/f11/package/lxmenu-data) | 51 | 97 | 52.6 | Xhosa <xh-translate@ubuntu.com> | 
+ | [gnome-games](/f11/package/gnome-games) | 3605 | 7066 | 51.0 | Xhosa <xh-translate@ubuntu.com> | 
+ | [glib2](/f11/package/glib2) | 929 | 2350 | 39.5 | Xhosa <xh-translate@ubuntu.com> | 
+ | [mingw32-glib2](/f11/package/mingw32-glib2) | 929 | 2350 | 39.5 | Xhosa <xh-translate@ubuntu.com> | 
+ | [pidgin](/f11/package/pidgin) | 6316 | 18144 | 34.8 | Xhosa <xh-translate@ubuntu.com> | 
+ | [gnome-settings-daemon](/f11/package/gnome-settings-daemon) | 313 | 1034 | 30.3 | Xhosa <xh-translate@ubuntu.com> | 
+ | [konq-plugins](/f11/package/konq-plugins) | 242 | 934 | 25.9 | Xhosa <xhosa@translate.org.za> | 
+ | [kpilot](/f11/package/kpilot) | 521 | 7156 | 7.3 | Xhosa <xhosa@translate.org.za> | 
+ | [kcoloredit](/f11/package/kcoloredit) | 8 | 278 | 2.9 | Xhosa <xhosa@translate.org.za> | 
+ | [iso-codes](/f11/package/iso-codes) | 166 | 12287 | 1.4 | Xhosa <xhosa@translate.org.za> | 
+ | [compiz](/f11/package/compiz) | 0 | 39 | 0.0 | Novell Language <language@novell.com> | 
 {.sortable}
 
 

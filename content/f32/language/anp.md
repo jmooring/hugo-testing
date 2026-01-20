@@ -38,20 +38,20 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [anaconda]({{< ref "/f32/package/anaconda.md" >}}) | 0 | 7147 | 0.0 | Angika | 
- | [entangle]({{< ref "/f32/package/entangle.md" >}}) | 0 | 953 | 0.0 | Angika | 
- | [fonts-tweak-tool]({{< ref "/f32/package/fonts-tweak-tool.md" >}}) | 0 | 196 | 0.0 | Angika | 
- | [initial-setup]({{< ref "/f32/package/initial-setup.md" >}}) | 0 | 33 | 0.0 | Angika | 
- | [libosinfo]({{< ref "/f32/package/libosinfo.md" >}}) | 0 | 783 | 0.0 | Angika | 
- | [mingw-libosinfo]({{< ref "/f32/package/mingw-libosinfo.md" >}}) | 0 | 783 | 0.0 | Angika | 
- | [mingw-libvirt]({{< ref "/f32/package/mingw-libvirt.md" >}}) | 0 | 0 | 0.0 | Angika | 
- | [mingw-libvirt-glib]({{< ref "/f32/package/mingw-libvirt-glib.md" >}}) | 0 | 158 | 0.0 | Angika | 
- | [mingw-osinfo-db-tools]({{< ref "/f32/package/mingw-osinfo-db-tools.md" >}}) | 0 | 222 | 0.0 | Angika | 
- | [osinfo-db-tools]({{< ref "/f32/package/osinfo-db-tools.md" >}}) | 0 | 222 | 0.0 | Angika | 
- | [pam]({{< ref "/f32/package/pam.md" >}}) | 0 | 597 | 0.0 | Angika | 
- | [python-fedora]({{< ref "/f32/package/python-fedora.md" >}}) | 0 | 214 | 0.0 | Angika | 
- | [python-meh]({{< ref "/f32/package/python-meh.md" >}}) | 0 | 109 | 0.0 | Angika | 
- | [python-simpleline]({{< ref "/f32/package/python-simpleline.md" >}}) | 0 | 42 | 0.0 | Angika | 
+ | [anaconda](/f32/package/anaconda) | 0 | 7147 | 0.0 | Angika | 
+ | [entangle](/f32/package/entangle) | 0 | 953 | 0.0 | Angika | 
+ | [fonts-tweak-tool](/f32/package/fonts-tweak-tool) | 0 | 196 | 0.0 | Angika | 
+ | [initial-setup](/f32/package/initial-setup) | 0 | 33 | 0.0 | Angika | 
+ | [libosinfo](/f32/package/libosinfo) | 0 | 783 | 0.0 | Angika | 
+ | [mingw-libosinfo](/f32/package/mingw-libosinfo) | 0 | 783 | 0.0 | Angika | 
+ | [mingw-libvirt](/f32/package/mingw-libvirt) | 0 | 0 | 0.0 | Angika | 
+ | [mingw-libvirt-glib](/f32/package/mingw-libvirt-glib) | 0 | 158 | 0.0 | Angika | 
+ | [mingw-osinfo-db-tools](/f32/package/mingw-osinfo-db-tools) | 0 | 222 | 0.0 | Angika | 
+ | [osinfo-db-tools](/f32/package/osinfo-db-tools) | 0 | 222 | 0.0 | Angika | 
+ | [pam](/f32/package/pam) | 0 | 597 | 0.0 | Angika | 
+ | [python-fedora](/f32/package/python-fedora) | 0 | 214 | 0.0 | Angika | 
+ | [python-meh](/f32/package/python-meh) | 0 | 109 | 0.0 | Angika | 
+ | [python-simpleline](/f32/package/python-simpleline) | 0 | 42 | 0.0 | Angika | 
 {.sortable}
 
 

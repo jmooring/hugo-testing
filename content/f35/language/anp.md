@@ -38,13 +38,13 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [anaconda]({{< ref "/f35/package/anaconda.md" >}}) | 0 | 7147 | 0.0 | Angika | 
- | [entangle]({{< ref "/f35/package/entangle.md" >}}) | 0 | 953 | 0.0 | Angika | 
- | [fonts-tweak-tool]({{< ref "/f35/package/fonts-tweak-tool.md" >}}) | 0 | 196 | 0.0 | Angika | 
- | [initial-setup]({{< ref "/f35/package/initial-setup.md" >}}) | 0 | 33 | 0.0 | Angika | 
- | [libvirt-sandbox]({{< ref "/f35/package/libvirt-sandbox.md" >}}) | 0 | 617 | 0.0 | Angika | 
- | [python-fedora]({{< ref "/f35/package/python-fedora.md" >}}) | 0 | 214 | 0.0 | Angika | 
- | [python-meh]({{< ref "/f35/package/python-meh.md" >}}) | 0 | 109 | 0.0 | Angika | 
+ | [anaconda](/f35/package/anaconda) | 0 | 7147 | 0.0 | Angika | 
+ | [entangle](/f35/package/entangle) | 0 | 953 | 0.0 | Angika | 
+ | [fonts-tweak-tool](/f35/package/fonts-tweak-tool) | 0 | 196 | 0.0 | Angika | 
+ | [initial-setup](/f35/package/initial-setup) | 0 | 33 | 0.0 | Angika | 
+ | [libvirt-sandbox](/f35/package/libvirt-sandbox) | 0 | 617 | 0.0 | Angika | 
+ | [python-fedora](/f35/package/python-fedora) | 0 | 214 | 0.0 | Angika | 
+ | [python-meh](/f35/package/python-meh) | 0 | 109 | 0.0 | Angika | 
 {.sortable}
 
 

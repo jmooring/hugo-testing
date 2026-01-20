@@ -18,19 +18,19 @@ The package ModemManager (version 1.10.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f30/language/cs.md" >}}) | 134 | 134 | 100.0 | /mnt/stockage/packages/f30/ModemManager/po/cs.po | 
- | [fr]({{< ref "/f30/language/fr.md" >}}) | 134 | 134 | 100.0 | /mnt/stockage/packages/f30/ModemManager/po/fr.po | 
- | [fur]({{< ref "/f30/language/fur.md" >}}) | 134 | 134 | 100.0 | /mnt/stockage/packages/f30/ModemManager/po/fur.po | 
- | [hu]({{< ref "/f30/language/hu.md" >}}) | 134 | 134 | 100.0 | /mnt/stockage/packages/f30/ModemManager/po/hu.po | 
- | [id]({{< ref "/f30/language/id.md" >}}) | 134 | 134 | 100.0 | /mnt/stockage/packages/f30/ModemManager/po/id.po | 
- | [it]({{< ref "/f30/language/it.md" >}}) | 134 | 134 | 100.0 | /mnt/stockage/packages/f30/ModemManager/po/it.po | 
- | [pl]({{< ref "/f30/language/pl.md" >}}) | 134 | 134 | 100.0 | /mnt/stockage/packages/f30/ModemManager/po/pl.po | 
- | [pt_BR]({{< ref "/f30/language/pt_BR.md" >}}) | 134 | 134 | 100.0 | /mnt/stockage/packages/f30/ModemManager/po/pt_BR.po | 
- | [sk]({{< ref "/f30/language/sk.md" >}}) | 134 | 134 | 100.0 | /mnt/stockage/packages/f30/ModemManager/po/sk.po | 
- | [sv]({{< ref "/f30/language/sv.md" >}}) | 134 | 134 | 100.0 | /mnt/stockage/packages/f30/ModemManager/po/sv.po | 
- | [tr]({{< ref "/f30/language/tr.md" >}}) | 134 | 134 | 100.0 | /mnt/stockage/packages/f30/ModemManager/po/tr.po | 
- | [uk]({{< ref "/f30/language/uk.md" >}}) | 134 | 134 | 100.0 | /mnt/stockage/packages/f30/ModemManager/po/uk.po | 
- | [de]({{< ref "/f30/language/de.md" >}}) | 105 | 134 | 78.4 | /mnt/stockage/packages/f30/ModemManager/po/de.po | 
+ | [cs](/f30/language/cs) | 134 | 134 | 100.0 | /mnt/stockage/packages/f30/ModemManager/po/cs.po | 
+ | [fr](/f30/language/fr) | 134 | 134 | 100.0 | /mnt/stockage/packages/f30/ModemManager/po/fr.po | 
+ | [fur](/f30/language/fur) | 134 | 134 | 100.0 | /mnt/stockage/packages/f30/ModemManager/po/fur.po | 
+ | [hu](/f30/language/hu) | 134 | 134 | 100.0 | /mnt/stockage/packages/f30/ModemManager/po/hu.po | 
+ | [id](/f30/language/id) | 134 | 134 | 100.0 | /mnt/stockage/packages/f30/ModemManager/po/id.po | 
+ | [it](/f30/language/it) | 134 | 134 | 100.0 | /mnt/stockage/packages/f30/ModemManager/po/it.po | 
+ | [pl](/f30/language/pl) | 134 | 134 | 100.0 | /mnt/stockage/packages/f30/ModemManager/po/pl.po | 
+ | [pt_BR](/f30/language/pt_BR) | 134 | 134 | 100.0 | /mnt/stockage/packages/f30/ModemManager/po/pt_BR.po | 
+ | [sk](/f30/language/sk) | 134 | 134 | 100.0 | /mnt/stockage/packages/f30/ModemManager/po/sk.po | 
+ | [sv](/f30/language/sv) | 134 | 134 | 100.0 | /mnt/stockage/packages/f30/ModemManager/po/sv.po | 
+ | [tr](/f30/language/tr) | 134 | 134 | 100.0 | /mnt/stockage/packages/f30/ModemManager/po/tr.po | 
+ | [uk](/f30/language/uk) | 134 | 134 | 100.0 | /mnt/stockage/packages/f30/ModemManager/po/uk.po | 
+ | [de](/f30/language/de) | 105 | 134 | 78.4 | /mnt/stockage/packages/f30/ModemManager/po/de.po | 
 {.sortable}
 
 

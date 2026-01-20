@@ -18,20 +18,20 @@ The package gnubiff (version 2.2.11):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f10/language/de.md" >}}) | 1181 | 1181 | 100.0 | /mnt/stockage/packages/f10/gnubiff/po/de.po | 
- | [nl]({{< ref "/f10/language/nl.md" >}}) | 1044 | 1181 | 88.4 | /mnt/stockage/packages/f10/gnubiff/po/nl.po | 
- | [pt]({{< ref "/f10/language/pt.md" >}}) | 1044 | 1181 | 88.4 | /mnt/stockage/packages/f10/gnubiff/po/pt.po | 
- | [pt_BR]({{< ref "/f10/language/pt_BR.md" >}}) | 1044 | 1181 | 88.4 | /mnt/stockage/packages/f10/gnubiff/po/pt_BR.po | 
- | [sv]({{< ref "/f10/language/sv.md" >}}) | 1044 | 1181 | 88.4 | /mnt/stockage/packages/f10/gnubiff/po/sv.po | 
- | [vi]({{< ref "/f10/language/vi.md" >}}) | 1044 | 1181 | 88.4 | /mnt/stockage/packages/f10/gnubiff/po/vi.po | 
- | [fr]({{< ref "/f10/language/fr.md" >}}) | 2064 | 2362 | 87.4 | /mnt/stockage/packages/f10/gnubiff/po/fr_FR.po/mnt/stockage/packages/f10/gnubiff/po/fr.po | 
- | [fr_CA]({{< ref "/f10/language/fr_CA.md" >}}) | 1032 | 1181 | 87.4 | /mnt/stockage/packages/f10/gnubiff/po/fr_CA.po | 
- | [cs]({{< ref "/f10/language/cs.md" >}}) | 947 | 1181 | 80.2 | /mnt/stockage/packages/f10/gnubiff/po/cs.po | 
- | [it]({{< ref "/f10/language/it.md" >}}) | 945 | 1181 | 80.0 | /mnt/stockage/packages/f10/gnubiff/po/it.po | 
- | [hu]({{< ref "/f10/language/hu.md" >}}) | 908 | 1181 | 76.9 | /mnt/stockage/packages/f10/gnubiff/po/hu.po | 
- | [es]({{< ref "/f10/language/es.md" >}}) | 563 | 1181 | 47.7 | /mnt/stockage/packages/f10/gnubiff/po/es.po | 
- | [rw]({{< ref "/f10/language/rw.md" >}}) | 16 | 1181 | 1.4 | /mnt/stockage/packages/f10/gnubiff/po/rw.po | 
- | [ro]({{< ref "/f10/language/ro.md" >}}) | 13 | 1181 | 1.1 | /mnt/stockage/packages/f10/gnubiff/po/ro.po | 
+ | [de](/f10/language/de) | 1181 | 1181 | 100.0 | /mnt/stockage/packages/f10/gnubiff/po/de.po | 
+ | [nl](/f10/language/nl) | 1044 | 1181 | 88.4 | /mnt/stockage/packages/f10/gnubiff/po/nl.po | 
+ | [pt](/f10/language/pt) | 1044 | 1181 | 88.4 | /mnt/stockage/packages/f10/gnubiff/po/pt.po | 
+ | [pt_BR](/f10/language/pt_BR) | 1044 | 1181 | 88.4 | /mnt/stockage/packages/f10/gnubiff/po/pt_BR.po | 
+ | [sv](/f10/language/sv) | 1044 | 1181 | 88.4 | /mnt/stockage/packages/f10/gnubiff/po/sv.po | 
+ | [vi](/f10/language/vi) | 1044 | 1181 | 88.4 | /mnt/stockage/packages/f10/gnubiff/po/vi.po | 
+ | [fr](/f10/language/fr) | 2064 | 2362 | 87.4 | /mnt/stockage/packages/f10/gnubiff/po/fr_FR.po/mnt/stockage/packages/f10/gnubiff/po/fr.po | 
+ | [fr_CA](/f10/language/fr_CA) | 1032 | 1181 | 87.4 | /mnt/stockage/packages/f10/gnubiff/po/fr_CA.po | 
+ | [cs](/f10/language/cs) | 947 | 1181 | 80.2 | /mnt/stockage/packages/f10/gnubiff/po/cs.po | 
+ | [it](/f10/language/it) | 945 | 1181 | 80.0 | /mnt/stockage/packages/f10/gnubiff/po/it.po | 
+ | [hu](/f10/language/hu) | 908 | 1181 | 76.9 | /mnt/stockage/packages/f10/gnubiff/po/hu.po | 
+ | [es](/f10/language/es) | 563 | 1181 | 47.7 | /mnt/stockage/packages/f10/gnubiff/po/es.po | 
+ | [rw](/f10/language/rw) | 16 | 1181 | 1.4 | /mnt/stockage/packages/f10/gnubiff/po/rw.po | 
+ | [ro](/f10/language/ro) | 13 | 1181 | 1.1 | /mnt/stockage/packages/f10/gnubiff/po/ro.po | 
 {.sortable}
 
 

@@ -18,8 +18,8 @@ The package grantlee (version 0.2.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f16/language/de.md" >}}) | 19 | 27 | 70.4 | /mnt/stockage/packages/f16/grantlee/examples/contacts/de_DE.po/mnt/stockage/packages/f16/grantlee/examples/contacts/themes/gettext/dopey/de_DE/LC_MESSAGES/dopey.po | 
- | [fr]({{< ref "/f16/language/fr.md" >}}) | 19 | 27 | 70.4 | /mnt/stockage/packages/f16/grantlee/examples/contacts/fr_FR.po/mnt/stockage/packages/f16/grantlee/examples/contacts/themes/gettext/dopey/fr_FR/LC_MESSAGES/dopey.po | 
+ | [de](/f16/language/de) | 19 | 27 | 70.4 | /mnt/stockage/packages/f16/grantlee/examples/contacts/de_DE.po/mnt/stockage/packages/f16/grantlee/examples/contacts/themes/gettext/dopey/de_DE/LC_MESSAGES/dopey.po | 
+ | [fr](/f16/language/fr) | 19 | 27 | 70.4 | /mnt/stockage/packages/f16/grantlee/examples/contacts/fr_FR.po/mnt/stockage/packages/f16/grantlee/examples/contacts/themes/gettext/dopey/fr_FR/LC_MESSAGES/dopey.po | 
 {.sortable}
 
 

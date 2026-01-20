@@ -18,16 +18,16 @@ The package pytrainer (version 1.7.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [da]({{< ref "/f12/language/da.md" >}}) | 486 | 486 | 100.0 | /mnt/stockage/packages/f12/pytrainer/locale/da/LC_MESSAGES/pytrainer_dk.po | 
- | [es]({{< ref "/f12/language/es.md" >}}) | 838 | 838 | 100.0 | /mnt/stockage/packages/f12/pytrainer/locale/es/LC_MESSAGES/pytrainer_es.po | 
- | [eu]({{< ref "/f12/language/eu.md" >}}) | 476 | 486 | 97.9 | /mnt/stockage/packages/f12/pytrainer/locale/eu/LC_MESSAGES/pytrainer_eu.po | 
- | [fr]({{< ref "/f12/language/fr.md" >}}) | 583 | 629 | 92.7 | /mnt/stockage/packages/f12/pytrainer/locale/fr/LC_MESSAGES/pytrainer_fr.po | 
- | [pl]({{< ref "/f12/language/pl.md" >}}) | 307 | 337 | 91.1 | /mnt/stockage/packages/f12/pytrainer/locale/pl/LC_MESSAGES/pytrainer_pl.po | 
- | [ru]({{< ref "/f12/language/ru.md" >}}) | 451 | 557 | 81.0 | /mnt/stockage/packages/f12/pytrainer/locale/ru/LC_MESSAGES/pytrainer_ru.po | 
- | [cs]({{< ref "/f12/language/cs.md" >}}) | 292 | 458 | 63.8 | /mnt/stockage/packages/f12/pytrainer/locale/cs/LC_MESSAGES/pytrainer_cs.po | 
- | [de]({{< ref "/f12/language/de.md" >}}) | 208 | 337 | 61.7 | /mnt/stockage/packages/f12/pytrainer/locale/de/LC_MESSAGES/pytrainer_de.po | 
- | [ca]({{< ref "/f12/language/ca.md" >}}) | 192 | 337 | 57.0 | /mnt/stockage/packages/f12/pytrainer/locale/ca/LC_MESSAGES/pytrainer_ca.po | 
- | [nb_NO]({{< ref "/f12/language/nb_NO.md" >}}) | 221 | 426 | 51.9 | /mnt/stockage/packages/f12/pytrainer/locale/no/LC_MESSAGES/pytrainer_no.po | 
+ | [da](/f12/language/da) | 486 | 486 | 100.0 | /mnt/stockage/packages/f12/pytrainer/locale/da/LC_MESSAGES/pytrainer_dk.po | 
+ | [es](/f12/language/es) | 838 | 838 | 100.0 | /mnt/stockage/packages/f12/pytrainer/locale/es/LC_MESSAGES/pytrainer_es.po | 
+ | [eu](/f12/language/eu) | 476 | 486 | 97.9 | /mnt/stockage/packages/f12/pytrainer/locale/eu/LC_MESSAGES/pytrainer_eu.po | 
+ | [fr](/f12/language/fr) | 583 | 629 | 92.7 | /mnt/stockage/packages/f12/pytrainer/locale/fr/LC_MESSAGES/pytrainer_fr.po | 
+ | [pl](/f12/language/pl) | 307 | 337 | 91.1 | /mnt/stockage/packages/f12/pytrainer/locale/pl/LC_MESSAGES/pytrainer_pl.po | 
+ | [ru](/f12/language/ru) | 451 | 557 | 81.0 | /mnt/stockage/packages/f12/pytrainer/locale/ru/LC_MESSAGES/pytrainer_ru.po | 
+ | [cs](/f12/language/cs) | 292 | 458 | 63.8 | /mnt/stockage/packages/f12/pytrainer/locale/cs/LC_MESSAGES/pytrainer_cs.po | 
+ | [de](/f12/language/de) | 208 | 337 | 61.7 | /mnt/stockage/packages/f12/pytrainer/locale/de/LC_MESSAGES/pytrainer_de.po | 
+ | [ca](/f12/language/ca) | 192 | 337 | 57.0 | /mnt/stockage/packages/f12/pytrainer/locale/ca/LC_MESSAGES/pytrainer_ca.po | 
+ | [nb_NO](/f12/language/nb_NO) | 221 | 426 | 51.9 | /mnt/stockage/packages/f12/pytrainer/locale/no/LC_MESSAGES/pytrainer_no.po | 
 {.sortable}
 
 

@@ -18,9 +18,9 @@ The package mathgl (version 2.4.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ru]({{< ref "/f32/language/ru.md" >}}) | 6165 | 6249 | 98.7 | /mnt/stockage/packages/f32/mathgl/mathgl_ru.po | 
- | [es]({{< ref "/f32/language/es.md" >}}) | 6158 | 6249 | 98.5 | /mnt/stockage/packages/f32/mathgl/mathgl_es.po | 
- | [en]({{< ref "/f32/language/en.md" >}}) | 1 | 6103 | 0.0 | /mnt/stockage/packages/f32/mathgl/mathgl_en.po | 
+ | [ru](/f32/language/ru) | 6165 | 6249 | 98.7 | /mnt/stockage/packages/f32/mathgl/mathgl_ru.po | 
+ | [es](/f32/language/es) | 6158 | 6249 | 98.5 | /mnt/stockage/packages/f32/mathgl/mathgl_es.po | 
+ | [en](/f32/language/en) | 1 | 6103 | 0.0 | /mnt/stockage/packages/f32/mathgl/mathgl_en.po | 
 {.sortable}
 
 

@@ -18,10 +18,10 @@ The package dvdisaster (version 0.70.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f8/language/de.md" >}}) | 4230 | 4230 | 100.0 | /mnt/stockage/packages/f8/dvdisaster/locale/de.po | 
- | [sv]({{< ref "/f8/language/sv.md" >}}) | 3623 | 4230 | 85.7 | /mnt/stockage/packages/f8/dvdisaster/locale/sv.po | 
- | [cs]({{< ref "/f8/language/cs.md" >}}) | 3170 | 4230 | 74.9 | /mnt/stockage/packages/f8/dvdisaster/locale/cs.po | 
- | [it]({{< ref "/f8/language/it.md" >}}) | 2977 | 4230 | 70.4 | /mnt/stockage/packages/f8/dvdisaster/locale/it.po | 
+ | [de](/f8/language/de) | 4230 | 4230 | 100.0 | /mnt/stockage/packages/f8/dvdisaster/locale/de.po | 
+ | [sv](/f8/language/sv) | 3623 | 4230 | 85.7 | /mnt/stockage/packages/f8/dvdisaster/locale/sv.po | 
+ | [cs](/f8/language/cs) | 3170 | 4230 | 74.9 | /mnt/stockage/packages/f8/dvdisaster/locale/cs.po | 
+ | [it](/f8/language/it) | 2977 | 4230 | 70.4 | /mnt/stockage/packages/f8/dvdisaster/locale/it.po | 
 {.sortable}
 
 

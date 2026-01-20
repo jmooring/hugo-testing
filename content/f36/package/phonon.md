@@ -18,32 +18,32 @@ The package phonon (version 4.11.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f36/language/ca.md" >}}) | 327 | 327 | 100.0 | /mnt/stockage/packages/f36/phonon/po/ca/libphonon_qt.po/mnt/stockage/packages/f36/phonon/po/ca/phononsettings_qt.po | 
- | [cs]({{< ref "/f36/language/cs.md" >}}) | 92 | 92 | 100.0 | /mnt/stockage/packages/f36/phonon/po/cs/libphonon_qt.po | 
- | [de]({{< ref "/f36/language/de.md" >}}) | 327 | 327 | 100.0 | /mnt/stockage/packages/f36/phonon/po/de/libphonon_qt.po/mnt/stockage/packages/f36/phonon/po/de/phononsettings_qt.po | 
- | [en_GB]({{< ref "/f36/language/en_GB.md" >}}) | 327 | 327 | 100.0 | /mnt/stockage/packages/f36/phonon/po/en_GB/libphonon_qt.po/mnt/stockage/packages/f36/phonon/po/en_GB/phononsettings_qt.po | 
- | [en_US]({{< ref "/f36/language/en_US.md" >}}) | 235 | 235 | 100.0 | /mnt/stockage/packages/f36/phonon/po/cs/phononsettings_qt.po | 
- | [es]({{< ref "/f36/language/es.md" >}}) | 327 | 327 | 100.0 | /mnt/stockage/packages/f36/phonon/po/es/libphonon_qt.po/mnt/stockage/packages/f36/phonon/po/es/phononsettings_qt.po | 
- | [eu]({{< ref "/f36/language/eu.md" >}}) | 327 | 327 | 100.0 | /mnt/stockage/packages/f36/phonon/po/eu/libphonon_qt.po/mnt/stockage/packages/f36/phonon/po/eu/phononsettings_qt.po | 
- | [fr]({{< ref "/f36/language/fr.md" >}}) | 327 | 327 | 100.0 | /mnt/stockage/packages/f36/phonon/po/fr/libphonon_qt.po/mnt/stockage/packages/f36/phonon/po/fr/phononsettings_qt.po | 
- | [gl]({{< ref "/f36/language/gl.md" >}}) | 92 | 92 | 100.0 | /mnt/stockage/packages/f36/phonon/po/gl/libphonon_qt.po | 
- | [it]({{< ref "/f36/language/it.md" >}}) | 327 | 327 | 100.0 | /mnt/stockage/packages/f36/phonon/po/it/libphonon_qt.po/mnt/stockage/packages/f36/phonon/po/it/phononsettings_qt.po | 
- | [ko]({{< ref "/f36/language/ko.md" >}}) | 327 | 327 | 100.0 | /mnt/stockage/packages/f36/phonon/po/ko/libphonon_qt.po/mnt/stockage/packages/f36/phonon/po/ko/phononsettings_qt.po | 
- | [nl]({{< ref "/f36/language/nl.md" >}}) | 327 | 327 | 100.0 | /mnt/stockage/packages/f36/phonon/po/nl/libphonon_qt.po/mnt/stockage/packages/f36/phonon/po/nl/phononsettings_qt.po | 
- | [nn]({{< ref "/f36/language/nn.md" >}}) | 327 | 327 | 100.0 | /mnt/stockage/packages/f36/phonon/po/nn/libphonon_qt.po/mnt/stockage/packages/f36/phonon/po/nn/phononsettings_qt.po | 
- | [pl]({{< ref "/f36/language/pl.md" >}}) | 327 | 327 | 100.0 | /mnt/stockage/packages/f36/phonon/po/pl/libphonon_qt.po/mnt/stockage/packages/f36/phonon/po/pl/phononsettings_qt.po | 
- | [pt]({{< ref "/f36/language/pt.md" >}}) | 327 | 327 | 100.0 | /mnt/stockage/packages/f36/phonon/po/pt/libphonon_qt.po/mnt/stockage/packages/f36/phonon/po/pt/phononsettings_qt.po | 
- | [pt_BR]({{< ref "/f36/language/pt_BR.md" >}}) | 327 | 327 | 100.0 | /mnt/stockage/packages/f36/phonon/po/pt_BR/libphonon_qt.po/mnt/stockage/packages/f36/phonon/po/pt_BR/phononsettings_qt.po | 
- | [sk]({{< ref "/f36/language/sk.md" >}}) | 327 | 327 | 100.0 | /mnt/stockage/packages/f36/phonon/po/sk/libphonon_qt.po/mnt/stockage/packages/f36/phonon/po/sk/phononsettings_qt.po | 
- | [sr]({{< ref "/f36/language/sr.md" >}}) | 116 | 116 | 100.0 | /mnt/stockage/packages/f36/phonon/po/sr/libphonon_qt.po | 
- | [sr@ijekavian]({{< ref "/f36/language/sr@ijekavian.md" >}}) | 116 | 116 | 100.0 | /mnt/stockage/packages/f36/phonon/po/sr@ijekavian/libphonon_qt.po | 
- | [sr@ijekavian_Latn]({{< ref "/f36/language/sr@ijekavian_Latn.md" >}}) | 116 | 116 | 100.0 | /mnt/stockage/packages/f36/phonon/po/sr@ijekavianlatin/libphonon_qt.po | 
- | [sr_Latn]({{< ref "/f36/language/sr_Latn.md" >}}) | 116 | 116 | 100.0 | /mnt/stockage/packages/f36/phonon/po/sr@latin/libphonon_qt.po | 
- | [sv]({{< ref "/f36/language/sv.md" >}}) | 327 | 327 | 100.0 | /mnt/stockage/packages/f36/phonon/po/sv/libphonon_qt.po/mnt/stockage/packages/f36/phonon/po/sv/phononsettings_qt.po | 
- | [uk]({{< ref "/f36/language/uk.md" >}}) | 327 | 327 | 100.0 | /mnt/stockage/packages/f36/phonon/po/uk/libphonon_qt.po/mnt/stockage/packages/f36/phonon/po/uk/phononsettings_qt.po | 
- | [fi]({{< ref "/f36/language/fi.md" >}}) | 92 | 327 | 28.1 | /mnt/stockage/packages/f36/phonon/po/fi/libphonon_qt.po/mnt/stockage/packages/f36/phonon/po/fi/phononsettings_qt.po | 
- | [id]({{< ref "/f36/language/id.md" >}}) | 92 | 327 | 28.1 | /mnt/stockage/packages/f36/phonon/po/id/libphonon_qt.po/mnt/stockage/packages/f36/phonon/po/id/phononsettings_qt.po | 
- | [zh_Hans]({{< ref "/f36/language/zh_Hans.md" >}}) | 92 | 327 | 28.1 | /mnt/stockage/packages/f36/phonon/po/zh_CN/libphonon_qt.po/mnt/stockage/packages/f36/phonon/po/zh_CN/phononsettings_qt.po | 
+ | [ca](/f36/language/ca) | 327 | 327 | 100.0 | /mnt/stockage/packages/f36/phonon/po/ca/libphonon_qt.po/mnt/stockage/packages/f36/phonon/po/ca/phononsettings_qt.po | 
+ | [cs](/f36/language/cs) | 92 | 92 | 100.0 | /mnt/stockage/packages/f36/phonon/po/cs/libphonon_qt.po | 
+ | [de](/f36/language/de) | 327 | 327 | 100.0 | /mnt/stockage/packages/f36/phonon/po/de/libphonon_qt.po/mnt/stockage/packages/f36/phonon/po/de/phononsettings_qt.po | 
+ | [en_GB](/f36/language/en_GB) | 327 | 327 | 100.0 | /mnt/stockage/packages/f36/phonon/po/en_GB/libphonon_qt.po/mnt/stockage/packages/f36/phonon/po/en_GB/phononsettings_qt.po | 
+ | [en_US](/f36/language/en_US) | 235 | 235 | 100.0 | /mnt/stockage/packages/f36/phonon/po/cs/phononsettings_qt.po | 
+ | [es](/f36/language/es) | 327 | 327 | 100.0 | /mnt/stockage/packages/f36/phonon/po/es/libphonon_qt.po/mnt/stockage/packages/f36/phonon/po/es/phononsettings_qt.po | 
+ | [eu](/f36/language/eu) | 327 | 327 | 100.0 | /mnt/stockage/packages/f36/phonon/po/eu/libphonon_qt.po/mnt/stockage/packages/f36/phonon/po/eu/phononsettings_qt.po | 
+ | [fr](/f36/language/fr) | 327 | 327 | 100.0 | /mnt/stockage/packages/f36/phonon/po/fr/libphonon_qt.po/mnt/stockage/packages/f36/phonon/po/fr/phononsettings_qt.po | 
+ | [gl](/f36/language/gl) | 92 | 92 | 100.0 | /mnt/stockage/packages/f36/phonon/po/gl/libphonon_qt.po | 
+ | [it](/f36/language/it) | 327 | 327 | 100.0 | /mnt/stockage/packages/f36/phonon/po/it/libphonon_qt.po/mnt/stockage/packages/f36/phonon/po/it/phononsettings_qt.po | 
+ | [ko](/f36/language/ko) | 327 | 327 | 100.0 | /mnt/stockage/packages/f36/phonon/po/ko/libphonon_qt.po/mnt/stockage/packages/f36/phonon/po/ko/phononsettings_qt.po | 
+ | [nl](/f36/language/nl) | 327 | 327 | 100.0 | /mnt/stockage/packages/f36/phonon/po/nl/libphonon_qt.po/mnt/stockage/packages/f36/phonon/po/nl/phononsettings_qt.po | 
+ | [nn](/f36/language/nn) | 327 | 327 | 100.0 | /mnt/stockage/packages/f36/phonon/po/nn/libphonon_qt.po/mnt/stockage/packages/f36/phonon/po/nn/phononsettings_qt.po | 
+ | [pl](/f36/language/pl) | 327 | 327 | 100.0 | /mnt/stockage/packages/f36/phonon/po/pl/libphonon_qt.po/mnt/stockage/packages/f36/phonon/po/pl/phononsettings_qt.po | 
+ | [pt](/f36/language/pt) | 327 | 327 | 100.0 | /mnt/stockage/packages/f36/phonon/po/pt/libphonon_qt.po/mnt/stockage/packages/f36/phonon/po/pt/phononsettings_qt.po | 
+ | [pt_BR](/f36/language/pt_BR) | 327 | 327 | 100.0 | /mnt/stockage/packages/f36/phonon/po/pt_BR/libphonon_qt.po/mnt/stockage/packages/f36/phonon/po/pt_BR/phononsettings_qt.po | 
+ | [sk](/f36/language/sk) | 327 | 327 | 100.0 | /mnt/stockage/packages/f36/phonon/po/sk/libphonon_qt.po/mnt/stockage/packages/f36/phonon/po/sk/phononsettings_qt.po | 
+ | [sr](/f36/language/sr) | 116 | 116 | 100.0 | /mnt/stockage/packages/f36/phonon/po/sr/libphonon_qt.po | 
+ | [sr@ijekavian](/f36/language/sr@ijekavian) | 116 | 116 | 100.0 | /mnt/stockage/packages/f36/phonon/po/sr@ijekavian/libphonon_qt.po | 
+ | [sr@ijekavian_Latn](/f36/language/sr@ijekavian_Latn) | 116 | 116 | 100.0 | /mnt/stockage/packages/f36/phonon/po/sr@ijekavianlatin/libphonon_qt.po | 
+ | [sr_Latn](/f36/language/sr_Latn) | 116 | 116 | 100.0 | /mnt/stockage/packages/f36/phonon/po/sr@latin/libphonon_qt.po | 
+ | [sv](/f36/language/sv) | 327 | 327 | 100.0 | /mnt/stockage/packages/f36/phonon/po/sv/libphonon_qt.po/mnt/stockage/packages/f36/phonon/po/sv/phononsettings_qt.po | 
+ | [uk](/f36/language/uk) | 327 | 327 | 100.0 | /mnt/stockage/packages/f36/phonon/po/uk/libphonon_qt.po/mnt/stockage/packages/f36/phonon/po/uk/phononsettings_qt.po | 
+ | [fi](/f36/language/fi) | 92 | 327 | 28.1 | /mnt/stockage/packages/f36/phonon/po/fi/libphonon_qt.po/mnt/stockage/packages/f36/phonon/po/fi/phononsettings_qt.po | 
+ | [id](/f36/language/id) | 92 | 327 | 28.1 | /mnt/stockage/packages/f36/phonon/po/id/libphonon_qt.po/mnt/stockage/packages/f36/phonon/po/id/phononsettings_qt.po | 
+ | [zh_Hans](/f36/language/zh_Hans) | 92 | 327 | 28.1 | /mnt/stockage/packages/f36/phonon/po/zh_CN/libphonon_qt.po/mnt/stockage/packages/f36/phonon/po/zh_CN/phononsettings_qt.po | 
 {.sortable}
 
 

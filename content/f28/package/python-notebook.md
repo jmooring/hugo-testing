@@ -18,7 +18,7 @@ The package python-notebook (version 5.5.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [zh_Hans]({{< ref "/f28/language/zh_Hans.md" >}}) | 3364 | 3926 | 85.7 | /mnt/stockage/packages/f28/python-notebook/notebook/i18n/zh_CN/LC_MESSAGES/nbjs.po/mnt/stockage/packages/f28/python-notebook/notebook/i18n/zh_CN/LC_MESSAGES/nbui.po/mnt/stockage/packages/f28/python-notebook/notebook/i18n/zh_CN/LC_MESSAGES/notebook.po | 
+ | [zh_Hans](/f28/language/zh_Hans) | 3364 | 3926 | 85.7 | /mnt/stockage/packages/f28/python-notebook/notebook/i18n/zh_CN/LC_MESSAGES/nbjs.po/mnt/stockage/packages/f28/python-notebook/notebook/i18n/zh_CN/LC_MESSAGES/nbui.po/mnt/stockage/packages/f28/python-notebook/notebook/i18n/zh_CN/LC_MESSAGES/notebook.po | 
 {.sortable}
 
 

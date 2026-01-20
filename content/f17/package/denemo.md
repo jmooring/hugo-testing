@@ -18,14 +18,14 @@ The package denemo (version 0.9.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f17/language/cs.md" >}}) | 830 | 1122 | 74.0 | /mnt/stockage/packages/f17/denemo/po/cs.po | 
- | [ja]({{< ref "/f17/language/ja.md" >}}) | 782 | 1122 | 69.7 | /mnt/stockage/packages/f17/denemo/po/ja.po | 
- | [pl]({{< ref "/f17/language/pl.md" >}}) | 617 | 1122 | 55.0 | /mnt/stockage/packages/f17/denemo/po/pl.po | 
- | [de]({{< ref "/f17/language/de.md" >}}) | 545 | 1122 | 48.6 | /mnt/stockage/packages/f17/denemo/po/de.po | 
- | [fr]({{< ref "/f17/language/fr.md" >}}) | 339 | 1122 | 30.2 | /mnt/stockage/packages/f17/denemo/po/fr.po | 
- | [sv]({{< ref "/f17/language/sv.md" >}}) | 62 | 1122 | 5.5 | /mnt/stockage/packages/f17/denemo/po/sv.po | 
- | [es]({{< ref "/f17/language/es.md" >}}) | 0 | 1122 | 0.0 | /mnt/stockage/packages/f17/denemo/po/es.po | 
- | [it]({{< ref "/f17/language/it.md" >}}) | 0 | 1122 | 0.0 | /mnt/stockage/packages/f17/denemo/po/it.po | 
+ | [cs](/f17/language/cs) | 830 | 1122 | 74.0 | /mnt/stockage/packages/f17/denemo/po/cs.po | 
+ | [ja](/f17/language/ja) | 782 | 1122 | 69.7 | /mnt/stockage/packages/f17/denemo/po/ja.po | 
+ | [pl](/f17/language/pl) | 617 | 1122 | 55.0 | /mnt/stockage/packages/f17/denemo/po/pl.po | 
+ | [de](/f17/language/de) | 545 | 1122 | 48.6 | /mnt/stockage/packages/f17/denemo/po/de.po | 
+ | [fr](/f17/language/fr) | 339 | 1122 | 30.2 | /mnt/stockage/packages/f17/denemo/po/fr.po | 
+ | [sv](/f17/language/sv) | 62 | 1122 | 5.5 | /mnt/stockage/packages/f17/denemo/po/sv.po | 
+ | [es](/f17/language/es) | 0 | 1122 | 0.0 | /mnt/stockage/packages/f17/denemo/po/es.po | 
+ | [it](/f17/language/it) | 0 | 1122 | 0.0 | /mnt/stockage/packages/f17/denemo/po/it.po | 
 {.sortable}
 
 

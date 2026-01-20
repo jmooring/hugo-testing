@@ -18,72 +18,72 @@ The package xfce4-panel (version 4.10.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f20/language/ar.md" >}}) | 1701 | 1701 | 100.0 | /mnt/stockage/packages/f20/xfce4-panel/po/ar.po | 
- | [bg]({{< ref "/f20/language/bg.md" >}}) | 1701 | 1701 | 100.0 | /mnt/stockage/packages/f20/xfce4-panel/po/bg.po | 
- | [ca]({{< ref "/f20/language/ca.md" >}}) | 1701 | 1701 | 100.0 | /mnt/stockage/packages/f20/xfce4-panel/po/ca.po | 
- | [cs]({{< ref "/f20/language/cs.md" >}}) | 1701 | 1701 | 100.0 | /mnt/stockage/packages/f20/xfce4-panel/po/cs.po | 
- | [da]({{< ref "/f20/language/da.md" >}}) | 1701 | 1701 | 100.0 | /mnt/stockage/packages/f20/xfce4-panel/po/da.po | 
- | [de]({{< ref "/f20/language/de.md" >}}) | 1701 | 1701 | 100.0 | /mnt/stockage/packages/f20/xfce4-panel/po/de.po | 
- | [en_GB]({{< ref "/f20/language/en_GB.md" >}}) | 1701 | 1701 | 100.0 | /mnt/stockage/packages/f20/xfce4-panel/po/en_GB.po | 
- | [eu]({{< ref "/f20/language/eu.md" >}}) | 1701 | 1701 | 100.0 | /mnt/stockage/packages/f20/xfce4-panel/po/eu.po | 
- | [fi]({{< ref "/f20/language/fi.md" >}}) | 1701 | 1701 | 100.0 | /mnt/stockage/packages/f20/xfce4-panel/po/fi.po | 
- | [fr]({{< ref "/f20/language/fr.md" >}}) | 1701 | 1701 | 100.0 | /mnt/stockage/packages/f20/xfce4-panel/po/fr.po | 
- | [he]({{< ref "/f20/language/he.md" >}}) | 1701 | 1701 | 100.0 | /mnt/stockage/packages/f20/xfce4-panel/po/he.po | 
- | [hu]({{< ref "/f20/language/hu.md" >}}) | 1701 | 1701 | 100.0 | /mnt/stockage/packages/f20/xfce4-panel/po/hu.po | 
- | [id]({{< ref "/f20/language/id.md" >}}) | 1701 | 1701 | 100.0 | /mnt/stockage/packages/f20/xfce4-panel/po/id.po | 
- | [it]({{< ref "/f20/language/it.md" >}}) | 1701 | 1701 | 100.0 | /mnt/stockage/packages/f20/xfce4-panel/po/it.po | 
- | [ja]({{< ref "/f20/language/ja.md" >}}) | 1701 | 1701 | 100.0 | /mnt/stockage/packages/f20/xfce4-panel/po/ja.po | 
- | [kk]({{< ref "/f20/language/kk.md" >}}) | 1701 | 1701 | 100.0 | /mnt/stockage/packages/f20/xfce4-panel/po/kk.po | 
- | [ko]({{< ref "/f20/language/ko.md" >}}) | 1701 | 1701 | 100.0 | /mnt/stockage/packages/f20/xfce4-panel/po/ko.po | 
- | [lt]({{< ref "/f20/language/lt.md" >}}) | 1701 | 1701 | 100.0 | /mnt/stockage/packages/f20/xfce4-panel/po/lt.po | 
- | [nb_NO]({{< ref "/f20/language/nb_NO.md" >}}) | 1504 | 1504 | 100.0 | /mnt/stockage/packages/f20/xfce4-panel/po/nb.po | 
- | [nl]({{< ref "/f20/language/nl.md" >}}) | 1701 | 1701 | 100.0 | /mnt/stockage/packages/f20/xfce4-panel/po/nl.po | 
- | [nn]({{< ref "/f20/language/nn.md" >}}) | 1701 | 1701 | 100.0 | /mnt/stockage/packages/f20/xfce4-panel/po/nn.po | 
- | [pt]({{< ref "/f20/language/pt.md" >}}) | 1701 | 1701 | 100.0 | /mnt/stockage/packages/f20/xfce4-panel/po/pt.po | 
- | [pt_BR]({{< ref "/f20/language/pt_BR.md" >}}) | 1701 | 1701 | 100.0 | /mnt/stockage/packages/f20/xfce4-panel/po/pt_BR.po | 
- | [ro]({{< ref "/f20/language/ro.md" >}}) | 1701 | 1701 | 100.0 | /mnt/stockage/packages/f20/xfce4-panel/po/ro.po | 
- | [ru]({{< ref "/f20/language/ru.md" >}}) | 1701 | 1701 | 100.0 | /mnt/stockage/packages/f20/xfce4-panel/po/ru.po | 
- | [sk]({{< ref "/f20/language/sk.md" >}}) | 1701 | 1701 | 100.0 | /mnt/stockage/packages/f20/xfce4-panel/po/sk.po | 
- | [sr]({{< ref "/f20/language/sr.md" >}}) | 1701 | 1701 | 100.0 | /mnt/stockage/packages/f20/xfce4-panel/po/sr.po | 
- | [tr]({{< ref "/f20/language/tr.md" >}}) | 1701 | 1701 | 100.0 | /mnt/stockage/packages/f20/xfce4-panel/po/tr.po | 
- | [ug]({{< ref "/f20/language/ug.md" >}}) | 1701 | 1701 | 100.0 | /mnt/stockage/packages/f20/xfce4-panel/po/ug.po | 
- | [uk]({{< ref "/f20/language/uk.md" >}}) | 1701 | 1701 | 100.0 | /mnt/stockage/packages/f20/xfce4-panel/po/uk.po | 
- | [zh_Hans]({{< ref "/f20/language/zh_Hans.md" >}}) | 1701 | 1701 | 100.0 | /mnt/stockage/packages/f20/xfce4-panel/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f20/language/zh_Hant.md" >}}) | 1701 | 1701 | 100.0 | /mnt/stockage/packages/f20/xfce4-panel/po/zh_TW.po | 
- | [pl]({{< ref "/f20/language/pl.md" >}}) | 1662 | 1701 | 97.7 | /mnt/stockage/packages/f20/xfce4-panel/po/pl.po | 
- | [et]({{< ref "/f20/language/et.md" >}}) | 1571 | 1687 | 93.1 | /mnt/stockage/packages/f20/xfce4-panel/po/et.po | 
- | [el]({{< ref "/f20/language/el.md" >}}) | 1525 | 1701 | 89.7 | /mnt/stockage/packages/f20/xfce4-panel/po/el.po | 
- | [gl]({{< ref "/f20/language/gl.md" >}}) | 1403 | 1701 | 82.5 | /mnt/stockage/packages/f20/xfce4-panel/po/gl.po | 
- | [bn]({{< ref "/f20/language/bn.md" >}}) | 1220 | 1504 | 81.1 | /mnt/stockage/packages/f20/xfce4-panel/po/bn.po | 
- | [si]({{< ref "/f20/language/si.md" >}}) | 1197 | 1504 | 79.6 | /mnt/stockage/packages/f20/xfce4-panel/po/si.po | 
- | [hr]({{< ref "/f20/language/hr.md" >}}) | 1290 | 1701 | 75.8 | /mnt/stockage/packages/f20/xfce4-panel/po/hr.po | 
- | [pa]({{< ref "/f20/language/pa.md" >}}) | 981 | 1504 | 65.2 | /mnt/stockage/packages/f20/xfce4-panel/po/pa.po | 
- | [sv]({{< ref "/f20/language/sv.md" >}}) | 1069 | 1701 | 62.8 | /mnt/stockage/packages/f20/xfce4-panel/po/sv.po | 
- | [es]({{< ref "/f20/language/es.md" >}}) | 1708 | 3205 | 53.3 | /mnt/stockage/packages/f20/xfce4-panel/po/es.po/mnt/stockage/packages/f20/xfce4-panel/po/es_MX.po | 
- | [te]({{< ref "/f20/language/te.md" >}}) | 448 | 1701 | 26.3 | /mnt/stockage/packages/f20/xfce4-panel/po/te.po | 
- | [lv]({{< ref "/f20/language/lv.md" >}}) | 137 | 1504 | 9.1 | /mnt/stockage/packages/f20/xfce4-panel/po/lv.po | 
- | [sq]({{< ref "/f20/language/sq.md" >}}) | 137 | 1504 | 9.1 | /mnt/stockage/packages/f20/xfce4-panel/po/sq.po | 
- | [ur]({{< ref "/f20/language/ur.md" >}}) | 137 | 1504 | 9.1 | /mnt/stockage/packages/f20/xfce4-panel/po/ur.po | 
- | [ur_PK]({{< ref "/f20/language/ur_PK.md" >}}) | 137 | 1504 | 9.1 | /mnt/stockage/packages/f20/xfce4-panel/po/ur_PK.po | 
- | [ast]({{< ref "/f20/language/ast.md" >}}) | 136 | 1504 | 9.0 | /mnt/stockage/packages/f20/xfce4-panel/po/ast.po | 
- | [ta]({{< ref "/f20/language/ta.md" >}}) | 136 | 1504 | 9.0 | /mnt/stockage/packages/f20/xfce4-panel/po/ta.po | 
- | [eo]({{< ref "/f20/language/eo.md" >}}) | 101 | 1660 | 6.1 | /mnt/stockage/packages/f20/xfce4-panel/po/eo.po | 
- | [be]({{< ref "/f20/language/be.md" >}}) | 79 | 1504 | 5.3 | /mnt/stockage/packages/f20/xfce4-panel/po/be.po | 
- | [ku]({{< ref "/f20/language/ku.md" >}}) | 48 | 1504 | 3.2 | /mnt/stockage/packages/f20/xfce4-panel/po/ku.po | 
- | [am]({{< ref "/f20/language/am.md" >}}) | 34 | 1504 | 2.3 | /mnt/stockage/packages/f20/xfce4-panel/po/am.po | 
- | [dz]({{< ref "/f20/language/dz.md" >}}) | 34 | 1504 | 2.3 | /mnt/stockage/packages/f20/xfce4-panel/po/dz.po | 
- | [mk]({{< ref "/f20/language/mk.md" >}}) | 34 | 1504 | 2.3 | /mnt/stockage/packages/f20/xfce4-panel/po/mk.po | 
- | [vi]({{< ref "/f20/language/vi.md" >}}) | 34 | 1504 | 2.3 | /mnt/stockage/packages/f20/xfce4-panel/po/vi.po | 
- | [is]({{< ref "/f20/language/is.md" >}}) | 10 | 1504 | 0.7 | /mnt/stockage/packages/f20/xfce4-panel/po/is.po | 
- | [az]({{< ref "/f20/language/az.md" >}}) | 7 | 1504 | 0.5 | /mnt/stockage/packages/f20/xfce4-panel/po/az.po | 
- | [bn_IN]({{< ref "/f20/language/bn_IN.md" >}}) | 7 | 1504 | 0.5 | /mnt/stockage/packages/f20/xfce4-panel/po/bn_IN.po | 
- | [gu]({{< ref "/f20/language/gu.md" >}}) | 7 | 1504 | 0.5 | /mnt/stockage/packages/f20/xfce4-panel/po/gu.po | 
- | [hi]({{< ref "/f20/language/hi.md" >}}) | 7 | 1504 | 0.5 | /mnt/stockage/packages/f20/xfce4-panel/po/hi.po | 
- | [hy]({{< ref "/f20/language/hy.md" >}}) | 7 | 1504 | 0.5 | /mnt/stockage/packages/f20/xfce4-panel/po/hy.po | 
- | [mr]({{< ref "/f20/language/mr.md" >}}) | 7 | 1504 | 0.5 | /mnt/stockage/packages/f20/xfce4-panel/po/mr.po | 
- | [ms]({{< ref "/f20/language/ms.md" >}}) | 7 | 1504 | 0.5 | /mnt/stockage/packages/f20/xfce4-panel/po/ms.po | 
- | [fa]({{< ref "/f20/language/fa.md" >}}) | 7 | 1687 | 0.4 | /mnt/stockage/packages/f20/xfce4-panel/po/fa.po | 
- | [ka]({{< ref "/f20/language/ka.md" >}}) | 0 | 1504 | 0.0 | /mnt/stockage/packages/f20/xfce4-panel/po/ka.po | 
+ | [ar](/f20/language/ar) | 1701 | 1701 | 100.0 | /mnt/stockage/packages/f20/xfce4-panel/po/ar.po | 
+ | [bg](/f20/language/bg) | 1701 | 1701 | 100.0 | /mnt/stockage/packages/f20/xfce4-panel/po/bg.po | 
+ | [ca](/f20/language/ca) | 1701 | 1701 | 100.0 | /mnt/stockage/packages/f20/xfce4-panel/po/ca.po | 
+ | [cs](/f20/language/cs) | 1701 | 1701 | 100.0 | /mnt/stockage/packages/f20/xfce4-panel/po/cs.po | 
+ | [da](/f20/language/da) | 1701 | 1701 | 100.0 | /mnt/stockage/packages/f20/xfce4-panel/po/da.po | 
+ | [de](/f20/language/de) | 1701 | 1701 | 100.0 | /mnt/stockage/packages/f20/xfce4-panel/po/de.po | 
+ | [en_GB](/f20/language/en_GB) | 1701 | 1701 | 100.0 | /mnt/stockage/packages/f20/xfce4-panel/po/en_GB.po | 
+ | [eu](/f20/language/eu) | 1701 | 1701 | 100.0 | /mnt/stockage/packages/f20/xfce4-panel/po/eu.po | 
+ | [fi](/f20/language/fi) | 1701 | 1701 | 100.0 | /mnt/stockage/packages/f20/xfce4-panel/po/fi.po | 
+ | [fr](/f20/language/fr) | 1701 | 1701 | 100.0 | /mnt/stockage/packages/f20/xfce4-panel/po/fr.po | 
+ | [he](/f20/language/he) | 1701 | 1701 | 100.0 | /mnt/stockage/packages/f20/xfce4-panel/po/he.po | 
+ | [hu](/f20/language/hu) | 1701 | 1701 | 100.0 | /mnt/stockage/packages/f20/xfce4-panel/po/hu.po | 
+ | [id](/f20/language/id) | 1701 | 1701 | 100.0 | /mnt/stockage/packages/f20/xfce4-panel/po/id.po | 
+ | [it](/f20/language/it) | 1701 | 1701 | 100.0 | /mnt/stockage/packages/f20/xfce4-panel/po/it.po | 
+ | [ja](/f20/language/ja) | 1701 | 1701 | 100.0 | /mnt/stockage/packages/f20/xfce4-panel/po/ja.po | 
+ | [kk](/f20/language/kk) | 1701 | 1701 | 100.0 | /mnt/stockage/packages/f20/xfce4-panel/po/kk.po | 
+ | [ko](/f20/language/ko) | 1701 | 1701 | 100.0 | /mnt/stockage/packages/f20/xfce4-panel/po/ko.po | 
+ | [lt](/f20/language/lt) | 1701 | 1701 | 100.0 | /mnt/stockage/packages/f20/xfce4-panel/po/lt.po | 
+ | [nb_NO](/f20/language/nb_NO) | 1504 | 1504 | 100.0 | /mnt/stockage/packages/f20/xfce4-panel/po/nb.po | 
+ | [nl](/f20/language/nl) | 1701 | 1701 | 100.0 | /mnt/stockage/packages/f20/xfce4-panel/po/nl.po | 
+ | [nn](/f20/language/nn) | 1701 | 1701 | 100.0 | /mnt/stockage/packages/f20/xfce4-panel/po/nn.po | 
+ | [pt](/f20/language/pt) | 1701 | 1701 | 100.0 | /mnt/stockage/packages/f20/xfce4-panel/po/pt.po | 
+ | [pt_BR](/f20/language/pt_BR) | 1701 | 1701 | 100.0 | /mnt/stockage/packages/f20/xfce4-panel/po/pt_BR.po | 
+ | [ro](/f20/language/ro) | 1701 | 1701 | 100.0 | /mnt/stockage/packages/f20/xfce4-panel/po/ro.po | 
+ | [ru](/f20/language/ru) | 1701 | 1701 | 100.0 | /mnt/stockage/packages/f20/xfce4-panel/po/ru.po | 
+ | [sk](/f20/language/sk) | 1701 | 1701 | 100.0 | /mnt/stockage/packages/f20/xfce4-panel/po/sk.po | 
+ | [sr](/f20/language/sr) | 1701 | 1701 | 100.0 | /mnt/stockage/packages/f20/xfce4-panel/po/sr.po | 
+ | [tr](/f20/language/tr) | 1701 | 1701 | 100.0 | /mnt/stockage/packages/f20/xfce4-panel/po/tr.po | 
+ | [ug](/f20/language/ug) | 1701 | 1701 | 100.0 | /mnt/stockage/packages/f20/xfce4-panel/po/ug.po | 
+ | [uk](/f20/language/uk) | 1701 | 1701 | 100.0 | /mnt/stockage/packages/f20/xfce4-panel/po/uk.po | 
+ | [zh_Hans](/f20/language/zh_Hans) | 1701 | 1701 | 100.0 | /mnt/stockage/packages/f20/xfce4-panel/po/zh_CN.po | 
+ | [zh_Hant](/f20/language/zh_Hant) | 1701 | 1701 | 100.0 | /mnt/stockage/packages/f20/xfce4-panel/po/zh_TW.po | 
+ | [pl](/f20/language/pl) | 1662 | 1701 | 97.7 | /mnt/stockage/packages/f20/xfce4-panel/po/pl.po | 
+ | [et](/f20/language/et) | 1571 | 1687 | 93.1 | /mnt/stockage/packages/f20/xfce4-panel/po/et.po | 
+ | [el](/f20/language/el) | 1525 | 1701 | 89.7 | /mnt/stockage/packages/f20/xfce4-panel/po/el.po | 
+ | [gl](/f20/language/gl) | 1403 | 1701 | 82.5 | /mnt/stockage/packages/f20/xfce4-panel/po/gl.po | 
+ | [bn](/f20/language/bn) | 1220 | 1504 | 81.1 | /mnt/stockage/packages/f20/xfce4-panel/po/bn.po | 
+ | [si](/f20/language/si) | 1197 | 1504 | 79.6 | /mnt/stockage/packages/f20/xfce4-panel/po/si.po | 
+ | [hr](/f20/language/hr) | 1290 | 1701 | 75.8 | /mnt/stockage/packages/f20/xfce4-panel/po/hr.po | 
+ | [pa](/f20/language/pa) | 981 | 1504 | 65.2 | /mnt/stockage/packages/f20/xfce4-panel/po/pa.po | 
+ | [sv](/f20/language/sv) | 1069 | 1701 | 62.8 | /mnt/stockage/packages/f20/xfce4-panel/po/sv.po | 
+ | [es](/f20/language/es) | 1708 | 3205 | 53.3 | /mnt/stockage/packages/f20/xfce4-panel/po/es.po/mnt/stockage/packages/f20/xfce4-panel/po/es_MX.po | 
+ | [te](/f20/language/te) | 448 | 1701 | 26.3 | /mnt/stockage/packages/f20/xfce4-panel/po/te.po | 
+ | [lv](/f20/language/lv) | 137 | 1504 | 9.1 | /mnt/stockage/packages/f20/xfce4-panel/po/lv.po | 
+ | [sq](/f20/language/sq) | 137 | 1504 | 9.1 | /mnt/stockage/packages/f20/xfce4-panel/po/sq.po | 
+ | [ur](/f20/language/ur) | 137 | 1504 | 9.1 | /mnt/stockage/packages/f20/xfce4-panel/po/ur.po | 
+ | [ur_PK](/f20/language/ur_PK) | 137 | 1504 | 9.1 | /mnt/stockage/packages/f20/xfce4-panel/po/ur_PK.po | 
+ | [ast](/f20/language/ast) | 136 | 1504 | 9.0 | /mnt/stockage/packages/f20/xfce4-panel/po/ast.po | 
+ | [ta](/f20/language/ta) | 136 | 1504 | 9.0 | /mnt/stockage/packages/f20/xfce4-panel/po/ta.po | 
+ | [eo](/f20/language/eo) | 101 | 1660 | 6.1 | /mnt/stockage/packages/f20/xfce4-panel/po/eo.po | 
+ | [be](/f20/language/be) | 79 | 1504 | 5.3 | /mnt/stockage/packages/f20/xfce4-panel/po/be.po | 
+ | [ku](/f20/language/ku) | 48 | 1504 | 3.2 | /mnt/stockage/packages/f20/xfce4-panel/po/ku.po | 
+ | [am](/f20/language/am) | 34 | 1504 | 2.3 | /mnt/stockage/packages/f20/xfce4-panel/po/am.po | 
+ | [dz](/f20/language/dz) | 34 | 1504 | 2.3 | /mnt/stockage/packages/f20/xfce4-panel/po/dz.po | 
+ | [mk](/f20/language/mk) | 34 | 1504 | 2.3 | /mnt/stockage/packages/f20/xfce4-panel/po/mk.po | 
+ | [vi](/f20/language/vi) | 34 | 1504 | 2.3 | /mnt/stockage/packages/f20/xfce4-panel/po/vi.po | 
+ | [is](/f20/language/is) | 10 | 1504 | 0.7 | /mnt/stockage/packages/f20/xfce4-panel/po/is.po | 
+ | [az](/f20/language/az) | 7 | 1504 | 0.5 | /mnt/stockage/packages/f20/xfce4-panel/po/az.po | 
+ | [bn_IN](/f20/language/bn_IN) | 7 | 1504 | 0.5 | /mnt/stockage/packages/f20/xfce4-panel/po/bn_IN.po | 
+ | [gu](/f20/language/gu) | 7 | 1504 | 0.5 | /mnt/stockage/packages/f20/xfce4-panel/po/gu.po | 
+ | [hi](/f20/language/hi) | 7 | 1504 | 0.5 | /mnt/stockage/packages/f20/xfce4-panel/po/hi.po | 
+ | [hy](/f20/language/hy) | 7 | 1504 | 0.5 | /mnt/stockage/packages/f20/xfce4-panel/po/hy.po | 
+ | [mr](/f20/language/mr) | 7 | 1504 | 0.5 | /mnt/stockage/packages/f20/xfce4-panel/po/mr.po | 
+ | [ms](/f20/language/ms) | 7 | 1504 | 0.5 | /mnt/stockage/packages/f20/xfce4-panel/po/ms.po | 
+ | [fa](/f20/language/fa) | 7 | 1687 | 0.4 | /mnt/stockage/packages/f20/xfce4-panel/po/fa.po | 
+ | [ka](/f20/language/ka) | 0 | 1504 | 0.0 | /mnt/stockage/packages/f20/xfce4-panel/po/ka.po | 
 {.sortable}
 
 

@@ -38,9 +38,9 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [alacarte]({{< ref "/f20/package/alacarte.md" >}}) | 42 | 42 | 100.0 | Bemba Team <bem@li.org> | 
- | [mate-menu-editor]({{< ref "/f20/package/mate-menu-editor.md" >}}) | 42 | 42 | 100.0 | Bemba Team <bem@li.org> | 
- | [mozo]({{< ref "/f20/package/mozo.md" >}}) | 42 | 42 | 100.0 | Bemba Team <bem@li.org> | 
+ | [alacarte](/f20/package/alacarte) | 42 | 42 | 100.0 | Bemba Team <bem@li.org> | 
+ | [mate-menu-editor](/f20/package/mate-menu-editor) | 42 | 42 | 100.0 | Bemba Team <bem@li.org> | 
+ | [mozo](/f20/package/mozo) | 42 | 42 | 100.0 | Bemba Team <bem@li.org> | 
 {.sortable}
 
 

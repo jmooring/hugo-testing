@@ -43,12 +43,12 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [mintmenu]({{< ref "/f24/package/mintmenu.md" >}}) | 2628 | 4951 | 53.1 | Somali <so@li.org> | 
- | [gcompris]({{< ref "/f24/package/gcompris.md" >}}) | 2167 | 9603 | 22.6 | Somali <mimursal@mimfi-tech.com> | 
- | [iso-codes]({{< ref "/f24/package/iso-codes.md" >}}) | 125 | 1088 | 11.5 | Somali | 
- | [cinnamon-translations]({{< ref "/f24/package/cinnamon-translations.md" >}}) | 454 | 12020 | 3.8 | Somali <so@li.org> | 
- | [libmatekbd]({{< ref "/f24/package/libmatekbd.md" >}}) | 0 | 251 | 0.0 | Somali (http://www.transifex.com/mate/MATE/language/so/) | 
- | [mate-user-guide]({{< ref "/f24/package/mate-user-guide.md" >}}) | 0 | 5 | 0.0 | Somali (http://www.transifex.com/mate/MATE/language/so/) | 
+ | [mintmenu](/f24/package/mintmenu) | 2628 | 4951 | 53.1 | Somali <so@li.org> | 
+ | [gcompris](/f24/package/gcompris) | 2167 | 9603 | 22.6 | Somali <mimursal@mimfi-tech.com> | 
+ | [iso-codes](/f24/package/iso-codes) | 125 | 1088 | 11.5 | Somali | 
+ | [cinnamon-translations](/f24/package/cinnamon-translations) | 454 | 12020 | 3.8 | Somali <so@li.org> | 
+ | [libmatekbd](/f24/package/libmatekbd) | 0 | 251 | 0.0 | Somali (http://www.transifex.com/mate/MATE/language/so/) | 
+ | [mate-user-guide](/f24/package/mate-user-guide) | 0 | 5 | 0.0 | Somali (http://www.transifex.com/mate/MATE/language/so/) | 
 {.sortable}
 
 

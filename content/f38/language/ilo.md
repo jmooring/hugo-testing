@@ -38,19 +38,19 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [redhat-menus]({{< ref "/f38/package/redhat-menus.md" >}}) | 106 | 261 | 40.6 |  | 
- | [switchdesk]({{< ref "/f38/package/switchdesk.md" >}}) | 10 | 122 | 8.2 |  | 
- | [python-blivet]({{< ref "/f38/package/python-blivet.md" >}}) | 37 | 605 | 6.1 | Iloko (http://www.transifex.com/projects/p/blivet/language/ilo/) | 
- | [android-tools]({{< ref "/f38/package/android-tools.md" >}}) | 11 | 6028 | 0.2 | Iloko | 
- | [policycoreutils]({{< ref "/f38/package/policycoreutils.md" >}}) | 19 | 10521 | 0.2 | Iloko | 
- | [budgie-control-center]({{< ref "/f38/package/budgie-control-center.md" >}}) | 0 | 1313 | 0.0 |  | 
- | [cinnamon-control-center]({{< ref "/f38/package/cinnamon-control-center.md" >}}) | 0 | 1313 | 0.0 |  | 
- | [gnome-control-center]({{< ref "/f38/package/gnome-control-center.md" >}}) | 0 | 1313 | 0.0 |  | 
- | [initial-setup]({{< ref "/f38/package/initial-setup.md" >}}) | 0 | 33 | 0.0 | Iloko | 
- | [libvirt-sandbox]({{< ref "/f38/package/libvirt-sandbox.md" >}}) | 0 | 617 | 0.0 | Iloko (http://www.transifex.com/projects/p/fedora/language/ilo/) | 
- | [python-fedora]({{< ref "/f38/package/python-fedora.md" >}}) | 0 | 214 | 0.0 | Iloko | 
- | [python-meh]({{< ref "/f38/package/python-meh.md" >}}) | 0 | 109 | 0.0 | Iloko | 
- | [sos]({{< ref "/f38/package/sos.md" >}}) | 0 | 123 | 0.0 | none | 
+ | [redhat-menus](/f38/package/redhat-menus) | 106 | 261 | 40.6 |  | 
+ | [switchdesk](/f38/package/switchdesk) | 10 | 122 | 8.2 |  | 
+ | [python-blivet](/f38/package/python-blivet) | 37 | 605 | 6.1 | Iloko (http://www.transifex.com/projects/p/blivet/language/ilo/) | 
+ | [android-tools](/f38/package/android-tools) | 11 | 6028 | 0.2 | Iloko | 
+ | [policycoreutils](/f38/package/policycoreutils) | 19 | 10521 | 0.2 | Iloko | 
+ | [budgie-control-center](/f38/package/budgie-control-center) | 0 | 1313 | 0.0 |  | 
+ | [cinnamon-control-center](/f38/package/cinnamon-control-center) | 0 | 1313 | 0.0 |  | 
+ | [gnome-control-center](/f38/package/gnome-control-center) | 0 | 1313 | 0.0 |  | 
+ | [initial-setup](/f38/package/initial-setup) | 0 | 33 | 0.0 | Iloko | 
+ | [libvirt-sandbox](/f38/package/libvirt-sandbox) | 0 | 617 | 0.0 | Iloko (http://www.transifex.com/projects/p/fedora/language/ilo/) | 
+ | [python-fedora](/f38/package/python-fedora) | 0 | 214 | 0.0 | Iloko | 
+ | [python-meh](/f38/package/python-meh) | 0 | 109 | 0.0 | Iloko | 
+ | [sos](/f38/package/sos) | 0 | 123 | 0.0 | none | 
 {.sortable}
 
 

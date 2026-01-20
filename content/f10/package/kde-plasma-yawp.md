@@ -18,16 +18,16 @@ The package kde-plasma-yawp (version 0.2.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f10/language/fr.md" >}}) | 3423 | 3468 | 98.7 | /mnt/stockage/packages/f10/kde-plasma-yawp/po/fr.po | 
- | [ru]({{< ref "/f10/language/ru.md" >}}) | 3337 | 3395 | 98.3 | /mnt/stockage/packages/f10/kde-plasma-yawp/po/ru.po | 
- | [pl]({{< ref "/f10/language/pl.md" >}}) | 3094 | 3395 | 91.1 | /mnt/stockage/packages/f10/kde-plasma-yawp/po/pl.po | 
- | [de]({{< ref "/f10/language/de.md" >}}) | 2413 | 3395 | 71.1 | /mnt/stockage/packages/f10/kde-plasma-yawp/po/de.po | 
- | [cs]({{< ref "/f10/language/cs.md" >}}) | 1725 | 3395 | 50.8 | /mnt/stockage/packages/f10/kde-plasma-yawp/po/cs.po | 
- | [sk]({{< ref "/f10/language/sk.md" >}}) | 1547 | 3395 | 45.6 | /mnt/stockage/packages/f10/kde-plasma-yawp/po/sk.po | 
- | [it]({{< ref "/f10/language/it.md" >}}) | 349 | 3395 | 10.3 | /mnt/stockage/packages/f10/kde-plasma-yawp/po/it.po | 
- | [es]({{< ref "/f10/language/es.md" >}}) | 294 | 3395 | 8.7 | /mnt/stockage/packages/f10/kde-plasma-yawp/po/es.po | 
- | [sl]({{< ref "/f10/language/sl.md" >}}) | 76 | 3395 | 2.2 | /mnt/stockage/packages/f10/kde-plasma-yawp/po/sl.po | 
- | [af]({{< ref "/f10/language/af.md" >}}) | 28 | 3395 | 0.8 | /mnt/stockage/packages/f10/kde-plasma-yawp/po/af.po | 
+ | [fr](/f10/language/fr) | 3423 | 3468 | 98.7 | /mnt/stockage/packages/f10/kde-plasma-yawp/po/fr.po | 
+ | [ru](/f10/language/ru) | 3337 | 3395 | 98.3 | /mnt/stockage/packages/f10/kde-plasma-yawp/po/ru.po | 
+ | [pl](/f10/language/pl) | 3094 | 3395 | 91.1 | /mnt/stockage/packages/f10/kde-plasma-yawp/po/pl.po | 
+ | [de](/f10/language/de) | 2413 | 3395 | 71.1 | /mnt/stockage/packages/f10/kde-plasma-yawp/po/de.po | 
+ | [cs](/f10/language/cs) | 1725 | 3395 | 50.8 | /mnt/stockage/packages/f10/kde-plasma-yawp/po/cs.po | 
+ | [sk](/f10/language/sk) | 1547 | 3395 | 45.6 | /mnt/stockage/packages/f10/kde-plasma-yawp/po/sk.po | 
+ | [it](/f10/language/it) | 349 | 3395 | 10.3 | /mnt/stockage/packages/f10/kde-plasma-yawp/po/it.po | 
+ | [es](/f10/language/es) | 294 | 3395 | 8.7 | /mnt/stockage/packages/f10/kde-plasma-yawp/po/es.po | 
+ | [sl](/f10/language/sl) | 76 | 3395 | 2.2 | /mnt/stockage/packages/f10/kde-plasma-yawp/po/sl.po | 
+ | [af](/f10/language/af) | 28 | 3395 | 0.8 | /mnt/stockage/packages/f10/kde-plasma-yawp/po/af.po | 
 {.sortable}
 
 

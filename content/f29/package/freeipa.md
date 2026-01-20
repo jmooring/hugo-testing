@@ -18,29 +18,29 @@ The package freeipa (version 4.7.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [uk]({{< ref "/f29/language/uk.md" >}}) | 55394 | 55684 | 99.5 | /mnt/stockage/packages/f29/freeipa/po/uk.po | 
- | [ru]({{< ref "/f29/language/ru.md" >}}) | 55250 | 55684 | 99.2 | /mnt/stockage/packages/f29/freeipa/po/ru.po | 
- | [fr]({{< ref "/f29/language/fr.md" >}}) | 27813 | 55684 | 49.9 | /mnt/stockage/packages/f29/freeipa/po/fr.po | 
- | [zh_Hans]({{< ref "/f29/language/zh_Hans.md" >}}) | 18479 | 55684 | 33.2 | /mnt/stockage/packages/f29/freeipa/po/zh_CN.po | 
- | [es]({{< ref "/f29/language/es.md" >}}) | 14549 | 55684 | 26.1 | /mnt/stockage/packages/f29/freeipa/po/es.po | 
- | [de]({{< ref "/f29/language/de.md" >}}) | 5380 | 55684 | 9.7 | /mnt/stockage/packages/f29/freeipa/po/de.po | 
- | [sk]({{< ref "/f29/language/sk.md" >}}) | 2775 | 55684 | 5.0 | /mnt/stockage/packages/f29/freeipa/po/sk.po | 
- | [pl]({{< ref "/f29/language/pl.md" >}}) | 1777 | 55684 | 3.2 | /mnt/stockage/packages/f29/freeipa/po/pl.po | 
- | [kn]({{< ref "/f29/language/kn.md" >}}) | 712 | 55684 | 1.3 | /mnt/stockage/packages/f29/freeipa/po/kn.po | 
- | [ja]({{< ref "/f29/language/ja.md" >}}) | 419 | 55684 | 0.8 | /mnt/stockage/packages/f29/freeipa/po/ja.po | 
- | [eu]({{< ref "/f29/language/eu.md" >}}) | 367 | 55684 | 0.7 | /mnt/stockage/packages/f29/freeipa/po/eu.po | 
- | [id]({{< ref "/f29/language/id.md" >}}) | 307 | 55684 | 0.6 | /mnt/stockage/packages/f29/freeipa/po/id.po | 
- | [cs]({{< ref "/f29/language/cs.md" >}}) | 290 | 55684 | 0.5 | /mnt/stockage/packages/f29/freeipa/po/cs.po | 
- | [ca]({{< ref "/f29/language/ca.md" >}}) | 245 | 55684 | 0.4 | /mnt/stockage/packages/f29/freeipa/po/ca.po | 
- | [tg]({{< ref "/f29/language/tg.md" >}}) | 148 | 55684 | 0.3 | /mnt/stockage/packages/f29/freeipa/po/tg.po | 
- | [hu]({{< ref "/f29/language/hu.md" >}}) | 139 | 55684 | 0.2 | /mnt/stockage/packages/f29/freeipa/po/hu.po | 
- | [mr]({{< ref "/f29/language/mr.md" >}}) | 103 | 55684 | 0.2 | /mnt/stockage/packages/f29/freeipa/po/mr.po | 
- | [hi]({{< ref "/f29/language/hi.md" >}}) | 93 | 55684 | 0.2 | /mnt/stockage/packages/f29/freeipa/po/hi.po | 
- | [pa]({{< ref "/f29/language/pa.md" >}}) | 63 | 55684 | 0.1 | /mnt/stockage/packages/f29/freeipa/po/pa.po | 
- | [en_GB]({{< ref "/f29/language/en_GB.md" >}}) | 48 | 55684 | 0.1 | /mnt/stockage/packages/f29/freeipa/po/en_GB.po | 
- | [pt_BR]({{< ref "/f29/language/pt_BR.md" >}}) | 40 | 55684 | 0.1 | /mnt/stockage/packages/f29/freeipa/po/pt_BR.po | 
- | [bn_IN]({{< ref "/f29/language/bn_IN.md" >}}) | 34 | 55684 | 0.1 | /mnt/stockage/packages/f29/freeipa/po/bn_IN.po | 
- | [nl]({{< ref "/f29/language/nl.md" >}}) | 4 | 55684 | 0.0 | /mnt/stockage/packages/f29/freeipa/po/nl.po | 
+ | [uk](/f29/language/uk) | 55394 | 55684 | 99.5 | /mnt/stockage/packages/f29/freeipa/po/uk.po | 
+ | [ru](/f29/language/ru) | 55250 | 55684 | 99.2 | /mnt/stockage/packages/f29/freeipa/po/ru.po | 
+ | [fr](/f29/language/fr) | 27813 | 55684 | 49.9 | /mnt/stockage/packages/f29/freeipa/po/fr.po | 
+ | [zh_Hans](/f29/language/zh_Hans) | 18479 | 55684 | 33.2 | /mnt/stockage/packages/f29/freeipa/po/zh_CN.po | 
+ | [es](/f29/language/es) | 14549 | 55684 | 26.1 | /mnt/stockage/packages/f29/freeipa/po/es.po | 
+ | [de](/f29/language/de) | 5380 | 55684 | 9.7 | /mnt/stockage/packages/f29/freeipa/po/de.po | 
+ | [sk](/f29/language/sk) | 2775 | 55684 | 5.0 | /mnt/stockage/packages/f29/freeipa/po/sk.po | 
+ | [pl](/f29/language/pl) | 1777 | 55684 | 3.2 | /mnt/stockage/packages/f29/freeipa/po/pl.po | 
+ | [kn](/f29/language/kn) | 712 | 55684 | 1.3 | /mnt/stockage/packages/f29/freeipa/po/kn.po | 
+ | [ja](/f29/language/ja) | 419 | 55684 | 0.8 | /mnt/stockage/packages/f29/freeipa/po/ja.po | 
+ | [eu](/f29/language/eu) | 367 | 55684 | 0.7 | /mnt/stockage/packages/f29/freeipa/po/eu.po | 
+ | [id](/f29/language/id) | 307 | 55684 | 0.6 | /mnt/stockage/packages/f29/freeipa/po/id.po | 
+ | [cs](/f29/language/cs) | 290 | 55684 | 0.5 | /mnt/stockage/packages/f29/freeipa/po/cs.po | 
+ | [ca](/f29/language/ca) | 245 | 55684 | 0.4 | /mnt/stockage/packages/f29/freeipa/po/ca.po | 
+ | [tg](/f29/language/tg) | 148 | 55684 | 0.3 | /mnt/stockage/packages/f29/freeipa/po/tg.po | 
+ | [hu](/f29/language/hu) | 139 | 55684 | 0.2 | /mnt/stockage/packages/f29/freeipa/po/hu.po | 
+ | [mr](/f29/language/mr) | 103 | 55684 | 0.2 | /mnt/stockage/packages/f29/freeipa/po/mr.po | 
+ | [hi](/f29/language/hi) | 93 | 55684 | 0.2 | /mnt/stockage/packages/f29/freeipa/po/hi.po | 
+ | [pa](/f29/language/pa) | 63 | 55684 | 0.1 | /mnt/stockage/packages/f29/freeipa/po/pa.po | 
+ | [en_GB](/f29/language/en_GB) | 48 | 55684 | 0.1 | /mnt/stockage/packages/f29/freeipa/po/en_GB.po | 
+ | [pt_BR](/f29/language/pt_BR) | 40 | 55684 | 0.1 | /mnt/stockage/packages/f29/freeipa/po/pt_BR.po | 
+ | [bn_IN](/f29/language/bn_IN) | 34 | 55684 | 0.1 | /mnt/stockage/packages/f29/freeipa/po/bn_IN.po | 
+ | [nl](/f29/language/nl) | 4 | 55684 | 0.0 | /mnt/stockage/packages/f29/freeipa/po/nl.po | 
 {.sortable}
 
 

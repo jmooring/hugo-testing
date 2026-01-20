@@ -18,24 +18,24 @@ The package ario (version 1.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f11/language/fr.md" >}}) | 682 | 682 | 100.0 | /mnt/stockage/packages/f11/ario/po/fr.po | 
- | [nl]({{< ref "/f11/language/nl.md" >}}) | 682 | 682 | 100.0 | /mnt/stockage/packages/f11/ario/po/nl.po | 
- | [ru]({{< ref "/f11/language/ru.md" >}}) | 682 | 682 | 100.0 | /mnt/stockage/packages/f11/ario/po/ru.po | 
- | [es]({{< ref "/f11/language/es.md" >}}) | 675 | 682 | 99.0 | /mnt/stockage/packages/f11/ario/po/es.po | 
- | [de]({{< ref "/f11/language/de.md" >}}) | 673 | 682 | 98.7 | /mnt/stockage/packages/f11/ario/po/de.po | 
- | [it]({{< ref "/f11/language/it.md" >}}) | 643 | 682 | 94.3 | /mnt/stockage/packages/f11/ario/po/it.po | 
- | [en_GB]({{< ref "/f11/language/en_GB.md" >}}) | 636 | 682 | 93.3 | /mnt/stockage/packages/f11/ario/po/en_GB.po | 
- | [ga]({{< ref "/f11/language/ga.md" >}}) | 636 | 682 | 93.3 | /mnt/stockage/packages/f11/ario/po/ga.po | 
- | [ro]({{< ref "/f11/language/ro.md" >}}) | 622 | 682 | 91.2 | /mnt/stockage/packages/f11/ario/po/ro.po | 
- | [hu]({{< ref "/f11/language/hu.md" >}}) | 607 | 682 | 89.0 | /mnt/stockage/packages/f11/ario/po/hu.po | 
- | [he]({{< ref "/f11/language/he.md" >}}) | 596 | 682 | 87.4 | /mnt/stockage/packages/f11/ario/po/he.po | 
- | [pl]({{< ref "/f11/language/pl.md" >}}) | 581 | 682 | 85.2 | /mnt/stockage/packages/f11/ario/po/pl.po | 
- | [cs]({{< ref "/f11/language/cs.md" >}}) | 467 | 682 | 68.5 | /mnt/stockage/packages/f11/ario/po/cs.po | 
- | [pt]({{< ref "/f11/language/pt.md" >}}) | 297 | 682 | 43.5 | /mnt/stockage/packages/f11/ario/po/pt.po | 
- | [sv]({{< ref "/f11/language/sv.md" >}}) | 272 | 682 | 39.9 | /mnt/stockage/packages/f11/ario/po/sv.po | 
- | [pt_BR]({{< ref "/f11/language/pt_BR.md" >}}) | 223 | 682 | 32.7 | /mnt/stockage/packages/f11/ario/po/pt_BR.po | 
- | [id]({{< ref "/f11/language/id.md" >}}) | 131 | 682 | 19.2 | /mnt/stockage/packages/f11/ario/po/id.po | 
- | [ca]({{< ref "/f11/language/ca.md" >}}) | 114 | 682 | 16.7 | /mnt/stockage/packages/f11/ario/po/ca.po | 
+ | [fr](/f11/language/fr) | 682 | 682 | 100.0 | /mnt/stockage/packages/f11/ario/po/fr.po | 
+ | [nl](/f11/language/nl) | 682 | 682 | 100.0 | /mnt/stockage/packages/f11/ario/po/nl.po | 
+ | [ru](/f11/language/ru) | 682 | 682 | 100.0 | /mnt/stockage/packages/f11/ario/po/ru.po | 
+ | [es](/f11/language/es) | 675 | 682 | 99.0 | /mnt/stockage/packages/f11/ario/po/es.po | 
+ | [de](/f11/language/de) | 673 | 682 | 98.7 | /mnt/stockage/packages/f11/ario/po/de.po | 
+ | [it](/f11/language/it) | 643 | 682 | 94.3 | /mnt/stockage/packages/f11/ario/po/it.po | 
+ | [en_GB](/f11/language/en_GB) | 636 | 682 | 93.3 | /mnt/stockage/packages/f11/ario/po/en_GB.po | 
+ | [ga](/f11/language/ga) | 636 | 682 | 93.3 | /mnt/stockage/packages/f11/ario/po/ga.po | 
+ | [ro](/f11/language/ro) | 622 | 682 | 91.2 | /mnt/stockage/packages/f11/ario/po/ro.po | 
+ | [hu](/f11/language/hu) | 607 | 682 | 89.0 | /mnt/stockage/packages/f11/ario/po/hu.po | 
+ | [he](/f11/language/he) | 596 | 682 | 87.4 | /mnt/stockage/packages/f11/ario/po/he.po | 
+ | [pl](/f11/language/pl) | 581 | 682 | 85.2 | /mnt/stockage/packages/f11/ario/po/pl.po | 
+ | [cs](/f11/language/cs) | 467 | 682 | 68.5 | /mnt/stockage/packages/f11/ario/po/cs.po | 
+ | [pt](/f11/language/pt) | 297 | 682 | 43.5 | /mnt/stockage/packages/f11/ario/po/pt.po | 
+ | [sv](/f11/language/sv) | 272 | 682 | 39.9 | /mnt/stockage/packages/f11/ario/po/sv.po | 
+ | [pt_BR](/f11/language/pt_BR) | 223 | 682 | 32.7 | /mnt/stockage/packages/f11/ario/po/pt_BR.po | 
+ | [id](/f11/language/id) | 131 | 682 | 19.2 | /mnt/stockage/packages/f11/ario/po/id.po | 
+ | [ca](/f11/language/ca) | 114 | 682 | 16.7 | /mnt/stockage/packages/f11/ario/po/ca.po | 
 {.sortable}
 
 

@@ -38,19 +38,19 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [olpc-switch-desktop]({{< ref "/f35/package/olpc-switch-desktop.md" >}}) | 158 | 158 | 100.0 | LANGUAGE <LL@li.org> | 
- | [sugar-words]({{< ref "/f35/package/sugar-words.md" >}}) | 3 | 3 | 100.0 | LANGUAGE <LL@li.org> | 
- | [sugar-write]({{< ref "/f35/package/sugar-write.md" >}}) | 121 | 121 | 100.0 | LANGUAGE <LL@li.org> | 
- | [sugar-xoeditor]({{< ref "/f35/package/sugar-xoeditor.md" >}}) | 29 | 29 | 100.0 | LANGUAGE <LL@li.org> | 
- | [sugar-typing-turtle]({{< ref "/f35/package/sugar-typing-turtle.md" >}}) | 491 | 599 | 82.0 | LANGUAGE <LL@li.org> | 
- | [iso-codes]({{< ref "/f35/package/iso-codes.md" >}}) | 234 | 982 | 23.8 | Nahuatl languages <https://hosted.weblate.org/projects/iso-codes/iso-3166-1/nah/> | 
- | [mate-system-monitor]({{< ref "/f35/package/mate-system-monitor.md" >}}) | 200 | 4847 | 4.1 | Nahuatl (https://www.transifex.com/mate/teams/13566/nah/) | 
- | [mozo]({{< ref "/f35/package/mozo.md" >}}) | 1 | 46 | 2.2 | Nahuatl (https://www.transifex.com/mate/teams/13566/nah/) | 
- | [mate-menus]({{< ref "/f35/package/mate-menus.md" >}}) | 1 | 103 | 1.0 | Nahuatl (https://www.transifex.com/mate/teams/13566/nah/) | 
- | [mate-sensors-applet]({{< ref "/f35/package/mate-sensors-applet.md" >}}) | 2 | 313 | 0.6 | Nahuatl (https://www.transifex.com/mate/teams/13566/nah/) | 
- | [libmatekbd]({{< ref "/f35/package/libmatekbd.md" >}}) | 0 | 308 | 0.0 | Nahuatl (http://www.transifex.com/mate/MATE/language/nah/) | 
- | [mate-menu]({{< ref "/f35/package/mate-menu.md" >}}) | 0 | 308 | 0.0 | Nahuatl (http://www.transifex.com/mate/MATE/language/nah/) | 
- | [mate-themes]({{< ref "/f35/package/mate-themes.md" >}}) | 0 | 74 | 0.0 | Nahuatl (http://www.transifex.com/mate/MATE/language/nah/) | 
+ | [olpc-switch-desktop](/f35/package/olpc-switch-desktop) | 158 | 158 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-words](/f35/package/sugar-words) | 3 | 3 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-write](/f35/package/sugar-write) | 121 | 121 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-xoeditor](/f35/package/sugar-xoeditor) | 29 | 29 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-typing-turtle](/f35/package/sugar-typing-turtle) | 491 | 599 | 82.0 | LANGUAGE <LL@li.org> | 
+ | [iso-codes](/f35/package/iso-codes) | 234 | 982 | 23.8 | Nahuatl languages <https://hosted.weblate.org/projects/iso-codes/iso-3166-1/nah/> | 
+ | [mate-system-monitor](/f35/package/mate-system-monitor) | 200 | 4847 | 4.1 | Nahuatl (https://www.transifex.com/mate/teams/13566/nah/) | 
+ | [mozo](/f35/package/mozo) | 1 | 46 | 2.2 | Nahuatl (https://www.transifex.com/mate/teams/13566/nah/) | 
+ | [mate-menus](/f35/package/mate-menus) | 1 | 103 | 1.0 | Nahuatl (https://www.transifex.com/mate/teams/13566/nah/) | 
+ | [mate-sensors-applet](/f35/package/mate-sensors-applet) | 2 | 313 | 0.6 | Nahuatl (https://www.transifex.com/mate/teams/13566/nah/) | 
+ | [libmatekbd](/f35/package/libmatekbd) | 0 | 308 | 0.0 | Nahuatl (http://www.transifex.com/mate/MATE/language/nah/) | 
+ | [mate-menu](/f35/package/mate-menu) | 0 | 308 | 0.0 | Nahuatl (http://www.transifex.com/mate/MATE/language/nah/) | 
+ | [mate-themes](/f35/package/mate-themes) | 0 | 74 | 0.0 | Nahuatl (http://www.transifex.com/mate/MATE/language/nah/) | 
 {.sortable}
 
 

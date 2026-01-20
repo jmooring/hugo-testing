@@ -18,33 +18,33 @@ The package simple-ccsm (version 0.8.16):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f31/language/ca.md" >}}) | 162 | 162 | 100.0 | /mnt/stockage/packages/f31/simple-ccsm/po/ca.po | 
- | [en_GB]({{< ref "/f31/language/en_GB.md" >}}) | 162 | 162 | 100.0 | /mnt/stockage/packages/f31/simple-ccsm/po/en_GB.po | 
- | [da]({{< ref "/f31/language/da.md" >}}) | 151 | 162 | 93.2 | /mnt/stockage/packages/f31/simple-ccsm/po/da.po | 
- | [de]({{< ref "/f31/language/de.md" >}}) | 151 | 162 | 93.2 | /mnt/stockage/packages/f31/simple-ccsm/po/de.po | 
- | [el]({{< ref "/f31/language/el.md" >}}) | 151 | 162 | 93.2 | /mnt/stockage/packages/f31/simple-ccsm/po/el.po | 
- | [es]({{< ref "/f31/language/es.md" >}}) | 151 | 162 | 93.2 | /mnt/stockage/packages/f31/simple-ccsm/po/es.po | 
- | [fi]({{< ref "/f31/language/fi.md" >}}) | 151 | 162 | 93.2 | /mnt/stockage/packages/f31/simple-ccsm/po/fi.po | 
- | [gl]({{< ref "/f31/language/gl.md" >}}) | 151 | 162 | 93.2 | /mnt/stockage/packages/f31/simple-ccsm/po/gl.po | 
- | [hu]({{< ref "/f31/language/hu.md" >}}) | 151 | 162 | 93.2 | /mnt/stockage/packages/f31/simple-ccsm/po/hu.po | 
- | [it]({{< ref "/f31/language/it.md" >}}) | 151 | 162 | 93.2 | /mnt/stockage/packages/f31/simple-ccsm/po/it.po | 
- | [ja]({{< ref "/f31/language/ja.md" >}}) | 151 | 162 | 93.2 | /mnt/stockage/packages/f31/simple-ccsm/po/ja.po | 
- | [pt]({{< ref "/f31/language/pt.md" >}}) | 151 | 162 | 93.2 | /mnt/stockage/packages/f31/simple-ccsm/po/pt.po | 
- | [ru]({{< ref "/f31/language/ru.md" >}}) | 151 | 162 | 93.2 | /mnt/stockage/packages/f31/simple-ccsm/po/ru.po | 
- | [zh_Hans]({{< ref "/f31/language/zh_Hans.md" >}}) | 151 | 162 | 93.2 | /mnt/stockage/packages/f31/simple-ccsm/po/zh_CN.po | 
- | [fr]({{< ref "/f31/language/fr.md" >}}) | 150 | 162 | 92.6 | /mnt/stockage/packages/f31/simple-ccsm/po/fr.po | 
- | [pl]({{< ref "/f31/language/pl.md" >}}) | 150 | 162 | 92.6 | /mnt/stockage/packages/f31/simple-ccsm/po/pl.po | 
- | [bg]({{< ref "/f31/language/bg.md" >}}) | 145 | 162 | 89.5 | /mnt/stockage/packages/f31/simple-ccsm/po/bg.po | 
- | [sk]({{< ref "/f31/language/sk.md" >}}) | 141 | 162 | 87.0 | /mnt/stockage/packages/f31/simple-ccsm/po/sk.po | 
- | [eu]({{< ref "/f31/language/eu.md" >}}) | 60 | 162 | 37.0 | /mnt/stockage/packages/f31/simple-ccsm/po/eu.po | 
- | [nl]({{< ref "/f31/language/nl.md" >}}) | 60 | 162 | 37.0 | /mnt/stockage/packages/f31/simple-ccsm/po/nl.po | 
- | [pt_BR]({{< ref "/f31/language/pt_BR.md" >}}) | 60 | 162 | 37.0 | /mnt/stockage/packages/f31/simple-ccsm/po/pt_BR.po | 
- | [sv]({{< ref "/f31/language/sv.md" >}}) | 60 | 162 | 37.0 | /mnt/stockage/packages/f31/simple-ccsm/po/sv.po | 
- | [zh_Hant]({{< ref "/f31/language/zh_Hant.md" >}}) | 60 | 162 | 37.0 | /mnt/stockage/packages/f31/simple-ccsm/po/zh_TW.po | 
- | [ko]({{< ref "/f31/language/ko.md" >}}) | 59 | 162 | 36.4 | /mnt/stockage/packages/f31/simple-ccsm/po/ko.po | 
- | [nb_NO]({{< ref "/f31/language/nb_NO.md" >}}) | 59 | 162 | 36.4 | /mnt/stockage/packages/f31/simple-ccsm/po/nb.po | 
- | [cs]({{< ref "/f31/language/cs.md" >}}) | 42 | 162 | 25.9 | /mnt/stockage/packages/f31/simple-ccsm/po/cs.po | 
- | [tr]({{< ref "/f31/language/tr.md" >}}) | 11 | 162 | 6.8 | /mnt/stockage/packages/f31/simple-ccsm/po/tr.po | 
+ | [ca](/f31/language/ca) | 162 | 162 | 100.0 | /mnt/stockage/packages/f31/simple-ccsm/po/ca.po | 
+ | [en_GB](/f31/language/en_GB) | 162 | 162 | 100.0 | /mnt/stockage/packages/f31/simple-ccsm/po/en_GB.po | 
+ | [da](/f31/language/da) | 151 | 162 | 93.2 | /mnt/stockage/packages/f31/simple-ccsm/po/da.po | 
+ | [de](/f31/language/de) | 151 | 162 | 93.2 | /mnt/stockage/packages/f31/simple-ccsm/po/de.po | 
+ | [el](/f31/language/el) | 151 | 162 | 93.2 | /mnt/stockage/packages/f31/simple-ccsm/po/el.po | 
+ | [es](/f31/language/es) | 151 | 162 | 93.2 | /mnt/stockage/packages/f31/simple-ccsm/po/es.po | 
+ | [fi](/f31/language/fi) | 151 | 162 | 93.2 | /mnt/stockage/packages/f31/simple-ccsm/po/fi.po | 
+ | [gl](/f31/language/gl) | 151 | 162 | 93.2 | /mnt/stockage/packages/f31/simple-ccsm/po/gl.po | 
+ | [hu](/f31/language/hu) | 151 | 162 | 93.2 | /mnt/stockage/packages/f31/simple-ccsm/po/hu.po | 
+ | [it](/f31/language/it) | 151 | 162 | 93.2 | /mnt/stockage/packages/f31/simple-ccsm/po/it.po | 
+ | [ja](/f31/language/ja) | 151 | 162 | 93.2 | /mnt/stockage/packages/f31/simple-ccsm/po/ja.po | 
+ | [pt](/f31/language/pt) | 151 | 162 | 93.2 | /mnt/stockage/packages/f31/simple-ccsm/po/pt.po | 
+ | [ru](/f31/language/ru) | 151 | 162 | 93.2 | /mnt/stockage/packages/f31/simple-ccsm/po/ru.po | 
+ | [zh_Hans](/f31/language/zh_Hans) | 151 | 162 | 93.2 | /mnt/stockage/packages/f31/simple-ccsm/po/zh_CN.po | 
+ | [fr](/f31/language/fr) | 150 | 162 | 92.6 | /mnt/stockage/packages/f31/simple-ccsm/po/fr.po | 
+ | [pl](/f31/language/pl) | 150 | 162 | 92.6 | /mnt/stockage/packages/f31/simple-ccsm/po/pl.po | 
+ | [bg](/f31/language/bg) | 145 | 162 | 89.5 | /mnt/stockage/packages/f31/simple-ccsm/po/bg.po | 
+ | [sk](/f31/language/sk) | 141 | 162 | 87.0 | /mnt/stockage/packages/f31/simple-ccsm/po/sk.po | 
+ | [eu](/f31/language/eu) | 60 | 162 | 37.0 | /mnt/stockage/packages/f31/simple-ccsm/po/eu.po | 
+ | [nl](/f31/language/nl) | 60 | 162 | 37.0 | /mnt/stockage/packages/f31/simple-ccsm/po/nl.po | 
+ | [pt_BR](/f31/language/pt_BR) | 60 | 162 | 37.0 | /mnt/stockage/packages/f31/simple-ccsm/po/pt_BR.po | 
+ | [sv](/f31/language/sv) | 60 | 162 | 37.0 | /mnt/stockage/packages/f31/simple-ccsm/po/sv.po | 
+ | [zh_Hant](/f31/language/zh_Hant) | 60 | 162 | 37.0 | /mnt/stockage/packages/f31/simple-ccsm/po/zh_TW.po | 
+ | [ko](/f31/language/ko) | 59 | 162 | 36.4 | /mnt/stockage/packages/f31/simple-ccsm/po/ko.po | 
+ | [nb_NO](/f31/language/nb_NO) | 59 | 162 | 36.4 | /mnt/stockage/packages/f31/simple-ccsm/po/nb.po | 
+ | [cs](/f31/language/cs) | 42 | 162 | 25.9 | /mnt/stockage/packages/f31/simple-ccsm/po/cs.po | 
+ | [tr](/f31/language/tr) | 11 | 162 | 6.8 | /mnt/stockage/packages/f31/simple-ccsm/po/tr.po | 
 {.sortable}
 
 

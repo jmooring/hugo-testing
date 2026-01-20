@@ -18,7 +18,7 @@ The package java-17-openjdk (version 17.0.5.0.8):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [su]({{< ref "/f35/language/su.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f35/java-17-openjdk/test/jdk/sun/nio/cs/tradChinese.po/mnt/stockage/packages/f35/java-17-openjdk/test/jdk/sun/nio/cs/tradChinese.win.po | 
+ | [su](/f35/language/su) | 0 | 0 | 0.0 | /mnt/stockage/packages/f35/java-17-openjdk/test/jdk/sun/nio/cs/tradChinese.po/mnt/stockage/packages/f35/java-17-openjdk/test/jdk/sun/nio/cs/tradChinese.win.po | 
 {.sortable}
 
 

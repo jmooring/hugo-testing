@@ -18,29 +18,29 @@ The package rizin (version 0.7.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f40/language/ca.md" >}}) | 1379 | 1379 | 100.0 | /mnt/stockage/packages/f40/rizin/subprojects/xz-5.2.9/po/ca.po | 
- | [eo]({{< ref "/f40/language/eo.md" >}}) | 1379 | 1379 | 100.0 | /mnt/stockage/packages/f40/rizin/subprojects/xz-5.2.9/po/eo.po | 
- | [es]({{< ref "/f40/language/es.md" >}}) | 1379 | 1379 | 100.0 | /mnt/stockage/packages/f40/rizin/subprojects/xz-5.2.9/po/es.po | 
- | [fi]({{< ref "/f40/language/fi.md" >}}) | 1379 | 1379 | 100.0 | /mnt/stockage/packages/f40/rizin/subprojects/xz-5.2.9/po/fi.po | 
- | [hr]({{< ref "/f40/language/hr.md" >}}) | 1379 | 1379 | 100.0 | /mnt/stockage/packages/f40/rizin/subprojects/xz-5.2.9/po/hr.po | 
- | [hu]({{< ref "/f40/language/hu.md" >}}) | 1379 | 1379 | 100.0 | /mnt/stockage/packages/f40/rizin/subprojects/xz-5.2.9/po/hu.po | 
- | [it]({{< ref "/f40/language/it.md" >}}) | 1379 | 1379 | 100.0 | /mnt/stockage/packages/f40/rizin/subprojects/xz-5.2.9/po/it.po | 
- | [ko]({{< ref "/f40/language/ko.md" >}}) | 1379 | 1379 | 100.0 | /mnt/stockage/packages/f40/rizin/subprojects/xz-5.2.9/po/ko.po | 
- | [pl]({{< ref "/f40/language/pl.md" >}}) | 1379 | 1379 | 100.0 | /mnt/stockage/packages/f40/rizin/subprojects/xz-5.2.9/po/pl.po | 
- | [pt]({{< ref "/f40/language/pt.md" >}}) | 1379 | 1379 | 100.0 | /mnt/stockage/packages/f40/rizin/subprojects/xz-5.2.9/po/pt.po | 
- | [pt_BR]({{< ref "/f40/language/pt_BR.md" >}}) | 1379 | 1379 | 100.0 | /mnt/stockage/packages/f40/rizin/subprojects/xz-5.2.9/po/pt_BR.po | 
- | [ro]({{< ref "/f40/language/ro.md" >}}) | 1379 | 1379 | 100.0 | /mnt/stockage/packages/f40/rizin/subprojects/xz-5.2.9/po/ro.po | 
- | [sr]({{< ref "/f40/language/sr.md" >}}) | 1379 | 1379 | 100.0 | /mnt/stockage/packages/f40/rizin/subprojects/xz-5.2.9/po/sr.po | 
- | [sv]({{< ref "/f40/language/sv.md" >}}) | 1379 | 1379 | 100.0 | /mnt/stockage/packages/f40/rizin/subprojects/xz-5.2.9/po/sv.po | 
- | [tr]({{< ref "/f40/language/tr.md" >}}) | 1379 | 1379 | 100.0 | /mnt/stockage/packages/f40/rizin/subprojects/xz-5.2.9/po/tr.po | 
- | [uk]({{< ref "/f40/language/uk.md" >}}) | 1379 | 1379 | 100.0 | /mnt/stockage/packages/f40/rizin/subprojects/xz-5.2.9/po/uk.po | 
- | [zh_Hans]({{< ref "/f40/language/zh_Hans.md" >}}) | 1379 | 1379 | 100.0 | /mnt/stockage/packages/f40/rizin/subprojects/xz-5.2.9/po/zh_CN.po | 
- | [vi]({{< ref "/f40/language/vi.md" >}}) | 1360 | 1379 | 98.6 | /mnt/stockage/packages/f40/rizin/subprojects/xz-5.2.9/po/vi.po | 
- | [zh_Hant]({{< ref "/f40/language/zh_Hant.md" >}}) | 1320 | 1379 | 95.7 | /mnt/stockage/packages/f40/rizin/subprojects/xz-5.2.9/po/zh_TW.po | 
- | [cs]({{< ref "/f40/language/cs.md" >}}) | 1130 | 1379 | 81.9 | /mnt/stockage/packages/f40/rizin/subprojects/xz-5.2.9/po/cs.po | 
- | [de]({{< ref "/f40/language/de.md" >}}) | 9754 | 12036 | 81.0 | /mnt/stockage/packages/f40/rizin/subprojects/xz-5.2.9/po/de.po/mnt/stockage/packages/f40/rizin/subprojects/xz-5.2.9/po4a/de.po | 
- | [fr]({{< ref "/f40/language/fr.md" >}}) | 9754 | 12036 | 81.0 | /mnt/stockage/packages/f40/rizin/subprojects/xz-5.2.9/po/fr.po/mnt/stockage/packages/f40/rizin/subprojects/xz-5.2.9/po4a/fr.po | 
- | [da]({{< ref "/f40/language/da.md" >}}) | 782 | 1379 | 56.7 | /mnt/stockage/packages/f40/rizin/subprojects/xz-5.2.9/po/da.po | 
+ | [ca](/f40/language/ca) | 1379 | 1379 | 100.0 | /mnt/stockage/packages/f40/rizin/subprojects/xz-5.2.9/po/ca.po | 
+ | [eo](/f40/language/eo) | 1379 | 1379 | 100.0 | /mnt/stockage/packages/f40/rizin/subprojects/xz-5.2.9/po/eo.po | 
+ | [es](/f40/language/es) | 1379 | 1379 | 100.0 | /mnt/stockage/packages/f40/rizin/subprojects/xz-5.2.9/po/es.po | 
+ | [fi](/f40/language/fi) | 1379 | 1379 | 100.0 | /mnt/stockage/packages/f40/rizin/subprojects/xz-5.2.9/po/fi.po | 
+ | [hr](/f40/language/hr) | 1379 | 1379 | 100.0 | /mnt/stockage/packages/f40/rizin/subprojects/xz-5.2.9/po/hr.po | 
+ | [hu](/f40/language/hu) | 1379 | 1379 | 100.0 | /mnt/stockage/packages/f40/rizin/subprojects/xz-5.2.9/po/hu.po | 
+ | [it](/f40/language/it) | 1379 | 1379 | 100.0 | /mnt/stockage/packages/f40/rizin/subprojects/xz-5.2.9/po/it.po | 
+ | [ko](/f40/language/ko) | 1379 | 1379 | 100.0 | /mnt/stockage/packages/f40/rizin/subprojects/xz-5.2.9/po/ko.po | 
+ | [pl](/f40/language/pl) | 1379 | 1379 | 100.0 | /mnt/stockage/packages/f40/rizin/subprojects/xz-5.2.9/po/pl.po | 
+ | [pt](/f40/language/pt) | 1379 | 1379 | 100.0 | /mnt/stockage/packages/f40/rizin/subprojects/xz-5.2.9/po/pt.po | 
+ | [pt_BR](/f40/language/pt_BR) | 1379 | 1379 | 100.0 | /mnt/stockage/packages/f40/rizin/subprojects/xz-5.2.9/po/pt_BR.po | 
+ | [ro](/f40/language/ro) | 1379 | 1379 | 100.0 | /mnt/stockage/packages/f40/rizin/subprojects/xz-5.2.9/po/ro.po | 
+ | [sr](/f40/language/sr) | 1379 | 1379 | 100.0 | /mnt/stockage/packages/f40/rizin/subprojects/xz-5.2.9/po/sr.po | 
+ | [sv](/f40/language/sv) | 1379 | 1379 | 100.0 | /mnt/stockage/packages/f40/rizin/subprojects/xz-5.2.9/po/sv.po | 
+ | [tr](/f40/language/tr) | 1379 | 1379 | 100.0 | /mnt/stockage/packages/f40/rizin/subprojects/xz-5.2.9/po/tr.po | 
+ | [uk](/f40/language/uk) | 1379 | 1379 | 100.0 | /mnt/stockage/packages/f40/rizin/subprojects/xz-5.2.9/po/uk.po | 
+ | [zh_Hans](/f40/language/zh_Hans) | 1379 | 1379 | 100.0 | /mnt/stockage/packages/f40/rizin/subprojects/xz-5.2.9/po/zh_CN.po | 
+ | [vi](/f40/language/vi) | 1360 | 1379 | 98.6 | /mnt/stockage/packages/f40/rizin/subprojects/xz-5.2.9/po/vi.po | 
+ | [zh_Hant](/f40/language/zh_Hant) | 1320 | 1379 | 95.7 | /mnt/stockage/packages/f40/rizin/subprojects/xz-5.2.9/po/zh_TW.po | 
+ | [cs](/f40/language/cs) | 1130 | 1379 | 81.9 | /mnt/stockage/packages/f40/rizin/subprojects/xz-5.2.9/po/cs.po | 
+ | [de](/f40/language/de) | 9754 | 12036 | 81.0 | /mnt/stockage/packages/f40/rizin/subprojects/xz-5.2.9/po/de.po/mnt/stockage/packages/f40/rizin/subprojects/xz-5.2.9/po4a/de.po | 
+ | [fr](/f40/language/fr) | 9754 | 12036 | 81.0 | /mnt/stockage/packages/f40/rizin/subprojects/xz-5.2.9/po/fr.po/mnt/stockage/packages/f40/rizin/subprojects/xz-5.2.9/po4a/fr.po | 
+ | [da](/f40/language/da) | 782 | 1379 | 56.7 | /mnt/stockage/packages/f40/rizin/subprojects/xz-5.2.9/po/da.po | 
 {.sortable}
 
 

@@ -38,7 +38,7 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [iso-codes]({{< ref "/f10/package/iso-codes.md" >}}) | 396 | 12368 | 3.2 | Tigre | 
+ | [iso-codes](/f10/package/iso-codes) | 396 | 12368 | 3.2 | Tigre | 
 {.sortable}
 
 

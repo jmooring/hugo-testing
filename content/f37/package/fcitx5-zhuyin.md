@@ -18,16 +18,16 @@ The package fcitx5-zhuyin (version 5.0.12):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [da]({{< ref "/f37/language/da.md" >}}) | 75 | 75 | 100.0 | /mnt/stockage/packages/f37/fcitx5-zhuyin/po/da.po | 
- | [ko]({{< ref "/f37/language/ko.md" >}}) | 75 | 75 | 100.0 | /mnt/stockage/packages/f37/fcitx5-zhuyin/po/ko.po | 
- | [ru]({{< ref "/f37/language/ru.md" >}}) | 75 | 75 | 100.0 | /mnt/stockage/packages/f37/fcitx5-zhuyin/po/ru.po | 
- | [zh_Hans]({{< ref "/f37/language/zh_Hans.md" >}}) | 75 | 75 | 100.0 | /mnt/stockage/packages/f37/fcitx5-zhuyin/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f37/language/zh_Hant.md" >}}) | 75 | 75 | 100.0 | /mnt/stockage/packages/f37/fcitx5-zhuyin/po/zh_TW.po | 
- | [de]({{< ref "/f37/language/de.md" >}}) | 24 | 75 | 32.0 | /mnt/stockage/packages/f37/fcitx5-zhuyin/po/de.po | 
- | [ca]({{< ref "/f37/language/ca.md" >}}) | 12 | 75 | 16.0 | /mnt/stockage/packages/f37/fcitx5-zhuyin/po/ca.po | 
- | [tr]({{< ref "/f37/language/tr.md" >}}) | 12 | 75 | 16.0 | /mnt/stockage/packages/f37/fcitx5-zhuyin/po/tr.po | 
- | [he]({{< ref "/f37/language/he.md" >}}) | 8 | 75 | 10.7 | /mnt/stockage/packages/f37/fcitx5-zhuyin/po/he.po | 
- | [ja]({{< ref "/f37/language/ja.md" >}}) | 4 | 75 | 5.3 | /mnt/stockage/packages/f37/fcitx5-zhuyin/po/ja.po | 
+ | [da](/f37/language/da) | 75 | 75 | 100.0 | /mnt/stockage/packages/f37/fcitx5-zhuyin/po/da.po | 
+ | [ko](/f37/language/ko) | 75 | 75 | 100.0 | /mnt/stockage/packages/f37/fcitx5-zhuyin/po/ko.po | 
+ | [ru](/f37/language/ru) | 75 | 75 | 100.0 | /mnt/stockage/packages/f37/fcitx5-zhuyin/po/ru.po | 
+ | [zh_Hans](/f37/language/zh_Hans) | 75 | 75 | 100.0 | /mnt/stockage/packages/f37/fcitx5-zhuyin/po/zh_CN.po | 
+ | [zh_Hant](/f37/language/zh_Hant) | 75 | 75 | 100.0 | /mnt/stockage/packages/f37/fcitx5-zhuyin/po/zh_TW.po | 
+ | [de](/f37/language/de) | 24 | 75 | 32.0 | /mnt/stockage/packages/f37/fcitx5-zhuyin/po/de.po | 
+ | [ca](/f37/language/ca) | 12 | 75 | 16.0 | /mnt/stockage/packages/f37/fcitx5-zhuyin/po/ca.po | 
+ | [tr](/f37/language/tr) | 12 | 75 | 16.0 | /mnt/stockage/packages/f37/fcitx5-zhuyin/po/tr.po | 
+ | [he](/f37/language/he) | 8 | 75 | 10.7 | /mnt/stockage/packages/f37/fcitx5-zhuyin/po/he.po | 
+ | [ja](/f37/language/ja) | 4 | 75 | 5.3 | /mnt/stockage/packages/f37/fcitx5-zhuyin/po/ja.po | 
 {.sortable}
 
 

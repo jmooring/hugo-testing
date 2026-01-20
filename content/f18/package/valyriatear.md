@@ -18,12 +18,12 @@ The package valyriatear (version 0.5.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f18/language/de.md" >}}) | 4600 | 4600 | 100.0 | /mnt/stockage/packages/f18/valyriatear/po/de.po | 
- | [it]({{< ref "/f18/language/it.md" >}}) | 4600 | 4600 | 100.0 | /mnt/stockage/packages/f18/valyriatear/po/it.po | 
- | [fr]({{< ref "/f18/language/fr.md" >}}) | 4462 | 4600 | 97.0 | /mnt/stockage/packages/f18/valyriatear/po/fr.po | 
- | [en]({{< ref "/f18/language/en.md" >}}) | 3048 | 4277 | 71.3 | /mnt/stockage/packages/f18/valyriatear/po/en@quot.po | 
- | [pt_BR]({{< ref "/f18/language/pt_BR.md" >}}) | 1244 | 4277 | 29.1 | /mnt/stockage/packages/f18/valyriatear/po/pt_BR.po | 
- | [es]({{< ref "/f18/language/es.md" >}}) | 151 | 4277 | 3.5 | /mnt/stockage/packages/f18/valyriatear/po/es.po | 
+ | [de](/f18/language/de) | 4600 | 4600 | 100.0 | /mnt/stockage/packages/f18/valyriatear/po/de.po | 
+ | [it](/f18/language/it) | 4600 | 4600 | 100.0 | /mnt/stockage/packages/f18/valyriatear/po/it.po | 
+ | [fr](/f18/language/fr) | 4462 | 4600 | 97.0 | /mnt/stockage/packages/f18/valyriatear/po/fr.po | 
+ | [en](/f18/language/en) | 3048 | 4277 | 71.3 | /mnt/stockage/packages/f18/valyriatear/po/en@quot.po | 
+ | [pt_BR](/f18/language/pt_BR) | 1244 | 4277 | 29.1 | /mnt/stockage/packages/f18/valyriatear/po/pt_BR.po | 
+ | [es](/f18/language/es) | 151 | 4277 | 3.5 | /mnt/stockage/packages/f18/valyriatear/po/es.po | 
 {.sortable}
 
 

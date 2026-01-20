@@ -18,15 +18,15 @@ The package frepple (version 3.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [es]({{< ref "/f24/language/es.md" >}}) | 2081 | 2081 | 100.0 | /mnt/stockage/packages/f24/frepple/contrib/django/freppledb/locale/es/LC_MESSAGES/django.po/mnt/stockage/packages/f24/frepple/contrib/django/freppledb/locale/es/LC_MESSAGES/djangojs.po | 
- | [pt]({{< ref "/f24/language/pt.md" >}}) | 2081 | 2081 | 100.0 | /mnt/stockage/packages/f24/frepple/contrib/django/freppledb/locale/pt_PT/LC_MESSAGES/django.po/mnt/stockage/packages/f24/frepple/contrib/django/freppledb/locale/pt_PT/LC_MESSAGES/djangojs.po | 
- | [pt_BR]({{< ref "/f24/language/pt_BR.md" >}}) | 2081 | 2081 | 100.0 | /mnt/stockage/packages/f24/frepple/contrib/django/freppledb/locale/pt_BR/LC_MESSAGES/django.po/mnt/stockage/packages/f24/frepple/contrib/django/freppledb/locale/pt_BR/LC_MESSAGES/djangojs.po | 
- | [zh_Hans]({{< ref "/f24/language/zh_Hans.md" >}}) | 2683 | 2683 | 100.0 | /mnt/stockage/packages/f24/frepple/contrib/django/freppledb/locale/zh_CN/LC_MESSAGES/django.po/mnt/stockage/packages/f24/frepple/contrib/django/freppledb/locale/zh_CN/LC_MESSAGES/djangojs.po | 
- | [zh_Hant]({{< ref "/f24/language/zh_Hant.md" >}}) | 2683 | 2683 | 100.0 | /mnt/stockage/packages/f24/frepple/contrib/django/freppledb/locale/zh_TW/LC_MESSAGES/django.po/mnt/stockage/packages/f24/frepple/contrib/django/freppledb/locale/zh_TW/LC_MESSAGES/djangojs.po | 
- | [nl]({{< ref "/f24/language/nl.md" >}}) | 2060 | 2081 | 99.0 | /mnt/stockage/packages/f24/frepple/contrib/django/freppledb/locale/nl/LC_MESSAGES/django.po/mnt/stockage/packages/f24/frepple/contrib/django/freppledb/locale/nl/LC_MESSAGES/djangojs.po | 
- | [fr]({{< ref "/f24/language/fr.md" >}}) | 2011 | 2081 | 96.6 | /mnt/stockage/packages/f24/frepple/contrib/django/freppledb/locale/fr/LC_MESSAGES/django.po/mnt/stockage/packages/f24/frepple/contrib/django/freppledb/locale/fr/LC_MESSAGES/djangojs.po | 
- | [ja]({{< ref "/f24/language/ja.md" >}}) | 1016 | 2081 | 48.8 | /mnt/stockage/packages/f24/frepple/contrib/django/freppledb/locale/ja/LC_MESSAGES/django.po/mnt/stockage/packages/f24/frepple/contrib/django/freppledb/locale/ja/LC_MESSAGES/djangojs.po | 
- | [it]({{< ref "/f24/language/it.md" >}}) | 777 | 2081 | 37.3 | /mnt/stockage/packages/f24/frepple/contrib/django/freppledb/locale/it/LC_MESSAGES/django.po/mnt/stockage/packages/f24/frepple/contrib/django/freppledb/locale/it/LC_MESSAGES/djangojs.po | 
+ | [es](/f24/language/es) | 2081 | 2081 | 100.0 | /mnt/stockage/packages/f24/frepple/contrib/django/freppledb/locale/es/LC_MESSAGES/django.po/mnt/stockage/packages/f24/frepple/contrib/django/freppledb/locale/es/LC_MESSAGES/djangojs.po | 
+ | [pt](/f24/language/pt) | 2081 | 2081 | 100.0 | /mnt/stockage/packages/f24/frepple/contrib/django/freppledb/locale/pt_PT/LC_MESSAGES/django.po/mnt/stockage/packages/f24/frepple/contrib/django/freppledb/locale/pt_PT/LC_MESSAGES/djangojs.po | 
+ | [pt_BR](/f24/language/pt_BR) | 2081 | 2081 | 100.0 | /mnt/stockage/packages/f24/frepple/contrib/django/freppledb/locale/pt_BR/LC_MESSAGES/django.po/mnt/stockage/packages/f24/frepple/contrib/django/freppledb/locale/pt_BR/LC_MESSAGES/djangojs.po | 
+ | [zh_Hans](/f24/language/zh_Hans) | 2683 | 2683 | 100.0 | /mnt/stockage/packages/f24/frepple/contrib/django/freppledb/locale/zh_CN/LC_MESSAGES/django.po/mnt/stockage/packages/f24/frepple/contrib/django/freppledb/locale/zh_CN/LC_MESSAGES/djangojs.po | 
+ | [zh_Hant](/f24/language/zh_Hant) | 2683 | 2683 | 100.0 | /mnt/stockage/packages/f24/frepple/contrib/django/freppledb/locale/zh_TW/LC_MESSAGES/django.po/mnt/stockage/packages/f24/frepple/contrib/django/freppledb/locale/zh_TW/LC_MESSAGES/djangojs.po | 
+ | [nl](/f24/language/nl) | 2060 | 2081 | 99.0 | /mnt/stockage/packages/f24/frepple/contrib/django/freppledb/locale/nl/LC_MESSAGES/django.po/mnt/stockage/packages/f24/frepple/contrib/django/freppledb/locale/nl/LC_MESSAGES/djangojs.po | 
+ | [fr](/f24/language/fr) | 2011 | 2081 | 96.6 | /mnt/stockage/packages/f24/frepple/contrib/django/freppledb/locale/fr/LC_MESSAGES/django.po/mnt/stockage/packages/f24/frepple/contrib/django/freppledb/locale/fr/LC_MESSAGES/djangojs.po | 
+ | [ja](/f24/language/ja) | 1016 | 2081 | 48.8 | /mnt/stockage/packages/f24/frepple/contrib/django/freppledb/locale/ja/LC_MESSAGES/django.po/mnt/stockage/packages/f24/frepple/contrib/django/freppledb/locale/ja/LC_MESSAGES/djangojs.po | 
+ | [it](/f24/language/it) | 777 | 2081 | 37.3 | /mnt/stockage/packages/f24/frepple/contrib/django/freppledb/locale/it/LC_MESSAGES/django.po/mnt/stockage/packages/f24/frepple/contrib/django/freppledb/locale/it/LC_MESSAGES/djangojs.po | 
 {.sortable}
 
 

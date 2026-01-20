@@ -18,8 +18,8 @@ The package sectool (version 0.6.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [pl]({{< ref "/f9/language/pl.md" >}}) | 535 | 535 | 100.0 | /mnt/stockage/packages/f9/sectool/po/pl.po | 
- | [cs]({{< ref "/f9/language/cs.md" >}}) | 82 | 535 | 15.3 | /mnt/stockage/packages/f9/sectool/po/cs.po | 
+ | [pl](/f9/language/pl) | 535 | 535 | 100.0 | /mnt/stockage/packages/f9/sectool/po/pl.po | 
+ | [cs](/f9/language/cs) | 82 | 535 | 15.3 | /mnt/stockage/packages/f9/sectool/po/cs.po | 
 {.sortable}
 
 

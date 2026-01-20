@@ -18,32 +18,32 @@ The package ibus-typing-booster (version 2.25.7):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [bn]({{< ref "/f38/language/bn.md" >}}) | 2186 | 2186 | 100.0 | /mnt/stockage/packages/f38/ibus-typing-booster/po/bn.po | 
- | [de]({{< ref "/f38/language/de.md" >}}) | 2186 | 2186 | 100.0 | /mnt/stockage/packages/f38/ibus-typing-booster/po/de.po | 
- | [fr]({{< ref "/f38/language/fr.md" >}}) | 2186 | 2186 | 100.0 | /mnt/stockage/packages/f38/ibus-typing-booster/po/fr.po | 
- | [ka]({{< ref "/f38/language/ka.md" >}}) | 2186 | 2186 | 100.0 | /mnt/stockage/packages/f38/ibus-typing-booster/po/ka.po | 
- | [sv]({{< ref "/f38/language/sv.md" >}}) | 2186 | 2186 | 100.0 | /mnt/stockage/packages/f38/ibus-typing-booster/po/sv.po | 
- | [tr]({{< ref "/f38/language/tr.md" >}}) | 2186 | 2186 | 100.0 | /mnt/stockage/packages/f38/ibus-typing-booster/po/tr.po | 
- | [ja]({{< ref "/f38/language/ja.md" >}}) | 2185 | 2186 | 100.0 | /mnt/stockage/packages/f38/ibus-typing-booster/po/ja.po | 
- | [pl]({{< ref "/f38/language/pl.md" >}}) | 2075 | 2186 | 94.9 | /mnt/stockage/packages/f38/ibus-typing-booster/po/pl.po | 
- | [ar]({{< ref "/f38/language/ar.md" >}}) | 2064 | 2186 | 94.4 | /mnt/stockage/packages/f38/ibus-typing-booster/po/ar.po | 
- | [nl]({{< ref "/f38/language/nl.md" >}}) | 2064 | 2186 | 94.4 | /mnt/stockage/packages/f38/ibus-typing-booster/po/nl.po | 
- | [uk]({{< ref "/f38/language/uk.md" >}}) | 2064 | 2186 | 94.4 | /mnt/stockage/packages/f38/ibus-typing-booster/po/uk.po | 
- | [sw]({{< ref "/f38/language/sw.md" >}}) | 2012 | 2186 | 92.0 | /mnt/stockage/packages/f38/ibus-typing-booster/po/sw.po | 
- | [pt]({{< ref "/f38/language/pt.md" >}}) | 1953 | 2186 | 89.3 | /mnt/stockage/packages/f38/ibus-typing-booster/po/pt.po | 
- | [es]({{< ref "/f38/language/es.md" >}}) | 1814 | 2186 | 83.0 | /mnt/stockage/packages/f38/ibus-typing-booster/po/es.po | 
- | [it]({{< ref "/f38/language/it.md" >}}) | 1780 | 2186 | 81.4 | /mnt/stockage/packages/f38/ibus-typing-booster/po/it.po | 
- | [pt_BR]({{< ref "/f38/language/pt_BR.md" >}}) | 1777 | 2186 | 81.3 | /mnt/stockage/packages/f38/ibus-typing-booster/po/pt_BR.po | 
- | [zh_Hans]({{< ref "/f38/language/zh_Hans.md" >}}) | 1741 | 2186 | 79.6 | /mnt/stockage/packages/f38/ibus-typing-booster/po/zh_CN.po | 
- | [he]({{< ref "/f38/language/he.md" >}}) | 1729 | 2186 | 79.1 | /mnt/stockage/packages/f38/ibus-typing-booster/po/he.po | 
- | [cs]({{< ref "/f38/language/cs.md" >}}) | 1698 | 2186 | 77.7 | /mnt/stockage/packages/f38/ibus-typing-booster/po/cs.po | 
- | [hu]({{< ref "/f38/language/hu.md" >}}) | 470 | 2186 | 21.5 | /mnt/stockage/packages/f38/ibus-typing-booster/po/hu.po | 
- | [ca]({{< ref "/f38/language/ca.md" >}}) | 457 | 2186 | 20.9 | /mnt/stockage/packages/f38/ibus-typing-booster/po/ca.po | 
- | [or]({{< ref "/f38/language/or.md" >}}) | 457 | 2186 | 20.9 | /mnt/stockage/packages/f38/ibus-typing-booster/po/or.po | 
- | [zh_Hant]({{< ref "/f38/language/zh_Hant.md" >}}) | 41 | 2186 | 1.9 | /mnt/stockage/packages/f38/ibus-typing-booster/po/zh_TW.po | 
- | [lt]({{< ref "/f38/language/lt.md" >}}) | 29 | 2186 | 1.3 | /mnt/stockage/packages/f38/ibus-typing-booster/po/lt.po | 
- | [fa]({{< ref "/f38/language/fa.md" >}}) | 13 | 2186 | 0.6 | /mnt/stockage/packages/f38/ibus-typing-booster/po/fa.po | 
- | [si]({{< ref "/f38/language/si.md" >}}) | 2 | 2186 | 0.1 | /mnt/stockage/packages/f38/ibus-typing-booster/po/si.po | 
+ | [bn](/f38/language/bn) | 2186 | 2186 | 100.0 | /mnt/stockage/packages/f38/ibus-typing-booster/po/bn.po | 
+ | [de](/f38/language/de) | 2186 | 2186 | 100.0 | /mnt/stockage/packages/f38/ibus-typing-booster/po/de.po | 
+ | [fr](/f38/language/fr) | 2186 | 2186 | 100.0 | /mnt/stockage/packages/f38/ibus-typing-booster/po/fr.po | 
+ | [ka](/f38/language/ka) | 2186 | 2186 | 100.0 | /mnt/stockage/packages/f38/ibus-typing-booster/po/ka.po | 
+ | [sv](/f38/language/sv) | 2186 | 2186 | 100.0 | /mnt/stockage/packages/f38/ibus-typing-booster/po/sv.po | 
+ | [tr](/f38/language/tr) | 2186 | 2186 | 100.0 | /mnt/stockage/packages/f38/ibus-typing-booster/po/tr.po | 
+ | [ja](/f38/language/ja) | 2185 | 2186 | 100.0 | /mnt/stockage/packages/f38/ibus-typing-booster/po/ja.po | 
+ | [pl](/f38/language/pl) | 2075 | 2186 | 94.9 | /mnt/stockage/packages/f38/ibus-typing-booster/po/pl.po | 
+ | [ar](/f38/language/ar) | 2064 | 2186 | 94.4 | /mnt/stockage/packages/f38/ibus-typing-booster/po/ar.po | 
+ | [nl](/f38/language/nl) | 2064 | 2186 | 94.4 | /mnt/stockage/packages/f38/ibus-typing-booster/po/nl.po | 
+ | [uk](/f38/language/uk) | 2064 | 2186 | 94.4 | /mnt/stockage/packages/f38/ibus-typing-booster/po/uk.po | 
+ | [sw](/f38/language/sw) | 2012 | 2186 | 92.0 | /mnt/stockage/packages/f38/ibus-typing-booster/po/sw.po | 
+ | [pt](/f38/language/pt) | 1953 | 2186 | 89.3 | /mnt/stockage/packages/f38/ibus-typing-booster/po/pt.po | 
+ | [es](/f38/language/es) | 1814 | 2186 | 83.0 | /mnt/stockage/packages/f38/ibus-typing-booster/po/es.po | 
+ | [it](/f38/language/it) | 1780 | 2186 | 81.4 | /mnt/stockage/packages/f38/ibus-typing-booster/po/it.po | 
+ | [pt_BR](/f38/language/pt_BR) | 1777 | 2186 | 81.3 | /mnt/stockage/packages/f38/ibus-typing-booster/po/pt_BR.po | 
+ | [zh_Hans](/f38/language/zh_Hans) | 1741 | 2186 | 79.6 | /mnt/stockage/packages/f38/ibus-typing-booster/po/zh_CN.po | 
+ | [he](/f38/language/he) | 1729 | 2186 | 79.1 | /mnt/stockage/packages/f38/ibus-typing-booster/po/he.po | 
+ | [cs](/f38/language/cs) | 1698 | 2186 | 77.7 | /mnt/stockage/packages/f38/ibus-typing-booster/po/cs.po | 
+ | [hu](/f38/language/hu) | 470 | 2186 | 21.5 | /mnt/stockage/packages/f38/ibus-typing-booster/po/hu.po | 
+ | [ca](/f38/language/ca) | 457 | 2186 | 20.9 | /mnt/stockage/packages/f38/ibus-typing-booster/po/ca.po | 
+ | [or](/f38/language/or) | 457 | 2186 | 20.9 | /mnt/stockage/packages/f38/ibus-typing-booster/po/or.po | 
+ | [zh_Hant](/f38/language/zh_Hant) | 41 | 2186 | 1.9 | /mnt/stockage/packages/f38/ibus-typing-booster/po/zh_TW.po | 
+ | [lt](/f38/language/lt) | 29 | 2186 | 1.3 | /mnt/stockage/packages/f38/ibus-typing-booster/po/lt.po | 
+ | [fa](/f38/language/fa) | 13 | 2186 | 0.6 | /mnt/stockage/packages/f38/ibus-typing-booster/po/fa.po | 
+ | [si](/f38/language/si) | 2 | 2186 | 0.1 | /mnt/stockage/packages/f38/ibus-typing-booster/po/si.po | 
 {.sortable}
 
 

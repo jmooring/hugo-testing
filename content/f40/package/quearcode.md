@@ -18,17 +18,17 @@ The package quearcode (version 0.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f40/language/ar.md" >}}) | 80 | 80 | 100.0 | /mnt/stockage/packages/f40/quearcode/po/ar.po | 
- | [bn]({{< ref "/f40/language/bn.md" >}}) | 80 | 80 | 100.0 | /mnt/stockage/packages/f40/quearcode/po/bn.po | 
- | [de]({{< ref "/f40/language/de.md" >}}) | 80 | 80 | 100.0 | /mnt/stockage/packages/f40/quearcode/po/de.po | 
- | [en]({{< ref "/f40/language/en.md" >}}) | 80 | 80 | 100.0 | /mnt/stockage/packages/f40/quearcode/po/en.po | 
- | [es]({{< ref "/f40/language/es.md" >}}) | 80 | 80 | 100.0 | /mnt/stockage/packages/f40/quearcode/po/es.po | 
- | [hi]({{< ref "/f40/language/hi.md" >}}) | 80 | 80 | 100.0 | /mnt/stockage/packages/f40/quearcode/po/hi.po | 
- | [ko]({{< ref "/f40/language/ko.md" >}}) | 80 | 80 | 100.0 | /mnt/stockage/packages/f40/quearcode/po/ko.po | 
- | [pt]({{< ref "/f40/language/pt.md" >}}) | 80 | 80 | 100.0 | /mnt/stockage/packages/f40/quearcode/po/pt.po | 
- | [uk]({{< ref "/f40/language/uk.md" >}}) | 80 | 80 | 100.0 | /mnt/stockage/packages/f40/quearcode/po/uk.po | 
- | [zh_Hans]({{< ref "/f40/language/zh_Hans.md" >}}) | 80 | 80 | 100.0 | /mnt/stockage/packages/f40/quearcode/po/zh.po | 
- | [ja]({{< ref "/f40/language/ja.md" >}}) | 76 | 80 | 95.0 | /mnt/stockage/packages/f40/quearcode/po/ja.po | 
+ | [ar](/f40/language/ar) | 80 | 80 | 100.0 | /mnt/stockage/packages/f40/quearcode/po/ar.po | 
+ | [bn](/f40/language/bn) | 80 | 80 | 100.0 | /mnt/stockage/packages/f40/quearcode/po/bn.po | 
+ | [de](/f40/language/de) | 80 | 80 | 100.0 | /mnt/stockage/packages/f40/quearcode/po/de.po | 
+ | [en](/f40/language/en) | 80 | 80 | 100.0 | /mnt/stockage/packages/f40/quearcode/po/en.po | 
+ | [es](/f40/language/es) | 80 | 80 | 100.0 | /mnt/stockage/packages/f40/quearcode/po/es.po | 
+ | [hi](/f40/language/hi) | 80 | 80 | 100.0 | /mnt/stockage/packages/f40/quearcode/po/hi.po | 
+ | [ko](/f40/language/ko) | 80 | 80 | 100.0 | /mnt/stockage/packages/f40/quearcode/po/ko.po | 
+ | [pt](/f40/language/pt) | 80 | 80 | 100.0 | /mnt/stockage/packages/f40/quearcode/po/pt.po | 
+ | [uk](/f40/language/uk) | 80 | 80 | 100.0 | /mnt/stockage/packages/f40/quearcode/po/uk.po | 
+ | [zh_Hans](/f40/language/zh_Hans) | 80 | 80 | 100.0 | /mnt/stockage/packages/f40/quearcode/po/zh.po | 
+ | [ja](/f40/language/ja) | 76 | 80 | 95.0 | /mnt/stockage/packages/f40/quearcode/po/ja.po | 
 {.sortable}
 
 

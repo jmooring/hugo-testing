@@ -38,9 +38,9 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [Miro]({{< ref "/f7/package/Miro.md" >}}) | 2640 | 3616 | 73.0 | Frisian <fy@li.org> | 
- | [deluge]({{< ref "/f7/package/deluge.md" >}}) | 82 | 2352 | 3.5 | Frisian <fy@li.org> | 
- | [picard]({{< ref "/f7/package/picard.md" >}}) | 21 | 633 | 3.3 | Frisian <fy@li.org> | 
+ | [Miro](/f7/package/Miro) | 2640 | 3616 | 73.0 | Frisian <fy@li.org> | 
+ | [deluge](/f7/package/deluge) | 82 | 2352 | 3.5 | Frisian <fy@li.org> | 
+ | [picard](/f7/package/picard) | 21 | 633 | 3.3 | Frisian <fy@li.org> | 
 {.sortable}
 
 

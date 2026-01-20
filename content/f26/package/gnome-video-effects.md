@@ -18,85 +18,85 @@ The package gnome-video-effects (version 0.4.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [as]({{< ref "/f26/language/as.md" >}}) | 256 | 256 | 100.0 | /mnt/stockage/packages/f26/gnome-video-effects/po/as.po | 
- | [be]({{< ref "/f26/language/be.md" >}}) | 256 | 256 | 100.0 | /mnt/stockage/packages/f26/gnome-video-effects/po/be.po | 
- | [bg]({{< ref "/f26/language/bg.md" >}}) | 256 | 256 | 100.0 | /mnt/stockage/packages/f26/gnome-video-effects/po/bg.po | 
- | [bs]({{< ref "/f26/language/bs.md" >}}) | 256 | 256 | 100.0 | /mnt/stockage/packages/f26/gnome-video-effects/po/bs.po | 
- | [ca]({{< ref "/f26/language/ca.md" >}}) | 256 | 256 | 100.0 | /mnt/stockage/packages/f26/gnome-video-effects/po/ca.po | 
- | [ca@valencia]({{< ref "/f26/language/ca@valencia.md" >}}) | 256 | 256 | 100.0 | /mnt/stockage/packages/f26/gnome-video-effects/po/ca@valencia.po | 
- | [cs]({{< ref "/f26/language/cs.md" >}}) | 256 | 256 | 100.0 | /mnt/stockage/packages/f26/gnome-video-effects/po/cs.po | 
- | [da]({{< ref "/f26/language/da.md" >}}) | 256 | 256 | 100.0 | /mnt/stockage/packages/f26/gnome-video-effects/po/da.po | 
- | [de]({{< ref "/f26/language/de.md" >}}) | 256 | 256 | 100.0 | /mnt/stockage/packages/f26/gnome-video-effects/po/de.po | 
- | [el]({{< ref "/f26/language/el.md" >}}) | 256 | 256 | 100.0 | /mnt/stockage/packages/f26/gnome-video-effects/po/el.po | 
- | [en_GB]({{< ref "/f26/language/en_GB.md" >}}) | 256 | 256 | 100.0 | /mnt/stockage/packages/f26/gnome-video-effects/po/en_GB.po | 
- | [es]({{< ref "/f26/language/es.md" >}}) | 256 | 256 | 100.0 | /mnt/stockage/packages/f26/gnome-video-effects/po/es.po | 
- | [et]({{< ref "/f26/language/et.md" >}}) | 256 | 256 | 100.0 | /mnt/stockage/packages/f26/gnome-video-effects/po/et.po | 
- | [eu]({{< ref "/f26/language/eu.md" >}}) | 256 | 256 | 100.0 | /mnt/stockage/packages/f26/gnome-video-effects/po/eu.po | 
- | [fa]({{< ref "/f26/language/fa.md" >}}) | 256 | 256 | 100.0 | /mnt/stockage/packages/f26/gnome-video-effects/po/fa.po | 
- | [fi]({{< ref "/f26/language/fi.md" >}}) | 256 | 256 | 100.0 | /mnt/stockage/packages/f26/gnome-video-effects/po/fi.po | 
- | [fr]({{< ref "/f26/language/fr.md" >}}) | 256 | 256 | 100.0 | /mnt/stockage/packages/f26/gnome-video-effects/po/fr.po | 
- | [fur]({{< ref "/f26/language/fur.md" >}}) | 256 | 256 | 100.0 | /mnt/stockage/packages/f26/gnome-video-effects/po/fur.po | 
- | [gl]({{< ref "/f26/language/gl.md" >}}) | 256 | 256 | 100.0 | /mnt/stockage/packages/f26/gnome-video-effects/po/gl.po | 
- | [he]({{< ref "/f26/language/he.md" >}}) | 256 | 256 | 100.0 | /mnt/stockage/packages/f26/gnome-video-effects/po/he.po | 
- | [hi]({{< ref "/f26/language/hi.md" >}}) | 256 | 256 | 100.0 | /mnt/stockage/packages/f26/gnome-video-effects/po/hi.po | 
- | [hu]({{< ref "/f26/language/hu.md" >}}) | 256 | 256 | 100.0 | /mnt/stockage/packages/f26/gnome-video-effects/po/hu.po | 
- | [id]({{< ref "/f26/language/id.md" >}}) | 256 | 256 | 100.0 | /mnt/stockage/packages/f26/gnome-video-effects/po/id.po | 
- | [it]({{< ref "/f26/language/it.md" >}}) | 256 | 256 | 100.0 | /mnt/stockage/packages/f26/gnome-video-effects/po/it.po | 
- | [ja]({{< ref "/f26/language/ja.md" >}}) | 256 | 256 | 100.0 | /mnt/stockage/packages/f26/gnome-video-effects/po/ja.po | 
- | [km]({{< ref "/f26/language/km.md" >}}) | 246 | 246 | 100.0 | /mnt/stockage/packages/f26/gnome-video-effects/po/km.po | 
- | [ko]({{< ref "/f26/language/ko.md" >}}) | 256 | 256 | 100.0 | /mnt/stockage/packages/f26/gnome-video-effects/po/ko.po | 
- | [lt]({{< ref "/f26/language/lt.md" >}}) | 256 | 256 | 100.0 | /mnt/stockage/packages/f26/gnome-video-effects/po/lt.po | 
- | [lv]({{< ref "/f26/language/lv.md" >}}) | 256 | 256 | 100.0 | /mnt/stockage/packages/f26/gnome-video-effects/po/lv.po | 
- | [ml]({{< ref "/f26/language/ml.md" >}}) | 256 | 256 | 100.0 | /mnt/stockage/packages/f26/gnome-video-effects/po/ml.po | 
- | [nb_NO]({{< ref "/f26/language/nb_NO.md" >}}) | 256 | 256 | 100.0 | /mnt/stockage/packages/f26/gnome-video-effects/po/nb.po | 
- | [nds]({{< ref "/f26/language/nds.md" >}}) | 26 | 26 | 100.0 | /mnt/stockage/packages/f26/gnome-video-effects/po/nds.po | 
- | [nl]({{< ref "/f26/language/nl.md" >}}) | 256 | 256 | 100.0 | /mnt/stockage/packages/f26/gnome-video-effects/po/nl.po | 
- | [oc]({{< ref "/f26/language/oc.md" >}}) | 256 | 256 | 100.0 | /mnt/stockage/packages/f26/gnome-video-effects/po/oc.po | 
- | [pa]({{< ref "/f26/language/pa.md" >}}) | 256 | 256 | 100.0 | /mnt/stockage/packages/f26/gnome-video-effects/po/pa.po | 
- | [pl]({{< ref "/f26/language/pl.md" >}}) | 256 | 256 | 100.0 | /mnt/stockage/packages/f26/gnome-video-effects/po/pl.po | 
- | [pt]({{< ref "/f26/language/pt.md" >}}) | 256 | 256 | 100.0 | /mnt/stockage/packages/f26/gnome-video-effects/po/pt.po | 
- | [pt_BR]({{< ref "/f26/language/pt_BR.md" >}}) | 256 | 256 | 100.0 | /mnt/stockage/packages/f26/gnome-video-effects/po/pt_BR.po | 
- | [ro]({{< ref "/f26/language/ro.md" >}}) | 256 | 256 | 100.0 | /mnt/stockage/packages/f26/gnome-video-effects/po/ro.po | 
- | [ru]({{< ref "/f26/language/ru.md" >}}) | 256 | 256 | 100.0 | /mnt/stockage/packages/f26/gnome-video-effects/po/ru.po | 
- | [sk]({{< ref "/f26/language/sk.md" >}}) | 256 | 256 | 100.0 | /mnt/stockage/packages/f26/gnome-video-effects/po/sk.po | 
- | [sl]({{< ref "/f26/language/sl.md" >}}) | 256 | 256 | 100.0 | /mnt/stockage/packages/f26/gnome-video-effects/po/sl.po | 
- | [sr]({{< ref "/f26/language/sr.md" >}}) | 256 | 256 | 100.0 | /mnt/stockage/packages/f26/gnome-video-effects/po/sr.po | 
- | [sr_Latn]({{< ref "/f26/language/sr_Latn.md" >}}) | 256 | 256 | 100.0 | /mnt/stockage/packages/f26/gnome-video-effects/po/sr@latin.po | 
- | [sv]({{< ref "/f26/language/sv.md" >}}) | 256 | 256 | 100.0 | /mnt/stockage/packages/f26/gnome-video-effects/po/sv.po | 
- | [ta]({{< ref "/f26/language/ta.md" >}}) | 256 | 256 | 100.0 | /mnt/stockage/packages/f26/gnome-video-effects/po/ta.po | 
- | [te]({{< ref "/f26/language/te.md" >}}) | 256 | 256 | 100.0 | /mnt/stockage/packages/f26/gnome-video-effects/po/te.po | 
- | [th]({{< ref "/f26/language/th.md" >}}) | 256 | 256 | 100.0 | /mnt/stockage/packages/f26/gnome-video-effects/po/th.po | 
- | [tr]({{< ref "/f26/language/tr.md" >}}) | 256 | 256 | 100.0 | /mnt/stockage/packages/f26/gnome-video-effects/po/tr.po | 
- | [uk]({{< ref "/f26/language/uk.md" >}}) | 256 | 256 | 100.0 | /mnt/stockage/packages/f26/gnome-video-effects/po/uk.po | 
- | [vi]({{< ref "/f26/language/vi.md" >}}) | 256 | 256 | 100.0 | /mnt/stockage/packages/f26/gnome-video-effects/po/vi.po | 
- | [zh_Hans]({{< ref "/f26/language/zh_Hans.md" >}}) | 256 | 256 | 100.0 | /mnt/stockage/packages/f26/gnome-video-effects/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f26/language/zh_Hant.md" >}}) | 256 | 256 | 100.0 | /mnt/stockage/packages/f26/gnome-video-effects/po/zh_TW.po | 
- | [zh_Hant_HK]({{< ref "/f26/language/zh_Hant_HK.md" >}}) | 256 | 256 | 100.0 | /mnt/stockage/packages/f26/gnome-video-effects/po/zh_HK.po | 
- | [af]({{< ref "/f26/language/af.md" >}}) | 229 | 246 | 93.1 | /mnt/stockage/packages/f26/gnome-video-effects/po/af.po | 
- | [eo]({{< ref "/f26/language/eo.md" >}}) | 201 | 246 | 81.7 | /mnt/stockage/packages/f26/gnome-video-effects/po/eo.po | 
- | [ar]({{< ref "/f26/language/ar.md" >}}) | 11 | 26 | 42.3 | /mnt/stockage/packages/f26/gnome-video-effects/po/ar.po | 
- | [ast]({{< ref "/f26/language/ast.md" >}}) | 11 | 26 | 42.3 | /mnt/stockage/packages/f26/gnome-video-effects/po/ast.po | 
- | [be_Latn]({{< ref "/f26/language/be_Latn.md" >}}) | 11 | 26 | 42.3 | /mnt/stockage/packages/f26/gnome-video-effects/po/be@latin.po | 
- | [bn]({{< ref "/f26/language/bn.md" >}}) | 11 | 26 | 42.3 | /mnt/stockage/packages/f26/gnome-video-effects/po/bn.po | 
- | [bn_IN]({{< ref "/f26/language/bn_IN.md" >}}) | 11 | 26 | 42.3 | /mnt/stockage/packages/f26/gnome-video-effects/po/bn_IN.po | 
- | [dz]({{< ref "/f26/language/dz.md" >}}) | 11 | 26 | 42.3 | /mnt/stockage/packages/f26/gnome-video-effects/po/dz.po | 
- | [error]({{< ref "/f26/language/error.md" >}}) | 11 | 26 | 42.3 | /mnt/stockage/packages/f26/gnome-video-effects/po/en@shaw.po | 
- | [gu]({{< ref "/f26/language/gu.md" >}}) | 11 | 26 | 42.3 | /mnt/stockage/packages/f26/gnome-video-effects/po/gu.po | 
- | [ka]({{< ref "/f26/language/ka.md" >}}) | 11 | 26 | 42.3 | /mnt/stockage/packages/f26/gnome-video-effects/po/ka.po | 
- | [kn]({{< ref "/f26/language/kn.md" >}}) | 11 | 26 | 42.3 | /mnt/stockage/packages/f26/gnome-video-effects/po/kn.po | 
- | [ku]({{< ref "/f26/language/ku.md" >}}) | 11 | 26 | 42.3 | /mnt/stockage/packages/f26/gnome-video-effects/po/ku.po | 
- | [mk]({{< ref "/f26/language/mk.md" >}}) | 11 | 26 | 42.3 | /mnt/stockage/packages/f26/gnome-video-effects/po/mk.po | 
- | [mr]({{< ref "/f26/language/mr.md" >}}) | 11 | 26 | 42.3 | /mnt/stockage/packages/f26/gnome-video-effects/po/mr.po | 
- | [nn]({{< ref "/f26/language/nn.md" >}}) | 11 | 26 | 42.3 | /mnt/stockage/packages/f26/gnome-video-effects/po/nn.po | 
- | [or]({{< ref "/f26/language/or.md" >}}) | 11 | 26 | 42.3 | /mnt/stockage/packages/f26/gnome-video-effects/po/or.po | 
- | [sq]({{< ref "/f26/language/sq.md" >}}) | 11 | 26 | 42.3 | /mnt/stockage/packages/f26/gnome-video-effects/po/sq.po | 
- | [ms]({{< ref "/f26/language/ms.md" >}}) | 8 | 26 | 30.8 | /mnt/stockage/packages/f26/gnome-video-effects/po/ms.po | 
- | [ps]({{< ref "/f26/language/ps.md" >}}) | 8 | 26 | 30.8 | /mnt/stockage/packages/f26/gnome-video-effects/po/ps.po | 
- | [ga]({{< ref "/f26/language/ga.md" >}}) | 46 | 256 | 18.0 | /mnt/stockage/packages/f26/gnome-video-effects/po/ga.po | 
- | [mai]({{< ref "/f26/language/mai.md" >}}) | 4 | 26 | 15.4 | /mnt/stockage/packages/f26/gnome-video-effects/po/mai.po | 
- | [hr]({{< ref "/f26/language/hr.md" >}}) | 39 | 256 | 15.2 | /mnt/stockage/packages/f26/gnome-video-effects/po/hr.po | 
- | [ug]({{< ref "/f26/language/ug.md" >}}) | 28 | 256 | 10.9 | /mnt/stockage/packages/f26/gnome-video-effects/po/ug.po | 
- | [tg]({{< ref "/f26/language/tg.md" >}}) | 11 | 256 | 4.3 | /mnt/stockage/packages/f26/gnome-video-effects/po/tg.po | 
+ | [as](/f26/language/as) | 256 | 256 | 100.0 | /mnt/stockage/packages/f26/gnome-video-effects/po/as.po | 
+ | [be](/f26/language/be) | 256 | 256 | 100.0 | /mnt/stockage/packages/f26/gnome-video-effects/po/be.po | 
+ | [bg](/f26/language/bg) | 256 | 256 | 100.0 | /mnt/stockage/packages/f26/gnome-video-effects/po/bg.po | 
+ | [bs](/f26/language/bs) | 256 | 256 | 100.0 | /mnt/stockage/packages/f26/gnome-video-effects/po/bs.po | 
+ | [ca](/f26/language/ca) | 256 | 256 | 100.0 | /mnt/stockage/packages/f26/gnome-video-effects/po/ca.po | 
+ | [ca@valencia](/f26/language/ca@valencia) | 256 | 256 | 100.0 | /mnt/stockage/packages/f26/gnome-video-effects/po/ca@valencia.po | 
+ | [cs](/f26/language/cs) | 256 | 256 | 100.0 | /mnt/stockage/packages/f26/gnome-video-effects/po/cs.po | 
+ | [da](/f26/language/da) | 256 | 256 | 100.0 | /mnt/stockage/packages/f26/gnome-video-effects/po/da.po | 
+ | [de](/f26/language/de) | 256 | 256 | 100.0 | /mnt/stockage/packages/f26/gnome-video-effects/po/de.po | 
+ | [el](/f26/language/el) | 256 | 256 | 100.0 | /mnt/stockage/packages/f26/gnome-video-effects/po/el.po | 
+ | [en_GB](/f26/language/en_GB) | 256 | 256 | 100.0 | /mnt/stockage/packages/f26/gnome-video-effects/po/en_GB.po | 
+ | [es](/f26/language/es) | 256 | 256 | 100.0 | /mnt/stockage/packages/f26/gnome-video-effects/po/es.po | 
+ | [et](/f26/language/et) | 256 | 256 | 100.0 | /mnt/stockage/packages/f26/gnome-video-effects/po/et.po | 
+ | [eu](/f26/language/eu) | 256 | 256 | 100.0 | /mnt/stockage/packages/f26/gnome-video-effects/po/eu.po | 
+ | [fa](/f26/language/fa) | 256 | 256 | 100.0 | /mnt/stockage/packages/f26/gnome-video-effects/po/fa.po | 
+ | [fi](/f26/language/fi) | 256 | 256 | 100.0 | /mnt/stockage/packages/f26/gnome-video-effects/po/fi.po | 
+ | [fr](/f26/language/fr) | 256 | 256 | 100.0 | /mnt/stockage/packages/f26/gnome-video-effects/po/fr.po | 
+ | [fur](/f26/language/fur) | 256 | 256 | 100.0 | /mnt/stockage/packages/f26/gnome-video-effects/po/fur.po | 
+ | [gl](/f26/language/gl) | 256 | 256 | 100.0 | /mnt/stockage/packages/f26/gnome-video-effects/po/gl.po | 
+ | [he](/f26/language/he) | 256 | 256 | 100.0 | /mnt/stockage/packages/f26/gnome-video-effects/po/he.po | 
+ | [hi](/f26/language/hi) | 256 | 256 | 100.0 | /mnt/stockage/packages/f26/gnome-video-effects/po/hi.po | 
+ | [hu](/f26/language/hu) | 256 | 256 | 100.0 | /mnt/stockage/packages/f26/gnome-video-effects/po/hu.po | 
+ | [id](/f26/language/id) | 256 | 256 | 100.0 | /mnt/stockage/packages/f26/gnome-video-effects/po/id.po | 
+ | [it](/f26/language/it) | 256 | 256 | 100.0 | /mnt/stockage/packages/f26/gnome-video-effects/po/it.po | 
+ | [ja](/f26/language/ja) | 256 | 256 | 100.0 | /mnt/stockage/packages/f26/gnome-video-effects/po/ja.po | 
+ | [km](/f26/language/km) | 246 | 246 | 100.0 | /mnt/stockage/packages/f26/gnome-video-effects/po/km.po | 
+ | [ko](/f26/language/ko) | 256 | 256 | 100.0 | /mnt/stockage/packages/f26/gnome-video-effects/po/ko.po | 
+ | [lt](/f26/language/lt) | 256 | 256 | 100.0 | /mnt/stockage/packages/f26/gnome-video-effects/po/lt.po | 
+ | [lv](/f26/language/lv) | 256 | 256 | 100.0 | /mnt/stockage/packages/f26/gnome-video-effects/po/lv.po | 
+ | [ml](/f26/language/ml) | 256 | 256 | 100.0 | /mnt/stockage/packages/f26/gnome-video-effects/po/ml.po | 
+ | [nb_NO](/f26/language/nb_NO) | 256 | 256 | 100.0 | /mnt/stockage/packages/f26/gnome-video-effects/po/nb.po | 
+ | [nds](/f26/language/nds) | 26 | 26 | 100.0 | /mnt/stockage/packages/f26/gnome-video-effects/po/nds.po | 
+ | [nl](/f26/language/nl) | 256 | 256 | 100.0 | /mnt/stockage/packages/f26/gnome-video-effects/po/nl.po | 
+ | [oc](/f26/language/oc) | 256 | 256 | 100.0 | /mnt/stockage/packages/f26/gnome-video-effects/po/oc.po | 
+ | [pa](/f26/language/pa) | 256 | 256 | 100.0 | /mnt/stockage/packages/f26/gnome-video-effects/po/pa.po | 
+ | [pl](/f26/language/pl) | 256 | 256 | 100.0 | /mnt/stockage/packages/f26/gnome-video-effects/po/pl.po | 
+ | [pt](/f26/language/pt) | 256 | 256 | 100.0 | /mnt/stockage/packages/f26/gnome-video-effects/po/pt.po | 
+ | [pt_BR](/f26/language/pt_BR) | 256 | 256 | 100.0 | /mnt/stockage/packages/f26/gnome-video-effects/po/pt_BR.po | 
+ | [ro](/f26/language/ro) | 256 | 256 | 100.0 | /mnt/stockage/packages/f26/gnome-video-effects/po/ro.po | 
+ | [ru](/f26/language/ru) | 256 | 256 | 100.0 | /mnt/stockage/packages/f26/gnome-video-effects/po/ru.po | 
+ | [sk](/f26/language/sk) | 256 | 256 | 100.0 | /mnt/stockage/packages/f26/gnome-video-effects/po/sk.po | 
+ | [sl](/f26/language/sl) | 256 | 256 | 100.0 | /mnt/stockage/packages/f26/gnome-video-effects/po/sl.po | 
+ | [sr](/f26/language/sr) | 256 | 256 | 100.0 | /mnt/stockage/packages/f26/gnome-video-effects/po/sr.po | 
+ | [sr_Latn](/f26/language/sr_Latn) | 256 | 256 | 100.0 | /mnt/stockage/packages/f26/gnome-video-effects/po/sr@latin.po | 
+ | [sv](/f26/language/sv) | 256 | 256 | 100.0 | /mnt/stockage/packages/f26/gnome-video-effects/po/sv.po | 
+ | [ta](/f26/language/ta) | 256 | 256 | 100.0 | /mnt/stockage/packages/f26/gnome-video-effects/po/ta.po | 
+ | [te](/f26/language/te) | 256 | 256 | 100.0 | /mnt/stockage/packages/f26/gnome-video-effects/po/te.po | 
+ | [th](/f26/language/th) | 256 | 256 | 100.0 | /mnt/stockage/packages/f26/gnome-video-effects/po/th.po | 
+ | [tr](/f26/language/tr) | 256 | 256 | 100.0 | /mnt/stockage/packages/f26/gnome-video-effects/po/tr.po | 
+ | [uk](/f26/language/uk) | 256 | 256 | 100.0 | /mnt/stockage/packages/f26/gnome-video-effects/po/uk.po | 
+ | [vi](/f26/language/vi) | 256 | 256 | 100.0 | /mnt/stockage/packages/f26/gnome-video-effects/po/vi.po | 
+ | [zh_Hans](/f26/language/zh_Hans) | 256 | 256 | 100.0 | /mnt/stockage/packages/f26/gnome-video-effects/po/zh_CN.po | 
+ | [zh_Hant](/f26/language/zh_Hant) | 256 | 256 | 100.0 | /mnt/stockage/packages/f26/gnome-video-effects/po/zh_TW.po | 
+ | [zh_Hant_HK](/f26/language/zh_Hant_HK) | 256 | 256 | 100.0 | /mnt/stockage/packages/f26/gnome-video-effects/po/zh_HK.po | 
+ | [af](/f26/language/af) | 229 | 246 | 93.1 | /mnt/stockage/packages/f26/gnome-video-effects/po/af.po | 
+ | [eo](/f26/language/eo) | 201 | 246 | 81.7 | /mnt/stockage/packages/f26/gnome-video-effects/po/eo.po | 
+ | [ar](/f26/language/ar) | 11 | 26 | 42.3 | /mnt/stockage/packages/f26/gnome-video-effects/po/ar.po | 
+ | [ast](/f26/language/ast) | 11 | 26 | 42.3 | /mnt/stockage/packages/f26/gnome-video-effects/po/ast.po | 
+ | [be_Latn](/f26/language/be_Latn) | 11 | 26 | 42.3 | /mnt/stockage/packages/f26/gnome-video-effects/po/be@latin.po | 
+ | [bn](/f26/language/bn) | 11 | 26 | 42.3 | /mnt/stockage/packages/f26/gnome-video-effects/po/bn.po | 
+ | [bn_IN](/f26/language/bn_IN) | 11 | 26 | 42.3 | /mnt/stockage/packages/f26/gnome-video-effects/po/bn_IN.po | 
+ | [dz](/f26/language/dz) | 11 | 26 | 42.3 | /mnt/stockage/packages/f26/gnome-video-effects/po/dz.po | 
+ | [error](/f26/language/error) | 11 | 26 | 42.3 | /mnt/stockage/packages/f26/gnome-video-effects/po/en@shaw.po | 
+ | [gu](/f26/language/gu) | 11 | 26 | 42.3 | /mnt/stockage/packages/f26/gnome-video-effects/po/gu.po | 
+ | [ka](/f26/language/ka) | 11 | 26 | 42.3 | /mnt/stockage/packages/f26/gnome-video-effects/po/ka.po | 
+ | [kn](/f26/language/kn) | 11 | 26 | 42.3 | /mnt/stockage/packages/f26/gnome-video-effects/po/kn.po | 
+ | [ku](/f26/language/ku) | 11 | 26 | 42.3 | /mnt/stockage/packages/f26/gnome-video-effects/po/ku.po | 
+ | [mk](/f26/language/mk) | 11 | 26 | 42.3 | /mnt/stockage/packages/f26/gnome-video-effects/po/mk.po | 
+ | [mr](/f26/language/mr) | 11 | 26 | 42.3 | /mnt/stockage/packages/f26/gnome-video-effects/po/mr.po | 
+ | [nn](/f26/language/nn) | 11 | 26 | 42.3 | /mnt/stockage/packages/f26/gnome-video-effects/po/nn.po | 
+ | [or](/f26/language/or) | 11 | 26 | 42.3 | /mnt/stockage/packages/f26/gnome-video-effects/po/or.po | 
+ | [sq](/f26/language/sq) | 11 | 26 | 42.3 | /mnt/stockage/packages/f26/gnome-video-effects/po/sq.po | 
+ | [ms](/f26/language/ms) | 8 | 26 | 30.8 | /mnt/stockage/packages/f26/gnome-video-effects/po/ms.po | 
+ | [ps](/f26/language/ps) | 8 | 26 | 30.8 | /mnt/stockage/packages/f26/gnome-video-effects/po/ps.po | 
+ | [ga](/f26/language/ga) | 46 | 256 | 18.0 | /mnt/stockage/packages/f26/gnome-video-effects/po/ga.po | 
+ | [mai](/f26/language/mai) | 4 | 26 | 15.4 | /mnt/stockage/packages/f26/gnome-video-effects/po/mai.po | 
+ | [hr](/f26/language/hr) | 39 | 256 | 15.2 | /mnt/stockage/packages/f26/gnome-video-effects/po/hr.po | 
+ | [ug](/f26/language/ug) | 28 | 256 | 10.9 | /mnt/stockage/packages/f26/gnome-video-effects/po/ug.po | 
+ | [tg](/f26/language/tg) | 11 | 256 | 4.3 | /mnt/stockage/packages/f26/gnome-video-effects/po/tg.po | 
 {.sortable}
 
 

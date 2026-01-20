@@ -18,7 +18,7 @@ The package creox (version 0.2.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ru]({{< ref "/f13/language/ru.md" >}}) | 265 | 265 | 100.0 | /mnt/stockage/packages/f13/creox/po/ru.po | 
+ | [ru](/f13/language/ru) | 265 | 265 | 100.0 | /mnt/stockage/packages/f13/creox/po/ru.po | 
 {.sortable}
 
 

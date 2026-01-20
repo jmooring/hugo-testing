@@ -18,17 +18,17 @@ The package squeekboard (version 1.16.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f36/language/ca.md" >}}) | 13 | 13 | 100.0 | /mnt/stockage/packages/f36/squeekboard/po/ca.po | 
- | [de]({{< ref "/f36/language/de.md" >}}) | 2 | 2 | 100.0 | /mnt/stockage/packages/f36/squeekboard/po/de.po | 
- | [fa]({{< ref "/f36/language/fa.md" >}}) | 13 | 13 | 100.0 | /mnt/stockage/packages/f36/squeekboard/po/fa.po | 
- | [fi]({{< ref "/f36/language/fi.md" >}}) | 13 | 13 | 100.0 | /mnt/stockage/packages/f36/squeekboard/po/fi.po | 
- | [fur]({{< ref "/f36/language/fur.md" >}}) | 13 | 13 | 100.0 | /mnt/stockage/packages/f36/squeekboard/po/fur.po | 
- | [nl]({{< ref "/f36/language/nl.md" >}}) | 13 | 13 | 100.0 | /mnt/stockage/packages/f36/squeekboard/po/nl.po | 
- | [pt_BR]({{< ref "/f36/language/pt_BR.md" >}}) | 13 | 13 | 100.0 | /mnt/stockage/packages/f36/squeekboard/po/pt_BR.po | 
- | [ro]({{< ref "/f36/language/ro.md" >}}) | 13 | 13 | 100.0 | /mnt/stockage/packages/f36/squeekboard/po/ro.po | 
- | [sl]({{< ref "/f36/language/sl.md" >}}) | 13 | 13 | 100.0 | /mnt/stockage/packages/f36/squeekboard/po/sl.po | 
- | [sv]({{< ref "/f36/language/sv.md" >}}) | 13 | 13 | 100.0 | /mnt/stockage/packages/f36/squeekboard/po/sv.po | 
- | [uk]({{< ref "/f36/language/uk.md" >}}) | 13 | 13 | 100.0 | /mnt/stockage/packages/f36/squeekboard/po/uk.po | 
+ | [ca](/f36/language/ca) | 13 | 13 | 100.0 | /mnt/stockage/packages/f36/squeekboard/po/ca.po | 
+ | [de](/f36/language/de) | 2 | 2 | 100.0 | /mnt/stockage/packages/f36/squeekboard/po/de.po | 
+ | [fa](/f36/language/fa) | 13 | 13 | 100.0 | /mnt/stockage/packages/f36/squeekboard/po/fa.po | 
+ | [fi](/f36/language/fi) | 13 | 13 | 100.0 | /mnt/stockage/packages/f36/squeekboard/po/fi.po | 
+ | [fur](/f36/language/fur) | 13 | 13 | 100.0 | /mnt/stockage/packages/f36/squeekboard/po/fur.po | 
+ | [nl](/f36/language/nl) | 13 | 13 | 100.0 | /mnt/stockage/packages/f36/squeekboard/po/nl.po | 
+ | [pt_BR](/f36/language/pt_BR) | 13 | 13 | 100.0 | /mnt/stockage/packages/f36/squeekboard/po/pt_BR.po | 
+ | [ro](/f36/language/ro) | 13 | 13 | 100.0 | /mnt/stockage/packages/f36/squeekboard/po/ro.po | 
+ | [sl](/f36/language/sl) | 13 | 13 | 100.0 | /mnt/stockage/packages/f36/squeekboard/po/sl.po | 
+ | [sv](/f36/language/sv) | 13 | 13 | 100.0 | /mnt/stockage/packages/f36/squeekboard/po/sv.po | 
+ | [uk](/f36/language/uk) | 13 | 13 | 100.0 | /mnt/stockage/packages/f36/squeekboard/po/uk.po | 
 {.sortable}
 
 

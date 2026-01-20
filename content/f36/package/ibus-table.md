@@ -18,22 +18,22 @@ The package ibus-table (version 1.17.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f36/language/de.md" >}}) | 1109 | 1109 | 100.0 | /mnt/stockage/packages/f36/ibus-table/po/de.po | 
- | [uk]({{< ref "/f36/language/uk.md" >}}) | 1109 | 1109 | 100.0 | /mnt/stockage/packages/f36/ibus-table/po/uk.po | 
- | [es]({{< ref "/f36/language/es.md" >}}) | 1017 | 1109 | 91.7 | /mnt/stockage/packages/f36/ibus-table/po/es.po | 
- | [tr]({{< ref "/f36/language/tr.md" >}}) | 1017 | 1109 | 91.7 | /mnt/stockage/packages/f36/ibus-table/po/tr.po | 
- | [pt_BR]({{< ref "/f36/language/pt_BR.md" >}}) | 940 | 1109 | 84.8 | /mnt/stockage/packages/f36/ibus-table/po/pt_BR.po | 
- | [fr]({{< ref "/f36/language/fr.md" >}}) | 906 | 1109 | 81.7 | /mnt/stockage/packages/f36/ibus-table/po/fr.po | 
- | [zh_Hans]({{< ref "/f36/language/zh_Hans.md" >}}) | 864 | 1109 | 77.9 | /mnt/stockage/packages/f36/ibus-table/po/zh_CN.po | 
- | [ca]({{< ref "/f36/language/ca.md" >}}) | 781 | 1109 | 70.4 | /mnt/stockage/packages/f36/ibus-table/po/ca.po | 
- | [pt_PT]({{< ref "/f36/language/pt_PT.md" >}}) | 715 | 1109 | 64.5 | /mnt/stockage/packages/f36/ibus-table/po/pt_PT.po | 
- | [zh_Hant]({{< ref "/f36/language/zh_Hant.md" >}}) | 378 | 1109 | 34.1 | /mnt/stockage/packages/f36/ibus-table/po/zh_TW.po | 
- | [ka]({{< ref "/f36/language/ka.md" >}}) | 234 | 1109 | 21.1 | /mnt/stockage/packages/f36/ibus-table/po/ka.po | 
- | [cs]({{< ref "/f36/language/cs.md" >}}) | 175 | 1109 | 15.8 | /mnt/stockage/packages/f36/ibus-table/po/cs.po | 
- | [ja]({{< ref "/f36/language/ja.md" >}}) | 109 | 1109 | 9.8 | /mnt/stockage/packages/f36/ibus-table/po/ja.po | 
- | [zh_Hant_HK]({{< ref "/f36/language/zh_Hant_HK.md" >}}) | 36 | 1109 | 3.2 | /mnt/stockage/packages/f36/ibus-table/po/zh_HK.po | 
- | [fa]({{< ref "/f36/language/fa.md" >}}) | 18 | 1109 | 1.6 | /mnt/stockage/packages/f36/ibus-table/po/fa.po | 
- | [si]({{< ref "/f36/language/si.md" >}}) | 10 | 1109 | 0.9 | /mnt/stockage/packages/f36/ibus-table/po/si.po | 
+ | [de](/f36/language/de) | 1109 | 1109 | 100.0 | /mnt/stockage/packages/f36/ibus-table/po/de.po | 
+ | [uk](/f36/language/uk) | 1109 | 1109 | 100.0 | /mnt/stockage/packages/f36/ibus-table/po/uk.po | 
+ | [es](/f36/language/es) | 1017 | 1109 | 91.7 | /mnt/stockage/packages/f36/ibus-table/po/es.po | 
+ | [tr](/f36/language/tr) | 1017 | 1109 | 91.7 | /mnt/stockage/packages/f36/ibus-table/po/tr.po | 
+ | [pt_BR](/f36/language/pt_BR) | 940 | 1109 | 84.8 | /mnt/stockage/packages/f36/ibus-table/po/pt_BR.po | 
+ | [fr](/f36/language/fr) | 906 | 1109 | 81.7 | /mnt/stockage/packages/f36/ibus-table/po/fr.po | 
+ | [zh_Hans](/f36/language/zh_Hans) | 864 | 1109 | 77.9 | /mnt/stockage/packages/f36/ibus-table/po/zh_CN.po | 
+ | [ca](/f36/language/ca) | 781 | 1109 | 70.4 | /mnt/stockage/packages/f36/ibus-table/po/ca.po | 
+ | [pt_PT](/f36/language/pt_PT) | 715 | 1109 | 64.5 | /mnt/stockage/packages/f36/ibus-table/po/pt_PT.po | 
+ | [zh_Hant](/f36/language/zh_Hant) | 378 | 1109 | 34.1 | /mnt/stockage/packages/f36/ibus-table/po/zh_TW.po | 
+ | [ka](/f36/language/ka) | 234 | 1109 | 21.1 | /mnt/stockage/packages/f36/ibus-table/po/ka.po | 
+ | [cs](/f36/language/cs) | 175 | 1109 | 15.8 | /mnt/stockage/packages/f36/ibus-table/po/cs.po | 
+ | [ja](/f36/language/ja) | 109 | 1109 | 9.8 | /mnt/stockage/packages/f36/ibus-table/po/ja.po | 
+ | [zh_Hant_HK](/f36/language/zh_Hant_HK) | 36 | 1109 | 3.2 | /mnt/stockage/packages/f36/ibus-table/po/zh_HK.po | 
+ | [fa](/f36/language/fa) | 18 | 1109 | 1.6 | /mnt/stockage/packages/f36/ibus-table/po/fa.po | 
+ | [si](/f36/language/si) | 10 | 1109 | 0.9 | /mnt/stockage/packages/f36/ibus-table/po/si.po | 
 {.sortable}
 
 

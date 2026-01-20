@@ -18,24 +18,24 @@ The package cockpit-machines (version 308):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ja]({{< ref "/f38/language/ja.md" >}}) | 3095 | 3095 | 100.0 | /mnt/stockage/packages/f38/cockpit-machines/po/ja.po | 
- | [ka]({{< ref "/f38/language/ka.md" >}}) | 3095 | 3095 | 100.0 | /mnt/stockage/packages/f38/cockpit-machines/po/ka.po | 
- | [ko]({{< ref "/f38/language/ko.md" >}}) | 3095 | 3095 | 100.0 | /mnt/stockage/packages/f38/cockpit-machines/po/ko.po | 
- | [sv]({{< ref "/f38/language/sv.md" >}}) | 3095 | 3095 | 100.0 | /mnt/stockage/packages/f38/cockpit-machines/po/sv.po | 
- | [tr]({{< ref "/f38/language/tr.md" >}}) | 3095 | 3095 | 100.0 | /mnt/stockage/packages/f38/cockpit-machines/po/tr.po | 
- | [zh_Hans]({{< ref "/f38/language/zh_Hans.md" >}}) | 3095 | 3095 | 100.0 | /mnt/stockage/packages/f38/cockpit-machines/po/zh_CN.po | 
- | [es]({{< ref "/f38/language/es.md" >}}) | 3031 | 3095 | 97.9 | /mnt/stockage/packages/f38/cockpit-machines/po/es.po | 
- | [cs]({{< ref "/f38/language/cs.md" >}}) | 2960 | 3095 | 95.6 | /mnt/stockage/packages/f38/cockpit-machines/po/cs.po | 
- | [nl]({{< ref "/f38/language/nl.md" >}}) | 2960 | 3095 | 95.6 | /mnt/stockage/packages/f38/cockpit-machines/po/nl.po | 
- | [pl]({{< ref "/f38/language/pl.md" >}}) | 2960 | 3095 | 95.6 | /mnt/stockage/packages/f38/cockpit-machines/po/pl.po | 
- | [fi]({{< ref "/f38/language/fi.md" >}}) | 2917 | 3095 | 94.2 | /mnt/stockage/packages/f38/cockpit-machines/po/fi.po | 
- | [fr]({{< ref "/f38/language/fr.md" >}}) | 2879 | 3095 | 93.0 | /mnt/stockage/packages/f38/cockpit-machines/po/fr.po | 
- | [uk]({{< ref "/f38/language/uk.md" >}}) | 2879 | 3095 | 93.0 | /mnt/stockage/packages/f38/cockpit-machines/po/uk.po | 
- | [de]({{< ref "/f38/language/de.md" >}}) | 2113 | 3095 | 68.3 | /mnt/stockage/packages/f38/cockpit-machines/po/de.po | 
- | [he]({{< ref "/f38/language/he.md" >}}) | 1949 | 3095 | 63.0 | /mnt/stockage/packages/f38/cockpit-machines/po/he.po | 
- | [it]({{< ref "/f38/language/it.md" >}}) | 1680 | 3095 | 54.3 | /mnt/stockage/packages/f38/cockpit-machines/po/it.po | 
- | [ru]({{< ref "/f38/language/ru.md" >}}) | 1295 | 3095 | 41.8 | /mnt/stockage/packages/f38/cockpit-machines/po/ru.po | 
- | [nb_NO]({{< ref "/f38/language/nb_NO.md" >}}) | 1230 | 3095 | 39.7 | /mnt/stockage/packages/f38/cockpit-machines/po/nb_NO.po | 
+ | [ja](/f38/language/ja) | 3095 | 3095 | 100.0 | /mnt/stockage/packages/f38/cockpit-machines/po/ja.po | 
+ | [ka](/f38/language/ka) | 3095 | 3095 | 100.0 | /mnt/stockage/packages/f38/cockpit-machines/po/ka.po | 
+ | [ko](/f38/language/ko) | 3095 | 3095 | 100.0 | /mnt/stockage/packages/f38/cockpit-machines/po/ko.po | 
+ | [sv](/f38/language/sv) | 3095 | 3095 | 100.0 | /mnt/stockage/packages/f38/cockpit-machines/po/sv.po | 
+ | [tr](/f38/language/tr) | 3095 | 3095 | 100.0 | /mnt/stockage/packages/f38/cockpit-machines/po/tr.po | 
+ | [zh_Hans](/f38/language/zh_Hans) | 3095 | 3095 | 100.0 | /mnt/stockage/packages/f38/cockpit-machines/po/zh_CN.po | 
+ | [es](/f38/language/es) | 3031 | 3095 | 97.9 | /mnt/stockage/packages/f38/cockpit-machines/po/es.po | 
+ | [cs](/f38/language/cs) | 2960 | 3095 | 95.6 | /mnt/stockage/packages/f38/cockpit-machines/po/cs.po | 
+ | [nl](/f38/language/nl) | 2960 | 3095 | 95.6 | /mnt/stockage/packages/f38/cockpit-machines/po/nl.po | 
+ | [pl](/f38/language/pl) | 2960 | 3095 | 95.6 | /mnt/stockage/packages/f38/cockpit-machines/po/pl.po | 
+ | [fi](/f38/language/fi) | 2917 | 3095 | 94.2 | /mnt/stockage/packages/f38/cockpit-machines/po/fi.po | 
+ | [fr](/f38/language/fr) | 2879 | 3095 | 93.0 | /mnt/stockage/packages/f38/cockpit-machines/po/fr.po | 
+ | [uk](/f38/language/uk) | 2879 | 3095 | 93.0 | /mnt/stockage/packages/f38/cockpit-machines/po/uk.po | 
+ | [de](/f38/language/de) | 2113 | 3095 | 68.3 | /mnt/stockage/packages/f38/cockpit-machines/po/de.po | 
+ | [he](/f38/language/he) | 1949 | 3095 | 63.0 | /mnt/stockage/packages/f38/cockpit-machines/po/he.po | 
+ | [it](/f38/language/it) | 1680 | 3095 | 54.3 | /mnt/stockage/packages/f38/cockpit-machines/po/it.po | 
+ | [ru](/f38/language/ru) | 1295 | 3095 | 41.8 | /mnt/stockage/packages/f38/cockpit-machines/po/ru.po | 
+ | [nb_NO](/f38/language/nb_NO) | 1230 | 3095 | 39.7 | /mnt/stockage/packages/f38/cockpit-machines/po/nb_NO.po | 
 {.sortable}
 
 

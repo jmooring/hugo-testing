@@ -18,20 +18,20 @@ The package libgsasl (version 1.6.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [en]({{< ref "/f16/language/en.md" >}}) | 1112 | 1112 | 100.0 | /mnt/stockage/packages/f16/libgsasl/po/en@quot.po/mnt/stockage/packages/f16/libgsasl/po/en@boldquot.po | 
- | [fi]({{< ref "/f16/language/fi.md" >}}) | 495 | 556 | 89.0 | /mnt/stockage/packages/f16/libgsasl/po/fi.po | 
- | [ga]({{< ref "/f16/language/ga.md" >}}) | 495 | 556 | 89.0 | /mnt/stockage/packages/f16/libgsasl/po/ga.po | 
- | [id]({{< ref "/f16/language/id.md" >}}) | 495 | 556 | 89.0 | /mnt/stockage/packages/f16/libgsasl/po/id.po | 
- | [it]({{< ref "/f16/language/it.md" >}}) | 495 | 556 | 89.0 | /mnt/stockage/packages/f16/libgsasl/po/it.po | 
- | [nl]({{< ref "/f16/language/nl.md" >}}) | 495 | 556 | 89.0 | /mnt/stockage/packages/f16/libgsasl/po/nl.po | 
- | [pl]({{< ref "/f16/language/pl.md" >}}) | 495 | 556 | 89.0 | /mnt/stockage/packages/f16/libgsasl/po/pl.po | 
- | [sk]({{< ref "/f16/language/sk.md" >}}) | 495 | 556 | 89.0 | /mnt/stockage/packages/f16/libgsasl/po/sk.po | 
- | [sv]({{< ref "/f16/language/sv.md" >}}) | 495 | 556 | 89.0 | /mnt/stockage/packages/f16/libgsasl/po/sv.po | 
- | [vi]({{< ref "/f16/language/vi.md" >}}) | 495 | 556 | 89.0 | /mnt/stockage/packages/f16/libgsasl/po/vi.po | 
- | [zh_Hans]({{< ref "/f16/language/zh_Hans.md" >}}) | 495 | 556 | 89.0 | /mnt/stockage/packages/f16/libgsasl/po/zh_CN.po | 
- | [fr]({{< ref "/f16/language/fr.md" >}}) | 479 | 556 | 86.2 | /mnt/stockage/packages/f16/libgsasl/po/fr.po | 
- | [sr]({{< ref "/f16/language/sr.md" >}}) | 456 | 556 | 82.0 | /mnt/stockage/packages/f16/libgsasl/po/sr.po | 
- | [ro]({{< ref "/f16/language/ro.md" >}}) | 412 | 556 | 74.1 | /mnt/stockage/packages/f16/libgsasl/po/ro.po | 
+ | [en](/f16/language/en) | 1112 | 1112 | 100.0 | /mnt/stockage/packages/f16/libgsasl/po/en@quot.po/mnt/stockage/packages/f16/libgsasl/po/en@boldquot.po | 
+ | [fi](/f16/language/fi) | 495 | 556 | 89.0 | /mnt/stockage/packages/f16/libgsasl/po/fi.po | 
+ | [ga](/f16/language/ga) | 495 | 556 | 89.0 | /mnt/stockage/packages/f16/libgsasl/po/ga.po | 
+ | [id](/f16/language/id) | 495 | 556 | 89.0 | /mnt/stockage/packages/f16/libgsasl/po/id.po | 
+ | [it](/f16/language/it) | 495 | 556 | 89.0 | /mnt/stockage/packages/f16/libgsasl/po/it.po | 
+ | [nl](/f16/language/nl) | 495 | 556 | 89.0 | /mnt/stockage/packages/f16/libgsasl/po/nl.po | 
+ | [pl](/f16/language/pl) | 495 | 556 | 89.0 | /mnt/stockage/packages/f16/libgsasl/po/pl.po | 
+ | [sk](/f16/language/sk) | 495 | 556 | 89.0 | /mnt/stockage/packages/f16/libgsasl/po/sk.po | 
+ | [sv](/f16/language/sv) | 495 | 556 | 89.0 | /mnt/stockage/packages/f16/libgsasl/po/sv.po | 
+ | [vi](/f16/language/vi) | 495 | 556 | 89.0 | /mnt/stockage/packages/f16/libgsasl/po/vi.po | 
+ | [zh_Hans](/f16/language/zh_Hans) | 495 | 556 | 89.0 | /mnt/stockage/packages/f16/libgsasl/po/zh_CN.po | 
+ | [fr](/f16/language/fr) | 479 | 556 | 86.2 | /mnt/stockage/packages/f16/libgsasl/po/fr.po | 
+ | [sr](/f16/language/sr) | 456 | 556 | 82.0 | /mnt/stockage/packages/f16/libgsasl/po/sr.po | 
+ | [ro](/f16/language/ro) | 412 | 556 | 74.1 | /mnt/stockage/packages/f16/libgsasl/po/ro.po | 
 {.sortable}
 
 

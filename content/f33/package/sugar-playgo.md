@@ -18,37 +18,37 @@ The package sugar-playgo (version 6):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ach]({{< ref "/f33/language/ach.md" >}}) | 85 | 85 | 100.0 | /mnt/stockage/packages/f33/sugar-playgo/po/ach.po | 
- | [ar]({{< ref "/f33/language/ar.md" >}}) | 85 | 85 | 100.0 | /mnt/stockage/packages/f33/sugar-playgo/po/ar.po | 
- | [ayc]({{< ref "/f33/language/ayc.md" >}}) | 85 | 85 | 100.0 | /mnt/stockage/packages/f33/sugar-playgo/po/ayc.po | 
- | [da]({{< ref "/f33/language/da.md" >}}) | 85 | 85 | 100.0 | /mnt/stockage/packages/f33/sugar-playgo/po/da.po | 
- | [el]({{< ref "/f33/language/el.md" >}}) | 85 | 85 | 100.0 | /mnt/stockage/packages/f33/sugar-playgo/po/el.po | 
- | [en]({{< ref "/f33/language/en.md" >}}) | 85 | 85 | 100.0 | /mnt/stockage/packages/f33/sugar-playgo/po/en.po | 
- | [en_GB]({{< ref "/f33/language/en_GB.md" >}}) | 85 | 85 | 100.0 | /mnt/stockage/packages/f33/sugar-playgo/po/en_GB.po | 
- | [en_US]({{< ref "/f33/language/en_US.md" >}}) | 85 | 85 | 100.0 | /mnt/stockage/packages/f33/sugar-playgo/po/en_US.po | 
- | [es]({{< ref "/f33/language/es.md" >}}) | 85 | 85 | 100.0 | /mnt/stockage/packages/f33/sugar-playgo/po/es.po | 
- | [fr]({{< ref "/f33/language/fr.md" >}}) | 85 | 85 | 100.0 | /mnt/stockage/packages/f33/sugar-playgo/po/fr.po | 
- | [gug]({{< ref "/f33/language/gug.md" >}}) | 85 | 85 | 100.0 | /mnt/stockage/packages/f33/sugar-playgo/po/gug.po | 
- | [he]({{< ref "/f33/language/he.md" >}}) | 85 | 85 | 100.0 | /mnt/stockage/packages/f33/sugar-playgo/po/he.po | 
- | [hi]({{< ref "/f33/language/hi.md" >}}) | 85 | 85 | 100.0 | /mnt/stockage/packages/f33/sugar-playgo/po/hi.po | 
- | [hy]({{< ref "/f33/language/hy.md" >}}) | 85 | 85 | 100.0 | /mnt/stockage/packages/f33/sugar-playgo/po/hy.po | 
- | [nl]({{< ref "/f33/language/nl.md" >}}) | 85 | 85 | 100.0 | /mnt/stockage/packages/f33/sugar-playgo/po/nl.po | 
- | [pt]({{< ref "/f33/language/pt.md" >}}) | 85 | 85 | 100.0 | /mnt/stockage/packages/f33/sugar-playgo/po/pt.po | 
- | [pt_BR]({{< ref "/f33/language/pt_BR.md" >}}) | 85 | 85 | 100.0 | /mnt/stockage/packages/f33/sugar-playgo/po/pt_BR.po | 
- | [sv]({{< ref "/f33/language/sv.md" >}}) | 85 | 85 | 100.0 | /mnt/stockage/packages/f33/sugar-playgo/po/sv.po | 
- | [uk]({{< ref "/f33/language/uk.md" >}}) | 85 | 85 | 100.0 | /mnt/stockage/packages/f33/sugar-playgo/po/uk.po | 
- | [zh_Hans]({{< ref "/f33/language/zh_Hans.md" >}}) | 85 | 85 | 100.0 | /mnt/stockage/packages/f33/sugar-playgo/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f33/language/zh_Hant.md" >}}) | 85 | 85 | 100.0 | /mnt/stockage/packages/f33/sugar-playgo/po/zh_TW.po | 
- | [sq]({{< ref "/f33/language/sq.md" >}}) | 78 | 85 | 91.8 | /mnt/stockage/packages/f33/sugar-playgo/po/sq.po | 
- | [it]({{< ref "/f33/language/it.md" >}}) | 73 | 85 | 85.9 | /mnt/stockage/packages/f33/sugar-playgo/po/it.po | 
- | [ja]({{< ref "/f33/language/ja.md" >}}) | 73 | 85 | 85.9 | /mnt/stockage/packages/f33/sugar-playgo/po/ja.po | 
- | [tr]({{< ref "/f33/language/tr.md" >}}) | 73 | 85 | 85.9 | /mnt/stockage/packages/f33/sugar-playgo/po/tr.po | 
- | [vi]({{< ref "/f33/language/vi.md" >}}) | 73 | 85 | 85.9 | /mnt/stockage/packages/f33/sugar-playgo/po/vi.po | 
- | [pl]({{< ref "/f33/language/pl.md" >}}) | 62 | 85 | 72.9 | /mnt/stockage/packages/f33/sugar-playgo/po/pl.po | 
- | [si]({{< ref "/f33/language/si.md" >}}) | 45 | 85 | 52.9 | /mnt/stockage/packages/f33/sugar-playgo/po/si.po | 
- | [de]({{< ref "/f33/language/de.md" >}}) | 34 | 85 | 40.0 | /mnt/stockage/packages/f33/sugar-playgo/po/de.po | 
- | [mn]({{< ref "/f33/language/mn.md" >}}) | 30 | 85 | 35.3 | /mnt/stockage/packages/f33/sugar-playgo/po/mn.po | 
- | [lt]({{< ref "/f33/language/lt.md" >}}) | 7 | 85 | 8.2 | /mnt/stockage/packages/f33/sugar-playgo/po/lt.po | 
+ | [ach](/f33/language/ach) | 85 | 85 | 100.0 | /mnt/stockage/packages/f33/sugar-playgo/po/ach.po | 
+ | [ar](/f33/language/ar) | 85 | 85 | 100.0 | /mnt/stockage/packages/f33/sugar-playgo/po/ar.po | 
+ | [ayc](/f33/language/ayc) | 85 | 85 | 100.0 | /mnt/stockage/packages/f33/sugar-playgo/po/ayc.po | 
+ | [da](/f33/language/da) | 85 | 85 | 100.0 | /mnt/stockage/packages/f33/sugar-playgo/po/da.po | 
+ | [el](/f33/language/el) | 85 | 85 | 100.0 | /mnt/stockage/packages/f33/sugar-playgo/po/el.po | 
+ | [en](/f33/language/en) | 85 | 85 | 100.0 | /mnt/stockage/packages/f33/sugar-playgo/po/en.po | 
+ | [en_GB](/f33/language/en_GB) | 85 | 85 | 100.0 | /mnt/stockage/packages/f33/sugar-playgo/po/en_GB.po | 
+ | [en_US](/f33/language/en_US) | 85 | 85 | 100.0 | /mnt/stockage/packages/f33/sugar-playgo/po/en_US.po | 
+ | [es](/f33/language/es) | 85 | 85 | 100.0 | /mnt/stockage/packages/f33/sugar-playgo/po/es.po | 
+ | [fr](/f33/language/fr) | 85 | 85 | 100.0 | /mnt/stockage/packages/f33/sugar-playgo/po/fr.po | 
+ | [gug](/f33/language/gug) | 85 | 85 | 100.0 | /mnt/stockage/packages/f33/sugar-playgo/po/gug.po | 
+ | [he](/f33/language/he) | 85 | 85 | 100.0 | /mnt/stockage/packages/f33/sugar-playgo/po/he.po | 
+ | [hi](/f33/language/hi) | 85 | 85 | 100.0 | /mnt/stockage/packages/f33/sugar-playgo/po/hi.po | 
+ | [hy](/f33/language/hy) | 85 | 85 | 100.0 | /mnt/stockage/packages/f33/sugar-playgo/po/hy.po | 
+ | [nl](/f33/language/nl) | 85 | 85 | 100.0 | /mnt/stockage/packages/f33/sugar-playgo/po/nl.po | 
+ | [pt](/f33/language/pt) | 85 | 85 | 100.0 | /mnt/stockage/packages/f33/sugar-playgo/po/pt.po | 
+ | [pt_BR](/f33/language/pt_BR) | 85 | 85 | 100.0 | /mnt/stockage/packages/f33/sugar-playgo/po/pt_BR.po | 
+ | [sv](/f33/language/sv) | 85 | 85 | 100.0 | /mnt/stockage/packages/f33/sugar-playgo/po/sv.po | 
+ | [uk](/f33/language/uk) | 85 | 85 | 100.0 | /mnt/stockage/packages/f33/sugar-playgo/po/uk.po | 
+ | [zh_Hans](/f33/language/zh_Hans) | 85 | 85 | 100.0 | /mnt/stockage/packages/f33/sugar-playgo/po/zh_CN.po | 
+ | [zh_Hant](/f33/language/zh_Hant) | 85 | 85 | 100.0 | /mnt/stockage/packages/f33/sugar-playgo/po/zh_TW.po | 
+ | [sq](/f33/language/sq) | 78 | 85 | 91.8 | /mnt/stockage/packages/f33/sugar-playgo/po/sq.po | 
+ | [it](/f33/language/it) | 73 | 85 | 85.9 | /mnt/stockage/packages/f33/sugar-playgo/po/it.po | 
+ | [ja](/f33/language/ja) | 73 | 85 | 85.9 | /mnt/stockage/packages/f33/sugar-playgo/po/ja.po | 
+ | [tr](/f33/language/tr) | 73 | 85 | 85.9 | /mnt/stockage/packages/f33/sugar-playgo/po/tr.po | 
+ | [vi](/f33/language/vi) | 73 | 85 | 85.9 | /mnt/stockage/packages/f33/sugar-playgo/po/vi.po | 
+ | [pl](/f33/language/pl) | 62 | 85 | 72.9 | /mnt/stockage/packages/f33/sugar-playgo/po/pl.po | 
+ | [si](/f33/language/si) | 45 | 85 | 52.9 | /mnt/stockage/packages/f33/sugar-playgo/po/si.po | 
+ | [de](/f33/language/de) | 34 | 85 | 40.0 | /mnt/stockage/packages/f33/sugar-playgo/po/de.po | 
+ | [mn](/f33/language/mn) | 30 | 85 | 35.3 | /mnt/stockage/packages/f33/sugar-playgo/po/mn.po | 
+ | [lt](/f33/language/lt) | 7 | 85 | 8.2 | /mnt/stockage/packages/f33/sugar-playgo/po/lt.po | 
 {.sortable}
 
 

@@ -18,15 +18,15 @@ The package neon (version 0.30.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [pl]({{< ref "/f23/language/pl.md" >}}) | 662 | 688 | 96.2 | /mnt/stockage/packages/f23/neon/po/pl.po | 
- | [zh_Hans]({{< ref "/f23/language/zh_Hans.md" >}}) | 476 | 688 | 69.2 | /mnt/stockage/packages/f23/neon/po/zh_CN.po | 
- | [cs]({{< ref "/f23/language/cs.md" >}}) | 76 | 688 | 11.0 | /mnt/stockage/packages/f23/neon/po/cs.po | 
- | [de]({{< ref "/f23/language/de.md" >}}) | 76 | 688 | 11.0 | /mnt/stockage/packages/f23/neon/po/de.po | 
- | [nn]({{< ref "/f23/language/nn.md" >}}) | 76 | 688 | 11.0 | /mnt/stockage/packages/f23/neon/po/nn.po | 
- | [tr]({{< ref "/f23/language/tr.md" >}}) | 76 | 688 | 11.0 | /mnt/stockage/packages/f23/neon/po/tr.po | 
- | [ja]({{< ref "/f23/language/ja.md" >}}) | 32 | 688 | 4.7 | /mnt/stockage/packages/f23/neon/po/ja.po | 
- | [fr]({{< ref "/f23/language/fr.md" >}}) | 0 | 688 | 0.0 | /mnt/stockage/packages/f23/neon/po/fr.po | 
- | [ru]({{< ref "/f23/language/ru.md" >}}) | 0 | 688 | 0.0 | /mnt/stockage/packages/f23/neon/po/ru.po | 
+ | [pl](/f23/language/pl) | 662 | 688 | 96.2 | /mnt/stockage/packages/f23/neon/po/pl.po | 
+ | [zh_Hans](/f23/language/zh_Hans) | 476 | 688 | 69.2 | /mnt/stockage/packages/f23/neon/po/zh_CN.po | 
+ | [cs](/f23/language/cs) | 76 | 688 | 11.0 | /mnt/stockage/packages/f23/neon/po/cs.po | 
+ | [de](/f23/language/de) | 76 | 688 | 11.0 | /mnt/stockage/packages/f23/neon/po/de.po | 
+ | [nn](/f23/language/nn) | 76 | 688 | 11.0 | /mnt/stockage/packages/f23/neon/po/nn.po | 
+ | [tr](/f23/language/tr) | 76 | 688 | 11.0 | /mnt/stockage/packages/f23/neon/po/tr.po | 
+ | [ja](/f23/language/ja) | 32 | 688 | 4.7 | /mnt/stockage/packages/f23/neon/po/ja.po | 
+ | [fr](/f23/language/fr) | 0 | 688 | 0.0 | /mnt/stockage/packages/f23/neon/po/fr.po | 
+ | [ru](/f23/language/ru) | 0 | 688 | 0.0 | /mnt/stockage/packages/f23/neon/po/ru.po | 
 {.sortable}
 
 

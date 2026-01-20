@@ -18,39 +18,39 @@ The package koko (version 23.08.5):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f39/language/ar.md" >}}) | 303 | 303 | 100.0 | /mnt/stockage/packages/f39/koko/po/ar/koko.po | 
- | [ca]({{< ref "/f39/language/ca.md" >}}) | 303 | 303 | 100.0 | /mnt/stockage/packages/f39/koko/po/ca/koko.po | 
- | [ca@valencia]({{< ref "/f39/language/ca@valencia.md" >}}) | 303 | 303 | 100.0 | /mnt/stockage/packages/f39/koko/po/ca@valencia/koko.po | 
- | [de]({{< ref "/f39/language/de.md" >}}) | 303 | 303 | 100.0 | /mnt/stockage/packages/f39/koko/po/de/koko.po | 
- | [en_GB]({{< ref "/f39/language/en_GB.md" >}}) | 303 | 303 | 100.0 | /mnt/stockage/packages/f39/koko/po/en_GB/koko.po | 
- | [es]({{< ref "/f39/language/es.md" >}}) | 303 | 303 | 100.0 | /mnt/stockage/packages/f39/koko/po/es/koko.po | 
- | [eu]({{< ref "/f39/language/eu.md" >}}) | 303 | 303 | 100.0 | /mnt/stockage/packages/f39/koko/po/eu/koko.po | 
- | [fi]({{< ref "/f39/language/fi.md" >}}) | 303 | 303 | 100.0 | /mnt/stockage/packages/f39/koko/po/fi/koko.po | 
- | [fr]({{< ref "/f39/language/fr.md" >}}) | 303 | 303 | 100.0 | /mnt/stockage/packages/f39/koko/po/fr/koko.po | 
- | [ia]({{< ref "/f39/language/ia.md" >}}) | 303 | 303 | 100.0 | /mnt/stockage/packages/f39/koko/po/ia/koko.po | 
- | [it]({{< ref "/f39/language/it.md" >}}) | 303 | 303 | 100.0 | /mnt/stockage/packages/f39/koko/po/it/koko.po | 
- | [ka]({{< ref "/f39/language/ka.md" >}}) | 303 | 303 | 100.0 | /mnt/stockage/packages/f39/koko/po/ka/koko.po | 
- | [ko]({{< ref "/f39/language/ko.md" >}}) | 303 | 303 | 100.0 | /mnt/stockage/packages/f39/koko/po/ko/koko.po | 
- | [nl]({{< ref "/f39/language/nl.md" >}}) | 303 | 303 | 100.0 | /mnt/stockage/packages/f39/koko/po/nl/koko.po | 
- | [pl]({{< ref "/f39/language/pl.md" >}}) | 303 | 303 | 100.0 | /mnt/stockage/packages/f39/koko/po/pl/koko.po | 
- | [pt]({{< ref "/f39/language/pt.md" >}}) | 303 | 303 | 100.0 | /mnt/stockage/packages/f39/koko/po/pt/koko.po | 
- | [pt_BR]({{< ref "/f39/language/pt_BR.md" >}}) | 303 | 303 | 100.0 | /mnt/stockage/packages/f39/koko/po/pt_BR/koko.po | 
- | [ru]({{< ref "/f39/language/ru.md" >}}) | 303 | 303 | 100.0 | /mnt/stockage/packages/f39/koko/po/ru/koko.po | 
- | [sl]({{< ref "/f39/language/sl.md" >}}) | 303 | 303 | 100.0 | /mnt/stockage/packages/f39/koko/po/sl/koko.po | 
- | [sv]({{< ref "/f39/language/sv.md" >}}) | 303 | 303 | 100.0 | /mnt/stockage/packages/f39/koko/po/sv/koko.po | 
- | [tr]({{< ref "/f39/language/tr.md" >}}) | 303 | 303 | 100.0 | /mnt/stockage/packages/f39/koko/po/tr/koko.po | 
- | [uk]({{< ref "/f39/language/uk.md" >}}) | 303 | 303 | 100.0 | /mnt/stockage/packages/f39/koko/po/uk/koko.po | 
- | [zh_Hans]({{< ref "/f39/language/zh_Hans.md" >}}) | 303 | 303 | 100.0 | /mnt/stockage/packages/f39/koko/po/zh_CN/koko.po | 
- | [el]({{< ref "/f39/language/el.md" >}}) | 283 | 303 | 93.4 | /mnt/stockage/packages/f39/koko/po/el/koko.po | 
- | [cs]({{< ref "/f39/language/cs.md" >}}) | 250 | 303 | 82.5 | /mnt/stockage/packages/f39/koko/po/cs/koko.po | 
- | [sk]({{< ref "/f39/language/sk.md" >}}) | 205 | 303 | 67.7 | /mnt/stockage/packages/f39/koko/po/sk/koko.po | 
- | [pa]({{< ref "/f39/language/pa.md" >}}) | 159 | 303 | 52.5 | /mnt/stockage/packages/f39/koko/po/pa/koko.po | 
- | [da]({{< ref "/f39/language/da.md" >}}) | 70 | 303 | 23.1 | /mnt/stockage/packages/f39/koko/po/da/koko.po | 
- | [nn]({{< ref "/f39/language/nn.md" >}}) | 70 | 303 | 23.1 | /mnt/stockage/packages/f39/koko/po/nn/koko.po | 
- | [bg]({{< ref "/f39/language/bg.md" >}}) | 0 | 303 | 0.0 | /mnt/stockage/packages/f39/koko/po/bg/koko.po | 
- | [ja]({{< ref "/f39/language/ja.md" >}}) | 0 | 303 | 0.0 | /mnt/stockage/packages/f39/koko/po/ja/koko.po | 
- | [lt]({{< ref "/f39/language/lt.md" >}}) | 0 | 303 | 0.0 | /mnt/stockage/packages/f39/koko/po/lt/koko.po | 
- | [zh_Hant]({{< ref "/f39/language/zh_Hant.md" >}}) | 0 | 303 | 0.0 | /mnt/stockage/packages/f39/koko/po/zh_TW/koko.po | 
+ | [ar](/f39/language/ar) | 303 | 303 | 100.0 | /mnt/stockage/packages/f39/koko/po/ar/koko.po | 
+ | [ca](/f39/language/ca) | 303 | 303 | 100.0 | /mnt/stockage/packages/f39/koko/po/ca/koko.po | 
+ | [ca@valencia](/f39/language/ca@valencia) | 303 | 303 | 100.0 | /mnt/stockage/packages/f39/koko/po/ca@valencia/koko.po | 
+ | [de](/f39/language/de) | 303 | 303 | 100.0 | /mnt/stockage/packages/f39/koko/po/de/koko.po | 
+ | [en_GB](/f39/language/en_GB) | 303 | 303 | 100.0 | /mnt/stockage/packages/f39/koko/po/en_GB/koko.po | 
+ | [es](/f39/language/es) | 303 | 303 | 100.0 | /mnt/stockage/packages/f39/koko/po/es/koko.po | 
+ | [eu](/f39/language/eu) | 303 | 303 | 100.0 | /mnt/stockage/packages/f39/koko/po/eu/koko.po | 
+ | [fi](/f39/language/fi) | 303 | 303 | 100.0 | /mnt/stockage/packages/f39/koko/po/fi/koko.po | 
+ | [fr](/f39/language/fr) | 303 | 303 | 100.0 | /mnt/stockage/packages/f39/koko/po/fr/koko.po | 
+ | [ia](/f39/language/ia) | 303 | 303 | 100.0 | /mnt/stockage/packages/f39/koko/po/ia/koko.po | 
+ | [it](/f39/language/it) | 303 | 303 | 100.0 | /mnt/stockage/packages/f39/koko/po/it/koko.po | 
+ | [ka](/f39/language/ka) | 303 | 303 | 100.0 | /mnt/stockage/packages/f39/koko/po/ka/koko.po | 
+ | [ko](/f39/language/ko) | 303 | 303 | 100.0 | /mnt/stockage/packages/f39/koko/po/ko/koko.po | 
+ | [nl](/f39/language/nl) | 303 | 303 | 100.0 | /mnt/stockage/packages/f39/koko/po/nl/koko.po | 
+ | [pl](/f39/language/pl) | 303 | 303 | 100.0 | /mnt/stockage/packages/f39/koko/po/pl/koko.po | 
+ | [pt](/f39/language/pt) | 303 | 303 | 100.0 | /mnt/stockage/packages/f39/koko/po/pt/koko.po | 
+ | [pt_BR](/f39/language/pt_BR) | 303 | 303 | 100.0 | /mnt/stockage/packages/f39/koko/po/pt_BR/koko.po | 
+ | [ru](/f39/language/ru) | 303 | 303 | 100.0 | /mnt/stockage/packages/f39/koko/po/ru/koko.po | 
+ | [sl](/f39/language/sl) | 303 | 303 | 100.0 | /mnt/stockage/packages/f39/koko/po/sl/koko.po | 
+ | [sv](/f39/language/sv) | 303 | 303 | 100.0 | /mnt/stockage/packages/f39/koko/po/sv/koko.po | 
+ | [tr](/f39/language/tr) | 303 | 303 | 100.0 | /mnt/stockage/packages/f39/koko/po/tr/koko.po | 
+ | [uk](/f39/language/uk) | 303 | 303 | 100.0 | /mnt/stockage/packages/f39/koko/po/uk/koko.po | 
+ | [zh_Hans](/f39/language/zh_Hans) | 303 | 303 | 100.0 | /mnt/stockage/packages/f39/koko/po/zh_CN/koko.po | 
+ | [el](/f39/language/el) | 283 | 303 | 93.4 | /mnt/stockage/packages/f39/koko/po/el/koko.po | 
+ | [cs](/f39/language/cs) | 250 | 303 | 82.5 | /mnt/stockage/packages/f39/koko/po/cs/koko.po | 
+ | [sk](/f39/language/sk) | 205 | 303 | 67.7 | /mnt/stockage/packages/f39/koko/po/sk/koko.po | 
+ | [pa](/f39/language/pa) | 159 | 303 | 52.5 | /mnt/stockage/packages/f39/koko/po/pa/koko.po | 
+ | [da](/f39/language/da) | 70 | 303 | 23.1 | /mnt/stockage/packages/f39/koko/po/da/koko.po | 
+ | [nn](/f39/language/nn) | 70 | 303 | 23.1 | /mnt/stockage/packages/f39/koko/po/nn/koko.po | 
+ | [bg](/f39/language/bg) | 0 | 303 | 0.0 | /mnt/stockage/packages/f39/koko/po/bg/koko.po | 
+ | [ja](/f39/language/ja) | 0 | 303 | 0.0 | /mnt/stockage/packages/f39/koko/po/ja/koko.po | 
+ | [lt](/f39/language/lt) | 0 | 303 | 0.0 | /mnt/stockage/packages/f39/koko/po/lt/koko.po | 
+ | [zh_Hant](/f39/language/zh_Hant) | 0 | 303 | 0.0 | /mnt/stockage/packages/f39/koko/po/zh_TW/koko.po | 
 {.sortable}
 
 

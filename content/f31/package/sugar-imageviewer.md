@@ -18,98 +18,98 @@ The package sugar-imageviewer (version 64):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ach]({{< ref "/f31/language/ach.md" >}}) | 58 | 58 | 100.0 | /mnt/stockage/packages/f31/sugar-imageviewer/po/ach.po | 
- | [an]({{< ref "/f31/language/an.md" >}}) | 58 | 58 | 100.0 | /mnt/stockage/packages/f31/sugar-imageviewer/po/an.po | 
- | [ayc]({{< ref "/f31/language/ayc.md" >}}) | 58 | 58 | 100.0 | /mnt/stockage/packages/f31/sugar-imageviewer/po/ayc.po | 
- | [ca]({{< ref "/f31/language/ca.md" >}}) | 58 | 58 | 100.0 | /mnt/stockage/packages/f31/sugar-imageviewer/po/ca.po | 
- | [da]({{< ref "/f31/language/da.md" >}}) | 58 | 58 | 100.0 | /mnt/stockage/packages/f31/sugar-imageviewer/po/da.po | 
- | [en]({{< ref "/f31/language/en.md" >}}) | 58 | 58 | 100.0 | /mnt/stockage/packages/f31/sugar-imageviewer/po/en.po | 
- | [en_GB]({{< ref "/f31/language/en_GB.md" >}}) | 58 | 58 | 100.0 | /mnt/stockage/packages/f31/sugar-imageviewer/po/en_GB.po | 
- | [en_US]({{< ref "/f31/language/en_US.md" >}}) | 51 | 51 | 100.0 | /mnt/stockage/packages/f31/sugar-imageviewer/po/en_US.po | 
- | [es]({{< ref "/f31/language/es.md" >}}) | 58 | 58 | 100.0 | /mnt/stockage/packages/f31/sugar-imageviewer/po/es.po | 
- | [fa]({{< ref "/f31/language/fa.md" >}}) | 58 | 58 | 100.0 | /mnt/stockage/packages/f31/sugar-imageviewer/po/fa.po | 
- | [fr]({{< ref "/f31/language/fr.md" >}}) | 58 | 58 | 100.0 | /mnt/stockage/packages/f31/sugar-imageviewer/po/fr.po | 
- | [fy]({{< ref "/f31/language/fy.md" >}}) | 58 | 58 | 100.0 | /mnt/stockage/packages/f31/sugar-imageviewer/po/fy.po | 
- | [gl]({{< ref "/f31/language/gl.md" >}}) | 58 | 58 | 100.0 | /mnt/stockage/packages/f31/sugar-imageviewer/po/gl.po | 
- | [gug]({{< ref "/f31/language/gug.md" >}}) | 58 | 58 | 100.0 | /mnt/stockage/packages/f31/sugar-imageviewer/po/gug.po | 
- | [he]({{< ref "/f31/language/he.md" >}}) | 58 | 58 | 100.0 | /mnt/stockage/packages/f31/sugar-imageviewer/po/he.po | 
- | [hi]({{< ref "/f31/language/hi.md" >}}) | 58 | 58 | 100.0 | /mnt/stockage/packages/f31/sugar-imageviewer/po/hi.po | 
- | [hr]({{< ref "/f31/language/hr.md" >}}) | 58 | 58 | 100.0 | /mnt/stockage/packages/f31/sugar-imageviewer/po/hr.po | 
- | [id]({{< ref "/f31/language/id.md" >}}) | 58 | 58 | 100.0 | /mnt/stockage/packages/f31/sugar-imageviewer/po/id.po | 
- | [is]({{< ref "/f31/language/is.md" >}}) | 58 | 58 | 100.0 | /mnt/stockage/packages/f31/sugar-imageviewer/po/is.po | 
- | [kab]({{< ref "/f31/language/kab.md" >}}) | 58 | 58 | 100.0 | /mnt/stockage/packages/f31/sugar-imageviewer/po/kab.po | 
- | [ms]({{< ref "/f31/language/ms.md" >}}) | 58 | 58 | 100.0 | /mnt/stockage/packages/f31/sugar-imageviewer/po/ms.po | 
- | [nl]({{< ref "/f31/language/nl.md" >}}) | 58 | 58 | 100.0 | /mnt/stockage/packages/f31/sugar-imageviewer/po/nl.po | 
- | [pl]({{< ref "/f31/language/pl.md" >}}) | 58 | 58 | 100.0 | /mnt/stockage/packages/f31/sugar-imageviewer/po/pl.po | 
- | [pt_BR]({{< ref "/f31/language/pt_BR.md" >}}) | 58 | 58 | 100.0 | /mnt/stockage/packages/f31/sugar-imageviewer/po/pt_BR.po | 
- | [ru]({{< ref "/f31/language/ru.md" >}}) | 58 | 58 | 100.0 | /mnt/stockage/packages/f31/sugar-imageviewer/po/ru.po | 
- | [sq]({{< ref "/f31/language/sq.md" >}}) | 58 | 58 | 100.0 | /mnt/stockage/packages/f31/sugar-imageviewer/po/sq.po | 
- | [sv]({{< ref "/f31/language/sv.md" >}}) | 58 | 58 | 100.0 | /mnt/stockage/packages/f31/sugar-imageviewer/po/sv.po | 
- | [uk]({{< ref "/f31/language/uk.md" >}}) | 58 | 58 | 100.0 | /mnt/stockage/packages/f31/sugar-imageviewer/po/uk.po | 
- | [yo]({{< ref "/f31/language/yo.md" >}}) | 58 | 58 | 100.0 | /mnt/stockage/packages/f31/sugar-imageviewer/po/yo.po | 
- | [zh_Hans]({{< ref "/f31/language/zh_Hans.md" >}}) | 58 | 58 | 100.0 | /mnt/stockage/packages/f31/sugar-imageviewer/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f31/language/zh_Hant.md" >}}) | 58 | 58 | 100.0 | /mnt/stockage/packages/f31/sugar-imageviewer/po/zh_TW.po | 
- | [lt]({{< ref "/f31/language/lt.md" >}}) | 48 | 58 | 82.8 | /mnt/stockage/packages/f31/sugar-imageviewer/po/lt.po | 
- | [ja]({{< ref "/f31/language/ja.md" >}}) | 31 | 58 | 53.4 | /mnt/stockage/packages/f31/sugar-imageviewer/po/ja.po | 
- | [ay]({{< ref "/f31/language/ay.md" >}}) | 24 | 51 | 47.1 | /mnt/stockage/packages/f31/sugar-imageviewer/po/aym.po | 
- | [prs]({{< ref "/f31/language/prs.md" >}}) | 18 | 51 | 35.3 | /mnt/stockage/packages/f31/sugar-imageviewer/po/fa_AF.po | 
- | [ar]({{< ref "/f31/language/ar.md" >}}) | 16 | 58 | 27.6 | /mnt/stockage/packages/f31/sugar-imageviewer/po/ar.po | 
- | [bn]({{< ref "/f31/language/bn.md" >}}) | 16 | 58 | 27.6 | /mnt/stockage/packages/f31/sugar-imageviewer/po/bn.po | 
- | [bn_IN]({{< ref "/f31/language/bn_IN.md" >}}) | 16 | 58 | 27.6 | /mnt/stockage/packages/f31/sugar-imageviewer/po/bn_IN.po | 
- | [cs]({{< ref "/f31/language/cs.md" >}}) | 16 | 58 | 27.6 | /mnt/stockage/packages/f31/sugar-imageviewer/po/cs.po | 
- | [de]({{< ref "/f31/language/de.md" >}}) | 16 | 58 | 27.6 | /mnt/stockage/packages/f31/sugar-imageviewer/po/de.po | 
- | [el]({{< ref "/f31/language/el.md" >}}) | 16 | 58 | 27.6 | /mnt/stockage/packages/f31/sugar-imageviewer/po/el.po | 
- | [hu]({{< ref "/f31/language/hu.md" >}}) | 16 | 58 | 27.6 | /mnt/stockage/packages/f31/sugar-imageviewer/po/hu.po | 
- | [hus]({{< ref "/f31/language/hus.md" >}}) | 16 | 58 | 27.6 | /mnt/stockage/packages/f31/sugar-imageviewer/po/hus.po | 
- | [hy]({{< ref "/f31/language/hy.md" >}}) | 16 | 58 | 27.6 | /mnt/stockage/packages/f31/sugar-imageviewer/po/hy.po | 
- | [it]({{< ref "/f31/language/it.md" >}}) | 16 | 58 | 27.6 | /mnt/stockage/packages/f31/sugar-imageviewer/po/it.po | 
- | [km]({{< ref "/f31/language/km.md" >}}) | 16 | 58 | 27.6 | /mnt/stockage/packages/f31/sugar-imageviewer/po/km.po | 
- | [ko]({{< ref "/f31/language/ko.md" >}}) | 16 | 58 | 27.6 | /mnt/stockage/packages/f31/sugar-imageviewer/po/ko.po | 
- | [mg]({{< ref "/f31/language/mg.md" >}}) | 16 | 58 | 27.6 | /mnt/stockage/packages/f31/sugar-imageviewer/po/mg.po | 
- | [mi]({{< ref "/f31/language/mi.md" >}}) | 16 | 58 | 27.6 | /mnt/stockage/packages/f31/sugar-imageviewer/po/mi.po | 
- | [mn]({{< ref "/f31/language/mn.md" >}}) | 16 | 58 | 27.6 | /mnt/stockage/packages/f31/sugar-imageviewer/po/mn.po | 
- | [ne]({{< ref "/f31/language/ne.md" >}}) | 16 | 58 | 27.6 | /mnt/stockage/packages/f31/sugar-imageviewer/po/ne.po | 
- | [pap]({{< ref "/f31/language/pap.md" >}}) | 16 | 58 | 27.6 | /mnt/stockage/packages/f31/sugar-imageviewer/po/pap.po | 
- | [ps]({{< ref "/f31/language/ps.md" >}}) | 16 | 58 | 27.6 | /mnt/stockage/packages/f31/sugar-imageviewer/po/ps.po | 
- | [pt]({{< ref "/f31/language/pt.md" >}}) | 16 | 58 | 27.6 | /mnt/stockage/packages/f31/sugar-imageviewer/po/pt.po | 
- | [qu]({{< ref "/f31/language/qu.md" >}}) | 16 | 58 | 27.6 | /mnt/stockage/packages/f31/sugar-imageviewer/po/quz.po | 
- | [si]({{< ref "/f31/language/si.md" >}}) | 16 | 58 | 27.6 | /mnt/stockage/packages/f31/sugar-imageviewer/po/si.po | 
- | [sl]({{< ref "/f31/language/sl.md" >}}) | 16 | 58 | 27.6 | /mnt/stockage/packages/f31/sugar-imageviewer/po/sl.po | 
- | [ta]({{< ref "/f31/language/ta.md" >}}) | 16 | 58 | 27.6 | /mnt/stockage/packages/f31/sugar-imageviewer/po/ta.po | 
- | [te]({{< ref "/f31/language/te.md" >}}) | 16 | 58 | 27.6 | /mnt/stockage/packages/f31/sugar-imageviewer/po/te.po | 
- | [th]({{< ref "/f31/language/th.md" >}}) | 16 | 58 | 27.6 | /mnt/stockage/packages/f31/sugar-imageviewer/po/th.po | 
- | [tr]({{< ref "/f31/language/tr.md" >}}) | 16 | 58 | 27.6 | /mnt/stockage/packages/f31/sugar-imageviewer/po/tr.po | 
- | [vi]({{< ref "/f31/language/vi.md" >}}) | 16 | 58 | 27.6 | /mnt/stockage/packages/f31/sugar-imageviewer/po/vi.po | 
- | [rw]({{< ref "/f31/language/rw.md" >}}) | 14 | 58 | 24.1 | /mnt/stockage/packages/f31/sugar-imageviewer/po/rw.po | 
- | [nb_NO]({{< ref "/f31/language/nb_NO.md" >}}) | 13 | 58 | 22.4 | /mnt/stockage/packages/f31/sugar-imageviewer/po/nb.po | 
- | [sw]({{< ref "/f31/language/sw.md" >}}) | 7 | 58 | 12.1 | /mnt/stockage/packages/f31/sugar-imageviewer/po/sw.po | 
- | [am]({{< ref "/f31/language/am.md" >}}) | 5 | 58 | 8.6 | /mnt/stockage/packages/f31/sugar-imageviewer/po/am.po | 
- | [af]({{< ref "/f31/language/af.md" >}}) | 4 | 58 | 6.9 | /mnt/stockage/packages/f31/sugar-imageviewer/po/af.po | 
- | [error]({{< ref "/f31/language/error.md" >}}) | 16 | 290 | 5.5 | /mnt/stockage/packages/f31/sugar-imageviewer/po/tzo.po/mnt/stockage/packages/f31/sugar-imageviewer/po/quy.po/mnt/stockage/packages/f31/sugar-imageviewer/po/pbs.po/mnt/stockage/packages/f31/sugar-imageviewer/po/mvo.po/mnt/stockage/packages/f31/sugar-imageviewer/po/agr.po | 
- | [mr]({{< ref "/f31/language/mr.md" >}}) | 2 | 58 | 3.4 | /mnt/stockage/packages/f31/sugar-imageviewer/po/mr.po | 
- | [bg]({{< ref "/f31/language/bg.md" >}}) | 0 | 51 | 0.0 | /mnt/stockage/packages/f31/sugar-imageviewer/po/bg.po | 
- | [bi]({{< ref "/f31/language/bi.md" >}}) | 0 | 51 | 0.0 | /mnt/stockage/packages/f31/sugar-imageviewer/po/bi.po | 
- | [br]({{< ref "/f31/language/br.md" >}}) | 0 | 51 | 0.0 | /mnt/stockage/packages/f31/sugar-imageviewer/po/br.po | 
- | [cpp]({{< ref "/f31/language/cpp.md" >}}) | 0 | 51 | 0.0 | /mnt/stockage/packages/f31/sugar-imageviewer/po/cpp.po | 
- | [dz]({{< ref "/f31/language/dz.md" >}}) | 0 | 51 | 0.0 | /mnt/stockage/packages/f31/sugar-imageviewer/po/dz.po | 
- | [ff]({{< ref "/f31/language/ff.md" >}}) | 0 | 58 | 0.0 | /mnt/stockage/packages/f31/sugar-imageviewer/po/ff.po | 
- | [fi]({{< ref "/f31/language/fi.md" >}}) | 0 | 58 | 0.0 | /mnt/stockage/packages/f31/sugar-imageviewer/po/fi.po | 
- | [fil]({{< ref "/f31/language/fil.md" >}}) | 0 | 58 | 0.0 | /mnt/stockage/packages/f31/sugar-imageviewer/po/fil.po | 
- | [gu]({{< ref "/f31/language/gu.md" >}}) | 0 | 51 | 0.0 | /mnt/stockage/packages/f31/sugar-imageviewer/po/gu.po | 
- | [ha]({{< ref "/f31/language/ha.md" >}}) | 0 | 58 | 0.0 | /mnt/stockage/packages/f31/sugar-imageviewer/po/ha.po | 
- | [ht]({{< ref "/f31/language/ht.md" >}}) | 0 | 58 | 0.0 | /mnt/stockage/packages/f31/sugar-imageviewer/po/ht.po | 
- | [ig]({{< ref "/f31/language/ig.md" >}}) | 0 | 109 | 0.0 | /mnt/stockage/packages/f31/sugar-imageviewer/po/ig.po/mnt/stockage/packages/f31/sugar-imageviewer/po/ibo.po | 
- | [kos]({{< ref "/f31/language/kos.md" >}}) | 0 | 51 | 0.0 | /mnt/stockage/packages/f31/sugar-imageviewer/po/kos.po | 
- | [mk]({{< ref "/f31/language/mk.md" >}}) | 0 | 51 | 0.0 | /mnt/stockage/packages/f31/sugar-imageviewer/po/mk.po | 
- | [ml]({{< ref "/f31/language/ml.md" >}}) | 0 | 58 | 0.0 | /mnt/stockage/packages/f31/sugar-imageviewer/po/ml.po | 
- | [pa]({{< ref "/f31/language/pa.md" >}}) | 0 | 58 | 0.0 | /mnt/stockage/packages/f31/sugar-imageviewer/po/pa.po | 
- | [ro]({{< ref "/f31/language/ro.md" >}}) | 0 | 58 | 0.0 | /mnt/stockage/packages/f31/sugar-imageviewer/po/ro.po | 
- | [sd]({{< ref "/f31/language/sd.md" >}}) | 0 | 58 | 0.0 | /mnt/stockage/packages/f31/sugar-imageviewer/po/sd.po | 
- | [sk]({{< ref "/f31/language/sk.md" >}}) | 0 | 58 | 0.0 | /mnt/stockage/packages/f31/sugar-imageviewer/po/sk.po | 
- | [tvl]({{< ref "/f31/language/tvl.md" >}}) | 0 | 51 | 0.0 | /mnt/stockage/packages/f31/sugar-imageviewer/po/tvl.po | 
- | [ug]({{< ref "/f31/language/ug.md" >}}) | 0 | 58 | 0.0 | /mnt/stockage/packages/f31/sugar-imageviewer/po/ug.po | 
- | [ur]({{< ref "/f31/language/ur.md" >}}) | 0 | 58 | 0.0 | /mnt/stockage/packages/f31/sugar-imageviewer/po/ur.po | 
- | [wa]({{< ref "/f31/language/wa.md" >}}) | 0 | 51 | 0.0 | /mnt/stockage/packages/f31/sugar-imageviewer/po/wa.po | 
+ | [ach](/f31/language/ach) | 58 | 58 | 100.0 | /mnt/stockage/packages/f31/sugar-imageviewer/po/ach.po | 
+ | [an](/f31/language/an) | 58 | 58 | 100.0 | /mnt/stockage/packages/f31/sugar-imageviewer/po/an.po | 
+ | [ayc](/f31/language/ayc) | 58 | 58 | 100.0 | /mnt/stockage/packages/f31/sugar-imageviewer/po/ayc.po | 
+ | [ca](/f31/language/ca) | 58 | 58 | 100.0 | /mnt/stockage/packages/f31/sugar-imageviewer/po/ca.po | 
+ | [da](/f31/language/da) | 58 | 58 | 100.0 | /mnt/stockage/packages/f31/sugar-imageviewer/po/da.po | 
+ | [en](/f31/language/en) | 58 | 58 | 100.0 | /mnt/stockage/packages/f31/sugar-imageviewer/po/en.po | 
+ | [en_GB](/f31/language/en_GB) | 58 | 58 | 100.0 | /mnt/stockage/packages/f31/sugar-imageviewer/po/en_GB.po | 
+ | [en_US](/f31/language/en_US) | 51 | 51 | 100.0 | /mnt/stockage/packages/f31/sugar-imageviewer/po/en_US.po | 
+ | [es](/f31/language/es) | 58 | 58 | 100.0 | /mnt/stockage/packages/f31/sugar-imageviewer/po/es.po | 
+ | [fa](/f31/language/fa) | 58 | 58 | 100.0 | /mnt/stockage/packages/f31/sugar-imageviewer/po/fa.po | 
+ | [fr](/f31/language/fr) | 58 | 58 | 100.0 | /mnt/stockage/packages/f31/sugar-imageviewer/po/fr.po | 
+ | [fy](/f31/language/fy) | 58 | 58 | 100.0 | /mnt/stockage/packages/f31/sugar-imageviewer/po/fy.po | 
+ | [gl](/f31/language/gl) | 58 | 58 | 100.0 | /mnt/stockage/packages/f31/sugar-imageviewer/po/gl.po | 
+ | [gug](/f31/language/gug) | 58 | 58 | 100.0 | /mnt/stockage/packages/f31/sugar-imageviewer/po/gug.po | 
+ | [he](/f31/language/he) | 58 | 58 | 100.0 | /mnt/stockage/packages/f31/sugar-imageviewer/po/he.po | 
+ | [hi](/f31/language/hi) | 58 | 58 | 100.0 | /mnt/stockage/packages/f31/sugar-imageviewer/po/hi.po | 
+ | [hr](/f31/language/hr) | 58 | 58 | 100.0 | /mnt/stockage/packages/f31/sugar-imageviewer/po/hr.po | 
+ | [id](/f31/language/id) | 58 | 58 | 100.0 | /mnt/stockage/packages/f31/sugar-imageviewer/po/id.po | 
+ | [is](/f31/language/is) | 58 | 58 | 100.0 | /mnt/stockage/packages/f31/sugar-imageviewer/po/is.po | 
+ | [kab](/f31/language/kab) | 58 | 58 | 100.0 | /mnt/stockage/packages/f31/sugar-imageviewer/po/kab.po | 
+ | [ms](/f31/language/ms) | 58 | 58 | 100.0 | /mnt/stockage/packages/f31/sugar-imageviewer/po/ms.po | 
+ | [nl](/f31/language/nl) | 58 | 58 | 100.0 | /mnt/stockage/packages/f31/sugar-imageviewer/po/nl.po | 
+ | [pl](/f31/language/pl) | 58 | 58 | 100.0 | /mnt/stockage/packages/f31/sugar-imageviewer/po/pl.po | 
+ | [pt_BR](/f31/language/pt_BR) | 58 | 58 | 100.0 | /mnt/stockage/packages/f31/sugar-imageviewer/po/pt_BR.po | 
+ | [ru](/f31/language/ru) | 58 | 58 | 100.0 | /mnt/stockage/packages/f31/sugar-imageviewer/po/ru.po | 
+ | [sq](/f31/language/sq) | 58 | 58 | 100.0 | /mnt/stockage/packages/f31/sugar-imageviewer/po/sq.po | 
+ | [sv](/f31/language/sv) | 58 | 58 | 100.0 | /mnt/stockage/packages/f31/sugar-imageviewer/po/sv.po | 
+ | [uk](/f31/language/uk) | 58 | 58 | 100.0 | /mnt/stockage/packages/f31/sugar-imageviewer/po/uk.po | 
+ | [yo](/f31/language/yo) | 58 | 58 | 100.0 | /mnt/stockage/packages/f31/sugar-imageviewer/po/yo.po | 
+ | [zh_Hans](/f31/language/zh_Hans) | 58 | 58 | 100.0 | /mnt/stockage/packages/f31/sugar-imageviewer/po/zh_CN.po | 
+ | [zh_Hant](/f31/language/zh_Hant) | 58 | 58 | 100.0 | /mnt/stockage/packages/f31/sugar-imageviewer/po/zh_TW.po | 
+ | [lt](/f31/language/lt) | 48 | 58 | 82.8 | /mnt/stockage/packages/f31/sugar-imageviewer/po/lt.po | 
+ | [ja](/f31/language/ja) | 31 | 58 | 53.4 | /mnt/stockage/packages/f31/sugar-imageviewer/po/ja.po | 
+ | [ay](/f31/language/ay) | 24 | 51 | 47.1 | /mnt/stockage/packages/f31/sugar-imageviewer/po/aym.po | 
+ | [prs](/f31/language/prs) | 18 | 51 | 35.3 | /mnt/stockage/packages/f31/sugar-imageviewer/po/fa_AF.po | 
+ | [ar](/f31/language/ar) | 16 | 58 | 27.6 | /mnt/stockage/packages/f31/sugar-imageviewer/po/ar.po | 
+ | [bn](/f31/language/bn) | 16 | 58 | 27.6 | /mnt/stockage/packages/f31/sugar-imageviewer/po/bn.po | 
+ | [bn_IN](/f31/language/bn_IN) | 16 | 58 | 27.6 | /mnt/stockage/packages/f31/sugar-imageviewer/po/bn_IN.po | 
+ | [cs](/f31/language/cs) | 16 | 58 | 27.6 | /mnt/stockage/packages/f31/sugar-imageviewer/po/cs.po | 
+ | [de](/f31/language/de) | 16 | 58 | 27.6 | /mnt/stockage/packages/f31/sugar-imageviewer/po/de.po | 
+ | [el](/f31/language/el) | 16 | 58 | 27.6 | /mnt/stockage/packages/f31/sugar-imageviewer/po/el.po | 
+ | [hu](/f31/language/hu) | 16 | 58 | 27.6 | /mnt/stockage/packages/f31/sugar-imageviewer/po/hu.po | 
+ | [hus](/f31/language/hus) | 16 | 58 | 27.6 | /mnt/stockage/packages/f31/sugar-imageviewer/po/hus.po | 
+ | [hy](/f31/language/hy) | 16 | 58 | 27.6 | /mnt/stockage/packages/f31/sugar-imageviewer/po/hy.po | 
+ | [it](/f31/language/it) | 16 | 58 | 27.6 | /mnt/stockage/packages/f31/sugar-imageviewer/po/it.po | 
+ | [km](/f31/language/km) | 16 | 58 | 27.6 | /mnt/stockage/packages/f31/sugar-imageviewer/po/km.po | 
+ | [ko](/f31/language/ko) | 16 | 58 | 27.6 | /mnt/stockage/packages/f31/sugar-imageviewer/po/ko.po | 
+ | [mg](/f31/language/mg) | 16 | 58 | 27.6 | /mnt/stockage/packages/f31/sugar-imageviewer/po/mg.po | 
+ | [mi](/f31/language/mi) | 16 | 58 | 27.6 | /mnt/stockage/packages/f31/sugar-imageviewer/po/mi.po | 
+ | [mn](/f31/language/mn) | 16 | 58 | 27.6 | /mnt/stockage/packages/f31/sugar-imageviewer/po/mn.po | 
+ | [ne](/f31/language/ne) | 16 | 58 | 27.6 | /mnt/stockage/packages/f31/sugar-imageviewer/po/ne.po | 
+ | [pap](/f31/language/pap) | 16 | 58 | 27.6 | /mnt/stockage/packages/f31/sugar-imageviewer/po/pap.po | 
+ | [ps](/f31/language/ps) | 16 | 58 | 27.6 | /mnt/stockage/packages/f31/sugar-imageviewer/po/ps.po | 
+ | [pt](/f31/language/pt) | 16 | 58 | 27.6 | /mnt/stockage/packages/f31/sugar-imageviewer/po/pt.po | 
+ | [qu](/f31/language/qu) | 16 | 58 | 27.6 | /mnt/stockage/packages/f31/sugar-imageviewer/po/quz.po | 
+ | [si](/f31/language/si) | 16 | 58 | 27.6 | /mnt/stockage/packages/f31/sugar-imageviewer/po/si.po | 
+ | [sl](/f31/language/sl) | 16 | 58 | 27.6 | /mnt/stockage/packages/f31/sugar-imageviewer/po/sl.po | 
+ | [ta](/f31/language/ta) | 16 | 58 | 27.6 | /mnt/stockage/packages/f31/sugar-imageviewer/po/ta.po | 
+ | [te](/f31/language/te) | 16 | 58 | 27.6 | /mnt/stockage/packages/f31/sugar-imageviewer/po/te.po | 
+ | [th](/f31/language/th) | 16 | 58 | 27.6 | /mnt/stockage/packages/f31/sugar-imageviewer/po/th.po | 
+ | [tr](/f31/language/tr) | 16 | 58 | 27.6 | /mnt/stockage/packages/f31/sugar-imageviewer/po/tr.po | 
+ | [vi](/f31/language/vi) | 16 | 58 | 27.6 | /mnt/stockage/packages/f31/sugar-imageviewer/po/vi.po | 
+ | [rw](/f31/language/rw) | 14 | 58 | 24.1 | /mnt/stockage/packages/f31/sugar-imageviewer/po/rw.po | 
+ | [nb_NO](/f31/language/nb_NO) | 13 | 58 | 22.4 | /mnt/stockage/packages/f31/sugar-imageviewer/po/nb.po | 
+ | [sw](/f31/language/sw) | 7 | 58 | 12.1 | /mnt/stockage/packages/f31/sugar-imageviewer/po/sw.po | 
+ | [am](/f31/language/am) | 5 | 58 | 8.6 | /mnt/stockage/packages/f31/sugar-imageviewer/po/am.po | 
+ | [af](/f31/language/af) | 4 | 58 | 6.9 | /mnt/stockage/packages/f31/sugar-imageviewer/po/af.po | 
+ | [error](/f31/language/error) | 16 | 290 | 5.5 | /mnt/stockage/packages/f31/sugar-imageviewer/po/tzo.po/mnt/stockage/packages/f31/sugar-imageviewer/po/quy.po/mnt/stockage/packages/f31/sugar-imageviewer/po/pbs.po/mnt/stockage/packages/f31/sugar-imageviewer/po/mvo.po/mnt/stockage/packages/f31/sugar-imageviewer/po/agr.po | 
+ | [mr](/f31/language/mr) | 2 | 58 | 3.4 | /mnt/stockage/packages/f31/sugar-imageviewer/po/mr.po | 
+ | [bg](/f31/language/bg) | 0 | 51 | 0.0 | /mnt/stockage/packages/f31/sugar-imageviewer/po/bg.po | 
+ | [bi](/f31/language/bi) | 0 | 51 | 0.0 | /mnt/stockage/packages/f31/sugar-imageviewer/po/bi.po | 
+ | [br](/f31/language/br) | 0 | 51 | 0.0 | /mnt/stockage/packages/f31/sugar-imageviewer/po/br.po | 
+ | [cpp](/f31/language/cpp) | 0 | 51 | 0.0 | /mnt/stockage/packages/f31/sugar-imageviewer/po/cpp.po | 
+ | [dz](/f31/language/dz) | 0 | 51 | 0.0 | /mnt/stockage/packages/f31/sugar-imageviewer/po/dz.po | 
+ | [ff](/f31/language/ff) | 0 | 58 | 0.0 | /mnt/stockage/packages/f31/sugar-imageviewer/po/ff.po | 
+ | [fi](/f31/language/fi) | 0 | 58 | 0.0 | /mnt/stockage/packages/f31/sugar-imageviewer/po/fi.po | 
+ | [fil](/f31/language/fil) | 0 | 58 | 0.0 | /mnt/stockage/packages/f31/sugar-imageviewer/po/fil.po | 
+ | [gu](/f31/language/gu) | 0 | 51 | 0.0 | /mnt/stockage/packages/f31/sugar-imageviewer/po/gu.po | 
+ | [ha](/f31/language/ha) | 0 | 58 | 0.0 | /mnt/stockage/packages/f31/sugar-imageviewer/po/ha.po | 
+ | [ht](/f31/language/ht) | 0 | 58 | 0.0 | /mnt/stockage/packages/f31/sugar-imageviewer/po/ht.po | 
+ | [ig](/f31/language/ig) | 0 | 109 | 0.0 | /mnt/stockage/packages/f31/sugar-imageviewer/po/ig.po/mnt/stockage/packages/f31/sugar-imageviewer/po/ibo.po | 
+ | [kos](/f31/language/kos) | 0 | 51 | 0.0 | /mnt/stockage/packages/f31/sugar-imageviewer/po/kos.po | 
+ | [mk](/f31/language/mk) | 0 | 51 | 0.0 | /mnt/stockage/packages/f31/sugar-imageviewer/po/mk.po | 
+ | [ml](/f31/language/ml) | 0 | 58 | 0.0 | /mnt/stockage/packages/f31/sugar-imageviewer/po/ml.po | 
+ | [pa](/f31/language/pa) | 0 | 58 | 0.0 | /mnt/stockage/packages/f31/sugar-imageviewer/po/pa.po | 
+ | [ro](/f31/language/ro) | 0 | 58 | 0.0 | /mnt/stockage/packages/f31/sugar-imageviewer/po/ro.po | 
+ | [sd](/f31/language/sd) | 0 | 58 | 0.0 | /mnt/stockage/packages/f31/sugar-imageviewer/po/sd.po | 
+ | [sk](/f31/language/sk) | 0 | 58 | 0.0 | /mnt/stockage/packages/f31/sugar-imageviewer/po/sk.po | 
+ | [tvl](/f31/language/tvl) | 0 | 51 | 0.0 | /mnt/stockage/packages/f31/sugar-imageviewer/po/tvl.po | 
+ | [ug](/f31/language/ug) | 0 | 58 | 0.0 | /mnt/stockage/packages/f31/sugar-imageviewer/po/ug.po | 
+ | [ur](/f31/language/ur) | 0 | 58 | 0.0 | /mnt/stockage/packages/f31/sugar-imageviewer/po/ur.po | 
+ | [wa](/f31/language/wa) | 0 | 51 | 0.0 | /mnt/stockage/packages/f31/sugar-imageviewer/po/wa.po | 
 {.sortable}
 
 

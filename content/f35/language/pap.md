@@ -40,15 +40,15 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [olpc-switch-desktop]({{< ref "/f35/package/olpc-switch-desktop.md" >}}) | 158 | 158 | 100.0 | LANGUAGE <LL@li.org> | 
- | [sugar-words]({{< ref "/f35/package/sugar-words.md" >}}) | 3 | 3 | 100.0 | LANGUAGE <LL@li.org> | 
- | [sugar-write]({{< ref "/f35/package/sugar-write.md" >}}) | 119 | 121 | 98.3 | Suares | 
- | [sugar-typing-turtle]({{< ref "/f35/package/sugar-typing-turtle.md" >}}) | 573 | 599 | 95.7 | LANGUAGE <LL@li.org> | 
- | [cinnamon-translations]({{< ref "/f35/package/cinnamon-translations.md" >}}) | 2087 | 10984 | 19.0 | Papiamento <pap@li.org> | 
- | [blueberry]({{< ref "/f35/package/blueberry.md" >}}) | 31 | 166 | 18.7 | Papiamento <pap@li.org> | 
- | [nemo-extensions]({{< ref "/f35/package/nemo-extensions.md" >}}) | 1 | 8 | 12.5 | Papiamento <pap@li.org> | 
- | [sugar-xoeditor]({{< ref "/f35/package/sugar-xoeditor.md" >}}) | 1 | 29 | 3.4 | LANGUAGE <LL@li.org> | 
- | [iso-codes]({{< ref "/f35/package/iso-codes.md" >}}) | 0 | 982 | 0.0 | Papiamento <https://hosted.weblate.org/projects/iso-codes/iso-3166-1/pap/> | 
+ | [olpc-switch-desktop](/f35/package/olpc-switch-desktop) | 158 | 158 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-words](/f35/package/sugar-words) | 3 | 3 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-write](/f35/package/sugar-write) | 119 | 121 | 98.3 | Suares | 
+ | [sugar-typing-turtle](/f35/package/sugar-typing-turtle) | 573 | 599 | 95.7 | LANGUAGE <LL@li.org> | 
+ | [cinnamon-translations](/f35/package/cinnamon-translations) | 2087 | 10984 | 19.0 | Papiamento <pap@li.org> | 
+ | [blueberry](/f35/package/blueberry) | 31 | 166 | 18.7 | Papiamento <pap@li.org> | 
+ | [nemo-extensions](/f35/package/nemo-extensions) | 1 | 8 | 12.5 | Papiamento <pap@li.org> | 
+ | [sugar-xoeditor](/f35/package/sugar-xoeditor) | 1 | 29 | 3.4 | LANGUAGE <LL@li.org> | 
+ | [iso-codes](/f35/package/iso-codes) | 0 | 982 | 0.0 | Papiamento <https://hosted.weblate.org/projects/iso-codes/iso-3166-1/pap/> | 
 {.sortable}
 
 

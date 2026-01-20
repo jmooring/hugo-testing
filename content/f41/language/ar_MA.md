@@ -38,8 +38,8 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [tilix]({{< ref "/f41/package/tilix.md" >}}) | 83 | 2429 | 3.4 | Arabic (Morocco) <https://hosted.weblate.org/projects/tilix/translations/ar_MA/> | 
- | [cinnamon-translations]({{< ref "/f41/package/cinnamon-translations.md" >}}) | 0 | 7533 | 0.0 | Moroccan Arabic <ary@li.org> | 
+ | [tilix](/f41/package/tilix) | 83 | 2429 | 3.4 | Arabic (Morocco) <https://hosted.weblate.org/projects/tilix/translations/ar_MA/> | 
+ | [cinnamon-translations](/f41/package/cinnamon-translations) | 0 | 7533 | 0.0 | Moroccan Arabic <ary@li.org> | 
 {.sortable}
 
 

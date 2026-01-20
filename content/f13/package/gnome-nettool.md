@@ -18,88 +18,88 @@ The package gnome-nettool (version 2.28.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f13/language/ar.md" >}}) | 617 | 617 | 100.0 | /mnt/stockage/packages/f13/gnome-nettool/po/ar.po | 
- | [as]({{< ref "/f13/language/as.md" >}}) | 617 | 617 | 100.0 | /mnt/stockage/packages/f13/gnome-nettool/po/as.po | 
- | [bg]({{< ref "/f13/language/bg.md" >}}) | 617 | 617 | 100.0 | /mnt/stockage/packages/f13/gnome-nettool/po/bg.po | 
- | [bn_IN]({{< ref "/f13/language/bn_IN.md" >}}) | 617 | 617 | 100.0 | /mnt/stockage/packages/f13/gnome-nettool/po/bn_IN.po | 
- | [ca]({{< ref "/f13/language/ca.md" >}}) | 1131 | 1131 | 100.0 | /mnt/stockage/packages/f13/gnome-nettool/help/ca/ca.po/mnt/stockage/packages/f13/gnome-nettool/po/ca.po | 
- | [ca@valencia]({{< ref "/f13/language/ca@valencia.md" >}}) | 523 | 523 | 100.0 | /mnt/stockage/packages/f13/gnome-nettool/po/ca@valencia.po | 
- | [cs]({{< ref "/f13/language/cs.md" >}}) | 1131 | 1131 | 100.0 | /mnt/stockage/packages/f13/gnome-nettool/help/cs/cs.po/mnt/stockage/packages/f13/gnome-nettool/po/cs.po | 
- | [cy]({{< ref "/f13/language/cy.md" >}}) | 520 | 520 | 100.0 | /mnt/stockage/packages/f13/gnome-nettool/po/cy.po | 
- | [da]({{< ref "/f13/language/da.md" >}}) | 1131 | 1131 | 100.0 | /mnt/stockage/packages/f13/gnome-nettool/help/da/da.po/mnt/stockage/packages/f13/gnome-nettool/po/da.po | 
- | [de]({{< ref "/f13/language/de.md" >}}) | 1131 | 1131 | 100.0 | /mnt/stockage/packages/f13/gnome-nettool/help/de/de.po/mnt/stockage/packages/f13/gnome-nettool/po/de.po | 
- | [dz]({{< ref "/f13/language/dz.md" >}}) | 573 | 573 | 100.0 | /mnt/stockage/packages/f13/gnome-nettool/po/dz.po | 
- | [el]({{< ref "/f13/language/el.md" >}}) | 1037 | 1037 | 100.0 | /mnt/stockage/packages/f13/gnome-nettool/help/el/el.po/mnt/stockage/packages/f13/gnome-nettool/po/el.po | 
- | [en_GB]({{< ref "/f13/language/en_GB.md" >}}) | 1131 | 1131 | 100.0 | /mnt/stockage/packages/f13/gnome-nettool/help/en_GB/en_GB.po/mnt/stockage/packages/f13/gnome-nettool/po/en_GB.po | 
- | [es]({{< ref "/f13/language/es.md" >}}) | 1131 | 1131 | 100.0 | /mnt/stockage/packages/f13/gnome-nettool/help/es/es.po/mnt/stockage/packages/f13/gnome-nettool/po/es.po | 
- | [et]({{< ref "/f13/language/et.md" >}}) | 617 | 617 | 100.0 | /mnt/stockage/packages/f13/gnome-nettool/po/et.po | 
- | [eu]({{< ref "/f13/language/eu.md" >}}) | 617 | 617 | 100.0 | /mnt/stockage/packages/f13/gnome-nettool/po/eu.po | 
- | [fi]({{< ref "/f13/language/fi.md" >}}) | 617 | 617 | 100.0 | /mnt/stockage/packages/f13/gnome-nettool/po/fi.po | 
- | [fr]({{< ref "/f13/language/fr.md" >}}) | 1113 | 1113 | 100.0 | /mnt/stockage/packages/f13/gnome-nettool/help/fr/fr.po/mnt/stockage/packages/f13/gnome-nettool/po/fr.po | 
- | [gl]({{< ref "/f13/language/gl.md" >}}) | 617 | 617 | 100.0 | /mnt/stockage/packages/f13/gnome-nettool/po/gl.po | 
- | [gu]({{< ref "/f13/language/gu.md" >}}) | 617 | 617 | 100.0 | /mnt/stockage/packages/f13/gnome-nettool/po/gu.po | 
- | [he]({{< ref "/f13/language/he.md" >}}) | 617 | 617 | 100.0 | /mnt/stockage/packages/f13/gnome-nettool/po/he.po | 
- | [hi]({{< ref "/f13/language/hi.md" >}}) | 617 | 617 | 100.0 | /mnt/stockage/packages/f13/gnome-nettool/po/hi.po | 
- | [hr]({{< ref "/f13/language/hr.md" >}}) | 573 | 573 | 100.0 | /mnt/stockage/packages/f13/gnome-nettool/po/hr.po | 
- | [hu]({{< ref "/f13/language/hu.md" >}}) | 617 | 617 | 100.0 | /mnt/stockage/packages/f13/gnome-nettool/po/hu.po | 
- | [it]({{< ref "/f13/language/it.md" >}}) | 617 | 617 | 100.0 | /mnt/stockage/packages/f13/gnome-nettool/po/it.po | 
- | [ja]({{< ref "/f13/language/ja.md" >}}) | 523 | 523 | 100.0 | /mnt/stockage/packages/f13/gnome-nettool/po/ja.po | 
- | [kn]({{< ref "/f13/language/kn.md" >}}) | 617 | 617 | 100.0 | /mnt/stockage/packages/f13/gnome-nettool/po/kn.po | 
- | [ko]({{< ref "/f13/language/ko.md" >}}) | 617 | 617 | 100.0 | /mnt/stockage/packages/f13/gnome-nettool/po/ko.po | 
- | [lt]({{< ref "/f13/language/lt.md" >}}) | 617 | 617 | 100.0 | /mnt/stockage/packages/f13/gnome-nettool/po/lt.po | 
- | [lv]({{< ref "/f13/language/lv.md" >}}) | 523 | 523 | 100.0 | /mnt/stockage/packages/f13/gnome-nettool/po/lv.po | 
- | [mg]({{< ref "/f13/language/mg.md" >}}) | 535 | 535 | 100.0 | /mnt/stockage/packages/f13/gnome-nettool/po/mg.po | 
- | [mk]({{< ref "/f13/language/mk.md" >}}) | 573 | 573 | 100.0 | /mnt/stockage/packages/f13/gnome-nettool/po/mk.po | 
- | [ml]({{< ref "/f13/language/ml.md" >}}) | 617 | 617 | 100.0 | /mnt/stockage/packages/f13/gnome-nettool/po/ml.po | 
- | [mr]({{< ref "/f13/language/mr.md" >}}) | 617 | 617 | 100.0 | /mnt/stockage/packages/f13/gnome-nettool/po/mr.po | 
- | [nb_NO]({{< ref "/f13/language/nb_NO.md" >}}) | 617 | 617 | 100.0 | /mnt/stockage/packages/f13/gnome-nettool/po/nb.po | 
- | [ne]({{< ref "/f13/language/ne.md" >}}) | 545 | 545 | 100.0 | /mnt/stockage/packages/f13/gnome-nettool/po/ne.po | 
- | [nl]({{< ref "/f13/language/nl.md" >}}) | 523 | 523 | 100.0 | /mnt/stockage/packages/f13/gnome-nettool/po/nl.po | 
- | [nn]({{< ref "/f13/language/nn.md" >}}) | 573 | 573 | 100.0 | /mnt/stockage/packages/f13/gnome-nettool/po/nn.po | 
- | [or]({{< ref "/f13/language/or.md" >}}) | 617 | 617 | 100.0 | /mnt/stockage/packages/f13/gnome-nettool/po/or.po | 
- | [pa]({{< ref "/f13/language/pa.md" >}}) | 1113 | 1113 | 100.0 | /mnt/stockage/packages/f13/gnome-nettool/help/pa/pa.po/mnt/stockage/packages/f13/gnome-nettool/po/pa.po | 
- | [pl]({{< ref "/f13/language/pl.md" >}}) | 617 | 617 | 100.0 | /mnt/stockage/packages/f13/gnome-nettool/po/pl.po | 
- | [pt]({{< ref "/f13/language/pt.md" >}}) | 617 | 617 | 100.0 | /mnt/stockage/packages/f13/gnome-nettool/po/pt.po | 
- | [pt_BR]({{< ref "/f13/language/pt_BR.md" >}}) | 1113 | 1113 | 100.0 | /mnt/stockage/packages/f13/gnome-nettool/help/pt_BR/pt_BR.po/mnt/stockage/packages/f13/gnome-nettool/po/pt_BR.po | 
- | [ro]({{< ref "/f13/language/ro.md" >}}) | 617 | 617 | 100.0 | /mnt/stockage/packages/f13/gnome-nettool/po/ro.po | 
- | [ru]({{< ref "/f13/language/ru.md" >}}) | 1037 | 1037 | 100.0 | /mnt/stockage/packages/f13/gnome-nettool/help/ru/ru.po/mnt/stockage/packages/f13/gnome-nettool/po/ru.po | 
- | [sk]({{< ref "/f13/language/sk.md" >}}) | 545 | 545 | 100.0 | /mnt/stockage/packages/f13/gnome-nettool/po/sk.po | 
- | [sl]({{< ref "/f13/language/sl.md" >}}) | 617 | 617 | 100.0 | /mnt/stockage/packages/f13/gnome-nettool/po/sl.po | 
- | [sq]({{< ref "/f13/language/sq.md" >}}) | 573 | 573 | 100.0 | /mnt/stockage/packages/f13/gnome-nettool/po/sq.po | 
- | [sr]({{< ref "/f13/language/sr.md" >}}) | 617 | 617 | 100.0 | /mnt/stockage/packages/f13/gnome-nettool/po/sr.po | 
- | [sr_Latn]({{< ref "/f13/language/sr_Latn.md" >}}) | 617 | 617 | 100.0 | /mnt/stockage/packages/f13/gnome-nettool/po/sr@latin.po | 
- | [sv]({{< ref "/f13/language/sv.md" >}}) | 1131 | 1131 | 100.0 | /mnt/stockage/packages/f13/gnome-nettool/help/sv/sv.po/mnt/stockage/packages/f13/gnome-nettool/po/sv.po | 
- | [ta]({{< ref "/f13/language/ta.md" >}}) | 617 | 617 | 100.0 | /mnt/stockage/packages/f13/gnome-nettool/po/ta.po | 
- | [te]({{< ref "/f13/language/te.md" >}}) | 617 | 617 | 100.0 | /mnt/stockage/packages/f13/gnome-nettool/po/te.po | 
- | [th]({{< ref "/f13/language/th.md" >}}) | 617 | 617 | 100.0 | /mnt/stockage/packages/f13/gnome-nettool/po/th.po | 
- | [tr]({{< ref "/f13/language/tr.md" >}}) | 617 | 617 | 100.0 | /mnt/stockage/packages/f13/gnome-nettool/po/tr.po | 
- | [uk]({{< ref "/f13/language/uk.md" >}}) | 1113 | 1113 | 100.0 | /mnt/stockage/packages/f13/gnome-nettool/help/uk/uk.po/mnt/stockage/packages/f13/gnome-nettool/po/uk.po | 
- | [vi]({{< ref "/f13/language/vi.md" >}}) | 1019 | 1019 | 100.0 | /mnt/stockage/packages/f13/gnome-nettool/help/vi/vi.po/mnt/stockage/packages/f13/gnome-nettool/po/vi.po | 
- | [zh_Hans]({{< ref "/f13/language/zh_Hans.md" >}}) | 1037 | 1037 | 100.0 | /mnt/stockage/packages/f13/gnome-nettool/help/zh_CN/zh_CN.po/mnt/stockage/packages/f13/gnome-nettool/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f13/language/zh_Hant.md" >}}) | 617 | 617 | 100.0 | /mnt/stockage/packages/f13/gnome-nettool/po/zh_TW.po | 
- | [zh_Hant_HK]({{< ref "/f13/language/zh_Hant_HK.md" >}}) | 617 | 617 | 100.0 | /mnt/stockage/packages/f13/gnome-nettool/po/zh_HK.po | 
- | [ku]({{< ref "/f13/language/ku.md" >}}) | 523 | 540 | 96.9 | /mnt/stockage/packages/f13/gnome-nettool/po/ku.po | 
- | [bn]({{< ref "/f13/language/bn.md" >}}) | 501 | 520 | 96.3 | /mnt/stockage/packages/f13/gnome-nettool/po/bn.po | 
- | [en_CA]({{< ref "/f13/language/en_CA.md" >}}) | 501 | 520 | 96.3 | /mnt/stockage/packages/f13/gnome-nettool/po/en_CA.po | 
- | [ka]({{< ref "/f13/language/ka.md" >}}) | 501 | 520 | 96.3 | /mnt/stockage/packages/f13/gnome-nettool/po/ka.po | 
- | [af]({{< ref "/f13/language/af.md" >}}) | 537 | 573 | 93.7 | /mnt/stockage/packages/f13/gnome-nettool/po/af.po | 
- | [id]({{< ref "/f13/language/id.md" >}}) | 487 | 520 | 93.7 | /mnt/stockage/packages/f13/gnome-nettool/po/id.po | 
- | [mn]({{< ref "/f13/language/mn.md" >}}) | 487 | 520 | 93.7 | /mnt/stockage/packages/f13/gnome-nettool/po/mn.po | 
- | [xh]({{< ref "/f13/language/xh.md" >}}) | 487 | 520 | 93.7 | /mnt/stockage/packages/f13/gnome-nettool/po/xh.po | 
- | [ast]({{< ref "/f13/language/ast.md" >}}) | 485 | 523 | 92.7 | /mnt/stockage/packages/f13/gnome-nettool/po/ast.po | 
- | [az]({{< ref "/f13/language/az.md" >}}) | 481 | 520 | 92.5 | /mnt/stockage/packages/f13/gnome-nettool/po/az.po | 
- | [bs]({{< ref "/f13/language/bs.md" >}}) | 481 | 520 | 92.5 | /mnt/stockage/packages/f13/gnome-nettool/po/bs.po | 
- | [ms]({{< ref "/f13/language/ms.md" >}}) | 477 | 520 | 91.7 | /mnt/stockage/packages/f13/gnome-nettool/po/ms.po | 
- | [fa]({{< ref "/f13/language/fa.md" >}}) | 429 | 520 | 82.5 | /mnt/stockage/packages/f13/gnome-nettool/po/fa.po | 
- | [uz]({{< ref "/f13/language/uz.md" >}}) | 784 | 1090 | 71.9 | /mnt/stockage/packages/f13/gnome-nettool/po/uz@cyrillic.po/mnt/stockage/packages/f13/gnome-nettool/po/uz.po | 
- | [mai]({{< ref "/f13/language/mai.md" >}}) | 441 | 617 | 71.5 | /mnt/stockage/packages/f13/gnome-nettool/po/mai.po | 
- | [br]({{< ref "/f13/language/br.md" >}}) | 294 | 508 | 57.9 | /mnt/stockage/packages/f13/gnome-nettool/po/br.po | 
- | [ps]({{< ref "/f13/language/ps.md" >}}) | 165 | 523 | 31.5 | /mnt/stockage/packages/f13/gnome-nettool/po/ps.po | 
- | [wa]({{< ref "/f13/language/wa.md" >}}) | 157 | 520 | 30.2 | /mnt/stockage/packages/f13/gnome-nettool/po/wa.po | 
- | [ga]({{< ref "/f13/language/ga.md" >}}) | 108 | 573 | 18.8 | /mnt/stockage/packages/f13/gnome-nettool/po/ga.po | 
- | [oc]({{< ref "/f13/language/oc.md" >}}) | 157 | 1069 | 14.7 | /mnt/stockage/packages/f13/gnome-nettool/help/oc/oc.po/mnt/stockage/packages/f13/gnome-nettool/po/oc.po | 
- | [si]({{< ref "/f13/language/si.md" >}}) | 48 | 540 | 8.9 | /mnt/stockage/packages/f13/gnome-nettool/po/si.po | 
- | [rw]({{< ref "/f13/language/rw.md" >}}) | 24 | 520 | 4.6 | /mnt/stockage/packages/f13/gnome-nettool/po/rw.po | 
+ | [ar](/f13/language/ar) | 617 | 617 | 100.0 | /mnt/stockage/packages/f13/gnome-nettool/po/ar.po | 
+ | [as](/f13/language/as) | 617 | 617 | 100.0 | /mnt/stockage/packages/f13/gnome-nettool/po/as.po | 
+ | [bg](/f13/language/bg) | 617 | 617 | 100.0 | /mnt/stockage/packages/f13/gnome-nettool/po/bg.po | 
+ | [bn_IN](/f13/language/bn_IN) | 617 | 617 | 100.0 | /mnt/stockage/packages/f13/gnome-nettool/po/bn_IN.po | 
+ | [ca](/f13/language/ca) | 1131 | 1131 | 100.0 | /mnt/stockage/packages/f13/gnome-nettool/help/ca/ca.po/mnt/stockage/packages/f13/gnome-nettool/po/ca.po | 
+ | [ca@valencia](/f13/language/ca@valencia) | 523 | 523 | 100.0 | /mnt/stockage/packages/f13/gnome-nettool/po/ca@valencia.po | 
+ | [cs](/f13/language/cs) | 1131 | 1131 | 100.0 | /mnt/stockage/packages/f13/gnome-nettool/help/cs/cs.po/mnt/stockage/packages/f13/gnome-nettool/po/cs.po | 
+ | [cy](/f13/language/cy) | 520 | 520 | 100.0 | /mnt/stockage/packages/f13/gnome-nettool/po/cy.po | 
+ | [da](/f13/language/da) | 1131 | 1131 | 100.0 | /mnt/stockage/packages/f13/gnome-nettool/help/da/da.po/mnt/stockage/packages/f13/gnome-nettool/po/da.po | 
+ | [de](/f13/language/de) | 1131 | 1131 | 100.0 | /mnt/stockage/packages/f13/gnome-nettool/help/de/de.po/mnt/stockage/packages/f13/gnome-nettool/po/de.po | 
+ | [dz](/f13/language/dz) | 573 | 573 | 100.0 | /mnt/stockage/packages/f13/gnome-nettool/po/dz.po | 
+ | [el](/f13/language/el) | 1037 | 1037 | 100.0 | /mnt/stockage/packages/f13/gnome-nettool/help/el/el.po/mnt/stockage/packages/f13/gnome-nettool/po/el.po | 
+ | [en_GB](/f13/language/en_GB) | 1131 | 1131 | 100.0 | /mnt/stockage/packages/f13/gnome-nettool/help/en_GB/en_GB.po/mnt/stockage/packages/f13/gnome-nettool/po/en_GB.po | 
+ | [es](/f13/language/es) | 1131 | 1131 | 100.0 | /mnt/stockage/packages/f13/gnome-nettool/help/es/es.po/mnt/stockage/packages/f13/gnome-nettool/po/es.po | 
+ | [et](/f13/language/et) | 617 | 617 | 100.0 | /mnt/stockage/packages/f13/gnome-nettool/po/et.po | 
+ | [eu](/f13/language/eu) | 617 | 617 | 100.0 | /mnt/stockage/packages/f13/gnome-nettool/po/eu.po | 
+ | [fi](/f13/language/fi) | 617 | 617 | 100.0 | /mnt/stockage/packages/f13/gnome-nettool/po/fi.po | 
+ | [fr](/f13/language/fr) | 1113 | 1113 | 100.0 | /mnt/stockage/packages/f13/gnome-nettool/help/fr/fr.po/mnt/stockage/packages/f13/gnome-nettool/po/fr.po | 
+ | [gl](/f13/language/gl) | 617 | 617 | 100.0 | /mnt/stockage/packages/f13/gnome-nettool/po/gl.po | 
+ | [gu](/f13/language/gu) | 617 | 617 | 100.0 | /mnt/stockage/packages/f13/gnome-nettool/po/gu.po | 
+ | [he](/f13/language/he) | 617 | 617 | 100.0 | /mnt/stockage/packages/f13/gnome-nettool/po/he.po | 
+ | [hi](/f13/language/hi) | 617 | 617 | 100.0 | /mnt/stockage/packages/f13/gnome-nettool/po/hi.po | 
+ | [hr](/f13/language/hr) | 573 | 573 | 100.0 | /mnt/stockage/packages/f13/gnome-nettool/po/hr.po | 
+ | [hu](/f13/language/hu) | 617 | 617 | 100.0 | /mnt/stockage/packages/f13/gnome-nettool/po/hu.po | 
+ | [it](/f13/language/it) | 617 | 617 | 100.0 | /mnt/stockage/packages/f13/gnome-nettool/po/it.po | 
+ | [ja](/f13/language/ja) | 523 | 523 | 100.0 | /mnt/stockage/packages/f13/gnome-nettool/po/ja.po | 
+ | [kn](/f13/language/kn) | 617 | 617 | 100.0 | /mnt/stockage/packages/f13/gnome-nettool/po/kn.po | 
+ | [ko](/f13/language/ko) | 617 | 617 | 100.0 | /mnt/stockage/packages/f13/gnome-nettool/po/ko.po | 
+ | [lt](/f13/language/lt) | 617 | 617 | 100.0 | /mnt/stockage/packages/f13/gnome-nettool/po/lt.po | 
+ | [lv](/f13/language/lv) | 523 | 523 | 100.0 | /mnt/stockage/packages/f13/gnome-nettool/po/lv.po | 
+ | [mg](/f13/language/mg) | 535 | 535 | 100.0 | /mnt/stockage/packages/f13/gnome-nettool/po/mg.po | 
+ | [mk](/f13/language/mk) | 573 | 573 | 100.0 | /mnt/stockage/packages/f13/gnome-nettool/po/mk.po | 
+ | [ml](/f13/language/ml) | 617 | 617 | 100.0 | /mnt/stockage/packages/f13/gnome-nettool/po/ml.po | 
+ | [mr](/f13/language/mr) | 617 | 617 | 100.0 | /mnt/stockage/packages/f13/gnome-nettool/po/mr.po | 
+ | [nb_NO](/f13/language/nb_NO) | 617 | 617 | 100.0 | /mnt/stockage/packages/f13/gnome-nettool/po/nb.po | 
+ | [ne](/f13/language/ne) | 545 | 545 | 100.0 | /mnt/stockage/packages/f13/gnome-nettool/po/ne.po | 
+ | [nl](/f13/language/nl) | 523 | 523 | 100.0 | /mnt/stockage/packages/f13/gnome-nettool/po/nl.po | 
+ | [nn](/f13/language/nn) | 573 | 573 | 100.0 | /mnt/stockage/packages/f13/gnome-nettool/po/nn.po | 
+ | [or](/f13/language/or) | 617 | 617 | 100.0 | /mnt/stockage/packages/f13/gnome-nettool/po/or.po | 
+ | [pa](/f13/language/pa) | 1113 | 1113 | 100.0 | /mnt/stockage/packages/f13/gnome-nettool/help/pa/pa.po/mnt/stockage/packages/f13/gnome-nettool/po/pa.po | 
+ | [pl](/f13/language/pl) | 617 | 617 | 100.0 | /mnt/stockage/packages/f13/gnome-nettool/po/pl.po | 
+ | [pt](/f13/language/pt) | 617 | 617 | 100.0 | /mnt/stockage/packages/f13/gnome-nettool/po/pt.po | 
+ | [pt_BR](/f13/language/pt_BR) | 1113 | 1113 | 100.0 | /mnt/stockage/packages/f13/gnome-nettool/help/pt_BR/pt_BR.po/mnt/stockage/packages/f13/gnome-nettool/po/pt_BR.po | 
+ | [ro](/f13/language/ro) | 617 | 617 | 100.0 | /mnt/stockage/packages/f13/gnome-nettool/po/ro.po | 
+ | [ru](/f13/language/ru) | 1037 | 1037 | 100.0 | /mnt/stockage/packages/f13/gnome-nettool/help/ru/ru.po/mnt/stockage/packages/f13/gnome-nettool/po/ru.po | 
+ | [sk](/f13/language/sk) | 545 | 545 | 100.0 | /mnt/stockage/packages/f13/gnome-nettool/po/sk.po | 
+ | [sl](/f13/language/sl) | 617 | 617 | 100.0 | /mnt/stockage/packages/f13/gnome-nettool/po/sl.po | 
+ | [sq](/f13/language/sq) | 573 | 573 | 100.0 | /mnt/stockage/packages/f13/gnome-nettool/po/sq.po | 
+ | [sr](/f13/language/sr) | 617 | 617 | 100.0 | /mnt/stockage/packages/f13/gnome-nettool/po/sr.po | 
+ | [sr_Latn](/f13/language/sr_Latn) | 617 | 617 | 100.0 | /mnt/stockage/packages/f13/gnome-nettool/po/sr@latin.po | 
+ | [sv](/f13/language/sv) | 1131 | 1131 | 100.0 | /mnt/stockage/packages/f13/gnome-nettool/help/sv/sv.po/mnt/stockage/packages/f13/gnome-nettool/po/sv.po | 
+ | [ta](/f13/language/ta) | 617 | 617 | 100.0 | /mnt/stockage/packages/f13/gnome-nettool/po/ta.po | 
+ | [te](/f13/language/te) | 617 | 617 | 100.0 | /mnt/stockage/packages/f13/gnome-nettool/po/te.po | 
+ | [th](/f13/language/th) | 617 | 617 | 100.0 | /mnt/stockage/packages/f13/gnome-nettool/po/th.po | 
+ | [tr](/f13/language/tr) | 617 | 617 | 100.0 | /mnt/stockage/packages/f13/gnome-nettool/po/tr.po | 
+ | [uk](/f13/language/uk) | 1113 | 1113 | 100.0 | /mnt/stockage/packages/f13/gnome-nettool/help/uk/uk.po/mnt/stockage/packages/f13/gnome-nettool/po/uk.po | 
+ | [vi](/f13/language/vi) | 1019 | 1019 | 100.0 | /mnt/stockage/packages/f13/gnome-nettool/help/vi/vi.po/mnt/stockage/packages/f13/gnome-nettool/po/vi.po | 
+ | [zh_Hans](/f13/language/zh_Hans) | 1037 | 1037 | 100.0 | /mnt/stockage/packages/f13/gnome-nettool/help/zh_CN/zh_CN.po/mnt/stockage/packages/f13/gnome-nettool/po/zh_CN.po | 
+ | [zh_Hant](/f13/language/zh_Hant) | 617 | 617 | 100.0 | /mnt/stockage/packages/f13/gnome-nettool/po/zh_TW.po | 
+ | [zh_Hant_HK](/f13/language/zh_Hant_HK) | 617 | 617 | 100.0 | /mnt/stockage/packages/f13/gnome-nettool/po/zh_HK.po | 
+ | [ku](/f13/language/ku) | 523 | 540 | 96.9 | /mnt/stockage/packages/f13/gnome-nettool/po/ku.po | 
+ | [bn](/f13/language/bn) | 501 | 520 | 96.3 | /mnt/stockage/packages/f13/gnome-nettool/po/bn.po | 
+ | [en_CA](/f13/language/en_CA) | 501 | 520 | 96.3 | /mnt/stockage/packages/f13/gnome-nettool/po/en_CA.po | 
+ | [ka](/f13/language/ka) | 501 | 520 | 96.3 | /mnt/stockage/packages/f13/gnome-nettool/po/ka.po | 
+ | [af](/f13/language/af) | 537 | 573 | 93.7 | /mnt/stockage/packages/f13/gnome-nettool/po/af.po | 
+ | [id](/f13/language/id) | 487 | 520 | 93.7 | /mnt/stockage/packages/f13/gnome-nettool/po/id.po | 
+ | [mn](/f13/language/mn) | 487 | 520 | 93.7 | /mnt/stockage/packages/f13/gnome-nettool/po/mn.po | 
+ | [xh](/f13/language/xh) | 487 | 520 | 93.7 | /mnt/stockage/packages/f13/gnome-nettool/po/xh.po | 
+ | [ast](/f13/language/ast) | 485 | 523 | 92.7 | /mnt/stockage/packages/f13/gnome-nettool/po/ast.po | 
+ | [az](/f13/language/az) | 481 | 520 | 92.5 | /mnt/stockage/packages/f13/gnome-nettool/po/az.po | 
+ | [bs](/f13/language/bs) | 481 | 520 | 92.5 | /mnt/stockage/packages/f13/gnome-nettool/po/bs.po | 
+ | [ms](/f13/language/ms) | 477 | 520 | 91.7 | /mnt/stockage/packages/f13/gnome-nettool/po/ms.po | 
+ | [fa](/f13/language/fa) | 429 | 520 | 82.5 | /mnt/stockage/packages/f13/gnome-nettool/po/fa.po | 
+ | [uz](/f13/language/uz) | 784 | 1090 | 71.9 | /mnt/stockage/packages/f13/gnome-nettool/po/uz@cyrillic.po/mnt/stockage/packages/f13/gnome-nettool/po/uz.po | 
+ | [mai](/f13/language/mai) | 441 | 617 | 71.5 | /mnt/stockage/packages/f13/gnome-nettool/po/mai.po | 
+ | [br](/f13/language/br) | 294 | 508 | 57.9 | /mnt/stockage/packages/f13/gnome-nettool/po/br.po | 
+ | [ps](/f13/language/ps) | 165 | 523 | 31.5 | /mnt/stockage/packages/f13/gnome-nettool/po/ps.po | 
+ | [wa](/f13/language/wa) | 157 | 520 | 30.2 | /mnt/stockage/packages/f13/gnome-nettool/po/wa.po | 
+ | [ga](/f13/language/ga) | 108 | 573 | 18.8 | /mnt/stockage/packages/f13/gnome-nettool/po/ga.po | 
+ | [oc](/f13/language/oc) | 157 | 1069 | 14.7 | /mnt/stockage/packages/f13/gnome-nettool/help/oc/oc.po/mnt/stockage/packages/f13/gnome-nettool/po/oc.po | 
+ | [si](/f13/language/si) | 48 | 540 | 8.9 | /mnt/stockage/packages/f13/gnome-nettool/po/si.po | 
+ | [rw](/f13/language/rw) | 24 | 520 | 4.6 | /mnt/stockage/packages/f13/gnome-nettool/po/rw.po | 
 {.sortable}
 
 

@@ -18,38 +18,38 @@ The package ristretto (version 0.0.91):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f14/language/ca.md" >}}) | 306 | 306 | 100.0 | /mnt/stockage/packages/f14/ristretto/po/ca.po | 
- | [cs]({{< ref "/f14/language/cs.md" >}}) | 306 | 306 | 100.0 | /mnt/stockage/packages/f14/ristretto/po/cs.po | 
- | [da]({{< ref "/f14/language/da.md" >}}) | 306 | 306 | 100.0 | /mnt/stockage/packages/f14/ristretto/po/da.po | 
- | [el]({{< ref "/f14/language/el.md" >}}) | 306 | 306 | 100.0 | /mnt/stockage/packages/f14/ristretto/po/el.po | 
- | [en_GB]({{< ref "/f14/language/en_GB.md" >}}) | 306 | 306 | 100.0 | /mnt/stockage/packages/f14/ristretto/po/en_GB.po | 
- | [es]({{< ref "/f14/language/es.md" >}}) | 306 | 306 | 100.0 | /mnt/stockage/packages/f14/ristretto/po/es.po | 
- | [eu]({{< ref "/f14/language/eu.md" >}}) | 306 | 306 | 100.0 | /mnt/stockage/packages/f14/ristretto/po/eu.po | 
- | [fi]({{< ref "/f14/language/fi.md" >}}) | 306 | 306 | 100.0 | /mnt/stockage/packages/f14/ristretto/po/fi.po | 
- | [gl]({{< ref "/f14/language/gl.md" >}}) | 306 | 306 | 100.0 | /mnt/stockage/packages/f14/ristretto/po/gl.po | 
- | [hu]({{< ref "/f14/language/hu.md" >}}) | 306 | 306 | 100.0 | /mnt/stockage/packages/f14/ristretto/po/hu.po | 
- | [it]({{< ref "/f14/language/it.md" >}}) | 306 | 306 | 100.0 | /mnt/stockage/packages/f14/ristretto/po/it.po | 
- | [lv]({{< ref "/f14/language/lv.md" >}}) | 306 | 306 | 100.0 | /mnt/stockage/packages/f14/ristretto/po/lv.po | 
- | [pt]({{< ref "/f14/language/pt.md" >}}) | 306 | 306 | 100.0 | /mnt/stockage/packages/f14/ristretto/po/pt.po | 
- | [ru]({{< ref "/f14/language/ru.md" >}}) | 306 | 306 | 100.0 | /mnt/stockage/packages/f14/ristretto/po/ru.po | 
- | [uk]({{< ref "/f14/language/uk.md" >}}) | 306 | 306 | 100.0 | /mnt/stockage/packages/f14/ristretto/po/uk.po | 
- | [zh_Hans]({{< ref "/f14/language/zh_Hans.md" >}}) | 306 | 306 | 100.0 | /mnt/stockage/packages/f14/ristretto/po/zh_CN.po | 
- | [fr]({{< ref "/f14/language/fr.md" >}}) | 305 | 306 | 99.7 | /mnt/stockage/packages/f14/ristretto/po/fr.po | 
- | [tr]({{< ref "/f14/language/tr.md" >}}) | 305 | 306 | 99.7 | /mnt/stockage/packages/f14/ristretto/po/tr.po | 
- | [ja]({{< ref "/f14/language/ja.md" >}}) | 282 | 306 | 92.2 | /mnt/stockage/packages/f14/ristretto/po/ja.po | 
- | [ast]({{< ref "/f14/language/ast.md" >}}) | 271 | 306 | 88.6 | /mnt/stockage/packages/f14/ristretto/po/ast.po | 
- | [nl]({{< ref "/f14/language/nl.md" >}}) | 269 | 306 | 87.9 | /mnt/stockage/packages/f14/ristretto/po/nl.po | 
- | [de]({{< ref "/f14/language/de.md" >}}) | 258 | 306 | 84.3 | /mnt/stockage/packages/f14/ristretto/po/de.po | 
- | [sk]({{< ref "/f14/language/sk.md" >}}) | 241 | 306 | 78.8 | /mnt/stockage/packages/f14/ristretto/po/sk.po | 
- | [sv]({{< ref "/f14/language/sv.md" >}}) | 234 | 306 | 76.5 | /mnt/stockage/packages/f14/ristretto/po/sv.po | 
- | [id]({{< ref "/f14/language/id.md" >}}) | 81 | 306 | 26.5 | /mnt/stockage/packages/f14/ristretto/po/id.po | 
- | [nb_NO]({{< ref "/f14/language/nb_NO.md" >}}) | 81 | 306 | 26.5 | /mnt/stockage/packages/f14/ristretto/po/nb.po | 
- | [pl]({{< ref "/f14/language/pl.md" >}}) | 81 | 306 | 26.5 | /mnt/stockage/packages/f14/ristretto/po/pl.po | 
- | [pt_BR]({{< ref "/f14/language/pt_BR.md" >}}) | 81 | 306 | 26.5 | /mnt/stockage/packages/f14/ristretto/po/pt_BR.po | 
- | [ur]({{< ref "/f14/language/ur.md" >}}) | 81 | 306 | 26.5 | /mnt/stockage/packages/f14/ristretto/po/ur.po | 
- | [ur_PK]({{< ref "/f14/language/ur_PK.md" >}}) | 81 | 306 | 26.5 | /mnt/stockage/packages/f14/ristretto/po/ur_PK.po | 
- | [bg]({{< ref "/f14/language/bg.md" >}}) | 55 | 306 | 18.0 | /mnt/stockage/packages/f14/ristretto/po/bg.po | 
- | [ar]({{< ref "/f14/language/ar.md" >}}) | 0 | 306 | 0.0 | /mnt/stockage/packages/f14/ristretto/po/ar.po | 
+ | [ca](/f14/language/ca) | 306 | 306 | 100.0 | /mnt/stockage/packages/f14/ristretto/po/ca.po | 
+ | [cs](/f14/language/cs) | 306 | 306 | 100.0 | /mnt/stockage/packages/f14/ristretto/po/cs.po | 
+ | [da](/f14/language/da) | 306 | 306 | 100.0 | /mnt/stockage/packages/f14/ristretto/po/da.po | 
+ | [el](/f14/language/el) | 306 | 306 | 100.0 | /mnt/stockage/packages/f14/ristretto/po/el.po | 
+ | [en_GB](/f14/language/en_GB) | 306 | 306 | 100.0 | /mnt/stockage/packages/f14/ristretto/po/en_GB.po | 
+ | [es](/f14/language/es) | 306 | 306 | 100.0 | /mnt/stockage/packages/f14/ristretto/po/es.po | 
+ | [eu](/f14/language/eu) | 306 | 306 | 100.0 | /mnt/stockage/packages/f14/ristretto/po/eu.po | 
+ | [fi](/f14/language/fi) | 306 | 306 | 100.0 | /mnt/stockage/packages/f14/ristretto/po/fi.po | 
+ | [gl](/f14/language/gl) | 306 | 306 | 100.0 | /mnt/stockage/packages/f14/ristretto/po/gl.po | 
+ | [hu](/f14/language/hu) | 306 | 306 | 100.0 | /mnt/stockage/packages/f14/ristretto/po/hu.po | 
+ | [it](/f14/language/it) | 306 | 306 | 100.0 | /mnt/stockage/packages/f14/ristretto/po/it.po | 
+ | [lv](/f14/language/lv) | 306 | 306 | 100.0 | /mnt/stockage/packages/f14/ristretto/po/lv.po | 
+ | [pt](/f14/language/pt) | 306 | 306 | 100.0 | /mnt/stockage/packages/f14/ristretto/po/pt.po | 
+ | [ru](/f14/language/ru) | 306 | 306 | 100.0 | /mnt/stockage/packages/f14/ristretto/po/ru.po | 
+ | [uk](/f14/language/uk) | 306 | 306 | 100.0 | /mnt/stockage/packages/f14/ristretto/po/uk.po | 
+ | [zh_Hans](/f14/language/zh_Hans) | 306 | 306 | 100.0 | /mnt/stockage/packages/f14/ristretto/po/zh_CN.po | 
+ | [fr](/f14/language/fr) | 305 | 306 | 99.7 | /mnt/stockage/packages/f14/ristretto/po/fr.po | 
+ | [tr](/f14/language/tr) | 305 | 306 | 99.7 | /mnt/stockage/packages/f14/ristretto/po/tr.po | 
+ | [ja](/f14/language/ja) | 282 | 306 | 92.2 | /mnt/stockage/packages/f14/ristretto/po/ja.po | 
+ | [ast](/f14/language/ast) | 271 | 306 | 88.6 | /mnt/stockage/packages/f14/ristretto/po/ast.po | 
+ | [nl](/f14/language/nl) | 269 | 306 | 87.9 | /mnt/stockage/packages/f14/ristretto/po/nl.po | 
+ | [de](/f14/language/de) | 258 | 306 | 84.3 | /mnt/stockage/packages/f14/ristretto/po/de.po | 
+ | [sk](/f14/language/sk) | 241 | 306 | 78.8 | /mnt/stockage/packages/f14/ristretto/po/sk.po | 
+ | [sv](/f14/language/sv) | 234 | 306 | 76.5 | /mnt/stockage/packages/f14/ristretto/po/sv.po | 
+ | [id](/f14/language/id) | 81 | 306 | 26.5 | /mnt/stockage/packages/f14/ristretto/po/id.po | 
+ | [nb_NO](/f14/language/nb_NO) | 81 | 306 | 26.5 | /mnt/stockage/packages/f14/ristretto/po/nb.po | 
+ | [pl](/f14/language/pl) | 81 | 306 | 26.5 | /mnt/stockage/packages/f14/ristretto/po/pl.po | 
+ | [pt_BR](/f14/language/pt_BR) | 81 | 306 | 26.5 | /mnt/stockage/packages/f14/ristretto/po/pt_BR.po | 
+ | [ur](/f14/language/ur) | 81 | 306 | 26.5 | /mnt/stockage/packages/f14/ristretto/po/ur.po | 
+ | [ur_PK](/f14/language/ur_PK) | 81 | 306 | 26.5 | /mnt/stockage/packages/f14/ristretto/po/ur_PK.po | 
+ | [bg](/f14/language/bg) | 55 | 306 | 18.0 | /mnt/stockage/packages/f14/ristretto/po/bg.po | 
+ | [ar](/f14/language/ar) | 0 | 306 | 0.0 | /mnt/stockage/packages/f14/ristretto/po/ar.po | 
 {.sortable}
 
 

@@ -18,52 +18,52 @@ The package liblicense (version 0.8.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [bg]({{< ref "/f14/language/bg.md" >}}) | 45 | 66 | 68.2 | /mnt/stockage/packages/f14/liblicense/po/bg.po | 
- | [de]({{< ref "/f14/language/de.md" >}}) | 45 | 66 | 68.2 | /mnt/stockage/packages/f14/liblicense/po/de.po | 
- | [de_AT]({{< ref "/f14/language/de_AT.md" >}}) | 45 | 66 | 68.2 | /mnt/stockage/packages/f14/liblicense/po/de_AT.po | 
- | [de_CH]({{< ref "/f14/language/de_CH.md" >}}) | 45 | 66 | 68.2 | /mnt/stockage/packages/f14/liblicense/po/de_CH.po | 
- | [en]({{< ref "/f14/language/en.md" >}}) | 45 | 66 | 68.2 | /mnt/stockage/packages/f14/liblicense/po/en.po | 
- | [en_CA]({{< ref "/f14/language/en_CA.md" >}}) | 45 | 66 | 68.2 | /mnt/stockage/packages/f14/liblicense/po/en_CA.po | 
- | [en_GB]({{< ref "/f14/language/en_GB.md" >}}) | 45 | 66 | 68.2 | /mnt/stockage/packages/f14/liblicense/po/en_GB.po | 
- | [en_US]({{< ref "/f14/language/en_US.md" >}}) | 45 | 66 | 68.2 | /mnt/stockage/packages/f14/liblicense/po/en_US.po | 
- | [fi]({{< ref "/f14/language/fi.md" >}}) | 45 | 66 | 68.2 | /mnt/stockage/packages/f14/liblicense/po/fi.po | 
- | [fr]({{< ref "/f14/language/fr.md" >}}) | 45 | 66 | 68.2 | /mnt/stockage/packages/f14/liblicense/po/fr.po | 
- | [fr_CA]({{< ref "/f14/language/fr_CA.md" >}}) | 45 | 66 | 68.2 | /mnt/stockage/packages/f14/liblicense/po/fr_CA.po | 
- | [fr_CH]({{< ref "/f14/language/fr_CH.md" >}}) | 45 | 66 | 68.2 | /mnt/stockage/packages/f14/liblicense/po/fr_CH.po | 
- | [fr_LU]({{< ref "/f14/language/fr_LU.md" >}}) | 45 | 66 | 68.2 | /mnt/stockage/packages/f14/liblicense/po/fr_LU.po | 
- | [he]({{< ref "/f14/language/he.md" >}}) | 45 | 66 | 68.2 | /mnt/stockage/packages/f14/liblicense/po/he.po | 
- | [hr]({{< ref "/f14/language/hr.md" >}}) | 45 | 66 | 68.2 | /mnt/stockage/packages/f14/liblicense/po/hr.po | 
- | [nl]({{< ref "/f14/language/nl.md" >}}) | 45 | 66 | 68.2 | /mnt/stockage/packages/f14/liblicense/po/nl.po | 
- | [sv]({{< ref "/f14/language/sv.md" >}}) | 45 | 66 | 68.2 | /mnt/stockage/packages/f14/liblicense/po/sv.po | 
- | [zh_Hans]({{< ref "/f14/language/zh_Hans.md" >}}) | 45 | 66 | 68.2 | /mnt/stockage/packages/f14/liblicense/po/zh.po | 
- | [zh_Hant]({{< ref "/f14/language/zh_Hant.md" >}}) | 45 | 66 | 68.2 | /mnt/stockage/packages/f14/liblicense/po/zh_TW.po | 
- | [af]({{< ref "/f14/language/af.md" >}}) | 44 | 66 | 66.7 | /mnt/stockage/packages/f14/liblicense/po/af.po | 
- | [ca]({{< ref "/f14/language/ca.md" >}}) | 44 | 66 | 66.7 | /mnt/stockage/packages/f14/liblicense/po/ca.po | 
- | [eo]({{< ref "/f14/language/eo.md" >}}) | 44 | 66 | 66.7 | /mnt/stockage/packages/f14/liblicense/po/eo.po | 
- | [es]({{< ref "/f14/language/es.md" >}}) | 44 | 66 | 66.7 | /mnt/stockage/packages/f14/liblicense/po/es.po | 
- | [es_AR]({{< ref "/f14/language/es_AR.md" >}}) | 44 | 66 | 66.7 | /mnt/stockage/packages/f14/liblicense/po/es_AR.po | 
- | [es_CL]({{< ref "/f14/language/es_CL.md" >}}) | 44 | 66 | 66.7 | /mnt/stockage/packages/f14/liblicense/po/es_CL.po | 
- | [es_CO]({{< ref "/f14/language/es_CO.md" >}}) | 44 | 66 | 66.7 | /mnt/stockage/packages/f14/liblicense/po/es_CO.po | 
- | [es_MX]({{< ref "/f14/language/es_MX.md" >}}) | 44 | 66 | 66.7 | /mnt/stockage/packages/f14/liblicense/po/es_MX.po | 
- | [es_PE]({{< ref "/f14/language/es_PE.md" >}}) | 44 | 66 | 66.7 | /mnt/stockage/packages/f14/liblicense/po/es_PE.po | 
- | [eu]({{< ref "/f14/language/eu.md" >}}) | 44 | 66 | 66.7 | /mnt/stockage/packages/f14/liblicense/po/eu.po | 
- | [ja]({{< ref "/f14/language/ja.md" >}}) | 44 | 66 | 66.7 | /mnt/stockage/packages/f14/liblicense/po/ja.po | 
- | [mk]({{< ref "/f14/language/mk.md" >}}) | 44 | 66 | 66.7 | /mnt/stockage/packages/f14/liblicense/po/mk.po | 
- | [nso]({{< ref "/f14/language/nso.md" >}}) | 44 | 66 | 66.7 | /mnt/stockage/packages/f14/liblicense/po/nso.po | 
- | [pl]({{< ref "/f14/language/pl.md" >}}) | 44 | 66 | 66.7 | /mnt/stockage/packages/f14/liblicense/po/pl.po | 
- | [zu]({{< ref "/f14/language/zu.md" >}}) | 44 | 66 | 66.7 | /mnt/stockage/packages/f14/liblicense/po/zu.po | 
- | [da]({{< ref "/f14/language/da.md" >}}) | 43 | 66 | 65.2 | /mnt/stockage/packages/f14/liblicense/po/da.po | 
- | [ms]({{< ref "/f14/language/ms.md" >}}) | 43 | 66 | 65.2 | /mnt/stockage/packages/f14/liblicense/po/ms.po | 
- | [sl]({{< ref "/f14/language/sl.md" >}}) | 43 | 66 | 65.2 | /mnt/stockage/packages/f14/liblicense/po/sl.po | 
- | [hu]({{< ref "/f14/language/hu.md" >}}) | 40 | 66 | 60.6 | /mnt/stockage/packages/f14/liblicense/po/hu.po | 
- | [gl]({{< ref "/f14/language/gl.md" >}}) | 30 | 66 | 45.5 | /mnt/stockage/packages/f14/liblicense/po/gl.po | 
- | [pt]({{< ref "/f14/language/pt.md" >}}) | 30 | 66 | 45.5 | /mnt/stockage/packages/f14/liblicense/po/pt.po | 
- | [pt_PT]({{< ref "/f14/language/pt_PT.md" >}}) | 30 | 66 | 45.5 | /mnt/stockage/packages/f14/liblicense/po/pt_PT.po | 
- | [it]({{< ref "/f14/language/it.md" >}}) | 25 | 66 | 37.9 | /mnt/stockage/packages/f14/liblicense/po/it.po | 
- | [it_CH]({{< ref "/f14/language/it_CH.md" >}}) | 25 | 66 | 37.9 | /mnt/stockage/packages/f14/liblicense/po/it_CH.po | 
- | [ko]({{< ref "/f14/language/ko.md" >}}) | 2 | 66 | 3.0 | /mnt/stockage/packages/f14/liblicense/po/ko.po | 
- | [kr]({{< ref "/f14/language/kr.md" >}}) | 2 | 66 | 3.0 | /mnt/stockage/packages/f14/liblicense/po/kr.po | 
- | [st]({{< ref "/f14/language/st.md" >}}) | 0 | 66 | 0.0 | /mnt/stockage/packages/f14/liblicense/po/st.po | 
+ | [bg](/f14/language/bg) | 45 | 66 | 68.2 | /mnt/stockage/packages/f14/liblicense/po/bg.po | 
+ | [de](/f14/language/de) | 45 | 66 | 68.2 | /mnt/stockage/packages/f14/liblicense/po/de.po | 
+ | [de_AT](/f14/language/de_AT) | 45 | 66 | 68.2 | /mnt/stockage/packages/f14/liblicense/po/de_AT.po | 
+ | [de_CH](/f14/language/de_CH) | 45 | 66 | 68.2 | /mnt/stockage/packages/f14/liblicense/po/de_CH.po | 
+ | [en](/f14/language/en) | 45 | 66 | 68.2 | /mnt/stockage/packages/f14/liblicense/po/en.po | 
+ | [en_CA](/f14/language/en_CA) | 45 | 66 | 68.2 | /mnt/stockage/packages/f14/liblicense/po/en_CA.po | 
+ | [en_GB](/f14/language/en_GB) | 45 | 66 | 68.2 | /mnt/stockage/packages/f14/liblicense/po/en_GB.po | 
+ | [en_US](/f14/language/en_US) | 45 | 66 | 68.2 | /mnt/stockage/packages/f14/liblicense/po/en_US.po | 
+ | [fi](/f14/language/fi) | 45 | 66 | 68.2 | /mnt/stockage/packages/f14/liblicense/po/fi.po | 
+ | [fr](/f14/language/fr) | 45 | 66 | 68.2 | /mnt/stockage/packages/f14/liblicense/po/fr.po | 
+ | [fr_CA](/f14/language/fr_CA) | 45 | 66 | 68.2 | /mnt/stockage/packages/f14/liblicense/po/fr_CA.po | 
+ | [fr_CH](/f14/language/fr_CH) | 45 | 66 | 68.2 | /mnt/stockage/packages/f14/liblicense/po/fr_CH.po | 
+ | [fr_LU](/f14/language/fr_LU) | 45 | 66 | 68.2 | /mnt/stockage/packages/f14/liblicense/po/fr_LU.po | 
+ | [he](/f14/language/he) | 45 | 66 | 68.2 | /mnt/stockage/packages/f14/liblicense/po/he.po | 
+ | [hr](/f14/language/hr) | 45 | 66 | 68.2 | /mnt/stockage/packages/f14/liblicense/po/hr.po | 
+ | [nl](/f14/language/nl) | 45 | 66 | 68.2 | /mnt/stockage/packages/f14/liblicense/po/nl.po | 
+ | [sv](/f14/language/sv) | 45 | 66 | 68.2 | /mnt/stockage/packages/f14/liblicense/po/sv.po | 
+ | [zh_Hans](/f14/language/zh_Hans) | 45 | 66 | 68.2 | /mnt/stockage/packages/f14/liblicense/po/zh.po | 
+ | [zh_Hant](/f14/language/zh_Hant) | 45 | 66 | 68.2 | /mnt/stockage/packages/f14/liblicense/po/zh_TW.po | 
+ | [af](/f14/language/af) | 44 | 66 | 66.7 | /mnt/stockage/packages/f14/liblicense/po/af.po | 
+ | [ca](/f14/language/ca) | 44 | 66 | 66.7 | /mnt/stockage/packages/f14/liblicense/po/ca.po | 
+ | [eo](/f14/language/eo) | 44 | 66 | 66.7 | /mnt/stockage/packages/f14/liblicense/po/eo.po | 
+ | [es](/f14/language/es) | 44 | 66 | 66.7 | /mnt/stockage/packages/f14/liblicense/po/es.po | 
+ | [es_AR](/f14/language/es_AR) | 44 | 66 | 66.7 | /mnt/stockage/packages/f14/liblicense/po/es_AR.po | 
+ | [es_CL](/f14/language/es_CL) | 44 | 66 | 66.7 | /mnt/stockage/packages/f14/liblicense/po/es_CL.po | 
+ | [es_CO](/f14/language/es_CO) | 44 | 66 | 66.7 | /mnt/stockage/packages/f14/liblicense/po/es_CO.po | 
+ | [es_MX](/f14/language/es_MX) | 44 | 66 | 66.7 | /mnt/stockage/packages/f14/liblicense/po/es_MX.po | 
+ | [es_PE](/f14/language/es_PE) | 44 | 66 | 66.7 | /mnt/stockage/packages/f14/liblicense/po/es_PE.po | 
+ | [eu](/f14/language/eu) | 44 | 66 | 66.7 | /mnt/stockage/packages/f14/liblicense/po/eu.po | 
+ | [ja](/f14/language/ja) | 44 | 66 | 66.7 | /mnt/stockage/packages/f14/liblicense/po/ja.po | 
+ | [mk](/f14/language/mk) | 44 | 66 | 66.7 | /mnt/stockage/packages/f14/liblicense/po/mk.po | 
+ | [nso](/f14/language/nso) | 44 | 66 | 66.7 | /mnt/stockage/packages/f14/liblicense/po/nso.po | 
+ | [pl](/f14/language/pl) | 44 | 66 | 66.7 | /mnt/stockage/packages/f14/liblicense/po/pl.po | 
+ | [zu](/f14/language/zu) | 44 | 66 | 66.7 | /mnt/stockage/packages/f14/liblicense/po/zu.po | 
+ | [da](/f14/language/da) | 43 | 66 | 65.2 | /mnt/stockage/packages/f14/liblicense/po/da.po | 
+ | [ms](/f14/language/ms) | 43 | 66 | 65.2 | /mnt/stockage/packages/f14/liblicense/po/ms.po | 
+ | [sl](/f14/language/sl) | 43 | 66 | 65.2 | /mnt/stockage/packages/f14/liblicense/po/sl.po | 
+ | [hu](/f14/language/hu) | 40 | 66 | 60.6 | /mnt/stockage/packages/f14/liblicense/po/hu.po | 
+ | [gl](/f14/language/gl) | 30 | 66 | 45.5 | /mnt/stockage/packages/f14/liblicense/po/gl.po | 
+ | [pt](/f14/language/pt) | 30 | 66 | 45.5 | /mnt/stockage/packages/f14/liblicense/po/pt.po | 
+ | [pt_PT](/f14/language/pt_PT) | 30 | 66 | 45.5 | /mnt/stockage/packages/f14/liblicense/po/pt_PT.po | 
+ | [it](/f14/language/it) | 25 | 66 | 37.9 | /mnt/stockage/packages/f14/liblicense/po/it.po | 
+ | [it_CH](/f14/language/it_CH) | 25 | 66 | 37.9 | /mnt/stockage/packages/f14/liblicense/po/it_CH.po | 
+ | [ko](/f14/language/ko) | 2 | 66 | 3.0 | /mnt/stockage/packages/f14/liblicense/po/ko.po | 
+ | [kr](/f14/language/kr) | 2 | 66 | 3.0 | /mnt/stockage/packages/f14/liblicense/po/kr.po | 
+ | [st](/f14/language/st) | 0 | 66 | 0.0 | /mnt/stockage/packages/f14/liblicense/po/st.po | 
 {.sortable}
 
 

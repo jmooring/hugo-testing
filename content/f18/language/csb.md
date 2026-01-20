@@ -38,21 +38,21 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [gnome-desktop3]({{< ref "/f18/package/gnome-desktop3.md" >}}) | 235 | 235 | 100.0 | Kashubian <csb@li.org> | 
- | [gnome-icon-theme]({{< ref "/f18/package/gnome-icon-theme.md" >}}) | 4 | 4 | 100.0 | Kashubian <csb@li.org> | 
- | [gnome-menus]({{< ref "/f18/package/gnome-menus.md" >}}) | 95 | 95 | 100.0 | Kashubian <csb@li.org> | 
- | [gnome-session]({{< ref "/f18/package/gnome-session.md" >}}) | 447 | 475 | 94.1 | Kashubian <csb@li.org> | 
- | [gdk-pixbuf2]({{< ref "/f18/package/gdk-pixbuf2.md" >}}) | 481 | 1354 | 35.5 | Kashubian <csb@li.org> | 
- | [mingw-gdk-pixbuf]({{< ref "/f18/package/mingw-gdk-pixbuf.md" >}}) | 481 | 1354 | 35.5 | Kashubian <csb@li.org> | 
- | [exaile]({{< ref "/f18/package/exaile.md" >}}) | 1300 | 3675 | 35.4 | Kashubian <csb@li.org> | 
- | [gnome-applets]({{< ref "/f18/package/gnome-applets.md" >}}) | 848 | 3035 | 27.9 | Kashubian <csb@li.org> | 
- | [gdm]({{< ref "/f18/package/gdm.md" >}}) | 250 | 956 | 26.2 | Kashubian <csb@li.org> | 
- | [gnome-panel]({{< ref "/f18/package/gnome-panel.md" >}}) | 283 | 3748 | 7.6 | Kashubian <csb@li.org> | 
- | [k3b]({{< ref "/f18/package/k3b.md" >}}) | 671 | 15116 | 4.4 | Kashubian <i18n-csb@linuxcsb.org> | 
- | [e16]({{< ref "/f18/package/e16.md" >}}) | 115 | 2828 | 4.1 | Kashubian <csb@li.org> | 
- | [file-roller]({{< ref "/f18/package/file-roller.md" >}}) | 41 | 1555 | 2.6 | Kashubian <csb@li.org> | 
- | [gimp]({{< ref "/f18/package/gimp.md" >}}) | 108 | 13636 | 0.8 | Kashubian <csb@li.org> | 
- | [vidalia]({{< ref "/f18/package/vidalia.md" >}}) | 0 | 10369 | 0.0 | translations@vidalia-project.net | 
+ | [gnome-desktop3](/f18/package/gnome-desktop3) | 235 | 235 | 100.0 | Kashubian <csb@li.org> | 
+ | [gnome-icon-theme](/f18/package/gnome-icon-theme) | 4 | 4 | 100.0 | Kashubian <csb@li.org> | 
+ | [gnome-menus](/f18/package/gnome-menus) | 95 | 95 | 100.0 | Kashubian <csb@li.org> | 
+ | [gnome-session](/f18/package/gnome-session) | 447 | 475 | 94.1 | Kashubian <csb@li.org> | 
+ | [gdk-pixbuf2](/f18/package/gdk-pixbuf2) | 481 | 1354 | 35.5 | Kashubian <csb@li.org> | 
+ | [mingw-gdk-pixbuf](/f18/package/mingw-gdk-pixbuf) | 481 | 1354 | 35.5 | Kashubian <csb@li.org> | 
+ | [exaile](/f18/package/exaile) | 1300 | 3675 | 35.4 | Kashubian <csb@li.org> | 
+ | [gnome-applets](/f18/package/gnome-applets) | 848 | 3035 | 27.9 | Kashubian <csb@li.org> | 
+ | [gdm](/f18/package/gdm) | 250 | 956 | 26.2 | Kashubian <csb@li.org> | 
+ | [gnome-panel](/f18/package/gnome-panel) | 283 | 3748 | 7.6 | Kashubian <csb@li.org> | 
+ | [k3b](/f18/package/k3b) | 671 | 15116 | 4.4 | Kashubian <i18n-csb@linuxcsb.org> | 
+ | [e16](/f18/package/e16) | 115 | 2828 | 4.1 | Kashubian <csb@li.org> | 
+ | [file-roller](/f18/package/file-roller) | 41 | 1555 | 2.6 | Kashubian <csb@li.org> | 
+ | [gimp](/f18/package/gimp) | 108 | 13636 | 0.8 | Kashubian <csb@li.org> | 
+ | [vidalia](/f18/package/vidalia) | 0 | 10369 | 0.0 | translations@vidalia-project.net | 
 {.sortable}
 
 

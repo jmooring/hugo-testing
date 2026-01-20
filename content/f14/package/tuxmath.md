@@ -18,35 +18,35 @@ The package tuxmath (version 1.8.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ast]({{< ref "/f14/language/ast.md" >}}) | 1037 | 1051 | 98.7 | /mnt/stockage/packages/f14/tuxmath/po/ast.po | 
- | [en_GB]({{< ref "/f14/language/en_GB.md" >}}) | 935 | 1051 | 89.0 | /mnt/stockage/packages/f14/tuxmath/po/en_GB.po | 
- | [nn]({{< ref "/f14/language/nn.md" >}}) | 935 | 1051 | 89.0 | /mnt/stockage/packages/f14/tuxmath/po/nn.po | 
- | [pt]({{< ref "/f14/language/pt.md" >}}) | 935 | 1051 | 89.0 | /mnt/stockage/packages/f14/tuxmath/po/pt.po | 
- | [es]({{< ref "/f14/language/es.md" >}}) | 929 | 1051 | 88.4 | /mnt/stockage/packages/f14/tuxmath/po/es.po | 
- | [error]({{< ref "/f14/language/error.md" >}}) | 2585 | 3153 | 82.0 | /mnt/stockage/packages/f14/tuxmath/po/zam.po/mnt/stockage/packages/f14/tuxmath/po/en@boldquot.po/mnt/stockage/packages/f14/tuxmath/po/en@quot.po | 
- | [zh_Hans]({{< ref "/f14/language/zh_Hans.md" >}}) | 812 | 1051 | 77.3 | /mnt/stockage/packages/f14/tuxmath/po/zh_CN.po | 
- | [sv]({{< ref "/f14/language/sv.md" >}}) | 559 | 1051 | 53.2 | /mnt/stockage/packages/f14/tuxmath/po/sv.po | 
- | [tr]({{< ref "/f14/language/tr.md" >}}) | 540 | 1051 | 51.4 | /mnt/stockage/packages/f14/tuxmath/po/tr.po | 
- | [nb_NO]({{< ref "/f14/language/nb_NO.md" >}}) | 414 | 1051 | 39.4 | /mnt/stockage/packages/f14/tuxmath/po/nb.po | 
- | [ga]({{< ref "/f14/language/ga.md" >}}) | 402 | 1051 | 38.2 | /mnt/stockage/packages/f14/tuxmath/po/ga.po | 
- | [he]({{< ref "/f14/language/he.md" >}}) | 402 | 1051 | 38.2 | /mnt/stockage/packages/f14/tuxmath/po/he.po | 
- | [ku]({{< ref "/f14/language/ku.md" >}}) | 397 | 1051 | 37.8 | /mnt/stockage/packages/f14/tuxmath/po/ku.po | 
- | [ar]({{< ref "/f14/language/ar.md" >}}) | 396 | 1051 | 37.7 | /mnt/stockage/packages/f14/tuxmath/po/ar.po | 
- | [de]({{< ref "/f14/language/de.md" >}}) | 396 | 1051 | 37.7 | /mnt/stockage/packages/f14/tuxmath/po/de.po | 
- | [hu]({{< ref "/f14/language/hu.md" >}}) | 396 | 1051 | 37.7 | /mnt/stockage/packages/f14/tuxmath/po/hu.po | 
- | [cs]({{< ref "/f14/language/cs.md" >}}) | 288 | 1051 | 27.4 | /mnt/stockage/packages/f14/tuxmath/po/cs.po | 
- | [fr]({{< ref "/f14/language/fr.md" >}}) | 288 | 1051 | 27.4 | /mnt/stockage/packages/f14/tuxmath/po/fr.po | 
- | [ja]({{< ref "/f14/language/ja.md" >}}) | 288 | 1051 | 27.4 | /mnt/stockage/packages/f14/tuxmath/po/ja.po | 
- | [nl]({{< ref "/f14/language/nl.md" >}}) | 288 | 1051 | 27.4 | /mnt/stockage/packages/f14/tuxmath/po/nl.po | 
- | [pt_BR]({{< ref "/f14/language/pt_BR.md" >}}) | 288 | 1051 | 27.4 | /mnt/stockage/packages/f14/tuxmath/po/pt_BR.po | 
- | [ru]({{< ref "/f14/language/ru.md" >}}) | 288 | 1051 | 27.4 | /mnt/stockage/packages/f14/tuxmath/po/ru.po | 
- | [sk]({{< ref "/f14/language/sk.md" >}}) | 288 | 1051 | 27.4 | /mnt/stockage/packages/f14/tuxmath/po/sk.po | 
- | [sl]({{< ref "/f14/language/sl.md" >}}) | 278 | 1051 | 26.5 | /mnt/stockage/packages/f14/tuxmath/po/sl.po | 
- | [pl]({{< ref "/f14/language/pl.md" >}}) | 269 | 1051 | 25.6 | /mnt/stockage/packages/f14/tuxmath/po/pl.po | 
- | [it]({{< ref "/f14/language/it.md" >}}) | 268 | 1051 | 25.5 | /mnt/stockage/packages/f14/tuxmath/po/it.po | 
- | [fi]({{< ref "/f14/language/fi.md" >}}) | 182 | 1051 | 17.3 | /mnt/stockage/packages/f14/tuxmath/po/fi.po | 
- | [oc]({{< ref "/f14/language/oc.md" >}}) | 158 | 1051 | 15.0 | /mnt/stockage/packages/f14/tuxmath/po/oc.po | 
- | [vi]({{< ref "/f14/language/vi.md" >}}) | 46 | 1051 | 4.4 | /mnt/stockage/packages/f14/tuxmath/po/vi.po | 
+ | [ast](/f14/language/ast) | 1037 | 1051 | 98.7 | /mnt/stockage/packages/f14/tuxmath/po/ast.po | 
+ | [en_GB](/f14/language/en_GB) | 935 | 1051 | 89.0 | /mnt/stockage/packages/f14/tuxmath/po/en_GB.po | 
+ | [nn](/f14/language/nn) | 935 | 1051 | 89.0 | /mnt/stockage/packages/f14/tuxmath/po/nn.po | 
+ | [pt](/f14/language/pt) | 935 | 1051 | 89.0 | /mnt/stockage/packages/f14/tuxmath/po/pt.po | 
+ | [es](/f14/language/es) | 929 | 1051 | 88.4 | /mnt/stockage/packages/f14/tuxmath/po/es.po | 
+ | [error](/f14/language/error) | 2585 | 3153 | 82.0 | /mnt/stockage/packages/f14/tuxmath/po/zam.po/mnt/stockage/packages/f14/tuxmath/po/en@boldquot.po/mnt/stockage/packages/f14/tuxmath/po/en@quot.po | 
+ | [zh_Hans](/f14/language/zh_Hans) | 812 | 1051 | 77.3 | /mnt/stockage/packages/f14/tuxmath/po/zh_CN.po | 
+ | [sv](/f14/language/sv) | 559 | 1051 | 53.2 | /mnt/stockage/packages/f14/tuxmath/po/sv.po | 
+ | [tr](/f14/language/tr) | 540 | 1051 | 51.4 | /mnt/stockage/packages/f14/tuxmath/po/tr.po | 
+ | [nb_NO](/f14/language/nb_NO) | 414 | 1051 | 39.4 | /mnt/stockage/packages/f14/tuxmath/po/nb.po | 
+ | [ga](/f14/language/ga) | 402 | 1051 | 38.2 | /mnt/stockage/packages/f14/tuxmath/po/ga.po | 
+ | [he](/f14/language/he) | 402 | 1051 | 38.2 | /mnt/stockage/packages/f14/tuxmath/po/he.po | 
+ | [ku](/f14/language/ku) | 397 | 1051 | 37.8 | /mnt/stockage/packages/f14/tuxmath/po/ku.po | 
+ | [ar](/f14/language/ar) | 396 | 1051 | 37.7 | /mnt/stockage/packages/f14/tuxmath/po/ar.po | 
+ | [de](/f14/language/de) | 396 | 1051 | 37.7 | /mnt/stockage/packages/f14/tuxmath/po/de.po | 
+ | [hu](/f14/language/hu) | 396 | 1051 | 37.7 | /mnt/stockage/packages/f14/tuxmath/po/hu.po | 
+ | [cs](/f14/language/cs) | 288 | 1051 | 27.4 | /mnt/stockage/packages/f14/tuxmath/po/cs.po | 
+ | [fr](/f14/language/fr) | 288 | 1051 | 27.4 | /mnt/stockage/packages/f14/tuxmath/po/fr.po | 
+ | [ja](/f14/language/ja) | 288 | 1051 | 27.4 | /mnt/stockage/packages/f14/tuxmath/po/ja.po | 
+ | [nl](/f14/language/nl) | 288 | 1051 | 27.4 | /mnt/stockage/packages/f14/tuxmath/po/nl.po | 
+ | [pt_BR](/f14/language/pt_BR) | 288 | 1051 | 27.4 | /mnt/stockage/packages/f14/tuxmath/po/pt_BR.po | 
+ | [ru](/f14/language/ru) | 288 | 1051 | 27.4 | /mnt/stockage/packages/f14/tuxmath/po/ru.po | 
+ | [sk](/f14/language/sk) | 288 | 1051 | 27.4 | /mnt/stockage/packages/f14/tuxmath/po/sk.po | 
+ | [sl](/f14/language/sl) | 278 | 1051 | 26.5 | /mnt/stockage/packages/f14/tuxmath/po/sl.po | 
+ | [pl](/f14/language/pl) | 269 | 1051 | 25.6 | /mnt/stockage/packages/f14/tuxmath/po/pl.po | 
+ | [it](/f14/language/it) | 268 | 1051 | 25.5 | /mnt/stockage/packages/f14/tuxmath/po/it.po | 
+ | [fi](/f14/language/fi) | 182 | 1051 | 17.3 | /mnt/stockage/packages/f14/tuxmath/po/fi.po | 
+ | [oc](/f14/language/oc) | 158 | 1051 | 15.0 | /mnt/stockage/packages/f14/tuxmath/po/oc.po | 
+ | [vi](/f14/language/vi) | 46 | 1051 | 4.4 | /mnt/stockage/packages/f14/tuxmath/po/vi.po | 
 {.sortable}
 
 

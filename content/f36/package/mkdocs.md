@@ -18,11 +18,11 @@ The package mkdocs (version 1.2.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ja]({{< ref "/f36/language/ja.md" >}}) | 81 | 81 | 100.0 | /mnt/stockage/packages/f36/mkdocs/mkdocs/themes/mkdocs/locales/ja/LC_MESSAGES/messages.po/mnt/stockage/packages/f36/mkdocs/mkdocs/themes/readthedocs/locales/ja/LC_MESSAGES/messages.po | 
- | [zh_Hans]({{< ref "/f36/language/zh_Hans.md" >}}) | 81 | 81 | 100.0 | /mnt/stockage/packages/f36/mkdocs/mkdocs/themes/mkdocs/locales/zh_CN/LC_MESSAGES/messages.po/mnt/stockage/packages/f36/mkdocs/mkdocs/themes/readthedocs/locales/zh_CN/LC_MESSAGES/messages.po | 
- | [es]({{< ref "/f36/language/es.md" >}}) | 80 | 81 | 98.8 | /mnt/stockage/packages/f36/mkdocs/mkdocs/themes/mkdocs/locales/es/LC_MESSAGES/messages.po/mnt/stockage/packages/f36/mkdocs/mkdocs/themes/readthedocs/locales/es/LC_MESSAGES/messages.po | 
- | [fr]({{< ref "/f36/language/fr.md" >}}) | 80 | 81 | 98.8 | /mnt/stockage/packages/f36/mkdocs/mkdocs/themes/mkdocs/locales/fr/LC_MESSAGES/messages.po/mnt/stockage/packages/f36/mkdocs/mkdocs/themes/readthedocs/locales/fr/LC_MESSAGES/messages.po | 
- | [pt_BR]({{< ref "/f36/language/pt_BR.md" >}}) | 63 | 81 | 77.8 | /mnt/stockage/packages/f36/mkdocs/mkdocs/themes/mkdocs/locales/pt_BR/LC_MESSAGES/messages.po/mnt/stockage/packages/f36/mkdocs/mkdocs/themes/readthedocs/locales/pt_BR/LC_MESSAGES/messages.po | 
+ | [ja](/f36/language/ja) | 81 | 81 | 100.0 | /mnt/stockage/packages/f36/mkdocs/mkdocs/themes/mkdocs/locales/ja/LC_MESSAGES/messages.po/mnt/stockage/packages/f36/mkdocs/mkdocs/themes/readthedocs/locales/ja/LC_MESSAGES/messages.po | 
+ | [zh_Hans](/f36/language/zh_Hans) | 81 | 81 | 100.0 | /mnt/stockage/packages/f36/mkdocs/mkdocs/themes/mkdocs/locales/zh_CN/LC_MESSAGES/messages.po/mnt/stockage/packages/f36/mkdocs/mkdocs/themes/readthedocs/locales/zh_CN/LC_MESSAGES/messages.po | 
+ | [es](/f36/language/es) | 80 | 81 | 98.8 | /mnt/stockage/packages/f36/mkdocs/mkdocs/themes/mkdocs/locales/es/LC_MESSAGES/messages.po/mnt/stockage/packages/f36/mkdocs/mkdocs/themes/readthedocs/locales/es/LC_MESSAGES/messages.po | 
+ | [fr](/f36/language/fr) | 80 | 81 | 98.8 | /mnt/stockage/packages/f36/mkdocs/mkdocs/themes/mkdocs/locales/fr/LC_MESSAGES/messages.po/mnt/stockage/packages/f36/mkdocs/mkdocs/themes/readthedocs/locales/fr/LC_MESSAGES/messages.po | 
+ | [pt_BR](/f36/language/pt_BR) | 63 | 81 | 77.8 | /mnt/stockage/packages/f36/mkdocs/mkdocs/themes/mkdocs/locales/pt_BR/LC_MESSAGES/messages.po/mnt/stockage/packages/f36/mkdocs/mkdocs/themes/readthedocs/locales/pt_BR/LC_MESSAGES/messages.po | 
 {.sortable}
 
 

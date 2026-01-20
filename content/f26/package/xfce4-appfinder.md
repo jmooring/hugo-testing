@@ -18,64 +18,64 @@ The package xfce4-appfinder (version 4.12.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f26/language/ar.md" >}}) | 322 | 322 | 100.0 | /mnt/stockage/packages/f26/xfce4-appfinder/po/ar.po | 
- | [ast]({{< ref "/f26/language/ast.md" >}}) | 322 | 322 | 100.0 | /mnt/stockage/packages/f26/xfce4-appfinder/po/ast.po | 
- | [bg]({{< ref "/f26/language/bg.md" >}}) | 322 | 322 | 100.0 | /mnt/stockage/packages/f26/xfce4-appfinder/po/bg.po | 
- | [cs]({{< ref "/f26/language/cs.md" >}}) | 322 | 322 | 100.0 | /mnt/stockage/packages/f26/xfce4-appfinder/po/cs.po | 
- | [da]({{< ref "/f26/language/da.md" >}}) | 322 | 322 | 100.0 | /mnt/stockage/packages/f26/xfce4-appfinder/po/da.po | 
- | [de]({{< ref "/f26/language/de.md" >}}) | 322 | 322 | 100.0 | /mnt/stockage/packages/f26/xfce4-appfinder/po/de.po | 
- | [en_AU]({{< ref "/f26/language/en_AU.md" >}}) | 322 | 322 | 100.0 | /mnt/stockage/packages/f26/xfce4-appfinder/po/en_AU.po | 
- | [es]({{< ref "/f26/language/es.md" >}}) | 322 | 322 | 100.0 | /mnt/stockage/packages/f26/xfce4-appfinder/po/es.po | 
- | [fi]({{< ref "/f26/language/fi.md" >}}) | 322 | 322 | 100.0 | /mnt/stockage/packages/f26/xfce4-appfinder/po/fi.po | 
- | [fr]({{< ref "/f26/language/fr.md" >}}) | 322 | 322 | 100.0 | /mnt/stockage/packages/f26/xfce4-appfinder/po/fr.po | 
- | [hr]({{< ref "/f26/language/hr.md" >}}) | 322 | 322 | 100.0 | /mnt/stockage/packages/f26/xfce4-appfinder/po/hr.po | 
- | [hu]({{< ref "/f26/language/hu.md" >}}) | 322 | 322 | 100.0 | /mnt/stockage/packages/f26/xfce4-appfinder/po/hu.po | 
- | [id]({{< ref "/f26/language/id.md" >}}) | 322 | 322 | 100.0 | /mnt/stockage/packages/f26/xfce4-appfinder/po/id.po | 
- | [is]({{< ref "/f26/language/is.md" >}}) | 322 | 322 | 100.0 | /mnt/stockage/packages/f26/xfce4-appfinder/po/is.po | 
- | [it]({{< ref "/f26/language/it.md" >}}) | 322 | 322 | 100.0 | /mnt/stockage/packages/f26/xfce4-appfinder/po/it.po | 
- | [kk]({{< ref "/f26/language/kk.md" >}}) | 319 | 319 | 100.0 | /mnt/stockage/packages/f26/xfce4-appfinder/po/kk.po | 
- | [ko]({{< ref "/f26/language/ko.md" >}}) | 322 | 322 | 100.0 | /mnt/stockage/packages/f26/xfce4-appfinder/po/ko.po | 
- | [ms]({{< ref "/f26/language/ms.md" >}}) | 322 | 322 | 100.0 | /mnt/stockage/packages/f26/xfce4-appfinder/po/ms.po | 
- | [nb_NO]({{< ref "/f26/language/nb_NO.md" >}}) | 322 | 322 | 100.0 | /mnt/stockage/packages/f26/xfce4-appfinder/po/nb.po | 
- | [nl]({{< ref "/f26/language/nl.md" >}}) | 322 | 322 | 100.0 | /mnt/stockage/packages/f26/xfce4-appfinder/po/nl.po | 
- | [oc]({{< ref "/f26/language/oc.md" >}}) | 319 | 319 | 100.0 | /mnt/stockage/packages/f26/xfce4-appfinder/po/oc.po | 
- | [pl]({{< ref "/f26/language/pl.md" >}}) | 322 | 322 | 100.0 | /mnt/stockage/packages/f26/xfce4-appfinder/po/pl.po | 
- | [pt]({{< ref "/f26/language/pt.md" >}}) | 322 | 322 | 100.0 | /mnt/stockage/packages/f26/xfce4-appfinder/po/pt.po | 
- | [pt_BR]({{< ref "/f26/language/pt_BR.md" >}}) | 322 | 322 | 100.0 | /mnt/stockage/packages/f26/xfce4-appfinder/po/pt_BR.po | 
- | [ro]({{< ref "/f26/language/ro.md" >}}) | 322 | 322 | 100.0 | /mnt/stockage/packages/f26/xfce4-appfinder/po/ro.po | 
- | [ru]({{< ref "/f26/language/ru.md" >}}) | 322 | 322 | 100.0 | /mnt/stockage/packages/f26/xfce4-appfinder/po/ru.po | 
- | [sk]({{< ref "/f26/language/sk.md" >}}) | 322 | 322 | 100.0 | /mnt/stockage/packages/f26/xfce4-appfinder/po/sk.po | 
- | [sl]({{< ref "/f26/language/sl.md" >}}) | 322 | 322 | 100.0 | /mnt/stockage/packages/f26/xfce4-appfinder/po/sl.po | 
- | [sr]({{< ref "/f26/language/sr.md" >}}) | 322 | 322 | 100.0 | /mnt/stockage/packages/f26/xfce4-appfinder/po/sr.po | 
- | [sv]({{< ref "/f26/language/sv.md" >}}) | 322 | 322 | 100.0 | /mnt/stockage/packages/f26/xfce4-appfinder/po/sv.po | 
- | [th]({{< ref "/f26/language/th.md" >}}) | 322 | 322 | 100.0 | /mnt/stockage/packages/f26/xfce4-appfinder/po/th.po | 
- | [tr]({{< ref "/f26/language/tr.md" >}}) | 322 | 322 | 100.0 | /mnt/stockage/packages/f26/xfce4-appfinder/po/tr.po | 
- | [uk]({{< ref "/f26/language/uk.md" >}}) | 322 | 322 | 100.0 | /mnt/stockage/packages/f26/xfce4-appfinder/po/uk.po | 
- | [zh_Hans]({{< ref "/f26/language/zh_Hans.md" >}}) | 322 | 322 | 100.0 | /mnt/stockage/packages/f26/xfce4-appfinder/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f26/language/zh_Hant.md" >}}) | 319 | 319 | 100.0 | /mnt/stockage/packages/f26/xfce4-appfinder/po/zh_TW.po | 
- | [zh_Hant_HK]({{< ref "/f26/language/zh_Hant_HK.md" >}}) | 319 | 319 | 100.0 | /mnt/stockage/packages/f26/xfce4-appfinder/po/zh_HK.po | 
- | [be]({{< ref "/f26/language/be.md" >}}) | 312 | 319 | 97.8 | /mnt/stockage/packages/f26/xfce4-appfinder/po/be.po | 
- | [ca]({{< ref "/f26/language/ca.md" >}}) | 312 | 319 | 97.8 | /mnt/stockage/packages/f26/xfce4-appfinder/po/ca.po | 
- | [el]({{< ref "/f26/language/el.md" >}}) | 312 | 319 | 97.8 | /mnt/stockage/packages/f26/xfce4-appfinder/po/el.po | 
- | [en_GB]({{< ref "/f26/language/en_GB.md" >}}) | 312 | 319 | 97.8 | /mnt/stockage/packages/f26/xfce4-appfinder/po/en_GB.po | 
- | [eu]({{< ref "/f26/language/eu.md" >}}) | 312 | 319 | 97.8 | /mnt/stockage/packages/f26/xfce4-appfinder/po/eu.po | 
- | [ja]({{< ref "/f26/language/ja.md" >}}) | 312 | 319 | 97.8 | /mnt/stockage/packages/f26/xfce4-appfinder/po/ja.po | 
- | [lt]({{< ref "/f26/language/lt.md" >}}) | 312 | 319 | 97.8 | /mnt/stockage/packages/f26/xfce4-appfinder/po/lt.po | 
- | [nn]({{< ref "/f26/language/nn.md" >}}) | 312 | 319 | 97.8 | /mnt/stockage/packages/f26/xfce4-appfinder/po/nn.po | 
- | [ug]({{< ref "/f26/language/ug.md" >}}) | 312 | 319 | 97.8 | /mnt/stockage/packages/f26/xfce4-appfinder/po/ug.po | 
- | [vi]({{< ref "/f26/language/vi.md" >}}) | 208 | 322 | 64.6 | /mnt/stockage/packages/f26/xfce4-appfinder/po/vi.po | 
- | [gl]({{< ref "/f26/language/gl.md" >}}) | 172 | 319 | 53.9 | /mnt/stockage/packages/f26/xfce4-appfinder/po/gl.po | 
- | [et]({{< ref "/f26/language/et.md" >}}) | 147 | 319 | 46.1 | /mnt/stockage/packages/f26/xfce4-appfinder/po/et.po | 
- | [he]({{< ref "/f26/language/he.md" >}}) | 116 | 322 | 36.0 | /mnt/stockage/packages/f26/xfce4-appfinder/po/he.po | 
- | [te]({{< ref "/f26/language/te.md" >}}) | 92 | 322 | 28.6 | /mnt/stockage/packages/f26/xfce4-appfinder/po/te.po | 
- | [bn]({{< ref "/f26/language/bn.md" >}}) | 23 | 186 | 12.4 | /mnt/stockage/packages/f26/xfce4-appfinder/po/bn.po | 
- | [lv]({{< ref "/f26/language/lv.md" >}}) | 23 | 186 | 12.4 | /mnt/stockage/packages/f26/xfce4-appfinder/po/lv.po | 
- | [pa]({{< ref "/f26/language/pa.md" >}}) | 23 | 186 | 12.4 | /mnt/stockage/packages/f26/xfce4-appfinder/po/pa.po | 
- | [si]({{< ref "/f26/language/si.md" >}}) | 23 | 186 | 12.4 | /mnt/stockage/packages/f26/xfce4-appfinder/po/si.po | 
- | [sq]({{< ref "/f26/language/sq.md" >}}) | 23 | 186 | 12.4 | /mnt/stockage/packages/f26/xfce4-appfinder/po/sq.po | 
- | [ur]({{< ref "/f26/language/ur.md" >}}) | 46 | 372 | 12.4 | /mnt/stockage/packages/f26/xfce4-appfinder/po/ur_PK.po/mnt/stockage/packages/f26/xfce4-appfinder/po/ur.po | 
- | [am]({{< ref "/f26/language/am.md" >}}) | 37 | 320 | 11.6 | /mnt/stockage/packages/f26/xfce4-appfinder/po/am.po | 
- | [eo]({{< ref "/f26/language/eo.md" >}}) | 1 | 186 | 0.5 | /mnt/stockage/packages/f26/xfce4-appfinder/po/eo.po | 
+ | [ar](/f26/language/ar) | 322 | 322 | 100.0 | /mnt/stockage/packages/f26/xfce4-appfinder/po/ar.po | 
+ | [ast](/f26/language/ast) | 322 | 322 | 100.0 | /mnt/stockage/packages/f26/xfce4-appfinder/po/ast.po | 
+ | [bg](/f26/language/bg) | 322 | 322 | 100.0 | /mnt/stockage/packages/f26/xfce4-appfinder/po/bg.po | 
+ | [cs](/f26/language/cs) | 322 | 322 | 100.0 | /mnt/stockage/packages/f26/xfce4-appfinder/po/cs.po | 
+ | [da](/f26/language/da) | 322 | 322 | 100.0 | /mnt/stockage/packages/f26/xfce4-appfinder/po/da.po | 
+ | [de](/f26/language/de) | 322 | 322 | 100.0 | /mnt/stockage/packages/f26/xfce4-appfinder/po/de.po | 
+ | [en_AU](/f26/language/en_AU) | 322 | 322 | 100.0 | /mnt/stockage/packages/f26/xfce4-appfinder/po/en_AU.po | 
+ | [es](/f26/language/es) | 322 | 322 | 100.0 | /mnt/stockage/packages/f26/xfce4-appfinder/po/es.po | 
+ | [fi](/f26/language/fi) | 322 | 322 | 100.0 | /mnt/stockage/packages/f26/xfce4-appfinder/po/fi.po | 
+ | [fr](/f26/language/fr) | 322 | 322 | 100.0 | /mnt/stockage/packages/f26/xfce4-appfinder/po/fr.po | 
+ | [hr](/f26/language/hr) | 322 | 322 | 100.0 | /mnt/stockage/packages/f26/xfce4-appfinder/po/hr.po | 
+ | [hu](/f26/language/hu) | 322 | 322 | 100.0 | /mnt/stockage/packages/f26/xfce4-appfinder/po/hu.po | 
+ | [id](/f26/language/id) | 322 | 322 | 100.0 | /mnt/stockage/packages/f26/xfce4-appfinder/po/id.po | 
+ | [is](/f26/language/is) | 322 | 322 | 100.0 | /mnt/stockage/packages/f26/xfce4-appfinder/po/is.po | 
+ | [it](/f26/language/it) | 322 | 322 | 100.0 | /mnt/stockage/packages/f26/xfce4-appfinder/po/it.po | 
+ | [kk](/f26/language/kk) | 319 | 319 | 100.0 | /mnt/stockage/packages/f26/xfce4-appfinder/po/kk.po | 
+ | [ko](/f26/language/ko) | 322 | 322 | 100.0 | /mnt/stockage/packages/f26/xfce4-appfinder/po/ko.po | 
+ | [ms](/f26/language/ms) | 322 | 322 | 100.0 | /mnt/stockage/packages/f26/xfce4-appfinder/po/ms.po | 
+ | [nb_NO](/f26/language/nb_NO) | 322 | 322 | 100.0 | /mnt/stockage/packages/f26/xfce4-appfinder/po/nb.po | 
+ | [nl](/f26/language/nl) | 322 | 322 | 100.0 | /mnt/stockage/packages/f26/xfce4-appfinder/po/nl.po | 
+ | [oc](/f26/language/oc) | 319 | 319 | 100.0 | /mnt/stockage/packages/f26/xfce4-appfinder/po/oc.po | 
+ | [pl](/f26/language/pl) | 322 | 322 | 100.0 | /mnt/stockage/packages/f26/xfce4-appfinder/po/pl.po | 
+ | [pt](/f26/language/pt) | 322 | 322 | 100.0 | /mnt/stockage/packages/f26/xfce4-appfinder/po/pt.po | 
+ | [pt_BR](/f26/language/pt_BR) | 322 | 322 | 100.0 | /mnt/stockage/packages/f26/xfce4-appfinder/po/pt_BR.po | 
+ | [ro](/f26/language/ro) | 322 | 322 | 100.0 | /mnt/stockage/packages/f26/xfce4-appfinder/po/ro.po | 
+ | [ru](/f26/language/ru) | 322 | 322 | 100.0 | /mnt/stockage/packages/f26/xfce4-appfinder/po/ru.po | 
+ | [sk](/f26/language/sk) | 322 | 322 | 100.0 | /mnt/stockage/packages/f26/xfce4-appfinder/po/sk.po | 
+ | [sl](/f26/language/sl) | 322 | 322 | 100.0 | /mnt/stockage/packages/f26/xfce4-appfinder/po/sl.po | 
+ | [sr](/f26/language/sr) | 322 | 322 | 100.0 | /mnt/stockage/packages/f26/xfce4-appfinder/po/sr.po | 
+ | [sv](/f26/language/sv) | 322 | 322 | 100.0 | /mnt/stockage/packages/f26/xfce4-appfinder/po/sv.po | 
+ | [th](/f26/language/th) | 322 | 322 | 100.0 | /mnt/stockage/packages/f26/xfce4-appfinder/po/th.po | 
+ | [tr](/f26/language/tr) | 322 | 322 | 100.0 | /mnt/stockage/packages/f26/xfce4-appfinder/po/tr.po | 
+ | [uk](/f26/language/uk) | 322 | 322 | 100.0 | /mnt/stockage/packages/f26/xfce4-appfinder/po/uk.po | 
+ | [zh_Hans](/f26/language/zh_Hans) | 322 | 322 | 100.0 | /mnt/stockage/packages/f26/xfce4-appfinder/po/zh_CN.po | 
+ | [zh_Hant](/f26/language/zh_Hant) | 319 | 319 | 100.0 | /mnt/stockage/packages/f26/xfce4-appfinder/po/zh_TW.po | 
+ | [zh_Hant_HK](/f26/language/zh_Hant_HK) | 319 | 319 | 100.0 | /mnt/stockage/packages/f26/xfce4-appfinder/po/zh_HK.po | 
+ | [be](/f26/language/be) | 312 | 319 | 97.8 | /mnt/stockage/packages/f26/xfce4-appfinder/po/be.po | 
+ | [ca](/f26/language/ca) | 312 | 319 | 97.8 | /mnt/stockage/packages/f26/xfce4-appfinder/po/ca.po | 
+ | [el](/f26/language/el) | 312 | 319 | 97.8 | /mnt/stockage/packages/f26/xfce4-appfinder/po/el.po | 
+ | [en_GB](/f26/language/en_GB) | 312 | 319 | 97.8 | /mnt/stockage/packages/f26/xfce4-appfinder/po/en_GB.po | 
+ | [eu](/f26/language/eu) | 312 | 319 | 97.8 | /mnt/stockage/packages/f26/xfce4-appfinder/po/eu.po | 
+ | [ja](/f26/language/ja) | 312 | 319 | 97.8 | /mnt/stockage/packages/f26/xfce4-appfinder/po/ja.po | 
+ | [lt](/f26/language/lt) | 312 | 319 | 97.8 | /mnt/stockage/packages/f26/xfce4-appfinder/po/lt.po | 
+ | [nn](/f26/language/nn) | 312 | 319 | 97.8 | /mnt/stockage/packages/f26/xfce4-appfinder/po/nn.po | 
+ | [ug](/f26/language/ug) | 312 | 319 | 97.8 | /mnt/stockage/packages/f26/xfce4-appfinder/po/ug.po | 
+ | [vi](/f26/language/vi) | 208 | 322 | 64.6 | /mnt/stockage/packages/f26/xfce4-appfinder/po/vi.po | 
+ | [gl](/f26/language/gl) | 172 | 319 | 53.9 | /mnt/stockage/packages/f26/xfce4-appfinder/po/gl.po | 
+ | [et](/f26/language/et) | 147 | 319 | 46.1 | /mnt/stockage/packages/f26/xfce4-appfinder/po/et.po | 
+ | [he](/f26/language/he) | 116 | 322 | 36.0 | /mnt/stockage/packages/f26/xfce4-appfinder/po/he.po | 
+ | [te](/f26/language/te) | 92 | 322 | 28.6 | /mnt/stockage/packages/f26/xfce4-appfinder/po/te.po | 
+ | [bn](/f26/language/bn) | 23 | 186 | 12.4 | /mnt/stockage/packages/f26/xfce4-appfinder/po/bn.po | 
+ | [lv](/f26/language/lv) | 23 | 186 | 12.4 | /mnt/stockage/packages/f26/xfce4-appfinder/po/lv.po | 
+ | [pa](/f26/language/pa) | 23 | 186 | 12.4 | /mnt/stockage/packages/f26/xfce4-appfinder/po/pa.po | 
+ | [si](/f26/language/si) | 23 | 186 | 12.4 | /mnt/stockage/packages/f26/xfce4-appfinder/po/si.po | 
+ | [sq](/f26/language/sq) | 23 | 186 | 12.4 | /mnt/stockage/packages/f26/xfce4-appfinder/po/sq.po | 
+ | [ur](/f26/language/ur) | 46 | 372 | 12.4 | /mnt/stockage/packages/f26/xfce4-appfinder/po/ur_PK.po/mnt/stockage/packages/f26/xfce4-appfinder/po/ur.po | 
+ | [am](/f26/language/am) | 37 | 320 | 11.6 | /mnt/stockage/packages/f26/xfce4-appfinder/po/am.po | 
+ | [eo](/f26/language/eo) | 1 | 186 | 0.5 | /mnt/stockage/packages/f26/xfce4-appfinder/po/eo.po | 
 {.sortable}
 
 

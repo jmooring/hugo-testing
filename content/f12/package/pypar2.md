@@ -18,12 +18,12 @@ The package pypar2 (version 1.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [nl]({{< ref "/f12/language/nl.md" >}}) | 236 | 236 | 100.0 | /mnt/stockage/packages/f12/pypar2/PyPar2-1.4/po/nl.po | 
- | [ru]({{< ref "/f12/language/ru.md" >}}) | 235 | 236 | 99.6 | /mnt/stockage/packages/f12/pypar2/PyPar2-1.4/po/ru.po | 
- | [fr]({{< ref "/f12/language/fr.md" >}}) | 233 | 236 | 98.7 | /mnt/stockage/packages/f12/pypar2/PyPar2-1.4/po/fr.po | 
- | [pl]({{< ref "/f12/language/pl.md" >}}) | 233 | 236 | 98.7 | /mnt/stockage/packages/f12/pypar2/PyPar2-1.4/po/pl.po | 
- | [de]({{< ref "/f12/language/de.md" >}}) | 231 | 236 | 97.9 | /mnt/stockage/packages/f12/pypar2/PyPar2-1.4/po/de.po | 
- | [es]({{< ref "/f12/language/es.md" >}}) | 231 | 236 | 97.9 | /mnt/stockage/packages/f12/pypar2/PyPar2-1.4/po/es.po | 
+ | [nl](/f12/language/nl) | 236 | 236 | 100.0 | /mnt/stockage/packages/f12/pypar2/PyPar2-1.4/po/nl.po | 
+ | [ru](/f12/language/ru) | 235 | 236 | 99.6 | /mnt/stockage/packages/f12/pypar2/PyPar2-1.4/po/ru.po | 
+ | [fr](/f12/language/fr) | 233 | 236 | 98.7 | /mnt/stockage/packages/f12/pypar2/PyPar2-1.4/po/fr.po | 
+ | [pl](/f12/language/pl) | 233 | 236 | 98.7 | /mnt/stockage/packages/f12/pypar2/PyPar2-1.4/po/pl.po | 
+ | [de](/f12/language/de) | 231 | 236 | 97.9 | /mnt/stockage/packages/f12/pypar2/PyPar2-1.4/po/de.po | 
+ | [es](/f12/language/es) | 231 | 236 | 97.9 | /mnt/stockage/packages/f12/pypar2/PyPar2-1.4/po/es.po | 
 {.sortable}
 
 

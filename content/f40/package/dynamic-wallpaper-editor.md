@@ -18,15 +18,15 @@ The package dynamic-wallpaper-editor (version 2.7):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f40/language/fr.md" >}}) | 633 | 696 | 90.9 | /mnt/stockage/packages/f40/dynamic-wallpaper-editor/po/fr.po | 
- | [pt_BR]({{< ref "/f40/language/pt_BR.md" >}}) | 552 | 696 | 79.3 | /mnt/stockage/packages/f40/dynamic-wallpaper-editor/po/pt_BR.po | 
- | [nl]({{< ref "/f40/language/nl.md" >}}) | 528 | 696 | 75.9 | /mnt/stockage/packages/f40/dynamic-wallpaper-editor/po/nl.po | 
- | [ru]({{< ref "/f40/language/ru.md" >}}) | 528 | 696 | 75.9 | /mnt/stockage/packages/f40/dynamic-wallpaper-editor/po/ru.po | 
- | [it]({{< ref "/f40/language/it.md" >}}) | 508 | 696 | 73.0 | /mnt/stockage/packages/f40/dynamic-wallpaper-editor/po/it.po | 
- | [hr]({{< ref "/f40/language/hr.md" >}}) | 441 | 696 | 63.4 | /mnt/stockage/packages/f40/dynamic-wallpaper-editor/po/hr.po | 
- | [tr]({{< ref "/f40/language/tr.md" >}}) | 186 | 696 | 26.7 | /mnt/stockage/packages/f40/dynamic-wallpaper-editor/po/tr.po | 
- | [es]({{< ref "/f40/language/es.md" >}}) | 159 | 696 | 22.8 | /mnt/stockage/packages/f40/dynamic-wallpaper-editor/po/es.po | 
- | [de]({{< ref "/f40/language/de.md" >}}) | 58 | 696 | 8.3 | /mnt/stockage/packages/f40/dynamic-wallpaper-editor/po/de.po | 
+ | [fr](/f40/language/fr) | 633 | 696 | 90.9 | /mnt/stockage/packages/f40/dynamic-wallpaper-editor/po/fr.po | 
+ | [pt_BR](/f40/language/pt_BR) | 552 | 696 | 79.3 | /mnt/stockage/packages/f40/dynamic-wallpaper-editor/po/pt_BR.po | 
+ | [nl](/f40/language/nl) | 528 | 696 | 75.9 | /mnt/stockage/packages/f40/dynamic-wallpaper-editor/po/nl.po | 
+ | [ru](/f40/language/ru) | 528 | 696 | 75.9 | /mnt/stockage/packages/f40/dynamic-wallpaper-editor/po/ru.po | 
+ | [it](/f40/language/it) | 508 | 696 | 73.0 | /mnt/stockage/packages/f40/dynamic-wallpaper-editor/po/it.po | 
+ | [hr](/f40/language/hr) | 441 | 696 | 63.4 | /mnt/stockage/packages/f40/dynamic-wallpaper-editor/po/hr.po | 
+ | [tr](/f40/language/tr) | 186 | 696 | 26.7 | /mnt/stockage/packages/f40/dynamic-wallpaper-editor/po/tr.po | 
+ | [es](/f40/language/es) | 159 | 696 | 22.8 | /mnt/stockage/packages/f40/dynamic-wallpaper-editor/po/es.po | 
+ | [de](/f40/language/de) | 58 | 696 | 8.3 | /mnt/stockage/packages/f40/dynamic-wallpaper-editor/po/de.po | 
 {.sortable}
 
 

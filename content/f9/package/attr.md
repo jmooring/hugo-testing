@@ -18,13 +18,13 @@ The package attr (version 2.4.41):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f9/language/de.md" >}}) | 307 | 307 | 100.0 | /mnt/stockage/packages/f9/attr/po/de.po | 
- | [es]({{< ref "/f9/language/es.md" >}}) | 344 | 344 | 100.0 | /mnt/stockage/packages/f9/attr/po/es.po | 
- | [fr]({{< ref "/f9/language/fr.md" >}}) | 308 | 308 | 100.0 | /mnt/stockage/packages/f9/attr/po/fr.po | 
- | [gl]({{< ref "/f9/language/gl.md" >}}) | 344 | 344 | 100.0 | /mnt/stockage/packages/f9/attr/po/gl.po | 
- | [nl]({{< ref "/f9/language/nl.md" >}}) | 308 | 308 | 100.0 | /mnt/stockage/packages/f9/attr/po/nl.po | 
- | [pl]({{< ref "/f9/language/pl.md" >}}) | 344 | 344 | 100.0 | /mnt/stockage/packages/f9/attr/po/pl.po | 
- | [sv]({{< ref "/f9/language/sv.md" >}}) | 308 | 308 | 100.0 | /mnt/stockage/packages/f9/attr/po/sv.po | 
+ | [de](/f9/language/de) | 307 | 307 | 100.0 | /mnt/stockage/packages/f9/attr/po/de.po | 
+ | [es](/f9/language/es) | 344 | 344 | 100.0 | /mnt/stockage/packages/f9/attr/po/es.po | 
+ | [fr](/f9/language/fr) | 308 | 308 | 100.0 | /mnt/stockage/packages/f9/attr/po/fr.po | 
+ | [gl](/f9/language/gl) | 344 | 344 | 100.0 | /mnt/stockage/packages/f9/attr/po/gl.po | 
+ | [nl](/f9/language/nl) | 308 | 308 | 100.0 | /mnt/stockage/packages/f9/attr/po/nl.po | 
+ | [pl](/f9/language/pl) | 344 | 344 | 100.0 | /mnt/stockage/packages/f9/attr/po/pl.po | 
+ | [sv](/f9/language/sv) | 308 | 308 | 100.0 | /mnt/stockage/packages/f9/attr/po/sv.po | 
 {.sortable}
 
 

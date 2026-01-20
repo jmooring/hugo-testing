@@ -39,45 +39,45 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [newt]({{< ref "/f25/package/newt.md" >}}) | 4 | 4 | 100.0 | Wolof | 
- | [tuxpaint]({{< ref "/f25/package/tuxpaint.md" >}}) | 1591 | 1591 | 100.0 |  | 
- | [debconf]({{< ref "/f25/package/debconf.md" >}}) | 189 | 191 | 99.0 | Wolof <debian-boot@lists.debian.org> | 
- | [iso-codes]({{< ref "/f25/package/iso-codes.md" >}}) | 1005 | 1088 | 92.4 | Wolof | 
- | [klavaro]({{< ref "/f25/package/klavaro.md" >}}) | 1733 | 1911 | 90.7 | Wolof <wo@li.org> | 
- | [tuxtype2]({{< ref "/f25/package/tuxtype2.md" >}}) | 71 | 80 | 88.8 |  | 
- | [ccsm]({{< ref "/f25/package/ccsm.md" >}}) | 399 | 579 | 68.9 | Wolof <wo@li.org> | 
- | [isomaster]({{< ref "/f25/package/isomaster.md" >}}) | 8 | 674 | 1.2 | http://littlesvr.ca/ostd/ | 
- | [asunder]({{< ref "/f25/package/asunder.md" >}}) | 4 | 480 | 0.8 | http://littlesvr.ca/ostd/ | 
- | [abrt]({{< ref "/f25/package/abrt.md" >}}) | 0 | 3230 | 0.0 | Wolof (http://www.transifex.com/projects/p/fedora-abrt/language/wo/) | 
- | [appcenter]({{< ref "/f25/package/appcenter.md" >}}) | 0 | 681 | 0.0 | LANGUAGE <LL@li.org> | 
- | [audience]({{< ref "/f25/package/audience.md" >}}) | 0 | 106 | 0.0 |  | 
- | [certmonger]({{< ref "/f25/package/certmonger.md" >}}) | 0 | 2478 | 0.0 | Wolof (http://www.transifex.com/projects/p/certmonger/language/wo/) | 
- | [initial-setup]({{< ref "/f25/package/initial-setup.md" >}}) | 0 | 33 | 0.0 | Wolof (http://www.transifex.com/projects/p/initial-setup/language/wo/) | 
- | [libreport]({{< ref "/f25/package/libreport.md" >}}) | 0 | 3501 | 0.0 | Wolof (http://www.transifex.com/projects/p/libreport/language/wo/) | 
- | [maya-calendar]({{< ref "/f25/package/maya-calendar.md" >}}) | 0 | 394 | 0.0 | LANGUAGE <LL@li.org> | 
- | [noise]({{< ref "/f25/package/noise.md" >}}) | 0 | 1322 | 0.0 | LANGUAGE <LL@li.org> | 
- | [olpc-switch-desktop]({{< ref "/f25/package/olpc-switch-desktop.md" >}}) | 0 | 158 | 0.0 | LANGUAGE <LL@li.org> | 
- | [oscap-anaconda-addon]({{< ref "/f25/package/oscap-anaconda-addon.md" >}}) | 0 | 194 | 0.0 | Wolof (http://www.transifex.com/projects/p/oscap-anaconda-addon/language/wo/) | 
- | [pantheon-agent-polkit]({{< ref "/f25/package/pantheon-agent-polkit.md" >}}) | 0 | 15 | 0.0 | LANGUAGE <LL@li.org> | 
- | [pantheon-calculator]({{< ref "/f25/package/pantheon-calculator.md" >}}) | 0 | 52 | 0.0 | LANGUAGE <LL@li.org> | 
- | [pantheon-files]({{< ref "/f25/package/pantheon-files.md" >}}) | 0 | 2487 | 0.0 | LANGUAGE <LL@li.org> | 
- | [pantheon-photos]({{< ref "/f25/package/pantheon-photos.md" >}}) | 0 | 3977 | 0.0 | LANGUAGE <LL@li.org> | 
- | [policycoreutils]({{< ref "/f25/package/policycoreutils.md" >}}) | 0 | 7678 | 0.0 | Wolof (http://www.transifex.com/projects/p/fedora/language/wo/) | 
- | [python-meh]({{< ref "/f25/package/python-meh.md" >}}) | 0 | 109 | 0.0 | Wolof (http://www.transifex.com/projects/p/python-meh/language/wo/) | 
- | [scratch-text-editor]({{< ref "/f25/package/scratch-text-editor.md" >}}) | 0 | 681 | 0.0 | LANGUAGE <LL@li.org> | 
- | [screenshot-tool]({{< ref "/f25/package/screenshot-tool.md" >}}) | 0 | 146 | 0.0 | LANGUAGE <LL@li.org> | 
- | [setroubleshoot]({{< ref "/f25/package/setroubleshoot.md" >}}) | 0 | 656 | 0.0 | Wolof (http://www.transifex.com/projects/p/fedora/language/wo/) | 
- | [setroubleshoot-plugins]({{< ref "/f25/package/setroubleshoot-plugins.md" >}}) | 0 | 9830 | 0.0 | Wolof (http://www.transifex.com/projects/p/fedora/language/wo/) | 
- | [sugar]({{< ref "/f25/package/sugar.md" >}}) | 0 | 1625 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-browse]({{< ref "/f25/package/sugar-browse.md" >}}) | 0 | 189 | 0.0 | LANGUAGE <LL@li.org> | 
- | [switchboard]({{< ref "/f25/package/switchboard.md" >}}) | 0 | 41 | 0.0 | LANGUAGE <LL@li.org> | 
- | [switchboard-plug-a11y]({{< ref "/f25/package/switchboard-plug-a11y.md" >}}) | 0 | 210 | 0.0 | LANGUAGE <LL@li.org> | 
- | [switchboard-plug-about]({{< ref "/f25/package/switchboard-plug-about.md" >}}) | 0 | 72 | 0.0 | LANGUAGE <LL@li.org> | 
- | [switchboard-plug-display]({{< ref "/f25/package/switchboard-plug-display.md" >}}) | 0 | 33 | 0.0 | LANGUAGE <LL@li.org> | 
- | [switchboard-plug-pantheon-shell]({{< ref "/f25/package/switchboard-plug-pantheon-shell.md" >}}) | 0 | 132 | 0.0 |  | 
- | [switchboard-plug-printers]({{< ref "/f25/package/switchboard-plug-printers.md" >}}) | 0 | 288 | 0.0 | LANGUAGE <LL@li.org> | 
- | [system-config-kickstart]({{< ref "/f25/package/system-config-kickstart.md" >}}) | 0 | 1144 | 0.0 | Wolof (http://www.transifex.com/projects/p/system-config-kickstart/language/wo/) | 
- | [vocal]({{< ref "/f25/package/vocal.md" >}}) | 0 | 377 | 0.0 | Wolof <wo@li.org> | 
+ | [newt](/f25/package/newt) | 4 | 4 | 100.0 | Wolof | 
+ | [tuxpaint](/f25/package/tuxpaint) | 1591 | 1591 | 100.0 |  | 
+ | [debconf](/f25/package/debconf) | 189 | 191 | 99.0 | Wolof <debian-boot@lists.debian.org> | 
+ | [iso-codes](/f25/package/iso-codes) | 1005 | 1088 | 92.4 | Wolof | 
+ | [klavaro](/f25/package/klavaro) | 1733 | 1911 | 90.7 | Wolof <wo@li.org> | 
+ | [tuxtype2](/f25/package/tuxtype2) | 71 | 80 | 88.8 |  | 
+ | [ccsm](/f25/package/ccsm) | 399 | 579 | 68.9 | Wolof <wo@li.org> | 
+ | [isomaster](/f25/package/isomaster) | 8 | 674 | 1.2 | http://littlesvr.ca/ostd/ | 
+ | [asunder](/f25/package/asunder) | 4 | 480 | 0.8 | http://littlesvr.ca/ostd/ | 
+ | [abrt](/f25/package/abrt) | 0 | 3230 | 0.0 | Wolof (http://www.transifex.com/projects/p/fedora-abrt/language/wo/) | 
+ | [appcenter](/f25/package/appcenter) | 0 | 681 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [audience](/f25/package/audience) | 0 | 106 | 0.0 |  | 
+ | [certmonger](/f25/package/certmonger) | 0 | 2478 | 0.0 | Wolof (http://www.transifex.com/projects/p/certmonger/language/wo/) | 
+ | [initial-setup](/f25/package/initial-setup) | 0 | 33 | 0.0 | Wolof (http://www.transifex.com/projects/p/initial-setup/language/wo/) | 
+ | [libreport](/f25/package/libreport) | 0 | 3501 | 0.0 | Wolof (http://www.transifex.com/projects/p/libreport/language/wo/) | 
+ | [maya-calendar](/f25/package/maya-calendar) | 0 | 394 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [noise](/f25/package/noise) | 0 | 1322 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [olpc-switch-desktop](/f25/package/olpc-switch-desktop) | 0 | 158 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [oscap-anaconda-addon](/f25/package/oscap-anaconda-addon) | 0 | 194 | 0.0 | Wolof (http://www.transifex.com/projects/p/oscap-anaconda-addon/language/wo/) | 
+ | [pantheon-agent-polkit](/f25/package/pantheon-agent-polkit) | 0 | 15 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [pantheon-calculator](/f25/package/pantheon-calculator) | 0 | 52 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [pantheon-files](/f25/package/pantheon-files) | 0 | 2487 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [pantheon-photos](/f25/package/pantheon-photos) | 0 | 3977 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [policycoreutils](/f25/package/policycoreutils) | 0 | 7678 | 0.0 | Wolof (http://www.transifex.com/projects/p/fedora/language/wo/) | 
+ | [python-meh](/f25/package/python-meh) | 0 | 109 | 0.0 | Wolof (http://www.transifex.com/projects/p/python-meh/language/wo/) | 
+ | [scratch-text-editor](/f25/package/scratch-text-editor) | 0 | 681 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [screenshot-tool](/f25/package/screenshot-tool) | 0 | 146 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [setroubleshoot](/f25/package/setroubleshoot) | 0 | 656 | 0.0 | Wolof (http://www.transifex.com/projects/p/fedora/language/wo/) | 
+ | [setroubleshoot-plugins](/f25/package/setroubleshoot-plugins) | 0 | 9830 | 0.0 | Wolof (http://www.transifex.com/projects/p/fedora/language/wo/) | 
+ | [sugar](/f25/package/sugar) | 0 | 1625 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-browse](/f25/package/sugar-browse) | 0 | 189 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [switchboard](/f25/package/switchboard) | 0 | 41 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [switchboard-plug-a11y](/f25/package/switchboard-plug-a11y) | 0 | 210 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [switchboard-plug-about](/f25/package/switchboard-plug-about) | 0 | 72 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [switchboard-plug-display](/f25/package/switchboard-plug-display) | 0 | 33 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [switchboard-plug-pantheon-shell](/f25/package/switchboard-plug-pantheon-shell) | 0 | 132 | 0.0 |  | 
+ | [switchboard-plug-printers](/f25/package/switchboard-plug-printers) | 0 | 288 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [system-config-kickstart](/f25/package/system-config-kickstart) | 0 | 1144 | 0.0 | Wolof (http://www.transifex.com/projects/p/system-config-kickstart/language/wo/) | 
+ | [vocal](/f25/package/vocal) | 0 | 377 | 0.0 | Wolof <wo@li.org> | 
 {.sortable}
 
 

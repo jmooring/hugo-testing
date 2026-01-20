@@ -18,21 +18,21 @@ The package caribou (version 0.1.5):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f14/language/cs.md" >}}) | 16 | 16 | 100.0 | /mnt/stockage/packages/f14/caribou/po/cs.po | 
- | [de]({{< ref "/f14/language/de.md" >}}) | 16 | 16 | 100.0 | /mnt/stockage/packages/f14/caribou/po/de.po | 
- | [es]({{< ref "/f14/language/es.md" >}}) | 16 | 16 | 100.0 | /mnt/stockage/packages/f14/caribou/po/es.po | 
- | [fr]({{< ref "/f14/language/fr.md" >}}) | 16 | 16 | 100.0 | /mnt/stockage/packages/f14/caribou/po/fr.po | 
- | [gl]({{< ref "/f14/language/gl.md" >}}) | 16 | 16 | 100.0 | /mnt/stockage/packages/f14/caribou/po/gl.po | 
- | [he]({{< ref "/f14/language/he.md" >}}) | 16 | 16 | 100.0 | /mnt/stockage/packages/f14/caribou/po/he.po | 
- | [id]({{< ref "/f14/language/id.md" >}}) | 16 | 16 | 100.0 | /mnt/stockage/packages/f14/caribou/po/id.po | 
- | [nb_NO]({{< ref "/f14/language/nb_NO.md" >}}) | 16 | 16 | 100.0 | /mnt/stockage/packages/f14/caribou/po/nb.po | 
- | [nn]({{< ref "/f14/language/nn.md" >}}) | 16 | 16 | 100.0 | /mnt/stockage/packages/f14/caribou/po/nn.po | 
- | [pa]({{< ref "/f14/language/pa.md" >}}) | 16 | 16 | 100.0 | /mnt/stockage/packages/f14/caribou/po/pa.po | 
- | [ro]({{< ref "/f14/language/ro.md" >}}) | 16 | 16 | 100.0 | /mnt/stockage/packages/f14/caribou/po/ro.po | 
- | [sl]({{< ref "/f14/language/sl.md" >}}) | 16 | 16 | 100.0 | /mnt/stockage/packages/f14/caribou/po/sl.po | 
- | [sv]({{< ref "/f14/language/sv.md" >}}) | 16 | 16 | 100.0 | /mnt/stockage/packages/f14/caribou/po/sv.po | 
- | [ta]({{< ref "/f14/language/ta.md" >}}) | 16 | 16 | 100.0 | /mnt/stockage/packages/f14/caribou/po/ta.po | 
- | [zh_Hans]({{< ref "/f14/language/zh_Hans.md" >}}) | 16 | 16 | 100.0 | /mnt/stockage/packages/f14/caribou/po/zh_CN.po | 
+ | [cs](/f14/language/cs) | 16 | 16 | 100.0 | /mnt/stockage/packages/f14/caribou/po/cs.po | 
+ | [de](/f14/language/de) | 16 | 16 | 100.0 | /mnt/stockage/packages/f14/caribou/po/de.po | 
+ | [es](/f14/language/es) | 16 | 16 | 100.0 | /mnt/stockage/packages/f14/caribou/po/es.po | 
+ | [fr](/f14/language/fr) | 16 | 16 | 100.0 | /mnt/stockage/packages/f14/caribou/po/fr.po | 
+ | [gl](/f14/language/gl) | 16 | 16 | 100.0 | /mnt/stockage/packages/f14/caribou/po/gl.po | 
+ | [he](/f14/language/he) | 16 | 16 | 100.0 | /mnt/stockage/packages/f14/caribou/po/he.po | 
+ | [id](/f14/language/id) | 16 | 16 | 100.0 | /mnt/stockage/packages/f14/caribou/po/id.po | 
+ | [nb_NO](/f14/language/nb_NO) | 16 | 16 | 100.0 | /mnt/stockage/packages/f14/caribou/po/nb.po | 
+ | [nn](/f14/language/nn) | 16 | 16 | 100.0 | /mnt/stockage/packages/f14/caribou/po/nn.po | 
+ | [pa](/f14/language/pa) | 16 | 16 | 100.0 | /mnt/stockage/packages/f14/caribou/po/pa.po | 
+ | [ro](/f14/language/ro) | 16 | 16 | 100.0 | /mnt/stockage/packages/f14/caribou/po/ro.po | 
+ | [sl](/f14/language/sl) | 16 | 16 | 100.0 | /mnt/stockage/packages/f14/caribou/po/sl.po | 
+ | [sv](/f14/language/sv) | 16 | 16 | 100.0 | /mnt/stockage/packages/f14/caribou/po/sv.po | 
+ | [ta](/f14/language/ta) | 16 | 16 | 100.0 | /mnt/stockage/packages/f14/caribou/po/ta.po | 
+ | [zh_Hans](/f14/language/zh_Hans) | 16 | 16 | 100.0 | /mnt/stockage/packages/f14/caribou/po/zh_CN.po | 
 {.sortable}
 
 

@@ -38,7 +38,7 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [lagrange]({{< ref "/f34/package/lagrange.md" >}}) | 1826 | 1832 | 99.7 | Toki Pona <http://weblate.skyjake.fi/projects/lagrange/ui/tok/> | 
+ | [lagrange](/f34/package/lagrange) | 1826 | 1832 | 99.7 | Toki Pona <http://weblate.skyjake.fi/projects/lagrange/ui/tok/> | 
 {.sortable}
 
 

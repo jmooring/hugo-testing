@@ -18,8 +18,8 @@ The package gnome-shell-extension-vertical-workspaces (version 37):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f38/language/cs.md" >}}) | 2409 | 2409 | 100.0 | /mnt/stockage/packages/f38/gnome-shell-extension-vertical-workspaces/po/cs.po | 
- | [nl]({{< ref "/f38/language/nl.md" >}}) | 2409 | 2409 | 100.0 | /mnt/stockage/packages/f38/gnome-shell-extension-vertical-workspaces/po/nl.po | 
+ | [cs](/f38/language/cs) | 2409 | 2409 | 100.0 | /mnt/stockage/packages/f38/gnome-shell-extension-vertical-workspaces/po/cs.po | 
+ | [nl](/f38/language/nl) | 2409 | 2409 | 100.0 | /mnt/stockage/packages/f38/gnome-shell-extension-vertical-workspaces/po/nl.po | 
 {.sortable}
 
 

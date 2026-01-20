@@ -18,25 +18,25 @@ The package libgpg-error (version 1.24):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f24/language/de.md" >}}) | 1281 | 1281 | 100.0 | /mnt/stockage/packages/f24/libgpg-error/po/de.po | 
- | [ja]({{< ref "/f24/language/ja.md" >}}) | 1275 | 1281 | 99.5 | /mnt/stockage/packages/f24/libgpg-error/po/ja.po | 
- | [pl]({{< ref "/f24/language/pl.md" >}}) | 1275 | 1281 | 99.5 | /mnt/stockage/packages/f24/libgpg-error/po/pl.po | 
- | [ru]({{< ref "/f24/language/ru.md" >}}) | 1262 | 1281 | 98.5 | /mnt/stockage/packages/f24/libgpg-error/po/ru.po | 
- | [uk]({{< ref "/f24/language/uk.md" >}}) | 1262 | 1281 | 98.5 | /mnt/stockage/packages/f24/libgpg-error/po/uk.po | 
- | [cs]({{< ref "/f24/language/cs.md" >}}) | 925 | 1281 | 72.2 | /mnt/stockage/packages/f24/libgpg-error/po/cs.po | 
- | [da]({{< ref "/f24/language/da.md" >}}) | 925 | 1281 | 72.2 | /mnt/stockage/packages/f24/libgpg-error/po/da.po | 
- | [fr]({{< ref "/f24/language/fr.md" >}}) | 925 | 1281 | 72.2 | /mnt/stockage/packages/f24/libgpg-error/po/fr.po | 
- | [it]({{< ref "/f24/language/it.md" >}}) | 925 | 1281 | 72.2 | /mnt/stockage/packages/f24/libgpg-error/po/it.po | 
- | [nl]({{< ref "/f24/language/nl.md" >}}) | 925 | 1281 | 72.2 | /mnt/stockage/packages/f24/libgpg-error/po/nl.po | 
- | [pt]({{< ref "/f24/language/pt.md" >}}) | 925 | 1281 | 72.2 | /mnt/stockage/packages/f24/libgpg-error/po/pt.po | 
- | [zh_Hant]({{< ref "/f24/language/zh_Hant.md" >}}) | 925 | 1281 | 72.2 | /mnt/stockage/packages/f24/libgpg-error/po/zh_TW.po | 
- | [eo]({{< ref "/f24/language/eo.md" >}}) | 743 | 1281 | 58.0 | /mnt/stockage/packages/f24/libgpg-error/po/eo.po | 
- | [sv]({{< ref "/f24/language/sv.md" >}}) | 743 | 1281 | 58.0 | /mnt/stockage/packages/f24/libgpg-error/po/sv.po | 
- | [vi]({{< ref "/f24/language/vi.md" >}}) | 743 | 1281 | 58.0 | /mnt/stockage/packages/f24/libgpg-error/po/vi.po | 
- | [hu]({{< ref "/f24/language/hu.md" >}}) | 741 | 1281 | 57.8 | /mnt/stockage/packages/f24/libgpg-error/po/hu.po | 
- | [sr]({{< ref "/f24/language/sr.md" >}}) | 741 | 1281 | 57.8 | /mnt/stockage/packages/f24/libgpg-error/po/sr.po | 
- | [ro]({{< ref "/f24/language/ro.md" >}}) | 616 | 1281 | 48.1 | /mnt/stockage/packages/f24/libgpg-error/po/ro.po | 
- | [zh_Hans]({{< ref "/f24/language/zh_Hans.md" >}}) | 547 | 1281 | 42.7 | /mnt/stockage/packages/f24/libgpg-error/po/zh_CN.po | 
+ | [de](/f24/language/de) | 1281 | 1281 | 100.0 | /mnt/stockage/packages/f24/libgpg-error/po/de.po | 
+ | [ja](/f24/language/ja) | 1275 | 1281 | 99.5 | /mnt/stockage/packages/f24/libgpg-error/po/ja.po | 
+ | [pl](/f24/language/pl) | 1275 | 1281 | 99.5 | /mnt/stockage/packages/f24/libgpg-error/po/pl.po | 
+ | [ru](/f24/language/ru) | 1262 | 1281 | 98.5 | /mnt/stockage/packages/f24/libgpg-error/po/ru.po | 
+ | [uk](/f24/language/uk) | 1262 | 1281 | 98.5 | /mnt/stockage/packages/f24/libgpg-error/po/uk.po | 
+ | [cs](/f24/language/cs) | 925 | 1281 | 72.2 | /mnt/stockage/packages/f24/libgpg-error/po/cs.po | 
+ | [da](/f24/language/da) | 925 | 1281 | 72.2 | /mnt/stockage/packages/f24/libgpg-error/po/da.po | 
+ | [fr](/f24/language/fr) | 925 | 1281 | 72.2 | /mnt/stockage/packages/f24/libgpg-error/po/fr.po | 
+ | [it](/f24/language/it) | 925 | 1281 | 72.2 | /mnt/stockage/packages/f24/libgpg-error/po/it.po | 
+ | [nl](/f24/language/nl) | 925 | 1281 | 72.2 | /mnt/stockage/packages/f24/libgpg-error/po/nl.po | 
+ | [pt](/f24/language/pt) | 925 | 1281 | 72.2 | /mnt/stockage/packages/f24/libgpg-error/po/pt.po | 
+ | [zh_Hant](/f24/language/zh_Hant) | 925 | 1281 | 72.2 | /mnt/stockage/packages/f24/libgpg-error/po/zh_TW.po | 
+ | [eo](/f24/language/eo) | 743 | 1281 | 58.0 | /mnt/stockage/packages/f24/libgpg-error/po/eo.po | 
+ | [sv](/f24/language/sv) | 743 | 1281 | 58.0 | /mnt/stockage/packages/f24/libgpg-error/po/sv.po | 
+ | [vi](/f24/language/vi) | 743 | 1281 | 58.0 | /mnt/stockage/packages/f24/libgpg-error/po/vi.po | 
+ | [hu](/f24/language/hu) | 741 | 1281 | 57.8 | /mnt/stockage/packages/f24/libgpg-error/po/hu.po | 
+ | [sr](/f24/language/sr) | 741 | 1281 | 57.8 | /mnt/stockage/packages/f24/libgpg-error/po/sr.po | 
+ | [ro](/f24/language/ro) | 616 | 1281 | 48.1 | /mnt/stockage/packages/f24/libgpg-error/po/ro.po | 
+ | [zh_Hans](/f24/language/zh_Hans) | 547 | 1281 | 42.7 | /mnt/stockage/packages/f24/libgpg-error/po/zh_CN.po | 
 {.sortable}
 
 

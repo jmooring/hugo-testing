@@ -18,50 +18,50 @@ The package ktp-contact-runner (version 21.04.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f35/language/ca.md" >}}) | 208 | 208 | 100.0 | /mnt/stockage/packages/f35/ktp-contact-runner/po/ca/plasma_runner_ktp_contacts.po | 
- | [ca@valencia]({{< ref "/f35/language/ca@valencia.md" >}}) | 208 | 208 | 100.0 | /mnt/stockage/packages/f35/ktp-contact-runner/po/ca@valencia/plasma_runner_ktp_contacts.po | 
- | [cs]({{< ref "/f35/language/cs.md" >}}) | 208 | 208 | 100.0 | /mnt/stockage/packages/f35/ktp-contact-runner/po/cs/plasma_runner_ktp_contacts.po | 
- | [da]({{< ref "/f35/language/da.md" >}}) | 208 | 208 | 100.0 | /mnt/stockage/packages/f35/ktp-contact-runner/po/da/plasma_runner_ktp_contacts.po | 
- | [de]({{< ref "/f35/language/de.md" >}}) | 208 | 208 | 100.0 | /mnt/stockage/packages/f35/ktp-contact-runner/po/de/plasma_runner_ktp_contacts.po | 
- | [el]({{< ref "/f35/language/el.md" >}}) | 208 | 208 | 100.0 | /mnt/stockage/packages/f35/ktp-contact-runner/po/el/plasma_runner_ktp_contacts.po | 
- | [en_GB]({{< ref "/f35/language/en_GB.md" >}}) | 208 | 208 | 100.0 | /mnt/stockage/packages/f35/ktp-contact-runner/po/en_GB/plasma_runner_ktp_contacts.po | 
- | [es]({{< ref "/f35/language/es.md" >}}) | 208 | 208 | 100.0 | /mnt/stockage/packages/f35/ktp-contact-runner/po/es/plasma_runner_ktp_contacts.po | 
- | [et]({{< ref "/f35/language/et.md" >}}) | 208 | 208 | 100.0 | /mnt/stockage/packages/f35/ktp-contact-runner/po/et/plasma_runner_ktp_contacts.po | 
- | [eu]({{< ref "/f35/language/eu.md" >}}) | 208 | 208 | 100.0 | /mnt/stockage/packages/f35/ktp-contact-runner/po/eu/plasma_runner_ktp_contacts.po | 
- | [fi]({{< ref "/f35/language/fi.md" >}}) | 208 | 208 | 100.0 | /mnt/stockage/packages/f35/ktp-contact-runner/po/fi/plasma_runner_ktp_contacts.po | 
- | [fr]({{< ref "/f35/language/fr.md" >}}) | 208 | 208 | 100.0 | /mnt/stockage/packages/f35/ktp-contact-runner/po/fr/plasma_runner_ktp_contacts.po | 
- | [gl]({{< ref "/f35/language/gl.md" >}}) | 208 | 208 | 100.0 | /mnt/stockage/packages/f35/ktp-contact-runner/po/gl/plasma_runner_ktp_contacts.po | 
- | [ia]({{< ref "/f35/language/ia.md" >}}) | 208 | 208 | 100.0 | /mnt/stockage/packages/f35/ktp-contact-runner/po/ia/plasma_runner_ktp_contacts.po | 
- | [it]({{< ref "/f35/language/it.md" >}}) | 208 | 208 | 100.0 | /mnt/stockage/packages/f35/ktp-contact-runner/po/it/plasma_runner_ktp_contacts.po | 
- | [ko]({{< ref "/f35/language/ko.md" >}}) | 208 | 208 | 100.0 | /mnt/stockage/packages/f35/ktp-contact-runner/po/ko/plasma_runner_ktp_contacts.po | 
- | [nl]({{< ref "/f35/language/nl.md" >}}) | 208 | 208 | 100.0 | /mnt/stockage/packages/f35/ktp-contact-runner/po/nl/plasma_runner_ktp_contacts.po | 
- | [nn]({{< ref "/f35/language/nn.md" >}}) | 208 | 208 | 100.0 | /mnt/stockage/packages/f35/ktp-contact-runner/po/nn/plasma_runner_ktp_contacts.po | 
- | [pl]({{< ref "/f35/language/pl.md" >}}) | 208 | 208 | 100.0 | /mnt/stockage/packages/f35/ktp-contact-runner/po/pl/plasma_runner_ktp_contacts.po | 
- | [pt]({{< ref "/f35/language/pt.md" >}}) | 208 | 208 | 100.0 | /mnt/stockage/packages/f35/ktp-contact-runner/po/pt/plasma_runner_ktp_contacts.po | 
- | [pt_BR]({{< ref "/f35/language/pt_BR.md" >}}) | 208 | 208 | 100.0 | /mnt/stockage/packages/f35/ktp-contact-runner/po/pt_BR/plasma_runner_ktp_contacts.po | 
- | [ro]({{< ref "/f35/language/ro.md" >}}) | 208 | 208 | 100.0 | /mnt/stockage/packages/f35/ktp-contact-runner/po/ro/plasma_runner_ktp_contacts.po | 
- | [ru]({{< ref "/f35/language/ru.md" >}}) | 208 | 208 | 100.0 | /mnt/stockage/packages/f35/ktp-contact-runner/po/ru/plasma_runner_ktp_contacts.po | 
- | [sk]({{< ref "/f35/language/sk.md" >}}) | 208 | 208 | 100.0 | /mnt/stockage/packages/f35/ktp-contact-runner/po/sk/plasma_runner_ktp_contacts.po | 
- | [sl]({{< ref "/f35/language/sl.md" >}}) | 208 | 208 | 100.0 | /mnt/stockage/packages/f35/ktp-contact-runner/po/sl/plasma_runner_ktp_contacts.po | 
- | [sr]({{< ref "/f35/language/sr.md" >}}) | 208 | 208 | 100.0 | /mnt/stockage/packages/f35/ktp-contact-runner/po/sr/plasma_runner_ktp_contacts.po | 
- | [sv]({{< ref "/f35/language/sv.md" >}}) | 208 | 208 | 100.0 | /mnt/stockage/packages/f35/ktp-contact-runner/po/sv/plasma_runner_ktp_contacts.po | 
- | [uk]({{< ref "/f35/language/uk.md" >}}) | 208 | 208 | 100.0 | /mnt/stockage/packages/f35/ktp-contact-runner/po/uk/plasma_runner_ktp_contacts.po | 
- | [zh_Hans]({{< ref "/f35/language/zh_Hans.md" >}}) | 208 | 208 | 100.0 | /mnt/stockage/packages/f35/ktp-contact-runner/po/zh_CN/plasma_runner_ktp_contacts.po | 
- | [zh_Hant]({{< ref "/f35/language/zh_Hant.md" >}}) | 208 | 208 | 100.0 | /mnt/stockage/packages/f35/ktp-contact-runner/po/zh_TW/plasma_runner_ktp_contacts.po | 
- | [bs]({{< ref "/f35/language/bs.md" >}}) | 169 | 208 | 81.2 | /mnt/stockage/packages/f35/ktp-contact-runner/po/bs/plasma_runner_ktp_contacts.po | 
- | [hu]({{< ref "/f35/language/hu.md" >}}) | 169 | 208 | 81.2 | /mnt/stockage/packages/f35/ktp-contact-runner/po/hu/plasma_runner_ktp_contacts.po | 
- | [kk]({{< ref "/f35/language/kk.md" >}}) | 169 | 208 | 81.2 | /mnt/stockage/packages/f35/ktp-contact-runner/po/kk/plasma_runner_ktp_contacts.po | 
- | [lt]({{< ref "/f35/language/lt.md" >}}) | 169 | 208 | 81.2 | /mnt/stockage/packages/f35/ktp-contact-runner/po/lt/plasma_runner_ktp_contacts.po | 
- | [nb_NO]({{< ref "/f35/language/nb_NO.md" >}}) | 169 | 208 | 81.2 | /mnt/stockage/packages/f35/ktp-contact-runner/po/nb/plasma_runner_ktp_contacts.po | 
- | [nds]({{< ref "/f35/language/nds.md" >}}) | 169 | 208 | 81.2 | /mnt/stockage/packages/f35/ktp-contact-runner/po/nds/plasma_runner_ktp_contacts.po | 
- | [tr]({{< ref "/f35/language/tr.md" >}}) | 169 | 208 | 81.2 | /mnt/stockage/packages/f35/ktp-contact-runner/po/tr/plasma_runner_ktp_contacts.po | 
- | [vi]({{< ref "/f35/language/vi.md" >}}) | 157 | 208 | 75.5 | /mnt/stockage/packages/f35/ktp-contact-runner/po/vi/plasma_runner_ktp_contacts.po | 
- | [km]({{< ref "/f35/language/km.md" >}}) | 109 | 208 | 52.4 | /mnt/stockage/packages/f35/ktp-contact-runner/po/km/plasma_runner_ktp_contacts.po | 
- | [mr]({{< ref "/f35/language/mr.md" >}}) | 35 | 208 | 16.8 | /mnt/stockage/packages/f35/ktp-contact-runner/po/mr/plasma_runner_ktp_contacts.po | 
- | [pa]({{< ref "/f35/language/pa.md" >}}) | 28 | 208 | 13.5 | /mnt/stockage/packages/f35/ktp-contact-runner/po/pa/plasma_runner_ktp_contacts.po | 
- | [ug]({{< ref "/f35/language/ug.md" >}}) | 15 | 208 | 7.2 | /mnt/stockage/packages/f35/ktp-contact-runner/po/ug/plasma_runner_ktp_contacts.po | 
- | [ga]({{< ref "/f35/language/ga.md" >}}) | 6 | 208 | 2.9 | /mnt/stockage/packages/f35/ktp-contact-runner/po/ga/plasma_runner_ktp_contacts.po | 
- | [ja]({{< ref "/f35/language/ja.md" >}}) | 0 | 208 | 0.0 | /mnt/stockage/packages/f35/ktp-contact-runner/po/ja/plasma_runner_ktp_contacts.po | 
+ | [ca](/f35/language/ca) | 208 | 208 | 100.0 | /mnt/stockage/packages/f35/ktp-contact-runner/po/ca/plasma_runner_ktp_contacts.po | 
+ | [ca@valencia](/f35/language/ca@valencia) | 208 | 208 | 100.0 | /mnt/stockage/packages/f35/ktp-contact-runner/po/ca@valencia/plasma_runner_ktp_contacts.po | 
+ | [cs](/f35/language/cs) | 208 | 208 | 100.0 | /mnt/stockage/packages/f35/ktp-contact-runner/po/cs/plasma_runner_ktp_contacts.po | 
+ | [da](/f35/language/da) | 208 | 208 | 100.0 | /mnt/stockage/packages/f35/ktp-contact-runner/po/da/plasma_runner_ktp_contacts.po | 
+ | [de](/f35/language/de) | 208 | 208 | 100.0 | /mnt/stockage/packages/f35/ktp-contact-runner/po/de/plasma_runner_ktp_contacts.po | 
+ | [el](/f35/language/el) | 208 | 208 | 100.0 | /mnt/stockage/packages/f35/ktp-contact-runner/po/el/plasma_runner_ktp_contacts.po | 
+ | [en_GB](/f35/language/en_GB) | 208 | 208 | 100.0 | /mnt/stockage/packages/f35/ktp-contact-runner/po/en_GB/plasma_runner_ktp_contacts.po | 
+ | [es](/f35/language/es) | 208 | 208 | 100.0 | /mnt/stockage/packages/f35/ktp-contact-runner/po/es/plasma_runner_ktp_contacts.po | 
+ | [et](/f35/language/et) | 208 | 208 | 100.0 | /mnt/stockage/packages/f35/ktp-contact-runner/po/et/plasma_runner_ktp_contacts.po | 
+ | [eu](/f35/language/eu) | 208 | 208 | 100.0 | /mnt/stockage/packages/f35/ktp-contact-runner/po/eu/plasma_runner_ktp_contacts.po | 
+ | [fi](/f35/language/fi) | 208 | 208 | 100.0 | /mnt/stockage/packages/f35/ktp-contact-runner/po/fi/plasma_runner_ktp_contacts.po | 
+ | [fr](/f35/language/fr) | 208 | 208 | 100.0 | /mnt/stockage/packages/f35/ktp-contact-runner/po/fr/plasma_runner_ktp_contacts.po | 
+ | [gl](/f35/language/gl) | 208 | 208 | 100.0 | /mnt/stockage/packages/f35/ktp-contact-runner/po/gl/plasma_runner_ktp_contacts.po | 
+ | [ia](/f35/language/ia) | 208 | 208 | 100.0 | /mnt/stockage/packages/f35/ktp-contact-runner/po/ia/plasma_runner_ktp_contacts.po | 
+ | [it](/f35/language/it) | 208 | 208 | 100.0 | /mnt/stockage/packages/f35/ktp-contact-runner/po/it/plasma_runner_ktp_contacts.po | 
+ | [ko](/f35/language/ko) | 208 | 208 | 100.0 | /mnt/stockage/packages/f35/ktp-contact-runner/po/ko/plasma_runner_ktp_contacts.po | 
+ | [nl](/f35/language/nl) | 208 | 208 | 100.0 | /mnt/stockage/packages/f35/ktp-contact-runner/po/nl/plasma_runner_ktp_contacts.po | 
+ | [nn](/f35/language/nn) | 208 | 208 | 100.0 | /mnt/stockage/packages/f35/ktp-contact-runner/po/nn/plasma_runner_ktp_contacts.po | 
+ | [pl](/f35/language/pl) | 208 | 208 | 100.0 | /mnt/stockage/packages/f35/ktp-contact-runner/po/pl/plasma_runner_ktp_contacts.po | 
+ | [pt](/f35/language/pt) | 208 | 208 | 100.0 | /mnt/stockage/packages/f35/ktp-contact-runner/po/pt/plasma_runner_ktp_contacts.po | 
+ | [pt_BR](/f35/language/pt_BR) | 208 | 208 | 100.0 | /mnt/stockage/packages/f35/ktp-contact-runner/po/pt_BR/plasma_runner_ktp_contacts.po | 
+ | [ro](/f35/language/ro) | 208 | 208 | 100.0 | /mnt/stockage/packages/f35/ktp-contact-runner/po/ro/plasma_runner_ktp_contacts.po | 
+ | [ru](/f35/language/ru) | 208 | 208 | 100.0 | /mnt/stockage/packages/f35/ktp-contact-runner/po/ru/plasma_runner_ktp_contacts.po | 
+ | [sk](/f35/language/sk) | 208 | 208 | 100.0 | /mnt/stockage/packages/f35/ktp-contact-runner/po/sk/plasma_runner_ktp_contacts.po | 
+ | [sl](/f35/language/sl) | 208 | 208 | 100.0 | /mnt/stockage/packages/f35/ktp-contact-runner/po/sl/plasma_runner_ktp_contacts.po | 
+ | [sr](/f35/language/sr) | 208 | 208 | 100.0 | /mnt/stockage/packages/f35/ktp-contact-runner/po/sr/plasma_runner_ktp_contacts.po | 
+ | [sv](/f35/language/sv) | 208 | 208 | 100.0 | /mnt/stockage/packages/f35/ktp-contact-runner/po/sv/plasma_runner_ktp_contacts.po | 
+ | [uk](/f35/language/uk) | 208 | 208 | 100.0 | /mnt/stockage/packages/f35/ktp-contact-runner/po/uk/plasma_runner_ktp_contacts.po | 
+ | [zh_Hans](/f35/language/zh_Hans) | 208 | 208 | 100.0 | /mnt/stockage/packages/f35/ktp-contact-runner/po/zh_CN/plasma_runner_ktp_contacts.po | 
+ | [zh_Hant](/f35/language/zh_Hant) | 208 | 208 | 100.0 | /mnt/stockage/packages/f35/ktp-contact-runner/po/zh_TW/plasma_runner_ktp_contacts.po | 
+ | [bs](/f35/language/bs) | 169 | 208 | 81.2 | /mnt/stockage/packages/f35/ktp-contact-runner/po/bs/plasma_runner_ktp_contacts.po | 
+ | [hu](/f35/language/hu) | 169 | 208 | 81.2 | /mnt/stockage/packages/f35/ktp-contact-runner/po/hu/plasma_runner_ktp_contacts.po | 
+ | [kk](/f35/language/kk) | 169 | 208 | 81.2 | /mnt/stockage/packages/f35/ktp-contact-runner/po/kk/plasma_runner_ktp_contacts.po | 
+ | [lt](/f35/language/lt) | 169 | 208 | 81.2 | /mnt/stockage/packages/f35/ktp-contact-runner/po/lt/plasma_runner_ktp_contacts.po | 
+ | [nb_NO](/f35/language/nb_NO) | 169 | 208 | 81.2 | /mnt/stockage/packages/f35/ktp-contact-runner/po/nb/plasma_runner_ktp_contacts.po | 
+ | [nds](/f35/language/nds) | 169 | 208 | 81.2 | /mnt/stockage/packages/f35/ktp-contact-runner/po/nds/plasma_runner_ktp_contacts.po | 
+ | [tr](/f35/language/tr) | 169 | 208 | 81.2 | /mnt/stockage/packages/f35/ktp-contact-runner/po/tr/plasma_runner_ktp_contacts.po | 
+ | [vi](/f35/language/vi) | 157 | 208 | 75.5 | /mnt/stockage/packages/f35/ktp-contact-runner/po/vi/plasma_runner_ktp_contacts.po | 
+ | [km](/f35/language/km) | 109 | 208 | 52.4 | /mnt/stockage/packages/f35/ktp-contact-runner/po/km/plasma_runner_ktp_contacts.po | 
+ | [mr](/f35/language/mr) | 35 | 208 | 16.8 | /mnt/stockage/packages/f35/ktp-contact-runner/po/mr/plasma_runner_ktp_contacts.po | 
+ | [pa](/f35/language/pa) | 28 | 208 | 13.5 | /mnt/stockage/packages/f35/ktp-contact-runner/po/pa/plasma_runner_ktp_contacts.po | 
+ | [ug](/f35/language/ug) | 15 | 208 | 7.2 | /mnt/stockage/packages/f35/ktp-contact-runner/po/ug/plasma_runner_ktp_contacts.po | 
+ | [ga](/f35/language/ga) | 6 | 208 | 2.9 | /mnt/stockage/packages/f35/ktp-contact-runner/po/ga/plasma_runner_ktp_contacts.po | 
+ | [ja](/f35/language/ja) | 0 | 208 | 0.0 | /mnt/stockage/packages/f35/ktp-contact-runner/po/ja/plasma_runner_ktp_contacts.po | 
 {.sortable}
 
 

@@ -43,11 +43,11 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [gcompris]({{< ref "/f19/package/gcompris.md" >}}) | 2167 | 9603 | 22.6 | Somali <mimursal@mimfi-tech.com> | 
- | [cinnamon-translations]({{< ref "/f19/package/cinnamon-translations.md" >}}) | 607 | 3350 | 18.1 | Somali <so@li.org> | 
- | [iso-codes]({{< ref "/f19/package/iso-codes.md" >}}) | 125 | 1108 | 11.3 | Somali | 
- | [owncloud]({{< ref "/f19/package/owncloud.md" >}}) | 0 | 1307 | 0.0 | Somali (http://www.transifex.com/projects/p/owncloud/language/so/) | 
- | [vidalia]({{< ref "/f19/package/vidalia.md" >}}) | 0 | 10377 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [gcompris](/f19/package/gcompris) | 2167 | 9603 | 22.6 | Somali <mimursal@mimfi-tech.com> | 
+ | [cinnamon-translations](/f19/package/cinnamon-translations) | 607 | 3350 | 18.1 | Somali <so@li.org> | 
+ | [iso-codes](/f19/package/iso-codes) | 125 | 1108 | 11.3 | Somali | 
+ | [owncloud](/f19/package/owncloud) | 0 | 1307 | 0.0 | Somali (http://www.transifex.com/projects/p/owncloud/language/so/) | 
+ | [vidalia](/f19/package/vidalia) | 0 | 10377 | 0.0 | LANGUAGE <LL@li.org> | 
 {.sortable}
 
 

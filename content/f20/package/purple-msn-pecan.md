@@ -18,25 +18,25 @@ The package purple-msn-pecan (version 0.1.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f20/language/de.md" >}}) | 960 | 960 | 100.0 | /mnt/stockage/packages/f20/purple-msn-pecan/po/de.po | 
- | [es]({{< ref "/f20/language/es.md" >}}) | 960 | 960 | 100.0 | /mnt/stockage/packages/f20/purple-msn-pecan/po/es.po | 
- | [it]({{< ref "/f20/language/it.md" >}}) | 960 | 960 | 100.0 | /mnt/stockage/packages/f20/purple-msn-pecan/po/it.po | 
- | [fr]({{< ref "/f20/language/fr.md" >}}) | 954 | 960 | 99.4 | /mnt/stockage/packages/f20/purple-msn-pecan/po/fr.po | 
- | [da]({{< ref "/f20/language/da.md" >}}) | 791 | 960 | 82.4 | /mnt/stockage/packages/f20/purple-msn-pecan/po/da.po | 
- | [fi]({{< ref "/f20/language/fi.md" >}}) | 776 | 960 | 80.8 | /mnt/stockage/packages/f20/purple-msn-pecan/po/fi.po | 
- | [zh_Hans]({{< ref "/f20/language/zh_Hans.md" >}}) | 738 | 960 | 76.9 | /mnt/stockage/packages/f20/purple-msn-pecan/po/zh_CN.po | 
- | [sv]({{< ref "/f20/language/sv.md" >}}) | 703 | 960 | 73.2 | /mnt/stockage/packages/f20/purple-msn-pecan/po/sv.po | 
- | [hu]({{< ref "/f20/language/hu.md" >}}) | 685 | 960 | 71.4 | /mnt/stockage/packages/f20/purple-msn-pecan/po/hu.po | 
- | [pt]({{< ref "/f20/language/pt.md" >}}) | 654 | 960 | 68.1 | /mnt/stockage/packages/f20/purple-msn-pecan/po/pt.po | 
- | [pt_BR]({{< ref "/f20/language/pt_BR.md" >}}) | 654 | 960 | 68.1 | /mnt/stockage/packages/f20/purple-msn-pecan/po/pt_BR.po | 
- | [zh_Hant]({{< ref "/f20/language/zh_Hant.md" >}}) | 628 | 960 | 65.4 | /mnt/stockage/packages/f20/purple-msn-pecan/po/zh_TW.po | 
- | [ru]({{< ref "/f20/language/ru.md" >}}) | 620 | 960 | 64.6 | /mnt/stockage/packages/f20/purple-msn-pecan/po/ru.po | 
- | [nl]({{< ref "/f20/language/nl.md" >}}) | 603 | 960 | 62.8 | /mnt/stockage/packages/f20/purple-msn-pecan/po/nl.po | 
- | [nb_NO]({{< ref "/f20/language/nb_NO.md" >}}) | 586 | 960 | 61.0 | /mnt/stockage/packages/f20/purple-msn-pecan/po/nb.po | 
- | [tr]({{< ref "/f20/language/tr.md" >}}) | 578 | 960 | 60.2 | /mnt/stockage/packages/f20/purple-msn-pecan/po/tr.po | 
- | [sr]({{< ref "/f20/language/sr.md" >}}) | 564 | 960 | 58.8 | /mnt/stockage/packages/f20/purple-msn-pecan/po/sr.po | 
- | [ar]({{< ref "/f20/language/ar.md" >}}) | 508 | 960 | 52.9 | /mnt/stockage/packages/f20/purple-msn-pecan/po/ar.po | 
- | [eo]({{< ref "/f20/language/eo.md" >}}) | 402 | 960 | 41.9 | /mnt/stockage/packages/f20/purple-msn-pecan/po/eo.po | 
+ | [de](/f20/language/de) | 960 | 960 | 100.0 | /mnt/stockage/packages/f20/purple-msn-pecan/po/de.po | 
+ | [es](/f20/language/es) | 960 | 960 | 100.0 | /mnt/stockage/packages/f20/purple-msn-pecan/po/es.po | 
+ | [it](/f20/language/it) | 960 | 960 | 100.0 | /mnt/stockage/packages/f20/purple-msn-pecan/po/it.po | 
+ | [fr](/f20/language/fr) | 954 | 960 | 99.4 | /mnt/stockage/packages/f20/purple-msn-pecan/po/fr.po | 
+ | [da](/f20/language/da) | 791 | 960 | 82.4 | /mnt/stockage/packages/f20/purple-msn-pecan/po/da.po | 
+ | [fi](/f20/language/fi) | 776 | 960 | 80.8 | /mnt/stockage/packages/f20/purple-msn-pecan/po/fi.po | 
+ | [zh_Hans](/f20/language/zh_Hans) | 738 | 960 | 76.9 | /mnt/stockage/packages/f20/purple-msn-pecan/po/zh_CN.po | 
+ | [sv](/f20/language/sv) | 703 | 960 | 73.2 | /mnt/stockage/packages/f20/purple-msn-pecan/po/sv.po | 
+ | [hu](/f20/language/hu) | 685 | 960 | 71.4 | /mnt/stockage/packages/f20/purple-msn-pecan/po/hu.po | 
+ | [pt](/f20/language/pt) | 654 | 960 | 68.1 | /mnt/stockage/packages/f20/purple-msn-pecan/po/pt.po | 
+ | [pt_BR](/f20/language/pt_BR) | 654 | 960 | 68.1 | /mnt/stockage/packages/f20/purple-msn-pecan/po/pt_BR.po | 
+ | [zh_Hant](/f20/language/zh_Hant) | 628 | 960 | 65.4 | /mnt/stockage/packages/f20/purple-msn-pecan/po/zh_TW.po | 
+ | [ru](/f20/language/ru) | 620 | 960 | 64.6 | /mnt/stockage/packages/f20/purple-msn-pecan/po/ru.po | 
+ | [nl](/f20/language/nl) | 603 | 960 | 62.8 | /mnt/stockage/packages/f20/purple-msn-pecan/po/nl.po | 
+ | [nb_NO](/f20/language/nb_NO) | 586 | 960 | 61.0 | /mnt/stockage/packages/f20/purple-msn-pecan/po/nb.po | 
+ | [tr](/f20/language/tr) | 578 | 960 | 60.2 | /mnt/stockage/packages/f20/purple-msn-pecan/po/tr.po | 
+ | [sr](/f20/language/sr) | 564 | 960 | 58.8 | /mnt/stockage/packages/f20/purple-msn-pecan/po/sr.po | 
+ | [ar](/f20/language/ar) | 508 | 960 | 52.9 | /mnt/stockage/packages/f20/purple-msn-pecan/po/ar.po | 
+ | [eo](/f20/language/eo) | 402 | 960 | 41.9 | /mnt/stockage/packages/f20/purple-msn-pecan/po/eo.po | 
 {.sortable}
 
 

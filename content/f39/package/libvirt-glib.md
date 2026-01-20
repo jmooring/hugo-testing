@@ -18,28 +18,28 @@ The package libvirt-glib (version 5.0.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f39/language/cs.md" >}}) | 158 | 158 | 100.0 | /mnt/stockage/packages/f39/libvirt-glib/po/cs.po | 
- | [de]({{< ref "/f39/language/de.md" >}}) | 158 | 158 | 100.0 | /mnt/stockage/packages/f39/libvirt-glib/po/de.po | 
- | [es]({{< ref "/f39/language/es.md" >}}) | 158 | 158 | 100.0 | /mnt/stockage/packages/f39/libvirt-glib/po/es.po | 
- | [fi]({{< ref "/f39/language/fi.md" >}}) | 158 | 158 | 100.0 | /mnt/stockage/packages/f39/libvirt-glib/po/fi.po | 
- | [fr]({{< ref "/f39/language/fr.md" >}}) | 158 | 158 | 100.0 | /mnt/stockage/packages/f39/libvirt-glib/po/fr.po | 
- | [id]({{< ref "/f39/language/id.md" >}}) | 158 | 158 | 100.0 | /mnt/stockage/packages/f39/libvirt-glib/po/id.po | 
- | [it]({{< ref "/f39/language/it.md" >}}) | 158 | 158 | 100.0 | /mnt/stockage/packages/f39/libvirt-glib/po/it.po | 
- | [ka]({{< ref "/f39/language/ka.md" >}}) | 158 | 158 | 100.0 | /mnt/stockage/packages/f39/libvirt-glib/po/ka.po | 
- | [ko]({{< ref "/f39/language/ko.md" >}}) | 158 | 158 | 100.0 | /mnt/stockage/packages/f39/libvirt-glib/po/ko.po | 
- | [pl]({{< ref "/f39/language/pl.md" >}}) | 158 | 158 | 100.0 | /mnt/stockage/packages/f39/libvirt-glib/po/pl.po | 
- | [pt_BR]({{< ref "/f39/language/pt_BR.md" >}}) | 158 | 158 | 100.0 | /mnt/stockage/packages/f39/libvirt-glib/po/pt_BR.po | 
- | [ro]({{< ref "/f39/language/ro.md" >}}) | 158 | 158 | 100.0 | /mnt/stockage/packages/f39/libvirt-glib/po/ro.po | 
- | [ru]({{< ref "/f39/language/ru.md" >}}) | 158 | 158 | 100.0 | /mnt/stockage/packages/f39/libvirt-glib/po/ru.po | 
- | [sv]({{< ref "/f39/language/sv.md" >}}) | 158 | 158 | 100.0 | /mnt/stockage/packages/f39/libvirt-glib/po/sv.po | 
- | [tr]({{< ref "/f39/language/tr.md" >}}) | 158 | 158 | 100.0 | /mnt/stockage/packages/f39/libvirt-glib/po/tr.po | 
- | [uk]({{< ref "/f39/language/uk.md" >}}) | 158 | 158 | 100.0 | /mnt/stockage/packages/f39/libvirt-glib/po/uk.po | 
- | [ca]({{< ref "/f39/language/ca.md" >}}) | 153 | 158 | 96.8 | /mnt/stockage/packages/f39/libvirt-glib/po/ca.po | 
- | [en_GB]({{< ref "/f39/language/en_GB.md" >}}) | 129 | 158 | 81.6 | /mnt/stockage/packages/f39/libvirt-glib/po/en_GB.po | 
- | [hi]({{< ref "/f39/language/hi.md" >}}) | 129 | 158 | 81.6 | /mnt/stockage/packages/f39/libvirt-glib/po/hi.po | 
- | [ja]({{< ref "/f39/language/ja.md" >}}) | 129 | 158 | 81.6 | /mnt/stockage/packages/f39/libvirt-glib/po/ja.po | 
- | [nl]({{< ref "/f39/language/nl.md" >}}) | 17 | 158 | 10.8 | /mnt/stockage/packages/f39/libvirt-glib/po/nl.po | 
- | [si]({{< ref "/f39/language/si.md" >}}) | 0 | 158 | 0.0 | /mnt/stockage/packages/f39/libvirt-glib/po/si.po | 
+ | [cs](/f39/language/cs) | 158 | 158 | 100.0 | /mnt/stockage/packages/f39/libvirt-glib/po/cs.po | 
+ | [de](/f39/language/de) | 158 | 158 | 100.0 | /mnt/stockage/packages/f39/libvirt-glib/po/de.po | 
+ | [es](/f39/language/es) | 158 | 158 | 100.0 | /mnt/stockage/packages/f39/libvirt-glib/po/es.po | 
+ | [fi](/f39/language/fi) | 158 | 158 | 100.0 | /mnt/stockage/packages/f39/libvirt-glib/po/fi.po | 
+ | [fr](/f39/language/fr) | 158 | 158 | 100.0 | /mnt/stockage/packages/f39/libvirt-glib/po/fr.po | 
+ | [id](/f39/language/id) | 158 | 158 | 100.0 | /mnt/stockage/packages/f39/libvirt-glib/po/id.po | 
+ | [it](/f39/language/it) | 158 | 158 | 100.0 | /mnt/stockage/packages/f39/libvirt-glib/po/it.po | 
+ | [ka](/f39/language/ka) | 158 | 158 | 100.0 | /mnt/stockage/packages/f39/libvirt-glib/po/ka.po | 
+ | [ko](/f39/language/ko) | 158 | 158 | 100.0 | /mnt/stockage/packages/f39/libvirt-glib/po/ko.po | 
+ | [pl](/f39/language/pl) | 158 | 158 | 100.0 | /mnt/stockage/packages/f39/libvirt-glib/po/pl.po | 
+ | [pt_BR](/f39/language/pt_BR) | 158 | 158 | 100.0 | /mnt/stockage/packages/f39/libvirt-glib/po/pt_BR.po | 
+ | [ro](/f39/language/ro) | 158 | 158 | 100.0 | /mnt/stockage/packages/f39/libvirt-glib/po/ro.po | 
+ | [ru](/f39/language/ru) | 158 | 158 | 100.0 | /mnt/stockage/packages/f39/libvirt-glib/po/ru.po | 
+ | [sv](/f39/language/sv) | 158 | 158 | 100.0 | /mnt/stockage/packages/f39/libvirt-glib/po/sv.po | 
+ | [tr](/f39/language/tr) | 158 | 158 | 100.0 | /mnt/stockage/packages/f39/libvirt-glib/po/tr.po | 
+ | [uk](/f39/language/uk) | 158 | 158 | 100.0 | /mnt/stockage/packages/f39/libvirt-glib/po/uk.po | 
+ | [ca](/f39/language/ca) | 153 | 158 | 96.8 | /mnt/stockage/packages/f39/libvirt-glib/po/ca.po | 
+ | [en_GB](/f39/language/en_GB) | 129 | 158 | 81.6 | /mnt/stockage/packages/f39/libvirt-glib/po/en_GB.po | 
+ | [hi](/f39/language/hi) | 129 | 158 | 81.6 | /mnt/stockage/packages/f39/libvirt-glib/po/hi.po | 
+ | [ja](/f39/language/ja) | 129 | 158 | 81.6 | /mnt/stockage/packages/f39/libvirt-glib/po/ja.po | 
+ | [nl](/f39/language/nl) | 17 | 158 | 10.8 | /mnt/stockage/packages/f39/libvirt-glib/po/nl.po | 
+ | [si](/f39/language/si) | 0 | 158 | 0.0 | /mnt/stockage/packages/f39/libvirt-glib/po/si.po | 
 {.sortable}
 
 

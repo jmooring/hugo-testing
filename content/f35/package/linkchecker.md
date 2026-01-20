@@ -18,10 +18,10 @@ The package linkchecker (version 10.1.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [nl]({{< ref "/f35/language/nl.md" >}}) | 2226 | 2841 | 78.4 | /mnt/stockage/packages/f35/linkchecker/po/nl_NL.po | 
- | [de]({{< ref "/f35/language/de.md" >}}) | 4573 | 7238 | 63.2 | /mnt/stockage/packages/f35/linkchecker/doc/i18n/locales/de/LC_MESSAGES/index.po/mnt/stockage/packages/f35/linkchecker/doc/i18n/locales/de/LC_MESSAGES/man.po/mnt/stockage/packages/f35/linkchecker/po/de.po | 
- | [es]({{< ref "/f35/language/es.md" >}}) | 289 | 2841 | 10.2 | /mnt/stockage/packages/f35/linkchecker/po/es.po | 
- | [fr]({{< ref "/f35/language/fr.md" >}}) | 323 | 6813 | 4.7 | /mnt/stockage/packages/f35/linkchecker/doc/i18n/locales/fr/LC_MESSAGES/man.po/mnt/stockage/packages/f35/linkchecker/po/fr.po | 
+ | [nl](/f35/language/nl) | 2226 | 2841 | 78.4 | /mnt/stockage/packages/f35/linkchecker/po/nl_NL.po | 
+ | [de](/f35/language/de) | 4573 | 7238 | 63.2 | /mnt/stockage/packages/f35/linkchecker/doc/i18n/locales/de/LC_MESSAGES/index.po/mnt/stockage/packages/f35/linkchecker/doc/i18n/locales/de/LC_MESSAGES/man.po/mnt/stockage/packages/f35/linkchecker/po/de.po | 
+ | [es](/f35/language/es) | 289 | 2841 | 10.2 | /mnt/stockage/packages/f35/linkchecker/po/es.po | 
+ | [fr](/f35/language/fr) | 323 | 6813 | 4.7 | /mnt/stockage/packages/f35/linkchecker/doc/i18n/locales/fr/LC_MESSAGES/man.po/mnt/stockage/packages/f35/linkchecker/po/fr.po | 
 {.sortable}
 
 

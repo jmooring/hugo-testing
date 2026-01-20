@@ -18,23 +18,23 @@ The package gawk (version 3.1.5):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [it]({{< ref "/f8/language/it.md" >}}) | 2443 | 2443 | 100.0 | /mnt/stockage/packages/f8/gawk/po/it.po | 
- | [es]({{< ref "/f8/language/es.md" >}}) | 2438 | 2443 | 99.8 | /mnt/stockage/packages/f8/gawk/po/es.po | 
- | [fr]({{< ref "/f8/language/fr.md" >}}) | 2438 | 2443 | 99.8 | /mnt/stockage/packages/f8/gawk/po/fr.po | 
- | [ja]({{< ref "/f8/language/ja.md" >}}) | 2438 | 2443 | 99.8 | /mnt/stockage/packages/f8/gawk/po/ja.po | 
- | [nl]({{< ref "/f8/language/nl.md" >}}) | 2438 | 2443 | 99.8 | /mnt/stockage/packages/f8/gawk/po/nl.po | 
- | [pl]({{< ref "/f8/language/pl.md" >}}) | 2438 | 2443 | 99.8 | /mnt/stockage/packages/f8/gawk/po/pl.po | 
- | [vi]({{< ref "/f8/language/vi.md" >}}) | 2438 | 2443 | 99.8 | /mnt/stockage/packages/f8/gawk/po/vi.po | 
- | [tr]({{< ref "/f8/language/tr.md" >}}) | 2392 | 2443 | 97.9 | /mnt/stockage/packages/f8/gawk/po/tr.po | 
- | [pt_BR]({{< ref "/f8/language/pt_BR.md" >}}) | 2258 | 2443 | 92.4 | /mnt/stockage/packages/f8/gawk/po/pt_BR.po | 
- | [sv]({{< ref "/f8/language/sv.md" >}}) | 2217 | 2443 | 90.7 | /mnt/stockage/packages/f8/gawk/po/sv.po | 
- | [he]({{< ref "/f8/language/he.md" >}}) | 2026 | 2443 | 82.9 | /mnt/stockage/packages/f8/gawk/po/he.po | 
- | [ca]({{< ref "/f8/language/ca.md" >}}) | 1924 | 2443 | 78.8 | /mnt/stockage/packages/f8/gawk/po/ca.po | 
- | [da]({{< ref "/f8/language/da.md" >}}) | 1924 | 2443 | 78.8 | /mnt/stockage/packages/f8/gawk/po/da.po | 
- | [ga]({{< ref "/f8/language/ga.md" >}}) | 1916 | 2443 | 78.4 | /mnt/stockage/packages/f8/gawk/po/ga.po | 
- | [ro]({{< ref "/f8/language/ro.md" >}}) | 1916 | 2443 | 78.4 | /mnt/stockage/packages/f8/gawk/po/ro.po | 
- | [de]({{< ref "/f8/language/de.md" >}}) | 1850 | 2443 | 75.7 | /mnt/stockage/packages/f8/gawk/po/de.po | 
- | [rw]({{< ref "/f8/language/rw.md" >}}) | 1 | 2443 | 0.0 | /mnt/stockage/packages/f8/gawk/po/rw.po | 
+ | [it](/f8/language/it) | 2443 | 2443 | 100.0 | /mnt/stockage/packages/f8/gawk/po/it.po | 
+ | [es](/f8/language/es) | 2438 | 2443 | 99.8 | /mnt/stockage/packages/f8/gawk/po/es.po | 
+ | [fr](/f8/language/fr) | 2438 | 2443 | 99.8 | /mnt/stockage/packages/f8/gawk/po/fr.po | 
+ | [ja](/f8/language/ja) | 2438 | 2443 | 99.8 | /mnt/stockage/packages/f8/gawk/po/ja.po | 
+ | [nl](/f8/language/nl) | 2438 | 2443 | 99.8 | /mnt/stockage/packages/f8/gawk/po/nl.po | 
+ | [pl](/f8/language/pl) | 2438 | 2443 | 99.8 | /mnt/stockage/packages/f8/gawk/po/pl.po | 
+ | [vi](/f8/language/vi) | 2438 | 2443 | 99.8 | /mnt/stockage/packages/f8/gawk/po/vi.po | 
+ | [tr](/f8/language/tr) | 2392 | 2443 | 97.9 | /mnt/stockage/packages/f8/gawk/po/tr.po | 
+ | [pt_BR](/f8/language/pt_BR) | 2258 | 2443 | 92.4 | /mnt/stockage/packages/f8/gawk/po/pt_BR.po | 
+ | [sv](/f8/language/sv) | 2217 | 2443 | 90.7 | /mnt/stockage/packages/f8/gawk/po/sv.po | 
+ | [he](/f8/language/he) | 2026 | 2443 | 82.9 | /mnt/stockage/packages/f8/gawk/po/he.po | 
+ | [ca](/f8/language/ca) | 1924 | 2443 | 78.8 | /mnt/stockage/packages/f8/gawk/po/ca.po | 
+ | [da](/f8/language/da) | 1924 | 2443 | 78.8 | /mnt/stockage/packages/f8/gawk/po/da.po | 
+ | [ga](/f8/language/ga) | 1916 | 2443 | 78.4 | /mnt/stockage/packages/f8/gawk/po/ga.po | 
+ | [ro](/f8/language/ro) | 1916 | 2443 | 78.4 | /mnt/stockage/packages/f8/gawk/po/ro.po | 
+ | [de](/f8/language/de) | 1850 | 2443 | 75.7 | /mnt/stockage/packages/f8/gawk/po/de.po | 
+ | [rw](/f8/language/rw) | 1 | 2443 | 0.0 | /mnt/stockage/packages/f8/gawk/po/rw.po | 
 {.sortable}
 
 

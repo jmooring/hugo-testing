@@ -43,658 +43,658 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [PackageKit]({{< ref "/f38/package/PackageKit.md" >}}) | 326 | 326 | 100.0 | Kazakh (http://www.transifex.com/freedesktop/packagekit/language/kk/) | 
- | [Thunar]({{< ref "/f38/package/Thunar.md" >}}) | 5420 | 5420 | 100.0 | Kazakh (https://www.transifex.com/xfce/teams/16840/kk/) | 
- | [abattis-cantarell-fonts]({{< ref "/f38/package/abattis-cantarell-fonts.md" >}}) | 27 | 27 | 100.0 | Kazakh <kk_KZ@googlegroups.com> | 
- | [accountsservice]({{< ref "/f38/package/accountsservice.md" >}}) | 59 | 59 | 100.0 | Kazakh (http://www.transifex.com/freedesktop/accountsservice/language/kk/) | 
- | [alacarte]({{< ref "/f38/package/alacarte.md" >}}) | 42 | 42 | 100.0 | Kazakh <> | 
- | [baobab]({{< ref "/f38/package/baobab.md" >}}) | 297 | 297 | 100.0 | Kazakh <kk@li.org> | 
- | [bijiben]({{< ref "/f38/package/bijiben.md" >}}) | 422 | 422 | 100.0 | Kazakh <kk_KZ@googlegroups.com> | 
- | [caribou]({{< ref "/f38/package/caribou.md" >}}) | 169 | 169 | 100.0 | Kazakh <kk_KZ@googlegroups.com> | 
- | [cheese]({{< ref "/f38/package/cheese.md" >}}) | 628 | 628 | 100.0 | Kazakh <kk_KZ@googlegroups.com> | 
- | [console-setup]({{< ref "/f38/package/console-setup.md" >}}) | 984 | 984 | 100.0 | Kazakh | 
- | [cracklib]({{< ref "/f38/package/cracklib.md" >}}) | 90 | 90 | 100.0 | Kazakh <https://translate.fedoraproject.org/projects/cracklib/master/kk/> | 
- | [cups-pk-helper]({{< ref "/f38/package/cups-pk-helper.md" >}}) | 149 | 149 | 100.0 | Kazakh (http://www.transifex.com/freedesktop/cups-pk-helper/language/kk/) | 
- | [debconf]({{< ref "/f38/package/debconf.md" >}}) | 191 | 191 | 100.0 | Kazakh <kk_KZ@googlegroups.com> | 
- | [devhelp]({{< ref "/f38/package/devhelp.md" >}}) | 413 | 413 | 100.0 | Kazakh <kk_KZ@googlegroups.com> | 
- | [eog]({{< ref "/f38/package/eog.md" >}}) | 1648 | 1648 | 100.0 | Kazakh <kk_KZ@googlegroups.com> | 
- | [evince]({{< ref "/f38/package/evince.md" >}}) | 1768 | 1768 | 100.0 | Kazakh <kk_KZ@googlegroups.com> | 
- | [exo]({{< ref "/f38/package/exo.md" >}}) | 738 | 738 | 100.0 | Kazakh (http://www.transifex.com/xfce/exo/language/kk/) | 
- | [file-roller]({{< ref "/f38/package/file-roller.md" >}}) | 1307 | 1307 | 100.0 | Kazakh <kk_KZ@googlegroups.com> | 
- | [five-or-more]({{< ref "/f38/package/five-or-more.md" >}}) | 236 | 236 | 100.0 | Kazakh <kk_KZ@googlegroups.com> | 
- | [four-in-a-row]({{< ref "/f38/package/four-in-a-row.md" >}}) | 480 | 480 | 100.0 | Kazakh <kk_KZ@googlegroups.com> | 
- | [fwupd]({{< ref "/f38/package/fwupd.md" >}}) | 8 | 8 | 100.0 | Kazakh (http://www.transifex.com/freedesktop/fwupd/language/kk/) | 
- | [garcon]({{< ref "/f38/package/garcon.md" >}}) | 125 | 125 | 100.0 | Kazakh (https://www.transifex.com/xfce/teams/16840/kk/) | 
- | [gdm]({{< ref "/f38/package/gdm.md" >}}) | 705 | 705 | 100.0 | Kazakh <kk_KZ@googlegroups.com> | 
- | [glib-networking]({{< ref "/f38/package/glib-networking.md" >}}) | 434 | 434 | 100.0 | Kazakh <kk_KZ@googlegroups.com> | 
- | [gnome-bluetooth]({{< ref "/f38/package/gnome-bluetooth.md" >}}) | 318 | 318 | 100.0 | Kazakh <kk_KZ@googlegroups.com> | 
- | [gnome-bluetooth3.34]({{< ref "/f38/package/gnome-bluetooth3.34.md" >}}) | 373 | 373 | 100.0 | Kazakh <kk_KZ@googlegroups.com> | 
- | [gnome-boxes]({{< ref "/f38/package/gnome-boxes.md" >}}) | 1290 | 1290 | 100.0 | Kazakh <kk@li.org> | 
- | [gnome-calculator]({{< ref "/f38/package/gnome-calculator.md" >}}) | 1740 | 1740 | 100.0 | Kazakh <kk_KZ@googlegroups.com> | 
- | [gnome-calendar]({{< ref "/f38/package/gnome-calendar.md" >}}) | 887 | 887 | 100.0 | Kazakh <kk_KZ@googlegroups.com> | 
- | [gnome-characters]({{< ref "/f38/package/gnome-characters.md" >}}) | 152 | 152 | 100.0 | Kazakh <kk_KZ@googlegroups.com> | 
- | [gnome-chess]({{< ref "/f38/package/gnome-chess.md" >}}) | 1485 | 1485 | 100.0 | Kazakh <kk_KZ@googlegroups.com> | 
- | [gnome-clocks]({{< ref "/f38/package/gnome-clocks.md" >}}) | 359 | 359 | 100.0 | Kazakh <kk@li.org> | 
- | [gnome-connections]({{< ref "/f38/package/gnome-connections.md" >}}) | 370 | 370 | 100.0 | Kazakh <kk_KZ@googlegroups.com> | 
- | [gnome-console]({{< ref "/f38/package/gnome-console.md" >}}) | 229 | 229 | 100.0 | Kazakh <kk_KZ@googlegroups.com> | 
- | [gnome-contacts]({{< ref "/f38/package/gnome-contacts.md" >}}) | 710 | 710 | 100.0 | Kazakh <kk@li.org> | 
- | [gnome-desktop3]({{< ref "/f38/package/gnome-desktop3.md" >}}) | 193 | 193 | 100.0 | Kazakh <kk_KZ@googlegroups.com> | 
- | [gnome-dictionary]({{< ref "/f38/package/gnome-dictionary.md" >}}) | 717 | 717 | 100.0 | Kazakh <kk_KZ@googlegroups.com> | 
- | [gnome-extensions-app]({{< ref "/f38/package/gnome-extensions-app.md" >}}) | 2681 | 2681 | 100.0 | Kazakh <kk_KZ@googlegroups.com> | 
- | [gnome-font-viewer]({{< ref "/f38/package/gnome-font-viewer.md" >}}) | 534 | 534 | 100.0 | Kazakh <kk@li.org> | 
- | [gnome-icon-theme]({{< ref "/f38/package/gnome-icon-theme.md" >}}) | 20 | 20 | 100.0 | Kazakh <moldabekov@gmail.com> | 
- | [gnome-initial-setup]({{< ref "/f38/package/gnome-initial-setup.md" >}}) | 876 | 876 | 100.0 | Kazakh <kk@li.org> | 
- | [gnome-keyring]({{< ref "/f38/package/gnome-keyring.md" >}}) | 469 | 469 | 100.0 | Kazakh <kk@li.org> | 
- | [gnome-klotski]({{< ref "/f38/package/gnome-klotski.md" >}}) | 275 | 275 | 100.0 | Kazakh <kk_KZ@googlegroups.com> | 
- | [gnome-logs]({{< ref "/f38/package/gnome-logs.md" >}}) | 389 | 389 | 100.0 | Kazakh <kk@li.org> | 
- | [gnome-mahjongg]({{< ref "/f38/package/gnome-mahjongg.md" >}}) | 329 | 329 | 100.0 | Kazakh <kk_KZ@googlegroups.com> | 
- | [gnome-maps]({{< ref "/f38/package/gnome-maps.md" >}}) | 1316 | 1316 | 100.0 | Kazakh <kk@li.org> | 
- | [gnome-menus]({{< ref "/f38/package/gnome-menus.md" >}}) | 80 | 80 | 100.0 | Kazakh <kk_KZ@googlegroups.com> | 
- | [gnome-mines]({{< ref "/f38/package/gnome-mines.md" >}}) | 364 | 364 | 100.0 | Kazakh <kk_KZ@googlegroups.com> | 
- | [gnome-music]({{< ref "/f38/package/gnome-music.md" >}}) | 419 | 419 | 100.0 | Kazakh <kk_KZ@googlegroups.com> | 
- | [gnome-nibbles]({{< ref "/f38/package/gnome-nibbles.md" >}}) | 588 | 588 | 100.0 | Kazakh <kk_KZ@googlegroups.com> | 
- | [gnome-online-accounts]({{< ref "/f38/package/gnome-online-accounts.md" >}}) | 664 | 664 | 100.0 | Kazakh <kk_KZ@googlegroups.com> | 
- | [gnome-photos]({{< ref "/f38/package/gnome-photos.md" >}}) | 572 | 572 | 100.0 | Kazakh <kk@li.org> | 
- | [gnome-pomodoro]({{< ref "/f38/package/gnome-pomodoro.md" >}}) | 358 | 358 | 100.0 | Kazakh <kk_KZ@googlegroups.com> | 
- | [gnome-remote-desktop]({{< ref "/f38/package/gnome-remote-desktop.md" >}}) | 164 | 164 | 100.0 | Kazakh <kk_KZ@googlegroups.com> | 
- | [gnome-robots]({{< ref "/f38/package/gnome-robots.md" >}}) | 596 | 596 | 100.0 | Kazakh <kk_KZ@googlegroups.com> | 
- | [gnome-screenshot]({{< ref "/f38/package/gnome-screenshot.md" >}}) | 417 | 417 | 100.0 | Kazakh <kk@li.org> | 
- | [gnome-session]({{< ref "/f38/package/gnome-session.md" >}}) | 435 | 435 | 100.0 | Kazakh <kk_KZ@googlegroups.com> | 
- | [gnome-shell]({{< ref "/f38/package/gnome-shell.md" >}}) | 2681 | 2681 | 100.0 | Kazakh <kk_KZ@googlegroups.com> | 
- | [gnome-shell-extensions]({{< ref "/f38/package/gnome-shell-extensions.md" >}}) | 270 | 270 | 100.0 | Kazakh <kk@li.org> | 
- | [gnome-shell-frippery]({{< ref "/f38/package/gnome-shell-frippery.md" >}}) | 4 | 4 | 100.0 |  | 
- | [gnome-sound-recorder]({{< ref "/f38/package/gnome-sound-recorder.md" >}}) | 240 | 240 | 100.0 | Kazakh <kk_KZ@googlegroups.com> | 
- | [gnome-sudoku]({{< ref "/f38/package/gnome-sudoku.md" >}}) | 418 | 418 | 100.0 | Kazakh <kk_KZ@googlegroups.com> | 
- | [gnome-system-monitor]({{< ref "/f38/package/gnome-system-monitor.md" >}}) | 1566 | 1566 | 100.0 | Kazakh <kk_KZ@googlegroups.com> | 
- | [gnome-taquin]({{< ref "/f38/package/gnome-taquin.md" >}}) | 431 | 431 | 100.0 | Kazakh <kk_KZ@googlegroups.com> | 
- | [gnome-terminal]({{< ref "/f38/package/gnome-terminal.md" >}}) | 2630 | 2630 | 100.0 | Kazakh <kk_KZ@googlegroups.com> | 
- | [gnome-text-editor]({{< ref "/f38/package/gnome-text-editor.md" >}}) | 1049 | 1049 | 100.0 | Kazakh <kk_KZ@googlegroups.com> | 
- | [gnome-themes-extra]({{< ref "/f38/package/gnome-themes-extra.md" >}}) | 15 | 15 | 100.0 | Kazakh <kk@li.org> | 
- | [gnome-todo]({{< ref "/f38/package/gnome-todo.md" >}}) | 737 | 737 | 100.0 | Kazakh <kk_KZ@googlegroups.com> | 
- | [gnome-tour]({{< ref "/f38/package/gnome-tour.md" >}}) | 113 | 113 | 100.0 | Kazakh <kk_KZ@googlegroups.com> | 
- | [gnome-tweaks]({{< ref "/f38/package/gnome-tweaks.md" >}}) | 521 | 521 | 100.0 | Kazakh <kk@li.org> | 
- | [gnome-user-share]({{< ref "/f38/package/gnome-user-share.md" >}}) | 49 | 49 | 100.0 | Kazakh <kk@li.org> | 
- | [gnome-weather]({{< ref "/f38/package/gnome-weather.md" >}}) | 216 | 216 | 100.0 | Kazakh <kk@li.org> | 
- | [gparted]({{< ref "/f38/package/gparted.md" >}}) | 3053 | 3053 | 100.0 | Kazakh <kk_KZ@googlegroups.com> | 
- | [gpicview]({{< ref "/f38/package/gpicview.md" >}}) | 236 | 236 | 100.0 | Kazakh <kk_KZ@googlegroups.com> | 
- | [gspell]({{< ref "/f38/package/gspell.md" >}}) | 76 | 76 | 100.0 | Kazakh <kk_KZ@googlegroups.com> | 
- | [gtk4]({{< ref "/f38/package/gtk4.md" >}}) | 4124 | 4124 | 100.0 | Kazakh <kk_KZ@googlegroups.com> | 
- | [gtksourceview5]({{< ref "/f38/package/gtksourceview5.md" >}}) | 371 | 371 | 100.0 | Kazakh <kk_KZ@googlegroups.com> | 
- | [hitori]({{< ref "/f38/package/hitori.md" >}}) | 239 | 239 | 100.0 | Kazakh <kk_KZ@googlegroups.com> | 
- | [iagno]({{< ref "/f38/package/iagno.md" >}}) | 801 | 801 | 100.0 | Kazakh <kk_KZ@googlegroups.com> | 
- | [initial-setup]({{< ref "/f38/package/initial-setup.md" >}}) | 106 | 106 | 100.0 | Kazakh <https://translate.fedoraproject.org/projects/initial-setup/master/kk/> | 
- | [kdesdk-thumbnailers]({{< ref "/f38/package/kdesdk-thumbnailers.md" >}}) | 4 | 4 | 100.0 | Kazakh <kde-i18n-doc@kde.org> | 
- | [kdiamond]({{< ref "/f38/package/kdiamond.md" >}}) | 122 | 122 | 100.0 | Kazakh <kde-i18n-doc@kde.org> | 
- | [kf5-akonadi-notes]({{< ref "/f38/package/kf5-akonadi-notes.md" >}}) | 2 | 2 | 100.0 | Kazakh <kde-i18n-doc@kde.org> | 
- | [kf5-kblog]({{< ref "/f38/package/kf5-kblog.md" >}}) | 243 | 243 | 100.0 | Kazakh <kde-i18n-doc@kde.org> | 
- | [kf5-kdoctools]({{< ref "/f38/package/kf5-kdoctools.md" >}}) | 8 | 8 | 100.0 | Kazakh | 
- | [kf5-kjsembed]({{< ref "/f38/package/kf5-kjsembed.md" >}}) | 248 | 248 | 100.0 | Kazakh <kde-i18n-doc@kde.org> | 
- | [kf5-kmime]({{< ref "/f38/package/kf5-kmime.md" >}}) | 159 | 159 | 100.0 | Kazakh <kde-i18n-doc@kde.org> | 
- | [kf5-kontactinterface]({{< ref "/f38/package/kf5-kontactinterface.md" >}}) | 4 | 4 | 100.0 | Kazakh <kde-i18n-doc@kde.org> | 
- | [kf5-kpty]({{< ref "/f38/package/kf5-kpty.md" >}}) | 15 | 15 | 100.0 | Kazakh <kde-i18n-doc@kde.org> | 
- | [kf5-kxmlrpcclient]({{< ref "/f38/package/kf5-kxmlrpcclient.md" >}}) | 13 | 13 | 100.0 | Kazakh <kde-i18n-doc@kde.org> | 
- | [kf5-libkcompactdisc]({{< ref "/f38/package/kf5-libkcompactdisc.md" >}}) | 15 | 15 | 100.0 | Kazakh <kde-i18n-doc@kde.org> | 
- | [kf5-libkdepim]({{< ref "/f38/package/kf5-libkdepim.md" >}}) | 35 | 35 | 100.0 | Kazakh <kde-i18n-doc@kde.org> | 
- | [kgamma]({{< ref "/f38/package/kgamma.md" >}}) | 130 | 130 | 100.0 | Kazakh | 
- | [kwebkitpart]({{< ref "/f38/package/kwebkitpart.md" >}}) | 669 | 669 | 100.0 | Kazakh <kde-i18n-doc@kde.org> | 
- | [libadwaita]({{< ref "/f38/package/libadwaita.md" >}}) | 42 | 42 | 100.0 | Kazakh <kk_KZ@googlegroups.com> | 
- | [libbytesize]({{< ref "/f38/package/libbytesize.md" >}}) | 17 | 17 | 100.0 | Kazakh <https://translate.fedoraproject.org/projects/blivet/libbytesize/kk/> | 
- | [libfm]({{< ref "/f38/package/libfm.md" >}}) | 1575 | 1575 | 100.0 | Kazakh <kk_KZ@googlegroups.com> | 
- | [libgnome-games-support]({{< ref "/f38/package/libgnome-games-support.md" >}}) | 43 | 43 | 100.0 | Kazakh <kk_KZ@googlegroups.com> | 
- | [libgnomekbd]({{< ref "/f38/package/libgnomekbd.md" >}}) | 187 | 187 | 100.0 | Kazakh <kk_KZ@googlegroups.com> | 
- | [libkdegames]({{< ref "/f38/package/libkdegames.md" >}}) | 370 | 370 | 100.0 | Kazakh <kde-i18n-doc@kde.org> | 
- | [libkmahjongg]({{< ref "/f38/package/libkmahjongg.md" >}}) | 7 | 7 | 100.0 | Kazakh <kde-i18n-doc@kde.org> | 
- | [libpeas]({{< ref "/f38/package/libpeas.md" >}}) | 103 | 103 | 100.0 | Kazakh <kk@li.org> | 
- | [libsecret]({{< ref "/f38/package/libsecret.md" >}}) | 64 | 64 | 100.0 | Kazakh <kk@li.org> | 
- | [libshumate]({{< ref "/f38/package/libshumate.md" >}}) | 8 | 8 | 100.0 | Kazakh <kk_KZ@googlegroups.com> | 
- | [libxfce4ui]({{< ref "/f38/package/libxfce4ui.md" >}}) | 1018 | 1018 | 100.0 | Kazakh (https://app.transifex.com/xfce/teams/16840/kk/) | 
- | [libxfce4util]({{< ref "/f38/package/libxfce4util.md" >}}) | 424 | 424 | 100.0 | Kazakh (http://www.transifex.com/xfce/libxfce4util/language/kk/) | 
- | [lightdm]({{< ref "/f38/package/lightdm.md" >}}) | 163 | 163 | 100.0 | Kazakh <kk@li.org> | 
- | [lightsoff]({{< ref "/f38/package/lightsoff.md" >}}) | 143 | 143 | 100.0 | Kazakh <kk_KZ@googlegroups.com> | 
- | [lskat]({{< ref "/f38/package/lskat.md" >}}) | 254 | 254 | 100.0 | Kazakh <kde-i18n-doc@kde.org> | 
- | [lxappearance-obconf]({{< ref "/f38/package/lxappearance-obconf.md" >}}) | 196 | 196 | 100.0 | Kazakh <kk_KZ@googlegroups.com> | 
- | [lxdm]({{< ref "/f38/package/lxdm.md" >}}) | 48 | 48 | 100.0 | Kazakh <kk_KZ@googlegroups.com> | 
- | [lxmenu-data]({{< ref "/f38/package/lxmenu-data.md" >}}) | 97 | 97 | 100.0 | Kazakh <kk_KZ@googlegroups.com> | 
- | [lxmusic]({{< ref "/f38/package/lxmusic.md" >}}) | 203 | 203 | 100.0 | Kazakh <kk_KZ@googlegroups.com> | 
- | [lxrandr]({{< ref "/f38/package/lxrandr.md" >}}) | 167 | 167 | 100.0 | Kazakh <kk_KZ@googlegroups.com> | 
- | [lxtask]({{< ref "/f38/package/lxtask.md" >}}) | 130 | 130 | 100.0 | Kazakh <kk_KZ@googlegroups.com> | 
- | [mate-icon-theme]({{< ref "/f38/package/mate-icon-theme.md" >}}) | 4 | 4 | 100.0 | Kazakh (https://www.transifex.com/mate/teams/13566/kk/) | 
- | [mate-menus]({{< ref "/f38/package/mate-menus.md" >}}) | 103 | 103 | 100.0 | Kazakh (https://app.transifex.com/mate/teams/13566/kk/) | 
- | [mate-polkit]({{< ref "/f38/package/mate-polkit.md" >}}) | 123 | 123 | 100.0 | Kazakh (https://www.transifex.com/mate/teams/13566/kk/) | 
- | [mingw-glib-networking]({{< ref "/f38/package/mingw-glib-networking.md" >}}) | 447 | 447 | 100.0 | Kazakh <kk_KZ@googlegroups.com> | 
- | [mingw-gtk4]({{< ref "/f38/package/mingw-gtk4.md" >}}) | 4124 | 4124 | 100.0 | Kazakh <kk_KZ@googlegroups.com> | 
- | [mousetweaks]({{< ref "/f38/package/mousetweaks.md" >}}) | 114 | 114 | 100.0 | Kazakh <kk_KZ@googlegroups.com> | 
- | [nautilus]({{< ref "/f38/package/nautilus.md" >}}) | 5405 | 5405 | 100.0 | Kazakh <kk_KZ@googlegroups.com> | 
- | [pcmanfm]({{< ref "/f38/package/pcmanfm.md" >}}) | 1215 | 1215 | 100.0 | Kazakh <kk_KZ@googlegroups.com> | 
- | [python-SecretStorage]({{< ref "/f38/package/python-SecretStorage.md" >}}) | 59 | 59 | 100.0 | Kazakh <kk@li.org> | 
- | [python-blivet]({{< ref "/f38/package/python-blivet.md" >}}) | 605 | 605 | 100.0 | Kazakh <https://translate.fedoraproject.org/projects/blivet/blivet-master/kk/> | 
- | [python-caja]({{< ref "/f38/package/python-caja.md" >}}) | 6 | 6 | 100.0 | Kazakh (https://www.transifex.com/mate/teams/13566/kk/) | 
- | [quadrapassel]({{< ref "/f38/package/quadrapassel.md" >}}) | 460 | 460 | 100.0 | Kazakh <kk_KZ@googlegroups.com> | 
- | [sushi]({{< ref "/f38/package/sushi.md" >}}) | 54 | 54 | 100.0 | Kazakh <kk@li.org> | 
- | [svgpart]({{< ref "/f38/package/svgpart.md" >}}) | 3 | 3 | 100.0 | Kazakh <kde-i18n-doc@kde.org> | 
- | [swell-foop]({{< ref "/f38/package/swell-foop.md" >}}) | 340 | 340 | 100.0 | Kazakh <kk_KZ@googlegroups.com> | 
- | [thunar-archive-plugin]({{< ref "/f38/package/thunar-archive-plugin.md" >}}) | 88 | 88 | 100.0 | Kazakh (http://www.transifex.com/xfce/thunar-plugins/language/kk/) | 
- | [thunar-media-tags-plugin]({{< ref "/f38/package/thunar-media-tags-plugin.md" >}}) | 158 | 158 | 100.0 | Kazakh (http://www.transifex.com/xfce/thunar-plugins/language/kk/) | 
- | [thunar-volman]({{< ref "/f38/package/thunar-volman.md" >}}) | 484 | 484 | 100.0 | Kazakh (http://www.transifex.com/xfce/thunar-volman/language/kk/) | 
- | [totem]({{< ref "/f38/package/totem.md" >}}) | 1384 | 1384 | 100.0 | Kazakh <kk_KZ@googlegroups.com> | 
- | [totem-pl-parser]({{< ref "/f38/package/totem-pl-parser.md" >}}) | 29 | 29 | 100.0 | Kazakh <kk@li.org> | 
- | [tumbler]({{< ref "/f38/package/tumbler.md" >}}) | 148 | 148 | 100.0 | Kazakh (http://www.transifex.com/xfce/tumbler/language/kk/) | 
- | [wireplumber]({{< ref "/f38/package/wireplumber.md" >}}) | 3 | 3 | 100.0 |  | 
- | [xdg-desktop-portal-gnome]({{< ref "/f38/package/xdg-desktop-portal-gnome.md" >}}) | 230 | 230 | 100.0 | Kazakh <kk_KZ@googlegroups.com> | 
- | [xdg-user-dirs]({{< ref "/f38/package/xdg-user-dirs.md" >}}) | 28 | 28 | 100.0 | Kazakh <kk_KZ@googlegroups.com> | 
- | [xdg-user-dirs-gtk]({{< ref "/f38/package/xdg-user-dirs-gtk.md" >}}) | 81 | 81 | 100.0 | Kazakh <kk_KZ@googlegroups.com> | 
- | [xfce4-appfinder]({{< ref "/f38/package/xfce4-appfinder.md" >}}) | 455 | 455 | 100.0 | Kazakh (http://www.transifex.com/xfce/xfce4-appfinder/language/kk/) | 
- | [xfce4-battery-plugin]({{< ref "/f38/package/xfce4-battery-plugin.md" >}}) | 145 | 145 | 100.0 | Kazakh (http://app.transifex.com/xfce/xfce-panel-plugins/language/kk/) | 
- | [xfce4-datetime-plugin]({{< ref "/f38/package/xfce4-datetime-plugin.md" >}}) | 52 | 52 | 100.0 | Kazakh (http://www.transifex.com/xfce/xfce-panel-plugins/language/kk/) | 
- | [xfce4-dict]({{< ref "/f38/package/xfce4-dict.md" >}}) | 531 | 531 | 100.0 | Kazakh (http://app.transifex.com/xfce/xfce-apps/language/kk/) | 
- | [xfce4-eyes-plugin]({{< ref "/f38/package/xfce4-eyes-plugin.md" >}}) | 16 | 16 | 100.0 | Kazakh (http://www.transifex.com/xfce/xfce-panel-plugins/language/kk/) | 
- | [xfce4-fsguard-plugin]({{< ref "/f38/package/xfce4-fsguard-plugin.md" >}}) | 71 | 71 | 100.0 | Kazakh (http://www.transifex.com/xfce/xfce-panel-plugins/language/kk/) | 
- | [xfce4-panel]({{< ref "/f38/package/xfce4-panel.md" >}}) | 1954 | 1954 | 100.0 | Kazakh (https://app.transifex.com/xfce/teams/16840/kk/) | 
- | [xfce4-places-plugin]({{< ref "/f38/package/xfce4-places-plugin.md" >}}) | 162 | 162 | 100.0 | Kazakh (http://www.transifex.com/xfce/xfce-panel-plugins/language/kk/) | 
- | [xfce4-settings]({{< ref "/f38/package/xfce4-settings.md" >}}) | 2476 | 2476 | 100.0 | Kazakh (https://app.transifex.com/xfce/teams/16840/kk/) | 
- | [xfce4-time-out-plugin]({{< ref "/f38/package/xfce4-time-out-plugin.md" >}}) | 115 | 115 | 100.0 | Kazakh (http://www.transifex.com/xfce/xfce-panel-plugins/language/kk/) | 
- | [xfce4-xkb-plugin]({{< ref "/f38/package/xfce4-xkb-plugin.md" >}}) | 57 | 57 | 100.0 | Kazakh (http://www.transifex.com/xfce/xfce-panel-plugins/language/kk/) | 
- | [xfconf]({{< ref "/f38/package/xfconf.md" >}}) | 458 | 458 | 100.0 | Kazakh (http://app.transifex.com/xfce/xfconf/language/kk/) | 
- | [xfdesktop]({{< ref "/f38/package/xfdesktop.md" >}}) | 1081 | 1081 | 100.0 | Kazakh (https://www.transifex.com/xfce/teams/16840/kk/) | 
- | [xfwm4]({{< ref "/f38/package/xfwm4.md" >}}) | 670 | 670 | 100.0 | Kazakh (http://www.transifex.com/xfce/xfwm4/language/kk/) | 
- | [yelp]({{< ref "/f38/package/yelp.md" >}}) | 348 | 348 | 100.0 | Kazakh <kk_KZ@googlegroups.com> | 
- | [poedit]({{< ref "/f38/package/poedit.md" >}}) | 3167 | 3168 | 100.0 | Kazakh | 
- | [gajim]({{< ref "/f38/package/gajim.md" >}}) | 6336 | 6349 | 99.8 | Kazakh <https://translate.gajim.org/projects/gajim/master/kk/> | 
- | [xfce4-power-manager]({{< ref "/f38/package/xfce4-power-manager.md" >}}) | 1044 | 1047 | 99.7 | Kazakh (https://app.transifex.com/xfce/teams/16840/kk/) | 
- | [kbruch]({{< ref "/f38/package/kbruch.md" >}}) | 1342 | 1347 | 99.6 | Kazakh <kde-i18n-doc@kde.org> | 
- | [kf5-ktnef]({{< ref "/f38/package/kf5-ktnef.md" >}}) | 353 | 355 | 99.4 | Kazakh <kde-i18n-doc@kde.org> | 
- | [kcron]({{< ref "/f38/package/kcron.md" >}}) | 499 | 502 | 99.4 | Kazakh <kde-i18n-doc@kde.org> | 
- | [iso-codes]({{< ref "/f38/package/iso-codes.md" >}}) | 1085 | 1093 | 99.3 | Kazakh <kk_KZ@googlegroups.com> | 
- | [kopete]({{< ref "/f38/package/kopete.md" >}}) | 17048 | 17175 | 99.3 | Kazakh | 
- | [kf5-kcontacts]({{< ref "/f38/package/kf5-kcontacts.md" >}}) | 175 | 177 | 98.9 | Kazakh <kde-i18n-doc@kde.org> | 
- | [ksquares]({{< ref "/f38/package/ksquares.md" >}}) | 257 | 260 | 98.8 | Kazakh <kde-i18n-doc@kde.org> | 
- | [kmag]({{< ref "/f38/package/kmag.md" >}}) | 427 | 432 | 98.8 | Kazakh <kde-i18n-doc@kde.org> | 
- | [sweeper]({{< ref "/f38/package/sweeper.md" >}}) | 225 | 228 | 98.7 | Kazakh <kde-i18n-doc@kde.org> | 
- | [ktp-filetransfer-handler]({{< ref "/f38/package/ktp-filetransfer-handler.md" >}}) | 139 | 141 | 98.6 | Kazakh <kde-i18n-doc@kde.org> | 
- | [ksirk]({{< ref "/f38/package/ksirk.md" >}}) | 5671 | 5756 | 98.5 | Kazakh <kde-i18n-doc@kde.org> | 
- | [kf5-libkcddb]({{< ref "/f38/package/kf5-libkcddb.md" >}}) | 394 | 400 | 98.5 | Kazakh <kde-i18n-doc@kde.org> | 
- | [kde-l10n]({{< ref "/f38/package/kde-l10n.md" >}}) | 102673 | 104357 | 98.4 | Kazakh <kde-i18n-doc@kde.org> | 
- | [katomic]({{< ref "/f38/package/katomic.md" >}}) | 181 | 184 | 98.4 | Kazakh <kde-i18n-doc@kde.org> | 
- | [ristretto]({{< ref "/f38/package/ristretto.md" >}}) | 662 | 674 | 98.2 | Kazakh (http://app.transifex.com/xfce/xfce-apps/language/kk/) | 
- | [kfourinline]({{< ref "/f38/package/kfourinline.md" >}}) | 385 | 392 | 98.2 | Kazakh <kde-i18n-doc@kde.org> | 
- | [kspaceduel]({{< ref "/f38/package/kspaceduel.md" >}}) | 162 | 165 | 98.2 | Kazakh <kde-i18n-doc@kde.org> | 
- | [mousepad]({{< ref "/f38/package/mousepad.md" >}}) | 1669 | 1700 | 98.2 | Kazakh (http://app.transifex.com/xfce/xfce-apps/language/kk/) | 
- | [kubrick]({{< ref "/f38/package/kubrick.md" >}}) | 1183 | 1205 | 98.2 | Kazakh <kde-i18n-doc@kde.org> | 
- | [pam]({{< ref "/f38/package/pam.md" >}}) | 525 | 535 | 98.1 | Kazakh <https://translate.fedoraproject.org/projects/linux-pam/master/kk/> | 
- | [stardict]({{< ref "/f38/package/stardict.md" >}}) | 2974 | 3035 | 98.0 | Kazakh <kk_KZ@googlegroups.com> | 
- | [slick-greeter]({{< ref "/f38/package/slick-greeter.md" >}}) | 211 | 216 | 97.7 | Kazakh <kk@li.org> | 
- | [cervisia]({{< ref "/f38/package/cervisia.md" >}}) | 1575 | 1615 | 97.5 | Kazakh <kde-i18n-doc@kde.org> | 
- | [krecipes]({{< ref "/f38/package/krecipes.md" >}}) | 3555 | 3646 | 97.5 | Kazakh <kde-i18n-doc@kde.org> | 
- | [xfce4-taskmanager]({{< ref "/f38/package/xfce4-taskmanager.md" >}}) | 223 | 229 | 97.4 | Kazakh (http://app.transifex.com/xfce/xfce-apps/language/kk/) | 
- | [kjumpingcube]({{< ref "/f38/package/kjumpingcube.md" >}}) | 402 | 413 | 97.3 | Kazakh <kde-i18n-doc@kde.org> | 
- | [shared-mime-info]({{< ref "/f38/package/shared-mime-info.md" >}}) | 2004 | 2060 | 97.3 | Kazakh (http://www.transifex.com/freedesktop/shared-mime-info/language/kk/) | 
- | [kblackbox]({{< ref "/f38/package/kblackbox.md" >}}) | 1328 | 1367 | 97.1 | Kazakh <kde-i18n-doc@kde.org> | 
- | [anaconda]({{< ref "/f38/package/anaconda.md" >}}) | 8473 | 8739 | 97.0 | Kazakh <https://translate.fedoraproject.org/projects/anaconda/master/kk/> | 
- | [gnome-control-center]({{< ref "/f38/package/gnome-control-center.md" >}}) | 7152 | 7397 | 96.7 | Kazakh <kk_KZ@googlegroups.com> | 
- | [kf5-ktextwidgets]({{< ref "/f38/package/kf5-ktextwidgets.md" >}}) | 456 | 473 | 96.4 | Kazakh <kde-i18n-doc@kde.org> | 
- | [kf5-eventviews]({{< ref "/f38/package/kf5-eventviews.md" >}}) | 2842 | 2949 | 96.4 | Kazakh <kde-i18n-doc@kde.org> | 
- | [kigo]({{< ref "/f38/package/kigo.md" >}}) | 485 | 504 | 96.2 | Kazakh <kde-i18n-doc@kde.org> | 
- | [xfce4-notes-plugin]({{< ref "/f38/package/xfce4-notes-plugin.md" >}}) | 166 | 173 | 96.0 | Kazakh (http://app.transifex.com/xfce/xfce-panel-plugins/language/kk/) | 
- | [kiriki]({{< ref "/f38/package/kiriki.md" >}}) | 138 | 144 | 95.8 | Kazakh <kde-i18n-doc@kde.org> | 
- | [kig]({{< ref "/f38/package/kig.md" >}}) | 7501 | 7857 | 95.5 | Kazakh <kde-i18n-doc@kde.org> | 
- | [lxpanel]({{< ref "/f38/package/lxpanel.md" >}}) | 1335 | 1399 | 95.4 | Kazakh <kk_KZ@googlegroups.com> | 
- | [kmouth]({{< ref "/f38/package/kmouth.md" >}}) | 1427 | 1496 | 95.4 | Kazakh <kde-i18n-doc@kde.org> | 
- | [blogilo]({{< ref "/f38/package/blogilo.md" >}}) | 1327 | 1392 | 95.3 | Kazakh <kde-i18n-doc@kde.org> | 
- | [kfloppy]({{< ref "/f38/package/kfloppy.md" >}}) | 611 | 641 | 95.3 | Kazakh <kde-i18n-doc@kde.org> | 
- | [okteta]({{< ref "/f38/package/okteta.md" >}}) | 2419 | 2538 | 95.3 | Kazakh <kde-i18n-doc@kde.org> | 
- | [kf5-libktorrent]({{< ref "/f38/package/kf5-libktorrent.md" >}}) | 443 | 465 | 95.3 | Kazakh <kde-i18n-doc@kde.org> | 
- | [klettres]({{< ref "/f38/package/klettres.md" >}}) | 419 | 440 | 95.2 | Kazakh <kde-i18n-doc@kde.org> | 
- | [bovo]({{< ref "/f38/package/bovo.md" >}}) | 77 | 81 | 95.1 | Kazakh <kde-i18n-doc@kde.org> | 
- | [ktp-accounts-kcm]({{< ref "/f38/package/ktp-accounts-kcm.md" >}}) | 989 | 1043 | 94.8 | Kazakh <kde-i18n-doc@kde.org> | 
- | [kget]({{< ref "/f38/package/kget.md" >}}) | 2624 | 2776 | 94.5 | Kazakh <kde-i18n-doc@kde.org> | 
- | [kblocks]({{< ref "/f38/package/kblocks.md" >}}) | 149 | 158 | 94.3 | Kazakh <kde-i18n-doc@kde.org> | 
- | [ktuberling]({{< ref "/f38/package/ktuberling.md" >}}) | 149 | 158 | 94.3 | Kazakh <kde-i18n-doc@kde.org> | 
- | [xfce4-terminal]({{< ref "/f38/package/xfce4-terminal.md" >}}) | 1513 | 1609 | 94.0 | Kazakh (http://app.transifex.com/xfce/xfce-apps/language/kk/) | 
- | [blinken]({{< ref "/f38/package/blinken.md" >}}) | 126 | 134 | 94.0 | Kazakh <kde-i18n-doc@kde.org> | 
- | [lightdm-gtk-greeter-settings]({{< ref "/f38/package/lightdm-gtk-greeter-settings.md" >}}) | 488 | 519 | 94.0 | Kazakh <kk@li.org> | 
- | [xfce4-session]({{< ref "/f38/package/xfce4-session.md" >}}) | 734 | 782 | 93.9 | Kazakh (https://app.transifex.com/xfce/teams/16840/kk/) | 
- | [kturtle]({{< ref "/f38/package/kturtle.md" >}}) | 1439 | 1538 | 93.6 | Kazakh <kde-i18n-doc@kde.org> | 
- | [mozo]({{< ref "/f38/package/mozo.md" >}}) | 43 | 46 | 93.5 | Kazakh (https://www.transifex.com/mate/teams/13566/kk/) | 
- | [kfind]({{< ref "/f38/package/kfind.md" >}}) | 483 | 517 | 93.4 | Kazakh <kde-i18n-doc@kde.org> | 
- | [ktimer]({{< ref "/f38/package/ktimer.md" >}}) | 241 | 258 | 93.4 | Kazakh <kde-i18n-doc@kde.org> | 
- | [python-django-contrib-comments]({{< ref "/f38/package/python-django-contrib-comments.md" >}}) | 233 | 250 | 93.2 | Kazakh (http://www.transifex.com/django/django-contrib-comments/language/kk/) | 
- | [budgie-control-center]({{< ref "/f38/package/budgie-control-center.md" >}}) | 6144 | 6597 | 93.1 | Kazakh (https://app.transifex.com/buddiesofbudgie/teams/129844/kk/) | 
- | [ksysguard]({{< ref "/f38/package/ksysguard.md" >}}) | 1017 | 1093 | 93.0 | Kazakh <kde-i18n-doc@kde.org> | 
- | [klines]({{< ref "/f38/package/klines.md" >}}) | 92 | 99 | 92.9 | Kazakh <kde-i18n-doc@kde.org> | 
- | [mate-menu]({{< ref "/f38/package/mate-menu.md" >}}) | 286 | 308 | 92.9 | Kazakh (http://www.transifex.com/mate/MATE/language/kk/) | 
- | [kolf]({{< ref "/f38/package/kolf.md" >}}) | 372 | 401 | 92.8 | Kazakh <kde-i18n-doc@kde.org> | 
- | [kolourpaint]({{< ref "/f38/package/kolourpaint.md" >}}) | 2389 | 2576 | 92.7 | Kazakh <kde-i18n-doc@kde.org> | 
- | [granatier]({{< ref "/f38/package/granatier.md" >}}) | 228 | 246 | 92.7 | Kazakh <kde-i18n-doc@kde.org> | 
- | [kgpg]({{< ref "/f38/package/kgpg.md" >}}) | 4879 | 5272 | 92.5 | Kazakh <kde-i18n-doc@kde.org> | 
- | [kdf]({{< ref "/f38/package/kdf.md" >}}) | 180 | 195 | 92.3 | Kazakh <kde-i18n-doc@kde.org> | 
- | [kgeography]({{< ref "/f38/package/kgeography.md" >}}) | 9241 | 10012 | 92.3 | Kazakh <kde-i18n-doc@kde.org> | 
- | [knetwalk]({{< ref "/f38/package/knetwalk.md" >}}) | 224 | 243 | 92.2 | Kazakh <kde-i18n-doc@kde.org> | 
- | [calligra]({{< ref "/f38/package/calligra.md" >}}) | 33134 | 35951 | 92.2 | Kazakh <kde-i18n-doc@kde.org> | 
- | [klickety]({{< ref "/f38/package/klickety.md" >}}) | 164 | 178 | 92.1 | Kazakh <kde-i18n-doc@kde.org> | 
- | [ktp-send-file]({{< ref "/f38/package/ktp-send-file.md" >}}) | 55 | 60 | 91.7 | Kazakh <kde-i18n-doc@kde.org> | 
- | [kmplot]({{< ref "/f38/package/kmplot.md" >}}) | 2291 | 2500 | 91.6 | Kazakh <kde-i18n-doc@kde.org> | 
- | [system-config-language]({{< ref "/f38/package/system-config-language.md" >}}) | 197 | 215 | 91.6 | LANGUAGE <LL@li.org> | 
- | [khotkeys]({{< ref "/f38/package/khotkeys.md" >}}) | 412 | 451 | 91.4 | Kazakh <kde-i18n-doc@kde.org> | 
- | [kapman]({{< ref "/f38/package/kapman.md" >}}) | 105 | 115 | 91.3 | Kazakh <kde-i18n-doc@kde.org> | 
- | [konversation]({{< ref "/f38/package/konversation.md" >}}) | 9441 | 10362 | 91.1 | Kazakh <kde-i18n-doc@kde.org> | 
- | [kmenuedit]({{< ref "/f38/package/kmenuedit.md" >}}) | 258 | 285 | 90.5 | Kazakh <kde-i18n-doc@kde.org> | 
- | [ksystemlog]({{< ref "/f38/package/ksystemlog.md" >}}) | 2806 | 3101 | 90.5 | Kazakh <kde-i18n-doc@kde.org> | 
- | [kde-print-manager]({{< ref "/f38/package/kde-print-manager.md" >}}) | 876 | 969 | 90.4 | Kazakh <kde-i18n-doc@kde.org> | 
- | [kbounce]({{< ref "/f38/package/kbounce.md" >}}) | 141 | 156 | 90.4 | Kazakh <kde-i18n-doc@kde.org> | 
- | [kdepim-addons]({{< ref "/f38/package/kdepim-addons.md" >}}) | 1798 | 1993 | 90.2 | Kazakh <kde-i18n-doc@kde.org> | 
- | [libreoffice]({{< ref "/f38/package/libreoffice.md" >}}) | 152160 | 168935 | 90.1 | Kazakh <https://translations.documentfoundation.org/projects/libo_ui-master/accessibilitymessages/kk/> | 
- | [kbrickbuster]({{< ref "/f38/package/kbrickbuster.md" >}}) | 142 | 158 | 89.9 | Kazakh <kde-i18n-doc@kde.org> | 
- | [kf5-akonadi-mime]({{< ref "/f38/package/kf5-akonadi-mime.md" >}}) | 521 | 580 | 89.8 | Kazakh <kde-i18n-doc@kde.org> | 
- | [xreader]({{< ref "/f38/package/xreader.md" >}}) | 1453 | 1625 | 89.4 | Kazakh (http://www.transifex.com/mate/MATE/language/kk/) | 
- | [ktp-auth-handler]({{< ref "/f38/package/ktp-auth-handler.md" >}}) | 74 | 83 | 89.2 | Kazakh <kde-i18n-doc@kde.org> | 
- | [keditbookmarks]({{< ref "/f38/package/keditbookmarks.md" >}}) | 415 | 466 | 89.1 | Kazakh <kde-i18n-doc@kde.org> | 
- | [ktorrent]({{< ref "/f38/package/ktorrent.md" >}}) | 6641 | 7462 | 89.0 | Kazakh <kde-i18n-doc@kde.org> | 
- | [cinnamon-desktop]({{< ref "/f38/package/cinnamon-desktop.md" >}}) | 208 | 234 | 88.9 | Kazakh <kk_KZ@googlegroups.com> | 
- | [libkomparediff2]({{< ref "/f38/package/libkomparediff2.md" >}}) | 127 | 143 | 88.8 | Kazakh <kde-i18n-doc@kde.org> | 
- | [tellico]({{< ref "/f38/package/tellico.md" >}}) | 5265 | 5977 | 88.1 | Kazakh <kde-i18n-doc@kde.org> | 
- | [lxlauncher]({{< ref "/f38/package/lxlauncher.md" >}}) | 51 | 58 | 87.9 | Kazakh <kk_KZ@googlegroups.com> | 
- | [kcalc]({{< ref "/f38/package/kcalc.md" >}}) | 937 | 1070 | 87.6 | Kazakh <kde-i18n-doc@kde.org> | 
- | [udisks2]({{< ref "/f38/package/udisks2.md" >}}) | 1905 | 2187 | 87.1 | Kazakh | 
- | [kdesdk-kioslaves]({{< ref "/f38/package/kdesdk-kioslaves.md" >}}) | 73 | 84 | 86.9 | Kazakh <kde-i18n-doc@kde.org> | 
- | [kf5-khtml]({{< ref "/f38/package/kf5-khtml.md" >}}) | 1448 | 1667 | 86.9 | Kazakh <kde-i18n-doc@kde.org> | 
- | [lxinput]({{< ref "/f38/package/lxinput.md" >}}) | 72 | 83 | 86.7 | Kazakh <kk_KZ@googlegroups.com> | 
- | [kf5-kdelibs4support]({{< ref "/f38/package/kf5-kdelibs4support.md" >}}) | 4617 | 5353 | 86.3 | Kazakh <kde-i18n-doc@kde.org> | 
- | [grantlee-editor]({{< ref "/f38/package/grantlee-editor.md" >}}) | 345 | 400 | 86.2 | Kazakh <kde-i18n-doc@kde.org> | 
- | [kiten]({{< ref "/f38/package/kiten.md" >}}) | 584 | 683 | 85.5 | Kazakh <kde-i18n-doc@kde.org> | 
- | [xfburn]({{< ref "/f38/package/xfburn.md" >}}) | 1338 | 1566 | 85.4 | Kazakh (http://www.transifex.com/xfce/xfce-apps/language/kk/) | 
- | [libkeduvocdocument]({{< ref "/f38/package/libkeduvocdocument.md" >}}) | 146 | 171 | 85.4 | Kazakh <kde-i18n-doc@kde.org> | 
- | [gnome-software]({{< ref "/f38/package/gnome-software.md" >}}) | 4175 | 4893 | 85.3 | Kazakh <kk_KZ@googlegroups.com> | 
- | [kajongg]({{< ref "/f38/package/kajongg.md" >}}) | 2093 | 2458 | 85.2 | Kazakh <kde-i18n-doc@kde.org> | 
- | [kf5-kconfigwidgets]({{< ref "/f38/package/kf5-kconfigwidgets.md" >}}) | 291 | 342 | 85.1 | Kazakh <kde-i18n-doc@kde.org> | 
- | [ksnakeduel]({{< ref "/f38/package/ksnakeduel.md" >}}) | 205 | 241 | 85.1 | Kazakh <kde-i18n-doc@kde.org> | 
- | [klavaro]({{< ref "/f38/package/klavaro.md" >}}) | 1608 | 1893 | 84.9 | Kazakh <(nothing)> | 
- | [juk]({{< ref "/f38/package/juk.md" >}}) | 1296 | 1526 | 84.9 | Kazakh <kde-i18n-doc@kde.org> | 
- | [ktp-common-internals]({{< ref "/f38/package/ktp-common-internals.md" >}}) | 838 | 989 | 84.7 | Kazakh <kde-i18n-doc@kde.org> | 
- | [plasma-oxygen]({{< ref "/f38/package/plasma-oxygen.md" >}}) | 534 | 631 | 84.6 | Kazakh <kde-i18n-doc@kde.org> | 
- | [gedit]({{< ref "/f38/package/gedit.md" >}}) | 3391 | 4010 | 84.6 | Kazakh <kk_KZ@googlegroups.com> | 
- | [kf5-audiocd-kio]({{< ref "/f38/package/kf5-audiocd-kio.md" >}}) | 723 | 857 | 84.4 | Kazakh <kde-i18n-doc@kde.org> | 
- | [krdc]({{< ref "/f38/package/krdc.md" >}}) | 979 | 1162 | 84.3 | Kazakh <kde-i18n-doc@kde.org> | 
- | [kf5-mailimporter]({{< ref "/f38/package/kf5-mailimporter.md" >}}) | 1186 | 1408 | 84.2 | Kazakh <kde-i18n-doc@kde.org> | 
- | [kaddressbook]({{< ref "/f38/package/kaddressbook.md" >}}) | 952 | 1137 | 83.7 | Kazakh <kde-i18n-doc@kde.org> | 
- | [ksig]({{< ref "/f38/package/ksig.md" >}}) | 71 | 85 | 83.5 | Kazakh | 
- | [kamera]({{< ref "/f38/package/kamera.md" >}}) | 283 | 342 | 82.7 | Kazakh <kde-i18n-doc@kde.org> | 
- | [kollision]({{< ref "/f38/package/kollision.md" >}}) | 90 | 109 | 82.6 | Kazakh <kde-i18n-doc@kde.org> | 
- | [polkit-kde]({{< ref "/f38/package/polkit-kde.md" >}}) | 78 | 95 | 82.1 | Kazakh <kde-i18n-doc@kde.org> | 
- | [kf5-kross]({{< ref "/f38/package/kf5-kross.md" >}}) | 82 | 100 | 82.0 | Kazakh <kde-i18n-doc@kde.org> | 
- | [kcharselect]({{< ref "/f38/package/kcharselect.md" >}}) | 72 | 88 | 81.8 | Kazakh <kde-i18n-doc@kde.org> | 
- | [k3b]({{< ref "/f38/package/k3b.md" >}}) | 16449 | 20179 | 81.5 | Kazakh <kde-i18n-doc@kde.org> | 
- | [ktp-contact-runner]({{< ref "/f38/package/ktp-contact-runner.md" >}}) | 169 | 208 | 81.2 | Kazakh <kde-i18n-doc@kde.org> | 
- | [picmi]({{< ref "/f38/package/picmi.md" >}}) | 164 | 202 | 81.2 | Kazakh <kde-i18n-doc@kde.org> | 
- | [shadow-utils]({{< ref "/f38/package/shadow-utils.md" >}}) | 3822 | 4738 | 80.7 | Kazakh <kk_KZ@googlegroups.com> | 
- | [php-phpmyadmin-sql-parser5]({{< ref "/f38/package/php-phpmyadmin-sql-parser5.md" >}}) | 230 | 286 | 80.4 | Kazakh <https://hosted.weblate.org/projects/phpmyadmin/sql-parser/kk/> | 
- | [kmahjongg]({{< ref "/f38/package/kmahjongg.md" >}}) | 303 | 377 | 80.4 | Kazakh <kde-i18n-doc@kde.org> | 
- | [kgoldrunner]({{< ref "/f38/package/kgoldrunner.md" >}}) | 22470 | 28011 | 80.2 | Kazakh <kde-i18n-doc@kde.org> | 
- | [kalgebra]({{< ref "/f38/package/kalgebra.md" >}}) | 133 | 166 | 80.1 | Kazakh <kde-i18n-doc@kde.org> | 
- | [konquest]({{< ref "/f38/package/konquest.md" >}}) | 197 | 246 | 80.1 | Kazakh <kde-i18n-doc@kde.org> | 
- | [kwalletmanager5]({{< ref "/f38/package/kwalletmanager5.md" >}}) | 669 | 839 | 79.7 | Kazakh <kde-i18n-doc@kde.org> | 
- | [ktouch]({{< ref "/f38/package/ktouch.md" >}}) | 767 | 964 | 79.6 | Kazakh <kde-i18n-doc@kde.org> | 
- | [kalzium]({{< ref "/f38/package/kalzium.md" >}}) | 7241 | 9105 | 79.5 | Kazakh <kde-i18n-doc@kde.org> | 
- | [kde-cli-tools]({{< ref "/f38/package/kde-cli-tools.md" >}}) | 1696 | 2135 | 79.4 | Kazakh <kde-i18n-doc@kde.org> | 
- | [kf5-mailcommon]({{< ref "/f38/package/kf5-mailcommon.md" >}}) | 2183 | 2755 | 79.2 | Kazakh <kde-i18n-doc@kde.org> | 
- | [kf5-messagelib]({{< ref "/f38/package/kf5-messagelib.md" >}}) | 6150 | 7764 | 79.2 | Kazakh <kde-i18n-doc@kde.org> | 
- | [kf5-libkgeomap]({{< ref "/f38/package/kf5-libkgeomap.md" >}}) | 110 | 139 | 79.1 | Kazakh <kde-i18n-doc@kde.org> | 
- | [khelpcenter]({{< ref "/f38/package/khelpcenter.md" >}}) | 209 | 265 | 78.9 | Kazakh <kde-i18n-doc@kde.org> | 
- | [konqueror]({{< ref "/f38/package/konqueror.md" >}}) | 6849 | 8690 | 78.8 | Kazakh <kde-i18n-doc@kde.org> | 
- | [kf5-kimap]({{< ref "/f38/package/kf5-kimap.md" >}}) | 93 | 118 | 78.8 | Kazakh <kde-i18n-doc@kde.org> | 
- | [kf5-libksieve]({{< ref "/f38/package/kf5-libksieve.md" >}}) | 2450 | 3122 | 78.5 | Kazakh <kde-i18n-doc@kde.org> | 
- | [folder-color-switcher]({{< ref "/f38/package/folder-color-switcher.md" >}}) | 51 | 65 | 78.5 | Kazakh <kk@li.org> | 
- | [kteatime]({{< ref "/f38/package/kteatime.md" >}}) | 158 | 203 | 77.8 | Kazakh <kde-i18n-doc@kde.org> | 
- | [kf5-kmailtransport]({{< ref "/f38/package/kf5-kmailtransport.md" >}}) | 516 | 663 | 77.8 | Kazakh <kde-i18n-doc@kde.org> | 
- | [kf5-libksane]({{< ref "/f38/package/kf5-libksane.md" >}}) | 236 | 304 | 77.6 | Kazakh <kde-i18n-doc@kde.org> | 
- | [kf5-kinit]({{< ref "/f38/package/kf5-kinit.md" >}}) | 90 | 116 | 77.6 | Kazakh <kde-i18n-doc@kde.org> | 
- | [mate-themes]({{< ref "/f38/package/mate-themes.md" >}}) | 57 | 74 | 77.0 | Kazakh (http://app.transifex.com/mate/MATE/language/kk/) | 
- | [kf5-akonadi-calendar]({{< ref "/f38/package/kf5-akonadi-calendar.md" >}}) | 1633 | 2148 | 76.0 | Kazakh <kde-i18n-doc@kde.org> | 
- | [gnome-do]({{< ref "/f38/package/gnome-do.md" >}}) | 464 | 612 | 75.8 | Kazakh <kk@li.org> | 
- | [gcr]({{< ref "/f38/package/gcr.md" >}}) | 602 | 795 | 75.7 | Kazakh <kk_KZ@googlegroups.com> | 
- | [gcr3]({{< ref "/f38/package/gcr3.md" >}}) | 602 | 795 | 75.7 | Kazakh <kk_KZ@googlegroups.com> | 
- | [kf5-kparts]({{< ref "/f38/package/kf5-kparts.md" >}}) | 104 | 138 | 75.4 | Kazakh <kde-i18n-doc@kde.org> | 
- | [knavalbattle]({{< ref "/f38/package/knavalbattle.md" >}}) | 302 | 401 | 75.3 | Kazakh <kde-i18n-doc@kde.org> | 
- | [kile]({{< ref "/f38/package/kile.md" >}}) | 9764 | 12994 | 75.1 | Kazakh <kde-i18n-doc@kde.org> | 
- | [mbox-importer]({{< ref "/f38/package/mbox-importer.md" >}}) | 30 | 40 | 75.0 | Kazakh <kde-i18n-doc@kde.org> | 
- | [pacman]({{< ref "/f38/package/pacman.md" >}}) | 848 | 1132 | 74.9 | Kazakh (http://www.transifex.com/toofishes/archlinux-pacman/language/kk/) | 
- | [ktp-approver]({{< ref "/f38/package/ktp-approver.md" >}}) | 53 | 71 | 74.6 | Kazakh <kde-i18n-doc@kde.org> | 
- | [kmymoney]({{< ref "/f38/package/kmymoney.md" >}}) | 16333 | 22051 | 74.1 | Kazakh <kde-i18n-doc@kde.org> | 
- | [xfce4-whiskermenu-plugin]({{< ref "/f38/package/xfce4-whiskermenu-plugin.md" >}}) | 317 | 429 | 73.9 | Kazakh (http://app.transifex.com/gottcode/xfce4-whiskermenu-plugin/language/kk/) | 
- | [kshisen]({{< ref "/f38/package/kshisen.md" >}}) | 492 | 667 | 73.8 | Kazakh <kde-i18n-doc@kde.org> | 
- | [lokalize]({{< ref "/f38/package/lokalize.md" >}}) | 3071 | 4165 | 73.7 | Kazakh <kde-i18n-doc@kde.org> | 
- | [kf5-kunitconversion]({{< ref "/f38/package/kf5-kunitconversion.md" >}}) | 4240 | 5757 | 73.6 | Kazakh <kde-i18n-doc@kde.org> | 
- | [geany]({{< ref "/f38/package/geany.md" >}}) | 4623 | 6280 | 73.6 | Kazakh <kk_KZ@googlegroups.com> | 
- | [kf5-kwallet]({{< ref "/f38/package/kf5-kwallet.md" >}}) | 980 | 1335 | 73.4 | Kazakh <kde-i18n-doc@kde.org> | 
- | [gvfs]({{< ref "/f38/package/gvfs.md" >}}) | 1543 | 2102 | 73.4 | Kazakh <kk_KZ@googlegroups.com> | 
- | [akregator]({{< ref "/f38/package/akregator.md" >}}) | 1360 | 1853 | 73.4 | Kazakh <kde-i18n-doc@kde.org> | 
- | [kdepim-runtime]({{< ref "/f38/package/kdepim-runtime.md" >}}) | 4190 | 5722 | 73.2 | Kazakh <kde-i18n-doc@kde.org> | 
- | [kf5-incidenceeditor]({{< ref "/f38/package/kf5-incidenceeditor.md" >}}) | 1616 | 2208 | 73.2 | Kazakh <kde-i18n-doc@kde.org> | 
- | [gnome-settings-daemon]({{< ref "/f38/package/gnome-settings-daemon.md" >}}) | 2876 | 3930 | 73.2 | Kazakh <kk@li.org> | 
- | [mate-notification-daemon]({{< ref "/f38/package/mate-notification-daemon.md" >}}) | 136 | 186 | 73.1 | Kazakh (https://app.transifex.com/mate/teams/13566/kk/) | 
- | [kf5-akonadi-server]({{< ref "/f38/package/kf5-akonadi-server.md" >}}) | 1880 | 2596 | 72.4 | Kazakh <kde-i18n-doc@kde.org> | 
- | [kf5-akonadi-contacts]({{< ref "/f38/package/kf5-akonadi-contacts.md" >}}) | 803 | 1116 | 72.0 | Kazakh <kde-i18n-doc@kde.org> | 
- | [xfce4-pulseaudio-plugin]({{< ref "/f38/package/xfce4-pulseaudio-plugin.md" >}}) | 136 | 190 | 71.6 | Kazakh (http://app.transifex.com/xfce/xfce-panel-plugins/language/kk/) | 
- | [kf5-calendarsupport]({{< ref "/f38/package/kf5-calendarsupport.md" >}}) | 1976 | 2779 | 71.1 | Kazakh <kde-i18n-doc@kde.org> | 
- | [kpat]({{< ref "/f38/package/kpat.md" >}}) | 397 | 565 | 70.3 | Kazakh <kde-i18n-doc@kde.org> | 
- | [dolphin-plugins]({{< ref "/f38/package/dolphin-plugins.md" >}}) | 990 | 1409 | 70.3 | Kazakh <kde-i18n-doc@kde.org> | 
- | [kalarm]({{< ref "/f38/package/kalarm.md" >}}) | 5885 | 8389 | 70.2 | Kazakh <kde-i18n-doc@kde.org> | 
- | [kmousetool]({{< ref "/f38/package/kmousetool.md" >}}) | 103 | 147 | 70.1 | Kazakh <kde-i18n-doc@kde.org> | 
- | [kdnssd]({{< ref "/f38/package/kdnssd.md" >}}) | 21 | 30 | 70.0 | Kazakh <kde-i18n-doc@kde.org> | 
- | [kcm_wacomtablet]({{< ref "/f38/package/kcm_wacomtablet.md" >}}) | 697 | 996 | 70.0 | Kazakh <kde-i18n-doc@kde.org> | 
- | [mate-media]({{< ref "/f38/package/mate-media.md" >}}) | 166 | 239 | 69.5 | Kazakh (https://app.transifex.com/mate/teams/13566/kk/) | 
- | [parley]({{< ref "/f38/package/parley.md" >}}) | 2381 | 3433 | 69.4 | Kazakh <kde-i18n-doc@kde.org> | 
- | [kmines]({{< ref "/f38/package/kmines.md" >}}) | 108 | 156 | 69.2 | Kazakh <kde-i18n-doc@kde.org> | 
- | [kf5-kcmutils]({{< ref "/f38/package/kf5-kcmutils.md" >}}) | 183 | 266 | 68.8 | Kazakh <kde-i18n-doc@kde.org> | 
- | [lightdm-gtk]({{< ref "/f38/package/lightdm-gtk.md" >}}) | 61 | 89 | 68.5 | Kazakh <kk@li.org> | 
- | [libksysguard]({{< ref "/f38/package/libksysguard.md" >}}) | 2671 | 3901 | 68.5 | Kazakh <kde-i18n-doc@kde.org> | 
- | [bomber]({{< ref "/f38/package/bomber.md" >}}) | 75 | 110 | 68.2 | Kazakh <kde-i18n-doc@kde.org> | 
- | [killbots]({{< ref "/f38/package/killbots.md" >}}) | 430 | 637 | 67.5 | Kazakh <kde-i18n-doc@kde.org> | 
- | [umbrello]({{< ref "/f38/package/umbrello.md" >}}) | 4111 | 6132 | 67.0 | Kazakh <kde-i18n-doc@kde.org> | 
- | [kontact]({{< ref "/f38/package/kontact.md" >}}) | 329 | 492 | 66.9 | Kazakh <kde-i18n-doc@kde.org> | 
- | [kf5-knotifyconfig]({{< ref "/f38/package/kf5-knotifyconfig.md" >}}) | 86 | 129 | 66.7 | Kazakh <kde-i18n-doc@kde.org> | 
- | [libnma]({{< ref "/f38/package/libnma.md" >}}) | 536 | 807 | 66.4 | Kazakh <kk_KZ@googlegroups.com> | 
- | [kmail]({{< ref "/f38/package/kmail.md" >}}) | 5900 | 8935 | 66.0 | Kazakh <kde-i18n-doc@kde.org> | 
- | [kruler]({{< ref "/f38/package/kruler.md" >}}) | 104 | 158 | 65.8 | Kazakh <kde-i18n-doc@kde.org> | 
- | [akonadi-calendar-tools]({{< ref "/f38/package/akonadi-calendar-tools.md" >}}) | 500 | 760 | 65.8 | Kazakh <kde-i18n-doc@kde.org> | 
- | [xfce4-panel-profiles]({{< ref "/f38/package/xfce4-panel-profiles.md" >}}) | 94 | 144 | 65.3 | Kazakh (https://app.transifex.com/xfce/teams/16840/kk/) | 
- | [kf5-kio]({{< ref "/f38/package/kf5-kio.md" >}}) | 7786 | 12037 | 64.7 | Kazakh <kde-i18n-doc@kde.org> | 
- | [caja]({{< ref "/f38/package/caja.md" >}}) | 6246 | 9675 | 64.6 | Kazakh (https://app.transifex.com/mate/teams/13566/kk/) | 
- | [kde-dev-utils]({{< ref "/f38/package/kde-dev-utils.md" >}}) | 61 | 95 | 64.2 | Kazakh <kde-i18n-doc@kde.org> | 
- | [kpilot]({{< ref "/f38/package/kpilot.md" >}}) | 4560 | 7156 | 63.7 | Kazakh | 
- | [kf5-kldap]({{< ref "/f38/package/kf5-kldap.md" >}}) | 144 | 227 | 63.4 | Kazakh | 
- | [xfce4-notifyd]({{< ref "/f38/package/xfce4-notifyd.md" >}}) | 355 | 560 | 63.4 | Kazakh (http://www.transifex.com/xfce/xfce-apps/language/kk/) | 
- | [yelp-xsl]({{< ref "/f38/package/yelp-xsl.md" >}}) | 51 | 81 | 63.0 | Kazakh <kk_KZ@googlegroups.com> | 
- | [mate-session-manager]({{< ref "/f38/package/mate-session-manager.md" >}}) | 450 | 715 | 62.9 | Kazakh (https://app.transifex.com/mate/teams/13566/kk/) | 
- | [shotwell]({{< ref "/f38/package/shotwell.md" >}}) | 4338 | 6977 | 62.2 | Kazakh (http://www.transifex.com/projects/p/shotwell/language/kk/) | 
- | [kapptemplate]({{< ref "/f38/package/kapptemplate.md" >}}) | 167 | 272 | 61.4 | Kazakh <kde-i18n-doc@kde.org> | 
- | [xfpanel-switch]({{< ref "/f38/package/xfpanel-switch.md" >}}) | 62 | 101 | 61.4 | Kazakh <kk@li.org> | 
- | [dragon]({{< ref "/f38/package/dragon.md" >}}) | 152 | 248 | 61.3 | Kazakh <kde-i18n-doc@kde.org> | 
- | [geary]({{< ref "/f38/package/geary.md" >}}) | 1633 | 2674 | 61.1 | Kazakh <kk_KZ@googlegroups.com> | 
- | [akonadi-import-wizard]({{< ref "/f38/package/akonadi-import-wizard.md" >}}) | 240 | 394 | 60.9 | Kazakh <kde-i18n-doc@kde.org> | 
- | [blivet-gui]({{< ref "/f38/package/blivet-gui.md" >}}) | 645 | 1064 | 60.6 | Kazakh <https://translate.fedoraproject.org/projects/blivet/blivet-gui/kk/> | 
- | [massif-visualizer]({{< ref "/f38/package/massif-visualizer.md" >}}) | 216 | 357 | 60.5 | Kazakh <kde-i18n-doc@kde.org> | 
- | [kf5-kidentitymanagement]({{< ref "/f38/package/kf5-kidentitymanagement.md" >}}) | 110 | 182 | 60.4 | Kazakh <kde-i18n-doc@kde.org> | 
- | [kf5-kxmlgui]({{< ref "/f38/package/kf5-kxmlgui.md" >}}) | 950 | 1574 | 60.4 | Kazakh <kde-i18n-doc@kde.org> | 
- | [pipewire-media-session]({{< ref "/f38/package/pipewire-media-session.md" >}}) | 3 | 5 | 60.0 |  | 
- | [kdialog]({{< ref "/f38/package/kdialog.md" >}}) | 231 | 391 | 59.1 | Kazakh <kde-i18n-doc@kde.org> | 
- | [kf5-ktexteditor]({{< ref "/f38/package/kf5-ktexteditor.md" >}}) | 5434 | 9233 | 58.9 | Kazakh <kde-i18n-doc@kde.org> | 
- | [xfce4-wavelan-plugin]({{< ref "/f38/package/xfce4-wavelan-plugin.md" >}}) | 47 | 80 | 58.8 | Kazakh (http://www.transifex.com/xfce/xfce-panel-plugins/language/kk/) | 
- | [calligraplan]({{< ref "/f38/package/calligraplan.md" >}}) | 5780 | 9943 | 58.1 | Kazakh <kde-i18n-doc@kde.org> | 
- | [plasma-workspace]({{< ref "/f38/package/plasma-workspace.md" >}}) | 5690 | 9871 | 57.6 | Kazakh <kde-i18n-doc@kde.org> | 
- | [kf5-kalarmcal]({{< ref "/f38/package/kf5-kalarmcal.md" >}}) | 117 | 204 | 57.4 | Kazakh <kde-i18n-doc@kde.org> | 
- | [korganizer]({{< ref "/f38/package/korganizer.md" >}}) | 3949 | 6894 | 57.3 | Kazakh <kde-i18n-doc@kde.org> | 
- | [gucharmap]({{< ref "/f38/package/gucharmap.md" >}}) | 829 | 1478 | 56.1 | Kazakh <kk_KZ@googlegroups.com> | 
- | [zenity]({{< ref "/f38/package/zenity.md" >}}) | 496 | 896 | 55.4 | Kazakh <kk_KZ@googlegroups.com> | 
- | [simple-scan]({{< ref "/f38/package/simple-scan.md" >}}) | 540 | 976 | 55.3 | Kazakh <kk@li.org> | 
- | [seahorse]({{< ref "/f38/package/seahorse.md" >}}) | 1306 | 2378 | 54.9 | Kazakh <kk_KZ@googlegroups.com> | 
- | [mate-backgrounds]({{< ref "/f38/package/mate-backgrounds.md" >}}) | 30 | 55 | 54.5 | Kazakh (https://www.transifex.com/mate/teams/13566/kk/) | 
- | [plasma-desktop]({{< ref "/f38/package/plasma-desktop.md" >}}) | 3185 | 5842 | 54.5 | Kazakh <kde-i18n-doc@kde.org> | 
- | [khangman]({{< ref "/f38/package/khangman.md" >}}) | 257 | 475 | 54.1 | Kazakh <kde-i18n-doc@kde.org> | 
- | [kmix]({{< ref "/f38/package/kmix.md" >}}) | 612 | 1132 | 54.1 | Kazakh <kde-i18n-doc@kde.org> | 
- | [polari]({{< ref "/f38/package/polari.md" >}}) | 468 | 867 | 54.0 | Kazakh <kk_KZ@googlegroups.com> | 
- | [kinfocenter]({{< ref "/f38/package/kinfocenter.md" >}}) | 246 | 461 | 53.4 | Kazakh <kde-i18n-doc@kde.org> | 
- | [kf5-kservice]({{< ref "/f38/package/kf5-kservice.md" >}}) | 92 | 173 | 53.2 | Kazakh <kde-i18n-doc@kde.org> | 
- | [libgweather]({{< ref "/f38/package/libgweather.md" >}}) | 3398 | 6394 | 53.1 | Kazakh <kk@li.org> | 
- | [plasma-systemsettings]({{< ref "/f38/package/plasma-systemsettings.md" >}}) | 111 | 212 | 52.4 | Kazakh <kde-i18n-doc@kde.org> | 
- | [kio-extras]({{< ref "/f38/package/kio-extras.md" >}}) | 532 | 1017 | 52.3 | Kazakh <kde-i18n-doc@kde.org> | 
- | [plasma-sdk]({{< ref "/f38/package/plasma-sdk.md" >}}) | 193 | 371 | 52.0 | Kazakh <kde-i18n-doc@kde.org> | 
- | [ktp-contact-list]({{< ref "/f38/package/ktp-contact-list.md" >}}) | 353 | 680 | 51.9 | Kazakh <kde-i18n-doc@kde.org> | 
- | [libmateweather]({{< ref "/f38/package/libmateweather.md" >}}) | 258 | 500 | 51.6 | Kazakh (https://app.transifex.com/mate/teams/13566/kk/) | 
- | [gpodder]({{< ref "/f38/package/gpodder.md" >}}) | 1288 | 2508 | 51.4 | Kazakh (http://www.transifex.com/projects/p/gpodder/language/kk/) | 
- | [xfce4-clipman-plugin]({{< ref "/f38/package/xfce4-clipman-plugin.md" >}}) | 287 | 565 | 50.8 | Kazakh (http://app.transifex.com/xfce/xfce-panel-plugins/language/kk/) | 
- | [kaudiocreator]({{< ref "/f38/package/kaudiocreator.md" >}}) | 572 | 1136 | 50.4 | Kazakh <kde-i18n-doc@kde.org> | 
- | [libgweather4]({{< ref "/f38/package/libgweather4.md" >}}) | 3373 | 6804 | 49.6 | Kazakh <kk@li.org> | 
- | [kanagram]({{< ref "/f38/package/kanagram.md" >}}) | 257 | 527 | 48.8 | Kazakh <kde-i18n-doc@kde.org> | 
- | [network-manager-applet]({{< ref "/f38/package/network-manager-applet.md" >}}) | 2144 | 4408 | 48.6 | Kazakh <kk_KZ@googlegroups.com> | 
- | [kcolorchooser]({{< ref "/f38/package/kcolorchooser.md" >}}) | 14 | 29 | 48.3 | Kazakh <kde-i18n-doc@kde.org> | 
- | [libpwquality]({{< ref "/f38/package/libpwquality.md" >}}) | 165 | 345 | 47.8 | Kazakh <https://translate.fedoraproject.org/projects/libpwquality/app/kk/> | 
- | [gnome-disk-utility]({{< ref "/f38/package/gnome-disk-utility.md" >}}) | 1945 | 4078 | 47.7 | Kazakh <kk_KZ@googlegroups.com> | 
- | [xfce4-genmon-plugin]({{< ref "/f38/package/xfce4-genmon-plugin.md" >}}) | 54 | 114 | 47.4 | Kazakh (http://www.transifex.com/xfce/xfce-panel-plugins/language/kk/) | 
- | [parole]({{< ref "/f38/package/parole.md" >}}) | 542 | 1147 | 47.3 | Kazakh (http://app.transifex.com/xfce/xfce-apps/language/kk/) | 
- | [ktp-text-ui]({{< ref "/f38/package/ktp-text-ui.md" >}}) | 548 | 1182 | 46.4 | Kazakh <kde-i18n-doc@kde.org> | 
- | [kf5-kcalendarutils]({{< ref "/f38/package/kf5-kcalendarutils.md" >}}) | 657 | 1437 | 45.7 | Kazakh <kde-i18n-doc@kde.org> | 
- | [gtksourceview3]({{< ref "/f38/package/gtksourceview3.md" >}}) | 145 | 322 | 45.0 | Kazakh <kk_KZ@googlegroups.com> | 
- | [mingw-gtksourceview3]({{< ref "/f38/package/mingw-gtksourceview3.md" >}}) | 145 | 322 | 45.0 | Kazakh <kk_KZ@googlegroups.com> | 
- | [kmail-account-wizard]({{< ref "/f38/package/kmail-account-wizard.md" >}}) | 367 | 815 | 45.0 | Kazakh <kde-i18n-doc@kde.org> | 
- | [maliit-keyboard]({{< ref "/f38/package/maliit-keyboard.md" >}}) | 36 | 81 | 44.4 | Kazakh <kk@li.org> | 
- | [ktp-kded-integration-module]({{< ref "/f38/package/ktp-kded-integration-module.md" >}}) | 217 | 490 | 44.3 | Kazakh <kde-i18n-doc@kde.org> | 
- | [galculator]({{< ref "/f38/package/galculator.md" >}}) | 408 | 935 | 43.6 | Kazakh (http://www.transifex.com/mate/MATE/language/kk/) | 
- | [xarchiver]({{< ref "/f38/package/xarchiver.md" >}}) | 527 | 1214 | 43.4 | Kazakh <kk_KZ@googlegroups.com> | 
- | [okular]({{< ref "/f38/package/okular.md" >}}) | 2467 | 5686 | 43.4 | Kazakh <kde-i18n-doc@kde.org> | 
- | [gtksourceview4]({{< ref "/f38/package/gtksourceview4.md" >}}) | 133 | 308 | 43.2 | Kazakh <kk_KZ@googlegroups.com> | 
- | [kexi]({{< ref "/f38/package/kexi.md" >}}) | 3177 | 7365 | 43.1 | Kazakh <kde-i18n-doc@kde.org> | 
- | [xfce4-cpufreq-plugin]({{< ref "/f38/package/xfce4-cpufreq-plugin.md" >}}) | 59 | 140 | 42.1 | Kazakh <kk_KZ@googlegroups.com> | 
- | [epiphany]({{< ref "/f38/package/epiphany.md" >}}) | 2004 | 4776 | 42.0 | Kazakh <kk_KZ@googlegroups.com> | 
- | [kdevelop-php]({{< ref "/f38/package/kdevelop-php.md" >}}) | 221 | 529 | 41.8 | Kazakh <kde-i18n-doc@kde.org> | 
- | [gwenview]({{< ref "/f38/package/gwenview.md" >}}) | 852 | 2040 | 41.8 | Kazakh <kde-i18n-doc@kde.org> | 
- | [knotes]({{< ref "/f38/package/knotes.md" >}}) | 250 | 601 | 41.6 | Kazakh <kde-i18n-doc@kde.org> | 
- | [transmission]({{< ref "/f38/package/transmission.md" >}}) | 984 | 2441 | 40.3 | Kazakh (https://app.transifex.com/transmissionbt/teams/33778/kk/) | 
- | [kleopatra]({{< ref "/f38/package/kleopatra.md" >}}) | 5039 | 12529 | 40.2 | Kazakh <kde-i18n-doc@kde.org> | 
- | [ksudoku]({{< ref "/f38/package/ksudoku.md" >}}) | 700 | 1746 | 40.1 | Kazakh <kde-i18n-doc@kde.org> | 
- | [python-django]({{< ref "/f38/package/python-django.md" >}}) | 1504 | 3755 | 40.1 | Kazakh (http://www.transifex.com/django/django/language/kk/) | 
- | [python-django3]({{< ref "/f38/package/python-django3.md" >}}) | 1504 | 3755 | 40.1 | Kazakh (http://www.transifex.com/django/django/language/kk/) | 
- | [xapps]({{< ref "/f38/package/xapps.md" >}}) | 29 | 73 | 39.7 | Kazakh <kk@li.org> | 
- | [kcachegrind]({{< ref "/f38/package/kcachegrind.md" >}}) | 1724 | 4367 | 39.5 | Kazakh <kde-i18n-doc@kde.org> | 
- | [gnome-packagekit]({{< ref "/f38/package/gnome-packagekit.md" >}}) | 1366 | 3483 | 39.2 | Kazakh <kk_KZ@googlegroups.com> | 
- | [xfce4-cpugraph-plugin]({{< ref "/f38/package/xfce4-cpugraph-plugin.md" >}}) | 73 | 188 | 38.8 | Kazakh (http://app.transifex.com/xfce/xfce-panel-plugins/language/kk/) | 
- | [kf5-kdeclarative]({{< ref "/f38/package/kf5-kdeclarative.md" >}}) | 62 | 161 | 38.5 | Kazakh <kde-i18n-doc@kde.org> | 
- | [krfb]({{< ref "/f38/package/krfb.md" >}}) | 278 | 735 | 37.8 | Kazakh <kde-i18n-doc@kde.org> | 
- | [kwin]({{< ref "/f38/package/kwin.md" >}}) | 2208 | 5855 | 37.7 | Kazakh <kde-i18n-doc@kde.org> | 
- | [powerdevil]({{< ref "/f38/package/powerdevil.md" >}}) | 252 | 669 | 37.7 | Kazakh <kde-i18n-doc@kde.org> | 
- | [mate-settings-daemon]({{< ref "/f38/package/mate-settings-daemon.md" >}}) | 824 | 2207 | 37.3 | Kazakh (https://app.transifex.com/mate/teams/13566/kk/) | 
- | [filelight]({{< ref "/f38/package/filelight.md" >}}) | 97 | 262 | 37.0 | Kazakh <kde-i18n-doc@kde.org> | 
- | [konsole5]({{< ref "/f38/package/konsole5.md" >}}) | 1474 | 3996 | 36.9 | Kazakh <kde-i18n-doc@kde.org> | 
- | [kompare]({{< ref "/f38/package/kompare.md" >}}) | 517 | 1413 | 36.6 | Kazakh <kde-i18n-doc@kde.org> | 
- | [kactivitymanagerd]({{< ref "/f38/package/kactivitymanagerd.md" >}}) | 4 | 11 | 36.4 | Kazakh <kde-i18n-doc@kde.org> | 
- | [deluge]({{< ref "/f38/package/deluge.md" >}}) | 1576 | 4340 | 36.3 | Kazakh <kk@li.org> | 
- | [libmatemixer]({{< ref "/f38/package/libmatemixer.md" >}}) | 87 | 242 | 36.0 | Kazakh (https://app.transifex.com/mate/teams/13566/kk/) | 
- | [plasma-drkonqi]({{< ref "/f38/package/plasma-drkonqi.md" >}}) | 708 | 1984 | 35.7 | Kazakh <kde-i18n-doc@kde.org> | 
- | [menulibre]({{< ref "/f38/package/menulibre.md" >}}) | 308 | 873 | 35.3 | Kazakh <kk@li.org> | 
- | [step]({{< ref "/f38/package/step.md" >}}) | 660 | 1897 | 34.8 | Kazakh <kde-i18n-doc@kde.org> | 
- | [palapeli]({{< ref "/f38/package/palapeli.md" >}}) | 524 | 1525 | 34.4 | Kazakh <kde-i18n-doc@kde.org> | 
- | [kf5-ki18n]({{< ref "/f38/package/kf5-ki18n.md" >}}) | 42 | 124 | 33.9 | Kazakh <kde-i18n-doc@kde.org> | 
- | [atril]({{< ref "/f38/package/atril.md" >}}) | 1478 | 4365 | 33.9 | Kazakh (https://www.transifex.com/mate/teams/13566/kk/) | 
- | [pim-data-exporter]({{< ref "/f38/package/pim-data-exporter.md" >}}) | 273 | 810 | 33.7 | Kazakh <kde-i18n-doc@kde.org> | 
- | [kreversi]({{< ref "/f38/package/kreversi.md" >}}) | 143 | 425 | 33.6 | Kazakh <kde-i18n-doc@kde.org> | 
- | [uget]({{< ref "/f38/package/uget.md" >}}) | 365 | 1085 | 33.6 | Kazakh (http://www.transifex.com/uget/uget/language/kk/) | 
- | [kate]({{< ref "/f38/package/kate.md" >}}) | 2079 | 6190 | 33.6 | Kazakh <kde-i18n-doc@kde.org> | 
- | [muffin]({{< ref "/f38/package/muffin.md" >}}) | 356 | 1071 | 33.2 | Kazakh <kk@li.org> | 
- | [xed]({{< ref "/f38/package/xed.md" >}}) | 1236 | 3759 | 32.9 | Kazakh (http://www.transifex.com/projects/p/MATE/language/kk/) | 
- | [baloo-widgets]({{< ref "/f38/package/baloo-widgets.md" >}}) | 22 | 67 | 32.8 | Kazakh <kde-i18n-doc@kde.org> | 
- | [cinnamon-translations]({{< ref "/f38/package/cinnamon-translations.md" >}}) | 7773 | 23673 | 32.8 | Kazakh <kk@li.org> | 
- | [gnome-shell-extension-dash-to-panel]({{< ref "/f38/package/gnome-shell-extension-dash-to-panel.md" >}}) | 383 | 1198 | 32.0 | Kazakh <kk_KZ@googlegroups.com> | 
- | [caja-extensions]({{< ref "/f38/package/caja-extensions.md" >}}) | 242 | 760 | 31.8 | Kazakh (https://www.transifex.com/mate/teams/13566/kk/) | 
- | [kdevelop]({{< ref "/f38/package/kdevelop.md" >}}) | 3710 | 11805 | 31.4 | Kazakh <kde-i18n-doc@kde.org> | 
- | [cantor]({{< ref "/f38/package/cantor.md" >}}) | 1265 | 4034 | 31.4 | Kazakh <kde-i18n-doc@kde.org> | 
- | [gnome-2048]({{< ref "/f38/package/gnome-2048.md" >}}) | 118 | 382 | 30.9 | Kazakh <kk_KZ@googlegroups.com> | 
- | [gtk3]({{< ref "/f38/package/gtk3.md" >}}) | 5154 | 16737 | 30.8 | Kazakh <kk_KZ@googlegroups.com> | 
- | [mingw-gtk3]({{< ref "/f38/package/mingw-gtk3.md" >}}) | 5144 | 16727 | 30.8 | Kazakh <kk_KZ@googlegroups.com> | 
- | [eom]({{< ref "/f38/package/eom.md" >}}) | 1485 | 4958 | 30.0 | Kazakh (https://app.transifex.com/mate/teams/13566/kk/) | 
- | [gigolo]({{< ref "/f38/package/gigolo.md" >}}) | 161 | 541 | 29.8 | Kazakh (http://app.transifex.com/xfce/xfce-apps/language/kk/) | 
- | [tali]({{< ref "/f38/package/tali.md" >}}) | 129 | 438 | 29.5 | Kazakh <kk_KZ@googlegroups.com> | 
- | [xfce4-netload-plugin]({{< ref "/f38/package/xfce4-netload-plugin.md" >}}) | 27 | 92 | 29.3 | Kazakh <kk_KZ@googlegroups.com> | 
- | [magpie]({{< ref "/f38/package/magpie.md" >}}) | 362 | 1253 | 28.9 | Kazakh <kk@li.org> | 
- | [mutter]({{< ref "/f38/package/mutter.md" >}}) | 362 | 1253 | 28.9 | Kazakh <kk@li.org> | 
- | [kstars]({{< ref "/f38/package/kstars.md" >}}) | 16635 | 58759 | 28.3 | Kazakh <kde-i18n-doc@kde.org> | 
- | [sugar-toolkit-gtk3]({{< ref "/f38/package/sugar-toolkit-gtk3.md" >}}) | 60 | 213 | 28.2 | LANGUAGE <LL@li.org> | 
- | [xdg-desktop-portal-xapp]({{< ref "/f38/package/xdg-desktop-portal-xapp.md" >}}) | 63 | 225 | 28.0 | Kazakh <kk_KZ@googlegroups.com> | 
- | [kf5-pimcommon]({{< ref "/f38/package/kf5-pimcommon.md" >}}) | 232 | 830 | 28.0 | Kazakh <kde-i18n-doc@kde.org> | 
- | [mate-desktop]({{< ref "/f38/package/mate-desktop.md" >}}) | 650 | 2376 | 27.4 | Kazakh (https://app.transifex.com/mate/teams/13566/kk/) | 
- | [gnome-builder]({{< ref "/f38/package/gnome-builder.md" >}}) | 1317 | 4891 | 26.9 | Kazakh <kk_KZ@googlegroups.com> | 
- | [kf5-kiconthemes]({{< ref "/f38/package/kf5-kiconthemes.md" >}}) | 11 | 41 | 26.8 | Kazakh <kde-i18n-doc@kde.org> | 
- | [evolution-data-server]({{< ref "/f38/package/evolution-data-server.md" >}}) | 2124 | 7918 | 26.8 | Kazakh <kk_KZ@googlegroups.com> | 
- | [kf5-kpimtextedit]({{< ref "/f38/package/kf5-kpimtextedit.md" >}}) | 101 | 382 | 26.4 | Kazakh <kde-i18n-doc@kde.org> | 
- | [ark]({{< ref "/f38/package/ark.md" >}}) | 518 | 1962 | 26.4 | Kazakh <kde-i18n-doc@kde.org> | 
- | [pipewire]({{< ref "/f38/package/pipewire.md" >}}) | 170 | 647 | 26.3 |  | 
- | [xfce4-screenshooter]({{< ref "/f38/package/xfce4-screenshooter.md" >}}) | 186 | 733 | 25.4 | Kazakh (http://app.transifex.com/xfce/xfce-apps/language/kk/) | 
- | [gitg]({{< ref "/f38/package/gitg.md" >}}) | 603 | 2435 | 24.8 | Kazakh <kk_KZ@googlegroups.com> | 
- | [gdk-pixbuf2]({{< ref "/f38/package/gdk-pixbuf2.md" >}}) | 328 | 1325 | 24.8 | Kazakh <kk_KZ@googlegroups.com> | 
- | [mingw-gdk-pixbuf]({{< ref "/f38/package/mingw-gdk-pixbuf.md" >}}) | 328 | 1325 | 24.8 | Kazakh <kk_KZ@googlegroups.com> | 
- | [rocs]({{< ref "/f38/package/rocs.md" >}}) | 364 | 1480 | 24.6 | Kazakh <kde-i18n-doc@kde.org> | 
- | [mate-panel]({{< ref "/f38/package/mate-panel.md" >}}) | 1587 | 6720 | 23.6 | Kazakh (https://app.transifex.com/mate/teams/13566/kk/) | 
- | [dconf-editor]({{< ref "/f38/package/dconf-editor.md" >}}) | 694 | 2955 | 23.5 | Kazakh <kk@li.org> | 
- | [gedit-plugins]({{< ref "/f38/package/gedit-plugins.md" >}}) | 214 | 928 | 23.1 | Kazakh <kk_KZ@googlegroups.com> | 
- | [orage]({{< ref "/f38/package/orage.md" >}}) | 528 | 2302 | 22.9 | Kazakh (https://www.transifex.com/xfce/teams/16840/kk/) | 
- | [gnome-color-manager]({{< ref "/f38/package/gnome-color-manager.md" >}}) | 404 | 1796 | 22.5 | Kazakh <kk@li.org> | 
- | [at-spi2-core]({{< ref "/f38/package/at-spi2-core.md" >}}) | 99 | 447 | 22.1 | Kazakh <kk_KZ@googlegroups.com> | 
- | [mate-terminal]({{< ref "/f38/package/mate-terminal.md" >}}) | 1852 | 8386 | 22.1 | Kazakh (https://app.transifex.com/mate/teams/13566/kk/) | 
- | [mate-control-center]({{< ref "/f38/package/mate-control-center.md" >}}) | 1723 | 8253 | 20.9 | Kazakh (https://app.transifex.com/mate/teams/13566/kk/) | 
- | [gtk2]({{< ref "/f38/package/gtk2.md" >}}) | 2569 | 12404 | 20.7 | Kazakh <kk_KZ@googlegroups.com> | 
- | [mingw-gtk2]({{< ref "/f38/package/mingw-gtk2.md" >}}) | 2569 | 12404 | 20.7 | Kazakh <kk_KZ@googlegroups.com> | 
- | [libwnck]({{< ref "/f38/package/libwnck.md" >}}) | 226 | 1124 | 20.1 | Kazakh <kk_KZ@googlegroups.com> | 
- | [brasero]({{< ref "/f38/package/brasero.md" >}}) | 1105 | 5549 | 19.9 | Kazakh <kk_KZ@googlegroups.com> | 
- | [kf5-libkleo]({{< ref "/f38/package/kf5-libkleo.md" >}}) | 471 | 2423 | 19.4 | Kazakh <kde-i18n-doc@kde.org> | 
- | [mate-system-monitor]({{< ref "/f38/package/mate-system-monitor.md" >}}) | 942 | 4893 | 19.3 | Kazakh (https://app.transifex.com/mate/teams/13566/kk/) | 
- | [tracker-miners]({{< ref "/f38/package/tracker-miners.md" >}}) | 351 | 1824 | 19.2 | Kazakh <kk_KZ@googlegroups.com> | 
- | [libwnck3]({{< ref "/f38/package/libwnck3.md" >}}) | 207 | 1086 | 19.1 | Kazakh <kk_KZ@googlegroups.com> | 
- | [kwordquiz]({{< ref "/f38/package/kwordquiz.md" >}}) | 48 | 252 | 19.0 | Kazakh <kde-i18n-doc@kde.org> | 
- | [dolphin]({{< ref "/f38/package/dolphin.md" >}}) | 961 | 5146 | 18.7 | Kazakh <kde-i18n-doc@kde.org> | 
- | [kf5-knewstuff]({{< ref "/f38/package/kf5-knewstuff.md" >}}) | 301 | 1631 | 18.5 | Kazakh <kde-i18n-doc@kde.org> | 
- | [tracker]({{< ref "/f38/package/tracker.md" >}}) | 104 | 583 | 17.8 | Kazakh <kk_KZ@googlegroups.com> | 
- | [mingw-atk]({{< ref "/f38/package/mingw-atk.md" >}}) | 78 | 440 | 17.7 | Kazakh <kk_KZ@googlegroups.com> | 
- | [pulseaudio]({{< ref "/f38/package/pulseaudio.md" >}}) | 663 | 3786 | 17.5 |  | 
- | [engrampa]({{< ref "/f38/package/engrampa.md" >}}) | 1365 | 7838 | 17.4 | Kazakh (https://app.transifex.com/mate/teams/13566/kk/) | 
- | [mate-utils]({{< ref "/f38/package/mate-utils.md" >}}) | 1743 | 10060 | 17.3 | Kazakh (https://app.transifex.com/mate/teams/13566/kk/) | 
- | [kjots]({{< ref "/f38/package/kjots.md" >}}) | 112 | 651 | 17.2 | Kazakh <kde-i18n-doc@kde.org> | 
- | [light-locker]({{< ref "/f38/package/light-locker.md" >}}) | 44 | 260 | 16.9 | Kazakh (http://www.transifex.com/the_cavalry/light-locker/language/kk/) | 
- | [pluma]({{< ref "/f38/package/pluma.md" >}}) | 2182 | 13113 | 16.6 | Kazakh (https://app.transifex.com/mate/teams/13566/kk/) | 
- | [accerciser]({{< ref "/f38/package/accerciser.md" >}}) | 107 | 658 | 16.3 | Kazakh <kk_KZ@googlegroups.com> | 
- | [libgnomeui]({{< ref "/f38/package/libgnomeui.md" >}}) | 192 | 1226 | 15.7 | Kazakh <kk_KZ@googlegroups.com> | 
- | [dasher]({{< ref "/f38/package/dasher.md" >}}) | 98 | 634 | 15.5 | Kazakh <kk_KZ@googlegroups.com> | 
- | [glib2]({{< ref "/f38/package/glib2.md" >}}) | 1178 | 7693 | 15.3 | Kazakh <kk_KZ@googlegroups.com> | 
- | [mingw-glib2]({{< ref "/f38/package/mingw-glib2.md" >}}) | 1178 | 7693 | 15.3 | Kazakh <kk_KZ@googlegroups.com> | 
- | [mate-screensaver]({{< ref "/f38/package/mate-screensaver.md" >}}) | 167 | 1101 | 15.2 | Kazakh (https://app.transifex.com/mate/teams/13566/kk/) | 
- | [rhythmbox]({{< ref "/f38/package/rhythmbox.md" >}}) | 563 | 3719 | 15.1 | Kazakh <kk_KZ@googlegroups.com> | 
- | [grub-customizer]({{< ref "/f38/package/grub-customizer.md" >}}) | 190 | 1295 | 14.7 | Kazakh <kk@li.org> | 
- | [glade]({{< ref "/f38/package/glade.md" >}}) | 989 | 6854 | 14.4 | Kazakh <kk_KZ@googlegroups.com> | 
- | [fractal]({{< ref "/f38/package/fractal.md" >}}) | 128 | 888 | 14.4 | Kazakh <kk_KZ@googlegroups.com> | 
- | [gnome-tetravex]({{< ref "/f38/package/gnome-tetravex.md" >}}) | 141 | 979 | 14.4 | Kazakh <kk_KZ@googlegroups.com> | 
- | [libmatekbd]({{< ref "/f38/package/libmatekbd.md" >}}) | 44 | 308 | 14.3 | Kazakh (https://app.transifex.com/mate/teams/13566/kk/) | 
- | [gsettings-desktop-schemas]({{< ref "/f38/package/gsettings-desktop-schemas.md" >}}) | 1020 | 7207 | 14.2 | Kazakh <kk@li.org> | 
- | [mate-calc]({{< ref "/f38/package/mate-calc.md" >}}) | 460 | 3323 | 13.8 | Kazakh (https://www.transifex.com/mate/teams/13566/kk/) | 
- | [evolution]({{< ref "/f38/package/evolution.md" >}}) | 4077 | 29603 | 13.8 | Kazakh <kk_KZ@googlegroups.com> | 
- | [remmina]({{< ref "/f38/package/remmina.md" >}}) | 719 | 5396 | 13.3 | Kazakh <https://hosted.weblate.org/projects/remmina/remmina/kk/> | 
- | [kamoso]({{< ref "/f38/package/kamoso.md" >}}) | 19 | 145 | 13.1 | Kazakh <kde-i18n-doc@kde.org> | 
- | [mate-power-manager]({{< ref "/f38/package/mate-power-manager.md" >}}) | 645 | 5119 | 12.6 | Kazakh (https://app.transifex.com/mate/teams/13566/kk/) | 
- | [gconf-editor]({{< ref "/f38/package/gconf-editor.md" >}}) | 42 | 336 | 12.5 | Kazakh <kk_KZ@googlegroups.com> | 
- | [kdeplasma-addons]({{< ref "/f38/package/kdeplasma-addons.md" >}}) | 153 | 1241 | 12.3 | Kazakh <kde-i18n-doc@kde.org> | 
- | [pavucontrol]({{< ref "/f38/package/pavucontrol.md" >}}) | 56 | 530 | 10.6 | Kazakh <https://translate.fedoraproject.org/projects/pulseaudio/pavucontrol/kk/> | 
- | [gnome-abrt]({{< ref "/f38/package/gnome-abrt.md" >}}) | 23 | 221 | 10.4 | Kazakh <https://translate.fedoraproject.org/projects/abrt/gnome-abrt/kk/> | 
- | [krita]({{< ref "/f38/package/krita.md" >}}) | 3598 | 35924 | 10.0 | Kazakh <kde-i18n-doc@kde.org> | 
- | [kscreenlocker]({{< ref "/f38/package/kscreenlocker.md" >}}) | 20 | 213 | 9.4 | Kazakh <kde-i18n-doc@kde.org> | 
- | [gnome-panel]({{< ref "/f38/package/gnome-panel.md" >}}) | 308 | 3281 | 9.4 | Kazakh <kk_KZ@googlegroups.com> | 
- | [pluma-plugins]({{< ref "/f38/package/pluma-plugins.md" >}}) | 125 | 1398 | 8.9 | Kazakh (https://www.transifex.com/mate/teams/13566/kk/) | 
- | [midori]({{< ref "/f38/package/midori.md" >}}) | 316 | 3541 | 8.9 | Kazakh <kk_KZ@googlegroups.com> | 
- | [aisleriot]({{< ref "/f38/package/aisleriot.md" >}}) | 257 | 2982 | 8.6 | Kazakh <kk_KZ@googlegroups.com> | 
- | [rygel]({{< ref "/f38/package/rygel.md" >}}) | 136 | 1641 | 8.3 | Kazakh <kk_KZ@googlegroups.com> | 
- | [anjuta]({{< ref "/f38/package/anjuta.md" >}}) | 684 | 8398 | 8.1 | Kazakh <kk_KZ@googlegroups.com> | 
- | [icewm]({{< ref "/f38/package/icewm.md" >}}) | 184 | 2267 | 8.1 | Kazakh <https://l10n.opensuse.org/projects/icewm/icewm-1-4-branch/kk/> | 
- | [marco]({{< ref "/f38/package/marco.md" >}}) | 348 | 4303 | 8.1 | Kazakh (https://app.transifex.com/mate/teams/13566/kk/) | 
- | [clementine]({{< ref "/f38/package/clementine.md" >}}) | 292 | 3803 | 7.7 | Kazakh (http://app.transifex.com/davidsansome/clementine/language/kk/) | 
- | [gnome-applets]({{< ref "/f38/package/gnome-applets.md" >}}) | 330 | 4314 | 7.6 | Kazakh <kk_KZ@googlegroups.com> | 
- | [terminator]({{< ref "/f38/package/terminator.md" >}}) | 106 | 1522 | 7.0 | Kazakh (https://www.transifex.com/terminator/teams/109338/kk/) | 
- | [orca]({{< ref "/f38/package/orca.md" >}}) | 395 | 5801 | 6.8 | Kazakh <kk_KZ@googlegroups.com> | 
- | [marble]({{< ref "/f38/package/marble.md" >}}) | 774 | 11587 | 6.7 | Kazakh <kde-i18n-doc@kde.org> | 
- | [dnf]({{< ref "/f38/package/dnf.md" >}}) | 293 | 4718 | 6.2 | Kazakh <https://translate.fedoraproject.org/projects/dnf/dnf-master/kk/> | 
- | [pogo]({{< ref "/f38/package/pogo.md" >}}) | 28 | 576 | 4.9 | Kazakh <kk@li.org> | 
- | [elementary-mail]({{< ref "/f38/package/elementary-mail.md" >}}) | 35 | 788 | 4.4 | Kazakh <kk_KZ@googlegroups.com> | 
- | [gnumeric]({{< ref "/f38/package/gnumeric.md" >}}) | 1690 | 38348 | 4.4 | Kazakh <kk_KZ@googlegroups.com> | 
- | [geany-plugins]({{< ref "/f38/package/geany-plugins.md" >}}) | 375 | 8513 | 4.4 | Kazakh <kk_KZ@googlegroups.com> | 
- | [shutter]({{< ref "/f38/package/shutter.md" >}}) | 127 | 2927 | 4.3 | Kazakh <kk@li.org> | 
- | [gimp]({{< ref "/f38/package/gimp.md" >}}) | 1094 | 26305 | 4.2 | Kazakh <kk_KZ@googlegroups.com> | 
- | [isomaster]({{< ref "/f38/package/isomaster.md" >}}) | 28 | 674 | 4.2 | http://littlesvr.ca/ostd/ | 
- | [plasma-discover]({{< ref "/f38/package/plasma-discover.md" >}}) | 107 | 2859 | 3.7 | Kazakh <kde-i18n-doc@kde.org> | 
- | [clutter]({{< ref "/f38/package/clutter.md" >}}) | 113 | 3057 | 3.7 | Kazakh <kk_KZ@googlegroups.com> | 
- | [libgnome]({{< ref "/f38/package/libgnome.md" >}}) | 63 | 1773 | 3.6 | Kazakh <kk_KZ@googlegroups.com> | 
- | [asunder]({{< ref "/f38/package/asunder.md" >}}) | 17 | 493 | 3.4 | http://littlesvr.ca/ostd/ | 
- | [gnome-commander]({{< ref "/f38/package/gnome-commander.md" >}}) | 353 | 10710 | 3.3 | Kazakh <kk_KZ@googlegroups.com> | 
- | [mingw-p11-kit]({{< ref "/f38/package/mingw-p11-kit.md" >}}) | 12 | 476 | 2.5 | Kazakh (http://www.transifex.com/freedesktop/p11-kit/language/kk/) | 
- | [mate-user-admin]({{< ref "/f38/package/mate-user-admin.md" >}}) | 15 | 605 | 2.5 | Kazakh (https://www.transifex.com/mate/teams/13566/kk/) | 
- | [pidgin]({{< ref "/f38/package/pidgin.md" >}}) | 337 | 13994 | 2.4 | Kazakh (http://www.transifex.com/pidgin/pidgin/language/kk/) | 
- | [lightdm-settings]({{< ref "/f38/package/lightdm-settings.md" >}}) | 7 | 355 | 2.0 | Kazakh <kk@li.org> | 
- | [onboard]({{< ref "/f38/package/onboard.md" >}}) | 45 | 2318 | 1.9 | Kazakh <kk@li.org> | 
- | [mate-applets]({{< ref "/f38/package/mate-applets.md" >}}) | 302 | 15957 | 1.9 | Kazakh (https://www.transifex.com/mate/teams/13566/kk/) | 
- | [rednotebook]({{< ref "/f38/package/rednotebook.md" >}}) | 23 | 1263 | 1.8 | Kazakh <kk@li.org> | 
- | [blueman]({{< ref "/f38/package/blueman.md" >}}) | 38 | 2340 | 1.6 | Kazakh <https://hosted.weblate.org/projects/blueman/blueman/kk/> | 
- | [paprefs]({{< ref "/f38/package/paprefs.md" >}}) | 2 | 137 | 1.5 | Kazakh <https://translate.fedoraproject.org/projects/pulseaudio/paprefs/kk/> | 
- | [minetest]({{< ref "/f38/package/minetest.md" >}}) | 98 | 9523 | 1.0 | Kazakh <https://hosted.weblate.org/projects/minetest/minetest/kk/> | 
- | [folks]({{< ref "/f38/package/folks.md" >}}) | 10 | 1056 | 0.9 | Kazakh <kk_KZ@googlegroups.com> | 
- | [caja-actions]({{< ref "/f38/package/caja-actions.md" >}}) | 133 | 18815 | 0.7 | Kazakh (https://www.transifex.com/mate/teams/13566/kk/) | 
- | [p11-kit]({{< ref "/f38/package/p11-kit.md" >}}) | 12 | 1764 | 0.7 | Kazakh (http://www.transifex.com/freedesktop/p11-kit/language/kk/) | 
- | [aria2]({{< ref "/f38/package/aria2.md" >}}) | 48 | 7486 | 0.6 | Kazakh <kk@li.org> | 
- | [android-tools]({{< ref "/f38/package/android-tools.md" >}}) | 33 | 6028 | 0.5 | Kazakh | 
- | [malcontent]({{< ref "/f38/package/malcontent.md" >}}) | 3 | 584 | 0.5 | none | 
- | [policycoreutils]({{< ref "/f38/package/policycoreutils.md" >}}) | 53 | 10521 | 0.5 | Kazakh | 
- | [abrt]({{< ref "/f38/package/abrt.md" >}}) | 16 | 3676 | 0.4 | Kazakh <https://translate.fedoraproject.org/projects/abrt/abrt/kk/> | 
- | [elementary-code]({{< ref "/f38/package/elementary-code.md" >}}) | 7 | 1614 | 0.4 | LANGUAGE <LL@li.org> | 
- | [mate-sensors-applet]({{< ref "/f38/package/mate-sensors-applet.md" >}}) | 9 | 2160 | 0.4 | Kazakh (https://www.transifex.com/mate/teams/13566/kk/) | 
- | [mate-user-guide]({{< ref "/f38/package/mate-user-guide.md" >}}) | 136 | 42973 | 0.3 | Kazakh (https://app.transifex.com/mate/teams/13566/kk/) | 
- | [colord]({{< ref "/f38/package/colord.md" >}}) | 5 | 1885 | 0.3 | Kazakh (http://www.transifex.com/projects/p/colord/language/kk/) | 
- | [mingw-colord]({{< ref "/f38/package/mingw-colord.md" >}}) | 5 | 1885 | 0.3 | Kazakh (http://www.transifex.com/projects/p/colord/language/kk/) | 
- | [mypaint]({{< ref "/f38/package/mypaint.md" >}}) | 15 | 6381 | 0.2 | Kazakh <https://hosted.weblate.org/projects/mypaint/mypaint/kk/> | 
- | [coreutils]({{< ref "/f38/package/coreutils.md" >}}) | 36 | 21546 | 0.2 | Kazakh <kk_KZ@googlegroups.com> | 
- | [libmypaint]({{< ref "/f38/package/libmypaint.md" >}}) | 2 | 2303 | 0.1 | Kazakh <https://hosted.weblate.org/projects/mypaint/libmypaint/kk/> | 
- | [libreport]({{< ref "/f38/package/libreport.md" >}}) | 4 | 4928 | 0.1 | Kazakh <https://translate.fedoraproject.org/projects/abrt/libreport/kk/> | 
- | [mc]({{< ref "/f38/package/mc.md" >}}) | 2 | 4394 | 0.0 | Kazakh (http://app.transifex.com/mc/mc/language/kk/) | 
- | [analitza]({{< ref "/f38/package/analitza.md" >}}) | 0 | 992 | 0.0 | Kazakh <kde-i18n-doc@kde.org> | 
- | [bookworm]({{< ref "/f38/package/bookworm.md" >}}) | 0 | 795 | 0.0 |  | 
- | [calamares]({{< ref "/f38/package/calamares.md" >}}) | 0 | 521 | 0.0 | Kazakh (https://app.transifex.com/calamares/teams/20061/kk/) | 
- | [clamtk]({{< ref "/f38/package/clamtk.md" >}}) | 0 | 448 | 0.0 | Kazakh <kk@li.org> | 
- | [coin]({{< ref "/f38/package/coin.md" >}}) | 0 | 252 | 0.0 | none | 
- | [cpeditor]({{< ref "/f38/package/cpeditor.md" >}}) | 0 | 647 | 0.0 | Kazakh <kde-i18n-doc@kde.org> | 
- | [deja-dup]({{< ref "/f38/package/deja-dup.md" >}}) | 0 | 1623 | 0.0 | Kazakh <kk@li.org> | 
- | [dippi]({{< ref "/f38/package/dippi.md" >}}) | 0 | 1425 | 0.0 | none | 
- | [elementary-files]({{< ref "/f38/package/elementary-files.md" >}}) | 0 | 2490 | 0.0 | LANGUAGE <LL@li.org> | 
- | [elementary-icon-theme]({{< ref "/f38/package/elementary-icon-theme.md" >}}) | 0 | 394 | 0.0 | none | 
- | [elementary-music]({{< ref "/f38/package/elementary-music.md" >}}) | 0 | 205 | 0.0 | LANGUAGE <LL@li.org> | 
- | [elementary-notifications]({{< ref "/f38/package/elementary-notifications.md" >}}) | 0 | 44 | 0.0 | none | 
- | [exaile]({{< ref "/f38/package/exaile.md" >}}) | 0 | 4602 | 0.0 | Kazakh <kk@li.org> | 
- | [fonts-tweak-tool]({{< ref "/f38/package/fonts-tweak-tool.md" >}}) | 0 | 195 | 0.0 | Kazakh | 
- | [fprintd]({{< ref "/f38/package/fprintd.md" >}}) | 0 | 433 | 0.0 | Kazakh (http://www.transifex.com/freedesktop/fprintd/language/kk/) | 
- | [gala]({{< ref "/f38/package/gala.md" >}}) | 0 | 249 | 0.0 | none | 
- | [granite]({{< ref "/f38/package/granite.md" >}}) | 0 | 498 | 0.0 |  | 
- | [granite-7]({{< ref "/f38/package/granite-7.md" >}}) | 0 | 300 | 0.0 |  | 
- | [harvey]({{< ref "/f38/package/harvey.md" >}}) | 0 | 182 | 0.0 | none | 
- | [kdenetwork-filesharing]({{< ref "/f38/package/kdenetwork-filesharing.md" >}}) | 0 | 992 | 0.0 | Kazakh <kde-i18n-doc@kde.org> | 
- | [kf5-grantleetheme]({{< ref "/f38/package/kf5-grantleetheme.md" >}}) | 0 | 14 | 0.0 | Kazakh <kde-i18n-doc@kde.org> | 
- | [kf5-kauth]({{< ref "/f38/package/kf5-kauth.md" >}}) | 0 | 73 | 0.0 | Kazakh <kde-i18n-doc@kde.org> | 
- | [kf5-kbookmarks]({{< ref "/f38/package/kf5-kbookmarks.md" >}}) | 0 | 230 | 0.0 | Kazakh <kde-i18n-doc@kde.org> | 
- | [kf5-kcodecs]({{< ref "/f38/package/kf5-kcodecs.md" >}}) | 0 | 370 | 0.0 | Kazakh <kde-i18n-doc@kde.org> | 
- | [kf5-kcompletion]({{< ref "/f38/package/kf5-kcompletion.md" >}}) | 0 | 18 | 0.0 | Kazakh <kde-i18n-doc@kde.org> | 
- | [kf5-kconfig]({{< ref "/f38/package/kf5-kconfig.md" >}}) | 0 | 289 | 0.0 | Kazakh | 
- | [kf5-kcoreaddons]({{< ref "/f38/package/kf5-kcoreaddons.md" >}}) | 0 | 382 | 0.0 | Kazakh <kde-i18n-doc@kde.org> | 
- | [kf5-kdesignerplugin]({{< ref "/f38/package/kf5-kdesignerplugin.md" >}}) | 0 | 54 | 0.0 | Kazakh <kde-i18n-doc@kde.org> | 
- | [kf5-kdnssd]({{< ref "/f38/package/kf5-kdnssd.md" >}}) | 0 | 3 | 0.0 | Kazakh <kde-i18n-doc@kde.org> | 
- | [kf5-kglobalaccel]({{< ref "/f38/package/kf5-kglobalaccel.md" >}}) | 0 | 71 | 0.0 | Kazakh <kde-i18n-doc@kde.org> | 
- | [kf5-kholidays]({{< ref "/f38/package/kf5-kholidays.md" >}}) | 0 | 150 | 0.0 | Kazakh <kde-i18n-doc@kde.org> | 
- | [kf5-kitemviews]({{< ref "/f38/package/kf5-kitemviews.md" >}}) | 0 | 7 | 0.0 | Kazakh <kde-i18n-doc@kde.org> | 
- | [kf5-kjobwidgets]({{< ref "/f38/package/kf5-kjobwidgets.md" >}}) | 0 | 133 | 0.0 | Kazakh <kde-i18n-doc@kde.org> | 
- | [kf5-knotifications]({{< ref "/f38/package/kf5-knotifications.md" >}}) | 0 | 21 | 0.0 | Kazakh <kde-i18n-doc@kde.org> | 
- | [kf5-kwidgetsaddons]({{< ref "/f38/package/kf5-kwidgetsaddons.md" >}}) | 0 | 1293 | 0.0 | Kazakh <kde-i18n-doc@kde.org> | 
- | [kf5-kwindowsystem]({{< ref "/f38/package/kf5-kwindowsystem.md" >}}) | 0 | 2 | 0.0 | Kazakh <kde-i18n-doc@kde.org> | 
- | [kf5-solid]({{< ref "/f38/package/kf5-solid.md" >}}) | 0 | 588 | 0.0 | Kazakh <kde-i18n-doc@kde.org> | 
- | [kf5-sonnet]({{< ref "/f38/package/kf5-sonnet.md" >}}) | 0 | 683 | 0.0 | Kazakh <kde-i18n-doc@kde.org> | 
- | [kf5-syntax-highlighting]({{< ref "/f38/package/kf5-syntax-highlighting.md" >}}) | 0 | 647 | 0.0 | Kazakh <kde-i18n-doc@kde.org> | 
- | [kreport]({{< ref "/f38/package/kreport.md" >}}) | 0 | 455 | 0.0 | Kazakh <kde-i18n-doc@kde.org> | 
- | [libkgapi]({{< ref "/f38/package/libkgapi.md" >}}) | 0 | 378 | 0.0 | Kazakh <kde-i18n-doc@kde.org> | 
- | [libvirt-sandbox]({{< ref "/f38/package/libvirt-sandbox.md" >}}) | 0 | 617 | 0.0 | Kazakh (http://www.transifex.com/projects/p/fedora/language/kk/) | 
- | [lxde-common]({{< ref "/f38/package/lxde-common.md" >}}) | 0 | 14 | 0.0 | LANGUAGE <LL@li.org> | 
- | [nutty]({{< ref "/f38/package/nutty.md" >}}) | 0 | 608 | 0.0 |  | 
- | [optimizer]({{< ref "/f38/package/optimizer.md" >}}) | 0 | 282 | 0.0 | none | 
- | [phonon-backend-gstreamer]({{< ref "/f38/package/phonon-backend-gstreamer.md" >}}) | 0 | 104 | 0.0 | Kazakh <kde-i18n-doc@kde.org> | 
- | [pyhoca-gui]({{< ref "/f38/package/pyhoca-gui.md" >}}) | 0 | 1865 | 0.0 | none | 
- | [python-django-mailman3]({{< ref "/f38/package/python-django-mailman3.md" >}}) | 0 | 355 | 0.0 | LANGUAGE <LL@li.org> | 
- | [python-fedora]({{< ref "/f38/package/python-fedora.md" >}}) | 0 | 214 | 0.0 | Kazakh | 
- | [python-hyperkitty]({{< ref "/f38/package/python-hyperkitty.md" >}}) | 0 | 951 | 0.0 | LANGUAGE <LL@li.org> | 
- | [python-meh]({{< ref "/f38/package/python-meh.md" >}}) | 0 | 109 | 0.0 | Kazakh | 
- | [python-postorius]({{< ref "/f38/package/python-postorius.md" >}}) | 0 | 5054 | 0.0 | LANGUAGE <LL@li.org> | 
- | [realmd]({{< ref "/f38/package/realmd.md" >}}) | 0 | 833 | 0.0 | Kazakh (http://www.transifex.com/freedesktop/realmd/language/kk/) | 
- | [regextester]({{< ref "/f38/package/regextester.md" >}}) | 0 | 104 | 0.0 | none | 
- | [retrace-server]({{< ref "/f38/package/retrace-server.md" >}}) | 0 | 433 | 0.0 | none | 
- | [sugar-terminal]({{< ref "/f38/package/sugar-terminal.md" >}}) | 0 | 121 | 0.0 | LANGUAGE <LL@li.org> | 
- | [wingpanel]({{< ref "/f38/package/wingpanel.md" >}}) | 0 | 16 | 0.0 | none | 
- | [xfdashboard]({{< ref "/f38/package/xfdashboard.md" >}}) | 0 | 6878 | 0.0 | Kazakh (http://www.transifex.com/xfdashboard/xfdashboard/language/kk/) | 
- | [zabbix]({{< ref "/f38/package/zabbix.md" >}}) | 0 | 19380 | 0.0 | none | 
+ | [PackageKit](/f38/package/PackageKit) | 326 | 326 | 100.0 | Kazakh (http://www.transifex.com/freedesktop/packagekit/language/kk/) | 
+ | [Thunar](/f38/package/Thunar) | 5420 | 5420 | 100.0 | Kazakh (https://www.transifex.com/xfce/teams/16840/kk/) | 
+ | [abattis-cantarell-fonts](/f38/package/abattis-cantarell-fonts) | 27 | 27 | 100.0 | Kazakh <kk_KZ@googlegroups.com> | 
+ | [accountsservice](/f38/package/accountsservice) | 59 | 59 | 100.0 | Kazakh (http://www.transifex.com/freedesktop/accountsservice/language/kk/) | 
+ | [alacarte](/f38/package/alacarte) | 42 | 42 | 100.0 | Kazakh <> | 
+ | [baobab](/f38/package/baobab) | 297 | 297 | 100.0 | Kazakh <kk@li.org> | 
+ | [bijiben](/f38/package/bijiben) | 422 | 422 | 100.0 | Kazakh <kk_KZ@googlegroups.com> | 
+ | [caribou](/f38/package/caribou) | 169 | 169 | 100.0 | Kazakh <kk_KZ@googlegroups.com> | 
+ | [cheese](/f38/package/cheese) | 628 | 628 | 100.0 | Kazakh <kk_KZ@googlegroups.com> | 
+ | [console-setup](/f38/package/console-setup) | 984 | 984 | 100.0 | Kazakh | 
+ | [cracklib](/f38/package/cracklib) | 90 | 90 | 100.0 | Kazakh <https://translate.fedoraproject.org/projects/cracklib/master/kk/> | 
+ | [cups-pk-helper](/f38/package/cups-pk-helper) | 149 | 149 | 100.0 | Kazakh (http://www.transifex.com/freedesktop/cups-pk-helper/language/kk/) | 
+ | [debconf](/f38/package/debconf) | 191 | 191 | 100.0 | Kazakh <kk_KZ@googlegroups.com> | 
+ | [devhelp](/f38/package/devhelp) | 413 | 413 | 100.0 | Kazakh <kk_KZ@googlegroups.com> | 
+ | [eog](/f38/package/eog) | 1648 | 1648 | 100.0 | Kazakh <kk_KZ@googlegroups.com> | 
+ | [evince](/f38/package/evince) | 1768 | 1768 | 100.0 | Kazakh <kk_KZ@googlegroups.com> | 
+ | [exo](/f38/package/exo) | 738 | 738 | 100.0 | Kazakh (http://www.transifex.com/xfce/exo/language/kk/) | 
+ | [file-roller](/f38/package/file-roller) | 1307 | 1307 | 100.0 | Kazakh <kk_KZ@googlegroups.com> | 
+ | [five-or-more](/f38/package/five-or-more) | 236 | 236 | 100.0 | Kazakh <kk_KZ@googlegroups.com> | 
+ | [four-in-a-row](/f38/package/four-in-a-row) | 480 | 480 | 100.0 | Kazakh <kk_KZ@googlegroups.com> | 
+ | [fwupd](/f38/package/fwupd) | 8 | 8 | 100.0 | Kazakh (http://www.transifex.com/freedesktop/fwupd/language/kk/) | 
+ | [garcon](/f38/package/garcon) | 125 | 125 | 100.0 | Kazakh (https://www.transifex.com/xfce/teams/16840/kk/) | 
+ | [gdm](/f38/package/gdm) | 705 | 705 | 100.0 | Kazakh <kk_KZ@googlegroups.com> | 
+ | [glib-networking](/f38/package/glib-networking) | 434 | 434 | 100.0 | Kazakh <kk_KZ@googlegroups.com> | 
+ | [gnome-bluetooth](/f38/package/gnome-bluetooth) | 318 | 318 | 100.0 | Kazakh <kk_KZ@googlegroups.com> | 
+ | [gnome-bluetooth3.34](/f38/package/gnome-bluetooth3.34) | 373 | 373 | 100.0 | Kazakh <kk_KZ@googlegroups.com> | 
+ | [gnome-boxes](/f38/package/gnome-boxes) | 1290 | 1290 | 100.0 | Kazakh <kk@li.org> | 
+ | [gnome-calculator](/f38/package/gnome-calculator) | 1740 | 1740 | 100.0 | Kazakh <kk_KZ@googlegroups.com> | 
+ | [gnome-calendar](/f38/package/gnome-calendar) | 887 | 887 | 100.0 | Kazakh <kk_KZ@googlegroups.com> | 
+ | [gnome-characters](/f38/package/gnome-characters) | 152 | 152 | 100.0 | Kazakh <kk_KZ@googlegroups.com> | 
+ | [gnome-chess](/f38/package/gnome-chess) | 1485 | 1485 | 100.0 | Kazakh <kk_KZ@googlegroups.com> | 
+ | [gnome-clocks](/f38/package/gnome-clocks) | 359 | 359 | 100.0 | Kazakh <kk@li.org> | 
+ | [gnome-connections](/f38/package/gnome-connections) | 370 | 370 | 100.0 | Kazakh <kk_KZ@googlegroups.com> | 
+ | [gnome-console](/f38/package/gnome-console) | 229 | 229 | 100.0 | Kazakh <kk_KZ@googlegroups.com> | 
+ | [gnome-contacts](/f38/package/gnome-contacts) | 710 | 710 | 100.0 | Kazakh <kk@li.org> | 
+ | [gnome-desktop3](/f38/package/gnome-desktop3) | 193 | 193 | 100.0 | Kazakh <kk_KZ@googlegroups.com> | 
+ | [gnome-dictionary](/f38/package/gnome-dictionary) | 717 | 717 | 100.0 | Kazakh <kk_KZ@googlegroups.com> | 
+ | [gnome-extensions-app](/f38/package/gnome-extensions-app) | 2681 | 2681 | 100.0 | Kazakh <kk_KZ@googlegroups.com> | 
+ | [gnome-font-viewer](/f38/package/gnome-font-viewer) | 534 | 534 | 100.0 | Kazakh <kk@li.org> | 
+ | [gnome-icon-theme](/f38/package/gnome-icon-theme) | 20 | 20 | 100.0 | Kazakh <moldabekov@gmail.com> | 
+ | [gnome-initial-setup](/f38/package/gnome-initial-setup) | 876 | 876 | 100.0 | Kazakh <kk@li.org> | 
+ | [gnome-keyring](/f38/package/gnome-keyring) | 469 | 469 | 100.0 | Kazakh <kk@li.org> | 
+ | [gnome-klotski](/f38/package/gnome-klotski) | 275 | 275 | 100.0 | Kazakh <kk_KZ@googlegroups.com> | 
+ | [gnome-logs](/f38/package/gnome-logs) | 389 | 389 | 100.0 | Kazakh <kk@li.org> | 
+ | [gnome-mahjongg](/f38/package/gnome-mahjongg) | 329 | 329 | 100.0 | Kazakh <kk_KZ@googlegroups.com> | 
+ | [gnome-maps](/f38/package/gnome-maps) | 1316 | 1316 | 100.0 | Kazakh <kk@li.org> | 
+ | [gnome-menus](/f38/package/gnome-menus) | 80 | 80 | 100.0 | Kazakh <kk_KZ@googlegroups.com> | 
+ | [gnome-mines](/f38/package/gnome-mines) | 364 | 364 | 100.0 | Kazakh <kk_KZ@googlegroups.com> | 
+ | [gnome-music](/f38/package/gnome-music) | 419 | 419 | 100.0 | Kazakh <kk_KZ@googlegroups.com> | 
+ | [gnome-nibbles](/f38/package/gnome-nibbles) | 588 | 588 | 100.0 | Kazakh <kk_KZ@googlegroups.com> | 
+ | [gnome-online-accounts](/f38/package/gnome-online-accounts) | 664 | 664 | 100.0 | Kazakh <kk_KZ@googlegroups.com> | 
+ | [gnome-photos](/f38/package/gnome-photos) | 572 | 572 | 100.0 | Kazakh <kk@li.org> | 
+ | [gnome-pomodoro](/f38/package/gnome-pomodoro) | 358 | 358 | 100.0 | Kazakh <kk_KZ@googlegroups.com> | 
+ | [gnome-remote-desktop](/f38/package/gnome-remote-desktop) | 164 | 164 | 100.0 | Kazakh <kk_KZ@googlegroups.com> | 
+ | [gnome-robots](/f38/package/gnome-robots) | 596 | 596 | 100.0 | Kazakh <kk_KZ@googlegroups.com> | 
+ | [gnome-screenshot](/f38/package/gnome-screenshot) | 417 | 417 | 100.0 | Kazakh <kk@li.org> | 
+ | [gnome-session](/f38/package/gnome-session) | 435 | 435 | 100.0 | Kazakh <kk_KZ@googlegroups.com> | 
+ | [gnome-shell](/f38/package/gnome-shell) | 2681 | 2681 | 100.0 | Kazakh <kk_KZ@googlegroups.com> | 
+ | [gnome-shell-extensions](/f38/package/gnome-shell-extensions) | 270 | 270 | 100.0 | Kazakh <kk@li.org> | 
+ | [gnome-shell-frippery](/f38/package/gnome-shell-frippery) | 4 | 4 | 100.0 |  | 
+ | [gnome-sound-recorder](/f38/package/gnome-sound-recorder) | 240 | 240 | 100.0 | Kazakh <kk_KZ@googlegroups.com> | 
+ | [gnome-sudoku](/f38/package/gnome-sudoku) | 418 | 418 | 100.0 | Kazakh <kk_KZ@googlegroups.com> | 
+ | [gnome-system-monitor](/f38/package/gnome-system-monitor) | 1566 | 1566 | 100.0 | Kazakh <kk_KZ@googlegroups.com> | 
+ | [gnome-taquin](/f38/package/gnome-taquin) | 431 | 431 | 100.0 | Kazakh <kk_KZ@googlegroups.com> | 
+ | [gnome-terminal](/f38/package/gnome-terminal) | 2630 | 2630 | 100.0 | Kazakh <kk_KZ@googlegroups.com> | 
+ | [gnome-text-editor](/f38/package/gnome-text-editor) | 1049 | 1049 | 100.0 | Kazakh <kk_KZ@googlegroups.com> | 
+ | [gnome-themes-extra](/f38/package/gnome-themes-extra) | 15 | 15 | 100.0 | Kazakh <kk@li.org> | 
+ | [gnome-todo](/f38/package/gnome-todo) | 737 | 737 | 100.0 | Kazakh <kk_KZ@googlegroups.com> | 
+ | [gnome-tour](/f38/package/gnome-tour) | 113 | 113 | 100.0 | Kazakh <kk_KZ@googlegroups.com> | 
+ | [gnome-tweaks](/f38/package/gnome-tweaks) | 521 | 521 | 100.0 | Kazakh <kk@li.org> | 
+ | [gnome-user-share](/f38/package/gnome-user-share) | 49 | 49 | 100.0 | Kazakh <kk@li.org> | 
+ | [gnome-weather](/f38/package/gnome-weather) | 216 | 216 | 100.0 | Kazakh <kk@li.org> | 
+ | [gparted](/f38/package/gparted) | 3053 | 3053 | 100.0 | Kazakh <kk_KZ@googlegroups.com> | 
+ | [gpicview](/f38/package/gpicview) | 236 | 236 | 100.0 | Kazakh <kk_KZ@googlegroups.com> | 
+ | [gspell](/f38/package/gspell) | 76 | 76 | 100.0 | Kazakh <kk_KZ@googlegroups.com> | 
+ | [gtk4](/f38/package/gtk4) | 4124 | 4124 | 100.0 | Kazakh <kk_KZ@googlegroups.com> | 
+ | [gtksourceview5](/f38/package/gtksourceview5) | 371 | 371 | 100.0 | Kazakh <kk_KZ@googlegroups.com> | 
+ | [hitori](/f38/package/hitori) | 239 | 239 | 100.0 | Kazakh <kk_KZ@googlegroups.com> | 
+ | [iagno](/f38/package/iagno) | 801 | 801 | 100.0 | Kazakh <kk_KZ@googlegroups.com> | 
+ | [initial-setup](/f38/package/initial-setup) | 106 | 106 | 100.0 | Kazakh <https://translate.fedoraproject.org/projects/initial-setup/master/kk/> | 
+ | [kdesdk-thumbnailers](/f38/package/kdesdk-thumbnailers) | 4 | 4 | 100.0 | Kazakh <kde-i18n-doc@kde.org> | 
+ | [kdiamond](/f38/package/kdiamond) | 122 | 122 | 100.0 | Kazakh <kde-i18n-doc@kde.org> | 
+ | [kf5-akonadi-notes](/f38/package/kf5-akonadi-notes) | 2 | 2 | 100.0 | Kazakh <kde-i18n-doc@kde.org> | 
+ | [kf5-kblog](/f38/package/kf5-kblog) | 243 | 243 | 100.0 | Kazakh <kde-i18n-doc@kde.org> | 
+ | [kf5-kdoctools](/f38/package/kf5-kdoctools) | 8 | 8 | 100.0 | Kazakh | 
+ | [kf5-kjsembed](/f38/package/kf5-kjsembed) | 248 | 248 | 100.0 | Kazakh <kde-i18n-doc@kde.org> | 
+ | [kf5-kmime](/f38/package/kf5-kmime) | 159 | 159 | 100.0 | Kazakh <kde-i18n-doc@kde.org> | 
+ | [kf5-kontactinterface](/f38/package/kf5-kontactinterface) | 4 | 4 | 100.0 | Kazakh <kde-i18n-doc@kde.org> | 
+ | [kf5-kpty](/f38/package/kf5-kpty) | 15 | 15 | 100.0 | Kazakh <kde-i18n-doc@kde.org> | 
+ | [kf5-kxmlrpcclient](/f38/package/kf5-kxmlrpcclient) | 13 | 13 | 100.0 | Kazakh <kde-i18n-doc@kde.org> | 
+ | [kf5-libkcompactdisc](/f38/package/kf5-libkcompactdisc) | 15 | 15 | 100.0 | Kazakh <kde-i18n-doc@kde.org> | 
+ | [kf5-libkdepim](/f38/package/kf5-libkdepim) | 35 | 35 | 100.0 | Kazakh <kde-i18n-doc@kde.org> | 
+ | [kgamma](/f38/package/kgamma) | 130 | 130 | 100.0 | Kazakh | 
+ | [kwebkitpart](/f38/package/kwebkitpart) | 669 | 669 | 100.0 | Kazakh <kde-i18n-doc@kde.org> | 
+ | [libadwaita](/f38/package/libadwaita) | 42 | 42 | 100.0 | Kazakh <kk_KZ@googlegroups.com> | 
+ | [libbytesize](/f38/package/libbytesize) | 17 | 17 | 100.0 | Kazakh <https://translate.fedoraproject.org/projects/blivet/libbytesize/kk/> | 
+ | [libfm](/f38/package/libfm) | 1575 | 1575 | 100.0 | Kazakh <kk_KZ@googlegroups.com> | 
+ | [libgnome-games-support](/f38/package/libgnome-games-support) | 43 | 43 | 100.0 | Kazakh <kk_KZ@googlegroups.com> | 
+ | [libgnomekbd](/f38/package/libgnomekbd) | 187 | 187 | 100.0 | Kazakh <kk_KZ@googlegroups.com> | 
+ | [libkdegames](/f38/package/libkdegames) | 370 | 370 | 100.0 | Kazakh <kde-i18n-doc@kde.org> | 
+ | [libkmahjongg](/f38/package/libkmahjongg) | 7 | 7 | 100.0 | Kazakh <kde-i18n-doc@kde.org> | 
+ | [libpeas](/f38/package/libpeas) | 103 | 103 | 100.0 | Kazakh <kk@li.org> | 
+ | [libsecret](/f38/package/libsecret) | 64 | 64 | 100.0 | Kazakh <kk@li.org> | 
+ | [libshumate](/f38/package/libshumate) | 8 | 8 | 100.0 | Kazakh <kk_KZ@googlegroups.com> | 
+ | [libxfce4ui](/f38/package/libxfce4ui) | 1018 | 1018 | 100.0 | Kazakh (https://app.transifex.com/xfce/teams/16840/kk/) | 
+ | [libxfce4util](/f38/package/libxfce4util) | 424 | 424 | 100.0 | Kazakh (http://www.transifex.com/xfce/libxfce4util/language/kk/) | 
+ | [lightdm](/f38/package/lightdm) | 163 | 163 | 100.0 | Kazakh <kk@li.org> | 
+ | [lightsoff](/f38/package/lightsoff) | 143 | 143 | 100.0 | Kazakh <kk_KZ@googlegroups.com> | 
+ | [lskat](/f38/package/lskat) | 254 | 254 | 100.0 | Kazakh <kde-i18n-doc@kde.org> | 
+ | [lxappearance-obconf](/f38/package/lxappearance-obconf) | 196 | 196 | 100.0 | Kazakh <kk_KZ@googlegroups.com> | 
+ | [lxdm](/f38/package/lxdm) | 48 | 48 | 100.0 | Kazakh <kk_KZ@googlegroups.com> | 
+ | [lxmenu-data](/f38/package/lxmenu-data) | 97 | 97 | 100.0 | Kazakh <kk_KZ@googlegroups.com> | 
+ | [lxmusic](/f38/package/lxmusic) | 203 | 203 | 100.0 | Kazakh <kk_KZ@googlegroups.com> | 
+ | [lxrandr](/f38/package/lxrandr) | 167 | 167 | 100.0 | Kazakh <kk_KZ@googlegroups.com> | 
+ | [lxtask](/f38/package/lxtask) | 130 | 130 | 100.0 | Kazakh <kk_KZ@googlegroups.com> | 
+ | [mate-icon-theme](/f38/package/mate-icon-theme) | 4 | 4 | 100.0 | Kazakh (https://www.transifex.com/mate/teams/13566/kk/) | 
+ | [mate-menus](/f38/package/mate-menus) | 103 | 103 | 100.0 | Kazakh (https://app.transifex.com/mate/teams/13566/kk/) | 
+ | [mate-polkit](/f38/package/mate-polkit) | 123 | 123 | 100.0 | Kazakh (https://www.transifex.com/mate/teams/13566/kk/) | 
+ | [mingw-glib-networking](/f38/package/mingw-glib-networking) | 447 | 447 | 100.0 | Kazakh <kk_KZ@googlegroups.com> | 
+ | [mingw-gtk4](/f38/package/mingw-gtk4) | 4124 | 4124 | 100.0 | Kazakh <kk_KZ@googlegroups.com> | 
+ | [mousetweaks](/f38/package/mousetweaks) | 114 | 114 | 100.0 | Kazakh <kk_KZ@googlegroups.com> | 
+ | [nautilus](/f38/package/nautilus) | 5405 | 5405 | 100.0 | Kazakh <kk_KZ@googlegroups.com> | 
+ | [pcmanfm](/f38/package/pcmanfm) | 1215 | 1215 | 100.0 | Kazakh <kk_KZ@googlegroups.com> | 
+ | [python-SecretStorage](/f38/package/python-SecretStorage) | 59 | 59 | 100.0 | Kazakh <kk@li.org> | 
+ | [python-blivet](/f38/package/python-blivet) | 605 | 605 | 100.0 | Kazakh <https://translate.fedoraproject.org/projects/blivet/blivet-master/kk/> | 
+ | [python-caja](/f38/package/python-caja) | 6 | 6 | 100.0 | Kazakh (https://www.transifex.com/mate/teams/13566/kk/) | 
+ | [quadrapassel](/f38/package/quadrapassel) | 460 | 460 | 100.0 | Kazakh <kk_KZ@googlegroups.com> | 
+ | [sushi](/f38/package/sushi) | 54 | 54 | 100.0 | Kazakh <kk@li.org> | 
+ | [svgpart](/f38/package/svgpart) | 3 | 3 | 100.0 | Kazakh <kde-i18n-doc@kde.org> | 
+ | [swell-foop](/f38/package/swell-foop) | 340 | 340 | 100.0 | Kazakh <kk_KZ@googlegroups.com> | 
+ | [thunar-archive-plugin](/f38/package/thunar-archive-plugin) | 88 | 88 | 100.0 | Kazakh (http://www.transifex.com/xfce/thunar-plugins/language/kk/) | 
+ | [thunar-media-tags-plugin](/f38/package/thunar-media-tags-plugin) | 158 | 158 | 100.0 | Kazakh (http://www.transifex.com/xfce/thunar-plugins/language/kk/) | 
+ | [thunar-volman](/f38/package/thunar-volman) | 484 | 484 | 100.0 | Kazakh (http://www.transifex.com/xfce/thunar-volman/language/kk/) | 
+ | [totem](/f38/package/totem) | 1384 | 1384 | 100.0 | Kazakh <kk_KZ@googlegroups.com> | 
+ | [totem-pl-parser](/f38/package/totem-pl-parser) | 29 | 29 | 100.0 | Kazakh <kk@li.org> | 
+ | [tumbler](/f38/package/tumbler) | 148 | 148 | 100.0 | Kazakh (http://www.transifex.com/xfce/tumbler/language/kk/) | 
+ | [wireplumber](/f38/package/wireplumber) | 3 | 3 | 100.0 |  | 
+ | [xdg-desktop-portal-gnome](/f38/package/xdg-desktop-portal-gnome) | 230 | 230 | 100.0 | Kazakh <kk_KZ@googlegroups.com> | 
+ | [xdg-user-dirs](/f38/package/xdg-user-dirs) | 28 | 28 | 100.0 | Kazakh <kk_KZ@googlegroups.com> | 
+ | [xdg-user-dirs-gtk](/f38/package/xdg-user-dirs-gtk) | 81 | 81 | 100.0 | Kazakh <kk_KZ@googlegroups.com> | 
+ | [xfce4-appfinder](/f38/package/xfce4-appfinder) | 455 | 455 | 100.0 | Kazakh (http://www.transifex.com/xfce/xfce4-appfinder/language/kk/) | 
+ | [xfce4-battery-plugin](/f38/package/xfce4-battery-plugin) | 145 | 145 | 100.0 | Kazakh (http://app.transifex.com/xfce/xfce-panel-plugins/language/kk/) | 
+ | [xfce4-datetime-plugin](/f38/package/xfce4-datetime-plugin) | 52 | 52 | 100.0 | Kazakh (http://www.transifex.com/xfce/xfce-panel-plugins/language/kk/) | 
+ | [xfce4-dict](/f38/package/xfce4-dict) | 531 | 531 | 100.0 | Kazakh (http://app.transifex.com/xfce/xfce-apps/language/kk/) | 
+ | [xfce4-eyes-plugin](/f38/package/xfce4-eyes-plugin) | 16 | 16 | 100.0 | Kazakh (http://www.transifex.com/xfce/xfce-panel-plugins/language/kk/) | 
+ | [xfce4-fsguard-plugin](/f38/package/xfce4-fsguard-plugin) | 71 | 71 | 100.0 | Kazakh (http://www.transifex.com/xfce/xfce-panel-plugins/language/kk/) | 
+ | [xfce4-panel](/f38/package/xfce4-panel) | 1954 | 1954 | 100.0 | Kazakh (https://app.transifex.com/xfce/teams/16840/kk/) | 
+ | [xfce4-places-plugin](/f38/package/xfce4-places-plugin) | 162 | 162 | 100.0 | Kazakh (http://www.transifex.com/xfce/xfce-panel-plugins/language/kk/) | 
+ | [xfce4-settings](/f38/package/xfce4-settings) | 2476 | 2476 | 100.0 | Kazakh (https://app.transifex.com/xfce/teams/16840/kk/) | 
+ | [xfce4-time-out-plugin](/f38/package/xfce4-time-out-plugin) | 115 | 115 | 100.0 | Kazakh (http://www.transifex.com/xfce/xfce-panel-plugins/language/kk/) | 
+ | [xfce4-xkb-plugin](/f38/package/xfce4-xkb-plugin) | 57 | 57 | 100.0 | Kazakh (http://www.transifex.com/xfce/xfce-panel-plugins/language/kk/) | 
+ | [xfconf](/f38/package/xfconf) | 458 | 458 | 100.0 | Kazakh (http://app.transifex.com/xfce/xfconf/language/kk/) | 
+ | [xfdesktop](/f38/package/xfdesktop) | 1081 | 1081 | 100.0 | Kazakh (https://www.transifex.com/xfce/teams/16840/kk/) | 
+ | [xfwm4](/f38/package/xfwm4) | 670 | 670 | 100.0 | Kazakh (http://www.transifex.com/xfce/xfwm4/language/kk/) | 
+ | [yelp](/f38/package/yelp) | 348 | 348 | 100.0 | Kazakh <kk_KZ@googlegroups.com> | 
+ | [poedit](/f38/package/poedit) | 3167 | 3168 | 100.0 | Kazakh | 
+ | [gajim](/f38/package/gajim) | 6336 | 6349 | 99.8 | Kazakh <https://translate.gajim.org/projects/gajim/master/kk/> | 
+ | [xfce4-power-manager](/f38/package/xfce4-power-manager) | 1044 | 1047 | 99.7 | Kazakh (https://app.transifex.com/xfce/teams/16840/kk/) | 
+ | [kbruch](/f38/package/kbruch) | 1342 | 1347 | 99.6 | Kazakh <kde-i18n-doc@kde.org> | 
+ | [kf5-ktnef](/f38/package/kf5-ktnef) | 353 | 355 | 99.4 | Kazakh <kde-i18n-doc@kde.org> | 
+ | [kcron](/f38/package/kcron) | 499 | 502 | 99.4 | Kazakh <kde-i18n-doc@kde.org> | 
+ | [iso-codes](/f38/package/iso-codes) | 1085 | 1093 | 99.3 | Kazakh <kk_KZ@googlegroups.com> | 
+ | [kopete](/f38/package/kopete) | 17048 | 17175 | 99.3 | Kazakh | 
+ | [kf5-kcontacts](/f38/package/kf5-kcontacts) | 175 | 177 | 98.9 | Kazakh <kde-i18n-doc@kde.org> | 
+ | [ksquares](/f38/package/ksquares) | 257 | 260 | 98.8 | Kazakh <kde-i18n-doc@kde.org> | 
+ | [kmag](/f38/package/kmag) | 427 | 432 | 98.8 | Kazakh <kde-i18n-doc@kde.org> | 
+ | [sweeper](/f38/package/sweeper) | 225 | 228 | 98.7 | Kazakh <kde-i18n-doc@kde.org> | 
+ | [ktp-filetransfer-handler](/f38/package/ktp-filetransfer-handler) | 139 | 141 | 98.6 | Kazakh <kde-i18n-doc@kde.org> | 
+ | [ksirk](/f38/package/ksirk) | 5671 | 5756 | 98.5 | Kazakh <kde-i18n-doc@kde.org> | 
+ | [kf5-libkcddb](/f38/package/kf5-libkcddb) | 394 | 400 | 98.5 | Kazakh <kde-i18n-doc@kde.org> | 
+ | [kde-l10n](/f38/package/kde-l10n) | 102673 | 104357 | 98.4 | Kazakh <kde-i18n-doc@kde.org> | 
+ | [katomic](/f38/package/katomic) | 181 | 184 | 98.4 | Kazakh <kde-i18n-doc@kde.org> | 
+ | [ristretto](/f38/package/ristretto) | 662 | 674 | 98.2 | Kazakh (http://app.transifex.com/xfce/xfce-apps/language/kk/) | 
+ | [kfourinline](/f38/package/kfourinline) | 385 | 392 | 98.2 | Kazakh <kde-i18n-doc@kde.org> | 
+ | [kspaceduel](/f38/package/kspaceduel) | 162 | 165 | 98.2 | Kazakh <kde-i18n-doc@kde.org> | 
+ | [mousepad](/f38/package/mousepad) | 1669 | 1700 | 98.2 | Kazakh (http://app.transifex.com/xfce/xfce-apps/language/kk/) | 
+ | [kubrick](/f38/package/kubrick) | 1183 | 1205 | 98.2 | Kazakh <kde-i18n-doc@kde.org> | 
+ | [pam](/f38/package/pam) | 525 | 535 | 98.1 | Kazakh <https://translate.fedoraproject.org/projects/linux-pam/master/kk/> | 
+ | [stardict](/f38/package/stardict) | 2974 | 3035 | 98.0 | Kazakh <kk_KZ@googlegroups.com> | 
+ | [slick-greeter](/f38/package/slick-greeter) | 211 | 216 | 97.7 | Kazakh <kk@li.org> | 
+ | [cervisia](/f38/package/cervisia) | 1575 | 1615 | 97.5 | Kazakh <kde-i18n-doc@kde.org> | 
+ | [krecipes](/f38/package/krecipes) | 3555 | 3646 | 97.5 | Kazakh <kde-i18n-doc@kde.org> | 
+ | [xfce4-taskmanager](/f38/package/xfce4-taskmanager) | 223 | 229 | 97.4 | Kazakh (http://app.transifex.com/xfce/xfce-apps/language/kk/) | 
+ | [kjumpingcube](/f38/package/kjumpingcube) | 402 | 413 | 97.3 | Kazakh <kde-i18n-doc@kde.org> | 
+ | [shared-mime-info](/f38/package/shared-mime-info) | 2004 | 2060 | 97.3 | Kazakh (http://www.transifex.com/freedesktop/shared-mime-info/language/kk/) | 
+ | [kblackbox](/f38/package/kblackbox) | 1328 | 1367 | 97.1 | Kazakh <kde-i18n-doc@kde.org> | 
+ | [anaconda](/f38/package/anaconda) | 8473 | 8739 | 97.0 | Kazakh <https://translate.fedoraproject.org/projects/anaconda/master/kk/> | 
+ | [gnome-control-center](/f38/package/gnome-control-center) | 7152 | 7397 | 96.7 | Kazakh <kk_KZ@googlegroups.com> | 
+ | [kf5-ktextwidgets](/f38/package/kf5-ktextwidgets) | 456 | 473 | 96.4 | Kazakh <kde-i18n-doc@kde.org> | 
+ | [kf5-eventviews](/f38/package/kf5-eventviews) | 2842 | 2949 | 96.4 | Kazakh <kde-i18n-doc@kde.org> | 
+ | [kigo](/f38/package/kigo) | 485 | 504 | 96.2 | Kazakh <kde-i18n-doc@kde.org> | 
+ | [xfce4-notes-plugin](/f38/package/xfce4-notes-plugin) | 166 | 173 | 96.0 | Kazakh (http://app.transifex.com/xfce/xfce-panel-plugins/language/kk/) | 
+ | [kiriki](/f38/package/kiriki) | 138 | 144 | 95.8 | Kazakh <kde-i18n-doc@kde.org> | 
+ | [kig](/f38/package/kig) | 7501 | 7857 | 95.5 | Kazakh <kde-i18n-doc@kde.org> | 
+ | [lxpanel](/f38/package/lxpanel) | 1335 | 1399 | 95.4 | Kazakh <kk_KZ@googlegroups.com> | 
+ | [kmouth](/f38/package/kmouth) | 1427 | 1496 | 95.4 | Kazakh <kde-i18n-doc@kde.org> | 
+ | [blogilo](/f38/package/blogilo) | 1327 | 1392 | 95.3 | Kazakh <kde-i18n-doc@kde.org> | 
+ | [kfloppy](/f38/package/kfloppy) | 611 | 641 | 95.3 | Kazakh <kde-i18n-doc@kde.org> | 
+ | [okteta](/f38/package/okteta) | 2419 | 2538 | 95.3 | Kazakh <kde-i18n-doc@kde.org> | 
+ | [kf5-libktorrent](/f38/package/kf5-libktorrent) | 443 | 465 | 95.3 | Kazakh <kde-i18n-doc@kde.org> | 
+ | [klettres](/f38/package/klettres) | 419 | 440 | 95.2 | Kazakh <kde-i18n-doc@kde.org> | 
+ | [bovo](/f38/package/bovo) | 77 | 81 | 95.1 | Kazakh <kde-i18n-doc@kde.org> | 
+ | [ktp-accounts-kcm](/f38/package/ktp-accounts-kcm) | 989 | 1043 | 94.8 | Kazakh <kde-i18n-doc@kde.org> | 
+ | [kget](/f38/package/kget) | 2624 | 2776 | 94.5 | Kazakh <kde-i18n-doc@kde.org> | 
+ | [kblocks](/f38/package/kblocks) | 149 | 158 | 94.3 | Kazakh <kde-i18n-doc@kde.org> | 
+ | [ktuberling](/f38/package/ktuberling) | 149 | 158 | 94.3 | Kazakh <kde-i18n-doc@kde.org> | 
+ | [xfce4-terminal](/f38/package/xfce4-terminal) | 1513 | 1609 | 94.0 | Kazakh (http://app.transifex.com/xfce/xfce-apps/language/kk/) | 
+ | [blinken](/f38/package/blinken) | 126 | 134 | 94.0 | Kazakh <kde-i18n-doc@kde.org> | 
+ | [lightdm-gtk-greeter-settings](/f38/package/lightdm-gtk-greeter-settings) | 488 | 519 | 94.0 | Kazakh <kk@li.org> | 
+ | [xfce4-session](/f38/package/xfce4-session) | 734 | 782 | 93.9 | Kazakh (https://app.transifex.com/xfce/teams/16840/kk/) | 
+ | [kturtle](/f38/package/kturtle) | 1439 | 1538 | 93.6 | Kazakh <kde-i18n-doc@kde.org> | 
+ | [mozo](/f38/package/mozo) | 43 | 46 | 93.5 | Kazakh (https://www.transifex.com/mate/teams/13566/kk/) | 
+ | [kfind](/f38/package/kfind) | 483 | 517 | 93.4 | Kazakh <kde-i18n-doc@kde.org> | 
+ | [ktimer](/f38/package/ktimer) | 241 | 258 | 93.4 | Kazakh <kde-i18n-doc@kde.org> | 
+ | [python-django-contrib-comments](/f38/package/python-django-contrib-comments) | 233 | 250 | 93.2 | Kazakh (http://www.transifex.com/django/django-contrib-comments/language/kk/) | 
+ | [budgie-control-center](/f38/package/budgie-control-center) | 6144 | 6597 | 93.1 | Kazakh (https://app.transifex.com/buddiesofbudgie/teams/129844/kk/) | 
+ | [ksysguard](/f38/package/ksysguard) | 1017 | 1093 | 93.0 | Kazakh <kde-i18n-doc@kde.org> | 
+ | [klines](/f38/package/klines) | 92 | 99 | 92.9 | Kazakh <kde-i18n-doc@kde.org> | 
+ | [mate-menu](/f38/package/mate-menu) | 286 | 308 | 92.9 | Kazakh (http://www.transifex.com/mate/MATE/language/kk/) | 
+ | [kolf](/f38/package/kolf) | 372 | 401 | 92.8 | Kazakh <kde-i18n-doc@kde.org> | 
+ | [kolourpaint](/f38/package/kolourpaint) | 2389 | 2576 | 92.7 | Kazakh <kde-i18n-doc@kde.org> | 
+ | [granatier](/f38/package/granatier) | 228 | 246 | 92.7 | Kazakh <kde-i18n-doc@kde.org> | 
+ | [kgpg](/f38/package/kgpg) | 4879 | 5272 | 92.5 | Kazakh <kde-i18n-doc@kde.org> | 
+ | [kdf](/f38/package/kdf) | 180 | 195 | 92.3 | Kazakh <kde-i18n-doc@kde.org> | 
+ | [kgeography](/f38/package/kgeography) | 9241 | 10012 | 92.3 | Kazakh <kde-i18n-doc@kde.org> | 
+ | [knetwalk](/f38/package/knetwalk) | 224 | 243 | 92.2 | Kazakh <kde-i18n-doc@kde.org> | 
+ | [calligra](/f38/package/calligra) | 33134 | 35951 | 92.2 | Kazakh <kde-i18n-doc@kde.org> | 
+ | [klickety](/f38/package/klickety) | 164 | 178 | 92.1 | Kazakh <kde-i18n-doc@kde.org> | 
+ | [ktp-send-file](/f38/package/ktp-send-file) | 55 | 60 | 91.7 | Kazakh <kde-i18n-doc@kde.org> | 
+ | [kmplot](/f38/package/kmplot) | 2291 | 2500 | 91.6 | Kazakh <kde-i18n-doc@kde.org> | 
+ | [system-config-language](/f38/package/system-config-language) | 197 | 215 | 91.6 | LANGUAGE <LL@li.org> | 
+ | [khotkeys](/f38/package/khotkeys) | 412 | 451 | 91.4 | Kazakh <kde-i18n-doc@kde.org> | 
+ | [kapman](/f38/package/kapman) | 105 | 115 | 91.3 | Kazakh <kde-i18n-doc@kde.org> | 
+ | [konversation](/f38/package/konversation) | 9441 | 10362 | 91.1 | Kazakh <kde-i18n-doc@kde.org> | 
+ | [kmenuedit](/f38/package/kmenuedit) | 258 | 285 | 90.5 | Kazakh <kde-i18n-doc@kde.org> | 
+ | [ksystemlog](/f38/package/ksystemlog) | 2806 | 3101 | 90.5 | Kazakh <kde-i18n-doc@kde.org> | 
+ | [kde-print-manager](/f38/package/kde-print-manager) | 876 | 969 | 90.4 | Kazakh <kde-i18n-doc@kde.org> | 
+ | [kbounce](/f38/package/kbounce) | 141 | 156 | 90.4 | Kazakh <kde-i18n-doc@kde.org> | 
+ | [kdepim-addons](/f38/package/kdepim-addons) | 1798 | 1993 | 90.2 | Kazakh <kde-i18n-doc@kde.org> | 
+ | [libreoffice](/f38/package/libreoffice) | 152160 | 168935 | 90.1 | Kazakh <https://translations.documentfoundation.org/projects/libo_ui-master/accessibilitymessages/kk/> | 
+ | [kbrickbuster](/f38/package/kbrickbuster) | 142 | 158 | 89.9 | Kazakh <kde-i18n-doc@kde.org> | 
+ | [kf5-akonadi-mime](/f38/package/kf5-akonadi-mime) | 521 | 580 | 89.8 | Kazakh <kde-i18n-doc@kde.org> | 
+ | [xreader](/f38/package/xreader) | 1453 | 1625 | 89.4 | Kazakh (http://www.transifex.com/mate/MATE/language/kk/) | 
+ | [ktp-auth-handler](/f38/package/ktp-auth-handler) | 74 | 83 | 89.2 | Kazakh <kde-i18n-doc@kde.org> | 
+ | [keditbookmarks](/f38/package/keditbookmarks) | 415 | 466 | 89.1 | Kazakh <kde-i18n-doc@kde.org> | 
+ | [ktorrent](/f38/package/ktorrent) | 6641 | 7462 | 89.0 | Kazakh <kde-i18n-doc@kde.org> | 
+ | [cinnamon-desktop](/f38/package/cinnamon-desktop) | 208 | 234 | 88.9 | Kazakh <kk_KZ@googlegroups.com> | 
+ | [libkomparediff2](/f38/package/libkomparediff2) | 127 | 143 | 88.8 | Kazakh <kde-i18n-doc@kde.org> | 
+ | [tellico](/f38/package/tellico) | 5265 | 5977 | 88.1 | Kazakh <kde-i18n-doc@kde.org> | 
+ | [lxlauncher](/f38/package/lxlauncher) | 51 | 58 | 87.9 | Kazakh <kk_KZ@googlegroups.com> | 
+ | [kcalc](/f38/package/kcalc) | 937 | 1070 | 87.6 | Kazakh <kde-i18n-doc@kde.org> | 
+ | [udisks2](/f38/package/udisks2) | 1905 | 2187 | 87.1 | Kazakh | 
+ | [kdesdk-kioslaves](/f38/package/kdesdk-kioslaves) | 73 | 84 | 86.9 | Kazakh <kde-i18n-doc@kde.org> | 
+ | [kf5-khtml](/f38/package/kf5-khtml) | 1448 | 1667 | 86.9 | Kazakh <kde-i18n-doc@kde.org> | 
+ | [lxinput](/f38/package/lxinput) | 72 | 83 | 86.7 | Kazakh <kk_KZ@googlegroups.com> | 
+ | [kf5-kdelibs4support](/f38/package/kf5-kdelibs4support) | 4617 | 5353 | 86.3 | Kazakh <kde-i18n-doc@kde.org> | 
+ | [grantlee-editor](/f38/package/grantlee-editor) | 345 | 400 | 86.2 | Kazakh <kde-i18n-doc@kde.org> | 
+ | [kiten](/f38/package/kiten) | 584 | 683 | 85.5 | Kazakh <kde-i18n-doc@kde.org> | 
+ | [xfburn](/f38/package/xfburn) | 1338 | 1566 | 85.4 | Kazakh (http://www.transifex.com/xfce/xfce-apps/language/kk/) | 
+ | [libkeduvocdocument](/f38/package/libkeduvocdocument) | 146 | 171 | 85.4 | Kazakh <kde-i18n-doc@kde.org> | 
+ | [gnome-software](/f38/package/gnome-software) | 4175 | 4893 | 85.3 | Kazakh <kk_KZ@googlegroups.com> | 
+ | [kajongg](/f38/package/kajongg) | 2093 | 2458 | 85.2 | Kazakh <kde-i18n-doc@kde.org> | 
+ | [kf5-kconfigwidgets](/f38/package/kf5-kconfigwidgets) | 291 | 342 | 85.1 | Kazakh <kde-i18n-doc@kde.org> | 
+ | [ksnakeduel](/f38/package/ksnakeduel) | 205 | 241 | 85.1 | Kazakh <kde-i18n-doc@kde.org> | 
+ | [klavaro](/f38/package/klavaro) | 1608 | 1893 | 84.9 | Kazakh <(nothing)> | 
+ | [juk](/f38/package/juk) | 1296 | 1526 | 84.9 | Kazakh <kde-i18n-doc@kde.org> | 
+ | [ktp-common-internals](/f38/package/ktp-common-internals) | 838 | 989 | 84.7 | Kazakh <kde-i18n-doc@kde.org> | 
+ | [plasma-oxygen](/f38/package/plasma-oxygen) | 534 | 631 | 84.6 | Kazakh <kde-i18n-doc@kde.org> | 
+ | [gedit](/f38/package/gedit) | 3391 | 4010 | 84.6 | Kazakh <kk_KZ@googlegroups.com> | 
+ | [kf5-audiocd-kio](/f38/package/kf5-audiocd-kio) | 723 | 857 | 84.4 | Kazakh <kde-i18n-doc@kde.org> | 
+ | [krdc](/f38/package/krdc) | 979 | 1162 | 84.3 | Kazakh <kde-i18n-doc@kde.org> | 
+ | [kf5-mailimporter](/f38/package/kf5-mailimporter) | 1186 | 1408 | 84.2 | Kazakh <kde-i18n-doc@kde.org> | 
+ | [kaddressbook](/f38/package/kaddressbook) | 952 | 1137 | 83.7 | Kazakh <kde-i18n-doc@kde.org> | 
+ | [ksig](/f38/package/ksig) | 71 | 85 | 83.5 | Kazakh | 
+ | [kamera](/f38/package/kamera) | 283 | 342 | 82.7 | Kazakh <kde-i18n-doc@kde.org> | 
+ | [kollision](/f38/package/kollision) | 90 | 109 | 82.6 | Kazakh <kde-i18n-doc@kde.org> | 
+ | [polkit-kde](/f38/package/polkit-kde) | 78 | 95 | 82.1 | Kazakh <kde-i18n-doc@kde.org> | 
+ | [kf5-kross](/f38/package/kf5-kross) | 82 | 100 | 82.0 | Kazakh <kde-i18n-doc@kde.org> | 
+ | [kcharselect](/f38/package/kcharselect) | 72 | 88 | 81.8 | Kazakh <kde-i18n-doc@kde.org> | 
+ | [k3b](/f38/package/k3b) | 16449 | 20179 | 81.5 | Kazakh <kde-i18n-doc@kde.org> | 
+ | [ktp-contact-runner](/f38/package/ktp-contact-runner) | 169 | 208 | 81.2 | Kazakh <kde-i18n-doc@kde.org> | 
+ | [picmi](/f38/package/picmi) | 164 | 202 | 81.2 | Kazakh <kde-i18n-doc@kde.org> | 
+ | [shadow-utils](/f38/package/shadow-utils) | 3822 | 4738 | 80.7 | Kazakh <kk_KZ@googlegroups.com> | 
+ | [php-phpmyadmin-sql-parser5](/f38/package/php-phpmyadmin-sql-parser5) | 230 | 286 | 80.4 | Kazakh <https://hosted.weblate.org/projects/phpmyadmin/sql-parser/kk/> | 
+ | [kmahjongg](/f38/package/kmahjongg) | 303 | 377 | 80.4 | Kazakh <kde-i18n-doc@kde.org> | 
+ | [kgoldrunner](/f38/package/kgoldrunner) | 22470 | 28011 | 80.2 | Kazakh <kde-i18n-doc@kde.org> | 
+ | [kalgebra](/f38/package/kalgebra) | 133 | 166 | 80.1 | Kazakh <kde-i18n-doc@kde.org> | 
+ | [konquest](/f38/package/konquest) | 197 | 246 | 80.1 | Kazakh <kde-i18n-doc@kde.org> | 
+ | [kwalletmanager5](/f38/package/kwalletmanager5) | 669 | 839 | 79.7 | Kazakh <kde-i18n-doc@kde.org> | 
+ | [ktouch](/f38/package/ktouch) | 767 | 964 | 79.6 | Kazakh <kde-i18n-doc@kde.org> | 
+ | [kalzium](/f38/package/kalzium) | 7241 | 9105 | 79.5 | Kazakh <kde-i18n-doc@kde.org> | 
+ | [kde-cli-tools](/f38/package/kde-cli-tools) | 1696 | 2135 | 79.4 | Kazakh <kde-i18n-doc@kde.org> | 
+ | [kf5-mailcommon](/f38/package/kf5-mailcommon) | 2183 | 2755 | 79.2 | Kazakh <kde-i18n-doc@kde.org> | 
+ | [kf5-messagelib](/f38/package/kf5-messagelib) | 6150 | 7764 | 79.2 | Kazakh <kde-i18n-doc@kde.org> | 
+ | [kf5-libkgeomap](/f38/package/kf5-libkgeomap) | 110 | 139 | 79.1 | Kazakh <kde-i18n-doc@kde.org> | 
+ | [khelpcenter](/f38/package/khelpcenter) | 209 | 265 | 78.9 | Kazakh <kde-i18n-doc@kde.org> | 
+ | [konqueror](/f38/package/konqueror) | 6849 | 8690 | 78.8 | Kazakh <kde-i18n-doc@kde.org> | 
+ | [kf5-kimap](/f38/package/kf5-kimap) | 93 | 118 | 78.8 | Kazakh <kde-i18n-doc@kde.org> | 
+ | [kf5-libksieve](/f38/package/kf5-libksieve) | 2450 | 3122 | 78.5 | Kazakh <kde-i18n-doc@kde.org> | 
+ | [folder-color-switcher](/f38/package/folder-color-switcher) | 51 | 65 | 78.5 | Kazakh <kk@li.org> | 
+ | [kteatime](/f38/package/kteatime) | 158 | 203 | 77.8 | Kazakh <kde-i18n-doc@kde.org> | 
+ | [kf5-kmailtransport](/f38/package/kf5-kmailtransport) | 516 | 663 | 77.8 | Kazakh <kde-i18n-doc@kde.org> | 
+ | [kf5-libksane](/f38/package/kf5-libksane) | 236 | 304 | 77.6 | Kazakh <kde-i18n-doc@kde.org> | 
+ | [kf5-kinit](/f38/package/kf5-kinit) | 90 | 116 | 77.6 | Kazakh <kde-i18n-doc@kde.org> | 
+ | [mate-themes](/f38/package/mate-themes) | 57 | 74 | 77.0 | Kazakh (http://app.transifex.com/mate/MATE/language/kk/) | 
+ | [kf5-akonadi-calendar](/f38/package/kf5-akonadi-calendar) | 1633 | 2148 | 76.0 | Kazakh <kde-i18n-doc@kde.org> | 
+ | [gnome-do](/f38/package/gnome-do) | 464 | 612 | 75.8 | Kazakh <kk@li.org> | 
+ | [gcr](/f38/package/gcr) | 602 | 795 | 75.7 | Kazakh <kk_KZ@googlegroups.com> | 
+ | [gcr3](/f38/package/gcr3) | 602 | 795 | 75.7 | Kazakh <kk_KZ@googlegroups.com> | 
+ | [kf5-kparts](/f38/package/kf5-kparts) | 104 | 138 | 75.4 | Kazakh <kde-i18n-doc@kde.org> | 
+ | [knavalbattle](/f38/package/knavalbattle) | 302 | 401 | 75.3 | Kazakh <kde-i18n-doc@kde.org> | 
+ | [kile](/f38/package/kile) | 9764 | 12994 | 75.1 | Kazakh <kde-i18n-doc@kde.org> | 
+ | [mbox-importer](/f38/package/mbox-importer) | 30 | 40 | 75.0 | Kazakh <kde-i18n-doc@kde.org> | 
+ | [pacman](/f38/package/pacman) | 848 | 1132 | 74.9 | Kazakh (http://www.transifex.com/toofishes/archlinux-pacman/language/kk/) | 
+ | [ktp-approver](/f38/package/ktp-approver) | 53 | 71 | 74.6 | Kazakh <kde-i18n-doc@kde.org> | 
+ | [kmymoney](/f38/package/kmymoney) | 16333 | 22051 | 74.1 | Kazakh <kde-i18n-doc@kde.org> | 
+ | [xfce4-whiskermenu-plugin](/f38/package/xfce4-whiskermenu-plugin) | 317 | 429 | 73.9 | Kazakh (http://app.transifex.com/gottcode/xfce4-whiskermenu-plugin/language/kk/) | 
+ | [kshisen](/f38/package/kshisen) | 492 | 667 | 73.8 | Kazakh <kde-i18n-doc@kde.org> | 
+ | [lokalize](/f38/package/lokalize) | 3071 | 4165 | 73.7 | Kazakh <kde-i18n-doc@kde.org> | 
+ | [kf5-kunitconversion](/f38/package/kf5-kunitconversion) | 4240 | 5757 | 73.6 | Kazakh <kde-i18n-doc@kde.org> | 
+ | [geany](/f38/package/geany) | 4623 | 6280 | 73.6 | Kazakh <kk_KZ@googlegroups.com> | 
+ | [kf5-kwallet](/f38/package/kf5-kwallet) | 980 | 1335 | 73.4 | Kazakh <kde-i18n-doc@kde.org> | 
+ | [gvfs](/f38/package/gvfs) | 1543 | 2102 | 73.4 | Kazakh <kk_KZ@googlegroups.com> | 
+ | [akregator](/f38/package/akregator) | 1360 | 1853 | 73.4 | Kazakh <kde-i18n-doc@kde.org> | 
+ | [kdepim-runtime](/f38/package/kdepim-runtime) | 4190 | 5722 | 73.2 | Kazakh <kde-i18n-doc@kde.org> | 
+ | [kf5-incidenceeditor](/f38/package/kf5-incidenceeditor) | 1616 | 2208 | 73.2 | Kazakh <kde-i18n-doc@kde.org> | 
+ | [gnome-settings-daemon](/f38/package/gnome-settings-daemon) | 2876 | 3930 | 73.2 | Kazakh <kk@li.org> | 
+ | [mate-notification-daemon](/f38/package/mate-notification-daemon) | 136 | 186 | 73.1 | Kazakh (https://app.transifex.com/mate/teams/13566/kk/) | 
+ | [kf5-akonadi-server](/f38/package/kf5-akonadi-server) | 1880 | 2596 | 72.4 | Kazakh <kde-i18n-doc@kde.org> | 
+ | [kf5-akonadi-contacts](/f38/package/kf5-akonadi-contacts) | 803 | 1116 | 72.0 | Kazakh <kde-i18n-doc@kde.org> | 
+ | [xfce4-pulseaudio-plugin](/f38/package/xfce4-pulseaudio-plugin) | 136 | 190 | 71.6 | Kazakh (http://app.transifex.com/xfce/xfce-panel-plugins/language/kk/) | 
+ | [kf5-calendarsupport](/f38/package/kf5-calendarsupport) | 1976 | 2779 | 71.1 | Kazakh <kde-i18n-doc@kde.org> | 
+ | [kpat](/f38/package/kpat) | 397 | 565 | 70.3 | Kazakh <kde-i18n-doc@kde.org> | 
+ | [dolphin-plugins](/f38/package/dolphin-plugins) | 990 | 1409 | 70.3 | Kazakh <kde-i18n-doc@kde.org> | 
+ | [kalarm](/f38/package/kalarm) | 5885 | 8389 | 70.2 | Kazakh <kde-i18n-doc@kde.org> | 
+ | [kmousetool](/f38/package/kmousetool) | 103 | 147 | 70.1 | Kazakh <kde-i18n-doc@kde.org> | 
+ | [kdnssd](/f38/package/kdnssd) | 21 | 30 | 70.0 | Kazakh <kde-i18n-doc@kde.org> | 
+ | [kcm_wacomtablet](/f38/package/kcm_wacomtablet) | 697 | 996 | 70.0 | Kazakh <kde-i18n-doc@kde.org> | 
+ | [mate-media](/f38/package/mate-media) | 166 | 239 | 69.5 | Kazakh (https://app.transifex.com/mate/teams/13566/kk/) | 
+ | [parley](/f38/package/parley) | 2381 | 3433 | 69.4 | Kazakh <kde-i18n-doc@kde.org> | 
+ | [kmines](/f38/package/kmines) | 108 | 156 | 69.2 | Kazakh <kde-i18n-doc@kde.org> | 
+ | [kf5-kcmutils](/f38/package/kf5-kcmutils) | 183 | 266 | 68.8 | Kazakh <kde-i18n-doc@kde.org> | 
+ | [lightdm-gtk](/f38/package/lightdm-gtk) | 61 | 89 | 68.5 | Kazakh <kk@li.org> | 
+ | [libksysguard](/f38/package/libksysguard) | 2671 | 3901 | 68.5 | Kazakh <kde-i18n-doc@kde.org> | 
+ | [bomber](/f38/package/bomber) | 75 | 110 | 68.2 | Kazakh <kde-i18n-doc@kde.org> | 
+ | [killbots](/f38/package/killbots) | 430 | 637 | 67.5 | Kazakh <kde-i18n-doc@kde.org> | 
+ | [umbrello](/f38/package/umbrello) | 4111 | 6132 | 67.0 | Kazakh <kde-i18n-doc@kde.org> | 
+ | [kontact](/f38/package/kontact) | 329 | 492 | 66.9 | Kazakh <kde-i18n-doc@kde.org> | 
+ | [kf5-knotifyconfig](/f38/package/kf5-knotifyconfig) | 86 | 129 | 66.7 | Kazakh <kde-i18n-doc@kde.org> | 
+ | [libnma](/f38/package/libnma) | 536 | 807 | 66.4 | Kazakh <kk_KZ@googlegroups.com> | 
+ | [kmail](/f38/package/kmail) | 5900 | 8935 | 66.0 | Kazakh <kde-i18n-doc@kde.org> | 
+ | [kruler](/f38/package/kruler) | 104 | 158 | 65.8 | Kazakh <kde-i18n-doc@kde.org> | 
+ | [akonadi-calendar-tools](/f38/package/akonadi-calendar-tools) | 500 | 760 | 65.8 | Kazakh <kde-i18n-doc@kde.org> | 
+ | [xfce4-panel-profiles](/f38/package/xfce4-panel-profiles) | 94 | 144 | 65.3 | Kazakh (https://app.transifex.com/xfce/teams/16840/kk/) | 
+ | [kf5-kio](/f38/package/kf5-kio) | 7786 | 12037 | 64.7 | Kazakh <kde-i18n-doc@kde.org> | 
+ | [caja](/f38/package/caja) | 6246 | 9675 | 64.6 | Kazakh (https://app.transifex.com/mate/teams/13566/kk/) | 
+ | [kde-dev-utils](/f38/package/kde-dev-utils) | 61 | 95 | 64.2 | Kazakh <kde-i18n-doc@kde.org> | 
+ | [kpilot](/f38/package/kpilot) | 4560 | 7156 | 63.7 | Kazakh | 
+ | [kf5-kldap](/f38/package/kf5-kldap) | 144 | 227 | 63.4 | Kazakh | 
+ | [xfce4-notifyd](/f38/package/xfce4-notifyd) | 355 | 560 | 63.4 | Kazakh (http://www.transifex.com/xfce/xfce-apps/language/kk/) | 
+ | [yelp-xsl](/f38/package/yelp-xsl) | 51 | 81 | 63.0 | Kazakh <kk_KZ@googlegroups.com> | 
+ | [mate-session-manager](/f38/package/mate-session-manager) | 450 | 715 | 62.9 | Kazakh (https://app.transifex.com/mate/teams/13566/kk/) | 
+ | [shotwell](/f38/package/shotwell) | 4338 | 6977 | 62.2 | Kazakh (http://www.transifex.com/projects/p/shotwell/language/kk/) | 
+ | [kapptemplate](/f38/package/kapptemplate) | 167 | 272 | 61.4 | Kazakh <kde-i18n-doc@kde.org> | 
+ | [xfpanel-switch](/f38/package/xfpanel-switch) | 62 | 101 | 61.4 | Kazakh <kk@li.org> | 
+ | [dragon](/f38/package/dragon) | 152 | 248 | 61.3 | Kazakh <kde-i18n-doc@kde.org> | 
+ | [geary](/f38/package/geary) | 1633 | 2674 | 61.1 | Kazakh <kk_KZ@googlegroups.com> | 
+ | [akonadi-import-wizard](/f38/package/akonadi-import-wizard) | 240 | 394 | 60.9 | Kazakh <kde-i18n-doc@kde.org> | 
+ | [blivet-gui](/f38/package/blivet-gui) | 645 | 1064 | 60.6 | Kazakh <https://translate.fedoraproject.org/projects/blivet/blivet-gui/kk/> | 
+ | [massif-visualizer](/f38/package/massif-visualizer) | 216 | 357 | 60.5 | Kazakh <kde-i18n-doc@kde.org> | 
+ | [kf5-kidentitymanagement](/f38/package/kf5-kidentitymanagement) | 110 | 182 | 60.4 | Kazakh <kde-i18n-doc@kde.org> | 
+ | [kf5-kxmlgui](/f38/package/kf5-kxmlgui) | 950 | 1574 | 60.4 | Kazakh <kde-i18n-doc@kde.org> | 
+ | [pipewire-media-session](/f38/package/pipewire-media-session) | 3 | 5 | 60.0 |  | 
+ | [kdialog](/f38/package/kdialog) | 231 | 391 | 59.1 | Kazakh <kde-i18n-doc@kde.org> | 
+ | [kf5-ktexteditor](/f38/package/kf5-ktexteditor) | 5434 | 9233 | 58.9 | Kazakh <kde-i18n-doc@kde.org> | 
+ | [xfce4-wavelan-plugin](/f38/package/xfce4-wavelan-plugin) | 47 | 80 | 58.8 | Kazakh (http://www.transifex.com/xfce/xfce-panel-plugins/language/kk/) | 
+ | [calligraplan](/f38/package/calligraplan) | 5780 | 9943 | 58.1 | Kazakh <kde-i18n-doc@kde.org> | 
+ | [plasma-workspace](/f38/package/plasma-workspace) | 5690 | 9871 | 57.6 | Kazakh <kde-i18n-doc@kde.org> | 
+ | [kf5-kalarmcal](/f38/package/kf5-kalarmcal) | 117 | 204 | 57.4 | Kazakh <kde-i18n-doc@kde.org> | 
+ | [korganizer](/f38/package/korganizer) | 3949 | 6894 | 57.3 | Kazakh <kde-i18n-doc@kde.org> | 
+ | [gucharmap](/f38/package/gucharmap) | 829 | 1478 | 56.1 | Kazakh <kk_KZ@googlegroups.com> | 
+ | [zenity](/f38/package/zenity) | 496 | 896 | 55.4 | Kazakh <kk_KZ@googlegroups.com> | 
+ | [simple-scan](/f38/package/simple-scan) | 540 | 976 | 55.3 | Kazakh <kk@li.org> | 
+ | [seahorse](/f38/package/seahorse) | 1306 | 2378 | 54.9 | Kazakh <kk_KZ@googlegroups.com> | 
+ | [mate-backgrounds](/f38/package/mate-backgrounds) | 30 | 55 | 54.5 | Kazakh (https://www.transifex.com/mate/teams/13566/kk/) | 
+ | [plasma-desktop](/f38/package/plasma-desktop) | 3185 | 5842 | 54.5 | Kazakh <kde-i18n-doc@kde.org> | 
+ | [khangman](/f38/package/khangman) | 257 | 475 | 54.1 | Kazakh <kde-i18n-doc@kde.org> | 
+ | [kmix](/f38/package/kmix) | 612 | 1132 | 54.1 | Kazakh <kde-i18n-doc@kde.org> | 
+ | [polari](/f38/package/polari) | 468 | 867 | 54.0 | Kazakh <kk_KZ@googlegroups.com> | 
+ | [kinfocenter](/f38/package/kinfocenter) | 246 | 461 | 53.4 | Kazakh <kde-i18n-doc@kde.org> | 
+ | [kf5-kservice](/f38/package/kf5-kservice) | 92 | 173 | 53.2 | Kazakh <kde-i18n-doc@kde.org> | 
+ | [libgweather](/f38/package/libgweather) | 3398 | 6394 | 53.1 | Kazakh <kk@li.org> | 
+ | [plasma-systemsettings](/f38/package/plasma-systemsettings) | 111 | 212 | 52.4 | Kazakh <kde-i18n-doc@kde.org> | 
+ | [kio-extras](/f38/package/kio-extras) | 532 | 1017 | 52.3 | Kazakh <kde-i18n-doc@kde.org> | 
+ | [plasma-sdk](/f38/package/plasma-sdk) | 193 | 371 | 52.0 | Kazakh <kde-i18n-doc@kde.org> | 
+ | [ktp-contact-list](/f38/package/ktp-contact-list) | 353 | 680 | 51.9 | Kazakh <kde-i18n-doc@kde.org> | 
+ | [libmateweather](/f38/package/libmateweather) | 258 | 500 | 51.6 | Kazakh (https://app.transifex.com/mate/teams/13566/kk/) | 
+ | [gpodder](/f38/package/gpodder) | 1288 | 2508 | 51.4 | Kazakh (http://www.transifex.com/projects/p/gpodder/language/kk/) | 
+ | [xfce4-clipman-plugin](/f38/package/xfce4-clipman-plugin) | 287 | 565 | 50.8 | Kazakh (http://app.transifex.com/xfce/xfce-panel-plugins/language/kk/) | 
+ | [kaudiocreator](/f38/package/kaudiocreator) | 572 | 1136 | 50.4 | Kazakh <kde-i18n-doc@kde.org> | 
+ | [libgweather4](/f38/package/libgweather4) | 3373 | 6804 | 49.6 | Kazakh <kk@li.org> | 
+ | [kanagram](/f38/package/kanagram) | 257 | 527 | 48.8 | Kazakh <kde-i18n-doc@kde.org> | 
+ | [network-manager-applet](/f38/package/network-manager-applet) | 2144 | 4408 | 48.6 | Kazakh <kk_KZ@googlegroups.com> | 
+ | [kcolorchooser](/f38/package/kcolorchooser) | 14 | 29 | 48.3 | Kazakh <kde-i18n-doc@kde.org> | 
+ | [libpwquality](/f38/package/libpwquality) | 165 | 345 | 47.8 | Kazakh <https://translate.fedoraproject.org/projects/libpwquality/app/kk/> | 
+ | [gnome-disk-utility](/f38/package/gnome-disk-utility) | 1945 | 4078 | 47.7 | Kazakh <kk_KZ@googlegroups.com> | 
+ | [xfce4-genmon-plugin](/f38/package/xfce4-genmon-plugin) | 54 | 114 | 47.4 | Kazakh (http://www.transifex.com/xfce/xfce-panel-plugins/language/kk/) | 
+ | [parole](/f38/package/parole) | 542 | 1147 | 47.3 | Kazakh (http://app.transifex.com/xfce/xfce-apps/language/kk/) | 
+ | [ktp-text-ui](/f38/package/ktp-text-ui) | 548 | 1182 | 46.4 | Kazakh <kde-i18n-doc@kde.org> | 
+ | [kf5-kcalendarutils](/f38/package/kf5-kcalendarutils) | 657 | 1437 | 45.7 | Kazakh <kde-i18n-doc@kde.org> | 
+ | [gtksourceview3](/f38/package/gtksourceview3) | 145 | 322 | 45.0 | Kazakh <kk_KZ@googlegroups.com> | 
+ | [mingw-gtksourceview3](/f38/package/mingw-gtksourceview3) | 145 | 322 | 45.0 | Kazakh <kk_KZ@googlegroups.com> | 
+ | [kmail-account-wizard](/f38/package/kmail-account-wizard) | 367 | 815 | 45.0 | Kazakh <kde-i18n-doc@kde.org> | 
+ | [maliit-keyboard](/f38/package/maliit-keyboard) | 36 | 81 | 44.4 | Kazakh <kk@li.org> | 
+ | [ktp-kded-integration-module](/f38/package/ktp-kded-integration-module) | 217 | 490 | 44.3 | Kazakh <kde-i18n-doc@kde.org> | 
+ | [galculator](/f38/package/galculator) | 408 | 935 | 43.6 | Kazakh (http://www.transifex.com/mate/MATE/language/kk/) | 
+ | [xarchiver](/f38/package/xarchiver) | 527 | 1214 | 43.4 | Kazakh <kk_KZ@googlegroups.com> | 
+ | [okular](/f38/package/okular) | 2467 | 5686 | 43.4 | Kazakh <kde-i18n-doc@kde.org> | 
+ | [gtksourceview4](/f38/package/gtksourceview4) | 133 | 308 | 43.2 | Kazakh <kk_KZ@googlegroups.com> | 
+ | [kexi](/f38/package/kexi) | 3177 | 7365 | 43.1 | Kazakh <kde-i18n-doc@kde.org> | 
+ | [xfce4-cpufreq-plugin](/f38/package/xfce4-cpufreq-plugin) | 59 | 140 | 42.1 | Kazakh <kk_KZ@googlegroups.com> | 
+ | [epiphany](/f38/package/epiphany) | 2004 | 4776 | 42.0 | Kazakh <kk_KZ@googlegroups.com> | 
+ | [kdevelop-php](/f38/package/kdevelop-php) | 221 | 529 | 41.8 | Kazakh <kde-i18n-doc@kde.org> | 
+ | [gwenview](/f38/package/gwenview) | 852 | 2040 | 41.8 | Kazakh <kde-i18n-doc@kde.org> | 
+ | [knotes](/f38/package/knotes) | 250 | 601 | 41.6 | Kazakh <kde-i18n-doc@kde.org> | 
+ | [transmission](/f38/package/transmission) | 984 | 2441 | 40.3 | Kazakh (https://app.transifex.com/transmissionbt/teams/33778/kk/) | 
+ | [kleopatra](/f38/package/kleopatra) | 5039 | 12529 | 40.2 | Kazakh <kde-i18n-doc@kde.org> | 
+ | [ksudoku](/f38/package/ksudoku) | 700 | 1746 | 40.1 | Kazakh <kde-i18n-doc@kde.org> | 
+ | [python-django](/f38/package/python-django) | 1504 | 3755 | 40.1 | Kazakh (http://www.transifex.com/django/django/language/kk/) | 
+ | [python-django3](/f38/package/python-django3) | 1504 | 3755 | 40.1 | Kazakh (http://www.transifex.com/django/django/language/kk/) | 
+ | [xapps](/f38/package/xapps) | 29 | 73 | 39.7 | Kazakh <kk@li.org> | 
+ | [kcachegrind](/f38/package/kcachegrind) | 1724 | 4367 | 39.5 | Kazakh <kde-i18n-doc@kde.org> | 
+ | [gnome-packagekit](/f38/package/gnome-packagekit) | 1366 | 3483 | 39.2 | Kazakh <kk_KZ@googlegroups.com> | 
+ | [xfce4-cpugraph-plugin](/f38/package/xfce4-cpugraph-plugin) | 73 | 188 | 38.8 | Kazakh (http://app.transifex.com/xfce/xfce-panel-plugins/language/kk/) | 
+ | [kf5-kdeclarative](/f38/package/kf5-kdeclarative) | 62 | 161 | 38.5 | Kazakh <kde-i18n-doc@kde.org> | 
+ | [krfb](/f38/package/krfb) | 278 | 735 | 37.8 | Kazakh <kde-i18n-doc@kde.org> | 
+ | [kwin](/f38/package/kwin) | 2208 | 5855 | 37.7 | Kazakh <kde-i18n-doc@kde.org> | 
+ | [powerdevil](/f38/package/powerdevil) | 252 | 669 | 37.7 | Kazakh <kde-i18n-doc@kde.org> | 
+ | [mate-settings-daemon](/f38/package/mate-settings-daemon) | 824 | 2207 | 37.3 | Kazakh (https://app.transifex.com/mate/teams/13566/kk/) | 
+ | [filelight](/f38/package/filelight) | 97 | 262 | 37.0 | Kazakh <kde-i18n-doc@kde.org> | 
+ | [konsole5](/f38/package/konsole5) | 1474 | 3996 | 36.9 | Kazakh <kde-i18n-doc@kde.org> | 
+ | [kompare](/f38/package/kompare) | 517 | 1413 | 36.6 | Kazakh <kde-i18n-doc@kde.org> | 
+ | [kactivitymanagerd](/f38/package/kactivitymanagerd) | 4 | 11 | 36.4 | Kazakh <kde-i18n-doc@kde.org> | 
+ | [deluge](/f38/package/deluge) | 1576 | 4340 | 36.3 | Kazakh <kk@li.org> | 
+ | [libmatemixer](/f38/package/libmatemixer) | 87 | 242 | 36.0 | Kazakh (https://app.transifex.com/mate/teams/13566/kk/) | 
+ | [plasma-drkonqi](/f38/package/plasma-drkonqi) | 708 | 1984 | 35.7 | Kazakh <kde-i18n-doc@kde.org> | 
+ | [menulibre](/f38/package/menulibre) | 308 | 873 | 35.3 | Kazakh <kk@li.org> | 
+ | [step](/f38/package/step) | 660 | 1897 | 34.8 | Kazakh <kde-i18n-doc@kde.org> | 
+ | [palapeli](/f38/package/palapeli) | 524 | 1525 | 34.4 | Kazakh <kde-i18n-doc@kde.org> | 
+ | [kf5-ki18n](/f38/package/kf5-ki18n) | 42 | 124 | 33.9 | Kazakh <kde-i18n-doc@kde.org> | 
+ | [atril](/f38/package/atril) | 1478 | 4365 | 33.9 | Kazakh (https://www.transifex.com/mate/teams/13566/kk/) | 
+ | [pim-data-exporter](/f38/package/pim-data-exporter) | 273 | 810 | 33.7 | Kazakh <kde-i18n-doc@kde.org> | 
+ | [kreversi](/f38/package/kreversi) | 143 | 425 | 33.6 | Kazakh <kde-i18n-doc@kde.org> | 
+ | [uget](/f38/package/uget) | 365 | 1085 | 33.6 | Kazakh (http://www.transifex.com/uget/uget/language/kk/) | 
+ | [kate](/f38/package/kate) | 2079 | 6190 | 33.6 | Kazakh <kde-i18n-doc@kde.org> | 
+ | [muffin](/f38/package/muffin) | 356 | 1071 | 33.2 | Kazakh <kk@li.org> | 
+ | [xed](/f38/package/xed) | 1236 | 3759 | 32.9 | Kazakh (http://www.transifex.com/projects/p/MATE/language/kk/) | 
+ | [baloo-widgets](/f38/package/baloo-widgets) | 22 | 67 | 32.8 | Kazakh <kde-i18n-doc@kde.org> | 
+ | [cinnamon-translations](/f38/package/cinnamon-translations) | 7773 | 23673 | 32.8 | Kazakh <kk@li.org> | 
+ | [gnome-shell-extension-dash-to-panel](/f38/package/gnome-shell-extension-dash-to-panel) | 383 | 1198 | 32.0 | Kazakh <kk_KZ@googlegroups.com> | 
+ | [caja-extensions](/f38/package/caja-extensions) | 242 | 760 | 31.8 | Kazakh (https://www.transifex.com/mate/teams/13566/kk/) | 
+ | [kdevelop](/f38/package/kdevelop) | 3710 | 11805 | 31.4 | Kazakh <kde-i18n-doc@kde.org> | 
+ | [cantor](/f38/package/cantor) | 1265 | 4034 | 31.4 | Kazakh <kde-i18n-doc@kde.org> | 
+ | [gnome-2048](/f38/package/gnome-2048) | 118 | 382 | 30.9 | Kazakh <kk_KZ@googlegroups.com> | 
+ | [gtk3](/f38/package/gtk3) | 5154 | 16737 | 30.8 | Kazakh <kk_KZ@googlegroups.com> | 
+ | [mingw-gtk3](/f38/package/mingw-gtk3) | 5144 | 16727 | 30.8 | Kazakh <kk_KZ@googlegroups.com> | 
+ | [eom](/f38/package/eom) | 1485 | 4958 | 30.0 | Kazakh (https://app.transifex.com/mate/teams/13566/kk/) | 
+ | [gigolo](/f38/package/gigolo) | 161 | 541 | 29.8 | Kazakh (http://app.transifex.com/xfce/xfce-apps/language/kk/) | 
+ | [tali](/f38/package/tali) | 129 | 438 | 29.5 | Kazakh <kk_KZ@googlegroups.com> | 
+ | [xfce4-netload-plugin](/f38/package/xfce4-netload-plugin) | 27 | 92 | 29.3 | Kazakh <kk_KZ@googlegroups.com> | 
+ | [magpie](/f38/package/magpie) | 362 | 1253 | 28.9 | Kazakh <kk@li.org> | 
+ | [mutter](/f38/package/mutter) | 362 | 1253 | 28.9 | Kazakh <kk@li.org> | 
+ | [kstars](/f38/package/kstars) | 16635 | 58759 | 28.3 | Kazakh <kde-i18n-doc@kde.org> | 
+ | [sugar-toolkit-gtk3](/f38/package/sugar-toolkit-gtk3) | 60 | 213 | 28.2 | LANGUAGE <LL@li.org> | 
+ | [xdg-desktop-portal-xapp](/f38/package/xdg-desktop-portal-xapp) | 63 | 225 | 28.0 | Kazakh <kk_KZ@googlegroups.com> | 
+ | [kf5-pimcommon](/f38/package/kf5-pimcommon) | 232 | 830 | 28.0 | Kazakh <kde-i18n-doc@kde.org> | 
+ | [mate-desktop](/f38/package/mate-desktop) | 650 | 2376 | 27.4 | Kazakh (https://app.transifex.com/mate/teams/13566/kk/) | 
+ | [gnome-builder](/f38/package/gnome-builder) | 1317 | 4891 | 26.9 | Kazakh <kk_KZ@googlegroups.com> | 
+ | [kf5-kiconthemes](/f38/package/kf5-kiconthemes) | 11 | 41 | 26.8 | Kazakh <kde-i18n-doc@kde.org> | 
+ | [evolution-data-server](/f38/package/evolution-data-server) | 2124 | 7918 | 26.8 | Kazakh <kk_KZ@googlegroups.com> | 
+ | [kf5-kpimtextedit](/f38/package/kf5-kpimtextedit) | 101 | 382 | 26.4 | Kazakh <kde-i18n-doc@kde.org> | 
+ | [ark](/f38/package/ark) | 518 | 1962 | 26.4 | Kazakh <kde-i18n-doc@kde.org> | 
+ | [pipewire](/f38/package/pipewire) | 170 | 647 | 26.3 |  | 
+ | [xfce4-screenshooter](/f38/package/xfce4-screenshooter) | 186 | 733 | 25.4 | Kazakh (http://app.transifex.com/xfce/xfce-apps/language/kk/) | 
+ | [gitg](/f38/package/gitg) | 603 | 2435 | 24.8 | Kazakh <kk_KZ@googlegroups.com> | 
+ | [gdk-pixbuf2](/f38/package/gdk-pixbuf2) | 328 | 1325 | 24.8 | Kazakh <kk_KZ@googlegroups.com> | 
+ | [mingw-gdk-pixbuf](/f38/package/mingw-gdk-pixbuf) | 328 | 1325 | 24.8 | Kazakh <kk_KZ@googlegroups.com> | 
+ | [rocs](/f38/package/rocs) | 364 | 1480 | 24.6 | Kazakh <kde-i18n-doc@kde.org> | 
+ | [mate-panel](/f38/package/mate-panel) | 1587 | 6720 | 23.6 | Kazakh (https://app.transifex.com/mate/teams/13566/kk/) | 
+ | [dconf-editor](/f38/package/dconf-editor) | 694 | 2955 | 23.5 | Kazakh <kk@li.org> | 
+ | [gedit-plugins](/f38/package/gedit-plugins) | 214 | 928 | 23.1 | Kazakh <kk_KZ@googlegroups.com> | 
+ | [orage](/f38/package/orage) | 528 | 2302 | 22.9 | Kazakh (https://www.transifex.com/xfce/teams/16840/kk/) | 
+ | [gnome-color-manager](/f38/package/gnome-color-manager) | 404 | 1796 | 22.5 | Kazakh <kk@li.org> | 
+ | [at-spi2-core](/f38/package/at-spi2-core) | 99 | 447 | 22.1 | Kazakh <kk_KZ@googlegroups.com> | 
+ | [mate-terminal](/f38/package/mate-terminal) | 1852 | 8386 | 22.1 | Kazakh (https://app.transifex.com/mate/teams/13566/kk/) | 
+ | [mate-control-center](/f38/package/mate-control-center) | 1723 | 8253 | 20.9 | Kazakh (https://app.transifex.com/mate/teams/13566/kk/) | 
+ | [gtk2](/f38/package/gtk2) | 2569 | 12404 | 20.7 | Kazakh <kk_KZ@googlegroups.com> | 
+ | [mingw-gtk2](/f38/package/mingw-gtk2) | 2569 | 12404 | 20.7 | Kazakh <kk_KZ@googlegroups.com> | 
+ | [libwnck](/f38/package/libwnck) | 226 | 1124 | 20.1 | Kazakh <kk_KZ@googlegroups.com> | 
+ | [brasero](/f38/package/brasero) | 1105 | 5549 | 19.9 | Kazakh <kk_KZ@googlegroups.com> | 
+ | [kf5-libkleo](/f38/package/kf5-libkleo) | 471 | 2423 | 19.4 | Kazakh <kde-i18n-doc@kde.org> | 
+ | [mate-system-monitor](/f38/package/mate-system-monitor) | 942 | 4893 | 19.3 | Kazakh (https://app.transifex.com/mate/teams/13566/kk/) | 
+ | [tracker-miners](/f38/package/tracker-miners) | 351 | 1824 | 19.2 | Kazakh <kk_KZ@googlegroups.com> | 
+ | [libwnck3](/f38/package/libwnck3) | 207 | 1086 | 19.1 | Kazakh <kk_KZ@googlegroups.com> | 
+ | [kwordquiz](/f38/package/kwordquiz) | 48 | 252 | 19.0 | Kazakh <kde-i18n-doc@kde.org> | 
+ | [dolphin](/f38/package/dolphin) | 961 | 5146 | 18.7 | Kazakh <kde-i18n-doc@kde.org> | 
+ | [kf5-knewstuff](/f38/package/kf5-knewstuff) | 301 | 1631 | 18.5 | Kazakh <kde-i18n-doc@kde.org> | 
+ | [tracker](/f38/package/tracker) | 104 | 583 | 17.8 | Kazakh <kk_KZ@googlegroups.com> | 
+ | [mingw-atk](/f38/package/mingw-atk) | 78 | 440 | 17.7 | Kazakh <kk_KZ@googlegroups.com> | 
+ | [pulseaudio](/f38/package/pulseaudio) | 663 | 3786 | 17.5 |  | 
+ | [engrampa](/f38/package/engrampa) | 1365 | 7838 | 17.4 | Kazakh (https://app.transifex.com/mate/teams/13566/kk/) | 
+ | [mate-utils](/f38/package/mate-utils) | 1743 | 10060 | 17.3 | Kazakh (https://app.transifex.com/mate/teams/13566/kk/) | 
+ | [kjots](/f38/package/kjots) | 112 | 651 | 17.2 | Kazakh <kde-i18n-doc@kde.org> | 
+ | [light-locker](/f38/package/light-locker) | 44 | 260 | 16.9 | Kazakh (http://www.transifex.com/the_cavalry/light-locker/language/kk/) | 
+ | [pluma](/f38/package/pluma) | 2182 | 13113 | 16.6 | Kazakh (https://app.transifex.com/mate/teams/13566/kk/) | 
+ | [accerciser](/f38/package/accerciser) | 107 | 658 | 16.3 | Kazakh <kk_KZ@googlegroups.com> | 
+ | [libgnomeui](/f38/package/libgnomeui) | 192 | 1226 | 15.7 | Kazakh <kk_KZ@googlegroups.com> | 
+ | [dasher](/f38/package/dasher) | 98 | 634 | 15.5 | Kazakh <kk_KZ@googlegroups.com> | 
+ | [glib2](/f38/package/glib2) | 1178 | 7693 | 15.3 | Kazakh <kk_KZ@googlegroups.com> | 
+ | [mingw-glib2](/f38/package/mingw-glib2) | 1178 | 7693 | 15.3 | Kazakh <kk_KZ@googlegroups.com> | 
+ | [mate-screensaver](/f38/package/mate-screensaver) | 167 | 1101 | 15.2 | Kazakh (https://app.transifex.com/mate/teams/13566/kk/) | 
+ | [rhythmbox](/f38/package/rhythmbox) | 563 | 3719 | 15.1 | Kazakh <kk_KZ@googlegroups.com> | 
+ | [grub-customizer](/f38/package/grub-customizer) | 190 | 1295 | 14.7 | Kazakh <kk@li.org> | 
+ | [glade](/f38/package/glade) | 989 | 6854 | 14.4 | Kazakh <kk_KZ@googlegroups.com> | 
+ | [fractal](/f38/package/fractal) | 128 | 888 | 14.4 | Kazakh <kk_KZ@googlegroups.com> | 
+ | [gnome-tetravex](/f38/package/gnome-tetravex) | 141 | 979 | 14.4 | Kazakh <kk_KZ@googlegroups.com> | 
+ | [libmatekbd](/f38/package/libmatekbd) | 44 | 308 | 14.3 | Kazakh (https://app.transifex.com/mate/teams/13566/kk/) | 
+ | [gsettings-desktop-schemas](/f38/package/gsettings-desktop-schemas) | 1020 | 7207 | 14.2 | Kazakh <kk@li.org> | 
+ | [mate-calc](/f38/package/mate-calc) | 460 | 3323 | 13.8 | Kazakh (https://www.transifex.com/mate/teams/13566/kk/) | 
+ | [evolution](/f38/package/evolution) | 4077 | 29603 | 13.8 | Kazakh <kk_KZ@googlegroups.com> | 
+ | [remmina](/f38/package/remmina) | 719 | 5396 | 13.3 | Kazakh <https://hosted.weblate.org/projects/remmina/remmina/kk/> | 
+ | [kamoso](/f38/package/kamoso) | 19 | 145 | 13.1 | Kazakh <kde-i18n-doc@kde.org> | 
+ | [mate-power-manager](/f38/package/mate-power-manager) | 645 | 5119 | 12.6 | Kazakh (https://app.transifex.com/mate/teams/13566/kk/) | 
+ | [gconf-editor](/f38/package/gconf-editor) | 42 | 336 | 12.5 | Kazakh <kk_KZ@googlegroups.com> | 
+ | [kdeplasma-addons](/f38/package/kdeplasma-addons) | 153 | 1241 | 12.3 | Kazakh <kde-i18n-doc@kde.org> | 
+ | [pavucontrol](/f38/package/pavucontrol) | 56 | 530 | 10.6 | Kazakh <https://translate.fedoraproject.org/projects/pulseaudio/pavucontrol/kk/> | 
+ | [gnome-abrt](/f38/package/gnome-abrt) | 23 | 221 | 10.4 | Kazakh <https://translate.fedoraproject.org/projects/abrt/gnome-abrt/kk/> | 
+ | [krita](/f38/package/krita) | 3598 | 35924 | 10.0 | Kazakh <kde-i18n-doc@kde.org> | 
+ | [kscreenlocker](/f38/package/kscreenlocker) | 20 | 213 | 9.4 | Kazakh <kde-i18n-doc@kde.org> | 
+ | [gnome-panel](/f38/package/gnome-panel) | 308 | 3281 | 9.4 | Kazakh <kk_KZ@googlegroups.com> | 
+ | [pluma-plugins](/f38/package/pluma-plugins) | 125 | 1398 | 8.9 | Kazakh (https://www.transifex.com/mate/teams/13566/kk/) | 
+ | [midori](/f38/package/midori) | 316 | 3541 | 8.9 | Kazakh <kk_KZ@googlegroups.com> | 
+ | [aisleriot](/f38/package/aisleriot) | 257 | 2982 | 8.6 | Kazakh <kk_KZ@googlegroups.com> | 
+ | [rygel](/f38/package/rygel) | 136 | 1641 | 8.3 | Kazakh <kk_KZ@googlegroups.com> | 
+ | [anjuta](/f38/package/anjuta) | 684 | 8398 | 8.1 | Kazakh <kk_KZ@googlegroups.com> | 
+ | [icewm](/f38/package/icewm) | 184 | 2267 | 8.1 | Kazakh <https://l10n.opensuse.org/projects/icewm/icewm-1-4-branch/kk/> | 
+ | [marco](/f38/package/marco) | 348 | 4303 | 8.1 | Kazakh (https://app.transifex.com/mate/teams/13566/kk/) | 
+ | [clementine](/f38/package/clementine) | 292 | 3803 | 7.7 | Kazakh (http://app.transifex.com/davidsansome/clementine/language/kk/) | 
+ | [gnome-applets](/f38/package/gnome-applets) | 330 | 4314 | 7.6 | Kazakh <kk_KZ@googlegroups.com> | 
+ | [terminator](/f38/package/terminator) | 106 | 1522 | 7.0 | Kazakh (https://www.transifex.com/terminator/teams/109338/kk/) | 
+ | [orca](/f38/package/orca) | 395 | 5801 | 6.8 | Kazakh <kk_KZ@googlegroups.com> | 
+ | [marble](/f38/package/marble) | 774 | 11587 | 6.7 | Kazakh <kde-i18n-doc@kde.org> | 
+ | [dnf](/f38/package/dnf) | 293 | 4718 | 6.2 | Kazakh <https://translate.fedoraproject.org/projects/dnf/dnf-master/kk/> | 
+ | [pogo](/f38/package/pogo) | 28 | 576 | 4.9 | Kazakh <kk@li.org> | 
+ | [elementary-mail](/f38/package/elementary-mail) | 35 | 788 | 4.4 | Kazakh <kk_KZ@googlegroups.com> | 
+ | [gnumeric](/f38/package/gnumeric) | 1690 | 38348 | 4.4 | Kazakh <kk_KZ@googlegroups.com> | 
+ | [geany-plugins](/f38/package/geany-plugins) | 375 | 8513 | 4.4 | Kazakh <kk_KZ@googlegroups.com> | 
+ | [shutter](/f38/package/shutter) | 127 | 2927 | 4.3 | Kazakh <kk@li.org> | 
+ | [gimp](/f38/package/gimp) | 1094 | 26305 | 4.2 | Kazakh <kk_KZ@googlegroups.com> | 
+ | [isomaster](/f38/package/isomaster) | 28 | 674 | 4.2 | http://littlesvr.ca/ostd/ | 
+ | [plasma-discover](/f38/package/plasma-discover) | 107 | 2859 | 3.7 | Kazakh <kde-i18n-doc@kde.org> | 
+ | [clutter](/f38/package/clutter) | 113 | 3057 | 3.7 | Kazakh <kk_KZ@googlegroups.com> | 
+ | [libgnome](/f38/package/libgnome) | 63 | 1773 | 3.6 | Kazakh <kk_KZ@googlegroups.com> | 
+ | [asunder](/f38/package/asunder) | 17 | 493 | 3.4 | http://littlesvr.ca/ostd/ | 
+ | [gnome-commander](/f38/package/gnome-commander) | 353 | 10710 | 3.3 | Kazakh <kk_KZ@googlegroups.com> | 
+ | [mingw-p11-kit](/f38/package/mingw-p11-kit) | 12 | 476 | 2.5 | Kazakh (http://www.transifex.com/freedesktop/p11-kit/language/kk/) | 
+ | [mate-user-admin](/f38/package/mate-user-admin) | 15 | 605 | 2.5 | Kazakh (https://www.transifex.com/mate/teams/13566/kk/) | 
+ | [pidgin](/f38/package/pidgin) | 337 | 13994 | 2.4 | Kazakh (http://www.transifex.com/pidgin/pidgin/language/kk/) | 
+ | [lightdm-settings](/f38/package/lightdm-settings) | 7 | 355 | 2.0 | Kazakh <kk@li.org> | 
+ | [onboard](/f38/package/onboard) | 45 | 2318 | 1.9 | Kazakh <kk@li.org> | 
+ | [mate-applets](/f38/package/mate-applets) | 302 | 15957 | 1.9 | Kazakh (https://www.transifex.com/mate/teams/13566/kk/) | 
+ | [rednotebook](/f38/package/rednotebook) | 23 | 1263 | 1.8 | Kazakh <kk@li.org> | 
+ | [blueman](/f38/package/blueman) | 38 | 2340 | 1.6 | Kazakh <https://hosted.weblate.org/projects/blueman/blueman/kk/> | 
+ | [paprefs](/f38/package/paprefs) | 2 | 137 | 1.5 | Kazakh <https://translate.fedoraproject.org/projects/pulseaudio/paprefs/kk/> | 
+ | [minetest](/f38/package/minetest) | 98 | 9523 | 1.0 | Kazakh <https://hosted.weblate.org/projects/minetest/minetest/kk/> | 
+ | [folks](/f38/package/folks) | 10 | 1056 | 0.9 | Kazakh <kk_KZ@googlegroups.com> | 
+ | [caja-actions](/f38/package/caja-actions) | 133 | 18815 | 0.7 | Kazakh (https://www.transifex.com/mate/teams/13566/kk/) | 
+ | [p11-kit](/f38/package/p11-kit) | 12 | 1764 | 0.7 | Kazakh (http://www.transifex.com/freedesktop/p11-kit/language/kk/) | 
+ | [aria2](/f38/package/aria2) | 48 | 7486 | 0.6 | Kazakh <kk@li.org> | 
+ | [android-tools](/f38/package/android-tools) | 33 | 6028 | 0.5 | Kazakh | 
+ | [malcontent](/f38/package/malcontent) | 3 | 584 | 0.5 | none | 
+ | [policycoreutils](/f38/package/policycoreutils) | 53 | 10521 | 0.5 | Kazakh | 
+ | [abrt](/f38/package/abrt) | 16 | 3676 | 0.4 | Kazakh <https://translate.fedoraproject.org/projects/abrt/abrt/kk/> | 
+ | [elementary-code](/f38/package/elementary-code) | 7 | 1614 | 0.4 | LANGUAGE <LL@li.org> | 
+ | [mate-sensors-applet](/f38/package/mate-sensors-applet) | 9 | 2160 | 0.4 | Kazakh (https://www.transifex.com/mate/teams/13566/kk/) | 
+ | [mate-user-guide](/f38/package/mate-user-guide) | 136 | 42973 | 0.3 | Kazakh (https://app.transifex.com/mate/teams/13566/kk/) | 
+ | [colord](/f38/package/colord) | 5 | 1885 | 0.3 | Kazakh (http://www.transifex.com/projects/p/colord/language/kk/) | 
+ | [mingw-colord](/f38/package/mingw-colord) | 5 | 1885 | 0.3 | Kazakh (http://www.transifex.com/projects/p/colord/language/kk/) | 
+ | [mypaint](/f38/package/mypaint) | 15 | 6381 | 0.2 | Kazakh <https://hosted.weblate.org/projects/mypaint/mypaint/kk/> | 
+ | [coreutils](/f38/package/coreutils) | 36 | 21546 | 0.2 | Kazakh <kk_KZ@googlegroups.com> | 
+ | [libmypaint](/f38/package/libmypaint) | 2 | 2303 | 0.1 | Kazakh <https://hosted.weblate.org/projects/mypaint/libmypaint/kk/> | 
+ | [libreport](/f38/package/libreport) | 4 | 4928 | 0.1 | Kazakh <https://translate.fedoraproject.org/projects/abrt/libreport/kk/> | 
+ | [mc](/f38/package/mc) | 2 | 4394 | 0.0 | Kazakh (http://app.transifex.com/mc/mc/language/kk/) | 
+ | [analitza](/f38/package/analitza) | 0 | 992 | 0.0 | Kazakh <kde-i18n-doc@kde.org> | 
+ | [bookworm](/f38/package/bookworm) | 0 | 795 | 0.0 |  | 
+ | [calamares](/f38/package/calamares) | 0 | 521 | 0.0 | Kazakh (https://app.transifex.com/calamares/teams/20061/kk/) | 
+ | [clamtk](/f38/package/clamtk) | 0 | 448 | 0.0 | Kazakh <kk@li.org> | 
+ | [coin](/f38/package/coin) | 0 | 252 | 0.0 | none | 
+ | [cpeditor](/f38/package/cpeditor) | 0 | 647 | 0.0 | Kazakh <kde-i18n-doc@kde.org> | 
+ | [deja-dup](/f38/package/deja-dup) | 0 | 1623 | 0.0 | Kazakh <kk@li.org> | 
+ | [dippi](/f38/package/dippi) | 0 | 1425 | 0.0 | none | 
+ | [elementary-files](/f38/package/elementary-files) | 0 | 2490 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [elementary-icon-theme](/f38/package/elementary-icon-theme) | 0 | 394 | 0.0 | none | 
+ | [elementary-music](/f38/package/elementary-music) | 0 | 205 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [elementary-notifications](/f38/package/elementary-notifications) | 0 | 44 | 0.0 | none | 
+ | [exaile](/f38/package/exaile) | 0 | 4602 | 0.0 | Kazakh <kk@li.org> | 
+ | [fonts-tweak-tool](/f38/package/fonts-tweak-tool) | 0 | 195 | 0.0 | Kazakh | 
+ | [fprintd](/f38/package/fprintd) | 0 | 433 | 0.0 | Kazakh (http://www.transifex.com/freedesktop/fprintd/language/kk/) | 
+ | [gala](/f38/package/gala) | 0 | 249 | 0.0 | none | 
+ | [granite](/f38/package/granite) | 0 | 498 | 0.0 |  | 
+ | [granite-7](/f38/package/granite-7) | 0 | 300 | 0.0 |  | 
+ | [harvey](/f38/package/harvey) | 0 | 182 | 0.0 | none | 
+ | [kdenetwork-filesharing](/f38/package/kdenetwork-filesharing) | 0 | 992 | 0.0 | Kazakh <kde-i18n-doc@kde.org> | 
+ | [kf5-grantleetheme](/f38/package/kf5-grantleetheme) | 0 | 14 | 0.0 | Kazakh <kde-i18n-doc@kde.org> | 
+ | [kf5-kauth](/f38/package/kf5-kauth) | 0 | 73 | 0.0 | Kazakh <kde-i18n-doc@kde.org> | 
+ | [kf5-kbookmarks](/f38/package/kf5-kbookmarks) | 0 | 230 | 0.0 | Kazakh <kde-i18n-doc@kde.org> | 
+ | [kf5-kcodecs](/f38/package/kf5-kcodecs) | 0 | 370 | 0.0 | Kazakh <kde-i18n-doc@kde.org> | 
+ | [kf5-kcompletion](/f38/package/kf5-kcompletion) | 0 | 18 | 0.0 | Kazakh <kde-i18n-doc@kde.org> | 
+ | [kf5-kconfig](/f38/package/kf5-kconfig) | 0 | 289 | 0.0 | Kazakh | 
+ | [kf5-kcoreaddons](/f38/package/kf5-kcoreaddons) | 0 | 382 | 0.0 | Kazakh <kde-i18n-doc@kde.org> | 
+ | [kf5-kdesignerplugin](/f38/package/kf5-kdesignerplugin) | 0 | 54 | 0.0 | Kazakh <kde-i18n-doc@kde.org> | 
+ | [kf5-kdnssd](/f38/package/kf5-kdnssd) | 0 | 3 | 0.0 | Kazakh <kde-i18n-doc@kde.org> | 
+ | [kf5-kglobalaccel](/f38/package/kf5-kglobalaccel) | 0 | 71 | 0.0 | Kazakh <kde-i18n-doc@kde.org> | 
+ | [kf5-kholidays](/f38/package/kf5-kholidays) | 0 | 150 | 0.0 | Kazakh <kde-i18n-doc@kde.org> | 
+ | [kf5-kitemviews](/f38/package/kf5-kitemviews) | 0 | 7 | 0.0 | Kazakh <kde-i18n-doc@kde.org> | 
+ | [kf5-kjobwidgets](/f38/package/kf5-kjobwidgets) | 0 | 133 | 0.0 | Kazakh <kde-i18n-doc@kde.org> | 
+ | [kf5-knotifications](/f38/package/kf5-knotifications) | 0 | 21 | 0.0 | Kazakh <kde-i18n-doc@kde.org> | 
+ | [kf5-kwidgetsaddons](/f38/package/kf5-kwidgetsaddons) | 0 | 1293 | 0.0 | Kazakh <kde-i18n-doc@kde.org> | 
+ | [kf5-kwindowsystem](/f38/package/kf5-kwindowsystem) | 0 | 2 | 0.0 | Kazakh <kde-i18n-doc@kde.org> | 
+ | [kf5-solid](/f38/package/kf5-solid) | 0 | 588 | 0.0 | Kazakh <kde-i18n-doc@kde.org> | 
+ | [kf5-sonnet](/f38/package/kf5-sonnet) | 0 | 683 | 0.0 | Kazakh <kde-i18n-doc@kde.org> | 
+ | [kf5-syntax-highlighting](/f38/package/kf5-syntax-highlighting) | 0 | 647 | 0.0 | Kazakh <kde-i18n-doc@kde.org> | 
+ | [kreport](/f38/package/kreport) | 0 | 455 | 0.0 | Kazakh <kde-i18n-doc@kde.org> | 
+ | [libkgapi](/f38/package/libkgapi) | 0 | 378 | 0.0 | Kazakh <kde-i18n-doc@kde.org> | 
+ | [libvirt-sandbox](/f38/package/libvirt-sandbox) | 0 | 617 | 0.0 | Kazakh (http://www.transifex.com/projects/p/fedora/language/kk/) | 
+ | [lxde-common](/f38/package/lxde-common) | 0 | 14 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [nutty](/f38/package/nutty) | 0 | 608 | 0.0 |  | 
+ | [optimizer](/f38/package/optimizer) | 0 | 282 | 0.0 | none | 
+ | [phonon-backend-gstreamer](/f38/package/phonon-backend-gstreamer) | 0 | 104 | 0.0 | Kazakh <kde-i18n-doc@kde.org> | 
+ | [pyhoca-gui](/f38/package/pyhoca-gui) | 0 | 1865 | 0.0 | none | 
+ | [python-django-mailman3](/f38/package/python-django-mailman3) | 0 | 355 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [python-fedora](/f38/package/python-fedora) | 0 | 214 | 0.0 | Kazakh | 
+ | [python-hyperkitty](/f38/package/python-hyperkitty) | 0 | 951 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [python-meh](/f38/package/python-meh) | 0 | 109 | 0.0 | Kazakh | 
+ | [python-postorius](/f38/package/python-postorius) | 0 | 5054 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [realmd](/f38/package/realmd) | 0 | 833 | 0.0 | Kazakh (http://www.transifex.com/freedesktop/realmd/language/kk/) | 
+ | [regextester](/f38/package/regextester) | 0 | 104 | 0.0 | none | 
+ | [retrace-server](/f38/package/retrace-server) | 0 | 433 | 0.0 | none | 
+ | [sugar-terminal](/f38/package/sugar-terminal) | 0 | 121 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [wingpanel](/f38/package/wingpanel) | 0 | 16 | 0.0 | none | 
+ | [xfdashboard](/f38/package/xfdashboard) | 0 | 6878 | 0.0 | Kazakh (http://www.transifex.com/xfdashboard/xfdashboard/language/kk/) | 
+ | [zabbix](/f38/package/zabbix) | 0 | 19380 | 0.0 | none | 
 {.sortable}
 
 

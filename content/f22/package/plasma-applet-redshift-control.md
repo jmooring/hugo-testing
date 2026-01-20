@@ -18,9 +18,9 @@ The package plasma-applet-redshift-control (version 1.0.17):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [zh_Hant]({{< ref "/f22/language/zh_Hant.md" >}}) | 62 | 62 | 100.0 | /mnt/stockage/packages/f22/plasma-applet-redshift-control/translations/po/plasma_applet_org.kde.redshiftControl_zh_TW.po | 
- | [cs]({{< ref "/f22/language/cs.md" >}}) | 57 | 62 | 91.9 | /mnt/stockage/packages/f22/plasma-applet-redshift-control/translations/po/plasma_applet_org.kde.redshiftControl_cs.po | 
- | [en]({{< ref "/f22/language/en.md" >}}) | 0 | 62 | 0.0 | /mnt/stockage/packages/f22/plasma-applet-redshift-control/translations/po/plasma_applet_org.kde.redshiftControl_en.po | 
+ | [zh_Hant](/f22/language/zh_Hant) | 62 | 62 | 100.0 | /mnt/stockage/packages/f22/plasma-applet-redshift-control/translations/po/plasma_applet_org.kde.redshiftControl_zh_TW.po | 
+ | [cs](/f22/language/cs) | 57 | 62 | 91.9 | /mnt/stockage/packages/f22/plasma-applet-redshift-control/translations/po/plasma_applet_org.kde.redshiftControl_cs.po | 
+ | [en](/f22/language/en) | 0 | 62 | 0.0 | /mnt/stockage/packages/f22/plasma-applet-redshift-control/translations/po/plasma_applet_org.kde.redshiftControl_en.po | 
 {.sortable}
 
 

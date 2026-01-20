@@ -18,59 +18,59 @@ The package kf5-plasma (version 5.79.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [az]({{< ref "/f33/language/az.md" >}}) | 511 | 511 | 100.0 | /mnt/stockage/packages/f33/kf5-plasma/po/az/libplasma5.po | 
- | [ca]({{< ref "/f33/language/ca.md" >}}) | 511 | 511 | 100.0 | /mnt/stockage/packages/f33/kf5-plasma/po/ca/libplasma5.po | 
- | [en_GB]({{< ref "/f33/language/en_GB.md" >}}) | 511 | 511 | 100.0 | /mnt/stockage/packages/f33/kf5-plasma/po/en_GB/libplasma5.po | 
- | [es]({{< ref "/f33/language/es.md" >}}) | 511 | 511 | 100.0 | /mnt/stockage/packages/f33/kf5-plasma/po/es/libplasma5.po | 
- | [eu]({{< ref "/f33/language/eu.md" >}}) | 511 | 511 | 100.0 | /mnt/stockage/packages/f33/kf5-plasma/po/eu/libplasma5.po | 
- | [fr]({{< ref "/f33/language/fr.md" >}}) | 511 | 511 | 100.0 | /mnt/stockage/packages/f33/kf5-plasma/po/fr/libplasma5.po | 
- | [hu]({{< ref "/f33/language/hu.md" >}}) | 511 | 511 | 100.0 | /mnt/stockage/packages/f33/kf5-plasma/po/hu/libplasma5.po | 
- | [ia]({{< ref "/f33/language/ia.md" >}}) | 511 | 511 | 100.0 | /mnt/stockage/packages/f33/kf5-plasma/po/ia/libplasma5.po | 
- | [it]({{< ref "/f33/language/it.md" >}}) | 511 | 511 | 100.0 | /mnt/stockage/packages/f33/kf5-plasma/po/it/libplasma5.po | 
- | [lt]({{< ref "/f33/language/lt.md" >}}) | 511 | 511 | 100.0 | /mnt/stockage/packages/f33/kf5-plasma/po/lt/libplasma5.po | 
- | [nl]({{< ref "/f33/language/nl.md" >}}) | 511 | 511 | 100.0 | /mnt/stockage/packages/f33/kf5-plasma/po/nl/libplasma5.po | 
- | [nn]({{< ref "/f33/language/nn.md" >}}) | 511 | 511 | 100.0 | /mnt/stockage/packages/f33/kf5-plasma/po/nn/libplasma5.po | 
- | [pl]({{< ref "/f33/language/pl.md" >}}) | 511 | 511 | 100.0 | /mnt/stockage/packages/f33/kf5-plasma/po/pl/libplasma5.po | 
- | [pt]({{< ref "/f33/language/pt.md" >}}) | 511 | 511 | 100.0 | /mnt/stockage/packages/f33/kf5-plasma/po/pt/libplasma5.po | 
- | [pt_BR]({{< ref "/f33/language/pt_BR.md" >}}) | 511 | 511 | 100.0 | /mnt/stockage/packages/f33/kf5-plasma/po/pt_BR/libplasma5.po | 
- | [ru]({{< ref "/f33/language/ru.md" >}}) | 511 | 511 | 100.0 | /mnt/stockage/packages/f33/kf5-plasma/po/ru/libplasma5.po | 
- | [sl]({{< ref "/f33/language/sl.md" >}}) | 511 | 511 | 100.0 | /mnt/stockage/packages/f33/kf5-plasma/po/sl/libplasma5.po | 
- | [sv]({{< ref "/f33/language/sv.md" >}}) | 511 | 511 | 100.0 | /mnt/stockage/packages/f33/kf5-plasma/po/sv/libplasma5.po | 
- | [uk]({{< ref "/f33/language/uk.md" >}}) | 511 | 511 | 100.0 | /mnt/stockage/packages/f33/kf5-plasma/po/uk/libplasma5.po | 
- | [vi]({{< ref "/f33/language/vi.md" >}}) | 511 | 511 | 100.0 | /mnt/stockage/packages/f33/kf5-plasma/po/vi/libplasma5.po | 
- | [fi]({{< ref "/f33/language/fi.md" >}}) | 509 | 511 | 99.6 | /mnt/stockage/packages/f33/kf5-plasma/po/fi/libplasma5.po | 
- | [ro]({{< ref "/f33/language/ro.md" >}}) | 509 | 511 | 99.6 | /mnt/stockage/packages/f33/kf5-plasma/po/ro/libplasma5.po | 
- | [sk]({{< ref "/f33/language/sk.md" >}}) | 509 | 511 | 99.6 | /mnt/stockage/packages/f33/kf5-plasma/po/sk/libplasma5.po | 
- | [zh_Hans]({{< ref "/f33/language/zh_Hans.md" >}}) | 509 | 511 | 99.6 | /mnt/stockage/packages/f33/kf5-plasma/po/zh_CN/libplasma5.po | 
- | [de]({{< ref "/f33/language/de.md" >}}) | 507 | 511 | 99.2 | /mnt/stockage/packages/f33/kf5-plasma/po/de/libplasma5.po | 
- | [et]({{< ref "/f33/language/et.md" >}}) | 507 | 511 | 99.2 | /mnt/stockage/packages/f33/kf5-plasma/po/et/libplasma5.po | 
- | [ko]({{< ref "/f33/language/ko.md" >}}) | 507 | 511 | 99.2 | /mnt/stockage/packages/f33/kf5-plasma/po/ko/libplasma5.po | 
- | [tg]({{< ref "/f33/language/tg.md" >}}) | 507 | 511 | 99.2 | /mnt/stockage/packages/f33/kf5-plasma/po/tg/libplasma5.po | 
- | [da]({{< ref "/f33/language/da.md" >}}) | 501 | 511 | 98.0 | /mnt/stockage/packages/f33/kf5-plasma/po/da/libplasma5.po | 
- | [gl]({{< ref "/f33/language/gl.md" >}}) | 501 | 511 | 98.0 | /mnt/stockage/packages/f33/kf5-plasma/po/gl/libplasma5.po | 
- | [id]({{< ref "/f33/language/id.md" >}}) | 501 | 511 | 98.0 | /mnt/stockage/packages/f33/kf5-plasma/po/id/libplasma5.po | 
- | [lv]({{< ref "/f33/language/lv.md" >}}) | 501 | 511 | 98.0 | /mnt/stockage/packages/f33/kf5-plasma/po/lv/libplasma5.po | 
- | [zh_Hant]({{< ref "/f33/language/zh_Hant.md" >}}) | 501 | 511 | 98.0 | /mnt/stockage/packages/f33/kf5-plasma/po/zh_TW/libplasma5.po | 
- | [ca@valencia]({{< ref "/f33/language/ca@valencia.md" >}}) | 499 | 511 | 97.7 | /mnt/stockage/packages/f33/kf5-plasma/po/ca@valencia/libplasma5.po | 
- | [sr]({{< ref "/f33/language/sr.md" >}}) | 487 | 506 | 96.2 | /mnt/stockage/packages/f33/kf5-plasma/po/sr/libplasma5.po | 
- | [sr@ijekavian]({{< ref "/f33/language/sr@ijekavian.md" >}}) | 487 | 506 | 96.2 | /mnt/stockage/packages/f33/kf5-plasma/po/sr@ijekavian/libplasma5.po | 
- | [sr@ijekavian_Latn]({{< ref "/f33/language/sr@ijekavian_Latn.md" >}}) | 487 | 506 | 96.2 | /mnt/stockage/packages/f33/kf5-plasma/po/sr@ijekavianlatin/libplasma5.po | 
- | [sr_Latn]({{< ref "/f33/language/sr_Latn.md" >}}) | 487 | 506 | 96.2 | /mnt/stockage/packages/f33/kf5-plasma/po/sr@latin/libplasma5.po | 
- | [gd]({{< ref "/f33/language/gd.md" >}}) | 487 | 511 | 95.3 | /mnt/stockage/packages/f33/kf5-plasma/po/gd/libplasma5.po | 
- | [tr]({{< ref "/f33/language/tr.md" >}}) | 487 | 511 | 95.3 | /mnt/stockage/packages/f33/kf5-plasma/po/tr/libplasma5.po | 
- | [el]({{< ref "/f33/language/el.md" >}}) | 473 | 511 | 92.6 | /mnt/stockage/packages/f33/kf5-plasma/po/el/libplasma5.po | 
- | [cs]({{< ref "/f33/language/cs.md" >}}) | 463 | 511 | 90.6 | /mnt/stockage/packages/f33/kf5-plasma/po/cs/libplasma5.po | 
- | [ml]({{< ref "/f33/language/ml.md" >}}) | 462 | 511 | 90.4 | /mnt/stockage/packages/f33/kf5-plasma/po/ml/libplasma5.po | 
- | [nb_NO]({{< ref "/f33/language/nb_NO.md" >}}) | 450 | 511 | 88.1 | /mnt/stockage/packages/f33/kf5-plasma/po/nb/libplasma5.po | 
- | [nds]({{< ref "/f33/language/nds.md" >}}) | 409 | 511 | 80.0 | /mnt/stockage/packages/f33/kf5-plasma/po/nds/libplasma5.po | 
- | [ar]({{< ref "/f33/language/ar.md" >}}) | 380 | 511 | 74.4 | /mnt/stockage/packages/f33/kf5-plasma/po/ar/libplasma5.po | 
- | [pa]({{< ref "/f33/language/pa.md" >}}) | 346 | 511 | 67.7 | /mnt/stockage/packages/f33/kf5-plasma/po/pa/libplasma5.po | 
- | [ja]({{< ref "/f33/language/ja.md" >}}) | 306 | 511 | 59.9 | /mnt/stockage/packages/f33/kf5-plasma/po/ja/libplasma5.po | 
- | [bs]({{< ref "/f33/language/bs.md" >}}) | 226 | 511 | 44.2 | /mnt/stockage/packages/f33/kf5-plasma/po/bs/libplasma5.po | 
- | [ug]({{< ref "/f33/language/ug.md" >}}) | 217 | 511 | 42.5 | /mnt/stockage/packages/f33/kf5-plasma/po/ug/libplasma5.po | 
- | [ast]({{< ref "/f33/language/ast.md" >}}) | 131 | 511 | 25.6 | /mnt/stockage/packages/f33/kf5-plasma/po/ast/libplasma5.po | 
- | [he]({{< ref "/f33/language/he.md" >}}) | 116 | 511 | 22.7 | /mnt/stockage/packages/f33/kf5-plasma/po/he/libplasma5.po | 
- | [mr]({{< ref "/f33/language/mr.md" >}}) | 36 | 511 | 7.0 | /mnt/stockage/packages/f33/kf5-plasma/po/mr/libplasma5.po | 
+ | [az](/f33/language/az) | 511 | 511 | 100.0 | /mnt/stockage/packages/f33/kf5-plasma/po/az/libplasma5.po | 
+ | [ca](/f33/language/ca) | 511 | 511 | 100.0 | /mnt/stockage/packages/f33/kf5-plasma/po/ca/libplasma5.po | 
+ | [en_GB](/f33/language/en_GB) | 511 | 511 | 100.0 | /mnt/stockage/packages/f33/kf5-plasma/po/en_GB/libplasma5.po | 
+ | [es](/f33/language/es) | 511 | 511 | 100.0 | /mnt/stockage/packages/f33/kf5-plasma/po/es/libplasma5.po | 
+ | [eu](/f33/language/eu) | 511 | 511 | 100.0 | /mnt/stockage/packages/f33/kf5-plasma/po/eu/libplasma5.po | 
+ | [fr](/f33/language/fr) | 511 | 511 | 100.0 | /mnt/stockage/packages/f33/kf5-plasma/po/fr/libplasma5.po | 
+ | [hu](/f33/language/hu) | 511 | 511 | 100.0 | /mnt/stockage/packages/f33/kf5-plasma/po/hu/libplasma5.po | 
+ | [ia](/f33/language/ia) | 511 | 511 | 100.0 | /mnt/stockage/packages/f33/kf5-plasma/po/ia/libplasma5.po | 
+ | [it](/f33/language/it) | 511 | 511 | 100.0 | /mnt/stockage/packages/f33/kf5-plasma/po/it/libplasma5.po | 
+ | [lt](/f33/language/lt) | 511 | 511 | 100.0 | /mnt/stockage/packages/f33/kf5-plasma/po/lt/libplasma5.po | 
+ | [nl](/f33/language/nl) | 511 | 511 | 100.0 | /mnt/stockage/packages/f33/kf5-plasma/po/nl/libplasma5.po | 
+ | [nn](/f33/language/nn) | 511 | 511 | 100.0 | /mnt/stockage/packages/f33/kf5-plasma/po/nn/libplasma5.po | 
+ | [pl](/f33/language/pl) | 511 | 511 | 100.0 | /mnt/stockage/packages/f33/kf5-plasma/po/pl/libplasma5.po | 
+ | [pt](/f33/language/pt) | 511 | 511 | 100.0 | /mnt/stockage/packages/f33/kf5-plasma/po/pt/libplasma5.po | 
+ | [pt_BR](/f33/language/pt_BR) | 511 | 511 | 100.0 | /mnt/stockage/packages/f33/kf5-plasma/po/pt_BR/libplasma5.po | 
+ | [ru](/f33/language/ru) | 511 | 511 | 100.0 | /mnt/stockage/packages/f33/kf5-plasma/po/ru/libplasma5.po | 
+ | [sl](/f33/language/sl) | 511 | 511 | 100.0 | /mnt/stockage/packages/f33/kf5-plasma/po/sl/libplasma5.po | 
+ | [sv](/f33/language/sv) | 511 | 511 | 100.0 | /mnt/stockage/packages/f33/kf5-plasma/po/sv/libplasma5.po | 
+ | [uk](/f33/language/uk) | 511 | 511 | 100.0 | /mnt/stockage/packages/f33/kf5-plasma/po/uk/libplasma5.po | 
+ | [vi](/f33/language/vi) | 511 | 511 | 100.0 | /mnt/stockage/packages/f33/kf5-plasma/po/vi/libplasma5.po | 
+ | [fi](/f33/language/fi) | 509 | 511 | 99.6 | /mnt/stockage/packages/f33/kf5-plasma/po/fi/libplasma5.po | 
+ | [ro](/f33/language/ro) | 509 | 511 | 99.6 | /mnt/stockage/packages/f33/kf5-plasma/po/ro/libplasma5.po | 
+ | [sk](/f33/language/sk) | 509 | 511 | 99.6 | /mnt/stockage/packages/f33/kf5-plasma/po/sk/libplasma5.po | 
+ | [zh_Hans](/f33/language/zh_Hans) | 509 | 511 | 99.6 | /mnt/stockage/packages/f33/kf5-plasma/po/zh_CN/libplasma5.po | 
+ | [de](/f33/language/de) | 507 | 511 | 99.2 | /mnt/stockage/packages/f33/kf5-plasma/po/de/libplasma5.po | 
+ | [et](/f33/language/et) | 507 | 511 | 99.2 | /mnt/stockage/packages/f33/kf5-plasma/po/et/libplasma5.po | 
+ | [ko](/f33/language/ko) | 507 | 511 | 99.2 | /mnt/stockage/packages/f33/kf5-plasma/po/ko/libplasma5.po | 
+ | [tg](/f33/language/tg) | 507 | 511 | 99.2 | /mnt/stockage/packages/f33/kf5-plasma/po/tg/libplasma5.po | 
+ | [da](/f33/language/da) | 501 | 511 | 98.0 | /mnt/stockage/packages/f33/kf5-plasma/po/da/libplasma5.po | 
+ | [gl](/f33/language/gl) | 501 | 511 | 98.0 | /mnt/stockage/packages/f33/kf5-plasma/po/gl/libplasma5.po | 
+ | [id](/f33/language/id) | 501 | 511 | 98.0 | /mnt/stockage/packages/f33/kf5-plasma/po/id/libplasma5.po | 
+ | [lv](/f33/language/lv) | 501 | 511 | 98.0 | /mnt/stockage/packages/f33/kf5-plasma/po/lv/libplasma5.po | 
+ | [zh_Hant](/f33/language/zh_Hant) | 501 | 511 | 98.0 | /mnt/stockage/packages/f33/kf5-plasma/po/zh_TW/libplasma5.po | 
+ | [ca@valencia](/f33/language/ca@valencia) | 499 | 511 | 97.7 | /mnt/stockage/packages/f33/kf5-plasma/po/ca@valencia/libplasma5.po | 
+ | [sr](/f33/language/sr) | 487 | 506 | 96.2 | /mnt/stockage/packages/f33/kf5-plasma/po/sr/libplasma5.po | 
+ | [sr@ijekavian](/f33/language/sr@ijekavian) | 487 | 506 | 96.2 | /mnt/stockage/packages/f33/kf5-plasma/po/sr@ijekavian/libplasma5.po | 
+ | [sr@ijekavian_Latn](/f33/language/sr@ijekavian_Latn) | 487 | 506 | 96.2 | /mnt/stockage/packages/f33/kf5-plasma/po/sr@ijekavianlatin/libplasma5.po | 
+ | [sr_Latn](/f33/language/sr_Latn) | 487 | 506 | 96.2 | /mnt/stockage/packages/f33/kf5-plasma/po/sr@latin/libplasma5.po | 
+ | [gd](/f33/language/gd) | 487 | 511 | 95.3 | /mnt/stockage/packages/f33/kf5-plasma/po/gd/libplasma5.po | 
+ | [tr](/f33/language/tr) | 487 | 511 | 95.3 | /mnt/stockage/packages/f33/kf5-plasma/po/tr/libplasma5.po | 
+ | [el](/f33/language/el) | 473 | 511 | 92.6 | /mnt/stockage/packages/f33/kf5-plasma/po/el/libplasma5.po | 
+ | [cs](/f33/language/cs) | 463 | 511 | 90.6 | /mnt/stockage/packages/f33/kf5-plasma/po/cs/libplasma5.po | 
+ | [ml](/f33/language/ml) | 462 | 511 | 90.4 | /mnt/stockage/packages/f33/kf5-plasma/po/ml/libplasma5.po | 
+ | [nb_NO](/f33/language/nb_NO) | 450 | 511 | 88.1 | /mnt/stockage/packages/f33/kf5-plasma/po/nb/libplasma5.po | 
+ | [nds](/f33/language/nds) | 409 | 511 | 80.0 | /mnt/stockage/packages/f33/kf5-plasma/po/nds/libplasma5.po | 
+ | [ar](/f33/language/ar) | 380 | 511 | 74.4 | /mnt/stockage/packages/f33/kf5-plasma/po/ar/libplasma5.po | 
+ | [pa](/f33/language/pa) | 346 | 511 | 67.7 | /mnt/stockage/packages/f33/kf5-plasma/po/pa/libplasma5.po | 
+ | [ja](/f33/language/ja) | 306 | 511 | 59.9 | /mnt/stockage/packages/f33/kf5-plasma/po/ja/libplasma5.po | 
+ | [bs](/f33/language/bs) | 226 | 511 | 44.2 | /mnt/stockage/packages/f33/kf5-plasma/po/bs/libplasma5.po | 
+ | [ug](/f33/language/ug) | 217 | 511 | 42.5 | /mnt/stockage/packages/f33/kf5-plasma/po/ug/libplasma5.po | 
+ | [ast](/f33/language/ast) | 131 | 511 | 25.6 | /mnt/stockage/packages/f33/kf5-plasma/po/ast/libplasma5.po | 
+ | [he](/f33/language/he) | 116 | 511 | 22.7 | /mnt/stockage/packages/f33/kf5-plasma/po/he/libplasma5.po | 
+ | [mr](/f33/language/mr) | 36 | 511 | 7.0 | /mnt/stockage/packages/f33/kf5-plasma/po/mr/libplasma5.po | 
 {.sortable}
 
 

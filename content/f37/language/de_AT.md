@@ -38,15 +38,15 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [perl-libintl-perl]({{< ref "/f37/package/perl-libintl-perl.md" >}}) | 3 | 3 | 100.0 | German <de@li.org> | 
- | [texinfo]({{< ref "/f37/package/texinfo.md" >}}) | 3 | 3 | 100.0 | German <de@li.org> | 
- | [ganyremote]({{< ref "/f37/package/ganyremote.md" >}}) | 485 | 507 | 95.7 | Austrian | 
- | [kanyremote]({{< ref "/f37/package/kanyremote.md" >}}) | 470 | 497 | 94.6 | Austrian | 
- | [duplicity]({{< ref "/f37/package/duplicity.md" >}}) | 1937 | 2317 | 83.6 | German, Austria | 
- | [fuse-encfs]({{< ref "/f37/package/fuse-encfs.md" >}}) | 1041 | 1289 | 80.8 | German (Austria) <de_AT@li.org> | 
- | [pingus]({{< ref "/f37/package/pingus.md" >}}) | 17 | 25 | 68.0 | LANGUAGE <LL@li.org> | 
- | [supertux]({{< ref "/f37/package/supertux.md" >}}) | 17 | 25 | 68.0 | LANGUAGE <LL@li.org> | 
- | [texi2html]({{< ref "/f37/package/texi2html.md" >}}) | 5 | 1665 | 0.3 | German <guido@imperia.net> | 
+ | [perl-libintl-perl](/f37/package/perl-libintl-perl) | 3 | 3 | 100.0 | German <de@li.org> | 
+ | [texinfo](/f37/package/texinfo) | 3 | 3 | 100.0 | German <de@li.org> | 
+ | [ganyremote](/f37/package/ganyremote) | 485 | 507 | 95.7 | Austrian | 
+ | [kanyremote](/f37/package/kanyremote) | 470 | 497 | 94.6 | Austrian | 
+ | [duplicity](/f37/package/duplicity) | 1937 | 2317 | 83.6 | German, Austria | 
+ | [fuse-encfs](/f37/package/fuse-encfs) | 1041 | 1289 | 80.8 | German (Austria) <de_AT@li.org> | 
+ | [pingus](/f37/package/pingus) | 17 | 25 | 68.0 | LANGUAGE <LL@li.org> | 
+ | [supertux](/f37/package/supertux) | 17 | 25 | 68.0 | LANGUAGE <LL@li.org> | 
+ | [texi2html](/f37/package/texi2html) | 5 | 1665 | 0.3 | German <guido@imperia.net> | 
 {.sortable}
 
 

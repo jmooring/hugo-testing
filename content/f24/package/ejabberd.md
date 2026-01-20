@@ -18,32 +18,32 @@ The package ejabberd (version 16.01):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [he]({{< ref "/f24/language/he.md" >}}) | 1899 | 1899 | 100.0 | /mnt/stockage/packages/f24/ejabberd/priv/msgs/he.po | 
- | [de]({{< ref "/f24/language/de.md" >}}) | 1839 | 1898 | 96.9 | /mnt/stockage/packages/f24/ejabberd/priv/msgs/de.po | 
- | [en_US]({{< ref "/f24/language/en_US.md" >}}) | 1839 | 1898 | 96.9 | /mnt/stockage/packages/f24/ejabberd/priv/msgs/ca.po | 
- | [eo]({{< ref "/f24/language/eo.md" >}}) | 1839 | 1898 | 96.9 | /mnt/stockage/packages/f24/ejabberd/priv/msgs/eo.po | 
- | [es]({{< ref "/f24/language/es.md" >}}) | 1839 | 1898 | 96.9 | /mnt/stockage/packages/f24/ejabberd/priv/msgs/es.po | 
- | [ja]({{< ref "/f24/language/ja.md" >}}) | 1839 | 1898 | 96.9 | /mnt/stockage/packages/f24/ejabberd/priv/msgs/ja.po | 
- | [nl]({{< ref "/f24/language/nl.md" >}}) | 1839 | 1898 | 96.9 | /mnt/stockage/packages/f24/ejabberd/priv/msgs/nl.po | 
- | [pl]({{< ref "/f24/language/pl.md" >}}) | 1839 | 1898 | 96.9 | /mnt/stockage/packages/f24/ejabberd/priv/msgs/pl.po | 
- | [pt_BR]({{< ref "/f24/language/pt_BR.md" >}}) | 1839 | 1898 | 96.9 | /mnt/stockage/packages/f24/ejabberd/priv/msgs/pt-br.po | 
- | [ru]({{< ref "/f24/language/ru.md" >}}) | 1839 | 1898 | 96.9 | /mnt/stockage/packages/f24/ejabberd/priv/msgs/ru.po | 
- | [fr]({{< ref "/f24/language/fr.md" >}}) | 1803 | 1898 | 95.0 | /mnt/stockage/packages/f24/ejabberd/priv/msgs/fr.po | 
- | [cs]({{< ref "/f24/language/cs.md" >}}) | 1767 | 1898 | 93.1 | /mnt/stockage/packages/f24/ejabberd/priv/msgs/cs.po | 
- | [el]({{< ref "/f24/language/el.md" >}}) | 1767 | 1898 | 93.1 | /mnt/stockage/packages/f24/ejabberd/priv/msgs/el.po | 
- | [it]({{< ref "/f24/language/it.md" >}}) | 1767 | 1898 | 93.1 | /mnt/stockage/packages/f24/ejabberd/priv/msgs/it.po | 
- | [nb_NO]({{< ref "/f24/language/nb_NO.md" >}}) | 1767 | 1898 | 93.1 | /mnt/stockage/packages/f24/ejabberd/priv/msgs/no.po | 
- | [tr]({{< ref "/f24/language/tr.md" >}}) | 1767 | 1898 | 93.1 | /mnt/stockage/packages/f24/ejabberd/priv/msgs/tr.po | 
- | [zh_Hans]({{< ref "/f24/language/zh_Hans.md" >}}) | 1767 | 1898 | 93.1 | /mnt/stockage/packages/f24/ejabberd/priv/msgs/zh.po | 
- | [sk]({{< ref "/f24/language/sk.md" >}}) | 1766 | 1898 | 93.0 | /mnt/stockage/packages/f24/ejabberd/priv/msgs/sk.po | 
- | [uk]({{< ref "/f24/language/uk.md" >}}) | 1698 | 1898 | 89.5 | /mnt/stockage/packages/f24/ejabberd/priv/msgs/uk.po | 
- | [id]({{< ref "/f24/language/id.md" >}}) | 1688 | 1898 | 88.9 | /mnt/stockage/packages/f24/ejabberd/priv/msgs/id.po | 
- | [gl]({{< ref "/f24/language/gl.md" >}}) | 1401 | 1898 | 73.8 | /mnt/stockage/packages/f24/ejabberd/priv/msgs/gl.po | 
- | [sv]({{< ref "/f24/language/sv.md" >}}) | 1328 | 1898 | 70.0 | /mnt/stockage/packages/f24/ejabberd/priv/msgs/sv.po | 
- | [wa]({{< ref "/f24/language/wa.md" >}}) | 1070 | 1898 | 56.4 | /mnt/stockage/packages/f24/ejabberd/priv/msgs/wa.po | 
- | [th]({{< ref "/f24/language/th.md" >}}) | 993 | 1898 | 52.3 | /mnt/stockage/packages/f24/ejabberd/priv/msgs/th.po | 
- | [vi]({{< ref "/f24/language/vi.md" >}}) | 993 | 1898 | 52.3 | /mnt/stockage/packages/f24/ejabberd/priv/msgs/vi.po | 
- | [pt]({{< ref "/f24/language/pt.md" >}}) | 432 | 1898 | 22.8 | /mnt/stockage/packages/f24/ejabberd/priv/msgs/pt.po | 
+ | [he](/f24/language/he) | 1899 | 1899 | 100.0 | /mnt/stockage/packages/f24/ejabberd/priv/msgs/he.po | 
+ | [de](/f24/language/de) | 1839 | 1898 | 96.9 | /mnt/stockage/packages/f24/ejabberd/priv/msgs/de.po | 
+ | [en_US](/f24/language/en_US) | 1839 | 1898 | 96.9 | /mnt/stockage/packages/f24/ejabberd/priv/msgs/ca.po | 
+ | [eo](/f24/language/eo) | 1839 | 1898 | 96.9 | /mnt/stockage/packages/f24/ejabberd/priv/msgs/eo.po | 
+ | [es](/f24/language/es) | 1839 | 1898 | 96.9 | /mnt/stockage/packages/f24/ejabberd/priv/msgs/es.po | 
+ | [ja](/f24/language/ja) | 1839 | 1898 | 96.9 | /mnt/stockage/packages/f24/ejabberd/priv/msgs/ja.po | 
+ | [nl](/f24/language/nl) | 1839 | 1898 | 96.9 | /mnt/stockage/packages/f24/ejabberd/priv/msgs/nl.po | 
+ | [pl](/f24/language/pl) | 1839 | 1898 | 96.9 | /mnt/stockage/packages/f24/ejabberd/priv/msgs/pl.po | 
+ | [pt_BR](/f24/language/pt_BR) | 1839 | 1898 | 96.9 | /mnt/stockage/packages/f24/ejabberd/priv/msgs/pt-br.po | 
+ | [ru](/f24/language/ru) | 1839 | 1898 | 96.9 | /mnt/stockage/packages/f24/ejabberd/priv/msgs/ru.po | 
+ | [fr](/f24/language/fr) | 1803 | 1898 | 95.0 | /mnt/stockage/packages/f24/ejabberd/priv/msgs/fr.po | 
+ | [cs](/f24/language/cs) | 1767 | 1898 | 93.1 | /mnt/stockage/packages/f24/ejabberd/priv/msgs/cs.po | 
+ | [el](/f24/language/el) | 1767 | 1898 | 93.1 | /mnt/stockage/packages/f24/ejabberd/priv/msgs/el.po | 
+ | [it](/f24/language/it) | 1767 | 1898 | 93.1 | /mnt/stockage/packages/f24/ejabberd/priv/msgs/it.po | 
+ | [nb_NO](/f24/language/nb_NO) | 1767 | 1898 | 93.1 | /mnt/stockage/packages/f24/ejabberd/priv/msgs/no.po | 
+ | [tr](/f24/language/tr) | 1767 | 1898 | 93.1 | /mnt/stockage/packages/f24/ejabberd/priv/msgs/tr.po | 
+ | [zh_Hans](/f24/language/zh_Hans) | 1767 | 1898 | 93.1 | /mnt/stockage/packages/f24/ejabberd/priv/msgs/zh.po | 
+ | [sk](/f24/language/sk) | 1766 | 1898 | 93.0 | /mnt/stockage/packages/f24/ejabberd/priv/msgs/sk.po | 
+ | [uk](/f24/language/uk) | 1698 | 1898 | 89.5 | /mnt/stockage/packages/f24/ejabberd/priv/msgs/uk.po | 
+ | [id](/f24/language/id) | 1688 | 1898 | 88.9 | /mnt/stockage/packages/f24/ejabberd/priv/msgs/id.po | 
+ | [gl](/f24/language/gl) | 1401 | 1898 | 73.8 | /mnt/stockage/packages/f24/ejabberd/priv/msgs/gl.po | 
+ | [sv](/f24/language/sv) | 1328 | 1898 | 70.0 | /mnt/stockage/packages/f24/ejabberd/priv/msgs/sv.po | 
+ | [wa](/f24/language/wa) | 1070 | 1898 | 56.4 | /mnt/stockage/packages/f24/ejabberd/priv/msgs/wa.po | 
+ | [th](/f24/language/th) | 993 | 1898 | 52.3 | /mnt/stockage/packages/f24/ejabberd/priv/msgs/th.po | 
+ | [vi](/f24/language/vi) | 993 | 1898 | 52.3 | /mnt/stockage/packages/f24/ejabberd/priv/msgs/vi.po | 
+ | [pt](/f24/language/pt) | 432 | 1898 | 22.8 | /mnt/stockage/packages/f24/ejabberd/priv/msgs/pt.po | 
 {.sortable}
 
 

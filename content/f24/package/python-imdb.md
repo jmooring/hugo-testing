@@ -18,14 +18,14 @@ The package python-imdb (version 5.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [en]({{< ref "/f24/language/en.md" >}}) | 310 | 310 | 100.0 | /mnt/stockage/packages/f24/python-imdb/imdb/locale/imdbpy-en.po | 
- | [es]({{< ref "/f24/language/es.md" >}}) | 321 | 321 | 100.0 | /mnt/stockage/packages/f24/python-imdb/imdb/locale/imdbpy-es.po | 
- | [it]({{< ref "/f24/language/it.md" >}}) | 297 | 321 | 92.5 | /mnt/stockage/packages/f24/python-imdb/imdb/locale/imdbpy-it.po | 
- | [tr]({{< ref "/f24/language/tr.md" >}}) | 245 | 321 | 76.3 | /mnt/stockage/packages/f24/python-imdb/imdb/locale/imdbpy-tr.po | 
- | [bg]({{< ref "/f24/language/bg.md" >}}) | 113 | 321 | 35.2 | /mnt/stockage/packages/f24/python-imdb/imdb/locale/imdbpy-bg.po | 
- | [fr]({{< ref "/f24/language/fr.md" >}}) | 75 | 321 | 23.4 | /mnt/stockage/packages/f24/python-imdb/imdb/locale/imdbpy-fr.po | 
- | [ar]({{< ref "/f24/language/ar.md" >}}) | 71 | 321 | 22.1 | /mnt/stockage/packages/f24/python-imdb/imdb/locale/imdbpy-ar.po | 
- | [de]({{< ref "/f24/language/de.md" >}}) | 43 | 321 | 13.4 | /mnt/stockage/packages/f24/python-imdb/imdb/locale/imdbpy-de.po | 
+ | [en](/f24/language/en) | 310 | 310 | 100.0 | /mnt/stockage/packages/f24/python-imdb/imdb/locale/imdbpy-en.po | 
+ | [es](/f24/language/es) | 321 | 321 | 100.0 | /mnt/stockage/packages/f24/python-imdb/imdb/locale/imdbpy-es.po | 
+ | [it](/f24/language/it) | 297 | 321 | 92.5 | /mnt/stockage/packages/f24/python-imdb/imdb/locale/imdbpy-it.po | 
+ | [tr](/f24/language/tr) | 245 | 321 | 76.3 | /mnt/stockage/packages/f24/python-imdb/imdb/locale/imdbpy-tr.po | 
+ | [bg](/f24/language/bg) | 113 | 321 | 35.2 | /mnt/stockage/packages/f24/python-imdb/imdb/locale/imdbpy-bg.po | 
+ | [fr](/f24/language/fr) | 75 | 321 | 23.4 | /mnt/stockage/packages/f24/python-imdb/imdb/locale/imdbpy-fr.po | 
+ | [ar](/f24/language/ar) | 71 | 321 | 22.1 | /mnt/stockage/packages/f24/python-imdb/imdb/locale/imdbpy-ar.po | 
+ | [de](/f24/language/de) | 43 | 321 | 13.4 | /mnt/stockage/packages/f24/python-imdb/imdb/locale/imdbpy-de.po | 
 {.sortable}
 
 

@@ -18,92 +18,92 @@ The package sugar-pippy (version 48):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f16/language/ar.md" >}}) | 109 | 109 | 100.0 | /mnt/stockage/packages/f16/sugar-pippy/po/ar.po | 
- | [da]({{< ref "/f16/language/da.md" >}}) | 109 | 109 | 100.0 | /mnt/stockage/packages/f16/sugar-pippy/po/da.po | 
- | [de]({{< ref "/f16/language/de.md" >}}) | 109 | 109 | 100.0 | /mnt/stockage/packages/f16/sugar-pippy/po/de.po | 
- | [el]({{< ref "/f16/language/el.md" >}}) | 109 | 109 | 100.0 | /mnt/stockage/packages/f16/sugar-pippy/po/el.po | 
- | [en]({{< ref "/f16/language/en.md" >}}) | 109 | 109 | 100.0 | /mnt/stockage/packages/f16/sugar-pippy/po/en.po | 
- | [en_GB]({{< ref "/f16/language/en_GB.md" >}}) | 109 | 109 | 100.0 | /mnt/stockage/packages/f16/sugar-pippy/po/en_GB.po | 
- | [en_US]({{< ref "/f16/language/en_US.md" >}}) | 109 | 109 | 100.0 | /mnt/stockage/packages/f16/sugar-pippy/po/en_US.po | 
- | [es]({{< ref "/f16/language/es.md" >}}) | 109 | 109 | 100.0 | /mnt/stockage/packages/f16/sugar-pippy/po/es.po | 
- | [fr]({{< ref "/f16/language/fr.md" >}}) | 109 | 109 | 100.0 | /mnt/stockage/packages/f16/sugar-pippy/po/fr.po | 
- | [hi]({{< ref "/f16/language/hi.md" >}}) | 109 | 109 | 100.0 | /mnt/stockage/packages/f16/sugar-pippy/po/hi.po | 
- | [hus]({{< ref "/f16/language/hus.md" >}}) | 109 | 109 | 100.0 | /mnt/stockage/packages/f16/sugar-pippy/po/hus.po | 
- | [hy]({{< ref "/f16/language/hy.md" >}}) | 109 | 109 | 100.0 | /mnt/stockage/packages/f16/sugar-pippy/po/hy.po | 
- | [ne]({{< ref "/f16/language/ne.md" >}}) | 109 | 109 | 100.0 | /mnt/stockage/packages/f16/sugar-pippy/po/ne.po | 
- | [nl]({{< ref "/f16/language/nl.md" >}}) | 109 | 109 | 100.0 | /mnt/stockage/packages/f16/sugar-pippy/po/nl.po | 
- | [pl]({{< ref "/f16/language/pl.md" >}}) | 109 | 109 | 100.0 | /mnt/stockage/packages/f16/sugar-pippy/po/pl.po | 
- | [pt]({{< ref "/f16/language/pt.md" >}}) | 109 | 109 | 100.0 | /mnt/stockage/packages/f16/sugar-pippy/po/pt.po | 
- | [qu]({{< ref "/f16/language/qu.md" >}}) | 109 | 109 | 100.0 | /mnt/stockage/packages/f16/sugar-pippy/po/quz.po | 
- | [sl]({{< ref "/f16/language/sl.md" >}}) | 109 | 109 | 100.0 | /mnt/stockage/packages/f16/sugar-pippy/po/sl.po | 
- | [sr]({{< ref "/f16/language/sr.md" >}}) | 109 | 109 | 100.0 | /mnt/stockage/packages/f16/sugar-pippy/po/sr.po | 
- | [ta]({{< ref "/f16/language/ta.md" >}}) | 109 | 109 | 100.0 | /mnt/stockage/packages/f16/sugar-pippy/po/ta.po | 
- | [th]({{< ref "/f16/language/th.md" >}}) | 109 | 109 | 100.0 | /mnt/stockage/packages/f16/sugar-pippy/po/th.po | 
- | [zh_Hans]({{< ref "/f16/language/zh_Hans.md" >}}) | 109 | 109 | 100.0 | /mnt/stockage/packages/f16/sugar-pippy/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f16/language/zh_Hant.md" >}}) | 109 | 109 | 100.0 | /mnt/stockage/packages/f16/sugar-pippy/po/zh_TW.po | 
- | [ay]({{< ref "/f16/language/ay.md" >}}) | 98 | 109 | 89.9 | /mnt/stockage/packages/f16/sugar-pippy/po/aym.po | 
- | [ru]({{< ref "/f16/language/ru.md" >}}) | 96 | 109 | 88.1 | /mnt/stockage/packages/f16/sugar-pippy/po/ru.po | 
- | [si]({{< ref "/f16/language/si.md" >}}) | 59 | 109 | 54.1 | /mnt/stockage/packages/f16/sugar-pippy/po/si.po | 
- | [to]({{< ref "/f16/language/to.md" >}}) | 55 | 109 | 50.5 | /mnt/stockage/packages/f16/sugar-pippy/po/to.po | 
- | [mg]({{< ref "/f16/language/mg.md" >}}) | 47 | 109 | 43.1 | /mnt/stockage/packages/f16/sugar-pippy/po/mg.po | 
- | [tr]({{< ref "/f16/language/tr.md" >}}) | 46 | 109 | 42.2 | /mnt/stockage/packages/f16/sugar-pippy/po/tr.po | 
- | [rw]({{< ref "/f16/language/rw.md" >}}) | 45 | 109 | 41.3 | /mnt/stockage/packages/f16/sugar-pippy/po/rw.po | 
- | [mn]({{< ref "/f16/language/mn.md" >}}) | 43 | 109 | 39.4 | /mnt/stockage/packages/f16/sugar-pippy/po/mn.po | 
- | [ca]({{< ref "/f16/language/ca.md" >}}) | 41 | 109 | 37.6 | /mnt/stockage/packages/f16/sugar-pippy/po/ca.po | 
- | [ht]({{< ref "/f16/language/ht.md" >}}) | 41 | 109 | 37.6 | /mnt/stockage/packages/f16/sugar-pippy/po/ht.po | 
- | [it]({{< ref "/f16/language/it.md" >}}) | 41 | 109 | 37.6 | /mnt/stockage/packages/f16/sugar-pippy/po/it.po | 
- | [ja]({{< ref "/f16/language/ja.md" >}}) | 41 | 109 | 37.6 | /mnt/stockage/packages/f16/sugar-pippy/po/ja.po | 
- | [ko]({{< ref "/f16/language/ko.md" >}}) | 41 | 109 | 37.6 | /mnt/stockage/packages/f16/sugar-pippy/po/ko.po | 
- | [mr]({{< ref "/f16/language/mr.md" >}}) | 41 | 109 | 37.6 | /mnt/stockage/packages/f16/sugar-pippy/po/mr.po | 
- | [pap]({{< ref "/f16/language/pap.md" >}}) | 41 | 109 | 37.6 | /mnt/stockage/packages/f16/sugar-pippy/po/pap.po | 
- | [prs]({{< ref "/f16/language/prs.md" >}}) | 41 | 109 | 37.6 | /mnt/stockage/packages/f16/sugar-pippy/po/fa_AF.po | 
- | [ps]({{< ref "/f16/language/ps.md" >}}) | 41 | 109 | 37.6 | /mnt/stockage/packages/f16/sugar-pippy/po/ps.po | 
- | [pt_BR]({{< ref "/f16/language/pt_BR.md" >}}) | 41 | 109 | 37.6 | /mnt/stockage/packages/f16/sugar-pippy/po/pt_BR.po | 
- | [sv]({{< ref "/f16/language/sv.md" >}}) | 41 | 109 | 37.6 | /mnt/stockage/packages/f16/sugar-pippy/po/sv.po | 
- | [te]({{< ref "/f16/language/te.md" >}}) | 41 | 109 | 37.6 | /mnt/stockage/packages/f16/sugar-pippy/po/te.po | 
- | [vi]({{< ref "/f16/language/vi.md" >}}) | 41 | 109 | 37.6 | /mnt/stockage/packages/f16/sugar-pippy/po/vi.po | 
- | [bn]({{< ref "/f16/language/bn.md" >}}) | 40 | 109 | 36.7 | /mnt/stockage/packages/f16/sugar-pippy/po/bn.po | 
- | [ur]({{< ref "/f16/language/ur.md" >}}) | 40 | 109 | 36.7 | /mnt/stockage/packages/f16/sugar-pippy/po/ur.po | 
- | [ro]({{< ref "/f16/language/ro.md" >}}) | 35 | 109 | 32.1 | /mnt/stockage/packages/f16/sugar-pippy/po/ro.po | 
- | [bn_IN]({{< ref "/f16/language/bn_IN.md" >}}) | 32 | 109 | 29.4 | /mnt/stockage/packages/f16/sugar-pippy/po/bn_IN.po | 
- | [mk]({{< ref "/f16/language/mk.md" >}}) | 32 | 109 | 29.4 | /mnt/stockage/packages/f16/sugar-pippy/po/mk.po | 
- | [sq]({{< ref "/f16/language/sq.md" >}}) | 32 | 109 | 29.4 | /mnt/stockage/packages/f16/sugar-pippy/po/sq.po | 
- | [fa]({{< ref "/f16/language/fa.md" >}}) | 31 | 109 | 28.4 | /mnt/stockage/packages/f16/sugar-pippy/po/fa.po | 
- | [km]({{< ref "/f16/language/km.md" >}}) | 29 | 109 | 26.6 | /mnt/stockage/packages/f16/sugar-pippy/po/km.po | 
- | [error]({{< ref "/f16/language/error.md" >}}) | 98 | 379 | 25.9 | /mnt/stockage/packages/f16/sugar-pippy/po/mvo.po/mnt/stockage/packages/f16/sugar-pippy/po/pseudo.po/mnt/stockage/packages/f16/sugar-pippy/po/tzo.po/mnt/stockage/packages/f16/sugar-pippy/po/pbs.po | 
- | [bg]({{< ref "/f16/language/bg.md" >}}) | 27 | 109 | 24.8 | /mnt/stockage/packages/f16/sugar-pippy/po/bg.po | 
- | [hu]({{< ref "/f16/language/hu.md" >}}) | 24 | 109 | 22.0 | /mnt/stockage/packages/f16/sugar-pippy/po/hu.po | 
- | [nb_NO]({{< ref "/f16/language/nb_NO.md" >}}) | 21 | 109 | 19.3 | /mnt/stockage/packages/f16/sugar-pippy/po/nb.po | 
- | [sk]({{< ref "/f16/language/sk.md" >}}) | 16 | 109 | 14.7 | /mnt/stockage/packages/f16/sugar-pippy/po/sk.po | 
- | [fil]({{< ref "/f16/language/fil.md" >}}) | 11 | 109 | 10.1 | /mnt/stockage/packages/f16/sugar-pippy/po/fil.po | 
- | [am]({{< ref "/f16/language/am.md" >}}) | 7 | 109 | 6.4 | /mnt/stockage/packages/f16/sugar-pippy/po/am.po | 
- | [br]({{< ref "/f16/language/br.md" >}}) | 6 | 109 | 5.5 | /mnt/stockage/packages/f16/sugar-pippy/po/br.po | 
- | [cs]({{< ref "/f16/language/cs.md" >}}) | 6 | 109 | 5.5 | /mnt/stockage/packages/f16/sugar-pippy/po/cs.po | 
- | [tzm]({{< ref "/f16/language/tzm.md" >}}) | 5 | 109 | 4.6 | /mnt/stockage/packages/f16/sugar-pippy/po/tzm.po | 
- | [dz]({{< ref "/f16/language/dz.md" >}}) | 2 | 109 | 1.8 | /mnt/stockage/packages/f16/sugar-pippy/po/dz.po | 
- | [is]({{< ref "/f16/language/is.md" >}}) | 2 | 109 | 1.8 | /mnt/stockage/packages/f16/sugar-pippy/po/is.po | 
- | [sw]({{< ref "/f16/language/sw.md" >}}) | 2 | 109 | 1.8 | /mnt/stockage/packages/f16/sugar-pippy/po/sw.po | 
- | [ug]({{< ref "/f16/language/ug.md" >}}) | 2 | 109 | 1.8 | /mnt/stockage/packages/f16/sugar-pippy/po/ug.po | 
- | [af]({{< ref "/f16/language/af.md" >}}) | 1 | 109 | 0.9 | /mnt/stockage/packages/f16/sugar-pippy/po/af.po | 
- | [id]({{< ref "/f16/language/id.md" >}}) | 1 | 109 | 0.9 | /mnt/stockage/packages/f16/sugar-pippy/po/id.po | 
- | [lt]({{< ref "/f16/language/lt.md" >}}) | 1 | 109 | 0.9 | /mnt/stockage/packages/f16/sugar-pippy/po/lt.po | 
- | [bi]({{< ref "/f16/language/bi.md" >}}) | 0 | 109 | 0.0 | /mnt/stockage/packages/f16/sugar-pippy/po/bi.po | 
- | [cpp]({{< ref "/f16/language/cpp.md" >}}) | 0 | 109 | 0.0 | /mnt/stockage/packages/f16/sugar-pippy/po/cpp.po | 
- | [ff]({{< ref "/f16/language/ff.md" >}}) | 0 | 109 | 0.0 | /mnt/stockage/packages/f16/sugar-pippy/po/ff.po | 
- | [fi]({{< ref "/f16/language/fi.md" >}}) | 0 | 109 | 0.0 | /mnt/stockage/packages/f16/sugar-pippy/po/fi.po | 
- | [gu]({{< ref "/f16/language/gu.md" >}}) | 0 | 109 | 0.0 | /mnt/stockage/packages/f16/sugar-pippy/po/gu.po | 
- | [ha]({{< ref "/f16/language/ha.md" >}}) | 0 | 109 | 0.0 | /mnt/stockage/packages/f16/sugar-pippy/po/ha.po | 
- | [he]({{< ref "/f16/language/he.md" >}}) | 0 | 109 | 0.0 | /mnt/stockage/packages/f16/sugar-pippy/po/he.po | 
- | [ig]({{< ref "/f16/language/ig.md" >}}) | 0 | 109 | 0.0 | /mnt/stockage/packages/f16/sugar-pippy/po/ig.po | 
- | [kos]({{< ref "/f16/language/kos.md" >}}) | 0 | 109 | 0.0 | /mnt/stockage/packages/f16/sugar-pippy/po/kos.po | 
- | [mi]({{< ref "/f16/language/mi.md" >}}) | 0 | 109 | 0.0 | /mnt/stockage/packages/f16/sugar-pippy/po/mi.po | 
- | [ml]({{< ref "/f16/language/ml.md" >}}) | 0 | 109 | 0.0 | /mnt/stockage/packages/f16/sugar-pippy/po/ml.po | 
- | [ms]({{< ref "/f16/language/ms.md" >}}) | 0 | 109 | 0.0 | /mnt/stockage/packages/f16/sugar-pippy/po/ms.po | 
- | [pa]({{< ref "/f16/language/pa.md" >}}) | 0 | 109 | 0.0 | /mnt/stockage/packages/f16/sugar-pippy/po/pa.po | 
- | [sd]({{< ref "/f16/language/sd.md" >}}) | 0 | 109 | 0.0 | /mnt/stockage/packages/f16/sugar-pippy/po/sd.po | 
- | [tvl]({{< ref "/f16/language/tvl.md" >}}) | 0 | 109 | 0.0 | /mnt/stockage/packages/f16/sugar-pippy/po/tvl.po | 
- | [wa]({{< ref "/f16/language/wa.md" >}}) | 0 | 109 | 0.0 | /mnt/stockage/packages/f16/sugar-pippy/po/wa.po | 
- | [yo]({{< ref "/f16/language/yo.md" >}}) | 0 | 109 | 0.0 | /mnt/stockage/packages/f16/sugar-pippy/po/yo.po | 
+ | [ar](/f16/language/ar) | 109 | 109 | 100.0 | /mnt/stockage/packages/f16/sugar-pippy/po/ar.po | 
+ | [da](/f16/language/da) | 109 | 109 | 100.0 | /mnt/stockage/packages/f16/sugar-pippy/po/da.po | 
+ | [de](/f16/language/de) | 109 | 109 | 100.0 | /mnt/stockage/packages/f16/sugar-pippy/po/de.po | 
+ | [el](/f16/language/el) | 109 | 109 | 100.0 | /mnt/stockage/packages/f16/sugar-pippy/po/el.po | 
+ | [en](/f16/language/en) | 109 | 109 | 100.0 | /mnt/stockage/packages/f16/sugar-pippy/po/en.po | 
+ | [en_GB](/f16/language/en_GB) | 109 | 109 | 100.0 | /mnt/stockage/packages/f16/sugar-pippy/po/en_GB.po | 
+ | [en_US](/f16/language/en_US) | 109 | 109 | 100.0 | /mnt/stockage/packages/f16/sugar-pippy/po/en_US.po | 
+ | [es](/f16/language/es) | 109 | 109 | 100.0 | /mnt/stockage/packages/f16/sugar-pippy/po/es.po | 
+ | [fr](/f16/language/fr) | 109 | 109 | 100.0 | /mnt/stockage/packages/f16/sugar-pippy/po/fr.po | 
+ | [hi](/f16/language/hi) | 109 | 109 | 100.0 | /mnt/stockage/packages/f16/sugar-pippy/po/hi.po | 
+ | [hus](/f16/language/hus) | 109 | 109 | 100.0 | /mnt/stockage/packages/f16/sugar-pippy/po/hus.po | 
+ | [hy](/f16/language/hy) | 109 | 109 | 100.0 | /mnt/stockage/packages/f16/sugar-pippy/po/hy.po | 
+ | [ne](/f16/language/ne) | 109 | 109 | 100.0 | /mnt/stockage/packages/f16/sugar-pippy/po/ne.po | 
+ | [nl](/f16/language/nl) | 109 | 109 | 100.0 | /mnt/stockage/packages/f16/sugar-pippy/po/nl.po | 
+ | [pl](/f16/language/pl) | 109 | 109 | 100.0 | /mnt/stockage/packages/f16/sugar-pippy/po/pl.po | 
+ | [pt](/f16/language/pt) | 109 | 109 | 100.0 | /mnt/stockage/packages/f16/sugar-pippy/po/pt.po | 
+ | [qu](/f16/language/qu) | 109 | 109 | 100.0 | /mnt/stockage/packages/f16/sugar-pippy/po/quz.po | 
+ | [sl](/f16/language/sl) | 109 | 109 | 100.0 | /mnt/stockage/packages/f16/sugar-pippy/po/sl.po | 
+ | [sr](/f16/language/sr) | 109 | 109 | 100.0 | /mnt/stockage/packages/f16/sugar-pippy/po/sr.po | 
+ | [ta](/f16/language/ta) | 109 | 109 | 100.0 | /mnt/stockage/packages/f16/sugar-pippy/po/ta.po | 
+ | [th](/f16/language/th) | 109 | 109 | 100.0 | /mnt/stockage/packages/f16/sugar-pippy/po/th.po | 
+ | [zh_Hans](/f16/language/zh_Hans) | 109 | 109 | 100.0 | /mnt/stockage/packages/f16/sugar-pippy/po/zh_CN.po | 
+ | [zh_Hant](/f16/language/zh_Hant) | 109 | 109 | 100.0 | /mnt/stockage/packages/f16/sugar-pippy/po/zh_TW.po | 
+ | [ay](/f16/language/ay) | 98 | 109 | 89.9 | /mnt/stockage/packages/f16/sugar-pippy/po/aym.po | 
+ | [ru](/f16/language/ru) | 96 | 109 | 88.1 | /mnt/stockage/packages/f16/sugar-pippy/po/ru.po | 
+ | [si](/f16/language/si) | 59 | 109 | 54.1 | /mnt/stockage/packages/f16/sugar-pippy/po/si.po | 
+ | [to](/f16/language/to) | 55 | 109 | 50.5 | /mnt/stockage/packages/f16/sugar-pippy/po/to.po | 
+ | [mg](/f16/language/mg) | 47 | 109 | 43.1 | /mnt/stockage/packages/f16/sugar-pippy/po/mg.po | 
+ | [tr](/f16/language/tr) | 46 | 109 | 42.2 | /mnt/stockage/packages/f16/sugar-pippy/po/tr.po | 
+ | [rw](/f16/language/rw) | 45 | 109 | 41.3 | /mnt/stockage/packages/f16/sugar-pippy/po/rw.po | 
+ | [mn](/f16/language/mn) | 43 | 109 | 39.4 | /mnt/stockage/packages/f16/sugar-pippy/po/mn.po | 
+ | [ca](/f16/language/ca) | 41 | 109 | 37.6 | /mnt/stockage/packages/f16/sugar-pippy/po/ca.po | 
+ | [ht](/f16/language/ht) | 41 | 109 | 37.6 | /mnt/stockage/packages/f16/sugar-pippy/po/ht.po | 
+ | [it](/f16/language/it) | 41 | 109 | 37.6 | /mnt/stockage/packages/f16/sugar-pippy/po/it.po | 
+ | [ja](/f16/language/ja) | 41 | 109 | 37.6 | /mnt/stockage/packages/f16/sugar-pippy/po/ja.po | 
+ | [ko](/f16/language/ko) | 41 | 109 | 37.6 | /mnt/stockage/packages/f16/sugar-pippy/po/ko.po | 
+ | [mr](/f16/language/mr) | 41 | 109 | 37.6 | /mnt/stockage/packages/f16/sugar-pippy/po/mr.po | 
+ | [pap](/f16/language/pap) | 41 | 109 | 37.6 | /mnt/stockage/packages/f16/sugar-pippy/po/pap.po | 
+ | [prs](/f16/language/prs) | 41 | 109 | 37.6 | /mnt/stockage/packages/f16/sugar-pippy/po/fa_AF.po | 
+ | [ps](/f16/language/ps) | 41 | 109 | 37.6 | /mnt/stockage/packages/f16/sugar-pippy/po/ps.po | 
+ | [pt_BR](/f16/language/pt_BR) | 41 | 109 | 37.6 | /mnt/stockage/packages/f16/sugar-pippy/po/pt_BR.po | 
+ | [sv](/f16/language/sv) | 41 | 109 | 37.6 | /mnt/stockage/packages/f16/sugar-pippy/po/sv.po | 
+ | [te](/f16/language/te) | 41 | 109 | 37.6 | /mnt/stockage/packages/f16/sugar-pippy/po/te.po | 
+ | [vi](/f16/language/vi) | 41 | 109 | 37.6 | /mnt/stockage/packages/f16/sugar-pippy/po/vi.po | 
+ | [bn](/f16/language/bn) | 40 | 109 | 36.7 | /mnt/stockage/packages/f16/sugar-pippy/po/bn.po | 
+ | [ur](/f16/language/ur) | 40 | 109 | 36.7 | /mnt/stockage/packages/f16/sugar-pippy/po/ur.po | 
+ | [ro](/f16/language/ro) | 35 | 109 | 32.1 | /mnt/stockage/packages/f16/sugar-pippy/po/ro.po | 
+ | [bn_IN](/f16/language/bn_IN) | 32 | 109 | 29.4 | /mnt/stockage/packages/f16/sugar-pippy/po/bn_IN.po | 
+ | [mk](/f16/language/mk) | 32 | 109 | 29.4 | /mnt/stockage/packages/f16/sugar-pippy/po/mk.po | 
+ | [sq](/f16/language/sq) | 32 | 109 | 29.4 | /mnt/stockage/packages/f16/sugar-pippy/po/sq.po | 
+ | [fa](/f16/language/fa) | 31 | 109 | 28.4 | /mnt/stockage/packages/f16/sugar-pippy/po/fa.po | 
+ | [km](/f16/language/km) | 29 | 109 | 26.6 | /mnt/stockage/packages/f16/sugar-pippy/po/km.po | 
+ | [error](/f16/language/error) | 98 | 379 | 25.9 | /mnt/stockage/packages/f16/sugar-pippy/po/mvo.po/mnt/stockage/packages/f16/sugar-pippy/po/pseudo.po/mnt/stockage/packages/f16/sugar-pippy/po/tzo.po/mnt/stockage/packages/f16/sugar-pippy/po/pbs.po | 
+ | [bg](/f16/language/bg) | 27 | 109 | 24.8 | /mnt/stockage/packages/f16/sugar-pippy/po/bg.po | 
+ | [hu](/f16/language/hu) | 24 | 109 | 22.0 | /mnt/stockage/packages/f16/sugar-pippy/po/hu.po | 
+ | [nb_NO](/f16/language/nb_NO) | 21 | 109 | 19.3 | /mnt/stockage/packages/f16/sugar-pippy/po/nb.po | 
+ | [sk](/f16/language/sk) | 16 | 109 | 14.7 | /mnt/stockage/packages/f16/sugar-pippy/po/sk.po | 
+ | [fil](/f16/language/fil) | 11 | 109 | 10.1 | /mnt/stockage/packages/f16/sugar-pippy/po/fil.po | 
+ | [am](/f16/language/am) | 7 | 109 | 6.4 | /mnt/stockage/packages/f16/sugar-pippy/po/am.po | 
+ | [br](/f16/language/br) | 6 | 109 | 5.5 | /mnt/stockage/packages/f16/sugar-pippy/po/br.po | 
+ | [cs](/f16/language/cs) | 6 | 109 | 5.5 | /mnt/stockage/packages/f16/sugar-pippy/po/cs.po | 
+ | [tzm](/f16/language/tzm) | 5 | 109 | 4.6 | /mnt/stockage/packages/f16/sugar-pippy/po/tzm.po | 
+ | [dz](/f16/language/dz) | 2 | 109 | 1.8 | /mnt/stockage/packages/f16/sugar-pippy/po/dz.po | 
+ | [is](/f16/language/is) | 2 | 109 | 1.8 | /mnt/stockage/packages/f16/sugar-pippy/po/is.po | 
+ | [sw](/f16/language/sw) | 2 | 109 | 1.8 | /mnt/stockage/packages/f16/sugar-pippy/po/sw.po | 
+ | [ug](/f16/language/ug) | 2 | 109 | 1.8 | /mnt/stockage/packages/f16/sugar-pippy/po/ug.po | 
+ | [af](/f16/language/af) | 1 | 109 | 0.9 | /mnt/stockage/packages/f16/sugar-pippy/po/af.po | 
+ | [id](/f16/language/id) | 1 | 109 | 0.9 | /mnt/stockage/packages/f16/sugar-pippy/po/id.po | 
+ | [lt](/f16/language/lt) | 1 | 109 | 0.9 | /mnt/stockage/packages/f16/sugar-pippy/po/lt.po | 
+ | [bi](/f16/language/bi) | 0 | 109 | 0.0 | /mnt/stockage/packages/f16/sugar-pippy/po/bi.po | 
+ | [cpp](/f16/language/cpp) | 0 | 109 | 0.0 | /mnt/stockage/packages/f16/sugar-pippy/po/cpp.po | 
+ | [ff](/f16/language/ff) | 0 | 109 | 0.0 | /mnt/stockage/packages/f16/sugar-pippy/po/ff.po | 
+ | [fi](/f16/language/fi) | 0 | 109 | 0.0 | /mnt/stockage/packages/f16/sugar-pippy/po/fi.po | 
+ | [gu](/f16/language/gu) | 0 | 109 | 0.0 | /mnt/stockage/packages/f16/sugar-pippy/po/gu.po | 
+ | [ha](/f16/language/ha) | 0 | 109 | 0.0 | /mnt/stockage/packages/f16/sugar-pippy/po/ha.po | 
+ | [he](/f16/language/he) | 0 | 109 | 0.0 | /mnt/stockage/packages/f16/sugar-pippy/po/he.po | 
+ | [ig](/f16/language/ig) | 0 | 109 | 0.0 | /mnt/stockage/packages/f16/sugar-pippy/po/ig.po | 
+ | [kos](/f16/language/kos) | 0 | 109 | 0.0 | /mnt/stockage/packages/f16/sugar-pippy/po/kos.po | 
+ | [mi](/f16/language/mi) | 0 | 109 | 0.0 | /mnt/stockage/packages/f16/sugar-pippy/po/mi.po | 
+ | [ml](/f16/language/ml) | 0 | 109 | 0.0 | /mnt/stockage/packages/f16/sugar-pippy/po/ml.po | 
+ | [ms](/f16/language/ms) | 0 | 109 | 0.0 | /mnt/stockage/packages/f16/sugar-pippy/po/ms.po | 
+ | [pa](/f16/language/pa) | 0 | 109 | 0.0 | /mnt/stockage/packages/f16/sugar-pippy/po/pa.po | 
+ | [sd](/f16/language/sd) | 0 | 109 | 0.0 | /mnt/stockage/packages/f16/sugar-pippy/po/sd.po | 
+ | [tvl](/f16/language/tvl) | 0 | 109 | 0.0 | /mnt/stockage/packages/f16/sugar-pippy/po/tvl.po | 
+ | [wa](/f16/language/wa) | 0 | 109 | 0.0 | /mnt/stockage/packages/f16/sugar-pippy/po/wa.po | 
+ | [yo](/f16/language/yo) | 0 | 109 | 0.0 | /mnt/stockage/packages/f16/sugar-pippy/po/yo.po | 
 {.sortable}
 
 

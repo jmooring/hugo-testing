@@ -18,11 +18,11 @@ The package xneur (version 0.19.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ru]({{< ref "/f25/language/ru.md" >}}) | 1954 | 1959 | 99.7 | /mnt/stockage/packages/f25/xneur/po/ru.po | 
- | [uk]({{< ref "/f25/language/uk.md" >}}) | 357 | 1959 | 18.2 | /mnt/stockage/packages/f25/xneur/po/uk.po | 
- | [be]({{< ref "/f25/language/be.md" >}}) | 197 | 1959 | 10.1 | /mnt/stockage/packages/f25/xneur/po/be.po | 
- | [ro]({{< ref "/f25/language/ro.md" >}}) | 16 | 1959 | 0.8 | /mnt/stockage/packages/f25/xneur/po/ro.po | 
- | [de]({{< ref "/f25/language/de.md" >}}) | 3 | 1959 | 0.2 | /mnt/stockage/packages/f25/xneur/po/de.po | 
+ | [ru](/f25/language/ru) | 1954 | 1959 | 99.7 | /mnt/stockage/packages/f25/xneur/po/ru.po | 
+ | [uk](/f25/language/uk) | 357 | 1959 | 18.2 | /mnt/stockage/packages/f25/xneur/po/uk.po | 
+ | [be](/f25/language/be) | 197 | 1959 | 10.1 | /mnt/stockage/packages/f25/xneur/po/be.po | 
+ | [ro](/f25/language/ro) | 16 | 1959 | 0.8 | /mnt/stockage/packages/f25/xneur/po/ro.po | 
+ | [de](/f25/language/de) | 3 | 1959 | 0.2 | /mnt/stockage/packages/f25/xneur/po/de.po | 
 {.sortable}
 
 

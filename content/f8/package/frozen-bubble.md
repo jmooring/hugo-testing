@@ -18,31 +18,31 @@ The package frozen-bubble (version 2.1.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f8/language/ca.md" >}}) | 616 | 616 | 100.0 | /mnt/stockage/packages/f8/frozen-bubble/po/ca.po | 
- | [cs]({{< ref "/f8/language/cs.md" >}}) | 616 | 616 | 100.0 | /mnt/stockage/packages/f8/frozen-bubble/po/cs.po | 
- | [da]({{< ref "/f8/language/da.md" >}}) | 616 | 616 | 100.0 | /mnt/stockage/packages/f8/frozen-bubble/po/da.po | 
- | [de]({{< ref "/f8/language/de.md" >}}) | 616 | 616 | 100.0 | /mnt/stockage/packages/f8/frozen-bubble/po/de.po | 
- | [eo]({{< ref "/f8/language/eo.md" >}}) | 616 | 616 | 100.0 | /mnt/stockage/packages/f8/frozen-bubble/po/eo.po | 
- | [fi]({{< ref "/f8/language/fi.md" >}}) | 616 | 616 | 100.0 | /mnt/stockage/packages/f8/frozen-bubble/po/fi.po | 
- | [fr]({{< ref "/f8/language/fr.md" >}}) | 616 | 616 | 100.0 | /mnt/stockage/packages/f8/frozen-bubble/po/fr.po | 
- | [it]({{< ref "/f8/language/it.md" >}}) | 616 | 616 | 100.0 | /mnt/stockage/packages/f8/frozen-bubble/po/it.po | 
- | [lt]({{< ref "/f8/language/lt.md" >}}) | 616 | 616 | 100.0 | /mnt/stockage/packages/f8/frozen-bubble/po/lt.po | 
- | [nb_NO]({{< ref "/f8/language/nb_NO.md" >}}) | 616 | 616 | 100.0 | /mnt/stockage/packages/f8/frozen-bubble/po/nb.po | 
- | [nn]({{< ref "/f8/language/nn.md" >}}) | 616 | 616 | 100.0 | /mnt/stockage/packages/f8/frozen-bubble/po/nn.po | 
- | [pl]({{< ref "/f8/language/pl.md" >}}) | 616 | 616 | 100.0 | /mnt/stockage/packages/f8/frozen-bubble/po/pl.po | 
- | [pt_BR]({{< ref "/f8/language/pt_BR.md" >}}) | 616 | 616 | 100.0 | /mnt/stockage/packages/f8/frozen-bubble/po/pt_BR.po | 
- | [ru]({{< ref "/f8/language/ru.md" >}}) | 616 | 616 | 100.0 | /mnt/stockage/packages/f8/frozen-bubble/po/ru.po | 
- | [sl]({{< ref "/f8/language/sl.md" >}}) | 616 | 616 | 100.0 | /mnt/stockage/packages/f8/frozen-bubble/po/sl.po | 
- | [es]({{< ref "/f8/language/es.md" >}}) | 459 | 616 | 74.5 | /mnt/stockage/packages/f8/frozen-bubble/po/es.po | 
- | [fa]({{< ref "/f8/language/fa.md" >}}) | 459 | 616 | 74.5 | /mnt/stockage/packages/f8/frozen-bubble/po/fa.po | 
- | [sk]({{< ref "/f8/language/sk.md" >}}) | 459 | 616 | 74.5 | /mnt/stockage/packages/f8/frozen-bubble/po/sk.po | 
- | [ne]({{< ref "/f8/language/ne.md" >}}) | 457 | 616 | 74.2 | /mnt/stockage/packages/f8/frozen-bubble/po/ne.po | 
- | [ja]({{< ref "/f8/language/ja.md" >}}) | 448 | 616 | 72.7 | /mnt/stockage/packages/f8/frozen-bubble/po/ja.po | 
- | [ro]({{< ref "/f8/language/ro.md" >}}) | 444 | 616 | 72.1 | /mnt/stockage/packages/f8/frozen-bubble/po/ro.po | 
- | [af]({{< ref "/f8/language/af.md" >}}) | 210 | 616 | 34.1 | /mnt/stockage/packages/f8/frozen-bubble/po/af.po | 
- | [nl]({{< ref "/f8/language/nl.md" >}}) | 210 | 616 | 34.1 | /mnt/stockage/packages/f8/frozen-bubble/po/nl.po | 
- | [pt]({{< ref "/f8/language/pt.md" >}}) | 210 | 616 | 34.1 | /mnt/stockage/packages/f8/frozen-bubble/po/pt.po | 
- | [sv]({{< ref "/f8/language/sv.md" >}}) | 201 | 616 | 32.6 | /mnt/stockage/packages/f8/frozen-bubble/po/sv.po | 
+ | [ca](/f8/language/ca) | 616 | 616 | 100.0 | /mnt/stockage/packages/f8/frozen-bubble/po/ca.po | 
+ | [cs](/f8/language/cs) | 616 | 616 | 100.0 | /mnt/stockage/packages/f8/frozen-bubble/po/cs.po | 
+ | [da](/f8/language/da) | 616 | 616 | 100.0 | /mnt/stockage/packages/f8/frozen-bubble/po/da.po | 
+ | [de](/f8/language/de) | 616 | 616 | 100.0 | /mnt/stockage/packages/f8/frozen-bubble/po/de.po | 
+ | [eo](/f8/language/eo) | 616 | 616 | 100.0 | /mnt/stockage/packages/f8/frozen-bubble/po/eo.po | 
+ | [fi](/f8/language/fi) | 616 | 616 | 100.0 | /mnt/stockage/packages/f8/frozen-bubble/po/fi.po | 
+ | [fr](/f8/language/fr) | 616 | 616 | 100.0 | /mnt/stockage/packages/f8/frozen-bubble/po/fr.po | 
+ | [it](/f8/language/it) | 616 | 616 | 100.0 | /mnt/stockage/packages/f8/frozen-bubble/po/it.po | 
+ | [lt](/f8/language/lt) | 616 | 616 | 100.0 | /mnt/stockage/packages/f8/frozen-bubble/po/lt.po | 
+ | [nb_NO](/f8/language/nb_NO) | 616 | 616 | 100.0 | /mnt/stockage/packages/f8/frozen-bubble/po/nb.po | 
+ | [nn](/f8/language/nn) | 616 | 616 | 100.0 | /mnt/stockage/packages/f8/frozen-bubble/po/nn.po | 
+ | [pl](/f8/language/pl) | 616 | 616 | 100.0 | /mnt/stockage/packages/f8/frozen-bubble/po/pl.po | 
+ | [pt_BR](/f8/language/pt_BR) | 616 | 616 | 100.0 | /mnt/stockage/packages/f8/frozen-bubble/po/pt_BR.po | 
+ | [ru](/f8/language/ru) | 616 | 616 | 100.0 | /mnt/stockage/packages/f8/frozen-bubble/po/ru.po | 
+ | [sl](/f8/language/sl) | 616 | 616 | 100.0 | /mnt/stockage/packages/f8/frozen-bubble/po/sl.po | 
+ | [es](/f8/language/es) | 459 | 616 | 74.5 | /mnt/stockage/packages/f8/frozen-bubble/po/es.po | 
+ | [fa](/f8/language/fa) | 459 | 616 | 74.5 | /mnt/stockage/packages/f8/frozen-bubble/po/fa.po | 
+ | [sk](/f8/language/sk) | 459 | 616 | 74.5 | /mnt/stockage/packages/f8/frozen-bubble/po/sk.po | 
+ | [ne](/f8/language/ne) | 457 | 616 | 74.2 | /mnt/stockage/packages/f8/frozen-bubble/po/ne.po | 
+ | [ja](/f8/language/ja) | 448 | 616 | 72.7 | /mnt/stockage/packages/f8/frozen-bubble/po/ja.po | 
+ | [ro](/f8/language/ro) | 444 | 616 | 72.1 | /mnt/stockage/packages/f8/frozen-bubble/po/ro.po | 
+ | [af](/f8/language/af) | 210 | 616 | 34.1 | /mnt/stockage/packages/f8/frozen-bubble/po/af.po | 
+ | [nl](/f8/language/nl) | 210 | 616 | 34.1 | /mnt/stockage/packages/f8/frozen-bubble/po/nl.po | 
+ | [pt](/f8/language/pt) | 210 | 616 | 34.1 | /mnt/stockage/packages/f8/frozen-bubble/po/pt.po | 
+ | [sv](/f8/language/sv) | 201 | 616 | 32.6 | /mnt/stockage/packages/f8/frozen-bubble/po/sv.po | 
 {.sortable}
 
 

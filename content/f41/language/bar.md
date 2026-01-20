@@ -39,8 +39,8 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [iso-codes]({{< ref "/f41/package/iso-codes.md" >}}) | 199 | 989 | 20.1 | Bavarian <https://hosted.weblate.org/projects/iso-codes/iso-3166-1/bar/> | 
- | [minetest]({{< ref "/f41/package/minetest.md" >}}) | 104 | 10452 | 1.0 | Bavarian <https://hosted.weblate.org/projects/minetest/minetest/bar/> | 
+ | [iso-codes](/f41/package/iso-codes) | 199 | 989 | 20.1 | Bavarian <https://hosted.weblate.org/projects/iso-codes/iso-3166-1/bar/> | 
+ | [minetest](/f41/package/minetest) | 104 | 10452 | 1.0 | Bavarian <https://hosted.weblate.org/projects/minetest/minetest/bar/> | 
 {.sortable}
 
 

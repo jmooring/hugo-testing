@@ -18,15 +18,15 @@ The package gtypist (version 2.8.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f10/language/cs.md" >}}) | 486 | 510 | 95.3 | /mnt/stockage/packages/f10/gtypist/po/cs.po | 
- | [es]({{< ref "/f10/language/es.md" >}}) | 486 | 510 | 95.3 | /mnt/stockage/packages/f10/gtypist/po/es.po | 
- | [fi]({{< ref "/f10/language/fi.md" >}}) | 486 | 510 | 95.3 | /mnt/stockage/packages/f10/gtypist/po/fi.po | 
- | [fr]({{< ref "/f10/language/fr.md" >}}) | 486 | 510 | 95.3 | /mnt/stockage/packages/f10/gtypist/po/fr.po | 
- | [ru]({{< ref "/f10/language/ru.md" >}}) | 486 | 510 | 95.3 | /mnt/stockage/packages/f10/gtypist/po/ru.po | 
- | [zh_Hans]({{< ref "/f10/language/zh_Hans.md" >}}) | 486 | 510 | 95.3 | /mnt/stockage/packages/f10/gtypist/po/zh_CN.po | 
- | [de]({{< ref "/f10/language/de.md" >}}) | 291 | 510 | 57.1 | /mnt/stockage/packages/f10/gtypist/po/de.po | 
- | [zh_Hant]({{< ref "/f10/language/zh_Hant.md" >}}) | 291 | 510 | 57.1 | /mnt/stockage/packages/f10/gtypist/po/zh_TW.po | 
- | [nl]({{< ref "/f10/language/nl.md" >}}) | 285 | 510 | 55.9 | /mnt/stockage/packages/f10/gtypist/po/nl.po | 
+ | [cs](/f10/language/cs) | 486 | 510 | 95.3 | /mnt/stockage/packages/f10/gtypist/po/cs.po | 
+ | [es](/f10/language/es) | 486 | 510 | 95.3 | /mnt/stockage/packages/f10/gtypist/po/es.po | 
+ | [fi](/f10/language/fi) | 486 | 510 | 95.3 | /mnt/stockage/packages/f10/gtypist/po/fi.po | 
+ | [fr](/f10/language/fr) | 486 | 510 | 95.3 | /mnt/stockage/packages/f10/gtypist/po/fr.po | 
+ | [ru](/f10/language/ru) | 486 | 510 | 95.3 | /mnt/stockage/packages/f10/gtypist/po/ru.po | 
+ | [zh_Hans](/f10/language/zh_Hans) | 486 | 510 | 95.3 | /mnt/stockage/packages/f10/gtypist/po/zh_CN.po | 
+ | [de](/f10/language/de) | 291 | 510 | 57.1 | /mnt/stockage/packages/f10/gtypist/po/de.po | 
+ | [zh_Hant](/f10/language/zh_Hant) | 291 | 510 | 57.1 | /mnt/stockage/packages/f10/gtypist/po/zh_TW.po | 
+ | [nl](/f10/language/nl) | 285 | 510 | 55.9 | /mnt/stockage/packages/f10/gtypist/po/nl.po | 
 {.sortable}
 
 

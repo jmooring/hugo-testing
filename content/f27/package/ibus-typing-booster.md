@@ -18,16 +18,16 @@ The package ibus-typing-booster (version 2.1.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f27/language/de.md" >}}) | 1094 | 1094 | 100.0 | /mnt/stockage/packages/f27/ibus-typing-booster/po/de.po | 
- | [pl]({{< ref "/f27/language/pl.md" >}}) | 1094 | 1094 | 100.0 | /mnt/stockage/packages/f27/ibus-typing-booster/po/pl.po | 
- | [uk]({{< ref "/f27/language/uk.md" >}}) | 1094 | 1094 | 100.0 | /mnt/stockage/packages/f27/ibus-typing-booster/po/uk.po | 
- | [es]({{< ref "/f27/language/es.md" >}}) | 1046 | 1094 | 95.6 | /mnt/stockage/packages/f27/ibus-typing-booster/po/es.po | 
- | [fr]({{< ref "/f27/language/fr.md" >}}) | 925 | 1094 | 84.6 | /mnt/stockage/packages/f27/ibus-typing-booster/po/fr.po | 
- | [ca]({{< ref "/f27/language/ca.md" >}}) | 94 | 1094 | 8.6 | /mnt/stockage/packages/f27/ibus-typing-booster/po/ca.po | 
- | [ja]({{< ref "/f27/language/ja.md" >}}) | 70 | 1094 | 6.4 | /mnt/stockage/packages/f27/ibus-typing-booster/po/ja.po | 
- | [zh_Hans]({{< ref "/f27/language/zh_Hans.md" >}}) | 36 | 1094 | 3.3 | /mnt/stockage/packages/f27/ibus-typing-booster/po/zh_CN.po | 
- | [pt_BR]({{< ref "/f27/language/pt_BR.md" >}}) | 26 | 1094 | 2.4 | /mnt/stockage/packages/f27/ibus-typing-booster/po/pt_BR.po | 
- | [cs]({{< ref "/f27/language/cs.md" >}}) | 10 | 1094 | 0.9 | /mnt/stockage/packages/f27/ibus-typing-booster/po/cs.po | 
+ | [de](/f27/language/de) | 1094 | 1094 | 100.0 | /mnt/stockage/packages/f27/ibus-typing-booster/po/de.po | 
+ | [pl](/f27/language/pl) | 1094 | 1094 | 100.0 | /mnt/stockage/packages/f27/ibus-typing-booster/po/pl.po | 
+ | [uk](/f27/language/uk) | 1094 | 1094 | 100.0 | /mnt/stockage/packages/f27/ibus-typing-booster/po/uk.po | 
+ | [es](/f27/language/es) | 1046 | 1094 | 95.6 | /mnt/stockage/packages/f27/ibus-typing-booster/po/es.po | 
+ | [fr](/f27/language/fr) | 925 | 1094 | 84.6 | /mnt/stockage/packages/f27/ibus-typing-booster/po/fr.po | 
+ | [ca](/f27/language/ca) | 94 | 1094 | 8.6 | /mnt/stockage/packages/f27/ibus-typing-booster/po/ca.po | 
+ | [ja](/f27/language/ja) | 70 | 1094 | 6.4 | /mnt/stockage/packages/f27/ibus-typing-booster/po/ja.po | 
+ | [zh_Hans](/f27/language/zh_Hans) | 36 | 1094 | 3.3 | /mnt/stockage/packages/f27/ibus-typing-booster/po/zh_CN.po | 
+ | [pt_BR](/f27/language/pt_BR) | 26 | 1094 | 2.4 | /mnt/stockage/packages/f27/ibus-typing-booster/po/pt_BR.po | 
+ | [cs](/f27/language/cs) | 10 | 1094 | 0.9 | /mnt/stockage/packages/f27/ibus-typing-booster/po/cs.po | 
 {.sortable}
 
 

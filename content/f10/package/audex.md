@@ -18,12 +18,12 @@ The package audex (version 0.72):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f10/language/cs.md" >}}) | 2701 | 2701 | 100.0 | /mnt/stockage/packages/f10/audex/po/cs.po | 
- | [nl]({{< ref "/f10/language/nl.md" >}}) | 2701 | 2701 | 100.0 | /mnt/stockage/packages/f10/audex/po/nl.po | 
- | [pt_BR]({{< ref "/f10/language/pt_BR.md" >}}) | 2701 | 2701 | 100.0 | /mnt/stockage/packages/f10/audex/po/pt_BR.po | 
- | [it]({{< ref "/f10/language/it.md" >}}) | 2547 | 2701 | 94.3 | /mnt/stockage/packages/f10/audex/po/it.po | 
- | [de]({{< ref "/f10/language/de.md" >}}) | 2492 | 2701 | 92.3 | /mnt/stockage/packages/f10/audex/po/de.po | 
- | [ru]({{< ref "/f10/language/ru.md" >}}) | 2480 | 2701 | 91.8 | /mnt/stockage/packages/f10/audex/po/ru.po | 
+ | [cs](/f10/language/cs) | 2701 | 2701 | 100.0 | /mnt/stockage/packages/f10/audex/po/cs.po | 
+ | [nl](/f10/language/nl) | 2701 | 2701 | 100.0 | /mnt/stockage/packages/f10/audex/po/nl.po | 
+ | [pt_BR](/f10/language/pt_BR) | 2701 | 2701 | 100.0 | /mnt/stockage/packages/f10/audex/po/pt_BR.po | 
+ | [it](/f10/language/it) | 2547 | 2701 | 94.3 | /mnt/stockage/packages/f10/audex/po/it.po | 
+ | [de](/f10/language/de) | 2492 | 2701 | 92.3 | /mnt/stockage/packages/f10/audex/po/de.po | 
+ | [ru](/f10/language/ru) | 2480 | 2701 | 91.8 | /mnt/stockage/packages/f10/audex/po/ru.po | 
 {.sortable}
 
 

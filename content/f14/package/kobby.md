@@ -18,7 +18,7 @@ The package kobby (version 1.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f14/language/fr.md" >}}) | 398 | 432 | 92.1 | /mnt/stockage/packages/f14/kobby/po/fr/kobby.po | 
+ | [fr](/f14/language/fr) | 398 | 432 | 92.1 | /mnt/stockage/packages/f14/kobby/po/fr/kobby.po | 
 {.sortable}
 
 

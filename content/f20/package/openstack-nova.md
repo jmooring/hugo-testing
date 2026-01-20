@@ -18,49 +18,49 @@ The package openstack-nova (version 2013.2.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [en_US]({{< ref "/f20/language/en_US.md" >}}) | 6878 | 16757 | 41.0 | /mnt/stockage/packages/f20/openstack-nova/nova/locale/en_US/LC_MESSAGES/nova.po | 
- | [cs]({{< ref "/f20/language/cs.md" >}}) | 3830 | 16757 | 22.9 | /mnt/stockage/packages/f20/openstack-nova/nova/locale/cs/LC_MESSAGES/nova.po | 
- | [zh_Hans]({{< ref "/f20/language/zh_Hans.md" >}}) | 3830 | 16757 | 22.9 | /mnt/stockage/packages/f20/openstack-nova/nova/locale/zh_CN/LC_MESSAGES/nova.po | 
- | [fr]({{< ref "/f20/language/fr.md" >}}) | 1328 | 16757 | 7.9 | /mnt/stockage/packages/f20/openstack-nova/nova/locale/fr/LC_MESSAGES/nova.po | 
- | [tr]({{< ref "/f20/language/tr.md" >}}) | 2377 | 33514 | 7.1 | /mnt/stockage/packages/f20/openstack-nova/nova/locale/tr/LC_MESSAGES/nova.po/mnt/stockage/packages/f20/openstack-nova/nova/locale/tr_TR/LC_MESSAGES/nova.po | 
- | [ru]({{< ref "/f20/language/ru.md" >}}) | 2322 | 33514 | 6.9 | /mnt/stockage/packages/f20/openstack-nova/nova/locale/ru_RU/LC_MESSAGES/nova.po/mnt/stockage/packages/f20/openstack-nova/nova/locale/ru/LC_MESSAGES/nova.po | 
- | [en_AU]({{< ref "/f20/language/en_AU.md" >}}) | 705 | 16757 | 4.2 | /mnt/stockage/packages/f20/openstack-nova/nova/locale/en_AU/LC_MESSAGES/nova.po | 
- | [ja]({{< ref "/f20/language/ja.md" >}}) | 705 | 16757 | 4.2 | /mnt/stockage/packages/f20/openstack-nova/nova/locale/ja/LC_MESSAGES/nova.po | 
- | [pt_BR]({{< ref "/f20/language/pt_BR.md" >}}) | 661 | 16757 | 3.9 | /mnt/stockage/packages/f20/openstack-nova/nova/locale/pt_BR/LC_MESSAGES/nova.po | 
- | [es]({{< ref "/f20/language/es.md" >}}) | 640 | 16757 | 3.8 | /mnt/stockage/packages/f20/openstack-nova/nova/locale/es/LC_MESSAGES/nova.po | 
- | [en_GB]({{< ref "/f20/language/en_GB.md" >}}) | 399 | 16757 | 2.4 | /mnt/stockage/packages/f20/openstack-nova/nova/locale/en_GB/LC_MESSAGES/nova.po | 
- | [nb_NO]({{< ref "/f20/language/nb_NO.md" >}}) | 208 | 16757 | 1.2 | /mnt/stockage/packages/f20/openstack-nova/nova/locale/nb/LC_MESSAGES/nova.po | 
- | [it]({{< ref "/f20/language/it.md" >}}) | 191 | 33514 | 0.6 | /mnt/stockage/packages/f20/openstack-nova/nova/locale/it/LC_MESSAGES/nova.po/mnt/stockage/packages/f20/openstack-nova/nova/locale/it_IT/LC_MESSAGES/nova.po | 
- | [zh_Hant]({{< ref "/f20/language/zh_Hant.md" >}}) | 83 | 16757 | 0.5 | /mnt/stockage/packages/f20/openstack-nova/nova/locale/zh_TW/LC_MESSAGES/nova.po | 
- | [ko]({{< ref "/f20/language/ko.md" >}}) | 138 | 33514 | 0.4 | /mnt/stockage/packages/f20/openstack-nova/nova/locale/ko/LC_MESSAGES/nova.po/mnt/stockage/packages/f20/openstack-nova/nova/locale/ko_KR/LC_MESSAGES/nova.po | 
- | [de]({{< ref "/f20/language/de.md" >}}) | 54 | 16757 | 0.3 | /mnt/stockage/packages/f20/openstack-nova/nova/locale/de/LC_MESSAGES/nova.po | 
- | [uk]({{< ref "/f20/language/uk.md" >}}) | 52 | 16757 | 0.3 | /mnt/stockage/packages/f20/openstack-nova/nova/locale/uk/LC_MESSAGES/nova.po | 
- | [tl]({{< ref "/f20/language/tl.md" >}}) | 20 | 33514 | 0.1 | /mnt/stockage/packages/f20/openstack-nova/nova/locale/tl_PH/LC_MESSAGES/nova.po/mnt/stockage/packages/f20/openstack-nova/nova/locale/tl/LC_MESSAGES/nova.po | 
- | [da]({{< ref "/f20/language/da.md" >}}) | 4 | 16757 | 0.0 | /mnt/stockage/packages/f20/openstack-nova/nova/locale/da/LC_MESSAGES/nova.po | 
- | [ar]({{< ref "/f20/language/ar.md" >}}) | 0 | 16757 | 0.0 | /mnt/stockage/packages/f20/openstack-nova/nova/locale/ar/LC_MESSAGES/nova.po | 
- | [bg]({{< ref "/f20/language/bg.md" >}}) | 0 | 16757 | 0.0 | /mnt/stockage/packages/f20/openstack-nova/nova/locale/bg_BG/LC_MESSAGES/nova.po | 
- | [bs]({{< ref "/f20/language/bs.md" >}}) | 0 | 16757 | 0.0 | /mnt/stockage/packages/f20/openstack-nova/nova/locale/bs/LC_MESSAGES/nova.po | 
- | [ca]({{< ref "/f20/language/ca.md" >}}) | 0 | 16757 | 0.0 | /mnt/stockage/packages/f20/openstack-nova/nova/locale/ca/LC_MESSAGES/nova.po | 
- | [error]({{< ref "/f20/language/error.md" >}}) | 0 | 16757 | 0.0 | /mnt/stockage/packages/f20/openstack-nova/nova/locale/sw_KE/LC_MESSAGES/nova.po | 
- | [es_MX]({{< ref "/f20/language/es_MX.md" >}}) | 0 | 16757 | 0.0 | /mnt/stockage/packages/f20/openstack-nova/nova/locale/es_MX/LC_MESSAGES/nova.po | 
- | [fi]({{< ref "/f20/language/fi.md" >}}) | 0 | 16757 | 0.0 | /mnt/stockage/packages/f20/openstack-nova/nova/locale/fi_FI/LC_MESSAGES/nova.po | 
- | [fil]({{< ref "/f20/language/fil.md" >}}) | 0 | 16757 | 0.0 | /mnt/stockage/packages/f20/openstack-nova/nova/locale/fil/LC_MESSAGES/nova.po | 
- | [hi]({{< ref "/f20/language/hi.md" >}}) | 0 | 16757 | 0.0 | /mnt/stockage/packages/f20/openstack-nova/nova/locale/hi/LC_MESSAGES/nova.po | 
- | [hr]({{< ref "/f20/language/hr.md" >}}) | 0 | 16757 | 0.0 | /mnt/stockage/packages/f20/openstack-nova/nova/locale/hr/LC_MESSAGES/nova.po | 
- | [hu]({{< ref "/f20/language/hu.md" >}}) | 0 | 16757 | 0.0 | /mnt/stockage/packages/f20/openstack-nova/nova/locale/hu/LC_MESSAGES/nova.po | 
- | [id]({{< ref "/f20/language/id.md" >}}) | 0 | 16757 | 0.0 | /mnt/stockage/packages/f20/openstack-nova/nova/locale/id/LC_MESSAGES/nova.po | 
- | [ka]({{< ref "/f20/language/ka.md" >}}) | 0 | 16757 | 0.0 | /mnt/stockage/packages/f20/openstack-nova/nova/locale/ka_GE/LC_MESSAGES/nova.po | 
- | [kn]({{< ref "/f20/language/kn.md" >}}) | 0 | 16757 | 0.0 | /mnt/stockage/packages/f20/openstack-nova/nova/locale/kn/LC_MESSAGES/nova.po | 
- | [ms]({{< ref "/f20/language/ms.md" >}}) | 0 | 16757 | 0.0 | /mnt/stockage/packages/f20/openstack-nova/nova/locale/ms/LC_MESSAGES/nova.po | 
- | [ne]({{< ref "/f20/language/ne.md" >}}) | 0 | 16757 | 0.0 | /mnt/stockage/packages/f20/openstack-nova/nova/locale/ne/LC_MESSAGES/nova.po | 
- | [nl]({{< ref "/f20/language/nl.md" >}}) | 0 | 16757 | 0.0 | /mnt/stockage/packages/f20/openstack-nova/nova/locale/nl_NL/LC_MESSAGES/nova.po | 
- | [pl]({{< ref "/f20/language/pl.md" >}}) | 0 | 16757 | 0.0 | /mnt/stockage/packages/f20/openstack-nova/nova/locale/pl_PL/LC_MESSAGES/nova.po | 
- | [pt]({{< ref "/f20/language/pt.md" >}}) | 0 | 16757 | 0.0 | /mnt/stockage/packages/f20/openstack-nova/nova/locale/pt/LC_MESSAGES/nova.po | 
- | [ro]({{< ref "/f20/language/ro.md" >}}) | 0 | 16757 | 0.0 | /mnt/stockage/packages/f20/openstack-nova/nova/locale/ro/LC_MESSAGES/nova.po | 
- | [sk]({{< ref "/f20/language/sk.md" >}}) | 0 | 16757 | 0.0 | /mnt/stockage/packages/f20/openstack-nova/nova/locale/sk/LC_MESSAGES/nova.po | 
- | [sl]({{< ref "/f20/language/sl.md" >}}) | 0 | 16757 | 0.0 | /mnt/stockage/packages/f20/openstack-nova/nova/locale/sl_SI/LC_MESSAGES/nova.po | 
- | [vi]({{< ref "/f20/language/vi.md" >}}) | 0 | 16757 | 0.0 | /mnt/stockage/packages/f20/openstack-nova/nova/locale/vi_VN/LC_MESSAGES/nova.po | 
- | [zh_Hant_HK]({{< ref "/f20/language/zh_Hant_HK.md" >}}) | 0 | 16757 | 0.0 | /mnt/stockage/packages/f20/openstack-nova/nova/locale/zh_HK/LC_MESSAGES/nova.po | 
+ | [en_US](/f20/language/en_US) | 6878 | 16757 | 41.0 | /mnt/stockage/packages/f20/openstack-nova/nova/locale/en_US/LC_MESSAGES/nova.po | 
+ | [cs](/f20/language/cs) | 3830 | 16757 | 22.9 | /mnt/stockage/packages/f20/openstack-nova/nova/locale/cs/LC_MESSAGES/nova.po | 
+ | [zh_Hans](/f20/language/zh_Hans) | 3830 | 16757 | 22.9 | /mnt/stockage/packages/f20/openstack-nova/nova/locale/zh_CN/LC_MESSAGES/nova.po | 
+ | [fr](/f20/language/fr) | 1328 | 16757 | 7.9 | /mnt/stockage/packages/f20/openstack-nova/nova/locale/fr/LC_MESSAGES/nova.po | 
+ | [tr](/f20/language/tr) | 2377 | 33514 | 7.1 | /mnt/stockage/packages/f20/openstack-nova/nova/locale/tr/LC_MESSAGES/nova.po/mnt/stockage/packages/f20/openstack-nova/nova/locale/tr_TR/LC_MESSAGES/nova.po | 
+ | [ru](/f20/language/ru) | 2322 | 33514 | 6.9 | /mnt/stockage/packages/f20/openstack-nova/nova/locale/ru_RU/LC_MESSAGES/nova.po/mnt/stockage/packages/f20/openstack-nova/nova/locale/ru/LC_MESSAGES/nova.po | 
+ | [en_AU](/f20/language/en_AU) | 705 | 16757 | 4.2 | /mnt/stockage/packages/f20/openstack-nova/nova/locale/en_AU/LC_MESSAGES/nova.po | 
+ | [ja](/f20/language/ja) | 705 | 16757 | 4.2 | /mnt/stockage/packages/f20/openstack-nova/nova/locale/ja/LC_MESSAGES/nova.po | 
+ | [pt_BR](/f20/language/pt_BR) | 661 | 16757 | 3.9 | /mnt/stockage/packages/f20/openstack-nova/nova/locale/pt_BR/LC_MESSAGES/nova.po | 
+ | [es](/f20/language/es) | 640 | 16757 | 3.8 | /mnt/stockage/packages/f20/openstack-nova/nova/locale/es/LC_MESSAGES/nova.po | 
+ | [en_GB](/f20/language/en_GB) | 399 | 16757 | 2.4 | /mnt/stockage/packages/f20/openstack-nova/nova/locale/en_GB/LC_MESSAGES/nova.po | 
+ | [nb_NO](/f20/language/nb_NO) | 208 | 16757 | 1.2 | /mnt/stockage/packages/f20/openstack-nova/nova/locale/nb/LC_MESSAGES/nova.po | 
+ | [it](/f20/language/it) | 191 | 33514 | 0.6 | /mnt/stockage/packages/f20/openstack-nova/nova/locale/it/LC_MESSAGES/nova.po/mnt/stockage/packages/f20/openstack-nova/nova/locale/it_IT/LC_MESSAGES/nova.po | 
+ | [zh_Hant](/f20/language/zh_Hant) | 83 | 16757 | 0.5 | /mnt/stockage/packages/f20/openstack-nova/nova/locale/zh_TW/LC_MESSAGES/nova.po | 
+ | [ko](/f20/language/ko) | 138 | 33514 | 0.4 | /mnt/stockage/packages/f20/openstack-nova/nova/locale/ko/LC_MESSAGES/nova.po/mnt/stockage/packages/f20/openstack-nova/nova/locale/ko_KR/LC_MESSAGES/nova.po | 
+ | [de](/f20/language/de) | 54 | 16757 | 0.3 | /mnt/stockage/packages/f20/openstack-nova/nova/locale/de/LC_MESSAGES/nova.po | 
+ | [uk](/f20/language/uk) | 52 | 16757 | 0.3 | /mnt/stockage/packages/f20/openstack-nova/nova/locale/uk/LC_MESSAGES/nova.po | 
+ | [tl](/f20/language/tl) | 20 | 33514 | 0.1 | /mnt/stockage/packages/f20/openstack-nova/nova/locale/tl_PH/LC_MESSAGES/nova.po/mnt/stockage/packages/f20/openstack-nova/nova/locale/tl/LC_MESSAGES/nova.po | 
+ | [da](/f20/language/da) | 4 | 16757 | 0.0 | /mnt/stockage/packages/f20/openstack-nova/nova/locale/da/LC_MESSAGES/nova.po | 
+ | [ar](/f20/language/ar) | 0 | 16757 | 0.0 | /mnt/stockage/packages/f20/openstack-nova/nova/locale/ar/LC_MESSAGES/nova.po | 
+ | [bg](/f20/language/bg) | 0 | 16757 | 0.0 | /mnt/stockage/packages/f20/openstack-nova/nova/locale/bg_BG/LC_MESSAGES/nova.po | 
+ | [bs](/f20/language/bs) | 0 | 16757 | 0.0 | /mnt/stockage/packages/f20/openstack-nova/nova/locale/bs/LC_MESSAGES/nova.po | 
+ | [ca](/f20/language/ca) | 0 | 16757 | 0.0 | /mnt/stockage/packages/f20/openstack-nova/nova/locale/ca/LC_MESSAGES/nova.po | 
+ | [error](/f20/language/error) | 0 | 16757 | 0.0 | /mnt/stockage/packages/f20/openstack-nova/nova/locale/sw_KE/LC_MESSAGES/nova.po | 
+ | [es_MX](/f20/language/es_MX) | 0 | 16757 | 0.0 | /mnt/stockage/packages/f20/openstack-nova/nova/locale/es_MX/LC_MESSAGES/nova.po | 
+ | [fi](/f20/language/fi) | 0 | 16757 | 0.0 | /mnt/stockage/packages/f20/openstack-nova/nova/locale/fi_FI/LC_MESSAGES/nova.po | 
+ | [fil](/f20/language/fil) | 0 | 16757 | 0.0 | /mnt/stockage/packages/f20/openstack-nova/nova/locale/fil/LC_MESSAGES/nova.po | 
+ | [hi](/f20/language/hi) | 0 | 16757 | 0.0 | /mnt/stockage/packages/f20/openstack-nova/nova/locale/hi/LC_MESSAGES/nova.po | 
+ | [hr](/f20/language/hr) | 0 | 16757 | 0.0 | /mnt/stockage/packages/f20/openstack-nova/nova/locale/hr/LC_MESSAGES/nova.po | 
+ | [hu](/f20/language/hu) | 0 | 16757 | 0.0 | /mnt/stockage/packages/f20/openstack-nova/nova/locale/hu/LC_MESSAGES/nova.po | 
+ | [id](/f20/language/id) | 0 | 16757 | 0.0 | /mnt/stockage/packages/f20/openstack-nova/nova/locale/id/LC_MESSAGES/nova.po | 
+ | [ka](/f20/language/ka) | 0 | 16757 | 0.0 | /mnt/stockage/packages/f20/openstack-nova/nova/locale/ka_GE/LC_MESSAGES/nova.po | 
+ | [kn](/f20/language/kn) | 0 | 16757 | 0.0 | /mnt/stockage/packages/f20/openstack-nova/nova/locale/kn/LC_MESSAGES/nova.po | 
+ | [ms](/f20/language/ms) | 0 | 16757 | 0.0 | /mnt/stockage/packages/f20/openstack-nova/nova/locale/ms/LC_MESSAGES/nova.po | 
+ | [ne](/f20/language/ne) | 0 | 16757 | 0.0 | /mnt/stockage/packages/f20/openstack-nova/nova/locale/ne/LC_MESSAGES/nova.po | 
+ | [nl](/f20/language/nl) | 0 | 16757 | 0.0 | /mnt/stockage/packages/f20/openstack-nova/nova/locale/nl_NL/LC_MESSAGES/nova.po | 
+ | [pl](/f20/language/pl) | 0 | 16757 | 0.0 | /mnt/stockage/packages/f20/openstack-nova/nova/locale/pl_PL/LC_MESSAGES/nova.po | 
+ | [pt](/f20/language/pt) | 0 | 16757 | 0.0 | /mnt/stockage/packages/f20/openstack-nova/nova/locale/pt/LC_MESSAGES/nova.po | 
+ | [ro](/f20/language/ro) | 0 | 16757 | 0.0 | /mnt/stockage/packages/f20/openstack-nova/nova/locale/ro/LC_MESSAGES/nova.po | 
+ | [sk](/f20/language/sk) | 0 | 16757 | 0.0 | /mnt/stockage/packages/f20/openstack-nova/nova/locale/sk/LC_MESSAGES/nova.po | 
+ | [sl](/f20/language/sl) | 0 | 16757 | 0.0 | /mnt/stockage/packages/f20/openstack-nova/nova/locale/sl_SI/LC_MESSAGES/nova.po | 
+ | [vi](/f20/language/vi) | 0 | 16757 | 0.0 | /mnt/stockage/packages/f20/openstack-nova/nova/locale/vi_VN/LC_MESSAGES/nova.po | 
+ | [zh_Hant_HK](/f20/language/zh_Hant_HK) | 0 | 16757 | 0.0 | /mnt/stockage/packages/f20/openstack-nova/nova/locale/zh_HK/LC_MESSAGES/nova.po | 
 {.sortable}
 
 

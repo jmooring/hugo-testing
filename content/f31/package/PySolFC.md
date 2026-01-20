@@ -18,10 +18,10 @@ The package PySolFC (version 2.8.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f31/language/de.md" >}}) | 9265 | 10797 | 85.8 | /mnt/stockage/packages/f31/PySolFC/po/de_pysol.po/mnt/stockage/packages/f31/PySolFC/po/de_games.po/mnt/stockage/packages/f31/PySolFC/po/de.po | 
- | [ru]({{< ref "/f31/language/ru.md" >}}) | 9130 | 10797 | 84.6 | /mnt/stockage/packages/f31/PySolFC/po/ru_pysol.po/mnt/stockage/packages/f31/PySolFC/po/ru_games.po/mnt/stockage/packages/f31/PySolFC/po/ru.po | 
- | [pl]({{< ref "/f31/language/pl.md" >}}) | 5758 | 10797 | 53.3 | /mnt/stockage/packages/f31/PySolFC/po/pl_pysol.po/mnt/stockage/packages/f31/PySolFC/po/pl_games.po/mnt/stockage/packages/f31/PySolFC/po/pl.po | 
- | [it]({{< ref "/f31/language/it.md" >}}) | 5376 | 10797 | 49.8 | /mnt/stockage/packages/f31/PySolFC/po/it_pysol.po/mnt/stockage/packages/f31/PySolFC/po/it_games.po/mnt/stockage/packages/f31/PySolFC/po/it.po | 
+ | [de](/f31/language/de) | 9265 | 10797 | 85.8 | /mnt/stockage/packages/f31/PySolFC/po/de_pysol.po/mnt/stockage/packages/f31/PySolFC/po/de_games.po/mnt/stockage/packages/f31/PySolFC/po/de.po | 
+ | [ru](/f31/language/ru) | 9130 | 10797 | 84.6 | /mnt/stockage/packages/f31/PySolFC/po/ru_pysol.po/mnt/stockage/packages/f31/PySolFC/po/ru_games.po/mnt/stockage/packages/f31/PySolFC/po/ru.po | 
+ | [pl](/f31/language/pl) | 5758 | 10797 | 53.3 | /mnt/stockage/packages/f31/PySolFC/po/pl_pysol.po/mnt/stockage/packages/f31/PySolFC/po/pl_games.po/mnt/stockage/packages/f31/PySolFC/po/pl.po | 
+ | [it](/f31/language/it) | 5376 | 10797 | 49.8 | /mnt/stockage/packages/f31/PySolFC/po/it_pysol.po/mnt/stockage/packages/f31/PySolFC/po/it_games.po/mnt/stockage/packages/f31/PySolFC/po/it.po | 
 {.sortable}
 
 

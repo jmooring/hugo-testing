@@ -18,22 +18,22 @@ The package json-glib (version 0.15.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f18/language/cs.md" >}}) | 254 | 254 | 100.0 | /mnt/stockage/packages/f18/json-glib/po/cs.po | 
- | [de]({{< ref "/f18/language/de.md" >}}) | 254 | 254 | 100.0 | /mnt/stockage/packages/f18/json-glib/po/de.po | 
- | [el]({{< ref "/f18/language/el.md" >}}) | 254 | 254 | 100.0 | /mnt/stockage/packages/f18/json-glib/po/el.po | 
- | [es]({{< ref "/f18/language/es.md" >}}) | 254 | 254 | 100.0 | /mnt/stockage/packages/f18/json-glib/po/es.po | 
- | [gl]({{< ref "/f18/language/gl.md" >}}) | 254 | 254 | 100.0 | /mnt/stockage/packages/f18/json-glib/po/gl.po | 
- | [id]({{< ref "/f18/language/id.md" >}}) | 254 | 254 | 100.0 | /mnt/stockage/packages/f18/json-glib/po/id.po | 
- | [it]({{< ref "/f18/language/it.md" >}}) | 254 | 254 | 100.0 | /mnt/stockage/packages/f18/json-glib/po/it.po | 
- | [pl]({{< ref "/f18/language/pl.md" >}}) | 254 | 254 | 100.0 | /mnt/stockage/packages/f18/json-glib/po/pl.po | 
- | [pt_BR]({{< ref "/f18/language/pt_BR.md" >}}) | 254 | 254 | 100.0 | /mnt/stockage/packages/f18/json-glib/po/pt_BR.po | 
- | [ru]({{< ref "/f18/language/ru.md" >}}) | 254 | 254 | 100.0 | /mnt/stockage/packages/f18/json-glib/po/ru.po | 
- | [sl]({{< ref "/f18/language/sl.md" >}}) | 254 | 254 | 100.0 | /mnt/stockage/packages/f18/json-glib/po/sl.po | 
- | [tr]({{< ref "/f18/language/tr.md" >}}) | 254 | 254 | 100.0 | /mnt/stockage/packages/f18/json-glib/po/tr.po | 
- | [vi]({{< ref "/f18/language/vi.md" >}}) | 244 | 254 | 96.1 | /mnt/stockage/packages/f18/json-glib/po/vi.po | 
- | [sv]({{< ref "/f18/language/sv.md" >}}) | 128 | 254 | 50.4 | /mnt/stockage/packages/f18/json-glib/po/sv.po | 
- | [nb_NO]({{< ref "/f18/language/nb_NO.md" >}}) | 80 | 254 | 31.5 | /mnt/stockage/packages/f18/json-glib/po/nb.po | 
- | [pa]({{< ref "/f18/language/pa.md" >}}) | 49 | 254 | 19.3 | /mnt/stockage/packages/f18/json-glib/po/pa.po | 
+ | [cs](/f18/language/cs) | 254 | 254 | 100.0 | /mnt/stockage/packages/f18/json-glib/po/cs.po | 
+ | [de](/f18/language/de) | 254 | 254 | 100.0 | /mnt/stockage/packages/f18/json-glib/po/de.po | 
+ | [el](/f18/language/el) | 254 | 254 | 100.0 | /mnt/stockage/packages/f18/json-glib/po/el.po | 
+ | [es](/f18/language/es) | 254 | 254 | 100.0 | /mnt/stockage/packages/f18/json-glib/po/es.po | 
+ | [gl](/f18/language/gl) | 254 | 254 | 100.0 | /mnt/stockage/packages/f18/json-glib/po/gl.po | 
+ | [id](/f18/language/id) | 254 | 254 | 100.0 | /mnt/stockage/packages/f18/json-glib/po/id.po | 
+ | [it](/f18/language/it) | 254 | 254 | 100.0 | /mnt/stockage/packages/f18/json-glib/po/it.po | 
+ | [pl](/f18/language/pl) | 254 | 254 | 100.0 | /mnt/stockage/packages/f18/json-glib/po/pl.po | 
+ | [pt_BR](/f18/language/pt_BR) | 254 | 254 | 100.0 | /mnt/stockage/packages/f18/json-glib/po/pt_BR.po | 
+ | [ru](/f18/language/ru) | 254 | 254 | 100.0 | /mnt/stockage/packages/f18/json-glib/po/ru.po | 
+ | [sl](/f18/language/sl) | 254 | 254 | 100.0 | /mnt/stockage/packages/f18/json-glib/po/sl.po | 
+ | [tr](/f18/language/tr) | 254 | 254 | 100.0 | /mnt/stockage/packages/f18/json-glib/po/tr.po | 
+ | [vi](/f18/language/vi) | 244 | 254 | 96.1 | /mnt/stockage/packages/f18/json-glib/po/vi.po | 
+ | [sv](/f18/language/sv) | 128 | 254 | 50.4 | /mnt/stockage/packages/f18/json-glib/po/sv.po | 
+ | [nb_NO](/f18/language/nb_NO) | 80 | 254 | 31.5 | /mnt/stockage/packages/f18/json-glib/po/nb.po | 
+ | [pa](/f18/language/pa) | 49 | 254 | 19.3 | /mnt/stockage/packages/f18/json-glib/po/pa.po | 
 {.sortable}
 
 

@@ -38,50 +38,50 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [sugar-base]({{< ref "/f29/package/sugar-base.md" >}}) | 5 | 5 | 100.0 | LANGUAGE <LL@li.org> | 
- | [sugar-connect]({{< ref "/f29/package/sugar-connect.md" >}}) | 31 | 31 | 100.0 | LANGUAGE <LL@li.org> | 
- | [olpc-switch-desktop]({{< ref "/f29/package/olpc-switch-desktop.md" >}}) | 153 | 158 | 96.8 | LANGUAGE <LL@li.org> | 
- | [sugar-labyrinth]({{< ref "/f29/package/sugar-labyrinth.md" >}}) | 208 | 281 | 74.0 | LANGUAGE <LL@li.org> | 
- | [sugar-terminal]({{< ref "/f29/package/sugar-terminal.md" >}}) | 11 | 15 | 73.3 | LANGUAGE <LL@li.org> | 
- | [sugar-distance]({{< ref "/f29/package/sugar-distance.md" >}}) | 72 | 99 | 72.7 | LANGUAGE <LL@li.org> | 
- | [sugar-infoslicer]({{< ref "/f29/package/sugar-infoslicer.md" >}}) | 132 | 236 | 55.9 | LANGUAGE <LL@li.org> | 
- | [sugar-write]({{< ref "/f29/package/sugar-write.md" >}}) | 63 | 121 | 52.1 | LANGUAGE <LL@li.org> | 
- | [sugar-finance]({{< ref "/f29/package/sugar-finance.md" >}}) | 98 | 189 | 51.9 | LANGUAGE <LL@li.org> | 
- | [sugar-typing-turtle]({{< ref "/f29/package/sugar-typing-turtle.md" >}}) | 310 | 599 | 51.8 | LANGUAGE <LL@li.org> | 
- | [sugar-toolkit]({{< ref "/f29/package/sugar-toolkit.md" >}}) | 37 | 73 | 50.7 | LANGUAGE <LL@li.org> | 
- | [sugar-chat]({{< ref "/f29/package/sugar-chat.md" >}}) | 27 | 55 | 49.1 | LANGUAGE <LL@li.org> | 
- | [sugar-calculator]({{< ref "/f29/package/sugar-calculator.md" >}}) | 374 | 871 | 42.9 | LANGUAGE <LL@li.org> | 
- | [sugar-paint]({{< ref "/f29/package/sugar-paint.md" >}}) | 37 | 90 | 41.1 | LANGUAGE <LL@li.org> | 
- | [sugar-log]({{< ref "/f29/package/sugar-log.md" >}}) | 39 | 98 | 39.8 | LANGUAGE <LL@li.org> | 
- | [sugar-pippy]({{< ref "/f29/package/sugar-pippy.md" >}}) | 43 | 109 | 39.4 | LANGUAGE <LL@li.org> | 
- | [sugar-imageviewer]({{< ref "/f29/package/sugar-imageviewer.md" >}}) | 18 | 51 | 35.3 | LANGUAGE <LL@li.org> | 
- | [sugar-record]({{< ref "/f29/package/sugar-record.md" >}}) | 20 | 62 | 32.3 | LANGUAGE <LL@li.org> | 
- | [sugar-physics]({{< ref "/f29/package/sugar-physics.md" >}}) | 13 | 48 | 27.1 | LANGUAGE <LL@li.org> | 
- | [sugar-read]({{< ref "/f29/package/sugar-read.md" >}}) | 30 | 114 | 26.3 | LANGUAGE <LL@li.org> | 
- | [sugar-memorize]({{< ref "/f29/package/sugar-memorize.md" >}}) | 25 | 142 | 17.6 | LANGUAGE <LL@li.org> | 
- | [sugar-browse]({{< ref "/f29/package/sugar-browse.md" >}}) | 27 | 189 | 14.3 | LANGUAGE <LL@li.org> | 
- | [sugar-jukebox]({{< ref "/f29/package/sugar-jukebox.md" >}}) | 4 | 65 | 6.2 | LANGUAGE <LL@li.org> | 
- | [sugar-measure]({{< ref "/f29/package/sugar-measure.md" >}}) | 9 | 155 | 5.8 | LANGUAGE <LL@li.org> | 
- | [sugar-turtleart]({{< ref "/f29/package/sugar-turtleart.md" >}}) | 83 | 1459 | 5.7 | Dari <walter@sugarlabs.org> | 
- | [openerp]({{< ref "/f29/package/openerp.md" >}}) | 0 | 34832 | 0.0 | Dari Persian <fa_AF@li.org> | 
- | [sugar-abacus]({{< ref "/f29/package/sugar-abacus.md" >}}) | 0 | 34 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-calendario]({{< ref "/f29/package/sugar-calendario.md" >}}) | 0 | 43 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-clock]({{< ref "/f29/package/sugar-clock.md" >}}) | 0 | 66 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-deducto]({{< ref "/f29/package/sugar-deducto.md" >}}) | 0 | 109 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-fototoon]({{< ref "/f29/package/sugar-fototoon.md" >}}) | 0 | 77 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-fractionbounce]({{< ref "/f29/package/sugar-fractionbounce.md" >}}) | 0 | 68 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-getiabooks]({{< ref "/f29/package/sugar-getiabooks.md" >}}) | 0 | 150 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-implode]({{< ref "/f29/package/sugar-implode.md" >}}) | 0 | 77 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-maze]({{< ref "/f29/package/sugar-maze.md" >}}) | 0 | 7 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-playgo]({{< ref "/f29/package/sugar-playgo.md" >}}) | 0 | 85 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-ruler]({{< ref "/f29/package/sugar-ruler.md" >}}) | 0 | 29 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-speak]({{< ref "/f29/package/sugar-speak.md" >}}) | 0 | 227 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-stopwatch]({{< ref "/f29/package/sugar-stopwatch.md" >}}) | 0 | 5 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-story]({{< ref "/f29/package/sugar-story.md" >}}) | 0 | 24 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-view-slides]({{< ref "/f29/package/sugar-view-slides.md" >}}) | 0 | 7 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-visualmatch]({{< ref "/f29/package/sugar-visualmatch.md" >}}) | 0 | 158 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-words]({{< ref "/f29/package/sugar-words.md" >}}) | 0 | 3 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-xoeditor]({{< ref "/f29/package/sugar-xoeditor.md" >}}) | 0 | 29 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-base](/f29/package/sugar-base) | 5 | 5 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-connect](/f29/package/sugar-connect) | 31 | 31 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [olpc-switch-desktop](/f29/package/olpc-switch-desktop) | 153 | 158 | 96.8 | LANGUAGE <LL@li.org> | 
+ | [sugar-labyrinth](/f29/package/sugar-labyrinth) | 208 | 281 | 74.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-terminal](/f29/package/sugar-terminal) | 11 | 15 | 73.3 | LANGUAGE <LL@li.org> | 
+ | [sugar-distance](/f29/package/sugar-distance) | 72 | 99 | 72.7 | LANGUAGE <LL@li.org> | 
+ | [sugar-infoslicer](/f29/package/sugar-infoslicer) | 132 | 236 | 55.9 | LANGUAGE <LL@li.org> | 
+ | [sugar-write](/f29/package/sugar-write) | 63 | 121 | 52.1 | LANGUAGE <LL@li.org> | 
+ | [sugar-finance](/f29/package/sugar-finance) | 98 | 189 | 51.9 | LANGUAGE <LL@li.org> | 
+ | [sugar-typing-turtle](/f29/package/sugar-typing-turtle) | 310 | 599 | 51.8 | LANGUAGE <LL@li.org> | 
+ | [sugar-toolkit](/f29/package/sugar-toolkit) | 37 | 73 | 50.7 | LANGUAGE <LL@li.org> | 
+ | [sugar-chat](/f29/package/sugar-chat) | 27 | 55 | 49.1 | LANGUAGE <LL@li.org> | 
+ | [sugar-calculator](/f29/package/sugar-calculator) | 374 | 871 | 42.9 | LANGUAGE <LL@li.org> | 
+ | [sugar-paint](/f29/package/sugar-paint) | 37 | 90 | 41.1 | LANGUAGE <LL@li.org> | 
+ | [sugar-log](/f29/package/sugar-log) | 39 | 98 | 39.8 | LANGUAGE <LL@li.org> | 
+ | [sugar-pippy](/f29/package/sugar-pippy) | 43 | 109 | 39.4 | LANGUAGE <LL@li.org> | 
+ | [sugar-imageviewer](/f29/package/sugar-imageviewer) | 18 | 51 | 35.3 | LANGUAGE <LL@li.org> | 
+ | [sugar-record](/f29/package/sugar-record) | 20 | 62 | 32.3 | LANGUAGE <LL@li.org> | 
+ | [sugar-physics](/f29/package/sugar-physics) | 13 | 48 | 27.1 | LANGUAGE <LL@li.org> | 
+ | [sugar-read](/f29/package/sugar-read) | 30 | 114 | 26.3 | LANGUAGE <LL@li.org> | 
+ | [sugar-memorize](/f29/package/sugar-memorize) | 25 | 142 | 17.6 | LANGUAGE <LL@li.org> | 
+ | [sugar-browse](/f29/package/sugar-browse) | 27 | 189 | 14.3 | LANGUAGE <LL@li.org> | 
+ | [sugar-jukebox](/f29/package/sugar-jukebox) | 4 | 65 | 6.2 | LANGUAGE <LL@li.org> | 
+ | [sugar-measure](/f29/package/sugar-measure) | 9 | 155 | 5.8 | LANGUAGE <LL@li.org> | 
+ | [sugar-turtleart](/f29/package/sugar-turtleart) | 83 | 1459 | 5.7 | Dari <walter@sugarlabs.org> | 
+ | [openerp](/f29/package/openerp) | 0 | 34832 | 0.0 | Dari Persian <fa_AF@li.org> | 
+ | [sugar-abacus](/f29/package/sugar-abacus) | 0 | 34 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-calendario](/f29/package/sugar-calendario) | 0 | 43 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-clock](/f29/package/sugar-clock) | 0 | 66 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-deducto](/f29/package/sugar-deducto) | 0 | 109 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-fototoon](/f29/package/sugar-fototoon) | 0 | 77 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-fractionbounce](/f29/package/sugar-fractionbounce) | 0 | 68 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-getiabooks](/f29/package/sugar-getiabooks) | 0 | 150 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-implode](/f29/package/sugar-implode) | 0 | 77 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-maze](/f29/package/sugar-maze) | 0 | 7 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-playgo](/f29/package/sugar-playgo) | 0 | 85 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-ruler](/f29/package/sugar-ruler) | 0 | 29 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-speak](/f29/package/sugar-speak) | 0 | 227 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-stopwatch](/f29/package/sugar-stopwatch) | 0 | 5 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-story](/f29/package/sugar-story) | 0 | 24 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-view-slides](/f29/package/sugar-view-slides) | 0 | 7 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-visualmatch](/f29/package/sugar-visualmatch) | 0 | 158 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-words](/f29/package/sugar-words) | 0 | 3 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-xoeditor](/f29/package/sugar-xoeditor) | 0 | 29 | 0.0 | LANGUAGE <LL@li.org> | 
 {.sortable}
 
 

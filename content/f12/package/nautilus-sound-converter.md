@@ -18,7 +18,7 @@ The package nautilus-sound-converter (version 1.0.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [sv]({{< ref "/f12/language/sv.md" >}}) | 149 | 149 | 100.0 | /mnt/stockage/packages/f12/nautilus-sound-converter/po/sv.po | 
+ | [sv](/f12/language/sv) | 149 | 149 | 100.0 | /mnt/stockage/packages/f12/nautilus-sound-converter/po/sv.po | 
 {.sortable}
 
 

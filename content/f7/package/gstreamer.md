@@ -18,27 +18,27 @@ The package gstreamer (version 0.10.13):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [bg]({{< ref "/f7/language/bg.md" >}}) | 1103 | 1135 | 97.2 | /mnt/stockage/packages/f7/gstreamer/po/bg.po | 
- | [da]({{< ref "/f7/language/da.md" >}}) | 1101 | 1135 | 97.0 | /mnt/stockage/packages/f7/gstreamer/po/da.po | 
- | [it]({{< ref "/f7/language/it.md" >}}) | 1101 | 1135 | 97.0 | /mnt/stockage/packages/f7/gstreamer/po/it.po | 
- | [nl]({{< ref "/f7/language/nl.md" >}}) | 1101 | 1135 | 97.0 | /mnt/stockage/packages/f7/gstreamer/po/nl.po | 
- | [sv]({{< ref "/f7/language/sv.md" >}}) | 1101 | 1135 | 97.0 | /mnt/stockage/packages/f7/gstreamer/po/sv.po | 
- | [uk]({{< ref "/f7/language/uk.md" >}}) | 912 | 1135 | 80.4 | /mnt/stockage/packages/f7/gstreamer/po/uk.po | 
- | [vi]({{< ref "/f7/language/vi.md" >}}) | 912 | 1135 | 80.4 | /mnt/stockage/packages/f7/gstreamer/po/vi.po | 
- | [ca]({{< ref "/f7/language/ca.md" >}}) | 901 | 1135 | 79.4 | /mnt/stockage/packages/f7/gstreamer/po/ca.po | 
- | [af]({{< ref "/f7/language/af.md" >}}) | 894 | 1135 | 78.8 | /mnt/stockage/packages/f7/gstreamer/po/af.po | 
- | [sq]({{< ref "/f7/language/sq.md" >}}) | 714 | 1135 | 62.9 | /mnt/stockage/packages/f7/gstreamer/po/sq.po | 
- | [cs]({{< ref "/f7/language/cs.md" >}}) | 711 | 1135 | 62.6 | /mnt/stockage/packages/f7/gstreamer/po/cs.po | 
- | [sr]({{< ref "/f7/language/sr.md" >}}) | 711 | 1135 | 62.6 | /mnt/stockage/packages/f7/gstreamer/po/sr.po | 
- | [en_GB]({{< ref "/f7/language/en_GB.md" >}}) | 702 | 1135 | 61.9 | /mnt/stockage/packages/f7/gstreamer/po/en_GB.po | 
- | [tr]({{< ref "/f7/language/tr.md" >}}) | 702 | 1135 | 61.9 | /mnt/stockage/packages/f7/gstreamer/po/tr.po | 
- | [de]({{< ref "/f7/language/de.md" >}}) | 674 | 1135 | 59.4 | /mnt/stockage/packages/f7/gstreamer/po/de.po | 
- | [ru]({{< ref "/f7/language/ru.md" >}}) | 420 | 1135 | 37.0 | /mnt/stockage/packages/f7/gstreamer/po/ru.po | 
- | [zh_Hant]({{< ref "/f7/language/zh_Hant.md" >}}) | 412 | 1135 | 36.3 | /mnt/stockage/packages/f7/gstreamer/po/zh_TW.po | 
- | [fr]({{< ref "/f7/language/fr.md" >}}) | 384 | 1135 | 33.8 | /mnt/stockage/packages/f7/gstreamer/po/fr.po | 
- | [zh_Hans]({{< ref "/f7/language/zh_Hans.md" >}}) | 367 | 1135 | 32.3 | /mnt/stockage/packages/f7/gstreamer/po/zh_CN.po | 
- | [nb_NO]({{< ref "/f7/language/nb_NO.md" >}}) | 274 | 1135 | 24.1 | /mnt/stockage/packages/f7/gstreamer/po/nb.po | 
- | [az]({{< ref "/f7/language/az.md" >}}) | 43 | 1135 | 3.8 | /mnt/stockage/packages/f7/gstreamer/po/az.po | 
+ | [bg](/f7/language/bg) | 1103 | 1135 | 97.2 | /mnt/stockage/packages/f7/gstreamer/po/bg.po | 
+ | [da](/f7/language/da) | 1101 | 1135 | 97.0 | /mnt/stockage/packages/f7/gstreamer/po/da.po | 
+ | [it](/f7/language/it) | 1101 | 1135 | 97.0 | /mnt/stockage/packages/f7/gstreamer/po/it.po | 
+ | [nl](/f7/language/nl) | 1101 | 1135 | 97.0 | /mnt/stockage/packages/f7/gstreamer/po/nl.po | 
+ | [sv](/f7/language/sv) | 1101 | 1135 | 97.0 | /mnt/stockage/packages/f7/gstreamer/po/sv.po | 
+ | [uk](/f7/language/uk) | 912 | 1135 | 80.4 | /mnt/stockage/packages/f7/gstreamer/po/uk.po | 
+ | [vi](/f7/language/vi) | 912 | 1135 | 80.4 | /mnt/stockage/packages/f7/gstreamer/po/vi.po | 
+ | [ca](/f7/language/ca) | 901 | 1135 | 79.4 | /mnt/stockage/packages/f7/gstreamer/po/ca.po | 
+ | [af](/f7/language/af) | 894 | 1135 | 78.8 | /mnt/stockage/packages/f7/gstreamer/po/af.po | 
+ | [sq](/f7/language/sq) | 714 | 1135 | 62.9 | /mnt/stockage/packages/f7/gstreamer/po/sq.po | 
+ | [cs](/f7/language/cs) | 711 | 1135 | 62.6 | /mnt/stockage/packages/f7/gstreamer/po/cs.po | 
+ | [sr](/f7/language/sr) | 711 | 1135 | 62.6 | /mnt/stockage/packages/f7/gstreamer/po/sr.po | 
+ | [en_GB](/f7/language/en_GB) | 702 | 1135 | 61.9 | /mnt/stockage/packages/f7/gstreamer/po/en_GB.po | 
+ | [tr](/f7/language/tr) | 702 | 1135 | 61.9 | /mnt/stockage/packages/f7/gstreamer/po/tr.po | 
+ | [de](/f7/language/de) | 674 | 1135 | 59.4 | /mnt/stockage/packages/f7/gstreamer/po/de.po | 
+ | [ru](/f7/language/ru) | 420 | 1135 | 37.0 | /mnt/stockage/packages/f7/gstreamer/po/ru.po | 
+ | [zh_Hant](/f7/language/zh_Hant) | 412 | 1135 | 36.3 | /mnt/stockage/packages/f7/gstreamer/po/zh_TW.po | 
+ | [fr](/f7/language/fr) | 384 | 1135 | 33.8 | /mnt/stockage/packages/f7/gstreamer/po/fr.po | 
+ | [zh_Hans](/f7/language/zh_Hans) | 367 | 1135 | 32.3 | /mnt/stockage/packages/f7/gstreamer/po/zh_CN.po | 
+ | [nb_NO](/f7/language/nb_NO) | 274 | 1135 | 24.1 | /mnt/stockage/packages/f7/gstreamer/po/nb.po | 
+ | [az](/f7/language/az) | 43 | 1135 | 3.8 | /mnt/stockage/packages/f7/gstreamer/po/az.po | 
 {.sortable}
 
 

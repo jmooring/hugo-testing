@@ -18,13 +18,13 @@ The package backup-manager (version 0.7.8):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f10/language/cs.md" >}}) | 967 | 1041 | 92.9 | /mnt/stockage/packages/f10/backup-manager/po/cs.po | 
- | [de]({{< ref "/f10/language/de.md" >}}) | 967 | 1041 | 92.9 | /mnt/stockage/packages/f10/backup-manager/po/de.po | 
- | [es]({{< ref "/f10/language/es.md" >}}) | 967 | 1041 | 92.9 | /mnt/stockage/packages/f10/backup-manager/po/es.po | 
- | [fr]({{< ref "/f10/language/fr.md" >}}) | 967 | 1041 | 92.9 | /mnt/stockage/packages/f10/backup-manager/po/fr.po | 
- | [it]({{< ref "/f10/language/it.md" >}}) | 967 | 1041 | 92.9 | /mnt/stockage/packages/f10/backup-manager/po/it.po | 
- | [nl]({{< ref "/f10/language/nl.md" >}}) | 967 | 1041 | 92.9 | /mnt/stockage/packages/f10/backup-manager/po/nl.po | 
- | [vi]({{< ref "/f10/language/vi.md" >}}) | 967 | 1041 | 92.9 | /mnt/stockage/packages/f10/backup-manager/po/vi.po | 
+ | [cs](/f10/language/cs) | 967 | 1041 | 92.9 | /mnt/stockage/packages/f10/backup-manager/po/cs.po | 
+ | [de](/f10/language/de) | 967 | 1041 | 92.9 | /mnt/stockage/packages/f10/backup-manager/po/de.po | 
+ | [es](/f10/language/es) | 967 | 1041 | 92.9 | /mnt/stockage/packages/f10/backup-manager/po/es.po | 
+ | [fr](/f10/language/fr) | 967 | 1041 | 92.9 | /mnt/stockage/packages/f10/backup-manager/po/fr.po | 
+ | [it](/f10/language/it) | 967 | 1041 | 92.9 | /mnt/stockage/packages/f10/backup-manager/po/it.po | 
+ | [nl](/f10/language/nl) | 967 | 1041 | 92.9 | /mnt/stockage/packages/f10/backup-manager/po/nl.po | 
+ | [vi](/f10/language/vi) | 967 | 1041 | 92.9 | /mnt/stockage/packages/f10/backup-manager/po/vi.po | 
 {.sortable}
 
 

@@ -18,7 +18,7 @@ The package libkkc (version 0.3.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ja]({{< ref "/f20/language/ja.md" >}}) | 248 | 248 | 100.0 | /mnt/stockage/packages/f20/libkkc/po/ja.po | 
+ | [ja](/f20/language/ja) | 248 | 248 | 100.0 | /mnt/stockage/packages/f20/libkkc/po/ja.po | 
 {.sortable}
 
 

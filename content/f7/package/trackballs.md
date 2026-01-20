@@ -18,12 +18,12 @@ The package trackballs (version 1.1.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [hu]({{< ref "/f7/language/hu.md" >}}) | 937 | 954 | 98.2 | /mnt/stockage/packages/f7/trackballs/po/hu.po | 
- | [sk]({{< ref "/f7/language/sk.md" >}}) | 913 | 954 | 95.7 | /mnt/stockage/packages/f7/trackballs/po/sk.po | 
- | [it]({{< ref "/f7/language/it.md" >}}) | 793 | 954 | 83.1 | /mnt/stockage/packages/f7/trackballs/po/it.po | 
- | [fr]({{< ref "/f7/language/fr.md" >}}) | 791 | 954 | 82.9 | /mnt/stockage/packages/f7/trackballs/po/fr.po | 
- | [sv]({{< ref "/f7/language/sv.md" >}}) | 592 | 954 | 62.1 | /mnt/stockage/packages/f7/trackballs/po/sv.po | 
- | [de]({{< ref "/f7/language/de.md" >}}) | 0 | 954 | 0.0 | /mnt/stockage/packages/f7/trackballs/po/de.po | 
+ | [hu](/f7/language/hu) | 937 | 954 | 98.2 | /mnt/stockage/packages/f7/trackballs/po/hu.po | 
+ | [sk](/f7/language/sk) | 913 | 954 | 95.7 | /mnt/stockage/packages/f7/trackballs/po/sk.po | 
+ | [it](/f7/language/it) | 793 | 954 | 83.1 | /mnt/stockage/packages/f7/trackballs/po/it.po | 
+ | [fr](/f7/language/fr) | 791 | 954 | 82.9 | /mnt/stockage/packages/f7/trackballs/po/fr.po | 
+ | [sv](/f7/language/sv) | 592 | 954 | 62.1 | /mnt/stockage/packages/f7/trackballs/po/sv.po | 
+ | [de](/f7/language/de) | 0 | 954 | 0.0 | /mnt/stockage/packages/f7/trackballs/po/de.po | 
 {.sortable}
 
 

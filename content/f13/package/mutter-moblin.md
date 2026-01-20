@@ -18,16 +18,16 @@ The package mutter-moblin (version 0.43.8):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f13/language/de.md" >}}) | 52 | 52 | 100.0 | /mnt/stockage/packages/f13/mutter-moblin/po/de.po | 
- | [es]({{< ref "/f13/language/es.md" >}}) | 52 | 52 | 100.0 | /mnt/stockage/packages/f13/mutter-moblin/po/es.po | 
- | [fi]({{< ref "/f13/language/fi.md" >}}) | 81 | 81 | 100.0 | /mnt/stockage/packages/f13/mutter-moblin/po/fi.po | 
- | [fr]({{< ref "/f13/language/fr.md" >}}) | 52 | 52 | 100.0 | /mnt/stockage/packages/f13/mutter-moblin/po/fr.po | 
- | [ja]({{< ref "/f13/language/ja.md" >}}) | 52 | 52 | 100.0 | /mnt/stockage/packages/f13/mutter-moblin/po/ja.po | 
- | [ko]({{< ref "/f13/language/ko.md" >}}) | 44 | 44 | 100.0 | /mnt/stockage/packages/f13/mutter-moblin/po/ko.po | 
- | [pt_BR]({{< ref "/f13/language/pt_BR.md" >}}) | 52 | 52 | 100.0 | /mnt/stockage/packages/f13/mutter-moblin/po/pt_BR.po | 
- | [sv]({{< ref "/f13/language/sv.md" >}}) | 88 | 88 | 100.0 | /mnt/stockage/packages/f13/mutter-moblin/po/sv.po | 
- | [zh_Hans]({{< ref "/f13/language/zh_Hans.md" >}}) | 52 | 52 | 100.0 | /mnt/stockage/packages/f13/mutter-moblin/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f13/language/zh_Hant.md" >}}) | 52 | 52 | 100.0 | /mnt/stockage/packages/f13/mutter-moblin/po/zh_TW.po | 
+ | [de](/f13/language/de) | 52 | 52 | 100.0 | /mnt/stockage/packages/f13/mutter-moblin/po/de.po | 
+ | [es](/f13/language/es) | 52 | 52 | 100.0 | /mnt/stockage/packages/f13/mutter-moblin/po/es.po | 
+ | [fi](/f13/language/fi) | 81 | 81 | 100.0 | /mnt/stockage/packages/f13/mutter-moblin/po/fi.po | 
+ | [fr](/f13/language/fr) | 52 | 52 | 100.0 | /mnt/stockage/packages/f13/mutter-moblin/po/fr.po | 
+ | [ja](/f13/language/ja) | 52 | 52 | 100.0 | /mnt/stockage/packages/f13/mutter-moblin/po/ja.po | 
+ | [ko](/f13/language/ko) | 44 | 44 | 100.0 | /mnt/stockage/packages/f13/mutter-moblin/po/ko.po | 
+ | [pt_BR](/f13/language/pt_BR) | 52 | 52 | 100.0 | /mnt/stockage/packages/f13/mutter-moblin/po/pt_BR.po | 
+ | [sv](/f13/language/sv) | 88 | 88 | 100.0 | /mnt/stockage/packages/f13/mutter-moblin/po/sv.po | 
+ | [zh_Hans](/f13/language/zh_Hans) | 52 | 52 | 100.0 | /mnt/stockage/packages/f13/mutter-moblin/po/zh_CN.po | 
+ | [zh_Hant](/f13/language/zh_Hant) | 52 | 52 | 100.0 | /mnt/stockage/packages/f13/mutter-moblin/po/zh_TW.po | 
 {.sortable}
 
 

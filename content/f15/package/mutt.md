@@ -18,35 +18,35 @@ The package mutt (version 1.5.21):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f15/language/fr.md" >}}) | 5377 | 5377 | 100.0 | /mnt/stockage/packages/f15/mutt/po/fr.po | 
- | [cs]({{< ref "/f15/language/cs.md" >}}) | 5372 | 5377 | 99.9 | /mnt/stockage/packages/f15/mutt/po/cs.po | 
- | [de]({{< ref "/f15/language/de.md" >}}) | 5265 | 5377 | 97.9 | /mnt/stockage/packages/f15/mutt/po/de.po | 
- | [ca]({{< ref "/f15/language/ca.md" >}}) | 5245 | 5377 | 97.5 | /mnt/stockage/packages/f15/mutt/po/ca.po | 
- | [ru]({{< ref "/f15/language/ru.md" >}}) | 5245 | 5377 | 97.5 | /mnt/stockage/packages/f15/mutt/po/ru.po | 
- | [zh_Hans]({{< ref "/f15/language/zh_Hans.md" >}}) | 5245 | 5377 | 97.5 | /mnt/stockage/packages/f15/mutt/po/zh_CN.po | 
- | [nl]({{< ref "/f15/language/nl.md" >}}) | 5190 | 5377 | 96.5 | /mnt/stockage/packages/f15/mutt/po/nl.po | 
- | [ja]({{< ref "/f15/language/ja.md" >}}) | 5031 | 5377 | 93.6 | /mnt/stockage/packages/f15/mutt/po/ja.po | 
- | [sv]({{< ref "/f15/language/sv.md" >}}) | 4958 | 5377 | 92.2 | /mnt/stockage/packages/f15/mutt/po/sv.po | 
- | [pl]({{< ref "/f15/language/pl.md" >}}) | 4953 | 5377 | 92.1 | /mnt/stockage/packages/f15/mutt/po/pl.po | 
- | [eo]({{< ref "/f15/language/eo.md" >}}) | 4940 | 5377 | 91.9 | /mnt/stockage/packages/f15/mutt/po/eo.po | 
- | [eu]({{< ref "/f15/language/eu.md" >}}) | 4854 | 5377 | 90.3 | /mnt/stockage/packages/f15/mutt/po/eu.po | 
- | [id]({{< ref "/f15/language/id.md" >}}) | 4821 | 5377 | 89.7 | /mnt/stockage/packages/f15/mutt/po/id.po | 
- | [ga]({{< ref "/f15/language/ga.md" >}}) | 4779 | 5377 | 88.9 | /mnt/stockage/packages/f15/mutt/po/ga.po | 
- | [tr]({{< ref "/f15/language/tr.md" >}}) | 4741 | 5377 | 88.2 | /mnt/stockage/packages/f15/mutt/po/tr.po | 
- | [da]({{< ref "/f15/language/da.md" >}}) | 3780 | 5377 | 70.3 | /mnt/stockage/packages/f15/mutt/po/da.po | 
- | [el]({{< ref "/f15/language/el.md" >}}) | 3758 | 5377 | 69.9 | /mnt/stockage/packages/f15/mutt/po/el.po | 
- | [it]({{< ref "/f15/language/it.md" >}}) | 3703 | 5377 | 68.9 | /mnt/stockage/packages/f15/mutt/po/it.po | 
- | [ko]({{< ref "/f15/language/ko.md" >}}) | 3685 | 5377 | 68.5 | /mnt/stockage/packages/f15/mutt/po/ko.po | 
- | [bg]({{< ref "/f15/language/bg.md" >}}) | 3656 | 5377 | 68.0 | /mnt/stockage/packages/f15/mutt/po/bg.po | 
- | [hu]({{< ref "/f15/language/hu.md" >}}) | 3655 | 5377 | 68.0 | /mnt/stockage/packages/f15/mutt/po/hu.po | 
- | [et]({{< ref "/f15/language/et.md" >}}) | 3552 | 5377 | 66.1 | /mnt/stockage/packages/f15/mutt/po/et.po | 
- | [uk]({{< ref "/f15/language/uk.md" >}}) | 3290 | 5377 | 61.2 | /mnt/stockage/packages/f15/mutt/po/uk.po | 
- | [zh_Hant]({{< ref "/f15/language/zh_Hant.md" >}}) | 3212 | 5377 | 59.7 | /mnt/stockage/packages/f15/mutt/po/zh_TW.po | 
- | [es]({{< ref "/f15/language/es.md" >}}) | 3170 | 5377 | 59.0 | /mnt/stockage/packages/f15/mutt/po/es.po | 
- | [gl]({{< ref "/f15/language/gl.md" >}}) | 3119 | 5377 | 58.0 | /mnt/stockage/packages/f15/mutt/po/gl.po | 
- | [lt]({{< ref "/f15/language/lt.md" >}}) | 3057 | 5377 | 56.9 | /mnt/stockage/packages/f15/mutt/po/lt.po | 
- | [pt_BR]({{< ref "/f15/language/pt_BR.md" >}}) | 2765 | 5377 | 51.4 | /mnt/stockage/packages/f15/mutt/po/pt_BR.po | 
- | [sk]({{< ref "/f15/language/sk.md" >}}) | 2249 | 5377 | 41.8 | /mnt/stockage/packages/f15/mutt/po/sk.po | 
+ | [fr](/f15/language/fr) | 5377 | 5377 | 100.0 | /mnt/stockage/packages/f15/mutt/po/fr.po | 
+ | [cs](/f15/language/cs) | 5372 | 5377 | 99.9 | /mnt/stockage/packages/f15/mutt/po/cs.po | 
+ | [de](/f15/language/de) | 5265 | 5377 | 97.9 | /mnt/stockage/packages/f15/mutt/po/de.po | 
+ | [ca](/f15/language/ca) | 5245 | 5377 | 97.5 | /mnt/stockage/packages/f15/mutt/po/ca.po | 
+ | [ru](/f15/language/ru) | 5245 | 5377 | 97.5 | /mnt/stockage/packages/f15/mutt/po/ru.po | 
+ | [zh_Hans](/f15/language/zh_Hans) | 5245 | 5377 | 97.5 | /mnt/stockage/packages/f15/mutt/po/zh_CN.po | 
+ | [nl](/f15/language/nl) | 5190 | 5377 | 96.5 | /mnt/stockage/packages/f15/mutt/po/nl.po | 
+ | [ja](/f15/language/ja) | 5031 | 5377 | 93.6 | /mnt/stockage/packages/f15/mutt/po/ja.po | 
+ | [sv](/f15/language/sv) | 4958 | 5377 | 92.2 | /mnt/stockage/packages/f15/mutt/po/sv.po | 
+ | [pl](/f15/language/pl) | 4953 | 5377 | 92.1 | /mnt/stockage/packages/f15/mutt/po/pl.po | 
+ | [eo](/f15/language/eo) | 4940 | 5377 | 91.9 | /mnt/stockage/packages/f15/mutt/po/eo.po | 
+ | [eu](/f15/language/eu) | 4854 | 5377 | 90.3 | /mnt/stockage/packages/f15/mutt/po/eu.po | 
+ | [id](/f15/language/id) | 4821 | 5377 | 89.7 | /mnt/stockage/packages/f15/mutt/po/id.po | 
+ | [ga](/f15/language/ga) | 4779 | 5377 | 88.9 | /mnt/stockage/packages/f15/mutt/po/ga.po | 
+ | [tr](/f15/language/tr) | 4741 | 5377 | 88.2 | /mnt/stockage/packages/f15/mutt/po/tr.po | 
+ | [da](/f15/language/da) | 3780 | 5377 | 70.3 | /mnt/stockage/packages/f15/mutt/po/da.po | 
+ | [el](/f15/language/el) | 3758 | 5377 | 69.9 | /mnt/stockage/packages/f15/mutt/po/el.po | 
+ | [it](/f15/language/it) | 3703 | 5377 | 68.9 | /mnt/stockage/packages/f15/mutt/po/it.po | 
+ | [ko](/f15/language/ko) | 3685 | 5377 | 68.5 | /mnt/stockage/packages/f15/mutt/po/ko.po | 
+ | [bg](/f15/language/bg) | 3656 | 5377 | 68.0 | /mnt/stockage/packages/f15/mutt/po/bg.po | 
+ | [hu](/f15/language/hu) | 3655 | 5377 | 68.0 | /mnt/stockage/packages/f15/mutt/po/hu.po | 
+ | [et](/f15/language/et) | 3552 | 5377 | 66.1 | /mnt/stockage/packages/f15/mutt/po/et.po | 
+ | [uk](/f15/language/uk) | 3290 | 5377 | 61.2 | /mnt/stockage/packages/f15/mutt/po/uk.po | 
+ | [zh_Hant](/f15/language/zh_Hant) | 3212 | 5377 | 59.7 | /mnt/stockage/packages/f15/mutt/po/zh_TW.po | 
+ | [es](/f15/language/es) | 3170 | 5377 | 59.0 | /mnt/stockage/packages/f15/mutt/po/es.po | 
+ | [gl](/f15/language/gl) | 3119 | 5377 | 58.0 | /mnt/stockage/packages/f15/mutt/po/gl.po | 
+ | [lt](/f15/language/lt) | 3057 | 5377 | 56.9 | /mnt/stockage/packages/f15/mutt/po/lt.po | 
+ | [pt_BR](/f15/language/pt_BR) | 2765 | 5377 | 51.4 | /mnt/stockage/packages/f15/mutt/po/pt_BR.po | 
+ | [sk](/f15/language/sk) | 2249 | 5377 | 41.8 | /mnt/stockage/packages/f15/mutt/po/sk.po | 
 {.sortable}
 
 

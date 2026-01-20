@@ -18,14 +18,14 @@ The package drupal6-userpoints (version 1.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f20/language/de.md" >}}) | 926 | 926 | 100.0 | /mnt/stockage/packages/f20/drupal6-userpoints/translations/de.po | 
- | [es]({{< ref "/f20/language/es.md" >}}) | 242 | 242 | 100.0 | /mnt/stockage/packages/f20/drupal6-userpoints/translations/es.po | 
- | [it]({{< ref "/f20/language/it.md" >}}) | 153 | 153 | 100.0 | /mnt/stockage/packages/f20/drupal6-userpoints/translations/it.po | 
- | [pt_PT]({{< ref "/f20/language/pt_PT.md" >}}) | 48 | 48 | 100.0 | /mnt/stockage/packages/f20/drupal6-userpoints/translations/pt-pt.po | 
- | [ru]({{< ref "/f20/language/ru.md" >}}) | 1205 | 1205 | 100.0 | /mnt/stockage/packages/f20/drupal6-userpoints/translations/ru.po | 
- | [ja]({{< ref "/f20/language/ja.md" >}}) | 980 | 991 | 98.9 | /mnt/stockage/packages/f20/drupal6-userpoints/translations/ja.po | 
- | [fr]({{< ref "/f20/language/fr.md" >}}) | 136 | 220 | 61.8 | /mnt/stockage/packages/f20/drupal6-userpoints/translations/fr.po | 
- | [nl]({{< ref "/f20/language/nl.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f20/drupal6-userpoints/translations/nl.po | 
+ | [de](/f20/language/de) | 926 | 926 | 100.0 | /mnt/stockage/packages/f20/drupal6-userpoints/translations/de.po | 
+ | [es](/f20/language/es) | 242 | 242 | 100.0 | /mnt/stockage/packages/f20/drupal6-userpoints/translations/es.po | 
+ | [it](/f20/language/it) | 153 | 153 | 100.0 | /mnt/stockage/packages/f20/drupal6-userpoints/translations/it.po | 
+ | [pt_PT](/f20/language/pt_PT) | 48 | 48 | 100.0 | /mnt/stockage/packages/f20/drupal6-userpoints/translations/pt-pt.po | 
+ | [ru](/f20/language/ru) | 1205 | 1205 | 100.0 | /mnt/stockage/packages/f20/drupal6-userpoints/translations/ru.po | 
+ | [ja](/f20/language/ja) | 980 | 991 | 98.9 | /mnt/stockage/packages/f20/drupal6-userpoints/translations/ja.po | 
+ | [fr](/f20/language/fr) | 136 | 220 | 61.8 | /mnt/stockage/packages/f20/drupal6-userpoints/translations/fr.po | 
+ | [nl](/f20/language/nl) | 0 | 0 | 0.0 | /mnt/stockage/packages/f20/drupal6-userpoints/translations/nl.po | 
 {.sortable}
 
 

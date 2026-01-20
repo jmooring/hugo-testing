@@ -18,13 +18,13 @@ The package freedroidrpg (version 0.16.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f23/language/cs.md" >}}) | 62109 | 62109 | 100.0 | /mnt/stockage/packages/f23/freedroidrpg/po/po-data/cs.po/mnt/stockage/packages/f23/freedroidrpg/po/po-dialogs/cs.po/mnt/stockage/packages/f23/freedroidrpg/po/po-src/cs.po | 
- | [de]({{< ref "/f23/language/de.md" >}}) | 62109 | 62109 | 100.0 | /mnt/stockage/packages/f23/freedroidrpg/po/po-data/de.po/mnt/stockage/packages/f23/freedroidrpg/po/po-dialogs/de.po/mnt/stockage/packages/f23/freedroidrpg/po/po-src/de.po | 
- | [fr]({{< ref "/f23/language/fr.md" >}}) | 62109 | 62109 | 100.0 | /mnt/stockage/packages/f23/freedroidrpg/po/po-data/fr.po/mnt/stockage/packages/f23/freedroidrpg/po/po-dialogs/fr.po/mnt/stockage/packages/f23/freedroidrpg/po/po-src/fr.po | 
- | [it]({{< ref "/f23/language/it.md" >}}) | 61987 | 62109 | 99.8 | /mnt/stockage/packages/f23/freedroidrpg/po/po-data/it.po/mnt/stockage/packages/f23/freedroidrpg/po/po-dialogs/it.po/mnt/stockage/packages/f23/freedroidrpg/po/po-src/it.po | 
- | [sv]({{< ref "/f23/language/sv.md" >}}) | 59340 | 62109 | 95.5 | /mnt/stockage/packages/f23/freedroidrpg/po/po-data/sv.po/mnt/stockage/packages/f23/freedroidrpg/po/po-dialogs/sv.po/mnt/stockage/packages/f23/freedroidrpg/po/po-src/sv.po | 
- | [pt_BR]({{< ref "/f23/language/pt_BR.md" >}}) | 50293 | 62109 | 81.0 | /mnt/stockage/packages/f23/freedroidrpg/po/po-data/pt_BR.po/mnt/stockage/packages/f23/freedroidrpg/po/po-dialogs/pt_BR.po/mnt/stockage/packages/f23/freedroidrpg/po/po-src/pt_BR.po | 
- | [es]({{< ref "/f23/language/es.md" >}}) | 27679 | 62109 | 44.6 | /mnt/stockage/packages/f23/freedroidrpg/po/po-data/es.po/mnt/stockage/packages/f23/freedroidrpg/po/po-dialogs/es.po/mnt/stockage/packages/f23/freedroidrpg/po/po-src/es.po | 
+ | [cs](/f23/language/cs) | 62109 | 62109 | 100.0 | /mnt/stockage/packages/f23/freedroidrpg/po/po-data/cs.po/mnt/stockage/packages/f23/freedroidrpg/po/po-dialogs/cs.po/mnt/stockage/packages/f23/freedroidrpg/po/po-src/cs.po | 
+ | [de](/f23/language/de) | 62109 | 62109 | 100.0 | /mnt/stockage/packages/f23/freedroidrpg/po/po-data/de.po/mnt/stockage/packages/f23/freedroidrpg/po/po-dialogs/de.po/mnt/stockage/packages/f23/freedroidrpg/po/po-src/de.po | 
+ | [fr](/f23/language/fr) | 62109 | 62109 | 100.0 | /mnt/stockage/packages/f23/freedroidrpg/po/po-data/fr.po/mnt/stockage/packages/f23/freedroidrpg/po/po-dialogs/fr.po/mnt/stockage/packages/f23/freedroidrpg/po/po-src/fr.po | 
+ | [it](/f23/language/it) | 61987 | 62109 | 99.8 | /mnt/stockage/packages/f23/freedroidrpg/po/po-data/it.po/mnt/stockage/packages/f23/freedroidrpg/po/po-dialogs/it.po/mnt/stockage/packages/f23/freedroidrpg/po/po-src/it.po | 
+ | [sv](/f23/language/sv) | 59340 | 62109 | 95.5 | /mnt/stockage/packages/f23/freedroidrpg/po/po-data/sv.po/mnt/stockage/packages/f23/freedroidrpg/po/po-dialogs/sv.po/mnt/stockage/packages/f23/freedroidrpg/po/po-src/sv.po | 
+ | [pt_BR](/f23/language/pt_BR) | 50293 | 62109 | 81.0 | /mnt/stockage/packages/f23/freedroidrpg/po/po-data/pt_BR.po/mnt/stockage/packages/f23/freedroidrpg/po/po-dialogs/pt_BR.po/mnt/stockage/packages/f23/freedroidrpg/po/po-src/pt_BR.po | 
+ | [es](/f23/language/es) | 27679 | 62109 | 44.6 | /mnt/stockage/packages/f23/freedroidrpg/po/po-data/es.po/mnt/stockage/packages/f23/freedroidrpg/po/po-dialogs/es.po/mnt/stockage/packages/f23/freedroidrpg/po/po-src/es.po | 
 {.sortable}
 
 

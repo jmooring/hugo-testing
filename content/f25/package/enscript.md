@@ -18,19 +18,19 @@ The package enscript (version 1.6.6):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [da]({{< ref "/f25/language/da.md" >}}) | 1427 | 1833 | 77.9 | /mnt/stockage/packages/f25/enscript/po/da.po | 
- | [nl]({{< ref "/f25/language/nl.md" >}}) | 1427 | 1833 | 77.9 | /mnt/stockage/packages/f25/enscript/po/nl.po | 
- | [sl]({{< ref "/f25/language/sl.md" >}}) | 1427 | 1833 | 77.9 | /mnt/stockage/packages/f25/enscript/po/sl.po | 
- | [sv]({{< ref "/f25/language/sv.md" >}}) | 1398 | 1833 | 76.3 | /mnt/stockage/packages/f25/enscript/po/sv.po | 
- | [en_GB]({{< ref "/f25/language/en_GB.md" >}}) | 1385 | 1833 | 75.6 | /mnt/stockage/packages/f25/enscript/po/en_GB.po | 
- | [fr]({{< ref "/f25/language/fr.md" >}}) | 1385 | 1833 | 75.6 | /mnt/stockage/packages/f25/enscript/po/fr.po | 
- | [hr]({{< ref "/f25/language/hr.md" >}}) | 1385 | 1833 | 75.6 | /mnt/stockage/packages/f25/enscript/po/hr.po | 
- | [ru]({{< ref "/f25/language/ru.md" >}}) | 1385 | 1833 | 75.6 | /mnt/stockage/packages/f25/enscript/po/ru.po | 
- | [tr]({{< ref "/f25/language/tr.md" >}}) | 1385 | 1833 | 75.6 | /mnt/stockage/packages/f25/enscript/po/tr.po | 
- | [ca]({{< ref "/f25/language/ca.md" >}}) | 1056 | 1833 | 57.6 | /mnt/stockage/packages/f25/enscript/po/ca.po | 
- | [de]({{< ref "/f25/language/de.md" >}}) | 1056 | 1833 | 57.6 | /mnt/stockage/packages/f25/enscript/po/de.po | 
- | [pt_BR]({{< ref "/f25/language/pt_BR.md" >}}) | 1056 | 1833 | 57.6 | /mnt/stockage/packages/f25/enscript/po/pt_BR.po | 
- | [es]({{< ref "/f25/language/es.md" >}}) | 589 | 1833 | 32.1 | /mnt/stockage/packages/f25/enscript/po/es.po | 
+ | [da](/f25/language/da) | 1427 | 1833 | 77.9 | /mnt/stockage/packages/f25/enscript/po/da.po | 
+ | [nl](/f25/language/nl) | 1427 | 1833 | 77.9 | /mnt/stockage/packages/f25/enscript/po/nl.po | 
+ | [sl](/f25/language/sl) | 1427 | 1833 | 77.9 | /mnt/stockage/packages/f25/enscript/po/sl.po | 
+ | [sv](/f25/language/sv) | 1398 | 1833 | 76.3 | /mnt/stockage/packages/f25/enscript/po/sv.po | 
+ | [en_GB](/f25/language/en_GB) | 1385 | 1833 | 75.6 | /mnt/stockage/packages/f25/enscript/po/en_GB.po | 
+ | [fr](/f25/language/fr) | 1385 | 1833 | 75.6 | /mnt/stockage/packages/f25/enscript/po/fr.po | 
+ | [hr](/f25/language/hr) | 1385 | 1833 | 75.6 | /mnt/stockage/packages/f25/enscript/po/hr.po | 
+ | [ru](/f25/language/ru) | 1385 | 1833 | 75.6 | /mnt/stockage/packages/f25/enscript/po/ru.po | 
+ | [tr](/f25/language/tr) | 1385 | 1833 | 75.6 | /mnt/stockage/packages/f25/enscript/po/tr.po | 
+ | [ca](/f25/language/ca) | 1056 | 1833 | 57.6 | /mnt/stockage/packages/f25/enscript/po/ca.po | 
+ | [de](/f25/language/de) | 1056 | 1833 | 57.6 | /mnt/stockage/packages/f25/enscript/po/de.po | 
+ | [pt_BR](/f25/language/pt_BR) | 1056 | 1833 | 57.6 | /mnt/stockage/packages/f25/enscript/po/pt_BR.po | 
+ | [es](/f25/language/es) | 589 | 1833 | 32.1 | /mnt/stockage/packages/f25/enscript/po/es.po | 
 {.sortable}
 
 

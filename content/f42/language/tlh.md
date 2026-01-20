@@ -38,11 +38,11 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [python-humanize]({{< ref "/f42/package/python-humanize.md" >}}) | 114 | 132 | 86.4 | Language tlh | 
- | [tuxpaint]({{< ref "/f42/package/tuxpaint.md" >}}) | 34 | 5355 | 0.6 | Bill Kendrick <nbs@sonic.net> | 
- | [cinnamon-translations]({{< ref "/f42/package/cinnamon-translations.md" >}}) | 51 | 14207 | 0.4 | Klingon <tlh@li.org> | 
- | [geeqie]({{< ref "/f42/package/geeqie.md" >}}) | 4 | 6401 | 0.1 |  | 
- | [deluge]({{< ref "/f42/package/deluge.md" >}}) | 0 | 4390 | 0.0 | Klingon <tlh@li.org> | 
+ | [python-humanize](/f42/package/python-humanize) | 114 | 132 | 86.4 | Language tlh | 
+ | [tuxpaint](/f42/package/tuxpaint) | 34 | 5355 | 0.6 | Bill Kendrick <nbs@sonic.net> | 
+ | [cinnamon-translations](/f42/package/cinnamon-translations) | 51 | 14207 | 0.4 | Klingon <tlh@li.org> | 
+ | [geeqie](/f42/package/geeqie) | 4 | 6401 | 0.1 |  | 
+ | [deluge](/f42/package/deluge) | 0 | 4390 | 0.0 | Klingon <tlh@li.org> | 
 {.sortable}
 
 

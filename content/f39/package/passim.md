@@ -18,11 +18,11 @@ The package passim (version 0.1.7):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [en_GB]({{< ref "/f39/language/en_GB.md" >}}) | 63 | 63 | 100.0 | /mnt/stockage/packages/f39/passim/po/en_GB.po | 
- | [fr]({{< ref "/f39/language/fr.md" >}}) | 63 | 63 | 100.0 | /mnt/stockage/packages/f39/passim/po/fr.po | 
- | [nb_NO]({{< ref "/f39/language/nb_NO.md" >}}) | 63 | 63 | 100.0 | /mnt/stockage/packages/f39/passim/po/nb_NO.po | 
- | [de]({{< ref "/f39/language/de.md" >}}) | 54 | 63 | 85.7 | /mnt/stockage/packages/f39/passim/po/de.po | 
- | [cs]({{< ref "/f39/language/cs.md" >}}) | 31 | 63 | 49.2 | /mnt/stockage/packages/f39/passim/po/cs.po | 
+ | [en_GB](/f39/language/en_GB) | 63 | 63 | 100.0 | /mnt/stockage/packages/f39/passim/po/en_GB.po | 
+ | [fr](/f39/language/fr) | 63 | 63 | 100.0 | /mnt/stockage/packages/f39/passim/po/fr.po | 
+ | [nb_NO](/f39/language/nb_NO) | 63 | 63 | 100.0 | /mnt/stockage/packages/f39/passim/po/nb_NO.po | 
+ | [de](/f39/language/de) | 54 | 63 | 85.7 | /mnt/stockage/packages/f39/passim/po/de.po | 
+ | [cs](/f39/language/cs) | 31 | 63 | 49.2 | /mnt/stockage/packages/f39/passim/po/cs.po | 
 {.sortable}
 
 

@@ -18,14 +18,14 @@ The package attr (version 2.4.43):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f11/language/cs.md" >}}) | 344 | 344 | 100.0 | /mnt/stockage/packages/f11/attr/po/cs.po | 
- | [de]({{< ref "/f11/language/de.md" >}}) | 307 | 307 | 100.0 | /mnt/stockage/packages/f11/attr/po/de.po | 
- | [es]({{< ref "/f11/language/es.md" >}}) | 344 | 344 | 100.0 | /mnt/stockage/packages/f11/attr/po/es.po | 
- | [fr]({{< ref "/f11/language/fr.md" >}}) | 308 | 308 | 100.0 | /mnt/stockage/packages/f11/attr/po/fr.po | 
- | [gl]({{< ref "/f11/language/gl.md" >}}) | 344 | 344 | 100.0 | /mnt/stockage/packages/f11/attr/po/gl.po | 
- | [nl]({{< ref "/f11/language/nl.md" >}}) | 308 | 308 | 100.0 | /mnt/stockage/packages/f11/attr/po/nl.po | 
- | [pl]({{< ref "/f11/language/pl.md" >}}) | 344 | 344 | 100.0 | /mnt/stockage/packages/f11/attr/po/pl.po | 
- | [sv]({{< ref "/f11/language/sv.md" >}}) | 308 | 308 | 100.0 | /mnt/stockage/packages/f11/attr/po/sv.po | 
+ | [cs](/f11/language/cs) | 344 | 344 | 100.0 | /mnt/stockage/packages/f11/attr/po/cs.po | 
+ | [de](/f11/language/de) | 307 | 307 | 100.0 | /mnt/stockage/packages/f11/attr/po/de.po | 
+ | [es](/f11/language/es) | 344 | 344 | 100.0 | /mnt/stockage/packages/f11/attr/po/es.po | 
+ | [fr](/f11/language/fr) | 308 | 308 | 100.0 | /mnt/stockage/packages/f11/attr/po/fr.po | 
+ | [gl](/f11/language/gl) | 344 | 344 | 100.0 | /mnt/stockage/packages/f11/attr/po/gl.po | 
+ | [nl](/f11/language/nl) | 308 | 308 | 100.0 | /mnt/stockage/packages/f11/attr/po/nl.po | 
+ | [pl](/f11/language/pl) | 344 | 344 | 100.0 | /mnt/stockage/packages/f11/attr/po/pl.po | 
+ | [sv](/f11/language/sv) | 308 | 308 | 100.0 | /mnt/stockage/packages/f11/attr/po/sv.po | 
 {.sortable}
 
 

@@ -18,55 +18,55 @@ The package kbrickbuster (version 18.04.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f28/language/ca.md" >}}) | 152 | 152 | 100.0 | /mnt/stockage/packages/f28/kbrickbuster/po/ca/kbrickbuster.po | 
- | [ca@valencia]({{< ref "/f28/language/ca@valencia.md" >}}) | 152 | 152 | 100.0 | /mnt/stockage/packages/f28/kbrickbuster/po/ca@valencia/kbrickbuster.po | 
- | [da]({{< ref "/f28/language/da.md" >}}) | 152 | 152 | 100.0 | /mnt/stockage/packages/f28/kbrickbuster/po/da/kbrickbuster.po | 
- | [de]({{< ref "/f28/language/de.md" >}}) | 152 | 152 | 100.0 | /mnt/stockage/packages/f28/kbrickbuster/po/de/kbrickbuster.po | 
- | [en_GB]({{< ref "/f28/language/en_GB.md" >}}) | 152 | 152 | 100.0 | /mnt/stockage/packages/f28/kbrickbuster/po/en_GB/kbrickbuster.po | 
- | [es]({{< ref "/f28/language/es.md" >}}) | 152 | 152 | 100.0 | /mnt/stockage/packages/f28/kbrickbuster/po/es/kbrickbuster.po | 
- | [fi]({{< ref "/f28/language/fi.md" >}}) | 152 | 152 | 100.0 | /mnt/stockage/packages/f28/kbrickbuster/po/fi/kbrickbuster.po | 
- | [fr]({{< ref "/f28/language/fr.md" >}}) | 152 | 152 | 100.0 | /mnt/stockage/packages/f28/kbrickbuster/po/fr/kbrickbuster.po | 
- | [gl]({{< ref "/f28/language/gl.md" >}}) | 152 | 152 | 100.0 | /mnt/stockage/packages/f28/kbrickbuster/po/gl/kbrickbuster.po | 
- | [it]({{< ref "/f28/language/it.md" >}}) | 152 | 152 | 100.0 | /mnt/stockage/packages/f28/kbrickbuster/po/it/kbrickbuster.po | 
- | [nl]({{< ref "/f28/language/nl.md" >}}) | 152 | 152 | 100.0 | /mnt/stockage/packages/f28/kbrickbuster/po/nl/kbrickbuster.po | 
- | [nn]({{< ref "/f28/language/nn.md" >}}) | 152 | 152 | 100.0 | /mnt/stockage/packages/f28/kbrickbuster/po/nn/kbrickbuster.po | 
- | [pl]({{< ref "/f28/language/pl.md" >}}) | 152 | 152 | 100.0 | /mnt/stockage/packages/f28/kbrickbuster/po/pl/kbrickbuster.po | 
- | [pt]({{< ref "/f28/language/pt.md" >}}) | 152 | 152 | 100.0 | /mnt/stockage/packages/f28/kbrickbuster/po/pt/kbrickbuster.po | 
- | [pt_BR]({{< ref "/f28/language/pt_BR.md" >}}) | 152 | 152 | 100.0 | /mnt/stockage/packages/f28/kbrickbuster/po/pt_BR/kbrickbuster.po | 
- | [sk]({{< ref "/f28/language/sk.md" >}}) | 152 | 152 | 100.0 | /mnt/stockage/packages/f28/kbrickbuster/po/sk/kbrickbuster.po | 
- | [sl]({{< ref "/f28/language/sl.md" >}}) | 152 | 152 | 100.0 | /mnt/stockage/packages/f28/kbrickbuster/po/sl/kbrickbuster.po | 
- | [sr]({{< ref "/f28/language/sr.md" >}}) | 152 | 152 | 100.0 | /mnt/stockage/packages/f28/kbrickbuster/po/sr/kbrickbuster.po | 
- | [sv]({{< ref "/f28/language/sv.md" >}}) | 152 | 152 | 100.0 | /mnt/stockage/packages/f28/kbrickbuster/po/sv/kbrickbuster.po | 
- | [tr]({{< ref "/f28/language/tr.md" >}}) | 152 | 152 | 100.0 | /mnt/stockage/packages/f28/kbrickbuster/po/tr/kbrickbuster.po | 
- | [uk]({{< ref "/f28/language/uk.md" >}}) | 152 | 152 | 100.0 | /mnt/stockage/packages/f28/kbrickbuster/po/uk/kbrickbuster.po | 
- | [zh_Hans]({{< ref "/f28/language/zh_Hans.md" >}}) | 152 | 152 | 100.0 | /mnt/stockage/packages/f28/kbrickbuster/po/zh_CN/kbrickbuster.po | 
- | [zh_Hant]({{< ref "/f28/language/zh_Hant.md" >}}) | 152 | 152 | 100.0 | /mnt/stockage/packages/f28/kbrickbuster/po/zh_TW/kbrickbuster.po | 
- | [el]({{< ref "/f28/language/el.md" >}}) | 146 | 152 | 96.1 | /mnt/stockage/packages/f28/kbrickbuster/po/el/kbrickbuster.po | 
- | [et]({{< ref "/f28/language/et.md" >}}) | 146 | 152 | 96.1 | /mnt/stockage/packages/f28/kbrickbuster/po/et/kbrickbuster.po | 
- | [hu]({{< ref "/f28/language/hu.md" >}}) | 146 | 152 | 96.1 | /mnt/stockage/packages/f28/kbrickbuster/po/hu/kbrickbuster.po | 
- | [ru]({{< ref "/f28/language/ru.md" >}}) | 146 | 152 | 96.1 | /mnt/stockage/packages/f28/kbrickbuster/po/ru/kbrickbuster.po | 
- | [cs]({{< ref "/f28/language/cs.md" >}}) | 143 | 152 | 94.1 | /mnt/stockage/packages/f28/kbrickbuster/po/cs/kbrickbuster.po | 
- | [bs]({{< ref "/f28/language/bs.md" >}}) | 142 | 152 | 93.4 | /mnt/stockage/packages/f28/kbrickbuster/po/bs/kbrickbuster.po | 
- | [ga]({{< ref "/f28/language/ga.md" >}}) | 142 | 152 | 93.4 | /mnt/stockage/packages/f28/kbrickbuster/po/ga/kbrickbuster.po | 
- | [kk]({{< ref "/f28/language/kk.md" >}}) | 142 | 152 | 93.4 | /mnt/stockage/packages/f28/kbrickbuster/po/kk/kbrickbuster.po | 
- | [ko]({{< ref "/f28/language/ko.md" >}}) | 142 | 152 | 93.4 | /mnt/stockage/packages/f28/kbrickbuster/po/ko/kbrickbuster.po | 
- | [nb_NO]({{< ref "/f28/language/nb_NO.md" >}}) | 142 | 152 | 93.4 | /mnt/stockage/packages/f28/kbrickbuster/po/nb/kbrickbuster.po | 
- | [nds]({{< ref "/f28/language/nds.md" >}}) | 142 | 152 | 93.4 | /mnt/stockage/packages/f28/kbrickbuster/po/nds/kbrickbuster.po | 
- | [bg]({{< ref "/f28/language/bg.md" >}}) | 137 | 152 | 90.1 | /mnt/stockage/packages/f28/kbrickbuster/po/bg/kbrickbuster.po | 
- | [km]({{< ref "/f28/language/km.md" >}}) | 137 | 152 | 90.1 | /mnt/stockage/packages/f28/kbrickbuster/po/km/kbrickbuster.po | 
- | [eu]({{< ref "/f28/language/eu.md" >}}) | 126 | 152 | 82.9 | /mnt/stockage/packages/f28/kbrickbuster/po/eu/kbrickbuster.po | 
- | [ja]({{< ref "/f28/language/ja.md" >}}) | 126 | 152 | 82.9 | /mnt/stockage/packages/f28/kbrickbuster/po/ja/kbrickbuster.po | 
- | [lv]({{< ref "/f28/language/lv.md" >}}) | 126 | 152 | 82.9 | /mnt/stockage/packages/f28/kbrickbuster/po/lv/kbrickbuster.po | 
- | [ro]({{< ref "/f28/language/ro.md" >}}) | 119 | 152 | 78.3 | /mnt/stockage/packages/f28/kbrickbuster/po/ro/kbrickbuster.po | 
- | [wa]({{< ref "/f28/language/wa.md" >}}) | 119 | 152 | 78.3 | /mnt/stockage/packages/f28/kbrickbuster/po/wa/kbrickbuster.po | 
- | [lt]({{< ref "/f28/language/lt.md" >}}) | 57 | 152 | 37.5 | /mnt/stockage/packages/f28/kbrickbuster/po/lt/kbrickbuster.po | 
- | [mr]({{< ref "/f28/language/mr.md" >}}) | 42 | 152 | 27.6 | /mnt/stockage/packages/f28/kbrickbuster/po/mr/kbrickbuster.po | 
- | [ug]({{< ref "/f28/language/ug.md" >}}) | 36 | 152 | 23.7 | /mnt/stockage/packages/f28/kbrickbuster/po/ug/kbrickbuster.po | 
- | [eo]({{< ref "/f28/language/eo.md" >}}) | 21 | 152 | 13.8 | /mnt/stockage/packages/f28/kbrickbuster/po/eo/kbrickbuster.po | 
- | [ast]({{< ref "/f28/language/ast.md" >}}) | 4 | 152 | 2.6 | /mnt/stockage/packages/f28/kbrickbuster/po/ast/kbrickbuster.po | 
- | [hr]({{< ref "/f28/language/hr.md" >}}) | 2 | 152 | 1.3 | /mnt/stockage/packages/f28/kbrickbuster/po/hr/kbrickbuster.po | 
- | [ar]({{< ref "/f28/language/ar.md" >}}) | 0 | 152 | 0.0 | /mnt/stockage/packages/f28/kbrickbuster/po/ar/kbrickbuster.po | 
- | [is]({{< ref "/f28/language/is.md" >}}) | 0 | 152 | 0.0 | /mnt/stockage/packages/f28/kbrickbuster/po/is/kbrickbuster.po | 
+ | [ca](/f28/language/ca) | 152 | 152 | 100.0 | /mnt/stockage/packages/f28/kbrickbuster/po/ca/kbrickbuster.po | 
+ | [ca@valencia](/f28/language/ca@valencia) | 152 | 152 | 100.0 | /mnt/stockage/packages/f28/kbrickbuster/po/ca@valencia/kbrickbuster.po | 
+ | [da](/f28/language/da) | 152 | 152 | 100.0 | /mnt/stockage/packages/f28/kbrickbuster/po/da/kbrickbuster.po | 
+ | [de](/f28/language/de) | 152 | 152 | 100.0 | /mnt/stockage/packages/f28/kbrickbuster/po/de/kbrickbuster.po | 
+ | [en_GB](/f28/language/en_GB) | 152 | 152 | 100.0 | /mnt/stockage/packages/f28/kbrickbuster/po/en_GB/kbrickbuster.po | 
+ | [es](/f28/language/es) | 152 | 152 | 100.0 | /mnt/stockage/packages/f28/kbrickbuster/po/es/kbrickbuster.po | 
+ | [fi](/f28/language/fi) | 152 | 152 | 100.0 | /mnt/stockage/packages/f28/kbrickbuster/po/fi/kbrickbuster.po | 
+ | [fr](/f28/language/fr) | 152 | 152 | 100.0 | /mnt/stockage/packages/f28/kbrickbuster/po/fr/kbrickbuster.po | 
+ | [gl](/f28/language/gl) | 152 | 152 | 100.0 | /mnt/stockage/packages/f28/kbrickbuster/po/gl/kbrickbuster.po | 
+ | [it](/f28/language/it) | 152 | 152 | 100.0 | /mnt/stockage/packages/f28/kbrickbuster/po/it/kbrickbuster.po | 
+ | [nl](/f28/language/nl) | 152 | 152 | 100.0 | /mnt/stockage/packages/f28/kbrickbuster/po/nl/kbrickbuster.po | 
+ | [nn](/f28/language/nn) | 152 | 152 | 100.0 | /mnt/stockage/packages/f28/kbrickbuster/po/nn/kbrickbuster.po | 
+ | [pl](/f28/language/pl) | 152 | 152 | 100.0 | /mnt/stockage/packages/f28/kbrickbuster/po/pl/kbrickbuster.po | 
+ | [pt](/f28/language/pt) | 152 | 152 | 100.0 | /mnt/stockage/packages/f28/kbrickbuster/po/pt/kbrickbuster.po | 
+ | [pt_BR](/f28/language/pt_BR) | 152 | 152 | 100.0 | /mnt/stockage/packages/f28/kbrickbuster/po/pt_BR/kbrickbuster.po | 
+ | [sk](/f28/language/sk) | 152 | 152 | 100.0 | /mnt/stockage/packages/f28/kbrickbuster/po/sk/kbrickbuster.po | 
+ | [sl](/f28/language/sl) | 152 | 152 | 100.0 | /mnt/stockage/packages/f28/kbrickbuster/po/sl/kbrickbuster.po | 
+ | [sr](/f28/language/sr) | 152 | 152 | 100.0 | /mnt/stockage/packages/f28/kbrickbuster/po/sr/kbrickbuster.po | 
+ | [sv](/f28/language/sv) | 152 | 152 | 100.0 | /mnt/stockage/packages/f28/kbrickbuster/po/sv/kbrickbuster.po | 
+ | [tr](/f28/language/tr) | 152 | 152 | 100.0 | /mnt/stockage/packages/f28/kbrickbuster/po/tr/kbrickbuster.po | 
+ | [uk](/f28/language/uk) | 152 | 152 | 100.0 | /mnt/stockage/packages/f28/kbrickbuster/po/uk/kbrickbuster.po | 
+ | [zh_Hans](/f28/language/zh_Hans) | 152 | 152 | 100.0 | /mnt/stockage/packages/f28/kbrickbuster/po/zh_CN/kbrickbuster.po | 
+ | [zh_Hant](/f28/language/zh_Hant) | 152 | 152 | 100.0 | /mnt/stockage/packages/f28/kbrickbuster/po/zh_TW/kbrickbuster.po | 
+ | [el](/f28/language/el) | 146 | 152 | 96.1 | /mnt/stockage/packages/f28/kbrickbuster/po/el/kbrickbuster.po | 
+ | [et](/f28/language/et) | 146 | 152 | 96.1 | /mnt/stockage/packages/f28/kbrickbuster/po/et/kbrickbuster.po | 
+ | [hu](/f28/language/hu) | 146 | 152 | 96.1 | /mnt/stockage/packages/f28/kbrickbuster/po/hu/kbrickbuster.po | 
+ | [ru](/f28/language/ru) | 146 | 152 | 96.1 | /mnt/stockage/packages/f28/kbrickbuster/po/ru/kbrickbuster.po | 
+ | [cs](/f28/language/cs) | 143 | 152 | 94.1 | /mnt/stockage/packages/f28/kbrickbuster/po/cs/kbrickbuster.po | 
+ | [bs](/f28/language/bs) | 142 | 152 | 93.4 | /mnt/stockage/packages/f28/kbrickbuster/po/bs/kbrickbuster.po | 
+ | [ga](/f28/language/ga) | 142 | 152 | 93.4 | /mnt/stockage/packages/f28/kbrickbuster/po/ga/kbrickbuster.po | 
+ | [kk](/f28/language/kk) | 142 | 152 | 93.4 | /mnt/stockage/packages/f28/kbrickbuster/po/kk/kbrickbuster.po | 
+ | [ko](/f28/language/ko) | 142 | 152 | 93.4 | /mnt/stockage/packages/f28/kbrickbuster/po/ko/kbrickbuster.po | 
+ | [nb_NO](/f28/language/nb_NO) | 142 | 152 | 93.4 | /mnt/stockage/packages/f28/kbrickbuster/po/nb/kbrickbuster.po | 
+ | [nds](/f28/language/nds) | 142 | 152 | 93.4 | /mnt/stockage/packages/f28/kbrickbuster/po/nds/kbrickbuster.po | 
+ | [bg](/f28/language/bg) | 137 | 152 | 90.1 | /mnt/stockage/packages/f28/kbrickbuster/po/bg/kbrickbuster.po | 
+ | [km](/f28/language/km) | 137 | 152 | 90.1 | /mnt/stockage/packages/f28/kbrickbuster/po/km/kbrickbuster.po | 
+ | [eu](/f28/language/eu) | 126 | 152 | 82.9 | /mnt/stockage/packages/f28/kbrickbuster/po/eu/kbrickbuster.po | 
+ | [ja](/f28/language/ja) | 126 | 152 | 82.9 | /mnt/stockage/packages/f28/kbrickbuster/po/ja/kbrickbuster.po | 
+ | [lv](/f28/language/lv) | 126 | 152 | 82.9 | /mnt/stockage/packages/f28/kbrickbuster/po/lv/kbrickbuster.po | 
+ | [ro](/f28/language/ro) | 119 | 152 | 78.3 | /mnt/stockage/packages/f28/kbrickbuster/po/ro/kbrickbuster.po | 
+ | [wa](/f28/language/wa) | 119 | 152 | 78.3 | /mnt/stockage/packages/f28/kbrickbuster/po/wa/kbrickbuster.po | 
+ | [lt](/f28/language/lt) | 57 | 152 | 37.5 | /mnt/stockage/packages/f28/kbrickbuster/po/lt/kbrickbuster.po | 
+ | [mr](/f28/language/mr) | 42 | 152 | 27.6 | /mnt/stockage/packages/f28/kbrickbuster/po/mr/kbrickbuster.po | 
+ | [ug](/f28/language/ug) | 36 | 152 | 23.7 | /mnt/stockage/packages/f28/kbrickbuster/po/ug/kbrickbuster.po | 
+ | [eo](/f28/language/eo) | 21 | 152 | 13.8 | /mnt/stockage/packages/f28/kbrickbuster/po/eo/kbrickbuster.po | 
+ | [ast](/f28/language/ast) | 4 | 152 | 2.6 | /mnt/stockage/packages/f28/kbrickbuster/po/ast/kbrickbuster.po | 
+ | [hr](/f28/language/hr) | 2 | 152 | 1.3 | /mnt/stockage/packages/f28/kbrickbuster/po/hr/kbrickbuster.po | 
+ | [ar](/f28/language/ar) | 0 | 152 | 0.0 | /mnt/stockage/packages/f28/kbrickbuster/po/ar/kbrickbuster.po | 
+ | [is](/f28/language/is) | 0 | 152 | 0.0 | /mnt/stockage/packages/f28/kbrickbuster/po/is/kbrickbuster.po | 
 {.sortable}
 
 

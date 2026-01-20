@@ -18,24 +18,24 @@ The package 0ad (version 0.0.18):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f22/language/ca.md" >}}) | 104 | 104 | 100.0 | /mnt/stockage/packages/f22/0ad/binaries/data/l10n/ca.engine.po | 
- | [cs]({{< ref "/f22/language/cs.md" >}}) | 104 | 104 | 100.0 | /mnt/stockage/packages/f22/0ad/binaries/data/l10n/cs.engine.po | 
- | [de]({{< ref "/f22/language/de.md" >}}) | 104 | 104 | 100.0 | /mnt/stockage/packages/f22/0ad/binaries/data/l10n/de.engine.po | 
- | [en_GB]({{< ref "/f22/language/en_GB.md" >}}) | 104 | 104 | 100.0 | /mnt/stockage/packages/f22/0ad/binaries/data/l10n/en_GB.engine.po | 
- | [es]({{< ref "/f22/language/es.md" >}}) | 104 | 104 | 100.0 | /mnt/stockage/packages/f22/0ad/binaries/data/l10n/es.engine.po | 
- | [fr]({{< ref "/f22/language/fr.md" >}}) | 104 | 104 | 100.0 | /mnt/stockage/packages/f22/0ad/binaries/data/l10n/fr.engine.po | 
- | [gd]({{< ref "/f22/language/gd.md" >}}) | 104 | 104 | 100.0 | /mnt/stockage/packages/f22/0ad/binaries/data/l10n/gd.engine.po | 
- | [id]({{< ref "/f22/language/id.md" >}}) | 104 | 104 | 100.0 | /mnt/stockage/packages/f22/0ad/binaries/data/l10n/id.engine.po | 
- | [it]({{< ref "/f22/language/it.md" >}}) | 104 | 104 | 100.0 | /mnt/stockage/packages/f22/0ad/binaries/data/l10n/it.engine.po | 
- | [nl]({{< ref "/f22/language/nl.md" >}}) | 104 | 104 | 100.0 | /mnt/stockage/packages/f22/0ad/binaries/data/l10n/nl.engine.po | 
- | [pt_BR]({{< ref "/f22/language/pt_BR.md" >}}) | 104 | 104 | 100.0 | /mnt/stockage/packages/f22/0ad/binaries/data/l10n/pt_BR.engine.po | 
- | [ru]({{< ref "/f22/language/ru.md" >}}) | 104 | 104 | 100.0 | /mnt/stockage/packages/f22/0ad/binaries/data/l10n/ru.engine.po | 
- | [tr]({{< ref "/f22/language/tr.md" >}}) | 104 | 104 | 100.0 | /mnt/stockage/packages/f22/0ad/binaries/data/l10n/tr.engine.po | 
- | [pt_PT]({{< ref "/f22/language/pt_PT.md" >}}) | 96 | 104 | 92.3 | /mnt/stockage/packages/f22/0ad/binaries/data/l10n/pt_PT.engine.po | 
- | [gl]({{< ref "/f22/language/gl.md" >}}) | 94 | 104 | 90.4 | /mnt/stockage/packages/f22/0ad/binaries/data/l10n/gl.engine.po | 
- | [es_MX]({{< ref "/f22/language/es_MX.md" >}}) | 28 | 104 | 26.9 | /mnt/stockage/packages/f22/0ad/binaries/data/l10n/es_MX.engine.po | 
- | [es_CL]({{< ref "/f22/language/es_CL.md" >}}) | 9 | 104 | 8.7 | /mnt/stockage/packages/f22/0ad/binaries/data/l10n/es_CL.engine.po | 
- | [es_AR]({{< ref "/f22/language/es_AR.md" >}}) | 0 | 104 | 0.0 | /mnt/stockage/packages/f22/0ad/binaries/data/l10n/es_AR.engine.po | 
+ | [ca](/f22/language/ca) | 104 | 104 | 100.0 | /mnt/stockage/packages/f22/0ad/binaries/data/l10n/ca.engine.po | 
+ | [cs](/f22/language/cs) | 104 | 104 | 100.0 | /mnt/stockage/packages/f22/0ad/binaries/data/l10n/cs.engine.po | 
+ | [de](/f22/language/de) | 104 | 104 | 100.0 | /mnt/stockage/packages/f22/0ad/binaries/data/l10n/de.engine.po | 
+ | [en_GB](/f22/language/en_GB) | 104 | 104 | 100.0 | /mnt/stockage/packages/f22/0ad/binaries/data/l10n/en_GB.engine.po | 
+ | [es](/f22/language/es) | 104 | 104 | 100.0 | /mnt/stockage/packages/f22/0ad/binaries/data/l10n/es.engine.po | 
+ | [fr](/f22/language/fr) | 104 | 104 | 100.0 | /mnt/stockage/packages/f22/0ad/binaries/data/l10n/fr.engine.po | 
+ | [gd](/f22/language/gd) | 104 | 104 | 100.0 | /mnt/stockage/packages/f22/0ad/binaries/data/l10n/gd.engine.po | 
+ | [id](/f22/language/id) | 104 | 104 | 100.0 | /mnt/stockage/packages/f22/0ad/binaries/data/l10n/id.engine.po | 
+ | [it](/f22/language/it) | 104 | 104 | 100.0 | /mnt/stockage/packages/f22/0ad/binaries/data/l10n/it.engine.po | 
+ | [nl](/f22/language/nl) | 104 | 104 | 100.0 | /mnt/stockage/packages/f22/0ad/binaries/data/l10n/nl.engine.po | 
+ | [pt_BR](/f22/language/pt_BR) | 104 | 104 | 100.0 | /mnt/stockage/packages/f22/0ad/binaries/data/l10n/pt_BR.engine.po | 
+ | [ru](/f22/language/ru) | 104 | 104 | 100.0 | /mnt/stockage/packages/f22/0ad/binaries/data/l10n/ru.engine.po | 
+ | [tr](/f22/language/tr) | 104 | 104 | 100.0 | /mnt/stockage/packages/f22/0ad/binaries/data/l10n/tr.engine.po | 
+ | [pt_PT](/f22/language/pt_PT) | 96 | 104 | 92.3 | /mnt/stockage/packages/f22/0ad/binaries/data/l10n/pt_PT.engine.po | 
+ | [gl](/f22/language/gl) | 94 | 104 | 90.4 | /mnt/stockage/packages/f22/0ad/binaries/data/l10n/gl.engine.po | 
+ | [es_MX](/f22/language/es_MX) | 28 | 104 | 26.9 | /mnt/stockage/packages/f22/0ad/binaries/data/l10n/es_MX.engine.po | 
+ | [es_CL](/f22/language/es_CL) | 9 | 104 | 8.7 | /mnt/stockage/packages/f22/0ad/binaries/data/l10n/es_CL.engine.po | 
+ | [es_AR](/f22/language/es_AR) | 0 | 104 | 0.0 | /mnt/stockage/packages/f22/0ad/binaries/data/l10n/es_AR.engine.po | 
 {.sortable}
 
 

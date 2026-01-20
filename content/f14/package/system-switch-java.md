@@ -18,46 +18,46 @@ The package system-switch-java (version 1.1.5):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [as]({{< ref "/f14/language/as.md" >}}) | 81 | 81 | 100.0 | /mnt/stockage/packages/f14/system-switch-java/po/as.po | 
- | [bn_IN]({{< ref "/f14/language/bn_IN.md" >}}) | 81 | 81 | 100.0 | /mnt/stockage/packages/f14/system-switch-java/po/bn_IN.po | 
- | [ca]({{< ref "/f14/language/ca.md" >}}) | 81 | 81 | 100.0 | /mnt/stockage/packages/f14/system-switch-java/po/ca.po | 
- | [cs]({{< ref "/f14/language/cs.md" >}}) | 81 | 81 | 100.0 | /mnt/stockage/packages/f14/system-switch-java/po/cs.po | 
- | [da]({{< ref "/f14/language/da.md" >}}) | 81 | 81 | 100.0 | /mnt/stockage/packages/f14/system-switch-java/po/da.po | 
- | [de]({{< ref "/f14/language/de.md" >}}) | 81 | 81 | 100.0 | /mnt/stockage/packages/f14/system-switch-java/po/de.po | 
- | [el]({{< ref "/f14/language/el.md" >}}) | 81 | 81 | 100.0 | /mnt/stockage/packages/f14/system-switch-java/po/el.po | 
- | [en_CA]({{< ref "/f14/language/en_CA.md" >}}) | 81 | 81 | 100.0 | /mnt/stockage/packages/f14/system-switch-java/po/en_CA.po | 
- | [en_GB]({{< ref "/f14/language/en_GB.md" >}}) | 81 | 81 | 100.0 | /mnt/stockage/packages/f14/system-switch-java/po/en_GB.po | 
- | [es]({{< ref "/f14/language/es.md" >}}) | 81 | 81 | 100.0 | /mnt/stockage/packages/f14/system-switch-java/po/es.po | 
- | [fi]({{< ref "/f14/language/fi.md" >}}) | 81 | 81 | 100.0 | /mnt/stockage/packages/f14/system-switch-java/po/fi.po | 
- | [fr]({{< ref "/f14/language/fr.md" >}}) | 81 | 81 | 100.0 | /mnt/stockage/packages/f14/system-switch-java/po/fr.po | 
- | [gu]({{< ref "/f14/language/gu.md" >}}) | 81 | 81 | 100.0 | /mnt/stockage/packages/f14/system-switch-java/po/gu.po | 
- | [he]({{< ref "/f14/language/he.md" >}}) | 81 | 81 | 100.0 | /mnt/stockage/packages/f14/system-switch-java/po/he.po | 
- | [hi]({{< ref "/f14/language/hi.md" >}}) | 81 | 81 | 100.0 | /mnt/stockage/packages/f14/system-switch-java/po/hi.po | 
- | [hu]({{< ref "/f14/language/hu.md" >}}) | 81 | 81 | 100.0 | /mnt/stockage/packages/f14/system-switch-java/po/hu.po | 
- | [id]({{< ref "/f14/language/id.md" >}}) | 81 | 81 | 100.0 | /mnt/stockage/packages/f14/system-switch-java/po/id.po | 
- | [it]({{< ref "/f14/language/it.md" >}}) | 81 | 81 | 100.0 | /mnt/stockage/packages/f14/system-switch-java/po/it.po | 
- | [ja]({{< ref "/f14/language/ja.md" >}}) | 81 | 81 | 100.0 | /mnt/stockage/packages/f14/system-switch-java/po/ja.po | 
- | [kn]({{< ref "/f14/language/kn.md" >}}) | 81 | 81 | 100.0 | /mnt/stockage/packages/f14/system-switch-java/po/kn.po | 
- | [ko]({{< ref "/f14/language/ko.md" >}}) | 81 | 81 | 100.0 | /mnt/stockage/packages/f14/system-switch-java/po/ko.po | 
- | [mai]({{< ref "/f14/language/mai.md" >}}) | 81 | 81 | 100.0 | /mnt/stockage/packages/f14/system-switch-java/po/mai.po | 
- | [ml]({{< ref "/f14/language/ml.md" >}}) | 81 | 81 | 100.0 | /mnt/stockage/packages/f14/system-switch-java/po/ml.po | 
- | [mr]({{< ref "/f14/language/mr.md" >}}) | 81 | 81 | 100.0 | /mnt/stockage/packages/f14/system-switch-java/po/mr.po | 
- | [nl]({{< ref "/f14/language/nl.md" >}}) | 81 | 81 | 100.0 | /mnt/stockage/packages/f14/system-switch-java/po/nl.po | 
- | [or]({{< ref "/f14/language/or.md" >}}) | 81 | 81 | 100.0 | /mnt/stockage/packages/f14/system-switch-java/po/or.po | 
- | [pa]({{< ref "/f14/language/pa.md" >}}) | 81 | 81 | 100.0 | /mnt/stockage/packages/f14/system-switch-java/po/pa.po | 
- | [pl]({{< ref "/f14/language/pl.md" >}}) | 81 | 81 | 100.0 | /mnt/stockage/packages/f14/system-switch-java/po/pl.po | 
- | [pt]({{< ref "/f14/language/pt.md" >}}) | 81 | 81 | 100.0 | /mnt/stockage/packages/f14/system-switch-java/po/pt.po | 
- | [pt_BR]({{< ref "/f14/language/pt_BR.md" >}}) | 81 | 81 | 100.0 | /mnt/stockage/packages/f14/system-switch-java/po/pt_BR.po | 
- | [ro]({{< ref "/f14/language/ro.md" >}}) | 81 | 81 | 100.0 | /mnt/stockage/packages/f14/system-switch-java/po/ro.po | 
- | [ru]({{< ref "/f14/language/ru.md" >}}) | 81 | 81 | 100.0 | /mnt/stockage/packages/f14/system-switch-java/po/ru.po | 
- | [sk]({{< ref "/f14/language/sk.md" >}}) | 81 | 81 | 100.0 | /mnt/stockage/packages/f14/system-switch-java/po/sk.po | 
- | [sr]({{< ref "/f14/language/sr.md" >}}) | 81 | 81 | 100.0 | /mnt/stockage/packages/f14/system-switch-java/po/sr.po | 
- | [sr_Latn]({{< ref "/f14/language/sr_Latn.md" >}}) | 81 | 81 | 100.0 | /mnt/stockage/packages/f14/system-switch-java/po/sr@latin.po | 
- | [sv]({{< ref "/f14/language/sv.md" >}}) | 81 | 81 | 100.0 | /mnt/stockage/packages/f14/system-switch-java/po/sv.po | 
- | [ta]({{< ref "/f14/language/ta.md" >}}) | 81 | 81 | 100.0 | /mnt/stockage/packages/f14/system-switch-java/po/ta.po | 
- | [te]({{< ref "/f14/language/te.md" >}}) | 81 | 81 | 100.0 | /mnt/stockage/packages/f14/system-switch-java/po/te.po | 
- | [zh_Hans]({{< ref "/f14/language/zh_Hans.md" >}}) | 81 | 81 | 100.0 | /mnt/stockage/packages/f14/system-switch-java/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f14/language/zh_Hant.md" >}}) | 81 | 81 | 100.0 | /mnt/stockage/packages/f14/system-switch-java/po/zh_TW.po | 
+ | [as](/f14/language/as) | 81 | 81 | 100.0 | /mnt/stockage/packages/f14/system-switch-java/po/as.po | 
+ | [bn_IN](/f14/language/bn_IN) | 81 | 81 | 100.0 | /mnt/stockage/packages/f14/system-switch-java/po/bn_IN.po | 
+ | [ca](/f14/language/ca) | 81 | 81 | 100.0 | /mnt/stockage/packages/f14/system-switch-java/po/ca.po | 
+ | [cs](/f14/language/cs) | 81 | 81 | 100.0 | /mnt/stockage/packages/f14/system-switch-java/po/cs.po | 
+ | [da](/f14/language/da) | 81 | 81 | 100.0 | /mnt/stockage/packages/f14/system-switch-java/po/da.po | 
+ | [de](/f14/language/de) | 81 | 81 | 100.0 | /mnt/stockage/packages/f14/system-switch-java/po/de.po | 
+ | [el](/f14/language/el) | 81 | 81 | 100.0 | /mnt/stockage/packages/f14/system-switch-java/po/el.po | 
+ | [en_CA](/f14/language/en_CA) | 81 | 81 | 100.0 | /mnt/stockage/packages/f14/system-switch-java/po/en_CA.po | 
+ | [en_GB](/f14/language/en_GB) | 81 | 81 | 100.0 | /mnt/stockage/packages/f14/system-switch-java/po/en_GB.po | 
+ | [es](/f14/language/es) | 81 | 81 | 100.0 | /mnt/stockage/packages/f14/system-switch-java/po/es.po | 
+ | [fi](/f14/language/fi) | 81 | 81 | 100.0 | /mnt/stockage/packages/f14/system-switch-java/po/fi.po | 
+ | [fr](/f14/language/fr) | 81 | 81 | 100.0 | /mnt/stockage/packages/f14/system-switch-java/po/fr.po | 
+ | [gu](/f14/language/gu) | 81 | 81 | 100.0 | /mnt/stockage/packages/f14/system-switch-java/po/gu.po | 
+ | [he](/f14/language/he) | 81 | 81 | 100.0 | /mnt/stockage/packages/f14/system-switch-java/po/he.po | 
+ | [hi](/f14/language/hi) | 81 | 81 | 100.0 | /mnt/stockage/packages/f14/system-switch-java/po/hi.po | 
+ | [hu](/f14/language/hu) | 81 | 81 | 100.0 | /mnt/stockage/packages/f14/system-switch-java/po/hu.po | 
+ | [id](/f14/language/id) | 81 | 81 | 100.0 | /mnt/stockage/packages/f14/system-switch-java/po/id.po | 
+ | [it](/f14/language/it) | 81 | 81 | 100.0 | /mnt/stockage/packages/f14/system-switch-java/po/it.po | 
+ | [ja](/f14/language/ja) | 81 | 81 | 100.0 | /mnt/stockage/packages/f14/system-switch-java/po/ja.po | 
+ | [kn](/f14/language/kn) | 81 | 81 | 100.0 | /mnt/stockage/packages/f14/system-switch-java/po/kn.po | 
+ | [ko](/f14/language/ko) | 81 | 81 | 100.0 | /mnt/stockage/packages/f14/system-switch-java/po/ko.po | 
+ | [mai](/f14/language/mai) | 81 | 81 | 100.0 | /mnt/stockage/packages/f14/system-switch-java/po/mai.po | 
+ | [ml](/f14/language/ml) | 81 | 81 | 100.0 | /mnt/stockage/packages/f14/system-switch-java/po/ml.po | 
+ | [mr](/f14/language/mr) | 81 | 81 | 100.0 | /mnt/stockage/packages/f14/system-switch-java/po/mr.po | 
+ | [nl](/f14/language/nl) | 81 | 81 | 100.0 | /mnt/stockage/packages/f14/system-switch-java/po/nl.po | 
+ | [or](/f14/language/or) | 81 | 81 | 100.0 | /mnt/stockage/packages/f14/system-switch-java/po/or.po | 
+ | [pa](/f14/language/pa) | 81 | 81 | 100.0 | /mnt/stockage/packages/f14/system-switch-java/po/pa.po | 
+ | [pl](/f14/language/pl) | 81 | 81 | 100.0 | /mnt/stockage/packages/f14/system-switch-java/po/pl.po | 
+ | [pt](/f14/language/pt) | 81 | 81 | 100.0 | /mnt/stockage/packages/f14/system-switch-java/po/pt.po | 
+ | [pt_BR](/f14/language/pt_BR) | 81 | 81 | 100.0 | /mnt/stockage/packages/f14/system-switch-java/po/pt_BR.po | 
+ | [ro](/f14/language/ro) | 81 | 81 | 100.0 | /mnt/stockage/packages/f14/system-switch-java/po/ro.po | 
+ | [ru](/f14/language/ru) | 81 | 81 | 100.0 | /mnt/stockage/packages/f14/system-switch-java/po/ru.po | 
+ | [sk](/f14/language/sk) | 81 | 81 | 100.0 | /mnt/stockage/packages/f14/system-switch-java/po/sk.po | 
+ | [sr](/f14/language/sr) | 81 | 81 | 100.0 | /mnt/stockage/packages/f14/system-switch-java/po/sr.po | 
+ | [sr_Latn](/f14/language/sr_Latn) | 81 | 81 | 100.0 | /mnt/stockage/packages/f14/system-switch-java/po/sr@latin.po | 
+ | [sv](/f14/language/sv) | 81 | 81 | 100.0 | /mnt/stockage/packages/f14/system-switch-java/po/sv.po | 
+ | [ta](/f14/language/ta) | 81 | 81 | 100.0 | /mnt/stockage/packages/f14/system-switch-java/po/ta.po | 
+ | [te](/f14/language/te) | 81 | 81 | 100.0 | /mnt/stockage/packages/f14/system-switch-java/po/te.po | 
+ | [zh_Hans](/f14/language/zh_Hans) | 81 | 81 | 100.0 | /mnt/stockage/packages/f14/system-switch-java/po/zh_CN.po | 
+ | [zh_Hant](/f14/language/zh_Hant) | 81 | 81 | 100.0 | /mnt/stockage/packages/f14/system-switch-java/po/zh_TW.po | 
 {.sortable}
 
 

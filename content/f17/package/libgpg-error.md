@@ -18,16 +18,16 @@ The package libgpg-error (version 1.10):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f17/language/de.md" >}}) | 766 | 769 | 99.6 | /mnt/stockage/packages/f17/libgpg-error/po/de.po | 
- | [pl]({{< ref "/f17/language/pl.md" >}}) | 761 | 769 | 99.0 | /mnt/stockage/packages/f17/libgpg-error/po/pl.po | 
- | [cs]({{< ref "/f17/language/cs.md" >}}) | 748 | 769 | 97.3 | /mnt/stockage/packages/f17/libgpg-error/po/cs.po | 
- | [it]({{< ref "/f17/language/it.md" >}}) | 743 | 769 | 96.6 | /mnt/stockage/packages/f17/libgpg-error/po/it.po | 
- | [sv]({{< ref "/f17/language/sv.md" >}}) | 743 | 769 | 96.6 | /mnt/stockage/packages/f17/libgpg-error/po/sv.po | 
- | [vi]({{< ref "/f17/language/vi.md" >}}) | 743 | 769 | 96.6 | /mnt/stockage/packages/f17/libgpg-error/po/vi.po | 
- | [ro]({{< ref "/f17/language/ro.md" >}}) | 614 | 769 | 79.8 | /mnt/stockage/packages/f17/libgpg-error/po/ro.po | 
- | [fr]({{< ref "/f17/language/fr.md" >}}) | 612 | 769 | 79.6 | /mnt/stockage/packages/f17/libgpg-error/po/fr.po | 
- | [zh_Hans]({{< ref "/f17/language/zh_Hans.md" >}}) | 548 | 769 | 71.3 | /mnt/stockage/packages/f17/libgpg-error/po/zh_CN.po | 
- | [nl]({{< ref "/f17/language/nl.md" >}}) | 241 | 769 | 31.3 | /mnt/stockage/packages/f17/libgpg-error/po/nl.po | 
+ | [de](/f17/language/de) | 766 | 769 | 99.6 | /mnt/stockage/packages/f17/libgpg-error/po/de.po | 
+ | [pl](/f17/language/pl) | 761 | 769 | 99.0 | /mnt/stockage/packages/f17/libgpg-error/po/pl.po | 
+ | [cs](/f17/language/cs) | 748 | 769 | 97.3 | /mnt/stockage/packages/f17/libgpg-error/po/cs.po | 
+ | [it](/f17/language/it) | 743 | 769 | 96.6 | /mnt/stockage/packages/f17/libgpg-error/po/it.po | 
+ | [sv](/f17/language/sv) | 743 | 769 | 96.6 | /mnt/stockage/packages/f17/libgpg-error/po/sv.po | 
+ | [vi](/f17/language/vi) | 743 | 769 | 96.6 | /mnt/stockage/packages/f17/libgpg-error/po/vi.po | 
+ | [ro](/f17/language/ro) | 614 | 769 | 79.8 | /mnt/stockage/packages/f17/libgpg-error/po/ro.po | 
+ | [fr](/f17/language/fr) | 612 | 769 | 79.6 | /mnt/stockage/packages/f17/libgpg-error/po/fr.po | 
+ | [zh_Hans](/f17/language/zh_Hans) | 548 | 769 | 71.3 | /mnt/stockage/packages/f17/libgpg-error/po/zh_CN.po | 
+ | [nl](/f17/language/nl) | 241 | 769 | 31.3 | /mnt/stockage/packages/f17/libgpg-error/po/nl.po | 
 {.sortable}
 
 

@@ -18,13 +18,13 @@ The package x-tile (version 1.8.6):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f13/language/de.md" >}}) | 647 | 647 | 100.0 | /mnt/stockage/packages/f13/x-tile/locale/de.po | 
- | [es_AR]({{< ref "/f13/language/es_AR.md" >}}) | 647 | 647 | 100.0 | /mnt/stockage/packages/f13/x-tile/locale/es_AR.po | 
- | [fr]({{< ref "/f13/language/fr.md" >}}) | 647 | 647 | 100.0 | /mnt/stockage/packages/f13/x-tile/locale/fr.po | 
- | [it]({{< ref "/f13/language/it.md" >}}) | 647 | 647 | 100.0 | /mnt/stockage/packages/f13/x-tile/locale/it.po | 
- | [ru]({{< ref "/f13/language/ru.md" >}}) | 647 | 647 | 100.0 | /mnt/stockage/packages/f13/x-tile/locale/ru.po | 
- | [zh_Hans]({{< ref "/f13/language/zh_Hans.md" >}}) | 647 | 647 | 100.0 | /mnt/stockage/packages/f13/x-tile/locale/zh_CN.po | 
- | [zh_Hant]({{< ref "/f13/language/zh_Hant.md" >}}) | 647 | 647 | 100.0 | /mnt/stockage/packages/f13/x-tile/locale/zh_TW.po | 
+ | [de](/f13/language/de) | 647 | 647 | 100.0 | /mnt/stockage/packages/f13/x-tile/locale/de.po | 
+ | [es_AR](/f13/language/es_AR) | 647 | 647 | 100.0 | /mnt/stockage/packages/f13/x-tile/locale/es_AR.po | 
+ | [fr](/f13/language/fr) | 647 | 647 | 100.0 | /mnt/stockage/packages/f13/x-tile/locale/fr.po | 
+ | [it](/f13/language/it) | 647 | 647 | 100.0 | /mnt/stockage/packages/f13/x-tile/locale/it.po | 
+ | [ru](/f13/language/ru) | 647 | 647 | 100.0 | /mnt/stockage/packages/f13/x-tile/locale/ru.po | 
+ | [zh_Hans](/f13/language/zh_Hans) | 647 | 647 | 100.0 | /mnt/stockage/packages/f13/x-tile/locale/zh_CN.po | 
+ | [zh_Hant](/f13/language/zh_Hant) | 647 | 647 | 100.0 | /mnt/stockage/packages/f13/x-tile/locale/zh_TW.po | 
 {.sortable}
 
 

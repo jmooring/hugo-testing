@@ -18,17 +18,17 @@ The package gnomad2 (version 2.9.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [es]({{< ref "/f8/language/es.md" >}}) | 697 | 697 | 100.0 | /mnt/stockage/packages/f8/gnomad2/po/es.po | 
- | [pl]({{< ref "/f8/language/pl.md" >}}) | 697 | 697 | 100.0 | /mnt/stockage/packages/f8/gnomad2/po/pl.po | 
- | [sco]({{< ref "/f8/language/sco.md" >}}) | 697 | 697 | 100.0 | /mnt/stockage/packages/f8/gnomad2/po/sco.po | 
- | [sv]({{< ref "/f8/language/sv.md" >}}) | 703 | 703 | 100.0 | /mnt/stockage/packages/f8/gnomad2/po/sv.po | 
- | [nl]({{< ref "/f8/language/nl.md" >}}) | 693 | 697 | 99.4 | /mnt/stockage/packages/f8/gnomad2/po/nl.po | 
- | [it]({{< ref "/f8/language/it.md" >}}) | 694 | 703 | 98.7 | /mnt/stockage/packages/f8/gnomad2/po/it.po | 
- | [de]({{< ref "/f8/language/de.md" >}}) | 669 | 697 | 96.0 | /mnt/stockage/packages/f8/gnomad2/po/de.po | 
- | [fr]({{< ref "/f8/language/fr.md" >}}) | 613 | 697 | 87.9 | /mnt/stockage/packages/f8/gnomad2/po/fr.po | 
- | [ca]({{< ref "/f8/language/ca.md" >}}) | 603 | 697 | 86.5 | /mnt/stockage/packages/f8/gnomad2/po/ca.po | 
- | [nb_NO]({{< ref "/f8/language/nb_NO.md" >}}) | 444 | 703 | 63.2 | /mnt/stockage/packages/f8/gnomad2/po/no.po | 
- | [fi]({{< ref "/f8/language/fi.md" >}}) | 408 | 703 | 58.0 | /mnt/stockage/packages/f8/gnomad2/po/fi.po | 
+ | [es](/f8/language/es) | 697 | 697 | 100.0 | /mnt/stockage/packages/f8/gnomad2/po/es.po | 
+ | [pl](/f8/language/pl) | 697 | 697 | 100.0 | /mnt/stockage/packages/f8/gnomad2/po/pl.po | 
+ | [sco](/f8/language/sco) | 697 | 697 | 100.0 | /mnt/stockage/packages/f8/gnomad2/po/sco.po | 
+ | [sv](/f8/language/sv) | 703 | 703 | 100.0 | /mnt/stockage/packages/f8/gnomad2/po/sv.po | 
+ | [nl](/f8/language/nl) | 693 | 697 | 99.4 | /mnt/stockage/packages/f8/gnomad2/po/nl.po | 
+ | [it](/f8/language/it) | 694 | 703 | 98.7 | /mnt/stockage/packages/f8/gnomad2/po/it.po | 
+ | [de](/f8/language/de) | 669 | 697 | 96.0 | /mnt/stockage/packages/f8/gnomad2/po/de.po | 
+ | [fr](/f8/language/fr) | 613 | 697 | 87.9 | /mnt/stockage/packages/f8/gnomad2/po/fr.po | 
+ | [ca](/f8/language/ca) | 603 | 697 | 86.5 | /mnt/stockage/packages/f8/gnomad2/po/ca.po | 
+ | [nb_NO](/f8/language/nb_NO) | 444 | 703 | 63.2 | /mnt/stockage/packages/f8/gnomad2/po/no.po | 
+ | [fi](/f8/language/fi) | 408 | 703 | 58.0 | /mnt/stockage/packages/f8/gnomad2/po/fi.po | 
 {.sortable}
 
 

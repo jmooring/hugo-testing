@@ -18,48 +18,48 @@ The package php-horde-Horde-Text-Filter (version 2.3.5):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [bs]({{< ref "/f27/language/bs.md" >}}) | 1 | 1 | 100.0 | /mnt/stockage/packages/f27/php-horde-Horde-Text-Filter/Horde_Text_Filter-2.3.5/locale/bs/LC_MESSAGES/Horde_Text_Filter.po | 
- | [ca]({{< ref "/f27/language/ca.md" >}}) | 1 | 1 | 100.0 | /mnt/stockage/packages/f27/php-horde-Horde-Text-Filter/Horde_Text_Filter-2.3.5/locale/ca/LC_MESSAGES/Horde_Text_Filter.po | 
- | [cs]({{< ref "/f27/language/cs.md" >}}) | 1 | 1 | 100.0 | /mnt/stockage/packages/f27/php-horde-Horde-Text-Filter/Horde_Text_Filter-2.3.5/locale/cs/LC_MESSAGES/Horde_Text_Filter.po | 
- | [da]({{< ref "/f27/language/da.md" >}}) | 1 | 1 | 100.0 | /mnt/stockage/packages/f27/php-horde-Horde-Text-Filter/Horde_Text_Filter-2.3.5/locale/da/LC_MESSAGES/Horde_Text_Filter.po | 
- | [de]({{< ref "/f27/language/de.md" >}}) | 1 | 1 | 100.0 | /mnt/stockage/packages/f27/php-horde-Horde-Text-Filter/Horde_Text_Filter-2.3.5/locale/de/LC_MESSAGES/Horde_Text_Filter.po | 
- | [el]({{< ref "/f27/language/el.md" >}}) | 1 | 1 | 100.0 | /mnt/stockage/packages/f27/php-horde-Horde-Text-Filter/Horde_Text_Filter-2.3.5/locale/el/LC_MESSAGES/Horde_Text_Filter.po | 
- | [es]({{< ref "/f27/language/es.md" >}}) | 1 | 1 | 100.0 | /mnt/stockage/packages/f27/php-horde-Horde-Text-Filter/Horde_Text_Filter-2.3.5/locale/es/LC_MESSAGES/Horde_Text_Filter.po | 
- | [et]({{< ref "/f27/language/et.md" >}}) | 1 | 1 | 100.0 | /mnt/stockage/packages/f27/php-horde-Horde-Text-Filter/Horde_Text_Filter-2.3.5/locale/et/LC_MESSAGES/Horde_Text_Filter.po | 
- | [eu]({{< ref "/f27/language/eu.md" >}}) | 1 | 1 | 100.0 | /mnt/stockage/packages/f27/php-horde-Horde-Text-Filter/Horde_Text_Filter-2.3.5/locale/eu/LC_MESSAGES/Horde_Text_Filter.po | 
- | [fa]({{< ref "/f27/language/fa.md" >}}) | 1 | 1 | 100.0 | /mnt/stockage/packages/f27/php-horde-Horde-Text-Filter/Horde_Text_Filter-2.3.5/locale/fa/LC_MESSAGES/Horde_Text_Filter.po | 
- | [fi]({{< ref "/f27/language/fi.md" >}}) | 1 | 1 | 100.0 | /mnt/stockage/packages/f27/php-horde-Horde-Text-Filter/Horde_Text_Filter-2.3.5/locale/fi/LC_MESSAGES/Horde_Text_Filter.po | 
- | [fr]({{< ref "/f27/language/fr.md" >}}) | 1 | 1 | 100.0 | /mnt/stockage/packages/f27/php-horde-Horde-Text-Filter/Horde_Text_Filter-2.3.5/locale/fr/LC_MESSAGES/Horde_Text_Filter.po | 
- | [hr]({{< ref "/f27/language/hr.md" >}}) | 1 | 1 | 100.0 | /mnt/stockage/packages/f27/php-horde-Horde-Text-Filter/Horde_Text_Filter-2.3.5/locale/hr/LC_MESSAGES/Horde_Text_Filter.po | 
- | [hu]({{< ref "/f27/language/hu.md" >}}) | 1 | 1 | 100.0 | /mnt/stockage/packages/f27/php-horde-Horde-Text-Filter/Horde_Text_Filter-2.3.5/locale/hu/LC_MESSAGES/Horde_Text_Filter.po | 
- | [it]({{< ref "/f27/language/it.md" >}}) | 1 | 1 | 100.0 | /mnt/stockage/packages/f27/php-horde-Horde-Text-Filter/Horde_Text_Filter-2.3.5/locale/it/LC_MESSAGES/Horde_Text_Filter.po | 
- | [ja]({{< ref "/f27/language/ja.md" >}}) | 1 | 1 | 100.0 | /mnt/stockage/packages/f27/php-horde-Horde-Text-Filter/Horde_Text_Filter-2.3.5/locale/ja/LC_MESSAGES/Horde_Text_Filter.po | 
- | [km]({{< ref "/f27/language/km.md" >}}) | 1 | 1 | 100.0 | /mnt/stockage/packages/f27/php-horde-Horde-Text-Filter/Horde_Text_Filter-2.3.5/locale/km/LC_MESSAGES/Horde_Text_Filter.po | 
- | [lt]({{< ref "/f27/language/lt.md" >}}) | 1 | 1 | 100.0 | /mnt/stockage/packages/f27/php-horde-Horde-Text-Filter/Horde_Text_Filter-2.3.5/locale/lt/LC_MESSAGES/Horde_Text_Filter.po | 
- | [lv]({{< ref "/f27/language/lv.md" >}}) | 1 | 1 | 100.0 | /mnt/stockage/packages/f27/php-horde-Horde-Text-Filter/Horde_Text_Filter-2.3.5/locale/lv/LC_MESSAGES/Horde_Text_Filter.po | 
- | [nb_NO]({{< ref "/f27/language/nb_NO.md" >}}) | 1 | 1 | 100.0 | /mnt/stockage/packages/f27/php-horde-Horde-Text-Filter/Horde_Text_Filter-2.3.5/locale/nb/LC_MESSAGES/Horde_Text_Filter.po | 
- | [nl]({{< ref "/f27/language/nl.md" >}}) | 1 | 1 | 100.0 | /mnt/stockage/packages/f27/php-horde-Horde-Text-Filter/Horde_Text_Filter-2.3.5/locale/nl/LC_MESSAGES/Horde_Text_Filter.po | 
- | [pt]({{< ref "/f27/language/pt.md" >}}) | 1 | 1 | 100.0 | /mnt/stockage/packages/f27/php-horde-Horde-Text-Filter/Horde_Text_Filter-2.3.5/locale/pt/LC_MESSAGES/Horde_Text_Filter.po | 
- | [pt_BR]({{< ref "/f27/language/pt_BR.md" >}}) | 1 | 1 | 100.0 | /mnt/stockage/packages/f27/php-horde-Horde-Text-Filter/Horde_Text_Filter-2.3.5/locale/pt_BR/LC_MESSAGES/Horde_Text_Filter.po | 
- | [sk]({{< ref "/f27/language/sk.md" >}}) | 1 | 1 | 100.0 | /mnt/stockage/packages/f27/php-horde-Horde-Text-Filter/Horde_Text_Filter-2.3.5/locale/sk/LC_MESSAGES/Horde_Text_Filter.po | 
- | [sl]({{< ref "/f27/language/sl.md" >}}) | 1 | 1 | 100.0 | /mnt/stockage/packages/f27/php-horde-Horde-Text-Filter/Horde_Text_Filter-2.3.5/locale/sl/LC_MESSAGES/Horde_Text_Filter.po | 
- | [sv]({{< ref "/f27/language/sv.md" >}}) | 1 | 1 | 100.0 | /mnt/stockage/packages/f27/php-horde-Horde-Text-Filter/Horde_Text_Filter-2.3.5/locale/sv/LC_MESSAGES/Horde_Text_Filter.po | 
- | [tr]({{< ref "/f27/language/tr.md" >}}) | 1 | 1 | 100.0 | /mnt/stockage/packages/f27/php-horde-Horde-Text-Filter/Horde_Text_Filter-2.3.5/locale/tr/LC_MESSAGES/Horde_Text_Filter.po | 
- | [zh_Hans]({{< ref "/f27/language/zh_Hans.md" >}}) | 1 | 1 | 100.0 | /mnt/stockage/packages/f27/php-horde-Horde-Text-Filter/Horde_Text_Filter-2.3.5/locale/zh_CN/LC_MESSAGES/Horde_Text_Filter.po | 
- | [zh_Hant]({{< ref "/f27/language/zh_Hant.md" >}}) | 1 | 1 | 100.0 | /mnt/stockage/packages/f27/php-horde-Horde-Text-Filter/Horde_Text_Filter-2.3.5/locale/zh_TW/LC_MESSAGES/Horde_Text_Filter.po | 
- | [ar]({{< ref "/f27/language/ar.md" >}}) | 0 | 1 | 0.0 | /mnt/stockage/packages/f27/php-horde-Horde-Text-Filter/Horde_Text_Filter-2.3.5/locale/ar/LC_MESSAGES/Horde_Text_Filter.po | 
- | [bg]({{< ref "/f27/language/bg.md" >}}) | 0 | 1 | 0.0 | /mnt/stockage/packages/f27/php-horde-Horde-Text-Filter/Horde_Text_Filter-2.3.5/locale/bg/LC_MESSAGES/Horde_Text_Filter.po | 
- | [gl]({{< ref "/f27/language/gl.md" >}}) | 0 | 1 | 0.0 | /mnt/stockage/packages/f27/php-horde-Horde-Text-Filter/Horde_Text_Filter-2.3.5/locale/gl/LC_MESSAGES/Horde_Text_Filter.po | 
- | [he]({{< ref "/f27/language/he.md" >}}) | 0 | 1 | 0.0 | /mnt/stockage/packages/f27/php-horde-Horde-Text-Filter/Horde_Text_Filter-2.3.5/locale/he/LC_MESSAGES/Horde_Text_Filter.po | 
- | [id]({{< ref "/f27/language/id.md" >}}) | 0 | 1 | 0.0 | /mnt/stockage/packages/f27/php-horde-Horde-Text-Filter/Horde_Text_Filter-2.3.5/locale/id/LC_MESSAGES/Horde_Text_Filter.po | 
- | [is]({{< ref "/f27/language/is.md" >}}) | 0 | 1 | 0.0 | /mnt/stockage/packages/f27/php-horde-Horde-Text-Filter/Horde_Text_Filter-2.3.5/locale/is/LC_MESSAGES/Horde_Text_Filter.po | 
- | [ko]({{< ref "/f27/language/ko.md" >}}) | 0 | 1 | 0.0 | /mnt/stockage/packages/f27/php-horde-Horde-Text-Filter/Horde_Text_Filter-2.3.5/locale/ko/LC_MESSAGES/Horde_Text_Filter.po | 
- | [mk]({{< ref "/f27/language/mk.md" >}}) | 0 | 1 | 0.0 | /mnt/stockage/packages/f27/php-horde-Horde-Text-Filter/Horde_Text_Filter-2.3.5/locale/mk/LC_MESSAGES/Horde_Text_Filter.po | 
- | [nn]({{< ref "/f27/language/nn.md" >}}) | 0 | 1 | 0.0 | /mnt/stockage/packages/f27/php-horde-Horde-Text-Filter/Horde_Text_Filter-2.3.5/locale/nn/LC_MESSAGES/Horde_Text_Filter.po | 
- | [pl]({{< ref "/f27/language/pl.md" >}}) | 0 | 1 | 0.0 | /mnt/stockage/packages/f27/php-horde-Horde-Text-Filter/Horde_Text_Filter-2.3.5/locale/pl/LC_MESSAGES/Horde_Text_Filter.po | 
- | [ro]({{< ref "/f27/language/ro.md" >}}) | 0 | 1 | 0.0 | /mnt/stockage/packages/f27/php-horde-Horde-Text-Filter/Horde_Text_Filter-2.3.5/locale/ro/LC_MESSAGES/Horde_Text_Filter.po | 
- | [ru]({{< ref "/f27/language/ru.md" >}}) | 0 | 1 | 0.0 | /mnt/stockage/packages/f27/php-horde-Horde-Text-Filter/Horde_Text_Filter-2.3.5/locale/ru/LC_MESSAGES/Horde_Text_Filter.po | 
- | [uk]({{< ref "/f27/language/uk.md" >}}) | 0 | 1 | 0.0 | /mnt/stockage/packages/f27/php-horde-Horde-Text-Filter/Horde_Text_Filter-2.3.5/locale/uk/LC_MESSAGES/Horde_Text_Filter.po | 
+ | [bs](/f27/language/bs) | 1 | 1 | 100.0 | /mnt/stockage/packages/f27/php-horde-Horde-Text-Filter/Horde_Text_Filter-2.3.5/locale/bs/LC_MESSAGES/Horde_Text_Filter.po | 
+ | [ca](/f27/language/ca) | 1 | 1 | 100.0 | /mnt/stockage/packages/f27/php-horde-Horde-Text-Filter/Horde_Text_Filter-2.3.5/locale/ca/LC_MESSAGES/Horde_Text_Filter.po | 
+ | [cs](/f27/language/cs) | 1 | 1 | 100.0 | /mnt/stockage/packages/f27/php-horde-Horde-Text-Filter/Horde_Text_Filter-2.3.5/locale/cs/LC_MESSAGES/Horde_Text_Filter.po | 
+ | [da](/f27/language/da) | 1 | 1 | 100.0 | /mnt/stockage/packages/f27/php-horde-Horde-Text-Filter/Horde_Text_Filter-2.3.5/locale/da/LC_MESSAGES/Horde_Text_Filter.po | 
+ | [de](/f27/language/de) | 1 | 1 | 100.0 | /mnt/stockage/packages/f27/php-horde-Horde-Text-Filter/Horde_Text_Filter-2.3.5/locale/de/LC_MESSAGES/Horde_Text_Filter.po | 
+ | [el](/f27/language/el) | 1 | 1 | 100.0 | /mnt/stockage/packages/f27/php-horde-Horde-Text-Filter/Horde_Text_Filter-2.3.5/locale/el/LC_MESSAGES/Horde_Text_Filter.po | 
+ | [es](/f27/language/es) | 1 | 1 | 100.0 | /mnt/stockage/packages/f27/php-horde-Horde-Text-Filter/Horde_Text_Filter-2.3.5/locale/es/LC_MESSAGES/Horde_Text_Filter.po | 
+ | [et](/f27/language/et) | 1 | 1 | 100.0 | /mnt/stockage/packages/f27/php-horde-Horde-Text-Filter/Horde_Text_Filter-2.3.5/locale/et/LC_MESSAGES/Horde_Text_Filter.po | 
+ | [eu](/f27/language/eu) | 1 | 1 | 100.0 | /mnt/stockage/packages/f27/php-horde-Horde-Text-Filter/Horde_Text_Filter-2.3.5/locale/eu/LC_MESSAGES/Horde_Text_Filter.po | 
+ | [fa](/f27/language/fa) | 1 | 1 | 100.0 | /mnt/stockage/packages/f27/php-horde-Horde-Text-Filter/Horde_Text_Filter-2.3.5/locale/fa/LC_MESSAGES/Horde_Text_Filter.po | 
+ | [fi](/f27/language/fi) | 1 | 1 | 100.0 | /mnt/stockage/packages/f27/php-horde-Horde-Text-Filter/Horde_Text_Filter-2.3.5/locale/fi/LC_MESSAGES/Horde_Text_Filter.po | 
+ | [fr](/f27/language/fr) | 1 | 1 | 100.0 | /mnt/stockage/packages/f27/php-horde-Horde-Text-Filter/Horde_Text_Filter-2.3.5/locale/fr/LC_MESSAGES/Horde_Text_Filter.po | 
+ | [hr](/f27/language/hr) | 1 | 1 | 100.0 | /mnt/stockage/packages/f27/php-horde-Horde-Text-Filter/Horde_Text_Filter-2.3.5/locale/hr/LC_MESSAGES/Horde_Text_Filter.po | 
+ | [hu](/f27/language/hu) | 1 | 1 | 100.0 | /mnt/stockage/packages/f27/php-horde-Horde-Text-Filter/Horde_Text_Filter-2.3.5/locale/hu/LC_MESSAGES/Horde_Text_Filter.po | 
+ | [it](/f27/language/it) | 1 | 1 | 100.0 | /mnt/stockage/packages/f27/php-horde-Horde-Text-Filter/Horde_Text_Filter-2.3.5/locale/it/LC_MESSAGES/Horde_Text_Filter.po | 
+ | [ja](/f27/language/ja) | 1 | 1 | 100.0 | /mnt/stockage/packages/f27/php-horde-Horde-Text-Filter/Horde_Text_Filter-2.3.5/locale/ja/LC_MESSAGES/Horde_Text_Filter.po | 
+ | [km](/f27/language/km) | 1 | 1 | 100.0 | /mnt/stockage/packages/f27/php-horde-Horde-Text-Filter/Horde_Text_Filter-2.3.5/locale/km/LC_MESSAGES/Horde_Text_Filter.po | 
+ | [lt](/f27/language/lt) | 1 | 1 | 100.0 | /mnt/stockage/packages/f27/php-horde-Horde-Text-Filter/Horde_Text_Filter-2.3.5/locale/lt/LC_MESSAGES/Horde_Text_Filter.po | 
+ | [lv](/f27/language/lv) | 1 | 1 | 100.0 | /mnt/stockage/packages/f27/php-horde-Horde-Text-Filter/Horde_Text_Filter-2.3.5/locale/lv/LC_MESSAGES/Horde_Text_Filter.po | 
+ | [nb_NO](/f27/language/nb_NO) | 1 | 1 | 100.0 | /mnt/stockage/packages/f27/php-horde-Horde-Text-Filter/Horde_Text_Filter-2.3.5/locale/nb/LC_MESSAGES/Horde_Text_Filter.po | 
+ | [nl](/f27/language/nl) | 1 | 1 | 100.0 | /mnt/stockage/packages/f27/php-horde-Horde-Text-Filter/Horde_Text_Filter-2.3.5/locale/nl/LC_MESSAGES/Horde_Text_Filter.po | 
+ | [pt](/f27/language/pt) | 1 | 1 | 100.0 | /mnt/stockage/packages/f27/php-horde-Horde-Text-Filter/Horde_Text_Filter-2.3.5/locale/pt/LC_MESSAGES/Horde_Text_Filter.po | 
+ | [pt_BR](/f27/language/pt_BR) | 1 | 1 | 100.0 | /mnt/stockage/packages/f27/php-horde-Horde-Text-Filter/Horde_Text_Filter-2.3.5/locale/pt_BR/LC_MESSAGES/Horde_Text_Filter.po | 
+ | [sk](/f27/language/sk) | 1 | 1 | 100.0 | /mnt/stockage/packages/f27/php-horde-Horde-Text-Filter/Horde_Text_Filter-2.3.5/locale/sk/LC_MESSAGES/Horde_Text_Filter.po | 
+ | [sl](/f27/language/sl) | 1 | 1 | 100.0 | /mnt/stockage/packages/f27/php-horde-Horde-Text-Filter/Horde_Text_Filter-2.3.5/locale/sl/LC_MESSAGES/Horde_Text_Filter.po | 
+ | [sv](/f27/language/sv) | 1 | 1 | 100.0 | /mnt/stockage/packages/f27/php-horde-Horde-Text-Filter/Horde_Text_Filter-2.3.5/locale/sv/LC_MESSAGES/Horde_Text_Filter.po | 
+ | [tr](/f27/language/tr) | 1 | 1 | 100.0 | /mnt/stockage/packages/f27/php-horde-Horde-Text-Filter/Horde_Text_Filter-2.3.5/locale/tr/LC_MESSAGES/Horde_Text_Filter.po | 
+ | [zh_Hans](/f27/language/zh_Hans) | 1 | 1 | 100.0 | /mnt/stockage/packages/f27/php-horde-Horde-Text-Filter/Horde_Text_Filter-2.3.5/locale/zh_CN/LC_MESSAGES/Horde_Text_Filter.po | 
+ | [zh_Hant](/f27/language/zh_Hant) | 1 | 1 | 100.0 | /mnt/stockage/packages/f27/php-horde-Horde-Text-Filter/Horde_Text_Filter-2.3.5/locale/zh_TW/LC_MESSAGES/Horde_Text_Filter.po | 
+ | [ar](/f27/language/ar) | 0 | 1 | 0.0 | /mnt/stockage/packages/f27/php-horde-Horde-Text-Filter/Horde_Text_Filter-2.3.5/locale/ar/LC_MESSAGES/Horde_Text_Filter.po | 
+ | [bg](/f27/language/bg) | 0 | 1 | 0.0 | /mnt/stockage/packages/f27/php-horde-Horde-Text-Filter/Horde_Text_Filter-2.3.5/locale/bg/LC_MESSAGES/Horde_Text_Filter.po | 
+ | [gl](/f27/language/gl) | 0 | 1 | 0.0 | /mnt/stockage/packages/f27/php-horde-Horde-Text-Filter/Horde_Text_Filter-2.3.5/locale/gl/LC_MESSAGES/Horde_Text_Filter.po | 
+ | [he](/f27/language/he) | 0 | 1 | 0.0 | /mnt/stockage/packages/f27/php-horde-Horde-Text-Filter/Horde_Text_Filter-2.3.5/locale/he/LC_MESSAGES/Horde_Text_Filter.po | 
+ | [id](/f27/language/id) | 0 | 1 | 0.0 | /mnt/stockage/packages/f27/php-horde-Horde-Text-Filter/Horde_Text_Filter-2.3.5/locale/id/LC_MESSAGES/Horde_Text_Filter.po | 
+ | [is](/f27/language/is) | 0 | 1 | 0.0 | /mnt/stockage/packages/f27/php-horde-Horde-Text-Filter/Horde_Text_Filter-2.3.5/locale/is/LC_MESSAGES/Horde_Text_Filter.po | 
+ | [ko](/f27/language/ko) | 0 | 1 | 0.0 | /mnt/stockage/packages/f27/php-horde-Horde-Text-Filter/Horde_Text_Filter-2.3.5/locale/ko/LC_MESSAGES/Horde_Text_Filter.po | 
+ | [mk](/f27/language/mk) | 0 | 1 | 0.0 | /mnt/stockage/packages/f27/php-horde-Horde-Text-Filter/Horde_Text_Filter-2.3.5/locale/mk/LC_MESSAGES/Horde_Text_Filter.po | 
+ | [nn](/f27/language/nn) | 0 | 1 | 0.0 | /mnt/stockage/packages/f27/php-horde-Horde-Text-Filter/Horde_Text_Filter-2.3.5/locale/nn/LC_MESSAGES/Horde_Text_Filter.po | 
+ | [pl](/f27/language/pl) | 0 | 1 | 0.0 | /mnt/stockage/packages/f27/php-horde-Horde-Text-Filter/Horde_Text_Filter-2.3.5/locale/pl/LC_MESSAGES/Horde_Text_Filter.po | 
+ | [ro](/f27/language/ro) | 0 | 1 | 0.0 | /mnt/stockage/packages/f27/php-horde-Horde-Text-Filter/Horde_Text_Filter-2.3.5/locale/ro/LC_MESSAGES/Horde_Text_Filter.po | 
+ | [ru](/f27/language/ru) | 0 | 1 | 0.0 | /mnt/stockage/packages/f27/php-horde-Horde-Text-Filter/Horde_Text_Filter-2.3.5/locale/ru/LC_MESSAGES/Horde_Text_Filter.po | 
+ | [uk](/f27/language/uk) | 0 | 1 | 0.0 | /mnt/stockage/packages/f27/php-horde-Horde-Text-Filter/Horde_Text_Filter-2.3.5/locale/uk/LC_MESSAGES/Horde_Text_Filter.po | 
 {.sortable}
 
 

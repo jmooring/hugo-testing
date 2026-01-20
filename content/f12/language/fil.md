@@ -41,15 +41,15 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [olpc-switch-desktop]({{< ref "/f12/package/olpc-switch-desktop.md" >}}) | 153 | 158 | 96.8 | LANGUAGE <LL@li.org> | 
- | [phatch]({{< ref "/f12/package/phatch.md" >}}) | 1404 | 2553 | 55.0 | Filipino <fil@li.org> | 
- | [gwibber]({{< ref "/f12/package/gwibber.md" >}}) | 9 | 45 | 20.0 | Filipino <fil@li.org> | 
- | [stellarium]({{< ref "/f12/package/stellarium.md" >}}) | 466 | 2407 | 19.4 | Filipino <fil@li.org> | 
- | [Miro]({{< ref "/f12/package/Miro.md" >}}) | 338 | 3336 | 10.1 | Filipino <fil@li.org> | 
- | [transmission]({{< ref "/f12/package/transmission.md" >}}) | 1 | 1642 | 0.1 | Filipino <fil@li.org> | 
- | [sugar-physics]({{< ref "/f12/package/sugar-physics.md" >}}) | 0 | 22 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-visualmatch]({{< ref "/f12/package/sugar-visualmatch.md" >}}) | 0 | 58 | 0.0 | LANGUAGE <LL@li.org> | 
- | [vidalia]({{< ref "/f12/package/vidalia.md" >}}) | 0 | 9310 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [olpc-switch-desktop](/f12/package/olpc-switch-desktop) | 153 | 158 | 96.8 | LANGUAGE <LL@li.org> | 
+ | [phatch](/f12/package/phatch) | 1404 | 2553 | 55.0 | Filipino <fil@li.org> | 
+ | [gwibber](/f12/package/gwibber) | 9 | 45 | 20.0 | Filipino <fil@li.org> | 
+ | [stellarium](/f12/package/stellarium) | 466 | 2407 | 19.4 | Filipino <fil@li.org> | 
+ | [Miro](/f12/package/Miro) | 338 | 3336 | 10.1 | Filipino <fil@li.org> | 
+ | [transmission](/f12/package/transmission) | 1 | 1642 | 0.1 | Filipino <fil@li.org> | 
+ | [sugar-physics](/f12/package/sugar-physics) | 0 | 22 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-visualmatch](/f12/package/sugar-visualmatch) | 0 | 58 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [vidalia](/f12/package/vidalia) | 0 | 9310 | 0.0 | LANGUAGE <LL@li.org> | 
 {.sortable}
 
 

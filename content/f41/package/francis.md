@@ -18,44 +18,44 @@ The package francis (version 25.04.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f41/language/ar.md" >}}) | 78 | 78 | 100.0 | /mnt/stockage/packages/f41/francis/po/ar/francis.po | 
- | [ca]({{< ref "/f41/language/ca.md" >}}) | 78 | 78 | 100.0 | /mnt/stockage/packages/f41/francis/po/ca/francis.po | 
- | [ca@valencia]({{< ref "/f41/language/ca@valencia.md" >}}) | 78 | 78 | 100.0 | /mnt/stockage/packages/f41/francis/po/ca@valencia/francis.po | 
- | [en_GB]({{< ref "/f41/language/en_GB.md" >}}) | 78 | 78 | 100.0 | /mnt/stockage/packages/f41/francis/po/en_GB/francis.po | 
- | [eo]({{< ref "/f41/language/eo.md" >}}) | 78 | 78 | 100.0 | /mnt/stockage/packages/f41/francis/po/eo/francis.po | 
- | [es]({{< ref "/f41/language/es.md" >}}) | 78 | 78 | 100.0 | /mnt/stockage/packages/f41/francis/po/es/francis.po | 
- | [eu]({{< ref "/f41/language/eu.md" >}}) | 78 | 78 | 100.0 | /mnt/stockage/packages/f41/francis/po/eu/francis.po | 
- | [fi]({{< ref "/f41/language/fi.md" >}}) | 78 | 78 | 100.0 | /mnt/stockage/packages/f41/francis/po/fi/francis.po | 
- | [fr]({{< ref "/f41/language/fr.md" >}}) | 78 | 78 | 100.0 | /mnt/stockage/packages/f41/francis/po/fr/francis.po | 
- | [gl]({{< ref "/f41/language/gl.md" >}}) | 78 | 78 | 100.0 | /mnt/stockage/packages/f41/francis/po/gl/francis.po | 
- | [he]({{< ref "/f41/language/he.md" >}}) | 78 | 78 | 100.0 | /mnt/stockage/packages/f41/francis/po/he/francis.po | 
- | [hi]({{< ref "/f41/language/hi.md" >}}) | 78 | 78 | 100.0 | /mnt/stockage/packages/f41/francis/po/hi/francis.po | 
- | [hu]({{< ref "/f41/language/hu.md" >}}) | 78 | 78 | 100.0 | /mnt/stockage/packages/f41/francis/po/hu/francis.po | 
- | [ia]({{< ref "/f41/language/ia.md" >}}) | 78 | 78 | 100.0 | /mnt/stockage/packages/f41/francis/po/ia/francis.po | 
- | [it]({{< ref "/f41/language/it.md" >}}) | 78 | 78 | 100.0 | /mnt/stockage/packages/f41/francis/po/it/francis.po | 
- | [ka]({{< ref "/f41/language/ka.md" >}}) | 78 | 78 | 100.0 | /mnt/stockage/packages/f41/francis/po/ka/francis.po | 
- | [ko]({{< ref "/f41/language/ko.md" >}}) | 78 | 78 | 100.0 | /mnt/stockage/packages/f41/francis/po/ko/francis.po | 
- | [lv]({{< ref "/f41/language/lv.md" >}}) | 78 | 78 | 100.0 | /mnt/stockage/packages/f41/francis/po/lv/francis.po | 
- | [nl]({{< ref "/f41/language/nl.md" >}}) | 78 | 78 | 100.0 | /mnt/stockage/packages/f41/francis/po/nl/francis.po | 
- | [nn]({{< ref "/f41/language/nn.md" >}}) | 78 | 78 | 100.0 | /mnt/stockage/packages/f41/francis/po/nn/francis.po | 
- | [pl]({{< ref "/f41/language/pl.md" >}}) | 78 | 78 | 100.0 | /mnt/stockage/packages/f41/francis/po/pl/francis.po | 
- | [pt_BR]({{< ref "/f41/language/pt_BR.md" >}}) | 78 | 78 | 100.0 | /mnt/stockage/packages/f41/francis/po/pt_BR/francis.po | 
- | [ru]({{< ref "/f41/language/ru.md" >}}) | 78 | 78 | 100.0 | /mnt/stockage/packages/f41/francis/po/ru/francis.po | 
- | [sa]({{< ref "/f41/language/sa.md" >}}) | 78 | 78 | 100.0 | /mnt/stockage/packages/f41/francis/po/sa/francis.po | 
- | [sl]({{< ref "/f41/language/sl.md" >}}) | 78 | 78 | 100.0 | /mnt/stockage/packages/f41/francis/po/sl/francis.po | 
- | [sv]({{< ref "/f41/language/sv.md" >}}) | 78 | 78 | 100.0 | /mnt/stockage/packages/f41/francis/po/sv/francis.po | 
- | [tr]({{< ref "/f41/language/tr.md" >}}) | 78 | 78 | 100.0 | /mnt/stockage/packages/f41/francis/po/tr/francis.po | 
- | [uk]({{< ref "/f41/language/uk.md" >}}) | 78 | 78 | 100.0 | /mnt/stockage/packages/f41/francis/po/uk/francis.po | 
- | [zh_Hans]({{< ref "/f41/language/zh_Hans.md" >}}) | 78 | 78 | 100.0 | /mnt/stockage/packages/f41/francis/po/zh_CN/francis.po | 
- | [zh_Hant]({{< ref "/f41/language/zh_Hant.md" >}}) | 78 | 78 | 100.0 | /mnt/stockage/packages/f41/francis/po/zh_TW/francis.po | 
- | [ro]({{< ref "/f41/language/ro.md" >}}) | 75 | 78 | 96.2 | /mnt/stockage/packages/f41/francis/po/ro/francis.po | 
- | [lt]({{< ref "/f41/language/lt.md" >}}) | 66 | 78 | 84.6 | /mnt/stockage/packages/f41/francis/po/lt/francis.po | 
- | [de]({{< ref "/f41/language/de.md" >}}) | 64 | 78 | 82.1 | /mnt/stockage/packages/f41/francis/po/de/francis.po | 
- | [pt]({{< ref "/f41/language/pt.md" >}}) | 61 | 78 | 78.2 | /mnt/stockage/packages/f41/francis/po/pt/francis.po | 
- | [cs]({{< ref "/f41/language/cs.md" >}}) | 36 | 78 | 46.2 | /mnt/stockage/packages/f41/francis/po/cs/francis.po | 
- | [sk]({{< ref "/f41/language/sk.md" >}}) | 29 | 78 | 37.2 | /mnt/stockage/packages/f41/francis/po/sk/francis.po | 
- | [ast]({{< ref "/f41/language/ast.md" >}}) | 4 | 78 | 5.1 | /mnt/stockage/packages/f41/francis/po/ast/francis.po | 
- | [ja]({{< ref "/f41/language/ja.md" >}}) | 0 | 78 | 0.0 | /mnt/stockage/packages/f41/francis/po/ja/francis.po | 
+ | [ar](/f41/language/ar) | 78 | 78 | 100.0 | /mnt/stockage/packages/f41/francis/po/ar/francis.po | 
+ | [ca](/f41/language/ca) | 78 | 78 | 100.0 | /mnt/stockage/packages/f41/francis/po/ca/francis.po | 
+ | [ca@valencia](/f41/language/ca@valencia) | 78 | 78 | 100.0 | /mnt/stockage/packages/f41/francis/po/ca@valencia/francis.po | 
+ | [en_GB](/f41/language/en_GB) | 78 | 78 | 100.0 | /mnt/stockage/packages/f41/francis/po/en_GB/francis.po | 
+ | [eo](/f41/language/eo) | 78 | 78 | 100.0 | /mnt/stockage/packages/f41/francis/po/eo/francis.po | 
+ | [es](/f41/language/es) | 78 | 78 | 100.0 | /mnt/stockage/packages/f41/francis/po/es/francis.po | 
+ | [eu](/f41/language/eu) | 78 | 78 | 100.0 | /mnt/stockage/packages/f41/francis/po/eu/francis.po | 
+ | [fi](/f41/language/fi) | 78 | 78 | 100.0 | /mnt/stockage/packages/f41/francis/po/fi/francis.po | 
+ | [fr](/f41/language/fr) | 78 | 78 | 100.0 | /mnt/stockage/packages/f41/francis/po/fr/francis.po | 
+ | [gl](/f41/language/gl) | 78 | 78 | 100.0 | /mnt/stockage/packages/f41/francis/po/gl/francis.po | 
+ | [he](/f41/language/he) | 78 | 78 | 100.0 | /mnt/stockage/packages/f41/francis/po/he/francis.po | 
+ | [hi](/f41/language/hi) | 78 | 78 | 100.0 | /mnt/stockage/packages/f41/francis/po/hi/francis.po | 
+ | [hu](/f41/language/hu) | 78 | 78 | 100.0 | /mnt/stockage/packages/f41/francis/po/hu/francis.po | 
+ | [ia](/f41/language/ia) | 78 | 78 | 100.0 | /mnt/stockage/packages/f41/francis/po/ia/francis.po | 
+ | [it](/f41/language/it) | 78 | 78 | 100.0 | /mnt/stockage/packages/f41/francis/po/it/francis.po | 
+ | [ka](/f41/language/ka) | 78 | 78 | 100.0 | /mnt/stockage/packages/f41/francis/po/ka/francis.po | 
+ | [ko](/f41/language/ko) | 78 | 78 | 100.0 | /mnt/stockage/packages/f41/francis/po/ko/francis.po | 
+ | [lv](/f41/language/lv) | 78 | 78 | 100.0 | /mnt/stockage/packages/f41/francis/po/lv/francis.po | 
+ | [nl](/f41/language/nl) | 78 | 78 | 100.0 | /mnt/stockage/packages/f41/francis/po/nl/francis.po | 
+ | [nn](/f41/language/nn) | 78 | 78 | 100.0 | /mnt/stockage/packages/f41/francis/po/nn/francis.po | 
+ | [pl](/f41/language/pl) | 78 | 78 | 100.0 | /mnt/stockage/packages/f41/francis/po/pl/francis.po | 
+ | [pt_BR](/f41/language/pt_BR) | 78 | 78 | 100.0 | /mnt/stockage/packages/f41/francis/po/pt_BR/francis.po | 
+ | [ru](/f41/language/ru) | 78 | 78 | 100.0 | /mnt/stockage/packages/f41/francis/po/ru/francis.po | 
+ | [sa](/f41/language/sa) | 78 | 78 | 100.0 | /mnt/stockage/packages/f41/francis/po/sa/francis.po | 
+ | [sl](/f41/language/sl) | 78 | 78 | 100.0 | /mnt/stockage/packages/f41/francis/po/sl/francis.po | 
+ | [sv](/f41/language/sv) | 78 | 78 | 100.0 | /mnt/stockage/packages/f41/francis/po/sv/francis.po | 
+ | [tr](/f41/language/tr) | 78 | 78 | 100.0 | /mnt/stockage/packages/f41/francis/po/tr/francis.po | 
+ | [uk](/f41/language/uk) | 78 | 78 | 100.0 | /mnt/stockage/packages/f41/francis/po/uk/francis.po | 
+ | [zh_Hans](/f41/language/zh_Hans) | 78 | 78 | 100.0 | /mnt/stockage/packages/f41/francis/po/zh_CN/francis.po | 
+ | [zh_Hant](/f41/language/zh_Hant) | 78 | 78 | 100.0 | /mnt/stockage/packages/f41/francis/po/zh_TW/francis.po | 
+ | [ro](/f41/language/ro) | 75 | 78 | 96.2 | /mnt/stockage/packages/f41/francis/po/ro/francis.po | 
+ | [lt](/f41/language/lt) | 66 | 78 | 84.6 | /mnt/stockage/packages/f41/francis/po/lt/francis.po | 
+ | [de](/f41/language/de) | 64 | 78 | 82.1 | /mnt/stockage/packages/f41/francis/po/de/francis.po | 
+ | [pt](/f41/language/pt) | 61 | 78 | 78.2 | /mnt/stockage/packages/f41/francis/po/pt/francis.po | 
+ | [cs](/f41/language/cs) | 36 | 78 | 46.2 | /mnt/stockage/packages/f41/francis/po/cs/francis.po | 
+ | [sk](/f41/language/sk) | 29 | 78 | 37.2 | /mnt/stockage/packages/f41/francis/po/sk/francis.po | 
+ | [ast](/f41/language/ast) | 4 | 78 | 5.1 | /mnt/stockage/packages/f41/francis/po/ast/francis.po | 
+ | [ja](/f41/language/ja) | 0 | 78 | 0.0 | /mnt/stockage/packages/f41/francis/po/ja/francis.po | 
 {.sortable}
 
 

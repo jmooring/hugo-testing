@@ -18,16 +18,16 @@ The package monotone (version 0.39):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f7/language/cs.md" >}}) | 74 | 74 | 100.0 | /mnt/stockage/packages/f7/monotone/debian/po/cs.po | 
- | [de]({{< ref "/f7/language/de.md" >}}) | 8208 | 8208 | 100.0 | /mnt/stockage/packages/f7/monotone/debian/po/de.po/mnt/stockage/packages/f7/monotone/po/de.po | 
- | [es]({{< ref "/f7/language/es.md" >}}) | 8127 | 8127 | 100.0 | /mnt/stockage/packages/f7/monotone/po/es.po | 
- | [nl]({{< ref "/f7/language/nl.md" >}}) | 74 | 74 | 100.0 | /mnt/stockage/packages/f7/monotone/debian/po/nl.po | 
- | [pt]({{< ref "/f7/language/pt.md" >}}) | 74 | 74 | 100.0 | /mnt/stockage/packages/f7/monotone/debian/po/pt.po | 
- | [sv]({{< ref "/f7/language/sv.md" >}}) | 8068 | 8231 | 98.0 | /mnt/stockage/packages/f7/monotone/debian/po/sv.po/mnt/stockage/packages/f7/monotone/po/sv.po | 
- | [ja]({{< ref "/f7/language/ja.md" >}}) | 4978 | 5293 | 94.0 | /mnt/stockage/packages/f7/monotone/debian/po/ja.po/mnt/stockage/packages/f7/monotone/po/ja.po | 
- | [it]({{< ref "/f7/language/it.md" >}}) | 7319 | 8127 | 90.1 | /mnt/stockage/packages/f7/monotone/po/it.po | 
- | [pt_BR]({{< ref "/f7/language/pt_BR.md" >}}) | 5392 | 6902 | 78.1 | /mnt/stockage/packages/f7/monotone/po/pt_BR.po | 
- | [fr]({{< ref "/f7/language/fr.md" >}}) | 5324 | 6977 | 76.3 | /mnt/stockage/packages/f7/monotone/debian/po/fr.po/mnt/stockage/packages/f7/monotone/po/fr.po | 
+ | [cs](/f7/language/cs) | 74 | 74 | 100.0 | /mnt/stockage/packages/f7/monotone/debian/po/cs.po | 
+ | [de](/f7/language/de) | 8208 | 8208 | 100.0 | /mnt/stockage/packages/f7/monotone/debian/po/de.po/mnt/stockage/packages/f7/monotone/po/de.po | 
+ | [es](/f7/language/es) | 8127 | 8127 | 100.0 | /mnt/stockage/packages/f7/monotone/po/es.po | 
+ | [nl](/f7/language/nl) | 74 | 74 | 100.0 | /mnt/stockage/packages/f7/monotone/debian/po/nl.po | 
+ | [pt](/f7/language/pt) | 74 | 74 | 100.0 | /mnt/stockage/packages/f7/monotone/debian/po/pt.po | 
+ | [sv](/f7/language/sv) | 8068 | 8231 | 98.0 | /mnt/stockage/packages/f7/monotone/debian/po/sv.po/mnt/stockage/packages/f7/monotone/po/sv.po | 
+ | [ja](/f7/language/ja) | 4978 | 5293 | 94.0 | /mnt/stockage/packages/f7/monotone/debian/po/ja.po/mnt/stockage/packages/f7/monotone/po/ja.po | 
+ | [it](/f7/language/it) | 7319 | 8127 | 90.1 | /mnt/stockage/packages/f7/monotone/po/it.po | 
+ | [pt_BR](/f7/language/pt_BR) | 5392 | 6902 | 78.1 | /mnt/stockage/packages/f7/monotone/po/pt_BR.po | 
+ | [fr](/f7/language/fr) | 5324 | 6977 | 76.3 | /mnt/stockage/packages/f7/monotone/debian/po/fr.po/mnt/stockage/packages/f7/monotone/po/fr.po | 
 {.sortable}
 
 

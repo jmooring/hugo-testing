@@ -18,9 +18,9 @@ The package srain (version 1.1.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [nl]({{< ref "/f31/language/nl.md" >}}) | 1070 | 1077 | 99.4 | /mnt/stockage/packages/f31/srain/po/nl.po | 
- | [zh_Hans]({{< ref "/f31/language/zh_Hans.md" >}}) | 938 | 1077 | 87.1 | /mnt/stockage/packages/f31/srain/po/zh_CN.po | 
- | [ru]({{< ref "/f31/language/ru.md" >}}) | 656 | 1077 | 60.9 | /mnt/stockage/packages/f31/srain/po/ru.po | 
+ | [nl](/f31/language/nl) | 1070 | 1077 | 99.4 | /mnt/stockage/packages/f31/srain/po/nl.po | 
+ | [zh_Hans](/f31/language/zh_Hans) | 938 | 1077 | 87.1 | /mnt/stockage/packages/f31/srain/po/zh_CN.po | 
+ | [ru](/f31/language/ru) | 656 | 1077 | 60.9 | /mnt/stockage/packages/f31/srain/po/ru.po | 
 {.sortable}
 
 

@@ -18,27 +18,27 @@ The package gnome-shell-extension-media-player-indicator (version 0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f29/language/ca.md" >}}) | 86 | 86 | 100.0 | /mnt/stockage/packages/f29/gnome-shell-extension-media-player-indicator/po/ca.po | 
- | [cs]({{< ref "/f29/language/cs.md" >}}) | 242 | 242 | 100.0 | /mnt/stockage/packages/f29/gnome-shell-extension-media-player-indicator/po/cs.po | 
- | [de]({{< ref "/f29/language/de.md" >}}) | 242 | 242 | 100.0 | /mnt/stockage/packages/f29/gnome-shell-extension-media-player-indicator/po/de.po | 
- | [fr]({{< ref "/f29/language/fr.md" >}}) | 86 | 86 | 100.0 | /mnt/stockage/packages/f29/gnome-shell-extension-media-player-indicator/po/fr.po | 
- | [it]({{< ref "/f29/language/it.md" >}}) | 86 | 86 | 100.0 | /mnt/stockage/packages/f29/gnome-shell-extension-media-player-indicator/po/it.po | 
- | [nb_NO]({{< ref "/f29/language/nb_NO.md" >}}) | 86 | 86 | 100.0 | /mnt/stockage/packages/f29/gnome-shell-extension-media-player-indicator/po/nb_NO.po | 
- | [pt_BR]({{< ref "/f29/language/pt_BR.md" >}}) | 196 | 196 | 100.0 | /mnt/stockage/packages/f29/gnome-shell-extension-media-player-indicator/po/pt_BR.po | 
- | [sk]({{< ref "/f29/language/sk.md" >}}) | 86 | 86 | 100.0 | /mnt/stockage/packages/f29/gnome-shell-extension-media-player-indicator/po/sk.po | 
- | [tr]({{< ref "/f29/language/tr.md" >}}) | 86 | 86 | 100.0 | /mnt/stockage/packages/f29/gnome-shell-extension-media-player-indicator/po/tr.po | 
- | [uk]({{< ref "/f29/language/uk.md" >}}) | 86 | 86 | 100.0 | /mnt/stockage/packages/f29/gnome-shell-extension-media-player-indicator/po/uk_UA.po | 
- | [zh_Hans]({{< ref "/f29/language/zh_Hans.md" >}}) | 86 | 86 | 100.0 | /mnt/stockage/packages/f29/gnome-shell-extension-media-player-indicator/po/zh_CN.po | 
- | [es]({{< ref "/f29/language/es.md" >}}) | 50 | 86 | 58.1 | /mnt/stockage/packages/f29/gnome-shell-extension-media-player-indicator/po/es.po | 
- | [he]({{< ref "/f29/language/he.md" >}}) | 50 | 86 | 58.1 | /mnt/stockage/packages/f29/gnome-shell-extension-media-player-indicator/po/he.po | 
- | [nl]({{< ref "/f29/language/nl.md" >}}) | 50 | 86 | 58.1 | /mnt/stockage/packages/f29/gnome-shell-extension-media-player-indicator/po/nl.po | 
- | [ro]({{< ref "/f29/language/ro.md" >}}) | 50 | 86 | 58.1 | /mnt/stockage/packages/f29/gnome-shell-extension-media-player-indicator/po/ro.po | 
- | [ru]({{< ref "/f29/language/ru.md" >}}) | 50 | 86 | 58.1 | /mnt/stockage/packages/f29/gnome-shell-extension-media-player-indicator/po/ru.po | 
- | [sr]({{< ref "/f29/language/sr.md" >}}) | 50 | 86 | 58.1 | /mnt/stockage/packages/f29/gnome-shell-extension-media-player-indicator/po/sr.po | 
- | [zh_Hant]({{< ref "/f29/language/zh_Hant.md" >}}) | 50 | 86 | 58.1 | /mnt/stockage/packages/f29/gnome-shell-extension-media-player-indicator/po/zh_TW.po | 
- | [gl]({{< ref "/f29/language/gl.md" >}}) | 45 | 86 | 52.3 | /mnt/stockage/packages/f29/gnome-shell-extension-media-player-indicator/po/gl.po | 
- | [pl]({{< ref "/f29/language/pl.md" >}}) | 28 | 86 | 32.6 | /mnt/stockage/packages/f29/gnome-shell-extension-media-player-indicator/po/pl.po | 
- | [lt]({{< ref "/f29/language/lt.md" >}}) | 4 | 86 | 4.7 | /mnt/stockage/packages/f29/gnome-shell-extension-media-player-indicator/po/lt.po | 
+ | [ca](/f29/language/ca) | 86 | 86 | 100.0 | /mnt/stockage/packages/f29/gnome-shell-extension-media-player-indicator/po/ca.po | 
+ | [cs](/f29/language/cs) | 242 | 242 | 100.0 | /mnt/stockage/packages/f29/gnome-shell-extension-media-player-indicator/po/cs.po | 
+ | [de](/f29/language/de) | 242 | 242 | 100.0 | /mnt/stockage/packages/f29/gnome-shell-extension-media-player-indicator/po/de.po | 
+ | [fr](/f29/language/fr) | 86 | 86 | 100.0 | /mnt/stockage/packages/f29/gnome-shell-extension-media-player-indicator/po/fr.po | 
+ | [it](/f29/language/it) | 86 | 86 | 100.0 | /mnt/stockage/packages/f29/gnome-shell-extension-media-player-indicator/po/it.po | 
+ | [nb_NO](/f29/language/nb_NO) | 86 | 86 | 100.0 | /mnt/stockage/packages/f29/gnome-shell-extension-media-player-indicator/po/nb_NO.po | 
+ | [pt_BR](/f29/language/pt_BR) | 196 | 196 | 100.0 | /mnt/stockage/packages/f29/gnome-shell-extension-media-player-indicator/po/pt_BR.po | 
+ | [sk](/f29/language/sk) | 86 | 86 | 100.0 | /mnt/stockage/packages/f29/gnome-shell-extension-media-player-indicator/po/sk.po | 
+ | [tr](/f29/language/tr) | 86 | 86 | 100.0 | /mnt/stockage/packages/f29/gnome-shell-extension-media-player-indicator/po/tr.po | 
+ | [uk](/f29/language/uk) | 86 | 86 | 100.0 | /mnt/stockage/packages/f29/gnome-shell-extension-media-player-indicator/po/uk_UA.po | 
+ | [zh_Hans](/f29/language/zh_Hans) | 86 | 86 | 100.0 | /mnt/stockage/packages/f29/gnome-shell-extension-media-player-indicator/po/zh_CN.po | 
+ | [es](/f29/language/es) | 50 | 86 | 58.1 | /mnt/stockage/packages/f29/gnome-shell-extension-media-player-indicator/po/es.po | 
+ | [he](/f29/language/he) | 50 | 86 | 58.1 | /mnt/stockage/packages/f29/gnome-shell-extension-media-player-indicator/po/he.po | 
+ | [nl](/f29/language/nl) | 50 | 86 | 58.1 | /mnt/stockage/packages/f29/gnome-shell-extension-media-player-indicator/po/nl.po | 
+ | [ro](/f29/language/ro) | 50 | 86 | 58.1 | /mnt/stockage/packages/f29/gnome-shell-extension-media-player-indicator/po/ro.po | 
+ | [ru](/f29/language/ru) | 50 | 86 | 58.1 | /mnt/stockage/packages/f29/gnome-shell-extension-media-player-indicator/po/ru.po | 
+ | [sr](/f29/language/sr) | 50 | 86 | 58.1 | /mnt/stockage/packages/f29/gnome-shell-extension-media-player-indicator/po/sr.po | 
+ | [zh_Hant](/f29/language/zh_Hant) | 50 | 86 | 58.1 | /mnt/stockage/packages/f29/gnome-shell-extension-media-player-indicator/po/zh_TW.po | 
+ | [gl](/f29/language/gl) | 45 | 86 | 52.3 | /mnt/stockage/packages/f29/gnome-shell-extension-media-player-indicator/po/gl.po | 
+ | [pl](/f29/language/pl) | 28 | 86 | 32.6 | /mnt/stockage/packages/f29/gnome-shell-extension-media-player-indicator/po/pl.po | 
+ | [lt](/f29/language/lt) | 4 | 86 | 4.7 | /mnt/stockage/packages/f29/gnome-shell-extension-media-player-indicator/po/lt.po | 
 {.sortable}
 
 

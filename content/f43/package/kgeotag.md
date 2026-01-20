@@ -18,35 +18,35 @@ The package kgeotag (version 1.7.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f43/language/ca.md" >}}) | 1954 | 1954 | 100.0 | /mnt/stockage/packages/f43/kgeotag/po/ca/kgeotag.po | 
- | [ca@valencia]({{< ref "/f43/language/ca@valencia.md" >}}) | 1954 | 1954 | 100.0 | /mnt/stockage/packages/f43/kgeotag/po/ca@valencia/kgeotag.po | 
- | [en_GB]({{< ref "/f43/language/en_GB.md" >}}) | 1954 | 1954 | 100.0 | /mnt/stockage/packages/f43/kgeotag/po/en_GB/kgeotag.po | 
- | [es]({{< ref "/f43/language/es.md" >}}) | 1954 | 1954 | 100.0 | /mnt/stockage/packages/f43/kgeotag/po/es/kgeotag.po | 
- | [fi]({{< ref "/f43/language/fi.md" >}}) | 1954 | 1954 | 100.0 | /mnt/stockage/packages/f43/kgeotag/po/fi/kgeotag.po | 
- | [fr]({{< ref "/f43/language/fr.md" >}}) | 1954 | 1954 | 100.0 | /mnt/stockage/packages/f43/kgeotag/po/fr/kgeotag.po | 
- | [gl]({{< ref "/f43/language/gl.md" >}}) | 1954 | 1954 | 100.0 | /mnt/stockage/packages/f43/kgeotag/po/gl/kgeotag.po | 
- | [it]({{< ref "/f43/language/it.md" >}}) | 1954 | 1954 | 100.0 | /mnt/stockage/packages/f43/kgeotag/po/it/kgeotag.po | 
- | [nl]({{< ref "/f43/language/nl.md" >}}) | 1954 | 1954 | 100.0 | /mnt/stockage/packages/f43/kgeotag/po/nl/kgeotag.po | 
- | [pl]({{< ref "/f43/language/pl.md" >}}) | 1954 | 1954 | 100.0 | /mnt/stockage/packages/f43/kgeotag/po/pl/kgeotag.po | 
- | [sl]({{< ref "/f43/language/sl.md" >}}) | 1954 | 1954 | 100.0 | /mnt/stockage/packages/f43/kgeotag/po/sl/kgeotag.po | 
- | [sv]({{< ref "/f43/language/sv.md" >}}) | 1954 | 1954 | 100.0 | /mnt/stockage/packages/f43/kgeotag/po/sv/kgeotag.po | 
- | [tr]({{< ref "/f43/language/tr.md" >}}) | 1954 | 1954 | 100.0 | /mnt/stockage/packages/f43/kgeotag/po/tr/kgeotag.po | 
- | [uk]({{< ref "/f43/language/uk.md" >}}) | 1954 | 1954 | 100.0 | /mnt/stockage/packages/f43/kgeotag/po/uk/kgeotag.po | 
- | [eo]({{< ref "/f43/language/eo.md" >}}) | 1922 | 1954 | 98.4 | /mnt/stockage/packages/f43/kgeotag/po/eo/kgeotag.po | 
- | [ko]({{< ref "/f43/language/ko.md" >}}) | 1805 | 1954 | 92.4 | /mnt/stockage/packages/f43/kgeotag/po/ko/kgeotag.po | 
- | [pt]({{< ref "/f43/language/pt.md" >}}) | 1767 | 1954 | 90.4 | /mnt/stockage/packages/f43/kgeotag/po/pt/kgeotag.po | 
- | [zh_Hans]({{< ref "/f43/language/zh_Hans.md" >}}) | 1603 | 1954 | 82.0 | /mnt/stockage/packages/f43/kgeotag/po/zh_CN/kgeotag.po | 
- | [de]({{< ref "/f43/language/de.md" >}}) | 719 | 1954 | 36.8 | /mnt/stockage/packages/f43/kgeotag/po/de/kgeotag.po | 
- | [ka]({{< ref "/f43/language/ka.md" >}}) | 715 | 1954 | 36.6 | /mnt/stockage/packages/f43/kgeotag/po/ka/kgeotag.po | 
- | [zh_Hant]({{< ref "/f43/language/zh_Hant.md" >}}) | 397 | 1954 | 20.3 | /mnt/stockage/packages/f43/kgeotag/po/zh_TW/kgeotag.po | 
- | [sk]({{< ref "/f43/language/sk.md" >}}) | 290 | 1954 | 14.8 | /mnt/stockage/packages/f43/kgeotag/po/sk/kgeotag.po | 
- | [cs]({{< ref "/f43/language/cs.md" >}}) | 277 | 1954 | 14.2 | /mnt/stockage/packages/f43/kgeotag/po/cs/kgeotag.po | 
- | [pa]({{< ref "/f43/language/pa.md" >}}) | 228 | 1954 | 11.7 | /mnt/stockage/packages/f43/kgeotag/po/pa/kgeotag.po | 
- | [ru]({{< ref "/f43/language/ru.md" >}}) | 228 | 1954 | 11.7 | /mnt/stockage/packages/f43/kgeotag/po/ru/kgeotag.po | 
- | [nn]({{< ref "/f43/language/nn.md" >}}) | 92 | 1954 | 4.7 | /mnt/stockage/packages/f43/kgeotag/po/nn/kgeotag.po | 
- | [pt_BR]({{< ref "/f43/language/pt_BR.md" >}}) | 29 | 1954 | 1.5 | /mnt/stockage/packages/f43/kgeotag/po/pt_BR/kgeotag.po | 
- | [ja]({{< ref "/f43/language/ja.md" >}}) | 0 | 1954 | 0.0 | /mnt/stockage/packages/f43/kgeotag/po/ja/kgeotag.po | 
- | [lt]({{< ref "/f43/language/lt.md" >}}) | 0 | 1954 | 0.0 | /mnt/stockage/packages/f43/kgeotag/po/lt/kgeotag.po | 
+ | [ca](/f43/language/ca) | 1954 | 1954 | 100.0 | /mnt/stockage/packages/f43/kgeotag/po/ca/kgeotag.po | 
+ | [ca@valencia](/f43/language/ca@valencia) | 1954 | 1954 | 100.0 | /mnt/stockage/packages/f43/kgeotag/po/ca@valencia/kgeotag.po | 
+ | [en_GB](/f43/language/en_GB) | 1954 | 1954 | 100.0 | /mnt/stockage/packages/f43/kgeotag/po/en_GB/kgeotag.po | 
+ | [es](/f43/language/es) | 1954 | 1954 | 100.0 | /mnt/stockage/packages/f43/kgeotag/po/es/kgeotag.po | 
+ | [fi](/f43/language/fi) | 1954 | 1954 | 100.0 | /mnt/stockage/packages/f43/kgeotag/po/fi/kgeotag.po | 
+ | [fr](/f43/language/fr) | 1954 | 1954 | 100.0 | /mnt/stockage/packages/f43/kgeotag/po/fr/kgeotag.po | 
+ | [gl](/f43/language/gl) | 1954 | 1954 | 100.0 | /mnt/stockage/packages/f43/kgeotag/po/gl/kgeotag.po | 
+ | [it](/f43/language/it) | 1954 | 1954 | 100.0 | /mnt/stockage/packages/f43/kgeotag/po/it/kgeotag.po | 
+ | [nl](/f43/language/nl) | 1954 | 1954 | 100.0 | /mnt/stockage/packages/f43/kgeotag/po/nl/kgeotag.po | 
+ | [pl](/f43/language/pl) | 1954 | 1954 | 100.0 | /mnt/stockage/packages/f43/kgeotag/po/pl/kgeotag.po | 
+ | [sl](/f43/language/sl) | 1954 | 1954 | 100.0 | /mnt/stockage/packages/f43/kgeotag/po/sl/kgeotag.po | 
+ | [sv](/f43/language/sv) | 1954 | 1954 | 100.0 | /mnt/stockage/packages/f43/kgeotag/po/sv/kgeotag.po | 
+ | [tr](/f43/language/tr) | 1954 | 1954 | 100.0 | /mnt/stockage/packages/f43/kgeotag/po/tr/kgeotag.po | 
+ | [uk](/f43/language/uk) | 1954 | 1954 | 100.0 | /mnt/stockage/packages/f43/kgeotag/po/uk/kgeotag.po | 
+ | [eo](/f43/language/eo) | 1922 | 1954 | 98.4 | /mnt/stockage/packages/f43/kgeotag/po/eo/kgeotag.po | 
+ | [ko](/f43/language/ko) | 1805 | 1954 | 92.4 | /mnt/stockage/packages/f43/kgeotag/po/ko/kgeotag.po | 
+ | [pt](/f43/language/pt) | 1767 | 1954 | 90.4 | /mnt/stockage/packages/f43/kgeotag/po/pt/kgeotag.po | 
+ | [zh_Hans](/f43/language/zh_Hans) | 1603 | 1954 | 82.0 | /mnt/stockage/packages/f43/kgeotag/po/zh_CN/kgeotag.po | 
+ | [de](/f43/language/de) | 719 | 1954 | 36.8 | /mnt/stockage/packages/f43/kgeotag/po/de/kgeotag.po | 
+ | [ka](/f43/language/ka) | 715 | 1954 | 36.6 | /mnt/stockage/packages/f43/kgeotag/po/ka/kgeotag.po | 
+ | [zh_Hant](/f43/language/zh_Hant) | 397 | 1954 | 20.3 | /mnt/stockage/packages/f43/kgeotag/po/zh_TW/kgeotag.po | 
+ | [sk](/f43/language/sk) | 290 | 1954 | 14.8 | /mnt/stockage/packages/f43/kgeotag/po/sk/kgeotag.po | 
+ | [cs](/f43/language/cs) | 277 | 1954 | 14.2 | /mnt/stockage/packages/f43/kgeotag/po/cs/kgeotag.po | 
+ | [pa](/f43/language/pa) | 228 | 1954 | 11.7 | /mnt/stockage/packages/f43/kgeotag/po/pa/kgeotag.po | 
+ | [ru](/f43/language/ru) | 228 | 1954 | 11.7 | /mnt/stockage/packages/f43/kgeotag/po/ru/kgeotag.po | 
+ | [nn](/f43/language/nn) | 92 | 1954 | 4.7 | /mnt/stockage/packages/f43/kgeotag/po/nn/kgeotag.po | 
+ | [pt_BR](/f43/language/pt_BR) | 29 | 1954 | 1.5 | /mnt/stockage/packages/f43/kgeotag/po/pt_BR/kgeotag.po | 
+ | [ja](/f43/language/ja) | 0 | 1954 | 0.0 | /mnt/stockage/packages/f43/kgeotag/po/ja/kgeotag.po | 
+ | [lt](/f43/language/lt) | 0 | 1954 | 0.0 | /mnt/stockage/packages/f43/kgeotag/po/lt/kgeotag.po | 
 {.sortable}
 
 

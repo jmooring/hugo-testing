@@ -18,26 +18,26 @@ The package mingw-gdb (version 8.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f27/language/de.md" >}}) | 1602 | 1602 | 100.0 | /mnt/stockage/packages/f27/mingw-gdb/opcodes/po/de.po | 
- | [es]({{< ref "/f27/language/es.md" >}}) | 9792 | 9792 | 100.0 | /mnt/stockage/packages/f27/mingw-gdb/bfd/po/es.po/mnt/stockage/packages/f27/mingw-gdb/opcodes/po/es.po | 
- | [fi]({{< ref "/f27/language/fi.md" >}}) | 10721 | 10721 | 100.0 | /mnt/stockage/packages/f27/mingw-gdb/bfd/po/fi.po/mnt/stockage/packages/f27/mingw-gdb/opcodes/po/fi.po | 
- | [fr]({{< ref "/f27/language/fr.md" >}}) | 9971 | 9971 | 100.0 | /mnt/stockage/packages/f27/mingw-gdb/bfd/po/fr.po/mnt/stockage/packages/f27/mingw-gdb/opcodes/po/fr.po | 
- | [ga]({{< ref "/f27/language/ga.md" >}}) | 1602 | 1602 | 100.0 | /mnt/stockage/packages/f27/mingw-gdb/opcodes/po/ga.po | 
- | [id]({{< ref "/f27/language/id.md" >}}) | 7765 | 7765 | 100.0 | /mnt/stockage/packages/f27/mingw-gdb/bfd/po/id.po/mnt/stockage/packages/f27/mingw-gdb/opcodes/po/id.po | 
- | [it]({{< ref "/f27/language/it.md" >}}) | 1371 | 1371 | 100.0 | /mnt/stockage/packages/f27/mingw-gdb/opcodes/po/it.po | 
- | [nl]({{< ref "/f27/language/nl.md" >}}) | 1371 | 1371 | 100.0 | /mnt/stockage/packages/f27/mingw-gdb/opcodes/po/nl.po | 
- | [pt_BR]({{< ref "/f27/language/pt_BR.md" >}}) | 434 | 434 | 100.0 | /mnt/stockage/packages/f27/mingw-gdb/opcodes/po/pt_BR.po | 
- | [ro]({{< ref "/f27/language/ro.md" >}}) | 4961 | 4961 | 100.0 | /mnt/stockage/packages/f27/mingw-gdb/bfd/po/ro.po/mnt/stockage/packages/f27/mingw-gdb/opcodes/po/ro.po | 
- | [ru]({{< ref "/f27/language/ru.md" >}}) | 8369 | 8369 | 100.0 | /mnt/stockage/packages/f27/mingw-gdb/bfd/po/ru.po | 
- | [sr]({{< ref "/f27/language/sr.md" >}}) | 10721 | 10721 | 100.0 | /mnt/stockage/packages/f27/mingw-gdb/bfd/po/sr.po/mnt/stockage/packages/f27/mingw-gdb/opcodes/po/sr.po | 
- | [sv]({{< ref "/f27/language/sv.md" >}}) | 9985 | 9985 | 100.0 | /mnt/stockage/packages/f27/mingw-gdb/bfd/po/sv.po/mnt/stockage/packages/f27/mingw-gdb/opcodes/po/sv.po | 
- | [tr]({{< ref "/f27/language/tr.md" >}}) | 4961 | 4961 | 100.0 | /mnt/stockage/packages/f27/mingw-gdb/bfd/po/tr.po/mnt/stockage/packages/f27/mingw-gdb/opcodes/po/tr.po | 
- | [uk]({{< ref "/f27/language/uk.md" >}}) | 9792 | 9792 | 100.0 | /mnt/stockage/packages/f27/mingw-gdb/bfd/po/uk.po/mnt/stockage/packages/f27/mingw-gdb/opcodes/po/uk.po | 
- | [vi]({{< ref "/f27/language/vi.md" >}}) | 9792 | 9792 | 100.0 | /mnt/stockage/packages/f27/mingw-gdb/bfd/po/vi.po/mnt/stockage/packages/f27/mingw-gdb/opcodes/po/vi.po | 
- | [da]({{< ref "/f27/language/da.md" >}}) | 10087 | 10490 | 96.2 | /mnt/stockage/packages/f27/mingw-gdb/bfd/po/da.po/mnt/stockage/packages/f27/mingw-gdb/opcodes/po/da.po | 
- | [ja]({{< ref "/f27/language/ja.md" >}}) | 6811 | 8230 | 82.8 | /mnt/stockage/packages/f27/mingw-gdb/bfd/po/ja.po | 
- | [zh_Hans]({{< ref "/f27/language/zh_Hans.md" >}}) | 1805 | 10721 | 16.8 | /mnt/stockage/packages/f27/mingw-gdb/bfd/po/zh_CN.po/mnt/stockage/packages/f27/mingw-gdb/opcodes/po/zh_CN.po | 
- | [rw]({{< ref "/f27/language/rw.md" >}}) | 2 | 4098 | 0.0 | /mnt/stockage/packages/f27/mingw-gdb/bfd/po/rw.po | 
+ | [de](/f27/language/de) | 1602 | 1602 | 100.0 | /mnt/stockage/packages/f27/mingw-gdb/opcodes/po/de.po | 
+ | [es](/f27/language/es) | 9792 | 9792 | 100.0 | /mnt/stockage/packages/f27/mingw-gdb/bfd/po/es.po/mnt/stockage/packages/f27/mingw-gdb/opcodes/po/es.po | 
+ | [fi](/f27/language/fi) | 10721 | 10721 | 100.0 | /mnt/stockage/packages/f27/mingw-gdb/bfd/po/fi.po/mnt/stockage/packages/f27/mingw-gdb/opcodes/po/fi.po | 
+ | [fr](/f27/language/fr) | 9971 | 9971 | 100.0 | /mnt/stockage/packages/f27/mingw-gdb/bfd/po/fr.po/mnt/stockage/packages/f27/mingw-gdb/opcodes/po/fr.po | 
+ | [ga](/f27/language/ga) | 1602 | 1602 | 100.0 | /mnt/stockage/packages/f27/mingw-gdb/opcodes/po/ga.po | 
+ | [id](/f27/language/id) | 7765 | 7765 | 100.0 | /mnt/stockage/packages/f27/mingw-gdb/bfd/po/id.po/mnt/stockage/packages/f27/mingw-gdb/opcodes/po/id.po | 
+ | [it](/f27/language/it) | 1371 | 1371 | 100.0 | /mnt/stockage/packages/f27/mingw-gdb/opcodes/po/it.po | 
+ | [nl](/f27/language/nl) | 1371 | 1371 | 100.0 | /mnt/stockage/packages/f27/mingw-gdb/opcodes/po/nl.po | 
+ | [pt_BR](/f27/language/pt_BR) | 434 | 434 | 100.0 | /mnt/stockage/packages/f27/mingw-gdb/opcodes/po/pt_BR.po | 
+ | [ro](/f27/language/ro) | 4961 | 4961 | 100.0 | /mnt/stockage/packages/f27/mingw-gdb/bfd/po/ro.po/mnt/stockage/packages/f27/mingw-gdb/opcodes/po/ro.po | 
+ | [ru](/f27/language/ru) | 8369 | 8369 | 100.0 | /mnt/stockage/packages/f27/mingw-gdb/bfd/po/ru.po | 
+ | [sr](/f27/language/sr) | 10721 | 10721 | 100.0 | /mnt/stockage/packages/f27/mingw-gdb/bfd/po/sr.po/mnt/stockage/packages/f27/mingw-gdb/opcodes/po/sr.po | 
+ | [sv](/f27/language/sv) | 9985 | 9985 | 100.0 | /mnt/stockage/packages/f27/mingw-gdb/bfd/po/sv.po/mnt/stockage/packages/f27/mingw-gdb/opcodes/po/sv.po | 
+ | [tr](/f27/language/tr) | 4961 | 4961 | 100.0 | /mnt/stockage/packages/f27/mingw-gdb/bfd/po/tr.po/mnt/stockage/packages/f27/mingw-gdb/opcodes/po/tr.po | 
+ | [uk](/f27/language/uk) | 9792 | 9792 | 100.0 | /mnt/stockage/packages/f27/mingw-gdb/bfd/po/uk.po/mnt/stockage/packages/f27/mingw-gdb/opcodes/po/uk.po | 
+ | [vi](/f27/language/vi) | 9792 | 9792 | 100.0 | /mnt/stockage/packages/f27/mingw-gdb/bfd/po/vi.po/mnt/stockage/packages/f27/mingw-gdb/opcodes/po/vi.po | 
+ | [da](/f27/language/da) | 10087 | 10490 | 96.2 | /mnt/stockage/packages/f27/mingw-gdb/bfd/po/da.po/mnt/stockage/packages/f27/mingw-gdb/opcodes/po/da.po | 
+ | [ja](/f27/language/ja) | 6811 | 8230 | 82.8 | /mnt/stockage/packages/f27/mingw-gdb/bfd/po/ja.po | 
+ | [zh_Hans](/f27/language/zh_Hans) | 1805 | 10721 | 16.8 | /mnt/stockage/packages/f27/mingw-gdb/bfd/po/zh_CN.po/mnt/stockage/packages/f27/mingw-gdb/opcodes/po/zh_CN.po | 
+ | [rw](/f27/language/rw) | 2 | 4098 | 0.0 | /mnt/stockage/packages/f27/mingw-gdb/bfd/po/rw.po | 
 {.sortable}
 
 

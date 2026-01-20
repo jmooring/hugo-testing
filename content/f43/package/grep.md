@@ -18,51 +18,51 @@ The package grep (version 3.12):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [bg]({{< ref "/f43/language/bg.md" >}}) | 938 | 938 | 100.0 | /mnt/stockage/packages/f43/grep/po/bg.po | 
- | [cs]({{< ref "/f43/language/cs.md" >}}) | 938 | 938 | 100.0 | /mnt/stockage/packages/f43/grep/po/cs.po | 
- | [et]({{< ref "/f43/language/et.md" >}}) | 938 | 938 | 100.0 | /mnt/stockage/packages/f43/grep/po/et.po | 
- | [fi]({{< ref "/f43/language/fi.md" >}}) | 938 | 938 | 100.0 | /mnt/stockage/packages/f43/grep/po/fi.po | 
- | [hr]({{< ref "/f43/language/hr.md" >}}) | 938 | 938 | 100.0 | /mnt/stockage/packages/f43/grep/po/hr.po | 
- | [id]({{< ref "/f43/language/id.md" >}}) | 938 | 938 | 100.0 | /mnt/stockage/packages/f43/grep/po/id.po | 
- | [ko]({{< ref "/f43/language/ko.md" >}}) | 938 | 938 | 100.0 | /mnt/stockage/packages/f43/grep/po/ko.po | 
- | [nl]({{< ref "/f43/language/nl.md" >}}) | 938 | 938 | 100.0 | /mnt/stockage/packages/f43/grep/po/nl.po | 
- | [pl]({{< ref "/f43/language/pl.md" >}}) | 938 | 938 | 100.0 | /mnt/stockage/packages/f43/grep/po/pl.po | 
- | [pt]({{< ref "/f43/language/pt.md" >}}) | 938 | 938 | 100.0 | /mnt/stockage/packages/f43/grep/po/pt.po | 
- | [ro]({{< ref "/f43/language/ro.md" >}}) | 938 | 938 | 100.0 | /mnt/stockage/packages/f43/grep/po/ro.po | 
- | [sk]({{< ref "/f43/language/sk.md" >}}) | 938 | 938 | 100.0 | /mnt/stockage/packages/f43/grep/po/sk.po | 
- | [sv]({{< ref "/f43/language/sv.md" >}}) | 938 | 938 | 100.0 | /mnt/stockage/packages/f43/grep/po/sv.po | 
- | [uk]({{< ref "/f43/language/uk.md" >}}) | 938 | 938 | 100.0 | /mnt/stockage/packages/f43/grep/po/uk.po | 
- | [zh_Hans]({{< ref "/f43/language/zh_Hans.md" >}}) | 938 | 938 | 100.0 | /mnt/stockage/packages/f43/grep/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f43/language/zh_Hant.md" >}}) | 938 | 938 | 100.0 | /mnt/stockage/packages/f43/grep/po/zh_TW.po | 
- | [be]({{< ref "/f43/language/be.md" >}}) | 881 | 938 | 93.9 | /mnt/stockage/packages/f43/grep/po/be.po | 
- | [de]({{< ref "/f43/language/de.md" >}}) | 881 | 938 | 93.9 | /mnt/stockage/packages/f43/grep/po/de.po | 
- | [ka]({{< ref "/f43/language/ka.md" >}}) | 881 | 938 | 93.9 | /mnt/stockage/packages/f43/grep/po/ka.po | 
- | [nb_NO]({{< ref "/f43/language/nb_NO.md" >}}) | 881 | 938 | 93.9 | /mnt/stockage/packages/f43/grep/po/nb.po | 
- | [pt_BR]({{< ref "/f43/language/pt_BR.md" >}}) | 881 | 938 | 93.9 | /mnt/stockage/packages/f43/grep/po/pt_BR.po | 
- | [ru]({{< ref "/f43/language/ru.md" >}}) | 881 | 938 | 93.9 | /mnt/stockage/packages/f43/grep/po/ru.po | 
- | [sl]({{< ref "/f43/language/sl.md" >}}) | 881 | 938 | 93.9 | /mnt/stockage/packages/f43/grep/po/sl.po | 
- | [sr]({{< ref "/f43/language/sr.md" >}}) | 881 | 938 | 93.9 | /mnt/stockage/packages/f43/grep/po/sr.po | 
- | [ta]({{< ref "/f43/language/ta.md" >}}) | 881 | 938 | 93.9 | /mnt/stockage/packages/f43/grep/po/ta.po | 
- | [th]({{< ref "/f43/language/th.md" >}}) | 881 | 938 | 93.9 | /mnt/stockage/packages/f43/grep/po/th.po | 
- | [vi]({{< ref "/f43/language/vi.md" >}}) | 881 | 938 | 93.9 | /mnt/stockage/packages/f43/grep/po/vi.po | 
- | [hu]({{< ref "/f43/language/hu.md" >}}) | 876 | 938 | 93.4 | /mnt/stockage/packages/f43/grep/po/hu.po | 
- | [tr]({{< ref "/f43/language/tr.md" >}}) | 876 | 938 | 93.4 | /mnt/stockage/packages/f43/grep/po/tr.po | 
- | [eo]({{< ref "/f43/language/eo.md" >}}) | 856 | 938 | 91.3 | /mnt/stockage/packages/f43/grep/po/eo.po | 
- | [fr]({{< ref "/f43/language/fr.md" >}}) | 856 | 938 | 91.3 | /mnt/stockage/packages/f43/grep/po/fr.po | 
- | [da]({{< ref "/f43/language/da.md" >}}) | 806 | 938 | 85.9 | /mnt/stockage/packages/f43/grep/po/da.po | 
- | [es]({{< ref "/f43/language/es.md" >}}) | 806 | 938 | 85.9 | /mnt/stockage/packages/f43/grep/po/es.po | 
- | [it]({{< ref "/f43/language/it.md" >}}) | 806 | 938 | 85.9 | /mnt/stockage/packages/f43/grep/po/it.po | 
- | [gl]({{< ref "/f43/language/gl.md" >}}) | 759 | 938 | 80.9 | /mnt/stockage/packages/f43/grep/po/gl.po | 
- | [ca]({{< ref "/f43/language/ca.md" >}}) | 593 | 938 | 63.2 | /mnt/stockage/packages/f43/grep/po/ca.po | 
- | [ja]({{< ref "/f43/language/ja.md" >}}) | 502 | 938 | 53.5 | /mnt/stockage/packages/f43/grep/po/ja.po | 
- | [ga]({{< ref "/f43/language/ga.md" >}}) | 498 | 938 | 53.1 | /mnt/stockage/packages/f43/grep/po/ga.po | 
- | [pa]({{< ref "/f43/language/pa.md" >}}) | 193 | 938 | 20.6 | /mnt/stockage/packages/f43/grep/po/pa.po | 
- | [el]({{< ref "/f43/language/el.md" >}}) | 119 | 938 | 12.7 | /mnt/stockage/packages/f43/grep/po/el.po | 
- | [af]({{< ref "/f43/language/af.md" >}}) | 31 | 938 | 3.3 | /mnt/stockage/packages/f43/grep/po/af.po | 
- | [eu]({{< ref "/f43/language/eu.md" >}}) | 31 | 938 | 3.3 | /mnt/stockage/packages/f43/grep/po/eu.po | 
- | [he]({{< ref "/f43/language/he.md" >}}) | 31 | 938 | 3.3 | /mnt/stockage/packages/f43/grep/po/he.po | 
- | [ky]({{< ref "/f43/language/ky.md" >}}) | 31 | 938 | 3.3 | /mnt/stockage/packages/f43/grep/po/ky.po | 
- | [lt]({{< ref "/f43/language/lt.md" >}}) | 31 | 938 | 3.3 | /mnt/stockage/packages/f43/grep/po/lt.po | 
+ | [bg](/f43/language/bg) | 938 | 938 | 100.0 | /mnt/stockage/packages/f43/grep/po/bg.po | 
+ | [cs](/f43/language/cs) | 938 | 938 | 100.0 | /mnt/stockage/packages/f43/grep/po/cs.po | 
+ | [et](/f43/language/et) | 938 | 938 | 100.0 | /mnt/stockage/packages/f43/grep/po/et.po | 
+ | [fi](/f43/language/fi) | 938 | 938 | 100.0 | /mnt/stockage/packages/f43/grep/po/fi.po | 
+ | [hr](/f43/language/hr) | 938 | 938 | 100.0 | /mnt/stockage/packages/f43/grep/po/hr.po | 
+ | [id](/f43/language/id) | 938 | 938 | 100.0 | /mnt/stockage/packages/f43/grep/po/id.po | 
+ | [ko](/f43/language/ko) | 938 | 938 | 100.0 | /mnt/stockage/packages/f43/grep/po/ko.po | 
+ | [nl](/f43/language/nl) | 938 | 938 | 100.0 | /mnt/stockage/packages/f43/grep/po/nl.po | 
+ | [pl](/f43/language/pl) | 938 | 938 | 100.0 | /mnt/stockage/packages/f43/grep/po/pl.po | 
+ | [pt](/f43/language/pt) | 938 | 938 | 100.0 | /mnt/stockage/packages/f43/grep/po/pt.po | 
+ | [ro](/f43/language/ro) | 938 | 938 | 100.0 | /mnt/stockage/packages/f43/grep/po/ro.po | 
+ | [sk](/f43/language/sk) | 938 | 938 | 100.0 | /mnt/stockage/packages/f43/grep/po/sk.po | 
+ | [sv](/f43/language/sv) | 938 | 938 | 100.0 | /mnt/stockage/packages/f43/grep/po/sv.po | 
+ | [uk](/f43/language/uk) | 938 | 938 | 100.0 | /mnt/stockage/packages/f43/grep/po/uk.po | 
+ | [zh_Hans](/f43/language/zh_Hans) | 938 | 938 | 100.0 | /mnt/stockage/packages/f43/grep/po/zh_CN.po | 
+ | [zh_Hant](/f43/language/zh_Hant) | 938 | 938 | 100.0 | /mnt/stockage/packages/f43/grep/po/zh_TW.po | 
+ | [be](/f43/language/be) | 881 | 938 | 93.9 | /mnt/stockage/packages/f43/grep/po/be.po | 
+ | [de](/f43/language/de) | 881 | 938 | 93.9 | /mnt/stockage/packages/f43/grep/po/de.po | 
+ | [ka](/f43/language/ka) | 881 | 938 | 93.9 | /mnt/stockage/packages/f43/grep/po/ka.po | 
+ | [nb_NO](/f43/language/nb_NO) | 881 | 938 | 93.9 | /mnt/stockage/packages/f43/grep/po/nb.po | 
+ | [pt_BR](/f43/language/pt_BR) | 881 | 938 | 93.9 | /mnt/stockage/packages/f43/grep/po/pt_BR.po | 
+ | [ru](/f43/language/ru) | 881 | 938 | 93.9 | /mnt/stockage/packages/f43/grep/po/ru.po | 
+ | [sl](/f43/language/sl) | 881 | 938 | 93.9 | /mnt/stockage/packages/f43/grep/po/sl.po | 
+ | [sr](/f43/language/sr) | 881 | 938 | 93.9 | /mnt/stockage/packages/f43/grep/po/sr.po | 
+ | [ta](/f43/language/ta) | 881 | 938 | 93.9 | /mnt/stockage/packages/f43/grep/po/ta.po | 
+ | [th](/f43/language/th) | 881 | 938 | 93.9 | /mnt/stockage/packages/f43/grep/po/th.po | 
+ | [vi](/f43/language/vi) | 881 | 938 | 93.9 | /mnt/stockage/packages/f43/grep/po/vi.po | 
+ | [hu](/f43/language/hu) | 876 | 938 | 93.4 | /mnt/stockage/packages/f43/grep/po/hu.po | 
+ | [tr](/f43/language/tr) | 876 | 938 | 93.4 | /mnt/stockage/packages/f43/grep/po/tr.po | 
+ | [eo](/f43/language/eo) | 856 | 938 | 91.3 | /mnt/stockage/packages/f43/grep/po/eo.po | 
+ | [fr](/f43/language/fr) | 856 | 938 | 91.3 | /mnt/stockage/packages/f43/grep/po/fr.po | 
+ | [da](/f43/language/da) | 806 | 938 | 85.9 | /mnt/stockage/packages/f43/grep/po/da.po | 
+ | [es](/f43/language/es) | 806 | 938 | 85.9 | /mnt/stockage/packages/f43/grep/po/es.po | 
+ | [it](/f43/language/it) | 806 | 938 | 85.9 | /mnt/stockage/packages/f43/grep/po/it.po | 
+ | [gl](/f43/language/gl) | 759 | 938 | 80.9 | /mnt/stockage/packages/f43/grep/po/gl.po | 
+ | [ca](/f43/language/ca) | 593 | 938 | 63.2 | /mnt/stockage/packages/f43/grep/po/ca.po | 
+ | [ja](/f43/language/ja) | 502 | 938 | 53.5 | /mnt/stockage/packages/f43/grep/po/ja.po | 
+ | [ga](/f43/language/ga) | 498 | 938 | 53.1 | /mnt/stockage/packages/f43/grep/po/ga.po | 
+ | [pa](/f43/language/pa) | 193 | 938 | 20.6 | /mnt/stockage/packages/f43/grep/po/pa.po | 
+ | [el](/f43/language/el) | 119 | 938 | 12.7 | /mnt/stockage/packages/f43/grep/po/el.po | 
+ | [af](/f43/language/af) | 31 | 938 | 3.3 | /mnt/stockage/packages/f43/grep/po/af.po | 
+ | [eu](/f43/language/eu) | 31 | 938 | 3.3 | /mnt/stockage/packages/f43/grep/po/eu.po | 
+ | [he](/f43/language/he) | 31 | 938 | 3.3 | /mnt/stockage/packages/f43/grep/po/he.po | 
+ | [ky](/f43/language/ky) | 31 | 938 | 3.3 | /mnt/stockage/packages/f43/grep/po/ky.po | 
+ | [lt](/f43/language/lt) | 31 | 938 | 3.3 | /mnt/stockage/packages/f43/grep/po/lt.po | 
 {.sortable}
 
 

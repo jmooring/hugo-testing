@@ -18,56 +18,56 @@ The package gimp-gap (version 2.7.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [bg]({{< ref "/f22/language/bg.md" >}}) | 10409 | 10409 | 100.0 | /mnt/stockage/packages/f22/gimp-gap/po/bg.po | 
- | [dz]({{< ref "/f22/language/dz.md" >}}) | 10444 | 10444 | 100.0 | /mnt/stockage/packages/f22/gimp-gap/po/dz.po | 
- | [el]({{< ref "/f22/language/el.md" >}}) | 14863 | 14863 | 100.0 | /mnt/stockage/packages/f22/gimp-gap/po/el.po | 
- | [en_CA]({{< ref "/f22/language/en_CA.md" >}}) | 9779 | 9779 | 100.0 | /mnt/stockage/packages/f22/gimp-gap/po/en_CA.po | 
- | [en_GB]({{< ref "/f22/language/en_GB.md" >}}) | 11659 | 11659 | 100.0 | /mnt/stockage/packages/f22/gimp-gap/po/en_GB.po | 
- | [es]({{< ref "/f22/language/es.md" >}}) | 14863 | 14863 | 100.0 | /mnt/stockage/packages/f22/gimp-gap/po/es.po | 
- | [eu]({{< ref "/f22/language/eu.md" >}}) | 13993 | 13993 | 100.0 | /mnt/stockage/packages/f22/gimp-gap/po/eu.po | 
- | [it]({{< ref "/f22/language/it.md" >}}) | 14863 | 14863 | 100.0 | /mnt/stockage/packages/f22/gimp-gap/po/it.po | 
- | [ne]({{< ref "/f22/language/ne.md" >}}) | 10509 | 10509 | 100.0 | /mnt/stockage/packages/f22/gimp-gap/po/ne.po | 
- | [sl]({{< ref "/f22/language/sl.md" >}}) | 14863 | 14863 | 100.0 | /mnt/stockage/packages/f22/gimp-gap/po/sl.po | 
- | [vi]({{< ref "/f22/language/vi.md" >}}) | 10444 | 10444 | 100.0 | /mnt/stockage/packages/f22/gimp-gap/po/vi.po | 
- | [ca]({{< ref "/f22/language/ca.md" >}}) | 24128 | 24158 | 99.9 | /mnt/stockage/packages/f22/gimp-gap/po/ca@valencia.po/mnt/stockage/packages/f22/gimp-gap/po/ca.po | 
- | [error]({{< ref "/f22/language/error.md" >}}) | 4778 | 4791 | 99.7 | /mnt/stockage/packages/f22/gimp-gap/po/sr@Latn.po | 
- | [pt]({{< ref "/f22/language/pt.md" >}}) | 4778 | 4791 | 99.7 | /mnt/stockage/packages/f22/gimp-gap/po/pt.po | 
- | [sr]({{< ref "/f22/language/sr.md" >}}) | 4778 | 4791 | 99.7 | /mnt/stockage/packages/f22/gimp-gap/po/sr.po | 
- | [uk]({{< ref "/f22/language/uk.md" >}}) | 14224 | 14273 | 99.7 | /mnt/stockage/packages/f22/gimp-gap/po/uk.po | 
- | [hr]({{< ref "/f22/language/hr.md" >}}) | 4757 | 4791 | 99.3 | /mnt/stockage/packages/f22/gimp-gap/po/hr.po | 
- | [fr]({{< ref "/f22/language/fr.md" >}}) | 11974 | 12079 | 99.1 | /mnt/stockage/packages/f22/gimp-gap/po/fr.po | 
- | [sk]({{< ref "/f22/language/sk.md" >}}) | 4677 | 4791 | 97.6 | /mnt/stockage/packages/f22/gimp-gap/po/sk.po | 
- | [cs]({{< ref "/f22/language/cs.md" >}}) | 8871 | 10409 | 85.2 | /mnt/stockage/packages/f22/gimp-gap/po/cs.po | 
- | [de]({{< ref "/f22/language/de.md" >}}) | 10885 | 14273 | 76.3 | /mnt/stockage/packages/f22/gimp-gap/po/de.po | 
- | [pt_BR]({{< ref "/f22/language/pt_BR.md" >}}) | 11451 | 15061 | 76.0 | /mnt/stockage/packages/f22/gimp-gap/po/pt_BR.po | 
- | [gu]({{< ref "/f22/language/gu.md" >}}) | 8392 | 12079 | 69.5 | /mnt/stockage/packages/f22/gimp-gap/po/gu.po | 
- | [fi]({{< ref "/f22/language/fi.md" >}}) | 6674 | 10474 | 63.7 | /mnt/stockage/packages/f22/gimp-gap/po/fi.po | 
- | [pl]({{< ref "/f22/language/pl.md" >}}) | 8398 | 14273 | 58.8 | /mnt/stockage/packages/f22/gimp-gap/po/pl.po | 
- | [nl]({{< ref "/f22/language/nl.md" >}}) | 5464 | 9598 | 56.9 | /mnt/stockage/packages/f22/gimp-gap/po/nl.po | 
- | [ru]({{< ref "/f22/language/ru.md" >}}) | 7652 | 14273 | 53.6 | /mnt/stockage/packages/f22/gimp-gap/po/ru.po | 
- | [gl]({{< ref "/f22/language/gl.md" >}}) | 5534 | 12079 | 45.8 | /mnt/stockage/packages/f22/gimp-gap/po/gl.po | 
- | [ko]({{< ref "/f22/language/ko.md" >}}) | 3388 | 11015 | 30.8 | /mnt/stockage/packages/f22/gimp-gap/po/ko.po | 
- | [ja]({{< ref "/f22/language/ja.md" >}}) | 2317 | 9778 | 23.7 | /mnt/stockage/packages/f22/gimp-gap/po/ja.po | 
- | [sv]({{< ref "/f22/language/sv.md" >}}) | 2251 | 10474 | 21.5 | /mnt/stockage/packages/f22/gimp-gap/po/sv.po | 
- | [zh_Hans]({{< ref "/f22/language/zh_Hans.md" >}}) | 1393 | 11217 | 12.4 | /mnt/stockage/packages/f22/gimp-gap/po/zh_CN.po | 
- | [pa]({{< ref "/f22/language/pa.md" >}}) | 901 | 8296 | 10.9 | /mnt/stockage/packages/f22/gimp-gap/po/pa.po | 
- | [da]({{< ref "/f22/language/da.md" >}}) | 1501 | 13830 | 10.9 | /mnt/stockage/packages/f22/gimp-gap/po/da.po | 
- | [zh_Hant]({{< ref "/f22/language/zh_Hant.md" >}}) | 423 | 4791 | 8.8 | /mnt/stockage/packages/f22/gimp-gap/po/zh_TW.po | 
- | [nb_NO]({{< ref "/f22/language/nb_NO.md" >}}) | 435 | 9779 | 4.4 | /mnt/stockage/packages/f22/gimp-gap/po/nb.po | 
- | [eo]({{< ref "/f22/language/eo.md" >}}) | 436 | 14863 | 2.9 | /mnt/stockage/packages/f22/gimp-gap/po/eo.po | 
- | [kn]({{< ref "/f22/language/kn.md" >}}) | 319 | 11659 | 2.7 | /mnt/stockage/packages/f22/gimp-gap/po/kn.po | 
- | [lt]({{< ref "/f22/language/lt.md" >}}) | 265 | 9779 | 2.7 | /mnt/stockage/packages/f22/gimp-gap/po/lt.po | 
- | [sq]({{< ref "/f22/language/sq.md" >}}) | 208 | 8288 | 2.5 | /mnt/stockage/packages/f22/gimp-gap/po/sq.po | 
- | [ar]({{< ref "/f22/language/ar.md" >}}) | 255 | 11202 | 2.3 | /mnt/stockage/packages/f22/gimp-gap/po/ar.po | 
- | [hi]({{< ref "/f22/language/hi.md" >}}) | 200 | 9749 | 2.1 | /mnt/stockage/packages/f22/gimp-gap/po/hi.po | 
- | [hu]({{< ref "/f22/language/hu.md" >}}) | 98 | 4791 | 2.0 | /mnt/stockage/packages/f22/gimp-gap/po/hu.po | 
- | [mr]({{< ref "/f22/language/mr.md" >}}) | 190 | 11659 | 1.6 | /mnt/stockage/packages/f22/gimp-gap/po/mr.po | 
- | [oc]({{< ref "/f22/language/oc.md" >}}) | 154 | 10474 | 1.5 | /mnt/stockage/packages/f22/gimp-gap/po/oc.po | 
- | [rw]({{< ref "/f22/language/rw.md" >}}) | 119 | 9193 | 1.3 | /mnt/stockage/packages/f22/gimp-gap/po/rw.po | 
- | [nn]({{< ref "/f22/language/nn.md" >}}) | 50 | 4791 | 1.0 | /mnt/stockage/packages/f22/gimp-gap/po/nn.po | 
- | [az]({{< ref "/f22/language/az.md" >}}) | 44 | 4791 | 0.9 | /mnt/stockage/packages/f22/gimp-gap/po/az.po | 
- | [ml]({{< ref "/f22/language/ml.md" >}}) | 31 | 4791 | 0.6 | /mnt/stockage/packages/f22/gimp-gap/po/ml.po | 
- | [tr]({{< ref "/f22/language/tr.md" >}}) | 31 | 4791 | 0.6 | /mnt/stockage/packages/f22/gimp-gap/po/tr.po | 
+ | [bg](/f22/language/bg) | 10409 | 10409 | 100.0 | /mnt/stockage/packages/f22/gimp-gap/po/bg.po | 
+ | [dz](/f22/language/dz) | 10444 | 10444 | 100.0 | /mnt/stockage/packages/f22/gimp-gap/po/dz.po | 
+ | [el](/f22/language/el) | 14863 | 14863 | 100.0 | /mnt/stockage/packages/f22/gimp-gap/po/el.po | 
+ | [en_CA](/f22/language/en_CA) | 9779 | 9779 | 100.0 | /mnt/stockage/packages/f22/gimp-gap/po/en_CA.po | 
+ | [en_GB](/f22/language/en_GB) | 11659 | 11659 | 100.0 | /mnt/stockage/packages/f22/gimp-gap/po/en_GB.po | 
+ | [es](/f22/language/es) | 14863 | 14863 | 100.0 | /mnt/stockage/packages/f22/gimp-gap/po/es.po | 
+ | [eu](/f22/language/eu) | 13993 | 13993 | 100.0 | /mnt/stockage/packages/f22/gimp-gap/po/eu.po | 
+ | [it](/f22/language/it) | 14863 | 14863 | 100.0 | /mnt/stockage/packages/f22/gimp-gap/po/it.po | 
+ | [ne](/f22/language/ne) | 10509 | 10509 | 100.0 | /mnt/stockage/packages/f22/gimp-gap/po/ne.po | 
+ | [sl](/f22/language/sl) | 14863 | 14863 | 100.0 | /mnt/stockage/packages/f22/gimp-gap/po/sl.po | 
+ | [vi](/f22/language/vi) | 10444 | 10444 | 100.0 | /mnt/stockage/packages/f22/gimp-gap/po/vi.po | 
+ | [ca](/f22/language/ca) | 24128 | 24158 | 99.9 | /mnt/stockage/packages/f22/gimp-gap/po/ca@valencia.po/mnt/stockage/packages/f22/gimp-gap/po/ca.po | 
+ | [error](/f22/language/error) | 4778 | 4791 | 99.7 | /mnt/stockage/packages/f22/gimp-gap/po/sr@Latn.po | 
+ | [pt](/f22/language/pt) | 4778 | 4791 | 99.7 | /mnt/stockage/packages/f22/gimp-gap/po/pt.po | 
+ | [sr](/f22/language/sr) | 4778 | 4791 | 99.7 | /mnt/stockage/packages/f22/gimp-gap/po/sr.po | 
+ | [uk](/f22/language/uk) | 14224 | 14273 | 99.7 | /mnt/stockage/packages/f22/gimp-gap/po/uk.po | 
+ | [hr](/f22/language/hr) | 4757 | 4791 | 99.3 | /mnt/stockage/packages/f22/gimp-gap/po/hr.po | 
+ | [fr](/f22/language/fr) | 11974 | 12079 | 99.1 | /mnt/stockage/packages/f22/gimp-gap/po/fr.po | 
+ | [sk](/f22/language/sk) | 4677 | 4791 | 97.6 | /mnt/stockage/packages/f22/gimp-gap/po/sk.po | 
+ | [cs](/f22/language/cs) | 8871 | 10409 | 85.2 | /mnt/stockage/packages/f22/gimp-gap/po/cs.po | 
+ | [de](/f22/language/de) | 10885 | 14273 | 76.3 | /mnt/stockage/packages/f22/gimp-gap/po/de.po | 
+ | [pt_BR](/f22/language/pt_BR) | 11451 | 15061 | 76.0 | /mnt/stockage/packages/f22/gimp-gap/po/pt_BR.po | 
+ | [gu](/f22/language/gu) | 8392 | 12079 | 69.5 | /mnt/stockage/packages/f22/gimp-gap/po/gu.po | 
+ | [fi](/f22/language/fi) | 6674 | 10474 | 63.7 | /mnt/stockage/packages/f22/gimp-gap/po/fi.po | 
+ | [pl](/f22/language/pl) | 8398 | 14273 | 58.8 | /mnt/stockage/packages/f22/gimp-gap/po/pl.po | 
+ | [nl](/f22/language/nl) | 5464 | 9598 | 56.9 | /mnt/stockage/packages/f22/gimp-gap/po/nl.po | 
+ | [ru](/f22/language/ru) | 7652 | 14273 | 53.6 | /mnt/stockage/packages/f22/gimp-gap/po/ru.po | 
+ | [gl](/f22/language/gl) | 5534 | 12079 | 45.8 | /mnt/stockage/packages/f22/gimp-gap/po/gl.po | 
+ | [ko](/f22/language/ko) | 3388 | 11015 | 30.8 | /mnt/stockage/packages/f22/gimp-gap/po/ko.po | 
+ | [ja](/f22/language/ja) | 2317 | 9778 | 23.7 | /mnt/stockage/packages/f22/gimp-gap/po/ja.po | 
+ | [sv](/f22/language/sv) | 2251 | 10474 | 21.5 | /mnt/stockage/packages/f22/gimp-gap/po/sv.po | 
+ | [zh_Hans](/f22/language/zh_Hans) | 1393 | 11217 | 12.4 | /mnt/stockage/packages/f22/gimp-gap/po/zh_CN.po | 
+ | [pa](/f22/language/pa) | 901 | 8296 | 10.9 | /mnt/stockage/packages/f22/gimp-gap/po/pa.po | 
+ | [da](/f22/language/da) | 1501 | 13830 | 10.9 | /mnt/stockage/packages/f22/gimp-gap/po/da.po | 
+ | [zh_Hant](/f22/language/zh_Hant) | 423 | 4791 | 8.8 | /mnt/stockage/packages/f22/gimp-gap/po/zh_TW.po | 
+ | [nb_NO](/f22/language/nb_NO) | 435 | 9779 | 4.4 | /mnt/stockage/packages/f22/gimp-gap/po/nb.po | 
+ | [eo](/f22/language/eo) | 436 | 14863 | 2.9 | /mnt/stockage/packages/f22/gimp-gap/po/eo.po | 
+ | [kn](/f22/language/kn) | 319 | 11659 | 2.7 | /mnt/stockage/packages/f22/gimp-gap/po/kn.po | 
+ | [lt](/f22/language/lt) | 265 | 9779 | 2.7 | /mnt/stockage/packages/f22/gimp-gap/po/lt.po | 
+ | [sq](/f22/language/sq) | 208 | 8288 | 2.5 | /mnt/stockage/packages/f22/gimp-gap/po/sq.po | 
+ | [ar](/f22/language/ar) | 255 | 11202 | 2.3 | /mnt/stockage/packages/f22/gimp-gap/po/ar.po | 
+ | [hi](/f22/language/hi) | 200 | 9749 | 2.1 | /mnt/stockage/packages/f22/gimp-gap/po/hi.po | 
+ | [hu](/f22/language/hu) | 98 | 4791 | 2.0 | /mnt/stockage/packages/f22/gimp-gap/po/hu.po | 
+ | [mr](/f22/language/mr) | 190 | 11659 | 1.6 | /mnt/stockage/packages/f22/gimp-gap/po/mr.po | 
+ | [oc](/f22/language/oc) | 154 | 10474 | 1.5 | /mnt/stockage/packages/f22/gimp-gap/po/oc.po | 
+ | [rw](/f22/language/rw) | 119 | 9193 | 1.3 | /mnt/stockage/packages/f22/gimp-gap/po/rw.po | 
+ | [nn](/f22/language/nn) | 50 | 4791 | 1.0 | /mnt/stockage/packages/f22/gimp-gap/po/nn.po | 
+ | [az](/f22/language/az) | 44 | 4791 | 0.9 | /mnt/stockage/packages/f22/gimp-gap/po/az.po | 
+ | [ml](/f22/language/ml) | 31 | 4791 | 0.6 | /mnt/stockage/packages/f22/gimp-gap/po/ml.po | 
+ | [tr](/f22/language/tr) | 31 | 4791 | 0.6 | /mnt/stockage/packages/f22/gimp-gap/po/tr.po | 
 {.sortable}
 
 

@@ -18,19 +18,19 @@ The package DivFix++ (version 0.34):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f18/language/cs.md" >}}) | 551 | 551 | 100.0 | /mnt/stockage/packages/f18/DivFix++/locale/cs_CZ/DivFix++.po | 
- | [es]({{< ref "/f18/language/es.md" >}}) | 551 | 551 | 100.0 | /mnt/stockage/packages/f18/DivFix++/locale/es/DivFix++.po | 
- | [fa]({{< ref "/f18/language/fa.md" >}}) | 551 | 551 | 100.0 | /mnt/stockage/packages/f18/DivFix++/locale/fa/DivFix++.po | 
- | [fr]({{< ref "/f18/language/fr.md" >}}) | 549 | 549 | 100.0 | /mnt/stockage/packages/f18/DivFix++/locale/fr/DivFix++.po | 
- | [he]({{< ref "/f18/language/he.md" >}}) | 551 | 551 | 100.0 | /mnt/stockage/packages/f18/DivFix++/locale/he/DivFix++.po | 
- | [hu]({{< ref "/f18/language/hu.md" >}}) | 551 | 551 | 100.0 | /mnt/stockage/packages/f18/DivFix++/locale/hu/DivFix++.po | 
- | [it]({{< ref "/f18/language/it.md" >}}) | 551 | 551 | 100.0 | /mnt/stockage/packages/f18/DivFix++/locale/it/DivFix++.po | 
- | [ja]({{< ref "/f18/language/ja.md" >}}) | 549 | 549 | 100.0 | /mnt/stockage/packages/f18/DivFix++/locale/ja/DivFix++.po | 
- | [ko]({{< ref "/f18/language/ko.md" >}}) | 551 | 551 | 100.0 | /mnt/stockage/packages/f18/DivFix++/locale/ko/DivFix++.po | 
- | [ru]({{< ref "/f18/language/ru.md" >}}) | 551 | 551 | 100.0 | /mnt/stockage/packages/f18/DivFix++/locale/ru/DivFix++.po | 
- | [tr]({{< ref "/f18/language/tr.md" >}}) | 551 | 551 | 100.0 | /mnt/stockage/packages/f18/DivFix++/locale/tr/DivFix++.po | 
- | [de]({{< ref "/f18/language/de.md" >}}) | 419 | 551 | 76.0 | /mnt/stockage/packages/f18/DivFix++/locale/de/DivFix++.po | 
- | [uk]({{< ref "/f18/language/uk.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f18/DivFix++/locale/uk/DivFix++.po | 
+ | [cs](/f18/language/cs) | 551 | 551 | 100.0 | /mnt/stockage/packages/f18/DivFix++/locale/cs_CZ/DivFix++.po | 
+ | [es](/f18/language/es) | 551 | 551 | 100.0 | /mnt/stockage/packages/f18/DivFix++/locale/es/DivFix++.po | 
+ | [fa](/f18/language/fa) | 551 | 551 | 100.0 | /mnt/stockage/packages/f18/DivFix++/locale/fa/DivFix++.po | 
+ | [fr](/f18/language/fr) | 549 | 549 | 100.0 | /mnt/stockage/packages/f18/DivFix++/locale/fr/DivFix++.po | 
+ | [he](/f18/language/he) | 551 | 551 | 100.0 | /mnt/stockage/packages/f18/DivFix++/locale/he/DivFix++.po | 
+ | [hu](/f18/language/hu) | 551 | 551 | 100.0 | /mnt/stockage/packages/f18/DivFix++/locale/hu/DivFix++.po | 
+ | [it](/f18/language/it) | 551 | 551 | 100.0 | /mnt/stockage/packages/f18/DivFix++/locale/it/DivFix++.po | 
+ | [ja](/f18/language/ja) | 549 | 549 | 100.0 | /mnt/stockage/packages/f18/DivFix++/locale/ja/DivFix++.po | 
+ | [ko](/f18/language/ko) | 551 | 551 | 100.0 | /mnt/stockage/packages/f18/DivFix++/locale/ko/DivFix++.po | 
+ | [ru](/f18/language/ru) | 551 | 551 | 100.0 | /mnt/stockage/packages/f18/DivFix++/locale/ru/DivFix++.po | 
+ | [tr](/f18/language/tr) | 551 | 551 | 100.0 | /mnt/stockage/packages/f18/DivFix++/locale/tr/DivFix++.po | 
+ | [de](/f18/language/de) | 419 | 551 | 76.0 | /mnt/stockage/packages/f18/DivFix++/locale/de/DivFix++.po | 
+ | [uk](/f18/language/uk) | 0 | 0 | 0.0 | /mnt/stockage/packages/f18/DivFix++/locale/uk/DivFix++.po | 
 {.sortable}
 
 

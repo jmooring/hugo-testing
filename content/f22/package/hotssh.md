@@ -18,27 +18,27 @@ The package hotssh (version 0.2.7):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f22/language/ca.md" >}}) | 145 | 145 | 100.0 | /mnt/stockage/packages/f22/hotssh/po/ca.po | 
- | [cs]({{< ref "/f22/language/cs.md" >}}) | 150 | 150 | 100.0 | /mnt/stockage/packages/f22/hotssh/po/cs.po | 
- | [da]({{< ref "/f22/language/da.md" >}}) | 150 | 150 | 100.0 | /mnt/stockage/packages/f22/hotssh/po/da.po | 
- | [de]({{< ref "/f22/language/de.md" >}}) | 150 | 150 | 100.0 | /mnt/stockage/packages/f22/hotssh/po/de.po | 
- | [en_CA]({{< ref "/f22/language/en_CA.md" >}}) | 2 | 2 | 100.0 | /mnt/stockage/packages/f22/hotssh/po/en_CA.po | 
- | [es]({{< ref "/f22/language/es.md" >}}) | 150 | 150 | 100.0 | /mnt/stockage/packages/f22/hotssh/po/es.po | 
- | [fi]({{< ref "/f22/language/fi.md" >}}) | 145 | 145 | 100.0 | /mnt/stockage/packages/f22/hotssh/po/fi.po | 
- | [fr]({{< ref "/f22/language/fr.md" >}}) | 150 | 150 | 100.0 | /mnt/stockage/packages/f22/hotssh/po/fr.po | 
- | [gl]({{< ref "/f22/language/gl.md" >}}) | 150 | 150 | 100.0 | /mnt/stockage/packages/f22/hotssh/po/gl.po | 
- | [hu]({{< ref "/f22/language/hu.md" >}}) | 150 | 150 | 100.0 | /mnt/stockage/packages/f22/hotssh/po/hu.po | 
- | [it]({{< ref "/f22/language/it.md" >}}) | 150 | 150 | 100.0 | /mnt/stockage/packages/f22/hotssh/po/it.po | 
- | [ja]({{< ref "/f22/language/ja.md" >}}) | 145 | 145 | 100.0 | /mnt/stockage/packages/f22/hotssh/po/ja.po | 
- | [pa]({{< ref "/f22/language/pa.md" >}}) | 145 | 145 | 100.0 | /mnt/stockage/packages/f22/hotssh/po/pa.po | 
- | [pl]({{< ref "/f22/language/pl.md" >}}) | 145 | 145 | 100.0 | /mnt/stockage/packages/f22/hotssh/po/pl.po | 
- | [pt]({{< ref "/f22/language/pt.md" >}}) | 150 | 150 | 100.0 | /mnt/stockage/packages/f22/hotssh/po/pt.po | 
- | [pt_BR]({{< ref "/f22/language/pt_BR.md" >}}) | 150 | 150 | 100.0 | /mnt/stockage/packages/f22/hotssh/po/pt_BR.po | 
- | [sl]({{< ref "/f22/language/sl.md" >}}) | 150 | 150 | 100.0 | /mnt/stockage/packages/f22/hotssh/po/sl.po | 
- | [sv]({{< ref "/f22/language/sv.md" >}}) | 150 | 150 | 100.0 | /mnt/stockage/packages/f22/hotssh/po/sv.po | 
- | [zh_Hans]({{< ref "/f22/language/zh_Hans.md" >}}) | 150 | 150 | 100.0 | /mnt/stockage/packages/f22/hotssh/po/zh_CN.po | 
- | [nb_NO]({{< ref "/f22/language/nb_NO.md" >}}) | 69 | 145 | 47.6 | /mnt/stockage/packages/f22/hotssh/po/nb.po | 
- | [ar]({{< ref "/f22/language/ar.md" >}}) | 51 | 145 | 35.2 | /mnt/stockage/packages/f22/hotssh/po/ar.po | 
+ | [ca](/f22/language/ca) | 145 | 145 | 100.0 | /mnt/stockage/packages/f22/hotssh/po/ca.po | 
+ | [cs](/f22/language/cs) | 150 | 150 | 100.0 | /mnt/stockage/packages/f22/hotssh/po/cs.po | 
+ | [da](/f22/language/da) | 150 | 150 | 100.0 | /mnt/stockage/packages/f22/hotssh/po/da.po | 
+ | [de](/f22/language/de) | 150 | 150 | 100.0 | /mnt/stockage/packages/f22/hotssh/po/de.po | 
+ | [en_CA](/f22/language/en_CA) | 2 | 2 | 100.0 | /mnt/stockage/packages/f22/hotssh/po/en_CA.po | 
+ | [es](/f22/language/es) | 150 | 150 | 100.0 | /mnt/stockage/packages/f22/hotssh/po/es.po | 
+ | [fi](/f22/language/fi) | 145 | 145 | 100.0 | /mnt/stockage/packages/f22/hotssh/po/fi.po | 
+ | [fr](/f22/language/fr) | 150 | 150 | 100.0 | /mnt/stockage/packages/f22/hotssh/po/fr.po | 
+ | [gl](/f22/language/gl) | 150 | 150 | 100.0 | /mnt/stockage/packages/f22/hotssh/po/gl.po | 
+ | [hu](/f22/language/hu) | 150 | 150 | 100.0 | /mnt/stockage/packages/f22/hotssh/po/hu.po | 
+ | [it](/f22/language/it) | 150 | 150 | 100.0 | /mnt/stockage/packages/f22/hotssh/po/it.po | 
+ | [ja](/f22/language/ja) | 145 | 145 | 100.0 | /mnt/stockage/packages/f22/hotssh/po/ja.po | 
+ | [pa](/f22/language/pa) | 145 | 145 | 100.0 | /mnt/stockage/packages/f22/hotssh/po/pa.po | 
+ | [pl](/f22/language/pl) | 145 | 145 | 100.0 | /mnt/stockage/packages/f22/hotssh/po/pl.po | 
+ | [pt](/f22/language/pt) | 150 | 150 | 100.0 | /mnt/stockage/packages/f22/hotssh/po/pt.po | 
+ | [pt_BR](/f22/language/pt_BR) | 150 | 150 | 100.0 | /mnt/stockage/packages/f22/hotssh/po/pt_BR.po | 
+ | [sl](/f22/language/sl) | 150 | 150 | 100.0 | /mnt/stockage/packages/f22/hotssh/po/sl.po | 
+ | [sv](/f22/language/sv) | 150 | 150 | 100.0 | /mnt/stockage/packages/f22/hotssh/po/sv.po | 
+ | [zh_Hans](/f22/language/zh_Hans) | 150 | 150 | 100.0 | /mnt/stockage/packages/f22/hotssh/po/zh_CN.po | 
+ | [nb_NO](/f22/language/nb_NO) | 69 | 145 | 47.6 | /mnt/stockage/packages/f22/hotssh/po/nb.po | 
+ | [ar](/f22/language/ar) | 51 | 145 | 35.2 | /mnt/stockage/packages/f22/hotssh/po/ar.po | 
 {.sortable}
 
 

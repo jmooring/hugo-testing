@@ -18,10 +18,10 @@ The package clifm (version 1.26.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [error]({{< ref "/f41/language/error.md" >}}) | 0 | 16446 | 0.0 | /mnt/stockage/packages/f41/clifm/translations/spanish/clifm.po/mnt/stockage/packages/f41/clifm/translations/portuguese/clifm.po/mnt/stockage/packages/f41/clifm/translations/japanese/clifm.po/mnt/stockage/packages/f41/clifm/translations/italian/clifm.po/mnt/stockage/packages/f41/clifm/translations/german/clifm.po/mnt/stockage/packages/f41/clifm/translations/french/clifm.po | 
- | [es]({{< ref "/f41/language/es.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f41/clifm/translations/es.po | 
- | [nb_NO]({{< ref "/f41/language/nb_NO.md" >}}) | 0 | 2741 | 0.0 | /mnt/stockage/packages/f41/clifm/translations/norwegian/clifm.po | 
- | [zh_Hans]({{< ref "/f41/language/zh_Hans.md" >}}) | 0 | 2741 | 0.0 | /mnt/stockage/packages/f41/clifm/translations/chinese/clifm.po | 
+ | [error](/f41/language/error) | 0 | 16446 | 0.0 | /mnt/stockage/packages/f41/clifm/translations/spanish/clifm.po/mnt/stockage/packages/f41/clifm/translations/portuguese/clifm.po/mnt/stockage/packages/f41/clifm/translations/japanese/clifm.po/mnt/stockage/packages/f41/clifm/translations/italian/clifm.po/mnt/stockage/packages/f41/clifm/translations/german/clifm.po/mnt/stockage/packages/f41/clifm/translations/french/clifm.po | 
+ | [es](/f41/language/es) | 0 | 0 | 0.0 | /mnt/stockage/packages/f41/clifm/translations/es.po | 
+ | [nb_NO](/f41/language/nb_NO) | 0 | 2741 | 0.0 | /mnt/stockage/packages/f41/clifm/translations/norwegian/clifm.po | 
+ | [zh_Hans](/f41/language/zh_Hans) | 0 | 2741 | 0.0 | /mnt/stockage/packages/f41/clifm/translations/chinese/clifm.po | 
 {.sortable}
 
 

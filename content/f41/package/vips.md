@@ -18,9 +18,9 @@ The package vips (version 8.15.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f41/language/de.md" >}}) | 3214 | 3214 | 100.0 | /mnt/stockage/packages/f41/vips/po/de.po | 
- | [en_GB]({{< ref "/f41/language/en_GB.md" >}}) | 58 | 5451 | 1.1 | /mnt/stockage/packages/f41/vips/po/en_GB.po | 
- | [error]({{< ref "/f41/language/error.md" >}}) | 0 | 1022 | 0.0 | /mnt/stockage/packages/f41/vips/po/malkovich.po | 
+ | [de](/f41/language/de) | 3214 | 3214 | 100.0 | /mnt/stockage/packages/f41/vips/po/de.po | 
+ | [en_GB](/f41/language/en_GB) | 58 | 5451 | 1.1 | /mnt/stockage/packages/f41/vips/po/en_GB.po | 
+ | [error](/f41/language/error) | 0 | 1022 | 0.0 | /mnt/stockage/packages/f41/vips/po/malkovich.po | 
 {.sortable}
 
 

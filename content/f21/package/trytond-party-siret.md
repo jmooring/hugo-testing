@@ -18,16 +18,16 @@ The package trytond-party-siret (version 2.6.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [bg]({{< ref "/f21/language/bg.md" >}}) | 10 | 10 | 100.0 | /mnt/stockage/packages/f21/trytond-party-siret/locale/bg_BG.po | 
- | [ca]({{< ref "/f21/language/ca.md" >}}) | 10 | 10 | 100.0 | /mnt/stockage/packages/f21/trytond-party-siret/locale/ca_ES.po | 
- | [de]({{< ref "/f21/language/de.md" >}}) | 10 | 10 | 100.0 | /mnt/stockage/packages/f21/trytond-party-siret/locale/de_DE.po | 
- | [es]({{< ref "/f21/language/es.md" >}}) | 10 | 10 | 100.0 | /mnt/stockage/packages/f21/trytond-party-siret/locale/es_ES.po | 
- | [es_AR]({{< ref "/f21/language/es_AR.md" >}}) | 10 | 10 | 100.0 | /mnt/stockage/packages/f21/trytond-party-siret/locale/es_AR.po | 
- | [es_CO]({{< ref "/f21/language/es_CO.md" >}}) | 10 | 10 | 100.0 | /mnt/stockage/packages/f21/trytond-party-siret/locale/es_CO.po | 
- | [fr]({{< ref "/f21/language/fr.md" >}}) | 16 | 16 | 100.0 | /mnt/stockage/packages/f21/trytond-party-siret/locale/fr_FR.po | 
- | [cs]({{< ref "/f21/language/cs.md" >}}) | 0 | 10 | 0.0 | /mnt/stockage/packages/f21/trytond-party-siret/locale/cs_CZ.po | 
- | [nl]({{< ref "/f21/language/nl.md" >}}) | 0 | 10 | 0.0 | /mnt/stockage/packages/f21/trytond-party-siret/locale/nl_NL.po | 
- | [ru]({{< ref "/f21/language/ru.md" >}}) | 0 | 10 | 0.0 | /mnt/stockage/packages/f21/trytond-party-siret/locale/ru_RU.po | 
+ | [bg](/f21/language/bg) | 10 | 10 | 100.0 | /mnt/stockage/packages/f21/trytond-party-siret/locale/bg_BG.po | 
+ | [ca](/f21/language/ca) | 10 | 10 | 100.0 | /mnt/stockage/packages/f21/trytond-party-siret/locale/ca_ES.po | 
+ | [de](/f21/language/de) | 10 | 10 | 100.0 | /mnt/stockage/packages/f21/trytond-party-siret/locale/de_DE.po | 
+ | [es](/f21/language/es) | 10 | 10 | 100.0 | /mnt/stockage/packages/f21/trytond-party-siret/locale/es_ES.po | 
+ | [es_AR](/f21/language/es_AR) | 10 | 10 | 100.0 | /mnt/stockage/packages/f21/trytond-party-siret/locale/es_AR.po | 
+ | [es_CO](/f21/language/es_CO) | 10 | 10 | 100.0 | /mnt/stockage/packages/f21/trytond-party-siret/locale/es_CO.po | 
+ | [fr](/f21/language/fr) | 16 | 16 | 100.0 | /mnt/stockage/packages/f21/trytond-party-siret/locale/fr_FR.po | 
+ | [cs](/f21/language/cs) | 0 | 10 | 0.0 | /mnt/stockage/packages/f21/trytond-party-siret/locale/cs_CZ.po | 
+ | [nl](/f21/language/nl) | 0 | 10 | 0.0 | /mnt/stockage/packages/f21/trytond-party-siret/locale/nl_NL.po | 
+ | [ru](/f21/language/ru) | 0 | 10 | 0.0 | /mnt/stockage/packages/f21/trytond-party-siret/locale/ru_RU.po | 
 {.sortable}
 
 

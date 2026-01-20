@@ -18,35 +18,35 @@ The package gradio (version 7.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [be]({{< ref "/f34/language/be.md" >}}) | 309 | 309 | 100.0 | /mnt/stockage/packages/f34/gradio/po/be.po | 
- | [ca]({{< ref "/f34/language/ca.md" >}}) | 309 | 309 | 100.0 | /mnt/stockage/packages/f34/gradio/po/ca.po | 
- | [cs]({{< ref "/f34/language/cs.md" >}}) | 309 | 309 | 100.0 | /mnt/stockage/packages/f34/gradio/po/cs.po | 
- | [de]({{< ref "/f34/language/de.md" >}}) | 309 | 309 | 100.0 | /mnt/stockage/packages/f34/gradio/po/de.po | 
- | [es]({{< ref "/f34/language/es.md" >}}) | 309 | 309 | 100.0 | /mnt/stockage/packages/f34/gradio/po/es.po | 
- | [fi]({{< ref "/f34/language/fi.md" >}}) | 309 | 309 | 100.0 | /mnt/stockage/packages/f34/gradio/po/fi.po | 
- | [fr]({{< ref "/f34/language/fr.md" >}}) | 309 | 309 | 100.0 | /mnt/stockage/packages/f34/gradio/po/fr.po | 
- | [hr]({{< ref "/f34/language/hr.md" >}}) | 309 | 309 | 100.0 | /mnt/stockage/packages/f34/gradio/po/hr.po | 
- | [hu]({{< ref "/f34/language/hu.md" >}}) | 309 | 309 | 100.0 | /mnt/stockage/packages/f34/gradio/po/hu.po | 
- | [id]({{< ref "/f34/language/id.md" >}}) | 309 | 309 | 100.0 | /mnt/stockage/packages/f34/gradio/po/id.po | 
- | [it]({{< ref "/f34/language/it.md" >}}) | 309 | 309 | 100.0 | /mnt/stockage/packages/f34/gradio/po/it.po | 
- | [ka]({{< ref "/f34/language/ka.md" >}}) | 309 | 309 | 100.0 | /mnt/stockage/packages/f34/gradio/po/ka.po | 
- | [nb_NO]({{< ref "/f34/language/nb_NO.md" >}}) | 309 | 309 | 100.0 | /mnt/stockage/packages/f34/gradio/po/nb.po | 
- | [nl]({{< ref "/f34/language/nl.md" >}}) | 309 | 309 | 100.0 | /mnt/stockage/packages/f34/gradio/po/nl.po | 
- | [pl]({{< ref "/f34/language/pl.md" >}}) | 309 | 309 | 100.0 | /mnt/stockage/packages/f34/gradio/po/pl.po | 
- | [pt_BR]({{< ref "/f34/language/pt_BR.md" >}}) | 309 | 309 | 100.0 | /mnt/stockage/packages/f34/gradio/po/pt_BR.po | 
- | [pt_PT]({{< ref "/f34/language/pt_PT.md" >}}) | 309 | 309 | 100.0 | /mnt/stockage/packages/f34/gradio/po/pt_PT.po | 
- | [ru]({{< ref "/f34/language/ru.md" >}}) | 309 | 309 | 100.0 | /mnt/stockage/packages/f34/gradio/po/ru.po | 
- | [sk]({{< ref "/f34/language/sk.md" >}}) | 309 | 309 | 100.0 | /mnt/stockage/packages/f34/gradio/po/sk.po | 
- | [sr]({{< ref "/f34/language/sr.md" >}}) | 309 | 309 | 100.0 | /mnt/stockage/packages/f34/gradio/po/sr.po | 
- | [sr_Latn]({{< ref "/f34/language/sr_Latn.md" >}}) | 309 | 309 | 100.0 | /mnt/stockage/packages/f34/gradio/po/sr@latin.po | 
- | [sv]({{< ref "/f34/language/sv.md" >}}) | 309 | 309 | 100.0 | /mnt/stockage/packages/f34/gradio/po/sv.po | 
- | [tr]({{< ref "/f34/language/tr.md" >}}) | 309 | 309 | 100.0 | /mnt/stockage/packages/f34/gradio/po/tr.po | 
- | [uk]({{< ref "/f34/language/uk.md" >}}) | 309 | 309 | 100.0 | /mnt/stockage/packages/f34/gradio/po/uk.po | 
- | [ga]({{< ref "/f34/language/ga.md" >}}) | 139 | 309 | 45.0 | /mnt/stockage/packages/f34/gradio/po/ga.po | 
- | [hi]({{< ref "/f34/language/hi.md" >}}) | 45 | 309 | 14.6 | /mnt/stockage/packages/f34/gradio/po/hi.po | 
- | [ja]({{< ref "/f34/language/ja.md" >}}) | 8 | 309 | 2.6 | /mnt/stockage/packages/f34/gradio/po/ja.po | 
- | [zh_Hans]({{< ref "/f34/language/zh_Hans.md" >}}) | 5 | 309 | 1.6 | /mnt/stockage/packages/f34/gradio/po/cmn.po | 
- | [ko]({{< ref "/f34/language/ko.md" >}}) | 0 | 309 | 0.0 | /mnt/stockage/packages/f34/gradio/po/ko.po | 
+ | [be](/f34/language/be) | 309 | 309 | 100.0 | /mnt/stockage/packages/f34/gradio/po/be.po | 
+ | [ca](/f34/language/ca) | 309 | 309 | 100.0 | /mnt/stockage/packages/f34/gradio/po/ca.po | 
+ | [cs](/f34/language/cs) | 309 | 309 | 100.0 | /mnt/stockage/packages/f34/gradio/po/cs.po | 
+ | [de](/f34/language/de) | 309 | 309 | 100.0 | /mnt/stockage/packages/f34/gradio/po/de.po | 
+ | [es](/f34/language/es) | 309 | 309 | 100.0 | /mnt/stockage/packages/f34/gradio/po/es.po | 
+ | [fi](/f34/language/fi) | 309 | 309 | 100.0 | /mnt/stockage/packages/f34/gradio/po/fi.po | 
+ | [fr](/f34/language/fr) | 309 | 309 | 100.0 | /mnt/stockage/packages/f34/gradio/po/fr.po | 
+ | [hr](/f34/language/hr) | 309 | 309 | 100.0 | /mnt/stockage/packages/f34/gradio/po/hr.po | 
+ | [hu](/f34/language/hu) | 309 | 309 | 100.0 | /mnt/stockage/packages/f34/gradio/po/hu.po | 
+ | [id](/f34/language/id) | 309 | 309 | 100.0 | /mnt/stockage/packages/f34/gradio/po/id.po | 
+ | [it](/f34/language/it) | 309 | 309 | 100.0 | /mnt/stockage/packages/f34/gradio/po/it.po | 
+ | [ka](/f34/language/ka) | 309 | 309 | 100.0 | /mnt/stockage/packages/f34/gradio/po/ka.po | 
+ | [nb_NO](/f34/language/nb_NO) | 309 | 309 | 100.0 | /mnt/stockage/packages/f34/gradio/po/nb.po | 
+ | [nl](/f34/language/nl) | 309 | 309 | 100.0 | /mnt/stockage/packages/f34/gradio/po/nl.po | 
+ | [pl](/f34/language/pl) | 309 | 309 | 100.0 | /mnt/stockage/packages/f34/gradio/po/pl.po | 
+ | [pt_BR](/f34/language/pt_BR) | 309 | 309 | 100.0 | /mnt/stockage/packages/f34/gradio/po/pt_BR.po | 
+ | [pt_PT](/f34/language/pt_PT) | 309 | 309 | 100.0 | /mnt/stockage/packages/f34/gradio/po/pt_PT.po | 
+ | [ru](/f34/language/ru) | 309 | 309 | 100.0 | /mnt/stockage/packages/f34/gradio/po/ru.po | 
+ | [sk](/f34/language/sk) | 309 | 309 | 100.0 | /mnt/stockage/packages/f34/gradio/po/sk.po | 
+ | [sr](/f34/language/sr) | 309 | 309 | 100.0 | /mnt/stockage/packages/f34/gradio/po/sr.po | 
+ | [sr_Latn](/f34/language/sr_Latn) | 309 | 309 | 100.0 | /mnt/stockage/packages/f34/gradio/po/sr@latin.po | 
+ | [sv](/f34/language/sv) | 309 | 309 | 100.0 | /mnt/stockage/packages/f34/gradio/po/sv.po | 
+ | [tr](/f34/language/tr) | 309 | 309 | 100.0 | /mnt/stockage/packages/f34/gradio/po/tr.po | 
+ | [uk](/f34/language/uk) | 309 | 309 | 100.0 | /mnt/stockage/packages/f34/gradio/po/uk.po | 
+ | [ga](/f34/language/ga) | 139 | 309 | 45.0 | /mnt/stockage/packages/f34/gradio/po/ga.po | 
+ | [hi](/f34/language/hi) | 45 | 309 | 14.6 | /mnt/stockage/packages/f34/gradio/po/hi.po | 
+ | [ja](/f34/language/ja) | 8 | 309 | 2.6 | /mnt/stockage/packages/f34/gradio/po/ja.po | 
+ | [zh_Hans](/f34/language/zh_Hans) | 5 | 309 | 1.6 | /mnt/stockage/packages/f34/gradio/po/cmn.po | 
+ | [ko](/f34/language/ko) | 0 | 309 | 0.0 | /mnt/stockage/packages/f34/gradio/po/ko.po | 
 {.sortable}
 
 

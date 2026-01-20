@@ -18,33 +18,33 @@ The package latexila (version 3.18.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [bs]({{< ref "/f23/language/bs.md" >}}) | 2232 | 2232 | 100.0 | /mnt/stockage/packages/f23/latexila/po/bs.po | 
- | [cs]({{< ref "/f23/language/cs.md" >}}) | 3342 | 3342 | 100.0 | /mnt/stockage/packages/f23/latexila/help/cs/cs.po/mnt/stockage/packages/f23/latexila/po/cs.po | 
- | [de]({{< ref "/f23/language/de.md" >}}) | 3518 | 3518 | 100.0 | /mnt/stockage/packages/f23/latexila/help/de/de.po/mnt/stockage/packages/f23/latexila/po/de.po | 
- | [el]({{< ref "/f23/language/el.md" >}}) | 3228 | 3228 | 100.0 | /mnt/stockage/packages/f23/latexila/help/el/el.po/mnt/stockage/packages/f23/latexila/po/el.po | 
- | [es]({{< ref "/f23/language/es.md" >}}) | 3342 | 3342 | 100.0 | /mnt/stockage/packages/f23/latexila/help/es/es.po/mnt/stockage/packages/f23/latexila/po/es.po | 
- | [fr]({{< ref "/f23/language/fr.md" >}}) | 3342 | 3342 | 100.0 | /mnt/stockage/packages/f23/latexila/help/fr/fr.po/mnt/stockage/packages/f23/latexila/po/fr.po | 
- | [gl]({{< ref "/f23/language/gl.md" >}}) | 2849 | 2849 | 100.0 | /mnt/stockage/packages/f23/latexila/help/gl/gl.po/mnt/stockage/packages/f23/latexila/po/gl.po | 
- | [hu]({{< ref "/f23/language/hu.md" >}}) | 3289 | 3289 | 100.0 | /mnt/stockage/packages/f23/latexila/help/hu/hu.po/mnt/stockage/packages/f23/latexila/po/hu.po | 
- | [id]({{< ref "/f23/language/id.md" >}}) | 2195 | 2195 | 100.0 | /mnt/stockage/packages/f23/latexila/po/id.po | 
- | [lt]({{< ref "/f23/language/lt.md" >}}) | 2342 | 2342 | 100.0 | /mnt/stockage/packages/f23/latexila/po/lt.po | 
- | [lv]({{< ref "/f23/language/lv.md" >}}) | 2042 | 2042 | 100.0 | /mnt/stockage/packages/f23/latexila/po/lv.po | 
- | [nl]({{< ref "/f23/language/nl.md" >}}) | 2195 | 2195 | 100.0 | /mnt/stockage/packages/f23/latexila/po/nl.po | 
- | [pl]({{< ref "/f23/language/pl.md" >}}) | 2343 | 2343 | 100.0 | /mnt/stockage/packages/f23/latexila/po/pl.po | 
- | [pt]({{< ref "/f23/language/pt.md" >}}) | 2342 | 2342 | 100.0 | /mnt/stockage/packages/f23/latexila/po/pt.po | 
- | [sr]({{< ref "/f23/language/sr.md" >}}) | 4442 | 4442 | 100.0 | /mnt/stockage/packages/f23/latexila/po/sr@latin.po/mnt/stockage/packages/f23/latexila/po/sr.po | 
- | [uk]({{< ref "/f23/language/uk.md" >}}) | 3342 | 3342 | 100.0 | /mnt/stockage/packages/f23/latexila/help/uk/uk.po/mnt/stockage/packages/f23/latexila/po/uk.po | 
- | [he]({{< ref "/f23/language/he.md" >}}) | 2160 | 2195 | 98.4 | /mnt/stockage/packages/f23/latexila/po/he.po | 
- | [eu]({{< ref "/f23/language/eu.md" >}}) | 2104 | 2225 | 94.6 | /mnt/stockage/packages/f23/latexila/po/eu.po | 
- | [sl]({{< ref "/f23/language/sl.md" >}}) | 2055 | 2195 | 93.6 | /mnt/stockage/packages/f23/latexila/po/sl.po | 
- | [zh_Hans]({{< ref "/f23/language/zh_Hans.md" >}}) | 1390 | 1535 | 90.6 | /mnt/stockage/packages/f23/latexila/po/zh_CN.po | 
- | [ru]({{< ref "/f23/language/ru.md" >}}) | 2616 | 3009 | 86.9 | /mnt/stockage/packages/f23/latexila/help/ru/ru.po/mnt/stockage/packages/f23/latexila/po/ru.po | 
- | [it]({{< ref "/f23/language/it.md" >}}) | 1258 | 1527 | 82.4 | /mnt/stockage/packages/f23/latexila/po/it.po | 
- | [pt_BR]({{< ref "/f23/language/pt_BR.md" >}}) | 2449 | 3338 | 73.4 | /mnt/stockage/packages/f23/latexila/help/pt_BR/pt_BR.po/mnt/stockage/packages/f23/latexila/po/pt_BR.po | 
- | [nb_NO]({{< ref "/f23/language/nb_NO.md" >}}) | 704 | 1519 | 46.3 | /mnt/stockage/packages/f23/latexila/po/nb.po | 
- | [sv]({{< ref "/f23/language/sv.md" >}}) | 642 | 1535 | 41.8 | /mnt/stockage/packages/f23/latexila/po/sv.po | 
- | [eo]({{< ref "/f23/language/eo.md" >}}) | 476 | 1526 | 31.2 | /mnt/stockage/packages/f23/latexila/po/eo.po | 
- | [ca]({{< ref "/f23/language/ca.md" >}}) | 486 | 2264 | 21.5 | /mnt/stockage/packages/f23/latexila/po/ca.po | 
+ | [bs](/f23/language/bs) | 2232 | 2232 | 100.0 | /mnt/stockage/packages/f23/latexila/po/bs.po | 
+ | [cs](/f23/language/cs) | 3342 | 3342 | 100.0 | /mnt/stockage/packages/f23/latexila/help/cs/cs.po/mnt/stockage/packages/f23/latexila/po/cs.po | 
+ | [de](/f23/language/de) | 3518 | 3518 | 100.0 | /mnt/stockage/packages/f23/latexila/help/de/de.po/mnt/stockage/packages/f23/latexila/po/de.po | 
+ | [el](/f23/language/el) | 3228 | 3228 | 100.0 | /mnt/stockage/packages/f23/latexila/help/el/el.po/mnt/stockage/packages/f23/latexila/po/el.po | 
+ | [es](/f23/language/es) | 3342 | 3342 | 100.0 | /mnt/stockage/packages/f23/latexila/help/es/es.po/mnt/stockage/packages/f23/latexila/po/es.po | 
+ | [fr](/f23/language/fr) | 3342 | 3342 | 100.0 | /mnt/stockage/packages/f23/latexila/help/fr/fr.po/mnt/stockage/packages/f23/latexila/po/fr.po | 
+ | [gl](/f23/language/gl) | 2849 | 2849 | 100.0 | /mnt/stockage/packages/f23/latexila/help/gl/gl.po/mnt/stockage/packages/f23/latexila/po/gl.po | 
+ | [hu](/f23/language/hu) | 3289 | 3289 | 100.0 | /mnt/stockage/packages/f23/latexila/help/hu/hu.po/mnt/stockage/packages/f23/latexila/po/hu.po | 
+ | [id](/f23/language/id) | 2195 | 2195 | 100.0 | /mnt/stockage/packages/f23/latexila/po/id.po | 
+ | [lt](/f23/language/lt) | 2342 | 2342 | 100.0 | /mnt/stockage/packages/f23/latexila/po/lt.po | 
+ | [lv](/f23/language/lv) | 2042 | 2042 | 100.0 | /mnt/stockage/packages/f23/latexila/po/lv.po | 
+ | [nl](/f23/language/nl) | 2195 | 2195 | 100.0 | /mnt/stockage/packages/f23/latexila/po/nl.po | 
+ | [pl](/f23/language/pl) | 2343 | 2343 | 100.0 | /mnt/stockage/packages/f23/latexila/po/pl.po | 
+ | [pt](/f23/language/pt) | 2342 | 2342 | 100.0 | /mnt/stockage/packages/f23/latexila/po/pt.po | 
+ | [sr](/f23/language/sr) | 4442 | 4442 | 100.0 | /mnt/stockage/packages/f23/latexila/po/sr@latin.po/mnt/stockage/packages/f23/latexila/po/sr.po | 
+ | [uk](/f23/language/uk) | 3342 | 3342 | 100.0 | /mnt/stockage/packages/f23/latexila/help/uk/uk.po/mnt/stockage/packages/f23/latexila/po/uk.po | 
+ | [he](/f23/language/he) | 2160 | 2195 | 98.4 | /mnt/stockage/packages/f23/latexila/po/he.po | 
+ | [eu](/f23/language/eu) | 2104 | 2225 | 94.6 | /mnt/stockage/packages/f23/latexila/po/eu.po | 
+ | [sl](/f23/language/sl) | 2055 | 2195 | 93.6 | /mnt/stockage/packages/f23/latexila/po/sl.po | 
+ | [zh_Hans](/f23/language/zh_Hans) | 1390 | 1535 | 90.6 | /mnt/stockage/packages/f23/latexila/po/zh_CN.po | 
+ | [ru](/f23/language/ru) | 2616 | 3009 | 86.9 | /mnt/stockage/packages/f23/latexila/help/ru/ru.po/mnt/stockage/packages/f23/latexila/po/ru.po | 
+ | [it](/f23/language/it) | 1258 | 1527 | 82.4 | /mnt/stockage/packages/f23/latexila/po/it.po | 
+ | [pt_BR](/f23/language/pt_BR) | 2449 | 3338 | 73.4 | /mnt/stockage/packages/f23/latexila/help/pt_BR/pt_BR.po/mnt/stockage/packages/f23/latexila/po/pt_BR.po | 
+ | [nb_NO](/f23/language/nb_NO) | 704 | 1519 | 46.3 | /mnt/stockage/packages/f23/latexila/po/nb.po | 
+ | [sv](/f23/language/sv) | 642 | 1535 | 41.8 | /mnt/stockage/packages/f23/latexila/po/sv.po | 
+ | [eo](/f23/language/eo) | 476 | 1526 | 31.2 | /mnt/stockage/packages/f23/latexila/po/eo.po | 
+ | [ca](/f23/language/ca) | 486 | 2264 | 21.5 | /mnt/stockage/packages/f23/latexila/po/ca.po | 
 {.sortable}
 
 

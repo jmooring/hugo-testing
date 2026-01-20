@@ -18,7 +18,7 @@ The package java-11-openjdk (version 11.0.5.10):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [su]({{< ref "/f29/language/su.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f29/java-11-openjdk/test/jdk/sun/nio/cs/tradChinese.po/mnt/stockage/packages/f29/java-11-openjdk/test/jdk/sun/nio/cs/tradChinese.win.po | 
+ | [su](/f29/language/su) | 0 | 0 | 0.0 | /mnt/stockage/packages/f29/java-11-openjdk/test/jdk/sun/nio/cs/tradChinese.po/mnt/stockage/packages/f29/java-11-openjdk/test/jdk/sun/nio/cs/tradChinese.win.po | 
 {.sortable}
 
 

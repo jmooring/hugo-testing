@@ -43,1043 +43,1043 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [GConf2]({{< ref "/f33/package/GConf2.md" >}}) | 4088 | 4088 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
- | [NetworkManager-pptp]({{< ref "/f33/package/NetworkManager-pptp.md" >}}) | 144 | 144 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
- | [NetworkManager-sstp]({{< ref "/f33/package/NetworkManager-sstp.md" >}}) | 144 | 144 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
- | [NetworkManager-vpnc]({{< ref "/f33/package/NetworkManager-vpnc.md" >}}) | 156 | 156 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
- | [PackageKit]({{< ref "/f33/package/PackageKit.md" >}}) | 931 | 931 | 100.0 | Bulgarian (http://www.transifex.com/freedesktop/packagekit/language/bg/) | 
- | [aisleriot]({{< ref "/f33/package/aisleriot.md" >}}) | 3075 | 3075 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
- | [alacarte]({{< ref "/f33/package/alacarte.md" >}}) | 41 | 41 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
- | [anjuta]({{< ref "/f33/package/anjuta.md" >}}) | 8086 | 8086 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
- | [arduino]({{< ref "/f33/package/arduino.md" >}}) | 3204 | 3204 | 100.0 | Bulgarian (http://www.transifex.com/mbanzi/arduino-ide-15/language/bg/) | 
- | [at-spi2-core]({{< ref "/f33/package/at-spi2-core.md" >}}) | 10 | 10 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
- | [atk]({{< ref "/f33/package/atk.md" >}}) | 440 | 440 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
- | [atomix]({{< ref "/f33/package/atomix.md" >}}) | 146 | 146 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
- | [baobab]({{< ref "/f33/package/baobab.md" >}}) | 246 | 246 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
- | [blinken]({{< ref "/f33/package/blinken.md" >}}) | 133 | 133 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
- | [blueberry]({{< ref "/f33/package/blueberry.md" >}}) | 166 | 166 | 100.0 | Bulgarian <bg@li.org> | 
- | [brasero]({{< ref "/f33/package/brasero.md" >}}) | 9054 | 9054 | 100.0 | Bulgarian <dict-notifications@fsa-bg.org> | 
- | [caribou]({{< ref "/f33/package/caribou.md" >}}) | 169 | 169 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
- | [catfish]({{< ref "/f33/package/catfish.md" >}}) | 1047 | 1047 | 100.0 | Bulgarian (https://www.transifex.com/xfce/teams/16840/bg/) | 
- | [cgit]({{< ref "/f33/package/cgit.md" >}}) | 36106 | 36106 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
- | [cheese]({{< ref "/f33/package/cheese.md" >}}) | 614 | 614 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
- | [chromium]({{< ref "/f33/package/chromium.md" >}}) | 14466 | 14466 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
- | [cinnamon-desktop]({{< ref "/f33/package/cinnamon-desktop.md" >}}) | 234 | 234 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
- | [cogl]({{< ref "/f33/package/cogl.md" >}}) | 393 | 393 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
- | [console-setup]({{< ref "/f33/package/console-setup.md" >}}) | 1001 | 1001 | 100.0 | Български <dict@fsa-bg.org> | 
- | [coolreader]({{< ref "/f33/package/coolreader.md" >}}) | 695 | 695 | 100.0 | Bulgarian | 
- | [coreutils]({{< ref "/f33/package/coreutils.md" >}}) | 21194 | 21194 | 100.0 | Bulgarian <dict@ludost.net> | 
- | [dasher]({{< ref "/f33/package/dasher.md" >}}) | 634 | 634 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
- | [deepin-daemon]({{< ref "/f33/package/deepin-daemon.md" >}}) | 1063 | 1063 | 100.0 | Bulgarian (http://www.transifex.com/linuxdeepin/deepin-desktop-environment/language/bg/) | 
- | [devhelp]({{< ref "/f33/package/devhelp.md" >}}) | 460 | 460 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
- | [dia]({{< ref "/f33/package/dia.md" >}}) | 5686 | 5686 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
- | [diffutils]({{< ref "/f33/package/diffutils.md" >}}) | 1886 | 1886 | 100.0 | Bulgarian <dict@ludost.net> | 
- | [eog]({{< ref "/f33/package/eog.md" >}}) | 1675 | 1675 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
- | [eog-plugins]({{< ref "/f33/package/eog-plugins.md" >}}) | 80 | 80 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
- | [evince]({{< ref "/f33/package/evince.md" >}}) | 3417 | 3417 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
- | [evolution-data-server]({{< ref "/f33/package/evolution-data-server.md" >}}) | 5529 | 5529 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
- | [evolution-mapi]({{< ref "/f33/package/evolution-mapi.md" >}}) | 341 | 341 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
- | [exo]({{< ref "/f33/package/exo.md" >}}) | 1460 | 1460 | 100.0 | Bulgarian (http://www.transifex.com/xfce/exo/language/bg/) | 
- | [file-roller]({{< ref "/f33/package/file-roller.md" >}}) | 1200 | 1200 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
- | [five-or-more]({{< ref "/f33/package/five-or-more.md" >}}) | 282 | 282 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
- | [flare-engine]({{< ref "/f33/package/flare-engine.md" >}}) | 1355 | 1355 | 100.0 | Bulgarian (https://www.transifex.com/flareorg/teams/84925/bg/) | 
- | [folks]({{< ref "/f33/package/folks.md" >}}) | 851 | 851 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
- | [four-in-a-row]({{< ref "/f33/package/four-in-a-row.md" >}}) | 256 | 256 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
- | [garcon]({{< ref "/f33/package/garcon.md" >}}) | 122 | 122 | 100.0 | Bulgarian (http://www.transifex.com/xfce/garcon/language/bg/) | 
- | [gconf-editor]({{< ref "/f33/package/gconf-editor.md" >}}) | 336 | 336 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
- | [gcr]({{< ref "/f33/package/gcr.md" >}}) | 677 | 677 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
- | [gdk-pixbuf2]({{< ref "/f33/package/gdk-pixbuf2.md" >}}) | 1372 | 1372 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
- | [gdm]({{< ref "/f33/package/gdm.md" >}}) | 626 | 626 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
- | [gedit]({{< ref "/f33/package/gedit.md" >}}) | 11731 | 11731 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
- | [ggz-base-libs]({{< ref "/f33/package/ggz-base-libs.md" >}}) | 74 | 74 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
- | [ghex]({{< ref "/f33/package/ghex.md" >}}) | 677 | 677 | 100.0 | Bulgarian <dict@linux.zonebg.com> | 
- | [gigolo]({{< ref "/f33/package/gigolo.md" >}}) | 467 | 467 | 100.0 | Bulgarian (http://www.transifex.com/xfce/xfce-apps/language/bg/) | 
- | [gip]({{< ref "/f33/package/gip.md" >}}) | 103 | 103 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
- | [git]({{< ref "/f33/package/git.md" >}}) | 38685 | 38685 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
- | [git-cinnabar]({{< ref "/f33/package/git-cinnabar.md" >}}) | 38685 | 38685 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
- | [gitg]({{< ref "/f33/package/gitg.md" >}}) | 1996 | 1996 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
- | [glade]({{< ref "/f33/package/glade.md" >}}) | 6113 | 6113 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
- | [glib-networking]({{< ref "/f33/package/glib-networking.md" >}}) | 163 | 163 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
- | [glib2]({{< ref "/f33/package/glib2.md" >}}) | 5755 | 5755 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
- | [glibc]({{< ref "/f33/package/glibc.md" >}}) | 7752 | 7752 | 100.0 | Bulgarian <dict@ludost.net> | 
- | [gnome-bluetooth]({{< ref "/f33/package/gnome-bluetooth.md" >}}) | 373 | 373 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
- | [gnome-books]({{< ref "/f33/package/gnome-books.md" >}}) | 655 | 655 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
- | [gnome-boxes]({{< ref "/f33/package/gnome-boxes.md" >}}) | 677 | 677 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
- | [gnome-chess]({{< ref "/f33/package/gnome-chess.md" >}}) | 1390 | 1390 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
- | [gnome-clocks]({{< ref "/f33/package/gnome-clocks.md" >}}) | 259 | 259 | 100.0 | Bulgarian <dict-notifications@fsa-bg.org> | 
- | [gnome-color-manager]({{< ref "/f33/package/gnome-color-manager.md" >}}) | 1793 | 1793 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
- | [gnome-contacts]({{< ref "/f33/package/gnome-contacts.md" >}}) | 288 | 288 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
- | [gnome-desktop]({{< ref "/f33/package/gnome-desktop.md" >}}) | 438 | 438 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
- | [gnome-desktop3]({{< ref "/f33/package/gnome-desktop3.md" >}}) | 146 | 146 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
- | [gnome-dictionary]({{< ref "/f33/package/gnome-dictionary.md" >}}) | 661 | 661 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
- | [gnome-disk-utility]({{< ref "/f33/package/gnome-disk-utility.md" >}}) | 3026 | 3026 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
- | [gnome-doc-utils]({{< ref "/f33/package/gnome-doc-utils.md" >}}) | 251 | 251 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
- | [gnome-documents]({{< ref "/f33/package/gnome-documents.md" >}}) | 655 | 655 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
- | [gnome-extensions-app]({{< ref "/f33/package/gnome-extensions-app.md" >}}) | 1691 | 1691 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
- | [gnome-font-viewer]({{< ref "/f33/package/gnome-font-viewer.md" >}}) | 113 | 113 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
- | [gnome-icon-theme]({{< ref "/f33/package/gnome-icon-theme.md" >}}) | 4 | 4 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
- | [gnome-initial-setup]({{< ref "/f33/package/gnome-initial-setup.md" >}}) | 766 | 766 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
- | [gnome-keyring]({{< ref "/f33/package/gnome-keyring.md" >}}) | 509 | 509 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
- | [gnome-klotski]({{< ref "/f33/package/gnome-klotski.md" >}}) | 194 | 194 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
- | [gnome-logs]({{< ref "/f33/package/gnome-logs.md" >}}) | 216 | 216 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
- | [gnome-mahjongg]({{< ref "/f33/package/gnome-mahjongg.md" >}}) | 304 | 304 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
- | [gnome-maps]({{< ref "/f33/package/gnome-maps.md" >}}) | 821 | 821 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
- | [gnome-menus]({{< ref "/f33/package/gnome-menus.md" >}}) | 70 | 70 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
- | [gnome-mime-data]({{< ref "/f33/package/gnome-mime-data.md" >}}) | 887 | 887 | 100.0 | Bulgarian <dict@linux.zonebg.com> | 
- | [gnome-mines]({{< ref "/f33/package/gnome-mines.md" >}}) | 344 | 344 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
- | [gnome-music]({{< ref "/f33/package/gnome-music.md" >}}) | 526 | 526 | 100.0 | Bulgarian <dict-notifications@fsa-bg.org> | 
- | [gnome-nettool]({{< ref "/f33/package/gnome-nettool.md" >}}) | 663 | 663 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
- | [gnome-nibbles]({{< ref "/f33/package/gnome-nibbles.md" >}}) | 447 | 447 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
- | [gnome-online-accounts]({{< ref "/f33/package/gnome-online-accounts.md" >}}) | 680 | 680 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
- | [gnome-packagekit]({{< ref "/f33/package/gnome-packagekit.md" >}}) | 5089 | 5089 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
- | [gnome-photos]({{< ref "/f33/package/gnome-photos.md" >}}) | 304 | 304 | 100.0 | Bulgarian <dict-notifications@fsa-bg.org> | 
- | [gnome-power-manager]({{< ref "/f33/package/gnome-power-manager.md" >}}) | 432 | 432 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
- | [gnome-robots]({{< ref "/f33/package/gnome-robots.md" >}}) | 597 | 597 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
- | [gnome-screenshot]({{< ref "/f33/package/gnome-screenshot.md" >}}) | 326 | 326 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
- | [gnome-search-tool]({{< ref "/f33/package/gnome-search-tool.md" >}}) | 1249 | 1249 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
- | [gnome-session]({{< ref "/f33/package/gnome-session.md" >}}) | 299 | 299 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
- | [gnome-settings-daemon]({{< ref "/f33/package/gnome-settings-daemon.md" >}}) | 3740 | 3740 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
- | [gnome-shell]({{< ref "/f33/package/gnome-shell.md" >}}) | 1691 | 1691 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
- | [gnome-shell-extensions]({{< ref "/f33/package/gnome-shell-extensions.md" >}}) | 388 | 388 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
- | [gnome-software]({{< ref "/f33/package/gnome-software.md" >}}) | 3546 | 3546 | 100.0 | Bulgarian <dict-notifications@fsa-bg.org> | 
- | [gnome-subtitles]({{< ref "/f33/package/gnome-subtitles.md" >}}) | 718 | 718 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
- | [gnome-sudoku]({{< ref "/f33/package/gnome-sudoku.md" >}}) | 398 | 398 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
- | [gnome-system-log]({{< ref "/f33/package/gnome-system-log.md" >}}) | 420 | 420 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
- | [gnome-system-monitor]({{< ref "/f33/package/gnome-system-monitor.md" >}}) | 1462 | 1462 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
- | [gnome-taquin]({{< ref "/f33/package/gnome-taquin.md" >}}) | 232 | 232 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
- | [gnome-terminal]({{< ref "/f33/package/gnome-terminal.md" >}}) | 2554 | 2554 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
- | [gnome-tetravex]({{< ref "/f33/package/gnome-tetravex.md" >}}) | 220 | 220 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
- | [gnome-themes-extra]({{< ref "/f33/package/gnome-themes-extra.md" >}}) | 15 | 15 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
- | [gnome-tweaks]({{< ref "/f33/package/gnome-tweaks.md" >}}) | 552 | 552 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
- | [gnome-user-share]({{< ref "/f33/package/gnome-user-share.md" >}}) | 52 | 52 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
- | [gnome-vfs2]({{< ref "/f33/package/gnome-vfs2.md" >}}) | 1519 | 1519 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
- | [gnome-video-effects]({{< ref "/f33/package/gnome-video-effects.md" >}}) | 256 | 256 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
- | [gnome-weather]({{< ref "/f33/package/gnome-weather.md" >}}) | 192 | 192 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
- | [gparted]({{< ref "/f33/package/gparted.md" >}}) | 2336 | 2336 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
- | [gpicview]({{< ref "/f33/package/gpicview.md" >}}) | 236 | 236 | 100.0 | MIME-Version: 1.0 | 
- | [grilo]({{< ref "/f33/package/grilo.md" >}}) | 194 | 194 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
- | [grilo-plugins]({{< ref "/f33/package/grilo-plugins.md" >}}) | 536 | 536 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
- | [gstreamer1-plugins-ugly-free]({{< ref "/f33/package/gstreamer1-plugins-ugly-free.md" >}}) | 80 | 80 | 100.0 | Bulgarian <dict@ludost.net> | 
- | [gthumb]({{< ref "/f33/package/gthumb.md" >}}) | 2563 | 2563 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
- | [gtk2-engines]({{< ref "/f33/package/gtk2-engines.md" >}}) | 119 | 119 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
- | [gtk3]({{< ref "/f33/package/gtk3.md" >}}) | 14466 | 14466 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
- | [gtk4]({{< ref "/f33/package/gtk4.md" >}}) | 14466 | 14466 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
- | [gtkhtml3]({{< ref "/f33/package/gtkhtml3.md" >}}) | 488 | 488 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
- | [gtksourceview2]({{< ref "/f33/package/gtksourceview2.md" >}}) | 1413 | 1413 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
- | [gtksourceview4]({{< ref "/f33/package/gtksourceview4.md" >}}) | 1142 | 1142 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
- | [gtranslator]({{< ref "/f33/package/gtranslator.md" >}}) | 1225 | 1225 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
- | [gvfs]({{< ref "/f33/package/gvfs.md" >}}) | 2851 | 2851 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
- | [hitori]({{< ref "/f33/package/hitori.md" >}}) | 174 | 174 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
- | [iagno]({{< ref "/f33/package/iagno.md" >}}) | 321 | 321 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
- | [indent]({{< ref "/f33/package/indent.md" >}}) | 261 | 261 | 100.0 | Bulgarian <dict@ludost.net> | 
- | [isomaster]({{< ref "/f33/package/isomaster.md" >}}) | 674 | 674 | 100.0 | American English <kde-i18n-doc@kde.org> | 
- | [json-glib]({{< ref "/f33/package/json-glib.md" >}}) | 226 | 226 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
- | [katomic]({{< ref "/f33/package/katomic.md" >}}) | 185 | 185 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
- | [kdiamond]({{< ref "/f33/package/kdiamond.md" >}}) | 122 | 122 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
- | [kdissert]({{< ref "/f33/package/kdissert.md" >}}) | 2027 | 2027 | 100.0 | Bulgarian <dict@linux.zonebg.com> | 
- | [kf5-kcompletion]({{< ref "/f33/package/kf5-kcompletion.md" >}}) | 18 | 18 | 100.0 | Bulgarian <dict@ludost.net> | 
- | [kf5-kdnssd]({{< ref "/f33/package/kf5-kdnssd.md" >}}) | 3 | 3 | 100.0 | Bulgarian <dict@ludost.net> | 
- | [kf5-kdoctools]({{< ref "/f33/package/kf5-kdoctools.md" >}}) | 8 | 8 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
- | [kf5-kitemviews]({{< ref "/f33/package/kf5-kitemviews.md" >}}) | 7 | 7 | 100.0 | Bulgarian <dict@ludost.net> | 
- | [kf5-kldap]({{< ref "/f33/package/kf5-kldap.md" >}}) | 33 | 33 | 100.0 | Bulgarian <dict@linux.zonebg.com> | 
- | [kf5-kmime]({{< ref "/f33/package/kf5-kmime.md" >}}) | 159 | 159 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
- | [kf5-kontactinterface]({{< ref "/f33/package/kf5-kontactinterface.md" >}}) | 4 | 4 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
- | [kf5-kpty]({{< ref "/f33/package/kf5-kpty.md" >}}) | 15 | 15 | 100.0 | Bulgarian <dict@ludost.net> | 
- | [kf5-kross]({{< ref "/f33/package/kf5-kross.md" >}}) | 100 | 100 | 100.0 | Bulgarian <dict@ludost.net> | 
- | [kf5-kwindowsystem]({{< ref "/f33/package/kf5-kwindowsystem.md" >}}) | 2 | 2 | 100.0 | Bulgarian <dict@ludost.net> | 
- | [kf5-kxmlrpcclient]({{< ref "/f33/package/kf5-kxmlrpcclient.md" >}}) | 13 | 13 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
- | [kf5-libkcompactdisc]({{< ref "/f33/package/kf5-libkcompactdisc.md" >}}) | 15 | 15 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
- | [kf5-libkgeomap]({{< ref "/f33/package/kf5-libkgeomap.md" >}}) | 139 | 139 | 100.0 | Bulgarian <dict@ludost.net> | 
- | [kflickr]({{< ref "/f33/package/kflickr.md" >}}) | 332 | 332 | 100.0 | Bulgarian <bg@li.org> | 
- | [kgamma]({{< ref "/f33/package/kgamma.md" >}}) | 130 | 130 | 100.0 | Bulgarian <dict@linux.zonebg.com> | 
- | [kgrab]({{< ref "/f33/package/kgrab.md" >}}) | 370 | 370 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
- | [kiconedit]({{< ref "/f33/package/kiconedit.md" >}}) | 726 | 726 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
- | [kio_gopher]({{< ref "/f33/package/kio_gopher.md" >}}) | 17 | 17 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
- | [ksig]({{< ref "/f33/package/ksig.md" >}}) | 85 | 85 | 100.0 | български <mailto:dict@fsa-bg.org> | 
- | [libbonobo]({{< ref "/f33/package/libbonobo.md" >}}) | 543 | 543 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
- | [libbonoboui]({{< ref "/f33/package/libbonoboui.md" >}}) | 368 | 368 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
- | [libcryptui]({{< ref "/f33/package/libcryptui.md" >}}) | 3012 | 3012 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
- | [libfilezilla]({{< ref "/f33/package/libfilezilla.md" >}}) | 402 | 402 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
- | [libgdata]({{< ref "/f33/package/libgdata.md" >}}) | 695 | 695 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
- | [libgdl]({{< ref "/f33/package/libgdl.md" >}}) | 592 | 592 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
- | [libgnome]({{< ref "/f33/package/libgnome.md" >}}) | 1773 | 1773 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
- | [libgnome-games-support]({{< ref "/f33/package/libgnome-games-support.md" >}}) | 43 | 43 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
- | [libgnome-keyring]({{< ref "/f33/package/libgnome-keyring.md" >}}) | 44 | 44 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
- | [libgnomecanvas]({{< ref "/f33/package/libgnomecanvas.md" >}}) | 378 | 378 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
- | [libgnomekbd]({{< ref "/f33/package/libgnomekbd.md" >}}) | 242 | 242 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
- | [libgnomeui]({{< ref "/f33/package/libgnomeui.md" >}}) | 1226 | 1226 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
- | [libgtop2]({{< ref "/f33/package/libgtop2.md" >}}) | 126 | 126 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
- | [libgweather]({{< ref "/f33/package/libgweather.md" >}}) | 6208 | 6208 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
- | [libmatemixer]({{< ref "/f33/package/libmatemixer.md" >}}) | 242 | 242 | 100.0 | Bulgarian (https://www.transifex.com/mate/teams/13566/bg/) | 
- | [libpeas]({{< ref "/f33/package/libpeas.md" >}}) | 105 | 105 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
- | [libsecret]({{< ref "/f33/package/libsecret.md" >}}) | 59 | 59 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
- | [libsoup]({{< ref "/f33/package/libsoup.md" >}}) | 155 | 155 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
- | [libwnck]({{< ref "/f33/package/libwnck.md" >}}) | 1124 | 1124 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
- | [libwnck3]({{< ref "/f33/package/libwnck3.md" >}}) | 1084 | 1084 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
- | [libxfce4ui]({{< ref "/f33/package/libxfce4ui.md" >}}) | 926 | 926 | 100.0 | Bulgarian (http://www.transifex.com/xfce/libxfce4ui/language/bg/) | 
- | [libxfce4util]({{< ref "/f33/package/libxfce4util.md" >}}) | 424 | 424 | 100.0 | Bulgarian (http://www.transifex.com/xfce/libxfce4util/language/bg/) | 
- | [lightdm-gtk]({{< ref "/f33/package/lightdm-gtk.md" >}}) | 87 | 87 | 100.0 | Bulgarian <bg@li.org> | 
- | [lightsoff]({{< ref "/f33/package/lightsoff.md" >}}) | 96 | 96 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
- | [lxappearance-obconf]({{< ref "/f33/package/lxappearance-obconf.md" >}}) | 196 | 196 | 100.0 | LANGUAGE <LL@li.org> | 
- | [lxdm]({{< ref "/f33/package/lxdm.md" >}}) | 47 | 47 | 100.0 | MIME-Version: 1.0 | 
- | [lxmenu-data]({{< ref "/f33/package/lxmenu-data.md" >}}) | 97 | 97 | 100.0 | MIME-Version: 1.0 | 
- | [lxmusic]({{< ref "/f33/package/lxmusic.md" >}}) | 203 | 203 | 100.0 | MIME-Version: 1.0 | 
- | [lxshortcut]({{< ref "/f33/package/lxshortcut.md" >}}) | 43 | 43 | 100.0 | MIME-Version: 1.0 | 
- | [man-db]({{< ref "/f33/package/man-db.md" >}}) | 206 | 206 | 100.0 | Bulgarian <dict@ludost.net> | 
- | [mate-icon-theme]({{< ref "/f33/package/mate-icon-theme.md" >}}) | 4 | 4 | 100.0 | Bulgarian (https://www.transifex.com/mate/teams/13566/bg/) | 
- | [mate-menus]({{< ref "/f33/package/mate-menus.md" >}}) | 97 | 97 | 100.0 | Bulgarian (https://www.transifex.com/mate/teams/13566/bg/) | 
- | [mate-polkit]({{< ref "/f33/package/mate-polkit.md" >}}) | 123 | 123 | 100.0 | Bulgarian (https://www.transifex.com/mate/teams/13566/bg/) | 
- | [meld]({{< ref "/f33/package/meld.md" >}}) | 1256 | 1256 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
- | [metacity]({{< ref "/f33/package/metacity.md" >}}) | 2040 | 2040 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
- | [midori]({{< ref "/f33/package/midori.md" >}}) | 3541 | 3541 | 100.0 | Bulgarian <bg@li.org> | 
- | [mingw-GConf2]({{< ref "/f33/package/mingw-GConf2.md" >}}) | 4088 | 4088 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
- | [mingw-atk]({{< ref "/f33/package/mingw-atk.md" >}}) | 440 | 440 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
- | [mingw-gdk-pixbuf]({{< ref "/f33/package/mingw-gdk-pixbuf.md" >}}) | 1372 | 1372 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
- | [mingw-glib-networking]({{< ref "/f33/package/mingw-glib-networking.md" >}}) | 163 | 163 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
- | [mingw-glib2]({{< ref "/f33/package/mingw-glib2.md" >}}) | 5755 | 5755 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
- | [mingw-gstreamer1]({{< ref "/f33/package/mingw-gstreamer1.md" >}}) | 2110 | 2110 | 100.0 | Bulgarian <dict@ludost.net> | 
- | [mingw-gstreamer1-plugins-base]({{< ref "/f33/package/mingw-gstreamer1-plugins-base.md" >}}) | 992 | 992 | 100.0 | Bulgarian <dict@ludost.net> | 
- | [mingw-gtk3]({{< ref "/f33/package/mingw-gtk3.md" >}}) | 14466 | 14466 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
- | [mingw-json-glib]({{< ref "/f33/package/mingw-json-glib.md" >}}) | 226 | 226 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
- | [mingw-libsoup]({{< ref "/f33/package/mingw-libsoup.md" >}}) | 155 | 155 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
- | [mingw-wxWidgets]({{< ref "/f33/package/mingw-wxWidgets.md" >}}) | 52 | 52 | 100.0 | <wx-translators@wxwindows.org> | 
- | [mingw-wxWidgets3]({{< ref "/f33/package/mingw-wxWidgets3.md" >}}) | 52 | 52 | 100.0 | <wx-translators@wxwindows.org> | 
- | [mousepad]({{< ref "/f33/package/mousepad.md" >}}) | 1108 | 1108 | 100.0 | Bulgarian (http://www.transifex.com/xfce/xfce-apps/language/bg/) | 
- | [mousetweaks]({{< ref "/f33/package/mousetweaks.md" >}}) | 114 | 114 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
- | [mozo]({{< ref "/f33/package/mozo.md" >}}) | 43 | 43 | 100.0 | Bulgarian (https://www.transifex.com/mate/teams/13566/bg/) | 
- | [muffin]({{< ref "/f33/package/muffin.md" >}}) | 2071 | 2071 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
- | [mutter]({{< ref "/f33/package/mutter.md" >}}) | 947 | 947 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
- | [nautilus]({{< ref "/f33/package/nautilus.md" >}}) | 5223 | 5223 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
- | [nautilus-image-converter]({{< ref "/f33/package/nautilus-image-converter.md" >}}) | 42 | 42 | 100.0 | Svetoslav Stefanov <lfu.project@gmail.com> | 
- | [nautilus-sendto]({{< ref "/f33/package/nautilus-sendto.md" >}}) | 45 | 45 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
- | [nemo-extensions]({{< ref "/f33/package/nemo-extensions.md" >}}) | 32 | 32 | 100.0 | Bulgarian <bg@li.org> | 
- | [newt]({{< ref "/f33/package/newt.md" >}}) | 4 | 4 | 100.0 | Bulgarian <dict@linux.zonebg.com> | 
- | [notification-daemon]({{< ref "/f33/package/notification-daemon.md" >}}) | 17 | 17 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
- | [orage]({{< ref "/f33/package/orage.md" >}}) | 2931 | 2931 | 100.0 | Bulgarian (http://www.transifex.com/projects/p/xfce-apps/language/bg/) | 
- | [orca]({{< ref "/f33/package/orca.md" >}}) | 18344 | 18344 | 100.0 | Bulgarian <dict-notifications@fsa-bg.org> | 
- | [parole]({{< ref "/f33/package/parole.md" >}}) | 1088 | 1088 | 100.0 | Bulgarian (http://www.transifex.com/xfce/xfce-apps/language/bg/) | 
- | [photocollage]({{< ref "/f33/package/photocollage.md" >}}) | 46 | 46 | 100.0 | spacy00001@gmail.com | 
- | [php-horde-Horde-LoginTasks]({{< ref "/f33/package/php-horde-Horde-LoginTasks.md" >}}) | 6 | 6 | 100.0 | i18n@lists.horde.org | 
- | [php-horde-Horde-Perms]({{< ref "/f33/package/php-horde-Horde-Perms.md" >}}) | 6 | 6 | 100.0 | i18n@lists.horde.org | 
- | [php-horde-imp]({{< ref "/f33/package/php-horde-imp.md" >}}) | 3028 | 3028 | 100.0 | BG i18n@lists.horde.org | 
- | [php-horde-kronolith]({{< ref "/f33/package/php-horde-kronolith.md" >}}) | 919 | 919 | 100.0 | BG i18n@lists.horde.org | 
- | [php-horde-mnemo]({{< ref "/f33/package/php-horde-mnemo.md" >}}) | 438 | 438 | 100.0 | BG i18n@lists.horde.org | 
- | [php-horde-nag]({{< ref "/f33/package/php-horde-nag.md" >}}) | 560 | 560 | 100.0 | BG i18n@lists.horde.org | 
- | [php-horde-passwd]({{< ref "/f33/package/php-horde-passwd.md" >}}) | 306 | 306 | 100.0 | BG i18n@lists.horde.org | 
- | [php-horde-turba]({{< ref "/f33/package/php-horde-turba.md" >}}) | 644 | 644 | 100.0 | BG i18n@lists.horde.org | 
- | [pidgin-libnotify]({{< ref "/f33/package/pidgin-libnotify.md" >}}) | 36 | 36 | 100.0 | BULGARIAN <LL@li.org> | 
- | [piper]({{< ref "/f33/package/piper.md" >}}) | 492 | 492 | 100.0 | Bulgarian <> | 
- | [plank]({{< ref "/f33/package/plank.md" >}}) | 189 | 189 | 100.0 | Bulgarian <bg@li.org> | 
- | [plasma-applet-weather-widget]({{< ref "/f33/package/plasma-applet-weather-widget.md" >}}) | 166 | 166 | 100.0 | bvbfan | 
- | [poedit]({{< ref "/f33/package/poedit.md" >}}) | 2916 | 2916 | 100.0 | Bulgarian | 
- | [polkit-gnome]({{< ref "/f33/package/polkit-gnome.md" >}}) | 94 | 94 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
- | [python-SecretStorage]({{< ref "/f33/package/python-SecretStorage.md" >}}) | 59 | 59 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
- | [python-django-filter]({{< ref "/f33/package/python-django-filter.md" >}}) | 86 | 86 | 100.0 |  | 
- | [python-django-registration]({{< ref "/f33/package/python-django-registration.md" >}}) | 81 | 81 | 100.0 | LANGUAGE <LL@li.org> | 
- | [python-wxpython4]({{< ref "/f33/package/python-wxpython4.md" >}}) | 52 | 52 | 100.0 | <wx-translators@wxwindows.org> | 
- | [qemu]({{< ref "/f33/package/qemu.md" >}}) | 35 | 35 | 100.0 | Bulgarian <dict@ludost.net> | 
- | [qtwebkit]({{< ref "/f33/package/qtwebkit.md" >}}) | 1130 | 1130 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
- | [quadrapassel]({{< ref "/f33/package/quadrapassel.md" >}}) | 428 | 428 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
- | [redhat-menus]({{< ref "/f33/package/redhat-menus.md" >}}) | 261 | 261 | 100.0 | Bulgarian <bg@li.org> | 
- | [regexxer]({{< ref "/f33/package/regexxer.md" >}}) | 467 | 467 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
- | [rhythmbox]({{< ref "/f33/package/rhythmbox.md" >}}) | 4089 | 4089 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
- | [rhythmbox-alternative-toolbar]({{< ref "/f33/package/rhythmbox-alternative-toolbar.md" >}}) | 294 | 294 | 100.0 | Bulgarian <bg@li.org> | 
- | [ristretto]({{< ref "/f33/package/ristretto.md" >}}) | 598 | 598 | 100.0 | Bulgarian (http://www.transifex.com/xfce/xfce-apps/language/bg/) | 
- | [rygel]({{< ref "/f33/package/rygel.md" >}}) | 1624 | 1624 | 100.0 | Bulgarian <dict-notifications@fsa-bg.org> | 
- | [seahorse]({{< ref "/f33/package/seahorse.md" >}}) | 2494 | 2494 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
- | [seahorse-caja]({{< ref "/f33/package/seahorse-caja.md" >}}) | 421 | 421 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
- | [seahorse-nautilus]({{< ref "/f33/package/seahorse-nautilus.md" >}}) | 421 | 421 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
- | [sed]({{< ref "/f33/package/sed.md" >}}) | 830 | 830 | 100.0 | Bulgarian <dict@ludost.net> | 
- | [setuptool]({{< ref "/f33/package/setuptool.md" >}}) | 55 | 55 | 100.0 | Bulgarian <Bulgarian Translators' Team <dict@fsa-bg.org>> | 
- | [shared-mime-info]({{< ref "/f33/package/shared-mime-info.md" >}}) | 1991 | 1991 | 100.0 | Bulgarian (http://www.transifex.com/freedesktop/shared-mime-info/language/bg/) | 
- | [slick-greeter]({{< ref "/f33/package/slick-greeter.md" >}}) | 211 | 211 | 100.0 | Bulgarian <bg@li.org> | 
- | [sound-juicer]({{< ref "/f33/package/sound-juicer.md" >}}) | 986 | 986 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
- | [supertuxkart]({{< ref "/f33/package/supertuxkart.md" >}}) | 5556 | 5556 | 100.0 | Bulgarian (http://www.transifex.com/supertuxkart/supertuxkart/language/bg/) | 
- | [sushi]({{< ref "/f33/package/sushi.md" >}}) | 24 | 24 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
- | [svgpart]({{< ref "/f33/package/svgpart.md" >}}) | 22 | 22 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
- | [swell-foop]({{< ref "/f33/package/swell-foop.md" >}}) | 264 | 264 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
- | [system-config-rootpassword]({{< ref "/f33/package/system-config-rootpassword.md" >}}) | 116 | 116 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
- | [systemd]({{< ref "/f33/package/systemd.md" >}}) | 972 | 972 | 100.0 | Bulgarian <dict@ludost.net> | 
- | [tali]({{< ref "/f33/package/tali.md" >}}) | 421 | 421 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
- | [taxi]({{< ref "/f33/package/taxi.md" >}}) | 62 | 62 | 100.0 | LANGUAGE <LL@li.org> | 
- | [thunar-archive-plugin]({{< ref "/f33/package/thunar-archive-plugin.md" >}}) | 86 | 86 | 100.0 | Bulgarian (http://www.transifex.com/xfce/thunar-plugins/language/bg/) | 
- | [thunar-media-tags-plugin]({{< ref "/f33/package/thunar-media-tags-plugin.md" >}}) | 156 | 156 | 100.0 | Bulgarian (http://www.transifex.com/xfce/thunar-plugins/language/bg/) | 
- | [thunar-vcs-plugin]({{< ref "/f33/package/thunar-vcs-plugin.md" >}}) | 614 | 614 | 100.0 | Bulgarian (http://www.transifex.com/xfce/thunar-plugins/language/bg/) | 
- | [thunar-volman]({{< ref "/f33/package/thunar-volman.md" >}}) | 499 | 499 | 100.0 | Bulgarian (http://www.transifex.com/xfce/thunar-volman/language/bg/) | 
- | [tigervnc]({{< ref "/f33/package/tigervnc.md" >}}) | 697 | 697 | 100.0 | Bulgarian <dict@ludost.net> | 
- | [tomboy]({{< ref "/f33/package/tomboy.md" >}}) | 3318 | 3318 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
- | [totem-pl-parser]({{< ref "/f33/package/totem-pl-parser.md" >}}) | 29 | 29 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
- | [transmission]({{< ref "/f33/package/transmission.md" >}}) | 1998 | 1998 | 100.0 | Bulgarian (https://www.transifex.com/transmissionbt/teams/33778/bg/) | 
- | [trytond-account-invoice-history]({{< ref "/f33/package/trytond-account-invoice-history.md" >}}) | 2 | 2 | 100.0 |  | 
- | [trytond-company-work-time]({{< ref "/f33/package/trytond-company-work-time.md" >}}) | 18 | 18 | 100.0 |  | 
- | [trytond-google-maps]({{< ref "/f33/package/trytond-google-maps.md" >}}) | 2 | 2 | 100.0 |  | 
- | [trytond-sale-price-list]({{< ref "/f33/package/trytond-sale-price-list.md" >}}) | 5 | 5 | 100.0 |  | 
- | [trytond-stock-inventory-location]({{< ref "/f33/package/trytond-stock-inventory-location.md" >}}) | 17 | 17 | 100.0 |  | 
- | [trytond-stock-location-sequence]({{< ref "/f33/package/trytond-stock-location-sequence.md" >}}) | 1 | 1 | 100.0 |  | 
- | [trytond-stock-product-location]({{< ref "/f33/package/trytond-stock-product-location.md" >}}) | 23 | 23 | 100.0 |  | 
- | [trytond-stock-supply-day]({{< ref "/f33/package/trytond-stock-supply-day.md" >}}) | 27 | 27 | 100.0 |  | 
- | [tumbler]({{< ref "/f33/package/tumbler.md" >}}) | 241 | 241 | 100.0 | Bulgarian (http://www.transifex.com/xfce/tumbler/language/bg/) | 
- | [vinagre]({{< ref "/f33/package/vinagre.md" >}}) | 1510 | 1510 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
- | [vino]({{< ref "/f33/package/vino.md" >}}) | 973 | 973 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
- | [vte]({{< ref "/f33/package/vte.md" >}}) | 80 | 80 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
- | [vte291]({{< ref "/f33/package/vte291.md" >}}) | 31 | 31 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
- | [webkit2gtk3]({{< ref "/f33/package/webkit2gtk3.md" >}}) | 1606 | 1606 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
- | [wxGTK]({{< ref "/f33/package/wxGTK.md" >}}) | 52 | 52 | 100.0 | <wx-translators@wxwidgets.org> | 
- | [wxGTK3]({{< ref "/f33/package/wxGTK3.md" >}}) | 52 | 52 | 100.0 | <wx-translators@wxwindows.org> | 
- | [xdg-user-dirs]({{< ref "/f33/package/xdg-user-dirs.md" >}}) | 28 | 28 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
- | [xdg-user-dirs-gtk]({{< ref "/f33/package/xdg-user-dirs-gtk.md" >}}) | 81 | 81 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
- | [xen]({{< ref "/f33/package/xen.md" >}}) | 35 | 35 | 100.0 | Bulgarian <dict@ludost.net> | 
- | [xfbib]({{< ref "/f33/package/xfbib.md" >}}) | 342 | 342 | 100.0 | Bulgarian | 
- | [xfburn]({{< ref "/f33/package/xfburn.md" >}}) | 1572 | 1572 | 100.0 | Bulgarian (http://www.transifex.com/xfce/xfce-apps/language/bg/) | 
- | [xfce4-appfinder]({{< ref "/f33/package/xfce4-appfinder.md" >}}) | 410 | 410 | 100.0 | Bulgarian (http://www.transifex.com/xfce/xfce4-appfinder/language/bg/) | 
- | [xfce4-battery-plugin]({{< ref "/f33/package/xfce4-battery-plugin.md" >}}) | 147 | 147 | 100.0 | Bulgarian (http://www.transifex.com/xfce/xfce-panel-plugins/language/bg/) | 
- | [xfce4-calculator-plugin]({{< ref "/f33/package/xfce4-calculator-plugin.md" >}}) | 35 | 35 | 100.0 | Bulgarian (https://www.transifex.com/xfce/teams/16840/bg/) | 
- | [xfce4-clipman-plugin]({{< ref "/f33/package/xfce4-clipman-plugin.md" >}}) | 528 | 528 | 100.0 | Bulgarian (http://www.transifex.com/xfce/xfce-panel-plugins/language/bg/) | 
- | [xfce4-cpufreq-plugin]({{< ref "/f33/package/xfce4-cpufreq-plugin.md" >}}) | 146 | 146 | 100.0 | Bulgarian (http://www.transifex.com/xfce/xfce-panel-plugins/language/bg/) | 
- | [xfce4-cpugraph-plugin]({{< ref "/f33/package/xfce4-cpugraph-plugin.md" >}}) | 77 | 77 | 100.0 | Bulgarian (http://www.transifex.com/xfce/xfce-panel-plugins/language/bg/) | 
- | [xfce4-datetime-plugin]({{< ref "/f33/package/xfce4-datetime-plugin.md" >}}) | 52 | 52 | 100.0 | Bulgarian (http://www.transifex.com/xfce/xfce-panel-plugins/language/bg/) | 
- | [xfce4-dict]({{< ref "/f33/package/xfce4-dict.md" >}}) | 529 | 529 | 100.0 | Bulgarian (http://www.transifex.com/xfce/xfce-apps/language/bg/) | 
- | [xfce4-diskperf-plugin]({{< ref "/f33/package/xfce4-diskperf-plugin.md" >}}) | 181 | 181 | 100.0 | Bulgarian (http://www.transifex.com/xfce/xfce-panel-plugins/language/bg/) | 
- | [xfce4-embed-plugin]({{< ref "/f33/package/xfce4-embed-plugin.md" >}}) | 219 | 219 | 100.0 | Bulgarian (http://www.transifex.com/projects/p/xfce-panel-plugins/language/bg/) | 
- | [xfce4-eyes-plugin]({{< ref "/f33/package/xfce4-eyes-plugin.md" >}}) | 16 | 16 | 100.0 | Bulgarian (http://www.transifex.com/xfce/xfce-panel-plugins/language/bg/) | 
- | [xfce4-fsguard-plugin]({{< ref "/f33/package/xfce4-fsguard-plugin.md" >}}) | 71 | 71 | 100.0 | Bulgarian (http://www.transifex.com/xfce/xfce-panel-plugins/language/bg/) | 
- | [xfce4-genmon-plugin]({{< ref "/f33/package/xfce4-genmon-plugin.md" >}}) | 56 | 56 | 100.0 | Bulgarian (http://www.transifex.com/xfce/xfce-panel-plugins/language/bg/) | 
- | [xfce4-hardware-monitor-plugin]({{< ref "/f33/package/xfce4-hardware-monitor-plugin.md" >}}) | 356 | 356 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
- | [xfce4-mailwatch-plugin]({{< ref "/f33/package/xfce4-mailwatch-plugin.md" >}}) | 685 | 685 | 100.0 | Bulgarian (http://www.transifex.com/projects/p/xfce/language/bg/) | 
- | [xfce4-mpc-plugin]({{< ref "/f33/package/xfce4-mpc-plugin.md" >}}) | 78 | 78 | 100.0 | Bulgarian (http://www.transifex.com/xfce/xfce-panel-plugins/language/bg/) | 
- | [xfce4-netload-plugin]({{< ref "/f33/package/xfce4-netload-plugin.md" >}}) | 91 | 91 | 100.0 | Bulgarian (http://www.transifex.com/xfce/xfce-panel-plugins/language/bg/) | 
- | [xfce4-notes-plugin]({{< ref "/f33/package/xfce4-notes-plugin.md" >}}) | 163 | 163 | 100.0 | Bulgarian (http://www.transifex.com/projects/p/xfce/language/bg/) | 
- | [xfce4-notifyd]({{< ref "/f33/package/xfce4-notifyd.md" >}}) | 325 | 325 | 100.0 | Bulgarian (http://www.transifex.com/xfce/xfce-apps/language/bg/) | 
- | [xfce4-panel]({{< ref "/f33/package/xfce4-panel.md" >}}) | 1691 | 1691 | 100.0 | Bulgarian (https://www.transifex.com/xfce/teams/16840/bg/) | 
- | [xfce4-panel-profiles]({{< ref "/f33/package/xfce4-panel-profiles.md" >}}) | 99 | 99 | 100.0 | Bulgarian (https://www.transifex.com/xfce/teams/16840/bg/) | 
- | [xfce4-places-plugin]({{< ref "/f33/package/xfce4-places-plugin.md" >}}) | 162 | 162 | 100.0 | Bulgarian (http://www.transifex.com/xfce/xfce-panel-plugins/language/bg/) | 
- | [xfce4-power-manager]({{< ref "/f33/package/xfce4-power-manager.md" >}}) | 1046 | 1046 | 100.0 | Bulgarian (http://www.transifex.com/xfce/xfce4-power-manager/language/bg/) | 
- | [xfce4-pulseaudio-plugin]({{< ref "/f33/package/xfce4-pulseaudio-plugin.md" >}}) | 148 | 148 | 100.0 | Bulgarian (http://www.transifex.com/xfce/xfce-panel-plugins/language/bg/) | 
- | [xfce4-screensaver]({{< ref "/f33/package/xfce4-screensaver.md" >}}) | 697 | 697 | 100.0 | Bulgarian (https://www.transifex.com/xfce/teams/16840/bg/) | 
- | [xfce4-screenshooter]({{< ref "/f33/package/xfce4-screenshooter.md" >}}) | 487 | 487 | 100.0 | Bulgarian (http://www.transifex.com/xfce/xfce-apps/language/bg/) | 
- | [xfce4-sensors-plugin]({{< ref "/f33/package/xfce4-sensors-plugin.md" >}}) | 390 | 390 | 100.0 | Bulgarian (http://www.transifex.com/xfce/xfce-panel-plugins/language/bg/) | 
- | [xfce4-session]({{< ref "/f33/package/xfce4-session.md" >}}) | 798 | 798 | 100.0 | Bulgarian (https://www.transifex.com/xfce/teams/16840/bg/) | 
- | [xfce4-settings]({{< ref "/f33/package/xfce4-settings.md" >}}) | 1940 | 1940 | 100.0 | Bulgarian (https://www.transifex.com/xfce/teams/16840/bg/) | 
- | [xfce4-smartbookmark-plugin]({{< ref "/f33/package/xfce4-smartbookmark-plugin.md" >}}) | 22 | 22 | 100.0 | Bulgarian (http://www.transifex.com/xfce/xfce-panel-plugins/language/bg/) | 
- | [xfce4-statusnotifier-plugin]({{< ref "/f33/package/xfce4-statusnotifier-plugin.md" >}}) | 129 | 129 | 100.0 | Bulgarian (https://www.transifex.com/xfce/teams/16840/bg/) | 
- | [xfce4-systemload-plugin]({{< ref "/f33/package/xfce4-systemload-plugin.md" >}}) | 87 | 87 | 100.0 | Bulgarian (http://www.transifex.com/xfce/xfce-panel-plugins/language/bg/) | 
- | [xfce4-taskmanager]({{< ref "/f33/package/xfce4-taskmanager.md" >}}) | 259 | 259 | 100.0 | Bulgarian (http://www.transifex.com/xfce/xfce-apps/language/bg/) | 
- | [xfce4-terminal]({{< ref "/f33/package/xfce4-terminal.md" >}}) | 1725 | 1725 | 100.0 | Bulgarian (http://www.transifex.com/xfce/xfce-apps/language/bg/) | 
- | [xfce4-time-out-plugin]({{< ref "/f33/package/xfce4-time-out-plugin.md" >}}) | 106 | 106 | 100.0 | Bulgarian (http://www.transifex.com/xfce/xfce-panel-plugins/language/bg/) | 
- | [xfce4-timer-plugin]({{< ref "/f33/package/xfce4-timer-plugin.md" >}}) | 135 | 135 | 100.0 | Bulgarian (http://www.transifex.com/xfce/xfce-panel-plugins/language/bg/) | 
- | [xfce4-verve-plugin]({{< ref "/f33/package/xfce4-verve-plugin.md" >}}) | 108 | 108 | 100.0 | Bulgarian (http://www.transifex.com/xfce/xfce-panel-plugins/language/bg/) | 
- | [xfce4-wavelan-plugin]({{< ref "/f33/package/xfce4-wavelan-plugin.md" >}}) | 67 | 67 | 100.0 | Bulgarian (http://www.transifex.com/xfce/xfce-panel-plugins/language/bg/) | 
- | [xfce4-weather-plugin]({{< ref "/f33/package/xfce4-weather-plugin.md" >}}) | 3676 | 3676 | 100.0 | Bulgarian (http://www.transifex.com/xfce/xfce-panel-plugins/language/bg/) | 
- | [xfce4-whiskermenu-plugin]({{< ref "/f33/package/xfce4-whiskermenu-plugin.md" >}}) | 386 | 386 | 100.0 | Bulgarian (http://www.transifex.com/gottcode/xfce4-whiskermenu-plugin/language/bg/) | 
- | [xfce4-xkb-plugin]({{< ref "/f33/package/xfce4-xkb-plugin.md" >}}) | 57 | 57 | 100.0 | Bulgarian (http://www.transifex.com/xfce/xfce-panel-plugins/language/bg/) | 
- | [xfconf]({{< ref "/f33/package/xfconf.md" >}}) | 458 | 458 | 100.0 | Bulgarian (http://www.transifex.com/xfce/xfconf/language/bg/) | 
- | [xfdesktop]({{< ref "/f33/package/xfdesktop.md" >}}) | 1037 | 1037 | 100.0 | Bulgarian (https://www.transifex.com/xfce/teams/16840/bg/) | 
- | [xfmpc]({{< ref "/f33/package/xfmpc.md" >}}) | 175 | 175 | 100.0 | Bulgarian (http://www.transifex.com/xfce/xfce-apps/language/bg/) | 
- | [xfwm4]({{< ref "/f33/package/xfwm4.md" >}}) | 632 | 632 | 100.0 | Bulgarian (https://www.transifex.com/xfce/teams/16840/bg/) | 
- | [yelp]({{< ref "/f33/package/yelp.md" >}}) | 284 | 284 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
- | [yelp-xsl]({{< ref "/f33/package/yelp-xsl.md" >}}) | 81 | 81 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
- | [zenity]({{< ref "/f33/package/zenity.md" >}}) | 3060 | 3060 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
- | [libreoffice]({{< ref "/f33/package/libreoffice.md" >}}) | 590588 | 590651 | 100.0 | LANGUAGE <LL@li.org> | 
- | [koffice-kivio]({{< ref "/f33/package/koffice-kivio.md" >}}) | 8415 | 8417 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
- | [gtk2]({{< ref "/f33/package/gtk2.md" >}}) | 13699 | 13704 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
- | [mingw-gtk2]({{< ref "/f33/package/mingw-gtk2.md" >}}) | 13699 | 13704 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
- | [fragments]({{< ref "/f33/package/fragments.md" >}}) | 2005 | 2006 | 100.0 | Bulgarian (https://www.transifex.com/transmissionbt/teams/33778/bg/) | 
- | [gnome-applets]({{< ref "/f33/package/gnome-applets.md" >}}) | 7627 | 7634 | 99.9 | Bulgarian <dict@fsa-bg.org> | 
- | [pitivi]({{< ref "/f33/package/pitivi.md" >}}) | 1461 | 1463 | 99.9 | Bulgarian <dict@fsa-bg.org> | 
- | [mingw-gstreamer]({{< ref "/f33/package/mingw-gstreamer.md" >}}) | 1914 | 1917 | 99.8 | Bulgarian <dict@fsa-bg.org> | 
- | [xed]({{< ref "/f33/package/xed.md" >}}) | 10368 | 10385 | 99.8 | Bulgarian <dict@fsa-bg.org> | 
- | [guayadeque]({{< ref "/f33/package/guayadeque.md" >}}) | 3319 | 3326 | 99.8 | Bulgarian (http://www.transifex.com/projects/p/guayadeque/language/bg/) | 
- | [make]({{< ref "/f33/package/make.md" >}}) | 2265 | 2272 | 99.7 | Bulgarian <dict@ludost.net> | 
- | [avahi]({{< ref "/f33/package/avahi.md" >}}) | 865 | 868 | 99.7 | Bulgarian (http://www.transifex.com/lennart/avahi/language/bg/) | 
- | [libmateweather]({{< ref "/f33/package/libmateweather.md" >}}) | 6113 | 6142 | 99.5 | Bulgarian (https://www.transifex.com/mate/teams/13566/bg/) | 
- | [xmms]({{< ref "/f33/package/xmms.md" >}}) | 3424 | 3443 | 99.4 | <bg@li.org> | 
- | [filezilla]({{< ref "/f33/package/filezilla.md" >}}) | 10645 | 10707 | 99.4 | Bulgarian <dict@fsa-bg.org> | 
- | [mingw-gstreamer-plugins-base]({{< ref "/f33/package/mingw-gstreamer-plugins-base.md" >}}) | 902 | 908 | 99.3 | Bulgarian <dict@fsa-bg.org> | 
- | [xreader]({{< ref "/f33/package/xreader.md" >}}) | 3420 | 3446 | 99.2 | Bulgarian <dict@fsa-bg.org> | 
- | [lxtask]({{< ref "/f33/package/lxtask.md" >}}) | 129 | 130 | 99.2 | MIME-Version: 1.0 | 
- | [tracker]({{< ref "/f33/package/tracker.md" >}}) | 3774 | 3804 | 99.2 | Bulgarian <dict@fsa-bg.org> | 
- | [tracker-miners]({{< ref "/f33/package/tracker-miners.md" >}}) | 3774 | 3804 | 99.2 | Bulgarian <dict@fsa-bg.org> | 
- | [tracker3]({{< ref "/f33/package/tracker3.md" >}}) | 3774 | 3804 | 99.2 | Bulgarian <dict@fsa-bg.org> | 
- | [tracker3-miners]({{< ref "/f33/package/tracker3-miners.md" >}}) | 3774 | 3804 | 99.2 | Bulgarian <dict@fsa-bg.org> | 
- | [tar]({{< ref "/f33/package/tar.md" >}}) | 3626 | 3656 | 99.2 | Bulgarian <dict@ludost.net> | 
- | [xkeyboard-config]({{< ref "/f33/package/xkeyboard-config.md" >}}) | 3927 | 3969 | 98.9 | Bulgarian <dict@ludost.net> | 
- | [kmag]({{< ref "/f33/package/kmag.md" >}}) | 427 | 432 | 98.8 | Bulgarian <dict@ludost.net> | 
- | [playonlinux]({{< ref "/f33/package/playonlinux.md" >}}) | 2694 | 2728 | 98.8 | Svetoslav Stefanov <lfu.project@gmail.com> | 
- | [kf5-libkcddb]({{< ref "/f33/package/kf5-libkcddb.md" >}}) | 470 | 476 | 98.7 | Bulgarian <dict@fsa-bg.org> | 
- | [sweeper]({{< ref "/f33/package/sweeper.md" >}}) | 225 | 228 | 98.7 | Bulgarian <dict@linux.zonebg.com> | 
- | [cinnamon-translations]({{< ref "/f33/package/cinnamon-translations.md" >}}) | 22742 | 23046 | 98.7 | Bulgarian <bg@li.org> | 
- | [mingw-gettext]({{< ref "/f33/package/mingw-gettext.md" >}}) | 7520 | 7622 | 98.7 | Bulgarian <dict@ludost.net> | 
- | [pragha]({{< ref "/f33/package/pragha.md" >}}) | 878 | 890 | 98.7 | Bulgarian (http://www.transifex.com/p/Pragha/language/bg/) | 
- | [supertux]({{< ref "/f33/package/supertux.md" >}}) | 3434 | 3483 | 98.6 | Bulgarian (http://www.transifex.com/arctic-games/supertux/language/bg/) | 
- | [trytond-country]({{< ref "/f33/package/trytond-country.md" >}}) | 7427 | 7539 | 98.5 |  | 
- | [bleachbit]({{< ref "/f33/package/bleachbit.md" >}}) | 974 | 989 | 98.5 | Svetoslav Stefanov <lfu.project@gmail.com> | 
- | [gstreamer1-plugins-bad-free]({{< ref "/f33/package/gstreamer1-plugins-bad-free.md" >}}) | 194 | 197 | 98.5 | Bulgarian <dict@ludost.net> | 
- | [mingw-gstreamer1-plugins-bad-free]({{< ref "/f33/package/mingw-gstreamer1-plugins-bad-free.md" >}}) | 194 | 197 | 98.5 | Bulgarian <dict@ludost.net> | 
- | [leafpad]({{< ref "/f33/package/leafpad.md" >}}) | 123 | 125 | 98.4 | Bulgarian <dict@fsa-bg.org> | 
- | [chemtool]({{< ref "/f33/package/chemtool.md" >}}) | 1165 | 1184 | 98.4 | Svetoslav Stefanov <lfu.project@gmail.com> | 
- | [kdf]({{< ref "/f33/package/kdf.md" >}}) | 178 | 181 | 98.3 | Bulgarian <dict@linux.zonebg.com> | 
- | [gstreamer1]({{< ref "/f33/package/gstreamer1.md" >}}) | 2074 | 2110 | 98.3 | Bulgarian <dict@ludost.net> | 
- | [purple-telegram]({{< ref "/f33/package/purple-telegram.md" >}}) | 644 | 656 | 98.2 | Bulgarian (http://www.transifex.com/telegram-purple-developers/telegram-purple/language/bg/) | 
- | [centerim]({{< ref "/f33/package/centerim.md" >}}) | 2806 | 2864 | 98.0 | Bulgarian <bg@li.org> | 
- | [gnome-panel]({{< ref "/f33/package/gnome-panel.md" >}}) | 3447 | 3520 | 97.9 | Bulgarian <dict@fsa-bg.org> | 
- | [mate-menu]({{< ref "/f33/package/mate-menu.md" >}}) | 301 | 308 | 97.7 | Bulgarian (http://www.transifex.com/mate/MATE/language/bg/) | 
- | [kbounce]({{< ref "/f33/package/kbounce.md" >}}) | 150 | 154 | 97.4 | Bulgarian <dict@fsa-bg.org> | 
- | [kf5-kiconthemes]({{< ref "/f33/package/kf5-kiconthemes.md" >}}) | 36 | 37 | 97.3 | Bulgarian <dict@ludost.net> | 
- | [kblackbox]({{< ref "/f33/package/kblackbox.md" >}}) | 1327 | 1364 | 97.3 | Bulgarian <dict@fsa-bg.org> | 
- | [clutter]({{< ref "/f33/package/clutter.md" >}}) | 2963 | 3057 | 96.9 | Bulgarian <dict@fsa-bg.org> | 
- | [gnome-calculator]({{< ref "/f33/package/gnome-calculator.md" >}}) | 7138 | 7365 | 96.9 | LANGUAGE <LL@li.org> | 
- | [olpc-switch-desktop]({{< ref "/f33/package/olpc-switch-desktop.md" >}}) | 153 | 158 | 96.8 | LANGUAGE <LL@li.org> | 
- | [epiphany]({{< ref "/f33/package/epiphany.md" >}}) | 2698 | 2787 | 96.8 | Bulgarian <dict@fsa-bg.org> | 
- | [gedit-plugins]({{< ref "/f33/package/gedit-plugins.md" >}}) | 8392 | 8670 | 96.8 | Bulgarian <dict@fsa-bg.org> | 
- | [pacman]({{< ref "/f33/package/pacman.md" >}}) | 5020 | 5189 | 96.7 | Bulgarian (http://www.transifex.com/toofishes/archlinux-pacman/language/bg/) | 
- | [gnote]({{< ref "/f33/package/gnote.md" >}}) | 2005 | 2074 | 96.7 | Svetoslav Stefanov <lfu.project@gmail.com> | 
- | [mate-screensaver]({{< ref "/f33/package/mate-screensaver.md" >}}) | 986 | 1020 | 96.7 | Bulgarian (https://www.transifex.com/mate/teams/13566/bg/) | 
- | [libpwquality]({{< ref "/f33/package/libpwquality.md" >}}) | 333 | 345 | 96.5 | Bulgarian <https://translate.stg.fedoraproject.org/projects/libpwquality/app/bg/> | 
- | [proftpd]({{< ref "/f33/package/proftpd.md" >}}) | 1061 | 1100 | 96.5 | Bulgarian | 
- | [grep]({{< ref "/f33/package/grep.md" >}}) | 834 | 866 | 96.3 | Bulgarian <dict@ludost.net> | 
- | [trytond-product-cost-history]({{< ref "/f33/package/trytond-product-cost-history.md" >}}) | 26 | 27 | 96.3 |  | 
- | [kfind]({{< ref "/f33/package/kfind.md" >}}) | 486 | 505 | 96.2 | Bulgarian <dict@fsa-bg.org> | 
- | [kf5-ktextwidgets]({{< ref "/f33/package/kf5-ktextwidgets.md" >}}) | 454 | 473 | 96.0 | Bulgarian <dict@ludost.net> | 
- | [deepin-terminal]({{< ref "/f33/package/deepin-terminal.md" >}}) | 439 | 458 | 95.9 | Bulgarian (https://www.transifex.com/linuxdeepin/teams/3976/bg/) | 
- | [tagtool]({{< ref "/f33/package/tagtool.md" >}}) | 918 | 958 | 95.8 | Bulgarian <dict@linux.zonebg.com> | 
- | [trytond-company]({{< ref "/f33/package/trytond-company.md" >}}) | 113 | 118 | 95.8 |  | 
- | [ganyremote]({{< ref "/f33/package/ganyremote.md" >}}) | 495 | 517 | 95.7 | Bulgarian <s.popov@rsc.bg> | 
- | [clementine]({{< ref "/f33/package/clementine.md" >}}) | 5025 | 5251 | 95.7 | Bulgarian (http://www.transifex.com/davidsansome/clementine/language/bg/) | 
- | [kanyremote]({{< ref "/f33/package/kanyremote.md" >}}) | 484 | 506 | 95.7 | Bulgarian <s.popov@rsc.bg> | 
- | [libuser]({{< ref "/f33/package/libuser.md" >}}) | 1374 | 1437 | 95.6 | Bulgarian (http://www.transifex.com/projects/p/fedora/language/bg/) | 
- | [kblocks]({{< ref "/f33/package/kblocks.md" >}}) | 152 | 159 | 95.6 | Bulgarian <dict@fsa-bg.org> | 
- | [python-django-contrib-comments]({{< ref "/f33/package/python-django-contrib-comments.md" >}}) | 233 | 244 | 95.5 | Bulgarian (http://www.transifex.com/django/django-contrib-comments/language/bg/) | 
- | [kfloppy]({{< ref "/f33/package/kfloppy.md" >}}) | 611 | 641 | 95.3 | Bulgarian <dict@linux.zonebg.com> | 
- | [boinc-client]({{< ref "/f33/package/boinc-client.md" >}}) | 6480 | 6800 | 95.3 | Bulgarian (http://www.transifex.com/boinc/boinc/language/bg/) | 
- | [bovo]({{< ref "/f33/package/bovo.md" >}}) | 77 | 81 | 95.1 | Bulgarian <dict@fsa-bg.org> | 
- | [lightdm-settings]({{< ref "/f33/package/lightdm-settings.md" >}}) | 305 | 321 | 95.0 | Bulgarian <bg@li.org> | 
- | [clamtk]({{< ref "/f33/package/clamtk.md" >}}) | 446 | 470 | 94.9 | Bulgarian <bg@li.org> | 
- | [chromium-bsu]({{< ref "/f33/package/chromium-bsu.md" >}}) | 1035 | 1092 | 94.8 | Bulgarian <dict@fsa-bg.org> | 
- | [kturtle]({{< ref "/f33/package/kturtle.md" >}}) | 1451 | 1531 | 94.8 | Bulgarian <dict@ludost.net> | 
- | [kapman]({{< ref "/f33/package/kapman.md" >}}) | 108 | 114 | 94.7 | Bulgarian <dict@fsa-bg.org> | 
- | [bison]({{< ref "/f33/package/bison.md" >}}) | 1605 | 1697 | 94.6 | Bulgarian <dict@ludost.net> | 
- | [xapps]({{< ref "/f33/package/xapps.md" >}}) | 69 | 73 | 94.5 | Bulgarian <bg@li.org> | 
- | [trytond-dashboard]({{< ref "/f33/package/trytond-dashboard.md" >}}) | 33 | 35 | 94.3 |  | 
- | [kmouth]({{< ref "/f33/package/kmouth.md" >}}) | 1427 | 1515 | 94.2 | Bulgarian <dict@fsa-bg.org> | 
- | [volume_key]({{< ref "/f33/package/volume_key.md" >}}) | 715 | 763 | 93.7 | Bulgarian <trans-bg@lists.fedoraproject.org> | 
- | [kteatime]({{< ref "/f33/package/kteatime.md" >}}) | 190 | 203 | 93.6 | Bulgarian <dict@ludost.net> | 
- | [gstreamer1-plugins-base]({{< ref "/f33/package/gstreamer1-plugins-base.md" >}}) | 912 | 976 | 93.4 | Bulgarian <dict@ludost.net> | 
- | [gettext]({{< ref "/f33/package/gettext.md" >}}) | 7584 | 8121 | 93.4 | Bulgarian <dict@ludost.net> | 
- | [timeshift]({{< ref "/f33/package/timeshift.md" >}}) | 2800 | 3005 | 93.2 | Bulgarian <bg@li.org> | 
- | [evolution]({{< ref "/f33/package/evolution.md" >}}) | 21033 | 22580 | 93.1 | Bulgarian <dict@fsa-bg.org> | 
- | [klines]({{< ref "/f33/package/klines.md" >}}) | 92 | 99 | 92.9 | Bulgarian <dict@fsa-bg.org> | 
- | [kdiagram]({{< ref "/f33/package/kdiagram.md" >}}) | 13 | 14 | 92.9 | Bulgarian <dict@ludost.net> | 
- | [switchboard-plug-sharing]({{< ref "/f33/package/switchboard-plug-sharing.md" >}}) | 130 | 140 | 92.9 | Bulgarian <https://l10n.elementary.io/projects/switchboard/switchboard-plug-sharing/bg/> | 
- | [mate-desktop]({{< ref "/f33/package/mate-desktop.md" >}}) | 2065 | 2224 | 92.9 | Bulgarian (https://www.transifex.com/mate/teams/13566/bg/) | 
- | [trytond-project-plan]({{< ref "/f33/package/trytond-project-plan.md" >}}) | 77 | 83 | 92.8 |  | 
- | [mate-applet-softupd]({{< ref "/f33/package/mate-applet-softupd.md" >}}) | 37 | 40 | 92.5 | Bulgarian | 
- | [plasma-user-manager]({{< ref "/f33/package/plasma-user-manager.md" >}}) | 135 | 146 | 92.5 | Bulgarian <dict@ludost.net> | 
- | [kaudiocreator]({{< ref "/f33/package/kaudiocreator.md" >}}) | 1043 | 1136 | 91.8 | Bulgarian <dict@fsa-bg.org> | 
- | [gftp]({{< ref "/f33/package/gftp.md" >}}) | 3096 | 3375 | 91.7 | Bulgarian GNOME translation team <dict@fsa-bg.org> | 
- | [mate-session-manager]({{< ref "/f33/package/mate-session-manager.md" >}}) | 652 | 712 | 91.6 | Bulgarian (https://www.transifex.com/mate/teams/13566/bg/) | 
- | [python-nikola]({{< ref "/f33/package/python-nikola.md" >}}) | 86 | 94 | 91.5 | Bulgarian (http://www.transifex.com/ralsina/nikola/language/bg/) | 
- | [passwd]({{< ref "/f33/package/passwd.md" >}}) | 306 | 336 | 91.1 | Bulgarian <trans-bg@lists.fedoraproject.org> | 
- | [debconf]({{< ref "/f33/package/debconf.md" >}}) | 785 | 862 | 91.1 | Bulgarian <dict@fsa-bg.org> | 
- | [chkconfig]({{< ref "/f33/package/chkconfig.md" >}}) | 521 | 573 | 90.9 | Bulgarian <https://translate.fedoraproject.org/projects/fedora-sysv/chkconfig/bg/> | 
- | [audacious-plugins]({{< ref "/f33/package/audacious-plugins.md" >}}) | 3866 | 4254 | 90.9 | Bulgarian (http://www.transifex.com/audacious/audacious/language/bg/) | 
- | [switchboard-plug-notifications]({{< ref "/f33/package/switchboard-plug-notifications.md" >}}) | 129 | 142 | 90.8 | Bulgarian <https://l10n.elementary.io/projects/switchboard/switchboard-plug-notifications/bg/> | 
- | [juk]({{< ref "/f33/package/juk.md" >}}) | 1347 | 1484 | 90.8 | Bulgarian <dict@ludost.net> | 
- | [kmines]({{< ref "/f33/package/kmines.md" >}}) | 108 | 119 | 90.8 | Bulgarian <dict@linux.zonebg.com> | 
- | [python-wtforms]({{< ref "/f33/package/python-wtforms.md" >}}) | 183 | 202 | 90.6 | Vladimir Kolev <me@vkolev.net> | 
- | [mc]({{< ref "/f33/package/mc.md" >}}) | 3873 | 4289 | 90.3 | Bulgarian (http://www.transifex.com/mc/mc/language/bg/) | 
- | [mingw-libcharset]({{< ref "/f33/package/mingw-libcharset.md" >}}) | 303 | 336 | 90.2 | Bulgarian <dict@fsa-bg.org> | 
- | [osmo]({{< ref "/f33/package/osmo.md" >}}) | 1597 | 1771 | 90.2 | Bulgarian | 
- | [kbrickbuster]({{< ref "/f33/package/kbrickbuster.md" >}}) | 137 | 152 | 90.1 | Bulgarian <dict@fsa-bg.org> | 
- | [marco]({{< ref "/f33/package/marco.md" >}}) | 3908 | 4339 | 90.1 | Bulgarian (https://www.transifex.com/mate/teams/13566/bg/) | 
- | [kf5-audiocd-kio]({{< ref "/f33/package/kf5-audiocd-kio.md" >}}) | 766 | 851 | 90.0 | <en@li.org> | 
- | [gkrellm]({{< ref "/f33/package/gkrellm.md" >}}) | 3389 | 3784 | 89.6 | Bulgarian <dict@fsa-bg.org> | 
- | [audacious]({{< ref "/f33/package/audacious.md" >}}) | 769 | 859 | 89.5 | Bulgarian (http://www.transifex.com/audacious/audacious/language/bg/) | 
- | [simple-ccsm]({{< ref "/f33/package/simple-ccsm.md" >}}) | 145 | 162 | 89.5 | Bulgarian <bg@li.org> | 
- | [gstreamer1-plugins-good]({{< ref "/f33/package/gstreamer1-plugins-good.md" >}}) | 716 | 802 | 89.3 | Bulgarian <dict@ludost.net> | 
- | [mingw-gstreamer1-plugins-good]({{< ref "/f33/package/mingw-gstreamer1-plugins-good.md" >}}) | 716 | 802 | 89.3 | Bulgarian <dict@ludost.net> | 
- | [keditbookmarks]({{< ref "/f33/package/keditbookmarks.md" >}}) | 415 | 466 | 89.1 | Bulgarian <dict@fsa-bg.org> | 
- | [gnome-control-center]({{< ref "/f33/package/gnome-control-center.md" >}}) | 5787 | 6541 | 88.5 | Bulgarian <dict@fsa-bg.org> | 
- | [baloo-widgets]({{< ref "/f33/package/baloo-widgets.md" >}}) | 46 | 52 | 88.5 | Bulgarian <dict@ludost.net> | 
- | [lxappearance]({{< ref "/f33/package/lxappearance.md" >}}) | 207 | 234 | 88.5 | LANGUAGE <LL@li.org> | 
- | [retrace-server]({{< ref "/f33/package/retrace-server.md" >}}) | 383 | 433 | 88.5 | Bulgarian <https://translate.fedoraproject.org/projects/abrt/retrace-server/bg/> | 
- | [subtitleeditor]({{< ref "/f33/package/subtitleeditor.md" >}}) | 2906 | 3297 | 88.1 | Svetoslav Stefanov <lfu.project@gmail.com> | 
- | [lxlauncher]({{< ref "/f33/package/lxlauncher.md" >}}) | 51 | 58 | 87.9 | MIME-Version: 1.0 | 
- | [kmenuedit]({{< ref "/f33/package/kmenuedit.md" >}}) | 240 | 273 | 87.9 | Bulgarian <dict@fsa-bg.org> | 
- | [im-chooser]({{< ref "/f33/package/im-chooser.md" >}}) | 223 | 254 | 87.8 | LANGUAGE <LL@li.org> | 
- | [system-config-printer]({{< ref "/f33/package/system-config-printer.md" >}}) | 3033 | 3465 | 87.5 | Bulgarian (http://www.transifex.com/projects/p/system-config-printer/language/bg/) | 
- | [mate-media]({{< ref "/f33/package/mate-media.md" >}}) | 209 | 239 | 87.4 | Bulgarian (https://www.transifex.com/mate/teams/13566/bg/) | 
- | [asunder]({{< ref "/f33/package/asunder.md" >}}) | 429 | 492 | 87.2 |  | 
- | [l3afpad]({{< ref "/f33/package/l3afpad.md" >}}) | 113 | 130 | 86.9 | Bulgarian <dict@fsa-bg.org> | 
- | [mate-notification-daemon]({{< ref "/f33/package/mate-notification-daemon.md" >}}) | 132 | 152 | 86.8 | Bulgarian (https://www.transifex.com/mate/teams/13566/bg/) | 
- | [lxinput]({{< ref "/f33/package/lxinput.md" >}}) | 72 | 83 | 86.7 | MIME-Version: 1.0 | 
- | [caja]({{< ref "/f33/package/caja.md" >}}) | 8347 | 9625 | 86.7 | Bulgarian (https://www.transifex.com/mate/teams/13566/bg/) | 
- | [gliv]({{< ref "/f33/package/gliv.md" >}}) | 893 | 1034 | 86.4 | Bulgarian <dict@fsa-bg.org> | 
- | [klettres]({{< ref "/f33/package/klettres.md" >}}) | 378 | 438 | 86.3 | Bulgarian <dict@fsa-bg.org> | 
- | [mate-settings-daemon]({{< ref "/f33/package/mate-settings-daemon.md" >}}) | 1896 | 2197 | 86.3 | Bulgarian (https://www.transifex.com/mate/teams/13566/bg/) | 
- | [python-django]({{< ref "/f33/package/python-django.md" >}}) | 3179 | 3684 | 86.3 | Bulgarian (http://www.transifex.com/django/django/language/bg/) | 
- | [stratagus]({{< ref "/f33/package/stratagus.md" >}}) | 211 | 245 | 86.1 | Bulgarian | 
- | [gnome-abrt]({{< ref "/f33/package/gnome-abrt.md" >}}) | 190 | 221 | 86.0 | Bulgarian <https://translate.stg.fedoraproject.org/projects/abrt/gnome-abrt/bg/> | 
- | [trytond-currency]({{< ref "/f33/package/trytond-currency.md" >}}) | 403 | 469 | 85.9 |  | 
- | [klavaro]({{< ref "/f33/package/klavaro.md" >}}) | 1712 | 1997 | 85.7 | Bulgarian <> | 
- | [python-caja]({{< ref "/f33/package/python-caja.md" >}}) | 6 | 7 | 85.7 | Bulgarian (https://www.transifex.com/mate/teams/13566/bg/) | 
- | [kde-print-manager]({{< ref "/f33/package/kde-print-manager.md" >}}) | 845 | 990 | 85.4 | BULGARIAN <kde-i18n-doc@kde.org> | 
- | [gretl]({{< ref "/f33/package/gretl.md" >}}) | 14630 | 17157 | 85.3 | bulgarian <LL@li.org> | 
- | [bash]({{< ref "/f33/package/bash.md" >}}) | 9806 | 11507 | 85.2 | Bulgarian <dict@ludost.net> | 
- | [findutils]({{< ref "/f33/package/findutils.md" >}}) | 2233 | 2634 | 84.8 | Bulgarian <dict@ludost.net> | 
- | [gnome-do]({{< ref "/f33/package/gnome-do.md" >}}) | 517 | 612 | 84.5 | Bulgarian <bg@li.org> | 
- | [gmpc]({{< ref "/f33/package/gmpc.md" >}}) | 21 | 25 | 84.0 | Bulgarian <bg@li.org> | 
- | [caja-extensions]({{< ref "/f33/package/caja-extensions.md" >}}) | 562 | 671 | 83.8 | Bulgarian (https://www.transifex.com/mate/teams/13566/bg/) | 
- | [skanlite]({{< ref "/f33/package/skanlite.md" >}}) | 153 | 183 | 83.6 | BULGARIAN <kde-i18n-doc@kde.org> | 
- | [kdiff3]({{< ref "/f33/package/kdiff3.md" >}}) | 2821 | 3384 | 83.4 | Bulgarian <dict@fsa-bg.org> | 
- | [libmatekbd]({{< ref "/f33/package/libmatekbd.md" >}}) | 256 | 308 | 83.1 | Bulgarian (https://www.transifex.com/mate/teams/13566/bg/) | 
- | [kdepim-runtime]({{< ref "/f33/package/kdepim-runtime.md" >}}) | 357 | 430 | 83.0 | Bulgarian <dict@ludost.net> | 
- | [setroubleshoot]({{< ref "/f33/package/setroubleshoot.md" >}}) | 527 | 635 | 83.0 | Bulgarian (http://www.transifex.com/projects/p/fedora/language/bg/) | 
- | [filelight]({{< ref "/f33/package/filelight.md" >}}) | 347 | 419 | 82.8 | Bulgarian <dict@fsa-bg.org> | 
- | [kamera]({{< ref "/f33/package/kamera.md" >}}) | 283 | 342 | 82.7 | Bulgarian <dict@fsa-bg.org> | 
- | [clipit]({{< ref "/f33/package/clipit.md" >}}) | 180 | 218 | 82.6 | Bulgarian (Bulgaria) (http://www.transifex.net/projects/p/clipit/language/bg_BG/) | 
- | [mate-themes]({{< ref "/f33/package/mate-themes.md" >}}) | 61 | 74 | 82.4 | Bulgarian (http://www.transifex.com/mate/MATE/language/bg/) | 
- | [trytond-product-price-list]({{< ref "/f33/package/trytond-product-price-list.md" >}}) | 61 | 74 | 82.4 |  | 
- | [ksysguard]({{< ref "/f33/package/ksysguard.md" >}}) | 900 | 1093 | 82.3 | Bulgarian <dict@fsa-bg.org> | 
- | [plasma-systemsettings]({{< ref "/f33/package/plasma-systemsettings.md" >}}) | 190 | 231 | 82.3 | Bulgarian <dict@ludost.net> | 
- | [sugar-abacus]({{< ref "/f33/package/sugar-abacus.md" >}}) | 23 | 28 | 82.1 | LANGUAGE <LL@li.org> | 
- | [kcharselect]({{< ref "/f33/package/kcharselect.md" >}}) | 72 | 88 | 81.8 | Bulgarian <dict@linux.zonebg.com> | 
- | [kf5-kcmutils]({{< ref "/f33/package/kf5-kcmutils.md" >}}) | 460 | 566 | 81.3 | Bulgarian <dict@ludost.net> | 
- | [kspaceduel]({{< ref "/f33/package/kspaceduel.md" >}}) | 134 | 165 | 81.2 | Bulgarian <dict@linux.zonebg.com> | 
- | [mailnag]({{< ref "/f33/package/mailnag.md" >}}) | 167 | 207 | 80.7 | Bulgarian <bg@li.org> | 
- | [granatier]({{< ref "/f33/package/granatier.md" >}}) | 199 | 247 | 80.6 | Bulgarian <dict@fsa-bg.org> | 
- | [trytond-sale-opportunity]({{< ref "/f33/package/trytond-sale-opportunity.md" >}}) | 257 | 320 | 80.3 |  | 
- | [lazpaint]({{< ref "/f33/package/lazpaint.md" >}}) | 1578 | 1973 | 80.0 | sstpr@narod.ru | 
- | [lightdm]({{< ref "/f33/package/lightdm.md" >}}) | 130 | 163 | 79.8 | Bulgarian <bg@li.org> | 
- | [trytond-purchase]({{< ref "/f33/package/trytond-purchase.md" >}}) | 453 | 571 | 79.3 |  | 
- | [khelpcenter]({{< ref "/f33/package/khelpcenter.md" >}}) | 209 | 265 | 78.9 | Bulgarian <dict@ludost.net> | 
- | [switchboard-plug-onlineaccounts]({{< ref "/f33/package/switchboard-plug-onlineaccounts.md" >}}) | 126 | 160 | 78.8 | Bulgarian <bg@li.org> | 
- | [k3b]({{< ref "/f33/package/k3b.md" >}}) | 15865 | 20180 | 78.6 | Bulgarian <dict@fsa-bg.org> | 
- | [kmahjongg]({{< ref "/f33/package/kmahjongg.md" >}}) | 279 | 355 | 78.6 | Bulgarian <dict@fsa-bg.org> | 
- | [mate-backgrounds]({{< ref "/f33/package/mate-backgrounds.md" >}}) | 51 | 65 | 78.5 | Bulgarian (https://www.transifex.com/mate/teams/13566/bg/) | 
- | [trytond-sale]({{< ref "/f33/package/trytond-sale.md" >}}) | 420 | 536 | 78.4 |  | 
- | [trytond-timesheet]({{< ref "/f33/package/trytond-timesheet.md" >}}) | 217 | 278 | 78.1 |  | 
- | [gtksourceview3]({{< ref "/f33/package/gtksourceview3.md" >}}) | 251 | 322 | 78.0 | Bulgarian <dict@fsa-bg.org> | 
- | [mingw-gtksourceview3]({{< ref "/f33/package/mingw-gtksourceview3.md" >}}) | 251 | 322 | 78.0 | Bulgarian <dict@fsa-bg.org> | 
- | [kolf]({{< ref "/f33/package/kolf.md" >}}) | 311 | 401 | 77.6 | Bulgarian <dict@linux.zonebg.com> | 
- | [kf5-libksane]({{< ref "/f33/package/kf5-libksane.md" >}}) | 224 | 290 | 77.2 | Bulgarian <dict@ludost.net> | 
- | [kf5-kparts]({{< ref "/f33/package/kf5-kparts.md" >}}) | 95 | 123 | 77.2 | Bulgarian <dict@ludost.net> | 
- | [kf5-khtml]({{< ref "/f33/package/kf5-khtml.md" >}}) | 1328 | 1721 | 77.2 | Bulgarian <dict@ludost.net> | 
- | [frozen-bubble]({{< ref "/f33/package/frozen-bubble.md" >}}) | 537 | 698 | 76.9 | Bulgarian <lfu.project@gmail.com> | 
- | [kwebkitpart]({{< ref "/f33/package/kwebkitpart.md" >}}) | 513 | 669 | 76.7 | Bulgarian <dict@fsa-bg.org> | 
- | [elementary-photos]({{< ref "/f33/package/elementary-photos.md" >}}) | 2989 | 3910 | 76.4 | Bulgarian (http://www.transifex.com/projects/p/shotwell/language/bg/) | 
- | [kf5-libkdepim]({{< ref "/f33/package/kf5-libkdepim.md" >}}) | 45 | 59 | 76.3 | Bulgarian <dict@linux.zonebg.com> | 
- | [konqueror]({{< ref "/f33/package/konqueror.md" >}}) | 6301 | 8327 | 75.7 | Bulgarian <dict@ludost.net> | 
- | [libkomparediff2]({{< ref "/f33/package/libkomparediff2.md" >}}) | 108 | 143 | 75.5 | Bulgarian <dict@fsa-bg.org> | 
- | [kmousetool]({{< ref "/f33/package/kmousetool.md" >}}) | 111 | 147 | 75.5 | Bulgarian <dict@ludost.net> | 
- | [xarchiver]({{< ref "/f33/package/xarchiver.md" >}}) | 914 | 1214 | 75.3 | български | 
- | [krusader]({{< ref "/f33/package/krusader.md" >}}) | 5964 | 7929 | 75.2 | Bulgarian <dict@fsa-bg.org> | 
- | [kwalletmanager5]({{< ref "/f33/package/kwalletmanager5.md" >}}) | 601 | 800 | 75.1 | Bulgarian <dict@linux.zonebg.com> | 
- | [kpilot]({{< ref "/f33/package/kpilot.md" >}}) | 5362 | 7156 | 74.9 | Bulgarian <dict@linux.zonebg.com> | 
- | [trytond-party]({{< ref "/f33/package/trytond-party.md" >}}) | 200 | 268 | 74.6 |  | 
- | [synapse]({{< ref "/f33/package/synapse.md" >}}) | 638 | 856 | 74.5 | Bulgarian <bg@li.org> | 
- | [gimp]({{< ref "/f33/package/gimp.md" >}}) | 19878 | 26674 | 74.5 | Bulgarian <dict@fsa-bg.org> | 
- | [trytond-purchase-invoice-line-standalone]({{< ref "/f33/package/trytond-purchase-invoice-line-standalone.md" >}}) | 38 | 51 | 74.5 |  | 
- | [kde-cli-tools]({{< ref "/f33/package/kde-cli-tools.md" >}}) | 1573 | 2115 | 74.4 | Bulgarian <dict@fsa-bg.org> | 
- | [khotkeys]({{< ref "/f33/package/khotkeys.md" >}}) | 325 | 437 | 74.4 | Bulgarian <dict@fsa-bg.org> | 
- | [elementary-music]({{< ref "/f33/package/elementary-music.md" >}}) | 972 | 1308 | 74.3 | Bulgarian <https://l10n.elementary.io/projects/music/music/bg/> | 
- | [php-horde-Horde-Browser]({{< ref "/f33/package/php-horde-Horde-Browser.md" >}}) | 49 | 66 | 74.2 | i18n@lists.horde.org | 
- | [trytond-product]({{< ref "/f33/package/trytond-product.md" >}}) | 276 | 375 | 73.6 |  | 
- | [wingpanel-indicator-power]({{< ref "/f33/package/wingpanel-indicator-power.md" >}}) | 86 | 117 | 73.5 | LANGUAGE <LL@li.org> | 
- | [kcalc]({{< ref "/f33/package/kcalc.md" >}}) | 753 | 1026 | 73.4 | Bulgarian <dict@linux.zonebg.com> | 
- | [boswars]({{< ref "/f33/package/boswars.md" >}}) | 158 | 216 | 73.1 | Bulgarian | 
- | [widelands]({{< ref "/f33/package/widelands.md" >}}) | 45514 | 62420 | 72.9 | Bulgarian (http://www.transifex.com/widelands/widelands/language/bg/) | 
- | [caja-actions]({{< ref "/f33/package/caja-actions.md" >}}) | 1132 | 1554 | 72.8 | Bulgarian <dict@fsa-bg.org> | 
- | [kf5-kconfigwidgets]({{< ref "/f33/package/kf5-kconfigwidgets.md" >}}) | 236 | 324 | 72.8 | Bulgarian <dict@ludost.net> | 
- | [sugar-distance]({{< ref "/f33/package/sugar-distance.md" >}}) | 72 | 99 | 72.7 | LANGUAGE <LL@li.org> | 
- | [entangle]({{< ref "/f33/package/entangle.md" >}}) | 689 | 953 | 72.3 | Bulgarian (http://www.transifex.com/projects/p/entangle/language/bg/) | 
- | [ktimer]({{< ref "/f33/package/ktimer.md" >}}) | 186 | 258 | 72.1 | Bulgarian <dict@fsa-bg.org> | 
- | [kig]({{< ref "/f33/package/kig.md" >}}) | 5648 | 7855 | 71.9 | Bulgarian <dict@linux.zonebg.com> | 
- | [mate-user-guide]({{< ref "/f33/package/mate-user-guide.md" >}}) | 30887 | 42970 | 71.9 | Bulgarian (https://www.transifex.com/mate/teams/13566/bg/) | 
- | [kf5-kinit]({{< ref "/f33/package/kf5-kinit.md" >}}) | 96 | 134 | 71.6 | Bulgarian <dict@ludost.net> | 
- | [pam]({{< ref "/f33/package/pam.md" >}}) | 457 | 638 | 71.6 | Bulgarian <trans-bg@lists.fedoraproject.org> | 
- | [e16]({{< ref "/f33/package/e16.md" >}}) | 1994 | 2790 | 71.5 | Bulgarian | 
- | [kmix]({{< ref "/f33/package/kmix.md" >}}) | 660 | 924 | 71.4 | Bulgarian <dict@ludost.net> | 
- | [sugar-toolkit-gtk3]({{< ref "/f33/package/sugar-toolkit-gtk3.md" >}}) | 151 | 213 | 70.9 | LANGUAGE <LL@li.org> | 
- | [trytond]({{< ref "/f33/package/trytond.md" >}}) | 1876 | 2648 | 70.8 |  | 
- | [trytond-stock-supply]({{< ref "/f33/package/trytond-stock-supply.md" >}}) | 104 | 147 | 70.7 |  | 
- | [deluge]({{< ref "/f33/package/deluge.md" >}}) | 1844 | 2616 | 70.5 | Bulgarian <bg@li.org> | 
- | [kinfocenter]({{< ref "/f33/package/kinfocenter.md" >}}) | 1673 | 2388 | 70.1 | Bulgarian <dict@ludost.net> | 
- | [kdnssd]({{< ref "/f33/package/kdnssd.md" >}}) | 21 | 30 | 70.0 | Bulgarian <dict@linux.zonebg.com> | 
- | [mlocate]({{< ref "/f33/package/mlocate.md" >}}) | 406 | 581 | 69.9 | Bulgarian <trans-bg@lists.fedoraproject.org> | 
- | [workrave]({{< ref "/f33/package/workrave.md" >}}) | 976 | 1398 | 69.8 | <i18n@workrave.org> | 
- | [trytond-stock]({{< ref "/f33/package/trytond-stock.md" >}}) | 837 | 1203 | 69.6 |  | 
- | [trytond-analytic-account]({{< ref "/f33/package/trytond-analytic-account.md" >}}) | 128 | 184 | 69.6 |  | 
- | [anaconda]({{< ref "/f33/package/anaconda.md" >}}) | 5536 | 8030 | 68.9 | Bulgarian <https://translate.fedoraproject.org/projects/anaconda/master/bg/> | 
- | [kio-extras]({{< ref "/f33/package/kio-extras.md" >}}) | 722 | 1048 | 68.9 | Bulgarian <dict@fsa-bg.org> | 
- | [switchboard-plug-applications]({{< ref "/f33/package/switchboard-plug-applications.md" >}}) | 65 | 95 | 68.4 | Bulgarian <https://l10n.elementary.io/projects/switchboard/switchboard-plug-applications/bg/> | 
- | [tuxpaint]({{< ref "/f33/package/tuxpaint.md" >}}) | 1137 | 1662 | 68.4 |  | 
- | [grip]({{< ref "/f33/package/grip.md" >}}) | 741 | 1097 | 67.5 | Bulgarian <dict@linux.zonebg.com> | 
- | [kruler]({{< ref "/f33/package/kruler.md" >}}) | 124 | 184 | 67.4 | Bulgarian <dict@fsa-bg.org> | 
- | [dragon]({{< ref "/f33/package/dragon.md" >}}) | 188 | 281 | 66.9 | Bulgarian <dict@ludost.net> | 
- | [kcron]({{< ref "/f33/package/kcron.md" >}}) | 356 | 534 | 66.7 | Bulgarian <dict@fsa-bg.org> | 
- | [celestia]({{< ref "/f33/package/celestia.md" >}}) | 1753 | 2640 | 66.4 | Bulgarian <kumbarov@gmail.com> | 
- | [trytond-stock-forecast]({{< ref "/f33/package/trytond-stock-forecast.md" >}}) | 115 | 174 | 66.1 |  | 
- | [initscripts]({{< ref "/f33/package/initscripts.md" >}}) | 738 | 1118 | 66.0 | Bulgarian <trans-bg@lists.fedoraproject.org> | 
- | [kf5-kwidgetsaddons]({{< ref "/f33/package/kf5-kwidgetsaddons.md" >}}) | 843 | 1282 | 65.8 | Bulgarian <dict@ludost.net> | 
- | [gnome-shell-extension-openweather]({{< ref "/f33/package/gnome-shell-extension-openweather.md" >}}) | 407 | 619 | 65.8 | Български <> | 
- | [python-django-formtools]({{< ref "/f33/package/python-django-formtools.md" >}}) | 21 | 32 | 65.6 | Bulgarian (http://www.transifex.com/projects/p/django-formtools/language/bg/) | 
- | [switchboard-plug-a11y]({{< ref "/f33/package/switchboard-plug-a11y.md" >}}) | 82 | 125 | 65.6 | LANGUAGE <LL@li.org> | 
- | [apt]({{< ref "/f33/package/apt.md" >}}) | 3541 | 5403 | 65.5 | Bulgarian <dict@fsa-bg.org> | 
- | [postgresql-jdbc]({{< ref "/f33/package/postgresql-jdbc.md" >}}) | 1687 | 2582 | 65.3 | <bg@li.org> | 
- | [knavalbattle]({{< ref "/f33/package/knavalbattle.md" >}}) | 260 | 399 | 65.2 | Bulgarian <dict@fsa-bg.org> | 
- | [mate-panel]({{< ref "/f33/package/mate-panel.md" >}}) | 4377 | 6727 | 65.1 | Bulgarian (https://www.transifex.com/mate/teams/13566/bg/) | 
- | [kf5-kjsembed]({{< ref "/f33/package/kf5-kjsembed.md" >}}) | 161 | 248 | 64.9 | Bulgarian <dict@ludost.net> | 
- | [trytond-account-product]({{< ref "/f33/package/trytond-account-product.md" >}}) | 192 | 296 | 64.9 |  | 
- | [deja-dup]({{< ref "/f33/package/deja-dup.md" >}}) | 2184 | 3375 | 64.7 | Bulgarian <bg@li.org> | 
- | [calligra]({{< ref "/f33/package/calligra.md" >}}) | 19982 | 30925 | 64.6 | Bulgarian <dict@ludost.net> | 
- | [kolourpaint]({{< ref "/f33/package/kolourpaint.md" >}}) | 1653 | 2564 | 64.5 | Bulgarian <dict@fsa-bg.org> | 
- | [byobu]({{< ref "/f33/package/byobu.md" >}}) | 114 | 177 | 64.4 | Bulgarian <bg@li.org> | 
- | [wingpanel-indicator-session]({{< ref "/f33/package/wingpanel-indicator-session.md" >}}) | 52 | 81 | 64.2 | LANGUAGE <LL@li.org> | 
- | [python-blivet]({{< ref "/f33/package/python-blivet.md" >}}) | 357 | 558 | 64.0 | Bulgarian (http://www.transifex.com/projects/p/blivet/language/bg/) | 
- | [gwenview]({{< ref "/f33/package/gwenview.md" >}}) | 993 | 1559 | 63.7 | Bulgarian <dict@ludost.net> | 
- | [bomber]({{< ref "/f33/package/bomber.md" >}}) | 70 | 110 | 63.6 | Bulgarian <dict@fsa-bg.org> | 
- | [mail-notification]({{< ref "/f33/package/mail-notification.md" >}}) | 915 | 1449 | 63.1 | Bulgarian <bg@li.org> | 
- | [plasma-desktop]({{< ref "/f33/package/plasma-desktop.md" >}}) | 3542 | 5611 | 63.1 | Bulgarian <dict@fsa-bg.org> | 
- | [balsa]({{< ref "/f33/package/balsa.md" >}}) | 3353 | 5354 | 62.6 | Bulgarian <dict@fsa-bg.org> | 
- | [pan]({{< ref "/f33/package/pan.md" >}}) | 1981 | 3168 | 62.5 | Bulgarian <dict@fsa-bg.org> | 
- | [camorama]({{< ref "/f33/package/camorama.md" >}}) | 481 | 775 | 62.1 | Bulgarian <dict@fsa-bg.org> | 
- | [fpm2]({{< ref "/f33/package/fpm2.md" >}}) | 497 | 806 | 61.7 | Bulgarian | 
- | [krdc]({{< ref "/f33/package/krdc.md" >}}) | 706 | 1147 | 61.6 | Bulgarian <dict@linux.zonebg.com> | 
- | [kdump-anaconda-addon]({{< ref "/f33/package/kdump-anaconda-addon.md" >}}) | 51 | 83 | 61.4 | Bulgarian <Bulgarian Translators' Team <dict@fsa-bg.org>> | 
- | [libkeduvocdocument]({{< ref "/f33/package/libkeduvocdocument.md" >}}) | 105 | 171 | 61.4 | Bulgarian <dict@fsa-bg.org> | 
- | [kwordquiz]({{< ref "/f33/package/kwordquiz.md" >}}) | 1232 | 2026 | 60.8 | Bulgarian <dict@fsa-bg.org> | 
- | [gucharmap]({{< ref "/f33/package/gucharmap.md" >}}) | 1744 | 2890 | 60.3 | Bulgarian <dict@fsa-bg.org> | 
- | [warmux]({{< ref "/f33/package/warmux.md" >}}) | 1635 | 2744 | 59.6 | Bulgarian <thedeadly91@gmail.com> | 
- | [tuxmath]({{< ref "/f33/package/tuxmath.md" >}}) | 866 | 1455 | 59.5 |  | 
- | [kde-l10n]({{< ref "/f33/package/kde-l10n.md" >}}) | 56950 | 95853 | 59.4 | Bulgarian <dict@fsa-bg.org> | 
- | [xchm]({{< ref "/f33/package/xchm.md" >}}) | 139 | 234 | 59.4 | Bulgarian <dict@linux.zonebg.com> | 
- | [kfourinline]({{< ref "/f33/package/kfourinline.md" >}}) | 232 | 392 | 59.2 | Bulgarian <dict@fsa-bg.org> | 
- | [kdialog]({{< ref "/f33/package/kdialog.md" >}}) | 223 | 382 | 58.4 | Bulgarian <dict@fsa-bg.org> | 
- | [trytond-project-revenue]({{< ref "/f33/package/trytond-project-revenue.md" >}}) | 7 | 12 | 58.3 |  | 
- | [kalgebra]({{< ref "/f33/package/kalgebra.md" >}}) | 98 | 169 | 58.0 | Bulgarian <dict@ludost.net> | 
- | [ekiga]({{< ref "/f33/package/ekiga.md" >}}) | 5669 | 9800 | 57.8 | Bulgarian <bg@li.org> | 
- | [elementary-calculator]({{< ref "/f33/package/elementary-calculator.md" >}}) | 75 | 130 | 57.7 | Bulgarian <https://l10n.elementary.io/projects/calculator/calculator/bg/> | 
- | [kde-dev-utils]({{< ref "/f33/package/kde-dev-utils.md" >}}) | 38 | 67 | 56.7 | Bulgarian <dict@fsa-bg.org> | 
- | [kf5-mailimporter]({{< ref "/f33/package/kf5-mailimporter.md" >}}) | 798 | 1408 | 56.7 | Bulgarian <dict@fsa-bg.org> | 
- | [kf5-kio]({{< ref "/f33/package/kf5-kio.md" >}}) | 7061 | 12470 | 56.6 | Bulgarian <dict@fsa-bg.org> | 
- | [kf5-purpose]({{< ref "/f33/package/kf5-purpose.md" >}}) | 30 | 53 | 56.6 | Bulgarian <dict@ludost.net> | 
- | [trytond-account]({{< ref "/f33/package/trytond-account.md" >}}) | 1550 | 2743 | 56.5 |  | 
- | [akregator]({{< ref "/f33/package/akregator.md" >}}) | 1021 | 1807 | 56.5 | Bulgarian <dict@fsa-bg.org> | 
- | [lxrandr]({{< ref "/f33/package/lxrandr.md" >}}) | 94 | 167 | 56.3 | MIME-Version: 1.0 | 
- | [switchboard-plug-pantheon-shell]({{< ref "/f33/package/switchboard-plug-pantheon-shell.md" >}}) | 101 | 181 | 55.8 | Bulgarian <bg@li.org> | 
- | [kalarm]({{< ref "/f33/package/kalarm.md" >}}) | 4369 | 7838 | 55.7 | Bulgarian <dict@fsa-bg.org> | 
- | [nfoview]({{< ref "/f33/package/nfoview.md" >}}) | 64 | 115 | 55.7 | Bulgarian (http://www.transifex.com/otsaloma/nfoview/language/bg/) | 
- | [mingw-sane-backends]({{< ref "/f33/package/mingw-sane-backends.md" >}}) | 3184 | 5808 | 54.8 | <> | 
- | [blueman]({{< ref "/f33/package/blueman.md" >}}) | 1013 | 1857 | 54.6 | Bulgarian <https://hosted.weblate.org/projects/blueman/blueman/bg/> | 
- | [mate-terminal]({{< ref "/f33/package/mate-terminal.md" >}}) | 4548 | 8372 | 54.3 | Bulgarian (https://www.transifex.com/mate/teams/13566/bg/) | 
- | [okteta]({{< ref "/f33/package/okteta.md" >}}) | 19 | 35 | 54.3 | Bulgarian <dict@fsa-bg.org> | 
- | [akonadi-calendar-tools]({{< ref "/f33/package/akonadi-calendar-tools.md" >}}) | 262 | 483 | 54.2 | Bulgarian <dict@ludost.net> | 
- | [sylpheed]({{< ref "/f33/package/sylpheed.md" >}}) | 3866 | 7214 | 53.6 | Bulgarian <bg@li.org> | 
- | [sane-backends]({{< ref "/f33/package/sane-backends.md" >}}) | 3184 | 5960 | 53.4 | <> | 
- | [switchboard-plug-networking]({{< ref "/f33/package/switchboard-plug-networking.md" >}}) | 253 | 474 | 53.4 | Bulgarian <https://l10n.elementary.io/projects/switchboard/switchboard-plug-networking/bg/> | 
- | [kf5-kdelibs4support]({{< ref "/f33/package/kf5-kdelibs4support.md" >}}) | 2548 | 4813 | 52.9 | Bulgarian <dict@fsa-bg.org> | 
- | [wesnoth]({{< ref "/f33/package/wesnoth.md" >}}) | 158409 | 299283 | 52.9 | Bulgarian <bg@li.org> | 
- | [kgeography]({{< ref "/f33/package/kgeography.md" >}}) | 5116 | 9670 | 52.9 | Bulgarian <dict@ludost.net> | 
- | [mbox-importer]({{< ref "/f33/package/mbox-importer.md" >}}) | 21 | 40 | 52.5 | Bulgarian <dict@ludost.net> | 
- | [mutt]({{< ref "/f33/package/mutt.md" >}}) | 3439 | 6561 | 52.4 |  | 
- | [okular]({{< ref "/f33/package/okular.md" >}}) | 2789 | 5322 | 52.4 | Bulgarian <dict@ludost.net> | 
- | [konversation]({{< ref "/f33/package/konversation.md" >}}) | 5364 | 10294 | 52.1 | Bulgarian <dict@fsa-bg.org> | 
- | [sugar-write]({{< ref "/f33/package/sugar-write.md" >}}) | 63 | 121 | 52.1 | LANGUAGE <LL@li.org> | 
- | [ccsm]({{< ref "/f33/package/ccsm.md" >}}) | 306 | 591 | 51.8 | Bulgarian <bg@li.org> | 
- | [banshee]({{< ref "/f33/package/banshee.md" >}}) | 2183 | 4240 | 51.5 | Bulgarian <dict@fsa-bg.org> | 
- | [kate]({{< ref "/f33/package/kate.md" >}}) | 1653 | 3246 | 50.9 | Bulgarian <dict@fsa-bg.org> | 
- | [kf5-solid]({{< ref "/f33/package/kf5-solid.md" >}}) | 346 | 686 | 50.4 | Bulgarian <dict@ludost.net> | 
- | [grantlee-editor]({{< ref "/f33/package/grantlee-editor.md" >}}) | 65 | 129 | 50.4 | Bulgarian <dict@ludost.net> | 
- | [easytag]({{< ref "/f33/package/easytag.md" >}}) | 2769 | 5507 | 50.3 | Bulgarian <dict@fsa-bg.org> | 
- | [switchboard-plug-keyboard]({{< ref "/f33/package/switchboard-plug-keyboard.md" >}}) | 266 | 530 | 50.2 | Bulgarian <https://l10n.elementary.io/projects/switchboard/switchboard-plug-keyboard/bg/> | 
- | [lyx]({{< ref "/f33/package/lyx.md" >}}) | 12847 | 25702 | 50.0 | Bulgarian <lyx-docs@lists.lyx.org> | 
- | [knotes]({{< ref "/f33/package/knotes.md" >}}) | 299 | 604 | 49.5 | Bulgarian <dict@fsa-bg.org> | 
- | [gramps]({{< ref "/f33/package/gramps.md" >}}) | 19749 | 39917 | 49.5 | Bulgarian <dict@fsa-bg.org> | 
- | [soundconverter]({{< ref "/f33/package/soundconverter.md" >}}) | 249 | 507 | 49.1 | English (United Kingdom) <en_GB@li.org> | 
- | [kopete]({{< ref "/f33/package/kopete.md" >}}) | 9018 | 18427 | 48.9 | Bulgarian <dict@ludost.net> | 
- | [elementary-screenshot-tool]({{< ref "/f33/package/elementary-screenshot-tool.md" >}}) | 103 | 212 | 48.6 | LANGUAGE <LL@li.org> | 
- | [kcolorchooser]({{< ref "/f33/package/kcolorchooser.md" >}}) | 14 | 29 | 48.3 | Bulgarian <dict@fsa-bg.org> | 
- | [kmplot]({{< ref "/f33/package/kmplot.md" >}}) | 1202 | 2493 | 48.2 | Bulgarian <dict@linux.zonebg.com> | 
- | [mate-power-manager]({{< ref "/f33/package/mate-power-manager.md" >}}) | 2472 | 5139 | 48.1 | Bulgarian (https://www.transifex.com/mate/teams/13566/bg/) | 
- | [kcoloredit]({{< ref "/f33/package/kcoloredit.md" >}}) | 133 | 278 | 47.8 | Bulgarian <dict@fsa-bg.org> | 
- | [squirrelmail]({{< ref "/f33/package/squirrelmail.md" >}}) | 3321 | 6950 | 47.8 | Bulgarian <squirrelmail-i18n@lists.sourceforge.net> | 
- | [elementary-calendar]({{< ref "/f33/package/elementary-calendar.md" >}}) | 335 | 703 | 47.7 | Bulgarian <https://l10n.elementary.io/projects/calendar/calendar/bg/> | 
- | [gnucash]({{< ref "/f33/package/gnucash.md" >}}) | 17540 | 37116 | 47.3 | Bulgarian <dict@fsa-bg.org> | 
- | [switchboard-plug-printers]({{< ref "/f33/package/switchboard-plug-printers.md" >}}) | 171 | 362 | 47.2 | Bulgarian <https://l10n.elementary.io/projects/switchboard/switchboard-plug-printers/bg/> | 
- | [mingw-binutils]({{< ref "/f33/package/mingw-binutils.md" >}}) | 9434 | 20039 | 47.1 | Bulgarian <dict@ludost.net> | 
- | [trytond-project]({{< ref "/f33/package/trytond-project.md" >}}) | 67 | 143 | 46.9 |  | 
- | [kde-partitionmanager]({{< ref "/f33/package/kde-partitionmanager.md" >}}) | 1031 | 2214 | 46.6 | Bulgarian <dict@fsa-bg.org> | 
- | [kiten]({{< ref "/f33/package/kiten.md" >}}) | 304 | 653 | 46.6 | Bulgarian <dict@linux.zonebg.com> | 
- | [elementary-camera]({{< ref "/f33/package/elementary-camera.md" >}}) | 30 | 65 | 46.2 | Bulgarian <https://l10n.elementary.io/projects/camera/camera/bg/> | 
- | [pinta]({{< ref "/f33/package/pinta.md" >}}) | 772 | 1686 | 45.8 | Bulgarian <bg@li.org> | 
- | [wingpanel-applications-menu]({{< ref "/f33/package/wingpanel-applications-menu.md" >}}) | 134 | 294 | 45.6 | Bulgarian <bg@li.org> | 
- | [arm-none-eabi-binutils-cs]({{< ref "/f33/package/arm-none-eabi-binutils-cs.md" >}}) | 9666 | 21218 | 45.6 | Bulgarian <dict@ludost.net> | 
- | [avr-binutils]({{< ref "/f33/package/avr-binutils.md" >}}) | 9666 | 21218 | 45.6 | Bulgarian <dict@ludost.net> | 
- | [binutils]({{< ref "/f33/package/binutils.md" >}}) | 9666 | 21218 | 45.6 | Bulgarian <dict@ludost.net> | 
- | [cross-binutils]({{< ref "/f33/package/cross-binutils.md" >}}) | 9666 | 21218 | 45.6 | Bulgarian <dict@ludost.net> | 
- | [kmail]({{< ref "/f33/package/kmail.md" >}}) | 3722 | 8175 | 45.5 | Bulgarian <dict@ludost.net> | 
- | [kpat]({{< ref "/f33/package/kpat.md" >}}) | 217 | 477 | 45.5 | Bulgarian <dict@fsa-bg.org> | 
- | [rt]({{< ref "/f33/package/rt.md" >}}) | 5371 | 11843 | 45.4 | Bulgarian <bg@li.org> | 
- | [pogo]({{< ref "/f33/package/pogo.md" >}}) | 260 | 576 | 45.1 | Bulgarian <bg@li.org> | 
- | [libnma]({{< ref "/f33/package/libnma.md" >}}) | 412 | 917 | 44.9 | Bulgarian <dict@fsa-bg.org> | 
- | [switchboard-plug-sound]({{< ref "/f33/package/switchboard-plug-sound.md" >}}) | 68 | 152 | 44.7 | Bulgarian <https://l10n.elementary.io/projects/switchboard/switchboard-plug-sound/bg/> | 
- | [virt-viewer]({{< ref "/f33/package/virt-viewer.md" >}}) | 382 | 854 | 44.7 | Bulgarian (http://www.transifex.com/projects/p/virt-viewer/language/bg/) | 
- | [elementary-files]({{< ref "/f33/package/elementary-files.md" >}}) | 1298 | 2911 | 44.6 | Bulgarian | 
- | [sos]({{< ref "/f33/package/sos.md" >}}) | 54 | 122 | 44.3 | none | 
- | [plasma-sdk]({{< ref "/f33/package/plasma-sdk.md" >}}) | 160 | 363 | 44.1 | Bulgarian <dict@fsa-bg.org> | 
- | [mkvtoolnix]({{< ref "/f33/package/mkvtoolnix.md" >}}) | 18311 | 41671 | 43.9 | Bulgarian (http://www.transifex.com/moritz-bunkus/mkvtoolnix/language/bg/) | 
- | [kile]({{< ref "/f33/package/kile.md" >}}) | 5687 | 12994 | 43.8 | Bulgarian <dict@fsa-bg.org> | 
- | [dnf]({{< ref "/f33/package/dnf.md" >}}) | 2004 | 4621 | 43.4 | Bulgarian <https://translate.fedoraproject.org/projects/dnf/dnf-master/bg/> | 
- | [xpad]({{< ref "/f33/package/xpad.md" >}}) | 178 | 413 | 43.1 | Bulgarian <dict@fsa-bg.org> | 
- | [shotwell]({{< ref "/f33/package/shotwell.md" >}}) | 1959 | 4553 | 43.0 | Bulgarian (http://www.transifex.com/projects/p/shotwell/language/bg/) | 
- | [libkdegames]({{< ref "/f33/package/libkdegames.md" >}}) | 159 | 370 | 43.0 | Bulgarian <dict@linux.zonebg.com> | 
- | [switchboard-plug-about]({{< ref "/f33/package/switchboard-plug-about.md" >}}) | 41 | 96 | 42.7 | Bulgarian <bg@li.org> | 
- | [cinnamon-control-center]({{< ref "/f33/package/cinnamon-control-center.md" >}}) | 559 | 1313 | 42.6 | Bulgarian <dict@fsa-bg.org> | 
- | [pantheon-agent-geoclue2]({{< ref "/f33/package/pantheon-agent-geoclue2.md" >}}) | 43 | 101 | 42.6 | Bulgarian <https://l10n.elementary.io/projects/desktop/pantheon-agent-geoclue2/bg/> | 
- | [mate-calc]({{< ref "/f33/package/mate-calc.md" >}}) | 1352 | 3178 | 42.5 | Bulgarian (https://www.transifex.com/mate/teams/13566/bg/) | 
- | [php-phpmyadmin-sql-parser5]({{< ref "/f33/package/php-phpmyadmin-sql-parser5.md" >}}) | 114 | 268 | 42.5 | Bulgarian <https://hosted.weblate.org/projects/phpmyadmin/sql-parser/bg/> | 
- | [choqok]({{< ref "/f33/package/choqok.md" >}}) | 998 | 2350 | 42.5 | Bulgarian <dict@fsa-bg.org> | 
- | [wingpanel-indicator-notifications]({{< ref "/f33/package/wingpanel-indicator-notifications.md" >}}) | 16 | 38 | 42.1 | LANGUAGE <LL@li.org> | 
- | [kf5-kwallet]({{< ref "/f33/package/kf5-kwallet.md" >}}) | 562 | 1336 | 42.1 | Bulgarian <dict@ludost.net> | 
- | [trytond-account-invoice]({{< ref "/f33/package/trytond-account-invoice.md" >}}) | 429 | 1028 | 41.7 |  | 
- | [imsettings]({{< ref "/f33/package/imsettings.md" >}}) | 202 | 485 | 41.6 | LANGUAGE <LL@li.org> | 
- | [nano]({{< ref "/f33/package/nano.md" >}}) | 1436 | 3449 | 41.6 | Bulgarian <dict@fsa-bg.org> | 
- | [elementary-videos]({{< ref "/f33/package/elementary-videos.md" >}}) | 144 | 346 | 41.6 | Bulgarian <bg@li.org> | 
- | [sugar-calculator]({{< ref "/f33/package/sugar-calculator.md" >}}) | 359 | 866 | 41.5 | Bulgarian <dict@fsa-bg.org> | 
- | [gnome-commander]({{< ref "/f33/package/gnome-commander.md" >}}) | 3269 | 7896 | 41.4 | ССТАНЕВ <sstpr@narod.ru> | 
- | [kf5-kdeclarative]({{< ref "/f33/package/kf5-kdeclarative.md" >}}) | 43 | 104 | 41.3 | Bulgarian <dict@ludost.net> | 
- | [kmplayer]({{< ref "/f33/package/kmplayer.md" >}}) | 515 | 1249 | 41.2 | Bulgarian <dict@fsa-bg.org> | 
- | [atril]({{< ref "/f33/package/atril.md" >}}) | 1580 | 3846 | 41.1 | Bulgarian (https://www.transifex.com/mate/teams/13566/bg/) | 
- | [blivet-gui]({{< ref "/f33/package/blivet-gui.md" >}}) | 420 | 1031 | 40.7 | Bulgarian | 
- | [krfb]({{< ref "/f33/package/krfb.md" >}}) | 275 | 676 | 40.7 | Bulgarian <dict@ludost.net> | 
- | [certmonger]({{< ref "/f33/package/certmonger.md" >}}) | 1151 | 2831 | 40.7 | Bulgarian (http://www.transifex.com/projects/p/certmonger/language/bg/) | 
- | [konquest]({{< ref "/f33/package/konquest.md" >}}) | 100 | 246 | 40.7 | <en@li.org> | 
- | [shutter]({{< ref "/f33/package/shutter.md" >}}) | 1252 | 3093 | 40.5 | Bulgarian <bg@li.org> | 
- | [scratch]({{< ref "/f33/package/scratch.md" >}}) | 592 | 1470 | 40.3 | LANGUAGE <LL@li.org> | 
- | [sugar-stopwatch]({{< ref "/f33/package/sugar-stopwatch.md" >}}) | 2 | 5 | 40.0 | LANGUAGE <LL@li.org> | 
- | [sugar-log]({{< ref "/f33/package/sugar-log.md" >}}) | 39 | 98 | 39.8 | LANGUAGE <LL@li.org> | 
- | [doublecmd]({{< ref "/f33/package/doublecmd.md" >}}) | 3853 | 9760 | 39.5 | Language <sstpr@narod.ru> | 
- | [plasma-workspace]({{< ref "/f33/package/plasma-workspace.md" >}}) | 3134 | 7943 | 39.5 | Bulgarian <dict@fsa-bg.org> | 
- | [powerdevil]({{< ref "/f33/package/powerdevil.md" >}}) | 247 | 627 | 39.4 | Bulgarian <kde-i18n-doc@kde.org> | 
- | [trytond-account-statement]({{< ref "/f33/package/trytond-account-statement.md" >}}) | 91 | 231 | 39.4 |  | 
- | [sparkleshare]({{< ref "/f33/package/sparkleshare.md" >}}) | 157 | 402 | 39.1 |  | 
- | [elementary-capnet-assist]({{< ref "/f33/package/elementary-capnet-assist.md" >}}) | 32 | 82 | 39.0 | Bulgarian <bg@li.org> | 
- | [tryton]({{< ref "/f33/package/tryton.md" >}}) | 325 | 835 | 38.9 |  | 
- | [fprintd]({{< ref "/f33/package/fprintd.md" >}}) | 163 | 419 | 38.9 | Bulgarian (http://www.transifex.com/freedesktop/fprintd/language/bg/) | 
- | [kf5-kservice]({{< ref "/f33/package/kf5-kservice.md" >}}) | 64 | 167 | 38.3 | Bulgarian <dict@ludost.net> | 
- | [step]({{< ref "/f33/package/step.md" >}}) | 714 | 1885 | 37.9 | Bulgarian <dict@fsa-bg.org> | 
- | [lskat]({{< ref "/f33/package/lskat.md" >}}) | 96 | 254 | 37.8 | Bulgarian <dict@linux.zonebg.com> | 
- | [tilda]({{< ref "/f33/package/tilda.md" >}}) | 250 | 667 | 37.5 | Bulgarian <bg@li.org> | 
- | [wingpanel-indicator-bluetooth]({{< ref "/f33/package/wingpanel-indicator-bluetooth.md" >}}) | 11 | 30 | 36.7 | LANGUAGE <LL@li.org> | 
- | [sugar-memorize]({{< ref "/f33/package/sugar-memorize.md" >}}) | 52 | 142 | 36.6 | LANGUAGE <LL@li.org> | 
- | [pluma]({{< ref "/f33/package/pluma.md" >}}) | 4768 | 13120 | 36.3 | Bulgarian (https://www.transifex.com/mate/teams/13566/bg/) | 
- | [setroubleshoot-plugins]({{< ref "/f33/package/setroubleshoot-plugins.md" >}}) | 2267 | 6246 | 36.3 | Bulgarian (http://www.transifex.com/projects/p/fedora/language/bg/) | 
- | [wingpanel-indicator-network]({{< ref "/f33/package/wingpanel-indicator-network.md" >}}) | 35 | 97 | 36.1 | LANGUAGE <LL@li.org> | 
- | [gnubik]({{< ref "/f33/package/gnubik.md" >}}) | 100 | 279 | 35.8 | Bulgarian <dict@fsa-bg.org> | 
- | [mate-control-center]({{< ref "/f33/package/mate-control-center.md" >}}) | 3083 | 8602 | 35.8 | Bulgarian (https://www.transifex.com/mate/teams/13566/bg/) | 
- | [libzypp]({{< ref "/f33/package/libzypp.md" >}}) | 964 | 2714 | 35.5 | Bulgarian <https://l10n.opensuse.org/projects/libzypp/master/bg/> | 
- | [khangman]({{< ref "/f33/package/khangman.md" >}}) | 167 | 476 | 35.1 | Bulgarian <dict@ludost.net> | 
- | [kdenetwork-filesharing]({{< ref "/f33/package/kdenetwork-filesharing.md" >}}) | 22 | 63 | 34.9 | Bulgarian <dict@linux.zonebg.com> | 
- | [sugar-paint]({{< ref "/f33/package/sugar-paint.md" >}}) | 37 | 106 | 34.9 | LANGUAGE <LL@li.org> | 
- | [kompare]({{< ref "/f33/package/kompare.md" >}}) | 499 | 1430 | 34.9 | Bulgarian <dict@fsa-bg.org> | 
- | [sawfish]({{< ref "/f33/package/sawfish.md" >}}) | 2247 | 6443 | 34.9 | Bulgarian <dict@linux.zonebg.com> | 
- | [homebank]({{< ref "/f33/package/homebank.md" >}}) | 973 | 2792 | 34.8 | Bulgarian <bg@li.org> | 
- | [remmina]({{< ref "/f33/package/remmina.md" >}}) | 1482 | 4279 | 34.6 | Bulgarian <https://hosted.weblate.org/projects/remmina/remmina/bg/> | 
- | [fuse-encfs]({{< ref "/f33/package/fuse-encfs.md" >}}) | 446 | 1289 | 34.6 | Bulgarian <bg@li.org> | 
- | [android-tools]({{< ref "/f33/package/android-tools.md" >}}) | 2636 | 7678 | 34.3 | Bulgarian <trans-bg@lists.fedoraproject.org> | 
- | [kf5-calendarsupport]({{< ref "/f33/package/kf5-calendarsupport.md" >}}) | 1022 | 2986 | 34.2 | Bulgarian <dict@fsa-bg.org> | 
- | [audacity]({{< ref "/f33/package/audacity.md" >}}) | 6022 | 17657 | 34.1 | . | 
- | [kf5-ki18n]({{< ref "/f33/package/kf5-ki18n.md" >}}) | 42 | 124 | 33.9 | Bulgarian <dict@ludost.net> | 
- | [mate-utils]({{< ref "/f33/package/mate-utils.md" >}}) | 3490 | 10304 | 33.9 | Bulgarian (https://www.transifex.com/mate/teams/13566/bg/) | 
- | [phosh]({{< ref "/f33/package/phosh.md" >}}) | 25 | 74 | 33.8 | Bulgarian | 
- | [blogilo]({{< ref "/f33/package/blogilo.md" >}}) | 401 | 1188 | 33.8 | Bulgarian <dict@fsa-bg.org> | 
- | [plasma-drkonqi]({{< ref "/f33/package/plasma-drkonqi.md" >}}) | 1332 | 3966 | 33.6 | Bulgarian <dict@ludost.net> | 
- | [kget]({{< ref "/f33/package/kget.md" >}}) | 986 | 2946 | 33.5 | Bulgarian <dict@fsa-bg.org> | 
- | [stellarium]({{< ref "/f33/package/stellarium.md" >}}) | 47187 | 141404 | 33.4 | Bulgarian (https://www.transifex.com/stellarium/teams/80998/bg/) | 
- | [pantheon-agent-polkit]({{< ref "/f33/package/pantheon-agent-polkit.md" >}}) | 16 | 48 | 33.3 | Bulgarian <https://l10n.elementary.io/projects/desktop/pantheon-agent-polkit/bg/> | 
- | [dolphin]({{< ref "/f33/package/dolphin.md" >}}) | 1454 | 4396 | 33.1 | Bulgarian <dict@ludost.net> | 
- | [switchboard]({{< ref "/f33/package/switchboard.md" >}}) | 41 | 124 | 33.1 | Bulgarian <bg@li.org> | 
- | [eom]({{< ref "/f33/package/eom.md" >}}) | 1635 | 4951 | 33.0 | Bulgarian (https://www.transifex.com/mate/teams/13566/bg/) | 
- | [kf5-kxmlgui]({{< ref "/f33/package/kf5-kxmlgui.md" >}}) | 504 | 1533 | 32.9 | Bulgarian <dict@ludost.net> | 
- | [kgraphviewer]({{< ref "/f33/package/kgraphviewer.md" >}}) | 394 | 1205 | 32.7 | Bulgarian <dict@fsa-bg.org> | 
- | [network-manager-applet]({{< ref "/f33/package/network-manager-applet.md" >}}) | 1456 | 4478 | 32.5 | Bulgarian <dict@fsa-bg.org> | 
- | [elementary-terminal]({{< ref "/f33/package/elementary-terminal.md" >}}) | 141 | 442 | 31.9 | Bulgarian <bg@li.org> | 
- | [geany]({{< ref "/f33/package/geany.md" >}}) | 1923 | 6069 | 31.7 | Bulgarian <bg@li.org> | 
- | [hexchat]({{< ref "/f33/package/hexchat.md" >}}) | 1887 | 5971 | 31.6 | Bulgarian (http://www.transifex.com/hexchat/hexchat/language/bg/) | 
- | [wingpanel]({{< ref "/f33/package/wingpanel.md" >}}) | 6 | 19 | 31.6 | LANGUAGE <LL@li.org> | 
- | [zabbix]({{< ref "/f33/package/zabbix.md" >}}) | 5252 | 16740 | 31.4 |  | 
- | [renameutils]({{< ref "/f33/package/renameutils.md" >}}) | 83 | 265 | 31.3 | Bulgarian <dict@fsa-bg.org> | 
- | [plasma-nm]({{< ref "/f33/package/plasma-nm.md" >}}) | 700 | 2241 | 31.2 | BULGARIAN <svetlisashkov@yahoo.com> | 
- | [exaile]({{< ref "/f33/package/exaile.md" >}}) | 1268 | 4067 | 31.2 | Bulgarian <https://hosted.weblate.org/projects/exaile/master/bg/> | 
- | [inkscape]({{< ref "/f33/package/inkscape.md" >}}) | 12763 | 40950 | 31.2 | Bulgarian <bg@li.org> | 
- | [eiskaltdcpp]({{< ref "/f33/package/eiskaltdcpp.md" >}}) | 1129 | 3626 | 31.1 | Bulgarian (https://www.transifex.com/tehnick/teams/11818/bg/) | 
- | [kf5-knotifyconfig]({{< ref "/f33/package/kf5-knotifyconfig.md" >}}) | 40 | 129 | 31.0 | Bulgarian <dict@ludost.net> | 
- | [lokalize]({{< ref "/f33/package/lokalize.md" >}}) | 1266 | 4085 | 31.0 | Bulgarian <dict@fsa-bg.org> | 
- | [libreport]({{< ref "/f33/package/libreport.md" >}}) | 1525 | 4928 | 30.9 | Bulgarian <https://translate.stg.fedoraproject.org/projects/abrt/libreport/bg/> | 
- | [tilix]({{< ref "/f33/package/tilix.md" >}}) | 652 | 2108 | 30.9 | Bulgarian <https://hosted.weblate.org/projects/tilix/translations/bg/> | 
- | [ksystemlog]({{< ref "/f33/package/ksystemlog.md" >}}) | 935 | 3034 | 30.8 | Bulgarian <dict@linux.zonebg.com> | 
- | [godot]({{< ref "/f33/package/godot.md" >}}) | 4007 | 13216 | 30.3 | Bulgarian <https://hosted.weblate.org/projects/godot-engine/godot/bg/> | 
- | [terminator]({{< ref "/f33/package/terminator.md" >}}) | 432 | 1450 | 29.8 | Bulgarian (https://www.transifex.com/terminator/teams/109338/bg/) | 
- | [pgadmin3]({{< ref "/f33/package/pgadmin3.md" >}}) | 6910 | 23216 | 29.8 | The pgAdmin Development Team <pgadmin-hackers@postgresql.org> | 
- | [gscan2pdf]({{< ref "/f33/package/gscan2pdf.md" >}}) | 686 | 2332 | 29.4 | Bulgarian <bg@li.org> | 
- | [ark]({{< ref "/f33/package/ark.md" >}}) | 562 | 1917 | 29.3 | Bulgarian <dict@fsa-bg.org> | 
- | [plasma-discover]({{< ref "/f33/package/plasma-discover.md" >}}) | 282 | 974 | 29.0 | BULGARIAN <kde-i18n-doc@kde.org> | 
- | [compiz]({{< ref "/f33/package/compiz.md" >}}) | 1240 | 4385 | 28.3 | Bulgarian <opensuse-translation@opensuse.org> | 
- | [firewalld]({{< ref "/f33/package/firewalld.md" >}}) | 622 | 2217 | 28.1 | Bulgarian (http://www.transifex.com/projects/p/firewalld/language/bg/) | 
- | [system-config-language]({{< ref "/f33/package/system-config-language.md" >}}) | 60 | 215 | 27.9 | Bulgarian <dict@linux.zonebg.com> | 
- | [malcontent]({{< ref "/f33/package/malcontent.md" >}}) | 299 | 1073 | 27.9 | none | 
- | [kf5-kbookmarks]({{< ref "/f33/package/kf5-kbookmarks.md" >}}) | 64 | 230 | 27.8 | Bulgarian <dict@ludost.net> | 
- | [policycoreutils]({{< ref "/f33/package/policycoreutils.md" >}}) | 1250 | 4493 | 27.8 | Bulgarian | 
- | [kf5-kdesignerplugin]({{< ref "/f33/package/kf5-kdesignerplugin.md" >}}) | 15 | 54 | 27.8 | Bulgarian <dict@ludost.net> | 
- | [kf5-messagelib]({{< ref "/f33/package/kf5-messagelib.md" >}}) | 1007 | 3639 | 27.7 | Bulgarian <dict@fsa-bg.org> | 
- | [kgpg]({{< ref "/f33/package/kgpg.md" >}}) | 1440 | 5268 | 27.3 | Bulgarian <dict@fsa-bg.org> | 
- | [kwin]({{< ref "/f33/package/kwin.md" >}}) | 1568 | 5848 | 26.8 | Bulgarian <dict@fsa-bg.org> | 
- | [simple-scan]({{< ref "/f33/package/simple-scan.md" >}}) | 511 | 1945 | 26.3 | Bulgarian <bg@li.org> | 
- | [mate-system-monitor]({{< ref "/f33/package/mate-system-monitor.md" >}}) | 1275 | 4911 | 26.0 | Bulgarian (https://www.transifex.com/mate/teams/13566/bg/) | 
- | [duplicity]({{< ref "/f33/package/duplicity.md" >}}) | 571 | 2215 | 25.8 | Bulgarian <bg@li.org> | 
- | [geeqie]({{< ref "/f33/package/geeqie.md" >}}) | 1117 | 4348 | 25.7 | Bulgarian <bg@li.org> | 
- | [massif-visualizer]({{< ref "/f33/package/massif-visualizer.md" >}}) | 91 | 357 | 25.5 | Bulgarian <dict@ludost.net> | 
- | [aria2]({{< ref "/f33/package/aria2.md" >}}) | 1899 | 7486 | 25.4 | Bulgarian <bg@li.org> | 
- | [ktuberling]({{< ref "/f33/package/ktuberling.md" >}}) | 40 | 158 | 25.3 | Bulgarian <dict@linux.zonebg.com> | 
- | [pidgin]({{< ref "/f33/package/pidgin.md" >}}) | 3915 | 15835 | 24.7 | Bulgarian (http://www.transifex.com/pidgin/pidgin/language/bg/) | 
- | [ibus]({{< ref "/f33/package/ibus.md" >}}) | 543 | 2241 | 24.2 | Bulgarian <trans-bg@lists.fedoraproject.org> | 
- | [liferea]({{< ref "/f33/package/liferea.md" >}}) | 528 | 2218 | 23.8 | Bulgarian <dict@fsa-bg.org> | 
- | [kde-connect]({{< ref "/f33/package/kde-connect.md" >}}) | 32 | 135 | 23.7 | BULGARIAN <kde-i18n-doc@kde.org> | 
- | [kbruch]({{< ref "/f33/package/kbruch.md" >}}) | 312 | 1347 | 23.2 | Bulgarian <dict@linux.zonebg.com> | 
- | [switchboard-plug-display]({{< ref "/f33/package/switchboard-plug-display.md" >}}) | 32 | 139 | 23.0 | Bulgarian <bg@li.org> | 
- | [plasma-oxygen]({{< ref "/f33/package/plasma-oxygen.md" >}}) | 142 | 618 | 23.0 | Bulgarian <dict@fsa-bg.org> | 
- | [kf5-libktorrent]({{< ref "/f33/package/kf5-libktorrent.md" >}}) | 108 | 471 | 22.9 | Bulgarian <dict@fsa-bg.org> | 
- | [kcm_wacomtablet]({{< ref "/f33/package/kcm_wacomtablet.md" >}}) | 227 | 996 | 22.8 | BULGARIAN <kde-i18n-doc@kde.org> | 
- | [kf5-ktexteditor]({{< ref "/f33/package/kf5-ktexteditor.md" >}}) | 1994 | 8772 | 22.7 | Bulgarian <dict@fsa-bg.org> | 
- | [avogadro2]({{< ref "/f33/package/avogadro2.md" >}}) | 105 | 462 | 22.7 | Bulgarian <bg@li.org> | 
- | [totem]({{< ref "/f33/package/totem.md" >}}) | 1327 | 5879 | 22.6 | LANGUAGE <LL@li.org> | 
- | [switchboard-plug-mouse-touchpad]({{< ref "/f33/package/switchboard-plug-mouse-touchpad.md" >}}) | 52 | 232 | 22.4 | Bulgarian <https://l10n.elementary.io/projects/switchboard/switchboard-plug-mouse-touchpad/bg/> | 
- | [trytond-party-siret]({{< ref "/f33/package/trytond-party-siret.md" >}}) | 4 | 18 | 22.2 |  | 
- | [kanagram]({{< ref "/f33/package/kanagram.md" >}}) | 117 | 528 | 22.2 | Bulgarian <dict@linux.zonebg.com> | 
- | [grub-customizer]({{< ref "/f33/package/grub-customizer.md" >}}) | 283 | 1295 | 21.9 | Bulgarian <bg@li.org> | 
- | [kf5-grantleetheme]({{< ref "/f33/package/kf5-grantleetheme.md" >}}) | 3 | 14 | 21.4 | Bulgarian <dict@ludost.net> | 
- | [elementary-code]({{< ref "/f33/package/elementary-code.md" >}}) | 246 | 1151 | 21.4 | Bulgarian <https://l10n.elementary.io/projects/code/code/bg/> | 
- | [korganizer]({{< ref "/f33/package/korganizer.md" >}}) | 1485 | 6966 | 21.3 | Bulgarian <dict@fsa-bg.org> | 
- | [gajim]({{< ref "/f33/package/gajim.md" >}}) | 2222 | 10433 | 21.3 | Bulgarian <dict@fsa-bg.org> | 
- | [php-horde-Horde-Crypt]({{< ref "/f33/package/php-horde-Horde-Crypt.md" >}}) | 84 | 396 | 21.2 | i18n@lists.horde.org | 
- | [backintime]({{< ref "/f33/package/backintime.md" >}}) | 418 | 1972 | 21.2 | Bulgarian <bg@li.org> | 
- | [python-meh]({{< ref "/f33/package/python-meh.md" >}}) | 23 | 109 | 21.1 | Bulgarian (http://www.transifex.com/projects/p/python-meh/language/bg/) | 
- | [kf5-libkleo]({{< ref "/f33/package/kf5-libkleo.md" >}}) | 279 | 1325 | 21.1 | Bulgarian <dict@fsa-bg.org> | 
- | [kexi]({{< ref "/f33/package/kexi.md" >}}) | 1536 | 7340 | 20.9 | Bulgarian <dict@fsa-bg.org> | 
- | [granite]({{< ref "/f33/package/granite.md" >}}) | 56 | 269 | 20.8 | Bulgarian <bg@li.org> | 
- | [gala]({{< ref "/f33/package/gala.md" >}}) | 41 | 197 | 20.8 | Bulgarian <https://l10n.elementary.io/projects/desktop/gala/bg/> | 
- | [kf5-knewstuff]({{< ref "/f33/package/kf5-knewstuff.md" >}}) | 336 | 1636 | 20.5 | Bulgarian <dict@ludost.net> | 
- | [engrampa]({{< ref "/f33/package/engrampa.md" >}}) | 1595 | 7817 | 20.4 | Bulgarian (https://www.transifex.com/mate/teams/13566/bg/) | 
- | [kjumpingcube]({{< ref "/f33/package/kjumpingcube.md" >}}) | 82 | 412 | 19.9 | Bulgarian <dict@linux.zonebg.com> | 
- | [psmisc]({{< ref "/f33/package/psmisc.md" >}}) | 203 | 1028 | 19.7 | Bulgarian <dict@fsa-bg.org> | 
- | [publican]({{< ref "/f33/package/publican.md" >}}) | 1065 | 5443 | 19.6 | Bulgarian <f0x1@mail.bg> | 
- | [NetworkManager-openvpn]({{< ref "/f33/package/NetworkManager-openvpn.md" >}}) | 205 | 1049 | 19.5 | Bulgarian <dict@fsa-bg.org> | 
- | [icewm]({{< ref "/f33/package/icewm.md" >}}) | 432 | 2224 | 19.4 | Bulgarian <https://l10n.opensuse.org/projects/icewm/icewm-1-3-branch/bg/> | 
- | [rednotebook]({{< ref "/f33/package/rednotebook.md" >}}) | 222 | 1147 | 19.4 | Bulgarian <bg@li.org> | 
- | [sugar-record]({{< ref "/f33/package/sugar-record.md" >}}) | 12 | 62 | 19.4 | Bulgarian <dict@fsa-bg.org> | 
- | [kontact]({{< ref "/f33/package/kontact.md" >}}) | 116 | 600 | 19.3 | Bulgarian <dict@ludost.net> | 
- | [lxsession]({{< ref "/f33/package/lxsession.md" >}}) | 145 | 755 | 19.2 | MIME-Version: 1.0 | 
- | [transmission-remote-gtk]({{< ref "/f33/package/transmission-remote-gtk.md" >}}) | 186 | 969 | 19.2 | Bulgarian <bg@li.org> | 
- | [kalzium]({{< ref "/f33/package/kalzium.md" >}}) | 1845 | 9999 | 18.5 | Bulgarian <dict@ludost.net> | 
- | [sugar-chat]({{< ref "/f33/package/sugar-chat.md" >}}) | 25 | 137 | 18.2 | LANGUAGE <LL@li.org> | 
- | [cozy]({{< ref "/f33/package/cozy.md" >}}) | 185 | 1026 | 18.0 | Bulgarian (https://www.transifex.com/geigi/teams/78138/bg/) | 
- | [sugar]({{< ref "/f33/package/sugar.md" >}}) | 408 | 2305 | 17.7 | LANGUAGE <LL@li.org> | 
- | [enlightenment]({{< ref "/f33/package/enlightenment.md" >}}) | 1594 | 9053 | 17.6 | English <en@li.org> | 
- | [sugar-read]({{< ref "/f33/package/sugar-read.md" >}}) | 24 | 137 | 17.5 | LANGUAGE <LL@li.org> | 
- | [quodlibet]({{< ref "/f33/package/quodlibet.md" >}}) | 996 | 5716 | 17.4 | Bulgarian <dict@fsa-bg.org> | 
- | [kf5-kfilemetadata]({{< ref "/f33/package/kf5-kfilemetadata.md" >}}) | 52 | 302 | 17.2 | BULGARIAN <kde-i18n-doc@kde.org> | 
- | [kjots]({{< ref "/f33/package/kjots.md" >}}) | 112 | 651 | 17.2 | Bulgarian <dict@ludost.net> | 
- | [electrum]({{< ref "/f33/package/electrum.md" >}}) | 1406 | 8292 | 17.0 | Bulgarian | 
- | [bibletime]({{< ref "/f33/package/bibletime.md" >}}) | 801 | 4801 | 16.7 | Bulgarian (http://www.transifex.com/bibletime/bibletime/language/bg/) | 
- | [hello]({{< ref "/f33/package/hello.md" >}}) | 31 | 186 | 16.7 | Bulgarian <dict@fsa-bg.org> | 
- | [ksudoku]({{< ref "/f33/package/ksudoku.md" >}}) | 291 | 1746 | 16.7 | Bulgarian <dict@fsa-bg.org> | 
- | [avogadro]({{< ref "/f33/package/avogadro.md" >}}) | 1100 | 6607 | 16.6 | Bulgarian <bg@li.org> | 
- | [konsole5]({{< ref "/f33/package/konsole5.md" >}}) | 502 | 3042 | 16.5 | Bulgarian <dict@ludost.net> | 
- | [libksysguard]({{< ref "/f33/package/libksysguard.md" >}}) | 559 | 3439 | 16.3 | Bulgarian <dict@fsa-bg.org> | 
- | [kdepim-addons]({{< ref "/f33/package/kdepim-addons.md" >}}) | 319 | 1991 | 16.0 | Bulgarian <dict@ludost.net> | 
- | [kf5-baloo]({{< ref "/f33/package/kf5-baloo.md" >}}) | 32 | 204 | 15.7 | BULGARIAN <kde-i18n-doc@kde.org> | 
- | [mate-applets]({{< ref "/f33/package/mate-applets.md" >}}) | 2483 | 15853 | 15.7 | Bulgarian (https://www.transifex.com/mate/teams/13566/bg/) | 
- | [dnfdragora]({{< ref "/f33/package/dnfdragora.md" >}}) | 276 | 1771 | 15.6 | Bulgarian (https://www.transifex.com/MageiaLinux/teams/9361/bg/) | 
- | [kicad]({{< ref "/f33/package/kicad.md" >}}) | 3903 | 25157 | 15.5 | KiCad Team <evgeniy_p_ivanov@yahoo.ca> | 
- | [kf5-libksieve]({{< ref "/f33/package/kf5-libksieve.md" >}}) | 522 | 3368 | 15.5 | Bulgarian <dict@fsa-bg.org> | 
- | [trytond-analytic-invoice]({{< ref "/f33/package/trytond-analytic-invoice.md" >}}) | 2 | 13 | 15.4 |  | 
- | [trytond-analytic-sale]({{< ref "/f33/package/trytond-analytic-sale.md" >}}) | 2 | 13 | 15.4 |  | 
- | [mate-sensors-applet]({{< ref "/f33/package/mate-sensors-applet.md" >}}) | 324 | 2160 | 15.0 | Bulgarian (https://www.transifex.com/mate/teams/13566/bg/) | 
- | [sugar-speak]({{< ref "/f33/package/sugar-speak.md" >}}) | 34 | 227 | 15.0 | LANGUAGE <LL@li.org> | 
- | [switchboard-plug-bluetooth]({{< ref "/f33/package/switchboard-plug-bluetooth.md" >}}) | 28 | 188 | 14.9 | Bulgarian <https://l10n.elementary.io/projects/switchboard/switchboard-plug-bluetooth/bg/> | 
- | [foxtrotgps]({{< ref "/f33/package/foxtrotgps.md" >}}) | 147 | 995 | 14.8 | Svetoslav Stefanov <lfu.project@gmail.com> | 
- | [wget]({{< ref "/f33/package/wget.md" >}}) | 572 | 4070 | 14.1 | Bulgarian <dict@ludost.net> | 
- | [gnumeric]({{< ref "/f33/package/gnumeric.md" >}}) | 4884 | 35046 | 13.9 | Bulgarian <dict@fsa-bg.org> | 
- | [sssd]({{< ref "/f33/package/sssd.md" >}}) | 694 | 5072 | 13.7 | Bulgarian (http://www.transifex.com/projects/p/sssd/language/bg/) | 
- | [NetworkManager-ssh]({{< ref "/f33/package/NetworkManager-ssh.md" >}}) | 39 | 286 | 13.6 | Bulgarian <dict@fsa-bg.org> | 
- | [php-horde-Horde-Form]({{< ref "/f33/package/php-horde-Horde-Form.md" >}}) | 75 | 553 | 13.6 | i18n@lists.horde.org | 
- | [kshisen]({{< ref "/f33/package/kshisen.md" >}}) | 76 | 568 | 13.4 | Bulgarian <dict@ludost.net> | 
- | [wingpanel-indicator-sound]({{< ref "/f33/package/wingpanel-indicator-sound.md" >}}) | 7 | 53 | 13.2 | LANGUAGE <LL@li.org> | 
- | [kaddressbook]({{< ref "/f33/package/kaddressbook.md" >}}) | 103 | 783 | 13.2 | Bulgarian <dict@fsa-bg.org> | 
- | [switchdesk]({{< ref "/f33/package/switchdesk.md" >}}) | 16 | 122 | 13.1 | Bulgarian <dict@fsa-bg.org> | 
- | [calamares]({{< ref "/f33/package/calamares.md" >}}) | 58 | 443 | 13.1 | Bulgarian (https://www.transifex.com/calamares/teams/20061/bg/) | 
- | [onboard]({{< ref "/f33/package/onboard.md" >}}) | 300 | 2318 | 12.9 | Bulgarian <bg@li.org> | 
- | [kajongg]({{< ref "/f33/package/kajongg.md" >}}) | 316 | 2444 | 12.9 | Bulgarian <dict@fsa-bg.org> | 
- | [pykickstart]({{< ref "/f33/package/pykickstart.md" >}}) | 215 | 1691 | 12.7 | Bulgarian (http://www.transifex.com/projects/p/pykickstart/language/bg/) | 
- | [trytond-product-cost-fifo]({{< ref "/f33/package/trytond-product-cost-fifo.md" >}}) | 3 | 24 | 12.5 |  | 
- | [bluefish]({{< ref "/f33/package/bluefish.md" >}}) | 618 | 4945 | 12.5 | Not a member <bg@li.org> | 
- | [parley]({{< ref "/f33/package/parley.md" >}}) | 467 | 3850 | 12.1 | Bulgarian <dict@linux.zonebg.com> | 
- | [dialog]({{< ref "/f33/package/dialog.md" >}}) | 3 | 25 | 12.0 | Bulgarian <dict@linux.zonebg.com> | 
- | [calligraplan]({{< ref "/f33/package/calligraplan.md" >}}) | 1065 | 8894 | 12.0 | Bulgarian <dict@linux.zonebg.com> | 
- | [ktorrent]({{< ref "/f33/package/ktorrent.md" >}}) | 904 | 7574 | 11.9 | Bulgarian <dict@fsa-bg.org> | 
- | [iso-codes]({{< ref "/f33/package/iso-codes.md" >}}) | 2706 | 22886 | 11.8 | Bulgarian <dict@fsa-bg.org> | 
- | [kstars]({{< ref "/f33/package/kstars.md" >}}) | 7284 | 62342 | 11.7 | Bulgarian <dict@ludost.net> | 
- | [php-horde-Horde-Date]({{< ref "/f33/package/php-horde-Horde-Date.md" >}}) | 4 | 36 | 11.1 | i18n@lists.horde.org | 
- | [goffice]({{< ref "/f33/package/goffice.md" >}}) | 684 | 6201 | 11.0 | Bulgarian <dict@linux.zonebg.com> | 
- | [php-horde-Horde-Core]({{< ref "/f33/package/php-horde-Horde-Core.md" >}}) | 82 | 771 | 10.6 | i18n@lists.horde.org | 
- | [ikiwiki]({{< ref "/f33/package/ikiwiki.md" >}}) | 161 | 1529 | 10.5 | Bulgarian <dict@fsa-bg.org> | 
- | [sugar-pippy]({{< ref "/f33/package/sugar-pippy.md" >}}) | 28 | 275 | 10.2 | LANGUAGE <LL@li.org> | 
- | [kdevelop]({{< ref "/f33/package/kdevelop.md" >}}) | 605 | 6138 | 9.9 | Bulgarian <dict@fsa-bg.org> | 
- | [pulseaudio]({{< ref "/f33/package/pulseaudio.md" >}}) | 324 | 3450 | 9.4 | Bulgarian <https://translate.fedoraproject.org/projects/pulseaudio/pulseaudio/bg/> | 
- | [wingpanel-indicator-datetime]({{< ref "/f33/package/wingpanel-indicator-datetime.md" >}}) | 12 | 128 | 9.4 | Bulgarian <https://l10n.elementary.io/projects/wingpanel/wingpanel-indicator-datetime/bg/> | 
- | [NetworkManager-l2tp]({{< ref "/f33/package/NetworkManager-l2tp.md" >}}) | 117 | 1250 | 9.4 | Bulgarian <dict@fsa-bg.org> | 
- | [dconf-editor]({{< ref "/f33/package/dconf-editor.md" >}}) | 136 | 1464 | 9.3 | Bulgarian <dict@fsa-bg.org> | 
- | [tellico]({{< ref "/f33/package/tellico.md" >}}) | 540 | 5858 | 9.2 | Bulgarian <dict@fsa-bg.org> | 
- | [trytond-analytic-purchase]({{< ref "/f33/package/trytond-analytic-purchase.md" >}}) | 2 | 22 | 9.1 |  | 
- | [cairo-dock]({{< ref "/f33/package/cairo-dock.md" >}}) | 675 | 7464 | 9.0 | Bulgarian <bg@li.org> | 
- | [elementary-greeter]({{< ref "/f33/package/elementary-greeter.md" >}}) | 15 | 166 | 9.0 | Bulgarian <https://l10n.elementary.io/projects/desktop/greeter/bg/> | 
- | [system-switch-mail]({{< ref "/f33/package/system-switch-mail.md" >}}) | 9 | 101 | 8.9 | Bulgarian <Bulgarian Translators' Team <dict@fsa-bg.org>> | 
- | [kf5-kunitconversion]({{< ref "/f33/package/kf5-kunitconversion.md" >}}) | 507 | 5735 | 8.8 | Bulgarian <dict@fsa-bg.org> | 
- | [spectacle]({{< ref "/f33/package/spectacle.md" >}}) | 72 | 855 | 8.4 | Bulgarian <dict@ludost.net> | 
- | [kreversi]({{< ref "/f33/package/kreversi.md" >}}) | 36 | 429 | 8.4 | Bulgarian <dict@linux.zonebg.com> | 
- | [php-horde-Horde-Share]({{< ref "/f33/package/php-horde-Horde-Share.md" >}}) | 4 | 48 | 8.3 | i18n@lists.horde.org | 
- | [digikam]({{< ref "/f33/package/digikam.md" >}}) | 4276 | 51358 | 8.3 | Bulgarian <dict@fsa-bg.org> | 
- | [krita]({{< ref "/f33/package/krita.md" >}}) | 2226 | 27841 | 8.0 | Bulgarian <dict@fsa-bg.org> | 
- | [kreport]({{< ref "/f33/package/kreport.md" >}}) | 36 | 455 | 7.9 | Bulgarian <dict@ludost.net> | 
- | [php-horde-Horde-Alarm]({{< ref "/f33/package/php-horde-Horde-Alarm.md" >}}) | 1 | 13 | 7.7 | i18n@lists.horde.org | 
- | [python-apt]({{< ref "/f33/package/python-apt.md" >}}) | 41 | 544 | 7.5 | Bulgarian <dict@fsa-bg.org> | 
- | [kf5-kalarmcal]({{< ref "/f33/package/kf5-kalarmcal.md" >}}) | 3 | 40 | 7.5 | Bulgarian <dict@fsa-bg.org> | 
- | [php-horde-horde]({{< ref "/f33/package/php-horde-horde.md" >}}) | 259 | 3474 | 7.5 | i18n@lists.horde.org | 
- | [sugar-browse]({{< ref "/f33/package/sugar-browse.md" >}}) | 24 | 334 | 7.2 | LANGUAGE <LL@li.org> | 
- | [freedink]({{< ref "/f33/package/freedink.md" >}}) | 5 | 70 | 7.1 | Bulgarian <dict@fsa-bg.org> | 
- | [wine]({{< ref "/f33/package/wine.md" >}}) | 1280 | 18402 | 7.0 | Bulgarian | 
- | [smb4k]({{< ref "/f33/package/smb4k.md" >}}) | 418 | 6014 | 7.0 | Bulgarian <dict@fsa-bg.org> | 
- | [gammu]({{< ref "/f33/package/gammu.md" >}}) | 260 | 4017 | 6.5 | Bulgarian <https://hosted.weblate.org/projects/gammu/gammu-docs/bg/> | 
- | [php-horde-Horde-Prefs]({{< ref "/f33/package/php-horde-Horde-Prefs.md" >}}) | 2 | 32 | 6.2 | i18n@lists.horde.org | 
- | [kgoldrunner]({{< ref "/f33/package/kgoldrunner.md" >}}) | 1454 | 23556 | 6.2 | Bulgarian <dict@fsa-bg.org> | 
- | [sharutils]({{< ref "/f33/package/sharutils.md" >}}) | 191 | 3147 | 6.1 | Bulgarian <dict@fsa-bg.org> | 
- | [wingpanel-indicator-keyboard]({{< ref "/f33/package/wingpanel-indicator-keyboard.md" >}}) | 2 | 38 | 5.3 | LANGUAGE <LL@li.org> | 
- | [elinks]({{< ref "/f33/package/elinks.md" >}}) | 611 | 12245 | 5.0 | Bulgarian <bg-team@bash.info> | 
- | [sugar-terminal]({{< ref "/f33/package/sugar-terminal.md" >}}) | 6 | 121 | 5.0 | LANGUAGE <LL@li.org> | 
- | [avogadro2-libs]({{< ref "/f33/package/avogadro2-libs.md" >}}) | 169 | 3466 | 4.9 | Bulgarian <https://hosted.weblate.org/projects/avogadro/avogadrolibs/bg/> | 
- | [freeciv]({{< ref "/f33/package/freeciv.md" >}}) | 5103 | 106305 | 4.8 | Bulgarian | 
- | [gsettings-desktop-schemas]({{< ref "/f33/package/gsettings-desktop-schemas.md" >}}) | 254 | 5319 | 4.8 | Bulgarian <dict@fsa-bg.org> | 
- | [kphotoalbum]({{< ref "/f33/package/kphotoalbum.md" >}}) | 449 | 9473 | 4.7 | Bulgarian <dict@fsa-bg.org> | 
- | [kmymoney]({{< ref "/f33/package/kmymoney.md" >}}) | 1004 | 21824 | 4.6 | Bulgarian <dict@fsa-bg.org> | 
- | [picard]({{< ref "/f33/package/picard.md" >}}) | 279 | 6265 | 4.5 | Bulgarian (http://www.transifex.com/musicbrainz/musicbrainz/language/bg/) | 
- | [marble]({{< ref "/f33/package/marble.md" >}}) | 487 | 11418 | 4.3 | Bulgarian <dict@fsa-bg.org> | 
- | [wdiff]({{< ref "/f33/package/wdiff.md" >}}) | 5 | 120 | 4.2 | Bulgarian <dict@fsa-bg.org> | 
- | [knetwalk]({{< ref "/f33/package/knetwalk.md" >}}) | 9 | 230 | 3.9 | Bulgarian <dict@linux.zonebg.com> | 
- | [minetest]({{< ref "/f33/package/minetest.md" >}}) | 367 | 9649 | 3.8 | Bulgarian <https://hosted.weblate.org/projects/minetest/minetest/bg/> | 
- | [kleopatra]({{< ref "/f33/package/kleopatra.md" >}}) | 329 | 8658 | 3.8 | Bulgarian <dict@linux.zonebg.com> | 
- | [cacti]({{< ref "/f33/package/cacti.md" >}}) | 1113 | 29825 | 3.7 | Bulgarian <bg@li.org> | 
- | [flare]({{< ref "/f33/package/flare.md" >}}) | 193 | 5271 | 3.7 | Bulgarian (https://www.transifex.com/flareorg/teams/84925/bg/) | 
- | [calibre]({{< ref "/f33/package/calibre.md" >}}) | 5457 | 161062 | 3.4 | Bulgarian (http://www.transifex.com/calibre/calibre/language/bg/) | 
- | [php-horde-Horde-Argv]({{< ref "/f33/package/php-horde-Horde-Argv.md" >}}) | 2 | 60 | 3.3 | i18n@lists.horde.org | 
- | [pingus]({{< ref "/f33/package/pingus.md" >}}) | 178 | 5395 | 3.3 | Bulgarian <bg@li.org> | 
- | [mate-user-admin]({{< ref "/f33/package/mate-user-admin.md" >}}) | 20 | 628 | 3.2 | Bulgarian (https://www.transifex.com/mate/teams/13566/bg/) | 
- | [kpmcore]({{< ref "/f33/package/kpmcore.md" >}}) | 96 | 3226 | 3.0 | Bulgarian <dict@fsa-bg.org> | 
- | [light-locker]({{< ref "/f33/package/light-locker.md" >}}) | 7 | 260 | 2.7 | Bulgarian (http://www.transifex.com/the_cavalry/light-locker/language/bg/) | 
- | [pychess]({{< ref "/f33/package/pychess.md" >}}) | 114 | 4455 | 2.6 | Bulgarian (http://www.transifex.com/gbtami/pychess/language/bg/) | 
- | [NetworkManager]({{< ref "/f33/package/NetworkManager.md" >}}) | 622 | 26763 | 2.3 | Bulgarian <dict@fsa-bg.org> | 
- | [lollypop]({{< ref "/f33/package/lollypop.md" >}}) | 32 | 1437 | 2.2 | Bulgarian <https://hosted.weblate.org/projects/gnumdk/lollypop/bg/> | 
- | [libvirt]({{< ref "/f33/package/libvirt.md" >}}) | 1402 | 67160 | 2.1 | Bulgarian (http://www.transifex.com/projects/p/fedora/language/bg/) | 
- | [mingw-libvirt]({{< ref "/f33/package/mingw-libvirt.md" >}}) | 1402 | 67160 | 2.1 | Bulgarian (http://www.transifex.com/projects/p/fedora/language/bg/) | 
- | [sugar-measure]({{< ref "/f33/package/sugar-measure.md" >}}) | 3 | 155 | 1.9 | LANGUAGE <LL@li.org> | 
- | [NetworkManager-fortisslvpn]({{< ref "/f33/package/NetworkManager-fortisslvpn.md" >}}) | 6 | 323 | 1.9 | Bulgarian <dict@fsa-bg.org> | 
- | [spacefm]({{< ref "/f33/package/spacefm.md" >}}) | 157 | 8722 | 1.8 | Bulgarian (http://www.transifex.com/projects/p/spacefm/language/bg/) | 
- | [NetworkManager-libreswan]({{< ref "/f33/package/NetworkManager-libreswan.md" >}}) | 8 | 465 | 1.7 | Bulgarian <dict@fsa-bg.org> | 
- | [NetworkManager-openconnect]({{< ref "/f33/package/NetworkManager-openconnect.md" >}}) | 54 | 3241 | 1.7 | Bulgarian <dict@fsa-bg.org> | 
- | [virt-manager]({{< ref "/f33/package/virt-manager.md" >}}) | 113 | 7102 | 1.6 | Bulgarian (http://www.transifex.com/projects/p/virt-manager/language/bg/) | 
- | [xiphos]({{< ref "/f33/package/xiphos.md" >}}) | 71 | 4981 | 1.4 | Xiphos Project | 
- | [libdnf]({{< ref "/f33/package/libdnf.md" >}}) | 19 | 1441 | 1.3 | Bulgarian | 
- | [rpm-ostree]({{< ref "/f33/package/rpm-ostree.md" >}}) | 19 | 1441 | 1.3 | Bulgarian | 
- | [snapper]({{< ref "/f33/package/snapper.md" >}}) | 11 | 861 | 1.3 | Bulgarian <https://l10n.opensuse.org/projects/snapper/master/bg/> | 
- | [zypper]({{< ref "/f33/package/zypper.md" >}}) | 108 | 9243 | 1.2 | Bulgarian <https://l10n.opensuse.org/projects/zypper/master/bg/> | 
- | [tortoisehg]({{< ref "/f33/package/tortoisehg.md" >}}) | 128 | 13243 | 1.0 | Bulgarian <bg@li.org> | 
- | [php-horde-Horde-Image]({{< ref "/f33/package/php-horde-Horde-Image.md" >}}) | 5 | 581 | 0.9 | i18n@lists.horde.org | 
- | [ktouch]({{< ref "/f33/package/ktouch.md" >}}) | 8 | 948 | 0.8 | Bulgarian <dict@linux.zonebg.com> | 
- | [znc]({{< ref "/f33/package/znc.md" >}}) | 59 | 8664 | 0.7 | Bulgarian | 
- | [skrooge]({{< ref "/f33/package/skrooge.md" >}}) | 77 | 12058 | 0.6 | Bulgarian <dict@fsa-bg.org> | 
- | [elementary-sideload]({{< ref "/f33/package/elementary-sideload.md" >}}) | 1 | 224 | 0.4 | Bulgarian <https://l10n.elementary.io/projects/desktop/sideload/bg/> | 
- | [mypaint]({{< ref "/f33/package/mypaint.md" >}}) | 26 | 6573 | 0.4 | Bulgarian <https://hosted.weblate.org/projects/mypaint/mypaint/bg/> | 
- | [libmypaint]({{< ref "/f33/package/libmypaint.md" >}}) | 5 | 2303 | 0.2 | Bulgarian <https://hosted.weblate.org/projects/mypaint/libmypaint/bg/> | 
- | [libmypaint2]({{< ref "/f33/package/libmypaint2.md" >}}) | 5 | 2311 | 0.2 | Bulgarian <https://hosted.weblate.org/projects/mypaint/libmypaint/bg/> | 
- | [sugar-turtleart]({{< ref "/f33/package/sugar-turtleart.md" >}}) | 2 | 1459 | 0.1 | LANGUAGE <walter@sugarlabs.org> | 
- | [sympa]({{< ref "/f33/package/sympa.md" >}}) | 39 | 37229 | 0.1 | Български | 
- | [rapid-photo-downloader]({{< ref "/f33/package/rapid-photo-downloader.md" >}}) | 2 | 7736 | 0.0 | Bulgarian <bg@li.org> | 
- | [bookworm]({{< ref "/f33/package/bookworm.md" >}}) | 0 | 795 | 0.0 |  | 
- | [coin]({{< ref "/f33/package/coin.md" >}}) | 0 | 252 | 0.0 | none | 
- | [dippi]({{< ref "/f33/package/dippi.md" >}}) | 0 | 397 | 0.0 | none | 
- | [elementary-notifications]({{< ref "/f33/package/elementary-notifications.md" >}}) | 0 | 3 | 0.0 | none | 
- | [elementary-planner]({{< ref "/f33/package/elementary-planner.md" >}}) | 0 | 3023 | 0.0 | LANGUAGE <LL@li.org> | 
- | [elementary-shortcut-overlay]({{< ref "/f33/package/elementary-shortcut-overlay.md" >}}) | 0 | 95 | 0.0 | none | 
- | [feedreader]({{< ref "/f33/package/feedreader.md" >}}) | 0 | 1374 | 0.0 |  | 
- | [fonts-tweak-tool]({{< ref "/f33/package/fonts-tweak-tool.md" >}}) | 0 | 196 | 0.0 | Bulgarian | 
- | [gammastep]({{< ref "/f33/package/gammastep.md" >}}) | 0 | 945 | 0.0 | Bulgarian <bg@li.org> | 
- | [harvey]({{< ref "/f33/package/harvey.md" >}}) | 0 | 57 | 0.0 | none | 
- | [initial-setup]({{< ref "/f33/package/initial-setup.md" >}}) | 0 | 33 | 0.0 | Bulgarian | 
- | [kf5-kauth]({{< ref "/f33/package/kf5-kauth.md" >}}) | 0 | 73 | 0.0 | Bulgarian <dict@ludost.net> | 
- | [kf5-kcodecs]({{< ref "/f33/package/kf5-kcodecs.md" >}}) | 0 | 372 | 0.0 | Bulgarian <dict@ludost.net> | 
- | [kf5-kconfig]({{< ref "/f33/package/kf5-kconfig.md" >}}) | 0 | 271 | 0.0 | Bulgarian <dict@fsa-bg.org> | 
- | [kf5-kcoreaddons]({{< ref "/f33/package/kf5-kcoreaddons.md" >}}) | 0 | 495 | 0.0 | Bulgarian <dict@ludost.net> | 
- | [kf5-kglobalaccel]({{< ref "/f33/package/kf5-kglobalaccel.md" >}}) | 0 | 71 | 0.0 | Bulgarian <dict@ludost.net> | 
- | [kf5-kholidays]({{< ref "/f33/package/kf5-kholidays.md" >}}) | 0 | 139 | 0.0 | Bulgarian <dict@ludost.net> | 
- | [kf5-kjobwidgets]({{< ref "/f33/package/kf5-kjobwidgets.md" >}}) | 0 | 133 | 0.0 | Bulgarian <dict@ludost.net> | 
- | [kf5-knotifications]({{< ref "/f33/package/kf5-knotifications.md" >}}) | 0 | 20 | 0.0 | Bulgarian <dict@ludost.net> | 
- | [kf5-sonnet]({{< ref "/f33/package/kf5-sonnet.md" >}}) | 0 | 667 | 0.0 | Bulgarian <dict@ludost.net> | 
- | [kf5-syntax-highlighting]({{< ref "/f33/package/kf5-syntax-highlighting.md" >}}) | 0 | 604 | 0.0 | Bulgarian <dict@fsa-bg.org> | 
- | [libgxim]({{< ref "/f33/package/libgxim.md" >}}) | 0 | 124 | 0.0 | LANGUAGE <LL@li.org> | 
- | [libvirt-glib]({{< ref "/f33/package/libvirt-glib.md" >}}) | 0 | 158 | 0.0 | Bulgarian (http://www.transifex.com/projects/p/libvirt-glib/language/bg/) | 
- | [libvirt-sandbox]({{< ref "/f33/package/libvirt-sandbox.md" >}}) | 0 | 617 | 0.0 | Bulgarian <trans-bg@lists.fedoraproject.org> | 
- | [lxde-common]({{< ref "/f33/package/lxde-common.md" >}}) | 0 | 14 | 0.0 | LANGUAGE <LL@li.org> | 
- | [mingw-colord]({{< ref "/f33/package/mingw-colord.md" >}}) | 0 | 1061 | 0.0 | Bulgarian (http://www.transifex.com/projects/p/freedesktop/language/bg/) | 
- | [mingw-libvirt-glib]({{< ref "/f33/package/mingw-libvirt-glib.md" >}}) | 0 | 158 | 0.0 | Bulgarian (http://www.transifex.com/projects/p/libvirt-glib/language/bg/) | 
- | [mingw-p11-kit]({{< ref "/f33/package/mingw-p11-kit.md" >}}) | 0 | 476 | 0.0 | Bulgarian (http://www.transifex.com/freedesktop/p11-kit/language/bg/) | 
- | [moodle]({{< ref "/f33/package/moodle.md" >}}) | 0 | 52 | 0.0 | i18n@lists.horde.org | 
- | [nutty]({{< ref "/f33/package/nutty.md" >}}) | 0 | 608 | 0.0 |  | 
- | [optimizer]({{< ref "/f33/package/optimizer.md" >}}) | 0 | 282 | 0.0 | none | 
- | [p11-kit]({{< ref "/f33/package/p11-kit.md" >}}) | 0 | 476 | 0.0 | Bulgarian (http://www.transifex.com/freedesktop/p11-kit/language/bg/) | 
- | [phonon-backend-gstreamer]({{< ref "/f33/package/phonon-backend-gstreamer.md" >}}) | 0 | 104 | 0.0 | Bulgarian <dict@fsa-bg.org> | 
- | [php-horde-Horde-Cli]({{< ref "/f33/package/php-horde-Horde-Cli.md" >}}) | 0 | 11 | 0.0 | i18n@lists.horde.org | 
- | [php-horde-Horde-Compress]({{< ref "/f33/package/php-horde-Horde-Compress.md" >}}) | 0 | 25 | 0.0 | i18n@lists.horde.org | 
- | [php-horde-Horde-Data]({{< ref "/f33/package/php-horde-Horde-Data.md" >}}) | 0 | 7 | 0.0 | i18n@lists.horde.org | 
- | [php-horde-Horde-Exception]({{< ref "/f33/package/php-horde-Horde-Exception.md" >}}) | 0 | 4 | 0.0 | i18n@lists.horde.org | 
- | [php-horde-Horde-Icalendar]({{< ref "/f33/package/php-horde-Horde-Icalendar.md" >}}) | 0 | 3 | 0.0 | i18n@lists.horde.org | 
- | [php-horde-Horde-Imsp]({{< ref "/f33/package/php-horde-Horde-Imsp.md" >}}) | 0 | 14 | 0.0 | i18n@lists.horde.org | 
- | [php-horde-Horde-Itip]({{< ref "/f33/package/php-horde-Horde-Itip.md" >}}) | 0 | 56 | 0.0 | i18n@lists.horde.org | 
- | [php-horde-Horde-Kolab-Storage]({{< ref "/f33/package/php-horde-Horde-Kolab-Storage.md" >}}) | 0 | 120 | 0.0 | i18n@lists.horde.org | 
- | [php-horde-Horde-Mime]({{< ref "/f33/package/php-horde-Horde-Mime.md" >}}) | 0 | 48 | 0.0 | i18n@lists.horde.org | 
- | [php-horde-Horde-Mime-Viewer]({{< ref "/f33/package/php-horde-Horde-Mime-Viewer.md" >}}) | 0 | 47 | 0.0 | i18n@lists.horde.org | 
- | [php-horde-Horde-Nls]({{< ref "/f33/package/php-horde-Horde-Nls.md" >}}) | 0 | 430 | 0.0 | i18n@lists.horde.org | 
- | [php-horde-Horde-Rpc]({{< ref "/f33/package/php-horde-Horde-Rpc.md" >}}) | 0 | 48 | 0.0 | i18n@lists.horde.org | 
- | [php-horde-Horde-SyncMl]({{< ref "/f33/package/php-horde-Horde-SyncMl.md" >}}) | 0 | 3 | 0.0 | i18n@lists.horde.org | 
- | [php-horde-Horde-Text-Filter]({{< ref "/f33/package/php-horde-Horde-Text-Filter.md" >}}) | 0 | 1 | 0.0 | i18n@lists.horde.org | 
- | [php-horde-Horde-Token]({{< ref "/f33/package/php-horde-Horde-Token.md" >}}) | 0 | 35 | 0.0 | i18n@lists.horde.org | 
- | [php-horde-Horde-Vfs]({{< ref "/f33/package/php-horde-Horde-Vfs.md" >}}) | 0 | 10 | 0.0 | i18n@lists.horde.org | 
- | [pipewire]({{< ref "/f33/package/pipewire.md" >}}) | 0 | 647 | 0.0 | Bulgarian <https://translate.fedoraproject.org/projects/pipewire/pipewire/bg/> | 
- | [pyhoca-gui]({{< ref "/f33/package/pyhoca-gui.md" >}}) | 0 | 1865 | 0.0 | X2Go i18n <x2go-i18n@lists.x2go.org> | 
- | [python-fedora]({{< ref "/f33/package/python-fedora.md" >}}) | 0 | 214 | 0.0 | Bulgarian | 
- | [python-sphinx]({{< ref "/f33/package/python-sphinx.md" >}}) | 0 | 4581 | 0.0 | Bulgarian (http://www.transifex.com/sphinx-doc/sphinx-1/language/bg/) | 
- | [realmd]({{< ref "/f33/package/realmd.md" >}}) | 0 | 789 | 0.0 | Bulgarian (http://www.transifex.com/freedesktop/realmd/language/bg/) | 
- | [redshift]({{< ref "/f33/package/redshift.md" >}}) | 0 | 1028 | 0.0 | Bulgarian <bg@li.org> | 
- | [sugar-getiabooks]({{< ref "/f33/package/sugar-getiabooks.md" >}}) | 0 | 150 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-implode]({{< ref "/f33/package/sugar-implode.md" >}}) | 0 | 77 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-infoslicer]({{< ref "/f33/package/sugar-infoslicer.md" >}}) | 0 | 236 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-labyrinth]({{< ref "/f33/package/sugar-labyrinth.md" >}}) | 0 | 281 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-ruler]({{< ref "/f33/package/sugar-ruler.md" >}}) | 0 | 29 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-view-slides]({{< ref "/f33/package/sugar-view-slides.md" >}}) | 0 | 7 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-visualmatch]({{< ref "/f33/package/sugar-visualmatch.md" >}}) | 0 | 158 | 0.0 | LANGUAGE <LL@li.org> | 
- | [trytond-account-invoice-line-standalone]({{< ref "/f33/package/trytond-account-invoice-line-standalone.md" >}}) | 0 | 10 | 0.0 |  | 
- | [trytond-account-stock-anglo-saxon]({{< ref "/f33/package/trytond-account-stock-anglo-saxon.md" >}}) | 0 | 74 | 0.0 |  | 
- | [trytond-account-stock-continental]({{< ref "/f33/package/trytond-account-stock-continental.md" >}}) | 0 | 325 | 0.0 |  | 
- | [trytond-ldap-authentication]({{< ref "/f33/package/trytond-ldap-authentication.md" >}}) | 0 | 10 | 0.0 |  | 
- | [wingpanel-indicator-nightlight]({{< ref "/f33/package/wingpanel-indicator-nightlight.md" >}}) | 0 | 31 | 0.0 |  | 
+ | [GConf2](/f33/package/GConf2) | 4088 | 4088 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
+ | [NetworkManager-pptp](/f33/package/NetworkManager-pptp) | 144 | 144 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
+ | [NetworkManager-sstp](/f33/package/NetworkManager-sstp) | 144 | 144 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
+ | [NetworkManager-vpnc](/f33/package/NetworkManager-vpnc) | 156 | 156 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
+ | [PackageKit](/f33/package/PackageKit) | 931 | 931 | 100.0 | Bulgarian (http://www.transifex.com/freedesktop/packagekit/language/bg/) | 
+ | [aisleriot](/f33/package/aisleriot) | 3075 | 3075 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
+ | [alacarte](/f33/package/alacarte) | 41 | 41 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
+ | [anjuta](/f33/package/anjuta) | 8086 | 8086 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
+ | [arduino](/f33/package/arduino) | 3204 | 3204 | 100.0 | Bulgarian (http://www.transifex.com/mbanzi/arduino-ide-15/language/bg/) | 
+ | [at-spi2-core](/f33/package/at-spi2-core) | 10 | 10 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
+ | [atk](/f33/package/atk) | 440 | 440 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
+ | [atomix](/f33/package/atomix) | 146 | 146 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
+ | [baobab](/f33/package/baobab) | 246 | 246 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
+ | [blinken](/f33/package/blinken) | 133 | 133 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
+ | [blueberry](/f33/package/blueberry) | 166 | 166 | 100.0 | Bulgarian <bg@li.org> | 
+ | [brasero](/f33/package/brasero) | 9054 | 9054 | 100.0 | Bulgarian <dict-notifications@fsa-bg.org> | 
+ | [caribou](/f33/package/caribou) | 169 | 169 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
+ | [catfish](/f33/package/catfish) | 1047 | 1047 | 100.0 | Bulgarian (https://www.transifex.com/xfce/teams/16840/bg/) | 
+ | [cgit](/f33/package/cgit) | 36106 | 36106 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
+ | [cheese](/f33/package/cheese) | 614 | 614 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
+ | [chromium](/f33/package/chromium) | 14466 | 14466 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
+ | [cinnamon-desktop](/f33/package/cinnamon-desktop) | 234 | 234 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
+ | [cogl](/f33/package/cogl) | 393 | 393 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
+ | [console-setup](/f33/package/console-setup) | 1001 | 1001 | 100.0 | Български <dict@fsa-bg.org> | 
+ | [coolreader](/f33/package/coolreader) | 695 | 695 | 100.0 | Bulgarian | 
+ | [coreutils](/f33/package/coreutils) | 21194 | 21194 | 100.0 | Bulgarian <dict@ludost.net> | 
+ | [dasher](/f33/package/dasher) | 634 | 634 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
+ | [deepin-daemon](/f33/package/deepin-daemon) | 1063 | 1063 | 100.0 | Bulgarian (http://www.transifex.com/linuxdeepin/deepin-desktop-environment/language/bg/) | 
+ | [devhelp](/f33/package/devhelp) | 460 | 460 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
+ | [dia](/f33/package/dia) | 5686 | 5686 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
+ | [diffutils](/f33/package/diffutils) | 1886 | 1886 | 100.0 | Bulgarian <dict@ludost.net> | 
+ | [eog](/f33/package/eog) | 1675 | 1675 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
+ | [eog-plugins](/f33/package/eog-plugins) | 80 | 80 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
+ | [evince](/f33/package/evince) | 3417 | 3417 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
+ | [evolution-data-server](/f33/package/evolution-data-server) | 5529 | 5529 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
+ | [evolution-mapi](/f33/package/evolution-mapi) | 341 | 341 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
+ | [exo](/f33/package/exo) | 1460 | 1460 | 100.0 | Bulgarian (http://www.transifex.com/xfce/exo/language/bg/) | 
+ | [file-roller](/f33/package/file-roller) | 1200 | 1200 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
+ | [five-or-more](/f33/package/five-or-more) | 282 | 282 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
+ | [flare-engine](/f33/package/flare-engine) | 1355 | 1355 | 100.0 | Bulgarian (https://www.transifex.com/flareorg/teams/84925/bg/) | 
+ | [folks](/f33/package/folks) | 851 | 851 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
+ | [four-in-a-row](/f33/package/four-in-a-row) | 256 | 256 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
+ | [garcon](/f33/package/garcon) | 122 | 122 | 100.0 | Bulgarian (http://www.transifex.com/xfce/garcon/language/bg/) | 
+ | [gconf-editor](/f33/package/gconf-editor) | 336 | 336 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
+ | [gcr](/f33/package/gcr) | 677 | 677 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
+ | [gdk-pixbuf2](/f33/package/gdk-pixbuf2) | 1372 | 1372 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
+ | [gdm](/f33/package/gdm) | 626 | 626 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
+ | [gedit](/f33/package/gedit) | 11731 | 11731 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
+ | [ggz-base-libs](/f33/package/ggz-base-libs) | 74 | 74 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
+ | [ghex](/f33/package/ghex) | 677 | 677 | 100.0 | Bulgarian <dict@linux.zonebg.com> | 
+ | [gigolo](/f33/package/gigolo) | 467 | 467 | 100.0 | Bulgarian (http://www.transifex.com/xfce/xfce-apps/language/bg/) | 
+ | [gip](/f33/package/gip) | 103 | 103 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
+ | [git](/f33/package/git) | 38685 | 38685 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
+ | [git-cinnabar](/f33/package/git-cinnabar) | 38685 | 38685 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
+ | [gitg](/f33/package/gitg) | 1996 | 1996 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
+ | [glade](/f33/package/glade) | 6113 | 6113 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
+ | [glib-networking](/f33/package/glib-networking) | 163 | 163 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
+ | [glib2](/f33/package/glib2) | 5755 | 5755 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
+ | [glibc](/f33/package/glibc) | 7752 | 7752 | 100.0 | Bulgarian <dict@ludost.net> | 
+ | [gnome-bluetooth](/f33/package/gnome-bluetooth) | 373 | 373 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
+ | [gnome-books](/f33/package/gnome-books) | 655 | 655 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
+ | [gnome-boxes](/f33/package/gnome-boxes) | 677 | 677 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
+ | [gnome-chess](/f33/package/gnome-chess) | 1390 | 1390 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
+ | [gnome-clocks](/f33/package/gnome-clocks) | 259 | 259 | 100.0 | Bulgarian <dict-notifications@fsa-bg.org> | 
+ | [gnome-color-manager](/f33/package/gnome-color-manager) | 1793 | 1793 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
+ | [gnome-contacts](/f33/package/gnome-contacts) | 288 | 288 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
+ | [gnome-desktop](/f33/package/gnome-desktop) | 438 | 438 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
+ | [gnome-desktop3](/f33/package/gnome-desktop3) | 146 | 146 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
+ | [gnome-dictionary](/f33/package/gnome-dictionary) | 661 | 661 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
+ | [gnome-disk-utility](/f33/package/gnome-disk-utility) | 3026 | 3026 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
+ | [gnome-doc-utils](/f33/package/gnome-doc-utils) | 251 | 251 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
+ | [gnome-documents](/f33/package/gnome-documents) | 655 | 655 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
+ | [gnome-extensions-app](/f33/package/gnome-extensions-app) | 1691 | 1691 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
+ | [gnome-font-viewer](/f33/package/gnome-font-viewer) | 113 | 113 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
+ | [gnome-icon-theme](/f33/package/gnome-icon-theme) | 4 | 4 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
+ | [gnome-initial-setup](/f33/package/gnome-initial-setup) | 766 | 766 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
+ | [gnome-keyring](/f33/package/gnome-keyring) | 509 | 509 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
+ | [gnome-klotski](/f33/package/gnome-klotski) | 194 | 194 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
+ | [gnome-logs](/f33/package/gnome-logs) | 216 | 216 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
+ | [gnome-mahjongg](/f33/package/gnome-mahjongg) | 304 | 304 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
+ | [gnome-maps](/f33/package/gnome-maps) | 821 | 821 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
+ | [gnome-menus](/f33/package/gnome-menus) | 70 | 70 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
+ | [gnome-mime-data](/f33/package/gnome-mime-data) | 887 | 887 | 100.0 | Bulgarian <dict@linux.zonebg.com> | 
+ | [gnome-mines](/f33/package/gnome-mines) | 344 | 344 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
+ | [gnome-music](/f33/package/gnome-music) | 526 | 526 | 100.0 | Bulgarian <dict-notifications@fsa-bg.org> | 
+ | [gnome-nettool](/f33/package/gnome-nettool) | 663 | 663 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
+ | [gnome-nibbles](/f33/package/gnome-nibbles) | 447 | 447 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
+ | [gnome-online-accounts](/f33/package/gnome-online-accounts) | 680 | 680 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
+ | [gnome-packagekit](/f33/package/gnome-packagekit) | 5089 | 5089 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
+ | [gnome-photos](/f33/package/gnome-photos) | 304 | 304 | 100.0 | Bulgarian <dict-notifications@fsa-bg.org> | 
+ | [gnome-power-manager](/f33/package/gnome-power-manager) | 432 | 432 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
+ | [gnome-robots](/f33/package/gnome-robots) | 597 | 597 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
+ | [gnome-screenshot](/f33/package/gnome-screenshot) | 326 | 326 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
+ | [gnome-search-tool](/f33/package/gnome-search-tool) | 1249 | 1249 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
+ | [gnome-session](/f33/package/gnome-session) | 299 | 299 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
+ | [gnome-settings-daemon](/f33/package/gnome-settings-daemon) | 3740 | 3740 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
+ | [gnome-shell](/f33/package/gnome-shell) | 1691 | 1691 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
+ | [gnome-shell-extensions](/f33/package/gnome-shell-extensions) | 388 | 388 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
+ | [gnome-software](/f33/package/gnome-software) | 3546 | 3546 | 100.0 | Bulgarian <dict-notifications@fsa-bg.org> | 
+ | [gnome-subtitles](/f33/package/gnome-subtitles) | 718 | 718 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
+ | [gnome-sudoku](/f33/package/gnome-sudoku) | 398 | 398 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
+ | [gnome-system-log](/f33/package/gnome-system-log) | 420 | 420 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
+ | [gnome-system-monitor](/f33/package/gnome-system-monitor) | 1462 | 1462 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
+ | [gnome-taquin](/f33/package/gnome-taquin) | 232 | 232 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
+ | [gnome-terminal](/f33/package/gnome-terminal) | 2554 | 2554 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
+ | [gnome-tetravex](/f33/package/gnome-tetravex) | 220 | 220 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
+ | [gnome-themes-extra](/f33/package/gnome-themes-extra) | 15 | 15 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
+ | [gnome-tweaks](/f33/package/gnome-tweaks) | 552 | 552 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
+ | [gnome-user-share](/f33/package/gnome-user-share) | 52 | 52 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
+ | [gnome-vfs2](/f33/package/gnome-vfs2) | 1519 | 1519 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
+ | [gnome-video-effects](/f33/package/gnome-video-effects) | 256 | 256 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
+ | [gnome-weather](/f33/package/gnome-weather) | 192 | 192 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
+ | [gparted](/f33/package/gparted) | 2336 | 2336 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
+ | [gpicview](/f33/package/gpicview) | 236 | 236 | 100.0 | MIME-Version: 1.0 | 
+ | [grilo](/f33/package/grilo) | 194 | 194 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
+ | [grilo-plugins](/f33/package/grilo-plugins) | 536 | 536 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
+ | [gstreamer1-plugins-ugly-free](/f33/package/gstreamer1-plugins-ugly-free) | 80 | 80 | 100.0 | Bulgarian <dict@ludost.net> | 
+ | [gthumb](/f33/package/gthumb) | 2563 | 2563 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
+ | [gtk2-engines](/f33/package/gtk2-engines) | 119 | 119 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
+ | [gtk3](/f33/package/gtk3) | 14466 | 14466 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
+ | [gtk4](/f33/package/gtk4) | 14466 | 14466 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
+ | [gtkhtml3](/f33/package/gtkhtml3) | 488 | 488 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
+ | [gtksourceview2](/f33/package/gtksourceview2) | 1413 | 1413 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
+ | [gtksourceview4](/f33/package/gtksourceview4) | 1142 | 1142 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
+ | [gtranslator](/f33/package/gtranslator) | 1225 | 1225 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
+ | [gvfs](/f33/package/gvfs) | 2851 | 2851 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
+ | [hitori](/f33/package/hitori) | 174 | 174 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
+ | [iagno](/f33/package/iagno) | 321 | 321 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
+ | [indent](/f33/package/indent) | 261 | 261 | 100.0 | Bulgarian <dict@ludost.net> | 
+ | [isomaster](/f33/package/isomaster) | 674 | 674 | 100.0 | American English <kde-i18n-doc@kde.org> | 
+ | [json-glib](/f33/package/json-glib) | 226 | 226 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
+ | [katomic](/f33/package/katomic) | 185 | 185 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
+ | [kdiamond](/f33/package/kdiamond) | 122 | 122 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
+ | [kdissert](/f33/package/kdissert) | 2027 | 2027 | 100.0 | Bulgarian <dict@linux.zonebg.com> | 
+ | [kf5-kcompletion](/f33/package/kf5-kcompletion) | 18 | 18 | 100.0 | Bulgarian <dict@ludost.net> | 
+ | [kf5-kdnssd](/f33/package/kf5-kdnssd) | 3 | 3 | 100.0 | Bulgarian <dict@ludost.net> | 
+ | [kf5-kdoctools](/f33/package/kf5-kdoctools) | 8 | 8 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
+ | [kf5-kitemviews](/f33/package/kf5-kitemviews) | 7 | 7 | 100.0 | Bulgarian <dict@ludost.net> | 
+ | [kf5-kldap](/f33/package/kf5-kldap) | 33 | 33 | 100.0 | Bulgarian <dict@linux.zonebg.com> | 
+ | [kf5-kmime](/f33/package/kf5-kmime) | 159 | 159 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
+ | [kf5-kontactinterface](/f33/package/kf5-kontactinterface) | 4 | 4 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
+ | [kf5-kpty](/f33/package/kf5-kpty) | 15 | 15 | 100.0 | Bulgarian <dict@ludost.net> | 
+ | [kf5-kross](/f33/package/kf5-kross) | 100 | 100 | 100.0 | Bulgarian <dict@ludost.net> | 
+ | [kf5-kwindowsystem](/f33/package/kf5-kwindowsystem) | 2 | 2 | 100.0 | Bulgarian <dict@ludost.net> | 
+ | [kf5-kxmlrpcclient](/f33/package/kf5-kxmlrpcclient) | 13 | 13 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
+ | [kf5-libkcompactdisc](/f33/package/kf5-libkcompactdisc) | 15 | 15 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
+ | [kf5-libkgeomap](/f33/package/kf5-libkgeomap) | 139 | 139 | 100.0 | Bulgarian <dict@ludost.net> | 
+ | [kflickr](/f33/package/kflickr) | 332 | 332 | 100.0 | Bulgarian <bg@li.org> | 
+ | [kgamma](/f33/package/kgamma) | 130 | 130 | 100.0 | Bulgarian <dict@linux.zonebg.com> | 
+ | [kgrab](/f33/package/kgrab) | 370 | 370 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
+ | [kiconedit](/f33/package/kiconedit) | 726 | 726 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
+ | [kio_gopher](/f33/package/kio_gopher) | 17 | 17 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
+ | [ksig](/f33/package/ksig) | 85 | 85 | 100.0 | български <mailto:dict@fsa-bg.org> | 
+ | [libbonobo](/f33/package/libbonobo) | 543 | 543 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
+ | [libbonoboui](/f33/package/libbonoboui) | 368 | 368 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
+ | [libcryptui](/f33/package/libcryptui) | 3012 | 3012 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
+ | [libfilezilla](/f33/package/libfilezilla) | 402 | 402 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
+ | [libgdata](/f33/package/libgdata) | 695 | 695 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
+ | [libgdl](/f33/package/libgdl) | 592 | 592 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
+ | [libgnome](/f33/package/libgnome) | 1773 | 1773 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
+ | [libgnome-games-support](/f33/package/libgnome-games-support) | 43 | 43 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
+ | [libgnome-keyring](/f33/package/libgnome-keyring) | 44 | 44 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
+ | [libgnomecanvas](/f33/package/libgnomecanvas) | 378 | 378 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
+ | [libgnomekbd](/f33/package/libgnomekbd) | 242 | 242 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
+ | [libgnomeui](/f33/package/libgnomeui) | 1226 | 1226 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
+ | [libgtop2](/f33/package/libgtop2) | 126 | 126 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
+ | [libgweather](/f33/package/libgweather) | 6208 | 6208 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
+ | [libmatemixer](/f33/package/libmatemixer) | 242 | 242 | 100.0 | Bulgarian (https://www.transifex.com/mate/teams/13566/bg/) | 
+ | [libpeas](/f33/package/libpeas) | 105 | 105 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
+ | [libsecret](/f33/package/libsecret) | 59 | 59 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
+ | [libsoup](/f33/package/libsoup) | 155 | 155 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
+ | [libwnck](/f33/package/libwnck) | 1124 | 1124 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
+ | [libwnck3](/f33/package/libwnck3) | 1084 | 1084 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
+ | [libxfce4ui](/f33/package/libxfce4ui) | 926 | 926 | 100.0 | Bulgarian (http://www.transifex.com/xfce/libxfce4ui/language/bg/) | 
+ | [libxfce4util](/f33/package/libxfce4util) | 424 | 424 | 100.0 | Bulgarian (http://www.transifex.com/xfce/libxfce4util/language/bg/) | 
+ | [lightdm-gtk](/f33/package/lightdm-gtk) | 87 | 87 | 100.0 | Bulgarian <bg@li.org> | 
+ | [lightsoff](/f33/package/lightsoff) | 96 | 96 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
+ | [lxappearance-obconf](/f33/package/lxappearance-obconf) | 196 | 196 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [lxdm](/f33/package/lxdm) | 47 | 47 | 100.0 | MIME-Version: 1.0 | 
+ | [lxmenu-data](/f33/package/lxmenu-data) | 97 | 97 | 100.0 | MIME-Version: 1.0 | 
+ | [lxmusic](/f33/package/lxmusic) | 203 | 203 | 100.0 | MIME-Version: 1.0 | 
+ | [lxshortcut](/f33/package/lxshortcut) | 43 | 43 | 100.0 | MIME-Version: 1.0 | 
+ | [man-db](/f33/package/man-db) | 206 | 206 | 100.0 | Bulgarian <dict@ludost.net> | 
+ | [mate-icon-theme](/f33/package/mate-icon-theme) | 4 | 4 | 100.0 | Bulgarian (https://www.transifex.com/mate/teams/13566/bg/) | 
+ | [mate-menus](/f33/package/mate-menus) | 97 | 97 | 100.0 | Bulgarian (https://www.transifex.com/mate/teams/13566/bg/) | 
+ | [mate-polkit](/f33/package/mate-polkit) | 123 | 123 | 100.0 | Bulgarian (https://www.transifex.com/mate/teams/13566/bg/) | 
+ | [meld](/f33/package/meld) | 1256 | 1256 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
+ | [metacity](/f33/package/metacity) | 2040 | 2040 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
+ | [midori](/f33/package/midori) | 3541 | 3541 | 100.0 | Bulgarian <bg@li.org> | 
+ | [mingw-GConf2](/f33/package/mingw-GConf2) | 4088 | 4088 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
+ | [mingw-atk](/f33/package/mingw-atk) | 440 | 440 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
+ | [mingw-gdk-pixbuf](/f33/package/mingw-gdk-pixbuf) | 1372 | 1372 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
+ | [mingw-glib-networking](/f33/package/mingw-glib-networking) | 163 | 163 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
+ | [mingw-glib2](/f33/package/mingw-glib2) | 5755 | 5755 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
+ | [mingw-gstreamer1](/f33/package/mingw-gstreamer1) | 2110 | 2110 | 100.0 | Bulgarian <dict@ludost.net> | 
+ | [mingw-gstreamer1-plugins-base](/f33/package/mingw-gstreamer1-plugins-base) | 992 | 992 | 100.0 | Bulgarian <dict@ludost.net> | 
+ | [mingw-gtk3](/f33/package/mingw-gtk3) | 14466 | 14466 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
+ | [mingw-json-glib](/f33/package/mingw-json-glib) | 226 | 226 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
+ | [mingw-libsoup](/f33/package/mingw-libsoup) | 155 | 155 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
+ | [mingw-wxWidgets](/f33/package/mingw-wxWidgets) | 52 | 52 | 100.0 | <wx-translators@wxwindows.org> | 
+ | [mingw-wxWidgets3](/f33/package/mingw-wxWidgets3) | 52 | 52 | 100.0 | <wx-translators@wxwindows.org> | 
+ | [mousepad](/f33/package/mousepad) | 1108 | 1108 | 100.0 | Bulgarian (http://www.transifex.com/xfce/xfce-apps/language/bg/) | 
+ | [mousetweaks](/f33/package/mousetweaks) | 114 | 114 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
+ | [mozo](/f33/package/mozo) | 43 | 43 | 100.0 | Bulgarian (https://www.transifex.com/mate/teams/13566/bg/) | 
+ | [muffin](/f33/package/muffin) | 2071 | 2071 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
+ | [mutter](/f33/package/mutter) | 947 | 947 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
+ | [nautilus](/f33/package/nautilus) | 5223 | 5223 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
+ | [nautilus-image-converter](/f33/package/nautilus-image-converter) | 42 | 42 | 100.0 | Svetoslav Stefanov <lfu.project@gmail.com> | 
+ | [nautilus-sendto](/f33/package/nautilus-sendto) | 45 | 45 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
+ | [nemo-extensions](/f33/package/nemo-extensions) | 32 | 32 | 100.0 | Bulgarian <bg@li.org> | 
+ | [newt](/f33/package/newt) | 4 | 4 | 100.0 | Bulgarian <dict@linux.zonebg.com> | 
+ | [notification-daemon](/f33/package/notification-daemon) | 17 | 17 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
+ | [orage](/f33/package/orage) | 2931 | 2931 | 100.0 | Bulgarian (http://www.transifex.com/projects/p/xfce-apps/language/bg/) | 
+ | [orca](/f33/package/orca) | 18344 | 18344 | 100.0 | Bulgarian <dict-notifications@fsa-bg.org> | 
+ | [parole](/f33/package/parole) | 1088 | 1088 | 100.0 | Bulgarian (http://www.transifex.com/xfce/xfce-apps/language/bg/) | 
+ | [photocollage](/f33/package/photocollage) | 46 | 46 | 100.0 | spacy00001@gmail.com | 
+ | [php-horde-Horde-LoginTasks](/f33/package/php-horde-Horde-LoginTasks) | 6 | 6 | 100.0 | i18n@lists.horde.org | 
+ | [php-horde-Horde-Perms](/f33/package/php-horde-Horde-Perms) | 6 | 6 | 100.0 | i18n@lists.horde.org | 
+ | [php-horde-imp](/f33/package/php-horde-imp) | 3028 | 3028 | 100.0 | BG i18n@lists.horde.org | 
+ | [php-horde-kronolith](/f33/package/php-horde-kronolith) | 919 | 919 | 100.0 | BG i18n@lists.horde.org | 
+ | [php-horde-mnemo](/f33/package/php-horde-mnemo) | 438 | 438 | 100.0 | BG i18n@lists.horde.org | 
+ | [php-horde-nag](/f33/package/php-horde-nag) | 560 | 560 | 100.0 | BG i18n@lists.horde.org | 
+ | [php-horde-passwd](/f33/package/php-horde-passwd) | 306 | 306 | 100.0 | BG i18n@lists.horde.org | 
+ | [php-horde-turba](/f33/package/php-horde-turba) | 644 | 644 | 100.0 | BG i18n@lists.horde.org | 
+ | [pidgin-libnotify](/f33/package/pidgin-libnotify) | 36 | 36 | 100.0 | BULGARIAN <LL@li.org> | 
+ | [piper](/f33/package/piper) | 492 | 492 | 100.0 | Bulgarian <> | 
+ | [plank](/f33/package/plank) | 189 | 189 | 100.0 | Bulgarian <bg@li.org> | 
+ | [plasma-applet-weather-widget](/f33/package/plasma-applet-weather-widget) | 166 | 166 | 100.0 | bvbfan | 
+ | [poedit](/f33/package/poedit) | 2916 | 2916 | 100.0 | Bulgarian | 
+ | [polkit-gnome](/f33/package/polkit-gnome) | 94 | 94 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
+ | [python-SecretStorage](/f33/package/python-SecretStorage) | 59 | 59 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
+ | [python-django-filter](/f33/package/python-django-filter) | 86 | 86 | 100.0 |  | 
+ | [python-django-registration](/f33/package/python-django-registration) | 81 | 81 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [python-wxpython4](/f33/package/python-wxpython4) | 52 | 52 | 100.0 | <wx-translators@wxwindows.org> | 
+ | [qemu](/f33/package/qemu) | 35 | 35 | 100.0 | Bulgarian <dict@ludost.net> | 
+ | [qtwebkit](/f33/package/qtwebkit) | 1130 | 1130 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
+ | [quadrapassel](/f33/package/quadrapassel) | 428 | 428 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
+ | [redhat-menus](/f33/package/redhat-menus) | 261 | 261 | 100.0 | Bulgarian <bg@li.org> | 
+ | [regexxer](/f33/package/regexxer) | 467 | 467 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
+ | [rhythmbox](/f33/package/rhythmbox) | 4089 | 4089 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
+ | [rhythmbox-alternative-toolbar](/f33/package/rhythmbox-alternative-toolbar) | 294 | 294 | 100.0 | Bulgarian <bg@li.org> | 
+ | [ristretto](/f33/package/ristretto) | 598 | 598 | 100.0 | Bulgarian (http://www.transifex.com/xfce/xfce-apps/language/bg/) | 
+ | [rygel](/f33/package/rygel) | 1624 | 1624 | 100.0 | Bulgarian <dict-notifications@fsa-bg.org> | 
+ | [seahorse](/f33/package/seahorse) | 2494 | 2494 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
+ | [seahorse-caja](/f33/package/seahorse-caja) | 421 | 421 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
+ | [seahorse-nautilus](/f33/package/seahorse-nautilus) | 421 | 421 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
+ | [sed](/f33/package/sed) | 830 | 830 | 100.0 | Bulgarian <dict@ludost.net> | 
+ | [setuptool](/f33/package/setuptool) | 55 | 55 | 100.0 | Bulgarian <Bulgarian Translators' Team <dict@fsa-bg.org>> | 
+ | [shared-mime-info](/f33/package/shared-mime-info) | 1991 | 1991 | 100.0 | Bulgarian (http://www.transifex.com/freedesktop/shared-mime-info/language/bg/) | 
+ | [slick-greeter](/f33/package/slick-greeter) | 211 | 211 | 100.0 | Bulgarian <bg@li.org> | 
+ | [sound-juicer](/f33/package/sound-juicer) | 986 | 986 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
+ | [supertuxkart](/f33/package/supertuxkart) | 5556 | 5556 | 100.0 | Bulgarian (http://www.transifex.com/supertuxkart/supertuxkart/language/bg/) | 
+ | [sushi](/f33/package/sushi) | 24 | 24 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
+ | [svgpart](/f33/package/svgpart) | 22 | 22 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
+ | [swell-foop](/f33/package/swell-foop) | 264 | 264 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
+ | [system-config-rootpassword](/f33/package/system-config-rootpassword) | 116 | 116 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
+ | [systemd](/f33/package/systemd) | 972 | 972 | 100.0 | Bulgarian <dict@ludost.net> | 
+ | [tali](/f33/package/tali) | 421 | 421 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
+ | [taxi](/f33/package/taxi) | 62 | 62 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [thunar-archive-plugin](/f33/package/thunar-archive-plugin) | 86 | 86 | 100.0 | Bulgarian (http://www.transifex.com/xfce/thunar-plugins/language/bg/) | 
+ | [thunar-media-tags-plugin](/f33/package/thunar-media-tags-plugin) | 156 | 156 | 100.0 | Bulgarian (http://www.transifex.com/xfce/thunar-plugins/language/bg/) | 
+ | [thunar-vcs-plugin](/f33/package/thunar-vcs-plugin) | 614 | 614 | 100.0 | Bulgarian (http://www.transifex.com/xfce/thunar-plugins/language/bg/) | 
+ | [thunar-volman](/f33/package/thunar-volman) | 499 | 499 | 100.0 | Bulgarian (http://www.transifex.com/xfce/thunar-volman/language/bg/) | 
+ | [tigervnc](/f33/package/tigervnc) | 697 | 697 | 100.0 | Bulgarian <dict@ludost.net> | 
+ | [tomboy](/f33/package/tomboy) | 3318 | 3318 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
+ | [totem-pl-parser](/f33/package/totem-pl-parser) | 29 | 29 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
+ | [transmission](/f33/package/transmission) | 1998 | 1998 | 100.0 | Bulgarian (https://www.transifex.com/transmissionbt/teams/33778/bg/) | 
+ | [trytond-account-invoice-history](/f33/package/trytond-account-invoice-history) | 2 | 2 | 100.0 |  | 
+ | [trytond-company-work-time](/f33/package/trytond-company-work-time) | 18 | 18 | 100.0 |  | 
+ | [trytond-google-maps](/f33/package/trytond-google-maps) | 2 | 2 | 100.0 |  | 
+ | [trytond-sale-price-list](/f33/package/trytond-sale-price-list) | 5 | 5 | 100.0 |  | 
+ | [trytond-stock-inventory-location](/f33/package/trytond-stock-inventory-location) | 17 | 17 | 100.0 |  | 
+ | [trytond-stock-location-sequence](/f33/package/trytond-stock-location-sequence) | 1 | 1 | 100.0 |  | 
+ | [trytond-stock-product-location](/f33/package/trytond-stock-product-location) | 23 | 23 | 100.0 |  | 
+ | [trytond-stock-supply-day](/f33/package/trytond-stock-supply-day) | 27 | 27 | 100.0 |  | 
+ | [tumbler](/f33/package/tumbler) | 241 | 241 | 100.0 | Bulgarian (http://www.transifex.com/xfce/tumbler/language/bg/) | 
+ | [vinagre](/f33/package/vinagre) | 1510 | 1510 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
+ | [vino](/f33/package/vino) | 973 | 973 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
+ | [vte](/f33/package/vte) | 80 | 80 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
+ | [vte291](/f33/package/vte291) | 31 | 31 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
+ | [webkit2gtk3](/f33/package/webkit2gtk3) | 1606 | 1606 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
+ | [wxGTK](/f33/package/wxGTK) | 52 | 52 | 100.0 | <wx-translators@wxwidgets.org> | 
+ | [wxGTK3](/f33/package/wxGTK3) | 52 | 52 | 100.0 | <wx-translators@wxwindows.org> | 
+ | [xdg-user-dirs](/f33/package/xdg-user-dirs) | 28 | 28 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
+ | [xdg-user-dirs-gtk](/f33/package/xdg-user-dirs-gtk) | 81 | 81 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
+ | [xen](/f33/package/xen) | 35 | 35 | 100.0 | Bulgarian <dict@ludost.net> | 
+ | [xfbib](/f33/package/xfbib) | 342 | 342 | 100.0 | Bulgarian | 
+ | [xfburn](/f33/package/xfburn) | 1572 | 1572 | 100.0 | Bulgarian (http://www.transifex.com/xfce/xfce-apps/language/bg/) | 
+ | [xfce4-appfinder](/f33/package/xfce4-appfinder) | 410 | 410 | 100.0 | Bulgarian (http://www.transifex.com/xfce/xfce4-appfinder/language/bg/) | 
+ | [xfce4-battery-plugin](/f33/package/xfce4-battery-plugin) | 147 | 147 | 100.0 | Bulgarian (http://www.transifex.com/xfce/xfce-panel-plugins/language/bg/) | 
+ | [xfce4-calculator-plugin](/f33/package/xfce4-calculator-plugin) | 35 | 35 | 100.0 | Bulgarian (https://www.transifex.com/xfce/teams/16840/bg/) | 
+ | [xfce4-clipman-plugin](/f33/package/xfce4-clipman-plugin) | 528 | 528 | 100.0 | Bulgarian (http://www.transifex.com/xfce/xfce-panel-plugins/language/bg/) | 
+ | [xfce4-cpufreq-plugin](/f33/package/xfce4-cpufreq-plugin) | 146 | 146 | 100.0 | Bulgarian (http://www.transifex.com/xfce/xfce-panel-plugins/language/bg/) | 
+ | [xfce4-cpugraph-plugin](/f33/package/xfce4-cpugraph-plugin) | 77 | 77 | 100.0 | Bulgarian (http://www.transifex.com/xfce/xfce-panel-plugins/language/bg/) | 
+ | [xfce4-datetime-plugin](/f33/package/xfce4-datetime-plugin) | 52 | 52 | 100.0 | Bulgarian (http://www.transifex.com/xfce/xfce-panel-plugins/language/bg/) | 
+ | [xfce4-dict](/f33/package/xfce4-dict) | 529 | 529 | 100.0 | Bulgarian (http://www.transifex.com/xfce/xfce-apps/language/bg/) | 
+ | [xfce4-diskperf-plugin](/f33/package/xfce4-diskperf-plugin) | 181 | 181 | 100.0 | Bulgarian (http://www.transifex.com/xfce/xfce-panel-plugins/language/bg/) | 
+ | [xfce4-embed-plugin](/f33/package/xfce4-embed-plugin) | 219 | 219 | 100.0 | Bulgarian (http://www.transifex.com/projects/p/xfce-panel-plugins/language/bg/) | 
+ | [xfce4-eyes-plugin](/f33/package/xfce4-eyes-plugin) | 16 | 16 | 100.0 | Bulgarian (http://www.transifex.com/xfce/xfce-panel-plugins/language/bg/) | 
+ | [xfce4-fsguard-plugin](/f33/package/xfce4-fsguard-plugin) | 71 | 71 | 100.0 | Bulgarian (http://www.transifex.com/xfce/xfce-panel-plugins/language/bg/) | 
+ | [xfce4-genmon-plugin](/f33/package/xfce4-genmon-plugin) | 56 | 56 | 100.0 | Bulgarian (http://www.transifex.com/xfce/xfce-panel-plugins/language/bg/) | 
+ | [xfce4-hardware-monitor-plugin](/f33/package/xfce4-hardware-monitor-plugin) | 356 | 356 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
+ | [xfce4-mailwatch-plugin](/f33/package/xfce4-mailwatch-plugin) | 685 | 685 | 100.0 | Bulgarian (http://www.transifex.com/projects/p/xfce/language/bg/) | 
+ | [xfce4-mpc-plugin](/f33/package/xfce4-mpc-plugin) | 78 | 78 | 100.0 | Bulgarian (http://www.transifex.com/xfce/xfce-panel-plugins/language/bg/) | 
+ | [xfce4-netload-plugin](/f33/package/xfce4-netload-plugin) | 91 | 91 | 100.0 | Bulgarian (http://www.transifex.com/xfce/xfce-panel-plugins/language/bg/) | 
+ | [xfce4-notes-plugin](/f33/package/xfce4-notes-plugin) | 163 | 163 | 100.0 | Bulgarian (http://www.transifex.com/projects/p/xfce/language/bg/) | 
+ | [xfce4-notifyd](/f33/package/xfce4-notifyd) | 325 | 325 | 100.0 | Bulgarian (http://www.transifex.com/xfce/xfce-apps/language/bg/) | 
+ | [xfce4-panel](/f33/package/xfce4-panel) | 1691 | 1691 | 100.0 | Bulgarian (https://www.transifex.com/xfce/teams/16840/bg/) | 
+ | [xfce4-panel-profiles](/f33/package/xfce4-panel-profiles) | 99 | 99 | 100.0 | Bulgarian (https://www.transifex.com/xfce/teams/16840/bg/) | 
+ | [xfce4-places-plugin](/f33/package/xfce4-places-plugin) | 162 | 162 | 100.0 | Bulgarian (http://www.transifex.com/xfce/xfce-panel-plugins/language/bg/) | 
+ | [xfce4-power-manager](/f33/package/xfce4-power-manager) | 1046 | 1046 | 100.0 | Bulgarian (http://www.transifex.com/xfce/xfce4-power-manager/language/bg/) | 
+ | [xfce4-pulseaudio-plugin](/f33/package/xfce4-pulseaudio-plugin) | 148 | 148 | 100.0 | Bulgarian (http://www.transifex.com/xfce/xfce-panel-plugins/language/bg/) | 
+ | [xfce4-screensaver](/f33/package/xfce4-screensaver) | 697 | 697 | 100.0 | Bulgarian (https://www.transifex.com/xfce/teams/16840/bg/) | 
+ | [xfce4-screenshooter](/f33/package/xfce4-screenshooter) | 487 | 487 | 100.0 | Bulgarian (http://www.transifex.com/xfce/xfce-apps/language/bg/) | 
+ | [xfce4-sensors-plugin](/f33/package/xfce4-sensors-plugin) | 390 | 390 | 100.0 | Bulgarian (http://www.transifex.com/xfce/xfce-panel-plugins/language/bg/) | 
+ | [xfce4-session](/f33/package/xfce4-session) | 798 | 798 | 100.0 | Bulgarian (https://www.transifex.com/xfce/teams/16840/bg/) | 
+ | [xfce4-settings](/f33/package/xfce4-settings) | 1940 | 1940 | 100.0 | Bulgarian (https://www.transifex.com/xfce/teams/16840/bg/) | 
+ | [xfce4-smartbookmark-plugin](/f33/package/xfce4-smartbookmark-plugin) | 22 | 22 | 100.0 | Bulgarian (http://www.transifex.com/xfce/xfce-panel-plugins/language/bg/) | 
+ | [xfce4-statusnotifier-plugin](/f33/package/xfce4-statusnotifier-plugin) | 129 | 129 | 100.0 | Bulgarian (https://www.transifex.com/xfce/teams/16840/bg/) | 
+ | [xfce4-systemload-plugin](/f33/package/xfce4-systemload-plugin) | 87 | 87 | 100.0 | Bulgarian (http://www.transifex.com/xfce/xfce-panel-plugins/language/bg/) | 
+ | [xfce4-taskmanager](/f33/package/xfce4-taskmanager) | 259 | 259 | 100.0 | Bulgarian (http://www.transifex.com/xfce/xfce-apps/language/bg/) | 
+ | [xfce4-terminal](/f33/package/xfce4-terminal) | 1725 | 1725 | 100.0 | Bulgarian (http://www.transifex.com/xfce/xfce-apps/language/bg/) | 
+ | [xfce4-time-out-plugin](/f33/package/xfce4-time-out-plugin) | 106 | 106 | 100.0 | Bulgarian (http://www.transifex.com/xfce/xfce-panel-plugins/language/bg/) | 
+ | [xfce4-timer-plugin](/f33/package/xfce4-timer-plugin) | 135 | 135 | 100.0 | Bulgarian (http://www.transifex.com/xfce/xfce-panel-plugins/language/bg/) | 
+ | [xfce4-verve-plugin](/f33/package/xfce4-verve-plugin) | 108 | 108 | 100.0 | Bulgarian (http://www.transifex.com/xfce/xfce-panel-plugins/language/bg/) | 
+ | [xfce4-wavelan-plugin](/f33/package/xfce4-wavelan-plugin) | 67 | 67 | 100.0 | Bulgarian (http://www.transifex.com/xfce/xfce-panel-plugins/language/bg/) | 
+ | [xfce4-weather-plugin](/f33/package/xfce4-weather-plugin) | 3676 | 3676 | 100.0 | Bulgarian (http://www.transifex.com/xfce/xfce-panel-plugins/language/bg/) | 
+ | [xfce4-whiskermenu-plugin](/f33/package/xfce4-whiskermenu-plugin) | 386 | 386 | 100.0 | Bulgarian (http://www.transifex.com/gottcode/xfce4-whiskermenu-plugin/language/bg/) | 
+ | [xfce4-xkb-plugin](/f33/package/xfce4-xkb-plugin) | 57 | 57 | 100.0 | Bulgarian (http://www.transifex.com/xfce/xfce-panel-plugins/language/bg/) | 
+ | [xfconf](/f33/package/xfconf) | 458 | 458 | 100.0 | Bulgarian (http://www.transifex.com/xfce/xfconf/language/bg/) | 
+ | [xfdesktop](/f33/package/xfdesktop) | 1037 | 1037 | 100.0 | Bulgarian (https://www.transifex.com/xfce/teams/16840/bg/) | 
+ | [xfmpc](/f33/package/xfmpc) | 175 | 175 | 100.0 | Bulgarian (http://www.transifex.com/xfce/xfce-apps/language/bg/) | 
+ | [xfwm4](/f33/package/xfwm4) | 632 | 632 | 100.0 | Bulgarian (https://www.transifex.com/xfce/teams/16840/bg/) | 
+ | [yelp](/f33/package/yelp) | 284 | 284 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
+ | [yelp-xsl](/f33/package/yelp-xsl) | 81 | 81 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
+ | [zenity](/f33/package/zenity) | 3060 | 3060 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
+ | [libreoffice](/f33/package/libreoffice) | 590588 | 590651 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [koffice-kivio](/f33/package/koffice-kivio) | 8415 | 8417 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
+ | [gtk2](/f33/package/gtk2) | 13699 | 13704 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
+ | [mingw-gtk2](/f33/package/mingw-gtk2) | 13699 | 13704 | 100.0 | Bulgarian <dict@fsa-bg.org> | 
+ | [fragments](/f33/package/fragments) | 2005 | 2006 | 100.0 | Bulgarian (https://www.transifex.com/transmissionbt/teams/33778/bg/) | 
+ | [gnome-applets](/f33/package/gnome-applets) | 7627 | 7634 | 99.9 | Bulgarian <dict@fsa-bg.org> | 
+ | [pitivi](/f33/package/pitivi) | 1461 | 1463 | 99.9 | Bulgarian <dict@fsa-bg.org> | 
+ | [mingw-gstreamer](/f33/package/mingw-gstreamer) | 1914 | 1917 | 99.8 | Bulgarian <dict@fsa-bg.org> | 
+ | [xed](/f33/package/xed) | 10368 | 10385 | 99.8 | Bulgarian <dict@fsa-bg.org> | 
+ | [guayadeque](/f33/package/guayadeque) | 3319 | 3326 | 99.8 | Bulgarian (http://www.transifex.com/projects/p/guayadeque/language/bg/) | 
+ | [make](/f33/package/make) | 2265 | 2272 | 99.7 | Bulgarian <dict@ludost.net> | 
+ | [avahi](/f33/package/avahi) | 865 | 868 | 99.7 | Bulgarian (http://www.transifex.com/lennart/avahi/language/bg/) | 
+ | [libmateweather](/f33/package/libmateweather) | 6113 | 6142 | 99.5 | Bulgarian (https://www.transifex.com/mate/teams/13566/bg/) | 
+ | [xmms](/f33/package/xmms) | 3424 | 3443 | 99.4 | <bg@li.org> | 
+ | [filezilla](/f33/package/filezilla) | 10645 | 10707 | 99.4 | Bulgarian <dict@fsa-bg.org> | 
+ | [mingw-gstreamer-plugins-base](/f33/package/mingw-gstreamer-plugins-base) | 902 | 908 | 99.3 | Bulgarian <dict@fsa-bg.org> | 
+ | [xreader](/f33/package/xreader) | 3420 | 3446 | 99.2 | Bulgarian <dict@fsa-bg.org> | 
+ | [lxtask](/f33/package/lxtask) | 129 | 130 | 99.2 | MIME-Version: 1.0 | 
+ | [tracker](/f33/package/tracker) | 3774 | 3804 | 99.2 | Bulgarian <dict@fsa-bg.org> | 
+ | [tracker-miners](/f33/package/tracker-miners) | 3774 | 3804 | 99.2 | Bulgarian <dict@fsa-bg.org> | 
+ | [tracker3](/f33/package/tracker3) | 3774 | 3804 | 99.2 | Bulgarian <dict@fsa-bg.org> | 
+ | [tracker3-miners](/f33/package/tracker3-miners) | 3774 | 3804 | 99.2 | Bulgarian <dict@fsa-bg.org> | 
+ | [tar](/f33/package/tar) | 3626 | 3656 | 99.2 | Bulgarian <dict@ludost.net> | 
+ | [xkeyboard-config](/f33/package/xkeyboard-config) | 3927 | 3969 | 98.9 | Bulgarian <dict@ludost.net> | 
+ | [kmag](/f33/package/kmag) | 427 | 432 | 98.8 | Bulgarian <dict@ludost.net> | 
+ | [playonlinux](/f33/package/playonlinux) | 2694 | 2728 | 98.8 | Svetoslav Stefanov <lfu.project@gmail.com> | 
+ | [kf5-libkcddb](/f33/package/kf5-libkcddb) | 470 | 476 | 98.7 | Bulgarian <dict@fsa-bg.org> | 
+ | [sweeper](/f33/package/sweeper) | 225 | 228 | 98.7 | Bulgarian <dict@linux.zonebg.com> | 
+ | [cinnamon-translations](/f33/package/cinnamon-translations) | 22742 | 23046 | 98.7 | Bulgarian <bg@li.org> | 
+ | [mingw-gettext](/f33/package/mingw-gettext) | 7520 | 7622 | 98.7 | Bulgarian <dict@ludost.net> | 
+ | [pragha](/f33/package/pragha) | 878 | 890 | 98.7 | Bulgarian (http://www.transifex.com/p/Pragha/language/bg/) | 
+ | [supertux](/f33/package/supertux) | 3434 | 3483 | 98.6 | Bulgarian (http://www.transifex.com/arctic-games/supertux/language/bg/) | 
+ | [trytond-country](/f33/package/trytond-country) | 7427 | 7539 | 98.5 |  | 
+ | [bleachbit](/f33/package/bleachbit) | 974 | 989 | 98.5 | Svetoslav Stefanov <lfu.project@gmail.com> | 
+ | [gstreamer1-plugins-bad-free](/f33/package/gstreamer1-plugins-bad-free) | 194 | 197 | 98.5 | Bulgarian <dict@ludost.net> | 
+ | [mingw-gstreamer1-plugins-bad-free](/f33/package/mingw-gstreamer1-plugins-bad-free) | 194 | 197 | 98.5 | Bulgarian <dict@ludost.net> | 
+ | [leafpad](/f33/package/leafpad) | 123 | 125 | 98.4 | Bulgarian <dict@fsa-bg.org> | 
+ | [chemtool](/f33/package/chemtool) | 1165 | 1184 | 98.4 | Svetoslav Stefanov <lfu.project@gmail.com> | 
+ | [kdf](/f33/package/kdf) | 178 | 181 | 98.3 | Bulgarian <dict@linux.zonebg.com> | 
+ | [gstreamer1](/f33/package/gstreamer1) | 2074 | 2110 | 98.3 | Bulgarian <dict@ludost.net> | 
+ | [purple-telegram](/f33/package/purple-telegram) | 644 | 656 | 98.2 | Bulgarian (http://www.transifex.com/telegram-purple-developers/telegram-purple/language/bg/) | 
+ | [centerim](/f33/package/centerim) | 2806 | 2864 | 98.0 | Bulgarian <bg@li.org> | 
+ | [gnome-panel](/f33/package/gnome-panel) | 3447 | 3520 | 97.9 | Bulgarian <dict@fsa-bg.org> | 
+ | [mate-menu](/f33/package/mate-menu) | 301 | 308 | 97.7 | Bulgarian (http://www.transifex.com/mate/MATE/language/bg/) | 
+ | [kbounce](/f33/package/kbounce) | 150 | 154 | 97.4 | Bulgarian <dict@fsa-bg.org> | 
+ | [kf5-kiconthemes](/f33/package/kf5-kiconthemes) | 36 | 37 | 97.3 | Bulgarian <dict@ludost.net> | 
+ | [kblackbox](/f33/package/kblackbox) | 1327 | 1364 | 97.3 | Bulgarian <dict@fsa-bg.org> | 
+ | [clutter](/f33/package/clutter) | 2963 | 3057 | 96.9 | Bulgarian <dict@fsa-bg.org> | 
+ | [gnome-calculator](/f33/package/gnome-calculator) | 7138 | 7365 | 96.9 | LANGUAGE <LL@li.org> | 
+ | [olpc-switch-desktop](/f33/package/olpc-switch-desktop) | 153 | 158 | 96.8 | LANGUAGE <LL@li.org> | 
+ | [epiphany](/f33/package/epiphany) | 2698 | 2787 | 96.8 | Bulgarian <dict@fsa-bg.org> | 
+ | [gedit-plugins](/f33/package/gedit-plugins) | 8392 | 8670 | 96.8 | Bulgarian <dict@fsa-bg.org> | 
+ | [pacman](/f33/package/pacman) | 5020 | 5189 | 96.7 | Bulgarian (http://www.transifex.com/toofishes/archlinux-pacman/language/bg/) | 
+ | [gnote](/f33/package/gnote) | 2005 | 2074 | 96.7 | Svetoslav Stefanov <lfu.project@gmail.com> | 
+ | [mate-screensaver](/f33/package/mate-screensaver) | 986 | 1020 | 96.7 | Bulgarian (https://www.transifex.com/mate/teams/13566/bg/) | 
+ | [libpwquality](/f33/package/libpwquality) | 333 | 345 | 96.5 | Bulgarian <https://translate.stg.fedoraproject.org/projects/libpwquality/app/bg/> | 
+ | [proftpd](/f33/package/proftpd) | 1061 | 1100 | 96.5 | Bulgarian | 
+ | [grep](/f33/package/grep) | 834 | 866 | 96.3 | Bulgarian <dict@ludost.net> | 
+ | [trytond-product-cost-history](/f33/package/trytond-product-cost-history) | 26 | 27 | 96.3 |  | 
+ | [kfind](/f33/package/kfind) | 486 | 505 | 96.2 | Bulgarian <dict@fsa-bg.org> | 
+ | [kf5-ktextwidgets](/f33/package/kf5-ktextwidgets) | 454 | 473 | 96.0 | Bulgarian <dict@ludost.net> | 
+ | [deepin-terminal](/f33/package/deepin-terminal) | 439 | 458 | 95.9 | Bulgarian (https://www.transifex.com/linuxdeepin/teams/3976/bg/) | 
+ | [tagtool](/f33/package/tagtool) | 918 | 958 | 95.8 | Bulgarian <dict@linux.zonebg.com> | 
+ | [trytond-company](/f33/package/trytond-company) | 113 | 118 | 95.8 |  | 
+ | [ganyremote](/f33/package/ganyremote) | 495 | 517 | 95.7 | Bulgarian <s.popov@rsc.bg> | 
+ | [clementine](/f33/package/clementine) | 5025 | 5251 | 95.7 | Bulgarian (http://www.transifex.com/davidsansome/clementine/language/bg/) | 
+ | [kanyremote](/f33/package/kanyremote) | 484 | 506 | 95.7 | Bulgarian <s.popov@rsc.bg> | 
+ | [libuser](/f33/package/libuser) | 1374 | 1437 | 95.6 | Bulgarian (http://www.transifex.com/projects/p/fedora/language/bg/) | 
+ | [kblocks](/f33/package/kblocks) | 152 | 159 | 95.6 | Bulgarian <dict@fsa-bg.org> | 
+ | [python-django-contrib-comments](/f33/package/python-django-contrib-comments) | 233 | 244 | 95.5 | Bulgarian (http://www.transifex.com/django/django-contrib-comments/language/bg/) | 
+ | [kfloppy](/f33/package/kfloppy) | 611 | 641 | 95.3 | Bulgarian <dict@linux.zonebg.com> | 
+ | [boinc-client](/f33/package/boinc-client) | 6480 | 6800 | 95.3 | Bulgarian (http://www.transifex.com/boinc/boinc/language/bg/) | 
+ | [bovo](/f33/package/bovo) | 77 | 81 | 95.1 | Bulgarian <dict@fsa-bg.org> | 
+ | [lightdm-settings](/f33/package/lightdm-settings) | 305 | 321 | 95.0 | Bulgarian <bg@li.org> | 
+ | [clamtk](/f33/package/clamtk) | 446 | 470 | 94.9 | Bulgarian <bg@li.org> | 
+ | [chromium-bsu](/f33/package/chromium-bsu) | 1035 | 1092 | 94.8 | Bulgarian <dict@fsa-bg.org> | 
+ | [kturtle](/f33/package/kturtle) | 1451 | 1531 | 94.8 | Bulgarian <dict@ludost.net> | 
+ | [kapman](/f33/package/kapman) | 108 | 114 | 94.7 | Bulgarian <dict@fsa-bg.org> | 
+ | [bison](/f33/package/bison) | 1605 | 1697 | 94.6 | Bulgarian <dict@ludost.net> | 
+ | [xapps](/f33/package/xapps) | 69 | 73 | 94.5 | Bulgarian <bg@li.org> | 
+ | [trytond-dashboard](/f33/package/trytond-dashboard) | 33 | 35 | 94.3 |  | 
+ | [kmouth](/f33/package/kmouth) | 1427 | 1515 | 94.2 | Bulgarian <dict@fsa-bg.org> | 
+ | [volume_key](/f33/package/volume_key) | 715 | 763 | 93.7 | Bulgarian <trans-bg@lists.fedoraproject.org> | 
+ | [kteatime](/f33/package/kteatime) | 190 | 203 | 93.6 | Bulgarian <dict@ludost.net> | 
+ | [gstreamer1-plugins-base](/f33/package/gstreamer1-plugins-base) | 912 | 976 | 93.4 | Bulgarian <dict@ludost.net> | 
+ | [gettext](/f33/package/gettext) | 7584 | 8121 | 93.4 | Bulgarian <dict@ludost.net> | 
+ | [timeshift](/f33/package/timeshift) | 2800 | 3005 | 93.2 | Bulgarian <bg@li.org> | 
+ | [evolution](/f33/package/evolution) | 21033 | 22580 | 93.1 | Bulgarian <dict@fsa-bg.org> | 
+ | [klines](/f33/package/klines) | 92 | 99 | 92.9 | Bulgarian <dict@fsa-bg.org> | 
+ | [kdiagram](/f33/package/kdiagram) | 13 | 14 | 92.9 | Bulgarian <dict@ludost.net> | 
+ | [switchboard-plug-sharing](/f33/package/switchboard-plug-sharing) | 130 | 140 | 92.9 | Bulgarian <https://l10n.elementary.io/projects/switchboard/switchboard-plug-sharing/bg/> | 
+ | [mate-desktop](/f33/package/mate-desktop) | 2065 | 2224 | 92.9 | Bulgarian (https://www.transifex.com/mate/teams/13566/bg/) | 
+ | [trytond-project-plan](/f33/package/trytond-project-plan) | 77 | 83 | 92.8 |  | 
+ | [mate-applet-softupd](/f33/package/mate-applet-softupd) | 37 | 40 | 92.5 | Bulgarian | 
+ | [plasma-user-manager](/f33/package/plasma-user-manager) | 135 | 146 | 92.5 | Bulgarian <dict@ludost.net> | 
+ | [kaudiocreator](/f33/package/kaudiocreator) | 1043 | 1136 | 91.8 | Bulgarian <dict@fsa-bg.org> | 
+ | [gftp](/f33/package/gftp) | 3096 | 3375 | 91.7 | Bulgarian GNOME translation team <dict@fsa-bg.org> | 
+ | [mate-session-manager](/f33/package/mate-session-manager) | 652 | 712 | 91.6 | Bulgarian (https://www.transifex.com/mate/teams/13566/bg/) | 
+ | [python-nikola](/f33/package/python-nikola) | 86 | 94 | 91.5 | Bulgarian (http://www.transifex.com/ralsina/nikola/language/bg/) | 
+ | [passwd](/f33/package/passwd) | 306 | 336 | 91.1 | Bulgarian <trans-bg@lists.fedoraproject.org> | 
+ | [debconf](/f33/package/debconf) | 785 | 862 | 91.1 | Bulgarian <dict@fsa-bg.org> | 
+ | [chkconfig](/f33/package/chkconfig) | 521 | 573 | 90.9 | Bulgarian <https://translate.fedoraproject.org/projects/fedora-sysv/chkconfig/bg/> | 
+ | [audacious-plugins](/f33/package/audacious-plugins) | 3866 | 4254 | 90.9 | Bulgarian (http://www.transifex.com/audacious/audacious/language/bg/) | 
+ | [switchboard-plug-notifications](/f33/package/switchboard-plug-notifications) | 129 | 142 | 90.8 | Bulgarian <https://l10n.elementary.io/projects/switchboard/switchboard-plug-notifications/bg/> | 
+ | [juk](/f33/package/juk) | 1347 | 1484 | 90.8 | Bulgarian <dict@ludost.net> | 
+ | [kmines](/f33/package/kmines) | 108 | 119 | 90.8 | Bulgarian <dict@linux.zonebg.com> | 
+ | [python-wtforms](/f33/package/python-wtforms) | 183 | 202 | 90.6 | Vladimir Kolev <me@vkolev.net> | 
+ | [mc](/f33/package/mc) | 3873 | 4289 | 90.3 | Bulgarian (http://www.transifex.com/mc/mc/language/bg/) | 
+ | [mingw-libcharset](/f33/package/mingw-libcharset) | 303 | 336 | 90.2 | Bulgarian <dict@fsa-bg.org> | 
+ | [osmo](/f33/package/osmo) | 1597 | 1771 | 90.2 | Bulgarian | 
+ | [kbrickbuster](/f33/package/kbrickbuster) | 137 | 152 | 90.1 | Bulgarian <dict@fsa-bg.org> | 
+ | [marco](/f33/package/marco) | 3908 | 4339 | 90.1 | Bulgarian (https://www.transifex.com/mate/teams/13566/bg/) | 
+ | [kf5-audiocd-kio](/f33/package/kf5-audiocd-kio) | 766 | 851 | 90.0 | <en@li.org> | 
+ | [gkrellm](/f33/package/gkrellm) | 3389 | 3784 | 89.6 | Bulgarian <dict@fsa-bg.org> | 
+ | [audacious](/f33/package/audacious) | 769 | 859 | 89.5 | Bulgarian (http://www.transifex.com/audacious/audacious/language/bg/) | 
+ | [simple-ccsm](/f33/package/simple-ccsm) | 145 | 162 | 89.5 | Bulgarian <bg@li.org> | 
+ | [gstreamer1-plugins-good](/f33/package/gstreamer1-plugins-good) | 716 | 802 | 89.3 | Bulgarian <dict@ludost.net> | 
+ | [mingw-gstreamer1-plugins-good](/f33/package/mingw-gstreamer1-plugins-good) | 716 | 802 | 89.3 | Bulgarian <dict@ludost.net> | 
+ | [keditbookmarks](/f33/package/keditbookmarks) | 415 | 466 | 89.1 | Bulgarian <dict@fsa-bg.org> | 
+ | [gnome-control-center](/f33/package/gnome-control-center) | 5787 | 6541 | 88.5 | Bulgarian <dict@fsa-bg.org> | 
+ | [baloo-widgets](/f33/package/baloo-widgets) | 46 | 52 | 88.5 | Bulgarian <dict@ludost.net> | 
+ | [lxappearance](/f33/package/lxappearance) | 207 | 234 | 88.5 | LANGUAGE <LL@li.org> | 
+ | [retrace-server](/f33/package/retrace-server) | 383 | 433 | 88.5 | Bulgarian <https://translate.fedoraproject.org/projects/abrt/retrace-server/bg/> | 
+ | [subtitleeditor](/f33/package/subtitleeditor) | 2906 | 3297 | 88.1 | Svetoslav Stefanov <lfu.project@gmail.com> | 
+ | [lxlauncher](/f33/package/lxlauncher) | 51 | 58 | 87.9 | MIME-Version: 1.0 | 
+ | [kmenuedit](/f33/package/kmenuedit) | 240 | 273 | 87.9 | Bulgarian <dict@fsa-bg.org> | 
+ | [im-chooser](/f33/package/im-chooser) | 223 | 254 | 87.8 | LANGUAGE <LL@li.org> | 
+ | [system-config-printer](/f33/package/system-config-printer) | 3033 | 3465 | 87.5 | Bulgarian (http://www.transifex.com/projects/p/system-config-printer/language/bg/) | 
+ | [mate-media](/f33/package/mate-media) | 209 | 239 | 87.4 | Bulgarian (https://www.transifex.com/mate/teams/13566/bg/) | 
+ | [asunder](/f33/package/asunder) | 429 | 492 | 87.2 |  | 
+ | [l3afpad](/f33/package/l3afpad) | 113 | 130 | 86.9 | Bulgarian <dict@fsa-bg.org> | 
+ | [mate-notification-daemon](/f33/package/mate-notification-daemon) | 132 | 152 | 86.8 | Bulgarian (https://www.transifex.com/mate/teams/13566/bg/) | 
+ | [lxinput](/f33/package/lxinput) | 72 | 83 | 86.7 | MIME-Version: 1.0 | 
+ | [caja](/f33/package/caja) | 8347 | 9625 | 86.7 | Bulgarian (https://www.transifex.com/mate/teams/13566/bg/) | 
+ | [gliv](/f33/package/gliv) | 893 | 1034 | 86.4 | Bulgarian <dict@fsa-bg.org> | 
+ | [klettres](/f33/package/klettres) | 378 | 438 | 86.3 | Bulgarian <dict@fsa-bg.org> | 
+ | [mate-settings-daemon](/f33/package/mate-settings-daemon) | 1896 | 2197 | 86.3 | Bulgarian (https://www.transifex.com/mate/teams/13566/bg/) | 
+ | [python-django](/f33/package/python-django) | 3179 | 3684 | 86.3 | Bulgarian (http://www.transifex.com/django/django/language/bg/) | 
+ | [stratagus](/f33/package/stratagus) | 211 | 245 | 86.1 | Bulgarian | 
+ | [gnome-abrt](/f33/package/gnome-abrt) | 190 | 221 | 86.0 | Bulgarian <https://translate.stg.fedoraproject.org/projects/abrt/gnome-abrt/bg/> | 
+ | [trytond-currency](/f33/package/trytond-currency) | 403 | 469 | 85.9 |  | 
+ | [klavaro](/f33/package/klavaro) | 1712 | 1997 | 85.7 | Bulgarian <> | 
+ | [python-caja](/f33/package/python-caja) | 6 | 7 | 85.7 | Bulgarian (https://www.transifex.com/mate/teams/13566/bg/) | 
+ | [kde-print-manager](/f33/package/kde-print-manager) | 845 | 990 | 85.4 | BULGARIAN <kde-i18n-doc@kde.org> | 
+ | [gretl](/f33/package/gretl) | 14630 | 17157 | 85.3 | bulgarian <LL@li.org> | 
+ | [bash](/f33/package/bash) | 9806 | 11507 | 85.2 | Bulgarian <dict@ludost.net> | 
+ | [findutils](/f33/package/findutils) | 2233 | 2634 | 84.8 | Bulgarian <dict@ludost.net> | 
+ | [gnome-do](/f33/package/gnome-do) | 517 | 612 | 84.5 | Bulgarian <bg@li.org> | 
+ | [gmpc](/f33/package/gmpc) | 21 | 25 | 84.0 | Bulgarian <bg@li.org> | 
+ | [caja-extensions](/f33/package/caja-extensions) | 562 | 671 | 83.8 | Bulgarian (https://www.transifex.com/mate/teams/13566/bg/) | 
+ | [skanlite](/f33/package/skanlite) | 153 | 183 | 83.6 | BULGARIAN <kde-i18n-doc@kde.org> | 
+ | [kdiff3](/f33/package/kdiff3) | 2821 | 3384 | 83.4 | Bulgarian <dict@fsa-bg.org> | 
+ | [libmatekbd](/f33/package/libmatekbd) | 256 | 308 | 83.1 | Bulgarian (https://www.transifex.com/mate/teams/13566/bg/) | 
+ | [kdepim-runtime](/f33/package/kdepim-runtime) | 357 | 430 | 83.0 | Bulgarian <dict@ludost.net> | 
+ | [setroubleshoot](/f33/package/setroubleshoot) | 527 | 635 | 83.0 | Bulgarian (http://www.transifex.com/projects/p/fedora/language/bg/) | 
+ | [filelight](/f33/package/filelight) | 347 | 419 | 82.8 | Bulgarian <dict@fsa-bg.org> | 
+ | [kamera](/f33/package/kamera) | 283 | 342 | 82.7 | Bulgarian <dict@fsa-bg.org> | 
+ | [clipit](/f33/package/clipit) | 180 | 218 | 82.6 | Bulgarian (Bulgaria) (http://www.transifex.net/projects/p/clipit/language/bg_BG/) | 
+ | [mate-themes](/f33/package/mate-themes) | 61 | 74 | 82.4 | Bulgarian (http://www.transifex.com/mate/MATE/language/bg/) | 
+ | [trytond-product-price-list](/f33/package/trytond-product-price-list) | 61 | 74 | 82.4 |  | 
+ | [ksysguard](/f33/package/ksysguard) | 900 | 1093 | 82.3 | Bulgarian <dict@fsa-bg.org> | 
+ | [plasma-systemsettings](/f33/package/plasma-systemsettings) | 190 | 231 | 82.3 | Bulgarian <dict@ludost.net> | 
+ | [sugar-abacus](/f33/package/sugar-abacus) | 23 | 28 | 82.1 | LANGUAGE <LL@li.org> | 
+ | [kcharselect](/f33/package/kcharselect) | 72 | 88 | 81.8 | Bulgarian <dict@linux.zonebg.com> | 
+ | [kf5-kcmutils](/f33/package/kf5-kcmutils) | 460 | 566 | 81.3 | Bulgarian <dict@ludost.net> | 
+ | [kspaceduel](/f33/package/kspaceduel) | 134 | 165 | 81.2 | Bulgarian <dict@linux.zonebg.com> | 
+ | [mailnag](/f33/package/mailnag) | 167 | 207 | 80.7 | Bulgarian <bg@li.org> | 
+ | [granatier](/f33/package/granatier) | 199 | 247 | 80.6 | Bulgarian <dict@fsa-bg.org> | 
+ | [trytond-sale-opportunity](/f33/package/trytond-sale-opportunity) | 257 | 320 | 80.3 |  | 
+ | [lazpaint](/f33/package/lazpaint) | 1578 | 1973 | 80.0 | sstpr@narod.ru | 
+ | [lightdm](/f33/package/lightdm) | 130 | 163 | 79.8 | Bulgarian <bg@li.org> | 
+ | [trytond-purchase](/f33/package/trytond-purchase) | 453 | 571 | 79.3 |  | 
+ | [khelpcenter](/f33/package/khelpcenter) | 209 | 265 | 78.9 | Bulgarian <dict@ludost.net> | 
+ | [switchboard-plug-onlineaccounts](/f33/package/switchboard-plug-onlineaccounts) | 126 | 160 | 78.8 | Bulgarian <bg@li.org> | 
+ | [k3b](/f33/package/k3b) | 15865 | 20180 | 78.6 | Bulgarian <dict@fsa-bg.org> | 
+ | [kmahjongg](/f33/package/kmahjongg) | 279 | 355 | 78.6 | Bulgarian <dict@fsa-bg.org> | 
+ | [mate-backgrounds](/f33/package/mate-backgrounds) | 51 | 65 | 78.5 | Bulgarian (https://www.transifex.com/mate/teams/13566/bg/) | 
+ | [trytond-sale](/f33/package/trytond-sale) | 420 | 536 | 78.4 |  | 
+ | [trytond-timesheet](/f33/package/trytond-timesheet) | 217 | 278 | 78.1 |  | 
+ | [gtksourceview3](/f33/package/gtksourceview3) | 251 | 322 | 78.0 | Bulgarian <dict@fsa-bg.org> | 
+ | [mingw-gtksourceview3](/f33/package/mingw-gtksourceview3) | 251 | 322 | 78.0 | Bulgarian <dict@fsa-bg.org> | 
+ | [kolf](/f33/package/kolf) | 311 | 401 | 77.6 | Bulgarian <dict@linux.zonebg.com> | 
+ | [kf5-libksane](/f33/package/kf5-libksane) | 224 | 290 | 77.2 | Bulgarian <dict@ludost.net> | 
+ | [kf5-kparts](/f33/package/kf5-kparts) | 95 | 123 | 77.2 | Bulgarian <dict@ludost.net> | 
+ | [kf5-khtml](/f33/package/kf5-khtml) | 1328 | 1721 | 77.2 | Bulgarian <dict@ludost.net> | 
+ | [frozen-bubble](/f33/package/frozen-bubble) | 537 | 698 | 76.9 | Bulgarian <lfu.project@gmail.com> | 
+ | [kwebkitpart](/f33/package/kwebkitpart) | 513 | 669 | 76.7 | Bulgarian <dict@fsa-bg.org> | 
+ | [elementary-photos](/f33/package/elementary-photos) | 2989 | 3910 | 76.4 | Bulgarian (http://www.transifex.com/projects/p/shotwell/language/bg/) | 
+ | [kf5-libkdepim](/f33/package/kf5-libkdepim) | 45 | 59 | 76.3 | Bulgarian <dict@linux.zonebg.com> | 
+ | [konqueror](/f33/package/konqueror) | 6301 | 8327 | 75.7 | Bulgarian <dict@ludost.net> | 
+ | [libkomparediff2](/f33/package/libkomparediff2) | 108 | 143 | 75.5 | Bulgarian <dict@fsa-bg.org> | 
+ | [kmousetool](/f33/package/kmousetool) | 111 | 147 | 75.5 | Bulgarian <dict@ludost.net> | 
+ | [xarchiver](/f33/package/xarchiver) | 914 | 1214 | 75.3 | български | 
+ | [krusader](/f33/package/krusader) | 5964 | 7929 | 75.2 | Bulgarian <dict@fsa-bg.org> | 
+ | [kwalletmanager5](/f33/package/kwalletmanager5) | 601 | 800 | 75.1 | Bulgarian <dict@linux.zonebg.com> | 
+ | [kpilot](/f33/package/kpilot) | 5362 | 7156 | 74.9 | Bulgarian <dict@linux.zonebg.com> | 
+ | [trytond-party](/f33/package/trytond-party) | 200 | 268 | 74.6 |  | 
+ | [synapse](/f33/package/synapse) | 638 | 856 | 74.5 | Bulgarian <bg@li.org> | 
+ | [gimp](/f33/package/gimp) | 19878 | 26674 | 74.5 | Bulgarian <dict@fsa-bg.org> | 
+ | [trytond-purchase-invoice-line-standalone](/f33/package/trytond-purchase-invoice-line-standalone) | 38 | 51 | 74.5 |  | 
+ | [kde-cli-tools](/f33/package/kde-cli-tools) | 1573 | 2115 | 74.4 | Bulgarian <dict@fsa-bg.org> | 
+ | [khotkeys](/f33/package/khotkeys) | 325 | 437 | 74.4 | Bulgarian <dict@fsa-bg.org> | 
+ | [elementary-music](/f33/package/elementary-music) | 972 | 1308 | 74.3 | Bulgarian <https://l10n.elementary.io/projects/music/music/bg/> | 
+ | [php-horde-Horde-Browser](/f33/package/php-horde-Horde-Browser) | 49 | 66 | 74.2 | i18n@lists.horde.org | 
+ | [trytond-product](/f33/package/trytond-product) | 276 | 375 | 73.6 |  | 
+ | [wingpanel-indicator-power](/f33/package/wingpanel-indicator-power) | 86 | 117 | 73.5 | LANGUAGE <LL@li.org> | 
+ | [kcalc](/f33/package/kcalc) | 753 | 1026 | 73.4 | Bulgarian <dict@linux.zonebg.com> | 
+ | [boswars](/f33/package/boswars) | 158 | 216 | 73.1 | Bulgarian | 
+ | [widelands](/f33/package/widelands) | 45514 | 62420 | 72.9 | Bulgarian (http://www.transifex.com/widelands/widelands/language/bg/) | 
+ | [caja-actions](/f33/package/caja-actions) | 1132 | 1554 | 72.8 | Bulgarian <dict@fsa-bg.org> | 
+ | [kf5-kconfigwidgets](/f33/package/kf5-kconfigwidgets) | 236 | 324 | 72.8 | Bulgarian <dict@ludost.net> | 
+ | [sugar-distance](/f33/package/sugar-distance) | 72 | 99 | 72.7 | LANGUAGE <LL@li.org> | 
+ | [entangle](/f33/package/entangle) | 689 | 953 | 72.3 | Bulgarian (http://www.transifex.com/projects/p/entangle/language/bg/) | 
+ | [ktimer](/f33/package/ktimer) | 186 | 258 | 72.1 | Bulgarian <dict@fsa-bg.org> | 
+ | [kig](/f33/package/kig) | 5648 | 7855 | 71.9 | Bulgarian <dict@linux.zonebg.com> | 
+ | [mate-user-guide](/f33/package/mate-user-guide) | 30887 | 42970 | 71.9 | Bulgarian (https://www.transifex.com/mate/teams/13566/bg/) | 
+ | [kf5-kinit](/f33/package/kf5-kinit) | 96 | 134 | 71.6 | Bulgarian <dict@ludost.net> | 
+ | [pam](/f33/package/pam) | 457 | 638 | 71.6 | Bulgarian <trans-bg@lists.fedoraproject.org> | 
+ | [e16](/f33/package/e16) | 1994 | 2790 | 71.5 | Bulgarian | 
+ | [kmix](/f33/package/kmix) | 660 | 924 | 71.4 | Bulgarian <dict@ludost.net> | 
+ | [sugar-toolkit-gtk3](/f33/package/sugar-toolkit-gtk3) | 151 | 213 | 70.9 | LANGUAGE <LL@li.org> | 
+ | [trytond](/f33/package/trytond) | 1876 | 2648 | 70.8 |  | 
+ | [trytond-stock-supply](/f33/package/trytond-stock-supply) | 104 | 147 | 70.7 |  | 
+ | [deluge](/f33/package/deluge) | 1844 | 2616 | 70.5 | Bulgarian <bg@li.org> | 
+ | [kinfocenter](/f33/package/kinfocenter) | 1673 | 2388 | 70.1 | Bulgarian <dict@ludost.net> | 
+ | [kdnssd](/f33/package/kdnssd) | 21 | 30 | 70.0 | Bulgarian <dict@linux.zonebg.com> | 
+ | [mlocate](/f33/package/mlocate) | 406 | 581 | 69.9 | Bulgarian <trans-bg@lists.fedoraproject.org> | 
+ | [workrave](/f33/package/workrave) | 976 | 1398 | 69.8 | <i18n@workrave.org> | 
+ | [trytond-stock](/f33/package/trytond-stock) | 837 | 1203 | 69.6 |  | 
+ | [trytond-analytic-account](/f33/package/trytond-analytic-account) | 128 | 184 | 69.6 |  | 
+ | [anaconda](/f33/package/anaconda) | 5536 | 8030 | 68.9 | Bulgarian <https://translate.fedoraproject.org/projects/anaconda/master/bg/> | 
+ | [kio-extras](/f33/package/kio-extras) | 722 | 1048 | 68.9 | Bulgarian <dict@fsa-bg.org> | 
+ | [switchboard-plug-applications](/f33/package/switchboard-plug-applications) | 65 | 95 | 68.4 | Bulgarian <https://l10n.elementary.io/projects/switchboard/switchboard-plug-applications/bg/> | 
+ | [tuxpaint](/f33/package/tuxpaint) | 1137 | 1662 | 68.4 |  | 
+ | [grip](/f33/package/grip) | 741 | 1097 | 67.5 | Bulgarian <dict@linux.zonebg.com> | 
+ | [kruler](/f33/package/kruler) | 124 | 184 | 67.4 | Bulgarian <dict@fsa-bg.org> | 
+ | [dragon](/f33/package/dragon) | 188 | 281 | 66.9 | Bulgarian <dict@ludost.net> | 
+ | [kcron](/f33/package/kcron) | 356 | 534 | 66.7 | Bulgarian <dict@fsa-bg.org> | 
+ | [celestia](/f33/package/celestia) | 1753 | 2640 | 66.4 | Bulgarian <kumbarov@gmail.com> | 
+ | [trytond-stock-forecast](/f33/package/trytond-stock-forecast) | 115 | 174 | 66.1 |  | 
+ | [initscripts](/f33/package/initscripts) | 738 | 1118 | 66.0 | Bulgarian <trans-bg@lists.fedoraproject.org> | 
+ | [kf5-kwidgetsaddons](/f33/package/kf5-kwidgetsaddons) | 843 | 1282 | 65.8 | Bulgarian <dict@ludost.net> | 
+ | [gnome-shell-extension-openweather](/f33/package/gnome-shell-extension-openweather) | 407 | 619 | 65.8 | Български <> | 
+ | [python-django-formtools](/f33/package/python-django-formtools) | 21 | 32 | 65.6 | Bulgarian (http://www.transifex.com/projects/p/django-formtools/language/bg/) | 
+ | [switchboard-plug-a11y](/f33/package/switchboard-plug-a11y) | 82 | 125 | 65.6 | LANGUAGE <LL@li.org> | 
+ | [apt](/f33/package/apt) | 3541 | 5403 | 65.5 | Bulgarian <dict@fsa-bg.org> | 
+ | [postgresql-jdbc](/f33/package/postgresql-jdbc) | 1687 | 2582 | 65.3 | <bg@li.org> | 
+ | [knavalbattle](/f33/package/knavalbattle) | 260 | 399 | 65.2 | Bulgarian <dict@fsa-bg.org> | 
+ | [mate-panel](/f33/package/mate-panel) | 4377 | 6727 | 65.1 | Bulgarian (https://www.transifex.com/mate/teams/13566/bg/) | 
+ | [kf5-kjsembed](/f33/package/kf5-kjsembed) | 161 | 248 | 64.9 | Bulgarian <dict@ludost.net> | 
+ | [trytond-account-product](/f33/package/trytond-account-product) | 192 | 296 | 64.9 |  | 
+ | [deja-dup](/f33/package/deja-dup) | 2184 | 3375 | 64.7 | Bulgarian <bg@li.org> | 
+ | [calligra](/f33/package/calligra) | 19982 | 30925 | 64.6 | Bulgarian <dict@ludost.net> | 
+ | [kolourpaint](/f33/package/kolourpaint) | 1653 | 2564 | 64.5 | Bulgarian <dict@fsa-bg.org> | 
+ | [byobu](/f33/package/byobu) | 114 | 177 | 64.4 | Bulgarian <bg@li.org> | 
+ | [wingpanel-indicator-session](/f33/package/wingpanel-indicator-session) | 52 | 81 | 64.2 | LANGUAGE <LL@li.org> | 
+ | [python-blivet](/f33/package/python-blivet) | 357 | 558 | 64.0 | Bulgarian (http://www.transifex.com/projects/p/blivet/language/bg/) | 
+ | [gwenview](/f33/package/gwenview) | 993 | 1559 | 63.7 | Bulgarian <dict@ludost.net> | 
+ | [bomber](/f33/package/bomber) | 70 | 110 | 63.6 | Bulgarian <dict@fsa-bg.org> | 
+ | [mail-notification](/f33/package/mail-notification) | 915 | 1449 | 63.1 | Bulgarian <bg@li.org> | 
+ | [plasma-desktop](/f33/package/plasma-desktop) | 3542 | 5611 | 63.1 | Bulgarian <dict@fsa-bg.org> | 
+ | [balsa](/f33/package/balsa) | 3353 | 5354 | 62.6 | Bulgarian <dict@fsa-bg.org> | 
+ | [pan](/f33/package/pan) | 1981 | 3168 | 62.5 | Bulgarian <dict@fsa-bg.org> | 
+ | [camorama](/f33/package/camorama) | 481 | 775 | 62.1 | Bulgarian <dict@fsa-bg.org> | 
+ | [fpm2](/f33/package/fpm2) | 497 | 806 | 61.7 | Bulgarian | 
+ | [krdc](/f33/package/krdc) | 706 | 1147 | 61.6 | Bulgarian <dict@linux.zonebg.com> | 
+ | [kdump-anaconda-addon](/f33/package/kdump-anaconda-addon) | 51 | 83 | 61.4 | Bulgarian <Bulgarian Translators' Team <dict@fsa-bg.org>> | 
+ | [libkeduvocdocument](/f33/package/libkeduvocdocument) | 105 | 171 | 61.4 | Bulgarian <dict@fsa-bg.org> | 
+ | [kwordquiz](/f33/package/kwordquiz) | 1232 | 2026 | 60.8 | Bulgarian <dict@fsa-bg.org> | 
+ | [gucharmap](/f33/package/gucharmap) | 1744 | 2890 | 60.3 | Bulgarian <dict@fsa-bg.org> | 
+ | [warmux](/f33/package/warmux) | 1635 | 2744 | 59.6 | Bulgarian <thedeadly91@gmail.com> | 
+ | [tuxmath](/f33/package/tuxmath) | 866 | 1455 | 59.5 |  | 
+ | [kde-l10n](/f33/package/kde-l10n) | 56950 | 95853 | 59.4 | Bulgarian <dict@fsa-bg.org> | 
+ | [xchm](/f33/package/xchm) | 139 | 234 | 59.4 | Bulgarian <dict@linux.zonebg.com> | 
+ | [kfourinline](/f33/package/kfourinline) | 232 | 392 | 59.2 | Bulgarian <dict@fsa-bg.org> | 
+ | [kdialog](/f33/package/kdialog) | 223 | 382 | 58.4 | Bulgarian <dict@fsa-bg.org> | 
+ | [trytond-project-revenue](/f33/package/trytond-project-revenue) | 7 | 12 | 58.3 |  | 
+ | [kalgebra](/f33/package/kalgebra) | 98 | 169 | 58.0 | Bulgarian <dict@ludost.net> | 
+ | [ekiga](/f33/package/ekiga) | 5669 | 9800 | 57.8 | Bulgarian <bg@li.org> | 
+ | [elementary-calculator](/f33/package/elementary-calculator) | 75 | 130 | 57.7 | Bulgarian <https://l10n.elementary.io/projects/calculator/calculator/bg/> | 
+ | [kde-dev-utils](/f33/package/kde-dev-utils) | 38 | 67 | 56.7 | Bulgarian <dict@fsa-bg.org> | 
+ | [kf5-mailimporter](/f33/package/kf5-mailimporter) | 798 | 1408 | 56.7 | Bulgarian <dict@fsa-bg.org> | 
+ | [kf5-kio](/f33/package/kf5-kio) | 7061 | 12470 | 56.6 | Bulgarian <dict@fsa-bg.org> | 
+ | [kf5-purpose](/f33/package/kf5-purpose) | 30 | 53 | 56.6 | Bulgarian <dict@ludost.net> | 
+ | [trytond-account](/f33/package/trytond-account) | 1550 | 2743 | 56.5 |  | 
+ | [akregator](/f33/package/akregator) | 1021 | 1807 | 56.5 | Bulgarian <dict@fsa-bg.org> | 
+ | [lxrandr](/f33/package/lxrandr) | 94 | 167 | 56.3 | MIME-Version: 1.0 | 
+ | [switchboard-plug-pantheon-shell](/f33/package/switchboard-plug-pantheon-shell) | 101 | 181 | 55.8 | Bulgarian <bg@li.org> | 
+ | [kalarm](/f33/package/kalarm) | 4369 | 7838 | 55.7 | Bulgarian <dict@fsa-bg.org> | 
+ | [nfoview](/f33/package/nfoview) | 64 | 115 | 55.7 | Bulgarian (http://www.transifex.com/otsaloma/nfoview/language/bg/) | 
+ | [mingw-sane-backends](/f33/package/mingw-sane-backends) | 3184 | 5808 | 54.8 | <> | 
+ | [blueman](/f33/package/blueman) | 1013 | 1857 | 54.6 | Bulgarian <https://hosted.weblate.org/projects/blueman/blueman/bg/> | 
+ | [mate-terminal](/f33/package/mate-terminal) | 4548 | 8372 | 54.3 | Bulgarian (https://www.transifex.com/mate/teams/13566/bg/) | 
+ | [okteta](/f33/package/okteta) | 19 | 35 | 54.3 | Bulgarian <dict@fsa-bg.org> | 
+ | [akonadi-calendar-tools](/f33/package/akonadi-calendar-tools) | 262 | 483 | 54.2 | Bulgarian <dict@ludost.net> | 
+ | [sylpheed](/f33/package/sylpheed) | 3866 | 7214 | 53.6 | Bulgarian <bg@li.org> | 
+ | [sane-backends](/f33/package/sane-backends) | 3184 | 5960 | 53.4 | <> | 
+ | [switchboard-plug-networking](/f33/package/switchboard-plug-networking) | 253 | 474 | 53.4 | Bulgarian <https://l10n.elementary.io/projects/switchboard/switchboard-plug-networking/bg/> | 
+ | [kf5-kdelibs4support](/f33/package/kf5-kdelibs4support) | 2548 | 4813 | 52.9 | Bulgarian <dict@fsa-bg.org> | 
+ | [wesnoth](/f33/package/wesnoth) | 158409 | 299283 | 52.9 | Bulgarian <bg@li.org> | 
+ | [kgeography](/f33/package/kgeography) | 5116 | 9670 | 52.9 | Bulgarian <dict@ludost.net> | 
+ | [mbox-importer](/f33/package/mbox-importer) | 21 | 40 | 52.5 | Bulgarian <dict@ludost.net> | 
+ | [mutt](/f33/package/mutt) | 3439 | 6561 | 52.4 |  | 
+ | [okular](/f33/package/okular) | 2789 | 5322 | 52.4 | Bulgarian <dict@ludost.net> | 
+ | [konversation](/f33/package/konversation) | 5364 | 10294 | 52.1 | Bulgarian <dict@fsa-bg.org> | 
+ | [sugar-write](/f33/package/sugar-write) | 63 | 121 | 52.1 | LANGUAGE <LL@li.org> | 
+ | [ccsm](/f33/package/ccsm) | 306 | 591 | 51.8 | Bulgarian <bg@li.org> | 
+ | [banshee](/f33/package/banshee) | 2183 | 4240 | 51.5 | Bulgarian <dict@fsa-bg.org> | 
+ | [kate](/f33/package/kate) | 1653 | 3246 | 50.9 | Bulgarian <dict@fsa-bg.org> | 
+ | [kf5-solid](/f33/package/kf5-solid) | 346 | 686 | 50.4 | Bulgarian <dict@ludost.net> | 
+ | [grantlee-editor](/f33/package/grantlee-editor) | 65 | 129 | 50.4 | Bulgarian <dict@ludost.net> | 
+ | [easytag](/f33/package/easytag) | 2769 | 5507 | 50.3 | Bulgarian <dict@fsa-bg.org> | 
+ | [switchboard-plug-keyboard](/f33/package/switchboard-plug-keyboard) | 266 | 530 | 50.2 | Bulgarian <https://l10n.elementary.io/projects/switchboard/switchboard-plug-keyboard/bg/> | 
+ | [lyx](/f33/package/lyx) | 12847 | 25702 | 50.0 | Bulgarian <lyx-docs@lists.lyx.org> | 
+ | [knotes](/f33/package/knotes) | 299 | 604 | 49.5 | Bulgarian <dict@fsa-bg.org> | 
+ | [gramps](/f33/package/gramps) | 19749 | 39917 | 49.5 | Bulgarian <dict@fsa-bg.org> | 
+ | [soundconverter](/f33/package/soundconverter) | 249 | 507 | 49.1 | English (United Kingdom) <en_GB@li.org> | 
+ | [kopete](/f33/package/kopete) | 9018 | 18427 | 48.9 | Bulgarian <dict@ludost.net> | 
+ | [elementary-screenshot-tool](/f33/package/elementary-screenshot-tool) | 103 | 212 | 48.6 | LANGUAGE <LL@li.org> | 
+ | [kcolorchooser](/f33/package/kcolorchooser) | 14 | 29 | 48.3 | Bulgarian <dict@fsa-bg.org> | 
+ | [kmplot](/f33/package/kmplot) | 1202 | 2493 | 48.2 | Bulgarian <dict@linux.zonebg.com> | 
+ | [mate-power-manager](/f33/package/mate-power-manager) | 2472 | 5139 | 48.1 | Bulgarian (https://www.transifex.com/mate/teams/13566/bg/) | 
+ | [kcoloredit](/f33/package/kcoloredit) | 133 | 278 | 47.8 | Bulgarian <dict@fsa-bg.org> | 
+ | [squirrelmail](/f33/package/squirrelmail) | 3321 | 6950 | 47.8 | Bulgarian <squirrelmail-i18n@lists.sourceforge.net> | 
+ | [elementary-calendar](/f33/package/elementary-calendar) | 335 | 703 | 47.7 | Bulgarian <https://l10n.elementary.io/projects/calendar/calendar/bg/> | 
+ | [gnucash](/f33/package/gnucash) | 17540 | 37116 | 47.3 | Bulgarian <dict@fsa-bg.org> | 
+ | [switchboard-plug-printers](/f33/package/switchboard-plug-printers) | 171 | 362 | 47.2 | Bulgarian <https://l10n.elementary.io/projects/switchboard/switchboard-plug-printers/bg/> | 
+ | [mingw-binutils](/f33/package/mingw-binutils) | 9434 | 20039 | 47.1 | Bulgarian <dict@ludost.net> | 
+ | [trytond-project](/f33/package/trytond-project) | 67 | 143 | 46.9 |  | 
+ | [kde-partitionmanager](/f33/package/kde-partitionmanager) | 1031 | 2214 | 46.6 | Bulgarian <dict@fsa-bg.org> | 
+ | [kiten](/f33/package/kiten) | 304 | 653 | 46.6 | Bulgarian <dict@linux.zonebg.com> | 
+ | [elementary-camera](/f33/package/elementary-camera) | 30 | 65 | 46.2 | Bulgarian <https://l10n.elementary.io/projects/camera/camera/bg/> | 
+ | [pinta](/f33/package/pinta) | 772 | 1686 | 45.8 | Bulgarian <bg@li.org> | 
+ | [wingpanel-applications-menu](/f33/package/wingpanel-applications-menu) | 134 | 294 | 45.6 | Bulgarian <bg@li.org> | 
+ | [arm-none-eabi-binutils-cs](/f33/package/arm-none-eabi-binutils-cs) | 9666 | 21218 | 45.6 | Bulgarian <dict@ludost.net> | 
+ | [avr-binutils](/f33/package/avr-binutils) | 9666 | 21218 | 45.6 | Bulgarian <dict@ludost.net> | 
+ | [binutils](/f33/package/binutils) | 9666 | 21218 | 45.6 | Bulgarian <dict@ludost.net> | 
+ | [cross-binutils](/f33/package/cross-binutils) | 9666 | 21218 | 45.6 | Bulgarian <dict@ludost.net> | 
+ | [kmail](/f33/package/kmail) | 3722 | 8175 | 45.5 | Bulgarian <dict@ludost.net> | 
+ | [kpat](/f33/package/kpat) | 217 | 477 | 45.5 | Bulgarian <dict@fsa-bg.org> | 
+ | [rt](/f33/package/rt) | 5371 | 11843 | 45.4 | Bulgarian <bg@li.org> | 
+ | [pogo](/f33/package/pogo) | 260 | 576 | 45.1 | Bulgarian <bg@li.org> | 
+ | [libnma](/f33/package/libnma) | 412 | 917 | 44.9 | Bulgarian <dict@fsa-bg.org> | 
+ | [switchboard-plug-sound](/f33/package/switchboard-plug-sound) | 68 | 152 | 44.7 | Bulgarian <https://l10n.elementary.io/projects/switchboard/switchboard-plug-sound/bg/> | 
+ | [virt-viewer](/f33/package/virt-viewer) | 382 | 854 | 44.7 | Bulgarian (http://www.transifex.com/projects/p/virt-viewer/language/bg/) | 
+ | [elementary-files](/f33/package/elementary-files) | 1298 | 2911 | 44.6 | Bulgarian | 
+ | [sos](/f33/package/sos) | 54 | 122 | 44.3 | none | 
+ | [plasma-sdk](/f33/package/plasma-sdk) | 160 | 363 | 44.1 | Bulgarian <dict@fsa-bg.org> | 
+ | [mkvtoolnix](/f33/package/mkvtoolnix) | 18311 | 41671 | 43.9 | Bulgarian (http://www.transifex.com/moritz-bunkus/mkvtoolnix/language/bg/) | 
+ | [kile](/f33/package/kile) | 5687 | 12994 | 43.8 | Bulgarian <dict@fsa-bg.org> | 
+ | [dnf](/f33/package/dnf) | 2004 | 4621 | 43.4 | Bulgarian <https://translate.fedoraproject.org/projects/dnf/dnf-master/bg/> | 
+ | [xpad](/f33/package/xpad) | 178 | 413 | 43.1 | Bulgarian <dict@fsa-bg.org> | 
+ | [shotwell](/f33/package/shotwell) | 1959 | 4553 | 43.0 | Bulgarian (http://www.transifex.com/projects/p/shotwell/language/bg/) | 
+ | [libkdegames](/f33/package/libkdegames) | 159 | 370 | 43.0 | Bulgarian <dict@linux.zonebg.com> | 
+ | [switchboard-plug-about](/f33/package/switchboard-plug-about) | 41 | 96 | 42.7 | Bulgarian <bg@li.org> | 
+ | [cinnamon-control-center](/f33/package/cinnamon-control-center) | 559 | 1313 | 42.6 | Bulgarian <dict@fsa-bg.org> | 
+ | [pantheon-agent-geoclue2](/f33/package/pantheon-agent-geoclue2) | 43 | 101 | 42.6 | Bulgarian <https://l10n.elementary.io/projects/desktop/pantheon-agent-geoclue2/bg/> | 
+ | [mate-calc](/f33/package/mate-calc) | 1352 | 3178 | 42.5 | Bulgarian (https://www.transifex.com/mate/teams/13566/bg/) | 
+ | [php-phpmyadmin-sql-parser5](/f33/package/php-phpmyadmin-sql-parser5) | 114 | 268 | 42.5 | Bulgarian <https://hosted.weblate.org/projects/phpmyadmin/sql-parser/bg/> | 
+ | [choqok](/f33/package/choqok) | 998 | 2350 | 42.5 | Bulgarian <dict@fsa-bg.org> | 
+ | [wingpanel-indicator-notifications](/f33/package/wingpanel-indicator-notifications) | 16 | 38 | 42.1 | LANGUAGE <LL@li.org> | 
+ | [kf5-kwallet](/f33/package/kf5-kwallet) | 562 | 1336 | 42.1 | Bulgarian <dict@ludost.net> | 
+ | [trytond-account-invoice](/f33/package/trytond-account-invoice) | 429 | 1028 | 41.7 |  | 
+ | [imsettings](/f33/package/imsettings) | 202 | 485 | 41.6 | LANGUAGE <LL@li.org> | 
+ | [nano](/f33/package/nano) | 1436 | 3449 | 41.6 | Bulgarian <dict@fsa-bg.org> | 
+ | [elementary-videos](/f33/package/elementary-videos) | 144 | 346 | 41.6 | Bulgarian <bg@li.org> | 
+ | [sugar-calculator](/f33/package/sugar-calculator) | 359 | 866 | 41.5 | Bulgarian <dict@fsa-bg.org> | 
+ | [gnome-commander](/f33/package/gnome-commander) | 3269 | 7896 | 41.4 | ССТАНЕВ <sstpr@narod.ru> | 
+ | [kf5-kdeclarative](/f33/package/kf5-kdeclarative) | 43 | 104 | 41.3 | Bulgarian <dict@ludost.net> | 
+ | [kmplayer](/f33/package/kmplayer) | 515 | 1249 | 41.2 | Bulgarian <dict@fsa-bg.org> | 
+ | [atril](/f33/package/atril) | 1580 | 3846 | 41.1 | Bulgarian (https://www.transifex.com/mate/teams/13566/bg/) | 
+ | [blivet-gui](/f33/package/blivet-gui) | 420 | 1031 | 40.7 | Bulgarian | 
+ | [krfb](/f33/package/krfb) | 275 | 676 | 40.7 | Bulgarian <dict@ludost.net> | 
+ | [certmonger](/f33/package/certmonger) | 1151 | 2831 | 40.7 | Bulgarian (http://www.transifex.com/projects/p/certmonger/language/bg/) | 
+ | [konquest](/f33/package/konquest) | 100 | 246 | 40.7 | <en@li.org> | 
+ | [shutter](/f33/package/shutter) | 1252 | 3093 | 40.5 | Bulgarian <bg@li.org> | 
+ | [scratch](/f33/package/scratch) | 592 | 1470 | 40.3 | LANGUAGE <LL@li.org> | 
+ | [sugar-stopwatch](/f33/package/sugar-stopwatch) | 2 | 5 | 40.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-log](/f33/package/sugar-log) | 39 | 98 | 39.8 | LANGUAGE <LL@li.org> | 
+ | [doublecmd](/f33/package/doublecmd) | 3853 | 9760 | 39.5 | Language <sstpr@narod.ru> | 
+ | [plasma-workspace](/f33/package/plasma-workspace) | 3134 | 7943 | 39.5 | Bulgarian <dict@fsa-bg.org> | 
+ | [powerdevil](/f33/package/powerdevil) | 247 | 627 | 39.4 | Bulgarian <kde-i18n-doc@kde.org> | 
+ | [trytond-account-statement](/f33/package/trytond-account-statement) | 91 | 231 | 39.4 |  | 
+ | [sparkleshare](/f33/package/sparkleshare) | 157 | 402 | 39.1 |  | 
+ | [elementary-capnet-assist](/f33/package/elementary-capnet-assist) | 32 | 82 | 39.0 | Bulgarian <bg@li.org> | 
+ | [tryton](/f33/package/tryton) | 325 | 835 | 38.9 |  | 
+ | [fprintd](/f33/package/fprintd) | 163 | 419 | 38.9 | Bulgarian (http://www.transifex.com/freedesktop/fprintd/language/bg/) | 
+ | [kf5-kservice](/f33/package/kf5-kservice) | 64 | 167 | 38.3 | Bulgarian <dict@ludost.net> | 
+ | [step](/f33/package/step) | 714 | 1885 | 37.9 | Bulgarian <dict@fsa-bg.org> | 
+ | [lskat](/f33/package/lskat) | 96 | 254 | 37.8 | Bulgarian <dict@linux.zonebg.com> | 
+ | [tilda](/f33/package/tilda) | 250 | 667 | 37.5 | Bulgarian <bg@li.org> | 
+ | [wingpanel-indicator-bluetooth](/f33/package/wingpanel-indicator-bluetooth) | 11 | 30 | 36.7 | LANGUAGE <LL@li.org> | 
+ | [sugar-memorize](/f33/package/sugar-memorize) | 52 | 142 | 36.6 | LANGUAGE <LL@li.org> | 
+ | [pluma](/f33/package/pluma) | 4768 | 13120 | 36.3 | Bulgarian (https://www.transifex.com/mate/teams/13566/bg/) | 
+ | [setroubleshoot-plugins](/f33/package/setroubleshoot-plugins) | 2267 | 6246 | 36.3 | Bulgarian (http://www.transifex.com/projects/p/fedora/language/bg/) | 
+ | [wingpanel-indicator-network](/f33/package/wingpanel-indicator-network) | 35 | 97 | 36.1 | LANGUAGE <LL@li.org> | 
+ | [gnubik](/f33/package/gnubik) | 100 | 279 | 35.8 | Bulgarian <dict@fsa-bg.org> | 
+ | [mate-control-center](/f33/package/mate-control-center) | 3083 | 8602 | 35.8 | Bulgarian (https://www.transifex.com/mate/teams/13566/bg/) | 
+ | [libzypp](/f33/package/libzypp) | 964 | 2714 | 35.5 | Bulgarian <https://l10n.opensuse.org/projects/libzypp/master/bg/> | 
+ | [khangman](/f33/package/khangman) | 167 | 476 | 35.1 | Bulgarian <dict@ludost.net> | 
+ | [kdenetwork-filesharing](/f33/package/kdenetwork-filesharing) | 22 | 63 | 34.9 | Bulgarian <dict@linux.zonebg.com> | 
+ | [sugar-paint](/f33/package/sugar-paint) | 37 | 106 | 34.9 | LANGUAGE <LL@li.org> | 
+ | [kompare](/f33/package/kompare) | 499 | 1430 | 34.9 | Bulgarian <dict@fsa-bg.org> | 
+ | [sawfish](/f33/package/sawfish) | 2247 | 6443 | 34.9 | Bulgarian <dict@linux.zonebg.com> | 
+ | [homebank](/f33/package/homebank) | 973 | 2792 | 34.8 | Bulgarian <bg@li.org> | 
+ | [remmina](/f33/package/remmina) | 1482 | 4279 | 34.6 | Bulgarian <https://hosted.weblate.org/projects/remmina/remmina/bg/> | 
+ | [fuse-encfs](/f33/package/fuse-encfs) | 446 | 1289 | 34.6 | Bulgarian <bg@li.org> | 
+ | [android-tools](/f33/package/android-tools) | 2636 | 7678 | 34.3 | Bulgarian <trans-bg@lists.fedoraproject.org> | 
+ | [kf5-calendarsupport](/f33/package/kf5-calendarsupport) | 1022 | 2986 | 34.2 | Bulgarian <dict@fsa-bg.org> | 
+ | [audacity](/f33/package/audacity) | 6022 | 17657 | 34.1 | . | 
+ | [kf5-ki18n](/f33/package/kf5-ki18n) | 42 | 124 | 33.9 | Bulgarian <dict@ludost.net> | 
+ | [mate-utils](/f33/package/mate-utils) | 3490 | 10304 | 33.9 | Bulgarian (https://www.transifex.com/mate/teams/13566/bg/) | 
+ | [phosh](/f33/package/phosh) | 25 | 74 | 33.8 | Bulgarian | 
+ | [blogilo](/f33/package/blogilo) | 401 | 1188 | 33.8 | Bulgarian <dict@fsa-bg.org> | 
+ | [plasma-drkonqi](/f33/package/plasma-drkonqi) | 1332 | 3966 | 33.6 | Bulgarian <dict@ludost.net> | 
+ | [kget](/f33/package/kget) | 986 | 2946 | 33.5 | Bulgarian <dict@fsa-bg.org> | 
+ | [stellarium](/f33/package/stellarium) | 47187 | 141404 | 33.4 | Bulgarian (https://www.transifex.com/stellarium/teams/80998/bg/) | 
+ | [pantheon-agent-polkit](/f33/package/pantheon-agent-polkit) | 16 | 48 | 33.3 | Bulgarian <https://l10n.elementary.io/projects/desktop/pantheon-agent-polkit/bg/> | 
+ | [dolphin](/f33/package/dolphin) | 1454 | 4396 | 33.1 | Bulgarian <dict@ludost.net> | 
+ | [switchboard](/f33/package/switchboard) | 41 | 124 | 33.1 | Bulgarian <bg@li.org> | 
+ | [eom](/f33/package/eom) | 1635 | 4951 | 33.0 | Bulgarian (https://www.transifex.com/mate/teams/13566/bg/) | 
+ | [kf5-kxmlgui](/f33/package/kf5-kxmlgui) | 504 | 1533 | 32.9 | Bulgarian <dict@ludost.net> | 
+ | [kgraphviewer](/f33/package/kgraphviewer) | 394 | 1205 | 32.7 | Bulgarian <dict@fsa-bg.org> | 
+ | [network-manager-applet](/f33/package/network-manager-applet) | 1456 | 4478 | 32.5 | Bulgarian <dict@fsa-bg.org> | 
+ | [elementary-terminal](/f33/package/elementary-terminal) | 141 | 442 | 31.9 | Bulgarian <bg@li.org> | 
+ | [geany](/f33/package/geany) | 1923 | 6069 | 31.7 | Bulgarian <bg@li.org> | 
+ | [hexchat](/f33/package/hexchat) | 1887 | 5971 | 31.6 | Bulgarian (http://www.transifex.com/hexchat/hexchat/language/bg/) | 
+ | [wingpanel](/f33/package/wingpanel) | 6 | 19 | 31.6 | LANGUAGE <LL@li.org> | 
+ | [zabbix](/f33/package/zabbix) | 5252 | 16740 | 31.4 |  | 
+ | [renameutils](/f33/package/renameutils) | 83 | 265 | 31.3 | Bulgarian <dict@fsa-bg.org> | 
+ | [plasma-nm](/f33/package/plasma-nm) | 700 | 2241 | 31.2 | BULGARIAN <svetlisashkov@yahoo.com> | 
+ | [exaile](/f33/package/exaile) | 1268 | 4067 | 31.2 | Bulgarian <https://hosted.weblate.org/projects/exaile/master/bg/> | 
+ | [inkscape](/f33/package/inkscape) | 12763 | 40950 | 31.2 | Bulgarian <bg@li.org> | 
+ | [eiskaltdcpp](/f33/package/eiskaltdcpp) | 1129 | 3626 | 31.1 | Bulgarian (https://www.transifex.com/tehnick/teams/11818/bg/) | 
+ | [kf5-knotifyconfig](/f33/package/kf5-knotifyconfig) | 40 | 129 | 31.0 | Bulgarian <dict@ludost.net> | 
+ | [lokalize](/f33/package/lokalize) | 1266 | 4085 | 31.0 | Bulgarian <dict@fsa-bg.org> | 
+ | [libreport](/f33/package/libreport) | 1525 | 4928 | 30.9 | Bulgarian <https://translate.stg.fedoraproject.org/projects/abrt/libreport/bg/> | 
+ | [tilix](/f33/package/tilix) | 652 | 2108 | 30.9 | Bulgarian <https://hosted.weblate.org/projects/tilix/translations/bg/> | 
+ | [ksystemlog](/f33/package/ksystemlog) | 935 | 3034 | 30.8 | Bulgarian <dict@linux.zonebg.com> | 
+ | [godot](/f33/package/godot) | 4007 | 13216 | 30.3 | Bulgarian <https://hosted.weblate.org/projects/godot-engine/godot/bg/> | 
+ | [terminator](/f33/package/terminator) | 432 | 1450 | 29.8 | Bulgarian (https://www.transifex.com/terminator/teams/109338/bg/) | 
+ | [pgadmin3](/f33/package/pgadmin3) | 6910 | 23216 | 29.8 | The pgAdmin Development Team <pgadmin-hackers@postgresql.org> | 
+ | [gscan2pdf](/f33/package/gscan2pdf) | 686 | 2332 | 29.4 | Bulgarian <bg@li.org> | 
+ | [ark](/f33/package/ark) | 562 | 1917 | 29.3 | Bulgarian <dict@fsa-bg.org> | 
+ | [plasma-discover](/f33/package/plasma-discover) | 282 | 974 | 29.0 | BULGARIAN <kde-i18n-doc@kde.org> | 
+ | [compiz](/f33/package/compiz) | 1240 | 4385 | 28.3 | Bulgarian <opensuse-translation@opensuse.org> | 
+ | [firewalld](/f33/package/firewalld) | 622 | 2217 | 28.1 | Bulgarian (http://www.transifex.com/projects/p/firewalld/language/bg/) | 
+ | [system-config-language](/f33/package/system-config-language) | 60 | 215 | 27.9 | Bulgarian <dict@linux.zonebg.com> | 
+ | [malcontent](/f33/package/malcontent) | 299 | 1073 | 27.9 | none | 
+ | [kf5-kbookmarks](/f33/package/kf5-kbookmarks) | 64 | 230 | 27.8 | Bulgarian <dict@ludost.net> | 
+ | [policycoreutils](/f33/package/policycoreutils) | 1250 | 4493 | 27.8 | Bulgarian | 
+ | [kf5-kdesignerplugin](/f33/package/kf5-kdesignerplugin) | 15 | 54 | 27.8 | Bulgarian <dict@ludost.net> | 
+ | [kf5-messagelib](/f33/package/kf5-messagelib) | 1007 | 3639 | 27.7 | Bulgarian <dict@fsa-bg.org> | 
+ | [kgpg](/f33/package/kgpg) | 1440 | 5268 | 27.3 | Bulgarian <dict@fsa-bg.org> | 
+ | [kwin](/f33/package/kwin) | 1568 | 5848 | 26.8 | Bulgarian <dict@fsa-bg.org> | 
+ | [simple-scan](/f33/package/simple-scan) | 511 | 1945 | 26.3 | Bulgarian <bg@li.org> | 
+ | [mate-system-monitor](/f33/package/mate-system-monitor) | 1275 | 4911 | 26.0 | Bulgarian (https://www.transifex.com/mate/teams/13566/bg/) | 
+ | [duplicity](/f33/package/duplicity) | 571 | 2215 | 25.8 | Bulgarian <bg@li.org> | 
+ | [geeqie](/f33/package/geeqie) | 1117 | 4348 | 25.7 | Bulgarian <bg@li.org> | 
+ | [massif-visualizer](/f33/package/massif-visualizer) | 91 | 357 | 25.5 | Bulgarian <dict@ludost.net> | 
+ | [aria2](/f33/package/aria2) | 1899 | 7486 | 25.4 | Bulgarian <bg@li.org> | 
+ | [ktuberling](/f33/package/ktuberling) | 40 | 158 | 25.3 | Bulgarian <dict@linux.zonebg.com> | 
+ | [pidgin](/f33/package/pidgin) | 3915 | 15835 | 24.7 | Bulgarian (http://www.transifex.com/pidgin/pidgin/language/bg/) | 
+ | [ibus](/f33/package/ibus) | 543 | 2241 | 24.2 | Bulgarian <trans-bg@lists.fedoraproject.org> | 
+ | [liferea](/f33/package/liferea) | 528 | 2218 | 23.8 | Bulgarian <dict@fsa-bg.org> | 
+ | [kde-connect](/f33/package/kde-connect) | 32 | 135 | 23.7 | BULGARIAN <kde-i18n-doc@kde.org> | 
+ | [kbruch](/f33/package/kbruch) | 312 | 1347 | 23.2 | Bulgarian <dict@linux.zonebg.com> | 
+ | [switchboard-plug-display](/f33/package/switchboard-plug-display) | 32 | 139 | 23.0 | Bulgarian <bg@li.org> | 
+ | [plasma-oxygen](/f33/package/plasma-oxygen) | 142 | 618 | 23.0 | Bulgarian <dict@fsa-bg.org> | 
+ | [kf5-libktorrent](/f33/package/kf5-libktorrent) | 108 | 471 | 22.9 | Bulgarian <dict@fsa-bg.org> | 
+ | [kcm_wacomtablet](/f33/package/kcm_wacomtablet) | 227 | 996 | 22.8 | BULGARIAN <kde-i18n-doc@kde.org> | 
+ | [kf5-ktexteditor](/f33/package/kf5-ktexteditor) | 1994 | 8772 | 22.7 | Bulgarian <dict@fsa-bg.org> | 
+ | [avogadro2](/f33/package/avogadro2) | 105 | 462 | 22.7 | Bulgarian <bg@li.org> | 
+ | [totem](/f33/package/totem) | 1327 | 5879 | 22.6 | LANGUAGE <LL@li.org> | 
+ | [switchboard-plug-mouse-touchpad](/f33/package/switchboard-plug-mouse-touchpad) | 52 | 232 | 22.4 | Bulgarian <https://l10n.elementary.io/projects/switchboard/switchboard-plug-mouse-touchpad/bg/> | 
+ | [trytond-party-siret](/f33/package/trytond-party-siret) | 4 | 18 | 22.2 |  | 
+ | [kanagram](/f33/package/kanagram) | 117 | 528 | 22.2 | Bulgarian <dict@linux.zonebg.com> | 
+ | [grub-customizer](/f33/package/grub-customizer) | 283 | 1295 | 21.9 | Bulgarian <bg@li.org> | 
+ | [kf5-grantleetheme](/f33/package/kf5-grantleetheme) | 3 | 14 | 21.4 | Bulgarian <dict@ludost.net> | 
+ | [elementary-code](/f33/package/elementary-code) | 246 | 1151 | 21.4 | Bulgarian <https://l10n.elementary.io/projects/code/code/bg/> | 
+ | [korganizer](/f33/package/korganizer) | 1485 | 6966 | 21.3 | Bulgarian <dict@fsa-bg.org> | 
+ | [gajim](/f33/package/gajim) | 2222 | 10433 | 21.3 | Bulgarian <dict@fsa-bg.org> | 
+ | [php-horde-Horde-Crypt](/f33/package/php-horde-Horde-Crypt) | 84 | 396 | 21.2 | i18n@lists.horde.org | 
+ | [backintime](/f33/package/backintime) | 418 | 1972 | 21.2 | Bulgarian <bg@li.org> | 
+ | [python-meh](/f33/package/python-meh) | 23 | 109 | 21.1 | Bulgarian (http://www.transifex.com/projects/p/python-meh/language/bg/) | 
+ | [kf5-libkleo](/f33/package/kf5-libkleo) | 279 | 1325 | 21.1 | Bulgarian <dict@fsa-bg.org> | 
+ | [kexi](/f33/package/kexi) | 1536 | 7340 | 20.9 | Bulgarian <dict@fsa-bg.org> | 
+ | [granite](/f33/package/granite) | 56 | 269 | 20.8 | Bulgarian <bg@li.org> | 
+ | [gala](/f33/package/gala) | 41 | 197 | 20.8 | Bulgarian <https://l10n.elementary.io/projects/desktop/gala/bg/> | 
+ | [kf5-knewstuff](/f33/package/kf5-knewstuff) | 336 | 1636 | 20.5 | Bulgarian <dict@ludost.net> | 
+ | [engrampa](/f33/package/engrampa) | 1595 | 7817 | 20.4 | Bulgarian (https://www.transifex.com/mate/teams/13566/bg/) | 
+ | [kjumpingcube](/f33/package/kjumpingcube) | 82 | 412 | 19.9 | Bulgarian <dict@linux.zonebg.com> | 
+ | [psmisc](/f33/package/psmisc) | 203 | 1028 | 19.7 | Bulgarian <dict@fsa-bg.org> | 
+ | [publican](/f33/package/publican) | 1065 | 5443 | 19.6 | Bulgarian <f0x1@mail.bg> | 
+ | [NetworkManager-openvpn](/f33/package/NetworkManager-openvpn) | 205 | 1049 | 19.5 | Bulgarian <dict@fsa-bg.org> | 
+ | [icewm](/f33/package/icewm) | 432 | 2224 | 19.4 | Bulgarian <https://l10n.opensuse.org/projects/icewm/icewm-1-3-branch/bg/> | 
+ | [rednotebook](/f33/package/rednotebook) | 222 | 1147 | 19.4 | Bulgarian <bg@li.org> | 
+ | [sugar-record](/f33/package/sugar-record) | 12 | 62 | 19.4 | Bulgarian <dict@fsa-bg.org> | 
+ | [kontact](/f33/package/kontact) | 116 | 600 | 19.3 | Bulgarian <dict@ludost.net> | 
+ | [lxsession](/f33/package/lxsession) | 145 | 755 | 19.2 | MIME-Version: 1.0 | 
+ | [transmission-remote-gtk](/f33/package/transmission-remote-gtk) | 186 | 969 | 19.2 | Bulgarian <bg@li.org> | 
+ | [kalzium](/f33/package/kalzium) | 1845 | 9999 | 18.5 | Bulgarian <dict@ludost.net> | 
+ | [sugar-chat](/f33/package/sugar-chat) | 25 | 137 | 18.2 | LANGUAGE <LL@li.org> | 
+ | [cozy](/f33/package/cozy) | 185 | 1026 | 18.0 | Bulgarian (https://www.transifex.com/geigi/teams/78138/bg/) | 
+ | [sugar](/f33/package/sugar) | 408 | 2305 | 17.7 | LANGUAGE <LL@li.org> | 
+ | [enlightenment](/f33/package/enlightenment) | 1594 | 9053 | 17.6 | English <en@li.org> | 
+ | [sugar-read](/f33/package/sugar-read) | 24 | 137 | 17.5 | LANGUAGE <LL@li.org> | 
+ | [quodlibet](/f33/package/quodlibet) | 996 | 5716 | 17.4 | Bulgarian <dict@fsa-bg.org> | 
+ | [kf5-kfilemetadata](/f33/package/kf5-kfilemetadata) | 52 | 302 | 17.2 | BULGARIAN <kde-i18n-doc@kde.org> | 
+ | [kjots](/f33/package/kjots) | 112 | 651 | 17.2 | Bulgarian <dict@ludost.net> | 
+ | [electrum](/f33/package/electrum) | 1406 | 8292 | 17.0 | Bulgarian | 
+ | [bibletime](/f33/package/bibletime) | 801 | 4801 | 16.7 | Bulgarian (http://www.transifex.com/bibletime/bibletime/language/bg/) | 
+ | [hello](/f33/package/hello) | 31 | 186 | 16.7 | Bulgarian <dict@fsa-bg.org> | 
+ | [ksudoku](/f33/package/ksudoku) | 291 | 1746 | 16.7 | Bulgarian <dict@fsa-bg.org> | 
+ | [avogadro](/f33/package/avogadro) | 1100 | 6607 | 16.6 | Bulgarian <bg@li.org> | 
+ | [konsole5](/f33/package/konsole5) | 502 | 3042 | 16.5 | Bulgarian <dict@ludost.net> | 
+ | [libksysguard](/f33/package/libksysguard) | 559 | 3439 | 16.3 | Bulgarian <dict@fsa-bg.org> | 
+ | [kdepim-addons](/f33/package/kdepim-addons) | 319 | 1991 | 16.0 | Bulgarian <dict@ludost.net> | 
+ | [kf5-baloo](/f33/package/kf5-baloo) | 32 | 204 | 15.7 | BULGARIAN <kde-i18n-doc@kde.org> | 
+ | [mate-applets](/f33/package/mate-applets) | 2483 | 15853 | 15.7 | Bulgarian (https://www.transifex.com/mate/teams/13566/bg/) | 
+ | [dnfdragora](/f33/package/dnfdragora) | 276 | 1771 | 15.6 | Bulgarian (https://www.transifex.com/MageiaLinux/teams/9361/bg/) | 
+ | [kicad](/f33/package/kicad) | 3903 | 25157 | 15.5 | KiCad Team <evgeniy_p_ivanov@yahoo.ca> | 
+ | [kf5-libksieve](/f33/package/kf5-libksieve) | 522 | 3368 | 15.5 | Bulgarian <dict@fsa-bg.org> | 
+ | [trytond-analytic-invoice](/f33/package/trytond-analytic-invoice) | 2 | 13 | 15.4 |  | 
+ | [trytond-analytic-sale](/f33/package/trytond-analytic-sale) | 2 | 13 | 15.4 |  | 
+ | [mate-sensors-applet](/f33/package/mate-sensors-applet) | 324 | 2160 | 15.0 | Bulgarian (https://www.transifex.com/mate/teams/13566/bg/) | 
+ | [sugar-speak](/f33/package/sugar-speak) | 34 | 227 | 15.0 | LANGUAGE <LL@li.org> | 
+ | [switchboard-plug-bluetooth](/f33/package/switchboard-plug-bluetooth) | 28 | 188 | 14.9 | Bulgarian <https://l10n.elementary.io/projects/switchboard/switchboard-plug-bluetooth/bg/> | 
+ | [foxtrotgps](/f33/package/foxtrotgps) | 147 | 995 | 14.8 | Svetoslav Stefanov <lfu.project@gmail.com> | 
+ | [wget](/f33/package/wget) | 572 | 4070 | 14.1 | Bulgarian <dict@ludost.net> | 
+ | [gnumeric](/f33/package/gnumeric) | 4884 | 35046 | 13.9 | Bulgarian <dict@fsa-bg.org> | 
+ | [sssd](/f33/package/sssd) | 694 | 5072 | 13.7 | Bulgarian (http://www.transifex.com/projects/p/sssd/language/bg/) | 
+ | [NetworkManager-ssh](/f33/package/NetworkManager-ssh) | 39 | 286 | 13.6 | Bulgarian <dict@fsa-bg.org> | 
+ | [php-horde-Horde-Form](/f33/package/php-horde-Horde-Form) | 75 | 553 | 13.6 | i18n@lists.horde.org | 
+ | [kshisen](/f33/package/kshisen) | 76 | 568 | 13.4 | Bulgarian <dict@ludost.net> | 
+ | [wingpanel-indicator-sound](/f33/package/wingpanel-indicator-sound) | 7 | 53 | 13.2 | LANGUAGE <LL@li.org> | 
+ | [kaddressbook](/f33/package/kaddressbook) | 103 | 783 | 13.2 | Bulgarian <dict@fsa-bg.org> | 
+ | [switchdesk](/f33/package/switchdesk) | 16 | 122 | 13.1 | Bulgarian <dict@fsa-bg.org> | 
+ | [calamares](/f33/package/calamares) | 58 | 443 | 13.1 | Bulgarian (https://www.transifex.com/calamares/teams/20061/bg/) | 
+ | [onboard](/f33/package/onboard) | 300 | 2318 | 12.9 | Bulgarian <bg@li.org> | 
+ | [kajongg](/f33/package/kajongg) | 316 | 2444 | 12.9 | Bulgarian <dict@fsa-bg.org> | 
+ | [pykickstart](/f33/package/pykickstart) | 215 | 1691 | 12.7 | Bulgarian (http://www.transifex.com/projects/p/pykickstart/language/bg/) | 
+ | [trytond-product-cost-fifo](/f33/package/trytond-product-cost-fifo) | 3 | 24 | 12.5 |  | 
+ | [bluefish](/f33/package/bluefish) | 618 | 4945 | 12.5 | Not a member <bg@li.org> | 
+ | [parley](/f33/package/parley) | 467 | 3850 | 12.1 | Bulgarian <dict@linux.zonebg.com> | 
+ | [dialog](/f33/package/dialog) | 3 | 25 | 12.0 | Bulgarian <dict@linux.zonebg.com> | 
+ | [calligraplan](/f33/package/calligraplan) | 1065 | 8894 | 12.0 | Bulgarian <dict@linux.zonebg.com> | 
+ | [ktorrent](/f33/package/ktorrent) | 904 | 7574 | 11.9 | Bulgarian <dict@fsa-bg.org> | 
+ | [iso-codes](/f33/package/iso-codes) | 2706 | 22886 | 11.8 | Bulgarian <dict@fsa-bg.org> | 
+ | [kstars](/f33/package/kstars) | 7284 | 62342 | 11.7 | Bulgarian <dict@ludost.net> | 
+ | [php-horde-Horde-Date](/f33/package/php-horde-Horde-Date) | 4 | 36 | 11.1 | i18n@lists.horde.org | 
+ | [goffice](/f33/package/goffice) | 684 | 6201 | 11.0 | Bulgarian <dict@linux.zonebg.com> | 
+ | [php-horde-Horde-Core](/f33/package/php-horde-Horde-Core) | 82 | 771 | 10.6 | i18n@lists.horde.org | 
+ | [ikiwiki](/f33/package/ikiwiki) | 161 | 1529 | 10.5 | Bulgarian <dict@fsa-bg.org> | 
+ | [sugar-pippy](/f33/package/sugar-pippy) | 28 | 275 | 10.2 | LANGUAGE <LL@li.org> | 
+ | [kdevelop](/f33/package/kdevelop) | 605 | 6138 | 9.9 | Bulgarian <dict@fsa-bg.org> | 
+ | [pulseaudio](/f33/package/pulseaudio) | 324 | 3450 | 9.4 | Bulgarian <https://translate.fedoraproject.org/projects/pulseaudio/pulseaudio/bg/> | 
+ | [wingpanel-indicator-datetime](/f33/package/wingpanel-indicator-datetime) | 12 | 128 | 9.4 | Bulgarian <https://l10n.elementary.io/projects/wingpanel/wingpanel-indicator-datetime/bg/> | 
+ | [NetworkManager-l2tp](/f33/package/NetworkManager-l2tp) | 117 | 1250 | 9.4 | Bulgarian <dict@fsa-bg.org> | 
+ | [dconf-editor](/f33/package/dconf-editor) | 136 | 1464 | 9.3 | Bulgarian <dict@fsa-bg.org> | 
+ | [tellico](/f33/package/tellico) | 540 | 5858 | 9.2 | Bulgarian <dict@fsa-bg.org> | 
+ | [trytond-analytic-purchase](/f33/package/trytond-analytic-purchase) | 2 | 22 | 9.1 |  | 
+ | [cairo-dock](/f33/package/cairo-dock) | 675 | 7464 | 9.0 | Bulgarian <bg@li.org> | 
+ | [elementary-greeter](/f33/package/elementary-greeter) | 15 | 166 | 9.0 | Bulgarian <https://l10n.elementary.io/projects/desktop/greeter/bg/> | 
+ | [system-switch-mail](/f33/package/system-switch-mail) | 9 | 101 | 8.9 | Bulgarian <Bulgarian Translators' Team <dict@fsa-bg.org>> | 
+ | [kf5-kunitconversion](/f33/package/kf5-kunitconversion) | 507 | 5735 | 8.8 | Bulgarian <dict@fsa-bg.org> | 
+ | [spectacle](/f33/package/spectacle) | 72 | 855 | 8.4 | Bulgarian <dict@ludost.net> | 
+ | [kreversi](/f33/package/kreversi) | 36 | 429 | 8.4 | Bulgarian <dict@linux.zonebg.com> | 
+ | [php-horde-Horde-Share](/f33/package/php-horde-Horde-Share) | 4 | 48 | 8.3 | i18n@lists.horde.org | 
+ | [digikam](/f33/package/digikam) | 4276 | 51358 | 8.3 | Bulgarian <dict@fsa-bg.org> | 
+ | [krita](/f33/package/krita) | 2226 | 27841 | 8.0 | Bulgarian <dict@fsa-bg.org> | 
+ | [kreport](/f33/package/kreport) | 36 | 455 | 7.9 | Bulgarian <dict@ludost.net> | 
+ | [php-horde-Horde-Alarm](/f33/package/php-horde-Horde-Alarm) | 1 | 13 | 7.7 | i18n@lists.horde.org | 
+ | [python-apt](/f33/package/python-apt) | 41 | 544 | 7.5 | Bulgarian <dict@fsa-bg.org> | 
+ | [kf5-kalarmcal](/f33/package/kf5-kalarmcal) | 3 | 40 | 7.5 | Bulgarian <dict@fsa-bg.org> | 
+ | [php-horde-horde](/f33/package/php-horde-horde) | 259 | 3474 | 7.5 | i18n@lists.horde.org | 
+ | [sugar-browse](/f33/package/sugar-browse) | 24 | 334 | 7.2 | LANGUAGE <LL@li.org> | 
+ | [freedink](/f33/package/freedink) | 5 | 70 | 7.1 | Bulgarian <dict@fsa-bg.org> | 
+ | [wine](/f33/package/wine) | 1280 | 18402 | 7.0 | Bulgarian | 
+ | [smb4k](/f33/package/smb4k) | 418 | 6014 | 7.0 | Bulgarian <dict@fsa-bg.org> | 
+ | [gammu](/f33/package/gammu) | 260 | 4017 | 6.5 | Bulgarian <https://hosted.weblate.org/projects/gammu/gammu-docs/bg/> | 
+ | [php-horde-Horde-Prefs](/f33/package/php-horde-Horde-Prefs) | 2 | 32 | 6.2 | i18n@lists.horde.org | 
+ | [kgoldrunner](/f33/package/kgoldrunner) | 1454 | 23556 | 6.2 | Bulgarian <dict@fsa-bg.org> | 
+ | [sharutils](/f33/package/sharutils) | 191 | 3147 | 6.1 | Bulgarian <dict@fsa-bg.org> | 
+ | [wingpanel-indicator-keyboard](/f33/package/wingpanel-indicator-keyboard) | 2 | 38 | 5.3 | LANGUAGE <LL@li.org> | 
+ | [elinks](/f33/package/elinks) | 611 | 12245 | 5.0 | Bulgarian <bg-team@bash.info> | 
+ | [sugar-terminal](/f33/package/sugar-terminal) | 6 | 121 | 5.0 | LANGUAGE <LL@li.org> | 
+ | [avogadro2-libs](/f33/package/avogadro2-libs) | 169 | 3466 | 4.9 | Bulgarian <https://hosted.weblate.org/projects/avogadro/avogadrolibs/bg/> | 
+ | [freeciv](/f33/package/freeciv) | 5103 | 106305 | 4.8 | Bulgarian | 
+ | [gsettings-desktop-schemas](/f33/package/gsettings-desktop-schemas) | 254 | 5319 | 4.8 | Bulgarian <dict@fsa-bg.org> | 
+ | [kphotoalbum](/f33/package/kphotoalbum) | 449 | 9473 | 4.7 | Bulgarian <dict@fsa-bg.org> | 
+ | [kmymoney](/f33/package/kmymoney) | 1004 | 21824 | 4.6 | Bulgarian <dict@fsa-bg.org> | 
+ | [picard](/f33/package/picard) | 279 | 6265 | 4.5 | Bulgarian (http://www.transifex.com/musicbrainz/musicbrainz/language/bg/) | 
+ | [marble](/f33/package/marble) | 487 | 11418 | 4.3 | Bulgarian <dict@fsa-bg.org> | 
+ | [wdiff](/f33/package/wdiff) | 5 | 120 | 4.2 | Bulgarian <dict@fsa-bg.org> | 
+ | [knetwalk](/f33/package/knetwalk) | 9 | 230 | 3.9 | Bulgarian <dict@linux.zonebg.com> | 
+ | [minetest](/f33/package/minetest) | 367 | 9649 | 3.8 | Bulgarian <https://hosted.weblate.org/projects/minetest/minetest/bg/> | 
+ | [kleopatra](/f33/package/kleopatra) | 329 | 8658 | 3.8 | Bulgarian <dict@linux.zonebg.com> | 
+ | [cacti](/f33/package/cacti) | 1113 | 29825 | 3.7 | Bulgarian <bg@li.org> | 
+ | [flare](/f33/package/flare) | 193 | 5271 | 3.7 | Bulgarian (https://www.transifex.com/flareorg/teams/84925/bg/) | 
+ | [calibre](/f33/package/calibre) | 5457 | 161062 | 3.4 | Bulgarian (http://www.transifex.com/calibre/calibre/language/bg/) | 
+ | [php-horde-Horde-Argv](/f33/package/php-horde-Horde-Argv) | 2 | 60 | 3.3 | i18n@lists.horde.org | 
+ | [pingus](/f33/package/pingus) | 178 | 5395 | 3.3 | Bulgarian <bg@li.org> | 
+ | [mate-user-admin](/f33/package/mate-user-admin) | 20 | 628 | 3.2 | Bulgarian (https://www.transifex.com/mate/teams/13566/bg/) | 
+ | [kpmcore](/f33/package/kpmcore) | 96 | 3226 | 3.0 | Bulgarian <dict@fsa-bg.org> | 
+ | [light-locker](/f33/package/light-locker) | 7 | 260 | 2.7 | Bulgarian (http://www.transifex.com/the_cavalry/light-locker/language/bg/) | 
+ | [pychess](/f33/package/pychess) | 114 | 4455 | 2.6 | Bulgarian (http://www.transifex.com/gbtami/pychess/language/bg/) | 
+ | [NetworkManager](/f33/package/NetworkManager) | 622 | 26763 | 2.3 | Bulgarian <dict@fsa-bg.org> | 
+ | [lollypop](/f33/package/lollypop) | 32 | 1437 | 2.2 | Bulgarian <https://hosted.weblate.org/projects/gnumdk/lollypop/bg/> | 
+ | [libvirt](/f33/package/libvirt) | 1402 | 67160 | 2.1 | Bulgarian (http://www.transifex.com/projects/p/fedora/language/bg/) | 
+ | [mingw-libvirt](/f33/package/mingw-libvirt) | 1402 | 67160 | 2.1 | Bulgarian (http://www.transifex.com/projects/p/fedora/language/bg/) | 
+ | [sugar-measure](/f33/package/sugar-measure) | 3 | 155 | 1.9 | LANGUAGE <LL@li.org> | 
+ | [NetworkManager-fortisslvpn](/f33/package/NetworkManager-fortisslvpn) | 6 | 323 | 1.9 | Bulgarian <dict@fsa-bg.org> | 
+ | [spacefm](/f33/package/spacefm) | 157 | 8722 | 1.8 | Bulgarian (http://www.transifex.com/projects/p/spacefm/language/bg/) | 
+ | [NetworkManager-libreswan](/f33/package/NetworkManager-libreswan) | 8 | 465 | 1.7 | Bulgarian <dict@fsa-bg.org> | 
+ | [NetworkManager-openconnect](/f33/package/NetworkManager-openconnect) | 54 | 3241 | 1.7 | Bulgarian <dict@fsa-bg.org> | 
+ | [virt-manager](/f33/package/virt-manager) | 113 | 7102 | 1.6 | Bulgarian (http://www.transifex.com/projects/p/virt-manager/language/bg/) | 
+ | [xiphos](/f33/package/xiphos) | 71 | 4981 | 1.4 | Xiphos Project | 
+ | [libdnf](/f33/package/libdnf) | 19 | 1441 | 1.3 | Bulgarian | 
+ | [rpm-ostree](/f33/package/rpm-ostree) | 19 | 1441 | 1.3 | Bulgarian | 
+ | [snapper](/f33/package/snapper) | 11 | 861 | 1.3 | Bulgarian <https://l10n.opensuse.org/projects/snapper/master/bg/> | 
+ | [zypper](/f33/package/zypper) | 108 | 9243 | 1.2 | Bulgarian <https://l10n.opensuse.org/projects/zypper/master/bg/> | 
+ | [tortoisehg](/f33/package/tortoisehg) | 128 | 13243 | 1.0 | Bulgarian <bg@li.org> | 
+ | [php-horde-Horde-Image](/f33/package/php-horde-Horde-Image) | 5 | 581 | 0.9 | i18n@lists.horde.org | 
+ | [ktouch](/f33/package/ktouch) | 8 | 948 | 0.8 | Bulgarian <dict@linux.zonebg.com> | 
+ | [znc](/f33/package/znc) | 59 | 8664 | 0.7 | Bulgarian | 
+ | [skrooge](/f33/package/skrooge) | 77 | 12058 | 0.6 | Bulgarian <dict@fsa-bg.org> | 
+ | [elementary-sideload](/f33/package/elementary-sideload) | 1 | 224 | 0.4 | Bulgarian <https://l10n.elementary.io/projects/desktop/sideload/bg/> | 
+ | [mypaint](/f33/package/mypaint) | 26 | 6573 | 0.4 | Bulgarian <https://hosted.weblate.org/projects/mypaint/mypaint/bg/> | 
+ | [libmypaint](/f33/package/libmypaint) | 5 | 2303 | 0.2 | Bulgarian <https://hosted.weblate.org/projects/mypaint/libmypaint/bg/> | 
+ | [libmypaint2](/f33/package/libmypaint2) | 5 | 2311 | 0.2 | Bulgarian <https://hosted.weblate.org/projects/mypaint/libmypaint/bg/> | 
+ | [sugar-turtleart](/f33/package/sugar-turtleart) | 2 | 1459 | 0.1 | LANGUAGE <walter@sugarlabs.org> | 
+ | [sympa](/f33/package/sympa) | 39 | 37229 | 0.1 | Български | 
+ | [rapid-photo-downloader](/f33/package/rapid-photo-downloader) | 2 | 7736 | 0.0 | Bulgarian <bg@li.org> | 
+ | [bookworm](/f33/package/bookworm) | 0 | 795 | 0.0 |  | 
+ | [coin](/f33/package/coin) | 0 | 252 | 0.0 | none | 
+ | [dippi](/f33/package/dippi) | 0 | 397 | 0.0 | none | 
+ | [elementary-notifications](/f33/package/elementary-notifications) | 0 | 3 | 0.0 | none | 
+ | [elementary-planner](/f33/package/elementary-planner) | 0 | 3023 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [elementary-shortcut-overlay](/f33/package/elementary-shortcut-overlay) | 0 | 95 | 0.0 | none | 
+ | [feedreader](/f33/package/feedreader) | 0 | 1374 | 0.0 |  | 
+ | [fonts-tweak-tool](/f33/package/fonts-tweak-tool) | 0 | 196 | 0.0 | Bulgarian | 
+ | [gammastep](/f33/package/gammastep) | 0 | 945 | 0.0 | Bulgarian <bg@li.org> | 
+ | [harvey](/f33/package/harvey) | 0 | 57 | 0.0 | none | 
+ | [initial-setup](/f33/package/initial-setup) | 0 | 33 | 0.0 | Bulgarian | 
+ | [kf5-kauth](/f33/package/kf5-kauth) | 0 | 73 | 0.0 | Bulgarian <dict@ludost.net> | 
+ | [kf5-kcodecs](/f33/package/kf5-kcodecs) | 0 | 372 | 0.0 | Bulgarian <dict@ludost.net> | 
+ | [kf5-kconfig](/f33/package/kf5-kconfig) | 0 | 271 | 0.0 | Bulgarian <dict@fsa-bg.org> | 
+ | [kf5-kcoreaddons](/f33/package/kf5-kcoreaddons) | 0 | 495 | 0.0 | Bulgarian <dict@ludost.net> | 
+ | [kf5-kglobalaccel](/f33/package/kf5-kglobalaccel) | 0 | 71 | 0.0 | Bulgarian <dict@ludost.net> | 
+ | [kf5-kholidays](/f33/package/kf5-kholidays) | 0 | 139 | 0.0 | Bulgarian <dict@ludost.net> | 
+ | [kf5-kjobwidgets](/f33/package/kf5-kjobwidgets) | 0 | 133 | 0.0 | Bulgarian <dict@ludost.net> | 
+ | [kf5-knotifications](/f33/package/kf5-knotifications) | 0 | 20 | 0.0 | Bulgarian <dict@ludost.net> | 
+ | [kf5-sonnet](/f33/package/kf5-sonnet) | 0 | 667 | 0.0 | Bulgarian <dict@ludost.net> | 
+ | [kf5-syntax-highlighting](/f33/package/kf5-syntax-highlighting) | 0 | 604 | 0.0 | Bulgarian <dict@fsa-bg.org> | 
+ | [libgxim](/f33/package/libgxim) | 0 | 124 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [libvirt-glib](/f33/package/libvirt-glib) | 0 | 158 | 0.0 | Bulgarian (http://www.transifex.com/projects/p/libvirt-glib/language/bg/) | 
+ | [libvirt-sandbox](/f33/package/libvirt-sandbox) | 0 | 617 | 0.0 | Bulgarian <trans-bg@lists.fedoraproject.org> | 
+ | [lxde-common](/f33/package/lxde-common) | 0 | 14 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [mingw-colord](/f33/package/mingw-colord) | 0 | 1061 | 0.0 | Bulgarian (http://www.transifex.com/projects/p/freedesktop/language/bg/) | 
+ | [mingw-libvirt-glib](/f33/package/mingw-libvirt-glib) | 0 | 158 | 0.0 | Bulgarian (http://www.transifex.com/projects/p/libvirt-glib/language/bg/) | 
+ | [mingw-p11-kit](/f33/package/mingw-p11-kit) | 0 | 476 | 0.0 | Bulgarian (http://www.transifex.com/freedesktop/p11-kit/language/bg/) | 
+ | [moodle](/f33/package/moodle) | 0 | 52 | 0.0 | i18n@lists.horde.org | 
+ | [nutty](/f33/package/nutty) | 0 | 608 | 0.0 |  | 
+ | [optimizer](/f33/package/optimizer) | 0 | 282 | 0.0 | none | 
+ | [p11-kit](/f33/package/p11-kit) | 0 | 476 | 0.0 | Bulgarian (http://www.transifex.com/freedesktop/p11-kit/language/bg/) | 
+ | [phonon-backend-gstreamer](/f33/package/phonon-backend-gstreamer) | 0 | 104 | 0.0 | Bulgarian <dict@fsa-bg.org> | 
+ | [php-horde-Horde-Cli](/f33/package/php-horde-Horde-Cli) | 0 | 11 | 0.0 | i18n@lists.horde.org | 
+ | [php-horde-Horde-Compress](/f33/package/php-horde-Horde-Compress) | 0 | 25 | 0.0 | i18n@lists.horde.org | 
+ | [php-horde-Horde-Data](/f33/package/php-horde-Horde-Data) | 0 | 7 | 0.0 | i18n@lists.horde.org | 
+ | [php-horde-Horde-Exception](/f33/package/php-horde-Horde-Exception) | 0 | 4 | 0.0 | i18n@lists.horde.org | 
+ | [php-horde-Horde-Icalendar](/f33/package/php-horde-Horde-Icalendar) | 0 | 3 | 0.0 | i18n@lists.horde.org | 
+ | [php-horde-Horde-Imsp](/f33/package/php-horde-Horde-Imsp) | 0 | 14 | 0.0 | i18n@lists.horde.org | 
+ | [php-horde-Horde-Itip](/f33/package/php-horde-Horde-Itip) | 0 | 56 | 0.0 | i18n@lists.horde.org | 
+ | [php-horde-Horde-Kolab-Storage](/f33/package/php-horde-Horde-Kolab-Storage) | 0 | 120 | 0.0 | i18n@lists.horde.org | 
+ | [php-horde-Horde-Mime](/f33/package/php-horde-Horde-Mime) | 0 | 48 | 0.0 | i18n@lists.horde.org | 
+ | [php-horde-Horde-Mime-Viewer](/f33/package/php-horde-Horde-Mime-Viewer) | 0 | 47 | 0.0 | i18n@lists.horde.org | 
+ | [php-horde-Horde-Nls](/f33/package/php-horde-Horde-Nls) | 0 | 430 | 0.0 | i18n@lists.horde.org | 
+ | [php-horde-Horde-Rpc](/f33/package/php-horde-Horde-Rpc) | 0 | 48 | 0.0 | i18n@lists.horde.org | 
+ | [php-horde-Horde-SyncMl](/f33/package/php-horde-Horde-SyncMl) | 0 | 3 | 0.0 | i18n@lists.horde.org | 
+ | [php-horde-Horde-Text-Filter](/f33/package/php-horde-Horde-Text-Filter) | 0 | 1 | 0.0 | i18n@lists.horde.org | 
+ | [php-horde-Horde-Token](/f33/package/php-horde-Horde-Token) | 0 | 35 | 0.0 | i18n@lists.horde.org | 
+ | [php-horde-Horde-Vfs](/f33/package/php-horde-Horde-Vfs) | 0 | 10 | 0.0 | i18n@lists.horde.org | 
+ | [pipewire](/f33/package/pipewire) | 0 | 647 | 0.0 | Bulgarian <https://translate.fedoraproject.org/projects/pipewire/pipewire/bg/> | 
+ | [pyhoca-gui](/f33/package/pyhoca-gui) | 0 | 1865 | 0.0 | X2Go i18n <x2go-i18n@lists.x2go.org> | 
+ | [python-fedora](/f33/package/python-fedora) | 0 | 214 | 0.0 | Bulgarian | 
+ | [python-sphinx](/f33/package/python-sphinx) | 0 | 4581 | 0.0 | Bulgarian (http://www.transifex.com/sphinx-doc/sphinx-1/language/bg/) | 
+ | [realmd](/f33/package/realmd) | 0 | 789 | 0.0 | Bulgarian (http://www.transifex.com/freedesktop/realmd/language/bg/) | 
+ | [redshift](/f33/package/redshift) | 0 | 1028 | 0.0 | Bulgarian <bg@li.org> | 
+ | [sugar-getiabooks](/f33/package/sugar-getiabooks) | 0 | 150 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-implode](/f33/package/sugar-implode) | 0 | 77 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-infoslicer](/f33/package/sugar-infoslicer) | 0 | 236 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-labyrinth](/f33/package/sugar-labyrinth) | 0 | 281 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-ruler](/f33/package/sugar-ruler) | 0 | 29 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-view-slides](/f33/package/sugar-view-slides) | 0 | 7 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-visualmatch](/f33/package/sugar-visualmatch) | 0 | 158 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [trytond-account-invoice-line-standalone](/f33/package/trytond-account-invoice-line-standalone) | 0 | 10 | 0.0 |  | 
+ | [trytond-account-stock-anglo-saxon](/f33/package/trytond-account-stock-anglo-saxon) | 0 | 74 | 0.0 |  | 
+ | [trytond-account-stock-continental](/f33/package/trytond-account-stock-continental) | 0 | 325 | 0.0 |  | 
+ | [trytond-ldap-authentication](/f33/package/trytond-ldap-authentication) | 0 | 10 | 0.0 |  | 
+ | [wingpanel-indicator-nightlight](/f33/package/wingpanel-indicator-nightlight) | 0 | 31 | 0.0 |  | 
 {.sortable}
 
 

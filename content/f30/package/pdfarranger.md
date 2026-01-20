@@ -18,22 +18,22 @@ The package pdfarranger (version 1.4.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f30/language/fr.md" >}}) | 108 | 108 | 100.0 | /mnt/stockage/packages/f30/pdfarranger/po/fr.po | 
- | [ja]({{< ref "/f30/language/ja.md" >}}) | 108 | 108 | 100.0 | /mnt/stockage/packages/f30/pdfarranger/po/ja.po | 
- | [de]({{< ref "/f30/language/de.md" >}}) | 107 | 108 | 99.1 | /mnt/stockage/packages/f30/pdfarranger/po/de.po | 
- | [id]({{< ref "/f30/language/id.md" >}}) | 96 | 108 | 88.9 | /mnt/stockage/packages/f30/pdfarranger/po/id.po | 
- | [ca]({{< ref "/f30/language/ca.md" >}}) | 77 | 108 | 71.3 | /mnt/stockage/packages/f30/pdfarranger/po/ca@valencia.po | 
- | [pt_BR]({{< ref "/f30/language/pt_BR.md" >}}) | 77 | 108 | 71.3 | /mnt/stockage/packages/f30/pdfarranger/po/pt_BR.po | 
- | [es]({{< ref "/f30/language/es.md" >}}) | 75 | 108 | 69.4 | /mnt/stockage/packages/f30/pdfarranger/po/es.po | 
- | [cs]({{< ref "/f30/language/cs.md" >}}) | 73 | 108 | 67.6 | /mnt/stockage/packages/f30/pdfarranger/po/cs.po | 
- | [el]({{< ref "/f30/language/el.md" >}}) | 73 | 108 | 67.6 | /mnt/stockage/packages/f30/pdfarranger/po/el.po | 
- | [nl]({{< ref "/f30/language/nl.md" >}}) | 73 | 108 | 67.6 | /mnt/stockage/packages/f30/pdfarranger/po/nl.po | 
- | [pl]({{< ref "/f30/language/pl.md" >}}) | 73 | 108 | 67.6 | /mnt/stockage/packages/f30/pdfarranger/po/pl_PL.po | 
- | [zh_Hans]({{< ref "/f30/language/zh_Hans.md" >}}) | 73 | 108 | 67.6 | /mnt/stockage/packages/f30/pdfarranger/po/zh_CN.po | 
- | [it]({{< ref "/f30/language/it.md" >}}) | 72 | 108 | 66.7 | /mnt/stockage/packages/f30/pdfarranger/po/it.po | 
- | [tr]({{< ref "/f30/language/tr.md" >}}) | 72 | 108 | 66.7 | /mnt/stockage/packages/f30/pdfarranger/po/tr.po | 
- | [zh_Hant]({{< ref "/f30/language/zh_Hant.md" >}}) | 72 | 108 | 66.7 | /mnt/stockage/packages/f30/pdfarranger/po/zh_TW.po | 
- | [hu]({{< ref "/f30/language/hu.md" >}}) | 43 | 108 | 39.8 | /mnt/stockage/packages/f30/pdfarranger/po/hu.po | 
+ | [fr](/f30/language/fr) | 108 | 108 | 100.0 | /mnt/stockage/packages/f30/pdfarranger/po/fr.po | 
+ | [ja](/f30/language/ja) | 108 | 108 | 100.0 | /mnt/stockage/packages/f30/pdfarranger/po/ja.po | 
+ | [de](/f30/language/de) | 107 | 108 | 99.1 | /mnt/stockage/packages/f30/pdfarranger/po/de.po | 
+ | [id](/f30/language/id) | 96 | 108 | 88.9 | /mnt/stockage/packages/f30/pdfarranger/po/id.po | 
+ | [ca](/f30/language/ca) | 77 | 108 | 71.3 | /mnt/stockage/packages/f30/pdfarranger/po/ca@valencia.po | 
+ | [pt_BR](/f30/language/pt_BR) | 77 | 108 | 71.3 | /mnt/stockage/packages/f30/pdfarranger/po/pt_BR.po | 
+ | [es](/f30/language/es) | 75 | 108 | 69.4 | /mnt/stockage/packages/f30/pdfarranger/po/es.po | 
+ | [cs](/f30/language/cs) | 73 | 108 | 67.6 | /mnt/stockage/packages/f30/pdfarranger/po/cs.po | 
+ | [el](/f30/language/el) | 73 | 108 | 67.6 | /mnt/stockage/packages/f30/pdfarranger/po/el.po | 
+ | [nl](/f30/language/nl) | 73 | 108 | 67.6 | /mnt/stockage/packages/f30/pdfarranger/po/nl.po | 
+ | [pl](/f30/language/pl) | 73 | 108 | 67.6 | /mnt/stockage/packages/f30/pdfarranger/po/pl_PL.po | 
+ | [zh_Hans](/f30/language/zh_Hans) | 73 | 108 | 67.6 | /mnt/stockage/packages/f30/pdfarranger/po/zh_CN.po | 
+ | [it](/f30/language/it) | 72 | 108 | 66.7 | /mnt/stockage/packages/f30/pdfarranger/po/it.po | 
+ | [tr](/f30/language/tr) | 72 | 108 | 66.7 | /mnt/stockage/packages/f30/pdfarranger/po/tr.po | 
+ | [zh_Hant](/f30/language/zh_Hant) | 72 | 108 | 66.7 | /mnt/stockage/packages/f30/pdfarranger/po/zh_TW.po | 
+ | [hu](/f30/language/hu) | 43 | 108 | 39.8 | /mnt/stockage/packages/f30/pdfarranger/po/hu.po | 
 {.sortable}
 
 

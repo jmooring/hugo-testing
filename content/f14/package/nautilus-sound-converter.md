@@ -18,11 +18,11 @@ The package nautilus-sound-converter (version 1.0.6):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f14/language/de.md" >}}) | 149 | 149 | 100.0 | /mnt/stockage/packages/f14/nautilus-sound-converter/po/de.po | 
- | [fr]({{< ref "/f14/language/fr.md" >}}) | 149 | 149 | 100.0 | /mnt/stockage/packages/f14/nautilus-sound-converter/po/fr.po | 
- | [hu]({{< ref "/f14/language/hu.md" >}}) | 149 | 149 | 100.0 | /mnt/stockage/packages/f14/nautilus-sound-converter/po/hu.po | 
- | [it]({{< ref "/f14/language/it.md" >}}) | 159 | 159 | 100.0 | /mnt/stockage/packages/f14/nautilus-sound-converter/po/it.po | 
- | [sv]({{< ref "/f14/language/sv.md" >}}) | 149 | 149 | 100.0 | /mnt/stockage/packages/f14/nautilus-sound-converter/po/sv.po | 
+ | [de](/f14/language/de) | 149 | 149 | 100.0 | /mnt/stockage/packages/f14/nautilus-sound-converter/po/de.po | 
+ | [fr](/f14/language/fr) | 149 | 149 | 100.0 | /mnt/stockage/packages/f14/nautilus-sound-converter/po/fr.po | 
+ | [hu](/f14/language/hu) | 149 | 149 | 100.0 | /mnt/stockage/packages/f14/nautilus-sound-converter/po/hu.po | 
+ | [it](/f14/language/it) | 159 | 159 | 100.0 | /mnt/stockage/packages/f14/nautilus-sound-converter/po/it.po | 
+ | [sv](/f14/language/sv) | 149 | 149 | 100.0 | /mnt/stockage/packages/f14/nautilus-sound-converter/po/sv.po | 
 {.sortable}
 
 

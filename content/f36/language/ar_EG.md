@@ -38,14 +38,14 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [sequeler]({{< ref "/f36/package/sequeler.md" >}}) | 406 | 406 | 100.0 | Arabic (Egypt) <https://hosted.weblate.org/projects/sequeler/translations/ar_EG/> | 
- | [slick-greeter]({{< ref "/f36/package/slick-greeter.md" >}}) | 211 | 211 | 100.0 | anwar AL_iskandrany <anwareleskndrany13@gmail.com> | 
- | [xed]({{< ref "/f36/package/xed.md" >}}) | 3744 | 3760 | 99.6 | anwar AL_iskandrany <anwareleskndrany13@gmail.com> | 
- | [lightdm-settings]({{< ref "/f36/package/lightdm-settings.md" >}}) | 310 | 321 | 96.6 | anwar AL_iskandrany <anwar eleskndrany13@gmail.com> | 
- | [blueberry]({{< ref "/f36/package/blueberry.md" >}}) | 166 | 172 | 96.5 | anwar AL_iskandrany <anwareleskndrany13@gmail.com> | 
- | [xreader]({{< ref "/f36/package/xreader.md" >}}) | 1541 | 1620 | 95.1 | anwar AL_iskandrany <anwareleskndrany13@gmail.com> | 
- | [cinnamon-translations]({{< ref "/f36/package/cinnamon-translations.md" >}}) | 21454 | 23274 | 92.2 | انور الاسكندرانى <anwareleskndrany13@gmail.com> | 
- | [timeshift]({{< ref "/f36/package/timeshift.md" >}}) | 2630 | 2870 | 91.6 | anwar AL_iskandrany <anwareleskndrany13@gmail.com> | 
+ | [sequeler](/f36/package/sequeler) | 406 | 406 | 100.0 | Arabic (Egypt) <https://hosted.weblate.org/projects/sequeler/translations/ar_EG/> | 
+ | [slick-greeter](/f36/package/slick-greeter) | 211 | 211 | 100.0 | anwar AL_iskandrany <anwareleskndrany13@gmail.com> | 
+ | [xed](/f36/package/xed) | 3744 | 3760 | 99.6 | anwar AL_iskandrany <anwareleskndrany13@gmail.com> | 
+ | [lightdm-settings](/f36/package/lightdm-settings) | 310 | 321 | 96.6 | anwar AL_iskandrany <anwar eleskndrany13@gmail.com> | 
+ | [blueberry](/f36/package/blueberry) | 166 | 172 | 96.5 | anwar AL_iskandrany <anwareleskndrany13@gmail.com> | 
+ | [xreader](/f36/package/xreader) | 1541 | 1620 | 95.1 | anwar AL_iskandrany <anwareleskndrany13@gmail.com> | 
+ | [cinnamon-translations](/f36/package/cinnamon-translations) | 21454 | 23274 | 92.2 | انور الاسكندرانى <anwareleskndrany13@gmail.com> | 
+ | [timeshift](/f36/package/timeshift) | 2630 | 2870 | 91.6 | anwar AL_iskandrany <anwareleskndrany13@gmail.com> | 
 {.sortable}
 
 

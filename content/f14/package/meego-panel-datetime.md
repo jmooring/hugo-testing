@@ -18,28 +18,28 @@ The package meego-panel-datetime (version 0.2.7):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f14/language/ar.md" >}}) | 68 | 68 | 100.0 | /mnt/stockage/packages/f14/meego-panel-datetime/po/ar.po | 
- | [ast]({{< ref "/f14/language/ast.md" >}}) | 71 | 71 | 100.0 | /mnt/stockage/packages/f14/meego-panel-datetime/po/ast.po | 
- | [da]({{< ref "/f14/language/da.md" >}}) | 68 | 68 | 100.0 | /mnt/stockage/packages/f14/meego-panel-datetime/po/da.po | 
- | [de]({{< ref "/f14/language/de.md" >}}) | 71 | 71 | 100.0 | /mnt/stockage/packages/f14/meego-panel-datetime/po/de.po | 
- | [en_GB]({{< ref "/f14/language/en_GB.md" >}}) | 71 | 71 | 100.0 | /mnt/stockage/packages/f14/meego-panel-datetime/po/en_GB.po | 
- | [es]({{< ref "/f14/language/es.md" >}}) | 71 | 71 | 100.0 | /mnt/stockage/packages/f14/meego-panel-datetime/po/es.po | 
- | [fi]({{< ref "/f14/language/fi.md" >}}) | 71 | 71 | 100.0 | /mnt/stockage/packages/f14/meego-panel-datetime/po/fi.po | 
- | [fr]({{< ref "/f14/language/fr.md" >}}) | 71 | 71 | 100.0 | /mnt/stockage/packages/f14/meego-panel-datetime/po/fr.po | 
- | [it]({{< ref "/f14/language/it.md" >}}) | 71 | 71 | 100.0 | /mnt/stockage/packages/f14/meego-panel-datetime/po/it.po | 
- | [ja]({{< ref "/f14/language/ja.md" >}}) | 71 | 71 | 100.0 | /mnt/stockage/packages/f14/meego-panel-datetime/po/ja.po | 
- | [ko]({{< ref "/f14/language/ko.md" >}}) | 71 | 71 | 100.0 | /mnt/stockage/packages/f14/meego-panel-datetime/po/ko.po | 
- | [nl]({{< ref "/f14/language/nl.md" >}}) | 71 | 71 | 100.0 | /mnt/stockage/packages/f14/meego-panel-datetime/po/nl.po | 
- | [pa]({{< ref "/f14/language/pa.md" >}}) | 68 | 68 | 100.0 | /mnt/stockage/packages/f14/meego-panel-datetime/po/pa.po | 
- | [pl]({{< ref "/f14/language/pl.md" >}}) | 71 | 71 | 100.0 | /mnt/stockage/packages/f14/meego-panel-datetime/po/pl.po | 
- | [pt_BR]({{< ref "/f14/language/pt_BR.md" >}}) | 71 | 71 | 100.0 | /mnt/stockage/packages/f14/meego-panel-datetime/po/pt_BR.po | 
- | [ru]({{< ref "/f14/language/ru.md" >}}) | 71 | 71 | 100.0 | /mnt/stockage/packages/f14/meego-panel-datetime/po/ru.po | 
- | [sk]({{< ref "/f14/language/sk.md" >}}) | 68 | 68 | 100.0 | /mnt/stockage/packages/f14/meego-panel-datetime/po/sk.po | 
- | [sv]({{< ref "/f14/language/sv.md" >}}) | 71 | 71 | 100.0 | /mnt/stockage/packages/f14/meego-panel-datetime/po/sv.po | 
- | [wa]({{< ref "/f14/language/wa.md" >}}) | 68 | 68 | 100.0 | /mnt/stockage/packages/f14/meego-panel-datetime/po/wa.po | 
- | [zh_Hans]({{< ref "/f14/language/zh_Hans.md" >}}) | 71 | 71 | 100.0 | /mnt/stockage/packages/f14/meego-panel-datetime/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f14/language/zh_Hant.md" >}}) | 71 | 71 | 100.0 | /mnt/stockage/packages/f14/meego-panel-datetime/po/zh_TW.po | 
- | [id]({{< ref "/f14/language/id.md" >}}) | 58 | 68 | 85.3 | /mnt/stockage/packages/f14/meego-panel-datetime/po/id.po | 
+ | [ar](/f14/language/ar) | 68 | 68 | 100.0 | /mnt/stockage/packages/f14/meego-panel-datetime/po/ar.po | 
+ | [ast](/f14/language/ast) | 71 | 71 | 100.0 | /mnt/stockage/packages/f14/meego-panel-datetime/po/ast.po | 
+ | [da](/f14/language/da) | 68 | 68 | 100.0 | /mnt/stockage/packages/f14/meego-panel-datetime/po/da.po | 
+ | [de](/f14/language/de) | 71 | 71 | 100.0 | /mnt/stockage/packages/f14/meego-panel-datetime/po/de.po | 
+ | [en_GB](/f14/language/en_GB) | 71 | 71 | 100.0 | /mnt/stockage/packages/f14/meego-panel-datetime/po/en_GB.po | 
+ | [es](/f14/language/es) | 71 | 71 | 100.0 | /mnt/stockage/packages/f14/meego-panel-datetime/po/es.po | 
+ | [fi](/f14/language/fi) | 71 | 71 | 100.0 | /mnt/stockage/packages/f14/meego-panel-datetime/po/fi.po | 
+ | [fr](/f14/language/fr) | 71 | 71 | 100.0 | /mnt/stockage/packages/f14/meego-panel-datetime/po/fr.po | 
+ | [it](/f14/language/it) | 71 | 71 | 100.0 | /mnt/stockage/packages/f14/meego-panel-datetime/po/it.po | 
+ | [ja](/f14/language/ja) | 71 | 71 | 100.0 | /mnt/stockage/packages/f14/meego-panel-datetime/po/ja.po | 
+ | [ko](/f14/language/ko) | 71 | 71 | 100.0 | /mnt/stockage/packages/f14/meego-panel-datetime/po/ko.po | 
+ | [nl](/f14/language/nl) | 71 | 71 | 100.0 | /mnt/stockage/packages/f14/meego-panel-datetime/po/nl.po | 
+ | [pa](/f14/language/pa) | 68 | 68 | 100.0 | /mnt/stockage/packages/f14/meego-panel-datetime/po/pa.po | 
+ | [pl](/f14/language/pl) | 71 | 71 | 100.0 | /mnt/stockage/packages/f14/meego-panel-datetime/po/pl.po | 
+ | [pt_BR](/f14/language/pt_BR) | 71 | 71 | 100.0 | /mnt/stockage/packages/f14/meego-panel-datetime/po/pt_BR.po | 
+ | [ru](/f14/language/ru) | 71 | 71 | 100.0 | /mnt/stockage/packages/f14/meego-panel-datetime/po/ru.po | 
+ | [sk](/f14/language/sk) | 68 | 68 | 100.0 | /mnt/stockage/packages/f14/meego-panel-datetime/po/sk.po | 
+ | [sv](/f14/language/sv) | 71 | 71 | 100.0 | /mnt/stockage/packages/f14/meego-panel-datetime/po/sv.po | 
+ | [wa](/f14/language/wa) | 68 | 68 | 100.0 | /mnt/stockage/packages/f14/meego-panel-datetime/po/wa.po | 
+ | [zh_Hans](/f14/language/zh_Hans) | 71 | 71 | 100.0 | /mnt/stockage/packages/f14/meego-panel-datetime/po/zh_CN.po | 
+ | [zh_Hant](/f14/language/zh_Hant) | 71 | 71 | 100.0 | /mnt/stockage/packages/f14/meego-panel-datetime/po/zh_TW.po | 
+ | [id](/f14/language/id) | 58 | 68 | 85.3 | /mnt/stockage/packages/f14/meego-panel-datetime/po/id.po | 
 {.sortable}
 
 

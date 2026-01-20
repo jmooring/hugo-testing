@@ -18,8 +18,8 @@ The package photocollage (version 1.3.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f20/language/de.md" >}}) | 52 | 52 | 100.0 | /mnt/stockage/packages/f20/photocollage/po/de.po | 
- | [fr]({{< ref "/f20/language/fr.md" >}}) | 52 | 52 | 100.0 | /mnt/stockage/packages/f20/photocollage/po/fr.po | 
+ | [de](/f20/language/de) | 52 | 52 | 100.0 | /mnt/stockage/packages/f20/photocollage/po/de.po | 
+ | [fr](/f20/language/fr) | 52 | 52 | 100.0 | /mnt/stockage/packages/f20/photocollage/po/fr.po | 
 {.sortable}
 
 

@@ -18,9 +18,9 @@ The package 0install (version 2.12.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f28/language/de.md" >}}) | 6003 | 6003 | 100.0 | /mnt/stockage/packages/f28/0install/share/locale/de/LC_MESSAGES/zero-install.po | 
- | [sv]({{< ref "/f28/language/sv.md" >}}) | 6254 | 6254 | 100.0 | /mnt/stockage/packages/f28/0install/share/locale/sv/LC_MESSAGES/zero-install.po | 
- | [es]({{< ref "/f28/language/es.md" >}}) | 3919 | 6003 | 65.3 | /mnt/stockage/packages/f28/0install/share/locale/es/LC_MESSAGES/zero-install.po | 
+ | [de](/f28/language/de) | 6003 | 6003 | 100.0 | /mnt/stockage/packages/f28/0install/share/locale/de/LC_MESSAGES/zero-install.po | 
+ | [sv](/f28/language/sv) | 6254 | 6254 | 100.0 | /mnt/stockage/packages/f28/0install/share/locale/sv/LC_MESSAGES/zero-install.po | 
+ | [es](/f28/language/es) | 3919 | 6003 | 65.3 | /mnt/stockage/packages/f28/0install/share/locale/es/LC_MESSAGES/zero-install.po | 
 {.sortable}
 
 

@@ -18,12 +18,12 @@ The package elfutils (version 0.194):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [error]({{< ref "/f41/language/error.md" >}}) | 18864 | 18864 | 100.0 | /mnt/stockage/packages/f41/elfutils/po/en@quot.po/mnt/stockage/packages/f41/elfutils/po/en@boldquot.po | 
- | [pl]({{< ref "/f41/language/pl.md" >}}) | 8508 | 9432 | 90.2 | /mnt/stockage/packages/f41/elfutils/po/pl.po | 
- | [uk]({{< ref "/f41/language/uk.md" >}}) | 7926 | 9432 | 84.0 | /mnt/stockage/packages/f41/elfutils/po/uk.po | 
- | [es]({{< ref "/f41/language/es.md" >}}) | 5601 | 9432 | 59.4 | /mnt/stockage/packages/f41/elfutils/po/es.po | 
- | [ja]({{< ref "/f41/language/ja.md" >}}) | 4343 | 9432 | 46.0 | /mnt/stockage/packages/f41/elfutils/po/ja.po | 
- | [de]({{< ref "/f41/language/de.md" >}}) | 866 | 9432 | 9.2 | /mnt/stockage/packages/f41/elfutils/po/de.po | 
+ | [error](/f41/language/error) | 18864 | 18864 | 100.0 | /mnt/stockage/packages/f41/elfutils/po/en@quot.po/mnt/stockage/packages/f41/elfutils/po/en@boldquot.po | 
+ | [pl](/f41/language/pl) | 8508 | 9432 | 90.2 | /mnt/stockage/packages/f41/elfutils/po/pl.po | 
+ | [uk](/f41/language/uk) | 7926 | 9432 | 84.0 | /mnt/stockage/packages/f41/elfutils/po/uk.po | 
+ | [es](/f41/language/es) | 5601 | 9432 | 59.4 | /mnt/stockage/packages/f41/elfutils/po/es.po | 
+ | [ja](/f41/language/ja) | 4343 | 9432 | 46.0 | /mnt/stockage/packages/f41/elfutils/po/ja.po | 
+ | [de](/f41/language/de) | 866 | 9432 | 9.2 | /mnt/stockage/packages/f41/elfutils/po/de.po | 
 {.sortable}
 
 

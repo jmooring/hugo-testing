@@ -18,23 +18,23 @@ The package mkdocs (version 1.6.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f42/language/de.md" >}}) | 95 | 95 | 100.0 | /mnt/stockage/packages/f42/mkdocs/mkdocs/themes/mkdocs/locales/de/LC_MESSAGES/messages.po/mnt/stockage/packages/f42/mkdocs/mkdocs/themes/readthedocs/locales/de/LC_MESSAGES/messages.po | 
- | [es]({{< ref "/f42/language/es.md" >}}) | 95 | 95 | 100.0 | /mnt/stockage/packages/f42/mkdocs/mkdocs/themes/mkdocs/locales/es/LC_MESSAGES/messages.po/mnt/stockage/packages/f42/mkdocs/mkdocs/themes/readthedocs/locales/es/LC_MESSAGES/messages.po | 
- | [it]({{< ref "/f42/language/it.md" >}}) | 95 | 95 | 100.0 | /mnt/stockage/packages/f42/mkdocs/mkdocs/themes/mkdocs/locales/it/LC_MESSAGES/messages.po/mnt/stockage/packages/f42/mkdocs/mkdocs/themes/readthedocs/locales/it/LC_MESSAGES/messages.po | 
- | [nb_NO]({{< ref "/f42/language/nb_NO.md" >}}) | 49 | 49 | 100.0 | /mnt/stockage/packages/f42/mkdocs/mkdocs/themes/mkdocs/locales/nb/LC_MESSAGES/messages.po | 
- | [nl]({{< ref "/f42/language/nl.md" >}}) | 95 | 95 | 100.0 | /mnt/stockage/packages/f42/mkdocs/mkdocs/themes/mkdocs/locales/nl/LC_MESSAGES/messages.po/mnt/stockage/packages/f42/mkdocs/mkdocs/themes/readthedocs/locales/nl/LC_MESSAGES/messages.po | 
- | [nn]({{< ref "/f42/language/nn.md" >}}) | 49 | 49 | 100.0 | /mnt/stockage/packages/f42/mkdocs/mkdocs/themes/mkdocs/locales/nn/LC_MESSAGES/messages.po | 
- | [pl]({{< ref "/f42/language/pl.md" >}}) | 95 | 95 | 100.0 | /mnt/stockage/packages/f42/mkdocs/mkdocs/themes/mkdocs/locales/pl/LC_MESSAGES/messages.po/mnt/stockage/packages/f42/mkdocs/mkdocs/themes/readthedocs/locales/pl/LC_MESSAGES/messages.po | 
- | [ru]({{< ref "/f42/language/ru.md" >}}) | 95 | 95 | 100.0 | /mnt/stockage/packages/f42/mkdocs/mkdocs/themes/mkdocs/locales/ru/LC_MESSAGES/messages.po/mnt/stockage/packages/f42/mkdocs/mkdocs/themes/readthedocs/locales/ru/LC_MESSAGES/messages.po | 
- | [uk]({{< ref "/f42/language/uk.md" >}}) | 95 | 95 | 100.0 | /mnt/stockage/packages/f42/mkdocs/mkdocs/themes/mkdocs/locales/uk/LC_MESSAGES/messages.po/mnt/stockage/packages/f42/mkdocs/mkdocs/themes/readthedocs/locales/uk/LC_MESSAGES/messages.po | 
- | [zh_Hans]({{< ref "/f42/language/zh_Hans.md" >}}) | 95 | 95 | 100.0 | /mnt/stockage/packages/f42/mkdocs/mkdocs/themes/mkdocs/locales/zh_CN/LC_MESSAGES/messages.po/mnt/stockage/packages/f42/mkdocs/mkdocs/themes/readthedocs/locales/zh_CN/LC_MESSAGES/messages.po | 
- | [fr]({{< ref "/f42/language/fr.md" >}}) | 94 | 95 | 98.9 | /mnt/stockage/packages/f42/mkdocs/mkdocs/themes/mkdocs/locales/fr/LC_MESSAGES/messages.po/mnt/stockage/packages/f42/mkdocs/mkdocs/themes/readthedocs/locales/fr/LC_MESSAGES/messages.po | 
- | [id]({{< ref "/f42/language/id.md" >}}) | 94 | 95 | 98.9 | /mnt/stockage/packages/f42/mkdocs/mkdocs/themes/mkdocs/locales/id/LC_MESSAGES/messages.po/mnt/stockage/packages/f42/mkdocs/mkdocs/themes/readthedocs/locales/id/LC_MESSAGES/messages.po | 
- | [pt_BR]({{< ref "/f42/language/pt_BR.md" >}}) | 94 | 95 | 98.9 | /mnt/stockage/packages/f42/mkdocs/mkdocs/themes/mkdocs/locales/pt_BR/LC_MESSAGES/messages.po/mnt/stockage/packages/f42/mkdocs/mkdocs/themes/readthedocs/locales/pt_BR/LC_MESSAGES/messages.po | 
- | [tr]({{< ref "/f42/language/tr.md" >}}) | 94 | 95 | 98.9 | /mnt/stockage/packages/f42/mkdocs/mkdocs/themes/mkdocs/locales/tr/LC_MESSAGES/messages.po/mnt/stockage/packages/f42/mkdocs/mkdocs/themes/readthedocs/locales/tr/LC_MESSAGES/messages.po | 
- | [zh_Hant]({{< ref "/f42/language/zh_Hant.md" >}}) | 94 | 95 | 98.9 | /mnt/stockage/packages/f42/mkdocs/mkdocs/themes/mkdocs/locales/zh_TW/LC_MESSAGES/messages.po/mnt/stockage/packages/f42/mkdocs/mkdocs/themes/readthedocs/locales/zh_TW/LC_MESSAGES/messages.po | 
- | [fa]({{< ref "/f42/language/fa.md" >}}) | 92 | 95 | 96.8 | /mnt/stockage/packages/f42/mkdocs/mkdocs/themes/mkdocs/locales/fa/LC_MESSAGES/messages.po/mnt/stockage/packages/f42/mkdocs/mkdocs/themes/readthedocs/locales/fa/LC_MESSAGES/messages.po | 
- | [ja]({{< ref "/f42/language/ja.md" >}}) | 92 | 95 | 96.8 | /mnt/stockage/packages/f42/mkdocs/mkdocs/themes/mkdocs/locales/ja/LC_MESSAGES/messages.po/mnt/stockage/packages/f42/mkdocs/mkdocs/themes/readthedocs/locales/ja/LC_MESSAGES/messages.po | 
+ | [de](/f42/language/de) | 95 | 95 | 100.0 | /mnt/stockage/packages/f42/mkdocs/mkdocs/themes/mkdocs/locales/de/LC_MESSAGES/messages.po/mnt/stockage/packages/f42/mkdocs/mkdocs/themes/readthedocs/locales/de/LC_MESSAGES/messages.po | 
+ | [es](/f42/language/es) | 95 | 95 | 100.0 | /mnt/stockage/packages/f42/mkdocs/mkdocs/themes/mkdocs/locales/es/LC_MESSAGES/messages.po/mnt/stockage/packages/f42/mkdocs/mkdocs/themes/readthedocs/locales/es/LC_MESSAGES/messages.po | 
+ | [it](/f42/language/it) | 95 | 95 | 100.0 | /mnt/stockage/packages/f42/mkdocs/mkdocs/themes/mkdocs/locales/it/LC_MESSAGES/messages.po/mnt/stockage/packages/f42/mkdocs/mkdocs/themes/readthedocs/locales/it/LC_MESSAGES/messages.po | 
+ | [nb_NO](/f42/language/nb_NO) | 49 | 49 | 100.0 | /mnt/stockage/packages/f42/mkdocs/mkdocs/themes/mkdocs/locales/nb/LC_MESSAGES/messages.po | 
+ | [nl](/f42/language/nl) | 95 | 95 | 100.0 | /mnt/stockage/packages/f42/mkdocs/mkdocs/themes/mkdocs/locales/nl/LC_MESSAGES/messages.po/mnt/stockage/packages/f42/mkdocs/mkdocs/themes/readthedocs/locales/nl/LC_MESSAGES/messages.po | 
+ | [nn](/f42/language/nn) | 49 | 49 | 100.0 | /mnt/stockage/packages/f42/mkdocs/mkdocs/themes/mkdocs/locales/nn/LC_MESSAGES/messages.po | 
+ | [pl](/f42/language/pl) | 95 | 95 | 100.0 | /mnt/stockage/packages/f42/mkdocs/mkdocs/themes/mkdocs/locales/pl/LC_MESSAGES/messages.po/mnt/stockage/packages/f42/mkdocs/mkdocs/themes/readthedocs/locales/pl/LC_MESSAGES/messages.po | 
+ | [ru](/f42/language/ru) | 95 | 95 | 100.0 | /mnt/stockage/packages/f42/mkdocs/mkdocs/themes/mkdocs/locales/ru/LC_MESSAGES/messages.po/mnt/stockage/packages/f42/mkdocs/mkdocs/themes/readthedocs/locales/ru/LC_MESSAGES/messages.po | 
+ | [uk](/f42/language/uk) | 95 | 95 | 100.0 | /mnt/stockage/packages/f42/mkdocs/mkdocs/themes/mkdocs/locales/uk/LC_MESSAGES/messages.po/mnt/stockage/packages/f42/mkdocs/mkdocs/themes/readthedocs/locales/uk/LC_MESSAGES/messages.po | 
+ | [zh_Hans](/f42/language/zh_Hans) | 95 | 95 | 100.0 | /mnt/stockage/packages/f42/mkdocs/mkdocs/themes/mkdocs/locales/zh_CN/LC_MESSAGES/messages.po/mnt/stockage/packages/f42/mkdocs/mkdocs/themes/readthedocs/locales/zh_CN/LC_MESSAGES/messages.po | 
+ | [fr](/f42/language/fr) | 94 | 95 | 98.9 | /mnt/stockage/packages/f42/mkdocs/mkdocs/themes/mkdocs/locales/fr/LC_MESSAGES/messages.po/mnt/stockage/packages/f42/mkdocs/mkdocs/themes/readthedocs/locales/fr/LC_MESSAGES/messages.po | 
+ | [id](/f42/language/id) | 94 | 95 | 98.9 | /mnt/stockage/packages/f42/mkdocs/mkdocs/themes/mkdocs/locales/id/LC_MESSAGES/messages.po/mnt/stockage/packages/f42/mkdocs/mkdocs/themes/readthedocs/locales/id/LC_MESSAGES/messages.po | 
+ | [pt_BR](/f42/language/pt_BR) | 94 | 95 | 98.9 | /mnt/stockage/packages/f42/mkdocs/mkdocs/themes/mkdocs/locales/pt_BR/LC_MESSAGES/messages.po/mnt/stockage/packages/f42/mkdocs/mkdocs/themes/readthedocs/locales/pt_BR/LC_MESSAGES/messages.po | 
+ | [tr](/f42/language/tr) | 94 | 95 | 98.9 | /mnt/stockage/packages/f42/mkdocs/mkdocs/themes/mkdocs/locales/tr/LC_MESSAGES/messages.po/mnt/stockage/packages/f42/mkdocs/mkdocs/themes/readthedocs/locales/tr/LC_MESSAGES/messages.po | 
+ | [zh_Hant](/f42/language/zh_Hant) | 94 | 95 | 98.9 | /mnt/stockage/packages/f42/mkdocs/mkdocs/themes/mkdocs/locales/zh_TW/LC_MESSAGES/messages.po/mnt/stockage/packages/f42/mkdocs/mkdocs/themes/readthedocs/locales/zh_TW/LC_MESSAGES/messages.po | 
+ | [fa](/f42/language/fa) | 92 | 95 | 96.8 | /mnt/stockage/packages/f42/mkdocs/mkdocs/themes/mkdocs/locales/fa/LC_MESSAGES/messages.po/mnt/stockage/packages/f42/mkdocs/mkdocs/themes/readthedocs/locales/fa/LC_MESSAGES/messages.po | 
+ | [ja](/f42/language/ja) | 92 | 95 | 96.8 | /mnt/stockage/packages/f42/mkdocs/mkdocs/themes/mkdocs/locales/ja/LC_MESSAGES/messages.po/mnt/stockage/packages/f42/mkdocs/mkdocs/themes/readthedocs/locales/ja/LC_MESSAGES/messages.po | 
 {.sortable}
 
 

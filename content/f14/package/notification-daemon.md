@@ -18,28 +18,28 @@ The package notification-daemon (version 0.5.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f14/language/ar.md" >}}) | 31 | 31 | 100.0 | /mnt/stockage/packages/f14/notification-daemon/po/ar.po | 
- | [cs]({{< ref "/f14/language/cs.md" >}}) | 99 | 99 | 100.0 | /mnt/stockage/packages/f14/notification-daemon/po/cs.po | 
- | [da]({{< ref "/f14/language/da.md" >}}) | 99 | 99 | 100.0 | /mnt/stockage/packages/f14/notification-daemon/po/da.po | 
- | [de]({{< ref "/f14/language/de.md" >}}) | 99 | 99 | 100.0 | /mnt/stockage/packages/f14/notification-daemon/po/de.po | 
- | [el]({{< ref "/f14/language/el.md" >}}) | 99 | 99 | 100.0 | /mnt/stockage/packages/f14/notification-daemon/po/el.po | 
- | [es]({{< ref "/f14/language/es.md" >}}) | 99 | 99 | 100.0 | /mnt/stockage/packages/f14/notification-daemon/po/es.po | 
- | [et]({{< ref "/f14/language/et.md" >}}) | 99 | 99 | 100.0 | /mnt/stockage/packages/f14/notification-daemon/po/et.po | 
- | [fr]({{< ref "/f14/language/fr.md" >}}) | 99 | 99 | 100.0 | /mnt/stockage/packages/f14/notification-daemon/po/fr.po | 
- | [gl]({{< ref "/f14/language/gl.md" >}}) | 114 | 114 | 100.0 | /mnt/stockage/packages/f14/notification-daemon/po/gl.po | 
- | [hu]({{< ref "/f14/language/hu.md" >}}) | 114 | 114 | 100.0 | /mnt/stockage/packages/f14/notification-daemon/po/hu.po | 
- | [it]({{< ref "/f14/language/it.md" >}}) | 108 | 108 | 100.0 | /mnt/stockage/packages/f14/notification-daemon/po/it.po | 
- | [ja]({{< ref "/f14/language/ja.md" >}}) | 108 | 108 | 100.0 | /mnt/stockage/packages/f14/notification-daemon/po/ja.po | 
- | [lt]({{< ref "/f14/language/lt.md" >}}) | 114 | 114 | 100.0 | /mnt/stockage/packages/f14/notification-daemon/po/lt.po | 
- | [pa]({{< ref "/f14/language/pa.md" >}}) | 114 | 114 | 100.0 | /mnt/stockage/packages/f14/notification-daemon/po/pa.po | 
- | [pl]({{< ref "/f14/language/pl.md" >}}) | 114 | 114 | 100.0 | /mnt/stockage/packages/f14/notification-daemon/po/pl.po | 
- | [pt_BR]({{< ref "/f14/language/pt_BR.md" >}}) | 114 | 114 | 100.0 | /mnt/stockage/packages/f14/notification-daemon/po/pt_BR.po | 
- | [ru]({{< ref "/f14/language/ru.md" >}}) | 99 | 99 | 100.0 | /mnt/stockage/packages/f14/notification-daemon/po/ru.po | 
- | [sl]({{< ref "/f14/language/sl.md" >}}) | 99 | 99 | 100.0 | /mnt/stockage/packages/f14/notification-daemon/po/sl.po | 
- | [sv]({{< ref "/f14/language/sv.md" >}}) | 99 | 99 | 100.0 | /mnt/stockage/packages/f14/notification-daemon/po/sv.po | 
- | [zh_Hans]({{< ref "/f14/language/zh_Hans.md" >}}) | 114 | 114 | 100.0 | /mnt/stockage/packages/f14/notification-daemon/po/zh_CN.po | 
- | [nb_NO]({{< ref "/f14/language/nb_NO.md" >}}) | 54 | 99 | 54.5 | /mnt/stockage/packages/f14/notification-daemon/po/nb.po | 
- | [nl]({{< ref "/f14/language/nl.md" >}}) | 8 | 31 | 25.8 | /mnt/stockage/packages/f14/notification-daemon/po/nl.po | 
+ | [ar](/f14/language/ar) | 31 | 31 | 100.0 | /mnt/stockage/packages/f14/notification-daemon/po/ar.po | 
+ | [cs](/f14/language/cs) | 99 | 99 | 100.0 | /mnt/stockage/packages/f14/notification-daemon/po/cs.po | 
+ | [da](/f14/language/da) | 99 | 99 | 100.0 | /mnt/stockage/packages/f14/notification-daemon/po/da.po | 
+ | [de](/f14/language/de) | 99 | 99 | 100.0 | /mnt/stockage/packages/f14/notification-daemon/po/de.po | 
+ | [el](/f14/language/el) | 99 | 99 | 100.0 | /mnt/stockage/packages/f14/notification-daemon/po/el.po | 
+ | [es](/f14/language/es) | 99 | 99 | 100.0 | /mnt/stockage/packages/f14/notification-daemon/po/es.po | 
+ | [et](/f14/language/et) | 99 | 99 | 100.0 | /mnt/stockage/packages/f14/notification-daemon/po/et.po | 
+ | [fr](/f14/language/fr) | 99 | 99 | 100.0 | /mnt/stockage/packages/f14/notification-daemon/po/fr.po | 
+ | [gl](/f14/language/gl) | 114 | 114 | 100.0 | /mnt/stockage/packages/f14/notification-daemon/po/gl.po | 
+ | [hu](/f14/language/hu) | 114 | 114 | 100.0 | /mnt/stockage/packages/f14/notification-daemon/po/hu.po | 
+ | [it](/f14/language/it) | 108 | 108 | 100.0 | /mnt/stockage/packages/f14/notification-daemon/po/it.po | 
+ | [ja](/f14/language/ja) | 108 | 108 | 100.0 | /mnt/stockage/packages/f14/notification-daemon/po/ja.po | 
+ | [lt](/f14/language/lt) | 114 | 114 | 100.0 | /mnt/stockage/packages/f14/notification-daemon/po/lt.po | 
+ | [pa](/f14/language/pa) | 114 | 114 | 100.0 | /mnt/stockage/packages/f14/notification-daemon/po/pa.po | 
+ | [pl](/f14/language/pl) | 114 | 114 | 100.0 | /mnt/stockage/packages/f14/notification-daemon/po/pl.po | 
+ | [pt_BR](/f14/language/pt_BR) | 114 | 114 | 100.0 | /mnt/stockage/packages/f14/notification-daemon/po/pt_BR.po | 
+ | [ru](/f14/language/ru) | 99 | 99 | 100.0 | /mnt/stockage/packages/f14/notification-daemon/po/ru.po | 
+ | [sl](/f14/language/sl) | 99 | 99 | 100.0 | /mnt/stockage/packages/f14/notification-daemon/po/sl.po | 
+ | [sv](/f14/language/sv) | 99 | 99 | 100.0 | /mnt/stockage/packages/f14/notification-daemon/po/sv.po | 
+ | [zh_Hans](/f14/language/zh_Hans) | 114 | 114 | 100.0 | /mnt/stockage/packages/f14/notification-daemon/po/zh_CN.po | 
+ | [nb_NO](/f14/language/nb_NO) | 54 | 99 | 54.5 | /mnt/stockage/packages/f14/notification-daemon/po/nb.po | 
+ | [nl](/f14/language/nl) | 8 | 31 | 25.8 | /mnt/stockage/packages/f14/notification-daemon/po/nl.po | 
 {.sortable}
 
 

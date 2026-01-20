@@ -18,9 +18,9 @@ The package tiger (version 3.2.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [pt_BR]({{< ref "/f8/language/pt_BR.md" >}}) | 270 | 270 | 100.0 | /mnt/stockage/packages/f8/tiger/debian/po/pt_BR.po | 
- | [es]({{< ref "/f8/language/es.md" >}}) | 179 | 270 | 66.3 | /mnt/stockage/packages/f8/tiger/debian/po/es.po | 
- | [de]({{< ref "/f8/language/de.md" >}}) | 6 | 270 | 2.2 | /mnt/stockage/packages/f8/tiger/debian/po/de.po | 
+ | [pt_BR](/f8/language/pt_BR) | 270 | 270 | 100.0 | /mnt/stockage/packages/f8/tiger/debian/po/pt_BR.po | 
+ | [es](/f8/language/es) | 179 | 270 | 66.3 | /mnt/stockage/packages/f8/tiger/debian/po/es.po | 
+ | [de](/f8/language/de) | 6 | 270 | 2.2 | /mnt/stockage/packages/f8/tiger/debian/po/de.po | 
 {.sortable}
 
 

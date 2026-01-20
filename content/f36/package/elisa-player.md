@@ -18,48 +18,48 @@ The package elisa-player (version 22.12.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f36/language/ar.md" >}}) | 753 | 753 | 100.0 | /mnt/stockage/packages/f36/elisa-player/po/ar/elisa.po | 
- | [bg]({{< ref "/f36/language/bg.md" >}}) | 753 | 753 | 100.0 | /mnt/stockage/packages/f36/elisa-player/po/bg/elisa.po | 
- | [ca]({{< ref "/f36/language/ca.md" >}}) | 753 | 753 | 100.0 | /mnt/stockage/packages/f36/elisa-player/po/ca/elisa.po | 
- | [ca@valencia]({{< ref "/f36/language/ca@valencia.md" >}}) | 753 | 753 | 100.0 | /mnt/stockage/packages/f36/elisa-player/po/ca@valencia/elisa.po | 
- | [en_GB]({{< ref "/f36/language/en_GB.md" >}}) | 753 | 753 | 100.0 | /mnt/stockage/packages/f36/elisa-player/po/en_GB/elisa.po | 
- | [es]({{< ref "/f36/language/es.md" >}}) | 753 | 753 | 100.0 | /mnt/stockage/packages/f36/elisa-player/po/es/elisa.po | 
- | [eu]({{< ref "/f36/language/eu.md" >}}) | 753 | 753 | 100.0 | /mnt/stockage/packages/f36/elisa-player/po/eu/elisa.po | 
- | [fr]({{< ref "/f36/language/fr.md" >}}) | 753 | 753 | 100.0 | /mnt/stockage/packages/f36/elisa-player/po/fr/elisa.po | 
- | [ia]({{< ref "/f36/language/ia.md" >}}) | 753 | 753 | 100.0 | /mnt/stockage/packages/f36/elisa-player/po/ia/elisa.po | 
- | [id]({{< ref "/f36/language/id.md" >}}) | 753 | 753 | 100.0 | /mnt/stockage/packages/f36/elisa-player/po/id/elisa.po | 
- | [it]({{< ref "/f36/language/it.md" >}}) | 753 | 753 | 100.0 | /mnt/stockage/packages/f36/elisa-player/po/it/elisa.po | 
- | [ka]({{< ref "/f36/language/ka.md" >}}) | 753 | 753 | 100.0 | /mnt/stockage/packages/f36/elisa-player/po/ka/elisa.po | 
- | [nl]({{< ref "/f36/language/nl.md" >}}) | 753 | 753 | 100.0 | /mnt/stockage/packages/f36/elisa-player/po/nl/elisa.po | 
- | [nn]({{< ref "/f36/language/nn.md" >}}) | 753 | 753 | 100.0 | /mnt/stockage/packages/f36/elisa-player/po/nn/elisa.po | 
- | [pl]({{< ref "/f36/language/pl.md" >}}) | 753 | 753 | 100.0 | /mnt/stockage/packages/f36/elisa-player/po/pl/elisa.po | 
- | [pt]({{< ref "/f36/language/pt.md" >}}) | 753 | 753 | 100.0 | /mnt/stockage/packages/f36/elisa-player/po/pt/elisa.po | 
- | [sl]({{< ref "/f36/language/sl.md" >}}) | 753 | 753 | 100.0 | /mnt/stockage/packages/f36/elisa-player/po/sl/elisa.po | 
- | [sv]({{< ref "/f36/language/sv.md" >}}) | 753 | 753 | 100.0 | /mnt/stockage/packages/f36/elisa-player/po/sv/elisa.po | 
- | [tr]({{< ref "/f36/language/tr.md" >}}) | 753 | 753 | 100.0 | /mnt/stockage/packages/f36/elisa-player/po/tr/elisa.po | 
- | [uk]({{< ref "/f36/language/uk.md" >}}) | 753 | 753 | 100.0 | /mnt/stockage/packages/f36/elisa-player/po/uk/elisa.po | 
- | [ta]({{< ref "/f36/language/ta.md" >}}) | 748 | 753 | 99.3 | /mnt/stockage/packages/f36/elisa-player/po/ta/elisa.po | 
- | [sk]({{< ref "/f36/language/sk.md" >}}) | 710 | 753 | 94.3 | /mnt/stockage/packages/f36/elisa-player/po/sk/elisa.po | 
- | [zh_Hans]({{< ref "/f36/language/zh_Hans.md" >}}) | 698 | 753 | 92.7 | /mnt/stockage/packages/f36/elisa-player/po/zh_CN/elisa.po | 
- | [pt_BR]({{< ref "/f36/language/pt_BR.md" >}}) | 89 | 753 | 11.8 | /mnt/stockage/packages/f36/elisa-player/po/pt_BR/elisa.po | 
- | [fi]({{< ref "/f36/language/fi.md" >}}) | 74 | 753 | 9.8 | /mnt/stockage/packages/f36/elisa-player/po/fi/elisa.po | 
- | [ru]({{< ref "/f36/language/ru.md" >}}) | 71 | 753 | 9.4 | /mnt/stockage/packages/f36/elisa-player/po/ru/elisa.po | 
- | [az]({{< ref "/f36/language/az.md" >}}) | 47 | 753 | 6.2 | /mnt/stockage/packages/f36/elisa-player/po/az/elisa.po | 
- | [ko]({{< ref "/f36/language/ko.md" >}}) | 47 | 753 | 6.2 | /mnt/stockage/packages/f36/elisa-player/po/ko/elisa.po | 
- | [ro]({{< ref "/f36/language/ro.md" >}}) | 47 | 753 | 6.2 | /mnt/stockage/packages/f36/elisa-player/po/ro/elisa.po | 
- | [cs]({{< ref "/f36/language/cs.md" >}}) | 32 | 753 | 4.2 | /mnt/stockage/packages/f36/elisa-player/po/cs/elisa.po | 
- | [da]({{< ref "/f36/language/da.md" >}}) | 10 | 753 | 1.3 | /mnt/stockage/packages/f36/elisa-player/po/da/elisa.po | 
- | [de]({{< ref "/f36/language/de.md" >}}) | 10 | 753 | 1.3 | /mnt/stockage/packages/f36/elisa-player/po/de/elisa.po | 
- | [el]({{< ref "/f36/language/el.md" >}}) | 10 | 753 | 1.3 | /mnt/stockage/packages/f36/elisa-player/po/el/elisa.po | 
- | [et]({{< ref "/f36/language/et.md" >}}) | 10 | 753 | 1.3 | /mnt/stockage/packages/f36/elisa-player/po/et/elisa.po | 
- | [gl]({{< ref "/f36/language/gl.md" >}}) | 10 | 753 | 1.3 | /mnt/stockage/packages/f36/elisa-player/po/gl/elisa.po | 
- | [hi]({{< ref "/f36/language/hi.md" >}}) | 10 | 753 | 1.3 | /mnt/stockage/packages/f36/elisa-player/po/hi/elisa.po | 
- | [hu]({{< ref "/f36/language/hu.md" >}}) | 10 | 753 | 1.3 | /mnt/stockage/packages/f36/elisa-player/po/hu/elisa.po | 
- | [ja]({{< ref "/f36/language/ja.md" >}}) | 10 | 753 | 1.3 | /mnt/stockage/packages/f36/elisa-player/po/ja/elisa.po | 
- | [lt]({{< ref "/f36/language/lt.md" >}}) | 10 | 753 | 1.3 | /mnt/stockage/packages/f36/elisa-player/po/lt/elisa.po | 
- | [pa]({{< ref "/f36/language/pa.md" >}}) | 10 | 753 | 1.3 | /mnt/stockage/packages/f36/elisa-player/po/pa/elisa.po | 
- | [zh_Hant]({{< ref "/f36/language/zh_Hant.md" >}}) | 10 | 753 | 1.3 | /mnt/stockage/packages/f36/elisa-player/po/zh_TW/elisa.po | 
- | [bs]({{< ref "/f36/language/bs.md" >}}) | 0 | 753 | 0.0 | /mnt/stockage/packages/f36/elisa-player/po/bs/elisa.po | 
+ | [ar](/f36/language/ar) | 753 | 753 | 100.0 | /mnt/stockage/packages/f36/elisa-player/po/ar/elisa.po | 
+ | [bg](/f36/language/bg) | 753 | 753 | 100.0 | /mnt/stockage/packages/f36/elisa-player/po/bg/elisa.po | 
+ | [ca](/f36/language/ca) | 753 | 753 | 100.0 | /mnt/stockage/packages/f36/elisa-player/po/ca/elisa.po | 
+ | [ca@valencia](/f36/language/ca@valencia) | 753 | 753 | 100.0 | /mnt/stockage/packages/f36/elisa-player/po/ca@valencia/elisa.po | 
+ | [en_GB](/f36/language/en_GB) | 753 | 753 | 100.0 | /mnt/stockage/packages/f36/elisa-player/po/en_GB/elisa.po | 
+ | [es](/f36/language/es) | 753 | 753 | 100.0 | /mnt/stockage/packages/f36/elisa-player/po/es/elisa.po | 
+ | [eu](/f36/language/eu) | 753 | 753 | 100.0 | /mnt/stockage/packages/f36/elisa-player/po/eu/elisa.po | 
+ | [fr](/f36/language/fr) | 753 | 753 | 100.0 | /mnt/stockage/packages/f36/elisa-player/po/fr/elisa.po | 
+ | [ia](/f36/language/ia) | 753 | 753 | 100.0 | /mnt/stockage/packages/f36/elisa-player/po/ia/elisa.po | 
+ | [id](/f36/language/id) | 753 | 753 | 100.0 | /mnt/stockage/packages/f36/elisa-player/po/id/elisa.po | 
+ | [it](/f36/language/it) | 753 | 753 | 100.0 | /mnt/stockage/packages/f36/elisa-player/po/it/elisa.po | 
+ | [ka](/f36/language/ka) | 753 | 753 | 100.0 | /mnt/stockage/packages/f36/elisa-player/po/ka/elisa.po | 
+ | [nl](/f36/language/nl) | 753 | 753 | 100.0 | /mnt/stockage/packages/f36/elisa-player/po/nl/elisa.po | 
+ | [nn](/f36/language/nn) | 753 | 753 | 100.0 | /mnt/stockage/packages/f36/elisa-player/po/nn/elisa.po | 
+ | [pl](/f36/language/pl) | 753 | 753 | 100.0 | /mnt/stockage/packages/f36/elisa-player/po/pl/elisa.po | 
+ | [pt](/f36/language/pt) | 753 | 753 | 100.0 | /mnt/stockage/packages/f36/elisa-player/po/pt/elisa.po | 
+ | [sl](/f36/language/sl) | 753 | 753 | 100.0 | /mnt/stockage/packages/f36/elisa-player/po/sl/elisa.po | 
+ | [sv](/f36/language/sv) | 753 | 753 | 100.0 | /mnt/stockage/packages/f36/elisa-player/po/sv/elisa.po | 
+ | [tr](/f36/language/tr) | 753 | 753 | 100.0 | /mnt/stockage/packages/f36/elisa-player/po/tr/elisa.po | 
+ | [uk](/f36/language/uk) | 753 | 753 | 100.0 | /mnt/stockage/packages/f36/elisa-player/po/uk/elisa.po | 
+ | [ta](/f36/language/ta) | 748 | 753 | 99.3 | /mnt/stockage/packages/f36/elisa-player/po/ta/elisa.po | 
+ | [sk](/f36/language/sk) | 710 | 753 | 94.3 | /mnt/stockage/packages/f36/elisa-player/po/sk/elisa.po | 
+ | [zh_Hans](/f36/language/zh_Hans) | 698 | 753 | 92.7 | /mnt/stockage/packages/f36/elisa-player/po/zh_CN/elisa.po | 
+ | [pt_BR](/f36/language/pt_BR) | 89 | 753 | 11.8 | /mnt/stockage/packages/f36/elisa-player/po/pt_BR/elisa.po | 
+ | [fi](/f36/language/fi) | 74 | 753 | 9.8 | /mnt/stockage/packages/f36/elisa-player/po/fi/elisa.po | 
+ | [ru](/f36/language/ru) | 71 | 753 | 9.4 | /mnt/stockage/packages/f36/elisa-player/po/ru/elisa.po | 
+ | [az](/f36/language/az) | 47 | 753 | 6.2 | /mnt/stockage/packages/f36/elisa-player/po/az/elisa.po | 
+ | [ko](/f36/language/ko) | 47 | 753 | 6.2 | /mnt/stockage/packages/f36/elisa-player/po/ko/elisa.po | 
+ | [ro](/f36/language/ro) | 47 | 753 | 6.2 | /mnt/stockage/packages/f36/elisa-player/po/ro/elisa.po | 
+ | [cs](/f36/language/cs) | 32 | 753 | 4.2 | /mnt/stockage/packages/f36/elisa-player/po/cs/elisa.po | 
+ | [da](/f36/language/da) | 10 | 753 | 1.3 | /mnt/stockage/packages/f36/elisa-player/po/da/elisa.po | 
+ | [de](/f36/language/de) | 10 | 753 | 1.3 | /mnt/stockage/packages/f36/elisa-player/po/de/elisa.po | 
+ | [el](/f36/language/el) | 10 | 753 | 1.3 | /mnt/stockage/packages/f36/elisa-player/po/el/elisa.po | 
+ | [et](/f36/language/et) | 10 | 753 | 1.3 | /mnt/stockage/packages/f36/elisa-player/po/et/elisa.po | 
+ | [gl](/f36/language/gl) | 10 | 753 | 1.3 | /mnt/stockage/packages/f36/elisa-player/po/gl/elisa.po | 
+ | [hi](/f36/language/hi) | 10 | 753 | 1.3 | /mnt/stockage/packages/f36/elisa-player/po/hi/elisa.po | 
+ | [hu](/f36/language/hu) | 10 | 753 | 1.3 | /mnt/stockage/packages/f36/elisa-player/po/hu/elisa.po | 
+ | [ja](/f36/language/ja) | 10 | 753 | 1.3 | /mnt/stockage/packages/f36/elisa-player/po/ja/elisa.po | 
+ | [lt](/f36/language/lt) | 10 | 753 | 1.3 | /mnt/stockage/packages/f36/elisa-player/po/lt/elisa.po | 
+ | [pa](/f36/language/pa) | 10 | 753 | 1.3 | /mnt/stockage/packages/f36/elisa-player/po/pa/elisa.po | 
+ | [zh_Hant](/f36/language/zh_Hant) | 10 | 753 | 1.3 | /mnt/stockage/packages/f36/elisa-player/po/zh_TW/elisa.po | 
+ | [bs](/f36/language/bs) | 0 | 753 | 0.0 | /mnt/stockage/packages/f36/elisa-player/po/bs/elisa.po | 
 {.sortable}
 
 

@@ -18,22 +18,22 @@ The package python-django-simple-captcha (version 0.5.6):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [bg]({{< ref "/f30/language/bg.md" >}}) | 11 | 11 | 100.0 | /mnt/stockage/packages/f30/python-django-simple-captcha/captcha/locale/bg/LC_MESSAGES/django.po | 
- | [cs]({{< ref "/f30/language/cs.md" >}}) | 11 | 11 | 100.0 | /mnt/stockage/packages/f30/python-django-simple-captcha/captcha/locale/cs/LC_MESSAGES/django.po | 
- | [de]({{< ref "/f30/language/de.md" >}}) | 11 | 11 | 100.0 | /mnt/stockage/packages/f30/python-django-simple-captcha/captcha/locale/de/LC_MESSAGES/django.po | 
- | [es]({{< ref "/f30/language/es.md" >}}) | 11 | 11 | 100.0 | /mnt/stockage/packages/f30/python-django-simple-captcha/captcha/locale/es/LC_MESSAGES/django.po | 
- | [fr]({{< ref "/f30/language/fr.md" >}}) | 11 | 11 | 100.0 | /mnt/stockage/packages/f30/python-django-simple-captcha/captcha/locale/fr/LC_MESSAGES/django.po | 
- | [it]({{< ref "/f30/language/it.md" >}}) | 11 | 11 | 100.0 | /mnt/stockage/packages/f30/python-django-simple-captcha/captcha/locale/it/LC_MESSAGES/django.po | 
- | [ja]({{< ref "/f30/language/ja.md" >}}) | 11 | 11 | 100.0 | /mnt/stockage/packages/f30/python-django-simple-captcha/captcha/locale/ja/LC_MESSAGES/django.po | 
- | [nl]({{< ref "/f30/language/nl.md" >}}) | 11 | 11 | 100.0 | /mnt/stockage/packages/f30/python-django-simple-captcha/captcha/locale/nl/LC_MESSAGES/django.po | 
- | [pl]({{< ref "/f30/language/pl.md" >}}) | 11 | 11 | 100.0 | /mnt/stockage/packages/f30/python-django-simple-captcha/captcha/locale/pl/LC_MESSAGES/django.po | 
- | [pt_BR]({{< ref "/f30/language/pt_BR.md" >}}) | 11 | 11 | 100.0 | /mnt/stockage/packages/f30/python-django-simple-captcha/captcha/locale/pt_BR/LC_MESSAGES/django.po | 
- | [ru]({{< ref "/f30/language/ru.md" >}}) | 11 | 11 | 100.0 | /mnt/stockage/packages/f30/python-django-simple-captcha/captcha/locale/ru/LC_MESSAGES/django.po | 
- | [sk]({{< ref "/f30/language/sk.md" >}}) | 11 | 11 | 100.0 | /mnt/stockage/packages/f30/python-django-simple-captcha/captcha/locale/sk/LC_MESSAGES/django.po | 
- | [tr]({{< ref "/f30/language/tr.md" >}}) | 11 | 11 | 100.0 | /mnt/stockage/packages/f30/python-django-simple-captcha/captcha/locale/tr/LC_MESSAGES/django.po | 
- | [uk]({{< ref "/f30/language/uk.md" >}}) | 11 | 11 | 100.0 | /mnt/stockage/packages/f30/python-django-simple-captcha/captcha/locale/uk/LC_MESSAGES/django.po | 
- | [zh_Hans]({{< ref "/f30/language/zh_Hans.md" >}}) | 22 | 22 | 100.0 | /mnt/stockage/packages/f30/python-django-simple-captcha/captcha/locale/zh_Hans/LC_MESSAGES/django.po/mnt/stockage/packages/f30/python-django-simple-captcha/captcha/locale/zh_CN/LC_MESSAGES/django.po | 
- | [en]({{< ref "/f30/language/en.md" >}}) | 5 | 11 | 45.5 | /mnt/stockage/packages/f30/python-django-simple-captcha/captcha/locale/en/LC_MESSAGES/django.po | 
+ | [bg](/f30/language/bg) | 11 | 11 | 100.0 | /mnt/stockage/packages/f30/python-django-simple-captcha/captcha/locale/bg/LC_MESSAGES/django.po | 
+ | [cs](/f30/language/cs) | 11 | 11 | 100.0 | /mnt/stockage/packages/f30/python-django-simple-captcha/captcha/locale/cs/LC_MESSAGES/django.po | 
+ | [de](/f30/language/de) | 11 | 11 | 100.0 | /mnt/stockage/packages/f30/python-django-simple-captcha/captcha/locale/de/LC_MESSAGES/django.po | 
+ | [es](/f30/language/es) | 11 | 11 | 100.0 | /mnt/stockage/packages/f30/python-django-simple-captcha/captcha/locale/es/LC_MESSAGES/django.po | 
+ | [fr](/f30/language/fr) | 11 | 11 | 100.0 | /mnt/stockage/packages/f30/python-django-simple-captcha/captcha/locale/fr/LC_MESSAGES/django.po | 
+ | [it](/f30/language/it) | 11 | 11 | 100.0 | /mnt/stockage/packages/f30/python-django-simple-captcha/captcha/locale/it/LC_MESSAGES/django.po | 
+ | [ja](/f30/language/ja) | 11 | 11 | 100.0 | /mnt/stockage/packages/f30/python-django-simple-captcha/captcha/locale/ja/LC_MESSAGES/django.po | 
+ | [nl](/f30/language/nl) | 11 | 11 | 100.0 | /mnt/stockage/packages/f30/python-django-simple-captcha/captcha/locale/nl/LC_MESSAGES/django.po | 
+ | [pl](/f30/language/pl) | 11 | 11 | 100.0 | /mnt/stockage/packages/f30/python-django-simple-captcha/captcha/locale/pl/LC_MESSAGES/django.po | 
+ | [pt_BR](/f30/language/pt_BR) | 11 | 11 | 100.0 | /mnt/stockage/packages/f30/python-django-simple-captcha/captcha/locale/pt_BR/LC_MESSAGES/django.po | 
+ | [ru](/f30/language/ru) | 11 | 11 | 100.0 | /mnt/stockage/packages/f30/python-django-simple-captcha/captcha/locale/ru/LC_MESSAGES/django.po | 
+ | [sk](/f30/language/sk) | 11 | 11 | 100.0 | /mnt/stockage/packages/f30/python-django-simple-captcha/captcha/locale/sk/LC_MESSAGES/django.po | 
+ | [tr](/f30/language/tr) | 11 | 11 | 100.0 | /mnt/stockage/packages/f30/python-django-simple-captcha/captcha/locale/tr/LC_MESSAGES/django.po | 
+ | [uk](/f30/language/uk) | 11 | 11 | 100.0 | /mnt/stockage/packages/f30/python-django-simple-captcha/captcha/locale/uk/LC_MESSAGES/django.po | 
+ | [zh_Hans](/f30/language/zh_Hans) | 22 | 22 | 100.0 | /mnt/stockage/packages/f30/python-django-simple-captcha/captcha/locale/zh_Hans/LC_MESSAGES/django.po/mnt/stockage/packages/f30/python-django-simple-captcha/captcha/locale/zh_CN/LC_MESSAGES/django.po | 
+ | [en](/f30/language/en) | 5 | 11 | 45.5 | /mnt/stockage/packages/f30/python-django-simple-captcha/captcha/locale/en/LC_MESSAGES/django.po | 
 {.sortable}
 
 

@@ -18,16 +18,16 @@ The package qalculate-gtk (version 4.2.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [es]({{< ref "/f36/language/es.md" >}}) | 4374 | 4376 | 100.0 | /mnt/stockage/packages/f36/qalculate-gtk/po/es.po | 
- | [de]({{< ref "/f36/language/de.md" >}}) | 4359 | 4376 | 99.6 | /mnt/stockage/packages/f36/qalculate-gtk/po/de.po | 
- | [ru]({{< ref "/f36/language/ru.md" >}}) | 4343 | 4376 | 99.2 | /mnt/stockage/packages/f36/qalculate-gtk/po/ru.po | 
- | [ca]({{< ref "/f36/language/ca.md" >}}) | 4342 | 4376 | 99.2 | /mnt/stockage/packages/f36/qalculate-gtk/po/ca.po | 
- | [sv]({{< ref "/f36/language/sv.md" >}}) | 4289 | 4376 | 98.0 | /mnt/stockage/packages/f36/qalculate-gtk/po/sv.po | 
- | [zh_Hans]({{< ref "/f36/language/zh_Hans.md" >}}) | 4285 | 4376 | 97.9 | /mnt/stockage/packages/f36/qalculate-gtk/po/zh_CN.po | 
- | [pt_BR]({{< ref "/f36/language/pt_BR.md" >}}) | 4083 | 4376 | 93.3 | /mnt/stockage/packages/f36/qalculate-gtk/po/pt_BR.po | 
- | [sl]({{< ref "/f36/language/sl.md" >}}) | 4058 | 4376 | 92.7 | /mnt/stockage/packages/f36/qalculate-gtk/po/sl.po | 
- | [fr]({{< ref "/f36/language/fr.md" >}}) | 3460 | 4376 | 79.1 | /mnt/stockage/packages/f36/qalculate-gtk/po/fr.po | 
- | [nl]({{< ref "/f36/language/nl.md" >}}) | 2166 | 4376 | 49.5 | /mnt/stockage/packages/f36/qalculate-gtk/po/nl.po | 
+ | [es](/f36/language/es) | 4374 | 4376 | 100.0 | /mnt/stockage/packages/f36/qalculate-gtk/po/es.po | 
+ | [de](/f36/language/de) | 4359 | 4376 | 99.6 | /mnt/stockage/packages/f36/qalculate-gtk/po/de.po | 
+ | [ru](/f36/language/ru) | 4343 | 4376 | 99.2 | /mnt/stockage/packages/f36/qalculate-gtk/po/ru.po | 
+ | [ca](/f36/language/ca) | 4342 | 4376 | 99.2 | /mnt/stockage/packages/f36/qalculate-gtk/po/ca.po | 
+ | [sv](/f36/language/sv) | 4289 | 4376 | 98.0 | /mnt/stockage/packages/f36/qalculate-gtk/po/sv.po | 
+ | [zh_Hans](/f36/language/zh_Hans) | 4285 | 4376 | 97.9 | /mnt/stockage/packages/f36/qalculate-gtk/po/zh_CN.po | 
+ | [pt_BR](/f36/language/pt_BR) | 4083 | 4376 | 93.3 | /mnt/stockage/packages/f36/qalculate-gtk/po/pt_BR.po | 
+ | [sl](/f36/language/sl) | 4058 | 4376 | 92.7 | /mnt/stockage/packages/f36/qalculate-gtk/po/sl.po | 
+ | [fr](/f36/language/fr) | 3460 | 4376 | 79.1 | /mnt/stockage/packages/f36/qalculate-gtk/po/fr.po | 
+ | [nl](/f36/language/nl) | 2166 | 4376 | 49.5 | /mnt/stockage/packages/f36/qalculate-gtk/po/nl.po | 
 {.sortable}
 
 

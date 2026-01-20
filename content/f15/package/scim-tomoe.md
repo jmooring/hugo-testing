@@ -18,7 +18,7 @@ The package scim-tomoe (version 0.6.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ja]({{< ref "/f15/language/ja.md" >}}) | 53 | 53 | 100.0 | /mnt/stockage/packages/f15/scim-tomoe/po/ja.po | 
+ | [ja](/f15/language/ja) | 53 | 53 | 100.0 | /mnt/stockage/packages/f15/scim-tomoe/po/ja.po | 
 {.sortable}
 
 

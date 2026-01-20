@@ -18,17 +18,17 @@ The package termit (version 2.9.6):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [da]({{< ref "/f28/language/da.md" >}}) | 50 | 50 | 100.0 | /mnt/stockage/packages/f28/termit/po/da.po | 
- | [de]({{< ref "/f28/language/de.md" >}}) | 50 | 50 | 100.0 | /mnt/stockage/packages/f28/termit/po/de.po | 
- | [es]({{< ref "/f28/language/es.md" >}}) | 50 | 50 | 100.0 | /mnt/stockage/packages/f28/termit/po/es.po | 
- | [hu]({{< ref "/f28/language/hu.md" >}}) | 50 | 50 | 100.0 | /mnt/stockage/packages/f28/termit/po/hu.po | 
- | [ja]({{< ref "/f28/language/ja.md" >}}) | 50 | 50 | 100.0 | /mnt/stockage/packages/f28/termit/po/ja.po | 
- | [pl]({{< ref "/f28/language/pl.md" >}}) | 50 | 50 | 100.0 | /mnt/stockage/packages/f28/termit/po/pl.po | 
- | [sv]({{< ref "/f28/language/sv.md" >}}) | 44 | 50 | 88.0 | /mnt/stockage/packages/f28/termit/po/sv.po | 
- | [ko]({{< ref "/f28/language/ko.md" >}}) | 37 | 50 | 74.0 | /mnt/stockage/packages/f28/termit/po/ko.po | 
- | [ru]({{< ref "/f28/language/ru.md" >}}) | 30 | 50 | 60.0 | /mnt/stockage/packages/f28/termit/po/ru.po | 
- | [fr]({{< ref "/f28/language/fr.md" >}}) | 29 | 50 | 58.0 | /mnt/stockage/packages/f28/termit/po/fr.po | 
- | [zh_Hant]({{< ref "/f28/language/zh_Hant.md" >}}) | 29 | 50 | 58.0 | /mnt/stockage/packages/f28/termit/po/zh_TW.po | 
+ | [da](/f28/language/da) | 50 | 50 | 100.0 | /mnt/stockage/packages/f28/termit/po/da.po | 
+ | [de](/f28/language/de) | 50 | 50 | 100.0 | /mnt/stockage/packages/f28/termit/po/de.po | 
+ | [es](/f28/language/es) | 50 | 50 | 100.0 | /mnt/stockage/packages/f28/termit/po/es.po | 
+ | [hu](/f28/language/hu) | 50 | 50 | 100.0 | /mnt/stockage/packages/f28/termit/po/hu.po | 
+ | [ja](/f28/language/ja) | 50 | 50 | 100.0 | /mnt/stockage/packages/f28/termit/po/ja.po | 
+ | [pl](/f28/language/pl) | 50 | 50 | 100.0 | /mnt/stockage/packages/f28/termit/po/pl.po | 
+ | [sv](/f28/language/sv) | 44 | 50 | 88.0 | /mnt/stockage/packages/f28/termit/po/sv.po | 
+ | [ko](/f28/language/ko) | 37 | 50 | 74.0 | /mnt/stockage/packages/f28/termit/po/ko.po | 
+ | [ru](/f28/language/ru) | 30 | 50 | 60.0 | /mnt/stockage/packages/f28/termit/po/ru.po | 
+ | [fr](/f28/language/fr) | 29 | 50 | 58.0 | /mnt/stockage/packages/f28/termit/po/fr.po | 
+ | [zh_Hant](/f28/language/zh_Hant) | 29 | 50 | 58.0 | /mnt/stockage/packages/f28/termit/po/zh_TW.po | 
 {.sortable}
 
 

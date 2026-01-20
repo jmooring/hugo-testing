@@ -18,11 +18,11 @@ The package hydrogen (version 0.9.7):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [es]({{< ref "/f25/language/es.md" >}}) | 7628 | 7648 | 99.7 | /mnt/stockage/packages/f25/hydrogen/data/doc/manual_es.po | 
- | [ca]({{< ref "/f25/language/ca.md" >}}) | 7597 | 7630 | 99.6 | /mnt/stockage/packages/f25/hydrogen/data/doc/manual_ca.po | 
- | [fr]({{< ref "/f25/language/fr.md" >}}) | 6502 | 6563 | 99.1 | /mnt/stockage/packages/f25/hydrogen/data/doc/manual_fr.po/mnt/stockage/packages/f25/hydrogen/data/doc/tutorial_fr.po | 
- | [it]({{< ref "/f25/language/it.md" >}}) | 2471 | 9921 | 24.9 | /mnt/stockage/packages/f25/hydrogen/data/doc/manual_it.po/mnt/stockage/packages/f25/hydrogen/data/doc/tutorial_it.po | 
- | [nl]({{< ref "/f25/language/nl.md" >}}) | 381 | 7769 | 4.9 | /mnt/stockage/packages/f25/hydrogen/data/doc/manual_nl.po | 
+ | [es](/f25/language/es) | 7628 | 7648 | 99.7 | /mnt/stockage/packages/f25/hydrogen/data/doc/manual_es.po | 
+ | [ca](/f25/language/ca) | 7597 | 7630 | 99.6 | /mnt/stockage/packages/f25/hydrogen/data/doc/manual_ca.po | 
+ | [fr](/f25/language/fr) | 6502 | 6563 | 99.1 | /mnt/stockage/packages/f25/hydrogen/data/doc/manual_fr.po/mnt/stockage/packages/f25/hydrogen/data/doc/tutorial_fr.po | 
+ | [it](/f25/language/it) | 2471 | 9921 | 24.9 | /mnt/stockage/packages/f25/hydrogen/data/doc/manual_it.po/mnt/stockage/packages/f25/hydrogen/data/doc/tutorial_it.po | 
+ | [nl](/f25/language/nl) | 381 | 7769 | 4.9 | /mnt/stockage/packages/f25/hydrogen/data/doc/manual_nl.po | 
 {.sortable}
 
 

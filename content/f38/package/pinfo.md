@@ -18,17 +18,17 @@ The package pinfo (version 0.6.13):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [nl]({{< ref "/f38/language/nl.md" >}}) | 350 | 350 | 100.0 | /mnt/stockage/packages/f38/pinfo/po/nl.po | 
- | [cs]({{< ref "/f38/language/cs.md" >}}) | 315 | 350 | 90.0 | /mnt/stockage/packages/f38/pinfo/po/cs.po | 
- | [pt_BR]({{< ref "/f38/language/pt_BR.md" >}}) | 315 | 350 | 90.0 | /mnt/stockage/packages/f38/pinfo/po/pt_BR.po | 
- | [ro]({{< ref "/f38/language/ro.md" >}}) | 315 | 350 | 90.0 | /mnt/stockage/packages/f38/pinfo/po/ro.po | 
- | [ru]({{< ref "/f38/language/ru.md" >}}) | 315 | 350 | 90.0 | /mnt/stockage/packages/f38/pinfo/po/ru.po | 
- | [vi]({{< ref "/f38/language/vi.md" >}}) | 315 | 350 | 90.0 | /mnt/stockage/packages/f38/pinfo/po/vi.po | 
- | [eu]({{< ref "/f38/language/eu.md" >}}) | 311 | 350 | 88.9 | /mnt/stockage/packages/f38/pinfo/po/eu.po | 
- | [pl]({{< ref "/f38/language/pl.md" >}}) | 307 | 350 | 87.7 | /mnt/stockage/packages/f38/pinfo/po/pl.po | 
- | [de]({{< ref "/f38/language/de.md" >}}) | 203 | 350 | 58.0 | /mnt/stockage/packages/f38/pinfo/po/de.po | 
- | [ja]({{< ref "/f38/language/ja.md" >}}) | 169 | 350 | 48.3 | /mnt/stockage/packages/f38/pinfo/po/ja.po | 
- | [sv]({{< ref "/f38/language/sv.md" >}}) | 83 | 350 | 23.7 | /mnt/stockage/packages/f38/pinfo/po/sv.po | 
+ | [nl](/f38/language/nl) | 350 | 350 | 100.0 | /mnt/stockage/packages/f38/pinfo/po/nl.po | 
+ | [cs](/f38/language/cs) | 315 | 350 | 90.0 | /mnt/stockage/packages/f38/pinfo/po/cs.po | 
+ | [pt_BR](/f38/language/pt_BR) | 315 | 350 | 90.0 | /mnt/stockage/packages/f38/pinfo/po/pt_BR.po | 
+ | [ro](/f38/language/ro) | 315 | 350 | 90.0 | /mnt/stockage/packages/f38/pinfo/po/ro.po | 
+ | [ru](/f38/language/ru) | 315 | 350 | 90.0 | /mnt/stockage/packages/f38/pinfo/po/ru.po | 
+ | [vi](/f38/language/vi) | 315 | 350 | 90.0 | /mnt/stockage/packages/f38/pinfo/po/vi.po | 
+ | [eu](/f38/language/eu) | 311 | 350 | 88.9 | /mnt/stockage/packages/f38/pinfo/po/eu.po | 
+ | [pl](/f38/language/pl) | 307 | 350 | 87.7 | /mnt/stockage/packages/f38/pinfo/po/pl.po | 
+ | [de](/f38/language/de) | 203 | 350 | 58.0 | /mnt/stockage/packages/f38/pinfo/po/de.po | 
+ | [ja](/f38/language/ja) | 169 | 350 | 48.3 | /mnt/stockage/packages/f38/pinfo/po/ja.po | 
+ | [sv](/f38/language/sv) | 83 | 350 | 23.7 | /mnt/stockage/packages/f38/pinfo/po/sv.po | 
 {.sortable}
 
 

@@ -18,9 +18,9 @@ The package solaar (version 0.9.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [en]({{< ref "/f21/language/en.md" >}}) | 140 | 140 | 100.0 | /mnt/stockage/packages/f21/solaar/packaging/debian/po/en.po | 
- | [pl]({{< ref "/f21/language/pl.md" >}}) | 398 | 411 | 96.8 | /mnt/stockage/packages/f21/solaar/po/pl.po | 
- | [ro]({{< ref "/f21/language/ro.md" >}}) | 375 | 411 | 91.2 | /mnt/stockage/packages/f21/solaar/po/ro.po | 
+ | [en](/f21/language/en) | 140 | 140 | 100.0 | /mnt/stockage/packages/f21/solaar/packaging/debian/po/en.po | 
+ | [pl](/f21/language/pl) | 398 | 411 | 96.8 | /mnt/stockage/packages/f21/solaar/po/pl.po | 
+ | [ro](/f21/language/ro) | 375 | 411 | 91.2 | /mnt/stockage/packages/f21/solaar/po/ro.po | 
 {.sortable}
 
 

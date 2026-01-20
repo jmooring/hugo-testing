@@ -18,16 +18,16 @@ The package d-feet (version 0.3.7):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f20/language/cs.md" >}}) | 80 | 80 | 100.0 | /mnt/stockage/packages/f20/d-feet/po/cs.po | 
- | [de]({{< ref "/f20/language/de.md" >}}) | 86 | 86 | 100.0 | /mnt/stockage/packages/f20/d-feet/po/de.po | 
- | [el]({{< ref "/f20/language/el.md" >}}) | 86 | 86 | 100.0 | /mnt/stockage/packages/f20/d-feet/po/el.po | 
- | [en]({{< ref "/f20/language/en.md" >}}) | 80 | 80 | 100.0 | /mnt/stockage/packages/f20/d-feet/po/gl.po | 
- | [es]({{< ref "/f20/language/es.md" >}}) | 80 | 80 | 100.0 | /mnt/stockage/packages/f20/d-feet/po/es.po | 
- | [hu]({{< ref "/f20/language/hu.md" >}}) | 80 | 80 | 100.0 | /mnt/stockage/packages/f20/d-feet/po/hu.po | 
- | [pl]({{< ref "/f20/language/pl.md" >}}) | 80 | 80 | 100.0 | /mnt/stockage/packages/f20/d-feet/po/pl.po | 
- | [pt_BR]({{< ref "/f20/language/pt_BR.md" >}}) | 80 | 80 | 100.0 | /mnt/stockage/packages/f20/d-feet/po/pt_BR.po | 
- | [sl]({{< ref "/f20/language/sl.md" >}}) | 80 | 80 | 100.0 | /mnt/stockage/packages/f20/d-feet/po/sl.po | 
- | [zh_Hans]({{< ref "/f20/language/zh_Hans.md" >}}) | 84 | 86 | 97.7 | /mnt/stockage/packages/f20/d-feet/po/zh_CN.po | 
+ | [cs](/f20/language/cs) | 80 | 80 | 100.0 | /mnt/stockage/packages/f20/d-feet/po/cs.po | 
+ | [de](/f20/language/de) | 86 | 86 | 100.0 | /mnt/stockage/packages/f20/d-feet/po/de.po | 
+ | [el](/f20/language/el) | 86 | 86 | 100.0 | /mnt/stockage/packages/f20/d-feet/po/el.po | 
+ | [en](/f20/language/en) | 80 | 80 | 100.0 | /mnt/stockage/packages/f20/d-feet/po/gl.po | 
+ | [es](/f20/language/es) | 80 | 80 | 100.0 | /mnt/stockage/packages/f20/d-feet/po/es.po | 
+ | [hu](/f20/language/hu) | 80 | 80 | 100.0 | /mnt/stockage/packages/f20/d-feet/po/hu.po | 
+ | [pl](/f20/language/pl) | 80 | 80 | 100.0 | /mnt/stockage/packages/f20/d-feet/po/pl.po | 
+ | [pt_BR](/f20/language/pt_BR) | 80 | 80 | 100.0 | /mnt/stockage/packages/f20/d-feet/po/pt_BR.po | 
+ | [sl](/f20/language/sl) | 80 | 80 | 100.0 | /mnt/stockage/packages/f20/d-feet/po/sl.po | 
+ | [zh_Hans](/f20/language/zh_Hans) | 84 | 86 | 97.7 | /mnt/stockage/packages/f20/d-feet/po/zh_CN.po | 
 {.sortable}
 
 

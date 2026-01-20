@@ -18,20 +18,20 @@ The package kio_mtp (version 0.75):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f39/language/ca.md" >}}) | 17 | 17 | 100.0 | /mnt/stockage/packages/f39/kio_mtp/po/ca/kio_mtp.po | 
- | [de]({{< ref "/f39/language/de.md" >}}) | 17 | 17 | 100.0 | /mnt/stockage/packages/f39/kio_mtp/po/de/kio_mtp.po | 
- | [es]({{< ref "/f39/language/es.md" >}}) | 17 | 17 | 100.0 | /mnt/stockage/packages/f39/kio_mtp/po/es/kio_mtp.po | 
- | [fi]({{< ref "/f39/language/fi.md" >}}) | 17 | 17 | 100.0 | /mnt/stockage/packages/f39/kio_mtp/po/fi/kio_mtp.po | 
- | [hu]({{< ref "/f39/language/hu.md" >}}) | 17 | 17 | 100.0 | /mnt/stockage/packages/f39/kio_mtp/po/hu/kio_mtp.po | 
- | [it]({{< ref "/f39/language/it.md" >}}) | 17 | 17 | 100.0 | /mnt/stockage/packages/f39/kio_mtp/po/it/kio_mtp.po | 
- | [ko]({{< ref "/f39/language/ko.md" >}}) | 17 | 17 | 100.0 | /mnt/stockage/packages/f39/kio_mtp/po/ko/kio_mtp.po | 
- | [nl]({{< ref "/f39/language/nl.md" >}}) | 17 | 17 | 100.0 | /mnt/stockage/packages/f39/kio_mtp/po/nl/kio_mtp.po | 
- | [pl]({{< ref "/f39/language/pl.md" >}}) | 17 | 17 | 100.0 | /mnt/stockage/packages/f39/kio_mtp/po/pl/kio_mtp.po | 
- | [pt]({{< ref "/f39/language/pt.md" >}}) | 17 | 17 | 100.0 | /mnt/stockage/packages/f39/kio_mtp/po/pt/kio_mtp.po | 
- | [pt_BR]({{< ref "/f39/language/pt_BR.md" >}}) | 17 | 17 | 100.0 | /mnt/stockage/packages/f39/kio_mtp/po/pt_BR/kio_mtp.po | 
- | [sk]({{< ref "/f39/language/sk.md" >}}) | 17 | 17 | 100.0 | /mnt/stockage/packages/f39/kio_mtp/po/sk/kio_mtp.po | 
- | [sv]({{< ref "/f39/language/sv.md" >}}) | 17 | 17 | 100.0 | /mnt/stockage/packages/f39/kio_mtp/po/sv/kio_mtp.po | 
- | [uk]({{< ref "/f39/language/uk.md" >}}) | 17 | 17 | 100.0 | /mnt/stockage/packages/f39/kio_mtp/po/uk/kio_mtp.po | 
+ | [ca](/f39/language/ca) | 17 | 17 | 100.0 | /mnt/stockage/packages/f39/kio_mtp/po/ca/kio_mtp.po | 
+ | [de](/f39/language/de) | 17 | 17 | 100.0 | /mnt/stockage/packages/f39/kio_mtp/po/de/kio_mtp.po | 
+ | [es](/f39/language/es) | 17 | 17 | 100.0 | /mnt/stockage/packages/f39/kio_mtp/po/es/kio_mtp.po | 
+ | [fi](/f39/language/fi) | 17 | 17 | 100.0 | /mnt/stockage/packages/f39/kio_mtp/po/fi/kio_mtp.po | 
+ | [hu](/f39/language/hu) | 17 | 17 | 100.0 | /mnt/stockage/packages/f39/kio_mtp/po/hu/kio_mtp.po | 
+ | [it](/f39/language/it) | 17 | 17 | 100.0 | /mnt/stockage/packages/f39/kio_mtp/po/it/kio_mtp.po | 
+ | [ko](/f39/language/ko) | 17 | 17 | 100.0 | /mnt/stockage/packages/f39/kio_mtp/po/ko/kio_mtp.po | 
+ | [nl](/f39/language/nl) | 17 | 17 | 100.0 | /mnt/stockage/packages/f39/kio_mtp/po/nl/kio_mtp.po | 
+ | [pl](/f39/language/pl) | 17 | 17 | 100.0 | /mnt/stockage/packages/f39/kio_mtp/po/pl/kio_mtp.po | 
+ | [pt](/f39/language/pt) | 17 | 17 | 100.0 | /mnt/stockage/packages/f39/kio_mtp/po/pt/kio_mtp.po | 
+ | [pt_BR](/f39/language/pt_BR) | 17 | 17 | 100.0 | /mnt/stockage/packages/f39/kio_mtp/po/pt_BR/kio_mtp.po | 
+ | [sk](/f39/language/sk) | 17 | 17 | 100.0 | /mnt/stockage/packages/f39/kio_mtp/po/sk/kio_mtp.po | 
+ | [sv](/f39/language/sv) | 17 | 17 | 100.0 | /mnt/stockage/packages/f39/kio_mtp/po/sv/kio_mtp.po | 
+ | [uk](/f39/language/uk) | 17 | 17 | 100.0 | /mnt/stockage/packages/f39/kio_mtp/po/uk/kio_mtp.po | 
 {.sortable}
 
 

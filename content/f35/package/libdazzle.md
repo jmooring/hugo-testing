@@ -18,8 +18,8 @@ The package libdazzle (version 3.42.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f35/language/de.md" >}}) | 173 | 173 | 100.0 | /mnt/stockage/packages/f35/libdazzle/po/de.po | 
- | [zh_Hans]({{< ref "/f35/language/zh_Hans.md" >}}) | 164 | 173 | 94.8 | /mnt/stockage/packages/f35/libdazzle/po/zh_CN.po | 
+ | [de](/f35/language/de) | 173 | 173 | 100.0 | /mnt/stockage/packages/f35/libdazzle/po/de.po | 
+ | [zh_Hans](/f35/language/zh_Hans) | 164 | 173 | 94.8 | /mnt/stockage/packages/f35/libdazzle/po/zh_CN.po | 
 {.sortable}
 
 

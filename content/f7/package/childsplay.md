@@ -18,22 +18,22 @@ The package childsplay (version 0.85.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f7/language/ca.md" >}}) | 1026 | 1026 | 100.0 | /mnt/stockage/packages/f7/childsplay/assetml/childsplay/memory-136x136/po/ca.po/mnt/stockage/packages/f7/childsplay/doc/po/ca/childsplay.po | 
- | [it]({{< ref "/f7/language/it.md" >}}) | 1014 | 1014 | 100.0 | /mnt/stockage/packages/f7/childsplay/doc/po/it/childsplay.po | 
- | [nb_NO]({{< ref "/f7/language/nb_NO.md" >}}) | 1014 | 1014 | 100.0 | /mnt/stockage/packages/f7/childsplay/doc/po/no/childsplay.po | 
- | [nl]({{< ref "/f7/language/nl.md" >}}) | 1026 | 1026 | 100.0 | /mnt/stockage/packages/f7/childsplay/assetml/childsplay/memory-136x136/po/nl.po/mnt/stockage/packages/f7/childsplay/doc/po/nl/childsplay.po | 
- | [pt]({{< ref "/f7/language/pt.md" >}}) | 1014 | 1014 | 100.0 | /mnt/stockage/packages/f7/childsplay/doc/po/pt/childsplay.po | 
- | [ru]({{< ref "/f7/language/ru.md" >}}) | 12 | 12 | 100.0 | /mnt/stockage/packages/f7/childsplay/assetml/childsplay/memory-136x136/po/ru.po | 
- | [sl]({{< ref "/f7/language/sl.md" >}}) | 1026 | 1026 | 100.0 | /mnt/stockage/packages/f7/childsplay/assetml/childsplay/memory-136x136/po/sl.po/mnt/stockage/packages/f7/childsplay/doc/po/sl/childsplay.po | 
- | [sv]({{< ref "/f7/language/sv.md" >}}) | 863 | 1026 | 84.1 | /mnt/stockage/packages/f7/childsplay/assetml/childsplay/memory-136x136/po/sv.po/mnt/stockage/packages/f7/childsplay/doc/po/sv/childsplay.po | 
- | [de]({{< ref "/f7/language/de.md" >}}) | 853 | 1026 | 83.1 | /mnt/stockage/packages/f7/childsplay/assetml/childsplay/memory-136x136/po/de.po/mnt/stockage/packages/f7/childsplay/doc/po/de/childsplay.po | 
- | [ar]({{< ref "/f7/language/ar.md" >}}) | 758 | 1026 | 73.9 | /mnt/stockage/packages/f7/childsplay/assetml/childsplay/memory-136x136/po/ar.po/mnt/stockage/packages/f7/childsplay/doc/po/ar/childsplay.po | 
- | [es]({{< ref "/f7/language/es.md" >}}) | 758 | 1026 | 73.9 | /mnt/stockage/packages/f7/childsplay/assetml/childsplay/memory-136x136/po/es.po/mnt/stockage/packages/f7/childsplay/doc/po/es/childsplay.po | 
- | [id]({{< ref "/f7/language/id.md" >}}) | 758 | 1026 | 73.9 | /mnt/stockage/packages/f7/childsplay/assetml/childsplay/memory-136x136/po/id.po/mnt/stockage/packages/f7/childsplay/doc/po/id/childsplay.po | 
- | [fr]({{< ref "/f7/language/fr.md" >}}) | 731 | 1014 | 72.1 | /mnt/stockage/packages/f7/childsplay/assetml/childsplay/memory-136x136/po/fr.po/mnt/stockage/packages/f7/childsplay/doc/po/fr/childsplay.po | 
- | [he]({{< ref "/f7/language/he.md" >}}) | 688 | 1026 | 67.1 | /mnt/stockage/packages/f7/childsplay/assetml/childsplay/memory-136x136/po/he.po/mnt/stockage/packages/f7/childsplay/doc/po/he/childsplay.po | 
- | [da]({{< ref "/f7/language/da.md" >}}) | 531 | 1014 | 52.4 | /mnt/stockage/packages/f7/childsplay/doc/po/da/childsplay.po | 
- | [tr]({{< ref "/f7/language/tr.md" >}}) | 474 | 1014 | 46.7 | /mnt/stockage/packages/f7/childsplay/doc/po/tr/childsplay.po | 
+ | [ca](/f7/language/ca) | 1026 | 1026 | 100.0 | /mnt/stockage/packages/f7/childsplay/assetml/childsplay/memory-136x136/po/ca.po/mnt/stockage/packages/f7/childsplay/doc/po/ca/childsplay.po | 
+ | [it](/f7/language/it) | 1014 | 1014 | 100.0 | /mnt/stockage/packages/f7/childsplay/doc/po/it/childsplay.po | 
+ | [nb_NO](/f7/language/nb_NO) | 1014 | 1014 | 100.0 | /mnt/stockage/packages/f7/childsplay/doc/po/no/childsplay.po | 
+ | [nl](/f7/language/nl) | 1026 | 1026 | 100.0 | /mnt/stockage/packages/f7/childsplay/assetml/childsplay/memory-136x136/po/nl.po/mnt/stockage/packages/f7/childsplay/doc/po/nl/childsplay.po | 
+ | [pt](/f7/language/pt) | 1014 | 1014 | 100.0 | /mnt/stockage/packages/f7/childsplay/doc/po/pt/childsplay.po | 
+ | [ru](/f7/language/ru) | 12 | 12 | 100.0 | /mnt/stockage/packages/f7/childsplay/assetml/childsplay/memory-136x136/po/ru.po | 
+ | [sl](/f7/language/sl) | 1026 | 1026 | 100.0 | /mnt/stockage/packages/f7/childsplay/assetml/childsplay/memory-136x136/po/sl.po/mnt/stockage/packages/f7/childsplay/doc/po/sl/childsplay.po | 
+ | [sv](/f7/language/sv) | 863 | 1026 | 84.1 | /mnt/stockage/packages/f7/childsplay/assetml/childsplay/memory-136x136/po/sv.po/mnt/stockage/packages/f7/childsplay/doc/po/sv/childsplay.po | 
+ | [de](/f7/language/de) | 853 | 1026 | 83.1 | /mnt/stockage/packages/f7/childsplay/assetml/childsplay/memory-136x136/po/de.po/mnt/stockage/packages/f7/childsplay/doc/po/de/childsplay.po | 
+ | [ar](/f7/language/ar) | 758 | 1026 | 73.9 | /mnt/stockage/packages/f7/childsplay/assetml/childsplay/memory-136x136/po/ar.po/mnt/stockage/packages/f7/childsplay/doc/po/ar/childsplay.po | 
+ | [es](/f7/language/es) | 758 | 1026 | 73.9 | /mnt/stockage/packages/f7/childsplay/assetml/childsplay/memory-136x136/po/es.po/mnt/stockage/packages/f7/childsplay/doc/po/es/childsplay.po | 
+ | [id](/f7/language/id) | 758 | 1026 | 73.9 | /mnt/stockage/packages/f7/childsplay/assetml/childsplay/memory-136x136/po/id.po/mnt/stockage/packages/f7/childsplay/doc/po/id/childsplay.po | 
+ | [fr](/f7/language/fr) | 731 | 1014 | 72.1 | /mnt/stockage/packages/f7/childsplay/assetml/childsplay/memory-136x136/po/fr.po/mnt/stockage/packages/f7/childsplay/doc/po/fr/childsplay.po | 
+ | [he](/f7/language/he) | 688 | 1026 | 67.1 | /mnt/stockage/packages/f7/childsplay/assetml/childsplay/memory-136x136/po/he.po/mnt/stockage/packages/f7/childsplay/doc/po/he/childsplay.po | 
+ | [da](/f7/language/da) | 531 | 1014 | 52.4 | /mnt/stockage/packages/f7/childsplay/doc/po/da/childsplay.po | 
+ | [tr](/f7/language/tr) | 474 | 1014 | 46.7 | /mnt/stockage/packages/f7/childsplay/doc/po/tr/childsplay.po | 
 {.sortable}
 
 

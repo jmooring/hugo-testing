@@ -18,13 +18,13 @@ The package plasma-wallpapers-dynamic (version 4.4.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [pl]({{< ref "/f36/language/pl.md" >}}) | 75 | 75 | 100.0 | /mnt/stockage/packages/f36/plasma-wallpapers-dynamic/src/translations/po/pl.po | 
- | [uk]({{< ref "/f36/language/uk.md" >}}) | 75 | 75 | 100.0 | /mnt/stockage/packages/f36/plasma-wallpapers-dynamic/src/translations/po/uk.po | 
- | [zh_Hans]({{< ref "/f36/language/zh_Hans.md" >}}) | 51 | 75 | 68.0 | /mnt/stockage/packages/f36/plasma-wallpapers-dynamic/src/translations/po/zh.po | 
- | [de]({{< ref "/f36/language/de.md" >}}) | 45 | 75 | 60.0 | /mnt/stockage/packages/f36/plasma-wallpapers-dynamic/src/translations/po/de.po | 
- | [ru]({{< ref "/f36/language/ru.md" >}}) | 36 | 75 | 48.0 | /mnt/stockage/packages/f36/plasma-wallpapers-dynamic/src/translations/po/ru.po | 
- | [pt]({{< ref "/f36/language/pt.md" >}}) | 34 | 75 | 45.3 | /mnt/stockage/packages/f36/plasma-wallpapers-dynamic/src/translations/po/pt.po | 
- | [it]({{< ref "/f36/language/it.md" >}}) | 31 | 75 | 41.3 | /mnt/stockage/packages/f36/plasma-wallpapers-dynamic/src/translations/po/it.po | 
+ | [pl](/f36/language/pl) | 75 | 75 | 100.0 | /mnt/stockage/packages/f36/plasma-wallpapers-dynamic/src/translations/po/pl.po | 
+ | [uk](/f36/language/uk) | 75 | 75 | 100.0 | /mnt/stockage/packages/f36/plasma-wallpapers-dynamic/src/translations/po/uk.po | 
+ | [zh_Hans](/f36/language/zh_Hans) | 51 | 75 | 68.0 | /mnt/stockage/packages/f36/plasma-wallpapers-dynamic/src/translations/po/zh.po | 
+ | [de](/f36/language/de) | 45 | 75 | 60.0 | /mnt/stockage/packages/f36/plasma-wallpapers-dynamic/src/translations/po/de.po | 
+ | [ru](/f36/language/ru) | 36 | 75 | 48.0 | /mnt/stockage/packages/f36/plasma-wallpapers-dynamic/src/translations/po/ru.po | 
+ | [pt](/f36/language/pt) | 34 | 75 | 45.3 | /mnt/stockage/packages/f36/plasma-wallpapers-dynamic/src/translations/po/pt.po | 
+ | [it](/f36/language/it) | 31 | 75 | 41.3 | /mnt/stockage/packages/f36/plasma-wallpapers-dynamic/src/translations/po/it.po | 
 {.sortable}
 
 

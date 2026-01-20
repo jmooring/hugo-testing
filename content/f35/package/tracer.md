@@ -18,7 +18,7 @@ The package tracer (version 0.7.8):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f35/language/cs.md" >}}) | 177 | 182 | 97.3 | /mnt/stockage/packages/f35/tracer/po/cs.po | 
+ | [cs](/f35/language/cs) | 177 | 182 | 97.3 | /mnt/stockage/packages/f35/tracer/po/cs.po | 
 {.sortable}
 
 

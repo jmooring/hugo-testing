@@ -18,12 +18,12 @@ The package fish (version 2.3.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [en]({{< ref "/f23/language/en.md" >}}) | 9612 | 11144 | 86.3 | /mnt/stockage/packages/f23/fish/po/en.po | 
- | [sv]({{< ref "/f23/language/sv.md" >}}) | 5105 | 11144 | 45.8 | /mnt/stockage/packages/f23/fish/po/sv.po | 
- | [zh_Hans]({{< ref "/f23/language/zh_Hans.md" >}}) | 4775 | 11144 | 42.8 | /mnt/stockage/packages/f23/fish/po/zh_CN.po | 
- | [de]({{< ref "/f23/language/de.md" >}}) | 3707 | 11144 | 33.3 | /mnt/stockage/packages/f23/fish/po/de.po | 
- | [pt_BR]({{< ref "/f23/language/pt_BR.md" >}}) | 2756 | 11144 | 24.7 | /mnt/stockage/packages/f23/fish/po/pt_BR.po | 
- | [fr]({{< ref "/f23/language/fr.md" >}}) | 2204 | 11144 | 19.8 | /mnt/stockage/packages/f23/fish/po/fr.po | 
+ | [en](/f23/language/en) | 9612 | 11144 | 86.3 | /mnt/stockage/packages/f23/fish/po/en.po | 
+ | [sv](/f23/language/sv) | 5105 | 11144 | 45.8 | /mnt/stockage/packages/f23/fish/po/sv.po | 
+ | [zh_Hans](/f23/language/zh_Hans) | 4775 | 11144 | 42.8 | /mnt/stockage/packages/f23/fish/po/zh_CN.po | 
+ | [de](/f23/language/de) | 3707 | 11144 | 33.3 | /mnt/stockage/packages/f23/fish/po/de.po | 
+ | [pt_BR](/f23/language/pt_BR) | 2756 | 11144 | 24.7 | /mnt/stockage/packages/f23/fish/po/pt_BR.po | 
+ | [fr](/f23/language/fr) | 2204 | 11144 | 19.8 | /mnt/stockage/packages/f23/fish/po/fr.po | 
 {.sortable}
 
 

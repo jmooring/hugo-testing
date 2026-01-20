@@ -39,11 +39,11 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [terminator]({{< ref "/f11/package/terminator.md" >}}) | 269 | 269 | 100.0 | Javanese <jv@li.org> | 
- | [avant-window-navigator]({{< ref "/f11/package/avant-window-navigator.md" >}}) | 26 | 593 | 4.4 | Javanese <jv@li.org> | 
- | [backintime]({{< ref "/f11/package/backintime.md" >}}) | 15 | 441 | 3.4 | Javanese <jv@li.org> | 
- | [gmpc]({{< ref "/f11/package/gmpc.md" >}}) | 37 | 1116 | 3.3 | Javanese <jv@li.org> | 
- | [deluge]({{< ref "/f11/package/deluge.md" >}}) | 11 | 1998 | 0.6 | Javanese <jv@li.org> | 
+ | [terminator](/f11/package/terminator) | 269 | 269 | 100.0 | Javanese <jv@li.org> | 
+ | [avant-window-navigator](/f11/package/avant-window-navigator) | 26 | 593 | 4.4 | Javanese <jv@li.org> | 
+ | [backintime](/f11/package/backintime) | 15 | 441 | 3.4 | Javanese <jv@li.org> | 
+ | [gmpc](/f11/package/gmpc) | 37 | 1116 | 3.3 | Javanese <jv@li.org> | 
+ | [deluge](/f11/package/deluge) | 11 | 1998 | 0.6 | Javanese <jv@li.org> | 
 {.sortable}
 
 

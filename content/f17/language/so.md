@@ -43,10 +43,10 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [cinnamon]({{< ref "/f17/package/cinnamon.md" >}}) | 956 | 1696 | 56.4 | Somali <so@li.org> | 
- | [gcompris]({{< ref "/f17/package/gcompris.md" >}}) | 2167 | 9603 | 22.6 | Somali <mimursal@mimfi-tech.com> | 
- | [iso-codes]({{< ref "/f17/package/iso-codes.md" >}}) | 125 | 1097 | 11.4 | Somali | 
- | [vidalia]({{< ref "/f17/package/vidalia.md" >}}) | 0 | 10377 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [cinnamon](/f17/package/cinnamon) | 956 | 1696 | 56.4 | Somali <so@li.org> | 
+ | [gcompris](/f17/package/gcompris) | 2167 | 9603 | 22.6 | Somali <mimursal@mimfi-tech.com> | 
+ | [iso-codes](/f17/package/iso-codes) | 125 | 1097 | 11.4 | Somali | 
+ | [vidalia](/f17/package/vidalia) | 0 | 10377 | 0.0 | LANGUAGE <LL@li.org> | 
 {.sortable}
 
 

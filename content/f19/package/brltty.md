@@ -18,8 +18,8 @@ The package brltty (version 4.5):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f19/language/fr.md" >}}) | 2178 | 2178 | 100.0 | /mnt/stockage/packages/f19/brltty/Messages/fr.po | 
- | [de]({{< ref "/f19/language/de.md" >}}) | 2054 | 2178 | 94.3 | /mnt/stockage/packages/f19/brltty/Messages/de.po | 
+ | [fr](/f19/language/fr) | 2178 | 2178 | 100.0 | /mnt/stockage/packages/f19/brltty/Messages/fr.po | 
+ | [de](/f19/language/de) | 2054 | 2178 | 94.3 | /mnt/stockage/packages/f19/brltty/Messages/de.po | 
 {.sortable}
 
 

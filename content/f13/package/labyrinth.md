@@ -18,19 +18,19 @@ The package labyrinth (version 0.4.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f13/language/ca.md" >}}) | 146 | 146 | 100.0 | /mnt/stockage/packages/f13/labyrinth/po/ca.po | 
- | [cs]({{< ref "/f13/language/cs.md" >}}) | 146 | 146 | 100.0 | /mnt/stockage/packages/f13/labyrinth/po/cs.po | 
- | [de]({{< ref "/f13/language/de.md" >}}) | 188 | 188 | 100.0 | /mnt/stockage/packages/f13/labyrinth/po/de.po | 
- | [eu]({{< ref "/f13/language/eu.md" >}}) | 146 | 146 | 100.0 | /mnt/stockage/packages/f13/labyrinth/po/eu.po | 
- | [fa]({{< ref "/f13/language/fa.md" >}}) | 146 | 146 | 100.0 | /mnt/stockage/packages/f13/labyrinth/po/fa.po | 
- | [it]({{< ref "/f13/language/it.md" >}}) | 146 | 146 | 100.0 | /mnt/stockage/packages/f13/labyrinth/po/it.po | 
- | [pt_PT]({{< ref "/f13/language/pt_PT.md" >}}) | 146 | 146 | 100.0 | /mnt/stockage/packages/f13/labyrinth/po/pt_PT.po | 
- | [ru]({{< ref "/f13/language/ru.md" >}}) | 146 | 146 | 100.0 | /mnt/stockage/packages/f13/labyrinth/po/ru.po | 
- | [sv]({{< ref "/f13/language/sv.md" >}}) | 146 | 146 | 100.0 | /mnt/stockage/packages/f13/labyrinth/po/sv.po | 
- | [pt_BR]({{< ref "/f13/language/pt_BR.md" >}}) | 140 | 146 | 95.9 | /mnt/stockage/packages/f13/labyrinth/po/pt_BR.po | 
- | [fr]({{< ref "/f13/language/fr.md" >}}) | 139 | 146 | 95.2 | /mnt/stockage/packages/f13/labyrinth/po/fr.po | 
- | [nl]({{< ref "/f13/language/nl.md" >}}) | 137 | 146 | 93.8 | /mnt/stockage/packages/f13/labyrinth/po/nl.po | 
- | [pl]({{< ref "/f13/language/pl.md" >}}) | 83 | 146 | 56.8 | /mnt/stockage/packages/f13/labyrinth/po/pl.po | 
+ | [ca](/f13/language/ca) | 146 | 146 | 100.0 | /mnt/stockage/packages/f13/labyrinth/po/ca.po | 
+ | [cs](/f13/language/cs) | 146 | 146 | 100.0 | /mnt/stockage/packages/f13/labyrinth/po/cs.po | 
+ | [de](/f13/language/de) | 188 | 188 | 100.0 | /mnt/stockage/packages/f13/labyrinth/po/de.po | 
+ | [eu](/f13/language/eu) | 146 | 146 | 100.0 | /mnt/stockage/packages/f13/labyrinth/po/eu.po | 
+ | [fa](/f13/language/fa) | 146 | 146 | 100.0 | /mnt/stockage/packages/f13/labyrinth/po/fa.po | 
+ | [it](/f13/language/it) | 146 | 146 | 100.0 | /mnt/stockage/packages/f13/labyrinth/po/it.po | 
+ | [pt_PT](/f13/language/pt_PT) | 146 | 146 | 100.0 | /mnt/stockage/packages/f13/labyrinth/po/pt_PT.po | 
+ | [ru](/f13/language/ru) | 146 | 146 | 100.0 | /mnt/stockage/packages/f13/labyrinth/po/ru.po | 
+ | [sv](/f13/language/sv) | 146 | 146 | 100.0 | /mnt/stockage/packages/f13/labyrinth/po/sv.po | 
+ | [pt_BR](/f13/language/pt_BR) | 140 | 146 | 95.9 | /mnt/stockage/packages/f13/labyrinth/po/pt_BR.po | 
+ | [fr](/f13/language/fr) | 139 | 146 | 95.2 | /mnt/stockage/packages/f13/labyrinth/po/fr.po | 
+ | [nl](/f13/language/nl) | 137 | 146 | 93.8 | /mnt/stockage/packages/f13/labyrinth/po/nl.po | 
+ | [pl](/f13/language/pl) | 83 | 146 | 56.8 | /mnt/stockage/packages/f13/labyrinth/po/pl.po | 
 {.sortable}
 
 

@@ -18,15 +18,15 @@ The package bareftp (version 0.3.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f12/language/de.md" >}}) | 310 | 310 | 100.0 | /mnt/stockage/packages/f12/bareftp/po/de.po | 
- | [fr]({{< ref "/f12/language/fr.md" >}}) | 310 | 310 | 100.0 | /mnt/stockage/packages/f12/bareftp/po/fr.po | 
- | [nb_NO]({{< ref "/f12/language/nb_NO.md" >}}) | 310 | 310 | 100.0 | /mnt/stockage/packages/f12/bareftp/po/nb.po | 
- | [sv]({{< ref "/f12/language/sv.md" >}}) | 310 | 310 | 100.0 | /mnt/stockage/packages/f12/bareftp/po/sv.po | 
- | [es]({{< ref "/f12/language/es.md" >}}) | 301 | 310 | 97.1 | /mnt/stockage/packages/f12/bareftp/po/es.po | 
- | [it]({{< ref "/f12/language/it.md" >}}) | 296 | 310 | 95.5 | /mnt/stockage/packages/f12/bareftp/po/it.po | 
- | [pl]({{< ref "/f12/language/pl.md" >}}) | 296 | 310 | 95.5 | /mnt/stockage/packages/f12/bareftp/po/pl.po | 
- | [pt_BR]({{< ref "/f12/language/pt_BR.md" >}}) | 296 | 310 | 95.5 | /mnt/stockage/packages/f12/bareftp/po/pt_BR.po | 
- | [ca]({{< ref "/f12/language/ca.md" >}}) | 282 | 310 | 91.0 | /mnt/stockage/packages/f12/bareftp/po/ca.po | 
+ | [de](/f12/language/de) | 310 | 310 | 100.0 | /mnt/stockage/packages/f12/bareftp/po/de.po | 
+ | [fr](/f12/language/fr) | 310 | 310 | 100.0 | /mnt/stockage/packages/f12/bareftp/po/fr.po | 
+ | [nb_NO](/f12/language/nb_NO) | 310 | 310 | 100.0 | /mnt/stockage/packages/f12/bareftp/po/nb.po | 
+ | [sv](/f12/language/sv) | 310 | 310 | 100.0 | /mnt/stockage/packages/f12/bareftp/po/sv.po | 
+ | [es](/f12/language/es) | 301 | 310 | 97.1 | /mnt/stockage/packages/f12/bareftp/po/es.po | 
+ | [it](/f12/language/it) | 296 | 310 | 95.5 | /mnt/stockage/packages/f12/bareftp/po/it.po | 
+ | [pl](/f12/language/pl) | 296 | 310 | 95.5 | /mnt/stockage/packages/f12/bareftp/po/pl.po | 
+ | [pt_BR](/f12/language/pt_BR) | 296 | 310 | 95.5 | /mnt/stockage/packages/f12/bareftp/po/pt_BR.po | 
+ | [ca](/f12/language/ca) | 282 | 310 | 91.0 | /mnt/stockage/packages/f12/bareftp/po/ca.po | 
 {.sortable}
 
 

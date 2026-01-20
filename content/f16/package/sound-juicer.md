@@ -18,86 +18,86 @@ The package sound-juicer (version 2.32.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [as]({{< ref "/f16/language/as.md" >}}) | 1022 | 1022 | 100.0 | /mnt/stockage/packages/f16/sound-juicer/po/as.po | 
- | [ast]({{< ref "/f16/language/ast.md" >}}) | 1022 | 1022 | 100.0 | /mnt/stockage/packages/f16/sound-juicer/po/ast.po | 
- | [az]({{< ref "/f16/language/az.md" >}}) | 601 | 601 | 100.0 | /mnt/stockage/packages/f16/sound-juicer/po/az.po | 
- | [be]({{< ref "/f16/language/be.md" >}}) | 852 | 852 | 100.0 | /mnt/stockage/packages/f16/sound-juicer/po/be.po | 
- | [be_Latn]({{< ref "/f16/language/be_Latn.md" >}}) | 1024 | 1024 | 100.0 | /mnt/stockage/packages/f16/sound-juicer/po/be@latin.po | 
- | [bg]({{< ref "/f16/language/bg.md" >}}) | 986 | 986 | 100.0 | /mnt/stockage/packages/f16/sound-juicer/po/bg.po | 
- | [bn]({{< ref "/f16/language/bn.md" >}}) | 1022 | 1022 | 100.0 | /mnt/stockage/packages/f16/sound-juicer/po/bn.po | 
- | [bn_IN]({{< ref "/f16/language/bn_IN.md" >}}) | 1003 | 1003 | 100.0 | /mnt/stockage/packages/f16/sound-juicer/po/bn_IN.po | 
- | [ca@valencia]({{< ref "/f16/language/ca@valencia.md" >}}) | 1022 | 1022 | 100.0 | /mnt/stockage/packages/f16/sound-juicer/po/ca@valencia.po | 
- | [cs]({{< ref "/f16/language/cs.md" >}}) | 3295 | 3295 | 100.0 | /mnt/stockage/packages/f16/sound-juicer/help/sound-juicer/cs/cs.po/mnt/stockage/packages/f16/sound-juicer/po/cs.po | 
- | [cy]({{< ref "/f16/language/cy.md" >}}) | 695 | 695 | 100.0 | /mnt/stockage/packages/f16/sound-juicer/po/cy.po | 
- | [da]({{< ref "/f16/language/da.md" >}}) | 986 | 986 | 100.0 | /mnt/stockage/packages/f16/sound-juicer/po/da.po | 
- | [de]({{< ref "/f16/language/de.md" >}}) | 3298 | 3298 | 100.0 | /mnt/stockage/packages/f16/sound-juicer/help/sound-juicer/de/de.po/mnt/stockage/packages/f16/sound-juicer/po/de.po | 
- | [dz]({{< ref "/f16/language/dz.md" >}}) | 872 | 872 | 100.0 | /mnt/stockage/packages/f16/sound-juicer/po/dz.po | 
- | [el]({{< ref "/f16/language/el.md" >}}) | 3281 | 3281 | 100.0 | /mnt/stockage/packages/f16/sound-juicer/help/sound-juicer/el/el.po/mnt/stockage/packages/f16/sound-juicer/po/el.po | 
- | [en_CA]({{< ref "/f16/language/en_CA.md" >}}) | 702 | 702 | 100.0 | /mnt/stockage/packages/f16/sound-juicer/po/en_CA.po | 
- | [en_GB]({{< ref "/f16/language/en_GB.md" >}}) | 2806 | 2806 | 100.0 | /mnt/stockage/packages/f16/sound-juicer/help/sound-juicer/en_GB/en_GB.po/mnt/stockage/packages/f16/sound-juicer/po/en_GB.po | 
- | [es]({{< ref "/f16/language/es.md" >}}) | 3298 | 3298 | 100.0 | /mnt/stockage/packages/f16/sound-juicer/help/sound-juicer/es/es.po/mnt/stockage/packages/f16/sound-juicer/po/es.po | 
- | [et]({{< ref "/f16/language/et.md" >}}) | 1000 | 1000 | 100.0 | /mnt/stockage/packages/f16/sound-juicer/po/et.po | 
- | [eu]({{< ref "/f16/language/eu.md" >}}) | 5993 | 5993 | 100.0 | /mnt/stockage/packages/f16/sound-juicer/help/sound-juicer/eu/eu.po/mnt/stockage/packages/f16/sound-juicer/po/eu.po | 
- | [fa]({{< ref "/f16/language/fa.md" >}}) | 627 | 627 | 100.0 | /mnt/stockage/packages/f16/sound-juicer/po/fa.po | 
- | [fi]({{< ref "/f16/language/fi.md" >}}) | 1022 | 1022 | 100.0 | /mnt/stockage/packages/f16/sound-juicer/po/fi.po | 
- | [fr]({{< ref "/f16/language/fr.md" >}}) | 3298 | 3298 | 100.0 | /mnt/stockage/packages/f16/sound-juicer/help/sound-juicer/fr/fr.po/mnt/stockage/packages/f16/sound-juicer/po/fr.po | 
- | [gl]({{< ref "/f16/language/gl.md" >}}) | 986 | 986 | 100.0 | /mnt/stockage/packages/f16/sound-juicer/po/gl.po | 
- | [gu]({{< ref "/f16/language/gu.md" >}}) | 1022 | 1022 | 100.0 | /mnt/stockage/packages/f16/sound-juicer/po/gu.po | 
- | [he]({{< ref "/f16/language/he.md" >}}) | 1000 | 1000 | 100.0 | /mnt/stockage/packages/f16/sound-juicer/po/he.po | 
- | [hi]({{< ref "/f16/language/hi.md" >}}) | 1022 | 1022 | 100.0 | /mnt/stockage/packages/f16/sound-juicer/po/hi.po | 
- | [hu]({{< ref "/f16/language/hu.md" >}}) | 986 | 986 | 100.0 | /mnt/stockage/packages/f16/sound-juicer/po/hu.po | 
- | [id]({{< ref "/f16/language/id.md" >}}) | 986 | 986 | 100.0 | /mnt/stockage/packages/f16/sound-juicer/po/id.po | 
- | [it]({{< ref "/f16/language/it.md" >}}) | 986 | 986 | 100.0 | /mnt/stockage/packages/f16/sound-juicer/po/it.po | 
- | [ja]({{< ref "/f16/language/ja.md" >}}) | 3281 | 3281 | 100.0 | /mnt/stockage/packages/f16/sound-juicer/help/sound-juicer/ja/ja.po/mnt/stockage/packages/f16/sound-juicer/po/ja.po | 
- | [ka]({{< ref "/f16/language/ka.md" >}}) | 853 | 853 | 100.0 | /mnt/stockage/packages/f16/sound-juicer/po/ka.po | 
- | [kn]({{< ref "/f16/language/kn.md" >}}) | 1022 | 1022 | 100.0 | /mnt/stockage/packages/f16/sound-juicer/po/kn.po | 
- | [ko]({{< ref "/f16/language/ko.md" >}}) | 1022 | 1022 | 100.0 | /mnt/stockage/packages/f16/sound-juicer/po/ko.po | 
- | [lt]({{< ref "/f16/language/lt.md" >}}) | 1022 | 1022 | 100.0 | /mnt/stockage/packages/f16/sound-juicer/po/lt.po | 
- | [lv]({{< ref "/f16/language/lv.md" >}}) | 1022 | 1022 | 100.0 | /mnt/stockage/packages/f16/sound-juicer/po/lv.po | 
- | [mk]({{< ref "/f16/language/mk.md" >}}) | 996 | 996 | 100.0 | /mnt/stockage/packages/f16/sound-juicer/po/mk.po | 
- | [ml]({{< ref "/f16/language/ml.md" >}}) | 1022 | 1022 | 100.0 | /mnt/stockage/packages/f16/sound-juicer/po/ml.po | 
- | [mn]({{< ref "/f16/language/mn.md" >}}) | 853 | 853 | 100.0 | /mnt/stockage/packages/f16/sound-juicer/po/mn.po | 
- | [mr]({{< ref "/f16/language/mr.md" >}}) | 1022 | 1022 | 100.0 | /mnt/stockage/packages/f16/sound-juicer/po/mr.po | 
- | [nb_NO]({{< ref "/f16/language/nb_NO.md" >}}) | 1000 | 1000 | 100.0 | /mnt/stockage/packages/f16/sound-juicer/po/nb.po | 
- | [ne]({{< ref "/f16/language/ne.md" >}}) | 861 | 861 | 100.0 | /mnt/stockage/packages/f16/sound-juicer/po/ne.po | 
- | [nn]({{< ref "/f16/language/nn.md" >}}) | 1022 | 1022 | 100.0 | /mnt/stockage/packages/f16/sound-juicer/po/nn.po | 
- | [pa]({{< ref "/f16/language/pa.md" >}}) | 986 | 986 | 100.0 | /mnt/stockage/packages/f16/sound-juicer/po/pa.po | 
- | [pl]({{< ref "/f16/language/pl.md" >}}) | 3281 | 3281 | 100.0 | /mnt/stockage/packages/f16/sound-juicer/help/sound-juicer/pl/pl.po/mnt/stockage/packages/f16/sound-juicer/po/pl.po | 
- | [pt]({{< ref "/f16/language/pt.md" >}}) | 986 | 986 | 100.0 | /mnt/stockage/packages/f16/sound-juicer/po/pt.po | 
- | [pt_BR]({{< ref "/f16/language/pt_BR.md" >}}) | 3226 | 3226 | 100.0 | /mnt/stockage/packages/f16/sound-juicer/help/sound-juicer/pt_BR/pt_BR.po/mnt/stockage/packages/f16/sound-juicer/po/pt_BR.po | 
- | [ro]({{< ref "/f16/language/ro.md" >}}) | 986 | 986 | 100.0 | /mnt/stockage/packages/f16/sound-juicer/po/ro.po | 
- | [ru]({{< ref "/f16/language/ru.md" >}}) | 6129 | 6129 | 100.0 | /mnt/stockage/packages/f16/sound-juicer/help/sound-juicer/ru/ru.po/mnt/stockage/packages/f16/sound-juicer/po/ru.po | 
- | [sl]({{< ref "/f16/language/sl.md" >}}) | 1003 | 1003 | 100.0 | /mnt/stockage/packages/f16/sound-juicer/po/sl.po | 
- | [sq]({{< ref "/f16/language/sq.md" >}}) | 852 | 852 | 100.0 | /mnt/stockage/packages/f16/sound-juicer/po/sq.po | 
- | [sr]({{< ref "/f16/language/sr.md" >}}) | 986 | 986 | 100.0 | /mnt/stockage/packages/f16/sound-juicer/po/sr.po | 
- | [sr_Latn]({{< ref "/f16/language/sr_Latn.md" >}}) | 986 | 986 | 100.0 | /mnt/stockage/packages/f16/sound-juicer/po/sr@latin.po | 
- | [sv]({{< ref "/f16/language/sv.md" >}}) | 3281 | 3281 | 100.0 | /mnt/stockage/packages/f16/sound-juicer/help/sound-juicer/sv/sv.po/mnt/stockage/packages/f16/sound-juicer/po/sv.po | 
- | [ta]({{< ref "/f16/language/ta.md" >}}) | 986 | 986 | 100.0 | /mnt/stockage/packages/f16/sound-juicer/po/ta.po | 
- | [te]({{< ref "/f16/language/te.md" >}}) | 1022 | 1022 | 100.0 | /mnt/stockage/packages/f16/sound-juicer/po/te.po | 
- | [th]({{< ref "/f16/language/th.md" >}}) | 1022 | 1022 | 100.0 | /mnt/stockage/packages/f16/sound-juicer/po/th.po | 
- | [tr]({{< ref "/f16/language/tr.md" >}}) | 1024 | 1024 | 100.0 | /mnt/stockage/packages/f16/sound-juicer/po/tr.po | 
- | [uk]({{< ref "/f16/language/uk.md" >}}) | 5993 | 5993 | 100.0 | /mnt/stockage/packages/f16/sound-juicer/help/sound-juicer/uk/uk.po/mnt/stockage/packages/f16/sound-juicer/po/uk.po | 
- | [vi]({{< ref "/f16/language/vi.md" >}}) | 1024 | 1024 | 100.0 | /mnt/stockage/packages/f16/sound-juicer/po/vi.po | 
- | [zh_Hans]({{< ref "/f16/language/zh_Hans.md" >}}) | 3281 | 3281 | 100.0 | /mnt/stockage/packages/f16/sound-juicer/help/sound-juicer/zh_CN/zh_CN.po/mnt/stockage/packages/f16/sound-juicer/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f16/language/zh_Hant.md" >}}) | 986 | 986 | 100.0 | /mnt/stockage/packages/f16/sound-juicer/po/zh_TW.po | 
- | [zh_Hant_HK]({{< ref "/f16/language/zh_Hant_HK.md" >}}) | 986 | 986 | 100.0 | /mnt/stockage/packages/f16/sound-juicer/po/zh_HK.po | 
- | [or]({{< ref "/f16/language/or.md" >}}) | 988 | 1000 | 98.8 | /mnt/stockage/packages/f16/sound-juicer/po/or.po | 
- | [xh]({{< ref "/f16/language/xh.md" >}}) | 683 | 699 | 97.7 | /mnt/stockage/packages/f16/sound-juicer/po/xh.po | 
- | [sk]({{< ref "/f16/language/sk.md" >}}) | 947 | 986 | 96.0 | /mnt/stockage/packages/f16/sound-juicer/po/sk.po | 
- | [ar]({{< ref "/f16/language/ar.md" >}}) | 2764 | 3226 | 85.7 | /mnt/stockage/packages/f16/sound-juicer/help/sound-juicer/ar/ar.po/mnt/stockage/packages/f16/sound-juicer/po/ar.po | 
- | [ms]({{< ref "/f16/language/ms.md" >}}) | 465 | 596 | 78.0 | /mnt/stockage/packages/f16/sound-juicer/po/ms.po | 
- | [hr]({{< ref "/f16/language/hr.md" >}}) | 752 | 996 | 75.5 | /mnt/stockage/packages/f16/sound-juicer/po/hr.po | 
- | [si]({{< ref "/f16/language/si.md" >}}) | 602 | 861 | 69.9 | /mnt/stockage/packages/f16/sound-juicer/po/si.po | 
- | [error]({{< ref "/f16/language/error.md" >}}) | 680 | 1000 | 68.0 | /mnt/stockage/packages/f16/sound-juicer/po/en@shaw.po | 
- | [mai]({{< ref "/f16/language/mai.md" >}}) | 680 | 1022 | 66.5 | /mnt/stockage/packages/f16/sound-juicer/po/mai.po | 
- | [br]({{< ref "/f16/language/br.md" >}}) | 550 | 1022 | 53.8 | /mnt/stockage/packages/f16/sound-juicer/po/br.po | 
- | [ca]({{< ref "/f16/language/ca.md" >}}) | 3231 | 6129 | 52.7 | /mnt/stockage/packages/f16/sound-juicer/help/sound-juicer/ca/ca.po/mnt/stockage/packages/f16/sound-juicer/po/ca.po | 
- | [ug]({{< ref "/f16/language/ug.md" >}}) | 258 | 704 | 36.6 | /mnt/stockage/packages/f16/sound-juicer/po/ug.po | 
- | [ga]({{< ref "/f16/language/ga.md" >}}) | 298 | 1022 | 29.2 | /mnt/stockage/packages/f16/sound-juicer/po/ga.po | 
- | [nl]({{< ref "/f16/language/nl.md" >}}) | 1291 | 5923 | 21.8 | /mnt/stockage/packages/f16/sound-juicer/help/sound-juicer/nl/nl.po/mnt/stockage/packages/f16/sound-juicer/po/nl.po | 
- | [ku]({{< ref "/f16/language/ku.md" >}}) | 85 | 852 | 10.0 | /mnt/stockage/packages/f16/sound-juicer/po/ku.po | 
- | [oc]({{< ref "/f16/language/oc.md" >}}) | 214 | 6135 | 3.5 | /mnt/stockage/packages/f16/sound-juicer/help/sound-juicer/oc/oc.po/mnt/stockage/packages/f16/sound-juicer/po/oc.po | 
- | [rw]({{< ref "/f16/language/rw.md" >}}) | 13 | 699 | 1.9 | /mnt/stockage/packages/f16/sound-juicer/po/rw.po | 
+ | [as](/f16/language/as) | 1022 | 1022 | 100.0 | /mnt/stockage/packages/f16/sound-juicer/po/as.po | 
+ | [ast](/f16/language/ast) | 1022 | 1022 | 100.0 | /mnt/stockage/packages/f16/sound-juicer/po/ast.po | 
+ | [az](/f16/language/az) | 601 | 601 | 100.0 | /mnt/stockage/packages/f16/sound-juicer/po/az.po | 
+ | [be](/f16/language/be) | 852 | 852 | 100.0 | /mnt/stockage/packages/f16/sound-juicer/po/be.po | 
+ | [be_Latn](/f16/language/be_Latn) | 1024 | 1024 | 100.0 | /mnt/stockage/packages/f16/sound-juicer/po/be@latin.po | 
+ | [bg](/f16/language/bg) | 986 | 986 | 100.0 | /mnt/stockage/packages/f16/sound-juicer/po/bg.po | 
+ | [bn](/f16/language/bn) | 1022 | 1022 | 100.0 | /mnt/stockage/packages/f16/sound-juicer/po/bn.po | 
+ | [bn_IN](/f16/language/bn_IN) | 1003 | 1003 | 100.0 | /mnt/stockage/packages/f16/sound-juicer/po/bn_IN.po | 
+ | [ca@valencia](/f16/language/ca@valencia) | 1022 | 1022 | 100.0 | /mnt/stockage/packages/f16/sound-juicer/po/ca@valencia.po | 
+ | [cs](/f16/language/cs) | 3295 | 3295 | 100.0 | /mnt/stockage/packages/f16/sound-juicer/help/sound-juicer/cs/cs.po/mnt/stockage/packages/f16/sound-juicer/po/cs.po | 
+ | [cy](/f16/language/cy) | 695 | 695 | 100.0 | /mnt/stockage/packages/f16/sound-juicer/po/cy.po | 
+ | [da](/f16/language/da) | 986 | 986 | 100.0 | /mnt/stockage/packages/f16/sound-juicer/po/da.po | 
+ | [de](/f16/language/de) | 3298 | 3298 | 100.0 | /mnt/stockage/packages/f16/sound-juicer/help/sound-juicer/de/de.po/mnt/stockage/packages/f16/sound-juicer/po/de.po | 
+ | [dz](/f16/language/dz) | 872 | 872 | 100.0 | /mnt/stockage/packages/f16/sound-juicer/po/dz.po | 
+ | [el](/f16/language/el) | 3281 | 3281 | 100.0 | /mnt/stockage/packages/f16/sound-juicer/help/sound-juicer/el/el.po/mnt/stockage/packages/f16/sound-juicer/po/el.po | 
+ | [en_CA](/f16/language/en_CA) | 702 | 702 | 100.0 | /mnt/stockage/packages/f16/sound-juicer/po/en_CA.po | 
+ | [en_GB](/f16/language/en_GB) | 2806 | 2806 | 100.0 | /mnt/stockage/packages/f16/sound-juicer/help/sound-juicer/en_GB/en_GB.po/mnt/stockage/packages/f16/sound-juicer/po/en_GB.po | 
+ | [es](/f16/language/es) | 3298 | 3298 | 100.0 | /mnt/stockage/packages/f16/sound-juicer/help/sound-juicer/es/es.po/mnt/stockage/packages/f16/sound-juicer/po/es.po | 
+ | [et](/f16/language/et) | 1000 | 1000 | 100.0 | /mnt/stockage/packages/f16/sound-juicer/po/et.po | 
+ | [eu](/f16/language/eu) | 5993 | 5993 | 100.0 | /mnt/stockage/packages/f16/sound-juicer/help/sound-juicer/eu/eu.po/mnt/stockage/packages/f16/sound-juicer/po/eu.po | 
+ | [fa](/f16/language/fa) | 627 | 627 | 100.0 | /mnt/stockage/packages/f16/sound-juicer/po/fa.po | 
+ | [fi](/f16/language/fi) | 1022 | 1022 | 100.0 | /mnt/stockage/packages/f16/sound-juicer/po/fi.po | 
+ | [fr](/f16/language/fr) | 3298 | 3298 | 100.0 | /mnt/stockage/packages/f16/sound-juicer/help/sound-juicer/fr/fr.po/mnt/stockage/packages/f16/sound-juicer/po/fr.po | 
+ | [gl](/f16/language/gl) | 986 | 986 | 100.0 | /mnt/stockage/packages/f16/sound-juicer/po/gl.po | 
+ | [gu](/f16/language/gu) | 1022 | 1022 | 100.0 | /mnt/stockage/packages/f16/sound-juicer/po/gu.po | 
+ | [he](/f16/language/he) | 1000 | 1000 | 100.0 | /mnt/stockage/packages/f16/sound-juicer/po/he.po | 
+ | [hi](/f16/language/hi) | 1022 | 1022 | 100.0 | /mnt/stockage/packages/f16/sound-juicer/po/hi.po | 
+ | [hu](/f16/language/hu) | 986 | 986 | 100.0 | /mnt/stockage/packages/f16/sound-juicer/po/hu.po | 
+ | [id](/f16/language/id) | 986 | 986 | 100.0 | /mnt/stockage/packages/f16/sound-juicer/po/id.po | 
+ | [it](/f16/language/it) | 986 | 986 | 100.0 | /mnt/stockage/packages/f16/sound-juicer/po/it.po | 
+ | [ja](/f16/language/ja) | 3281 | 3281 | 100.0 | /mnt/stockage/packages/f16/sound-juicer/help/sound-juicer/ja/ja.po/mnt/stockage/packages/f16/sound-juicer/po/ja.po | 
+ | [ka](/f16/language/ka) | 853 | 853 | 100.0 | /mnt/stockage/packages/f16/sound-juicer/po/ka.po | 
+ | [kn](/f16/language/kn) | 1022 | 1022 | 100.0 | /mnt/stockage/packages/f16/sound-juicer/po/kn.po | 
+ | [ko](/f16/language/ko) | 1022 | 1022 | 100.0 | /mnt/stockage/packages/f16/sound-juicer/po/ko.po | 
+ | [lt](/f16/language/lt) | 1022 | 1022 | 100.0 | /mnt/stockage/packages/f16/sound-juicer/po/lt.po | 
+ | [lv](/f16/language/lv) | 1022 | 1022 | 100.0 | /mnt/stockage/packages/f16/sound-juicer/po/lv.po | 
+ | [mk](/f16/language/mk) | 996 | 996 | 100.0 | /mnt/stockage/packages/f16/sound-juicer/po/mk.po | 
+ | [ml](/f16/language/ml) | 1022 | 1022 | 100.0 | /mnt/stockage/packages/f16/sound-juicer/po/ml.po | 
+ | [mn](/f16/language/mn) | 853 | 853 | 100.0 | /mnt/stockage/packages/f16/sound-juicer/po/mn.po | 
+ | [mr](/f16/language/mr) | 1022 | 1022 | 100.0 | /mnt/stockage/packages/f16/sound-juicer/po/mr.po | 
+ | [nb_NO](/f16/language/nb_NO) | 1000 | 1000 | 100.0 | /mnt/stockage/packages/f16/sound-juicer/po/nb.po | 
+ | [ne](/f16/language/ne) | 861 | 861 | 100.0 | /mnt/stockage/packages/f16/sound-juicer/po/ne.po | 
+ | [nn](/f16/language/nn) | 1022 | 1022 | 100.0 | /mnt/stockage/packages/f16/sound-juicer/po/nn.po | 
+ | [pa](/f16/language/pa) | 986 | 986 | 100.0 | /mnt/stockage/packages/f16/sound-juicer/po/pa.po | 
+ | [pl](/f16/language/pl) | 3281 | 3281 | 100.0 | /mnt/stockage/packages/f16/sound-juicer/help/sound-juicer/pl/pl.po/mnt/stockage/packages/f16/sound-juicer/po/pl.po | 
+ | [pt](/f16/language/pt) | 986 | 986 | 100.0 | /mnt/stockage/packages/f16/sound-juicer/po/pt.po | 
+ | [pt_BR](/f16/language/pt_BR) | 3226 | 3226 | 100.0 | /mnt/stockage/packages/f16/sound-juicer/help/sound-juicer/pt_BR/pt_BR.po/mnt/stockage/packages/f16/sound-juicer/po/pt_BR.po | 
+ | [ro](/f16/language/ro) | 986 | 986 | 100.0 | /mnt/stockage/packages/f16/sound-juicer/po/ro.po | 
+ | [ru](/f16/language/ru) | 6129 | 6129 | 100.0 | /mnt/stockage/packages/f16/sound-juicer/help/sound-juicer/ru/ru.po/mnt/stockage/packages/f16/sound-juicer/po/ru.po | 
+ | [sl](/f16/language/sl) | 1003 | 1003 | 100.0 | /mnt/stockage/packages/f16/sound-juicer/po/sl.po | 
+ | [sq](/f16/language/sq) | 852 | 852 | 100.0 | /mnt/stockage/packages/f16/sound-juicer/po/sq.po | 
+ | [sr](/f16/language/sr) | 986 | 986 | 100.0 | /mnt/stockage/packages/f16/sound-juicer/po/sr.po | 
+ | [sr_Latn](/f16/language/sr_Latn) | 986 | 986 | 100.0 | /mnt/stockage/packages/f16/sound-juicer/po/sr@latin.po | 
+ | [sv](/f16/language/sv) | 3281 | 3281 | 100.0 | /mnt/stockage/packages/f16/sound-juicer/help/sound-juicer/sv/sv.po/mnt/stockage/packages/f16/sound-juicer/po/sv.po | 
+ | [ta](/f16/language/ta) | 986 | 986 | 100.0 | /mnt/stockage/packages/f16/sound-juicer/po/ta.po | 
+ | [te](/f16/language/te) | 1022 | 1022 | 100.0 | /mnt/stockage/packages/f16/sound-juicer/po/te.po | 
+ | [th](/f16/language/th) | 1022 | 1022 | 100.0 | /mnt/stockage/packages/f16/sound-juicer/po/th.po | 
+ | [tr](/f16/language/tr) | 1024 | 1024 | 100.0 | /mnt/stockage/packages/f16/sound-juicer/po/tr.po | 
+ | [uk](/f16/language/uk) | 5993 | 5993 | 100.0 | /mnt/stockage/packages/f16/sound-juicer/help/sound-juicer/uk/uk.po/mnt/stockage/packages/f16/sound-juicer/po/uk.po | 
+ | [vi](/f16/language/vi) | 1024 | 1024 | 100.0 | /mnt/stockage/packages/f16/sound-juicer/po/vi.po | 
+ | [zh_Hans](/f16/language/zh_Hans) | 3281 | 3281 | 100.0 | /mnt/stockage/packages/f16/sound-juicer/help/sound-juicer/zh_CN/zh_CN.po/mnt/stockage/packages/f16/sound-juicer/po/zh_CN.po | 
+ | [zh_Hant](/f16/language/zh_Hant) | 986 | 986 | 100.0 | /mnt/stockage/packages/f16/sound-juicer/po/zh_TW.po | 
+ | [zh_Hant_HK](/f16/language/zh_Hant_HK) | 986 | 986 | 100.0 | /mnt/stockage/packages/f16/sound-juicer/po/zh_HK.po | 
+ | [or](/f16/language/or) | 988 | 1000 | 98.8 | /mnt/stockage/packages/f16/sound-juicer/po/or.po | 
+ | [xh](/f16/language/xh) | 683 | 699 | 97.7 | /mnt/stockage/packages/f16/sound-juicer/po/xh.po | 
+ | [sk](/f16/language/sk) | 947 | 986 | 96.0 | /mnt/stockage/packages/f16/sound-juicer/po/sk.po | 
+ | [ar](/f16/language/ar) | 2764 | 3226 | 85.7 | /mnt/stockage/packages/f16/sound-juicer/help/sound-juicer/ar/ar.po/mnt/stockage/packages/f16/sound-juicer/po/ar.po | 
+ | [ms](/f16/language/ms) | 465 | 596 | 78.0 | /mnt/stockage/packages/f16/sound-juicer/po/ms.po | 
+ | [hr](/f16/language/hr) | 752 | 996 | 75.5 | /mnt/stockage/packages/f16/sound-juicer/po/hr.po | 
+ | [si](/f16/language/si) | 602 | 861 | 69.9 | /mnt/stockage/packages/f16/sound-juicer/po/si.po | 
+ | [error](/f16/language/error) | 680 | 1000 | 68.0 | /mnt/stockage/packages/f16/sound-juicer/po/en@shaw.po | 
+ | [mai](/f16/language/mai) | 680 | 1022 | 66.5 | /mnt/stockage/packages/f16/sound-juicer/po/mai.po | 
+ | [br](/f16/language/br) | 550 | 1022 | 53.8 | /mnt/stockage/packages/f16/sound-juicer/po/br.po | 
+ | [ca](/f16/language/ca) | 3231 | 6129 | 52.7 | /mnt/stockage/packages/f16/sound-juicer/help/sound-juicer/ca/ca.po/mnt/stockage/packages/f16/sound-juicer/po/ca.po | 
+ | [ug](/f16/language/ug) | 258 | 704 | 36.6 | /mnt/stockage/packages/f16/sound-juicer/po/ug.po | 
+ | [ga](/f16/language/ga) | 298 | 1022 | 29.2 | /mnt/stockage/packages/f16/sound-juicer/po/ga.po | 
+ | [nl](/f16/language/nl) | 1291 | 5923 | 21.8 | /mnt/stockage/packages/f16/sound-juicer/help/sound-juicer/nl/nl.po/mnt/stockage/packages/f16/sound-juicer/po/nl.po | 
+ | [ku](/f16/language/ku) | 85 | 852 | 10.0 | /mnt/stockage/packages/f16/sound-juicer/po/ku.po | 
+ | [oc](/f16/language/oc) | 214 | 6135 | 3.5 | /mnt/stockage/packages/f16/sound-juicer/help/sound-juicer/oc/oc.po/mnt/stockage/packages/f16/sound-juicer/po/oc.po | 
+ | [rw](/f16/language/rw) | 13 | 699 | 1.9 | /mnt/stockage/packages/f16/sound-juicer/po/rw.po | 
 {.sortable}
 
 

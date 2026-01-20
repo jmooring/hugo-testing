@@ -18,98 +18,98 @@ The package python-blivet1 (version 1.20.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f25/language/ca.md" >}}) | 707 | 707 | 100.0 | /mnt/stockage/packages/f25/python-blivet1/po/ca.po | 
- | [cs]({{< ref "/f25/language/cs.md" >}}) | 707 | 707 | 100.0 | /mnt/stockage/packages/f25/python-blivet1/po/cs.po | 
- | [es]({{< ref "/f25/language/es.md" >}}) | 696 | 707 | 98.4 | /mnt/stockage/packages/f25/python-blivet1/po/es.po | 
- | [nl]({{< ref "/f25/language/nl.md" >}}) | 696 | 707 | 98.4 | /mnt/stockage/packages/f25/python-blivet1/po/nl.po | 
- | [pl]({{< ref "/f25/language/pl.md" >}}) | 696 | 707 | 98.4 | /mnt/stockage/packages/f25/python-blivet1/po/pl.po | 
- | [sr]({{< ref "/f25/language/sr.md" >}}) | 696 | 707 | 98.4 | /mnt/stockage/packages/f25/python-blivet1/po/sr.po | 
- | [sv]({{< ref "/f25/language/sv.md" >}}) | 696 | 707 | 98.4 | /mnt/stockage/packages/f25/python-blivet1/po/sv.po | 
- | [uk]({{< ref "/f25/language/uk.md" >}}) | 696 | 707 | 98.4 | /mnt/stockage/packages/f25/python-blivet1/po/uk.po | 
- | [de]({{< ref "/f25/language/de.md" >}}) | 567 | 707 | 80.2 | /mnt/stockage/packages/f25/python-blivet1/po/de.po | 
- | [bg]({{< ref "/f25/language/bg.md" >}}) | 564 | 707 | 79.8 | /mnt/stockage/packages/f25/python-blivet1/po/bg.po | 
- | [pt_BR]({{< ref "/f25/language/pt_BR.md" >}}) | 555 | 696 | 79.7 | /mnt/stockage/packages/f25/python-blivet1/po/pt_BR.po | 
- | [as]({{< ref "/f25/language/as.md" >}}) | 562 | 707 | 79.5 | /mnt/stockage/packages/f25/python-blivet1/po/as.po | 
- | [bn_IN]({{< ref "/f25/language/bn_IN.md" >}}) | 562 | 707 | 79.5 | /mnt/stockage/packages/f25/python-blivet1/po/bn_IN.po | 
- | [ja]({{< ref "/f25/language/ja.md" >}}) | 562 | 707 | 79.5 | /mnt/stockage/packages/f25/python-blivet1/po/ja.po | 
- | [kn]({{< ref "/f25/language/kn.md" >}}) | 526 | 696 | 75.6 | /mnt/stockage/packages/f25/python-blivet1/po/kn.po | 
- | [mr]({{< ref "/f25/language/mr.md" >}}) | 526 | 696 | 75.6 | /mnt/stockage/packages/f25/python-blivet1/po/mr.po | 
- | [te]({{< ref "/f25/language/te.md" >}}) | 526 | 696 | 75.6 | /mnt/stockage/packages/f25/python-blivet1/po/te.po | 
- | [gu]({{< ref "/f25/language/gu.md" >}}) | 526 | 707 | 74.4 | /mnt/stockage/packages/f25/python-blivet1/po/gu.po | 
- | [it]({{< ref "/f25/language/it.md" >}}) | 503 | 696 | 72.3 | /mnt/stockage/packages/f25/python-blivet1/po/it.po | 
- | [ru]({{< ref "/f25/language/ru.md" >}}) | 387 | 696 | 55.6 | /mnt/stockage/packages/f25/python-blivet1/po/ru.po | 
- | [zh_Hant]({{< ref "/f25/language/zh_Hant.md" >}}) | 379 | 707 | 53.6 | /mnt/stockage/packages/f25/python-blivet1/po/zh_TW.po | 
- | [kk]({{< ref "/f25/language/kk.md" >}}) | 361 | 696 | 51.9 | /mnt/stockage/packages/f25/python-blivet1/po/kk.po | 
- | [fr]({{< ref "/f25/language/fr.md" >}}) | 358 | 696 | 51.4 | /mnt/stockage/packages/f25/python-blivet1/po/fr.po | 
- | [hu]({{< ref "/f25/language/hu.md" >}}) | 358 | 696 | 51.4 | /mnt/stockage/packages/f25/python-blivet1/po/hu.po | 
- | [ml]({{< ref "/f25/language/ml.md" >}}) | 358 | 696 | 51.4 | /mnt/stockage/packages/f25/python-blivet1/po/ml.po | 
- | [or]({{< ref "/f25/language/or.md" >}}) | 358 | 696 | 51.4 | /mnt/stockage/packages/f25/python-blivet1/po/or.po | 
- | [pa]({{< ref "/f25/language/pa.md" >}}) | 358 | 696 | 51.4 | /mnt/stockage/packages/f25/python-blivet1/po/pa.po | 
- | [ta]({{< ref "/f25/language/ta.md" >}}) | 358 | 696 | 51.4 | /mnt/stockage/packages/f25/python-blivet1/po/ta.po | 
- | [ia]({{< ref "/f25/language/ia.md" >}}) | 317 | 696 | 45.5 | /mnt/stockage/packages/f25/python-blivet1/po/ia.po | 
- | [zh_Hans]({{< ref "/f25/language/zh_Hans.md" >}}) | 235 | 696 | 33.8 | /mnt/stockage/packages/f25/python-blivet1/po/zh_CN.po | 
- | [bn]({{< ref "/f25/language/bn.md" >}}) | 225 | 696 | 32.3 | /mnt/stockage/packages/f25/python-blivet1/po/bn.po | 
- | [da]({{< ref "/f25/language/da.md" >}}) | 225 | 696 | 32.3 | /mnt/stockage/packages/f25/python-blivet1/po/da.po | 
- | [fi]({{< ref "/f25/language/fi.md" >}}) | 225 | 696 | 32.3 | /mnt/stockage/packages/f25/python-blivet1/po/fi.po | 
- | [hi]({{< ref "/f25/language/hi.md" >}}) | 225 | 696 | 32.3 | /mnt/stockage/packages/f25/python-blivet1/po/hi.po | 
- | [id]({{< ref "/f25/language/id.md" >}}) | 225 | 696 | 32.3 | /mnt/stockage/packages/f25/python-blivet1/po/id.po | 
- | [ko]({{< ref "/f25/language/ko.md" >}}) | 225 | 696 | 32.3 | /mnt/stockage/packages/f25/python-blivet1/po/ko.po | 
- | [sk]({{< ref "/f25/language/sk.md" >}}) | 225 | 696 | 32.3 | /mnt/stockage/packages/f25/python-blivet1/po/sk.po | 
- | [pt]({{< ref "/f25/language/pt.md" >}}) | 225 | 707 | 31.8 | /mnt/stockage/packages/f25/python-blivet1/po/pt.po | 
- | [en_GB]({{< ref "/f25/language/en_GB.md" >}}) | 219 | 707 | 31.0 | /mnt/stockage/packages/f25/python-blivet1/po/en_GB.po | 
- | [fa]({{< ref "/f25/language/fa.md" >}}) | 205 | 696 | 29.5 | /mnt/stockage/packages/f25/python-blivet1/po/fa.po | 
- | [si]({{< ref "/f25/language/si.md" >}}) | 204 | 696 | 29.3 | /mnt/stockage/packages/f25/python-blivet1/po/si.po | 
- | [ast]({{< ref "/f25/language/ast.md" >}}) | 194 | 696 | 27.9 | /mnt/stockage/packages/f25/python-blivet1/po/ast.po | 
- | [sr_Latn]({{< ref "/f25/language/sr_Latn.md" >}}) | 180 | 696 | 25.9 | /mnt/stockage/packages/f25/python-blivet1/po/sr@latin.po | 
- | [nb_NO]({{< ref "/f25/language/nb_NO.md" >}}) | 113 | 696 | 16.2 | /mnt/stockage/packages/f25/python-blivet1/po/nb.po | 
- | [et]({{< ref "/f25/language/et.md" >}}) | 84 | 696 | 12.1 | /mnt/stockage/packages/f25/python-blivet1/po/et.po | 
- | [tr]({{< ref "/f25/language/tr.md" >}}) | 77 | 707 | 10.9 | /mnt/stockage/packages/f25/python-blivet1/po/tr.po | 
- | [lv]({{< ref "/f25/language/lv.md" >}}) | 71 | 696 | 10.2 | /mnt/stockage/packages/f25/python-blivet1/po/lv.po | 
- | [mai]({{< ref "/f25/language/mai.md" >}}) | 68 | 696 | 9.8 | /mnt/stockage/packages/f25/python-blivet1/po/mai.po | 
- | [th]({{< ref "/f25/language/th.md" >}}) | 57 | 696 | 8.2 | /mnt/stockage/packages/f25/python-blivet1/po/th.po | 
- | [de_CH]({{< ref "/f25/language/de_CH.md" >}}) | 57 | 707 | 8.1 | /mnt/stockage/packages/f25/python-blivet1/po/de_CH.po | 
- | [el]({{< ref "/f25/language/el.md" >}}) | 52 | 696 | 7.5 | /mnt/stockage/packages/f25/python-blivet1/po/el.po | 
- | [is]({{< ref "/f25/language/is.md" >}}) | 51 | 696 | 7.3 | /mnt/stockage/packages/f25/python-blivet1/po/is.po | 
- | [ka]({{< ref "/f25/language/ka.md" >}}) | 51 | 696 | 7.3 | /mnt/stockage/packages/f25/python-blivet1/po/ka.po | 
- | [sq]({{< ref "/f25/language/sq.md" >}}) | 48 | 696 | 6.9 | /mnt/stockage/packages/f25/python-blivet1/po/sq.po | 
- | [ar]({{< ref "/f25/language/ar.md" >}}) | 46 | 696 | 6.6 | /mnt/stockage/packages/f25/python-blivet1/po/ar.po | 
- | [af]({{< ref "/f25/language/af.md" >}}) | 45 | 696 | 6.5 | /mnt/stockage/packages/f25/python-blivet1/po/af.po | 
- | [am]({{< ref "/f25/language/am.md" >}}) | 45 | 696 | 6.5 | /mnt/stockage/packages/f25/python-blivet1/po/am.po | 
- | [bs]({{< ref "/f25/language/bs.md" >}}) | 45 | 696 | 6.5 | /mnt/stockage/packages/f25/python-blivet1/po/bs.po | 
- | [hr]({{< ref "/f25/language/hr.md" >}}) | 45 | 696 | 6.5 | /mnt/stockage/packages/f25/python-blivet1/po/hr.po | 
- | [ilo]({{< ref "/f25/language/ilo.md" >}}) | 45 | 696 | 6.5 | /mnt/stockage/packages/f25/python-blivet1/po/ilo.po | 
- | [mk]({{< ref "/f25/language/mk.md" >}}) | 45 | 696 | 6.5 | /mnt/stockage/packages/f25/python-blivet1/po/mk.po | 
- | [ms]({{< ref "/f25/language/ms.md" >}}) | 45 | 696 | 6.5 | /mnt/stockage/packages/f25/python-blivet1/po/ms.po | 
- | [ne]({{< ref "/f25/language/ne.md" >}}) | 45 | 696 | 6.5 | /mnt/stockage/packages/f25/python-blivet1/po/ne.po | 
- | [ro]({{< ref "/f25/language/ro.md" >}}) | 45 | 696 | 6.5 | /mnt/stockage/packages/f25/python-blivet1/po/ro.po | 
- | [sl]({{< ref "/f25/language/sl.md" >}}) | 45 | 696 | 6.5 | /mnt/stockage/packages/f25/python-blivet1/po/sl.po | 
- | [ur]({{< ref "/f25/language/ur.md" >}}) | 45 | 696 | 6.5 | /mnt/stockage/packages/f25/python-blivet1/po/ur.po | 
- | [cy]({{< ref "/f25/language/cy.md" >}}) | 45 | 707 | 6.4 | /mnt/stockage/packages/f25/python-blivet1/po/cy.po | 
- | [nso]({{< ref "/f25/language/nso.md" >}}) | 45 | 707 | 6.4 | /mnt/stockage/packages/f25/python-blivet1/po/nso.po | 
- | [he]({{< ref "/f25/language/he.md" >}}) | 28 | 696 | 4.0 | /mnt/stockage/packages/f25/python-blivet1/po/he.po | 
- | [eu]({{< ref "/f25/language/eu.md" >}}) | 20 | 696 | 2.9 | /mnt/stockage/packages/f25/python-blivet1/po/eu.po | 
- | [tg]({{< ref "/f25/language/tg.md" >}}) | 15 | 696 | 2.2 | /mnt/stockage/packages/f25/python-blivet1/po/tg.po | 
- | [be]({{< ref "/f25/language/be.md" >}}) | 8 | 696 | 1.1 | /mnt/stockage/packages/f25/python-blivet1/po/be.po | 
- | [vi]({{< ref "/f25/language/vi.md" >}}) | 8 | 696 | 1.1 | /mnt/stockage/packages/f25/python-blivet1/po/vi.po | 
- | [zu]({{< ref "/f25/language/zu.md" >}}) | 8 | 696 | 1.1 | /mnt/stockage/packages/f25/python-blivet1/po/zu.po | 
- | [gl]({{< ref "/f25/language/gl.md" >}}) | 8 | 707 | 1.1 | /mnt/stockage/packages/f25/python-blivet1/po/gl.po | 
- | [lt]({{< ref "/f25/language/lt.md" >}}) | 3 | 696 | 0.4 | /mnt/stockage/packages/f25/python-blivet1/po/lt.po | 
- | [nds]({{< ref "/f25/language/nds.md" >}}) | 1 | 696 | 0.1 | /mnt/stockage/packages/f25/python-blivet1/po/nds.po | 
- | [nn]({{< ref "/f25/language/nn.md" >}}) | 1 | 696 | 0.1 | /mnt/stockage/packages/f25/python-blivet1/po/nn.po | 
- | [anp]({{< ref "/f25/language/anp.md" >}}) | 0 | 696 | 0.0 | /mnt/stockage/packages/f25/python-blivet1/po/anp.po | 
- | [bal]({{< ref "/f25/language/bal.md" >}}) | 0 | 696 | 0.0 | /mnt/stockage/packages/f25/python-blivet1/po/bal.po | 
- | [bo]({{< ref "/f25/language/bo.md" >}}) | 0 | 696 | 0.0 | /mnt/stockage/packages/f25/python-blivet1/po/bo.po | 
- | [br]({{< ref "/f25/language/br.md" >}}) | 0 | 696 | 0.0 | /mnt/stockage/packages/f25/python-blivet1/po/br.po | 
- | [brx]({{< ref "/f25/language/brx.md" >}}) | 0 | 707 | 0.0 | /mnt/stockage/packages/f25/python-blivet1/po/brx.po | 
- | [eo]({{< ref "/f25/language/eo.md" >}}) | 0 | 696 | 0.0 | /mnt/stockage/packages/f25/python-blivet1/po/eo.po | 
- | [error]({{< ref "/f25/language/error.md" >}}) | 0 | 2099 | 0.0 | /mnt/stockage/packages/f25/python-blivet1/po/wba.po/mnt/stockage/packages/f25/python-blivet1/po/kw@kkcor.po/mnt/stockage/packages/f25/python-blivet1/po/kw@uccor.po | 
- | [km]({{< ref "/f25/language/km.md" >}}) | 0 | 696 | 0.0 | /mnt/stockage/packages/f25/python-blivet1/po/km.po | 
- | [kw]({{< ref "/f25/language/kw.md" >}}) | 0 | 1392 | 0.0 | /mnt/stockage/packages/f25/python-blivet1/po/kw_GB.po/mnt/stockage/packages/f25/python-blivet1/po/kw.po | 
- | [ky]({{< ref "/f25/language/ky.md" >}}) | 0 | 696 | 0.0 | /mnt/stockage/packages/f25/python-blivet1/po/ky.po | 
- | [mn]({{< ref "/f25/language/mn.md" >}}) | 0 | 696 | 0.0 | /mnt/stockage/packages/f25/python-blivet1/po/mn.po | 
- | [tw]({{< ref "/f25/language/tw.md" >}}) | 0 | 707 | 0.0 | /mnt/stockage/packages/f25/python-blivet1/po/tw.po | 
- | [yo]({{< ref "/f25/language/yo.md" >}}) | 0 | 696 | 0.0 | /mnt/stockage/packages/f25/python-blivet1/po/yo.po | 
- | [zh_Hant_HK]({{< ref "/f25/language/zh_Hant_HK.md" >}}) | 0 | 696 | 0.0 | /mnt/stockage/packages/f25/python-blivet1/po/zh_HK.po | 
+ | [ca](/f25/language/ca) | 707 | 707 | 100.0 | /mnt/stockage/packages/f25/python-blivet1/po/ca.po | 
+ | [cs](/f25/language/cs) | 707 | 707 | 100.0 | /mnt/stockage/packages/f25/python-blivet1/po/cs.po | 
+ | [es](/f25/language/es) | 696 | 707 | 98.4 | /mnt/stockage/packages/f25/python-blivet1/po/es.po | 
+ | [nl](/f25/language/nl) | 696 | 707 | 98.4 | /mnt/stockage/packages/f25/python-blivet1/po/nl.po | 
+ | [pl](/f25/language/pl) | 696 | 707 | 98.4 | /mnt/stockage/packages/f25/python-blivet1/po/pl.po | 
+ | [sr](/f25/language/sr) | 696 | 707 | 98.4 | /mnt/stockage/packages/f25/python-blivet1/po/sr.po | 
+ | [sv](/f25/language/sv) | 696 | 707 | 98.4 | /mnt/stockage/packages/f25/python-blivet1/po/sv.po | 
+ | [uk](/f25/language/uk) | 696 | 707 | 98.4 | /mnt/stockage/packages/f25/python-blivet1/po/uk.po | 
+ | [de](/f25/language/de) | 567 | 707 | 80.2 | /mnt/stockage/packages/f25/python-blivet1/po/de.po | 
+ | [bg](/f25/language/bg) | 564 | 707 | 79.8 | /mnt/stockage/packages/f25/python-blivet1/po/bg.po | 
+ | [pt_BR](/f25/language/pt_BR) | 555 | 696 | 79.7 | /mnt/stockage/packages/f25/python-blivet1/po/pt_BR.po | 
+ | [as](/f25/language/as) | 562 | 707 | 79.5 | /mnt/stockage/packages/f25/python-blivet1/po/as.po | 
+ | [bn_IN](/f25/language/bn_IN) | 562 | 707 | 79.5 | /mnt/stockage/packages/f25/python-blivet1/po/bn_IN.po | 
+ | [ja](/f25/language/ja) | 562 | 707 | 79.5 | /mnt/stockage/packages/f25/python-blivet1/po/ja.po | 
+ | [kn](/f25/language/kn) | 526 | 696 | 75.6 | /mnt/stockage/packages/f25/python-blivet1/po/kn.po | 
+ | [mr](/f25/language/mr) | 526 | 696 | 75.6 | /mnt/stockage/packages/f25/python-blivet1/po/mr.po | 
+ | [te](/f25/language/te) | 526 | 696 | 75.6 | /mnt/stockage/packages/f25/python-blivet1/po/te.po | 
+ | [gu](/f25/language/gu) | 526 | 707 | 74.4 | /mnt/stockage/packages/f25/python-blivet1/po/gu.po | 
+ | [it](/f25/language/it) | 503 | 696 | 72.3 | /mnt/stockage/packages/f25/python-blivet1/po/it.po | 
+ | [ru](/f25/language/ru) | 387 | 696 | 55.6 | /mnt/stockage/packages/f25/python-blivet1/po/ru.po | 
+ | [zh_Hant](/f25/language/zh_Hant) | 379 | 707 | 53.6 | /mnt/stockage/packages/f25/python-blivet1/po/zh_TW.po | 
+ | [kk](/f25/language/kk) | 361 | 696 | 51.9 | /mnt/stockage/packages/f25/python-blivet1/po/kk.po | 
+ | [fr](/f25/language/fr) | 358 | 696 | 51.4 | /mnt/stockage/packages/f25/python-blivet1/po/fr.po | 
+ | [hu](/f25/language/hu) | 358 | 696 | 51.4 | /mnt/stockage/packages/f25/python-blivet1/po/hu.po | 
+ | [ml](/f25/language/ml) | 358 | 696 | 51.4 | /mnt/stockage/packages/f25/python-blivet1/po/ml.po | 
+ | [or](/f25/language/or) | 358 | 696 | 51.4 | /mnt/stockage/packages/f25/python-blivet1/po/or.po | 
+ | [pa](/f25/language/pa) | 358 | 696 | 51.4 | /mnt/stockage/packages/f25/python-blivet1/po/pa.po | 
+ | [ta](/f25/language/ta) | 358 | 696 | 51.4 | /mnt/stockage/packages/f25/python-blivet1/po/ta.po | 
+ | [ia](/f25/language/ia) | 317 | 696 | 45.5 | /mnt/stockage/packages/f25/python-blivet1/po/ia.po | 
+ | [zh_Hans](/f25/language/zh_Hans) | 235 | 696 | 33.8 | /mnt/stockage/packages/f25/python-blivet1/po/zh_CN.po | 
+ | [bn](/f25/language/bn) | 225 | 696 | 32.3 | /mnt/stockage/packages/f25/python-blivet1/po/bn.po | 
+ | [da](/f25/language/da) | 225 | 696 | 32.3 | /mnt/stockage/packages/f25/python-blivet1/po/da.po | 
+ | [fi](/f25/language/fi) | 225 | 696 | 32.3 | /mnt/stockage/packages/f25/python-blivet1/po/fi.po | 
+ | [hi](/f25/language/hi) | 225 | 696 | 32.3 | /mnt/stockage/packages/f25/python-blivet1/po/hi.po | 
+ | [id](/f25/language/id) | 225 | 696 | 32.3 | /mnt/stockage/packages/f25/python-blivet1/po/id.po | 
+ | [ko](/f25/language/ko) | 225 | 696 | 32.3 | /mnt/stockage/packages/f25/python-blivet1/po/ko.po | 
+ | [sk](/f25/language/sk) | 225 | 696 | 32.3 | /mnt/stockage/packages/f25/python-blivet1/po/sk.po | 
+ | [pt](/f25/language/pt) | 225 | 707 | 31.8 | /mnt/stockage/packages/f25/python-blivet1/po/pt.po | 
+ | [en_GB](/f25/language/en_GB) | 219 | 707 | 31.0 | /mnt/stockage/packages/f25/python-blivet1/po/en_GB.po | 
+ | [fa](/f25/language/fa) | 205 | 696 | 29.5 | /mnt/stockage/packages/f25/python-blivet1/po/fa.po | 
+ | [si](/f25/language/si) | 204 | 696 | 29.3 | /mnt/stockage/packages/f25/python-blivet1/po/si.po | 
+ | [ast](/f25/language/ast) | 194 | 696 | 27.9 | /mnt/stockage/packages/f25/python-blivet1/po/ast.po | 
+ | [sr_Latn](/f25/language/sr_Latn) | 180 | 696 | 25.9 | /mnt/stockage/packages/f25/python-blivet1/po/sr@latin.po | 
+ | [nb_NO](/f25/language/nb_NO) | 113 | 696 | 16.2 | /mnt/stockage/packages/f25/python-blivet1/po/nb.po | 
+ | [et](/f25/language/et) | 84 | 696 | 12.1 | /mnt/stockage/packages/f25/python-blivet1/po/et.po | 
+ | [tr](/f25/language/tr) | 77 | 707 | 10.9 | /mnt/stockage/packages/f25/python-blivet1/po/tr.po | 
+ | [lv](/f25/language/lv) | 71 | 696 | 10.2 | /mnt/stockage/packages/f25/python-blivet1/po/lv.po | 
+ | [mai](/f25/language/mai) | 68 | 696 | 9.8 | /mnt/stockage/packages/f25/python-blivet1/po/mai.po | 
+ | [th](/f25/language/th) | 57 | 696 | 8.2 | /mnt/stockage/packages/f25/python-blivet1/po/th.po | 
+ | [de_CH](/f25/language/de_CH) | 57 | 707 | 8.1 | /mnt/stockage/packages/f25/python-blivet1/po/de_CH.po | 
+ | [el](/f25/language/el) | 52 | 696 | 7.5 | /mnt/stockage/packages/f25/python-blivet1/po/el.po | 
+ | [is](/f25/language/is) | 51 | 696 | 7.3 | /mnt/stockage/packages/f25/python-blivet1/po/is.po | 
+ | [ka](/f25/language/ka) | 51 | 696 | 7.3 | /mnt/stockage/packages/f25/python-blivet1/po/ka.po | 
+ | [sq](/f25/language/sq) | 48 | 696 | 6.9 | /mnt/stockage/packages/f25/python-blivet1/po/sq.po | 
+ | [ar](/f25/language/ar) | 46 | 696 | 6.6 | /mnt/stockage/packages/f25/python-blivet1/po/ar.po | 
+ | [af](/f25/language/af) | 45 | 696 | 6.5 | /mnt/stockage/packages/f25/python-blivet1/po/af.po | 
+ | [am](/f25/language/am) | 45 | 696 | 6.5 | /mnt/stockage/packages/f25/python-blivet1/po/am.po | 
+ | [bs](/f25/language/bs) | 45 | 696 | 6.5 | /mnt/stockage/packages/f25/python-blivet1/po/bs.po | 
+ | [hr](/f25/language/hr) | 45 | 696 | 6.5 | /mnt/stockage/packages/f25/python-blivet1/po/hr.po | 
+ | [ilo](/f25/language/ilo) | 45 | 696 | 6.5 | /mnt/stockage/packages/f25/python-blivet1/po/ilo.po | 
+ | [mk](/f25/language/mk) | 45 | 696 | 6.5 | /mnt/stockage/packages/f25/python-blivet1/po/mk.po | 
+ | [ms](/f25/language/ms) | 45 | 696 | 6.5 | /mnt/stockage/packages/f25/python-blivet1/po/ms.po | 
+ | [ne](/f25/language/ne) | 45 | 696 | 6.5 | /mnt/stockage/packages/f25/python-blivet1/po/ne.po | 
+ | [ro](/f25/language/ro) | 45 | 696 | 6.5 | /mnt/stockage/packages/f25/python-blivet1/po/ro.po | 
+ | [sl](/f25/language/sl) | 45 | 696 | 6.5 | /mnt/stockage/packages/f25/python-blivet1/po/sl.po | 
+ | [ur](/f25/language/ur) | 45 | 696 | 6.5 | /mnt/stockage/packages/f25/python-blivet1/po/ur.po | 
+ | [cy](/f25/language/cy) | 45 | 707 | 6.4 | /mnt/stockage/packages/f25/python-blivet1/po/cy.po | 
+ | [nso](/f25/language/nso) | 45 | 707 | 6.4 | /mnt/stockage/packages/f25/python-blivet1/po/nso.po | 
+ | [he](/f25/language/he) | 28 | 696 | 4.0 | /mnt/stockage/packages/f25/python-blivet1/po/he.po | 
+ | [eu](/f25/language/eu) | 20 | 696 | 2.9 | /mnt/stockage/packages/f25/python-blivet1/po/eu.po | 
+ | [tg](/f25/language/tg) | 15 | 696 | 2.2 | /mnt/stockage/packages/f25/python-blivet1/po/tg.po | 
+ | [be](/f25/language/be) | 8 | 696 | 1.1 | /mnt/stockage/packages/f25/python-blivet1/po/be.po | 
+ | [vi](/f25/language/vi) | 8 | 696 | 1.1 | /mnt/stockage/packages/f25/python-blivet1/po/vi.po | 
+ | [zu](/f25/language/zu) | 8 | 696 | 1.1 | /mnt/stockage/packages/f25/python-blivet1/po/zu.po | 
+ | [gl](/f25/language/gl) | 8 | 707 | 1.1 | /mnt/stockage/packages/f25/python-blivet1/po/gl.po | 
+ | [lt](/f25/language/lt) | 3 | 696 | 0.4 | /mnt/stockage/packages/f25/python-blivet1/po/lt.po | 
+ | [nds](/f25/language/nds) | 1 | 696 | 0.1 | /mnt/stockage/packages/f25/python-blivet1/po/nds.po | 
+ | [nn](/f25/language/nn) | 1 | 696 | 0.1 | /mnt/stockage/packages/f25/python-blivet1/po/nn.po | 
+ | [anp](/f25/language/anp) | 0 | 696 | 0.0 | /mnt/stockage/packages/f25/python-blivet1/po/anp.po | 
+ | [bal](/f25/language/bal) | 0 | 696 | 0.0 | /mnt/stockage/packages/f25/python-blivet1/po/bal.po | 
+ | [bo](/f25/language/bo) | 0 | 696 | 0.0 | /mnt/stockage/packages/f25/python-blivet1/po/bo.po | 
+ | [br](/f25/language/br) | 0 | 696 | 0.0 | /mnt/stockage/packages/f25/python-blivet1/po/br.po | 
+ | [brx](/f25/language/brx) | 0 | 707 | 0.0 | /mnt/stockage/packages/f25/python-blivet1/po/brx.po | 
+ | [eo](/f25/language/eo) | 0 | 696 | 0.0 | /mnt/stockage/packages/f25/python-blivet1/po/eo.po | 
+ | [error](/f25/language/error) | 0 | 2099 | 0.0 | /mnt/stockage/packages/f25/python-blivet1/po/wba.po/mnt/stockage/packages/f25/python-blivet1/po/kw@kkcor.po/mnt/stockage/packages/f25/python-blivet1/po/kw@uccor.po | 
+ | [km](/f25/language/km) | 0 | 696 | 0.0 | /mnt/stockage/packages/f25/python-blivet1/po/km.po | 
+ | [kw](/f25/language/kw) | 0 | 1392 | 0.0 | /mnt/stockage/packages/f25/python-blivet1/po/kw_GB.po/mnt/stockage/packages/f25/python-blivet1/po/kw.po | 
+ | [ky](/f25/language/ky) | 0 | 696 | 0.0 | /mnt/stockage/packages/f25/python-blivet1/po/ky.po | 
+ | [mn](/f25/language/mn) | 0 | 696 | 0.0 | /mnt/stockage/packages/f25/python-blivet1/po/mn.po | 
+ | [tw](/f25/language/tw) | 0 | 707 | 0.0 | /mnt/stockage/packages/f25/python-blivet1/po/tw.po | 
+ | [yo](/f25/language/yo) | 0 | 696 | 0.0 | /mnt/stockage/packages/f25/python-blivet1/po/yo.po | 
+ | [zh_Hant_HK](/f25/language/zh_Hant_HK) | 0 | 696 | 0.0 | /mnt/stockage/packages/f25/python-blivet1/po/zh_HK.po | 
 {.sortable}
 
 

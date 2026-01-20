@@ -18,8 +18,8 @@ The package ocaml-gettext (version 0.4.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f38/language/fr.md" >}}) | 578 | 587 | 98.5 | /mnt/stockage/packages/f38/ocaml-gettext/examples/po/fr.po/mnt/stockage/packages/f38/ocaml-gettext/po/fr.po/mnt/stockage/packages/f38/ocaml-gettext/test/testdata/utf8-fr.po | 
- | [ja]({{< ref "/f38/language/ja.md" >}}) | 193 | 563 | 34.3 | /mnt/stockage/packages/f38/ocaml-gettext/test/testdata/utf8-ja.po | 
+ | [fr](/f38/language/fr) | 578 | 587 | 98.5 | /mnt/stockage/packages/f38/ocaml-gettext/examples/po/fr.po/mnt/stockage/packages/f38/ocaml-gettext/po/fr.po/mnt/stockage/packages/f38/ocaml-gettext/test/testdata/utf8-fr.po | 
+ | [ja](/f38/language/ja) | 193 | 563 | 34.3 | /mnt/stockage/packages/f38/ocaml-gettext/test/testdata/utf8-ja.po | 
 {.sortable}
 
 

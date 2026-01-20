@@ -18,52 +18,52 @@ The package kf5-kblog (version 20.04.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [bs]({{< ref "/f41/language/bs.md" >}}) | 243 | 243 | 100.0 | /mnt/stockage/packages/f41/kf5-kblog/po/bs/libkblog5.po | 
- | [ca]({{< ref "/f41/language/ca.md" >}}) | 243 | 243 | 100.0 | /mnt/stockage/packages/f41/kf5-kblog/po/ca/libkblog5.po | 
- | [ca@valencia]({{< ref "/f41/language/ca@valencia.md" >}}) | 243 | 243 | 100.0 | /mnt/stockage/packages/f41/kf5-kblog/po/ca@valencia/libkblog5.po | 
- | [cs]({{< ref "/f41/language/cs.md" >}}) | 243 | 243 | 100.0 | /mnt/stockage/packages/f41/kf5-kblog/po/cs/libkblog5.po | 
- | [da]({{< ref "/f41/language/da.md" >}}) | 243 | 243 | 100.0 | /mnt/stockage/packages/f41/kf5-kblog/po/da/libkblog5.po | 
- | [de]({{< ref "/f41/language/de.md" >}}) | 243 | 243 | 100.0 | /mnt/stockage/packages/f41/kf5-kblog/po/de/libkblog5.po | 
- | [el]({{< ref "/f41/language/el.md" >}}) | 243 | 243 | 100.0 | /mnt/stockage/packages/f41/kf5-kblog/po/el/libkblog5.po | 
- | [en_GB]({{< ref "/f41/language/en_GB.md" >}}) | 243 | 243 | 100.0 | /mnt/stockage/packages/f41/kf5-kblog/po/en_GB/libkblog5.po | 
- | [es]({{< ref "/f41/language/es.md" >}}) | 243 | 243 | 100.0 | /mnt/stockage/packages/f41/kf5-kblog/po/es/libkblog5.po | 
- | [et]({{< ref "/f41/language/et.md" >}}) | 243 | 243 | 100.0 | /mnt/stockage/packages/f41/kf5-kblog/po/et/libkblog5.po | 
- | [fi]({{< ref "/f41/language/fi.md" >}}) | 243 | 243 | 100.0 | /mnt/stockage/packages/f41/kf5-kblog/po/fi/libkblog5.po | 
- | [fr]({{< ref "/f41/language/fr.md" >}}) | 243 | 243 | 100.0 | /mnt/stockage/packages/f41/kf5-kblog/po/fr/libkblog5.po | 
- | [ga]({{< ref "/f41/language/ga.md" >}}) | 243 | 243 | 100.0 | /mnt/stockage/packages/f41/kf5-kblog/po/ga/libkblog5.po | 
- | [gl]({{< ref "/f41/language/gl.md" >}}) | 243 | 243 | 100.0 | /mnt/stockage/packages/f41/kf5-kblog/po/gl/libkblog5.po | 
- | [hu]({{< ref "/f41/language/hu.md" >}}) | 243 | 243 | 100.0 | /mnt/stockage/packages/f41/kf5-kblog/po/hu/libkblog5.po | 
- | [ia]({{< ref "/f41/language/ia.md" >}}) | 243 | 243 | 100.0 | /mnt/stockage/packages/f41/kf5-kblog/po/ia/libkblog5.po | 
- | [it]({{< ref "/f41/language/it.md" >}}) | 243 | 243 | 100.0 | /mnt/stockage/packages/f41/kf5-kblog/po/it/libkblog5.po | 
- | [kk]({{< ref "/f41/language/kk.md" >}}) | 243 | 243 | 100.0 | /mnt/stockage/packages/f41/kf5-kblog/po/kk/libkblog5.po | 
- | [km]({{< ref "/f41/language/km.md" >}}) | 243 | 243 | 100.0 | /mnt/stockage/packages/f41/kf5-kblog/po/km/libkblog5.po | 
- | [ko]({{< ref "/f41/language/ko.md" >}}) | 243 | 243 | 100.0 | /mnt/stockage/packages/f41/kf5-kblog/po/ko/libkblog5.po | 
- | [lv]({{< ref "/f41/language/lv.md" >}}) | 243 | 243 | 100.0 | /mnt/stockage/packages/f41/kf5-kblog/po/lv/libkblog5.po | 
- | [nb_NO]({{< ref "/f41/language/nb_NO.md" >}}) | 243 | 243 | 100.0 | /mnt/stockage/packages/f41/kf5-kblog/po/nb/libkblog5.po | 
- | [nds]({{< ref "/f41/language/nds.md" >}}) | 243 | 243 | 100.0 | /mnt/stockage/packages/f41/kf5-kblog/po/nds/libkblog5.po | 
- | [nl]({{< ref "/f41/language/nl.md" >}}) | 243 | 243 | 100.0 | /mnt/stockage/packages/f41/kf5-kblog/po/nl/libkblog5.po | 
- | [nn]({{< ref "/f41/language/nn.md" >}}) | 243 | 243 | 100.0 | /mnt/stockage/packages/f41/kf5-kblog/po/nn/libkblog5.po | 
- | [pl]({{< ref "/f41/language/pl.md" >}}) | 243 | 243 | 100.0 | /mnt/stockage/packages/f41/kf5-kblog/po/pl/libkblog5.po | 
- | [pt]({{< ref "/f41/language/pt.md" >}}) | 243 | 243 | 100.0 | /mnt/stockage/packages/f41/kf5-kblog/po/pt/libkblog5.po | 
- | [pt_BR]({{< ref "/f41/language/pt_BR.md" >}}) | 243 | 243 | 100.0 | /mnt/stockage/packages/f41/kf5-kblog/po/pt_BR/libkblog5.po | 
- | [ru]({{< ref "/f41/language/ru.md" >}}) | 243 | 243 | 100.0 | /mnt/stockage/packages/f41/kf5-kblog/po/ru/libkblog5.po | 
- | [sk]({{< ref "/f41/language/sk.md" >}}) | 243 | 243 | 100.0 | /mnt/stockage/packages/f41/kf5-kblog/po/sk/libkblog5.po | 
- | [sl]({{< ref "/f41/language/sl.md" >}}) | 243 | 243 | 100.0 | /mnt/stockage/packages/f41/kf5-kblog/po/sl/libkblog5.po | 
- | [sr]({{< ref "/f41/language/sr.md" >}}) | 243 | 243 | 100.0 | /mnt/stockage/packages/f41/kf5-kblog/po/sr/libkblog5.po | 
- | [sv]({{< ref "/f41/language/sv.md" >}}) | 243 | 243 | 100.0 | /mnt/stockage/packages/f41/kf5-kblog/po/sv/libkblog5.po | 
- | [tr]({{< ref "/f41/language/tr.md" >}}) | 243 | 243 | 100.0 | /mnt/stockage/packages/f41/kf5-kblog/po/tr/libkblog5.po | 
- | [uk]({{< ref "/f41/language/uk.md" >}}) | 243 | 243 | 100.0 | /mnt/stockage/packages/f41/kf5-kblog/po/uk/libkblog5.po | 
- | [zh_Hans]({{< ref "/f41/language/zh_Hans.md" >}}) | 243 | 243 | 100.0 | /mnt/stockage/packages/f41/kf5-kblog/po/zh_CN/libkblog5.po | 
- | [zh_Hant]({{< ref "/f41/language/zh_Hant.md" >}}) | 243 | 243 | 100.0 | /mnt/stockage/packages/f41/kf5-kblog/po/zh_TW/libkblog5.po | 
- | [ja]({{< ref "/f41/language/ja.md" >}}) | 224 | 243 | 92.2 | /mnt/stockage/packages/f41/kf5-kblog/po/ja/libkblog5.po | 
- | [hi]({{< ref "/f41/language/hi.md" >}}) | 183 | 243 | 75.3 | /mnt/stockage/packages/f41/kf5-kblog/po/hi/libkblog5.po | 
- | [pa]({{< ref "/f41/language/pa.md" >}}) | 158 | 243 | 65.0 | /mnt/stockage/packages/f41/kf5-kblog/po/pa/libkblog5.po | 
- | [ar]({{< ref "/f41/language/ar.md" >}}) | 144 | 243 | 59.3 | /mnt/stockage/packages/f41/kf5-kblog/po/ar/libkblog5.po | 
- | [ro]({{< ref "/f41/language/ro.md" >}}) | 39 | 243 | 16.0 | /mnt/stockage/packages/f41/kf5-kblog/po/ro/libkblog5.po | 
- | [ug]({{< ref "/f41/language/ug.md" >}}) | 17 | 243 | 7.0 | /mnt/stockage/packages/f41/kf5-kblog/po/ug/libkblog5.po | 
- | [lt]({{< ref "/f41/language/lt.md" >}}) | 14 | 243 | 5.8 | /mnt/stockage/packages/f41/kf5-kblog/po/lt/libkblog5.po | 
- | [mr]({{< ref "/f41/language/mr.md" >}}) | 6 | 243 | 2.5 | /mnt/stockage/packages/f41/kf5-kblog/po/mr/libkblog5.po | 
- | [eo]({{< ref "/f41/language/eo.md" >}}) | 2 | 243 | 0.8 | /mnt/stockage/packages/f41/kf5-kblog/po/eo/libkblog5.po | 
+ | [bs](/f41/language/bs) | 243 | 243 | 100.0 | /mnt/stockage/packages/f41/kf5-kblog/po/bs/libkblog5.po | 
+ | [ca](/f41/language/ca) | 243 | 243 | 100.0 | /mnt/stockage/packages/f41/kf5-kblog/po/ca/libkblog5.po | 
+ | [ca@valencia](/f41/language/ca@valencia) | 243 | 243 | 100.0 | /mnt/stockage/packages/f41/kf5-kblog/po/ca@valencia/libkblog5.po | 
+ | [cs](/f41/language/cs) | 243 | 243 | 100.0 | /mnt/stockage/packages/f41/kf5-kblog/po/cs/libkblog5.po | 
+ | [da](/f41/language/da) | 243 | 243 | 100.0 | /mnt/stockage/packages/f41/kf5-kblog/po/da/libkblog5.po | 
+ | [de](/f41/language/de) | 243 | 243 | 100.0 | /mnt/stockage/packages/f41/kf5-kblog/po/de/libkblog5.po | 
+ | [el](/f41/language/el) | 243 | 243 | 100.0 | /mnt/stockage/packages/f41/kf5-kblog/po/el/libkblog5.po | 
+ | [en_GB](/f41/language/en_GB) | 243 | 243 | 100.0 | /mnt/stockage/packages/f41/kf5-kblog/po/en_GB/libkblog5.po | 
+ | [es](/f41/language/es) | 243 | 243 | 100.0 | /mnt/stockage/packages/f41/kf5-kblog/po/es/libkblog5.po | 
+ | [et](/f41/language/et) | 243 | 243 | 100.0 | /mnt/stockage/packages/f41/kf5-kblog/po/et/libkblog5.po | 
+ | [fi](/f41/language/fi) | 243 | 243 | 100.0 | /mnt/stockage/packages/f41/kf5-kblog/po/fi/libkblog5.po | 
+ | [fr](/f41/language/fr) | 243 | 243 | 100.0 | /mnt/stockage/packages/f41/kf5-kblog/po/fr/libkblog5.po | 
+ | [ga](/f41/language/ga) | 243 | 243 | 100.0 | /mnt/stockage/packages/f41/kf5-kblog/po/ga/libkblog5.po | 
+ | [gl](/f41/language/gl) | 243 | 243 | 100.0 | /mnt/stockage/packages/f41/kf5-kblog/po/gl/libkblog5.po | 
+ | [hu](/f41/language/hu) | 243 | 243 | 100.0 | /mnt/stockage/packages/f41/kf5-kblog/po/hu/libkblog5.po | 
+ | [ia](/f41/language/ia) | 243 | 243 | 100.0 | /mnt/stockage/packages/f41/kf5-kblog/po/ia/libkblog5.po | 
+ | [it](/f41/language/it) | 243 | 243 | 100.0 | /mnt/stockage/packages/f41/kf5-kblog/po/it/libkblog5.po | 
+ | [kk](/f41/language/kk) | 243 | 243 | 100.0 | /mnt/stockage/packages/f41/kf5-kblog/po/kk/libkblog5.po | 
+ | [km](/f41/language/km) | 243 | 243 | 100.0 | /mnt/stockage/packages/f41/kf5-kblog/po/km/libkblog5.po | 
+ | [ko](/f41/language/ko) | 243 | 243 | 100.0 | /mnt/stockage/packages/f41/kf5-kblog/po/ko/libkblog5.po | 
+ | [lv](/f41/language/lv) | 243 | 243 | 100.0 | /mnt/stockage/packages/f41/kf5-kblog/po/lv/libkblog5.po | 
+ | [nb_NO](/f41/language/nb_NO) | 243 | 243 | 100.0 | /mnt/stockage/packages/f41/kf5-kblog/po/nb/libkblog5.po | 
+ | [nds](/f41/language/nds) | 243 | 243 | 100.0 | /mnt/stockage/packages/f41/kf5-kblog/po/nds/libkblog5.po | 
+ | [nl](/f41/language/nl) | 243 | 243 | 100.0 | /mnt/stockage/packages/f41/kf5-kblog/po/nl/libkblog5.po | 
+ | [nn](/f41/language/nn) | 243 | 243 | 100.0 | /mnt/stockage/packages/f41/kf5-kblog/po/nn/libkblog5.po | 
+ | [pl](/f41/language/pl) | 243 | 243 | 100.0 | /mnt/stockage/packages/f41/kf5-kblog/po/pl/libkblog5.po | 
+ | [pt](/f41/language/pt) | 243 | 243 | 100.0 | /mnt/stockage/packages/f41/kf5-kblog/po/pt/libkblog5.po | 
+ | [pt_BR](/f41/language/pt_BR) | 243 | 243 | 100.0 | /mnt/stockage/packages/f41/kf5-kblog/po/pt_BR/libkblog5.po | 
+ | [ru](/f41/language/ru) | 243 | 243 | 100.0 | /mnt/stockage/packages/f41/kf5-kblog/po/ru/libkblog5.po | 
+ | [sk](/f41/language/sk) | 243 | 243 | 100.0 | /mnt/stockage/packages/f41/kf5-kblog/po/sk/libkblog5.po | 
+ | [sl](/f41/language/sl) | 243 | 243 | 100.0 | /mnt/stockage/packages/f41/kf5-kblog/po/sl/libkblog5.po | 
+ | [sr](/f41/language/sr) | 243 | 243 | 100.0 | /mnt/stockage/packages/f41/kf5-kblog/po/sr/libkblog5.po | 
+ | [sv](/f41/language/sv) | 243 | 243 | 100.0 | /mnt/stockage/packages/f41/kf5-kblog/po/sv/libkblog5.po | 
+ | [tr](/f41/language/tr) | 243 | 243 | 100.0 | /mnt/stockage/packages/f41/kf5-kblog/po/tr/libkblog5.po | 
+ | [uk](/f41/language/uk) | 243 | 243 | 100.0 | /mnt/stockage/packages/f41/kf5-kblog/po/uk/libkblog5.po | 
+ | [zh_Hans](/f41/language/zh_Hans) | 243 | 243 | 100.0 | /mnt/stockage/packages/f41/kf5-kblog/po/zh_CN/libkblog5.po | 
+ | [zh_Hant](/f41/language/zh_Hant) | 243 | 243 | 100.0 | /mnt/stockage/packages/f41/kf5-kblog/po/zh_TW/libkblog5.po | 
+ | [ja](/f41/language/ja) | 224 | 243 | 92.2 | /mnt/stockage/packages/f41/kf5-kblog/po/ja/libkblog5.po | 
+ | [hi](/f41/language/hi) | 183 | 243 | 75.3 | /mnt/stockage/packages/f41/kf5-kblog/po/hi/libkblog5.po | 
+ | [pa](/f41/language/pa) | 158 | 243 | 65.0 | /mnt/stockage/packages/f41/kf5-kblog/po/pa/libkblog5.po | 
+ | [ar](/f41/language/ar) | 144 | 243 | 59.3 | /mnt/stockage/packages/f41/kf5-kblog/po/ar/libkblog5.po | 
+ | [ro](/f41/language/ro) | 39 | 243 | 16.0 | /mnt/stockage/packages/f41/kf5-kblog/po/ro/libkblog5.po | 
+ | [ug](/f41/language/ug) | 17 | 243 | 7.0 | /mnt/stockage/packages/f41/kf5-kblog/po/ug/libkblog5.po | 
+ | [lt](/f41/language/lt) | 14 | 243 | 5.8 | /mnt/stockage/packages/f41/kf5-kblog/po/lt/libkblog5.po | 
+ | [mr](/f41/language/mr) | 6 | 243 | 2.5 | /mnt/stockage/packages/f41/kf5-kblog/po/mr/libkblog5.po | 
+ | [eo](/f41/language/eo) | 2 | 243 | 0.8 | /mnt/stockage/packages/f41/kf5-kblog/po/eo/libkblog5.po | 
 {.sortable}
 
 

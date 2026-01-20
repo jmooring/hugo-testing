@@ -38,19 +38,19 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [thunar-archive-plugin]({{< ref "/f31/package/thunar-archive-plugin.md" >}}) | 86 | 86 | 100.0 | Uzbek (Latin) (http://www.transifex.com/xfce/thunar-plugins/language/uz@Latn/) | 
- | [thunar-media-tags-plugin]({{< ref "/f31/package/thunar-media-tags-plugin.md" >}}) | 154 | 156 | 98.7 | Uzbek (Latin) (http://www.transifex.com/xfce/thunar-plugins/language/uz@Latn/) | 
- | [xfce4-battery-plugin]({{< ref "/f31/package/xfce4-battery-plugin.md" >}}) | 144 | 147 | 98.0 | Uzbek (Latin) (http://www.transifex.com/xfce/xfce-panel-plugins/language/uz@Latn/) | 
- | [garcon]({{< ref "/f31/package/garcon.md" >}}) | 106 | 122 | 86.9 | Uzbek (Latin) (http://www.transifex.com/xfce/garcon/language/uz@Latn/) | 
- | [xfce4-xkb-plugin]({{< ref "/f31/package/xfce4-xkb-plugin.md" >}}) | 34 | 48 | 70.8 | Uzbek (Latin) (http://www.transifex.com/xfce/xfce-panel-plugins/language/uz@Latn/) | 
- | [uget]({{< ref "/f31/package/uget.md" >}}) | 721 | 1085 | 66.5 | Uzbek (Latin) (http://www.transifex.com/uget/uget/language/uz@Latn/) | 
- | [modem-manager-gui]({{< ref "/f31/package/modem-manager-gui.md" >}}) | 1154 | 3264 | 35.4 | Uzbek (Latin) (http://www.transifex.com/ethereal/modem-manager-gui/language/uz@Latn/) | 
- | [synfig]({{< ref "/f31/package/synfig.md" >}}) | 73 | 4696 | 1.6 | Uzbek (Latin) (http://www.transifex.com/morevnaproject/synfig/language/uz%40Latn/) | 
- | [synfigstudio]({{< ref "/f31/package/synfigstudio.md" >}}) | 7 | 6564 | 0.1 | Uzbek (Latin) (http://www.transifex.com/morevnaproject/synfig/language/uz%40Latn/) | 
- | [calibre]({{< ref "/f31/package/calibre.md" >}}) | 21 | 160974 | 0.0 | Uzbek (Latin) (http://www.transifex.com/calibre/calibre/language/uz@Latn/) | 
- | [php-phpmyadmin-sql-parser]({{< ref "/f31/package/php-phpmyadmin-sql-parser.md" >}}) | 0 | 227 | 0.0 | Uzbek (latin) <https://hosted.weblate.org/projects/phpmyadmin/master/uz@latin/> | 
- | [php-phpmyadmin-sql-parser5]({{< ref "/f31/package/php-phpmyadmin-sql-parser5.md" >}}) | 0 | 268 | 0.0 | Uzbek (latin) <https://hosted.weblate.org/projects/phpmyadmin/master/uz@latin/> | 
- | [speedcrunch]({{< ref "/f31/package/speedcrunch.md" >}}) | 0 | 93 | 0.0 | Uzbek (Latin) (http://www.transifex.com/heldercorreia/speedcrunch/language/uz@Latn/) | 
+ | [thunar-archive-plugin](/f31/package/thunar-archive-plugin) | 86 | 86 | 100.0 | Uzbek (Latin) (http://www.transifex.com/xfce/thunar-plugins/language/uz@Latn/) | 
+ | [thunar-media-tags-plugin](/f31/package/thunar-media-tags-plugin) | 154 | 156 | 98.7 | Uzbek (Latin) (http://www.transifex.com/xfce/thunar-plugins/language/uz@Latn/) | 
+ | [xfce4-battery-plugin](/f31/package/xfce4-battery-plugin) | 144 | 147 | 98.0 | Uzbek (Latin) (http://www.transifex.com/xfce/xfce-panel-plugins/language/uz@Latn/) | 
+ | [garcon](/f31/package/garcon) | 106 | 122 | 86.9 | Uzbek (Latin) (http://www.transifex.com/xfce/garcon/language/uz@Latn/) | 
+ | [xfce4-xkb-plugin](/f31/package/xfce4-xkb-plugin) | 34 | 48 | 70.8 | Uzbek (Latin) (http://www.transifex.com/xfce/xfce-panel-plugins/language/uz@Latn/) | 
+ | [uget](/f31/package/uget) | 721 | 1085 | 66.5 | Uzbek (Latin) (http://www.transifex.com/uget/uget/language/uz@Latn/) | 
+ | [modem-manager-gui](/f31/package/modem-manager-gui) | 1154 | 3264 | 35.4 | Uzbek (Latin) (http://www.transifex.com/ethereal/modem-manager-gui/language/uz@Latn/) | 
+ | [synfig](/f31/package/synfig) | 73 | 4696 | 1.6 | Uzbek (Latin) (http://www.transifex.com/morevnaproject/synfig/language/uz%40Latn/) | 
+ | [synfigstudio](/f31/package/synfigstudio) | 7 | 6564 | 0.1 | Uzbek (Latin) (http://www.transifex.com/morevnaproject/synfig/language/uz%40Latn/) | 
+ | [calibre](/f31/package/calibre) | 21 | 160974 | 0.0 | Uzbek (Latin) (http://www.transifex.com/calibre/calibre/language/uz@Latn/) | 
+ | [php-phpmyadmin-sql-parser](/f31/package/php-phpmyadmin-sql-parser) | 0 | 227 | 0.0 | Uzbek (latin) <https://hosted.weblate.org/projects/phpmyadmin/master/uz@latin/> | 
+ | [php-phpmyadmin-sql-parser5](/f31/package/php-phpmyadmin-sql-parser5) | 0 | 268 | 0.0 | Uzbek (latin) <https://hosted.weblate.org/projects/phpmyadmin/master/uz@latin/> | 
+ | [speedcrunch](/f31/package/speedcrunch) | 0 | 93 | 0.0 | Uzbek (Latin) (http://www.transifex.com/heldercorreia/speedcrunch/language/uz@Latn/) | 
 {.sortable}
 
 

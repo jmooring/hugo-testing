@@ -39,7 +39,7 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [apcupsd]({{< ref "/f9/package/apcupsd.md" >}}) | 0 | 647 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [apcupsd](/f9/package/apcupsd) | 0 | 647 | 0.0 | LANGUAGE <LL@li.org> | 
 {.sortable}
 
 

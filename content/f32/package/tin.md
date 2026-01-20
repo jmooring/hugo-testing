@@ -18,17 +18,17 @@ The package tin (version 2.4.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [et]({{< ref "/f32/language/et.md" >}}) | 11156 | 11239 | 99.3 | /mnt/stockage/packages/f32/tin/po/et.po | 
- | [fr]({{< ref "/f32/language/fr.md" >}}) | 10976 | 11239 | 97.7 | /mnt/stockage/packages/f32/tin/po/fr.po | 
- | [tr]({{< ref "/f32/language/tr.md" >}}) | 10593 | 11239 | 94.3 | /mnt/stockage/packages/f32/tin/po/tr.po | 
- | [zh_Hans]({{< ref "/f32/language/zh_Hans.md" >}}) | 10345 | 11239 | 92.0 | /mnt/stockage/packages/f32/tin/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f32/language/zh_Hant.md" >}}) | 10345 | 11239 | 92.0 | /mnt/stockage/packages/f32/tin/po/zh_TW.po | 
- | [da]({{< ref "/f32/language/da.md" >}}) | 9454 | 11239 | 84.1 | /mnt/stockage/packages/f32/tin/po/da.po | 
- | [en_GB]({{< ref "/f32/language/en_GB.md" >}}) | 24076 | 34790 | 69.2 | /mnt/stockage/packages/f32/tin/doc/l10n/en_GB.po/mnt/stockage/packages/f32/tin/po/en_GB.po | 
- | [ru]({{< ref "/f32/language/ru.md" >}}) | 6739 | 11239 | 60.0 | /mnt/stockage/packages/f32/tin/po/ru.po | 
- | [de]({{< ref "/f32/language/de.md" >}}) | 20655 | 34790 | 59.4 | /mnt/stockage/packages/f32/tin/doc/l10n/de.po/mnt/stockage/packages/f32/tin/po/de.po | 
- | [sv]({{< ref "/f32/language/sv.md" >}}) | 1044 | 11239 | 9.3 | /mnt/stockage/packages/f32/tin/po/sv.po | 
- | [es]({{< ref "/f32/language/es.md" >}}) | 929 | 34790 | 2.7 | /mnt/stockage/packages/f32/tin/doc/l10n/es.po/mnt/stockage/packages/f32/tin/po/es.po | 
+ | [et](/f32/language/et) | 11156 | 11239 | 99.3 | /mnt/stockage/packages/f32/tin/po/et.po | 
+ | [fr](/f32/language/fr) | 10976 | 11239 | 97.7 | /mnt/stockage/packages/f32/tin/po/fr.po | 
+ | [tr](/f32/language/tr) | 10593 | 11239 | 94.3 | /mnt/stockage/packages/f32/tin/po/tr.po | 
+ | [zh_Hans](/f32/language/zh_Hans) | 10345 | 11239 | 92.0 | /mnt/stockage/packages/f32/tin/po/zh_CN.po | 
+ | [zh_Hant](/f32/language/zh_Hant) | 10345 | 11239 | 92.0 | /mnt/stockage/packages/f32/tin/po/zh_TW.po | 
+ | [da](/f32/language/da) | 9454 | 11239 | 84.1 | /mnt/stockage/packages/f32/tin/po/da.po | 
+ | [en_GB](/f32/language/en_GB) | 24076 | 34790 | 69.2 | /mnt/stockage/packages/f32/tin/doc/l10n/en_GB.po/mnt/stockage/packages/f32/tin/po/en_GB.po | 
+ | [ru](/f32/language/ru) | 6739 | 11239 | 60.0 | /mnt/stockage/packages/f32/tin/po/ru.po | 
+ | [de](/f32/language/de) | 20655 | 34790 | 59.4 | /mnt/stockage/packages/f32/tin/doc/l10n/de.po/mnt/stockage/packages/f32/tin/po/de.po | 
+ | [sv](/f32/language/sv) | 1044 | 11239 | 9.3 | /mnt/stockage/packages/f32/tin/po/sv.po | 
+ | [es](/f32/language/es) | 929 | 34790 | 2.7 | /mnt/stockage/packages/f32/tin/doc/l10n/es.po/mnt/stockage/packages/f32/tin/po/es.po | 
 {.sortable}
 
 

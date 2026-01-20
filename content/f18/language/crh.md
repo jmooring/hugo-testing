@@ -38,75 +38,75 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [alacarte]({{< ref "/f18/package/alacarte.md" >}}) | 42 | 42 | 100.0 | Qırımtatarca (Qırım Türkçesi) <tilde-birlik-tercime@lists.sourceforge.net> | 
- | [at-spi]({{< ref "/f18/package/at-spi.md" >}}) | 61 | 61 | 100.0 | QIRIMTATARCA (Qırım Türkçesi) <tilde-birlik-tercime@lists.sourceforge.net> | 
- | [baobab]({{< ref "/f18/package/baobab.md" >}}) | 549 | 549 | 100.0 | QIRIMTATARCA <tilde-birlik-meydan@lists.sourceforge.net> | 
- | [control-center]({{< ref "/f18/package/control-center.md" >}}) | 3072 | 3072 | 100.0 | QIRIMTATARCA (Qırım Türkçesi) <tilde-birlik-meydan@lists.sourceforge.net> | 
- | [ekiga]({{< ref "/f18/package/ekiga.md" >}}) | 4054 | 4054 | 100.0 | Qırımtatarca (Qırım Türkçesi) <tilde-birlik-tercime@lists.sourceforge.net> | 
- | [empathy]({{< ref "/f18/package/empathy.md" >}}) | 4348 | 4348 | 100.0 | QIRIMTATARCA <tilde-birlik-meydan@lists.sourceforge.net> | 
- | [gdm]({{< ref "/f18/package/gdm.md" >}}) | 968 | 968 | 100.0 | QIRIMTATARCA <tilde-birlik-meydan@lists.sourceforge.net> | 
- | [gedit]({{< ref "/f18/package/gedit.md" >}}) | 4351 | 4351 | 100.0 | QIRIMTATARCA <tilde-birlik-meydan@lists.sourceforge.net> | 
- | [gnome-applets]({{< ref "/f18/package/gnome-applets.md" >}}) | 3352 | 3352 | 100.0 | QIRIMTATARCA (Qırım Türkçesi) <tilde-birlik-tercime@lists.sourceforge.net> | 
- | [gnome-desktop]({{< ref "/f18/package/gnome-desktop.md" >}}) | 349 | 349 | 100.0 | Qırımtatarca (Qırım Türkçesi) <tilde-birlik-tercime@lists.sourceforge.net> | 
- | [gnome-desktop3]({{< ref "/f18/package/gnome-desktop3.md" >}}) | 235 | 235 | 100.0 | QIRIMTATARCA <tilde-birlik-meydan@lists.sourceforge.net> | 
- | [gnome-dictionary]({{< ref "/f18/package/gnome-dictionary.md" >}}) | 833 | 833 | 100.0 | QIRIMTATARCA <tilde-birlik-meydan@lists.sourceforge.net> | 
- | [gnome-icon-theme]({{< ref "/f18/package/gnome-icon-theme.md" >}}) | 20 | 20 | 100.0 | Qırımtatarca (Qırım Türkçesi) | 
- | [gnome-menus]({{< ref "/f18/package/gnome-menus.md" >}}) | 161 | 161 | 100.0 | QIRIMTATARCA (Qırım Türkçesi) <tilde-birlik-tercime@lists.sourceforge.net> | 
- | [gnome-panel]({{< ref "/f18/package/gnome-panel.md" >}}) | 3748 | 3748 | 100.0 | QIRIMTATARCA <tilde-birlik-meydan@lists.sourceforge.net> | 
- | [gnome-screensaver]({{< ref "/f18/package/gnome-screensaver.md" >}}) | 286 | 286 | 100.0 | QIRIMTATARCA <tilde-birlik-meydan@lists.sourceforge.net> | 
- | [gnome-screenshot]({{< ref "/f18/package/gnome-screenshot.md" >}}) | 339 | 339 | 100.0 | QIRIMTATARCA <tilde-birlik-meydan@lists.sourceforge.net> | 
- | [gnome-search-tool]({{< ref "/f18/package/gnome-search-tool.md" >}}) | 1359 | 1359 | 100.0 | QIRIMTATARCA <tilde-birlik-meydan@lists.sourceforge.net> | 
- | [gnome-session]({{< ref "/f18/package/gnome-session.md" >}}) | 475 | 475 | 100.0 | QIRIMTATARCA <tilde-birlik-meydan@lists.sourceforge.net> | 
- | [gnome-settings-daemon]({{< ref "/f18/package/gnome-settings-daemon.md" >}}) | 3943 | 3943 | 100.0 | QIRIMTATARCA (Qırım Türkçesi) <tilde-birlik-meydan@lists.sourceforge.net> | 
- | [gnome-system-log]({{< ref "/f18/package/gnome-system-log.md" >}}) | 522 | 522 | 100.0 | QIRIMTATARCA <tilde-birlik-meydan@lists.sourceforge.net> | 
- | [gnome-themes]({{< ref "/f18/package/gnome-themes.md" >}}) | 109 | 109 | 100.0 | Qırımtatarca (Qırım Türkçesi) | 
- | [libgnome]({{< ref "/f18/package/libgnome.md" >}}) | 1773 | 1773 | 100.0 | QIRIMTATARCA (Qırım Türkçesi) <tilde-birlik-tercime@lists.sourceforge.net> | 
- | [libgnomecanvas]({{< ref "/f18/package/libgnomecanvas.md" >}}) | 378 | 378 | 100.0 | Qırımtatarca (Qırım Türkçesi) <tilde-birlik-tercime@lists.sourceforge.net> | 
- | [libgnomeui]({{< ref "/f18/package/libgnomeui.md" >}}) | 1226 | 1226 | 100.0 | Qırımtatarca (Qırım Türkçesi) <tilde-birlik-tercime@lists.sourceforge.net> | 
- | [libgweather]({{< ref "/f18/package/libgweather.md" >}}) | 6090 | 6090 | 100.0 | QIRIMTATARCA (Qırım Türkçesi) <tilde-birlik-tercime@lists.sourceforge.net> | 
- | [libmate]({{< ref "/f18/package/libmate.md" >}}) | 1773 | 1773 | 100.0 | LANGUAGE <LL@li.org> | 
- | [libmatecanvas]({{< ref "/f18/package/libmatecanvas.md" >}}) | 378 | 378 | 100.0 | LANGUAGE <LL@li.org> | 
- | [libmateui]({{< ref "/f18/package/libmateui.md" >}}) | 1223 | 1223 | 100.0 | LANGUAGE <LL@li.org> | 
- | [libmatewnck]({{< ref "/f18/package/libmatewnck.md" >}}) | 1124 | 1124 | 100.0 | Qırımtatarca (Qırım Türkçesi) <tilde-birlik-tercime@lists.sourceforge.net> | 
- | [libwnck]({{< ref "/f18/package/libwnck.md" >}}) | 1124 | 1124 | 100.0 | Qırımtatarca (Qırım Türkçesi) <tilde-birlik-tercime@lists.sourceforge.net> | 
- | [libwnck3]({{< ref "/f18/package/libwnck3.md" >}}) | 1084 | 1084 | 100.0 | QIRIMTATARCA <tilde-birlik-meydan@lists.sourceforge.net> | 
- | [mate-icon-theme]({{< ref "/f18/package/mate-icon-theme.md" >}}) | 20 | 20 | 100.0 | Qırımtatarca (Qırım Türkçesi) | 
- | [mate-menu-editor]({{< ref "/f18/package/mate-menu-editor.md" >}}) | 42 | 42 | 100.0 | LANGUAGE <LL@li.org> | 
- | [mate-menus]({{< ref "/f18/package/mate-menus.md" >}}) | 161 | 161 | 100.0 | QIRIMTATARCA (Qırım Türkçesi) <tilde-birlik-tercime@lists.sourceforge.net> | 
- | [mate-screensaver]({{< ref "/f18/package/mate-screensaver.md" >}}) | 989 | 989 | 100.0 | Qırımtatarca (Qırım Türkçesi) <tilde-birlik-tercime@lists.sourceforge.net> | 
- | [mate-session-manager]({{< ref "/f18/package/mate-session-manager.md" >}}) | 638 | 638 | 100.0 | Qırımtatarca (Qırım Türkçesi) <tilde-birlik-tercime@lists.sourceforge.net> | 
- | [mate-utils]({{< ref "/f18/package/mate-utils.md" >}}) | 3921 | 3921 | 100.0 | LANGUAGE <LL@li.org> | 
- | [metacity]({{< ref "/f18/package/metacity.md" >}}) | 2040 | 2040 | 100.0 | QIRIMTATARCA <tilde-birlik-meydan@lists.sourceforge.net> | 
- | [nautilus]({{< ref "/f18/package/nautilus.md" >}}) | 7403 | 7403 | 100.0 | QIRIMTATARCA <tilde-birlik-meydan@lists.sourceforge.net> | 
- | [nemo]({{< ref "/f18/package/nemo.md" >}}) | 7403 | 7403 | 100.0 | QIRIMTATARCA <tilde-birlik-meydan@lists.sourceforge.net> | 
- | [network-manager-applet]({{< ref "/f18/package/network-manager-applet.md" >}}) | 2554 | 2554 | 100.0 | QIRIMTATARCA <tilde-birlik-meydan@lists.sourceforge.net> | 
- | [pessulus]({{< ref "/f18/package/pessulus.md" >}}) | 130 | 130 | 100.0 | Qırımtatarca (Qırım Türkçesi) <tilde-birlik-tercime@lists.sourceforge.net> | 
- | [totem]({{< ref "/f18/package/totem.md" >}}) | 2460 | 2460 | 100.0 | QIRIMTATARCA <tilde-birlik-meydan@lists.sourceforge.net> | 
- | [xdg-user-dirs]({{< ref "/f18/package/xdg-user-dirs.md" >}}) | 28 | 28 | 100.0 | Crimean Tatar (Crimean Turkish) <tilde-birlik-tercime@lists.sourceforge.net> | 
- | [xdg-user-dirs-gtk]({{< ref "/f18/package/xdg-user-dirs-gtk.md" >}}) | 81 | 81 | 100.0 | Qırımtatarca (Qırım Türkçesi) <tilde-birlik-tercime@lists.sourceforge.net> | 
- | [yelp]({{< ref "/f18/package/yelp.md" >}}) | 1094 | 1094 | 100.0 | QIRIMTATARCA (Qırım Türkçesi) <tilde-birlik-tercime@lists.sourceforge.net> | 
- | [xkeyboard-config]({{< ref "/f18/package/xkeyboard-config.md" >}}) | 1915 | 1921 | 99.7 | Crimean Tatar (Crimean Turkish) <tilde-birlik-tercime@lists.sourceforge.net> | 
- | [mate-text-editor]({{< ref "/f18/package/mate-text-editor.md" >}}) | 4955 | 4986 | 99.4 | LANGUAGE <LL@li.org> | 
- | [libmateweather]({{< ref "/f18/package/libmateweather.md" >}}) | 6009 | 6112 | 98.3 | LANGUAGE <LL@li.org> | 
- | [mate-window-manager]({{< ref "/f18/package/mate-window-manager.md" >}}) | 2076 | 2116 | 98.1 | LANGUAGE <LL@li.org> | 
- | [mate-panel]({{< ref "/f18/package/mate-panel.md" >}}) | 3985 | 4237 | 94.1 | LANGUAGE <LL@li.org> | 
- | [gtk3]({{< ref "/f18/package/gtk3.md" >}}) | 11716 | 12494 | 93.8 | QIRIMTATARCA (Qırım Türkçesi) <tilde-birlik-meydan@lists.sourceforge.net> | 
- | [mingw-gtk3]({{< ref "/f18/package/mingw-gtk3.md" >}}) | 11716 | 12494 | 93.8 | QIRIMTATARCA (Qırım Türkçesi) <tilde-birlik-meydan@lists.sourceforge.net> | 
- | [gtk2]({{< ref "/f18/package/gtk2.md" >}}) | 12813 | 13704 | 93.5 | Qırımtatarca (Qırım Türkçesi) <tilde-birlik-tercime@lists.sourceforge.net> | 
- | [mingw-gtk2]({{< ref "/f18/package/mingw-gtk2.md" >}}) | 12813 | 13704 | 93.5 | Qırımtatarca (Qırım Türkçesi) <tilde-birlik-tercime@lists.sourceforge.net> | 
- | [gdk-pixbuf2]({{< ref "/f18/package/gdk-pixbuf2.md" >}}) | 1199 | 1354 | 88.6 | QIRIMTATARCA (Qırım Türkçesi) <tilde-birlik-tercime@lists.sourceforge.net> | 
- | [mingw-gdk-pixbuf]({{< ref "/f18/package/mingw-gdk-pixbuf.md" >}}) | 1199 | 1354 | 88.6 | QIRIMTATARCA (Qırım Türkçesi) <tilde-birlik-tercime@lists.sourceforge.net> | 
- | [mate-themes]({{< ref "/f18/package/mate-themes.md" >}}) | 96 | 109 | 88.1 | LANGUAGE <LL@li.org> | 
- | [mate-applets]({{< ref "/f18/package/mate-applets.md" >}}) | 2880 | 3299 | 87.3 | LANGUAGE <LL@li.org> | 
- | [mate-control-center]({{< ref "/f18/package/mate-control-center.md" >}}) | 2272 | 2610 | 87.0 | LANGUAGE <LL@li.org> | 
- | [mate-file-manager]({{< ref "/f18/package/mate-file-manager.md" >}}) | 7710 | 9086 | 84.9 | LANGUAGE <LL@li.org> | 
- | [calibre]({{< ref "/f18/package/calibre.md" >}}) | 8251 | 10496 | 78.6 | Crimean Tatar <tilde-birlik-tercime@lists.sourceforge.net> | 
- | [gedit-plugins]({{< ref "/f18/package/gedit-plugins.md" >}}) | 831 | 1205 | 69.0 | QIRIMTATARCA (Qırım Türkçesi) <tilde-birlik-tercime@lists.sourceforge.net> | 
- | [mate-settings-daemon]({{< ref "/f18/package/mate-settings-daemon.md" >}}) | 1193 | 1735 | 68.8 | LANGUAGE <LL@li.org> | 
- | [drwright]({{< ref "/f18/package/drwright.md" >}}) | 124 | 191 | 64.9 | QIRIMTATARCA (Qırım Türkçesi) <tilde-birlik-tercime@lists.sourceforge.net> | 
- | [iso-codes]({{< ref "/f18/package/iso-codes.md" >}}) | 9945 | 23047 | 43.2 | Crimean Tatar <tilde-birlik-tercime@lists.sourceforge.net> | 
- | [mate-desktop]({{< ref "/f18/package/mate-desktop.md" >}}) | 170 | 407 | 41.8 | LANGUAGE <LL@li.org> | 
- | [gnome-font-viewer]({{< ref "/f18/package/gnome-font-viewer.md" >}}) | 0 | 32 | 0.0 | QIRIMTATARCA (Qırım Türkçesi) <tilde-birlik-tercime@lists.sourceforge.net> | 
+ | [alacarte](/f18/package/alacarte) | 42 | 42 | 100.0 | Qırımtatarca (Qırım Türkçesi) <tilde-birlik-tercime@lists.sourceforge.net> | 
+ | [at-spi](/f18/package/at-spi) | 61 | 61 | 100.0 | QIRIMTATARCA (Qırım Türkçesi) <tilde-birlik-tercime@lists.sourceforge.net> | 
+ | [baobab](/f18/package/baobab) | 549 | 549 | 100.0 | QIRIMTATARCA <tilde-birlik-meydan@lists.sourceforge.net> | 
+ | [control-center](/f18/package/control-center) | 3072 | 3072 | 100.0 | QIRIMTATARCA (Qırım Türkçesi) <tilde-birlik-meydan@lists.sourceforge.net> | 
+ | [ekiga](/f18/package/ekiga) | 4054 | 4054 | 100.0 | Qırımtatarca (Qırım Türkçesi) <tilde-birlik-tercime@lists.sourceforge.net> | 
+ | [empathy](/f18/package/empathy) | 4348 | 4348 | 100.0 | QIRIMTATARCA <tilde-birlik-meydan@lists.sourceforge.net> | 
+ | [gdm](/f18/package/gdm) | 968 | 968 | 100.0 | QIRIMTATARCA <tilde-birlik-meydan@lists.sourceforge.net> | 
+ | [gedit](/f18/package/gedit) | 4351 | 4351 | 100.0 | QIRIMTATARCA <tilde-birlik-meydan@lists.sourceforge.net> | 
+ | [gnome-applets](/f18/package/gnome-applets) | 3352 | 3352 | 100.0 | QIRIMTATARCA (Qırım Türkçesi) <tilde-birlik-tercime@lists.sourceforge.net> | 
+ | [gnome-desktop](/f18/package/gnome-desktop) | 349 | 349 | 100.0 | Qırımtatarca (Qırım Türkçesi) <tilde-birlik-tercime@lists.sourceforge.net> | 
+ | [gnome-desktop3](/f18/package/gnome-desktop3) | 235 | 235 | 100.0 | QIRIMTATARCA <tilde-birlik-meydan@lists.sourceforge.net> | 
+ | [gnome-dictionary](/f18/package/gnome-dictionary) | 833 | 833 | 100.0 | QIRIMTATARCA <tilde-birlik-meydan@lists.sourceforge.net> | 
+ | [gnome-icon-theme](/f18/package/gnome-icon-theme) | 20 | 20 | 100.0 | Qırımtatarca (Qırım Türkçesi) | 
+ | [gnome-menus](/f18/package/gnome-menus) | 161 | 161 | 100.0 | QIRIMTATARCA (Qırım Türkçesi) <tilde-birlik-tercime@lists.sourceforge.net> | 
+ | [gnome-panel](/f18/package/gnome-panel) | 3748 | 3748 | 100.0 | QIRIMTATARCA <tilde-birlik-meydan@lists.sourceforge.net> | 
+ | [gnome-screensaver](/f18/package/gnome-screensaver) | 286 | 286 | 100.0 | QIRIMTATARCA <tilde-birlik-meydan@lists.sourceforge.net> | 
+ | [gnome-screenshot](/f18/package/gnome-screenshot) | 339 | 339 | 100.0 | QIRIMTATARCA <tilde-birlik-meydan@lists.sourceforge.net> | 
+ | [gnome-search-tool](/f18/package/gnome-search-tool) | 1359 | 1359 | 100.0 | QIRIMTATARCA <tilde-birlik-meydan@lists.sourceforge.net> | 
+ | [gnome-session](/f18/package/gnome-session) | 475 | 475 | 100.0 | QIRIMTATARCA <tilde-birlik-meydan@lists.sourceforge.net> | 
+ | [gnome-settings-daemon](/f18/package/gnome-settings-daemon) | 3943 | 3943 | 100.0 | QIRIMTATARCA (Qırım Türkçesi) <tilde-birlik-meydan@lists.sourceforge.net> | 
+ | [gnome-system-log](/f18/package/gnome-system-log) | 522 | 522 | 100.0 | QIRIMTATARCA <tilde-birlik-meydan@lists.sourceforge.net> | 
+ | [gnome-themes](/f18/package/gnome-themes) | 109 | 109 | 100.0 | Qırımtatarca (Qırım Türkçesi) | 
+ | [libgnome](/f18/package/libgnome) | 1773 | 1773 | 100.0 | QIRIMTATARCA (Qırım Türkçesi) <tilde-birlik-tercime@lists.sourceforge.net> | 
+ | [libgnomecanvas](/f18/package/libgnomecanvas) | 378 | 378 | 100.0 | Qırımtatarca (Qırım Türkçesi) <tilde-birlik-tercime@lists.sourceforge.net> | 
+ | [libgnomeui](/f18/package/libgnomeui) | 1226 | 1226 | 100.0 | Qırımtatarca (Qırım Türkçesi) <tilde-birlik-tercime@lists.sourceforge.net> | 
+ | [libgweather](/f18/package/libgweather) | 6090 | 6090 | 100.0 | QIRIMTATARCA (Qırım Türkçesi) <tilde-birlik-tercime@lists.sourceforge.net> | 
+ | [libmate](/f18/package/libmate) | 1773 | 1773 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [libmatecanvas](/f18/package/libmatecanvas) | 378 | 378 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [libmateui](/f18/package/libmateui) | 1223 | 1223 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [libmatewnck](/f18/package/libmatewnck) | 1124 | 1124 | 100.0 | Qırımtatarca (Qırım Türkçesi) <tilde-birlik-tercime@lists.sourceforge.net> | 
+ | [libwnck](/f18/package/libwnck) | 1124 | 1124 | 100.0 | Qırımtatarca (Qırım Türkçesi) <tilde-birlik-tercime@lists.sourceforge.net> | 
+ | [libwnck3](/f18/package/libwnck3) | 1084 | 1084 | 100.0 | QIRIMTATARCA <tilde-birlik-meydan@lists.sourceforge.net> | 
+ | [mate-icon-theme](/f18/package/mate-icon-theme) | 20 | 20 | 100.0 | Qırımtatarca (Qırım Türkçesi) | 
+ | [mate-menu-editor](/f18/package/mate-menu-editor) | 42 | 42 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [mate-menus](/f18/package/mate-menus) | 161 | 161 | 100.0 | QIRIMTATARCA (Qırım Türkçesi) <tilde-birlik-tercime@lists.sourceforge.net> | 
+ | [mate-screensaver](/f18/package/mate-screensaver) | 989 | 989 | 100.0 | Qırımtatarca (Qırım Türkçesi) <tilde-birlik-tercime@lists.sourceforge.net> | 
+ | [mate-session-manager](/f18/package/mate-session-manager) | 638 | 638 | 100.0 | Qırımtatarca (Qırım Türkçesi) <tilde-birlik-tercime@lists.sourceforge.net> | 
+ | [mate-utils](/f18/package/mate-utils) | 3921 | 3921 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [metacity](/f18/package/metacity) | 2040 | 2040 | 100.0 | QIRIMTATARCA <tilde-birlik-meydan@lists.sourceforge.net> | 
+ | [nautilus](/f18/package/nautilus) | 7403 | 7403 | 100.0 | QIRIMTATARCA <tilde-birlik-meydan@lists.sourceforge.net> | 
+ | [nemo](/f18/package/nemo) | 7403 | 7403 | 100.0 | QIRIMTATARCA <tilde-birlik-meydan@lists.sourceforge.net> | 
+ | [network-manager-applet](/f18/package/network-manager-applet) | 2554 | 2554 | 100.0 | QIRIMTATARCA <tilde-birlik-meydan@lists.sourceforge.net> | 
+ | [pessulus](/f18/package/pessulus) | 130 | 130 | 100.0 | Qırımtatarca (Qırım Türkçesi) <tilde-birlik-tercime@lists.sourceforge.net> | 
+ | [totem](/f18/package/totem) | 2460 | 2460 | 100.0 | QIRIMTATARCA <tilde-birlik-meydan@lists.sourceforge.net> | 
+ | [xdg-user-dirs](/f18/package/xdg-user-dirs) | 28 | 28 | 100.0 | Crimean Tatar (Crimean Turkish) <tilde-birlik-tercime@lists.sourceforge.net> | 
+ | [xdg-user-dirs-gtk](/f18/package/xdg-user-dirs-gtk) | 81 | 81 | 100.0 | Qırımtatarca (Qırım Türkçesi) <tilde-birlik-tercime@lists.sourceforge.net> | 
+ | [yelp](/f18/package/yelp) | 1094 | 1094 | 100.0 | QIRIMTATARCA (Qırım Türkçesi) <tilde-birlik-tercime@lists.sourceforge.net> | 
+ | [xkeyboard-config](/f18/package/xkeyboard-config) | 1915 | 1921 | 99.7 | Crimean Tatar (Crimean Turkish) <tilde-birlik-tercime@lists.sourceforge.net> | 
+ | [mate-text-editor](/f18/package/mate-text-editor) | 4955 | 4986 | 99.4 | LANGUAGE <LL@li.org> | 
+ | [libmateweather](/f18/package/libmateweather) | 6009 | 6112 | 98.3 | LANGUAGE <LL@li.org> | 
+ | [mate-window-manager](/f18/package/mate-window-manager) | 2076 | 2116 | 98.1 | LANGUAGE <LL@li.org> | 
+ | [mate-panel](/f18/package/mate-panel) | 3985 | 4237 | 94.1 | LANGUAGE <LL@li.org> | 
+ | [gtk3](/f18/package/gtk3) | 11716 | 12494 | 93.8 | QIRIMTATARCA (Qırım Türkçesi) <tilde-birlik-meydan@lists.sourceforge.net> | 
+ | [mingw-gtk3](/f18/package/mingw-gtk3) | 11716 | 12494 | 93.8 | QIRIMTATARCA (Qırım Türkçesi) <tilde-birlik-meydan@lists.sourceforge.net> | 
+ | [gtk2](/f18/package/gtk2) | 12813 | 13704 | 93.5 | Qırımtatarca (Qırım Türkçesi) <tilde-birlik-tercime@lists.sourceforge.net> | 
+ | [mingw-gtk2](/f18/package/mingw-gtk2) | 12813 | 13704 | 93.5 | Qırımtatarca (Qırım Türkçesi) <tilde-birlik-tercime@lists.sourceforge.net> | 
+ | [gdk-pixbuf2](/f18/package/gdk-pixbuf2) | 1199 | 1354 | 88.6 | QIRIMTATARCA (Qırım Türkçesi) <tilde-birlik-tercime@lists.sourceforge.net> | 
+ | [mingw-gdk-pixbuf](/f18/package/mingw-gdk-pixbuf) | 1199 | 1354 | 88.6 | QIRIMTATARCA (Qırım Türkçesi) <tilde-birlik-tercime@lists.sourceforge.net> | 
+ | [mate-themes](/f18/package/mate-themes) | 96 | 109 | 88.1 | LANGUAGE <LL@li.org> | 
+ | [mate-applets](/f18/package/mate-applets) | 2880 | 3299 | 87.3 | LANGUAGE <LL@li.org> | 
+ | [mate-control-center](/f18/package/mate-control-center) | 2272 | 2610 | 87.0 | LANGUAGE <LL@li.org> | 
+ | [mate-file-manager](/f18/package/mate-file-manager) | 7710 | 9086 | 84.9 | LANGUAGE <LL@li.org> | 
+ | [calibre](/f18/package/calibre) | 8251 | 10496 | 78.6 | Crimean Tatar <tilde-birlik-tercime@lists.sourceforge.net> | 
+ | [gedit-plugins](/f18/package/gedit-plugins) | 831 | 1205 | 69.0 | QIRIMTATARCA (Qırım Türkçesi) <tilde-birlik-tercime@lists.sourceforge.net> | 
+ | [mate-settings-daemon](/f18/package/mate-settings-daemon) | 1193 | 1735 | 68.8 | LANGUAGE <LL@li.org> | 
+ | [drwright](/f18/package/drwright) | 124 | 191 | 64.9 | QIRIMTATARCA (Qırım Türkçesi) <tilde-birlik-tercime@lists.sourceforge.net> | 
+ | [iso-codes](/f18/package/iso-codes) | 9945 | 23047 | 43.2 | Crimean Tatar <tilde-birlik-tercime@lists.sourceforge.net> | 
+ | [mate-desktop](/f18/package/mate-desktop) | 170 | 407 | 41.8 | LANGUAGE <LL@li.org> | 
+ | [gnome-font-viewer](/f18/package/gnome-font-viewer) | 0 | 32 | 0.0 | QIRIMTATARCA (Qırım Türkçesi) <tilde-birlik-tercime@lists.sourceforge.net> | 
 {.sortable}
 
 

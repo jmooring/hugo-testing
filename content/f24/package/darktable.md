@@ -18,23 +18,23 @@ The package darktable (version 2.2.5):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f24/language/ca.md" >}}) | 9557 | 9557 | 100.0 | /mnt/stockage/packages/f24/darktable/po/ca.po | 
- | [cs]({{< ref "/f24/language/cs.md" >}}) | 9085 | 9085 | 100.0 | /mnt/stockage/packages/f24/darktable/po/cs.po | 
- | [da]({{< ref "/f24/language/da.md" >}}) | 9469 | 9469 | 100.0 | /mnt/stockage/packages/f24/darktable/po/da.po | 
- | [de]({{< ref "/f24/language/de.md" >}}) | 11690 | 11690 | 100.0 | /mnt/stockage/packages/f24/darktable/doc/man/po/de.po/mnt/stockage/packages/f24/darktable/po/de.po | 
- | [es]({{< ref "/f24/language/es.md" >}}) | 11582 | 11582 | 100.0 | /mnt/stockage/packages/f24/darktable/doc/man/po/es.po/mnt/stockage/packages/f24/darktable/po/es.po | 
- | [he_IL]({{< ref "/f24/language/he_IL.md" >}}) | 9469 | 9469 | 100.0 | /mnt/stockage/packages/f24/darktable/po/he.po | 
- | [hu]({{< ref "/f24/language/hu.md" >}}) | 9469 | 9469 | 100.0 | /mnt/stockage/packages/f24/darktable/po/hu.po | 
- | [it]({{< ref "/f24/language/it.md" >}}) | 9452 | 9452 | 100.0 | /mnt/stockage/packages/f24/darktable/po/it.po | 
- | [ja]({{< ref "/f24/language/ja.md" >}}) | 9469 | 9469 | 100.0 | /mnt/stockage/packages/f24/darktable/po/ja.po | 
- | [nl]({{< ref "/f24/language/nl.md" >}}) | 9469 | 9469 | 100.0 | /mnt/stockage/packages/f24/darktable/po/nl.po | 
- | [uk]({{< ref "/f24/language/uk.md" >}}) | 9469 | 9469 | 100.0 | /mnt/stockage/packages/f24/darktable/po/uk.po | 
- | [fr]({{< ref "/f24/language/fr.md" >}}) | 11494 | 11496 | 100.0 | /mnt/stockage/packages/f24/darktable/doc/man/po/fr.po/mnt/stockage/packages/f24/darktable/po/fr.po | 
- | [sl]({{< ref "/f24/language/sl.md" >}}) | 9466 | 9469 | 100.0 | /mnt/stockage/packages/f24/darktable/po/sl.po | 
- | [sv]({{< ref "/f24/language/sv.md" >}}) | 9466 | 9469 | 100.0 | /mnt/stockage/packages/f24/darktable/po/sv.po | 
- | [pl]({{< ref "/f24/language/pl.md" >}}) | 9331 | 9469 | 98.5 | /mnt/stockage/packages/f24/darktable/po/pl.po | 
- | [sk]({{< ref "/f24/language/sk.md" >}}) | 8772 | 8927 | 98.3 | /mnt/stockage/packages/f24/darktable/po/sk.po | 
- | [ru]({{< ref "/f24/language/ru.md" >}}) | 7779 | 9469 | 82.2 | /mnt/stockage/packages/f24/darktable/po/ru.po | 
+ | [ca](/f24/language/ca) | 9557 | 9557 | 100.0 | /mnt/stockage/packages/f24/darktable/po/ca.po | 
+ | [cs](/f24/language/cs) | 9085 | 9085 | 100.0 | /mnt/stockage/packages/f24/darktable/po/cs.po | 
+ | [da](/f24/language/da) | 9469 | 9469 | 100.0 | /mnt/stockage/packages/f24/darktable/po/da.po | 
+ | [de](/f24/language/de) | 11690 | 11690 | 100.0 | /mnt/stockage/packages/f24/darktable/doc/man/po/de.po/mnt/stockage/packages/f24/darktable/po/de.po | 
+ | [es](/f24/language/es) | 11582 | 11582 | 100.0 | /mnt/stockage/packages/f24/darktable/doc/man/po/es.po/mnt/stockage/packages/f24/darktable/po/es.po | 
+ | [he_IL](/f24/language/he_IL) | 9469 | 9469 | 100.0 | /mnt/stockage/packages/f24/darktable/po/he.po | 
+ | [hu](/f24/language/hu) | 9469 | 9469 | 100.0 | /mnt/stockage/packages/f24/darktable/po/hu.po | 
+ | [it](/f24/language/it) | 9452 | 9452 | 100.0 | /mnt/stockage/packages/f24/darktable/po/it.po | 
+ | [ja](/f24/language/ja) | 9469 | 9469 | 100.0 | /mnt/stockage/packages/f24/darktable/po/ja.po | 
+ | [nl](/f24/language/nl) | 9469 | 9469 | 100.0 | /mnt/stockage/packages/f24/darktable/po/nl.po | 
+ | [uk](/f24/language/uk) | 9469 | 9469 | 100.0 | /mnt/stockage/packages/f24/darktable/po/uk.po | 
+ | [fr](/f24/language/fr) | 11494 | 11496 | 100.0 | /mnt/stockage/packages/f24/darktable/doc/man/po/fr.po/mnt/stockage/packages/f24/darktable/po/fr.po | 
+ | [sl](/f24/language/sl) | 9466 | 9469 | 100.0 | /mnt/stockage/packages/f24/darktable/po/sl.po | 
+ | [sv](/f24/language/sv) | 9466 | 9469 | 100.0 | /mnt/stockage/packages/f24/darktable/po/sv.po | 
+ | [pl](/f24/language/pl) | 9331 | 9469 | 98.5 | /mnt/stockage/packages/f24/darktable/po/pl.po | 
+ | [sk](/f24/language/sk) | 8772 | 8927 | 98.3 | /mnt/stockage/packages/f24/darktable/po/sk.po | 
+ | [ru](/f24/language/ru) | 7779 | 9469 | 82.2 | /mnt/stockage/packages/f24/darktable/po/ru.po | 
 {.sortable}
 
 

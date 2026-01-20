@@ -18,14 +18,14 @@ The package audacious-plugins (version 1.3.5):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f7/language/ca.md" >}}) | 1695 | 1695 | 100.0 | /mnt/stockage/packages/f7/audacious-plugins/po/ca.po | 
- | [cs]({{< ref "/f7/language/cs.md" >}}) | 4131 | 4131 | 100.0 | /mnt/stockage/packages/f7/audacious-plugins/po/cs.po | 
- | [ja]({{< ref "/f7/language/ja.md" >}}) | 4131 | 4131 | 100.0 | /mnt/stockage/packages/f7/audacious-plugins/po/ja.po | 
- | [sk]({{< ref "/f7/language/sk.md" >}}) | 4131 | 4131 | 100.0 | /mnt/stockage/packages/f7/audacious-plugins/po/sk.po | 
- | [tr]({{< ref "/f7/language/tr.md" >}}) | 3253 | 4131 | 78.7 | /mnt/stockage/packages/f7/audacious-plugins/po/tr.po | 
- | [cy]({{< ref "/f7/language/cy.md" >}}) | 1915 | 4131 | 46.4 | /mnt/stockage/packages/f7/audacious-plugins/po/cy.po | 
- | [ru]({{< ref "/f7/language/ru.md" >}}) | 1574 | 4131 | 38.1 | /mnt/stockage/packages/f7/audacious-plugins/po/ru.po | 
- | [de]({{< ref "/f7/language/de.md" >}}) | 215 | 4131 | 5.2 | /mnt/stockage/packages/f7/audacious-plugins/po/de.po | 
+ | [ca](/f7/language/ca) | 1695 | 1695 | 100.0 | /mnt/stockage/packages/f7/audacious-plugins/po/ca.po | 
+ | [cs](/f7/language/cs) | 4131 | 4131 | 100.0 | /mnt/stockage/packages/f7/audacious-plugins/po/cs.po | 
+ | [ja](/f7/language/ja) | 4131 | 4131 | 100.0 | /mnt/stockage/packages/f7/audacious-plugins/po/ja.po | 
+ | [sk](/f7/language/sk) | 4131 | 4131 | 100.0 | /mnt/stockage/packages/f7/audacious-plugins/po/sk.po | 
+ | [tr](/f7/language/tr) | 3253 | 4131 | 78.7 | /mnt/stockage/packages/f7/audacious-plugins/po/tr.po | 
+ | [cy](/f7/language/cy) | 1915 | 4131 | 46.4 | /mnt/stockage/packages/f7/audacious-plugins/po/cy.po | 
+ | [ru](/f7/language/ru) | 1574 | 4131 | 38.1 | /mnt/stockage/packages/f7/audacious-plugins/po/ru.po | 
+ | [de](/f7/language/de) | 215 | 4131 | 5.2 | /mnt/stockage/packages/f7/audacious-plugins/po/de.po | 
 {.sortable}
 
 

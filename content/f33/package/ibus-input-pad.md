@@ -18,12 +18,12 @@ The package ibus-input-pad (version 1.4.99.20140916):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ja]({{< ref "/f33/language/ja.md" >}}) | 103 | 103 | 100.0 | /mnt/stockage/packages/f33/ibus-input-pad/po/ja.po | 
- | [pl]({{< ref "/f33/language/pl.md" >}}) | 103 | 103 | 100.0 | /mnt/stockage/packages/f33/ibus-input-pad/po/pl.po | 
- | [uk]({{< ref "/f33/language/uk.md" >}}) | 90 | 90 | 100.0 | /mnt/stockage/packages/f33/ibus-input-pad/po/uk.po | 
- | [zh_Hant]({{< ref "/f33/language/zh_Hant.md" >}}) | 103 | 103 | 100.0 | /mnt/stockage/packages/f33/ibus-input-pad/po/zh_TW.po | 
- | [te]({{< ref "/f33/language/te.md" >}}) | 45 | 90 | 50.0 | /mnt/stockage/packages/f33/ibus-input-pad/po/te.po | 
- | [fr]({{< ref "/f33/language/fr.md" >}}) | 0 | 90 | 0.0 | /mnt/stockage/packages/f33/ibus-input-pad/po/fr.po | 
+ | [ja](/f33/language/ja) | 103 | 103 | 100.0 | /mnt/stockage/packages/f33/ibus-input-pad/po/ja.po | 
+ | [pl](/f33/language/pl) | 103 | 103 | 100.0 | /mnt/stockage/packages/f33/ibus-input-pad/po/pl.po | 
+ | [uk](/f33/language/uk) | 90 | 90 | 100.0 | /mnt/stockage/packages/f33/ibus-input-pad/po/uk.po | 
+ | [zh_Hant](/f33/language/zh_Hant) | 103 | 103 | 100.0 | /mnt/stockage/packages/f33/ibus-input-pad/po/zh_TW.po | 
+ | [te](/f33/language/te) | 45 | 90 | 50.0 | /mnt/stockage/packages/f33/ibus-input-pad/po/te.po | 
+ | [fr](/f33/language/fr) | 0 | 90 | 0.0 | /mnt/stockage/packages/f33/ibus-input-pad/po/fr.po | 
 {.sortable}
 
 

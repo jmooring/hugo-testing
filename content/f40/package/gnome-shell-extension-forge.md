@@ -18,11 +18,11 @@ The package gnome-shell-extension-forge (version 83):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [it]({{< ref "/f40/language/it.md" >}}) | 229 | 253 | 90.5 | /mnt/stockage/packages/f40/gnome-shell-extension-forge/po/it.po | 
- | [fr_CA]({{< ref "/f40/language/fr_CA.md" >}}) | 182 | 253 | 71.9 | /mnt/stockage/packages/f40/gnome-shell-extension-forge/po/fr.po | 
- | [pt_BR]({{< ref "/f40/language/pt_BR.md" >}}) | 181 | 253 | 71.5 | /mnt/stockage/packages/f40/gnome-shell-extension-forge/po/pt_BR.po | 
- | [nl]({{< ref "/f40/language/nl.md" >}}) | 116 | 253 | 45.8 | /mnt/stockage/packages/f40/gnome-shell-extension-forge/po/nl.po | 
- | [es]({{< ref "/f40/language/es.md" >}}) | 1 | 253 | 0.4 | /mnt/stockage/packages/f40/gnome-shell-extension-forge/po/es.po | 
+ | [it](/f40/language/it) | 229 | 253 | 90.5 | /mnt/stockage/packages/f40/gnome-shell-extension-forge/po/it.po | 
+ | [fr_CA](/f40/language/fr_CA) | 182 | 253 | 71.9 | /mnt/stockage/packages/f40/gnome-shell-extension-forge/po/fr.po | 
+ | [pt_BR](/f40/language/pt_BR) | 181 | 253 | 71.5 | /mnt/stockage/packages/f40/gnome-shell-extension-forge/po/pt_BR.po | 
+ | [nl](/f40/language/nl) | 116 | 253 | 45.8 | /mnt/stockage/packages/f40/gnome-shell-extension-forge/po/nl.po | 
+ | [es](/f40/language/es) | 1 | 253 | 0.4 | /mnt/stockage/packages/f40/gnome-shell-extension-forge/po/es.po | 
 {.sortable}
 
 

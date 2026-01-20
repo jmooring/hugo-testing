@@ -38,14 +38,14 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [perl-libintl-perl]({{< ref "/f33/package/perl-libintl-perl.md" >}}) | 3 | 3 | 100.0 | German <de@li.org> | 
- | [ganyremote]({{< ref "/f33/package/ganyremote.md" >}}) | 495 | 517 | 95.7 | Austrian | 
- | [kanyremote]({{< ref "/f33/package/kanyremote.md" >}}) | 479 | 506 | 94.7 | Austrian | 
- | [fuse-encfs]({{< ref "/f33/package/fuse-encfs.md" >}}) | 1041 | 1289 | 80.8 | German (Austria) <de_AT@li.org> | 
- | [pingus]({{< ref "/f33/package/pingus.md" >}}) | 17 | 25 | 68.0 | LANGUAGE <LL@li.org> | 
- | [supertux]({{< ref "/f33/package/supertux.md" >}}) | 17 | 25 | 68.0 | LANGUAGE <LL@li.org> | 
- | [texinfo]({{< ref "/f33/package/texinfo.md" >}}) | 5 | 22 | 22.7 | German <guido@imperia.net> | 
- | [texi2html]({{< ref "/f33/package/texi2html.md" >}}) | 5 | 1665 | 0.3 | German <guido@imperia.net> | 
+ | [perl-libintl-perl](/f33/package/perl-libintl-perl) | 3 | 3 | 100.0 | German <de@li.org> | 
+ | [ganyremote](/f33/package/ganyremote) | 495 | 517 | 95.7 | Austrian | 
+ | [kanyremote](/f33/package/kanyremote) | 479 | 506 | 94.7 | Austrian | 
+ | [fuse-encfs](/f33/package/fuse-encfs) | 1041 | 1289 | 80.8 | German (Austria) <de_AT@li.org> | 
+ | [pingus](/f33/package/pingus) | 17 | 25 | 68.0 | LANGUAGE <LL@li.org> | 
+ | [supertux](/f33/package/supertux) | 17 | 25 | 68.0 | LANGUAGE <LL@li.org> | 
+ | [texinfo](/f33/package/texinfo) | 5 | 22 | 22.7 | German <guido@imperia.net> | 
+ | [texi2html](/f33/package/texi2html) | 5 | 1665 | 0.3 | German <guido@imperia.net> | 
 {.sortable}
 
 

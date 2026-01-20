@@ -18,55 +18,55 @@ The package klickety (version 22.12.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f36/language/ca.md" >}}) | 178 | 178 | 100.0 | /mnt/stockage/packages/f36/klickety/po/ca/klickety.po | 
- | [ca@valencia]({{< ref "/f36/language/ca@valencia.md" >}}) | 178 | 178 | 100.0 | /mnt/stockage/packages/f36/klickety/po/ca@valencia/klickety.po | 
- | [de]({{< ref "/f36/language/de.md" >}}) | 178 | 178 | 100.0 | /mnt/stockage/packages/f36/klickety/po/de/klickety.po | 
- | [en_GB]({{< ref "/f36/language/en_GB.md" >}}) | 178 | 178 | 100.0 | /mnt/stockage/packages/f36/klickety/po/en_GB/klickety.po | 
- | [es]({{< ref "/f36/language/es.md" >}}) | 178 | 178 | 100.0 | /mnt/stockage/packages/f36/klickety/po/es/klickety.po | 
- | [fi]({{< ref "/f36/language/fi.md" >}}) | 178 | 178 | 100.0 | /mnt/stockage/packages/f36/klickety/po/fi/klickety.po | 
- | [fr]({{< ref "/f36/language/fr.md" >}}) | 178 | 178 | 100.0 | /mnt/stockage/packages/f36/klickety/po/fr/klickety.po | 
- | [it]({{< ref "/f36/language/it.md" >}}) | 178 | 178 | 100.0 | /mnt/stockage/packages/f36/klickety/po/it/klickety.po | 
- | [ka]({{< ref "/f36/language/ka.md" >}}) | 178 | 178 | 100.0 | /mnt/stockage/packages/f36/klickety/po/ka/klickety.po | 
- | [ko]({{< ref "/f36/language/ko.md" >}}) | 178 | 178 | 100.0 | /mnt/stockage/packages/f36/klickety/po/ko/klickety.po | 
- | [nl]({{< ref "/f36/language/nl.md" >}}) | 178 | 178 | 100.0 | /mnt/stockage/packages/f36/klickety/po/nl/klickety.po | 
- | [nn]({{< ref "/f36/language/nn.md" >}}) | 178 | 178 | 100.0 | /mnt/stockage/packages/f36/klickety/po/nn/klickety.po | 
- | [pl]({{< ref "/f36/language/pl.md" >}}) | 178 | 178 | 100.0 | /mnt/stockage/packages/f36/klickety/po/pl/klickety.po | 
- | [pt]({{< ref "/f36/language/pt.md" >}}) | 178 | 178 | 100.0 | /mnt/stockage/packages/f36/klickety/po/pt/klickety.po | 
- | [pt_BR]({{< ref "/f36/language/pt_BR.md" >}}) | 178 | 178 | 100.0 | /mnt/stockage/packages/f36/klickety/po/pt_BR/klickety.po | 
- | [sl]({{< ref "/f36/language/sl.md" >}}) | 178 | 178 | 100.0 | /mnt/stockage/packages/f36/klickety/po/sl/klickety.po | 
- | [sr]({{< ref "/f36/language/sr.md" >}}) | 178 | 178 | 100.0 | /mnt/stockage/packages/f36/klickety/po/sr/klickety.po | 
- | [sr@ijekavian]({{< ref "/f36/language/sr@ijekavian.md" >}}) | 178 | 178 | 100.0 | /mnt/stockage/packages/f36/klickety/po/sr@ijekavian/klickety.po | 
- | [sr@ijekavian_Latn]({{< ref "/f36/language/sr@ijekavian_Latn.md" >}}) | 178 | 178 | 100.0 | /mnt/stockage/packages/f36/klickety/po/sr@ijekavianlatin/klickety.po | 
- | [sr_Latn]({{< ref "/f36/language/sr_Latn.md" >}}) | 178 | 178 | 100.0 | /mnt/stockage/packages/f36/klickety/po/sr@latin/klickety.po | 
- | [sv]({{< ref "/f36/language/sv.md" >}}) | 178 | 178 | 100.0 | /mnt/stockage/packages/f36/klickety/po/sv/klickety.po | 
- | [tr]({{< ref "/f36/language/tr.md" >}}) | 178 | 178 | 100.0 | /mnt/stockage/packages/f36/klickety/po/tr/klickety.po | 
- | [uk]({{< ref "/f36/language/uk.md" >}}) | 178 | 178 | 100.0 | /mnt/stockage/packages/f36/klickety/po/uk/klickety.po | 
- | [zh_Hans]({{< ref "/f36/language/zh_Hans.md" >}}) | 178 | 178 | 100.0 | /mnt/stockage/packages/f36/klickety/po/zh_CN/klickety.po | 
- | [da]({{< ref "/f36/language/da.md" >}}) | 177 | 178 | 99.4 | /mnt/stockage/packages/f36/klickety/po/da/klickety.po | 
- | [el]({{< ref "/f36/language/el.md" >}}) | 177 | 178 | 99.4 | /mnt/stockage/packages/f36/klickety/po/el/klickety.po | 
- | [ru]({{< ref "/f36/language/ru.md" >}}) | 177 | 178 | 99.4 | /mnt/stockage/packages/f36/klickety/po/ru/klickety.po | 
- | [sk]({{< ref "/f36/language/sk.md" >}}) | 177 | 178 | 99.4 | /mnt/stockage/packages/f36/klickety/po/sk/klickety.po | 
- | [et]({{< ref "/f36/language/et.md" >}}) | 175 | 178 | 98.3 | /mnt/stockage/packages/f36/klickety/po/et/klickety.po | 
- | [gl]({{< ref "/f36/language/gl.md" >}}) | 175 | 178 | 98.3 | /mnt/stockage/packages/f36/klickety/po/gl/klickety.po | 
- | [hu]({{< ref "/f36/language/hu.md" >}}) | 175 | 178 | 98.3 | /mnt/stockage/packages/f36/klickety/po/hu/klickety.po | 
- | [id]({{< ref "/f36/language/id.md" >}}) | 175 | 178 | 98.3 | /mnt/stockage/packages/f36/klickety/po/id/klickety.po | 
- | [zh_Hant]({{< ref "/f36/language/zh_Hant.md" >}}) | 175 | 178 | 98.3 | /mnt/stockage/packages/f36/klickety/po/zh_TW/klickety.po | 
- | [cs]({{< ref "/f36/language/cs.md" >}}) | 173 | 178 | 97.2 | /mnt/stockage/packages/f36/klickety/po/cs/klickety.po | 
- | [nb_NO]({{< ref "/f36/language/nb_NO.md" >}}) | 168 | 178 | 94.4 | /mnt/stockage/packages/f36/klickety/po/nb/klickety.po | 
- | [bs]({{< ref "/f36/language/bs.md" >}}) | 164 | 178 | 92.1 | /mnt/stockage/packages/f36/klickety/po/bs/klickety.po | 
- | [kk]({{< ref "/f36/language/kk.md" >}}) | 164 | 178 | 92.1 | /mnt/stockage/packages/f36/klickety/po/kk/klickety.po | 
- | [lv]({{< ref "/f36/language/lv.md" >}}) | 164 | 178 | 92.1 | /mnt/stockage/packages/f36/klickety/po/lv/klickety.po | 
- | [nds]({{< ref "/f36/language/nds.md" >}}) | 164 | 178 | 92.1 | /mnt/stockage/packages/f36/klickety/po/nds/klickety.po | 
- | [ro]({{< ref "/f36/language/ro.md" >}}) | 164 | 178 | 92.1 | /mnt/stockage/packages/f36/klickety/po/ro/klickety.po | 
- | [ga]({{< ref "/f36/language/ga.md" >}}) | 81 | 178 | 45.5 | /mnt/stockage/packages/f36/klickety/po/ga/klickety.po | 
- | [lt]({{< ref "/f36/language/lt.md" >}}) | 57 | 178 | 32.0 | /mnt/stockage/packages/f36/klickety/po/lt/klickety.po | 
- | [ug]({{< ref "/f36/language/ug.md" >}}) | 47 | 178 | 26.4 | /mnt/stockage/packages/f36/klickety/po/ug/klickety.po | 
- | [mr]({{< ref "/f36/language/mr.md" >}}) | 29 | 178 | 16.3 | /mnt/stockage/packages/f36/klickety/po/mr/klickety.po | 
- | [mai]({{< ref "/f36/language/mai.md" >}}) | 17 | 178 | 9.6 | /mnt/stockage/packages/f36/klickety/po/mai/klickety.po | 
- | [ml]({{< ref "/f36/language/ml.md" >}}) | 2 | 178 | 1.1 | /mnt/stockage/packages/f36/klickety/po/ml/klickety.po | 
- | [bg]({{< ref "/f36/language/bg.md" >}}) | 0 | 178 | 0.0 | /mnt/stockage/packages/f36/klickety/po/bg/klickety.po | 
- | [is]({{< ref "/f36/language/is.md" >}}) | 0 | 178 | 0.0 | /mnt/stockage/packages/f36/klickety/po/is/klickety.po | 
- | [ja]({{< ref "/f36/language/ja.md" >}}) | 0 | 178 | 0.0 | /mnt/stockage/packages/f36/klickety/po/ja/klickety.po | 
+ | [ca](/f36/language/ca) | 178 | 178 | 100.0 | /mnt/stockage/packages/f36/klickety/po/ca/klickety.po | 
+ | [ca@valencia](/f36/language/ca@valencia) | 178 | 178 | 100.0 | /mnt/stockage/packages/f36/klickety/po/ca@valencia/klickety.po | 
+ | [de](/f36/language/de) | 178 | 178 | 100.0 | /mnt/stockage/packages/f36/klickety/po/de/klickety.po | 
+ | [en_GB](/f36/language/en_GB) | 178 | 178 | 100.0 | /mnt/stockage/packages/f36/klickety/po/en_GB/klickety.po | 
+ | [es](/f36/language/es) | 178 | 178 | 100.0 | /mnt/stockage/packages/f36/klickety/po/es/klickety.po | 
+ | [fi](/f36/language/fi) | 178 | 178 | 100.0 | /mnt/stockage/packages/f36/klickety/po/fi/klickety.po | 
+ | [fr](/f36/language/fr) | 178 | 178 | 100.0 | /mnt/stockage/packages/f36/klickety/po/fr/klickety.po | 
+ | [it](/f36/language/it) | 178 | 178 | 100.0 | /mnt/stockage/packages/f36/klickety/po/it/klickety.po | 
+ | [ka](/f36/language/ka) | 178 | 178 | 100.0 | /mnt/stockage/packages/f36/klickety/po/ka/klickety.po | 
+ | [ko](/f36/language/ko) | 178 | 178 | 100.0 | /mnt/stockage/packages/f36/klickety/po/ko/klickety.po | 
+ | [nl](/f36/language/nl) | 178 | 178 | 100.0 | /mnt/stockage/packages/f36/klickety/po/nl/klickety.po | 
+ | [nn](/f36/language/nn) | 178 | 178 | 100.0 | /mnt/stockage/packages/f36/klickety/po/nn/klickety.po | 
+ | [pl](/f36/language/pl) | 178 | 178 | 100.0 | /mnt/stockage/packages/f36/klickety/po/pl/klickety.po | 
+ | [pt](/f36/language/pt) | 178 | 178 | 100.0 | /mnt/stockage/packages/f36/klickety/po/pt/klickety.po | 
+ | [pt_BR](/f36/language/pt_BR) | 178 | 178 | 100.0 | /mnt/stockage/packages/f36/klickety/po/pt_BR/klickety.po | 
+ | [sl](/f36/language/sl) | 178 | 178 | 100.0 | /mnt/stockage/packages/f36/klickety/po/sl/klickety.po | 
+ | [sr](/f36/language/sr) | 178 | 178 | 100.0 | /mnt/stockage/packages/f36/klickety/po/sr/klickety.po | 
+ | [sr@ijekavian](/f36/language/sr@ijekavian) | 178 | 178 | 100.0 | /mnt/stockage/packages/f36/klickety/po/sr@ijekavian/klickety.po | 
+ | [sr@ijekavian_Latn](/f36/language/sr@ijekavian_Latn) | 178 | 178 | 100.0 | /mnt/stockage/packages/f36/klickety/po/sr@ijekavianlatin/klickety.po | 
+ | [sr_Latn](/f36/language/sr_Latn) | 178 | 178 | 100.0 | /mnt/stockage/packages/f36/klickety/po/sr@latin/klickety.po | 
+ | [sv](/f36/language/sv) | 178 | 178 | 100.0 | /mnt/stockage/packages/f36/klickety/po/sv/klickety.po | 
+ | [tr](/f36/language/tr) | 178 | 178 | 100.0 | /mnt/stockage/packages/f36/klickety/po/tr/klickety.po | 
+ | [uk](/f36/language/uk) | 178 | 178 | 100.0 | /mnt/stockage/packages/f36/klickety/po/uk/klickety.po | 
+ | [zh_Hans](/f36/language/zh_Hans) | 178 | 178 | 100.0 | /mnt/stockage/packages/f36/klickety/po/zh_CN/klickety.po | 
+ | [da](/f36/language/da) | 177 | 178 | 99.4 | /mnt/stockage/packages/f36/klickety/po/da/klickety.po | 
+ | [el](/f36/language/el) | 177 | 178 | 99.4 | /mnt/stockage/packages/f36/klickety/po/el/klickety.po | 
+ | [ru](/f36/language/ru) | 177 | 178 | 99.4 | /mnt/stockage/packages/f36/klickety/po/ru/klickety.po | 
+ | [sk](/f36/language/sk) | 177 | 178 | 99.4 | /mnt/stockage/packages/f36/klickety/po/sk/klickety.po | 
+ | [et](/f36/language/et) | 175 | 178 | 98.3 | /mnt/stockage/packages/f36/klickety/po/et/klickety.po | 
+ | [gl](/f36/language/gl) | 175 | 178 | 98.3 | /mnt/stockage/packages/f36/klickety/po/gl/klickety.po | 
+ | [hu](/f36/language/hu) | 175 | 178 | 98.3 | /mnt/stockage/packages/f36/klickety/po/hu/klickety.po | 
+ | [id](/f36/language/id) | 175 | 178 | 98.3 | /mnt/stockage/packages/f36/klickety/po/id/klickety.po | 
+ | [zh_Hant](/f36/language/zh_Hant) | 175 | 178 | 98.3 | /mnt/stockage/packages/f36/klickety/po/zh_TW/klickety.po | 
+ | [cs](/f36/language/cs) | 173 | 178 | 97.2 | /mnt/stockage/packages/f36/klickety/po/cs/klickety.po | 
+ | [nb_NO](/f36/language/nb_NO) | 168 | 178 | 94.4 | /mnt/stockage/packages/f36/klickety/po/nb/klickety.po | 
+ | [bs](/f36/language/bs) | 164 | 178 | 92.1 | /mnt/stockage/packages/f36/klickety/po/bs/klickety.po | 
+ | [kk](/f36/language/kk) | 164 | 178 | 92.1 | /mnt/stockage/packages/f36/klickety/po/kk/klickety.po | 
+ | [lv](/f36/language/lv) | 164 | 178 | 92.1 | /mnt/stockage/packages/f36/klickety/po/lv/klickety.po | 
+ | [nds](/f36/language/nds) | 164 | 178 | 92.1 | /mnt/stockage/packages/f36/klickety/po/nds/klickety.po | 
+ | [ro](/f36/language/ro) | 164 | 178 | 92.1 | /mnt/stockage/packages/f36/klickety/po/ro/klickety.po | 
+ | [ga](/f36/language/ga) | 81 | 178 | 45.5 | /mnt/stockage/packages/f36/klickety/po/ga/klickety.po | 
+ | [lt](/f36/language/lt) | 57 | 178 | 32.0 | /mnt/stockage/packages/f36/klickety/po/lt/klickety.po | 
+ | [ug](/f36/language/ug) | 47 | 178 | 26.4 | /mnt/stockage/packages/f36/klickety/po/ug/klickety.po | 
+ | [mr](/f36/language/mr) | 29 | 178 | 16.3 | /mnt/stockage/packages/f36/klickety/po/mr/klickety.po | 
+ | [mai](/f36/language/mai) | 17 | 178 | 9.6 | /mnt/stockage/packages/f36/klickety/po/mai/klickety.po | 
+ | [ml](/f36/language/ml) | 2 | 178 | 1.1 | /mnt/stockage/packages/f36/klickety/po/ml/klickety.po | 
+ | [bg](/f36/language/bg) | 0 | 178 | 0.0 | /mnt/stockage/packages/f36/klickety/po/bg/klickety.po | 
+ | [is](/f36/language/is) | 0 | 178 | 0.0 | /mnt/stockage/packages/f36/klickety/po/is/klickety.po | 
+ | [ja](/f36/language/ja) | 0 | 178 | 0.0 | /mnt/stockage/packages/f36/klickety/po/ja/klickety.po | 
 {.sortable}
 
 

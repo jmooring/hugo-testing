@@ -18,29 +18,29 @@ The package cataclysm-dda (version 0.E.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [zh_Hans]({{< ref "/f32/language/zh_Hans.md" >}}) | 463341 | 463493 | 100.0 | /mnt/stockage/packages/f32/cataclysm-dda/lang/po/zh_CN.po | 
- | [ja]({{< ref "/f32/language/ja.md" >}}) | 462523 | 463493 | 99.8 | /mnt/stockage/packages/f32/cataclysm-dda/lang/po/ja.po | 
- | [ru]({{< ref "/f32/language/ru.md" >}}) | 462467 | 463493 | 99.8 | /mnt/stockage/packages/f32/cataclysm-dda/lang/po/ru.po | 
- | [zh_Hant]({{< ref "/f32/language/zh_Hant.md" >}}) | 251258 | 463493 | 54.2 | /mnt/stockage/packages/f32/cataclysm-dda/lang/po/zh_TW.po | 
- | [es_AR]({{< ref "/f32/language/es_AR.md" >}}) | 241024 | 463493 | 52.0 | /mnt/stockage/packages/f32/cataclysm-dda/lang/po/es_AR.po | 
- | [pl]({{< ref "/f32/language/pl.md" >}}) | 240535 | 463493 | 51.9 | /mnt/stockage/packages/f32/cataclysm-dda/lang/po/pl.po | 
- | [de]({{< ref "/f32/language/de.md" >}}) | 232565 | 463493 | 50.2 | /mnt/stockage/packages/f32/cataclysm-dda/lang/po/de.po | 
- | [pt_BR]({{< ref "/f32/language/pt_BR.md" >}}) | 209607 | 463493 | 45.2 | /mnt/stockage/packages/f32/cataclysm-dda/lang/po/pt_BR.po | 
- | [hu]({{< ref "/f32/language/hu.md" >}}) | 201683 | 463493 | 43.5 | /mnt/stockage/packages/f32/cataclysm-dda/lang/po/hu.po | 
- | [es]({{< ref "/f32/language/es.md" >}}) | 191512 | 463493 | 41.3 | /mnt/stockage/packages/f32/cataclysm-dda/lang/po/es_ES.po | 
- | [ko]({{< ref "/f32/language/ko.md" >}}) | 169830 | 463493 | 36.6 | /mnt/stockage/packages/f32/cataclysm-dda/lang/po/ko.po | 
- | [fr]({{< ref "/f32/language/fr.md" >}}) | 106819 | 463493 | 23.0 | /mnt/stockage/packages/f32/cataclysm-dda/lang/po/fr.po | 
- | [it]({{< ref "/f32/language/it.md" >}}) | 47757 | 463493 | 10.3 | /mnt/stockage/packages/f32/cataclysm-dda/lang/po/it_IT.po | 
- | [nb_NO]({{< ref "/f32/language/nb_NO.md" >}}) | 8656 | 463493 | 1.9 | /mnt/stockage/packages/f32/cataclysm-dda/lang/po/nb.po | 
- | [uk]({{< ref "/f32/language/uk.md" >}}) | 8487 | 463493 | 1.8 | /mnt/stockage/packages/f32/cataclysm-dda/lang/po/uk_UA.po | 
- | [el]({{< ref "/f32/language/el.md" >}}) | 5837 | 463493 | 1.3 | /mnt/stockage/packages/f32/cataclysm-dda/lang/po/el.po | 
- | [nl]({{< ref "/f32/language/nl.md" >}}) | 3070 | 463493 | 0.7 | /mnt/stockage/packages/f32/cataclysm-dda/lang/po/nl.po | 
- | [sr]({{< ref "/f32/language/sr.md" >}}) | 2766 | 463493 | 0.6 | /mnt/stockage/packages/f32/cataclysm-dda/lang/po/sr.po | 
- | [is]({{< ref "/f32/language/is.md" >}}) | 2433 | 463493 | 0.5 | /mnt/stockage/packages/f32/cataclysm-dda/lang/po/is.po | 
- | [da]({{< ref "/f32/language/da.md" >}}) | 314 | 463493 | 0.1 | /mnt/stockage/packages/f32/cataclysm-dda/lang/po/da.po | 
- | [tr]({{< ref "/f32/language/tr.md" >}}) | 138 | 463493 | 0.0 | /mnt/stockage/packages/f32/cataclysm-dda/lang/po/tr.po | 
- | [ar]({{< ref "/f32/language/ar.md" >}}) | 13 | 463493 | 0.0 | /mnt/stockage/packages/f32/cataclysm-dda/lang/po/ar.po | 
- | [id]({{< ref "/f32/language/id.md" >}}) | 0 | 463493 | 0.0 | /mnt/stockage/packages/f32/cataclysm-dda/lang/po/id.po | 
+ | [zh_Hans](/f32/language/zh_Hans) | 463341 | 463493 | 100.0 | /mnt/stockage/packages/f32/cataclysm-dda/lang/po/zh_CN.po | 
+ | [ja](/f32/language/ja) | 462523 | 463493 | 99.8 | /mnt/stockage/packages/f32/cataclysm-dda/lang/po/ja.po | 
+ | [ru](/f32/language/ru) | 462467 | 463493 | 99.8 | /mnt/stockage/packages/f32/cataclysm-dda/lang/po/ru.po | 
+ | [zh_Hant](/f32/language/zh_Hant) | 251258 | 463493 | 54.2 | /mnt/stockage/packages/f32/cataclysm-dda/lang/po/zh_TW.po | 
+ | [es_AR](/f32/language/es_AR) | 241024 | 463493 | 52.0 | /mnt/stockage/packages/f32/cataclysm-dda/lang/po/es_AR.po | 
+ | [pl](/f32/language/pl) | 240535 | 463493 | 51.9 | /mnt/stockage/packages/f32/cataclysm-dda/lang/po/pl.po | 
+ | [de](/f32/language/de) | 232565 | 463493 | 50.2 | /mnt/stockage/packages/f32/cataclysm-dda/lang/po/de.po | 
+ | [pt_BR](/f32/language/pt_BR) | 209607 | 463493 | 45.2 | /mnt/stockage/packages/f32/cataclysm-dda/lang/po/pt_BR.po | 
+ | [hu](/f32/language/hu) | 201683 | 463493 | 43.5 | /mnt/stockage/packages/f32/cataclysm-dda/lang/po/hu.po | 
+ | [es](/f32/language/es) | 191512 | 463493 | 41.3 | /mnt/stockage/packages/f32/cataclysm-dda/lang/po/es_ES.po | 
+ | [ko](/f32/language/ko) | 169830 | 463493 | 36.6 | /mnt/stockage/packages/f32/cataclysm-dda/lang/po/ko.po | 
+ | [fr](/f32/language/fr) | 106819 | 463493 | 23.0 | /mnt/stockage/packages/f32/cataclysm-dda/lang/po/fr.po | 
+ | [it](/f32/language/it) | 47757 | 463493 | 10.3 | /mnt/stockage/packages/f32/cataclysm-dda/lang/po/it_IT.po | 
+ | [nb_NO](/f32/language/nb_NO) | 8656 | 463493 | 1.9 | /mnt/stockage/packages/f32/cataclysm-dda/lang/po/nb.po | 
+ | [uk](/f32/language/uk) | 8487 | 463493 | 1.8 | /mnt/stockage/packages/f32/cataclysm-dda/lang/po/uk_UA.po | 
+ | [el](/f32/language/el) | 5837 | 463493 | 1.3 | /mnt/stockage/packages/f32/cataclysm-dda/lang/po/el.po | 
+ | [nl](/f32/language/nl) | 3070 | 463493 | 0.7 | /mnt/stockage/packages/f32/cataclysm-dda/lang/po/nl.po | 
+ | [sr](/f32/language/sr) | 2766 | 463493 | 0.6 | /mnt/stockage/packages/f32/cataclysm-dda/lang/po/sr.po | 
+ | [is](/f32/language/is) | 2433 | 463493 | 0.5 | /mnt/stockage/packages/f32/cataclysm-dda/lang/po/is.po | 
+ | [da](/f32/language/da) | 314 | 463493 | 0.1 | /mnt/stockage/packages/f32/cataclysm-dda/lang/po/da.po | 
+ | [tr](/f32/language/tr) | 138 | 463493 | 0.0 | /mnt/stockage/packages/f32/cataclysm-dda/lang/po/tr.po | 
+ | [ar](/f32/language/ar) | 13 | 463493 | 0.0 | /mnt/stockage/packages/f32/cataclysm-dda/lang/po/ar.po | 
+ | [id](/f32/language/id) | 0 | 463493 | 0.0 | /mnt/stockage/packages/f32/cataclysm-dda/lang/po/id.po | 
 {.sortable}
 
 

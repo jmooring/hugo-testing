@@ -18,15 +18,15 @@ The package fldigi (version 4.2.04):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f39/language/ca.md" >}}) | 8184 | 8283 | 98.8 | /mnt/stockage/packages/f39/fldigi/po/ca.po | 
- | [pl]({{< ref "/f39/language/pl.md" >}}) | 8078 | 8283 | 97.5 | /mnt/stockage/packages/f39/fldigi/po/pl.po | 
- | [nl]({{< ref "/f39/language/nl.md" >}}) | 7183 | 8283 | 86.7 | /mnt/stockage/packages/f39/fldigi/po/nl.po | 
- | [it]({{< ref "/f39/language/it.md" >}}) | 5773 | 8283 | 69.7 | /mnt/stockage/packages/f39/fldigi/po/it.po | 
- | [ru]({{< ref "/f39/language/ru.md" >}}) | 5046 | 8283 | 60.9 | /mnt/stockage/packages/f39/fldigi/po/ru.po | 
- | [es]({{< ref "/f39/language/es.md" >}}) | 4391 | 8283 | 53.0 | /mnt/stockage/packages/f39/fldigi/po/es.po | 
- | [el]({{< ref "/f39/language/el.md" >}}) | 3999 | 8283 | 48.3 | /mnt/stockage/packages/f39/fldigi/po/el.po | 
- | [de]({{< ref "/f39/language/de.md" >}}) | 3256 | 8283 | 39.3 | /mnt/stockage/packages/f39/fldigi/po/de.po | 
- | [fr]({{< ref "/f39/language/fr.md" >}}) | 1136 | 8283 | 13.7 | /mnt/stockage/packages/f39/fldigi/po/fr.po | 
+ | [ca](/f39/language/ca) | 8184 | 8283 | 98.8 | /mnt/stockage/packages/f39/fldigi/po/ca.po | 
+ | [pl](/f39/language/pl) | 8078 | 8283 | 97.5 | /mnt/stockage/packages/f39/fldigi/po/pl.po | 
+ | [nl](/f39/language/nl) | 7183 | 8283 | 86.7 | /mnt/stockage/packages/f39/fldigi/po/nl.po | 
+ | [it](/f39/language/it) | 5773 | 8283 | 69.7 | /mnt/stockage/packages/f39/fldigi/po/it.po | 
+ | [ru](/f39/language/ru) | 5046 | 8283 | 60.9 | /mnt/stockage/packages/f39/fldigi/po/ru.po | 
+ | [es](/f39/language/es) | 4391 | 8283 | 53.0 | /mnt/stockage/packages/f39/fldigi/po/es.po | 
+ | [el](/f39/language/el) | 3999 | 8283 | 48.3 | /mnt/stockage/packages/f39/fldigi/po/el.po | 
+ | [de](/f39/language/de) | 3256 | 8283 | 39.3 | /mnt/stockage/packages/f39/fldigi/po/de.po | 
+ | [fr](/f39/language/fr) | 1136 | 8283 | 13.7 | /mnt/stockage/packages/f39/fldigi/po/fr.po | 
 {.sortable}
 
 

@@ -18,23 +18,23 @@ The package xfce4-clipman-plugin (version 0.8.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f7/language/ca.md" >}}) | 85 | 85 | 100.0 | /mnt/stockage/packages/f7/xfce4-clipman-plugin/po/ca.po | 
- | [cs]({{< ref "/f7/language/cs.md" >}}) | 85 | 85 | 100.0 | /mnt/stockage/packages/f7/xfce4-clipman-plugin/po/cs.po | 
- | [de]({{< ref "/f7/language/de.md" >}}) | 85 | 85 | 100.0 | /mnt/stockage/packages/f7/xfce4-clipman-plugin/po/de.po | 
- | [en_GB]({{< ref "/f7/language/en_GB.md" >}}) | 85 | 85 | 100.0 | /mnt/stockage/packages/f7/xfce4-clipman-plugin/po/en_GB.po | 
- | [eu]({{< ref "/f7/language/eu.md" >}}) | 85 | 85 | 100.0 | /mnt/stockage/packages/f7/xfce4-clipman-plugin/po/eu.po | 
- | [fr]({{< ref "/f7/language/fr.md" >}}) | 85 | 85 | 100.0 | /mnt/stockage/packages/f7/xfce4-clipman-plugin/po/fr.po | 
- | [hu]({{< ref "/f7/language/hu.md" >}}) | 85 | 85 | 100.0 | /mnt/stockage/packages/f7/xfce4-clipman-plugin/po/hu.po | 
- | [it]({{< ref "/f7/language/it.md" >}}) | 85 | 85 | 100.0 | /mnt/stockage/packages/f7/xfce4-clipman-plugin/po/it.po | 
- | [lv]({{< ref "/f7/language/lv.md" >}}) | 85 | 85 | 100.0 | /mnt/stockage/packages/f7/xfce4-clipman-plugin/po/lv.po | 
- | [nb_NO]({{< ref "/f7/language/nb_NO.md" >}}) | 85 | 85 | 100.0 | /mnt/stockage/packages/f7/xfce4-clipman-plugin/po/nb_NO.po | 
- | [pl]({{< ref "/f7/language/pl.md" >}}) | 85 | 85 | 100.0 | /mnt/stockage/packages/f7/xfce4-clipman-plugin/po/pl.po | 
- | [pt_BR]({{< ref "/f7/language/pt_BR.md" >}}) | 85 | 85 | 100.0 | /mnt/stockage/packages/f7/xfce4-clipman-plugin/po/pt_BR.po | 
- | [pt_PT]({{< ref "/f7/language/pt_PT.md" >}}) | 85 | 85 | 100.0 | /mnt/stockage/packages/f7/xfce4-clipman-plugin/po/pt_PT.po | 
- | [uk]({{< ref "/f7/language/uk.md" >}}) | 85 | 85 | 100.0 | /mnt/stockage/packages/f7/xfce4-clipman-plugin/po/uk.po | 
- | [ur]({{< ref "/f7/language/ur.md" >}}) | 85 | 85 | 100.0 | /mnt/stockage/packages/f7/xfce4-clipman-plugin/po/ur.po | 
- | [zh_Hant]({{< ref "/f7/language/zh_Hant.md" >}}) | 65 | 85 | 76.5 | /mnt/stockage/packages/f7/xfce4-clipman-plugin/po/zh_TW.po | 
- | [ja]({{< ref "/f7/language/ja.md" >}}) | 60 | 85 | 70.6 | /mnt/stockage/packages/f7/xfce4-clipman-plugin/po/ja.po | 
+ | [ca](/f7/language/ca) | 85 | 85 | 100.0 | /mnt/stockage/packages/f7/xfce4-clipman-plugin/po/ca.po | 
+ | [cs](/f7/language/cs) | 85 | 85 | 100.0 | /mnt/stockage/packages/f7/xfce4-clipman-plugin/po/cs.po | 
+ | [de](/f7/language/de) | 85 | 85 | 100.0 | /mnt/stockage/packages/f7/xfce4-clipman-plugin/po/de.po | 
+ | [en_GB](/f7/language/en_GB) | 85 | 85 | 100.0 | /mnt/stockage/packages/f7/xfce4-clipman-plugin/po/en_GB.po | 
+ | [eu](/f7/language/eu) | 85 | 85 | 100.0 | /mnt/stockage/packages/f7/xfce4-clipman-plugin/po/eu.po | 
+ | [fr](/f7/language/fr) | 85 | 85 | 100.0 | /mnt/stockage/packages/f7/xfce4-clipman-plugin/po/fr.po | 
+ | [hu](/f7/language/hu) | 85 | 85 | 100.0 | /mnt/stockage/packages/f7/xfce4-clipman-plugin/po/hu.po | 
+ | [it](/f7/language/it) | 85 | 85 | 100.0 | /mnt/stockage/packages/f7/xfce4-clipman-plugin/po/it.po | 
+ | [lv](/f7/language/lv) | 85 | 85 | 100.0 | /mnt/stockage/packages/f7/xfce4-clipman-plugin/po/lv.po | 
+ | [nb_NO](/f7/language/nb_NO) | 85 | 85 | 100.0 | /mnt/stockage/packages/f7/xfce4-clipman-plugin/po/nb_NO.po | 
+ | [pl](/f7/language/pl) | 85 | 85 | 100.0 | /mnt/stockage/packages/f7/xfce4-clipman-plugin/po/pl.po | 
+ | [pt_BR](/f7/language/pt_BR) | 85 | 85 | 100.0 | /mnt/stockage/packages/f7/xfce4-clipman-plugin/po/pt_BR.po | 
+ | [pt_PT](/f7/language/pt_PT) | 85 | 85 | 100.0 | /mnt/stockage/packages/f7/xfce4-clipman-plugin/po/pt_PT.po | 
+ | [uk](/f7/language/uk) | 85 | 85 | 100.0 | /mnt/stockage/packages/f7/xfce4-clipman-plugin/po/uk.po | 
+ | [ur](/f7/language/ur) | 85 | 85 | 100.0 | /mnt/stockage/packages/f7/xfce4-clipman-plugin/po/ur.po | 
+ | [zh_Hant](/f7/language/zh_Hant) | 65 | 85 | 76.5 | /mnt/stockage/packages/f7/xfce4-clipman-plugin/po/zh_TW.po | 
+ | [ja](/f7/language/ja) | 60 | 85 | 70.6 | /mnt/stockage/packages/f7/xfce4-clipman-plugin/po/ja.po | 
 {.sortable}
 
 

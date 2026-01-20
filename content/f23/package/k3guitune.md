@@ -18,10 +18,10 @@ The package k3guitune (version 1.01):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [sk]({{< ref "/f23/language/sk.md" >}}) | 212 | 212 | 100.0 | /mnt/stockage/packages/f23/k3guitune/_darcs/pristine/po/sk.po/mnt/stockage/packages/f23/k3guitune/po/sk.po | 
- | [nl]({{< ref "/f23/language/nl.md" >}}) | 206 | 212 | 97.2 | /mnt/stockage/packages/f23/k3guitune/_darcs/pristine/po/nl.po/mnt/stockage/packages/f23/k3guitune/po/nl.po | 
- | [fr]({{< ref "/f23/language/fr.md" >}}) | 192 | 208 | 92.3 | /mnt/stockage/packages/f23/k3guitune/_darcs/pristine/po/fr.po/mnt/stockage/packages/f23/k3guitune/po/fr.po | 
- | [de]({{< ref "/f23/language/de.md" >}}) | 192 | 212 | 90.6 | /mnt/stockage/packages/f23/k3guitune/_darcs/pristine/po/de.po/mnt/stockage/packages/f23/k3guitune/po/de.po | 
+ | [sk](/f23/language/sk) | 212 | 212 | 100.0 | /mnt/stockage/packages/f23/k3guitune/_darcs/pristine/po/sk.po/mnt/stockage/packages/f23/k3guitune/po/sk.po | 
+ | [nl](/f23/language/nl) | 206 | 212 | 97.2 | /mnt/stockage/packages/f23/k3guitune/_darcs/pristine/po/nl.po/mnt/stockage/packages/f23/k3guitune/po/nl.po | 
+ | [fr](/f23/language/fr) | 192 | 208 | 92.3 | /mnt/stockage/packages/f23/k3guitune/_darcs/pristine/po/fr.po/mnt/stockage/packages/f23/k3guitune/po/fr.po | 
+ | [de](/f23/language/de) | 192 | 212 | 90.6 | /mnt/stockage/packages/f23/k3guitune/_darcs/pristine/po/de.po/mnt/stockage/packages/f23/k3guitune/po/de.po | 
 {.sortable}
 
 

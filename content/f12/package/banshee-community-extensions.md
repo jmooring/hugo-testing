@@ -18,10 +18,10 @@ The package banshee-community-extensions (version 1.6.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [it]({{< ref "/f12/language/it.md" >}}) | 637 | 637 | 100.0 | /mnt/stockage/packages/f12/banshee-community-extensions/po/it.po | 
- | [de]({{< ref "/f12/language/de.md" >}}) | 834 | 852 | 97.9 | /mnt/stockage/packages/f12/banshee-community-extensions/po/de.po | 
- | [fi]({{< ref "/f12/language/fi.md" >}}) | 117 | 678 | 17.3 | /mnt/stockage/packages/f12/banshee-community-extensions/po/fi.po | 
- | [fr]({{< ref "/f12/language/fr.md" >}}) | 3 | 637 | 0.5 | /mnt/stockage/packages/f12/banshee-community-extensions/po/fr.po | 
+ | [it](/f12/language/it) | 637 | 637 | 100.0 | /mnt/stockage/packages/f12/banshee-community-extensions/po/it.po | 
+ | [de](/f12/language/de) | 834 | 852 | 97.9 | /mnt/stockage/packages/f12/banshee-community-extensions/po/de.po | 
+ | [fi](/f12/language/fi) | 117 | 678 | 17.3 | /mnt/stockage/packages/f12/banshee-community-extensions/po/fi.po | 
+ | [fr](/f12/language/fr) | 3 | 637 | 0.5 | /mnt/stockage/packages/f12/banshee-community-extensions/po/fr.po | 
 {.sortable}
 
 

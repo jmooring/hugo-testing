@@ -18,10 +18,10 @@ The package kde-plasma-redshift (version 1.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f21/language/de.md" >}}) | 300 | 300 | 100.0 | /mnt/stockage/packages/f21/kde-plasma-redshift/po/de.po/mnt/stockage/packages/f21/kde-plasma-redshift/po/cs.po | 
- | [es]({{< ref "/f21/language/es.md" >}}) | 150 | 150 | 100.0 | /mnt/stockage/packages/f21/kde-plasma-redshift/po/es.po | 
- | [fr]({{< ref "/f21/language/fr.md" >}}) | 150 | 150 | 100.0 | /mnt/stockage/packages/f21/kde-plasma-redshift/po/fr.po | 
- | [it]({{< ref "/f21/language/it.md" >}}) | 150 | 150 | 100.0 | /mnt/stockage/packages/f21/kde-plasma-redshift/po/it.po | 
+ | [de](/f21/language/de) | 300 | 300 | 100.0 | /mnt/stockage/packages/f21/kde-plasma-redshift/po/de.po/mnt/stockage/packages/f21/kde-plasma-redshift/po/cs.po | 
+ | [es](/f21/language/es) | 150 | 150 | 100.0 | /mnt/stockage/packages/f21/kde-plasma-redshift/po/es.po | 
+ | [fr](/f21/language/fr) | 150 | 150 | 100.0 | /mnt/stockage/packages/f21/kde-plasma-redshift/po/fr.po | 
+ | [it](/f21/language/it) | 150 | 150 | 100.0 | /mnt/stockage/packages/f21/kde-plasma-redshift/po/it.po | 
 {.sortable}
 
 

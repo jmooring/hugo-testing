@@ -18,11 +18,11 @@ The package gnome-applet-music (version 2.3.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [nl]({{< ref "/f9/language/nl.md" >}}) | 634 | 634 | 100.0 | /mnt/stockage/packages/f9/gnome-applet-music/po/nl.po | 
- | [pl]({{< ref "/f9/language/pl.md" >}}) | 634 | 634 | 100.0 | /mnt/stockage/packages/f9/gnome-applet-music/po/pl.po | 
- | [sv]({{< ref "/f9/language/sv.md" >}}) | 634 | 634 | 100.0 | /mnt/stockage/packages/f9/gnome-applet-music/po/sv.po | 
- | [pt_BR]({{< ref "/f9/language/pt_BR.md" >}}) | 538 | 634 | 84.9 | /mnt/stockage/packages/f9/gnome-applet-music/po/pt_BR.po | 
- | [ar]({{< ref "/f9/language/ar.md" >}}) | 346 | 634 | 54.6 | /mnt/stockage/packages/f9/gnome-applet-music/po/ar.po | 
+ | [nl](/f9/language/nl) | 634 | 634 | 100.0 | /mnt/stockage/packages/f9/gnome-applet-music/po/nl.po | 
+ | [pl](/f9/language/pl) | 634 | 634 | 100.0 | /mnt/stockage/packages/f9/gnome-applet-music/po/pl.po | 
+ | [sv](/f9/language/sv) | 634 | 634 | 100.0 | /mnt/stockage/packages/f9/gnome-applet-music/po/sv.po | 
+ | [pt_BR](/f9/language/pt_BR) | 538 | 634 | 84.9 | /mnt/stockage/packages/f9/gnome-applet-music/po/pt_BR.po | 
+ | [ar](/f9/language/ar) | 346 | 634 | 54.6 | /mnt/stockage/packages/f9/gnome-applet-music/po/ar.po | 
 {.sortable}
 
 

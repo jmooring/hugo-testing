@@ -18,35 +18,35 @@ The package gnome-radio (version 49.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f40/language/ca.md" >}}) | 337 | 337 | 100.0 | /mnt/stockage/packages/f40/gnome-radio/po/ca.po | 
- | [cs]({{< ref "/f40/language/cs.md" >}}) | 343 | 343 | 100.0 | /mnt/stockage/packages/f40/gnome-radio/po/cs.po | 
- | [da]({{< ref "/f40/language/da.md" >}}) | 335 | 335 | 100.0 | /mnt/stockage/packages/f40/gnome-radio/po/da.po | 
- | [de]({{< ref "/f40/language/de.md" >}}) | 335 | 335 | 100.0 | /mnt/stockage/packages/f40/gnome-radio/po/de.po | 
- | [es]({{< ref "/f40/language/es.md" >}}) | 343 | 343 | 100.0 | /mnt/stockage/packages/f40/gnome-radio/po/es.po | 
- | [fr]({{< ref "/f40/language/fr.md" >}}) | 276 | 276 | 100.0 | /mnt/stockage/packages/f40/gnome-radio/po/fr.po | 
- | [fur]({{< ref "/f40/language/fur.md" >}}) | 337 | 337 | 100.0 | /mnt/stockage/packages/f40/gnome-radio/po/fur.po | 
- | [hi]({{< ref "/f40/language/hi.md" >}}) | 351 | 351 | 100.0 | /mnt/stockage/packages/f40/gnome-radio/po/hi.po | 
- | [hr]({{< ref "/f40/language/hr.md" >}}) | 343 | 343 | 100.0 | /mnt/stockage/packages/f40/gnome-radio/po/hr.po | 
- | [hu]({{< ref "/f40/language/hu.md" >}}) | 343 | 343 | 100.0 | /mnt/stockage/packages/f40/gnome-radio/po/hu.po | 
- | [id]({{< ref "/f40/language/id.md" >}}) | 341 | 341 | 100.0 | /mnt/stockage/packages/f40/gnome-radio/po/id.po | 
- | [is]({{< ref "/f40/language/is.md" >}}) | 351 | 351 | 100.0 | /mnt/stockage/packages/f40/gnome-radio/po/is.po | 
- | [nl]({{< ref "/f40/language/nl.md" >}}) | 343 | 343 | 100.0 | /mnt/stockage/packages/f40/gnome-radio/po/nl.po | 
- | [pl]({{< ref "/f40/language/pl.md" >}}) | 343 | 343 | 100.0 | /mnt/stockage/packages/f40/gnome-radio/po/pl.po | 
- | [pt_BR]({{< ref "/f40/language/pt_BR.md" >}}) | 343 | 343 | 100.0 | /mnt/stockage/packages/f40/gnome-radio/po/pt_BR.po | 
- | [ro]({{< ref "/f40/language/ro.md" >}}) | 341 | 341 | 100.0 | /mnt/stockage/packages/f40/gnome-radio/po/ro.po | 
- | [ru]({{< ref "/f40/language/ru.md" >}}) | 351 | 351 | 100.0 | /mnt/stockage/packages/f40/gnome-radio/po/ru.po | 
- | [sk]({{< ref "/f40/language/sk.md" >}}) | 335 | 335 | 100.0 | /mnt/stockage/packages/f40/gnome-radio/po/sk.po | 
- | [sl]({{< ref "/f40/language/sl.md" >}}) | 139 | 139 | 100.0 | /mnt/stockage/packages/f40/gnome-radio/po/sl.po | 
- | [sr]({{< ref "/f40/language/sr.md" >}}) | 343 | 343 | 100.0 | /mnt/stockage/packages/f40/gnome-radio/po/sr.po | 
- | [sv]({{< ref "/f40/language/sv.md" >}}) | 343 | 343 | 100.0 | /mnt/stockage/packages/f40/gnome-radio/po/sv.po | 
- | [tr]({{< ref "/f40/language/tr.md" >}}) | 337 | 337 | 100.0 | /mnt/stockage/packages/f40/gnome-radio/po/tr.po | 
- | [uk]({{< ref "/f40/language/uk.md" >}}) | 343 | 343 | 100.0 | /mnt/stockage/packages/f40/gnome-radio/po/uk.po | 
- | [zh_Hans]({{< ref "/f40/language/zh_Hans.md" >}}) | 335 | 335 | 100.0 | /mnt/stockage/packages/f40/gnome-radio/po/zh_CN.po | 
- | [nb_NO]({{< ref "/f40/language/nb_NO.md" >}}) | 156 | 282 | 55.3 | /mnt/stockage/packages/f40/gnome-radio/po/nb.po | 
- | [oc]({{< ref "/f40/language/oc.md" >}}) | 169 | 343 | 49.3 | /mnt/stockage/packages/f40/gnome-radio/po/oc.po | 
- | [eu]({{< ref "/f40/language/eu.md" >}}) | 134 | 296 | 45.3 | /mnt/stockage/packages/f40/gnome-radio/po/eu.po | 
- | [el]({{< ref "/f40/language/el.md" >}}) | 63 | 337 | 18.7 | /mnt/stockage/packages/f40/gnome-radio/po/el.po | 
- | [ka]({{< ref "/f40/language/ka.md" >}}) | 36 | 351 | 10.3 | /mnt/stockage/packages/f40/gnome-radio/po/ka.po | 
+ | [ca](/f40/language/ca) | 337 | 337 | 100.0 | /mnt/stockage/packages/f40/gnome-radio/po/ca.po | 
+ | [cs](/f40/language/cs) | 343 | 343 | 100.0 | /mnt/stockage/packages/f40/gnome-radio/po/cs.po | 
+ | [da](/f40/language/da) | 335 | 335 | 100.0 | /mnt/stockage/packages/f40/gnome-radio/po/da.po | 
+ | [de](/f40/language/de) | 335 | 335 | 100.0 | /mnt/stockage/packages/f40/gnome-radio/po/de.po | 
+ | [es](/f40/language/es) | 343 | 343 | 100.0 | /mnt/stockage/packages/f40/gnome-radio/po/es.po | 
+ | [fr](/f40/language/fr) | 276 | 276 | 100.0 | /mnt/stockage/packages/f40/gnome-radio/po/fr.po | 
+ | [fur](/f40/language/fur) | 337 | 337 | 100.0 | /mnt/stockage/packages/f40/gnome-radio/po/fur.po | 
+ | [hi](/f40/language/hi) | 351 | 351 | 100.0 | /mnt/stockage/packages/f40/gnome-radio/po/hi.po | 
+ | [hr](/f40/language/hr) | 343 | 343 | 100.0 | /mnt/stockage/packages/f40/gnome-radio/po/hr.po | 
+ | [hu](/f40/language/hu) | 343 | 343 | 100.0 | /mnt/stockage/packages/f40/gnome-radio/po/hu.po | 
+ | [id](/f40/language/id) | 341 | 341 | 100.0 | /mnt/stockage/packages/f40/gnome-radio/po/id.po | 
+ | [is](/f40/language/is) | 351 | 351 | 100.0 | /mnt/stockage/packages/f40/gnome-radio/po/is.po | 
+ | [nl](/f40/language/nl) | 343 | 343 | 100.0 | /mnt/stockage/packages/f40/gnome-radio/po/nl.po | 
+ | [pl](/f40/language/pl) | 343 | 343 | 100.0 | /mnt/stockage/packages/f40/gnome-radio/po/pl.po | 
+ | [pt_BR](/f40/language/pt_BR) | 343 | 343 | 100.0 | /mnt/stockage/packages/f40/gnome-radio/po/pt_BR.po | 
+ | [ro](/f40/language/ro) | 341 | 341 | 100.0 | /mnt/stockage/packages/f40/gnome-radio/po/ro.po | 
+ | [ru](/f40/language/ru) | 351 | 351 | 100.0 | /mnt/stockage/packages/f40/gnome-radio/po/ru.po | 
+ | [sk](/f40/language/sk) | 335 | 335 | 100.0 | /mnt/stockage/packages/f40/gnome-radio/po/sk.po | 
+ | [sl](/f40/language/sl) | 139 | 139 | 100.0 | /mnt/stockage/packages/f40/gnome-radio/po/sl.po | 
+ | [sr](/f40/language/sr) | 343 | 343 | 100.0 | /mnt/stockage/packages/f40/gnome-radio/po/sr.po | 
+ | [sv](/f40/language/sv) | 343 | 343 | 100.0 | /mnt/stockage/packages/f40/gnome-radio/po/sv.po | 
+ | [tr](/f40/language/tr) | 337 | 337 | 100.0 | /mnt/stockage/packages/f40/gnome-radio/po/tr.po | 
+ | [uk](/f40/language/uk) | 343 | 343 | 100.0 | /mnt/stockage/packages/f40/gnome-radio/po/uk.po | 
+ | [zh_Hans](/f40/language/zh_Hans) | 335 | 335 | 100.0 | /mnt/stockage/packages/f40/gnome-radio/po/zh_CN.po | 
+ | [nb_NO](/f40/language/nb_NO) | 156 | 282 | 55.3 | /mnt/stockage/packages/f40/gnome-radio/po/nb.po | 
+ | [oc](/f40/language/oc) | 169 | 343 | 49.3 | /mnt/stockage/packages/f40/gnome-radio/po/oc.po | 
+ | [eu](/f40/language/eu) | 134 | 296 | 45.3 | /mnt/stockage/packages/f40/gnome-radio/po/eu.po | 
+ | [el](/f40/language/el) | 63 | 337 | 18.7 | /mnt/stockage/packages/f40/gnome-radio/po/el.po | 
+ | [ka](/f40/language/ka) | 36 | 351 | 10.3 | /mnt/stockage/packages/f40/gnome-radio/po/ka.po | 
 {.sortable}
 
 

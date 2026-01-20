@@ -18,7 +18,7 @@ The package gkrellm-sun (version 1.0.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ru]({{< ref "/f28/language/ru.md" >}}) | 171 | 470 | 36.4 | /mnt/stockage/packages/f28/gkrellm-sun/src20/po/ru.po | 
+ | [ru](/f28/language/ru) | 171 | 470 | 36.4 | /mnt/stockage/packages/f28/gkrellm-sun/src20/po/ru.po | 
 {.sortable}
 
 

@@ -18,8 +18,8 @@ The package ibus-hangul (version 1.2.0.20090617):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ko]({{< ref "/f11/language/ko.md" >}}) | 22 | 22 | 100.0 | /mnt/stockage/packages/f11/ibus-hangul/po/ko.po | 
- | [zh_Hans]({{< ref "/f11/language/zh_Hans.md" >}}) | 0 | 22 | 0.0 | /mnt/stockage/packages/f11/ibus-hangul/po/zh_CN.po | 
+ | [ko](/f11/language/ko) | 22 | 22 | 100.0 | /mnt/stockage/packages/f11/ibus-hangul/po/ko.po | 
+ | [zh_Hans](/f11/language/zh_Hans) | 0 | 22 | 0.0 | /mnt/stockage/packages/f11/ibus-hangul/po/zh_CN.po | 
 {.sortable}
 
 

@@ -18,12 +18,12 @@ The package piklab (version 0.15.8):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f11/language/fr.md" >}}) | 7032 | 7032 | 100.0 | /mnt/stockage/packages/f11/piklab/po/fr.po | 
- | [es]({{< ref "/f11/language/es.md" >}}) | 6135 | 7032 | 87.2 | /mnt/stockage/packages/f11/piklab/po/es.po | 
- | [cs]({{< ref "/f11/language/cs.md" >}}) | 4881 | 7032 | 69.4 | /mnt/stockage/packages/f11/piklab/po/cs.po | 
- | [hu]({{< ref "/f11/language/hu.md" >}}) | 1967 | 7032 | 28.0 | /mnt/stockage/packages/f11/piklab/po/hu.po | 
- | [de]({{< ref "/f11/language/de.md" >}}) | 1499 | 7032 | 21.3 | /mnt/stockage/packages/f11/piklab/po/de.po | 
- | [it]({{< ref "/f11/language/it.md" >}}) | 1031 | 7032 | 14.7 | /mnt/stockage/packages/f11/piklab/po/it.po | 
+ | [fr](/f11/language/fr) | 7032 | 7032 | 100.0 | /mnt/stockage/packages/f11/piklab/po/fr.po | 
+ | [es](/f11/language/es) | 6135 | 7032 | 87.2 | /mnt/stockage/packages/f11/piklab/po/es.po | 
+ | [cs](/f11/language/cs) | 4881 | 7032 | 69.4 | /mnt/stockage/packages/f11/piklab/po/cs.po | 
+ | [hu](/f11/language/hu) | 1967 | 7032 | 28.0 | /mnt/stockage/packages/f11/piklab/po/hu.po | 
+ | [de](/f11/language/de) | 1499 | 7032 | 21.3 | /mnt/stockage/packages/f11/piklab/po/de.po | 
+ | [it](/f11/language/it) | 1031 | 7032 | 14.7 | /mnt/stockage/packages/f11/piklab/po/it.po | 
 {.sortable}
 
 

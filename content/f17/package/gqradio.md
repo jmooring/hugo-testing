@@ -18,7 +18,7 @@ The package gqradio (version 1.9.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f17/language/fr.md" >}}) | 746 | 870 | 85.7 | /mnt/stockage/packages/f17/gqradio/po/fr.po | 
+ | [fr](/f17/language/fr) | 746 | 870 | 85.7 | /mnt/stockage/packages/f17/gqradio/po/fr.po | 
 {.sortable}
 
 

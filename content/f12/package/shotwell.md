@@ -18,16 +18,16 @@ The package shotwell (version 0.4.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f12/language/de.md" >}}) | 1551 | 1551 | 100.0 | /mnt/stockage/packages/f12/shotwell/po/de.po | 
- | [et]({{< ref "/f12/language/et.md" >}}) | 1551 | 1551 | 100.0 | /mnt/stockage/packages/f12/shotwell/po/et.po | 
- | [fr]({{< ref "/f12/language/fr.md" >}}) | 1551 | 1551 | 100.0 | /mnt/stockage/packages/f12/shotwell/po/fr.po | 
- | [lv]({{< ref "/f12/language/lv.md" >}}) | 1551 | 1551 | 100.0 | /mnt/stockage/packages/f12/shotwell/po/lv.po | 
- | [pl]({{< ref "/f12/language/pl.md" >}}) | 1551 | 1551 | 100.0 | /mnt/stockage/packages/f12/shotwell/po/pl.po | 
- | [pt]({{< ref "/f12/language/pt.md" >}}) | 1551 | 1551 | 100.0 | /mnt/stockage/packages/f12/shotwell/po/pt.po | 
- | [sk]({{< ref "/f12/language/sk.md" >}}) | 1551 | 1551 | 100.0 | /mnt/stockage/packages/f12/shotwell/po/sk.po | 
- | [sv]({{< ref "/f12/language/sv.md" >}}) | 1551 | 1551 | 100.0 | /mnt/stockage/packages/f12/shotwell/po/sv.po | 
- | [it]({{< ref "/f12/language/it.md" >}}) | 1544 | 1551 | 99.5 | /mnt/stockage/packages/f12/shotwell/po/it.po | 
- | [bg]({{< ref "/f12/language/bg.md" >}}) | 1543 | 1551 | 99.5 | /mnt/stockage/packages/f12/shotwell/po/bg.po | 
+ | [de](/f12/language/de) | 1551 | 1551 | 100.0 | /mnt/stockage/packages/f12/shotwell/po/de.po | 
+ | [et](/f12/language/et) | 1551 | 1551 | 100.0 | /mnt/stockage/packages/f12/shotwell/po/et.po | 
+ | [fr](/f12/language/fr) | 1551 | 1551 | 100.0 | /mnt/stockage/packages/f12/shotwell/po/fr.po | 
+ | [lv](/f12/language/lv) | 1551 | 1551 | 100.0 | /mnt/stockage/packages/f12/shotwell/po/lv.po | 
+ | [pl](/f12/language/pl) | 1551 | 1551 | 100.0 | /mnt/stockage/packages/f12/shotwell/po/pl.po | 
+ | [pt](/f12/language/pt) | 1551 | 1551 | 100.0 | /mnt/stockage/packages/f12/shotwell/po/pt.po | 
+ | [sk](/f12/language/sk) | 1551 | 1551 | 100.0 | /mnt/stockage/packages/f12/shotwell/po/sk.po | 
+ | [sv](/f12/language/sv) | 1551 | 1551 | 100.0 | /mnt/stockage/packages/f12/shotwell/po/sv.po | 
+ | [it](/f12/language/it) | 1544 | 1551 | 99.5 | /mnt/stockage/packages/f12/shotwell/po/it.po | 
+ | [bg](/f12/language/bg) | 1543 | 1551 | 99.5 | /mnt/stockage/packages/f12/shotwell/po/bg.po | 
 {.sortable}
 
 

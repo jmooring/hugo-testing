@@ -18,34 +18,34 @@ The package kbibtex (version 0.9.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f31/language/ca.md" >}}) | 2481 | 2481 | 100.0 | /mnt/stockage/packages/f31/kbibtex/po/ca/kbibtex.po | 
- | [ca@valencia]({{< ref "/f31/language/ca@valencia.md" >}}) | 2481 | 2481 | 100.0 | /mnt/stockage/packages/f31/kbibtex/po/ca@valencia/kbibtex.po | 
- | [en_GB]({{< ref "/f31/language/en_GB.md" >}}) | 2481 | 2481 | 100.0 | /mnt/stockage/packages/f31/kbibtex/po/en_GB/kbibtex.po | 
- | [es]({{< ref "/f31/language/es.md" >}}) | 2481 | 2481 | 100.0 | /mnt/stockage/packages/f31/kbibtex/po/es/kbibtex.po | 
- | [ko]({{< ref "/f31/language/ko.md" >}}) | 2481 | 2481 | 100.0 | /mnt/stockage/packages/f31/kbibtex/po/ko/kbibtex.po | 
- | [nl]({{< ref "/f31/language/nl.md" >}}) | 2481 | 2481 | 100.0 | /mnt/stockage/packages/f31/kbibtex/po/nl/kbibtex.po | 
- | [pt]({{< ref "/f31/language/pt.md" >}}) | 2481 | 2481 | 100.0 | /mnt/stockage/packages/f31/kbibtex/po/pt/kbibtex.po | 
- | [pt_BR]({{< ref "/f31/language/pt_BR.md" >}}) | 2481 | 2481 | 100.0 | /mnt/stockage/packages/f31/kbibtex/po/pt_BR/kbibtex.po | 
- | [sv]({{< ref "/f31/language/sv.md" >}}) | 2481 | 2481 | 100.0 | /mnt/stockage/packages/f31/kbibtex/po/sv/kbibtex.po | 
- | [uk]({{< ref "/f31/language/uk.md" >}}) | 2481 | 2481 | 100.0 | /mnt/stockage/packages/f31/kbibtex/po/uk/kbibtex.po | 
- | [et]({{< ref "/f31/language/et.md" >}}) | 2470 | 2481 | 99.6 | /mnt/stockage/packages/f31/kbibtex/po/et/kbibtex.po | 
- | [it]({{< ref "/f31/language/it.md" >}}) | 2468 | 2481 | 99.5 | /mnt/stockage/packages/f31/kbibtex/po/it/kbibtex.po | 
- | [de]({{< ref "/f31/language/de.md" >}}) | 2457 | 2481 | 99.0 | /mnt/stockage/packages/f31/kbibtex/po/de/kbibtex.po | 
- | [fr]({{< ref "/f31/language/fr.md" >}}) | 2457 | 2481 | 99.0 | /mnt/stockage/packages/f31/kbibtex/po/fr/kbibtex.po | 
- | [gl]({{< ref "/f31/language/gl.md" >}}) | 2457 | 2481 | 99.0 | /mnt/stockage/packages/f31/kbibtex/po/gl/kbibtex.po | 
- | [pl]({{< ref "/f31/language/pl.md" >}}) | 2457 | 2481 | 99.0 | /mnt/stockage/packages/f31/kbibtex/po/pl/kbibtex.po | 
- | [sk]({{< ref "/f31/language/sk.md" >}}) | 2457 | 2481 | 99.0 | /mnt/stockage/packages/f31/kbibtex/po/sk/kbibtex.po | 
- | [fi]({{< ref "/f31/language/fi.md" >}}) | 2449 | 2481 | 98.7 | /mnt/stockage/packages/f31/kbibtex/po/fi/kbibtex.po | 
- | [tr]({{< ref "/f31/language/tr.md" >}}) | 2232 | 2481 | 90.0 | /mnt/stockage/packages/f31/kbibtex/po/tr/kbibtex.po | 
- | [bs]({{< ref "/f31/language/bs.md" >}}) | 2026 | 2481 | 81.7 | /mnt/stockage/packages/f31/kbibtex/po/bs/kbibtex.po | 
- | [cs]({{< ref "/f31/language/cs.md" >}}) | 1882 | 2481 | 75.9 | /mnt/stockage/packages/f31/kbibtex/po/cs/kbibtex.po | 
- | [nb_NO]({{< ref "/f31/language/nb_NO.md" >}}) | 1292 | 2481 | 52.1 | /mnt/stockage/packages/f31/kbibtex/po/nb/kbibtex.po | 
- | [ru]({{< ref "/f31/language/ru.md" >}}) | 1008 | 2481 | 40.6 | /mnt/stockage/packages/f31/kbibtex/po/ru/kbibtex.po | 
- | [zh_Hans]({{< ref "/f31/language/zh_Hans.md" >}}) | 462 | 2481 | 18.6 | /mnt/stockage/packages/f31/kbibtex/po/zh_CN/kbibtex.po | 
- | [ia]({{< ref "/f31/language/ia.md" >}}) | 372 | 2481 | 15.0 | /mnt/stockage/packages/f31/kbibtex/po/ia/kbibtex.po | 
- | [hu]({{< ref "/f31/language/hu.md" >}}) | 55 | 2481 | 2.2 | /mnt/stockage/packages/f31/kbibtex/po/hu/kbibtex.po | 
- | [lt]({{< ref "/f31/language/lt.md" >}}) | 15 | 2481 | 0.6 | /mnt/stockage/packages/f31/kbibtex/po/lt/kbibtex.po | 
- | [ast]({{< ref "/f31/language/ast.md" >}}) | 4 | 2481 | 0.2 | /mnt/stockage/packages/f31/kbibtex/po/ast/kbibtex.po | 
+ | [ca](/f31/language/ca) | 2481 | 2481 | 100.0 | /mnt/stockage/packages/f31/kbibtex/po/ca/kbibtex.po | 
+ | [ca@valencia](/f31/language/ca@valencia) | 2481 | 2481 | 100.0 | /mnt/stockage/packages/f31/kbibtex/po/ca@valencia/kbibtex.po | 
+ | [en_GB](/f31/language/en_GB) | 2481 | 2481 | 100.0 | /mnt/stockage/packages/f31/kbibtex/po/en_GB/kbibtex.po | 
+ | [es](/f31/language/es) | 2481 | 2481 | 100.0 | /mnt/stockage/packages/f31/kbibtex/po/es/kbibtex.po | 
+ | [ko](/f31/language/ko) | 2481 | 2481 | 100.0 | /mnt/stockage/packages/f31/kbibtex/po/ko/kbibtex.po | 
+ | [nl](/f31/language/nl) | 2481 | 2481 | 100.0 | /mnt/stockage/packages/f31/kbibtex/po/nl/kbibtex.po | 
+ | [pt](/f31/language/pt) | 2481 | 2481 | 100.0 | /mnt/stockage/packages/f31/kbibtex/po/pt/kbibtex.po | 
+ | [pt_BR](/f31/language/pt_BR) | 2481 | 2481 | 100.0 | /mnt/stockage/packages/f31/kbibtex/po/pt_BR/kbibtex.po | 
+ | [sv](/f31/language/sv) | 2481 | 2481 | 100.0 | /mnt/stockage/packages/f31/kbibtex/po/sv/kbibtex.po | 
+ | [uk](/f31/language/uk) | 2481 | 2481 | 100.0 | /mnt/stockage/packages/f31/kbibtex/po/uk/kbibtex.po | 
+ | [et](/f31/language/et) | 2470 | 2481 | 99.6 | /mnt/stockage/packages/f31/kbibtex/po/et/kbibtex.po | 
+ | [it](/f31/language/it) | 2468 | 2481 | 99.5 | /mnt/stockage/packages/f31/kbibtex/po/it/kbibtex.po | 
+ | [de](/f31/language/de) | 2457 | 2481 | 99.0 | /mnt/stockage/packages/f31/kbibtex/po/de/kbibtex.po | 
+ | [fr](/f31/language/fr) | 2457 | 2481 | 99.0 | /mnt/stockage/packages/f31/kbibtex/po/fr/kbibtex.po | 
+ | [gl](/f31/language/gl) | 2457 | 2481 | 99.0 | /mnt/stockage/packages/f31/kbibtex/po/gl/kbibtex.po | 
+ | [pl](/f31/language/pl) | 2457 | 2481 | 99.0 | /mnt/stockage/packages/f31/kbibtex/po/pl/kbibtex.po | 
+ | [sk](/f31/language/sk) | 2457 | 2481 | 99.0 | /mnt/stockage/packages/f31/kbibtex/po/sk/kbibtex.po | 
+ | [fi](/f31/language/fi) | 2449 | 2481 | 98.7 | /mnt/stockage/packages/f31/kbibtex/po/fi/kbibtex.po | 
+ | [tr](/f31/language/tr) | 2232 | 2481 | 90.0 | /mnt/stockage/packages/f31/kbibtex/po/tr/kbibtex.po | 
+ | [bs](/f31/language/bs) | 2026 | 2481 | 81.7 | /mnt/stockage/packages/f31/kbibtex/po/bs/kbibtex.po | 
+ | [cs](/f31/language/cs) | 1882 | 2481 | 75.9 | /mnt/stockage/packages/f31/kbibtex/po/cs/kbibtex.po | 
+ | [nb_NO](/f31/language/nb_NO) | 1292 | 2481 | 52.1 | /mnt/stockage/packages/f31/kbibtex/po/nb/kbibtex.po | 
+ | [ru](/f31/language/ru) | 1008 | 2481 | 40.6 | /mnt/stockage/packages/f31/kbibtex/po/ru/kbibtex.po | 
+ | [zh_Hans](/f31/language/zh_Hans) | 462 | 2481 | 18.6 | /mnt/stockage/packages/f31/kbibtex/po/zh_CN/kbibtex.po | 
+ | [ia](/f31/language/ia) | 372 | 2481 | 15.0 | /mnt/stockage/packages/f31/kbibtex/po/ia/kbibtex.po | 
+ | [hu](/f31/language/hu) | 55 | 2481 | 2.2 | /mnt/stockage/packages/f31/kbibtex/po/hu/kbibtex.po | 
+ | [lt](/f31/language/lt) | 15 | 2481 | 0.6 | /mnt/stockage/packages/f31/kbibtex/po/lt/kbibtex.po | 
+ | [ast](/f31/language/ast) | 4 | 2481 | 0.2 | /mnt/stockage/packages/f31/kbibtex/po/ast/kbibtex.po | 
 {.sortable}
 
 

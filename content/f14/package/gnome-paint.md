@@ -18,23 +18,23 @@ The package gnome-paint (version 0.4.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f14/language/ar.md" >}}) | 167 | 167 | 100.0 | /mnt/stockage/packages/f14/gnome-paint/po/ar.po | 
- | [cs]({{< ref "/f14/language/cs.md" >}}) | 167 | 167 | 100.0 | /mnt/stockage/packages/f14/gnome-paint/po/cs.po | 
- | [da]({{< ref "/f14/language/da.md" >}}) | 167 | 167 | 100.0 | /mnt/stockage/packages/f14/gnome-paint/po/da.po | 
- | [de]({{< ref "/f14/language/de.md" >}}) | 167 | 167 | 100.0 | /mnt/stockage/packages/f14/gnome-paint/po/de.po | 
- | [es]({{< ref "/f14/language/es.md" >}}) | 167 | 167 | 100.0 | /mnt/stockage/packages/f14/gnome-paint/po/es.po | 
- | [it]({{< ref "/f14/language/it.md" >}}) | 167 | 167 | 100.0 | /mnt/stockage/packages/f14/gnome-paint/po/it.po | 
- | [pt]({{< ref "/f14/language/pt.md" >}}) | 167 | 167 | 100.0 | /mnt/stockage/packages/f14/gnome-paint/po/pt.po | 
- | [pt_BR]({{< ref "/f14/language/pt_BR.md" >}}) | 167 | 167 | 100.0 | /mnt/stockage/packages/f14/gnome-paint/po/pt_BR.po | 
- | [ru]({{< ref "/f14/language/ru.md" >}}) | 167 | 167 | 100.0 | /mnt/stockage/packages/f14/gnome-paint/po/ru.po | 
- | [vi]({{< ref "/f14/language/vi.md" >}}) | 167 | 167 | 100.0 | /mnt/stockage/packages/f14/gnome-paint/po/vi.po | 
- | [zh_Hans]({{< ref "/f14/language/zh_Hans.md" >}}) | 167 | 167 | 100.0 | /mnt/stockage/packages/f14/gnome-paint/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f14/language/zh_Hant.md" >}}) | 167 | 167 | 100.0 | /mnt/stockage/packages/f14/gnome-paint/po/zh_TW.po | 
- | [tr]({{< ref "/f14/language/tr.md" >}}) | 162 | 167 | 97.0 | /mnt/stockage/packages/f14/gnome-paint/po/tr.po | 
- | [fr]({{< ref "/f14/language/fr.md" >}}) | 156 | 167 | 93.4 | /mnt/stockage/packages/f14/gnome-paint/po/fr.po | 
- | [es_MX]({{< ref "/f14/language/es_MX.md" >}}) | 141 | 167 | 84.4 | /mnt/stockage/packages/f14/gnome-paint/po/es_MX.po | 
- | [nb_NO]({{< ref "/f14/language/nb_NO.md" >}}) | 77 | 167 | 46.1 | /mnt/stockage/packages/f14/gnome-paint/po/nb.po | 
- | [he]({{< ref "/f14/language/he.md" >}}) | 49 | 167 | 29.3 | /mnt/stockage/packages/f14/gnome-paint/po/he.po | 
+ | [ar](/f14/language/ar) | 167 | 167 | 100.0 | /mnt/stockage/packages/f14/gnome-paint/po/ar.po | 
+ | [cs](/f14/language/cs) | 167 | 167 | 100.0 | /mnt/stockage/packages/f14/gnome-paint/po/cs.po | 
+ | [da](/f14/language/da) | 167 | 167 | 100.0 | /mnt/stockage/packages/f14/gnome-paint/po/da.po | 
+ | [de](/f14/language/de) | 167 | 167 | 100.0 | /mnt/stockage/packages/f14/gnome-paint/po/de.po | 
+ | [es](/f14/language/es) | 167 | 167 | 100.0 | /mnt/stockage/packages/f14/gnome-paint/po/es.po | 
+ | [it](/f14/language/it) | 167 | 167 | 100.0 | /mnt/stockage/packages/f14/gnome-paint/po/it.po | 
+ | [pt](/f14/language/pt) | 167 | 167 | 100.0 | /mnt/stockage/packages/f14/gnome-paint/po/pt.po | 
+ | [pt_BR](/f14/language/pt_BR) | 167 | 167 | 100.0 | /mnt/stockage/packages/f14/gnome-paint/po/pt_BR.po | 
+ | [ru](/f14/language/ru) | 167 | 167 | 100.0 | /mnt/stockage/packages/f14/gnome-paint/po/ru.po | 
+ | [vi](/f14/language/vi) | 167 | 167 | 100.0 | /mnt/stockage/packages/f14/gnome-paint/po/vi.po | 
+ | [zh_Hans](/f14/language/zh_Hans) | 167 | 167 | 100.0 | /mnt/stockage/packages/f14/gnome-paint/po/zh_CN.po | 
+ | [zh_Hant](/f14/language/zh_Hant) | 167 | 167 | 100.0 | /mnt/stockage/packages/f14/gnome-paint/po/zh_TW.po | 
+ | [tr](/f14/language/tr) | 162 | 167 | 97.0 | /mnt/stockage/packages/f14/gnome-paint/po/tr.po | 
+ | [fr](/f14/language/fr) | 156 | 167 | 93.4 | /mnt/stockage/packages/f14/gnome-paint/po/fr.po | 
+ | [es_MX](/f14/language/es_MX) | 141 | 167 | 84.4 | /mnt/stockage/packages/f14/gnome-paint/po/es_MX.po | 
+ | [nb_NO](/f14/language/nb_NO) | 77 | 167 | 46.1 | /mnt/stockage/packages/f14/gnome-paint/po/nb.po | 
+ | [he](/f14/language/he) | 49 | 167 | 29.3 | /mnt/stockage/packages/f14/gnome-paint/po/he.po | 
 {.sortable}
 
 

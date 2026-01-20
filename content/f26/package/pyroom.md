@@ -18,46 +18,46 @@ The package pyroom (version 0.4.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f26/language/de.md" >}}) | 411 | 411 | 100.0 | /mnt/stockage/packages/f26/pyroom/locales/pyroom-de.po | 
- | [en_GB]({{< ref "/f26/language/en_GB.md" >}}) | 411 | 411 | 100.0 | /mnt/stockage/packages/f26/pyroom/locales/pyroom-en_GB.po | 
- | [fr]({{< ref "/f26/language/fr.md" >}}) | 411 | 411 | 100.0 | /mnt/stockage/packages/f26/pyroom/locales/pyroom-fr.po | 
- | [gu]({{< ref "/f26/language/gu.md" >}}) | 411 | 411 | 100.0 | /mnt/stockage/packages/f26/pyroom/locales/pyroom-gu.po | 
- | [tr]({{< ref "/f26/language/tr.md" >}}) | 411 | 411 | 100.0 | /mnt/stockage/packages/f26/pyroom/locales/pyroom-tr.po | 
- | [zh_Hans]({{< ref "/f26/language/zh_Hans.md" >}}) | 411 | 411 | 100.0 | /mnt/stockage/packages/f26/pyroom/locales/pyroom-zh_CN.po | 
- | [el]({{< ref "/f26/language/el.md" >}}) | 266 | 411 | 64.7 | /mnt/stockage/packages/f26/pyroom/locales/pyroom-el.po | 
- | [ga]({{< ref "/f26/language/ga.md" >}}) | 266 | 411 | 64.7 | /mnt/stockage/packages/f26/pyroom/locales/pyroom-ga.po | 
- | [it]({{< ref "/f26/language/it.md" >}}) | 266 | 411 | 64.7 | /mnt/stockage/packages/f26/pyroom/locales/pyroom-it.po | 
- | [ku]({{< ref "/f26/language/ku.md" >}}) | 266 | 411 | 64.7 | /mnt/stockage/packages/f26/pyroom/locales/pyroom-ku.po | 
- | [lt]({{< ref "/f26/language/lt.md" >}}) | 266 | 411 | 64.7 | /mnt/stockage/packages/f26/pyroom/locales/pyroom-lt.po | 
- | [sk]({{< ref "/f26/language/sk.md" >}}) | 266 | 411 | 64.7 | /mnt/stockage/packages/f26/pyroom/locales/pyroom-sk.po | 
- | [sl]({{< ref "/f26/language/sl.md" >}}) | 266 | 411 | 64.7 | /mnt/stockage/packages/f26/pyroom/locales/pyroom-sl.po | 
- | [nl]({{< ref "/f26/language/nl.md" >}}) | 258 | 411 | 62.8 | /mnt/stockage/packages/f26/pyroom/locales/pyroom-nl.po | 
- | [ru]({{< ref "/f26/language/ru.md" >}}) | 192 | 411 | 46.7 | /mnt/stockage/packages/f26/pyroom/locales/pyroom-ru.po | 
- | [fi]({{< ref "/f26/language/fi.md" >}}) | 118 | 411 | 28.7 | /mnt/stockage/packages/f26/pyroom/locales/pyroom-fi.po | 
- | [da]({{< ref "/f26/language/da.md" >}}) | 75 | 411 | 18.2 | /mnt/stockage/packages/f26/pyroom/locales/pyroom-da.po | 
- | [pl]({{< ref "/f26/language/pl.md" >}}) | 75 | 411 | 18.2 | /mnt/stockage/packages/f26/pyroom/locales/pyroom-pl.po | 
- | [pt]({{< ref "/f26/language/pt.md" >}}) | 69 | 411 | 16.8 | /mnt/stockage/packages/f26/pyroom/locales/pyroom-pt.po | 
- | [hr]({{< ref "/f26/language/hr.md" >}}) | 57 | 411 | 13.9 | /mnt/stockage/packages/f26/pyroom/locales/pyroom-hr.po | 
- | [pt_BR]({{< ref "/f26/language/pt_BR.md" >}}) | 34 | 411 | 8.3 | /mnt/stockage/packages/f26/pyroom/locales/pyroom-pt_BR.po | 
- | [ar]({{< ref "/f26/language/ar.md" >}}) | 21 | 411 | 5.1 | /mnt/stockage/packages/f26/pyroom/locales/pyroom-ar.po | 
- | [bg]({{< ref "/f26/language/bg.md" >}}) | 21 | 411 | 5.1 | /mnt/stockage/packages/f26/pyroom/locales/pyroom-bg.po | 
- | [ca]({{< ref "/f26/language/ca.md" >}}) | 21 | 411 | 5.1 | /mnt/stockage/packages/f26/pyroom/locales/pyroom-ca.po | 
- | [cy]({{< ref "/f26/language/cy.md" >}}) | 21 | 411 | 5.1 | /mnt/stockage/packages/f26/pyroom/locales/pyroom-cy.po | 
- | [es]({{< ref "/f26/language/es.md" >}}) | 21 | 411 | 5.1 | /mnt/stockage/packages/f26/pyroom/locales/pyroom-es.po | 
- | [eu]({{< ref "/f26/language/eu.md" >}}) | 21 | 411 | 5.1 | /mnt/stockage/packages/f26/pyroom/locales/pyroom-eu.po | 
- | [hu]({{< ref "/f26/language/hu.md" >}}) | 21 | 411 | 5.1 | /mnt/stockage/packages/f26/pyroom/locales/pyroom-hu.po | 
- | [ja]({{< ref "/f26/language/ja.md" >}}) | 21 | 411 | 5.1 | /mnt/stockage/packages/f26/pyroom/locales/pyroom-ja.po | 
- | [nb_NO]({{< ref "/f26/language/nb_NO.md" >}}) | 21 | 411 | 5.1 | /mnt/stockage/packages/f26/pyroom/locales/pyroom-nb.po | 
- | [ro]({{< ref "/f26/language/ro.md" >}}) | 21 | 411 | 5.1 | /mnt/stockage/packages/f26/pyroom/locales/pyroom-ro.po | 
- | [sco]({{< ref "/f26/language/sco.md" >}}) | 21 | 411 | 5.1 | /mnt/stockage/packages/f26/pyroom/locales/pyroom-sco.po | 
- | [sv]({{< ref "/f26/language/sv.md" >}}) | 21 | 411 | 5.1 | /mnt/stockage/packages/f26/pyroom/locales/pyroom-sv.po | 
- | [mk]({{< ref "/f26/language/mk.md" >}}) | 17 | 411 | 4.1 | /mnt/stockage/packages/f26/pyroom/locales/pyroom-mk.po | 
- | [br]({{< ref "/f26/language/br.md" >}}) | 16 | 411 | 3.9 | /mnt/stockage/packages/f26/pyroom/locales/pyroom-br.po | 
- | [id]({{< ref "/f26/language/id.md" >}}) | 16 | 411 | 3.9 | /mnt/stockage/packages/f26/pyroom/locales/pyroom-id.po | 
- | [nn]({{< ref "/f26/language/nn.md" >}}) | 13 | 411 | 3.2 | /mnt/stockage/packages/f26/pyroom/locales/pyroom-nn.po | 
- | [lv]({{< ref "/f26/language/lv.md" >}}) | 5 | 411 | 1.2 | /mnt/stockage/packages/f26/pyroom/locales/pyroom-lv.po | 
- | [eo]({{< ref "/f26/language/eo.md" >}}) | 2 | 411 | 0.5 | /mnt/stockage/packages/f26/pyroom/locales/pyroom-eo.po | 
- | [sr]({{< ref "/f26/language/sr.md" >}}) | 1 | 411 | 0.2 | /mnt/stockage/packages/f26/pyroom/locales/pyroom-sr.po | 
+ | [de](/f26/language/de) | 411 | 411 | 100.0 | /mnt/stockage/packages/f26/pyroom/locales/pyroom-de.po | 
+ | [en_GB](/f26/language/en_GB) | 411 | 411 | 100.0 | /mnt/stockage/packages/f26/pyroom/locales/pyroom-en_GB.po | 
+ | [fr](/f26/language/fr) | 411 | 411 | 100.0 | /mnt/stockage/packages/f26/pyroom/locales/pyroom-fr.po | 
+ | [gu](/f26/language/gu) | 411 | 411 | 100.0 | /mnt/stockage/packages/f26/pyroom/locales/pyroom-gu.po | 
+ | [tr](/f26/language/tr) | 411 | 411 | 100.0 | /mnt/stockage/packages/f26/pyroom/locales/pyroom-tr.po | 
+ | [zh_Hans](/f26/language/zh_Hans) | 411 | 411 | 100.0 | /mnt/stockage/packages/f26/pyroom/locales/pyroom-zh_CN.po | 
+ | [el](/f26/language/el) | 266 | 411 | 64.7 | /mnt/stockage/packages/f26/pyroom/locales/pyroom-el.po | 
+ | [ga](/f26/language/ga) | 266 | 411 | 64.7 | /mnt/stockage/packages/f26/pyroom/locales/pyroom-ga.po | 
+ | [it](/f26/language/it) | 266 | 411 | 64.7 | /mnt/stockage/packages/f26/pyroom/locales/pyroom-it.po | 
+ | [ku](/f26/language/ku) | 266 | 411 | 64.7 | /mnt/stockage/packages/f26/pyroom/locales/pyroom-ku.po | 
+ | [lt](/f26/language/lt) | 266 | 411 | 64.7 | /mnt/stockage/packages/f26/pyroom/locales/pyroom-lt.po | 
+ | [sk](/f26/language/sk) | 266 | 411 | 64.7 | /mnt/stockage/packages/f26/pyroom/locales/pyroom-sk.po | 
+ | [sl](/f26/language/sl) | 266 | 411 | 64.7 | /mnt/stockage/packages/f26/pyroom/locales/pyroom-sl.po | 
+ | [nl](/f26/language/nl) | 258 | 411 | 62.8 | /mnt/stockage/packages/f26/pyroom/locales/pyroom-nl.po | 
+ | [ru](/f26/language/ru) | 192 | 411 | 46.7 | /mnt/stockage/packages/f26/pyroom/locales/pyroom-ru.po | 
+ | [fi](/f26/language/fi) | 118 | 411 | 28.7 | /mnt/stockage/packages/f26/pyroom/locales/pyroom-fi.po | 
+ | [da](/f26/language/da) | 75 | 411 | 18.2 | /mnt/stockage/packages/f26/pyroom/locales/pyroom-da.po | 
+ | [pl](/f26/language/pl) | 75 | 411 | 18.2 | /mnt/stockage/packages/f26/pyroom/locales/pyroom-pl.po | 
+ | [pt](/f26/language/pt) | 69 | 411 | 16.8 | /mnt/stockage/packages/f26/pyroom/locales/pyroom-pt.po | 
+ | [hr](/f26/language/hr) | 57 | 411 | 13.9 | /mnt/stockage/packages/f26/pyroom/locales/pyroom-hr.po | 
+ | [pt_BR](/f26/language/pt_BR) | 34 | 411 | 8.3 | /mnt/stockage/packages/f26/pyroom/locales/pyroom-pt_BR.po | 
+ | [ar](/f26/language/ar) | 21 | 411 | 5.1 | /mnt/stockage/packages/f26/pyroom/locales/pyroom-ar.po | 
+ | [bg](/f26/language/bg) | 21 | 411 | 5.1 | /mnt/stockage/packages/f26/pyroom/locales/pyroom-bg.po | 
+ | [ca](/f26/language/ca) | 21 | 411 | 5.1 | /mnt/stockage/packages/f26/pyroom/locales/pyroom-ca.po | 
+ | [cy](/f26/language/cy) | 21 | 411 | 5.1 | /mnt/stockage/packages/f26/pyroom/locales/pyroom-cy.po | 
+ | [es](/f26/language/es) | 21 | 411 | 5.1 | /mnt/stockage/packages/f26/pyroom/locales/pyroom-es.po | 
+ | [eu](/f26/language/eu) | 21 | 411 | 5.1 | /mnt/stockage/packages/f26/pyroom/locales/pyroom-eu.po | 
+ | [hu](/f26/language/hu) | 21 | 411 | 5.1 | /mnt/stockage/packages/f26/pyroom/locales/pyroom-hu.po | 
+ | [ja](/f26/language/ja) | 21 | 411 | 5.1 | /mnt/stockage/packages/f26/pyroom/locales/pyroom-ja.po | 
+ | [nb_NO](/f26/language/nb_NO) | 21 | 411 | 5.1 | /mnt/stockage/packages/f26/pyroom/locales/pyroom-nb.po | 
+ | [ro](/f26/language/ro) | 21 | 411 | 5.1 | /mnt/stockage/packages/f26/pyroom/locales/pyroom-ro.po | 
+ | [sco](/f26/language/sco) | 21 | 411 | 5.1 | /mnt/stockage/packages/f26/pyroom/locales/pyroom-sco.po | 
+ | [sv](/f26/language/sv) | 21 | 411 | 5.1 | /mnt/stockage/packages/f26/pyroom/locales/pyroom-sv.po | 
+ | [mk](/f26/language/mk) | 17 | 411 | 4.1 | /mnt/stockage/packages/f26/pyroom/locales/pyroom-mk.po | 
+ | [br](/f26/language/br) | 16 | 411 | 3.9 | /mnt/stockage/packages/f26/pyroom/locales/pyroom-br.po | 
+ | [id](/f26/language/id) | 16 | 411 | 3.9 | /mnt/stockage/packages/f26/pyroom/locales/pyroom-id.po | 
+ | [nn](/f26/language/nn) | 13 | 411 | 3.2 | /mnt/stockage/packages/f26/pyroom/locales/pyroom-nn.po | 
+ | [lv](/f26/language/lv) | 5 | 411 | 1.2 | /mnt/stockage/packages/f26/pyroom/locales/pyroom-lv.po | 
+ | [eo](/f26/language/eo) | 2 | 411 | 0.5 | /mnt/stockage/packages/f26/pyroom/locales/pyroom-eo.po | 
+ | [sr](/f26/language/sr) | 1 | 411 | 0.2 | /mnt/stockage/packages/f26/pyroom/locales/pyroom-sr.po | 
 {.sortable}
 
 

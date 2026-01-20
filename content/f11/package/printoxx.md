@@ -18,12 +18,12 @@ The package printoxx (version 1.8.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f11/language/de.md" >}}) | 177 | 192 | 92.2 | /mnt/stockage/packages/f11/printoxx/locales/de/printoxx.po/mnt/stockage/packages/f11/printoxx/locales/de/zfuncs.po | 
- | [es]({{< ref "/f11/language/es.md" >}}) | 177 | 192 | 92.2 | /mnt/stockage/packages/f11/printoxx/locales/es/printoxx.po/mnt/stockage/packages/f11/printoxx/locales/es/zfuncs.po | 
- | [gl]({{< ref "/f11/language/gl.md" >}}) | 177 | 192 | 92.2 | /mnt/stockage/packages/f11/printoxx/locales/gl/printoxx.po/mnt/stockage/packages/f11/printoxx/locales/gl/zfuncs.po | 
- | [fr]({{< ref "/f11/language/fr.md" >}}) | 156 | 192 | 81.2 | /mnt/stockage/packages/f11/printoxx/locales/fr/printoxx.po/mnt/stockage/packages/f11/printoxx/locales/fr/zfuncs.po | 
- | [el]({{< ref "/f11/language/el.md" >}}) | 113 | 192 | 58.9 | /mnt/stockage/packages/f11/printoxx/locales/el/printoxx.po/mnt/stockage/packages/f11/printoxx/locales/el/zfuncs.po | 
- | [it]({{< ref "/f11/language/it.md" >}}) | 0 | 192 | 0.0 | /mnt/stockage/packages/f11/printoxx/locales/it/printoxx.po/mnt/stockage/packages/f11/printoxx/locales/it/zfuncs.po | 
+ | [de](/f11/language/de) | 177 | 192 | 92.2 | /mnt/stockage/packages/f11/printoxx/locales/de/printoxx.po/mnt/stockage/packages/f11/printoxx/locales/de/zfuncs.po | 
+ | [es](/f11/language/es) | 177 | 192 | 92.2 | /mnt/stockage/packages/f11/printoxx/locales/es/printoxx.po/mnt/stockage/packages/f11/printoxx/locales/es/zfuncs.po | 
+ | [gl](/f11/language/gl) | 177 | 192 | 92.2 | /mnt/stockage/packages/f11/printoxx/locales/gl/printoxx.po/mnt/stockage/packages/f11/printoxx/locales/gl/zfuncs.po | 
+ | [fr](/f11/language/fr) | 156 | 192 | 81.2 | /mnt/stockage/packages/f11/printoxx/locales/fr/printoxx.po/mnt/stockage/packages/f11/printoxx/locales/fr/zfuncs.po | 
+ | [el](/f11/language/el) | 113 | 192 | 58.9 | /mnt/stockage/packages/f11/printoxx/locales/el/printoxx.po/mnt/stockage/packages/f11/printoxx/locales/el/zfuncs.po | 
+ | [it](/f11/language/it) | 0 | 192 | 0.0 | /mnt/stockage/packages/f11/printoxx/locales/it/printoxx.po/mnt/stockage/packages/f11/printoxx/locales/it/zfuncs.po | 
 {.sortable}
 
 

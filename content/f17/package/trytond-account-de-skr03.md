@@ -18,7 +18,7 @@ The package trytond-account-de-skr03 (version 2.2.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f17/language/de.md" >}}) | 5657 | 5657 | 100.0 | /mnt/stockage/packages/f17/trytond-account-de-skr03/locale/de_DE.po | 
+ | [de](/f17/language/de) | 5657 | 5657 | 100.0 | /mnt/stockage/packages/f17/trytond-account-de-skr03/locale/de_DE.po | 
 {.sortable}
 
 

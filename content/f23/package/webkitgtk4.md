@@ -18,53 +18,53 @@ The package webkitgtk4 (version 2.12.5):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [as]({{< ref "/f23/language/as.md" >}}) | 1543 | 1543 | 100.0 | /mnt/stockage/packages/f23/webkitgtk4/Source/WebCore/platform/gtk/po/as.po | 
- | [bg]({{< ref "/f23/language/bg.md" >}}) | 1606 | 1606 | 100.0 | /mnt/stockage/packages/f23/webkitgtk4/Source/WebCore/platform/gtk/po/bg.po | 
- | [de]({{< ref "/f23/language/de.md" >}}) | 1630 | 1630 | 100.0 | /mnt/stockage/packages/f23/webkitgtk4/Source/WebCore/platform/gtk/po/de.po | 
- | [en_GB]({{< ref "/f23/language/en_GB.md" >}}) | 2702 | 2702 | 100.0 | /mnt/stockage/packages/f23/webkitgtk4/Source/WebCore/platform/gtk/po/en_GB.po | 
- | [gu]({{< ref "/f23/language/gu.md" >}}) | 1545 | 1545 | 100.0 | /mnt/stockage/packages/f23/webkitgtk4/Source/WebCore/platform/gtk/po/gu.po | 
- | [he]({{< ref "/f23/language/he.md" >}}) | 1567 | 1567 | 100.0 | /mnt/stockage/packages/f23/webkitgtk4/Source/WebCore/platform/gtk/po/he.po | 
- | [hi]({{< ref "/f23/language/hi.md" >}}) | 1526 | 1526 | 100.0 | /mnt/stockage/packages/f23/webkitgtk4/Source/WebCore/platform/gtk/po/hi.po | 
- | [hu]({{< ref "/f23/language/hu.md" >}}) | 1606 | 1606 | 100.0 | /mnt/stockage/packages/f23/webkitgtk4/Source/WebCore/platform/gtk/po/hu.po | 
- | [it]({{< ref "/f23/language/it.md" >}}) | 1606 | 1606 | 100.0 | /mnt/stockage/packages/f23/webkitgtk4/Source/WebCore/platform/gtk/po/it.po | 
- | [kn]({{< ref "/f23/language/kn.md" >}}) | 1551 | 1551 | 100.0 | /mnt/stockage/packages/f23/webkitgtk4/Source/WebCore/platform/gtk/po/kn.po | 
- | [mr]({{< ref "/f23/language/mr.md" >}}) | 1526 | 1526 | 100.0 | /mnt/stockage/packages/f23/webkitgtk4/Source/WebCore/platform/gtk/po/mr.po | 
- | [or]({{< ref "/f23/language/or.md" >}}) | 1526 | 1526 | 100.0 | /mnt/stockage/packages/f23/webkitgtk4/Source/WebCore/platform/gtk/po/or.po | 
- | [pl]({{< ref "/f23/language/pl.md" >}}) | 1599 | 1599 | 100.0 | /mnt/stockage/packages/f23/webkitgtk4/Source/WebCore/platform/gtk/po/pl.po | 
- | [pt_BR]({{< ref "/f23/language/pt_BR.md" >}}) | 1606 | 1606 | 100.0 | /mnt/stockage/packages/f23/webkitgtk4/Source/WebCore/platform/gtk/po/pt_BR.po | 
- | [sv]({{< ref "/f23/language/sv.md" >}}) | 1586 | 1586 | 100.0 | /mnt/stockage/packages/f23/webkitgtk4/Source/WebCore/platform/gtk/po/sv.po | 
- | [ta]({{< ref "/f23/language/ta.md" >}}) | 1545 | 1545 | 100.0 | /mnt/stockage/packages/f23/webkitgtk4/Source/WebCore/platform/gtk/po/ta.po | 
- | [te]({{< ref "/f23/language/te.md" >}}) | 1526 | 1526 | 100.0 | /mnt/stockage/packages/f23/webkitgtk4/Source/WebCore/platform/gtk/po/te.po | 
- | [tr]({{< ref "/f23/language/tr.md" >}}) | 1606 | 1606 | 100.0 | /mnt/stockage/packages/f23/webkitgtk4/Source/WebCore/platform/gtk/po/tr.po | 
- | [ko]({{< ref "/f23/language/ko.md" >}}) | 2622 | 2623 | 100.0 | /mnt/stockage/packages/f23/webkitgtk4/Source/WebCore/platform/gtk/po/ko.po | 
- | [el]({{< ref "/f23/language/el.md" >}}) | 1605 | 1606 | 99.9 | /mnt/stockage/packages/f23/webkitgtk4/Source/WebCore/platform/gtk/po/el.po | 
- | [ja]({{< ref "/f23/language/ja.md" >}}) | 2682 | 2708 | 99.0 | /mnt/stockage/packages/f23/webkitgtk4/Source/WebCore/platform/gtk/po/ja.po | 
- | [gl]({{< ref "/f23/language/gl.md" >}}) | 2647 | 2686 | 98.5 | /mnt/stockage/packages/f23/webkitgtk4/Source/WebCore/platform/gtk/po/gl.po | 
- | [nl]({{< ref "/f23/language/nl.md" >}}) | 2407 | 2699 | 89.2 | /mnt/stockage/packages/f23/webkitgtk4/Source/WebCore/platform/gtk/po/nl.po | 
- | [fr]({{< ref "/f23/language/fr.md" >}}) | 1396 | 1599 | 87.3 | /mnt/stockage/packages/f23/webkitgtk4/Source/WebCore/platform/gtk/po/fr.po | 
- | [es]({{< ref "/f23/language/es.md" >}}) | 1253 | 1582 | 79.2 | /mnt/stockage/packages/f23/webkitgtk4/Source/WebCore/platform/gtk/po/es.po | 
- | [ro]({{< ref "/f23/language/ro.md" >}}) | 1834 | 2623 | 69.9 | /mnt/stockage/packages/f23/webkitgtk4/Source/WebCore/platform/gtk/po/ro.po | 
- | [sl]({{< ref "/f23/language/sl.md" >}}) | 1889 | 2710 | 69.7 | /mnt/stockage/packages/f23/webkitgtk4/Source/WebCore/platform/gtk/po/sl.po | 
- | [id]({{< ref "/f23/language/id.md" >}}) | 1777 | 2623 | 67.7 | /mnt/stockage/packages/f23/webkitgtk4/Source/WebCore/platform/gtk/po/id.po | 
- | [uk]({{< ref "/f23/language/uk.md" >}}) | 1443 | 2623 | 55.0 | /mnt/stockage/packages/f23/webkitgtk4/Source/WebCore/platform/gtk/po/uk.po | 
- | [en_CA]({{< ref "/f23/language/en_CA.md" >}}) | 1441 | 2621 | 55.0 | /mnt/stockage/packages/f23/webkitgtk4/Source/WebCore/platform/gtk/po/en_CA.po | 
- | [pt]({{< ref "/f23/language/pt.md" >}}) | 1375 | 2623 | 52.4 | /mnt/stockage/packages/f23/webkitgtk4/Source/WebCore/platform/gtk/po/pt.po | 
- | [ar]({{< ref "/f23/language/ar.md" >}}) | 1073 | 2623 | 40.9 | /mnt/stockage/packages/f23/webkitgtk4/Source/WebCore/platform/gtk/po/ar.po | 
- | [sr]({{< ref "/f23/language/sr.md" >}}) | 2146 | 5246 | 40.9 | /mnt/stockage/packages/f23/webkitgtk4/Source/WebCore/platform/gtk/po/sr.po/mnt/stockage/packages/f23/webkitgtk4/Source/WebCore/platform/gtk/po/sr@latin.po | 
- | [zh_Hans]({{< ref "/f23/language/zh_Hans.md" >}}) | 1073 | 2623 | 40.9 | /mnt/stockage/packages/f23/webkitgtk4/Source/WebCore/platform/gtk/po/zh_CN.po | 
- | [eu]({{< ref "/f23/language/eu.md" >}}) | 1066 | 2623 | 40.6 | /mnt/stockage/packages/f23/webkitgtk4/Source/WebCore/platform/gtk/po/eu.po | 
- | [vi]({{< ref "/f23/language/vi.md" >}}) | 1062 | 2623 | 40.5 | /mnt/stockage/packages/f23/webkitgtk4/Source/WebCore/platform/gtk/po/vi.po | 
- | [lt]({{< ref "/f23/language/lt.md" >}}) | 1052 | 2623 | 40.1 | /mnt/stockage/packages/f23/webkitgtk4/Source/WebCore/platform/gtk/po/lt.po | 
- | [cs]({{< ref "/f23/language/cs.md" >}}) | 1039 | 2623 | 39.6 | /mnt/stockage/packages/f23/webkitgtk4/Source/WebCore/platform/gtk/po/cs.po | 
- | [et]({{< ref "/f23/language/et.md" >}}) | 969 | 2623 | 36.9 | /mnt/stockage/packages/f23/webkitgtk4/Source/WebCore/platform/gtk/po/et.po | 
- | [ca]({{< ref "/f23/language/ca.md" >}}) | 462 | 1567 | 29.5 | /mnt/stockage/packages/f23/webkitgtk4/Source/WebCore/platform/gtk/po/ca.po | 
- | [lv]({{< ref "/f23/language/lv.md" >}}) | 671 | 2623 | 25.6 | /mnt/stockage/packages/f23/webkitgtk4/Source/WebCore/platform/gtk/po/lv.po | 
- | [pa]({{< ref "/f23/language/pa.md" >}}) | 671 | 2623 | 25.6 | /mnt/stockage/packages/f23/webkitgtk4/Source/WebCore/platform/gtk/po/pa.po | 
- | [ru]({{< ref "/f23/language/ru.md" >}}) | 605 | 2623 | 23.1 | /mnt/stockage/packages/f23/webkitgtk4/Source/WebCore/platform/gtk/po/ru.po | 
- | [fi]({{< ref "/f23/language/fi.md" >}}) | 291 | 1599 | 18.2 | /mnt/stockage/packages/f23/webkitgtk4/Source/WebCore/platform/gtk/po/fi.po | 
- | [ml]({{< ref "/f23/language/ml.md" >}}) | 429 | 2681 | 16.0 | /mnt/stockage/packages/f23/webkitgtk4/Source/WebCore/platform/gtk/po/ml.po | 
- | [eo]({{< ref "/f23/language/eo.md" >}}) | 303 | 2623 | 11.6 | /mnt/stockage/packages/f23/webkitgtk4/Source/WebCore/platform/gtk/po/eo.po | 
- | [nb_NO]({{< ref "/f23/language/nb_NO.md" >}}) | 215 | 2623 | 8.2 | /mnt/stockage/packages/f23/webkitgtk4/Source/WebCore/platform/gtk/po/nb.po | 
+ | [as](/f23/language/as) | 1543 | 1543 | 100.0 | /mnt/stockage/packages/f23/webkitgtk4/Source/WebCore/platform/gtk/po/as.po | 
+ | [bg](/f23/language/bg) | 1606 | 1606 | 100.0 | /mnt/stockage/packages/f23/webkitgtk4/Source/WebCore/platform/gtk/po/bg.po | 
+ | [de](/f23/language/de) | 1630 | 1630 | 100.0 | /mnt/stockage/packages/f23/webkitgtk4/Source/WebCore/platform/gtk/po/de.po | 
+ | [en_GB](/f23/language/en_GB) | 2702 | 2702 | 100.0 | /mnt/stockage/packages/f23/webkitgtk4/Source/WebCore/platform/gtk/po/en_GB.po | 
+ | [gu](/f23/language/gu) | 1545 | 1545 | 100.0 | /mnt/stockage/packages/f23/webkitgtk4/Source/WebCore/platform/gtk/po/gu.po | 
+ | [he](/f23/language/he) | 1567 | 1567 | 100.0 | /mnt/stockage/packages/f23/webkitgtk4/Source/WebCore/platform/gtk/po/he.po | 
+ | [hi](/f23/language/hi) | 1526 | 1526 | 100.0 | /mnt/stockage/packages/f23/webkitgtk4/Source/WebCore/platform/gtk/po/hi.po | 
+ | [hu](/f23/language/hu) | 1606 | 1606 | 100.0 | /mnt/stockage/packages/f23/webkitgtk4/Source/WebCore/platform/gtk/po/hu.po | 
+ | [it](/f23/language/it) | 1606 | 1606 | 100.0 | /mnt/stockage/packages/f23/webkitgtk4/Source/WebCore/platform/gtk/po/it.po | 
+ | [kn](/f23/language/kn) | 1551 | 1551 | 100.0 | /mnt/stockage/packages/f23/webkitgtk4/Source/WebCore/platform/gtk/po/kn.po | 
+ | [mr](/f23/language/mr) | 1526 | 1526 | 100.0 | /mnt/stockage/packages/f23/webkitgtk4/Source/WebCore/platform/gtk/po/mr.po | 
+ | [or](/f23/language/or) | 1526 | 1526 | 100.0 | /mnt/stockage/packages/f23/webkitgtk4/Source/WebCore/platform/gtk/po/or.po | 
+ | [pl](/f23/language/pl) | 1599 | 1599 | 100.0 | /mnt/stockage/packages/f23/webkitgtk4/Source/WebCore/platform/gtk/po/pl.po | 
+ | [pt_BR](/f23/language/pt_BR) | 1606 | 1606 | 100.0 | /mnt/stockage/packages/f23/webkitgtk4/Source/WebCore/platform/gtk/po/pt_BR.po | 
+ | [sv](/f23/language/sv) | 1586 | 1586 | 100.0 | /mnt/stockage/packages/f23/webkitgtk4/Source/WebCore/platform/gtk/po/sv.po | 
+ | [ta](/f23/language/ta) | 1545 | 1545 | 100.0 | /mnt/stockage/packages/f23/webkitgtk4/Source/WebCore/platform/gtk/po/ta.po | 
+ | [te](/f23/language/te) | 1526 | 1526 | 100.0 | /mnt/stockage/packages/f23/webkitgtk4/Source/WebCore/platform/gtk/po/te.po | 
+ | [tr](/f23/language/tr) | 1606 | 1606 | 100.0 | /mnt/stockage/packages/f23/webkitgtk4/Source/WebCore/platform/gtk/po/tr.po | 
+ | [ko](/f23/language/ko) | 2622 | 2623 | 100.0 | /mnt/stockage/packages/f23/webkitgtk4/Source/WebCore/platform/gtk/po/ko.po | 
+ | [el](/f23/language/el) | 1605 | 1606 | 99.9 | /mnt/stockage/packages/f23/webkitgtk4/Source/WebCore/platform/gtk/po/el.po | 
+ | [ja](/f23/language/ja) | 2682 | 2708 | 99.0 | /mnt/stockage/packages/f23/webkitgtk4/Source/WebCore/platform/gtk/po/ja.po | 
+ | [gl](/f23/language/gl) | 2647 | 2686 | 98.5 | /mnt/stockage/packages/f23/webkitgtk4/Source/WebCore/platform/gtk/po/gl.po | 
+ | [nl](/f23/language/nl) | 2407 | 2699 | 89.2 | /mnt/stockage/packages/f23/webkitgtk4/Source/WebCore/platform/gtk/po/nl.po | 
+ | [fr](/f23/language/fr) | 1396 | 1599 | 87.3 | /mnt/stockage/packages/f23/webkitgtk4/Source/WebCore/platform/gtk/po/fr.po | 
+ | [es](/f23/language/es) | 1253 | 1582 | 79.2 | /mnt/stockage/packages/f23/webkitgtk4/Source/WebCore/platform/gtk/po/es.po | 
+ | [ro](/f23/language/ro) | 1834 | 2623 | 69.9 | /mnt/stockage/packages/f23/webkitgtk4/Source/WebCore/platform/gtk/po/ro.po | 
+ | [sl](/f23/language/sl) | 1889 | 2710 | 69.7 | /mnt/stockage/packages/f23/webkitgtk4/Source/WebCore/platform/gtk/po/sl.po | 
+ | [id](/f23/language/id) | 1777 | 2623 | 67.7 | /mnt/stockage/packages/f23/webkitgtk4/Source/WebCore/platform/gtk/po/id.po | 
+ | [uk](/f23/language/uk) | 1443 | 2623 | 55.0 | /mnt/stockage/packages/f23/webkitgtk4/Source/WebCore/platform/gtk/po/uk.po | 
+ | [en_CA](/f23/language/en_CA) | 1441 | 2621 | 55.0 | /mnt/stockage/packages/f23/webkitgtk4/Source/WebCore/platform/gtk/po/en_CA.po | 
+ | [pt](/f23/language/pt) | 1375 | 2623 | 52.4 | /mnt/stockage/packages/f23/webkitgtk4/Source/WebCore/platform/gtk/po/pt.po | 
+ | [ar](/f23/language/ar) | 1073 | 2623 | 40.9 | /mnt/stockage/packages/f23/webkitgtk4/Source/WebCore/platform/gtk/po/ar.po | 
+ | [sr](/f23/language/sr) | 2146 | 5246 | 40.9 | /mnt/stockage/packages/f23/webkitgtk4/Source/WebCore/platform/gtk/po/sr.po/mnt/stockage/packages/f23/webkitgtk4/Source/WebCore/platform/gtk/po/sr@latin.po | 
+ | [zh_Hans](/f23/language/zh_Hans) | 1073 | 2623 | 40.9 | /mnt/stockage/packages/f23/webkitgtk4/Source/WebCore/platform/gtk/po/zh_CN.po | 
+ | [eu](/f23/language/eu) | 1066 | 2623 | 40.6 | /mnt/stockage/packages/f23/webkitgtk4/Source/WebCore/platform/gtk/po/eu.po | 
+ | [vi](/f23/language/vi) | 1062 | 2623 | 40.5 | /mnt/stockage/packages/f23/webkitgtk4/Source/WebCore/platform/gtk/po/vi.po | 
+ | [lt](/f23/language/lt) | 1052 | 2623 | 40.1 | /mnt/stockage/packages/f23/webkitgtk4/Source/WebCore/platform/gtk/po/lt.po | 
+ | [cs](/f23/language/cs) | 1039 | 2623 | 39.6 | /mnt/stockage/packages/f23/webkitgtk4/Source/WebCore/platform/gtk/po/cs.po | 
+ | [et](/f23/language/et) | 969 | 2623 | 36.9 | /mnt/stockage/packages/f23/webkitgtk4/Source/WebCore/platform/gtk/po/et.po | 
+ | [ca](/f23/language/ca) | 462 | 1567 | 29.5 | /mnt/stockage/packages/f23/webkitgtk4/Source/WebCore/platform/gtk/po/ca.po | 
+ | [lv](/f23/language/lv) | 671 | 2623 | 25.6 | /mnt/stockage/packages/f23/webkitgtk4/Source/WebCore/platform/gtk/po/lv.po | 
+ | [pa](/f23/language/pa) | 671 | 2623 | 25.6 | /mnt/stockage/packages/f23/webkitgtk4/Source/WebCore/platform/gtk/po/pa.po | 
+ | [ru](/f23/language/ru) | 605 | 2623 | 23.1 | /mnt/stockage/packages/f23/webkitgtk4/Source/WebCore/platform/gtk/po/ru.po | 
+ | [fi](/f23/language/fi) | 291 | 1599 | 18.2 | /mnt/stockage/packages/f23/webkitgtk4/Source/WebCore/platform/gtk/po/fi.po | 
+ | [ml](/f23/language/ml) | 429 | 2681 | 16.0 | /mnt/stockage/packages/f23/webkitgtk4/Source/WebCore/platform/gtk/po/ml.po | 
+ | [eo](/f23/language/eo) | 303 | 2623 | 11.6 | /mnt/stockage/packages/f23/webkitgtk4/Source/WebCore/platform/gtk/po/eo.po | 
+ | [nb_NO](/f23/language/nb_NO) | 215 | 2623 | 8.2 | /mnt/stockage/packages/f23/webkitgtk4/Source/WebCore/platform/gtk/po/nb.po | 
 {.sortable}
 
 

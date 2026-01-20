@@ -18,17 +18,17 @@ The package xfce4-xfapplet-plugin (version 0.1.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [el]({{< ref "/f14/language/el.md" >}}) | 84 | 84 | 100.0 | /mnt/stockage/packages/f14/xfce4-xfapplet-plugin/po/el.po | 
- | [fr]({{< ref "/f14/language/fr.md" >}}) | 84 | 84 | 100.0 | /mnt/stockage/packages/f14/xfce4-xfapplet-plugin/po/fr.po | 
- | [hu]({{< ref "/f14/language/hu.md" >}}) | 84 | 84 | 100.0 | /mnt/stockage/packages/f14/xfce4-xfapplet-plugin/po/hu.po | 
- | [ja]({{< ref "/f14/language/ja.md" >}}) | 84 | 84 | 100.0 | /mnt/stockage/packages/f14/xfce4-xfapplet-plugin/po/ja.po | 
- | [nl]({{< ref "/f14/language/nl.md" >}}) | 84 | 84 | 100.0 | /mnt/stockage/packages/f14/xfce4-xfapplet-plugin/po/nl.po | 
- | [pl]({{< ref "/f14/language/pl.md" >}}) | 84 | 84 | 100.0 | /mnt/stockage/packages/f14/xfce4-xfapplet-plugin/po/pl.po | 
- | [pt_BR]({{< ref "/f14/language/pt_BR.md" >}}) | 84 | 84 | 100.0 | /mnt/stockage/packages/f14/xfce4-xfapplet-plugin/po/pt_BR.po | 
- | [ru]({{< ref "/f14/language/ru.md" >}}) | 84 | 84 | 100.0 | /mnt/stockage/packages/f14/xfce4-xfapplet-plugin/po/ru.po | 
- | [vi]({{< ref "/f14/language/vi.md" >}}) | 84 | 84 | 100.0 | /mnt/stockage/packages/f14/xfce4-xfapplet-plugin/po/vi.po | 
- | [zh_Hans]({{< ref "/f14/language/zh_Hans.md" >}}) | 84 | 84 | 100.0 | /mnt/stockage/packages/f14/xfce4-xfapplet-plugin/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f14/language/zh_Hant.md" >}}) | 84 | 84 | 100.0 | /mnt/stockage/packages/f14/xfce4-xfapplet-plugin/po/zh_TW.po | 
+ | [el](/f14/language/el) | 84 | 84 | 100.0 | /mnt/stockage/packages/f14/xfce4-xfapplet-plugin/po/el.po | 
+ | [fr](/f14/language/fr) | 84 | 84 | 100.0 | /mnt/stockage/packages/f14/xfce4-xfapplet-plugin/po/fr.po | 
+ | [hu](/f14/language/hu) | 84 | 84 | 100.0 | /mnt/stockage/packages/f14/xfce4-xfapplet-plugin/po/hu.po | 
+ | [ja](/f14/language/ja) | 84 | 84 | 100.0 | /mnt/stockage/packages/f14/xfce4-xfapplet-plugin/po/ja.po | 
+ | [nl](/f14/language/nl) | 84 | 84 | 100.0 | /mnt/stockage/packages/f14/xfce4-xfapplet-plugin/po/nl.po | 
+ | [pl](/f14/language/pl) | 84 | 84 | 100.0 | /mnt/stockage/packages/f14/xfce4-xfapplet-plugin/po/pl.po | 
+ | [pt_BR](/f14/language/pt_BR) | 84 | 84 | 100.0 | /mnt/stockage/packages/f14/xfce4-xfapplet-plugin/po/pt_BR.po | 
+ | [ru](/f14/language/ru) | 84 | 84 | 100.0 | /mnt/stockage/packages/f14/xfce4-xfapplet-plugin/po/ru.po | 
+ | [vi](/f14/language/vi) | 84 | 84 | 100.0 | /mnt/stockage/packages/f14/xfce4-xfapplet-plugin/po/vi.po | 
+ | [zh_Hans](/f14/language/zh_Hans) | 84 | 84 | 100.0 | /mnt/stockage/packages/f14/xfce4-xfapplet-plugin/po/zh_CN.po | 
+ | [zh_Hant](/f14/language/zh_Hant) | 84 | 84 | 100.0 | /mnt/stockage/packages/f14/xfce4-xfapplet-plugin/po/zh_TW.po | 
 {.sortable}
 
 

@@ -18,95 +18,95 @@ The package gnome-keyring (version 42.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [as]({{< ref "/f39/language/as.md" >}}) | 553 | 553 | 100.0 | /mnt/stockage/packages/f39/gnome-keyring/po/as.po | 
- | [ast]({{< ref "/f39/language/ast.md" >}}) | 928 | 928 | 100.0 | /mnt/stockage/packages/f39/gnome-keyring/po/ast.po | 
- | [be]({{< ref "/f39/language/be.md" >}}) | 509 | 509 | 100.0 | /mnt/stockage/packages/f39/gnome-keyring/po/be.po | 
- | [bg]({{< ref "/f39/language/bg.md" >}}) | 469 | 469 | 100.0 | /mnt/stockage/packages/f39/gnome-keyring/po/bg.po | 
- | [bn_IN]({{< ref "/f39/language/bn_IN.md" >}}) | 553 | 553 | 100.0 | /mnt/stockage/packages/f39/gnome-keyring/po/bn_IN.po | 
- | [bs]({{< ref "/f39/language/bs.md" >}}) | 553 | 553 | 100.0 | /mnt/stockage/packages/f39/gnome-keyring/po/bs.po | 
- | [ca]({{< ref "/f39/language/ca.md" >}}) | 469 | 469 | 100.0 | /mnt/stockage/packages/f39/gnome-keyring/po/ca.po | 
- | [ca@valencia]({{< ref "/f39/language/ca@valencia.md" >}}) | 509 | 509 | 100.0 | /mnt/stockage/packages/f39/gnome-keyring/po/ca@valencia.po | 
- | [cs]({{< ref "/f39/language/cs.md" >}}) | 469 | 469 | 100.0 | /mnt/stockage/packages/f39/gnome-keyring/po/cs.po | 
- | [da]({{< ref "/f39/language/da.md" >}}) | 469 | 469 | 100.0 | /mnt/stockage/packages/f39/gnome-keyring/po/da.po | 
- | [de]({{< ref "/f39/language/de.md" >}}) | 469 | 469 | 100.0 | /mnt/stockage/packages/f39/gnome-keyring/po/de.po | 
- | [el]({{< ref "/f39/language/el.md" >}}) | 509 | 509 | 100.0 | /mnt/stockage/packages/f39/gnome-keyring/po/el.po | 
- | [en_GB]({{< ref "/f39/language/en_GB.md" >}}) | 469 | 469 | 100.0 | /mnt/stockage/packages/f39/gnome-keyring/po/en_GB.po | 
- | [eo]({{< ref "/f39/language/eo.md" >}}) | 509 | 509 | 100.0 | /mnt/stockage/packages/f39/gnome-keyring/po/eo.po | 
- | [es]({{< ref "/f39/language/es.md" >}}) | 469 | 469 | 100.0 | /mnt/stockage/packages/f39/gnome-keyring/po/es.po | 
- | [et]({{< ref "/f39/language/et.md" >}}) | 553 | 553 | 100.0 | /mnt/stockage/packages/f39/gnome-keyring/po/et.po | 
- | [eu]({{< ref "/f39/language/eu.md" >}}) | 469 | 469 | 100.0 | /mnt/stockage/packages/f39/gnome-keyring/po/eu.po | 
- | [fa]({{< ref "/f39/language/fa.md" >}}) | 469 | 469 | 100.0 | /mnt/stockage/packages/f39/gnome-keyring/po/fa.po | 
- | [fi]({{< ref "/f39/language/fi.md" >}}) | 469 | 469 | 100.0 | /mnt/stockage/packages/f39/gnome-keyring/po/fi.po | 
- | [fr]({{< ref "/f39/language/fr.md" >}}) | 469 | 469 | 100.0 | /mnt/stockage/packages/f39/gnome-keyring/po/fr.po | 
- | [fur]({{< ref "/f39/language/fur.md" >}}) | 469 | 469 | 100.0 | /mnt/stockage/packages/f39/gnome-keyring/po/fur.po | 
- | [gd]({{< ref "/f39/language/gd.md" >}}) | 509 | 509 | 100.0 | /mnt/stockage/packages/f39/gnome-keyring/po/gd.po | 
- | [gl]({{< ref "/f39/language/gl.md" >}}) | 469 | 469 | 100.0 | /mnt/stockage/packages/f39/gnome-keyring/po/gl.po | 
- | [gu]({{< ref "/f39/language/gu.md" >}}) | 553 | 553 | 100.0 | /mnt/stockage/packages/f39/gnome-keyring/po/gu.po | 
- | [he]({{< ref "/f39/language/he.md" >}}) | 469 | 469 | 100.0 | /mnt/stockage/packages/f39/gnome-keyring/po/he.po | 
- | [hi]({{< ref "/f39/language/hi.md" >}}) | 553 | 553 | 100.0 | /mnt/stockage/packages/f39/gnome-keyring/po/hi.po | 
- | [hr]({{< ref "/f39/language/hr.md" >}}) | 469 | 469 | 100.0 | /mnt/stockage/packages/f39/gnome-keyring/po/hr.po | 
- | [hu]({{< ref "/f39/language/hu.md" >}}) | 469 | 469 | 100.0 | /mnt/stockage/packages/f39/gnome-keyring/po/hu.po | 
- | [id]({{< ref "/f39/language/id.md" >}}) | 469 | 469 | 100.0 | /mnt/stockage/packages/f39/gnome-keyring/po/id.po | 
- | [it]({{< ref "/f39/language/it.md" >}}) | 469 | 469 | 100.0 | /mnt/stockage/packages/f39/gnome-keyring/po/it.po | 
- | [ja]({{< ref "/f39/language/ja.md" >}}) | 469 | 469 | 100.0 | /mnt/stockage/packages/f39/gnome-keyring/po/ja.po | 
- | [kk]({{< ref "/f39/language/kk.md" >}}) | 469 | 469 | 100.0 | /mnt/stockage/packages/f39/gnome-keyring/po/kk.po | 
- | [km]({{< ref "/f39/language/km.md" >}}) | 552 | 552 | 100.0 | /mnt/stockage/packages/f39/gnome-keyring/po/km.po | 
- | [kn]({{< ref "/f39/language/kn.md" >}}) | 553 | 553 | 100.0 | /mnt/stockage/packages/f39/gnome-keyring/po/kn.po | 
- | [ko]({{< ref "/f39/language/ko.md" >}}) | 469 | 469 | 100.0 | /mnt/stockage/packages/f39/gnome-keyring/po/ko.po | 
- | [lt]({{< ref "/f39/language/lt.md" >}}) | 469 | 469 | 100.0 | /mnt/stockage/packages/f39/gnome-keyring/po/lt.po | 
- | [lv]({{< ref "/f39/language/lv.md" >}}) | 469 | 469 | 100.0 | /mnt/stockage/packages/f39/gnome-keyring/po/lv.po | 
- | [mk]({{< ref "/f39/language/mk.md" >}}) | 552 | 552 | 100.0 | /mnt/stockage/packages/f39/gnome-keyring/po/mk.po | 
- | [ml]({{< ref "/f39/language/ml.md" >}}) | 509 | 509 | 100.0 | /mnt/stockage/packages/f39/gnome-keyring/po/ml.po | 
- | [mr]({{< ref "/f39/language/mr.md" >}}) | 553 | 553 | 100.0 | /mnt/stockage/packages/f39/gnome-keyring/po/mr.po | 
- | [ms]({{< ref "/f39/language/ms.md" >}}) | 509 | 509 | 100.0 | /mnt/stockage/packages/f39/gnome-keyring/po/ms.po | 
- | [nb_NO]({{< ref "/f39/language/nb_NO.md" >}}) | 469 | 469 | 100.0 | /mnt/stockage/packages/f39/gnome-keyring/po/nb.po | 
- | [nl]({{< ref "/f39/language/nl.md" >}}) | 469 | 469 | 100.0 | /mnt/stockage/packages/f39/gnome-keyring/po/nl.po | 
- | [oc]({{< ref "/f39/language/oc.md" >}}) | 469 | 469 | 100.0 | /mnt/stockage/packages/f39/gnome-keyring/po/oc.po | 
- | [or]({{< ref "/f39/language/or.md" >}}) | 553 | 553 | 100.0 | /mnt/stockage/packages/f39/gnome-keyring/po/or.po | 
- | [pa]({{< ref "/f39/language/pa.md" >}}) | 469 | 469 | 100.0 | /mnt/stockage/packages/f39/gnome-keyring/po/pa.po | 
- | [pl]({{< ref "/f39/language/pl.md" >}}) | 469 | 469 | 100.0 | /mnt/stockage/packages/f39/gnome-keyring/po/pl.po | 
- | [pt]({{< ref "/f39/language/pt.md" >}}) | 469 | 469 | 100.0 | /mnt/stockage/packages/f39/gnome-keyring/po/pt.po | 
- | [pt_BR]({{< ref "/f39/language/pt_BR.md" >}}) | 469 | 469 | 100.0 | /mnt/stockage/packages/f39/gnome-keyring/po/pt_BR.po | 
- | [ro]({{< ref "/f39/language/ro.md" >}}) | 469 | 469 | 100.0 | /mnt/stockage/packages/f39/gnome-keyring/po/ro.po | 
- | [ru]({{< ref "/f39/language/ru.md" >}}) | 469 | 469 | 100.0 | /mnt/stockage/packages/f39/gnome-keyring/po/ru.po | 
- | [sk]({{< ref "/f39/language/sk.md" >}}) | 469 | 469 | 100.0 | /mnt/stockage/packages/f39/gnome-keyring/po/sk.po | 
- | [sl]({{< ref "/f39/language/sl.md" >}}) | 469 | 469 | 100.0 | /mnt/stockage/packages/f39/gnome-keyring/po/sl.po | 
- | [sr]({{< ref "/f39/language/sr.md" >}}) | 978 | 978 | 100.0 | /mnt/stockage/packages/f39/gnome-keyring/po/sr@latin.po/mnt/stockage/packages/f39/gnome-keyring/po/sr.po | 
- | [sv]({{< ref "/f39/language/sv.md" >}}) | 469 | 469 | 100.0 | /mnt/stockage/packages/f39/gnome-keyring/po/sv.po | 
- | [ta]({{< ref "/f39/language/ta.md" >}}) | 553 | 553 | 100.0 | /mnt/stockage/packages/f39/gnome-keyring/po/ta.po | 
- | [te]({{< ref "/f39/language/te.md" >}}) | 553 | 553 | 100.0 | /mnt/stockage/packages/f39/gnome-keyring/po/te.po | 
- | [th]({{< ref "/f39/language/th.md" >}}) | 553 | 553 | 100.0 | /mnt/stockage/packages/f39/gnome-keyring/po/th.po | 
- | [tr]({{< ref "/f39/language/tr.md" >}}) | 469 | 469 | 100.0 | /mnt/stockage/packages/f39/gnome-keyring/po/tr.po | 
- | [ug]({{< ref "/f39/language/ug.md" >}}) | 553 | 553 | 100.0 | /mnt/stockage/packages/f39/gnome-keyring/po/ug.po | 
- | [uk]({{< ref "/f39/language/uk.md" >}}) | 469 | 469 | 100.0 | /mnt/stockage/packages/f39/gnome-keyring/po/uk.po | 
- | [vi]({{< ref "/f39/language/vi.md" >}}) | 532 | 532 | 100.0 | /mnt/stockage/packages/f39/gnome-keyring/po/vi.po | 
- | [zh_Hans]({{< ref "/f39/language/zh_Hans.md" >}}) | 469 | 469 | 100.0 | /mnt/stockage/packages/f39/gnome-keyring/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f39/language/zh_Hant.md" >}}) | 469 | 469 | 100.0 | /mnt/stockage/packages/f39/gnome-keyring/po/zh_TW.po | 
- | [zh_Hant_HK]({{< ref "/f39/language/zh_Hant_HK.md" >}}) | 553 | 553 | 100.0 | /mnt/stockage/packages/f39/gnome-keyring/po/zh_HK.po | 
- | [bn]({{< ref "/f39/language/bn.md" >}}) | 480 | 490 | 98.0 | /mnt/stockage/packages/f39/gnome-keyring/po/bn.po | 
- | [af]({{< ref "/f39/language/af.md" >}}) | 474 | 490 | 96.7 | /mnt/stockage/packages/f39/gnome-keyring/po/af.po | 
- | [ar]({{< ref "/f39/language/ar.md" >}}) | 532 | 553 | 96.2 | /mnt/stockage/packages/f39/gnome-keyring/po/ar.po | 
- | [nn]({{< ref "/f39/language/nn.md" >}}) | 466 | 490 | 95.1 | /mnt/stockage/packages/f39/gnome-keyring/po/nn.po | 
- | [ckb]({{< ref "/f39/language/ckb.md" >}}) | 389 | 509 | 76.4 | /mnt/stockage/packages/f39/gnome-keyring/po/ckb.po | 
- | [be_Latn]({{< ref "/f39/language/be_Latn.md" >}}) | 256 | 490 | 52.2 | /mnt/stockage/packages/f39/gnome-keyring/po/be@latin.po | 
- | [error]({{< ref "/f39/language/error.md" >}}) | 232 | 490 | 47.3 | /mnt/stockage/packages/f39/gnome-keyring/po/en@shaw.po | 
- | [dz]({{< ref "/f39/language/dz.md" >}}) | 148 | 490 | 30.2 | /mnt/stockage/packages/f39/gnome-keyring/po/dz.po | 
- | [sq]({{< ref "/f39/language/sq.md" >}}) | 148 | 490 | 30.2 | /mnt/stockage/packages/f39/gnome-keyring/po/sq.po | 
- | [is]({{< ref "/f39/language/is.md" >}}) | 135 | 509 | 26.5 | /mnt/stockage/packages/f39/gnome-keyring/po/is.po | 
- | [mjw]({{< ref "/f39/language/mjw.md" >}}) | 118 | 469 | 25.2 | /mnt/stockage/packages/f39/gnome-keyring/po/mjw.po | 
- | [ga]({{< ref "/f39/language/ga.md" >}}) | 116 | 490 | 23.7 | /mnt/stockage/packages/f39/gnome-keyring/po/ga.po | 
- | [ne]({{< ref "/f39/language/ne.md" >}}) | 119 | 509 | 23.4 | /mnt/stockage/packages/f39/gnome-keyring/po/ne.po | 
- | [mai]({{< ref "/f39/language/mai.md" >}}) | 45 | 490 | 9.2 | /mnt/stockage/packages/f39/gnome-keyring/po/mai.po | 
- | [en_CA]({{< ref "/f39/language/en_CA.md" >}}) | 28 | 490 | 5.7 | /mnt/stockage/packages/f39/gnome-keyring/po/en_CA.po | 
- | [mg]({{< ref "/f39/language/mg.md" >}}) | 25 | 490 | 5.1 | /mnt/stockage/packages/f39/gnome-keyring/po/mg.po | 
- | [mn]({{< ref "/f39/language/mn.md" >}}) | 25 | 490 | 5.1 | /mnt/stockage/packages/f39/gnome-keyring/po/mn.po | 
- | [si]({{< ref "/f39/language/si.md" >}}) | 25 | 490 | 5.1 | /mnt/stockage/packages/f39/gnome-keyring/po/si.po | 
- | [tg]({{< ref "/f39/language/tg.md" >}}) | 25 | 553 | 4.5 | /mnt/stockage/packages/f39/gnome-keyring/po/tg.po | 
- | [cy]({{< ref "/f39/language/cy.md" >}}) | 22 | 490 | 4.5 | /mnt/stockage/packages/f39/gnome-keyring/po/cy.po | 
- | [az]({{< ref "/f39/language/az.md" >}}) | 17 | 490 | 3.5 | /mnt/stockage/packages/f39/gnome-keyring/po/az.po | 
- | [xh]({{< ref "/f39/language/xh.md" >}}) | 17 | 490 | 3.5 | /mnt/stockage/packages/f39/gnome-keyring/po/xh.po | 
- | [ka]({{< ref "/f39/language/ka.md" >}}) | 16 | 490 | 3.3 | /mnt/stockage/packages/f39/gnome-keyring/po/ka.po | 
- | [rw]({{< ref "/f39/language/rw.md" >}}) | 0 | 490 | 0.0 | /mnt/stockage/packages/f39/gnome-keyring/po/rw.po | 
+ | [as](/f39/language/as) | 553 | 553 | 100.0 | /mnt/stockage/packages/f39/gnome-keyring/po/as.po | 
+ | [ast](/f39/language/ast) | 928 | 928 | 100.0 | /mnt/stockage/packages/f39/gnome-keyring/po/ast.po | 
+ | [be](/f39/language/be) | 509 | 509 | 100.0 | /mnt/stockage/packages/f39/gnome-keyring/po/be.po | 
+ | [bg](/f39/language/bg) | 469 | 469 | 100.0 | /mnt/stockage/packages/f39/gnome-keyring/po/bg.po | 
+ | [bn_IN](/f39/language/bn_IN) | 553 | 553 | 100.0 | /mnt/stockage/packages/f39/gnome-keyring/po/bn_IN.po | 
+ | [bs](/f39/language/bs) | 553 | 553 | 100.0 | /mnt/stockage/packages/f39/gnome-keyring/po/bs.po | 
+ | [ca](/f39/language/ca) | 469 | 469 | 100.0 | /mnt/stockage/packages/f39/gnome-keyring/po/ca.po | 
+ | [ca@valencia](/f39/language/ca@valencia) | 509 | 509 | 100.0 | /mnt/stockage/packages/f39/gnome-keyring/po/ca@valencia.po | 
+ | [cs](/f39/language/cs) | 469 | 469 | 100.0 | /mnt/stockage/packages/f39/gnome-keyring/po/cs.po | 
+ | [da](/f39/language/da) | 469 | 469 | 100.0 | /mnt/stockage/packages/f39/gnome-keyring/po/da.po | 
+ | [de](/f39/language/de) | 469 | 469 | 100.0 | /mnt/stockage/packages/f39/gnome-keyring/po/de.po | 
+ | [el](/f39/language/el) | 509 | 509 | 100.0 | /mnt/stockage/packages/f39/gnome-keyring/po/el.po | 
+ | [en_GB](/f39/language/en_GB) | 469 | 469 | 100.0 | /mnt/stockage/packages/f39/gnome-keyring/po/en_GB.po | 
+ | [eo](/f39/language/eo) | 509 | 509 | 100.0 | /mnt/stockage/packages/f39/gnome-keyring/po/eo.po | 
+ | [es](/f39/language/es) | 469 | 469 | 100.0 | /mnt/stockage/packages/f39/gnome-keyring/po/es.po | 
+ | [et](/f39/language/et) | 553 | 553 | 100.0 | /mnt/stockage/packages/f39/gnome-keyring/po/et.po | 
+ | [eu](/f39/language/eu) | 469 | 469 | 100.0 | /mnt/stockage/packages/f39/gnome-keyring/po/eu.po | 
+ | [fa](/f39/language/fa) | 469 | 469 | 100.0 | /mnt/stockage/packages/f39/gnome-keyring/po/fa.po | 
+ | [fi](/f39/language/fi) | 469 | 469 | 100.0 | /mnt/stockage/packages/f39/gnome-keyring/po/fi.po | 
+ | [fr](/f39/language/fr) | 469 | 469 | 100.0 | /mnt/stockage/packages/f39/gnome-keyring/po/fr.po | 
+ | [fur](/f39/language/fur) | 469 | 469 | 100.0 | /mnt/stockage/packages/f39/gnome-keyring/po/fur.po | 
+ | [gd](/f39/language/gd) | 509 | 509 | 100.0 | /mnt/stockage/packages/f39/gnome-keyring/po/gd.po | 
+ | [gl](/f39/language/gl) | 469 | 469 | 100.0 | /mnt/stockage/packages/f39/gnome-keyring/po/gl.po | 
+ | [gu](/f39/language/gu) | 553 | 553 | 100.0 | /mnt/stockage/packages/f39/gnome-keyring/po/gu.po | 
+ | [he](/f39/language/he) | 469 | 469 | 100.0 | /mnt/stockage/packages/f39/gnome-keyring/po/he.po | 
+ | [hi](/f39/language/hi) | 553 | 553 | 100.0 | /mnt/stockage/packages/f39/gnome-keyring/po/hi.po | 
+ | [hr](/f39/language/hr) | 469 | 469 | 100.0 | /mnt/stockage/packages/f39/gnome-keyring/po/hr.po | 
+ | [hu](/f39/language/hu) | 469 | 469 | 100.0 | /mnt/stockage/packages/f39/gnome-keyring/po/hu.po | 
+ | [id](/f39/language/id) | 469 | 469 | 100.0 | /mnt/stockage/packages/f39/gnome-keyring/po/id.po | 
+ | [it](/f39/language/it) | 469 | 469 | 100.0 | /mnt/stockage/packages/f39/gnome-keyring/po/it.po | 
+ | [ja](/f39/language/ja) | 469 | 469 | 100.0 | /mnt/stockage/packages/f39/gnome-keyring/po/ja.po | 
+ | [kk](/f39/language/kk) | 469 | 469 | 100.0 | /mnt/stockage/packages/f39/gnome-keyring/po/kk.po | 
+ | [km](/f39/language/km) | 552 | 552 | 100.0 | /mnt/stockage/packages/f39/gnome-keyring/po/km.po | 
+ | [kn](/f39/language/kn) | 553 | 553 | 100.0 | /mnt/stockage/packages/f39/gnome-keyring/po/kn.po | 
+ | [ko](/f39/language/ko) | 469 | 469 | 100.0 | /mnt/stockage/packages/f39/gnome-keyring/po/ko.po | 
+ | [lt](/f39/language/lt) | 469 | 469 | 100.0 | /mnt/stockage/packages/f39/gnome-keyring/po/lt.po | 
+ | [lv](/f39/language/lv) | 469 | 469 | 100.0 | /mnt/stockage/packages/f39/gnome-keyring/po/lv.po | 
+ | [mk](/f39/language/mk) | 552 | 552 | 100.0 | /mnt/stockage/packages/f39/gnome-keyring/po/mk.po | 
+ | [ml](/f39/language/ml) | 509 | 509 | 100.0 | /mnt/stockage/packages/f39/gnome-keyring/po/ml.po | 
+ | [mr](/f39/language/mr) | 553 | 553 | 100.0 | /mnt/stockage/packages/f39/gnome-keyring/po/mr.po | 
+ | [ms](/f39/language/ms) | 509 | 509 | 100.0 | /mnt/stockage/packages/f39/gnome-keyring/po/ms.po | 
+ | [nb_NO](/f39/language/nb_NO) | 469 | 469 | 100.0 | /mnt/stockage/packages/f39/gnome-keyring/po/nb.po | 
+ | [nl](/f39/language/nl) | 469 | 469 | 100.0 | /mnt/stockage/packages/f39/gnome-keyring/po/nl.po | 
+ | [oc](/f39/language/oc) | 469 | 469 | 100.0 | /mnt/stockage/packages/f39/gnome-keyring/po/oc.po | 
+ | [or](/f39/language/or) | 553 | 553 | 100.0 | /mnt/stockage/packages/f39/gnome-keyring/po/or.po | 
+ | [pa](/f39/language/pa) | 469 | 469 | 100.0 | /mnt/stockage/packages/f39/gnome-keyring/po/pa.po | 
+ | [pl](/f39/language/pl) | 469 | 469 | 100.0 | /mnt/stockage/packages/f39/gnome-keyring/po/pl.po | 
+ | [pt](/f39/language/pt) | 469 | 469 | 100.0 | /mnt/stockage/packages/f39/gnome-keyring/po/pt.po | 
+ | [pt_BR](/f39/language/pt_BR) | 469 | 469 | 100.0 | /mnt/stockage/packages/f39/gnome-keyring/po/pt_BR.po | 
+ | [ro](/f39/language/ro) | 469 | 469 | 100.0 | /mnt/stockage/packages/f39/gnome-keyring/po/ro.po | 
+ | [ru](/f39/language/ru) | 469 | 469 | 100.0 | /mnt/stockage/packages/f39/gnome-keyring/po/ru.po | 
+ | [sk](/f39/language/sk) | 469 | 469 | 100.0 | /mnt/stockage/packages/f39/gnome-keyring/po/sk.po | 
+ | [sl](/f39/language/sl) | 469 | 469 | 100.0 | /mnt/stockage/packages/f39/gnome-keyring/po/sl.po | 
+ | [sr](/f39/language/sr) | 978 | 978 | 100.0 | /mnt/stockage/packages/f39/gnome-keyring/po/sr@latin.po/mnt/stockage/packages/f39/gnome-keyring/po/sr.po | 
+ | [sv](/f39/language/sv) | 469 | 469 | 100.0 | /mnt/stockage/packages/f39/gnome-keyring/po/sv.po | 
+ | [ta](/f39/language/ta) | 553 | 553 | 100.0 | /mnt/stockage/packages/f39/gnome-keyring/po/ta.po | 
+ | [te](/f39/language/te) | 553 | 553 | 100.0 | /mnt/stockage/packages/f39/gnome-keyring/po/te.po | 
+ | [th](/f39/language/th) | 553 | 553 | 100.0 | /mnt/stockage/packages/f39/gnome-keyring/po/th.po | 
+ | [tr](/f39/language/tr) | 469 | 469 | 100.0 | /mnt/stockage/packages/f39/gnome-keyring/po/tr.po | 
+ | [ug](/f39/language/ug) | 553 | 553 | 100.0 | /mnt/stockage/packages/f39/gnome-keyring/po/ug.po | 
+ | [uk](/f39/language/uk) | 469 | 469 | 100.0 | /mnt/stockage/packages/f39/gnome-keyring/po/uk.po | 
+ | [vi](/f39/language/vi) | 532 | 532 | 100.0 | /mnt/stockage/packages/f39/gnome-keyring/po/vi.po | 
+ | [zh_Hans](/f39/language/zh_Hans) | 469 | 469 | 100.0 | /mnt/stockage/packages/f39/gnome-keyring/po/zh_CN.po | 
+ | [zh_Hant](/f39/language/zh_Hant) | 469 | 469 | 100.0 | /mnt/stockage/packages/f39/gnome-keyring/po/zh_TW.po | 
+ | [zh_Hant_HK](/f39/language/zh_Hant_HK) | 553 | 553 | 100.0 | /mnt/stockage/packages/f39/gnome-keyring/po/zh_HK.po | 
+ | [bn](/f39/language/bn) | 480 | 490 | 98.0 | /mnt/stockage/packages/f39/gnome-keyring/po/bn.po | 
+ | [af](/f39/language/af) | 474 | 490 | 96.7 | /mnt/stockage/packages/f39/gnome-keyring/po/af.po | 
+ | [ar](/f39/language/ar) | 532 | 553 | 96.2 | /mnt/stockage/packages/f39/gnome-keyring/po/ar.po | 
+ | [nn](/f39/language/nn) | 466 | 490 | 95.1 | /mnt/stockage/packages/f39/gnome-keyring/po/nn.po | 
+ | [ckb](/f39/language/ckb) | 389 | 509 | 76.4 | /mnt/stockage/packages/f39/gnome-keyring/po/ckb.po | 
+ | [be_Latn](/f39/language/be_Latn) | 256 | 490 | 52.2 | /mnt/stockage/packages/f39/gnome-keyring/po/be@latin.po | 
+ | [error](/f39/language/error) | 232 | 490 | 47.3 | /mnt/stockage/packages/f39/gnome-keyring/po/en@shaw.po | 
+ | [dz](/f39/language/dz) | 148 | 490 | 30.2 | /mnt/stockage/packages/f39/gnome-keyring/po/dz.po | 
+ | [sq](/f39/language/sq) | 148 | 490 | 30.2 | /mnt/stockage/packages/f39/gnome-keyring/po/sq.po | 
+ | [is](/f39/language/is) | 135 | 509 | 26.5 | /mnt/stockage/packages/f39/gnome-keyring/po/is.po | 
+ | [mjw](/f39/language/mjw) | 118 | 469 | 25.2 | /mnt/stockage/packages/f39/gnome-keyring/po/mjw.po | 
+ | [ga](/f39/language/ga) | 116 | 490 | 23.7 | /mnt/stockage/packages/f39/gnome-keyring/po/ga.po | 
+ | [ne](/f39/language/ne) | 119 | 509 | 23.4 | /mnt/stockage/packages/f39/gnome-keyring/po/ne.po | 
+ | [mai](/f39/language/mai) | 45 | 490 | 9.2 | /mnt/stockage/packages/f39/gnome-keyring/po/mai.po | 
+ | [en_CA](/f39/language/en_CA) | 28 | 490 | 5.7 | /mnt/stockage/packages/f39/gnome-keyring/po/en_CA.po | 
+ | [mg](/f39/language/mg) | 25 | 490 | 5.1 | /mnt/stockage/packages/f39/gnome-keyring/po/mg.po | 
+ | [mn](/f39/language/mn) | 25 | 490 | 5.1 | /mnt/stockage/packages/f39/gnome-keyring/po/mn.po | 
+ | [si](/f39/language/si) | 25 | 490 | 5.1 | /mnt/stockage/packages/f39/gnome-keyring/po/si.po | 
+ | [tg](/f39/language/tg) | 25 | 553 | 4.5 | /mnt/stockage/packages/f39/gnome-keyring/po/tg.po | 
+ | [cy](/f39/language/cy) | 22 | 490 | 4.5 | /mnt/stockage/packages/f39/gnome-keyring/po/cy.po | 
+ | [az](/f39/language/az) | 17 | 490 | 3.5 | /mnt/stockage/packages/f39/gnome-keyring/po/az.po | 
+ | [xh](/f39/language/xh) | 17 | 490 | 3.5 | /mnt/stockage/packages/f39/gnome-keyring/po/xh.po | 
+ | [ka](/f39/language/ka) | 16 | 490 | 3.3 | /mnt/stockage/packages/f39/gnome-keyring/po/ka.po | 
+ | [rw](/f39/language/rw) | 0 | 490 | 0.0 | /mnt/stockage/packages/f39/gnome-keyring/po/rw.po | 
 {.sortable}
 
 

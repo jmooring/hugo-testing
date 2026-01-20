@@ -18,10 +18,10 @@ The package kid3 (version 0.9):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f8/language/de.md" >}}) | 1080 | 1080 | 100.0 | /mnt/stockage/packages/f8/kid3/kid3/de_qt.po/mnt/stockage/packages/f8/kid3/po/de.po | 
- | [es]({{< ref "/f8/language/es.md" >}}) | 1080 | 1080 | 100.0 | /mnt/stockage/packages/f8/kid3/kid3/es_qt.po/mnt/stockage/packages/f8/kid3/po/es.po | 
- | [fr]({{< ref "/f8/language/fr.md" >}}) | 1080 | 1080 | 100.0 | /mnt/stockage/packages/f8/kid3/kid3/fr_qt.po/mnt/stockage/packages/f8/kid3/po/fr.po | 
- | [ru]({{< ref "/f8/language/ru.md" >}}) | 1081 | 1081 | 100.0 | /mnt/stockage/packages/f8/kid3/kid3/ru_qt.po/mnt/stockage/packages/f8/kid3/po/ru.po | 
+ | [de](/f8/language/de) | 1080 | 1080 | 100.0 | /mnt/stockage/packages/f8/kid3/kid3/de_qt.po/mnt/stockage/packages/f8/kid3/po/de.po | 
+ | [es](/f8/language/es) | 1080 | 1080 | 100.0 | /mnt/stockage/packages/f8/kid3/kid3/es_qt.po/mnt/stockage/packages/f8/kid3/po/es.po | 
+ | [fr](/f8/language/fr) | 1080 | 1080 | 100.0 | /mnt/stockage/packages/f8/kid3/kid3/fr_qt.po/mnt/stockage/packages/f8/kid3/po/fr.po | 
+ | [ru](/f8/language/ru) | 1081 | 1081 | 100.0 | /mnt/stockage/packages/f8/kid3/kid3/ru_qt.po/mnt/stockage/packages/f8/kid3/po/ru.po | 
 {.sortable}
 
 

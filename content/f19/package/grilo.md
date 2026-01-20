@@ -18,15 +18,15 @@ The package grilo (version 0.2.6):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f19/language/cs.md" >}}) | 187 | 187 | 100.0 | /mnt/stockage/packages/f19/grilo/po/cs.po | 
- | [el]({{< ref "/f19/language/el.md" >}}) | 187 | 187 | 100.0 | /mnt/stockage/packages/f19/grilo/po/el.po | 
- | [es]({{< ref "/f19/language/es.md" >}}) | 187 | 187 | 100.0 | /mnt/stockage/packages/f19/grilo/po/es.po | 
- | [gl]({{< ref "/f19/language/gl.md" >}}) | 187 | 187 | 100.0 | /mnt/stockage/packages/f19/grilo/po/gl.po | 
- | [pl]({{< ref "/f19/language/pl.md" >}}) | 187 | 187 | 100.0 | /mnt/stockage/packages/f19/grilo/po/pl.po | 
- | [pt_BR]({{< ref "/f19/language/pt_BR.md" >}}) | 187 | 187 | 100.0 | /mnt/stockage/packages/f19/grilo/po/pt_BR.po | 
- | [sl]({{< ref "/f19/language/sl.md" >}}) | 187 | 187 | 100.0 | /mnt/stockage/packages/f19/grilo/po/sl.po | 
- | [sr]({{< ref "/f19/language/sr.md" >}}) | 374 | 374 | 100.0 | /mnt/stockage/packages/f19/grilo/po/sr.po/mnt/stockage/packages/f19/grilo/po/sr@latin.po | 
- | [tg]({{< ref "/f19/language/tg.md" >}}) | 187 | 187 | 100.0 | /mnt/stockage/packages/f19/grilo/po/tg.po | 
+ | [cs](/f19/language/cs) | 187 | 187 | 100.0 | /mnt/stockage/packages/f19/grilo/po/cs.po | 
+ | [el](/f19/language/el) | 187 | 187 | 100.0 | /mnt/stockage/packages/f19/grilo/po/el.po | 
+ | [es](/f19/language/es) | 187 | 187 | 100.0 | /mnt/stockage/packages/f19/grilo/po/es.po | 
+ | [gl](/f19/language/gl) | 187 | 187 | 100.0 | /mnt/stockage/packages/f19/grilo/po/gl.po | 
+ | [pl](/f19/language/pl) | 187 | 187 | 100.0 | /mnt/stockage/packages/f19/grilo/po/pl.po | 
+ | [pt_BR](/f19/language/pt_BR) | 187 | 187 | 100.0 | /mnt/stockage/packages/f19/grilo/po/pt_BR.po | 
+ | [sl](/f19/language/sl) | 187 | 187 | 100.0 | /mnt/stockage/packages/f19/grilo/po/sl.po | 
+ | [sr](/f19/language/sr) | 374 | 374 | 100.0 | /mnt/stockage/packages/f19/grilo/po/sr.po/mnt/stockage/packages/f19/grilo/po/sr@latin.po | 
+ | [tg](/f19/language/tg) | 187 | 187 | 100.0 | /mnt/stockage/packages/f19/grilo/po/tg.po | 
 {.sortable}
 
 

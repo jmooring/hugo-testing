@@ -18,38 +18,38 @@ The package liquidshell (version 1.9.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f40/language/ca.md" >}}) | 555 | 555 | 100.0 | /mnt/stockage/packages/f40/liquidshell/po/ca/liquidshell.po | 
- | [ca@valencia]({{< ref "/f40/language/ca@valencia.md" >}}) | 555 | 555 | 100.0 | /mnt/stockage/packages/f40/liquidshell/po/ca@valencia/liquidshell.po | 
- | [en_GB]({{< ref "/f40/language/en_GB.md" >}}) | 555 | 555 | 100.0 | /mnt/stockage/packages/f40/liquidshell/po/en_GB/liquidshell.po | 
- | [es]({{< ref "/f40/language/es.md" >}}) | 555 | 555 | 100.0 | /mnt/stockage/packages/f40/liquidshell/po/es/liquidshell.po | 
- | [eu]({{< ref "/f40/language/eu.md" >}}) | 555 | 555 | 100.0 | /mnt/stockage/packages/f40/liquidshell/po/eu/liquidshell.po | 
- | [fi]({{< ref "/f40/language/fi.md" >}}) | 555 | 555 | 100.0 | /mnt/stockage/packages/f40/liquidshell/po/fi/liquidshell.po | 
- | [fr]({{< ref "/f40/language/fr.md" >}}) | 555 | 555 | 100.0 | /mnt/stockage/packages/f40/liquidshell/po/fr/liquidshell.po | 
- | [gl]({{< ref "/f40/language/gl.md" >}}) | 555 | 555 | 100.0 | /mnt/stockage/packages/f40/liquidshell/po/gl/liquidshell.po | 
- | [it]({{< ref "/f40/language/it.md" >}}) | 555 | 555 | 100.0 | /mnt/stockage/packages/f40/liquidshell/po/it/liquidshell.po | 
- | [ka]({{< ref "/f40/language/ka.md" >}}) | 555 | 555 | 100.0 | /mnt/stockage/packages/f40/liquidshell/po/ka/liquidshell.po | 
- | [ko]({{< ref "/f40/language/ko.md" >}}) | 555 | 555 | 100.0 | /mnt/stockage/packages/f40/liquidshell/po/ko/liquidshell.po | 
- | [nl]({{< ref "/f40/language/nl.md" >}}) | 555 | 555 | 100.0 | /mnt/stockage/packages/f40/liquidshell/po/nl/liquidshell.po | 
- | [pl]({{< ref "/f40/language/pl.md" >}}) | 555 | 555 | 100.0 | /mnt/stockage/packages/f40/liquidshell/po/pl/liquidshell.po | 
- | [pt]({{< ref "/f40/language/pt.md" >}}) | 555 | 555 | 100.0 | /mnt/stockage/packages/f40/liquidshell/po/pt/liquidshell.po | 
- | [pt_BR]({{< ref "/f40/language/pt_BR.md" >}}) | 555 | 555 | 100.0 | /mnt/stockage/packages/f40/liquidshell/po/pt_BR/liquidshell.po | 
- | [sl]({{< ref "/f40/language/sl.md" >}}) | 555 | 555 | 100.0 | /mnt/stockage/packages/f40/liquidshell/po/sl/liquidshell.po | 
- | [tr]({{< ref "/f40/language/tr.md" >}}) | 555 | 555 | 100.0 | /mnt/stockage/packages/f40/liquidshell/po/tr/liquidshell.po | 
- | [uk]({{< ref "/f40/language/uk.md" >}}) | 555 | 555 | 100.0 | /mnt/stockage/packages/f40/liquidshell/po/uk/liquidshell.po | 
- | [de]({{< ref "/f40/language/de.md" >}}) | 542 | 555 | 97.7 | /mnt/stockage/packages/f40/liquidshell/po/de/liquidshell.po | 
- | [ru]({{< ref "/f40/language/ru.md" >}}) | 527 | 555 | 95.0 | /mnt/stockage/packages/f40/liquidshell/po/ru/liquidshell.po | 
- | [el]({{< ref "/f40/language/el.md" >}}) | 526 | 555 | 94.8 | /mnt/stockage/packages/f40/liquidshell/po/el/liquidshell.po | 
- | [lt]({{< ref "/f40/language/lt.md" >}}) | 526 | 555 | 94.8 | /mnt/stockage/packages/f40/liquidshell/po/lt/liquidshell.po | 
- | [sv]({{< ref "/f40/language/sv.md" >}}) | 526 | 555 | 94.8 | /mnt/stockage/packages/f40/liquidshell/po/sv/liquidshell.po | 
- | [et]({{< ref "/f40/language/et.md" >}}) | 490 | 555 | 88.3 | /mnt/stockage/packages/f40/liquidshell/po/et/liquidshell.po | 
- | [cs]({{< ref "/f40/language/cs.md" >}}) | 476 | 555 | 85.8 | /mnt/stockage/packages/f40/liquidshell/po/cs/liquidshell.po | 
- | [ia]({{< ref "/f40/language/ia.md" >}}) | 168 | 555 | 30.3 | /mnt/stockage/packages/f40/liquidshell/po/ia/liquidshell.po | 
- | [tg]({{< ref "/f40/language/tg.md" >}}) | 168 | 555 | 30.3 | /mnt/stockage/packages/f40/liquidshell/po/tg/liquidshell.po | 
- | [zh_Hans]({{< ref "/f40/language/zh_Hans.md" >}}) | 130 | 555 | 23.4 | /mnt/stockage/packages/f40/liquidshell/po/zh_CN/liquidshell.po | 
- | [sk]({{< ref "/f40/language/sk.md" >}}) | 96 | 555 | 17.3 | /mnt/stockage/packages/f40/liquidshell/po/sk/liquidshell.po | 
- | [ar]({{< ref "/f40/language/ar.md" >}}) | 76 | 555 | 13.7 | /mnt/stockage/packages/f40/liquidshell/po/ar/liquidshell.po | 
- | [ja]({{< ref "/f40/language/ja.md" >}}) | 0 | 555 | 0.0 | /mnt/stockage/packages/f40/liquidshell/po/ja/liquidshell.po | 
- | [zh_Hant]({{< ref "/f40/language/zh_Hant.md" >}}) | 0 | 555 | 0.0 | /mnt/stockage/packages/f40/liquidshell/po/zh_TW/liquidshell.po | 
+ | [ca](/f40/language/ca) | 555 | 555 | 100.0 | /mnt/stockage/packages/f40/liquidshell/po/ca/liquidshell.po | 
+ | [ca@valencia](/f40/language/ca@valencia) | 555 | 555 | 100.0 | /mnt/stockage/packages/f40/liquidshell/po/ca@valencia/liquidshell.po | 
+ | [en_GB](/f40/language/en_GB) | 555 | 555 | 100.0 | /mnt/stockage/packages/f40/liquidshell/po/en_GB/liquidshell.po | 
+ | [es](/f40/language/es) | 555 | 555 | 100.0 | /mnt/stockage/packages/f40/liquidshell/po/es/liquidshell.po | 
+ | [eu](/f40/language/eu) | 555 | 555 | 100.0 | /mnt/stockage/packages/f40/liquidshell/po/eu/liquidshell.po | 
+ | [fi](/f40/language/fi) | 555 | 555 | 100.0 | /mnt/stockage/packages/f40/liquidshell/po/fi/liquidshell.po | 
+ | [fr](/f40/language/fr) | 555 | 555 | 100.0 | /mnt/stockage/packages/f40/liquidshell/po/fr/liquidshell.po | 
+ | [gl](/f40/language/gl) | 555 | 555 | 100.0 | /mnt/stockage/packages/f40/liquidshell/po/gl/liquidshell.po | 
+ | [it](/f40/language/it) | 555 | 555 | 100.0 | /mnt/stockage/packages/f40/liquidshell/po/it/liquidshell.po | 
+ | [ka](/f40/language/ka) | 555 | 555 | 100.0 | /mnt/stockage/packages/f40/liquidshell/po/ka/liquidshell.po | 
+ | [ko](/f40/language/ko) | 555 | 555 | 100.0 | /mnt/stockage/packages/f40/liquidshell/po/ko/liquidshell.po | 
+ | [nl](/f40/language/nl) | 555 | 555 | 100.0 | /mnt/stockage/packages/f40/liquidshell/po/nl/liquidshell.po | 
+ | [pl](/f40/language/pl) | 555 | 555 | 100.0 | /mnt/stockage/packages/f40/liquidshell/po/pl/liquidshell.po | 
+ | [pt](/f40/language/pt) | 555 | 555 | 100.0 | /mnt/stockage/packages/f40/liquidshell/po/pt/liquidshell.po | 
+ | [pt_BR](/f40/language/pt_BR) | 555 | 555 | 100.0 | /mnt/stockage/packages/f40/liquidshell/po/pt_BR/liquidshell.po | 
+ | [sl](/f40/language/sl) | 555 | 555 | 100.0 | /mnt/stockage/packages/f40/liquidshell/po/sl/liquidshell.po | 
+ | [tr](/f40/language/tr) | 555 | 555 | 100.0 | /mnt/stockage/packages/f40/liquidshell/po/tr/liquidshell.po | 
+ | [uk](/f40/language/uk) | 555 | 555 | 100.0 | /mnt/stockage/packages/f40/liquidshell/po/uk/liquidshell.po | 
+ | [de](/f40/language/de) | 542 | 555 | 97.7 | /mnt/stockage/packages/f40/liquidshell/po/de/liquidshell.po | 
+ | [ru](/f40/language/ru) | 527 | 555 | 95.0 | /mnt/stockage/packages/f40/liquidshell/po/ru/liquidshell.po | 
+ | [el](/f40/language/el) | 526 | 555 | 94.8 | /mnt/stockage/packages/f40/liquidshell/po/el/liquidshell.po | 
+ | [lt](/f40/language/lt) | 526 | 555 | 94.8 | /mnt/stockage/packages/f40/liquidshell/po/lt/liquidshell.po | 
+ | [sv](/f40/language/sv) | 526 | 555 | 94.8 | /mnt/stockage/packages/f40/liquidshell/po/sv/liquidshell.po | 
+ | [et](/f40/language/et) | 490 | 555 | 88.3 | /mnt/stockage/packages/f40/liquidshell/po/et/liquidshell.po | 
+ | [cs](/f40/language/cs) | 476 | 555 | 85.8 | /mnt/stockage/packages/f40/liquidshell/po/cs/liquidshell.po | 
+ | [ia](/f40/language/ia) | 168 | 555 | 30.3 | /mnt/stockage/packages/f40/liquidshell/po/ia/liquidshell.po | 
+ | [tg](/f40/language/tg) | 168 | 555 | 30.3 | /mnt/stockage/packages/f40/liquidshell/po/tg/liquidshell.po | 
+ | [zh_Hans](/f40/language/zh_Hans) | 130 | 555 | 23.4 | /mnt/stockage/packages/f40/liquidshell/po/zh_CN/liquidshell.po | 
+ | [sk](/f40/language/sk) | 96 | 555 | 17.3 | /mnt/stockage/packages/f40/liquidshell/po/sk/liquidshell.po | 
+ | [ar](/f40/language/ar) | 76 | 555 | 13.7 | /mnt/stockage/packages/f40/liquidshell/po/ar/liquidshell.po | 
+ | [ja](/f40/language/ja) | 0 | 555 | 0.0 | /mnt/stockage/packages/f40/liquidshell/po/ja/liquidshell.po | 
+ | [zh_Hant](/f40/language/zh_Hant) | 0 | 555 | 0.0 | /mnt/stockage/packages/f40/liquidshell/po/zh_TW/liquidshell.po | 
 {.sortable}
 
 

@@ -18,8 +18,8 @@ The package tilp2 (version 1.18):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f28/language/fr.md" >}}) | 1433 | 1433 | 100.0 | /mnt/stockage/packages/f28/tilp2/po/fr.po | 
- | [de]({{< ref "/f28/language/de.md" >}}) | 1355 | 1433 | 94.6 | /mnt/stockage/packages/f28/tilp2/po/de.po | 
+ | [fr](/f28/language/fr) | 1433 | 1433 | 100.0 | /mnt/stockage/packages/f28/tilp2/po/fr.po | 
+ | [de](/f28/language/de) | 1355 | 1433 | 94.6 | /mnt/stockage/packages/f28/tilp2/po/de.po | 
 {.sortable}
 
 

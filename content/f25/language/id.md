@@ -39,930 +39,930 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [0ad]({{< ref "/f25/package/0ad.md" >}}) | 136 | 136 | 100.0 | Indonesian (http://www.transifex.com/wildfire-games/0ad/language/id/) | 
- | [GConf2]({{< ref "/f25/package/GConf2.md" >}}) | 4088 | 4088 | 100.0 | Indonesian <gnome-l10n-id@googlegroups.com> | 
- | [NetworkManager-fortisslvpn]({{< ref "/f25/package/NetworkManager-fortisslvpn.md" >}}) | 205 | 205 | 100.0 | Indonesian Translator <gnome@i15n.org> | 
- | [NetworkManager-iodine]({{< ref "/f25/package/NetworkManager-iodine.md" >}}) | 79 | 79 | 100.0 | Indonesian <gnome@i15n.org> | 
- | [NetworkManager-libreswan]({{< ref "/f25/package/NetworkManager-libreswan.md" >}}) | 133 | 133 | 100.0 | Indonesian <gnome@i15n.org> | 
- | [NetworkManager-openvpn]({{< ref "/f25/package/NetworkManager-openvpn.md" >}}) | 1655 | 1655 | 100.0 | GNOME Indonesian Translation Team <gnome@i15n.org> | 
- | [NetworkManager-pptp]({{< ref "/f25/package/NetworkManager-pptp.md" >}}) | 417 | 417 | 100.0 | Indonesian Translator <gnome@i15n.org> | 
- | [NetworkManager-sstp]({{< ref "/f25/package/NetworkManager-sstp.md" >}}) | 415 | 415 | 100.0 | Indonesian Translator <gnome@i15n.org> | 
- | [NetworkManager-vpnc]({{< ref "/f25/package/NetworkManager-vpnc.md" >}}) | 511 | 511 | 100.0 | GNOME Indonesian Translation Team <gnome@i15n.org> | 
- | [PackageKit]({{< ref "/f25/package/PackageKit.md" >}}) | 1273 | 1273 | 100.0 | Indonesian (http://www.transifex.com/freedesktop/packagekit/language/id/) | 
- | [Thunar]({{< ref "/f25/package/Thunar.md" >}}) | 4200 | 4200 | 100.0 | Indonesian (http://www.transifex.com/xfce/thunar/language/id/) | 
- | [accerciser]({{< ref "/f25/package/accerciser.md" >}}) | 659 | 659 | 100.0 | GNOME Indonesian Translation Team <gnome@i15n.org> | 
- | [accountsservice]({{< ref "/f25/package/accountsservice.md" >}}) | 59 | 59 | 100.0 | Indonesian (http://www.transifex.com/projects/p/freedesktop/language/id/) | 
- | [aisleriot]({{< ref "/f25/package/aisleriot.md" >}}) | 3075 | 3075 | 100.0 | Indonesian <gnome@i15n.org> | 
- | [alacarte]({{< ref "/f25/package/alacarte.md" >}}) | 45 | 45 | 100.0 | GNOME Indonesian Translation Team <gnome@i15n.org> | 
- | [alleyoop]({{< ref "/f25/package/alleyoop.md" >}}) | 351 | 351 | 100.0 | INDONESIAN <userindesign@gmail.com> | 
- | [almanah]({{< ref "/f25/package/almanah.md" >}}) | 828 | 828 | 100.0 | GNOME Indonesian Translation Team <gnome@i15n.org> | 
- | [anjuta]({{< ref "/f25/package/anjuta.md" >}}) | 8398 | 8398 | 100.0 | Indonesian <gnome@i15n.org> | 
- | [arm-none-eabi-binutils-cs]({{< ref "/f25/package/arm-none-eabi-binutils-cs.md" >}}) | 42677 | 42677 | 100.0 | Indonesian <translation-team-id@lists.sourceforge.net> | 
- | [arm-none-eabi-gdb]({{< ref "/f25/package/arm-none-eabi-gdb.md" >}}) | 7765 | 7765 | 100.0 | Indonesian <translation-team-id@lists.sourceforge.net> | 
- | [aspell]({{< ref "/f25/package/aspell.md" >}}) | 1726 | 1726 | 100.0 | Indonesian <translation-team-id@lists.sourceforge.net> | 
- | [at-spi2-core]({{< ref "/f25/package/at-spi2-core.md" >}}) | 10 | 10 | 100.0 | Indonesian <gnome@i15n.org> | 
- | [atk]({{< ref "/f25/package/atk.md" >}}) | 440 | 440 | 100.0 | GNOME Indonesian Translation Team <gnome@i15n.org> | 
- | [atomix]({{< ref "/f25/package/atomix.md" >}}) | 208 | 208 | 100.0 | GNOME Indonesian Translation Team <gnome@i15n.org> | 
- | [atril]({{< ref "/f25/package/atril.md" >}}) | 1724 | 1724 | 100.0 | Indonesian (http://www.transifex.com/mate/MATE/language/id/) | 
- | [audience]({{< ref "/f25/package/audience.md" >}}) | 106 | 106 | 100.0 | Indonesian <https://l10n.elementary.io/projects/videos/videos/id/> | 
- | [autotest-framework]({{< ref "/f25/package/autotest-framework.md" >}}) | 983 | 983 | 100.0 | Indonesian | 
- | [avr-binutils]({{< ref "/f25/package/avr-binutils.md" >}}) | 42677 | 42677 | 100.0 | Indonesian <translation-team-id@lists.sourceforge.net> | 
- | [avr-gdb]({{< ref "/f25/package/avr-gdb.md" >}}) | 7765 | 7765 | 100.0 | Indonesian <translation-team-id@lists.sourceforge.net> | 
- | [b43-fwcutter]({{< ref "/f25/package/b43-fwcutter.md" >}}) | 67 | 67 | 100.0 | Debian Indonesia Translator <debian-l10n-indonesian@lists.debian.org> | 
- | [banshee]({{< ref "/f25/package/banshee.md" >}}) | 6001 | 6001 | 100.0 | GNOME Indonesian Translation Team <gnome@i15n.org> | 
- | [baobab]({{< ref "/f25/package/baobab.md" >}}) | 1346 | 1346 | 100.0 | Indonesian <gnome@i15n.org> | 
- | [bijiben]({{< ref "/f25/package/bijiben.md" >}}) | 309 | 309 | 100.0 | Indonesian <gnome@i15n.org> | 
- | [binutils]({{< ref "/f25/package/binutils.md" >}}) | 42677 | 42677 | 100.0 | Indonesian <translation-team-id@lists.sourceforge.net> | 
- | [bleachbit]({{< ref "/f25/package/bleachbit.md" >}}) | 1112 | 1112 | 100.0 | ubuntu-indonesia.com | 
- | [blender]({{< ref "/f25/package/blender.md" >}}) | 6525 | 6525 | 100.0 | Indonesian <> | 
- | [brasero]({{< ref "/f25/package/brasero.md" >}}) | 7748 | 7748 | 100.0 | Indonesian <gnome@i15n.org> | 
- | [byobu]({{< ref "/f25/package/byobu.md" >}}) | 177 | 177 | 100.0 | Indonesian <id@li.org> | 
- | [byzanz]({{< ref "/f25/package/byzanz.md" >}}) | 236 | 236 | 100.0 | GNOME Indonesian Translation Team <gnome@i15n.org> | 
- | [caja]({{< ref "/f25/package/caja.md" >}}) | 9313 | 9313 | 100.0 | Indonesian (http://www.transifex.com/mate/MATE/language/id/) | 
- | [caja-extensions]({{< ref "/f25/package/caja-extensions.md" >}}) | 556 | 556 | 100.0 | Indonesian (http://www.transifex.com/mate/MATE/language/id/) | 
- | [caribou]({{< ref "/f25/package/caribou.md" >}}) | 169 | 169 | 100.0 | Indonesian <gnome@i15n.org> | 
- | [cheese]({{< ref "/f25/package/cheese.md" >}}) | 2083 | 2083 | 100.0 | Indonesian <gnome@i15n.org> | 
- | [chkconfig]({{< ref "/f25/package/chkconfig.md" >}}) | 513 | 513 | 100.0 | Indonesian <trans-id@lists.fedoraproject.org> | 
- | [cinnamon-desktop]({{< ref "/f25/package/cinnamon-desktop.md" >}}) | 231 | 231 | 100.0 | Indonesian <gnome-l10n-id@googlegroups.com> | 
- | [clamtk]({{< ref "/f25/package/clamtk.md" >}}) | 464 | 464 | 100.0 | Indonesian <id@li.org> | 
- | [clawsker]({{< ref "/f25/package/clawsker.md" >}}) | 1262 | 1262 | 100.0 | translators@lists.claws-mail.org | 
- | [clementine]({{< ref "/f25/package/clementine.md" >}}) | 5091 | 5091 | 100.0 | Indonesian (http://www.transifex.com/davidsansome/clementine/language/id/) | 
- | [cogl]({{< ref "/f25/package/cogl.md" >}}) | 393 | 393 | 100.0 | Indonesian <gnome@i15n.org> | 
- | [compat-gtkhtml314]({{< ref "/f25/package/compat-gtkhtml314.md" >}}) | 485 | 485 | 100.0 | GNOME Indonesian Translation Team <gnome@i15n.org> | 
- | [cross-binutils]({{< ref "/f25/package/cross-binutils.md" >}}) | 42677 | 42677 | 100.0 | Indonesian <translation-team-id@lists.sourceforge.net> | 
- | [cups-pk-helper]({{< ref "/f25/package/cups-pk-helper.md" >}}) | 149 | 149 | 100.0 | Indonesian (http://www.transifex.com/projects/p/freedesktop/language/id/) | 
- | [d-feet]({{< ref "/f25/package/d-feet.md" >}}) | 109 | 109 | 100.0 | Indonesian <gnome-l10n-id@googlegroups.com> | 
- | [dasher]({{< ref "/f25/package/dasher.md" >}}) | 1292 | 1292 | 100.0 | GNOME Indonesian Translation Team <gnome@i15n.org> | 
- | [dconf-editor]({{< ref "/f25/package/dconf-editor.md" >}}) | 1412 | 1412 | 100.0 | Indonesian <gnome-l10n-id@googlegroups.com> | 
- | [debconf]({{< ref "/f25/package/debconf.md" >}}) | 795 | 795 | 100.0 | Debian Indonesia Team <debian-l10n-id@gurame.fisika.ui.ac.id> | 
- | [devhelp]({{< ref "/f25/package/devhelp.md" >}}) | 481 | 481 | 100.0 | GNOME Indonesian Translation Team <gnome@i15n.org> | 
- | [dialog]({{< ref "/f25/package/dialog.md" >}}) | 25 | 25 | 100.0 | Indonesian <translation-team-id@lists.sourceforge.net> | 
- | [ekiga]({{< ref "/f25/package/ekiga.md" >}}) | 4489 | 4489 | 100.0 | GNOME Indonesian Translation Team <gnome@i15n.org> | 
- | [engrampa]({{< ref "/f25/package/engrampa.md" >}}) | 1940 | 1940 | 100.0 | Indonesian (http://www.transifex.com/mate/MATE/language/id/) | 
- | [eog]({{< ref "/f25/package/eog.md" >}}) | 1675 | 1675 | 100.0 | Indonesian <gnome-l10n-id@googlegroups.com> | 
- | [eog-plugins]({{< ref "/f25/package/eog-plugins.md" >}}) | 416 | 416 | 100.0 | GNOME Indonesian Translation Team <gnome@i15n.org> | 
- | [eom]({{< ref "/f25/package/eom.md" >}}) | 1717 | 1717 | 100.0 | Indonesian (http://www.transifex.com/mate/MATE/language/id/) | 
- | [evince]({{< ref "/f25/package/evince.md" >}}) | 9183 | 9183 | 100.0 | Indonesian <gnome@i15n.org> | 
- | [evolution-data-server]({{< ref "/f25/package/evolution-data-server.md" >}}) | 5899 | 5899 | 100.0 | Indonesian <gnome@i15n.org> | 
- | [evolution-ews]({{< ref "/f25/package/evolution-ews.md" >}}) | 1192 | 1192 | 100.0 | Indonesian <gnome@i15n.org> | 
- | [evolution-mapi]({{< ref "/f25/package/evolution-mapi.md" >}}) | 1043 | 1043 | 100.0 | GNOME Indonesian Translation Team <gnome@i15n.org> | 
- | [exif]({{< ref "/f25/package/exif.md" >}}) | 296 | 296 | 100.0 | Indonesian <translation-team-id@lists.sourceforge.net> | 
- | [file-roller]({{< ref "/f25/package/file-roller.md" >}}) | 2847 | 2847 | 100.0 | Indonesian <gnome@i15n.org> | 
- | [filezilla]({{< ref "/f25/package/filezilla.md" >}}) | 10188 | 10188 | 100.0 | Bahasa Indonesia <willysr@gmail.com> | 
- | [five-or-more]({{< ref "/f25/package/five-or-more.md" >}}) | 282 | 282 | 100.0 | Indonesian <gnome@i15n.org> | 
- | [focuswriter]({{< ref "/f25/package/focuswriter.md" >}}) | 129 | 129 | 100.0 | Indonesian (Indonesia) (http://www.transifex.com/projects/p/focuswriter/language/id_ID/) | 
- | [folks]({{< ref "/f25/package/folks.md" >}}) | 1056 | 1056 | 100.0 | Indonesian <gnome-l10n-id@googlegroups.com> | 
- | [four-in-a-row]({{< ref "/f25/package/four-in-a-row.md" >}}) | 256 | 256 | 100.0 | Indonesian <gnome@i15n.org> | 
- | [fprintd]({{< ref "/f25/package/fprintd.md" >}}) | 419 | 419 | 100.0 | Indonesian (http://www.transifex.com/freedesktop/fprintd/language/id/) | 
- | [freeipa]({{< ref "/f25/package/freeipa.md" >}}) | 307 | 307 | 100.0 | Indonesian (http://www.transifex.com/projects/p/freeipa/language/id/) | 
- | [galculator]({{< ref "/f25/package/galculator.md" >}}) | 935 | 935 | 100.0 | Indonesian (http://www.transifex.com/mate/MATE/language/id/) | 
- | [garcon]({{< ref "/f25/package/garcon.md" >}}) | 109 | 109 | 100.0 | Indonesian (http://www.transifex.com/projects/p/xfce/language/id/) | 
- | [gcab]({{< ref "/f25/package/gcab.md" >}}) | 162 | 162 | 100.0 | Indonesian <gnome-l10n-id@googlegroups.com> | 
- | [gcompris]({{< ref "/f25/package/gcompris.md" >}}) | 10218 | 10218 | 100.0 | Bahasa Indonesia <umarsaid@gmail.com> | 
- | [gconf-editor]({{< ref "/f25/package/gconf-editor.md" >}}) | 336 | 336 | 100.0 | Indonesian <gnome-l10n-id@googlegroups.com> | 
- | [gcr]({{< ref "/f25/package/gcr.md" >}}) | 700 | 700 | 100.0 | Indonesian <gnome-l10n-id@googlegroups.com> | 
- | [gdb]({{< ref "/f25/package/gdb.md" >}}) | 7765 | 7765 | 100.0 | Indonesian <translation-team-id@lists.sourceforge.net> | 
- | [gdk-pixbuf2]({{< ref "/f25/package/gdk-pixbuf2.md" >}}) | 1409 | 1409 | 100.0 | Indonesian <gnome-l10n-id@googlegroups.com> | 
- | [gdm]({{< ref "/f25/package/gdm.md" >}}) | 9982 | 9982 | 100.0 | GNOME Indonesian Translation Team <gnome@i15n.org> | 
- | [geary]({{< ref "/f25/package/geary.md" >}}) | 1640 | 1640 | 100.0 | Indonesian (http://www.transifex.com/projects/p/geary/language/id/) | 
- | [gedit]({{< ref "/f25/package/gedit.md" >}}) | 10869 | 10869 | 100.0 | Indonesian <gnome@i15n.org> | 
- | [gedit-plugins]({{< ref "/f25/package/gedit-plugins.md" >}}) | 928 | 928 | 100.0 | Indonesian <gnome@i15n.org> | 
- | [ggz-gtk-client]({{< ref "/f25/package/ggz-gtk-client.md" >}}) | 4 | 4 | 100.0 |  | 
- | [ghex]({{< ref "/f25/package/ghex.md" >}}) | 3236 | 3236 | 100.0 | Indonesian <gnome@i15n.org> | 
- | [giggle]({{< ref "/f25/package/giggle.md" >}}) | 563 | 563 | 100.0 | Indonesian <gnome@i15n.org> | 
- | [gigolo]({{< ref "/f25/package/gigolo.md" >}}) | 521 | 521 | 100.0 | Indonesian (http://www.transifex.com/projects/p/xfce/language/id/) | 
- | [gitg]({{< ref "/f25/package/gitg.md" >}}) | 2020 | 2020 | 100.0 | Indonesian <gnome-l10n-id@googlegroups.com> | 
- | [glade]({{< ref "/f25/package/glade.md" >}}) | 6450 | 6450 | 100.0 | GNOME Indonesian Translation Team <gnome@i15n.org> | 
- | [glib-networking]({{< ref "/f25/package/glib-networking.md" >}}) | 161 | 161 | 100.0 | Indonesian <gnome@i15n.org> | 
- | [glib2]({{< ref "/f25/package/glib2.md" >}}) | 5738 | 5738 | 100.0 | Indonesian <gnome@i15n.org> | 
- | [glom]({{< ref "/f25/package/glom.md" >}}) | 4907 | 4907 | 100.0 | Indonesian <gnome@i15n.org> | 
- | [gnome-2048]({{< ref "/f25/package/gnome-2048.md" >}}) | 290 | 290 | 100.0 | Indonesian <gnome-l10n-id@googlegroups.com> | 
- | [gnome-backgrounds]({{< ref "/f25/package/gnome-backgrounds.md" >}}) | 30 | 30 | 100.0 | Indonesian <gnome@i15n.org> | 
- | [gnome-bluetooth]({{< ref "/f25/package/gnome-bluetooth.md" >}}) | 375 | 375 | 100.0 | Indonesian <gnome-l10n-id@googlegroups.com> | 
- | [gnome-boxes]({{< ref "/f25/package/gnome-boxes.md" >}}) | 1102 | 1102 | 100.0 | Indonesian <gnome@i15n.org> | 
- | [gnome-calculator]({{< ref "/f25/package/gnome-calculator.md" >}}) | 1486 | 1486 | 100.0 | Indonesian <gnome@i15n.org> | 
- | [gnome-calendar]({{< ref "/f25/package/gnome-calendar.md" >}}) | 424 | 424 | 100.0 | Indonesian <gnomed@i15n.org> | 
- | [gnome-characters]({{< ref "/f25/package/gnome-characters.md" >}}) | 161 | 161 | 100.0 | Indonesian <gnome-l10n-id@googlegroups.com> | 
- | [gnome-chess]({{< ref "/f25/package/gnome-chess.md" >}}) | 1377 | 1377 | 100.0 | Indonesian <gnome@i15n.org> | 
- | [gnome-clocks]({{< ref "/f25/package/gnome-clocks.md" >}}) | 1255 | 1255 | 100.0 | Indonesian <gnome-l10n-id@googlegroups.com> | 
- | [gnome-color-manager]({{< ref "/f25/package/gnome-color-manager.md" >}}) | 1793 | 1793 | 100.0 | GNOME Indonesian Translation Team <gnome@i15n.org> | 
- | [gnome-commander]({{< ref "/f25/package/gnome-commander.md" >}}) | 10323 | 10323 | 100.0 | Indonesian <gnome@i15n.org> | 
- | [gnome-contacts]({{< ref "/f25/package/gnome-contacts.md" >}}) | 433 | 433 | 100.0 | Indonesian <gnome@i15n.org> | 
- | [gnome-desktop]({{< ref "/f25/package/gnome-desktop.md" >}}) | 438 | 438 | 100.0 | Indonesian <gnome-l10n-id@googlegroups.com> | 
- | [gnome-desktop3]({{< ref "/f25/package/gnome-desktop3.md" >}}) | 146 | 146 | 100.0 | Indonesian <gnome@i15n.org> | 
- | [gnome-dictionary]({{< ref "/f25/package/gnome-dictionary.md" >}}) | 2105 | 2105 | 100.0 | Indonesian <gnome@i15n.org> | 
- | [gnome-directory-thumbnailer]({{< ref "/f25/package/gnome-directory-thumbnailer.md" >}}) | 85 | 85 | 100.0 | Indonesian <gnome-l10n-id@googlegroups.com> | 
- | [gnome-disk-utility]({{< ref "/f25/package/gnome-disk-utility.md" >}}) | 3543 | 3543 | 100.0 | Indonesian <gnome@i15n.org> | 
- | [gnome-doc-utils]({{< ref "/f25/package/gnome-doc-utils.md" >}}) | 251 | 251 | 100.0 | GNOME Indonesian Translation Team <gnome@i15n.org> | 
- | [gnome-documents]({{< ref "/f25/package/gnome-documents.md" >}}) | 1826 | 1826 | 100.0 | Indonesian <gnome@i15n.org> | 
- | [gnome-dvb-daemon]({{< ref "/f25/package/gnome-dvb-daemon.md" >}}) | 828 | 828 | 100.0 | Indonesian <gnome@i15n.org> | 
- | [gnome-font-viewer]({{< ref "/f25/package/gnome-font-viewer.md" >}}) | 130 | 130 | 100.0 | GNOME Indonesian Translation Team <gnome@i15n.org> | 
- | [gnome-getting-started-docs]({{< ref "/f25/package/gnome-getting-started-docs.md" >}}) | 2501 | 2501 | 100.0 | Indonesian <gnome@i15n.org> | 
- | [gnome-icon-theme]({{< ref "/f25/package/gnome-icon-theme.md" >}}) | 53 | 53 | 100.0 | Indonesia <id@li.org> | 
- | [gnome-initial-setup]({{< ref "/f25/package/gnome-initial-setup.md" >}}) | 842 | 842 | 100.0 | Indonesian <gnome@i15n.org> | 
- | [gnome-keyring]({{< ref "/f25/package/gnome-keyring.md" >}}) | 553 | 553 | 100.0 | Indonesian <gnome@i15n.org> | 
- | [gnome-klotski]({{< ref "/f25/package/gnome-klotski.md" >}}) | 195 | 195 | 100.0 | Indonesian <gnome@i15n.org> | 
- | [gnome-logs]({{< ref "/f25/package/gnome-logs.md" >}}) | 223 | 223 | 100.0 | Indonesian <gnome@i15n.org> | 
- | [gnome-mahjongg]({{< ref "/f25/package/gnome-mahjongg.md" >}}) | 308 | 308 | 100.0 | Indonesian <gnome@i15n.org> | 
- | [gnome-maps]({{< ref "/f25/package/gnome-maps.md" >}}) | 975 | 975 | 100.0 | Indonesian <gnome@i15n.org> | 
- | [gnome-menus]({{< ref "/f25/package/gnome-menus.md" >}}) | 70 | 70 | 100.0 | Indonesian <gnome@i15n.org> | 
- | [gnome-mime-data]({{< ref "/f25/package/gnome-mime-data.md" >}}) | 887 | 887 | 100.0 | Indonesia <id@li.org> | 
- | [gnome-mines]({{< ref "/f25/package/gnome-mines.md" >}}) | 308 | 308 | 100.0 | Indonesian <gnome@i15n.org> | 
- | [gnome-multi-writer]({{< ref "/f25/package/gnome-multi-writer.md" >}}) | 387 | 387 | 100.0 | Indonesian <gnome-l10n-id@googlegroups.com> | 
- | [gnome-music]({{< ref "/f25/package/gnome-music.md" >}}) | 552 | 552 | 100.0 | Indonesian <gnome@i15n.org> | 
- | [gnome-nettool]({{< ref "/f25/package/gnome-nettool.md" >}}) | 664 | 664 | 100.0 | Indonesian <gnome@i15n.org> | 
- | [gnome-nibbles]({{< ref "/f25/package/gnome-nibbles.md" >}}) | 385 | 385 | 100.0 | Indonesian <gnome@i15n.org> | 
- | [gnome-online-accounts]({{< ref "/f25/package/gnome-online-accounts.md" >}}) | 1230 | 1230 | 100.0 | Indonesian <gnome@i15n.org> | 
- | [gnome-packagekit]({{< ref "/f25/package/gnome-packagekit.md" >}}) | 3593 | 3593 | 100.0 | Indonesian <gnome@i15n.org> | 
- | [gnome-phone-manager]({{< ref "/f25/package/gnome-phone-manager.md" >}}) | 563 | 563 | 100.0 | INDONESIA <gnome@i15n.org> | 
- | [gnome-photos]({{< ref "/f25/package/gnome-photos.md" >}}) | 448 | 448 | 100.0 | Indonesian <gnome@i15n.org> | 
- | [gnome-power-manager]({{< ref "/f25/package/gnome-power-manager.md" >}}) | 483 | 483 | 100.0 | GNOME Indonesian Translation Team <gnome@i15n.org> | 
- | [gnome-robots]({{< ref "/f25/package/gnome-robots.md" >}}) | 636 | 636 | 100.0 | Indonesian <gnome@i15n.org> | 
- | [gnome-screensaver]({{< ref "/f25/package/gnome-screensaver.md" >}}) | 291 | 291 | 100.0 | GNOME Indonesian Translation Team <gnome@i15n.org> | 
- | [gnome-screenshot]({{< ref "/f25/package/gnome-screenshot.md" >}}) | 455 | 455 | 100.0 | Indonesian <gnome@i15n.org> | 
- | [gnome-search-tool]({{< ref "/f25/package/gnome-search-tool.md" >}}) | 1249 | 1249 | 100.0 | Indonesian <gnome-l10n-id@googlegroups.com> | 
- | [gnome-session]({{< ref "/f25/package/gnome-session.md" >}}) | 298 | 298 | 100.0 | Indonesian <gnome-l10n-id@googlegroups.com> | 
- | [gnome-settings-daemon]({{< ref "/f25/package/gnome-settings-daemon.md" >}}) | 2416 | 2416 | 100.0 | Indonesian <gnome@i15n.org> | 
- | [gnome-shell]({{< ref "/f25/package/gnome-shell.md" >}}) | 1433 | 1433 | 100.0 | Indonesian <gnome-l10n-id@googlegroups.com> | 
- | [gnome-shell-extension-pomodoro]({{< ref "/f25/package/gnome-shell-extension-pomodoro.md" >}}) | 336 | 336 | 100.0 | Indonesian | 
- | [gnome-shell-extensions]({{< ref "/f25/package/gnome-shell-extensions.md" >}}) | 380 | 380 | 100.0 | Indonesian <gnome@i15n.org> | 
- | [gnome-sound-recorder]({{< ref "/f25/package/gnome-sound-recorder.md" >}}) | 285 | 285 | 100.0 | Indonesian <gnome-l10n-id@googlegroups.com> | 
- | [gnome-system-log]({{< ref "/f25/package/gnome-system-log.md" >}}) | 1203 | 1203 | 100.0 | Indonesian <gnome@i15n.org> | 
- | [gnome-system-monitor]({{< ref "/f25/package/gnome-system-monitor.md" >}}) | 1365 | 1365 | 100.0 | Indonesian <gnome@i15n.org> | 
- | [gnome-terminal]({{< ref "/f25/package/gnome-terminal.md" >}}) | 2511 | 2511 | 100.0 | Indonesian <gnome@i15n.org> | 
- | [gnome-tetravex]({{< ref "/f25/package/gnome-tetravex.md" >}}) | 205 | 205 | 100.0 | Indonesian <gnome@i15n.org> | 
- | [gnome-themes]({{< ref "/f25/package/gnome-themes.md" >}}) | 109 | 109 | 100.0 | Indonesia <l10n@gnome.linux.or.id> | 
- | [gnome-themes-standard]({{< ref "/f25/package/gnome-themes-standard.md" >}}) | 15 | 15 | 100.0 | GNOME Indonesian Translation Team <gnome@i15n.org> | 
- | [gnome-todo]({{< ref "/f25/package/gnome-todo.md" >}}) | 382 | 382 | 100.0 | Indonesian | 
- | [gnome-tweak-tool]({{< ref "/f25/package/gnome-tweak-tool.md" >}}) | 438 | 438 | 100.0 | Indonesian <gnome@i15n.org> | 
- | [gnome-user-share]({{< ref "/f25/package/gnome-user-share.md" >}}) | 52 | 52 | 100.0 | Indonesian <gnome@i15n.org> | 
- | [gnome-vfs2]({{< ref "/f25/package/gnome-vfs2.md" >}}) | 1519 | 1519 | 100.0 | GNOME Indonesian Translation Team <gnome@i15n.org> | 
- | [gnome-video-effects]({{< ref "/f25/package/gnome-video-effects.md" >}}) | 256 | 256 | 100.0 | Indonesian <gnome@i15n.org> | 
- | [gnome-weather]({{< ref "/f25/package/gnome-weather.md" >}}) | 192 | 192 | 100.0 | Indonesian <gnome-l10n-id@googlegroups.com> | 
- | [gnote]({{< ref "/f25/package/gnote.md" >}}) | 3303 | 3303 | 100.0 | Indonesian <gnome@i15n.org> | 
- | [gom]({{< ref "/f25/package/gom.md" >}}) | 165 | 165 | 100.0 | Indonesian <gnome-l10n-id@googlegroups.com> | 
- | [gparted]({{< ref "/f25/package/gparted.md" >}}) | 2846 | 2846 | 100.0 | GNOME Indonesian Translation Team <gnome@i15n.org> | 
- | [gpicview]({{< ref "/f25/package/gpicview.md" >}}) | 236 | 236 | 100.0 | Indonesian <translation-team-id@lists.sourceforge.net> | 
- | [gpsdrive]({{< ref "/f25/package/gpsdrive.md" >}}) | 2311 | 2311 | 100.0 | Indonesian <translation-team-id@lists.sourceforge.net> | 
- | [grilo]({{< ref "/f25/package/grilo.md" >}}) | 194 | 194 | 100.0 | Indonesian <gnome@i15n.org> | 
- | [grilo-plugins]({{< ref "/f25/package/grilo-plugins.md" >}}) | 536 | 536 | 100.0 | Indonesian <gnome@i15n.org> | 
- | [gsettings-desktop-schemas]({{< ref "/f25/package/gsettings-desktop-schemas.md" >}}) | 6232 | 6232 | 100.0 | Indonesian <gnome@i15n.org> | 
- | [gspell]({{< ref "/f25/package/gspell.md" >}}) | 78 | 78 | 100.0 | Indonesian <gnome-l10n-id@googlegroups.com> | 
- | [gstreamer-plugins-bad-free]({{< ref "/f25/package/gstreamer-plugins-bad-free.md" >}}) | 96 | 96 | 100.0 | Indonesian <translation-team-id@lists.sourceforge.net> | 
- | [gstreamer-plugins-good]({{< ref "/f25/package/gstreamer-plugins-good.md" >}}) | 814 | 814 | 100.0 | Indonesian <translation-team-id@lists.sourceforge.net> | 
- | [gstreamer1]({{< ref "/f25/package/gstreamer1.md" >}}) | 2031 | 2031 | 100.0 | Indonesian <translation-team-id@lists.sourceforge.net> | 
- | [gstreamer1-plugins-bad-free]({{< ref "/f25/package/gstreamer1-plugins-bad-free.md" >}}) | 252 | 252 | 100.0 | Indonesian <translation-team-id@lists.sourceforge.net> | 
- | [gstreamer1-plugins-base]({{< ref "/f25/package/gstreamer1-plugins-base.md" >}}) | 949 | 949 | 100.0 | Indonesian <translation-team-id@lists.sourceforge.net> | 
- | [gstreamer1-plugins-ugly-free]({{< ref "/f25/package/gstreamer1-plugins-ugly-free.md" >}}) | 118 | 118 | 100.0 | Indonesian <translation-team-id@lists.sourceforge.net> | 
- | [gthumb]({{< ref "/f25/package/gthumb.md" >}}) | 3412 | 3412 | 100.0 | GNOME Indonesian Translation Team <gnome@i15n.org> | 
- | [gtick]({{< ref "/f25/package/gtick.md" >}}) | 338 | 338 | 100.0 | Indonesian <translation-team-id@lists.sourceforge.net> | 
- | [gtk-vnc]({{< ref "/f25/package/gtk-vnc.md" >}}) | 8 | 8 | 100.0 | Indonesian <gnome@i15n.org> | 
- | [gtk2]({{< ref "/f25/package/gtk2.md" >}}) | 12381 | 12381 | 100.0 | GNOME Indonesian Translation Team <gnome@i15n.org> | 
- | [gtk2-engines]({{< ref "/f25/package/gtk2-engines.md" >}}) | 119 | 119 | 100.0 | GNOME Indonesian Translation Team <gnome@i15n.org> | 
- | [gtk3]({{< ref "/f25/package/gtk3.md" >}}) | 16008 | 16008 | 100.0 | Indonesian <gnome@i15n.org> | 
- | [gtkhtml3]({{< ref "/f25/package/gtkhtml3.md" >}}) | 522 | 522 | 100.0 | GNOME Indonesian Translation Team <gnome@i15n.org> | 
- | [gtksourceview2]({{< ref "/f25/package/gtksourceview2.md" >}}) | 821 | 821 | 100.0 | Indonesia <kontak@id.gnome.org> | 
- | [gtksourceview3]({{< ref "/f25/package/gtksourceview3.md" >}}) | 1147 | 1147 | 100.0 | GNOME Indonesian Translation Team <gnome@i15n.org> | 
- | [gtkspell]({{< ref "/f25/package/gtkspell.md" >}}) | 15 | 15 | 100.0 | Indonesian <translation-team-id@lists.sourceforge.net> | 
- | [gtkspell3]({{< ref "/f25/package/gtkspell3.md" >}}) | 15 | 15 | 100.0 | Indonesian <translation-team-id@lists.sourceforge.net> | 
- | [gtranslator]({{< ref "/f25/package/gtranslator.md" >}}) | 1670 | 1670 | 100.0 | Indonesian <gnome@i15n.org> | 
- | [gucharmap]({{< ref "/f25/package/gucharmap.md" >}}) | 1313 | 1313 | 100.0 | Indonesian <gnome@i15n.org> | 
- | [gvfs]({{< ref "/f25/package/gvfs.md" >}}) | 2910 | 2910 | 100.0 | Indonesian <gnome-l10n-id@googlegroups.com> | 
- | [hitori]({{< ref "/f25/package/hitori.md" >}}) | 174 | 174 | 100.0 | INDONESIA <gnome@i15n.org> | 
- | [insight]({{< ref "/f25/package/insight.md" >}}) | 7765 | 7765 | 100.0 | Indonesian <translation-team-id@lists.sourceforge.net> | 
- | [islamic-menus]({{< ref "/f25/package/islamic-menus.md" >}}) | 5 | 5 | 100.0 | Indonesian <id@li.org> | 
- | [isomaster]({{< ref "/f25/package/isomaster.md" >}}) | 674 | 674 | 100.0 | Indonesian <LL@li.org> | 
- | [json-glib]({{< ref "/f25/package/json-glib.md" >}}) | 303 | 303 | 100.0 | Indonesian <gnome@i15n.org> | 
- | [kf5-kcmutils]({{< ref "/f25/package/kf5-kcmutils.md" >}}) | 563 | 563 | 100.0 | Indonesian <translation-team-id@lists.sourceforge.net> | 
- | [kf5-kcompletion]({{< ref "/f25/package/kf5-kcompletion.md" >}}) | 20 | 20 | 100.0 | Indonesian <translation-team-id@lists.sourceforge.net> | 
- | [kf5-kdesignerplugin]({{< ref "/f25/package/kf5-kdesignerplugin.md" >}}) | 54 | 54 | 100.0 | Indonesian <translation-team-id@lists.sourceforge.net> | 
- | [kf5-kdnssd]({{< ref "/f25/package/kf5-kdnssd.md" >}}) | 3 | 3 | 100.0 | Indonesian <translation-team-id@lists.sourceforge.net> | 
- | [kf5-ki18n]({{< ref "/f25/package/kf5-ki18n.md" >}}) | 124 | 124 | 100.0 | Indonesian <translation-team-id@lists.sourceforge.net> | 
- | [kf5-kitemviews]({{< ref "/f25/package/kf5-kitemviews.md" >}}) | 7 | 7 | 100.0 | Indonesian <translation-team-id@lists.sourceforge.net> | 
- | [kf5-kjobwidgets]({{< ref "/f25/package/kf5-kjobwidgets.md" >}}) | 141 | 141 | 100.0 | Indonesian <translation-team-id@lists.sourceforge.net> | 
- | [kf5-kjsembed]({{< ref "/f25/package/kf5-kjsembed.md" >}}) | 248 | 248 | 100.0 | Indonesian <translation-team-id@lists.sourceforge.net> | 
- | [kf5-knotifications]({{< ref "/f25/package/kf5-knotifications.md" >}}) | 18 | 18 | 100.0 | Indonesian <translation-team-id@lists.sourceforge.net> | 
- | [kf5-kparts]({{< ref "/f25/package/kf5-kparts.md" >}}) | 104 | 104 | 100.0 | Indonesian <translation-team-id@lists.sourceforge.net> | 
- | [kf5-kpty]({{< ref "/f25/package/kf5-kpty.md" >}}) | 15 | 15 | 100.0 | Indonesian <translation-team-id@lists.sourceforge.net> | 
- | [kf5-kross]({{< ref "/f25/package/kf5-kross.md" >}}) | 100 | 100 | 100.0 | Indonesian <translation-team-id@lists.sourceforge.net> | 
- | [kf5-kwindowsystem]({{< ref "/f25/package/kf5-kwindowsystem.md" >}}) | 2 | 2 | 100.0 | Indonesian <translation-team-id@lists.sourceforge.net> | 
- | [khotkeys]({{< ref "/f25/package/khotkeys.md" >}}) | 436 | 436 | 100.0 | Indonesian <translation-team-id@lists.sourceforge.net> | 
- | [kmenuedit]({{< ref "/f25/package/kmenuedit.md" >}}) | 277 | 277 | 100.0 | Indonesian <translation-team-id@lists.sourceforge.net> | 
- | [ksnapshot]({{< ref "/f25/package/ksnapshot.md" >}}) | 521 | 521 | 100.0 | Indonesian <translation-team-id@lists.sourceforge.net> | 
- | [lasem]({{< ref "/f25/package/lasem.md" >}}) | 29 | 29 | 100.0 | Indonesian <gnome@i15n.org> | 
- | [latexila]({{< ref "/f25/package/latexila.md" >}}) | 2347 | 2347 | 100.0 | Indonesian <gnome@i15n.org> | 
- | [leafpad]({{< ref "/f25/package/leafpad.md" >}}) | 125 | 125 | 100.0 | Indonesian <translation-team-id@lists.sourceforge.net> | 
- | [libappstream-glib]({{< ref "/f25/package/libappstream-glib.md" >}}) | 444 | 444 | 100.0 | Indonesian (http://www.transifex.com/freedesktop/appstream-glib/language/id/) | 
- | [libbonobo]({{< ref "/f25/package/libbonobo.md" >}}) | 543 | 543 | 100.0 | GNOME Indonesian Translation Team <gnome@i15n.org> | 
- | [libbonoboui]({{< ref "/f25/package/libbonoboui.md" >}}) | 368 | 368 | 100.0 | Indonesian <id@li.org> | 
- | [libcryptui]({{< ref "/f25/package/libcryptui.md" >}}) | 752 | 752 | 100.0 | GNOME Indonesian Translation Team <gnome@i15n.org> | 
- | [libfm]({{< ref "/f25/package/libfm.md" >}}) | 1565 | 1565 | 100.0 | Indonesian Translation Team <id@li.org> | 
- | [libgda]({{< ref "/f25/package/libgda.md" >}}) | 17221 | 17221 | 100.0 | GNOME Indonesian Translation Team <gnome@i15n.org> | 
- | [libgdata]({{< ref "/f25/package/libgdata.md" >}}) | 684 | 684 | 100.0 | GNOME Indonesian Translation Team <gnome@i15n.org> | 
- | [libgdl]({{< ref "/f25/package/libgdl.md" >}}) | 659 | 659 | 100.0 | GNOME Indonesian Translation Team <gnome@i15n.org> | 
- | [libgnome]({{< ref "/f25/package/libgnome.md" >}}) | 1773 | 1773 | 100.0 | GNOME Indonesian Translation Team <gnome@i15n.org> | 
- | [libgnome-games-support]({{< ref "/f25/package/libgnome-games-support.md" >}}) | 43 | 43 | 100.0 | Indonesian <gnome-l10n-id@googlegroups.com> | 
- | [libgnome-keyring]({{< ref "/f25/package/libgnome-keyring.md" >}}) | 44 | 44 | 100.0 | GNOME Indonesian Translation Team <gnome@i15n.org> | 
- | [libgnome-media-profiles]({{< ref "/f25/package/libgnome-media-profiles.md" >}}) | 460 | 460 | 100.0 | GNOME Indonesian Translation Team <gnome@i15n.org> | 
- | [libgnomecanvas]({{< ref "/f25/package/libgnomecanvas.md" >}}) | 378 | 378 | 100.0 | GNOME Indonesian Translation Team <gnome@i15n.org> | 
- | [libgnomekbd]({{< ref "/f25/package/libgnomekbd.md" >}}) | 187 | 187 | 100.0 | Indonesian <gnome-l10n-id@googlegroups.com> | 
- | [libgnomeui]({{< ref "/f25/package/libgnomeui.md" >}}) | 1226 | 1226 | 100.0 | GNOME Indonesian Translation Team <gnome@i15n.org> | 
- | [libgovirt]({{< ref "/f25/package/libgovirt.md" >}}) | 102 | 102 | 100.0 | Indonesian <gnome-l10n-id@googlegroups.com> | 
- | [libgsasl]({{< ref "/f25/package/libgsasl.md" >}}) | 577 | 577 | 100.0 | Indonesian <translation-team-id@lists.sourceforge.net> | 
- | [libgsf]({{< ref "/f25/package/libgsf.md" >}}) | 719 | 719 | 100.0 | Indonesian <gnome-l10n-id@googlegroups.com> | 
- | [libgtop2]({{< ref "/f25/package/libgtop2.md" >}}) | 126 | 126 | 100.0 | GNOME Indonesian Translation Team <gnome@i15n.org> | 
- | [libgweather]({{< ref "/f25/package/libgweather.md" >}}) | 6173 | 6173 | 100.0 | Indonesian <gnome@i15n.org> | 
- | [libmatekbd]({{< ref "/f25/package/libmatekbd.md" >}}) | 251 | 251 | 100.0 | Indonesian (http://www.transifex.com/mate/MATE/language/id/) | 
- | [libmatemixer]({{< ref "/f25/package/libmatemixer.md" >}}) | 242 | 242 | 100.0 | Indonesian (http://www.transifex.com/mate/MATE/language/id/) | 
- | [libmateweather]({{< ref "/f25/package/libmateweather.md" >}}) | 6085 | 6085 | 100.0 | Indonesian (http://www.transifex.com/mate/MATE/language/id/) | 
- | [libmx]({{< ref "/f25/package/libmx.md" >}}) | 40 | 40 | 100.0 | Indonesian <id@li.org> | 
- | [libpeas]({{< ref "/f25/package/libpeas.md" >}}) | 112 | 112 | 100.0 | Indonesian <gnome@i15n.org> | 
- | [libsecret]({{< ref "/f25/package/libsecret.md" >}}) | 59 | 59 | 100.0 | Indonesian <gnome-l10n-id@googlegroups.com> | 
- | [libsoup]({{< ref "/f25/package/libsoup.md" >}}) | 155 | 155 | 100.0 | Indonesian <gnome@i15n.org> | 
- | [libwnck]({{< ref "/f25/package/libwnck.md" >}}) | 1124 | 1124 | 100.0 | Indonesian <gnome-l10n-id@googlegroups.com> | 
- | [libwnck3]({{< ref "/f25/package/libwnck3.md" >}}) | 1086 | 1086 | 100.0 | Indonesian <gnome@i15n.org> | 
- | [libxfce4ui]({{< ref "/f25/package/libxfce4ui.md" >}}) | 851 | 851 | 100.0 | Indonesian (http://www.transifex.com/projects/p/libxfce4ui/language/id/) | 
- | [libxfce4util]({{< ref "/f25/package/libxfce4util.md" >}}) | 424 | 424 | 100.0 | Indonesian <id@li.org> | 
- | [lightsoff]({{< ref "/f25/package/lightsoff.md" >}}) | 93 | 93 | 100.0 | Indonesian <gnome@i15n.org> | 
- | [lxappearance]({{< ref "/f25/package/lxappearance.md" >}}) | 234 | 234 | 100.0 | Indonesian Translation Team <id@li.org> | 
- | [lxappearance-obconf]({{< ref "/f25/package/lxappearance-obconf.md" >}}) | 196 | 196 | 100.0 | Indonesian <id@li.org> | 
- | [lxdm]({{< ref "/f25/package/lxdm.md" >}}) | 47 | 47 | 100.0 | LANGUAGE <LL@li.org> | 
- | [lxinput]({{< ref "/f25/package/lxinput.md" >}}) | 83 | 83 | 100.0 | LANGUAGE <id@li.org> | 
- | [lxlauncher]({{< ref "/f25/package/lxlauncher.md" >}}) | 58 | 58 | 100.0 | Indonesian <translation-team-id@lists.sourceforge.net> | 
- | [lxmenu-data]({{< ref "/f25/package/lxmenu-data.md" >}}) | 97 | 97 | 100.0 | Indonesian <sukarelawan@gnome.linux.or.id> | 
- | [lxmusic]({{< ref "/f25/package/lxmusic.md" >}}) | 203 | 203 | 100.0 | Indonesian <translation-team-id@lists.sourceforge.net> | 
- | [lxrandr]({{< ref "/f25/package/lxrandr.md" >}}) | 167 | 167 | 100.0 | Indonesian <translation-team-id@lists.sourceforge.net> | 
- | [lxshortcut]({{< ref "/f25/package/lxshortcut.md" >}}) | 43 | 43 | 100.0 | Indonesian <translation-team-id@lists.sourceforge.net> | 
- | [lynx]({{< ref "/f25/package/lynx.md" >}}) | 8178 | 8178 | 100.0 | Indonesian <translation-team-id@lists.sourceforge.net> | 
- | [marco]({{< ref "/f25/package/marco.md" >}}) | 4089 | 4089 | 100.0 | Indonesian (http://www.transifex.com/mate/MATE/language/id/) | 
- | [mate-applets]({{< ref "/f25/package/mate-applets.md" >}}) | 2618 | 2618 | 100.0 | Indonesian (http://www.transifex.com/mate/MATE/language/id/) | 
- | [mate-backgrounds]({{< ref "/f25/package/mate-backgrounds.md" >}}) | 30 | 30 | 100.0 | Indonesian (http://www.transifex.com/mate/MATE/language/id/) | 
- | [mate-calc]({{< ref "/f25/package/mate-calc.md" >}}) | 1372 | 1372 | 100.0 | Indonesian (http://www.transifex.com/mate/MATE/language/id/) | 
- | [mate-control-center]({{< ref "/f25/package/mate-control-center.md" >}}) | 2957 | 2957 | 100.0 | MATE Indonesian Translation Team <mate@i15n.org> | 
- | [mate-desktop]({{< ref "/f25/package/mate-desktop.md" >}}) | 2346 | 2346 | 100.0 | Indonesian (http://www.transifex.com/mate/MATE/language/id/) | 
- | [mate-icon-theme]({{< ref "/f25/package/mate-icon-theme.md" >}}) | 4 | 4 | 100.0 | Indonesian (http://www.transifex.com/mate/MATE/language/id/) | 
- | [mate-media]({{< ref "/f25/package/mate-media.md" >}}) | 226 | 226 | 100.0 | Indonesian (http://www.transifex.com/mate/MATE/language/id/) | 
- | [mate-menus]({{< ref "/f25/package/mate-menus.md" >}}) | 97 | 97 | 100.0 | Indonesian (http://www.transifex.com/mate/MATE/language/id/) | 
- | [mate-notification-daemon]({{< ref "/f25/package/mate-notification-daemon.md" >}}) | 139 | 139 | 100.0 | Indonesian (http://www.transifex.com/mate/MATE/language/id/) | 
- | [mate-panel]({{< ref "/f25/package/mate-panel.md" >}}) | 4353 | 4353 | 100.0 | Indonesian (http://www.transifex.com/mate/MATE/language/id/) | 
- | [mate-polkit]({{< ref "/f25/package/mate-polkit.md" >}}) | 313 | 313 | 100.0 | Indonesian (http://www.transifex.com/mate/MATE/language/id/) | 
- | [mate-screensaver]({{< ref "/f25/package/mate-screensaver.md" >}}) | 983 | 983 | 100.0 | Indonesian (http://www.transifex.com/mate/MATE/language/id/) | 
- | [mate-sensors-applet]({{< ref "/f25/package/mate-sensors-applet.md" >}}) | 304 | 304 | 100.0 | Indonesian (http://www.transifex.com/mate/MATE/language/id/) | 
- | [mate-session-manager]({{< ref "/f25/package/mate-session-manager.md" >}}) | 681 | 681 | 100.0 | Indonesian (http://www.transifex.com/mate/MATE/language/id/) | 
- | [mate-settings-daemon]({{< ref "/f25/package/mate-settings-daemon.md" >}}) | 1764 | 1764 | 100.0 | Indonesian (http://www.transifex.com/mate/MATE/language/id/) | 
- | [mate-system-monitor]({{< ref "/f25/package/mate-system-monitor.md" >}}) | 1307 | 1307 | 100.0 | Indonesian (http://www.transifex.com/mate/MATE/language/id/) | 
- | [mate-themes]({{< ref "/f25/package/mate-themes.md" >}}) | 58 | 58 | 100.0 | Indonesian (http://www.transifex.com/mate/MATE/language/id/) | 
- | [mate-utils]({{< ref "/f25/package/mate-utils.md" >}}) | 3677 | 3677 | 100.0 | Indonesian (http://www.transifex.com/mate/MATE/language/id/) | 
- | [meld]({{< ref "/f25/package/meld.md" >}}) | 2656 | 2656 | 100.0 | Indonesian <gnome@i15n.org> | 
- | [metacity]({{< ref "/f25/package/metacity.md" >}}) | 2042 | 2042 | 100.0 | GNOME Indonesian Translation Team <gnome@i15n.org> | 
- | [mingw-GConf2]({{< ref "/f25/package/mingw-GConf2.md" >}}) | 4088 | 4088 | 100.0 | Indonesian <gnome-l10n-id@googlegroups.com> | 
- | [mingw-atk]({{< ref "/f25/package/mingw-atk.md" >}}) | 440 | 440 | 100.0 | GNOME Indonesian Translation Team <gnome@i15n.org> | 
- | [mingw-binutils]({{< ref "/f25/package/mingw-binutils.md" >}}) | 42677 | 42677 | 100.0 | Indonesian <translation-team-id@lists.sourceforge.net> | 
- | [mingw-gdb]({{< ref "/f25/package/mingw-gdb.md" >}}) | 7765 | 7765 | 100.0 | Indonesian <translation-team-id@lists.sourceforge.net> | 
- | [mingw-gdk-pixbuf]({{< ref "/f25/package/mingw-gdk-pixbuf.md" >}}) | 1409 | 1409 | 100.0 | Indonesian <gnome-l10n-id@googlegroups.com> | 
- | [mingw-glib-networking]({{< ref "/f25/package/mingw-glib-networking.md" >}}) | 161 | 161 | 100.0 | Indonesian <gnome@i15n.org> | 
- | [mingw-glib2]({{< ref "/f25/package/mingw-glib2.md" >}}) | 5738 | 5738 | 100.0 | Indonesian <gnome@i15n.org> | 
- | [mingw-gstreamer-plugins-bad-free]({{< ref "/f25/package/mingw-gstreamer-plugins-bad-free.md" >}}) | 96 | 96 | 100.0 | Indonesian <translation-team-id@lists.sourceforge.net> | 
- | [mingw-gstreamer-plugins-good]({{< ref "/f25/package/mingw-gstreamer-plugins-good.md" >}}) | 814 | 814 | 100.0 | Indonesian <translation-team-id@lists.sourceforge.net> | 
- | [mingw-gstreamer1]({{< ref "/f25/package/mingw-gstreamer1.md" >}}) | 2032 | 2032 | 100.0 | Indonesian <translation-team-id@lists.sourceforge.net> | 
- | [mingw-gstreamer1-plugins-bad-free]({{< ref "/f25/package/mingw-gstreamer1-plugins-bad-free.md" >}}) | 252 | 252 | 100.0 | Indonesian <translation-team-id@lists.sourceforge.net> | 
- | [mingw-gstreamer1-plugins-base]({{< ref "/f25/package/mingw-gstreamer1-plugins-base.md" >}}) | 949 | 949 | 100.0 | Indonesian <translation-team-id@lists.sourceforge.net> | 
- | [mingw-gstreamer1-plugins-good]({{< ref "/f25/package/mingw-gstreamer1-plugins-good.md" >}}) | 761 | 761 | 100.0 | Indonesian <translation-team-id@lists.sourceforge.net> | 
- | [mingw-gtk-vnc]({{< ref "/f25/package/mingw-gtk-vnc.md" >}}) | 8 | 8 | 100.0 | Indonesian <gnome@i15n.org> | 
- | [mingw-gtk2]({{< ref "/f25/package/mingw-gtk2.md" >}}) | 12381 | 12381 | 100.0 | GNOME Indonesian Translation Team <gnome@i15n.org> | 
- | [mingw-gtk3]({{< ref "/f25/package/mingw-gtk3.md" >}}) | 16008 | 16008 | 100.0 | Indonesian <gnome@i15n.org> | 
- | [mingw-gtkhtml3]({{< ref "/f25/package/mingw-gtkhtml3.md" >}}) | 522 | 522 | 100.0 | GNOME Indonesian Translation Team <gnome@i15n.org> | 
- | [mingw-gtkspell3]({{< ref "/f25/package/mingw-gtkspell3.md" >}}) | 15 | 15 | 100.0 | Indonesian <translation-team-id@lists.sourceforge.net> | 
- | [mingw-libgovirt]({{< ref "/f25/package/mingw-libgovirt.md" >}}) | 102 | 102 | 100.0 | Indonesian <gnome-l10n-id@googlegroups.com> | 
- | [mingw-libgsf]({{< ref "/f25/package/mingw-libgsf.md" >}}) | 720 | 720 | 100.0 | Indonesian <gnome-l10n-id@googlegroups.com> | 
- | [mingw-libsoup]({{< ref "/f25/package/mingw-libsoup.md" >}}) | 155 | 155 | 100.0 | Indonesian <gnome@i15n.org> | 
- | [mingw-p11-kit]({{< ref "/f25/package/mingw-p11-kit.md" >}}) | 476 | 476 | 100.0 | Indonesian (http://www.transifex.com/freedesktop/p11-kit/language/id/) | 
- | [mingw-postgresql]({{< ref "/f25/package/mingw-postgresql.md" >}}) | 29923 | 29923 | 100.0 | Equnix Business Solution, PT | 
- | [mousepad]({{< ref "/f25/package/mousepad.md" >}}) | 909 | 909 | 100.0 | Indonesian <translation-team-id@lists.sourceforge.net> | 
- | [mousetweaks]({{< ref "/f25/package/mousetweaks.md" >}}) | 114 | 114 | 100.0 | Indonesian <gnome-l10n-id@googlegroups.com> | 
- | [mozo]({{< ref "/f25/package/mozo.md" >}}) | 42 | 42 | 100.0 | Indonesian (http://www.transifex.com/mate/MATE/language/id/) | 
- | [msitools]({{< ref "/f25/package/msitools.md" >}}) | 71 | 71 | 100.0 | Indonesian <gnome@i15n.org> | 
- | [msp430-binutils]({{< ref "/f25/package/msp430-binutils.md" >}}) | 42677 | 42677 | 100.0 | Indonesian <translation-team-id@lists.sourceforge.net> | 
- | [muffin]({{< ref "/f25/package/muffin.md" >}}) | 2511 | 2511 | 100.0 | Indonesian <gnome@i15n.org> | 
- | [multimedia-menus]({{< ref "/f25/package/multimedia-menus.md" >}}) | 56 | 56 | 100.0 | Fedora Indonesia <trans-id@lists.fedoraproject.org> | 
- | [mutter]({{< ref "/f25/package/mutter.md" >}}) | 571 | 571 | 100.0 | Indonesian <gnome-l10n-id@googlegroups.com> | 
- | [nacl-arm-binutils]({{< ref "/f25/package/nacl-arm-binutils.md" >}}) | 42677 | 42677 | 100.0 | Indonesian <translation-team-id@lists.sourceforge.net> | 
- | [nacl-binutils]({{< ref "/f25/package/nacl-binutils.md" >}}) | 42677 | 42677 | 100.0 | Indonesian <translation-team-id@lists.sourceforge.net> | 
- | [nacl-gcc]({{< ref "/f25/package/nacl-gcc.md" >}}) | 53910 | 53910 | 100.0 | Indonesian <translation-team-id@lists.sourceforge.net> | 
- | [nautilus]({{< ref "/f25/package/nautilus.md" >}}) | 5519 | 5519 | 100.0 | Indonesian | 
- | [nautilus-sendto]({{< ref "/f25/package/nautilus-sendto.md" >}}) | 56 | 56 | 100.0 | Indonesian <gnome-l10n-id@googlegroups.com> | 
- | [nemiver]({{< ref "/f25/package/nemiver.md" >}}) | 1341 | 1341 | 100.0 | Indonesian <gnome-l10n-id@googlegroups.com> | 
- | [network-manager-applet]({{< ref "/f25/package/network-manager-applet.md" >}}) | 3425 | 3425 | 100.0 | Indonesian <gnome@i15n.org> | 
- | [newt]({{< ref "/f25/package/newt.md" >}}) | 4 | 4 | 100.0 | Debian Indonesia <debid@yahoogroups.com> | 
- | [notification-daemon]({{< ref "/f25/package/notification-daemon.md" >}}) | 33 | 33 | 100.0 | GNOME Indonesian Translation Team <gnome@i15n.org> | 
- | [olpc-switch-desktop]({{< ref "/f25/package/olpc-switch-desktop.md" >}}) | 158 | 158 | 100.0 | LANGUAGE <LL@li.org> | 
- | [orage]({{< ref "/f25/package/orage.md" >}}) | 2915 | 2915 | 100.0 | Indonesian (http://www.transifex.com/projects/p/xfce/language/id/) | 
- | [p11-kit]({{< ref "/f25/package/p11-kit.md" >}}) | 476 | 476 | 100.0 | Indonesian (http://www.transifex.com/freedesktop/p11-kit/language/id/) | 
- | [pantheon-greeter]({{< ref "/f25/package/pantheon-greeter.md" >}}) | 29 | 29 | 100.0 | Indonesian <id@li.org> | 
- | [pantheon-photos]({{< ref "/f25/package/pantheon-photos.md" >}}) | 3977 | 3977 | 100.0 | Indonesian <https://l10n.elementary.io/projects/photos/photos/id/> | 
- | [pantheon-terminal]({{< ref "/f25/package/pantheon-terminal.md" >}}) | 188 | 188 | 100.0 | Indonesian <https://l10n.elementary.io/projects/terminal/terminal/id/> | 
- | [parole]({{< ref "/f25/package/parole.md" >}}) | 666 | 666 | 100.0 | Indonesian (http://www.transifex.com/projects/p/xfce/language/id/) | 
- | [passwd]({{< ref "/f25/package/passwd.md" >}}) | 315 | 315 | 100.0 | Indonesian <trans-id@lists.fedoraproject.org> | 
- | [pcmanfm]({{< ref "/f25/package/pcmanfm.md" >}}) | 1210 | 1210 | 100.0 | Indonesian Translation Team <id@li.org> | 
- | [pessulus]({{< ref "/f25/package/pessulus.md" >}}) | 130 | 130 | 100.0 | GNOME Indonesian Translation Team <gnome@i15n.org> | 
- | [phodav]({{< ref "/f25/package/phodav.md" >}}) | 35 | 35 | 100.0 | Indonesian <gnome-l10n-id@googlegroups.com> | 
- | [php-horde-imp]({{< ref "/f25/package/php-horde-imp.md" >}}) | 2320 | 2320 | 100.0 | UPT TI UNEJ <uptti@unej.ac.id> | 
- | [php-horde-nag]({{< ref "/f25/package/php-horde-nag.md" >}}) | 444 | 444 | 100.0 | UPT TI UNEJ <uptti@unej.ac.id> | 
- | [php-horde-passwd]({{< ref "/f25/package/php-horde-passwd.md" >}}) | 269 | 269 | 100.0 | UPT TI UNEJ <uptti@unej.ac.id> | 
- | [pluma]({{< ref "/f25/package/pluma.md" >}}) | 5038 | 5038 | 100.0 | Indonesian (http://www.transifex.com/mate/MATE/language/id/) | 
- | [pmount]({{< ref "/f25/package/pmount.md" >}}) | 723 | 723 | 100.0 | Indonesian <id@li.org> | 
- | [polari]({{< ref "/f25/package/polari.md" >}}) | 633 | 633 | 100.0 | Indonesian <gnome-l10n-id@googlegroups.com> | 
- | [polkit-gnome]({{< ref "/f25/package/polkit-gnome.md" >}}) | 94 | 94 | 100.0 | Indonesian <gnome@i15n.org> | 
- | [polkit-kde]({{< ref "/f25/package/polkit-kde.md" >}}) | 94 | 94 | 100.0 | Indonesian <translation-team-id@lists.sourceforge.net> | 
- | [postgresql]({{< ref "/f25/package/postgresql.md" >}}) | 29923 | 29923 | 100.0 | Equnix Business Solution, PT | 
- | [pulseaudio]({{< ref "/f25/package/pulseaudio.md" >}}) | 2947 | 2947 | 100.0 | Indonesia <id@li.org> | 
- | [pybliographer]({{< ref "/f25/package/pybliographer.md" >}}) | 970 | 970 | 100.0 | Indonesian <gnome-l10n-id@googlegroups.com> | 
- | [python-caja]({{< ref "/f25/package/python-caja.md" >}}) | 6 | 6 | 100.0 | Indonesian (http://www.transifex.com/mate/MATE/language/id/) | 
- | [python-lettuce]({{< ref "/f25/package/python-lettuce.md" >}}) | 7691 | 7691 | 100.0 | Indonesian <id@li.org> | 
- | [qof]({{< ref "/f25/package/qof.md" >}}) | 554 | 554 | 100.0 | Indonesian <translation-team-id@lists.sourceforge.net> | 
- | [qtwebkit]({{< ref "/f25/package/qtwebkit.md" >}}) | 1821 | 1821 | 100.0 | GNOME Indonesian Translation Team <gnome@i15n.org> | 
- | [quadrapassel]({{< ref "/f25/package/quadrapassel.md" >}}) | 428 | 428 | 100.0 | Indonesian <gnome-l10n-id@googlegroups.com> | 
- | [realmd]({{< ref "/f25/package/realmd.md" >}}) | 778 | 778 | 100.0 | Indonesian (http://www.transifex.com/projects/p/freedesktop/language/id/) | 
- | [redhat-menus]({{< ref "/f25/package/redhat-menus.md" >}}) | 253 | 253 | 100.0 | Indonesian <fedora-trans-id@redhat.com> | 
- | [rhythmbox]({{< ref "/f25/package/rhythmbox.md" >}}) | 3659 | 3659 | 100.0 | Indonesian <gnome@i15n.org> | 
- | [ristretto]({{< ref "/f25/package/ristretto.md" >}}) | 541 | 541 | 100.0 | Indonesian <id@li.org> | 
- | [rygel]({{< ref "/f25/package/rygel.md" >}}) | 1616 | 1616 | 100.0 | GNOME Indonesian Translation Team <gnome@i15n.org> | 
- | [sdcc]({{< ref "/f25/package/sdcc.md" >}}) | 6373 | 6373 | 100.0 | Indonesian <translation-team-id@lists.sourceforge.net> | 
- | [seahorse]({{< ref "/f25/package/seahorse.md" >}}) | 2493 | 2493 | 100.0 | Indonesian <gnome-l10n-id@googlegroups.com> | 
- | [seahorse-nautilus]({{< ref "/f25/package/seahorse-nautilus.md" >}}) | 487 | 487 | 100.0 | GNOME Indonesian Translation Team <gnome@i15n.org> | 
- | [setuptool]({{< ref "/f25/package/setuptool.md" >}}) | 55 | 55 | 100.0 | Indonesian <fedora-trans-id@redhat.com> | 
- | [slingshot-launcher]({{< ref "/f25/package/slingshot-launcher.md" >}}) | 217 | 217 | 100.0 | Indonesian <https://weblate.elementary.io/projects/wingpanel/applications-menu/id/> | 
- | [snapper]({{< ref "/f25/package/snapper.md" >}}) | 743 | 743 | 100.0 | Indonesian <i18n@suse.de> | 
- | [sound-juicer]({{< ref "/f25/package/sound-juicer.md" >}}) | 1300 | 1300 | 100.0 | GNOME Indonesian Translation Team <gnome@i15n.org> | 
- | [sugar]({{< ref "/f25/package/sugar.md" >}}) | 1733 | 1733 | 100.0 | LANGUAGE <LL@li.org> | 
- | [sugar-browse]({{< ref "/f25/package/sugar-browse.md" >}}) | 189 | 189 | 100.0 | LANGUAGE <LL@li.org> | 
- | [sugar-calculator]({{< ref "/f25/package/sugar-calculator.md" >}}) | 871 | 871 | 100.0 | LANGUAGE <LL@li.org> | 
- | [sugar-imageviewer]({{< ref "/f25/package/sugar-imageviewer.md" >}}) | 58 | 58 | 100.0 | LANGUAGE <LL@li.org> | 
- | [sugar-jukebox]({{< ref "/f25/package/sugar-jukebox.md" >}}) | 69 | 69 | 100.0 | LANGUAGE <LL@li.org> | 
- | [sugar-log]({{< ref "/f25/package/sugar-log.md" >}}) | 98 | 98 | 100.0 | LANGUAGE <LL@li.org> | 
- | [sugar-paint]({{< ref "/f25/package/sugar-paint.md" >}}) | 90 | 90 | 100.0 | LANGUAGE <LL@li.org> | 
- | [sugar-physics]({{< ref "/f25/package/sugar-physics.md" >}}) | 48 | 48 | 100.0 | LANGUAGE <LL@li.org> | 
- | [sugar-pippy]({{< ref "/f25/package/sugar-pippy.md" >}}) | 109 | 109 | 100.0 | LANGUAGE <LL@li.org> | 
- | [sugar-portfolio]({{< ref "/f25/package/sugar-portfolio.md" >}}) | 60 | 60 | 100.0 | LANGUAGE <LL@li.org> | 
- | [sugar-read]({{< ref "/f25/package/sugar-read.md" >}}) | 137 | 137 | 100.0 | LANGUAGE <LL@li.org> | 
- | [sugar-record]({{< ref "/f25/package/sugar-record.md" >}}) | 62 | 62 | 100.0 | LANGUAGE <LL@li.org> | 
- | [sugar-speak]({{< ref "/f25/package/sugar-speak.md" >}}) | 227 | 227 | 100.0 | LANGUAGE <LL@li.org> | 
- | [sugar-toolkit]({{< ref "/f25/package/sugar-toolkit.md" >}}) | 73 | 73 | 100.0 | LANGUAGE <LL@li.org> | 
- | [sugar-toolkit-gtk3]({{< ref "/f25/package/sugar-toolkit-gtk3.md" >}}) | 76 | 76 | 100.0 | LANGUAGE <LL@li.org> | 
- | [sugar-visualmatch]({{< ref "/f25/package/sugar-visualmatch.md" >}}) | 158 | 158 | 100.0 | LANGUAGE <LL@li.org> | 
- | [sugar-words]({{< ref "/f25/package/sugar-words.md" >}}) | 3 | 3 | 100.0 | LANGUAGE <LL@li.org> | 
- | [sugar-xoeditor]({{< ref "/f25/package/sugar-xoeditor.md" >}}) | 29 | 29 | 100.0 | LANGUAGE <LL@li.org> | 
- | [sushi]({{< ref "/f25/package/sushi.md" >}}) | 24 | 24 | 100.0 | Indonesian <gnome@i15n.org> | 
- | [swell-foop]({{< ref "/f25/package/swell-foop.md" >}}) | 261 | 261 | 100.0 | Indonesian <gnome@i15n.org> | 
- | [switchboard]({{< ref "/f25/package/switchboard.md" >}}) | 41 | 41 | 100.0 | Indonesian <id@li.org> | 
- | [switchboard-plug-about]({{< ref "/f25/package/switchboard-plug-about.md" >}}) | 72 | 72 | 100.0 | Indonesian <id@li.org> | 
- | [switchboard-plug-bluetooth]({{< ref "/f25/package/switchboard-plug-bluetooth.md" >}}) | 39 | 39 | 100.0 | Indonesian <id@li.org> | 
- | [switchboard-plug-notifications]({{< ref "/f25/package/switchboard-plug-notifications.md" >}}) | 131 | 131 | 100.0 |  | 
- | [switchdesk]({{< ref "/f25/package/switchdesk.md" >}}) | 139 | 139 | 100.0 | Fedora Trans ID <fedora-trans-id@redhat.com> | 
- | [syncevolution]({{< ref "/f25/package/syncevolution.md" >}}) | 566 | 566 | 100.0 |  | 
- | [sysstat]({{< ref "/f25/package/sysstat.md" >}}) | 610 | 610 | 100.0 | Indonesian <translation-team-id@lists.sourceforge.net> | 
- | [system-config-httpd]({{< ref "/f25/package/system-config-httpd.md" >}}) | 877 | 877 | 100.0 | Bahasa Indonesia <fedora-trans-id@redhat.com> | 
- | [system-config-keyboard]({{< ref "/f25/package/system-config-keyboard.md" >}}) | 187 | 187 | 100.0 | Fedora Indonesia <trans-id@lists.fedoraproject.org> | 
- | [system-config-kickstart]({{< ref "/f25/package/system-config-kickstart.md" >}}) | 1144 | 1144 | 100.0 | Indonesian (http://www.transifex.com/projects/p/system-config-kickstart/language/id/) | 
- | [system-config-language]({{< ref "/f25/package/system-config-language.md" >}}) | 197 | 197 | 100.0 | Fedora Indonesia <trans-id@lists.fedoraproject.org> | 
- | [system-switch-java]({{< ref "/f25/package/system-switch-java.md" >}}) | 81 | 81 | 100.0 | Fedora Trans ID <fedora-trans-id@redhat.com> | 
- | [system-switch-mail]({{< ref "/f25/package/system-switch-mail.md" >}}) | 158 | 158 | 100.0 | Fedora Trans ID <fedora-trans-id@redhat.com> | 
- | [systemd]({{< ref "/f25/package/systemd.md" >}}) | 985 | 985 | 100.0 | Indonesian <gnome-l10n-id@googlegroups.com> | 
- | [tali]({{< ref "/f25/package/tali.md" >}}) | 418 | 418 | 100.0 | Indonesian <gnome-l10n-id@googlegroups.com> | 
- | [thunar-archive-plugin]({{< ref "/f25/package/thunar-archive-plugin.md" >}}) | 86 | 86 | 100.0 | Indonesian <id@li.org> | 
- | [thunar-media-tags-plugin]({{< ref "/f25/package/thunar-media-tags-plugin.md" >}}) | 156 | 156 | 100.0 | Indonesian <id@li.org> | 
- | [thunar-vcs-plugin]({{< ref "/f25/package/thunar-vcs-plugin.md" >}}) | 571 | 571 | 100.0 | Indonesian (http://www.transifex.com/projects/p/xfce/language/id/) | 
- | [thunar-vfs]({{< ref "/f25/package/thunar-vfs.md" >}}) | 387 | 387 | 100.0 | Indonesian <translation-team-id@lists.sourceforge.net> | 
- | [thunar-volman]({{< ref "/f25/package/thunar-volman.md" >}}) | 487 | 487 | 100.0 | Indonesian (http://www.transifex.com/projects/p/xfce/language/id/) | 
- | [tomboy]({{< ref "/f25/package/tomboy.md" >}}) | 3436 | 3436 | 100.0 | GNOME Indonesian Translation Team <gnome@i15n.org> | 
- | [totem]({{< ref "/f25/package/totem.md" >}}) | 6050 | 6050 | 100.0 | Indonesian <gnome@i15n.org> | 
- | [totem-pl-parser]({{< ref "/f25/package/totem-pl-parser.md" >}}) | 29 | 29 | 100.0 | Indonesian <gnome-l10n-id@googlegroups.com> | 
- | [tracker]({{< ref "/f25/package/tracker.md" >}}) | 3747 | 3747 | 100.0 | GNOME Indonesian Translation Team <gnome@i15n.org> | 
- | [transmageddon]({{< ref "/f25/package/transmageddon.md" >}}) | 327 | 327 | 100.0 | Indonesian <gnome@i15n.org> | 
- | [tumbler]({{< ref "/f25/package/tumbler.md" >}}) | 278 | 278 | 100.0 | Indonesian (http://www.transifex.com/projects/p/xfce/language/id/) | 
- | [tuxpaint]({{< ref "/f25/package/tuxpaint.md" >}}) | 1591 | 1591 | 100.0 | Indonesia <translation-team-id@lists.sourceforge.net> | 
- | [unixcw]({{< ref "/f25/package/unixcw.md" >}}) | 85 | 85 | 100.0 | Debian Indonesia Translators <debian-l10n-indonesian@lists.debian.org> | 
- | [vinagre]({{< ref "/f25/package/vinagre.md" >}}) | 2540 | 2540 | 100.0 | Indonesian <gnome@i15n.org> | 
- | [vino]({{< ref "/f25/package/vino.md" >}}) | 1228 | 1228 | 100.0 | Indonesian <gnome@i15n.org> | 
- | [vrms-rpm]({{< ref "/f25/package/vrms-rpm.md" >}}) | 15 | 15 | 100.0 |  | 
- | [vte]({{< ref "/f25/package/vte.md" >}}) | 80 | 80 | 100.0 | GNOME Indonesian Translation Team <gnome-l10n-id@googlegroups.com> | 
- | [vte291]({{< ref "/f25/package/vte291.md" >}}) | 31 | 31 | 100.0 | GNOME Indonesian Translation Team <gnome-l10n-id@googlegroups.com> | 
- | [vte3]({{< ref "/f25/package/vte3.md" >}}) | 80 | 80 | 100.0 | Indonesian <gnome-l10n-id@googlegroups.com>
+ | [0ad](/f25/package/0ad) | 136 | 136 | 100.0 | Indonesian (http://www.transifex.com/wildfire-games/0ad/language/id/) | 
+ | [GConf2](/f25/package/GConf2) | 4088 | 4088 | 100.0 | Indonesian <gnome-l10n-id@googlegroups.com> | 
+ | [NetworkManager-fortisslvpn](/f25/package/NetworkManager-fortisslvpn) | 205 | 205 | 100.0 | Indonesian Translator <gnome@i15n.org> | 
+ | [NetworkManager-iodine](/f25/package/NetworkManager-iodine) | 79 | 79 | 100.0 | Indonesian <gnome@i15n.org> | 
+ | [NetworkManager-libreswan](/f25/package/NetworkManager-libreswan) | 133 | 133 | 100.0 | Indonesian <gnome@i15n.org> | 
+ | [NetworkManager-openvpn](/f25/package/NetworkManager-openvpn) | 1655 | 1655 | 100.0 | GNOME Indonesian Translation Team <gnome@i15n.org> | 
+ | [NetworkManager-pptp](/f25/package/NetworkManager-pptp) | 417 | 417 | 100.0 | Indonesian Translator <gnome@i15n.org> | 
+ | [NetworkManager-sstp](/f25/package/NetworkManager-sstp) | 415 | 415 | 100.0 | Indonesian Translator <gnome@i15n.org> | 
+ | [NetworkManager-vpnc](/f25/package/NetworkManager-vpnc) | 511 | 511 | 100.0 | GNOME Indonesian Translation Team <gnome@i15n.org> | 
+ | [PackageKit](/f25/package/PackageKit) | 1273 | 1273 | 100.0 | Indonesian (http://www.transifex.com/freedesktop/packagekit/language/id/) | 
+ | [Thunar](/f25/package/Thunar) | 4200 | 4200 | 100.0 | Indonesian (http://www.transifex.com/xfce/thunar/language/id/) | 
+ | [accerciser](/f25/package/accerciser) | 659 | 659 | 100.0 | GNOME Indonesian Translation Team <gnome@i15n.org> | 
+ | [accountsservice](/f25/package/accountsservice) | 59 | 59 | 100.0 | Indonesian (http://www.transifex.com/projects/p/freedesktop/language/id/) | 
+ | [aisleriot](/f25/package/aisleriot) | 3075 | 3075 | 100.0 | Indonesian <gnome@i15n.org> | 
+ | [alacarte](/f25/package/alacarte) | 45 | 45 | 100.0 | GNOME Indonesian Translation Team <gnome@i15n.org> | 
+ | [alleyoop](/f25/package/alleyoop) | 351 | 351 | 100.0 | INDONESIAN <userindesign@gmail.com> | 
+ | [almanah](/f25/package/almanah) | 828 | 828 | 100.0 | GNOME Indonesian Translation Team <gnome@i15n.org> | 
+ | [anjuta](/f25/package/anjuta) | 8398 | 8398 | 100.0 | Indonesian <gnome@i15n.org> | 
+ | [arm-none-eabi-binutils-cs](/f25/package/arm-none-eabi-binutils-cs) | 42677 | 42677 | 100.0 | Indonesian <translation-team-id@lists.sourceforge.net> | 
+ | [arm-none-eabi-gdb](/f25/package/arm-none-eabi-gdb) | 7765 | 7765 | 100.0 | Indonesian <translation-team-id@lists.sourceforge.net> | 
+ | [aspell](/f25/package/aspell) | 1726 | 1726 | 100.0 | Indonesian <translation-team-id@lists.sourceforge.net> | 
+ | [at-spi2-core](/f25/package/at-spi2-core) | 10 | 10 | 100.0 | Indonesian <gnome@i15n.org> | 
+ | [atk](/f25/package/atk) | 440 | 440 | 100.0 | GNOME Indonesian Translation Team <gnome@i15n.org> | 
+ | [atomix](/f25/package/atomix) | 208 | 208 | 100.0 | GNOME Indonesian Translation Team <gnome@i15n.org> | 
+ | [atril](/f25/package/atril) | 1724 | 1724 | 100.0 | Indonesian (http://www.transifex.com/mate/MATE/language/id/) | 
+ | [audience](/f25/package/audience) | 106 | 106 | 100.0 | Indonesian <https://l10n.elementary.io/projects/videos/videos/id/> | 
+ | [autotest-framework](/f25/package/autotest-framework) | 983 | 983 | 100.0 | Indonesian | 
+ | [avr-binutils](/f25/package/avr-binutils) | 42677 | 42677 | 100.0 | Indonesian <translation-team-id@lists.sourceforge.net> | 
+ | [avr-gdb](/f25/package/avr-gdb) | 7765 | 7765 | 100.0 | Indonesian <translation-team-id@lists.sourceforge.net> | 
+ | [b43-fwcutter](/f25/package/b43-fwcutter) | 67 | 67 | 100.0 | Debian Indonesia Translator <debian-l10n-indonesian@lists.debian.org> | 
+ | [banshee](/f25/package/banshee) | 6001 | 6001 | 100.0 | GNOME Indonesian Translation Team <gnome@i15n.org> | 
+ | [baobab](/f25/package/baobab) | 1346 | 1346 | 100.0 | Indonesian <gnome@i15n.org> | 
+ | [bijiben](/f25/package/bijiben) | 309 | 309 | 100.0 | Indonesian <gnome@i15n.org> | 
+ | [binutils](/f25/package/binutils) | 42677 | 42677 | 100.0 | Indonesian <translation-team-id@lists.sourceforge.net> | 
+ | [bleachbit](/f25/package/bleachbit) | 1112 | 1112 | 100.0 | ubuntu-indonesia.com | 
+ | [blender](/f25/package/blender) | 6525 | 6525 | 100.0 | Indonesian <> | 
+ | [brasero](/f25/package/brasero) | 7748 | 7748 | 100.0 | Indonesian <gnome@i15n.org> | 
+ | [byobu](/f25/package/byobu) | 177 | 177 | 100.0 | Indonesian <id@li.org> | 
+ | [byzanz](/f25/package/byzanz) | 236 | 236 | 100.0 | GNOME Indonesian Translation Team <gnome@i15n.org> | 
+ | [caja](/f25/package/caja) | 9313 | 9313 | 100.0 | Indonesian (http://www.transifex.com/mate/MATE/language/id/) | 
+ | [caja-extensions](/f25/package/caja-extensions) | 556 | 556 | 100.0 | Indonesian (http://www.transifex.com/mate/MATE/language/id/) | 
+ | [caribou](/f25/package/caribou) | 169 | 169 | 100.0 | Indonesian <gnome@i15n.org> | 
+ | [cheese](/f25/package/cheese) | 2083 | 2083 | 100.0 | Indonesian <gnome@i15n.org> | 
+ | [chkconfig](/f25/package/chkconfig) | 513 | 513 | 100.0 | Indonesian <trans-id@lists.fedoraproject.org> | 
+ | [cinnamon-desktop](/f25/package/cinnamon-desktop) | 231 | 231 | 100.0 | Indonesian <gnome-l10n-id@googlegroups.com> | 
+ | [clamtk](/f25/package/clamtk) | 464 | 464 | 100.0 | Indonesian <id@li.org> | 
+ | [clawsker](/f25/package/clawsker) | 1262 | 1262 | 100.0 | translators@lists.claws-mail.org | 
+ | [clementine](/f25/package/clementine) | 5091 | 5091 | 100.0 | Indonesian (http://www.transifex.com/davidsansome/clementine/language/id/) | 
+ | [cogl](/f25/package/cogl) | 393 | 393 | 100.0 | Indonesian <gnome@i15n.org> | 
+ | [compat-gtkhtml314](/f25/package/compat-gtkhtml314) | 485 | 485 | 100.0 | GNOME Indonesian Translation Team <gnome@i15n.org> | 
+ | [cross-binutils](/f25/package/cross-binutils) | 42677 | 42677 | 100.0 | Indonesian <translation-team-id@lists.sourceforge.net> | 
+ | [cups-pk-helper](/f25/package/cups-pk-helper) | 149 | 149 | 100.0 | Indonesian (http://www.transifex.com/projects/p/freedesktop/language/id/) | 
+ | [d-feet](/f25/package/d-feet) | 109 | 109 | 100.0 | Indonesian <gnome-l10n-id@googlegroups.com> | 
+ | [dasher](/f25/package/dasher) | 1292 | 1292 | 100.0 | GNOME Indonesian Translation Team <gnome@i15n.org> | 
+ | [dconf-editor](/f25/package/dconf-editor) | 1412 | 1412 | 100.0 | Indonesian <gnome-l10n-id@googlegroups.com> | 
+ | [debconf](/f25/package/debconf) | 795 | 795 | 100.0 | Debian Indonesia Team <debian-l10n-id@gurame.fisika.ui.ac.id> | 
+ | [devhelp](/f25/package/devhelp) | 481 | 481 | 100.0 | GNOME Indonesian Translation Team <gnome@i15n.org> | 
+ | [dialog](/f25/package/dialog) | 25 | 25 | 100.0 | Indonesian <translation-team-id@lists.sourceforge.net> | 
+ | [ekiga](/f25/package/ekiga) | 4489 | 4489 | 100.0 | GNOME Indonesian Translation Team <gnome@i15n.org> | 
+ | [engrampa](/f25/package/engrampa) | 1940 | 1940 | 100.0 | Indonesian (http://www.transifex.com/mate/MATE/language/id/) | 
+ | [eog](/f25/package/eog) | 1675 | 1675 | 100.0 | Indonesian <gnome-l10n-id@googlegroups.com> | 
+ | [eog-plugins](/f25/package/eog-plugins) | 416 | 416 | 100.0 | GNOME Indonesian Translation Team <gnome@i15n.org> | 
+ | [eom](/f25/package/eom) | 1717 | 1717 | 100.0 | Indonesian (http://www.transifex.com/mate/MATE/language/id/) | 
+ | [evince](/f25/package/evince) | 9183 | 9183 | 100.0 | Indonesian <gnome@i15n.org> | 
+ | [evolution-data-server](/f25/package/evolution-data-server) | 5899 | 5899 | 100.0 | Indonesian <gnome@i15n.org> | 
+ | [evolution-ews](/f25/package/evolution-ews) | 1192 | 1192 | 100.0 | Indonesian <gnome@i15n.org> | 
+ | [evolution-mapi](/f25/package/evolution-mapi) | 1043 | 1043 | 100.0 | GNOME Indonesian Translation Team <gnome@i15n.org> | 
+ | [exif](/f25/package/exif) | 296 | 296 | 100.0 | Indonesian <translation-team-id@lists.sourceforge.net> | 
+ | [file-roller](/f25/package/file-roller) | 2847 | 2847 | 100.0 | Indonesian <gnome@i15n.org> | 
+ | [filezilla](/f25/package/filezilla) | 10188 | 10188 | 100.0 | Bahasa Indonesia <willysr@gmail.com> | 
+ | [five-or-more](/f25/package/five-or-more) | 282 | 282 | 100.0 | Indonesian <gnome@i15n.org> | 
+ | [focuswriter](/f25/package/focuswriter) | 129 | 129 | 100.0 | Indonesian (Indonesia) (http://www.transifex.com/projects/p/focuswriter/language/id_ID/) | 
+ | [folks](/f25/package/folks) | 1056 | 1056 | 100.0 | Indonesian <gnome-l10n-id@googlegroups.com> | 
+ | [four-in-a-row](/f25/package/four-in-a-row) | 256 | 256 | 100.0 | Indonesian <gnome@i15n.org> | 
+ | [fprintd](/f25/package/fprintd) | 419 | 419 | 100.0 | Indonesian (http://www.transifex.com/freedesktop/fprintd/language/id/) | 
+ | [freeipa](/f25/package/freeipa) | 307 | 307 | 100.0 | Indonesian (http://www.transifex.com/projects/p/freeipa/language/id/) | 
+ | [galculator](/f25/package/galculator) | 935 | 935 | 100.0 | Indonesian (http://www.transifex.com/mate/MATE/language/id/) | 
+ | [garcon](/f25/package/garcon) | 109 | 109 | 100.0 | Indonesian (http://www.transifex.com/projects/p/xfce/language/id/) | 
+ | [gcab](/f25/package/gcab) | 162 | 162 | 100.0 | Indonesian <gnome-l10n-id@googlegroups.com> | 
+ | [gcompris](/f25/package/gcompris) | 10218 | 10218 | 100.0 | Bahasa Indonesia <umarsaid@gmail.com> | 
+ | [gconf-editor](/f25/package/gconf-editor) | 336 | 336 | 100.0 | Indonesian <gnome-l10n-id@googlegroups.com> | 
+ | [gcr](/f25/package/gcr) | 700 | 700 | 100.0 | Indonesian <gnome-l10n-id@googlegroups.com> | 
+ | [gdb](/f25/package/gdb) | 7765 | 7765 | 100.0 | Indonesian <translation-team-id@lists.sourceforge.net> | 
+ | [gdk-pixbuf2](/f25/package/gdk-pixbuf2) | 1409 | 1409 | 100.0 | Indonesian <gnome-l10n-id@googlegroups.com> | 
+ | [gdm](/f25/package/gdm) | 9982 | 9982 | 100.0 | GNOME Indonesian Translation Team <gnome@i15n.org> | 
+ | [geary](/f25/package/geary) | 1640 | 1640 | 100.0 | Indonesian (http://www.transifex.com/projects/p/geary/language/id/) | 
+ | [gedit](/f25/package/gedit) | 10869 | 10869 | 100.0 | Indonesian <gnome@i15n.org> | 
+ | [gedit-plugins](/f25/package/gedit-plugins) | 928 | 928 | 100.0 | Indonesian <gnome@i15n.org> | 
+ | [ggz-gtk-client](/f25/package/ggz-gtk-client) | 4 | 4 | 100.0 |  | 
+ | [ghex](/f25/package/ghex) | 3236 | 3236 | 100.0 | Indonesian <gnome@i15n.org> | 
+ | [giggle](/f25/package/giggle) | 563 | 563 | 100.0 | Indonesian <gnome@i15n.org> | 
+ | [gigolo](/f25/package/gigolo) | 521 | 521 | 100.0 | Indonesian (http://www.transifex.com/projects/p/xfce/language/id/) | 
+ | [gitg](/f25/package/gitg) | 2020 | 2020 | 100.0 | Indonesian <gnome-l10n-id@googlegroups.com> | 
+ | [glade](/f25/package/glade) | 6450 | 6450 | 100.0 | GNOME Indonesian Translation Team <gnome@i15n.org> | 
+ | [glib-networking](/f25/package/glib-networking) | 161 | 161 | 100.0 | Indonesian <gnome@i15n.org> | 
+ | [glib2](/f25/package/glib2) | 5738 | 5738 | 100.0 | Indonesian <gnome@i15n.org> | 
+ | [glom](/f25/package/glom) | 4907 | 4907 | 100.0 | Indonesian <gnome@i15n.org> | 
+ | [gnome-2048](/f25/package/gnome-2048) | 290 | 290 | 100.0 | Indonesian <gnome-l10n-id@googlegroups.com> | 
+ | [gnome-backgrounds](/f25/package/gnome-backgrounds) | 30 | 30 | 100.0 | Indonesian <gnome@i15n.org> | 
+ | [gnome-bluetooth](/f25/package/gnome-bluetooth) | 375 | 375 | 100.0 | Indonesian <gnome-l10n-id@googlegroups.com> | 
+ | [gnome-boxes](/f25/package/gnome-boxes) | 1102 | 1102 | 100.0 | Indonesian <gnome@i15n.org> | 
+ | [gnome-calculator](/f25/package/gnome-calculator) | 1486 | 1486 | 100.0 | Indonesian <gnome@i15n.org> | 
+ | [gnome-calendar](/f25/package/gnome-calendar) | 424 | 424 | 100.0 | Indonesian <gnomed@i15n.org> | 
+ | [gnome-characters](/f25/package/gnome-characters) | 161 | 161 | 100.0 | Indonesian <gnome-l10n-id@googlegroups.com> | 
+ | [gnome-chess](/f25/package/gnome-chess) | 1377 | 1377 | 100.0 | Indonesian <gnome@i15n.org> | 
+ | [gnome-clocks](/f25/package/gnome-clocks) | 1255 | 1255 | 100.0 | Indonesian <gnome-l10n-id@googlegroups.com> | 
+ | [gnome-color-manager](/f25/package/gnome-color-manager) | 1793 | 1793 | 100.0 | GNOME Indonesian Translation Team <gnome@i15n.org> | 
+ | [gnome-commander](/f25/package/gnome-commander) | 10323 | 10323 | 100.0 | Indonesian <gnome@i15n.org> | 
+ | [gnome-contacts](/f25/package/gnome-contacts) | 433 | 433 | 100.0 | Indonesian <gnome@i15n.org> | 
+ | [gnome-desktop](/f25/package/gnome-desktop) | 438 | 438 | 100.0 | Indonesian <gnome-l10n-id@googlegroups.com> | 
+ | [gnome-desktop3](/f25/package/gnome-desktop3) | 146 | 146 | 100.0 | Indonesian <gnome@i15n.org> | 
+ | [gnome-dictionary](/f25/package/gnome-dictionary) | 2105 | 2105 | 100.0 | Indonesian <gnome@i15n.org> | 
+ | [gnome-directory-thumbnailer](/f25/package/gnome-directory-thumbnailer) | 85 | 85 | 100.0 | Indonesian <gnome-l10n-id@googlegroups.com> | 
+ | [gnome-disk-utility](/f25/package/gnome-disk-utility) | 3543 | 3543 | 100.0 | Indonesian <gnome@i15n.org> | 
+ | [gnome-doc-utils](/f25/package/gnome-doc-utils) | 251 | 251 | 100.0 | GNOME Indonesian Translation Team <gnome@i15n.org> | 
+ | [gnome-documents](/f25/package/gnome-documents) | 1826 | 1826 | 100.0 | Indonesian <gnome@i15n.org> | 
+ | [gnome-dvb-daemon](/f25/package/gnome-dvb-daemon) | 828 | 828 | 100.0 | Indonesian <gnome@i15n.org> | 
+ | [gnome-font-viewer](/f25/package/gnome-font-viewer) | 130 | 130 | 100.0 | GNOME Indonesian Translation Team <gnome@i15n.org> | 
+ | [gnome-getting-started-docs](/f25/package/gnome-getting-started-docs) | 2501 | 2501 | 100.0 | Indonesian <gnome@i15n.org> | 
+ | [gnome-icon-theme](/f25/package/gnome-icon-theme) | 53 | 53 | 100.0 | Indonesia <id@li.org> | 
+ | [gnome-initial-setup](/f25/package/gnome-initial-setup) | 842 | 842 | 100.0 | Indonesian <gnome@i15n.org> | 
+ | [gnome-keyring](/f25/package/gnome-keyring) | 553 | 553 | 100.0 | Indonesian <gnome@i15n.org> | 
+ | [gnome-klotski](/f25/package/gnome-klotski) | 195 | 195 | 100.0 | Indonesian <gnome@i15n.org> | 
+ | [gnome-logs](/f25/package/gnome-logs) | 223 | 223 | 100.0 | Indonesian <gnome@i15n.org> | 
+ | [gnome-mahjongg](/f25/package/gnome-mahjongg) | 308 | 308 | 100.0 | Indonesian <gnome@i15n.org> | 
+ | [gnome-maps](/f25/package/gnome-maps) | 975 | 975 | 100.0 | Indonesian <gnome@i15n.org> | 
+ | [gnome-menus](/f25/package/gnome-menus) | 70 | 70 | 100.0 | Indonesian <gnome@i15n.org> | 
+ | [gnome-mime-data](/f25/package/gnome-mime-data) | 887 | 887 | 100.0 | Indonesia <id@li.org> | 
+ | [gnome-mines](/f25/package/gnome-mines) | 308 | 308 | 100.0 | Indonesian <gnome@i15n.org> | 
+ | [gnome-multi-writer](/f25/package/gnome-multi-writer) | 387 | 387 | 100.0 | Indonesian <gnome-l10n-id@googlegroups.com> | 
+ | [gnome-music](/f25/package/gnome-music) | 552 | 552 | 100.0 | Indonesian <gnome@i15n.org> | 
+ | [gnome-nettool](/f25/package/gnome-nettool) | 664 | 664 | 100.0 | Indonesian <gnome@i15n.org> | 
+ | [gnome-nibbles](/f25/package/gnome-nibbles) | 385 | 385 | 100.0 | Indonesian <gnome@i15n.org> | 
+ | [gnome-online-accounts](/f25/package/gnome-online-accounts) | 1230 | 1230 | 100.0 | Indonesian <gnome@i15n.org> | 
+ | [gnome-packagekit](/f25/package/gnome-packagekit) | 3593 | 3593 | 100.0 | Indonesian <gnome@i15n.org> | 
+ | [gnome-phone-manager](/f25/package/gnome-phone-manager) | 563 | 563 | 100.0 | INDONESIA <gnome@i15n.org> | 
+ | [gnome-photos](/f25/package/gnome-photos) | 448 | 448 | 100.0 | Indonesian <gnome@i15n.org> | 
+ | [gnome-power-manager](/f25/package/gnome-power-manager) | 483 | 483 | 100.0 | GNOME Indonesian Translation Team <gnome@i15n.org> | 
+ | [gnome-robots](/f25/package/gnome-robots) | 636 | 636 | 100.0 | Indonesian <gnome@i15n.org> | 
+ | [gnome-screensaver](/f25/package/gnome-screensaver) | 291 | 291 | 100.0 | GNOME Indonesian Translation Team <gnome@i15n.org> | 
+ | [gnome-screenshot](/f25/package/gnome-screenshot) | 455 | 455 | 100.0 | Indonesian <gnome@i15n.org> | 
+ | [gnome-search-tool](/f25/package/gnome-search-tool) | 1249 | 1249 | 100.0 | Indonesian <gnome-l10n-id@googlegroups.com> | 
+ | [gnome-session](/f25/package/gnome-session) | 298 | 298 | 100.0 | Indonesian <gnome-l10n-id@googlegroups.com> | 
+ | [gnome-settings-daemon](/f25/package/gnome-settings-daemon) | 2416 | 2416 | 100.0 | Indonesian <gnome@i15n.org> | 
+ | [gnome-shell](/f25/package/gnome-shell) | 1433 | 1433 | 100.0 | Indonesian <gnome-l10n-id@googlegroups.com> | 
+ | [gnome-shell-extension-pomodoro](/f25/package/gnome-shell-extension-pomodoro) | 336 | 336 | 100.0 | Indonesian | 
+ | [gnome-shell-extensions](/f25/package/gnome-shell-extensions) | 380 | 380 | 100.0 | Indonesian <gnome@i15n.org> | 
+ | [gnome-sound-recorder](/f25/package/gnome-sound-recorder) | 285 | 285 | 100.0 | Indonesian <gnome-l10n-id@googlegroups.com> | 
+ | [gnome-system-log](/f25/package/gnome-system-log) | 1203 | 1203 | 100.0 | Indonesian <gnome@i15n.org> | 
+ | [gnome-system-monitor](/f25/package/gnome-system-monitor) | 1365 | 1365 | 100.0 | Indonesian <gnome@i15n.org> | 
+ | [gnome-terminal](/f25/package/gnome-terminal) | 2511 | 2511 | 100.0 | Indonesian <gnome@i15n.org> | 
+ | [gnome-tetravex](/f25/package/gnome-tetravex) | 205 | 205 | 100.0 | Indonesian <gnome@i15n.org> | 
+ | [gnome-themes](/f25/package/gnome-themes) | 109 | 109 | 100.0 | Indonesia <l10n@gnome.linux.or.id> | 
+ | [gnome-themes-standard](/f25/package/gnome-themes-standard) | 15 | 15 | 100.0 | GNOME Indonesian Translation Team <gnome@i15n.org> | 
+ | [gnome-todo](/f25/package/gnome-todo) | 382 | 382 | 100.0 | Indonesian | 
+ | [gnome-tweak-tool](/f25/package/gnome-tweak-tool) | 438 | 438 | 100.0 | Indonesian <gnome@i15n.org> | 
+ | [gnome-user-share](/f25/package/gnome-user-share) | 52 | 52 | 100.0 | Indonesian <gnome@i15n.org> | 
+ | [gnome-vfs2](/f25/package/gnome-vfs2) | 1519 | 1519 | 100.0 | GNOME Indonesian Translation Team <gnome@i15n.org> | 
+ | [gnome-video-effects](/f25/package/gnome-video-effects) | 256 | 256 | 100.0 | Indonesian <gnome@i15n.org> | 
+ | [gnome-weather](/f25/package/gnome-weather) | 192 | 192 | 100.0 | Indonesian <gnome-l10n-id@googlegroups.com> | 
+ | [gnote](/f25/package/gnote) | 3303 | 3303 | 100.0 | Indonesian <gnome@i15n.org> | 
+ | [gom](/f25/package/gom) | 165 | 165 | 100.0 | Indonesian <gnome-l10n-id@googlegroups.com> | 
+ | [gparted](/f25/package/gparted) | 2846 | 2846 | 100.0 | GNOME Indonesian Translation Team <gnome@i15n.org> | 
+ | [gpicview](/f25/package/gpicview) | 236 | 236 | 100.0 | Indonesian <translation-team-id@lists.sourceforge.net> | 
+ | [gpsdrive](/f25/package/gpsdrive) | 2311 | 2311 | 100.0 | Indonesian <translation-team-id@lists.sourceforge.net> | 
+ | [grilo](/f25/package/grilo) | 194 | 194 | 100.0 | Indonesian <gnome@i15n.org> | 
+ | [grilo-plugins](/f25/package/grilo-plugins) | 536 | 536 | 100.0 | Indonesian <gnome@i15n.org> | 
+ | [gsettings-desktop-schemas](/f25/package/gsettings-desktop-schemas) | 6232 | 6232 | 100.0 | Indonesian <gnome@i15n.org> | 
+ | [gspell](/f25/package/gspell) | 78 | 78 | 100.0 | Indonesian <gnome-l10n-id@googlegroups.com> | 
+ | [gstreamer-plugins-bad-free](/f25/package/gstreamer-plugins-bad-free) | 96 | 96 | 100.0 | Indonesian <translation-team-id@lists.sourceforge.net> | 
+ | [gstreamer-plugins-good](/f25/package/gstreamer-plugins-good) | 814 | 814 | 100.0 | Indonesian <translation-team-id@lists.sourceforge.net> | 
+ | [gstreamer1](/f25/package/gstreamer1) | 2031 | 2031 | 100.0 | Indonesian <translation-team-id@lists.sourceforge.net> | 
+ | [gstreamer1-plugins-bad-free](/f25/package/gstreamer1-plugins-bad-free) | 252 | 252 | 100.0 | Indonesian <translation-team-id@lists.sourceforge.net> | 
+ | [gstreamer1-plugins-base](/f25/package/gstreamer1-plugins-base) | 949 | 949 | 100.0 | Indonesian <translation-team-id@lists.sourceforge.net> | 
+ | [gstreamer1-plugins-ugly-free](/f25/package/gstreamer1-plugins-ugly-free) | 118 | 118 | 100.0 | Indonesian <translation-team-id@lists.sourceforge.net> | 
+ | [gthumb](/f25/package/gthumb) | 3412 | 3412 | 100.0 | GNOME Indonesian Translation Team <gnome@i15n.org> | 
+ | [gtick](/f25/package/gtick) | 338 | 338 | 100.0 | Indonesian <translation-team-id@lists.sourceforge.net> | 
+ | [gtk-vnc](/f25/package/gtk-vnc) | 8 | 8 | 100.0 | Indonesian <gnome@i15n.org> | 
+ | [gtk2](/f25/package/gtk2) | 12381 | 12381 | 100.0 | GNOME Indonesian Translation Team <gnome@i15n.org> | 
+ | [gtk2-engines](/f25/package/gtk2-engines) | 119 | 119 | 100.0 | GNOME Indonesian Translation Team <gnome@i15n.org> | 
+ | [gtk3](/f25/package/gtk3) | 16008 | 16008 | 100.0 | Indonesian <gnome@i15n.org> | 
+ | [gtkhtml3](/f25/package/gtkhtml3) | 522 | 522 | 100.0 | GNOME Indonesian Translation Team <gnome@i15n.org> | 
+ | [gtksourceview2](/f25/package/gtksourceview2) | 821 | 821 | 100.0 | Indonesia <kontak@id.gnome.org> | 
+ | [gtksourceview3](/f25/package/gtksourceview3) | 1147 | 1147 | 100.0 | GNOME Indonesian Translation Team <gnome@i15n.org> | 
+ | [gtkspell](/f25/package/gtkspell) | 15 | 15 | 100.0 | Indonesian <translation-team-id@lists.sourceforge.net> | 
+ | [gtkspell3](/f25/package/gtkspell3) | 15 | 15 | 100.0 | Indonesian <translation-team-id@lists.sourceforge.net> | 
+ | [gtranslator](/f25/package/gtranslator) | 1670 | 1670 | 100.0 | Indonesian <gnome@i15n.org> | 
+ | [gucharmap](/f25/package/gucharmap) | 1313 | 1313 | 100.0 | Indonesian <gnome@i15n.org> | 
+ | [gvfs](/f25/package/gvfs) | 2910 | 2910 | 100.0 | Indonesian <gnome-l10n-id@googlegroups.com> | 
+ | [hitori](/f25/package/hitori) | 174 | 174 | 100.0 | INDONESIA <gnome@i15n.org> | 
+ | [insight](/f25/package/insight) | 7765 | 7765 | 100.0 | Indonesian <translation-team-id@lists.sourceforge.net> | 
+ | [islamic-menus](/f25/package/islamic-menus) | 5 | 5 | 100.0 | Indonesian <id@li.org> | 
+ | [isomaster](/f25/package/isomaster) | 674 | 674 | 100.0 | Indonesian <LL@li.org> | 
+ | [json-glib](/f25/package/json-glib) | 303 | 303 | 100.0 | Indonesian <gnome@i15n.org> | 
+ | [kf5-kcmutils](/f25/package/kf5-kcmutils) | 563 | 563 | 100.0 | Indonesian <translation-team-id@lists.sourceforge.net> | 
+ | [kf5-kcompletion](/f25/package/kf5-kcompletion) | 20 | 20 | 100.0 | Indonesian <translation-team-id@lists.sourceforge.net> | 
+ | [kf5-kdesignerplugin](/f25/package/kf5-kdesignerplugin) | 54 | 54 | 100.0 | Indonesian <translation-team-id@lists.sourceforge.net> | 
+ | [kf5-kdnssd](/f25/package/kf5-kdnssd) | 3 | 3 | 100.0 | Indonesian <translation-team-id@lists.sourceforge.net> | 
+ | [kf5-ki18n](/f25/package/kf5-ki18n) | 124 | 124 | 100.0 | Indonesian <translation-team-id@lists.sourceforge.net> | 
+ | [kf5-kitemviews](/f25/package/kf5-kitemviews) | 7 | 7 | 100.0 | Indonesian <translation-team-id@lists.sourceforge.net> | 
+ | [kf5-kjobwidgets](/f25/package/kf5-kjobwidgets) | 141 | 141 | 100.0 | Indonesian <translation-team-id@lists.sourceforge.net> | 
+ | [kf5-kjsembed](/f25/package/kf5-kjsembed) | 248 | 248 | 100.0 | Indonesian <translation-team-id@lists.sourceforge.net> | 
+ | [kf5-knotifications](/f25/package/kf5-knotifications) | 18 | 18 | 100.0 | Indonesian <translation-team-id@lists.sourceforge.net> | 
+ | [kf5-kparts](/f25/package/kf5-kparts) | 104 | 104 | 100.0 | Indonesian <translation-team-id@lists.sourceforge.net> | 
+ | [kf5-kpty](/f25/package/kf5-kpty) | 15 | 15 | 100.0 | Indonesian <translation-team-id@lists.sourceforge.net> | 
+ | [kf5-kross](/f25/package/kf5-kross) | 100 | 100 | 100.0 | Indonesian <translation-team-id@lists.sourceforge.net> | 
+ | [kf5-kwindowsystem](/f25/package/kf5-kwindowsystem) | 2 | 2 | 100.0 | Indonesian <translation-team-id@lists.sourceforge.net> | 
+ | [khotkeys](/f25/package/khotkeys) | 436 | 436 | 100.0 | Indonesian <translation-team-id@lists.sourceforge.net> | 
+ | [kmenuedit](/f25/package/kmenuedit) | 277 | 277 | 100.0 | Indonesian <translation-team-id@lists.sourceforge.net> | 
+ | [ksnapshot](/f25/package/ksnapshot) | 521 | 521 | 100.0 | Indonesian <translation-team-id@lists.sourceforge.net> | 
+ | [lasem](/f25/package/lasem) | 29 | 29 | 100.0 | Indonesian <gnome@i15n.org> | 
+ | [latexila](/f25/package/latexila) | 2347 | 2347 | 100.0 | Indonesian <gnome@i15n.org> | 
+ | [leafpad](/f25/package/leafpad) | 125 | 125 | 100.0 | Indonesian <translation-team-id@lists.sourceforge.net> | 
+ | [libappstream-glib](/f25/package/libappstream-glib) | 444 | 444 | 100.0 | Indonesian (http://www.transifex.com/freedesktop/appstream-glib/language/id/) | 
+ | [libbonobo](/f25/package/libbonobo) | 543 | 543 | 100.0 | GNOME Indonesian Translation Team <gnome@i15n.org> | 
+ | [libbonoboui](/f25/package/libbonoboui) | 368 | 368 | 100.0 | Indonesian <id@li.org> | 
+ | [libcryptui](/f25/package/libcryptui) | 752 | 752 | 100.0 | GNOME Indonesian Translation Team <gnome@i15n.org> | 
+ | [libfm](/f25/package/libfm) | 1565 | 1565 | 100.0 | Indonesian Translation Team <id@li.org> | 
+ | [libgda](/f25/package/libgda) | 17221 | 17221 | 100.0 | GNOME Indonesian Translation Team <gnome@i15n.org> | 
+ | [libgdata](/f25/package/libgdata) | 684 | 684 | 100.0 | GNOME Indonesian Translation Team <gnome@i15n.org> | 
+ | [libgdl](/f25/package/libgdl) | 659 | 659 | 100.0 | GNOME Indonesian Translation Team <gnome@i15n.org> | 
+ | [libgnome](/f25/package/libgnome) | 1773 | 1773 | 100.0 | GNOME Indonesian Translation Team <gnome@i15n.org> | 
+ | [libgnome-games-support](/f25/package/libgnome-games-support) | 43 | 43 | 100.0 | Indonesian <gnome-l10n-id@googlegroups.com> | 
+ | [libgnome-keyring](/f25/package/libgnome-keyring) | 44 | 44 | 100.0 | GNOME Indonesian Translation Team <gnome@i15n.org> | 
+ | [libgnome-media-profiles](/f25/package/libgnome-media-profiles) | 460 | 460 | 100.0 | GNOME Indonesian Translation Team <gnome@i15n.org> | 
+ | [libgnomecanvas](/f25/package/libgnomecanvas) | 378 | 378 | 100.0 | GNOME Indonesian Translation Team <gnome@i15n.org> | 
+ | [libgnomekbd](/f25/package/libgnomekbd) | 187 | 187 | 100.0 | Indonesian <gnome-l10n-id@googlegroups.com> | 
+ | [libgnomeui](/f25/package/libgnomeui) | 1226 | 1226 | 100.0 | GNOME Indonesian Translation Team <gnome@i15n.org> | 
+ | [libgovirt](/f25/package/libgovirt) | 102 | 102 | 100.0 | Indonesian <gnome-l10n-id@googlegroups.com> | 
+ | [libgsasl](/f25/package/libgsasl) | 577 | 577 | 100.0 | Indonesian <translation-team-id@lists.sourceforge.net> | 
+ | [libgsf](/f25/package/libgsf) | 719 | 719 | 100.0 | Indonesian <gnome-l10n-id@googlegroups.com> | 
+ | [libgtop2](/f25/package/libgtop2) | 126 | 126 | 100.0 | GNOME Indonesian Translation Team <gnome@i15n.org> | 
+ | [libgweather](/f25/package/libgweather) | 6173 | 6173 | 100.0 | Indonesian <gnome@i15n.org> | 
+ | [libmatekbd](/f25/package/libmatekbd) | 251 | 251 | 100.0 | Indonesian (http://www.transifex.com/mate/MATE/language/id/) | 
+ | [libmatemixer](/f25/package/libmatemixer) | 242 | 242 | 100.0 | Indonesian (http://www.transifex.com/mate/MATE/language/id/) | 
+ | [libmateweather](/f25/package/libmateweather) | 6085 | 6085 | 100.0 | Indonesian (http://www.transifex.com/mate/MATE/language/id/) | 
+ | [libmx](/f25/package/libmx) | 40 | 40 | 100.0 | Indonesian <id@li.org> | 
+ | [libpeas](/f25/package/libpeas) | 112 | 112 | 100.0 | Indonesian <gnome@i15n.org> | 
+ | [libsecret](/f25/package/libsecret) | 59 | 59 | 100.0 | Indonesian <gnome-l10n-id@googlegroups.com> | 
+ | [libsoup](/f25/package/libsoup) | 155 | 155 | 100.0 | Indonesian <gnome@i15n.org> | 
+ | [libwnck](/f25/package/libwnck) | 1124 | 1124 | 100.0 | Indonesian <gnome-l10n-id@googlegroups.com> | 
+ | [libwnck3](/f25/package/libwnck3) | 1086 | 1086 | 100.0 | Indonesian <gnome@i15n.org> | 
+ | [libxfce4ui](/f25/package/libxfce4ui) | 851 | 851 | 100.0 | Indonesian (http://www.transifex.com/projects/p/libxfce4ui/language/id/) | 
+ | [libxfce4util](/f25/package/libxfce4util) | 424 | 424 | 100.0 | Indonesian <id@li.org> | 
+ | [lightsoff](/f25/package/lightsoff) | 93 | 93 | 100.0 | Indonesian <gnome@i15n.org> | 
+ | [lxappearance](/f25/package/lxappearance) | 234 | 234 | 100.0 | Indonesian Translation Team <id@li.org> | 
+ | [lxappearance-obconf](/f25/package/lxappearance-obconf) | 196 | 196 | 100.0 | Indonesian <id@li.org> | 
+ | [lxdm](/f25/package/lxdm) | 47 | 47 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [lxinput](/f25/package/lxinput) | 83 | 83 | 100.0 | LANGUAGE <id@li.org> | 
+ | [lxlauncher](/f25/package/lxlauncher) | 58 | 58 | 100.0 | Indonesian <translation-team-id@lists.sourceforge.net> | 
+ | [lxmenu-data](/f25/package/lxmenu-data) | 97 | 97 | 100.0 | Indonesian <sukarelawan@gnome.linux.or.id> | 
+ | [lxmusic](/f25/package/lxmusic) | 203 | 203 | 100.0 | Indonesian <translation-team-id@lists.sourceforge.net> | 
+ | [lxrandr](/f25/package/lxrandr) | 167 | 167 | 100.0 | Indonesian <translation-team-id@lists.sourceforge.net> | 
+ | [lxshortcut](/f25/package/lxshortcut) | 43 | 43 | 100.0 | Indonesian <translation-team-id@lists.sourceforge.net> | 
+ | [lynx](/f25/package/lynx) | 8178 | 8178 | 100.0 | Indonesian <translation-team-id@lists.sourceforge.net> | 
+ | [marco](/f25/package/marco) | 4089 | 4089 | 100.0 | Indonesian (http://www.transifex.com/mate/MATE/language/id/) | 
+ | [mate-applets](/f25/package/mate-applets) | 2618 | 2618 | 100.0 | Indonesian (http://www.transifex.com/mate/MATE/language/id/) | 
+ | [mate-backgrounds](/f25/package/mate-backgrounds) | 30 | 30 | 100.0 | Indonesian (http://www.transifex.com/mate/MATE/language/id/) | 
+ | [mate-calc](/f25/package/mate-calc) | 1372 | 1372 | 100.0 | Indonesian (http://www.transifex.com/mate/MATE/language/id/) | 
+ | [mate-control-center](/f25/package/mate-control-center) | 2957 | 2957 | 100.0 | MATE Indonesian Translation Team <mate@i15n.org> | 
+ | [mate-desktop](/f25/package/mate-desktop) | 2346 | 2346 | 100.0 | Indonesian (http://www.transifex.com/mate/MATE/language/id/) | 
+ | [mate-icon-theme](/f25/package/mate-icon-theme) | 4 | 4 | 100.0 | Indonesian (http://www.transifex.com/mate/MATE/language/id/) | 
+ | [mate-media](/f25/package/mate-media) | 226 | 226 | 100.0 | Indonesian (http://www.transifex.com/mate/MATE/language/id/) | 
+ | [mate-menus](/f25/package/mate-menus) | 97 | 97 | 100.0 | Indonesian (http://www.transifex.com/mate/MATE/language/id/) | 
+ | [mate-notification-daemon](/f25/package/mate-notification-daemon) | 139 | 139 | 100.0 | Indonesian (http://www.transifex.com/mate/MATE/language/id/) | 
+ | [mate-panel](/f25/package/mate-panel) | 4353 | 4353 | 100.0 | Indonesian (http://www.transifex.com/mate/MATE/language/id/) | 
+ | [mate-polkit](/f25/package/mate-polkit) | 313 | 313 | 100.0 | Indonesian (http://www.transifex.com/mate/MATE/language/id/) | 
+ | [mate-screensaver](/f25/package/mate-screensaver) | 983 | 983 | 100.0 | Indonesian (http://www.transifex.com/mate/MATE/language/id/) | 
+ | [mate-sensors-applet](/f25/package/mate-sensors-applet) | 304 | 304 | 100.0 | Indonesian (http://www.transifex.com/mate/MATE/language/id/) | 
+ | [mate-session-manager](/f25/package/mate-session-manager) | 681 | 681 | 100.0 | Indonesian (http://www.transifex.com/mate/MATE/language/id/) | 
+ | [mate-settings-daemon](/f25/package/mate-settings-daemon) | 1764 | 1764 | 100.0 | Indonesian (http://www.transifex.com/mate/MATE/language/id/) | 
+ | [mate-system-monitor](/f25/package/mate-system-monitor) | 1307 | 1307 | 100.0 | Indonesian (http://www.transifex.com/mate/MATE/language/id/) | 
+ | [mate-themes](/f25/package/mate-themes) | 58 | 58 | 100.0 | Indonesian (http://www.transifex.com/mate/MATE/language/id/) | 
+ | [mate-utils](/f25/package/mate-utils) | 3677 | 3677 | 100.0 | Indonesian (http://www.transifex.com/mate/MATE/language/id/) | 
+ | [meld](/f25/package/meld) | 2656 | 2656 | 100.0 | Indonesian <gnome@i15n.org> | 
+ | [metacity](/f25/package/metacity) | 2042 | 2042 | 100.0 | GNOME Indonesian Translation Team <gnome@i15n.org> | 
+ | [mingw-GConf2](/f25/package/mingw-GConf2) | 4088 | 4088 | 100.0 | Indonesian <gnome-l10n-id@googlegroups.com> | 
+ | [mingw-atk](/f25/package/mingw-atk) | 440 | 440 | 100.0 | GNOME Indonesian Translation Team <gnome@i15n.org> | 
+ | [mingw-binutils](/f25/package/mingw-binutils) | 42677 | 42677 | 100.0 | Indonesian <translation-team-id@lists.sourceforge.net> | 
+ | [mingw-gdb](/f25/package/mingw-gdb) | 7765 | 7765 | 100.0 | Indonesian <translation-team-id@lists.sourceforge.net> | 
+ | [mingw-gdk-pixbuf](/f25/package/mingw-gdk-pixbuf) | 1409 | 1409 | 100.0 | Indonesian <gnome-l10n-id@googlegroups.com> | 
+ | [mingw-glib-networking](/f25/package/mingw-glib-networking) | 161 | 161 | 100.0 | Indonesian <gnome@i15n.org> | 
+ | [mingw-glib2](/f25/package/mingw-glib2) | 5738 | 5738 | 100.0 | Indonesian <gnome@i15n.org> | 
+ | [mingw-gstreamer-plugins-bad-free](/f25/package/mingw-gstreamer-plugins-bad-free) | 96 | 96 | 100.0 | Indonesian <translation-team-id@lists.sourceforge.net> | 
+ | [mingw-gstreamer-plugins-good](/f25/package/mingw-gstreamer-plugins-good) | 814 | 814 | 100.0 | Indonesian <translation-team-id@lists.sourceforge.net> | 
+ | [mingw-gstreamer1](/f25/package/mingw-gstreamer1) | 2032 | 2032 | 100.0 | Indonesian <translation-team-id@lists.sourceforge.net> | 
+ | [mingw-gstreamer1-plugins-bad-free](/f25/package/mingw-gstreamer1-plugins-bad-free) | 252 | 252 | 100.0 | Indonesian <translation-team-id@lists.sourceforge.net> | 
+ | [mingw-gstreamer1-plugins-base](/f25/package/mingw-gstreamer1-plugins-base) | 949 | 949 | 100.0 | Indonesian <translation-team-id@lists.sourceforge.net> | 
+ | [mingw-gstreamer1-plugins-good](/f25/package/mingw-gstreamer1-plugins-good) | 761 | 761 | 100.0 | Indonesian <translation-team-id@lists.sourceforge.net> | 
+ | [mingw-gtk-vnc](/f25/package/mingw-gtk-vnc) | 8 | 8 | 100.0 | Indonesian <gnome@i15n.org> | 
+ | [mingw-gtk2](/f25/package/mingw-gtk2) | 12381 | 12381 | 100.0 | GNOME Indonesian Translation Team <gnome@i15n.org> | 
+ | [mingw-gtk3](/f25/package/mingw-gtk3) | 16008 | 16008 | 100.0 | Indonesian <gnome@i15n.org> | 
+ | [mingw-gtkhtml3](/f25/package/mingw-gtkhtml3) | 522 | 522 | 100.0 | GNOME Indonesian Translation Team <gnome@i15n.org> | 
+ | [mingw-gtkspell3](/f25/package/mingw-gtkspell3) | 15 | 15 | 100.0 | Indonesian <translation-team-id@lists.sourceforge.net> | 
+ | [mingw-libgovirt](/f25/package/mingw-libgovirt) | 102 | 102 | 100.0 | Indonesian <gnome-l10n-id@googlegroups.com> | 
+ | [mingw-libgsf](/f25/package/mingw-libgsf) | 720 | 720 | 100.0 | Indonesian <gnome-l10n-id@googlegroups.com> | 
+ | [mingw-libsoup](/f25/package/mingw-libsoup) | 155 | 155 | 100.0 | Indonesian <gnome@i15n.org> | 
+ | [mingw-p11-kit](/f25/package/mingw-p11-kit) | 476 | 476 | 100.0 | Indonesian (http://www.transifex.com/freedesktop/p11-kit/language/id/) | 
+ | [mingw-postgresql](/f25/package/mingw-postgresql) | 29923 | 29923 | 100.0 | Equnix Business Solution, PT | 
+ | [mousepad](/f25/package/mousepad) | 909 | 909 | 100.0 | Indonesian <translation-team-id@lists.sourceforge.net> | 
+ | [mousetweaks](/f25/package/mousetweaks) | 114 | 114 | 100.0 | Indonesian <gnome-l10n-id@googlegroups.com> | 
+ | [mozo](/f25/package/mozo) | 42 | 42 | 100.0 | Indonesian (http://www.transifex.com/mate/MATE/language/id/) | 
+ | [msitools](/f25/package/msitools) | 71 | 71 | 100.0 | Indonesian <gnome@i15n.org> | 
+ | [msp430-binutils](/f25/package/msp430-binutils) | 42677 | 42677 | 100.0 | Indonesian <translation-team-id@lists.sourceforge.net> | 
+ | [muffin](/f25/package/muffin) | 2511 | 2511 | 100.0 | Indonesian <gnome@i15n.org> | 
+ | [multimedia-menus](/f25/package/multimedia-menus) | 56 | 56 | 100.0 | Fedora Indonesia <trans-id@lists.fedoraproject.org> | 
+ | [mutter](/f25/package/mutter) | 571 | 571 | 100.0 | Indonesian <gnome-l10n-id@googlegroups.com> | 
+ | [nacl-arm-binutils](/f25/package/nacl-arm-binutils) | 42677 | 42677 | 100.0 | Indonesian <translation-team-id@lists.sourceforge.net> | 
+ | [nacl-binutils](/f25/package/nacl-binutils) | 42677 | 42677 | 100.0 | Indonesian <translation-team-id@lists.sourceforge.net> | 
+ | [nacl-gcc](/f25/package/nacl-gcc) | 53910 | 53910 | 100.0 | Indonesian <translation-team-id@lists.sourceforge.net> | 
+ | [nautilus](/f25/package/nautilus) | 5519 | 5519 | 100.0 | Indonesian | 
+ | [nautilus-sendto](/f25/package/nautilus-sendto) | 56 | 56 | 100.0 | Indonesian <gnome-l10n-id@googlegroups.com> | 
+ | [nemiver](/f25/package/nemiver) | 1341 | 1341 | 100.0 | Indonesian <gnome-l10n-id@googlegroups.com> | 
+ | [network-manager-applet](/f25/package/network-manager-applet) | 3425 | 3425 | 100.0 | Indonesian <gnome@i15n.org> | 
+ | [newt](/f25/package/newt) | 4 | 4 | 100.0 | Debian Indonesia <debid@yahoogroups.com> | 
+ | [notification-daemon](/f25/package/notification-daemon) | 33 | 33 | 100.0 | GNOME Indonesian Translation Team <gnome@i15n.org> | 
+ | [olpc-switch-desktop](/f25/package/olpc-switch-desktop) | 158 | 158 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [orage](/f25/package/orage) | 2915 | 2915 | 100.0 | Indonesian (http://www.transifex.com/projects/p/xfce/language/id/) | 
+ | [p11-kit](/f25/package/p11-kit) | 476 | 476 | 100.0 | Indonesian (http://www.transifex.com/freedesktop/p11-kit/language/id/) | 
+ | [pantheon-greeter](/f25/package/pantheon-greeter) | 29 | 29 | 100.0 | Indonesian <id@li.org> | 
+ | [pantheon-photos](/f25/package/pantheon-photos) | 3977 | 3977 | 100.0 | Indonesian <https://l10n.elementary.io/projects/photos/photos/id/> | 
+ | [pantheon-terminal](/f25/package/pantheon-terminal) | 188 | 188 | 100.0 | Indonesian <https://l10n.elementary.io/projects/terminal/terminal/id/> | 
+ | [parole](/f25/package/parole) | 666 | 666 | 100.0 | Indonesian (http://www.transifex.com/projects/p/xfce/language/id/) | 
+ | [passwd](/f25/package/passwd) | 315 | 315 | 100.0 | Indonesian <trans-id@lists.fedoraproject.org> | 
+ | [pcmanfm](/f25/package/pcmanfm) | 1210 | 1210 | 100.0 | Indonesian Translation Team <id@li.org> | 
+ | [pessulus](/f25/package/pessulus) | 130 | 130 | 100.0 | GNOME Indonesian Translation Team <gnome@i15n.org> | 
+ | [phodav](/f25/package/phodav) | 35 | 35 | 100.0 | Indonesian <gnome-l10n-id@googlegroups.com> | 
+ | [php-horde-imp](/f25/package/php-horde-imp) | 2320 | 2320 | 100.0 | UPT TI UNEJ <uptti@unej.ac.id> | 
+ | [php-horde-nag](/f25/package/php-horde-nag) | 444 | 444 | 100.0 | UPT TI UNEJ <uptti@unej.ac.id> | 
+ | [php-horde-passwd](/f25/package/php-horde-passwd) | 269 | 269 | 100.0 | UPT TI UNEJ <uptti@unej.ac.id> | 
+ | [pluma](/f25/package/pluma) | 5038 | 5038 | 100.0 | Indonesian (http://www.transifex.com/mate/MATE/language/id/) | 
+ | [pmount](/f25/package/pmount) | 723 | 723 | 100.0 | Indonesian <id@li.org> | 
+ | [polari](/f25/package/polari) | 633 | 633 | 100.0 | Indonesian <gnome-l10n-id@googlegroups.com> | 
+ | [polkit-gnome](/f25/package/polkit-gnome) | 94 | 94 | 100.0 | Indonesian <gnome@i15n.org> | 
+ | [polkit-kde](/f25/package/polkit-kde) | 94 | 94 | 100.0 | Indonesian <translation-team-id@lists.sourceforge.net> | 
+ | [postgresql](/f25/package/postgresql) | 29923 | 29923 | 100.0 | Equnix Business Solution, PT | 
+ | [pulseaudio](/f25/package/pulseaudio) | 2947 | 2947 | 100.0 | Indonesia <id@li.org> | 
+ | [pybliographer](/f25/package/pybliographer) | 970 | 970 | 100.0 | Indonesian <gnome-l10n-id@googlegroups.com> | 
+ | [python-caja](/f25/package/python-caja) | 6 | 6 | 100.0 | Indonesian (http://www.transifex.com/mate/MATE/language/id/) | 
+ | [python-lettuce](/f25/package/python-lettuce) | 7691 | 7691 | 100.0 | Indonesian <id@li.org> | 
+ | [qof](/f25/package/qof) | 554 | 554 | 100.0 | Indonesian <translation-team-id@lists.sourceforge.net> | 
+ | [qtwebkit](/f25/package/qtwebkit) | 1821 | 1821 | 100.0 | GNOME Indonesian Translation Team <gnome@i15n.org> | 
+ | [quadrapassel](/f25/package/quadrapassel) | 428 | 428 | 100.0 | Indonesian <gnome-l10n-id@googlegroups.com> | 
+ | [realmd](/f25/package/realmd) | 778 | 778 | 100.0 | Indonesian (http://www.transifex.com/projects/p/freedesktop/language/id/) | 
+ | [redhat-menus](/f25/package/redhat-menus) | 253 | 253 | 100.0 | Indonesian <fedora-trans-id@redhat.com> | 
+ | [rhythmbox](/f25/package/rhythmbox) | 3659 | 3659 | 100.0 | Indonesian <gnome@i15n.org> | 
+ | [ristretto](/f25/package/ristretto) | 541 | 541 | 100.0 | Indonesian <id@li.org> | 
+ | [rygel](/f25/package/rygel) | 1616 | 1616 | 100.0 | GNOME Indonesian Translation Team <gnome@i15n.org> | 
+ | [sdcc](/f25/package/sdcc) | 6373 | 6373 | 100.0 | Indonesian <translation-team-id@lists.sourceforge.net> | 
+ | [seahorse](/f25/package/seahorse) | 2493 | 2493 | 100.0 | Indonesian <gnome-l10n-id@googlegroups.com> | 
+ | [seahorse-nautilus](/f25/package/seahorse-nautilus) | 487 | 487 | 100.0 | GNOME Indonesian Translation Team <gnome@i15n.org> | 
+ | [setuptool](/f25/package/setuptool) | 55 | 55 | 100.0 | Indonesian <fedora-trans-id@redhat.com> | 
+ | [slingshot-launcher](/f25/package/slingshot-launcher) | 217 | 217 | 100.0 | Indonesian <https://weblate.elementary.io/projects/wingpanel/applications-menu/id/> | 
+ | [snapper](/f25/package/snapper) | 743 | 743 | 100.0 | Indonesian <i18n@suse.de> | 
+ | [sound-juicer](/f25/package/sound-juicer) | 1300 | 1300 | 100.0 | GNOME Indonesian Translation Team <gnome@i15n.org> | 
+ | [sugar](/f25/package/sugar) | 1733 | 1733 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-browse](/f25/package/sugar-browse) | 189 | 189 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-calculator](/f25/package/sugar-calculator) | 871 | 871 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-imageviewer](/f25/package/sugar-imageviewer) | 58 | 58 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-jukebox](/f25/package/sugar-jukebox) | 69 | 69 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-log](/f25/package/sugar-log) | 98 | 98 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-paint](/f25/package/sugar-paint) | 90 | 90 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-physics](/f25/package/sugar-physics) | 48 | 48 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-pippy](/f25/package/sugar-pippy) | 109 | 109 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-portfolio](/f25/package/sugar-portfolio) | 60 | 60 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-read](/f25/package/sugar-read) | 137 | 137 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-record](/f25/package/sugar-record) | 62 | 62 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-speak](/f25/package/sugar-speak) | 227 | 227 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-toolkit](/f25/package/sugar-toolkit) | 73 | 73 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-toolkit-gtk3](/f25/package/sugar-toolkit-gtk3) | 76 | 76 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-visualmatch](/f25/package/sugar-visualmatch) | 158 | 158 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-words](/f25/package/sugar-words) | 3 | 3 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-xoeditor](/f25/package/sugar-xoeditor) | 29 | 29 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sushi](/f25/package/sushi) | 24 | 24 | 100.0 | Indonesian <gnome@i15n.org> | 
+ | [swell-foop](/f25/package/swell-foop) | 261 | 261 | 100.0 | Indonesian <gnome@i15n.org> | 
+ | [switchboard](/f25/package/switchboard) | 41 | 41 | 100.0 | Indonesian <id@li.org> | 
+ | [switchboard-plug-about](/f25/package/switchboard-plug-about) | 72 | 72 | 100.0 | Indonesian <id@li.org> | 
+ | [switchboard-plug-bluetooth](/f25/package/switchboard-plug-bluetooth) | 39 | 39 | 100.0 | Indonesian <id@li.org> | 
+ | [switchboard-plug-notifications](/f25/package/switchboard-plug-notifications) | 131 | 131 | 100.0 |  | 
+ | [switchdesk](/f25/package/switchdesk) | 139 | 139 | 100.0 | Fedora Trans ID <fedora-trans-id@redhat.com> | 
+ | [syncevolution](/f25/package/syncevolution) | 566 | 566 | 100.0 |  | 
+ | [sysstat](/f25/package/sysstat) | 610 | 610 | 100.0 | Indonesian <translation-team-id@lists.sourceforge.net> | 
+ | [system-config-httpd](/f25/package/system-config-httpd) | 877 | 877 | 100.0 | Bahasa Indonesia <fedora-trans-id@redhat.com> | 
+ | [system-config-keyboard](/f25/package/system-config-keyboard) | 187 | 187 | 100.0 | Fedora Indonesia <trans-id@lists.fedoraproject.org> | 
+ | [system-config-kickstart](/f25/package/system-config-kickstart) | 1144 | 1144 | 100.0 | Indonesian (http://www.transifex.com/projects/p/system-config-kickstart/language/id/) | 
+ | [system-config-language](/f25/package/system-config-language) | 197 | 197 | 100.0 | Fedora Indonesia <trans-id@lists.fedoraproject.org> | 
+ | [system-switch-java](/f25/package/system-switch-java) | 81 | 81 | 100.0 | Fedora Trans ID <fedora-trans-id@redhat.com> | 
+ | [system-switch-mail](/f25/package/system-switch-mail) | 158 | 158 | 100.0 | Fedora Trans ID <fedora-trans-id@redhat.com> | 
+ | [systemd](/f25/package/systemd) | 985 | 985 | 100.0 | Indonesian <gnome-l10n-id@googlegroups.com> | 
+ | [tali](/f25/package/tali) | 418 | 418 | 100.0 | Indonesian <gnome-l10n-id@googlegroups.com> | 
+ | [thunar-archive-plugin](/f25/package/thunar-archive-plugin) | 86 | 86 | 100.0 | Indonesian <id@li.org> | 
+ | [thunar-media-tags-plugin](/f25/package/thunar-media-tags-plugin) | 156 | 156 | 100.0 | Indonesian <id@li.org> | 
+ | [thunar-vcs-plugin](/f25/package/thunar-vcs-plugin) | 571 | 571 | 100.0 | Indonesian (http://www.transifex.com/projects/p/xfce/language/id/) | 
+ | [thunar-vfs](/f25/package/thunar-vfs) | 387 | 387 | 100.0 | Indonesian <translation-team-id@lists.sourceforge.net> | 
+ | [thunar-volman](/f25/package/thunar-volman) | 487 | 487 | 100.0 | Indonesian (http://www.transifex.com/projects/p/xfce/language/id/) | 
+ | [tomboy](/f25/package/tomboy) | 3436 | 3436 | 100.0 | GNOME Indonesian Translation Team <gnome@i15n.org> | 
+ | [totem](/f25/package/totem) | 6050 | 6050 | 100.0 | Indonesian <gnome@i15n.org> | 
+ | [totem-pl-parser](/f25/package/totem-pl-parser) | 29 | 29 | 100.0 | Indonesian <gnome-l10n-id@googlegroups.com> | 
+ | [tracker](/f25/package/tracker) | 3747 | 3747 | 100.0 | GNOME Indonesian Translation Team <gnome@i15n.org> | 
+ | [transmageddon](/f25/package/transmageddon) | 327 | 327 | 100.0 | Indonesian <gnome@i15n.org> | 
+ | [tumbler](/f25/package/tumbler) | 278 | 278 | 100.0 | Indonesian (http://www.transifex.com/projects/p/xfce/language/id/) | 
+ | [tuxpaint](/f25/package/tuxpaint) | 1591 | 1591 | 100.0 | Indonesia <translation-team-id@lists.sourceforge.net> | 
+ | [unixcw](/f25/package/unixcw) | 85 | 85 | 100.0 | Debian Indonesia Translators <debian-l10n-indonesian@lists.debian.org> | 
+ | [vinagre](/f25/package/vinagre) | 2540 | 2540 | 100.0 | Indonesian <gnome@i15n.org> | 
+ | [vino](/f25/package/vino) | 1228 | 1228 | 100.0 | Indonesian <gnome@i15n.org> | 
+ | [vrms-rpm](/f25/package/vrms-rpm) | 15 | 15 | 100.0 |  | 
+ | [vte](/f25/package/vte) | 80 | 80 | 100.0 | GNOME Indonesian Translation Team <gnome-l10n-id@googlegroups.com> | 
+ | [vte291](/f25/package/vte291) | 31 | 31 | 100.0 | GNOME Indonesian Translation Team <gnome-l10n-id@googlegroups.com> | 
+ | [vte3](/f25/package/vte3) | 80 | 80 | 100.0 | Indonesian <gnome-l10n-id@googlegroups.com>
 com> | 
- | [wallpapoz]({{< ref "/f25/package/wallpapoz.md" >}}) | 400 | 400 | 100.0 | Indonesian <translation-team-id@lists.sourceforge.net> | 
- | [whaawmp]({{< ref "/f25/package/whaawmp.md" >}}) | 799 | 799 | 100.0 | Indonesian <id@li.org> | 
- | [wingpanel]({{< ref "/f25/package/wingpanel.md" >}}) | 8 | 8 | 100.0 |  | 
- | [wingpanel-indicator-bluetooth]({{< ref "/f25/package/wingpanel-indicator-bluetooth.md" >}}) | 17 | 17 | 100.0 | Indonesian <https://l10n.elementary.io/projects/wingpanel/wingpanel-indicator-bluetooth/id/> | 
- | [wingpanel-indicator-network]({{< ref "/f25/package/wingpanel-indicator-network.md" >}}) | 101 | 101 | 100.0 | Indonesian <https://weblate.elementary.io/projects/wingpanel/wingpanel-indicator-network/id/> | 
- | [wingpanel-indicator-notifications]({{< ref "/f25/package/wingpanel-indicator-notifications.md" >}}) | 29 | 29 | 100.0 |  | 
- | [wingpanel-indicator-session]({{< ref "/f25/package/wingpanel-indicator-session.md" >}}) | 54 | 54 | 100.0 |  | 
- | [wireshark]({{< ref "/f25/package/wireshark.md" >}}) | 79 | 79 | 100.0 | Indonesian (https://www.transifex.com/wireshark/teams/36457/id/) | 
- | [xarchiver]({{< ref "/f25/package/xarchiver.md" >}}) | 1131 | 1131 | 100.0 | Indonesian <id@li.org> | 
- | [xdg-user-dirs]({{< ref "/f25/package/xdg-user-dirs.md" >}}) | 28 | 28 | 100.0 | Indonesian <translation-team-id@lists.sourceforge.net> | 
- | [xdg-user-dirs-gtk]({{< ref "/f25/package/xdg-user-dirs-gtk.md" >}}) | 81 | 81 | 100.0 | INDONESIAN <userindesign@gmail.com> | 
- | [xdialog]({{< ref "/f25/package/xdialog.md" >}}) | 21 | 21 | 100.0 | Indonesian | 
- | [xfbib]({{< ref "/f25/package/xfbib.md" >}}) | 342 | 342 | 100.0 | Indonesian <id@li.org> | 
- | [xfburn]({{< ref "/f25/package/xfburn.md" >}}) | 1329 | 1329 | 100.0 | Indonesian (http://www.transifex.com/projects/p/xfce/language/id/) | 
- | [xfce4-appfinder]({{< ref "/f25/package/xfce4-appfinder.md" >}}) | 322 | 322 | 100.0 | Indonesian (http://www.transifex.com/projects/p/xfce4-appfinder/language/id/) | 
- | [xfce4-battery-plugin]({{< ref "/f25/package/xfce4-battery-plugin.md" >}}) | 149 | 149 | 100.0 | Indonesian <id@li.org> | 
- | [xfce4-clipman-plugin]({{< ref "/f25/package/xfce4-clipman-plugin.md" >}}) | 478 | 478 | 100.0 | Indonesian (http://www.transifex.com/xfce/xfce-panel-plugins/language/id/) | 
- | [xfce4-cpufreq-plugin]({{< ref "/f25/package/xfce4-cpufreq-plugin.md" >}}) | 140 | 140 | 100.0 | Indonesian (http://www.transifex.com/projects/p/xfce/language/id/) | 
- | [xfce4-cpugraph-plugin]({{< ref "/f25/package/xfce4-cpugraph-plugin.md" >}}) | 76 | 76 | 100.0 | Indonesian <translation-team-id@lists.sourceforge.net> | 
- | [xfce4-datetime-plugin]({{< ref "/f25/package/xfce4-datetime-plugin.md" >}}) | 52 | 52 | 100.0 | Indonesian <id@li.org> | 
- | [xfce4-dict]({{< ref "/f25/package/xfce4-dict.md" >}}) | 518 | 518 | 100.0 | Indonesian <id@li.org> | 
- | [xfce4-diskperf-plugin]({{< ref "/f25/package/xfce4-diskperf-plugin.md" >}}) | 183 | 183 | 100.0 | Indonesian <id@li.org> | 
- | [xfce4-embed-plugin]({{< ref "/f25/package/xfce4-embed-plugin.md" >}}) | 219 | 219 | 100.0 | Indonesian <translation-team-id@lists.sourceforge.net> | 
- | [xfce4-eyes-plugin]({{< ref "/f25/package/xfce4-eyes-plugin.md" >}}) | 15 | 15 | 100.0 | Indonesian <id@li.org> | 
- | [xfce4-fsguard-plugin]({{< ref "/f25/package/xfce4-fsguard-plugin.md" >}}) | 71 | 71 | 100.0 | Indonesian <id@li.org> | 
- | [xfce4-genmon-plugin]({{< ref "/f25/package/xfce4-genmon-plugin.md" >}}) | 85 | 85 | 100.0 | Indonesian <id@li.org> | 
- | [xfce4-mailwatch-plugin]({{< ref "/f25/package/xfce4-mailwatch-plugin.md" >}}) | 657 | 657 | 100.0 | Indonesian <id@li.org> | 
- | [xfce4-mpc-plugin]({{< ref "/f25/package/xfce4-mpc-plugin.md" >}}) | 76 | 76 | 100.0 | Indonesian (http://www.transifex.com/projects/p/xfce/language/id/) | 
- | [xfce4-notes-plugin]({{< ref "/f25/package/xfce4-notes-plugin.md" >}}) | 163 | 163 | 100.0 | Indonesian <translation-team-id@lists.sourceforge.net> | 
- | [xfce4-notifyd]({{< ref "/f25/package/xfce4-notifyd.md" >}}) | 98 | 98 | 100.0 | Indonesian (http://www.transifex.com/projects/p/xfce/language/id/) | 
- | [xfce4-panel]({{< ref "/f25/package/xfce4-panel.md" >}}) | 1732 | 1732 | 100.0 | Indonesian (http://www.transifex.com/projects/p/xfce4-panel/language/id/) | 
- | [xfce4-places-plugin]({{< ref "/f25/package/xfce4-places-plugin.md" >}}) | 160 | 160 | 100.0 | Indonesian (http://www.transifex.com/projects/p/xfce/language/id/) | 
- | [xfce4-screenshooter]({{< ref "/f25/package/xfce4-screenshooter.md" >}}) | 456 | 456 | 100.0 | Indonesian (http://www.transifex.com/projects/p/xfce-apps/language/id/) | 
- | [xfce4-sensors-plugin]({{< ref "/f25/package/xfce4-sensors-plugin.md" >}}) | 358 | 358 | 100.0 | Indonesian (http://www.transifex.com/projects/p/xfce-panel-plugins/language/id/) | 
- | [xfce4-session]({{< ref "/f25/package/xfce4-session.md" >}}) | 1066 | 1066 | 100.0 | Indonesian (http://www.transifex.com/projects/p/xfce/language/id/) | 
- | [xfce4-settings]({{< ref "/f25/package/xfce4-settings.md" >}}) | 1617 | 1617 | 100.0 | Indonesian (http://www.transifex.com/projects/p/xfce4-settings/language/id/) | 
- | [xfce4-smartbookmark-plugin]({{< ref "/f25/package/xfce4-smartbookmark-plugin.md" >}}) | 22 | 22 | 100.0 | Indonesian <id@li.org> | 
- | [xfce4-systemload-plugin]({{< ref "/f25/package/xfce4-systemload-plugin.md" >}}) | 70 | 70 | 100.0 | Indonesian (http://www.transifex.com/projects/p/xfce/language/id/) | 
- | [xfce4-taskmanager]({{< ref "/f25/package/xfce4-taskmanager.md" >}}) | 214 | 214 | 100.0 | Indonesian <id@li.org> | 
- | [xfce4-time-out-plugin]({{< ref "/f25/package/xfce4-time-out-plugin.md" >}}) | 89 | 89 | 100.0 | Indonesian <id@li.org> | 
- | [xfce4-verve-plugin]({{< ref "/f25/package/xfce4-verve-plugin.md" >}}) | 47 | 47 | 100.0 | Indonesian <id@li.org> | 
- | [xfce4-wavelan-plugin]({{< ref "/f25/package/xfce4-wavelan-plugin.md" >}}) | 51 | 51 | 100.0 | Indonesian <id@li.org> | 
- | [xfce4-xkb-plugin]({{< ref "/f25/package/xfce4-xkb-plugin.md" >}}) | 43 | 43 | 100.0 | Indonesian (http://www.transifex.com/projects/p/xfce/language/id/) | 
- | [xfconf]({{< ref "/f25/package/xfconf.md" >}}) | 451 | 451 | 100.0 | Indonesian (http://www.transifex.com/projects/p/xfce/language/id/) | 
- | [xfdesktop]({{< ref "/f25/package/xfdesktop.md" >}}) | 972 | 972 | 100.0 | Indonesian (http://www.transifex.com/projects/p/xfce/language/id/) | 
- | [xfwm4]({{< ref "/f25/package/xfwm4.md" >}}) | 666 | 666 | 100.0 | Indonesian (http://www.transifex.com/projects/p/xfwm4/language/id/) | 
- | [xkeyboard-config]({{< ref "/f25/package/xkeyboard-config.md" >}}) | 3513 | 3513 | 100.0 | Indonesian <translation-team-id@lists.sourceforge.net> | 
- | [xplayer-plparser]({{< ref "/f25/package/xplayer-plparser.md" >}}) | 29 | 29 | 100.0 | Indonesian | 
- | [xviewer-plugins]({{< ref "/f25/package/xviewer-plugins.md" >}}) | 413 | 413 | 100.0 | GNOME Indonesian Translation Team <gnome@i15n.org> | 
- | [yelp]({{< ref "/f25/package/yelp.md" >}}) | 448 | 448 | 100.0 | Indonesian <gnome-l10n-id@googlegroups.com> | 
- | [yelp-xsl]({{< ref "/f25/package/yelp-xsl.md" >}}) | 81 | 81 | 100.0 | Indonesian <gnome@i15n.org> | 
- | [zenity]({{< ref "/f25/package/zenity.md" >}}) | 891 | 891 | 100.0 | Indonesian <gnome@i15n.org> | 
- | [poedit]({{< ref "/f25/package/poedit.md" >}}) | 2491 | 2492 | 100.0 | Indonesian | 
- | [hamster-time-tracker]({{< ref "/f25/package/hamster-time-tracker.md" >}}) | 696 | 697 | 99.9 | GNOME Indonesian Translation Team <gnome@i15n.org> | 
- | [mate-power-manager]({{< ref "/f25/package/mate-power-manager.md" >}}) | 2720 | 2724 | 99.9 | Indonesian (http://www.transifex.com/mate/MATE/language/id/) | 
- | [gstreamer]({{< ref "/f25/package/gstreamer.md" >}}) | 1914 | 1917 | 99.8 | Indonesian <translation-team-id@lists.sourceforge.net> | 
- | [mingw-gstreamer]({{< ref "/f25/package/mingw-gstreamer.md" >}}) | 1914 | 1917 | 99.8 | Indonesian <translation-team-id@lists.sourceforge.net> | 
- | [kf5-khtml]({{< ref "/f25/package/kf5-khtml.md" >}}) | 1718 | 1721 | 99.8 | Indonesian <translation-team-id@lists.sourceforge.net> | 
- | [scratch]({{< ref "/f25/package/scratch.md" >}}) | 1467 | 1470 | 99.8 | LANGUAGE <LL@li.org> | 
- | [xviewer]({{< ref "/f25/package/xviewer.md" >}}) | 1673 | 1677 | 99.8 | Indonesian <gnome-l10n-id@googlegroups.com> | 
- | [po4a]({{< ref "/f25/package/po4a.md" >}}) | 1941 | 1946 | 99.7 | Indonesian <debian-l10n-indonesian@lists.debian.org> | 
- | [pacman]({{< ref "/f25/package/pacman.md" >}}) | 5382 | 5398 | 99.7 | Indonesian (http://www.transifex.com/toofishes/archlinux-pacman/language/id/) | 
- | [compat-wxGTK3-gtk2]({{< ref "/f25/package/compat-wxGTK3-gtk2.md" >}}) | 7657 | 7682 | 99.7 | ID <doplank@gmx.com> | 
- | [clutter]({{< ref "/f25/package/clutter.md" >}}) | 3047 | 3057 | 99.7 | Indonesian <gnome-l10n-id@googlegroups.com> | 
- | [avahi]({{< ref "/f25/package/avahi.md" >}}) | 865 | 868 | 99.7 | Indonesian (http://www.transifex.com/lennart/avahi/language/id/) | 
- | [amarok]({{< ref "/f25/package/amarok.md" >}}) | 15815 | 15872 | 99.6 | Indonesian <translation-team-id@lists.sourceforge.net> | 
- | [pix]({{< ref "/f25/package/pix.md" >}}) | 3704 | 3718 | 99.6 | GNOME Indonesian Translation Team <gnome@i15n.org> | 
- | [mingw-gtksourceview3]({{< ref "/f25/package/mingw-gtksourceview3.md" >}}) | 1113 | 1118 | 99.6 | GNOME Indonesian Translation Team <gnome@i15n.org> | 
- | [usermode]({{< ref "/f25/package/usermode.md" >}}) | 570 | 573 | 99.5 | Indonesian <trans-id@lists.fedoraproject.org> | 
- | [kf5-ktextwidgets]({{< ref "/f25/package/kf5-ktextwidgets.md" >}}) | 459 | 462 | 99.4 | Indonesian <translation-team-id@lists.sourceforge.net> | 
- | [system-config-users-docs]({{< ref "/f25/package/system-config-users-docs.md" >}}) | 1054 | 1061 | 99.3 | Indonesian <fedora-trans-id@lists.fedoraproject.org> | 
- | [gstreamer-plugins-base]({{< ref "/f25/package/gstreamer-plugins-base.md" >}}) | 902 | 908 | 99.3 | Indonesian <translation-team-id@lists.sourceforge.net> | 
- | [mingw-gstreamer-plugins-base]({{< ref "/f25/package/mingw-gstreamer-plugins-base.md" >}}) | 902 | 908 | 99.3 | Indonesian <translation-team-id@lists.sourceforge.net> | 
- | [console-setup]({{< ref "/f25/package/console-setup.md" >}}) | 978 | 985 | 99.3 | Debian Indonesia Translators <debian-l10n-indonesian@lists.debian.org> | 
- | [lxtask]({{< ref "/f25/package/lxtask.md" >}}) | 129 | 130 | 99.2 | Indonesian <translation-team-id@lists.sourceforge.net> | 
- | [xfce4-mount-plugin]({{< ref "/f25/package/xfce4-mount-plugin.md" >}}) | 338 | 341 | 99.1 | Indonesian <id@li.org> | 
- | [kf5-sonnet]({{< ref "/f25/package/kf5-sonnet.md" >}}) | 657 | 663 | 99.1 | Indonesian <translation-team-id@lists.sourceforge.net> | 
- | [kinfocenter]({{< ref "/f25/package/kinfocenter.md" >}}) | 2728 | 2755 | 99.0 | Indonesian <translation-team-id@lists.sourceforge.net> | 
- | [mate-menu]({{< ref "/f25/package/mate-menu.md" >}}) | 297 | 300 | 99.0 | Indonesian (http://www.transifex.com/mate/MATE/language/id/) | 
- | [xplayer]({{< ref "/f25/package/xplayer.md" >}}) | 1937 | 1957 | 99.0 | Indonesian <gnome@i15n.org> | 
- | [exo]({{< ref "/f25/package/exo.md" >}}) | 1399 | 1414 | 98.9 | Indonesian (http://www.transifex.com/projects/p/exo/language/id/) | 
- | [geany]({{< ref "/f25/package/geany.md" >}}) | 5934 | 5998 | 98.9 | Indonesian | 
- | [uget]({{< ref "/f25/package/uget.md" >}}) | 1019 | 1031 | 98.8 | Indonesian (http://www.transifex.com/uget/uget/language/id/) | 
- | [mate-terminal]({{< ref "/f25/package/mate-terminal.md" >}}) | 4387 | 4439 | 98.8 | Indonesian (http://www.transifex.com/mate/MATE/language/id/) | 
- | [rhythmbox-alternative-toolbar]({{< ref "/f25/package/rhythmbox-alternative-toolbar.md" >}}) | 306 | 310 | 98.7 | Indonesian <id@li.org> | 
- | [sugar-write]({{< ref "/f25/package/sugar-write.md" >}}) | 119 | 121 | 98.3 | LANGUAGE <LL@li.org> | 
- | [xfce4-mixer]({{< ref "/f25/package/xfce4-mixer.md" >}}) | 178 | 181 | 98.3 |  | 
- | [wxGTK3]({{< ref "/f25/package/wxGTK3.md" >}}) | 7565 | 7695 | 98.3 | ID <doplank@gmx.com> | 
- | [bluedevil]({{< ref "/f25/package/bluedevil.md" >}}) | 461 | 469 | 98.3 | Indonesian <translation-team-id@lists.sourceforge.net> | 
- | [goffice]({{< ref "/f25/package/goffice.md" >}}) | 6471 | 6584 | 98.3 | Indonesian <gnome@i15n.org> | 
- | [gstreamer1-plugins-good]({{< ref "/f25/package/gstreamer1-plugins-good.md" >}}) | 747 | 761 | 98.2 | Indonesian <translation-team-id@lists.sourceforge.net> | 
- | [kpmcore]({{< ref "/f25/package/kpmcore.md" >}}) | 2805 | 2859 | 98.1 | Indonesian <translation-team-id@lists.sourceforge.net> | 
- | [rednotebook]({{< ref "/f25/package/rednotebook.md" >}}) | 1125 | 1147 | 98.1 | Indonesian <id@li.org> | 
- | [ksysguard]({{< ref "/f25/package/ksysguard.md" >}}) | 1060 | 1081 | 98.1 | Indonesian <translation-team-id@lists.sourceforge.net> | 
- | [comix]({{< ref "/f25/package/comix.md" >}}) | 1300 | 1326 | 98.0 | Indonesia <id@li.org> | 
- | [libepc]({{< ref "/f25/package/libepc.md" >}}) | 144 | 147 | 98.0 | INDONESIA <userindesign@gmail.com> | 
- | [plasma-oxygen]({{< ref "/f25/package/plasma-oxygen.md" >}}) | 608 | 621 | 97.9 | Indonesian <translation-team-id@lists.sourceforge.net> | 
- | [claws-mail]({{< ref "/f25/package/claws-mail.md" >}}) | 19572 | 19996 | 97.9 | M.Sulchan Darmawan <bleketux@gmail.com> | 
- | [kf5-kinit]({{< ref "/f25/package/kf5-kinit.md" >}}) | 131 | 134 | 97.8 | Indonesian <translation-team-id@lists.sourceforge.net> | 
- | [xfce4-timer-plugin]({{< ref "/f25/package/xfce4-timer-plugin.md" >}}) | 131 | 134 | 97.8 | Indonesian (http://www.transifex.com/projects/p/xfce/language/id/) | 
- | [plasma-mediacenter]({{< ref "/f25/package/plasma-mediacenter.md" >}}) | 168 | 172 | 97.7 | Indonesian <translation-team-id@lists.sourceforge.net> | 
- | [visualboyadvance-m]({{< ref "/f25/package/visualboyadvance-m.md" >}}) | 332 | 340 | 97.6 | Indonesian (http://www.transifex.com/projects/p/vba-m/language/id/) | 
- | [NetworkManager-openconnect]({{< ref "/f25/package/NetworkManager-openconnect.md" >}}) | 5277 | 5406 | 97.6 | Indonesian <gnome@i15n.org> | 
- | [noise]({{< ref "/f25/package/noise.md" >}}) | 1289 | 1322 | 97.5 | Indonesian <https://l10n.elementary.io/projects/music/music/id/> | 
- | [nemo-extensions]({{< ref "/f25/package/nemo-extensions.md" >}}) | 251 | 258 | 97.3 | Indonesian <id@li.org> | 
- | [xfce4-weather-plugin]({{< ref "/f25/package/xfce4-weather-plugin.md" >}}) | 3568 | 3668 | 97.3 | Indonesian (http://www.transifex.com/xfce/xfce-panel-plugins/language/id/) | 
- | [kf5-kwallet]({{< ref "/f25/package/kf5-kwallet.md" >}}) | 1457 | 1498 | 97.3 | Indonesian <translation-team-id@lists.sourceforge.net> | 
- | [tar]({{< ref "/f25/package/tar.md" >}}) | 3515 | 3620 | 97.1 | Indonesian <translation-team-id@lists.sourceforge.net> | 
- | [make]({{< ref "/f25/package/make.md" >}}) | 2219 | 2291 | 96.9 | Indonesian <translation-team-id@lists.sourceforge.net> | 
- | [blueman]({{< ref "/f25/package/blueman.md" >}}) | 1400 | 1446 | 96.8 | Indonesian (http://www.transifex.com/projects/p/MATE/language/id/) | 
- | [libidn]({{< ref "/f25/package/libidn.md" >}}) | 414 | 428 | 96.7 | Indonesian <translation-team-id@lists.sourceforge.net> | 
- | [mingw-libidn]({{< ref "/f25/package/mingw-libidn.md" >}}) | 414 | 428 | 96.7 | Indonesian <translation-team-id@lists.sourceforge.net> | 
- | [wammu]({{< ref "/f25/package/wammu.md" >}}) | 5078 | 5251 | 96.7 | none | 
- | [shared-mime-info]({{< ref "/f25/package/shared-mime-info.md" >}}) | 1803 | 1869 | 96.5 | Indonesian (http://www.transifex.com/freedesktop/shared-mime-info/language/id/) | 
- | [python-django]({{< ref "/f25/package/python-django.md" >}}) | 3424 | 3552 | 96.4 | Indonesian (http://www.transifex.com/django/django/language/id/) | 
- | [plasma-workspace]({{< ref "/f25/package/plasma-workspace.md" >}}) | 9157 | 9515 | 96.2 | Indonesian <translation-team-id@lists.sourceforge.net> | 
- | [plasma-systemsettings]({{< ref "/f25/package/plasma-systemsettings.md" >}}) | 179 | 186 | 96.2 | Indonesian | 
- | [epiphany]({{< ref "/f25/package/epiphany.md" >}}) | 2756 | 2871 | 96.0 | Indonesian <gnome-l10n-id@googlegroups.com> | 
- | [gedit-latex]({{< ref "/f25/package/gedit-latex.md" >}}) | 449 | 468 | 95.9 | Indonesian <gnome@i15n.org> | 
- | [gphoto2]({{< ref "/f25/package/gphoto2.md" >}}) | 1673 | 1746 | 95.8 | Indonesian <translation-team-id@lists.sourceforge.net> | 
- | [kde-partitionmanager]({{< ref "/f25/package/kde-partitionmanager.md" >}}) | 2035 | 2136 | 95.3 | Indonesian <translation-team-id@lists.sourceforge.net> | 
- | [freedink]({{< ref "/f25/package/freedink.md" >}}) | 179 | 188 | 95.2 | Indonesian <translation-team-id@lists.sourceforge.net> | 
- | [audacious]({{< ref "/f25/package/audacious.md" >}}) | 731 | 768 | 95.2 | Indonesian (Indonesia) (http://www.transifex.com/jlindgren/audacious/language/id_ID/) | 
- | [kde-cli-tools]({{< ref "/f25/package/kde-cli-tools.md" >}}) | 1991 | 2097 | 94.9 | Indonesian <translation-team-id@lists.sourceforge.net> | 
- | [minetest]({{< ref "/f25/package/minetest.md" >}}) | 6071 | 6406 | 94.8 | Indonesian <https://hosted.weblate.org/projects/minetest/minetest/id/> | 
- | [synapse]({{< ref "/f25/package/synapse.md" >}}) | 779 | 824 | 94.5 | Indonesian <id@li.org> | 
- | [xfce4-whiskermenu-plugin]({{< ref "/f25/package/xfce4-whiskermenu-plugin.md" >}}) | 236 | 250 | 94.4 | Indonesian (http://www.transifex.com/gottcode/xfce4-whiskermenu-plugin/language/id/) | 
- | [cpio]({{< ref "/f25/package/cpio.md" >}}) | 1795 | 1902 | 94.4 | Indonesian <translation-team-id@lists.sourceforge.net> | 
- | [xfce4-terminal]({{< ref "/f25/package/xfce4-terminal.md" >}}) | 2149 | 2281 | 94.2 | Indonesian <translation-team-id@lists.sourceforge.net> | 
- | [kf5-kxmlgui]({{< ref "/f25/package/kf5-kxmlgui.md" >}}) | 1500 | 1598 | 93.9 | Indonesian <translation-team-id@lists.sourceforge.net> | 
- | [lxpanel]({{< ref "/f25/package/lxpanel.md" >}}) | 1283 | 1367 | 93.9 | Indonesian <translation-team-id@lists.sourceforge.net> | 
- | [kf5-kconfigwidgets]({{< ref "/f25/package/kf5-kconfigwidgets.md" >}}) | 303 | 323 | 93.8 | Indonesian <translation-team-id@lists.sourceforge.net> | 
- | [openconnect]({{< ref "/f25/package/openconnect.md" >}}) | 4890 | 5219 | 93.7 | Indonesian (http://www.transifex.com/projects/p/meego/language/id/) | 
- | [man-db]({{< ref "/f25/package/man-db.md" >}}) | 8757 | 9352 | 93.6 | Indonesian <translation-team-id@lists.sourceforge.net> | 
- | [gnome-sudoku]({{< ref "/f25/package/gnome-sudoku.md" >}}) | 364 | 390 | 93.3 | Indonesian <gnome-l10n-id@googlegroups.com> | 
- | [grep]({{< ref "/f25/package/grep.md" >}}) | 887 | 951 | 93.3 | Indonesian <translation-team-id@lists.sourceforge.net> | 
- | [gammu]({{< ref "/f25/package/gammu.md" >}}) | 3723 | 3997 | 93.1 | none | 
- | [frogr]({{< ref "/f25/package/frogr.md" >}}) | 619 | 665 | 93.1 | Indonesian <gnome@i15n.org> | 
- | [duplicity]({{< ref "/f25/package/duplicity.md" >}}) | 3378 | 3632 | 93.0 | Indonesian <id@li.org> | 
- | [fetchmail]({{< ref "/f25/package/fetchmail.md" >}}) | 4074 | 4382 | 93.0 | Indonesian <translation-team-id@lists.sourceforge.net> | 
- | [kf5-kglobalaccel]({{< ref "/f25/package/kf5-kglobalaccel.md" >}}) | 66 | 71 | 93.0 | Indonesian <translation-team-id@lists.sourceforge.net> | 
- | [popt]({{< ref "/f25/package/popt.md" >}}) | 78 | 84 | 92.9 | Indonesian <translation-team-id@lists.sourceforge.net> | 
- | [simple-scan]({{< ref "/f25/package/simple-scan.md" >}}) | 526 | 569 | 92.4 | Indonesian <id@li.org> | 
- | [plasma-desktop]({{< ref "/f25/package/plasma-desktop.md" >}}) | 9497 | 10366 | 91.6 | Indonesian <translation-team-id@lists.sourceforge.net> | 
- | [xfce4-netload-plugin]({{< ref "/f25/package/xfce4-netload-plugin.md" >}}) | 84 | 92 | 91.3 | Indonesian (http://www.transifex.com/projects/p/xfce/language/id/) | 
- | [jwhois]({{< ref "/f25/package/jwhois.md" >}}) | 401 | 440 | 91.1 | Indonesian <translation-team-id@lists.sourceforge.net> | 
- | [evolution]({{< ref "/f25/package/evolution.md" >}}) | 22552 | 24777 | 91.0 | Indonesian <gnome@i15n.org> | 
- | [python-sphinx]({{< ref "/f25/package/python-sphinx.md" >}}) | 495 | 545 | 90.8 | Indonesian (http://www.transifex.com/sphinx-doc/sphinx-1/language/id/) | 
- | [orca]({{< ref "/f25/package/orca.md" >}}) | 4766 | 5273 | 90.4 | Indonesian <gnome@i15n.org> | 
- | [terminator]({{< ref "/f25/package/terminator.md" >}}) | 1272 | 1410 | 90.2 | Indonesian <id@li.org> | 
- | [xreader]({{< ref "/f25/package/xreader.md" >}}) | 1489 | 1653 | 90.1 | Indonesian (http://www.transifex.com/mate/MATE/language/id/) | 
- | [radiotray]({{< ref "/f25/package/radiotray.md" >}}) | 117 | 130 | 90.0 | Indonesian (http://www.transifex.com/projects/p/radiotray/language/id/) | 
- | [kf5-kdeclarative]({{< ref "/f25/package/kf5-kdeclarative.md" >}}) | 98 | 109 | 89.9 | Indonesian <translation-team-id@lists.sourceforge.net> | 
- | [wesnoth]({{< ref "/f25/package/wesnoth.md" >}}) | 229877 | 256016 | 89.8 | none | 
- | [kf5-kconfig]({{< ref "/f25/package/kf5-kconfig.md" >}}) | 233 | 260 | 89.6 | Indonesian <translation-team-id@lists.sourceforge.net> | 
- | [grsync]({{< ref "/f25/package/grsync.md" >}}) | 1021 | 1141 | 89.5 | Indonesian <was.uthm@gmail.com> | 
- | [sugar-clock]({{< ref "/f25/package/sugar-clock.md" >}}) | 59 | 66 | 89.4 | LANGUAGE <LL@li.org> | 
- | [ejabberd]({{< ref "/f25/package/ejabberd.md" >}}) | 1688 | 1897 | 89.0 | SmartCommunity <http://jsmart.web.id> | 
- | [parted]({{< ref "/f25/package/parted.md" >}}) | 3917 | 4416 | 88.7 | Indonesian <translation-team-id@lists.sourceforge.net> | 
- | [libksysguard]({{< ref "/f25/package/libksysguard.md" >}}) | 2461 | 2783 | 88.4 | Indonesian <translation-team-id@lists.sourceforge.net> | 
- | [kf5-knewstuff]({{< ref "/f25/package/kf5-knewstuff.md" >}}) | 609 | 689 | 88.4 | Indonesian <translation-team-id@lists.sourceforge.net> | 
- | [control-center]({{< ref "/f25/package/control-center.md" >}}) | 5729 | 6503 | 88.1 | LDP Indonesia <http://www.linux.or.id> | 
- | [gnome-hearts]({{< ref "/f25/package/gnome-hearts.md" >}}) | 359 | 409 | 87.8 | Indonesian <id@li.org> | 
- | [glibc]({{< ref "/f25/package/glibc.md" >}}) | 7078 | 8077 | 87.6 | Indonesian <translation-team-id@lists.sourceforge.net> | 
- | [glibc-arm-linux-gnu]({{< ref "/f25/package/glibc-arm-linux-gnu.md" >}}) | 7078 | 8077 | 87.6 | Indonesian <translation-team-id@lists.sourceforge.net> | 
- | [xfmpc]({{< ref "/f25/package/xfmpc.md" >}}) | 146 | 167 | 87.4 | Indonesian <translation-team-id@lists.sourceforge.net> | 
- | [mailnag]({{< ref "/f25/package/mailnag.md" >}}) | 179 | 205 | 87.3 | Indonesian <id@li.org> | 
- | [california]({{< ref "/f25/package/california.md" >}}) | 577 | 662 | 87.2 | Indonesian <gnome-l10n-id@googlegroups.com> | 
- | [kf5-kwidgetsaddons]({{< ref "/f25/package/kf5-kwidgetsaddons.md" >}}) | 1140 | 1311 | 87.0 | Indonesian <translation-team-id@lists.sourceforge.net> | 
- | [l3afpad]({{< ref "/f25/package/l3afpad.md" >}}) | 113 | 130 | 86.9 | Indonesian <translation-team-id@lists.sourceforge.net> | 
- | [cflow]({{< ref "/f25/package/cflow.md" >}}) | 525 | 606 | 86.6 | Indonesian <translation-team-id@lists.sourceforge.net> | 
- | [kwin]({{< ref "/f25/package/kwin.md" >}}) | 5387 | 6231 | 86.5 | Indonesian <translation-team-id@lists.sourceforge.net> | 
- | [jmol]({{< ref "/f25/package/jmol.md" >}}) | 2735 | 3166 | 86.4 | Indonesian <id@li.org> | 
- | [chromium-native_client]({{< ref "/f25/package/chromium-native_client.md" >}}) | 130698 | 151872 | 86.1 | Indonesian <translation-team-id@lists.sourceforge.net> | 
- | [gnome-software]({{< ref "/f25/package/gnome-software.md" >}}) | 2113 | 2456 | 86.0 | Indonesian <gnome@i15n.org> | 
- | [squirrelmail]({{< ref "/f25/package/squirrelmail.md" >}}) | 6644 | 7754 | 85.7 | Bahasa Indonesia <squirrelmail-i18n@lists.sourceforge.net> | 
- | [xfce4-power-manager]({{< ref "/f25/package/xfce4-power-manager.md" >}}) | 836 | 979 | 85.4 | Indonesian (http://www.transifex.com/projects/p/xfce4-power-manager/language/id/) | 
- | [sed]({{< ref "/f25/package/sed.md" >}}) | 466 | 548 | 85.0 | Indonesian <translation-team-id@lists.sourceforge.net> | 
- | [hexchat]({{< ref "/f25/package/hexchat.md" >}}) | 4993 | 5934 | 84.1 | Indonesian (http://www.transifex.com/hexchat/hexchat/language/id/) | 
- | [glade3]({{< ref "/f25/package/glade3.md" >}}) | 3982 | 4737 | 84.1 | GNOME Indonesian Translation Team <gnome@i15n.org> | 
- | [kde-l10n]({{< ref "/f25/package/kde-l10n.md" >}}) | 57279 | 68149 | 84.0 | Indonesian <translation-team-id@lists.sourceforge.net> | 
- | [plasma-discover]({{< ref "/f25/package/plasma-discover.md" >}}) | 849 | 1015 | 83.6 | Indonesian <translation-team-id@lists.sourceforge.net> | 
- | [shutter]({{< ref "/f25/package/shutter.md" >}}) | 2584 | 3093 | 83.5 | Indonesian <id@li.org> | 
- | [kf5-kservice]({{< ref "/f25/package/kf5-kservice.md" >}}) | 140 | 170 | 82.4 | Indonesian <translation-team-id@lists.sourceforge.net> | 
- | [sugar-abacus]({{< ref "/f25/package/sugar-abacus.md" >}}) | 28 | 34 | 82.4 | LANGUAGE <LL@li.org> | 
- | [appcenter]({{< ref "/f25/package/appcenter.md" >}}) | 560 | 681 | 82.2 | Indonesian <https://weblate.elementary.io/projects/appcenter/appcenter/id/> | 
- | [xmms]({{< ref "/f25/package/xmms.md" >}}) | 2824 | 3443 | 82.0 | Indonesia <rac@linux-mandrake.com> | 
- | [mingw-gettext]({{< ref "/f25/package/mingw-gettext.md" >}}) | 6319 | 7783 | 81.2 | Indonesian <translation-team-id@lists.sourceforge.net> | 
- | [iagno]({{< ref "/f25/package/iagno.md" >}}) | 254 | 313 | 81.2 | Indonesian <gnome-l10n-id@googlegroups.com> | 
- | [gettext]({{< ref "/f25/package/gettext.md" >}}) | 6319 | 7794 | 81.1 | Indonesian <translation-team-id@lists.sourceforge.net> | 
- | [gnome-builder]({{< ref "/f25/package/gnome-builder.md" >}}) | 2491 | 3085 | 80.7 | Indonesian <gnome-l10n-id@googlegroups.com> | 
- | [minicom]({{< ref "/f25/package/minicom.md" >}}) | 1431 | 1789 | 80.0 | Indonesian <translation-team-id@lists.sourceforge.net> | 
- | [corebird]({{< ref "/f25/package/corebird.md" >}}) | 434 | 548 | 79.2 | Indonesian (Indonesia) (http://www.transifex.com/corebird/corebird/language/id_ID/) | 
- | [texinfo]({{< ref "/f25/package/texinfo.md" >}}) | 4316 | 5459 | 79.1 | Indonesian <translation-team-id@lists.sourceforge.net> | 
- | [shotwell]({{< ref "/f25/package/shotwell.md" >}}) | 5293 | 6759 | 78.3 | Indonesian <gnome@i15n.org> | 
- | [system-config-printer]({{< ref "/f25/package/system-config-printer.md" >}}) | 2459 | 3158 | 77.9 | Indonesian (http://www.transifex.com/projects/p/system-config-printer/language/id/) | 
- | [gridengine]({{< ref "/f25/package/gridengine.md" >}}) | 1592 | 2047 | 77.8 | Indonesian <translation-team-id@lists.sourceforge.net> | 
- | [digikam]({{< ref "/f25/package/digikam.md" >}}) | 1514 | 1953 | 77.5 | Indonesian <translation-team-id@lists.sourceforge.net> | 
- | [gnome-do]({{< ref "/f25/package/gnome-do.md" >}}) | 473 | 612 | 77.3 | Indonesian <id@li.org> | 
- | [storaged]({{< ref "/f25/package/storaged.md" >}}) | 1485 | 1929 | 77.0 | Indonesian | 
- | [gnome-taquin]({{< ref "/f25/package/gnome-taquin.md" >}}) | 171 | 223 | 76.7 | Indonesian | 
- | [avogadro]({{< ref "/f25/package/avogadro.md" >}}) | 5065 | 6607 | 76.7 | Indonesian <id@li.org> | 
- | [xed]({{< ref "/f25/package/xed.md" >}}) | 3448 | 4508 | 76.5 | Indonesian (http://www.transifex.com/projects/p/MATE/language/id/) | 
- | [initscripts]({{< ref "/f25/package/initscripts.md" >}}) | 767 | 1003 | 76.5 | Indonesian <trans-id@lists.fedoraproject.org> | 
- | [mutt]({{< ref "/f25/package/mutt.md" >}}) | 4425 | 5790 | 76.4 | Indonesian <web@linux.or.id> | 
- | [wxPython]({{< ref "/f25/package/wxPython.md" >}}) | 7716 | 10139 | 76.1 | ID <doplank@gmx.com> | 
- | [zathura]({{< ref "/f25/package/zathura.md" >}}) | 448 | 590 | 75.9 | Indonesian (Indonesia) (http://www.transifex.com/projects/p/zathura/language/id_ID/) | 
- | [fwupd]({{< ref "/f25/package/fwupd.md" >}}) | 472 | 622 | 75.9 | Indonesian (http://www.transifex.com/freedesktop/fwupd/language/id/) | 
- | [modem-manager-gui]({{< ref "/f25/package/modem-manager-gui.md" >}}) | 2303 | 3111 | 74.0 | Indonesian (http://www.transifex.com/ethereal/modem-manager-gui/language/id/) | 
- | [dia]({{< ref "/f25/package/dia.md" >}}) | 4210 | 5711 | 73.7 | Indonesia <l10n@id.gnome.org> | 
- | [kf5-kcoreaddons]({{< ref "/f25/package/kf5-kcoreaddons.md" >}}) | 212 | 291 | 72.9 | Indonesian <translation-team-id@lists.sourceforge.net> | 
- | [slick-greeter]({{< ref "/f25/package/slick-greeter.md" >}}) | 152 | 211 | 72.0 | Indonesian <id@li.org> | 
- | [kflickr]({{< ref "/f25/package/kflickr.md" >}}) | 239 | 332 | 72.0 | Indonesian <id@li.org> | 
- | [cinnamon-translations]({{< ref "/f25/package/cinnamon-translations.md" >}}) | 16424 | 22931 | 71.6 | Indonesian <id@li.org> | 
- | [git-cola]({{< ref "/f25/package/git-cola.md" >}}) | 1487 | 2077 | 71.6 | Indonesian | 
- | [plank]({{< ref "/f25/package/plank.md" >}}) | 135 | 189 | 71.4 | Indonesian <id@li.org> | 
- | [powerdevil]({{< ref "/f25/package/powerdevil.md" >}}) | 477 | 673 | 70.9 | Indonesian <translation-team-id@lists.sourceforge.net> | 
- | [balsa]({{< ref "/f25/package/balsa.md" >}}) | 3922 | 5624 | 69.7 | Indonesian <l10n@id.gnome.org> | 
- | [lyx]({{< ref "/f25/package/lyx.md" >}}) | 16161 | 23247 | 69.5 | Indonesian <was.uthm@gmail.com> | 
- | [libuser]({{< ref "/f25/package/libuser.md" >}}) | 996 | 1437 | 69.3 | Indonesian (http://www.transifex.com/projects/p/fedora/language/id/) | 
- | [deja-dup]({{< ref "/f25/package/deja-dup.md" >}}) | 2800 | 4100 | 68.3 | Indonesian <id@li.org> | 
- | [msp430-gcc]({{< ref "/f25/package/msp430-gcc.md" >}}) | 45344 | 66518 | 68.2 | Indonesian <translation-team-id@lists.sourceforge.net> | 
- | [psmisc]({{< ref "/f25/package/psmisc.md" >}}) | 633 | 929 | 68.1 | Indonesian <translation-team-id@lists.sourceforge.net> | 
- | [pantheon-files]({{< ref "/f25/package/pantheon-files.md" >}}) | 1820 | 2676 | 68.0 | Indonesian <id@li.org> | 
- | [kf5-kdelibs4support]({{< ref "/f25/package/kf5-kdelibs4support.md" >}}) | 3268 | 4813 | 67.9 | Indonesian <translation-team-id@lists.sourceforge.net> | 
- | [mingw-qt5-qtwebkit]({{< ref "/f25/package/mingw-qt5-qtwebkit.md" >}}) | 1785 | 2631 | 67.8 | GNOME Indonesian Translation Team <gnome@i15n.org> | 
- | [mingw-webkitgtk]({{< ref "/f25/package/mingw-webkitgtk.md" >}}) | 1777 | 2623 | 67.7 | GNOME Indonesian Translation Team <gnome@i15n.org> | 
- | [mingw-webkitgtk3]({{< ref "/f25/package/mingw-webkitgtk3.md" >}}) | 1777 | 2623 | 67.7 | GNOME Indonesian Translation Team <gnome@i15n.org> | 
- | [openjfx]({{< ref "/f25/package/openjfx.md" >}}) | 1777 | 2623 | 67.7 | GNOME Indonesian Translation Team <gnome@i15n.org> | 
- | [webkitgtk]({{< ref "/f25/package/webkitgtk.md" >}}) | 1777 | 2623 | 67.7 | GNOME Indonesian Translation Team <gnome@i15n.org> | 
- | [webkitgtk3]({{< ref "/f25/package/webkitgtk3.md" >}}) | 1777 | 2623 | 67.7 | GNOME Indonesian Translation Team <gnome@i15n.org> | 
- | [webkitgtk4]({{< ref "/f25/package/webkitgtk4.md" >}}) | 1777 | 2623 | 67.7 | GNOME Indonesian Translation Team <gnome@i15n.org> | 
- | [ccsm]({{< ref "/f25/package/ccsm.md" >}}) | 392 | 579 | 67.7 | Indonesian <id@li.org> | 
- | [midori]({{< ref "/f25/package/midori.md" >}}) | 2396 | 3541 | 67.7 | Indonesian <translation-team-id@lists.sourceforge.net> | 
- | [plasma-sdk]({{< ref "/f25/package/plasma-sdk.md" >}}) | 292 | 436 | 67.0 | Indonesian <translation-team-id@lists.sourceforge.net> | 
- | [kf5-knotifyconfig]({{< ref "/f25/package/kf5-knotifyconfig.md" >}}) | 86 | 129 | 66.7 | Indonesian <translation-team-id@lists.sourceforge.net> | 
- | [pantheon-calculator]({{< ref "/f25/package/pantheon-calculator.md" >}}) | 52 | 78 | 66.7 | Indonesian <https://l10n.elementary.io/projects/calculator/calculator/id/> | 
- | [php-horde-Horde-Perms]({{< ref "/f25/package/php-horde-Horde-Perms.md" >}}) | 4 | 6 | 66.7 | i18n@lists.horde.org | 
- | [powertop]({{< ref "/f25/package/powertop.md" >}}) | 407 | 611 | 66.6 | Indonesian (Indonesia) (http://www.transifex.com/projects/p/PowerTOP/language/id_ID/) | 
- | [pidgin]({{< ref "/f25/package/pidgin.md" >}}) | 10370 | 15756 | 65.8 | Indonesian (http://www.transifex.com/pidgin/pidgin/language/id/) | 
- | [librfm]({{< ref "/f25/package/librfm.md" >}}) | 1534 | 2397 | 64.0 | Indonesian <translation-team-id@lists.sourceforge.net> | 
- | [anaconda]({{< ref "/f25/package/anaconda.md" >}}) | 4525 | 7092 | 63.8 | Indonesian (http://www.transifex.com/projects/p/anaconda/language/id/) | 
- | [kbd]({{< ref "/f25/package/kbd.md" >}}) | 1513 | 2372 | 63.8 | Indonesian <translation-team-id@lists.sourceforge.net> | 
- | [screenshot-tool]({{< ref "/f25/package/screenshot-tool.md" >}}) | 93 | 146 | 63.7 |  | 
- | [empathy]({{< ref "/f25/package/empathy.md" >}}) | 6831 | 10829 | 63.1 | Indonesian <gnome-l10n-id@googlegroups.com> | 
- | [bash]({{< ref "/f25/package/bash.md" >}}) | 6943 | 11178 | 62.1 | Indonesian <translation-team-id@lists.sourceforge.net> | 
- | [kexec-tools]({{< ref "/f25/package/kexec-tools.md" >}}) | 51 | 83 | 61.4 | LANGUAGE <LL@li.org> | 
- | [txt2regex]({{< ref "/f25/package/txt2regex.md" >}}) | 170 | 277 | 61.4 | Bahasa txt2regex LangTeam <faizal@mfaizal.net> | 
- | [yakuake]({{< ref "/f25/package/yakuake.md" >}}) | 965 | 1573 | 61.3 | Indonesian <translation-team-id@lists.sourceforge.net> | 
- | [arduino]({{< ref "/f25/package/arduino.md" >}}) | 1571 | 2566 | 61.2 | Indonesian (http://www.transifex.com/projects/p/arduino-ide-15/language/id/) | 
- | [mingw-wxWidgets]({{< ref "/f25/package/mingw-wxWidgets.md" >}}) | 3896 | 6391 | 61.0 | ID <i-am-the-boss@bpdp.org> | 
- | [wxGTK]({{< ref "/f25/package/wxGTK.md" >}}) | 3896 | 6391 | 61.0 | ID <i-am-the-boss@bpdp.org> | 
- | [authconfig]({{< ref "/f25/package/authconfig.md" >}}) | 1032 | 1715 | 60.2 | Indonesian (http://www.transifex.com/projects/p/fedora/language/id/) | 
- | [wingpanel-indicator-datetime]({{< ref "/f25/package/wingpanel-indicator-datetime.md" >}}) | 12 | 20 | 60.0 | LANGUAGE <LL@li.org> | 
- | [lxterminal]({{< ref "/f25/package/lxterminal.md" >}}) | 147 | 247 | 59.5 | Indonesian <translation-team-id@lists.sourceforge.net> | 
- | [texi2html]({{< ref "/f25/package/texi2html.md" >}}) | 974 | 1643 | 59.3 | Indonesian <translation-team-id@lists.sourceforge.net> | 
- | [dpkg]({{< ref "/f25/package/dpkg.md" >}}) | 6499 | 10990 | 59.1 | Indonesian <debian-l10n-indonesian@lists.debian.org> | 
- | [findutils]({{< ref "/f25/package/findutils.md" >}}) | 1474 | 2568 | 57.4 | Indonesian <translation-team-id@lists.sourceforge.net> | 
- | [moin]({{< ref "/f25/package/moin.md" >}}) | 2860 | 5044 | 56.7 |  | 
- | [mintmenu]({{< ref "/f25/package/mintmenu.md" >}}) | 4229 | 7472 | 56.6 | Indonesian <id@li.org> | 
- | [steadyflow]({{< ref "/f25/package/steadyflow.md" >}}) | 265 | 470 | 56.4 | Indonesian <id@li.org> | 
- | [sugar-moon]({{< ref "/f25/package/sugar-moon.md" >}}) | 65 | 117 | 55.6 | LANGUAGE <LL@li.org> | 
- | [kf5-kauth]({{< ref "/f25/package/kf5-kauth.md" >}}) | 39 | 73 | 53.4 | Indonesian <translation-team-id@lists.sourceforge.net> | 
- | [inkscape]({{< ref "/f25/package/inkscape.md" >}}) | 20114 | 37939 | 53.0 | Indonesian <was.uthm@gmail.com> | 
- | [system-config-users]({{< ref "/f25/package/system-config-users.md" >}}) | 794 | 1521 | 52.2 | Indonesian <trans-id@lists.fedoraproject.org> | 
- | [nacl-arm-gcc]({{< ref "/f25/package/nacl-arm-gcc.md" >}}) | 41453 | 80406 | 51.6 | Indonesian <translation-team-id@lists.sourceforge.net> | 
- | [gnupg]({{< ref "/f25/package/gnupg.md" >}}) | 4440 | 8640 | 51.4 | Indonesian <translation-team-id@lists.sourceforge.net> | 
- | [appstream]({{< ref "/f25/package/appstream.md" >}}) | 413 | 815 | 50.7 | Indonesian <https://hosted.weblate.org/projects/appstream/translations/id/> | 
- | [e2fsprogs]({{< ref "/f25/package/e2fsprogs.md" >}}) | 4966 | 10066 | 49.3 | Indonesian <translation-team-id@lists.sourceforge.net> | 
- | [lightdm]({{< ref "/f25/package/lightdm.md" >}}) | 79 | 163 | 48.5 | Indonesian <id@li.org> | 
- | [backintime]({{< ref "/f25/package/backintime.md" >}}) | 959 | 1983 | 48.4 | Indonesian <id@li.org> | 
- | [wget]({{< ref "/f25/package/wget.md" >}}) | 1860 | 3876 | 48.0 | Indonesian <translation-team-id@lists.sourceforge.net> | 
- | [zabbix]({{< ref "/f25/package/zabbix.md" >}}) | 7554 | 15811 | 47.8 | none | 
- | [xpad]({{< ref "/f25/package/xpad.md" >}}) | 191 | 406 | 47.0 | Indonesian <id@li.org> | 
- | [gdesklets]({{< ref "/f25/package/gdesklets.md" >}}) | 717 | 1528 | 46.9 | Indonesian <id@li.org> | 
- | [xcdroast]({{< ref "/f25/package/xcdroast.md" >}}) | 3743 | 8044 | 46.5 | Indonesian | 
- | [php-horde-horde]({{< ref "/f25/package/php-horde-horde.md" >}}) | 1600 | 3474 | 46.1 | id <id@li.org> | 
- | [pinta]({{< ref "/f25/package/pinta.md" >}}) | 743 | 1618 | 45.9 | Indonesian <permataharahap@gmail.com> | 
- | [exaile]({{< ref "/f25/package/exaile.md" >}}) | 1812 | 4006 | 45.2 | Indonesian <id@li.org> | 
- | [coreutils]({{< ref "/f25/package/coreutils.md" >}}) | 9254 | 20601 | 44.9 | Indonesian <translation-team-id@lists.sourceforge.net> | 
- | [skychart]({{< ref "/f25/package/skychart.md" >}}) | 760 | 1702 | 44.7 | Zaenal Mutaqin <ade999@gmail.com> | 
- | [audacity]({{< ref "/f25/package/audacity.md" >}}) | 5780 | 12968 | 44.6 |  | 
- | [granite]({{< ref "/f25/package/granite.md" >}}) | 69 | 156 | 44.2 | Indonesian <id@li.org> | 
- | [libreoffice]({{< ref "/f25/package/libreoffice.md" >}}) | 241098 | 556861 | 43.3 | LANGUAGE <LL@li.org> | 
- | [NetworkManager-l2tp]({{< ref "/f25/package/NetworkManager-l2tp.md" >}}) | 339 | 783 | 43.3 | Indonesian Translator <gnome@i15n.org> | 
- | [sugar-turtleart]({{< ref "/f25/package/sugar-turtleart.md" >}}) | 631 | 1459 | 43.2 | LANGUAGE <LL@li.org> | 
- | [umit]({{< ref "/f25/package/umit.md" >}}) | 1959 | 4593 | 42.7 | Bahasa Indonesia <id_ID@li.org> | 
- | [NetworkManager-ssh]({{< ref "/f25/package/NetworkManager-ssh.md" >}}) | 120 | 286 | 42.0 | GNOME Indonesian Translation Team <gnome@i15n.org> | 
- | [bison]({{< ref "/f25/package/bison.md" >}}) | 594 | 1416 | 41.9 | Indonesian <translation-team-id@lists.sourceforge.net> | 
- | [scratch-text-editor]({{< ref "/f25/package/scratch-text-editor.md" >}}) | 369 | 890 | 41.5 | Indonesian <id@li.org> | 
- | [cinnamon-control-center]({{< ref "/f25/package/cinnamon-control-center.md" >}}) | 539 | 1313 | 41.1 | LDP Indonesia <http://www.linux.or.id> | 
- | [sugar-chat]({{< ref "/f25/package/sugar-chat.md" >}}) | 56 | 137 | 40.9 | LANGUAGE <LL@li.org> | 
- | [lightdm-gtk]({{< ref "/f25/package/lightdm-gtk.md" >}}) | 34 | 84 | 40.5 | Indonesian <id@li.org> | 
- | [kBuild]({{< ref "/f25/package/kBuild.md" >}}) | 204 | 505 | 40.4 | Indonesian <translation-team-id@lists.sourceforge.net> | 
- | [gnumeric]({{< ref "/f25/package/gnumeric.md" >}}) | 15140 | 37552 | 40.3 | Indonesia <gnome@i15n.org> | 
- | [pogo]({{< ref "/f25/package/pogo.md" >}}) | 231 | 576 | 40.1 | Indonesian <id@li.org> | 
- | [iso-codes]({{< ref "/f25/package/iso-codes.md" >}}) | 9189 | 23086 | 39.8 | Indonesian <translation-team-id@lists.sourceforge.net> | 
- | [subdownloader]({{< ref "/f25/package/subdownloader.md" >}}) | 384 | 968 | 39.7 | LANGUAGE <LL@li.org> | 
- | [gnome-shell-extension-openweather]({{< ref "/f25/package/gnome-shell-extension-openweather.md" >}}) | 244 | 619 | 39.4 | Indonesian <> | 
- | [gmpc]({{< ref "/f25/package/gmpc.md" >}}) | 7 | 18 | 38.9 | Indonesian <id@li.org> | 
- | [unetbootin]({{< ref "/f25/package/unetbootin.md" >}}) | 1204 | 3159 | 38.1 | Indonesian <id@li.org> | 
- | [colord]({{< ref "/f25/package/colord.md" >}}) | 722 | 1928 | 37.4 | Indonesian (http://www.transifex.com/hughsie/colord/language/id/) | 
- | [gnome-user-docs]({{< ref "/f25/package/gnome-user-docs.md" >}}) | 21127 | 57807 | 36.5 | Indonesian <gnome@i15n.org> | 
- | [pam]({{< ref "/f25/package/pam.md" >}}) | 215 | 597 | 36.0 | Indonesian <trans-id@lists.fedoraproject.org> | 
- | [homebank]({{< ref "/f25/package/homebank.md" >}}) | 816 | 2283 | 35.7 | Indonesian <id@li.org> | 
- | [diffutils]({{< ref "/f25/package/diffutils.md" >}}) | 643 | 1800 | 35.7 | Indonesian <translation-team-id@lists.sourceforge.net> | 
- | [dnf]({{< ref "/f25/package/dnf.md" >}}) | 671 | 1886 | 35.6 | Indonesian (http://www.transifex.com/projects/p/dnf/language/id/) | 
- | [audacious-plugins]({{< ref "/f25/package/audacious-plugins.md" >}}) | 1363 | 3904 | 34.9 | Indonesian (Indonesia) (http://www.transifex.com/jlindgren/audacious/language/id_ID/) | 
- | [python-blivet]({{< ref "/f25/package/python-blivet.md" >}}) | 240 | 692 | 34.7 | Indonesian (http://www.transifex.com/projects/p/blivet/language/id/) | 
- | [kamoso]({{< ref "/f25/package/kamoso.md" >}}) | 41 | 119 | 34.5 | Indonesian <translation-team-id@lists.sourceforge.net> | 
- | [sos]({{< ref "/f25/package/sos.md" >}}) | 41 | 122 | 33.6 | none | 
- | [dnfdragora]({{< ref "/f25/package/dnfdragora.md" >}}) | 199 | 596 | 33.4 | Indonesian (https://www.transifex.com/MageiaLinux/teams/9361/id/) | 
- | [manaplus]({{< ref "/f25/package/manaplus.md" >}}) | 1445 | 4384 | 33.0 | Indonesian (http://www.transifex.com/projects/p/manaplus/language/id/) | 
- | [gnome-gmail]({{< ref "/f25/package/gnome-gmail.md" >}}) | 61 | 187 | 32.6 | Indonesian <id@li.org> | 
- | [lazarus]({{< ref "/f25/package/lazarus.md" >}}) | 10066 | 30924 | 32.6 | Zaenal Mutaqin <ade999@gmail.com> | 
- | [python-blivet1]({{< ref "/f25/package/python-blivet1.md" >}}) | 225 | 696 | 32.3 | Indonesian | 
- | [switchboard-plug-keyboard]({{< ref "/f25/package/switchboard-plug-keyboard.md" >}}) | 118 | 371 | 31.8 | Indonesian <id@li.org> | 
- | [gimp]({{< ref "/f25/package/gimp.md" >}}) | 8795 | 28280 | 31.1 | Indonesian <gnome@i15n.org> | 
- | [feedreader]({{< ref "/f25/package/feedreader.md" >}}) | 282 | 926 | 30.5 | Indonesian (http://www.transifex.com/dev-feedreader/feedreader/language/id/) | 
- | [switchboard-plug-display]({{< ref "/f25/package/switchboard-plug-display.md" >}}) | 10 | 33 | 30.3 | Indonesian <id@li.org> | 
- | [kicad]({{< ref "/f25/package/kicad.md" >}}) | 9340 | 31206 | 29.9 | Indonesian | 
- | [certmonger]({{< ref "/f25/package/certmonger.md" >}}) | 721 | 2478 | 29.1 | Indonesian (http://www.transifex.com/projects/p/certmonger/language/id/) | 
- | [mingw-colord]({{< ref "/f25/package/mingw-colord.md" >}}) | 540 | 1885 | 28.6 | Indonesian (http://www.transifex.com/projects/p/colord/language/id/) | 
- | [stellarium]({{< ref "/f25/package/stellarium.md" >}}) | 6847 | 24002 | 28.5 | Indonesian <id@li.org> | 
- | [libmypaint]({{< ref "/f25/package/libmypaint.md" >}}) | 438 | 1537 | 28.5 | Indonesian <https://hosted.weblate.org/projects/mypaint/libmypaint/id/> | 
- | [cryptsetup]({{< ref "/f25/package/cryptsetup.md" >}}) | 703 | 2507 | 28.0 | Indonesian <translation-team-id@lists.sourceforge.net> | 
- | [cross-gcc]({{< ref "/f25/package/cross-gcc.md" >}}) | 25772 | 92305 | 27.9 | Indonesian <translation-team-id@lists.sourceforge.net> | 
- | [avr-gcc]({{< ref "/f25/package/avr-gcc.md" >}}) | 25787 | 92704 | 27.8 | Indonesian <translation-team-id@lists.sourceforge.net> | 
- | [gcc]({{< ref "/f25/package/gcc.md" >}}) | 25787 | 92704 | 27.8 | Indonesian <translation-team-id@lists.sourceforge.net> | 
- | [ghdl]({{< ref "/f25/package/ghdl.md" >}}) | 25787 | 92704 | 27.8 | Indonesian <translation-team-id@lists.sourceforge.net> | 
- | [mingw-gcc]({{< ref "/f25/package/mingw-gcc.md" >}}) | 25787 | 92704 | 27.8 | Indonesian <translation-team-id@lists.sourceforge.net> | 
- | [dnsmasq]({{< ref "/f25/package/dnsmasq.md" >}}) | 745 | 2846 | 26.2 | Indonesian <translation-team-id@lists.sourceforge.net> | 
- | [mypaint]({{< ref "/f25/package/mypaint.md" >}}) | 1095 | 4213 | 26.0 | Indonesian <id@li.org> | 
- | [monodevelop]({{< ref "/f25/package/monodevelop.md" >}}) | 5944 | 23298 | 25.5 | Indonesian <id@li.org> | 
- | [arm-none-eabi-gcc-cs]({{< ref "/f25/package/arm-none-eabi-gcc-cs.md" >}}) | 24722 | 97195 | 25.4 | Indonesian <translation-team-id@lists.sourceforge.net> | 
- | [maya-calendar]({{< ref "/f25/package/maya-calendar.md" >}}) | 108 | 427 | 25.3 | Indonesian <id@li.org> | 
- | [python-django-debug-toolbar]({{< ref "/f25/package/python-django-debug-toolbar.md" >}}) | 89 | 357 | 24.9 | Indonesian (http://www.transifex.com/projects/p/django-debug-toolbar/language/id/) | 
- | [glpi]({{< ref "/f25/package/glpi.md" >}}) | 2806 | 11270 | 24.9 | Indonesian (Indonesia) (http://www.transifex.com/glpi/GLPI/language/id_ID/) | 
- | [rt]({{< ref "/f25/package/rt.md" >}}) | 2730 | 11186 | 24.4 | Indonesian <id@li.org> | 
- | [easytag]({{< ref "/f25/package/easytag.md" >}}) | 1309 | 5400 | 24.2 | Indonesian <gnome-l10n-id@googlegroups.com> | 
- | [grub2]({{< ref "/f25/package/grub2.md" >}}) | 1633 | 7111 | 23.0 | Indonesian <translation-team-id@lists.sourceforge.net> | 
- | [shadow-utils]({{< ref "/f25/package/shadow-utils.md" >}}) | 887 | 3923 | 22.6 | Debian Indonesia <debid@yahoogroups.com> | 
- | [switchboard-plug-applications]({{< ref "/f25/package/switchboard-plug-applications.md" >}}) | 19 | 85 | 22.4 | LANGUAGE <LL@li.org> | 
- | [blueberry]({{< ref "/f25/package/blueberry.md" >}}) | 31 | 141 | 22.0 | Indonesian <id@li.org> | 
- | [im-chooser]({{< ref "/f25/package/im-chooser.md" >}}) | 52 | 239 | 21.8 | LANGUAGE <LL@li.org> | 
- | [mc]({{< ref "/f25/package/mc.md" >}}) | 885 | 4153 | 21.3 | Indonesian (http://www.transifex.com/mc/mc/language/id/) | 
- | [mcomix]({{< ref "/f25/package/mcomix.md" >}}) | 545 | 2567 | 21.2 | Indonesia <id@li.org> | 
- | [system-config-kdump]({{< ref "/f25/package/system-config-kdump.md" >}}) | 185 | 877 | 21.1 | Indonesian <trans-id@lists.fedoraproject.org> | 
- | [gbrainy]({{< ref "/f25/package/gbrainy.md" >}}) | 1167 | 5680 | 20.5 | GNOME Indonesian Translation Team <gnome@i15n.oeg> | 
- | [nano]({{< ref "/f25/package/nano.md" >}}) | 585 | 2957 | 19.8 | Indonesian <translation-team-id@lists.sourceforge.net> | 
- | [gnupg2]({{< ref "/f25/package/gnupg2.md" >}}) | 2605 | 13208 | 19.7 | Indonesian <translation-team-id@lists.sourceforge.net> | 
- | [lxsession]({{< ref "/f25/package/lxsession.md" >}}) | 145 | 755 | 19.2 | Indonesian <translation-team-id@lists.sourceforge.net> | 
- | [fuse-encfs]({{< ref "/f25/package/fuse-encfs.md" >}}) | 244 | 1289 | 18.9 | Indonesian <id@li.org> | 
- | [publican]({{< ref "/f25/package/publican.md" >}}) | 1027 | 5443 | 18.9 | Fedora Indonesia <trans-id@lists.fedoraproject.org> | 
- | [freeciv]({{< ref "/f25/package/freeciv.md" >}}) | 18075 | 98186 | 18.4 | Indonesian <> | 
- | [pgadmin3]({{< ref "/f25/package/pgadmin3.md" >}}) | 3003 | 16898 | 17.8 | pgAdmin Developers <pgadmin-hackers@postgresql.org> | 
- | [onboard]({{< ref "/f25/package/onboard.md" >}}) | 401 | 2318 | 17.3 | Indonesian <id@li.org> | 
- | [transmission]({{< ref "/f25/package/transmission.md" >}}) | 302 | 1809 | 16.7 | Indonesian <id@li.org> | 
- | [grass]({{< ref "/f25/package/grass.md" >}}) | 3292 | 19802 | 16.6 | deutsch <grass-translations@lists.osgeo.org> | 
- | [switchboard-plug-pantheon-shell]({{< ref "/f25/package/switchboard-plug-pantheon-shell.md" >}}) | 21 | 132 | 15.9 | Indonesian <id@li.org> | 
- | [python-django-formtools]({{< ref "/f25/package/python-django-formtools.md" >}}) | 5 | 32 | 15.6 | Indonesian (http://www.transifex.com/projects/p/django-formtools/language/id/) | 
- | [picard]({{< ref "/f25/package/picard.md" >}}) | 253 | 1625 | 15.6 | Indonesian (http://www.transifex.com/projects/p/musicbrainz/language/id/) | 
- | [aria2]({{< ref "/f25/package/aria2.md" >}}) | 1137 | 7318 | 15.5 | Indonesian <id@li.org> | 
- | [sssd]({{< ref "/f25/package/sssd.md" >}}) | 591 | 3889 | 15.2 | Indonesian (http://www.transifex.com/projects/p/sssd/language/id/) | 
- | [planner]({{< ref "/f25/package/planner.md" >}}) | 166 | 1110 | 15.0 | Indonesian <en@li.org> | 
- | [sugar-measure]({{< ref "/f25/package/sugar-measure.md" >}}) | 23 | 155 | 14.8 | LANGUAGE <LL@li.org> | 
- | [gambas3]({{< ref "/f25/package/gambas3.md" >}}) | 774 | 5254 | 14.7 | LANGUAGE <LL@li.org> | 
- | [pykickstart]({{< ref "/f25/package/pykickstart.md" >}}) | 203 | 1378 | 14.7 | Indonesian (http://www.transifex.com/projects/p/pykickstart/language/id/) | 
- | [system-config-bind]({{< ref "/f25/package/system-config-bind.md" >}}) | 1375 | 9419 | 14.6 | Linux Indonesia <http://www.linux.or.id> | 
- | [wdiff]({{< ref "/f25/package/wdiff.md" >}}) | 127 | 873 | 14.5 | Indonesian <translation-team-id@lists.sourceforge.net> | 
- | [openerp-client]({{< ref "/f25/package/openerp-client.md" >}}) | 1101 | 7729 | 14.2 | Indonesian <id@li.org> | 
- | [gourmet]({{< ref "/f25/package/gourmet.md" >}}) | 561 | 3939 | 14.2 | Indonesian <id@li.org> | 
- | [util-linux]({{< ref "/f25/package/util-linux.md" >}}) | 2832 | 21819 | 13.0 | Indonesian <translation-team-id@lists.sourceforge.net> | 
- | [NetworkManager]({{< ref "/f25/package/NetworkManager.md" >}}) | 1440 | 11095 | 13.0 | GNOME Indonesian Translation Team <gnome@i15n.org> | 
- | [system-config-rootpassword]({{< ref "/f25/package/system-config-rootpassword.md" >}}) | 15 | 116 | 12.9 | BlankOn <http://www.blankonlinux.or.id> | 
- | [glabels]({{< ref "/f25/package/glabels.md" >}}) | 1040 | 8177 | 12.7 | Indonesian <gnome@i15n.org> | 
- | [yum]({{< ref "/f25/package/yum.md" >}}) | 760 | 6138 | 12.4 | LANGUAGE <LL@li.org> | 
- | [system-config-firewall]({{< ref "/f25/package/system-config-firewall.md" >}}) | 343 | 2814 | 12.2 | Bahasa Indonesia <viribus@traderweb.net> | 
- | [viking]({{< ref "/f25/package/viking.md" >}}) | 503 | 4135 | 12.2 | Indonesian <id@li.org> | 
- | [guake]({{< ref "/f25/package/guake.md" >}}) | 129 | 1066 | 12.1 | Indonesian (http://www.transifex.com/projects/p/guake/language/id/) | 
- | [rodent]({{< ref "/f25/package/rodent.md" >}}) | 1123 | 9802 | 11.5 |  | 
- | [openerp]({{< ref "/f25/package/openerp.md" >}}) | 5379 | 48331 | 11.1 | Indonesian <id@li.org> | 
- | [lollypop]({{< ref "/f25/package/lollypop.md" >}}) | 109 | 984 | 11.1 | Indonesian (http://www.transifex.com/gnumdk/lollypop/language/id/) | 
- | [php-horde-Horde-Core]({{< ref "/f25/package/php-horde-Horde-Core.md" >}}) | 84 | 771 | 10.9 | i18n@lists.horde.org | 
- | [gnome-activity-journal]({{< ref "/f25/package/gnome-activity-journal.md" >}}) | 34 | 316 | 10.8 | Indonesian <id@li.org> | 
- | [playonlinux]({{< ref "/f25/package/playonlinux.md" >}}) | 293 | 2728 | 10.7 | Indonesian <id@li.org> | 
- | [php-horde-Horde-Share]({{< ref "/f25/package/php-horde-Horde-Share.md" >}}) | 5 | 48 | 10.4 | i18n@lists.horde.org | 
- | [geeqie]({{< ref "/f25/package/geeqie.md" >}}) | 368 | 3784 | 9.7 | Indonesian <translation-team-id@lists.sourceforge.net> | 
- | [php-horde-Horde-Prefs]({{< ref "/f25/package/php-horde-Horde-Prefs.md" >}}) | 3 | 32 | 9.4 | i18n@lists.horde.org | 
- | [abrt]({{< ref "/f25/package/abrt.md" >}}) | 350 | 3969 | 8.8 | Indonesian (http://www.transifex.com/projects/p/fedora-abrt/language/id/) | 
- | [deluge]({{< ref "/f25/package/deluge.md" >}}) | 218 | 2728 | 8.0 | Indonesian <id@li.org> | 
- | [pychess]({{< ref "/f25/package/pychess.md" >}}) | 348 | 4455 | 7.8 | Indonesian (http://www.transifex.com/gbtami/pychess/language/id/) | 
- | [kf5-kcodecs]({{< ref "/f25/package/kf5-kcodecs.md" >}}) | 27 | 348 | 7.8 | Indonesian <translation-team-id@lists.sourceforge.net> | 
- | [wicd]({{< ref "/f25/package/wicd.md" >}}) | 88 | 1138 | 7.7 | id <LL@li.org> | 
- | [sharutils]({{< ref "/f25/package/sharutils.md" >}}) | 243 | 3147 | 7.7 | Indonesian <translation-team-id@lists.sourceforge.net> | 
- | [genius]({{< ref "/f25/package/genius.md" >}}) | 561 | 7688 | 7.3 | Indonesian <gnome@i15n.org> | 
- | [tortoisehg]({{< ref "/f25/package/tortoisehg.md" >}}) | 866 | 12223 | 7.1 | Indonesian <id@li.org> | 
- | [sugar-memorize]({{< ref "/f25/package/sugar-memorize.md" >}}) | 10 | 142 | 7.0 | LANGUAGE <LL@li.org> | 
- | [openerp7]({{< ref "/f25/package/openerp7.md" >}}) | 3201 | 46012 | 7.0 | Indonesian <id@li.org> | 
- | [php-phpmyadmin-sql-parser]({{< ref "/f25/package/php-phpmyadmin-sql-parser.md" >}}) | 15 | 227 | 6.6 | Indonesian <https://hosted.weblate.org/projects/phpmyadmin/sql-parser/id/> | 
- | [mate-user-guide]({{< ref "/f25/package/mate-user-guide.md" >}}) | 2360 | 40282 | 5.9 | MATE Indonesian Translation Team <mate@i15n.org> | 
- | [pidgin-musictracker]({{< ref "/f25/package/pidgin-musictracker.md" >}}) | 19 | 333 | 5.7 | Indonesian <id@li.org> | 
- | [publican-fedora]({{< ref "/f25/package/publican-fedora.md" >}}) | 6 | 107 | 5.6 | Fedora Indonesia <trans-id@lists.fedoraproject.org> | 
- | [volume_key]({{< ref "/f25/package/volume_key.md" >}}) | 40 | 745 | 5.4 | Indonesian <trans-id@lists.fedoraproject.org> | 
- | [remmina]({{< ref "/f25/package/remmina.md" >}}) | 83 | 1579 | 5.3 | Indonesian <id@li.org> | 
- | [catfish]({{< ref "/f25/package/catfish.md" >}}) | 34 | 650 | 5.2 | Indonesian <id@li.org> | 
- | [spacefm]({{< ref "/f25/package/spacefm.md" >}}) | 453 | 8722 | 5.2 | Indonesian (http://www.transifex.com/projects/p/spacefm/language/id/) | 
- | [sugar-terminal]({{< ref "/f25/package/sugar-terminal.md" >}}) | 6 | 121 | 5.0 | LANGUAGE <LL@li.org> | 
- | [pastebinit]({{< ref "/f25/package/pastebinit.md" >}}) | 9 | 183 | 4.9 | Indonesian <id@li.org> | 
- | [rhn-client-tools]({{< ref "/f25/package/rhn-client-tools.md" >}}) | 170 | 4057 | 4.2 | Indonesian (http://www.transifex.com/projects/p/spacewalk/language/id/) | 
- | [snap-photobooth]({{< ref "/f25/package/snap-photobooth.md" >}}) | 1 | 25 | 4.0 | Indonesian <id@li.org> | 
- | [asunder]({{< ref "/f25/package/asunder.md" >}}) | 19 | 480 | 4.0 | http://littlesvr.ca/ostd/ | 
- | [pyroom]({{< ref "/f25/package/pyroom.md" >}}) | 16 | 411 | 3.9 | Indonesian <id@li.org> | 
- | [rapid-photo-downloader]({{< ref "/f25/package/rapid-photo-downloader.md" >}}) | 71 | 1832 | 3.9 | Indonesian <id@li.org> | 
- | [php-horde-Horde-Image]({{< ref "/f25/package/php-horde-Horde-Image.md" >}}) | 22 | 581 | 3.8 | i18n@lists.horde.org | 
- | [gtg]({{< ref "/f25/package/gtg.md" >}}) | 131 | 3497 | 3.7 | Indonesian <id@li.org> | 
- | [cairo-dock]({{< ref "/f25/package/cairo-dock.md" >}}) | 272 | 7464 | 3.6 | Indonesian <id@li.org> | 
- | [koffice-kivio]({{< ref "/f25/package/koffice-kivio.md" >}}) | 206 | 6385 | 3.2 | Bahasa Indonesia <id@li.org> | 
- | [supertux]({{< ref "/f25/package/supertux.md" >}}) | 94 | 2980 | 3.2 | Indonesian (http://www.transifex.com/arctic-games/supertux/language/id/) | 
- | [elinks]({{< ref "/f25/package/elinks.md" >}}) | 359 | 12245 | 2.9 | Indonesian <translation-team-id@lists.sourceforge.net> | 
- | [widelands]({{< ref "/f25/package/widelands.md" >}}) | 137 | 4940 | 2.8 | Indonesian <id@li.org> | 
- | [light-locker]({{< ref "/f25/package/light-locker.md" >}}) | 7 | 260 | 2.7 | Indonesian (http://www.transifex.com/the_cavalry/light-locker/language/id/) | 
- | [sugar-fototoon]({{< ref "/f25/package/sugar-fototoon.md" >}}) | 2 | 77 | 2.6 | LANGUAGE <LL@li.org> | 
- | [cairo-dock-plug-ins]({{< ref "/f25/package/cairo-dock-plug-ins.md" >}}) | 256 | 10203 | 2.5 | Indonesian <id@li.org> | 
- | [sawfish]({{< ref "/f25/package/sawfish.md" >}}) | 160 | 6443 | 2.5 | INDONESIA <userindesign@gmail.com> | 
- | [calibre]({{< ref "/f25/package/calibre.md" >}}) | 3690 | 152264 | 2.4 | Indonesian (http://www.transifex.com/calibre/calibre/language/id/) | 
- | [php-horde-Horde-Form]({{< ref "/f25/package/php-horde-Horde-Form.md" >}}) | 12 | 553 | 2.2 | i18n@lists.horde.org | 
- | [ailurus]({{< ref "/f25/package/ailurus.md" >}}) | 158 | 7314 | 2.2 | none | 
- | [gegl03]({{< ref "/f25/package/gegl03.md" >}}) | 115 | 5397 | 2.1 | Indonesian <gnome@i15n.org> | 
- | [bzr]({{< ref "/f25/package/bzr.md" >}}) | 695 | 33249 | 2.1 | Indonesian <id@li.org> | 
- | [switchboard-plug-printers]({{< ref "/f25/package/switchboard-plug-printers.md" >}}) | 6 | 288 | 2.1 | Indonesian <https://weblate.elementary.io/projects/switchboard/switchboard-plug-printers/id/> | 
- | [phatch]({{< ref "/f25/package/phatch.md" >}}) | 44 | 2553 | 1.7 | Indonesian <id@li.org> | 
- | [php-horde-Horde-Argv]({{< ref "/f25/package/php-horde-Horde-Argv.md" >}}) | 1 | 60 | 1.7 | i18n@lists.horde.org | 
- | [gala]({{< ref "/f25/package/gala.md" >}}) | 11 | 683 | 1.6 | Indonesian <id@li.org> | 
- | [libvirt]({{< ref "/f25/package/libvirt.md" >}}) | 866 | 58480 | 1.5 | Indonesian (http://www.transifex.com/projects/p/libvirt/language/id/) | 
- | [mingw-libvirt]({{< ref "/f25/package/mingw-libvirt.md" >}}) | 866 | 58480 | 1.5 | Indonesian (http://www.transifex.com/projects/p/libvirt/language/id/) | 
- | [php-horde-Horde-Crypt]({{< ref "/f25/package/php-horde-Horde-Crypt.md" >}}) | 5 | 396 | 1.3 | i18n@lists.horde.org | 
- | [gnome-abrt]({{< ref "/f25/package/gnome-abrt.md" >}}) | 5 | 397 | 1.3 | Indonesian (http://www.transifex.com/projects/p/gnome-abrt/language/id/) | 
- | [switchboard-plug-onlineaccounts]({{< ref "/f25/package/switchboard-plug-onlineaccounts.md" >}}) | 2 | 161 | 1.2 | Indonesian <id@li.org> | 
- | [sugar-infoslicer]({{< ref "/f25/package/sugar-infoslicer.md" >}}) | 2 | 236 | 0.8 | LANGUAGE <LL@li.org> | 
- | [gnumed]({{< ref "/f25/package/gnumed.md" >}}) | 156 | 29401 | 0.5 | LANGUAGE <LL@li.org> | 
- | [sugar-labyrinth]({{< ref "/f25/package/sugar-labyrinth.md" >}}) | 1 | 281 | 0.4 | LANGUAGE <LL@li.org> | 
- | [sugar-typing-turtle]({{< ref "/f25/package/sugar-typing-turtle.md" >}}) | 2 | 599 | 0.3 | LANGUAGE <LL@li.org> | 
- | [php-horde-Horde-Nls]({{< ref "/f25/package/php-horde-Horde-Nls.md" >}}) | 1 | 430 | 0.2 | i18n@lists.horde.org | 
- | [libreport]({{< ref "/f25/package/libreport.md" >}}) | 1 | 4893 | 0.0 | Indonesian (http://www.transifex.com/projects/p/libreport/language/id/) | 
- | [blivet-gui]({{< ref "/f25/package/blivet-gui.md" >}}) | 0 | 696 | 0.0 | Indonesian | 
- | [dnf-plugin-system-upgrade]({{< ref "/f25/package/dnf-plugin-system-upgrade.md" >}}) | 0 | 211 | 0.0 | Indonesian | 
- | [dnf-plugins-extras]({{< ref "/f25/package/dnf-plugins-extras.md" >}}) | 0 | 375 | 0.0 | Indonesian | 
- | [docker-anaconda-addon]({{< ref "/f25/package/docker-anaconda-addon.md" >}}) | 0 | 27 | 0.0 | Indonesian | 
- | [entangle]({{< ref "/f25/package/entangle.md" >}}) | 0 | 935 | 0.0 | Indonesian | 
- | [fonts-tweak-tool]({{< ref "/f25/package/fonts-tweak-tool.md" >}}) | 0 | 164 | 0.0 | Indonesian | 
- | [gpodder]({{< ref "/f25/package/gpodder.md" >}}) | 0 | 1879 | 0.0 | Indonesian (Indonesia) (http://www.transifex.com/projects/p/gpodder/language/id_ID/) | 
- | [icewm]({{< ref "/f25/package/icewm.md" >}}) | 0 | 0 | 0.0 | Indonesia | 
- | [imsettings]({{< ref "/f25/package/imsettings.md" >}}) | 0 | 456 | 0.0 | LANGUAGE <LL@li.org> | 
- | [initial-setup]({{< ref "/f25/package/initial-setup.md" >}}) | 0 | 33 | 0.0 | Indonesian | 
- | [ldm]({{< ref "/f25/package/ldm.md" >}}) | 0 | 55 | 0.0 | Indonesian <id@li.org> | 
- | [libbytesize]({{< ref "/f25/package/libbytesize.md" >}}) | 0 | 17 | 0.0 | Indonesian | 
- | [libgxim]({{< ref "/f25/package/libgxim.md" >}}) | 0 | 124 | 0.0 | LANGUAGE <LL@li.org> | 
- | [libosinfo]({{< ref "/f25/package/libosinfo.md" >}}) | 0 | 662 | 0.0 | Indonesian | 
- | [libvirt-glib]({{< ref "/f25/package/libvirt-glib.md" >}}) | 0 | 145 | 0.0 | Indonesian (http://www.transifex.com/projects/p/libvirt-glib/language/id/) | 
- | [libvirt-sandbox]({{< ref "/f25/package/libvirt-sandbox.md" >}}) | 0 | 617 | 0.0 | Indonesian <trans-id@lists.fedoraproject.org> | 
- | [mingw-libvirt-glib]({{< ref "/f25/package/mingw-libvirt-glib.md" >}}) | 0 | 145 | 0.0 | Indonesian (http://www.transifex.com/projects/p/libvirt-glib/language/id/) | 
- | [moodle]({{< ref "/f25/package/moodle.md" >}}) | 0 | 52 | 0.0 | i18n@lists.horde.org | 
- | [oscap-anaconda-addon]({{< ref "/f25/package/oscap-anaconda-addon.md" >}}) | 0 | 194 | 0.0 | Indonesian (http://www.transifex.com/projects/p/oscap-anaconda-addon/language/id/) | 
- | [osinfo-db-tools]({{< ref "/f25/package/osinfo-db-tools.md" >}}) | 0 | 56 | 0.0 | Indonesian | 
- | [pantheon-agent-polkit]({{< ref "/f25/package/pantheon-agent-polkit.md" >}}) | 0 | 17 | 0.0 | LANGUAGE <LL@li.org> | 
- | [php-horde-Horde-Alarm]({{< ref "/f25/package/php-horde-Horde-Alarm.md" >}}) | 0 | 13 | 0.0 | i18n@lists.horde.org | 
- | [php-horde-Horde-Browser]({{< ref "/f25/package/php-horde-Horde-Browser.md" >}}) | 0 | 66 | 0.0 | i18n@lists.horde.org | 
- | [php-horde-Horde-Cli]({{< ref "/f25/package/php-horde-Horde-Cli.md" >}}) | 0 | 11 | 0.0 | i18n@lists.horde.org | 
- | [php-horde-Horde-Compress]({{< ref "/f25/package/php-horde-Horde-Compress.md" >}}) | 0 | 25 | 0.0 | i18n@lists.horde.org | 
- | [php-horde-Horde-Data]({{< ref "/f25/package/php-horde-Horde-Data.md" >}}) | 0 | 7 | 0.0 | i18n@lists.horde.org | 
- | [php-horde-Horde-Date]({{< ref "/f25/package/php-horde-Horde-Date.md" >}}) | 0 | 36 | 0.0 | i18n@lists.horde.org | 
- | [php-horde-Horde-Exception]({{< ref "/f25/package/php-horde-Horde-Exception.md" >}}) | 0 | 4 | 0.0 | i18n@lists.horde.org | 
- | [php-horde-Horde-Icalendar]({{< ref "/f25/package/php-horde-Horde-Icalendar.md" >}}) | 0 | 3 | 0.0 | i18n@lists.horde.org | 
- | [php-horde-Horde-Imsp]({{< ref "/f25/package/php-horde-Horde-Imsp.md" >}}) | 0 | 14 | 0.0 | i18n@lists.horde.org | 
- | [php-horde-Horde-Itip]({{< ref "/f25/package/php-horde-Horde-Itip.md" >}}) | 0 | 56 | 0.0 | i18n@lists.horde.org | 
- | [php-horde-Horde-Kolab-Storage]({{< ref "/f25/package/php-horde-Horde-Kolab-Storage.md" >}}) | 0 | 120 | 0.0 | i18n@lists.horde.org | 
- | [php-horde-Horde-LoginTasks]({{< ref "/f25/package/php-horde-Horde-LoginTasks.md" >}}) | 0 | 6 | 0.0 | i18n@lists.horde.org | 
- | [php-horde-Horde-Mime]({{< ref "/f25/package/php-horde-Horde-Mime.md" >}}) | 0 | 48 | 0.0 | i18n@lists.horde.org | 
- | [php-horde-Horde-Mime-Viewer]({{< ref "/f25/package/php-horde-Horde-Mime-Viewer.md" >}}) | 0 | 0 | 0.0 | i18n@lists.horde.org | 
- | [php-horde-Horde-Rpc]({{< ref "/f25/package/php-horde-Horde-Rpc.md" >}}) | 0 | 48 | 0.0 | i18n@lists.horde.org | 
- | [php-horde-Horde-SyncMl]({{< ref "/f25/package/php-horde-Horde-SyncMl.md" >}}) | 0 | 3 | 0.0 | i18n@lists.horde.org | 
- | [php-horde-Horde-Text-Filter]({{< ref "/f25/package/php-horde-Horde-Text-Filter.md" >}}) | 0 | 1 | 0.0 | i18n@lists.horde.org | 
- | [php-horde-Horde-Token]({{< ref "/f25/package/php-horde-Horde-Token.md" >}}) | 0 | 0 | 0.0 | i18n@lists.horde.org | 
- | [php-horde-Horde-Vfs]({{< ref "/f25/package/php-horde-Horde-Vfs.md" >}}) | 0 | 10 | 0.0 | i18n@lists.horde.org | 
- | [policycoreutils]({{< ref "/f25/package/policycoreutils.md" >}}) | 0 | 7678 | 0.0 | Indonesian <trans-id@lists.fedoraproject.org> | 
- | [python-django-rest-framework]({{< ref "/f25/package/python-django-rest-framework.md" >}}) | 0 | 562 | 0.0 | Indonesian (http://www.transifex.com/django-rest-framework-1/django-rest-framework/language/id/) | 
- | [python-fedora]({{< ref "/f25/package/python-fedora.md" >}}) | 0 | 214 | 0.0 | Indonesian | 
- | [python-meh]({{< ref "/f25/package/python-meh.md" >}}) | 0 | 109 | 0.0 | Indonesian | 
- | [quassel]({{< ref "/f25/package/quassel.md" >}}) | 0 | 5382 | 0.0 | Indonesian (Indonesia) (http://www.transifex.com/ald/quassel/language/id_ID/) | 
- | [retrace-server]({{< ref "/f25/package/retrace-server.md" >}}) | 0 | 381 | 0.0 | Indonesian | 
- | [rhnsd]({{< ref "/f25/package/rhnsd.md" >}}) | 0 | 33 | 0.0 | Indonesian <trans-id@lists.fedoraproject.org> | 
- | [setroubleshoot]({{< ref "/f25/package/setroubleshoot.md" >}}) | 0 | 13776 | 0.0 | Indonesian <trans-id@lists.fedoraproject.org> | 
- | [setroubleshoot-plugins]({{< ref "/f25/package/setroubleshoot-plugins.md" >}}) | 0 | 207370 | 0.0 | Indonesian <trans-id@lists.fedoraproject.org> | 
- | [snapd]({{< ref "/f25/package/snapd.md" >}}) | 0 | 3717 | 0.0 | Indonesian <id@li.org> | 
- | [sugar-deducto]({{< ref "/f25/package/sugar-deducto.md" >}}) | 0 | 109 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-finance]({{< ref "/f25/package/sugar-finance.md" >}}) | 0 | 189 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-fractionbounce]({{< ref "/f25/package/sugar-fractionbounce.md" >}}) | 0 | 68 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-getiabooks]({{< ref "/f25/package/sugar-getiabooks.md" >}}) | 0 | 119 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-implode]({{< ref "/f25/package/sugar-implode.md" >}}) | 0 | 78 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-maze]({{< ref "/f25/package/sugar-maze.md" >}}) | 0 | 7 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-ruler]({{< ref "/f25/package/sugar-ruler.md" >}}) | 0 | 29 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-story]({{< ref "/f25/package/sugar-story.md" >}}) | 0 | 24 | 0.0 | LANGUAGE <LL@li.org> | 
- | [switchboard-plug-a11y]({{< ref "/f25/package/switchboard-plug-a11y.md" >}}) | 0 | 210 | 0.0 | LANGUAGE <LL@li.org> | 
- | [trac-accountmanager-plugin]({{< ref "/f25/package/trac-accountmanager-plugin.md" >}}) | 0 | 1208 | 0.0 | Indonesian (Indonesia) (http://www.transifex.com/projects/p/Trac_Plugin-L10N/language/id_ID/) | 
- | [tuxpaint-stamps]({{< ref "/f25/package/tuxpaint-stamps.md" >}}) | 0 | 2711 | 0.0 |  | 
- | [ufw]({{< ref "/f25/package/ufw.md" >}}) | 0 | 879 | 0.0 | Indonesian <id@li.org> | 
- | [virt-viewer]({{< ref "/f25/package/virt-viewer.md" >}}) | 0 | 784 | 0.0 | Indonesian | 
- | [vocal]({{< ref "/f25/package/vocal.md" >}}) | 0 | 377 | 0.0 | Indonesian <id@li.org> | 
- | [wingpanel-indicator-keyboard]({{< ref "/f25/package/wingpanel-indicator-keyboard.md" >}}) | 0 | 7 | 0.0 | LANGUAGE <LL@li.org> | 
- | [wingpanel-indicator-power]({{< ref "/f25/package/wingpanel-indicator-power.md" >}}) | 0 | 89 | 0.0 | LANGUAGE <LL@li.org> | 
- | [wingpanel-indicator-sound]({{< ref "/f25/package/wingpanel-indicator-sound.md" >}}) | 0 | 15 | 0.0 | LANGUAGE <LL@li.org> | 
- | [yum-rhn-plugin]({{< ref "/f25/package/yum-rhn-plugin.md" >}}) | 0 | 147 | 0.0 | Indonesian <trans-id@lists.fedoraproject.org> | 
- | [yumex-dnf]({{< ref "/f25/package/yumex-dnf.md" >}}) | 0 | 712 | 0.0 | Indonesian (http://www.transifex.com/timlau/yumex/language/id/) | 
+ | [wallpapoz](/f25/package/wallpapoz) | 400 | 400 | 100.0 | Indonesian <translation-team-id@lists.sourceforge.net> | 
+ | [whaawmp](/f25/package/whaawmp) | 799 | 799 | 100.0 | Indonesian <id@li.org> | 
+ | [wingpanel](/f25/package/wingpanel) | 8 | 8 | 100.0 |  | 
+ | [wingpanel-indicator-bluetooth](/f25/package/wingpanel-indicator-bluetooth) | 17 | 17 | 100.0 | Indonesian <https://l10n.elementary.io/projects/wingpanel/wingpanel-indicator-bluetooth/id/> | 
+ | [wingpanel-indicator-network](/f25/package/wingpanel-indicator-network) | 101 | 101 | 100.0 | Indonesian <https://weblate.elementary.io/projects/wingpanel/wingpanel-indicator-network/id/> | 
+ | [wingpanel-indicator-notifications](/f25/package/wingpanel-indicator-notifications) | 29 | 29 | 100.0 |  | 
+ | [wingpanel-indicator-session](/f25/package/wingpanel-indicator-session) | 54 | 54 | 100.0 |  | 
+ | [wireshark](/f25/package/wireshark) | 79 | 79 | 100.0 | Indonesian (https://www.transifex.com/wireshark/teams/36457/id/) | 
+ | [xarchiver](/f25/package/xarchiver) | 1131 | 1131 | 100.0 | Indonesian <id@li.org> | 
+ | [xdg-user-dirs](/f25/package/xdg-user-dirs) | 28 | 28 | 100.0 | Indonesian <translation-team-id@lists.sourceforge.net> | 
+ | [xdg-user-dirs-gtk](/f25/package/xdg-user-dirs-gtk) | 81 | 81 | 100.0 | INDONESIAN <userindesign@gmail.com> | 
+ | [xdialog](/f25/package/xdialog) | 21 | 21 | 100.0 | Indonesian | 
+ | [xfbib](/f25/package/xfbib) | 342 | 342 | 100.0 | Indonesian <id@li.org> | 
+ | [xfburn](/f25/package/xfburn) | 1329 | 1329 | 100.0 | Indonesian (http://www.transifex.com/projects/p/xfce/language/id/) | 
+ | [xfce4-appfinder](/f25/package/xfce4-appfinder) | 322 | 322 | 100.0 | Indonesian (http://www.transifex.com/projects/p/xfce4-appfinder/language/id/) | 
+ | [xfce4-battery-plugin](/f25/package/xfce4-battery-plugin) | 149 | 149 | 100.0 | Indonesian <id@li.org> | 
+ | [xfce4-clipman-plugin](/f25/package/xfce4-clipman-plugin) | 478 | 478 | 100.0 | Indonesian (http://www.transifex.com/xfce/xfce-panel-plugins/language/id/) | 
+ | [xfce4-cpufreq-plugin](/f25/package/xfce4-cpufreq-plugin) | 140 | 140 | 100.0 | Indonesian (http://www.transifex.com/projects/p/xfce/language/id/) | 
+ | [xfce4-cpugraph-plugin](/f25/package/xfce4-cpugraph-plugin) | 76 | 76 | 100.0 | Indonesian <translation-team-id@lists.sourceforge.net> | 
+ | [xfce4-datetime-plugin](/f25/package/xfce4-datetime-plugin) | 52 | 52 | 100.0 | Indonesian <id@li.org> | 
+ | [xfce4-dict](/f25/package/xfce4-dict) | 518 | 518 | 100.0 | Indonesian <id@li.org> | 
+ | [xfce4-diskperf-plugin](/f25/package/xfce4-diskperf-plugin) | 183 | 183 | 100.0 | Indonesian <id@li.org> | 
+ | [xfce4-embed-plugin](/f25/package/xfce4-embed-plugin) | 219 | 219 | 100.0 | Indonesian <translation-team-id@lists.sourceforge.net> | 
+ | [xfce4-eyes-plugin](/f25/package/xfce4-eyes-plugin) | 15 | 15 | 100.0 | Indonesian <id@li.org> | 
+ | [xfce4-fsguard-plugin](/f25/package/xfce4-fsguard-plugin) | 71 | 71 | 100.0 | Indonesian <id@li.org> | 
+ | [xfce4-genmon-plugin](/f25/package/xfce4-genmon-plugin) | 85 | 85 | 100.0 | Indonesian <id@li.org> | 
+ | [xfce4-mailwatch-plugin](/f25/package/xfce4-mailwatch-plugin) | 657 | 657 | 100.0 | Indonesian <id@li.org> | 
+ | [xfce4-mpc-plugin](/f25/package/xfce4-mpc-plugin) | 76 | 76 | 100.0 | Indonesian (http://www.transifex.com/projects/p/xfce/language/id/) | 
+ | [xfce4-notes-plugin](/f25/package/xfce4-notes-plugin) | 163 | 163 | 100.0 | Indonesian <translation-team-id@lists.sourceforge.net> | 
+ | [xfce4-notifyd](/f25/package/xfce4-notifyd) | 98 | 98 | 100.0 | Indonesian (http://www.transifex.com/projects/p/xfce/language/id/) | 
+ | [xfce4-panel](/f25/package/xfce4-panel) | 1732 | 1732 | 100.0 | Indonesian (http://www.transifex.com/projects/p/xfce4-panel/language/id/) | 
+ | [xfce4-places-plugin](/f25/package/xfce4-places-plugin) | 160 | 160 | 100.0 | Indonesian (http://www.transifex.com/projects/p/xfce/language/id/) | 
+ | [xfce4-screenshooter](/f25/package/xfce4-screenshooter) | 456 | 456 | 100.0 | Indonesian (http://www.transifex.com/projects/p/xfce-apps/language/id/) | 
+ | [xfce4-sensors-plugin](/f25/package/xfce4-sensors-plugin) | 358 | 358 | 100.0 | Indonesian (http://www.transifex.com/projects/p/xfce-panel-plugins/language/id/) | 
+ | [xfce4-session](/f25/package/xfce4-session) | 1066 | 1066 | 100.0 | Indonesian (http://www.transifex.com/projects/p/xfce/language/id/) | 
+ | [xfce4-settings](/f25/package/xfce4-settings) | 1617 | 1617 | 100.0 | Indonesian (http://www.transifex.com/projects/p/xfce4-settings/language/id/) | 
+ | [xfce4-smartbookmark-plugin](/f25/package/xfce4-smartbookmark-plugin) | 22 | 22 | 100.0 | Indonesian <id@li.org> | 
+ | [xfce4-systemload-plugin](/f25/package/xfce4-systemload-plugin) | 70 | 70 | 100.0 | Indonesian (http://www.transifex.com/projects/p/xfce/language/id/) | 
+ | [xfce4-taskmanager](/f25/package/xfce4-taskmanager) | 214 | 214 | 100.0 | Indonesian <id@li.org> | 
+ | [xfce4-time-out-plugin](/f25/package/xfce4-time-out-plugin) | 89 | 89 | 100.0 | Indonesian <id@li.org> | 
+ | [xfce4-verve-plugin](/f25/package/xfce4-verve-plugin) | 47 | 47 | 100.0 | Indonesian <id@li.org> | 
+ | [xfce4-wavelan-plugin](/f25/package/xfce4-wavelan-plugin) | 51 | 51 | 100.0 | Indonesian <id@li.org> | 
+ | [xfce4-xkb-plugin](/f25/package/xfce4-xkb-plugin) | 43 | 43 | 100.0 | Indonesian (http://www.transifex.com/projects/p/xfce/language/id/) | 
+ | [xfconf](/f25/package/xfconf) | 451 | 451 | 100.0 | Indonesian (http://www.transifex.com/projects/p/xfce/language/id/) | 
+ | [xfdesktop](/f25/package/xfdesktop) | 972 | 972 | 100.0 | Indonesian (http://www.transifex.com/projects/p/xfce/language/id/) | 
+ | [xfwm4](/f25/package/xfwm4) | 666 | 666 | 100.0 | Indonesian (http://www.transifex.com/projects/p/xfwm4/language/id/) | 
+ | [xkeyboard-config](/f25/package/xkeyboard-config) | 3513 | 3513 | 100.0 | Indonesian <translation-team-id@lists.sourceforge.net> | 
+ | [xplayer-plparser](/f25/package/xplayer-plparser) | 29 | 29 | 100.0 | Indonesian | 
+ | [xviewer-plugins](/f25/package/xviewer-plugins) | 413 | 413 | 100.0 | GNOME Indonesian Translation Team <gnome@i15n.org> | 
+ | [yelp](/f25/package/yelp) | 448 | 448 | 100.0 | Indonesian <gnome-l10n-id@googlegroups.com> | 
+ | [yelp-xsl](/f25/package/yelp-xsl) | 81 | 81 | 100.0 | Indonesian <gnome@i15n.org> | 
+ | [zenity](/f25/package/zenity) | 891 | 891 | 100.0 | Indonesian <gnome@i15n.org> | 
+ | [poedit](/f25/package/poedit) | 2491 | 2492 | 100.0 | Indonesian | 
+ | [hamster-time-tracker](/f25/package/hamster-time-tracker) | 696 | 697 | 99.9 | GNOME Indonesian Translation Team <gnome@i15n.org> | 
+ | [mate-power-manager](/f25/package/mate-power-manager) | 2720 | 2724 | 99.9 | Indonesian (http://www.transifex.com/mate/MATE/language/id/) | 
+ | [gstreamer](/f25/package/gstreamer) | 1914 | 1917 | 99.8 | Indonesian <translation-team-id@lists.sourceforge.net> | 
+ | [mingw-gstreamer](/f25/package/mingw-gstreamer) | 1914 | 1917 | 99.8 | Indonesian <translation-team-id@lists.sourceforge.net> | 
+ | [kf5-khtml](/f25/package/kf5-khtml) | 1718 | 1721 | 99.8 | Indonesian <translation-team-id@lists.sourceforge.net> | 
+ | [scratch](/f25/package/scratch) | 1467 | 1470 | 99.8 | LANGUAGE <LL@li.org> | 
+ | [xviewer](/f25/package/xviewer) | 1673 | 1677 | 99.8 | Indonesian <gnome-l10n-id@googlegroups.com> | 
+ | [po4a](/f25/package/po4a) | 1941 | 1946 | 99.7 | Indonesian <debian-l10n-indonesian@lists.debian.org> | 
+ | [pacman](/f25/package/pacman) | 5382 | 5398 | 99.7 | Indonesian (http://www.transifex.com/toofishes/archlinux-pacman/language/id/) | 
+ | [compat-wxGTK3-gtk2](/f25/package/compat-wxGTK3-gtk2) | 7657 | 7682 | 99.7 | ID <doplank@gmx.com> | 
+ | [clutter](/f25/package/clutter) | 3047 | 3057 | 99.7 | Indonesian <gnome-l10n-id@googlegroups.com> | 
+ | [avahi](/f25/package/avahi) | 865 | 868 | 99.7 | Indonesian (http://www.transifex.com/lennart/avahi/language/id/) | 
+ | [amarok](/f25/package/amarok) | 15815 | 15872 | 99.6 | Indonesian <translation-team-id@lists.sourceforge.net> | 
+ | [pix](/f25/package/pix) | 3704 | 3718 | 99.6 | GNOME Indonesian Translation Team <gnome@i15n.org> | 
+ | [mingw-gtksourceview3](/f25/package/mingw-gtksourceview3) | 1113 | 1118 | 99.6 | GNOME Indonesian Translation Team <gnome@i15n.org> | 
+ | [usermode](/f25/package/usermode) | 570 | 573 | 99.5 | Indonesian <trans-id@lists.fedoraproject.org> | 
+ | [kf5-ktextwidgets](/f25/package/kf5-ktextwidgets) | 459 | 462 | 99.4 | Indonesian <translation-team-id@lists.sourceforge.net> | 
+ | [system-config-users-docs](/f25/package/system-config-users-docs) | 1054 | 1061 | 99.3 | Indonesian <fedora-trans-id@lists.fedoraproject.org> | 
+ | [gstreamer-plugins-base](/f25/package/gstreamer-plugins-base) | 902 | 908 | 99.3 | Indonesian <translation-team-id@lists.sourceforge.net> | 
+ | [mingw-gstreamer-plugins-base](/f25/package/mingw-gstreamer-plugins-base) | 902 | 908 | 99.3 | Indonesian <translation-team-id@lists.sourceforge.net> | 
+ | [console-setup](/f25/package/console-setup) | 978 | 985 | 99.3 | Debian Indonesia Translators <debian-l10n-indonesian@lists.debian.org> | 
+ | [lxtask](/f25/package/lxtask) | 129 | 130 | 99.2 | Indonesian <translation-team-id@lists.sourceforge.net> | 
+ | [xfce4-mount-plugin](/f25/package/xfce4-mount-plugin) | 338 | 341 | 99.1 | Indonesian <id@li.org> | 
+ | [kf5-sonnet](/f25/package/kf5-sonnet) | 657 | 663 | 99.1 | Indonesian <translation-team-id@lists.sourceforge.net> | 
+ | [kinfocenter](/f25/package/kinfocenter) | 2728 | 2755 | 99.0 | Indonesian <translation-team-id@lists.sourceforge.net> | 
+ | [mate-menu](/f25/package/mate-menu) | 297 | 300 | 99.0 | Indonesian (http://www.transifex.com/mate/MATE/language/id/) | 
+ | [xplayer](/f25/package/xplayer) | 1937 | 1957 | 99.0 | Indonesian <gnome@i15n.org> | 
+ | [exo](/f25/package/exo) | 1399 | 1414 | 98.9 | Indonesian (http://www.transifex.com/projects/p/exo/language/id/) | 
+ | [geany](/f25/package/geany) | 5934 | 5998 | 98.9 | Indonesian | 
+ | [uget](/f25/package/uget) | 1019 | 1031 | 98.8 | Indonesian (http://www.transifex.com/uget/uget/language/id/) | 
+ | [mate-terminal](/f25/package/mate-terminal) | 4387 | 4439 | 98.8 | Indonesian (http://www.transifex.com/mate/MATE/language/id/) | 
+ | [rhythmbox-alternative-toolbar](/f25/package/rhythmbox-alternative-toolbar) | 306 | 310 | 98.7 | Indonesian <id@li.org> | 
+ | [sugar-write](/f25/package/sugar-write) | 119 | 121 | 98.3 | LANGUAGE <LL@li.org> | 
+ | [xfce4-mixer](/f25/package/xfce4-mixer) | 178 | 181 | 98.3 |  | 
+ | [wxGTK3](/f25/package/wxGTK3) | 7565 | 7695 | 98.3 | ID <doplank@gmx.com> | 
+ | [bluedevil](/f25/package/bluedevil) | 461 | 469 | 98.3 | Indonesian <translation-team-id@lists.sourceforge.net> | 
+ | [goffice](/f25/package/goffice) | 6471 | 6584 | 98.3 | Indonesian <gnome@i15n.org> | 
+ | [gstreamer1-plugins-good](/f25/package/gstreamer1-plugins-good) | 747 | 761 | 98.2 | Indonesian <translation-team-id@lists.sourceforge.net> | 
+ | [kpmcore](/f25/package/kpmcore) | 2805 | 2859 | 98.1 | Indonesian <translation-team-id@lists.sourceforge.net> | 
+ | [rednotebook](/f25/package/rednotebook) | 1125 | 1147 | 98.1 | Indonesian <id@li.org> | 
+ | [ksysguard](/f25/package/ksysguard) | 1060 | 1081 | 98.1 | Indonesian <translation-team-id@lists.sourceforge.net> | 
+ | [comix](/f25/package/comix) | 1300 | 1326 | 98.0 | Indonesia <id@li.org> | 
+ | [libepc](/f25/package/libepc) | 144 | 147 | 98.0 | INDONESIA <userindesign@gmail.com> | 
+ | [plasma-oxygen](/f25/package/plasma-oxygen) | 608 | 621 | 97.9 | Indonesian <translation-team-id@lists.sourceforge.net> | 
+ | [claws-mail](/f25/package/claws-mail) | 19572 | 19996 | 97.9 | M.Sulchan Darmawan <bleketux@gmail.com> | 
+ | [kf5-kinit](/f25/package/kf5-kinit) | 131 | 134 | 97.8 | Indonesian <translation-team-id@lists.sourceforge.net> | 
+ | [xfce4-timer-plugin](/f25/package/xfce4-timer-plugin) | 131 | 134 | 97.8 | Indonesian (http://www.transifex.com/projects/p/xfce/language/id/) | 
+ | [plasma-mediacenter](/f25/package/plasma-mediacenter) | 168 | 172 | 97.7 | Indonesian <translation-team-id@lists.sourceforge.net> | 
+ | [visualboyadvance-m](/f25/package/visualboyadvance-m) | 332 | 340 | 97.6 | Indonesian (http://www.transifex.com/projects/p/vba-m/language/id/) | 
+ | [NetworkManager-openconnect](/f25/package/NetworkManager-openconnect) | 5277 | 5406 | 97.6 | Indonesian <gnome@i15n.org> | 
+ | [noise](/f25/package/noise) | 1289 | 1322 | 97.5 | Indonesian <https://l10n.elementary.io/projects/music/music/id/> | 
+ | [nemo-extensions](/f25/package/nemo-extensions) | 251 | 258 | 97.3 | Indonesian <id@li.org> | 
+ | [xfce4-weather-plugin](/f25/package/xfce4-weather-plugin) | 3568 | 3668 | 97.3 | Indonesian (http://www.transifex.com/xfce/xfce-panel-plugins/language/id/) | 
+ | [kf5-kwallet](/f25/package/kf5-kwallet) | 1457 | 1498 | 97.3 | Indonesian <translation-team-id@lists.sourceforge.net> | 
+ | [tar](/f25/package/tar) | 3515 | 3620 | 97.1 | Indonesian <translation-team-id@lists.sourceforge.net> | 
+ | [make](/f25/package/make) | 2219 | 2291 | 96.9 | Indonesian <translation-team-id@lists.sourceforge.net> | 
+ | [blueman](/f25/package/blueman) | 1400 | 1446 | 96.8 | Indonesian (http://www.transifex.com/projects/p/MATE/language/id/) | 
+ | [libidn](/f25/package/libidn) | 414 | 428 | 96.7 | Indonesian <translation-team-id@lists.sourceforge.net> | 
+ | [mingw-libidn](/f25/package/mingw-libidn) | 414 | 428 | 96.7 | Indonesian <translation-team-id@lists.sourceforge.net> | 
+ | [wammu](/f25/package/wammu) | 5078 | 5251 | 96.7 | none | 
+ | [shared-mime-info](/f25/package/shared-mime-info) | 1803 | 1869 | 96.5 | Indonesian (http://www.transifex.com/freedesktop/shared-mime-info/language/id/) | 
+ | [python-django](/f25/package/python-django) | 3424 | 3552 | 96.4 | Indonesian (http://www.transifex.com/django/django/language/id/) | 
+ | [plasma-workspace](/f25/package/plasma-workspace) | 9157 | 9515 | 96.2 | Indonesian <translation-team-id@lists.sourceforge.net> | 
+ | [plasma-systemsettings](/f25/package/plasma-systemsettings) | 179 | 186 | 96.2 | Indonesian | 
+ | [epiphany](/f25/package/epiphany) | 2756 | 2871 | 96.0 | Indonesian <gnome-l10n-id@googlegroups.com> | 
+ | [gedit-latex](/f25/package/gedit-latex) | 449 | 468 | 95.9 | Indonesian <gnome@i15n.org> | 
+ | [gphoto2](/f25/package/gphoto2) | 1673 | 1746 | 95.8 | Indonesian <translation-team-id@lists.sourceforge.net> | 
+ | [kde-partitionmanager](/f25/package/kde-partitionmanager) | 2035 | 2136 | 95.3 | Indonesian <translation-team-id@lists.sourceforge.net> | 
+ | [freedink](/f25/package/freedink) | 179 | 188 | 95.2 | Indonesian <translation-team-id@lists.sourceforge.net> | 
+ | [audacious](/f25/package/audacious) | 731 | 768 | 95.2 | Indonesian (Indonesia) (http://www.transifex.com/jlindgren/audacious/language/id_ID/) | 
+ | [kde-cli-tools](/f25/package/kde-cli-tools) | 1991 | 2097 | 94.9 | Indonesian <translation-team-id@lists.sourceforge.net> | 
+ | [minetest](/f25/package/minetest) | 6071 | 6406 | 94.8 | Indonesian <https://hosted.weblate.org/projects/minetest/minetest/id/> | 
+ | [synapse](/f25/package/synapse) | 779 | 824 | 94.5 | Indonesian <id@li.org> | 
+ | [xfce4-whiskermenu-plugin](/f25/package/xfce4-whiskermenu-plugin) | 236 | 250 | 94.4 | Indonesian (http://www.transifex.com/gottcode/xfce4-whiskermenu-plugin/language/id/) | 
+ | [cpio](/f25/package/cpio) | 1795 | 1902 | 94.4 | Indonesian <translation-team-id@lists.sourceforge.net> | 
+ | [xfce4-terminal](/f25/package/xfce4-terminal) | 2149 | 2281 | 94.2 | Indonesian <translation-team-id@lists.sourceforge.net> | 
+ | [kf5-kxmlgui](/f25/package/kf5-kxmlgui) | 1500 | 1598 | 93.9 | Indonesian <translation-team-id@lists.sourceforge.net> | 
+ | [lxpanel](/f25/package/lxpanel) | 1283 | 1367 | 93.9 | Indonesian <translation-team-id@lists.sourceforge.net> | 
+ | [kf5-kconfigwidgets](/f25/package/kf5-kconfigwidgets) | 303 | 323 | 93.8 | Indonesian <translation-team-id@lists.sourceforge.net> | 
+ | [openconnect](/f25/package/openconnect) | 4890 | 5219 | 93.7 | Indonesian (http://www.transifex.com/projects/p/meego/language/id/) | 
+ | [man-db](/f25/package/man-db) | 8757 | 9352 | 93.6 | Indonesian <translation-team-id@lists.sourceforge.net> | 
+ | [gnome-sudoku](/f25/package/gnome-sudoku) | 364 | 390 | 93.3 | Indonesian <gnome-l10n-id@googlegroups.com> | 
+ | [grep](/f25/package/grep) | 887 | 951 | 93.3 | Indonesian <translation-team-id@lists.sourceforge.net> | 
+ | [gammu](/f25/package/gammu) | 3723 | 3997 | 93.1 | none | 
+ | [frogr](/f25/package/frogr) | 619 | 665 | 93.1 | Indonesian <gnome@i15n.org> | 
+ | [duplicity](/f25/package/duplicity) | 3378 | 3632 | 93.0 | Indonesian <id@li.org> | 
+ | [fetchmail](/f25/package/fetchmail) | 4074 | 4382 | 93.0 | Indonesian <translation-team-id@lists.sourceforge.net> | 
+ | [kf5-kglobalaccel](/f25/package/kf5-kglobalaccel) | 66 | 71 | 93.0 | Indonesian <translation-team-id@lists.sourceforge.net> | 
+ | [popt](/f25/package/popt) | 78 | 84 | 92.9 | Indonesian <translation-team-id@lists.sourceforge.net> | 
+ | [simple-scan](/f25/package/simple-scan) | 526 | 569 | 92.4 | Indonesian <id@li.org> | 
+ | [plasma-desktop](/f25/package/plasma-desktop) | 9497 | 10366 | 91.6 | Indonesian <translation-team-id@lists.sourceforge.net> | 
+ | [xfce4-netload-plugin](/f25/package/xfce4-netload-plugin) | 84 | 92 | 91.3 | Indonesian (http://www.transifex.com/projects/p/xfce/language/id/) | 
+ | [jwhois](/f25/package/jwhois) | 401 | 440 | 91.1 | Indonesian <translation-team-id@lists.sourceforge.net> | 
+ | [evolution](/f25/package/evolution) | 22552 | 24777 | 91.0 | Indonesian <gnome@i15n.org> | 
+ | [python-sphinx](/f25/package/python-sphinx) | 495 | 545 | 90.8 | Indonesian (http://www.transifex.com/sphinx-doc/sphinx-1/language/id/) | 
+ | [orca](/f25/package/orca) | 4766 | 5273 | 90.4 | Indonesian <gnome@i15n.org> | 
+ | [terminator](/f25/package/terminator) | 1272 | 1410 | 90.2 | Indonesian <id@li.org> | 
+ | [xreader](/f25/package/xreader) | 1489 | 1653 | 90.1 | Indonesian (http://www.transifex.com/mate/MATE/language/id/) | 
+ | [radiotray](/f25/package/radiotray) | 117 | 130 | 90.0 | Indonesian (http://www.transifex.com/projects/p/radiotray/language/id/) | 
+ | [kf5-kdeclarative](/f25/package/kf5-kdeclarative) | 98 | 109 | 89.9 | Indonesian <translation-team-id@lists.sourceforge.net> | 
+ | [wesnoth](/f25/package/wesnoth) | 229877 | 256016 | 89.8 | none | 
+ | [kf5-kconfig](/f25/package/kf5-kconfig) | 233 | 260 | 89.6 | Indonesian <translation-team-id@lists.sourceforge.net> | 
+ | [grsync](/f25/package/grsync) | 1021 | 1141 | 89.5 | Indonesian <was.uthm@gmail.com> | 
+ | [sugar-clock](/f25/package/sugar-clock) | 59 | 66 | 89.4 | LANGUAGE <LL@li.org> | 
+ | [ejabberd](/f25/package/ejabberd) | 1688 | 1897 | 89.0 | SmartCommunity <http://jsmart.web.id> | 
+ | [parted](/f25/package/parted) | 3917 | 4416 | 88.7 | Indonesian <translation-team-id@lists.sourceforge.net> | 
+ | [libksysguard](/f25/package/libksysguard) | 2461 | 2783 | 88.4 | Indonesian <translation-team-id@lists.sourceforge.net> | 
+ | [kf5-knewstuff](/f25/package/kf5-knewstuff) | 609 | 689 | 88.4 | Indonesian <translation-team-id@lists.sourceforge.net> | 
+ | [control-center](/f25/package/control-center) | 5729 | 6503 | 88.1 | LDP Indonesia <http://www.linux.or.id> | 
+ | [gnome-hearts](/f25/package/gnome-hearts) | 359 | 409 | 87.8 | Indonesian <id@li.org> | 
+ | [glibc](/f25/package/glibc) | 7078 | 8077 | 87.6 | Indonesian <translation-team-id@lists.sourceforge.net> | 
+ | [glibc-arm-linux-gnu](/f25/package/glibc-arm-linux-gnu) | 7078 | 8077 | 87.6 | Indonesian <translation-team-id@lists.sourceforge.net> | 
+ | [xfmpc](/f25/package/xfmpc) | 146 | 167 | 87.4 | Indonesian <translation-team-id@lists.sourceforge.net> | 
+ | [mailnag](/f25/package/mailnag) | 179 | 205 | 87.3 | Indonesian <id@li.org> | 
+ | [california](/f25/package/california) | 577 | 662 | 87.2 | Indonesian <gnome-l10n-id@googlegroups.com> | 
+ | [kf5-kwidgetsaddons](/f25/package/kf5-kwidgetsaddons) | 1140 | 1311 | 87.0 | Indonesian <translation-team-id@lists.sourceforge.net> | 
+ | [l3afpad](/f25/package/l3afpad) | 113 | 130 | 86.9 | Indonesian <translation-team-id@lists.sourceforge.net> | 
+ | [cflow](/f25/package/cflow) | 525 | 606 | 86.6 | Indonesian <translation-team-id@lists.sourceforge.net> | 
+ | [kwin](/f25/package/kwin) | 5387 | 6231 | 86.5 | Indonesian <translation-team-id@lists.sourceforge.net> | 
+ | [jmol](/f25/package/jmol) | 2735 | 3166 | 86.4 | Indonesian <id@li.org> | 
+ | [chromium-native_client](/f25/package/chromium-native_client) | 130698 | 151872 | 86.1 | Indonesian <translation-team-id@lists.sourceforge.net> | 
+ | [gnome-software](/f25/package/gnome-software) | 2113 | 2456 | 86.0 | Indonesian <gnome@i15n.org> | 
+ | [squirrelmail](/f25/package/squirrelmail) | 6644 | 7754 | 85.7 | Bahasa Indonesia <squirrelmail-i18n@lists.sourceforge.net> | 
+ | [xfce4-power-manager](/f25/package/xfce4-power-manager) | 836 | 979 | 85.4 | Indonesian (http://www.transifex.com/projects/p/xfce4-power-manager/language/id/) | 
+ | [sed](/f25/package/sed) | 466 | 548 | 85.0 | Indonesian <translation-team-id@lists.sourceforge.net> | 
+ | [hexchat](/f25/package/hexchat) | 4993 | 5934 | 84.1 | Indonesian (http://www.transifex.com/hexchat/hexchat/language/id/) | 
+ | [glade3](/f25/package/glade3) | 3982 | 4737 | 84.1 | GNOME Indonesian Translation Team <gnome@i15n.org> | 
+ | [kde-l10n](/f25/package/kde-l10n) | 57279 | 68149 | 84.0 | Indonesian <translation-team-id@lists.sourceforge.net> | 
+ | [plasma-discover](/f25/package/plasma-discover) | 849 | 1015 | 83.6 | Indonesian <translation-team-id@lists.sourceforge.net> | 
+ | [shutter](/f25/package/shutter) | 2584 | 3093 | 83.5 | Indonesian <id@li.org> | 
+ | [kf5-kservice](/f25/package/kf5-kservice) | 140 | 170 | 82.4 | Indonesian <translation-team-id@lists.sourceforge.net> | 
+ | [sugar-abacus](/f25/package/sugar-abacus) | 28 | 34 | 82.4 | LANGUAGE <LL@li.org> | 
+ | [appcenter](/f25/package/appcenter) | 560 | 681 | 82.2 | Indonesian <https://weblate.elementary.io/projects/appcenter/appcenter/id/> | 
+ | [xmms](/f25/package/xmms) | 2824 | 3443 | 82.0 | Indonesia <rac@linux-mandrake.com> | 
+ | [mingw-gettext](/f25/package/mingw-gettext) | 6319 | 7783 | 81.2 | Indonesian <translation-team-id@lists.sourceforge.net> | 
+ | [iagno](/f25/package/iagno) | 254 | 313 | 81.2 | Indonesian <gnome-l10n-id@googlegroups.com> | 
+ | [gettext](/f25/package/gettext) | 6319 | 7794 | 81.1 | Indonesian <translation-team-id@lists.sourceforge.net> | 
+ | [gnome-builder](/f25/package/gnome-builder) | 2491 | 3085 | 80.7 | Indonesian <gnome-l10n-id@googlegroups.com> | 
+ | [minicom](/f25/package/minicom) | 1431 | 1789 | 80.0 | Indonesian <translation-team-id@lists.sourceforge.net> | 
+ | [corebird](/f25/package/corebird) | 434 | 548 | 79.2 | Indonesian (Indonesia) (http://www.transifex.com/corebird/corebird/language/id_ID/) | 
+ | [texinfo](/f25/package/texinfo) | 4316 | 5459 | 79.1 | Indonesian <translation-team-id@lists.sourceforge.net> | 
+ | [shotwell](/f25/package/shotwell) | 5293 | 6759 | 78.3 | Indonesian <gnome@i15n.org> | 
+ | [system-config-printer](/f25/package/system-config-printer) | 2459 | 3158 | 77.9 | Indonesian (http://www.transifex.com/projects/p/system-config-printer/language/id/) | 
+ | [gridengine](/f25/package/gridengine) | 1592 | 2047 | 77.8 | Indonesian <translation-team-id@lists.sourceforge.net> | 
+ | [digikam](/f25/package/digikam) | 1514 | 1953 | 77.5 | Indonesian <translation-team-id@lists.sourceforge.net> | 
+ | [gnome-do](/f25/package/gnome-do) | 473 | 612 | 77.3 | Indonesian <id@li.org> | 
+ | [storaged](/f25/package/storaged) | 1485 | 1929 | 77.0 | Indonesian | 
+ | [gnome-taquin](/f25/package/gnome-taquin) | 171 | 223 | 76.7 | Indonesian | 
+ | [avogadro](/f25/package/avogadro) | 5065 | 6607 | 76.7 | Indonesian <id@li.org> | 
+ | [xed](/f25/package/xed) | 3448 | 4508 | 76.5 | Indonesian (http://www.transifex.com/projects/p/MATE/language/id/) | 
+ | [initscripts](/f25/package/initscripts) | 767 | 1003 | 76.5 | Indonesian <trans-id@lists.fedoraproject.org> | 
+ | [mutt](/f25/package/mutt) | 4425 | 5790 | 76.4 | Indonesian <web@linux.or.id> | 
+ | [wxPython](/f25/package/wxPython) | 7716 | 10139 | 76.1 | ID <doplank@gmx.com> | 
+ | [zathura](/f25/package/zathura) | 448 | 590 | 75.9 | Indonesian (Indonesia) (http://www.transifex.com/projects/p/zathura/language/id_ID/) | 
+ | [fwupd](/f25/package/fwupd) | 472 | 622 | 75.9 | Indonesian (http://www.transifex.com/freedesktop/fwupd/language/id/) | 
+ | [modem-manager-gui](/f25/package/modem-manager-gui) | 2303 | 3111 | 74.0 | Indonesian (http://www.transifex.com/ethereal/modem-manager-gui/language/id/) | 
+ | [dia](/f25/package/dia) | 4210 | 5711 | 73.7 | Indonesia <l10n@id.gnome.org> | 
+ | [kf5-kcoreaddons](/f25/package/kf5-kcoreaddons) | 212 | 291 | 72.9 | Indonesian <translation-team-id@lists.sourceforge.net> | 
+ | [slick-greeter](/f25/package/slick-greeter) | 152 | 211 | 72.0 | Indonesian <id@li.org> | 
+ | [kflickr](/f25/package/kflickr) | 239 | 332 | 72.0 | Indonesian <id@li.org> | 
+ | [cinnamon-translations](/f25/package/cinnamon-translations) | 16424 | 22931 | 71.6 | Indonesian <id@li.org> | 
+ | [git-cola](/f25/package/git-cola) | 1487 | 2077 | 71.6 | Indonesian | 
+ | [plank](/f25/package/plank) | 135 | 189 | 71.4 | Indonesian <id@li.org> | 
+ | [powerdevil](/f25/package/powerdevil) | 477 | 673 | 70.9 | Indonesian <translation-team-id@lists.sourceforge.net> | 
+ | [balsa](/f25/package/balsa) | 3922 | 5624 | 69.7 | Indonesian <l10n@id.gnome.org> | 
+ | [lyx](/f25/package/lyx) | 16161 | 23247 | 69.5 | Indonesian <was.uthm@gmail.com> | 
+ | [libuser](/f25/package/libuser) | 996 | 1437 | 69.3 | Indonesian (http://www.transifex.com/projects/p/fedora/language/id/) | 
+ | [deja-dup](/f25/package/deja-dup) | 2800 | 4100 | 68.3 | Indonesian <id@li.org> | 
+ | [msp430-gcc](/f25/package/msp430-gcc) | 45344 | 66518 | 68.2 | Indonesian <translation-team-id@lists.sourceforge.net> | 
+ | [psmisc](/f25/package/psmisc) | 633 | 929 | 68.1 | Indonesian <translation-team-id@lists.sourceforge.net> | 
+ | [pantheon-files](/f25/package/pantheon-files) | 1820 | 2676 | 68.0 | Indonesian <id@li.org> | 
+ | [kf5-kdelibs4support](/f25/package/kf5-kdelibs4support) | 3268 | 4813 | 67.9 | Indonesian <translation-team-id@lists.sourceforge.net> | 
+ | [mingw-qt5-qtwebkit](/f25/package/mingw-qt5-qtwebkit) | 1785 | 2631 | 67.8 | GNOME Indonesian Translation Team <gnome@i15n.org> | 
+ | [mingw-webkitgtk](/f25/package/mingw-webkitgtk) | 1777 | 2623 | 67.7 | GNOME Indonesian Translation Team <gnome@i15n.org> | 
+ | [mingw-webkitgtk3](/f25/package/mingw-webkitgtk3) | 1777 | 2623 | 67.7 | GNOME Indonesian Translation Team <gnome@i15n.org> | 
+ | [openjfx](/f25/package/openjfx) | 1777 | 2623 | 67.7 | GNOME Indonesian Translation Team <gnome@i15n.org> | 
+ | [webkitgtk](/f25/package/webkitgtk) | 1777 | 2623 | 67.7 | GNOME Indonesian Translation Team <gnome@i15n.org> | 
+ | [webkitgtk3](/f25/package/webkitgtk3) | 1777 | 2623 | 67.7 | GNOME Indonesian Translation Team <gnome@i15n.org> | 
+ | [webkitgtk4](/f25/package/webkitgtk4) | 1777 | 2623 | 67.7 | GNOME Indonesian Translation Team <gnome@i15n.org> | 
+ | [ccsm](/f25/package/ccsm) | 392 | 579 | 67.7 | Indonesian <id@li.org> | 
+ | [midori](/f25/package/midori) | 2396 | 3541 | 67.7 | Indonesian <translation-team-id@lists.sourceforge.net> | 
+ | [plasma-sdk](/f25/package/plasma-sdk) | 292 | 436 | 67.0 | Indonesian <translation-team-id@lists.sourceforge.net> | 
+ | [kf5-knotifyconfig](/f25/package/kf5-knotifyconfig) | 86 | 129 | 66.7 | Indonesian <translation-team-id@lists.sourceforge.net> | 
+ | [pantheon-calculator](/f25/package/pantheon-calculator) | 52 | 78 | 66.7 | Indonesian <https://l10n.elementary.io/projects/calculator/calculator/id/> | 
+ | [php-horde-Horde-Perms](/f25/package/php-horde-Horde-Perms) | 4 | 6 | 66.7 | i18n@lists.horde.org | 
+ | [powertop](/f25/package/powertop) | 407 | 611 | 66.6 | Indonesian (Indonesia) (http://www.transifex.com/projects/p/PowerTOP/language/id_ID/) | 
+ | [pidgin](/f25/package/pidgin) | 10370 | 15756 | 65.8 | Indonesian (http://www.transifex.com/pidgin/pidgin/language/id/) | 
+ | [librfm](/f25/package/librfm) | 1534 | 2397 | 64.0 | Indonesian <translation-team-id@lists.sourceforge.net> | 
+ | [anaconda](/f25/package/anaconda) | 4525 | 7092 | 63.8 | Indonesian (http://www.transifex.com/projects/p/anaconda/language/id/) | 
+ | [kbd](/f25/package/kbd) | 1513 | 2372 | 63.8 | Indonesian <translation-team-id@lists.sourceforge.net> | 
+ | [screenshot-tool](/f25/package/screenshot-tool) | 93 | 146 | 63.7 |  | 
+ | [empathy](/f25/package/empathy) | 6831 | 10829 | 63.1 | Indonesian <gnome-l10n-id@googlegroups.com> | 
+ | [bash](/f25/package/bash) | 6943 | 11178 | 62.1 | Indonesian <translation-team-id@lists.sourceforge.net> | 
+ | [kexec-tools](/f25/package/kexec-tools) | 51 | 83 | 61.4 | LANGUAGE <LL@li.org> | 
+ | [txt2regex](/f25/package/txt2regex) | 170 | 277 | 61.4 | Bahasa txt2regex LangTeam <faizal@mfaizal.net> | 
+ | [yakuake](/f25/package/yakuake) | 965 | 1573 | 61.3 | Indonesian <translation-team-id@lists.sourceforge.net> | 
+ | [arduino](/f25/package/arduino) | 1571 | 2566 | 61.2 | Indonesian (http://www.transifex.com/projects/p/arduino-ide-15/language/id/) | 
+ | [mingw-wxWidgets](/f25/package/mingw-wxWidgets) | 3896 | 6391 | 61.0 | ID <i-am-the-boss@bpdp.org> | 
+ | [wxGTK](/f25/package/wxGTK) | 3896 | 6391 | 61.0 | ID <i-am-the-boss@bpdp.org> | 
+ | [authconfig](/f25/package/authconfig) | 1032 | 1715 | 60.2 | Indonesian (http://www.transifex.com/projects/p/fedora/language/id/) | 
+ | [wingpanel-indicator-datetime](/f25/package/wingpanel-indicator-datetime) | 12 | 20 | 60.0 | LANGUAGE <LL@li.org> | 
+ | [lxterminal](/f25/package/lxterminal) | 147 | 247 | 59.5 | Indonesian <translation-team-id@lists.sourceforge.net> | 
+ | [texi2html](/f25/package/texi2html) | 974 | 1643 | 59.3 | Indonesian <translation-team-id@lists.sourceforge.net> | 
+ | [dpkg](/f25/package/dpkg) | 6499 | 10990 | 59.1 | Indonesian <debian-l10n-indonesian@lists.debian.org> | 
+ | [findutils](/f25/package/findutils) | 1474 | 2568 | 57.4 | Indonesian <translation-team-id@lists.sourceforge.net> | 
+ | [moin](/f25/package/moin) | 2860 | 5044 | 56.7 |  | 
+ | [mintmenu](/f25/package/mintmenu) | 4229 | 7472 | 56.6 | Indonesian <id@li.org> | 
+ | [steadyflow](/f25/package/steadyflow) | 265 | 470 | 56.4 | Indonesian <id@li.org> | 
+ | [sugar-moon](/f25/package/sugar-moon) | 65 | 117 | 55.6 | LANGUAGE <LL@li.org> | 
+ | [kf5-kauth](/f25/package/kf5-kauth) | 39 | 73 | 53.4 | Indonesian <translation-team-id@lists.sourceforge.net> | 
+ | [inkscape](/f25/package/inkscape) | 20114 | 37939 | 53.0 | Indonesian <was.uthm@gmail.com> | 
+ | [system-config-users](/f25/package/system-config-users) | 794 | 1521 | 52.2 | Indonesian <trans-id@lists.fedoraproject.org> | 
+ | [nacl-arm-gcc](/f25/package/nacl-arm-gcc) | 41453 | 80406 | 51.6 | Indonesian <translation-team-id@lists.sourceforge.net> | 
+ | [gnupg](/f25/package/gnupg) | 4440 | 8640 | 51.4 | Indonesian <translation-team-id@lists.sourceforge.net> | 
+ | [appstream](/f25/package/appstream) | 413 | 815 | 50.7 | Indonesian <https://hosted.weblate.org/projects/appstream/translations/id/> | 
+ | [e2fsprogs](/f25/package/e2fsprogs) | 4966 | 10066 | 49.3 | Indonesian <translation-team-id@lists.sourceforge.net> | 
+ | [lightdm](/f25/package/lightdm) | 79 | 163 | 48.5 | Indonesian <id@li.org> | 
+ | [backintime](/f25/package/backintime) | 959 | 1983 | 48.4 | Indonesian <id@li.org> | 
+ | [wget](/f25/package/wget) | 1860 | 3876 | 48.0 | Indonesian <translation-team-id@lists.sourceforge.net> | 
+ | [zabbix](/f25/package/zabbix) | 7554 | 15811 | 47.8 | none | 
+ | [xpad](/f25/package/xpad) | 191 | 406 | 47.0 | Indonesian <id@li.org> | 
+ | [gdesklets](/f25/package/gdesklets) | 717 | 1528 | 46.9 | Indonesian <id@li.org> | 
+ | [xcdroast](/f25/package/xcdroast) | 3743 | 8044 | 46.5 | Indonesian | 
+ | [php-horde-horde](/f25/package/php-horde-horde) | 1600 | 3474 | 46.1 | id <id@li.org> | 
+ | [pinta](/f25/package/pinta) | 743 | 1618 | 45.9 | Indonesian <permataharahap@gmail.com> | 
+ | [exaile](/f25/package/exaile) | 1812 | 4006 | 45.2 | Indonesian <id@li.org> | 
+ | [coreutils](/f25/package/coreutils) | 9254 | 20601 | 44.9 | Indonesian <translation-team-id@lists.sourceforge.net> | 
+ | [skychart](/f25/package/skychart) | 760 | 1702 | 44.7 | Zaenal Mutaqin <ade999@gmail.com> | 
+ | [audacity](/f25/package/audacity) | 5780 | 12968 | 44.6 |  | 
+ | [granite](/f25/package/granite) | 69 | 156 | 44.2 | Indonesian <id@li.org> | 
+ | [libreoffice](/f25/package/libreoffice) | 241098 | 556861 | 43.3 | LANGUAGE <LL@li.org> | 
+ | [NetworkManager-l2tp](/f25/package/NetworkManager-l2tp) | 339 | 783 | 43.3 | Indonesian Translator <gnome@i15n.org> | 
+ | [sugar-turtleart](/f25/package/sugar-turtleart) | 631 | 1459 | 43.2 | LANGUAGE <LL@li.org> | 
+ | [umit](/f25/package/umit) | 1959 | 4593 | 42.7 | Bahasa Indonesia <id_ID@li.org> | 
+ | [NetworkManager-ssh](/f25/package/NetworkManager-ssh) | 120 | 286 | 42.0 | GNOME Indonesian Translation Team <gnome@i15n.org> | 
+ | [bison](/f25/package/bison) | 594 | 1416 | 41.9 | Indonesian <translation-team-id@lists.sourceforge.net> | 
+ | [scratch-text-editor](/f25/package/scratch-text-editor) | 369 | 890 | 41.5 | Indonesian <id@li.org> | 
+ | [cinnamon-control-center](/f25/package/cinnamon-control-center) | 539 | 1313 | 41.1 | LDP Indonesia <http://www.linux.or.id> | 
+ | [sugar-chat](/f25/package/sugar-chat) | 56 | 137 | 40.9 | LANGUAGE <LL@li.org> | 
+ | [lightdm-gtk](/f25/package/lightdm-gtk) | 34 | 84 | 40.5 | Indonesian <id@li.org> | 
+ | [kBuild](/f25/package/kBuild) | 204 | 505 | 40.4 | Indonesian <translation-team-id@lists.sourceforge.net> | 
+ | [gnumeric](/f25/package/gnumeric) | 15140 | 37552 | 40.3 | Indonesia <gnome@i15n.org> | 
+ | [pogo](/f25/package/pogo) | 231 | 576 | 40.1 | Indonesian <id@li.org> | 
+ | [iso-codes](/f25/package/iso-codes) | 9189 | 23086 | 39.8 | Indonesian <translation-team-id@lists.sourceforge.net> | 
+ | [subdownloader](/f25/package/subdownloader) | 384 | 968 | 39.7 | LANGUAGE <LL@li.org> | 
+ | [gnome-shell-extension-openweather](/f25/package/gnome-shell-extension-openweather) | 244 | 619 | 39.4 | Indonesian <> | 
+ | [gmpc](/f25/package/gmpc) | 7 | 18 | 38.9 | Indonesian <id@li.org> | 
+ | [unetbootin](/f25/package/unetbootin) | 1204 | 3159 | 38.1 | Indonesian <id@li.org> | 
+ | [colord](/f25/package/colord) | 722 | 1928 | 37.4 | Indonesian (http://www.transifex.com/hughsie/colord/language/id/) | 
+ | [gnome-user-docs](/f25/package/gnome-user-docs) | 21127 | 57807 | 36.5 | Indonesian <gnome@i15n.org> | 
+ | [pam](/f25/package/pam) | 215 | 597 | 36.0 | Indonesian <trans-id@lists.fedoraproject.org> | 
+ | [homebank](/f25/package/homebank) | 816 | 2283 | 35.7 | Indonesian <id@li.org> | 
+ | [diffutils](/f25/package/diffutils) | 643 | 1800 | 35.7 | Indonesian <translation-team-id@lists.sourceforge.net> | 
+ | [dnf](/f25/package/dnf) | 671 | 1886 | 35.6 | Indonesian (http://www.transifex.com/projects/p/dnf/language/id/) | 
+ | [audacious-plugins](/f25/package/audacious-plugins) | 1363 | 3904 | 34.9 | Indonesian (Indonesia) (http://www.transifex.com/jlindgren/audacious/language/id_ID/) | 
+ | [python-blivet](/f25/package/python-blivet) | 240 | 692 | 34.7 | Indonesian (http://www.transifex.com/projects/p/blivet/language/id/) | 
+ | [kamoso](/f25/package/kamoso) | 41 | 119 | 34.5 | Indonesian <translation-team-id@lists.sourceforge.net> | 
+ | [sos](/f25/package/sos) | 41 | 122 | 33.6 | none | 
+ | [dnfdragora](/f25/package/dnfdragora) | 199 | 596 | 33.4 | Indonesian (https://www.transifex.com/MageiaLinux/teams/9361/id/) | 
+ | [manaplus](/f25/package/manaplus) | 1445 | 4384 | 33.0 | Indonesian (http://www.transifex.com/projects/p/manaplus/language/id/) | 
+ | [gnome-gmail](/f25/package/gnome-gmail) | 61 | 187 | 32.6 | Indonesian <id@li.org> | 
+ | [lazarus](/f25/package/lazarus) | 10066 | 30924 | 32.6 | Zaenal Mutaqin <ade999@gmail.com> | 
+ | [python-blivet1](/f25/package/python-blivet1) | 225 | 696 | 32.3 | Indonesian | 
+ | [switchboard-plug-keyboard](/f25/package/switchboard-plug-keyboard) | 118 | 371 | 31.8 | Indonesian <id@li.org> | 
+ | [gimp](/f25/package/gimp) | 8795 | 28280 | 31.1 | Indonesian <gnome@i15n.org> | 
+ | [feedreader](/f25/package/feedreader) | 282 | 926 | 30.5 | Indonesian (http://www.transifex.com/dev-feedreader/feedreader/language/id/) | 
+ | [switchboard-plug-display](/f25/package/switchboard-plug-display) | 10 | 33 | 30.3 | Indonesian <id@li.org> | 
+ | [kicad](/f25/package/kicad) | 9340 | 31206 | 29.9 | Indonesian | 
+ | [certmonger](/f25/package/certmonger) | 721 | 2478 | 29.1 | Indonesian (http://www.transifex.com/projects/p/certmonger/language/id/) | 
+ | [mingw-colord](/f25/package/mingw-colord) | 540 | 1885 | 28.6 | Indonesian (http://www.transifex.com/projects/p/colord/language/id/) | 
+ | [stellarium](/f25/package/stellarium) | 6847 | 24002 | 28.5 | Indonesian <id@li.org> | 
+ | [libmypaint](/f25/package/libmypaint) | 438 | 1537 | 28.5 | Indonesian <https://hosted.weblate.org/projects/mypaint/libmypaint/id/> | 
+ | [cryptsetup](/f25/package/cryptsetup) | 703 | 2507 | 28.0 | Indonesian <translation-team-id@lists.sourceforge.net> | 
+ | [cross-gcc](/f25/package/cross-gcc) | 25772 | 92305 | 27.9 | Indonesian <translation-team-id@lists.sourceforge.net> | 
+ | [avr-gcc](/f25/package/avr-gcc) | 25787 | 92704 | 27.8 | Indonesian <translation-team-id@lists.sourceforge.net> | 
+ | [gcc](/f25/package/gcc) | 25787 | 92704 | 27.8 | Indonesian <translation-team-id@lists.sourceforge.net> | 
+ | [ghdl](/f25/package/ghdl) | 25787 | 92704 | 27.8 | Indonesian <translation-team-id@lists.sourceforge.net> | 
+ | [mingw-gcc](/f25/package/mingw-gcc) | 25787 | 92704 | 27.8 | Indonesian <translation-team-id@lists.sourceforge.net> | 
+ | [dnsmasq](/f25/package/dnsmasq) | 745 | 2846 | 26.2 | Indonesian <translation-team-id@lists.sourceforge.net> | 
+ | [mypaint](/f25/package/mypaint) | 1095 | 4213 | 26.0 | Indonesian <id@li.org> | 
+ | [monodevelop](/f25/package/monodevelop) | 5944 | 23298 | 25.5 | Indonesian <id@li.org> | 
+ | [arm-none-eabi-gcc-cs](/f25/package/arm-none-eabi-gcc-cs) | 24722 | 97195 | 25.4 | Indonesian <translation-team-id@lists.sourceforge.net> | 
+ | [maya-calendar](/f25/package/maya-calendar) | 108 | 427 | 25.3 | Indonesian <id@li.org> | 
+ | [python-django-debug-toolbar](/f25/package/python-django-debug-toolbar) | 89 | 357 | 24.9 | Indonesian (http://www.transifex.com/projects/p/django-debug-toolbar/language/id/) | 
+ | [glpi](/f25/package/glpi) | 2806 | 11270 | 24.9 | Indonesian (Indonesia) (http://www.transifex.com/glpi/GLPI/language/id_ID/) | 
+ | [rt](/f25/package/rt) | 2730 | 11186 | 24.4 | Indonesian <id@li.org> | 
+ | [easytag](/f25/package/easytag) | 1309 | 5400 | 24.2 | Indonesian <gnome-l10n-id@googlegroups.com> | 
+ | [grub2](/f25/package/grub2) | 1633 | 7111 | 23.0 | Indonesian <translation-team-id@lists.sourceforge.net> | 
+ | [shadow-utils](/f25/package/shadow-utils) | 887 | 3923 | 22.6 | Debian Indonesia <debid@yahoogroups.com> | 
+ | [switchboard-plug-applications](/f25/package/switchboard-plug-applications) | 19 | 85 | 22.4 | LANGUAGE <LL@li.org> | 
+ | [blueberry](/f25/package/blueberry) | 31 | 141 | 22.0 | Indonesian <id@li.org> | 
+ | [im-chooser](/f25/package/im-chooser) | 52 | 239 | 21.8 | LANGUAGE <LL@li.org> | 
+ | [mc](/f25/package/mc) | 885 | 4153 | 21.3 | Indonesian (http://www.transifex.com/mc/mc/language/id/) | 
+ | [mcomix](/f25/package/mcomix) | 545 | 2567 | 21.2 | Indonesia <id@li.org> | 
+ | [system-config-kdump](/f25/package/system-config-kdump) | 185 | 877 | 21.1 | Indonesian <trans-id@lists.fedoraproject.org> | 
+ | [gbrainy](/f25/package/gbrainy) | 1167 | 5680 | 20.5 | GNOME Indonesian Translation Team <gnome@i15n.oeg> | 
+ | [nano](/f25/package/nano) | 585 | 2957 | 19.8 | Indonesian <translation-team-id@lists.sourceforge.net> | 
+ | [gnupg2](/f25/package/gnupg2) | 2605 | 13208 | 19.7 | Indonesian <translation-team-id@lists.sourceforge.net> | 
+ | [lxsession](/f25/package/lxsession) | 145 | 755 | 19.2 | Indonesian <translation-team-id@lists.sourceforge.net> | 
+ | [fuse-encfs](/f25/package/fuse-encfs) | 244 | 1289 | 18.9 | Indonesian <id@li.org> | 
+ | [publican](/f25/package/publican) | 1027 | 5443 | 18.9 | Fedora Indonesia <trans-id@lists.fedoraproject.org> | 
+ | [freeciv](/f25/package/freeciv) | 18075 | 98186 | 18.4 | Indonesian <> | 
+ | [pgadmin3](/f25/package/pgadmin3) | 3003 | 16898 | 17.8 | pgAdmin Developers <pgadmin-hackers@postgresql.org> | 
+ | [onboard](/f25/package/onboard) | 401 | 2318 | 17.3 | Indonesian <id@li.org> | 
+ | [transmission](/f25/package/transmission) | 302 | 1809 | 16.7 | Indonesian <id@li.org> | 
+ | [grass](/f25/package/grass) | 3292 | 19802 | 16.6 | deutsch <grass-translations@lists.osgeo.org> | 
+ | [switchboard-plug-pantheon-shell](/f25/package/switchboard-plug-pantheon-shell) | 21 | 132 | 15.9 | Indonesian <id@li.org> | 
+ | [python-django-formtools](/f25/package/python-django-formtools) | 5 | 32 | 15.6 | Indonesian (http://www.transifex.com/projects/p/django-formtools/language/id/) | 
+ | [picard](/f25/package/picard) | 253 | 1625 | 15.6 | Indonesian (http://www.transifex.com/projects/p/musicbrainz/language/id/) | 
+ | [aria2](/f25/package/aria2) | 1137 | 7318 | 15.5 | Indonesian <id@li.org> | 
+ | [sssd](/f25/package/sssd) | 591 | 3889 | 15.2 | Indonesian (http://www.transifex.com/projects/p/sssd/language/id/) | 
+ | [planner](/f25/package/planner) | 166 | 1110 | 15.0 | Indonesian <en@li.org> | 
+ | [sugar-measure](/f25/package/sugar-measure) | 23 | 155 | 14.8 | LANGUAGE <LL@li.org> | 
+ | [gambas3](/f25/package/gambas3) | 774 | 5254 | 14.7 | LANGUAGE <LL@li.org> | 
+ | [pykickstart](/f25/package/pykickstart) | 203 | 1378 | 14.7 | Indonesian (http://www.transifex.com/projects/p/pykickstart/language/id/) | 
+ | [system-config-bind](/f25/package/system-config-bind) | 1375 | 9419 | 14.6 | Linux Indonesia <http://www.linux.or.id> | 
+ | [wdiff](/f25/package/wdiff) | 127 | 873 | 14.5 | Indonesian <translation-team-id@lists.sourceforge.net> | 
+ | [openerp-client](/f25/package/openerp-client) | 1101 | 7729 | 14.2 | Indonesian <id@li.org> | 
+ | [gourmet](/f25/package/gourmet) | 561 | 3939 | 14.2 | Indonesian <id@li.org> | 
+ | [util-linux](/f25/package/util-linux) | 2832 | 21819 | 13.0 | Indonesian <translation-team-id@lists.sourceforge.net> | 
+ | [NetworkManager](/f25/package/NetworkManager) | 1440 | 11095 | 13.0 | GNOME Indonesian Translation Team <gnome@i15n.org> | 
+ | [system-config-rootpassword](/f25/package/system-config-rootpassword) | 15 | 116 | 12.9 | BlankOn <http://www.blankonlinux.or.id> | 
+ | [glabels](/f25/package/glabels) | 1040 | 8177 | 12.7 | Indonesian <gnome@i15n.org> | 
+ | [yum](/f25/package/yum) | 760 | 6138 | 12.4 | LANGUAGE <LL@li.org> | 
+ | [system-config-firewall](/f25/package/system-config-firewall) | 343 | 2814 | 12.2 | Bahasa Indonesia <viribus@traderweb.net> | 
+ | [viking](/f25/package/viking) | 503 | 4135 | 12.2 | Indonesian <id@li.org> | 
+ | [guake](/f25/package/guake) | 129 | 1066 | 12.1 | Indonesian (http://www.transifex.com/projects/p/guake/language/id/) | 
+ | [rodent](/f25/package/rodent) | 1123 | 9802 | 11.5 |  | 
+ | [openerp](/f25/package/openerp) | 5379 | 48331 | 11.1 | Indonesian <id@li.org> | 
+ | [lollypop](/f25/package/lollypop) | 109 | 984 | 11.1 | Indonesian (http://www.transifex.com/gnumdk/lollypop/language/id/) | 
+ | [php-horde-Horde-Core](/f25/package/php-horde-Horde-Core) | 84 | 771 | 10.9 | i18n@lists.horde.org | 
+ | [gnome-activity-journal](/f25/package/gnome-activity-journal) | 34 | 316 | 10.8 | Indonesian <id@li.org> | 
+ | [playonlinux](/f25/package/playonlinux) | 293 | 2728 | 10.7 | Indonesian <id@li.org> | 
+ | [php-horde-Horde-Share](/f25/package/php-horde-Horde-Share) | 5 | 48 | 10.4 | i18n@lists.horde.org | 
+ | [geeqie](/f25/package/geeqie) | 368 | 3784 | 9.7 | Indonesian <translation-team-id@lists.sourceforge.net> | 
+ | [php-horde-Horde-Prefs](/f25/package/php-horde-Horde-Prefs) | 3 | 32 | 9.4 | i18n@lists.horde.org | 
+ | [abrt](/f25/package/abrt) | 350 | 3969 | 8.8 | Indonesian (http://www.transifex.com/projects/p/fedora-abrt/language/id/) | 
+ | [deluge](/f25/package/deluge) | 218 | 2728 | 8.0 | Indonesian <id@li.org> | 
+ | [pychess](/f25/package/pychess) | 348 | 4455 | 7.8 | Indonesian (http://www.transifex.com/gbtami/pychess/language/id/) | 
+ | [kf5-kcodecs](/f25/package/kf5-kcodecs) | 27 | 348 | 7.8 | Indonesian <translation-team-id@lists.sourceforge.net> | 
+ | [wicd](/f25/package/wicd) | 88 | 1138 | 7.7 | id <LL@li.org> | 
+ | [sharutils](/f25/package/sharutils) | 243 | 3147 | 7.7 | Indonesian <translation-team-id@lists.sourceforge.net> | 
+ | [genius](/f25/package/genius) | 561 | 7688 | 7.3 | Indonesian <gnome@i15n.org> | 
+ | [tortoisehg](/f25/package/tortoisehg) | 866 | 12223 | 7.1 | Indonesian <id@li.org> | 
+ | [sugar-memorize](/f25/package/sugar-memorize) | 10 | 142 | 7.0 | LANGUAGE <LL@li.org> | 
+ | [openerp7](/f25/package/openerp7) | 3201 | 46012 | 7.0 | Indonesian <id@li.org> | 
+ | [php-phpmyadmin-sql-parser](/f25/package/php-phpmyadmin-sql-parser) | 15 | 227 | 6.6 | Indonesian <https://hosted.weblate.org/projects/phpmyadmin/sql-parser/id/> | 
+ | [mate-user-guide](/f25/package/mate-user-guide) | 2360 | 40282 | 5.9 | MATE Indonesian Translation Team <mate@i15n.org> | 
+ | [pidgin-musictracker](/f25/package/pidgin-musictracker) | 19 | 333 | 5.7 | Indonesian <id@li.org> | 
+ | [publican-fedora](/f25/package/publican-fedora) | 6 | 107 | 5.6 | Fedora Indonesia <trans-id@lists.fedoraproject.org> | 
+ | [volume_key](/f25/package/volume_key) | 40 | 745 | 5.4 | Indonesian <trans-id@lists.fedoraproject.org> | 
+ | [remmina](/f25/package/remmina) | 83 | 1579 | 5.3 | Indonesian <id@li.org> | 
+ | [catfish](/f25/package/catfish) | 34 | 650 | 5.2 | Indonesian <id@li.org> | 
+ | [spacefm](/f25/package/spacefm) | 453 | 8722 | 5.2 | Indonesian (http://www.transifex.com/projects/p/spacefm/language/id/) | 
+ | [sugar-terminal](/f25/package/sugar-terminal) | 6 | 121 | 5.0 | LANGUAGE <LL@li.org> | 
+ | [pastebinit](/f25/package/pastebinit) | 9 | 183 | 4.9 | Indonesian <id@li.org> | 
+ | [rhn-client-tools](/f25/package/rhn-client-tools) | 170 | 4057 | 4.2 | Indonesian (http://www.transifex.com/projects/p/spacewalk/language/id/) | 
+ | [snap-photobooth](/f25/package/snap-photobooth) | 1 | 25 | 4.0 | Indonesian <id@li.org> | 
+ | [asunder](/f25/package/asunder) | 19 | 480 | 4.0 | http://littlesvr.ca/ostd/ | 
+ | [pyroom](/f25/package/pyroom) | 16 | 411 | 3.9 | Indonesian <id@li.org> | 
+ | [rapid-photo-downloader](/f25/package/rapid-photo-downloader) | 71 | 1832 | 3.9 | Indonesian <id@li.org> | 
+ | [php-horde-Horde-Image](/f25/package/php-horde-Horde-Image) | 22 | 581 | 3.8 | i18n@lists.horde.org | 
+ | [gtg](/f25/package/gtg) | 131 | 3497 | 3.7 | Indonesian <id@li.org> | 
+ | [cairo-dock](/f25/package/cairo-dock) | 272 | 7464 | 3.6 | Indonesian <id@li.org> | 
+ | [koffice-kivio](/f25/package/koffice-kivio) | 206 | 6385 | 3.2 | Bahasa Indonesia <id@li.org> | 
+ | [supertux](/f25/package/supertux) | 94 | 2980 | 3.2 | Indonesian (http://www.transifex.com/arctic-games/supertux/language/id/) | 
+ | [elinks](/f25/package/elinks) | 359 | 12245 | 2.9 | Indonesian <translation-team-id@lists.sourceforge.net> | 
+ | [widelands](/f25/package/widelands) | 137 | 4940 | 2.8 | Indonesian <id@li.org> | 
+ | [light-locker](/f25/package/light-locker) | 7 | 260 | 2.7 | Indonesian (http://www.transifex.com/the_cavalry/light-locker/language/id/) | 
+ | [sugar-fototoon](/f25/package/sugar-fototoon) | 2 | 77 | 2.6 | LANGUAGE <LL@li.org> | 
+ | [cairo-dock-plug-ins](/f25/package/cairo-dock-plug-ins) | 256 | 10203 | 2.5 | Indonesian <id@li.org> | 
+ | [sawfish](/f25/package/sawfish) | 160 | 6443 | 2.5 | INDONESIA <userindesign@gmail.com> | 
+ | [calibre](/f25/package/calibre) | 3690 | 152264 | 2.4 | Indonesian (http://www.transifex.com/calibre/calibre/language/id/) | 
+ | [php-horde-Horde-Form](/f25/package/php-horde-Horde-Form) | 12 | 553 | 2.2 | i18n@lists.horde.org | 
+ | [ailurus](/f25/package/ailurus) | 158 | 7314 | 2.2 | none | 
+ | [gegl03](/f25/package/gegl03) | 115 | 5397 | 2.1 | Indonesian <gnome@i15n.org> | 
+ | [bzr](/f25/package/bzr) | 695 | 33249 | 2.1 | Indonesian <id@li.org> | 
+ | [switchboard-plug-printers](/f25/package/switchboard-plug-printers) | 6 | 288 | 2.1 | Indonesian <https://weblate.elementary.io/projects/switchboard/switchboard-plug-printers/id/> | 
+ | [phatch](/f25/package/phatch) | 44 | 2553 | 1.7 | Indonesian <id@li.org> | 
+ | [php-horde-Horde-Argv](/f25/package/php-horde-Horde-Argv) | 1 | 60 | 1.7 | i18n@lists.horde.org | 
+ | [gala](/f25/package/gala) | 11 | 683 | 1.6 | Indonesian <id@li.org> | 
+ | [libvirt](/f25/package/libvirt) | 866 | 58480 | 1.5 | Indonesian (http://www.transifex.com/projects/p/libvirt/language/id/) | 
+ | [mingw-libvirt](/f25/package/mingw-libvirt) | 866 | 58480 | 1.5 | Indonesian (http://www.transifex.com/projects/p/libvirt/language/id/) | 
+ | [php-horde-Horde-Crypt](/f25/package/php-horde-Horde-Crypt) | 5 | 396 | 1.3 | i18n@lists.horde.org | 
+ | [gnome-abrt](/f25/package/gnome-abrt) | 5 | 397 | 1.3 | Indonesian (http://www.transifex.com/projects/p/gnome-abrt/language/id/) | 
+ | [switchboard-plug-onlineaccounts](/f25/package/switchboard-plug-onlineaccounts) | 2 | 161 | 1.2 | Indonesian <id@li.org> | 
+ | [sugar-infoslicer](/f25/package/sugar-infoslicer) | 2 | 236 | 0.8 | LANGUAGE <LL@li.org> | 
+ | [gnumed](/f25/package/gnumed) | 156 | 29401 | 0.5 | LANGUAGE <LL@li.org> | 
+ | [sugar-labyrinth](/f25/package/sugar-labyrinth) | 1 | 281 | 0.4 | LANGUAGE <LL@li.org> | 
+ | [sugar-typing-turtle](/f25/package/sugar-typing-turtle) | 2 | 599 | 0.3 | LANGUAGE <LL@li.org> | 
+ | [php-horde-Horde-Nls](/f25/package/php-horde-Horde-Nls) | 1 | 430 | 0.2 | i18n@lists.horde.org | 
+ | [libreport](/f25/package/libreport) | 1 | 4893 | 0.0 | Indonesian (http://www.transifex.com/projects/p/libreport/language/id/) | 
+ | [blivet-gui](/f25/package/blivet-gui) | 0 | 696 | 0.0 | Indonesian | 
+ | [dnf-plugin-system-upgrade](/f25/package/dnf-plugin-system-upgrade) | 0 | 211 | 0.0 | Indonesian | 
+ | [dnf-plugins-extras](/f25/package/dnf-plugins-extras) | 0 | 375 | 0.0 | Indonesian | 
+ | [docker-anaconda-addon](/f25/package/docker-anaconda-addon) | 0 | 27 | 0.0 | Indonesian | 
+ | [entangle](/f25/package/entangle) | 0 | 935 | 0.0 | Indonesian | 
+ | [fonts-tweak-tool](/f25/package/fonts-tweak-tool) | 0 | 164 | 0.0 | Indonesian | 
+ | [gpodder](/f25/package/gpodder) | 0 | 1879 | 0.0 | Indonesian (Indonesia) (http://www.transifex.com/projects/p/gpodder/language/id_ID/) | 
+ | [icewm](/f25/package/icewm) | 0 | 0 | 0.0 | Indonesia | 
+ | [imsettings](/f25/package/imsettings) | 0 | 456 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [initial-setup](/f25/package/initial-setup) | 0 | 33 | 0.0 | Indonesian | 
+ | [ldm](/f25/package/ldm) | 0 | 55 | 0.0 | Indonesian <id@li.org> | 
+ | [libbytesize](/f25/package/libbytesize) | 0 | 17 | 0.0 | Indonesian | 
+ | [libgxim](/f25/package/libgxim) | 0 | 124 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [libosinfo](/f25/package/libosinfo) | 0 | 662 | 0.0 | Indonesian | 
+ | [libvirt-glib](/f25/package/libvirt-glib) | 0 | 145 | 0.0 | Indonesian (http://www.transifex.com/projects/p/libvirt-glib/language/id/) | 
+ | [libvirt-sandbox](/f25/package/libvirt-sandbox) | 0 | 617 | 0.0 | Indonesian <trans-id@lists.fedoraproject.org> | 
+ | [mingw-libvirt-glib](/f25/package/mingw-libvirt-glib) | 0 | 145 | 0.0 | Indonesian (http://www.transifex.com/projects/p/libvirt-glib/language/id/) | 
+ | [moodle](/f25/package/moodle) | 0 | 52 | 0.0 | i18n@lists.horde.org | 
+ | [oscap-anaconda-addon](/f25/package/oscap-anaconda-addon) | 0 | 194 | 0.0 | Indonesian (http://www.transifex.com/projects/p/oscap-anaconda-addon/language/id/) | 
+ | [osinfo-db-tools](/f25/package/osinfo-db-tools) | 0 | 56 | 0.0 | Indonesian | 
+ | [pantheon-agent-polkit](/f25/package/pantheon-agent-polkit) | 0 | 17 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [php-horde-Horde-Alarm](/f25/package/php-horde-Horde-Alarm) | 0 | 13 | 0.0 | i18n@lists.horde.org | 
+ | [php-horde-Horde-Browser](/f25/package/php-horde-Horde-Browser) | 0 | 66 | 0.0 | i18n@lists.horde.org | 
+ | [php-horde-Horde-Cli](/f25/package/php-horde-Horde-Cli) | 0 | 11 | 0.0 | i18n@lists.horde.org | 
+ | [php-horde-Horde-Compress](/f25/package/php-horde-Horde-Compress) | 0 | 25 | 0.0 | i18n@lists.horde.org | 
+ | [php-horde-Horde-Data](/f25/package/php-horde-Horde-Data) | 0 | 7 | 0.0 | i18n@lists.horde.org | 
+ | [php-horde-Horde-Date](/f25/package/php-horde-Horde-Date) | 0 | 36 | 0.0 | i18n@lists.horde.org | 
+ | [php-horde-Horde-Exception](/f25/package/php-horde-Horde-Exception) | 0 | 4 | 0.0 | i18n@lists.horde.org | 
+ | [php-horde-Horde-Icalendar](/f25/package/php-horde-Horde-Icalendar) | 0 | 3 | 0.0 | i18n@lists.horde.org | 
+ | [php-horde-Horde-Imsp](/f25/package/php-horde-Horde-Imsp) | 0 | 14 | 0.0 | i18n@lists.horde.org | 
+ | [php-horde-Horde-Itip](/f25/package/php-horde-Horde-Itip) | 0 | 56 | 0.0 | i18n@lists.horde.org | 
+ | [php-horde-Horde-Kolab-Storage](/f25/package/php-horde-Horde-Kolab-Storage) | 0 | 120 | 0.0 | i18n@lists.horde.org | 
+ | [php-horde-Horde-LoginTasks](/f25/package/php-horde-Horde-LoginTasks) | 0 | 6 | 0.0 | i18n@lists.horde.org | 
+ | [php-horde-Horde-Mime](/f25/package/php-horde-Horde-Mime) | 0 | 48 | 0.0 | i18n@lists.horde.org | 
+ | [php-horde-Horde-Mime-Viewer](/f25/package/php-horde-Horde-Mime-Viewer) | 0 | 0 | 0.0 | i18n@lists.horde.org | 
+ | [php-horde-Horde-Rpc](/f25/package/php-horde-Horde-Rpc) | 0 | 48 | 0.0 | i18n@lists.horde.org | 
+ | [php-horde-Horde-SyncMl](/f25/package/php-horde-Horde-SyncMl) | 0 | 3 | 0.0 | i18n@lists.horde.org | 
+ | [php-horde-Horde-Text-Filter](/f25/package/php-horde-Horde-Text-Filter) | 0 | 1 | 0.0 | i18n@lists.horde.org | 
+ | [php-horde-Horde-Token](/f25/package/php-horde-Horde-Token) | 0 | 0 | 0.0 | i18n@lists.horde.org | 
+ | [php-horde-Horde-Vfs](/f25/package/php-horde-Horde-Vfs) | 0 | 10 | 0.0 | i18n@lists.horde.org | 
+ | [policycoreutils](/f25/package/policycoreutils) | 0 | 7678 | 0.0 | Indonesian <trans-id@lists.fedoraproject.org> | 
+ | [python-django-rest-framework](/f25/package/python-django-rest-framework) | 0 | 562 | 0.0 | Indonesian (http://www.transifex.com/django-rest-framework-1/django-rest-framework/language/id/) | 
+ | [python-fedora](/f25/package/python-fedora) | 0 | 214 | 0.0 | Indonesian | 
+ | [python-meh](/f25/package/python-meh) | 0 | 109 | 0.0 | Indonesian | 
+ | [quassel](/f25/package/quassel) | 0 | 5382 | 0.0 | Indonesian (Indonesia) (http://www.transifex.com/ald/quassel/language/id_ID/) | 
+ | [retrace-server](/f25/package/retrace-server) | 0 | 381 | 0.0 | Indonesian | 
+ | [rhnsd](/f25/package/rhnsd) | 0 | 33 | 0.0 | Indonesian <trans-id@lists.fedoraproject.org> | 
+ | [setroubleshoot](/f25/package/setroubleshoot) | 0 | 13776 | 0.0 | Indonesian <trans-id@lists.fedoraproject.org> | 
+ | [setroubleshoot-plugins](/f25/package/setroubleshoot-plugins) | 0 | 207370 | 0.0 | Indonesian <trans-id@lists.fedoraproject.org> | 
+ | [snapd](/f25/package/snapd) | 0 | 3717 | 0.0 | Indonesian <id@li.org> | 
+ | [sugar-deducto](/f25/package/sugar-deducto) | 0 | 109 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-finance](/f25/package/sugar-finance) | 0 | 189 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-fractionbounce](/f25/package/sugar-fractionbounce) | 0 | 68 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-getiabooks](/f25/package/sugar-getiabooks) | 0 | 119 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-implode](/f25/package/sugar-implode) | 0 | 78 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-maze](/f25/package/sugar-maze) | 0 | 7 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-ruler](/f25/package/sugar-ruler) | 0 | 29 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-story](/f25/package/sugar-story) | 0 | 24 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [switchboard-plug-a11y](/f25/package/switchboard-plug-a11y) | 0 | 210 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [trac-accountmanager-plugin](/f25/package/trac-accountmanager-plugin) | 0 | 1208 | 0.0 | Indonesian (Indonesia) (http://www.transifex.com/projects/p/Trac_Plugin-L10N/language/id_ID/) | 
+ | [tuxpaint-stamps](/f25/package/tuxpaint-stamps) | 0 | 2711 | 0.0 |  | 
+ | [ufw](/f25/package/ufw) | 0 | 879 | 0.0 | Indonesian <id@li.org> | 
+ | [virt-viewer](/f25/package/virt-viewer) | 0 | 784 | 0.0 | Indonesian | 
+ | [vocal](/f25/package/vocal) | 0 | 377 | 0.0 | Indonesian <id@li.org> | 
+ | [wingpanel-indicator-keyboard](/f25/package/wingpanel-indicator-keyboard) | 0 | 7 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [wingpanel-indicator-power](/f25/package/wingpanel-indicator-power) | 0 | 89 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [wingpanel-indicator-sound](/f25/package/wingpanel-indicator-sound) | 0 | 15 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [yum-rhn-plugin](/f25/package/yum-rhn-plugin) | 0 | 147 | 0.0 | Indonesian <trans-id@lists.fedoraproject.org> | 
+ | [yumex-dnf](/f25/package/yumex-dnf) | 0 | 712 | 0.0 | Indonesian (http://www.transifex.com/timlau/yumex/language/id/) | 
 {.sortable}
 
 
@@ -974,8 +974,8 @@ We use the po metadata to get the language code and the team, but sometimes it f
 
 | Package | Lang from file path/name | polib error | Team |
 |---------|--------------------------|-------------|------|
- | [moin]({{< ref "/f25/package/moin.md" >}}) | /mnt/stockage/packages/f25/moin/MoinMoin/i18n/id.MoinMoin.po | error-os |  | 
- | [rodent]({{< ref "/f25/package/rodent.md" >}}) | /mnt/stockage/packages/f25/rodent/apps/fgr/po/id.po | error-unicode |  | 
+ | [moin](/f25/package/moin) | /mnt/stockage/packages/f25/moin/MoinMoin/i18n/id.MoinMoin.po | error-os |  | 
+ | [rodent](/f25/package/rodent) | /mnt/stockage/packages/f25/rodent/apps/fgr/po/id.po | error-unicode |  | 
 {.sortable}
 
 
@@ -986,7 +986,7 @@ We use the calcstats from translate toolkit to get the translation progress, but
 
 | Package | Lang from file path/name | Team |
 |---------|--------------------------|------|
- | [icewm]({{< ref "/f25/package/icewm.md" >}}) | /mnt/stockage/packages/f25/icewm/po/id.po | Indonesia | 
+ | [icewm](/f25/package/icewm) | /mnt/stockage/packages/f25/icewm/po/id.po | Indonesia | 
 {.sortable}
 
 

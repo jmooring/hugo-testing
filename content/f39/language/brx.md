@@ -38,21 +38,21 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [alacarte]({{< ref "/f39/package/alacarte.md" >}}) | 42 | 42 | 100.0 | Bodo <brx@li.org> | 
- | [pidgin]({{< ref "/f39/package/pidgin.md" >}}) | 13140 | 13994 | 93.9 | Bodo (http://www.transifex.com/pidgin/pidgin/language/brx/) | 
- | [vlc]({{< ref "/f39/package/vlc.md" >}}) | 29997 | 34779 | 86.3 | Bodo (https://app.transifex.com/yaron/teams/16553/brx/) | 
- | [gnucash]({{< ref "/f39/package/gnucash.md" >}}) | 22359 | 39228 | 57.0 | Bodo <https://hosted.weblate.org/projects/gnucash/gnucash/brx/> | 
- | [inkscape]({{< ref "/f39/package/inkscape.md" >}}) | 17351 | 49568 | 35.0 | Hindi <Indlinux> | 
- | [tuxpaint]({{< ref "/f39/package/tuxpaint.md" >}}) | 1120 | 3763 | 29.8 | Bodo | 
- | [libreoffice]({{< ref "/f39/package/libreoffice.md" >}}) | 37099 | 171188 | 21.7 | LANGUAGE <LL@li.org> | 
- | [mypaint]({{< ref "/f39/package/mypaint.md" >}}) | 283 | 6381 | 4.4 | Bodo <https://hosted.weblate.org/projects/mypaint/mypaint/brx/> | 
- | [android-tools]({{< ref "/f39/package/android-tools.md" >}}) | 1 | 12195 | 0.0 | Bodo (http://www.transifex.com/projects/p/fedora/language/brx/) | 
- | [policycoreutils]({{< ref "/f39/package/policycoreutils.md" >}}) | 1 | 12195 | 0.0 | Bodo (http://www.transifex.com/projects/p/fedora/language/brx/) | 
- | [fonts-tweak-tool]({{< ref "/f39/package/fonts-tweak-tool.md" >}}) | 0 | 195 | 0.0 | Bodo | 
- | [initial-setup]({{< ref "/f39/package/initial-setup.md" >}}) | 0 | 33 | 0.0 | Bodo | 
- | [libvirt-sandbox]({{< ref "/f39/package/libvirt-sandbox.md" >}}) | 0 | 617 | 0.0 | Bodo (http://www.transifex.com/projects/p/fedora/language/brx/) | 
- | [python-fedora]({{< ref "/f39/package/python-fedora.md" >}}) | 0 | 214 | 0.0 | Bodo | 
- | [python-meh]({{< ref "/f39/package/python-meh.md" >}}) | 0 | 109 | 0.0 | Bodo | 
+ | [alacarte](/f39/package/alacarte) | 42 | 42 | 100.0 | Bodo <brx@li.org> | 
+ | [pidgin](/f39/package/pidgin) | 13140 | 13994 | 93.9 | Bodo (http://www.transifex.com/pidgin/pidgin/language/brx/) | 
+ | [vlc](/f39/package/vlc) | 29997 | 34779 | 86.3 | Bodo (https://app.transifex.com/yaron/teams/16553/brx/) | 
+ | [gnucash](/f39/package/gnucash) | 22359 | 39228 | 57.0 | Bodo <https://hosted.weblate.org/projects/gnucash/gnucash/brx/> | 
+ | [inkscape](/f39/package/inkscape) | 17351 | 49568 | 35.0 | Hindi <Indlinux> | 
+ | [tuxpaint](/f39/package/tuxpaint) | 1120 | 3763 | 29.8 | Bodo | 
+ | [libreoffice](/f39/package/libreoffice) | 37099 | 171188 | 21.7 | LANGUAGE <LL@li.org> | 
+ | [mypaint](/f39/package/mypaint) | 283 | 6381 | 4.4 | Bodo <https://hosted.weblate.org/projects/mypaint/mypaint/brx/> | 
+ | [android-tools](/f39/package/android-tools) | 1 | 12195 | 0.0 | Bodo (http://www.transifex.com/projects/p/fedora/language/brx/) | 
+ | [policycoreutils](/f39/package/policycoreutils) | 1 | 12195 | 0.0 | Bodo (http://www.transifex.com/projects/p/fedora/language/brx/) | 
+ | [fonts-tweak-tool](/f39/package/fonts-tweak-tool) | 0 | 195 | 0.0 | Bodo | 
+ | [initial-setup](/f39/package/initial-setup) | 0 | 33 | 0.0 | Bodo | 
+ | [libvirt-sandbox](/f39/package/libvirt-sandbox) | 0 | 617 | 0.0 | Bodo (http://www.transifex.com/projects/p/fedora/language/brx/) | 
+ | [python-fedora](/f39/package/python-fedora) | 0 | 214 | 0.0 | Bodo | 
+ | [python-meh](/f39/package/python-meh) | 0 | 109 | 0.0 | Bodo | 
 {.sortable}
 
 

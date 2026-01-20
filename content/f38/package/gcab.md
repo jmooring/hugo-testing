@@ -18,40 +18,40 @@ The package gcab (version 1.5):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [bs]({{< ref "/f38/language/bs.md" >}}) | 154 | 154 | 100.0 | /mnt/stockage/packages/f38/gcab/po/bs.po | 
- | [cs]({{< ref "/f38/language/cs.md" >}}) | 128 | 128 | 100.0 | /mnt/stockage/packages/f38/gcab/po/cs.po | 
- | [da]({{< ref "/f38/language/da.md" >}}) | 128 | 128 | 100.0 | /mnt/stockage/packages/f38/gcab/po/da.po | 
- | [de]({{< ref "/f38/language/de.md" >}}) | 127 | 127 | 100.0 | /mnt/stockage/packages/f38/gcab/po/de.po | 
- | [el]({{< ref "/f38/language/el.md" >}}) | 162 | 162 | 100.0 | /mnt/stockage/packages/f38/gcab/po/el.po | 
- | [en_GB]({{< ref "/f38/language/en_GB.md" >}}) | 127 | 127 | 100.0 | /mnt/stockage/packages/f38/gcab/po/en_GB.po | 
- | [es]({{< ref "/f38/language/es.md" >}}) | 128 | 128 | 100.0 | /mnt/stockage/packages/f38/gcab/po/es.po | 
- | [eu]({{< ref "/f38/language/eu.md" >}}) | 128 | 128 | 100.0 | /mnt/stockage/packages/f38/gcab/po/eu.po | 
- | [fr]({{< ref "/f38/language/fr.md" >}}) | 127 | 127 | 100.0 | /mnt/stockage/packages/f38/gcab/po/fr.po | 
- | [fur]({{< ref "/f38/language/fur.md" >}}) | 127 | 127 | 100.0 | /mnt/stockage/packages/f38/gcab/po/fur.po | 
- | [gl]({{< ref "/f38/language/gl.md" >}}) | 154 | 154 | 100.0 | /mnt/stockage/packages/f38/gcab/po/gl.po | 
- | [hr]({{< ref "/f38/language/hr.md" >}}) | 128 | 128 | 100.0 | /mnt/stockage/packages/f38/gcab/po/hr.po | 
- | [hu]({{< ref "/f38/language/hu.md" >}}) | 128 | 128 | 100.0 | /mnt/stockage/packages/f38/gcab/po/hu.po | 
- | [id]({{< ref "/f38/language/id.md" >}}) | 128 | 128 | 100.0 | /mnt/stockage/packages/f38/gcab/po/id.po | 
- | [ka]({{< ref "/f38/language/ka.md" >}}) | 128 | 128 | 100.0 | /mnt/stockage/packages/f38/gcab/po/ka.po | 
- | [lt]({{< ref "/f38/language/lt.md" >}}) | 128 | 128 | 100.0 | /mnt/stockage/packages/f38/gcab/po/lt.po | 
- | [lv]({{< ref "/f38/language/lv.md" >}}) | 154 | 154 | 100.0 | /mnt/stockage/packages/f38/gcab/po/lv.po | 
- | [nl]({{< ref "/f38/language/nl.md" >}}) | 128 | 128 | 100.0 | /mnt/stockage/packages/f38/gcab/po/nl.po | 
- | [oc]({{< ref "/f38/language/oc.md" >}}) | 159 | 159 | 100.0 | /mnt/stockage/packages/f38/gcab/po/oc.po | 
- | [pl]({{< ref "/f38/language/pl.md" >}}) | 128 | 128 | 100.0 | /mnt/stockage/packages/f38/gcab/po/pl.po | 
- | [pt]({{< ref "/f38/language/pt.md" >}}) | 162 | 162 | 100.0 | /mnt/stockage/packages/f38/gcab/po/pt.po | 
- | [pt_BR]({{< ref "/f38/language/pt_BR.md" >}}) | 128 | 128 | 100.0 | /mnt/stockage/packages/f38/gcab/po/pt_BR.po | 
- | [ro]({{< ref "/f38/language/ro.md" >}}) | 128 | 128 | 100.0 | /mnt/stockage/packages/f38/gcab/po/ro.po | 
- | [ru]({{< ref "/f38/language/ru.md" >}}) | 128 | 128 | 100.0 | /mnt/stockage/packages/f38/gcab/po/ru.po | 
- | [sl]({{< ref "/f38/language/sl.md" >}}) | 162 | 162 | 100.0 | /mnt/stockage/packages/f38/gcab/po/sl.po | 
- | [sr]({{< ref "/f38/language/sr.md" >}}) | 255 | 255 | 100.0 | /mnt/stockage/packages/f38/gcab/po/sr@latin.po/mnt/stockage/packages/f38/gcab/po/sr.po | 
- | [sv]({{< ref "/f38/language/sv.md" >}}) | 128 | 128 | 100.0 | /mnt/stockage/packages/f38/gcab/po/sv.po | 
- | [tg]({{< ref "/f38/language/tg.md" >}}) | 152 | 152 | 100.0 | /mnt/stockage/packages/f38/gcab/po/tg.po | 
- | [tr]({{< ref "/f38/language/tr.md" >}}) | 128 | 128 | 100.0 | /mnt/stockage/packages/f38/gcab/po/tr.po | 
- | [uk]({{< ref "/f38/language/uk.md" >}}) | 128 | 128 | 100.0 | /mnt/stockage/packages/f38/gcab/po/uk.po | 
- | [zh_Hans]({{< ref "/f38/language/zh_Hans.md" >}}) | 128 | 128 | 100.0 | /mnt/stockage/packages/f38/gcab/po/zh_CN.po | 
- | [ja]({{< ref "/f38/language/ja.md" >}}) | 122 | 127 | 96.1 | /mnt/stockage/packages/f38/gcab/po/ja.po | 
- | [fi]({{< ref "/f38/language/fi.md" >}}) | 101 | 127 | 79.5 | /mnt/stockage/packages/f38/gcab/po/fi.po | 
- | [nb_NO]({{< ref "/f38/language/nb_NO.md" >}}) | 76 | 154 | 49.4 | /mnt/stockage/packages/f38/gcab/po/nb.po | 
+ | [bs](/f38/language/bs) | 154 | 154 | 100.0 | /mnt/stockage/packages/f38/gcab/po/bs.po | 
+ | [cs](/f38/language/cs) | 128 | 128 | 100.0 | /mnt/stockage/packages/f38/gcab/po/cs.po | 
+ | [da](/f38/language/da) | 128 | 128 | 100.0 | /mnt/stockage/packages/f38/gcab/po/da.po | 
+ | [de](/f38/language/de) | 127 | 127 | 100.0 | /mnt/stockage/packages/f38/gcab/po/de.po | 
+ | [el](/f38/language/el) | 162 | 162 | 100.0 | /mnt/stockage/packages/f38/gcab/po/el.po | 
+ | [en_GB](/f38/language/en_GB) | 127 | 127 | 100.0 | /mnt/stockage/packages/f38/gcab/po/en_GB.po | 
+ | [es](/f38/language/es) | 128 | 128 | 100.0 | /mnt/stockage/packages/f38/gcab/po/es.po | 
+ | [eu](/f38/language/eu) | 128 | 128 | 100.0 | /mnt/stockage/packages/f38/gcab/po/eu.po | 
+ | [fr](/f38/language/fr) | 127 | 127 | 100.0 | /mnt/stockage/packages/f38/gcab/po/fr.po | 
+ | [fur](/f38/language/fur) | 127 | 127 | 100.0 | /mnt/stockage/packages/f38/gcab/po/fur.po | 
+ | [gl](/f38/language/gl) | 154 | 154 | 100.0 | /mnt/stockage/packages/f38/gcab/po/gl.po | 
+ | [hr](/f38/language/hr) | 128 | 128 | 100.0 | /mnt/stockage/packages/f38/gcab/po/hr.po | 
+ | [hu](/f38/language/hu) | 128 | 128 | 100.0 | /mnt/stockage/packages/f38/gcab/po/hu.po | 
+ | [id](/f38/language/id) | 128 | 128 | 100.0 | /mnt/stockage/packages/f38/gcab/po/id.po | 
+ | [ka](/f38/language/ka) | 128 | 128 | 100.0 | /mnt/stockage/packages/f38/gcab/po/ka.po | 
+ | [lt](/f38/language/lt) | 128 | 128 | 100.0 | /mnt/stockage/packages/f38/gcab/po/lt.po | 
+ | [lv](/f38/language/lv) | 154 | 154 | 100.0 | /mnt/stockage/packages/f38/gcab/po/lv.po | 
+ | [nl](/f38/language/nl) | 128 | 128 | 100.0 | /mnt/stockage/packages/f38/gcab/po/nl.po | 
+ | [oc](/f38/language/oc) | 159 | 159 | 100.0 | /mnt/stockage/packages/f38/gcab/po/oc.po | 
+ | [pl](/f38/language/pl) | 128 | 128 | 100.0 | /mnt/stockage/packages/f38/gcab/po/pl.po | 
+ | [pt](/f38/language/pt) | 162 | 162 | 100.0 | /mnt/stockage/packages/f38/gcab/po/pt.po | 
+ | [pt_BR](/f38/language/pt_BR) | 128 | 128 | 100.0 | /mnt/stockage/packages/f38/gcab/po/pt_BR.po | 
+ | [ro](/f38/language/ro) | 128 | 128 | 100.0 | /mnt/stockage/packages/f38/gcab/po/ro.po | 
+ | [ru](/f38/language/ru) | 128 | 128 | 100.0 | /mnt/stockage/packages/f38/gcab/po/ru.po | 
+ | [sl](/f38/language/sl) | 162 | 162 | 100.0 | /mnt/stockage/packages/f38/gcab/po/sl.po | 
+ | [sr](/f38/language/sr) | 255 | 255 | 100.0 | /mnt/stockage/packages/f38/gcab/po/sr@latin.po/mnt/stockage/packages/f38/gcab/po/sr.po | 
+ | [sv](/f38/language/sv) | 128 | 128 | 100.0 | /mnt/stockage/packages/f38/gcab/po/sv.po | 
+ | [tg](/f38/language/tg) | 152 | 152 | 100.0 | /mnt/stockage/packages/f38/gcab/po/tg.po | 
+ | [tr](/f38/language/tr) | 128 | 128 | 100.0 | /mnt/stockage/packages/f38/gcab/po/tr.po | 
+ | [uk](/f38/language/uk) | 128 | 128 | 100.0 | /mnt/stockage/packages/f38/gcab/po/uk.po | 
+ | [zh_Hans](/f38/language/zh_Hans) | 128 | 128 | 100.0 | /mnt/stockage/packages/f38/gcab/po/zh_CN.po | 
+ | [ja](/f38/language/ja) | 122 | 127 | 96.1 | /mnt/stockage/packages/f38/gcab/po/ja.po | 
+ | [fi](/f38/language/fi) | 101 | 127 | 79.5 | /mnt/stockage/packages/f38/gcab/po/fi.po | 
+ | [nb_NO](/f38/language/nb_NO) | 76 | 154 | 49.4 | /mnt/stockage/packages/f38/gcab/po/nb.po | 
 {.sortable}
 
 

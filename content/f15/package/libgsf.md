@@ -18,24 +18,24 @@ The package libgsf (version 1.14.19):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f15/language/cs.md" >}}) | 843 | 843 | 100.0 | /mnt/stockage/packages/f15/libgsf/po/cs.po | 
- | [da]({{< ref "/f15/language/da.md" >}}) | 843 | 843 | 100.0 | /mnt/stockage/packages/f15/libgsf/po/da.po | 
- | [de]({{< ref "/f15/language/de.md" >}}) | 843 | 843 | 100.0 | /mnt/stockage/packages/f15/libgsf/po/de.po | 
- | [en_GB]({{< ref "/f15/language/en_GB.md" >}}) | 825 | 825 | 100.0 | /mnt/stockage/packages/f15/libgsf/po/en_GB.po | 
- | [es]({{< ref "/f15/language/es.md" >}}) | 843 | 843 | 100.0 | /mnt/stockage/packages/f15/libgsf/po/es.po | 
- | [eu]({{< ref "/f15/language/eu.md" >}}) | 843 | 843 | 100.0 | /mnt/stockage/packages/f15/libgsf/po/eu.po | 
- | [fr]({{< ref "/f15/language/fr.md" >}}) | 843 | 843 | 100.0 | /mnt/stockage/packages/f15/libgsf/po/fr.po | 
- | [pl]({{< ref "/f15/language/pl.md" >}}) | 843 | 843 | 100.0 | /mnt/stockage/packages/f15/libgsf/po/pl.po | 
- | [pt]({{< ref "/f15/language/pt.md" >}}) | 843 | 843 | 100.0 | /mnt/stockage/packages/f15/libgsf/po/pt.po | 
- | [pt_BR]({{< ref "/f15/language/pt_BR.md" >}}) | 843 | 843 | 100.0 | /mnt/stockage/packages/f15/libgsf/po/pt_BR.po | 
- | [sl]({{< ref "/f15/language/sl.md" >}}) | 843 | 843 | 100.0 | /mnt/stockage/packages/f15/libgsf/po/sl.po | 
- | [sv]({{< ref "/f15/language/sv.md" >}}) | 843 | 843 | 100.0 | /mnt/stockage/packages/f15/libgsf/po/sv.po | 
- | [zh_Hans]({{< ref "/f15/language/zh_Hans.md" >}}) | 843 | 843 | 100.0 | /mnt/stockage/packages/f15/libgsf/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f15/language/zh_Hant.md" >}}) | 647 | 715 | 90.5 | /mnt/stockage/packages/f15/libgsf/po/zh_TW.po | 
- | [zh_Hant_HK]({{< ref "/f15/language/zh_Hant_HK.md" >}}) | 647 | 715 | 90.5 | /mnt/stockage/packages/f15/libgsf/po/zh_HK.po | 
- | [pa]({{< ref "/f15/language/pa.md" >}}) | 69 | 843 | 8.2 | /mnt/stockage/packages/f15/libgsf/po/pa.po | 
- | [nb_NO]({{< ref "/f15/language/nb_NO.md" >}}) | 50 | 753 | 6.6 | /mnt/stockage/packages/f15/libgsf/po/nb.po | 
- | [oc]({{< ref "/f15/language/oc.md" >}}) | 0 | 77 | 0.0 | /mnt/stockage/packages/f15/libgsf/po/oc.po | 
+ | [cs](/f15/language/cs) | 843 | 843 | 100.0 | /mnt/stockage/packages/f15/libgsf/po/cs.po | 
+ | [da](/f15/language/da) | 843 | 843 | 100.0 | /mnt/stockage/packages/f15/libgsf/po/da.po | 
+ | [de](/f15/language/de) | 843 | 843 | 100.0 | /mnt/stockage/packages/f15/libgsf/po/de.po | 
+ | [en_GB](/f15/language/en_GB) | 825 | 825 | 100.0 | /mnt/stockage/packages/f15/libgsf/po/en_GB.po | 
+ | [es](/f15/language/es) | 843 | 843 | 100.0 | /mnt/stockage/packages/f15/libgsf/po/es.po | 
+ | [eu](/f15/language/eu) | 843 | 843 | 100.0 | /mnt/stockage/packages/f15/libgsf/po/eu.po | 
+ | [fr](/f15/language/fr) | 843 | 843 | 100.0 | /mnt/stockage/packages/f15/libgsf/po/fr.po | 
+ | [pl](/f15/language/pl) | 843 | 843 | 100.0 | /mnt/stockage/packages/f15/libgsf/po/pl.po | 
+ | [pt](/f15/language/pt) | 843 | 843 | 100.0 | /mnt/stockage/packages/f15/libgsf/po/pt.po | 
+ | [pt_BR](/f15/language/pt_BR) | 843 | 843 | 100.0 | /mnt/stockage/packages/f15/libgsf/po/pt_BR.po | 
+ | [sl](/f15/language/sl) | 843 | 843 | 100.0 | /mnt/stockage/packages/f15/libgsf/po/sl.po | 
+ | [sv](/f15/language/sv) | 843 | 843 | 100.0 | /mnt/stockage/packages/f15/libgsf/po/sv.po | 
+ | [zh_Hans](/f15/language/zh_Hans) | 843 | 843 | 100.0 | /mnt/stockage/packages/f15/libgsf/po/zh_CN.po | 
+ | [zh_Hant](/f15/language/zh_Hant) | 647 | 715 | 90.5 | /mnt/stockage/packages/f15/libgsf/po/zh_TW.po | 
+ | [zh_Hant_HK](/f15/language/zh_Hant_HK) | 647 | 715 | 90.5 | /mnt/stockage/packages/f15/libgsf/po/zh_HK.po | 
+ | [pa](/f15/language/pa) | 69 | 843 | 8.2 | /mnt/stockage/packages/f15/libgsf/po/pa.po | 
+ | [nb_NO](/f15/language/nb_NO) | 50 | 753 | 6.6 | /mnt/stockage/packages/f15/libgsf/po/nb.po | 
+ | [oc](/f15/language/oc) | 0 | 77 | 0.0 | /mnt/stockage/packages/f15/libgsf/po/oc.po | 
 {.sortable}
 
 

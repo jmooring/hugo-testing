@@ -18,14 +18,14 @@ The package cups (version 2.1.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [es]({{< ref "/f23/language/es.md" >}}) | 7854 | 7914 | 99.2 | /mnt/stockage/packages/f23/cups/locale/cups_es.po | 
- | [ja]({{< ref "/f23/language/ja.md" >}}) | 7854 | 7914 | 99.2 | /mnt/stockage/packages/f23/cups/locale/cups_ja.po | 
- | [it]({{< ref "/f23/language/it.md" >}}) | 7606 | 7914 | 96.1 | /mnt/stockage/packages/f23/cups/locale/cups_it.po | 
- | [ru]({{< ref "/f23/language/ru.md" >}}) | 7379 | 7914 | 93.2 | /mnt/stockage/packages/f23/cups/locale/cups_ru.po | 
- | [ca]({{< ref "/f23/language/ca.md" >}}) | 6615 | 7914 | 83.6 | /mnt/stockage/packages/f23/cups/locale/cups_ca.po | 
- | [de]({{< ref "/f23/language/de.md" >}}) | 2457 | 7914 | 31.0 | /mnt/stockage/packages/f23/cups/locale/cups_de.po | 
- | [cs]({{< ref "/f23/language/cs.md" >}}) | 1207 | 7914 | 15.3 | /mnt/stockage/packages/f23/cups/locale/cups_cs.po | 
- | [fr]({{< ref "/f23/language/fr.md" >}}) | 1155 | 7924 | 14.6 | /mnt/stockage/packages/f23/cups/locale/cups_fr.po/mnt/stockage/packages/f23/cups/ppdc/foo-fr.po | 
+ | [es](/f23/language/es) | 7854 | 7914 | 99.2 | /mnt/stockage/packages/f23/cups/locale/cups_es.po | 
+ | [ja](/f23/language/ja) | 7854 | 7914 | 99.2 | /mnt/stockage/packages/f23/cups/locale/cups_ja.po | 
+ | [it](/f23/language/it) | 7606 | 7914 | 96.1 | /mnt/stockage/packages/f23/cups/locale/cups_it.po | 
+ | [ru](/f23/language/ru) | 7379 | 7914 | 93.2 | /mnt/stockage/packages/f23/cups/locale/cups_ru.po | 
+ | [ca](/f23/language/ca) | 6615 | 7914 | 83.6 | /mnt/stockage/packages/f23/cups/locale/cups_ca.po | 
+ | [de](/f23/language/de) | 2457 | 7914 | 31.0 | /mnt/stockage/packages/f23/cups/locale/cups_de.po | 
+ | [cs](/f23/language/cs) | 1207 | 7914 | 15.3 | /mnt/stockage/packages/f23/cups/locale/cups_cs.po | 
+ | [fr](/f23/language/fr) | 1155 | 7924 | 14.6 | /mnt/stockage/packages/f23/cups/locale/cups_fr.po/mnt/stockage/packages/f23/cups/ppdc/foo-fr.po | 
 {.sortable}
 
 

@@ -18,7 +18,7 @@ The package cockpit-session-recording (version 16):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f40/language/de.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f40/cockpit-session-recording/po/de.po | 
+ | [de](/f40/language/de) | 4 | 4 | 100.0 | /mnt/stockage/packages/f40/cockpit-session-recording/po/de.po | 
 {.sortable}
 
 

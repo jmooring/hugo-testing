@@ -18,43 +18,43 @@ The package accessibility-inspector (version 25.12.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f42/language/ar.md" >}}) | 197 | 197 | 100.0 | /mnt/stockage/packages/f42/accessibility-inspector/po/ar/accessibilityinspector.po | 
- | [ca]({{< ref "/f42/language/ca.md" >}}) | 197 | 197 | 100.0 | /mnt/stockage/packages/f42/accessibility-inspector/po/ca/accessibilityinspector.po | 
- | [ca@valencia]({{< ref "/f42/language/ca@valencia.md" >}}) | 197 | 197 | 100.0 | /mnt/stockage/packages/f42/accessibility-inspector/po/ca@valencia/accessibilityinspector.po | 
- | [en_GB]({{< ref "/f42/language/en_GB.md" >}}) | 197 | 197 | 100.0 | /mnt/stockage/packages/f42/accessibility-inspector/po/en_GB/accessibilityinspector.po | 
- | [eo]({{< ref "/f42/language/eo.md" >}}) | 197 | 197 | 100.0 | /mnt/stockage/packages/f42/accessibility-inspector/po/eo/accessibilityinspector.po | 
- | [es]({{< ref "/f42/language/es.md" >}}) | 197 | 197 | 100.0 | /mnt/stockage/packages/f42/accessibility-inspector/po/es/accessibilityinspector.po | 
- | [eu]({{< ref "/f42/language/eu.md" >}}) | 197 | 197 | 100.0 | /mnt/stockage/packages/f42/accessibility-inspector/po/eu/accessibilityinspector.po | 
- | [fr]({{< ref "/f42/language/fr.md" >}}) | 197 | 197 | 100.0 | /mnt/stockage/packages/f42/accessibility-inspector/po/fr/accessibilityinspector.po | 
- | [gl]({{< ref "/f42/language/gl.md" >}}) | 197 | 197 | 100.0 | /mnt/stockage/packages/f42/accessibility-inspector/po/gl/accessibilityinspector.po | 
- | [he]({{< ref "/f42/language/he.md" >}}) | 197 | 197 | 100.0 | /mnt/stockage/packages/f42/accessibility-inspector/po/he/accessibilityinspector.po | 
- | [hi]({{< ref "/f42/language/hi.md" >}}) | 197 | 197 | 100.0 | /mnt/stockage/packages/f42/accessibility-inspector/po/hi/accessibilityinspector.po | 
- | [hu]({{< ref "/f42/language/hu.md" >}}) | 197 | 197 | 100.0 | /mnt/stockage/packages/f42/accessibility-inspector/po/hu/accessibilityinspector.po | 
- | [ia]({{< ref "/f42/language/ia.md" >}}) | 197 | 197 | 100.0 | /mnt/stockage/packages/f42/accessibility-inspector/po/ia/accessibilityinspector.po | 
- | [it]({{< ref "/f42/language/it.md" >}}) | 197 | 197 | 100.0 | /mnt/stockage/packages/f42/accessibility-inspector/po/it/accessibilityinspector.po | 
- | [ka]({{< ref "/f42/language/ka.md" >}}) | 197 | 197 | 100.0 | /mnt/stockage/packages/f42/accessibility-inspector/po/ka/accessibilityinspector.po | 
- | [ko]({{< ref "/f42/language/ko.md" >}}) | 197 | 197 | 100.0 | /mnt/stockage/packages/f42/accessibility-inspector/po/ko/accessibilityinspector.po | 
- | [lv]({{< ref "/f42/language/lv.md" >}}) | 197 | 197 | 100.0 | /mnt/stockage/packages/f42/accessibility-inspector/po/lv/accessibilityinspector.po | 
- | [nl]({{< ref "/f42/language/nl.md" >}}) | 197 | 197 | 100.0 | /mnt/stockage/packages/f42/accessibility-inspector/po/nl/accessibilityinspector.po | 
- | [pl]({{< ref "/f42/language/pl.md" >}}) | 197 | 197 | 100.0 | /mnt/stockage/packages/f42/accessibility-inspector/po/pl/accessibilityinspector.po | 
- | [pt_BR]({{< ref "/f42/language/pt_BR.md" >}}) | 197 | 197 | 100.0 | /mnt/stockage/packages/f42/accessibility-inspector/po/pt_BR/accessibilityinspector.po | 
- | [ru]({{< ref "/f42/language/ru.md" >}}) | 197 | 197 | 100.0 | /mnt/stockage/packages/f42/accessibility-inspector/po/ru/accessibilityinspector.po | 
- | [sa]({{< ref "/f42/language/sa.md" >}}) | 197 | 197 | 100.0 | /mnt/stockage/packages/f42/accessibility-inspector/po/sa/accessibilityinspector.po | 
- | [sl]({{< ref "/f42/language/sl.md" >}}) | 197 | 197 | 100.0 | /mnt/stockage/packages/f42/accessibility-inspector/po/sl/accessibilityinspector.po | 
- | [sv]({{< ref "/f42/language/sv.md" >}}) | 197 | 197 | 100.0 | /mnt/stockage/packages/f42/accessibility-inspector/po/sv/accessibilityinspector.po | 
- | [tr]({{< ref "/f42/language/tr.md" >}}) | 197 | 197 | 100.0 | /mnt/stockage/packages/f42/accessibility-inspector/po/tr/accessibilityinspector.po | 
- | [uk]({{< ref "/f42/language/uk.md" >}}) | 197 | 197 | 100.0 | /mnt/stockage/packages/f42/accessibility-inspector/po/uk/accessibilityinspector.po | 
- | [zh_Hans]({{< ref "/f42/language/zh_Hans.md" >}}) | 197 | 197 | 100.0 | /mnt/stockage/packages/f42/accessibility-inspector/po/zh_CN/accessibilityinspector.po | 
- | [zh_Hant]({{< ref "/f42/language/zh_Hant.md" >}}) | 197 | 197 | 100.0 | /mnt/stockage/packages/f42/accessibility-inspector/po/zh_TW/accessibilityinspector.po | 
- | [fi]({{< ref "/f42/language/fi.md" >}}) | 196 | 197 | 99.5 | /mnt/stockage/packages/f42/accessibility-inspector/po/fi/accessibilityinspector.po | 
- | [cs]({{< ref "/f42/language/cs.md" >}}) | 125 | 197 | 63.5 | /mnt/stockage/packages/f42/accessibility-inspector/po/cs/accessibilityinspector.po | 
- | [de]({{< ref "/f42/language/de.md" >}}) | 111 | 197 | 56.3 | /mnt/stockage/packages/f42/accessibility-inspector/po/de/accessibilityinspector.po | 
- | [sk]({{< ref "/f42/language/sk.md" >}}) | 64 | 197 | 32.5 | /mnt/stockage/packages/f42/accessibility-inspector/po/sk/accessibilityinspector.po | 
- | [tg]({{< ref "/f42/language/tg.md" >}}) | 31 | 197 | 15.7 | /mnt/stockage/packages/f42/accessibility-inspector/po/tg/accessibilityinspector.po | 
- | [ast]({{< ref "/f42/language/ast.md" >}}) | 5 | 197 | 2.5 | /mnt/stockage/packages/f42/accessibility-inspector/po/ast/accessibilityinspector.po | 
- | [ga]({{< ref "/f42/language/ga.md" >}}) | 0 | 197 | 0.0 | /mnt/stockage/packages/f42/accessibility-inspector/po/ga/accessibilityinspector.po | 
- | [ja]({{< ref "/f42/language/ja.md" >}}) | 0 | 197 | 0.0 | /mnt/stockage/packages/f42/accessibility-inspector/po/ja/accessibilityinspector.po | 
- | [lt]({{< ref "/f42/language/lt.md" >}}) | 0 | 197 | 0.0 | /mnt/stockage/packages/f42/accessibility-inspector/po/lt/accessibilityinspector.po | 
+ | [ar](/f42/language/ar) | 197 | 197 | 100.0 | /mnt/stockage/packages/f42/accessibility-inspector/po/ar/accessibilityinspector.po | 
+ | [ca](/f42/language/ca) | 197 | 197 | 100.0 | /mnt/stockage/packages/f42/accessibility-inspector/po/ca/accessibilityinspector.po | 
+ | [ca@valencia](/f42/language/ca@valencia) | 197 | 197 | 100.0 | /mnt/stockage/packages/f42/accessibility-inspector/po/ca@valencia/accessibilityinspector.po | 
+ | [en_GB](/f42/language/en_GB) | 197 | 197 | 100.0 | /mnt/stockage/packages/f42/accessibility-inspector/po/en_GB/accessibilityinspector.po | 
+ | [eo](/f42/language/eo) | 197 | 197 | 100.0 | /mnt/stockage/packages/f42/accessibility-inspector/po/eo/accessibilityinspector.po | 
+ | [es](/f42/language/es) | 197 | 197 | 100.0 | /mnt/stockage/packages/f42/accessibility-inspector/po/es/accessibilityinspector.po | 
+ | [eu](/f42/language/eu) | 197 | 197 | 100.0 | /mnt/stockage/packages/f42/accessibility-inspector/po/eu/accessibilityinspector.po | 
+ | [fr](/f42/language/fr) | 197 | 197 | 100.0 | /mnt/stockage/packages/f42/accessibility-inspector/po/fr/accessibilityinspector.po | 
+ | [gl](/f42/language/gl) | 197 | 197 | 100.0 | /mnt/stockage/packages/f42/accessibility-inspector/po/gl/accessibilityinspector.po | 
+ | [he](/f42/language/he) | 197 | 197 | 100.0 | /mnt/stockage/packages/f42/accessibility-inspector/po/he/accessibilityinspector.po | 
+ | [hi](/f42/language/hi) | 197 | 197 | 100.0 | /mnt/stockage/packages/f42/accessibility-inspector/po/hi/accessibilityinspector.po | 
+ | [hu](/f42/language/hu) | 197 | 197 | 100.0 | /mnt/stockage/packages/f42/accessibility-inspector/po/hu/accessibilityinspector.po | 
+ | [ia](/f42/language/ia) | 197 | 197 | 100.0 | /mnt/stockage/packages/f42/accessibility-inspector/po/ia/accessibilityinspector.po | 
+ | [it](/f42/language/it) | 197 | 197 | 100.0 | /mnt/stockage/packages/f42/accessibility-inspector/po/it/accessibilityinspector.po | 
+ | [ka](/f42/language/ka) | 197 | 197 | 100.0 | /mnt/stockage/packages/f42/accessibility-inspector/po/ka/accessibilityinspector.po | 
+ | [ko](/f42/language/ko) | 197 | 197 | 100.0 | /mnt/stockage/packages/f42/accessibility-inspector/po/ko/accessibilityinspector.po | 
+ | [lv](/f42/language/lv) | 197 | 197 | 100.0 | /mnt/stockage/packages/f42/accessibility-inspector/po/lv/accessibilityinspector.po | 
+ | [nl](/f42/language/nl) | 197 | 197 | 100.0 | /mnt/stockage/packages/f42/accessibility-inspector/po/nl/accessibilityinspector.po | 
+ | [pl](/f42/language/pl) | 197 | 197 | 100.0 | /mnt/stockage/packages/f42/accessibility-inspector/po/pl/accessibilityinspector.po | 
+ | [pt_BR](/f42/language/pt_BR) | 197 | 197 | 100.0 | /mnt/stockage/packages/f42/accessibility-inspector/po/pt_BR/accessibilityinspector.po | 
+ | [ru](/f42/language/ru) | 197 | 197 | 100.0 | /mnt/stockage/packages/f42/accessibility-inspector/po/ru/accessibilityinspector.po | 
+ | [sa](/f42/language/sa) | 197 | 197 | 100.0 | /mnt/stockage/packages/f42/accessibility-inspector/po/sa/accessibilityinspector.po | 
+ | [sl](/f42/language/sl) | 197 | 197 | 100.0 | /mnt/stockage/packages/f42/accessibility-inspector/po/sl/accessibilityinspector.po | 
+ | [sv](/f42/language/sv) | 197 | 197 | 100.0 | /mnt/stockage/packages/f42/accessibility-inspector/po/sv/accessibilityinspector.po | 
+ | [tr](/f42/language/tr) | 197 | 197 | 100.0 | /mnt/stockage/packages/f42/accessibility-inspector/po/tr/accessibilityinspector.po | 
+ | [uk](/f42/language/uk) | 197 | 197 | 100.0 | /mnt/stockage/packages/f42/accessibility-inspector/po/uk/accessibilityinspector.po | 
+ | [zh_Hans](/f42/language/zh_Hans) | 197 | 197 | 100.0 | /mnt/stockage/packages/f42/accessibility-inspector/po/zh_CN/accessibilityinspector.po | 
+ | [zh_Hant](/f42/language/zh_Hant) | 197 | 197 | 100.0 | /mnt/stockage/packages/f42/accessibility-inspector/po/zh_TW/accessibilityinspector.po | 
+ | [fi](/f42/language/fi) | 196 | 197 | 99.5 | /mnt/stockage/packages/f42/accessibility-inspector/po/fi/accessibilityinspector.po | 
+ | [cs](/f42/language/cs) | 125 | 197 | 63.5 | /mnt/stockage/packages/f42/accessibility-inspector/po/cs/accessibilityinspector.po | 
+ | [de](/f42/language/de) | 111 | 197 | 56.3 | /mnt/stockage/packages/f42/accessibility-inspector/po/de/accessibilityinspector.po | 
+ | [sk](/f42/language/sk) | 64 | 197 | 32.5 | /mnt/stockage/packages/f42/accessibility-inspector/po/sk/accessibilityinspector.po | 
+ | [tg](/f42/language/tg) | 31 | 197 | 15.7 | /mnt/stockage/packages/f42/accessibility-inspector/po/tg/accessibilityinspector.po | 
+ | [ast](/f42/language/ast) | 5 | 197 | 2.5 | /mnt/stockage/packages/f42/accessibility-inspector/po/ast/accessibilityinspector.po | 
+ | [ga](/f42/language/ga) | 0 | 197 | 0.0 | /mnt/stockage/packages/f42/accessibility-inspector/po/ga/accessibilityinspector.po | 
+ | [ja](/f42/language/ja) | 0 | 197 | 0.0 | /mnt/stockage/packages/f42/accessibility-inspector/po/ja/accessibilityinspector.po | 
+ | [lt](/f42/language/lt) | 0 | 197 | 0.0 | /mnt/stockage/packages/f42/accessibility-inspector/po/lt/accessibilityinspector.po | 
 {.sortable}
 
 

@@ -18,11 +18,11 @@ The package opensp (version 1.5.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f8/language/de.md" >}}) | 5771 | 5771 | 100.0 | /mnt/stockage/packages/f8/opensp/po/de.po | 
- | [fr]({{< ref "/f8/language/fr.md" >}}) | 5771 | 5771 | 100.0 | /mnt/stockage/packages/f8/opensp/po/fr.po | 
- | [tr]({{< ref "/f8/language/tr.md" >}}) | 5771 | 5771 | 100.0 | /mnt/stockage/packages/f8/opensp/po/tr.po | 
- | [ja]({{< ref "/f8/language/ja.md" >}}) | 5364 | 5771 | 92.9 | /mnt/stockage/packages/f8/opensp/po/ja.po | 
- | [sv]({{< ref "/f8/language/sv.md" >}}) | 4379 | 5771 | 75.9 | /mnt/stockage/packages/f8/opensp/po/sv.po | 
+ | [de](/f8/language/de) | 5771 | 5771 | 100.0 | /mnt/stockage/packages/f8/opensp/po/de.po | 
+ | [fr](/f8/language/fr) | 5771 | 5771 | 100.0 | /mnt/stockage/packages/f8/opensp/po/fr.po | 
+ | [tr](/f8/language/tr) | 5771 | 5771 | 100.0 | /mnt/stockage/packages/f8/opensp/po/tr.po | 
+ | [ja](/f8/language/ja) | 5364 | 5771 | 92.9 | /mnt/stockage/packages/f8/opensp/po/ja.po | 
+ | [sv](/f8/language/sv) | 4379 | 5771 | 75.9 | /mnt/stockage/packages/f8/opensp/po/sv.po | 
 {.sortable}
 
 

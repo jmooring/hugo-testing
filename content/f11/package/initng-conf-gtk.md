@@ -18,11 +18,11 @@ The package initng-conf-gtk (version 0.5.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f11/language/cs.md" >}}) | 117 | 117 | 100.0 | /mnt/stockage/packages/f11/initng-conf-gtk/po/cs.po | 
- | [fr]({{< ref "/f11/language/fr.md" >}}) | 117 | 117 | 100.0 | /mnt/stockage/packages/f11/initng-conf-gtk/po/fr.po | 
- | [pl]({{< ref "/f11/language/pl.md" >}}) | 120 | 120 | 100.0 | /mnt/stockage/packages/f11/initng-conf-gtk/po/pl.po | 
- | [sv]({{< ref "/f11/language/sv.md" >}}) | 166 | 176 | 94.3 | /mnt/stockage/packages/f11/initng-conf-gtk/po/sv.po | 
- | [de]({{< ref "/f11/language/de.md" >}}) | 108 | 117 | 92.3 | /mnt/stockage/packages/f11/initng-conf-gtk/po/de.po | 
+ | [cs](/f11/language/cs) | 117 | 117 | 100.0 | /mnt/stockage/packages/f11/initng-conf-gtk/po/cs.po | 
+ | [fr](/f11/language/fr) | 117 | 117 | 100.0 | /mnt/stockage/packages/f11/initng-conf-gtk/po/fr.po | 
+ | [pl](/f11/language/pl) | 120 | 120 | 100.0 | /mnt/stockage/packages/f11/initng-conf-gtk/po/pl.po | 
+ | [sv](/f11/language/sv) | 166 | 176 | 94.3 | /mnt/stockage/packages/f11/initng-conf-gtk/po/sv.po | 
+ | [de](/f11/language/de) | 108 | 117 | 92.3 | /mnt/stockage/packages/f11/initng-conf-gtk/po/de.po | 
 {.sortable}
 
 

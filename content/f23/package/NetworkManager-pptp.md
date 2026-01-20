@@ -18,61 +18,61 @@ The package NetworkManager-pptp (version 1.1.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [as]({{< ref "/f23/language/as.md" >}}) | 115 | 115 | 100.0 | /mnt/stockage/packages/f23/NetworkManager-pptp/po/as.po | 
- | [be_Latn]({{< ref "/f23/language/be_Latn.md" >}}) | 114 | 114 | 100.0 | /mnt/stockage/packages/f23/NetworkManager-pptp/po/be@latin.po | 
- | [bg]({{< ref "/f23/language/bg.md" >}}) | 144 | 144 | 100.0 | /mnt/stockage/packages/f23/NetworkManager-pptp/po/bg.po | 
- | [bn_IN]({{< ref "/f23/language/bn_IN.md" >}}) | 115 | 115 | 100.0 | /mnt/stockage/packages/f23/NetworkManager-pptp/po/bn_IN.po | 
- | [bs]({{< ref "/f23/language/bs.md" >}}) | 410 | 410 | 100.0 | /mnt/stockage/packages/f23/NetworkManager-pptp/po/bs.po | 
- | [cs]({{< ref "/f23/language/cs.md" >}}) | 424 | 424 | 100.0 | /mnt/stockage/packages/f23/NetworkManager-pptp/po/cs.po | 
- | [da]({{< ref "/f23/language/da.md" >}}) | 415 | 415 | 100.0 | /mnt/stockage/packages/f23/NetworkManager-pptp/po/da.po | 
- | [de]({{< ref "/f23/language/de.md" >}}) | 415 | 415 | 100.0 | /mnt/stockage/packages/f23/NetworkManager-pptp/po/de.po | 
- | [el]({{< ref "/f23/language/el.md" >}}) | 415 | 415 | 100.0 | /mnt/stockage/packages/f23/NetworkManager-pptp/po/el.po | 
- | [en_GB]({{< ref "/f23/language/en_GB.md" >}}) | 144 | 144 | 100.0 | /mnt/stockage/packages/f23/NetworkManager-pptp/po/en_GB.po | 
- | [es]({{< ref "/f23/language/es.md" >}}) | 415 | 415 | 100.0 | /mnt/stockage/packages/f23/NetworkManager-pptp/po/es.po | 
- | [et]({{< ref "/f23/language/et.md" >}}) | 144 | 144 | 100.0 | /mnt/stockage/packages/f23/NetworkManager-pptp/po/et.po | 
- | [eu]({{< ref "/f23/language/eu.md" >}}) | 410 | 410 | 100.0 | /mnt/stockage/packages/f23/NetworkManager-pptp/po/eu.po | 
- | [fr]({{< ref "/f23/language/fr.md" >}}) | 415 | 415 | 100.0 | /mnt/stockage/packages/f23/NetworkManager-pptp/po/fr.po | 
- | [gl]({{< ref "/f23/language/gl.md" >}}) | 415 | 415 | 100.0 | /mnt/stockage/packages/f23/NetworkManager-pptp/po/gl.po | 
- | [gu]({{< ref "/f23/language/gu.md" >}}) | 144 | 144 | 100.0 | /mnt/stockage/packages/f23/NetworkManager-pptp/po/gu.po | 
- | [he]({{< ref "/f23/language/he.md" >}}) | 144 | 144 | 100.0 | /mnt/stockage/packages/f23/NetworkManager-pptp/po/he.po | 
- | [hu]({{< ref "/f23/language/hu.md" >}}) | 424 | 424 | 100.0 | /mnt/stockage/packages/f23/NetworkManager-pptp/po/hu.po | 
- | [id]({{< ref "/f23/language/id.md" >}}) | 415 | 415 | 100.0 | /mnt/stockage/packages/f23/NetworkManager-pptp/po/id.po | 
- | [it]({{< ref "/f23/language/it.md" >}}) | 413 | 413 | 100.0 | /mnt/stockage/packages/f23/NetworkManager-pptp/po/it.po | 
- | [ka]({{< ref "/f23/language/ka.md" >}}) | 584 | 584 | 100.0 | /mnt/stockage/packages/f23/NetworkManager-pptp/po/ka.po | 
- | [kn]({{< ref "/f23/language/kn.md" >}}) | 118 | 118 | 100.0 | /mnt/stockage/packages/f23/NetworkManager-pptp/po/kn.po | 
- | [ko]({{< ref "/f23/language/ko.md" >}}) | 144 | 144 | 100.0 | /mnt/stockage/packages/f23/NetworkManager-pptp/po/ko.po | 
- | [lt]({{< ref "/f23/language/lt.md" >}}) | 415 | 415 | 100.0 | /mnt/stockage/packages/f23/NetworkManager-pptp/po/lt.po | 
- | [lv]({{< ref "/f23/language/lv.md" >}}) | 410 | 410 | 100.0 | /mnt/stockage/packages/f23/NetworkManager-pptp/po/lv.po | 
- | [mk]({{< ref "/f23/language/mk.md" >}}) | 584 | 584 | 100.0 | /mnt/stockage/packages/f23/NetworkManager-pptp/po/mk.po | 
- | [mr]({{< ref "/f23/language/mr.md" >}}) | 115 | 115 | 100.0 | /mnt/stockage/packages/f23/NetworkManager-pptp/po/mr.po | 
- | [nl]({{< ref "/f23/language/nl.md" >}}) | 110 | 110 | 100.0 | /mnt/stockage/packages/f23/NetworkManager-pptp/po/nl.po | 
- | [pl]({{< ref "/f23/language/pl.md" >}}) | 424 | 424 | 100.0 | /mnt/stockage/packages/f23/NetworkManager-pptp/po/pl.po | 
- | [pt]({{< ref "/f23/language/pt.md" >}}) | 415 | 415 | 100.0 | /mnt/stockage/packages/f23/NetworkManager-pptp/po/pt.po | 
- | [pt_BR]({{< ref "/f23/language/pt_BR.md" >}}) | 415 | 415 | 100.0 | /mnt/stockage/packages/f23/NetworkManager-pptp/po/pt_BR.po | 
- | [ro]({{< ref "/f23/language/ro.md" >}}) | 144 | 144 | 100.0 | /mnt/stockage/packages/f23/NetworkManager-pptp/po/ro.po | 
- | [sl]({{< ref "/f23/language/sl.md" >}}) | 415 | 415 | 100.0 | /mnt/stockage/packages/f23/NetworkManager-pptp/po/sl.po | 
- | [sr]({{< ref "/f23/language/sr.md" >}}) | 830 | 830 | 100.0 | /mnt/stockage/packages/f23/NetworkManager-pptp/po/sr@latin.po/mnt/stockage/packages/f23/NetworkManager-pptp/po/sr.po | 
- | [sv]({{< ref "/f23/language/sv.md" >}}) | 410 | 410 | 100.0 | /mnt/stockage/packages/f23/NetworkManager-pptp/po/sv.po | 
- | [ta]({{< ref "/f23/language/ta.md" >}}) | 144 | 144 | 100.0 | /mnt/stockage/packages/f23/NetworkManager-pptp/po/ta.po | 
- | [te]({{< ref "/f23/language/te.md" >}}) | 118 | 118 | 100.0 | /mnt/stockage/packages/f23/NetworkManager-pptp/po/te.po | 
- | [th]({{< ref "/f23/language/th.md" >}}) | 584 | 584 | 100.0 | /mnt/stockage/packages/f23/NetworkManager-pptp/po/th.po | 
- | [tr]({{< ref "/f23/language/tr.md" >}}) | 410 | 410 | 100.0 | /mnt/stockage/packages/f23/NetworkManager-pptp/po/tr.po | 
- | [uk]({{< ref "/f23/language/uk.md" >}}) | 144 | 144 | 100.0 | /mnt/stockage/packages/f23/NetworkManager-pptp/po/uk.po | 
- | [vi]({{< ref "/f23/language/vi.md" >}}) | 588 | 588 | 100.0 | /mnt/stockage/packages/f23/NetworkManager-pptp/po/vi.po | 
- | [zh_Hans]({{< ref "/f23/language/zh_Hans.md" >}}) | 280 | 280 | 100.0 | /mnt/stockage/packages/f23/NetworkManager-pptp/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f23/language/zh_Hant.md" >}}) | 144 | 144 | 100.0 | /mnt/stockage/packages/f23/NetworkManager-pptp/po/zh_TW.po | 
- | [zh_Hant_HK]({{< ref "/f23/language/zh_Hant_HK.md" >}}) | 144 | 144 | 100.0 | /mnt/stockage/packages/f23/NetworkManager-pptp/po/zh_HK.po | 
- | [ja]({{< ref "/f23/language/ja.md" >}}) | 273 | 280 | 97.5 | /mnt/stockage/packages/f23/NetworkManager-pptp/po/ja.po | 
- | [ru]({{< ref "/f23/language/ru.md" >}}) | 400 | 415 | 96.4 | /mnt/stockage/packages/f23/NetworkManager-pptp/po/ru.po | 
- | [ca@valencia]({{< ref "/f23/language/ca@valencia.md" >}}) | 115 | 144 | 79.9 | /mnt/stockage/packages/f23/NetworkManager-pptp/po/ca@valencia.po | 
- | [ug]({{< ref "/f23/language/ug.md" >}}) | 102 | 144 | 70.8 | /mnt/stockage/packages/f23/NetworkManager-pptp/po/ug.po | 
- | [fa]({{< ref "/f23/language/fa.md" >}}) | 144 | 289 | 49.8 | /mnt/stockage/packages/f23/NetworkManager-pptp/po/fa.po | 
- | [nb_NO]({{< ref "/f23/language/nb_NO.md" >}}) | 193 | 415 | 46.5 | /mnt/stockage/packages/f23/NetworkManager-pptp/po/nb.po | 
- | [pa]({{< ref "/f23/language/pa.md" >}}) | 188 | 415 | 45.3 | /mnt/stockage/packages/f23/NetworkManager-pptp/po/pa.po | 
- | [fi]({{< ref "/f23/language/fi.md" >}}) | 147 | 410 | 35.9 | /mnt/stockage/packages/f23/NetworkManager-pptp/po/fi.po | 
- | [ca]({{< ref "/f23/language/ca.md" >}}) | 114 | 413 | 27.6 | /mnt/stockage/packages/f23/NetworkManager-pptp/po/ca.po | 
- | [eo]({{< ref "/f23/language/eo.md" >}}) | 37 | 280 | 13.2 | /mnt/stockage/packages/f23/NetworkManager-pptp/po/eo.po | 
- | [ar]({{< ref "/f23/language/ar.md" >}}) | 11 | 112 | 9.8 | /mnt/stockage/packages/f23/NetworkManager-pptp/po/ar.po | 
+ | [as](/f23/language/as) | 115 | 115 | 100.0 | /mnt/stockage/packages/f23/NetworkManager-pptp/po/as.po | 
+ | [be_Latn](/f23/language/be_Latn) | 114 | 114 | 100.0 | /mnt/stockage/packages/f23/NetworkManager-pptp/po/be@latin.po | 
+ | [bg](/f23/language/bg) | 144 | 144 | 100.0 | /mnt/stockage/packages/f23/NetworkManager-pptp/po/bg.po | 
+ | [bn_IN](/f23/language/bn_IN) | 115 | 115 | 100.0 | /mnt/stockage/packages/f23/NetworkManager-pptp/po/bn_IN.po | 
+ | [bs](/f23/language/bs) | 410 | 410 | 100.0 | /mnt/stockage/packages/f23/NetworkManager-pptp/po/bs.po | 
+ | [cs](/f23/language/cs) | 424 | 424 | 100.0 | /mnt/stockage/packages/f23/NetworkManager-pptp/po/cs.po | 
+ | [da](/f23/language/da) | 415 | 415 | 100.0 | /mnt/stockage/packages/f23/NetworkManager-pptp/po/da.po | 
+ | [de](/f23/language/de) | 415 | 415 | 100.0 | /mnt/stockage/packages/f23/NetworkManager-pptp/po/de.po | 
+ | [el](/f23/language/el) | 415 | 415 | 100.0 | /mnt/stockage/packages/f23/NetworkManager-pptp/po/el.po | 
+ | [en_GB](/f23/language/en_GB) | 144 | 144 | 100.0 | /mnt/stockage/packages/f23/NetworkManager-pptp/po/en_GB.po | 
+ | [es](/f23/language/es) | 415 | 415 | 100.0 | /mnt/stockage/packages/f23/NetworkManager-pptp/po/es.po | 
+ | [et](/f23/language/et) | 144 | 144 | 100.0 | /mnt/stockage/packages/f23/NetworkManager-pptp/po/et.po | 
+ | [eu](/f23/language/eu) | 410 | 410 | 100.0 | /mnt/stockage/packages/f23/NetworkManager-pptp/po/eu.po | 
+ | [fr](/f23/language/fr) | 415 | 415 | 100.0 | /mnt/stockage/packages/f23/NetworkManager-pptp/po/fr.po | 
+ | [gl](/f23/language/gl) | 415 | 415 | 100.0 | /mnt/stockage/packages/f23/NetworkManager-pptp/po/gl.po | 
+ | [gu](/f23/language/gu) | 144 | 144 | 100.0 | /mnt/stockage/packages/f23/NetworkManager-pptp/po/gu.po | 
+ | [he](/f23/language/he) | 144 | 144 | 100.0 | /mnt/stockage/packages/f23/NetworkManager-pptp/po/he.po | 
+ | [hu](/f23/language/hu) | 424 | 424 | 100.0 | /mnt/stockage/packages/f23/NetworkManager-pptp/po/hu.po | 
+ | [id](/f23/language/id) | 415 | 415 | 100.0 | /mnt/stockage/packages/f23/NetworkManager-pptp/po/id.po | 
+ | [it](/f23/language/it) | 413 | 413 | 100.0 | /mnt/stockage/packages/f23/NetworkManager-pptp/po/it.po | 
+ | [ka](/f23/language/ka) | 584 | 584 | 100.0 | /mnt/stockage/packages/f23/NetworkManager-pptp/po/ka.po | 
+ | [kn](/f23/language/kn) | 118 | 118 | 100.0 | /mnt/stockage/packages/f23/NetworkManager-pptp/po/kn.po | 
+ | [ko](/f23/language/ko) | 144 | 144 | 100.0 | /mnt/stockage/packages/f23/NetworkManager-pptp/po/ko.po | 
+ | [lt](/f23/language/lt) | 415 | 415 | 100.0 | /mnt/stockage/packages/f23/NetworkManager-pptp/po/lt.po | 
+ | [lv](/f23/language/lv) | 410 | 410 | 100.0 | /mnt/stockage/packages/f23/NetworkManager-pptp/po/lv.po | 
+ | [mk](/f23/language/mk) | 584 | 584 | 100.0 | /mnt/stockage/packages/f23/NetworkManager-pptp/po/mk.po | 
+ | [mr](/f23/language/mr) | 115 | 115 | 100.0 | /mnt/stockage/packages/f23/NetworkManager-pptp/po/mr.po | 
+ | [nl](/f23/language/nl) | 110 | 110 | 100.0 | /mnt/stockage/packages/f23/NetworkManager-pptp/po/nl.po | 
+ | [pl](/f23/language/pl) | 424 | 424 | 100.0 | /mnt/stockage/packages/f23/NetworkManager-pptp/po/pl.po | 
+ | [pt](/f23/language/pt) | 415 | 415 | 100.0 | /mnt/stockage/packages/f23/NetworkManager-pptp/po/pt.po | 
+ | [pt_BR](/f23/language/pt_BR) | 415 | 415 | 100.0 | /mnt/stockage/packages/f23/NetworkManager-pptp/po/pt_BR.po | 
+ | [ro](/f23/language/ro) | 144 | 144 | 100.0 | /mnt/stockage/packages/f23/NetworkManager-pptp/po/ro.po | 
+ | [sl](/f23/language/sl) | 415 | 415 | 100.0 | /mnt/stockage/packages/f23/NetworkManager-pptp/po/sl.po | 
+ | [sr](/f23/language/sr) | 830 | 830 | 100.0 | /mnt/stockage/packages/f23/NetworkManager-pptp/po/sr@latin.po/mnt/stockage/packages/f23/NetworkManager-pptp/po/sr.po | 
+ | [sv](/f23/language/sv) | 410 | 410 | 100.0 | /mnt/stockage/packages/f23/NetworkManager-pptp/po/sv.po | 
+ | [ta](/f23/language/ta) | 144 | 144 | 100.0 | /mnt/stockage/packages/f23/NetworkManager-pptp/po/ta.po | 
+ | [te](/f23/language/te) | 118 | 118 | 100.0 | /mnt/stockage/packages/f23/NetworkManager-pptp/po/te.po | 
+ | [th](/f23/language/th) | 584 | 584 | 100.0 | /mnt/stockage/packages/f23/NetworkManager-pptp/po/th.po | 
+ | [tr](/f23/language/tr) | 410 | 410 | 100.0 | /mnt/stockage/packages/f23/NetworkManager-pptp/po/tr.po | 
+ | [uk](/f23/language/uk) | 144 | 144 | 100.0 | /mnt/stockage/packages/f23/NetworkManager-pptp/po/uk.po | 
+ | [vi](/f23/language/vi) | 588 | 588 | 100.0 | /mnt/stockage/packages/f23/NetworkManager-pptp/po/vi.po | 
+ | [zh_Hans](/f23/language/zh_Hans) | 280 | 280 | 100.0 | /mnt/stockage/packages/f23/NetworkManager-pptp/po/zh_CN.po | 
+ | [zh_Hant](/f23/language/zh_Hant) | 144 | 144 | 100.0 | /mnt/stockage/packages/f23/NetworkManager-pptp/po/zh_TW.po | 
+ | [zh_Hant_HK](/f23/language/zh_Hant_HK) | 144 | 144 | 100.0 | /mnt/stockage/packages/f23/NetworkManager-pptp/po/zh_HK.po | 
+ | [ja](/f23/language/ja) | 273 | 280 | 97.5 | /mnt/stockage/packages/f23/NetworkManager-pptp/po/ja.po | 
+ | [ru](/f23/language/ru) | 400 | 415 | 96.4 | /mnt/stockage/packages/f23/NetworkManager-pptp/po/ru.po | 
+ | [ca@valencia](/f23/language/ca@valencia) | 115 | 144 | 79.9 | /mnt/stockage/packages/f23/NetworkManager-pptp/po/ca@valencia.po | 
+ | [ug](/f23/language/ug) | 102 | 144 | 70.8 | /mnt/stockage/packages/f23/NetworkManager-pptp/po/ug.po | 
+ | [fa](/f23/language/fa) | 144 | 289 | 49.8 | /mnt/stockage/packages/f23/NetworkManager-pptp/po/fa.po | 
+ | [nb_NO](/f23/language/nb_NO) | 193 | 415 | 46.5 | /mnt/stockage/packages/f23/NetworkManager-pptp/po/nb.po | 
+ | [pa](/f23/language/pa) | 188 | 415 | 45.3 | /mnt/stockage/packages/f23/NetworkManager-pptp/po/pa.po | 
+ | [fi](/f23/language/fi) | 147 | 410 | 35.9 | /mnt/stockage/packages/f23/NetworkManager-pptp/po/fi.po | 
+ | [ca](/f23/language/ca) | 114 | 413 | 27.6 | /mnt/stockage/packages/f23/NetworkManager-pptp/po/ca.po | 
+ | [eo](/f23/language/eo) | 37 | 280 | 13.2 | /mnt/stockage/packages/f23/NetworkManager-pptp/po/eo.po | 
+ | [ar](/f23/language/ar) | 11 | 112 | 9.8 | /mnt/stockage/packages/f23/NetworkManager-pptp/po/ar.po | 
 {.sortable}
 
 

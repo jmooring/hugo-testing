@@ -18,9 +18,9 @@ The package python-oslo-middleware (version 3.34.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f29/language/de.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f29/python-oslo-middleware/oslo_middleware/locale/de/LC_MESSAGES/oslo_middleware.po | 
- | [en_GB]({{< ref "/f29/language/en_GB.md" >}}) | 108 | 108 | 100.0 | /mnt/stockage/packages/f29/python-oslo-middleware/oslo_middleware/locale/en_GB/LC_MESSAGES/oslo_middleware.po/mnt/stockage/packages/f29/python-oslo-middleware/releasenotes/source/locale/en_GB/LC_MESSAGES/releasenotes.po | 
- | [fr]({{< ref "/f29/language/fr.md" >}}) | 20 | 20 | 100.0 | /mnt/stockage/packages/f29/python-oslo-middleware/oslo_middleware/locale/fr/LC_MESSAGES/oslo_middleware.po/mnt/stockage/packages/f29/python-oslo-middleware/releasenotes/source/locale/fr/LC_MESSAGES/releasenotes.po | 
+ | [de](/f29/language/de) | 4 | 4 | 100.0 | /mnt/stockage/packages/f29/python-oslo-middleware/oslo_middleware/locale/de/LC_MESSAGES/oslo_middleware.po | 
+ | [en_GB](/f29/language/en_GB) | 108 | 108 | 100.0 | /mnt/stockage/packages/f29/python-oslo-middleware/oslo_middleware/locale/en_GB/LC_MESSAGES/oslo_middleware.po/mnt/stockage/packages/f29/python-oslo-middleware/releasenotes/source/locale/en_GB/LC_MESSAGES/releasenotes.po | 
+ | [fr](/f29/language/fr) | 20 | 20 | 100.0 | /mnt/stockage/packages/f29/python-oslo-middleware/oslo_middleware/locale/fr/LC_MESSAGES/oslo_middleware.po/mnt/stockage/packages/f29/python-oslo-middleware/releasenotes/source/locale/fr/LC_MESSAGES/releasenotes.po | 
 {.sortable}
 
 

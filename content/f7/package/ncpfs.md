@@ -18,16 +18,16 @@ The package ncpfs (version 2.2.6):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f7/language/de.md" >}}) | 5662 | 5668 | 99.9 | /mnt/stockage/packages/f7/ncpfs/po/de.po | 
- | [hu]({{< ref "/f7/language/hu.md" >}}) | 5638 | 5666 | 99.5 | /mnt/stockage/packages/f7/ncpfs/po/hu.po | 
- | [es]({{< ref "/f7/language/es.md" >}}) | 5632 | 5666 | 99.4 | /mnt/stockage/packages/f7/ncpfs/po/es.po | 
- | [fr]({{< ref "/f7/language/fr.md" >}}) | 5632 | 5666 | 99.4 | /mnt/stockage/packages/f7/ncpfs/po/fr.po | 
- | [it]({{< ref "/f7/language/it.md" >}}) | 5632 | 5666 | 99.4 | /mnt/stockage/packages/f7/ncpfs/po/it.po | 
- | [ja]({{< ref "/f7/language/ja.md" >}}) | 5632 | 5666 | 99.4 | /mnt/stockage/packages/f7/ncpfs/po/ja.po | 
- | [pt_BR]({{< ref "/f7/language/pt_BR.md" >}}) | 5632 | 5666 | 99.4 | /mnt/stockage/packages/f7/ncpfs/po/pt_BR.po | 
- | [zh_Hans]({{< ref "/f7/language/zh_Hans.md" >}}) | 5632 | 5666 | 99.4 | /mnt/stockage/packages/f7/ncpfs/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f7/language/zh_Hant.md" >}}) | 5632 | 5666 | 99.4 | /mnt/stockage/packages/f7/ncpfs/po/zh_TW.po | 
- | [cs]({{< ref "/f7/language/cs.md" >}}) | 5590 | 5696 | 98.1 | /mnt/stockage/packages/f7/ncpfs/po/cs.po | 
+ | [de](/f7/language/de) | 5662 | 5668 | 99.9 | /mnt/stockage/packages/f7/ncpfs/po/de.po | 
+ | [hu](/f7/language/hu) | 5638 | 5666 | 99.5 | /mnt/stockage/packages/f7/ncpfs/po/hu.po | 
+ | [es](/f7/language/es) | 5632 | 5666 | 99.4 | /mnt/stockage/packages/f7/ncpfs/po/es.po | 
+ | [fr](/f7/language/fr) | 5632 | 5666 | 99.4 | /mnt/stockage/packages/f7/ncpfs/po/fr.po | 
+ | [it](/f7/language/it) | 5632 | 5666 | 99.4 | /mnt/stockage/packages/f7/ncpfs/po/it.po | 
+ | [ja](/f7/language/ja) | 5632 | 5666 | 99.4 | /mnt/stockage/packages/f7/ncpfs/po/ja.po | 
+ | [pt_BR](/f7/language/pt_BR) | 5632 | 5666 | 99.4 | /mnt/stockage/packages/f7/ncpfs/po/pt_BR.po | 
+ | [zh_Hans](/f7/language/zh_Hans) | 5632 | 5666 | 99.4 | /mnt/stockage/packages/f7/ncpfs/po/zh_CN.po | 
+ | [zh_Hant](/f7/language/zh_Hant) | 5632 | 5666 | 99.4 | /mnt/stockage/packages/f7/ncpfs/po/zh_TW.po | 
+ | [cs](/f7/language/cs) | 5590 | 5696 | 98.1 | /mnt/stockage/packages/f7/ncpfs/po/cs.po | 
 {.sortable}
 
 

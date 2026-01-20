@@ -18,11 +18,11 @@ The package gegl (version 0.2.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [sl]({{< ref "/f27/language/sl.md" >}}) | 1145 | 4236 | 27.0 | /mnt/stockage/packages/f27/gegl/po/sl.po | 
- | [es]({{< ref "/f27/language/es.md" >}}) | 544 | 4097 | 13.3 | /mnt/stockage/packages/f27/gegl/po/es.po | 
- | [ru]({{< ref "/f27/language/ru.md" >}}) | 481 | 4236 | 11.4 | /mnt/stockage/packages/f27/gegl/po/ru.po | 
- | [pl]({{< ref "/f27/language/pl.md" >}}) | 237 | 4097 | 5.8 | /mnt/stockage/packages/f27/gegl/po/pl.po | 
- | [fr]({{< ref "/f27/language/fr.md" >}}) | 28 | 4063 | 0.7 | /mnt/stockage/packages/f27/gegl/po/fr.po | 
+ | [sl](/f27/language/sl) | 1145 | 4236 | 27.0 | /mnt/stockage/packages/f27/gegl/po/sl.po | 
+ | [es](/f27/language/es) | 544 | 4097 | 13.3 | /mnt/stockage/packages/f27/gegl/po/es.po | 
+ | [ru](/f27/language/ru) | 481 | 4236 | 11.4 | /mnt/stockage/packages/f27/gegl/po/ru.po | 
+ | [pl](/f27/language/pl) | 237 | 4097 | 5.8 | /mnt/stockage/packages/f27/gegl/po/pl.po | 
+ | [fr](/f27/language/fr) | 28 | 4063 | 0.7 | /mnt/stockage/packages/f27/gegl/po/fr.po | 
 {.sortable}
 
 

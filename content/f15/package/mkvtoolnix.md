@@ -18,16 +18,16 @@ The package mkvtoolnix (version 4.5.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f15/language/de.md" >}}) | 17234 | 17234 | 100.0 | /mnt/stockage/packages/f15/mkvtoolnix/po/de.po | 
- | [es]({{< ref "/f15/language/es.md" >}}) | 17234 | 17234 | 100.0 | /mnt/stockage/packages/f15/mkvtoolnix/po/es.po | 
- | [nl]({{< ref "/f15/language/nl.md" >}}) | 29516 | 29516 | 100.0 | /mnt/stockage/packages/f15/mkvtoolnix/doc/man/po4a/po/nl.po/mnt/stockage/packages/f15/mkvtoolnix/po/nl.po | 
- | [ru]({{< ref "/f15/language/ru.md" >}}) | 17234 | 17234 | 100.0 | /mnt/stockage/packages/f15/mkvtoolnix/po/ru.po | 
- | [uk]({{< ref "/f15/language/uk.md" >}}) | 17234 | 17234 | 100.0 | /mnt/stockage/packages/f15/mkvtoolnix/po/uk.po | 
- | [zh_Hans]({{< ref "/f15/language/zh_Hans.md" >}}) | 29516 | 29516 | 100.0 | /mnt/stockage/packages/f15/mkvtoolnix/doc/man/po4a/po/zh_CN.po/mnt/stockage/packages/f15/mkvtoolnix/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f15/language/zh_Hant.md" >}}) | 17234 | 17234 | 100.0 | /mnt/stockage/packages/f15/mkvtoolnix/po/zh_TW.po | 
- | [man]({{< ref "/f15/language/man.md" >}}) | 12281 | 12282 | 100.0 | /mnt/stockage/packages/f15/mkvtoolnix/doc/man/po4a/po/ja.po | 
- | [ja]({{< ref "/f15/language/ja.md" >}}) | 17185 | 17234 | 99.7 | /mnt/stockage/packages/f15/mkvtoolnix/po/ja.po | 
- | [fr]({{< ref "/f15/language/fr.md" >}}) | 800 | 17234 | 4.6 | /mnt/stockage/packages/f15/mkvtoolnix/po/fr.po | 
+ | [de](/f15/language/de) | 17234 | 17234 | 100.0 | /mnt/stockage/packages/f15/mkvtoolnix/po/de.po | 
+ | [es](/f15/language/es) | 17234 | 17234 | 100.0 | /mnt/stockage/packages/f15/mkvtoolnix/po/es.po | 
+ | [nl](/f15/language/nl) | 29516 | 29516 | 100.0 | /mnt/stockage/packages/f15/mkvtoolnix/doc/man/po4a/po/nl.po/mnt/stockage/packages/f15/mkvtoolnix/po/nl.po | 
+ | [ru](/f15/language/ru) | 17234 | 17234 | 100.0 | /mnt/stockage/packages/f15/mkvtoolnix/po/ru.po | 
+ | [uk](/f15/language/uk) | 17234 | 17234 | 100.0 | /mnt/stockage/packages/f15/mkvtoolnix/po/uk.po | 
+ | [zh_Hans](/f15/language/zh_Hans) | 29516 | 29516 | 100.0 | /mnt/stockage/packages/f15/mkvtoolnix/doc/man/po4a/po/zh_CN.po/mnt/stockage/packages/f15/mkvtoolnix/po/zh_CN.po | 
+ | [zh_Hant](/f15/language/zh_Hant) | 17234 | 17234 | 100.0 | /mnt/stockage/packages/f15/mkvtoolnix/po/zh_TW.po | 
+ | [man](/f15/language/man) | 12281 | 12282 | 100.0 | /mnt/stockage/packages/f15/mkvtoolnix/doc/man/po4a/po/ja.po | 
+ | [ja](/f15/language/ja) | 17185 | 17234 | 99.7 | /mnt/stockage/packages/f15/mkvtoolnix/po/ja.po | 
+ | [fr](/f15/language/fr) | 800 | 17234 | 4.6 | /mnt/stockage/packages/f15/mkvtoolnix/po/fr.po | 
 {.sortable}
 
 

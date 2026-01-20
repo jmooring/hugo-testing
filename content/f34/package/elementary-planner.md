@@ -18,7 +18,7 @@ The package elementary-planner (version 3.0.7):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [es]({{< ref "/f34/language/es.md" >}}) | 1 | 2510 | 0.0 | /mnt/stockage/packages/f34/elementary-planner/po/es.po/mnt/stockage/packages/f34/elementary-planner/po/extra/es.po | 
+ | [es](/f34/language/es) | 1 | 2510 | 0.0 | /mnt/stockage/packages/f34/elementary-planner/po/es.po/mnt/stockage/packages/f34/elementary-planner/po/extra/es.po | 
 {.sortable}
 
 

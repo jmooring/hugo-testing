@@ -18,22 +18,22 @@ The package rabbitvcs (version 0.13.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f12/language/de.md" >}}) | 931 | 931 | 100.0 | /mnt/stockage/packages/f12/rabbitvcs/rabbitvcs/po/de.po | 
- | [es]({{< ref "/f12/language/es.md" >}}) | 931 | 931 | 100.0 | /mnt/stockage/packages/f12/rabbitvcs/rabbitvcs/po/es.po | 
- | [it]({{< ref "/f12/language/it.md" >}}) | 931 | 931 | 100.0 | /mnt/stockage/packages/f12/rabbitvcs/rabbitvcs/po/it.po | 
- | [pt_BR]({{< ref "/f12/language/pt_BR.md" >}}) | 931 | 931 | 100.0 | /mnt/stockage/packages/f12/rabbitvcs/rabbitvcs/po/pt_BR.po | 
- | [sv]({{< ref "/f12/language/sv.md" >}}) | 931 | 931 | 100.0 | /mnt/stockage/packages/f12/rabbitvcs/rabbitvcs/po/sv.po | 
- | [ja]({{< ref "/f12/language/ja.md" >}}) | 925 | 931 | 99.4 | /mnt/stockage/packages/f12/rabbitvcs/rabbitvcs/po/ja.po | 
- | [fr]({{< ref "/f12/language/fr.md" >}}) | 919 | 931 | 98.7 | /mnt/stockage/packages/f12/rabbitvcs/rabbitvcs/po/fr.po | 
- | [es_CL]({{< ref "/f12/language/es_CL.md" >}}) | 859 | 931 | 92.3 | /mnt/stockage/packages/f12/rabbitvcs/rabbitvcs/po/es_CL.po | 
- | [ru]({{< ref "/f12/language/ru.md" >}}) | 820 | 931 | 88.1 | /mnt/stockage/packages/f12/rabbitvcs/rabbitvcs/po/ru.po | 
- | [sk]({{< ref "/f12/language/sk.md" >}}) | 771 | 931 | 82.8 | /mnt/stockage/packages/f12/rabbitvcs/rabbitvcs/po/sk.po | 
- | [cs]({{< ref "/f12/language/cs.md" >}}) | 340 | 931 | 36.5 | /mnt/stockage/packages/f12/rabbitvcs/rabbitvcs/po/cs.po | 
- | [nl]({{< ref "/f12/language/nl.md" >}}) | 294 | 931 | 31.6 | /mnt/stockage/packages/f12/rabbitvcs/rabbitvcs/po/nl.po | 
- | [hr]({{< ref "/f12/language/hr.md" >}}) | 132 | 931 | 14.2 | /mnt/stockage/packages/f12/rabbitvcs/rabbitvcs/po/hr.po | 
- | [ro]({{< ref "/f12/language/ro.md" >}}) | 48 | 931 | 5.2 | /mnt/stockage/packages/f12/rabbitvcs/rabbitvcs/po/ro.po | 
- | [pl]({{< ref "/f12/language/pl.md" >}}) | 35 | 931 | 3.8 | /mnt/stockage/packages/f12/rabbitvcs/rabbitvcs/po/pl.po | 
- | [nb_NO]({{< ref "/f12/language/nb_NO.md" >}}) | 30 | 931 | 3.2 | /mnt/stockage/packages/f12/rabbitvcs/rabbitvcs/po/nb.po | 
+ | [de](/f12/language/de) | 931 | 931 | 100.0 | /mnt/stockage/packages/f12/rabbitvcs/rabbitvcs/po/de.po | 
+ | [es](/f12/language/es) | 931 | 931 | 100.0 | /mnt/stockage/packages/f12/rabbitvcs/rabbitvcs/po/es.po | 
+ | [it](/f12/language/it) | 931 | 931 | 100.0 | /mnt/stockage/packages/f12/rabbitvcs/rabbitvcs/po/it.po | 
+ | [pt_BR](/f12/language/pt_BR) | 931 | 931 | 100.0 | /mnt/stockage/packages/f12/rabbitvcs/rabbitvcs/po/pt_BR.po | 
+ | [sv](/f12/language/sv) | 931 | 931 | 100.0 | /mnt/stockage/packages/f12/rabbitvcs/rabbitvcs/po/sv.po | 
+ | [ja](/f12/language/ja) | 925 | 931 | 99.4 | /mnt/stockage/packages/f12/rabbitvcs/rabbitvcs/po/ja.po | 
+ | [fr](/f12/language/fr) | 919 | 931 | 98.7 | /mnt/stockage/packages/f12/rabbitvcs/rabbitvcs/po/fr.po | 
+ | [es_CL](/f12/language/es_CL) | 859 | 931 | 92.3 | /mnt/stockage/packages/f12/rabbitvcs/rabbitvcs/po/es_CL.po | 
+ | [ru](/f12/language/ru) | 820 | 931 | 88.1 | /mnt/stockage/packages/f12/rabbitvcs/rabbitvcs/po/ru.po | 
+ | [sk](/f12/language/sk) | 771 | 931 | 82.8 | /mnt/stockage/packages/f12/rabbitvcs/rabbitvcs/po/sk.po | 
+ | [cs](/f12/language/cs) | 340 | 931 | 36.5 | /mnt/stockage/packages/f12/rabbitvcs/rabbitvcs/po/cs.po | 
+ | [nl](/f12/language/nl) | 294 | 931 | 31.6 | /mnt/stockage/packages/f12/rabbitvcs/rabbitvcs/po/nl.po | 
+ | [hr](/f12/language/hr) | 132 | 931 | 14.2 | /mnt/stockage/packages/f12/rabbitvcs/rabbitvcs/po/hr.po | 
+ | [ro](/f12/language/ro) | 48 | 931 | 5.2 | /mnt/stockage/packages/f12/rabbitvcs/rabbitvcs/po/ro.po | 
+ | [pl](/f12/language/pl) | 35 | 931 | 3.8 | /mnt/stockage/packages/f12/rabbitvcs/rabbitvcs/po/pl.po | 
+ | [nb_NO](/f12/language/nb_NO) | 30 | 931 | 3.2 | /mnt/stockage/packages/f12/rabbitvcs/rabbitvcs/po/nb.po | 
 {.sortable}
 
 

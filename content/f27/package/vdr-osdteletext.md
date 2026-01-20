@@ -18,16 +18,16 @@ The package vdr-osdteletext (version 0.9.5):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f27/language/de.md" >}}) | 44 | 44 | 100.0 | /mnt/stockage/packages/f27/vdr-osdteletext/po/de_DE.po | 
- | [fi]({{< ref "/f27/language/fi.md" >}}) | 44 | 44 | 100.0 | /mnt/stockage/packages/f27/vdr-osdteletext/po/fi_FI.po | 
- | [it]({{< ref "/f27/language/it.md" >}}) | 44 | 44 | 100.0 | /mnt/stockage/packages/f27/vdr-osdteletext/po/it_IT.po | 
- | [sk]({{< ref "/f27/language/sk.md" >}}) | 44 | 44 | 100.0 | /mnt/stockage/packages/f27/vdr-osdteletext/po/sk_SK.po | 
- | [fr]({{< ref "/f27/language/fr.md" >}}) | 41 | 44 | 93.2 | /mnt/stockage/packages/f27/vdr-osdteletext/po/fr_FR.po | 
- | [pt]({{< ref "/f27/language/pt.md" >}}) | 41 | 44 | 93.2 | /mnt/stockage/packages/f27/vdr-osdteletext/po/pt_PT.po | 
- | [uk]({{< ref "/f27/language/uk.md" >}}) | 41 | 44 | 93.2 | /mnt/stockage/packages/f27/vdr-osdteletext/po/uk_UA.po | 
- | [ru]({{< ref "/f27/language/ru.md" >}}) | 40 | 44 | 90.9 | /mnt/stockage/packages/f27/vdr-osdteletext/po/ru_RU.po | 
- | [ca]({{< ref "/f27/language/ca.md" >}}) | 33 | 44 | 75.0 | /mnt/stockage/packages/f27/vdr-osdteletext/po/ca_ES.po | 
- | [es]({{< ref "/f27/language/es.md" >}}) | 31 | 44 | 70.5 | /mnt/stockage/packages/f27/vdr-osdteletext/po/es_ES.po | 
+ | [de](/f27/language/de) | 44 | 44 | 100.0 | /mnt/stockage/packages/f27/vdr-osdteletext/po/de_DE.po | 
+ | [fi](/f27/language/fi) | 44 | 44 | 100.0 | /mnt/stockage/packages/f27/vdr-osdteletext/po/fi_FI.po | 
+ | [it](/f27/language/it) | 44 | 44 | 100.0 | /mnt/stockage/packages/f27/vdr-osdteletext/po/it_IT.po | 
+ | [sk](/f27/language/sk) | 44 | 44 | 100.0 | /mnt/stockage/packages/f27/vdr-osdteletext/po/sk_SK.po | 
+ | [fr](/f27/language/fr) | 41 | 44 | 93.2 | /mnt/stockage/packages/f27/vdr-osdteletext/po/fr_FR.po | 
+ | [pt](/f27/language/pt) | 41 | 44 | 93.2 | /mnt/stockage/packages/f27/vdr-osdteletext/po/pt_PT.po | 
+ | [uk](/f27/language/uk) | 41 | 44 | 93.2 | /mnt/stockage/packages/f27/vdr-osdteletext/po/uk_UA.po | 
+ | [ru](/f27/language/ru) | 40 | 44 | 90.9 | /mnt/stockage/packages/f27/vdr-osdteletext/po/ru_RU.po | 
+ | [ca](/f27/language/ca) | 33 | 44 | 75.0 | /mnt/stockage/packages/f27/vdr-osdteletext/po/ca_ES.po | 
+ | [es](/f27/language/es) | 31 | 44 | 70.5 | /mnt/stockage/packages/f27/vdr-osdteletext/po/es_ES.po | 
 {.sortable}
 
 

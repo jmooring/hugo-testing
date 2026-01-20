@@ -38,18 +38,18 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [ganyremote]({{< ref "/f19/package/ganyremote.md" >}}) | 496 | 496 | 100.0 | Austrian | 
- | [kanyremote]({{< ref "/f19/package/kanyremote.md" >}}) | 475 | 480 | 99.0 | Austrian | 
- | [gnomebaker]({{< ref "/f19/package/gnomebaker.md" >}}) | 1008 | 1186 | 85.0 | German (Austria) <de_AT@li.org> | 
- | [fuse-encfs]({{< ref "/f19/package/fuse-encfs.md" >}}) | 1080 | 1315 | 82.1 | German (Austria) <de_AT@li.org> | 
- | [pingus]({{< ref "/f19/package/pingus.md" >}}) | 17 | 25 | 68.0 | LANGUAGE <LL@li.org> | 
- | [supertux]({{< ref "/f19/package/supertux.md" >}}) | 17 | 25 | 68.0 | LANGUAGE <LL@li.org> | 
- | [gourmet]({{< ref "/f19/package/gourmet.md" >}}) | 2256 | 3647 | 61.9 | German (Austria) <de_AT@li.org> | 
- | [perl-libintl]({{< ref "/f19/package/perl-libintl.md" >}}) | 5 | 22 | 22.7 | German <guido@imperia.net> | 
- | [gpsdrive]({{< ref "/f19/package/gpsdrive.md" >}}) | 424 | 2505 | 16.9 | german <de@li.org> | 
- | [owncloud]({{< ref "/f19/package/owncloud.md" >}}) | 564 | 7225 | 7.8 | German (Austria) (http://www.transifex.com/projects/p/owncloud/language/de_AT/) | 
- | [texinfo]({{< ref "/f19/package/texinfo.md" >}}) | 5 | 5575 | 0.1 | German <de@li.org> | 
- | [vidalia]({{< ref "/f19/package/vidalia.md" >}}) | 0 | 2927 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [ganyremote](/f19/package/ganyremote) | 496 | 496 | 100.0 | Austrian | 
+ | [kanyremote](/f19/package/kanyremote) | 475 | 480 | 99.0 | Austrian | 
+ | [gnomebaker](/f19/package/gnomebaker) | 1008 | 1186 | 85.0 | German (Austria) <de_AT@li.org> | 
+ | [fuse-encfs](/f19/package/fuse-encfs) | 1080 | 1315 | 82.1 | German (Austria) <de_AT@li.org> | 
+ | [pingus](/f19/package/pingus) | 17 | 25 | 68.0 | LANGUAGE <LL@li.org> | 
+ | [supertux](/f19/package/supertux) | 17 | 25 | 68.0 | LANGUAGE <LL@li.org> | 
+ | [gourmet](/f19/package/gourmet) | 2256 | 3647 | 61.9 | German (Austria) <de_AT@li.org> | 
+ | [perl-libintl](/f19/package/perl-libintl) | 5 | 22 | 22.7 | German <guido@imperia.net> | 
+ | [gpsdrive](/f19/package/gpsdrive) | 424 | 2505 | 16.9 | german <de@li.org> | 
+ | [owncloud](/f19/package/owncloud) | 564 | 7225 | 7.8 | German (Austria) (http://www.transifex.com/projects/p/owncloud/language/de_AT/) | 
+ | [texinfo](/f19/package/texinfo) | 5 | 5575 | 0.1 | German <de@li.org> | 
+ | [vidalia](/f19/package/vidalia) | 0 | 2927 | 0.0 | LANGUAGE <LL@li.org> | 
 {.sortable}
 
 

@@ -18,44 +18,44 @@ The package kwebkitpart (version 0.9.6):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f14/language/cs.md" >}}) | 477 | 477 | 100.0 | /mnt/stockage/packages/f14/kwebkitpart/po/cs/kwebkitpart.po | 
- | [da]({{< ref "/f14/language/da.md" >}}) | 477 | 477 | 100.0 | /mnt/stockage/packages/f14/kwebkitpart/po/da/kwebkitpart.po | 
- | [de]({{< ref "/f14/language/de.md" >}}) | 477 | 477 | 100.0 | /mnt/stockage/packages/f14/kwebkitpart/po/de/kwebkitpart.po | 
- | [en_GB]({{< ref "/f14/language/en_GB.md" >}}) | 477 | 477 | 100.0 | /mnt/stockage/packages/f14/kwebkitpart/po/en_GB/kwebkitpart.po | 
- | [fr]({{< ref "/f14/language/fr.md" >}}) | 477 | 477 | 100.0 | /mnt/stockage/packages/f14/kwebkitpart/po/fr/kwebkitpart.po | 
- | [hu]({{< ref "/f14/language/hu.md" >}}) | 477 | 477 | 100.0 | /mnt/stockage/packages/f14/kwebkitpart/po/hu/kwebkitpart.po | 
- | [nb_NO]({{< ref "/f14/language/nb_NO.md" >}}) | 477 | 477 | 100.0 | /mnt/stockage/packages/f14/kwebkitpart/po/nb/kwebkitpart.po | 
- | [nds]({{< ref "/f14/language/nds.md" >}}) | 477 | 477 | 100.0 | /mnt/stockage/packages/f14/kwebkitpart/po/nds/kwebkitpart.po | 
- | [nl]({{< ref "/f14/language/nl.md" >}}) | 477 | 477 | 100.0 | /mnt/stockage/packages/f14/kwebkitpart/po/nl/kwebkitpart.po | 
- | [pt]({{< ref "/f14/language/pt.md" >}}) | 477 | 477 | 100.0 | /mnt/stockage/packages/f14/kwebkitpart/po/pt/kwebkitpart.po | 
- | [pt_BR]({{< ref "/f14/language/pt_BR.md" >}}) | 477 | 477 | 100.0 | /mnt/stockage/packages/f14/kwebkitpart/po/pt_BR/kwebkitpart.po | 
- | [sv]({{< ref "/f14/language/sv.md" >}}) | 477 | 477 | 100.0 | /mnt/stockage/packages/f14/kwebkitpart/po/sv/kwebkitpart.po | 
- | [tr]({{< ref "/f14/language/tr.md" >}}) | 477 | 477 | 100.0 | /mnt/stockage/packages/f14/kwebkitpart/po/tr/kwebkitpart.po | 
- | [uk]({{< ref "/f14/language/uk.md" >}}) | 477 | 477 | 100.0 | /mnt/stockage/packages/f14/kwebkitpart/po/uk/kwebkitpart.po | 
- | [zh_Hant]({{< ref "/f14/language/zh_Hant.md" >}}) | 477 | 477 | 100.0 | /mnt/stockage/packages/f14/kwebkitpart/po/zh_TW/kwebkitpart.po | 
- | [es]({{< ref "/f14/language/es.md" >}}) | 475 | 477 | 99.6 | /mnt/stockage/packages/f14/kwebkitpart/po/es/kwebkitpart.po | 
- | [et]({{< ref "/f14/language/et.md" >}}) | 471 | 477 | 98.7 | /mnt/stockage/packages/f14/kwebkitpart/po/et/kwebkitpart.po | 
- | [km]({{< ref "/f14/language/km.md" >}}) | 471 | 477 | 98.7 | /mnt/stockage/packages/f14/kwebkitpart/po/km/kwebkitpart.po | 
- | [sr]({{< ref "/f14/language/sr.md" >}}) | 457 | 477 | 95.8 | /mnt/stockage/packages/f14/kwebkitpart/po/sr/kwebkitpart.po | 
- | [sr@ijekavian]({{< ref "/f14/language/sr@ijekavian.md" >}}) | 457 | 477 | 95.8 | /mnt/stockage/packages/f14/kwebkitpart/po/sr@ijekavian/kwebkitpart.po | 
- | [sr@ijekavian_Latn]({{< ref "/f14/language/sr@ijekavian_Latn.md" >}}) | 457 | 477 | 95.8 | /mnt/stockage/packages/f14/kwebkitpart/po/sr@ijekavianlatin/kwebkitpart.po | 
- | [sr_Latn]({{< ref "/f14/language/sr_Latn.md" >}}) | 457 | 477 | 95.8 | /mnt/stockage/packages/f14/kwebkitpart/po/sr@latin/kwebkitpart.po | 
- | [zh_Hans]({{< ref "/f14/language/zh_Hans.md" >}}) | 457 | 477 | 95.8 | /mnt/stockage/packages/f14/kwebkitpart/po/zh_CN/kwebkitpart.po | 
- | [th]({{< ref "/f14/language/th.md" >}}) | 440 | 477 | 92.2 | /mnt/stockage/packages/f14/kwebkitpart/po/th/kwebkitpart.po | 
- | [gl]({{< ref "/f14/language/gl.md" >}}) | 414 | 477 | 86.8 | /mnt/stockage/packages/f14/kwebkitpart/po/gl/kwebkitpart.po | 
- | [fi]({{< ref "/f14/language/fi.md" >}}) | 403 | 477 | 84.5 | /mnt/stockage/packages/f14/kwebkitpart/po/fi/kwebkitpart.po | 
- | [bg]({{< ref "/f14/language/bg.md" >}}) | 338 | 477 | 70.9 | /mnt/stockage/packages/f14/kwebkitpart/po/bg/kwebkitpart.po | 
- | [el]({{< ref "/f14/language/el.md" >}}) | 335 | 477 | 70.2 | /mnt/stockage/packages/f14/kwebkitpart/po/el/kwebkitpart.po | 
- | [it]({{< ref "/f14/language/it.md" >}}) | 335 | 477 | 70.2 | /mnt/stockage/packages/f14/kwebkitpart/po/it/kwebkitpart.po | 
- | [pa]({{< ref "/f14/language/pa.md" >}}) | 334 | 477 | 70.0 | /mnt/stockage/packages/f14/kwebkitpart/po/pa/kwebkitpart.po | 
- | [eo]({{< ref "/f14/language/eo.md" >}}) | 195 | 477 | 40.9 | /mnt/stockage/packages/f14/kwebkitpart/po/eo/kwebkitpart.po | 
- | [ga]({{< ref "/f14/language/ga.md" >}}) | 193 | 477 | 40.5 | /mnt/stockage/packages/f14/kwebkitpart/po/ga/kwebkitpart.po | 
- | [ro]({{< ref "/f14/language/ro.md" >}}) | 186 | 477 | 39.0 | /mnt/stockage/packages/f14/kwebkitpart/po/ro/kwebkitpart.po | 
- | [lt]({{< ref "/f14/language/lt.md" >}}) | 174 | 477 | 36.5 | /mnt/stockage/packages/f14/kwebkitpart/po/lt/kwebkitpart.po | 
- | [ru]({{< ref "/f14/language/ru.md" >}}) | 155 | 477 | 32.5 | /mnt/stockage/packages/f14/kwebkitpart/po/ru/kwebkitpart.po | 
- | [tg]({{< ref "/f14/language/tg.md" >}}) | 77 | 477 | 16.1 | /mnt/stockage/packages/f14/kwebkitpart/po/tg/kwebkitpart.po | 
- | [ms]({{< ref "/f14/language/ms.md" >}}) | 9 | 477 | 1.9 | /mnt/stockage/packages/f14/kwebkitpart/po/ms/kwebkitpart.po | 
- | [sk]({{< ref "/f14/language/sk.md" >}}) | 0 | 477 | 0.0 | /mnt/stockage/packages/f14/kwebkitpart/po/sk/kwebkitpart.po | 
+ | [cs](/f14/language/cs) | 477 | 477 | 100.0 | /mnt/stockage/packages/f14/kwebkitpart/po/cs/kwebkitpart.po | 
+ | [da](/f14/language/da) | 477 | 477 | 100.0 | /mnt/stockage/packages/f14/kwebkitpart/po/da/kwebkitpart.po | 
+ | [de](/f14/language/de) | 477 | 477 | 100.0 | /mnt/stockage/packages/f14/kwebkitpart/po/de/kwebkitpart.po | 
+ | [en_GB](/f14/language/en_GB) | 477 | 477 | 100.0 | /mnt/stockage/packages/f14/kwebkitpart/po/en_GB/kwebkitpart.po | 
+ | [fr](/f14/language/fr) | 477 | 477 | 100.0 | /mnt/stockage/packages/f14/kwebkitpart/po/fr/kwebkitpart.po | 
+ | [hu](/f14/language/hu) | 477 | 477 | 100.0 | /mnt/stockage/packages/f14/kwebkitpart/po/hu/kwebkitpart.po | 
+ | [nb_NO](/f14/language/nb_NO) | 477 | 477 | 100.0 | /mnt/stockage/packages/f14/kwebkitpart/po/nb/kwebkitpart.po | 
+ | [nds](/f14/language/nds) | 477 | 477 | 100.0 | /mnt/stockage/packages/f14/kwebkitpart/po/nds/kwebkitpart.po | 
+ | [nl](/f14/language/nl) | 477 | 477 | 100.0 | /mnt/stockage/packages/f14/kwebkitpart/po/nl/kwebkitpart.po | 
+ | [pt](/f14/language/pt) | 477 | 477 | 100.0 | /mnt/stockage/packages/f14/kwebkitpart/po/pt/kwebkitpart.po | 
+ | [pt_BR](/f14/language/pt_BR) | 477 | 477 | 100.0 | /mnt/stockage/packages/f14/kwebkitpart/po/pt_BR/kwebkitpart.po | 
+ | [sv](/f14/language/sv) | 477 | 477 | 100.0 | /mnt/stockage/packages/f14/kwebkitpart/po/sv/kwebkitpart.po | 
+ | [tr](/f14/language/tr) | 477 | 477 | 100.0 | /mnt/stockage/packages/f14/kwebkitpart/po/tr/kwebkitpart.po | 
+ | [uk](/f14/language/uk) | 477 | 477 | 100.0 | /mnt/stockage/packages/f14/kwebkitpart/po/uk/kwebkitpart.po | 
+ | [zh_Hant](/f14/language/zh_Hant) | 477 | 477 | 100.0 | /mnt/stockage/packages/f14/kwebkitpart/po/zh_TW/kwebkitpart.po | 
+ | [es](/f14/language/es) | 475 | 477 | 99.6 | /mnt/stockage/packages/f14/kwebkitpart/po/es/kwebkitpart.po | 
+ | [et](/f14/language/et) | 471 | 477 | 98.7 | /mnt/stockage/packages/f14/kwebkitpart/po/et/kwebkitpart.po | 
+ | [km](/f14/language/km) | 471 | 477 | 98.7 | /mnt/stockage/packages/f14/kwebkitpart/po/km/kwebkitpart.po | 
+ | [sr](/f14/language/sr) | 457 | 477 | 95.8 | /mnt/stockage/packages/f14/kwebkitpart/po/sr/kwebkitpart.po | 
+ | [sr@ijekavian](/f14/language/sr@ijekavian) | 457 | 477 | 95.8 | /mnt/stockage/packages/f14/kwebkitpart/po/sr@ijekavian/kwebkitpart.po | 
+ | [sr@ijekavian_Latn](/f14/language/sr@ijekavian_Latn) | 457 | 477 | 95.8 | /mnt/stockage/packages/f14/kwebkitpart/po/sr@ijekavianlatin/kwebkitpart.po | 
+ | [sr_Latn](/f14/language/sr_Latn) | 457 | 477 | 95.8 | /mnt/stockage/packages/f14/kwebkitpart/po/sr@latin/kwebkitpart.po | 
+ | [zh_Hans](/f14/language/zh_Hans) | 457 | 477 | 95.8 | /mnt/stockage/packages/f14/kwebkitpart/po/zh_CN/kwebkitpart.po | 
+ | [th](/f14/language/th) | 440 | 477 | 92.2 | /mnt/stockage/packages/f14/kwebkitpart/po/th/kwebkitpart.po | 
+ | [gl](/f14/language/gl) | 414 | 477 | 86.8 | /mnt/stockage/packages/f14/kwebkitpart/po/gl/kwebkitpart.po | 
+ | [fi](/f14/language/fi) | 403 | 477 | 84.5 | /mnt/stockage/packages/f14/kwebkitpart/po/fi/kwebkitpart.po | 
+ | [bg](/f14/language/bg) | 338 | 477 | 70.9 | /mnt/stockage/packages/f14/kwebkitpart/po/bg/kwebkitpart.po | 
+ | [el](/f14/language/el) | 335 | 477 | 70.2 | /mnt/stockage/packages/f14/kwebkitpart/po/el/kwebkitpart.po | 
+ | [it](/f14/language/it) | 335 | 477 | 70.2 | /mnt/stockage/packages/f14/kwebkitpart/po/it/kwebkitpart.po | 
+ | [pa](/f14/language/pa) | 334 | 477 | 70.0 | /mnt/stockage/packages/f14/kwebkitpart/po/pa/kwebkitpart.po | 
+ | [eo](/f14/language/eo) | 195 | 477 | 40.9 | /mnt/stockage/packages/f14/kwebkitpart/po/eo/kwebkitpart.po | 
+ | [ga](/f14/language/ga) | 193 | 477 | 40.5 | /mnt/stockage/packages/f14/kwebkitpart/po/ga/kwebkitpart.po | 
+ | [ro](/f14/language/ro) | 186 | 477 | 39.0 | /mnt/stockage/packages/f14/kwebkitpart/po/ro/kwebkitpart.po | 
+ | [lt](/f14/language/lt) | 174 | 477 | 36.5 | /mnt/stockage/packages/f14/kwebkitpart/po/lt/kwebkitpart.po | 
+ | [ru](/f14/language/ru) | 155 | 477 | 32.5 | /mnt/stockage/packages/f14/kwebkitpart/po/ru/kwebkitpart.po | 
+ | [tg](/f14/language/tg) | 77 | 477 | 16.1 | /mnt/stockage/packages/f14/kwebkitpart/po/tg/kwebkitpart.po | 
+ | [ms](/f14/language/ms) | 9 | 477 | 1.9 | /mnt/stockage/packages/f14/kwebkitpart/po/ms/kwebkitpart.po | 
+ | [sk](/f14/language/sk) | 0 | 477 | 0.0 | /mnt/stockage/packages/f14/kwebkitpart/po/sk/kwebkitpart.po | 
 {.sortable}
 
 

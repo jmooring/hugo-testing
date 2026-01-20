@@ -18,8 +18,8 @@ The package mingw-libosinfo (version 0.2.8):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [uk]({{< ref "/f22/language/uk.md" >}}) | 1494 | 1494 | 100.0 | /mnt/stockage/packages/f22/mingw-libosinfo/po/uk.po | 
- | [pl]({{< ref "/f22/language/pl.md" >}}) | 1490 | 1561 | 95.5 | /mnt/stockage/packages/f22/mingw-libosinfo/po/pl.po | 
+ | [uk](/f22/language/uk) | 1494 | 1494 | 100.0 | /mnt/stockage/packages/f22/mingw-libosinfo/po/uk.po | 
+ | [pl](/f22/language/pl) | 1490 | 1561 | 95.5 | /mnt/stockage/packages/f22/mingw-libosinfo/po/pl.po | 
 {.sortable}
 
 

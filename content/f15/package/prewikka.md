@@ -18,12 +18,12 @@ The package prewikka (version 1.0.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f15/language/fr.md" >}}) | 622 | 773 | 80.5 | /mnt/stockage/packages/f15/prewikka/po/fr.po | 
- | [de]({{< ref "/f15/language/de.md" >}}) | 616 | 773 | 79.7 | /mnt/stockage/packages/f15/prewikka/po/de.po | 
- | [pt_BR]({{< ref "/f15/language/pt_BR.md" >}}) | 505 | 773 | 65.3 | /mnt/stockage/packages/f15/prewikka/po/pt_BR.po | 
- | [pl]({{< ref "/f15/language/pl.md" >}}) | 388 | 773 | 50.2 | /mnt/stockage/packages/f15/prewikka/po/pl.po | 
- | [es]({{< ref "/f15/language/es.md" >}}) | 354 | 773 | 45.8 | /mnt/stockage/packages/f15/prewikka/po/es.po | 
- | [ru]({{< ref "/f15/language/ru.md" >}}) | 300 | 773 | 38.8 | /mnt/stockage/packages/f15/prewikka/po/ru.po | 
+ | [fr](/f15/language/fr) | 622 | 773 | 80.5 | /mnt/stockage/packages/f15/prewikka/po/fr.po | 
+ | [de](/f15/language/de) | 616 | 773 | 79.7 | /mnt/stockage/packages/f15/prewikka/po/de.po | 
+ | [pt_BR](/f15/language/pt_BR) | 505 | 773 | 65.3 | /mnt/stockage/packages/f15/prewikka/po/pt_BR.po | 
+ | [pl](/f15/language/pl) | 388 | 773 | 50.2 | /mnt/stockage/packages/f15/prewikka/po/pl.po | 
+ | [es](/f15/language/es) | 354 | 773 | 45.8 | /mnt/stockage/packages/f15/prewikka/po/es.po | 
+ | [ru](/f15/language/ru) | 300 | 773 | 38.8 | /mnt/stockage/packages/f15/prewikka/po/ru.po | 
 {.sortable}
 
 

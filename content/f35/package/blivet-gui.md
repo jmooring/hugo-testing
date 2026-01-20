@@ -18,32 +18,32 @@ The package blivet-gui (version 2.3.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [es]({{< ref "/f35/language/es.md" >}}) | 1031 | 1031 | 100.0 | /mnt/stockage/packages/f35/blivet-gui/po/es.po | 
- | [fi]({{< ref "/f35/language/fi.md" >}}) | 1031 | 1031 | 100.0 | /mnt/stockage/packages/f35/blivet-gui/po/fi.po | 
- | [fr]({{< ref "/f35/language/fr.md" >}}) | 1031 | 1031 | 100.0 | /mnt/stockage/packages/f35/blivet-gui/po/fr.po | 
- | [fur]({{< ref "/f35/language/fur.md" >}}) | 1031 | 1031 | 100.0 | /mnt/stockage/packages/f35/blivet-gui/po/fur.po | 
- | [hu]({{< ref "/f35/language/hu.md" >}}) | 1031 | 1031 | 100.0 | /mnt/stockage/packages/f35/blivet-gui/po/hu.po | 
- | [ko]({{< ref "/f35/language/ko.md" >}}) | 1031 | 1031 | 100.0 | /mnt/stockage/packages/f35/blivet-gui/po/ko.po | 
- | [pl]({{< ref "/f35/language/pl.md" >}}) | 1031 | 1031 | 100.0 | /mnt/stockage/packages/f35/blivet-gui/po/pl.po | 
- | [ru]({{< ref "/f35/language/ru.md" >}}) | 1031 | 1031 | 100.0 | /mnt/stockage/packages/f35/blivet-gui/po/ru.po | 
- | [sk]({{< ref "/f35/language/sk.md" >}}) | 1031 | 1031 | 100.0 | /mnt/stockage/packages/f35/blivet-gui/po/sk.po | 
- | [tr]({{< ref "/f35/language/tr.md" >}}) | 1031 | 1031 | 100.0 | /mnt/stockage/packages/f35/blivet-gui/po/tr.po | 
- | [uk]({{< ref "/f35/language/uk.md" >}}) | 1031 | 1031 | 100.0 | /mnt/stockage/packages/f35/blivet-gui/po/uk.po | 
- | [zh_Hans]({{< ref "/f35/language/zh_Hans.md" >}}) | 1031 | 1031 | 100.0 | /mnt/stockage/packages/f35/blivet-gui/po/zh_CN.po | 
- | [pt_BR]({{< ref "/f35/language/pt_BR.md" >}}) | 1005 | 1031 | 97.5 | /mnt/stockage/packages/f35/blivet-gui/po/pt_BR.po | 
- | [cs]({{< ref "/f35/language/cs.md" >}}) | 761 | 1031 | 73.8 | /mnt/stockage/packages/f35/blivet-gui/po/cs.po | 
- | [ca]({{< ref "/f35/language/ca.md" >}}) | 721 | 1031 | 69.9 | /mnt/stockage/packages/f35/blivet-gui/po/ca.po | 
- | [sr]({{< ref "/f35/language/sr.md" >}}) | 699 | 1031 | 67.8 | /mnt/stockage/packages/f35/blivet-gui/po/sr.po | 
- | [zh_Hant]({{< ref "/f35/language/zh_Hant.md" >}}) | 699 | 1031 | 67.8 | /mnt/stockage/packages/f35/blivet-gui/po/zh_TW.po | 
- | [pa]({{< ref "/f35/language/pa.md" >}}) | 616 | 1031 | 59.7 | /mnt/stockage/packages/f35/blivet-gui/po/pa.po | 
- | [it]({{< ref "/f35/language/it.md" >}}) | 479 | 1031 | 46.5 | /mnt/stockage/packages/f35/blivet-gui/po/it.po | 
- | [kk]({{< ref "/f35/language/kk.md" >}}) | 468 | 1031 | 45.4 | /mnt/stockage/packages/f35/blivet-gui/po/kk.po | 
- | [sq]({{< ref "/f35/language/sq.md" >}}) | 440 | 1031 | 42.7 | /mnt/stockage/packages/f35/blivet-gui/po/sq.po | 
- | [bg]({{< ref "/f35/language/bg.md" >}}) | 420 | 1031 | 40.7 | /mnt/stockage/packages/f35/blivet-gui/po/bg.po | 
- | [id]({{< ref "/f35/language/id.md" >}}) | 355 | 1031 | 34.4 | /mnt/stockage/packages/f35/blivet-gui/po/id.po | 
- | [ja]({{< ref "/f35/language/ja.md" >}}) | 267 | 1031 | 25.9 | /mnt/stockage/packages/f35/blivet-gui/po/ja.po | 
- | [bn_IN]({{< ref "/f35/language/bn_IN.md" >}}) | 205 | 1031 | 19.9 | /mnt/stockage/packages/f35/blivet-gui/po/bn_IN.po | 
- | [si]({{< ref "/f35/language/si.md" >}}) | 0 | 1031 | 0.0 | /mnt/stockage/packages/f35/blivet-gui/po/si.po | 
+ | [es](/f35/language/es) | 1031 | 1031 | 100.0 | /mnt/stockage/packages/f35/blivet-gui/po/es.po | 
+ | [fi](/f35/language/fi) | 1031 | 1031 | 100.0 | /mnt/stockage/packages/f35/blivet-gui/po/fi.po | 
+ | [fr](/f35/language/fr) | 1031 | 1031 | 100.0 | /mnt/stockage/packages/f35/blivet-gui/po/fr.po | 
+ | [fur](/f35/language/fur) | 1031 | 1031 | 100.0 | /mnt/stockage/packages/f35/blivet-gui/po/fur.po | 
+ | [hu](/f35/language/hu) | 1031 | 1031 | 100.0 | /mnt/stockage/packages/f35/blivet-gui/po/hu.po | 
+ | [ko](/f35/language/ko) | 1031 | 1031 | 100.0 | /mnt/stockage/packages/f35/blivet-gui/po/ko.po | 
+ | [pl](/f35/language/pl) | 1031 | 1031 | 100.0 | /mnt/stockage/packages/f35/blivet-gui/po/pl.po | 
+ | [ru](/f35/language/ru) | 1031 | 1031 | 100.0 | /mnt/stockage/packages/f35/blivet-gui/po/ru.po | 
+ | [sk](/f35/language/sk) | 1031 | 1031 | 100.0 | /mnt/stockage/packages/f35/blivet-gui/po/sk.po | 
+ | [tr](/f35/language/tr) | 1031 | 1031 | 100.0 | /mnt/stockage/packages/f35/blivet-gui/po/tr.po | 
+ | [uk](/f35/language/uk) | 1031 | 1031 | 100.0 | /mnt/stockage/packages/f35/blivet-gui/po/uk.po | 
+ | [zh_Hans](/f35/language/zh_Hans) | 1031 | 1031 | 100.0 | /mnt/stockage/packages/f35/blivet-gui/po/zh_CN.po | 
+ | [pt_BR](/f35/language/pt_BR) | 1005 | 1031 | 97.5 | /mnt/stockage/packages/f35/blivet-gui/po/pt_BR.po | 
+ | [cs](/f35/language/cs) | 761 | 1031 | 73.8 | /mnt/stockage/packages/f35/blivet-gui/po/cs.po | 
+ | [ca](/f35/language/ca) | 721 | 1031 | 69.9 | /mnt/stockage/packages/f35/blivet-gui/po/ca.po | 
+ | [sr](/f35/language/sr) | 699 | 1031 | 67.8 | /mnt/stockage/packages/f35/blivet-gui/po/sr.po | 
+ | [zh_Hant](/f35/language/zh_Hant) | 699 | 1031 | 67.8 | /mnt/stockage/packages/f35/blivet-gui/po/zh_TW.po | 
+ | [pa](/f35/language/pa) | 616 | 1031 | 59.7 | /mnt/stockage/packages/f35/blivet-gui/po/pa.po | 
+ | [it](/f35/language/it) | 479 | 1031 | 46.5 | /mnt/stockage/packages/f35/blivet-gui/po/it.po | 
+ | [kk](/f35/language/kk) | 468 | 1031 | 45.4 | /mnt/stockage/packages/f35/blivet-gui/po/kk.po | 
+ | [sq](/f35/language/sq) | 440 | 1031 | 42.7 | /mnt/stockage/packages/f35/blivet-gui/po/sq.po | 
+ | [bg](/f35/language/bg) | 420 | 1031 | 40.7 | /mnt/stockage/packages/f35/blivet-gui/po/bg.po | 
+ | [id](/f35/language/id) | 355 | 1031 | 34.4 | /mnt/stockage/packages/f35/blivet-gui/po/id.po | 
+ | [ja](/f35/language/ja) | 267 | 1031 | 25.9 | /mnt/stockage/packages/f35/blivet-gui/po/ja.po | 
+ | [bn_IN](/f35/language/bn_IN) | 205 | 1031 | 19.9 | /mnt/stockage/packages/f35/blivet-gui/po/bn_IN.po | 
+ | [si](/f35/language/si) | 0 | 1031 | 0.0 | /mnt/stockage/packages/f35/blivet-gui/po/si.po | 
 {.sortable}
 
 

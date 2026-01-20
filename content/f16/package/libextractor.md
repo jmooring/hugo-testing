@@ -18,14 +18,14 @@ The package libextractor (version 0.6.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [vi]({{< ref "/f16/language/vi.md" >}}) | 1701 | 1701 | 100.0 | /mnt/stockage/packages/f16/libextractor/po/vi.po | 
- | [sv]({{< ref "/f16/language/sv.md" >}}) | 598 | 1701 | 35.2 | /mnt/stockage/packages/f16/libextractor/po/sv.po | 
- | [ga]({{< ref "/f16/language/ga.md" >}}) | 580 | 1701 | 34.1 | /mnt/stockage/packages/f16/libextractor/po/ga.po | 
- | [nl]({{< ref "/f16/language/nl.md" >}}) | 580 | 1701 | 34.1 | /mnt/stockage/packages/f16/libextractor/po/nl.po | 
- | [de]({{< ref "/f16/language/de.md" >}}) | 556 | 1701 | 32.7 | /mnt/stockage/packages/f16/libextractor/po/de.po | 
- | [fr]({{< ref "/f16/language/fr.md" >}}) | 498 | 1701 | 29.3 | /mnt/stockage/packages/f16/libextractor/po/fr.po | 
- | [ro]({{< ref "/f16/language/ro.md" >}}) | 462 | 1701 | 27.2 | /mnt/stockage/packages/f16/libextractor/po/ro.po | 
- | [rw]({{< ref "/f16/language/rw.md" >}}) | 10 | 1701 | 0.6 | /mnt/stockage/packages/f16/libextractor/po/rw.po | 
+ | [vi](/f16/language/vi) | 1701 | 1701 | 100.0 | /mnt/stockage/packages/f16/libextractor/po/vi.po | 
+ | [sv](/f16/language/sv) | 598 | 1701 | 35.2 | /mnt/stockage/packages/f16/libextractor/po/sv.po | 
+ | [ga](/f16/language/ga) | 580 | 1701 | 34.1 | /mnt/stockage/packages/f16/libextractor/po/ga.po | 
+ | [nl](/f16/language/nl) | 580 | 1701 | 34.1 | /mnt/stockage/packages/f16/libextractor/po/nl.po | 
+ | [de](/f16/language/de) | 556 | 1701 | 32.7 | /mnt/stockage/packages/f16/libextractor/po/de.po | 
+ | [fr](/f16/language/fr) | 498 | 1701 | 29.3 | /mnt/stockage/packages/f16/libextractor/po/fr.po | 
+ | [ro](/f16/language/ro) | 462 | 1701 | 27.2 | /mnt/stockage/packages/f16/libextractor/po/ro.po | 
+ | [rw](/f16/language/rw) | 10 | 1701 | 0.6 | /mnt/stockage/packages/f16/libextractor/po/rw.po | 
 {.sortable}
 
 

@@ -18,62 +18,62 @@ The package steadyflow (version 0.2.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ru]({{< ref "/f28/language/ru.md" >}}) | 470 | 470 | 100.0 | /mnt/stockage/packages/f28/steadyflow/po/ru.po | 
- | [ast]({{< ref "/f28/language/ast.md" >}}) | 423 | 470 | 90.0 | /mnt/stockage/packages/f28/steadyflow/po/ast.po | 
- | [bg]({{< ref "/f28/language/bg.md" >}}) | 423 | 470 | 90.0 | /mnt/stockage/packages/f28/steadyflow/po/bg.po | 
- | [ca]({{< ref "/f28/language/ca.md" >}}) | 423 | 470 | 90.0 | /mnt/stockage/packages/f28/steadyflow/po/ca.po | 
- | [cs]({{< ref "/f28/language/cs.md" >}}) | 423 | 470 | 90.0 | /mnt/stockage/packages/f28/steadyflow/po/cs.po | 
- | [de]({{< ref "/f28/language/de.md" >}}) | 423 | 470 | 90.0 | /mnt/stockage/packages/f28/steadyflow/po/de.po | 
- | [el]({{< ref "/f28/language/el.md" >}}) | 423 | 470 | 90.0 | /mnt/stockage/packages/f28/steadyflow/po/el.po | 
- | [en_AU]({{< ref "/f28/language/en_AU.md" >}}) | 423 | 470 | 90.0 | /mnt/stockage/packages/f28/steadyflow/po/en_AU.po | 
- | [en_CA]({{< ref "/f28/language/en_CA.md" >}}) | 423 | 470 | 90.0 | /mnt/stockage/packages/f28/steadyflow/po/en_CA.po | 
- | [en_GB]({{< ref "/f28/language/en_GB.md" >}}) | 423 | 470 | 90.0 | /mnt/stockage/packages/f28/steadyflow/po/en_GB.po | 
- | [es]({{< ref "/f28/language/es.md" >}}) | 423 | 470 | 90.0 | /mnt/stockage/packages/f28/steadyflow/po/es.po | 
- | [eu]({{< ref "/f28/language/eu.md" >}}) | 423 | 470 | 90.0 | /mnt/stockage/packages/f28/steadyflow/po/eu.po | 
- | [fa]({{< ref "/f28/language/fa.md" >}}) | 423 | 470 | 90.0 | /mnt/stockage/packages/f28/steadyflow/po/fa.po | 
- | [fr]({{< ref "/f28/language/fr.md" >}}) | 423 | 470 | 90.0 | /mnt/stockage/packages/f28/steadyflow/po/fr.po | 
- | [gl]({{< ref "/f28/language/gl.md" >}}) | 423 | 470 | 90.0 | /mnt/stockage/packages/f28/steadyflow/po/gl.po | 
- | [he]({{< ref "/f28/language/he.md" >}}) | 423 | 470 | 90.0 | /mnt/stockage/packages/f28/steadyflow/po/he.po | 
- | [it]({{< ref "/f28/language/it.md" >}}) | 423 | 470 | 90.0 | /mnt/stockage/packages/f28/steadyflow/po/it.po | 
- | [ka]({{< ref "/f28/language/ka.md" >}}) | 423 | 470 | 90.0 | /mnt/stockage/packages/f28/steadyflow/po/ka.po | 
- | [ko]({{< ref "/f28/language/ko.md" >}}) | 423 | 470 | 90.0 | /mnt/stockage/packages/f28/steadyflow/po/ko.po | 
- | [ms]({{< ref "/f28/language/ms.md" >}}) | 423 | 470 | 90.0 | /mnt/stockage/packages/f28/steadyflow/po/ms.po | 
- | [nb_NO]({{< ref "/f28/language/nb_NO.md" >}}) | 423 | 470 | 90.0 | /mnt/stockage/packages/f28/steadyflow/po/nb.po | 
- | [nl]({{< ref "/f28/language/nl.md" >}}) | 423 | 470 | 90.0 | /mnt/stockage/packages/f28/steadyflow/po/nl.po | 
- | [nn]({{< ref "/f28/language/nn.md" >}}) | 423 | 470 | 90.0 | /mnt/stockage/packages/f28/steadyflow/po/nn.po | 
- | [pl]({{< ref "/f28/language/pl.md" >}}) | 423 | 470 | 90.0 | /mnt/stockage/packages/f28/steadyflow/po/pl.po | 
- | [pt]({{< ref "/f28/language/pt.md" >}}) | 423 | 470 | 90.0 | /mnt/stockage/packages/f28/steadyflow/po/pt.po | 
- | [pt_BR]({{< ref "/f28/language/pt_BR.md" >}}) | 423 | 470 | 90.0 | /mnt/stockage/packages/f28/steadyflow/po/pt_BR.po | 
- | [sk]({{< ref "/f28/language/sk.md" >}}) | 423 | 470 | 90.0 | /mnt/stockage/packages/f28/steadyflow/po/sk.po | 
- | [sl]({{< ref "/f28/language/sl.md" >}}) | 423 | 470 | 90.0 | /mnt/stockage/packages/f28/steadyflow/po/sl.po | 
- | [te]({{< ref "/f28/language/te.md" >}}) | 423 | 470 | 90.0 | /mnt/stockage/packages/f28/steadyflow/po/te.po | 
- | [tr]({{< ref "/f28/language/tr.md" >}}) | 423 | 470 | 90.0 | /mnt/stockage/packages/f28/steadyflow/po/tr.po | 
- | [uk]({{< ref "/f28/language/uk.md" >}}) | 423 | 470 | 90.0 | /mnt/stockage/packages/f28/steadyflow/po/uk.po | 
- | [vi]({{< ref "/f28/language/vi.md" >}}) | 423 | 470 | 90.0 | /mnt/stockage/packages/f28/steadyflow/po/vi.po | 
- | [zh_Hans]({{< ref "/f28/language/zh_Hans.md" >}}) | 423 | 470 | 90.0 | /mnt/stockage/packages/f28/steadyflow/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f28/language/zh_Hant.md" >}}) | 416 | 470 | 88.5 | /mnt/stockage/packages/f28/steadyflow/po/zh_TW.po | 
- | [fo]({{< ref "/f28/language/fo.md" >}}) | 401 | 470 | 85.3 | /mnt/stockage/packages/f28/steadyflow/po/fo.po | 
- | [hu]({{< ref "/f28/language/hu.md" >}}) | 399 | 470 | 84.9 | /mnt/stockage/packages/f28/steadyflow/po/hu.po | 
- | [fi]({{< ref "/f28/language/fi.md" >}}) | 392 | 470 | 83.4 | /mnt/stockage/packages/f28/steadyflow/po/fi.po | 
- | [lt]({{< ref "/f28/language/lt.md" >}}) | 387 | 470 | 82.3 | /mnt/stockage/packages/f28/steadyflow/po/lt.po | 
- | [sv]({{< ref "/f28/language/sv.md" >}}) | 386 | 470 | 82.1 | /mnt/stockage/packages/f28/steadyflow/po/sv.po | 
- | [bn]({{< ref "/f28/language/bn.md" >}}) | 379 | 470 | 80.6 | /mnt/stockage/packages/f28/steadyflow/po/bn.po | 
- | [ar]({{< ref "/f28/language/ar.md" >}}) | 326 | 470 | 69.4 | /mnt/stockage/packages/f28/steadyflow/po/ar.po | 
- | [be]({{< ref "/f28/language/be.md" >}}) | 307 | 470 | 65.3 | /mnt/stockage/packages/f28/steadyflow/po/be.po | 
- | [et]({{< ref "/f28/language/et.md" >}}) | 307 | 470 | 65.3 | /mnt/stockage/packages/f28/steadyflow/po/et.po | 
- | [ml]({{< ref "/f28/language/ml.md" >}}) | 305 | 470 | 64.9 | /mnt/stockage/packages/f28/steadyflow/po/ml.po | 
- | [ro]({{< ref "/f28/language/ro.md" >}}) | 286 | 470 | 60.9 | /mnt/stockage/packages/f28/steadyflow/po/ro.po | 
- | [id]({{< ref "/f28/language/id.md" >}}) | 265 | 470 | 56.4 | /mnt/stockage/packages/f28/steadyflow/po/id.po | 
- | [hr]({{< ref "/f28/language/hr.md" >}}) | 248 | 470 | 52.8 | /mnt/stockage/packages/f28/steadyflow/po/hr.po | 
- | [ja]({{< ref "/f28/language/ja.md" >}}) | 192 | 470 | 40.9 | /mnt/stockage/packages/f28/steadyflow/po/ja.po | 
- | [hi]({{< ref "/f28/language/hi.md" >}}) | 159 | 470 | 33.8 | /mnt/stockage/packages/f28/steadyflow/po/hi.po | 
- | [si]({{< ref "/f28/language/si.md" >}}) | 123 | 470 | 26.2 | /mnt/stockage/packages/f28/steadyflow/po/si.po | 
- | [bs]({{< ref "/f28/language/bs.md" >}}) | 119 | 470 | 25.3 | /mnt/stockage/packages/f28/steadyflow/po/bs.po | 
- | [da]({{< ref "/f28/language/da.md" >}}) | 74 | 470 | 15.7 | /mnt/stockage/packages/f28/steadyflow/po/da.po | 
- | [sr]({{< ref "/f28/language/sr.md" >}}) | 73 | 470 | 15.5 | /mnt/stockage/packages/f28/steadyflow/po/sr.po | 
- | [my]({{< ref "/f28/language/my.md" >}}) | 66 | 470 | 14.0 | /mnt/stockage/packages/f28/steadyflow/po/my.po | 
- | [gu]({{< ref "/f28/language/gu.md" >}}) | 38 | 470 | 8.1 | /mnt/stockage/packages/f28/steadyflow/po/gu.po | 
- | [eo]({{< ref "/f28/language/eo.md" >}}) | 29 | 470 | 6.2 | /mnt/stockage/packages/f28/steadyflow/po/eo.po | 
+ | [ru](/f28/language/ru) | 470 | 470 | 100.0 | /mnt/stockage/packages/f28/steadyflow/po/ru.po | 
+ | [ast](/f28/language/ast) | 423 | 470 | 90.0 | /mnt/stockage/packages/f28/steadyflow/po/ast.po | 
+ | [bg](/f28/language/bg) | 423 | 470 | 90.0 | /mnt/stockage/packages/f28/steadyflow/po/bg.po | 
+ | [ca](/f28/language/ca) | 423 | 470 | 90.0 | /mnt/stockage/packages/f28/steadyflow/po/ca.po | 
+ | [cs](/f28/language/cs) | 423 | 470 | 90.0 | /mnt/stockage/packages/f28/steadyflow/po/cs.po | 
+ | [de](/f28/language/de) | 423 | 470 | 90.0 | /mnt/stockage/packages/f28/steadyflow/po/de.po | 
+ | [el](/f28/language/el) | 423 | 470 | 90.0 | /mnt/stockage/packages/f28/steadyflow/po/el.po | 
+ | [en_AU](/f28/language/en_AU) | 423 | 470 | 90.0 | /mnt/stockage/packages/f28/steadyflow/po/en_AU.po | 
+ | [en_CA](/f28/language/en_CA) | 423 | 470 | 90.0 | /mnt/stockage/packages/f28/steadyflow/po/en_CA.po | 
+ | [en_GB](/f28/language/en_GB) | 423 | 470 | 90.0 | /mnt/stockage/packages/f28/steadyflow/po/en_GB.po | 
+ | [es](/f28/language/es) | 423 | 470 | 90.0 | /mnt/stockage/packages/f28/steadyflow/po/es.po | 
+ | [eu](/f28/language/eu) | 423 | 470 | 90.0 | /mnt/stockage/packages/f28/steadyflow/po/eu.po | 
+ | [fa](/f28/language/fa) | 423 | 470 | 90.0 | /mnt/stockage/packages/f28/steadyflow/po/fa.po | 
+ | [fr](/f28/language/fr) | 423 | 470 | 90.0 | /mnt/stockage/packages/f28/steadyflow/po/fr.po | 
+ | [gl](/f28/language/gl) | 423 | 470 | 90.0 | /mnt/stockage/packages/f28/steadyflow/po/gl.po | 
+ | [he](/f28/language/he) | 423 | 470 | 90.0 | /mnt/stockage/packages/f28/steadyflow/po/he.po | 
+ | [it](/f28/language/it) | 423 | 470 | 90.0 | /mnt/stockage/packages/f28/steadyflow/po/it.po | 
+ | [ka](/f28/language/ka) | 423 | 470 | 90.0 | /mnt/stockage/packages/f28/steadyflow/po/ka.po | 
+ | [ko](/f28/language/ko) | 423 | 470 | 90.0 | /mnt/stockage/packages/f28/steadyflow/po/ko.po | 
+ | [ms](/f28/language/ms) | 423 | 470 | 90.0 | /mnt/stockage/packages/f28/steadyflow/po/ms.po | 
+ | [nb_NO](/f28/language/nb_NO) | 423 | 470 | 90.0 | /mnt/stockage/packages/f28/steadyflow/po/nb.po | 
+ | [nl](/f28/language/nl) | 423 | 470 | 90.0 | /mnt/stockage/packages/f28/steadyflow/po/nl.po | 
+ | [nn](/f28/language/nn) | 423 | 470 | 90.0 | /mnt/stockage/packages/f28/steadyflow/po/nn.po | 
+ | [pl](/f28/language/pl) | 423 | 470 | 90.0 | /mnt/stockage/packages/f28/steadyflow/po/pl.po | 
+ | [pt](/f28/language/pt) | 423 | 470 | 90.0 | /mnt/stockage/packages/f28/steadyflow/po/pt.po | 
+ | [pt_BR](/f28/language/pt_BR) | 423 | 470 | 90.0 | /mnt/stockage/packages/f28/steadyflow/po/pt_BR.po | 
+ | [sk](/f28/language/sk) | 423 | 470 | 90.0 | /mnt/stockage/packages/f28/steadyflow/po/sk.po | 
+ | [sl](/f28/language/sl) | 423 | 470 | 90.0 | /mnt/stockage/packages/f28/steadyflow/po/sl.po | 
+ | [te](/f28/language/te) | 423 | 470 | 90.0 | /mnt/stockage/packages/f28/steadyflow/po/te.po | 
+ | [tr](/f28/language/tr) | 423 | 470 | 90.0 | /mnt/stockage/packages/f28/steadyflow/po/tr.po | 
+ | [uk](/f28/language/uk) | 423 | 470 | 90.0 | /mnt/stockage/packages/f28/steadyflow/po/uk.po | 
+ | [vi](/f28/language/vi) | 423 | 470 | 90.0 | /mnt/stockage/packages/f28/steadyflow/po/vi.po | 
+ | [zh_Hans](/f28/language/zh_Hans) | 423 | 470 | 90.0 | /mnt/stockage/packages/f28/steadyflow/po/zh_CN.po | 
+ | [zh_Hant](/f28/language/zh_Hant) | 416 | 470 | 88.5 | /mnt/stockage/packages/f28/steadyflow/po/zh_TW.po | 
+ | [fo](/f28/language/fo) | 401 | 470 | 85.3 | /mnt/stockage/packages/f28/steadyflow/po/fo.po | 
+ | [hu](/f28/language/hu) | 399 | 470 | 84.9 | /mnt/stockage/packages/f28/steadyflow/po/hu.po | 
+ | [fi](/f28/language/fi) | 392 | 470 | 83.4 | /mnt/stockage/packages/f28/steadyflow/po/fi.po | 
+ | [lt](/f28/language/lt) | 387 | 470 | 82.3 | /mnt/stockage/packages/f28/steadyflow/po/lt.po | 
+ | [sv](/f28/language/sv) | 386 | 470 | 82.1 | /mnt/stockage/packages/f28/steadyflow/po/sv.po | 
+ | [bn](/f28/language/bn) | 379 | 470 | 80.6 | /mnt/stockage/packages/f28/steadyflow/po/bn.po | 
+ | [ar](/f28/language/ar) | 326 | 470 | 69.4 | /mnt/stockage/packages/f28/steadyflow/po/ar.po | 
+ | [be](/f28/language/be) | 307 | 470 | 65.3 | /mnt/stockage/packages/f28/steadyflow/po/be.po | 
+ | [et](/f28/language/et) | 307 | 470 | 65.3 | /mnt/stockage/packages/f28/steadyflow/po/et.po | 
+ | [ml](/f28/language/ml) | 305 | 470 | 64.9 | /mnt/stockage/packages/f28/steadyflow/po/ml.po | 
+ | [ro](/f28/language/ro) | 286 | 470 | 60.9 | /mnt/stockage/packages/f28/steadyflow/po/ro.po | 
+ | [id](/f28/language/id) | 265 | 470 | 56.4 | /mnt/stockage/packages/f28/steadyflow/po/id.po | 
+ | [hr](/f28/language/hr) | 248 | 470 | 52.8 | /mnt/stockage/packages/f28/steadyflow/po/hr.po | 
+ | [ja](/f28/language/ja) | 192 | 470 | 40.9 | /mnt/stockage/packages/f28/steadyflow/po/ja.po | 
+ | [hi](/f28/language/hi) | 159 | 470 | 33.8 | /mnt/stockage/packages/f28/steadyflow/po/hi.po | 
+ | [si](/f28/language/si) | 123 | 470 | 26.2 | /mnt/stockage/packages/f28/steadyflow/po/si.po | 
+ | [bs](/f28/language/bs) | 119 | 470 | 25.3 | /mnt/stockage/packages/f28/steadyflow/po/bs.po | 
+ | [da](/f28/language/da) | 74 | 470 | 15.7 | /mnt/stockage/packages/f28/steadyflow/po/da.po | 
+ | [sr](/f28/language/sr) | 73 | 470 | 15.5 | /mnt/stockage/packages/f28/steadyflow/po/sr.po | 
+ | [my](/f28/language/my) | 66 | 470 | 14.0 | /mnt/stockage/packages/f28/steadyflow/po/my.po | 
+ | [gu](/f28/language/gu) | 38 | 470 | 8.1 | /mnt/stockage/packages/f28/steadyflow/po/gu.po | 
+ | [eo](/f28/language/eo) | 29 | 470 | 6.2 | /mnt/stockage/packages/f28/steadyflow/po/eo.po | 
 {.sortable}
 
 

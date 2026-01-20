@@ -18,15 +18,15 @@ The package libgpod (version 0.8.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [it]({{< ref "/f28/language/it.md" >}}) | 1053 | 1053 | 100.0 | /mnt/stockage/packages/f28/libgpod/po/it.po | 
- | [fr]({{< ref "/f28/language/fr.md" >}}) | 1024 | 1053 | 97.2 | /mnt/stockage/packages/f28/libgpod/po/fr.po | 
- | [de]({{< ref "/f28/language/de.md" >}}) | 891 | 1053 | 84.6 | /mnt/stockage/packages/f28/libgpod/po/de.po | 
- | [es]({{< ref "/f28/language/es.md" >}}) | 891 | 1053 | 84.6 | /mnt/stockage/packages/f28/libgpod/po/es.po | 
- | [he]({{< ref "/f28/language/he.md" >}}) | 891 | 1053 | 84.6 | /mnt/stockage/packages/f28/libgpod/po/he.po | 
- | [sv]({{< ref "/f28/language/sv.md" >}}) | 891 | 1053 | 84.6 | /mnt/stockage/packages/f28/libgpod/po/sv.po | 
- | [zh_Hans]({{< ref "/f28/language/zh_Hans.md" >}}) | 891 | 1053 | 84.6 | /mnt/stockage/packages/f28/libgpod/po/zh_CN.po | 
- | [ro]({{< ref "/f28/language/ro.md" >}}) | 761 | 1053 | 72.3 | /mnt/stockage/packages/f28/libgpod/po/ro.po | 
- | [ja]({{< ref "/f28/language/ja.md" >}}) | 650 | 1053 | 61.7 | /mnt/stockage/packages/f28/libgpod/po/ja.po | 
+ | [it](/f28/language/it) | 1053 | 1053 | 100.0 | /mnt/stockage/packages/f28/libgpod/po/it.po | 
+ | [fr](/f28/language/fr) | 1024 | 1053 | 97.2 | /mnt/stockage/packages/f28/libgpod/po/fr.po | 
+ | [de](/f28/language/de) | 891 | 1053 | 84.6 | /mnt/stockage/packages/f28/libgpod/po/de.po | 
+ | [es](/f28/language/es) | 891 | 1053 | 84.6 | /mnt/stockage/packages/f28/libgpod/po/es.po | 
+ | [he](/f28/language/he) | 891 | 1053 | 84.6 | /mnt/stockage/packages/f28/libgpod/po/he.po | 
+ | [sv](/f28/language/sv) | 891 | 1053 | 84.6 | /mnt/stockage/packages/f28/libgpod/po/sv.po | 
+ | [zh_Hans](/f28/language/zh_Hans) | 891 | 1053 | 84.6 | /mnt/stockage/packages/f28/libgpod/po/zh_CN.po | 
+ | [ro](/f28/language/ro) | 761 | 1053 | 72.3 | /mnt/stockage/packages/f28/libgpod/po/ro.po | 
+ | [ja](/f28/language/ja) | 650 | 1053 | 61.7 | /mnt/stockage/packages/f28/libgpod/po/ja.po | 
 {.sortable}
 
 

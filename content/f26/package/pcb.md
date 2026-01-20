@@ -18,10 +18,10 @@ The package pcb (version 0.20140316):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [nl]({{< ref "/f26/language/nl.md" >}}) | 3175 | 3175 | 100.0 | /mnt/stockage/packages/f26/pcb/po/nl.po | 
- | [pt_BR]({{< ref "/f26/language/pt_BR.md" >}}) | 6349 | 6349 | 100.0 | /mnt/stockage/packages/f26/pcb/po/pt_BR.po | 
- | [ru]({{< ref "/f26/language/ru.md" >}}) | 4414 | 4414 | 100.0 | /mnt/stockage/packages/f26/pcb/po/ru.po | 
- | [fr]({{< ref "/f26/language/fr.md" >}}) | 1708 | 2765 | 61.8 | /mnt/stockage/packages/f26/pcb/po/fr.po | 
+ | [nl](/f26/language/nl) | 3175 | 3175 | 100.0 | /mnt/stockage/packages/f26/pcb/po/nl.po | 
+ | [pt_BR](/f26/language/pt_BR) | 6349 | 6349 | 100.0 | /mnt/stockage/packages/f26/pcb/po/pt_BR.po | 
+ | [ru](/f26/language/ru) | 4414 | 4414 | 100.0 | /mnt/stockage/packages/f26/pcb/po/ru.po | 
+ | [fr](/f26/language/fr) | 1708 | 2765 | 61.8 | /mnt/stockage/packages/f26/pcb/po/fr.po | 
 {.sortable}
 
 

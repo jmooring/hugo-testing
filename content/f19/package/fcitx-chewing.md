@@ -18,8 +18,8 @@ The package fcitx-chewing (version 0.1.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [zh_Hans]({{< ref "/f19/language/zh_Hans.md" >}}) | 44 | 44 | 100.0 | /mnt/stockage/packages/f19/fcitx-chewing/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f19/language/zh_Hant.md" >}}) | 44 | 44 | 100.0 | /mnt/stockage/packages/f19/fcitx-chewing/po/zh_TW.po | 
+ | [zh_Hans](/f19/language/zh_Hans) | 44 | 44 | 100.0 | /mnt/stockage/packages/f19/fcitx-chewing/po/zh_CN.po | 
+ | [zh_Hant](/f19/language/zh_Hant) | 44 | 44 | 100.0 | /mnt/stockage/packages/f19/fcitx-chewing/po/zh_TW.po | 
 {.sortable}
 
 

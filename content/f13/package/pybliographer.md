@@ -18,41 +18,41 @@ The package pybliographer (version 1.2.14):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f13/language/ca.md" >}}) | 798 | 798 | 100.0 | /mnt/stockage/packages/f13/pybliographer/po/ca.po | 
- | [cs]({{< ref "/f13/language/cs.md" >}}) | 965 | 965 | 100.0 | /mnt/stockage/packages/f13/pybliographer/po/cs.po | 
- | [da]({{< ref "/f13/language/da.md" >}}) | 965 | 965 | 100.0 | /mnt/stockage/packages/f13/pybliographer/po/da.po | 
- | [dz]({{< ref "/f13/language/dz.md" >}}) | 971 | 971 | 100.0 | /mnt/stockage/packages/f13/pybliographer/po/dz.po | 
- | [en_CA]({{< ref "/f13/language/en_CA.md" >}}) | 971 | 971 | 100.0 | /mnt/stockage/packages/f13/pybliographer/po/en_CA.po | 
- | [en_GB]({{< ref "/f13/language/en_GB.md" >}}) | 971 | 971 | 100.0 | /mnt/stockage/packages/f13/pybliographer/po/en_GB.po | 
- | [error]({{< ref "/f13/language/error.md" >}}) | 588 | 588 | 100.0 | /mnt/stockage/packages/f13/pybliographer/po/sr@Latn.po | 
- | [es]({{< ref "/f13/language/es.md" >}}) | 965 | 965 | 100.0 | /mnt/stockage/packages/f13/pybliographer/po/es.po | 
- | [fi]({{< ref "/f13/language/fi.md" >}}) | 962 | 962 | 100.0 | /mnt/stockage/packages/f13/pybliographer/po/fi.po | 
- | [fr]({{< ref "/f13/language/fr.md" >}}) | 965 | 965 | 100.0 | /mnt/stockage/packages/f13/pybliographer/po/fr.po | 
- | [hu]({{< ref "/f13/language/hu.md" >}}) | 965 | 965 | 100.0 | /mnt/stockage/packages/f13/pybliographer/po/hu.po | 
- | [it]({{< ref "/f13/language/it.md" >}}) | 573 | 573 | 100.0 | /mnt/stockage/packages/f13/pybliographer/po/it.po | 
- | [ne]({{< ref "/f13/language/ne.md" >}}) | 971 | 971 | 100.0 | /mnt/stockage/packages/f13/pybliographer/po/ne.po | 
- | [nl]({{< ref "/f13/language/nl.md" >}}) | 939 | 939 | 100.0 | /mnt/stockage/packages/f13/pybliographer/po/nl.po | 
- | [pt]({{< ref "/f13/language/pt.md" >}}) | 971 | 971 | 100.0 | /mnt/stockage/packages/f13/pybliographer/po/pt.po | 
- | [pt_BR]({{< ref "/f13/language/pt_BR.md" >}}) | 965 | 965 | 100.0 | /mnt/stockage/packages/f13/pybliographer/po/pt_BR.po | 
- | [sk]({{< ref "/f13/language/sk.md" >}}) | 613 | 613 | 100.0 | /mnt/stockage/packages/f13/pybliographer/po/sk.po | 
- | [sl]({{< ref "/f13/language/sl.md" >}}) | 965 | 965 | 100.0 | /mnt/stockage/packages/f13/pybliographer/po/sl.po | 
- | [sr]({{< ref "/f13/language/sr.md" >}}) | 588 | 588 | 100.0 | /mnt/stockage/packages/f13/pybliographer/po/sr.po | 
- | [sv]({{< ref "/f13/language/sv.md" >}}) | 971 | 971 | 100.0 | /mnt/stockage/packages/f13/pybliographer/po/sv.po | 
- | [vi]({{< ref "/f13/language/vi.md" >}}) | 962 | 962 | 100.0 | /mnt/stockage/packages/f13/pybliographer/po/vi.po | 
- | [zh_Hans]({{< ref "/f13/language/zh_Hans.md" >}}) | 971 | 971 | 100.0 | /mnt/stockage/packages/f13/pybliographer/po/zh_CN.po | 
- | [de]({{< ref "/f13/language/de.md" >}}) | 6073 | 6108 | 99.4 | /mnt/stockage/packages/f13/pybliographer/help/de/de.po/mnt/stockage/packages/f13/pybliographer/po/de.po | 
- | [hr]({{< ref "/f13/language/hr.md" >}}) | 568 | 613 | 92.7 | /mnt/stockage/packages/f13/pybliographer/po/hr.po | 
- | [az]({{< ref "/f13/language/az.md" >}}) | 442 | 524 | 84.4 | /mnt/stockage/packages/f13/pybliographer/po/az.po | 
- | [tr]({{< ref "/f13/language/tr.md" >}}) | 434 | 524 | 82.8 | /mnt/stockage/packages/f13/pybliographer/po/tr.po | 
- | [ru]({{< ref "/f13/language/ru.md" >}}) | 420 | 524 | 80.2 | /mnt/stockage/packages/f13/pybliographer/po/ru.po | 
- | [uk]({{< ref "/f13/language/uk.md" >}}) | 621 | 855 | 72.6 | /mnt/stockage/packages/f13/pybliographer/po/uk.po | 
- | [ja]({{< ref "/f13/language/ja.md" >}}) | 562 | 971 | 57.9 | /mnt/stockage/packages/f13/pybliographer/po/ja.po | 
- | [el]({{< ref "/f13/language/el.md" >}}) | 543 | 971 | 55.9 | /mnt/stockage/packages/f13/pybliographer/po/el.po | 
- | [nb_NO]({{< ref "/f13/language/nb_NO.md" >}}) | 542 | 971 | 55.8 | /mnt/stockage/packages/f13/pybliographer/po/nb.po | 
- | [pa]({{< ref "/f13/language/pa.md" >}}) | 263 | 601 | 43.8 | /mnt/stockage/packages/f13/pybliographer/po/pa.po | 
- | [oc]({{< ref "/f13/language/oc.md" >}}) | 264 | 971 | 27.2 | /mnt/stockage/packages/f13/pybliographer/po/oc.po | 
- | [rw]({{< ref "/f13/language/rw.md" >}}) | 49 | 798 | 6.1 | /mnt/stockage/packages/f13/pybliographer/po/rw.po | 
- | [ar]({{< ref "/f13/language/ar.md" >}}) | 47 | 971 | 4.8 | /mnt/stockage/packages/f13/pybliographer/po/ar.po | 
+ | [ca](/f13/language/ca) | 798 | 798 | 100.0 | /mnt/stockage/packages/f13/pybliographer/po/ca.po | 
+ | [cs](/f13/language/cs) | 965 | 965 | 100.0 | /mnt/stockage/packages/f13/pybliographer/po/cs.po | 
+ | [da](/f13/language/da) | 965 | 965 | 100.0 | /mnt/stockage/packages/f13/pybliographer/po/da.po | 
+ | [dz](/f13/language/dz) | 971 | 971 | 100.0 | /mnt/stockage/packages/f13/pybliographer/po/dz.po | 
+ | [en_CA](/f13/language/en_CA) | 971 | 971 | 100.0 | /mnt/stockage/packages/f13/pybliographer/po/en_CA.po | 
+ | [en_GB](/f13/language/en_GB) | 971 | 971 | 100.0 | /mnt/stockage/packages/f13/pybliographer/po/en_GB.po | 
+ | [error](/f13/language/error) | 588 | 588 | 100.0 | /mnt/stockage/packages/f13/pybliographer/po/sr@Latn.po | 
+ | [es](/f13/language/es) | 965 | 965 | 100.0 | /mnt/stockage/packages/f13/pybliographer/po/es.po | 
+ | [fi](/f13/language/fi) | 962 | 962 | 100.0 | /mnt/stockage/packages/f13/pybliographer/po/fi.po | 
+ | [fr](/f13/language/fr) | 965 | 965 | 100.0 | /mnt/stockage/packages/f13/pybliographer/po/fr.po | 
+ | [hu](/f13/language/hu) | 965 | 965 | 100.0 | /mnt/stockage/packages/f13/pybliographer/po/hu.po | 
+ | [it](/f13/language/it) | 573 | 573 | 100.0 | /mnt/stockage/packages/f13/pybliographer/po/it.po | 
+ | [ne](/f13/language/ne) | 971 | 971 | 100.0 | /mnt/stockage/packages/f13/pybliographer/po/ne.po | 
+ | [nl](/f13/language/nl) | 939 | 939 | 100.0 | /mnt/stockage/packages/f13/pybliographer/po/nl.po | 
+ | [pt](/f13/language/pt) | 971 | 971 | 100.0 | /mnt/stockage/packages/f13/pybliographer/po/pt.po | 
+ | [pt_BR](/f13/language/pt_BR) | 965 | 965 | 100.0 | /mnt/stockage/packages/f13/pybliographer/po/pt_BR.po | 
+ | [sk](/f13/language/sk) | 613 | 613 | 100.0 | /mnt/stockage/packages/f13/pybliographer/po/sk.po | 
+ | [sl](/f13/language/sl) | 965 | 965 | 100.0 | /mnt/stockage/packages/f13/pybliographer/po/sl.po | 
+ | [sr](/f13/language/sr) | 588 | 588 | 100.0 | /mnt/stockage/packages/f13/pybliographer/po/sr.po | 
+ | [sv](/f13/language/sv) | 971 | 971 | 100.0 | /mnt/stockage/packages/f13/pybliographer/po/sv.po | 
+ | [vi](/f13/language/vi) | 962 | 962 | 100.0 | /mnt/stockage/packages/f13/pybliographer/po/vi.po | 
+ | [zh_Hans](/f13/language/zh_Hans) | 971 | 971 | 100.0 | /mnt/stockage/packages/f13/pybliographer/po/zh_CN.po | 
+ | [de](/f13/language/de) | 6073 | 6108 | 99.4 | /mnt/stockage/packages/f13/pybliographer/help/de/de.po/mnt/stockage/packages/f13/pybliographer/po/de.po | 
+ | [hr](/f13/language/hr) | 568 | 613 | 92.7 | /mnt/stockage/packages/f13/pybliographer/po/hr.po | 
+ | [az](/f13/language/az) | 442 | 524 | 84.4 | /mnt/stockage/packages/f13/pybliographer/po/az.po | 
+ | [tr](/f13/language/tr) | 434 | 524 | 82.8 | /mnt/stockage/packages/f13/pybliographer/po/tr.po | 
+ | [ru](/f13/language/ru) | 420 | 524 | 80.2 | /mnt/stockage/packages/f13/pybliographer/po/ru.po | 
+ | [uk](/f13/language/uk) | 621 | 855 | 72.6 | /mnt/stockage/packages/f13/pybliographer/po/uk.po | 
+ | [ja](/f13/language/ja) | 562 | 971 | 57.9 | /mnt/stockage/packages/f13/pybliographer/po/ja.po | 
+ | [el](/f13/language/el) | 543 | 971 | 55.9 | /mnt/stockage/packages/f13/pybliographer/po/el.po | 
+ | [nb_NO](/f13/language/nb_NO) | 542 | 971 | 55.8 | /mnt/stockage/packages/f13/pybliographer/po/nb.po | 
+ | [pa](/f13/language/pa) | 263 | 601 | 43.8 | /mnt/stockage/packages/f13/pybliographer/po/pa.po | 
+ | [oc](/f13/language/oc) | 264 | 971 | 27.2 | /mnt/stockage/packages/f13/pybliographer/po/oc.po | 
+ | [rw](/f13/language/rw) | 49 | 798 | 6.1 | /mnt/stockage/packages/f13/pybliographer/po/rw.po | 
+ | [ar](/f13/language/ar) | 47 | 971 | 4.8 | /mnt/stockage/packages/f13/pybliographer/po/ar.po | 
 {.sortable}
 
 

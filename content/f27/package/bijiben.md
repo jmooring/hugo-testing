@@ -18,61 +18,61 @@ The package bijiben (version 3.26.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f27/language/ar.md" >}}) | 310 | 310 | 100.0 | /mnt/stockage/packages/f27/bijiben/po/ar.po | 
- | [as]({{< ref "/f27/language/as.md" >}}) | 310 | 310 | 100.0 | /mnt/stockage/packages/f27/bijiben/po/as.po | 
- | [bs]({{< ref "/f27/language/bs.md" >}}) | 309 | 309 | 100.0 | /mnt/stockage/packages/f27/bijiben/po/bs.po | 
- | [ca]({{< ref "/f27/language/ca.md" >}}) | 311 | 311 | 100.0 | /mnt/stockage/packages/f27/bijiben/po/ca.po | 
- | [ca@valencia]({{< ref "/f27/language/ca@valencia.md" >}}) | 310 | 310 | 100.0 | /mnt/stockage/packages/f27/bijiben/po/ca@valencia.po | 
- | [cs]({{< ref "/f27/language/cs.md" >}}) | 1191 | 1191 | 100.0 | /mnt/stockage/packages/f27/bijiben/help/cs/cs.po/mnt/stockage/packages/f27/bijiben/po/cs.po | 
- | [da]({{< ref "/f27/language/da.md" >}}) | 309 | 309 | 100.0 | /mnt/stockage/packages/f27/bijiben/po/da.po | 
- | [de]({{< ref "/f27/language/de.md" >}}) | 1191 | 1191 | 100.0 | /mnt/stockage/packages/f27/bijiben/help/de/de.po/mnt/stockage/packages/f27/bijiben/po/de.po | 
- | [el]({{< ref "/f27/language/el.md" >}}) | 1181 | 1181 | 100.0 | /mnt/stockage/packages/f27/bijiben/help/el/el.po/mnt/stockage/packages/f27/bijiben/po/el.po | 
- | [en_AU]({{< ref "/f27/language/en_AU.md" >}}) | 309 | 309 | 100.0 | /mnt/stockage/packages/f27/bijiben/po/en_AU.po | 
- | [en_GB]({{< ref "/f27/language/en_GB.md" >}}) | 309 | 309 | 100.0 | /mnt/stockage/packages/f27/bijiben/po/en_GB.po | 
- | [es]({{< ref "/f27/language/es.md" >}}) | 1188 | 1188 | 100.0 | /mnt/stockage/packages/f27/bijiben/help/es/es.po/mnt/stockage/packages/f27/bijiben/po/es.po | 
- | [et]({{< ref "/f27/language/et.md" >}}) | 203 | 203 | 100.0 | /mnt/stockage/packages/f27/bijiben/po/et.po | 
- | [eu]({{< ref "/f27/language/eu.md" >}}) | 309 | 309 | 100.0 | /mnt/stockage/packages/f27/bijiben/po/eu.po | 
- | [fa]({{< ref "/f27/language/fa.md" >}}) | 309 | 309 | 100.0 | /mnt/stockage/packages/f27/bijiben/po/fa.po | 
- | [fi]({{< ref "/f27/language/fi.md" >}}) | 309 | 309 | 100.0 | /mnt/stockage/packages/f27/bijiben/po/fi.po | 
- | [fr]({{< ref "/f27/language/fr.md" >}}) | 1181 | 1181 | 100.0 | /mnt/stockage/packages/f27/bijiben/help/fr/fr.po/mnt/stockage/packages/f27/bijiben/po/fr.po | 
- | [fur]({{< ref "/f27/language/fur.md" >}}) | 309 | 309 | 100.0 | /mnt/stockage/packages/f27/bijiben/po/fur.po | 
- | [ga]({{< ref "/f27/language/ga.md" >}}) | 203 | 203 | 100.0 | /mnt/stockage/packages/f27/bijiben/po/ga.po | 
- | [gl]({{< ref "/f27/language/gl.md" >}}) | 309 | 309 | 100.0 | /mnt/stockage/packages/f27/bijiben/po/gl.po | 
- | [he]({{< ref "/f27/language/he.md" >}}) | 309 | 309 | 100.0 | /mnt/stockage/packages/f27/bijiben/po/he.po | 
- | [hu]({{< ref "/f27/language/hu.md" >}}) | 1191 | 1191 | 100.0 | /mnt/stockage/packages/f27/bijiben/help/hu/hu.po/mnt/stockage/packages/f27/bijiben/po/hu.po | 
- | [id]({{< ref "/f27/language/id.md" >}}) | 319 | 319 | 100.0 | /mnt/stockage/packages/f27/bijiben/po/id.po | 
- | [is]({{< ref "/f27/language/is.md" >}}) | 309 | 309 | 100.0 | /mnt/stockage/packages/f27/bijiben/po/is.po | 
- | [it]({{< ref "/f27/language/it.md" >}}) | 309 | 309 | 100.0 | /mnt/stockage/packages/f27/bijiben/po/it.po | 
- | [ja]({{< ref "/f27/language/ja.md" >}}) | 309 | 309 | 100.0 | /mnt/stockage/packages/f27/bijiben/po/ja.po | 
- | [kk]({{< ref "/f27/language/kk.md" >}}) | 311 | 311 | 100.0 | /mnt/stockage/packages/f27/bijiben/po/kk.po | 
- | [ko]({{< ref "/f27/language/ko.md" >}}) | 1181 | 1181 | 100.0 | /mnt/stockage/packages/f27/bijiben/help/ko/ko.po/mnt/stockage/packages/f27/bijiben/po/ko.po | 
- | [lt]({{< ref "/f27/language/lt.md" >}}) | 311 | 311 | 100.0 | /mnt/stockage/packages/f27/bijiben/po/lt.po | 
- | [lv]({{< ref "/f27/language/lv.md" >}}) | 309 | 309 | 100.0 | /mnt/stockage/packages/f27/bijiben/po/lv.po | 
- | [nb_NO]({{< ref "/f27/language/nb_NO.md" >}}) | 309 | 309 | 100.0 | /mnt/stockage/packages/f27/bijiben/po/nb.po | 
- | [nl]({{< ref "/f27/language/nl.md" >}}) | 309 | 309 | 100.0 | /mnt/stockage/packages/f27/bijiben/po/nl.po | 
- | [oc]({{< ref "/f27/language/oc.md" >}}) | 309 | 309 | 100.0 | /mnt/stockage/packages/f27/bijiben/po/oc.po | 
- | [or]({{< ref "/f27/language/or.md" >}}) | 310 | 310 | 100.0 | /mnt/stockage/packages/f27/bijiben/po/or.po | 
- | [pa]({{< ref "/f27/language/pa.md" >}}) | 309 | 309 | 100.0 | /mnt/stockage/packages/f27/bijiben/po/pa.po | 
- | [pl]({{< ref "/f27/language/pl.md" >}}) | 1191 | 1191 | 100.0 | /mnt/stockage/packages/f27/bijiben/help/pl/pl.po/mnt/stockage/packages/f27/bijiben/po/pl.po | 
- | [pt]({{< ref "/f27/language/pt.md" >}}) | 309 | 309 | 100.0 | /mnt/stockage/packages/f27/bijiben/po/pt.po | 
- | [pt_BR]({{< ref "/f27/language/pt_BR.md" >}}) | 1191 | 1191 | 100.0 | /mnt/stockage/packages/f27/bijiben/help/pt_BR/pt_BR.po/mnt/stockage/packages/f27/bijiben/po/pt_BR.po | 
- | [ro]({{< ref "/f27/language/ro.md" >}}) | 309 | 309 | 100.0 | /mnt/stockage/packages/f27/bijiben/po/ro.po | 
- | [ru]({{< ref "/f27/language/ru.md" >}}) | 309 | 309 | 100.0 | /mnt/stockage/packages/f27/bijiben/po/ru.po | 
- | [sk]({{< ref "/f27/language/sk.md" >}}) | 319 | 319 | 100.0 | /mnt/stockage/packages/f27/bijiben/po/sk.po | 
- | [sl]({{< ref "/f27/language/sl.md" >}}) | 319 | 319 | 100.0 | /mnt/stockage/packages/f27/bijiben/po/sl.po | 
- | [sr]({{< ref "/f27/language/sr.md" >}}) | 638 | 638 | 100.0 | /mnt/stockage/packages/f27/bijiben/po/sr.po/mnt/stockage/packages/f27/bijiben/po/sr@latin.po | 
- | [sv]({{< ref "/f27/language/sv.md" >}}) | 1191 | 1191 | 100.0 | /mnt/stockage/packages/f27/bijiben/help/sv/sv.po/mnt/stockage/packages/f27/bijiben/po/sv.po | 
- | [te]({{< ref "/f27/language/te.md" >}}) | 312 | 312 | 100.0 | /mnt/stockage/packages/f27/bijiben/po/te.po | 
- | [tg]({{< ref "/f27/language/tg.md" >}}) | 309 | 309 | 100.0 | /mnt/stockage/packages/f27/bijiben/po/tg.po | 
- | [tr]({{< ref "/f27/language/tr.md" >}}) | 311 | 311 | 100.0 | /mnt/stockage/packages/f27/bijiben/po/tr.po | 
- | [uk]({{< ref "/f27/language/uk.md" >}}) | 309 | 309 | 100.0 | /mnt/stockage/packages/f27/bijiben/po/uk.po | 
- | [vi]({{< ref "/f27/language/vi.md" >}}) | 309 | 309 | 100.0 | /mnt/stockage/packages/f27/bijiben/po/vi.po | 
- | [zh_Hans]({{< ref "/f27/language/zh_Hans.md" >}}) | 309 | 309 | 100.0 | /mnt/stockage/packages/f27/bijiben/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f27/language/zh_Hant.md" >}}) | 319 | 319 | 100.0 | /mnt/stockage/packages/f27/bijiben/po/zh_TW.po | 
- | [zh_Hant_HK]({{< ref "/f27/language/zh_Hant_HK.md" >}}) | 310 | 310 | 100.0 | /mnt/stockage/packages/f27/bijiben/po/zh_HK.po | 
- | [ml]({{< ref "/f27/language/ml.md" >}}) | 173 | 203 | 85.2 | /mnt/stockage/packages/f27/bijiben/po/ml.po | 
- | [eo]({{< ref "/f27/language/eo.md" >}}) | 261 | 309 | 84.5 | /mnt/stockage/packages/f27/bijiben/po/eo.po | 
- | [ne]({{< ref "/f27/language/ne.md" >}}) | 151 | 310 | 48.7 | /mnt/stockage/packages/f27/bijiben/po/ne.po | 
+ | [ar](/f27/language/ar) | 310 | 310 | 100.0 | /mnt/stockage/packages/f27/bijiben/po/ar.po | 
+ | [as](/f27/language/as) | 310 | 310 | 100.0 | /mnt/stockage/packages/f27/bijiben/po/as.po | 
+ | [bs](/f27/language/bs) | 309 | 309 | 100.0 | /mnt/stockage/packages/f27/bijiben/po/bs.po | 
+ | [ca](/f27/language/ca) | 311 | 311 | 100.0 | /mnt/stockage/packages/f27/bijiben/po/ca.po | 
+ | [ca@valencia](/f27/language/ca@valencia) | 310 | 310 | 100.0 | /mnt/stockage/packages/f27/bijiben/po/ca@valencia.po | 
+ | [cs](/f27/language/cs) | 1191 | 1191 | 100.0 | /mnt/stockage/packages/f27/bijiben/help/cs/cs.po/mnt/stockage/packages/f27/bijiben/po/cs.po | 
+ | [da](/f27/language/da) | 309 | 309 | 100.0 | /mnt/stockage/packages/f27/bijiben/po/da.po | 
+ | [de](/f27/language/de) | 1191 | 1191 | 100.0 | /mnt/stockage/packages/f27/bijiben/help/de/de.po/mnt/stockage/packages/f27/bijiben/po/de.po | 
+ | [el](/f27/language/el) | 1181 | 1181 | 100.0 | /mnt/stockage/packages/f27/bijiben/help/el/el.po/mnt/stockage/packages/f27/bijiben/po/el.po | 
+ | [en_AU](/f27/language/en_AU) | 309 | 309 | 100.0 | /mnt/stockage/packages/f27/bijiben/po/en_AU.po | 
+ | [en_GB](/f27/language/en_GB) | 309 | 309 | 100.0 | /mnt/stockage/packages/f27/bijiben/po/en_GB.po | 
+ | [es](/f27/language/es) | 1188 | 1188 | 100.0 | /mnt/stockage/packages/f27/bijiben/help/es/es.po/mnt/stockage/packages/f27/bijiben/po/es.po | 
+ | [et](/f27/language/et) | 203 | 203 | 100.0 | /mnt/stockage/packages/f27/bijiben/po/et.po | 
+ | [eu](/f27/language/eu) | 309 | 309 | 100.0 | /mnt/stockage/packages/f27/bijiben/po/eu.po | 
+ | [fa](/f27/language/fa) | 309 | 309 | 100.0 | /mnt/stockage/packages/f27/bijiben/po/fa.po | 
+ | [fi](/f27/language/fi) | 309 | 309 | 100.0 | /mnt/stockage/packages/f27/bijiben/po/fi.po | 
+ | [fr](/f27/language/fr) | 1181 | 1181 | 100.0 | /mnt/stockage/packages/f27/bijiben/help/fr/fr.po/mnt/stockage/packages/f27/bijiben/po/fr.po | 
+ | [fur](/f27/language/fur) | 309 | 309 | 100.0 | /mnt/stockage/packages/f27/bijiben/po/fur.po | 
+ | [ga](/f27/language/ga) | 203 | 203 | 100.0 | /mnt/stockage/packages/f27/bijiben/po/ga.po | 
+ | [gl](/f27/language/gl) | 309 | 309 | 100.0 | /mnt/stockage/packages/f27/bijiben/po/gl.po | 
+ | [he](/f27/language/he) | 309 | 309 | 100.0 | /mnt/stockage/packages/f27/bijiben/po/he.po | 
+ | [hu](/f27/language/hu) | 1191 | 1191 | 100.0 | /mnt/stockage/packages/f27/bijiben/help/hu/hu.po/mnt/stockage/packages/f27/bijiben/po/hu.po | 
+ | [id](/f27/language/id) | 319 | 319 | 100.0 | /mnt/stockage/packages/f27/bijiben/po/id.po | 
+ | [is](/f27/language/is) | 309 | 309 | 100.0 | /mnt/stockage/packages/f27/bijiben/po/is.po | 
+ | [it](/f27/language/it) | 309 | 309 | 100.0 | /mnt/stockage/packages/f27/bijiben/po/it.po | 
+ | [ja](/f27/language/ja) | 309 | 309 | 100.0 | /mnt/stockage/packages/f27/bijiben/po/ja.po | 
+ | [kk](/f27/language/kk) | 311 | 311 | 100.0 | /mnt/stockage/packages/f27/bijiben/po/kk.po | 
+ | [ko](/f27/language/ko) | 1181 | 1181 | 100.0 | /mnt/stockage/packages/f27/bijiben/help/ko/ko.po/mnt/stockage/packages/f27/bijiben/po/ko.po | 
+ | [lt](/f27/language/lt) | 311 | 311 | 100.0 | /mnt/stockage/packages/f27/bijiben/po/lt.po | 
+ | [lv](/f27/language/lv) | 309 | 309 | 100.0 | /mnt/stockage/packages/f27/bijiben/po/lv.po | 
+ | [nb_NO](/f27/language/nb_NO) | 309 | 309 | 100.0 | /mnt/stockage/packages/f27/bijiben/po/nb.po | 
+ | [nl](/f27/language/nl) | 309 | 309 | 100.0 | /mnt/stockage/packages/f27/bijiben/po/nl.po | 
+ | [oc](/f27/language/oc) | 309 | 309 | 100.0 | /mnt/stockage/packages/f27/bijiben/po/oc.po | 
+ | [or](/f27/language/or) | 310 | 310 | 100.0 | /mnt/stockage/packages/f27/bijiben/po/or.po | 
+ | [pa](/f27/language/pa) | 309 | 309 | 100.0 | /mnt/stockage/packages/f27/bijiben/po/pa.po | 
+ | [pl](/f27/language/pl) | 1191 | 1191 | 100.0 | /mnt/stockage/packages/f27/bijiben/help/pl/pl.po/mnt/stockage/packages/f27/bijiben/po/pl.po | 
+ | [pt](/f27/language/pt) | 309 | 309 | 100.0 | /mnt/stockage/packages/f27/bijiben/po/pt.po | 
+ | [pt_BR](/f27/language/pt_BR) | 1191 | 1191 | 100.0 | /mnt/stockage/packages/f27/bijiben/help/pt_BR/pt_BR.po/mnt/stockage/packages/f27/bijiben/po/pt_BR.po | 
+ | [ro](/f27/language/ro) | 309 | 309 | 100.0 | /mnt/stockage/packages/f27/bijiben/po/ro.po | 
+ | [ru](/f27/language/ru) | 309 | 309 | 100.0 | /mnt/stockage/packages/f27/bijiben/po/ru.po | 
+ | [sk](/f27/language/sk) | 319 | 319 | 100.0 | /mnt/stockage/packages/f27/bijiben/po/sk.po | 
+ | [sl](/f27/language/sl) | 319 | 319 | 100.0 | /mnt/stockage/packages/f27/bijiben/po/sl.po | 
+ | [sr](/f27/language/sr) | 638 | 638 | 100.0 | /mnt/stockage/packages/f27/bijiben/po/sr.po/mnt/stockage/packages/f27/bijiben/po/sr@latin.po | 
+ | [sv](/f27/language/sv) | 1191 | 1191 | 100.0 | /mnt/stockage/packages/f27/bijiben/help/sv/sv.po/mnt/stockage/packages/f27/bijiben/po/sv.po | 
+ | [te](/f27/language/te) | 312 | 312 | 100.0 | /mnt/stockage/packages/f27/bijiben/po/te.po | 
+ | [tg](/f27/language/tg) | 309 | 309 | 100.0 | /mnt/stockage/packages/f27/bijiben/po/tg.po | 
+ | [tr](/f27/language/tr) | 311 | 311 | 100.0 | /mnt/stockage/packages/f27/bijiben/po/tr.po | 
+ | [uk](/f27/language/uk) | 309 | 309 | 100.0 | /mnt/stockage/packages/f27/bijiben/po/uk.po | 
+ | [vi](/f27/language/vi) | 309 | 309 | 100.0 | /mnt/stockage/packages/f27/bijiben/po/vi.po | 
+ | [zh_Hans](/f27/language/zh_Hans) | 309 | 309 | 100.0 | /mnt/stockage/packages/f27/bijiben/po/zh_CN.po | 
+ | [zh_Hant](/f27/language/zh_Hant) | 319 | 319 | 100.0 | /mnt/stockage/packages/f27/bijiben/po/zh_TW.po | 
+ | [zh_Hant_HK](/f27/language/zh_Hant_HK) | 310 | 310 | 100.0 | /mnt/stockage/packages/f27/bijiben/po/zh_HK.po | 
+ | [ml](/f27/language/ml) | 173 | 203 | 85.2 | /mnt/stockage/packages/f27/bijiben/po/ml.po | 
+ | [eo](/f27/language/eo) | 261 | 309 | 84.5 | /mnt/stockage/packages/f27/bijiben/po/eo.po | 
+ | [ne](/f27/language/ne) | 151 | 310 | 48.7 | /mnt/stockage/packages/f27/bijiben/po/ne.po | 
 {.sortable}
 
 

@@ -18,8 +18,8 @@ The package python-oslo-log (version 3.2.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [es]({{< ref "/f25/language/es.md" >}}) | 75 | 75 | 100.0 | /mnt/stockage/packages/f25/python-oslo-log/oslo_log/locale/es/LC_MESSAGES/oslo_log.po | 
- | [ja]({{< ref "/f25/language/ja.md" >}}) | 75 | 75 | 100.0 | /mnt/stockage/packages/f25/python-oslo-log/oslo_log/locale/ja/LC_MESSAGES/oslo_log.po | 
+ | [es](/f25/language/es) | 75 | 75 | 100.0 | /mnt/stockage/packages/f25/python-oslo-log/oslo_log/locale/es/LC_MESSAGES/oslo_log.po | 
+ | [ja](/f25/language/ja) | 75 | 75 | 100.0 | /mnt/stockage/packages/f25/python-oslo-log/oslo_log/locale/ja/LC_MESSAGES/oslo_log.po | 
 {.sortable}
 
 

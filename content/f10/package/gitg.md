@@ -18,10 +18,10 @@ The package gitg (version 0.0.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [nl]({{< ref "/f10/language/nl.md" >}}) | 344 | 344 | 100.0 | /mnt/stockage/packages/f10/gitg/po/nl.po | 
- | [sv]({{< ref "/f10/language/sv.md" >}}) | 200 | 344 | 58.1 | /mnt/stockage/packages/f10/gitg/po/sv.po | 
- | [gl]({{< ref "/f10/language/gl.md" >}}) | 110 | 344 | 32.0 | /mnt/stockage/packages/f10/gitg/po/gl.po | 
- | [fr]({{< ref "/f10/language/fr.md" >}}) | 109 | 344 | 31.7 | /mnt/stockage/packages/f10/gitg/po/fr.po | 
+ | [nl](/f10/language/nl) | 344 | 344 | 100.0 | /mnt/stockage/packages/f10/gitg/po/nl.po | 
+ | [sv](/f10/language/sv) | 200 | 344 | 58.1 | /mnt/stockage/packages/f10/gitg/po/sv.po | 
+ | [gl](/f10/language/gl) | 110 | 344 | 32.0 | /mnt/stockage/packages/f10/gitg/po/gl.po | 
+ | [fr](/f10/language/fr) | 109 | 344 | 31.7 | /mnt/stockage/packages/f10/gitg/po/fr.po | 
 {.sortable}
 
 

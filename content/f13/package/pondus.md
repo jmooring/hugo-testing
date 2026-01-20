@@ -18,14 +18,14 @@ The package pondus (version 0.7.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [bg]({{< ref "/f13/language/bg.md" >}}) | 321 | 321 | 100.0 | /mnt/stockage/packages/f13/pondus/po/bg.po | 
- | [de]({{< ref "/f13/language/de.md" >}}) | 321 | 321 | 100.0 | /mnt/stockage/packages/f13/pondus/po/de.po | 
- | [es]({{< ref "/f13/language/es.md" >}}) | 321 | 321 | 100.0 | /mnt/stockage/packages/f13/pondus/po/es.po | 
- | [it]({{< ref "/f13/language/it.md" >}}) | 321 | 321 | 100.0 | /mnt/stockage/packages/f13/pondus/po/it.po | 
- | [sv]({{< ref "/f13/language/sv.md" >}}) | 321 | 321 | 100.0 | /mnt/stockage/packages/f13/pondus/po/sv.po | 
- | [fr]({{< ref "/f13/language/fr.md" >}}) | 296 | 321 | 92.2 | /mnt/stockage/packages/f13/pondus/po/fr.po | 
- | [pl]({{< ref "/f13/language/pl.md" >}}) | 245 | 321 | 76.3 | /mnt/stockage/packages/f13/pondus/po/pl.po | 
- | [eo]({{< ref "/f13/language/eo.md" >}}) | 189 | 321 | 58.9 | /mnt/stockage/packages/f13/pondus/po/eo.po | 
+ | [bg](/f13/language/bg) | 321 | 321 | 100.0 | /mnt/stockage/packages/f13/pondus/po/bg.po | 
+ | [de](/f13/language/de) | 321 | 321 | 100.0 | /mnt/stockage/packages/f13/pondus/po/de.po | 
+ | [es](/f13/language/es) | 321 | 321 | 100.0 | /mnt/stockage/packages/f13/pondus/po/es.po | 
+ | [it](/f13/language/it) | 321 | 321 | 100.0 | /mnt/stockage/packages/f13/pondus/po/it.po | 
+ | [sv](/f13/language/sv) | 321 | 321 | 100.0 | /mnt/stockage/packages/f13/pondus/po/sv.po | 
+ | [fr](/f13/language/fr) | 296 | 321 | 92.2 | /mnt/stockage/packages/f13/pondus/po/fr.po | 
+ | [pl](/f13/language/pl) | 245 | 321 | 76.3 | /mnt/stockage/packages/f13/pondus/po/pl.po | 
+ | [eo](/f13/language/eo) | 189 | 321 | 58.9 | /mnt/stockage/packages/f13/pondus/po/eo.po | 
 {.sortable}
 
 

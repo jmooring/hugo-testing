@@ -38,15 +38,15 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [libgweather]({{< ref "/f26/package/libgweather.md" >}}) | 447 | 460 | 97.2 | Spanish <traductores@es.gnome.org> | 
- | [libmateweather]({{< ref "/f26/package/libmateweather.md" >}}) | 374 | 499 | 74.9 | Spanish (Puerto Rico) (http://www.transifex.com/mate/MATE/language/es_PR/) | 
- | [mate-applets]({{< ref "/f26/package/mate-applets.md" >}}) | 1601 | 2618 | 61.2 | Spanish (Puerto Rico) (http://www.transifex.com/mate/MATE/language/es_PR/) | 
- | [mate-user-guide]({{< ref "/f26/package/mate-user-guide.md" >}}) | 1 | 5 | 20.0 | Spanish (Puerto Rico) (http://www.transifex.com/mate/MATE/language/es_PR/) | 
- | [mate-menu]({{< ref "/f26/package/mate-menu.md" >}}) | 12 | 300 | 4.0 | Spanish (Puerto Rico) (http://www.transifex.com/mate/MATE/language/es_PR/) | 
- | [mate-media]({{< ref "/f26/package/mate-media.md" >}}) | 8 | 226 | 3.5 | Spanish (Puerto Rico) (http://www.transifex.com/mate/MATE/language/es_PR/) | 
- | [mate-panel]({{< ref "/f26/package/mate-panel.md" >}}) | 26 | 4353 | 0.6 | Spanish (Puerto Rico) (http://www.transifex.com/mate/MATE/language/es_PR/) | 
- | [calamares]({{< ref "/f26/package/calamares.md" >}}) | 0 | 55 | 0.0 | Spanish (Puerto Rico) (https://www.transifex.com/calamares/teams/20061/es_PR/) | 
- | [libmatekbd]({{< ref "/f26/package/libmatekbd.md" >}}) | 0 | 251 | 0.0 | Spanish (Puerto Rico) (http://www.transifex.com/mate/MATE/language/es_PR/) | 
+ | [libgweather](/f26/package/libgweather) | 447 | 460 | 97.2 | Spanish <traductores@es.gnome.org> | 
+ | [libmateweather](/f26/package/libmateweather) | 374 | 499 | 74.9 | Spanish (Puerto Rico) (http://www.transifex.com/mate/MATE/language/es_PR/) | 
+ | [mate-applets](/f26/package/mate-applets) | 1601 | 2618 | 61.2 | Spanish (Puerto Rico) (http://www.transifex.com/mate/MATE/language/es_PR/) | 
+ | [mate-user-guide](/f26/package/mate-user-guide) | 1 | 5 | 20.0 | Spanish (Puerto Rico) (http://www.transifex.com/mate/MATE/language/es_PR/) | 
+ | [mate-menu](/f26/package/mate-menu) | 12 | 300 | 4.0 | Spanish (Puerto Rico) (http://www.transifex.com/mate/MATE/language/es_PR/) | 
+ | [mate-media](/f26/package/mate-media) | 8 | 226 | 3.5 | Spanish (Puerto Rico) (http://www.transifex.com/mate/MATE/language/es_PR/) | 
+ | [mate-panel](/f26/package/mate-panel) | 26 | 4353 | 0.6 | Spanish (Puerto Rico) (http://www.transifex.com/mate/MATE/language/es_PR/) | 
+ | [calamares](/f26/package/calamares) | 0 | 55 | 0.0 | Spanish (Puerto Rico) (https://www.transifex.com/calamares/teams/20061/es_PR/) | 
+ | [libmatekbd](/f26/package/libmatekbd) | 0 | 251 | 0.0 | Spanish (Puerto Rico) (http://www.transifex.com/mate/MATE/language/es_PR/) | 
 {.sortable}
 
 

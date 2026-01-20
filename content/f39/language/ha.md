@@ -42,107 +42,107 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [blender]({{< ref "/f39/package/blender.md" >}}) | 91 | 91 | 100.0 | BlenderNigeria <pyc0der@outlook.com> | 
- | [gnome-shell-frippery]({{< ref "/f39/package/gnome-shell-frippery.md" >}}) | 16 | 16 | 100.0 |  | 
- | [gnome-menus]({{< ref "/f39/package/gnome-menus.md" >}}) | 116 | 157 | 73.9 | <en@li.org> | 
- | [gnome-panel]({{< ref "/f39/package/gnome-panel.md" >}}) | 2057 | 3520 | 58.4 | hausa | 
- | [magpie]({{< ref "/f39/package/magpie.md" >}}) | 2219 | 3808 | 58.3 | hausa | 
- | [metacity]({{< ref "/f39/package/metacity.md" >}}) | 2219 | 3808 | 58.3 | hausa | 
- | [muffin]({{< ref "/f39/package/muffin.md" >}}) | 2219 | 3808 | 58.3 | hausa | 
- | [mutter]({{< ref "/f39/package/mutter.md" >}}) | 2219 | 3808 | 58.3 | hausa | 
- | [gnome-desktop3]({{< ref "/f39/package/gnome-desktop3.md" >}}) | 203 | 349 | 58.2 | hausa | 
- | [mate-menus]({{< ref "/f39/package/mate-menus.md" >}}) | 59 | 103 | 57.3 | Hausa (https://app.transifex.com/mate/teams/13566/ha/) | 
- | [nautilus]({{< ref "/f39/package/nautilus.md" >}}) | 3745 | 8144 | 46.0 | hausa | 
- | [marco]({{< ref "/f39/package/marco.md" >}}) | 1847 | 4303 | 42.9 | Hausa (https://app.transifex.com/mate/teams/13566/ha/) | 
- | [mate-panel]({{< ref "/f39/package/mate-panel.md" >}}) | 2657 | 6720 | 39.5 | Hausa (https://app.transifex.com/mate/teams/13566/ha/) | 
- | [caja]({{< ref "/f39/package/caja.md" >}}) | 2996 | 9675 | 31.0 | Hausa (https://app.transifex.com/mate/teams/13566/ha/) | 
- | [mate-icon-theme]({{< ref "/f39/package/mate-icon-theme.md" >}}) | 1 | 4 | 25.0 | Hausa (https://www.transifex.com/mate/teams/13566/ha/) | 
- | [sugar-toolkit-gtk3]({{< ref "/f39/package/sugar-toolkit-gtk3.md" >}}) | 50 | 213 | 23.5 | LANGUAGE <LL@li.org> | 
- | [mozo]({{< ref "/f39/package/mozo.md" >}}) | 10 | 46 | 21.7 | Hausa (https://www.transifex.com/mate/teams/13566/ha/) | 
- | [budgie-session]({{< ref "/f39/package/budgie-session.md" >}}) | 117 | 722 | 16.2 | hausa | 
- | [gnome-session]({{< ref "/f39/package/gnome-session.md" >}}) | 117 | 722 | 16.2 | hausa | 
- | [iso-codes]({{< ref "/f39/package/iso-codes.md" >}}) | 139 | 989 | 14.1 | Hausa <https://hosted.weblate.org/projects/iso-codes/iso-3166-1/ha/> | 
- | [mate-session-manager]({{< ref "/f39/package/mate-session-manager.md" >}}) | 56 | 715 | 7.8 | Hausa (https://app.transifex.com/mate/teams/13566/ha/) | 
- | [kf5-kross]({{< ref "/f39/package/kf5-kross.md" >}}) | 6 | 100 | 6.0 | Hausa <kde-i18n-doc@lists.kde.org> | 
- | [mate-menu]({{< ref "/f39/package/mate-menu.md" >}}) | 15 | 308 | 4.9 | Hausa (http://www.transifex.com/mate/MATE/language/ha/) | 
- | [kf5-kconfigwidgets]({{< ref "/f39/package/kf5-kconfigwidgets.md" >}}) | 12 | 342 | 3.5 | Hausa <kde-i18n-doc@lists.kde.org> | 
- | [sugar-terminal]({{< ref "/f39/package/sugar-terminal.md" >}}) | 4 | 121 | 3.3 | LANGUAGE <LL@li.org> | 
- | [mate-notification-daemon]({{< ref "/f39/package/mate-notification-daemon.md" >}}) | 6 | 186 | 3.2 | Hausa (https://app.transifex.com/mate/teams/13566/ha/) | 
- | [kf5-kparts]({{< ref "/f39/package/kf5-kparts.md" >}}) | 4 | 138 | 2.9 | Hausa <kde-i18n-doc@lists.kde.org> | 
- | [kf5-kdeclarative]({{< ref "/f39/package/kf5-kdeclarative.md" >}}) | 4 | 161 | 2.5 | Hausa <kde-i18n-doc@lists.kde.org> | 
- | [kf5-kservice]({{< ref "/f39/package/kf5-kservice.md" >}}) | 4 | 173 | 2.3 | Hausa <kde-i18n-doc@lists.kde.org> | 
- | [engrampa]({{< ref "/f39/package/engrampa.md" >}}) | 45 | 2049 | 2.2 | Hausa (https://app.transifex.com/mate/teams/13566/ha/) | 
- | [mate-media]({{< ref "/f39/package/mate-media.md" >}}) | 5 | 239 | 2.1 | Hausa (https://app.transifex.com/mate/teams/13566/ha/) | 
- | [kf5-kcmutils]({{< ref "/f39/package/kf5-kcmutils.md" >}}) | 5 | 266 | 1.9 | Hausa <kde-i18n-doc@lists.kde.org> | 
- | [eom]({{< ref "/f39/package/eom.md" >}}) | 32 | 1779 | 1.8 | Hausa (https://app.transifex.com/mate/teams/13566/ha/) | 
- | [libmatekbd]({{< ref "/f39/package/libmatekbd.md" >}}) | 5 | 308 | 1.6 | Hausa (https://app.transifex.com/mate/teams/13566/ha/) | 
- | [kf5-knotifyconfig]({{< ref "/f39/package/kf5-knotifyconfig.md" >}}) | 2 | 129 | 1.6 | Hausa <kde-i18n-doc@lists.kde.org> | 
- | [mate-utils]({{< ref "/f39/package/mate-utils.md" >}}) | 124 | 10060 | 1.2 | Hausa (https://app.transifex.com/mate/teams/13566/ha/) | 
- | [kf5-kxmlgui]({{< ref "/f39/package/kf5-kxmlgui.md" >}}) | 17 | 1574 | 1.1 | Hausa <kde-i18n-doc@lists.kde.org> | 
- | [isomaster]({{< ref "/f39/package/isomaster.md" >}}) | 7 | 674 | 1.0 | http://littlesvr.ca/ostd/ | 
- | [atril]({{< ref "/f39/package/atril.md" >}}) | 45 | 4365 | 1.0 | Hausa (https://www.transifex.com/mate/teams/13566/ha/) | 
- | [mate-system-monitor]({{< ref "/f39/package/mate-system-monitor.md" >}}) | 16 | 1558 | 1.0 | Hausa (https://app.transifex.com/mate/teams/13566/ha/) | 
- | [pluma]({{< ref "/f39/package/pluma.md" >}}) | 57 | 5707 | 1.0 | Hausa (https://app.transifex.com/mate/teams/13566/ha/) | 
- | [libmateweather]({{< ref "/f39/package/libmateweather.md" >}}) | 3 | 500 | 0.6 | Hausa (https://www.transifex.com/mate/teams/13566/ha/) | 
- | [mate-control-center]({{< ref "/f39/package/mate-control-center.md" >}}) | 48 | 8253 | 0.6 | Hausa (https://app.transifex.com/mate/teams/13566/ha/) | 
- | [cinnamon-translations]({{< ref "/f39/package/cinnamon-translations.md" >}}) | 1 | 187 | 0.5 | hausa | 
- | [mate-user-admin]({{< ref "/f39/package/mate-user-admin.md" >}}) | 3 | 605 | 0.5 | Hausa (https://www.transifex.com/mate/teams/13566/ha/) | 
- | [mate-terminal]({{< ref "/f39/package/mate-terminal.md" >}}) | 36 | 8523 | 0.4 | Hausa (https://www.transifex.com/mate/teams/13566/ha/) | 
- | [kf5-khtml]({{< ref "/f39/package/kf5-khtml.md" >}}) | 7 | 1667 | 0.4 | Hausa <kde-i18n-doc@lists.kde.org> | 
- | [mate-calc]({{< ref "/f39/package/mate-calc.md" >}}) | 12 | 3202 | 0.4 | Hausa (https://www.transifex.com/mate/teams/13566/ha/) | 
- | [mate-applets]({{< ref "/f39/package/mate-applets.md" >}}) | 53 | 15957 | 0.3 | Hausa (https://www.transifex.com/mate/teams/13566/ha/) | 
- | [mate-power-manager]({{< ref "/f39/package/mate-power-manager.md" >}}) | 17 | 5119 | 0.3 | Hausa (https://app.transifex.com/mate/teams/13566/ha/) | 
- | [caja-extensions]({{< ref "/f39/package/caja-extensions.md" >}}) | 2 | 760 | 0.3 | Hausa (https://www.transifex.com/mate/teams/13566/ha/) | 
- | [pluma-plugins]({{< ref "/f39/package/pluma-plugins.md" >}}) | 2 | 774 | 0.3 | Hausa (https://www.transifex.com/mate/teams/13566/ha/) | 
- | [kf5-kdelibs4support]({{< ref "/f39/package/kf5-kdelibs4support.md" >}}) | 10 | 5353 | 0.2 | Hausa <kde-i18n-doc@lists.kde.org> | 
- | [mate-sensors-applet]({{< ref "/f39/package/mate-sensors-applet.md" >}}) | 3 | 2160 | 0.1 | Hausa (https://www.transifex.com/mate/teams/13566/ha/) | 
- | [sugar-turtleart]({{< ref "/f39/package/sugar-turtleart.md" >}}) | 2 | 1459 | 0.1 | LANGUAGE <walter@sugarlabs.org> | 
- | [sugar]({{< ref "/f39/package/sugar.md" >}}) | 2 | 2305 | 0.1 | hausa | 
- | [kf5-knewstuff]({{< ref "/f39/package/kf5-knewstuff.md" >}}) | 1 | 1631 | 0.1 | Hausa <kde-i18n-doc@lists.kde.org> | 
- | [bookworm]({{< ref "/f39/package/bookworm.md" >}}) | 0 | 795 | 0.0 |  | 
- | [cinnamon-desktop]({{< ref "/f39/package/cinnamon-desktop.md" >}}) | 0 | 231 | 0.0 | hausa | 
- | [coin]({{< ref "/f39/package/coin.md" >}}) | 0 | 252 | 0.0 | none | 
- | [dippi]({{< ref "/f39/package/dippi.md" >}}) | 0 | 1540 | 0.0 | none | 
- | [elementary-code]({{< ref "/f39/package/elementary-code.md" >}}) | 0 | 1572 | 0.0 | LANGUAGE <LL@li.org> | 
- | [elementary-files]({{< ref "/f39/package/elementary-files.md" >}}) | 0 | 2538 | 0.0 | LANGUAGE <LL@li.org> | 
- | [elementary-icon-theme]({{< ref "/f39/package/elementary-icon-theme.md" >}}) | 0 | 394 | 0.0 | none | 
- | [elementary-mail]({{< ref "/f39/package/elementary-mail.md" >}}) | 0 | 861 | 0.0 |  | 
- | [elementary-music]({{< ref "/f39/package/elementary-music.md" >}}) | 0 | 207 | 0.0 | LANGUAGE <LL@li.org> | 
- | [elementary-notifications]({{< ref "/f39/package/elementary-notifications.md" >}}) | 0 | 40 | 0.0 | none | 
- | [gala]({{< ref "/f39/package/gala.md" >}}) | 0 | 259 | 0.0 | none | 
- | [granite]({{< ref "/f39/package/granite.md" >}}) | 0 | 498 | 0.0 |  | 
- | [granite-7]({{< ref "/f39/package/granite-7.md" >}}) | 0 | 369 | 0.0 |  | 
- | [harvey]({{< ref "/f39/package/harvey.md" >}}) | 0 | 182 | 0.0 | none | 
- | [kf5-kauth]({{< ref "/f39/package/kf5-kauth.md" >}}) | 0 | 73 | 0.0 | Hausa <kde-i18n-doc@lists.kde.org> | 
- | [kf5-kcodecs]({{< ref "/f39/package/kf5-kcodecs.md" >}}) | 0 | 370 | 0.0 | Hausa <kde-i18n-doc@lists.kde.org> | 
- | [kf5-kcompletion]({{< ref "/f39/package/kf5-kcompletion.md" >}}) | 0 | 18 | 0.0 | Hausa <kde-i18n-doc@lists.kde.org> | 
- | [kf5-kcoreaddons]({{< ref "/f39/package/kf5-kcoreaddons.md" >}}) | 0 | 382 | 0.0 | Hausa <kde-i18n-doc@lists.kde.org> | 
- | [kf5-kdesignerplugin]({{< ref "/f39/package/kf5-kdesignerplugin.md" >}}) | 0 | 54 | 0.0 | Hausa <kde-i18n-doc@lists.kde.org> | 
- | [kf5-kdnssd]({{< ref "/f39/package/kf5-kdnssd.md" >}}) | 0 | 3 | 0.0 | Hausa <kde-i18n-doc@lists.kde.org> | 
- | [kf5-kglobalaccel]({{< ref "/f39/package/kf5-kglobalaccel.md" >}}) | 0 | 71 | 0.0 | Hausa <kde-i18n-doc@lists.kde.org> | 
- | [kf5-ki18n]({{< ref "/f39/package/kf5-ki18n.md" >}}) | 0 | 124 | 0.0 | Hausa <kde-i18n-doc@lists.kde.org> | 
- | [kf5-kinit]({{< ref "/f39/package/kf5-kinit.md" >}}) | 0 | 116 | 0.0 | Hausa <kde-i18n-doc@lists.kde.org> | 
- | [kf5-kitemviews]({{< ref "/f39/package/kf5-kitemviews.md" >}}) | 0 | 7 | 0.0 | Hausa <kde-i18n-doc@lists.kde.org> | 
- | [kf5-kjobwidgets]({{< ref "/f39/package/kf5-kjobwidgets.md" >}}) | 0 | 133 | 0.0 | Hausa <kde-i18n-doc@lists.kde.org> | 
- | [kf5-kjsembed]({{< ref "/f39/package/kf5-kjsembed.md" >}}) | 0 | 248 | 0.0 | Hausa <kde-i18n-doc@lists.kde.org> | 
- | [kf5-knotifications]({{< ref "/f39/package/kf5-knotifications.md" >}}) | 0 | 21 | 0.0 | Hausa <kde-i18n-doc@lists.kde.org> | 
- | [kf5-kpty]({{< ref "/f39/package/kf5-kpty.md" >}}) | 0 | 15 | 0.0 | Hausa <kde-i18n-doc@lists.kde.org> | 
- | [kf5-ktextwidgets]({{< ref "/f39/package/kf5-ktextwidgets.md" >}}) | 0 | 473 | 0.0 | Hausa <kde-i18n-doc@lists.kde.org> | 
- | [kf5-kwidgetsaddons]({{< ref "/f39/package/kf5-kwidgetsaddons.md" >}}) | 0 | 1293 | 0.0 | Hausa <kde-i18n-doc@lists.kde.org> | 
- | [kf5-kwindowsystem]({{< ref "/f39/package/kf5-kwindowsystem.md" >}}) | 0 | 2 | 0.0 | Hausa <kde-i18n-doc@lists.kde.org> | 
- | [kf5-sonnet]({{< ref "/f39/package/kf5-sonnet.md" >}}) | 0 | 683 | 0.0 | Hausa <kde-i18n-doc@lists.kde.org> | 
- | [mate-themes]({{< ref "/f39/package/mate-themes.md" >}}) | 0 | 74 | 0.0 | Hausa (http://app.transifex.com/mate/MATE/language/ha/) | 
- | [nutty]({{< ref "/f39/package/nutty.md" >}}) | 0 | 608 | 0.0 |  | 
- | [optimizer]({{< ref "/f39/package/optimizer.md" >}}) | 0 | 282 | 0.0 | none | 
- | [regextester]({{< ref "/f39/package/regextester.md" >}}) | 0 | 104 | 0.0 | none | 
- | [sugar-calculator]({{< ref "/f39/package/sugar-calculator.md" >}}) | 0 | 866 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-clock]({{< ref "/f39/package/sugar-clock.md" >}}) | 0 | 66 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-implode]({{< ref "/f39/package/sugar-implode.md" >}}) | 0 | 77 | 0.0 | LANGUAGE <LL@li.org> | 
- | [wingpanel]({{< ref "/f39/package/wingpanel.md" >}}) | 0 | 16 | 0.0 | none | 
- | [wingpanel-indicator-a11y]({{< ref "/f39/package/wingpanel-indicator-a11y.md" >}}) | 0 | 55 | 0.0 | none | 
- | [wingpanel-indicator-bluetooth]({{< ref "/f39/package/wingpanel-indicator-bluetooth.md" >}}) | 0 | 283 | 0.0 | none | 
- | [wingpanel-indicator-datetime]({{< ref "/f39/package/wingpanel-indicator-datetime.md" >}}) | 0 | 177 | 0.0 |  | 
- | [wingpanel-indicator-keyboard]({{< ref "/f39/package/wingpanel-indicator-keyboard.md" >}}) | 0 | 63 | 0.0 |  | 
+ | [blender](/f39/package/blender) | 91 | 91 | 100.0 | BlenderNigeria <pyc0der@outlook.com> | 
+ | [gnome-shell-frippery](/f39/package/gnome-shell-frippery) | 16 | 16 | 100.0 |  | 
+ | [gnome-menus](/f39/package/gnome-menus) | 116 | 157 | 73.9 | <en@li.org> | 
+ | [gnome-panel](/f39/package/gnome-panel) | 2057 | 3520 | 58.4 | hausa | 
+ | [magpie](/f39/package/magpie) | 2219 | 3808 | 58.3 | hausa | 
+ | [metacity](/f39/package/metacity) | 2219 | 3808 | 58.3 | hausa | 
+ | [muffin](/f39/package/muffin) | 2219 | 3808 | 58.3 | hausa | 
+ | [mutter](/f39/package/mutter) | 2219 | 3808 | 58.3 | hausa | 
+ | [gnome-desktop3](/f39/package/gnome-desktop3) | 203 | 349 | 58.2 | hausa | 
+ | [mate-menus](/f39/package/mate-menus) | 59 | 103 | 57.3 | Hausa (https://app.transifex.com/mate/teams/13566/ha/) | 
+ | [nautilus](/f39/package/nautilus) | 3745 | 8144 | 46.0 | hausa | 
+ | [marco](/f39/package/marco) | 1847 | 4303 | 42.9 | Hausa (https://app.transifex.com/mate/teams/13566/ha/) | 
+ | [mate-panel](/f39/package/mate-panel) | 2657 | 6720 | 39.5 | Hausa (https://app.transifex.com/mate/teams/13566/ha/) | 
+ | [caja](/f39/package/caja) | 2996 | 9675 | 31.0 | Hausa (https://app.transifex.com/mate/teams/13566/ha/) | 
+ | [mate-icon-theme](/f39/package/mate-icon-theme) | 1 | 4 | 25.0 | Hausa (https://www.transifex.com/mate/teams/13566/ha/) | 
+ | [sugar-toolkit-gtk3](/f39/package/sugar-toolkit-gtk3) | 50 | 213 | 23.5 | LANGUAGE <LL@li.org> | 
+ | [mozo](/f39/package/mozo) | 10 | 46 | 21.7 | Hausa (https://www.transifex.com/mate/teams/13566/ha/) | 
+ | [budgie-session](/f39/package/budgie-session) | 117 | 722 | 16.2 | hausa | 
+ | [gnome-session](/f39/package/gnome-session) | 117 | 722 | 16.2 | hausa | 
+ | [iso-codes](/f39/package/iso-codes) | 139 | 989 | 14.1 | Hausa <https://hosted.weblate.org/projects/iso-codes/iso-3166-1/ha/> | 
+ | [mate-session-manager](/f39/package/mate-session-manager) | 56 | 715 | 7.8 | Hausa (https://app.transifex.com/mate/teams/13566/ha/) | 
+ | [kf5-kross](/f39/package/kf5-kross) | 6 | 100 | 6.0 | Hausa <kde-i18n-doc@lists.kde.org> | 
+ | [mate-menu](/f39/package/mate-menu) | 15 | 308 | 4.9 | Hausa (http://www.transifex.com/mate/MATE/language/ha/) | 
+ | [kf5-kconfigwidgets](/f39/package/kf5-kconfigwidgets) | 12 | 342 | 3.5 | Hausa <kde-i18n-doc@lists.kde.org> | 
+ | [sugar-terminal](/f39/package/sugar-terminal) | 4 | 121 | 3.3 | LANGUAGE <LL@li.org> | 
+ | [mate-notification-daemon](/f39/package/mate-notification-daemon) | 6 | 186 | 3.2 | Hausa (https://app.transifex.com/mate/teams/13566/ha/) | 
+ | [kf5-kparts](/f39/package/kf5-kparts) | 4 | 138 | 2.9 | Hausa <kde-i18n-doc@lists.kde.org> | 
+ | [kf5-kdeclarative](/f39/package/kf5-kdeclarative) | 4 | 161 | 2.5 | Hausa <kde-i18n-doc@lists.kde.org> | 
+ | [kf5-kservice](/f39/package/kf5-kservice) | 4 | 173 | 2.3 | Hausa <kde-i18n-doc@lists.kde.org> | 
+ | [engrampa](/f39/package/engrampa) | 45 | 2049 | 2.2 | Hausa (https://app.transifex.com/mate/teams/13566/ha/) | 
+ | [mate-media](/f39/package/mate-media) | 5 | 239 | 2.1 | Hausa (https://app.transifex.com/mate/teams/13566/ha/) | 
+ | [kf5-kcmutils](/f39/package/kf5-kcmutils) | 5 | 266 | 1.9 | Hausa <kde-i18n-doc@lists.kde.org> | 
+ | [eom](/f39/package/eom) | 32 | 1779 | 1.8 | Hausa (https://app.transifex.com/mate/teams/13566/ha/) | 
+ | [libmatekbd](/f39/package/libmatekbd) | 5 | 308 | 1.6 | Hausa (https://app.transifex.com/mate/teams/13566/ha/) | 
+ | [kf5-knotifyconfig](/f39/package/kf5-knotifyconfig) | 2 | 129 | 1.6 | Hausa <kde-i18n-doc@lists.kde.org> | 
+ | [mate-utils](/f39/package/mate-utils) | 124 | 10060 | 1.2 | Hausa (https://app.transifex.com/mate/teams/13566/ha/) | 
+ | [kf5-kxmlgui](/f39/package/kf5-kxmlgui) | 17 | 1574 | 1.1 | Hausa <kde-i18n-doc@lists.kde.org> | 
+ | [isomaster](/f39/package/isomaster) | 7 | 674 | 1.0 | http://littlesvr.ca/ostd/ | 
+ | [atril](/f39/package/atril) | 45 | 4365 | 1.0 | Hausa (https://www.transifex.com/mate/teams/13566/ha/) | 
+ | [mate-system-monitor](/f39/package/mate-system-monitor) | 16 | 1558 | 1.0 | Hausa (https://app.transifex.com/mate/teams/13566/ha/) | 
+ | [pluma](/f39/package/pluma) | 57 | 5707 | 1.0 | Hausa (https://app.transifex.com/mate/teams/13566/ha/) | 
+ | [libmateweather](/f39/package/libmateweather) | 3 | 500 | 0.6 | Hausa (https://www.transifex.com/mate/teams/13566/ha/) | 
+ | [mate-control-center](/f39/package/mate-control-center) | 48 | 8253 | 0.6 | Hausa (https://app.transifex.com/mate/teams/13566/ha/) | 
+ | [cinnamon-translations](/f39/package/cinnamon-translations) | 1 | 187 | 0.5 | hausa | 
+ | [mate-user-admin](/f39/package/mate-user-admin) | 3 | 605 | 0.5 | Hausa (https://www.transifex.com/mate/teams/13566/ha/) | 
+ | [mate-terminal](/f39/package/mate-terminal) | 36 | 8523 | 0.4 | Hausa (https://www.transifex.com/mate/teams/13566/ha/) | 
+ | [kf5-khtml](/f39/package/kf5-khtml) | 7 | 1667 | 0.4 | Hausa <kde-i18n-doc@lists.kde.org> | 
+ | [mate-calc](/f39/package/mate-calc) | 12 | 3202 | 0.4 | Hausa (https://www.transifex.com/mate/teams/13566/ha/) | 
+ | [mate-applets](/f39/package/mate-applets) | 53 | 15957 | 0.3 | Hausa (https://www.transifex.com/mate/teams/13566/ha/) | 
+ | [mate-power-manager](/f39/package/mate-power-manager) | 17 | 5119 | 0.3 | Hausa (https://app.transifex.com/mate/teams/13566/ha/) | 
+ | [caja-extensions](/f39/package/caja-extensions) | 2 | 760 | 0.3 | Hausa (https://www.transifex.com/mate/teams/13566/ha/) | 
+ | [pluma-plugins](/f39/package/pluma-plugins) | 2 | 774 | 0.3 | Hausa (https://www.transifex.com/mate/teams/13566/ha/) | 
+ | [kf5-kdelibs4support](/f39/package/kf5-kdelibs4support) | 10 | 5353 | 0.2 | Hausa <kde-i18n-doc@lists.kde.org> | 
+ | [mate-sensors-applet](/f39/package/mate-sensors-applet) | 3 | 2160 | 0.1 | Hausa (https://www.transifex.com/mate/teams/13566/ha/) | 
+ | [sugar-turtleart](/f39/package/sugar-turtleart) | 2 | 1459 | 0.1 | LANGUAGE <walter@sugarlabs.org> | 
+ | [sugar](/f39/package/sugar) | 2 | 2305 | 0.1 | hausa | 
+ | [kf5-knewstuff](/f39/package/kf5-knewstuff) | 1 | 1631 | 0.1 | Hausa <kde-i18n-doc@lists.kde.org> | 
+ | [bookworm](/f39/package/bookworm) | 0 | 795 | 0.0 |  | 
+ | [cinnamon-desktop](/f39/package/cinnamon-desktop) | 0 | 231 | 0.0 | hausa | 
+ | [coin](/f39/package/coin) | 0 | 252 | 0.0 | none | 
+ | [dippi](/f39/package/dippi) | 0 | 1540 | 0.0 | none | 
+ | [elementary-code](/f39/package/elementary-code) | 0 | 1572 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [elementary-files](/f39/package/elementary-files) | 0 | 2538 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [elementary-icon-theme](/f39/package/elementary-icon-theme) | 0 | 394 | 0.0 | none | 
+ | [elementary-mail](/f39/package/elementary-mail) | 0 | 861 | 0.0 |  | 
+ | [elementary-music](/f39/package/elementary-music) | 0 | 207 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [elementary-notifications](/f39/package/elementary-notifications) | 0 | 40 | 0.0 | none | 
+ | [gala](/f39/package/gala) | 0 | 259 | 0.0 | none | 
+ | [granite](/f39/package/granite) | 0 | 498 | 0.0 |  | 
+ | [granite-7](/f39/package/granite-7) | 0 | 369 | 0.0 |  | 
+ | [harvey](/f39/package/harvey) | 0 | 182 | 0.0 | none | 
+ | [kf5-kauth](/f39/package/kf5-kauth) | 0 | 73 | 0.0 | Hausa <kde-i18n-doc@lists.kde.org> | 
+ | [kf5-kcodecs](/f39/package/kf5-kcodecs) | 0 | 370 | 0.0 | Hausa <kde-i18n-doc@lists.kde.org> | 
+ | [kf5-kcompletion](/f39/package/kf5-kcompletion) | 0 | 18 | 0.0 | Hausa <kde-i18n-doc@lists.kde.org> | 
+ | [kf5-kcoreaddons](/f39/package/kf5-kcoreaddons) | 0 | 382 | 0.0 | Hausa <kde-i18n-doc@lists.kde.org> | 
+ | [kf5-kdesignerplugin](/f39/package/kf5-kdesignerplugin) | 0 | 54 | 0.0 | Hausa <kde-i18n-doc@lists.kde.org> | 
+ | [kf5-kdnssd](/f39/package/kf5-kdnssd) | 0 | 3 | 0.0 | Hausa <kde-i18n-doc@lists.kde.org> | 
+ | [kf5-kglobalaccel](/f39/package/kf5-kglobalaccel) | 0 | 71 | 0.0 | Hausa <kde-i18n-doc@lists.kde.org> | 
+ | [kf5-ki18n](/f39/package/kf5-ki18n) | 0 | 124 | 0.0 | Hausa <kde-i18n-doc@lists.kde.org> | 
+ | [kf5-kinit](/f39/package/kf5-kinit) | 0 | 116 | 0.0 | Hausa <kde-i18n-doc@lists.kde.org> | 
+ | [kf5-kitemviews](/f39/package/kf5-kitemviews) | 0 | 7 | 0.0 | Hausa <kde-i18n-doc@lists.kde.org> | 
+ | [kf5-kjobwidgets](/f39/package/kf5-kjobwidgets) | 0 | 133 | 0.0 | Hausa <kde-i18n-doc@lists.kde.org> | 
+ | [kf5-kjsembed](/f39/package/kf5-kjsembed) | 0 | 248 | 0.0 | Hausa <kde-i18n-doc@lists.kde.org> | 
+ | [kf5-knotifications](/f39/package/kf5-knotifications) | 0 | 21 | 0.0 | Hausa <kde-i18n-doc@lists.kde.org> | 
+ | [kf5-kpty](/f39/package/kf5-kpty) | 0 | 15 | 0.0 | Hausa <kde-i18n-doc@lists.kde.org> | 
+ | [kf5-ktextwidgets](/f39/package/kf5-ktextwidgets) | 0 | 473 | 0.0 | Hausa <kde-i18n-doc@lists.kde.org> | 
+ | [kf5-kwidgetsaddons](/f39/package/kf5-kwidgetsaddons) | 0 | 1293 | 0.0 | Hausa <kde-i18n-doc@lists.kde.org> | 
+ | [kf5-kwindowsystem](/f39/package/kf5-kwindowsystem) | 0 | 2 | 0.0 | Hausa <kde-i18n-doc@lists.kde.org> | 
+ | [kf5-sonnet](/f39/package/kf5-sonnet) | 0 | 683 | 0.0 | Hausa <kde-i18n-doc@lists.kde.org> | 
+ | [mate-themes](/f39/package/mate-themes) | 0 | 74 | 0.0 | Hausa (http://app.transifex.com/mate/MATE/language/ha/) | 
+ | [nutty](/f39/package/nutty) | 0 | 608 | 0.0 |  | 
+ | [optimizer](/f39/package/optimizer) | 0 | 282 | 0.0 | none | 
+ | [regextester](/f39/package/regextester) | 0 | 104 | 0.0 | none | 
+ | [sugar-calculator](/f39/package/sugar-calculator) | 0 | 866 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-clock](/f39/package/sugar-clock) | 0 | 66 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-implode](/f39/package/sugar-implode) | 0 | 77 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [wingpanel](/f39/package/wingpanel) | 0 | 16 | 0.0 | none | 
+ | [wingpanel-indicator-a11y](/f39/package/wingpanel-indicator-a11y) | 0 | 55 | 0.0 | none | 
+ | [wingpanel-indicator-bluetooth](/f39/package/wingpanel-indicator-bluetooth) | 0 | 283 | 0.0 | none | 
+ | [wingpanel-indicator-datetime](/f39/package/wingpanel-indicator-datetime) | 0 | 177 | 0.0 |  | 
+ | [wingpanel-indicator-keyboard](/f39/package/wingpanel-indicator-keyboard) | 0 | 63 | 0.0 |  | 
 {.sortable}
 
 

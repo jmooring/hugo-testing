@@ -18,74 +18,74 @@ The package gnome-doc-utils (version 0.14.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f10/language/ar.md" >}}) | 238 | 238 | 100.0 | /mnt/stockage/packages/f10/gnome-doc-utils/po/ar.po | 
- | [be_Latn]({{< ref "/f10/language/be_Latn.md" >}}) | 238 | 238 | 100.0 | /mnt/stockage/packages/f10/gnome-doc-utils/po/be@latin.po | 
- | [bg]({{< ref "/f10/language/bg.md" >}}) | 238 | 238 | 100.0 | /mnt/stockage/packages/f10/gnome-doc-utils/po/bg.po | 
- | [bn]({{< ref "/f10/language/bn.md" >}}) | 213 | 213 | 100.0 | /mnt/stockage/packages/f10/gnome-doc-utils/po/bn.po | 
- | [bn_IN]({{< ref "/f10/language/bn_IN.md" >}}) | 238 | 238 | 100.0 | /mnt/stockage/packages/f10/gnome-doc-utils/po/bn_IN.po | 
- | [ca]({{< ref "/f10/language/ca.md" >}}) | 238 | 238 | 100.0 | /mnt/stockage/packages/f10/gnome-doc-utils/po/ca.po | 
- | [cs]({{< ref "/f10/language/cs.md" >}}) | 238 | 238 | 100.0 | /mnt/stockage/packages/f10/gnome-doc-utils/po/cs.po | 
- | [cy]({{< ref "/f10/language/cy.md" >}}) | 213 | 213 | 100.0 | /mnt/stockage/packages/f10/gnome-doc-utils/po/cy.po | 
- | [da]({{< ref "/f10/language/da.md" >}}) | 238 | 238 | 100.0 | /mnt/stockage/packages/f10/gnome-doc-utils/po/da.po | 
- | [de]({{< ref "/f10/language/de.md" >}}) | 238 | 238 | 100.0 | /mnt/stockage/packages/f10/gnome-doc-utils/po/de.po | 
- | [dz]({{< ref "/f10/language/dz.md" >}}) | 238 | 238 | 100.0 | /mnt/stockage/packages/f10/gnome-doc-utils/po/dz.po | 
- | [el]({{< ref "/f10/language/el.md" >}}) | 238 | 238 | 100.0 | /mnt/stockage/packages/f10/gnome-doc-utils/po/el.po | 
- | [en_CA]({{< ref "/f10/language/en_CA.md" >}}) | 238 | 238 | 100.0 | /mnt/stockage/packages/f10/gnome-doc-utils/po/en_CA.po | 
- | [en_GB]({{< ref "/f10/language/en_GB.md" >}}) | 238 | 238 | 100.0 | /mnt/stockage/packages/f10/gnome-doc-utils/po/en_GB.po | 
- | [es]({{< ref "/f10/language/es.md" >}}) | 238 | 238 | 100.0 | /mnt/stockage/packages/f10/gnome-doc-utils/po/es.po | 
- | [et]({{< ref "/f10/language/et.md" >}}) | 238 | 238 | 100.0 | /mnt/stockage/packages/f10/gnome-doc-utils/po/et.po | 
- | [eu]({{< ref "/f10/language/eu.md" >}}) | 238 | 238 | 100.0 | /mnt/stockage/packages/f10/gnome-doc-utils/po/eu.po | 
- | [fa]({{< ref "/f10/language/fa.md" >}}) | 238 | 238 | 100.0 | /mnt/stockage/packages/f10/gnome-doc-utils/po/fa.po | 
- | [fi]({{< ref "/f10/language/fi.md" >}}) | 238 | 238 | 100.0 | /mnt/stockage/packages/f10/gnome-doc-utils/po/fi.po | 
- | [fr]({{< ref "/f10/language/fr.md" >}}) | 238 | 238 | 100.0 | /mnt/stockage/packages/f10/gnome-doc-utils/po/fr.po | 
- | [gl]({{< ref "/f10/language/gl.md" >}}) | 238 | 238 | 100.0 | /mnt/stockage/packages/f10/gnome-doc-utils/po/gl.po | 
- | [gu]({{< ref "/f10/language/gu.md" >}}) | 238 | 238 | 100.0 | /mnt/stockage/packages/f10/gnome-doc-utils/po/gu.po | 
- | [hi]({{< ref "/f10/language/hi.md" >}}) | 213 | 213 | 100.0 | /mnt/stockage/packages/f10/gnome-doc-utils/po/hi.po | 
- | [hu]({{< ref "/f10/language/hu.md" >}}) | 238 | 238 | 100.0 | /mnt/stockage/packages/f10/gnome-doc-utils/po/hu.po | 
- | [it]({{< ref "/f10/language/it.md" >}}) | 238 | 238 | 100.0 | /mnt/stockage/packages/f10/gnome-doc-utils/po/it.po | 
- | [ja]({{< ref "/f10/language/ja.md" >}}) | 238 | 238 | 100.0 | /mnt/stockage/packages/f10/gnome-doc-utils/po/ja.po | 
- | [ka]({{< ref "/f10/language/ka.md" >}}) | 213 | 213 | 100.0 | /mnt/stockage/packages/f10/gnome-doc-utils/po/ka.po | 
- | [kn]({{< ref "/f10/language/kn.md" >}}) | 238 | 238 | 100.0 | /mnt/stockage/packages/f10/gnome-doc-utils/po/kn.po | 
- | [ko]({{< ref "/f10/language/ko.md" >}}) | 238 | 238 | 100.0 | /mnt/stockage/packages/f10/gnome-doc-utils/po/ko.po | 
- | [lt]({{< ref "/f10/language/lt.md" >}}) | 238 | 238 | 100.0 | /mnt/stockage/packages/f10/gnome-doc-utils/po/lt.po | 
- | [lv]({{< ref "/f10/language/lv.md" >}}) | 213 | 213 | 100.0 | /mnt/stockage/packages/f10/gnome-doc-utils/po/lv.po | 
- | [mg]({{< ref "/f10/language/mg.md" >}}) | 213 | 213 | 100.0 | /mnt/stockage/packages/f10/gnome-doc-utils/po/mg.po | 
- | [mk]({{< ref "/f10/language/mk.md" >}}) | 238 | 238 | 100.0 | /mnt/stockage/packages/f10/gnome-doc-utils/po/mk.po | 
- | [ml]({{< ref "/f10/language/ml.md" >}}) | 213 | 213 | 100.0 | /mnt/stockage/packages/f10/gnome-doc-utils/po/ml.po | 
- | [mn]({{< ref "/f10/language/mn.md" >}}) | 213 | 213 | 100.0 | /mnt/stockage/packages/f10/gnome-doc-utils/po/mn.po | 
- | [mr]({{< ref "/f10/language/mr.md" >}}) | 238 | 238 | 100.0 | /mnt/stockage/packages/f10/gnome-doc-utils/po/mr.po | 
- | [nb_NO]({{< ref "/f10/language/nb_NO.md" >}}) | 238 | 238 | 100.0 | /mnt/stockage/packages/f10/gnome-doc-utils/po/nb.po | 
- | [ne]({{< ref "/f10/language/ne.md" >}}) | 238 | 238 | 100.0 | /mnt/stockage/packages/f10/gnome-doc-utils/po/ne.po | 
- | [nl]({{< ref "/f10/language/nl.md" >}}) | 238 | 238 | 100.0 | /mnt/stockage/packages/f10/gnome-doc-utils/po/nl.po | 
- | [nn]({{< ref "/f10/language/nn.md" >}}) | 238 | 238 | 100.0 | /mnt/stockage/packages/f10/gnome-doc-utils/po/nn.po | 
- | [or]({{< ref "/f10/language/or.md" >}}) | 238 | 238 | 100.0 | /mnt/stockage/packages/f10/gnome-doc-utils/po/or.po | 
- | [pa]({{< ref "/f10/language/pa.md" >}}) | 213 | 213 | 100.0 | /mnt/stockage/packages/f10/gnome-doc-utils/po/pa.po | 
- | [pl]({{< ref "/f10/language/pl.md" >}}) | 238 | 238 | 100.0 | /mnt/stockage/packages/f10/gnome-doc-utils/po/pl.po | 
- | [pt]({{< ref "/f10/language/pt.md" >}}) | 238 | 238 | 100.0 | /mnt/stockage/packages/f10/gnome-doc-utils/po/pt.po | 
- | [pt_BR]({{< ref "/f10/language/pt_BR.md" >}}) | 238 | 238 | 100.0 | /mnt/stockage/packages/f10/gnome-doc-utils/po/pt_BR.po | 
- | [ro]({{< ref "/f10/language/ro.md" >}}) | 213 | 213 | 100.0 | /mnt/stockage/packages/f10/gnome-doc-utils/po/ro.po | 
- | [ru]({{< ref "/f10/language/ru.md" >}}) | 238 | 238 | 100.0 | /mnt/stockage/packages/f10/gnome-doc-utils/po/ru.po | 
- | [sl]({{< ref "/f10/language/sl.md" >}}) | 238 | 238 | 100.0 | /mnt/stockage/packages/f10/gnome-doc-utils/po/sl.po | 
- | [sq]({{< ref "/f10/language/sq.md" >}}) | 238 | 238 | 100.0 | /mnt/stockage/packages/f10/gnome-doc-utils/po/sq.po | 
- | [sr]({{< ref "/f10/language/sr.md" >}}) | 238 | 238 | 100.0 | /mnt/stockage/packages/f10/gnome-doc-utils/po/sr.po | 
- | [sr_Latn]({{< ref "/f10/language/sr_Latn.md" >}}) | 238 | 238 | 100.0 | /mnt/stockage/packages/f10/gnome-doc-utils/po/sr@latin.po | 
- | [sv]({{< ref "/f10/language/sv.md" >}}) | 238 | 238 | 100.0 | /mnt/stockage/packages/f10/gnome-doc-utils/po/sv.po | 
- | [ta]({{< ref "/f10/language/ta.md" >}}) | 238 | 238 | 100.0 | /mnt/stockage/packages/f10/gnome-doc-utils/po/ta.po | 
- | [te]({{< ref "/f10/language/te.md" >}}) | 238 | 238 | 100.0 | /mnt/stockage/packages/f10/gnome-doc-utils/po/te.po | 
- | [th]({{< ref "/f10/language/th.md" >}}) | 238 | 238 | 100.0 | /mnt/stockage/packages/f10/gnome-doc-utils/po/th.po | 
- | [tr]({{< ref "/f10/language/tr.md" >}}) | 238 | 238 | 100.0 | /mnt/stockage/packages/f10/gnome-doc-utils/po/tr.po | 
- | [ug]({{< ref "/f10/language/ug.md" >}}) | 199 | 199 | 100.0 | /mnt/stockage/packages/f10/gnome-doc-utils/po/ug.po | 
- | [uk]({{< ref "/f10/language/uk.md" >}}) | 238 | 238 | 100.0 | /mnt/stockage/packages/f10/gnome-doc-utils/po/uk.po | 
- | [vi]({{< ref "/f10/language/vi.md" >}}) | 238 | 238 | 100.0 | /mnt/stockage/packages/f10/gnome-doc-utils/po/vi.po | 
- | [zh_Hans]({{< ref "/f10/language/zh_Hans.md" >}}) | 238 | 238 | 100.0 | /mnt/stockage/packages/f10/gnome-doc-utils/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f10/language/zh_Hant.md" >}}) | 238 | 238 | 100.0 | /mnt/stockage/packages/f10/gnome-doc-utils/po/zh_TW.po | 
- | [zh_Hant_HK]({{< ref "/f10/language/zh_Hant_HK.md" >}}) | 238 | 238 | 100.0 | /mnt/stockage/packages/f10/gnome-doc-utils/po/zh_HK.po | 
- | [id]({{< ref "/f10/language/id.md" >}}) | 212 | 213 | 99.5 | /mnt/stockage/packages/f10/gnome-doc-utils/po/id.po | 
- | [sk]({{< ref "/f10/language/sk.md" >}}) | 46 | 201 | 22.9 | /mnt/stockage/packages/f10/gnome-doc-utils/po/sk.po | 
- | [oc]({{< ref "/f10/language/oc.md" >}}) | 40 | 238 | 16.8 | /mnt/stockage/packages/f10/gnome-doc-utils/po/oc.po | 
- | [he]({{< ref "/f10/language/he.md" >}}) | 35 | 213 | 16.4 | /mnt/stockage/packages/f10/gnome-doc-utils/po/he.po | 
- | [wa]({{< ref "/f10/language/wa.md" >}}) | 19 | 199 | 9.5 | /mnt/stockage/packages/f10/gnome-doc-utils/po/wa.po | 
- | [rw]({{< ref "/f10/language/rw.md" >}}) | 6 | 199 | 3.0 | /mnt/stockage/packages/f10/gnome-doc-utils/po/rw.po | 
+ | [ar](/f10/language/ar) | 238 | 238 | 100.0 | /mnt/stockage/packages/f10/gnome-doc-utils/po/ar.po | 
+ | [be_Latn](/f10/language/be_Latn) | 238 | 238 | 100.0 | /mnt/stockage/packages/f10/gnome-doc-utils/po/be@latin.po | 
+ | [bg](/f10/language/bg) | 238 | 238 | 100.0 | /mnt/stockage/packages/f10/gnome-doc-utils/po/bg.po | 
+ | [bn](/f10/language/bn) | 213 | 213 | 100.0 | /mnt/stockage/packages/f10/gnome-doc-utils/po/bn.po | 
+ | [bn_IN](/f10/language/bn_IN) | 238 | 238 | 100.0 | /mnt/stockage/packages/f10/gnome-doc-utils/po/bn_IN.po | 
+ | [ca](/f10/language/ca) | 238 | 238 | 100.0 | /mnt/stockage/packages/f10/gnome-doc-utils/po/ca.po | 
+ | [cs](/f10/language/cs) | 238 | 238 | 100.0 | /mnt/stockage/packages/f10/gnome-doc-utils/po/cs.po | 
+ | [cy](/f10/language/cy) | 213 | 213 | 100.0 | /mnt/stockage/packages/f10/gnome-doc-utils/po/cy.po | 
+ | [da](/f10/language/da) | 238 | 238 | 100.0 | /mnt/stockage/packages/f10/gnome-doc-utils/po/da.po | 
+ | [de](/f10/language/de) | 238 | 238 | 100.0 | /mnt/stockage/packages/f10/gnome-doc-utils/po/de.po | 
+ | [dz](/f10/language/dz) | 238 | 238 | 100.0 | /mnt/stockage/packages/f10/gnome-doc-utils/po/dz.po | 
+ | [el](/f10/language/el) | 238 | 238 | 100.0 | /mnt/stockage/packages/f10/gnome-doc-utils/po/el.po | 
+ | [en_CA](/f10/language/en_CA) | 238 | 238 | 100.0 | /mnt/stockage/packages/f10/gnome-doc-utils/po/en_CA.po | 
+ | [en_GB](/f10/language/en_GB) | 238 | 238 | 100.0 | /mnt/stockage/packages/f10/gnome-doc-utils/po/en_GB.po | 
+ | [es](/f10/language/es) | 238 | 238 | 100.0 | /mnt/stockage/packages/f10/gnome-doc-utils/po/es.po | 
+ | [et](/f10/language/et) | 238 | 238 | 100.0 | /mnt/stockage/packages/f10/gnome-doc-utils/po/et.po | 
+ | [eu](/f10/language/eu) | 238 | 238 | 100.0 | /mnt/stockage/packages/f10/gnome-doc-utils/po/eu.po | 
+ | [fa](/f10/language/fa) | 238 | 238 | 100.0 | /mnt/stockage/packages/f10/gnome-doc-utils/po/fa.po | 
+ | [fi](/f10/language/fi) | 238 | 238 | 100.0 | /mnt/stockage/packages/f10/gnome-doc-utils/po/fi.po | 
+ | [fr](/f10/language/fr) | 238 | 238 | 100.0 | /mnt/stockage/packages/f10/gnome-doc-utils/po/fr.po | 
+ | [gl](/f10/language/gl) | 238 | 238 | 100.0 | /mnt/stockage/packages/f10/gnome-doc-utils/po/gl.po | 
+ | [gu](/f10/language/gu) | 238 | 238 | 100.0 | /mnt/stockage/packages/f10/gnome-doc-utils/po/gu.po | 
+ | [hi](/f10/language/hi) | 213 | 213 | 100.0 | /mnt/stockage/packages/f10/gnome-doc-utils/po/hi.po | 
+ | [hu](/f10/language/hu) | 238 | 238 | 100.0 | /mnt/stockage/packages/f10/gnome-doc-utils/po/hu.po | 
+ | [it](/f10/language/it) | 238 | 238 | 100.0 | /mnt/stockage/packages/f10/gnome-doc-utils/po/it.po | 
+ | [ja](/f10/language/ja) | 238 | 238 | 100.0 | /mnt/stockage/packages/f10/gnome-doc-utils/po/ja.po | 
+ | [ka](/f10/language/ka) | 213 | 213 | 100.0 | /mnt/stockage/packages/f10/gnome-doc-utils/po/ka.po | 
+ | [kn](/f10/language/kn) | 238 | 238 | 100.0 | /mnt/stockage/packages/f10/gnome-doc-utils/po/kn.po | 
+ | [ko](/f10/language/ko) | 238 | 238 | 100.0 | /mnt/stockage/packages/f10/gnome-doc-utils/po/ko.po | 
+ | [lt](/f10/language/lt) | 238 | 238 | 100.0 | /mnt/stockage/packages/f10/gnome-doc-utils/po/lt.po | 
+ | [lv](/f10/language/lv) | 213 | 213 | 100.0 | /mnt/stockage/packages/f10/gnome-doc-utils/po/lv.po | 
+ | [mg](/f10/language/mg) | 213 | 213 | 100.0 | /mnt/stockage/packages/f10/gnome-doc-utils/po/mg.po | 
+ | [mk](/f10/language/mk) | 238 | 238 | 100.0 | /mnt/stockage/packages/f10/gnome-doc-utils/po/mk.po | 
+ | [ml](/f10/language/ml) | 213 | 213 | 100.0 | /mnt/stockage/packages/f10/gnome-doc-utils/po/ml.po | 
+ | [mn](/f10/language/mn) | 213 | 213 | 100.0 | /mnt/stockage/packages/f10/gnome-doc-utils/po/mn.po | 
+ | [mr](/f10/language/mr) | 238 | 238 | 100.0 | /mnt/stockage/packages/f10/gnome-doc-utils/po/mr.po | 
+ | [nb_NO](/f10/language/nb_NO) | 238 | 238 | 100.0 | /mnt/stockage/packages/f10/gnome-doc-utils/po/nb.po | 
+ | [ne](/f10/language/ne) | 238 | 238 | 100.0 | /mnt/stockage/packages/f10/gnome-doc-utils/po/ne.po | 
+ | [nl](/f10/language/nl) | 238 | 238 | 100.0 | /mnt/stockage/packages/f10/gnome-doc-utils/po/nl.po | 
+ | [nn](/f10/language/nn) | 238 | 238 | 100.0 | /mnt/stockage/packages/f10/gnome-doc-utils/po/nn.po | 
+ | [or](/f10/language/or) | 238 | 238 | 100.0 | /mnt/stockage/packages/f10/gnome-doc-utils/po/or.po | 
+ | [pa](/f10/language/pa) | 213 | 213 | 100.0 | /mnt/stockage/packages/f10/gnome-doc-utils/po/pa.po | 
+ | [pl](/f10/language/pl) | 238 | 238 | 100.0 | /mnt/stockage/packages/f10/gnome-doc-utils/po/pl.po | 
+ | [pt](/f10/language/pt) | 238 | 238 | 100.0 | /mnt/stockage/packages/f10/gnome-doc-utils/po/pt.po | 
+ | [pt_BR](/f10/language/pt_BR) | 238 | 238 | 100.0 | /mnt/stockage/packages/f10/gnome-doc-utils/po/pt_BR.po | 
+ | [ro](/f10/language/ro) | 213 | 213 | 100.0 | /mnt/stockage/packages/f10/gnome-doc-utils/po/ro.po | 
+ | [ru](/f10/language/ru) | 238 | 238 | 100.0 | /mnt/stockage/packages/f10/gnome-doc-utils/po/ru.po | 
+ | [sl](/f10/language/sl) | 238 | 238 | 100.0 | /mnt/stockage/packages/f10/gnome-doc-utils/po/sl.po | 
+ | [sq](/f10/language/sq) | 238 | 238 | 100.0 | /mnt/stockage/packages/f10/gnome-doc-utils/po/sq.po | 
+ | [sr](/f10/language/sr) | 238 | 238 | 100.0 | /mnt/stockage/packages/f10/gnome-doc-utils/po/sr.po | 
+ | [sr_Latn](/f10/language/sr_Latn) | 238 | 238 | 100.0 | /mnt/stockage/packages/f10/gnome-doc-utils/po/sr@latin.po | 
+ | [sv](/f10/language/sv) | 238 | 238 | 100.0 | /mnt/stockage/packages/f10/gnome-doc-utils/po/sv.po | 
+ | [ta](/f10/language/ta) | 238 | 238 | 100.0 | /mnt/stockage/packages/f10/gnome-doc-utils/po/ta.po | 
+ | [te](/f10/language/te) | 238 | 238 | 100.0 | /mnt/stockage/packages/f10/gnome-doc-utils/po/te.po | 
+ | [th](/f10/language/th) | 238 | 238 | 100.0 | /mnt/stockage/packages/f10/gnome-doc-utils/po/th.po | 
+ | [tr](/f10/language/tr) | 238 | 238 | 100.0 | /mnt/stockage/packages/f10/gnome-doc-utils/po/tr.po | 
+ | [ug](/f10/language/ug) | 199 | 199 | 100.0 | /mnt/stockage/packages/f10/gnome-doc-utils/po/ug.po | 
+ | [uk](/f10/language/uk) | 238 | 238 | 100.0 | /mnt/stockage/packages/f10/gnome-doc-utils/po/uk.po | 
+ | [vi](/f10/language/vi) | 238 | 238 | 100.0 | /mnt/stockage/packages/f10/gnome-doc-utils/po/vi.po | 
+ | [zh_Hans](/f10/language/zh_Hans) | 238 | 238 | 100.0 | /mnt/stockage/packages/f10/gnome-doc-utils/po/zh_CN.po | 
+ | [zh_Hant](/f10/language/zh_Hant) | 238 | 238 | 100.0 | /mnt/stockage/packages/f10/gnome-doc-utils/po/zh_TW.po | 
+ | [zh_Hant_HK](/f10/language/zh_Hant_HK) | 238 | 238 | 100.0 | /mnt/stockage/packages/f10/gnome-doc-utils/po/zh_HK.po | 
+ | [id](/f10/language/id) | 212 | 213 | 99.5 | /mnt/stockage/packages/f10/gnome-doc-utils/po/id.po | 
+ | [sk](/f10/language/sk) | 46 | 201 | 22.9 | /mnt/stockage/packages/f10/gnome-doc-utils/po/sk.po | 
+ | [oc](/f10/language/oc) | 40 | 238 | 16.8 | /mnt/stockage/packages/f10/gnome-doc-utils/po/oc.po | 
+ | [he](/f10/language/he) | 35 | 213 | 16.4 | /mnt/stockage/packages/f10/gnome-doc-utils/po/he.po | 
+ | [wa](/f10/language/wa) | 19 | 199 | 9.5 | /mnt/stockage/packages/f10/gnome-doc-utils/po/wa.po | 
+ | [rw](/f10/language/rw) | 6 | 199 | 3.0 | /mnt/stockage/packages/f10/gnome-doc-utils/po/rw.po | 
 {.sortable}
 
 

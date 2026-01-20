@@ -18,32 +18,32 @@ The package pdfmod (version 0.9.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f29/language/ca.md" >}}) | 799 | 799 | 100.0 | /mnt/stockage/packages/f29/pdfmod/docs/ca/ca.po/mnt/stockage/packages/f29/pdfmod/po/ca.po | 
- | [cs]({{< ref "/f29/language/cs.md" >}}) | 864 | 864 | 100.0 | /mnt/stockage/packages/f29/pdfmod/docs/cs/cs.po/mnt/stockage/packages/f29/pdfmod/po/cs.po | 
- | [da]({{< ref "/f29/language/da.md" >}}) | 802 | 802 | 100.0 | /mnt/stockage/packages/f29/pdfmod/docs/da/da.po/mnt/stockage/packages/f29/pdfmod/po/da.po | 
- | [de]({{< ref "/f29/language/de.md" >}}) | 864 | 864 | 100.0 | /mnt/stockage/packages/f29/pdfmod/docs/de/de.po/mnt/stockage/packages/f29/pdfmod/po/de.po | 
- | [es]({{< ref "/f29/language/es.md" >}}) | 864 | 864 | 100.0 | /mnt/stockage/packages/f29/pdfmod/docs/es/es.po/mnt/stockage/packages/f29/pdfmod/po/es.po | 
- | [et]({{< ref "/f29/language/et.md" >}}) | 316 | 316 | 100.0 | /mnt/stockage/packages/f29/pdfmod/po/et.po | 
- | [fr]({{< ref "/f29/language/fr.md" >}}) | 864 | 864 | 100.0 | /mnt/stockage/packages/f29/pdfmod/docs/fr/fr.po/mnt/stockage/packages/f29/pdfmod/po/fr.po | 
- | [gl]({{< ref "/f29/language/gl.md" >}}) | 266 | 266 | 100.0 | /mnt/stockage/packages/f29/pdfmod/po/gl.po | 
- | [hr]({{< ref "/f29/language/hr.md" >}}) | 782 | 782 | 100.0 | /mnt/stockage/packages/f29/pdfmod/docs/hr/hr.po/mnt/stockage/packages/f29/pdfmod/po/hr.po | 
- | [hu]({{< ref "/f29/language/hu.md" >}}) | 316 | 316 | 100.0 | /mnt/stockage/packages/f29/pdfmod/po/hu.po | 
- | [ja]({{< ref "/f29/language/ja.md" >}}) | 316 | 316 | 100.0 | /mnt/stockage/packages/f29/pdfmod/po/ja.po | 
- | [lt]({{< ref "/f29/language/lt.md" >}}) | 204 | 204 | 100.0 | /mnt/stockage/packages/f29/pdfmod/po/lt.po | 
- | [nl]({{< ref "/f29/language/nl.md" >}}) | 266 | 266 | 100.0 | /mnt/stockage/packages/f29/pdfmod/po/nl.po | 
- | [pl]({{< ref "/f29/language/pl.md" >}}) | 814 | 814 | 100.0 | /mnt/stockage/packages/f29/pdfmod/docs/pl/pl.po/mnt/stockage/packages/f29/pdfmod/po/pl.po | 
- | [pt]({{< ref "/f29/language/pt.md" >}}) | 252 | 252 | 100.0 | /mnt/stockage/packages/f29/pdfmod/po/pt.po | 
- | [pt_BR]({{< ref "/f29/language/pt_BR.md" >}}) | 316 | 316 | 100.0 | /mnt/stockage/packages/f29/pdfmod/po/pt_BR.po | 
- | [ro]({{< ref "/f29/language/ro.md" >}}) | 316 | 316 | 100.0 | /mnt/stockage/packages/f29/pdfmod/po/ro.po | 
- | [ta]({{< ref "/f29/language/ta.md" >}}) | 202 | 202 | 100.0 | /mnt/stockage/packages/f29/pdfmod/po/ta.po | 
- | [zh_Hans]({{< ref "/f29/language/zh_Hans.md" >}}) | 864 | 864 | 100.0 | /mnt/stockage/packages/f29/pdfmod/docs/zh_CN/zh_CN.po/mnt/stockage/packages/f29/pdfmod/po/zh_CN.po | 
- | [it]({{< ref "/f29/language/it.md" >}}) | 249 | 251 | 99.2 | /mnt/stockage/packages/f29/pdfmod/po/it.po | 
- | [ca@valencia]({{< ref "/f29/language/ca@valencia.md" >}}) | 239 | 312 | 76.6 | /mnt/stockage/packages/f29/pdfmod/po/ca@valencia.po | 
- | [sv]({{< ref "/f29/language/sv.md" >}}) | 487 | 861 | 56.6 | /mnt/stockage/packages/f29/pdfmod/docs/sv/sv.po/mnt/stockage/packages/f29/pdfmod/po/sv.po | 
- | [nb_NO]({{< ref "/f29/language/nb_NO.md" >}}) | 147 | 316 | 46.5 | /mnt/stockage/packages/f29/pdfmod/po/nb.po | 
- | [ru]({{< ref "/f29/language/ru.md" >}}) | 116 | 258 | 45.0 | /mnt/stockage/packages/f29/pdfmod/po/ru.po | 
- | [bn_IN]({{< ref "/f29/language/bn_IN.md" >}}) | 91 | 234 | 38.9 | /mnt/stockage/packages/f29/pdfmod/po/bn_IN.po | 
- | [sl]({{< ref "/f29/language/sl.md" >}}) | 322 | 864 | 37.3 | /mnt/stockage/packages/f29/pdfmod/docs/sl/sl.po/mnt/stockage/packages/f29/pdfmod/po/sl.po | 
+ | [ca](/f29/language/ca) | 799 | 799 | 100.0 | /mnt/stockage/packages/f29/pdfmod/docs/ca/ca.po/mnt/stockage/packages/f29/pdfmod/po/ca.po | 
+ | [cs](/f29/language/cs) | 864 | 864 | 100.0 | /mnt/stockage/packages/f29/pdfmod/docs/cs/cs.po/mnt/stockage/packages/f29/pdfmod/po/cs.po | 
+ | [da](/f29/language/da) | 802 | 802 | 100.0 | /mnt/stockage/packages/f29/pdfmod/docs/da/da.po/mnt/stockage/packages/f29/pdfmod/po/da.po | 
+ | [de](/f29/language/de) | 864 | 864 | 100.0 | /mnt/stockage/packages/f29/pdfmod/docs/de/de.po/mnt/stockage/packages/f29/pdfmod/po/de.po | 
+ | [es](/f29/language/es) | 864 | 864 | 100.0 | /mnt/stockage/packages/f29/pdfmod/docs/es/es.po/mnt/stockage/packages/f29/pdfmod/po/es.po | 
+ | [et](/f29/language/et) | 316 | 316 | 100.0 | /mnt/stockage/packages/f29/pdfmod/po/et.po | 
+ | [fr](/f29/language/fr) | 864 | 864 | 100.0 | /mnt/stockage/packages/f29/pdfmod/docs/fr/fr.po/mnt/stockage/packages/f29/pdfmod/po/fr.po | 
+ | [gl](/f29/language/gl) | 266 | 266 | 100.0 | /mnt/stockage/packages/f29/pdfmod/po/gl.po | 
+ | [hr](/f29/language/hr) | 782 | 782 | 100.0 | /mnt/stockage/packages/f29/pdfmod/docs/hr/hr.po/mnt/stockage/packages/f29/pdfmod/po/hr.po | 
+ | [hu](/f29/language/hu) | 316 | 316 | 100.0 | /mnt/stockage/packages/f29/pdfmod/po/hu.po | 
+ | [ja](/f29/language/ja) | 316 | 316 | 100.0 | /mnt/stockage/packages/f29/pdfmod/po/ja.po | 
+ | [lt](/f29/language/lt) | 204 | 204 | 100.0 | /mnt/stockage/packages/f29/pdfmod/po/lt.po | 
+ | [nl](/f29/language/nl) | 266 | 266 | 100.0 | /mnt/stockage/packages/f29/pdfmod/po/nl.po | 
+ | [pl](/f29/language/pl) | 814 | 814 | 100.0 | /mnt/stockage/packages/f29/pdfmod/docs/pl/pl.po/mnt/stockage/packages/f29/pdfmod/po/pl.po | 
+ | [pt](/f29/language/pt) | 252 | 252 | 100.0 | /mnt/stockage/packages/f29/pdfmod/po/pt.po | 
+ | [pt_BR](/f29/language/pt_BR) | 316 | 316 | 100.0 | /mnt/stockage/packages/f29/pdfmod/po/pt_BR.po | 
+ | [ro](/f29/language/ro) | 316 | 316 | 100.0 | /mnt/stockage/packages/f29/pdfmod/po/ro.po | 
+ | [ta](/f29/language/ta) | 202 | 202 | 100.0 | /mnt/stockage/packages/f29/pdfmod/po/ta.po | 
+ | [zh_Hans](/f29/language/zh_Hans) | 864 | 864 | 100.0 | /mnt/stockage/packages/f29/pdfmod/docs/zh_CN/zh_CN.po/mnt/stockage/packages/f29/pdfmod/po/zh_CN.po | 
+ | [it](/f29/language/it) | 249 | 251 | 99.2 | /mnt/stockage/packages/f29/pdfmod/po/it.po | 
+ | [ca@valencia](/f29/language/ca@valencia) | 239 | 312 | 76.6 | /mnt/stockage/packages/f29/pdfmod/po/ca@valencia.po | 
+ | [sv](/f29/language/sv) | 487 | 861 | 56.6 | /mnt/stockage/packages/f29/pdfmod/docs/sv/sv.po/mnt/stockage/packages/f29/pdfmod/po/sv.po | 
+ | [nb_NO](/f29/language/nb_NO) | 147 | 316 | 46.5 | /mnt/stockage/packages/f29/pdfmod/po/nb.po | 
+ | [ru](/f29/language/ru) | 116 | 258 | 45.0 | /mnt/stockage/packages/f29/pdfmod/po/ru.po | 
+ | [bn_IN](/f29/language/bn_IN) | 91 | 234 | 38.9 | /mnt/stockage/packages/f29/pdfmod/po/bn_IN.po | 
+ | [sl](/f29/language/sl) | 322 | 864 | 37.3 | /mnt/stockage/packages/f29/pdfmod/docs/sl/sl.po/mnt/stockage/packages/f29/pdfmod/po/sl.po | 
 {.sortable}
 
 

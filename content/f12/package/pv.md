@@ -18,10 +18,10 @@ The package pv (version 1.1.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f12/language/fr.md" >}}) | 125 | 285 | 43.9 | /mnt/stockage/packages/f12/pv/src/nls/fr.po | 
- | [de]({{< ref "/f12/language/de.md" >}}) | 121 | 285 | 42.5 | /mnt/stockage/packages/f12/pv/src/nls/de.po | 
- | [pt]({{< ref "/f12/language/pt.md" >}}) | 121 | 285 | 42.5 | /mnt/stockage/packages/f12/pv/src/nls/pt.po | 
- | [pl]({{< ref "/f12/language/pl.md" >}}) | 96 | 285 | 33.7 | /mnt/stockage/packages/f12/pv/src/nls/pl.po | 
+ | [fr](/f12/language/fr) | 125 | 285 | 43.9 | /mnt/stockage/packages/f12/pv/src/nls/fr.po | 
+ | [de](/f12/language/de) | 121 | 285 | 42.5 | /mnt/stockage/packages/f12/pv/src/nls/de.po | 
+ | [pt](/f12/language/pt) | 121 | 285 | 42.5 | /mnt/stockage/packages/f12/pv/src/nls/pt.po | 
+ | [pl](/f12/language/pl) | 96 | 285 | 33.7 | /mnt/stockage/packages/f12/pv/src/nls/pl.po | 
 {.sortable}
 
 

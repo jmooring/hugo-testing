@@ -18,18 +18,18 @@ The package klamav (version 0.46):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f37/language/fr.md" >}}) | 2501 | 2501 | 100.0 | /mnt/stockage/packages/f37/klamav/po/fr.po | 
- | [uk]({{< ref "/f37/language/uk.md" >}}) | 2503 | 2503 | 100.0 | /mnt/stockage/packages/f37/klamav/po/uk.po | 
- | [tr]({{< ref "/f37/language/tr.md" >}}) | 2485 | 2503 | 99.3 | /mnt/stockage/packages/f37/klamav/po/tr.po | 
- | [pt_BR]({{< ref "/f37/language/pt_BR.md" >}}) | 2021 | 2503 | 80.7 | /mnt/stockage/packages/f37/klamav/po/pt_BR.po | 
- | [it]({{< ref "/f37/language/it.md" >}}) | 1726 | 2503 | 69.0 | /mnt/stockage/packages/f37/klamav/po/it.po | 
- | [es]({{< ref "/f37/language/es.md" >}}) | 931 | 2503 | 37.2 | /mnt/stockage/packages/f37/klamav/po/es.po | 
- | [hu]({{< ref "/f37/language/hu.md" >}}) | 768 | 2503 | 30.7 | /mnt/stockage/packages/f37/klamav/po/hu.po | 
- | [cs]({{< ref "/f37/language/cs.md" >}}) | 767 | 2503 | 30.6 | /mnt/stockage/packages/f37/klamav/po/cs.po | 
- | [pl]({{< ref "/f37/language/pl.md" >}}) | 559 | 2503 | 22.3 | /mnt/stockage/packages/f37/klamav/po/pl.po | 
- | [de]({{< ref "/f37/language/de.md" >}}) | 458 | 2503 | 18.3 | /mnt/stockage/packages/f37/klamav/po/de.po | 
- | [zh_Hans]({{< ref "/f37/language/zh_Hans.md" >}}) | 372 | 2503 | 14.9 | /mnt/stockage/packages/f37/klamav/po/zh_CN.po | 
- | [ru]({{< ref "/f37/language/ru.md" >}}) | 358 | 2503 | 14.3 | /mnt/stockage/packages/f37/klamav/po/ru.po | 
+ | [fr](/f37/language/fr) | 2501 | 2501 | 100.0 | /mnt/stockage/packages/f37/klamav/po/fr.po | 
+ | [uk](/f37/language/uk) | 2503 | 2503 | 100.0 | /mnt/stockage/packages/f37/klamav/po/uk.po | 
+ | [tr](/f37/language/tr) | 2485 | 2503 | 99.3 | /mnt/stockage/packages/f37/klamav/po/tr.po | 
+ | [pt_BR](/f37/language/pt_BR) | 2021 | 2503 | 80.7 | /mnt/stockage/packages/f37/klamav/po/pt_BR.po | 
+ | [it](/f37/language/it) | 1726 | 2503 | 69.0 | /mnt/stockage/packages/f37/klamav/po/it.po | 
+ | [es](/f37/language/es) | 931 | 2503 | 37.2 | /mnt/stockage/packages/f37/klamav/po/es.po | 
+ | [hu](/f37/language/hu) | 768 | 2503 | 30.7 | /mnt/stockage/packages/f37/klamav/po/hu.po | 
+ | [cs](/f37/language/cs) | 767 | 2503 | 30.6 | /mnt/stockage/packages/f37/klamav/po/cs.po | 
+ | [pl](/f37/language/pl) | 559 | 2503 | 22.3 | /mnt/stockage/packages/f37/klamav/po/pl.po | 
+ | [de](/f37/language/de) | 458 | 2503 | 18.3 | /mnt/stockage/packages/f37/klamav/po/de.po | 
+ | [zh_Hans](/f37/language/zh_Hans) | 372 | 2503 | 14.9 | /mnt/stockage/packages/f37/klamav/po/zh_CN.po | 
+ | [ru](/f37/language/ru) | 358 | 2503 | 14.3 | /mnt/stockage/packages/f37/klamav/po/ru.po | 
 {.sortable}
 
 

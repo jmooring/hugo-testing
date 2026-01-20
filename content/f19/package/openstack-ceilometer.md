@@ -18,9 +18,9 @@ The package openstack-ceilometer (version 2013.1.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f19/language/fr.md" >}}) | 36 | 614 | 5.9 | /mnt/stockage/packages/f19/openstack-ceilometer/ceilometer/locale/fr/LC_MESSAGES/ceilometer.po | 
- | [ja]({{< ref "/f19/language/ja.md" >}}) | 18 | 568 | 3.2 | /mnt/stockage/packages/f19/openstack-ceilometer/ceilometer/locale/ja/LC_MESSAGES/ceilometer.po | 
- | [zh_Hant]({{< ref "/f19/language/zh_Hant.md" >}}) | 0 | 568 | 0.0 | /mnt/stockage/packages/f19/openstack-ceilometer/ceilometer/locale/zh_TW/LC_MESSAGES/ceilometer.po | 
+ | [fr](/f19/language/fr) | 36 | 614 | 5.9 | /mnt/stockage/packages/f19/openstack-ceilometer/ceilometer/locale/fr/LC_MESSAGES/ceilometer.po | 
+ | [ja](/f19/language/ja) | 18 | 568 | 3.2 | /mnt/stockage/packages/f19/openstack-ceilometer/ceilometer/locale/ja/LC_MESSAGES/ceilometer.po | 
+ | [zh_Hant](/f19/language/zh_Hant) | 0 | 568 | 0.0 | /mnt/stockage/packages/f19/openstack-ceilometer/ceilometer/locale/zh_TW/LC_MESSAGES/ceilometer.po | 
 {.sortable}
 
 

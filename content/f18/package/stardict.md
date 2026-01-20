@@ -18,31 +18,31 @@ The package stardict (version 3.0.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [lt]({{< ref "/f18/language/lt.md" >}}) | 2377 | 2986 | 79.6 | /mnt/stockage/packages/f18/stardict/dict/po/lt.po | 
- | [vi]({{< ref "/f18/language/vi.md" >}}) | 2185 | 2986 | 73.2 | /mnt/stockage/packages/f18/stardict/dict/po/vi.po | 
- | [de]({{< ref "/f18/language/de.md" >}}) | 2183 | 2986 | 73.1 | /mnt/stockage/packages/f18/stardict/dict/po/de.po | 
- | [fr]({{< ref "/f18/language/fr.md" >}}) | 4366 | 5972 | 73.1 | /mnt/stockage/packages/f18/stardict/dict/po/es.po/mnt/stockage/packages/f18/stardict/dict/po/fr.po | 
- | [sk]({{< ref "/f18/language/sk.md" >}}) | 2178 | 2986 | 72.9 | /mnt/stockage/packages/f18/stardict/dict/po/sk.po | 
- | [be]({{< ref "/f18/language/be.md" >}}) | 2177 | 2986 | 72.9 | /mnt/stockage/packages/f18/stardict/dict/po/be.po | 
- | [hu]({{< ref "/f18/language/hu.md" >}}) | 1789 | 2986 | 59.9 | /mnt/stockage/packages/f18/stardict/dict/po/hu.po | 
- | [ga]({{< ref "/f18/language/ga.md" >}}) | 1700 | 2986 | 56.9 | /mnt/stockage/packages/f18/stardict/dict/po/ga.po | 
- | [el]({{< ref "/f18/language/el.md" >}}) | 1182 | 2986 | 39.6 | /mnt/stockage/packages/f18/stardict/dict/po/el.po | 
- | [hr]({{< ref "/f18/language/hr.md" >}}) | 1118 | 2986 | 37.4 | /mnt/stockage/packages/f18/stardict/dict/po/hr.po | 
- | [pt_BR]({{< ref "/f18/language/pt_BR.md" >}}) | 1118 | 2986 | 37.4 | /mnt/stockage/packages/f18/stardict/dict/po/pt_BR.po | 
- | [tr]({{< ref "/f18/language/tr.md" >}}) | 1118 | 2986 | 37.4 | /mnt/stockage/packages/f18/stardict/dict/po/tr.po | 
- | [tt]({{< ref "/f18/language/tt.md" >}}) | 1118 | 2986 | 37.4 | /mnt/stockage/packages/f18/stardict/dict/po/tt.po | 
- | [zh_Hans]({{< ref "/f18/language/zh_Hans.md" >}}) | 3591 | 11029 | 32.6 | /mnt/stockage/packages/f18/stardict/dict/help/zh_CN/zh_CN.po/mnt/stockage/packages/f18/stardict/dict/po/zh_CN.po | 
- | [kk]({{< ref "/f18/language/kk.md" >}}) | 864 | 2986 | 28.9 | /mnt/stockage/packages/f18/stardict/dict/po/kk.po | 
- | [ru]({{< ref "/f18/language/ru.md" >}}) | 2791 | 11029 | 25.3 | /mnt/stockage/packages/f18/stardict/dict/help/ru/ru.po/mnt/stockage/packages/f18/stardict/dict/po/ru.po | 
- | [uk]({{< ref "/f18/language/uk.md" >}}) | 2774 | 11029 | 25.2 | /mnt/stockage/packages/f18/stardict/dict/help/uk/uk.po/mnt/stockage/packages/f18/stardict/dict/po/uk.po | 
- | [sv]({{< ref "/f18/language/sv.md" >}}) | 702 | 2986 | 23.5 | /mnt/stockage/packages/f18/stardict/dict/po/sv.po | 
- | [cs]({{< ref "/f18/language/cs.md" >}}) | 696 | 2986 | 23.3 | /mnt/stockage/packages/f18/stardict/dict/po/cs.po | 
- | [ar]({{< ref "/f18/language/ar.md" >}}) | 695 | 2986 | 23.3 | /mnt/stockage/packages/f18/stardict/dict/po/ar.po | 
- | [mk]({{< ref "/f18/language/mk.md" >}}) | 2507 | 11029 | 22.7 | /mnt/stockage/packages/f18/stardict/dict/help/mk/mk.po/mnt/stockage/packages/f18/stardict/dict/po/mk.po | 
- | [zh_Hant]({{< ref "/f18/language/zh_Hant.md" >}}) | 2305 | 11029 | 20.9 | /mnt/stockage/packages/f18/stardict/dict/help/zh_TW/zh_TW.po/mnt/stockage/packages/f18/stardict/dict/po/zh_TW.po | 
- | [nl]({{< ref "/f18/language/nl.md" >}}) | 1290 | 11029 | 11.7 | /mnt/stockage/packages/f18/stardict/dict/help/nl/nl.po/mnt/stockage/packages/f18/stardict/dict/po/nl.po | 
- | [ku]({{< ref "/f18/language/ku.md" >}}) | 71 | 2986 | 2.4 | /mnt/stockage/packages/f18/stardict/dict/po/ku.po | 
- | [rw]({{< ref "/f18/language/rw.md" >}}) | 20 | 2986 | 0.7 | /mnt/stockage/packages/f18/stardict/dict/po/rw.po | 
+ | [lt](/f18/language/lt) | 2377 | 2986 | 79.6 | /mnt/stockage/packages/f18/stardict/dict/po/lt.po | 
+ | [vi](/f18/language/vi) | 2185 | 2986 | 73.2 | /mnt/stockage/packages/f18/stardict/dict/po/vi.po | 
+ | [de](/f18/language/de) | 2183 | 2986 | 73.1 | /mnt/stockage/packages/f18/stardict/dict/po/de.po | 
+ | [fr](/f18/language/fr) | 4366 | 5972 | 73.1 | /mnt/stockage/packages/f18/stardict/dict/po/es.po/mnt/stockage/packages/f18/stardict/dict/po/fr.po | 
+ | [sk](/f18/language/sk) | 2178 | 2986 | 72.9 | /mnt/stockage/packages/f18/stardict/dict/po/sk.po | 
+ | [be](/f18/language/be) | 2177 | 2986 | 72.9 | /mnt/stockage/packages/f18/stardict/dict/po/be.po | 
+ | [hu](/f18/language/hu) | 1789 | 2986 | 59.9 | /mnt/stockage/packages/f18/stardict/dict/po/hu.po | 
+ | [ga](/f18/language/ga) | 1700 | 2986 | 56.9 | /mnt/stockage/packages/f18/stardict/dict/po/ga.po | 
+ | [el](/f18/language/el) | 1182 | 2986 | 39.6 | /mnt/stockage/packages/f18/stardict/dict/po/el.po | 
+ | [hr](/f18/language/hr) | 1118 | 2986 | 37.4 | /mnt/stockage/packages/f18/stardict/dict/po/hr.po | 
+ | [pt_BR](/f18/language/pt_BR) | 1118 | 2986 | 37.4 | /mnt/stockage/packages/f18/stardict/dict/po/pt_BR.po | 
+ | [tr](/f18/language/tr) | 1118 | 2986 | 37.4 | /mnt/stockage/packages/f18/stardict/dict/po/tr.po | 
+ | [tt](/f18/language/tt) | 1118 | 2986 | 37.4 | /mnt/stockage/packages/f18/stardict/dict/po/tt.po | 
+ | [zh_Hans](/f18/language/zh_Hans) | 3591 | 11029 | 32.6 | /mnt/stockage/packages/f18/stardict/dict/help/zh_CN/zh_CN.po/mnt/stockage/packages/f18/stardict/dict/po/zh_CN.po | 
+ | [kk](/f18/language/kk) | 864 | 2986 | 28.9 | /mnt/stockage/packages/f18/stardict/dict/po/kk.po | 
+ | [ru](/f18/language/ru) | 2791 | 11029 | 25.3 | /mnt/stockage/packages/f18/stardict/dict/help/ru/ru.po/mnt/stockage/packages/f18/stardict/dict/po/ru.po | 
+ | [uk](/f18/language/uk) | 2774 | 11029 | 25.2 | /mnt/stockage/packages/f18/stardict/dict/help/uk/uk.po/mnt/stockage/packages/f18/stardict/dict/po/uk.po | 
+ | [sv](/f18/language/sv) | 702 | 2986 | 23.5 | /mnt/stockage/packages/f18/stardict/dict/po/sv.po | 
+ | [cs](/f18/language/cs) | 696 | 2986 | 23.3 | /mnt/stockage/packages/f18/stardict/dict/po/cs.po | 
+ | [ar](/f18/language/ar) | 695 | 2986 | 23.3 | /mnt/stockage/packages/f18/stardict/dict/po/ar.po | 
+ | [mk](/f18/language/mk) | 2507 | 11029 | 22.7 | /mnt/stockage/packages/f18/stardict/dict/help/mk/mk.po/mnt/stockage/packages/f18/stardict/dict/po/mk.po | 
+ | [zh_Hant](/f18/language/zh_Hant) | 2305 | 11029 | 20.9 | /mnt/stockage/packages/f18/stardict/dict/help/zh_TW/zh_TW.po/mnt/stockage/packages/f18/stardict/dict/po/zh_TW.po | 
+ | [nl](/f18/language/nl) | 1290 | 11029 | 11.7 | /mnt/stockage/packages/f18/stardict/dict/help/nl/nl.po/mnt/stockage/packages/f18/stardict/dict/po/nl.po | 
+ | [ku](/f18/language/ku) | 71 | 2986 | 2.4 | /mnt/stockage/packages/f18/stardict/dict/po/ku.po | 
+ | [rw](/f18/language/rw) | 20 | 2986 | 0.7 | /mnt/stockage/packages/f18/stardict/dict/po/rw.po | 
 {.sortable}
 
 

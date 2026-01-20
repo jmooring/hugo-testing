@@ -18,56 +18,56 @@ The package thunar-vfs (version 1.2.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f15/language/ca.md" >}}) | 387 | 387 | 100.0 | /mnt/stockage/packages/f15/thunar-vfs/po/ca.po | 
- | [cs]({{< ref "/f15/language/cs.md" >}}) | 387 | 387 | 100.0 | /mnt/stockage/packages/f15/thunar-vfs/po/cs.po | 
- | [da]({{< ref "/f15/language/da.md" >}}) | 387 | 387 | 100.0 | /mnt/stockage/packages/f15/thunar-vfs/po/da.po | 
- | [de]({{< ref "/f15/language/de.md" >}}) | 387 | 387 | 100.0 | /mnt/stockage/packages/f15/thunar-vfs/po/de.po | 
- | [el]({{< ref "/f15/language/el.md" >}}) | 387 | 387 | 100.0 | /mnt/stockage/packages/f15/thunar-vfs/po/el.po | 
- | [en_GB]({{< ref "/f15/language/en_GB.md" >}}) | 387 | 387 | 100.0 | /mnt/stockage/packages/f15/thunar-vfs/po/en_GB.po | 
- | [eu]({{< ref "/f15/language/eu.md" >}}) | 387 | 387 | 100.0 | /mnt/stockage/packages/f15/thunar-vfs/po/eu.po | 
- | [fi]({{< ref "/f15/language/fi.md" >}}) | 387 | 387 | 100.0 | /mnt/stockage/packages/f15/thunar-vfs/po/fi.po | 
- | [fr]({{< ref "/f15/language/fr.md" >}}) | 387 | 387 | 100.0 | /mnt/stockage/packages/f15/thunar-vfs/po/fr.po | 
- | [gl]({{< ref "/f15/language/gl.md" >}}) | 387 | 387 | 100.0 | /mnt/stockage/packages/f15/thunar-vfs/po/gl.po | 
- | [he]({{< ref "/f15/language/he.md" >}}) | 387 | 387 | 100.0 | /mnt/stockage/packages/f15/thunar-vfs/po/he.po | 
- | [hu]({{< ref "/f15/language/hu.md" >}}) | 387 | 387 | 100.0 | /mnt/stockage/packages/f15/thunar-vfs/po/hu.po | 
- | [id]({{< ref "/f15/language/id.md" >}}) | 387 | 387 | 100.0 | /mnt/stockage/packages/f15/thunar-vfs/po/id.po | 
- | [it]({{< ref "/f15/language/it.md" >}}) | 387 | 387 | 100.0 | /mnt/stockage/packages/f15/thunar-vfs/po/it.po | 
- | [ja]({{< ref "/f15/language/ja.md" >}}) | 387 | 387 | 100.0 | /mnt/stockage/packages/f15/thunar-vfs/po/ja.po | 
- | [kk]({{< ref "/f15/language/kk.md" >}}) | 387 | 387 | 100.0 | /mnt/stockage/packages/f15/thunar-vfs/po/kk.po | 
- | [nb_NO]({{< ref "/f15/language/nb_NO.md" >}}) | 387 | 387 | 100.0 | /mnt/stockage/packages/f15/thunar-vfs/po/nb.po | 
- | [pt]({{< ref "/f15/language/pt.md" >}}) | 387 | 387 | 100.0 | /mnt/stockage/packages/f15/thunar-vfs/po/pt.po | 
- | [ro]({{< ref "/f15/language/ro.md" >}}) | 387 | 387 | 100.0 | /mnt/stockage/packages/f15/thunar-vfs/po/ro.po | 
- | [sv]({{< ref "/f15/language/sv.md" >}}) | 387 | 387 | 100.0 | /mnt/stockage/packages/f15/thunar-vfs/po/sv.po | 
- | [uk]({{< ref "/f15/language/uk.md" >}}) | 387 | 387 | 100.0 | /mnt/stockage/packages/f15/thunar-vfs/po/uk.po | 
- | [zh_Hans]({{< ref "/f15/language/zh_Hans.md" >}}) | 387 | 387 | 100.0 | /mnt/stockage/packages/f15/thunar-vfs/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f15/language/zh_Hant.md" >}}) | 387 | 387 | 100.0 | /mnt/stockage/packages/f15/thunar-vfs/po/zh_TW.po | 
- | [ru]({{< ref "/f15/language/ru.md" >}}) | 385 | 387 | 99.5 | /mnt/stockage/packages/f15/thunar-vfs/po/ru.po | 
- | [bn]({{< ref "/f15/language/bn.md" >}}) | 341 | 387 | 88.1 | /mnt/stockage/packages/f15/thunar-vfs/po/bn.po | 
- | [es]({{< ref "/f15/language/es.md" >}}) | 341 | 387 | 88.1 | /mnt/stockage/packages/f15/thunar-vfs/po/es.po | 
- | [lv]({{< ref "/f15/language/lv.md" >}}) | 341 | 387 | 88.1 | /mnt/stockage/packages/f15/thunar-vfs/po/lv.po | 
- | [nl]({{< ref "/f15/language/nl.md" >}}) | 341 | 387 | 88.1 | /mnt/stockage/packages/f15/thunar-vfs/po/nl.po | 
- | [pa]({{< ref "/f15/language/pa.md" >}}) | 341 | 387 | 88.1 | /mnt/stockage/packages/f15/thunar-vfs/po/pa.po | 
- | [pt_BR]({{< ref "/f15/language/pt_BR.md" >}}) | 341 | 387 | 88.1 | /mnt/stockage/packages/f15/thunar-vfs/po/pt_BR.po | 
- | [sk]({{< ref "/f15/language/sk.md" >}}) | 341 | 387 | 88.1 | /mnt/stockage/packages/f15/thunar-vfs/po/sk.po | 
- | [ug]({{< ref "/f15/language/ug.md" >}}) | 341 | 387 | 88.1 | /mnt/stockage/packages/f15/thunar-vfs/po/ug.po | 
- | [be]({{< ref "/f15/language/be.md" >}}) | 335 | 387 | 86.6 | /mnt/stockage/packages/f15/thunar-vfs/po/be.po | 
- | [et]({{< ref "/f15/language/et.md" >}}) | 335 | 387 | 86.6 | /mnt/stockage/packages/f15/thunar-vfs/po/et.po | 
- | [ko]({{< ref "/f15/language/ko.md" >}}) | 335 | 387 | 86.6 | /mnt/stockage/packages/f15/thunar-vfs/po/ko.po | 
- | [lt]({{< ref "/f15/language/lt.md" >}}) | 335 | 387 | 86.6 | /mnt/stockage/packages/f15/thunar-vfs/po/lt.po | 
- | [nn]({{< ref "/f15/language/nn.md" >}}) | 335 | 387 | 86.6 | /mnt/stockage/packages/f15/thunar-vfs/po/nn.po | 
- | [pl]({{< ref "/f15/language/pl.md" >}}) | 335 | 387 | 86.6 | /mnt/stockage/packages/f15/thunar-vfs/po/pl.po | 
- | [tr]({{< ref "/f15/language/tr.md" >}}) | 335 | 387 | 86.6 | /mnt/stockage/packages/f15/thunar-vfs/po/tr.po | 
- | [ur]({{< ref "/f15/language/ur.md" >}}) | 335 | 387 | 86.6 | /mnt/stockage/packages/f15/thunar-vfs/po/ur.po | 
- | [ur_PK]({{< ref "/f15/language/ur_PK.md" >}}) | 335 | 387 | 86.6 | /mnt/stockage/packages/f15/thunar-vfs/po/ur_PK.po | 
- | [sq]({{< ref "/f15/language/sq.md" >}}) | 332 | 387 | 85.8 | /mnt/stockage/packages/f15/thunar-vfs/po/sq.po | 
- | [dz]({{< ref "/f15/language/dz.md" >}}) | 313 | 387 | 80.9 | /mnt/stockage/packages/f15/thunar-vfs/po/dz.po | 
- | [eo]({{< ref "/f15/language/eo.md" >}}) | 313 | 387 | 80.9 | /mnt/stockage/packages/f15/thunar-vfs/po/eo.po | 
- | [mk]({{< ref "/f15/language/mk.md" >}}) | 313 | 387 | 80.9 | /mnt/stockage/packages/f15/thunar-vfs/po/mk.po | 
- | [ku]({{< ref "/f15/language/ku.md" >}}) | 310 | 387 | 80.1 | /mnt/stockage/packages/f15/thunar-vfs/po/ku.po | 
- | [vi]({{< ref "/f15/language/vi.md" >}}) | 293 | 387 | 75.7 | /mnt/stockage/packages/f15/thunar-vfs/po/vi.po | 
- | [ar]({{< ref "/f15/language/ar.md" >}}) | 281 | 387 | 72.6 | /mnt/stockage/packages/f15/thunar-vfs/po/ar.po | 
- | [hr]({{< ref "/f15/language/hr.md" >}}) | 265 | 387 | 68.5 | /mnt/stockage/packages/f15/thunar-vfs/po/hr.po | 
- | [ka]({{< ref "/f15/language/ka.md" >}}) | 3 | 387 | 0.8 | /mnt/stockage/packages/f15/thunar-vfs/po/ka.po | 
+ | [ca](/f15/language/ca) | 387 | 387 | 100.0 | /mnt/stockage/packages/f15/thunar-vfs/po/ca.po | 
+ | [cs](/f15/language/cs) | 387 | 387 | 100.0 | /mnt/stockage/packages/f15/thunar-vfs/po/cs.po | 
+ | [da](/f15/language/da) | 387 | 387 | 100.0 | /mnt/stockage/packages/f15/thunar-vfs/po/da.po | 
+ | [de](/f15/language/de) | 387 | 387 | 100.0 | /mnt/stockage/packages/f15/thunar-vfs/po/de.po | 
+ | [el](/f15/language/el) | 387 | 387 | 100.0 | /mnt/stockage/packages/f15/thunar-vfs/po/el.po | 
+ | [en_GB](/f15/language/en_GB) | 387 | 387 | 100.0 | /mnt/stockage/packages/f15/thunar-vfs/po/en_GB.po | 
+ | [eu](/f15/language/eu) | 387 | 387 | 100.0 | /mnt/stockage/packages/f15/thunar-vfs/po/eu.po | 
+ | [fi](/f15/language/fi) | 387 | 387 | 100.0 | /mnt/stockage/packages/f15/thunar-vfs/po/fi.po | 
+ | [fr](/f15/language/fr) | 387 | 387 | 100.0 | /mnt/stockage/packages/f15/thunar-vfs/po/fr.po | 
+ | [gl](/f15/language/gl) | 387 | 387 | 100.0 | /mnt/stockage/packages/f15/thunar-vfs/po/gl.po | 
+ | [he](/f15/language/he) | 387 | 387 | 100.0 | /mnt/stockage/packages/f15/thunar-vfs/po/he.po | 
+ | [hu](/f15/language/hu) | 387 | 387 | 100.0 | /mnt/stockage/packages/f15/thunar-vfs/po/hu.po | 
+ | [id](/f15/language/id) | 387 | 387 | 100.0 | /mnt/stockage/packages/f15/thunar-vfs/po/id.po | 
+ | [it](/f15/language/it) | 387 | 387 | 100.0 | /mnt/stockage/packages/f15/thunar-vfs/po/it.po | 
+ | [ja](/f15/language/ja) | 387 | 387 | 100.0 | /mnt/stockage/packages/f15/thunar-vfs/po/ja.po | 
+ | [kk](/f15/language/kk) | 387 | 387 | 100.0 | /mnt/stockage/packages/f15/thunar-vfs/po/kk.po | 
+ | [nb_NO](/f15/language/nb_NO) | 387 | 387 | 100.0 | /mnt/stockage/packages/f15/thunar-vfs/po/nb.po | 
+ | [pt](/f15/language/pt) | 387 | 387 | 100.0 | /mnt/stockage/packages/f15/thunar-vfs/po/pt.po | 
+ | [ro](/f15/language/ro) | 387 | 387 | 100.0 | /mnt/stockage/packages/f15/thunar-vfs/po/ro.po | 
+ | [sv](/f15/language/sv) | 387 | 387 | 100.0 | /mnt/stockage/packages/f15/thunar-vfs/po/sv.po | 
+ | [uk](/f15/language/uk) | 387 | 387 | 100.0 | /mnt/stockage/packages/f15/thunar-vfs/po/uk.po | 
+ | [zh_Hans](/f15/language/zh_Hans) | 387 | 387 | 100.0 | /mnt/stockage/packages/f15/thunar-vfs/po/zh_CN.po | 
+ | [zh_Hant](/f15/language/zh_Hant) | 387 | 387 | 100.0 | /mnt/stockage/packages/f15/thunar-vfs/po/zh_TW.po | 
+ | [ru](/f15/language/ru) | 385 | 387 | 99.5 | /mnt/stockage/packages/f15/thunar-vfs/po/ru.po | 
+ | [bn](/f15/language/bn) | 341 | 387 | 88.1 | /mnt/stockage/packages/f15/thunar-vfs/po/bn.po | 
+ | [es](/f15/language/es) | 341 | 387 | 88.1 | /mnt/stockage/packages/f15/thunar-vfs/po/es.po | 
+ | [lv](/f15/language/lv) | 341 | 387 | 88.1 | /mnt/stockage/packages/f15/thunar-vfs/po/lv.po | 
+ | [nl](/f15/language/nl) | 341 | 387 | 88.1 | /mnt/stockage/packages/f15/thunar-vfs/po/nl.po | 
+ | [pa](/f15/language/pa) | 341 | 387 | 88.1 | /mnt/stockage/packages/f15/thunar-vfs/po/pa.po | 
+ | [pt_BR](/f15/language/pt_BR) | 341 | 387 | 88.1 | /mnt/stockage/packages/f15/thunar-vfs/po/pt_BR.po | 
+ | [sk](/f15/language/sk) | 341 | 387 | 88.1 | /mnt/stockage/packages/f15/thunar-vfs/po/sk.po | 
+ | [ug](/f15/language/ug) | 341 | 387 | 88.1 | /mnt/stockage/packages/f15/thunar-vfs/po/ug.po | 
+ | [be](/f15/language/be) | 335 | 387 | 86.6 | /mnt/stockage/packages/f15/thunar-vfs/po/be.po | 
+ | [et](/f15/language/et) | 335 | 387 | 86.6 | /mnt/stockage/packages/f15/thunar-vfs/po/et.po | 
+ | [ko](/f15/language/ko) | 335 | 387 | 86.6 | /mnt/stockage/packages/f15/thunar-vfs/po/ko.po | 
+ | [lt](/f15/language/lt) | 335 | 387 | 86.6 | /mnt/stockage/packages/f15/thunar-vfs/po/lt.po | 
+ | [nn](/f15/language/nn) | 335 | 387 | 86.6 | /mnt/stockage/packages/f15/thunar-vfs/po/nn.po | 
+ | [pl](/f15/language/pl) | 335 | 387 | 86.6 | /mnt/stockage/packages/f15/thunar-vfs/po/pl.po | 
+ | [tr](/f15/language/tr) | 335 | 387 | 86.6 | /mnt/stockage/packages/f15/thunar-vfs/po/tr.po | 
+ | [ur](/f15/language/ur) | 335 | 387 | 86.6 | /mnt/stockage/packages/f15/thunar-vfs/po/ur.po | 
+ | [ur_PK](/f15/language/ur_PK) | 335 | 387 | 86.6 | /mnt/stockage/packages/f15/thunar-vfs/po/ur_PK.po | 
+ | [sq](/f15/language/sq) | 332 | 387 | 85.8 | /mnt/stockage/packages/f15/thunar-vfs/po/sq.po | 
+ | [dz](/f15/language/dz) | 313 | 387 | 80.9 | /mnt/stockage/packages/f15/thunar-vfs/po/dz.po | 
+ | [eo](/f15/language/eo) | 313 | 387 | 80.9 | /mnt/stockage/packages/f15/thunar-vfs/po/eo.po | 
+ | [mk](/f15/language/mk) | 313 | 387 | 80.9 | /mnt/stockage/packages/f15/thunar-vfs/po/mk.po | 
+ | [ku](/f15/language/ku) | 310 | 387 | 80.1 | /mnt/stockage/packages/f15/thunar-vfs/po/ku.po | 
+ | [vi](/f15/language/vi) | 293 | 387 | 75.7 | /mnt/stockage/packages/f15/thunar-vfs/po/vi.po | 
+ | [ar](/f15/language/ar) | 281 | 387 | 72.6 | /mnt/stockage/packages/f15/thunar-vfs/po/ar.po | 
+ | [hr](/f15/language/hr) | 265 | 387 | 68.5 | /mnt/stockage/packages/f15/thunar-vfs/po/hr.po | 
+ | [ka](/f15/language/ka) | 3 | 387 | 0.8 | /mnt/stockage/packages/f15/thunar-vfs/po/ka.po | 
 {.sortable}
 
 

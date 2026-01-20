@@ -45,14 +45,14 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [amarok]({{< ref "/f12/package/amarok.md" >}}) | 12039 | 12039 | 100.0 | Serbian <kde-i18n-sr@kde.org> | 
- | [kde-l10n]({{< ref "/f12/package/kde-l10n.md" >}}) | 243136 | 243136 | 100.0 | Serbian <kde-i18n-sr@kde.org> | 
- | [kmid2]({{< ref "/f12/package/kmid2.md" >}}) | 947 | 947 | 100.0 | sr <kde-i18n-sr@kde.org> | 
- | [ktorrent]({{< ref "/f12/package/ktorrent.md" >}}) | 7562 | 7562 | 100.0 | Serbian <kde-i18n-sr@kde.org> | 
- | [libktorrent]({{< ref "/f12/package/libktorrent.md" >}}) | 417 | 417 | 100.0 | Serbian <kde-i18n-sr@kde.org> | 
- | [kaffeine]({{< ref "/f12/package/kaffeine.md" >}}) | 489 | 507 | 96.4 | Serbian <kde-i18n-sr@kde.org> | 
- | [kwebkitpart]({{< ref "/f12/package/kwebkitpart.md" >}}) | 457 | 477 | 95.8 | Serbian <kde-i18n-sr@kde.org> | 
- | [knemo]({{< ref "/f12/package/knemo.md" >}}) | 1052 | 1103 | 95.4 | Serbian <kde-i18n-sr@kde.org> | 
+ | [amarok](/f12/package/amarok) | 12039 | 12039 | 100.0 | Serbian <kde-i18n-sr@kde.org> | 
+ | [kde-l10n](/f12/package/kde-l10n) | 243136 | 243136 | 100.0 | Serbian <kde-i18n-sr@kde.org> | 
+ | [kmid2](/f12/package/kmid2) | 947 | 947 | 100.0 | sr <kde-i18n-sr@kde.org> | 
+ | [ktorrent](/f12/package/ktorrent) | 7562 | 7562 | 100.0 | Serbian <kde-i18n-sr@kde.org> | 
+ | [libktorrent](/f12/package/libktorrent) | 417 | 417 | 100.0 | Serbian <kde-i18n-sr@kde.org> | 
+ | [kaffeine](/f12/package/kaffeine) | 489 | 507 | 96.4 | Serbian <kde-i18n-sr@kde.org> | 
+ | [kwebkitpart](/f12/package/kwebkitpart) | 457 | 477 | 95.8 | Serbian <kde-i18n-sr@kde.org> | 
+ | [knemo](/f12/package/knemo) | 1052 | 1103 | 95.4 | Serbian <kde-i18n-sr@kde.org> | 
 {.sortable}
 
 

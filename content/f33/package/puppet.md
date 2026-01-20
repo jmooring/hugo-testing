@@ -18,7 +18,7 @@ The package puppet (version 5.5.20):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [en]({{< ref "/f33/language/en.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f33/puppet/locales/en/puppet.po | 
+ | [en](/f33/language/en) | 0 | 0 | 0.0 | /mnt/stockage/packages/f33/puppet/locales/en/puppet.po | 
 {.sortable}
 
 

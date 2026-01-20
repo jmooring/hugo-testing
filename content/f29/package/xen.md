@@ -18,14 +18,14 @@ The package xen (version 4.11.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [bg]({{< ref "/f29/language/bg.md" >}}) | 33 | 33 | 100.0 | /mnt/stockage/packages/f29/xen/tools/qemu-xen/po/bg.po | 
- | [de]({{< ref "/f29/language/de.md" >}}) | 33 | 33 | 100.0 | /mnt/stockage/packages/f29/xen/tools/qemu-xen/po/de_DE.po | 
- | [fr]({{< ref "/f29/language/fr.md" >}}) | 33 | 33 | 100.0 | /mnt/stockage/packages/f29/xen/tools/qemu-xen/po/fr_FR.po | 
- | [it]({{< ref "/f29/language/it.md" >}}) | 33 | 33 | 100.0 | /mnt/stockage/packages/f29/xen/tools/qemu-xen/po/it.po | 
- | [zh_Hans]({{< ref "/f29/language/zh_Hans.md" >}}) | 33 | 33 | 100.0 | /mnt/stockage/packages/f29/xen/tools/qemu-xen/po/zh_CN.po | 
- | [hu]({{< ref "/f29/language/hu.md" >}}) | 22 | 33 | 66.7 | /mnt/stockage/packages/f29/xen/tools/qemu-xen/po/hu.po | 
- | [tr]({{< ref "/f29/language/tr.md" >}}) | 22 | 33 | 66.7 | /mnt/stockage/packages/f29/xen/tools/qemu-xen/po/tr.po | 
- | [error]({{< ref "/f29/language/error.md" >}}) | 0 | 33 | 0.0 | /mnt/stockage/packages/f29/xen/tools/qemu-xen/po/messages.po | 
+ | [bg](/f29/language/bg) | 33 | 33 | 100.0 | /mnt/stockage/packages/f29/xen/tools/qemu-xen/po/bg.po | 
+ | [de](/f29/language/de) | 33 | 33 | 100.0 | /mnt/stockage/packages/f29/xen/tools/qemu-xen/po/de_DE.po | 
+ | [fr](/f29/language/fr) | 33 | 33 | 100.0 | /mnt/stockage/packages/f29/xen/tools/qemu-xen/po/fr_FR.po | 
+ | [it](/f29/language/it) | 33 | 33 | 100.0 | /mnt/stockage/packages/f29/xen/tools/qemu-xen/po/it.po | 
+ | [zh_Hans](/f29/language/zh_Hans) | 33 | 33 | 100.0 | /mnt/stockage/packages/f29/xen/tools/qemu-xen/po/zh_CN.po | 
+ | [hu](/f29/language/hu) | 22 | 33 | 66.7 | /mnt/stockage/packages/f29/xen/tools/qemu-xen/po/hu.po | 
+ | [tr](/f29/language/tr) | 22 | 33 | 66.7 | /mnt/stockage/packages/f29/xen/tools/qemu-xen/po/tr.po | 
+ | [error](/f29/language/error) | 0 | 33 | 0.0 | /mnt/stockage/packages/f29/xen/tools/qemu-xen/po/messages.po | 
 {.sortable}
 
 

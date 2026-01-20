@@ -18,19 +18,19 @@ The package direvent (version 5.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [da]({{< ref "/f35/language/da.md" >}}) | 705 | 764 | 92.3 | /mnt/stockage/packages/f35/direvent/po/da.po | 
- | [de]({{< ref "/f35/language/de.md" >}}) | 705 | 764 | 92.3 | /mnt/stockage/packages/f35/direvent/po/de.po | 
- | [eo]({{< ref "/f35/language/eo.md" >}}) | 705 | 764 | 92.3 | /mnt/stockage/packages/f35/direvent/po/eo.po | 
- | [es]({{< ref "/f35/language/es.md" >}}) | 705 | 764 | 92.3 | /mnt/stockage/packages/f35/direvent/po/es.po | 
- | [fr]({{< ref "/f35/language/fr.md" >}}) | 705 | 764 | 92.3 | /mnt/stockage/packages/f35/direvent/po/fr.po | 
- | [hu]({{< ref "/f35/language/hu.md" >}}) | 705 | 764 | 92.3 | /mnt/stockage/packages/f35/direvent/po/hu.po | 
- | [nl]({{< ref "/f35/language/nl.md" >}}) | 705 | 764 | 92.3 | /mnt/stockage/packages/f35/direvent/po/nl.po | 
- | [pl]({{< ref "/f35/language/pl.md" >}}) | 705 | 764 | 92.3 | /mnt/stockage/packages/f35/direvent/po/pl.po | 
- | [pt_BR]({{< ref "/f35/language/pt_BR.md" >}}) | 705 | 764 | 92.3 | /mnt/stockage/packages/f35/direvent/po/pt_BR.po | 
- | [sr]({{< ref "/f35/language/sr.md" >}}) | 705 | 764 | 92.3 | /mnt/stockage/packages/f35/direvent/po/sr.po | 
- | [sv]({{< ref "/f35/language/sv.md" >}}) | 705 | 764 | 92.3 | /mnt/stockage/packages/f35/direvent/po/sv.po | 
- | [uk]({{< ref "/f35/language/uk.md" >}}) | 705 | 764 | 92.3 | /mnt/stockage/packages/f35/direvent/po/uk.po | 
- | [vi]({{< ref "/f35/language/vi.md" >}}) | 705 | 764 | 92.3 | /mnt/stockage/packages/f35/direvent/po/vi.po | 
+ | [da](/f35/language/da) | 705 | 764 | 92.3 | /mnt/stockage/packages/f35/direvent/po/da.po | 
+ | [de](/f35/language/de) | 705 | 764 | 92.3 | /mnt/stockage/packages/f35/direvent/po/de.po | 
+ | [eo](/f35/language/eo) | 705 | 764 | 92.3 | /mnt/stockage/packages/f35/direvent/po/eo.po | 
+ | [es](/f35/language/es) | 705 | 764 | 92.3 | /mnt/stockage/packages/f35/direvent/po/es.po | 
+ | [fr](/f35/language/fr) | 705 | 764 | 92.3 | /mnt/stockage/packages/f35/direvent/po/fr.po | 
+ | [hu](/f35/language/hu) | 705 | 764 | 92.3 | /mnt/stockage/packages/f35/direvent/po/hu.po | 
+ | [nl](/f35/language/nl) | 705 | 764 | 92.3 | /mnt/stockage/packages/f35/direvent/po/nl.po | 
+ | [pl](/f35/language/pl) | 705 | 764 | 92.3 | /mnt/stockage/packages/f35/direvent/po/pl.po | 
+ | [pt_BR](/f35/language/pt_BR) | 705 | 764 | 92.3 | /mnt/stockage/packages/f35/direvent/po/pt_BR.po | 
+ | [sr](/f35/language/sr) | 705 | 764 | 92.3 | /mnt/stockage/packages/f35/direvent/po/sr.po | 
+ | [sv](/f35/language/sv) | 705 | 764 | 92.3 | /mnt/stockage/packages/f35/direvent/po/sv.po | 
+ | [uk](/f35/language/uk) | 705 | 764 | 92.3 | /mnt/stockage/packages/f35/direvent/po/uk.po | 
+ | [vi](/f35/language/vi) | 705 | 764 | 92.3 | /mnt/stockage/packages/f35/direvent/po/vi.po | 
 {.sortable}
 
 

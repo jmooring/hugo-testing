@@ -18,15 +18,15 @@ The package lordsawar (version 0.3.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [da]({{< ref "/f34/language/da.md" >}}) | 7170 | 7170 | 100.0 | /mnt/stockage/packages/f34/lordsawar/po/da.po | 
- | [de]({{< ref "/f34/language/de.md" >}}) | 5718 | 5718 | 100.0 | /mnt/stockage/packages/f34/lordsawar/po/de.po | 
- | [fr]({{< ref "/f34/language/fr.md" >}}) | 6934 | 6934 | 100.0 | /mnt/stockage/packages/f34/lordsawar/po/fr.po | 
- | [sv]({{< ref "/f34/language/sv.md" >}}) | 7170 | 7170 | 100.0 | /mnt/stockage/packages/f34/lordsawar/po/sv.po | 
- | [tr]({{< ref "/f34/language/tr.md" >}}) | 7170 | 7170 | 100.0 | /mnt/stockage/packages/f34/lordsawar/po/tr.po | 
- | [ca]({{< ref "/f34/language/ca.md" >}}) | 6461 | 6858 | 94.2 | /mnt/stockage/packages/f34/lordsawar/po/ca.po | 
- | [nl]({{< ref "/f34/language/nl.md" >}}) | 1618 | 3178 | 50.9 | /mnt/stockage/packages/f34/lordsawar/po/nl.po | 
- | [pl]({{< ref "/f34/language/pl.md" >}}) | 942 | 5718 | 16.5 | /mnt/stockage/packages/f34/lordsawar/po/pl.po | 
- | [hu]({{< ref "/f34/language/hu.md" >}}) | 1126 | 6927 | 16.3 | /mnt/stockage/packages/f34/lordsawar/po/hu.po | 
+ | [da](/f34/language/da) | 7170 | 7170 | 100.0 | /mnt/stockage/packages/f34/lordsawar/po/da.po | 
+ | [de](/f34/language/de) | 5718 | 5718 | 100.0 | /mnt/stockage/packages/f34/lordsawar/po/de.po | 
+ | [fr](/f34/language/fr) | 6934 | 6934 | 100.0 | /mnt/stockage/packages/f34/lordsawar/po/fr.po | 
+ | [sv](/f34/language/sv) | 7170 | 7170 | 100.0 | /mnt/stockage/packages/f34/lordsawar/po/sv.po | 
+ | [tr](/f34/language/tr) | 7170 | 7170 | 100.0 | /mnt/stockage/packages/f34/lordsawar/po/tr.po | 
+ | [ca](/f34/language/ca) | 6461 | 6858 | 94.2 | /mnt/stockage/packages/f34/lordsawar/po/ca.po | 
+ | [nl](/f34/language/nl) | 1618 | 3178 | 50.9 | /mnt/stockage/packages/f34/lordsawar/po/nl.po | 
+ | [pl](/f34/language/pl) | 942 | 5718 | 16.5 | /mnt/stockage/packages/f34/lordsawar/po/pl.po | 
+ | [hu](/f34/language/hu) | 1126 | 6927 | 16.3 | /mnt/stockage/packages/f34/lordsawar/po/hu.po | 
 {.sortable}
 
 

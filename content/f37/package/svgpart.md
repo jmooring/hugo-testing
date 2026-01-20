@@ -18,68 +18,68 @@ The package svgpart (version 23.04.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f37/language/ar.md" >}}) | 3 | 3 | 100.0 | /mnt/stockage/packages/f37/svgpart/po/ar/svgpart.po | 
- | [be]({{< ref "/f37/language/be.md" >}}) | 3 | 3 | 100.0 | /mnt/stockage/packages/f37/svgpart/po/be/svgpart.po | 
- | [bg]({{< ref "/f37/language/bg.md" >}}) | 3 | 3 | 100.0 | /mnt/stockage/packages/f37/svgpart/po/bg/svgpart.po | 
- | [bs]({{< ref "/f37/language/bs.md" >}}) | 3 | 3 | 100.0 | /mnt/stockage/packages/f37/svgpart/po/bs/svgpart.po | 
- | [ca]({{< ref "/f37/language/ca.md" >}}) | 3 | 3 | 100.0 | /mnt/stockage/packages/f37/svgpart/po/ca/svgpart.po | 
- | [ca@valencia]({{< ref "/f37/language/ca@valencia.md" >}}) | 3 | 3 | 100.0 | /mnt/stockage/packages/f37/svgpart/po/ca@valencia/svgpart.po | 
- | [cs]({{< ref "/f37/language/cs.md" >}}) | 3 | 3 | 100.0 | /mnt/stockage/packages/f37/svgpart/po/cs/svgpart.po | 
- | [da]({{< ref "/f37/language/da.md" >}}) | 3 | 3 | 100.0 | /mnt/stockage/packages/f37/svgpart/po/da/svgpart.po | 
- | [de]({{< ref "/f37/language/de.md" >}}) | 3 | 3 | 100.0 | /mnt/stockage/packages/f37/svgpart/po/de/svgpart.po | 
- | [el]({{< ref "/f37/language/el.md" >}}) | 3 | 3 | 100.0 | /mnt/stockage/packages/f37/svgpart/po/el/svgpart.po | 
- | [en_GB]({{< ref "/f37/language/en_GB.md" >}}) | 3 | 3 | 100.0 | /mnt/stockage/packages/f37/svgpart/po/en_GB/svgpart.po | 
- | [eo]({{< ref "/f37/language/eo.md" >}}) | 3 | 3 | 100.0 | /mnt/stockage/packages/f37/svgpart/po/eo/svgpart.po | 
- | [es]({{< ref "/f37/language/es.md" >}}) | 3 | 3 | 100.0 | /mnt/stockage/packages/f37/svgpart/po/es/svgpart.po | 
- | [et]({{< ref "/f37/language/et.md" >}}) | 3 | 3 | 100.0 | /mnt/stockage/packages/f37/svgpart/po/et/svgpart.po | 
- | [eu]({{< ref "/f37/language/eu.md" >}}) | 3 | 3 | 100.0 | /mnt/stockage/packages/f37/svgpart/po/eu/svgpart.po | 
- | [fi]({{< ref "/f37/language/fi.md" >}}) | 3 | 3 | 100.0 | /mnt/stockage/packages/f37/svgpart/po/fi/svgpart.po | 
- | [fr]({{< ref "/f37/language/fr.md" >}}) | 3 | 3 | 100.0 | /mnt/stockage/packages/f37/svgpart/po/fr/svgpart.po | 
- | [ga]({{< ref "/f37/language/ga.md" >}}) | 3 | 3 | 100.0 | /mnt/stockage/packages/f37/svgpart/po/ga/svgpart.po | 
- | [gl]({{< ref "/f37/language/gl.md" >}}) | 3 | 3 | 100.0 | /mnt/stockage/packages/f37/svgpart/po/gl/svgpart.po | 
- | [hi]({{< ref "/f37/language/hi.md" >}}) | 3 | 3 | 100.0 | /mnt/stockage/packages/f37/svgpart/po/hi/svgpart.po | 
- | [hr]({{< ref "/f37/language/hr.md" >}}) | 3 | 3 | 100.0 | /mnt/stockage/packages/f37/svgpart/po/hr/svgpart.po | 
- | [hu]({{< ref "/f37/language/hu.md" >}}) | 3 | 3 | 100.0 | /mnt/stockage/packages/f37/svgpart/po/hu/svgpart.po | 
- | [ia]({{< ref "/f37/language/ia.md" >}}) | 3 | 3 | 100.0 | /mnt/stockage/packages/f37/svgpart/po/ia/svgpart.po | 
- | [id]({{< ref "/f37/language/id.md" >}}) | 3 | 3 | 100.0 | /mnt/stockage/packages/f37/svgpart/po/id/svgpart.po | 
- | [ie]({{< ref "/f37/language/ie.md" >}}) | 3 | 3 | 100.0 | /mnt/stockage/packages/f37/svgpart/po/ie/svgpart.po | 
- | [is]({{< ref "/f37/language/is.md" >}}) | 3 | 3 | 100.0 | /mnt/stockage/packages/f37/svgpart/po/is/svgpart.po | 
- | [it]({{< ref "/f37/language/it.md" >}}) | 3 | 3 | 100.0 | /mnt/stockage/packages/f37/svgpart/po/it/svgpart.po | 
- | [ja]({{< ref "/f37/language/ja.md" >}}) | 3 | 3 | 100.0 | /mnt/stockage/packages/f37/svgpart/po/ja/svgpart.po | 
- | [ka]({{< ref "/f37/language/ka.md" >}}) | 3 | 3 | 100.0 | /mnt/stockage/packages/f37/svgpart/po/ka/svgpart.po | 
- | [kk]({{< ref "/f37/language/kk.md" >}}) | 3 | 3 | 100.0 | /mnt/stockage/packages/f37/svgpart/po/kk/svgpart.po | 
- | [km]({{< ref "/f37/language/km.md" >}}) | 3 | 3 | 100.0 | /mnt/stockage/packages/f37/svgpart/po/km/svgpart.po | 
- | [ko]({{< ref "/f37/language/ko.md" >}}) | 3 | 3 | 100.0 | /mnt/stockage/packages/f37/svgpart/po/ko/svgpart.po | 
- | [ku]({{< ref "/f37/language/ku.md" >}}) | 3 | 3 | 100.0 | /mnt/stockage/packages/f37/svgpart/po/ku/svgpart.po | 
- | [lt]({{< ref "/f37/language/lt.md" >}}) | 3 | 3 | 100.0 | /mnt/stockage/packages/f37/svgpart/po/lt/svgpart.po | 
- | [lv]({{< ref "/f37/language/lv.md" >}}) | 3 | 3 | 100.0 | /mnt/stockage/packages/f37/svgpart/po/lv/svgpart.po | 
- | [mk]({{< ref "/f37/language/mk.md" >}}) | 3 | 3 | 100.0 | /mnt/stockage/packages/f37/svgpart/po/mk/svgpart.po | 
- | [mr]({{< ref "/f37/language/mr.md" >}}) | 3 | 3 | 100.0 | /mnt/stockage/packages/f37/svgpart/po/mr/svgpart.po | 
- | [nb_NO]({{< ref "/f37/language/nb_NO.md" >}}) | 3 | 3 | 100.0 | /mnt/stockage/packages/f37/svgpart/po/nb/svgpart.po | 
- | [nds]({{< ref "/f37/language/nds.md" >}}) | 3 | 3 | 100.0 | /mnt/stockage/packages/f37/svgpart/po/nds/svgpart.po | 
- | [nl]({{< ref "/f37/language/nl.md" >}}) | 3 | 3 | 100.0 | /mnt/stockage/packages/f37/svgpart/po/nl/svgpart.po | 
- | [nn]({{< ref "/f37/language/nn.md" >}}) | 3 | 3 | 100.0 | /mnt/stockage/packages/f37/svgpart/po/nn/svgpart.po | 
- | [pa]({{< ref "/f37/language/pa.md" >}}) | 3 | 3 | 100.0 | /mnt/stockage/packages/f37/svgpart/po/pa/svgpart.po | 
- | [pl]({{< ref "/f37/language/pl.md" >}}) | 3 | 3 | 100.0 | /mnt/stockage/packages/f37/svgpart/po/pl/svgpart.po | 
- | [pt]({{< ref "/f37/language/pt.md" >}}) | 3 | 3 | 100.0 | /mnt/stockage/packages/f37/svgpart/po/pt/svgpart.po | 
- | [pt_BR]({{< ref "/f37/language/pt_BR.md" >}}) | 3 | 3 | 100.0 | /mnt/stockage/packages/f37/svgpart/po/pt_BR/svgpart.po | 
- | [ro]({{< ref "/f37/language/ro.md" >}}) | 3 | 3 | 100.0 | /mnt/stockage/packages/f37/svgpart/po/ro/svgpart.po | 
- | [ru]({{< ref "/f37/language/ru.md" >}}) | 3 | 3 | 100.0 | /mnt/stockage/packages/f37/svgpart/po/ru/svgpart.po | 
- | [sk]({{< ref "/f37/language/sk.md" >}}) | 3 | 3 | 100.0 | /mnt/stockage/packages/f37/svgpart/po/sk/svgpart.po | 
- | [sl]({{< ref "/f37/language/sl.md" >}}) | 3 | 3 | 100.0 | /mnt/stockage/packages/f37/svgpart/po/sl/svgpart.po | 
- | [sq]({{< ref "/f37/language/sq.md" >}}) | 3 | 3 | 100.0 | /mnt/stockage/packages/f37/svgpart/po/sq/svgpart.po | 
- | [sv]({{< ref "/f37/language/sv.md" >}}) | 3 | 3 | 100.0 | /mnt/stockage/packages/f37/svgpart/po/sv/svgpart.po | 
- | [ta]({{< ref "/f37/language/ta.md" >}}) | 3 | 3 | 100.0 | /mnt/stockage/packages/f37/svgpart/po/ta/svgpart.po | 
- | [th]({{< ref "/f37/language/th.md" >}}) | 3 | 3 | 100.0 | /mnt/stockage/packages/f37/svgpart/po/th/svgpart.po | 
- | [tr]({{< ref "/f37/language/tr.md" >}}) | 3 | 3 | 100.0 | /mnt/stockage/packages/f37/svgpart/po/tr/svgpart.po | 
- | [ug]({{< ref "/f37/language/ug.md" >}}) | 3 | 3 | 100.0 | /mnt/stockage/packages/f37/svgpart/po/ug/svgpart.po | 
- | [uk]({{< ref "/f37/language/uk.md" >}}) | 3 | 3 | 100.0 | /mnt/stockage/packages/f37/svgpart/po/uk/svgpart.po | 
- | [vi]({{< ref "/f37/language/vi.md" >}}) | 3 | 3 | 100.0 | /mnt/stockage/packages/f37/svgpart/po/vi/svgpart.po | 
- | [wa]({{< ref "/f37/language/wa.md" >}}) | 3 | 3 | 100.0 | /mnt/stockage/packages/f37/svgpart/po/wa/svgpart.po | 
- | [zh_Hans]({{< ref "/f37/language/zh_Hans.md" >}}) | 3 | 3 | 100.0 | /mnt/stockage/packages/f37/svgpart/po/zh_CN/svgpart.po | 
- | [zh_Hant]({{< ref "/f37/language/zh_Hant.md" >}}) | 3 | 3 | 100.0 | /mnt/stockage/packages/f37/svgpart/po/zh_TW/svgpart.po | 
- | [ml]({{< ref "/f37/language/ml.md" >}}) | 1 | 3 | 33.3 | /mnt/stockage/packages/f37/svgpart/po/ml/svgpart.po | 
- | [si]({{< ref "/f37/language/si.md" >}}) | 1 | 3 | 33.3 | /mnt/stockage/packages/f37/svgpart/po/si/svgpart.po | 
+ | [ar](/f37/language/ar) | 3 | 3 | 100.0 | /mnt/stockage/packages/f37/svgpart/po/ar/svgpart.po | 
+ | [be](/f37/language/be) | 3 | 3 | 100.0 | /mnt/stockage/packages/f37/svgpart/po/be/svgpart.po | 
+ | [bg](/f37/language/bg) | 3 | 3 | 100.0 | /mnt/stockage/packages/f37/svgpart/po/bg/svgpart.po | 
+ | [bs](/f37/language/bs) | 3 | 3 | 100.0 | /mnt/stockage/packages/f37/svgpart/po/bs/svgpart.po | 
+ | [ca](/f37/language/ca) | 3 | 3 | 100.0 | /mnt/stockage/packages/f37/svgpart/po/ca/svgpart.po | 
+ | [ca@valencia](/f37/language/ca@valencia) | 3 | 3 | 100.0 | /mnt/stockage/packages/f37/svgpart/po/ca@valencia/svgpart.po | 
+ | [cs](/f37/language/cs) | 3 | 3 | 100.0 | /mnt/stockage/packages/f37/svgpart/po/cs/svgpart.po | 
+ | [da](/f37/language/da) | 3 | 3 | 100.0 | /mnt/stockage/packages/f37/svgpart/po/da/svgpart.po | 
+ | [de](/f37/language/de) | 3 | 3 | 100.0 | /mnt/stockage/packages/f37/svgpart/po/de/svgpart.po | 
+ | [el](/f37/language/el) | 3 | 3 | 100.0 | /mnt/stockage/packages/f37/svgpart/po/el/svgpart.po | 
+ | [en_GB](/f37/language/en_GB) | 3 | 3 | 100.0 | /mnt/stockage/packages/f37/svgpart/po/en_GB/svgpart.po | 
+ | [eo](/f37/language/eo) | 3 | 3 | 100.0 | /mnt/stockage/packages/f37/svgpart/po/eo/svgpart.po | 
+ | [es](/f37/language/es) | 3 | 3 | 100.0 | /mnt/stockage/packages/f37/svgpart/po/es/svgpart.po | 
+ | [et](/f37/language/et) | 3 | 3 | 100.0 | /mnt/stockage/packages/f37/svgpart/po/et/svgpart.po | 
+ | [eu](/f37/language/eu) | 3 | 3 | 100.0 | /mnt/stockage/packages/f37/svgpart/po/eu/svgpart.po | 
+ | [fi](/f37/language/fi) | 3 | 3 | 100.0 | /mnt/stockage/packages/f37/svgpart/po/fi/svgpart.po | 
+ | [fr](/f37/language/fr) | 3 | 3 | 100.0 | /mnt/stockage/packages/f37/svgpart/po/fr/svgpart.po | 
+ | [ga](/f37/language/ga) | 3 | 3 | 100.0 | /mnt/stockage/packages/f37/svgpart/po/ga/svgpart.po | 
+ | [gl](/f37/language/gl) | 3 | 3 | 100.0 | /mnt/stockage/packages/f37/svgpart/po/gl/svgpart.po | 
+ | [hi](/f37/language/hi) | 3 | 3 | 100.0 | /mnt/stockage/packages/f37/svgpart/po/hi/svgpart.po | 
+ | [hr](/f37/language/hr) | 3 | 3 | 100.0 | /mnt/stockage/packages/f37/svgpart/po/hr/svgpart.po | 
+ | [hu](/f37/language/hu) | 3 | 3 | 100.0 | /mnt/stockage/packages/f37/svgpart/po/hu/svgpart.po | 
+ | [ia](/f37/language/ia) | 3 | 3 | 100.0 | /mnt/stockage/packages/f37/svgpart/po/ia/svgpart.po | 
+ | [id](/f37/language/id) | 3 | 3 | 100.0 | /mnt/stockage/packages/f37/svgpart/po/id/svgpart.po | 
+ | [ie](/f37/language/ie) | 3 | 3 | 100.0 | /mnt/stockage/packages/f37/svgpart/po/ie/svgpart.po | 
+ | [is](/f37/language/is) | 3 | 3 | 100.0 | /mnt/stockage/packages/f37/svgpart/po/is/svgpart.po | 
+ | [it](/f37/language/it) | 3 | 3 | 100.0 | /mnt/stockage/packages/f37/svgpart/po/it/svgpart.po | 
+ | [ja](/f37/language/ja) | 3 | 3 | 100.0 | /mnt/stockage/packages/f37/svgpart/po/ja/svgpart.po | 
+ | [ka](/f37/language/ka) | 3 | 3 | 100.0 | /mnt/stockage/packages/f37/svgpart/po/ka/svgpart.po | 
+ | [kk](/f37/language/kk) | 3 | 3 | 100.0 | /mnt/stockage/packages/f37/svgpart/po/kk/svgpart.po | 
+ | [km](/f37/language/km) | 3 | 3 | 100.0 | /mnt/stockage/packages/f37/svgpart/po/km/svgpart.po | 
+ | [ko](/f37/language/ko) | 3 | 3 | 100.0 | /mnt/stockage/packages/f37/svgpart/po/ko/svgpart.po | 
+ | [ku](/f37/language/ku) | 3 | 3 | 100.0 | /mnt/stockage/packages/f37/svgpart/po/ku/svgpart.po | 
+ | [lt](/f37/language/lt) | 3 | 3 | 100.0 | /mnt/stockage/packages/f37/svgpart/po/lt/svgpart.po | 
+ | [lv](/f37/language/lv) | 3 | 3 | 100.0 | /mnt/stockage/packages/f37/svgpart/po/lv/svgpart.po | 
+ | [mk](/f37/language/mk) | 3 | 3 | 100.0 | /mnt/stockage/packages/f37/svgpart/po/mk/svgpart.po | 
+ | [mr](/f37/language/mr) | 3 | 3 | 100.0 | /mnt/stockage/packages/f37/svgpart/po/mr/svgpart.po | 
+ | [nb_NO](/f37/language/nb_NO) | 3 | 3 | 100.0 | /mnt/stockage/packages/f37/svgpart/po/nb/svgpart.po | 
+ | [nds](/f37/language/nds) | 3 | 3 | 100.0 | /mnt/stockage/packages/f37/svgpart/po/nds/svgpart.po | 
+ | [nl](/f37/language/nl) | 3 | 3 | 100.0 | /mnt/stockage/packages/f37/svgpart/po/nl/svgpart.po | 
+ | [nn](/f37/language/nn) | 3 | 3 | 100.0 | /mnt/stockage/packages/f37/svgpart/po/nn/svgpart.po | 
+ | [pa](/f37/language/pa) | 3 | 3 | 100.0 | /mnt/stockage/packages/f37/svgpart/po/pa/svgpart.po | 
+ | [pl](/f37/language/pl) | 3 | 3 | 100.0 | /mnt/stockage/packages/f37/svgpart/po/pl/svgpart.po | 
+ | [pt](/f37/language/pt) | 3 | 3 | 100.0 | /mnt/stockage/packages/f37/svgpart/po/pt/svgpart.po | 
+ | [pt_BR](/f37/language/pt_BR) | 3 | 3 | 100.0 | /mnt/stockage/packages/f37/svgpart/po/pt_BR/svgpart.po | 
+ | [ro](/f37/language/ro) | 3 | 3 | 100.0 | /mnt/stockage/packages/f37/svgpart/po/ro/svgpart.po | 
+ | [ru](/f37/language/ru) | 3 | 3 | 100.0 | /mnt/stockage/packages/f37/svgpart/po/ru/svgpart.po | 
+ | [sk](/f37/language/sk) | 3 | 3 | 100.0 | /mnt/stockage/packages/f37/svgpart/po/sk/svgpart.po | 
+ | [sl](/f37/language/sl) | 3 | 3 | 100.0 | /mnt/stockage/packages/f37/svgpart/po/sl/svgpart.po | 
+ | [sq](/f37/language/sq) | 3 | 3 | 100.0 | /mnt/stockage/packages/f37/svgpart/po/sq/svgpart.po | 
+ | [sv](/f37/language/sv) | 3 | 3 | 100.0 | /mnt/stockage/packages/f37/svgpart/po/sv/svgpart.po | 
+ | [ta](/f37/language/ta) | 3 | 3 | 100.0 | /mnt/stockage/packages/f37/svgpart/po/ta/svgpart.po | 
+ | [th](/f37/language/th) | 3 | 3 | 100.0 | /mnt/stockage/packages/f37/svgpart/po/th/svgpart.po | 
+ | [tr](/f37/language/tr) | 3 | 3 | 100.0 | /mnt/stockage/packages/f37/svgpart/po/tr/svgpart.po | 
+ | [ug](/f37/language/ug) | 3 | 3 | 100.0 | /mnt/stockage/packages/f37/svgpart/po/ug/svgpart.po | 
+ | [uk](/f37/language/uk) | 3 | 3 | 100.0 | /mnt/stockage/packages/f37/svgpart/po/uk/svgpart.po | 
+ | [vi](/f37/language/vi) | 3 | 3 | 100.0 | /mnt/stockage/packages/f37/svgpart/po/vi/svgpart.po | 
+ | [wa](/f37/language/wa) | 3 | 3 | 100.0 | /mnt/stockage/packages/f37/svgpart/po/wa/svgpart.po | 
+ | [zh_Hans](/f37/language/zh_Hans) | 3 | 3 | 100.0 | /mnt/stockage/packages/f37/svgpart/po/zh_CN/svgpart.po | 
+ | [zh_Hant](/f37/language/zh_Hant) | 3 | 3 | 100.0 | /mnt/stockage/packages/f37/svgpart/po/zh_TW/svgpart.po | 
+ | [ml](/f37/language/ml) | 1 | 3 | 33.3 | /mnt/stockage/packages/f37/svgpart/po/ml/svgpart.po | 
+ | [si](/f37/language/si) | 1 | 3 | 33.3 | /mnt/stockage/packages/f37/svgpart/po/si/svgpart.po | 
 {.sortable}
 
 

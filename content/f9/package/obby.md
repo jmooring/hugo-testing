@@ -18,12 +18,12 @@ The package obby (version 0.4.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f9/language/ca.md" >}}) | 159 | 159 | 100.0 | /mnt/stockage/packages/f9/obby/po/ca.po | 
- | [de]({{< ref "/f9/language/de.md" >}}) | 159 | 159 | 100.0 | /mnt/stockage/packages/f9/obby/po/de.po | 
- | [es]({{< ref "/f9/language/es.md" >}}) | 159 | 159 | 100.0 | /mnt/stockage/packages/f9/obby/po/es.po | 
- | [sv]({{< ref "/f9/language/sv.md" >}}) | 148 | 159 | 93.1 | /mnt/stockage/packages/f9/obby/po/sv.po | 
- | [nl]({{< ref "/f9/language/nl.md" >}}) | 89 | 159 | 56.0 | /mnt/stockage/packages/f9/obby/po/nl.po | 
- | [fr]({{< ref "/f9/language/fr.md" >}}) | 42 | 159 | 26.4 | /mnt/stockage/packages/f9/obby/po/fr.po | 
+ | [ca](/f9/language/ca) | 159 | 159 | 100.0 | /mnt/stockage/packages/f9/obby/po/ca.po | 
+ | [de](/f9/language/de) | 159 | 159 | 100.0 | /mnt/stockage/packages/f9/obby/po/de.po | 
+ | [es](/f9/language/es) | 159 | 159 | 100.0 | /mnt/stockage/packages/f9/obby/po/es.po | 
+ | [sv](/f9/language/sv) | 148 | 159 | 93.1 | /mnt/stockage/packages/f9/obby/po/sv.po | 
+ | [nl](/f9/language/nl) | 89 | 159 | 56.0 | /mnt/stockage/packages/f9/obby/po/nl.po | 
+ | [fr](/f9/language/fr) | 42 | 159 | 26.4 | /mnt/stockage/packages/f9/obby/po/fr.po | 
 {.sortable}
 
 

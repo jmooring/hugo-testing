@@ -18,13 +18,13 @@ The package msmtp (version 1.8.14):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f32/language/de.md" >}}) | 1774 | 1796 | 98.8 | /mnt/stockage/packages/f32/msmtp/po/de.po | 
- | [eo]({{< ref "/f32/language/eo.md" >}}) | 1774 | 1796 | 98.8 | /mnt/stockage/packages/f32/msmtp/po/eo.po | 
- | [fr]({{< ref "/f32/language/fr.md" >}}) | 1774 | 1796 | 98.8 | /mnt/stockage/packages/f32/msmtp/po/fr.po | 
- | [pt_BR]({{< ref "/f32/language/pt_BR.md" >}}) | 1774 | 1796 | 98.8 | /mnt/stockage/packages/f32/msmtp/po/pt_BR.po | 
- | [sr]({{< ref "/f32/language/sr.md" >}}) | 1774 | 1796 | 98.8 | /mnt/stockage/packages/f32/msmtp/po/sr.po | 
- | [uk]({{< ref "/f32/language/uk.md" >}}) | 1774 | 1796 | 98.8 | /mnt/stockage/packages/f32/msmtp/po/uk.po | 
- | [ta]({{< ref "/f32/language/ta.md" >}}) | 442 | 1796 | 24.6 | /mnt/stockage/packages/f32/msmtp/po/ta.po | 
+ | [de](/f32/language/de) | 1774 | 1796 | 98.8 | /mnt/stockage/packages/f32/msmtp/po/de.po | 
+ | [eo](/f32/language/eo) | 1774 | 1796 | 98.8 | /mnt/stockage/packages/f32/msmtp/po/eo.po | 
+ | [fr](/f32/language/fr) | 1774 | 1796 | 98.8 | /mnt/stockage/packages/f32/msmtp/po/fr.po | 
+ | [pt_BR](/f32/language/pt_BR) | 1774 | 1796 | 98.8 | /mnt/stockage/packages/f32/msmtp/po/pt_BR.po | 
+ | [sr](/f32/language/sr) | 1774 | 1796 | 98.8 | /mnt/stockage/packages/f32/msmtp/po/sr.po | 
+ | [uk](/f32/language/uk) | 1774 | 1796 | 98.8 | /mnt/stockage/packages/f32/msmtp/po/uk.po | 
+ | [ta](/f32/language/ta) | 442 | 1796 | 24.6 | /mnt/stockage/packages/f32/msmtp/po/ta.po | 
 {.sortable}
 
 

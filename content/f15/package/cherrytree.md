@@ -18,13 +18,13 @@ The package cherrytree (version 0.26):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f15/language/cs.md" >}}) | 2057 | 2057 | 100.0 | /mnt/stockage/packages/f15/cherrytree/locale/cs.po | 
- | [de]({{< ref "/f15/language/de.md" >}}) | 2057 | 2057 | 100.0 | /mnt/stockage/packages/f15/cherrytree/locale/de.po | 
- | [es]({{< ref "/f15/language/es.md" >}}) | 2057 | 2057 | 100.0 | /mnt/stockage/packages/f15/cherrytree/locale/es.po | 
- | [fr]({{< ref "/f15/language/fr.md" >}}) | 2057 | 2057 | 100.0 | /mnt/stockage/packages/f15/cherrytree/locale/fr.po | 
- | [it]({{< ref "/f15/language/it.md" >}}) | 2057 | 2057 | 100.0 | /mnt/stockage/packages/f15/cherrytree/locale/it.po | 
- | [pl]({{< ref "/f15/language/pl.md" >}}) | 2057 | 2057 | 100.0 | /mnt/stockage/packages/f15/cherrytree/locale/pl.po | 
- | [ru]({{< ref "/f15/language/ru.md" >}}) | 4114 | 4114 | 100.0 | /mnt/stockage/packages/f15/cherrytree/locale/uk.po/mnt/stockage/packages/f15/cherrytree/locale/ru.po | 
+ | [cs](/f15/language/cs) | 2057 | 2057 | 100.0 | /mnt/stockage/packages/f15/cherrytree/locale/cs.po | 
+ | [de](/f15/language/de) | 2057 | 2057 | 100.0 | /mnt/stockage/packages/f15/cherrytree/locale/de.po | 
+ | [es](/f15/language/es) | 2057 | 2057 | 100.0 | /mnt/stockage/packages/f15/cherrytree/locale/es.po | 
+ | [fr](/f15/language/fr) | 2057 | 2057 | 100.0 | /mnt/stockage/packages/f15/cherrytree/locale/fr.po | 
+ | [it](/f15/language/it) | 2057 | 2057 | 100.0 | /mnt/stockage/packages/f15/cherrytree/locale/it.po | 
+ | [pl](/f15/language/pl) | 2057 | 2057 | 100.0 | /mnt/stockage/packages/f15/cherrytree/locale/pl.po | 
+ | [ru](/f15/language/ru) | 4114 | 4114 | 100.0 | /mnt/stockage/packages/f15/cherrytree/locale/uk.po/mnt/stockage/packages/f15/cherrytree/locale/ru.po | 
 {.sortable}
 
 

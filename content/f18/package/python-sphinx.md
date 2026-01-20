@@ -18,33 +18,33 @@ The package python-sphinx (version 1.1.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f18/language/de.md" >}}) | 450 | 450 | 100.0 | /mnt/stockage/packages/f18/python-sphinx/sphinx/locale/de/LC_MESSAGES/sphinx.po | 
- | [da]({{< ref "/f18/language/da.md" >}}) | 447 | 450 | 99.3 | /mnt/stockage/packages/f18/python-sphinx/sphinx/locale/da/LC_MESSAGES/sphinx.po | 
- | [ne]({{< ref "/f18/language/ne.md" >}}) | 447 | 450 | 99.3 | /mnt/stockage/packages/f18/python-sphinx/sphinx/locale/ne/LC_MESSAGES/sphinx.po | 
- | [tr]({{< ref "/f18/language/tr.md" >}}) | 447 | 450 | 99.3 | /mnt/stockage/packages/f18/python-sphinx/sphinx/locale/tr/LC_MESSAGES/sphinx.po | 
- | [sv]({{< ref "/f18/language/sv.md" >}}) | 446 | 450 | 99.1 | /mnt/stockage/packages/f18/python-sphinx/sphinx/locale/sv/LC_MESSAGES/sphinx.po | 
- | [ja]({{< ref "/f18/language/ja.md" >}}) | 444 | 450 | 98.7 | /mnt/stockage/packages/f18/python-sphinx/sphinx/locale/ja/LC_MESSAGES/sphinx.po | 
- | [pl]({{< ref "/f18/language/pl.md" >}}) | 442 | 450 | 98.2 | /mnt/stockage/packages/f18/python-sphinx/sphinx/locale/pl/LC_MESSAGES/sphinx.po | 
- | [pt_BR]({{< ref "/f18/language/pt_BR.md" >}}) | 442 | 450 | 98.2 | /mnt/stockage/packages/f18/python-sphinx/sphinx/locale/pt_BR/LC_MESSAGES/sphinx.po | 
- | [lt]({{< ref "/f18/language/lt.md" >}}) | 436 | 450 | 96.9 | /mnt/stockage/packages/f18/python-sphinx/sphinx/locale/lt/LC_MESSAGES/sphinx.po | 
- | [et]({{< ref "/f18/language/et.md" >}}) | 434 | 450 | 96.4 | /mnt/stockage/packages/f18/python-sphinx/sphinx/locale/et/LC_MESSAGES/sphinx.po | 
- | [lv]({{< ref "/f18/language/lv.md" >}}) | 431 | 450 | 95.8 | /mnt/stockage/packages/f18/python-sphinx/sphinx/locale/lv/LC_MESSAGES/sphinx.po | 
- | [fr]({{< ref "/f18/language/fr.md" >}}) | 421 | 450 | 93.6 | /mnt/stockage/packages/f18/python-sphinx/sphinx/locale/fr/LC_MESSAGES/sphinx.po | 
- | [nl]({{< ref "/f18/language/nl.md" >}}) | 386 | 450 | 85.8 | /mnt/stockage/packages/f18/python-sphinx/sphinx/locale/nl/LC_MESSAGES/sphinx.po | 
- | [bn]({{< ref "/f18/language/bn.md" >}}) | 381 | 450 | 84.7 | /mnt/stockage/packages/f18/python-sphinx/sphinx/locale/bn/LC_MESSAGES/sphinx.po | 
- | [ca]({{< ref "/f18/language/ca.md" >}}) | 380 | 450 | 84.4 | /mnt/stockage/packages/f18/python-sphinx/sphinx/locale/ca/LC_MESSAGES/sphinx.po | 
- | [sl]({{< ref "/f18/language/sl.md" >}}) | 366 | 450 | 81.3 | /mnt/stockage/packages/f18/python-sphinx/sphinx/locale/sl/LC_MESSAGES/sphinx.po | 
- | [hr]({{< ref "/f18/language/hr.md" >}}) | 365 | 450 | 81.1 | /mnt/stockage/packages/f18/python-sphinx/sphinx/locale/hr/LC_MESSAGES/sphinx.po | 
- | [it]({{< ref "/f18/language/it.md" >}}) | 361 | 450 | 80.2 | /mnt/stockage/packages/f18/python-sphinx/sphinx/locale/it/LC_MESSAGES/sphinx.po | 
- | [uk]({{< ref "/f18/language/uk.md" >}}) | 354 | 450 | 78.7 | /mnt/stockage/packages/f18/python-sphinx/sphinx/locale/uk_UA/LC_MESSAGES/sphinx.po | 
- | [ru]({{< ref "/f18/language/ru.md" >}}) | 351 | 450 | 78.0 | /mnt/stockage/packages/f18/python-sphinx/sphinx/locale/ru/LC_MESSAGES/sphinx.po | 
- | [cs]({{< ref "/f18/language/cs.md" >}}) | 334 | 450 | 74.2 | /mnt/stockage/packages/f18/python-sphinx/sphinx/locale/cs/LC_MESSAGES/sphinx.po | 
- | [zh_Hans]({{< ref "/f18/language/zh_Hans.md" >}}) | 331 | 450 | 73.6 | /mnt/stockage/packages/f18/python-sphinx/sphinx/locale/zh_CN/LC_MESSAGES/sphinx.po | 
- | [ko]({{< ref "/f18/language/ko.md" >}}) | 327 | 450 | 72.7 | /mnt/stockage/packages/f18/python-sphinx/sphinx/locale/ko/LC_MESSAGES/sphinx.po | 
- | [es]({{< ref "/f18/language/es.md" >}}) | 263 | 450 | 58.4 | /mnt/stockage/packages/f18/python-sphinx/sphinx/locale/es/LC_MESSAGES/sphinx.po | 
- | [fa]({{< ref "/f18/language/fa.md" >}}) | 248 | 450 | 55.1 | /mnt/stockage/packages/f18/python-sphinx/sphinx/locale/fa/LC_MESSAGES/sphinx.po | 
- | [fi]({{< ref "/f18/language/fi.md" >}}) | 185 | 446 | 41.5 | /mnt/stockage/packages/f18/python-sphinx/sphinx/locale/fi/LC_MESSAGES/sphinx.po | 
- | [zh_Hant]({{< ref "/f18/language/zh_Hant.md" >}}) | 174 | 450 | 38.7 | /mnt/stockage/packages/f18/python-sphinx/sphinx/locale/zh_TW/LC_MESSAGES/sphinx.po | 
+ | [de](/f18/language/de) | 450 | 450 | 100.0 | /mnt/stockage/packages/f18/python-sphinx/sphinx/locale/de/LC_MESSAGES/sphinx.po | 
+ | [da](/f18/language/da) | 447 | 450 | 99.3 | /mnt/stockage/packages/f18/python-sphinx/sphinx/locale/da/LC_MESSAGES/sphinx.po | 
+ | [ne](/f18/language/ne) | 447 | 450 | 99.3 | /mnt/stockage/packages/f18/python-sphinx/sphinx/locale/ne/LC_MESSAGES/sphinx.po | 
+ | [tr](/f18/language/tr) | 447 | 450 | 99.3 | /mnt/stockage/packages/f18/python-sphinx/sphinx/locale/tr/LC_MESSAGES/sphinx.po | 
+ | [sv](/f18/language/sv) | 446 | 450 | 99.1 | /mnt/stockage/packages/f18/python-sphinx/sphinx/locale/sv/LC_MESSAGES/sphinx.po | 
+ | [ja](/f18/language/ja) | 444 | 450 | 98.7 | /mnt/stockage/packages/f18/python-sphinx/sphinx/locale/ja/LC_MESSAGES/sphinx.po | 
+ | [pl](/f18/language/pl) | 442 | 450 | 98.2 | /mnt/stockage/packages/f18/python-sphinx/sphinx/locale/pl/LC_MESSAGES/sphinx.po | 
+ | [pt_BR](/f18/language/pt_BR) | 442 | 450 | 98.2 | /mnt/stockage/packages/f18/python-sphinx/sphinx/locale/pt_BR/LC_MESSAGES/sphinx.po | 
+ | [lt](/f18/language/lt) | 436 | 450 | 96.9 | /mnt/stockage/packages/f18/python-sphinx/sphinx/locale/lt/LC_MESSAGES/sphinx.po | 
+ | [et](/f18/language/et) | 434 | 450 | 96.4 | /mnt/stockage/packages/f18/python-sphinx/sphinx/locale/et/LC_MESSAGES/sphinx.po | 
+ | [lv](/f18/language/lv) | 431 | 450 | 95.8 | /mnt/stockage/packages/f18/python-sphinx/sphinx/locale/lv/LC_MESSAGES/sphinx.po | 
+ | [fr](/f18/language/fr) | 421 | 450 | 93.6 | /mnt/stockage/packages/f18/python-sphinx/sphinx/locale/fr/LC_MESSAGES/sphinx.po | 
+ | [nl](/f18/language/nl) | 386 | 450 | 85.8 | /mnt/stockage/packages/f18/python-sphinx/sphinx/locale/nl/LC_MESSAGES/sphinx.po | 
+ | [bn](/f18/language/bn) | 381 | 450 | 84.7 | /mnt/stockage/packages/f18/python-sphinx/sphinx/locale/bn/LC_MESSAGES/sphinx.po | 
+ | [ca](/f18/language/ca) | 380 | 450 | 84.4 | /mnt/stockage/packages/f18/python-sphinx/sphinx/locale/ca/LC_MESSAGES/sphinx.po | 
+ | [sl](/f18/language/sl) | 366 | 450 | 81.3 | /mnt/stockage/packages/f18/python-sphinx/sphinx/locale/sl/LC_MESSAGES/sphinx.po | 
+ | [hr](/f18/language/hr) | 365 | 450 | 81.1 | /mnt/stockage/packages/f18/python-sphinx/sphinx/locale/hr/LC_MESSAGES/sphinx.po | 
+ | [it](/f18/language/it) | 361 | 450 | 80.2 | /mnt/stockage/packages/f18/python-sphinx/sphinx/locale/it/LC_MESSAGES/sphinx.po | 
+ | [uk](/f18/language/uk) | 354 | 450 | 78.7 | /mnt/stockage/packages/f18/python-sphinx/sphinx/locale/uk_UA/LC_MESSAGES/sphinx.po | 
+ | [ru](/f18/language/ru) | 351 | 450 | 78.0 | /mnt/stockage/packages/f18/python-sphinx/sphinx/locale/ru/LC_MESSAGES/sphinx.po | 
+ | [cs](/f18/language/cs) | 334 | 450 | 74.2 | /mnt/stockage/packages/f18/python-sphinx/sphinx/locale/cs/LC_MESSAGES/sphinx.po | 
+ | [zh_Hans](/f18/language/zh_Hans) | 331 | 450 | 73.6 | /mnt/stockage/packages/f18/python-sphinx/sphinx/locale/zh_CN/LC_MESSAGES/sphinx.po | 
+ | [ko](/f18/language/ko) | 327 | 450 | 72.7 | /mnt/stockage/packages/f18/python-sphinx/sphinx/locale/ko/LC_MESSAGES/sphinx.po | 
+ | [es](/f18/language/es) | 263 | 450 | 58.4 | /mnt/stockage/packages/f18/python-sphinx/sphinx/locale/es/LC_MESSAGES/sphinx.po | 
+ | [fa](/f18/language/fa) | 248 | 450 | 55.1 | /mnt/stockage/packages/f18/python-sphinx/sphinx/locale/fa/LC_MESSAGES/sphinx.po | 
+ | [fi](/f18/language/fi) | 185 | 446 | 41.5 | /mnt/stockage/packages/f18/python-sphinx/sphinx/locale/fi/LC_MESSAGES/sphinx.po | 
+ | [zh_Hant](/f18/language/zh_Hant) | 174 | 450 | 38.7 | /mnt/stockage/packages/f18/python-sphinx/sphinx/locale/zh_TW/LC_MESSAGES/sphinx.po | 
 {.sortable}
 
 

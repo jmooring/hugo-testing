@@ -18,7 +18,7 @@ The package python-moksha-wsgi (version 1.2.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ru]({{< ref "/f18/language/ru.md" >}}) | 5 | 5 | 100.0 | /mnt/stockage/packages/f18/python-moksha-wsgi/moksha/wsgi/i18n/ru/LC_MESSAGES/moksha.po | 
+ | [ru](/f18/language/ru) | 5 | 5 | 100.0 | /mnt/stockage/packages/f18/python-moksha-wsgi/moksha/wsgi/i18n/ru/LC_MESSAGES/moksha.po | 
 {.sortable}
 
 

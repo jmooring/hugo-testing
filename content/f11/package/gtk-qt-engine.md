@@ -18,16 +18,16 @@ The package gtk-qt-engine (version 1.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [bg]({{< ref "/f11/language/bg.md" >}}) | 181 | 181 | 100.0 | /mnt/stockage/packages/f11/gtk-qt-engine/po/bg.po | 
- | [cs]({{< ref "/f11/language/cs.md" >}}) | 306 | 306 | 100.0 | /mnt/stockage/packages/f11/gtk-qt-engine/po/cs.po | 
- | [de]({{< ref "/f11/language/de.md" >}}) | 165 | 165 | 100.0 | /mnt/stockage/packages/f11/gtk-qt-engine/po/de.po | 
- | [nn]({{< ref "/f11/language/nn.md" >}}) | 155 | 155 | 100.0 | /mnt/stockage/packages/f11/gtk-qt-engine/po/nn.po | 
- | [ru]({{< ref "/f11/language/ru.md" >}}) | 154 | 154 | 100.0 | /mnt/stockage/packages/f11/gtk-qt-engine/po/ru.po | 
- | [sv]({{< ref "/f11/language/sv.md" >}}) | 155 | 155 | 100.0 | /mnt/stockage/packages/f11/gtk-qt-engine/po/sv.po | 
- | [tr]({{< ref "/f11/language/tr.md" >}}) | 176 | 181 | 97.2 | /mnt/stockage/packages/f11/gtk-qt-engine/po/tr.po | 
- | [it]({{< ref "/f11/language/it.md" >}}) | 211 | 219 | 96.3 | /mnt/stockage/packages/f11/gtk-qt-engine/po/it.po | 
- | [es]({{< ref "/f11/language/es.md" >}}) | 139 | 155 | 89.7 | /mnt/stockage/packages/f11/gtk-qt-engine/po/es.po | 
- | [fr]({{< ref "/f11/language/fr.md" >}}) | 139 | 155 | 89.7 | /mnt/stockage/packages/f11/gtk-qt-engine/po/fr.po | 
+ | [bg](/f11/language/bg) | 181 | 181 | 100.0 | /mnt/stockage/packages/f11/gtk-qt-engine/po/bg.po | 
+ | [cs](/f11/language/cs) | 306 | 306 | 100.0 | /mnt/stockage/packages/f11/gtk-qt-engine/po/cs.po | 
+ | [de](/f11/language/de) | 165 | 165 | 100.0 | /mnt/stockage/packages/f11/gtk-qt-engine/po/de.po | 
+ | [nn](/f11/language/nn) | 155 | 155 | 100.0 | /mnt/stockage/packages/f11/gtk-qt-engine/po/nn.po | 
+ | [ru](/f11/language/ru) | 154 | 154 | 100.0 | /mnt/stockage/packages/f11/gtk-qt-engine/po/ru.po | 
+ | [sv](/f11/language/sv) | 155 | 155 | 100.0 | /mnt/stockage/packages/f11/gtk-qt-engine/po/sv.po | 
+ | [tr](/f11/language/tr) | 176 | 181 | 97.2 | /mnt/stockage/packages/f11/gtk-qt-engine/po/tr.po | 
+ | [it](/f11/language/it) | 211 | 219 | 96.3 | /mnt/stockage/packages/f11/gtk-qt-engine/po/it.po | 
+ | [es](/f11/language/es) | 139 | 155 | 89.7 | /mnt/stockage/packages/f11/gtk-qt-engine/po/es.po | 
+ | [fr](/f11/language/fr) | 139 | 155 | 89.7 | /mnt/stockage/packages/f11/gtk-qt-engine/po/fr.po | 
 {.sortable}
 
 

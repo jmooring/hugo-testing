@@ -18,16 +18,16 @@ The package gtef (version 2.0.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f26/language/de.md" >}}) | 125 | 125 | 100.0 | /mnt/stockage/packages/f26/gtef/po/de.po | 
- | [fur]({{< ref "/f26/language/fur.md" >}}) | 125 | 125 | 100.0 | /mnt/stockage/packages/f26/gtef/po/fur.po | 
- | [hu]({{< ref "/f26/language/hu.md" >}}) | 125 | 125 | 100.0 | /mnt/stockage/packages/f26/gtef/po/hu.po | 
- | [id]({{< ref "/f26/language/id.md" >}}) | 125 | 125 | 100.0 | /mnt/stockage/packages/f26/gtef/po/id.po | 
- | [pl]({{< ref "/f26/language/pl.md" >}}) | 125 | 125 | 100.0 | /mnt/stockage/packages/f26/gtef/po/pl.po | 
- | [pt_BR]({{< ref "/f26/language/pt_BR.md" >}}) | 125 | 125 | 100.0 | /mnt/stockage/packages/f26/gtef/po/pt_BR.po | 
- | [ru]({{< ref "/f26/language/ru.md" >}}) | 125 | 125 | 100.0 | /mnt/stockage/packages/f26/gtef/po/ru.po | 
- | [sr]({{< ref "/f26/language/sr.md" >}}) | 125 | 125 | 100.0 | /mnt/stockage/packages/f26/gtef/po/sr.po | 
- | [sv]({{< ref "/f26/language/sv.md" >}}) | 125 | 125 | 100.0 | /mnt/stockage/packages/f26/gtef/po/sv.po | 
- | [uk]({{< ref "/f26/language/uk.md" >}}) | 125 | 125 | 100.0 | /mnt/stockage/packages/f26/gtef/po/uk.po | 
+ | [de](/f26/language/de) | 125 | 125 | 100.0 | /mnt/stockage/packages/f26/gtef/po/de.po | 
+ | [fur](/f26/language/fur) | 125 | 125 | 100.0 | /mnt/stockage/packages/f26/gtef/po/fur.po | 
+ | [hu](/f26/language/hu) | 125 | 125 | 100.0 | /mnt/stockage/packages/f26/gtef/po/hu.po | 
+ | [id](/f26/language/id) | 125 | 125 | 100.0 | /mnt/stockage/packages/f26/gtef/po/id.po | 
+ | [pl](/f26/language/pl) | 125 | 125 | 100.0 | /mnt/stockage/packages/f26/gtef/po/pl.po | 
+ | [pt_BR](/f26/language/pt_BR) | 125 | 125 | 100.0 | /mnt/stockage/packages/f26/gtef/po/pt_BR.po | 
+ | [ru](/f26/language/ru) | 125 | 125 | 100.0 | /mnt/stockage/packages/f26/gtef/po/ru.po | 
+ | [sr](/f26/language/sr) | 125 | 125 | 100.0 | /mnt/stockage/packages/f26/gtef/po/sr.po | 
+ | [sv](/f26/language/sv) | 125 | 125 | 100.0 | /mnt/stockage/packages/f26/gtef/po/sv.po | 
+ | [uk](/f26/language/uk) | 125 | 125 | 100.0 | /mnt/stockage/packages/f26/gtef/po/uk.po | 
 {.sortable}
 
 

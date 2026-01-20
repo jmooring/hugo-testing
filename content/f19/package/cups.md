@@ -18,12 +18,12 @@ The package cups (version 1.6.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [es]({{< ref "/f19/language/es.md" >}}) | 6998 | 7081 | 98.8 | /mnt/stockage/packages/f19/cups/locale/cups_es.po | 
- | [ja]({{< ref "/f19/language/ja.md" >}}) | 6998 | 7081 | 98.8 | /mnt/stockage/packages/f19/cups/locale/cups_ja.po | 
- | [ca]({{< ref "/f19/language/ca.md" >}}) | 6983 | 7081 | 98.6 | /mnt/stockage/packages/f19/cups/locale/cups_ca.po | 
- | [ru]({{< ref "/f19/language/ru.md" >}}) | 1325 | 7081 | 18.7 | /mnt/stockage/packages/f19/cups/locale/cups_ru.po | 
- | [fr]({{< ref "/f19/language/fr.md" >}}) | 1180 | 7091 | 16.6 | /mnt/stockage/packages/f19/cups/locale/cups_fr.po/mnt/stockage/packages/f19/cups/ppdc/foo-fr.po | 
- | [cs]({{< ref "/f19/language/cs.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f19/cups/locale/cups_cs.po | 
+ | [es](/f19/language/es) | 6998 | 7081 | 98.8 | /mnt/stockage/packages/f19/cups/locale/cups_es.po | 
+ | [ja](/f19/language/ja) | 6998 | 7081 | 98.8 | /mnt/stockage/packages/f19/cups/locale/cups_ja.po | 
+ | [ca](/f19/language/ca) | 6983 | 7081 | 98.6 | /mnt/stockage/packages/f19/cups/locale/cups_ca.po | 
+ | [ru](/f19/language/ru) | 1325 | 7081 | 18.7 | /mnt/stockage/packages/f19/cups/locale/cups_ru.po | 
+ | [fr](/f19/language/fr) | 1180 | 7091 | 16.6 | /mnt/stockage/packages/f19/cups/locale/cups_fr.po/mnt/stockage/packages/f19/cups/ppdc/foo-fr.po | 
+ | [cs](/f19/language/cs) | 0 | 0 | 0.0 | /mnt/stockage/packages/f19/cups/locale/cups_cs.po | 
 {.sortable}
 
 

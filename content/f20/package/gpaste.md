@@ -18,11 +18,11 @@ The package gpaste (version 3.10.4.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f20/language/fr.md" >}}) | 867 | 867 | 100.0 | /mnt/stockage/packages/f20/gpaste/po/fr.po | 
- | [pt_BR]({{< ref "/f20/language/pt_BR.md" >}}) | 783 | 867 | 90.3 | /mnt/stockage/packages/f20/gpaste/po/pt_BR.po | 
- | [de]({{< ref "/f20/language/de.md" >}}) | 726 | 867 | 83.7 | /mnt/stockage/packages/f20/gpaste/po/de.po | 
- | [es]({{< ref "/f20/language/es.md" >}}) | 503 | 867 | 58.0 | /mnt/stockage/packages/f20/gpaste/po/es.po | 
- | [fi]({{< ref "/f20/language/fi.md" >}}) | 479 | 867 | 55.2 | /mnt/stockage/packages/f20/gpaste/po/fi.po | 
+ | [fr](/f20/language/fr) | 867 | 867 | 100.0 | /mnt/stockage/packages/f20/gpaste/po/fr.po | 
+ | [pt_BR](/f20/language/pt_BR) | 783 | 867 | 90.3 | /mnt/stockage/packages/f20/gpaste/po/pt_BR.po | 
+ | [de](/f20/language/de) | 726 | 867 | 83.7 | /mnt/stockage/packages/f20/gpaste/po/de.po | 
+ | [es](/f20/language/es) | 503 | 867 | 58.0 | /mnt/stockage/packages/f20/gpaste/po/es.po | 
+ | [fi](/f20/language/fi) | 479 | 867 | 55.2 | /mnt/stockage/packages/f20/gpaste/po/fi.po | 
 {.sortable}
 
 

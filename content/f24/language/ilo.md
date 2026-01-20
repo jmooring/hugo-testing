@@ -38,42 +38,42 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [redhat-menus]({{< ref "/f24/package/redhat-menus.md" >}}) | 106 | 261 | 40.6 |  | 
- | [switchdesk]({{< ref "/f24/package/switchdesk.md" >}}) | 30 | 137 | 21.9 |  | 
- | [python-blivet]({{< ref "/f24/package/python-blivet.md" >}}) | 45 | 696 | 6.5 | Iloko | 
- | [anaconda]({{< ref "/f24/package/anaconda.md" >}}) | 74 | 7058 | 1.0 | Iloko (http://www.transifex.com/projects/p/anaconda/language/ilo/) | 
- | [abrt]({{< ref "/f24/package/abrt.md" >}}) | 0 | 3230 | 0.0 | Iloko (http://www.transifex.com/projects/p/fedora-abrt/language/ilo/) | 
- | [blivet-gui]({{< ref "/f24/package/blivet-gui.md" >}}) | 0 | 699 | 0.0 | Iloko | 
- | [certmonger]({{< ref "/f24/package/certmonger.md" >}}) | 0 | 2478 | 0.0 | Iloko (http://www.transifex.com/projects/p/certmonger/language/ilo/) | 
- | [cinnamon-control-center]({{< ref "/f24/package/cinnamon-control-center.md" >}}) | 0 | 1313 | 0.0 |  | 
- | [control-center]({{< ref "/f24/package/control-center.md" >}}) | 0 | 1313 | 0.0 |  | 
- | [dnf-plugin-system-upgrade]({{< ref "/f24/package/dnf-plugin-system-upgrade.md" >}}) | 0 | 211 | 0.0 | Iloko | 
- | [dnf-plugins-extras]({{< ref "/f24/package/dnf-plugins-extras.md" >}}) | 0 | 375 | 0.0 | Iloko | 
- | [docker-anaconda-addon]({{< ref "/f24/package/docker-anaconda-addon.md" >}}) | 0 | 27 | 0.0 | Iloko | 
- | [entangle]({{< ref "/f24/package/entangle.md" >}}) | 0 | 935 | 0.0 | Iloko | 
- | [initial-setup]({{< ref "/f24/package/initial-setup.md" >}}) | 0 | 33 | 0.0 | Iloko | 
- | [libbytesize]({{< ref "/f24/package/libbytesize.md" >}}) | 0 | 17 | 0.0 | Iloko | 
- | [libosinfo]({{< ref "/f24/package/libosinfo.md" >}}) | 0 | 2049 | 0.0 | Iloko | 
- | [libreport]({{< ref "/f24/package/libreport.md" >}}) | 0 | 3501 | 0.0 | Iloko (http://www.transifex.com/projects/p/libreport/language/ilo/) | 
- | [libvirt-glib]({{< ref "/f24/package/libvirt-glib.md" >}}) | 0 | 145 | 0.0 | Iloko (http://www.transifex.com/projects/p/libvirt-glib/language/ilo/) | 
- | [libvirt-sandbox]({{< ref "/f24/package/libvirt-sandbox.md" >}}) | 0 | 617 | 0.0 | Iloko (http://www.transifex.com/projects/p/fedora/language/ilo/) | 
- | [mingw-libvirt-glib]({{< ref "/f24/package/mingw-libvirt-glib.md" >}}) | 0 | 145 | 0.0 | Iloko (http://www.transifex.com/projects/p/libvirt-glib/language/ilo/) | 
- | [oscap-anaconda-addon]({{< ref "/f24/package/oscap-anaconda-addon.md" >}}) | 0 | 194 | 0.0 | Iloko (http://www.transifex.com/projects/p/oscap-anaconda-addon/language/ilo/) | 
- | [policycoreutils]({{< ref "/f24/package/policycoreutils.md" >}}) | 0 | 7678 | 0.0 | Iloko (http://www.transifex.com/projects/p/fedora/language/ilo/) | 
- | [pykickstart]({{< ref "/f24/package/pykickstart.md" >}}) | 0 | 1355 | 0.0 | Iloko | 
- | [python-fedora]({{< ref "/f24/package/python-fedora.md" >}}) | 0 | 214 | 0.0 | Iloko | 
- | [python-meh]({{< ref "/f24/package/python-meh.md" >}}) | 0 | 109 | 0.0 | Iloko | 
- | [setroubleshoot]({{< ref "/f24/package/setroubleshoot.md" >}}) | 0 | 656 | 0.0 | Iloko (http://www.transifex.com/projects/p/fedora/language/ilo/) | 
- | [setroubleshoot-plugins]({{< ref "/f24/package/setroubleshoot-plugins.md" >}}) | 0 | 9830 | 0.0 | Iloko (http://www.transifex.com/projects/p/fedora/language/ilo/) | 
- | [sos]({{< ref "/f24/package/sos.md" >}}) | 0 | 267 | 0.0 | none | 
- | [system-config-date]({{< ref "/f24/package/system-config-date.md" >}}) | 0 | 1347 | 0.0 | LANGUAGE <LL@li.org> | 
- | [system-config-date-docs]({{< ref "/f24/package/system-config-date-docs.md" >}}) | 0 | 761 | 0.0 | LANGUAGE <LL@li.org> | 
- | [system-config-kickstart]({{< ref "/f24/package/system-config-kickstart.md" >}}) | 0 | 1144 | 0.0 | Iloko (http://www.transifex.com/projects/p/system-config-kickstart/language/ilo/) | 
- | [system-config-nfs-docs]({{< ref "/f24/package/system-config-nfs-docs.md" >}}) | 0 | 1192 | 0.0 | LANGUAGE <LL@li.org> | 
- | [system-config-samba-docs]({{< ref "/f24/package/system-config-samba-docs.md" >}}) | 0 | 1195 | 0.0 | LANGUAGE <LL@li.org> | 
- | [system-config-services-docs]({{< ref "/f24/package/system-config-services-docs.md" >}}) | 0 | 638 | 0.0 | LANGUAGE <LL@li.org> | 
- | [system-config-users-docs]({{< ref "/f24/package/system-config-users-docs.md" >}}) | 0 | 1061 | 0.0 | LANGUAGE <LL@li.org> | 
- | [virt-viewer]({{< ref "/f24/package/virt-viewer.md" >}}) | 0 | 751 | 0.0 | Iloko | 
+ | [redhat-menus](/f24/package/redhat-menus) | 106 | 261 | 40.6 |  | 
+ | [switchdesk](/f24/package/switchdesk) | 30 | 137 | 21.9 |  | 
+ | [python-blivet](/f24/package/python-blivet) | 45 | 696 | 6.5 | Iloko | 
+ | [anaconda](/f24/package/anaconda) | 74 | 7058 | 1.0 | Iloko (http://www.transifex.com/projects/p/anaconda/language/ilo/) | 
+ | [abrt](/f24/package/abrt) | 0 | 3230 | 0.0 | Iloko (http://www.transifex.com/projects/p/fedora-abrt/language/ilo/) | 
+ | [blivet-gui](/f24/package/blivet-gui) | 0 | 699 | 0.0 | Iloko | 
+ | [certmonger](/f24/package/certmonger) | 0 | 2478 | 0.0 | Iloko (http://www.transifex.com/projects/p/certmonger/language/ilo/) | 
+ | [cinnamon-control-center](/f24/package/cinnamon-control-center) | 0 | 1313 | 0.0 |  | 
+ | [control-center](/f24/package/control-center) | 0 | 1313 | 0.0 |  | 
+ | [dnf-plugin-system-upgrade](/f24/package/dnf-plugin-system-upgrade) | 0 | 211 | 0.0 | Iloko | 
+ | [dnf-plugins-extras](/f24/package/dnf-plugins-extras) | 0 | 375 | 0.0 | Iloko | 
+ | [docker-anaconda-addon](/f24/package/docker-anaconda-addon) | 0 | 27 | 0.0 | Iloko | 
+ | [entangle](/f24/package/entangle) | 0 | 935 | 0.0 | Iloko | 
+ | [initial-setup](/f24/package/initial-setup) | 0 | 33 | 0.0 | Iloko | 
+ | [libbytesize](/f24/package/libbytesize) | 0 | 17 | 0.0 | Iloko | 
+ | [libosinfo](/f24/package/libosinfo) | 0 | 2049 | 0.0 | Iloko | 
+ | [libreport](/f24/package/libreport) | 0 | 3501 | 0.0 | Iloko (http://www.transifex.com/projects/p/libreport/language/ilo/) | 
+ | [libvirt-glib](/f24/package/libvirt-glib) | 0 | 145 | 0.0 | Iloko (http://www.transifex.com/projects/p/libvirt-glib/language/ilo/) | 
+ | [libvirt-sandbox](/f24/package/libvirt-sandbox) | 0 | 617 | 0.0 | Iloko (http://www.transifex.com/projects/p/fedora/language/ilo/) | 
+ | [mingw-libvirt-glib](/f24/package/mingw-libvirt-glib) | 0 | 145 | 0.0 | Iloko (http://www.transifex.com/projects/p/libvirt-glib/language/ilo/) | 
+ | [oscap-anaconda-addon](/f24/package/oscap-anaconda-addon) | 0 | 194 | 0.0 | Iloko (http://www.transifex.com/projects/p/oscap-anaconda-addon/language/ilo/) | 
+ | [policycoreutils](/f24/package/policycoreutils) | 0 | 7678 | 0.0 | Iloko (http://www.transifex.com/projects/p/fedora/language/ilo/) | 
+ | [pykickstart](/f24/package/pykickstart) | 0 | 1355 | 0.0 | Iloko | 
+ | [python-fedora](/f24/package/python-fedora) | 0 | 214 | 0.0 | Iloko | 
+ | [python-meh](/f24/package/python-meh) | 0 | 109 | 0.0 | Iloko | 
+ | [setroubleshoot](/f24/package/setroubleshoot) | 0 | 656 | 0.0 | Iloko (http://www.transifex.com/projects/p/fedora/language/ilo/) | 
+ | [setroubleshoot-plugins](/f24/package/setroubleshoot-plugins) | 0 | 9830 | 0.0 | Iloko (http://www.transifex.com/projects/p/fedora/language/ilo/) | 
+ | [sos](/f24/package/sos) | 0 | 267 | 0.0 | none | 
+ | [system-config-date](/f24/package/system-config-date) | 0 | 1347 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [system-config-date-docs](/f24/package/system-config-date-docs) | 0 | 761 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [system-config-kickstart](/f24/package/system-config-kickstart) | 0 | 1144 | 0.0 | Iloko (http://www.transifex.com/projects/p/system-config-kickstart/language/ilo/) | 
+ | [system-config-nfs-docs](/f24/package/system-config-nfs-docs) | 0 | 1192 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [system-config-samba-docs](/f24/package/system-config-samba-docs) | 0 | 1195 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [system-config-services-docs](/f24/package/system-config-services-docs) | 0 | 638 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [system-config-users-docs](/f24/package/system-config-users-docs) | 0 | 1061 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [virt-viewer](/f24/package/virt-viewer) | 0 | 751 | 0.0 | Iloko | 
 {.sortable}
 
 

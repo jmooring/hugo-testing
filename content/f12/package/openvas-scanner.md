@@ -18,7 +18,7 @@ The package openvas-scanner (version 3.0.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f12/language/de.md" >}}) | 620 | 620 | 100.0 | /mnt/stockage/packages/f12/openvas-scanner/po/openvas-scripts-de.po | 
+ | [de](/f12/language/de) | 620 | 620 | 100.0 | /mnt/stockage/packages/f12/openvas-scanner/po/openvas-scripts-de.po | 
 {.sortable}
 
 

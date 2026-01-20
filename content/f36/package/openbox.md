@@ -18,45 +18,45 @@ The package openbox (version 3.6.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [en]({{< ref "/f36/language/en.md" >}}) | 1012 | 1012 | 100.0 | /mnt/stockage/packages/f36/openbox/po/en@boldquot.po/mnt/stockage/packages/f36/openbox/po/en@quot.po | 
- | [hu]({{< ref "/f36/language/hu.md" >}}) | 506 | 506 | 100.0 | /mnt/stockage/packages/f36/openbox/po/hu.po | 
- | [ia]({{< ref "/f36/language/ia.md" >}}) | 506 | 506 | 100.0 | /mnt/stockage/packages/f36/openbox/po/ia.po | 
- | [lt]({{< ref "/f36/language/lt.md" >}}) | 506 | 506 | 100.0 | /mnt/stockage/packages/f36/openbox/po/lt.po | 
- | [nb_NO]({{< ref "/f36/language/nb_NO.md" >}}) | 506 | 506 | 100.0 | /mnt/stockage/packages/f36/openbox/po/no.po | 
- | [pt]({{< ref "/f36/language/pt.md" >}}) | 506 | 506 | 100.0 | /mnt/stockage/packages/f36/openbox/po/pt.po | 
- | [pt_BR]({{< ref "/f36/language/pt_BR.md" >}}) | 506 | 506 | 100.0 | /mnt/stockage/packages/f36/openbox/po/pt_BR.po | 
- | [sv]({{< ref "/f36/language/sv.md" >}}) | 506 | 506 | 100.0 | /mnt/stockage/packages/f36/openbox/po/sv.po | 
- | [ca]({{< ref "/f36/language/ca.md" >}}) | 486 | 506 | 96.0 | /mnt/stockage/packages/f36/openbox/po/ca.po | 
- | [da]({{< ref "/f36/language/da.md" >}}) | 486 | 506 | 96.0 | /mnt/stockage/packages/f36/openbox/po/da.po | 
- | [fr]({{< ref "/f36/language/fr.md" >}}) | 486 | 506 | 96.0 | /mnt/stockage/packages/f36/openbox/po/fr.po | 
- | [hr]({{< ref "/f36/language/hr.md" >}}) | 486 | 506 | 96.0 | /mnt/stockage/packages/f36/openbox/po/hr.po | 
- | [ja]({{< ref "/f36/language/ja.md" >}}) | 486 | 506 | 96.0 | /mnt/stockage/packages/f36/openbox/po/ja.po | 
- | [et]({{< ref "/f36/language/et.md" >}}) | 479 | 506 | 94.7 | /mnt/stockage/packages/f36/openbox/po/et.po | 
- | [eu]({{< ref "/f36/language/eu.md" >}}) | 479 | 506 | 94.7 | /mnt/stockage/packages/f36/openbox/po/eu.po | 
- | [fi]({{< ref "/f36/language/fi.md" >}}) | 479 | 506 | 94.7 | /mnt/stockage/packages/f36/openbox/po/fi.po | 
- | [lv]({{< ref "/f36/language/lv.md" >}}) | 479 | 506 | 94.7 | /mnt/stockage/packages/f36/openbox/po/lv.po | 
- | [ru]({{< ref "/f36/language/ru.md" >}}) | 479 | 506 | 94.7 | /mnt/stockage/packages/f36/openbox/po/ru.po | 
- | [uk]({{< ref "/f36/language/uk.md" >}}) | 479 | 506 | 94.7 | /mnt/stockage/packages/f36/openbox/po/uk.po | 
- | [vi]({{< ref "/f36/language/vi.md" >}}) | 479 | 506 | 94.7 | /mnt/stockage/packages/f36/openbox/po/vi.po | 
- | [zh_Hans]({{< ref "/f36/language/zh_Hans.md" >}}) | 479 | 506 | 94.7 | /mnt/stockage/packages/f36/openbox/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f36/language/zh_Hant.md" >}}) | 479 | 506 | 94.7 | /mnt/stockage/packages/f36/openbox/po/zh_TW.po | 
- | [pl]({{< ref "/f36/language/pl.md" >}}) | 475 | 506 | 93.9 | /mnt/stockage/packages/f36/openbox/po/pl.po | 
- | [af]({{< ref "/f36/language/af.md" >}}) | 473 | 506 | 93.5 | /mnt/stockage/packages/f36/openbox/po/af.po | 
- | [be]({{< ref "/f36/language/be.md" >}}) | 473 | 506 | 93.5 | /mnt/stockage/packages/f36/openbox/po/be.po | 
- | [cs]({{< ref "/f36/language/cs.md" >}}) | 473 | 506 | 93.5 | /mnt/stockage/packages/f36/openbox/po/cs.po | 
- | [de]({{< ref "/f36/language/de.md" >}}) | 473 | 506 | 93.5 | /mnt/stockage/packages/f36/openbox/po/de.po | 
- | [es]({{< ref "/f36/language/es.md" >}}) | 473 | 506 | 93.5 | /mnt/stockage/packages/f36/openbox/po/es.po | 
- | [it]({{< ref "/f36/language/it.md" >}}) | 473 | 506 | 93.5 | /mnt/stockage/packages/f36/openbox/po/it.po | 
- | [nl]({{< ref "/f36/language/nl.md" >}}) | 473 | 506 | 93.5 | /mnt/stockage/packages/f36/openbox/po/nl.po | 
- | [ro]({{< ref "/f36/language/ro.md" >}}) | 473 | 506 | 93.5 | /mnt/stockage/packages/f36/openbox/po/ro.po | 
- | [sr]({{< ref "/f36/language/sr.md" >}}) | 473 | 506 | 93.5 | /mnt/stockage/packages/f36/openbox/po/sr.po | 
- | [sr_Latn]({{< ref "/f36/language/sr_Latn.md" >}}) | 473 | 506 | 93.5 | /mnt/stockage/packages/f36/openbox/po/sr@latin.po | 
- | [tr]({{< ref "/f36/language/tr.md" >}}) | 473 | 506 | 93.5 | /mnt/stockage/packages/f36/openbox/po/tr.po | 
- | [gl]({{< ref "/f36/language/gl.md" >}}) | 449 | 506 | 88.7 | /mnt/stockage/packages/f36/openbox/po/gl_ES.po | 
- | [sk]({{< ref "/f36/language/sk.md" >}}) | 378 | 506 | 74.7 | /mnt/stockage/packages/f36/openbox/po/sk.po | 
- | [he]({{< ref "/f36/language/he.md" >}}) | 357 | 506 | 70.6 | /mnt/stockage/packages/f36/openbox/po/he.po | 
- | [ar]({{< ref "/f36/language/ar.md" >}}) | 344 | 506 | 68.0 | /mnt/stockage/packages/f36/openbox/po/ar.po | 
- | [bn_IN]({{< ref "/f36/language/bn_IN.md" >}}) | 313 | 506 | 61.9 | /mnt/stockage/packages/f36/openbox/po/bn_IN.po | 
+ | [en](/f36/language/en) | 1012 | 1012 | 100.0 | /mnt/stockage/packages/f36/openbox/po/en@boldquot.po/mnt/stockage/packages/f36/openbox/po/en@quot.po | 
+ | [hu](/f36/language/hu) | 506 | 506 | 100.0 | /mnt/stockage/packages/f36/openbox/po/hu.po | 
+ | [ia](/f36/language/ia) | 506 | 506 | 100.0 | /mnt/stockage/packages/f36/openbox/po/ia.po | 
+ | [lt](/f36/language/lt) | 506 | 506 | 100.0 | /mnt/stockage/packages/f36/openbox/po/lt.po | 
+ | [nb_NO](/f36/language/nb_NO) | 506 | 506 | 100.0 | /mnt/stockage/packages/f36/openbox/po/no.po | 
+ | [pt](/f36/language/pt) | 506 | 506 | 100.0 | /mnt/stockage/packages/f36/openbox/po/pt.po | 
+ | [pt_BR](/f36/language/pt_BR) | 506 | 506 | 100.0 | /mnt/stockage/packages/f36/openbox/po/pt_BR.po | 
+ | [sv](/f36/language/sv) | 506 | 506 | 100.0 | /mnt/stockage/packages/f36/openbox/po/sv.po | 
+ | [ca](/f36/language/ca) | 486 | 506 | 96.0 | /mnt/stockage/packages/f36/openbox/po/ca.po | 
+ | [da](/f36/language/da) | 486 | 506 | 96.0 | /mnt/stockage/packages/f36/openbox/po/da.po | 
+ | [fr](/f36/language/fr) | 486 | 506 | 96.0 | /mnt/stockage/packages/f36/openbox/po/fr.po | 
+ | [hr](/f36/language/hr) | 486 | 506 | 96.0 | /mnt/stockage/packages/f36/openbox/po/hr.po | 
+ | [ja](/f36/language/ja) | 486 | 506 | 96.0 | /mnt/stockage/packages/f36/openbox/po/ja.po | 
+ | [et](/f36/language/et) | 479 | 506 | 94.7 | /mnt/stockage/packages/f36/openbox/po/et.po | 
+ | [eu](/f36/language/eu) | 479 | 506 | 94.7 | /mnt/stockage/packages/f36/openbox/po/eu.po | 
+ | [fi](/f36/language/fi) | 479 | 506 | 94.7 | /mnt/stockage/packages/f36/openbox/po/fi.po | 
+ | [lv](/f36/language/lv) | 479 | 506 | 94.7 | /mnt/stockage/packages/f36/openbox/po/lv.po | 
+ | [ru](/f36/language/ru) | 479 | 506 | 94.7 | /mnt/stockage/packages/f36/openbox/po/ru.po | 
+ | [uk](/f36/language/uk) | 479 | 506 | 94.7 | /mnt/stockage/packages/f36/openbox/po/uk.po | 
+ | [vi](/f36/language/vi) | 479 | 506 | 94.7 | /mnt/stockage/packages/f36/openbox/po/vi.po | 
+ | [zh_Hans](/f36/language/zh_Hans) | 479 | 506 | 94.7 | /mnt/stockage/packages/f36/openbox/po/zh_CN.po | 
+ | [zh_Hant](/f36/language/zh_Hant) | 479 | 506 | 94.7 | /mnt/stockage/packages/f36/openbox/po/zh_TW.po | 
+ | [pl](/f36/language/pl) | 475 | 506 | 93.9 | /mnt/stockage/packages/f36/openbox/po/pl.po | 
+ | [af](/f36/language/af) | 473 | 506 | 93.5 | /mnt/stockage/packages/f36/openbox/po/af.po | 
+ | [be](/f36/language/be) | 473 | 506 | 93.5 | /mnt/stockage/packages/f36/openbox/po/be.po | 
+ | [cs](/f36/language/cs) | 473 | 506 | 93.5 | /mnt/stockage/packages/f36/openbox/po/cs.po | 
+ | [de](/f36/language/de) | 473 | 506 | 93.5 | /mnt/stockage/packages/f36/openbox/po/de.po | 
+ | [es](/f36/language/es) | 473 | 506 | 93.5 | /mnt/stockage/packages/f36/openbox/po/es.po | 
+ | [it](/f36/language/it) | 473 | 506 | 93.5 | /mnt/stockage/packages/f36/openbox/po/it.po | 
+ | [nl](/f36/language/nl) | 473 | 506 | 93.5 | /mnt/stockage/packages/f36/openbox/po/nl.po | 
+ | [ro](/f36/language/ro) | 473 | 506 | 93.5 | /mnt/stockage/packages/f36/openbox/po/ro.po | 
+ | [sr](/f36/language/sr) | 473 | 506 | 93.5 | /mnt/stockage/packages/f36/openbox/po/sr.po | 
+ | [sr_Latn](/f36/language/sr_Latn) | 473 | 506 | 93.5 | /mnt/stockage/packages/f36/openbox/po/sr@latin.po | 
+ | [tr](/f36/language/tr) | 473 | 506 | 93.5 | /mnt/stockage/packages/f36/openbox/po/tr.po | 
+ | [gl](/f36/language/gl) | 449 | 506 | 88.7 | /mnt/stockage/packages/f36/openbox/po/gl_ES.po | 
+ | [sk](/f36/language/sk) | 378 | 506 | 74.7 | /mnt/stockage/packages/f36/openbox/po/sk.po | 
+ | [he](/f36/language/he) | 357 | 506 | 70.6 | /mnt/stockage/packages/f36/openbox/po/he.po | 
+ | [ar](/f36/language/ar) | 344 | 506 | 68.0 | /mnt/stockage/packages/f36/openbox/po/ar.po | 
+ | [bn_IN](/f36/language/bn_IN) | 313 | 506 | 61.9 | /mnt/stockage/packages/f36/openbox/po/bn_IN.po | 
 {.sortable}
 
 

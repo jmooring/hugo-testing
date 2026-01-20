@@ -18,8 +18,8 @@ The package yafc (version 1.3.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [sv]({{< ref "/f21/language/sv.md" >}}) | 971 | 2798 | 34.7 | /mnt/stockage/packages/f21/yafc/po/sv.po | 
- | [de]({{< ref "/f21/language/de.md" >}}) | 531 | 2798 | 19.0 | /mnt/stockage/packages/f21/yafc/po/de.po | 
+ | [sv](/f21/language/sv) | 971 | 2798 | 34.7 | /mnt/stockage/packages/f21/yafc/po/sv.po | 
+ | [de](/f21/language/de) | 531 | 2798 | 19.0 | /mnt/stockage/packages/f21/yafc/po/de.po | 
 {.sortable}
 
 

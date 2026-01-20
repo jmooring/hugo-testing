@@ -18,22 +18,22 @@ The package python-django-extensions (version 3.2.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f42/language/ar.md" >}}) | 85 | 85 | 100.0 | /mnt/stockage/packages/f42/python-django-extensions/django_extensions/locale/ar/LC_MESSAGES/django.po | 
- | [de]({{< ref "/f42/language/de.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f42/python-django-extensions/django_extensions/locale/de/LC_MESSAGES/django.po | 
- | [el]({{< ref "/f42/language/el.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f42/python-django-extensions/django_extensions/locale/el/LC_MESSAGES/django.po | 
- | [es]({{< ref "/f42/language/es.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f42/python-django-extensions/django_extensions/locale/es/LC_MESSAGES/django.po | 
- | [fr]({{< ref "/f42/language/fr.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f42/python-django-extensions/django_extensions/locale/fr/LC_MESSAGES/django.po | 
- | [hu]({{< ref "/f42/language/hu.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f42/python-django-extensions/django_extensions/locale/hu/LC_MESSAGES/django.po | 
- | [id]({{< ref "/f42/language/id.md" >}}) | 57 | 57 | 100.0 | /mnt/stockage/packages/f42/python-django-extensions/django_extensions/locale/id/LC_MESSAGES/django.po | 
- | [it]({{< ref "/f42/language/it.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f42/python-django-extensions/django_extensions/locale/it/LC_MESSAGES/django.po | 
- | [ja]({{< ref "/f42/language/ja.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f42/python-django-extensions/django_extensions/locale/ja/LC_MESSAGES/django.po | 
- | [pl]({{< ref "/f42/language/pl.md" >}}) | 92 | 92 | 100.0 | /mnt/stockage/packages/f42/python-django-extensions/django_extensions/locale/pl/LC_MESSAGES/django.po | 
- | [pt]({{< ref "/f42/language/pt.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f42/python-django-extensions/django_extensions/locale/pt/LC_MESSAGES/django.po | 
- | [pt_BR]({{< ref "/f42/language/pt_BR.md" >}}) | 37 | 37 | 100.0 | /mnt/stockage/packages/f42/python-django-extensions/django_extensions/locale/pt_BR/LC_MESSAGES/django.po | 
- | [ro]({{< ref "/f42/language/ro.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f42/python-django-extensions/django_extensions/locale/ro/LC_MESSAGES/django.po | 
- | [ru]({{< ref "/f42/language/ru.md" >}}) | 55 | 85 | 64.7 | /mnt/stockage/packages/f42/python-django-extensions/django_extensions/locale/ru/LC_MESSAGES/django.po | 
- | [da]({{< ref "/f42/language/da.md" >}}) | 19 | 42 | 45.2 | /mnt/stockage/packages/f42/python-django-extensions/django_extensions/locale/da/LC_MESSAGES/django.po | 
- | [en]({{< ref "/f42/language/en.md" >}}) | 0 | 85 | 0.0 | /mnt/stockage/packages/f42/python-django-extensions/django_extensions/locale/en/LC_MESSAGES/django.po | 
+ | [ar](/f42/language/ar) | 85 | 85 | 100.0 | /mnt/stockage/packages/f42/python-django-extensions/django_extensions/locale/ar/LC_MESSAGES/django.po | 
+ | [de](/f42/language/de) | 42 | 42 | 100.0 | /mnt/stockage/packages/f42/python-django-extensions/django_extensions/locale/de/LC_MESSAGES/django.po | 
+ | [el](/f42/language/el) | 42 | 42 | 100.0 | /mnt/stockage/packages/f42/python-django-extensions/django_extensions/locale/el/LC_MESSAGES/django.po | 
+ | [es](/f42/language/es) | 42 | 42 | 100.0 | /mnt/stockage/packages/f42/python-django-extensions/django_extensions/locale/es/LC_MESSAGES/django.po | 
+ | [fr](/f42/language/fr) | 42 | 42 | 100.0 | /mnt/stockage/packages/f42/python-django-extensions/django_extensions/locale/fr/LC_MESSAGES/django.po | 
+ | [hu](/f42/language/hu) | 42 | 42 | 100.0 | /mnt/stockage/packages/f42/python-django-extensions/django_extensions/locale/hu/LC_MESSAGES/django.po | 
+ | [id](/f42/language/id) | 57 | 57 | 100.0 | /mnt/stockage/packages/f42/python-django-extensions/django_extensions/locale/id/LC_MESSAGES/django.po | 
+ | [it](/f42/language/it) | 42 | 42 | 100.0 | /mnt/stockage/packages/f42/python-django-extensions/django_extensions/locale/it/LC_MESSAGES/django.po | 
+ | [ja](/f42/language/ja) | 42 | 42 | 100.0 | /mnt/stockage/packages/f42/python-django-extensions/django_extensions/locale/ja/LC_MESSAGES/django.po | 
+ | [pl](/f42/language/pl) | 92 | 92 | 100.0 | /mnt/stockage/packages/f42/python-django-extensions/django_extensions/locale/pl/LC_MESSAGES/django.po | 
+ | [pt](/f42/language/pt) | 42 | 42 | 100.0 | /mnt/stockage/packages/f42/python-django-extensions/django_extensions/locale/pt/LC_MESSAGES/django.po | 
+ | [pt_BR](/f42/language/pt_BR) | 37 | 37 | 100.0 | /mnt/stockage/packages/f42/python-django-extensions/django_extensions/locale/pt_BR/LC_MESSAGES/django.po | 
+ | [ro](/f42/language/ro) | 42 | 42 | 100.0 | /mnt/stockage/packages/f42/python-django-extensions/django_extensions/locale/ro/LC_MESSAGES/django.po | 
+ | [ru](/f42/language/ru) | 55 | 85 | 64.7 | /mnt/stockage/packages/f42/python-django-extensions/django_extensions/locale/ru/LC_MESSAGES/django.po | 
+ | [da](/f42/language/da) | 19 | 42 | 45.2 | /mnt/stockage/packages/f42/python-django-extensions/django_extensions/locale/da/LC_MESSAGES/django.po | 
+ | [en](/f42/language/en) | 0 | 85 | 0.0 | /mnt/stockage/packages/f42/python-django-extensions/django_extensions/locale/en/LC_MESSAGES/django.po | 
 {.sortable}
 
 

@@ -18,12 +18,12 @@ The package tigervnc (version 1.0.90):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f14/language/fr.md" >}}) | 188 | 188 | 100.0 | /mnt/stockage/packages/f14/tigervnc/po/fr.po | 
- | [pl]({{< ref "/f14/language/pl.md" >}}) | 188 | 188 | 100.0 | /mnt/stockage/packages/f14/tigervnc/po/pl.po | 
- | [ru]({{< ref "/f14/language/ru.md" >}}) | 186 | 186 | 100.0 | /mnt/stockage/packages/f14/tigervnc/po/ru.po | 
- | [sv]({{< ref "/f14/language/sv.md" >}}) | 188 | 188 | 100.0 | /mnt/stockage/packages/f14/tigervnc/po/sv.po | 
- | [de]({{< ref "/f14/language/de.md" >}}) | 186 | 188 | 98.9 | /mnt/stockage/packages/f14/tigervnc/po/de.po | 
- | [sk]({{< ref "/f14/language/sk.md" >}}) | 186 | 188 | 98.9 | /mnt/stockage/packages/f14/tigervnc/po/sk.po | 
+ | [fr](/f14/language/fr) | 188 | 188 | 100.0 | /mnt/stockage/packages/f14/tigervnc/po/fr.po | 
+ | [pl](/f14/language/pl) | 188 | 188 | 100.0 | /mnt/stockage/packages/f14/tigervnc/po/pl.po | 
+ | [ru](/f14/language/ru) | 186 | 186 | 100.0 | /mnt/stockage/packages/f14/tigervnc/po/ru.po | 
+ | [sv](/f14/language/sv) | 188 | 188 | 100.0 | /mnt/stockage/packages/f14/tigervnc/po/sv.po | 
+ | [de](/f14/language/de) | 186 | 188 | 98.9 | /mnt/stockage/packages/f14/tigervnc/po/de.po | 
+ | [sk](/f14/language/sk) | 186 | 188 | 98.9 | /mnt/stockage/packages/f14/tigervnc/po/sk.po | 
 {.sortable}
 
 

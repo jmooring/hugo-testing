@@ -18,47 +18,47 @@ The package moin (version 1.9.7):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f22/language/fr.md" >}}) | 5023 | 5023 | 100.0 | /mnt/stockage/packages/f22/moin/MoinMoin/i18n/fr.MoinMoin.po | 
- | [it]({{< ref "/f22/language/it.md" >}}) | 5023 | 5023 | 100.0 | /mnt/stockage/packages/f22/moin/MoinMoin/i18n/it.MoinMoin.po | 
- | [pt_BR]({{< ref "/f22/language/pt_BR.md" >}}) | 5023 | 5023 | 100.0 | /mnt/stockage/packages/f22/moin/MoinMoin/i18n/pt-br.MoinMoin.po | 
- | [ru]({{< ref "/f22/language/ru.md" >}}) | 5023 | 5023 | 100.0 | /mnt/stockage/packages/f22/moin/MoinMoin/i18n/ru.MoinMoin.po | 
- | [nb_NO]({{< ref "/f22/language/nb_NO.md" >}}) | 4998 | 5023 | 99.5 | /mnt/stockage/packages/f22/moin/MoinMoin/i18n/nb.MoinMoin.po | 
- | [cs]({{< ref "/f22/language/cs.md" >}}) | 4974 | 5023 | 99.0 | /mnt/stockage/packages/f22/moin/MoinMoin/i18n/cs.MoinMoin.po | 
- | [da]({{< ref "/f22/language/da.md" >}}) | 4974 | 5023 | 99.0 | /mnt/stockage/packages/f22/moin/MoinMoin/i18n/da.MoinMoin.po | 
- | [es]({{< ref "/f22/language/es.md" >}}) | 4974 | 5023 | 99.0 | /mnt/stockage/packages/f22/moin/MoinMoin/i18n/es.MoinMoin.po | 
- | [he]({{< ref "/f22/language/he.md" >}}) | 4974 | 5023 | 99.0 | /mnt/stockage/packages/f22/moin/MoinMoin/i18n/he.MoinMoin.po | 
- | [hi]({{< ref "/f22/language/hi.md" >}}) | 4974 | 5023 | 99.0 | /mnt/stockage/packages/f22/moin/MoinMoin/i18n/hi.MoinMoin.po | 
- | [nl]({{< ref "/f22/language/nl.md" >}}) | 4974 | 5023 | 99.0 | /mnt/stockage/packages/f22/moin/MoinMoin/i18n/nl.MoinMoin.po | 
- | [ro]({{< ref "/f22/language/ro.md" >}}) | 4974 | 5023 | 99.0 | /mnt/stockage/packages/f22/moin/MoinMoin/i18n/ro.MoinMoin.po | 
- | [sl]({{< ref "/f22/language/sl.md" >}}) | 4974 | 5023 | 99.0 | /mnt/stockage/packages/f22/moin/MoinMoin/i18n/sl.MoinMoin.po | 
- | [sv]({{< ref "/f22/language/sv.md" >}}) | 4974 | 5023 | 99.0 | /mnt/stockage/packages/f22/moin/MoinMoin/i18n/sv.MoinMoin.po | 
- | [zh_Hans]({{< ref "/f22/language/zh_Hans.md" >}}) | 4974 | 5023 | 99.0 | /mnt/stockage/packages/f22/moin/MoinMoin/i18n/zh.MoinMoin.po | 
- | [ar]({{< ref "/f22/language/ar.md" >}}) | 4971 | 5023 | 99.0 | /mnt/stockage/packages/f22/moin/MoinMoin/i18n/ar.MoinMoin.po | 
- | [ja]({{< ref "/f22/language/ja.md" >}}) | 4964 | 5023 | 98.8 | /mnt/stockage/packages/f22/moin/MoinMoin/i18n/ja.MoinMoin.po | 
- | [ca]({{< ref "/f22/language/ca.md" >}}) | 4828 | 5023 | 96.1 | /mnt/stockage/packages/f22/moin/MoinMoin/i18n/ca.MoinMoin.po | 
- | [pl]({{< ref "/f22/language/pl.md" >}}) | 5002 | 5227 | 95.7 | /mnt/stockage/packages/f22/moin/MoinMoin/i18n/pl.MoinMoin.po/mnt/stockage/packages/f22/moin/MoinMoin/i18n/jabberbot/pl.JabberBot.po | 
- | [fi]({{< ref "/f22/language/fi.md" >}}) | 4737 | 5023 | 94.3 | /mnt/stockage/packages/f22/moin/MoinMoin/i18n/fi.MoinMoin.po | 
- | [lt]({{< ref "/f22/language/lt.md" >}}) | 4640 | 5023 | 92.4 | /mnt/stockage/packages/f22/moin/MoinMoin/i18n/lt.MoinMoin.po | 
- | [fa]({{< ref "/f22/language/fa.md" >}}) | 4551 | 5023 | 90.6 | /mnt/stockage/packages/f22/moin/MoinMoin/i18n/fa.MoinMoin.po | 
- | [mk]({{< ref "/f22/language/mk.md" >}}) | 4191 | 5023 | 83.4 | /mnt/stockage/packages/f22/moin/MoinMoin/i18n/mk.MoinMoin.po | 
- | [bg]({{< ref "/f22/language/bg.md" >}}) | 4131 | 5023 | 82.2 | /mnt/stockage/packages/f22/moin/MoinMoin/i18n/bg.MoinMoin.po | 
- | [el]({{< ref "/f22/language/el.md" >}}) | 4031 | 5023 | 80.3 | /mnt/stockage/packages/f22/moin/MoinMoin/i18n/el.MoinMoin.po | 
- | [sk]({{< ref "/f22/language/sk.md" >}}) | 3793 | 5023 | 75.5 | /mnt/stockage/packages/f22/moin/MoinMoin/i18n/sk.MoinMoin.po | 
- | [lv]({{< ref "/f22/language/lv.md" >}}) | 3643 | 5023 | 72.5 | /mnt/stockage/packages/f22/moin/MoinMoin/i18n/lv.MoinMoin.po | 
- | [zh_Hant]({{< ref "/f22/language/zh_Hant.md" >}}) | 3601 | 5023 | 71.7 | /mnt/stockage/packages/f22/moin/MoinMoin/i18n/zh-tw.MoinMoin.po | 
- | [sr]({{< ref "/f22/language/sr.md" >}}) | 3222 | 5023 | 64.1 | /mnt/stockage/packages/f22/moin/MoinMoin/i18n/sr.MoinMoin.po | 
- | [uk]({{< ref "/f22/language/uk.md" >}}) | 2996 | 5023 | 59.6 | /mnt/stockage/packages/f22/moin/MoinMoin/i18n/uk.MoinMoin.po | 
- | [hr]({{< ref "/f22/language/hr.md" >}}) | 2957 | 5023 | 58.9 | /mnt/stockage/packages/f22/moin/MoinMoin/i18n/hr.MoinMoin.po | 
- | [id]({{< ref "/f22/language/id.md" >}}) | 2860 | 5023 | 56.9 | /mnt/stockage/packages/f22/moin/MoinMoin/i18n/id.MoinMoin.po | 
- | [pt]({{< ref "/f22/language/pt.md" >}}) | 2716 | 5023 | 54.1 | /mnt/stockage/packages/f22/moin/MoinMoin/i18n/pt.MoinMoin.po | 
- | [tr]({{< ref "/f22/language/tr.md" >}}) | 2496 | 5023 | 49.7 | /mnt/stockage/packages/f22/moin/MoinMoin/i18n/tr.MoinMoin.po | 
- | [de]({{< ref "/f22/language/de.md" >}}) | 4974 | 10046 | 49.5 | /mnt/stockage/packages/f22/moin/MoinMoin/i18n/en.MoinMoin.po/mnt/stockage/packages/f22/moin/MoinMoin/i18n/de.MoinMoin.po | 
- | [mn]({{< ref "/f22/language/mn.md" >}}) | 2397 | 5023 | 47.7 | /mnt/stockage/packages/f22/moin/MoinMoin/i18n/mn.MoinMoin.po | 
- | [ko]({{< ref "/f22/language/ko.md" >}}) | 2321 | 5023 | 46.2 | /mnt/stockage/packages/f22/moin/MoinMoin/i18n/ko.MoinMoin.po | 
- | [hu]({{< ref "/f22/language/hu.md" >}}) | 1901 | 5023 | 37.8 | /mnt/stockage/packages/f22/moin/MoinMoin/i18n/hu.MoinMoin.po | 
- | [gl]({{< ref "/f22/language/gl.md" >}}) | 1706 | 5023 | 34.0 | /mnt/stockage/packages/f22/moin/MoinMoin/i18n/gl.MoinMoin.po | 
- | [vi]({{< ref "/f22/language/vi.md" >}}) | 1463 | 5023 | 29.1 | /mnt/stockage/packages/f22/moin/MoinMoin/i18n/vi.MoinMoin.po | 
- | [ku]({{< ref "/f22/language/ku.md" >}}) | 446 | 5023 | 8.9 | /mnt/stockage/packages/f22/moin/MoinMoin/i18n/ku.MoinMoin.po | 
+ | [fr](/f22/language/fr) | 5023 | 5023 | 100.0 | /mnt/stockage/packages/f22/moin/MoinMoin/i18n/fr.MoinMoin.po | 
+ | [it](/f22/language/it) | 5023 | 5023 | 100.0 | /mnt/stockage/packages/f22/moin/MoinMoin/i18n/it.MoinMoin.po | 
+ | [pt_BR](/f22/language/pt_BR) | 5023 | 5023 | 100.0 | /mnt/stockage/packages/f22/moin/MoinMoin/i18n/pt-br.MoinMoin.po | 
+ | [ru](/f22/language/ru) | 5023 | 5023 | 100.0 | /mnt/stockage/packages/f22/moin/MoinMoin/i18n/ru.MoinMoin.po | 
+ | [nb_NO](/f22/language/nb_NO) | 4998 | 5023 | 99.5 | /mnt/stockage/packages/f22/moin/MoinMoin/i18n/nb.MoinMoin.po | 
+ | [cs](/f22/language/cs) | 4974 | 5023 | 99.0 | /mnt/stockage/packages/f22/moin/MoinMoin/i18n/cs.MoinMoin.po | 
+ | [da](/f22/language/da) | 4974 | 5023 | 99.0 | /mnt/stockage/packages/f22/moin/MoinMoin/i18n/da.MoinMoin.po | 
+ | [es](/f22/language/es) | 4974 | 5023 | 99.0 | /mnt/stockage/packages/f22/moin/MoinMoin/i18n/es.MoinMoin.po | 
+ | [he](/f22/language/he) | 4974 | 5023 | 99.0 | /mnt/stockage/packages/f22/moin/MoinMoin/i18n/he.MoinMoin.po | 
+ | [hi](/f22/language/hi) | 4974 | 5023 | 99.0 | /mnt/stockage/packages/f22/moin/MoinMoin/i18n/hi.MoinMoin.po | 
+ | [nl](/f22/language/nl) | 4974 | 5023 | 99.0 | /mnt/stockage/packages/f22/moin/MoinMoin/i18n/nl.MoinMoin.po | 
+ | [ro](/f22/language/ro) | 4974 | 5023 | 99.0 | /mnt/stockage/packages/f22/moin/MoinMoin/i18n/ro.MoinMoin.po | 
+ | [sl](/f22/language/sl) | 4974 | 5023 | 99.0 | /mnt/stockage/packages/f22/moin/MoinMoin/i18n/sl.MoinMoin.po | 
+ | [sv](/f22/language/sv) | 4974 | 5023 | 99.0 | /mnt/stockage/packages/f22/moin/MoinMoin/i18n/sv.MoinMoin.po | 
+ | [zh_Hans](/f22/language/zh_Hans) | 4974 | 5023 | 99.0 | /mnt/stockage/packages/f22/moin/MoinMoin/i18n/zh.MoinMoin.po | 
+ | [ar](/f22/language/ar) | 4971 | 5023 | 99.0 | /mnt/stockage/packages/f22/moin/MoinMoin/i18n/ar.MoinMoin.po | 
+ | [ja](/f22/language/ja) | 4964 | 5023 | 98.8 | /mnt/stockage/packages/f22/moin/MoinMoin/i18n/ja.MoinMoin.po | 
+ | [ca](/f22/language/ca) | 4828 | 5023 | 96.1 | /mnt/stockage/packages/f22/moin/MoinMoin/i18n/ca.MoinMoin.po | 
+ | [pl](/f22/language/pl) | 5002 | 5227 | 95.7 | /mnt/stockage/packages/f22/moin/MoinMoin/i18n/pl.MoinMoin.po/mnt/stockage/packages/f22/moin/MoinMoin/i18n/jabberbot/pl.JabberBot.po | 
+ | [fi](/f22/language/fi) | 4737 | 5023 | 94.3 | /mnt/stockage/packages/f22/moin/MoinMoin/i18n/fi.MoinMoin.po | 
+ | [lt](/f22/language/lt) | 4640 | 5023 | 92.4 | /mnt/stockage/packages/f22/moin/MoinMoin/i18n/lt.MoinMoin.po | 
+ | [fa](/f22/language/fa) | 4551 | 5023 | 90.6 | /mnt/stockage/packages/f22/moin/MoinMoin/i18n/fa.MoinMoin.po | 
+ | [mk](/f22/language/mk) | 4191 | 5023 | 83.4 | /mnt/stockage/packages/f22/moin/MoinMoin/i18n/mk.MoinMoin.po | 
+ | [bg](/f22/language/bg) | 4131 | 5023 | 82.2 | /mnt/stockage/packages/f22/moin/MoinMoin/i18n/bg.MoinMoin.po | 
+ | [el](/f22/language/el) | 4031 | 5023 | 80.3 | /mnt/stockage/packages/f22/moin/MoinMoin/i18n/el.MoinMoin.po | 
+ | [sk](/f22/language/sk) | 3793 | 5023 | 75.5 | /mnt/stockage/packages/f22/moin/MoinMoin/i18n/sk.MoinMoin.po | 
+ | [lv](/f22/language/lv) | 3643 | 5023 | 72.5 | /mnt/stockage/packages/f22/moin/MoinMoin/i18n/lv.MoinMoin.po | 
+ | [zh_Hant](/f22/language/zh_Hant) | 3601 | 5023 | 71.7 | /mnt/stockage/packages/f22/moin/MoinMoin/i18n/zh-tw.MoinMoin.po | 
+ | [sr](/f22/language/sr) | 3222 | 5023 | 64.1 | /mnt/stockage/packages/f22/moin/MoinMoin/i18n/sr.MoinMoin.po | 
+ | [uk](/f22/language/uk) | 2996 | 5023 | 59.6 | /mnt/stockage/packages/f22/moin/MoinMoin/i18n/uk.MoinMoin.po | 
+ | [hr](/f22/language/hr) | 2957 | 5023 | 58.9 | /mnt/stockage/packages/f22/moin/MoinMoin/i18n/hr.MoinMoin.po | 
+ | [id](/f22/language/id) | 2860 | 5023 | 56.9 | /mnt/stockage/packages/f22/moin/MoinMoin/i18n/id.MoinMoin.po | 
+ | [pt](/f22/language/pt) | 2716 | 5023 | 54.1 | /mnt/stockage/packages/f22/moin/MoinMoin/i18n/pt.MoinMoin.po | 
+ | [tr](/f22/language/tr) | 2496 | 5023 | 49.7 | /mnt/stockage/packages/f22/moin/MoinMoin/i18n/tr.MoinMoin.po | 
+ | [de](/f22/language/de) | 4974 | 10046 | 49.5 | /mnt/stockage/packages/f22/moin/MoinMoin/i18n/en.MoinMoin.po/mnt/stockage/packages/f22/moin/MoinMoin/i18n/de.MoinMoin.po | 
+ | [mn](/f22/language/mn) | 2397 | 5023 | 47.7 | /mnt/stockage/packages/f22/moin/MoinMoin/i18n/mn.MoinMoin.po | 
+ | [ko](/f22/language/ko) | 2321 | 5023 | 46.2 | /mnt/stockage/packages/f22/moin/MoinMoin/i18n/ko.MoinMoin.po | 
+ | [hu](/f22/language/hu) | 1901 | 5023 | 37.8 | /mnt/stockage/packages/f22/moin/MoinMoin/i18n/hu.MoinMoin.po | 
+ | [gl](/f22/language/gl) | 1706 | 5023 | 34.0 | /mnt/stockage/packages/f22/moin/MoinMoin/i18n/gl.MoinMoin.po | 
+ | [vi](/f22/language/vi) | 1463 | 5023 | 29.1 | /mnt/stockage/packages/f22/moin/MoinMoin/i18n/vi.MoinMoin.po | 
+ | [ku](/f22/language/ku) | 446 | 5023 | 8.9 | /mnt/stockage/packages/f22/moin/MoinMoin/i18n/ku.MoinMoin.po | 
 {.sortable}
 
 

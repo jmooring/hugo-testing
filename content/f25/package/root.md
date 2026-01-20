@@ -18,21 +18,21 @@ The package root (version 6.10.08):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f25/language/cs.md" >}}) | 211 | 211 | 100.0 | /mnt/stockage/packages/f25/root/build/package/debian/po/cs.po | 
- | [de]({{< ref "/f25/language/de.md" >}}) | 211 | 211 | 100.0 | /mnt/stockage/packages/f25/root/build/package/debian/po/de.po | 
- | [es]({{< ref "/f25/language/es.md" >}}) | 211 | 211 | 100.0 | /mnt/stockage/packages/f25/root/build/package/debian/po/es.po | 
- | [eu]({{< ref "/f25/language/eu.md" >}}) | 211 | 211 | 100.0 | /mnt/stockage/packages/f25/root/build/package/debian/po/eu.po | 
- | [fi]({{< ref "/f25/language/fi.md" >}}) | 211 | 211 | 100.0 | /mnt/stockage/packages/f25/root/build/package/debian/po/fi.po | 
- | [fr]({{< ref "/f25/language/fr.md" >}}) | 211 | 211 | 100.0 | /mnt/stockage/packages/f25/root/build/package/debian/po/fr.po | 
- | [gl]({{< ref "/f25/language/gl.md" >}}) | 211 | 211 | 100.0 | /mnt/stockage/packages/f25/root/build/package/debian/po/gl.po | 
- | [it]({{< ref "/f25/language/it.md" >}}) | 211 | 211 | 100.0 | /mnt/stockage/packages/f25/root/build/package/debian/po/it.po | 
- | [ja]({{< ref "/f25/language/ja.md" >}}) | 211 | 211 | 100.0 | /mnt/stockage/packages/f25/root/build/package/debian/po/ja.po | 
- | [pt]({{< ref "/f25/language/pt.md" >}}) | 211 | 211 | 100.0 | /mnt/stockage/packages/f25/root/build/package/debian/po/pt.po | 
- | [ru]({{< ref "/f25/language/ru.md" >}}) | 211 | 211 | 100.0 | /mnt/stockage/packages/f25/root/build/package/debian/po/ru.po | 
- | [sv]({{< ref "/f25/language/sv.md" >}}) | 211 | 211 | 100.0 | /mnt/stockage/packages/f25/root/build/package/debian/po/sv.po | 
- | [vi]({{< ref "/f25/language/vi.md" >}}) | 211 | 211 | 100.0 | /mnt/stockage/packages/f25/root/build/package/debian/po/vi.po | 
- | [pt_BR]({{< ref "/f25/language/pt_BR.md" >}}) | 4 | 211 | 1.9 | /mnt/stockage/packages/f25/root/build/package/debian/po/pt_BR.po | 
- | [da]({{< ref "/f25/language/da.md" >}}) | 0 | 211 | 0.0 | /mnt/stockage/packages/f25/root/build/package/debian/po/da.po | 
+ | [cs](/f25/language/cs) | 211 | 211 | 100.0 | /mnt/stockage/packages/f25/root/build/package/debian/po/cs.po | 
+ | [de](/f25/language/de) | 211 | 211 | 100.0 | /mnt/stockage/packages/f25/root/build/package/debian/po/de.po | 
+ | [es](/f25/language/es) | 211 | 211 | 100.0 | /mnt/stockage/packages/f25/root/build/package/debian/po/es.po | 
+ | [eu](/f25/language/eu) | 211 | 211 | 100.0 | /mnt/stockage/packages/f25/root/build/package/debian/po/eu.po | 
+ | [fi](/f25/language/fi) | 211 | 211 | 100.0 | /mnt/stockage/packages/f25/root/build/package/debian/po/fi.po | 
+ | [fr](/f25/language/fr) | 211 | 211 | 100.0 | /mnt/stockage/packages/f25/root/build/package/debian/po/fr.po | 
+ | [gl](/f25/language/gl) | 211 | 211 | 100.0 | /mnt/stockage/packages/f25/root/build/package/debian/po/gl.po | 
+ | [it](/f25/language/it) | 211 | 211 | 100.0 | /mnt/stockage/packages/f25/root/build/package/debian/po/it.po | 
+ | [ja](/f25/language/ja) | 211 | 211 | 100.0 | /mnt/stockage/packages/f25/root/build/package/debian/po/ja.po | 
+ | [pt](/f25/language/pt) | 211 | 211 | 100.0 | /mnt/stockage/packages/f25/root/build/package/debian/po/pt.po | 
+ | [ru](/f25/language/ru) | 211 | 211 | 100.0 | /mnt/stockage/packages/f25/root/build/package/debian/po/ru.po | 
+ | [sv](/f25/language/sv) | 211 | 211 | 100.0 | /mnt/stockage/packages/f25/root/build/package/debian/po/sv.po | 
+ | [vi](/f25/language/vi) | 211 | 211 | 100.0 | /mnt/stockage/packages/f25/root/build/package/debian/po/vi.po | 
+ | [pt_BR](/f25/language/pt_BR) | 4 | 211 | 1.9 | /mnt/stockage/packages/f25/root/build/package/debian/po/pt_BR.po | 
+ | [da](/f25/language/da) | 0 | 211 | 0.0 | /mnt/stockage/packages/f25/root/build/package/debian/po/da.po | 
 {.sortable}
 
 

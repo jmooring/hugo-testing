@@ -18,11 +18,11 @@ The package certmonger (version 0.23):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [pl]({{< ref "/f11/language/pl.md" >}}) | 823 | 823 | 100.0 | /mnt/stockage/packages/f11/certmonger/po/pl.po | 
- | [uk]({{< ref "/f11/language/uk.md" >}}) | 823 | 823 | 100.0 | /mnt/stockage/packages/f11/certmonger/po/uk.po | 
- | [es]({{< ref "/f11/language/es.md" >}}) | 69 | 823 | 8.4 | /mnt/stockage/packages/f11/certmonger/po/es.po | 
- | [de]({{< ref "/f11/language/de.md" >}}) | 45 | 823 | 5.5 | /mnt/stockage/packages/f11/certmonger/po/de.po | 
- | [ru]({{< ref "/f11/language/ru.md" >}}) | 0 | 823 | 0.0 | /mnt/stockage/packages/f11/certmonger/po/ru.po | 
+ | [pl](/f11/language/pl) | 823 | 823 | 100.0 | /mnt/stockage/packages/f11/certmonger/po/pl.po | 
+ | [uk](/f11/language/uk) | 823 | 823 | 100.0 | /mnt/stockage/packages/f11/certmonger/po/uk.po | 
+ | [es](/f11/language/es) | 69 | 823 | 8.4 | /mnt/stockage/packages/f11/certmonger/po/es.po | 
+ | [de](/f11/language/de) | 45 | 823 | 5.5 | /mnt/stockage/packages/f11/certmonger/po/de.po | 
+ | [ru](/f11/language/ru) | 0 | 823 | 0.0 | /mnt/stockage/packages/f11/certmonger/po/ru.po | 
 {.sortable}
 
 

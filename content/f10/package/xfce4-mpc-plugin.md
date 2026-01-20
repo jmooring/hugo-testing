@@ -18,17 +18,17 @@ The package xfce4-mpc-plugin (version 0.3.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f10/language/cs.md" >}}) | 22 | 22 | 100.0 | /mnt/stockage/packages/f10/xfce4-mpc-plugin/po/cs.po | 
- | [en_GB]({{< ref "/f10/language/en_GB.md" >}}) | 22 | 22 | 100.0 | /mnt/stockage/packages/f10/xfce4-mpc-plugin/po/en_GB.po | 
- | [eu]({{< ref "/f10/language/eu.md" >}}) | 22 | 22 | 100.0 | /mnt/stockage/packages/f10/xfce4-mpc-plugin/po/eu.po | 
- | [fr]({{< ref "/f10/language/fr.md" >}}) | 22 | 22 | 100.0 | /mnt/stockage/packages/f10/xfce4-mpc-plugin/po/fr.po | 
- | [hu]({{< ref "/f10/language/hu.md" >}}) | 22 | 22 | 100.0 | /mnt/stockage/packages/f10/xfce4-mpc-plugin/po/hu.po | 
- | [lv]({{< ref "/f10/language/lv.md" >}}) | 22 | 22 | 100.0 | /mnt/stockage/packages/f10/xfce4-mpc-plugin/po/lv.po | 
- | [pl]({{< ref "/f10/language/pl.md" >}}) | 22 | 22 | 100.0 | /mnt/stockage/packages/f10/xfce4-mpc-plugin/po/pl.po | 
- | [pt_BR]({{< ref "/f10/language/pt_BR.md" >}}) | 22 | 22 | 100.0 | /mnt/stockage/packages/f10/xfce4-mpc-plugin/po/pt_BR.po | 
- | [pt_PT]({{< ref "/f10/language/pt_PT.md" >}}) | 22 | 22 | 100.0 | /mnt/stockage/packages/f10/xfce4-mpc-plugin/po/pt_PT.po | 
- | [sq]({{< ref "/f10/language/sq.md" >}}) | 22 | 22 | 100.0 | /mnt/stockage/packages/f10/xfce4-mpc-plugin/po/sq.po | 
- | [ur]({{< ref "/f10/language/ur.md" >}}) | 22 | 22 | 100.0 | /mnt/stockage/packages/f10/xfce4-mpc-plugin/po/ur.po | 
+ | [cs](/f10/language/cs) | 22 | 22 | 100.0 | /mnt/stockage/packages/f10/xfce4-mpc-plugin/po/cs.po | 
+ | [en_GB](/f10/language/en_GB) | 22 | 22 | 100.0 | /mnt/stockage/packages/f10/xfce4-mpc-plugin/po/en_GB.po | 
+ | [eu](/f10/language/eu) | 22 | 22 | 100.0 | /mnt/stockage/packages/f10/xfce4-mpc-plugin/po/eu.po | 
+ | [fr](/f10/language/fr) | 22 | 22 | 100.0 | /mnt/stockage/packages/f10/xfce4-mpc-plugin/po/fr.po | 
+ | [hu](/f10/language/hu) | 22 | 22 | 100.0 | /mnt/stockage/packages/f10/xfce4-mpc-plugin/po/hu.po | 
+ | [lv](/f10/language/lv) | 22 | 22 | 100.0 | /mnt/stockage/packages/f10/xfce4-mpc-plugin/po/lv.po | 
+ | [pl](/f10/language/pl) | 22 | 22 | 100.0 | /mnt/stockage/packages/f10/xfce4-mpc-plugin/po/pl.po | 
+ | [pt_BR](/f10/language/pt_BR) | 22 | 22 | 100.0 | /mnt/stockage/packages/f10/xfce4-mpc-plugin/po/pt_BR.po | 
+ | [pt_PT](/f10/language/pt_PT) | 22 | 22 | 100.0 | /mnt/stockage/packages/f10/xfce4-mpc-plugin/po/pt_PT.po | 
+ | [sq](/f10/language/sq) | 22 | 22 | 100.0 | /mnt/stockage/packages/f10/xfce4-mpc-plugin/po/sq.po | 
+ | [ur](/f10/language/ur) | 22 | 22 | 100.0 | /mnt/stockage/packages/f10/xfce4-mpc-plugin/po/ur.po | 
 {.sortable}
 
 

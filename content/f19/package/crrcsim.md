@@ -18,10 +18,10 @@ The package crrcsim (version 0.9.12):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f19/language/de.md" >}}) | 603 | 603 | 100.0 | /mnt/stockage/packages/f19/crrcsim/locale/de/LC_MESSAGES/crrcsim.po | 
- | [it]({{< ref "/f19/language/it.md" >}}) | 603 | 603 | 100.0 | /mnt/stockage/packages/f19/crrcsim/locale/it/LC_MESSAGES/crrcsim.po | 
- | [fr]({{< ref "/f19/language/fr.md" >}}) | 594 | 603 | 98.5 | /mnt/stockage/packages/f19/crrcsim/locale/fr/LC_MESSAGES/crrcsim.po | 
- | [error]({{< ref "/f19/language/error.md" >}}) | 0 | 585 | 0.0 | /mnt/stockage/packages/f19/crrcsim/locale/xx/LC_MESSAGES/crrcsim.po | 
+ | [de](/f19/language/de) | 603 | 603 | 100.0 | /mnt/stockage/packages/f19/crrcsim/locale/de/LC_MESSAGES/crrcsim.po | 
+ | [it](/f19/language/it) | 603 | 603 | 100.0 | /mnt/stockage/packages/f19/crrcsim/locale/it/LC_MESSAGES/crrcsim.po | 
+ | [fr](/f19/language/fr) | 594 | 603 | 98.5 | /mnt/stockage/packages/f19/crrcsim/locale/fr/LC_MESSAGES/crrcsim.po | 
+ | [error](/f19/language/error) | 0 | 585 | 0.0 | /mnt/stockage/packages/f19/crrcsim/locale/xx/LC_MESSAGES/crrcsim.po | 
 {.sortable}
 
 

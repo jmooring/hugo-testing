@@ -38,8 +38,8 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [publican-jboss]({{< ref "/f32/package/publican-jboss.md" >}}) | 120 | 232 | 51.7 | Gujarati | 
- | [pgadmin3]({{< ref "/f32/package/pgadmin3.md" >}}) | 2 | 23216 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [publican-jboss](/f32/package/publican-jboss) | 120 | 232 | 51.7 | Gujarati | 
+ | [pgadmin3](/f32/package/pgadmin3) | 2 | 23216 | 0.0 | LANGUAGE <LL@li.org> | 
 {.sortable}
 
 

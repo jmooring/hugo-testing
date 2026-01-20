@@ -18,16 +18,16 @@ The package poweradmin (version 2.1.7):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f35/language/de.md" >}}) | 1917 | 1917 | 100.0 | /mnt/stockage/packages/f35/poweradmin/locale/de_DE/LC_MESSAGES/de.po | 
- | [en]({{< ref "/f35/language/en.md" >}}) | 1878 | 1878 | 100.0 | /mnt/stockage/packages/f35/poweradmin/locale/en_EN/LC_MESSAGES/en.po | 
- | [fr]({{< ref "/f35/language/fr.md" >}}) | 1385 | 1385 | 100.0 | /mnt/stockage/packages/f35/poweradmin/locale/fr_FR/LC_MESSAGES/fr.po/mnt/stockage/packages/f35/poweradmin/locale/fr_FR/LC_MESSAGES/fr_db.po | 
- | [ja]({{< ref "/f35/language/ja.md" >}}) | 1889 | 1889 | 100.0 | /mnt/stockage/packages/f35/poweradmin/locale/ja_JP/LC_MESSAGES/ja.po | 
- | [nb_NO]({{< ref "/f35/language/nb_NO.md" >}}) | 2088 | 2088 | 100.0 | /mnt/stockage/packages/f35/poweradmin/locale/nb_NO/LC_MESSAGES/nb.po/mnt/stockage/packages/f35/poweradmin/locale/nb_NO/LC_MESSAGES/nb_db.po | 
- | [nl]({{< ref "/f35/language/nl.md" >}}) | 2088 | 2088 | 100.0 | /mnt/stockage/packages/f35/poweradmin/locale/nl_NL/LC_MESSAGES/nl.po/mnt/stockage/packages/f35/poweradmin/locale/nl_NL/LC_MESSAGES/nl_db.po | 
- | [pl]({{< ref "/f35/language/pl.md" >}}) | 1373 | 1373 | 100.0 | /mnt/stockage/packages/f35/poweradmin/locale/pl_PL/LC_MESSAGES/pl.po | 
- | [ru]({{< ref "/f35/language/ru.md" >}}) | 2426 | 2426 | 100.0 | /mnt/stockage/packages/f35/poweradmin/locale/ru_RU/LC_MESSAGES/ru.po/mnt/stockage/packages/f35/poweradmin/locale/ru_RU/LC_MESSAGES/ru_db.po | 
- | [zh_Hans]({{< ref "/f35/language/zh_Hans.md" >}}) | 866 | 866 | 100.0 | /mnt/stockage/packages/f35/poweradmin/locale/zh_CN/LC_MESSAGES/zh.po | 
- | [cs]({{< ref "/f35/language/cs.md" >}}) | 309 | 2088 | 14.8 | /mnt/stockage/packages/f35/poweradmin/locale/cs_CZ/LC_MESSAGES/cs.po/mnt/stockage/packages/f35/poweradmin/locale/cs_CZ/LC_MESSAGES/cs_db.po | 
+ | [de](/f35/language/de) | 1917 | 1917 | 100.0 | /mnt/stockage/packages/f35/poweradmin/locale/de_DE/LC_MESSAGES/de.po | 
+ | [en](/f35/language/en) | 1878 | 1878 | 100.0 | /mnt/stockage/packages/f35/poweradmin/locale/en_EN/LC_MESSAGES/en.po | 
+ | [fr](/f35/language/fr) | 1385 | 1385 | 100.0 | /mnt/stockage/packages/f35/poweradmin/locale/fr_FR/LC_MESSAGES/fr.po/mnt/stockage/packages/f35/poweradmin/locale/fr_FR/LC_MESSAGES/fr_db.po | 
+ | [ja](/f35/language/ja) | 1889 | 1889 | 100.0 | /mnt/stockage/packages/f35/poweradmin/locale/ja_JP/LC_MESSAGES/ja.po | 
+ | [nb_NO](/f35/language/nb_NO) | 2088 | 2088 | 100.0 | /mnt/stockage/packages/f35/poweradmin/locale/nb_NO/LC_MESSAGES/nb.po/mnt/stockage/packages/f35/poweradmin/locale/nb_NO/LC_MESSAGES/nb_db.po | 
+ | [nl](/f35/language/nl) | 2088 | 2088 | 100.0 | /mnt/stockage/packages/f35/poweradmin/locale/nl_NL/LC_MESSAGES/nl.po/mnt/stockage/packages/f35/poweradmin/locale/nl_NL/LC_MESSAGES/nl_db.po | 
+ | [pl](/f35/language/pl) | 1373 | 1373 | 100.0 | /mnt/stockage/packages/f35/poweradmin/locale/pl_PL/LC_MESSAGES/pl.po | 
+ | [ru](/f35/language/ru) | 2426 | 2426 | 100.0 | /mnt/stockage/packages/f35/poweradmin/locale/ru_RU/LC_MESSAGES/ru.po/mnt/stockage/packages/f35/poweradmin/locale/ru_RU/LC_MESSAGES/ru_db.po | 
+ | [zh_Hans](/f35/language/zh_Hans) | 866 | 866 | 100.0 | /mnt/stockage/packages/f35/poweradmin/locale/zh_CN/LC_MESSAGES/zh.po | 
+ | [cs](/f35/language/cs) | 309 | 2088 | 14.8 | /mnt/stockage/packages/f35/poweradmin/locale/cs_CZ/LC_MESSAGES/cs.po/mnt/stockage/packages/f35/poweradmin/locale/cs_CZ/LC_MESSAGES/cs_db.po | 
 {.sortable}
 
 

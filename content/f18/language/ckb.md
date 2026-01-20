@@ -39,10 +39,10 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [poedit]({{< ref "/f18/package/poedit.md" >}}) | 1361 | 1525 | 89.2 | Kurdish(ckb)-Ú©ÙØ±Ø¯Û <asos.ap11@gmail.com> | 
- | [transmission]({{< ref "/f18/package/transmission.md" >}}) | 251 | 1809 | 13.9 | Kurdish (Sorani) <ckb@li.org> | 
- | [stellarium]({{< ref "/f18/package/stellarium.md" >}}) | 82 | 11181 | 0.7 | Kurdish (Sorani) <ckb@li.org> | 
- | [terminator]({{< ref "/f18/package/terminator.md" >}}) | 3 | 726 | 0.4 | Kurdish (Sorani) <ckb@li.org> | 
+ | [poedit](/f18/package/poedit) | 1361 | 1525 | 89.2 | Kurdish(ckb)-Ú©ÙØ±Ø¯Û <asos.ap11@gmail.com> | 
+ | [transmission](/f18/package/transmission) | 251 | 1809 | 13.9 | Kurdish (Sorani) <ckb@li.org> | 
+ | [stellarium](/f18/package/stellarium) | 82 | 11181 | 0.7 | Kurdish (Sorani) <ckb@li.org> | 
+ | [terminator](/f18/package/terminator) | 3 | 726 | 0.4 | Kurdish (Sorani) <ckb@li.org> | 
 {.sortable}
 
 

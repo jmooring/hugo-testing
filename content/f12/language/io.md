@@ -38,13 +38,13 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [alacarte]({{< ref "/f12/package/alacarte.md" >}}) | 42 | 42 | 100.0 | Ido <gnome-ido@lists.mterry.name> | 
- | [lxmenu-data]({{< ref "/f12/package/lxmenu-data.md" >}}) | 52 | 97 | 53.6 | Ido <gnome-ido@lists.mterry.name> | 
- | [gnome-menus]({{< ref "/f12/package/gnome-menus.md" >}}) | 86 | 165 | 52.1 | Ido <gnome-ido@lists.mterry.name> | 
- | [nautilus]({{< ref "/f12/package/nautilus.md" >}}) | 1293 | 7454 | 17.3 | Ido <gnome-ido@lists.mterry.name> | 
- | [mingw32-gtk2]({{< ref "/f12/package/mingw32-gtk2.md" >}}) | 1169 | 13351 | 8.8 | Ido <gnome-ido@lists.mterry.name> | 
- | [gtk2]({{< ref "/f12/package/gtk2.md" >}}) | 1169 | 13358 | 8.8 | Ido <gnome-ido@lists.mterry.name> | 
- | [duplicity]({{< ref "/f12/package/duplicity.md" >}}) | 42 | 1616 | 2.6 | Ido | 
+ | [alacarte](/f12/package/alacarte) | 42 | 42 | 100.0 | Ido <gnome-ido@lists.mterry.name> | 
+ | [lxmenu-data](/f12/package/lxmenu-data) | 52 | 97 | 53.6 | Ido <gnome-ido@lists.mterry.name> | 
+ | [gnome-menus](/f12/package/gnome-menus) | 86 | 165 | 52.1 | Ido <gnome-ido@lists.mterry.name> | 
+ | [nautilus](/f12/package/nautilus) | 1293 | 7454 | 17.3 | Ido <gnome-ido@lists.mterry.name> | 
+ | [mingw32-gtk2](/f12/package/mingw32-gtk2) | 1169 | 13351 | 8.8 | Ido <gnome-ido@lists.mterry.name> | 
+ | [gtk2](/f12/package/gtk2) | 1169 | 13358 | 8.8 | Ido <gnome-ido@lists.mterry.name> | 
+ | [duplicity](/f12/package/duplicity) | 42 | 1616 | 2.6 | Ido | 
 {.sortable}
 
 

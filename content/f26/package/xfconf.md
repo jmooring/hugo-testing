@@ -18,58 +18,58 @@ The package xfconf (version 4.12.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f26/language/ar.md" >}}) | 451 | 451 | 100.0 | /mnt/stockage/packages/f26/xfconf/po/ar.po | 
- | [ast]({{< ref "/f26/language/ast.md" >}}) | 452 | 452 | 100.0 | /mnt/stockage/packages/f26/xfconf/po/ast.po | 
- | [bg]({{< ref "/f26/language/bg.md" >}}) | 452 | 452 | 100.0 | /mnt/stockage/packages/f26/xfconf/po/bg.po | 
- | [ca]({{< ref "/f26/language/ca.md" >}}) | 452 | 452 | 100.0 | /mnt/stockage/packages/f26/xfconf/po/ca.po | 
- | [cs]({{< ref "/f26/language/cs.md" >}}) | 452 | 452 | 100.0 | /mnt/stockage/packages/f26/xfconf/po/cs.po | 
- | [da]({{< ref "/f26/language/da.md" >}}) | 452 | 452 | 100.0 | /mnt/stockage/packages/f26/xfconf/po/da.po | 
- | [de]({{< ref "/f26/language/de.md" >}}) | 452 | 452 | 100.0 | /mnt/stockage/packages/f26/xfconf/po/de.po | 
- | [el]({{< ref "/f26/language/el.md" >}}) | 452 | 452 | 100.0 | /mnt/stockage/packages/f26/xfconf/po/el.po | 
- | [en_AU]({{< ref "/f26/language/en_AU.md" >}}) | 452 | 452 | 100.0 | /mnt/stockage/packages/f26/xfconf/po/en_AU.po | 
- | [en_GB]({{< ref "/f26/language/en_GB.md" >}}) | 451 | 451 | 100.0 | /mnt/stockage/packages/f26/xfconf/po/en_GB.po | 
- | [es]({{< ref "/f26/language/es.md" >}}) | 452 | 452 | 100.0 | /mnt/stockage/packages/f26/xfconf/po/es.po | 
- | [fi]({{< ref "/f26/language/fi.md" >}}) | 452 | 452 | 100.0 | /mnt/stockage/packages/f26/xfconf/po/fi.po | 
- | [fr]({{< ref "/f26/language/fr.md" >}}) | 452 | 452 | 100.0 | /mnt/stockage/packages/f26/xfconf/po/fr.po | 
- | [gl]({{< ref "/f26/language/gl.md" >}}) | 452 | 452 | 100.0 | /mnt/stockage/packages/f26/xfconf/po/gl.po | 
- | [he]({{< ref "/f26/language/he.md" >}}) | 452 | 452 | 100.0 | /mnt/stockage/packages/f26/xfconf/po/he.po | 
- | [hr]({{< ref "/f26/language/hr.md" >}}) | 452 | 452 | 100.0 | /mnt/stockage/packages/f26/xfconf/po/hr.po | 
- | [hu]({{< ref "/f26/language/hu.md" >}}) | 452 | 452 | 100.0 | /mnt/stockage/packages/f26/xfconf/po/hu.po | 
- | [id]({{< ref "/f26/language/id.md" >}}) | 451 | 451 | 100.0 | /mnt/stockage/packages/f26/xfconf/po/id.po | 
- | [it]({{< ref "/f26/language/it.md" >}}) | 452 | 452 | 100.0 | /mnt/stockage/packages/f26/xfconf/po/it.po | 
- | [ja]({{< ref "/f26/language/ja.md" >}}) | 452 | 452 | 100.0 | /mnt/stockage/packages/f26/xfconf/po/ja.po | 
- | [kk]({{< ref "/f26/language/kk.md" >}}) | 452 | 452 | 100.0 | /mnt/stockage/packages/f26/xfconf/po/kk.po | 
- | [ko]({{< ref "/f26/language/ko.md" >}}) | 452 | 452 | 100.0 | /mnt/stockage/packages/f26/xfconf/po/ko.po | 
- | [lt]({{< ref "/f26/language/lt.md" >}}) | 452 | 452 | 100.0 | /mnt/stockage/packages/f26/xfconf/po/lt.po | 
- | [ms]({{< ref "/f26/language/ms.md" >}}) | 452 | 452 | 100.0 | /mnt/stockage/packages/f26/xfconf/po/ms.po | 
- | [nb_NO]({{< ref "/f26/language/nb_NO.md" >}}) | 452 | 452 | 100.0 | /mnt/stockage/packages/f26/xfconf/po/nb.po | 
- | [nl]({{< ref "/f26/language/nl.md" >}}) | 452 | 452 | 100.0 | /mnt/stockage/packages/f26/xfconf/po/nl.po | 
- | [nn]({{< ref "/f26/language/nn.md" >}}) | 452 | 452 | 100.0 | /mnt/stockage/packages/f26/xfconf/po/nn.po | 
- | [oc]({{< ref "/f26/language/oc.md" >}}) | 452 | 452 | 100.0 | /mnt/stockage/packages/f26/xfconf/po/oc.po | 
- | [pl]({{< ref "/f26/language/pl.md" >}}) | 452 | 452 | 100.0 | /mnt/stockage/packages/f26/xfconf/po/pl.po | 
- | [pt]({{< ref "/f26/language/pt.md" >}}) | 452 | 452 | 100.0 | /mnt/stockage/packages/f26/xfconf/po/pt.po | 
- | [pt_BR]({{< ref "/f26/language/pt_BR.md" >}}) | 452 | 452 | 100.0 | /mnt/stockage/packages/f26/xfconf/po/pt_BR.po | 
- | [ro]({{< ref "/f26/language/ro.md" >}}) | 452 | 452 | 100.0 | /mnt/stockage/packages/f26/xfconf/po/ro.po | 
- | [ru]({{< ref "/f26/language/ru.md" >}}) | 452 | 452 | 100.0 | /mnt/stockage/packages/f26/xfconf/po/ru.po | 
- | [sk]({{< ref "/f26/language/sk.md" >}}) | 452 | 452 | 100.0 | /mnt/stockage/packages/f26/xfconf/po/sk.po | 
- | [sr]({{< ref "/f26/language/sr.md" >}}) | 452 | 452 | 100.0 | /mnt/stockage/packages/f26/xfconf/po/sr.po | 
- | [sv]({{< ref "/f26/language/sv.md" >}}) | 452 | 452 | 100.0 | /mnt/stockage/packages/f26/xfconf/po/sv.po | 
- | [th]({{< ref "/f26/language/th.md" >}}) | 452 | 452 | 100.0 | /mnt/stockage/packages/f26/xfconf/po/th.po | 
- | [tr]({{< ref "/f26/language/tr.md" >}}) | 452 | 452 | 100.0 | /mnt/stockage/packages/f26/xfconf/po/tr.po | 
- | [ug]({{< ref "/f26/language/ug.md" >}}) | 451 | 451 | 100.0 | /mnt/stockage/packages/f26/xfconf/po/ug.po | 
- | [uk]({{< ref "/f26/language/uk.md" >}}) | 452 | 452 | 100.0 | /mnt/stockage/packages/f26/xfconf/po/uk.po | 
- | [zh_Hans]({{< ref "/f26/language/zh_Hans.md" >}}) | 452 | 452 | 100.0 | /mnt/stockage/packages/f26/xfconf/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f26/language/zh_Hant.md" >}}) | 452 | 452 | 100.0 | /mnt/stockage/packages/f26/xfconf/po/zh_TW.po | 
- | [zh_Hant_HK]({{< ref "/f26/language/zh_Hant_HK.md" >}}) | 451 | 451 | 100.0 | /mnt/stockage/packages/f26/xfconf/po/zh_HK.po | 
- | [eu]({{< ref "/f26/language/eu.md" >}}) | 434 | 452 | 96.0 | /mnt/stockage/packages/f26/xfconf/po/eu.po | 
- | [bn]({{< ref "/f26/language/bn.md" >}}) | 281 | 451 | 62.3 | /mnt/stockage/packages/f26/xfconf/po/bn.po | 
- | [lv]({{< ref "/f26/language/lv.md" >}}) | 281 | 451 | 62.3 | /mnt/stockage/packages/f26/xfconf/po/lv.po | 
- | [ur]({{< ref "/f26/language/ur.md" >}}) | 265 | 451 | 58.8 | /mnt/stockage/packages/f26/xfconf/po/ur.po | 
- | [ur_PK]({{< ref "/f26/language/ur_PK.md" >}}) | 265 | 451 | 58.8 | /mnt/stockage/packages/f26/xfconf/po/ur_PK.po | 
- | [te]({{< ref "/f26/language/te.md" >}}) | 88 | 451 | 19.5 | /mnt/stockage/packages/f26/xfconf/po/te.po | 
- | [is]({{< ref "/f26/language/is.md" >}}) | 66 | 451 | 14.6 | /mnt/stockage/packages/f26/xfconf/po/is.po | 
- | [pa]({{< ref "/f26/language/pa.md" >}}) | 42 | 451 | 9.3 | /mnt/stockage/packages/f26/xfconf/po/pa.po | 
- | [si]({{< ref "/f26/language/si.md" >}}) | 38 | 451 | 8.4 | /mnt/stockage/packages/f26/xfconf/po/si.po | 
+ | [ar](/f26/language/ar) | 451 | 451 | 100.0 | /mnt/stockage/packages/f26/xfconf/po/ar.po | 
+ | [ast](/f26/language/ast) | 452 | 452 | 100.0 | /mnt/stockage/packages/f26/xfconf/po/ast.po | 
+ | [bg](/f26/language/bg) | 452 | 452 | 100.0 | /mnt/stockage/packages/f26/xfconf/po/bg.po | 
+ | [ca](/f26/language/ca) | 452 | 452 | 100.0 | /mnt/stockage/packages/f26/xfconf/po/ca.po | 
+ | [cs](/f26/language/cs) | 452 | 452 | 100.0 | /mnt/stockage/packages/f26/xfconf/po/cs.po | 
+ | [da](/f26/language/da) | 452 | 452 | 100.0 | /mnt/stockage/packages/f26/xfconf/po/da.po | 
+ | [de](/f26/language/de) | 452 | 452 | 100.0 | /mnt/stockage/packages/f26/xfconf/po/de.po | 
+ | [el](/f26/language/el) | 452 | 452 | 100.0 | /mnt/stockage/packages/f26/xfconf/po/el.po | 
+ | [en_AU](/f26/language/en_AU) | 452 | 452 | 100.0 | /mnt/stockage/packages/f26/xfconf/po/en_AU.po | 
+ | [en_GB](/f26/language/en_GB) | 451 | 451 | 100.0 | /mnt/stockage/packages/f26/xfconf/po/en_GB.po | 
+ | [es](/f26/language/es) | 452 | 452 | 100.0 | /mnt/stockage/packages/f26/xfconf/po/es.po | 
+ | [fi](/f26/language/fi) | 452 | 452 | 100.0 | /mnt/stockage/packages/f26/xfconf/po/fi.po | 
+ | [fr](/f26/language/fr) | 452 | 452 | 100.0 | /mnt/stockage/packages/f26/xfconf/po/fr.po | 
+ | [gl](/f26/language/gl) | 452 | 452 | 100.0 | /mnt/stockage/packages/f26/xfconf/po/gl.po | 
+ | [he](/f26/language/he) | 452 | 452 | 100.0 | /mnt/stockage/packages/f26/xfconf/po/he.po | 
+ | [hr](/f26/language/hr) | 452 | 452 | 100.0 | /mnt/stockage/packages/f26/xfconf/po/hr.po | 
+ | [hu](/f26/language/hu) | 452 | 452 | 100.0 | /mnt/stockage/packages/f26/xfconf/po/hu.po | 
+ | [id](/f26/language/id) | 451 | 451 | 100.0 | /mnt/stockage/packages/f26/xfconf/po/id.po | 
+ | [it](/f26/language/it) | 452 | 452 | 100.0 | /mnt/stockage/packages/f26/xfconf/po/it.po | 
+ | [ja](/f26/language/ja) | 452 | 452 | 100.0 | /mnt/stockage/packages/f26/xfconf/po/ja.po | 
+ | [kk](/f26/language/kk) | 452 | 452 | 100.0 | /mnt/stockage/packages/f26/xfconf/po/kk.po | 
+ | [ko](/f26/language/ko) | 452 | 452 | 100.0 | /mnt/stockage/packages/f26/xfconf/po/ko.po | 
+ | [lt](/f26/language/lt) | 452 | 452 | 100.0 | /mnt/stockage/packages/f26/xfconf/po/lt.po | 
+ | [ms](/f26/language/ms) | 452 | 452 | 100.0 | /mnt/stockage/packages/f26/xfconf/po/ms.po | 
+ | [nb_NO](/f26/language/nb_NO) | 452 | 452 | 100.0 | /mnt/stockage/packages/f26/xfconf/po/nb.po | 
+ | [nl](/f26/language/nl) | 452 | 452 | 100.0 | /mnt/stockage/packages/f26/xfconf/po/nl.po | 
+ | [nn](/f26/language/nn) | 452 | 452 | 100.0 | /mnt/stockage/packages/f26/xfconf/po/nn.po | 
+ | [oc](/f26/language/oc) | 452 | 452 | 100.0 | /mnt/stockage/packages/f26/xfconf/po/oc.po | 
+ | [pl](/f26/language/pl) | 452 | 452 | 100.0 | /mnt/stockage/packages/f26/xfconf/po/pl.po | 
+ | [pt](/f26/language/pt) | 452 | 452 | 100.0 | /mnt/stockage/packages/f26/xfconf/po/pt.po | 
+ | [pt_BR](/f26/language/pt_BR) | 452 | 452 | 100.0 | /mnt/stockage/packages/f26/xfconf/po/pt_BR.po | 
+ | [ro](/f26/language/ro) | 452 | 452 | 100.0 | /mnt/stockage/packages/f26/xfconf/po/ro.po | 
+ | [ru](/f26/language/ru) | 452 | 452 | 100.0 | /mnt/stockage/packages/f26/xfconf/po/ru.po | 
+ | [sk](/f26/language/sk) | 452 | 452 | 100.0 | /mnt/stockage/packages/f26/xfconf/po/sk.po | 
+ | [sr](/f26/language/sr) | 452 | 452 | 100.0 | /mnt/stockage/packages/f26/xfconf/po/sr.po | 
+ | [sv](/f26/language/sv) | 452 | 452 | 100.0 | /mnt/stockage/packages/f26/xfconf/po/sv.po | 
+ | [th](/f26/language/th) | 452 | 452 | 100.0 | /mnt/stockage/packages/f26/xfconf/po/th.po | 
+ | [tr](/f26/language/tr) | 452 | 452 | 100.0 | /mnt/stockage/packages/f26/xfconf/po/tr.po | 
+ | [ug](/f26/language/ug) | 451 | 451 | 100.0 | /mnt/stockage/packages/f26/xfconf/po/ug.po | 
+ | [uk](/f26/language/uk) | 452 | 452 | 100.0 | /mnt/stockage/packages/f26/xfconf/po/uk.po | 
+ | [zh_Hans](/f26/language/zh_Hans) | 452 | 452 | 100.0 | /mnt/stockage/packages/f26/xfconf/po/zh_CN.po | 
+ | [zh_Hant](/f26/language/zh_Hant) | 452 | 452 | 100.0 | /mnt/stockage/packages/f26/xfconf/po/zh_TW.po | 
+ | [zh_Hant_HK](/f26/language/zh_Hant_HK) | 451 | 451 | 100.0 | /mnt/stockage/packages/f26/xfconf/po/zh_HK.po | 
+ | [eu](/f26/language/eu) | 434 | 452 | 96.0 | /mnt/stockage/packages/f26/xfconf/po/eu.po | 
+ | [bn](/f26/language/bn) | 281 | 451 | 62.3 | /mnt/stockage/packages/f26/xfconf/po/bn.po | 
+ | [lv](/f26/language/lv) | 281 | 451 | 62.3 | /mnt/stockage/packages/f26/xfconf/po/lv.po | 
+ | [ur](/f26/language/ur) | 265 | 451 | 58.8 | /mnt/stockage/packages/f26/xfconf/po/ur.po | 
+ | [ur_PK](/f26/language/ur_PK) | 265 | 451 | 58.8 | /mnt/stockage/packages/f26/xfconf/po/ur_PK.po | 
+ | [te](/f26/language/te) | 88 | 451 | 19.5 | /mnt/stockage/packages/f26/xfconf/po/te.po | 
+ | [is](/f26/language/is) | 66 | 451 | 14.6 | /mnt/stockage/packages/f26/xfconf/po/is.po | 
+ | [pa](/f26/language/pa) | 42 | 451 | 9.3 | /mnt/stockage/packages/f26/xfconf/po/pa.po | 
+ | [si](/f26/language/si) | 38 | 451 | 8.4 | /mnt/stockage/packages/f26/xfconf/po/si.po | 
 {.sortable}
 
 

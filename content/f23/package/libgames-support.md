@@ -18,21 +18,21 @@ The package libgames-support (version 0.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f23/language/cs.md" >}}) | 35 | 35 | 100.0 | /mnt/stockage/packages/f23/libgames-support/po/cs.po | 
- | [de]({{< ref "/f23/language/de.md" >}}) | 22 | 22 | 100.0 | /mnt/stockage/packages/f23/libgames-support/po/de.po | 
- | [el]({{< ref "/f23/language/el.md" >}}) | 22 | 22 | 100.0 | /mnt/stockage/packages/f23/libgames-support/po/el.po | 
- | [es]({{< ref "/f23/language/es.md" >}}) | 35 | 35 | 100.0 | /mnt/stockage/packages/f23/libgames-support/po/es.po | 
- | [he]({{< ref "/f23/language/he.md" >}}) | 22 | 22 | 100.0 | /mnt/stockage/packages/f23/libgames-support/po/he.po | 
- | [hu]({{< ref "/f23/language/hu.md" >}}) | 35 | 35 | 100.0 | /mnt/stockage/packages/f23/libgames-support/po/hu.po | 
- | [id]({{< ref "/f23/language/id.md" >}}) | 22 | 22 | 100.0 | /mnt/stockage/packages/f23/libgames-support/po/id.po | 
- | [pl]({{< ref "/f23/language/pl.md" >}}) | 35 | 35 | 100.0 | /mnt/stockage/packages/f23/libgames-support/po/pl.po | 
- | [pt_BR]({{< ref "/f23/language/pt_BR.md" >}}) | 22 | 22 | 100.0 | /mnt/stockage/packages/f23/libgames-support/po/pt_BR.po | 
- | [sk]({{< ref "/f23/language/sk.md" >}}) | 35 | 35 | 100.0 | /mnt/stockage/packages/f23/libgames-support/po/sk.po | 
- | [sl]({{< ref "/f23/language/sl.md" >}}) | 22 | 22 | 100.0 | /mnt/stockage/packages/f23/libgames-support/po/sl.po | 
- | [sr]({{< ref "/f23/language/sr.md" >}}) | 44 | 44 | 100.0 | /mnt/stockage/packages/f23/libgames-support/po/sr@latin.po/mnt/stockage/packages/f23/libgames-support/po/sr.po | 
- | [sv]({{< ref "/f23/language/sv.md" >}}) | 35 | 35 | 100.0 | /mnt/stockage/packages/f23/libgames-support/po/sv.po | 
- | [tr]({{< ref "/f23/language/tr.md" >}}) | 22 | 22 | 100.0 | /mnt/stockage/packages/f23/libgames-support/po/tr.po | 
- | [zh_Hant]({{< ref "/f23/language/zh_Hant.md" >}}) | 22 | 22 | 100.0 | /mnt/stockage/packages/f23/libgames-support/po/zh_TW.po | 
+ | [cs](/f23/language/cs) | 35 | 35 | 100.0 | /mnt/stockage/packages/f23/libgames-support/po/cs.po | 
+ | [de](/f23/language/de) | 22 | 22 | 100.0 | /mnt/stockage/packages/f23/libgames-support/po/de.po | 
+ | [el](/f23/language/el) | 22 | 22 | 100.0 | /mnt/stockage/packages/f23/libgames-support/po/el.po | 
+ | [es](/f23/language/es) | 35 | 35 | 100.0 | /mnt/stockage/packages/f23/libgames-support/po/es.po | 
+ | [he](/f23/language/he) | 22 | 22 | 100.0 | /mnt/stockage/packages/f23/libgames-support/po/he.po | 
+ | [hu](/f23/language/hu) | 35 | 35 | 100.0 | /mnt/stockage/packages/f23/libgames-support/po/hu.po | 
+ | [id](/f23/language/id) | 22 | 22 | 100.0 | /mnt/stockage/packages/f23/libgames-support/po/id.po | 
+ | [pl](/f23/language/pl) | 35 | 35 | 100.0 | /mnt/stockage/packages/f23/libgames-support/po/pl.po | 
+ | [pt_BR](/f23/language/pt_BR) | 22 | 22 | 100.0 | /mnt/stockage/packages/f23/libgames-support/po/pt_BR.po | 
+ | [sk](/f23/language/sk) | 35 | 35 | 100.0 | /mnt/stockage/packages/f23/libgames-support/po/sk.po | 
+ | [sl](/f23/language/sl) | 22 | 22 | 100.0 | /mnt/stockage/packages/f23/libgames-support/po/sl.po | 
+ | [sr](/f23/language/sr) | 44 | 44 | 100.0 | /mnt/stockage/packages/f23/libgames-support/po/sr@latin.po/mnt/stockage/packages/f23/libgames-support/po/sr.po | 
+ | [sv](/f23/language/sv) | 35 | 35 | 100.0 | /mnt/stockage/packages/f23/libgames-support/po/sv.po | 
+ | [tr](/f23/language/tr) | 22 | 22 | 100.0 | /mnt/stockage/packages/f23/libgames-support/po/tr.po | 
+ | [zh_Hant](/f23/language/zh_Hant) | 22 | 22 | 100.0 | /mnt/stockage/packages/f23/libgames-support/po/zh_TW.po | 
 {.sortable}
 
 

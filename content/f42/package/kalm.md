@@ -18,39 +18,39 @@ The package kalm (version 25.12.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f42/language/ar.md" >}}) | 555 | 555 | 100.0 | /mnt/stockage/packages/f42/kalm/po/ar/kalm.po | 
- | [ca]({{< ref "/f42/language/ca.md" >}}) | 555 | 555 | 100.0 | /mnt/stockage/packages/f42/kalm/po/ca/kalm.po | 
- | [ca@valencia]({{< ref "/f42/language/ca@valencia.md" >}}) | 555 | 555 | 100.0 | /mnt/stockage/packages/f42/kalm/po/ca@valencia/kalm.po | 
- | [de]({{< ref "/f42/language/de.md" >}}) | 555 | 555 | 100.0 | /mnt/stockage/packages/f42/kalm/po/de/kalm.po | 
- | [en_GB]({{< ref "/f42/language/en_GB.md" >}}) | 555 | 555 | 100.0 | /mnt/stockage/packages/f42/kalm/po/en_GB/kalm.po | 
- | [es]({{< ref "/f42/language/es.md" >}}) | 555 | 555 | 100.0 | /mnt/stockage/packages/f42/kalm/po/es/kalm.po | 
- | [eu]({{< ref "/f42/language/eu.md" >}}) | 555 | 555 | 100.0 | /mnt/stockage/packages/f42/kalm/po/eu/kalm.po | 
- | [fr]({{< ref "/f42/language/fr.md" >}}) | 555 | 555 | 100.0 | /mnt/stockage/packages/f42/kalm/po/fr/kalm.po | 
- | [gl]({{< ref "/f42/language/gl.md" >}}) | 555 | 555 | 100.0 | /mnt/stockage/packages/f42/kalm/po/gl/kalm.po | 
- | [he]({{< ref "/f42/language/he.md" >}}) | 555 | 555 | 100.0 | /mnt/stockage/packages/f42/kalm/po/he/kalm.po | 
- | [hi]({{< ref "/f42/language/hi.md" >}}) | 555 | 555 | 100.0 | /mnt/stockage/packages/f42/kalm/po/hi/kalm.po | 
- | [is]({{< ref "/f42/language/is.md" >}}) | 555 | 555 | 100.0 | /mnt/stockage/packages/f42/kalm/po/is/kalm.po | 
- | [it]({{< ref "/f42/language/it.md" >}}) | 555 | 555 | 100.0 | /mnt/stockage/packages/f42/kalm/po/it/kalm.po | 
- | [ka]({{< ref "/f42/language/ka.md" >}}) | 555 | 555 | 100.0 | /mnt/stockage/packages/f42/kalm/po/ka/kalm.po | 
- | [nl]({{< ref "/f42/language/nl.md" >}}) | 555 | 555 | 100.0 | /mnt/stockage/packages/f42/kalm/po/nl/kalm.po | 
- | [pl]({{< ref "/f42/language/pl.md" >}}) | 555 | 555 | 100.0 | /mnt/stockage/packages/f42/kalm/po/pl/kalm.po | 
- | [pt_BR]({{< ref "/f42/language/pt_BR.md" >}}) | 555 | 555 | 100.0 | /mnt/stockage/packages/f42/kalm/po/pt_BR/kalm.po | 
- | [ru]({{< ref "/f42/language/ru.md" >}}) | 555 | 555 | 100.0 | /mnt/stockage/packages/f42/kalm/po/ru/kalm.po | 
- | [sa]({{< ref "/f42/language/sa.md" >}}) | 555 | 555 | 100.0 | /mnt/stockage/packages/f42/kalm/po/sa/kalm.po | 
- | [sl]({{< ref "/f42/language/sl.md" >}}) | 555 | 555 | 100.0 | /mnt/stockage/packages/f42/kalm/po/sl/kalm.po | 
- | [sv]({{< ref "/f42/language/sv.md" >}}) | 555 | 555 | 100.0 | /mnt/stockage/packages/f42/kalm/po/sv/kalm.po | 
- | [tr]({{< ref "/f42/language/tr.md" >}}) | 555 | 555 | 100.0 | /mnt/stockage/packages/f42/kalm/po/tr/kalm.po | 
- | [uk]({{< ref "/f42/language/uk.md" >}}) | 555 | 555 | 100.0 | /mnt/stockage/packages/f42/kalm/po/uk/kalm.po | 
- | [zh_Hant]({{< ref "/f42/language/zh_Hant.md" >}}) | 555 | 555 | 100.0 | /mnt/stockage/packages/f42/kalm/po/zh_TW/kalm.po | 
- | [eo]({{< ref "/f42/language/eo.md" >}}) | 256 | 555 | 46.1 | /mnt/stockage/packages/f42/kalm/po/eo/kalm.po | 
- | [cs]({{< ref "/f42/language/cs.md" >}}) | 76 | 555 | 13.7 | /mnt/stockage/packages/f42/kalm/po/cs/kalm.po | 
- | [ko]({{< ref "/f42/language/ko.md" >}}) | 29 | 555 | 5.2 | /mnt/stockage/packages/f42/kalm/po/ko/kalm.po | 
- | [sk]({{< ref "/f42/language/sk.md" >}}) | 11 | 555 | 2.0 | /mnt/stockage/packages/f42/kalm/po/sk/kalm.po | 
- | [zh_Hans]({{< ref "/f42/language/zh_Hans.md" >}}) | 5 | 555 | 0.9 | /mnt/stockage/packages/f42/kalm/po/zh_CN/kalm.po | 
- | [ast]({{< ref "/f42/language/ast.md" >}}) | 4 | 555 | 0.7 | /mnt/stockage/packages/f42/kalm/po/ast/kalm.po | 
- | [ga]({{< ref "/f42/language/ga.md" >}}) | 0 | 555 | 0.0 | /mnt/stockage/packages/f42/kalm/po/ga/kalm.po | 
- | [ja]({{< ref "/f42/language/ja.md" >}}) | 0 | 555 | 0.0 | /mnt/stockage/packages/f42/kalm/po/ja/kalm.po | 
- | [lt]({{< ref "/f42/language/lt.md" >}}) | 0 | 555 | 0.0 | /mnt/stockage/packages/f42/kalm/po/lt/kalm.po | 
+ | [ar](/f42/language/ar) | 555 | 555 | 100.0 | /mnt/stockage/packages/f42/kalm/po/ar/kalm.po | 
+ | [ca](/f42/language/ca) | 555 | 555 | 100.0 | /mnt/stockage/packages/f42/kalm/po/ca/kalm.po | 
+ | [ca@valencia](/f42/language/ca@valencia) | 555 | 555 | 100.0 | /mnt/stockage/packages/f42/kalm/po/ca@valencia/kalm.po | 
+ | [de](/f42/language/de) | 555 | 555 | 100.0 | /mnt/stockage/packages/f42/kalm/po/de/kalm.po | 
+ | [en_GB](/f42/language/en_GB) | 555 | 555 | 100.0 | /mnt/stockage/packages/f42/kalm/po/en_GB/kalm.po | 
+ | [es](/f42/language/es) | 555 | 555 | 100.0 | /mnt/stockage/packages/f42/kalm/po/es/kalm.po | 
+ | [eu](/f42/language/eu) | 555 | 555 | 100.0 | /mnt/stockage/packages/f42/kalm/po/eu/kalm.po | 
+ | [fr](/f42/language/fr) | 555 | 555 | 100.0 | /mnt/stockage/packages/f42/kalm/po/fr/kalm.po | 
+ | [gl](/f42/language/gl) | 555 | 555 | 100.0 | /mnt/stockage/packages/f42/kalm/po/gl/kalm.po | 
+ | [he](/f42/language/he) | 555 | 555 | 100.0 | /mnt/stockage/packages/f42/kalm/po/he/kalm.po | 
+ | [hi](/f42/language/hi) | 555 | 555 | 100.0 | /mnt/stockage/packages/f42/kalm/po/hi/kalm.po | 
+ | [is](/f42/language/is) | 555 | 555 | 100.0 | /mnt/stockage/packages/f42/kalm/po/is/kalm.po | 
+ | [it](/f42/language/it) | 555 | 555 | 100.0 | /mnt/stockage/packages/f42/kalm/po/it/kalm.po | 
+ | [ka](/f42/language/ka) | 555 | 555 | 100.0 | /mnt/stockage/packages/f42/kalm/po/ka/kalm.po | 
+ | [nl](/f42/language/nl) | 555 | 555 | 100.0 | /mnt/stockage/packages/f42/kalm/po/nl/kalm.po | 
+ | [pl](/f42/language/pl) | 555 | 555 | 100.0 | /mnt/stockage/packages/f42/kalm/po/pl/kalm.po | 
+ | [pt_BR](/f42/language/pt_BR) | 555 | 555 | 100.0 | /mnt/stockage/packages/f42/kalm/po/pt_BR/kalm.po | 
+ | [ru](/f42/language/ru) | 555 | 555 | 100.0 | /mnt/stockage/packages/f42/kalm/po/ru/kalm.po | 
+ | [sa](/f42/language/sa) | 555 | 555 | 100.0 | /mnt/stockage/packages/f42/kalm/po/sa/kalm.po | 
+ | [sl](/f42/language/sl) | 555 | 555 | 100.0 | /mnt/stockage/packages/f42/kalm/po/sl/kalm.po | 
+ | [sv](/f42/language/sv) | 555 | 555 | 100.0 | /mnt/stockage/packages/f42/kalm/po/sv/kalm.po | 
+ | [tr](/f42/language/tr) | 555 | 555 | 100.0 | /mnt/stockage/packages/f42/kalm/po/tr/kalm.po | 
+ | [uk](/f42/language/uk) | 555 | 555 | 100.0 | /mnt/stockage/packages/f42/kalm/po/uk/kalm.po | 
+ | [zh_Hant](/f42/language/zh_Hant) | 555 | 555 | 100.0 | /mnt/stockage/packages/f42/kalm/po/zh_TW/kalm.po | 
+ | [eo](/f42/language/eo) | 256 | 555 | 46.1 | /mnt/stockage/packages/f42/kalm/po/eo/kalm.po | 
+ | [cs](/f42/language/cs) | 76 | 555 | 13.7 | /mnt/stockage/packages/f42/kalm/po/cs/kalm.po | 
+ | [ko](/f42/language/ko) | 29 | 555 | 5.2 | /mnt/stockage/packages/f42/kalm/po/ko/kalm.po | 
+ | [sk](/f42/language/sk) | 11 | 555 | 2.0 | /mnt/stockage/packages/f42/kalm/po/sk/kalm.po | 
+ | [zh_Hans](/f42/language/zh_Hans) | 5 | 555 | 0.9 | /mnt/stockage/packages/f42/kalm/po/zh_CN/kalm.po | 
+ | [ast](/f42/language/ast) | 4 | 555 | 0.7 | /mnt/stockage/packages/f42/kalm/po/ast/kalm.po | 
+ | [ga](/f42/language/ga) | 0 | 555 | 0.0 | /mnt/stockage/packages/f42/kalm/po/ga/kalm.po | 
+ | [ja](/f42/language/ja) | 0 | 555 | 0.0 | /mnt/stockage/packages/f42/kalm/po/ja/kalm.po | 
+ | [lt](/f42/language/lt) | 0 | 555 | 0.0 | /mnt/stockage/packages/f42/kalm/po/lt/kalm.po | 
 {.sortable}
 
 

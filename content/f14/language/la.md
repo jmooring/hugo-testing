@@ -38,21 +38,21 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [widelands]({{< ref "/f14/package/widelands.md" >}}) | 8590 | 24776 | 34.7 | Latin <la@li.org> | 
- | [libgtop2]({{< ref "/f14/package/libgtop2.md" >}}) | 24 | 126 | 19.0 | Latin <la@li.org> | 
- | [byobu]({{< ref "/f14/package/byobu.md" >}}) | 14 | 177 | 7.9 | Latin <la@li.org> | 
- | [wesnoth]({{< ref "/f14/package/wesnoth.md" >}}) | 14896 | 226908 | 6.6 | Latin | 
- | [gnome-applet-alarm-clock]({{< ref "/f14/package/gnome-applet-alarm-clock.md" >}}) | 25 | 417 | 6.0 | Latin <la@li.org> | 
- | [gedit]({{< ref "/f14/package/gedit.md" >}}) | 207 | 4942 | 4.2 | Latin <la@li.org> | 
- | [metacity]({{< ref "/f14/package/metacity.md" >}}) | 80 | 3819 | 2.1 | Latin <la@li.org> | 
- | [mutter]({{< ref "/f14/package/mutter.md" >}}) | 80 | 3819 | 2.1 | Latin <la@li.org> | 
- | [mutter-mbl]({{< ref "/f14/package/mutter-mbl.md" >}}) | 80 | 3819 | 2.1 | Latin <la@li.org> | 
- | [yelp]({{< ref "/f14/package/yelp.md" >}}) | 13 | 1035 | 1.3 | Latin <la@li.org> | 
- | [libgnomeprintui22]({{< ref "/f14/package/libgnomeprintui22.md" >}}) | 6 | 481 | 1.2 | Latin <la@li.org> | 
- | [libgnomeui]({{< ref "/f14/package/libgnomeui.md" >}}) | 1 | 1309 | 0.1 | Latin <la@li.org> | 
- | [warzone2100]({{< ref "/f14/package/warzone2100.md" >}}) | 9 | 12782 | 0.1 | Latin | 
- | [gnome-panel]({{< ref "/f14/package/gnome-panel.md" >}}) | 3 | 4582 | 0.1 | Latin <gnome-latin-list@gnome.org> | 
- | [gnome-do-plugins]({{< ref "/f14/package/gnome-do-plugins.md" >}}) | 0 | 2323 | 0.0 | Latin <la@li.org> | 
+ | [widelands](/f14/package/widelands) | 8590 | 24776 | 34.7 | Latin <la@li.org> | 
+ | [libgtop2](/f14/package/libgtop2) | 24 | 126 | 19.0 | Latin <la@li.org> | 
+ | [byobu](/f14/package/byobu) | 14 | 177 | 7.9 | Latin <la@li.org> | 
+ | [wesnoth](/f14/package/wesnoth) | 14896 | 226908 | 6.6 | Latin | 
+ | [gnome-applet-alarm-clock](/f14/package/gnome-applet-alarm-clock) | 25 | 417 | 6.0 | Latin <la@li.org> | 
+ | [gedit](/f14/package/gedit) | 207 | 4942 | 4.2 | Latin <la@li.org> | 
+ | [metacity](/f14/package/metacity) | 80 | 3819 | 2.1 | Latin <la@li.org> | 
+ | [mutter](/f14/package/mutter) | 80 | 3819 | 2.1 | Latin <la@li.org> | 
+ | [mutter-mbl](/f14/package/mutter-mbl) | 80 | 3819 | 2.1 | Latin <la@li.org> | 
+ | [yelp](/f14/package/yelp) | 13 | 1035 | 1.3 | Latin <la@li.org> | 
+ | [libgnomeprintui22](/f14/package/libgnomeprintui22) | 6 | 481 | 1.2 | Latin <la@li.org> | 
+ | [libgnomeui](/f14/package/libgnomeui) | 1 | 1309 | 0.1 | Latin <la@li.org> | 
+ | [warzone2100](/f14/package/warzone2100) | 9 | 12782 | 0.1 | Latin | 
+ | [gnome-panel](/f14/package/gnome-panel) | 3 | 4582 | 0.1 | Latin <gnome-latin-list@gnome.org> | 
+ | [gnome-do-plugins](/f14/package/gnome-do-plugins) | 0 | 2323 | 0.0 | Latin <la@li.org> | 
 {.sortable}
 
 

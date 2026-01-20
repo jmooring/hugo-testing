@@ -18,56 +18,56 @@ The package libshumate (version 1.5.0.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ab]({{< ref "/f43/language/ab.md" >}}) | 8 | 8 | 100.0 | /mnt/stockage/packages/f43/libshumate/po/ab.po | 
- | [be]({{< ref "/f43/language/be.md" >}}) | 22 | 22 | 100.0 | /mnt/stockage/packages/f43/libshumate/po/be.po | 
- | [bg]({{< ref "/f43/language/bg.md" >}}) | 22 | 22 | 100.0 | /mnt/stockage/packages/f43/libshumate/po/bg.po | 
- | [ca]({{< ref "/f43/language/ca.md" >}}) | 22 | 22 | 100.0 | /mnt/stockage/packages/f43/libshumate/po/ca.po | 
- | [cs]({{< ref "/f43/language/cs.md" >}}) | 12 | 12 | 100.0 | /mnt/stockage/packages/f43/libshumate/po/cs.po | 
- | [da]({{< ref "/f43/language/da.md" >}}) | 22 | 22 | 100.0 | /mnt/stockage/packages/f43/libshumate/po/da.po | 
- | [de]({{< ref "/f43/language/de.md" >}}) | 22 | 22 | 100.0 | /mnt/stockage/packages/f43/libshumate/po/de.po | 
- | [el]({{< ref "/f43/language/el.md" >}}) | 22 | 22 | 100.0 | /mnt/stockage/packages/f43/libshumate/po/el.po | 
- | [en_GB]({{< ref "/f43/language/en_GB.md" >}}) | 22 | 22 | 100.0 | /mnt/stockage/packages/f43/libshumate/po/en_GB.po | 
- | [eo]({{< ref "/f43/language/eo.md" >}}) | 12 | 12 | 100.0 | /mnt/stockage/packages/f43/libshumate/po/eo.po | 
- | [es]({{< ref "/f43/language/es.md" >}}) | 22 | 22 | 100.0 | /mnt/stockage/packages/f43/libshumate/po/es.po | 
- | [eu]({{< ref "/f43/language/eu.md" >}}) | 22 | 22 | 100.0 | /mnt/stockage/packages/f43/libshumate/po/eu.po | 
- | [fa]({{< ref "/f43/language/fa.md" >}}) | 22 | 22 | 100.0 | /mnt/stockage/packages/f43/libshumate/po/fa.po | 
- | [fi]({{< ref "/f43/language/fi.md" >}}) | 12 | 12 | 100.0 | /mnt/stockage/packages/f43/libshumate/po/fi.po | 
- | [fr]({{< ref "/f43/language/fr.md" >}}) | 22 | 22 | 100.0 | /mnt/stockage/packages/f43/libshumate/po/fr.po | 
- | [fur]({{< ref "/f43/language/fur.md" >}}) | 22 | 22 | 100.0 | /mnt/stockage/packages/f43/libshumate/po/fur.po | 
- | [gl]({{< ref "/f43/language/gl.md" >}}) | 22 | 22 | 100.0 | /mnt/stockage/packages/f43/libshumate/po/gl.po | 
- | [he]({{< ref "/f43/language/he.md" >}}) | 22 | 22 | 100.0 | /mnt/stockage/packages/f43/libshumate/po/he.po | 
- | [hi]({{< ref "/f43/language/hi.md" >}}) | 22 | 22 | 100.0 | /mnt/stockage/packages/f43/libshumate/po/hi.po | 
- | [hr]({{< ref "/f43/language/hr.md" >}}) | 8 | 8 | 100.0 | /mnt/stockage/packages/f43/libshumate/po/hr.po | 
- | [hu]({{< ref "/f43/language/hu.md" >}}) | 22 | 22 | 100.0 | /mnt/stockage/packages/f43/libshumate/po/hu.po | 
- | [id]({{< ref "/f43/language/id.md" >}}) | 22 | 22 | 100.0 | /mnt/stockage/packages/f43/libshumate/po/id.po | 
- | [ie]({{< ref "/f43/language/ie.md" >}}) | 8 | 8 | 100.0 | /mnt/stockage/packages/f43/libshumate/po/ie.po | 
- | [is]({{< ref "/f43/language/is.md" >}}) | 8 | 8 | 100.0 | /mnt/stockage/packages/f43/libshumate/po/is.po | 
- | [it]({{< ref "/f43/language/it.md" >}}) | 22 | 22 | 100.0 | /mnt/stockage/packages/f43/libshumate/po/it.po | 
- | [ka]({{< ref "/f43/language/ka.md" >}}) | 22 | 22 | 100.0 | /mnt/stockage/packages/f43/libshumate/po/ka.po | 
- | [kab]({{< ref "/f43/language/kab.md" >}}) | 22 | 22 | 100.0 | /mnt/stockage/packages/f43/libshumate/po/kab.po | 
- | [kk]({{< ref "/f43/language/kk.md" >}}) | 12 | 12 | 100.0 | /mnt/stockage/packages/f43/libshumate/po/kk.po | 
- | [ko]({{< ref "/f43/language/ko.md" >}}) | 22 | 22 | 100.0 | /mnt/stockage/packages/f43/libshumate/po/ko.po | 
- | [lt]({{< ref "/f43/language/lt.md" >}}) | 22 | 22 | 100.0 | /mnt/stockage/packages/f43/libshumate/po/lt.po | 
- | [lv]({{< ref "/f43/language/lv.md" >}}) | 22 | 22 | 100.0 | /mnt/stockage/packages/f43/libshumate/po/lv.po | 
- | [ne]({{< ref "/f43/language/ne.md" >}}) | 22 | 22 | 100.0 | /mnt/stockage/packages/f43/libshumate/po/ne.po | 
- | [nl]({{< ref "/f43/language/nl.md" >}}) | 22 | 22 | 100.0 | /mnt/stockage/packages/f43/libshumate/po/nl.po | 
- | [oc]({{< ref "/f43/language/oc.md" >}}) | 22 | 22 | 100.0 | /mnt/stockage/packages/f43/libshumate/po/oc.po | 
- | [pa]({{< ref "/f43/language/pa.md" >}}) | 12 | 12 | 100.0 | /mnt/stockage/packages/f43/libshumate/po/pa.po | 
- | [pl]({{< ref "/f43/language/pl.md" >}}) | 22 | 22 | 100.0 | /mnt/stockage/packages/f43/libshumate/po/pl.po | 
- | [pt]({{< ref "/f43/language/pt.md" >}}) | 22 | 22 | 100.0 | /mnt/stockage/packages/f43/libshumate/po/pt.po | 
- | [pt_BR]({{< ref "/f43/language/pt_BR.md" >}}) | 22 | 22 | 100.0 | /mnt/stockage/packages/f43/libshumate/po/pt_BR.po | 
- | [ro]({{< ref "/f43/language/ro.md" >}}) | 22 | 22 | 100.0 | /mnt/stockage/packages/f43/libshumate/po/ro.po | 
- | [ru]({{< ref "/f43/language/ru.md" >}}) | 22 | 22 | 100.0 | /mnt/stockage/packages/f43/libshumate/po/ru.po | 
- | [sk]({{< ref "/f43/language/sk.md" >}}) | 22 | 22 | 100.0 | /mnt/stockage/packages/f43/libshumate/po/sk.po | 
- | [sl]({{< ref "/f43/language/sl.md" >}}) | 22 | 22 | 100.0 | /mnt/stockage/packages/f43/libshumate/po/sl.po | 
- | [sr]({{< ref "/f43/language/sr.md" >}}) | 22 | 22 | 100.0 | /mnt/stockage/packages/f43/libshumate/po/sr.po | 
- | [sv]({{< ref "/f43/language/sv.md" >}}) | 22 | 22 | 100.0 | /mnt/stockage/packages/f43/libshumate/po/sv.po | 
- | [tr]({{< ref "/f43/language/tr.md" >}}) | 22 | 22 | 100.0 | /mnt/stockage/packages/f43/libshumate/po/tr.po | 
- | [uk]({{< ref "/f43/language/uk.md" >}}) | 22 | 22 | 100.0 | /mnt/stockage/packages/f43/libshumate/po/uk.po | 
- | [uz]({{< ref "/f43/language/uz.md" >}}) | 22 | 22 | 100.0 | /mnt/stockage/packages/f43/libshumate/po/uz.po | 
- | [zh_Hans]({{< ref "/f43/language/zh_Hans.md" >}}) | 22 | 22 | 100.0 | /mnt/stockage/packages/f43/libshumate/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f43/language/zh_Hant.md" >}}) | 12 | 12 | 100.0 | /mnt/stockage/packages/f43/libshumate/po/zh_TW.po | 
- | [ml]({{< ref "/f43/language/ml.md" >}}) | 14 | 22 | 63.6 | /mnt/stockage/packages/f43/libshumate/po/ml.po | 
+ | [ab](/f43/language/ab) | 8 | 8 | 100.0 | /mnt/stockage/packages/f43/libshumate/po/ab.po | 
+ | [be](/f43/language/be) | 22 | 22 | 100.0 | /mnt/stockage/packages/f43/libshumate/po/be.po | 
+ | [bg](/f43/language/bg) | 22 | 22 | 100.0 | /mnt/stockage/packages/f43/libshumate/po/bg.po | 
+ | [ca](/f43/language/ca) | 22 | 22 | 100.0 | /mnt/stockage/packages/f43/libshumate/po/ca.po | 
+ | [cs](/f43/language/cs) | 12 | 12 | 100.0 | /mnt/stockage/packages/f43/libshumate/po/cs.po | 
+ | [da](/f43/language/da) | 22 | 22 | 100.0 | /mnt/stockage/packages/f43/libshumate/po/da.po | 
+ | [de](/f43/language/de) | 22 | 22 | 100.0 | /mnt/stockage/packages/f43/libshumate/po/de.po | 
+ | [el](/f43/language/el) | 22 | 22 | 100.0 | /mnt/stockage/packages/f43/libshumate/po/el.po | 
+ | [en_GB](/f43/language/en_GB) | 22 | 22 | 100.0 | /mnt/stockage/packages/f43/libshumate/po/en_GB.po | 
+ | [eo](/f43/language/eo) | 12 | 12 | 100.0 | /mnt/stockage/packages/f43/libshumate/po/eo.po | 
+ | [es](/f43/language/es) | 22 | 22 | 100.0 | /mnt/stockage/packages/f43/libshumate/po/es.po | 
+ | [eu](/f43/language/eu) | 22 | 22 | 100.0 | /mnt/stockage/packages/f43/libshumate/po/eu.po | 
+ | [fa](/f43/language/fa) | 22 | 22 | 100.0 | /mnt/stockage/packages/f43/libshumate/po/fa.po | 
+ | [fi](/f43/language/fi) | 12 | 12 | 100.0 | /mnt/stockage/packages/f43/libshumate/po/fi.po | 
+ | [fr](/f43/language/fr) | 22 | 22 | 100.0 | /mnt/stockage/packages/f43/libshumate/po/fr.po | 
+ | [fur](/f43/language/fur) | 22 | 22 | 100.0 | /mnt/stockage/packages/f43/libshumate/po/fur.po | 
+ | [gl](/f43/language/gl) | 22 | 22 | 100.0 | /mnt/stockage/packages/f43/libshumate/po/gl.po | 
+ | [he](/f43/language/he) | 22 | 22 | 100.0 | /mnt/stockage/packages/f43/libshumate/po/he.po | 
+ | [hi](/f43/language/hi) | 22 | 22 | 100.0 | /mnt/stockage/packages/f43/libshumate/po/hi.po | 
+ | [hr](/f43/language/hr) | 8 | 8 | 100.0 | /mnt/stockage/packages/f43/libshumate/po/hr.po | 
+ | [hu](/f43/language/hu) | 22 | 22 | 100.0 | /mnt/stockage/packages/f43/libshumate/po/hu.po | 
+ | [id](/f43/language/id) | 22 | 22 | 100.0 | /mnt/stockage/packages/f43/libshumate/po/id.po | 
+ | [ie](/f43/language/ie) | 8 | 8 | 100.0 | /mnt/stockage/packages/f43/libshumate/po/ie.po | 
+ | [is](/f43/language/is) | 8 | 8 | 100.0 | /mnt/stockage/packages/f43/libshumate/po/is.po | 
+ | [it](/f43/language/it) | 22 | 22 | 100.0 | /mnt/stockage/packages/f43/libshumate/po/it.po | 
+ | [ka](/f43/language/ka) | 22 | 22 | 100.0 | /mnt/stockage/packages/f43/libshumate/po/ka.po | 
+ | [kab](/f43/language/kab) | 22 | 22 | 100.0 | /mnt/stockage/packages/f43/libshumate/po/kab.po | 
+ | [kk](/f43/language/kk) | 12 | 12 | 100.0 | /mnt/stockage/packages/f43/libshumate/po/kk.po | 
+ | [ko](/f43/language/ko) | 22 | 22 | 100.0 | /mnt/stockage/packages/f43/libshumate/po/ko.po | 
+ | [lt](/f43/language/lt) | 22 | 22 | 100.0 | /mnt/stockage/packages/f43/libshumate/po/lt.po | 
+ | [lv](/f43/language/lv) | 22 | 22 | 100.0 | /mnt/stockage/packages/f43/libshumate/po/lv.po | 
+ | [ne](/f43/language/ne) | 22 | 22 | 100.0 | /mnt/stockage/packages/f43/libshumate/po/ne.po | 
+ | [nl](/f43/language/nl) | 22 | 22 | 100.0 | /mnt/stockage/packages/f43/libshumate/po/nl.po | 
+ | [oc](/f43/language/oc) | 22 | 22 | 100.0 | /mnt/stockage/packages/f43/libshumate/po/oc.po | 
+ | [pa](/f43/language/pa) | 12 | 12 | 100.0 | /mnt/stockage/packages/f43/libshumate/po/pa.po | 
+ | [pl](/f43/language/pl) | 22 | 22 | 100.0 | /mnt/stockage/packages/f43/libshumate/po/pl.po | 
+ | [pt](/f43/language/pt) | 22 | 22 | 100.0 | /mnt/stockage/packages/f43/libshumate/po/pt.po | 
+ | [pt_BR](/f43/language/pt_BR) | 22 | 22 | 100.0 | /mnt/stockage/packages/f43/libshumate/po/pt_BR.po | 
+ | [ro](/f43/language/ro) | 22 | 22 | 100.0 | /mnt/stockage/packages/f43/libshumate/po/ro.po | 
+ | [ru](/f43/language/ru) | 22 | 22 | 100.0 | /mnt/stockage/packages/f43/libshumate/po/ru.po | 
+ | [sk](/f43/language/sk) | 22 | 22 | 100.0 | /mnt/stockage/packages/f43/libshumate/po/sk.po | 
+ | [sl](/f43/language/sl) | 22 | 22 | 100.0 | /mnt/stockage/packages/f43/libshumate/po/sl.po | 
+ | [sr](/f43/language/sr) | 22 | 22 | 100.0 | /mnt/stockage/packages/f43/libshumate/po/sr.po | 
+ | [sv](/f43/language/sv) | 22 | 22 | 100.0 | /mnt/stockage/packages/f43/libshumate/po/sv.po | 
+ | [tr](/f43/language/tr) | 22 | 22 | 100.0 | /mnt/stockage/packages/f43/libshumate/po/tr.po | 
+ | [uk](/f43/language/uk) | 22 | 22 | 100.0 | /mnt/stockage/packages/f43/libshumate/po/uk.po | 
+ | [uz](/f43/language/uz) | 22 | 22 | 100.0 | /mnt/stockage/packages/f43/libshumate/po/uz.po | 
+ | [zh_Hans](/f43/language/zh_Hans) | 22 | 22 | 100.0 | /mnt/stockage/packages/f43/libshumate/po/zh_CN.po | 
+ | [zh_Hant](/f43/language/zh_Hant) | 12 | 12 | 100.0 | /mnt/stockage/packages/f43/libshumate/po/zh_TW.po | 
+ | [ml](/f43/language/ml) | 14 | 22 | 63.6 | /mnt/stockage/packages/f43/libshumate/po/ml.po | 
 {.sortable}
 
 

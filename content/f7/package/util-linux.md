@@ -18,25 +18,25 @@ The package util-linux (version 2.13):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f7/language/de.md" >}}) | 11424 | 11424 | 100.0 | /mnt/stockage/packages/f7/util-linux/po/de.po | 
- | [id]({{< ref "/f7/language/id.md" >}}) | 11436 | 11436 | 100.0 | /mnt/stockage/packages/f7/util-linux/po/id.po | 
- | [uk]({{< ref "/f7/language/uk.md" >}}) | 11424 | 11424 | 100.0 | /mnt/stockage/packages/f7/util-linux/po/uk.po | 
- | [ca]({{< ref "/f7/language/ca.md" >}}) | 11186 | 11314 | 98.9 | /mnt/stockage/packages/f7/util-linux/po/ca.po | 
- | [da]({{< ref "/f7/language/da.md" >}}) | 11186 | 11314 | 98.9 | /mnt/stockage/packages/f7/util-linux/po/da.po | 
- | [fr]({{< ref "/f7/language/fr.md" >}}) | 11186 | 11314 | 98.9 | /mnt/stockage/packages/f7/util-linux/po/fr.po | 
- | [nl]({{< ref "/f7/language/nl.md" >}}) | 11186 | 11314 | 98.9 | /mnt/stockage/packages/f7/util-linux/po/nl.po | 
- | [ru]({{< ref "/f7/language/ru.md" >}}) | 11186 | 11314 | 98.9 | /mnt/stockage/packages/f7/util-linux/po/ru.po | 
- | [tr]({{< ref "/f7/language/tr.md" >}}) | 11186 | 11314 | 98.9 | /mnt/stockage/packages/f7/util-linux/po/tr.po | 
- | [fi]({{< ref "/f7/language/fi.md" >}}) | 11179 | 11314 | 98.8 | /mnt/stockage/packages/f7/util-linux/po/fi.po | 
- | [vi]({{< ref "/f7/language/vi.md" >}}) | 11173 | 11314 | 98.8 | /mnt/stockage/packages/f7/util-linux/po/vi.po | 
- | [es]({{< ref "/f7/language/es.md" >}}) | 11039 | 11314 | 97.6 | /mnt/stockage/packages/f7/util-linux/po/es.po | 
- | [sv]({{< ref "/f7/language/sv.md" >}}) | 11039 | 11314 | 97.6 | /mnt/stockage/packages/f7/util-linux/po/sv.po | 
- | [sl]({{< ref "/f7/language/sl.md" >}}) | 11027 | 11424 | 96.5 | /mnt/stockage/packages/f7/util-linux/po/sl.po | 
- | [it]({{< ref "/f7/language/it.md" >}}) | 10337 | 11424 | 90.5 | /mnt/stockage/packages/f7/util-linux/po/it.po | 
- | [ja]({{< ref "/f7/language/ja.md" >}}) | 9463 | 11314 | 83.6 | /mnt/stockage/packages/f7/util-linux/po/ja.po | 
- | [cs]({{< ref "/f7/language/cs.md" >}}) | 8811 | 11314 | 77.9 | /mnt/stockage/packages/f7/util-linux/po/cs.po | 
- | [pt_BR]({{< ref "/f7/language/pt_BR.md" >}}) | 8557 | 11314 | 75.6 | /mnt/stockage/packages/f7/util-linux/po/pt_BR.po | 
- | [et]({{< ref "/f7/language/et.md" >}}) | 6562 | 11314 | 58.0 | /mnt/stockage/packages/f7/util-linux/po/et.po | 
+ | [de](/f7/language/de) | 11424 | 11424 | 100.0 | /mnt/stockage/packages/f7/util-linux/po/de.po | 
+ | [id](/f7/language/id) | 11436 | 11436 | 100.0 | /mnt/stockage/packages/f7/util-linux/po/id.po | 
+ | [uk](/f7/language/uk) | 11424 | 11424 | 100.0 | /mnt/stockage/packages/f7/util-linux/po/uk.po | 
+ | [ca](/f7/language/ca) | 11186 | 11314 | 98.9 | /mnt/stockage/packages/f7/util-linux/po/ca.po | 
+ | [da](/f7/language/da) | 11186 | 11314 | 98.9 | /mnt/stockage/packages/f7/util-linux/po/da.po | 
+ | [fr](/f7/language/fr) | 11186 | 11314 | 98.9 | /mnt/stockage/packages/f7/util-linux/po/fr.po | 
+ | [nl](/f7/language/nl) | 11186 | 11314 | 98.9 | /mnt/stockage/packages/f7/util-linux/po/nl.po | 
+ | [ru](/f7/language/ru) | 11186 | 11314 | 98.9 | /mnt/stockage/packages/f7/util-linux/po/ru.po | 
+ | [tr](/f7/language/tr) | 11186 | 11314 | 98.9 | /mnt/stockage/packages/f7/util-linux/po/tr.po | 
+ | [fi](/f7/language/fi) | 11179 | 11314 | 98.8 | /mnt/stockage/packages/f7/util-linux/po/fi.po | 
+ | [vi](/f7/language/vi) | 11173 | 11314 | 98.8 | /mnt/stockage/packages/f7/util-linux/po/vi.po | 
+ | [es](/f7/language/es) | 11039 | 11314 | 97.6 | /mnt/stockage/packages/f7/util-linux/po/es.po | 
+ | [sv](/f7/language/sv) | 11039 | 11314 | 97.6 | /mnt/stockage/packages/f7/util-linux/po/sv.po | 
+ | [sl](/f7/language/sl) | 11027 | 11424 | 96.5 | /mnt/stockage/packages/f7/util-linux/po/sl.po | 
+ | [it](/f7/language/it) | 10337 | 11424 | 90.5 | /mnt/stockage/packages/f7/util-linux/po/it.po | 
+ | [ja](/f7/language/ja) | 9463 | 11314 | 83.6 | /mnt/stockage/packages/f7/util-linux/po/ja.po | 
+ | [cs](/f7/language/cs) | 8811 | 11314 | 77.9 | /mnt/stockage/packages/f7/util-linux/po/cs.po | 
+ | [pt_BR](/f7/language/pt_BR) | 8557 | 11314 | 75.6 | /mnt/stockage/packages/f7/util-linux/po/pt_BR.po | 
+ | [et](/f7/language/et) | 6562 | 11314 | 58.0 | /mnt/stockage/packages/f7/util-linux/po/et.po | 
 {.sortable}
 
 

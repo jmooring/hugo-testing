@@ -40,27 +40,27 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [nautilus]({{< ref "/f19/package/nautilus.md" >}}) | 6259 | 7403 | 84.5 | Tibetan <bo@li.org> | 
- | [libreoffice]({{< ref "/f19/package/libreoffice.md" >}}) | 397945 | 531256 | 74.9 | LANGUAGE <LL@li.org> | 
- | [console-setup]({{< ref "/f19/package/console-setup.md" >}}) | 501 | 979 | 51.2 | bo <translation-team-bo@lists.sourceforge.net> | 
- | [tuxpaint]({{< ref "/f19/package/tuxpaint.md" >}}) | 61 | 1247 | 4.9 | LANGUAGE <LL@li.org> | 
- | [pootle]({{< ref "/f19/package/pootle.md" >}}) | 4 | 2424 | 0.2 | LANGUAGE <LL@li.org> | 
- | [abrt]({{< ref "/f19/package/abrt.md" >}}) | 0 | 2722 | 0.0 | Tibetan (http://www.transifex.com/projects/p/fedora/language/bo/) | 
- | [deja-dup]({{< ref "/f19/package/deja-dup.md" >}}) | 0 | 1756 | 0.0 | Tibetan <bo@li.org> | 
- | [entangle]({{< ref "/f19/package/entangle.md" >}}) | 0 | 757 | 0.0 | Tibetan <trans-bo@lists.fedoraproject.org> | 
- | [gnomebaker]({{< ref "/f19/package/gnomebaker.md" >}}) | 0 | 1186 | 0.0 | Tibetan <bo@li.org> | 
- | [initscripts]({{< ref "/f19/package/initscripts.md" >}}) | 0 | 1003 | 0.0 | Tibetan <trans-bo@lists.fedoraproject.org> | 
- | [libreport]({{< ref "/f19/package/libreport.md" >}}) | 0 | 3139 | 0.0 | Tibetan (http://www.transifex.com/projects/p/fedora/language/bo/) | 
- | [libvirt]({{< ref "/f19/package/libvirt.md" >}}) | 0 | 42975 | 0.0 | Tibetan <trans-bo@lists.fedoraproject.org> | 
- | [libvirt-sandbox]({{< ref "/f19/package/libvirt-sandbox.md" >}}) | 0 | 635 | 0.0 | Tibetan <trans-bo@lists.fedoraproject.org> | 
- | [lightdm]({{< ref "/f19/package/lightdm.md" >}}) | 0 | 79 | 0.0 | Tibetan <bo@li.org> | 
- | [lightdm-gtk]({{< ref "/f19/package/lightdm-gtk.md" >}}) | 0 | 57 | 0.0 | Tibetan <bo@li.org> | 
- | [liveusb-creator]({{< ref "/f19/package/liveusb-creator.md" >}}) | 0 | 480 | 0.0 | Tibetan (http://www.transifex.com/projects/p/fedora/language/bo/) | 
- | [pykickstart]({{< ref "/f19/package/pykickstart.md" >}}) | 0 | 343 | 0.0 | Tibetan <trans-bo@lists.fedoraproject.org> | 
- | [python-meh]({{< ref "/f19/package/python-meh.md" >}}) | 0 | 83 | 0.0 | Tibetan <trans-bo@lists.fedoraproject.org> | 
- | [stellarium]({{< ref "/f19/package/stellarium.md" >}}) | 0 | 11181 | 0.0 | Tibetan <bo@li.org> | 
- | [transmission]({{< ref "/f19/package/transmission.md" >}}) | 0 | 1809 | 0.0 | Tibetan <bo@li.org> | 
- | [vidalia]({{< ref "/f19/package/vidalia.md" >}}) | 0 | 10377 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [nautilus](/f19/package/nautilus) | 6259 | 7403 | 84.5 | Tibetan <bo@li.org> | 
+ | [libreoffice](/f19/package/libreoffice) | 397945 | 531256 | 74.9 | LANGUAGE <LL@li.org> | 
+ | [console-setup](/f19/package/console-setup) | 501 | 979 | 51.2 | bo <translation-team-bo@lists.sourceforge.net> | 
+ | [tuxpaint](/f19/package/tuxpaint) | 61 | 1247 | 4.9 | LANGUAGE <LL@li.org> | 
+ | [pootle](/f19/package/pootle) | 4 | 2424 | 0.2 | LANGUAGE <LL@li.org> | 
+ | [abrt](/f19/package/abrt) | 0 | 2722 | 0.0 | Tibetan (http://www.transifex.com/projects/p/fedora/language/bo/) | 
+ | [deja-dup](/f19/package/deja-dup) | 0 | 1756 | 0.0 | Tibetan <bo@li.org> | 
+ | [entangle](/f19/package/entangle) | 0 | 757 | 0.0 | Tibetan <trans-bo@lists.fedoraproject.org> | 
+ | [gnomebaker](/f19/package/gnomebaker) | 0 | 1186 | 0.0 | Tibetan <bo@li.org> | 
+ | [initscripts](/f19/package/initscripts) | 0 | 1003 | 0.0 | Tibetan <trans-bo@lists.fedoraproject.org> | 
+ | [libreport](/f19/package/libreport) | 0 | 3139 | 0.0 | Tibetan (http://www.transifex.com/projects/p/fedora/language/bo/) | 
+ | [libvirt](/f19/package/libvirt) | 0 | 42975 | 0.0 | Tibetan <trans-bo@lists.fedoraproject.org> | 
+ | [libvirt-sandbox](/f19/package/libvirt-sandbox) | 0 | 635 | 0.0 | Tibetan <trans-bo@lists.fedoraproject.org> | 
+ | [lightdm](/f19/package/lightdm) | 0 | 79 | 0.0 | Tibetan <bo@li.org> | 
+ | [lightdm-gtk](/f19/package/lightdm-gtk) | 0 | 57 | 0.0 | Tibetan <bo@li.org> | 
+ | [liveusb-creator](/f19/package/liveusb-creator) | 0 | 480 | 0.0 | Tibetan (http://www.transifex.com/projects/p/fedora/language/bo/) | 
+ | [pykickstart](/f19/package/pykickstart) | 0 | 343 | 0.0 | Tibetan <trans-bo@lists.fedoraproject.org> | 
+ | [python-meh](/f19/package/python-meh) | 0 | 83 | 0.0 | Tibetan <trans-bo@lists.fedoraproject.org> | 
+ | [stellarium](/f19/package/stellarium) | 0 | 11181 | 0.0 | Tibetan <bo@li.org> | 
+ | [transmission](/f19/package/transmission) | 0 | 1809 | 0.0 | Tibetan <bo@li.org> | 
+ | [vidalia](/f19/package/vidalia) | 0 | 10377 | 0.0 | LANGUAGE <LL@li.org> | 
 {.sortable}
 
 

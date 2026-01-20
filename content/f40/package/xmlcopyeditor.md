@@ -18,20 +18,20 @@ The package xmlcopyeditor (version 1.2.1.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [km]({{< ref "/f40/language/km.md" >}}) | 1512 | 1686 | 89.7 | /mnt/stockage/packages/f40/xmlcopyeditor/po/km.po | 
- | [ca]({{< ref "/f40/language/ca.md" >}}) | 1161 | 1686 | 68.9 | /mnt/stockage/packages/f40/xmlcopyeditor/po/ca.po | 
- | [es]({{< ref "/f40/language/es.md" >}}) | 1154 | 1686 | 68.4 | /mnt/stockage/packages/f40/xmlcopyeditor/po/es.po | 
- | [zh_Hans]({{< ref "/f40/language/zh_Hans.md" >}}) | 1078 | 1686 | 63.9 | /mnt/stockage/packages/f40/xmlcopyeditor/po/zh_CN.po | 
- | [fr]({{< ref "/f40/language/fr.md" >}}) | 1031 | 1686 | 61.2 | /mnt/stockage/packages/f40/xmlcopyeditor/po/fr.po | 
- | [nl]({{< ref "/f40/language/nl.md" >}}) | 1031 | 1686 | 61.2 | /mnt/stockage/packages/f40/xmlcopyeditor/po/nl.po | 
- | [ru]({{< ref "/f40/language/ru.md" >}}) | 1031 | 1686 | 61.2 | /mnt/stockage/packages/f40/xmlcopyeditor/po/ru.po | 
- | [it]({{< ref "/f40/language/it.md" >}}) | 1002 | 1686 | 59.4 | /mnt/stockage/packages/f40/xmlcopyeditor/po/it.po | 
- | [de]({{< ref "/f40/language/de.md" >}}) | 984 | 1686 | 58.4 | /mnt/stockage/packages/f40/xmlcopyeditor/po/de.po | 
- | [sk]({{< ref "/f40/language/sk.md" >}}) | 982 | 1686 | 58.2 | /mnt/stockage/packages/f40/xmlcopyeditor/po/sk.po | 
- | [sv]({{< ref "/f40/language/sv.md" >}}) | 937 | 1686 | 55.6 | /mnt/stockage/packages/f40/xmlcopyeditor/po/sv.po | 
- | [zh_Hant]({{< ref "/f40/language/zh_Hant.md" >}}) | 937 | 1686 | 55.6 | /mnt/stockage/packages/f40/xmlcopyeditor/po/zh_TW.po | 
- | [uk]({{< ref "/f40/language/uk.md" >}}) | 580 | 1686 | 34.4 | /mnt/stockage/packages/f40/xmlcopyeditor/po/uk_UA.po | 
- | [en_US]({{< ref "/f40/language/en_US.md" >}}) | 0 | 1686 | 0.0 | /mnt/stockage/packages/f40/xmlcopyeditor/po/en_US.po | 
+ | [km](/f40/language/km) | 1512 | 1686 | 89.7 | /mnt/stockage/packages/f40/xmlcopyeditor/po/km.po | 
+ | [ca](/f40/language/ca) | 1161 | 1686 | 68.9 | /mnt/stockage/packages/f40/xmlcopyeditor/po/ca.po | 
+ | [es](/f40/language/es) | 1154 | 1686 | 68.4 | /mnt/stockage/packages/f40/xmlcopyeditor/po/es.po | 
+ | [zh_Hans](/f40/language/zh_Hans) | 1078 | 1686 | 63.9 | /mnt/stockage/packages/f40/xmlcopyeditor/po/zh_CN.po | 
+ | [fr](/f40/language/fr) | 1031 | 1686 | 61.2 | /mnt/stockage/packages/f40/xmlcopyeditor/po/fr.po | 
+ | [nl](/f40/language/nl) | 1031 | 1686 | 61.2 | /mnt/stockage/packages/f40/xmlcopyeditor/po/nl.po | 
+ | [ru](/f40/language/ru) | 1031 | 1686 | 61.2 | /mnt/stockage/packages/f40/xmlcopyeditor/po/ru.po | 
+ | [it](/f40/language/it) | 1002 | 1686 | 59.4 | /mnt/stockage/packages/f40/xmlcopyeditor/po/it.po | 
+ | [de](/f40/language/de) | 984 | 1686 | 58.4 | /mnt/stockage/packages/f40/xmlcopyeditor/po/de.po | 
+ | [sk](/f40/language/sk) | 982 | 1686 | 58.2 | /mnt/stockage/packages/f40/xmlcopyeditor/po/sk.po | 
+ | [sv](/f40/language/sv) | 937 | 1686 | 55.6 | /mnt/stockage/packages/f40/xmlcopyeditor/po/sv.po | 
+ | [zh_Hant](/f40/language/zh_Hant) | 937 | 1686 | 55.6 | /mnt/stockage/packages/f40/xmlcopyeditor/po/zh_TW.po | 
+ | [uk](/f40/language/uk) | 580 | 1686 | 34.4 | /mnt/stockage/packages/f40/xmlcopyeditor/po/uk_UA.po | 
+ | [en_US](/f40/language/en_US) | 0 | 1686 | 0.0 | /mnt/stockage/packages/f40/xmlcopyeditor/po/en_US.po | 
 {.sortable}
 
 

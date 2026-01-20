@@ -18,19 +18,19 @@ The package xfce4-dict-plugin (version 0.3.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f9/language/de.md" >}}) | 196 | 196 | 100.0 | /mnt/stockage/packages/f9/xfce4-dict-plugin/po/de.po | 
- | [hu]({{< ref "/f9/language/hu.md" >}}) | 196 | 196 | 100.0 | /mnt/stockage/packages/f9/xfce4-dict-plugin/po/hu.po | 
- | [pt_BR]({{< ref "/f9/language/pt_BR.md" >}}) | 196 | 196 | 100.0 | /mnt/stockage/packages/f9/xfce4-dict-plugin/po/pt_BR.po | 
- | [cs]({{< ref "/f9/language/cs.md" >}}) | 162 | 196 | 82.7 | /mnt/stockage/packages/f9/xfce4-dict-plugin/po/cs.po | 
- | [ca]({{< ref "/f9/language/ca.md" >}}) | 147 | 196 | 75.0 | /mnt/stockage/packages/f9/xfce4-dict-plugin/po/ca.po | 
- | [en_GB]({{< ref "/f9/language/en_GB.md" >}}) | 147 | 196 | 75.0 | /mnt/stockage/packages/f9/xfce4-dict-plugin/po/en_GB.po | 
- | [eu]({{< ref "/f9/language/eu.md" >}}) | 147 | 196 | 75.0 | /mnt/stockage/packages/f9/xfce4-dict-plugin/po/eu.po | 
- | [fr]({{< ref "/f9/language/fr.md" >}}) | 147 | 196 | 75.0 | /mnt/stockage/packages/f9/xfce4-dict-plugin/po/fr.po | 
- | [lv]({{< ref "/f9/language/lv.md" >}}) | 147 | 196 | 75.0 | /mnt/stockage/packages/f9/xfce4-dict-plugin/po/lv.po | 
- | [pl]({{< ref "/f9/language/pl.md" >}}) | 147 | 196 | 75.0 | /mnt/stockage/packages/f9/xfce4-dict-plugin/po/pl.po | 
- | [pt_PT]({{< ref "/f9/language/pt_PT.md" >}}) | 147 | 196 | 75.0 | /mnt/stockage/packages/f9/xfce4-dict-plugin/po/pt_PT.po | 
- | [uk]({{< ref "/f9/language/uk.md" >}}) | 147 | 196 | 75.0 | /mnt/stockage/packages/f9/xfce4-dict-plugin/po/uk.po | 
- | [ur]({{< ref "/f9/language/ur.md" >}}) | 147 | 196 | 75.0 | /mnt/stockage/packages/f9/xfce4-dict-plugin/po/ur.po | 
+ | [de](/f9/language/de) | 196 | 196 | 100.0 | /mnt/stockage/packages/f9/xfce4-dict-plugin/po/de.po | 
+ | [hu](/f9/language/hu) | 196 | 196 | 100.0 | /mnt/stockage/packages/f9/xfce4-dict-plugin/po/hu.po | 
+ | [pt_BR](/f9/language/pt_BR) | 196 | 196 | 100.0 | /mnt/stockage/packages/f9/xfce4-dict-plugin/po/pt_BR.po | 
+ | [cs](/f9/language/cs) | 162 | 196 | 82.7 | /mnt/stockage/packages/f9/xfce4-dict-plugin/po/cs.po | 
+ | [ca](/f9/language/ca) | 147 | 196 | 75.0 | /mnt/stockage/packages/f9/xfce4-dict-plugin/po/ca.po | 
+ | [en_GB](/f9/language/en_GB) | 147 | 196 | 75.0 | /mnt/stockage/packages/f9/xfce4-dict-plugin/po/en_GB.po | 
+ | [eu](/f9/language/eu) | 147 | 196 | 75.0 | /mnt/stockage/packages/f9/xfce4-dict-plugin/po/eu.po | 
+ | [fr](/f9/language/fr) | 147 | 196 | 75.0 | /mnt/stockage/packages/f9/xfce4-dict-plugin/po/fr.po | 
+ | [lv](/f9/language/lv) | 147 | 196 | 75.0 | /mnt/stockage/packages/f9/xfce4-dict-plugin/po/lv.po | 
+ | [pl](/f9/language/pl) | 147 | 196 | 75.0 | /mnt/stockage/packages/f9/xfce4-dict-plugin/po/pl.po | 
+ | [pt_PT](/f9/language/pt_PT) | 147 | 196 | 75.0 | /mnt/stockage/packages/f9/xfce4-dict-plugin/po/pt_PT.po | 
+ | [uk](/f9/language/uk) | 147 | 196 | 75.0 | /mnt/stockage/packages/f9/xfce4-dict-plugin/po/uk.po | 
+ | [ur](/f9/language/ur) | 147 | 196 | 75.0 | /mnt/stockage/packages/f9/xfce4-dict-plugin/po/ur.po | 
 {.sortable}
 
 

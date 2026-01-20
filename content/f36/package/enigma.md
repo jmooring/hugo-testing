@@ -18,30 +18,30 @@ The package enigma (version 1.30):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f36/language/cs.md" >}}) | 10412 | 10412 | 100.0 | /mnt/stockage/packages/f36/enigma/data/locale/cs.po | 
- | [es]({{< ref "/f36/language/es.md" >}}) | 10412 | 10412 | 100.0 | /mnt/stockage/packages/f36/enigma/data/locale/es.po | 
- | [fr]({{< ref "/f36/language/fr.md" >}}) | 10412 | 10412 | 100.0 | /mnt/stockage/packages/f36/enigma/data/locale/fr.po | 
- | [gd]({{< ref "/f36/language/gd.md" >}}) | 10412 | 10412 | 100.0 | /mnt/stockage/packages/f36/enigma/data/locale/gd.po | 
- | [nl]({{< ref "/f36/language/nl.md" >}}) | 10412 | 10412 | 100.0 | /mnt/stockage/packages/f36/enigma/data/locale/nl.po | 
- | [pl]({{< ref "/f36/language/pl.md" >}}) | 10412 | 10412 | 100.0 | /mnt/stockage/packages/f36/enigma/data/locale/pl.po | 
- | [ru]({{< ref "/f36/language/ru.md" >}}) | 10412 | 10412 | 100.0 | /mnt/stockage/packages/f36/enigma/data/locale/ru.po | 
- | [zh_Hans]({{< ref "/f36/language/zh_Hans.md" >}}) | 10412 | 10412 | 100.0 | /mnt/stockage/packages/f36/enigma/data/locale/zh.po | 
- | [it]({{< ref "/f36/language/it.md" >}}) | 10394 | 10412 | 99.8 | /mnt/stockage/packages/f36/enigma/data/locale/it.po | 
- | [de]({{< ref "/f36/language/de.md" >}}) | 10320 | 10412 | 99.1 | /mnt/stockage/packages/f36/enigma/data/locale/de.po | 
- | [be]({{< ref "/f36/language/be.md" >}}) | 9015 | 10412 | 86.6 | /mnt/stockage/packages/f36/enigma/data/locale/be.po | 
- | [sk]({{< ref "/f36/language/sk.md" >}}) | 9015 | 10412 | 86.6 | /mnt/stockage/packages/f36/enigma/data/locale/sk.po | 
- | [uk]({{< ref "/f36/language/uk.md" >}}) | 9015 | 10412 | 86.6 | /mnt/stockage/packages/f36/enigma/data/locale/uk.po | 
- | [el]({{< ref "/f36/language/el.md" >}}) | 6040 | 10412 | 58.0 | /mnt/stockage/packages/f36/enigma/data/locale/el.po | 
- | [hr]({{< ref "/f36/language/hr.md" >}}) | 5936 | 10412 | 57.0 | /mnt/stockage/packages/f36/enigma/data/locale/hr.po | 
- | [pt]({{< ref "/f36/language/pt.md" >}}) | 4953 | 10412 | 47.6 | /mnt/stockage/packages/f36/enigma/data/locale/pt.po | 
- | [hu]({{< ref "/f36/language/hu.md" >}}) | 4804 | 10412 | 46.1 | /mnt/stockage/packages/f36/enigma/data/locale/hu.po | 
- | [fi]({{< ref "/f36/language/fi.md" >}}) | 4043 | 10412 | 38.8 | /mnt/stockage/packages/f36/enigma/data/locale/fi.po | 
- | [da]({{< ref "/f36/language/da.md" >}}) | 3669 | 10412 | 35.2 | /mnt/stockage/packages/f36/enigma/data/locale/da.po | 
- | [sv]({{< ref "/f36/language/sv.md" >}}) | 2052 | 10412 | 19.7 | /mnt/stockage/packages/f36/enigma/data/locale/sv.po | 
- | [sl]({{< ref "/f36/language/sl.md" >}}) | 762 | 10412 | 7.3 | /mnt/stockage/packages/f36/enigma/data/locale/sl.po | 
- | [bs]({{< ref "/f36/language/bs.md" >}}) | 598 | 10412 | 5.7 | /mnt/stockage/packages/f36/enigma/data/locale/bs.po | 
- | [nb_NO]({{< ref "/f36/language/nb_NO.md" >}}) | 526 | 10412 | 5.1 | /mnt/stockage/packages/f36/enigma/data/locale/no.po | 
- | [ja]({{< ref "/f36/language/ja.md" >}}) | 422 | 10412 | 4.1 | /mnt/stockage/packages/f36/enigma/data/locale/ja.po | 
+ | [cs](/f36/language/cs) | 10412 | 10412 | 100.0 | /mnt/stockage/packages/f36/enigma/data/locale/cs.po | 
+ | [es](/f36/language/es) | 10412 | 10412 | 100.0 | /mnt/stockage/packages/f36/enigma/data/locale/es.po | 
+ | [fr](/f36/language/fr) | 10412 | 10412 | 100.0 | /mnt/stockage/packages/f36/enigma/data/locale/fr.po | 
+ | [gd](/f36/language/gd) | 10412 | 10412 | 100.0 | /mnt/stockage/packages/f36/enigma/data/locale/gd.po | 
+ | [nl](/f36/language/nl) | 10412 | 10412 | 100.0 | /mnt/stockage/packages/f36/enigma/data/locale/nl.po | 
+ | [pl](/f36/language/pl) | 10412 | 10412 | 100.0 | /mnt/stockage/packages/f36/enigma/data/locale/pl.po | 
+ | [ru](/f36/language/ru) | 10412 | 10412 | 100.0 | /mnt/stockage/packages/f36/enigma/data/locale/ru.po | 
+ | [zh_Hans](/f36/language/zh_Hans) | 10412 | 10412 | 100.0 | /mnt/stockage/packages/f36/enigma/data/locale/zh.po | 
+ | [it](/f36/language/it) | 10394 | 10412 | 99.8 | /mnt/stockage/packages/f36/enigma/data/locale/it.po | 
+ | [de](/f36/language/de) | 10320 | 10412 | 99.1 | /mnt/stockage/packages/f36/enigma/data/locale/de.po | 
+ | [be](/f36/language/be) | 9015 | 10412 | 86.6 | /mnt/stockage/packages/f36/enigma/data/locale/be.po | 
+ | [sk](/f36/language/sk) | 9015 | 10412 | 86.6 | /mnt/stockage/packages/f36/enigma/data/locale/sk.po | 
+ | [uk](/f36/language/uk) | 9015 | 10412 | 86.6 | /mnt/stockage/packages/f36/enigma/data/locale/uk.po | 
+ | [el](/f36/language/el) | 6040 | 10412 | 58.0 | /mnt/stockage/packages/f36/enigma/data/locale/el.po | 
+ | [hr](/f36/language/hr) | 5936 | 10412 | 57.0 | /mnt/stockage/packages/f36/enigma/data/locale/hr.po | 
+ | [pt](/f36/language/pt) | 4953 | 10412 | 47.6 | /mnt/stockage/packages/f36/enigma/data/locale/pt.po | 
+ | [hu](/f36/language/hu) | 4804 | 10412 | 46.1 | /mnt/stockage/packages/f36/enigma/data/locale/hu.po | 
+ | [fi](/f36/language/fi) | 4043 | 10412 | 38.8 | /mnt/stockage/packages/f36/enigma/data/locale/fi.po | 
+ | [da](/f36/language/da) | 3669 | 10412 | 35.2 | /mnt/stockage/packages/f36/enigma/data/locale/da.po | 
+ | [sv](/f36/language/sv) | 2052 | 10412 | 19.7 | /mnt/stockage/packages/f36/enigma/data/locale/sv.po | 
+ | [sl](/f36/language/sl) | 762 | 10412 | 7.3 | /mnt/stockage/packages/f36/enigma/data/locale/sl.po | 
+ | [bs](/f36/language/bs) | 598 | 10412 | 5.7 | /mnt/stockage/packages/f36/enigma/data/locale/bs.po | 
+ | [nb_NO](/f36/language/nb_NO) | 526 | 10412 | 5.1 | /mnt/stockage/packages/f36/enigma/data/locale/no.po | 
+ | [ja](/f36/language/ja) | 422 | 10412 | 4.1 | /mnt/stockage/packages/f36/enigma/data/locale/ja.po | 
 {.sortable}
 
 

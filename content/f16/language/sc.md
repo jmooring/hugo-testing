@@ -38,9 +38,9 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [pootle]({{< ref "/f16/package/pootle.md" >}}) | 2424 | 2424 | 100.0 | LANGUAGE <LL@li.org> | 
- | [gnome-do]({{< ref "/f16/package/gnome-do.md" >}}) | 473 | 612 | 77.3 | Sardinian <sc@li.org> | 
- | [calibre]({{< ref "/f16/package/calibre.md" >}}) | 3 | 34696 | 0.0 | Sardinian <sc@li.org> | 
+ | [pootle](/f16/package/pootle) | 2424 | 2424 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [gnome-do](/f16/package/gnome-do) | 473 | 612 | 77.3 | Sardinian <sc@li.org> | 
+ | [calibre](/f16/package/calibre) | 3 | 34696 | 0.0 | Sardinian <sc@li.org> | 
 {.sortable}
 
 

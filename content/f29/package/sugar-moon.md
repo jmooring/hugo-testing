@@ -18,8 +18,8 @@ The package sugar-moon (version 19):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [es]({{< ref "/f29/language/es.md" >}}) | 63 | 63 | 100.0 | /mnt/stockage/packages/f29/sugar-moon/po/es.po | 
- | [fr]({{< ref "/f29/language/fr.md" >}}) | 63 | 63 | 100.0 | /mnt/stockage/packages/f29/sugar-moon/po/fr.po | 
+ | [es](/f29/language/es) | 63 | 63 | 100.0 | /mnt/stockage/packages/f29/sugar-moon/po/es.po | 
+ | [fr](/f29/language/fr) | 63 | 63 | 100.0 | /mnt/stockage/packages/f29/sugar-moon/po/fr.po | 
 {.sortable}
 
 

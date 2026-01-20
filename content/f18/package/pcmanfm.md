@@ -18,58 +18,58 @@ The package pcmanfm (version 1.1.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f18/language/ar.md" >}}) | 799 | 799 | 100.0 | /mnt/stockage/packages/f18/pcmanfm/po/ar.po | 
- | [bg]({{< ref "/f18/language/bg.md" >}}) | 799 | 799 | 100.0 | /mnt/stockage/packages/f18/pcmanfm/po/bg.po | 
- | [de]({{< ref "/f18/language/de.md" >}}) | 799 | 799 | 100.0 | /mnt/stockage/packages/f18/pcmanfm/po/de.po | 
- | [en_GB]({{< ref "/f18/language/en_GB.md" >}}) | 799 | 799 | 100.0 | /mnt/stockage/packages/f18/pcmanfm/po/en_GB.po | 
- | [es]({{< ref "/f18/language/es.md" >}}) | 799 | 799 | 100.0 | /mnt/stockage/packages/f18/pcmanfm/po/es.po | 
- | [et]({{< ref "/f18/language/et.md" >}}) | 799 | 799 | 100.0 | /mnt/stockage/packages/f18/pcmanfm/po/et.po | 
- | [eu]({{< ref "/f18/language/eu.md" >}}) | 799 | 799 | 100.0 | /mnt/stockage/packages/f18/pcmanfm/po/eu.po | 
- | [fa]({{< ref "/f18/language/fa.md" >}}) | 799 | 799 | 100.0 | /mnt/stockage/packages/f18/pcmanfm/po/fa.po | 
- | [fi]({{< ref "/f18/language/fi.md" >}}) | 799 | 799 | 100.0 | /mnt/stockage/packages/f18/pcmanfm/po/fi.po | 
- | [gl]({{< ref "/f18/language/gl.md" >}}) | 799 | 799 | 100.0 | /mnt/stockage/packages/f18/pcmanfm/po/gl.po | 
- | [he]({{< ref "/f18/language/he.md" >}}) | 799 | 799 | 100.0 | /mnt/stockage/packages/f18/pcmanfm/po/he.po | 
- | [id]({{< ref "/f18/language/id.md" >}}) | 799 | 799 | 100.0 | /mnt/stockage/packages/f18/pcmanfm/po/id.po | 
- | [it]({{< ref "/f18/language/it.md" >}}) | 799 | 799 | 100.0 | /mnt/stockage/packages/f18/pcmanfm/po/it.po | 
- | [ja]({{< ref "/f18/language/ja.md" >}}) | 799 | 799 | 100.0 | /mnt/stockage/packages/f18/pcmanfm/po/ja.po | 
- | [kk]({{< ref "/f18/language/kk.md" >}}) | 799 | 799 | 100.0 | /mnt/stockage/packages/f18/pcmanfm/po/kk.po | 
- | [lg]({{< ref "/f18/language/lg.md" >}}) | 799 | 799 | 100.0 | /mnt/stockage/packages/f18/pcmanfm/po/lg.po | 
- | [lt]({{< ref "/f18/language/lt.md" >}}) | 799 | 799 | 100.0 | /mnt/stockage/packages/f18/pcmanfm/po/lt.po | 
- | [nl]({{< ref "/f18/language/nl.md" >}}) | 799 | 799 | 100.0 | /mnt/stockage/packages/f18/pcmanfm/po/nl.po | 
- | [pl]({{< ref "/f18/language/pl.md" >}}) | 799 | 799 | 100.0 | /mnt/stockage/packages/f18/pcmanfm/po/pl.po | 
- | [pt]({{< ref "/f18/language/pt.md" >}}) | 799 | 799 | 100.0 | /mnt/stockage/packages/f18/pcmanfm/po/pt.po | 
- | [ro]({{< ref "/f18/language/ro.md" >}}) | 799 | 799 | 100.0 | /mnt/stockage/packages/f18/pcmanfm/po/ro.po | 
- | [ru]({{< ref "/f18/language/ru.md" >}}) | 799 | 799 | 100.0 | /mnt/stockage/packages/f18/pcmanfm/po/ru.po | 
- | [sl]({{< ref "/f18/language/sl.md" >}}) | 799 | 799 | 100.0 | /mnt/stockage/packages/f18/pcmanfm/po/sl.po | 
- | [sr]({{< ref "/f18/language/sr.md" >}}) | 1598 | 1598 | 100.0 | /mnt/stockage/packages/f18/pcmanfm/po/sr@latin.po/mnt/stockage/packages/f18/pcmanfm/po/sr.po | 
- | [sv]({{< ref "/f18/language/sv.md" >}}) | 799 | 799 | 100.0 | /mnt/stockage/packages/f18/pcmanfm/po/sv.po | 
- | [tr]({{< ref "/f18/language/tr.md" >}}) | 799 | 799 | 100.0 | /mnt/stockage/packages/f18/pcmanfm/po/tr.po | 
- | [ug]({{< ref "/f18/language/ug.md" >}}) | 799 | 799 | 100.0 | /mnt/stockage/packages/f18/pcmanfm/po/ug.po | 
- | [uk]({{< ref "/f18/language/uk.md" >}}) | 799 | 799 | 100.0 | /mnt/stockage/packages/f18/pcmanfm/po/uk.po | 
- | [zh_Hans]({{< ref "/f18/language/zh_Hans.md" >}}) | 799 | 799 | 100.0 | /mnt/stockage/packages/f18/pcmanfm/po/zh_CN.po | 
- | [be]({{< ref "/f18/language/be.md" >}}) | 797 | 799 | 99.7 | /mnt/stockage/packages/f18/pcmanfm/po/be.po | 
- | [cs]({{< ref "/f18/language/cs.md" >}}) | 797 | 799 | 99.7 | /mnt/stockage/packages/f18/pcmanfm/po/cs.po | 
- | [ko]({{< ref "/f18/language/ko.md" >}}) | 797 | 799 | 99.7 | /mnt/stockage/packages/f18/pcmanfm/po/ko.po | 
- | [pt_BR]({{< ref "/f18/language/pt_BR.md" >}}) | 797 | 799 | 99.7 | /mnt/stockage/packages/f18/pcmanfm/po/pt_BR.po | 
- | [vi]({{< ref "/f18/language/vi.md" >}}) | 797 | 799 | 99.7 | /mnt/stockage/packages/f18/pcmanfm/po/vi.po | 
- | [fr]({{< ref "/f18/language/fr.md" >}}) | 795 | 799 | 99.5 | /mnt/stockage/packages/f18/pcmanfm/po/fr.po | 
- | [zh_Hant]({{< ref "/f18/language/zh_Hant.md" >}}) | 789 | 799 | 98.7 | /mnt/stockage/packages/f18/pcmanfm/po/zh_TW.po | 
- | [hr]({{< ref "/f18/language/hr.md" >}}) | 595 | 799 | 74.5 | /mnt/stockage/packages/f18/pcmanfm/po/hr.po | 
- | [el]({{< ref "/f18/language/el.md" >}}) | 352 | 799 | 44.1 | /mnt/stockage/packages/f18/pcmanfm/po/el.po | 
- | [hu]({{< ref "/f18/language/hu.md" >}}) | 326 | 799 | 40.8 | /mnt/stockage/packages/f18/pcmanfm/po/hu.po | 
- | [te]({{< ref "/f18/language/te.md" >}}) | 306 | 799 | 38.3 | /mnt/stockage/packages/f18/pcmanfm/po/te.po | 
- | [da]({{< ref "/f18/language/da.md" >}}) | 295 | 799 | 36.9 | /mnt/stockage/packages/f18/pcmanfm/po/da.po | 
- | [tt]({{< ref "/f18/language/tt.md" >}}) | 295 | 799 | 36.9 | /mnt/stockage/packages/f18/pcmanfm/po/tt_RU.po | 
- | [lv]({{< ref "/f18/language/lv.md" >}}) | 274 | 799 | 34.3 | /mnt/stockage/packages/f18/pcmanfm/po/lv.po | 
- | [sk]({{< ref "/f18/language/sk.md" >}}) | 269 | 799 | 33.7 | /mnt/stockage/packages/f18/pcmanfm/po/sk.po | 
- | [fo]({{< ref "/f18/language/fo.md" >}}) | 264 | 799 | 33.0 | /mnt/stockage/packages/f18/pcmanfm/po/fo.po | 
- | [bn]({{< ref "/f18/language/bn.md" >}}) | 260 | 799 | 32.5 | /mnt/stockage/packages/f18/pcmanfm/po/bn.po | 
- | [pa]({{< ref "/f18/language/pa.md" >}}) | 233 | 799 | 29.2 | /mnt/stockage/packages/f18/pcmanfm/po/pa.po | 
- | [ca]({{< ref "/f18/language/ca.md" >}}) | 225 | 799 | 28.2 | /mnt/stockage/packages/f18/pcmanfm/po/ca.po | 
- | [si]({{< ref "/f18/language/si.md" >}}) | 67 | 799 | 8.4 | /mnt/stockage/packages/f18/pcmanfm/po/si.po | 
- | [km]({{< ref "/f18/language/km.md" >}}) | 60 | 799 | 7.5 | /mnt/stockage/packages/f18/pcmanfm/po/km.po | 
- | [ms]({{< ref "/f18/language/ms.md" >}}) | 31 | 799 | 3.9 | /mnt/stockage/packages/f18/pcmanfm/po/ms.po | 
- | [th]({{< ref "/f18/language/th.md" >}}) | 0 | 799 | 0.0 | /mnt/stockage/packages/f18/pcmanfm/po/th.po | 
+ | [ar](/f18/language/ar) | 799 | 799 | 100.0 | /mnt/stockage/packages/f18/pcmanfm/po/ar.po | 
+ | [bg](/f18/language/bg) | 799 | 799 | 100.0 | /mnt/stockage/packages/f18/pcmanfm/po/bg.po | 
+ | [de](/f18/language/de) | 799 | 799 | 100.0 | /mnt/stockage/packages/f18/pcmanfm/po/de.po | 
+ | [en_GB](/f18/language/en_GB) | 799 | 799 | 100.0 | /mnt/stockage/packages/f18/pcmanfm/po/en_GB.po | 
+ | [es](/f18/language/es) | 799 | 799 | 100.0 | /mnt/stockage/packages/f18/pcmanfm/po/es.po | 
+ | [et](/f18/language/et) | 799 | 799 | 100.0 | /mnt/stockage/packages/f18/pcmanfm/po/et.po | 
+ | [eu](/f18/language/eu) | 799 | 799 | 100.0 | /mnt/stockage/packages/f18/pcmanfm/po/eu.po | 
+ | [fa](/f18/language/fa) | 799 | 799 | 100.0 | /mnt/stockage/packages/f18/pcmanfm/po/fa.po | 
+ | [fi](/f18/language/fi) | 799 | 799 | 100.0 | /mnt/stockage/packages/f18/pcmanfm/po/fi.po | 
+ | [gl](/f18/language/gl) | 799 | 799 | 100.0 | /mnt/stockage/packages/f18/pcmanfm/po/gl.po | 
+ | [he](/f18/language/he) | 799 | 799 | 100.0 | /mnt/stockage/packages/f18/pcmanfm/po/he.po | 
+ | [id](/f18/language/id) | 799 | 799 | 100.0 | /mnt/stockage/packages/f18/pcmanfm/po/id.po | 
+ | [it](/f18/language/it) | 799 | 799 | 100.0 | /mnt/stockage/packages/f18/pcmanfm/po/it.po | 
+ | [ja](/f18/language/ja) | 799 | 799 | 100.0 | /mnt/stockage/packages/f18/pcmanfm/po/ja.po | 
+ | [kk](/f18/language/kk) | 799 | 799 | 100.0 | /mnt/stockage/packages/f18/pcmanfm/po/kk.po | 
+ | [lg](/f18/language/lg) | 799 | 799 | 100.0 | /mnt/stockage/packages/f18/pcmanfm/po/lg.po | 
+ | [lt](/f18/language/lt) | 799 | 799 | 100.0 | /mnt/stockage/packages/f18/pcmanfm/po/lt.po | 
+ | [nl](/f18/language/nl) | 799 | 799 | 100.0 | /mnt/stockage/packages/f18/pcmanfm/po/nl.po | 
+ | [pl](/f18/language/pl) | 799 | 799 | 100.0 | /mnt/stockage/packages/f18/pcmanfm/po/pl.po | 
+ | [pt](/f18/language/pt) | 799 | 799 | 100.0 | /mnt/stockage/packages/f18/pcmanfm/po/pt.po | 
+ | [ro](/f18/language/ro) | 799 | 799 | 100.0 | /mnt/stockage/packages/f18/pcmanfm/po/ro.po | 
+ | [ru](/f18/language/ru) | 799 | 799 | 100.0 | /mnt/stockage/packages/f18/pcmanfm/po/ru.po | 
+ | [sl](/f18/language/sl) | 799 | 799 | 100.0 | /mnt/stockage/packages/f18/pcmanfm/po/sl.po | 
+ | [sr](/f18/language/sr) | 1598 | 1598 | 100.0 | /mnt/stockage/packages/f18/pcmanfm/po/sr@latin.po/mnt/stockage/packages/f18/pcmanfm/po/sr.po | 
+ | [sv](/f18/language/sv) | 799 | 799 | 100.0 | /mnt/stockage/packages/f18/pcmanfm/po/sv.po | 
+ | [tr](/f18/language/tr) | 799 | 799 | 100.0 | /mnt/stockage/packages/f18/pcmanfm/po/tr.po | 
+ | [ug](/f18/language/ug) | 799 | 799 | 100.0 | /mnt/stockage/packages/f18/pcmanfm/po/ug.po | 
+ | [uk](/f18/language/uk) | 799 | 799 | 100.0 | /mnt/stockage/packages/f18/pcmanfm/po/uk.po | 
+ | [zh_Hans](/f18/language/zh_Hans) | 799 | 799 | 100.0 | /mnt/stockage/packages/f18/pcmanfm/po/zh_CN.po | 
+ | [be](/f18/language/be) | 797 | 799 | 99.7 | /mnt/stockage/packages/f18/pcmanfm/po/be.po | 
+ | [cs](/f18/language/cs) | 797 | 799 | 99.7 | /mnt/stockage/packages/f18/pcmanfm/po/cs.po | 
+ | [ko](/f18/language/ko) | 797 | 799 | 99.7 | /mnt/stockage/packages/f18/pcmanfm/po/ko.po | 
+ | [pt_BR](/f18/language/pt_BR) | 797 | 799 | 99.7 | /mnt/stockage/packages/f18/pcmanfm/po/pt_BR.po | 
+ | [vi](/f18/language/vi) | 797 | 799 | 99.7 | /mnt/stockage/packages/f18/pcmanfm/po/vi.po | 
+ | [fr](/f18/language/fr) | 795 | 799 | 99.5 | /mnt/stockage/packages/f18/pcmanfm/po/fr.po | 
+ | [zh_Hant](/f18/language/zh_Hant) | 789 | 799 | 98.7 | /mnt/stockage/packages/f18/pcmanfm/po/zh_TW.po | 
+ | [hr](/f18/language/hr) | 595 | 799 | 74.5 | /mnt/stockage/packages/f18/pcmanfm/po/hr.po | 
+ | [el](/f18/language/el) | 352 | 799 | 44.1 | /mnt/stockage/packages/f18/pcmanfm/po/el.po | 
+ | [hu](/f18/language/hu) | 326 | 799 | 40.8 | /mnt/stockage/packages/f18/pcmanfm/po/hu.po | 
+ | [te](/f18/language/te) | 306 | 799 | 38.3 | /mnt/stockage/packages/f18/pcmanfm/po/te.po | 
+ | [da](/f18/language/da) | 295 | 799 | 36.9 | /mnt/stockage/packages/f18/pcmanfm/po/da.po | 
+ | [tt](/f18/language/tt) | 295 | 799 | 36.9 | /mnt/stockage/packages/f18/pcmanfm/po/tt_RU.po | 
+ | [lv](/f18/language/lv) | 274 | 799 | 34.3 | /mnt/stockage/packages/f18/pcmanfm/po/lv.po | 
+ | [sk](/f18/language/sk) | 269 | 799 | 33.7 | /mnt/stockage/packages/f18/pcmanfm/po/sk.po | 
+ | [fo](/f18/language/fo) | 264 | 799 | 33.0 | /mnt/stockage/packages/f18/pcmanfm/po/fo.po | 
+ | [bn](/f18/language/bn) | 260 | 799 | 32.5 | /mnt/stockage/packages/f18/pcmanfm/po/bn.po | 
+ | [pa](/f18/language/pa) | 233 | 799 | 29.2 | /mnt/stockage/packages/f18/pcmanfm/po/pa.po | 
+ | [ca](/f18/language/ca) | 225 | 799 | 28.2 | /mnt/stockage/packages/f18/pcmanfm/po/ca.po | 
+ | [si](/f18/language/si) | 67 | 799 | 8.4 | /mnt/stockage/packages/f18/pcmanfm/po/si.po | 
+ | [km](/f18/language/km) | 60 | 799 | 7.5 | /mnt/stockage/packages/f18/pcmanfm/po/km.po | 
+ | [ms](/f18/language/ms) | 31 | 799 | 3.9 | /mnt/stockage/packages/f18/pcmanfm/po/ms.po | 
+ | [th](/f18/language/th) | 0 | 799 | 0.0 | /mnt/stockage/packages/f18/pcmanfm/po/th.po | 
 {.sortable}
 
 

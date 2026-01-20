@@ -18,14 +18,14 @@ The package classified-ads (version 0.16):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fi]({{< ref "/f40/language/fi.md" >}}) | 2032 | 2032 | 100.0 | /mnt/stockage/packages/f40/classified-ads/po/fi.po | 
- | [fr]({{< ref "/f40/language/fr.md" >}}) | 2032 | 2032 | 100.0 | /mnt/stockage/packages/f40/classified-ads/po/fr.po | 
- | [sv]({{< ref "/f40/language/sv.md" >}}) | 2032 | 2032 | 100.0 | /mnt/stockage/packages/f40/classified-ads/po/sv.po | 
- | [uk]({{< ref "/f40/language/uk.md" >}}) | 2032 | 2032 | 100.0 | /mnt/stockage/packages/f40/classified-ads/po/uk.po | 
- | [es]({{< ref "/f40/language/es.md" >}}) | 2026 | 2032 | 99.7 | /mnt/stockage/packages/f40/classified-ads/po/es.po | 
- | [da]({{< ref "/f40/language/da.md" >}}) | 1774 | 2032 | 87.3 | /mnt/stockage/packages/f40/classified-ads/po/da.po | 
- | [ka]({{< ref "/f40/language/ka.md" >}}) | 1372 | 2032 | 67.5 | /mnt/stockage/packages/f40/classified-ads/po/ka.po | 
- | [de]({{< ref "/f40/language/de.md" >}}) | 1152 | 2032 | 56.7 | /mnt/stockage/packages/f40/classified-ads/po/de.po | 
+ | [fi](/f40/language/fi) | 2032 | 2032 | 100.0 | /mnt/stockage/packages/f40/classified-ads/po/fi.po | 
+ | [fr](/f40/language/fr) | 2032 | 2032 | 100.0 | /mnt/stockage/packages/f40/classified-ads/po/fr.po | 
+ | [sv](/f40/language/sv) | 2032 | 2032 | 100.0 | /mnt/stockage/packages/f40/classified-ads/po/sv.po | 
+ | [uk](/f40/language/uk) | 2032 | 2032 | 100.0 | /mnt/stockage/packages/f40/classified-ads/po/uk.po | 
+ | [es](/f40/language/es) | 2026 | 2032 | 99.7 | /mnt/stockage/packages/f40/classified-ads/po/es.po | 
+ | [da](/f40/language/da) | 1774 | 2032 | 87.3 | /mnt/stockage/packages/f40/classified-ads/po/da.po | 
+ | [ka](/f40/language/ka) | 1372 | 2032 | 67.5 | /mnt/stockage/packages/f40/classified-ads/po/ka.po | 
+ | [de](/f40/language/de) | 1152 | 2032 | 56.7 | /mnt/stockage/packages/f40/classified-ads/po/de.po | 
 {.sortable}
 
 

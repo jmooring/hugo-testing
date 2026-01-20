@@ -18,8 +18,8 @@ The package meson (version 0.29.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f23/language/de.md" >}}) | 2 | 2 | 100.0 | /mnt/stockage/packages/f23/meson/test cases/frameworks/6 gettext/po/de.po | 
- | [fi]({{< ref "/f23/language/fi.md" >}}) | 2 | 2 | 100.0 | /mnt/stockage/packages/f23/meson/test cases/frameworks/6 gettext/po/fi.po | 
+ | [de](/f23/language/de) | 2 | 2 | 100.0 | /mnt/stockage/packages/f23/meson/test cases/frameworks/6 gettext/po/de.po | 
+ | [fi](/f23/language/fi) | 2 | 2 | 100.0 | /mnt/stockage/packages/f23/meson/test cases/frameworks/6 gettext/po/fi.po | 
 {.sortable}
 
 

@@ -18,11 +18,11 @@ The package latexila (version 2.0.8):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f15/language/fr.md" >}}) | 1250 | 1250 | 100.0 | /mnt/stockage/packages/f15/latexila/po/fr.po | 
- | [it]({{< ref "/f15/language/it.md" >}}) | 1250 | 1250 | 100.0 | /mnt/stockage/packages/f15/latexila/po/it.po | 
- | [de]({{< ref "/f15/language/de.md" >}}) | 1240 | 1250 | 99.2 | /mnt/stockage/packages/f15/latexila/po/de.po | 
- | [es]({{< ref "/f15/language/es.md" >}}) | 1240 | 1250 | 99.2 | /mnt/stockage/packages/f15/latexila/po/es.po | 
- | [pt]({{< ref "/f15/language/pt.md" >}}) | 1194 | 1250 | 95.5 | /mnt/stockage/packages/f15/latexila/po/pt.po | 
+ | [fr](/f15/language/fr) | 1250 | 1250 | 100.0 | /mnt/stockage/packages/f15/latexila/po/fr.po | 
+ | [it](/f15/language/it) | 1250 | 1250 | 100.0 | /mnt/stockage/packages/f15/latexila/po/it.po | 
+ | [de](/f15/language/de) | 1240 | 1250 | 99.2 | /mnt/stockage/packages/f15/latexila/po/de.po | 
+ | [es](/f15/language/es) | 1240 | 1250 | 99.2 | /mnt/stockage/packages/f15/latexila/po/es.po | 
+ | [pt](/f15/language/pt) | 1194 | 1250 | 95.5 | /mnt/stockage/packages/f15/latexila/po/pt.po | 
 {.sortable}
 
 

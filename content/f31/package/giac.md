@@ -18,14 +18,14 @@ The package giac (version 1.5.0.85):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f31/language/fr.md" >}}) | 7839 | 8212 | 95.5 | /mnt/stockage/packages/f31/giac/po/fr.po | 
- | [de]({{< ref "/f31/language/de.md" >}}) | 4736 | 8212 | 57.7 | /mnt/stockage/packages/f31/giac/po/de.po | 
- | [es]({{< ref "/f31/language/es.md" >}}) | 4512 | 8212 | 54.9 | /mnt/stockage/packages/f31/giac/po/es.po | 
- | [pt]({{< ref "/f31/language/pt.md" >}}) | 4260 | 8212 | 51.9 | /mnt/stockage/packages/f31/giac/po/pt.po | 
- | [zh_Hans]({{< ref "/f31/language/zh_Hans.md" >}}) | 4260 | 8212 | 51.9 | /mnt/stockage/packages/f31/giac/po/zh.po | 
- | [el]({{< ref "/f31/language/el.md" >}}) | 3299 | 8212 | 40.2 | /mnt/stockage/packages/f31/giac/po/el.po | 
- | [en]({{< ref "/f31/language/en.md" >}}) | 2921 | 8212 | 35.6 | /mnt/stockage/packages/f31/giac/po/en.po | 
- | [it]({{< ref "/f31/language/it.md" >}}) | 0 | 8212 | 0.0 | /mnt/stockage/packages/f31/giac/po/it.po | 
+ | [fr](/f31/language/fr) | 7839 | 8212 | 95.5 | /mnt/stockage/packages/f31/giac/po/fr.po | 
+ | [de](/f31/language/de) | 4736 | 8212 | 57.7 | /mnt/stockage/packages/f31/giac/po/de.po | 
+ | [es](/f31/language/es) | 4512 | 8212 | 54.9 | /mnt/stockage/packages/f31/giac/po/es.po | 
+ | [pt](/f31/language/pt) | 4260 | 8212 | 51.9 | /mnt/stockage/packages/f31/giac/po/pt.po | 
+ | [zh_Hans](/f31/language/zh_Hans) | 4260 | 8212 | 51.9 | /mnt/stockage/packages/f31/giac/po/zh.po | 
+ | [el](/f31/language/el) | 3299 | 8212 | 40.2 | /mnt/stockage/packages/f31/giac/po/el.po | 
+ | [en](/f31/language/en) | 2921 | 8212 | 35.6 | /mnt/stockage/packages/f31/giac/po/en.po | 
+ | [it](/f31/language/it) | 0 | 8212 | 0.0 | /mnt/stockage/packages/f31/giac/po/it.po | 
 {.sortable}
 
 

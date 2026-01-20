@@ -18,29 +18,29 @@ The package ModemManager (version 1.22.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f41/language/ca.md" >}}) | 147 | 147 | 100.0 | /mnt/stockage/packages/f41/ModemManager/po/ca.po | 
- | [de]({{< ref "/f41/language/de.md" >}}) | 147 | 147 | 100.0 | /mnt/stockage/packages/f41/ModemManager/po/de.po | 
- | [fi]({{< ref "/f41/language/fi.md" >}}) | 147 | 147 | 100.0 | /mnt/stockage/packages/f41/ModemManager/po/fi.po | 
- | [gl]({{< ref "/f41/language/gl.md" >}}) | 147 | 147 | 100.0 | /mnt/stockage/packages/f41/ModemManager/po/gl.po | 
- | [he]({{< ref "/f41/language/he.md" >}}) | 147 | 147 | 100.0 | /mnt/stockage/packages/f41/ModemManager/po/he.po | 
- | [hu]({{< ref "/f41/language/hu.md" >}}) | 147 | 147 | 100.0 | /mnt/stockage/packages/f41/ModemManager/po/hu.po | 
- | [id]({{< ref "/f41/language/id.md" >}}) | 147 | 147 | 100.0 | /mnt/stockage/packages/f41/ModemManager/po/id.po | 
- | [it]({{< ref "/f41/language/it.md" >}}) | 147 | 147 | 100.0 | /mnt/stockage/packages/f41/ModemManager/po/it.po | 
- | [ka]({{< ref "/f41/language/ka.md" >}}) | 147 | 147 | 100.0 | /mnt/stockage/packages/f41/ModemManager/po/ka.po | 
- | [nl]({{< ref "/f41/language/nl.md" >}}) | 147 | 147 | 100.0 | /mnt/stockage/packages/f41/ModemManager/po/nl.po | 
- | [pl]({{< ref "/f41/language/pl.md" >}}) | 147 | 147 | 100.0 | /mnt/stockage/packages/f41/ModemManager/po/pl.po | 
- | [pt_BR]({{< ref "/f41/language/pt_BR.md" >}}) | 147 | 147 | 100.0 | /mnt/stockage/packages/f41/ModemManager/po/pt_BR.po | 
- | [ru]({{< ref "/f41/language/ru.md" >}}) | 147 | 147 | 100.0 | /mnt/stockage/packages/f41/ModemManager/po/ru.po | 
- | [sk]({{< ref "/f41/language/sk.md" >}}) | 147 | 147 | 100.0 | /mnt/stockage/packages/f41/ModemManager/po/sk.po | 
- | [sv]({{< ref "/f41/language/sv.md" >}}) | 147 | 147 | 100.0 | /mnt/stockage/packages/f41/ModemManager/po/sv.po | 
- | [tr]({{< ref "/f41/language/tr.md" >}}) | 147 | 147 | 100.0 | /mnt/stockage/packages/f41/ModemManager/po/tr.po | 
- | [uk]({{< ref "/f41/language/uk.md" >}}) | 147 | 147 | 100.0 | /mnt/stockage/packages/f41/ModemManager/po/uk.po | 
- | [cs]({{< ref "/f41/language/cs.md" >}}) | 134 | 147 | 91.2 | /mnt/stockage/packages/f41/ModemManager/po/cs.po | 
- | [da]({{< ref "/f41/language/da.md" >}}) | 134 | 147 | 91.2 | /mnt/stockage/packages/f41/ModemManager/po/da.po | 
- | [fr]({{< ref "/f41/language/fr.md" >}}) | 134 | 147 | 91.2 | /mnt/stockage/packages/f41/ModemManager/po/fr.po | 
- | [fur]({{< ref "/f41/language/fur.md" >}}) | 134 | 147 | 91.2 | /mnt/stockage/packages/f41/ModemManager/po/fur.po | 
- | [lt]({{< ref "/f41/language/lt.md" >}}) | 134 | 147 | 91.2 | /mnt/stockage/packages/f41/ModemManager/po/lt.po | 
- | [zh_Hans]({{< ref "/f41/language/zh_Hans.md" >}}) | 134 | 147 | 91.2 | /mnt/stockage/packages/f41/ModemManager/po/zh_CN.po | 
+ | [ca](/f41/language/ca) | 147 | 147 | 100.0 | /mnt/stockage/packages/f41/ModemManager/po/ca.po | 
+ | [de](/f41/language/de) | 147 | 147 | 100.0 | /mnt/stockage/packages/f41/ModemManager/po/de.po | 
+ | [fi](/f41/language/fi) | 147 | 147 | 100.0 | /mnt/stockage/packages/f41/ModemManager/po/fi.po | 
+ | [gl](/f41/language/gl) | 147 | 147 | 100.0 | /mnt/stockage/packages/f41/ModemManager/po/gl.po | 
+ | [he](/f41/language/he) | 147 | 147 | 100.0 | /mnt/stockage/packages/f41/ModemManager/po/he.po | 
+ | [hu](/f41/language/hu) | 147 | 147 | 100.0 | /mnt/stockage/packages/f41/ModemManager/po/hu.po | 
+ | [id](/f41/language/id) | 147 | 147 | 100.0 | /mnt/stockage/packages/f41/ModemManager/po/id.po | 
+ | [it](/f41/language/it) | 147 | 147 | 100.0 | /mnt/stockage/packages/f41/ModemManager/po/it.po | 
+ | [ka](/f41/language/ka) | 147 | 147 | 100.0 | /mnt/stockage/packages/f41/ModemManager/po/ka.po | 
+ | [nl](/f41/language/nl) | 147 | 147 | 100.0 | /mnt/stockage/packages/f41/ModemManager/po/nl.po | 
+ | [pl](/f41/language/pl) | 147 | 147 | 100.0 | /mnt/stockage/packages/f41/ModemManager/po/pl.po | 
+ | [pt_BR](/f41/language/pt_BR) | 147 | 147 | 100.0 | /mnt/stockage/packages/f41/ModemManager/po/pt_BR.po | 
+ | [ru](/f41/language/ru) | 147 | 147 | 100.0 | /mnt/stockage/packages/f41/ModemManager/po/ru.po | 
+ | [sk](/f41/language/sk) | 147 | 147 | 100.0 | /mnt/stockage/packages/f41/ModemManager/po/sk.po | 
+ | [sv](/f41/language/sv) | 147 | 147 | 100.0 | /mnt/stockage/packages/f41/ModemManager/po/sv.po | 
+ | [tr](/f41/language/tr) | 147 | 147 | 100.0 | /mnt/stockage/packages/f41/ModemManager/po/tr.po | 
+ | [uk](/f41/language/uk) | 147 | 147 | 100.0 | /mnt/stockage/packages/f41/ModemManager/po/uk.po | 
+ | [cs](/f41/language/cs) | 134 | 147 | 91.2 | /mnt/stockage/packages/f41/ModemManager/po/cs.po | 
+ | [da](/f41/language/da) | 134 | 147 | 91.2 | /mnt/stockage/packages/f41/ModemManager/po/da.po | 
+ | [fr](/f41/language/fr) | 134 | 147 | 91.2 | /mnt/stockage/packages/f41/ModemManager/po/fr.po | 
+ | [fur](/f41/language/fur) | 134 | 147 | 91.2 | /mnt/stockage/packages/f41/ModemManager/po/fur.po | 
+ | [lt](/f41/language/lt) | 134 | 147 | 91.2 | /mnt/stockage/packages/f41/ModemManager/po/lt.po | 
+ | [zh_Hans](/f41/language/zh_Hans) | 134 | 147 | 91.2 | /mnt/stockage/packages/f41/ModemManager/po/zh_CN.po | 
 {.sortable}
 
 

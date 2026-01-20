@@ -18,17 +18,17 @@ The package prusa-slicer (version 2.1.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f30/language/cs.md" >}}) | 13048 | 13048 | 100.0 | /mnt/stockage/packages/f30/prusa-slicer/resources/localization/cs/PrusaSlicer_cs.po | 
- | [de]({{< ref "/f30/language/de.md" >}}) | 13048 | 13048 | 100.0 | /mnt/stockage/packages/f30/prusa-slicer/resources/localization/de/PrusaSlicer_de.po | 
- | [es]({{< ref "/f30/language/es.md" >}}) | 13048 | 13048 | 100.0 | /mnt/stockage/packages/f30/prusa-slicer/resources/localization/es/PrusaSlicer_es.po | 
- | [it]({{< ref "/f30/language/it.md" >}}) | 13048 | 13048 | 100.0 | /mnt/stockage/packages/f30/prusa-slicer/resources/localization/it/PrusaSlicer_it.po | 
- | [ko]({{< ref "/f30/language/ko.md" >}}) | 12816 | 12816 | 100.0 | /mnt/stockage/packages/f30/prusa-slicer/resources/localization/ko/PrusaSlicer_ko_KR.po | 
- | [tr]({{< ref "/f30/language/tr.md" >}}) | 12090 | 12090 | 100.0 | /mnt/stockage/packages/f30/prusa-slicer/resources/localization/tr/PrusaSlicer_tr.po | 
- | [zh_Hans]({{< ref "/f30/language/zh_Hans.md" >}}) | 12971 | 12971 | 100.0 | /mnt/stockage/packages/f30/prusa-slicer/resources/localization/zh_cn/PrusaSlicer_zh_CN.po | 
- | [zh_Hant]({{< ref "/f30/language/zh_Hant.md" >}}) | 11445 | 11445 | 100.0 | /mnt/stockage/packages/f30/prusa-slicer/resources/localization/zh_tw/PrusaSlicer_zh_TW.po | 
- | [pl]({{< ref "/f30/language/pl.md" >}}) | 13047 | 13048 | 100.0 | /mnt/stockage/packages/f30/prusa-slicer/resources/localization/pl/PrusaSlicer_pl.po | 
- | [fr]({{< ref "/f30/language/fr.md" >}}) | 13036 | 13048 | 99.9 | /mnt/stockage/packages/f30/prusa-slicer/resources/localization/fr/PrusaSlicer_fr.po | 
- | [uk]({{< ref "/f30/language/uk.md" >}}) | 6044 | 11445 | 52.8 | /mnt/stockage/packages/f30/prusa-slicer/resources/localization/uk/PrusaSlicer_uk.po | 
+ | [cs](/f30/language/cs) | 13048 | 13048 | 100.0 | /mnt/stockage/packages/f30/prusa-slicer/resources/localization/cs/PrusaSlicer_cs.po | 
+ | [de](/f30/language/de) | 13048 | 13048 | 100.0 | /mnt/stockage/packages/f30/prusa-slicer/resources/localization/de/PrusaSlicer_de.po | 
+ | [es](/f30/language/es) | 13048 | 13048 | 100.0 | /mnt/stockage/packages/f30/prusa-slicer/resources/localization/es/PrusaSlicer_es.po | 
+ | [it](/f30/language/it) | 13048 | 13048 | 100.0 | /mnt/stockage/packages/f30/prusa-slicer/resources/localization/it/PrusaSlicer_it.po | 
+ | [ko](/f30/language/ko) | 12816 | 12816 | 100.0 | /mnt/stockage/packages/f30/prusa-slicer/resources/localization/ko/PrusaSlicer_ko_KR.po | 
+ | [tr](/f30/language/tr) | 12090 | 12090 | 100.0 | /mnt/stockage/packages/f30/prusa-slicer/resources/localization/tr/PrusaSlicer_tr.po | 
+ | [zh_Hans](/f30/language/zh_Hans) | 12971 | 12971 | 100.0 | /mnt/stockage/packages/f30/prusa-slicer/resources/localization/zh_cn/PrusaSlicer_zh_CN.po | 
+ | [zh_Hant](/f30/language/zh_Hant) | 11445 | 11445 | 100.0 | /mnt/stockage/packages/f30/prusa-slicer/resources/localization/zh_tw/PrusaSlicer_zh_TW.po | 
+ | [pl](/f30/language/pl) | 13047 | 13048 | 100.0 | /mnt/stockage/packages/f30/prusa-slicer/resources/localization/pl/PrusaSlicer_pl.po | 
+ | [fr](/f30/language/fr) | 13036 | 13048 | 99.9 | /mnt/stockage/packages/f30/prusa-slicer/resources/localization/fr/PrusaSlicer_fr.po | 
+ | [uk](/f30/language/uk) | 6044 | 11445 | 52.8 | /mnt/stockage/packages/f30/prusa-slicer/resources/localization/uk/PrusaSlicer_uk.po | 
 {.sortable}
 
 

@@ -18,21 +18,21 @@ The package xfce4-notes-plugin (version 1.6.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f7/language/cs.md" >}}) | 60 | 60 | 100.0 | /mnt/stockage/packages/f7/xfce4-notes-plugin/po/cs.po | 
- | [fr]({{< ref "/f7/language/fr.md" >}}) | 60 | 60 | 100.0 | /mnt/stockage/packages/f7/xfce4-notes-plugin/po/fr.po | 
- | [hu]({{< ref "/f7/language/hu.md" >}}) | 60 | 60 | 100.0 | /mnt/stockage/packages/f7/xfce4-notes-plugin/po/hu.po | 
- | [lv]({{< ref "/f7/language/lv.md" >}}) | 60 | 60 | 100.0 | /mnt/stockage/packages/f7/xfce4-notes-plugin/po/lv.po | 
- | [pt_BR]({{< ref "/f7/language/pt_BR.md" >}}) | 60 | 60 | 100.0 | /mnt/stockage/packages/f7/xfce4-notes-plugin/po/pt_BR.po | 
- | [ca]({{< ref "/f7/language/ca.md" >}}) | 19 | 60 | 31.7 | /mnt/stockage/packages/f7/xfce4-notes-plugin/po/ca.po | 
- | [de]({{< ref "/f7/language/de.md" >}}) | 19 | 60 | 31.7 | /mnt/stockage/packages/f7/xfce4-notes-plugin/po/de.po | 
- | [en_GB]({{< ref "/f7/language/en_GB.md" >}}) | 19 | 60 | 31.7 | /mnt/stockage/packages/f7/xfce4-notes-plugin/po/en_GB.po | 
- | [eu]({{< ref "/f7/language/eu.md" >}}) | 19 | 60 | 31.7 | /mnt/stockage/packages/f7/xfce4-notes-plugin/po/eu.po | 
- | [nb_NO]({{< ref "/f7/language/nb_NO.md" >}}) | 19 | 60 | 31.7 | /mnt/stockage/packages/f7/xfce4-notes-plugin/po/nb_NO.po | 
- | [nl]({{< ref "/f7/language/nl.md" >}}) | 19 | 60 | 31.7 | /mnt/stockage/packages/f7/xfce4-notes-plugin/po/nl.po | 
- | [pl]({{< ref "/f7/language/pl.md" >}}) | 19 | 60 | 31.7 | /mnt/stockage/packages/f7/xfce4-notes-plugin/po/pl.po | 
- | [pt_PT]({{< ref "/f7/language/pt_PT.md" >}}) | 19 | 60 | 31.7 | /mnt/stockage/packages/f7/xfce4-notes-plugin/po/pt_PT.po | 
- | [ur]({{< ref "/f7/language/ur.md" >}}) | 19 | 60 | 31.7 | /mnt/stockage/packages/f7/xfce4-notes-plugin/po/ur.po | 
- | [zh_Hant]({{< ref "/f7/language/zh_Hant.md" >}}) | 19 | 60 | 31.7 | /mnt/stockage/packages/f7/xfce4-notes-plugin/po/zh_TW.po | 
+ | [cs](/f7/language/cs) | 60 | 60 | 100.0 | /mnt/stockage/packages/f7/xfce4-notes-plugin/po/cs.po | 
+ | [fr](/f7/language/fr) | 60 | 60 | 100.0 | /mnt/stockage/packages/f7/xfce4-notes-plugin/po/fr.po | 
+ | [hu](/f7/language/hu) | 60 | 60 | 100.0 | /mnt/stockage/packages/f7/xfce4-notes-plugin/po/hu.po | 
+ | [lv](/f7/language/lv) | 60 | 60 | 100.0 | /mnt/stockage/packages/f7/xfce4-notes-plugin/po/lv.po | 
+ | [pt_BR](/f7/language/pt_BR) | 60 | 60 | 100.0 | /mnt/stockage/packages/f7/xfce4-notes-plugin/po/pt_BR.po | 
+ | [ca](/f7/language/ca) | 19 | 60 | 31.7 | /mnt/stockage/packages/f7/xfce4-notes-plugin/po/ca.po | 
+ | [de](/f7/language/de) | 19 | 60 | 31.7 | /mnt/stockage/packages/f7/xfce4-notes-plugin/po/de.po | 
+ | [en_GB](/f7/language/en_GB) | 19 | 60 | 31.7 | /mnt/stockage/packages/f7/xfce4-notes-plugin/po/en_GB.po | 
+ | [eu](/f7/language/eu) | 19 | 60 | 31.7 | /mnt/stockage/packages/f7/xfce4-notes-plugin/po/eu.po | 
+ | [nb_NO](/f7/language/nb_NO) | 19 | 60 | 31.7 | /mnt/stockage/packages/f7/xfce4-notes-plugin/po/nb_NO.po | 
+ | [nl](/f7/language/nl) | 19 | 60 | 31.7 | /mnt/stockage/packages/f7/xfce4-notes-plugin/po/nl.po | 
+ | [pl](/f7/language/pl) | 19 | 60 | 31.7 | /mnt/stockage/packages/f7/xfce4-notes-plugin/po/pl.po | 
+ | [pt_PT](/f7/language/pt_PT) | 19 | 60 | 31.7 | /mnt/stockage/packages/f7/xfce4-notes-plugin/po/pt_PT.po | 
+ | [ur](/f7/language/ur) | 19 | 60 | 31.7 | /mnt/stockage/packages/f7/xfce4-notes-plugin/po/ur.po | 
+ | [zh_Hant](/f7/language/zh_Hant) | 19 | 60 | 31.7 | /mnt/stockage/packages/f7/xfce4-notes-plugin/po/zh_TW.po | 
 {.sortable}
 
 

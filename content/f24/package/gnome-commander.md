@@ -18,52 +18,52 @@ The package gnome-commander (version 1.6.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [bs]({{< ref "/f24/language/bs.md" >}}) | 8567 | 8567 | 100.0 | /mnt/stockage/packages/f24/gnome-commander/po/bs.po | 
- | [cs]({{< ref "/f24/language/cs.md" >}}) | 34489 | 34489 | 100.0 | /mnt/stockage/packages/f24/gnome-commander/doc/cs/cs.po/mnt/stockage/packages/f24/gnome-commander/po/cs.po | 
- | [de]({{< ref "/f24/language/de.md" >}}) | 34489 | 34489 | 100.0 | /mnt/stockage/packages/f24/gnome-commander/doc/de/de.po/mnt/stockage/packages/f24/gnome-commander/po/de.po | 
- | [el]({{< ref "/f24/language/el.md" >}}) | 31869 | 31869 | 100.0 | /mnt/stockage/packages/f24/gnome-commander/doc/el/el.po/mnt/stockage/packages/f24/gnome-commander/po/el.po | 
- | [en_GB]({{< ref "/f24/language/en_GB.md" >}}) | 7928 | 7928 | 100.0 | /mnt/stockage/packages/f24/gnome-commander/po/en_GB.po | 
- | [es]({{< ref "/f24/language/es.md" >}}) | 34474 | 34474 | 100.0 | /mnt/stockage/packages/f24/gnome-commander/doc/es/es.po/mnt/stockage/packages/f24/gnome-commander/po/es.po | 
- | [eu]({{< ref "/f24/language/eu.md" >}}) | 10323 | 10323 | 100.0 | /mnt/stockage/packages/f24/gnome-commander/po/eu.po | 
- | [hu]({{< ref "/f24/language/hu.md" >}}) | 10323 | 10323 | 100.0 | /mnt/stockage/packages/f24/gnome-commander/po/hu.po | 
- | [id]({{< ref "/f24/language/id.md" >}}) | 10323 | 10323 | 100.0 | /mnt/stockage/packages/f24/gnome-commander/po/id.po | 
- | [it]({{< ref "/f24/language/it.md" >}}) | 8479 | 8479 | 100.0 | /mnt/stockage/packages/f24/gnome-commander/po/it.po | 
- | [pl]({{< ref "/f24/language/pl.md" >}}) | 10323 | 10323 | 100.0 | /mnt/stockage/packages/f24/gnome-commander/po/pl.po | 
- | [pt]({{< ref "/f24/language/pt.md" >}}) | 8567 | 8567 | 100.0 | /mnt/stockage/packages/f24/gnome-commander/po/pt.po | 
- | [pt_BR]({{< ref "/f24/language/pt_BR.md" >}}) | 10323 | 10323 | 100.0 | /mnt/stockage/packages/f24/gnome-commander/po/pt_BR.po | 
- | [sr]({{< ref "/f24/language/sr.md" >}}) | 20646 | 20646 | 100.0 | /mnt/stockage/packages/f24/gnome-commander/po/sr.po/mnt/stockage/packages/f24/gnome-commander/po/sr@latin.po | 
- | [sv]({{< ref "/f24/language/sv.md" >}}) | 10323 | 10323 | 100.0 | /mnt/stockage/packages/f24/gnome-commander/po/sv.po | 
- | [tr]({{< ref "/f24/language/tr.md" >}}) | 8561 | 8572 | 99.9 | /mnt/stockage/packages/f24/gnome-commander/po/tr.po | 
- | [sk]({{< ref "/f24/language/sk.md" >}}) | 8501 | 8572 | 99.2 | /mnt/stockage/packages/f24/gnome-commander/po/sk.po | 
- | [oc]({{< ref "/f24/language/oc.md" >}}) | 8474 | 8556 | 99.0 | /mnt/stockage/packages/f24/gnome-commander/po/oc.po | 
- | [ro]({{< ref "/f24/language/ro.md" >}}) | 8443 | 8567 | 98.6 | /mnt/stockage/packages/f24/gnome-commander/po/ro.po | 
- | [dz]({{< ref "/f24/language/dz.md" >}}) | 7568 | 7884 | 96.0 | /mnt/stockage/packages/f24/gnome-commander/po/dz.po | 
- | [fr]({{< ref "/f24/language/fr.md" >}}) | 30155 | 31616 | 95.4 | /mnt/stockage/packages/f24/gnome-commander/doc/fr/fr.po/mnt/stockage/packages/f24/gnome-commander/po/fr.po | 
- | [da]({{< ref "/f24/language/da.md" >}}) | 7727 | 8355 | 92.5 | /mnt/stockage/packages/f24/gnome-commander/po/da.po | 
- | [ar]({{< ref "/f24/language/ar.md" >}}) | 7242 | 8202 | 88.3 | /mnt/stockage/packages/f24/gnome-commander/po/ar.po | 
- | [nl]({{< ref "/f24/language/nl.md" >}}) | 7005 | 8519 | 82.2 | /mnt/stockage/packages/f24/gnome-commander/po/nl.po | 
- | [ko]({{< ref "/f24/language/ko.md" >}}) | 6944 | 8491 | 81.8 | /mnt/stockage/packages/f24/gnome-commander/po/ko.po | 
- | [ru]({{< ref "/f24/language/ru.md" >}}) | 22165 | 31660 | 70.0 | /mnt/stockage/packages/f24/gnome-commander/doc/ru/ru.po/mnt/stockage/packages/f24/gnome-commander/po/ru.po | 
- | [uk]({{< ref "/f24/language/uk.md" >}}) | 5266 | 8452 | 62.3 | /mnt/stockage/packages/f24/gnome-commander/po/uk.po | 
- | [zh_Hans]({{< ref "/f24/language/zh_Hans.md" >}}) | 4751 | 8495 | 55.9 | /mnt/stockage/packages/f24/gnome-commander/po/zh_CN.po | 
- | [bg]({{< ref "/f24/language/bg.md" >}}) | 3269 | 7896 | 41.4 | /mnt/stockage/packages/f24/gnome-commander/po/bg.po | 
- | [ja]({{< ref "/f24/language/ja.md" >}}) | 3278 | 8519 | 38.5 | /mnt/stockage/packages/f24/gnome-commander/po/ja.po | 
- | [sl]({{< ref "/f24/language/sl.md" >}}) | 11557 | 30643 | 37.7 | /mnt/stockage/packages/f24/gnome-commander/doc/sl/sl.po/mnt/stockage/packages/f24/gnome-commander/po/sl.po | 
- | [th]({{< ref "/f24/language/th.md" >}}) | 2705 | 8330 | 32.5 | /mnt/stockage/packages/f24/gnome-commander/po/th.po | 
- | [fi]({{< ref "/f24/language/fi.md" >}}) | 1851 | 8479 | 21.8 | /mnt/stockage/packages/f24/gnome-commander/po/fi.po | 
- | [eo]({{< ref "/f24/language/eo.md" >}}) | 1530 | 8506 | 18.0 | /mnt/stockage/packages/f24/gnome-commander/po/eo.po | 
- | [vi]({{< ref "/f24/language/vi.md" >}}) | 1358 | 7896 | 17.2 | /mnt/stockage/packages/f24/gnome-commander/po/vi.po | 
- | [ne]({{< ref "/f24/language/ne.md" >}}) | 1286 | 7896 | 16.3 | /mnt/stockage/packages/f24/gnome-commander/po/ne.po | 
- | [en_CA]({{< ref "/f24/language/en_CA.md" >}}) | 1068 | 7896 | 13.5 | /mnt/stockage/packages/f24/gnome-commander/po/en_CA.po | 
- | [hr]({{< ref "/f24/language/hr.md" >}}) | 1044 | 7896 | 13.2 | /mnt/stockage/packages/f24/gnome-commander/po/hr.po | 
- | [ca]({{< ref "/f24/language/ca.md" >}}) | 1017 | 8568 | 11.9 | /mnt/stockage/packages/f24/gnome-commander/po/ca.po | 
- | [nb_NO]({{< ref "/f24/language/nb_NO.md" >}}) | 904 | 8479 | 10.7 | /mnt/stockage/packages/f24/gnome-commander/po/nb.po | 
- | [lt]({{< ref "/f24/language/lt.md" >}}) | 662 | 8572 | 7.7 | /mnt/stockage/packages/f24/gnome-commander/po/lt.po | 
- | [zh_Hant]({{< ref "/f24/language/zh_Hant.md" >}}) | 506 | 7896 | 6.4 | /mnt/stockage/packages/f24/gnome-commander/po/zh_TW.po | 
- | [pa]({{< ref "/f24/language/pa.md" >}}) | 486 | 7896 | 6.2 | /mnt/stockage/packages/f24/gnome-commander/po/pa.po | 
- | [sq]({{< ref "/f24/language/sq.md" >}}) | 261 | 7896 | 3.3 | /mnt/stockage/packages/f24/gnome-commander/po/sq.po | 
- | [ga]({{< ref "/f24/language/ga.md" >}}) | 241 | 7896 | 3.1 | /mnt/stockage/packages/f24/gnome-commander/po/ga.po | 
- | [rw]({{< ref "/f24/language/rw.md" >}}) | 86 | 7896 | 1.1 | /mnt/stockage/packages/f24/gnome-commander/po/rw.po | 
+ | [bs](/f24/language/bs) | 8567 | 8567 | 100.0 | /mnt/stockage/packages/f24/gnome-commander/po/bs.po | 
+ | [cs](/f24/language/cs) | 34489 | 34489 | 100.0 | /mnt/stockage/packages/f24/gnome-commander/doc/cs/cs.po/mnt/stockage/packages/f24/gnome-commander/po/cs.po | 
+ | [de](/f24/language/de) | 34489 | 34489 | 100.0 | /mnt/stockage/packages/f24/gnome-commander/doc/de/de.po/mnt/stockage/packages/f24/gnome-commander/po/de.po | 
+ | [el](/f24/language/el) | 31869 | 31869 | 100.0 | /mnt/stockage/packages/f24/gnome-commander/doc/el/el.po/mnt/stockage/packages/f24/gnome-commander/po/el.po | 
+ | [en_GB](/f24/language/en_GB) | 7928 | 7928 | 100.0 | /mnt/stockage/packages/f24/gnome-commander/po/en_GB.po | 
+ | [es](/f24/language/es) | 34474 | 34474 | 100.0 | /mnt/stockage/packages/f24/gnome-commander/doc/es/es.po/mnt/stockage/packages/f24/gnome-commander/po/es.po | 
+ | [eu](/f24/language/eu) | 10323 | 10323 | 100.0 | /mnt/stockage/packages/f24/gnome-commander/po/eu.po | 
+ | [hu](/f24/language/hu) | 10323 | 10323 | 100.0 | /mnt/stockage/packages/f24/gnome-commander/po/hu.po | 
+ | [id](/f24/language/id) | 10323 | 10323 | 100.0 | /mnt/stockage/packages/f24/gnome-commander/po/id.po | 
+ | [it](/f24/language/it) | 8479 | 8479 | 100.0 | /mnt/stockage/packages/f24/gnome-commander/po/it.po | 
+ | [pl](/f24/language/pl) | 10323 | 10323 | 100.0 | /mnt/stockage/packages/f24/gnome-commander/po/pl.po | 
+ | [pt](/f24/language/pt) | 8567 | 8567 | 100.0 | /mnt/stockage/packages/f24/gnome-commander/po/pt.po | 
+ | [pt_BR](/f24/language/pt_BR) | 10323 | 10323 | 100.0 | /mnt/stockage/packages/f24/gnome-commander/po/pt_BR.po | 
+ | [sr](/f24/language/sr) | 20646 | 20646 | 100.0 | /mnt/stockage/packages/f24/gnome-commander/po/sr.po/mnt/stockage/packages/f24/gnome-commander/po/sr@latin.po | 
+ | [sv](/f24/language/sv) | 10323 | 10323 | 100.0 | /mnt/stockage/packages/f24/gnome-commander/po/sv.po | 
+ | [tr](/f24/language/tr) | 8561 | 8572 | 99.9 | /mnt/stockage/packages/f24/gnome-commander/po/tr.po | 
+ | [sk](/f24/language/sk) | 8501 | 8572 | 99.2 | /mnt/stockage/packages/f24/gnome-commander/po/sk.po | 
+ | [oc](/f24/language/oc) | 8474 | 8556 | 99.0 | /mnt/stockage/packages/f24/gnome-commander/po/oc.po | 
+ | [ro](/f24/language/ro) | 8443 | 8567 | 98.6 | /mnt/stockage/packages/f24/gnome-commander/po/ro.po | 
+ | [dz](/f24/language/dz) | 7568 | 7884 | 96.0 | /mnt/stockage/packages/f24/gnome-commander/po/dz.po | 
+ | [fr](/f24/language/fr) | 30155 | 31616 | 95.4 | /mnt/stockage/packages/f24/gnome-commander/doc/fr/fr.po/mnt/stockage/packages/f24/gnome-commander/po/fr.po | 
+ | [da](/f24/language/da) | 7727 | 8355 | 92.5 | /mnt/stockage/packages/f24/gnome-commander/po/da.po | 
+ | [ar](/f24/language/ar) | 7242 | 8202 | 88.3 | /mnt/stockage/packages/f24/gnome-commander/po/ar.po | 
+ | [nl](/f24/language/nl) | 7005 | 8519 | 82.2 | /mnt/stockage/packages/f24/gnome-commander/po/nl.po | 
+ | [ko](/f24/language/ko) | 6944 | 8491 | 81.8 | /mnt/stockage/packages/f24/gnome-commander/po/ko.po | 
+ | [ru](/f24/language/ru) | 22165 | 31660 | 70.0 | /mnt/stockage/packages/f24/gnome-commander/doc/ru/ru.po/mnt/stockage/packages/f24/gnome-commander/po/ru.po | 
+ | [uk](/f24/language/uk) | 5266 | 8452 | 62.3 | /mnt/stockage/packages/f24/gnome-commander/po/uk.po | 
+ | [zh_Hans](/f24/language/zh_Hans) | 4751 | 8495 | 55.9 | /mnt/stockage/packages/f24/gnome-commander/po/zh_CN.po | 
+ | [bg](/f24/language/bg) | 3269 | 7896 | 41.4 | /mnt/stockage/packages/f24/gnome-commander/po/bg.po | 
+ | [ja](/f24/language/ja) | 3278 | 8519 | 38.5 | /mnt/stockage/packages/f24/gnome-commander/po/ja.po | 
+ | [sl](/f24/language/sl) | 11557 | 30643 | 37.7 | /mnt/stockage/packages/f24/gnome-commander/doc/sl/sl.po/mnt/stockage/packages/f24/gnome-commander/po/sl.po | 
+ | [th](/f24/language/th) | 2705 | 8330 | 32.5 | /mnt/stockage/packages/f24/gnome-commander/po/th.po | 
+ | [fi](/f24/language/fi) | 1851 | 8479 | 21.8 | /mnt/stockage/packages/f24/gnome-commander/po/fi.po | 
+ | [eo](/f24/language/eo) | 1530 | 8506 | 18.0 | /mnt/stockage/packages/f24/gnome-commander/po/eo.po | 
+ | [vi](/f24/language/vi) | 1358 | 7896 | 17.2 | /mnt/stockage/packages/f24/gnome-commander/po/vi.po | 
+ | [ne](/f24/language/ne) | 1286 | 7896 | 16.3 | /mnt/stockage/packages/f24/gnome-commander/po/ne.po | 
+ | [en_CA](/f24/language/en_CA) | 1068 | 7896 | 13.5 | /mnt/stockage/packages/f24/gnome-commander/po/en_CA.po | 
+ | [hr](/f24/language/hr) | 1044 | 7896 | 13.2 | /mnt/stockage/packages/f24/gnome-commander/po/hr.po | 
+ | [ca](/f24/language/ca) | 1017 | 8568 | 11.9 | /mnt/stockage/packages/f24/gnome-commander/po/ca.po | 
+ | [nb_NO](/f24/language/nb_NO) | 904 | 8479 | 10.7 | /mnt/stockage/packages/f24/gnome-commander/po/nb.po | 
+ | [lt](/f24/language/lt) | 662 | 8572 | 7.7 | /mnt/stockage/packages/f24/gnome-commander/po/lt.po | 
+ | [zh_Hant](/f24/language/zh_Hant) | 506 | 7896 | 6.4 | /mnt/stockage/packages/f24/gnome-commander/po/zh_TW.po | 
+ | [pa](/f24/language/pa) | 486 | 7896 | 6.2 | /mnt/stockage/packages/f24/gnome-commander/po/pa.po | 
+ | [sq](/f24/language/sq) | 261 | 7896 | 3.3 | /mnt/stockage/packages/f24/gnome-commander/po/sq.po | 
+ | [ga](/f24/language/ga) | 241 | 7896 | 3.1 | /mnt/stockage/packages/f24/gnome-commander/po/ga.po | 
+ | [rw](/f24/language/rw) | 86 | 7896 | 1.1 | /mnt/stockage/packages/f24/gnome-commander/po/rw.po | 
 {.sortable}
 
 

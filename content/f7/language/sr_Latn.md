@@ -38,14 +38,14 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [exaile]({{< ref "/f7/package/exaile.md" >}}) | 2355 | 2355 | 100.0 | Serbian <gnome@prevod.org> | 
- | [pirut]({{< ref "/f7/package/pirut.md" >}}) | 803 | 803 | 100.0 | Serbian (sr) <fedora-trans-sr@redhat.com> | 
- | [wesnoth]({{< ref "/f7/package/wesnoth.md" >}}) | 119063 | 119067 | 100.0 | Serbian | 
- | [libvirt]({{< ref "/f7/package/libvirt.md" >}}) | 2331 | 2337 | 99.7 | Serbian (sr) <fedora-trans-sr@redhat.com> | 
- | [pidgin]({{< ref "/f7/package/pidgin.md" >}}) | 15667 | 15731 | 99.6 | Serbian <gnome@prevod.org> | 
- | [isomaster]({{< ref "/f7/package/isomaster.md" >}}) | 654 | 672 | 97.3 |  | 
- | [smolt]({{< ref "/f7/package/smolt.md" >}}) | 744 | 803 | 92.7 | Serbian (sr) <fedora-trans-sr@redhat.com> | 
- | [asunder]({{< ref "/f7/package/asunder.md" >}}) | 330 | 364 | 90.7 |  | 
+ | [exaile](/f7/package/exaile) | 2355 | 2355 | 100.0 | Serbian <gnome@prevod.org> | 
+ | [pirut](/f7/package/pirut) | 803 | 803 | 100.0 | Serbian (sr) <fedora-trans-sr@redhat.com> | 
+ | [wesnoth](/f7/package/wesnoth) | 119063 | 119067 | 100.0 | Serbian | 
+ | [libvirt](/f7/package/libvirt) | 2331 | 2337 | 99.7 | Serbian (sr) <fedora-trans-sr@redhat.com> | 
+ | [pidgin](/f7/package/pidgin) | 15667 | 15731 | 99.6 | Serbian <gnome@prevod.org> | 
+ | [isomaster](/f7/package/isomaster) | 654 | 672 | 97.3 |  | 
+ | [smolt](/f7/package/smolt) | 744 | 803 | 92.7 | Serbian (sr) <fedora-trans-sr@redhat.com> | 
+ | [asunder](/f7/package/asunder) | 330 | 364 | 90.7 |  | 
 {.sortable}
 
 

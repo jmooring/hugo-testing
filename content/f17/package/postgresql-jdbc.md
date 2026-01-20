@@ -18,21 +18,21 @@ The package postgresql-jdbc (version 9.1.901):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f17/language/fr.md" >}}) | 1487 | 1487 | 100.0 | /mnt/stockage/packages/f17/postgresql-jdbc/org/postgresql/translation/fr.po | 
- | [it]({{< ref "/f17/language/it.md" >}}) | 1433 | 1433 | 100.0 | /mnt/stockage/packages/f17/postgresql-jdbc/org/postgresql/translation/it.po | 
- | [pt_BR]({{< ref "/f17/language/pt_BR.md" >}}) | 1618 | 1618 | 100.0 | /mnt/stockage/packages/f17/postgresql-jdbc/org/postgresql/translation/pt_BR.po | 
- | [sr]({{< ref "/f17/language/sr.md" >}}) | 1615 | 1618 | 99.8 | /mnt/stockage/packages/f17/postgresql-jdbc/org/postgresql/translation/sr.po | 
- | [tr]({{< ref "/f17/language/tr.md" >}}) | 1615 | 1618 | 99.8 | /mnt/stockage/packages/f17/postgresql-jdbc/org/postgresql/translation/tr.po | 
- | [bg]({{< ref "/f17/language/bg.md" >}}) | 1813 | 1834 | 98.9 | /mnt/stockage/packages/f17/postgresql-jdbc/org/postgresql/translation/bg.po | 
- | [ja]({{< ref "/f17/language/ja.md" >}}) | 1834 | 1861 | 98.5 | /mnt/stockage/packages/f17/postgresql-jdbc/org/postgresql/translation/ja.po | 
- | [de]({{< ref "/f17/language/de.md" >}}) | 1501 | 1534 | 97.8 | /mnt/stockage/packages/f17/postgresql-jdbc/org/postgresql/translation/de.po | 
- | [zh_Hans]({{< ref "/f17/language/zh_Hans.md" >}}) | 1116 | 1534 | 72.8 | /mnt/stockage/packages/f17/postgresql-jdbc/org/postgresql/translation/zh_CN.po | 
- | [zh_Hant]({{< ref "/f17/language/zh_Hant.md" >}}) | 1116 | 1534 | 72.8 | /mnt/stockage/packages/f17/postgresql-jdbc/org/postgresql/translation/zh_TW.po | 
- | [cs]({{< ref "/f17/language/cs.md" >}}) | 823 | 1266 | 65.0 | /mnt/stockage/packages/f17/postgresql-jdbc/org/postgresql/translation/cs.po | 
- | [pl]({{< ref "/f17/language/pl.md" >}}) | 674 | 1232 | 54.7 | /mnt/stockage/packages/f17/postgresql-jdbc/org/postgresql/translation/pl.po | 
- | [ru]({{< ref "/f17/language/ru.md" >}}) | 361 | 1421 | 25.4 | /mnt/stockage/packages/f17/postgresql-jdbc/org/postgresql/translation/ru.po | 
- | [es]({{< ref "/f17/language/es.md" >}}) | 229 | 1041 | 22.0 | /mnt/stockage/packages/f17/postgresql-jdbc/org/postgresql/translation/es.po | 
- | [nl]({{< ref "/f17/language/nl.md" >}}) | 110 | 996 | 11.0 | /mnt/stockage/packages/f17/postgresql-jdbc/org/postgresql/translation/nl.po | 
+ | [fr](/f17/language/fr) | 1487 | 1487 | 100.0 | /mnt/stockage/packages/f17/postgresql-jdbc/org/postgresql/translation/fr.po | 
+ | [it](/f17/language/it) | 1433 | 1433 | 100.0 | /mnt/stockage/packages/f17/postgresql-jdbc/org/postgresql/translation/it.po | 
+ | [pt_BR](/f17/language/pt_BR) | 1618 | 1618 | 100.0 | /mnt/stockage/packages/f17/postgresql-jdbc/org/postgresql/translation/pt_BR.po | 
+ | [sr](/f17/language/sr) | 1615 | 1618 | 99.8 | /mnt/stockage/packages/f17/postgresql-jdbc/org/postgresql/translation/sr.po | 
+ | [tr](/f17/language/tr) | 1615 | 1618 | 99.8 | /mnt/stockage/packages/f17/postgresql-jdbc/org/postgresql/translation/tr.po | 
+ | [bg](/f17/language/bg) | 1813 | 1834 | 98.9 | /mnt/stockage/packages/f17/postgresql-jdbc/org/postgresql/translation/bg.po | 
+ | [ja](/f17/language/ja) | 1834 | 1861 | 98.5 | /mnt/stockage/packages/f17/postgresql-jdbc/org/postgresql/translation/ja.po | 
+ | [de](/f17/language/de) | 1501 | 1534 | 97.8 | /mnt/stockage/packages/f17/postgresql-jdbc/org/postgresql/translation/de.po | 
+ | [zh_Hans](/f17/language/zh_Hans) | 1116 | 1534 | 72.8 | /mnt/stockage/packages/f17/postgresql-jdbc/org/postgresql/translation/zh_CN.po | 
+ | [zh_Hant](/f17/language/zh_Hant) | 1116 | 1534 | 72.8 | /mnt/stockage/packages/f17/postgresql-jdbc/org/postgresql/translation/zh_TW.po | 
+ | [cs](/f17/language/cs) | 823 | 1266 | 65.0 | /mnt/stockage/packages/f17/postgresql-jdbc/org/postgresql/translation/cs.po | 
+ | [pl](/f17/language/pl) | 674 | 1232 | 54.7 | /mnt/stockage/packages/f17/postgresql-jdbc/org/postgresql/translation/pl.po | 
+ | [ru](/f17/language/ru) | 361 | 1421 | 25.4 | /mnt/stockage/packages/f17/postgresql-jdbc/org/postgresql/translation/ru.po | 
+ | [es](/f17/language/es) | 229 | 1041 | 22.0 | /mnt/stockage/packages/f17/postgresql-jdbc/org/postgresql/translation/es.po | 
+ | [nl](/f17/language/nl) | 110 | 996 | 11.0 | /mnt/stockage/packages/f17/postgresql-jdbc/org/postgresql/translation/nl.po | 
 {.sortable}
 
 

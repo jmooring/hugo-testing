@@ -18,46 +18,46 @@ The package xfce4-timer-plugin (version 1.6.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f22/language/ar.md" >}}) | 131 | 134 | 97.8 | /mnt/stockage/packages/f22/xfce4-timer-plugin/po/ar.po | 
- | [bg]({{< ref "/f22/language/bg.md" >}}) | 131 | 134 | 97.8 | /mnt/stockage/packages/f22/xfce4-timer-plugin/po/bg.po | 
- | [cs]({{< ref "/f22/language/cs.md" >}}) | 131 | 134 | 97.8 | /mnt/stockage/packages/f22/xfce4-timer-plugin/po/cs.po | 
- | [da]({{< ref "/f22/language/da.md" >}}) | 131 | 134 | 97.8 | /mnt/stockage/packages/f22/xfce4-timer-plugin/po/da.po | 
- | [de]({{< ref "/f22/language/de.md" >}}) | 131 | 134 | 97.8 | /mnt/stockage/packages/f22/xfce4-timer-plugin/po/de.po | 
- | [en_AU]({{< ref "/f22/language/en_AU.md" >}}) | 131 | 134 | 97.8 | /mnt/stockage/packages/f22/xfce4-timer-plugin/po/en_AU.po | 
- | [en_GB]({{< ref "/f22/language/en_GB.md" >}}) | 131 | 134 | 97.8 | /mnt/stockage/packages/f22/xfce4-timer-plugin/po/en_GB.po | 
- | [es]({{< ref "/f22/language/es.md" >}}) | 131 | 134 | 97.8 | /mnt/stockage/packages/f22/xfce4-timer-plugin/po/es.po | 
- | [fr]({{< ref "/f22/language/fr.md" >}}) | 131 | 134 | 97.8 | /mnt/stockage/packages/f22/xfce4-timer-plugin/po/fr.po | 
- | [hr]({{< ref "/f22/language/hr.md" >}}) | 131 | 134 | 97.8 | /mnt/stockage/packages/f22/xfce4-timer-plugin/po/hr.po | 
- | [hu]({{< ref "/f22/language/hu.md" >}}) | 131 | 134 | 97.8 | /mnt/stockage/packages/f22/xfce4-timer-plugin/po/hu.po | 
- | [id]({{< ref "/f22/language/id.md" >}}) | 131 | 134 | 97.8 | /mnt/stockage/packages/f22/xfce4-timer-plugin/po/id.po | 
- | [it]({{< ref "/f22/language/it.md" >}}) | 131 | 134 | 97.8 | /mnt/stockage/packages/f22/xfce4-timer-plugin/po/it.po | 
- | [ja]({{< ref "/f22/language/ja.md" >}}) | 131 | 134 | 97.8 | /mnt/stockage/packages/f22/xfce4-timer-plugin/po/ja.po | 
- | [ko]({{< ref "/f22/language/ko.md" >}}) | 131 | 134 | 97.8 | /mnt/stockage/packages/f22/xfce4-timer-plugin/po/ko.po | 
- | [ms]({{< ref "/f22/language/ms.md" >}}) | 131 | 134 | 97.8 | /mnt/stockage/packages/f22/xfce4-timer-plugin/po/ms.po | 
- | [nb_NO]({{< ref "/f22/language/nb_NO.md" >}}) | 131 | 134 | 97.8 | /mnt/stockage/packages/f22/xfce4-timer-plugin/po/nb.po | 
- | [nl]({{< ref "/f22/language/nl.md" >}}) | 131 | 134 | 97.8 | /mnt/stockage/packages/f22/xfce4-timer-plugin/po/nl.po | 
- | [oc]({{< ref "/f22/language/oc.md" >}}) | 131 | 134 | 97.8 | /mnt/stockage/packages/f22/xfce4-timer-plugin/po/oc.po | 
- | [pl]({{< ref "/f22/language/pl.md" >}}) | 131 | 134 | 97.8 | /mnt/stockage/packages/f22/xfce4-timer-plugin/po/pl.po | 
- | [pt]({{< ref "/f22/language/pt.md" >}}) | 131 | 134 | 97.8 | /mnt/stockage/packages/f22/xfce4-timer-plugin/po/pt.po | 
- | [pt_BR]({{< ref "/f22/language/pt_BR.md" >}}) | 131 | 134 | 97.8 | /mnt/stockage/packages/f22/xfce4-timer-plugin/po/pt_BR.po | 
- | [ru]({{< ref "/f22/language/ru.md" >}}) | 131 | 134 | 97.8 | /mnt/stockage/packages/f22/xfce4-timer-plugin/po/ru.po | 
- | [sr]({{< ref "/f22/language/sr.md" >}}) | 131 | 134 | 97.8 | /mnt/stockage/packages/f22/xfce4-timer-plugin/po/sr.po | 
- | [sv]({{< ref "/f22/language/sv.md" >}}) | 131 | 134 | 97.8 | /mnt/stockage/packages/f22/xfce4-timer-plugin/po/sv.po | 
- | [th]({{< ref "/f22/language/th.md" >}}) | 131 | 134 | 97.8 | /mnt/stockage/packages/f22/xfce4-timer-plugin/po/th.po | 
- | [uk]({{< ref "/f22/language/uk.md" >}}) | 131 | 134 | 97.8 | /mnt/stockage/packages/f22/xfce4-timer-plugin/po/uk.po | 
- | [zh_Hans]({{< ref "/f22/language/zh_Hans.md" >}}) | 131 | 134 | 97.8 | /mnt/stockage/packages/f22/xfce4-timer-plugin/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f22/language/zh_Hant.md" >}}) | 131 | 134 | 97.8 | /mnt/stockage/packages/f22/xfce4-timer-plugin/po/zh_TW.po | 
- | [ast]({{< ref "/f22/language/ast.md" >}}) | 129 | 134 | 96.3 | /mnt/stockage/packages/f22/xfce4-timer-plugin/po/ast.po | 
- | [tr]({{< ref "/f22/language/tr.md" >}}) | 128 | 134 | 95.5 | /mnt/stockage/packages/f22/xfce4-timer-plugin/po/tr.po | 
- | [eu]({{< ref "/f22/language/eu.md" >}}) | 81 | 134 | 60.4 | /mnt/stockage/packages/f22/xfce4-timer-plugin/po/eu.po | 
- | [gl]({{< ref "/f22/language/gl.md" >}}) | 71 | 134 | 53.0 | /mnt/stockage/packages/f22/xfce4-timer-plugin/po/gl.po | 
- | [ca]({{< ref "/f22/language/ca.md" >}}) | 65 | 134 | 48.5 | /mnt/stockage/packages/f22/xfce4-timer-plugin/po/ca.po | 
- | [el]({{< ref "/f22/language/el.md" >}}) | 65 | 134 | 48.5 | /mnt/stockage/packages/f22/xfce4-timer-plugin/po/el.po | 
- | [lv]({{< ref "/f22/language/lv.md" >}}) | 65 | 134 | 48.5 | /mnt/stockage/packages/f22/xfce4-timer-plugin/po/lv.po | 
- | [sk]({{< ref "/f22/language/sk.md" >}}) | 65 | 134 | 48.5 | /mnt/stockage/packages/f22/xfce4-timer-plugin/po/sk.po | 
- | [sq]({{< ref "/f22/language/sq.md" >}}) | 65 | 134 | 48.5 | /mnt/stockage/packages/f22/xfce4-timer-plugin/po/sq.po | 
- | [ug]({{< ref "/f22/language/ug.md" >}}) | 65 | 134 | 48.5 | /mnt/stockage/packages/f22/xfce4-timer-plugin/po/ug.po | 
- | [ur]({{< ref "/f22/language/ur.md" >}}) | 130 | 268 | 48.5 | /mnt/stockage/packages/f22/xfce4-timer-plugin/po/ur.po/mnt/stockage/packages/f22/xfce4-timer-plugin/po/ur_PK.po | 
+ | [ar](/f22/language/ar) | 131 | 134 | 97.8 | /mnt/stockage/packages/f22/xfce4-timer-plugin/po/ar.po | 
+ | [bg](/f22/language/bg) | 131 | 134 | 97.8 | /mnt/stockage/packages/f22/xfce4-timer-plugin/po/bg.po | 
+ | [cs](/f22/language/cs) | 131 | 134 | 97.8 | /mnt/stockage/packages/f22/xfce4-timer-plugin/po/cs.po | 
+ | [da](/f22/language/da) | 131 | 134 | 97.8 | /mnt/stockage/packages/f22/xfce4-timer-plugin/po/da.po | 
+ | [de](/f22/language/de) | 131 | 134 | 97.8 | /mnt/stockage/packages/f22/xfce4-timer-plugin/po/de.po | 
+ | [en_AU](/f22/language/en_AU) | 131 | 134 | 97.8 | /mnt/stockage/packages/f22/xfce4-timer-plugin/po/en_AU.po | 
+ | [en_GB](/f22/language/en_GB) | 131 | 134 | 97.8 | /mnt/stockage/packages/f22/xfce4-timer-plugin/po/en_GB.po | 
+ | [es](/f22/language/es) | 131 | 134 | 97.8 | /mnt/stockage/packages/f22/xfce4-timer-plugin/po/es.po | 
+ | [fr](/f22/language/fr) | 131 | 134 | 97.8 | /mnt/stockage/packages/f22/xfce4-timer-plugin/po/fr.po | 
+ | [hr](/f22/language/hr) | 131 | 134 | 97.8 | /mnt/stockage/packages/f22/xfce4-timer-plugin/po/hr.po | 
+ | [hu](/f22/language/hu) | 131 | 134 | 97.8 | /mnt/stockage/packages/f22/xfce4-timer-plugin/po/hu.po | 
+ | [id](/f22/language/id) | 131 | 134 | 97.8 | /mnt/stockage/packages/f22/xfce4-timer-plugin/po/id.po | 
+ | [it](/f22/language/it) | 131 | 134 | 97.8 | /mnt/stockage/packages/f22/xfce4-timer-plugin/po/it.po | 
+ | [ja](/f22/language/ja) | 131 | 134 | 97.8 | /mnt/stockage/packages/f22/xfce4-timer-plugin/po/ja.po | 
+ | [ko](/f22/language/ko) | 131 | 134 | 97.8 | /mnt/stockage/packages/f22/xfce4-timer-plugin/po/ko.po | 
+ | [ms](/f22/language/ms) | 131 | 134 | 97.8 | /mnt/stockage/packages/f22/xfce4-timer-plugin/po/ms.po | 
+ | [nb_NO](/f22/language/nb_NO) | 131 | 134 | 97.8 | /mnt/stockage/packages/f22/xfce4-timer-plugin/po/nb.po | 
+ | [nl](/f22/language/nl) | 131 | 134 | 97.8 | /mnt/stockage/packages/f22/xfce4-timer-plugin/po/nl.po | 
+ | [oc](/f22/language/oc) | 131 | 134 | 97.8 | /mnt/stockage/packages/f22/xfce4-timer-plugin/po/oc.po | 
+ | [pl](/f22/language/pl) | 131 | 134 | 97.8 | /mnt/stockage/packages/f22/xfce4-timer-plugin/po/pl.po | 
+ | [pt](/f22/language/pt) | 131 | 134 | 97.8 | /mnt/stockage/packages/f22/xfce4-timer-plugin/po/pt.po | 
+ | [pt_BR](/f22/language/pt_BR) | 131 | 134 | 97.8 | /mnt/stockage/packages/f22/xfce4-timer-plugin/po/pt_BR.po | 
+ | [ru](/f22/language/ru) | 131 | 134 | 97.8 | /mnt/stockage/packages/f22/xfce4-timer-plugin/po/ru.po | 
+ | [sr](/f22/language/sr) | 131 | 134 | 97.8 | /mnt/stockage/packages/f22/xfce4-timer-plugin/po/sr.po | 
+ | [sv](/f22/language/sv) | 131 | 134 | 97.8 | /mnt/stockage/packages/f22/xfce4-timer-plugin/po/sv.po | 
+ | [th](/f22/language/th) | 131 | 134 | 97.8 | /mnt/stockage/packages/f22/xfce4-timer-plugin/po/th.po | 
+ | [uk](/f22/language/uk) | 131 | 134 | 97.8 | /mnt/stockage/packages/f22/xfce4-timer-plugin/po/uk.po | 
+ | [zh_Hans](/f22/language/zh_Hans) | 131 | 134 | 97.8 | /mnt/stockage/packages/f22/xfce4-timer-plugin/po/zh_CN.po | 
+ | [zh_Hant](/f22/language/zh_Hant) | 131 | 134 | 97.8 | /mnt/stockage/packages/f22/xfce4-timer-plugin/po/zh_TW.po | 
+ | [ast](/f22/language/ast) | 129 | 134 | 96.3 | /mnt/stockage/packages/f22/xfce4-timer-plugin/po/ast.po | 
+ | [tr](/f22/language/tr) | 128 | 134 | 95.5 | /mnt/stockage/packages/f22/xfce4-timer-plugin/po/tr.po | 
+ | [eu](/f22/language/eu) | 81 | 134 | 60.4 | /mnt/stockage/packages/f22/xfce4-timer-plugin/po/eu.po | 
+ | [gl](/f22/language/gl) | 71 | 134 | 53.0 | /mnt/stockage/packages/f22/xfce4-timer-plugin/po/gl.po | 
+ | [ca](/f22/language/ca) | 65 | 134 | 48.5 | /mnt/stockage/packages/f22/xfce4-timer-plugin/po/ca.po | 
+ | [el](/f22/language/el) | 65 | 134 | 48.5 | /mnt/stockage/packages/f22/xfce4-timer-plugin/po/el.po | 
+ | [lv](/f22/language/lv) | 65 | 134 | 48.5 | /mnt/stockage/packages/f22/xfce4-timer-plugin/po/lv.po | 
+ | [sk](/f22/language/sk) | 65 | 134 | 48.5 | /mnt/stockage/packages/f22/xfce4-timer-plugin/po/sk.po | 
+ | [sq](/f22/language/sq) | 65 | 134 | 48.5 | /mnt/stockage/packages/f22/xfce4-timer-plugin/po/sq.po | 
+ | [ug](/f22/language/ug) | 65 | 134 | 48.5 | /mnt/stockage/packages/f22/xfce4-timer-plugin/po/ug.po | 
+ | [ur](/f22/language/ur) | 130 | 268 | 48.5 | /mnt/stockage/packages/f22/xfce4-timer-plugin/po/ur.po/mnt/stockage/packages/f22/xfce4-timer-plugin/po/ur_PK.po | 
 {.sortable}
 
 

@@ -18,14 +18,14 @@ The package readahead (version 1.5.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f10/language/ar.md" >}}) | 116 | 116 | 100.0 | /mnt/stockage/packages/f10/readahead/po/ar.po | 
- | [bg]({{< ref "/f10/language/bg.md" >}}) | 116 | 116 | 100.0 | /mnt/stockage/packages/f10/readahead/po/bg.po | 
- | [de]({{< ref "/f10/language/de.md" >}}) | 116 | 116 | 100.0 | /mnt/stockage/packages/f10/readahead/po/de.po | 
- | [es]({{< ref "/f10/language/es.md" >}}) | 116 | 116 | 100.0 | /mnt/stockage/packages/f10/readahead/po/es.po | 
- | [it]({{< ref "/f10/language/it.md" >}}) | 116 | 116 | 100.0 | /mnt/stockage/packages/f10/readahead/po/it.po | 
- | [pl]({{< ref "/f10/language/pl.md" >}}) | 116 | 116 | 100.0 | /mnt/stockage/packages/f10/readahead/po/pl.po | 
- | [pt_BR]({{< ref "/f10/language/pt_BR.md" >}}) | 116 | 116 | 100.0 | /mnt/stockage/packages/f10/readahead/po/pt_BR.po | 
- | [sr]({{< ref "/f10/language/sr.md" >}}) | 116 | 116 | 100.0 | /mnt/stockage/packages/f10/readahead/po/sr.po | 
+ | [ar](/f10/language/ar) | 116 | 116 | 100.0 | /mnt/stockage/packages/f10/readahead/po/ar.po | 
+ | [bg](/f10/language/bg) | 116 | 116 | 100.0 | /mnt/stockage/packages/f10/readahead/po/bg.po | 
+ | [de](/f10/language/de) | 116 | 116 | 100.0 | /mnt/stockage/packages/f10/readahead/po/de.po | 
+ | [es](/f10/language/es) | 116 | 116 | 100.0 | /mnt/stockage/packages/f10/readahead/po/es.po | 
+ | [it](/f10/language/it) | 116 | 116 | 100.0 | /mnt/stockage/packages/f10/readahead/po/it.po | 
+ | [pl](/f10/language/pl) | 116 | 116 | 100.0 | /mnt/stockage/packages/f10/readahead/po/pl.po | 
+ | [pt_BR](/f10/language/pt_BR) | 116 | 116 | 100.0 | /mnt/stockage/packages/f10/readahead/po/pt_BR.po | 
+ | [sr](/f10/language/sr) | 116 | 116 | 100.0 | /mnt/stockage/packages/f10/readahead/po/sr.po | 
 {.sortable}
 
 

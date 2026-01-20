@@ -18,21 +18,21 @@ The package fpc (version 3.0.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [da]({{< ref "/f26/language/da.md" >}}) | 199 | 199 | 100.0 | /mnt/stockage/packages/f26/fpc/install/debian/po/da.po | 
- | [de]({{< ref "/f26/language/de.md" >}}) | 203 | 203 | 100.0 | /mnt/stockage/packages/f26/fpc/fpcsrc/packages/fcl-base/examples/intl/restest.de.po/mnt/stockage/packages/f26/fpc/fpcsrc/utils/fpdoc/intl/dglobals.de.po/mnt/stockage/packages/f26/fpc/fpcsrc/utils/fpdoc/intl/dwriter.de.po/mnt/stockage/packages/f26/fpc/fpcsrc/utils/fpdoc/intl/fpdoc.de.po/mnt/stockage/packages/f26/fpc/fpcsrc/utils/fpdoc/intl/fpdocmk.de.po/mnt/stockage/packages/f26/fpc/fpcsrc/utils/fpdoc/intl/fpdocstr.de.po/mnt/stockage/packages/f26/fpc/fpcsrc/utils/fpdoc/intl/makeskel.de.po/mnt/stockage/packages/f26/fpc/install/debian/po/de.po | 
- | [error]({{< ref "/f26/language/error.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f26/fpc/fpcsrc/packages/fcl-base/examples/intl/restest.pb.po | 
- | [es]({{< ref "/f26/language/es.md" >}}) | 199 | 199 | 100.0 | /mnt/stockage/packages/f26/fpc/install/debian/po/es.po | 
- | [fr]({{< ref "/f26/language/fr.md" >}}) | 199 | 199 | 100.0 | /mnt/stockage/packages/f26/fpc/fpcsrc/packages/fcl-base/examples/intl/restest.fr.po/mnt/stockage/packages/f26/fpc/install/debian/po/fr.po | 
- | [hu]({{< ref "/f26/language/hu.md" >}}) | 199 | 199 | 100.0 | /mnt/stockage/packages/f26/fpc/install/debian/po/hu.po | 
- | [it]({{< ref "/f26/language/it.md" >}}) | 199 | 199 | 100.0 | /mnt/stockage/packages/f26/fpc/install/debian/po/it.po | 
- | [ja]({{< ref "/f26/language/ja.md" >}}) | 199 | 199 | 100.0 | /mnt/stockage/packages/f26/fpc/install/debian/po/ja.po | 
- | [nl]({{< ref "/f26/language/nl.md" >}}) | 3 | 3 | 100.0 | /mnt/stockage/packages/f26/fpc/fpcsrc/packages/fcl-base/examples/intl/restest.nl.po | 
- | [pl]({{< ref "/f26/language/pl.md" >}}) | 199 | 199 | 100.0 | /mnt/stockage/packages/f26/fpc/install/debian/po/pl.po | 
- | [pt]({{< ref "/f26/language/pt.md" >}}) | 199 | 199 | 100.0 | /mnt/stockage/packages/f26/fpc/install/debian/po/pt.po | 
- | [ru]({{< ref "/f26/language/ru.md" >}}) | 203 | 203 | 100.0 | /mnt/stockage/packages/f26/fpc/fpcsrc/packages/fcl-base/examples/intl/restest.ru.po/mnt/stockage/packages/f26/fpc/install/debian/po/ru.po | 
- | [sk]({{< ref "/f26/language/sk.md" >}}) | 273 | 273 | 100.0 | /mnt/stockage/packages/f26/fpc/fpcsrc/utils/fpdoc/intl/dglobals.sk.po/mnt/stockage/packages/f26/fpc/install/debian/po/sk.po | 
- | [sv]({{< ref "/f26/language/sv.md" >}}) | 199 | 199 | 100.0 | /mnt/stockage/packages/f26/fpc/install/debian/po/sv.po | 
- | [cs]({{< ref "/f26/language/cs.md" >}}) | 101 | 203 | 49.8 | /mnt/stockage/packages/f26/fpc/fpcsrc/packages/fcl-base/examples/intl/restest.cs.po/mnt/stockage/packages/f26/fpc/install/debian/po/cs.po | 
+ | [da](/f26/language/da) | 199 | 199 | 100.0 | /mnt/stockage/packages/f26/fpc/install/debian/po/da.po | 
+ | [de](/f26/language/de) | 203 | 203 | 100.0 | /mnt/stockage/packages/f26/fpc/fpcsrc/packages/fcl-base/examples/intl/restest.de.po/mnt/stockage/packages/f26/fpc/fpcsrc/utils/fpdoc/intl/dglobals.de.po/mnt/stockage/packages/f26/fpc/fpcsrc/utils/fpdoc/intl/dwriter.de.po/mnt/stockage/packages/f26/fpc/fpcsrc/utils/fpdoc/intl/fpdoc.de.po/mnt/stockage/packages/f26/fpc/fpcsrc/utils/fpdoc/intl/fpdocmk.de.po/mnt/stockage/packages/f26/fpc/fpcsrc/utils/fpdoc/intl/fpdocstr.de.po/mnt/stockage/packages/f26/fpc/fpcsrc/utils/fpdoc/intl/makeskel.de.po/mnt/stockage/packages/f26/fpc/install/debian/po/de.po | 
+ | [error](/f26/language/error) | 4 | 4 | 100.0 | /mnt/stockage/packages/f26/fpc/fpcsrc/packages/fcl-base/examples/intl/restest.pb.po | 
+ | [es](/f26/language/es) | 199 | 199 | 100.0 | /mnt/stockage/packages/f26/fpc/install/debian/po/es.po | 
+ | [fr](/f26/language/fr) | 199 | 199 | 100.0 | /mnt/stockage/packages/f26/fpc/fpcsrc/packages/fcl-base/examples/intl/restest.fr.po/mnt/stockage/packages/f26/fpc/install/debian/po/fr.po | 
+ | [hu](/f26/language/hu) | 199 | 199 | 100.0 | /mnt/stockage/packages/f26/fpc/install/debian/po/hu.po | 
+ | [it](/f26/language/it) | 199 | 199 | 100.0 | /mnt/stockage/packages/f26/fpc/install/debian/po/it.po | 
+ | [ja](/f26/language/ja) | 199 | 199 | 100.0 | /mnt/stockage/packages/f26/fpc/install/debian/po/ja.po | 
+ | [nl](/f26/language/nl) | 3 | 3 | 100.0 | /mnt/stockage/packages/f26/fpc/fpcsrc/packages/fcl-base/examples/intl/restest.nl.po | 
+ | [pl](/f26/language/pl) | 199 | 199 | 100.0 | /mnt/stockage/packages/f26/fpc/install/debian/po/pl.po | 
+ | [pt](/f26/language/pt) | 199 | 199 | 100.0 | /mnt/stockage/packages/f26/fpc/install/debian/po/pt.po | 
+ | [ru](/f26/language/ru) | 203 | 203 | 100.0 | /mnt/stockage/packages/f26/fpc/fpcsrc/packages/fcl-base/examples/intl/restest.ru.po/mnt/stockage/packages/f26/fpc/install/debian/po/ru.po | 
+ | [sk](/f26/language/sk) | 273 | 273 | 100.0 | /mnt/stockage/packages/f26/fpc/fpcsrc/utils/fpdoc/intl/dglobals.sk.po/mnt/stockage/packages/f26/fpc/install/debian/po/sk.po | 
+ | [sv](/f26/language/sv) | 199 | 199 | 100.0 | /mnt/stockage/packages/f26/fpc/install/debian/po/sv.po | 
+ | [cs](/f26/language/cs) | 101 | 203 | 49.8 | /mnt/stockage/packages/f26/fpc/fpcsrc/packages/fcl-base/examples/intl/restest.cs.po/mnt/stockage/packages/f26/fpc/install/debian/po/cs.po | 
 {.sortable}
 
 

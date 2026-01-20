@@ -18,42 +18,42 @@ The package diffutils (version 3.12):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [bg]({{< ref "/f42/language/bg.md" >}}) | 1883 | 1883 | 100.0 | /mnt/stockage/packages/f42/diffutils/po/bg.po | 
- | [cs]({{< ref "/f42/language/cs.md" >}}) | 1883 | 1883 | 100.0 | /mnt/stockage/packages/f42/diffutils/po/cs.po | 
- | [de]({{< ref "/f42/language/de.md" >}}) | 1883 | 1883 | 100.0 | /mnt/stockage/packages/f42/diffutils/po/de.po | 
- | [fr]({{< ref "/f42/language/fr.md" >}}) | 1883 | 1883 | 100.0 | /mnt/stockage/packages/f42/diffutils/po/fr.po | 
- | [hr]({{< ref "/f42/language/hr.md" >}}) | 1883 | 1883 | 100.0 | /mnt/stockage/packages/f42/diffutils/po/hr.po | 
- | [id]({{< ref "/f42/language/id.md" >}}) | 1883 | 1883 | 100.0 | /mnt/stockage/packages/f42/diffutils/po/id.po | 
- | [lv]({{< ref "/f42/language/lv.md" >}}) | 1883 | 1883 | 100.0 | /mnt/stockage/packages/f42/diffutils/po/lv.po | 
- | [nl]({{< ref "/f42/language/nl.md" >}}) | 1883 | 1883 | 100.0 | /mnt/stockage/packages/f42/diffutils/po/nl.po | 
- | [pl]({{< ref "/f42/language/pl.md" >}}) | 1883 | 1883 | 100.0 | /mnt/stockage/packages/f42/diffutils/po/pl.po | 
- | [pt]({{< ref "/f42/language/pt.md" >}}) | 1883 | 1883 | 100.0 | /mnt/stockage/packages/f42/diffutils/po/pt.po | 
- | [pt_BR]({{< ref "/f42/language/pt_BR.md" >}}) | 1883 | 1883 | 100.0 | /mnt/stockage/packages/f42/diffutils/po/pt_BR.po | 
- | [ro]({{< ref "/f42/language/ro.md" >}}) | 1883 | 1883 | 100.0 | /mnt/stockage/packages/f42/diffutils/po/ro.po | 
- | [sr]({{< ref "/f42/language/sr.md" >}}) | 1883 | 1883 | 100.0 | /mnt/stockage/packages/f42/diffutils/po/sr.po | 
- | [sv]({{< ref "/f42/language/sv.md" >}}) | 1883 | 1883 | 100.0 | /mnt/stockage/packages/f42/diffutils/po/sv.po | 
- | [uk]({{< ref "/f42/language/uk.md" >}}) | 1883 | 1883 | 100.0 | /mnt/stockage/packages/f42/diffutils/po/uk.po | 
- | [zh_Hans]({{< ref "/f42/language/zh_Hans.md" >}}) | 1883 | 1883 | 100.0 | /mnt/stockage/packages/f42/diffutils/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f42/language/zh_Hant.md" >}}) | 1883 | 1883 | 100.0 | /mnt/stockage/packages/f42/diffutils/po/zh_TW.po | 
- | [ms]({{< ref "/f42/language/ms.md" >}}) | 1840 | 1883 | 97.7 | /mnt/stockage/packages/f42/diffutils/po/ms.po | 
- | [da]({{< ref "/f42/language/da.md" >}}) | 1759 | 1883 | 93.4 | /mnt/stockage/packages/f42/diffutils/po/da.po | 
- | [el]({{< ref "/f42/language/el.md" >}}) | 1759 | 1883 | 93.4 | /mnt/stockage/packages/f42/diffutils/po/el.po | 
- | [eo]({{< ref "/f42/language/eo.md" >}}) | 1759 | 1883 | 93.4 | /mnt/stockage/packages/f42/diffutils/po/eo.po | 
- | [es]({{< ref "/f42/language/es.md" >}}) | 1759 | 1883 | 93.4 | /mnt/stockage/packages/f42/diffutils/po/es.po | 
- | [fi]({{< ref "/f42/language/fi.md" >}}) | 1759 | 1883 | 93.4 | /mnt/stockage/packages/f42/diffutils/po/fi.po | 
- | [hu]({{< ref "/f42/language/hu.md" >}}) | 1759 | 1883 | 93.4 | /mnt/stockage/packages/f42/diffutils/po/hu.po | 
- | [ko]({{< ref "/f42/language/ko.md" >}}) | 1759 | 1883 | 93.4 | /mnt/stockage/packages/f42/diffutils/po/ko.po | 
- | [nb_NO]({{< ref "/f42/language/nb_NO.md" >}}) | 1759 | 1883 | 93.4 | /mnt/stockage/packages/f42/diffutils/po/nb.po | 
- | [ru]({{< ref "/f42/language/ru.md" >}}) | 1759 | 1883 | 93.4 | /mnt/stockage/packages/f42/diffutils/po/ru.po | 
- | [tr]({{< ref "/f42/language/tr.md" >}}) | 1759 | 1883 | 93.4 | /mnt/stockage/packages/f42/diffutils/po/tr.po | 
- | [vi]({{< ref "/f42/language/vi.md" >}}) | 1705 | 1883 | 90.5 | /mnt/stockage/packages/f42/diffutils/po/vi.po | 
- | [it]({{< ref "/f42/language/it.md" >}}) | 1640 | 1883 | 87.1 | /mnt/stockage/packages/f42/diffutils/po/it.po | 
- | [ka]({{< ref "/f42/language/ka.md" >}}) | 1482 | 1883 | 78.7 | /mnt/stockage/packages/f42/diffutils/po/ka.po | 
- | [ja]({{< ref "/f42/language/ja.md" >}}) | 1472 | 1883 | 78.2 | /mnt/stockage/packages/f42/diffutils/po/ja.po | 
- | [gl]({{< ref "/f42/language/gl.md" >}}) | 531 | 1883 | 28.2 | /mnt/stockage/packages/f42/diffutils/po/gl.po | 
- | [ca]({{< ref "/f42/language/ca.md" >}}) | 396 | 1883 | 21.0 | /mnt/stockage/packages/f42/diffutils/po/ca.po | 
- | [ga]({{< ref "/f42/language/ga.md" >}}) | 396 | 1883 | 21.0 | /mnt/stockage/packages/f42/diffutils/po/ga.po | 
- | [he]({{< ref "/f42/language/he.md" >}}) | 299 | 1883 | 15.9 | /mnt/stockage/packages/f42/diffutils/po/he.po | 
+ | [bg](/f42/language/bg) | 1883 | 1883 | 100.0 | /mnt/stockage/packages/f42/diffutils/po/bg.po | 
+ | [cs](/f42/language/cs) | 1883 | 1883 | 100.0 | /mnt/stockage/packages/f42/diffutils/po/cs.po | 
+ | [de](/f42/language/de) | 1883 | 1883 | 100.0 | /mnt/stockage/packages/f42/diffutils/po/de.po | 
+ | [fr](/f42/language/fr) | 1883 | 1883 | 100.0 | /mnt/stockage/packages/f42/diffutils/po/fr.po | 
+ | [hr](/f42/language/hr) | 1883 | 1883 | 100.0 | /mnt/stockage/packages/f42/diffutils/po/hr.po | 
+ | [id](/f42/language/id) | 1883 | 1883 | 100.0 | /mnt/stockage/packages/f42/diffutils/po/id.po | 
+ | [lv](/f42/language/lv) | 1883 | 1883 | 100.0 | /mnt/stockage/packages/f42/diffutils/po/lv.po | 
+ | [nl](/f42/language/nl) | 1883 | 1883 | 100.0 | /mnt/stockage/packages/f42/diffutils/po/nl.po | 
+ | [pl](/f42/language/pl) | 1883 | 1883 | 100.0 | /mnt/stockage/packages/f42/diffutils/po/pl.po | 
+ | [pt](/f42/language/pt) | 1883 | 1883 | 100.0 | /mnt/stockage/packages/f42/diffutils/po/pt.po | 
+ | [pt_BR](/f42/language/pt_BR) | 1883 | 1883 | 100.0 | /mnt/stockage/packages/f42/diffutils/po/pt_BR.po | 
+ | [ro](/f42/language/ro) | 1883 | 1883 | 100.0 | /mnt/stockage/packages/f42/diffutils/po/ro.po | 
+ | [sr](/f42/language/sr) | 1883 | 1883 | 100.0 | /mnt/stockage/packages/f42/diffutils/po/sr.po | 
+ | [sv](/f42/language/sv) | 1883 | 1883 | 100.0 | /mnt/stockage/packages/f42/diffutils/po/sv.po | 
+ | [uk](/f42/language/uk) | 1883 | 1883 | 100.0 | /mnt/stockage/packages/f42/diffutils/po/uk.po | 
+ | [zh_Hans](/f42/language/zh_Hans) | 1883 | 1883 | 100.0 | /mnt/stockage/packages/f42/diffutils/po/zh_CN.po | 
+ | [zh_Hant](/f42/language/zh_Hant) | 1883 | 1883 | 100.0 | /mnt/stockage/packages/f42/diffutils/po/zh_TW.po | 
+ | [ms](/f42/language/ms) | 1840 | 1883 | 97.7 | /mnt/stockage/packages/f42/diffutils/po/ms.po | 
+ | [da](/f42/language/da) | 1759 | 1883 | 93.4 | /mnt/stockage/packages/f42/diffutils/po/da.po | 
+ | [el](/f42/language/el) | 1759 | 1883 | 93.4 | /mnt/stockage/packages/f42/diffutils/po/el.po | 
+ | [eo](/f42/language/eo) | 1759 | 1883 | 93.4 | /mnt/stockage/packages/f42/diffutils/po/eo.po | 
+ | [es](/f42/language/es) | 1759 | 1883 | 93.4 | /mnt/stockage/packages/f42/diffutils/po/es.po | 
+ | [fi](/f42/language/fi) | 1759 | 1883 | 93.4 | /mnt/stockage/packages/f42/diffutils/po/fi.po | 
+ | [hu](/f42/language/hu) | 1759 | 1883 | 93.4 | /mnt/stockage/packages/f42/diffutils/po/hu.po | 
+ | [ko](/f42/language/ko) | 1759 | 1883 | 93.4 | /mnt/stockage/packages/f42/diffutils/po/ko.po | 
+ | [nb_NO](/f42/language/nb_NO) | 1759 | 1883 | 93.4 | /mnt/stockage/packages/f42/diffutils/po/nb.po | 
+ | [ru](/f42/language/ru) | 1759 | 1883 | 93.4 | /mnt/stockage/packages/f42/diffutils/po/ru.po | 
+ | [tr](/f42/language/tr) | 1759 | 1883 | 93.4 | /mnt/stockage/packages/f42/diffutils/po/tr.po | 
+ | [vi](/f42/language/vi) | 1705 | 1883 | 90.5 | /mnt/stockage/packages/f42/diffutils/po/vi.po | 
+ | [it](/f42/language/it) | 1640 | 1883 | 87.1 | /mnt/stockage/packages/f42/diffutils/po/it.po | 
+ | [ka](/f42/language/ka) | 1482 | 1883 | 78.7 | /mnt/stockage/packages/f42/diffutils/po/ka.po | 
+ | [ja](/f42/language/ja) | 1472 | 1883 | 78.2 | /mnt/stockage/packages/f42/diffutils/po/ja.po | 
+ | [gl](/f42/language/gl) | 531 | 1883 | 28.2 | /mnt/stockage/packages/f42/diffutils/po/gl.po | 
+ | [ca](/f42/language/ca) | 396 | 1883 | 21.0 | /mnt/stockage/packages/f42/diffutils/po/ca.po | 
+ | [ga](/f42/language/ga) | 396 | 1883 | 21.0 | /mnt/stockage/packages/f42/diffutils/po/ga.po | 
+ | [he](/f42/language/he) | 299 | 1883 | 15.9 | /mnt/stockage/packages/f42/diffutils/po/he.po | 
 {.sortable}
 
 

@@ -18,114 +18,114 @@ The package gnome-menus (version 3.13.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [af]({{< ref "/f24/language/af.md" >}}) | 70 | 70 | 100.0 | /mnt/stockage/packages/f24/gnome-menus/po/af.po | 
- | [an]({{< ref "/f24/language/an.md" >}}) | 70 | 70 | 100.0 | /mnt/stockage/packages/f24/gnome-menus/po/an.po | 
- | [ar]({{< ref "/f24/language/ar.md" >}}) | 70 | 70 | 100.0 | /mnt/stockage/packages/f24/gnome-menus/po/ar.po | 
- | [as]({{< ref "/f24/language/as.md" >}}) | 70 | 70 | 100.0 | /mnt/stockage/packages/f24/gnome-menus/po/as.po | 
- | [ast]({{< ref "/f24/language/ast.md" >}}) | 157 | 157 | 100.0 | /mnt/stockage/packages/f24/gnome-menus/po/ast.po | 
- | [be]({{< ref "/f24/language/be.md" >}}) | 70 | 70 | 100.0 | /mnt/stockage/packages/f24/gnome-menus/po/be.po | 
- | [be_Latn]({{< ref "/f24/language/be_Latn.md" >}}) | 165 | 165 | 100.0 | /mnt/stockage/packages/f24/gnome-menus/po/be@latin.po | 
- | [bg]({{< ref "/f24/language/bg.md" >}}) | 70 | 70 | 100.0 | /mnt/stockage/packages/f24/gnome-menus/po/bg.po | 
- | [bn]({{< ref "/f24/language/bn.md" >}}) | 95 | 95 | 100.0 | /mnt/stockage/packages/f24/gnome-menus/po/bn.po | 
- | [bn_IN]({{< ref "/f24/language/bn_IN.md" >}}) | 103 | 103 | 100.0 | /mnt/stockage/packages/f24/gnome-menus/po/bn_IN.po | 
- | [br]({{< ref "/f24/language/br.md" >}}) | 161 | 161 | 100.0 | /mnt/stockage/packages/f24/gnome-menus/po/br.po | 
- | [ca]({{< ref "/f24/language/ca.md" >}}) | 70 | 70 | 100.0 | /mnt/stockage/packages/f24/gnome-menus/po/ca.po | 
- | [ca@valencia]({{< ref "/f24/language/ca@valencia.md" >}}) | 70 | 70 | 100.0 | /mnt/stockage/packages/f24/gnome-menus/po/ca@valencia.po | 
- | [crh]({{< ref "/f24/language/crh.md" >}}) | 70 | 70 | 100.0 | /mnt/stockage/packages/f24/gnome-menus/po/crh.po | 
- | [cs]({{< ref "/f24/language/cs.md" >}}) | 70 | 70 | 100.0 | /mnt/stockage/packages/f24/gnome-menus/po/cs.po | 
- | [csb]({{< ref "/f24/language/csb.md" >}}) | 95 | 95 | 100.0 | /mnt/stockage/packages/f24/gnome-menus/po/csb.po | 
- | [cy]({{< ref "/f24/language/cy.md" >}}) | 136 | 136 | 100.0 | /mnt/stockage/packages/f24/gnome-menus/po/cy.po | 
- | [da]({{< ref "/f24/language/da.md" >}}) | 70 | 70 | 100.0 | /mnt/stockage/packages/f24/gnome-menus/po/da.po | 
- | [de]({{< ref "/f24/language/de.md" >}}) | 70 | 70 | 100.0 | /mnt/stockage/packages/f24/gnome-menus/po/de.po | 
- | [dv]({{< ref "/f24/language/dv.md" >}}) | 157 | 157 | 100.0 | /mnt/stockage/packages/f24/gnome-menus/po/dv.po | 
- | [dz]({{< ref "/f24/language/dz.md" >}}) | 165 | 165 | 100.0 | /mnt/stockage/packages/f24/gnome-menus/po/dz.po | 
- | [el]({{< ref "/f24/language/el.md" >}}) | 70 | 70 | 100.0 | /mnt/stockage/packages/f24/gnome-menus/po/el.po | 
- | [en_CA]({{< ref "/f24/language/en_CA.md" >}}) | 136 | 136 | 100.0 | /mnt/stockage/packages/f24/gnome-menus/po/en_CA.po | 
- | [en_GB]({{< ref "/f24/language/en_GB.md" >}}) | 103 | 103 | 100.0 | /mnt/stockage/packages/f24/gnome-menus/po/en_GB.po | 
- | [eo]({{< ref "/f24/language/eo.md" >}}) | 70 | 70 | 100.0 | /mnt/stockage/packages/f24/gnome-menus/po/eo.po | 
- | [error]({{< ref "/f24/language/error.md" >}}) | 125 | 125 | 100.0 | /mnt/stockage/packages/f24/gnome-menus/po/en@shaw.po | 
- | [es]({{< ref "/f24/language/es.md" >}}) | 70 | 70 | 100.0 | /mnt/stockage/packages/f24/gnome-menus/po/es.po | 
- | [et]({{< ref "/f24/language/et.md" >}}) | 70 | 70 | 100.0 | /mnt/stockage/packages/f24/gnome-menus/po/et.po | 
- | [eu]({{< ref "/f24/language/eu.md" >}}) | 70 | 70 | 100.0 | /mnt/stockage/packages/f24/gnome-menus/po/eu.po | 
- | [fa]({{< ref "/f24/language/fa.md" >}}) | 70 | 70 | 100.0 | /mnt/stockage/packages/f24/gnome-menus/po/fa.po | 
- | [fi]({{< ref "/f24/language/fi.md" >}}) | 70 | 70 | 100.0 | /mnt/stockage/packages/f24/gnome-menus/po/fi.po | 
- | [fr]({{< ref "/f24/language/fr.md" >}}) | 70 | 70 | 100.0 | /mnt/stockage/packages/f24/gnome-menus/po/fr.po | 
- | [fy]({{< ref "/f24/language/fy.md" >}}) | 95 | 95 | 100.0 | /mnt/stockage/packages/f24/gnome-menus/po/fy.po | 
- | [ga]({{< ref "/f24/language/ga.md" >}}) | 70 | 70 | 100.0 | /mnt/stockage/packages/f24/gnome-menus/po/ga.po | 
- | [gd]({{< ref "/f24/language/gd.md" >}}) | 70 | 70 | 100.0 | /mnt/stockage/packages/f24/gnome-menus/po/gd.po | 
- | [gl]({{< ref "/f24/language/gl.md" >}}) | 70 | 70 | 100.0 | /mnt/stockage/packages/f24/gnome-menus/po/gl.po | 
- | [gu]({{< ref "/f24/language/gu.md" >}}) | 70 | 70 | 100.0 | /mnt/stockage/packages/f24/gnome-menus/po/gu.po | 
- | [he]({{< ref "/f24/language/he.md" >}}) | 70 | 70 | 100.0 | /mnt/stockage/packages/f24/gnome-menus/po/he.po | 
- | [hi]({{< ref "/f24/language/hi.md" >}}) | 70 | 70 | 100.0 | /mnt/stockage/packages/f24/gnome-menus/po/hi.po | 
- | [hr]({{< ref "/f24/language/hr.md" >}}) | 157 | 157 | 100.0 | /mnt/stockage/packages/f24/gnome-menus/po/hr.po | 
- | [hu]({{< ref "/f24/language/hu.md" >}}) | 70 | 70 | 100.0 | /mnt/stockage/packages/f24/gnome-menus/po/hu.po | 
- | [ia]({{< ref "/f24/language/ia.md" >}}) | 70 | 70 | 100.0 | /mnt/stockage/packages/f24/gnome-menus/po/ia.po | 
- | [id]({{< ref "/f24/language/id.md" >}}) | 70 | 70 | 100.0 | /mnt/stockage/packages/f24/gnome-menus/po/id.po | 
- | [is]({{< ref "/f24/language/is.md" >}}) | 161 | 161 | 100.0 | /mnt/stockage/packages/f24/gnome-menus/po/is.po | 
- | [it]({{< ref "/f24/language/it.md" >}}) | 70 | 70 | 100.0 | /mnt/stockage/packages/f24/gnome-menus/po/it.po | 
- | [ja]({{< ref "/f24/language/ja.md" >}}) | 70 | 70 | 100.0 | /mnt/stockage/packages/f24/gnome-menus/po/ja.po | 
- | [ka]({{< ref "/f24/language/ka.md" >}}) | 136 | 136 | 100.0 | /mnt/stockage/packages/f24/gnome-menus/po/ka.po | 
- | [kg]({{< ref "/f24/language/kg.md" >}}) | 125 | 125 | 100.0 | /mnt/stockage/packages/f24/gnome-menus/po/kg.po | 
- | [kk]({{< ref "/f24/language/kk.md" >}}) | 70 | 70 | 100.0 | /mnt/stockage/packages/f24/gnome-menus/po/kk.po | 
- | [km]({{< ref "/f24/language/km.md" >}}) | 70 | 70 | 100.0 | /mnt/stockage/packages/f24/gnome-menus/po/km.po | 
- | [kn]({{< ref "/f24/language/kn.md" >}}) | 70 | 70 | 100.0 | /mnt/stockage/packages/f24/gnome-menus/po/kn.po | 
- | [ko]({{< ref "/f24/language/ko.md" >}}) | 70 | 70 | 100.0 | /mnt/stockage/packages/f24/gnome-menus/po/ko.po | 
- | [ku]({{< ref "/f24/language/ku.md" >}}) | 167 | 167 | 100.0 | /mnt/stockage/packages/f24/gnome-menus/po/ku.po | 
- | [ky]({{< ref "/f24/language/ky.md" >}}) | 103 | 103 | 100.0 | /mnt/stockage/packages/f24/gnome-menus/po/ky.po | 
- | [lo]({{< ref "/f24/language/lo.md" >}}) | 95 | 95 | 100.0 | /mnt/stockage/packages/f24/gnome-menus/po/lo.po | 
- | [lt]({{< ref "/f24/language/lt.md" >}}) | 70 | 70 | 100.0 | /mnt/stockage/packages/f24/gnome-menus/po/lt.po | 
- | [lv]({{< ref "/f24/language/lv.md" >}}) | 70 | 70 | 100.0 | /mnt/stockage/packages/f24/gnome-menus/po/lv.po | 
- | [mai]({{< ref "/f24/language/mai.md" >}}) | 161 | 161 | 100.0 | /mnt/stockage/packages/f24/gnome-menus/po/mai.po | 
- | [mg]({{< ref "/f24/language/mg.md" >}}) | 136 | 136 | 100.0 | /mnt/stockage/packages/f24/gnome-menus/po/mg.po | 
- | [mk]({{< ref "/f24/language/mk.md" >}}) | 165 | 165 | 100.0 | /mnt/stockage/packages/f24/gnome-menus/po/mk.po | 
- | [ml]({{< ref "/f24/language/ml.md" >}}) | 70 | 70 | 100.0 | /mnt/stockage/packages/f24/gnome-menus/po/ml.po | 
- | [mn]({{< ref "/f24/language/mn.md" >}}) | 125 | 125 | 100.0 | /mnt/stockage/packages/f24/gnome-menus/po/mn.po | 
- | [mr]({{< ref "/f24/language/mr.md" >}}) | 70 | 70 | 100.0 | /mnt/stockage/packages/f24/gnome-menus/po/mr.po | 
- | [nb_NO]({{< ref "/f24/language/nb_NO.md" >}}) | 70 | 70 | 100.0 | /mnt/stockage/packages/f24/gnome-menus/po/nb.po | 
- | [nds]({{< ref "/f24/language/nds.md" >}}) | 161 | 161 | 100.0 | /mnt/stockage/packages/f24/gnome-menus/po/nds.po | 
- | [ne]({{< ref "/f24/language/ne.md" >}}) | 165 | 165 | 100.0 | /mnt/stockage/packages/f24/gnome-menus/po/ne.po | 
- | [nl]({{< ref "/f24/language/nl.md" >}}) | 70 | 70 | 100.0 | /mnt/stockage/packages/f24/gnome-menus/po/nl.po | 
- | [nn]({{< ref "/f24/language/nn.md" >}}) | 125 | 125 | 100.0 | /mnt/stockage/packages/f24/gnome-menus/po/nn.po | 
- | [or]({{< ref "/f24/language/or.md" >}}) | 70 | 70 | 100.0 | /mnt/stockage/packages/f24/gnome-menus/po/or.po | 
- | [pa]({{< ref "/f24/language/pa.md" >}}) | 70 | 70 | 100.0 | /mnt/stockage/packages/f24/gnome-menus/po/pa.po | 
- | [pl]({{< ref "/f24/language/pl.md" >}}) | 70 | 70 | 100.0 | /mnt/stockage/packages/f24/gnome-menus/po/pl.po | 
- | [pt]({{< ref "/f24/language/pt.md" >}}) | 70 | 70 | 100.0 | /mnt/stockage/packages/f24/gnome-menus/po/pt.po | 
- | [pt_BR]({{< ref "/f24/language/pt_BR.md" >}}) | 70 | 70 | 100.0 | /mnt/stockage/packages/f24/gnome-menus/po/pt_BR.po | 
- | [ro]({{< ref "/f24/language/ro.md" >}}) | 70 | 70 | 100.0 | /mnt/stockage/packages/f24/gnome-menus/po/ro.po | 
- | [ru]({{< ref "/f24/language/ru.md" >}}) | 70 | 70 | 100.0 | /mnt/stockage/packages/f24/gnome-menus/po/ru.po | 
- | [si]({{< ref "/f24/language/si.md" >}}) | 165 | 165 | 100.0 | /mnt/stockage/packages/f24/gnome-menus/po/si.po | 
- | [sk]({{< ref "/f24/language/sk.md" >}}) | 70 | 70 | 100.0 | /mnt/stockage/packages/f24/gnome-menus/po/sk.po | 
- | [sl]({{< ref "/f24/language/sl.md" >}}) | 70 | 70 | 100.0 | /mnt/stockage/packages/f24/gnome-menus/po/sl.po | 
- | [sq]({{< ref "/f24/language/sq.md" >}}) | 165 | 165 | 100.0 | /mnt/stockage/packages/f24/gnome-menus/po/sq.po | 
- | [sr]({{< ref "/f24/language/sr.md" >}}) | 140 | 140 | 100.0 | /mnt/stockage/packages/f24/gnome-menus/po/sr.po/mnt/stockage/packages/f24/gnome-menus/po/sr@latin.po | 
- | [sv]({{< ref "/f24/language/sv.md" >}}) | 70 | 70 | 100.0 | /mnt/stockage/packages/f24/gnome-menus/po/sv.po | 
- | [ta]({{< ref "/f24/language/ta.md" >}}) | 70 | 70 | 100.0 | /mnt/stockage/packages/f24/gnome-menus/po/ta.po | 
- | [te]({{< ref "/f24/language/te.md" >}}) | 70 | 70 | 100.0 | /mnt/stockage/packages/f24/gnome-menus/po/te.po | 
- | [tg]({{< ref "/f24/language/tg.md" >}}) | 70 | 70 | 100.0 | /mnt/stockage/packages/f24/gnome-menus/po/tg.po | 
- | [th]({{< ref "/f24/language/th.md" >}}) | 70 | 70 | 100.0 | /mnt/stockage/packages/f24/gnome-menus/po/th.po | 
- | [tr]({{< ref "/f24/language/tr.md" >}}) | 70 | 70 | 100.0 | /mnt/stockage/packages/f24/gnome-menus/po/tr.po | 
- | [ug]({{< ref "/f24/language/ug.md" >}}) | 70 | 70 | 100.0 | /mnt/stockage/packages/f24/gnome-menus/po/ug.po | 
- | [uk]({{< ref "/f24/language/uk.md" >}}) | 70 | 70 | 100.0 | /mnt/stockage/packages/f24/gnome-menus/po/uk.po | 
- | [uz]({{< ref "/f24/language/uz.md" >}}) | 103 | 103 | 100.0 | /mnt/stockage/packages/f24/gnome-menus/po/uz@cyrillic.po | 
- | [vi]({{< ref "/f24/language/vi.md" >}}) | 70 | 70 | 100.0 | /mnt/stockage/packages/f24/gnome-menus/po/vi.po | 
- | [zh_Hans]({{< ref "/f24/language/zh_Hans.md" >}}) | 70 | 70 | 100.0 | /mnt/stockage/packages/f24/gnome-menus/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f24/language/zh_Hant.md" >}}) | 70 | 70 | 100.0 | /mnt/stockage/packages/f24/gnome-menus/po/zh_TW.po | 
- | [zh_Hant_HK]({{< ref "/f24/language/zh_Hant_HK.md" >}}) | 70 | 70 | 100.0 | /mnt/stockage/packages/f24/gnome-menus/po/zh_HK.po | 
- | [zu]({{< ref "/f24/language/zu.md" >}}) | 95 | 95 | 100.0 | /mnt/stockage/packages/f24/gnome-menus/po/zu.po | 
- | [ms]({{< ref "/f24/language/ms.md" >}}) | 67 | 68 | 98.5 | /mnt/stockage/packages/f24/gnome-menus/po/ms.po | 
- | [hy]({{< ref "/f24/language/hy.md" >}}) | 151 | 157 | 96.2 | /mnt/stockage/packages/f24/gnome-menus/po/hy.po | 
- | [fur]({{< ref "/f24/language/fur.md" >}}) | 99 | 103 | 96.1 | /mnt/stockage/packages/f24/gnome-menus/po/fur.po | 
- | [szl]({{< ref "/f24/language/szl.md" >}}) | 95 | 103 | 92.2 | /mnt/stockage/packages/f24/gnome-menus/po/szl.po | 
- | [oc]({{< ref "/f24/language/oc.md" >}}) | 138 | 157 | 87.9 | /mnt/stockage/packages/f24/gnome-menus/po/oc.po | 
- | [xh]({{< ref "/f24/language/xh.md" >}}) | 80 | 95 | 84.2 | /mnt/stockage/packages/f24/gnome-menus/po/xh.po | 
- | [ps]({{< ref "/f24/language/ps.md" >}}) | 128 | 157 | 81.5 | /mnt/stockage/packages/f24/gnome-menus/po/ps.po | 
- | [ha]({{< ref "/f24/language/ha.md" >}}) | 116 | 157 | 73.9 | /mnt/stockage/packages/f24/gnome-menus/po/ha.po | 
- | [ig]({{< ref "/f24/language/ig.md" >}}) | 116 | 157 | 73.9 | /mnt/stockage/packages/f24/gnome-menus/po/ig.po | 
- | [yo]({{< ref "/f24/language/yo.md" >}}) | 116 | 157 | 73.9 | /mnt/stockage/packages/f24/gnome-menus/po/yo.po | 
- | [gv]({{< ref "/f24/language/gv.md" >}}) | 84 | 125 | 67.2 | /mnt/stockage/packages/f24/gnome-menus/po/gv.po | 
- | [gn]({{< ref "/f24/language/gn.md" >}}) | 71 | 133 | 53.4 | /mnt/stockage/packages/f24/gnome-menus/po/gn.po | 
- | [io]({{< ref "/f24/language/io.md" >}}) | 86 | 165 | 52.1 | /mnt/stockage/packages/f24/gnome-menus/po/io.po | 
- | [rw]({{< ref "/f24/language/rw.md" >}}) | 8 | 68 | 11.8 | /mnt/stockage/packages/f24/gnome-menus/po/rw.po | 
+ | [af](/f24/language/af) | 70 | 70 | 100.0 | /mnt/stockage/packages/f24/gnome-menus/po/af.po | 
+ | [an](/f24/language/an) | 70 | 70 | 100.0 | /mnt/stockage/packages/f24/gnome-menus/po/an.po | 
+ | [ar](/f24/language/ar) | 70 | 70 | 100.0 | /mnt/stockage/packages/f24/gnome-menus/po/ar.po | 
+ | [as](/f24/language/as) | 70 | 70 | 100.0 | /mnt/stockage/packages/f24/gnome-menus/po/as.po | 
+ | [ast](/f24/language/ast) | 157 | 157 | 100.0 | /mnt/stockage/packages/f24/gnome-menus/po/ast.po | 
+ | [be](/f24/language/be) | 70 | 70 | 100.0 | /mnt/stockage/packages/f24/gnome-menus/po/be.po | 
+ | [be_Latn](/f24/language/be_Latn) | 165 | 165 | 100.0 | /mnt/stockage/packages/f24/gnome-menus/po/be@latin.po | 
+ | [bg](/f24/language/bg) | 70 | 70 | 100.0 | /mnt/stockage/packages/f24/gnome-menus/po/bg.po | 
+ | [bn](/f24/language/bn) | 95 | 95 | 100.0 | /mnt/stockage/packages/f24/gnome-menus/po/bn.po | 
+ | [bn_IN](/f24/language/bn_IN) | 103 | 103 | 100.0 | /mnt/stockage/packages/f24/gnome-menus/po/bn_IN.po | 
+ | [br](/f24/language/br) | 161 | 161 | 100.0 | /mnt/stockage/packages/f24/gnome-menus/po/br.po | 
+ | [ca](/f24/language/ca) | 70 | 70 | 100.0 | /mnt/stockage/packages/f24/gnome-menus/po/ca.po | 
+ | [ca@valencia](/f24/language/ca@valencia) | 70 | 70 | 100.0 | /mnt/stockage/packages/f24/gnome-menus/po/ca@valencia.po | 
+ | [crh](/f24/language/crh) | 70 | 70 | 100.0 | /mnt/stockage/packages/f24/gnome-menus/po/crh.po | 
+ | [cs](/f24/language/cs) | 70 | 70 | 100.0 | /mnt/stockage/packages/f24/gnome-menus/po/cs.po | 
+ | [csb](/f24/language/csb) | 95 | 95 | 100.0 | /mnt/stockage/packages/f24/gnome-menus/po/csb.po | 
+ | [cy](/f24/language/cy) | 136 | 136 | 100.0 | /mnt/stockage/packages/f24/gnome-menus/po/cy.po | 
+ | [da](/f24/language/da) | 70 | 70 | 100.0 | /mnt/stockage/packages/f24/gnome-menus/po/da.po | 
+ | [de](/f24/language/de) | 70 | 70 | 100.0 | /mnt/stockage/packages/f24/gnome-menus/po/de.po | 
+ | [dv](/f24/language/dv) | 157 | 157 | 100.0 | /mnt/stockage/packages/f24/gnome-menus/po/dv.po | 
+ | [dz](/f24/language/dz) | 165 | 165 | 100.0 | /mnt/stockage/packages/f24/gnome-menus/po/dz.po | 
+ | [el](/f24/language/el) | 70 | 70 | 100.0 | /mnt/stockage/packages/f24/gnome-menus/po/el.po | 
+ | [en_CA](/f24/language/en_CA) | 136 | 136 | 100.0 | /mnt/stockage/packages/f24/gnome-menus/po/en_CA.po | 
+ | [en_GB](/f24/language/en_GB) | 103 | 103 | 100.0 | /mnt/stockage/packages/f24/gnome-menus/po/en_GB.po | 
+ | [eo](/f24/language/eo) | 70 | 70 | 100.0 | /mnt/stockage/packages/f24/gnome-menus/po/eo.po | 
+ | [error](/f24/language/error) | 125 | 125 | 100.0 | /mnt/stockage/packages/f24/gnome-menus/po/en@shaw.po | 
+ | [es](/f24/language/es) | 70 | 70 | 100.0 | /mnt/stockage/packages/f24/gnome-menus/po/es.po | 
+ | [et](/f24/language/et) | 70 | 70 | 100.0 | /mnt/stockage/packages/f24/gnome-menus/po/et.po | 
+ | [eu](/f24/language/eu) | 70 | 70 | 100.0 | /mnt/stockage/packages/f24/gnome-menus/po/eu.po | 
+ | [fa](/f24/language/fa) | 70 | 70 | 100.0 | /mnt/stockage/packages/f24/gnome-menus/po/fa.po | 
+ | [fi](/f24/language/fi) | 70 | 70 | 100.0 | /mnt/stockage/packages/f24/gnome-menus/po/fi.po | 
+ | [fr](/f24/language/fr) | 70 | 70 | 100.0 | /mnt/stockage/packages/f24/gnome-menus/po/fr.po | 
+ | [fy](/f24/language/fy) | 95 | 95 | 100.0 | /mnt/stockage/packages/f24/gnome-menus/po/fy.po | 
+ | [ga](/f24/language/ga) | 70 | 70 | 100.0 | /mnt/stockage/packages/f24/gnome-menus/po/ga.po | 
+ | [gd](/f24/language/gd) | 70 | 70 | 100.0 | /mnt/stockage/packages/f24/gnome-menus/po/gd.po | 
+ | [gl](/f24/language/gl) | 70 | 70 | 100.0 | /mnt/stockage/packages/f24/gnome-menus/po/gl.po | 
+ | [gu](/f24/language/gu) | 70 | 70 | 100.0 | /mnt/stockage/packages/f24/gnome-menus/po/gu.po | 
+ | [he](/f24/language/he) | 70 | 70 | 100.0 | /mnt/stockage/packages/f24/gnome-menus/po/he.po | 
+ | [hi](/f24/language/hi) | 70 | 70 | 100.0 | /mnt/stockage/packages/f24/gnome-menus/po/hi.po | 
+ | [hr](/f24/language/hr) | 157 | 157 | 100.0 | /mnt/stockage/packages/f24/gnome-menus/po/hr.po | 
+ | [hu](/f24/language/hu) | 70 | 70 | 100.0 | /mnt/stockage/packages/f24/gnome-menus/po/hu.po | 
+ | [ia](/f24/language/ia) | 70 | 70 | 100.0 | /mnt/stockage/packages/f24/gnome-menus/po/ia.po | 
+ | [id](/f24/language/id) | 70 | 70 | 100.0 | /mnt/stockage/packages/f24/gnome-menus/po/id.po | 
+ | [is](/f24/language/is) | 161 | 161 | 100.0 | /mnt/stockage/packages/f24/gnome-menus/po/is.po | 
+ | [it](/f24/language/it) | 70 | 70 | 100.0 | /mnt/stockage/packages/f24/gnome-menus/po/it.po | 
+ | [ja](/f24/language/ja) | 70 | 70 | 100.0 | /mnt/stockage/packages/f24/gnome-menus/po/ja.po | 
+ | [ka](/f24/language/ka) | 136 | 136 | 100.0 | /mnt/stockage/packages/f24/gnome-menus/po/ka.po | 
+ | [kg](/f24/language/kg) | 125 | 125 | 100.0 | /mnt/stockage/packages/f24/gnome-menus/po/kg.po | 
+ | [kk](/f24/language/kk) | 70 | 70 | 100.0 | /mnt/stockage/packages/f24/gnome-menus/po/kk.po | 
+ | [km](/f24/language/km) | 70 | 70 | 100.0 | /mnt/stockage/packages/f24/gnome-menus/po/km.po | 
+ | [kn](/f24/language/kn) | 70 | 70 | 100.0 | /mnt/stockage/packages/f24/gnome-menus/po/kn.po | 
+ | [ko](/f24/language/ko) | 70 | 70 | 100.0 | /mnt/stockage/packages/f24/gnome-menus/po/ko.po | 
+ | [ku](/f24/language/ku) | 167 | 167 | 100.0 | /mnt/stockage/packages/f24/gnome-menus/po/ku.po | 
+ | [ky](/f24/language/ky) | 103 | 103 | 100.0 | /mnt/stockage/packages/f24/gnome-menus/po/ky.po | 
+ | [lo](/f24/language/lo) | 95 | 95 | 100.0 | /mnt/stockage/packages/f24/gnome-menus/po/lo.po | 
+ | [lt](/f24/language/lt) | 70 | 70 | 100.0 | /mnt/stockage/packages/f24/gnome-menus/po/lt.po | 
+ | [lv](/f24/language/lv) | 70 | 70 | 100.0 | /mnt/stockage/packages/f24/gnome-menus/po/lv.po | 
+ | [mai](/f24/language/mai) | 161 | 161 | 100.0 | /mnt/stockage/packages/f24/gnome-menus/po/mai.po | 
+ | [mg](/f24/language/mg) | 136 | 136 | 100.0 | /mnt/stockage/packages/f24/gnome-menus/po/mg.po | 
+ | [mk](/f24/language/mk) | 165 | 165 | 100.0 | /mnt/stockage/packages/f24/gnome-menus/po/mk.po | 
+ | [ml](/f24/language/ml) | 70 | 70 | 100.0 | /mnt/stockage/packages/f24/gnome-menus/po/ml.po | 
+ | [mn](/f24/language/mn) | 125 | 125 | 100.0 | /mnt/stockage/packages/f24/gnome-menus/po/mn.po | 
+ | [mr](/f24/language/mr) | 70 | 70 | 100.0 | /mnt/stockage/packages/f24/gnome-menus/po/mr.po | 
+ | [nb_NO](/f24/language/nb_NO) | 70 | 70 | 100.0 | /mnt/stockage/packages/f24/gnome-menus/po/nb.po | 
+ | [nds](/f24/language/nds) | 161 | 161 | 100.0 | /mnt/stockage/packages/f24/gnome-menus/po/nds.po | 
+ | [ne](/f24/language/ne) | 165 | 165 | 100.0 | /mnt/stockage/packages/f24/gnome-menus/po/ne.po | 
+ | [nl](/f24/language/nl) | 70 | 70 | 100.0 | /mnt/stockage/packages/f24/gnome-menus/po/nl.po | 
+ | [nn](/f24/language/nn) | 125 | 125 | 100.0 | /mnt/stockage/packages/f24/gnome-menus/po/nn.po | 
+ | [or](/f24/language/or) | 70 | 70 | 100.0 | /mnt/stockage/packages/f24/gnome-menus/po/or.po | 
+ | [pa](/f24/language/pa) | 70 | 70 | 100.0 | /mnt/stockage/packages/f24/gnome-menus/po/pa.po | 
+ | [pl](/f24/language/pl) | 70 | 70 | 100.0 | /mnt/stockage/packages/f24/gnome-menus/po/pl.po | 
+ | [pt](/f24/language/pt) | 70 | 70 | 100.0 | /mnt/stockage/packages/f24/gnome-menus/po/pt.po | 
+ | [pt_BR](/f24/language/pt_BR) | 70 | 70 | 100.0 | /mnt/stockage/packages/f24/gnome-menus/po/pt_BR.po | 
+ | [ro](/f24/language/ro) | 70 | 70 | 100.0 | /mnt/stockage/packages/f24/gnome-menus/po/ro.po | 
+ | [ru](/f24/language/ru) | 70 | 70 | 100.0 | /mnt/stockage/packages/f24/gnome-menus/po/ru.po | 
+ | [si](/f24/language/si) | 165 | 165 | 100.0 | /mnt/stockage/packages/f24/gnome-menus/po/si.po | 
+ | [sk](/f24/language/sk) | 70 | 70 | 100.0 | /mnt/stockage/packages/f24/gnome-menus/po/sk.po | 
+ | [sl](/f24/language/sl) | 70 | 70 | 100.0 | /mnt/stockage/packages/f24/gnome-menus/po/sl.po | 
+ | [sq](/f24/language/sq) | 165 | 165 | 100.0 | /mnt/stockage/packages/f24/gnome-menus/po/sq.po | 
+ | [sr](/f24/language/sr) | 140 | 140 | 100.0 | /mnt/stockage/packages/f24/gnome-menus/po/sr.po/mnt/stockage/packages/f24/gnome-menus/po/sr@latin.po | 
+ | [sv](/f24/language/sv) | 70 | 70 | 100.0 | /mnt/stockage/packages/f24/gnome-menus/po/sv.po | 
+ | [ta](/f24/language/ta) | 70 | 70 | 100.0 | /mnt/stockage/packages/f24/gnome-menus/po/ta.po | 
+ | [te](/f24/language/te) | 70 | 70 | 100.0 | /mnt/stockage/packages/f24/gnome-menus/po/te.po | 
+ | [tg](/f24/language/tg) | 70 | 70 | 100.0 | /mnt/stockage/packages/f24/gnome-menus/po/tg.po | 
+ | [th](/f24/language/th) | 70 | 70 | 100.0 | /mnt/stockage/packages/f24/gnome-menus/po/th.po | 
+ | [tr](/f24/language/tr) | 70 | 70 | 100.0 | /mnt/stockage/packages/f24/gnome-menus/po/tr.po | 
+ | [ug](/f24/language/ug) | 70 | 70 | 100.0 | /mnt/stockage/packages/f24/gnome-menus/po/ug.po | 
+ | [uk](/f24/language/uk) | 70 | 70 | 100.0 | /mnt/stockage/packages/f24/gnome-menus/po/uk.po | 
+ | [uz](/f24/language/uz) | 103 | 103 | 100.0 | /mnt/stockage/packages/f24/gnome-menus/po/uz@cyrillic.po | 
+ | [vi](/f24/language/vi) | 70 | 70 | 100.0 | /mnt/stockage/packages/f24/gnome-menus/po/vi.po | 
+ | [zh_Hans](/f24/language/zh_Hans) | 70 | 70 | 100.0 | /mnt/stockage/packages/f24/gnome-menus/po/zh_CN.po | 
+ | [zh_Hant](/f24/language/zh_Hant) | 70 | 70 | 100.0 | /mnt/stockage/packages/f24/gnome-menus/po/zh_TW.po | 
+ | [zh_Hant_HK](/f24/language/zh_Hant_HK) | 70 | 70 | 100.0 | /mnt/stockage/packages/f24/gnome-menus/po/zh_HK.po | 
+ | [zu](/f24/language/zu) | 95 | 95 | 100.0 | /mnt/stockage/packages/f24/gnome-menus/po/zu.po | 
+ | [ms](/f24/language/ms) | 67 | 68 | 98.5 | /mnt/stockage/packages/f24/gnome-menus/po/ms.po | 
+ | [hy](/f24/language/hy) | 151 | 157 | 96.2 | /mnt/stockage/packages/f24/gnome-menus/po/hy.po | 
+ | [fur](/f24/language/fur) | 99 | 103 | 96.1 | /mnt/stockage/packages/f24/gnome-menus/po/fur.po | 
+ | [szl](/f24/language/szl) | 95 | 103 | 92.2 | /mnt/stockage/packages/f24/gnome-menus/po/szl.po | 
+ | [oc](/f24/language/oc) | 138 | 157 | 87.9 | /mnt/stockage/packages/f24/gnome-menus/po/oc.po | 
+ | [xh](/f24/language/xh) | 80 | 95 | 84.2 | /mnt/stockage/packages/f24/gnome-menus/po/xh.po | 
+ | [ps](/f24/language/ps) | 128 | 157 | 81.5 | /mnt/stockage/packages/f24/gnome-menus/po/ps.po | 
+ | [ha](/f24/language/ha) | 116 | 157 | 73.9 | /mnt/stockage/packages/f24/gnome-menus/po/ha.po | 
+ | [ig](/f24/language/ig) | 116 | 157 | 73.9 | /mnt/stockage/packages/f24/gnome-menus/po/ig.po | 
+ | [yo](/f24/language/yo) | 116 | 157 | 73.9 | /mnt/stockage/packages/f24/gnome-menus/po/yo.po | 
+ | [gv](/f24/language/gv) | 84 | 125 | 67.2 | /mnt/stockage/packages/f24/gnome-menus/po/gv.po | 
+ | [gn](/f24/language/gn) | 71 | 133 | 53.4 | /mnt/stockage/packages/f24/gnome-menus/po/gn.po | 
+ | [io](/f24/language/io) | 86 | 165 | 52.1 | /mnt/stockage/packages/f24/gnome-menus/po/io.po | 
+ | [rw](/f24/language/rw) | 8 | 68 | 11.8 | /mnt/stockage/packages/f24/gnome-menus/po/rw.po | 
 {.sortable}
 
 

@@ -18,15 +18,15 @@ The package uget (version 1.6.4.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ru]({{< ref "/f13/language/ru.md" >}}) | 471 | 471 | 100.0 | /mnt/stockage/packages/f13/uget/po/ru.po | 
- | [es]({{< ref "/f13/language/es.md" >}}) | 466 | 471 | 98.9 | /mnt/stockage/packages/f13/uget/po/es.po | 
- | [tr]({{< ref "/f13/language/tr.md" >}}) | 460 | 471 | 97.7 | /mnt/stockage/packages/f13/uget/po/tr.po | 
- | [zh_Hans]({{< ref "/f13/language/zh_Hans.md" >}}) | 456 | 471 | 96.8 | /mnt/stockage/packages/f13/uget/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f13/language/zh_Hant.md" >}}) | 445 | 471 | 94.5 | /mnt/stockage/packages/f13/uget/po/zh_TW.po | 
- | [de]({{< ref "/f13/language/de.md" >}}) | 354 | 471 | 75.2 | /mnt/stockage/packages/f13/uget/po/de.po | 
- | [fr]({{< ref "/f13/language/fr.md" >}}) | 37 | 471 | 7.9 | /mnt/stockage/packages/f13/uget/po/fr.po | 
- | [pl]({{< ref "/f13/language/pl.md" >}}) | 35 | 471 | 7.4 | /mnt/stockage/packages/f13/uget/po/pl.po | 
- | [it]({{< ref "/f13/language/it.md" >}}) | 31 | 471 | 6.6 | /mnt/stockage/packages/f13/uget/po/it.po | 
+ | [ru](/f13/language/ru) | 471 | 471 | 100.0 | /mnt/stockage/packages/f13/uget/po/ru.po | 
+ | [es](/f13/language/es) | 466 | 471 | 98.9 | /mnt/stockage/packages/f13/uget/po/es.po | 
+ | [tr](/f13/language/tr) | 460 | 471 | 97.7 | /mnt/stockage/packages/f13/uget/po/tr.po | 
+ | [zh_Hans](/f13/language/zh_Hans) | 456 | 471 | 96.8 | /mnt/stockage/packages/f13/uget/po/zh_CN.po | 
+ | [zh_Hant](/f13/language/zh_Hant) | 445 | 471 | 94.5 | /mnt/stockage/packages/f13/uget/po/zh_TW.po | 
+ | [de](/f13/language/de) | 354 | 471 | 75.2 | /mnt/stockage/packages/f13/uget/po/de.po | 
+ | [fr](/f13/language/fr) | 37 | 471 | 7.9 | /mnt/stockage/packages/f13/uget/po/fr.po | 
+ | [pl](/f13/language/pl) | 35 | 471 | 7.4 | /mnt/stockage/packages/f13/uget/po/pl.po | 
+ | [it](/f13/language/it) | 31 | 471 | 6.6 | /mnt/stockage/packages/f13/uget/po/it.po | 
 {.sortable}
 
 

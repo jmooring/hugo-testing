@@ -18,9 +18,9 @@ The package gnome-applet-cpufire (version 1.6):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f14/language/de.md" >}}) | 481 | 935 | 51.4 | /mnt/stockage/packages/f14/gnome-applet-cpufire/help/de/de.po/mnt/stockage/packages/f14/gnome-applet-cpufire/po/de.po | 
- | [en]({{< ref "/f14/language/en.md" >}}) | 107 | 935 | 11.4 | /mnt/stockage/packages/f14/gnome-applet-cpufire/help/en/en.po/mnt/stockage/packages/f14/gnome-applet-cpufire/po/en.po | 
- | [it]({{< ref "/f14/language/it.md" >}}) | 62 | 935 | 6.6 | /mnt/stockage/packages/f14/gnome-applet-cpufire/help/it/it.po/mnt/stockage/packages/f14/gnome-applet-cpufire/po/it.po | 
+ | [de](/f14/language/de) | 481 | 935 | 51.4 | /mnt/stockage/packages/f14/gnome-applet-cpufire/help/de/de.po/mnt/stockage/packages/f14/gnome-applet-cpufire/po/de.po | 
+ | [en](/f14/language/en) | 107 | 935 | 11.4 | /mnt/stockage/packages/f14/gnome-applet-cpufire/help/en/en.po/mnt/stockage/packages/f14/gnome-applet-cpufire/po/en.po | 
+ | [it](/f14/language/it) | 62 | 935 | 6.6 | /mnt/stockage/packages/f14/gnome-applet-cpufire/help/it/it.po/mnt/stockage/packages/f14/gnome-applet-cpufire/po/it.po | 
 {.sortable}
 
 

@@ -18,98 +18,98 @@ The package libvirt-glib (version 1.0.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f25/language/ca.md" >}}) | 121 | 145 | 83.4 | /mnt/stockage/packages/f25/libvirt-glib/po/ca.po | 
- | [en_GB]({{< ref "/f25/language/en_GB.md" >}}) | 121 | 145 | 83.4 | /mnt/stockage/packages/f25/libvirt-glib/po/en_GB.po | 
- | [fr]({{< ref "/f25/language/fr.md" >}}) | 121 | 145 | 83.4 | /mnt/stockage/packages/f25/libvirt-glib/po/fr.po | 
- | [hi]({{< ref "/f25/language/hi.md" >}}) | 121 | 145 | 83.4 | /mnt/stockage/packages/f25/libvirt-glib/po/hi.po | 
- | [ja]({{< ref "/f25/language/ja.md" >}}) | 121 | 145 | 83.4 | /mnt/stockage/packages/f25/libvirt-glib/po/ja.po | 
- | [pl]({{< ref "/f25/language/pl.md" >}}) | 121 | 145 | 83.4 | /mnt/stockage/packages/f25/libvirt-glib/po/pl.po | 
- | [pt_BR]({{< ref "/f25/language/pt_BR.md" >}}) | 121 | 145 | 83.4 | /mnt/stockage/packages/f25/libvirt-glib/po/pt_BR.po | 
- | [uk]({{< ref "/f25/language/uk.md" >}}) | 121 | 145 | 83.4 | /mnt/stockage/packages/f25/libvirt-glib/po/uk.po | 
- | [es]({{< ref "/f25/language/es.md" >}}) | 113 | 145 | 77.9 | /mnt/stockage/packages/f25/libvirt-glib/po/es.po | 
- | [ru]({{< ref "/f25/language/ru.md" >}}) | 4 | 145 | 2.8 | /mnt/stockage/packages/f25/libvirt-glib/po/ru.po | 
- | [af]({{< ref "/f25/language/af.md" >}}) | 0 | 145 | 0.0 | /mnt/stockage/packages/f25/libvirt-glib/po/af.po | 
- | [am]({{< ref "/f25/language/am.md" >}}) | 0 | 145 | 0.0 | /mnt/stockage/packages/f25/libvirt-glib/po/am.po | 
- | [anp]({{< ref "/f25/language/anp.md" >}}) | 0 | 145 | 0.0 | /mnt/stockage/packages/f25/libvirt-glib/po/anp.po | 
- | [ar]({{< ref "/f25/language/ar.md" >}}) | 0 | 145 | 0.0 | /mnt/stockage/packages/f25/libvirt-glib/po/ar.po | 
- | [as]({{< ref "/f25/language/as.md" >}}) | 0 | 145 | 0.0 | /mnt/stockage/packages/f25/libvirt-glib/po/as.po | 
- | [ast]({{< ref "/f25/language/ast.md" >}}) | 0 | 145 | 0.0 | /mnt/stockage/packages/f25/libvirt-glib/po/ast.po | 
- | [bal]({{< ref "/f25/language/bal.md" >}}) | 0 | 145 | 0.0 | /mnt/stockage/packages/f25/libvirt-glib/po/bal.po | 
- | [be]({{< ref "/f25/language/be.md" >}}) | 0 | 145 | 0.0 | /mnt/stockage/packages/f25/libvirt-glib/po/be.po | 
- | [bg]({{< ref "/f25/language/bg.md" >}}) | 0 | 145 | 0.0 | /mnt/stockage/packages/f25/libvirt-glib/po/bg.po | 
- | [bn]({{< ref "/f25/language/bn.md" >}}) | 0 | 145 | 0.0 | /mnt/stockage/packages/f25/libvirt-glib/po/bn.po | 
- | [bn_IN]({{< ref "/f25/language/bn_IN.md" >}}) | 0 | 145 | 0.0 | /mnt/stockage/packages/f25/libvirt-glib/po/bn_IN.po | 
- | [bo]({{< ref "/f25/language/bo.md" >}}) | 0 | 145 | 0.0 | /mnt/stockage/packages/f25/libvirt-glib/po/bo.po | 
- | [br]({{< ref "/f25/language/br.md" >}}) | 0 | 145 | 0.0 | /mnt/stockage/packages/f25/libvirt-glib/po/br.po | 
- | [brx]({{< ref "/f25/language/brx.md" >}}) | 0 | 145 | 0.0 | /mnt/stockage/packages/f25/libvirt-glib/po/brx.po | 
- | [bs]({{< ref "/f25/language/bs.md" >}}) | 0 | 145 | 0.0 | /mnt/stockage/packages/f25/libvirt-glib/po/bs.po | 
- | [cs]({{< ref "/f25/language/cs.md" >}}) | 0 | 145 | 0.0 | /mnt/stockage/packages/f25/libvirt-glib/po/cs.po | 
- | [cy]({{< ref "/f25/language/cy.md" >}}) | 0 | 145 | 0.0 | /mnt/stockage/packages/f25/libvirt-glib/po/cy.po | 
- | [da]({{< ref "/f25/language/da.md" >}}) | 0 | 145 | 0.0 | /mnt/stockage/packages/f25/libvirt-glib/po/da.po | 
- | [de]({{< ref "/f25/language/de.md" >}}) | 0 | 145 | 0.0 | /mnt/stockage/packages/f25/libvirt-glib/po/de.po | 
- | [de_CH]({{< ref "/f25/language/de_CH.md" >}}) | 0 | 145 | 0.0 | /mnt/stockage/packages/f25/libvirt-glib/po/de_CH.po | 
- | [el]({{< ref "/f25/language/el.md" >}}) | 0 | 145 | 0.0 | /mnt/stockage/packages/f25/libvirt-glib/po/el.po | 
- | [eo]({{< ref "/f25/language/eo.md" >}}) | 0 | 145 | 0.0 | /mnt/stockage/packages/f25/libvirt-glib/po/eo.po | 
- | [error]({{< ref "/f25/language/error.md" >}}) | 0 | 435 | 0.0 | /mnt/stockage/packages/f25/libvirt-glib/po/kw@kkcor.po/mnt/stockage/packages/f25/libvirt-glib/po/wba.po/mnt/stockage/packages/f25/libvirt-glib/po/kw@uccor.po | 
- | [et]({{< ref "/f25/language/et.md" >}}) | 0 | 145 | 0.0 | /mnt/stockage/packages/f25/libvirt-glib/po/et.po | 
- | [eu]({{< ref "/f25/language/eu.md" >}}) | 0 | 145 | 0.0 | /mnt/stockage/packages/f25/libvirt-glib/po/eu.po | 
- | [fa]({{< ref "/f25/language/fa.md" >}}) | 0 | 145 | 0.0 | /mnt/stockage/packages/f25/libvirt-glib/po/fa.po | 
- | [fi]({{< ref "/f25/language/fi.md" >}}) | 0 | 145 | 0.0 | /mnt/stockage/packages/f25/libvirt-glib/po/fi.po | 
- | [gl]({{< ref "/f25/language/gl.md" >}}) | 0 | 145 | 0.0 | /mnt/stockage/packages/f25/libvirt-glib/po/gl.po | 
- | [gu]({{< ref "/f25/language/gu.md" >}}) | 0 | 145 | 0.0 | /mnt/stockage/packages/f25/libvirt-glib/po/gu.po | 
- | [he]({{< ref "/f25/language/he.md" >}}) | 0 | 145 | 0.0 | /mnt/stockage/packages/f25/libvirt-glib/po/he.po | 
- | [hr]({{< ref "/f25/language/hr.md" >}}) | 0 | 145 | 0.0 | /mnt/stockage/packages/f25/libvirt-glib/po/hr.po | 
- | [hu]({{< ref "/f25/language/hu.md" >}}) | 0 | 145 | 0.0 | /mnt/stockage/packages/f25/libvirt-glib/po/hu.po | 
- | [ia]({{< ref "/f25/language/ia.md" >}}) | 0 | 145 | 0.0 | /mnt/stockage/packages/f25/libvirt-glib/po/ia.po | 
- | [id]({{< ref "/f25/language/id.md" >}}) | 0 | 145 | 0.0 | /mnt/stockage/packages/f25/libvirt-glib/po/id.po | 
- | [ilo]({{< ref "/f25/language/ilo.md" >}}) | 0 | 145 | 0.0 | /mnt/stockage/packages/f25/libvirt-glib/po/ilo.po | 
- | [is]({{< ref "/f25/language/is.md" >}}) | 0 | 145 | 0.0 | /mnt/stockage/packages/f25/libvirt-glib/po/is.po | 
- | [it]({{< ref "/f25/language/it.md" >}}) | 0 | 145 | 0.0 | /mnt/stockage/packages/f25/libvirt-glib/po/it.po | 
- | [ka]({{< ref "/f25/language/ka.md" >}}) | 0 | 145 | 0.0 | /mnt/stockage/packages/f25/libvirt-glib/po/ka.po | 
- | [kk]({{< ref "/f25/language/kk.md" >}}) | 0 | 145 | 0.0 | /mnt/stockage/packages/f25/libvirt-glib/po/kk.po | 
- | [km]({{< ref "/f25/language/km.md" >}}) | 0 | 145 | 0.0 | /mnt/stockage/packages/f25/libvirt-glib/po/km.po | 
- | [kn]({{< ref "/f25/language/kn.md" >}}) | 0 | 145 | 0.0 | /mnt/stockage/packages/f25/libvirt-glib/po/kn.po | 
- | [ko]({{< ref "/f25/language/ko.md" >}}) | 0 | 145 | 0.0 | /mnt/stockage/packages/f25/libvirt-glib/po/ko.po | 
- | [kw]({{< ref "/f25/language/kw.md" >}}) | 0 | 290 | 0.0 | /mnt/stockage/packages/f25/libvirt-glib/po/kw_GB.po/mnt/stockage/packages/f25/libvirt-glib/po/kw.po | 
- | [ky]({{< ref "/f25/language/ky.md" >}}) | 0 | 145 | 0.0 | /mnt/stockage/packages/f25/libvirt-glib/po/ky.po | 
- | [lt]({{< ref "/f25/language/lt.md" >}}) | 0 | 145 | 0.0 | /mnt/stockage/packages/f25/libvirt-glib/po/lt.po | 
- | [lv]({{< ref "/f25/language/lv.md" >}}) | 0 | 145 | 0.0 | /mnt/stockage/packages/f25/libvirt-glib/po/lv.po | 
- | [mai]({{< ref "/f25/language/mai.md" >}}) | 0 | 145 | 0.0 | /mnt/stockage/packages/f25/libvirt-glib/po/mai.po | 
- | [mk]({{< ref "/f25/language/mk.md" >}}) | 0 | 145 | 0.0 | /mnt/stockage/packages/f25/libvirt-glib/po/mk.po | 
- | [ml]({{< ref "/f25/language/ml.md" >}}) | 0 | 145 | 0.0 | /mnt/stockage/packages/f25/libvirt-glib/po/ml.po | 
- | [mn]({{< ref "/f25/language/mn.md" >}}) | 0 | 145 | 0.0 | /mnt/stockage/packages/f25/libvirt-glib/po/mn.po | 
- | [mr]({{< ref "/f25/language/mr.md" >}}) | 0 | 145 | 0.0 | /mnt/stockage/packages/f25/libvirt-glib/po/mr.po | 
- | [ms]({{< ref "/f25/language/ms.md" >}}) | 0 | 145 | 0.0 | /mnt/stockage/packages/f25/libvirt-glib/po/ms.po | 
- | [nb_NO]({{< ref "/f25/language/nb_NO.md" >}}) | 0 | 145 | 0.0 | /mnt/stockage/packages/f25/libvirt-glib/po/nb.po | 
- | [nds]({{< ref "/f25/language/nds.md" >}}) | 0 | 145 | 0.0 | /mnt/stockage/packages/f25/libvirt-glib/po/nds.po | 
- | [ne]({{< ref "/f25/language/ne.md" >}}) | 0 | 145 | 0.0 | /mnt/stockage/packages/f25/libvirt-glib/po/ne.po | 
- | [nl]({{< ref "/f25/language/nl.md" >}}) | 0 | 145 | 0.0 | /mnt/stockage/packages/f25/libvirt-glib/po/nl.po | 
- | [nn]({{< ref "/f25/language/nn.md" >}}) | 0 | 145 | 0.0 | /mnt/stockage/packages/f25/libvirt-glib/po/nn.po | 
- | [nso]({{< ref "/f25/language/nso.md" >}}) | 0 | 145 | 0.0 | /mnt/stockage/packages/f25/libvirt-glib/po/nso.po | 
- | [or]({{< ref "/f25/language/or.md" >}}) | 0 | 145 | 0.0 | /mnt/stockage/packages/f25/libvirt-glib/po/or.po | 
- | [pa]({{< ref "/f25/language/pa.md" >}}) | 0 | 145 | 0.0 | /mnt/stockage/packages/f25/libvirt-glib/po/pa.po | 
- | [pt]({{< ref "/f25/language/pt.md" >}}) | 0 | 145 | 0.0 | /mnt/stockage/packages/f25/libvirt-glib/po/pt.po | 
- | [ro]({{< ref "/f25/language/ro.md" >}}) | 0 | 145 | 0.0 | /mnt/stockage/packages/f25/libvirt-glib/po/ro.po | 
- | [si]({{< ref "/f25/language/si.md" >}}) | 0 | 145 | 0.0 | /mnt/stockage/packages/f25/libvirt-glib/po/si.po | 
- | [sk]({{< ref "/f25/language/sk.md" >}}) | 0 | 145 | 0.0 | /mnt/stockage/packages/f25/libvirt-glib/po/sk.po | 
- | [sl]({{< ref "/f25/language/sl.md" >}}) | 0 | 145 | 0.0 | /mnt/stockage/packages/f25/libvirt-glib/po/sl.po | 
- | [sq]({{< ref "/f25/language/sq.md" >}}) | 0 | 145 | 0.0 | /mnt/stockage/packages/f25/libvirt-glib/po/sq.po | 
- | [sr]({{< ref "/f25/language/sr.md" >}}) | 0 | 145 | 0.0 | /mnt/stockage/packages/f25/libvirt-glib/po/sr.po | 
- | [sr_Latn]({{< ref "/f25/language/sr_Latn.md" >}}) | 0 | 145 | 0.0 | /mnt/stockage/packages/f25/libvirt-glib/po/sr@latin.po | 
- | [sv]({{< ref "/f25/language/sv.md" >}}) | 0 | 145 | 0.0 | /mnt/stockage/packages/f25/libvirt-glib/po/sv.po | 
- | [ta]({{< ref "/f25/language/ta.md" >}}) | 0 | 145 | 0.0 | /mnt/stockage/packages/f25/libvirt-glib/po/ta.po | 
- | [te]({{< ref "/f25/language/te.md" >}}) | 0 | 145 | 0.0 | /mnt/stockage/packages/f25/libvirt-glib/po/te.po | 
- | [tg]({{< ref "/f25/language/tg.md" >}}) | 0 | 145 | 0.0 | /mnt/stockage/packages/f25/libvirt-glib/po/tg.po | 
- | [th]({{< ref "/f25/language/th.md" >}}) | 0 | 145 | 0.0 | /mnt/stockage/packages/f25/libvirt-glib/po/th.po | 
- | [tr]({{< ref "/f25/language/tr.md" >}}) | 0 | 145 | 0.0 | /mnt/stockage/packages/f25/libvirt-glib/po/tr.po | 
- | [tw]({{< ref "/f25/language/tw.md" >}}) | 0 | 145 | 0.0 | /mnt/stockage/packages/f25/libvirt-glib/po/tw.po | 
- | [ur]({{< ref "/f25/language/ur.md" >}}) | 0 | 145 | 0.0 | /mnt/stockage/packages/f25/libvirt-glib/po/ur.po | 
- | [vi]({{< ref "/f25/language/vi.md" >}}) | 0 | 145 | 0.0 | /mnt/stockage/packages/f25/libvirt-glib/po/vi.po | 
- | [yo]({{< ref "/f25/language/yo.md" >}}) | 0 | 145 | 0.0 | /mnt/stockage/packages/f25/libvirt-glib/po/yo.po | 
- | [zh_Hans]({{< ref "/f25/language/zh_Hans.md" >}}) | 0 | 145 | 0.0 | /mnt/stockage/packages/f25/libvirt-glib/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f25/language/zh_Hant.md" >}}) | 0 | 145 | 0.0 | /mnt/stockage/packages/f25/libvirt-glib/po/zh_TW.po | 
- | [zh_Hant_HK]({{< ref "/f25/language/zh_Hant_HK.md" >}}) | 0 | 145 | 0.0 | /mnt/stockage/packages/f25/libvirt-glib/po/zh_HK.po | 
- | [zu]({{< ref "/f25/language/zu.md" >}}) | 0 | 145 | 0.0 | /mnt/stockage/packages/f25/libvirt-glib/po/zu.po | 
+ | [ca](/f25/language/ca) | 121 | 145 | 83.4 | /mnt/stockage/packages/f25/libvirt-glib/po/ca.po | 
+ | [en_GB](/f25/language/en_GB) | 121 | 145 | 83.4 | /mnt/stockage/packages/f25/libvirt-glib/po/en_GB.po | 
+ | [fr](/f25/language/fr) | 121 | 145 | 83.4 | /mnt/stockage/packages/f25/libvirt-glib/po/fr.po | 
+ | [hi](/f25/language/hi) | 121 | 145 | 83.4 | /mnt/stockage/packages/f25/libvirt-glib/po/hi.po | 
+ | [ja](/f25/language/ja) | 121 | 145 | 83.4 | /mnt/stockage/packages/f25/libvirt-glib/po/ja.po | 
+ | [pl](/f25/language/pl) | 121 | 145 | 83.4 | /mnt/stockage/packages/f25/libvirt-glib/po/pl.po | 
+ | [pt_BR](/f25/language/pt_BR) | 121 | 145 | 83.4 | /mnt/stockage/packages/f25/libvirt-glib/po/pt_BR.po | 
+ | [uk](/f25/language/uk) | 121 | 145 | 83.4 | /mnt/stockage/packages/f25/libvirt-glib/po/uk.po | 
+ | [es](/f25/language/es) | 113 | 145 | 77.9 | /mnt/stockage/packages/f25/libvirt-glib/po/es.po | 
+ | [ru](/f25/language/ru) | 4 | 145 | 2.8 | /mnt/stockage/packages/f25/libvirt-glib/po/ru.po | 
+ | [af](/f25/language/af) | 0 | 145 | 0.0 | /mnt/stockage/packages/f25/libvirt-glib/po/af.po | 
+ | [am](/f25/language/am) | 0 | 145 | 0.0 | /mnt/stockage/packages/f25/libvirt-glib/po/am.po | 
+ | [anp](/f25/language/anp) | 0 | 145 | 0.0 | /mnt/stockage/packages/f25/libvirt-glib/po/anp.po | 
+ | [ar](/f25/language/ar) | 0 | 145 | 0.0 | /mnt/stockage/packages/f25/libvirt-glib/po/ar.po | 
+ | [as](/f25/language/as) | 0 | 145 | 0.0 | /mnt/stockage/packages/f25/libvirt-glib/po/as.po | 
+ | [ast](/f25/language/ast) | 0 | 145 | 0.0 | /mnt/stockage/packages/f25/libvirt-glib/po/ast.po | 
+ | [bal](/f25/language/bal) | 0 | 145 | 0.0 | /mnt/stockage/packages/f25/libvirt-glib/po/bal.po | 
+ | [be](/f25/language/be) | 0 | 145 | 0.0 | /mnt/stockage/packages/f25/libvirt-glib/po/be.po | 
+ | [bg](/f25/language/bg) | 0 | 145 | 0.0 | /mnt/stockage/packages/f25/libvirt-glib/po/bg.po | 
+ | [bn](/f25/language/bn) | 0 | 145 | 0.0 | /mnt/stockage/packages/f25/libvirt-glib/po/bn.po | 
+ | [bn_IN](/f25/language/bn_IN) | 0 | 145 | 0.0 | /mnt/stockage/packages/f25/libvirt-glib/po/bn_IN.po | 
+ | [bo](/f25/language/bo) | 0 | 145 | 0.0 | /mnt/stockage/packages/f25/libvirt-glib/po/bo.po | 
+ | [br](/f25/language/br) | 0 | 145 | 0.0 | /mnt/stockage/packages/f25/libvirt-glib/po/br.po | 
+ | [brx](/f25/language/brx) | 0 | 145 | 0.0 | /mnt/stockage/packages/f25/libvirt-glib/po/brx.po | 
+ | [bs](/f25/language/bs) | 0 | 145 | 0.0 | /mnt/stockage/packages/f25/libvirt-glib/po/bs.po | 
+ | [cs](/f25/language/cs) | 0 | 145 | 0.0 | /mnt/stockage/packages/f25/libvirt-glib/po/cs.po | 
+ | [cy](/f25/language/cy) | 0 | 145 | 0.0 | /mnt/stockage/packages/f25/libvirt-glib/po/cy.po | 
+ | [da](/f25/language/da) | 0 | 145 | 0.0 | /mnt/stockage/packages/f25/libvirt-glib/po/da.po | 
+ | [de](/f25/language/de) | 0 | 145 | 0.0 | /mnt/stockage/packages/f25/libvirt-glib/po/de.po | 
+ | [de_CH](/f25/language/de_CH) | 0 | 145 | 0.0 | /mnt/stockage/packages/f25/libvirt-glib/po/de_CH.po | 
+ | [el](/f25/language/el) | 0 | 145 | 0.0 | /mnt/stockage/packages/f25/libvirt-glib/po/el.po | 
+ | [eo](/f25/language/eo) | 0 | 145 | 0.0 | /mnt/stockage/packages/f25/libvirt-glib/po/eo.po | 
+ | [error](/f25/language/error) | 0 | 435 | 0.0 | /mnt/stockage/packages/f25/libvirt-glib/po/kw@kkcor.po/mnt/stockage/packages/f25/libvirt-glib/po/wba.po/mnt/stockage/packages/f25/libvirt-glib/po/kw@uccor.po | 
+ | [et](/f25/language/et) | 0 | 145 | 0.0 | /mnt/stockage/packages/f25/libvirt-glib/po/et.po | 
+ | [eu](/f25/language/eu) | 0 | 145 | 0.0 | /mnt/stockage/packages/f25/libvirt-glib/po/eu.po | 
+ | [fa](/f25/language/fa) | 0 | 145 | 0.0 | /mnt/stockage/packages/f25/libvirt-glib/po/fa.po | 
+ | [fi](/f25/language/fi) | 0 | 145 | 0.0 | /mnt/stockage/packages/f25/libvirt-glib/po/fi.po | 
+ | [gl](/f25/language/gl) | 0 | 145 | 0.0 | /mnt/stockage/packages/f25/libvirt-glib/po/gl.po | 
+ | [gu](/f25/language/gu) | 0 | 145 | 0.0 | /mnt/stockage/packages/f25/libvirt-glib/po/gu.po | 
+ | [he](/f25/language/he) | 0 | 145 | 0.0 | /mnt/stockage/packages/f25/libvirt-glib/po/he.po | 
+ | [hr](/f25/language/hr) | 0 | 145 | 0.0 | /mnt/stockage/packages/f25/libvirt-glib/po/hr.po | 
+ | [hu](/f25/language/hu) | 0 | 145 | 0.0 | /mnt/stockage/packages/f25/libvirt-glib/po/hu.po | 
+ | [ia](/f25/language/ia) | 0 | 145 | 0.0 | /mnt/stockage/packages/f25/libvirt-glib/po/ia.po | 
+ | [id](/f25/language/id) | 0 | 145 | 0.0 | /mnt/stockage/packages/f25/libvirt-glib/po/id.po | 
+ | [ilo](/f25/language/ilo) | 0 | 145 | 0.0 | /mnt/stockage/packages/f25/libvirt-glib/po/ilo.po | 
+ | [is](/f25/language/is) | 0 | 145 | 0.0 | /mnt/stockage/packages/f25/libvirt-glib/po/is.po | 
+ | [it](/f25/language/it) | 0 | 145 | 0.0 | /mnt/stockage/packages/f25/libvirt-glib/po/it.po | 
+ | [ka](/f25/language/ka) | 0 | 145 | 0.0 | /mnt/stockage/packages/f25/libvirt-glib/po/ka.po | 
+ | [kk](/f25/language/kk) | 0 | 145 | 0.0 | /mnt/stockage/packages/f25/libvirt-glib/po/kk.po | 
+ | [km](/f25/language/km) | 0 | 145 | 0.0 | /mnt/stockage/packages/f25/libvirt-glib/po/km.po | 
+ | [kn](/f25/language/kn) | 0 | 145 | 0.0 | /mnt/stockage/packages/f25/libvirt-glib/po/kn.po | 
+ | [ko](/f25/language/ko) | 0 | 145 | 0.0 | /mnt/stockage/packages/f25/libvirt-glib/po/ko.po | 
+ | [kw](/f25/language/kw) | 0 | 290 | 0.0 | /mnt/stockage/packages/f25/libvirt-glib/po/kw_GB.po/mnt/stockage/packages/f25/libvirt-glib/po/kw.po | 
+ | [ky](/f25/language/ky) | 0 | 145 | 0.0 | /mnt/stockage/packages/f25/libvirt-glib/po/ky.po | 
+ | [lt](/f25/language/lt) | 0 | 145 | 0.0 | /mnt/stockage/packages/f25/libvirt-glib/po/lt.po | 
+ | [lv](/f25/language/lv) | 0 | 145 | 0.0 | /mnt/stockage/packages/f25/libvirt-glib/po/lv.po | 
+ | [mai](/f25/language/mai) | 0 | 145 | 0.0 | /mnt/stockage/packages/f25/libvirt-glib/po/mai.po | 
+ | [mk](/f25/language/mk) | 0 | 145 | 0.0 | /mnt/stockage/packages/f25/libvirt-glib/po/mk.po | 
+ | [ml](/f25/language/ml) | 0 | 145 | 0.0 | /mnt/stockage/packages/f25/libvirt-glib/po/ml.po | 
+ | [mn](/f25/language/mn) | 0 | 145 | 0.0 | /mnt/stockage/packages/f25/libvirt-glib/po/mn.po | 
+ | [mr](/f25/language/mr) | 0 | 145 | 0.0 | /mnt/stockage/packages/f25/libvirt-glib/po/mr.po | 
+ | [ms](/f25/language/ms) | 0 | 145 | 0.0 | /mnt/stockage/packages/f25/libvirt-glib/po/ms.po | 
+ | [nb_NO](/f25/language/nb_NO) | 0 | 145 | 0.0 | /mnt/stockage/packages/f25/libvirt-glib/po/nb.po | 
+ | [nds](/f25/language/nds) | 0 | 145 | 0.0 | /mnt/stockage/packages/f25/libvirt-glib/po/nds.po | 
+ | [ne](/f25/language/ne) | 0 | 145 | 0.0 | /mnt/stockage/packages/f25/libvirt-glib/po/ne.po | 
+ | [nl](/f25/language/nl) | 0 | 145 | 0.0 | /mnt/stockage/packages/f25/libvirt-glib/po/nl.po | 
+ | [nn](/f25/language/nn) | 0 | 145 | 0.0 | /mnt/stockage/packages/f25/libvirt-glib/po/nn.po | 
+ | [nso](/f25/language/nso) | 0 | 145 | 0.0 | /mnt/stockage/packages/f25/libvirt-glib/po/nso.po | 
+ | [or](/f25/language/or) | 0 | 145 | 0.0 | /mnt/stockage/packages/f25/libvirt-glib/po/or.po | 
+ | [pa](/f25/language/pa) | 0 | 145 | 0.0 | /mnt/stockage/packages/f25/libvirt-glib/po/pa.po | 
+ | [pt](/f25/language/pt) | 0 | 145 | 0.0 | /mnt/stockage/packages/f25/libvirt-glib/po/pt.po | 
+ | [ro](/f25/language/ro) | 0 | 145 | 0.0 | /mnt/stockage/packages/f25/libvirt-glib/po/ro.po | 
+ | [si](/f25/language/si) | 0 | 145 | 0.0 | /mnt/stockage/packages/f25/libvirt-glib/po/si.po | 
+ | [sk](/f25/language/sk) | 0 | 145 | 0.0 | /mnt/stockage/packages/f25/libvirt-glib/po/sk.po | 
+ | [sl](/f25/language/sl) | 0 | 145 | 0.0 | /mnt/stockage/packages/f25/libvirt-glib/po/sl.po | 
+ | [sq](/f25/language/sq) | 0 | 145 | 0.0 | /mnt/stockage/packages/f25/libvirt-glib/po/sq.po | 
+ | [sr](/f25/language/sr) | 0 | 145 | 0.0 | /mnt/stockage/packages/f25/libvirt-glib/po/sr.po | 
+ | [sr_Latn](/f25/language/sr_Latn) | 0 | 145 | 0.0 | /mnt/stockage/packages/f25/libvirt-glib/po/sr@latin.po | 
+ | [sv](/f25/language/sv) | 0 | 145 | 0.0 | /mnt/stockage/packages/f25/libvirt-glib/po/sv.po | 
+ | [ta](/f25/language/ta) | 0 | 145 | 0.0 | /mnt/stockage/packages/f25/libvirt-glib/po/ta.po | 
+ | [te](/f25/language/te) | 0 | 145 | 0.0 | /mnt/stockage/packages/f25/libvirt-glib/po/te.po | 
+ | [tg](/f25/language/tg) | 0 | 145 | 0.0 | /mnt/stockage/packages/f25/libvirt-glib/po/tg.po | 
+ | [th](/f25/language/th) | 0 | 145 | 0.0 | /mnt/stockage/packages/f25/libvirt-glib/po/th.po | 
+ | [tr](/f25/language/tr) | 0 | 145 | 0.0 | /mnt/stockage/packages/f25/libvirt-glib/po/tr.po | 
+ | [tw](/f25/language/tw) | 0 | 145 | 0.0 | /mnt/stockage/packages/f25/libvirt-glib/po/tw.po | 
+ | [ur](/f25/language/ur) | 0 | 145 | 0.0 | /mnt/stockage/packages/f25/libvirt-glib/po/ur.po | 
+ | [vi](/f25/language/vi) | 0 | 145 | 0.0 | /mnt/stockage/packages/f25/libvirt-glib/po/vi.po | 
+ | [yo](/f25/language/yo) | 0 | 145 | 0.0 | /mnt/stockage/packages/f25/libvirt-glib/po/yo.po | 
+ | [zh_Hans](/f25/language/zh_Hans) | 0 | 145 | 0.0 | /mnt/stockage/packages/f25/libvirt-glib/po/zh_CN.po | 
+ | [zh_Hant](/f25/language/zh_Hant) | 0 | 145 | 0.0 | /mnt/stockage/packages/f25/libvirt-glib/po/zh_TW.po | 
+ | [zh_Hant_HK](/f25/language/zh_Hant_HK) | 0 | 145 | 0.0 | /mnt/stockage/packages/f25/libvirt-glib/po/zh_HK.po | 
+ | [zu](/f25/language/zu) | 0 | 145 | 0.0 | /mnt/stockage/packages/f25/libvirt-glib/po/zu.po | 
 {.sortable}
 
 

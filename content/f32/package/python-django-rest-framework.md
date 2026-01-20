@@ -18,50 +18,50 @@ The package python-django-rest-framework (version 3.11.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f32/language/de.md" >}}) | 582 | 582 | 100.0 | /mnt/stockage/packages/f32/python-django-rest-framework/rest_framework/locale/de/LC_MESSAGES/django.po | 
- | [en]({{< ref "/f32/language/en.md" >}}) | 582 | 582 | 100.0 | /mnt/stockage/packages/f32/python-django-rest-framework/rest_framework/locale/en/LC_MESSAGES/django.po | 
- | [es]({{< ref "/f32/language/es.md" >}}) | 582 | 582 | 100.0 | /mnt/stockage/packages/f32/python-django-rest-framework/rest_framework/locale/es/LC_MESSAGES/django.po | 
- | [fi]({{< ref "/f32/language/fi.md" >}}) | 582 | 582 | 100.0 | /mnt/stockage/packages/f32/python-django-rest-framework/rest_framework/locale/fi/LC_MESSAGES/django.po | 
- | [fr]({{< ref "/f32/language/fr.md" >}}) | 582 | 582 | 100.0 | /mnt/stockage/packages/f32/python-django-rest-framework/rest_framework/locale/fr/LC_MESSAGES/django.po | 
- | [ja]({{< ref "/f32/language/ja.md" >}}) | 582 | 582 | 100.0 | /mnt/stockage/packages/f32/python-django-rest-framework/rest_framework/locale/ja/LC_MESSAGES/django.po | 
- | [lv]({{< ref "/f32/language/lv.md" >}}) | 582 | 582 | 100.0 | /mnt/stockage/packages/f32/python-django-rest-framework/rest_framework/locale/lv/LC_MESSAGES/django.po | 
- | [nl]({{< ref "/f32/language/nl.md" >}}) | 582 | 582 | 100.0 | /mnt/stockage/packages/f32/python-django-rest-framework/rest_framework/locale/nl/LC_MESSAGES/django.po | 
- | [pl]({{< ref "/f32/language/pl.md" >}}) | 582 | 582 | 100.0 | /mnt/stockage/packages/f32/python-django-rest-framework/rest_framework/locale/pl/LC_MESSAGES/django.po | 
- | [pt_BR]({{< ref "/f32/language/pt_BR.md" >}}) | 582 | 582 | 100.0 | /mnt/stockage/packages/f32/python-django-rest-framework/rest_framework/locale/pt_BR/LC_MESSAGES/django.po | 
- | [sl]({{< ref "/f32/language/sl.md" >}}) | 582 | 582 | 100.0 | /mnt/stockage/packages/f32/python-django-rest-framework/rest_framework/locale/sl/LC_MESSAGES/django.po | 
- | [sv]({{< ref "/f32/language/sv.md" >}}) | 582 | 582 | 100.0 | /mnt/stockage/packages/f32/python-django-rest-framework/rest_framework/locale/sv/LC_MESSAGES/django.po | 
- | [zh_Hans]({{< ref "/f32/language/zh_Hans.md" >}}) | 1164 | 1164 | 100.0 | /mnt/stockage/packages/f32/python-django-rest-framework/rest_framework/locale/zh_Hans/LC_MESSAGES/django.po/mnt/stockage/packages/f32/python-django-rest-framework/rest_framework/locale/zh_CN/LC_MESSAGES/django.po | 
- | [da]({{< ref "/f32/language/da.md" >}}) | 580 | 582 | 99.7 | /mnt/stockage/packages/f32/python-django-rest-framework/rest_framework/locale/da/LC_MESSAGES/django.po | 
- | [uk]({{< ref "/f32/language/uk.md" >}}) | 571 | 582 | 98.1 | /mnt/stockage/packages/f32/python-django-rest-framework/rest_framework/locale/uk/LC_MESSAGES/django.po | 
- | [ro]({{< ref "/f32/language/ro.md" >}}) | 569 | 582 | 97.8 | /mnt/stockage/packages/f32/python-django-rest-framework/rest_framework/locale/ro/LC_MESSAGES/django.po | 
- | [ru]({{< ref "/f32/language/ru.md" >}}) | 569 | 582 | 97.8 | /mnt/stockage/packages/f32/python-django-rest-framework/rest_framework/locale/ru/LC_MESSAGES/django.po | 
- | [tr]({{< ref "/f32/language/tr.md" >}}) | 1138 | 1164 | 97.8 | /mnt/stockage/packages/f32/python-django-rest-framework/rest_framework/locale/tr_TR/LC_MESSAGES/django.po/mnt/stockage/packages/f32/python-django-rest-framework/rest_framework/locale/tr/LC_MESSAGES/django.po | 
- | [ko]({{< ref "/f32/language/ko.md" >}}) | 563 | 582 | 96.7 | /mnt/stockage/packages/f32/python-django-rest-framework/rest_framework/locale/ko_KR/LC_MESSAGES/django.po | 
- | [it]({{< ref "/f32/language/it.md" >}}) | 558 | 582 | 95.9 | /mnt/stockage/packages/f32/python-django-rest-framework/rest_framework/locale/it/LC_MESSAGES/django.po | 
- | [mk]({{< ref "/f32/language/mk.md" >}}) | 546 | 582 | 93.8 | /mnt/stockage/packages/f32/python-django-rest-framework/rest_framework/locale/mk/LC_MESSAGES/django.po | 
- | [cs]({{< ref "/f32/language/cs.md" >}}) | 489 | 582 | 84.0 | /mnt/stockage/packages/f32/python-django-rest-framework/rest_framework/locale/cs/LC_MESSAGES/django.po | 
- | [et]({{< ref "/f32/language/et.md" >}}) | 489 | 582 | 84.0 | /mnt/stockage/packages/f32/python-django-rest-framework/rest_framework/locale/et/LC_MESSAGES/django.po | 
- | [sk]({{< ref "/f32/language/sk.md" >}}) | 489 | 582 | 84.0 | /mnt/stockage/packages/f32/python-django-rest-framework/rest_framework/locale/sk/LC_MESSAGES/django.po | 
- | [hu]({{< ref "/f32/language/hu.md" >}}) | 472 | 582 | 81.1 | /mnt/stockage/packages/f32/python-django-rest-framework/rest_framework/locale/hu/LC_MESSAGES/django.po | 
- | [nb_NO]({{< ref "/f32/language/nb_NO.md" >}}) | 582 | 1164 | 50.0 | /mnt/stockage/packages/f32/python-django-rest-framework/rest_framework/locale/no/LC_MESSAGES/django.po/mnt/stockage/packages/f32/python-django-rest-framework/rest_framework/locale/nb/LC_MESSAGES/django.po | 
- | [el]({{< ref "/f32/language/el.md" >}}) | 569 | 1164 | 48.9 | /mnt/stockage/packages/f32/python-django-rest-framework/rest_framework/locale/el_GR/LC_MESSAGES/django.po/mnt/stockage/packages/f32/python-django-rest-framework/rest_framework/locale/el/LC_MESSAGES/django.po | 
- | [ar]({{< ref "/f32/language/ar.md" >}}) | 283 | 582 | 48.6 | /mnt/stockage/packages/f32/python-django-rest-framework/rest_framework/locale/ar/LC_MESSAGES/django.po | 
- | [ca]({{< ref "/f32/language/ca.md" >}}) | 543 | 1164 | 46.6 | /mnt/stockage/packages/f32/python-django-rest-framework/rest_framework/locale/ca_ES/LC_MESSAGES/django.po/mnt/stockage/packages/f32/python-django-rest-framework/rest_framework/locale/ca/LC_MESSAGES/django.po | 
- | [gl]({{< ref "/f32/language/gl.md" >}}) | 5 | 1164 | 0.4 | /mnt/stockage/packages/f32/python-django-rest-framework/rest_framework/locale/gl_ES/LC_MESSAGES/django.po/mnt/stockage/packages/f32/python-django-rest-framework/rest_framework/locale/gl/LC_MESSAGES/django.po | 
- | [ach]({{< ref "/f32/language/ach.md" >}}) | 0 | 582 | 0.0 | /mnt/stockage/packages/f32/python-django-rest-framework/rest_framework/locale/ach/LC_MESSAGES/django.po | 
- | [be]({{< ref "/f32/language/be.md" >}}) | 0 | 582 | 0.0 | /mnt/stockage/packages/f32/python-django-rest-framework/rest_framework/locale/be/LC_MESSAGES/django.po | 
- | [en_AU]({{< ref "/f32/language/en_AU.md" >}}) | 0 | 582 | 0.0 | /mnt/stockage/packages/f32/python-django-rest-framework/rest_framework/locale/en_AU/LC_MESSAGES/django.po | 
- | [en_CA]({{< ref "/f32/language/en_CA.md" >}}) | 0 | 582 | 0.0 | /mnt/stockage/packages/f32/python-django-rest-framework/rest_framework/locale/en_CA/LC_MESSAGES/django.po | 
- | [en_US]({{< ref "/f32/language/en_US.md" >}}) | 0 | 582 | 0.0 | /mnt/stockage/packages/f32/python-django-rest-framework/rest_framework/locale/en_US/LC_MESSAGES/django.po | 
- | [fa]({{< ref "/f32/language/fa.md" >}}) | 0 | 1164 | 0.0 | /mnt/stockage/packages/f32/python-django-rest-framework/rest_framework/locale/fa_IR/LC_MESSAGES/django.po/mnt/stockage/packages/f32/python-django-rest-framework/rest_framework/locale/fa/LC_MESSAGES/django.po | 
- | [fr_CA]({{< ref "/f32/language/fr_CA.md" >}}) | 0 | 582 | 0.0 | /mnt/stockage/packages/f32/python-django-rest-framework/rest_framework/locale/fr_CA/LC_MESSAGES/django.po | 
- | [he_IL]({{< ref "/f32/language/he_IL.md" >}}) | 0 | 582 | 0.0 | /mnt/stockage/packages/f32/python-django-rest-framework/rest_framework/locale/he_IL/LC_MESSAGES/django.po | 
- | [id]({{< ref "/f32/language/id.md" >}}) | 0 | 582 | 0.0 | /mnt/stockage/packages/f32/python-django-rest-framework/rest_framework/locale/id/LC_MESSAGES/django.po | 
- | [nn]({{< ref "/f32/language/nn.md" >}}) | 0 | 582 | 0.0 | /mnt/stockage/packages/f32/python-django-rest-framework/rest_framework/locale/nn/LC_MESSAGES/django.po | 
- | [pt]({{< ref "/f32/language/pt.md" >}}) | 0 | 582 | 0.0 | /mnt/stockage/packages/f32/python-django-rest-framework/rest_framework/locale/pt/LC_MESSAGES/django.po | 
- | [pt_PT]({{< ref "/f32/language/pt_PT.md" >}}) | 0 | 582 | 0.0 | /mnt/stockage/packages/f32/python-django-rest-framework/rest_framework/locale/pt_PT/LC_MESSAGES/django.po | 
- | [vi]({{< ref "/f32/language/vi.md" >}}) | 0 | 582 | 0.0 | /mnt/stockage/packages/f32/python-django-rest-framework/rest_framework/locale/vi/LC_MESSAGES/django.po | 
- | [zh_Hant]({{< ref "/f32/language/zh_Hant.md" >}}) | 0 | 1164 | 0.0 | /mnt/stockage/packages/f32/python-django-rest-framework/rest_framework/locale/zh_TW/LC_MESSAGES/django.po/mnt/stockage/packages/f32/python-django-rest-framework/rest_framework/locale/zh_Hant/LC_MESSAGES/django.po | 
+ | [de](/f32/language/de) | 582 | 582 | 100.0 | /mnt/stockage/packages/f32/python-django-rest-framework/rest_framework/locale/de/LC_MESSAGES/django.po | 
+ | [en](/f32/language/en) | 582 | 582 | 100.0 | /mnt/stockage/packages/f32/python-django-rest-framework/rest_framework/locale/en/LC_MESSAGES/django.po | 
+ | [es](/f32/language/es) | 582 | 582 | 100.0 | /mnt/stockage/packages/f32/python-django-rest-framework/rest_framework/locale/es/LC_MESSAGES/django.po | 
+ | [fi](/f32/language/fi) | 582 | 582 | 100.0 | /mnt/stockage/packages/f32/python-django-rest-framework/rest_framework/locale/fi/LC_MESSAGES/django.po | 
+ | [fr](/f32/language/fr) | 582 | 582 | 100.0 | /mnt/stockage/packages/f32/python-django-rest-framework/rest_framework/locale/fr/LC_MESSAGES/django.po | 
+ | [ja](/f32/language/ja) | 582 | 582 | 100.0 | /mnt/stockage/packages/f32/python-django-rest-framework/rest_framework/locale/ja/LC_MESSAGES/django.po | 
+ | [lv](/f32/language/lv) | 582 | 582 | 100.0 | /mnt/stockage/packages/f32/python-django-rest-framework/rest_framework/locale/lv/LC_MESSAGES/django.po | 
+ | [nl](/f32/language/nl) | 582 | 582 | 100.0 | /mnt/stockage/packages/f32/python-django-rest-framework/rest_framework/locale/nl/LC_MESSAGES/django.po | 
+ | [pl](/f32/language/pl) | 582 | 582 | 100.0 | /mnt/stockage/packages/f32/python-django-rest-framework/rest_framework/locale/pl/LC_MESSAGES/django.po | 
+ | [pt_BR](/f32/language/pt_BR) | 582 | 582 | 100.0 | /mnt/stockage/packages/f32/python-django-rest-framework/rest_framework/locale/pt_BR/LC_MESSAGES/django.po | 
+ | [sl](/f32/language/sl) | 582 | 582 | 100.0 | /mnt/stockage/packages/f32/python-django-rest-framework/rest_framework/locale/sl/LC_MESSAGES/django.po | 
+ | [sv](/f32/language/sv) | 582 | 582 | 100.0 | /mnt/stockage/packages/f32/python-django-rest-framework/rest_framework/locale/sv/LC_MESSAGES/django.po | 
+ | [zh_Hans](/f32/language/zh_Hans) | 1164 | 1164 | 100.0 | /mnt/stockage/packages/f32/python-django-rest-framework/rest_framework/locale/zh_Hans/LC_MESSAGES/django.po/mnt/stockage/packages/f32/python-django-rest-framework/rest_framework/locale/zh_CN/LC_MESSAGES/django.po | 
+ | [da](/f32/language/da) | 580 | 582 | 99.7 | /mnt/stockage/packages/f32/python-django-rest-framework/rest_framework/locale/da/LC_MESSAGES/django.po | 
+ | [uk](/f32/language/uk) | 571 | 582 | 98.1 | /mnt/stockage/packages/f32/python-django-rest-framework/rest_framework/locale/uk/LC_MESSAGES/django.po | 
+ | [ro](/f32/language/ro) | 569 | 582 | 97.8 | /mnt/stockage/packages/f32/python-django-rest-framework/rest_framework/locale/ro/LC_MESSAGES/django.po | 
+ | [ru](/f32/language/ru) | 569 | 582 | 97.8 | /mnt/stockage/packages/f32/python-django-rest-framework/rest_framework/locale/ru/LC_MESSAGES/django.po | 
+ | [tr](/f32/language/tr) | 1138 | 1164 | 97.8 | /mnt/stockage/packages/f32/python-django-rest-framework/rest_framework/locale/tr_TR/LC_MESSAGES/django.po/mnt/stockage/packages/f32/python-django-rest-framework/rest_framework/locale/tr/LC_MESSAGES/django.po | 
+ | [ko](/f32/language/ko) | 563 | 582 | 96.7 | /mnt/stockage/packages/f32/python-django-rest-framework/rest_framework/locale/ko_KR/LC_MESSAGES/django.po | 
+ | [it](/f32/language/it) | 558 | 582 | 95.9 | /mnt/stockage/packages/f32/python-django-rest-framework/rest_framework/locale/it/LC_MESSAGES/django.po | 
+ | [mk](/f32/language/mk) | 546 | 582 | 93.8 | /mnt/stockage/packages/f32/python-django-rest-framework/rest_framework/locale/mk/LC_MESSAGES/django.po | 
+ | [cs](/f32/language/cs) | 489 | 582 | 84.0 | /mnt/stockage/packages/f32/python-django-rest-framework/rest_framework/locale/cs/LC_MESSAGES/django.po | 
+ | [et](/f32/language/et) | 489 | 582 | 84.0 | /mnt/stockage/packages/f32/python-django-rest-framework/rest_framework/locale/et/LC_MESSAGES/django.po | 
+ | [sk](/f32/language/sk) | 489 | 582 | 84.0 | /mnt/stockage/packages/f32/python-django-rest-framework/rest_framework/locale/sk/LC_MESSAGES/django.po | 
+ | [hu](/f32/language/hu) | 472 | 582 | 81.1 | /mnt/stockage/packages/f32/python-django-rest-framework/rest_framework/locale/hu/LC_MESSAGES/django.po | 
+ | [nb_NO](/f32/language/nb_NO) | 582 | 1164 | 50.0 | /mnt/stockage/packages/f32/python-django-rest-framework/rest_framework/locale/no/LC_MESSAGES/django.po/mnt/stockage/packages/f32/python-django-rest-framework/rest_framework/locale/nb/LC_MESSAGES/django.po | 
+ | [el](/f32/language/el) | 569 | 1164 | 48.9 | /mnt/stockage/packages/f32/python-django-rest-framework/rest_framework/locale/el_GR/LC_MESSAGES/django.po/mnt/stockage/packages/f32/python-django-rest-framework/rest_framework/locale/el/LC_MESSAGES/django.po | 
+ | [ar](/f32/language/ar) | 283 | 582 | 48.6 | /mnt/stockage/packages/f32/python-django-rest-framework/rest_framework/locale/ar/LC_MESSAGES/django.po | 
+ | [ca](/f32/language/ca) | 543 | 1164 | 46.6 | /mnt/stockage/packages/f32/python-django-rest-framework/rest_framework/locale/ca_ES/LC_MESSAGES/django.po/mnt/stockage/packages/f32/python-django-rest-framework/rest_framework/locale/ca/LC_MESSAGES/django.po | 
+ | [gl](/f32/language/gl) | 5 | 1164 | 0.4 | /mnt/stockage/packages/f32/python-django-rest-framework/rest_framework/locale/gl_ES/LC_MESSAGES/django.po/mnt/stockage/packages/f32/python-django-rest-framework/rest_framework/locale/gl/LC_MESSAGES/django.po | 
+ | [ach](/f32/language/ach) | 0 | 582 | 0.0 | /mnt/stockage/packages/f32/python-django-rest-framework/rest_framework/locale/ach/LC_MESSAGES/django.po | 
+ | [be](/f32/language/be) | 0 | 582 | 0.0 | /mnt/stockage/packages/f32/python-django-rest-framework/rest_framework/locale/be/LC_MESSAGES/django.po | 
+ | [en_AU](/f32/language/en_AU) | 0 | 582 | 0.0 | /mnt/stockage/packages/f32/python-django-rest-framework/rest_framework/locale/en_AU/LC_MESSAGES/django.po | 
+ | [en_CA](/f32/language/en_CA) | 0 | 582 | 0.0 | /mnt/stockage/packages/f32/python-django-rest-framework/rest_framework/locale/en_CA/LC_MESSAGES/django.po | 
+ | [en_US](/f32/language/en_US) | 0 | 582 | 0.0 | /mnt/stockage/packages/f32/python-django-rest-framework/rest_framework/locale/en_US/LC_MESSAGES/django.po | 
+ | [fa](/f32/language/fa) | 0 | 1164 | 0.0 | /mnt/stockage/packages/f32/python-django-rest-framework/rest_framework/locale/fa_IR/LC_MESSAGES/django.po/mnt/stockage/packages/f32/python-django-rest-framework/rest_framework/locale/fa/LC_MESSAGES/django.po | 
+ | [fr_CA](/f32/language/fr_CA) | 0 | 582 | 0.0 | /mnt/stockage/packages/f32/python-django-rest-framework/rest_framework/locale/fr_CA/LC_MESSAGES/django.po | 
+ | [he_IL](/f32/language/he_IL) | 0 | 582 | 0.0 | /mnt/stockage/packages/f32/python-django-rest-framework/rest_framework/locale/he_IL/LC_MESSAGES/django.po | 
+ | [id](/f32/language/id) | 0 | 582 | 0.0 | /mnt/stockage/packages/f32/python-django-rest-framework/rest_framework/locale/id/LC_MESSAGES/django.po | 
+ | [nn](/f32/language/nn) | 0 | 582 | 0.0 | /mnt/stockage/packages/f32/python-django-rest-framework/rest_framework/locale/nn/LC_MESSAGES/django.po | 
+ | [pt](/f32/language/pt) | 0 | 582 | 0.0 | /mnt/stockage/packages/f32/python-django-rest-framework/rest_framework/locale/pt/LC_MESSAGES/django.po | 
+ | [pt_PT](/f32/language/pt_PT) | 0 | 582 | 0.0 | /mnt/stockage/packages/f32/python-django-rest-framework/rest_framework/locale/pt_PT/LC_MESSAGES/django.po | 
+ | [vi](/f32/language/vi) | 0 | 582 | 0.0 | /mnt/stockage/packages/f32/python-django-rest-framework/rest_framework/locale/vi/LC_MESSAGES/django.po | 
+ | [zh_Hant](/f32/language/zh_Hant) | 0 | 1164 | 0.0 | /mnt/stockage/packages/f32/python-django-rest-framework/rest_framework/locale/zh_TW/LC_MESSAGES/django.po/mnt/stockage/packages/f32/python-django-rest-framework/rest_framework/locale/zh_Hant/LC_MESSAGES/django.po | 
 {.sortable}
 
 

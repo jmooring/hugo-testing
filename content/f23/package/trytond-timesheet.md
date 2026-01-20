@@ -18,16 +18,16 @@ The package trytond-timesheet (version 2.6.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f23/language/ca.md" >}}) | 256 | 256 | 100.0 | /mnt/stockage/packages/f23/trytond-timesheet/locale/ca_ES.po | 
- | [de]({{< ref "/f23/language/de.md" >}}) | 256 | 256 | 100.0 | /mnt/stockage/packages/f23/trytond-timesheet/locale/de_DE.po | 
- | [es]({{< ref "/f23/language/es.md" >}}) | 256 | 256 | 100.0 | /mnt/stockage/packages/f23/trytond-timesheet/locale/es_ES.po | 
- | [es_AR]({{< ref "/f23/language/es_AR.md" >}}) | 256 | 256 | 100.0 | /mnt/stockage/packages/f23/trytond-timesheet/locale/es_AR.po | 
- | [es_CO]({{< ref "/f23/language/es_CO.md" >}}) | 256 | 256 | 100.0 | /mnt/stockage/packages/f23/trytond-timesheet/locale/es_CO.po | 
- | [fr]({{< ref "/f23/language/fr.md" >}}) | 303 | 303 | 100.0 | /mnt/stockage/packages/f23/trytond-timesheet/locale/fr_FR.po | 
- | [bg]({{< ref "/f23/language/bg.md" >}}) | 254 | 256 | 99.2 | /mnt/stockage/packages/f23/trytond-timesheet/locale/bg_BG.po | 
- | [nl]({{< ref "/f23/language/nl.md" >}}) | 148 | 258 | 57.4 | /mnt/stockage/packages/f23/trytond-timesheet/locale/nl_NL.po | 
- | [cs]({{< ref "/f23/language/cs.md" >}}) | 0 | 258 | 0.0 | /mnt/stockage/packages/f23/trytond-timesheet/locale/cs_CZ.po | 
- | [ru]({{< ref "/f23/language/ru.md" >}}) | 0 | 258 | 0.0 | /mnt/stockage/packages/f23/trytond-timesheet/locale/ru_RU.po | 
+ | [ca](/f23/language/ca) | 256 | 256 | 100.0 | /mnt/stockage/packages/f23/trytond-timesheet/locale/ca_ES.po | 
+ | [de](/f23/language/de) | 256 | 256 | 100.0 | /mnt/stockage/packages/f23/trytond-timesheet/locale/de_DE.po | 
+ | [es](/f23/language/es) | 256 | 256 | 100.0 | /mnt/stockage/packages/f23/trytond-timesheet/locale/es_ES.po | 
+ | [es_AR](/f23/language/es_AR) | 256 | 256 | 100.0 | /mnt/stockage/packages/f23/trytond-timesheet/locale/es_AR.po | 
+ | [es_CO](/f23/language/es_CO) | 256 | 256 | 100.0 | /mnt/stockage/packages/f23/trytond-timesheet/locale/es_CO.po | 
+ | [fr](/f23/language/fr) | 303 | 303 | 100.0 | /mnt/stockage/packages/f23/trytond-timesheet/locale/fr_FR.po | 
+ | [bg](/f23/language/bg) | 254 | 256 | 99.2 | /mnt/stockage/packages/f23/trytond-timesheet/locale/bg_BG.po | 
+ | [nl](/f23/language/nl) | 148 | 258 | 57.4 | /mnt/stockage/packages/f23/trytond-timesheet/locale/nl_NL.po | 
+ | [cs](/f23/language/cs) | 0 | 258 | 0.0 | /mnt/stockage/packages/f23/trytond-timesheet/locale/cs_CZ.po | 
+ | [ru](/f23/language/ru) | 0 | 258 | 0.0 | /mnt/stockage/packages/f23/trytond-timesheet/locale/ru_RU.po | 
 {.sortable}
 
 

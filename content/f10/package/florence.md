@@ -18,7 +18,7 @@ The package florence (version 0.4.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f10/language/fr.md" >}}) | 872 | 872 | 100.0 | /mnt/stockage/packages/f10/florence/po/fr.po | 
+ | [fr](/f10/language/fr) | 872 | 872 | 100.0 | /mnt/stockage/packages/f10/florence/po/fr.po | 
 {.sortable}
 
 

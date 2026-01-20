@@ -18,11 +18,11 @@ The package ibus-pinyin (version 1.5.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f38/language/fr.md" >}}) | 170 | 170 | 100.0 | /mnt/stockage/packages/f38/ibus-pinyin/po/fr.po | 
- | [zh_Hans]({{< ref "/f38/language/zh_Hans.md" >}}) | 168 | 168 | 100.0 | /mnt/stockage/packages/f38/ibus-pinyin/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f38/language/zh_Hant.md" >}}) | 168 | 168 | 100.0 | /mnt/stockage/packages/f38/ibus-pinyin/po/zh_TW.po | 
- | [zh_Hant_HK]({{< ref "/f38/language/zh_Hant_HK.md" >}}) | 168 | 168 | 100.0 | /mnt/stockage/packages/f38/ibus-pinyin/po/zh_HK.po | 
- | [ru]({{< ref "/f38/language/ru.md" >}}) | 63 | 157 | 40.1 | /mnt/stockage/packages/f38/ibus-pinyin/po/ru.po | 
+ | [fr](/f38/language/fr) | 170 | 170 | 100.0 | /mnt/stockage/packages/f38/ibus-pinyin/po/fr.po | 
+ | [zh_Hans](/f38/language/zh_Hans) | 168 | 168 | 100.0 | /mnt/stockage/packages/f38/ibus-pinyin/po/zh_CN.po | 
+ | [zh_Hant](/f38/language/zh_Hant) | 168 | 168 | 100.0 | /mnt/stockage/packages/f38/ibus-pinyin/po/zh_TW.po | 
+ | [zh_Hant_HK](/f38/language/zh_Hant_HK) | 168 | 168 | 100.0 | /mnt/stockage/packages/f38/ibus-pinyin/po/zh_HK.po | 
+ | [ru](/f38/language/ru) | 63 | 157 | 40.1 | /mnt/stockage/packages/f38/ibus-pinyin/po/ru.po | 
 {.sortable}
 
 

@@ -18,73 +18,73 @@ The package gnome-abrt (version 1.4.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f38/language/ar.md" >}}) | 221 | 221 | 100.0 | /mnt/stockage/packages/f38/gnome-abrt/po/ar.po | 
- | [bs]({{< ref "/f38/language/bs.md" >}}) | 221 | 221 | 100.0 | /mnt/stockage/packages/f38/gnome-abrt/po/bs.po | 
- | [cs]({{< ref "/f38/language/cs.md" >}}) | 221 | 221 | 100.0 | /mnt/stockage/packages/f38/gnome-abrt/po/cs.po | 
- | [da]({{< ref "/f38/language/da.md" >}}) | 221 | 221 | 100.0 | /mnt/stockage/packages/f38/gnome-abrt/po/da.po | 
- | [de]({{< ref "/f38/language/de.md" >}}) | 221 | 221 | 100.0 | /mnt/stockage/packages/f38/gnome-abrt/po/de.po | 
- | [es]({{< ref "/f38/language/es.md" >}}) | 221 | 221 | 100.0 | /mnt/stockage/packages/f38/gnome-abrt/po/es.po | 
- | [fi]({{< ref "/f38/language/fi.md" >}}) | 221 | 221 | 100.0 | /mnt/stockage/packages/f38/gnome-abrt/po/fi.po | 
- | [fr]({{< ref "/f38/language/fr.md" >}}) | 221 | 221 | 100.0 | /mnt/stockage/packages/f38/gnome-abrt/po/fr.po | 
- | [he]({{< ref "/f38/language/he.md" >}}) | 221 | 221 | 100.0 | /mnt/stockage/packages/f38/gnome-abrt/po/he.po | 
- | [hi]({{< ref "/f38/language/hi.md" >}}) | 221 | 221 | 100.0 | /mnt/stockage/packages/f38/gnome-abrt/po/hi.po | 
- | [hu]({{< ref "/f38/language/hu.md" >}}) | 221 | 221 | 100.0 | /mnt/stockage/packages/f38/gnome-abrt/po/hu.po | 
- | [id]({{< ref "/f38/language/id.md" >}}) | 221 | 221 | 100.0 | /mnt/stockage/packages/f38/gnome-abrt/po/id.po | 
- | [it]({{< ref "/f38/language/it.md" >}}) | 221 | 221 | 100.0 | /mnt/stockage/packages/f38/gnome-abrt/po/it.po | 
- | [ja]({{< ref "/f38/language/ja.md" >}}) | 221 | 221 | 100.0 | /mnt/stockage/packages/f38/gnome-abrt/po/ja.po | 
- | [ko]({{< ref "/f38/language/ko.md" >}}) | 221 | 221 | 100.0 | /mnt/stockage/packages/f38/gnome-abrt/po/ko.po | 
- | [nb_NO]({{< ref "/f38/language/nb_NO.md" >}}) | 221 | 221 | 100.0 | /mnt/stockage/packages/f38/gnome-abrt/po/nb.po | 
- | [nl]({{< ref "/f38/language/nl.md" >}}) | 221 | 221 | 100.0 | /mnt/stockage/packages/f38/gnome-abrt/po/nl.po | 
- | [pl]({{< ref "/f38/language/pl.md" >}}) | 221 | 221 | 100.0 | /mnt/stockage/packages/f38/gnome-abrt/po/pl.po | 
- | [pt]({{< ref "/f38/language/pt.md" >}}) | 221 | 221 | 100.0 | /mnt/stockage/packages/f38/gnome-abrt/po/pt.po | 
- | [pt_BR]({{< ref "/f38/language/pt_BR.md" >}}) | 221 | 221 | 100.0 | /mnt/stockage/packages/f38/gnome-abrt/po/pt_BR.po | 
- | [ru]({{< ref "/f38/language/ru.md" >}}) | 221 | 221 | 100.0 | /mnt/stockage/packages/f38/gnome-abrt/po/ru.po | 
- | [sk]({{< ref "/f38/language/sk.md" >}}) | 221 | 221 | 100.0 | /mnt/stockage/packages/f38/gnome-abrt/po/sk.po | 
- | [sv]({{< ref "/f38/language/sv.md" >}}) | 221 | 221 | 100.0 | /mnt/stockage/packages/f38/gnome-abrt/po/sv.po | 
- | [tr]({{< ref "/f38/language/tr.md" >}}) | 221 | 221 | 100.0 | /mnt/stockage/packages/f38/gnome-abrt/po/tr.po | 
- | [uk]({{< ref "/f38/language/uk.md" >}}) | 221 | 221 | 100.0 | /mnt/stockage/packages/f38/gnome-abrt/po/uk.po | 
- | [zh_Hans]({{< ref "/f38/language/zh_Hans.md" >}}) | 221 | 221 | 100.0 | /mnt/stockage/packages/f38/gnome-abrt/po/zh_CN.po | 
- | [af]({{< ref "/f38/language/af.md" >}}) | 215 | 221 | 97.3 | /mnt/stockage/packages/f38/gnome-abrt/po/af.po | 
- | [fur]({{< ref "/f38/language/fur.md" >}}) | 215 | 221 | 97.3 | /mnt/stockage/packages/f38/gnome-abrt/po/fur.po | 
- | [sq]({{< ref "/f38/language/sq.md" >}}) | 215 | 221 | 97.3 | /mnt/stockage/packages/f38/gnome-abrt/po/sq.po | 
- | [sr]({{< ref "/f38/language/sr.md" >}}) | 215 | 221 | 97.3 | /mnt/stockage/packages/f38/gnome-abrt/po/sr.po | 
- | [zh_Hant]({{< ref "/f38/language/zh_Hant.md" >}}) | 210 | 221 | 95.0 | /mnt/stockage/packages/f38/gnome-abrt/po/zh_TW.po | 
- | [bg]({{< ref "/f38/language/bg.md" >}}) | 195 | 221 | 88.2 | /mnt/stockage/packages/f38/gnome-abrt/po/bg.po | 
- | [ca]({{< ref "/f38/language/ca.md" >}}) | 195 | 221 | 88.2 | /mnt/stockage/packages/f38/gnome-abrt/po/ca.po | 
- | [mr]({{< ref "/f38/language/mr.md" >}}) | 195 | 221 | 88.2 | /mnt/stockage/packages/f38/gnome-abrt/po/mr.po | 
- | [km]({{< ref "/f38/language/km.md" >}}) | 152 | 221 | 68.8 | /mnt/stockage/packages/f38/gnome-abrt/po/km.po | 
- | [gu]({{< ref "/f38/language/gu.md" >}}) | 112 | 221 | 50.7 | /mnt/stockage/packages/f38/gnome-abrt/po/gu.po | 
- | [kn]({{< ref "/f38/language/kn.md" >}}) | 112 | 221 | 50.7 | /mnt/stockage/packages/f38/gnome-abrt/po/kn.po | 
- | [te]({{< ref "/f38/language/te.md" >}}) | 112 | 221 | 50.7 | /mnt/stockage/packages/f38/gnome-abrt/po/te.po | 
- | [as]({{< ref "/f38/language/as.md" >}}) | 101 | 221 | 45.7 | /mnt/stockage/packages/f38/gnome-abrt/po/as.po | 
- | [bn_IN]({{< ref "/f38/language/bn_IN.md" >}}) | 96 | 221 | 43.4 | /mnt/stockage/packages/f38/gnome-abrt/po/bn_IN.po | 
- | [ml]({{< ref "/f38/language/ml.md" >}}) | 96 | 221 | 43.4 | /mnt/stockage/packages/f38/gnome-abrt/po/ml.po | 
- | [or]({{< ref "/f38/language/or.md" >}}) | 96 | 221 | 43.4 | /mnt/stockage/packages/f38/gnome-abrt/po/or.po | 
- | [pa]({{< ref "/f38/language/pa.md" >}}) | 96 | 221 | 43.4 | /mnt/stockage/packages/f38/gnome-abrt/po/pa.po | 
- | [ta]({{< ref "/f38/language/ta.md" >}}) | 96 | 221 | 43.4 | /mnt/stockage/packages/f38/gnome-abrt/po/ta.po | 
- | [fa]({{< ref "/f38/language/fa.md" >}}) | 72 | 221 | 32.6 | /mnt/stockage/packages/f38/gnome-abrt/po/fa.po | 
- | [nn]({{< ref "/f38/language/nn.md" >}}) | 53 | 221 | 24.0 | /mnt/stockage/packages/f38/gnome-abrt/po/nn.po | 
- | [kk]({{< ref "/f38/language/kk.md" >}}) | 23 | 221 | 10.4 | /mnt/stockage/packages/f38/gnome-abrt/po/kk.po | 
- | [si]({{< ref "/f38/language/si.md" >}}) | 16 | 221 | 7.2 | /mnt/stockage/packages/f38/gnome-abrt/po/si.po | 
- | [bn]({{< ref "/f38/language/bn.md" >}}) | 9 | 221 | 4.1 | /mnt/stockage/packages/f38/gnome-abrt/po/bn.po | 
- | [en_GB]({{< ref "/f38/language/en_GB.md" >}}) | 7 | 221 | 3.2 | /mnt/stockage/packages/f38/gnome-abrt/po/en_GB.po | 
- | [et]({{< ref "/f38/language/et.md" >}}) | 7 | 221 | 3.2 | /mnt/stockage/packages/f38/gnome-abrt/po/et.po | 
- | [el]({{< ref "/f38/language/el.md" >}}) | 5 | 221 | 2.3 | /mnt/stockage/packages/f38/gnome-abrt/po/el.po | 
- | [sr_Latn]({{< ref "/f38/language/sr_Latn.md" >}}) | 5 | 221 | 2.3 | /mnt/stockage/packages/f38/gnome-abrt/po/sr@latin.po | 
- | [ast]({{< ref "/f38/language/ast.md" >}}) | 2 | 221 | 0.9 | /mnt/stockage/packages/f38/gnome-abrt/po/ast.po | 
- | [eo]({{< ref "/f38/language/eo.md" >}}) | 0 | 221 | 0.0 | /mnt/stockage/packages/f38/gnome-abrt/po/eo.po | 
- | [eu]({{< ref "/f38/language/eu.md" >}}) | 0 | 221 | 0.0 | /mnt/stockage/packages/f38/gnome-abrt/po/eu.po | 
- | [gl]({{< ref "/f38/language/gl.md" >}}) | 0 | 221 | 0.0 | /mnt/stockage/packages/f38/gnome-abrt/po/gl.po | 
- | [ia]({{< ref "/f38/language/ia.md" >}}) | 0 | 221 | 0.0 | /mnt/stockage/packages/f38/gnome-abrt/po/ia.po | 
- | [ka]({{< ref "/f38/language/ka.md" >}}) | 0 | 221 | 0.0 | /mnt/stockage/packages/f38/gnome-abrt/po/ka.po | 
- | [lt]({{< ref "/f38/language/lt.md" >}}) | 0 | 221 | 0.0 | /mnt/stockage/packages/f38/gnome-abrt/po/lt.po | 
- | [lv]({{< ref "/f38/language/lv.md" >}}) | 0 | 221 | 0.0 | /mnt/stockage/packages/f38/gnome-abrt/po/lv.po | 
- | [nds]({{< ref "/f38/language/nds.md" >}}) | 0 | 221 | 0.0 | /mnt/stockage/packages/f38/gnome-abrt/po/nds.po | 
- | [tg]({{< ref "/f38/language/tg.md" >}}) | 0 | 221 | 0.0 | /mnt/stockage/packages/f38/gnome-abrt/po/tg.po | 
- | [th]({{< ref "/f38/language/th.md" >}}) | 0 | 221 | 0.0 | /mnt/stockage/packages/f38/gnome-abrt/po/th.po | 
- | [ur]({{< ref "/f38/language/ur.md" >}}) | 0 | 221 | 0.0 | /mnt/stockage/packages/f38/gnome-abrt/po/ur.po | 
- | [vi]({{< ref "/f38/language/vi.md" >}}) | 0 | 221 | 0.0 | /mnt/stockage/packages/f38/gnome-abrt/po/vi.po | 
- | [zh_Hant_HK]({{< ref "/f38/language/zh_Hant_HK.md" >}}) | 0 | 221 | 0.0 | /mnt/stockage/packages/f38/gnome-abrt/po/zh_HK.po | 
+ | [ar](/f38/language/ar) | 221 | 221 | 100.0 | /mnt/stockage/packages/f38/gnome-abrt/po/ar.po | 
+ | [bs](/f38/language/bs) | 221 | 221 | 100.0 | /mnt/stockage/packages/f38/gnome-abrt/po/bs.po | 
+ | [cs](/f38/language/cs) | 221 | 221 | 100.0 | /mnt/stockage/packages/f38/gnome-abrt/po/cs.po | 
+ | [da](/f38/language/da) | 221 | 221 | 100.0 | /mnt/stockage/packages/f38/gnome-abrt/po/da.po | 
+ | [de](/f38/language/de) | 221 | 221 | 100.0 | /mnt/stockage/packages/f38/gnome-abrt/po/de.po | 
+ | [es](/f38/language/es) | 221 | 221 | 100.0 | /mnt/stockage/packages/f38/gnome-abrt/po/es.po | 
+ | [fi](/f38/language/fi) | 221 | 221 | 100.0 | /mnt/stockage/packages/f38/gnome-abrt/po/fi.po | 
+ | [fr](/f38/language/fr) | 221 | 221 | 100.0 | /mnt/stockage/packages/f38/gnome-abrt/po/fr.po | 
+ | [he](/f38/language/he) | 221 | 221 | 100.0 | /mnt/stockage/packages/f38/gnome-abrt/po/he.po | 
+ | [hi](/f38/language/hi) | 221 | 221 | 100.0 | /mnt/stockage/packages/f38/gnome-abrt/po/hi.po | 
+ | [hu](/f38/language/hu) | 221 | 221 | 100.0 | /mnt/stockage/packages/f38/gnome-abrt/po/hu.po | 
+ | [id](/f38/language/id) | 221 | 221 | 100.0 | /mnt/stockage/packages/f38/gnome-abrt/po/id.po | 
+ | [it](/f38/language/it) | 221 | 221 | 100.0 | /mnt/stockage/packages/f38/gnome-abrt/po/it.po | 
+ | [ja](/f38/language/ja) | 221 | 221 | 100.0 | /mnt/stockage/packages/f38/gnome-abrt/po/ja.po | 
+ | [ko](/f38/language/ko) | 221 | 221 | 100.0 | /mnt/stockage/packages/f38/gnome-abrt/po/ko.po | 
+ | [nb_NO](/f38/language/nb_NO) | 221 | 221 | 100.0 | /mnt/stockage/packages/f38/gnome-abrt/po/nb.po | 
+ | [nl](/f38/language/nl) | 221 | 221 | 100.0 | /mnt/stockage/packages/f38/gnome-abrt/po/nl.po | 
+ | [pl](/f38/language/pl) | 221 | 221 | 100.0 | /mnt/stockage/packages/f38/gnome-abrt/po/pl.po | 
+ | [pt](/f38/language/pt) | 221 | 221 | 100.0 | /mnt/stockage/packages/f38/gnome-abrt/po/pt.po | 
+ | [pt_BR](/f38/language/pt_BR) | 221 | 221 | 100.0 | /mnt/stockage/packages/f38/gnome-abrt/po/pt_BR.po | 
+ | [ru](/f38/language/ru) | 221 | 221 | 100.0 | /mnt/stockage/packages/f38/gnome-abrt/po/ru.po | 
+ | [sk](/f38/language/sk) | 221 | 221 | 100.0 | /mnt/stockage/packages/f38/gnome-abrt/po/sk.po | 
+ | [sv](/f38/language/sv) | 221 | 221 | 100.0 | /mnt/stockage/packages/f38/gnome-abrt/po/sv.po | 
+ | [tr](/f38/language/tr) | 221 | 221 | 100.0 | /mnt/stockage/packages/f38/gnome-abrt/po/tr.po | 
+ | [uk](/f38/language/uk) | 221 | 221 | 100.0 | /mnt/stockage/packages/f38/gnome-abrt/po/uk.po | 
+ | [zh_Hans](/f38/language/zh_Hans) | 221 | 221 | 100.0 | /mnt/stockage/packages/f38/gnome-abrt/po/zh_CN.po | 
+ | [af](/f38/language/af) | 215 | 221 | 97.3 | /mnt/stockage/packages/f38/gnome-abrt/po/af.po | 
+ | [fur](/f38/language/fur) | 215 | 221 | 97.3 | /mnt/stockage/packages/f38/gnome-abrt/po/fur.po | 
+ | [sq](/f38/language/sq) | 215 | 221 | 97.3 | /mnt/stockage/packages/f38/gnome-abrt/po/sq.po | 
+ | [sr](/f38/language/sr) | 215 | 221 | 97.3 | /mnt/stockage/packages/f38/gnome-abrt/po/sr.po | 
+ | [zh_Hant](/f38/language/zh_Hant) | 210 | 221 | 95.0 | /mnt/stockage/packages/f38/gnome-abrt/po/zh_TW.po | 
+ | [bg](/f38/language/bg) | 195 | 221 | 88.2 | /mnt/stockage/packages/f38/gnome-abrt/po/bg.po | 
+ | [ca](/f38/language/ca) | 195 | 221 | 88.2 | /mnt/stockage/packages/f38/gnome-abrt/po/ca.po | 
+ | [mr](/f38/language/mr) | 195 | 221 | 88.2 | /mnt/stockage/packages/f38/gnome-abrt/po/mr.po | 
+ | [km](/f38/language/km) | 152 | 221 | 68.8 | /mnt/stockage/packages/f38/gnome-abrt/po/km.po | 
+ | [gu](/f38/language/gu) | 112 | 221 | 50.7 | /mnt/stockage/packages/f38/gnome-abrt/po/gu.po | 
+ | [kn](/f38/language/kn) | 112 | 221 | 50.7 | /mnt/stockage/packages/f38/gnome-abrt/po/kn.po | 
+ | [te](/f38/language/te) | 112 | 221 | 50.7 | /mnt/stockage/packages/f38/gnome-abrt/po/te.po | 
+ | [as](/f38/language/as) | 101 | 221 | 45.7 | /mnt/stockage/packages/f38/gnome-abrt/po/as.po | 
+ | [bn_IN](/f38/language/bn_IN) | 96 | 221 | 43.4 | /mnt/stockage/packages/f38/gnome-abrt/po/bn_IN.po | 
+ | [ml](/f38/language/ml) | 96 | 221 | 43.4 | /mnt/stockage/packages/f38/gnome-abrt/po/ml.po | 
+ | [or](/f38/language/or) | 96 | 221 | 43.4 | /mnt/stockage/packages/f38/gnome-abrt/po/or.po | 
+ | [pa](/f38/language/pa) | 96 | 221 | 43.4 | /mnt/stockage/packages/f38/gnome-abrt/po/pa.po | 
+ | [ta](/f38/language/ta) | 96 | 221 | 43.4 | /mnt/stockage/packages/f38/gnome-abrt/po/ta.po | 
+ | [fa](/f38/language/fa) | 72 | 221 | 32.6 | /mnt/stockage/packages/f38/gnome-abrt/po/fa.po | 
+ | [nn](/f38/language/nn) | 53 | 221 | 24.0 | /mnt/stockage/packages/f38/gnome-abrt/po/nn.po | 
+ | [kk](/f38/language/kk) | 23 | 221 | 10.4 | /mnt/stockage/packages/f38/gnome-abrt/po/kk.po | 
+ | [si](/f38/language/si) | 16 | 221 | 7.2 | /mnt/stockage/packages/f38/gnome-abrt/po/si.po | 
+ | [bn](/f38/language/bn) | 9 | 221 | 4.1 | /mnt/stockage/packages/f38/gnome-abrt/po/bn.po | 
+ | [en_GB](/f38/language/en_GB) | 7 | 221 | 3.2 | /mnt/stockage/packages/f38/gnome-abrt/po/en_GB.po | 
+ | [et](/f38/language/et) | 7 | 221 | 3.2 | /mnt/stockage/packages/f38/gnome-abrt/po/et.po | 
+ | [el](/f38/language/el) | 5 | 221 | 2.3 | /mnt/stockage/packages/f38/gnome-abrt/po/el.po | 
+ | [sr_Latn](/f38/language/sr_Latn) | 5 | 221 | 2.3 | /mnt/stockage/packages/f38/gnome-abrt/po/sr@latin.po | 
+ | [ast](/f38/language/ast) | 2 | 221 | 0.9 | /mnt/stockage/packages/f38/gnome-abrt/po/ast.po | 
+ | [eo](/f38/language/eo) | 0 | 221 | 0.0 | /mnt/stockage/packages/f38/gnome-abrt/po/eo.po | 
+ | [eu](/f38/language/eu) | 0 | 221 | 0.0 | /mnt/stockage/packages/f38/gnome-abrt/po/eu.po | 
+ | [gl](/f38/language/gl) | 0 | 221 | 0.0 | /mnt/stockage/packages/f38/gnome-abrt/po/gl.po | 
+ | [ia](/f38/language/ia) | 0 | 221 | 0.0 | /mnt/stockage/packages/f38/gnome-abrt/po/ia.po | 
+ | [ka](/f38/language/ka) | 0 | 221 | 0.0 | /mnt/stockage/packages/f38/gnome-abrt/po/ka.po | 
+ | [lt](/f38/language/lt) | 0 | 221 | 0.0 | /mnt/stockage/packages/f38/gnome-abrt/po/lt.po | 
+ | [lv](/f38/language/lv) | 0 | 221 | 0.0 | /mnt/stockage/packages/f38/gnome-abrt/po/lv.po | 
+ | [nds](/f38/language/nds) | 0 | 221 | 0.0 | /mnt/stockage/packages/f38/gnome-abrt/po/nds.po | 
+ | [tg](/f38/language/tg) | 0 | 221 | 0.0 | /mnt/stockage/packages/f38/gnome-abrt/po/tg.po | 
+ | [th](/f38/language/th) | 0 | 221 | 0.0 | /mnt/stockage/packages/f38/gnome-abrt/po/th.po | 
+ | [ur](/f38/language/ur) | 0 | 221 | 0.0 | /mnt/stockage/packages/f38/gnome-abrt/po/ur.po | 
+ | [vi](/f38/language/vi) | 0 | 221 | 0.0 | /mnt/stockage/packages/f38/gnome-abrt/po/vi.po | 
+ | [zh_Hant_HK](/f38/language/zh_Hant_HK) | 0 | 221 | 0.0 | /mnt/stockage/packages/f38/gnome-abrt/po/zh_HK.po | 
 {.sortable}
 
 

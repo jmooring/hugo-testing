@@ -18,13 +18,13 @@ The package koverartist (version 0.5):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f7/language/de.md" >}}) | 659 | 659 | 100.0 | /mnt/stockage/packages/f7/koverartist/po/de.po | 
- | [fr]({{< ref "/f7/language/fr.md" >}}) | 659 | 659 | 100.0 | /mnt/stockage/packages/f7/koverartist/po/fr.po | 
- | [it]({{< ref "/f7/language/it.md" >}}) | 650 | 659 | 98.6 | /mnt/stockage/packages/f7/koverartist/po/it.po | 
- | [ru]({{< ref "/f7/language/ru.md" >}}) | 624 | 659 | 94.7 | /mnt/stockage/packages/f7/koverartist/po/ru.po | 
- | [pl]({{< ref "/f7/language/pl.md" >}}) | 583 | 659 | 88.5 | /mnt/stockage/packages/f7/koverartist/po/pl.po | 
- | [pt]({{< ref "/f7/language/pt.md" >}}) | 507 | 659 | 76.9 | /mnt/stockage/packages/f7/koverartist/po/pt.po | 
- | [es]({{< ref "/f7/language/es.md" >}}) | 324 | 659 | 49.2 | /mnt/stockage/packages/f7/koverartist/po/es.po | 
+ | [de](/f7/language/de) | 659 | 659 | 100.0 | /mnt/stockage/packages/f7/koverartist/po/de.po | 
+ | [fr](/f7/language/fr) | 659 | 659 | 100.0 | /mnt/stockage/packages/f7/koverartist/po/fr.po | 
+ | [it](/f7/language/it) | 650 | 659 | 98.6 | /mnt/stockage/packages/f7/koverartist/po/it.po | 
+ | [ru](/f7/language/ru) | 624 | 659 | 94.7 | /mnt/stockage/packages/f7/koverartist/po/ru.po | 
+ | [pl](/f7/language/pl) | 583 | 659 | 88.5 | /mnt/stockage/packages/f7/koverartist/po/pl.po | 
+ | [pt](/f7/language/pt) | 507 | 659 | 76.9 | /mnt/stockage/packages/f7/koverartist/po/pt.po | 
+ | [es](/f7/language/es) | 324 | 659 | 49.2 | /mnt/stockage/packages/f7/koverartist/po/es.po | 
 {.sortable}
 
 

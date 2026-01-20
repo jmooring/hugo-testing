@@ -18,21 +18,21 @@ The package mlocate (version 0.22):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f11/language/cs.md" >}}) | 563 | 563 | 100.0 | /mnt/stockage/packages/f11/mlocate/po/cs.po | 
- | [de]({{< ref "/f11/language/de.md" >}}) | 563 | 563 | 100.0 | /mnt/stockage/packages/f11/mlocate/po/de.po | 
- | [es]({{< ref "/f11/language/es.md" >}}) | 563 | 563 | 100.0 | /mnt/stockage/packages/f11/mlocate/po/es.po | 
- | [hu]({{< ref "/f11/language/hu.md" >}}) | 563 | 563 | 100.0 | /mnt/stockage/packages/f11/mlocate/po/hu.po | 
- | [it]({{< ref "/f11/language/it.md" >}}) | 563 | 563 | 100.0 | /mnt/stockage/packages/f11/mlocate/po/it.po | 
- | [pl]({{< ref "/f11/language/pl.md" >}}) | 563 | 563 | 100.0 | /mnt/stockage/packages/f11/mlocate/po/pl.po | 
- | [pt_BR]({{< ref "/f11/language/pt_BR.md" >}}) | 563 | 563 | 100.0 | /mnt/stockage/packages/f11/mlocate/po/pt_BR.po | 
- | [sr]({{< ref "/f11/language/sr.md" >}}) | 563 | 563 | 100.0 | /mnt/stockage/packages/f11/mlocate/po/sr.po | 
- | [sr_Latn]({{< ref "/f11/language/sr_Latn.md" >}}) | 563 | 563 | 100.0 | /mnt/stockage/packages/f11/mlocate/po/sr@latin.po | 
- | [ca]({{< ref "/f11/language/ca.md" >}}) | 441 | 563 | 78.3 | /mnt/stockage/packages/f11/mlocate/po/ca.po | 
- | [fr]({{< ref "/f11/language/fr.md" >}}) | 441 | 563 | 78.3 | /mnt/stockage/packages/f11/mlocate/po/fr.po | 
- | [bg]({{< ref "/f11/language/bg.md" >}}) | 275 | 563 | 48.8 | /mnt/stockage/packages/f11/mlocate/po/bg.po | 
- | [sv]({{< ref "/f11/language/sv.md" >}}) | 220 | 563 | 39.1 | /mnt/stockage/packages/f11/mlocate/po/sv.po | 
- | [zh_Hans]({{< ref "/f11/language/zh_Hans.md" >}}) | 209 | 563 | 37.1 | /mnt/stockage/packages/f11/mlocate/po/zh_CN.po | 
- | [ms]({{< ref "/f11/language/ms.md" >}}) | 165 | 563 | 29.3 | /mnt/stockage/packages/f11/mlocate/po/ms.po | 
+ | [cs](/f11/language/cs) | 563 | 563 | 100.0 | /mnt/stockage/packages/f11/mlocate/po/cs.po | 
+ | [de](/f11/language/de) | 563 | 563 | 100.0 | /mnt/stockage/packages/f11/mlocate/po/de.po | 
+ | [es](/f11/language/es) | 563 | 563 | 100.0 | /mnt/stockage/packages/f11/mlocate/po/es.po | 
+ | [hu](/f11/language/hu) | 563 | 563 | 100.0 | /mnt/stockage/packages/f11/mlocate/po/hu.po | 
+ | [it](/f11/language/it) | 563 | 563 | 100.0 | /mnt/stockage/packages/f11/mlocate/po/it.po | 
+ | [pl](/f11/language/pl) | 563 | 563 | 100.0 | /mnt/stockage/packages/f11/mlocate/po/pl.po | 
+ | [pt_BR](/f11/language/pt_BR) | 563 | 563 | 100.0 | /mnt/stockage/packages/f11/mlocate/po/pt_BR.po | 
+ | [sr](/f11/language/sr) | 563 | 563 | 100.0 | /mnt/stockage/packages/f11/mlocate/po/sr.po | 
+ | [sr_Latn](/f11/language/sr_Latn) | 563 | 563 | 100.0 | /mnt/stockage/packages/f11/mlocate/po/sr@latin.po | 
+ | [ca](/f11/language/ca) | 441 | 563 | 78.3 | /mnt/stockage/packages/f11/mlocate/po/ca.po | 
+ | [fr](/f11/language/fr) | 441 | 563 | 78.3 | /mnt/stockage/packages/f11/mlocate/po/fr.po | 
+ | [bg](/f11/language/bg) | 275 | 563 | 48.8 | /mnt/stockage/packages/f11/mlocate/po/bg.po | 
+ | [sv](/f11/language/sv) | 220 | 563 | 39.1 | /mnt/stockage/packages/f11/mlocate/po/sv.po | 
+ | [zh_Hans](/f11/language/zh_Hans) | 209 | 563 | 37.1 | /mnt/stockage/packages/f11/mlocate/po/zh_CN.po | 
+ | [ms](/f11/language/ms) | 165 | 563 | 29.3 | /mnt/stockage/packages/f11/mlocate/po/ms.po | 
 {.sortable}
 
 

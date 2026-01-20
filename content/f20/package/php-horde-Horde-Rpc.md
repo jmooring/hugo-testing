@@ -18,48 +18,48 @@ The package php-horde-Horde-Rpc (version 2.1.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [da]({{< ref "/f20/language/da.md" >}}) | 31 | 31 | 100.0 | /mnt/stockage/packages/f20/php-horde-Horde-Rpc/Horde_Rpc-2.1.4/locale/da/LC_MESSAGES/Horde_Rpc.po | 
- | [de]({{< ref "/f20/language/de.md" >}}) | 31 | 31 | 100.0 | /mnt/stockage/packages/f20/php-horde-Horde-Rpc/Horde_Rpc-2.1.4/locale/de/LC_MESSAGES/Horde_Rpc.po | 
- | [es]({{< ref "/f20/language/es.md" >}}) | 31 | 31 | 100.0 | /mnt/stockage/packages/f20/php-horde-Horde-Rpc/Horde_Rpc-2.1.4/locale/es/LC_MESSAGES/Horde_Rpc.po | 
- | [et]({{< ref "/f20/language/et.md" >}}) | 48 | 48 | 100.0 | /mnt/stockage/packages/f20/php-horde-Horde-Rpc/Horde_Rpc-2.1.4/locale/et/LC_MESSAGES/Horde_Rpc.po | 
- | [fi]({{< ref "/f20/language/fi.md" >}}) | 59 | 59 | 100.0 | /mnt/stockage/packages/f20/php-horde-Horde-Rpc/Horde_Rpc-2.1.4/locale/fi/LC_MESSAGES/Horde_Rpc.po | 
- | [fr]({{< ref "/f20/language/fr.md" >}}) | 59 | 59 | 100.0 | /mnt/stockage/packages/f20/php-horde-Horde-Rpc/Horde_Rpc-2.1.4/locale/fr/LC_MESSAGES/Horde_Rpc.po | 
- | [hr]({{< ref "/f20/language/hr.md" >}}) | 48 | 48 | 100.0 | /mnt/stockage/packages/f20/php-horde-Horde-Rpc/Horde_Rpc-2.1.4/locale/hr/LC_MESSAGES/Horde_Rpc.po | 
- | [hu]({{< ref "/f20/language/hu.md" >}}) | 31 | 31 | 100.0 | /mnt/stockage/packages/f20/php-horde-Horde-Rpc/Horde_Rpc-2.1.4/locale/hu/LC_MESSAGES/Horde_Rpc.po | 
- | [ja]({{< ref "/f20/language/ja.md" >}}) | 31 | 31 | 100.0 | /mnt/stockage/packages/f20/php-horde-Horde-Rpc/Horde_Rpc-2.1.4/locale/ja/LC_MESSAGES/Horde_Rpc.po | 
- | [lt]({{< ref "/f20/language/lt.md" >}}) | 48 | 48 | 100.0 | /mnt/stockage/packages/f20/php-horde-Horde-Rpc/Horde_Rpc-2.1.4/locale/lt/LC_MESSAGES/Horde_Rpc.po | 
- | [lv]({{< ref "/f20/language/lv.md" >}}) | 48 | 48 | 100.0 | /mnt/stockage/packages/f20/php-horde-Horde-Rpc/Horde_Rpc-2.1.4/locale/lv/LC_MESSAGES/Horde_Rpc.po | 
- | [nl]({{< ref "/f20/language/nl.md" >}}) | 59 | 59 | 100.0 | /mnt/stockage/packages/f20/php-horde-Horde-Rpc/Horde_Rpc-2.1.4/locale/nl/LC_MESSAGES/Horde_Rpc.po | 
- | [pt_BR]({{< ref "/f20/language/pt_BR.md" >}}) | 31 | 31 | 100.0 | /mnt/stockage/packages/f20/php-horde-Horde-Rpc/Horde_Rpc-2.1.4/locale/pt_BR/LC_MESSAGES/Horde_Rpc.po | 
- | [sk]({{< ref "/f20/language/sk.md" >}}) | 59 | 59 | 100.0 | /mnt/stockage/packages/f20/php-horde-Horde-Rpc/Horde_Rpc-2.1.4/locale/sk/LC_MESSAGES/Horde_Rpc.po | 
- | [uk]({{< ref "/f20/language/uk.md" >}}) | 48 | 48 | 100.0 | /mnt/stockage/packages/f20/php-horde-Horde-Rpc/Horde_Rpc-2.1.4/locale/uk/LC_MESSAGES/Horde_Rpc.po | 
- | [it]({{< ref "/f20/language/it.md" >}}) | 43 | 48 | 89.6 | /mnt/stockage/packages/f20/php-horde-Horde-Rpc/Horde_Rpc-2.1.4/locale/it/LC_MESSAGES/Horde_Rpc.po | 
- | [tr]({{< ref "/f20/language/tr.md" >}}) | 43 | 48 | 89.6 | /mnt/stockage/packages/f20/php-horde-Horde-Rpc/Horde_Rpc-2.1.4/locale/tr/LC_MESSAGES/Horde_Rpc.po | 
- | [zh_Hant]({{< ref "/f20/language/zh_Hant.md" >}}) | 43 | 48 | 89.6 | /mnt/stockage/packages/f20/php-horde-Horde-Rpc/Horde_Rpc-2.1.4/locale/zh_TW/LC_MESSAGES/Horde_Rpc.po | 
- | [sl]({{< ref "/f20/language/sl.md" >}}) | 15 | 48 | 31.2 | /mnt/stockage/packages/f20/php-horde-Horde-Rpc/Horde_Rpc-2.1.4/locale/sl/LC_MESSAGES/Horde_Rpc.po | 
- | [zh_Hans]({{< ref "/f20/language/zh_Hans.md" >}}) | 15 | 48 | 31.2 | /mnt/stockage/packages/f20/php-horde-Horde-Rpc/Horde_Rpc-2.1.4/locale/zh_CN/LC_MESSAGES/Horde_Rpc.po | 
- | [ca]({{< ref "/f20/language/ca.md" >}}) | 11 | 48 | 22.9 | /mnt/stockage/packages/f20/php-horde-Horde-Rpc/Horde_Rpc-2.1.4/locale/ca/LC_MESSAGES/Horde_Rpc.po | 
- | [cs]({{< ref "/f20/language/cs.md" >}}) | 11 | 48 | 22.9 | /mnt/stockage/packages/f20/php-horde-Horde-Rpc/Horde_Rpc-2.1.4/locale/cs/LC_MESSAGES/Horde_Rpc.po | 
- | [pt]({{< ref "/f20/language/pt.md" >}}) | 11 | 48 | 22.9 | /mnt/stockage/packages/f20/php-horde-Horde-Rpc/Horde_Rpc-2.1.4/locale/pt/LC_MESSAGES/Horde_Rpc.po | 
- | [ru]({{< ref "/f20/language/ru.md" >}}) | 8 | 48 | 16.7 | /mnt/stockage/packages/f20/php-horde-Horde-Rpc/Horde_Rpc-2.1.4/locale/ru/LC_MESSAGES/Horde_Rpc.po | 
- | [el]({{< ref "/f20/language/el.md" >}}) | 6 | 48 | 12.5 | /mnt/stockage/packages/f20/php-horde-Horde-Rpc/Horde_Rpc-2.1.4/locale/el/LC_MESSAGES/Horde_Rpc.po | 
- | [fa]({{< ref "/f20/language/fa.md" >}}) | 6 | 48 | 12.5 | /mnt/stockage/packages/f20/php-horde-Horde-Rpc/Horde_Rpc-2.1.4/locale/fa/LC_MESSAGES/Horde_Rpc.po | 
- | [sv]({{< ref "/f20/language/sv.md" >}}) | 6 | 48 | 12.5 | /mnt/stockage/packages/f20/php-horde-Horde-Rpc/Horde_Rpc-2.1.4/locale/sv/LC_MESSAGES/Horde_Rpc.po | 
- | [eu]({{< ref "/f20/language/eu.md" >}}) | 4 | 59 | 6.8 | /mnt/stockage/packages/f20/php-horde-Horde-Rpc/Horde_Rpc-2.1.4/locale/eu/LC_MESSAGES/Horde_Rpc.po | 
- | [ar]({{< ref "/f20/language/ar.md" >}}) | 0 | 48 | 0.0 | /mnt/stockage/packages/f20/php-horde-Horde-Rpc/Horde_Rpc-2.1.4/locale/ar/LC_MESSAGES/Horde_Rpc.po | 
- | [bg]({{< ref "/f20/language/bg.md" >}}) | 0 | 48 | 0.0 | /mnt/stockage/packages/f20/php-horde-Horde-Rpc/Horde_Rpc-2.1.4/locale/bg/LC_MESSAGES/Horde_Rpc.po | 
- | [bs]({{< ref "/f20/language/bs.md" >}}) | 0 | 48 | 0.0 | /mnt/stockage/packages/f20/php-horde-Horde-Rpc/Horde_Rpc-2.1.4/locale/bs/LC_MESSAGES/Horde_Rpc.po | 
- | [gl]({{< ref "/f20/language/gl.md" >}}) | 0 | 48 | 0.0 | /mnt/stockage/packages/f20/php-horde-Horde-Rpc/Horde_Rpc-2.1.4/locale/gl/LC_MESSAGES/Horde_Rpc.po | 
- | [he]({{< ref "/f20/language/he.md" >}}) | 0 | 48 | 0.0 | /mnt/stockage/packages/f20/php-horde-Horde-Rpc/Horde_Rpc-2.1.4/locale/he/LC_MESSAGES/Horde_Rpc.po | 
- | [id]({{< ref "/f20/language/id.md" >}}) | 0 | 48 | 0.0 | /mnt/stockage/packages/f20/php-horde-Horde-Rpc/Horde_Rpc-2.1.4/locale/id/LC_MESSAGES/Horde_Rpc.po | 
- | [is]({{< ref "/f20/language/is.md" >}}) | 0 | 48 | 0.0 | /mnt/stockage/packages/f20/php-horde-Horde-Rpc/Horde_Rpc-2.1.4/locale/is/LC_MESSAGES/Horde_Rpc.po | 
- | [km]({{< ref "/f20/language/km.md" >}}) | 0 | 48 | 0.0 | /mnt/stockage/packages/f20/php-horde-Horde-Rpc/Horde_Rpc-2.1.4/locale/km/LC_MESSAGES/Horde_Rpc.po | 
- | [ko]({{< ref "/f20/language/ko.md" >}}) | 0 | 48 | 0.0 | /mnt/stockage/packages/f20/php-horde-Horde-Rpc/Horde_Rpc-2.1.4/locale/ko/LC_MESSAGES/Horde_Rpc.po | 
- | [mk]({{< ref "/f20/language/mk.md" >}}) | 0 | 48 | 0.0 | /mnt/stockage/packages/f20/php-horde-Horde-Rpc/Horde_Rpc-2.1.4/locale/mk/LC_MESSAGES/Horde_Rpc.po | 
- | [nb_NO]({{< ref "/f20/language/nb_NO.md" >}}) | 0 | 48 | 0.0 | /mnt/stockage/packages/f20/php-horde-Horde-Rpc/Horde_Rpc-2.1.4/locale/nb/LC_MESSAGES/Horde_Rpc.po | 
- | [nn]({{< ref "/f20/language/nn.md" >}}) | 0 | 48 | 0.0 | /mnt/stockage/packages/f20/php-horde-Horde-Rpc/Horde_Rpc-2.1.4/locale/nn/LC_MESSAGES/Horde_Rpc.po | 
- | [pl]({{< ref "/f20/language/pl.md" >}}) | 0 | 48 | 0.0 | /mnt/stockage/packages/f20/php-horde-Horde-Rpc/Horde_Rpc-2.1.4/locale/pl/LC_MESSAGES/Horde_Rpc.po | 
- | [ro]({{< ref "/f20/language/ro.md" >}}) | 0 | 48 | 0.0 | /mnt/stockage/packages/f20/php-horde-Horde-Rpc/Horde_Rpc-2.1.4/locale/ro/LC_MESSAGES/Horde_Rpc.po | 
+ | [da](/f20/language/da) | 31 | 31 | 100.0 | /mnt/stockage/packages/f20/php-horde-Horde-Rpc/Horde_Rpc-2.1.4/locale/da/LC_MESSAGES/Horde_Rpc.po | 
+ | [de](/f20/language/de) | 31 | 31 | 100.0 | /mnt/stockage/packages/f20/php-horde-Horde-Rpc/Horde_Rpc-2.1.4/locale/de/LC_MESSAGES/Horde_Rpc.po | 
+ | [es](/f20/language/es) | 31 | 31 | 100.0 | /mnt/stockage/packages/f20/php-horde-Horde-Rpc/Horde_Rpc-2.1.4/locale/es/LC_MESSAGES/Horde_Rpc.po | 
+ | [et](/f20/language/et) | 48 | 48 | 100.0 | /mnt/stockage/packages/f20/php-horde-Horde-Rpc/Horde_Rpc-2.1.4/locale/et/LC_MESSAGES/Horde_Rpc.po | 
+ | [fi](/f20/language/fi) | 59 | 59 | 100.0 | /mnt/stockage/packages/f20/php-horde-Horde-Rpc/Horde_Rpc-2.1.4/locale/fi/LC_MESSAGES/Horde_Rpc.po | 
+ | [fr](/f20/language/fr) | 59 | 59 | 100.0 | /mnt/stockage/packages/f20/php-horde-Horde-Rpc/Horde_Rpc-2.1.4/locale/fr/LC_MESSAGES/Horde_Rpc.po | 
+ | [hr](/f20/language/hr) | 48 | 48 | 100.0 | /mnt/stockage/packages/f20/php-horde-Horde-Rpc/Horde_Rpc-2.1.4/locale/hr/LC_MESSAGES/Horde_Rpc.po | 
+ | [hu](/f20/language/hu) | 31 | 31 | 100.0 | /mnt/stockage/packages/f20/php-horde-Horde-Rpc/Horde_Rpc-2.1.4/locale/hu/LC_MESSAGES/Horde_Rpc.po | 
+ | [ja](/f20/language/ja) | 31 | 31 | 100.0 | /mnt/stockage/packages/f20/php-horde-Horde-Rpc/Horde_Rpc-2.1.4/locale/ja/LC_MESSAGES/Horde_Rpc.po | 
+ | [lt](/f20/language/lt) | 48 | 48 | 100.0 | /mnt/stockage/packages/f20/php-horde-Horde-Rpc/Horde_Rpc-2.1.4/locale/lt/LC_MESSAGES/Horde_Rpc.po | 
+ | [lv](/f20/language/lv) | 48 | 48 | 100.0 | /mnt/stockage/packages/f20/php-horde-Horde-Rpc/Horde_Rpc-2.1.4/locale/lv/LC_MESSAGES/Horde_Rpc.po | 
+ | [nl](/f20/language/nl) | 59 | 59 | 100.0 | /mnt/stockage/packages/f20/php-horde-Horde-Rpc/Horde_Rpc-2.1.4/locale/nl/LC_MESSAGES/Horde_Rpc.po | 
+ | [pt_BR](/f20/language/pt_BR) | 31 | 31 | 100.0 | /mnt/stockage/packages/f20/php-horde-Horde-Rpc/Horde_Rpc-2.1.4/locale/pt_BR/LC_MESSAGES/Horde_Rpc.po | 
+ | [sk](/f20/language/sk) | 59 | 59 | 100.0 | /mnt/stockage/packages/f20/php-horde-Horde-Rpc/Horde_Rpc-2.1.4/locale/sk/LC_MESSAGES/Horde_Rpc.po | 
+ | [uk](/f20/language/uk) | 48 | 48 | 100.0 | /mnt/stockage/packages/f20/php-horde-Horde-Rpc/Horde_Rpc-2.1.4/locale/uk/LC_MESSAGES/Horde_Rpc.po | 
+ | [it](/f20/language/it) | 43 | 48 | 89.6 | /mnt/stockage/packages/f20/php-horde-Horde-Rpc/Horde_Rpc-2.1.4/locale/it/LC_MESSAGES/Horde_Rpc.po | 
+ | [tr](/f20/language/tr) | 43 | 48 | 89.6 | /mnt/stockage/packages/f20/php-horde-Horde-Rpc/Horde_Rpc-2.1.4/locale/tr/LC_MESSAGES/Horde_Rpc.po | 
+ | [zh_Hant](/f20/language/zh_Hant) | 43 | 48 | 89.6 | /mnt/stockage/packages/f20/php-horde-Horde-Rpc/Horde_Rpc-2.1.4/locale/zh_TW/LC_MESSAGES/Horde_Rpc.po | 
+ | [sl](/f20/language/sl) | 15 | 48 | 31.2 | /mnt/stockage/packages/f20/php-horde-Horde-Rpc/Horde_Rpc-2.1.4/locale/sl/LC_MESSAGES/Horde_Rpc.po | 
+ | [zh_Hans](/f20/language/zh_Hans) | 15 | 48 | 31.2 | /mnt/stockage/packages/f20/php-horde-Horde-Rpc/Horde_Rpc-2.1.4/locale/zh_CN/LC_MESSAGES/Horde_Rpc.po | 
+ | [ca](/f20/language/ca) | 11 | 48 | 22.9 | /mnt/stockage/packages/f20/php-horde-Horde-Rpc/Horde_Rpc-2.1.4/locale/ca/LC_MESSAGES/Horde_Rpc.po | 
+ | [cs](/f20/language/cs) | 11 | 48 | 22.9 | /mnt/stockage/packages/f20/php-horde-Horde-Rpc/Horde_Rpc-2.1.4/locale/cs/LC_MESSAGES/Horde_Rpc.po | 
+ | [pt](/f20/language/pt) | 11 | 48 | 22.9 | /mnt/stockage/packages/f20/php-horde-Horde-Rpc/Horde_Rpc-2.1.4/locale/pt/LC_MESSAGES/Horde_Rpc.po | 
+ | [ru](/f20/language/ru) | 8 | 48 | 16.7 | /mnt/stockage/packages/f20/php-horde-Horde-Rpc/Horde_Rpc-2.1.4/locale/ru/LC_MESSAGES/Horde_Rpc.po | 
+ | [el](/f20/language/el) | 6 | 48 | 12.5 | /mnt/stockage/packages/f20/php-horde-Horde-Rpc/Horde_Rpc-2.1.4/locale/el/LC_MESSAGES/Horde_Rpc.po | 
+ | [fa](/f20/language/fa) | 6 | 48 | 12.5 | /mnt/stockage/packages/f20/php-horde-Horde-Rpc/Horde_Rpc-2.1.4/locale/fa/LC_MESSAGES/Horde_Rpc.po | 
+ | [sv](/f20/language/sv) | 6 | 48 | 12.5 | /mnt/stockage/packages/f20/php-horde-Horde-Rpc/Horde_Rpc-2.1.4/locale/sv/LC_MESSAGES/Horde_Rpc.po | 
+ | [eu](/f20/language/eu) | 4 | 59 | 6.8 | /mnt/stockage/packages/f20/php-horde-Horde-Rpc/Horde_Rpc-2.1.4/locale/eu/LC_MESSAGES/Horde_Rpc.po | 
+ | [ar](/f20/language/ar) | 0 | 48 | 0.0 | /mnt/stockage/packages/f20/php-horde-Horde-Rpc/Horde_Rpc-2.1.4/locale/ar/LC_MESSAGES/Horde_Rpc.po | 
+ | [bg](/f20/language/bg) | 0 | 48 | 0.0 | /mnt/stockage/packages/f20/php-horde-Horde-Rpc/Horde_Rpc-2.1.4/locale/bg/LC_MESSAGES/Horde_Rpc.po | 
+ | [bs](/f20/language/bs) | 0 | 48 | 0.0 | /mnt/stockage/packages/f20/php-horde-Horde-Rpc/Horde_Rpc-2.1.4/locale/bs/LC_MESSAGES/Horde_Rpc.po | 
+ | [gl](/f20/language/gl) | 0 | 48 | 0.0 | /mnt/stockage/packages/f20/php-horde-Horde-Rpc/Horde_Rpc-2.1.4/locale/gl/LC_MESSAGES/Horde_Rpc.po | 
+ | [he](/f20/language/he) | 0 | 48 | 0.0 | /mnt/stockage/packages/f20/php-horde-Horde-Rpc/Horde_Rpc-2.1.4/locale/he/LC_MESSAGES/Horde_Rpc.po | 
+ | [id](/f20/language/id) | 0 | 48 | 0.0 | /mnt/stockage/packages/f20/php-horde-Horde-Rpc/Horde_Rpc-2.1.4/locale/id/LC_MESSAGES/Horde_Rpc.po | 
+ | [is](/f20/language/is) | 0 | 48 | 0.0 | /mnt/stockage/packages/f20/php-horde-Horde-Rpc/Horde_Rpc-2.1.4/locale/is/LC_MESSAGES/Horde_Rpc.po | 
+ | [km](/f20/language/km) | 0 | 48 | 0.0 | /mnt/stockage/packages/f20/php-horde-Horde-Rpc/Horde_Rpc-2.1.4/locale/km/LC_MESSAGES/Horde_Rpc.po | 
+ | [ko](/f20/language/ko) | 0 | 48 | 0.0 | /mnt/stockage/packages/f20/php-horde-Horde-Rpc/Horde_Rpc-2.1.4/locale/ko/LC_MESSAGES/Horde_Rpc.po | 
+ | [mk](/f20/language/mk) | 0 | 48 | 0.0 | /mnt/stockage/packages/f20/php-horde-Horde-Rpc/Horde_Rpc-2.1.4/locale/mk/LC_MESSAGES/Horde_Rpc.po | 
+ | [nb_NO](/f20/language/nb_NO) | 0 | 48 | 0.0 | /mnt/stockage/packages/f20/php-horde-Horde-Rpc/Horde_Rpc-2.1.4/locale/nb/LC_MESSAGES/Horde_Rpc.po | 
+ | [nn](/f20/language/nn) | 0 | 48 | 0.0 | /mnt/stockage/packages/f20/php-horde-Horde-Rpc/Horde_Rpc-2.1.4/locale/nn/LC_MESSAGES/Horde_Rpc.po | 
+ | [pl](/f20/language/pl) | 0 | 48 | 0.0 | /mnt/stockage/packages/f20/php-horde-Horde-Rpc/Horde_Rpc-2.1.4/locale/pl/LC_MESSAGES/Horde_Rpc.po | 
+ | [ro](/f20/language/ro) | 0 | 48 | 0.0 | /mnt/stockage/packages/f20/php-horde-Horde-Rpc/Horde_Rpc-2.1.4/locale/ro/LC_MESSAGES/Horde_Rpc.po | 
 {.sortable}
 
 

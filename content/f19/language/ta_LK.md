@@ -38,10 +38,10 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [squirrelmail]({{< ref "/f19/package/squirrelmail.md" >}}) | 5012 | 5942 | 84.3 | LAKapps <squirrelmail-i18n@lists.sourceforge.net> | 
- | [gnome-gmail]({{< ref "/f19/package/gnome-gmail.md" >}}) | 268 | 359 | 74.7 | LANGUAGE <LL@li.org> | 
- | [owncloud]({{< ref "/f19/package/owncloud.md" >}}) | 1466 | 7225 | 20.3 | Tamil (Sri-Lanka) (http://www.transifex.com/projects/p/owncloud/language/ta_LK/) | 
- | [transmission]({{< ref "/f19/package/transmission.md" >}}) | 329 | 1809 | 18.2 | Tamil (Sri-Lanka) <ta_LK@li.org> | 
+ | [squirrelmail](/f19/package/squirrelmail) | 5012 | 5942 | 84.3 | LAKapps <squirrelmail-i18n@lists.sourceforge.net> | 
+ | [gnome-gmail](/f19/package/gnome-gmail) | 268 | 359 | 74.7 | LANGUAGE <LL@li.org> | 
+ | [owncloud](/f19/package/owncloud) | 1466 | 7225 | 20.3 | Tamil (Sri-Lanka) (http://www.transifex.com/projects/p/owncloud/language/ta_LK/) | 
+ | [transmission](/f19/package/transmission) | 329 | 1809 | 18.2 | Tamil (Sri-Lanka) <ta_LK@li.org> | 
 {.sortable}
 
 

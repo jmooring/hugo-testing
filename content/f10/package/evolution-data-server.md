@@ -18,85 +18,85 @@ The package evolution-data-server (version 2.24.5):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f10/language/ar.md" >}}) | 5111 | 5111 | 100.0 | /mnt/stockage/packages/f10/evolution-data-server/po/ar.po | 
- | [as]({{< ref "/f10/language/as.md" >}}) | 5044 | 5044 | 100.0 | /mnt/stockage/packages/f10/evolution-data-server/po/as.po | 
- | [be]({{< ref "/f10/language/be.md" >}}) | 4907 | 4907 | 100.0 | /mnt/stockage/packages/f10/evolution-data-server/po/be.po | 
- | [bg]({{< ref "/f10/language/bg.md" >}}) | 5111 | 5111 | 100.0 | /mnt/stockage/packages/f10/evolution-data-server/po/bg.po | 
- | [bn]({{< ref "/f10/language/bn.md" >}}) | 5044 | 5044 | 100.0 | /mnt/stockage/packages/f10/evolution-data-server/po/bn.po | 
- | [bn_IN]({{< ref "/f10/language/bn_IN.md" >}}) | 5111 | 5111 | 100.0 | /mnt/stockage/packages/f10/evolution-data-server/po/bn_IN.po | 
- | [ca]({{< ref "/f10/language/ca.md" >}}) | 5118 | 5118 | 100.0 | /mnt/stockage/packages/f10/evolution-data-server/po/ca.po | 
- | [cs]({{< ref "/f10/language/cs.md" >}}) | 5111 | 5111 | 100.0 | /mnt/stockage/packages/f10/evolution-data-server/po/cs.po | 
- | [cy]({{< ref "/f10/language/cy.md" >}}) | 4903 | 4903 | 100.0 | /mnt/stockage/packages/f10/evolution-data-server/po/cy.po | 
- | [da]({{< ref "/f10/language/da.md" >}}) | 5111 | 5111 | 100.0 | /mnt/stockage/packages/f10/evolution-data-server/po/da.po | 
- | [de]({{< ref "/f10/language/de.md" >}}) | 5111 | 5111 | 100.0 | /mnt/stockage/packages/f10/evolution-data-server/po/de.po | 
- | [dz]({{< ref "/f10/language/dz.md" >}}) | 5018 | 5018 | 100.0 | /mnt/stockage/packages/f10/evolution-data-server/po/dz.po | 
- | [el]({{< ref "/f10/language/el.md" >}}) | 4985 | 4985 | 100.0 | /mnt/stockage/packages/f10/evolution-data-server/po/el.po | 
- | [en_CA]({{< ref "/f10/language/en_CA.md" >}}) | 5041 | 5041 | 100.0 | /mnt/stockage/packages/f10/evolution-data-server/po/en_CA.po | 
- | [en_GB]({{< ref "/f10/language/en_GB.md" >}}) | 5111 | 5111 | 100.0 | /mnt/stockage/packages/f10/evolution-data-server/po/en_GB.po | 
- | [es]({{< ref "/f10/language/es.md" >}}) | 5111 | 5111 | 100.0 | /mnt/stockage/packages/f10/evolution-data-server/po/es.po | 
- | [et]({{< ref "/f10/language/et.md" >}}) | 5118 | 5118 | 100.0 | /mnt/stockage/packages/f10/evolution-data-server/po/et.po | 
- | [eu]({{< ref "/f10/language/eu.md" >}}) | 5111 | 5111 | 100.0 | /mnt/stockage/packages/f10/evolution-data-server/po/eu.po | 
- | [fi]({{< ref "/f10/language/fi.md" >}}) | 5111 | 5111 | 100.0 | /mnt/stockage/packages/f10/evolution-data-server/po/fi.po | 
- | [fr]({{< ref "/f10/language/fr.md" >}}) | 5111 | 5111 | 100.0 | /mnt/stockage/packages/f10/evolution-data-server/po/fr.po | 
- | [gl]({{< ref "/f10/language/gl.md" >}}) | 5118 | 5118 | 100.0 | /mnt/stockage/packages/f10/evolution-data-server/po/gl.po | 
- | [gu]({{< ref "/f10/language/gu.md" >}}) | 5018 | 5018 | 100.0 | /mnt/stockage/packages/f10/evolution-data-server/po/gu.po | 
- | [hu]({{< ref "/f10/language/hu.md" >}}) | 5111 | 5111 | 100.0 | /mnt/stockage/packages/f10/evolution-data-server/po/hu.po | 
- | [id]({{< ref "/f10/language/id.md" >}}) | 4985 | 4985 | 100.0 | /mnt/stockage/packages/f10/evolution-data-server/po/id.po | 
- | [it]({{< ref "/f10/language/it.md" >}}) | 5118 | 5118 | 100.0 | /mnt/stockage/packages/f10/evolution-data-server/po/it.po | 
- | [ja]({{< ref "/f10/language/ja.md" >}}) | 5111 | 5111 | 100.0 | /mnt/stockage/packages/f10/evolution-data-server/po/ja.po | 
- | [ko]({{< ref "/f10/language/ko.md" >}}) | 5111 | 5111 | 100.0 | /mnt/stockage/packages/f10/evolution-data-server/po/ko.po | 
- | [lt]({{< ref "/f10/language/lt.md" >}}) | 5111 | 5111 | 100.0 | /mnt/stockage/packages/f10/evolution-data-server/po/lt.po | 
- | [lv]({{< ref "/f10/language/lv.md" >}}) | 4985 | 4985 | 100.0 | /mnt/stockage/packages/f10/evolution-data-server/po/lv.po | 
- | [mk]({{< ref "/f10/language/mk.md" >}}) | 5018 | 5018 | 100.0 | /mnt/stockage/packages/f10/evolution-data-server/po/mk.po | 
- | [mr]({{< ref "/f10/language/mr.md" >}}) | 5111 | 5111 | 100.0 | /mnt/stockage/packages/f10/evolution-data-server/po/mr.po | 
- | [nb_NO]({{< ref "/f10/language/nb_NO.md" >}}) | 5118 | 5118 | 100.0 | /mnt/stockage/packages/f10/evolution-data-server/po/nb.po | 
- | [ne]({{< ref "/f10/language/ne.md" >}}) | 5044 | 5044 | 100.0 | /mnt/stockage/packages/f10/evolution-data-server/po/ne.po | 
- | [nl]({{< ref "/f10/language/nl.md" >}}) | 5111 | 5111 | 100.0 | /mnt/stockage/packages/f10/evolution-data-server/po/nl.po | 
- | [pa]({{< ref "/f10/language/pa.md" >}}) | 5111 | 5111 | 100.0 | /mnt/stockage/packages/f10/evolution-data-server/po/pa.po | 
- | [pl]({{< ref "/f10/language/pl.md" >}}) | 5111 | 5111 | 100.0 | /mnt/stockage/packages/f10/evolution-data-server/po/pl.po | 
- | [pt]({{< ref "/f10/language/pt.md" >}}) | 5111 | 5111 | 100.0 | /mnt/stockage/packages/f10/evolution-data-server/po/pt.po | 
- | [pt_BR]({{< ref "/f10/language/pt_BR.md" >}}) | 5111 | 5111 | 100.0 | /mnt/stockage/packages/f10/evolution-data-server/po/pt_BR.po | 
- | [ro]({{< ref "/f10/language/ro.md" >}}) | 5044 | 5044 | 100.0 | /mnt/stockage/packages/f10/evolution-data-server/po/ro.po | 
- | [ru]({{< ref "/f10/language/ru.md" >}}) | 5111 | 5111 | 100.0 | /mnt/stockage/packages/f10/evolution-data-server/po/ru.po | 
- | [sl]({{< ref "/f10/language/sl.md" >}}) | 5111 | 5111 | 100.0 | /mnt/stockage/packages/f10/evolution-data-server/po/sl.po | 
- | [sq]({{< ref "/f10/language/sq.md" >}}) | 5018 | 5018 | 100.0 | /mnt/stockage/packages/f10/evolution-data-server/po/sq.po | 
- | [sr]({{< ref "/f10/language/sr.md" >}}) | 5111 | 5111 | 100.0 | /mnt/stockage/packages/f10/evolution-data-server/po/sr.po | 
- | [sr_Latn]({{< ref "/f10/language/sr_Latn.md" >}}) | 5111 | 5111 | 100.0 | /mnt/stockage/packages/f10/evolution-data-server/po/sr@latin.po | 
- | [sv]({{< ref "/f10/language/sv.md" >}}) | 5111 | 5111 | 100.0 | /mnt/stockage/packages/f10/evolution-data-server/po/sv.po | 
- | [ta]({{< ref "/f10/language/ta.md" >}}) | 5111 | 5111 | 100.0 | /mnt/stockage/packages/f10/evolution-data-server/po/ta.po | 
- | [te]({{< ref "/f10/language/te.md" >}}) | 5018 | 5018 | 100.0 | /mnt/stockage/packages/f10/evolution-data-server/po/te.po | 
- | [tr]({{< ref "/f10/language/tr.md" >}}) | 5111 | 5111 | 100.0 | /mnt/stockage/packages/f10/evolution-data-server/po/tr.po | 
- | [uk]({{< ref "/f10/language/uk.md" >}}) | 5111 | 5111 | 100.0 | /mnt/stockage/packages/f10/evolution-data-server/po/uk.po | 
- | [zh_Hans]({{< ref "/f10/language/zh_Hans.md" >}}) | 5111 | 5111 | 100.0 | /mnt/stockage/packages/f10/evolution-data-server/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f10/language/zh_Hant.md" >}}) | 5119 | 5119 | 100.0 | /mnt/stockage/packages/f10/evolution-data-server/po/zh_TW.po | 
- | [zh_Hant_HK]({{< ref "/f10/language/zh_Hant_HK.md" >}}) | 5119 | 5119 | 100.0 | /mnt/stockage/packages/f10/evolution-data-server/po/zh_HK.po | 
- | [nn]({{< ref "/f10/language/nn.md" >}}) | 4982 | 4985 | 99.9 | /mnt/stockage/packages/f10/evolution-data-server/po/nn.po | 
- | [xh]({{< ref "/f10/language/xh.md" >}}) | 4654 | 4689 | 99.3 | /mnt/stockage/packages/f10/evolution-data-server/po/xh.po | 
- | [vi]({{< ref "/f10/language/vi.md" >}}) | 4989 | 5062 | 98.6 | /mnt/stockage/packages/f10/evolution-data-server/po/vi.po | 
- | [th]({{< ref "/f10/language/th.md" >}}) | 5035 | 5111 | 98.5 | /mnt/stockage/packages/f10/evolution-data-server/po/th.po | 
- | [hi]({{< ref "/f10/language/hi.md" >}}) | 4726 | 4985 | 94.8 | /mnt/stockage/packages/f10/evolution-data-server/po/hi.po | 
- | [ml]({{< ref "/f10/language/ml.md" >}}) | 4501 | 4985 | 90.3 | /mnt/stockage/packages/f10/evolution-data-server/po/ml.po | 
- | [hr]({{< ref "/f10/language/hr.md" >}}) | 4048 | 5111 | 79.2 | /mnt/stockage/packages/f10/evolution-data-server/po/hr.po | 
- | [az]({{< ref "/f10/language/az.md" >}}) | 3435 | 4501 | 76.3 | /mnt/stockage/packages/f10/evolution-data-server/po/az.po | 
- | [ms]({{< ref "/f10/language/ms.md" >}}) | 3005 | 4501 | 66.8 | /mnt/stockage/packages/f10/evolution-data-server/po/ms.po | 
- | [sk]({{< ref "/f10/language/sk.md" >}}) | 2991 | 4501 | 66.5 | /mnt/stockage/packages/f10/evolution-data-server/po/sk.po | 
- | [fa]({{< ref "/f10/language/fa.md" >}}) | 3314 | 5062 | 65.5 | /mnt/stockage/packages/f10/evolution-data-server/po/fa.po | 
- | [kn]({{< ref "/f10/language/kn.md" >}}) | 3005 | 5111 | 58.8 | /mnt/stockage/packages/f10/evolution-data-server/po/kn.po | 
- | [he]({{< ref "/f10/language/he.md" >}}) | 2549 | 5111 | 49.9 | /mnt/stockage/packages/f10/evolution-data-server/po/he.po | 
- | [bs]({{< ref "/f10/language/bs.md" >}}) | 1682 | 4501 | 37.4 | /mnt/stockage/packages/f10/evolution-data-server/po/bs.po | 
- | [or]({{< ref "/f10/language/or.md" >}}) | 782 | 4985 | 15.7 | /mnt/stockage/packages/f10/evolution-data-server/po/or.po | 
- | [mn]({{< ref "/f10/language/mn.md" >}}) | 582 | 4501 | 12.9 | /mnt/stockage/packages/f10/evolution-data-server/po/mn.po | 
- | [oc]({{< ref "/f10/language/oc.md" >}}) | 635 | 5062 | 12.5 | /mnt/stockage/packages/f10/evolution-data-server/po/oc.po | 
- | [ga]({{< ref "/f10/language/ga.md" >}}) | 480 | 5049 | 9.5 | /mnt/stockage/packages/f10/evolution-data-server/po/ga.po | 
- | [ka]({{< ref "/f10/language/ka.md" >}}) | 292 | 4903 | 6.0 | /mnt/stockage/packages/f10/evolution-data-server/po/ka.po | 
- | [wa]({{< ref "/f10/language/wa.md" >}}) | 866 | 17070 | 5.1 | /mnt/stockage/packages/f10/evolution-data-server/po/wa.po | 
- | [en_AU]({{< ref "/f10/language/en_AU.md" >}}) | 166 | 4501 | 3.7 | /mnt/stockage/packages/f10/evolution-data-server/po/en_AU.po | 
- | [si]({{< ref "/f10/language/si.md" >}}) | 146 | 5037 | 2.9 | /mnt/stockage/packages/f10/evolution-data-server/po/si.po | 
- | [am]({{< ref "/f10/language/am.md" >}}) | 99 | 4501 | 2.2 | /mnt/stockage/packages/f10/evolution-data-server/po/am.po | 
- | [rw]({{< ref "/f10/language/rw.md" >}}) | 68 | 4689 | 1.5 | /mnt/stockage/packages/f10/evolution-data-server/po/rw.po | 
- | [is]({{< ref "/f10/language/is.md" >}}) | 219 | 17070 | 1.3 | /mnt/stockage/packages/f10/evolution-data-server/po/is.po | 
- | [ku]({{< ref "/f10/language/ku.md" >}}) | 3 | 4863 | 0.1 | /mnt/stockage/packages/f10/evolution-data-server/po/ku.po | 
- | [la]({{< ref "/f10/language/la.md" >}}) | 3 | 5111 | 0.1 | /mnt/stockage/packages/f10/evolution-data-server/po/la.po | 
+ | [ar](/f10/language/ar) | 5111 | 5111 | 100.0 | /mnt/stockage/packages/f10/evolution-data-server/po/ar.po | 
+ | [as](/f10/language/as) | 5044 | 5044 | 100.0 | /mnt/stockage/packages/f10/evolution-data-server/po/as.po | 
+ | [be](/f10/language/be) | 4907 | 4907 | 100.0 | /mnt/stockage/packages/f10/evolution-data-server/po/be.po | 
+ | [bg](/f10/language/bg) | 5111 | 5111 | 100.0 | /mnt/stockage/packages/f10/evolution-data-server/po/bg.po | 
+ | [bn](/f10/language/bn) | 5044 | 5044 | 100.0 | /mnt/stockage/packages/f10/evolution-data-server/po/bn.po | 
+ | [bn_IN](/f10/language/bn_IN) | 5111 | 5111 | 100.0 | /mnt/stockage/packages/f10/evolution-data-server/po/bn_IN.po | 
+ | [ca](/f10/language/ca) | 5118 | 5118 | 100.0 | /mnt/stockage/packages/f10/evolution-data-server/po/ca.po | 
+ | [cs](/f10/language/cs) | 5111 | 5111 | 100.0 | /mnt/stockage/packages/f10/evolution-data-server/po/cs.po | 
+ | [cy](/f10/language/cy) | 4903 | 4903 | 100.0 | /mnt/stockage/packages/f10/evolution-data-server/po/cy.po | 
+ | [da](/f10/language/da) | 5111 | 5111 | 100.0 | /mnt/stockage/packages/f10/evolution-data-server/po/da.po | 
+ | [de](/f10/language/de) | 5111 | 5111 | 100.0 | /mnt/stockage/packages/f10/evolution-data-server/po/de.po | 
+ | [dz](/f10/language/dz) | 5018 | 5018 | 100.0 | /mnt/stockage/packages/f10/evolution-data-server/po/dz.po | 
+ | [el](/f10/language/el) | 4985 | 4985 | 100.0 | /mnt/stockage/packages/f10/evolution-data-server/po/el.po | 
+ | [en_CA](/f10/language/en_CA) | 5041 | 5041 | 100.0 | /mnt/stockage/packages/f10/evolution-data-server/po/en_CA.po | 
+ | [en_GB](/f10/language/en_GB) | 5111 | 5111 | 100.0 | /mnt/stockage/packages/f10/evolution-data-server/po/en_GB.po | 
+ | [es](/f10/language/es) | 5111 | 5111 | 100.0 | /mnt/stockage/packages/f10/evolution-data-server/po/es.po | 
+ | [et](/f10/language/et) | 5118 | 5118 | 100.0 | /mnt/stockage/packages/f10/evolution-data-server/po/et.po | 
+ | [eu](/f10/language/eu) | 5111 | 5111 | 100.0 | /mnt/stockage/packages/f10/evolution-data-server/po/eu.po | 
+ | [fi](/f10/language/fi) | 5111 | 5111 | 100.0 | /mnt/stockage/packages/f10/evolution-data-server/po/fi.po | 
+ | [fr](/f10/language/fr) | 5111 | 5111 | 100.0 | /mnt/stockage/packages/f10/evolution-data-server/po/fr.po | 
+ | [gl](/f10/language/gl) | 5118 | 5118 | 100.0 | /mnt/stockage/packages/f10/evolution-data-server/po/gl.po | 
+ | [gu](/f10/language/gu) | 5018 | 5018 | 100.0 | /mnt/stockage/packages/f10/evolution-data-server/po/gu.po | 
+ | [hu](/f10/language/hu) | 5111 | 5111 | 100.0 | /mnt/stockage/packages/f10/evolution-data-server/po/hu.po | 
+ | [id](/f10/language/id) | 4985 | 4985 | 100.0 | /mnt/stockage/packages/f10/evolution-data-server/po/id.po | 
+ | [it](/f10/language/it) | 5118 | 5118 | 100.0 | /mnt/stockage/packages/f10/evolution-data-server/po/it.po | 
+ | [ja](/f10/language/ja) | 5111 | 5111 | 100.0 | /mnt/stockage/packages/f10/evolution-data-server/po/ja.po | 
+ | [ko](/f10/language/ko) | 5111 | 5111 | 100.0 | /mnt/stockage/packages/f10/evolution-data-server/po/ko.po | 
+ | [lt](/f10/language/lt) | 5111 | 5111 | 100.0 | /mnt/stockage/packages/f10/evolution-data-server/po/lt.po | 
+ | [lv](/f10/language/lv) | 4985 | 4985 | 100.0 | /mnt/stockage/packages/f10/evolution-data-server/po/lv.po | 
+ | [mk](/f10/language/mk) | 5018 | 5018 | 100.0 | /mnt/stockage/packages/f10/evolution-data-server/po/mk.po | 
+ | [mr](/f10/language/mr) | 5111 | 5111 | 100.0 | /mnt/stockage/packages/f10/evolution-data-server/po/mr.po | 
+ | [nb_NO](/f10/language/nb_NO) | 5118 | 5118 | 100.0 | /mnt/stockage/packages/f10/evolution-data-server/po/nb.po | 
+ | [ne](/f10/language/ne) | 5044 | 5044 | 100.0 | /mnt/stockage/packages/f10/evolution-data-server/po/ne.po | 
+ | [nl](/f10/language/nl) | 5111 | 5111 | 100.0 | /mnt/stockage/packages/f10/evolution-data-server/po/nl.po | 
+ | [pa](/f10/language/pa) | 5111 | 5111 | 100.0 | /mnt/stockage/packages/f10/evolution-data-server/po/pa.po | 
+ | [pl](/f10/language/pl) | 5111 | 5111 | 100.0 | /mnt/stockage/packages/f10/evolution-data-server/po/pl.po | 
+ | [pt](/f10/language/pt) | 5111 | 5111 | 100.0 | /mnt/stockage/packages/f10/evolution-data-server/po/pt.po | 
+ | [pt_BR](/f10/language/pt_BR) | 5111 | 5111 | 100.0 | /mnt/stockage/packages/f10/evolution-data-server/po/pt_BR.po | 
+ | [ro](/f10/language/ro) | 5044 | 5044 | 100.0 | /mnt/stockage/packages/f10/evolution-data-server/po/ro.po | 
+ | [ru](/f10/language/ru) | 5111 | 5111 | 100.0 | /mnt/stockage/packages/f10/evolution-data-server/po/ru.po | 
+ | [sl](/f10/language/sl) | 5111 | 5111 | 100.0 | /mnt/stockage/packages/f10/evolution-data-server/po/sl.po | 
+ | [sq](/f10/language/sq) | 5018 | 5018 | 100.0 | /mnt/stockage/packages/f10/evolution-data-server/po/sq.po | 
+ | [sr](/f10/language/sr) | 5111 | 5111 | 100.0 | /mnt/stockage/packages/f10/evolution-data-server/po/sr.po | 
+ | [sr_Latn](/f10/language/sr_Latn) | 5111 | 5111 | 100.0 | /mnt/stockage/packages/f10/evolution-data-server/po/sr@latin.po | 
+ | [sv](/f10/language/sv) | 5111 | 5111 | 100.0 | /mnt/stockage/packages/f10/evolution-data-server/po/sv.po | 
+ | [ta](/f10/language/ta) | 5111 | 5111 | 100.0 | /mnt/stockage/packages/f10/evolution-data-server/po/ta.po | 
+ | [te](/f10/language/te) | 5018 | 5018 | 100.0 | /mnt/stockage/packages/f10/evolution-data-server/po/te.po | 
+ | [tr](/f10/language/tr) | 5111 | 5111 | 100.0 | /mnt/stockage/packages/f10/evolution-data-server/po/tr.po | 
+ | [uk](/f10/language/uk) | 5111 | 5111 | 100.0 | /mnt/stockage/packages/f10/evolution-data-server/po/uk.po | 
+ | [zh_Hans](/f10/language/zh_Hans) | 5111 | 5111 | 100.0 | /mnt/stockage/packages/f10/evolution-data-server/po/zh_CN.po | 
+ | [zh_Hant](/f10/language/zh_Hant) | 5119 | 5119 | 100.0 | /mnt/stockage/packages/f10/evolution-data-server/po/zh_TW.po | 
+ | [zh_Hant_HK](/f10/language/zh_Hant_HK) | 5119 | 5119 | 100.0 | /mnt/stockage/packages/f10/evolution-data-server/po/zh_HK.po | 
+ | [nn](/f10/language/nn) | 4982 | 4985 | 99.9 | /mnt/stockage/packages/f10/evolution-data-server/po/nn.po | 
+ | [xh](/f10/language/xh) | 4654 | 4689 | 99.3 | /mnt/stockage/packages/f10/evolution-data-server/po/xh.po | 
+ | [vi](/f10/language/vi) | 4989 | 5062 | 98.6 | /mnt/stockage/packages/f10/evolution-data-server/po/vi.po | 
+ | [th](/f10/language/th) | 5035 | 5111 | 98.5 | /mnt/stockage/packages/f10/evolution-data-server/po/th.po | 
+ | [hi](/f10/language/hi) | 4726 | 4985 | 94.8 | /mnt/stockage/packages/f10/evolution-data-server/po/hi.po | 
+ | [ml](/f10/language/ml) | 4501 | 4985 | 90.3 | /mnt/stockage/packages/f10/evolution-data-server/po/ml.po | 
+ | [hr](/f10/language/hr) | 4048 | 5111 | 79.2 | /mnt/stockage/packages/f10/evolution-data-server/po/hr.po | 
+ | [az](/f10/language/az) | 3435 | 4501 | 76.3 | /mnt/stockage/packages/f10/evolution-data-server/po/az.po | 
+ | [ms](/f10/language/ms) | 3005 | 4501 | 66.8 | /mnt/stockage/packages/f10/evolution-data-server/po/ms.po | 
+ | [sk](/f10/language/sk) | 2991 | 4501 | 66.5 | /mnt/stockage/packages/f10/evolution-data-server/po/sk.po | 
+ | [fa](/f10/language/fa) | 3314 | 5062 | 65.5 | /mnt/stockage/packages/f10/evolution-data-server/po/fa.po | 
+ | [kn](/f10/language/kn) | 3005 | 5111 | 58.8 | /mnt/stockage/packages/f10/evolution-data-server/po/kn.po | 
+ | [he](/f10/language/he) | 2549 | 5111 | 49.9 | /mnt/stockage/packages/f10/evolution-data-server/po/he.po | 
+ | [bs](/f10/language/bs) | 1682 | 4501 | 37.4 | /mnt/stockage/packages/f10/evolution-data-server/po/bs.po | 
+ | [or](/f10/language/or) | 782 | 4985 | 15.7 | /mnt/stockage/packages/f10/evolution-data-server/po/or.po | 
+ | [mn](/f10/language/mn) | 582 | 4501 | 12.9 | /mnt/stockage/packages/f10/evolution-data-server/po/mn.po | 
+ | [oc](/f10/language/oc) | 635 | 5062 | 12.5 | /mnt/stockage/packages/f10/evolution-data-server/po/oc.po | 
+ | [ga](/f10/language/ga) | 480 | 5049 | 9.5 | /mnt/stockage/packages/f10/evolution-data-server/po/ga.po | 
+ | [ka](/f10/language/ka) | 292 | 4903 | 6.0 | /mnt/stockage/packages/f10/evolution-data-server/po/ka.po | 
+ | [wa](/f10/language/wa) | 866 | 17070 | 5.1 | /mnt/stockage/packages/f10/evolution-data-server/po/wa.po | 
+ | [en_AU](/f10/language/en_AU) | 166 | 4501 | 3.7 | /mnt/stockage/packages/f10/evolution-data-server/po/en_AU.po | 
+ | [si](/f10/language/si) | 146 | 5037 | 2.9 | /mnt/stockage/packages/f10/evolution-data-server/po/si.po | 
+ | [am](/f10/language/am) | 99 | 4501 | 2.2 | /mnt/stockage/packages/f10/evolution-data-server/po/am.po | 
+ | [rw](/f10/language/rw) | 68 | 4689 | 1.5 | /mnt/stockage/packages/f10/evolution-data-server/po/rw.po | 
+ | [is](/f10/language/is) | 219 | 17070 | 1.3 | /mnt/stockage/packages/f10/evolution-data-server/po/is.po | 
+ | [ku](/f10/language/ku) | 3 | 4863 | 0.1 | /mnt/stockage/packages/f10/evolution-data-server/po/ku.po | 
+ | [la](/f10/language/la) | 3 | 5111 | 0.1 | /mnt/stockage/packages/f10/evolution-data-server/po/la.po | 
 {.sortable}
 
 

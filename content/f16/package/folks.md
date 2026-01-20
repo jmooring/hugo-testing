@@ -18,15 +18,15 @@ The package folks (version 0.6.6):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f16/language/cs.md" >}}) | 899 | 899 | 100.0 | /mnt/stockage/packages/f16/folks/po/cs.po | 
- | [de]({{< ref "/f16/language/de.md" >}}) | 899 | 899 | 100.0 | /mnt/stockage/packages/f16/folks/po/de.po | 
- | [en_GB]({{< ref "/f16/language/en_GB.md" >}}) | 871 | 871 | 100.0 | /mnt/stockage/packages/f16/folks/po/en_GB.po | 
- | [gl]({{< ref "/f16/language/gl.md" >}}) | 899 | 899 | 100.0 | /mnt/stockage/packages/f16/folks/po/gl.po | 
- | [pl]({{< ref "/f16/language/pl.md" >}}) | 899 | 899 | 100.0 | /mnt/stockage/packages/f16/folks/po/pl.po | 
- | [sl]({{< ref "/f16/language/sl.md" >}}) | 899 | 899 | 100.0 | /mnt/stockage/packages/f16/folks/po/sl.po | 
- | [sv]({{< ref "/f16/language/sv.md" >}}) | 763 | 890 | 85.7 | /mnt/stockage/packages/f16/folks/po/sv.po | 
- | [es]({{< ref "/f16/language/es.md" >}}) | 577 | 899 | 64.2 | /mnt/stockage/packages/f16/folks/po/es.po | 
- | [eo]({{< ref "/f16/language/eo.md" >}}) | 163 | 871 | 18.7 | /mnt/stockage/packages/f16/folks/po/eo.po | 
+ | [cs](/f16/language/cs) | 899 | 899 | 100.0 | /mnt/stockage/packages/f16/folks/po/cs.po | 
+ | [de](/f16/language/de) | 899 | 899 | 100.0 | /mnt/stockage/packages/f16/folks/po/de.po | 
+ | [en_GB](/f16/language/en_GB) | 871 | 871 | 100.0 | /mnt/stockage/packages/f16/folks/po/en_GB.po | 
+ | [gl](/f16/language/gl) | 899 | 899 | 100.0 | /mnt/stockage/packages/f16/folks/po/gl.po | 
+ | [pl](/f16/language/pl) | 899 | 899 | 100.0 | /mnt/stockage/packages/f16/folks/po/pl.po | 
+ | [sl](/f16/language/sl) | 899 | 899 | 100.0 | /mnt/stockage/packages/f16/folks/po/sl.po | 
+ | [sv](/f16/language/sv) | 763 | 890 | 85.7 | /mnt/stockage/packages/f16/folks/po/sv.po | 
+ | [es](/f16/language/es) | 577 | 899 | 64.2 | /mnt/stockage/packages/f16/folks/po/es.po | 
+ | [eo](/f16/language/eo) | 163 | 871 | 18.7 | /mnt/stockage/packages/f16/folks/po/eo.po | 
 {.sortable}
 
 

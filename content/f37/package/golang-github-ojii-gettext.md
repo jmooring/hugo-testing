@@ -18,8 +18,8 @@ The package golang-github-ojii-gettext (version 0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [en]({{< ref "/f37/language/en.md" >}}) | 14 | 14 | 100.0 | /mnt/stockage/packages/f37/golang-github-ojii-gettext/testdata/en/messages.po/mnt/stockage/packages/f37/golang-github-ojii-gettext/testdata/en-no-plural-forms/messages.po | 
- | [ja]({{< ref "/f37/language/ja.md" >}}) | 7 | 7 | 100.0 | /mnt/stockage/packages/f37/golang-github-ojii-gettext/testdata/ja/messages.po | 
+ | [en](/f37/language/en) | 14 | 14 | 100.0 | /mnt/stockage/packages/f37/golang-github-ojii-gettext/testdata/en/messages.po/mnt/stockage/packages/f37/golang-github-ojii-gettext/testdata/en-no-plural-forms/messages.po | 
+ | [ja](/f37/language/ja) | 7 | 7 | 100.0 | /mnt/stockage/packages/f37/golang-github-ojii-gettext/testdata/ja/messages.po | 
 {.sortable}
 
 

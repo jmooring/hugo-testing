@@ -38,28 +38,28 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [anaconda]({{< ref "/f25/package/anaconda.md" >}}) | 0 | 7213 | 0.0 | Angika | 
- | [blivet-gui]({{< ref "/f25/package/blivet-gui.md" >}}) | 0 | 696 | 0.0 | Angika | 
- | [dnf-plugin-system-upgrade]({{< ref "/f25/package/dnf-plugin-system-upgrade.md" >}}) | 0 | 211 | 0.0 | Angika | 
- | [dnf-plugins-extras]({{< ref "/f25/package/dnf-plugins-extras.md" >}}) | 0 | 375 | 0.0 | Angika | 
- | [docker-anaconda-addon]({{< ref "/f25/package/docker-anaconda-addon.md" >}}) | 0 | 27 | 0.0 | Angika | 
- | [entangle]({{< ref "/f25/package/entangle.md" >}}) | 0 | 935 | 0.0 | Angika | 
- | [initial-setup]({{< ref "/f25/package/initial-setup.md" >}}) | 0 | 33 | 0.0 | Angika | 
- | [libbytesize]({{< ref "/f25/package/libbytesize.md" >}}) | 0 | 17 | 0.0 | Angika | 
- | [libosinfo]({{< ref "/f25/package/libosinfo.md" >}}) | 0 | 662 | 0.0 | Angika | 
- | [libvirt]({{< ref "/f25/package/libvirt.md" >}}) | 0 | 58480 | 0.0 | Angika | 
- | [libvirt-glib]({{< ref "/f25/package/libvirt-glib.md" >}}) | 0 | 145 | 0.0 | Angika | 
- | [libvirt-sandbox]({{< ref "/f25/package/libvirt-sandbox.md" >}}) | 0 | 617 | 0.0 | Angika | 
- | [mingw-libvirt]({{< ref "/f25/package/mingw-libvirt.md" >}}) | 0 | 58480 | 0.0 | Angika | 
- | [mingw-libvirt-glib]({{< ref "/f25/package/mingw-libvirt-glib.md" >}}) | 0 | 145 | 0.0 | Angika | 
- | [osinfo-db-tools]({{< ref "/f25/package/osinfo-db-tools.md" >}}) | 0 | 56 | 0.0 | Angika | 
- | [pam]({{< ref "/f25/package/pam.md" >}}) | 0 | 597 | 0.0 | Angika | 
- | [pykickstart]({{< ref "/f25/package/pykickstart.md" >}}) | 0 | 1378 | 0.0 | Angika | 
- | [python-blivet]({{< ref "/f25/package/python-blivet.md" >}}) | 0 | 692 | 0.0 | Angika | 
- | [python-blivet1]({{< ref "/f25/package/python-blivet1.md" >}}) | 0 | 696 | 0.0 | Angika | 
- | [python-fedora]({{< ref "/f25/package/python-fedora.md" >}}) | 0 | 214 | 0.0 | Angika | 
- | [python-meh]({{< ref "/f25/package/python-meh.md" >}}) | 0 | 109 | 0.0 | Angika | 
- | [virt-viewer]({{< ref "/f25/package/virt-viewer.md" >}}) | 0 | 784 | 0.0 | Angika | 
+ | [anaconda](/f25/package/anaconda) | 0 | 7213 | 0.0 | Angika | 
+ | [blivet-gui](/f25/package/blivet-gui) | 0 | 696 | 0.0 | Angika | 
+ | [dnf-plugin-system-upgrade](/f25/package/dnf-plugin-system-upgrade) | 0 | 211 | 0.0 | Angika | 
+ | [dnf-plugins-extras](/f25/package/dnf-plugins-extras) | 0 | 375 | 0.0 | Angika | 
+ | [docker-anaconda-addon](/f25/package/docker-anaconda-addon) | 0 | 27 | 0.0 | Angika | 
+ | [entangle](/f25/package/entangle) | 0 | 935 | 0.0 | Angika | 
+ | [initial-setup](/f25/package/initial-setup) | 0 | 33 | 0.0 | Angika | 
+ | [libbytesize](/f25/package/libbytesize) | 0 | 17 | 0.0 | Angika | 
+ | [libosinfo](/f25/package/libosinfo) | 0 | 662 | 0.0 | Angika | 
+ | [libvirt](/f25/package/libvirt) | 0 | 58480 | 0.0 | Angika | 
+ | [libvirt-glib](/f25/package/libvirt-glib) | 0 | 145 | 0.0 | Angika | 
+ | [libvirt-sandbox](/f25/package/libvirt-sandbox) | 0 | 617 | 0.0 | Angika | 
+ | [mingw-libvirt](/f25/package/mingw-libvirt) | 0 | 58480 | 0.0 | Angika | 
+ | [mingw-libvirt-glib](/f25/package/mingw-libvirt-glib) | 0 | 145 | 0.0 | Angika | 
+ | [osinfo-db-tools](/f25/package/osinfo-db-tools) | 0 | 56 | 0.0 | Angika | 
+ | [pam](/f25/package/pam) | 0 | 597 | 0.0 | Angika | 
+ | [pykickstart](/f25/package/pykickstart) | 0 | 1378 | 0.0 | Angika | 
+ | [python-blivet](/f25/package/python-blivet) | 0 | 692 | 0.0 | Angika | 
+ | [python-blivet1](/f25/package/python-blivet1) | 0 | 696 | 0.0 | Angika | 
+ | [python-fedora](/f25/package/python-fedora) | 0 | 214 | 0.0 | Angika | 
+ | [python-meh](/f25/package/python-meh) | 0 | 109 | 0.0 | Angika | 
+ | [virt-viewer](/f25/package/virt-viewer) | 0 | 784 | 0.0 | Angika | 
 {.sortable}
 
 

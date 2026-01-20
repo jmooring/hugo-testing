@@ -18,11 +18,11 @@ The package gnomescan (version 0.4.0.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f8/language/ar.md" >}}) | 158 | 158 | 100.0 | /mnt/stockage/packages/f8/gnomescan/po/ar.po | 
- | [ca]({{< ref "/f8/language/ca.md" >}}) | 152 | 152 | 100.0 | /mnt/stockage/packages/f8/gnomescan/po/ca.po | 
- | [de]({{< ref "/f8/language/de.md" >}}) | 152 | 152 | 100.0 | /mnt/stockage/packages/f8/gnomescan/po/de.po | 
- | [fr]({{< ref "/f8/language/fr.md" >}}) | 152 | 152 | 100.0 | /mnt/stockage/packages/f8/gnomescan/po/fr.po | 
- | [sv]({{< ref "/f8/language/sv.md" >}}) | 152 | 152 | 100.0 | /mnt/stockage/packages/f8/gnomescan/po/sv.po | 
+ | [ar](/f8/language/ar) | 158 | 158 | 100.0 | /mnt/stockage/packages/f8/gnomescan/po/ar.po | 
+ | [ca](/f8/language/ca) | 152 | 152 | 100.0 | /mnt/stockage/packages/f8/gnomescan/po/ca.po | 
+ | [de](/f8/language/de) | 152 | 152 | 100.0 | /mnt/stockage/packages/f8/gnomescan/po/de.po | 
+ | [fr](/f8/language/fr) | 152 | 152 | 100.0 | /mnt/stockage/packages/f8/gnomescan/po/fr.po | 
+ | [sv](/f8/language/sv) | 152 | 152 | 100.0 | /mnt/stockage/packages/f8/gnomescan/po/sv.po | 
 {.sortable}
 
 

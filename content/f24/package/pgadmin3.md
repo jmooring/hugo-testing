@@ -18,51 +18,51 @@ The package pgadmin3 (version 1.22.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [pl]({{< ref "/f24/language/pl.md" >}}) | 16734 | 16742 | 100.0 | /mnt/stockage/packages/f24/pgadmin3/i18n/pl_PL/pgadmin3.po | 
- | [ca]({{< ref "/f24/language/ca.md" >}}) | 16709 | 16898 | 98.9 | /mnt/stockage/packages/f24/pgadmin3/i18n/ca_ES/pgadmin3.po | 
- | [cs]({{< ref "/f24/language/cs.md" >}}) | 16709 | 16898 | 98.9 | /mnt/stockage/packages/f24/pgadmin3/i18n/cs_CZ/pgadmin3.po | 
- | [es]({{< ref "/f24/language/es.md" >}}) | 16709 | 16898 | 98.9 | /mnt/stockage/packages/f24/pgadmin3/i18n/es_ES/pgadmin3.po | 
- | [fr]({{< ref "/f24/language/fr.md" >}}) | 16709 | 16898 | 98.9 | /mnt/stockage/packages/f24/pgadmin3/i18n/fr_FR/pgadmin3.po | 
- | [lv]({{< ref "/f24/language/lv.md" >}}) | 16709 | 16898 | 98.9 | /mnt/stockage/packages/f24/pgadmin3/i18n/lv_LV/pgadmin3.po | 
- | [zh_Hans]({{< ref "/f24/language/zh_Hans.md" >}}) | 16705 | 16898 | 98.9 | /mnt/stockage/packages/f24/pgadmin3/i18n/zh_CN/pgadmin3.po | 
- | [ru]({{< ref "/f24/language/ru.md" >}}) | 16677 | 16898 | 98.7 | /mnt/stockage/packages/f24/pgadmin3/i18n/ru_RU/pgadmin3.po | 
- | [sr_Latn]({{< ref "/f24/language/sr_Latn.md" >}}) | 16482 | 16898 | 97.5 | /mnt/stockage/packages/f24/pgadmin3/i18n/sr_RS/pgadmin3.po | 
- | [ja]({{< ref "/f24/language/ja.md" >}}) | 13597 | 16898 | 80.5 | /mnt/stockage/packages/f24/pgadmin3/i18n/ja_JP/pgadmin3.po | 
- | [de]({{< ref "/f24/language/de.md" >}}) | 13322 | 16898 | 78.8 | /mnt/stockage/packages/f24/pgadmin3/i18n/de_DE/pgadmin3.po | 
- | [fa]({{< ref "/f24/language/fa.md" >}}) | 12393 | 16898 | 73.3 | /mnt/stockage/packages/f24/pgadmin3/i18n/fa_IR/pgadmin3.po | 
- | [ko]({{< ref "/f24/language/ko.md" >}}) | 9655 | 16898 | 57.1 | /mnt/stockage/packages/f24/pgadmin3/i18n/ko_KR/pgadmin3.po | 
- | [it]({{< ref "/f24/language/it.md" >}}) | 9634 | 16898 | 57.0 | /mnt/stockage/packages/f24/pgadmin3/i18n/it_IT/pgadmin3.po | 
- | [pt_PT]({{< ref "/f24/language/pt_PT.md" >}}) | 9634 | 16898 | 57.0 | /mnt/stockage/packages/f24/pgadmin3/i18n/pt_PT/pgadmin3.po | 
- | [zh_Hant]({{< ref "/f24/language/zh_Hant.md" >}}) | 9616 | 16898 | 56.9 | /mnt/stockage/packages/f24/pgadmin3/i18n/zh_TW/pgadmin3.po | 
- | [nl]({{< ref "/f24/language/nl.md" >}}) | 7673 | 16898 | 45.4 | /mnt/stockage/packages/f24/pgadmin3/i18n/nl_NL/pgadmin3.po | 
- | [af]({{< ref "/f24/language/af.md" >}}) | 7603 | 16898 | 45.0 | /mnt/stockage/packages/f24/pgadmin3/i18n/af_ZA/pgadmin3.po | 
- | [fi]({{< ref "/f24/language/fi.md" >}}) | 7248 | 16898 | 42.9 | /mnt/stockage/packages/f24/pgadmin3/i18n/fi_FI/pgadmin3.po | 
- | [pt_BR]({{< ref "/f24/language/pt_BR.md" >}}) | 7088 | 16898 | 41.9 | /mnt/stockage/packages/f24/pgadmin3/i18n/pt_BR/pgadmin3.po | 
- | [gl]({{< ref "/f24/language/gl.md" >}}) | 7036 | 16898 | 41.6 | /mnt/stockage/packages/f24/pgadmin3/i18n/gl_ES/pgadmin3.po | 
- | [bg]({{< ref "/f24/language/bg.md" >}}) | 6910 | 16898 | 40.9 | /mnt/stockage/packages/f24/pgadmin3/i18n/bg_BG/pgadmin3.po | 
- | [tr]({{< ref "/f24/language/tr.md" >}}) | 5087 | 16898 | 30.1 | /mnt/stockage/packages/f24/pgadmin3/i18n/tr_TR/pgadmin3.po | 
- | [sl]({{< ref "/f24/language/sl.md" >}}) | 4501 | 16898 | 26.6 | /mnt/stockage/packages/f24/pgadmin3/i18n/sl_SI/pgadmin3.po | 
- | [ar]({{< ref "/f24/language/ar.md" >}}) | 3471 | 16898 | 20.5 | /mnt/stockage/packages/f24/pgadmin3/i18n/ar_SA/pgadmin3.po | 
- | [da]({{< ref "/f24/language/da.md" >}}) | 3003 | 16898 | 17.8 | /mnt/stockage/packages/f24/pgadmin3/i18n/da_DK/pgadmin3.po | 
- | [el]({{< ref "/f24/language/el.md" >}}) | 3003 | 16898 | 17.8 | /mnt/stockage/packages/f24/pgadmin3/i18n/el_GR/pgadmin3.po | 
- | [id]({{< ref "/f24/language/id.md" >}}) | 3003 | 16898 | 17.8 | /mnt/stockage/packages/f24/pgadmin3/i18n/id_ID/pgadmin3.po | 
- | [sk]({{< ref "/f24/language/sk.md" >}}) | 2947 | 16898 | 17.4 | /mnt/stockage/packages/f24/pgadmin3/i18n/sk_SK/pgadmin3.po | 
- | [ro]({{< ref "/f24/language/ro.md" >}}) | 2817 | 16898 | 16.7 | /mnt/stockage/packages/f24/pgadmin3/i18n/ro_RO/pgadmin3.po | 
- | [hu]({{< ref "/f24/language/hu.md" >}}) | 2613 | 16898 | 15.5 | /mnt/stockage/packages/f24/pgadmin3/i18n/hu_HU/pgadmin3.po | 
- | [nb_NO]({{< ref "/f24/language/nb_NO.md" >}}) | 2159 | 16898 | 12.8 | /mnt/stockage/packages/f24/pgadmin3/i18n/nb_NO/pgadmin3.po | 
- | [sv]({{< ref "/f24/language/sv.md" >}}) | 2159 | 16898 | 12.8 | /mnt/stockage/packages/f24/pgadmin3/i18n/sv_SE/pgadmin3.po | 
- | [de_CH]({{< ref "/f24/language/de_CH.md" >}}) | 2152 | 16898 | 12.7 | /mnt/stockage/packages/f24/pgadmin3/i18n/de_CH/pgadmin3.po | 
- | [hr]({{< ref "/f24/language/hr.md" >}}) | 2092 | 16898 | 12.4 | /mnt/stockage/packages/f24/pgadmin3/i18n/hr_HR/pgadmin3.po | 
- | [ur_PK]({{< ref "/f24/language/ur_PK.md" >}}) | 1373 | 16898 | 8.1 | /mnt/stockage/packages/f24/pgadmin3/i18n/ur_PK/pgadmin3.po | 
- | [tl]({{< ref "/f24/language/tl.md" >}}) | 1297 | 16898 | 7.7 | /mnt/stockage/packages/f24/pgadmin3/i18n/tl_PH/pgadmin3.po | 
- | [lt]({{< ref "/f24/language/lt.md" >}}) | 1189 | 16898 | 7.0 | /mnt/stockage/packages/f24/pgadmin3/i18n/lt_LT/pgadmin3.po | 
- | [hi]({{< ref "/f24/language/hi.md" >}}) | 210 | 16898 | 1.2 | /mnt/stockage/packages/f24/pgadmin3/i18n/hi_IN/pgadmin3.po | 
- | [mk]({{< ref "/f24/language/mk.md" >}}) | 50 | 16898 | 0.3 | /mnt/stockage/packages/f24/pgadmin3/i18n/mk_MK/pgadmin3.po | 
- | [te]({{< ref "/f24/language/te.md" >}}) | 50 | 16898 | 0.3 | /mnt/stockage/packages/f24/pgadmin3/i18n/te_IN/pgadmin3.po | 
- | [gu_IN]({{< ref "/f24/language/gu_IN.md" >}}) | 2 | 16898 | 0.0 | /mnt/stockage/packages/f24/pgadmin3/i18n/gu_IN/pgadmin3.po | 
- | [is]({{< ref "/f24/language/is.md" >}}) | 2 | 16898 | 0.0 | /mnt/stockage/packages/f24/pgadmin3/i18n/is_IS/pgadmin3.po | 
- | [uk]({{< ref "/f24/language/uk.md" >}}) | 2 | 16898 | 0.0 | /mnt/stockage/packages/f24/pgadmin3/i18n/uk_UA/pgadmin3.po | 
- | [vi]({{< ref "/f24/language/vi.md" >}}) | 2 | 16898 | 0.0 | /mnt/stockage/packages/f24/pgadmin3/i18n/vi_VN/pgadmin3.po | 
+ | [pl](/f24/language/pl) | 16734 | 16742 | 100.0 | /mnt/stockage/packages/f24/pgadmin3/i18n/pl_PL/pgadmin3.po | 
+ | [ca](/f24/language/ca) | 16709 | 16898 | 98.9 | /mnt/stockage/packages/f24/pgadmin3/i18n/ca_ES/pgadmin3.po | 
+ | [cs](/f24/language/cs) | 16709 | 16898 | 98.9 | /mnt/stockage/packages/f24/pgadmin3/i18n/cs_CZ/pgadmin3.po | 
+ | [es](/f24/language/es) | 16709 | 16898 | 98.9 | /mnt/stockage/packages/f24/pgadmin3/i18n/es_ES/pgadmin3.po | 
+ | [fr](/f24/language/fr) | 16709 | 16898 | 98.9 | /mnt/stockage/packages/f24/pgadmin3/i18n/fr_FR/pgadmin3.po | 
+ | [lv](/f24/language/lv) | 16709 | 16898 | 98.9 | /mnt/stockage/packages/f24/pgadmin3/i18n/lv_LV/pgadmin3.po | 
+ | [zh_Hans](/f24/language/zh_Hans) | 16705 | 16898 | 98.9 | /mnt/stockage/packages/f24/pgadmin3/i18n/zh_CN/pgadmin3.po | 
+ | [ru](/f24/language/ru) | 16677 | 16898 | 98.7 | /mnt/stockage/packages/f24/pgadmin3/i18n/ru_RU/pgadmin3.po | 
+ | [sr_Latn](/f24/language/sr_Latn) | 16482 | 16898 | 97.5 | /mnt/stockage/packages/f24/pgadmin3/i18n/sr_RS/pgadmin3.po | 
+ | [ja](/f24/language/ja) | 13597 | 16898 | 80.5 | /mnt/stockage/packages/f24/pgadmin3/i18n/ja_JP/pgadmin3.po | 
+ | [de](/f24/language/de) | 13322 | 16898 | 78.8 | /mnt/stockage/packages/f24/pgadmin3/i18n/de_DE/pgadmin3.po | 
+ | [fa](/f24/language/fa) | 12393 | 16898 | 73.3 | /mnt/stockage/packages/f24/pgadmin3/i18n/fa_IR/pgadmin3.po | 
+ | [ko](/f24/language/ko) | 9655 | 16898 | 57.1 | /mnt/stockage/packages/f24/pgadmin3/i18n/ko_KR/pgadmin3.po | 
+ | [it](/f24/language/it) | 9634 | 16898 | 57.0 | /mnt/stockage/packages/f24/pgadmin3/i18n/it_IT/pgadmin3.po | 
+ | [pt_PT](/f24/language/pt_PT) | 9634 | 16898 | 57.0 | /mnt/stockage/packages/f24/pgadmin3/i18n/pt_PT/pgadmin3.po | 
+ | [zh_Hant](/f24/language/zh_Hant) | 9616 | 16898 | 56.9 | /mnt/stockage/packages/f24/pgadmin3/i18n/zh_TW/pgadmin3.po | 
+ | [nl](/f24/language/nl) | 7673 | 16898 | 45.4 | /mnt/stockage/packages/f24/pgadmin3/i18n/nl_NL/pgadmin3.po | 
+ | [af](/f24/language/af) | 7603 | 16898 | 45.0 | /mnt/stockage/packages/f24/pgadmin3/i18n/af_ZA/pgadmin3.po | 
+ | [fi](/f24/language/fi) | 7248 | 16898 | 42.9 | /mnt/stockage/packages/f24/pgadmin3/i18n/fi_FI/pgadmin3.po | 
+ | [pt_BR](/f24/language/pt_BR) | 7088 | 16898 | 41.9 | /mnt/stockage/packages/f24/pgadmin3/i18n/pt_BR/pgadmin3.po | 
+ | [gl](/f24/language/gl) | 7036 | 16898 | 41.6 | /mnt/stockage/packages/f24/pgadmin3/i18n/gl_ES/pgadmin3.po | 
+ | [bg](/f24/language/bg) | 6910 | 16898 | 40.9 | /mnt/stockage/packages/f24/pgadmin3/i18n/bg_BG/pgadmin3.po | 
+ | [tr](/f24/language/tr) | 5087 | 16898 | 30.1 | /mnt/stockage/packages/f24/pgadmin3/i18n/tr_TR/pgadmin3.po | 
+ | [sl](/f24/language/sl) | 4501 | 16898 | 26.6 | /mnt/stockage/packages/f24/pgadmin3/i18n/sl_SI/pgadmin3.po | 
+ | [ar](/f24/language/ar) | 3471 | 16898 | 20.5 | /mnt/stockage/packages/f24/pgadmin3/i18n/ar_SA/pgadmin3.po | 
+ | [da](/f24/language/da) | 3003 | 16898 | 17.8 | /mnt/stockage/packages/f24/pgadmin3/i18n/da_DK/pgadmin3.po | 
+ | [el](/f24/language/el) | 3003 | 16898 | 17.8 | /mnt/stockage/packages/f24/pgadmin3/i18n/el_GR/pgadmin3.po | 
+ | [id](/f24/language/id) | 3003 | 16898 | 17.8 | /mnt/stockage/packages/f24/pgadmin3/i18n/id_ID/pgadmin3.po | 
+ | [sk](/f24/language/sk) | 2947 | 16898 | 17.4 | /mnt/stockage/packages/f24/pgadmin3/i18n/sk_SK/pgadmin3.po | 
+ | [ro](/f24/language/ro) | 2817 | 16898 | 16.7 | /mnt/stockage/packages/f24/pgadmin3/i18n/ro_RO/pgadmin3.po | 
+ | [hu](/f24/language/hu) | 2613 | 16898 | 15.5 | /mnt/stockage/packages/f24/pgadmin3/i18n/hu_HU/pgadmin3.po | 
+ | [nb_NO](/f24/language/nb_NO) | 2159 | 16898 | 12.8 | /mnt/stockage/packages/f24/pgadmin3/i18n/nb_NO/pgadmin3.po | 
+ | [sv](/f24/language/sv) | 2159 | 16898 | 12.8 | /mnt/stockage/packages/f24/pgadmin3/i18n/sv_SE/pgadmin3.po | 
+ | [de_CH](/f24/language/de_CH) | 2152 | 16898 | 12.7 | /mnt/stockage/packages/f24/pgadmin3/i18n/de_CH/pgadmin3.po | 
+ | [hr](/f24/language/hr) | 2092 | 16898 | 12.4 | /mnt/stockage/packages/f24/pgadmin3/i18n/hr_HR/pgadmin3.po | 
+ | [ur_PK](/f24/language/ur_PK) | 1373 | 16898 | 8.1 | /mnt/stockage/packages/f24/pgadmin3/i18n/ur_PK/pgadmin3.po | 
+ | [tl](/f24/language/tl) | 1297 | 16898 | 7.7 | /mnt/stockage/packages/f24/pgadmin3/i18n/tl_PH/pgadmin3.po | 
+ | [lt](/f24/language/lt) | 1189 | 16898 | 7.0 | /mnt/stockage/packages/f24/pgadmin3/i18n/lt_LT/pgadmin3.po | 
+ | [hi](/f24/language/hi) | 210 | 16898 | 1.2 | /mnt/stockage/packages/f24/pgadmin3/i18n/hi_IN/pgadmin3.po | 
+ | [mk](/f24/language/mk) | 50 | 16898 | 0.3 | /mnt/stockage/packages/f24/pgadmin3/i18n/mk_MK/pgadmin3.po | 
+ | [te](/f24/language/te) | 50 | 16898 | 0.3 | /mnt/stockage/packages/f24/pgadmin3/i18n/te_IN/pgadmin3.po | 
+ | [gu_IN](/f24/language/gu_IN) | 2 | 16898 | 0.0 | /mnt/stockage/packages/f24/pgadmin3/i18n/gu_IN/pgadmin3.po | 
+ | [is](/f24/language/is) | 2 | 16898 | 0.0 | /mnt/stockage/packages/f24/pgadmin3/i18n/is_IS/pgadmin3.po | 
+ | [uk](/f24/language/uk) | 2 | 16898 | 0.0 | /mnt/stockage/packages/f24/pgadmin3/i18n/uk_UA/pgadmin3.po | 
+ | [vi](/f24/language/vi) | 2 | 16898 | 0.0 | /mnt/stockage/packages/f24/pgadmin3/i18n/vi_VN/pgadmin3.po | 
 {.sortable}
 
 

@@ -40,10 +40,10 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [eog]({{< ref "/f17/package/eog.md" >}}) | 1589 | 1589 | 100.0 | ts | 
- | [kde-i18n]({{< ref "/f17/package/kde-i18n.md" >}}) | 5 | 5 | 100.0 | Traditional Chinese <zh_l10n@linux.org.tw> | 
- | [cinnamon]({{< ref "/f17/package/cinnamon.md" >}}) | 956 | 1696 | 56.4 | Tsonga <translate-discuss-ts@lists.sourceforge.net> | 
- | [libreoffice]({{< ref "/f17/package/libreoffice.md" >}}) | 47257 | 93282 | 50.7 | LANGUAGE <LL@li.org> | 
+ | [eog](/f17/package/eog) | 1589 | 1589 | 100.0 | ts | 
+ | [kde-i18n](/f17/package/kde-i18n) | 5 | 5 | 100.0 | Traditional Chinese <zh_l10n@linux.org.tw> | 
+ | [cinnamon](/f17/package/cinnamon) | 956 | 1696 | 56.4 | Tsonga <translate-discuss-ts@lists.sourceforge.net> | 
+ | [libreoffice](/f17/package/libreoffice) | 47257 | 93282 | 50.7 | LANGUAGE <LL@li.org> | 
 {.sortable}
 
 

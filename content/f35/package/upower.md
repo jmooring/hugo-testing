@@ -18,10 +18,10 @@ The package upower (version 0.99.13):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f35/language/fr.md" >}}) | 145 | 145 | 100.0 | /mnt/stockage/packages/f35/upower/po/fr.po | 
- | [it]({{< ref "/f35/language/it.md" >}}) | 113 | 113 | 100.0 | /mnt/stockage/packages/f35/upower/po/it.po | 
- | [pl]({{< ref "/f35/language/pl.md" >}}) | 145 | 145 | 100.0 | /mnt/stockage/packages/f35/upower/po/pl.po | 
- | [sv]({{< ref "/f35/language/sv.md" >}}) | 113 | 113 | 100.0 | /mnt/stockage/packages/f35/upower/po/sv.po | 
+ | [fr](/f35/language/fr) | 145 | 145 | 100.0 | /mnt/stockage/packages/f35/upower/po/fr.po | 
+ | [it](/f35/language/it) | 113 | 113 | 100.0 | /mnt/stockage/packages/f35/upower/po/it.po | 
+ | [pl](/f35/language/pl) | 145 | 145 | 100.0 | /mnt/stockage/packages/f35/upower/po/pl.po | 
+ | [sv](/f35/language/sv) | 113 | 113 | 100.0 | /mnt/stockage/packages/f35/upower/po/sv.po | 
 {.sortable}
 
 

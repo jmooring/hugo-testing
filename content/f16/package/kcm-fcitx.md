@@ -18,8 +18,8 @@ The package kcm-fcitx (version 0.3.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [zh_Hans]({{< ref "/f16/language/zh_Hans.md" >}}) | 100 | 100 | 100.0 | /mnt/stockage/packages/f16/kcm-fcitx/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f16/language/zh_Hant.md" >}}) | 100 | 100 | 100.0 | /mnt/stockage/packages/f16/kcm-fcitx/po/zh_TW.po | 
+ | [zh_Hans](/f16/language/zh_Hans) | 100 | 100 | 100.0 | /mnt/stockage/packages/f16/kcm-fcitx/po/zh_CN.po | 
+ | [zh_Hant](/f16/language/zh_Hant) | 100 | 100 | 100.0 | /mnt/stockage/packages/f16/kcm-fcitx/po/zh_TW.po | 
 {.sortable}
 
 

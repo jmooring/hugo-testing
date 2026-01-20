@@ -18,79 +18,79 @@ The package kf5-kholidays (version 5.79.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [az]({{< ref "/f33/language/az.md" >}}) | 139 | 139 | 100.0 | /mnt/stockage/packages/f33/kf5-kholidays/po/az/libkholidays5_qt.po | 
- | [ca]({{< ref "/f33/language/ca.md" >}}) | 139 | 139 | 100.0 | /mnt/stockage/packages/f33/kf5-kholidays/po/ca/libkholidays5_qt.po | 
- | [cs]({{< ref "/f33/language/cs.md" >}}) | 139 | 139 | 100.0 | /mnt/stockage/packages/f33/kf5-kholidays/po/cs/libkholidays5_qt.po | 
- | [da]({{< ref "/f33/language/da.md" >}}) | 139 | 139 | 100.0 | /mnt/stockage/packages/f33/kf5-kholidays/po/da/libkholidays5_qt.po | 
- | [de]({{< ref "/f33/language/de.md" >}}) | 139 | 139 | 100.0 | /mnt/stockage/packages/f33/kf5-kholidays/po/de/libkholidays5_qt.po | 
- | [en_GB]({{< ref "/f33/language/en_GB.md" >}}) | 139 | 139 | 100.0 | /mnt/stockage/packages/f33/kf5-kholidays/po/en_GB/libkholidays5_qt.po | 
- | [es]({{< ref "/f33/language/es.md" >}}) | 139 | 139 | 100.0 | /mnt/stockage/packages/f33/kf5-kholidays/po/es/libkholidays5_qt.po | 
- | [et]({{< ref "/f33/language/et.md" >}}) | 139 | 139 | 100.0 | /mnt/stockage/packages/f33/kf5-kholidays/po/et/libkholidays5_qt.po | 
- | [eu]({{< ref "/f33/language/eu.md" >}}) | 139 | 139 | 100.0 | /mnt/stockage/packages/f33/kf5-kholidays/po/eu/libkholidays5_qt.po | 
- | [fi]({{< ref "/f33/language/fi.md" >}}) | 139 | 139 | 100.0 | /mnt/stockage/packages/f33/kf5-kholidays/po/fi/libkholidays5_qt.po | 
- | [fr]({{< ref "/f33/language/fr.md" >}}) | 139 | 139 | 100.0 | /mnt/stockage/packages/f33/kf5-kholidays/po/fr/libkholidays5_qt.po | 
- | [hu]({{< ref "/f33/language/hu.md" >}}) | 139 | 139 | 100.0 | /mnt/stockage/packages/f33/kf5-kholidays/po/hu/libkholidays5_qt.po | 
- | [it]({{< ref "/f33/language/it.md" >}}) | 139 | 139 | 100.0 | /mnt/stockage/packages/f33/kf5-kholidays/po/it/libkholidays5_qt.po | 
- | [ko]({{< ref "/f33/language/ko.md" >}}) | 139 | 139 | 100.0 | /mnt/stockage/packages/f33/kf5-kholidays/po/ko/libkholidays5_qt.po | 
- | [nl]({{< ref "/f33/language/nl.md" >}}) | 139 | 139 | 100.0 | /mnt/stockage/packages/f33/kf5-kholidays/po/nl/libkholidays5_qt.po | 
- | [nn]({{< ref "/f33/language/nn.md" >}}) | 139 | 139 | 100.0 | /mnt/stockage/packages/f33/kf5-kholidays/po/nn/libkholidays5_qt.po | 
- | [pl]({{< ref "/f33/language/pl.md" >}}) | 139 | 139 | 100.0 | /mnt/stockage/packages/f33/kf5-kholidays/po/pl/libkholidays5_qt.po | 
- | [pt]({{< ref "/f33/language/pt.md" >}}) | 139 | 139 | 100.0 | /mnt/stockage/packages/f33/kf5-kholidays/po/pt/libkholidays5_qt.po | 
- | [pt_BR]({{< ref "/f33/language/pt_BR.md" >}}) | 139 | 139 | 100.0 | /mnt/stockage/packages/f33/kf5-kholidays/po/pt_BR/libkholidays5_qt.po | 
- | [ru]({{< ref "/f33/language/ru.md" >}}) | 139 | 139 | 100.0 | /mnt/stockage/packages/f33/kf5-kholidays/po/ru/libkholidays5_qt.po | 
- | [sk]({{< ref "/f33/language/sk.md" >}}) | 139 | 139 | 100.0 | /mnt/stockage/packages/f33/kf5-kholidays/po/sk/libkholidays5_qt.po | 
- | [sl]({{< ref "/f33/language/sl.md" >}}) | 139 | 139 | 100.0 | /mnt/stockage/packages/f33/kf5-kholidays/po/sl/libkholidays5_qt.po | 
- | [sv]({{< ref "/f33/language/sv.md" >}}) | 139 | 139 | 100.0 | /mnt/stockage/packages/f33/kf5-kholidays/po/sv/libkholidays5_qt.po | 
- | [uk]({{< ref "/f33/language/uk.md" >}}) | 139 | 139 | 100.0 | /mnt/stockage/packages/f33/kf5-kholidays/po/uk/libkholidays5_qt.po | 
- | [zh_Hant]({{< ref "/f33/language/zh_Hant.md" >}}) | 139 | 139 | 100.0 | /mnt/stockage/packages/f33/kf5-kholidays/po/zh_TW/libkholidays5_qt.po | 
- | [ia]({{< ref "/f33/language/ia.md" >}}) | 116 | 139 | 83.5 | /mnt/stockage/packages/f33/kf5-kholidays/po/ia/libkholidays5_qt.po | 
- | [ca@valencia]({{< ref "/f33/language/ca@valencia.md" >}}) | 108 | 139 | 77.7 | /mnt/stockage/packages/f33/kf5-kholidays/po/ca@valencia/libkholidays5_qt.po | 
- | [gl]({{< ref "/f33/language/gl.md" >}}) | 108 | 139 | 77.7 | /mnt/stockage/packages/f33/kf5-kholidays/po/gl/libkholidays5_qt.po | 
- | [id]({{< ref "/f33/language/id.md" >}}) | 108 | 139 | 77.7 | /mnt/stockage/packages/f33/kf5-kholidays/po/id/libkholidays5_qt.po | 
- | [lt]({{< ref "/f33/language/lt.md" >}}) | 108 | 139 | 77.7 | /mnt/stockage/packages/f33/kf5-kholidays/po/lt/libkholidays5_qt.po | 
- | [nb_NO]({{< ref "/f33/language/nb_NO.md" >}}) | 108 | 139 | 77.7 | /mnt/stockage/packages/f33/kf5-kholidays/po/nb/libkholidays5_qt.po | 
- | [sr]({{< ref "/f33/language/sr.md" >}}) | 108 | 139 | 77.7 | /mnt/stockage/packages/f33/kf5-kholidays/po/sr/libkholidays5_qt.po | 
- | [sr@ijekavian]({{< ref "/f33/language/sr@ijekavian.md" >}}) | 108 | 139 | 77.7 | /mnt/stockage/packages/f33/kf5-kholidays/po/sr@ijekavian/libkholidays5_qt.po | 
- | [sr@ijekavian_Latn]({{< ref "/f33/language/sr@ijekavian_Latn.md" >}}) | 108 | 139 | 77.7 | /mnt/stockage/packages/f33/kf5-kholidays/po/sr@ijekavianlatin/libkholidays5_qt.po | 
- | [sr_Latn]({{< ref "/f33/language/sr_Latn.md" >}}) | 108 | 139 | 77.7 | /mnt/stockage/packages/f33/kf5-kholidays/po/sr@latin/libkholidays5_qt.po | 
- | [tg]({{< ref "/f33/language/tg.md" >}}) | 108 | 139 | 77.7 | /mnt/stockage/packages/f33/kf5-kholidays/po/tg/libkholidays5_qt.po | 
- | [tr]({{< ref "/f33/language/tr.md" >}}) | 108 | 139 | 77.7 | /mnt/stockage/packages/f33/kf5-kholidays/po/tr/libkholidays5_qt.po | 
- | [zh_Hans]({{< ref "/f33/language/zh_Hans.md" >}}) | 108 | 139 | 77.7 | /mnt/stockage/packages/f33/kf5-kholidays/po/zh_CN/libkholidays5_qt.po | 
- | [lv]({{< ref "/f33/language/lv.md" >}}) | 98 | 139 | 70.5 | /mnt/stockage/packages/f33/kf5-kholidays/po/lv/libkholidays5_qt.po | 
- | [ar]({{< ref "/f33/language/ar.md" >}}) | 95 | 139 | 68.3 | /mnt/stockage/packages/f33/kf5-kholidays/po/ar/libkholidays5_qt.po | 
- | [ro]({{< ref "/f33/language/ro.md" >}}) | 86 | 139 | 61.9 | /mnt/stockage/packages/f33/kf5-kholidays/po/ro/libkholidays5_qt.po | 
- | [ast]({{< ref "/f33/language/ast.md" >}}) | 80 | 139 | 57.6 | /mnt/stockage/packages/f33/kf5-kholidays/po/ast/libkholidays5_qt.po | 
- | [ja]({{< ref "/f33/language/ja.md" >}}) | 50 | 139 | 36.0 | /mnt/stockage/packages/f33/kf5-kholidays/po/ja/libkholidays5_qt.po | 
- | [be]({{< ref "/f33/language/be.md" >}}) | 0 | 139 | 0.0 | /mnt/stockage/packages/f33/kf5-kholidays/po/be/libkholidays5_qt.po | 
- | [bg]({{< ref "/f33/language/bg.md" >}}) | 0 | 139 | 0.0 | /mnt/stockage/packages/f33/kf5-kholidays/po/bg/libkholidays5_qt.po | 
- | [br]({{< ref "/f33/language/br.md" >}}) | 0 | 139 | 0.0 | /mnt/stockage/packages/f33/kf5-kholidays/po/br/libkholidays5_qt.po | 
- | [bs]({{< ref "/f33/language/bs.md" >}}) | 0 | 139 | 0.0 | /mnt/stockage/packages/f33/kf5-kholidays/po/bs/libkholidays5_qt.po | 
- | [cy]({{< ref "/f33/language/cy.md" >}}) | 0 | 139 | 0.0 | /mnt/stockage/packages/f33/kf5-kholidays/po/cy/libkholidays5_qt.po | 
- | [el]({{< ref "/f33/language/el.md" >}}) | 0 | 139 | 0.0 | /mnt/stockage/packages/f33/kf5-kholidays/po/el/libkholidays5_qt.po | 
- | [eo]({{< ref "/f33/language/eo.md" >}}) | 0 | 139 | 0.0 | /mnt/stockage/packages/f33/kf5-kholidays/po/eo/libkholidays5_qt.po | 
- | [fa]({{< ref "/f33/language/fa.md" >}}) | 0 | 139 | 0.0 | /mnt/stockage/packages/f33/kf5-kholidays/po/fa/libkholidays5_qt.po | 
- | [fy]({{< ref "/f33/language/fy.md" >}}) | 0 | 139 | 0.0 | /mnt/stockage/packages/f33/kf5-kholidays/po/fy/libkholidays5_qt.po | 
- | [ga]({{< ref "/f33/language/ga.md" >}}) | 0 | 139 | 0.0 | /mnt/stockage/packages/f33/kf5-kholidays/po/ga/libkholidays5_qt.po | 
- | [he]({{< ref "/f33/language/he.md" >}}) | 0 | 139 | 0.0 | /mnt/stockage/packages/f33/kf5-kholidays/po/he/libkholidays5_qt.po | 
- | [hi]({{< ref "/f33/language/hi.md" >}}) | 0 | 139 | 0.0 | /mnt/stockage/packages/f33/kf5-kholidays/po/hi/libkholidays5_qt.po | 
- | [hne]({{< ref "/f33/language/hne.md" >}}) | 0 | 139 | 0.0 | /mnt/stockage/packages/f33/kf5-kholidays/po/hne/libkholidays5_qt.po | 
- | [is]({{< ref "/f33/language/is.md" >}}) | 0 | 139 | 0.0 | /mnt/stockage/packages/f33/kf5-kholidays/po/is/libkholidays5_qt.po | 
- | [kk]({{< ref "/f33/language/kk.md" >}}) | 0 | 139 | 0.0 | /mnt/stockage/packages/f33/kf5-kholidays/po/kk/libkholidays5_qt.po | 
- | [km]({{< ref "/f33/language/km.md" >}}) | 0 | 139 | 0.0 | /mnt/stockage/packages/f33/kf5-kholidays/po/km/libkholidays5_qt.po | 
- | [mk]({{< ref "/f33/language/mk.md" >}}) | 0 | 139 | 0.0 | /mnt/stockage/packages/f33/kf5-kholidays/po/mk/libkholidays5_qt.po | 
- | [ml]({{< ref "/f33/language/ml.md" >}}) | 0 | 139 | 0.0 | /mnt/stockage/packages/f33/kf5-kholidays/po/ml/libkholidays5_qt.po | 
- | [mr]({{< ref "/f33/language/mr.md" >}}) | 0 | 139 | 0.0 | /mnt/stockage/packages/f33/kf5-kholidays/po/mr/libkholidays5_qt.po | 
- | [ms]({{< ref "/f33/language/ms.md" >}}) | 0 | 139 | 0.0 | /mnt/stockage/packages/f33/kf5-kholidays/po/ms/libkholidays5_qt.po | 
- | [nds]({{< ref "/f33/language/nds.md" >}}) | 0 | 139 | 0.0 | /mnt/stockage/packages/f33/kf5-kholidays/po/nds/libkholidays5_qt.po | 
- | [ne]({{< ref "/f33/language/ne.md" >}}) | 0 | 139 | 0.0 | /mnt/stockage/packages/f33/kf5-kholidays/po/ne/libkholidays5_qt.po | 
- | [pa]({{< ref "/f33/language/pa.md" >}}) | 0 | 139 | 0.0 | /mnt/stockage/packages/f33/kf5-kholidays/po/pa/libkholidays5_qt.po | 
- | [se]({{< ref "/f33/language/se.md" >}}) | 0 | 139 | 0.0 | /mnt/stockage/packages/f33/kf5-kholidays/po/se/libkholidays5_qt.po | 
- | [sq]({{< ref "/f33/language/sq.md" >}}) | 0 | 139 | 0.0 | /mnt/stockage/packages/f33/kf5-kholidays/po/sq/libkholidays5_qt.po | 
- | [ta]({{< ref "/f33/language/ta.md" >}}) | 0 | 139 | 0.0 | /mnt/stockage/packages/f33/kf5-kholidays/po/ta/libkholidays5_qt.po | 
- | [th]({{< ref "/f33/language/th.md" >}}) | 0 | 139 | 0.0 | /mnt/stockage/packages/f33/kf5-kholidays/po/th/libkholidays5_qt.po | 
- | [ug]({{< ref "/f33/language/ug.md" >}}) | 0 | 139 | 0.0 | /mnt/stockage/packages/f33/kf5-kholidays/po/ug/libkholidays5_qt.po | 
- | [uz]({{< ref "/f33/language/uz.md" >}}) | 0 | 278 | 0.0 | /mnt/stockage/packages/f33/kf5-kholidays/po/uz/libkholidays5_qt.po/mnt/stockage/packages/f33/kf5-kholidays/po/uz@cyrillic/libkholidays5_qt.po | 
- | [wa]({{< ref "/f33/language/wa.md" >}}) | 0 | 139 | 0.0 | /mnt/stockage/packages/f33/kf5-kholidays/po/wa/libkholidays5_qt.po | 
+ | [az](/f33/language/az) | 139 | 139 | 100.0 | /mnt/stockage/packages/f33/kf5-kholidays/po/az/libkholidays5_qt.po | 
+ | [ca](/f33/language/ca) | 139 | 139 | 100.0 | /mnt/stockage/packages/f33/kf5-kholidays/po/ca/libkholidays5_qt.po | 
+ | [cs](/f33/language/cs) | 139 | 139 | 100.0 | /mnt/stockage/packages/f33/kf5-kholidays/po/cs/libkholidays5_qt.po | 
+ | [da](/f33/language/da) | 139 | 139 | 100.0 | /mnt/stockage/packages/f33/kf5-kholidays/po/da/libkholidays5_qt.po | 
+ | [de](/f33/language/de) | 139 | 139 | 100.0 | /mnt/stockage/packages/f33/kf5-kholidays/po/de/libkholidays5_qt.po | 
+ | [en_GB](/f33/language/en_GB) | 139 | 139 | 100.0 | /mnt/stockage/packages/f33/kf5-kholidays/po/en_GB/libkholidays5_qt.po | 
+ | [es](/f33/language/es) | 139 | 139 | 100.0 | /mnt/stockage/packages/f33/kf5-kholidays/po/es/libkholidays5_qt.po | 
+ | [et](/f33/language/et) | 139 | 139 | 100.0 | /mnt/stockage/packages/f33/kf5-kholidays/po/et/libkholidays5_qt.po | 
+ | [eu](/f33/language/eu) | 139 | 139 | 100.0 | /mnt/stockage/packages/f33/kf5-kholidays/po/eu/libkholidays5_qt.po | 
+ | [fi](/f33/language/fi) | 139 | 139 | 100.0 | /mnt/stockage/packages/f33/kf5-kholidays/po/fi/libkholidays5_qt.po | 
+ | [fr](/f33/language/fr) | 139 | 139 | 100.0 | /mnt/stockage/packages/f33/kf5-kholidays/po/fr/libkholidays5_qt.po | 
+ | [hu](/f33/language/hu) | 139 | 139 | 100.0 | /mnt/stockage/packages/f33/kf5-kholidays/po/hu/libkholidays5_qt.po | 
+ | [it](/f33/language/it) | 139 | 139 | 100.0 | /mnt/stockage/packages/f33/kf5-kholidays/po/it/libkholidays5_qt.po | 
+ | [ko](/f33/language/ko) | 139 | 139 | 100.0 | /mnt/stockage/packages/f33/kf5-kholidays/po/ko/libkholidays5_qt.po | 
+ | [nl](/f33/language/nl) | 139 | 139 | 100.0 | /mnt/stockage/packages/f33/kf5-kholidays/po/nl/libkholidays5_qt.po | 
+ | [nn](/f33/language/nn) | 139 | 139 | 100.0 | /mnt/stockage/packages/f33/kf5-kholidays/po/nn/libkholidays5_qt.po | 
+ | [pl](/f33/language/pl) | 139 | 139 | 100.0 | /mnt/stockage/packages/f33/kf5-kholidays/po/pl/libkholidays5_qt.po | 
+ | [pt](/f33/language/pt) | 139 | 139 | 100.0 | /mnt/stockage/packages/f33/kf5-kholidays/po/pt/libkholidays5_qt.po | 
+ | [pt_BR](/f33/language/pt_BR) | 139 | 139 | 100.0 | /mnt/stockage/packages/f33/kf5-kholidays/po/pt_BR/libkholidays5_qt.po | 
+ | [ru](/f33/language/ru) | 139 | 139 | 100.0 | /mnt/stockage/packages/f33/kf5-kholidays/po/ru/libkholidays5_qt.po | 
+ | [sk](/f33/language/sk) | 139 | 139 | 100.0 | /mnt/stockage/packages/f33/kf5-kholidays/po/sk/libkholidays5_qt.po | 
+ | [sl](/f33/language/sl) | 139 | 139 | 100.0 | /mnt/stockage/packages/f33/kf5-kholidays/po/sl/libkholidays5_qt.po | 
+ | [sv](/f33/language/sv) | 139 | 139 | 100.0 | /mnt/stockage/packages/f33/kf5-kholidays/po/sv/libkholidays5_qt.po | 
+ | [uk](/f33/language/uk) | 139 | 139 | 100.0 | /mnt/stockage/packages/f33/kf5-kholidays/po/uk/libkholidays5_qt.po | 
+ | [zh_Hant](/f33/language/zh_Hant) | 139 | 139 | 100.0 | /mnt/stockage/packages/f33/kf5-kholidays/po/zh_TW/libkholidays5_qt.po | 
+ | [ia](/f33/language/ia) | 116 | 139 | 83.5 | /mnt/stockage/packages/f33/kf5-kholidays/po/ia/libkholidays5_qt.po | 
+ | [ca@valencia](/f33/language/ca@valencia) | 108 | 139 | 77.7 | /mnt/stockage/packages/f33/kf5-kholidays/po/ca@valencia/libkholidays5_qt.po | 
+ | [gl](/f33/language/gl) | 108 | 139 | 77.7 | /mnt/stockage/packages/f33/kf5-kholidays/po/gl/libkholidays5_qt.po | 
+ | [id](/f33/language/id) | 108 | 139 | 77.7 | /mnt/stockage/packages/f33/kf5-kholidays/po/id/libkholidays5_qt.po | 
+ | [lt](/f33/language/lt) | 108 | 139 | 77.7 | /mnt/stockage/packages/f33/kf5-kholidays/po/lt/libkholidays5_qt.po | 
+ | [nb_NO](/f33/language/nb_NO) | 108 | 139 | 77.7 | /mnt/stockage/packages/f33/kf5-kholidays/po/nb/libkholidays5_qt.po | 
+ | [sr](/f33/language/sr) | 108 | 139 | 77.7 | /mnt/stockage/packages/f33/kf5-kholidays/po/sr/libkholidays5_qt.po | 
+ | [sr@ijekavian](/f33/language/sr@ijekavian) | 108 | 139 | 77.7 | /mnt/stockage/packages/f33/kf5-kholidays/po/sr@ijekavian/libkholidays5_qt.po | 
+ | [sr@ijekavian_Latn](/f33/language/sr@ijekavian_Latn) | 108 | 139 | 77.7 | /mnt/stockage/packages/f33/kf5-kholidays/po/sr@ijekavianlatin/libkholidays5_qt.po | 
+ | [sr_Latn](/f33/language/sr_Latn) | 108 | 139 | 77.7 | /mnt/stockage/packages/f33/kf5-kholidays/po/sr@latin/libkholidays5_qt.po | 
+ | [tg](/f33/language/tg) | 108 | 139 | 77.7 | /mnt/stockage/packages/f33/kf5-kholidays/po/tg/libkholidays5_qt.po | 
+ | [tr](/f33/language/tr) | 108 | 139 | 77.7 | /mnt/stockage/packages/f33/kf5-kholidays/po/tr/libkholidays5_qt.po | 
+ | [zh_Hans](/f33/language/zh_Hans) | 108 | 139 | 77.7 | /mnt/stockage/packages/f33/kf5-kholidays/po/zh_CN/libkholidays5_qt.po | 
+ | [lv](/f33/language/lv) | 98 | 139 | 70.5 | /mnt/stockage/packages/f33/kf5-kholidays/po/lv/libkholidays5_qt.po | 
+ | [ar](/f33/language/ar) | 95 | 139 | 68.3 | /mnt/stockage/packages/f33/kf5-kholidays/po/ar/libkholidays5_qt.po | 
+ | [ro](/f33/language/ro) | 86 | 139 | 61.9 | /mnt/stockage/packages/f33/kf5-kholidays/po/ro/libkholidays5_qt.po | 
+ | [ast](/f33/language/ast) | 80 | 139 | 57.6 | /mnt/stockage/packages/f33/kf5-kholidays/po/ast/libkholidays5_qt.po | 
+ | [ja](/f33/language/ja) | 50 | 139 | 36.0 | /mnt/stockage/packages/f33/kf5-kholidays/po/ja/libkholidays5_qt.po | 
+ | [be](/f33/language/be) | 0 | 139 | 0.0 | /mnt/stockage/packages/f33/kf5-kholidays/po/be/libkholidays5_qt.po | 
+ | [bg](/f33/language/bg) | 0 | 139 | 0.0 | /mnt/stockage/packages/f33/kf5-kholidays/po/bg/libkholidays5_qt.po | 
+ | [br](/f33/language/br) | 0 | 139 | 0.0 | /mnt/stockage/packages/f33/kf5-kholidays/po/br/libkholidays5_qt.po | 
+ | [bs](/f33/language/bs) | 0 | 139 | 0.0 | /mnt/stockage/packages/f33/kf5-kholidays/po/bs/libkholidays5_qt.po | 
+ | [cy](/f33/language/cy) | 0 | 139 | 0.0 | /mnt/stockage/packages/f33/kf5-kholidays/po/cy/libkholidays5_qt.po | 
+ | [el](/f33/language/el) | 0 | 139 | 0.0 | /mnt/stockage/packages/f33/kf5-kholidays/po/el/libkholidays5_qt.po | 
+ | [eo](/f33/language/eo) | 0 | 139 | 0.0 | /mnt/stockage/packages/f33/kf5-kholidays/po/eo/libkholidays5_qt.po | 
+ | [fa](/f33/language/fa) | 0 | 139 | 0.0 | /mnt/stockage/packages/f33/kf5-kholidays/po/fa/libkholidays5_qt.po | 
+ | [fy](/f33/language/fy) | 0 | 139 | 0.0 | /mnt/stockage/packages/f33/kf5-kholidays/po/fy/libkholidays5_qt.po | 
+ | [ga](/f33/language/ga) | 0 | 139 | 0.0 | /mnt/stockage/packages/f33/kf5-kholidays/po/ga/libkholidays5_qt.po | 
+ | [he](/f33/language/he) | 0 | 139 | 0.0 | /mnt/stockage/packages/f33/kf5-kholidays/po/he/libkholidays5_qt.po | 
+ | [hi](/f33/language/hi) | 0 | 139 | 0.0 | /mnt/stockage/packages/f33/kf5-kholidays/po/hi/libkholidays5_qt.po | 
+ | [hne](/f33/language/hne) | 0 | 139 | 0.0 | /mnt/stockage/packages/f33/kf5-kholidays/po/hne/libkholidays5_qt.po | 
+ | [is](/f33/language/is) | 0 | 139 | 0.0 | /mnt/stockage/packages/f33/kf5-kholidays/po/is/libkholidays5_qt.po | 
+ | [kk](/f33/language/kk) | 0 | 139 | 0.0 | /mnt/stockage/packages/f33/kf5-kholidays/po/kk/libkholidays5_qt.po | 
+ | [km](/f33/language/km) | 0 | 139 | 0.0 | /mnt/stockage/packages/f33/kf5-kholidays/po/km/libkholidays5_qt.po | 
+ | [mk](/f33/language/mk) | 0 | 139 | 0.0 | /mnt/stockage/packages/f33/kf5-kholidays/po/mk/libkholidays5_qt.po | 
+ | [ml](/f33/language/ml) | 0 | 139 | 0.0 | /mnt/stockage/packages/f33/kf5-kholidays/po/ml/libkholidays5_qt.po | 
+ | [mr](/f33/language/mr) | 0 | 139 | 0.0 | /mnt/stockage/packages/f33/kf5-kholidays/po/mr/libkholidays5_qt.po | 
+ | [ms](/f33/language/ms) | 0 | 139 | 0.0 | /mnt/stockage/packages/f33/kf5-kholidays/po/ms/libkholidays5_qt.po | 
+ | [nds](/f33/language/nds) | 0 | 139 | 0.0 | /mnt/stockage/packages/f33/kf5-kholidays/po/nds/libkholidays5_qt.po | 
+ | [ne](/f33/language/ne) | 0 | 139 | 0.0 | /mnt/stockage/packages/f33/kf5-kholidays/po/ne/libkholidays5_qt.po | 
+ | [pa](/f33/language/pa) | 0 | 139 | 0.0 | /mnt/stockage/packages/f33/kf5-kholidays/po/pa/libkholidays5_qt.po | 
+ | [se](/f33/language/se) | 0 | 139 | 0.0 | /mnt/stockage/packages/f33/kf5-kholidays/po/se/libkholidays5_qt.po | 
+ | [sq](/f33/language/sq) | 0 | 139 | 0.0 | /mnt/stockage/packages/f33/kf5-kholidays/po/sq/libkholidays5_qt.po | 
+ | [ta](/f33/language/ta) | 0 | 139 | 0.0 | /mnt/stockage/packages/f33/kf5-kholidays/po/ta/libkholidays5_qt.po | 
+ | [th](/f33/language/th) | 0 | 139 | 0.0 | /mnt/stockage/packages/f33/kf5-kholidays/po/th/libkholidays5_qt.po | 
+ | [ug](/f33/language/ug) | 0 | 139 | 0.0 | /mnt/stockage/packages/f33/kf5-kholidays/po/ug/libkholidays5_qt.po | 
+ | [uz](/f33/language/uz) | 0 | 278 | 0.0 | /mnt/stockage/packages/f33/kf5-kholidays/po/uz/libkholidays5_qt.po/mnt/stockage/packages/f33/kf5-kholidays/po/uz@cyrillic/libkholidays5_qt.po | 
+ | [wa](/f33/language/wa) | 0 | 139 | 0.0 | /mnt/stockage/packages/f33/kf5-kholidays/po/wa/libkholidays5_qt.po | 
 {.sortable}
 
 

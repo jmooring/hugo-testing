@@ -38,715 +38,715 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [DivFix++]({{< ref "/f20/package/DivFix++.md" >}}) | 551 | 551 | 100.0 | Ariel Nemtzov <reldude84 gmail.com> | 
- | [GConf2]({{< ref "/f20/package/GConf2.md" >}}) | 4088 | 4088 | 100.0 | he | 
- | [NetworkManager]({{< ref "/f20/package/NetworkManager.md" >}}) | 66 | 66 | 100.0 | he | 
- | [NetworkManager-openvpn]({{< ref "/f20/package/NetworkManager-openvpn.md" >}}) | 101 | 101 | 100.0 | Hebrew <sh.yaron@gmail.com> | 
- | [NetworkManager-pptp]({{< ref "/f20/package/NetworkManager-pptp.md" >}}) | 144 | 144 | 100.0 | he | 
- | [NetworkManager-vpnc]({{< ref "/f20/package/NetworkManager-vpnc.md" >}}) | 156 | 156 | 100.0 | Hebrew <sh.yaron@gmail.com> | 
- | [accerciser]({{< ref "/f20/package/accerciser.md" >}}) | 599 | 599 | 100.0 | Hebrew <he@li.org> | 
- | [alacarte]({{< ref "/f20/package/alacarte.md" >}}) | 31 | 31 | 100.0 | he <he@bla.bla> | 
- | [askbot]({{< ref "/f20/package/askbot.md" >}}) | 49 | 49 | 100.0 | <en@li.org> | 
- | [at-spi]({{< ref "/f20/package/at-spi.md" >}}) | 61 | 61 | 100.0 | Hebrew <he@li.org> | 
- | [at-spi2-core]({{< ref "/f20/package/at-spi2-core.md" >}}) | 122 | 122 | 100.0 | Gezer (Hebrew) | 
- | [atk]({{< ref "/f20/package/atk.md" >}}) | 398 | 398 | 100.0 | Hebrew <he@li.org> | 
- | [atomix]({{< ref "/f20/package/atomix.md" >}}) | 125 | 125 | 100.0 | Hebrew <he@li.org> | 
- | [banshee]({{< ref "/f20/package/banshee.md" >}}) | 5792 | 5792 | 100.0 | Gezer (Hebrew) | 
- | [baobab]({{< ref "/f20/package/baobab.md" >}}) | 210 | 210 | 100.0 | עברית <> | 
- | [bijiben]({{< ref "/f20/package/bijiben.md" >}}) | 200 | 200 | 100.0 | עברית <> | 
- | [bleachbit]({{< ref "/f20/package/bleachbit.md" >}}) | 1046 | 1046 | 100.0 | Hebrew <he@li.org> | 
- | [brasero]({{< ref "/f20/package/brasero.md" >}}) | 5532 | 5532 | 100.0 | Hebrew <> | 
- | [caribou]({{< ref "/f20/package/caribou.md" >}}) | 200 | 200 | 100.0 | Gezer <sh.yaron@gmail.com> | 
- | [ccsm]({{< ref "/f20/package/ccsm.md" >}}) | 549 | 549 | 100.0 | Yotam Benshalom <benshalom@gmail.com> | 
- | [cheese]({{< ref "/f20/package/cheese.md" >}}) | 555 | 555 | 100.0 | he | 
- | [cinnamon-desktop]({{< ref "/f20/package/cinnamon-desktop.md" >}}) | 231 | 231 | 100.0 | Hebrew <he@li.org> | 
- | [cinnamon-settings-daemon]({{< ref "/f20/package/cinnamon-settings-daemon.md" >}}) | 3740 | 3740 | 100.0 | Hebrew <kde-il@yahoogroups.com> | 
- | [clamtk]({{< ref "/f20/package/clamtk.md" >}}) | 464 | 464 | 100.0 | Hebrew <he@li.org> | 
- | [clutter]({{< ref "/f20/package/clutter.md" >}}) | 3008 | 3008 | 100.0 | עברית <> | 
- | [cogl]({{< ref "/f20/package/cogl.md" >}}) | 393 | 393 | 100.0 | Hebrew <sh.yaron@gmail.com> | 
- | [compat-gtkhtml314]({{< ref "/f20/package/compat-gtkhtml314.md" >}}) | 485 | 485 | 100.0 | Hebrew <he@li.org> | 
- | [compiz]({{< ref "/f20/package/compiz.md" >}}) | 3250 | 3250 | 100.0 | Hebrew <i18n@suse.de> | 
- | [console-setup]({{< ref "/f20/package/console-setup.md" >}}) | 979 | 979 | 100.0 | Hebrew <debian-hebrew-common@lists.alioth.debian.org> | 
- | [dconf]({{< ref "/f20/package/dconf.md" >}}) | 191 | 191 | 100.0 | Hebrew <sh.yaron@gmail.com> | 
- | [devhelp]({{< ref "/f20/package/devhelp.md" >}}) | 405 | 405 | 100.0 | Hebrew <he@li.org> | 
- | [drwright]({{< ref "/f20/package/drwright.md" >}}) | 118 | 118 | 100.0 | Gezer (Hebrew) <gezer@lists.launchpad.net> | 
- | [ekiga]({{< ref "/f20/package/ekiga.md" >}}) | 4434 | 4434 | 100.0 | Hebrew | 
- | [emerald]({{< ref "/f20/package/emerald.md" >}}) | 774 | 774 | 100.0 | Yotam Benshalom <benshalom@gmail.com> | 
- | [empathy]({{< ref "/f20/package/empathy.md" >}}) | 4305 | 4305 | 100.0 |  | 
- | [eog]({{< ref "/f20/package/eog.md" >}}) | 1667 | 1667 | 100.0 | Hebrew <he@li.org> | 
- | [eog-plugins]({{< ref "/f20/package/eog-plugins.md" >}}) | 348 | 348 | 100.0 | עברית <> | 
- | [epiphany]({{< ref "/f20/package/epiphany.md" >}}) | 2494 | 2494 | 100.0 | עברית <> | 
- | [evince]({{< ref "/f20/package/evince.md" >}}) | 1589 | 1589 | 100.0 | עברית <> | 
- | [evolution-mapi]({{< ref "/f20/package/evolution-mapi.md" >}}) | 520 | 520 | 100.0 | he | 
- | [file-roller]({{< ref "/f20/package/file-roller.md" >}}) | 1325 | 1325 | 100.0 | Hebrew <he@li.org> | 
- | [filezilla]({{< ref "/f20/package/filezilla.md" >}}) | 9399 | 9399 | 100.0 | גזר | 
- | [five-or-more]({{< ref "/f20/package/five-or-more.md" >}}) | 462 | 462 | 100.0 | Gezer (Hebrew) | 
- | [four-in-a-row]({{< ref "/f20/package/four-in-a-row.md" >}}) | 427 | 427 | 100.0 | Gezer (Hebrew) | 
- | [fslint]({{< ref "/f20/package/fslint.md" >}}) | 388 | 388 | 100.0 | Hebrew <he@li.org> | 
- | [garcon]({{< ref "/f20/package/garcon.md" >}}) | 95 | 95 | 100.0 | Hebrew <xfce-i18n@xfce.org> | 
- | [gcompris]({{< ref "/f20/package/gcompris.md" >}}) | 11881 | 11881 | 100.0 | Hebrew | 
- | [gconf-editor]({{< ref "/f20/package/gconf-editor.md" >}}) | 336 | 336 | 100.0 | Hebrew <he@li.org> | 
- | [gcr]({{< ref "/f20/package/gcr.md" >}}) | 670 | 670 | 100.0 | Hebrew <sh.yaron@gmail.com> | 
- | [gdk-pixbuf2]({{< ref "/f20/package/gdk-pixbuf2.md" >}}) | 1360 | 1360 | 100.0 | Hebrew <he@li.org> | 
- | [gdm]({{< ref "/f20/package/gdm.md" >}}) | 716 | 716 | 100.0 | Hebrew <he@li.org> | 
- | [geany]({{< ref "/f20/package/geany.md" >}}) | 5714 | 5714 | 100.0 | עברית <> | 
- | [geary]({{< ref "/f20/package/geary.md" >}}) | 1428 | 1428 | 100.0 | עברית <> | 
- | [gedit]({{< ref "/f20/package/gedit.md" >}}) | 4276 | 4276 | 100.0 | Hebrew <he@li.org> | 
- | [gedit-collaboration]({{< ref "/f20/package/gedit-collaboration.md" >}}) | 119 | 119 | 100.0 | Gezer (Hebrew) <gezer@lists.launchpad.net> | 
- | [gedit-plugins]({{< ref "/f20/package/gedit-plugins.md" >}}) | 1673 | 1673 | 100.0 | Hebrew <he@li.org> | 
- | [ggz-gtk-client]({{< ref "/f20/package/ggz-gtk-client.md" >}}) | 9 | 9 | 100.0 | Hebrew <he@li.org> | 
- | [gigolo]({{< ref "/f20/package/gigolo.md" >}}) | 521 | 521 | 100.0 | LANGUAGE <LL@li.org> | 
- | [glib-networking]({{< ref "/f20/package/glib-networking.md" >}}) | 161 | 161 | 100.0 | Hebrew <sh.yaron@gmail.com> | 
- | [glib2]({{< ref "/f20/package/glib2.md" >}}) | 5445 | 5445 | 100.0 | Gezer (Hebrew) | 
- | [gnome-backgrounds]({{< ref "/f20/package/gnome-backgrounds.md" >}}) | 24 | 24 | 100.0 | Hebrew <he@li.org> | 
- | [gnome-bluetooth]({{< ref "/f20/package/gnome-bluetooth.md" >}}) | 310 | 310 | 100.0 | Gezer (Hebrew) | 
- | [gnome-calculator]({{< ref "/f20/package/gnome-calculator.md" >}}) | 1078 | 1078 | 100.0 | Hebrew <he@li.org> | 
- | [gnome-chess]({{< ref "/f20/package/gnome-chess.md" >}}) | 1177 | 1177 | 100.0 | Gezer (Hebrew) | 
- | [gnome-desktop]({{< ref "/f20/package/gnome-desktop.md" >}}) | 438 | 438 | 100.0 | Hebrew <he@li.org> | 
- | [gnome-desktop3]({{< ref "/f20/package/gnome-desktop3.md" >}}) | 146 | 146 | 100.0 | עברית <> | 
- | [gnome-dictionary]({{< ref "/f20/package/gnome-dictionary.md" >}}) | 801 | 801 | 100.0 | Hebrew <he@li.org> | 
- | [gnome-doc-utils]({{< ref "/f20/package/gnome-doc-utils.md" >}}) | 251 | 251 | 100.0 | Hebrew <he@li.org> | 
- | [gnome-documents]({{< ref "/f20/package/gnome-documents.md" >}}) | 441 | 441 | 100.0 | עברית <> | 
- | [gnome-font-viewer]({{< ref "/f20/package/gnome-font-viewer.md" >}}) | 47 | 47 | 100.0 | עברית <> | 
- | [gnome-icon-theme]({{< ref "/f20/package/gnome-icon-theme.md" >}}) | 43 | 43 | 100.0 | Hebrew <he@li.org> | 
- | [gnome-initial-setup]({{< ref "/f20/package/gnome-initial-setup.md" >}}) | 372 | 372 | 100.0 | עברית <> | 
- | [gnome-keyring]({{< ref "/f20/package/gnome-keyring.md" >}}) | 553 | 553 | 100.0 | Hebrew <sh.yaron@gmail.com> | 
- | [gnome-klotski]({{< ref "/f20/package/gnome-klotski.md" >}}) | 120 | 120 | 100.0 | Gezer (Hebrew) | 
- | [gnome-mahjongg]({{< ref "/f20/package/gnome-mahjongg.md" >}}) | 170 | 170 | 100.0 | Gezer (Hebrew) | 
- | [gnome-maps]({{< ref "/f20/package/gnome-maps.md" >}}) | 180 | 180 | 100.0 | עברית <> | 
- | [gnome-media]({{< ref "/f20/package/gnome-media.md" >}}) | 1238 | 1238 | 100.0 | Hebrew <he@li.org> | 
- | [gnome-menus]({{< ref "/f20/package/gnome-menus.md" >}}) | 70 | 70 | 100.0 | <he@li.org> | 
- | [gnome-mime-data]({{< ref "/f20/package/gnome-mime-data.md" >}}) | 887 | 887 | 100.0 | Hebrew <he@li.org> | 
- | [gnome-mines]({{< ref "/f20/package/gnome-mines.md" >}}) | 261 | 261 | 100.0 | Gezer (Hebrew) | 
- | [gnome-nettool]({{< ref "/f20/package/gnome-nettool.md" >}}) | 664 | 664 | 100.0 | Hebrew <he@li.org> | 
- | [gnome-nibbles]({{< ref "/f20/package/gnome-nibbles.md" >}}) | 526 | 526 | 100.0 | Gezer (Hebrew) | 
- | [gnome-online-accounts]({{< ref "/f20/package/gnome-online-accounts.md" >}}) | 1173 | 1173 | 100.0 | עברית <> | 
- | [gnome-packagekit]({{< ref "/f20/package/gnome-packagekit.md" >}}) | 5034 | 5034 | 100.0 |  | 
- | [gnome-phone-manager]({{< ref "/f20/package/gnome-phone-manager.md" >}}) | 559 | 559 | 100.0 | Gezer (Hebrew) <gezer@lists.launchpad.net> | 
- | [gnome-photos]({{< ref "/f20/package/gnome-photos.md" >}}) | 300 | 300 | 100.0 | עברית <> | 
- | [gnome-power-manager]({{< ref "/f20/package/gnome-power-manager.md" >}}) | 433 | 433 | 100.0 | he <he@li.org> | 
- | [gnome-robots]({{< ref "/f20/package/gnome-robots.md" >}}) | 823 | 823 | 100.0 | Gezer (Hebrew) | 
- | [gnome-screensaver]({{< ref "/f20/package/gnome-screensaver.md" >}}) | 291 | 291 | 100.0 | Hebrew <he@li.org> | 
- | [gnome-screenshot]({{< ref "/f20/package/gnome-screenshot.md" >}}) | 351 | 351 | 100.0 | Hebrew <he@li.org> | 
- | [gnome-search-tool]({{< ref "/f20/package/gnome-search-tool.md" >}}) | 1249 | 1249 | 100.0 | Hebrew <he@li.org> | 
- | [gnome-session]({{< ref "/f20/package/gnome-session.md" >}}) | 431 | 431 | 100.0 | עברית <> | 
- | [gnome-settings-daemon]({{< ref "/f20/package/gnome-settings-daemon.md" >}}) | 3729 | 3729 | 100.0 | עברית <> | 
- | [gnome-shell-extensions]({{< ref "/f20/package/gnome-shell-extensions.md" >}}) | 338 | 338 | 100.0 | עברית <> | 
- | [gnome-subtitles]({{< ref "/f20/package/gnome-subtitles.md" >}}) | 1030 | 1030 | 100.0 |  | 
- | [gnome-sudoku]({{< ref "/f20/package/gnome-sudoku.md" >}}) | 462 | 462 | 100.0 | Gezer (Hebrew) | 
- | [gnome-system-log]({{< ref "/f20/package/gnome-system-log.md" >}}) | 436 | 436 | 100.0 | Hebrew <he@li.org> | 
- | [gnome-system-monitor]({{< ref "/f20/package/gnome-system-monitor.md" >}}) | 1284 | 1284 | 100.0 | עברית <> | 
- | [gnome-terminal]({{< ref "/f20/package/gnome-terminal.md" >}}) | 2307 | 2307 | 100.0 | עברית <> | 
- | [gnome-tetravex]({{< ref "/f20/package/gnome-tetravex.md" >}}) | 117 | 117 | 100.0 | Gezer (Hebrew) | 
- | [gnome-themes]({{< ref "/f20/package/gnome-themes.md" >}}) | 109 | 109 | 100.0 | Hebrew <he@li.org> | 
- | [gnome-themes-standard]({{< ref "/f20/package/gnome-themes-standard.md" >}}) | 24 | 24 | 100.0 | Gezer (Hebrew) <sh.yaron@gmail.com> | 
- | [gnome-tweak-tool]({{< ref "/f20/package/gnome-tweak-tool.md" >}}) | 341 | 341 | 100.0 | עברית <> | 
- | [gnome-user-share]({{< ref "/f20/package/gnome-user-share.md" >}}) | 247 | 247 | 100.0 | he | 
- | [gnome-vfs2]({{< ref "/f20/package/gnome-vfs2.md" >}}) | 1519 | 1519 | 100.0 | Hebrew <he@li.org> | 
- | [gnome-video-effects]({{< ref "/f20/package/gnome-video-effects.md" >}}) | 256 | 256 | 100.0 | he | 
- | [gnome-weather]({{< ref "/f20/package/gnome-weather.md" >}}) | 204 | 204 | 100.0 | Hebrew <sh.yaron@gmail.com> | 
- | [gnome-web-photo]({{< ref "/f20/package/gnome-web-photo.md" >}}) | 168 | 168 | 100.0 | Gezer (Hebrew) | 
- | [gnomeradio]({{< ref "/f20/package/gnomeradio.md" >}}) | 443 | 443 | 100.0 | Hebrew <he@li.org> | 
- | [gnote]({{< ref "/f20/package/gnote.md" >}}) | 2333 | 2333 | 100.0 | Hebrew <he@li.org> | 
- | [gpodder]({{< ref "/f20/package/gpodder.md" >}}) | 2360 | 2360 | 100.0 | Hebrew (http://www.transifex.net/projects/p/gpodder/team/he/) | 
- | [grilo]({{< ref "/f20/package/grilo.md" >}}) | 187 | 187 | 100.0 | עברית <> | 
- | [gsettings-desktop-schemas]({{< ref "/f20/package/gsettings-desktop-schemas.md" >}}) | 5363 | 5363 | 100.0 | עברית <> | 
- | [gtk-vnc]({{< ref "/f20/package/gtk-vnc.md" >}}) | 8 | 8 | 100.0 | Hebrew <sh.yaron@gmail.com> | 
- | [gtk2]({{< ref "/f20/package/gtk2.md" >}}) | 12429 | 12429 | 100.0 | Hebrew <he@li.org> | 
- | [gtk2-engines]({{< ref "/f20/package/gtk2-engines.md" >}}) | 119 | 119 | 100.0 | he | 
- | [gtk3]({{< ref "/f20/package/gtk3.md" >}}) | 13899 | 13899 | 100.0 | עברית <> | 
- | [gtkhtml3]({{< ref "/f20/package/gtkhtml3.md" >}}) | 488 | 488 | 100.0 | Hebrew <he@li.org> | 
- | [gtksourceview2]({{< ref "/f20/package/gtksourceview2.md" >}}) | 1426 | 1426 | 100.0 | Hebrew <he@li.org> | 
- | [gtksourceview3]({{< ref "/f20/package/gtksourceview3.md" >}}) | 1688 | 1688 | 100.0 | עברית <> | 
- | [gtkspell3]({{< ref "/f20/package/gtkspell3.md" >}}) | 16 | 16 | 100.0 | Hebrew <eliz@gnu.org> | 
- | [gtranslator]({{< ref "/f20/package/gtranslator.md" >}}) | 1672 | 1672 | 100.0 | Gezer (Hebrew) | 
- | [gvfs]({{< ref "/f20/package/gvfs.md" >}}) | 2648 | 2648 | 100.0 | Gezer (Hebrew) | 
- | [gwget]({{< ref "/f20/package/gwget.md" >}}) | 545 | 545 | 100.0 | Hebrew <he@li.org> | 
- | [iagno]({{< ref "/f20/package/iagno.md" >}}) | 4286 | 4286 | 100.0 | Gezer (Hebrew) | 
- | [ircp-tray]({{< ref "/f20/package/ircp-tray.md" >}}) | 239 | 239 | 100.0 | Hebrew <he@li.org> | 
- | [islamic-menus]({{< ref "/f20/package/islamic-menus.md" >}}) | 5 | 5 | 100.0 | Hebrew <he@li.org> | 
- | [kf5-kcmutils]({{< ref "/f20/package/kf5-kcmutils.md" >}}) | 563 | 563 | 100.0 | Hebrew <kde-i18n-doc@kde.org> | 
- | [kf5-kdoctools]({{< ref "/f20/package/kf5-kdoctools.md" >}}) | 8 | 8 | 100.0 | Hebrew <kde-i18n-he@kde.org> | 
- | [kf5-kjsembed]({{< ref "/f20/package/kf5-kjsembed.md" >}}) | 248 | 248 | 100.0 | Hebrew <kde-i18n-doc@kde.org> | 
- | [kf5-kparts]({{< ref "/f20/package/kf5-kparts.md" >}}) | 104 | 104 | 100.0 | Hebrew <kde-i18n-doc@kde.org> | 
- | [kf5-kpty]({{< ref "/f20/package/kf5-kpty.md" >}}) | 15 | 15 | 100.0 | Hebrew <kde-i18n-doc@kde.org> | 
- | [kf5-kxmlrpcclient]({{< ref "/f20/package/kf5-kxmlrpcclient.md" >}}) | 13 | 13 | 100.0 | Hebrew <kde-i18n-he@kde.org> | 
- | [kflickr]({{< ref "/f20/package/kflickr.md" >}}) | 332 | 332 | 100.0 | Hebrew <he@li.org> | 
- | [libbonobo]({{< ref "/f20/package/libbonobo.md" >}}) | 543 | 543 | 100.0 | Hebrew <he@li.org> | 
- | [libbonoboui]({{< ref "/f20/package/libbonoboui.md" >}}) | 368 | 368 | 100.0 | Hebrew <he@li.org> | 
- | [libcryptui]({{< ref "/f20/package/libcryptui.md" >}}) | 697 | 697 | 100.0 | Hebrew <he@li.org> | 
- | [libgdata]({{< ref "/f20/package/libgdata.md" >}}) | 632 | 632 | 100.0 | Hebrew <sh.yaron@gmail.com> | 
- | [libgdl]({{< ref "/f20/package/libgdl.md" >}}) | 592 | 592 | 100.0 | he | 
- | [libgnome]({{< ref "/f20/package/libgnome.md" >}}) | 1773 | 1773 | 100.0 | <en@li.org> | 
- | [libgnome-keyring]({{< ref "/f20/package/libgnome-keyring.md" >}}) | 44 | 44 | 100.0 | Gezer <sh.yaron@gmail.com> | 
- | [libgnome-media-profiles]({{< ref "/f20/package/libgnome-media-profiles.md" >}}) | 460 | 460 | 100.0 | Hebrew <he@li.org> | 
- | [libgnomecanvas]({{< ref "/f20/package/libgnomecanvas.md" >}}) | 378 | 378 | 100.0 | Hebrew <he@li.org> | 
- | [libgnomekbd]({{< ref "/f20/package/libgnomekbd.md" >}}) | 242 | 242 | 100.0 | he | 
- | [libgnomeprint22]({{< ref "/f20/package/libgnomeprint22.md" >}}) | 168 | 168 | 100.0 | Hebrew <he@li.org> | 
- | [libgnomeprintui22]({{< ref "/f20/package/libgnomeprintui22.md" >}}) | 481 | 481 | 100.0 | Hebrew <he@li.org> | 
- | [libgnomeui]({{< ref "/f20/package/libgnomeui.md" >}}) | 1309 | 1309 | 100.0 | Hebrew <he@li.org> | 
- | [libgtop2]({{< ref "/f20/package/libgtop2.md" >}}) | 126 | 126 | 100.0 | Hebrew <he@li.org> | 
- | [libgweather]({{< ref "/f20/package/libgweather.md" >}}) | 6129 | 6129 | 100.0 | Hebrew <he@li.org> | 
- | [libmatekbd]({{< ref "/f20/package/libmatekbd.md" >}}) | 292 | 292 | 100.0 | he | 
- | [libmatekeyring]({{< ref "/f20/package/libmatekeyring.md" >}}) | 44 | 44 | 100.0 | Hebrew (http://www.transifex.com/projects/p/MATE/language/he/) | 
- | [libmatewnck]({{< ref "/f20/package/libmatewnck.md" >}}) | 1124 | 1124 | 100.0 | Hebrew <he@li.org> | 
- | [libpeas]({{< ref "/f20/package/libpeas.md" >}}) | 105 | 105 | 100.0 | Hebrew <sh.yaron@gmail.com> | 
- | [libsecret]({{< ref "/f20/package/libsecret.md" >}}) | 59 | 59 | 100.0 | Gezer | 
- | [libsoup]({{< ref "/f20/package/libsoup.md" >}}) | 79 | 79 | 100.0 | Hebrew <sh.yaron@gmail.com> | 
- | [libwnck]({{< ref "/f20/package/libwnck.md" >}}) | 1124 | 1124 | 100.0 | Hebrew <he@li.org> | 
- | [libwnck3]({{< ref "/f20/package/libwnck3.md" >}}) | 1084 | 1084 | 100.0 | Hebrew <he@li.org> | 
- | [libxfce4util]({{< ref "/f20/package/libxfce4util.md" >}}) | 424 | 424 | 100.0 | Hebrew | 
- | [libxfcegui4]({{< ref "/f20/package/libxfcegui4.md" >}}) | 139 | 139 | 100.0 | Hebrew | 
- | [lightdm]({{< ref "/f20/package/lightdm.md" >}}) | 79 | 79 | 100.0 | Hebrew <he@li.org> | 
- | [lightsoff]({{< ref "/f20/package/lightsoff.md" >}}) | 39 | 39 | 100.0 | Gezer (Hebrew) | 
- | [liveusb-creator]({{< ref "/f20/package/liveusb-creator.md" >}}) | 480 | 480 | 100.0 | Gezer (Hebrew) | 
- | [lxappearance]({{< ref "/f20/package/lxappearance.md" >}}) | 212 | 212 | 100.0 | Gezer <gezer@lists.launchpad.net> | 
- | [lxappearance-obconf]({{< ref "/f20/package/lxappearance-obconf.md" >}}) | 196 | 196 | 100.0 | Gezer (Hebrew) | 
- | [lxinput]({{< ref "/f20/package/lxinput.md" >}}) | 72 | 72 | 100.0 | LANGUAGE <LL@li.org> | 
- | [lxlauncher]({{< ref "/f20/package/lxlauncher.md" >}}) | 51 | 51 | 100.0 | LANGUAGE <LL@li.org> | 
- | [lxmenu-data]({{< ref "/f20/package/lxmenu-data.md" >}}) | 97 | 97 | 100.0 | <he@li.org> | 
- | [lxmusic]({{< ref "/f20/package/lxmusic.md" >}}) | 203 | 203 | 100.0 | LANGUAGE <LL@li.org> | 
- | [lxpolkit]({{< ref "/f20/package/lxpolkit.md" >}}) | 15 | 15 | 100.0 | Hebrew <sh.yaron@gmail.com> | 
- | [lxsession]({{< ref "/f20/package/lxsession.md" >}}) | 36 | 36 | 100.0 | LANGUAGE <LL@li.org> | 
- | [lxshortcut]({{< ref "/f20/package/lxshortcut.md" >}}) | 43 | 43 | 100.0 | LANGUAGE <LL@li.org> | 
- | [lxtask]({{< ref "/f20/package/lxtask.md" >}}) | 122 | 122 | 100.0 | LANGUAGE <LL@li.org> | 
- | [lxterminal]({{< ref "/f20/package/lxterminal.md" >}}) | 144 | 144 | 100.0 | LANGUAGE <LL@li.org> | 
- | [marco]({{< ref "/f20/package/marco.md" >}}) | 2116 | 2116 | 100.0 | Hebrew (http://www.transifex.com/projects/p/MATE/language/he/) | 
- | [mate-dialogs]({{< ref "/f20/package/mate-dialogs.md" >}}) | 631 | 631 | 100.0 | Hebrew (http://www.transifex.com/projects/p/MATE/language/he/) | 
- | [mate-doc-utils]({{< ref "/f20/package/mate-doc-utils.md" >}}) | 251 | 251 | 100.0 | Hebrew (http://www.transifex.net/projects/p/MATE/language/he/) | 
- | [mate-document-viewer]({{< ref "/f20/package/mate-document-viewer.md" >}}) | 1493 | 1493 | 100.0 | Gezer (Hebrew) | 
- | [mate-file-archiver]({{< ref "/f20/package/mate-file-archiver.md" >}}) | 1378 | 1378 | 100.0 | Hebrew <he@li.org> | 
- | [mate-file-manager-image-converter]({{< ref "/f20/package/mate-file-manager-image-converter.md" >}}) | 74 | 74 | 100.0 | Gezer <gezer@lists.launchpad.net> | 
- | [mate-file-manager-sendto]({{< ref "/f20/package/mate-file-manager-sendto.md" >}}) | 316 | 316 | 100.0 | Hebrew <he@li.org> | 
- | [mate-file-manager-share]({{< ref "/f20/package/mate-file-manager-share.md" >}}) | 226 | 226 | 100.0 | Hebrew <he@li.org> | 
- | [mate-icon-theme]({{< ref "/f20/package/mate-icon-theme.md" >}}) | 43 | 43 | 100.0 | Hebrew <he@li.org> | 
- | [mate-image-viewer]({{< ref "/f20/package/mate-image-viewer.md" >}}) | 1623 | 1623 | 100.0 | Hebrew (http://www.transifex.com/projects/p/MATE/language/he/) | 
- | [mate-media]({{< ref "/f20/package/mate-media.md" >}}) | 920 | 920 | 100.0 | Hebrew (http://www.transifex.com/projects/p/MATE/language/he/) | 
- | [mate-menu-editor]({{< ref "/f20/package/mate-menu-editor.md" >}}) | 42 | 42 | 100.0 | Hebrew (http://www.transifex.com/projects/p/MATE/language/he/) | 
- | [mate-menus]({{< ref "/f20/package/mate-menus.md" >}}) | 97 | 97 | 100.0 | Hebrew (http://www.transifex.com/projects/p/MATE/language/he/) | 
- | [mate-notification-daemon]({{< ref "/f20/package/mate-notification-daemon.md" >}}) | 152 | 152 | 100.0 | Hebrew (http://www.transifex.com/projects/p/MATE/language/he/) | 
- | [mate-power-manager]({{< ref "/f20/package/mate-power-manager.md" >}}) | 2758 | 2758 | 100.0 | Hebrew (http://www.transifex.com/projects/p/MATE/language/he/) | 
- | [mate-settings-daemon]({{< ref "/f20/package/mate-settings-daemon.md" >}}) | 1735 | 1735 | 100.0 | Hebrew (http://www.transifex.com/projects/p/MATE/language/he/) | 
- | [mate-system-monitor]({{< ref "/f20/package/mate-system-monitor.md" >}}) | 933 | 933 | 100.0 | Hebrew (http://www.transifex.com/projects/p/MATE/language/he/) | 
- | [mate-text-editor]({{< ref "/f20/package/mate-text-editor.md" >}}) | 4986 | 4986 | 100.0 | Hebrew (http://www.transifex.com/projects/p/MATE/language/he/) | 
- | [mate-themes]({{< ref "/f20/package/mate-themes.md" >}}) | 109 | 109 | 100.0 | Hebrew (http://www.transifex.com/projects/p/MATE/language/he/) | 
- | [mate-user-share]({{< ref "/f20/package/mate-user-share.md" >}}) | 326 | 326 | 100.0 | he | 
- | [mate-utils]({{< ref "/f20/package/mate-utils.md" >}}) | 3921 | 3921 | 100.0 | Hebrew (http://www.transifex.com/projects/p/MATE/language/he/) | 
- | [mate-window-manager]({{< ref "/f20/package/mate-window-manager.md" >}}) | 2116 | 2116 | 100.0 | Hebrew (http://www.transifex.com/projects/p/MATE/language/he/) | 
- | [metacity]({{< ref "/f20/package/metacity.md" >}}) | 2040 | 2040 | 100.0 | Hebrew <he@li.org> | 
- | [mingw-GConf2]({{< ref "/f20/package/mingw-GConf2.md" >}}) | 4088 | 4088 | 100.0 | he | 
- | [mingw-atk]({{< ref "/f20/package/mingw-atk.md" >}}) | 398 | 398 | 100.0 | Hebrew <he@li.org> | 
- | [mingw-glib-networking]({{< ref "/f20/package/mingw-glib-networking.md" >}}) | 161 | 161 | 100.0 | Hebrew <sh.yaron@gmail.com> | 
- | [mingw-glib2]({{< ref "/f20/package/mingw-glib2.md" >}}) | 5637 | 5637 | 100.0 | עברית <> | 
- | [mingw-gtk-vnc]({{< ref "/f20/package/mingw-gtk-vnc.md" >}}) | 8 | 8 | 100.0 | Hebrew <sh.yaron@gmail.com> | 
- | [mingw-gtk2]({{< ref "/f20/package/mingw-gtk2.md" >}}) | 12429 | 12429 | 100.0 | Hebrew <he@li.org> | 
- | [mingw-gtk3]({{< ref "/f20/package/mingw-gtk3.md" >}}) | 13899 | 13899 | 100.0 | עברית <> | 
- | [mingw-gtkhtml3]({{< ref "/f20/package/mingw-gtkhtml3.md" >}}) | 488 | 488 | 100.0 | Hebrew <he@li.org> | 
- | [mingw-gtksourceview3]({{< ref "/f20/package/mingw-gtksourceview3.md" >}}) | 1604 | 1604 | 100.0 | Gezer | 
- | [mingw-gtkspell3]({{< ref "/f20/package/mingw-gtkspell3.md" >}}) | 16 | 16 | 100.0 | Hebrew <eliz@gnu.org> | 
- | [mingw-libsoup]({{< ref "/f20/package/mingw-libsoup.md" >}}) | 79 | 79 | 100.0 | Hebrew <sh.yaron@gmail.com> | 
- | [mousetweaks]({{< ref "/f20/package/mousetweaks.md" >}}) | 114 | 114 | 100.0 | he | 
- | [mozo]({{< ref "/f20/package/mozo.md" >}}) | 42 | 42 | 100.0 | Hebrew (http://www.transifex.com/projects/p/MATE/language/he/) | 
- | [muffin]({{< ref "/f20/package/muffin.md" >}}) | 2038 | 2038 | 100.0 | Hebrew <he@li.org> | 
- | [multimedia-menus]({{< ref "/f20/package/multimedia-menus.md" >}}) | 56 | 56 | 100.0 | Hebrew <fedora-he-list@redhat.com> | 
- | [mutter]({{< ref "/f20/package/mutter.md" >}}) | 2063 | 2063 | 100.0 | עברית <> | 
- | [mutter-wayland]({{< ref "/f20/package/mutter-wayland.md" >}}) | 2261 | 2261 | 100.0 | Hebrew <he@li.org> | 
- | [nautilus]({{< ref "/f20/package/nautilus.md" >}}) | 6270 | 6270 | 100.0 | עברית <> | 
- | [nautilus-open-terminal]({{< ref "/f20/package/nautilus-open-terminal.md" >}}) | 166 | 166 | 100.0 | Hebrew <he@li.org> | 
- | [nautilus-sendto]({{< ref "/f20/package/nautilus-sendto.md" >}}) | 45 | 45 | 100.0 | Hebrew <he@li.org> | 
- | [nautilus-sound-converter]({{< ref "/f20/package/nautilus-sound-converter.md" >}}) | 159 | 159 | 100.0 | Hebrew <sh.yaron@gmail.com> | 
- | [nemo-extensions]({{< ref "/f20/package/nemo-extensions.md" >}}) | 745 | 745 | 100.0 | Gezer <gezer@lists.launchpad.net> | 
- | [net6]({{< ref "/f20/package/net6.md" >}}) | 304 | 304 | 100.0 | Hebrew <he@li.org> | 
- | [network-manager-applet]({{< ref "/f20/package/network-manager-applet.md" >}}) | 3010 | 3010 | 100.0 | Gezer (Hebrew) | 
- | [newt]({{< ref "/f20/package/newt.md" >}}) | 4 | 4 | 100.0 |  | 
- | [notification-daemon]({{< ref "/f20/package/notification-daemon.md" >}}) | 17 | 17 | 100.0 | Hebrew | 
- | [oggconvert]({{< ref "/f20/package/oggconvert.md" >}}) | 132 | 132 | 100.0 | Hebrew <he@li.org> | 
- | [olpc-switch-desktop]({{< ref "/f20/package/olpc-switch-desktop.md" >}}) | 158 | 158 | 100.0 | LANGUAGE <LL@li.org> | 
- | [parole]({{< ref "/f20/package/parole.md" >}}) | 487 | 487 | 100.0 | גזר | 
- | [pessulus]({{< ref "/f20/package/pessulus.md" >}}) | 146 | 146 | 100.0 | Hebrew <he@li.org> | 
- | [php-horde-imp]({{< ref "/f20/package/php-horde-imp.md" >}}) | 73 | 73 | 100.0 | i18n@lists.horde.org | 
- | [pidgin-birthday-reminder]({{< ref "/f20/package/pidgin-birthday-reminder.md" >}}) | 240 | 240 | 100.0 | Hebrew <he@li.org> | 
- | [poedit]({{< ref "/f20/package/poedit.md" >}}) | 1525 | 1525 | 100.0 | Yaron Shahrabani <sh.yaron@gmail.com> | 
- | [pogo]({{< ref "/f20/package/pogo.md" >}}) | 576 | 576 | 100.0 | Hebrew <he@li.org> | 
- | [polari]({{< ref "/f20/package/polari.md" >}}) | 192 | 192 | 100.0 | עברית <> | 
- | [polkit-gnome]({{< ref "/f20/package/polkit-gnome.md" >}}) | 289 | 289 | 100.0 |  | 
- | [postler]({{< ref "/f20/package/postler.md" >}}) | 809 | 809 | 100.0 | Hebrew <sh.yaron@gmail.com> | 
- | [python-django]({{< ref "/f20/package/python-django.md" >}}) | 3318 | 3318 | 100.0 | Hebrew (http://www.transifex.com/projects/p/django/language/he/) | 
- | [python-django-keyedcache]({{< ref "/f20/package/python-django-keyedcache.md" >}}) | 18 | 18 | 100.0 | <en@li.org> | 
- | [python-django-registration]({{< ref "/f20/package/python-django-registration.md" >}}) | 81 | 81 | 100.0 | Hebrew | 
- | [python-django-reversion]({{< ref "/f20/package/python-django-reversion.md" >}}) | 117 | 117 | 100.0 | LANGUAGE <LL@li.org> | 
- | [quadrapassel]({{< ref "/f20/package/quadrapassel.md" >}}) | 325 | 325 | 100.0 | Gezer (Hebrew) | 
- | [quitcount]({{< ref "/f20/package/quitcount.md" >}}) | 166 | 166 | 100.0 | Hebrew <sh.yaron@gmail.com> | 
- | [radiotray]({{< ref "/f20/package/radiotray.md" >}}) | 130 | 130 | 100.0 | Hebrew (http://www.transifex.com/projects/p/radiotray/language/he/) | 
- | [redhat-menus]({{< ref "/f20/package/redhat-menus.md" >}}) | 261 | 261 | 100.0 | Hebrew <en@li.org> | 
- | [rednotebook]({{< ref "/f20/package/rednotebook.md" >}}) | 1145 | 1145 | 100.0 | Hebrew <he@li.org> | 
- | [sabayon]({{< ref "/f20/package/sabayon.md" >}}) | 743 | 743 | 100.0 | he | 
- | [seahorse]({{< ref "/f20/package/seahorse.md" >}}) | 2423 | 2423 | 100.0 | Hebrew <he@li.org> | 
- | [seahorse-nautilus]({{< ref "/f20/package/seahorse-nautilus.md" >}}) | 477 | 477 | 100.0 | Hebrew <he@li.org> | 
- | [setuptool]({{< ref "/f20/package/setuptool.md" >}}) | 55 | 55 | 100.0 | none | 
- | [shared-mime-info]({{< ref "/f20/package/shared-mime-info.md" >}}) | 1672 | 1672 | 100.0 | Hebrew (http://www.transifex.com/projects/p/freedesktop/language/he/) | 
- | [sound-juicer]({{< ref "/f20/package/sound-juicer.md" >}}) | 1037 | 1037 | 100.0 | Hebrew | 
- | [sushi]({{< ref "/f20/package/sushi.md" >}}) | 24 | 24 | 100.0 | Hebrew <sh.yaron@gmail.com> | 
- | [swell-foop]({{< ref "/f20/package/swell-foop.md" >}}) | 138 | 138 | 100.0 | Gezer (Hebrew) | 
- | [switchdesk]({{< ref "/f20/package/switchdesk.md" >}}) | 139 | 139 | 100.0 | Hebrew | 
- | [system-config-nfs]({{< ref "/f20/package/system-config-nfs.md" >}}) | 332 | 332 | 100.0 | Hebrew <he-users@lists.fedoraproject.org> | 
- | [system-config-rootpassword]({{< ref "/f20/package/system-config-rootpassword.md" >}}) | 116 | 116 | 100.0 | Hebrew | 
- | [system-config-services-docs]({{< ref "/f20/package/system-config-services-docs.md" >}}) | 638 | 638 | 100.0 | Hebrew <he-users@lists.fedoraproject.org> | 
- | [system-switch-java]({{< ref "/f20/package/system-switch-java.md" >}}) | 81 | 81 | 100.0 | Hebrew | 
- | [system-switch-mail]({{< ref "/f20/package/system-switch-mail.md" >}}) | 158 | 158 | 100.0 | Hebrew | 
- | [tali]({{< ref "/f20/package/tali.md" >}}) | 4286 | 4286 | 100.0 | Gezer (Hebrew) | 
- | [thunar-vfs]({{< ref "/f20/package/thunar-vfs.md" >}}) | 387 | 387 | 100.0 | Hebrew <xfce-i18n@xfce.org> | 
- | [tomboy]({{< ref "/f20/package/tomboy.md" >}}) | 3318 | 3318 | 100.0 | Hebrew (he@li.org) | 
- | [totem]({{< ref "/f20/package/totem.md" >}}) | 2040 | 2040 | 100.0 | עברית <> | 
- | [totem-pl-parser]({{< ref "/f20/package/totem-pl-parser.md" >}}) | 28 | 28 | 100.0 | Hebrew <he@li.org> | 
- | [tumbler]({{< ref "/f20/package/tumbler.md" >}}) | 278 | 278 | 100.0 | Hebrew (http://www.transifex.com/projects/p/xfce/language/he/) | 
- | [viewnior]({{< ref "/f20/package/viewnior.md" >}}) | 387 | 387 | 100.0 | Hebrew <he@translationproject.org> | 
- | [vinagre]({{< ref "/f20/package/vinagre.md" >}}) | 1445 | 1445 | 100.0 | he | 
- | [vino]({{< ref "/f20/package/vino.md" >}}) | 1228 | 1228 | 100.0 | Hebrew | 
- | [vte]({{< ref "/f20/package/vte.md" >}}) | 80 | 80 | 100.0 | Hebrew <he@li.org> | 
- | [vte3]({{< ref "/f20/package/vte3.md" >}}) | 80 | 80 | 100.0 | Hebrew <he@li.org> | 
- | [wicd]({{< ref "/f20/package/wicd.md" >}}) | 1138 | 1138 | 100.0 | Hebrew <he@translationproject.org> | 
- | [xdg-user-dirs-gtk]({{< ref "/f20/package/xdg-user-dirs-gtk.md" >}}) | 81 | 81 | 100.0 | Gezer (Hebrew) | 
- | [xfce4-clipman-plugin]({{< ref "/f20/package/xfce4-clipman-plugin.md" >}}) | 350 | 350 | 100.0 | LANGUAGE <LL@li.org> | 
- | [xfce4-eyes-plugin]({{< ref "/f20/package/xfce4-eyes-plugin.md" >}}) | 15 | 15 | 100.0 | pulsar for the hebrew xfce translation team | 
- | [xfce4-icon-theme]({{< ref "/f20/package/xfce4-icon-theme.md" >}}) | 8 | 8 | 100.0 | Hebrew | 
- | [xfce4-mailwatch-plugin]({{< ref "/f20/package/xfce4-mailwatch-plugin.md" >}}) | 657 | 657 | 100.0 | Hebrew | 
- | [xfce4-mpc-plugin]({{< ref "/f20/package/xfce4-mpc-plugin.md" >}}) | 76 | 76 | 100.0 | Hebrew <xfce-i18n@xfce.org> | 
- | [xfce4-notifyd]({{< ref "/f20/package/xfce4-notifyd.md" >}}) | 94 | 94 | 100.0 | <xfce-i18n@xfce.org> | 
- | [xfce4-panel]({{< ref "/f20/package/xfce4-panel.md" >}}) | 1701 | 1701 | 100.0 | Gezer (Hebrew) | 
- | [xfce4-taskmanager]({{< ref "/f20/package/xfce4-taskmanager.md" >}}) | 217 | 217 | 100.0 | Hebrew (http://www.transifex.com/projects/p/xfce-apps/language/he/) | 
- | [xfce4-time-out-plugin]({{< ref "/f20/package/xfce4-time-out-plugin.md" >}}) | 88 | 88 | 100.0 | Hebrew <xfce-i18n@xfce.org> | 
- | [xnoise]({{< ref "/f20/package/xnoise.md" >}}) | 916 | 916 | 100.0 | עברית <> | 
- | [yelp]({{< ref "/f20/package/yelp.md" >}}) | 507 | 507 | 100.0 | Hebrew <he@li.org> | 
- | [yelp-xsl]({{< ref "/f20/package/yelp-xsl.md" >}}) | 81 | 81 | 100.0 | Hebrew <he@li.org> | 
- | [zenity]({{< ref "/f20/package/zenity.md" >}}) | 775 | 775 | 100.0 | Hebrew <> | 
- | [hamster-time-tracker]({{< ref "/f20/package/hamster-time-tracker.md" >}}) | 696 | 697 | 99.9 | Gezer <sh.yaron@gmail.com> | 
- | [mate-file-manager]({{< ref "/f20/package/mate-file-manager.md" >}}) | 9066 | 9086 | 99.8 | Hebrew (http://www.transifex.com/projects/p/MATE/language/he/) | 
- | [gnome-shell]({{< ref "/f20/package/gnome-shell.md" >}}) | 1350 | 1353 | 99.8 | עברית <> | 
- | [pluma]({{< ref "/f20/package/pluma.md" >}}) | 4986 | 4999 | 99.7 | Hebrew (http://www.transifex.com/projects/p/MATE/language/he/) | 
- | [asunder]({{< ref "/f20/package/asunder.md" >}}) | 469 | 471 | 99.6 | Rahut <genghiskhan@gmx.ca> | 
- | [exo]({{< ref "/f20/package/exo.md" >}}) | 1373 | 1379 | 99.6 | Hebrew | 
- | [mingw-gdk-pixbuf]({{< ref "/f20/package/mingw-gdk-pixbuf.md" >}}) | 1354 | 1360 | 99.6 | Hebrew <he@li.org> | 
- | [python-lettuce]({{< ref "/f20/package/python-lettuce.md" >}}) | 7654 | 7693 | 99.5 | Django-i18n <django-i18n@googlegroups.com> | 
- | [Thunar]({{< ref "/f20/package/Thunar.md" >}}) | 4184 | 4206 | 99.5 | Hebrew (http://www.transifex.com/projects/p/thunar/language/he/) | 
- | [caja]({{< ref "/f20/package/caja.md" >}}) | 9086 | 9136 | 99.5 | Hebrew (http://www.transifex.com/projects/p/MATE/language/he/) | 
- | [pidgin]({{< ref "/f20/package/pidgin.md" >}}) | 18337 | 18464 | 99.3 | Hebrew (http://www.transifex.com/projects/p/pidgin/language/he/) | 
- | [engrampa]({{< ref "/f20/package/engrampa.md" >}}) | 1374 | 1385 | 99.2 | Hebrew (http://www.transifex.com/projects/p/MATE/language/he/) | 
- | [moin]({{< ref "/f20/package/moin.md" >}}) | 4974 | 5023 | 99.0 |  | 
- | [perl-Padre]({{< ref "/f20/package/perl-Padre.md" >}}) | 5313 | 5374 | 98.9 | American English <kde-i18n-doc@lists.kde.org> | 
- | [kf5-ktextwidgets]({{< ref "/f20/package/kf5-ktextwidgets.md" >}}) | 458 | 464 | 98.7 | Hebrew <kde-i18n-doc@kde.org> | 
- | [atril]({{< ref "/f20/package/atril.md" >}}) | 1409 | 1430 | 98.5 | Hebrew (http://www.transifex.com/projects/p/MATE/language/he/) | 
- | [virtaal]({{< ref "/f20/package/virtaal.md" >}}) | 1411 | 1433 | 98.5 | Gezer (Hebrew) | 
- | [usermode]({{< ref "/f20/package/usermode.md" >}}) | 564 | 573 | 98.4 | Hebrew <he-users@lists.fedoraproject.org> | 
- | [python-django15]({{< ref "/f20/package/python-django15.md" >}}) | 5048 | 5130 | 98.4 | Hebrew (http://www.transifex.com/projects/p/django/language/he/) | 
- | [subdownloader]({{< ref "/f20/package/subdownloader.md" >}}) | 952 | 968 | 98.3 | LANGUAGE <LL@li.org> | 
- | [mate-terminal]({{< ref "/f20/package/mate-terminal.md" >}}) | 1234 | 1255 | 98.3 | Hebrew (http://www.transifex.com/projects/p/MATE/language/he/) | 
- | [libmateweather]({{< ref "/f20/package/libmateweather.md" >}}) | 6009 | 6112 | 98.3 | Hebrew (http://www.transifex.com/projects/p/MATE/language/he/) | 
- | [xfce4-whiskermenu-plugin]({{< ref "/f20/package/xfce4-whiskermenu-plugin.md" >}}) | 225 | 229 | 98.3 | Hebrew (http://www.transifex.com/projects/p/xfce4-whiskermenu-plugin/language/he/) | 
- | [mate-panel]({{< ref "/f20/package/mate-panel.md" >}}) | 4124 | 4237 | 97.3 | Hebrew (http://www.transifex.com/projects/p/MATE/language/he/) | 
- | [kf5-kiconthemes]({{< ref "/f20/package/kf5-kiconthemes.md" >}}) | 36 | 37 | 97.3 | Hebrew <kde-i18n-doc@kde.org> | 
- | [gucharmap]({{< ref "/f20/package/gucharmap.md" >}}) | 1041 | 1071 | 97.2 | Hebrew <he@li.org> | 
- | [ncmpc]({{< ref "/f20/package/ncmpc.md" >}}) | 687 | 707 | 97.2 | he <he@li.org> | 
- | [ejabberd]({{< ref "/f20/package/ejabberd.md" >}}) | 1769 | 1826 | 96.9 | Rahut <genghiskhan@gmx.ca> | 
- | [lxsession-edit]({{< ref "/f20/package/lxsession-edit.md" >}}) | 62 | 64 | 96.9 | LANGUAGE <LL@li.org> | 
- | [eom]({{< ref "/f20/package/eom.md" >}}) | 1589 | 1641 | 96.8 | Hebrew (http://www.transifex.com/projects/p/MATE/language/he/) | 
- | [leafpad]({{< ref "/f20/package/leafpad.md" >}}) | 121 | 125 | 96.8 | Hebrew | 
- | [lxpanel]({{< ref "/f20/package/lxpanel.md" >}}) | 978 | 1014 | 96.4 | LANGUAGE <LL@li.org> | 
- | [compiz-plugins-extra]({{< ref "/f20/package/compiz-plugins-extra.md" >}}) | 8609 | 8946 | 96.2 | Yotam Benshalom <benshalom@gmail.com> | 
- | [compiz-plugins-main]({{< ref "/f20/package/compiz-plugins-main.md" >}}) | 8609 | 8946 | 96.2 | Yotam Benshalom <benshalom@gmail.com> | 
- | [compiz-plugins-unsupported]({{< ref "/f20/package/compiz-plugins-unsupported.md" >}}) | 8609 | 8946 | 96.2 | Yotam Benshalom <benshalom@gmail.com> | 
- | [gwibber]({{< ref "/f20/package/gwibber.md" >}}) | 739 | 769 | 96.1 | Hebrew <he@li.org> | 
- | [mate-control-center]({{< ref "/f20/package/mate-control-center.md" >}}) | 2585 | 2692 | 96.0 | Hebrew (http://www.transifex.com/projects/p/MATE/language/he/) | 
- | [sakura]({{< ref "/f20/package/sakura.md" >}}) | 190 | 198 | 96.0 | Rahut <genghiskhan@gmx.ca> | 
- | [debconf]({{< ref "/f20/package/debconf.md" >}}) | 762 | 795 | 95.8 | Hebrew | 
- | [system-config-services]({{< ref "/f20/package/system-config-services.md" >}}) | 511 | 534 | 95.7 | Hebrew (http://www.transifex.com/projects/p/fedora/language/he/) | 
- | [mate-applets]({{< ref "/f20/package/mate-applets.md" >}}) | 2184 | 2283 | 95.7 | Hebrew (http://www.transifex.com/projects/p/MATE/language/he/) | 
- | [system-config-kickstart]({{< ref "/f20/package/system-config-kickstart.md" >}}) | 1092 | 1144 | 95.5 | Hebrew <he-users@lists.fedoraproject.org> | 
- | [mate-character-map]({{< ref "/f20/package/mate-character-map.md" >}}) | 819 | 863 | 94.9 | Hebrew <he@li.org> | 
- | [claws-mail]({{< ref "/f20/package/claws-mail.md" >}}) | 18873 | 19925 | 94.7 | Rahut <translators@lists.claws-mail.org> | 
- | [gaupol]({{< ref "/f20/package/gaupol.md" >}}) | 2268 | 2395 | 94.7 | Gezer (Hebrew) | 
- | [zarafa]({{< ref "/f20/package/zarafa.md" >}}) | 5955 | 6307 | 94.4 | LANGUAGE <LL@li.org> | 
- | [system-config-users]({{< ref "/f20/package/system-config-users.md" >}}) | 1436 | 1521 | 94.4 | Hebrew <he-users@lists.fedoraproject.org> | 
- | [publican-fedora]({{< ref "/f20/package/publican-fedora.md" >}}) | 100 | 106 | 94.3 | Hebrew Team <fedora-he-list@redhat.com> | 
- | [shotwell]({{< ref "/f20/package/shotwell.md" >}}) | 4327 | 4588 | 94.3 | Hebrew (http://www.transifex.com/projects/p/shotwell/language/he/) | 
- | [tuxpaint]({{< ref "/f20/package/tuxpaint.md" >}}) | 1175 | 1247 | 94.2 | Hebrew <mdk-hebrew@iglu.org.il> | 
- | [kiconedit]({{< ref "/f20/package/kiconedit.md" >}}) | 682 | 726 | 93.9 | hebrew <kde-il@yahoogroups.com> | 
- | [decibel-audio-player]({{< ref "/f20/package/decibel-audio-player.md" >}}) | 1401 | 1494 | 93.8 | Hebrew <he@li.org> | 
- | [scratch]({{< ref "/f20/package/scratch.md" >}}) | 1377 | 1470 | 93.7 | <LL@li.org> | 
- | [system-config-firewall]({{< ref "/f20/package/system-config-firewall.md" >}}) | 2632 | 2814 | 93.5 | Hebrew <he-users@lists.fedoraproject.org> | 
- | [liferea]({{< ref "/f20/package/liferea.md" >}}) | 2067 | 2222 | 93.0 | Hebrew <eliz@gnu.org> | 
- | [mate-screensaver]({{< ref "/f20/package/mate-screensaver.md" >}}) | 544 | 585 | 93.0 | Hebrew (http://www.transifex.com/projects/p/MATE/language/he/) | 
- | [gajim]({{< ref "/f20/package/gajim.md" >}}) | 11104 | 11941 | 93.0 | Rahut | 
- | [xdg-user-dirs]({{< ref "/f20/package/xdg-user-dirs.md" >}}) | 26 | 28 | 92.9 | Hebrew <eliz@gnu.org> | 
- | [kf5-khtml]({{< ref "/f20/package/kf5-khtml.md" >}}) | 1595 | 1720 | 92.7 | Hebrew <kde-i18n-doc@kde.org> | 
- | [pondus]({{< ref "/f20/package/pondus.md" >}}) | 299 | 324 | 92.3 | LANGUAGE <LL@li.org> | 
- | [aisleriot]({{< ref "/f20/package/aisleriot.md" >}}) | 1754 | 1907 | 92.0 | Gezer (Hebrew) | 
- | [simple-scan]({{< ref "/f20/package/simple-scan.md" >}}) | 598 | 651 | 91.9 | Hebrew <he@li.org> | 
- | [mate-keyring]({{< ref "/f20/package/mate-keyring.md" >}}) | 1075 | 1173 | 91.6 | Hebrew (http://www.transifex.com/projects/p/MATE/language/he/) | 
- | [mate-calc]({{< ref "/f20/package/mate-calc.md" >}}) | 1291 | 1412 | 91.4 | Hebrew (http://www.transifex.com/projects/p/MATE/language/he/) | 
- | [skychart]({{< ref "/f20/package/skychart.md" >}}) | 1555 | 1702 | 91.4 |  | 
- | [mate-netspeed]({{< ref "/f20/package/mate-netspeed.md" >}}) | 135 | 148 | 91.2 | Hebrew (http://www.transifex.com/projects/p/MATE/language/he/) | 
- | [lxrandr]({{< ref "/f20/package/lxrandr.md" >}}) | 111 | 122 | 91.0 | LANGUAGE <LL@li.org> | 
- | [clementine]({{< ref "/f20/package/clementine.md" >}}) | 4420 | 4861 | 90.9 | Hebrew (http://www.transifex.com/projects/p/clementine/language/he/) | 
- | [system-config-samba]({{< ref "/f20/package/system-config-samba.md" >}}) | 518 | 571 | 90.7 | Hebrew <he-users@lists.fedoraproject.org> | 
- | [linphone]({{< ref "/f20/package/linphone.md" >}}) | 1271 | 1403 | 90.6 | Rahut Project <http://sourceforge.net/projects/rahut/> | 
- | [steadyflow]({{< ref "/f20/package/steadyflow.md" >}}) | 423 | 470 | 90.0 | Hebrew <he@li.org> | 
- | [kf5-kconfigwidgets]({{< ref "/f20/package/kf5-kconfigwidgets.md" >}}) | 285 | 317 | 89.9 | Hebrew <kde-i18n-doc@kde.org> | 
- | [kf5-knewstuff]({{< ref "/f20/package/kf5-knewstuff.md" >}}) | 603 | 673 | 89.6 | Hebrew <kde-i18n-doc@kde.org> | 
- | [boost]({{< ref "/f20/package/boost.md" >}}) | 17 | 19 | 89.5 |  | 
- | [mingw-boost]({{< ref "/f20/package/mingw-boost.md" >}}) | 17 | 19 | 89.5 |  | 
- | [mailman]({{< ref "/f20/package/mailman.md" >}}) | 20592 | 23085 | 89.2 | Hebrew | 
- | [kf5-kxmlgui]({{< ref "/f20/package/kf5-kxmlgui.md" >}}) | 1376 | 1543 | 89.2 | Hebrew <kde-i18n-doc@kde.org> | 
- | [xfce4-places-plugin]({{< ref "/f20/package/xfce4-places-plugin.md" >}}) | 140 | 157 | 89.2 | Gezer <gezer@lists.launchpad.net> | 
- | [fuse-encfs]({{< ref "/f20/package/fuse-encfs.md" >}}) | 1170 | 1315 | 89.0 | Hebrew <he@li.org> | 
- | [mailnag]({{< ref "/f20/package/mailnag.md" >}}) | 122 | 138 | 88.4 | Hebrew <he@li.org> | 
- | [pidgin-musictracker]({{< ref "/f20/package/pidgin-musictracker.md" >}}) | 294 | 333 | 88.3 | Hebrew <he@li.org> | 
- | [gnome-boxes]({{< ref "/f20/package/gnome-boxes.md" >}}) | 755 | 856 | 88.2 | עברית <> | 
- | [obconf]({{< ref "/f20/package/obconf.md" >}}) | 650 | 738 | 88.1 | Rahut <genghiskhan@gmx.ca> | 
- | [PackageKit]({{< ref "/f20/package/PackageKit.md" >}}) | 1157 | 1328 | 87.1 | Hebrew (http://www.transifex.com/projects/p/freedesktop/language/he/) | 
- | [l3afpad]({{< ref "/f20/package/l3afpad.md" >}}) | 113 | 130 | 86.9 | Hebrew | 
- | [gobby]({{< ref "/f20/package/gobby.md" >}}) | 765 | 900 | 85.0 | Hebrew <he@li.org> | 
- | [cinnamon-session]({{< ref "/f20/package/cinnamon-session.md" >}}) | 366 | 432 | 84.7 | Hebrew <he@li.org> | 
- | [libgpod]({{< ref "/f20/package/libgpod.md" >}}) | 891 | 1053 | 84.6 | HEBREW <kde-il@yahoogroups.com> | 
- | [whaawmp]({{< ref "/f20/package/whaawmp.md" >}}) | 670 | 799 | 83.9 | Hebrew <he@li.org> | 
- | [mate-backgrounds]({{< ref "/f20/package/mate-backgrounds.md" >}}) | 25 | 30 | 83.3 | Hebrew (http://www.transifex.com/projects/p/MATE/language/he/) | 
- | [logjam]({{< ref "/f20/package/logjam.md" >}}) | 1928 | 2316 | 83.2 | <none> | 
- | [gparted]({{< ref "/f20/package/gparted.md" >}}) | 2091 | 2517 | 83.1 | Hebrew <he@li.org> | 
- | [kf5-kinit]({{< ref "/f20/package/kf5-kinit.md" >}}) | 111 | 134 | 82.8 | Hebrew <kde-i18n-doc@kde.org> | 
- | [pinta]({{< ref "/f20/package/pinta.md" >}}) | 1334 | 1618 | 82.4 | Hebrew <he@li.org> | 
- | [control-center]({{< ref "/f20/package/control-center.md" >}}) | 5172 | 6297 | 82.1 | Hebrew | 
- | [kf5-kross]({{< ref "/f20/package/kf5-kross.md" >}}) | 82 | 100 | 82.0 | Hebrew <kde-i18n-doc@kde.org> | 
- | [easystroke]({{< ref "/f20/package/easystroke.md" >}}) | 385 | 470 | 81.9 | Hebrew <he@li.org> | 
- | [evolution-data-server]({{< ref "/f20/package/evolution-data-server.md" >}}) | 3709 | 4584 | 80.9 | Hebrew <he@li.org> | 
- | [mate-session-manager]({{< ref "/f20/package/mate-session-manager.md" >}}) | 455 | 564 | 80.7 | Hebrew (http://www.transifex.com/projects/p/MATE/language/he/) | 
- | [Zim]({{< ref "/f20/package/Zim.md" >}}) | 2158 | 2677 | 80.6 | Hebrew <he@li.org> | 
- | [mcomix]({{< ref "/f20/package/mcomix.md" >}}) | 2014 | 2501 | 80.5 | Hebrew <eliz@gnu.org> | 
- | [libfm]({{< ref "/f20/package/libfm.md" >}}) | 1253 | 1565 | 80.1 | Hebrew <sh.yaron@gmail.com> | 
- | [workrave]({{< ref "/f20/package/workrave.md" >}}) | 1017 | 1278 | 79.6 | Hebrew <en@li.org> | 
- | [python-django14]({{< ref "/f20/package/python-django14.md" >}}) | 4008 | 5056 | 79.3 | Hebrew (http://www.transifex.net/projects/p/django/language/he/) | 
- | [kf5-kio]({{< ref "/f20/package/kf5-kio.md" >}}) | 9224 | 11641 | 79.2 | Hebrew <kde-i18n-doc@kde.org> | 
- | [shutter]({{< ref "/f20/package/shutter.md" >}}) | 2434 | 3093 | 78.7 | Hebrew <he@li.org> | 
- | [plasma-oxygen]({{< ref "/f20/package/plasma-oxygen.md" >}}) | 524 | 666 | 78.7 | Hebrew <kde-i18n-doc@kde.org> | 
- | [lazarus]({{< ref "/f20/package/lazarus.md" >}}) | 18252 | 23458 | 77.8 |  | 
- | [gnome-do]({{< ref "/f20/package/gnome-do.md" >}}) | 473 | 612 | 77.3 | Hebrew <he@li.org> | 
- | [trac]({{< ref "/f20/package/trac.md" >}}) | 9967 | 13219 | 75.4 | ItamarO <itamarost <at> gmail <dot> com> | 
- | [gthumb]({{< ref "/f20/package/gthumb.md" >}}) | 2686 | 3568 | 75.3 | Hebrew <he@li.org> | 
- | [glade]({{< ref "/f20/package/glade.md" >}}) | 3150 | 4208 | 74.9 | he | 
- | [f-spot]({{< ref "/f20/package/f-spot.md" >}}) | 2500 | 3402 | 73.5 | Hebrew <he@li.org> | 
- | [libhocr]({{< ref "/f20/package/libhocr.md" >}}) | 152 | 207 | 73.4 | Hebrew | 
- | [xfce4-weather-plugin]({{< ref "/f20/package/xfce4-weather-plugin.md" >}}) | 2583 | 3594 | 71.9 | Rahut <xfce-i18n@xfce.org> | 
- | [transifex]({{< ref "/f20/package/transifex.md" >}}) | 4562 | 6424 | 71.0 | Hebrew (http://www.transifex.net/projects/p/transifex/team/he/) | 
- | [openbox]({{< ref "/f20/package/openbox.md" >}}) | 357 | 506 | 70.6 | Rahut <genghiskhan@gmx.ca> | 
- | [gnome-software]({{< ref "/f20/package/gnome-software.md" >}}) | 248 | 354 | 70.1 | GNOME Hebrew Langauge Translation Team | 
- | [isomaster]({{< ref "/f20/package/isomaster.md" >}}) | 472 | 674 | 70.0 | Fima Kachinski <xrayon@gmail.com> | 
- | [xfce4-settings]({{< ref "/f20/package/xfce4-settings.md" >}}) | 1051 | 1510 | 69.6 | <<xfce-i18n@xfce.org>> | 
- | [mintmenu]({{< ref "/f20/package/mintmenu.md" >}}) | 3695 | 5334 | 69.3 | Hebrew <he@li.org> | 
- | [gnome-disk-utility]({{< ref "/f20/package/gnome-disk-utility.md" >}}) | 2375 | 3438 | 69.1 | Hebrew <he@li.org> | 
- | [system-config-printer]({{< ref "/f20/package/system-config-printer.md" >}}) | 2141 | 3144 | 68.1 | Hebrew <he-users@lists.fedoraproject.org> | 
- | [gweled]({{< ref "/f20/package/gweled.md" >}}) | 106 | 156 | 67.9 | Hebrew <he@li.org> | 
- | [kf5-kdeclarative]({{< ref "/f20/package/kf5-kdeclarative.md" >}}) | 74 | 109 | 67.9 | Hebrew <kde-i18n-doc@kde.org> | 
- | [supertuxkart]({{< ref "/f20/package/supertuxkart.md" >}}) | 1420 | 2112 | 67.2 | Hebrew <he@li.org> | 
- | [inkscape]({{< ref "/f20/package/inkscape.md" >}}) | 23204 | 34673 | 66.9 | Gezer (Hebrew) | 
- | [kf5-knotifyconfig]({{< ref "/f20/package/kf5-knotifyconfig.md" >}}) | 86 | 129 | 66.7 | Hebrew <kde-i18n-doc@kde.org> | 
- | [pcmanfm]({{< ref "/f20/package/pcmanfm.md" >}}) | 804 | 1210 | 66.4 |  | 
- | [rhythmbox]({{< ref "/f20/package/rhythmbox.md" >}}) | 2988 | 4506 | 66.3 | Hebrew <he@li.org> | 
- | [nfoview]({{< ref "/f20/package/nfoview.md" >}}) | 103 | 157 | 65.6 | Hebrew (Yaron Shahrabani) <sh.yaron@gmail.com> | 
- | [caja-terminal]({{< ref "/f20/package/caja-terminal.md" >}}) | 72 | 110 | 65.5 | Hebrew <he@li.org> | 
- | [tuxpaint-stamps]({{< ref "/f20/package/tuxpaint-stamps.md" >}}) | 1763 | 2711 | 65.0 |  | 
- | [gtkpod]({{< ref "/f20/package/gtkpod.md" >}}) | 4756 | 7392 | 64.3 | HEBREW <kde-il@yahoogroups.com> | 
- | [picard]({{< ref "/f20/package/picard.md" >}}) | 1081 | 1681 | 64.3 | LANGUAGE <LL@li.org> | 
- | [kf5-kdelibs4support]({{< ref "/f20/package/kf5-kdelibs4support.md" >}}) | 3010 | 4683 | 64.3 | Hebrew <kde-i18n-doc@kde.org> | 
- | [midori]({{< ref "/f20/package/midori.md" >}}) | 2147 | 3347 | 64.1 | גזר | 
- | [gdmap]({{< ref "/f20/package/gdmap.md" >}}) | 88 | 139 | 63.3 | Hebrew <LL@li.org> | 
- | [qtwebkit]({{< ref "/f20/package/qtwebkit.md" >}}) | 684 | 1093 | 62.6 | Hebrew <he@li.org> | 
- | [plank]({{< ref "/f20/package/plank.md" >}}) | 15 | 24 | 62.5 | Hebrew <he@li.org> | 
- | [balsa]({{< ref "/f20/package/balsa.md" >}}) | 3311 | 5348 | 61.9 | Hebrew <he@li.org> | 
- | [deluge]({{< ref "/f20/package/deluge.md" >}}) | 1684 | 2726 | 61.8 | Hebrew <he@li.org> | 
- | [sparkleshare]({{< ref "/f20/package/sparkleshare.md" >}}) | 248 | 402 | 61.7 |  | 
- | [folks]({{< ref "/f20/package/folks.md" >}}) | 517 | 851 | 60.8 | Hebrew <sh.yaron@gmail.com> | 
- | [synaptic]({{< ref "/f20/package/synaptic.md" >}}) | 1954 | 3231 | 60.5 | Hebrew <en@li.org> | 
- | [kf5-kservice]({{< ref "/f20/package/kf5-kservice.md" >}}) | 92 | 153 | 60.1 | Hebrew <kde-i18n-doc@kde.org> | 
- | [boinc-client]({{< ref "/f20/package/boinc-client.md" >}}) | 9856 | 16656 | 59.2 | IOPanel.net | 
- | [libreoffice]({{< ref "/f20/package/libreoffice.md" >}}) | 316204 | 534770 | 59.1 | LANGUAGE <LL@li.org> | 
- | [glade3]({{< ref "/f20/package/glade3.md" >}}) | 2547 | 4319 | 59.0 | he | 
- | [evolution]({{< ref "/f20/package/evolution.md" >}}) | 12689 | 21585 | 58.8 | Hebrew <he@li.org> | 
- | [tuxmath]({{< ref "/f20/package/tuxmath.md" >}}) | 854 | 1454 | 58.7 | Gezer (Hebrew) | 
- | [mana]({{< ref "/f20/package/mana.md" >}}) | 1846 | 3155 | 58.5 | Hebrew <he@li.org> | 
- | [gridengine]({{< ref "/f20/package/gridengine.md" >}}) | 1168 | 2047 | 57.1 | Hebrew <eliz@gnu.org> | 
- | [make]({{< ref "/f20/package/make.md" >}}) | 1168 | 2047 | 57.1 | Hebrew <eliz@gnu.org> | 
- | [dasher]({{< ref "/f20/package/dasher.md" >}}) | 299 | 528 | 56.6 | Hebrew <he@li.org> | 
- | [kf5-ktexteditor]({{< ref "/f20/package/kf5-ktexteditor.md" >}}) | 4904 | 8670 | 56.6 | Hebrew <kde-i18n-doc@kde.org> | 
- | [digikam]({{< ref "/f20/package/digikam.md" >}}) | 140 | 250 | 56.0 | American English <kde-i18n-doc@lists.kde.org> | 
- | [cinnamon-translations]({{< ref "/f20/package/cinnamon-translations.md" >}}) | 7404 | 13313 | 55.6 | Hebrew <he@li.org> | 
- | [sugar-chat]({{< ref "/f20/package/sugar-chat.md" >}}) | 30 | 55 | 54.5 | LANGUAGE <LL@li.org> | 
- | [orca]({{< ref "/f20/package/orca.md" >}}) | 2053 | 3793 | 54.1 |  | 
- | [xiphos]({{< ref "/f20/package/xiphos.md" >}}) | 2414 | 4557 | 53.0 | Xiphos Translation Team | 
- | [pmount]({{< ref "/f20/package/pmount.md" >}}) | 378 | 723 | 52.3 | Hebrew <he@li.org> | 
- | [caja-actions]({{< ref "/f20/package/caja-actions.md" >}}) | 2552 | 4886 | 52.2 | he | 
- | [nautilus-actions]({{< ref "/f20/package/nautilus-actions.md" >}}) | 2552 | 4886 | 52.2 | he | 
- | [pykickstart]({{< ref "/f20/package/pykickstart.md" >}}) | 199 | 383 | 52.0 | Hebrew (http://www.transifex.com/projects/p/fedora/language/he/) | 
- | [xfce4-mixer]({{< ref "/f20/package/xfce4-mixer.md" >}}) | 94 | 181 | 51.9 | <xfce-i18n@xfce.org> | 
- | [qutim]({{< ref "/f20/package/qutim.md" >}}) | 4694 | 9169 | 51.2 | Hebrew <he@li.org> | 
- | [conduit]({{< ref "/f20/package/conduit.md" >}}) | 288 | 564 | 51.1 | he | 
- | [k3b]({{< ref "/f20/package/k3b.md" >}}) | 10157 | 20535 | 49.5 | Hebrew <kde-i18n-doc@kde.org> | 
- | [gtksourceview]({{< ref "/f20/package/gtksourceview.md" >}}) | 348 | 725 | 48.0 | Hebrew <he@li.org> | 
- | [wine]({{< ref "/f20/package/wine.md" >}}) | 6801 | 14311 | 47.5 | Gezer (Hebrew) | 
- | [sugar-turtleart]({{< ref "/f20/package/sugar-turtleart.md" >}}) | 1552 | 3270 | 47.5 | LANGUAGE <walter@sugarlabs.org> | 
- | [koffice-kivio]({{< ref "/f20/package/koffice-kivio.md" >}}) | 3887 | 8417 | 46.2 | Hebrew <kde-il@yahoogroups.com> | 
- | [easytag]({{< ref "/f20/package/easytag.md" >}}) | 2516 | 5507 | 45.7 | Hebrew <he@li.org> | 
- | [gnome-music]({{< ref "/f20/package/gnome-music.md" >}}) | 154 | 348 | 44.3 | עברית <> | 
- | [pidgin-guifications]({{< ref "/f20/package/pidgin-guifications.md" >}}) | 223 | 505 | 44.2 | Hebrew  <he@li.org> | 
- | [lyx]({{< ref "/f20/package/lyx.md" >}}) | 9160 | 21457 | 42.7 | Hebrew <> | 
- | [transmission]({{< ref "/f20/package/transmission.md" >}}) | 768 | 1809 | 42.5 | Gezer (Hebrew) | 
- | [deja-dup]({{< ref "/f20/package/deja-dup.md" >}}) | 1632 | 3913 | 41.7 | Hebrew <he@li.org> | 
- | [lightdm-gtk]({{< ref "/f20/package/lightdm-gtk.md" >}}) | 35 | 84 | 41.7 | Hebrew <he@li.org> | 
- | [anjuta]({{< ref "/f20/package/anjuta.md" >}}) | 3238 | 7797 | 41.5 | he | 
- | [kgrab]({{< ref "/f20/package/kgrab.md" >}}) | 152 | 370 | 41.1 | American English <kde-il@yahoogroups.com> | 
- | [php-horde-Horde-Nls]({{< ref "/f20/package/php-horde-Horde-Nls.md" >}}) | 174 | 430 | 40.5 | i18n@lists.horde.org | 
- | [lxdm]({{< ref "/f20/package/lxdm.md" >}}) | 12 | 30 | 40.0 | LANGUAGE <LL@li.org> | 
- | [sugar-visualmatch]({{< ref "/f20/package/sugar-visualmatch.md" >}}) | 63 | 158 | 39.9 | LANGUAGE <LL@li.org> | 
- | [gourmet]({{< ref "/f20/package/gourmet.md" >}}) | 1501 | 3776 | 39.8 | Hebrew <he@li.org> | 
- | [gallery2]({{< ref "/f20/package/gallery2.md" >}}) | 5123 | 12953 | 39.6 | Hebrew <guysoft@ort.org.il> | 
- | [soundconverter]({{< ref "/f20/package/soundconverter.md" >}}) | 151 | 388 | 38.9 | LANG <EMAIL@ADDRESS> | 
- | [backintime]({{< ref "/f20/package/backintime.md" >}}) | 576 | 1492 | 38.6 | Hebrew <he@li.org> | 
- | [cinnamon-control-center]({{< ref "/f20/package/cinnamon-control-center.md" >}}) | 504 | 1313 | 38.4 | Hebrew | 
- | [xfdesktop]({{< ref "/f20/package/xfdesktop.md" >}}) | 361 | 941 | 38.4 | Hebrew (http://www.transifex.com/projects/p/xfce/language/he/) | 
- | [docky]({{< ref "/f20/package/docky.md" >}}) | 672 | 1757 | 38.2 | Hebrew <he@li.org> | 
- | [listen]({{< ref "/f20/package/listen.md" >}}) | 675 | 1783 | 37.9 | Hebrew <he@li.org> | 
- | [pam]({{< ref "/f20/package/pam.md" >}}) | 229 | 606 | 37.8 | Hebrew <he-users@lists.fedoraproject.org> | 
- | [pitivi]({{< ref "/f20/package/pitivi.md" >}}) | 593 | 1602 | 37.0 | Gezer (Hebrew) <gezer@lists.launchpad.net> | 
- | [gscan2pdf]({{< ref "/f20/package/gscan2pdf.md" >}}) | 570 | 1582 | 36.0 | Hebrew <he@li.org> | 
- | [openvas-client]({{< ref "/f20/package/openvas-client.md" >}}) | 1604 | 4463 | 35.9 | <en@li.org> | 
- | [kf5-kwallet]({{< ref "/f20/package/kf5-kwallet.md" >}}) | 534 | 1498 | 35.6 | Hebrew <kde-i18n-doc@kde.org> | 
- | [xfce4-terminal]({{< ref "/f20/package/xfce4-terminal.md" >}}) | 387 | 1097 | 35.3 | Hebrew (http://www.transifex.com/projects/p/xfce/language/he/) | 
- | [avahi]({{< ref "/f20/package/avahi.md" >}}) | 301 | 865 | 34.8 | Hebrew <he@li.org> | 
- | [mate-desktop]({{< ref "/f20/package/mate-desktop.md" >}}) | 610 | 1753 | 34.8 | Hebrew (http://www.transifex.com/projects/p/MATE/language/he/) | 
- | [gxneur]({{< ref "/f20/package/gxneur.md" >}}) | 318 | 915 | 34.8 | Hebrew <he@li.org> | 
- | [audacity]({{< ref "/f20/package/audacity.md" >}}) | 3965 | 11446 | 34.6 | Heb | 
- | [phatch]({{< ref "/f20/package/phatch.md" >}}) | 882 | 2553 | 34.5 | Hebrew <he@li.org> | 
- | [xfce4-session]({{< ref "/f20/package/xfce4-session.md" >}}) | 390 | 1132 | 34.5 | Hebrew | 
- | [texinfo]({{< ref "/f20/package/texinfo.md" >}}) | 1902 | 5553 | 34.3 | Hebrew <eliz@gnu.org> | 
- | [kf5-ki18n]({{< ref "/f20/package/kf5-ki18n.md" >}}) | 42 | 124 | 33.9 | Hebrew <kde-i18n-doc@kde.org> | 
- | [gmpc]({{< ref "/f20/package/gmpc.md" >}}) | 496 | 1478 | 33.6 | Hebrew <he@li.org> | 
- | [vidalia]({{< ref "/f20/package/vidalia.md" >}}) | 3464 | 10463 | 33.1 | translations@vidalia-project.net | 
- | [warmux]({{< ref "/f20/package/warmux.md" >}}) | 902 | 2744 | 32.9 | <he@li.org> | 
- | [xchat-gnome]({{< ref "/f20/package/xchat-gnome.md" >}}) | 1330 | 4064 | 32.7 | Hebrew Translators <blueomega@gmailc.om> | 
- | [gramps]({{< ref "/f20/package/gramps.md" >}}) | 11353 | 37092 | 30.6 | he <igal.shapira@gmail.com> | 
- | [cairo-dock]({{< ref "/f20/package/cairo-dock.md" >}}) | 2247 | 7464 | 30.1 | Hebrew <he@li.org> | 
- | [python-blivet]({{< ref "/f20/package/python-blivet.md" >}}) | 245 | 825 | 29.7 | Hebrew (http://www.transifex.com/projects/p/blivet/language/he/) | 
- | [mate-file-manager-open-terminal]({{< ref "/f20/package/mate-file-manager-open-terminal.md" >}}) | 24 | 82 | 29.3 | Hebrew (http://www.transifex.com/projects/p/MATE/language/he/) | 
- | [exaile]({{< ref "/f20/package/exaile.md" >}}) | 1150 | 4006 | 28.7 | Hebrew <LL@li.org> | 
- | [mate-polkit]({{< ref "/f20/package/mate-polkit.md" >}}) | 81 | 296 | 27.4 | Hebrew (http://www.transifex.com/projects/p/MATE/language/he/) | 
- | [system-config-language]({{< ref "/f20/package/system-config-language.md" >}}) | 54 | 198 | 27.3 | Hebrew <he-users@lists.fedoraproject.org> | 
- | [ksig]({{< ref "/f20/package/ksig.md" >}}) | 23 | 85 | 27.1 | hebrew <kde-il@yahoogroups.com> | 
- | [system-config-keyboard]({{< ref "/f20/package/system-config-keyboard.md" >}}) | 48 | 187 | 25.7 | Hebrew <kde-i18n-doc@kde.org> | 
- | [mingw-qt5-qtwebkit]({{< ref "/f20/package/mingw-qt5-qtwebkit.md" >}}) | 671 | 2631 | 25.5 | Hebrew <he@li.org> | 
- | [mingw-webkitgtk]({{< ref "/f20/package/mingw-webkitgtk.md" >}}) | 671 | 2631 | 25.5 | Hebrew <he@li.org> | 
- | [mingw-webkitgtk3]({{< ref "/f20/package/mingw-webkitgtk3.md" >}}) | 671 | 2631 | 25.5 | Hebrew <he@li.org> | 
- | [qt5-qtwebkit]({{< ref "/f20/package/qt5-qtwebkit.md" >}}) | 671 | 2631 | 25.5 | Hebrew <he@li.org> | 
- | [webkitgtk]({{< ref "/f20/package/webkitgtk.md" >}}) | 671 | 2631 | 25.5 | Hebrew <he@li.org> | 
- | [webkitgtk3]({{< ref "/f20/package/webkitgtk3.md" >}}) | 671 | 2631 | 25.5 | Hebrew <he@li.org> | 
- | [libuser]({{< ref "/f20/package/libuser.md" >}}) | 355 | 1479 | 24.0 | Hebrew (http://www.transifex.com/projects/p/fedora/language/he/) | 
- | [orage]({{< ref "/f20/package/orage.md" >}}) | 612 | 2601 | 23.5 | Hebrew (http://www.transifex.com/projects/p/xfce/language/he/) | 
- | [NetworkManager-ssh]({{< ref "/f20/package/NetworkManager-ssh.md" >}}) | 64 | 286 | 22.4 | Hebrew <malkodan@gmail.com> | 
- | [kf5-kglobalaccel]({{< ref "/f20/package/kf5-kglobalaccel.md" >}}) | 19 | 85 | 22.4 | Hebrew <kde-i18n-doc@kde.org> | 
- | [quodlibet]({{< ref "/f20/package/quodlibet.md" >}}) | 1087 | 5059 | 21.5 | Hebrew | 
- | [system-config-date]({{< ref "/f20/package/system-config-date.md" >}}) | 394 | 1850 | 21.3 | Hebrew (http://www.transifex.com/projects/p/fedora/language/he/) | 
- | [lifeograph]({{< ref "/f20/package/lifeograph.md" >}}) | 219 | 1029 | 21.3 | Hebrew <he@li.org> | 
- | [kBuild]({{< ref "/f20/package/kBuild.md" >}}) | 106 | 505 | 21.0 | Hebrew <eliz@gnu.org> | 
- | [sugar-physics]({{< ref "/f20/package/sugar-physics.md" >}}) | 10 | 48 | 20.8 | LANGUAGE <LL@li.org> | 
- | [avogadro]({{< ref "/f20/package/avogadro.md" >}}) | 874 | 4262 | 20.5 | Hebrew <he@li.org> | 
- | [enlightenment]({{< ref "/f20/package/enlightenment.md" >}}) | 1683 | 8431 | 20.0 | Hebrew <he@li.org> | 
- | [xfwm4]({{< ref "/f20/package/xfwm4.md" >}}) | 157 | 864 | 18.2 | Hebrew | 
- | [terminator]({{< ref "/f20/package/terminator.md" >}}) | 131 | 726 | 18.0 | Hebrew <he@li.org> | 
- | [diffutils]({{< ref "/f20/package/diffutils.md" >}}) | 324 | 1800 | 18.0 | Hebrew <eliz@gnu.org> | 
- | [sugar-toolkit-gtk3]({{< ref "/f20/package/sugar-toolkit-gtk3.md" >}}) | 13 | 76 | 17.1 | LANGUAGE <LL@li.org> | 
- | [xfburn]({{< ref "/f20/package/xfburn.md" >}}) | 222 | 1300 | 17.1 | Hebrew | 
- | [gdesklets]({{< ref "/f20/package/gdesklets.md" >}}) | 252 | 1528 | 16.5 | Hebrew <he@li.org> | 
- | [gnubik]({{< ref "/f20/package/gnubik.md" >}}) | 45 | 278 | 16.2 | Hebrew <he@li.org> | 
- | [grisbi]({{< ref "/f20/package/grisbi.md" >}}) | 1921 | 12335 | 15.6 | <en@li.org> | 
- | [rt3]({{< ref "/f20/package/rt3.md" >}}) | 1133 | 7960 | 14.2 | rt-devel <rt-devel@lists.bestpractical.com> | 
- | [gnumeric]({{< ref "/f20/package/gnumeric.md" >}}) | 4922 | 35046 | 14.0 | Hebrew <he@li.org> | 
- | [gnucash]({{< ref "/f20/package/gnucash.md" >}}) | 4163 | 29806 | 14.0 | Hebrew | 
- | [gftp]({{< ref "/f20/package/gftp.md" >}}) | 469 | 3375 | 13.9 | Hebrew <he@li.org> | 
- | [gimp]({{< ref "/f20/package/gimp.md" >}}) | 3703 | 27560 | 13.4 | Hebrew <he@li.org> | 
- | [openerp7]({{< ref "/f20/package/openerp7.md" >}}) | 5763 | 43105 | 13.4 | Hebrew <he@li.org> | 
- | [dnf]({{< ref "/f20/package/dnf.md" >}}) | 234 | 1760 | 13.3 | Hebrew (http://www.transifex.com/projects/p/dnf/language/he/) | 
- | [elementary]({{< ref "/f20/package/elementary.md" >}}) | 7 | 53 | 13.2 | General | 
- | [manaplus]({{< ref "/f20/package/manaplus.md" >}}) | 578 | 4384 | 13.2 | Hebrew (http://www.transifex.com/projects/p/manaplus/language/he/) | 
- | [libxfce4ui]({{< ref "/f20/package/libxfce4ui.md" >}}) | 19 | 149 | 12.8 | Hebrew <xfce-i18n@xfce.org> | 
- | [qbzr]({{< ref "/f20/package/qbzr.md" >}}) | 232 | 1865 | 12.4 | Hebrew <he@li.org> | 
- | [xfce4-appfinder]({{< ref "/f20/package/xfce4-appfinder.md" >}}) | 23 | 186 | 12.4 | Hebrew | 
- | [gnomebaker]({{< ref "/f20/package/gnomebaker.md" >}}) | 145 | 1179 | 12.3 | Hebrew <he@li.org> | 
- | [stellarium]({{< ref "/f20/package/stellarium.md" >}}) | 1375 | 11181 | 12.3 | Hebrew <he@li.org> | 
- | [rabbitvcs]({{< ref "/f20/package/rabbitvcs.md" >}}) | 179 | 1524 | 11.7 | Hebrew <he@li.org> | 
- | [cairo-dock-plug-ins]({{< ref "/f20/package/cairo-dock-plug-ins.md" >}}) | 1169 | 10203 | 11.5 | Hebrew <he@li.org> | 
- | [publican]({{< ref "/f20/package/publican.md" >}}) | 617 | 5487 | 11.2 | Hebrew Team <fedora-he-list@redhat.com> | 
- | [wget]({{< ref "/f20/package/wget.md" >}}) | 350 | 3131 | 11.2 | Hebrew <eliz@gnu.org> | 
- | [gtg]({{< ref "/f20/package/gtg.md" >}}) | 386 | 3497 | 11.0 | Hebrew <he@li.org> | 
- | [sed]({{< ref "/f20/package/sed.md" >}}) | 58 | 548 | 10.6 | Hebrew <eliz@gnu.org> | 
- | [sugar]({{< ref "/f20/package/sugar.md" >}}) | 183 | 1733 | 10.6 | LANGUAGE <LL@li.org> | 
- | [sugar-toolkit]({{< ref "/f20/package/sugar-toolkit.md" >}}) | 7 | 73 | 9.6 | LANGUAGE <LL@li.org> | 
- | [kf5-kactivities]({{< ref "/f20/package/kf5-kactivities.md" >}}) | 8 | 85 | 9.4 | Hebrew <kde-i18n-doc@kde.org> | 
- | [colord]({{< ref "/f20/package/colord.md" >}}) | 162 | 1850 | 8.8 | Hebrew (http://www.transifex.com/projects/p/colord/language/he/) | 
- | [aria2]({{< ref "/f20/package/aria2.md" >}}) | 500 | 6428 | 7.8 | Hebrew <he@li.org> | 
- | [iso-codes]({{< ref "/f20/package/iso-codes.md" >}}) | 1214 | 16121 | 7.5 | Hebrew | 
- | [kpilot]({{< ref "/f20/package/kpilot.md" >}}) | 521 | 7156 | 7.3 | Hebrew <kde-il@yahoogroups.com> | 
- | [openerp]({{< ref "/f20/package/openerp.md" >}}) | 2401 | 34153 | 7.0 | Hebrew <he@li.org> | 
- | [sugar-paint]({{< ref "/f20/package/sugar-paint.md" >}}) | 6 | 88 | 6.8 | LANGUAGE <LL@li.org> | 
- | [sugar-calculator]({{< ref "/f20/package/sugar-calculator.md" >}}) | 58 | 871 | 6.7 | LANGUAGE <LL@li.org> | 
- | [geda-gaf]({{< ref "/f20/package/geda-gaf.md" >}}) | 127 | 2045 | 6.2 | gEDA developers <geda-dev@seul.org> | 
- | [anaconda]({{< ref "/f20/package/anaconda.md" >}}) | 317 | 5160 | 6.1 | Hebrew (http://www.transifex.com/projects/p/fedora/language/he/) | 
- | [abrt]({{< ref "/f20/package/abrt.md" >}}) | 162 | 2722 | 6.0 | Hebrew (http://www.transifex.com/projects/p/fedora/language/he/) | 
- | [pootle]({{< ref "/f20/package/pootle.md" >}}) | 142 | 2424 | 5.9 | LANGUAGE <LL@li.org> | 
- | [pulseaudio]({{< ref "/f20/package/pulseaudio.md" >}}) | 190 | 3303 | 5.8 | Hebrew <fedora-he-list@redhat.com> | 
- | [shadow-utils]({{< ref "/f20/package/shadow-utils.md" >}}) | 197 | 3743 | 5.3 | Hebrew <en@li.org> | 
- | [wesnoth]({{< ref "/f20/package/wesnoth.md" >}}) | 13368 | 255926 | 5.2 | American English <kde-i18n-doc@kde.org> | 
- | [redshift]({{< ref "/f20/package/redshift.md" >}}) | 52 | 1001 | 5.2 | Hebrew <he@li.org> | 
- | [spacefm]({{< ref "/f20/package/spacefm.md" >}}) | 453 | 8727 | 5.2 | Hebrew (http://www.transifex.com/projects/p/spacefm/language/he/) | 
- | [calibre]({{< ref "/f20/package/calibre.md" >}}) | 6629 | 129225 | 5.1 | Hebrew <kde-il@yahoogroups.com> | 
- | [sugar-log]({{< ref "/f20/package/sugar-log.md" >}}) | 5 | 98 | 5.1 | LANGUAGE <LL@li.org> | 
- | [freeciv]({{< ref "/f20/package/freeciv.md" >}}) | 4185 | 85592 | 4.9 | Hebrew <kde-il@yahoogroups.com> | 
- | [pulsecaster]({{< ref "/f20/package/pulsecaster.md" >}}) | 7 | 147 | 4.8 | he <LL@li.org> | 
- | [openerp-client]({{< ref "/f20/package/openerp-client.md" >}}) | 367 | 7729 | 4.7 | Hebrew <he@li.org> | 
- | [libreport]({{< ref "/f20/package/libreport.md" >}}) | 141 | 3139 | 4.5 | Hebrew (http://www.transifex.com/projects/p/fedora/language/he/) | 
- | [grep]({{< ref "/f20/package/grep.md" >}}) | 43 | 972 | 4.4 | Hebrew <eliz@gnu.org> | 
- | [wammu]({{< ref "/f20/package/wammu.md" >}}) | 225 | 5230 | 4.3 | Hebrew <http://hosted.weblate.org/projects/gammu/wammu-doc/he/> | 
- | [sugar-imageviewer]({{< ref "/f20/package/sugar-imageviewer.md" >}}) | 2 | 51 | 3.9 | LANGUAGE <LL@li.org> | 
- | [libpwquality]({{< ref "/f20/package/libpwquality.md" >}}) | 13 | 343 | 3.8 | LANGUAGE <LL@li.org> | 
- | [tracker]({{< ref "/f20/package/tracker.md" >}}) | 112 | 3147 | 3.6 | Gezer <sh.yaron@gmail.com> | 
- | [widelands]({{< ref "/f20/package/widelands.md" >}}) | 1013 | 29683 | 3.4 | Hebrew <he@li.org> | 
- | [bzr-explorer]({{< ref "/f20/package/bzr-explorer.md" >}}) | 56 | 1667 | 3.4 | Hebrew <he@li.org> | 
- | [sugar-abacus]({{< ref "/f20/package/sugar-abacus.md" >}}) | 1 | 34 | 2.9 | LANGUAGE <LL@li.org> | 
- | [goffice08]({{< ref "/f20/package/goffice08.md" >}}) | 134 | 4599 | 2.9 | Hebrew <he@li.org> | 
- | [kcoloredit]({{< ref "/f20/package/kcoloredit.md" >}}) | 8 | 278 | 2.9 | Hebrew <kde-il@yahoogroups.com> | 
- | [sugar-pippy]({{< ref "/f20/package/sugar-pippy.md" >}}) | 3 | 109 | 2.8 | LANGUAGE <LL@li.org> | 
- | [gnome-abrt]({{< ref "/f20/package/gnome-abrt.md" >}}) | 9 | 385 | 2.3 | Hebrew (http://www.transifex.com/projects/p/gnome-abrt/language/he/) | 
- | [pychess]({{< ref "/f20/package/pychess.md" >}}) | 71 | 3091 | 2.3 | Hebrew <he@li.org> | 
- | [setroubleshoot]({{< ref "/f20/package/setroubleshoot.md" >}}) | 14 | 656 | 2.1 | Hebrew (http://www.transifex.com/projects/p/fedora/language/he/) | 
- | [goffice]({{< ref "/f20/package/goffice.md" >}}) | 129 | 6201 | 2.1 | Hebrew <he@li.org> | 
- | [mingw-libvirt]({{< ref "/f20/package/mingw-libvirt.md" >}}) | 939 | 45272 | 2.1 | LANGUAGE <LL@li.org> | 
- | [libvirt]({{< ref "/f20/package/libvirt.md" >}}) | 939 | 45370 | 2.1 | LANGUAGE <LL@li.org> | 
- | [ailurus]({{< ref "/f20/package/ailurus.md" >}}) | 151 | 7586 | 2.0 | none | 
- | [NetworkManager-openconnect]({{< ref "/f20/package/NetworkManager-openconnect.md" >}}) | 54 | 2936 | 1.8 | Hebrew <sh.yaron@gmail.com> | 
- | [php-horde-Horde-Argv]({{< ref "/f20/package/php-horde-Horde-Argv.md" >}}) | 1 | 60 | 1.7 | i18n@lists.horde.org | 
- | [duplicity]({{< ref "/f20/package/duplicity.md" >}}) | 54 | 3402 | 1.6 | Hebrew <he@li.org> | 
- | [kde-plasma-yawp]({{< ref "/f20/package/kde-plasma-yawp.md" >}}) | 54 | 4048 | 1.3 |  | 
- | [php-horde-Horde-Core]({{< ref "/f20/package/php-horde-Horde-Core.md" >}}) | 10 | 771 | 1.3 | i18n@lists.horde.org | 
- | [gammu]({{< ref "/f20/package/gammu.md" >}}) | 640 | 55475 | 1.2 | none | 
- | [php-horde-horde]({{< ref "/f20/package/php-horde-horde.md" >}}) | 23 | 3474 | 0.7 | i18n@lists.horde.org | 
- | [php-horde-Horde-Crypt]({{< ref "/f20/package/php-horde-Horde-Crypt.md" >}}) | 2 | 396 | 0.5 | i18n@lists.horde.org | 
- | [NetworkManager-l2tp]({{< ref "/f20/package/NetworkManager-l2tp.md" >}}) | 3 | 753 | 0.4 | he | 
- | [php-horde-Horde-Image]({{< ref "/f20/package/php-horde-Horde-Image.md" >}}) | 2 | 581 | 0.3 | i18n@lists.horde.org | 
- | [xfconf]({{< ref "/f20/package/xfconf.md" >}}) | 1 | 451 | 0.2 | Hebrew <xfce-i18n@xfce.org> | 
- | [php-horde-Horde-Form]({{< ref "/f20/package/php-horde-Horde-Form.md" >}}) | 1 | 553 | 0.2 | i18n@lists.horde.org | 
- | [ibus]({{< ref "/f20/package/ibus.md" >}}) | 1 | 844 | 0.1 | Hebrew <trans-he@lists.fedoraproject.org> | 
- | [tortoisehg]({{< ref "/f20/package/tortoisehg.md" >}}) | 9 | 11954 | 0.1 | Hebrew <he@li.org> | 
- | [viking]({{< ref "/f20/package/viking.md" >}}) | 1 | 4135 | 0.0 | Hebrew <he@li.org> | 
- | [accountsservice]({{< ref "/f20/package/accountsservice.md" >}}) | 0 | 59 | 0.0 | Hebrew (http://www.transifex.com/projects/p/freedesktop/language/he/) | 
- | [authconfig]({{< ref "/f20/package/authconfig.md" >}}) | 0 | 1638 | 0.0 | Hebrew <he-users@lists.fedoraproject.org> | 
- | [blueman]({{< ref "/f20/package/blueman.md" >}}) | 0 | 1446 | 0.0 | Hebrew (http://www.transifex.com/projects/p/MATE/language/he/) | 
- | [bzr]({{< ref "/f20/package/bzr.md" >}}) | 0 | 33099 | 0.0 | Hebrew <he@li.org> | 
- | [certmonger]({{< ref "/f20/package/certmonger.md" >}}) | 0 | 1669 | 0.0 | Hebrew (http://www.transifex.com/projects/p/certmonger/language/he/) | 
- | [chkconfig]({{< ref "/f20/package/chkconfig.md" >}}) | 0 | 513 | 0.0 | Hebrew <he-users@lists.fedoraproject.org> | 
- | [entangle]({{< ref "/f20/package/entangle.md" >}}) | 0 | 916 | 0.0 | Hebrew (http://www.transifex.com/projects/p/entangle/language/he/) | 
- | [fonts-tweak-tool]({{< ref "/f20/package/fonts-tweak-tool.md" >}}) | 0 | 164 | 0.0 | Hebrew | 
- | [fprintd]({{< ref "/f20/package/fprintd.md" >}}) | 0 | 419 | 0.0 | Hebrew (http://www.transifex.com/projects/p/freedesktop/language/he/) | 
- | [girara]({{< ref "/f20/package/girara.md" >}}) | 0 | 229 | 0.0 | Hebrew (http://www.transifex.com/projects/p/girara/language/he/) | 
- | [gnome-activity-journal]({{< ref "/f20/package/gnome-activity-journal.md" >}}) | 0 | 316 | 0.0 | Hebrew <he@li.org> | 
- | [googsystray]({{< ref "/f20/package/googsystray.md" >}}) | 0 | 759 | 0.0 | Hebrew | 
- | [im-chooser]({{< ref "/f20/package/im-chooser.md" >}}) | 0 | 237 | 0.0 | LANGUAGE <LL@li.org> | 
- | [imsettings]({{< ref "/f20/package/imsettings.md" >}}) | 0 | 440 | 0.0 | LANGUAGE <LL@li.org> | 
- | [initial-setup]({{< ref "/f20/package/initial-setup.md" >}}) | 0 | 29 | 0.0 | Hebrew (http://www.transifex.com/projects/p/fedora/language/he/) | 
- | [initscripts]({{< ref "/f20/package/initscripts.md" >}}) | 0 | 1003 | 0.0 | Hebrew <he-users@lists.fedoraproject.org> | 
- | [kexec-tools]({{< ref "/f20/package/kexec-tools.md" >}}) | 0 | 148 | 0.0 | LANGUAGE <LL@li.org> | 
- | [kf5-kauth]({{< ref "/f20/package/kf5-kauth.md" >}}) | 0 | 58 | 0.0 | Hebrew <kde-i18n-doc@kde.org> | 
- | [kf5-kbookmarks]({{< ref "/f20/package/kf5-kbookmarks.md" >}}) | 0 | 218 | 0.0 | Hebrew <kde-i18n-doc@kde.org> | 
- | [kf5-kcodecs]({{< ref "/f20/package/kf5-kcodecs.md" >}}) | 0 | 348 | 0.0 | Hebrew <kde-i18n-doc@kde.org> | 
- | [kf5-kcompletion]({{< ref "/f20/package/kf5-kcompletion.md" >}}) | 0 | 20 | 0.0 | Hebrew <kde-i18n-doc@kde.org> | 
- | [kf5-kconfig]({{< ref "/f20/package/kf5-kconfig.md" >}}) | 0 | 233 | 0.0 | Hebrew <kde-i18n-doc@kde.org> | 
- | [kf5-kcoreaddons]({{< ref "/f20/package/kf5-kcoreaddons.md" >}}) | 0 | 252 | 0.0 | Hebrew <kde-i18n-doc@kde.org> | 
- | [kf5-kdesignerplugin]({{< ref "/f20/package/kf5-kdesignerplugin.md" >}}) | 0 | 54 | 0.0 | Hebrew <kde-i18n-doc@kde.org> | 
- | [kf5-kdnssd]({{< ref "/f20/package/kf5-kdnssd.md" >}}) | 0 | 3 | 0.0 | Hebrew <kde-i18n-doc@kde.org> | 
- | [kf5-kitemviews]({{< ref "/f20/package/kf5-kitemviews.md" >}}) | 0 | 7 | 0.0 | Hebrew <kde-i18n-doc@kde.org> | 
- | [kf5-kjobwidgets]({{< ref "/f20/package/kf5-kjobwidgets.md" >}}) | 0 | 141 | 0.0 | Hebrew <kde-i18n-doc@kde.org> | 
- | [kf5-knotifications]({{< ref "/f20/package/kf5-knotifications.md" >}}) | 0 | 18 | 0.0 | Hebrew <kde-i18n-doc@kde.org> | 
- | [kf5-kwidgetsaddons]({{< ref "/f20/package/kf5-kwidgetsaddons.md" >}}) | 0 | 1260 | 0.0 | Hebrew <kde-i18n-doc@kde.org> | 
- | [kf5-kwindowsystem]({{< ref "/f20/package/kf5-kwindowsystem.md" >}}) | 0 | 2 | 0.0 | Hebrew <kde-i18n-doc@kde.org> | 
- | [kf5-solid]({{< ref "/f20/package/kf5-solid.md" >}}) | 0 | 677 | 0.0 | Hebrew <kde-i18n-doc@kde.org> | 
- | [kf5-sonnet]({{< ref "/f20/package/kf5-sonnet.md" >}}) | 0 | 659 | 0.0 | Hebrew <kde-i18n-doc@kde.org> | 
- | [ldm]({{< ref "/f20/package/ldm.md" >}}) | 0 | 55 | 0.0 | Hebrew <he@li.org> | 
- | [libgxim]({{< ref "/f20/package/libgxim.md" >}}) | 0 | 124 | 0.0 | LANGUAGE <LL@li.org> | 
- | [libvirt-sandbox]({{< ref "/f20/package/libvirt-sandbox.md" >}}) | 0 | 583 | 0.0 | Hebrew <he-users@lists.fedoraproject.org> | 
- | [mingw-p11-kit]({{< ref "/f20/package/mingw-p11-kit.md" >}}) | 0 | 476 | 0.0 | Hebrew (http://www.transifex.com/projects/p/freedesktop/language/he/) | 
- | [openstack-sahara]({{< ref "/f20/package/openstack-sahara.md" >}}) | 0 | 373 | 0.0 | Hebrew (http://www.transifex.com/projects/p/openstack/language/he/) | 
- | [p11-kit]({{< ref "/f20/package/p11-kit.md" >}}) | 0 | 476 | 0.0 | Hebrew (http://www.transifex.com/projects/p/freedesktop/language/he/) | 
- | [passwd]({{< ref "/f20/package/passwd.md" >}}) | 0 | 315 | 0.0 | Hebrew <he-users@lists.fedoraproject.org> | 
- | [php-horde-Horde-Alarm]({{< ref "/f20/package/php-horde-Horde-Alarm.md" >}}) | 0 | 13 | 0.0 | i18n@lists.horde.org | 
- | [php-horde-Horde-Browser]({{< ref "/f20/package/php-horde-Horde-Browser.md" >}}) | 0 | 66 | 0.0 | i18n@lists.horde.org | 
- | [php-horde-Horde-Cli]({{< ref "/f20/package/php-horde-Horde-Cli.md" >}}) | 0 | 11 | 0.0 | i18n@lists.horde.org | 
- | [php-horde-Horde-Compress]({{< ref "/f20/package/php-horde-Horde-Compress.md" >}}) | 0 | 25 | 0.0 | i18n@lists.horde.org | 
- | [php-horde-Horde-Data]({{< ref "/f20/package/php-horde-Horde-Data.md" >}}) | 0 | 7 | 0.0 | i18n@lists.horde.org | 
- | [php-horde-Horde-Date]({{< ref "/f20/package/php-horde-Horde-Date.md" >}}) | 0 | 36 | 0.0 | i18n@lists.horde.org | 
- | [php-horde-Horde-Exception]({{< ref "/f20/package/php-horde-Horde-Exception.md" >}}) | 0 | 4 | 0.0 | i18n@lists.horde.org | 
- | [php-horde-Horde-Icalendar]({{< ref "/f20/package/php-horde-Horde-Icalendar.md" >}}) | 0 | 3 | 0.0 | i18n@lists.horde.org | 
- | [php-horde-Horde-Imsp]({{< ref "/f20/package/php-horde-Horde-Imsp.md" >}}) | 0 | 14 | 0.0 | i18n@lists.horde.org | 
- | [php-horde-Horde-Itip]({{< ref "/f20/package/php-horde-Horde-Itip.md" >}}) | 0 | 56 | 0.0 | i18n@lists.horde.org | 
- | [php-horde-Horde-Kolab-Storage]({{< ref "/f20/package/php-horde-Horde-Kolab-Storage.md" >}}) | 0 | 120 | 0.0 | i18n@lists.horde.org | 
- | [php-horde-Horde-LoginTasks]({{< ref "/f20/package/php-horde-Horde-LoginTasks.md" >}}) | 0 | 6 | 0.0 | i18n@lists.horde.org | 
- | [php-horde-Horde-Mime]({{< ref "/f20/package/php-horde-Horde-Mime.md" >}}) | 0 | 48 | 0.0 | i18n@lists.horde.org | 
- | [php-horde-Horde-Mime-Viewer]({{< ref "/f20/package/php-horde-Horde-Mime-Viewer.md" >}}) | 0 | 0 | 0.0 | i18n@lists.horde.org | 
- | [php-horde-Horde-Perms]({{< ref "/f20/package/php-horde-Horde-Perms.md" >}}) | 0 | 6 | 0.0 | i18n@lists.horde.org | 
- | [php-horde-Horde-Prefs]({{< ref "/f20/package/php-horde-Horde-Prefs.md" >}}) | 0 | 32 | 0.0 | i18n@lists.horde.org | 
- | [php-horde-Horde-Rpc]({{< ref "/f20/package/php-horde-Horde-Rpc.md" >}}) | 0 | 48 | 0.0 | i18n@lists.horde.org | 
- | [php-horde-Horde-Share]({{< ref "/f20/package/php-horde-Horde-Share.md" >}}) | 0 | 48 | 0.0 | i18n@lists.horde.org | 
- | [php-horde-Horde-SyncMl]({{< ref "/f20/package/php-horde-Horde-SyncMl.md" >}}) | 0 | 3 | 0.0 | i18n@lists.horde.org | 
- | [php-horde-Horde-Text-Filter]({{< ref "/f20/package/php-horde-Horde-Text-Filter.md" >}}) | 0 | 1 | 0.0 | i18n@lists.horde.org | 
- | [php-horde-Horde-Token]({{< ref "/f20/package/php-horde-Horde-Token.md" >}}) | 0 | 35 | 0.0 | i18n@lists.horde.org | 
- | [php-horde-Horde-Vfs]({{< ref "/f20/package/php-horde-Horde-Vfs.md" >}}) | 0 | 10 | 0.0 | i18n@lists.horde.org | 
- | [policycoreutils]({{< ref "/f20/package/policycoreutils.md" >}}) | 0 | 7678 | 0.0 | Hebrew <he-users@lists.fedoraproject.org> | 
- | [python-meh]({{< ref "/f20/package/python-meh.md" >}}) | 0 | 109 | 0.0 | Hebrew <he-users@lists.fedoraproject.org> | 
- | [retrace-server]({{< ref "/f20/package/retrace-server.md" >}}) | 0 | 381 | 0.0 | Hebrew | 
- | [rhn-client-tools]({{< ref "/f20/package/rhn-client-tools.md" >}}) | 0 | 4194 | 0.0 | Hebrew <he-users@lists.fedoraproject.org> | 
- | [rhnsd]({{< ref "/f20/package/rhnsd.md" >}}) | 0 | 37 | 0.0 | Hebrew <he-users@lists.fedoraproject.org> | 
- | [setroubleshoot-plugins]({{< ref "/f20/package/setroubleshoot-plugins.md" >}}) | 0 | 9830 | 0.0 | Hebrew (http://www.transifex.com/projects/p/fedora/language/he/) | 
- | [sos]({{< ref "/f20/package/sos.md" >}}) | 0 | 267 | 0.0 | none | 
- | [spacewalk-backend]({{< ref "/f20/package/spacewalk-backend.md" >}}) | 0 | 1895 | 0.0 | Hebrew <he-users@lists.fedoraproject.org> | 
- | [sugar-browse]({{< ref "/f20/package/sugar-browse.md" >}}) | 0 | 189 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-calendario]({{< ref "/f20/package/sugar-calendario.md" >}}) | 0 | 43 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-clock]({{< ref "/f20/package/sugar-clock.md" >}}) | 0 | 59 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-deducto]({{< ref "/f20/package/sugar-deducto.md" >}}) | 0 | 109 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-finance]({{< ref "/f20/package/sugar-finance.md" >}}) | 0 | 143 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-fototoon]({{< ref "/f20/package/sugar-fototoon.md" >}}) | 0 | 77 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-fractionbounce]({{< ref "/f20/package/sugar-fractionbounce.md" >}}) | 0 | 68 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-getiabooks]({{< ref "/f20/package/sugar-getiabooks.md" >}}) | 0 | 81 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-implode]({{< ref "/f20/package/sugar-implode.md" >}}) | 0 | 78 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-infoslicer]({{< ref "/f20/package/sugar-infoslicer.md" >}}) | 0 | 236 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-jukebox]({{< ref "/f20/package/sugar-jukebox.md" >}}) | 0 | 65 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-labyrinth]({{< ref "/f20/package/sugar-labyrinth.md" >}}) | 0 | 281 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-memorize]({{< ref "/f20/package/sugar-memorize.md" >}}) | 0 | 142 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-moon]({{< ref "/f20/package/sugar-moon.md" >}}) | 0 | 117 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-read]({{< ref "/f20/package/sugar-read.md" >}}) | 0 | 114 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-ruler]({{< ref "/f20/package/sugar-ruler.md" >}}) | 0 | 15 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-speak]({{< ref "/f20/package/sugar-speak.md" >}}) | 0 | 217 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-terminal]({{< ref "/f20/package/sugar-terminal.md" >}}) | 0 | 17 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-typing-turtle]({{< ref "/f20/package/sugar-typing-turtle.md" >}}) | 0 | 575 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-view-slides]({{< ref "/f20/package/sugar-view-slides.md" >}}) | 0 | 7 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-write]({{< ref "/f20/package/sugar-write.md" >}}) | 0 | 121 | 0.0 | LANGUAGE <LL@li.org> | 
- | [supertux]({{< ref "/f20/package/supertux.md" >}}) | 0 | 1630 | 0.0 | Hebrew (http://www.transifex.com/projects/p/supertux/language/he/) | 
- | [system-config-bind]({{< ref "/f20/package/system-config-bind.md" >}}) | 0 | 9419 | 0.0 | none | 
- | [system-config-date-docs]({{< ref "/f20/package/system-config-date-docs.md" >}}) | 0 | 761 | 0.0 | none | 
- | [system-config-httpd]({{< ref "/f20/package/system-config-httpd.md" >}}) | 0 | 858 | 0.0 | none | 
- | [system-config-kdump]({{< ref "/f20/package/system-config-kdump.md" >}}) | 0 | 877 | 0.0 | LANGUAGE <LL@li.org> | 
- | [system-config-network]({{< ref "/f20/package/system-config-network.md" >}}) | 0 | 3032 | 0.0 | none | 
- | [system-config-nfs-docs]({{< ref "/f20/package/system-config-nfs-docs.md" >}}) | 0 | 1192 | 0.0 | LANGUAGE <LL@li.org> | 
- | [system-config-samba-docs]({{< ref "/f20/package/system-config-samba-docs.md" >}}) | 0 | 1195 | 0.0 | LANGUAGE <LL@li.org> | 
- | [system-config-users-docs]({{< ref "/f20/package/system-config-users-docs.md" >}}) | 0 | 1061 | 0.0 | LANGUAGE <LL@li.org> | 
- | [udisks2]({{< ref "/f20/package/udisks2.md" >}}) | 0 | 1485 | 0.0 | Hebrew (http://www.transifex.com/projects/p/freedesktop/language/he/) | 
- | [virt-viewer]({{< ref "/f20/package/virt-viewer.md" >}}) | 0 | 615 | 0.0 | Hebrew (http://www.transifex.com/projects/p/fedora/language/he/) | 
- | [yum-rhn-plugin]({{< ref "/f20/package/yum-rhn-plugin.md" >}}) | 0 | 146 | 0.0 | Hebrew <he-users@lists.fedoraproject.org> | 
- | [zathura]({{< ref "/f20/package/zathura.md" >}}) | 0 | 540 | 0.0 | Hebrew (http://www.transifex.com/projects/p/zathura/language/he/) | 
- | [zif]({{< ref "/f20/package/zif.md" >}}) | 0 | 859 | 0.0 | Hebrew (http://www.transifex.net/projects/p/freedesktop/team/he/) | 
+ | [DivFix++](/f20/package/DivFix++) | 551 | 551 | 100.0 | Ariel Nemtzov <reldude84 gmail.com> | 
+ | [GConf2](/f20/package/GConf2) | 4088 | 4088 | 100.0 | he | 
+ | [NetworkManager](/f20/package/NetworkManager) | 66 | 66 | 100.0 | he | 
+ | [NetworkManager-openvpn](/f20/package/NetworkManager-openvpn) | 101 | 101 | 100.0 | Hebrew <sh.yaron@gmail.com> | 
+ | [NetworkManager-pptp](/f20/package/NetworkManager-pptp) | 144 | 144 | 100.0 | he | 
+ | [NetworkManager-vpnc](/f20/package/NetworkManager-vpnc) | 156 | 156 | 100.0 | Hebrew <sh.yaron@gmail.com> | 
+ | [accerciser](/f20/package/accerciser) | 599 | 599 | 100.0 | Hebrew <he@li.org> | 
+ | [alacarte](/f20/package/alacarte) | 31 | 31 | 100.0 | he <he@bla.bla> | 
+ | [askbot](/f20/package/askbot) | 49 | 49 | 100.0 | <en@li.org> | 
+ | [at-spi](/f20/package/at-spi) | 61 | 61 | 100.0 | Hebrew <he@li.org> | 
+ | [at-spi2-core](/f20/package/at-spi2-core) | 122 | 122 | 100.0 | Gezer (Hebrew) | 
+ | [atk](/f20/package/atk) | 398 | 398 | 100.0 | Hebrew <he@li.org> | 
+ | [atomix](/f20/package/atomix) | 125 | 125 | 100.0 | Hebrew <he@li.org> | 
+ | [banshee](/f20/package/banshee) | 5792 | 5792 | 100.0 | Gezer (Hebrew) | 
+ | [baobab](/f20/package/baobab) | 210 | 210 | 100.0 | עברית <> | 
+ | [bijiben](/f20/package/bijiben) | 200 | 200 | 100.0 | עברית <> | 
+ | [bleachbit](/f20/package/bleachbit) | 1046 | 1046 | 100.0 | Hebrew <he@li.org> | 
+ | [brasero](/f20/package/brasero) | 5532 | 5532 | 100.0 | Hebrew <> | 
+ | [caribou](/f20/package/caribou) | 200 | 200 | 100.0 | Gezer <sh.yaron@gmail.com> | 
+ | [ccsm](/f20/package/ccsm) | 549 | 549 | 100.0 | Yotam Benshalom <benshalom@gmail.com> | 
+ | [cheese](/f20/package/cheese) | 555 | 555 | 100.0 | he | 
+ | [cinnamon-desktop](/f20/package/cinnamon-desktop) | 231 | 231 | 100.0 | Hebrew <he@li.org> | 
+ | [cinnamon-settings-daemon](/f20/package/cinnamon-settings-daemon) | 3740 | 3740 | 100.0 | Hebrew <kde-il@yahoogroups.com> | 
+ | [clamtk](/f20/package/clamtk) | 464 | 464 | 100.0 | Hebrew <he@li.org> | 
+ | [clutter](/f20/package/clutter) | 3008 | 3008 | 100.0 | עברית <> | 
+ | [cogl](/f20/package/cogl) | 393 | 393 | 100.0 | Hebrew <sh.yaron@gmail.com> | 
+ | [compat-gtkhtml314](/f20/package/compat-gtkhtml314) | 485 | 485 | 100.0 | Hebrew <he@li.org> | 
+ | [compiz](/f20/package/compiz) | 3250 | 3250 | 100.0 | Hebrew <i18n@suse.de> | 
+ | [console-setup](/f20/package/console-setup) | 979 | 979 | 100.0 | Hebrew <debian-hebrew-common@lists.alioth.debian.org> | 
+ | [dconf](/f20/package/dconf) | 191 | 191 | 100.0 | Hebrew <sh.yaron@gmail.com> | 
+ | [devhelp](/f20/package/devhelp) | 405 | 405 | 100.0 | Hebrew <he@li.org> | 
+ | [drwright](/f20/package/drwright) | 118 | 118 | 100.0 | Gezer (Hebrew) <gezer@lists.launchpad.net> | 
+ | [ekiga](/f20/package/ekiga) | 4434 | 4434 | 100.0 | Hebrew | 
+ | [emerald](/f20/package/emerald) | 774 | 774 | 100.0 | Yotam Benshalom <benshalom@gmail.com> | 
+ | [empathy](/f20/package/empathy) | 4305 | 4305 | 100.0 |  | 
+ | [eog](/f20/package/eog) | 1667 | 1667 | 100.0 | Hebrew <he@li.org> | 
+ | [eog-plugins](/f20/package/eog-plugins) | 348 | 348 | 100.0 | עברית <> | 
+ | [epiphany](/f20/package/epiphany) | 2494 | 2494 | 100.0 | עברית <> | 
+ | [evince](/f20/package/evince) | 1589 | 1589 | 100.0 | עברית <> | 
+ | [evolution-mapi](/f20/package/evolution-mapi) | 520 | 520 | 100.0 | he | 
+ | [file-roller](/f20/package/file-roller) | 1325 | 1325 | 100.0 | Hebrew <he@li.org> | 
+ | [filezilla](/f20/package/filezilla) | 9399 | 9399 | 100.0 | גזר | 
+ | [five-or-more](/f20/package/five-or-more) | 462 | 462 | 100.0 | Gezer (Hebrew) | 
+ | [four-in-a-row](/f20/package/four-in-a-row) | 427 | 427 | 100.0 | Gezer (Hebrew) | 
+ | [fslint](/f20/package/fslint) | 388 | 388 | 100.0 | Hebrew <he@li.org> | 
+ | [garcon](/f20/package/garcon) | 95 | 95 | 100.0 | Hebrew <xfce-i18n@xfce.org> | 
+ | [gcompris](/f20/package/gcompris) | 11881 | 11881 | 100.0 | Hebrew | 
+ | [gconf-editor](/f20/package/gconf-editor) | 336 | 336 | 100.0 | Hebrew <he@li.org> | 
+ | [gcr](/f20/package/gcr) | 670 | 670 | 100.0 | Hebrew <sh.yaron@gmail.com> | 
+ | [gdk-pixbuf2](/f20/package/gdk-pixbuf2) | 1360 | 1360 | 100.0 | Hebrew <he@li.org> | 
+ | [gdm](/f20/package/gdm) | 716 | 716 | 100.0 | Hebrew <he@li.org> | 
+ | [geany](/f20/package/geany) | 5714 | 5714 | 100.0 | עברית <> | 
+ | [geary](/f20/package/geary) | 1428 | 1428 | 100.0 | עברית <> | 
+ | [gedit](/f20/package/gedit) | 4276 | 4276 | 100.0 | Hebrew <he@li.org> | 
+ | [gedit-collaboration](/f20/package/gedit-collaboration) | 119 | 119 | 100.0 | Gezer (Hebrew) <gezer@lists.launchpad.net> | 
+ | [gedit-plugins](/f20/package/gedit-plugins) | 1673 | 1673 | 100.0 | Hebrew <he@li.org> | 
+ | [ggz-gtk-client](/f20/package/ggz-gtk-client) | 9 | 9 | 100.0 | Hebrew <he@li.org> | 
+ | [gigolo](/f20/package/gigolo) | 521 | 521 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [glib-networking](/f20/package/glib-networking) | 161 | 161 | 100.0 | Hebrew <sh.yaron@gmail.com> | 
+ | [glib2](/f20/package/glib2) | 5445 | 5445 | 100.0 | Gezer (Hebrew) | 
+ | [gnome-backgrounds](/f20/package/gnome-backgrounds) | 24 | 24 | 100.0 | Hebrew <he@li.org> | 
+ | [gnome-bluetooth](/f20/package/gnome-bluetooth) | 310 | 310 | 100.0 | Gezer (Hebrew) | 
+ | [gnome-calculator](/f20/package/gnome-calculator) | 1078 | 1078 | 100.0 | Hebrew <he@li.org> | 
+ | [gnome-chess](/f20/package/gnome-chess) | 1177 | 1177 | 100.0 | Gezer (Hebrew) | 
+ | [gnome-desktop](/f20/package/gnome-desktop) | 438 | 438 | 100.0 | Hebrew <he@li.org> | 
+ | [gnome-desktop3](/f20/package/gnome-desktop3) | 146 | 146 | 100.0 | עברית <> | 
+ | [gnome-dictionary](/f20/package/gnome-dictionary) | 801 | 801 | 100.0 | Hebrew <he@li.org> | 
+ | [gnome-doc-utils](/f20/package/gnome-doc-utils) | 251 | 251 | 100.0 | Hebrew <he@li.org> | 
+ | [gnome-documents](/f20/package/gnome-documents) | 441 | 441 | 100.0 | עברית <> | 
+ | [gnome-font-viewer](/f20/package/gnome-font-viewer) | 47 | 47 | 100.0 | עברית <> | 
+ | [gnome-icon-theme](/f20/package/gnome-icon-theme) | 43 | 43 | 100.0 | Hebrew <he@li.org> | 
+ | [gnome-initial-setup](/f20/package/gnome-initial-setup) | 372 | 372 | 100.0 | עברית <> | 
+ | [gnome-keyring](/f20/package/gnome-keyring) | 553 | 553 | 100.0 | Hebrew <sh.yaron@gmail.com> | 
+ | [gnome-klotski](/f20/package/gnome-klotski) | 120 | 120 | 100.0 | Gezer (Hebrew) | 
+ | [gnome-mahjongg](/f20/package/gnome-mahjongg) | 170 | 170 | 100.0 | Gezer (Hebrew) | 
+ | [gnome-maps](/f20/package/gnome-maps) | 180 | 180 | 100.0 | עברית <> | 
+ | [gnome-media](/f20/package/gnome-media) | 1238 | 1238 | 100.0 | Hebrew <he@li.org> | 
+ | [gnome-menus](/f20/package/gnome-menus) | 70 | 70 | 100.0 | <he@li.org> | 
+ | [gnome-mime-data](/f20/package/gnome-mime-data) | 887 | 887 | 100.0 | Hebrew <he@li.org> | 
+ | [gnome-mines](/f20/package/gnome-mines) | 261 | 261 | 100.0 | Gezer (Hebrew) | 
+ | [gnome-nettool](/f20/package/gnome-nettool) | 664 | 664 | 100.0 | Hebrew <he@li.org> | 
+ | [gnome-nibbles](/f20/package/gnome-nibbles) | 526 | 526 | 100.0 | Gezer (Hebrew) | 
+ | [gnome-online-accounts](/f20/package/gnome-online-accounts) | 1173 | 1173 | 100.0 | עברית <> | 
+ | [gnome-packagekit](/f20/package/gnome-packagekit) | 5034 | 5034 | 100.0 |  | 
+ | [gnome-phone-manager](/f20/package/gnome-phone-manager) | 559 | 559 | 100.0 | Gezer (Hebrew) <gezer@lists.launchpad.net> | 
+ | [gnome-photos](/f20/package/gnome-photos) | 300 | 300 | 100.0 | עברית <> | 
+ | [gnome-power-manager](/f20/package/gnome-power-manager) | 433 | 433 | 100.0 | he <he@li.org> | 
+ | [gnome-robots](/f20/package/gnome-robots) | 823 | 823 | 100.0 | Gezer (Hebrew) | 
+ | [gnome-screensaver](/f20/package/gnome-screensaver) | 291 | 291 | 100.0 | Hebrew <he@li.org> | 
+ | [gnome-screenshot](/f20/package/gnome-screenshot) | 351 | 351 | 100.0 | Hebrew <he@li.org> | 
+ | [gnome-search-tool](/f20/package/gnome-search-tool) | 1249 | 1249 | 100.0 | Hebrew <he@li.org> | 
+ | [gnome-session](/f20/package/gnome-session) | 431 | 431 | 100.0 | עברית <> | 
+ | [gnome-settings-daemon](/f20/package/gnome-settings-daemon) | 3729 | 3729 | 100.0 | עברית <> | 
+ | [gnome-shell-extensions](/f20/package/gnome-shell-extensions) | 338 | 338 | 100.0 | עברית <> | 
+ | [gnome-subtitles](/f20/package/gnome-subtitles) | 1030 | 1030 | 100.0 |  | 
+ | [gnome-sudoku](/f20/package/gnome-sudoku) | 462 | 462 | 100.0 | Gezer (Hebrew) | 
+ | [gnome-system-log](/f20/package/gnome-system-log) | 436 | 436 | 100.0 | Hebrew <he@li.org> | 
+ | [gnome-system-monitor](/f20/package/gnome-system-monitor) | 1284 | 1284 | 100.0 | עברית <> | 
+ | [gnome-terminal](/f20/package/gnome-terminal) | 2307 | 2307 | 100.0 | עברית <> | 
+ | [gnome-tetravex](/f20/package/gnome-tetravex) | 117 | 117 | 100.0 | Gezer (Hebrew) | 
+ | [gnome-themes](/f20/package/gnome-themes) | 109 | 109 | 100.0 | Hebrew <he@li.org> | 
+ | [gnome-themes-standard](/f20/package/gnome-themes-standard) | 24 | 24 | 100.0 | Gezer (Hebrew) <sh.yaron@gmail.com> | 
+ | [gnome-tweak-tool](/f20/package/gnome-tweak-tool) | 341 | 341 | 100.0 | עברית <> | 
+ | [gnome-user-share](/f20/package/gnome-user-share) | 247 | 247 | 100.0 | he | 
+ | [gnome-vfs2](/f20/package/gnome-vfs2) | 1519 | 1519 | 100.0 | Hebrew <he@li.org> | 
+ | [gnome-video-effects](/f20/package/gnome-video-effects) | 256 | 256 | 100.0 | he | 
+ | [gnome-weather](/f20/package/gnome-weather) | 204 | 204 | 100.0 | Hebrew <sh.yaron@gmail.com> | 
+ | [gnome-web-photo](/f20/package/gnome-web-photo) | 168 | 168 | 100.0 | Gezer (Hebrew) | 
+ | [gnomeradio](/f20/package/gnomeradio) | 443 | 443 | 100.0 | Hebrew <he@li.org> | 
+ | [gnote](/f20/package/gnote) | 2333 | 2333 | 100.0 | Hebrew <he@li.org> | 
+ | [gpodder](/f20/package/gpodder) | 2360 | 2360 | 100.0 | Hebrew (http://www.transifex.net/projects/p/gpodder/team/he/) | 
+ | [grilo](/f20/package/grilo) | 187 | 187 | 100.0 | עברית <> | 
+ | [gsettings-desktop-schemas](/f20/package/gsettings-desktop-schemas) | 5363 | 5363 | 100.0 | עברית <> | 
+ | [gtk-vnc](/f20/package/gtk-vnc) | 8 | 8 | 100.0 | Hebrew <sh.yaron@gmail.com> | 
+ | [gtk2](/f20/package/gtk2) | 12429 | 12429 | 100.0 | Hebrew <he@li.org> | 
+ | [gtk2-engines](/f20/package/gtk2-engines) | 119 | 119 | 100.0 | he | 
+ | [gtk3](/f20/package/gtk3) | 13899 | 13899 | 100.0 | עברית <> | 
+ | [gtkhtml3](/f20/package/gtkhtml3) | 488 | 488 | 100.0 | Hebrew <he@li.org> | 
+ | [gtksourceview2](/f20/package/gtksourceview2) | 1426 | 1426 | 100.0 | Hebrew <he@li.org> | 
+ | [gtksourceview3](/f20/package/gtksourceview3) | 1688 | 1688 | 100.0 | עברית <> | 
+ | [gtkspell3](/f20/package/gtkspell3) | 16 | 16 | 100.0 | Hebrew <eliz@gnu.org> | 
+ | [gtranslator](/f20/package/gtranslator) | 1672 | 1672 | 100.0 | Gezer (Hebrew) | 
+ | [gvfs](/f20/package/gvfs) | 2648 | 2648 | 100.0 | Gezer (Hebrew) | 
+ | [gwget](/f20/package/gwget) | 545 | 545 | 100.0 | Hebrew <he@li.org> | 
+ | [iagno](/f20/package/iagno) | 4286 | 4286 | 100.0 | Gezer (Hebrew) | 
+ | [ircp-tray](/f20/package/ircp-tray) | 239 | 239 | 100.0 | Hebrew <he@li.org> | 
+ | [islamic-menus](/f20/package/islamic-menus) | 5 | 5 | 100.0 | Hebrew <he@li.org> | 
+ | [kf5-kcmutils](/f20/package/kf5-kcmutils) | 563 | 563 | 100.0 | Hebrew <kde-i18n-doc@kde.org> | 
+ | [kf5-kdoctools](/f20/package/kf5-kdoctools) | 8 | 8 | 100.0 | Hebrew <kde-i18n-he@kde.org> | 
+ | [kf5-kjsembed](/f20/package/kf5-kjsembed) | 248 | 248 | 100.0 | Hebrew <kde-i18n-doc@kde.org> | 
+ | [kf5-kparts](/f20/package/kf5-kparts) | 104 | 104 | 100.0 | Hebrew <kde-i18n-doc@kde.org> | 
+ | [kf5-kpty](/f20/package/kf5-kpty) | 15 | 15 | 100.0 | Hebrew <kde-i18n-doc@kde.org> | 
+ | [kf5-kxmlrpcclient](/f20/package/kf5-kxmlrpcclient) | 13 | 13 | 100.0 | Hebrew <kde-i18n-he@kde.org> | 
+ | [kflickr](/f20/package/kflickr) | 332 | 332 | 100.0 | Hebrew <he@li.org> | 
+ | [libbonobo](/f20/package/libbonobo) | 543 | 543 | 100.0 | Hebrew <he@li.org> | 
+ | [libbonoboui](/f20/package/libbonoboui) | 368 | 368 | 100.0 | Hebrew <he@li.org> | 
+ | [libcryptui](/f20/package/libcryptui) | 697 | 697 | 100.0 | Hebrew <he@li.org> | 
+ | [libgdata](/f20/package/libgdata) | 632 | 632 | 100.0 | Hebrew <sh.yaron@gmail.com> | 
+ | [libgdl](/f20/package/libgdl) | 592 | 592 | 100.0 | he | 
+ | [libgnome](/f20/package/libgnome) | 1773 | 1773 | 100.0 | <en@li.org> | 
+ | [libgnome-keyring](/f20/package/libgnome-keyring) | 44 | 44 | 100.0 | Gezer <sh.yaron@gmail.com> | 
+ | [libgnome-media-profiles](/f20/package/libgnome-media-profiles) | 460 | 460 | 100.0 | Hebrew <he@li.org> | 
+ | [libgnomecanvas](/f20/package/libgnomecanvas) | 378 | 378 | 100.0 | Hebrew <he@li.org> | 
+ | [libgnomekbd](/f20/package/libgnomekbd) | 242 | 242 | 100.0 | he | 
+ | [libgnomeprint22](/f20/package/libgnomeprint22) | 168 | 168 | 100.0 | Hebrew <he@li.org> | 
+ | [libgnomeprintui22](/f20/package/libgnomeprintui22) | 481 | 481 | 100.0 | Hebrew <he@li.org> | 
+ | [libgnomeui](/f20/package/libgnomeui) | 1309 | 1309 | 100.0 | Hebrew <he@li.org> | 
+ | [libgtop2](/f20/package/libgtop2) | 126 | 126 | 100.0 | Hebrew <he@li.org> | 
+ | [libgweather](/f20/package/libgweather) | 6129 | 6129 | 100.0 | Hebrew <he@li.org> | 
+ | [libmatekbd](/f20/package/libmatekbd) | 292 | 292 | 100.0 | he | 
+ | [libmatekeyring](/f20/package/libmatekeyring) | 44 | 44 | 100.0 | Hebrew (http://www.transifex.com/projects/p/MATE/language/he/) | 
+ | [libmatewnck](/f20/package/libmatewnck) | 1124 | 1124 | 100.0 | Hebrew <he@li.org> | 
+ | [libpeas](/f20/package/libpeas) | 105 | 105 | 100.0 | Hebrew <sh.yaron@gmail.com> | 
+ | [libsecret](/f20/package/libsecret) | 59 | 59 | 100.0 | Gezer | 
+ | [libsoup](/f20/package/libsoup) | 79 | 79 | 100.0 | Hebrew <sh.yaron@gmail.com> | 
+ | [libwnck](/f20/package/libwnck) | 1124 | 1124 | 100.0 | Hebrew <he@li.org> | 
+ | [libwnck3](/f20/package/libwnck3) | 1084 | 1084 | 100.0 | Hebrew <he@li.org> | 
+ | [libxfce4util](/f20/package/libxfce4util) | 424 | 424 | 100.0 | Hebrew | 
+ | [libxfcegui4](/f20/package/libxfcegui4) | 139 | 139 | 100.0 | Hebrew | 
+ | [lightdm](/f20/package/lightdm) | 79 | 79 | 100.0 | Hebrew <he@li.org> | 
+ | [lightsoff](/f20/package/lightsoff) | 39 | 39 | 100.0 | Gezer (Hebrew) | 
+ | [liveusb-creator](/f20/package/liveusb-creator) | 480 | 480 | 100.0 | Gezer (Hebrew) | 
+ | [lxappearance](/f20/package/lxappearance) | 212 | 212 | 100.0 | Gezer <gezer@lists.launchpad.net> | 
+ | [lxappearance-obconf](/f20/package/lxappearance-obconf) | 196 | 196 | 100.0 | Gezer (Hebrew) | 
+ | [lxinput](/f20/package/lxinput) | 72 | 72 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [lxlauncher](/f20/package/lxlauncher) | 51 | 51 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [lxmenu-data](/f20/package/lxmenu-data) | 97 | 97 | 100.0 | <he@li.org> | 
+ | [lxmusic](/f20/package/lxmusic) | 203 | 203 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [lxpolkit](/f20/package/lxpolkit) | 15 | 15 | 100.0 | Hebrew <sh.yaron@gmail.com> | 
+ | [lxsession](/f20/package/lxsession) | 36 | 36 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [lxshortcut](/f20/package/lxshortcut) | 43 | 43 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [lxtask](/f20/package/lxtask) | 122 | 122 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [lxterminal](/f20/package/lxterminal) | 144 | 144 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [marco](/f20/package/marco) | 2116 | 2116 | 100.0 | Hebrew (http://www.transifex.com/projects/p/MATE/language/he/) | 
+ | [mate-dialogs](/f20/package/mate-dialogs) | 631 | 631 | 100.0 | Hebrew (http://www.transifex.com/projects/p/MATE/language/he/) | 
+ | [mate-doc-utils](/f20/package/mate-doc-utils) | 251 | 251 | 100.0 | Hebrew (http://www.transifex.net/projects/p/MATE/language/he/) | 
+ | [mate-document-viewer](/f20/package/mate-document-viewer) | 1493 | 1493 | 100.0 | Gezer (Hebrew) | 
+ | [mate-file-archiver](/f20/package/mate-file-archiver) | 1378 | 1378 | 100.0 | Hebrew <he@li.org> | 
+ | [mate-file-manager-image-converter](/f20/package/mate-file-manager-image-converter) | 74 | 74 | 100.0 | Gezer <gezer@lists.launchpad.net> | 
+ | [mate-file-manager-sendto](/f20/package/mate-file-manager-sendto) | 316 | 316 | 100.0 | Hebrew <he@li.org> | 
+ | [mate-file-manager-share](/f20/package/mate-file-manager-share) | 226 | 226 | 100.0 | Hebrew <he@li.org> | 
+ | [mate-icon-theme](/f20/package/mate-icon-theme) | 43 | 43 | 100.0 | Hebrew <he@li.org> | 
+ | [mate-image-viewer](/f20/package/mate-image-viewer) | 1623 | 1623 | 100.0 | Hebrew (http://www.transifex.com/projects/p/MATE/language/he/) | 
+ | [mate-media](/f20/package/mate-media) | 920 | 920 | 100.0 | Hebrew (http://www.transifex.com/projects/p/MATE/language/he/) | 
+ | [mate-menu-editor](/f20/package/mate-menu-editor) | 42 | 42 | 100.0 | Hebrew (http://www.transifex.com/projects/p/MATE/language/he/) | 
+ | [mate-menus](/f20/package/mate-menus) | 97 | 97 | 100.0 | Hebrew (http://www.transifex.com/projects/p/MATE/language/he/) | 
+ | [mate-notification-daemon](/f20/package/mate-notification-daemon) | 152 | 152 | 100.0 | Hebrew (http://www.transifex.com/projects/p/MATE/language/he/) | 
+ | [mate-power-manager](/f20/package/mate-power-manager) | 2758 | 2758 | 100.0 | Hebrew (http://www.transifex.com/projects/p/MATE/language/he/) | 
+ | [mate-settings-daemon](/f20/package/mate-settings-daemon) | 1735 | 1735 | 100.0 | Hebrew (http://www.transifex.com/projects/p/MATE/language/he/) | 
+ | [mate-system-monitor](/f20/package/mate-system-monitor) | 933 | 933 | 100.0 | Hebrew (http://www.transifex.com/projects/p/MATE/language/he/) | 
+ | [mate-text-editor](/f20/package/mate-text-editor) | 4986 | 4986 | 100.0 | Hebrew (http://www.transifex.com/projects/p/MATE/language/he/) | 
+ | [mate-themes](/f20/package/mate-themes) | 109 | 109 | 100.0 | Hebrew (http://www.transifex.com/projects/p/MATE/language/he/) | 
+ | [mate-user-share](/f20/package/mate-user-share) | 326 | 326 | 100.0 | he | 
+ | [mate-utils](/f20/package/mate-utils) | 3921 | 3921 | 100.0 | Hebrew (http://www.transifex.com/projects/p/MATE/language/he/) | 
+ | [mate-window-manager](/f20/package/mate-window-manager) | 2116 | 2116 | 100.0 | Hebrew (http://www.transifex.com/projects/p/MATE/language/he/) | 
+ | [metacity](/f20/package/metacity) | 2040 | 2040 | 100.0 | Hebrew <he@li.org> | 
+ | [mingw-GConf2](/f20/package/mingw-GConf2) | 4088 | 4088 | 100.0 | he | 
+ | [mingw-atk](/f20/package/mingw-atk) | 398 | 398 | 100.0 | Hebrew <he@li.org> | 
+ | [mingw-glib-networking](/f20/package/mingw-glib-networking) | 161 | 161 | 100.0 | Hebrew <sh.yaron@gmail.com> | 
+ | [mingw-glib2](/f20/package/mingw-glib2) | 5637 | 5637 | 100.0 | עברית <> | 
+ | [mingw-gtk-vnc](/f20/package/mingw-gtk-vnc) | 8 | 8 | 100.0 | Hebrew <sh.yaron@gmail.com> | 
+ | [mingw-gtk2](/f20/package/mingw-gtk2) | 12429 | 12429 | 100.0 | Hebrew <he@li.org> | 
+ | [mingw-gtk3](/f20/package/mingw-gtk3) | 13899 | 13899 | 100.0 | עברית <> | 
+ | [mingw-gtkhtml3](/f20/package/mingw-gtkhtml3) | 488 | 488 | 100.0 | Hebrew <he@li.org> | 
+ | [mingw-gtksourceview3](/f20/package/mingw-gtksourceview3) | 1604 | 1604 | 100.0 | Gezer | 
+ | [mingw-gtkspell3](/f20/package/mingw-gtkspell3) | 16 | 16 | 100.0 | Hebrew <eliz@gnu.org> | 
+ | [mingw-libsoup](/f20/package/mingw-libsoup) | 79 | 79 | 100.0 | Hebrew <sh.yaron@gmail.com> | 
+ | [mousetweaks](/f20/package/mousetweaks) | 114 | 114 | 100.0 | he | 
+ | [mozo](/f20/package/mozo) | 42 | 42 | 100.0 | Hebrew (http://www.transifex.com/projects/p/MATE/language/he/) | 
+ | [muffin](/f20/package/muffin) | 2038 | 2038 | 100.0 | Hebrew <he@li.org> | 
+ | [multimedia-menus](/f20/package/multimedia-menus) | 56 | 56 | 100.0 | Hebrew <fedora-he-list@redhat.com> | 
+ | [mutter](/f20/package/mutter) | 2063 | 2063 | 100.0 | עברית <> | 
+ | [mutter-wayland](/f20/package/mutter-wayland) | 2261 | 2261 | 100.0 | Hebrew <he@li.org> | 
+ | [nautilus](/f20/package/nautilus) | 6270 | 6270 | 100.0 | עברית <> | 
+ | [nautilus-open-terminal](/f20/package/nautilus-open-terminal) | 166 | 166 | 100.0 | Hebrew <he@li.org> | 
+ | [nautilus-sendto](/f20/package/nautilus-sendto) | 45 | 45 | 100.0 | Hebrew <he@li.org> | 
+ | [nautilus-sound-converter](/f20/package/nautilus-sound-converter) | 159 | 159 | 100.0 | Hebrew <sh.yaron@gmail.com> | 
+ | [nemo-extensions](/f20/package/nemo-extensions) | 745 | 745 | 100.0 | Gezer <gezer@lists.launchpad.net> | 
+ | [net6](/f20/package/net6) | 304 | 304 | 100.0 | Hebrew <he@li.org> | 
+ | [network-manager-applet](/f20/package/network-manager-applet) | 3010 | 3010 | 100.0 | Gezer (Hebrew) | 
+ | [newt](/f20/package/newt) | 4 | 4 | 100.0 |  | 
+ | [notification-daemon](/f20/package/notification-daemon) | 17 | 17 | 100.0 | Hebrew | 
+ | [oggconvert](/f20/package/oggconvert) | 132 | 132 | 100.0 | Hebrew <he@li.org> | 
+ | [olpc-switch-desktop](/f20/package/olpc-switch-desktop) | 158 | 158 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [parole](/f20/package/parole) | 487 | 487 | 100.0 | גזר | 
+ | [pessulus](/f20/package/pessulus) | 146 | 146 | 100.0 | Hebrew <he@li.org> | 
+ | [php-horde-imp](/f20/package/php-horde-imp) | 73 | 73 | 100.0 | i18n@lists.horde.org | 
+ | [pidgin-birthday-reminder](/f20/package/pidgin-birthday-reminder) | 240 | 240 | 100.0 | Hebrew <he@li.org> | 
+ | [poedit](/f20/package/poedit) | 1525 | 1525 | 100.0 | Yaron Shahrabani <sh.yaron@gmail.com> | 
+ | [pogo](/f20/package/pogo) | 576 | 576 | 100.0 | Hebrew <he@li.org> | 
+ | [polari](/f20/package/polari) | 192 | 192 | 100.0 | עברית <> | 
+ | [polkit-gnome](/f20/package/polkit-gnome) | 289 | 289 | 100.0 |  | 
+ | [postler](/f20/package/postler) | 809 | 809 | 100.0 | Hebrew <sh.yaron@gmail.com> | 
+ | [python-django](/f20/package/python-django) | 3318 | 3318 | 100.0 | Hebrew (http://www.transifex.com/projects/p/django/language/he/) | 
+ | [python-django-keyedcache](/f20/package/python-django-keyedcache) | 18 | 18 | 100.0 | <en@li.org> | 
+ | [python-django-registration](/f20/package/python-django-registration) | 81 | 81 | 100.0 | Hebrew | 
+ | [python-django-reversion](/f20/package/python-django-reversion) | 117 | 117 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [quadrapassel](/f20/package/quadrapassel) | 325 | 325 | 100.0 | Gezer (Hebrew) | 
+ | [quitcount](/f20/package/quitcount) | 166 | 166 | 100.0 | Hebrew <sh.yaron@gmail.com> | 
+ | [radiotray](/f20/package/radiotray) | 130 | 130 | 100.0 | Hebrew (http://www.transifex.com/projects/p/radiotray/language/he/) | 
+ | [redhat-menus](/f20/package/redhat-menus) | 261 | 261 | 100.0 | Hebrew <en@li.org> | 
+ | [rednotebook](/f20/package/rednotebook) | 1145 | 1145 | 100.0 | Hebrew <he@li.org> | 
+ | [sabayon](/f20/package/sabayon) | 743 | 743 | 100.0 | he | 
+ | [seahorse](/f20/package/seahorse) | 2423 | 2423 | 100.0 | Hebrew <he@li.org> | 
+ | [seahorse-nautilus](/f20/package/seahorse-nautilus) | 477 | 477 | 100.0 | Hebrew <he@li.org> | 
+ | [setuptool](/f20/package/setuptool) | 55 | 55 | 100.0 | none | 
+ | [shared-mime-info](/f20/package/shared-mime-info) | 1672 | 1672 | 100.0 | Hebrew (http://www.transifex.com/projects/p/freedesktop/language/he/) | 
+ | [sound-juicer](/f20/package/sound-juicer) | 1037 | 1037 | 100.0 | Hebrew | 
+ | [sushi](/f20/package/sushi) | 24 | 24 | 100.0 | Hebrew <sh.yaron@gmail.com> | 
+ | [swell-foop](/f20/package/swell-foop) | 138 | 138 | 100.0 | Gezer (Hebrew) | 
+ | [switchdesk](/f20/package/switchdesk) | 139 | 139 | 100.0 | Hebrew | 
+ | [system-config-nfs](/f20/package/system-config-nfs) | 332 | 332 | 100.0 | Hebrew <he-users@lists.fedoraproject.org> | 
+ | [system-config-rootpassword](/f20/package/system-config-rootpassword) | 116 | 116 | 100.0 | Hebrew | 
+ | [system-config-services-docs](/f20/package/system-config-services-docs) | 638 | 638 | 100.0 | Hebrew <he-users@lists.fedoraproject.org> | 
+ | [system-switch-java](/f20/package/system-switch-java) | 81 | 81 | 100.0 | Hebrew | 
+ | [system-switch-mail](/f20/package/system-switch-mail) | 158 | 158 | 100.0 | Hebrew | 
+ | [tali](/f20/package/tali) | 4286 | 4286 | 100.0 | Gezer (Hebrew) | 
+ | [thunar-vfs](/f20/package/thunar-vfs) | 387 | 387 | 100.0 | Hebrew <xfce-i18n@xfce.org> | 
+ | [tomboy](/f20/package/tomboy) | 3318 | 3318 | 100.0 | Hebrew (he@li.org) | 
+ | [totem](/f20/package/totem) | 2040 | 2040 | 100.0 | עברית <> | 
+ | [totem-pl-parser](/f20/package/totem-pl-parser) | 28 | 28 | 100.0 | Hebrew <he@li.org> | 
+ | [tumbler](/f20/package/tumbler) | 278 | 278 | 100.0 | Hebrew (http://www.transifex.com/projects/p/xfce/language/he/) | 
+ | [viewnior](/f20/package/viewnior) | 387 | 387 | 100.0 | Hebrew <he@translationproject.org> | 
+ | [vinagre](/f20/package/vinagre) | 1445 | 1445 | 100.0 | he | 
+ | [vino](/f20/package/vino) | 1228 | 1228 | 100.0 | Hebrew | 
+ | [vte](/f20/package/vte) | 80 | 80 | 100.0 | Hebrew <he@li.org> | 
+ | [vte3](/f20/package/vte3) | 80 | 80 | 100.0 | Hebrew <he@li.org> | 
+ | [wicd](/f20/package/wicd) | 1138 | 1138 | 100.0 | Hebrew <he@translationproject.org> | 
+ | [xdg-user-dirs-gtk](/f20/package/xdg-user-dirs-gtk) | 81 | 81 | 100.0 | Gezer (Hebrew) | 
+ | [xfce4-clipman-plugin](/f20/package/xfce4-clipman-plugin) | 350 | 350 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [xfce4-eyes-plugin](/f20/package/xfce4-eyes-plugin) | 15 | 15 | 100.0 | pulsar for the hebrew xfce translation team | 
+ | [xfce4-icon-theme](/f20/package/xfce4-icon-theme) | 8 | 8 | 100.0 | Hebrew | 
+ | [xfce4-mailwatch-plugin](/f20/package/xfce4-mailwatch-plugin) | 657 | 657 | 100.0 | Hebrew | 
+ | [xfce4-mpc-plugin](/f20/package/xfce4-mpc-plugin) | 76 | 76 | 100.0 | Hebrew <xfce-i18n@xfce.org> | 
+ | [xfce4-notifyd](/f20/package/xfce4-notifyd) | 94 | 94 | 100.0 | <xfce-i18n@xfce.org> | 
+ | [xfce4-panel](/f20/package/xfce4-panel) | 1701 | 1701 | 100.0 | Gezer (Hebrew) | 
+ | [xfce4-taskmanager](/f20/package/xfce4-taskmanager) | 217 | 217 | 100.0 | Hebrew (http://www.transifex.com/projects/p/xfce-apps/language/he/) | 
+ | [xfce4-time-out-plugin](/f20/package/xfce4-time-out-plugin) | 88 | 88 | 100.0 | Hebrew <xfce-i18n@xfce.org> | 
+ | [xnoise](/f20/package/xnoise) | 916 | 916 | 100.0 | עברית <> | 
+ | [yelp](/f20/package/yelp) | 507 | 507 | 100.0 | Hebrew <he@li.org> | 
+ | [yelp-xsl](/f20/package/yelp-xsl) | 81 | 81 | 100.0 | Hebrew <he@li.org> | 
+ | [zenity](/f20/package/zenity) | 775 | 775 | 100.0 | Hebrew <> | 
+ | [hamster-time-tracker](/f20/package/hamster-time-tracker) | 696 | 697 | 99.9 | Gezer <sh.yaron@gmail.com> | 
+ | [mate-file-manager](/f20/package/mate-file-manager) | 9066 | 9086 | 99.8 | Hebrew (http://www.transifex.com/projects/p/MATE/language/he/) | 
+ | [gnome-shell](/f20/package/gnome-shell) | 1350 | 1353 | 99.8 | עברית <> | 
+ | [pluma](/f20/package/pluma) | 4986 | 4999 | 99.7 | Hebrew (http://www.transifex.com/projects/p/MATE/language/he/) | 
+ | [asunder](/f20/package/asunder) | 469 | 471 | 99.6 | Rahut <genghiskhan@gmx.ca> | 
+ | [exo](/f20/package/exo) | 1373 | 1379 | 99.6 | Hebrew | 
+ | [mingw-gdk-pixbuf](/f20/package/mingw-gdk-pixbuf) | 1354 | 1360 | 99.6 | Hebrew <he@li.org> | 
+ | [python-lettuce](/f20/package/python-lettuce) | 7654 | 7693 | 99.5 | Django-i18n <django-i18n@googlegroups.com> | 
+ | [Thunar](/f20/package/Thunar) | 4184 | 4206 | 99.5 | Hebrew (http://www.transifex.com/projects/p/thunar/language/he/) | 
+ | [caja](/f20/package/caja) | 9086 | 9136 | 99.5 | Hebrew (http://www.transifex.com/projects/p/MATE/language/he/) | 
+ | [pidgin](/f20/package/pidgin) | 18337 | 18464 | 99.3 | Hebrew (http://www.transifex.com/projects/p/pidgin/language/he/) | 
+ | [engrampa](/f20/package/engrampa) | 1374 | 1385 | 99.2 | Hebrew (http://www.transifex.com/projects/p/MATE/language/he/) | 
+ | [moin](/f20/package/moin) | 4974 | 5023 | 99.0 |  | 
+ | [perl-Padre](/f20/package/perl-Padre) | 5313 | 5374 | 98.9 | American English <kde-i18n-doc@lists.kde.org> | 
+ | [kf5-ktextwidgets](/f20/package/kf5-ktextwidgets) | 458 | 464 | 98.7 | Hebrew <kde-i18n-doc@kde.org> | 
+ | [atril](/f20/package/atril) | 1409 | 1430 | 98.5 | Hebrew (http://www.transifex.com/projects/p/MATE/language/he/) | 
+ | [virtaal](/f20/package/virtaal) | 1411 | 1433 | 98.5 | Gezer (Hebrew) | 
+ | [usermode](/f20/package/usermode) | 564 | 573 | 98.4 | Hebrew <he-users@lists.fedoraproject.org> | 
+ | [python-django15](/f20/package/python-django15) | 5048 | 5130 | 98.4 | Hebrew (http://www.transifex.com/projects/p/django/language/he/) | 
+ | [subdownloader](/f20/package/subdownloader) | 952 | 968 | 98.3 | LANGUAGE <LL@li.org> | 
+ | [mate-terminal](/f20/package/mate-terminal) | 1234 | 1255 | 98.3 | Hebrew (http://www.transifex.com/projects/p/MATE/language/he/) | 
+ | [libmateweather](/f20/package/libmateweather) | 6009 | 6112 | 98.3 | Hebrew (http://www.transifex.com/projects/p/MATE/language/he/) | 
+ | [xfce4-whiskermenu-plugin](/f20/package/xfce4-whiskermenu-plugin) | 225 | 229 | 98.3 | Hebrew (http://www.transifex.com/projects/p/xfce4-whiskermenu-plugin/language/he/) | 
+ | [mate-panel](/f20/package/mate-panel) | 4124 | 4237 | 97.3 | Hebrew (http://www.transifex.com/projects/p/MATE/language/he/) | 
+ | [kf5-kiconthemes](/f20/package/kf5-kiconthemes) | 36 | 37 | 97.3 | Hebrew <kde-i18n-doc@kde.org> | 
+ | [gucharmap](/f20/package/gucharmap) | 1041 | 1071 | 97.2 | Hebrew <he@li.org> | 
+ | [ncmpc](/f20/package/ncmpc) | 687 | 707 | 97.2 | he <he@li.org> | 
+ | [ejabberd](/f20/package/ejabberd) | 1769 | 1826 | 96.9 | Rahut <genghiskhan@gmx.ca> | 
+ | [lxsession-edit](/f20/package/lxsession-edit) | 62 | 64 | 96.9 | LANGUAGE <LL@li.org> | 
+ | [eom](/f20/package/eom) | 1589 | 1641 | 96.8 | Hebrew (http://www.transifex.com/projects/p/MATE/language/he/) | 
+ | [leafpad](/f20/package/leafpad) | 121 | 125 | 96.8 | Hebrew | 
+ | [lxpanel](/f20/package/lxpanel) | 978 | 1014 | 96.4 | LANGUAGE <LL@li.org> | 
+ | [compiz-plugins-extra](/f20/package/compiz-plugins-extra) | 8609 | 8946 | 96.2 | Yotam Benshalom <benshalom@gmail.com> | 
+ | [compiz-plugins-main](/f20/package/compiz-plugins-main) | 8609 | 8946 | 96.2 | Yotam Benshalom <benshalom@gmail.com> | 
+ | [compiz-plugins-unsupported](/f20/package/compiz-plugins-unsupported) | 8609 | 8946 | 96.2 | Yotam Benshalom <benshalom@gmail.com> | 
+ | [gwibber](/f20/package/gwibber) | 739 | 769 | 96.1 | Hebrew <he@li.org> | 
+ | [mate-control-center](/f20/package/mate-control-center) | 2585 | 2692 | 96.0 | Hebrew (http://www.transifex.com/projects/p/MATE/language/he/) | 
+ | [sakura](/f20/package/sakura) | 190 | 198 | 96.0 | Rahut <genghiskhan@gmx.ca> | 
+ | [debconf](/f20/package/debconf) | 762 | 795 | 95.8 | Hebrew | 
+ | [system-config-services](/f20/package/system-config-services) | 511 | 534 | 95.7 | Hebrew (http://www.transifex.com/projects/p/fedora/language/he/) | 
+ | [mate-applets](/f20/package/mate-applets) | 2184 | 2283 | 95.7 | Hebrew (http://www.transifex.com/projects/p/MATE/language/he/) | 
+ | [system-config-kickstart](/f20/package/system-config-kickstart) | 1092 | 1144 | 95.5 | Hebrew <he-users@lists.fedoraproject.org> | 
+ | [mate-character-map](/f20/package/mate-character-map) | 819 | 863 | 94.9 | Hebrew <he@li.org> | 
+ | [claws-mail](/f20/package/claws-mail) | 18873 | 19925 | 94.7 | Rahut <translators@lists.claws-mail.org> | 
+ | [gaupol](/f20/package/gaupol) | 2268 | 2395 | 94.7 | Gezer (Hebrew) | 
+ | [zarafa](/f20/package/zarafa) | 5955 | 6307 | 94.4 | LANGUAGE <LL@li.org> | 
+ | [system-config-users](/f20/package/system-config-users) | 1436 | 1521 | 94.4 | Hebrew <he-users@lists.fedoraproject.org> | 
+ | [publican-fedora](/f20/package/publican-fedora) | 100 | 106 | 94.3 | Hebrew Team <fedora-he-list@redhat.com> | 
+ | [shotwell](/f20/package/shotwell) | 4327 | 4588 | 94.3 | Hebrew (http://www.transifex.com/projects/p/shotwell/language/he/) | 
+ | [tuxpaint](/f20/package/tuxpaint) | 1175 | 1247 | 94.2 | Hebrew <mdk-hebrew@iglu.org.il> | 
+ | [kiconedit](/f20/package/kiconedit) | 682 | 726 | 93.9 | hebrew <kde-il@yahoogroups.com> | 
+ | [decibel-audio-player](/f20/package/decibel-audio-player) | 1401 | 1494 | 93.8 | Hebrew <he@li.org> | 
+ | [scratch](/f20/package/scratch) | 1377 | 1470 | 93.7 | <LL@li.org> | 
+ | [system-config-firewall](/f20/package/system-config-firewall) | 2632 | 2814 | 93.5 | Hebrew <he-users@lists.fedoraproject.org> | 
+ | [liferea](/f20/package/liferea) | 2067 | 2222 | 93.0 | Hebrew <eliz@gnu.org> | 
+ | [mate-screensaver](/f20/package/mate-screensaver) | 544 | 585 | 93.0 | Hebrew (http://www.transifex.com/projects/p/MATE/language/he/) | 
+ | [gajim](/f20/package/gajim) | 11104 | 11941 | 93.0 | Rahut | 
+ | [xdg-user-dirs](/f20/package/xdg-user-dirs) | 26 | 28 | 92.9 | Hebrew <eliz@gnu.org> | 
+ | [kf5-khtml](/f20/package/kf5-khtml) | 1595 | 1720 | 92.7 | Hebrew <kde-i18n-doc@kde.org> | 
+ | [pondus](/f20/package/pondus) | 299 | 324 | 92.3 | LANGUAGE <LL@li.org> | 
+ | [aisleriot](/f20/package/aisleriot) | 1754 | 1907 | 92.0 | Gezer (Hebrew) | 
+ | [simple-scan](/f20/package/simple-scan) | 598 | 651 | 91.9 | Hebrew <he@li.org> | 
+ | [mate-keyring](/f20/package/mate-keyring) | 1075 | 1173 | 91.6 | Hebrew (http://www.transifex.com/projects/p/MATE/language/he/) | 
+ | [mate-calc](/f20/package/mate-calc) | 1291 | 1412 | 91.4 | Hebrew (http://www.transifex.com/projects/p/MATE/language/he/) | 
+ | [skychart](/f20/package/skychart) | 1555 | 1702 | 91.4 |  | 
+ | [mate-netspeed](/f20/package/mate-netspeed) | 135 | 148 | 91.2 | Hebrew (http://www.transifex.com/projects/p/MATE/language/he/) | 
+ | [lxrandr](/f20/package/lxrandr) | 111 | 122 | 91.0 | LANGUAGE <LL@li.org> | 
+ | [clementine](/f20/package/clementine) | 4420 | 4861 | 90.9 | Hebrew (http://www.transifex.com/projects/p/clementine/language/he/) | 
+ | [system-config-samba](/f20/package/system-config-samba) | 518 | 571 | 90.7 | Hebrew <he-users@lists.fedoraproject.org> | 
+ | [linphone](/f20/package/linphone) | 1271 | 1403 | 90.6 | Rahut Project <http://sourceforge.net/projects/rahut/> | 
+ | [steadyflow](/f20/package/steadyflow) | 423 | 470 | 90.0 | Hebrew <he@li.org> | 
+ | [kf5-kconfigwidgets](/f20/package/kf5-kconfigwidgets) | 285 | 317 | 89.9 | Hebrew <kde-i18n-doc@kde.org> | 
+ | [kf5-knewstuff](/f20/package/kf5-knewstuff) | 603 | 673 | 89.6 | Hebrew <kde-i18n-doc@kde.org> | 
+ | [boost](/f20/package/boost) | 17 | 19 | 89.5 |  | 
+ | [mingw-boost](/f20/package/mingw-boost) | 17 | 19 | 89.5 |  | 
+ | [mailman](/f20/package/mailman) | 20592 | 23085 | 89.2 | Hebrew | 
+ | [kf5-kxmlgui](/f20/package/kf5-kxmlgui) | 1376 | 1543 | 89.2 | Hebrew <kde-i18n-doc@kde.org> | 
+ | [xfce4-places-plugin](/f20/package/xfce4-places-plugin) | 140 | 157 | 89.2 | Gezer <gezer@lists.launchpad.net> | 
+ | [fuse-encfs](/f20/package/fuse-encfs) | 1170 | 1315 | 89.0 | Hebrew <he@li.org> | 
+ | [mailnag](/f20/package/mailnag) | 122 | 138 | 88.4 | Hebrew <he@li.org> | 
+ | [pidgin-musictracker](/f20/package/pidgin-musictracker) | 294 | 333 | 88.3 | Hebrew <he@li.org> | 
+ | [gnome-boxes](/f20/package/gnome-boxes) | 755 | 856 | 88.2 | עברית <> | 
+ | [obconf](/f20/package/obconf) | 650 | 738 | 88.1 | Rahut <genghiskhan@gmx.ca> | 
+ | [PackageKit](/f20/package/PackageKit) | 1157 | 1328 | 87.1 | Hebrew (http://www.transifex.com/projects/p/freedesktop/language/he/) | 
+ | [l3afpad](/f20/package/l3afpad) | 113 | 130 | 86.9 | Hebrew | 
+ | [gobby](/f20/package/gobby) | 765 | 900 | 85.0 | Hebrew <he@li.org> | 
+ | [cinnamon-session](/f20/package/cinnamon-session) | 366 | 432 | 84.7 | Hebrew <he@li.org> | 
+ | [libgpod](/f20/package/libgpod) | 891 | 1053 | 84.6 | HEBREW <kde-il@yahoogroups.com> | 
+ | [whaawmp](/f20/package/whaawmp) | 670 | 799 | 83.9 | Hebrew <he@li.org> | 
+ | [mate-backgrounds](/f20/package/mate-backgrounds) | 25 | 30 | 83.3 | Hebrew (http://www.transifex.com/projects/p/MATE/language/he/) | 
+ | [logjam](/f20/package/logjam) | 1928 | 2316 | 83.2 | <none> | 
+ | [gparted](/f20/package/gparted) | 2091 | 2517 | 83.1 | Hebrew <he@li.org> | 
+ | [kf5-kinit](/f20/package/kf5-kinit) | 111 | 134 | 82.8 | Hebrew <kde-i18n-doc@kde.org> | 
+ | [pinta](/f20/package/pinta) | 1334 | 1618 | 82.4 | Hebrew <he@li.org> | 
+ | [control-center](/f20/package/control-center) | 5172 | 6297 | 82.1 | Hebrew | 
+ | [kf5-kross](/f20/package/kf5-kross) | 82 | 100 | 82.0 | Hebrew <kde-i18n-doc@kde.org> | 
+ | [easystroke](/f20/package/easystroke) | 385 | 470 | 81.9 | Hebrew <he@li.org> | 
+ | [evolution-data-server](/f20/package/evolution-data-server) | 3709 | 4584 | 80.9 | Hebrew <he@li.org> | 
+ | [mate-session-manager](/f20/package/mate-session-manager) | 455 | 564 | 80.7 | Hebrew (http://www.transifex.com/projects/p/MATE/language/he/) | 
+ | [Zim](/f20/package/Zim) | 2158 | 2677 | 80.6 | Hebrew <he@li.org> | 
+ | [mcomix](/f20/package/mcomix) | 2014 | 2501 | 80.5 | Hebrew <eliz@gnu.org> | 
+ | [libfm](/f20/package/libfm) | 1253 | 1565 | 80.1 | Hebrew <sh.yaron@gmail.com> | 
+ | [workrave](/f20/package/workrave) | 1017 | 1278 | 79.6 | Hebrew <en@li.org> | 
+ | [python-django14](/f20/package/python-django14) | 4008 | 5056 | 79.3 | Hebrew (http://www.transifex.net/projects/p/django/language/he/) | 
+ | [kf5-kio](/f20/package/kf5-kio) | 9224 | 11641 | 79.2 | Hebrew <kde-i18n-doc@kde.org> | 
+ | [shutter](/f20/package/shutter) | 2434 | 3093 | 78.7 | Hebrew <he@li.org> | 
+ | [plasma-oxygen](/f20/package/plasma-oxygen) | 524 | 666 | 78.7 | Hebrew <kde-i18n-doc@kde.org> | 
+ | [lazarus](/f20/package/lazarus) | 18252 | 23458 | 77.8 |  | 
+ | [gnome-do](/f20/package/gnome-do) | 473 | 612 | 77.3 | Hebrew <he@li.org> | 
+ | [trac](/f20/package/trac) | 9967 | 13219 | 75.4 | ItamarO <itamarost <at> gmail <dot> com> | 
+ | [gthumb](/f20/package/gthumb) | 2686 | 3568 | 75.3 | Hebrew <he@li.org> | 
+ | [glade](/f20/package/glade) | 3150 | 4208 | 74.9 | he | 
+ | [f-spot](/f20/package/f-spot) | 2500 | 3402 | 73.5 | Hebrew <he@li.org> | 
+ | [libhocr](/f20/package/libhocr) | 152 | 207 | 73.4 | Hebrew | 
+ | [xfce4-weather-plugin](/f20/package/xfce4-weather-plugin) | 2583 | 3594 | 71.9 | Rahut <xfce-i18n@xfce.org> | 
+ | [transifex](/f20/package/transifex) | 4562 | 6424 | 71.0 | Hebrew (http://www.transifex.net/projects/p/transifex/team/he/) | 
+ | [openbox](/f20/package/openbox) | 357 | 506 | 70.6 | Rahut <genghiskhan@gmx.ca> | 
+ | [gnome-software](/f20/package/gnome-software) | 248 | 354 | 70.1 | GNOME Hebrew Langauge Translation Team | 
+ | [isomaster](/f20/package/isomaster) | 472 | 674 | 70.0 | Fima Kachinski <xrayon@gmail.com> | 
+ | [xfce4-settings](/f20/package/xfce4-settings) | 1051 | 1510 | 69.6 | <<xfce-i18n@xfce.org>> | 
+ | [mintmenu](/f20/package/mintmenu) | 3695 | 5334 | 69.3 | Hebrew <he@li.org> | 
+ | [gnome-disk-utility](/f20/package/gnome-disk-utility) | 2375 | 3438 | 69.1 | Hebrew <he@li.org> | 
+ | [system-config-printer](/f20/package/system-config-printer) | 2141 | 3144 | 68.1 | Hebrew <he-users@lists.fedoraproject.org> | 
+ | [gweled](/f20/package/gweled) | 106 | 156 | 67.9 | Hebrew <he@li.org> | 
+ | [kf5-kdeclarative](/f20/package/kf5-kdeclarative) | 74 | 109 | 67.9 | Hebrew <kde-i18n-doc@kde.org> | 
+ | [supertuxkart](/f20/package/supertuxkart) | 1420 | 2112 | 67.2 | Hebrew <he@li.org> | 
+ | [inkscape](/f20/package/inkscape) | 23204 | 34673 | 66.9 | Gezer (Hebrew) | 
+ | [kf5-knotifyconfig](/f20/package/kf5-knotifyconfig) | 86 | 129 | 66.7 | Hebrew <kde-i18n-doc@kde.org> | 
+ | [pcmanfm](/f20/package/pcmanfm) | 804 | 1210 | 66.4 |  | 
+ | [rhythmbox](/f20/package/rhythmbox) | 2988 | 4506 | 66.3 | Hebrew <he@li.org> | 
+ | [nfoview](/f20/package/nfoview) | 103 | 157 | 65.6 | Hebrew (Yaron Shahrabani) <sh.yaron@gmail.com> | 
+ | [caja-terminal](/f20/package/caja-terminal) | 72 | 110 | 65.5 | Hebrew <he@li.org> | 
+ | [tuxpaint-stamps](/f20/package/tuxpaint-stamps) | 1763 | 2711 | 65.0 |  | 
+ | [gtkpod](/f20/package/gtkpod) | 4756 | 7392 | 64.3 | HEBREW <kde-il@yahoogroups.com> | 
+ | [picard](/f20/package/picard) | 1081 | 1681 | 64.3 | LANGUAGE <LL@li.org> | 
+ | [kf5-kdelibs4support](/f20/package/kf5-kdelibs4support) | 3010 | 4683 | 64.3 | Hebrew <kde-i18n-doc@kde.org> | 
+ | [midori](/f20/package/midori) | 2147 | 3347 | 64.1 | גזר | 
+ | [gdmap](/f20/package/gdmap) | 88 | 139 | 63.3 | Hebrew <LL@li.org> | 
+ | [qtwebkit](/f20/package/qtwebkit) | 684 | 1093 | 62.6 | Hebrew <he@li.org> | 
+ | [plank](/f20/package/plank) | 15 | 24 | 62.5 | Hebrew <he@li.org> | 
+ | [balsa](/f20/package/balsa) | 3311 | 5348 | 61.9 | Hebrew <he@li.org> | 
+ | [deluge](/f20/package/deluge) | 1684 | 2726 | 61.8 | Hebrew <he@li.org> | 
+ | [sparkleshare](/f20/package/sparkleshare) | 248 | 402 | 61.7 |  | 
+ | [folks](/f20/package/folks) | 517 | 851 | 60.8 | Hebrew <sh.yaron@gmail.com> | 
+ | [synaptic](/f20/package/synaptic) | 1954 | 3231 | 60.5 | Hebrew <en@li.org> | 
+ | [kf5-kservice](/f20/package/kf5-kservice) | 92 | 153 | 60.1 | Hebrew <kde-i18n-doc@kde.org> | 
+ | [boinc-client](/f20/package/boinc-client) | 9856 | 16656 | 59.2 | IOPanel.net | 
+ | [libreoffice](/f20/package/libreoffice) | 316204 | 534770 | 59.1 | LANGUAGE <LL@li.org> | 
+ | [glade3](/f20/package/glade3) | 2547 | 4319 | 59.0 | he | 
+ | [evolution](/f20/package/evolution) | 12689 | 21585 | 58.8 | Hebrew <he@li.org> | 
+ | [tuxmath](/f20/package/tuxmath) | 854 | 1454 | 58.7 | Gezer (Hebrew) | 
+ | [mana](/f20/package/mana) | 1846 | 3155 | 58.5 | Hebrew <he@li.org> | 
+ | [gridengine](/f20/package/gridengine) | 1168 | 2047 | 57.1 | Hebrew <eliz@gnu.org> | 
+ | [make](/f20/package/make) | 1168 | 2047 | 57.1 | Hebrew <eliz@gnu.org> | 
+ | [dasher](/f20/package/dasher) | 299 | 528 | 56.6 | Hebrew <he@li.org> | 
+ | [kf5-ktexteditor](/f20/package/kf5-ktexteditor) | 4904 | 8670 | 56.6 | Hebrew <kde-i18n-doc@kde.org> | 
+ | [digikam](/f20/package/digikam) | 140 | 250 | 56.0 | American English <kde-i18n-doc@lists.kde.org> | 
+ | [cinnamon-translations](/f20/package/cinnamon-translations) | 7404 | 13313 | 55.6 | Hebrew <he@li.org> | 
+ | [sugar-chat](/f20/package/sugar-chat) | 30 | 55 | 54.5 | LANGUAGE <LL@li.org> | 
+ | [orca](/f20/package/orca) | 2053 | 3793 | 54.1 |  | 
+ | [xiphos](/f20/package/xiphos) | 2414 | 4557 | 53.0 | Xiphos Translation Team | 
+ | [pmount](/f20/package/pmount) | 378 | 723 | 52.3 | Hebrew <he@li.org> | 
+ | [caja-actions](/f20/package/caja-actions) | 2552 | 4886 | 52.2 | he | 
+ | [nautilus-actions](/f20/package/nautilus-actions) | 2552 | 4886 | 52.2 | he | 
+ | [pykickstart](/f20/package/pykickstart) | 199 | 383 | 52.0 | Hebrew (http://www.transifex.com/projects/p/fedora/language/he/) | 
+ | [xfce4-mixer](/f20/package/xfce4-mixer) | 94 | 181 | 51.9 | <xfce-i18n@xfce.org> | 
+ | [qutim](/f20/package/qutim) | 4694 | 9169 | 51.2 | Hebrew <he@li.org> | 
+ | [conduit](/f20/package/conduit) | 288 | 564 | 51.1 | he | 
+ | [k3b](/f20/package/k3b) | 10157 | 20535 | 49.5 | Hebrew <kde-i18n-doc@kde.org> | 
+ | [gtksourceview](/f20/package/gtksourceview) | 348 | 725 | 48.0 | Hebrew <he@li.org> | 
+ | [wine](/f20/package/wine) | 6801 | 14311 | 47.5 | Gezer (Hebrew) | 
+ | [sugar-turtleart](/f20/package/sugar-turtleart) | 1552 | 3270 | 47.5 | LANGUAGE <walter@sugarlabs.org> | 
+ | [koffice-kivio](/f20/package/koffice-kivio) | 3887 | 8417 | 46.2 | Hebrew <kde-il@yahoogroups.com> | 
+ | [easytag](/f20/package/easytag) | 2516 | 5507 | 45.7 | Hebrew <he@li.org> | 
+ | [gnome-music](/f20/package/gnome-music) | 154 | 348 | 44.3 | עברית <> | 
+ | [pidgin-guifications](/f20/package/pidgin-guifications) | 223 | 505 | 44.2 | Hebrew  <he@li.org> | 
+ | [lyx](/f20/package/lyx) | 9160 | 21457 | 42.7 | Hebrew <> | 
+ | [transmission](/f20/package/transmission) | 768 | 1809 | 42.5 | Gezer (Hebrew) | 
+ | [deja-dup](/f20/package/deja-dup) | 1632 | 3913 | 41.7 | Hebrew <he@li.org> | 
+ | [lightdm-gtk](/f20/package/lightdm-gtk) | 35 | 84 | 41.7 | Hebrew <he@li.org> | 
+ | [anjuta](/f20/package/anjuta) | 3238 | 7797 | 41.5 | he | 
+ | [kgrab](/f20/package/kgrab) | 152 | 370 | 41.1 | American English <kde-il@yahoogroups.com> | 
+ | [php-horde-Horde-Nls](/f20/package/php-horde-Horde-Nls) | 174 | 430 | 40.5 | i18n@lists.horde.org | 
+ | [lxdm](/f20/package/lxdm) | 12 | 30 | 40.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-visualmatch](/f20/package/sugar-visualmatch) | 63 | 158 | 39.9 | LANGUAGE <LL@li.org> | 
+ | [gourmet](/f20/package/gourmet) | 1501 | 3776 | 39.8 | Hebrew <he@li.org> | 
+ | [gallery2](/f20/package/gallery2) | 5123 | 12953 | 39.6 | Hebrew <guysoft@ort.org.il> | 
+ | [soundconverter](/f20/package/soundconverter) | 151 | 388 | 38.9 | LANG <EMAIL@ADDRESS> | 
+ | [backintime](/f20/package/backintime) | 576 | 1492 | 38.6 | Hebrew <he@li.org> | 
+ | [cinnamon-control-center](/f20/package/cinnamon-control-center) | 504 | 1313 | 38.4 | Hebrew | 
+ | [xfdesktop](/f20/package/xfdesktop) | 361 | 941 | 38.4 | Hebrew (http://www.transifex.com/projects/p/xfce/language/he/) | 
+ | [docky](/f20/package/docky) | 672 | 1757 | 38.2 | Hebrew <he@li.org> | 
+ | [listen](/f20/package/listen) | 675 | 1783 | 37.9 | Hebrew <he@li.org> | 
+ | [pam](/f20/package/pam) | 229 | 606 | 37.8 | Hebrew <he-users@lists.fedoraproject.org> | 
+ | [pitivi](/f20/package/pitivi) | 593 | 1602 | 37.0 | Gezer (Hebrew) <gezer@lists.launchpad.net> | 
+ | [gscan2pdf](/f20/package/gscan2pdf) | 570 | 1582 | 36.0 | Hebrew <he@li.org> | 
+ | [openvas-client](/f20/package/openvas-client) | 1604 | 4463 | 35.9 | <en@li.org> | 
+ | [kf5-kwallet](/f20/package/kf5-kwallet) | 534 | 1498 | 35.6 | Hebrew <kde-i18n-doc@kde.org> | 
+ | [xfce4-terminal](/f20/package/xfce4-terminal) | 387 | 1097 | 35.3 | Hebrew (http://www.transifex.com/projects/p/xfce/language/he/) | 
+ | [avahi](/f20/package/avahi) | 301 | 865 | 34.8 | Hebrew <he@li.org> | 
+ | [mate-desktop](/f20/package/mate-desktop) | 610 | 1753 | 34.8 | Hebrew (http://www.transifex.com/projects/p/MATE/language/he/) | 
+ | [gxneur](/f20/package/gxneur) | 318 | 915 | 34.8 | Hebrew <he@li.org> | 
+ | [audacity](/f20/package/audacity) | 3965 | 11446 | 34.6 | Heb | 
+ | [phatch](/f20/package/phatch) | 882 | 2553 | 34.5 | Hebrew <he@li.org> | 
+ | [xfce4-session](/f20/package/xfce4-session) | 390 | 1132 | 34.5 | Hebrew | 
+ | [texinfo](/f20/package/texinfo) | 1902 | 5553 | 34.3 | Hebrew <eliz@gnu.org> | 
+ | [kf5-ki18n](/f20/package/kf5-ki18n) | 42 | 124 | 33.9 | Hebrew <kde-i18n-doc@kde.org> | 
+ | [gmpc](/f20/package/gmpc) | 496 | 1478 | 33.6 | Hebrew <he@li.org> | 
+ | [vidalia](/f20/package/vidalia) | 3464 | 10463 | 33.1 | translations@vidalia-project.net | 
+ | [warmux](/f20/package/warmux) | 902 | 2744 | 32.9 | <he@li.org> | 
+ | [xchat-gnome](/f20/package/xchat-gnome) | 1330 | 4064 | 32.7 | Hebrew Translators <blueomega@gmailc.om> | 
+ | [gramps](/f20/package/gramps) | 11353 | 37092 | 30.6 | he <igal.shapira@gmail.com> | 
+ | [cairo-dock](/f20/package/cairo-dock) | 2247 | 7464 | 30.1 | Hebrew <he@li.org> | 
+ | [python-blivet](/f20/package/python-blivet) | 245 | 825 | 29.7 | Hebrew (http://www.transifex.com/projects/p/blivet/language/he/) | 
+ | [mate-file-manager-open-terminal](/f20/package/mate-file-manager-open-terminal) | 24 | 82 | 29.3 | Hebrew (http://www.transifex.com/projects/p/MATE/language/he/) | 
+ | [exaile](/f20/package/exaile) | 1150 | 4006 | 28.7 | Hebrew <LL@li.org> | 
+ | [mate-polkit](/f20/package/mate-polkit) | 81 | 296 | 27.4 | Hebrew (http://www.transifex.com/projects/p/MATE/language/he/) | 
+ | [system-config-language](/f20/package/system-config-language) | 54 | 198 | 27.3 | Hebrew <he-users@lists.fedoraproject.org> | 
+ | [ksig](/f20/package/ksig) | 23 | 85 | 27.1 | hebrew <kde-il@yahoogroups.com> | 
+ | [system-config-keyboard](/f20/package/system-config-keyboard) | 48 | 187 | 25.7 | Hebrew <kde-i18n-doc@kde.org> | 
+ | [mingw-qt5-qtwebkit](/f20/package/mingw-qt5-qtwebkit) | 671 | 2631 | 25.5 | Hebrew <he@li.org> | 
+ | [mingw-webkitgtk](/f20/package/mingw-webkitgtk) | 671 | 2631 | 25.5 | Hebrew <he@li.org> | 
+ | [mingw-webkitgtk3](/f20/package/mingw-webkitgtk3) | 671 | 2631 | 25.5 | Hebrew <he@li.org> | 
+ | [qt5-qtwebkit](/f20/package/qt5-qtwebkit) | 671 | 2631 | 25.5 | Hebrew <he@li.org> | 
+ | [webkitgtk](/f20/package/webkitgtk) | 671 | 2631 | 25.5 | Hebrew <he@li.org> | 
+ | [webkitgtk3](/f20/package/webkitgtk3) | 671 | 2631 | 25.5 | Hebrew <he@li.org> | 
+ | [libuser](/f20/package/libuser) | 355 | 1479 | 24.0 | Hebrew (http://www.transifex.com/projects/p/fedora/language/he/) | 
+ | [orage](/f20/package/orage) | 612 | 2601 | 23.5 | Hebrew (http://www.transifex.com/projects/p/xfce/language/he/) | 
+ | [NetworkManager-ssh](/f20/package/NetworkManager-ssh) | 64 | 286 | 22.4 | Hebrew <malkodan@gmail.com> | 
+ | [kf5-kglobalaccel](/f20/package/kf5-kglobalaccel) | 19 | 85 | 22.4 | Hebrew <kde-i18n-doc@kde.org> | 
+ | [quodlibet](/f20/package/quodlibet) | 1087 | 5059 | 21.5 | Hebrew | 
+ | [system-config-date](/f20/package/system-config-date) | 394 | 1850 | 21.3 | Hebrew (http://www.transifex.com/projects/p/fedora/language/he/) | 
+ | [lifeograph](/f20/package/lifeograph) | 219 | 1029 | 21.3 | Hebrew <he@li.org> | 
+ | [kBuild](/f20/package/kBuild) | 106 | 505 | 21.0 | Hebrew <eliz@gnu.org> | 
+ | [sugar-physics](/f20/package/sugar-physics) | 10 | 48 | 20.8 | LANGUAGE <LL@li.org> | 
+ | [avogadro](/f20/package/avogadro) | 874 | 4262 | 20.5 | Hebrew <he@li.org> | 
+ | [enlightenment](/f20/package/enlightenment) | 1683 | 8431 | 20.0 | Hebrew <he@li.org> | 
+ | [xfwm4](/f20/package/xfwm4) | 157 | 864 | 18.2 | Hebrew | 
+ | [terminator](/f20/package/terminator) | 131 | 726 | 18.0 | Hebrew <he@li.org> | 
+ | [diffutils](/f20/package/diffutils) | 324 | 1800 | 18.0 | Hebrew <eliz@gnu.org> | 
+ | [sugar-toolkit-gtk3](/f20/package/sugar-toolkit-gtk3) | 13 | 76 | 17.1 | LANGUAGE <LL@li.org> | 
+ | [xfburn](/f20/package/xfburn) | 222 | 1300 | 17.1 | Hebrew | 
+ | [gdesklets](/f20/package/gdesklets) | 252 | 1528 | 16.5 | Hebrew <he@li.org> | 
+ | [gnubik](/f20/package/gnubik) | 45 | 278 | 16.2 | Hebrew <he@li.org> | 
+ | [grisbi](/f20/package/grisbi) | 1921 | 12335 | 15.6 | <en@li.org> | 
+ | [rt3](/f20/package/rt3) | 1133 | 7960 | 14.2 | rt-devel <rt-devel@lists.bestpractical.com> | 
+ | [gnumeric](/f20/package/gnumeric) | 4922 | 35046 | 14.0 | Hebrew <he@li.org> | 
+ | [gnucash](/f20/package/gnucash) | 4163 | 29806 | 14.0 | Hebrew | 
+ | [gftp](/f20/package/gftp) | 469 | 3375 | 13.9 | Hebrew <he@li.org> | 
+ | [gimp](/f20/package/gimp) | 3703 | 27560 | 13.4 | Hebrew <he@li.org> | 
+ | [openerp7](/f20/package/openerp7) | 5763 | 43105 | 13.4 | Hebrew <he@li.org> | 
+ | [dnf](/f20/package/dnf) | 234 | 1760 | 13.3 | Hebrew (http://www.transifex.com/projects/p/dnf/language/he/) | 
+ | [elementary](/f20/package/elementary) | 7 | 53 | 13.2 | General | 
+ | [manaplus](/f20/package/manaplus) | 578 | 4384 | 13.2 | Hebrew (http://www.transifex.com/projects/p/manaplus/language/he/) | 
+ | [libxfce4ui](/f20/package/libxfce4ui) | 19 | 149 | 12.8 | Hebrew <xfce-i18n@xfce.org> | 
+ | [qbzr](/f20/package/qbzr) | 232 | 1865 | 12.4 | Hebrew <he@li.org> | 
+ | [xfce4-appfinder](/f20/package/xfce4-appfinder) | 23 | 186 | 12.4 | Hebrew | 
+ | [gnomebaker](/f20/package/gnomebaker) | 145 | 1179 | 12.3 | Hebrew <he@li.org> | 
+ | [stellarium](/f20/package/stellarium) | 1375 | 11181 | 12.3 | Hebrew <he@li.org> | 
+ | [rabbitvcs](/f20/package/rabbitvcs) | 179 | 1524 | 11.7 | Hebrew <he@li.org> | 
+ | [cairo-dock-plug-ins](/f20/package/cairo-dock-plug-ins) | 1169 | 10203 | 11.5 | Hebrew <he@li.org> | 
+ | [publican](/f20/package/publican) | 617 | 5487 | 11.2 | Hebrew Team <fedora-he-list@redhat.com> | 
+ | [wget](/f20/package/wget) | 350 | 3131 | 11.2 | Hebrew <eliz@gnu.org> | 
+ | [gtg](/f20/package/gtg) | 386 | 3497 | 11.0 | Hebrew <he@li.org> | 
+ | [sed](/f20/package/sed) | 58 | 548 | 10.6 | Hebrew <eliz@gnu.org> | 
+ | [sugar](/f20/package/sugar) | 183 | 1733 | 10.6 | LANGUAGE <LL@li.org> | 
+ | [sugar-toolkit](/f20/package/sugar-toolkit) | 7 | 73 | 9.6 | LANGUAGE <LL@li.org> | 
+ | [kf5-kactivities](/f20/package/kf5-kactivities) | 8 | 85 | 9.4 | Hebrew <kde-i18n-doc@kde.org> | 
+ | [colord](/f20/package/colord) | 162 | 1850 | 8.8 | Hebrew (http://www.transifex.com/projects/p/colord/language/he/) | 
+ | [aria2](/f20/package/aria2) | 500 | 6428 | 7.8 | Hebrew <he@li.org> | 
+ | [iso-codes](/f20/package/iso-codes) | 1214 | 16121 | 7.5 | Hebrew | 
+ | [kpilot](/f20/package/kpilot) | 521 | 7156 | 7.3 | Hebrew <kde-il@yahoogroups.com> | 
+ | [openerp](/f20/package/openerp) | 2401 | 34153 | 7.0 | Hebrew <he@li.org> | 
+ | [sugar-paint](/f20/package/sugar-paint) | 6 | 88 | 6.8 | LANGUAGE <LL@li.org> | 
+ | [sugar-calculator](/f20/package/sugar-calculator) | 58 | 871 | 6.7 | LANGUAGE <LL@li.org> | 
+ | [geda-gaf](/f20/package/geda-gaf) | 127 | 2045 | 6.2 | gEDA developers <geda-dev@seul.org> | 
+ | [anaconda](/f20/package/anaconda) | 317 | 5160 | 6.1 | Hebrew (http://www.transifex.com/projects/p/fedora/language/he/) | 
+ | [abrt](/f20/package/abrt) | 162 | 2722 | 6.0 | Hebrew (http://www.transifex.com/projects/p/fedora/language/he/) | 
+ | [pootle](/f20/package/pootle) | 142 | 2424 | 5.9 | LANGUAGE <LL@li.org> | 
+ | [pulseaudio](/f20/package/pulseaudio) | 190 | 3303 | 5.8 | Hebrew <fedora-he-list@redhat.com> | 
+ | [shadow-utils](/f20/package/shadow-utils) | 197 | 3743 | 5.3 | Hebrew <en@li.org> | 
+ | [wesnoth](/f20/package/wesnoth) | 13368 | 255926 | 5.2 | American English <kde-i18n-doc@kde.org> | 
+ | [redshift](/f20/package/redshift) | 52 | 1001 | 5.2 | Hebrew <he@li.org> | 
+ | [spacefm](/f20/package/spacefm) | 453 | 8727 | 5.2 | Hebrew (http://www.transifex.com/projects/p/spacefm/language/he/) | 
+ | [calibre](/f20/package/calibre) | 6629 | 129225 | 5.1 | Hebrew <kde-il@yahoogroups.com> | 
+ | [sugar-log](/f20/package/sugar-log) | 5 | 98 | 5.1 | LANGUAGE <LL@li.org> | 
+ | [freeciv](/f20/package/freeciv) | 4185 | 85592 | 4.9 | Hebrew <kde-il@yahoogroups.com> | 
+ | [pulsecaster](/f20/package/pulsecaster) | 7 | 147 | 4.8 | he <LL@li.org> | 
+ | [openerp-client](/f20/package/openerp-client) | 367 | 7729 | 4.7 | Hebrew <he@li.org> | 
+ | [libreport](/f20/package/libreport) | 141 | 3139 | 4.5 | Hebrew (http://www.transifex.com/projects/p/fedora/language/he/) | 
+ | [grep](/f20/package/grep) | 43 | 972 | 4.4 | Hebrew <eliz@gnu.org> | 
+ | [wammu](/f20/package/wammu) | 225 | 5230 | 4.3 | Hebrew <http://hosted.weblate.org/projects/gammu/wammu-doc/he/> | 
+ | [sugar-imageviewer](/f20/package/sugar-imageviewer) | 2 | 51 | 3.9 | LANGUAGE <LL@li.org> | 
+ | [libpwquality](/f20/package/libpwquality) | 13 | 343 | 3.8 | LANGUAGE <LL@li.org> | 
+ | [tracker](/f20/package/tracker) | 112 | 3147 | 3.6 | Gezer <sh.yaron@gmail.com> | 
+ | [widelands](/f20/package/widelands) | 1013 | 29683 | 3.4 | Hebrew <he@li.org> | 
+ | [bzr-explorer](/f20/package/bzr-explorer) | 56 | 1667 | 3.4 | Hebrew <he@li.org> | 
+ | [sugar-abacus](/f20/package/sugar-abacus) | 1 | 34 | 2.9 | LANGUAGE <LL@li.org> | 
+ | [goffice08](/f20/package/goffice08) | 134 | 4599 | 2.9 | Hebrew <he@li.org> | 
+ | [kcoloredit](/f20/package/kcoloredit) | 8 | 278 | 2.9 | Hebrew <kde-il@yahoogroups.com> | 
+ | [sugar-pippy](/f20/package/sugar-pippy) | 3 | 109 | 2.8 | LANGUAGE <LL@li.org> | 
+ | [gnome-abrt](/f20/package/gnome-abrt) | 9 | 385 | 2.3 | Hebrew (http://www.transifex.com/projects/p/gnome-abrt/language/he/) | 
+ | [pychess](/f20/package/pychess) | 71 | 3091 | 2.3 | Hebrew <he@li.org> | 
+ | [setroubleshoot](/f20/package/setroubleshoot) | 14 | 656 | 2.1 | Hebrew (http://www.transifex.com/projects/p/fedora/language/he/) | 
+ | [goffice](/f20/package/goffice) | 129 | 6201 | 2.1 | Hebrew <he@li.org> | 
+ | [mingw-libvirt](/f20/package/mingw-libvirt) | 939 | 45272 | 2.1 | LANGUAGE <LL@li.org> | 
+ | [libvirt](/f20/package/libvirt) | 939 | 45370 | 2.1 | LANGUAGE <LL@li.org> | 
+ | [ailurus](/f20/package/ailurus) | 151 | 7586 | 2.0 | none | 
+ | [NetworkManager-openconnect](/f20/package/NetworkManager-openconnect) | 54 | 2936 | 1.8 | Hebrew <sh.yaron@gmail.com> | 
+ | [php-horde-Horde-Argv](/f20/package/php-horde-Horde-Argv) | 1 | 60 | 1.7 | i18n@lists.horde.org | 
+ | [duplicity](/f20/package/duplicity) | 54 | 3402 | 1.6 | Hebrew <he@li.org> | 
+ | [kde-plasma-yawp](/f20/package/kde-plasma-yawp) | 54 | 4048 | 1.3 |  | 
+ | [php-horde-Horde-Core](/f20/package/php-horde-Horde-Core) | 10 | 771 | 1.3 | i18n@lists.horde.org | 
+ | [gammu](/f20/package/gammu) | 640 | 55475 | 1.2 | none | 
+ | [php-horde-horde](/f20/package/php-horde-horde) | 23 | 3474 | 0.7 | i18n@lists.horde.org | 
+ | [php-horde-Horde-Crypt](/f20/package/php-horde-Horde-Crypt) | 2 | 396 | 0.5 | i18n@lists.horde.org | 
+ | [NetworkManager-l2tp](/f20/package/NetworkManager-l2tp) | 3 | 753 | 0.4 | he | 
+ | [php-horde-Horde-Image](/f20/package/php-horde-Horde-Image) | 2 | 581 | 0.3 | i18n@lists.horde.org | 
+ | [xfconf](/f20/package/xfconf) | 1 | 451 | 0.2 | Hebrew <xfce-i18n@xfce.org> | 
+ | [php-horde-Horde-Form](/f20/package/php-horde-Horde-Form) | 1 | 553 | 0.2 | i18n@lists.horde.org | 
+ | [ibus](/f20/package/ibus) | 1 | 844 | 0.1 | Hebrew <trans-he@lists.fedoraproject.org> | 
+ | [tortoisehg](/f20/package/tortoisehg) | 9 | 11954 | 0.1 | Hebrew <he@li.org> | 
+ | [viking](/f20/package/viking) | 1 | 4135 | 0.0 | Hebrew <he@li.org> | 
+ | [accountsservice](/f20/package/accountsservice) | 0 | 59 | 0.0 | Hebrew (http://www.transifex.com/projects/p/freedesktop/language/he/) | 
+ | [authconfig](/f20/package/authconfig) | 0 | 1638 | 0.0 | Hebrew <he-users@lists.fedoraproject.org> | 
+ | [blueman](/f20/package/blueman) | 0 | 1446 | 0.0 | Hebrew (http://www.transifex.com/projects/p/MATE/language/he/) | 
+ | [bzr](/f20/package/bzr) | 0 | 33099 | 0.0 | Hebrew <he@li.org> | 
+ | [certmonger](/f20/package/certmonger) | 0 | 1669 | 0.0 | Hebrew (http://www.transifex.com/projects/p/certmonger/language/he/) | 
+ | [chkconfig](/f20/package/chkconfig) | 0 | 513 | 0.0 | Hebrew <he-users@lists.fedoraproject.org> | 
+ | [entangle](/f20/package/entangle) | 0 | 916 | 0.0 | Hebrew (http://www.transifex.com/projects/p/entangle/language/he/) | 
+ | [fonts-tweak-tool](/f20/package/fonts-tweak-tool) | 0 | 164 | 0.0 | Hebrew | 
+ | [fprintd](/f20/package/fprintd) | 0 | 419 | 0.0 | Hebrew (http://www.transifex.com/projects/p/freedesktop/language/he/) | 
+ | [girara](/f20/package/girara) | 0 | 229 | 0.0 | Hebrew (http://www.transifex.com/projects/p/girara/language/he/) | 
+ | [gnome-activity-journal](/f20/package/gnome-activity-journal) | 0 | 316 | 0.0 | Hebrew <he@li.org> | 
+ | [googsystray](/f20/package/googsystray) | 0 | 759 | 0.0 | Hebrew | 
+ | [im-chooser](/f20/package/im-chooser) | 0 | 237 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [imsettings](/f20/package/imsettings) | 0 | 440 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [initial-setup](/f20/package/initial-setup) | 0 | 29 | 0.0 | Hebrew (http://www.transifex.com/projects/p/fedora/language/he/) | 
+ | [initscripts](/f20/package/initscripts) | 0 | 1003 | 0.0 | Hebrew <he-users@lists.fedoraproject.org> | 
+ | [kexec-tools](/f20/package/kexec-tools) | 0 | 148 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [kf5-kauth](/f20/package/kf5-kauth) | 0 | 58 | 0.0 | Hebrew <kde-i18n-doc@kde.org> | 
+ | [kf5-kbookmarks](/f20/package/kf5-kbookmarks) | 0 | 218 | 0.0 | Hebrew <kde-i18n-doc@kde.org> | 
+ | [kf5-kcodecs](/f20/package/kf5-kcodecs) | 0 | 348 | 0.0 | Hebrew <kde-i18n-doc@kde.org> | 
+ | [kf5-kcompletion](/f20/package/kf5-kcompletion) | 0 | 20 | 0.0 | Hebrew <kde-i18n-doc@kde.org> | 
+ | [kf5-kconfig](/f20/package/kf5-kconfig) | 0 | 233 | 0.0 | Hebrew <kde-i18n-doc@kde.org> | 
+ | [kf5-kcoreaddons](/f20/package/kf5-kcoreaddons) | 0 | 252 | 0.0 | Hebrew <kde-i18n-doc@kde.org> | 
+ | [kf5-kdesignerplugin](/f20/package/kf5-kdesignerplugin) | 0 | 54 | 0.0 | Hebrew <kde-i18n-doc@kde.org> | 
+ | [kf5-kdnssd](/f20/package/kf5-kdnssd) | 0 | 3 | 0.0 | Hebrew <kde-i18n-doc@kde.org> | 
+ | [kf5-kitemviews](/f20/package/kf5-kitemviews) | 0 | 7 | 0.0 | Hebrew <kde-i18n-doc@kde.org> | 
+ | [kf5-kjobwidgets](/f20/package/kf5-kjobwidgets) | 0 | 141 | 0.0 | Hebrew <kde-i18n-doc@kde.org> | 
+ | [kf5-knotifications](/f20/package/kf5-knotifications) | 0 | 18 | 0.0 | Hebrew <kde-i18n-doc@kde.org> | 
+ | [kf5-kwidgetsaddons](/f20/package/kf5-kwidgetsaddons) | 0 | 1260 | 0.0 | Hebrew <kde-i18n-doc@kde.org> | 
+ | [kf5-kwindowsystem](/f20/package/kf5-kwindowsystem) | 0 | 2 | 0.0 | Hebrew <kde-i18n-doc@kde.org> | 
+ | [kf5-solid](/f20/package/kf5-solid) | 0 | 677 | 0.0 | Hebrew <kde-i18n-doc@kde.org> | 
+ | [kf5-sonnet](/f20/package/kf5-sonnet) | 0 | 659 | 0.0 | Hebrew <kde-i18n-doc@kde.org> | 
+ | [ldm](/f20/package/ldm) | 0 | 55 | 0.0 | Hebrew <he@li.org> | 
+ | [libgxim](/f20/package/libgxim) | 0 | 124 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [libvirt-sandbox](/f20/package/libvirt-sandbox) | 0 | 583 | 0.0 | Hebrew <he-users@lists.fedoraproject.org> | 
+ | [mingw-p11-kit](/f20/package/mingw-p11-kit) | 0 | 476 | 0.0 | Hebrew (http://www.transifex.com/projects/p/freedesktop/language/he/) | 
+ | [openstack-sahara](/f20/package/openstack-sahara) | 0 | 373 | 0.0 | Hebrew (http://www.transifex.com/projects/p/openstack/language/he/) | 
+ | [p11-kit](/f20/package/p11-kit) | 0 | 476 | 0.0 | Hebrew (http://www.transifex.com/projects/p/freedesktop/language/he/) | 
+ | [passwd](/f20/package/passwd) | 0 | 315 | 0.0 | Hebrew <he-users@lists.fedoraproject.org> | 
+ | [php-horde-Horde-Alarm](/f20/package/php-horde-Horde-Alarm) | 0 | 13 | 0.0 | i18n@lists.horde.org | 
+ | [php-horde-Horde-Browser](/f20/package/php-horde-Horde-Browser) | 0 | 66 | 0.0 | i18n@lists.horde.org | 
+ | [php-horde-Horde-Cli](/f20/package/php-horde-Horde-Cli) | 0 | 11 | 0.0 | i18n@lists.horde.org | 
+ | [php-horde-Horde-Compress](/f20/package/php-horde-Horde-Compress) | 0 | 25 | 0.0 | i18n@lists.horde.org | 
+ | [php-horde-Horde-Data](/f20/package/php-horde-Horde-Data) | 0 | 7 | 0.0 | i18n@lists.horde.org | 
+ | [php-horde-Horde-Date](/f20/package/php-horde-Horde-Date) | 0 | 36 | 0.0 | i18n@lists.horde.org | 
+ | [php-horde-Horde-Exception](/f20/package/php-horde-Horde-Exception) | 0 | 4 | 0.0 | i18n@lists.horde.org | 
+ | [php-horde-Horde-Icalendar](/f20/package/php-horde-Horde-Icalendar) | 0 | 3 | 0.0 | i18n@lists.horde.org | 
+ | [php-horde-Horde-Imsp](/f20/package/php-horde-Horde-Imsp) | 0 | 14 | 0.0 | i18n@lists.horde.org | 
+ | [php-horde-Horde-Itip](/f20/package/php-horde-Horde-Itip) | 0 | 56 | 0.0 | i18n@lists.horde.org | 
+ | [php-horde-Horde-Kolab-Storage](/f20/package/php-horde-Horde-Kolab-Storage) | 0 | 120 | 0.0 | i18n@lists.horde.org | 
+ | [php-horde-Horde-LoginTasks](/f20/package/php-horde-Horde-LoginTasks) | 0 | 6 | 0.0 | i18n@lists.horde.org | 
+ | [php-horde-Horde-Mime](/f20/package/php-horde-Horde-Mime) | 0 | 48 | 0.0 | i18n@lists.horde.org | 
+ | [php-horde-Horde-Mime-Viewer](/f20/package/php-horde-Horde-Mime-Viewer) | 0 | 0 | 0.0 | i18n@lists.horde.org | 
+ | [php-horde-Horde-Perms](/f20/package/php-horde-Horde-Perms) | 0 | 6 | 0.0 | i18n@lists.horde.org | 
+ | [php-horde-Horde-Prefs](/f20/package/php-horde-Horde-Prefs) | 0 | 32 | 0.0 | i18n@lists.horde.org | 
+ | [php-horde-Horde-Rpc](/f20/package/php-horde-Horde-Rpc) | 0 | 48 | 0.0 | i18n@lists.horde.org | 
+ | [php-horde-Horde-Share](/f20/package/php-horde-Horde-Share) | 0 | 48 | 0.0 | i18n@lists.horde.org | 
+ | [php-horde-Horde-SyncMl](/f20/package/php-horde-Horde-SyncMl) | 0 | 3 | 0.0 | i18n@lists.horde.org | 
+ | [php-horde-Horde-Text-Filter](/f20/package/php-horde-Horde-Text-Filter) | 0 | 1 | 0.0 | i18n@lists.horde.org | 
+ | [php-horde-Horde-Token](/f20/package/php-horde-Horde-Token) | 0 | 35 | 0.0 | i18n@lists.horde.org | 
+ | [php-horde-Horde-Vfs](/f20/package/php-horde-Horde-Vfs) | 0 | 10 | 0.0 | i18n@lists.horde.org | 
+ | [policycoreutils](/f20/package/policycoreutils) | 0 | 7678 | 0.0 | Hebrew <he-users@lists.fedoraproject.org> | 
+ | [python-meh](/f20/package/python-meh) | 0 | 109 | 0.0 | Hebrew <he-users@lists.fedoraproject.org> | 
+ | [retrace-server](/f20/package/retrace-server) | 0 | 381 | 0.0 | Hebrew | 
+ | [rhn-client-tools](/f20/package/rhn-client-tools) | 0 | 4194 | 0.0 | Hebrew <he-users@lists.fedoraproject.org> | 
+ | [rhnsd](/f20/package/rhnsd) | 0 | 37 | 0.0 | Hebrew <he-users@lists.fedoraproject.org> | 
+ | [setroubleshoot-plugins](/f20/package/setroubleshoot-plugins) | 0 | 9830 | 0.0 | Hebrew (http://www.transifex.com/projects/p/fedora/language/he/) | 
+ | [sos](/f20/package/sos) | 0 | 267 | 0.0 | none | 
+ | [spacewalk-backend](/f20/package/spacewalk-backend) | 0 | 1895 | 0.0 | Hebrew <he-users@lists.fedoraproject.org> | 
+ | [sugar-browse](/f20/package/sugar-browse) | 0 | 189 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-calendario](/f20/package/sugar-calendario) | 0 | 43 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-clock](/f20/package/sugar-clock) | 0 | 59 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-deducto](/f20/package/sugar-deducto) | 0 | 109 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-finance](/f20/package/sugar-finance) | 0 | 143 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-fototoon](/f20/package/sugar-fototoon) | 0 | 77 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-fractionbounce](/f20/package/sugar-fractionbounce) | 0 | 68 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-getiabooks](/f20/package/sugar-getiabooks) | 0 | 81 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-implode](/f20/package/sugar-implode) | 0 | 78 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-infoslicer](/f20/package/sugar-infoslicer) | 0 | 236 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-jukebox](/f20/package/sugar-jukebox) | 0 | 65 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-labyrinth](/f20/package/sugar-labyrinth) | 0 | 281 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-memorize](/f20/package/sugar-memorize) | 0 | 142 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-moon](/f20/package/sugar-moon) | 0 | 117 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-read](/f20/package/sugar-read) | 0 | 114 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-ruler](/f20/package/sugar-ruler) | 0 | 15 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-speak](/f20/package/sugar-speak) | 0 | 217 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-terminal](/f20/package/sugar-terminal) | 0 | 17 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-typing-turtle](/f20/package/sugar-typing-turtle) | 0 | 575 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-view-slides](/f20/package/sugar-view-slides) | 0 | 7 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-write](/f20/package/sugar-write) | 0 | 121 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [supertux](/f20/package/supertux) | 0 | 1630 | 0.0 | Hebrew (http://www.transifex.com/projects/p/supertux/language/he/) | 
+ | [system-config-bind](/f20/package/system-config-bind) | 0 | 9419 | 0.0 | none | 
+ | [system-config-date-docs](/f20/package/system-config-date-docs) | 0 | 761 | 0.0 | none | 
+ | [system-config-httpd](/f20/package/system-config-httpd) | 0 | 858 | 0.0 | none | 
+ | [system-config-kdump](/f20/package/system-config-kdump) | 0 | 877 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [system-config-network](/f20/package/system-config-network) | 0 | 3032 | 0.0 | none | 
+ | [system-config-nfs-docs](/f20/package/system-config-nfs-docs) | 0 | 1192 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [system-config-samba-docs](/f20/package/system-config-samba-docs) | 0 | 1195 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [system-config-users-docs](/f20/package/system-config-users-docs) | 0 | 1061 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [udisks2](/f20/package/udisks2) | 0 | 1485 | 0.0 | Hebrew (http://www.transifex.com/projects/p/freedesktop/language/he/) | 
+ | [virt-viewer](/f20/package/virt-viewer) | 0 | 615 | 0.0 | Hebrew (http://www.transifex.com/projects/p/fedora/language/he/) | 
+ | [yum-rhn-plugin](/f20/package/yum-rhn-plugin) | 0 | 146 | 0.0 | Hebrew <he-users@lists.fedoraproject.org> | 
+ | [zathura](/f20/package/zathura) | 0 | 540 | 0.0 | Hebrew (http://www.transifex.com/projects/p/zathura/language/he/) | 
+ | [zif](/f20/package/zif) | 0 | 859 | 0.0 | Hebrew (http://www.transifex.net/projects/p/freedesktop/team/he/) | 
 {.sortable}
 
 
@@ -758,7 +758,7 @@ We use the po metadata to get the language code and the team, but sometimes it f
 
 | Package | Lang from file path/name | polib error | Team |
 |---------|--------------------------|-------------|------|
- | [moin]({{< ref "/f20/package/moin.md" >}}) | /mnt/stockage/packages/f20/moin/MoinMoin/i18n/he.MoinMoin.po | error-os |  | 
+ | [moin](/f20/package/moin) | /mnt/stockage/packages/f20/moin/MoinMoin/i18n/he.MoinMoin.po | error-os |  | 
 {.sortable}
 
 

@@ -38,18 +38,18 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [dopewars]({{< ref "/f20/package/dopewars.md" >}}) | 5286 | 5286 | 100.0 | French | 
- | [nemo-extensions]({{< ref "/f20/package/nemo-extensions.md" >}}) | 1 | 1 | 100.0 | French (Canada) <fr_CA@li.org> | 
- | [soundconverter]({{< ref "/f20/package/soundconverter.md" >}}) | 388 | 388 | 100.0 | French (Canada) <fr_CA@li.org> | 
- | [scratch]({{< ref "/f20/package/scratch.md" >}}) | 1467 | 1470 | 99.8 | LANGUAGE <LL@li.org> | 
- | [wicd]({{< ref "/f20/package/wicd.md" >}}) | 1054 | 1138 | 92.6 | fr_CA <LL@li.org> | 
- | [mintmenu]({{< ref "/f20/package/mintmenu.md" >}}) | 4420 | 5334 | 82.9 | French (Canada) <fr_CA@li.org> | 
- | [cinnamon-translations]({{< ref "/f20/package/cinnamon-translations.md" >}}) | 4365 | 13313 | 32.8 | French (Canada) <fr_CA@li.org> | 
- | [picard]({{< ref "/f20/package/picard.md" >}}) | 157 | 1681 | 9.3 | French (Canada) (http://www.transifex.com/projects/p/musicbrainz/language/fr_CA/) | 
- | [supertuxkart]({{< ref "/f20/package/supertuxkart.md" >}}) | 67 | 2112 | 3.2 |  | 
- | [calibre]({{< ref "/f20/package/calibre.md" >}}) | 1294 | 118729 | 1.1 | French (Canada) <fr_CA@li.org> | 
- | [openerp7]({{< ref "/f20/package/openerp7.md" >}}) | 19 | 22614 | 0.1 | French (Canada) <fr_CA@li.org> | 
- | [pidgin-sipe]({{< ref "/f20/package/pidgin-sipe.md" >}}) | 0 | 903 | 0.0 | French (Canada) (http://www.transifex.com/projects/p/pidgin-sipe/language/fr_CA/) | 
+ | [dopewars](/f20/package/dopewars) | 5286 | 5286 | 100.0 | French | 
+ | [nemo-extensions](/f20/package/nemo-extensions) | 1 | 1 | 100.0 | French (Canada) <fr_CA@li.org> | 
+ | [soundconverter](/f20/package/soundconverter) | 388 | 388 | 100.0 | French (Canada) <fr_CA@li.org> | 
+ | [scratch](/f20/package/scratch) | 1467 | 1470 | 99.8 | LANGUAGE <LL@li.org> | 
+ | [wicd](/f20/package/wicd) | 1054 | 1138 | 92.6 | fr_CA <LL@li.org> | 
+ | [mintmenu](/f20/package/mintmenu) | 4420 | 5334 | 82.9 | French (Canada) <fr_CA@li.org> | 
+ | [cinnamon-translations](/f20/package/cinnamon-translations) | 4365 | 13313 | 32.8 | French (Canada) <fr_CA@li.org> | 
+ | [picard](/f20/package/picard) | 157 | 1681 | 9.3 | French (Canada) (http://www.transifex.com/projects/p/musicbrainz/language/fr_CA/) | 
+ | [supertuxkart](/f20/package/supertuxkart) | 67 | 2112 | 3.2 |  | 
+ | [calibre](/f20/package/calibre) | 1294 | 118729 | 1.1 | French (Canada) <fr_CA@li.org> | 
+ | [openerp7](/f20/package/openerp7) | 19 | 22614 | 0.1 | French (Canada) <fr_CA@li.org> | 
+ | [pidgin-sipe](/f20/package/pidgin-sipe) | 0 | 903 | 0.0 | French (Canada) (http://www.transifex.com/projects/p/pidgin-sipe/language/fr_CA/) | 
 {.sortable}
 
 

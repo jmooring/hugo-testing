@@ -18,17 +18,17 @@ The package cycle (version 0.3.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f10/language/ca.md" >}}) | 131 | 131 | 100.0 | /mnt/stockage/packages/f10/cycle/msg/ca.po | 
- | [cs]({{< ref "/f10/language/cs.md" >}}) | 126 | 126 | 100.0 | /mnt/stockage/packages/f10/cycle/msg/cs.po | 
- | [de]({{< ref "/f10/language/de.md" >}}) | 126 | 126 | 100.0 | /mnt/stockage/packages/f10/cycle/msg/de.po | 
- | [es]({{< ref "/f10/language/es.md" >}}) | 186 | 186 | 100.0 | /mnt/stockage/packages/f10/cycle/msg/es.po | 
- | [nb_NO]({{< ref "/f10/language/nb_NO.md" >}}) | 199 | 199 | 100.0 | /mnt/stockage/packages/f10/cycle/no.po | 
- | [nn]({{< ref "/f10/language/nn.md" >}}) | 199 | 199 | 100.0 | /mnt/stockage/packages/f10/cycle/nn.po | 
- | [ru]({{< ref "/f10/language/ru.md" >}}) | 186 | 186 | 100.0 | /mnt/stockage/packages/f10/cycle/msg/ru.po | 
- | [sk]({{< ref "/f10/language/sk.md" >}}) | 126 | 126 | 100.0 | /mnt/stockage/packages/f10/cycle/msg/sk.po | 
- | [sv]({{< ref "/f10/language/sv.md" >}}) | 196 | 196 | 100.0 | /mnt/stockage/packages/f10/cycle/sv.po | 
- | [gl]({{< ref "/f10/language/gl.md" >}}) | 187 | 190 | 98.4 | /mnt/stockage/packages/f10/cycle/msg/gl.po | 
- | [hu]({{< ref "/f10/language/hu.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f10/cycle/hu.po | 
+ | [ca](/f10/language/ca) | 131 | 131 | 100.0 | /mnt/stockage/packages/f10/cycle/msg/ca.po | 
+ | [cs](/f10/language/cs) | 126 | 126 | 100.0 | /mnt/stockage/packages/f10/cycle/msg/cs.po | 
+ | [de](/f10/language/de) | 126 | 126 | 100.0 | /mnt/stockage/packages/f10/cycle/msg/de.po | 
+ | [es](/f10/language/es) | 186 | 186 | 100.0 | /mnt/stockage/packages/f10/cycle/msg/es.po | 
+ | [nb_NO](/f10/language/nb_NO) | 199 | 199 | 100.0 | /mnt/stockage/packages/f10/cycle/no.po | 
+ | [nn](/f10/language/nn) | 199 | 199 | 100.0 | /mnt/stockage/packages/f10/cycle/nn.po | 
+ | [ru](/f10/language/ru) | 186 | 186 | 100.0 | /mnt/stockage/packages/f10/cycle/msg/ru.po | 
+ | [sk](/f10/language/sk) | 126 | 126 | 100.0 | /mnt/stockage/packages/f10/cycle/msg/sk.po | 
+ | [sv](/f10/language/sv) | 196 | 196 | 100.0 | /mnt/stockage/packages/f10/cycle/sv.po | 
+ | [gl](/f10/language/gl) | 187 | 190 | 98.4 | /mnt/stockage/packages/f10/cycle/msg/gl.po | 
+ | [hu](/f10/language/hu) | 0 | 0 | 0.0 | /mnt/stockage/packages/f10/cycle/hu.po | 
 {.sortable}
 
 

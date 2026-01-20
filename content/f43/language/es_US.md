@@ -44,12 +44,12 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [budgie-desktop]({{< ref "/f43/package/budgie-desktop.md" >}}) | 1201 | 1220 | 98.4 | Spanish (American) <http://translate.getsol.us/projects/budgie-desktop/translations/es_US/> | 
- | [duplicity]({{< ref "/f43/package/duplicity.md" >}}) | 1917 | 2171 | 88.3 | Spanish, United States | 
- | [visualboyadvance-m]({{< ref "/f43/package/visualboyadvance-m.md" >}}) | 1476 | 3170 | 46.6 | Spanish (United States) (http://app.transifex.com/bgk/vba-m/language/es_US/) | 
- | [minetest]({{< ref "/f43/package/minetest.md" >}}) | 1427 | 10452 | 13.7 | Spanish (American) <https://hosted.weblate.org/projects/minetest/minetest/es_US/> | 
- | [mate-menu]({{< ref "/f43/package/mate-menu.md" >}}) | 0 | 308 | 0.0 | Spanish (United States) (http://www.transifex.com/mate/MATE/language/es_US/) | 
- | [mate-themes]({{< ref "/f43/package/mate-themes.md" >}}) | 0 | 74 | 0.0 | Spanish (United States) (http://app.transifex.com/mate/MATE/language/es_US/) | 
+ | [budgie-desktop](/f43/package/budgie-desktop) | 1201 | 1220 | 98.4 | Spanish (American) <http://translate.getsol.us/projects/budgie-desktop/translations/es_US/> | 
+ | [duplicity](/f43/package/duplicity) | 1917 | 2171 | 88.3 | Spanish, United States | 
+ | [visualboyadvance-m](/f43/package/visualboyadvance-m) | 1476 | 3170 | 46.6 | Spanish (United States) (http://app.transifex.com/bgk/vba-m/language/es_US/) | 
+ | [minetest](/f43/package/minetest) | 1427 | 10452 | 13.7 | Spanish (American) <https://hosted.weblate.org/projects/minetest/minetest/es_US/> | 
+ | [mate-menu](/f43/package/mate-menu) | 0 | 308 | 0.0 | Spanish (United States) (http://www.transifex.com/mate/MATE/language/es_US/) | 
+ | [mate-themes](/f43/package/mate-themes) | 0 | 74 | 0.0 | Spanish (United States) (http://app.transifex.com/mate/MATE/language/es_US/) | 
 {.sortable}
 
 

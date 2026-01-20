@@ -38,36 +38,36 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [gnome-mag]({{< ref "/f13/package/gnome-mag.md" >}}) | 5 | 5 | 100.0 | Maori <maori@nzlinux.org.nz> | 
- | [gtk2]({{< ref "/f13/package/gtk2.md" >}}) | 1019 | 13704 | 7.4 | GNOME Māori Team <maori@nzlinux.org.nz> | 
- | [mingw32-gtk2]({{< ref "/f13/package/mingw32-gtk2.md" >}}) | 1019 | 13704 | 7.4 | GNOME Māori Team <maori@nzlinux.org.nz> | 
- | [gnome-desktop]({{< ref "/f13/package/gnome-desktop.md" >}}) | 20 | 320 | 6.2 | Māori <maori@nzlinux.org.nz> | 
- | [libgnomeui]({{< ref "/f13/package/libgnomeui.md" >}}) | 80 | 1419 | 5.6 | Māori <maori@nzlinux.org.nz> | 
- | [epiphany]({{< ref "/f13/package/epiphany.md" >}}) | 114 | 2732 | 4.2 | GNOME Māori Team <maori@nzlinux.org.nz> | 
- | [nautilus]({{< ref "/f13/package/nautilus.md" >}}) | 244 | 6976 | 3.5 | GNOME Māori Team <maori@nzlinux.org.nz> | 
- | [sugar-turtleart]({{< ref "/f13/package/sugar-turtleart.md" >}}) | 2 | 78 | 2.6 | LANGUAGE <LL@li.org> | 
- | [gedit]({{< ref "/f13/package/gedit.md" >}}) | 68 | 4206 | 1.6 | GNOME Māori Team <maori@nzlinux.org.nz> | 
- | [gnome-session]({{< ref "/f13/package/gnome-session.md" >}}) | 8 | 516 | 1.6 | Māori <maori@nzlinux.org.nz> | 
- | [iso-codes]({{< ref "/f13/package/iso-codes.md" >}}) | 80 | 12357 | 0.6 | Maori <james.gasson@clear.net.nz> | 
- | [gnome-panel]({{< ref "/f13/package/gnome-panel.md" >}}) | 9 | 3937 | 0.2 | Māori <maori@nzlinux.org.nz> | 
- | [gdm]({{< ref "/f13/package/gdm.md" >}}) | 10 | 5290 | 0.2 | Maori <maori@nzlinux.org.nz> | 
- | [gucharmap]({{< ref "/f13/package/gucharmap.md" >}}) | 0 | 507 | 0.0 | Maori <maori@nzlinux.org.nz> | 
- | [homebank]({{< ref "/f13/package/homebank.md" >}}) | 0 | 1509 | 0.0 | Maori <mi@li.org> | 
- | [libgtop2]({{< ref "/f13/package/libgtop2.md" >}}) | 0 | 134 | 0.0 | Maori <maori@nzlinux.org.nz> | 
- | [libwnck]({{< ref "/f13/package/libwnck.md" >}}) | 0 | 73 | 0.0 | Maori <maori@nzlinux.org.nz> | 
- | [olpc-switch-desktop]({{< ref "/f13/package/olpc-switch-desktop.md" >}}) | 0 | 158 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar]({{< ref "/f13/package/sugar.md" >}}) | 0 | 770 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-base]({{< ref "/f13/package/sugar-base.md" >}}) | 0 | 5 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-browse]({{< ref "/f13/package/sugar-browse.md" >}}) | 0 | 55 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-calculator]({{< ref "/f13/package/sugar-calculator.md" >}}) | 0 | 565 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-chat]({{< ref "/f13/package/sugar-chat.md" >}}) | 0 | 26 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-imageviewer]({{< ref "/f13/package/sugar-imageviewer.md" >}}) | 0 | 17 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-jukebox]({{< ref "/f13/package/sugar-jukebox.md" >}}) | 0 | 10 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-toolkit]({{< ref "/f13/package/sugar-toolkit.md" >}}) | 0 | 71 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-write]({{< ref "/f13/package/sugar-write.md" >}}) | 0 | 69 | 0.0 | LANGUAGE <LL@li.org> | 
- | [vidalia]({{< ref "/f13/package/vidalia.md" >}}) | 0 | 10375 | 0.0 | translations@vidalia-project.net | 
- | [vte]({{< ref "/f13/package/vte.md" >}}) | 0 | 96 | 0.0 | Maori <maori@nzlinux.org.nz> | 
- | [zenity]({{< ref "/f13/package/zenity.md" >}}) | 0 | 394 | 0.0 | Maori <maori@nzlinux.org.nz> | 
+ | [gnome-mag](/f13/package/gnome-mag) | 5 | 5 | 100.0 | Maori <maori@nzlinux.org.nz> | 
+ | [gtk2](/f13/package/gtk2) | 1019 | 13704 | 7.4 | GNOME Māori Team <maori@nzlinux.org.nz> | 
+ | [mingw32-gtk2](/f13/package/mingw32-gtk2) | 1019 | 13704 | 7.4 | GNOME Māori Team <maori@nzlinux.org.nz> | 
+ | [gnome-desktop](/f13/package/gnome-desktop) | 20 | 320 | 6.2 | Māori <maori@nzlinux.org.nz> | 
+ | [libgnomeui](/f13/package/libgnomeui) | 80 | 1419 | 5.6 | Māori <maori@nzlinux.org.nz> | 
+ | [epiphany](/f13/package/epiphany) | 114 | 2732 | 4.2 | GNOME Māori Team <maori@nzlinux.org.nz> | 
+ | [nautilus](/f13/package/nautilus) | 244 | 6976 | 3.5 | GNOME Māori Team <maori@nzlinux.org.nz> | 
+ | [sugar-turtleart](/f13/package/sugar-turtleart) | 2 | 78 | 2.6 | LANGUAGE <LL@li.org> | 
+ | [gedit](/f13/package/gedit) | 68 | 4206 | 1.6 | GNOME Māori Team <maori@nzlinux.org.nz> | 
+ | [gnome-session](/f13/package/gnome-session) | 8 | 516 | 1.6 | Māori <maori@nzlinux.org.nz> | 
+ | [iso-codes](/f13/package/iso-codes) | 80 | 12357 | 0.6 | Maori <james.gasson@clear.net.nz> | 
+ | [gnome-panel](/f13/package/gnome-panel) | 9 | 3937 | 0.2 | Māori <maori@nzlinux.org.nz> | 
+ | [gdm](/f13/package/gdm) | 10 | 5290 | 0.2 | Maori <maori@nzlinux.org.nz> | 
+ | [gucharmap](/f13/package/gucharmap) | 0 | 507 | 0.0 | Maori <maori@nzlinux.org.nz> | 
+ | [homebank](/f13/package/homebank) | 0 | 1509 | 0.0 | Maori <mi@li.org> | 
+ | [libgtop2](/f13/package/libgtop2) | 0 | 134 | 0.0 | Maori <maori@nzlinux.org.nz> | 
+ | [libwnck](/f13/package/libwnck) | 0 | 73 | 0.0 | Maori <maori@nzlinux.org.nz> | 
+ | [olpc-switch-desktop](/f13/package/olpc-switch-desktop) | 0 | 158 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar](/f13/package/sugar) | 0 | 770 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-base](/f13/package/sugar-base) | 0 | 5 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-browse](/f13/package/sugar-browse) | 0 | 55 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-calculator](/f13/package/sugar-calculator) | 0 | 565 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-chat](/f13/package/sugar-chat) | 0 | 26 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-imageviewer](/f13/package/sugar-imageviewer) | 0 | 17 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-jukebox](/f13/package/sugar-jukebox) | 0 | 10 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-toolkit](/f13/package/sugar-toolkit) | 0 | 71 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-write](/f13/package/sugar-write) | 0 | 69 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [vidalia](/f13/package/vidalia) | 0 | 10375 | 0.0 | translations@vidalia-project.net | 
+ | [vte](/f13/package/vte) | 0 | 96 | 0.0 | Maori <maori@nzlinux.org.nz> | 
+ | [zenity](/f13/package/zenity) | 0 | 394 | 0.0 | Maori <maori@nzlinux.org.nz> | 
 {.sortable}
 
 

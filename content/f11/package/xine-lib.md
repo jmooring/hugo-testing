@@ -18,18 +18,18 @@ The package xine-lib (version 1.1.16.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f11/language/cs.md" >}}) | 11286 | 11697 | 96.5 | /mnt/stockage/packages/f11/xine-lib/po/cs.po | 
- | [es]({{< ref "/f11/language/es.md" >}}) | 11194 | 11697 | 95.7 | /mnt/stockage/packages/f11/xine-lib/po/es.po | 
- | [it]({{< ref "/f11/language/it.md" >}}) | 10875 | 11697 | 93.0 | /mnt/stockage/packages/f11/xine-lib/po/it.po | 
- | [de]({{< ref "/f11/language/de.md" >}}) | 10740 | 11697 | 91.8 | /mnt/stockage/packages/f11/xine-lib/po/de.po | 
- | [tr]({{< ref "/f11/language/tr.md" >}}) | 10627 | 11697 | 90.9 | /mnt/stockage/packages/f11/xine-lib/po/tr.po | 
- | [eu]({{< ref "/f11/language/eu.md" >}}) | 5298 | 11697 | 45.3 | /mnt/stockage/packages/f11/xine-lib/po/eu.po | 
- | [eo]({{< ref "/f11/language/eo.md" >}}) | 5059 | 11697 | 43.3 | /mnt/stockage/packages/f11/xine-lib/po/eo.po | 
- | [sk]({{< ref "/f11/language/sk.md" >}}) | 3096 | 11697 | 26.5 | /mnt/stockage/packages/f11/xine-lib/po/sk.po | 
- | [fr]({{< ref "/f11/language/fr.md" >}}) | 2009 | 11697 | 17.2 | /mnt/stockage/packages/f11/xine-lib/po/fr.po | 
- | [pl]({{< ref "/f11/language/pl.md" >}}) | 469 | 11697 | 4.0 | /mnt/stockage/packages/f11/xine-lib/po/pl.po | 
- | [pt_BR]({{< ref "/f11/language/pt_BR.md" >}}) | 83 | 11697 | 0.7 | /mnt/stockage/packages/f11/xine-lib/po/pt_BR.po | 
- | [en_US]({{< ref "/f11/language/en_US.md" >}}) | 0 | 11697 | 0.0 | /mnt/stockage/packages/f11/xine-lib/po/en_US.po | 
+ | [cs](/f11/language/cs) | 11286 | 11697 | 96.5 | /mnt/stockage/packages/f11/xine-lib/po/cs.po | 
+ | [es](/f11/language/es) | 11194 | 11697 | 95.7 | /mnt/stockage/packages/f11/xine-lib/po/es.po | 
+ | [it](/f11/language/it) | 10875 | 11697 | 93.0 | /mnt/stockage/packages/f11/xine-lib/po/it.po | 
+ | [de](/f11/language/de) | 10740 | 11697 | 91.8 | /mnt/stockage/packages/f11/xine-lib/po/de.po | 
+ | [tr](/f11/language/tr) | 10627 | 11697 | 90.9 | /mnt/stockage/packages/f11/xine-lib/po/tr.po | 
+ | [eu](/f11/language/eu) | 5298 | 11697 | 45.3 | /mnt/stockage/packages/f11/xine-lib/po/eu.po | 
+ | [eo](/f11/language/eo) | 5059 | 11697 | 43.3 | /mnt/stockage/packages/f11/xine-lib/po/eo.po | 
+ | [sk](/f11/language/sk) | 3096 | 11697 | 26.5 | /mnt/stockage/packages/f11/xine-lib/po/sk.po | 
+ | [fr](/f11/language/fr) | 2009 | 11697 | 17.2 | /mnt/stockage/packages/f11/xine-lib/po/fr.po | 
+ | [pl](/f11/language/pl) | 469 | 11697 | 4.0 | /mnt/stockage/packages/f11/xine-lib/po/pl.po | 
+ | [pt_BR](/f11/language/pt_BR) | 83 | 11697 | 0.7 | /mnt/stockage/packages/f11/xine-lib/po/pt_BR.po | 
+ | [en_US](/f11/language/en_US) | 0 | 11697 | 0.0 | /mnt/stockage/packages/f11/xine-lib/po/en_US.po | 
 {.sortable}
 
 

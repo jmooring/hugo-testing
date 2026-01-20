@@ -38,9 +38,9 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [firstboot]({{< ref "/f16/package/firstboot.md" >}}) | 0 | 596 | 0.0 | LANGUAGE <LL@li.org> | 
- | [system-config-date]({{< ref "/f16/package/system-config-date.md" >}}) | 0 | 503 | 0.0 | LANGUAGE <LL@li.org> | 
- | [system-config-users]({{< ref "/f16/package/system-config-users.md" >}}) | 0 | 1452 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [firstboot](/f16/package/firstboot) | 0 | 596 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [system-config-date](/f16/package/system-config-date) | 0 | 503 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [system-config-users](/f16/package/system-config-users) | 0 | 1452 | 0.0 | LANGUAGE <LL@li.org> | 
 {.sortable}
 
 

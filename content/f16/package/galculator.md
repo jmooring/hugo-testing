@@ -18,16 +18,16 @@ The package galculator (version 1.3.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f16/language/de.md" >}}) | 693 | 798 | 86.8 | /mnt/stockage/packages/f16/galculator/po/de.po | 
- | [ja]({{< ref "/f16/language/ja.md" >}}) | 664 | 798 | 83.2 | /mnt/stockage/packages/f16/galculator/po/ja.po | 
- | [pt]({{< ref "/f16/language/pt.md" >}}) | 624 | 779 | 80.1 | /mnt/stockage/packages/f16/galculator/po/pt.po | 
- | [pt_BR]({{< ref "/f16/language/pt_BR.md" >}}) | 624 | 798 | 78.2 | /mnt/stockage/packages/f16/galculator/po/pt_BR.po | 
- | [pl]({{< ref "/f16/language/pl.md" >}}) | 621 | 798 | 77.8 | /mnt/stockage/packages/f16/galculator/po/pl.po | 
- | [fr]({{< ref "/f16/language/fr.md" >}}) | 492 | 798 | 61.7 | /mnt/stockage/packages/f16/galculator/po/fr.po | 
- | [ro]({{< ref "/f16/language/ro.md" >}}) | 492 | 798 | 61.7 | /mnt/stockage/packages/f16/galculator/po/ro.po | 
- | [sk]({{< ref "/f16/language/sk.md" >}}) | 362 | 798 | 45.4 | /mnt/stockage/packages/f16/galculator/po/sk.po | 
- | [ru]({{< ref "/f16/language/ru.md" >}}) | 350 | 798 | 43.9 | /mnt/stockage/packages/f16/galculator/po/ru.po | 
- | [es_MX]({{< ref "/f16/language/es_MX.md" >}}) | 101 | 798 | 12.7 | /mnt/stockage/packages/f16/galculator/po/es_MX.po | 
+ | [de](/f16/language/de) | 693 | 798 | 86.8 | /mnt/stockage/packages/f16/galculator/po/de.po | 
+ | [ja](/f16/language/ja) | 664 | 798 | 83.2 | /mnt/stockage/packages/f16/galculator/po/ja.po | 
+ | [pt](/f16/language/pt) | 624 | 779 | 80.1 | /mnt/stockage/packages/f16/galculator/po/pt.po | 
+ | [pt_BR](/f16/language/pt_BR) | 624 | 798 | 78.2 | /mnt/stockage/packages/f16/galculator/po/pt_BR.po | 
+ | [pl](/f16/language/pl) | 621 | 798 | 77.8 | /mnt/stockage/packages/f16/galculator/po/pl.po | 
+ | [fr](/f16/language/fr) | 492 | 798 | 61.7 | /mnt/stockage/packages/f16/galculator/po/fr.po | 
+ | [ro](/f16/language/ro) | 492 | 798 | 61.7 | /mnt/stockage/packages/f16/galculator/po/ro.po | 
+ | [sk](/f16/language/sk) | 362 | 798 | 45.4 | /mnt/stockage/packages/f16/galculator/po/sk.po | 
+ | [ru](/f16/language/ru) | 350 | 798 | 43.9 | /mnt/stockage/packages/f16/galculator/po/ru.po | 
+ | [es_MX](/f16/language/es_MX) | 101 | 798 | 12.7 | /mnt/stockage/packages/f16/galculator/po/es_MX.po | 
 {.sortable}
 
 

@@ -18,22 +18,22 @@ The package sdcc (version 4.4.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [da]({{< ref "/f42/language/da.md" >}}) | 9119 | 9119 | 100.0 | /mnt/stockage/packages/f42/sdcc/support/sdbinutils/bfd/po/da.po | 
- | [es]({{< ref "/f42/language/es.md" >}}) | 11953 | 11953 | 100.0 | /mnt/stockage/packages/f42/sdcc/support/sdbinutils/bfd/po/es.po | 
- | [fi]({{< ref "/f42/language/fi.md" >}}) | 9119 | 9119 | 100.0 | /mnt/stockage/packages/f42/sdcc/support/sdbinutils/bfd/po/fi.po | 
- | [fr]({{< ref "/f42/language/fr.md" >}}) | 12639 | 12639 | 100.0 | /mnt/stockage/packages/f42/sdcc/support/sdbinutils/bfd/po/fr.po | 
- | [id]({{< ref "/f42/language/id.md" >}}) | 8369 | 8369 | 100.0 | /mnt/stockage/packages/f42/sdcc/support/sdbinutils/bfd/po/id.po | 
- | [ru]({{< ref "/f42/language/ru.md" >}}) | 12465 | 12465 | 100.0 | /mnt/stockage/packages/f42/sdcc/support/sdbinutils/bfd/po/ru.po | 
- | [sr]({{< ref "/f42/language/sr.md" >}}) | 12465 | 12465 | 100.0 | /mnt/stockage/packages/f42/sdcc/support/sdbinutils/bfd/po/sr.po | 
- | [sv]({{< ref "/f42/language/sv.md" >}}) | 9119 | 9119 | 100.0 | /mnt/stockage/packages/f42/sdcc/support/sdbinutils/bfd/po/sv.po | 
- | [tr]({{< ref "/f42/language/tr.md" >}}) | 4098 | 4098 | 100.0 | /mnt/stockage/packages/f42/sdcc/support/sdbinutils/bfd/po/tr.po | 
- | [uk]({{< ref "/f42/language/uk.md" >}}) | 12639 | 12639 | 100.0 | /mnt/stockage/packages/f42/sdcc/support/sdbinutils/bfd/po/uk.po | 
- | [vi]({{< ref "/f42/language/vi.md" >}}) | 8369 | 8369 | 100.0 | /mnt/stockage/packages/f42/sdcc/support/sdbinutils/bfd/po/vi.po | 
- | [ja]({{< ref "/f42/language/ja.md" >}}) | 6811 | 8230 | 82.8 | /mnt/stockage/packages/f42/sdcc/support/sdbinutils/bfd/po/ja.po | 
- | [zh_Hans]({{< ref "/f42/language/zh_Hans.md" >}}) | 935 | 9119 | 10.3 | /mnt/stockage/packages/f42/sdcc/support/sdbinutils/bfd/po/zh_CN.po | 
- | [ro]({{< ref "/f42/language/ro.md" >}}) | 724 | 12639 | 5.7 | /mnt/stockage/packages/f42/sdcc/support/sdbinutils/bfd/po/ro.po | 
- | [hr]({{< ref "/f42/language/hr.md" >}}) | 195 | 8369 | 2.3 | /mnt/stockage/packages/f42/sdcc/support/sdbinutils/bfd/po/hr.po | 
- | [rw]({{< ref "/f42/language/rw.md" >}}) | 2 | 4098 | 0.0 | /mnt/stockage/packages/f42/sdcc/support/sdbinutils/bfd/po/rw.po | 
+ | [da](/f42/language/da) | 9119 | 9119 | 100.0 | /mnt/stockage/packages/f42/sdcc/support/sdbinutils/bfd/po/da.po | 
+ | [es](/f42/language/es) | 11953 | 11953 | 100.0 | /mnt/stockage/packages/f42/sdcc/support/sdbinutils/bfd/po/es.po | 
+ | [fi](/f42/language/fi) | 9119 | 9119 | 100.0 | /mnt/stockage/packages/f42/sdcc/support/sdbinutils/bfd/po/fi.po | 
+ | [fr](/f42/language/fr) | 12639 | 12639 | 100.0 | /mnt/stockage/packages/f42/sdcc/support/sdbinutils/bfd/po/fr.po | 
+ | [id](/f42/language/id) | 8369 | 8369 | 100.0 | /mnt/stockage/packages/f42/sdcc/support/sdbinutils/bfd/po/id.po | 
+ | [ru](/f42/language/ru) | 12465 | 12465 | 100.0 | /mnt/stockage/packages/f42/sdcc/support/sdbinutils/bfd/po/ru.po | 
+ | [sr](/f42/language/sr) | 12465 | 12465 | 100.0 | /mnt/stockage/packages/f42/sdcc/support/sdbinutils/bfd/po/sr.po | 
+ | [sv](/f42/language/sv) | 9119 | 9119 | 100.0 | /mnt/stockage/packages/f42/sdcc/support/sdbinutils/bfd/po/sv.po | 
+ | [tr](/f42/language/tr) | 4098 | 4098 | 100.0 | /mnt/stockage/packages/f42/sdcc/support/sdbinutils/bfd/po/tr.po | 
+ | [uk](/f42/language/uk) | 12639 | 12639 | 100.0 | /mnt/stockage/packages/f42/sdcc/support/sdbinutils/bfd/po/uk.po | 
+ | [vi](/f42/language/vi) | 8369 | 8369 | 100.0 | /mnt/stockage/packages/f42/sdcc/support/sdbinutils/bfd/po/vi.po | 
+ | [ja](/f42/language/ja) | 6811 | 8230 | 82.8 | /mnt/stockage/packages/f42/sdcc/support/sdbinutils/bfd/po/ja.po | 
+ | [zh_Hans](/f42/language/zh_Hans) | 935 | 9119 | 10.3 | /mnt/stockage/packages/f42/sdcc/support/sdbinutils/bfd/po/zh_CN.po | 
+ | [ro](/f42/language/ro) | 724 | 12639 | 5.7 | /mnt/stockage/packages/f42/sdcc/support/sdbinutils/bfd/po/ro.po | 
+ | [hr](/f42/language/hr) | 195 | 8369 | 2.3 | /mnt/stockage/packages/f42/sdcc/support/sdbinutils/bfd/po/hr.po | 
+ | [rw](/f42/language/rw) | 2 | 4098 | 0.0 | /mnt/stockage/packages/f42/sdcc/support/sdbinutils/bfd/po/rw.po | 
 {.sortable}
 
 

@@ -18,18 +18,18 @@ The package git-cola (version 2.0.8):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [zh_Hant]({{< ref "/f19/language/zh_Hant.md" >}}) | 1644 | 1752 | 93.8 | /mnt/stockage/packages/f19/git-cola/po/zh_TW.po/mnt/stockage/packages/f19/git-cola/po/glossary/zh_tw.po | 
- | [zh_Hans]({{< ref "/f19/language/zh_Hans.md" >}}) | 1614 | 1747 | 92.4 | /mnt/stockage/packages/f19/git-cola/po/zh_CN.po/mnt/stockage/packages/f19/git-cola/po/glossary/zh_cn.po | 
- | [id]({{< ref "/f19/language/id.md" >}}) | 1543 | 1679 | 91.9 | /mnt/stockage/packages/f19/git-cola/po/id_ID.po | 
- | [de]({{< ref "/f19/language/de.md" >}}) | 1421 | 1751 | 81.2 | /mnt/stockage/packages/f19/git-cola/po/de.po/mnt/stockage/packages/f19/git-cola/po/glossary/de.po | 
- | [pt_BR]({{< ref "/f19/language/pt_BR.md" >}}) | 641 | 1677 | 38.2 | /mnt/stockage/packages/f19/git-cola/po/pt_BR.po | 
- | [es]({{< ref "/f19/language/es.md" >}}) | 599 | 1677 | 35.7 | /mnt/stockage/packages/f19/git-cola/po/es.po | 
- | [it]({{< ref "/f19/language/it.md" >}}) | 219 | 1751 | 12.5 | /mnt/stockage/packages/f19/git-cola/po/it.po/mnt/stockage/packages/f19/git-cola/po/glossary/it.po | 
- | [fr]({{< ref "/f19/language/fr.md" >}}) | 145 | 1677 | 8.6 | /mnt/stockage/packages/f19/git-cola/po/fr.po | 
- | [hu]({{< ref "/f19/language/hu.md" >}}) | 145 | 1677 | 8.6 | /mnt/stockage/packages/f19/git-cola/po/hu.po | 
- | [ja]({{< ref "/f19/language/ja.md" >}}) | 145 | 1677 | 8.6 | /mnt/stockage/packages/f19/git-cola/po/ja.po | 
- | [ru]({{< ref "/f19/language/ru.md" >}}) | 145 | 1677 | 8.6 | /mnt/stockage/packages/f19/git-cola/po/ru.po | 
- | [sv]({{< ref "/f19/language/sv.md" >}}) | 145 | 1677 | 8.6 | /mnt/stockage/packages/f19/git-cola/po/sv.po | 
+ | [zh_Hant](/f19/language/zh_Hant) | 1644 | 1752 | 93.8 | /mnt/stockage/packages/f19/git-cola/po/zh_TW.po/mnt/stockage/packages/f19/git-cola/po/glossary/zh_tw.po | 
+ | [zh_Hans](/f19/language/zh_Hans) | 1614 | 1747 | 92.4 | /mnt/stockage/packages/f19/git-cola/po/zh_CN.po/mnt/stockage/packages/f19/git-cola/po/glossary/zh_cn.po | 
+ | [id](/f19/language/id) | 1543 | 1679 | 91.9 | /mnt/stockage/packages/f19/git-cola/po/id_ID.po | 
+ | [de](/f19/language/de) | 1421 | 1751 | 81.2 | /mnt/stockage/packages/f19/git-cola/po/de.po/mnt/stockage/packages/f19/git-cola/po/glossary/de.po | 
+ | [pt_BR](/f19/language/pt_BR) | 641 | 1677 | 38.2 | /mnt/stockage/packages/f19/git-cola/po/pt_BR.po | 
+ | [es](/f19/language/es) | 599 | 1677 | 35.7 | /mnt/stockage/packages/f19/git-cola/po/es.po | 
+ | [it](/f19/language/it) | 219 | 1751 | 12.5 | /mnt/stockage/packages/f19/git-cola/po/it.po/mnt/stockage/packages/f19/git-cola/po/glossary/it.po | 
+ | [fr](/f19/language/fr) | 145 | 1677 | 8.6 | /mnt/stockage/packages/f19/git-cola/po/fr.po | 
+ | [hu](/f19/language/hu) | 145 | 1677 | 8.6 | /mnt/stockage/packages/f19/git-cola/po/hu.po | 
+ | [ja](/f19/language/ja) | 145 | 1677 | 8.6 | /mnt/stockage/packages/f19/git-cola/po/ja.po | 
+ | [ru](/f19/language/ru) | 145 | 1677 | 8.6 | /mnt/stockage/packages/f19/git-cola/po/ru.po | 
+ | [sv](/f19/language/sv) | 145 | 1677 | 8.6 | /mnt/stockage/packages/f19/git-cola/po/sv.po | 
 {.sortable}
 
 

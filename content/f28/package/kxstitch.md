@@ -18,31 +18,31 @@ The package kxstitch (version 2.0.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f28/language/ca.md" >}}) | 1966 | 1966 | 100.0 | /mnt/stockage/packages/f28/kxstitch/po/ca/kxstitch.po | 
- | [ca@valencia]({{< ref "/f28/language/ca@valencia.md" >}}) | 1966 | 1966 | 100.0 | /mnt/stockage/packages/f28/kxstitch/po/ca@valencia/kxstitch.po | 
- | [en_GB]({{< ref "/f28/language/en_GB.md" >}}) | 1966 | 1966 | 100.0 | /mnt/stockage/packages/f28/kxstitch/po/en_GB/kxstitch.po | 
- | [es]({{< ref "/f28/language/es.md" >}}) | 1966 | 1966 | 100.0 | /mnt/stockage/packages/f28/kxstitch/po/es/kxstitch.po | 
- | [gl]({{< ref "/f28/language/gl.md" >}}) | 1966 | 1966 | 100.0 | /mnt/stockage/packages/f28/kxstitch/po/gl/kxstitch.po | 
- | [nl]({{< ref "/f28/language/nl.md" >}}) | 1966 | 1966 | 100.0 | /mnt/stockage/packages/f28/kxstitch/po/nl/kxstitch.po | 
- | [nn]({{< ref "/f28/language/nn.md" >}}) | 1966 | 1966 | 100.0 | /mnt/stockage/packages/f28/kxstitch/po/nn/kxstitch.po | 
- | [pl]({{< ref "/f28/language/pl.md" >}}) | 1966 | 1966 | 100.0 | /mnt/stockage/packages/f28/kxstitch/po/pl/kxstitch.po | 
- | [pt]({{< ref "/f28/language/pt.md" >}}) | 1966 | 1966 | 100.0 | /mnt/stockage/packages/f28/kxstitch/po/pt/kxstitch.po | 
- | [pt_BR]({{< ref "/f28/language/pt_BR.md" >}}) | 1966 | 1966 | 100.0 | /mnt/stockage/packages/f28/kxstitch/po/pt_BR/kxstitch.po | 
- | [sk]({{< ref "/f28/language/sk.md" >}}) | 1966 | 1966 | 100.0 | /mnt/stockage/packages/f28/kxstitch/po/sk/kxstitch.po | 
- | [sv]({{< ref "/f28/language/sv.md" >}}) | 1966 | 1966 | 100.0 | /mnt/stockage/packages/f28/kxstitch/po/sv/kxstitch.po | 
- | [uk]({{< ref "/f28/language/uk.md" >}}) | 1966 | 1966 | 100.0 | /mnt/stockage/packages/f28/kxstitch/po/uk/kxstitch.po | 
- | [cs]({{< ref "/f28/language/cs.md" >}}) | 1928 | 1966 | 98.1 | /mnt/stockage/packages/f28/kxstitch/po/cs/kxstitch.po | 
- | [bs]({{< ref "/f28/language/bs.md" >}}) | 1848 | 1966 | 94.0 | /mnt/stockage/packages/f28/kxstitch/po/bs/kxstitch.po | 
- | [et]({{< ref "/f28/language/et.md" >}}) | 1848 | 1966 | 94.0 | /mnt/stockage/packages/f28/kxstitch/po/et/kxstitch.po | 
- | [fr]({{< ref "/f28/language/fr.md" >}}) | 1745 | 1966 | 88.8 | /mnt/stockage/packages/f28/kxstitch/po/fr/kxstitch.po | 
- | [it]({{< ref "/f28/language/it.md" >}}) | 1725 | 1966 | 87.7 | /mnt/stockage/packages/f28/kxstitch/po/it/kxstitch.po | 
- | [de]({{< ref "/f28/language/de.md" >}}) | 1195 | 1966 | 60.8 | /mnt/stockage/packages/f28/kxstitch/po/de/kxstitch.po | 
- | [hu]({{< ref "/f28/language/hu.md" >}}) | 106 | 1966 | 5.4 | /mnt/stockage/packages/f28/kxstitch/po/hu/kxstitch.po | 
- | [zh_Hans]({{< ref "/f28/language/zh_Hans.md" >}}) | 16 | 1966 | 0.8 | /mnt/stockage/packages/f28/kxstitch/po/zh_CN/kxstitch.po | 
- | [ast]({{< ref "/f28/language/ast.md" >}}) | 5 | 1966 | 0.3 | /mnt/stockage/packages/f28/kxstitch/po/ast/kxstitch.po | 
- | [ja]({{< ref "/f28/language/ja.md" >}}) | 0 | 1966 | 0.0 | /mnt/stockage/packages/f28/kxstitch/po/ja/kxstitch.po | 
- | [lt]({{< ref "/f28/language/lt.md" >}}) | 0 | 1966 | 0.0 | /mnt/stockage/packages/f28/kxstitch/po/lt/kxstitch.po | 
- | [zh_Hant]({{< ref "/f28/language/zh_Hant.md" >}}) | 0 | 1966 | 0.0 | /mnt/stockage/packages/f28/kxstitch/po/zh_TW/kxstitch.po | 
+ | [ca](/f28/language/ca) | 1966 | 1966 | 100.0 | /mnt/stockage/packages/f28/kxstitch/po/ca/kxstitch.po | 
+ | [ca@valencia](/f28/language/ca@valencia) | 1966 | 1966 | 100.0 | /mnt/stockage/packages/f28/kxstitch/po/ca@valencia/kxstitch.po | 
+ | [en_GB](/f28/language/en_GB) | 1966 | 1966 | 100.0 | /mnt/stockage/packages/f28/kxstitch/po/en_GB/kxstitch.po | 
+ | [es](/f28/language/es) | 1966 | 1966 | 100.0 | /mnt/stockage/packages/f28/kxstitch/po/es/kxstitch.po | 
+ | [gl](/f28/language/gl) | 1966 | 1966 | 100.0 | /mnt/stockage/packages/f28/kxstitch/po/gl/kxstitch.po | 
+ | [nl](/f28/language/nl) | 1966 | 1966 | 100.0 | /mnt/stockage/packages/f28/kxstitch/po/nl/kxstitch.po | 
+ | [nn](/f28/language/nn) | 1966 | 1966 | 100.0 | /mnt/stockage/packages/f28/kxstitch/po/nn/kxstitch.po | 
+ | [pl](/f28/language/pl) | 1966 | 1966 | 100.0 | /mnt/stockage/packages/f28/kxstitch/po/pl/kxstitch.po | 
+ | [pt](/f28/language/pt) | 1966 | 1966 | 100.0 | /mnt/stockage/packages/f28/kxstitch/po/pt/kxstitch.po | 
+ | [pt_BR](/f28/language/pt_BR) | 1966 | 1966 | 100.0 | /mnt/stockage/packages/f28/kxstitch/po/pt_BR/kxstitch.po | 
+ | [sk](/f28/language/sk) | 1966 | 1966 | 100.0 | /mnt/stockage/packages/f28/kxstitch/po/sk/kxstitch.po | 
+ | [sv](/f28/language/sv) | 1966 | 1966 | 100.0 | /mnt/stockage/packages/f28/kxstitch/po/sv/kxstitch.po | 
+ | [uk](/f28/language/uk) | 1966 | 1966 | 100.0 | /mnt/stockage/packages/f28/kxstitch/po/uk/kxstitch.po | 
+ | [cs](/f28/language/cs) | 1928 | 1966 | 98.1 | /mnt/stockage/packages/f28/kxstitch/po/cs/kxstitch.po | 
+ | [bs](/f28/language/bs) | 1848 | 1966 | 94.0 | /mnt/stockage/packages/f28/kxstitch/po/bs/kxstitch.po | 
+ | [et](/f28/language/et) | 1848 | 1966 | 94.0 | /mnt/stockage/packages/f28/kxstitch/po/et/kxstitch.po | 
+ | [fr](/f28/language/fr) | 1745 | 1966 | 88.8 | /mnt/stockage/packages/f28/kxstitch/po/fr/kxstitch.po | 
+ | [it](/f28/language/it) | 1725 | 1966 | 87.7 | /mnt/stockage/packages/f28/kxstitch/po/it/kxstitch.po | 
+ | [de](/f28/language/de) | 1195 | 1966 | 60.8 | /mnt/stockage/packages/f28/kxstitch/po/de/kxstitch.po | 
+ | [hu](/f28/language/hu) | 106 | 1966 | 5.4 | /mnt/stockage/packages/f28/kxstitch/po/hu/kxstitch.po | 
+ | [zh_Hans](/f28/language/zh_Hans) | 16 | 1966 | 0.8 | /mnt/stockage/packages/f28/kxstitch/po/zh_CN/kxstitch.po | 
+ | [ast](/f28/language/ast) | 5 | 1966 | 0.3 | /mnt/stockage/packages/f28/kxstitch/po/ast/kxstitch.po | 
+ | [ja](/f28/language/ja) | 0 | 1966 | 0.0 | /mnt/stockage/packages/f28/kxstitch/po/ja/kxstitch.po | 
+ | [lt](/f28/language/lt) | 0 | 1966 | 0.0 | /mnt/stockage/packages/f28/kxstitch/po/lt/kxstitch.po | 
+ | [zh_Hant](/f28/language/zh_Hant) | 0 | 1966 | 0.0 | /mnt/stockage/packages/f28/kxstitch/po/zh_TW/kxstitch.po | 
 {.sortable}
 
 

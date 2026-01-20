@@ -18,13 +18,13 @@ The package vdr-osdteletext (version 0.6.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f10/language/de.md" >}}) | 41 | 43 | 95.3 | /mnt/stockage/packages/f10/vdr-osdteletext/po/de_DE.po | 
- | [fi]({{< ref "/f10/language/fi.md" >}}) | 41 | 43 | 95.3 | /mnt/stockage/packages/f10/vdr-osdteletext/po/fi_FI.po | 
- | [ca]({{< ref "/f10/language/ca.md" >}}) | 35 | 43 | 81.4 | /mnt/stockage/packages/f10/vdr-osdteletext/po/ca_ES.po | 
- | [fr]({{< ref "/f10/language/fr.md" >}}) | 35 | 43 | 81.4 | /mnt/stockage/packages/f10/vdr-osdteletext/po/fr_FR.po | 
- | [it]({{< ref "/f10/language/it.md" >}}) | 35 | 43 | 81.4 | /mnt/stockage/packages/f10/vdr-osdteletext/po/it_IT.po | 
- | [ru]({{< ref "/f10/language/ru.md" >}}) | 35 | 43 | 81.4 | /mnt/stockage/packages/f10/vdr-osdteletext/po/ru_RU.po | 
- | [es]({{< ref "/f10/language/es.md" >}}) | 33 | 43 | 76.7 | /mnt/stockage/packages/f10/vdr-osdteletext/po/es_ES.po | 
+ | [de](/f10/language/de) | 41 | 43 | 95.3 | /mnt/stockage/packages/f10/vdr-osdteletext/po/de_DE.po | 
+ | [fi](/f10/language/fi) | 41 | 43 | 95.3 | /mnt/stockage/packages/f10/vdr-osdteletext/po/fi_FI.po | 
+ | [ca](/f10/language/ca) | 35 | 43 | 81.4 | /mnt/stockage/packages/f10/vdr-osdteletext/po/ca_ES.po | 
+ | [fr](/f10/language/fr) | 35 | 43 | 81.4 | /mnt/stockage/packages/f10/vdr-osdteletext/po/fr_FR.po | 
+ | [it](/f10/language/it) | 35 | 43 | 81.4 | /mnt/stockage/packages/f10/vdr-osdteletext/po/it_IT.po | 
+ | [ru](/f10/language/ru) | 35 | 43 | 81.4 | /mnt/stockage/packages/f10/vdr-osdteletext/po/ru_RU.po | 
+ | [es](/f10/language/es) | 33 | 43 | 76.7 | /mnt/stockage/packages/f10/vdr-osdteletext/po/es_ES.po | 
 {.sortable}
 
 

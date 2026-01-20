@@ -18,10 +18,10 @@ The package gq (version 1.3.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ja]({{< ref "/f17/language/ja.md" >}}) | 2634 | 2660 | 99.0 | /mnt/stockage/packages/f17/gq/po/ja.po | 
- | [de]({{< ref "/f17/language/de.md" >}}) | 1976 | 2961 | 66.7 | /mnt/stockage/packages/f17/gq/help/gq-manual/de/de.po/mnt/stockage/packages/f17/gq/po/de.po | 
- | [zh_Hans]({{< ref "/f17/language/zh_Hans.md" >}}) | 854 | 1937 | 44.1 | /mnt/stockage/packages/f17/gq/po/zh_CN.po | 
- | [cs]({{< ref "/f17/language/cs.md" >}}) | 461 | 1937 | 23.8 | /mnt/stockage/packages/f17/gq/po/cs.po | 
+ | [ja](/f17/language/ja) | 2634 | 2660 | 99.0 | /mnt/stockage/packages/f17/gq/po/ja.po | 
+ | [de](/f17/language/de) | 1976 | 2961 | 66.7 | /mnt/stockage/packages/f17/gq/help/gq-manual/de/de.po/mnt/stockage/packages/f17/gq/po/de.po | 
+ | [zh_Hans](/f17/language/zh_Hans) | 854 | 1937 | 44.1 | /mnt/stockage/packages/f17/gq/po/zh_CN.po | 
+ | [cs](/f17/language/cs) | 461 | 1937 | 23.8 | /mnt/stockage/packages/f17/gq/po/cs.po | 
 {.sortable}
 
 

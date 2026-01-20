@@ -18,20 +18,20 @@ The package linux_logo (version 5.01):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f8/language/de.md" >}}) | 45 | 45 | 100.0 | /mnt/stockage/packages/f8/linux_logo/po/de.po | 
- | [es]({{< ref "/f8/language/es.md" >}}) | 45 | 45 | 100.0 | /mnt/stockage/packages/f8/linux_logo/po/es.po | 
- | [fr]({{< ref "/f8/language/fr.md" >}}) | 45 | 45 | 100.0 | /mnt/stockage/packages/f8/linux_logo/po/fr.po | 
- | [it]({{< ref "/f8/language/it.md" >}}) | 45 | 45 | 100.0 | /mnt/stockage/packages/f8/linux_logo/po/it.po | 
- | [nb_NO]({{< ref "/f8/language/nb_NO.md" >}}) | 45 | 45 | 100.0 | /mnt/stockage/packages/f8/linux_logo/po/nb.po | 
- | [pl]({{< ref "/f8/language/pl.md" >}}) | 44 | 44 | 100.0 | /mnt/stockage/packages/f8/linux_logo/po/pl.po | 
- | [pt_BR]({{< ref "/f8/language/pt_BR.md" >}}) | 45 | 45 | 100.0 | /mnt/stockage/packages/f8/linux_logo/po/pt_BR.po | 
- | [ru]({{< ref "/f8/language/ru.md" >}}) | 45 | 45 | 100.0 | /mnt/stockage/packages/f8/linux_logo/po/ru.po | 
- | [sv]({{< ref "/f8/language/sv.md" >}}) | 45 | 45 | 100.0 | /mnt/stockage/packages/f8/linux_logo/po/sv.po | 
- | [uk]({{< ref "/f8/language/uk.md" >}}) | 45 | 45 | 100.0 | /mnt/stockage/packages/f8/linux_logo/po/ua.po | 
- | [zh_Hant]({{< ref "/f8/language/zh_Hant.md" >}}) | 45 | 45 | 100.0 | /mnt/stockage/packages/f8/linux_logo/po/zh_TW.po | 
- | [da]({{< ref "/f8/language/da.md" >}}) | 11 | 45 | 24.4 | /mnt/stockage/packages/f8/linux_logo/po/da.po | 
- | [nl]({{< ref "/f8/language/nl.md" >}}) | 11 | 45 | 24.4 | /mnt/stockage/packages/f8/linux_logo/po/nl.po | 
- | [error]({{< ref "/f8/language/error.md" >}}) | 0 | 45 | 0.0 | /mnt/stockage/packages/f8/linux_logo/po/messages.po | 
+ | [de](/f8/language/de) | 45 | 45 | 100.0 | /mnt/stockage/packages/f8/linux_logo/po/de.po | 
+ | [es](/f8/language/es) | 45 | 45 | 100.0 | /mnt/stockage/packages/f8/linux_logo/po/es.po | 
+ | [fr](/f8/language/fr) | 45 | 45 | 100.0 | /mnt/stockage/packages/f8/linux_logo/po/fr.po | 
+ | [it](/f8/language/it) | 45 | 45 | 100.0 | /mnt/stockage/packages/f8/linux_logo/po/it.po | 
+ | [nb_NO](/f8/language/nb_NO) | 45 | 45 | 100.0 | /mnt/stockage/packages/f8/linux_logo/po/nb.po | 
+ | [pl](/f8/language/pl) | 44 | 44 | 100.0 | /mnt/stockage/packages/f8/linux_logo/po/pl.po | 
+ | [pt_BR](/f8/language/pt_BR) | 45 | 45 | 100.0 | /mnt/stockage/packages/f8/linux_logo/po/pt_BR.po | 
+ | [ru](/f8/language/ru) | 45 | 45 | 100.0 | /mnt/stockage/packages/f8/linux_logo/po/ru.po | 
+ | [sv](/f8/language/sv) | 45 | 45 | 100.0 | /mnt/stockage/packages/f8/linux_logo/po/sv.po | 
+ | [uk](/f8/language/uk) | 45 | 45 | 100.0 | /mnt/stockage/packages/f8/linux_logo/po/ua.po | 
+ | [zh_Hant](/f8/language/zh_Hant) | 45 | 45 | 100.0 | /mnt/stockage/packages/f8/linux_logo/po/zh_TW.po | 
+ | [da](/f8/language/da) | 11 | 45 | 24.4 | /mnt/stockage/packages/f8/linux_logo/po/da.po | 
+ | [nl](/f8/language/nl) | 11 | 45 | 24.4 | /mnt/stockage/packages/f8/linux_logo/po/nl.po | 
+ | [error](/f8/language/error) | 0 | 45 | 0.0 | /mnt/stockage/packages/f8/linux_logo/po/messages.po | 
 {.sortable}
 
 

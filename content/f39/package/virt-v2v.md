@@ -18,29 +18,29 @@ The package virt-v2v (version 2.4.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [uk]({{< ref "/f39/language/uk.md" >}}) | 22774 | 22814 | 99.8 | /mnt/stockage/packages/f39/virt-v2v/po/uk.po/mnt/stockage/packages/f39/virt-v2v/po-docs/uk.po | 
- | [ka]({{< ref "/f39/language/ka.md" >}}) | 207 | 5252 | 3.9 | /mnt/stockage/packages/f39/virt-v2v/po/ka.po | 
- | [pl]({{< ref "/f39/language/pl.md" >}}) | 118 | 5252 | 2.2 | /mnt/stockage/packages/f39/virt-v2v/po/pl.po | 
- | [fi]({{< ref "/f39/language/fi.md" >}}) | 422 | 22814 | 1.8 | /mnt/stockage/packages/f39/virt-v2v/po/fi.po/mnt/stockage/packages/f39/virt-v2v/po-docs/fi.po | 
- | [de]({{< ref "/f39/language/de.md" >}}) | 345 | 22814 | 1.5 | /mnt/stockage/packages/f39/virt-v2v/po/de.po/mnt/stockage/packages/f39/virt-v2v/po-docs/de.po | 
- | [en_GB]({{< ref "/f39/language/en_GB.md" >}}) | 250 | 17562 | 1.4 | /mnt/stockage/packages/f39/virt-v2v/po-docs/en_GB.po | 
- | [cs]({{< ref "/f39/language/cs.md" >}}) | 203 | 22814 | 0.9 | /mnt/stockage/packages/f39/virt-v2v/po/cs.po/mnt/stockage/packages/f39/virt-v2v/po-docs/cs.po | 
- | [ja]({{< ref "/f39/language/ja.md" >}}) | 185 | 22814 | 0.8 | /mnt/stockage/packages/f39/virt-v2v/po/ja.po/mnt/stockage/packages/f39/virt-v2v/po-docs/ja.po | 
- | [mr]({{< ref "/f39/language/mr.md" >}}) | 26 | 5252 | 0.5 | /mnt/stockage/packages/f39/virt-v2v/po/mr.po | 
- | [pa]({{< ref "/f39/language/pa.md" >}}) | 26 | 5252 | 0.5 | /mnt/stockage/packages/f39/virt-v2v/po/pa.po | 
- | [gu]({{< ref "/f39/language/gu.md" >}}) | 22 | 5252 | 0.4 | /mnt/stockage/packages/f39/virt-v2v/po/gu.po | 
- | [fr]({{< ref "/f39/language/fr.md" >}}) | 85 | 22814 | 0.4 | /mnt/stockage/packages/f39/virt-v2v/po/fr.po/mnt/stockage/packages/f39/virt-v2v/po-docs/fr.po | 
- | [es]({{< ref "/f39/language/es.md" >}}) | 56 | 22814 | 0.2 | /mnt/stockage/packages/f39/virt-v2v/po/es.po/mnt/stockage/packages/f39/virt-v2v/po-docs/es.po | 
- | [nl]({{< ref "/f39/language/nl.md" >}}) | 39 | 22814 | 0.2 | /mnt/stockage/packages/f39/virt-v2v/po/nl.po/mnt/stockage/packages/f39/virt-v2v/po-docs/nl.po | 
- | [hi]({{< ref "/f39/language/hi.md" >}}) | 6 | 5252 | 0.1 | /mnt/stockage/packages/f39/virt-v2v/po/hi.po | 
- | [kn]({{< ref "/f39/language/kn.md" >}}) | 6 | 5252 | 0.1 | /mnt/stockage/packages/f39/virt-v2v/po/kn.po | 
- | [ml]({{< ref "/f39/language/ml.md" >}}) | 6 | 5252 | 0.1 | /mnt/stockage/packages/f39/virt-v2v/po/ml.po | 
- | [or]({{< ref "/f39/language/or.md" >}}) | 6 | 5252 | 0.1 | /mnt/stockage/packages/f39/virt-v2v/po/or.po | 
- | [tg]({{< ref "/f39/language/tg.md" >}}) | 18 | 17562 | 0.1 | /mnt/stockage/packages/f39/virt-v2v/po-docs/tg.po | 
- | [eu]({{< ref "/f39/language/eu.md" >}}) | 10 | 17562 | 0.1 | /mnt/stockage/packages/f39/virt-v2v/po-docs/eu.po | 
- | [pt_BR]({{< ref "/f39/language/pt_BR.md" >}}) | 3 | 17562 | 0.0 | /mnt/stockage/packages/f39/virt-v2v/po-docs/pt_BR.po | 
- | [zh_Hans]({{< ref "/f39/language/zh_Hans.md" >}}) | 3 | 17562 | 0.0 | /mnt/stockage/packages/f39/virt-v2v/po-docs/zh_CN.po | 
- | [si]({{< ref "/f39/language/si.md" >}}) | 1 | 22814 | 0.0 | /mnt/stockage/packages/f39/virt-v2v/po/si.po/mnt/stockage/packages/f39/virt-v2v/po-docs/si.po | 
+ | [uk](/f39/language/uk) | 22774 | 22814 | 99.8 | /mnt/stockage/packages/f39/virt-v2v/po/uk.po/mnt/stockage/packages/f39/virt-v2v/po-docs/uk.po | 
+ | [ka](/f39/language/ka) | 207 | 5252 | 3.9 | /mnt/stockage/packages/f39/virt-v2v/po/ka.po | 
+ | [pl](/f39/language/pl) | 118 | 5252 | 2.2 | /mnt/stockage/packages/f39/virt-v2v/po/pl.po | 
+ | [fi](/f39/language/fi) | 422 | 22814 | 1.8 | /mnt/stockage/packages/f39/virt-v2v/po/fi.po/mnt/stockage/packages/f39/virt-v2v/po-docs/fi.po | 
+ | [de](/f39/language/de) | 345 | 22814 | 1.5 | /mnt/stockage/packages/f39/virt-v2v/po/de.po/mnt/stockage/packages/f39/virt-v2v/po-docs/de.po | 
+ | [en_GB](/f39/language/en_GB) | 250 | 17562 | 1.4 | /mnt/stockage/packages/f39/virt-v2v/po-docs/en_GB.po | 
+ | [cs](/f39/language/cs) | 203 | 22814 | 0.9 | /mnt/stockage/packages/f39/virt-v2v/po/cs.po/mnt/stockage/packages/f39/virt-v2v/po-docs/cs.po | 
+ | [ja](/f39/language/ja) | 185 | 22814 | 0.8 | /mnt/stockage/packages/f39/virt-v2v/po/ja.po/mnt/stockage/packages/f39/virt-v2v/po-docs/ja.po | 
+ | [mr](/f39/language/mr) | 26 | 5252 | 0.5 | /mnt/stockage/packages/f39/virt-v2v/po/mr.po | 
+ | [pa](/f39/language/pa) | 26 | 5252 | 0.5 | /mnt/stockage/packages/f39/virt-v2v/po/pa.po | 
+ | [gu](/f39/language/gu) | 22 | 5252 | 0.4 | /mnt/stockage/packages/f39/virt-v2v/po/gu.po | 
+ | [fr](/f39/language/fr) | 85 | 22814 | 0.4 | /mnt/stockage/packages/f39/virt-v2v/po/fr.po/mnt/stockage/packages/f39/virt-v2v/po-docs/fr.po | 
+ | [es](/f39/language/es) | 56 | 22814 | 0.2 | /mnt/stockage/packages/f39/virt-v2v/po/es.po/mnt/stockage/packages/f39/virt-v2v/po-docs/es.po | 
+ | [nl](/f39/language/nl) | 39 | 22814 | 0.2 | /mnt/stockage/packages/f39/virt-v2v/po/nl.po/mnt/stockage/packages/f39/virt-v2v/po-docs/nl.po | 
+ | [hi](/f39/language/hi) | 6 | 5252 | 0.1 | /mnt/stockage/packages/f39/virt-v2v/po/hi.po | 
+ | [kn](/f39/language/kn) | 6 | 5252 | 0.1 | /mnt/stockage/packages/f39/virt-v2v/po/kn.po | 
+ | [ml](/f39/language/ml) | 6 | 5252 | 0.1 | /mnt/stockage/packages/f39/virt-v2v/po/ml.po | 
+ | [or](/f39/language/or) | 6 | 5252 | 0.1 | /mnt/stockage/packages/f39/virt-v2v/po/or.po | 
+ | [tg](/f39/language/tg) | 18 | 17562 | 0.1 | /mnt/stockage/packages/f39/virt-v2v/po-docs/tg.po | 
+ | [eu](/f39/language/eu) | 10 | 17562 | 0.1 | /mnt/stockage/packages/f39/virt-v2v/po-docs/eu.po | 
+ | [pt_BR](/f39/language/pt_BR) | 3 | 17562 | 0.0 | /mnt/stockage/packages/f39/virt-v2v/po-docs/pt_BR.po | 
+ | [zh_Hans](/f39/language/zh_Hans) | 3 | 17562 | 0.0 | /mnt/stockage/packages/f39/virt-v2v/po-docs/zh_CN.po | 
+ | [si](/f39/language/si) | 1 | 22814 | 0.0 | /mnt/stockage/packages/f39/virt-v2v/po/si.po/mnt/stockage/packages/f39/virt-v2v/po-docs/si.po | 
 {.sortable}
 
 

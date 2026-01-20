@@ -18,48 +18,48 @@ The package mingw-gstreamer1-plugins-good (version 1.14.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [bg]({{< ref "/f28/language/bg.md" >}}) | 726 | 794 | 91.4 | /mnt/stockage/packages/f28/mingw-gstreamer1-plugins-good/po/bg.po | 
- | [cs]({{< ref "/f28/language/cs.md" >}}) | 726 | 794 | 91.4 | /mnt/stockage/packages/f28/mingw-gstreamer1-plugins-good/po/cs.po | 
- | [da]({{< ref "/f28/language/da.md" >}}) | 726 | 794 | 91.4 | /mnt/stockage/packages/f28/mingw-gstreamer1-plugins-good/po/da.po | 
- | [de]({{< ref "/f28/language/de.md" >}}) | 726 | 794 | 91.4 | /mnt/stockage/packages/f28/mingw-gstreamer1-plugins-good/po/de.po | 
- | [fr]({{< ref "/f28/language/fr.md" >}}) | 726 | 794 | 91.4 | /mnt/stockage/packages/f28/mingw-gstreamer1-plugins-good/po/fr.po | 
- | [hr]({{< ref "/f28/language/hr.md" >}}) | 726 | 794 | 91.4 | /mnt/stockage/packages/f28/mingw-gstreamer1-plugins-good/po/hr.po | 
- | [hu]({{< ref "/f28/language/hu.md" >}}) | 726 | 794 | 91.4 | /mnt/stockage/packages/f28/mingw-gstreamer1-plugins-good/po/hu.po | 
- | [nb_NO]({{< ref "/f28/language/nb_NO.md" >}}) | 726 | 794 | 91.4 | /mnt/stockage/packages/f28/mingw-gstreamer1-plugins-good/po/nb.po | 
- | [nl]({{< ref "/f28/language/nl.md" >}}) | 726 | 794 | 91.4 | /mnt/stockage/packages/f28/mingw-gstreamer1-plugins-good/po/nl.po | 
- | [pl]({{< ref "/f28/language/pl.md" >}}) | 726 | 794 | 91.4 | /mnt/stockage/packages/f28/mingw-gstreamer1-plugins-good/po/pl.po | 
- | [ru]({{< ref "/f28/language/ru.md" >}}) | 726 | 794 | 91.4 | /mnt/stockage/packages/f28/mingw-gstreamer1-plugins-good/po/ru.po | 
- | [sr]({{< ref "/f28/language/sr.md" >}}) | 726 | 794 | 91.4 | /mnt/stockage/packages/f28/mingw-gstreamer1-plugins-good/po/sr.po | 
- | [sv]({{< ref "/f28/language/sv.md" >}}) | 726 | 794 | 91.4 | /mnt/stockage/packages/f28/mingw-gstreamer1-plugins-good/po/sv.po | 
- | [tr]({{< ref "/f28/language/tr.md" >}}) | 726 | 794 | 91.4 | /mnt/stockage/packages/f28/mingw-gstreamer1-plugins-good/po/tr.po | 
- | [uk]({{< ref "/f28/language/uk.md" >}}) | 726 | 794 | 91.4 | /mnt/stockage/packages/f28/mingw-gstreamer1-plugins-good/po/uk.po | 
- | [vi]({{< ref "/f28/language/vi.md" >}}) | 726 | 794 | 91.4 | /mnt/stockage/packages/f28/mingw-gstreamer1-plugins-good/po/vi.po | 
- | [zh_Hans]({{< ref "/f28/language/zh_Hans.md" >}}) | 726 | 794 | 91.4 | /mnt/stockage/packages/f28/mingw-gstreamer1-plugins-good/po/zh_CN.po | 
- | [id]({{< ref "/f28/language/id.md" >}}) | 712 | 794 | 89.7 | /mnt/stockage/packages/f28/mingw-gstreamer1-plugins-good/po/id.po | 
- | [pt_BR]({{< ref "/f28/language/pt_BR.md" >}}) | 712 | 794 | 89.7 | /mnt/stockage/packages/f28/mingw-gstreamer1-plugins-good/po/pt_BR.po | 
- | [sk]({{< ref "/f28/language/sk.md" >}}) | 696 | 794 | 87.7 | /mnt/stockage/packages/f28/mingw-gstreamer1-plugins-good/po/sk.po | 
- | [fur]({{< ref "/f28/language/fur.md" >}}) | 675 | 794 | 85.0 | /mnt/stockage/packages/f28/mingw-gstreamer1-plugins-good/po/fur.po | 
- | [lv]({{< ref "/f28/language/lv.md" >}}) | 582 | 794 | 73.3 | /mnt/stockage/packages/f28/mingw-gstreamer1-plugins-good/po/lv.po | 
- | [sl]({{< ref "/f28/language/sl.md" >}}) | 582 | 794 | 73.3 | /mnt/stockage/packages/f28/mingw-gstreamer1-plugins-good/po/sl.po | 
- | [gl]({{< ref "/f28/language/gl.md" >}}) | 568 | 794 | 71.5 | /mnt/stockage/packages/f28/mingw-gstreamer1-plugins-good/po/gl.po | 
- | [ja]({{< ref "/f28/language/ja.md" >}}) | 568 | 794 | 71.5 | /mnt/stockage/packages/f28/mingw-gstreamer1-plugins-good/po/ja.po | 
- | [es]({{< ref "/f28/language/es.md" >}}) | 493 | 794 | 62.1 | /mnt/stockage/packages/f28/mingw-gstreamer1-plugins-good/po/es.po | 
- | [ca]({{< ref "/f28/language/ca.md" >}}) | 468 | 794 | 58.9 | /mnt/stockage/packages/f28/mingw-gstreamer1-plugins-good/po/ca.po | 
- | [el]({{< ref "/f28/language/el.md" >}}) | 468 | 794 | 58.9 | /mnt/stockage/packages/f28/mingw-gstreamer1-plugins-good/po/el.po | 
- | [fi]({{< ref "/f28/language/fi.md" >}}) | 442 | 794 | 55.7 | /mnt/stockage/packages/f28/mingw-gstreamer1-plugins-good/po/fi.po | 
- | [it]({{< ref "/f28/language/it.md" >}}) | 442 | 794 | 55.7 | /mnt/stockage/packages/f28/mingw-gstreamer1-plugins-good/po/it.po | 
- | [eu]({{< ref "/f28/language/eu.md" >}}) | 415 | 794 | 52.3 | /mnt/stockage/packages/f28/mingw-gstreamer1-plugins-good/po/eu.po | 
- | [lt]({{< ref "/f28/language/lt.md" >}}) | 415 | 794 | 52.3 | /mnt/stockage/packages/f28/mingw-gstreamer1-plugins-good/po/lt.po | 
- | [ro]({{< ref "/f28/language/ro.md" >}}) | 415 | 794 | 52.3 | /mnt/stockage/packages/f28/mingw-gstreamer1-plugins-good/po/ro.po | 
- | [mt]({{< ref "/f28/language/mt.md" >}}) | 350 | 794 | 44.1 | /mnt/stockage/packages/f28/mingw-gstreamer1-plugins-good/po/mt.po | 
- | [zh_Hant]({{< ref "/f28/language/zh_Hant.md" >}}) | 54 | 794 | 6.8 | /mnt/stockage/packages/f28/mingw-gstreamer1-plugins-good/po/zh_TW.po | 
- | [zh_Hant_HK]({{< ref "/f28/language/zh_Hant_HK.md" >}}) | 54 | 794 | 6.8 | /mnt/stockage/packages/f28/mingw-gstreamer1-plugins-good/po/zh_HK.po | 
- | [eo]({{< ref "/f28/language/eo.md" >}}) | 41 | 794 | 5.2 | /mnt/stockage/packages/f28/mingw-gstreamer1-plugins-good/po/eo.po | 
- | [af]({{< ref "/f28/language/af.md" >}}) | 10 | 794 | 1.3 | /mnt/stockage/packages/f28/mingw-gstreamer1-plugins-good/po/af.po | 
- | [az]({{< ref "/f28/language/az.md" >}}) | 10 | 794 | 1.3 | /mnt/stockage/packages/f28/mingw-gstreamer1-plugins-good/po/az.po | 
- | [en_GB]({{< ref "/f28/language/en_GB.md" >}}) | 10 | 794 | 1.3 | /mnt/stockage/packages/f28/mingw-gstreamer1-plugins-good/po/en_GB.po | 
- | [or]({{< ref "/f28/language/or.md" >}}) | 10 | 794 | 1.3 | /mnt/stockage/packages/f28/mingw-gstreamer1-plugins-good/po/or.po | 
- | [sq]({{< ref "/f28/language/sq.md" >}}) | 10 | 794 | 1.3 | /mnt/stockage/packages/f28/mingw-gstreamer1-plugins-good/po/sq.po | 
+ | [bg](/f28/language/bg) | 726 | 794 | 91.4 | /mnt/stockage/packages/f28/mingw-gstreamer1-plugins-good/po/bg.po | 
+ | [cs](/f28/language/cs) | 726 | 794 | 91.4 | /mnt/stockage/packages/f28/mingw-gstreamer1-plugins-good/po/cs.po | 
+ | [da](/f28/language/da) | 726 | 794 | 91.4 | /mnt/stockage/packages/f28/mingw-gstreamer1-plugins-good/po/da.po | 
+ | [de](/f28/language/de) | 726 | 794 | 91.4 | /mnt/stockage/packages/f28/mingw-gstreamer1-plugins-good/po/de.po | 
+ | [fr](/f28/language/fr) | 726 | 794 | 91.4 | /mnt/stockage/packages/f28/mingw-gstreamer1-plugins-good/po/fr.po | 
+ | [hr](/f28/language/hr) | 726 | 794 | 91.4 | /mnt/stockage/packages/f28/mingw-gstreamer1-plugins-good/po/hr.po | 
+ | [hu](/f28/language/hu) | 726 | 794 | 91.4 | /mnt/stockage/packages/f28/mingw-gstreamer1-plugins-good/po/hu.po | 
+ | [nb_NO](/f28/language/nb_NO) | 726 | 794 | 91.4 | /mnt/stockage/packages/f28/mingw-gstreamer1-plugins-good/po/nb.po | 
+ | [nl](/f28/language/nl) | 726 | 794 | 91.4 | /mnt/stockage/packages/f28/mingw-gstreamer1-plugins-good/po/nl.po | 
+ | [pl](/f28/language/pl) | 726 | 794 | 91.4 | /mnt/stockage/packages/f28/mingw-gstreamer1-plugins-good/po/pl.po | 
+ | [ru](/f28/language/ru) | 726 | 794 | 91.4 | /mnt/stockage/packages/f28/mingw-gstreamer1-plugins-good/po/ru.po | 
+ | [sr](/f28/language/sr) | 726 | 794 | 91.4 | /mnt/stockage/packages/f28/mingw-gstreamer1-plugins-good/po/sr.po | 
+ | [sv](/f28/language/sv) | 726 | 794 | 91.4 | /mnt/stockage/packages/f28/mingw-gstreamer1-plugins-good/po/sv.po | 
+ | [tr](/f28/language/tr) | 726 | 794 | 91.4 | /mnt/stockage/packages/f28/mingw-gstreamer1-plugins-good/po/tr.po | 
+ | [uk](/f28/language/uk) | 726 | 794 | 91.4 | /mnt/stockage/packages/f28/mingw-gstreamer1-plugins-good/po/uk.po | 
+ | [vi](/f28/language/vi) | 726 | 794 | 91.4 | /mnt/stockage/packages/f28/mingw-gstreamer1-plugins-good/po/vi.po | 
+ | [zh_Hans](/f28/language/zh_Hans) | 726 | 794 | 91.4 | /mnt/stockage/packages/f28/mingw-gstreamer1-plugins-good/po/zh_CN.po | 
+ | [id](/f28/language/id) | 712 | 794 | 89.7 | /mnt/stockage/packages/f28/mingw-gstreamer1-plugins-good/po/id.po | 
+ | [pt_BR](/f28/language/pt_BR) | 712 | 794 | 89.7 | /mnt/stockage/packages/f28/mingw-gstreamer1-plugins-good/po/pt_BR.po | 
+ | [sk](/f28/language/sk) | 696 | 794 | 87.7 | /mnt/stockage/packages/f28/mingw-gstreamer1-plugins-good/po/sk.po | 
+ | [fur](/f28/language/fur) | 675 | 794 | 85.0 | /mnt/stockage/packages/f28/mingw-gstreamer1-plugins-good/po/fur.po | 
+ | [lv](/f28/language/lv) | 582 | 794 | 73.3 | /mnt/stockage/packages/f28/mingw-gstreamer1-plugins-good/po/lv.po | 
+ | [sl](/f28/language/sl) | 582 | 794 | 73.3 | /mnt/stockage/packages/f28/mingw-gstreamer1-plugins-good/po/sl.po | 
+ | [gl](/f28/language/gl) | 568 | 794 | 71.5 | /mnt/stockage/packages/f28/mingw-gstreamer1-plugins-good/po/gl.po | 
+ | [ja](/f28/language/ja) | 568 | 794 | 71.5 | /mnt/stockage/packages/f28/mingw-gstreamer1-plugins-good/po/ja.po | 
+ | [es](/f28/language/es) | 493 | 794 | 62.1 | /mnt/stockage/packages/f28/mingw-gstreamer1-plugins-good/po/es.po | 
+ | [ca](/f28/language/ca) | 468 | 794 | 58.9 | /mnt/stockage/packages/f28/mingw-gstreamer1-plugins-good/po/ca.po | 
+ | [el](/f28/language/el) | 468 | 794 | 58.9 | /mnt/stockage/packages/f28/mingw-gstreamer1-plugins-good/po/el.po | 
+ | [fi](/f28/language/fi) | 442 | 794 | 55.7 | /mnt/stockage/packages/f28/mingw-gstreamer1-plugins-good/po/fi.po | 
+ | [it](/f28/language/it) | 442 | 794 | 55.7 | /mnt/stockage/packages/f28/mingw-gstreamer1-plugins-good/po/it.po | 
+ | [eu](/f28/language/eu) | 415 | 794 | 52.3 | /mnt/stockage/packages/f28/mingw-gstreamer1-plugins-good/po/eu.po | 
+ | [lt](/f28/language/lt) | 415 | 794 | 52.3 | /mnt/stockage/packages/f28/mingw-gstreamer1-plugins-good/po/lt.po | 
+ | [ro](/f28/language/ro) | 415 | 794 | 52.3 | /mnt/stockage/packages/f28/mingw-gstreamer1-plugins-good/po/ro.po | 
+ | [mt](/f28/language/mt) | 350 | 794 | 44.1 | /mnt/stockage/packages/f28/mingw-gstreamer1-plugins-good/po/mt.po | 
+ | [zh_Hant](/f28/language/zh_Hant) | 54 | 794 | 6.8 | /mnt/stockage/packages/f28/mingw-gstreamer1-plugins-good/po/zh_TW.po | 
+ | [zh_Hant_HK](/f28/language/zh_Hant_HK) | 54 | 794 | 6.8 | /mnt/stockage/packages/f28/mingw-gstreamer1-plugins-good/po/zh_HK.po | 
+ | [eo](/f28/language/eo) | 41 | 794 | 5.2 | /mnt/stockage/packages/f28/mingw-gstreamer1-plugins-good/po/eo.po | 
+ | [af](/f28/language/af) | 10 | 794 | 1.3 | /mnt/stockage/packages/f28/mingw-gstreamer1-plugins-good/po/af.po | 
+ | [az](/f28/language/az) | 10 | 794 | 1.3 | /mnt/stockage/packages/f28/mingw-gstreamer1-plugins-good/po/az.po | 
+ | [en_GB](/f28/language/en_GB) | 10 | 794 | 1.3 | /mnt/stockage/packages/f28/mingw-gstreamer1-plugins-good/po/en_GB.po | 
+ | [or](/f28/language/or) | 10 | 794 | 1.3 | /mnt/stockage/packages/f28/mingw-gstreamer1-plugins-good/po/or.po | 
+ | [sq](/f28/language/sq) | 10 | 794 | 1.3 | /mnt/stockage/packages/f28/mingw-gstreamer1-plugins-good/po/sq.po | 
 {.sortable}
 
 

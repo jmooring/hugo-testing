@@ -18,11 +18,11 @@ The package gpaste (version 3.18.5):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f23/language/fr.md" >}}) | 1050 | 1050 | 100.0 | /mnt/stockage/packages/f23/gpaste/po/fr.po | 
- | [pt_BR]({{< ref "/f23/language/pt_BR.md" >}}) | 1050 | 1050 | 100.0 | /mnt/stockage/packages/f23/gpaste/po/pt_BR.po | 
- | [de]({{< ref "/f23/language/de.md" >}}) | 675 | 1050 | 64.3 | /mnt/stockage/packages/f23/gpaste/po/de.po | 
- | [es]({{< ref "/f23/language/es.md" >}}) | 470 | 1050 | 44.8 | /mnt/stockage/packages/f23/gpaste/po/es.po | 
- | [fi]({{< ref "/f23/language/fi.md" >}}) | 446 | 1050 | 42.5 | /mnt/stockage/packages/f23/gpaste/po/fi.po | 
+ | [fr](/f23/language/fr) | 1050 | 1050 | 100.0 | /mnt/stockage/packages/f23/gpaste/po/fr.po | 
+ | [pt_BR](/f23/language/pt_BR) | 1050 | 1050 | 100.0 | /mnt/stockage/packages/f23/gpaste/po/pt_BR.po | 
+ | [de](/f23/language/de) | 675 | 1050 | 64.3 | /mnt/stockage/packages/f23/gpaste/po/de.po | 
+ | [es](/f23/language/es) | 470 | 1050 | 44.8 | /mnt/stockage/packages/f23/gpaste/po/es.po | 
+ | [fi](/f23/language/fi) | 446 | 1050 | 42.5 | /mnt/stockage/packages/f23/gpaste/po/fi.po | 
 {.sortable}
 
 

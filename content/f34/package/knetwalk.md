@@ -18,62 +18,62 @@ The package knetwalk (version 21.04.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f34/language/ca.md" >}}) | 243 | 243 | 100.0 | /mnt/stockage/packages/f34/knetwalk/po/ca/knetwalk.po | 
- | [ca@valencia]({{< ref "/f34/language/ca@valencia.md" >}}) | 243 | 243 | 100.0 | /mnt/stockage/packages/f34/knetwalk/po/ca@valencia/knetwalk.po | 
- | [cs]({{< ref "/f34/language/cs.md" >}}) | 243 | 243 | 100.0 | /mnt/stockage/packages/f34/knetwalk/po/cs/knetwalk.po | 
- | [de]({{< ref "/f34/language/de.md" >}}) | 243 | 243 | 100.0 | /mnt/stockage/packages/f34/knetwalk/po/de/knetwalk.po | 
- | [el]({{< ref "/f34/language/el.md" >}}) | 243 | 243 | 100.0 | /mnt/stockage/packages/f34/knetwalk/po/el/knetwalk.po | 
- | [en_GB]({{< ref "/f34/language/en_GB.md" >}}) | 243 | 243 | 100.0 | /mnt/stockage/packages/f34/knetwalk/po/en_GB/knetwalk.po | 
- | [es]({{< ref "/f34/language/es.md" >}}) | 243 | 243 | 100.0 | /mnt/stockage/packages/f34/knetwalk/po/es/knetwalk.po | 
- | [fi]({{< ref "/f34/language/fi.md" >}}) | 243 | 243 | 100.0 | /mnt/stockage/packages/f34/knetwalk/po/fi/knetwalk.po | 
- | [fr]({{< ref "/f34/language/fr.md" >}}) | 243 | 243 | 100.0 | /mnt/stockage/packages/f34/knetwalk/po/fr/knetwalk.po | 
- | [it]({{< ref "/f34/language/it.md" >}}) | 243 | 243 | 100.0 | /mnt/stockage/packages/f34/knetwalk/po/it/knetwalk.po | 
- | [ko]({{< ref "/f34/language/ko.md" >}}) | 243 | 243 | 100.0 | /mnt/stockage/packages/f34/knetwalk/po/ko/knetwalk.po | 
- | [nl]({{< ref "/f34/language/nl.md" >}}) | 243 | 243 | 100.0 | /mnt/stockage/packages/f34/knetwalk/po/nl/knetwalk.po | 
- | [nn]({{< ref "/f34/language/nn.md" >}}) | 243 | 243 | 100.0 | /mnt/stockage/packages/f34/knetwalk/po/nn/knetwalk.po | 
- | [pl]({{< ref "/f34/language/pl.md" >}}) | 243 | 243 | 100.0 | /mnt/stockage/packages/f34/knetwalk/po/pl/knetwalk.po | 
- | [pt]({{< ref "/f34/language/pt.md" >}}) | 243 | 243 | 100.0 | /mnt/stockage/packages/f34/knetwalk/po/pt/knetwalk.po | 
- | [pt_BR]({{< ref "/f34/language/pt_BR.md" >}}) | 243 | 243 | 100.0 | /mnt/stockage/packages/f34/knetwalk/po/pt_BR/knetwalk.po | 
- | [sl]({{< ref "/f34/language/sl.md" >}}) | 243 | 243 | 100.0 | /mnt/stockage/packages/f34/knetwalk/po/sl/knetwalk.po | 
- | [sr]({{< ref "/f34/language/sr.md" >}}) | 230 | 230 | 100.0 | /mnt/stockage/packages/f34/knetwalk/po/sr/knetwalk.po | 
- | [sv]({{< ref "/f34/language/sv.md" >}}) | 243 | 243 | 100.0 | /mnt/stockage/packages/f34/knetwalk/po/sv/knetwalk.po | 
- | [uk]({{< ref "/f34/language/uk.md" >}}) | 243 | 243 | 100.0 | /mnt/stockage/packages/f34/knetwalk/po/uk/knetwalk.po | 
- | [bs]({{< ref "/f34/language/bs.md" >}}) | 230 | 243 | 94.7 | /mnt/stockage/packages/f34/knetwalk/po/bs/knetwalk.po | 
- | [da]({{< ref "/f34/language/da.md" >}}) | 230 | 243 | 94.7 | /mnt/stockage/packages/f34/knetwalk/po/da/knetwalk.po | 
- | [et]({{< ref "/f34/language/et.md" >}}) | 230 | 243 | 94.7 | /mnt/stockage/packages/f34/knetwalk/po/et/knetwalk.po | 
- | [gl]({{< ref "/f34/language/gl.md" >}}) | 230 | 243 | 94.7 | /mnt/stockage/packages/f34/knetwalk/po/gl/knetwalk.po | 
- | [hu]({{< ref "/f34/language/hu.md" >}}) | 230 | 243 | 94.7 | /mnt/stockage/packages/f34/knetwalk/po/hu/knetwalk.po | 
- | [id]({{< ref "/f34/language/id.md" >}}) | 230 | 243 | 94.7 | /mnt/stockage/packages/f34/knetwalk/po/id/knetwalk.po | 
- | [kk]({{< ref "/f34/language/kk.md" >}}) | 230 | 243 | 94.7 | /mnt/stockage/packages/f34/knetwalk/po/kk/knetwalk.po | 
- | [nb_NO]({{< ref "/f34/language/nb_NO.md" >}}) | 230 | 243 | 94.7 | /mnt/stockage/packages/f34/knetwalk/po/nb/knetwalk.po | 
- | [nds]({{< ref "/f34/language/nds.md" >}}) | 230 | 243 | 94.7 | /mnt/stockage/packages/f34/knetwalk/po/nds/knetwalk.po | 
- | [ru]({{< ref "/f34/language/ru.md" >}}) | 230 | 243 | 94.7 | /mnt/stockage/packages/f34/knetwalk/po/ru/knetwalk.po | 
- | [sk]({{< ref "/f34/language/sk.md" >}}) | 230 | 243 | 94.7 | /mnt/stockage/packages/f34/knetwalk/po/sk/knetwalk.po | 
- | [tr]({{< ref "/f34/language/tr.md" >}}) | 230 | 243 | 94.7 | /mnt/stockage/packages/f34/knetwalk/po/tr/knetwalk.po | 
- | [zh_Hans]({{< ref "/f34/language/zh_Hans.md" >}}) | 230 | 243 | 94.7 | /mnt/stockage/packages/f34/knetwalk/po/zh_CN/knetwalk.po | 
- | [zh_Hant]({{< ref "/f34/language/zh_Hant.md" >}}) | 230 | 243 | 94.7 | /mnt/stockage/packages/f34/knetwalk/po/zh_TW/knetwalk.po | 
- | [ro]({{< ref "/f34/language/ro.md" >}}) | 185 | 243 | 76.1 | /mnt/stockage/packages/f34/knetwalk/po/ro/knetwalk.po | 
- | [ar]({{< ref "/f34/language/ar.md" >}}) | 115 | 243 | 47.3 | /mnt/stockage/packages/f34/knetwalk/po/ar/knetwalk.po | 
- | [ga]({{< ref "/f34/language/ga.md" >}}) | 115 | 243 | 47.3 | /mnt/stockage/packages/f34/knetwalk/po/ga/knetwalk.po | 
- | [km]({{< ref "/f34/language/km.md" >}}) | 115 | 243 | 47.3 | /mnt/stockage/packages/f34/knetwalk/po/km/knetwalk.po | 
- | [lv]({{< ref "/f34/language/lv.md" >}}) | 115 | 243 | 47.3 | /mnt/stockage/packages/f34/knetwalk/po/lv/knetwalk.po | 
- | [eu]({{< ref "/f34/language/eu.md" >}}) | 107 | 243 | 44.0 | /mnt/stockage/packages/f34/knetwalk/po/eu/knetwalk.po | 
- | [ja]({{< ref "/f34/language/ja.md" >}}) | 107 | 243 | 44.0 | /mnt/stockage/packages/f34/knetwalk/po/ja/knetwalk.po | 
- | [lt]({{< ref "/f34/language/lt.md" >}}) | 87 | 243 | 35.8 | /mnt/stockage/packages/f34/knetwalk/po/lt/knetwalk.po | 
- | [ug]({{< ref "/f34/language/ug.md" >}}) | 60 | 243 | 24.7 | /mnt/stockage/packages/f34/knetwalk/po/ug/knetwalk.po | 
- | [fa]({{< ref "/f34/language/fa.md" >}}) | 54 | 243 | 22.2 | /mnt/stockage/packages/f34/knetwalk/po/fa/knetwalk.po | 
- | [mr]({{< ref "/f34/language/mr.md" >}}) | 29 | 243 | 11.9 | /mnt/stockage/packages/f34/knetwalk/po/mr/knetwalk.po | 
- | [hi]({{< ref "/f34/language/hi.md" >}}) | 20 | 243 | 8.2 | /mnt/stockage/packages/f34/knetwalk/po/hi/knetwalk.po | 
- | [sq]({{< ref "/f34/language/sq.md" >}}) | 20 | 243 | 8.2 | /mnt/stockage/packages/f34/knetwalk/po/sq/knetwalk.po | 
- | [eo]({{< ref "/f34/language/eo.md" >}}) | 13 | 243 | 5.3 | /mnt/stockage/packages/f34/knetwalk/po/eo/knetwalk.po | 
- | [he]({{< ref "/f34/language/he.md" >}}) | 13 | 243 | 5.3 | /mnt/stockage/packages/f34/knetwalk/po/he/knetwalk.po | 
- | [hr]({{< ref "/f34/language/hr.md" >}}) | 13 | 243 | 5.3 | /mnt/stockage/packages/f34/knetwalk/po/hr/knetwalk.po | 
- | [is]({{< ref "/f34/language/is.md" >}}) | 13 | 243 | 5.3 | /mnt/stockage/packages/f34/knetwalk/po/is/knetwalk.po | 
- | [pa]({{< ref "/f34/language/pa.md" >}}) | 13 | 243 | 5.3 | /mnt/stockage/packages/f34/knetwalk/po/pa/knetwalk.po | 
- | [be]({{< ref "/f34/language/be.md" >}}) | 12 | 243 | 4.9 | /mnt/stockage/packages/f34/knetwalk/po/be/knetwalk.po | 
- | [bg]({{< ref "/f34/language/bg.md" >}}) | 9 | 243 | 3.7 | /mnt/stockage/packages/f34/knetwalk/po/bg/knetwalk.po | 
- | [se]({{< ref "/f34/language/se.md" >}}) | 3 | 243 | 1.2 | /mnt/stockage/packages/f34/knetwalk/po/se/knetwalk.po | 
- | [ml]({{< ref "/f34/language/ml.md" >}}) | 2 | 243 | 0.8 | /mnt/stockage/packages/f34/knetwalk/po/ml/knetwalk.po | 
+ | [ca](/f34/language/ca) | 243 | 243 | 100.0 | /mnt/stockage/packages/f34/knetwalk/po/ca/knetwalk.po | 
+ | [ca@valencia](/f34/language/ca@valencia) | 243 | 243 | 100.0 | /mnt/stockage/packages/f34/knetwalk/po/ca@valencia/knetwalk.po | 
+ | [cs](/f34/language/cs) | 243 | 243 | 100.0 | /mnt/stockage/packages/f34/knetwalk/po/cs/knetwalk.po | 
+ | [de](/f34/language/de) | 243 | 243 | 100.0 | /mnt/stockage/packages/f34/knetwalk/po/de/knetwalk.po | 
+ | [el](/f34/language/el) | 243 | 243 | 100.0 | /mnt/stockage/packages/f34/knetwalk/po/el/knetwalk.po | 
+ | [en_GB](/f34/language/en_GB) | 243 | 243 | 100.0 | /mnt/stockage/packages/f34/knetwalk/po/en_GB/knetwalk.po | 
+ | [es](/f34/language/es) | 243 | 243 | 100.0 | /mnt/stockage/packages/f34/knetwalk/po/es/knetwalk.po | 
+ | [fi](/f34/language/fi) | 243 | 243 | 100.0 | /mnt/stockage/packages/f34/knetwalk/po/fi/knetwalk.po | 
+ | [fr](/f34/language/fr) | 243 | 243 | 100.0 | /mnt/stockage/packages/f34/knetwalk/po/fr/knetwalk.po | 
+ | [it](/f34/language/it) | 243 | 243 | 100.0 | /mnt/stockage/packages/f34/knetwalk/po/it/knetwalk.po | 
+ | [ko](/f34/language/ko) | 243 | 243 | 100.0 | /mnt/stockage/packages/f34/knetwalk/po/ko/knetwalk.po | 
+ | [nl](/f34/language/nl) | 243 | 243 | 100.0 | /mnt/stockage/packages/f34/knetwalk/po/nl/knetwalk.po | 
+ | [nn](/f34/language/nn) | 243 | 243 | 100.0 | /mnt/stockage/packages/f34/knetwalk/po/nn/knetwalk.po | 
+ | [pl](/f34/language/pl) | 243 | 243 | 100.0 | /mnt/stockage/packages/f34/knetwalk/po/pl/knetwalk.po | 
+ | [pt](/f34/language/pt) | 243 | 243 | 100.0 | /mnt/stockage/packages/f34/knetwalk/po/pt/knetwalk.po | 
+ | [pt_BR](/f34/language/pt_BR) | 243 | 243 | 100.0 | /mnt/stockage/packages/f34/knetwalk/po/pt_BR/knetwalk.po | 
+ | [sl](/f34/language/sl) | 243 | 243 | 100.0 | /mnt/stockage/packages/f34/knetwalk/po/sl/knetwalk.po | 
+ | [sr](/f34/language/sr) | 230 | 230 | 100.0 | /mnt/stockage/packages/f34/knetwalk/po/sr/knetwalk.po | 
+ | [sv](/f34/language/sv) | 243 | 243 | 100.0 | /mnt/stockage/packages/f34/knetwalk/po/sv/knetwalk.po | 
+ | [uk](/f34/language/uk) | 243 | 243 | 100.0 | /mnt/stockage/packages/f34/knetwalk/po/uk/knetwalk.po | 
+ | [bs](/f34/language/bs) | 230 | 243 | 94.7 | /mnt/stockage/packages/f34/knetwalk/po/bs/knetwalk.po | 
+ | [da](/f34/language/da) | 230 | 243 | 94.7 | /mnt/stockage/packages/f34/knetwalk/po/da/knetwalk.po | 
+ | [et](/f34/language/et) | 230 | 243 | 94.7 | /mnt/stockage/packages/f34/knetwalk/po/et/knetwalk.po | 
+ | [gl](/f34/language/gl) | 230 | 243 | 94.7 | /mnt/stockage/packages/f34/knetwalk/po/gl/knetwalk.po | 
+ | [hu](/f34/language/hu) | 230 | 243 | 94.7 | /mnt/stockage/packages/f34/knetwalk/po/hu/knetwalk.po | 
+ | [id](/f34/language/id) | 230 | 243 | 94.7 | /mnt/stockage/packages/f34/knetwalk/po/id/knetwalk.po | 
+ | [kk](/f34/language/kk) | 230 | 243 | 94.7 | /mnt/stockage/packages/f34/knetwalk/po/kk/knetwalk.po | 
+ | [nb_NO](/f34/language/nb_NO) | 230 | 243 | 94.7 | /mnt/stockage/packages/f34/knetwalk/po/nb/knetwalk.po | 
+ | [nds](/f34/language/nds) | 230 | 243 | 94.7 | /mnt/stockage/packages/f34/knetwalk/po/nds/knetwalk.po | 
+ | [ru](/f34/language/ru) | 230 | 243 | 94.7 | /mnt/stockage/packages/f34/knetwalk/po/ru/knetwalk.po | 
+ | [sk](/f34/language/sk) | 230 | 243 | 94.7 | /mnt/stockage/packages/f34/knetwalk/po/sk/knetwalk.po | 
+ | [tr](/f34/language/tr) | 230 | 243 | 94.7 | /mnt/stockage/packages/f34/knetwalk/po/tr/knetwalk.po | 
+ | [zh_Hans](/f34/language/zh_Hans) | 230 | 243 | 94.7 | /mnt/stockage/packages/f34/knetwalk/po/zh_CN/knetwalk.po | 
+ | [zh_Hant](/f34/language/zh_Hant) | 230 | 243 | 94.7 | /mnt/stockage/packages/f34/knetwalk/po/zh_TW/knetwalk.po | 
+ | [ro](/f34/language/ro) | 185 | 243 | 76.1 | /mnt/stockage/packages/f34/knetwalk/po/ro/knetwalk.po | 
+ | [ar](/f34/language/ar) | 115 | 243 | 47.3 | /mnt/stockage/packages/f34/knetwalk/po/ar/knetwalk.po | 
+ | [ga](/f34/language/ga) | 115 | 243 | 47.3 | /mnt/stockage/packages/f34/knetwalk/po/ga/knetwalk.po | 
+ | [km](/f34/language/km) | 115 | 243 | 47.3 | /mnt/stockage/packages/f34/knetwalk/po/km/knetwalk.po | 
+ | [lv](/f34/language/lv) | 115 | 243 | 47.3 | /mnt/stockage/packages/f34/knetwalk/po/lv/knetwalk.po | 
+ | [eu](/f34/language/eu) | 107 | 243 | 44.0 | /mnt/stockage/packages/f34/knetwalk/po/eu/knetwalk.po | 
+ | [ja](/f34/language/ja) | 107 | 243 | 44.0 | /mnt/stockage/packages/f34/knetwalk/po/ja/knetwalk.po | 
+ | [lt](/f34/language/lt) | 87 | 243 | 35.8 | /mnt/stockage/packages/f34/knetwalk/po/lt/knetwalk.po | 
+ | [ug](/f34/language/ug) | 60 | 243 | 24.7 | /mnt/stockage/packages/f34/knetwalk/po/ug/knetwalk.po | 
+ | [fa](/f34/language/fa) | 54 | 243 | 22.2 | /mnt/stockage/packages/f34/knetwalk/po/fa/knetwalk.po | 
+ | [mr](/f34/language/mr) | 29 | 243 | 11.9 | /mnt/stockage/packages/f34/knetwalk/po/mr/knetwalk.po | 
+ | [hi](/f34/language/hi) | 20 | 243 | 8.2 | /mnt/stockage/packages/f34/knetwalk/po/hi/knetwalk.po | 
+ | [sq](/f34/language/sq) | 20 | 243 | 8.2 | /mnt/stockage/packages/f34/knetwalk/po/sq/knetwalk.po | 
+ | [eo](/f34/language/eo) | 13 | 243 | 5.3 | /mnt/stockage/packages/f34/knetwalk/po/eo/knetwalk.po | 
+ | [he](/f34/language/he) | 13 | 243 | 5.3 | /mnt/stockage/packages/f34/knetwalk/po/he/knetwalk.po | 
+ | [hr](/f34/language/hr) | 13 | 243 | 5.3 | /mnt/stockage/packages/f34/knetwalk/po/hr/knetwalk.po | 
+ | [is](/f34/language/is) | 13 | 243 | 5.3 | /mnt/stockage/packages/f34/knetwalk/po/is/knetwalk.po | 
+ | [pa](/f34/language/pa) | 13 | 243 | 5.3 | /mnt/stockage/packages/f34/knetwalk/po/pa/knetwalk.po | 
+ | [be](/f34/language/be) | 12 | 243 | 4.9 | /mnt/stockage/packages/f34/knetwalk/po/be/knetwalk.po | 
+ | [bg](/f34/language/bg) | 9 | 243 | 3.7 | /mnt/stockage/packages/f34/knetwalk/po/bg/knetwalk.po | 
+ | [se](/f34/language/se) | 3 | 243 | 1.2 | /mnt/stockage/packages/f34/knetwalk/po/se/knetwalk.po | 
+ | [ml](/f34/language/ml) | 2 | 243 | 0.8 | /mnt/stockage/packages/f34/knetwalk/po/ml/knetwalk.po | 
 {.sortable}
 
 

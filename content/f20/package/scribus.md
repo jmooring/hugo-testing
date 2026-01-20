@@ -18,11 +18,11 @@ The package scribus (version 1.4.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [bn]({{< ref "/f20/language/bn.md" >}}) | 14194 | 14194 | 100.0 | /mnt/stockage/packages/f20/scribus/resources/translations/po/scribus.bn.po | 
- | [dz]({{< ref "/f20/language/dz.md" >}}) | 4416 | 14194 | 31.1 | /mnt/stockage/packages/f20/scribus/resources/translations/po/scribus.dz.po | 
- | [eo]({{< ref "/f20/language/eo.md" >}}) | 3863 | 14194 | 27.2 | /mnt/stockage/packages/f20/scribus/resources/translations/po/scribus.eo.po | 
- | [es]({{< ref "/f20/language/es.md" >}}) | 553 | 14194 | 3.9 | /mnt/stockage/packages/f20/scribus/resources/translations/po/scribus.es_LA.po | 
- | [bg]({{< ref "/f20/language/bg.md" >}}) | 190 | 14194 | 1.3 | /mnt/stockage/packages/f20/scribus/resources/translations/po/scribus.bg_BG.po | 
+ | [bn](/f20/language/bn) | 14194 | 14194 | 100.0 | /mnt/stockage/packages/f20/scribus/resources/translations/po/scribus.bn.po | 
+ | [dz](/f20/language/dz) | 4416 | 14194 | 31.1 | /mnt/stockage/packages/f20/scribus/resources/translations/po/scribus.dz.po | 
+ | [eo](/f20/language/eo) | 3863 | 14194 | 27.2 | /mnt/stockage/packages/f20/scribus/resources/translations/po/scribus.eo.po | 
+ | [es](/f20/language/es) | 553 | 14194 | 3.9 | /mnt/stockage/packages/f20/scribus/resources/translations/po/scribus.es_LA.po | 
+ | [bg](/f20/language/bg) | 190 | 14194 | 1.3 | /mnt/stockage/packages/f20/scribus/resources/translations/po/scribus.bg_BG.po | 
 {.sortable}
 
 

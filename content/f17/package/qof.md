@@ -18,11 +18,11 @@ The package qof (version 0.7.5):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [id]({{< ref "/f17/language/id.md" >}}) | 554 | 701 | 79.0 | /mnt/stockage/packages/f17/qof/po/id.po | 
- | [pt_BR]({{< ref "/f17/language/pt_BR.md" >}}) | 554 | 701 | 79.0 | /mnt/stockage/packages/f17/qof/po/pt_BR.po | 
- | [sv]({{< ref "/f17/language/sv.md" >}}) | 554 | 701 | 79.0 | /mnt/stockage/packages/f17/qof/po/sv.po | 
- | [vi]({{< ref "/f17/language/vi.md" >}}) | 554 | 701 | 79.0 | /mnt/stockage/packages/f17/qof/po/vi.po | 
- | [ro]({{< ref "/f17/language/ro.md" >}}) | 121 | 701 | 17.3 | /mnt/stockage/packages/f17/qof/po/ro.po | 
+ | [id](/f17/language/id) | 554 | 701 | 79.0 | /mnt/stockage/packages/f17/qof/po/id.po | 
+ | [pt_BR](/f17/language/pt_BR) | 554 | 701 | 79.0 | /mnt/stockage/packages/f17/qof/po/pt_BR.po | 
+ | [sv](/f17/language/sv) | 554 | 701 | 79.0 | /mnt/stockage/packages/f17/qof/po/sv.po | 
+ | [vi](/f17/language/vi) | 554 | 701 | 79.0 | /mnt/stockage/packages/f17/qof/po/vi.po | 
+ | [ro](/f17/language/ro) | 121 | 701 | 17.3 | /mnt/stockage/packages/f17/qof/po/ro.po | 
 {.sortable}
 
 

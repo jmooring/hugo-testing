@@ -38,16 +38,16 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [polkit-gnome]({{< ref "/f28/package/polkit-gnome.md" >}}) | 94 | 94 | 100.0 | Silesian <ubuntu-l10n-szl@lists.launchpad.net> | 
- | [gnome-menus]({{< ref "/f28/package/gnome-menus.md" >}}) | 95 | 103 | 92.2 | Silesian <szl@li.org> | 
- | [elementary-calculator]({{< ref "/f28/package/elementary-calculator.md" >}}) | 28 | 52 | 53.8 | Silesian <szl@li.org> | 
- | [pantheon-calculator]({{< ref "/f28/package/pantheon-calculator.md" >}}) | 28 | 52 | 53.8 | Silesian <szl@li.org> | 
- | [slick-greeter]({{< ref "/f28/package/slick-greeter.md" >}}) | 55 | 211 | 26.1 | Silesian <szl@li.org> | 
- | [libreoffice]({{< ref "/f28/package/libreoffice.md" >}}) | 0 | 98080 | 0.0 | LANGUAGE <LL@li.org> | 
- | [mc]({{< ref "/f28/package/mc.md" >}}) | 0 | 4153 | 0.0 | Silesian (http://www.transifex.com/mc/mc/language/szl/) | 
- | [pantheon-photos]({{< ref "/f28/package/pantheon-photos.md" >}}) | 0 | 3977 | 0.0 | Silesian <szl@li.org> | 
- | [tanglet]({{< ref "/f28/package/tanglet.md" >}}) | 0 | 128 | 0.0 | Silesian (http://www.transifex.com/projects/p/tanglet/language/szl/) | 
- | [wingpanel]({{< ref "/f28/package/wingpanel.md" >}}) | 0 | 8 | 0.0 | Silesian <szl@li.org> | 
+ | [polkit-gnome](/f28/package/polkit-gnome) | 94 | 94 | 100.0 | Silesian <ubuntu-l10n-szl@lists.launchpad.net> | 
+ | [gnome-menus](/f28/package/gnome-menus) | 95 | 103 | 92.2 | Silesian <szl@li.org> | 
+ | [elementary-calculator](/f28/package/elementary-calculator) | 28 | 52 | 53.8 | Silesian <szl@li.org> | 
+ | [pantheon-calculator](/f28/package/pantheon-calculator) | 28 | 52 | 53.8 | Silesian <szl@li.org> | 
+ | [slick-greeter](/f28/package/slick-greeter) | 55 | 211 | 26.1 | Silesian <szl@li.org> | 
+ | [libreoffice](/f28/package/libreoffice) | 0 | 98080 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [mc](/f28/package/mc) | 0 | 4153 | 0.0 | Silesian (http://www.transifex.com/mc/mc/language/szl/) | 
+ | [pantheon-photos](/f28/package/pantheon-photos) | 0 | 3977 | 0.0 | Silesian <szl@li.org> | 
+ | [tanglet](/f28/package/tanglet) | 0 | 128 | 0.0 | Silesian (http://www.transifex.com/projects/p/tanglet/language/szl/) | 
+ | [wingpanel](/f28/package/wingpanel) | 0 | 8 | 0.0 | Silesian <szl@li.org> | 
 {.sortable}
 
 

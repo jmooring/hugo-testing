@@ -18,18 +18,18 @@ The package kdesvn (version 0.11.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [nl]({{< ref "/f7/language/nl.md" >}}) | 3012 | 3012 | 100.0 | /mnt/stockage/packages/f7/kdesvn/po/nl.po | 
- | [gl]({{< ref "/f7/language/gl.md" >}}) | 2970 | 3012 | 98.6 | /mnt/stockage/packages/f7/kdesvn/po/gl.po | 
- | [es]({{< ref "/f7/language/es.md" >}}) | 2948 | 3012 | 97.9 | /mnt/stockage/packages/f7/kdesvn/po/es.po | 
- | [de]({{< ref "/f7/language/de.md" >}}) | 2805 | 3012 | 93.1 | /mnt/stockage/packages/f7/kdesvn/po/de.po | 
- | [fr]({{< ref "/f7/language/fr.md" >}}) | 2013 | 3012 | 66.8 | /mnt/stockage/packages/f7/kdesvn/po/fr.po | 
- | [sv]({{< ref "/f7/language/sv.md" >}}) | 2006 | 3012 | 66.6 | /mnt/stockage/packages/f7/kdesvn/po/sv.po | 
- | [it]({{< ref "/f7/language/it.md" >}}) | 1777 | 3012 | 59.0 | /mnt/stockage/packages/f7/kdesvn/po/it.po | 
- | [pa]({{< ref "/f7/language/pa.md" >}}) | 1657 | 3012 | 55.0 | /mnt/stockage/packages/f7/kdesvn/po/pa.po | 
- | [ca]({{< ref "/f7/language/ca.md" >}}) | 1449 | 3012 | 48.1 | /mnt/stockage/packages/f7/kdesvn/po/ca.po | 
- | [cs]({{< ref "/f7/language/cs.md" >}}) | 762 | 3012 | 25.3 | /mnt/stockage/packages/f7/kdesvn/po/cs.po | 
- | [lt]({{< ref "/f7/language/lt.md" >}}) | 648 | 3012 | 21.5 | /mnt/stockage/packages/f7/kdesvn/po/lt.po | 
- | [ru]({{< ref "/f7/language/ru.md" >}}) | 488 | 3012 | 16.2 | /mnt/stockage/packages/f7/kdesvn/po/ru.po | 
+ | [nl](/f7/language/nl) | 3012 | 3012 | 100.0 | /mnt/stockage/packages/f7/kdesvn/po/nl.po | 
+ | [gl](/f7/language/gl) | 2970 | 3012 | 98.6 | /mnt/stockage/packages/f7/kdesvn/po/gl.po | 
+ | [es](/f7/language/es) | 2948 | 3012 | 97.9 | /mnt/stockage/packages/f7/kdesvn/po/es.po | 
+ | [de](/f7/language/de) | 2805 | 3012 | 93.1 | /mnt/stockage/packages/f7/kdesvn/po/de.po | 
+ | [fr](/f7/language/fr) | 2013 | 3012 | 66.8 | /mnt/stockage/packages/f7/kdesvn/po/fr.po | 
+ | [sv](/f7/language/sv) | 2006 | 3012 | 66.6 | /mnt/stockage/packages/f7/kdesvn/po/sv.po | 
+ | [it](/f7/language/it) | 1777 | 3012 | 59.0 | /mnt/stockage/packages/f7/kdesvn/po/it.po | 
+ | [pa](/f7/language/pa) | 1657 | 3012 | 55.0 | /mnt/stockage/packages/f7/kdesvn/po/pa.po | 
+ | [ca](/f7/language/ca) | 1449 | 3012 | 48.1 | /mnt/stockage/packages/f7/kdesvn/po/ca.po | 
+ | [cs](/f7/language/cs) | 762 | 3012 | 25.3 | /mnt/stockage/packages/f7/kdesvn/po/cs.po | 
+ | [lt](/f7/language/lt) | 648 | 3012 | 21.5 | /mnt/stockage/packages/f7/kdesvn/po/lt.po | 
+ | [ru](/f7/language/ru) | 488 | 3012 | 16.2 | /mnt/stockage/packages/f7/kdesvn/po/ru.po | 
 {.sortable}
 
 

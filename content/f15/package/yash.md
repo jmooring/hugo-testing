@@ -18,8 +18,8 @@ The package yash (version 2.30):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [error]({{< ref "/f15/language/error.md" >}}) | 14966 | 14966 | 100.0 | /mnt/stockage/packages/f15/yash/po/en@quot.po/mnt/stockage/packages/f15/yash/po/en@boldquot.po | 
- | [ja]({{< ref "/f15/language/ja.md" >}}) | 2160 | 7483 | 28.9 | /mnt/stockage/packages/f15/yash/po/ja.po | 
+ | [error](/f15/language/error) | 14966 | 14966 | 100.0 | /mnt/stockage/packages/f15/yash/po/en@quot.po/mnt/stockage/packages/f15/yash/po/en@boldquot.po | 
+ | [ja](/f15/language/ja) | 2160 | 7483 | 28.9 | /mnt/stockage/packages/f15/yash/po/ja.po | 
 {.sortable}
 
 

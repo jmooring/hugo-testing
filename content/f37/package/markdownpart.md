@@ -18,40 +18,40 @@ The package markdownpart (version 23.04.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f37/language/ar.md" >}}) | 23 | 23 | 100.0 | /mnt/stockage/packages/f37/markdownpart/po/ar/markdownpart.po | 
- | [ca]({{< ref "/f37/language/ca.md" >}}) | 23 | 23 | 100.0 | /mnt/stockage/packages/f37/markdownpart/po/ca/markdownpart.po | 
- | [ca@valencia]({{< ref "/f37/language/ca@valencia.md" >}}) | 23 | 23 | 100.0 | /mnt/stockage/packages/f37/markdownpart/po/ca@valencia/markdownpart.po | 
- | [cs]({{< ref "/f37/language/cs.md" >}}) | 23 | 23 | 100.0 | /mnt/stockage/packages/f37/markdownpart/po/cs/markdownpart.po | 
- | [de]({{< ref "/f37/language/de.md" >}}) | 23 | 23 | 100.0 | /mnt/stockage/packages/f37/markdownpart/po/de/markdownpart.po | 
- | [el]({{< ref "/f37/language/el.md" >}}) | 23 | 23 | 100.0 | /mnt/stockage/packages/f37/markdownpart/po/el/markdownpart.po | 
- | [en_GB]({{< ref "/f37/language/en_GB.md" >}}) | 23 | 23 | 100.0 | /mnt/stockage/packages/f37/markdownpart/po/en_GB/markdownpart.po | 
- | [es]({{< ref "/f37/language/es.md" >}}) | 23 | 23 | 100.0 | /mnt/stockage/packages/f37/markdownpart/po/es/markdownpart.po | 
- | [et]({{< ref "/f37/language/et.md" >}}) | 23 | 23 | 100.0 | /mnt/stockage/packages/f37/markdownpart/po/et/markdownpart.po | 
- | [eu]({{< ref "/f37/language/eu.md" >}}) | 23 | 23 | 100.0 | /mnt/stockage/packages/f37/markdownpart/po/eu/markdownpart.po | 
- | [fi]({{< ref "/f37/language/fi.md" >}}) | 23 | 23 | 100.0 | /mnt/stockage/packages/f37/markdownpart/po/fi/markdownpart.po | 
- | [fr]({{< ref "/f37/language/fr.md" >}}) | 23 | 23 | 100.0 | /mnt/stockage/packages/f37/markdownpart/po/fr/markdownpart.po | 
- | [gl]({{< ref "/f37/language/gl.md" >}}) | 23 | 23 | 100.0 | /mnt/stockage/packages/f37/markdownpart/po/gl/markdownpart.po | 
- | [hi]({{< ref "/f37/language/hi.md" >}}) | 23 | 23 | 100.0 | /mnt/stockage/packages/f37/markdownpart/po/hi/markdownpart.po | 
- | [it]({{< ref "/f37/language/it.md" >}}) | 23 | 23 | 100.0 | /mnt/stockage/packages/f37/markdownpart/po/it/markdownpart.po | 
- | [ka]({{< ref "/f37/language/ka.md" >}}) | 23 | 23 | 100.0 | /mnt/stockage/packages/f37/markdownpart/po/ka/markdownpart.po | 
- | [ko]({{< ref "/f37/language/ko.md" >}}) | 23 | 23 | 100.0 | /mnt/stockage/packages/f37/markdownpart/po/ko/markdownpart.po | 
- | [nl]({{< ref "/f37/language/nl.md" >}}) | 23 | 23 | 100.0 | /mnt/stockage/packages/f37/markdownpart/po/nl/markdownpart.po | 
- | [nn]({{< ref "/f37/language/nn.md" >}}) | 23 | 23 | 100.0 | /mnt/stockage/packages/f37/markdownpart/po/nn/markdownpart.po | 
- | [pl]({{< ref "/f37/language/pl.md" >}}) | 23 | 23 | 100.0 | /mnt/stockage/packages/f37/markdownpart/po/pl/markdownpart.po | 
- | [pt]({{< ref "/f37/language/pt.md" >}}) | 23 | 23 | 100.0 | /mnt/stockage/packages/f37/markdownpart/po/pt/markdownpart.po | 
- | [pt_BR]({{< ref "/f37/language/pt_BR.md" >}}) | 23 | 23 | 100.0 | /mnt/stockage/packages/f37/markdownpart/po/pt_BR/markdownpart.po | 
- | [ro]({{< ref "/f37/language/ro.md" >}}) | 23 | 23 | 100.0 | /mnt/stockage/packages/f37/markdownpart/po/ro/markdownpart.po | 
- | [ru]({{< ref "/f37/language/ru.md" >}}) | 23 | 23 | 100.0 | /mnt/stockage/packages/f37/markdownpart/po/ru/markdownpart.po | 
- | [sk]({{< ref "/f37/language/sk.md" >}}) | 23 | 23 | 100.0 | /mnt/stockage/packages/f37/markdownpart/po/sk/markdownpart.po | 
- | [sl]({{< ref "/f37/language/sl.md" >}}) | 23 | 23 | 100.0 | /mnt/stockage/packages/f37/markdownpart/po/sl/markdownpart.po | 
- | [sv]({{< ref "/f37/language/sv.md" >}}) | 23 | 23 | 100.0 | /mnt/stockage/packages/f37/markdownpart/po/sv/markdownpart.po | 
- | [tr]({{< ref "/f37/language/tr.md" >}}) | 23 | 23 | 100.0 | /mnt/stockage/packages/f37/markdownpart/po/tr/markdownpart.po | 
- | [uk]({{< ref "/f37/language/uk.md" >}}) | 23 | 23 | 100.0 | /mnt/stockage/packages/f37/markdownpart/po/uk/markdownpart.po | 
- | [vi]({{< ref "/f37/language/vi.md" >}}) | 23 | 23 | 100.0 | /mnt/stockage/packages/f37/markdownpart/po/vi/markdownpart.po | 
- | [zh_Hans]({{< ref "/f37/language/zh_Hans.md" >}}) | 23 | 23 | 100.0 | /mnt/stockage/packages/f37/markdownpart/po/zh_CN/markdownpart.po | 
- | [ja]({{< ref "/f37/language/ja.md" >}}) | 0 | 23 | 0.0 | /mnt/stockage/packages/f37/markdownpart/po/ja/markdownpart.po | 
- | [lt]({{< ref "/f37/language/lt.md" >}}) | 0 | 23 | 0.0 | /mnt/stockage/packages/f37/markdownpart/po/lt/markdownpart.po | 
- | [zh_Hant]({{< ref "/f37/language/zh_Hant.md" >}}) | 0 | 23 | 0.0 | /mnt/stockage/packages/f37/markdownpart/po/zh_TW/markdownpart.po | 
+ | [ar](/f37/language/ar) | 23 | 23 | 100.0 | /mnt/stockage/packages/f37/markdownpart/po/ar/markdownpart.po | 
+ | [ca](/f37/language/ca) | 23 | 23 | 100.0 | /mnt/stockage/packages/f37/markdownpart/po/ca/markdownpart.po | 
+ | [ca@valencia](/f37/language/ca@valencia) | 23 | 23 | 100.0 | /mnt/stockage/packages/f37/markdownpart/po/ca@valencia/markdownpart.po | 
+ | [cs](/f37/language/cs) | 23 | 23 | 100.0 | /mnt/stockage/packages/f37/markdownpart/po/cs/markdownpart.po | 
+ | [de](/f37/language/de) | 23 | 23 | 100.0 | /mnt/stockage/packages/f37/markdownpart/po/de/markdownpart.po | 
+ | [el](/f37/language/el) | 23 | 23 | 100.0 | /mnt/stockage/packages/f37/markdownpart/po/el/markdownpart.po | 
+ | [en_GB](/f37/language/en_GB) | 23 | 23 | 100.0 | /mnt/stockage/packages/f37/markdownpart/po/en_GB/markdownpart.po | 
+ | [es](/f37/language/es) | 23 | 23 | 100.0 | /mnt/stockage/packages/f37/markdownpart/po/es/markdownpart.po | 
+ | [et](/f37/language/et) | 23 | 23 | 100.0 | /mnt/stockage/packages/f37/markdownpart/po/et/markdownpart.po | 
+ | [eu](/f37/language/eu) | 23 | 23 | 100.0 | /mnt/stockage/packages/f37/markdownpart/po/eu/markdownpart.po | 
+ | [fi](/f37/language/fi) | 23 | 23 | 100.0 | /mnt/stockage/packages/f37/markdownpart/po/fi/markdownpart.po | 
+ | [fr](/f37/language/fr) | 23 | 23 | 100.0 | /mnt/stockage/packages/f37/markdownpart/po/fr/markdownpart.po | 
+ | [gl](/f37/language/gl) | 23 | 23 | 100.0 | /mnt/stockage/packages/f37/markdownpart/po/gl/markdownpart.po | 
+ | [hi](/f37/language/hi) | 23 | 23 | 100.0 | /mnt/stockage/packages/f37/markdownpart/po/hi/markdownpart.po | 
+ | [it](/f37/language/it) | 23 | 23 | 100.0 | /mnt/stockage/packages/f37/markdownpart/po/it/markdownpart.po | 
+ | [ka](/f37/language/ka) | 23 | 23 | 100.0 | /mnt/stockage/packages/f37/markdownpart/po/ka/markdownpart.po | 
+ | [ko](/f37/language/ko) | 23 | 23 | 100.0 | /mnt/stockage/packages/f37/markdownpart/po/ko/markdownpart.po | 
+ | [nl](/f37/language/nl) | 23 | 23 | 100.0 | /mnt/stockage/packages/f37/markdownpart/po/nl/markdownpart.po | 
+ | [nn](/f37/language/nn) | 23 | 23 | 100.0 | /mnt/stockage/packages/f37/markdownpart/po/nn/markdownpart.po | 
+ | [pl](/f37/language/pl) | 23 | 23 | 100.0 | /mnt/stockage/packages/f37/markdownpart/po/pl/markdownpart.po | 
+ | [pt](/f37/language/pt) | 23 | 23 | 100.0 | /mnt/stockage/packages/f37/markdownpart/po/pt/markdownpart.po | 
+ | [pt_BR](/f37/language/pt_BR) | 23 | 23 | 100.0 | /mnt/stockage/packages/f37/markdownpart/po/pt_BR/markdownpart.po | 
+ | [ro](/f37/language/ro) | 23 | 23 | 100.0 | /mnt/stockage/packages/f37/markdownpart/po/ro/markdownpart.po | 
+ | [ru](/f37/language/ru) | 23 | 23 | 100.0 | /mnt/stockage/packages/f37/markdownpart/po/ru/markdownpart.po | 
+ | [sk](/f37/language/sk) | 23 | 23 | 100.0 | /mnt/stockage/packages/f37/markdownpart/po/sk/markdownpart.po | 
+ | [sl](/f37/language/sl) | 23 | 23 | 100.0 | /mnt/stockage/packages/f37/markdownpart/po/sl/markdownpart.po | 
+ | [sv](/f37/language/sv) | 23 | 23 | 100.0 | /mnt/stockage/packages/f37/markdownpart/po/sv/markdownpart.po | 
+ | [tr](/f37/language/tr) | 23 | 23 | 100.0 | /mnt/stockage/packages/f37/markdownpart/po/tr/markdownpart.po | 
+ | [uk](/f37/language/uk) | 23 | 23 | 100.0 | /mnt/stockage/packages/f37/markdownpart/po/uk/markdownpart.po | 
+ | [vi](/f37/language/vi) | 23 | 23 | 100.0 | /mnt/stockage/packages/f37/markdownpart/po/vi/markdownpart.po | 
+ | [zh_Hans](/f37/language/zh_Hans) | 23 | 23 | 100.0 | /mnt/stockage/packages/f37/markdownpart/po/zh_CN/markdownpart.po | 
+ | [ja](/f37/language/ja) | 0 | 23 | 0.0 | /mnt/stockage/packages/f37/markdownpart/po/ja/markdownpart.po | 
+ | [lt](/f37/language/lt) | 0 | 23 | 0.0 | /mnt/stockage/packages/f37/markdownpart/po/lt/markdownpart.po | 
+ | [zh_Hant](/f37/language/zh_Hant) | 0 | 23 | 0.0 | /mnt/stockage/packages/f37/markdownpart/po/zh_TW/markdownpart.po | 
 {.sortable}
 
 

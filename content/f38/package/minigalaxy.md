@@ -18,23 +18,23 @@ The package minigalaxy (version 1.2.6):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f38/language/cs.md" >}}) | 417 | 417 | 100.0 | /mnt/stockage/packages/f38/minigalaxy/data/po/cs_CZ.po | 
- | [el]({{< ref "/f38/language/el.md" >}}) | 428 | 428 | 100.0 | /mnt/stockage/packages/f38/minigalaxy/data/po/el.po | 
- | [zh_Hant]({{< ref "/f38/language/zh_Hant.md" >}}) | 358 | 358 | 100.0 | /mnt/stockage/packages/f38/minigalaxy/data/po/zh_TW.po | 
- | [zh_Hans]({{< ref "/f38/language/zh_Hans.md" >}}) | 357 | 358 | 99.7 | /mnt/stockage/packages/f38/minigalaxy/data/po/zh_CN.po | 
- | [ru]({{< ref "/f38/language/ru.md" >}}) | 354 | 358 | 98.9 | /mnt/stockage/packages/f38/minigalaxy/data/po/ru_RU.po | 
- | [uk]({{< ref "/f38/language/uk.md" >}}) | 701 | 717 | 97.8 | /mnt/stockage/packages/f38/minigalaxy/data/po/uk.po/mnt/stockage/packages/f38/minigalaxy/data/po/ro.po | 
- | [nb_NO]({{< ref "/f38/language/nb_NO.md" >}}) | 753 | 775 | 97.2 | /mnt/stockage/packages/f38/minigalaxy/data/po/nn_NO.po/mnt/stockage/packages/f38/minigalaxy/data/po/nb_NO.po | 
- | [de]({{< ref "/f38/language/de.md" >}}) | 343 | 358 | 95.8 | /mnt/stockage/packages/f38/minigalaxy/data/po/de.po | 
- | [fi]({{< ref "/f38/language/fi.md" >}}) | 343 | 358 | 95.8 | /mnt/stockage/packages/f38/minigalaxy/data/po/fi.po | 
- | [fr]({{< ref "/f38/language/fr.md" >}}) | 343 | 358 | 95.8 | /mnt/stockage/packages/f38/minigalaxy/data/po/fr.po | 
- | [nl]({{< ref "/f38/language/nl.md" >}}) | 343 | 358 | 95.8 | /mnt/stockage/packages/f38/minigalaxy/data/po/nl.po | 
- | [sv]({{< ref "/f38/language/sv.md" >}}) | 342 | 358 | 95.5 | /mnt/stockage/packages/f38/minigalaxy/data/po/sv_SE.po | 
- | [tr]({{< ref "/f38/language/tr.md" >}}) | 342 | 358 | 95.5 | /mnt/stockage/packages/f38/minigalaxy/data/po/tr.po | 
- | [es]({{< ref "/f38/language/es.md" >}}) | 741 | 784 | 94.5 | /mnt/stockage/packages/f38/minigalaxy/data/po/es_ES.po/mnt/stockage/packages/f38/minigalaxy/data/po/es.po | 
- | [pl]({{< ref "/f38/language/pl.md" >}}) | 334 | 358 | 93.3 | /mnt/stockage/packages/f38/minigalaxy/data/po/pl.po | 
- | [it]({{< ref "/f38/language/it.md" >}}) | 230 | 358 | 64.2 | /mnt/stockage/packages/f38/minigalaxy/data/po/it_IT.po | 
- | [pt_BR]({{< ref "/f38/language/pt_BR.md" >}}) | 202 | 358 | 56.4 | /mnt/stockage/packages/f38/minigalaxy/data/po/pt_BR.po | 
+ | [cs](/f38/language/cs) | 417 | 417 | 100.0 | /mnt/stockage/packages/f38/minigalaxy/data/po/cs_CZ.po | 
+ | [el](/f38/language/el) | 428 | 428 | 100.0 | /mnt/stockage/packages/f38/minigalaxy/data/po/el.po | 
+ | [zh_Hant](/f38/language/zh_Hant) | 358 | 358 | 100.0 | /mnt/stockage/packages/f38/minigalaxy/data/po/zh_TW.po | 
+ | [zh_Hans](/f38/language/zh_Hans) | 357 | 358 | 99.7 | /mnt/stockage/packages/f38/minigalaxy/data/po/zh_CN.po | 
+ | [ru](/f38/language/ru) | 354 | 358 | 98.9 | /mnt/stockage/packages/f38/minigalaxy/data/po/ru_RU.po | 
+ | [uk](/f38/language/uk) | 701 | 717 | 97.8 | /mnt/stockage/packages/f38/minigalaxy/data/po/uk.po/mnt/stockage/packages/f38/minigalaxy/data/po/ro.po | 
+ | [nb_NO](/f38/language/nb_NO) | 753 | 775 | 97.2 | /mnt/stockage/packages/f38/minigalaxy/data/po/nn_NO.po/mnt/stockage/packages/f38/minigalaxy/data/po/nb_NO.po | 
+ | [de](/f38/language/de) | 343 | 358 | 95.8 | /mnt/stockage/packages/f38/minigalaxy/data/po/de.po | 
+ | [fi](/f38/language/fi) | 343 | 358 | 95.8 | /mnt/stockage/packages/f38/minigalaxy/data/po/fi.po | 
+ | [fr](/f38/language/fr) | 343 | 358 | 95.8 | /mnt/stockage/packages/f38/minigalaxy/data/po/fr.po | 
+ | [nl](/f38/language/nl) | 343 | 358 | 95.8 | /mnt/stockage/packages/f38/minigalaxy/data/po/nl.po | 
+ | [sv](/f38/language/sv) | 342 | 358 | 95.5 | /mnt/stockage/packages/f38/minigalaxy/data/po/sv_SE.po | 
+ | [tr](/f38/language/tr) | 342 | 358 | 95.5 | /mnt/stockage/packages/f38/minigalaxy/data/po/tr.po | 
+ | [es](/f38/language/es) | 741 | 784 | 94.5 | /mnt/stockage/packages/f38/minigalaxy/data/po/es_ES.po/mnt/stockage/packages/f38/minigalaxy/data/po/es.po | 
+ | [pl](/f38/language/pl) | 334 | 358 | 93.3 | /mnt/stockage/packages/f38/minigalaxy/data/po/pl.po | 
+ | [it](/f38/language/it) | 230 | 358 | 64.2 | /mnt/stockage/packages/f38/minigalaxy/data/po/it_IT.po | 
+ | [pt_BR](/f38/language/pt_BR) | 202 | 358 | 56.4 | /mnt/stockage/packages/f38/minigalaxy/data/po/pt_BR.po | 
 {.sortable}
 
 

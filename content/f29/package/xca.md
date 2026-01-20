@@ -18,10 +18,10 @@ The package xca (version 1.4.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f29/language/fr.md" >}}) | 3139 | 3139 | 100.0 | /mnt/stockage/packages/f29/xca/lang/fr.po | 
- | [sk]({{< ref "/f29/language/sk.md" >}}) | 3139 | 3139 | 100.0 | /mnt/stockage/packages/f29/xca/lang/sk.po | 
- | [tr]({{< ref "/f29/language/tr.md" >}}) | 392 | 3286 | 11.9 | /mnt/stockage/packages/f29/xca/lang/tr.po | 
- | [es]({{< ref "/f29/language/es.md" >}}) | 197 | 3269 | 6.0 | /mnt/stockage/packages/f29/xca/lang/es.po | 
+ | [fr](/f29/language/fr) | 3139 | 3139 | 100.0 | /mnt/stockage/packages/f29/xca/lang/fr.po | 
+ | [sk](/f29/language/sk) | 3139 | 3139 | 100.0 | /mnt/stockage/packages/f29/xca/lang/sk.po | 
+ | [tr](/f29/language/tr) | 392 | 3286 | 11.9 | /mnt/stockage/packages/f29/xca/lang/tr.po | 
+ | [es](/f29/language/es) | 197 | 3269 | 6.0 | /mnt/stockage/packages/f29/xca/lang/es.po | 
 {.sortable}
 
 

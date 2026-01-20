@@ -18,16 +18,16 @@ The package mu (version 1.0.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f33/language/de.md" >}}) | 1943 | 1943 | 100.0 | /mnt/stockage/packages/f33/mu/mu/locale/de_DE/LC_MESSAGES/mu.po | 
- | [es]({{< ref "/f33/language/es.md" >}}) | 1943 | 1943 | 100.0 | /mnt/stockage/packages/f33/mu/mu/locale/es/LC_MESSAGES/mu.po | 
- | [fr]({{< ref "/f33/language/fr.md" >}}) | 2143 | 2143 | 100.0 | /mnt/stockage/packages/f33/mu/mu/locale/fr/LC_MESSAGES/mu.po | 
- | [pl]({{< ref "/f33/language/pl.md" >}}) | 1898 | 1898 | 100.0 | /mnt/stockage/packages/f33/mu/mu/locale/pl/LC_MESSAGES/mu.po | 
- | [pt_BR]({{< ref "/f33/language/pt_BR.md" >}}) | 1943 | 1943 | 100.0 | /mnt/stockage/packages/f33/mu/mu/locale/pt_BR/LC_MESSAGES/mu.po | 
- | [pt_PT]({{< ref "/f33/language/pt_PT.md" >}}) | 1943 | 1943 | 100.0 | /mnt/stockage/packages/f33/mu/mu/locale/pt_PT/LC_MESSAGES/mu.po | 
- | [sv]({{< ref "/f33/language/sv.md" >}}) | 1943 | 1943 | 100.0 | /mnt/stockage/packages/f33/mu/mu/locale/sv/LC_MESSAGES/mu.po | 
- | [vi]({{< ref "/f33/language/vi.md" >}}) | 1943 | 1943 | 100.0 | /mnt/stockage/packages/f33/mu/mu/locale/vi/LC_MESSAGES/mu.po | 
- | [ja]({{< ref "/f33/language/ja.md" >}}) | 1927 | 1943 | 99.2 | /mnt/stockage/packages/f33/mu/mu/locale/ja/LC_MESSAGES/mu.po | 
- | [zh_Hans]({{< ref "/f33/language/zh_Hans.md" >}}) | 1943 | 58054 | 3.3 | /mnt/stockage/packages/f33/mu/mu/locale/zh_CN/LC_MESSAGES/mu.po | 
+ | [de](/f33/language/de) | 1943 | 1943 | 100.0 | /mnt/stockage/packages/f33/mu/mu/locale/de_DE/LC_MESSAGES/mu.po | 
+ | [es](/f33/language/es) | 1943 | 1943 | 100.0 | /mnt/stockage/packages/f33/mu/mu/locale/es/LC_MESSAGES/mu.po | 
+ | [fr](/f33/language/fr) | 2143 | 2143 | 100.0 | /mnt/stockage/packages/f33/mu/mu/locale/fr/LC_MESSAGES/mu.po | 
+ | [pl](/f33/language/pl) | 1898 | 1898 | 100.0 | /mnt/stockage/packages/f33/mu/mu/locale/pl/LC_MESSAGES/mu.po | 
+ | [pt_BR](/f33/language/pt_BR) | 1943 | 1943 | 100.0 | /mnt/stockage/packages/f33/mu/mu/locale/pt_BR/LC_MESSAGES/mu.po | 
+ | [pt_PT](/f33/language/pt_PT) | 1943 | 1943 | 100.0 | /mnt/stockage/packages/f33/mu/mu/locale/pt_PT/LC_MESSAGES/mu.po | 
+ | [sv](/f33/language/sv) | 1943 | 1943 | 100.0 | /mnt/stockage/packages/f33/mu/mu/locale/sv/LC_MESSAGES/mu.po | 
+ | [vi](/f33/language/vi) | 1943 | 1943 | 100.0 | /mnt/stockage/packages/f33/mu/mu/locale/vi/LC_MESSAGES/mu.po | 
+ | [ja](/f33/language/ja) | 1927 | 1943 | 99.2 | /mnt/stockage/packages/f33/mu/mu/locale/ja/LC_MESSAGES/mu.po | 
+ | [zh_Hans](/f33/language/zh_Hans) | 1943 | 58054 | 3.3 | /mnt/stockage/packages/f33/mu/mu/locale/zh_CN/LC_MESSAGES/mu.po | 
 {.sortable}
 
 

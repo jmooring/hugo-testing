@@ -18,25 +18,25 @@ The package osmo (version 0.2.8):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f12/language/cs.md" >}}) | 1613 | 1613 | 100.0 | /mnt/stockage/packages/f12/osmo/po/cs.po | 
- | [es]({{< ref "/f12/language/es.md" >}}) | 1613 | 1613 | 100.0 | /mnt/stockage/packages/f12/osmo/po/es.po | 
- | [fr]({{< ref "/f12/language/fr.md" >}}) | 1613 | 1613 | 100.0 | /mnt/stockage/packages/f12/osmo/po/fr.po | 
- | [ja]({{< ref "/f12/language/ja.md" >}}) | 1613 | 1613 | 100.0 | /mnt/stockage/packages/f12/osmo/po/ja.po | 
- | [pl]({{< ref "/f12/language/pl.md" >}}) | 1613 | 1613 | 100.0 | /mnt/stockage/packages/f12/osmo/po/pl.po | 
- | [tr]({{< ref "/f12/language/tr.md" >}}) | 1613 | 1613 | 100.0 | /mnt/stockage/packages/f12/osmo/po/tr.po | 
- | [nl]({{< ref "/f12/language/nl.md" >}}) | 1599 | 1611 | 99.3 | /mnt/stockage/packages/f12/osmo/po/nl.po | 
- | [de]({{< ref "/f12/language/de.md" >}}) | 1426 | 1613 | 88.4 | /mnt/stockage/packages/f12/osmo/po/de.po | 
- | [it]({{< ref "/f12/language/it.md" >}}) | 1426 | 1613 | 88.4 | /mnt/stockage/packages/f12/osmo/po/it.po | 
- | [ru]({{< ref "/f12/language/ru.md" >}}) | 1426 | 1613 | 88.4 | /mnt/stockage/packages/f12/osmo/po/ru.po | 
- | [uk]({{< ref "/f12/language/uk.md" >}}) | 1371 | 1613 | 85.0 | /mnt/stockage/packages/f12/osmo/po/uk.po | 
- | [ca]({{< ref "/f12/language/ca.md" >}}) | 1336 | 1613 | 82.8 | /mnt/stockage/packages/f12/osmo/po/ca.po | 
- | [fi]({{< ref "/f12/language/fi.md" >}}) | 1336 | 1613 | 82.8 | /mnt/stockage/packages/f12/osmo/po/fi.po | 
- | [el]({{< ref "/f12/language/el.md" >}}) | 1335 | 1613 | 82.8 | /mnt/stockage/packages/f12/osmo/po/el.po | 
- | [sv]({{< ref "/f12/language/sv.md" >}}) | 1281 | 1613 | 79.4 | /mnt/stockage/packages/f12/osmo/po/sv.po | 
- | [hu]({{< ref "/f12/language/hu.md" >}}) | 1114 | 1613 | 69.1 | /mnt/stockage/packages/f12/osmo/po/hu.po | 
- | [lt]({{< ref "/f12/language/lt.md" >}}) | 1043 | 1613 | 64.7 | /mnt/stockage/packages/f12/osmo/po/lt.po | 
- | [pt]({{< ref "/f12/language/pt.md" >}}) | 981 | 1613 | 60.8 | /mnt/stockage/packages/f12/osmo/po/pt.po | 
- | [zh_Hans]({{< ref "/f12/language/zh_Hans.md" >}}) | 776 | 1613 | 48.1 | /mnt/stockage/packages/f12/osmo/po/zh_CN.po | 
+ | [cs](/f12/language/cs) | 1613 | 1613 | 100.0 | /mnt/stockage/packages/f12/osmo/po/cs.po | 
+ | [es](/f12/language/es) | 1613 | 1613 | 100.0 | /mnt/stockage/packages/f12/osmo/po/es.po | 
+ | [fr](/f12/language/fr) | 1613 | 1613 | 100.0 | /mnt/stockage/packages/f12/osmo/po/fr.po | 
+ | [ja](/f12/language/ja) | 1613 | 1613 | 100.0 | /mnt/stockage/packages/f12/osmo/po/ja.po | 
+ | [pl](/f12/language/pl) | 1613 | 1613 | 100.0 | /mnt/stockage/packages/f12/osmo/po/pl.po | 
+ | [tr](/f12/language/tr) | 1613 | 1613 | 100.0 | /mnt/stockage/packages/f12/osmo/po/tr.po | 
+ | [nl](/f12/language/nl) | 1599 | 1611 | 99.3 | /mnt/stockage/packages/f12/osmo/po/nl.po | 
+ | [de](/f12/language/de) | 1426 | 1613 | 88.4 | /mnt/stockage/packages/f12/osmo/po/de.po | 
+ | [it](/f12/language/it) | 1426 | 1613 | 88.4 | /mnt/stockage/packages/f12/osmo/po/it.po | 
+ | [ru](/f12/language/ru) | 1426 | 1613 | 88.4 | /mnt/stockage/packages/f12/osmo/po/ru.po | 
+ | [uk](/f12/language/uk) | 1371 | 1613 | 85.0 | /mnt/stockage/packages/f12/osmo/po/uk.po | 
+ | [ca](/f12/language/ca) | 1336 | 1613 | 82.8 | /mnt/stockage/packages/f12/osmo/po/ca.po | 
+ | [fi](/f12/language/fi) | 1336 | 1613 | 82.8 | /mnt/stockage/packages/f12/osmo/po/fi.po | 
+ | [el](/f12/language/el) | 1335 | 1613 | 82.8 | /mnt/stockage/packages/f12/osmo/po/el.po | 
+ | [sv](/f12/language/sv) | 1281 | 1613 | 79.4 | /mnt/stockage/packages/f12/osmo/po/sv.po | 
+ | [hu](/f12/language/hu) | 1114 | 1613 | 69.1 | /mnt/stockage/packages/f12/osmo/po/hu.po | 
+ | [lt](/f12/language/lt) | 1043 | 1613 | 64.7 | /mnt/stockage/packages/f12/osmo/po/lt.po | 
+ | [pt](/f12/language/pt) | 981 | 1613 | 60.8 | /mnt/stockage/packages/f12/osmo/po/pt.po | 
+ | [zh_Hans](/f12/language/zh_Hans) | 776 | 1613 | 48.1 | /mnt/stockage/packages/f12/osmo/po/zh_CN.po | 
 {.sortable}
 
 

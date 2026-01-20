@@ -38,16 +38,16 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [gnome-applets]({{< ref "/f18/package/gnome-applets.md" >}}) | 3858 | 3858 | 100.0 | Spanish <traductores@es.gnome.org> | 
- | [turpial]({{< ref "/f18/package/turpial.md" >}}) | 569 | 569 | 100.0 | LANGUAGE <LL@li.org> | 
- | [libgweather]({{< ref "/f18/package/libgweather.md" >}}) | 447 | 460 | 97.2 | Spanish <traductores@es.gnome.org> | 
- | [lxmusic]({{< ref "/f18/package/lxmusic.md" >}}) | 196 | 203 | 96.6 | pcman.tw@gmail.com | 
- | [lxinput]({{< ref "/f18/package/lxinput.md" >}}) | 60 | 72 | 83.3 | LANGUAGE <LL@li.org> | 
- | [mate-applets]({{< ref "/f18/package/mate-applets.md" >}}) | 2555 | 3299 | 77.4 | LANGUAGE <LL@li.org> | 
- | [libmateweather]({{< ref "/f18/package/libmateweather.md" >}}) | 361 | 487 | 74.1 | LANGUAGE <LL@li.org> | 
- | [openerp]({{< ref "/f18/package/openerp.md" >}}) | 21309 | 54680 | 39.0 | Spanish (Venezuela) <es_VE@li.org> | 
- | [lxdm]({{< ref "/f18/package/lxdm.md" >}}) | 11 | 30 | 36.7 | LANGUAGE <LL@li.org> | 
- | [lxpolkit]({{< ref "/f18/package/lxpolkit.md" >}}) | 0 | 15 | 0.0 | Spanish | 
+ | [gnome-applets](/f18/package/gnome-applets) | 3858 | 3858 | 100.0 | Spanish <traductores@es.gnome.org> | 
+ | [turpial](/f18/package/turpial) | 569 | 569 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [libgweather](/f18/package/libgweather) | 447 | 460 | 97.2 | Spanish <traductores@es.gnome.org> | 
+ | [lxmusic](/f18/package/lxmusic) | 196 | 203 | 96.6 | pcman.tw@gmail.com | 
+ | [lxinput](/f18/package/lxinput) | 60 | 72 | 83.3 | LANGUAGE <LL@li.org> | 
+ | [mate-applets](/f18/package/mate-applets) | 2555 | 3299 | 77.4 | LANGUAGE <LL@li.org> | 
+ | [libmateweather](/f18/package/libmateweather) | 361 | 487 | 74.1 | LANGUAGE <LL@li.org> | 
+ | [openerp](/f18/package/openerp) | 21309 | 54680 | 39.0 | Spanish (Venezuela) <es_VE@li.org> | 
+ | [lxdm](/f18/package/lxdm) | 11 | 30 | 36.7 | LANGUAGE <LL@li.org> | 
+ | [lxpolkit](/f18/package/lxpolkit) | 0 | 15 | 0.0 | Spanish | 
 {.sortable}
 
 

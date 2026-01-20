@@ -18,41 +18,41 @@ The package emerald (version 0.8.18):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f35/language/ca.md" >}}) | 696 | 696 | 100.0 | /mnt/stockage/packages/f35/emerald/po/ca.po | 
- | [nl]({{< ref "/f35/language/nl.md" >}}) | 696 | 696 | 100.0 | /mnt/stockage/packages/f35/emerald/po/nl.po | 
- | [en_GB]({{< ref "/f35/language/en_GB.md" >}}) | 693 | 696 | 99.6 | /mnt/stockage/packages/f35/emerald/po/en_GB.po | 
- | [ru]({{< ref "/f35/language/ru.md" >}}) | 657 | 696 | 94.4 | /mnt/stockage/packages/f35/emerald/po/ru.po | 
- | [fr]({{< ref "/f35/language/fr.md" >}}) | 656 | 696 | 94.3 | /mnt/stockage/packages/f35/emerald/po/fr.po | 
- | [ar]({{< ref "/f35/language/ar.md" >}}) | 652 | 696 | 93.7 | /mnt/stockage/packages/f35/emerald/po/ar.po | 
- | [bn]({{< ref "/f35/language/bn.md" >}}) | 652 | 696 | 93.7 | /mnt/stockage/packages/f35/emerald/po/bn.po | 
- | [bn_IN]({{< ref "/f35/language/bn_IN.md" >}}) | 652 | 696 | 93.7 | /mnt/stockage/packages/f35/emerald/po/bn_IN.po | 
- | [de]({{< ref "/f35/language/de.md" >}}) | 652 | 696 | 93.7 | /mnt/stockage/packages/f35/emerald/po/de.po | 
- | [el]({{< ref "/f35/language/el.md" >}}) | 652 | 696 | 93.7 | /mnt/stockage/packages/f35/emerald/po/el.po | 
- | [es]({{< ref "/f35/language/es.md" >}}) | 652 | 696 | 93.7 | /mnt/stockage/packages/f35/emerald/po/es.po | 
- | [eu]({{< ref "/f35/language/eu.md" >}}) | 652 | 696 | 93.7 | /mnt/stockage/packages/f35/emerald/po/eu.po | 
- | [fi]({{< ref "/f35/language/fi.md" >}}) | 652 | 696 | 93.7 | /mnt/stockage/packages/f35/emerald/po/fi.po | 
- | [gl]({{< ref "/f35/language/gl.md" >}}) | 652 | 696 | 93.7 | /mnt/stockage/packages/f35/emerald/po/gl.po | 
- | [hi]({{< ref "/f35/language/hi.md" >}}) | 652 | 696 | 93.7 | /mnt/stockage/packages/f35/emerald/po/hi.po | 
- | [hu]({{< ref "/f35/language/hu.md" >}}) | 652 | 696 | 93.7 | /mnt/stockage/packages/f35/emerald/po/hu.po | 
- | [it]({{< ref "/f35/language/it.md" >}}) | 652 | 696 | 93.7 | /mnt/stockage/packages/f35/emerald/po/it.po | 
- | [pa]({{< ref "/f35/language/pa.md" >}}) | 652 | 696 | 93.7 | /mnt/stockage/packages/f35/emerald/po/pa.po | 
- | [pt]({{< ref "/f35/language/pt.md" >}}) | 652 | 696 | 93.7 | /mnt/stockage/packages/f35/emerald/po/pt.po | 
- | [pt_BR]({{< ref "/f35/language/pt_BR.md" >}}) | 652 | 696 | 93.7 | /mnt/stockage/packages/f35/emerald/po/pt_BR.po | 
- | [sk]({{< ref "/f35/language/sk.md" >}}) | 652 | 696 | 93.7 | /mnt/stockage/packages/f35/emerald/po/sk.po | 
- | [sv]({{< ref "/f35/language/sv.md" >}}) | 652 | 696 | 93.7 | /mnt/stockage/packages/f35/emerald/po/sv.po | 
- | [tr]({{< ref "/f35/language/tr.md" >}}) | 652 | 696 | 93.7 | /mnt/stockage/packages/f35/emerald/po/tr.po | 
- | [zh_Hans]({{< ref "/f35/language/zh_Hans.md" >}}) | 652 | 696 | 93.7 | /mnt/stockage/packages/f35/emerald/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f35/language/zh_Hant.md" >}}) | 652 | 696 | 93.7 | /mnt/stockage/packages/f35/emerald/po/zh_TW.po | 
- | [he]({{< ref "/f35/language/he.md" >}}) | 651 | 696 | 93.5 | /mnt/stockage/packages/f35/emerald/po/he.po | 
- | [ko]({{< ref "/f35/language/ko.md" >}}) | 651 | 696 | 93.5 | /mnt/stockage/packages/f35/emerald/po/ko.po | 
- | [nb_NO]({{< ref "/f35/language/nb_NO.md" >}}) | 651 | 696 | 93.5 | /mnt/stockage/packages/f35/emerald/po/nb.po | 
- | [ja]({{< ref "/f35/language/ja.md" >}}) | 648 | 696 | 93.1 | /mnt/stockage/packages/f35/emerald/po/ja.po | 
- | [pl]({{< ref "/f35/language/pl.md" >}}) | 647 | 696 | 93.0 | /mnt/stockage/packages/f35/emerald/po/pl.po | 
- | [or]({{< ref "/f35/language/or.md" >}}) | 640 | 696 | 92.0 | /mnt/stockage/packages/f35/emerald/po/or.po | 
- | [gu]({{< ref "/f35/language/gu.md" >}}) | 639 | 696 | 91.8 | /mnt/stockage/packages/f35/emerald/po/gu.po | 
- | [zh_Hant_HK]({{< ref "/f35/language/zh_Hant_HK.md" >}}) | 638 | 696 | 91.7 | /mnt/stockage/packages/f35/emerald/po/zh_HK.po | 
- | [cs]({{< ref "/f35/language/cs.md" >}}) | 631 | 696 | 90.7 | /mnt/stockage/packages/f35/emerald/po/cs.po | 
- | [es_AR]({{< ref "/f35/language/es_AR.md" >}}) | 563 | 696 | 80.9 | /mnt/stockage/packages/f35/emerald/po/es_AR.po | 
+ | [ca](/f35/language/ca) | 696 | 696 | 100.0 | /mnt/stockage/packages/f35/emerald/po/ca.po | 
+ | [nl](/f35/language/nl) | 696 | 696 | 100.0 | /mnt/stockage/packages/f35/emerald/po/nl.po | 
+ | [en_GB](/f35/language/en_GB) | 693 | 696 | 99.6 | /mnt/stockage/packages/f35/emerald/po/en_GB.po | 
+ | [ru](/f35/language/ru) | 657 | 696 | 94.4 | /mnt/stockage/packages/f35/emerald/po/ru.po | 
+ | [fr](/f35/language/fr) | 656 | 696 | 94.3 | /mnt/stockage/packages/f35/emerald/po/fr.po | 
+ | [ar](/f35/language/ar) | 652 | 696 | 93.7 | /mnt/stockage/packages/f35/emerald/po/ar.po | 
+ | [bn](/f35/language/bn) | 652 | 696 | 93.7 | /mnt/stockage/packages/f35/emerald/po/bn.po | 
+ | [bn_IN](/f35/language/bn_IN) | 652 | 696 | 93.7 | /mnt/stockage/packages/f35/emerald/po/bn_IN.po | 
+ | [de](/f35/language/de) | 652 | 696 | 93.7 | /mnt/stockage/packages/f35/emerald/po/de.po | 
+ | [el](/f35/language/el) | 652 | 696 | 93.7 | /mnt/stockage/packages/f35/emerald/po/el.po | 
+ | [es](/f35/language/es) | 652 | 696 | 93.7 | /mnt/stockage/packages/f35/emerald/po/es.po | 
+ | [eu](/f35/language/eu) | 652 | 696 | 93.7 | /mnt/stockage/packages/f35/emerald/po/eu.po | 
+ | [fi](/f35/language/fi) | 652 | 696 | 93.7 | /mnt/stockage/packages/f35/emerald/po/fi.po | 
+ | [gl](/f35/language/gl) | 652 | 696 | 93.7 | /mnt/stockage/packages/f35/emerald/po/gl.po | 
+ | [hi](/f35/language/hi) | 652 | 696 | 93.7 | /mnt/stockage/packages/f35/emerald/po/hi.po | 
+ | [hu](/f35/language/hu) | 652 | 696 | 93.7 | /mnt/stockage/packages/f35/emerald/po/hu.po | 
+ | [it](/f35/language/it) | 652 | 696 | 93.7 | /mnt/stockage/packages/f35/emerald/po/it.po | 
+ | [pa](/f35/language/pa) | 652 | 696 | 93.7 | /mnt/stockage/packages/f35/emerald/po/pa.po | 
+ | [pt](/f35/language/pt) | 652 | 696 | 93.7 | /mnt/stockage/packages/f35/emerald/po/pt.po | 
+ | [pt_BR](/f35/language/pt_BR) | 652 | 696 | 93.7 | /mnt/stockage/packages/f35/emerald/po/pt_BR.po | 
+ | [sk](/f35/language/sk) | 652 | 696 | 93.7 | /mnt/stockage/packages/f35/emerald/po/sk.po | 
+ | [sv](/f35/language/sv) | 652 | 696 | 93.7 | /mnt/stockage/packages/f35/emerald/po/sv.po | 
+ | [tr](/f35/language/tr) | 652 | 696 | 93.7 | /mnt/stockage/packages/f35/emerald/po/tr.po | 
+ | [zh_Hans](/f35/language/zh_Hans) | 652 | 696 | 93.7 | /mnt/stockage/packages/f35/emerald/po/zh_CN.po | 
+ | [zh_Hant](/f35/language/zh_Hant) | 652 | 696 | 93.7 | /mnt/stockage/packages/f35/emerald/po/zh_TW.po | 
+ | [he](/f35/language/he) | 651 | 696 | 93.5 | /mnt/stockage/packages/f35/emerald/po/he.po | 
+ | [ko](/f35/language/ko) | 651 | 696 | 93.5 | /mnt/stockage/packages/f35/emerald/po/ko.po | 
+ | [nb_NO](/f35/language/nb_NO) | 651 | 696 | 93.5 | /mnt/stockage/packages/f35/emerald/po/nb.po | 
+ | [ja](/f35/language/ja) | 648 | 696 | 93.1 | /mnt/stockage/packages/f35/emerald/po/ja.po | 
+ | [pl](/f35/language/pl) | 647 | 696 | 93.0 | /mnt/stockage/packages/f35/emerald/po/pl.po | 
+ | [or](/f35/language/or) | 640 | 696 | 92.0 | /mnt/stockage/packages/f35/emerald/po/or.po | 
+ | [gu](/f35/language/gu) | 639 | 696 | 91.8 | /mnt/stockage/packages/f35/emerald/po/gu.po | 
+ | [zh_Hant_HK](/f35/language/zh_Hant_HK) | 638 | 696 | 91.7 | /mnt/stockage/packages/f35/emerald/po/zh_HK.po | 
+ | [cs](/f35/language/cs) | 631 | 696 | 90.7 | /mnt/stockage/packages/f35/emerald/po/cs.po | 
+ | [es_AR](/f35/language/es_AR) | 563 | 696 | 80.9 | /mnt/stockage/packages/f35/emerald/po/es_AR.po | 
 {.sortable}
 
 

@@ -18,11 +18,11 @@ The package pdfshuffler (version 0.5):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f13/language/de.md" >}}) | 108 | 108 | 100.0 | /mnt/stockage/packages/f13/pdfshuffler/po/de.po | 
- | [el]({{< ref "/f13/language/el.md" >}}) | 108 | 108 | 100.0 | /mnt/stockage/packages/f13/pdfshuffler/po/el.po | 
- | [es]({{< ref "/f13/language/es.md" >}}) | 108 | 108 | 100.0 | /mnt/stockage/packages/f13/pdfshuffler/po/es.po | 
- | [fr]({{< ref "/f13/language/fr.md" >}}) | 108 | 108 | 100.0 | /mnt/stockage/packages/f13/pdfshuffler/po/fr.po | 
- | [it]({{< ref "/f13/language/it.md" >}}) | 62 | 108 | 57.4 | /mnt/stockage/packages/f13/pdfshuffler/po/it.po | 
+ | [de](/f13/language/de) | 108 | 108 | 100.0 | /mnt/stockage/packages/f13/pdfshuffler/po/de.po | 
+ | [el](/f13/language/el) | 108 | 108 | 100.0 | /mnt/stockage/packages/f13/pdfshuffler/po/el.po | 
+ | [es](/f13/language/es) | 108 | 108 | 100.0 | /mnt/stockage/packages/f13/pdfshuffler/po/es.po | 
+ | [fr](/f13/language/fr) | 108 | 108 | 100.0 | /mnt/stockage/packages/f13/pdfshuffler/po/fr.po | 
+ | [it](/f13/language/it) | 62 | 108 | 57.4 | /mnt/stockage/packages/f13/pdfshuffler/po/it.po | 
 {.sortable}
 
 

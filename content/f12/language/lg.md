@@ -38,10 +38,10 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [virtaal]({{< ref "/f12/package/virtaal.md" >}}) | 1389 | 1389 | 100.0 | LANGUAGE <LL@li.org> | 
- | [pootle]({{< ref "/f12/package/pootle.md" >}}) | 6476 | 6817 | 95.0 | LANGUAGE <LL@li.org> | 
- | [findutils]({{< ref "/f12/package/findutils.md" >}}) | 248 | 2105 | 11.8 | Luganda <kompyuta@kizito.freeuk.com> | 
- | [vidalia]({{< ref "/f12/package/vidalia.md" >}}) | 0 | 9310 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [virtaal](/f12/package/virtaal) | 1389 | 1389 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [pootle](/f12/package/pootle) | 6476 | 6817 | 95.0 | LANGUAGE <LL@li.org> | 
+ | [findutils](/f12/package/findutils) | 248 | 2105 | 11.8 | Luganda <kompyuta@kizito.freeuk.com> | 
+ | [vidalia](/f12/package/vidalia) | 0 | 9310 | 0.0 | LANGUAGE <LL@li.org> | 
 {.sortable}
 
 

@@ -18,12 +18,12 @@ The package mesa (version 17.2.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f26/language/ca.md" >}}) | 415 | 415 | 100.0 | /mnt/stockage/packages/f26/mesa/src/mesa/drivers/dri/common/xmlpool/ca.po | 
- | [es]({{< ref "/f26/language/es.md" >}}) | 415 | 415 | 100.0 | /mnt/stockage/packages/f26/mesa/src/mesa/drivers/dri/common/xmlpool/es.po | 
- | [de]({{< ref "/f26/language/de.md" >}}) | 323 | 389 | 83.0 | /mnt/stockage/packages/f26/mesa/src/mesa/drivers/dri/common/xmlpool/de.po | 
- | [fr]({{< ref "/f26/language/fr.md" >}}) | 244 | 389 | 62.7 | /mnt/stockage/packages/f26/mesa/src/mesa/drivers/dri/common/xmlpool/fr.po | 
- | [nl]({{< ref "/f26/language/nl.md" >}}) | 244 | 389 | 62.7 | /mnt/stockage/packages/f26/mesa/src/mesa/drivers/dri/common/xmlpool/nl.po | 
- | [sv]({{< ref "/f26/language/sv.md" >}}) | 244 | 389 | 62.7 | /mnt/stockage/packages/f26/mesa/src/mesa/drivers/dri/common/xmlpool/sv.po | 
+ | [ca](/f26/language/ca) | 415 | 415 | 100.0 | /mnt/stockage/packages/f26/mesa/src/mesa/drivers/dri/common/xmlpool/ca.po | 
+ | [es](/f26/language/es) | 415 | 415 | 100.0 | /mnt/stockage/packages/f26/mesa/src/mesa/drivers/dri/common/xmlpool/es.po | 
+ | [de](/f26/language/de) | 323 | 389 | 83.0 | /mnt/stockage/packages/f26/mesa/src/mesa/drivers/dri/common/xmlpool/de.po | 
+ | [fr](/f26/language/fr) | 244 | 389 | 62.7 | /mnt/stockage/packages/f26/mesa/src/mesa/drivers/dri/common/xmlpool/fr.po | 
+ | [nl](/f26/language/nl) | 244 | 389 | 62.7 | /mnt/stockage/packages/f26/mesa/src/mesa/drivers/dri/common/xmlpool/nl.po | 
+ | [sv](/f26/language/sv) | 244 | 389 | 62.7 | /mnt/stockage/packages/f26/mesa/src/mesa/drivers/dri/common/xmlpool/sv.po | 
 {.sortable}
 
 

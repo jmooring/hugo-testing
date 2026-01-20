@@ -18,9 +18,9 @@ The package mednafen (version 1.24.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ru]({{< ref "/f31/language/ru.md" >}}) | 1165 | 11749 | 9.9 | /mnt/stockage/packages/f31/mednafen/po/ru.po | 
- | [de]({{< ref "/f31/language/de.md" >}}) | 1103 | 11749 | 9.4 | /mnt/stockage/packages/f31/mednafen/po/de.po | 
- | [es]({{< ref "/f31/language/es.md" >}}) | 105 | 11749 | 0.9 | /mnt/stockage/packages/f31/mednafen/po/es.po | 
+ | [ru](/f31/language/ru) | 1165 | 11749 | 9.9 | /mnt/stockage/packages/f31/mednafen/po/ru.po | 
+ | [de](/f31/language/de) | 1103 | 11749 | 9.4 | /mnt/stockage/packages/f31/mednafen/po/de.po | 
+ | [es](/f31/language/es) | 105 | 11749 | 0.9 | /mnt/stockage/packages/f31/mednafen/po/es.po | 
 {.sortable}
 
 

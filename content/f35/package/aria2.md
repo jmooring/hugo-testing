@@ -18,47 +18,47 @@ The package aria2 (version 1.35.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [error]({{< ref "/f35/language/error.md" >}}) | 14972 | 14972 | 100.0 | /mnt/stockage/packages/f35/aria2/po/en@quot.po/mnt/stockage/packages/f35/aria2/po/en@boldquot.po | 
- | [pt_BR]({{< ref "/f35/language/pt_BR.md" >}}) | 7403 | 7486 | 98.9 | /mnt/stockage/packages/f35/aria2/po/pt_BR.po | 
- | [ru]({{< ref "/f35/language/ru.md" >}}) | 7403 | 7486 | 98.9 | /mnt/stockage/packages/f35/aria2/po/ru.po | 
- | [zh_Hans]({{< ref "/f35/language/zh_Hans.md" >}}) | 5690 | 7486 | 76.0 | /mnt/stockage/packages/f35/aria2/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f35/language/zh_Hant.md" >}}) | 4440 | 7486 | 59.3 | /mnt/stockage/packages/f35/aria2/po/zh_TW.po | 
- | [el]({{< ref "/f35/language/el.md" >}}) | 4151 | 7486 | 55.5 | /mnt/stockage/packages/f35/aria2/po/el.po | 
- | [ja]({{< ref "/f35/language/ja.md" >}}) | 3598 | 7486 | 48.1 | /mnt/stockage/packages/f35/aria2/po/ja.po | 
- | [uk]({{< ref "/f35/language/uk.md" >}}) | 3008 | 7486 | 40.2 | /mnt/stockage/packages/f35/aria2/po/uk.po | 
- | [it]({{< ref "/f35/language/it.md" >}}) | 2637 | 7486 | 35.2 | /mnt/stockage/packages/f35/aria2/po/it.po | 
- | [fr]({{< ref "/f35/language/fr.md" >}}) | 2503 | 7486 | 33.4 | /mnt/stockage/packages/f35/aria2/po/fr.po | 
- | [de]({{< ref "/f35/language/de.md" >}}) | 2326 | 7486 | 31.1 | /mnt/stockage/packages/f35/aria2/po/de.po | 
- | [bg]({{< ref "/f35/language/bg.md" >}}) | 1899 | 7486 | 25.4 | /mnt/stockage/packages/f35/aria2/po/bg.po | 
- | [tr]({{< ref "/f35/language/tr.md" >}}) | 1313 | 7486 | 17.5 | /mnt/stockage/packages/f35/aria2/po/tr.po | 
- | [es]({{< ref "/f35/language/es.md" >}}) | 1133 | 7486 | 15.1 | /mnt/stockage/packages/f35/aria2/po/es.po | 
- | [id]({{< ref "/f35/language/id.md" >}}) | 1098 | 7486 | 14.7 | /mnt/stockage/packages/f35/aria2/po/id.po | 
- | [pt]({{< ref "/f35/language/pt.md" >}}) | 933 | 7486 | 12.5 | /mnt/stockage/packages/f35/aria2/po/pt.po | 
- | [ca]({{< ref "/f35/language/ca.md" >}}) | 917 | 7486 | 12.2 | /mnt/stockage/packages/f35/aria2/po/ca.po | 
- | [fi]({{< ref "/f35/language/fi.md" >}}) | 889 | 7486 | 11.9 | /mnt/stockage/packages/f35/aria2/po/fi.po | 
- | [pl]({{< ref "/f35/language/pl.md" >}}) | 718 | 7486 | 9.6 | /mnt/stockage/packages/f35/aria2/po/pl.po | 
- | [he]({{< ref "/f35/language/he.md" >}}) | 500 | 7486 | 6.7 | /mnt/stockage/packages/f35/aria2/po/he.po | 
- | [da]({{< ref "/f35/language/da.md" >}}) | 454 | 7486 | 6.1 | /mnt/stockage/packages/f35/aria2/po/da.po | 
- | [sv]({{< ref "/f35/language/sv.md" >}}) | 407 | 7486 | 5.4 | /mnt/stockage/packages/f35/aria2/po/sv.po | 
- | [nl]({{< ref "/f35/language/nl.md" >}}) | 299 | 7486 | 4.0 | /mnt/stockage/packages/f35/aria2/po/nl.po | 
- | [ro]({{< ref "/f35/language/ro.md" >}}) | 223 | 7486 | 3.0 | /mnt/stockage/packages/f35/aria2/po/ro.po | 
- | [zh_Hant_HK]({{< ref "/f35/language/zh_Hant_HK.md" >}}) | 132 | 7486 | 1.8 | /mnt/stockage/packages/f35/aria2/po/zh_HK.po | 
- | [sk]({{< ref "/f35/language/sk.md" >}}) | 125 | 7486 | 1.7 | /mnt/stockage/packages/f35/aria2/po/sk.po | 
- | [sr]({{< ref "/f35/language/sr.md" >}}) | 117 | 7486 | 1.6 | /mnt/stockage/packages/f35/aria2/po/sr.po | 
- | [ar]({{< ref "/f35/language/ar.md" >}}) | 74 | 7486 | 1.0 | /mnt/stockage/packages/f35/aria2/po/ar.po | 
- | [ko]({{< ref "/f35/language/ko.md" >}}) | 74 | 7486 | 1.0 | /mnt/stockage/packages/f35/aria2/po/ko.po | 
- | [fil]({{< ref "/f35/language/fil.md" >}}) | 68 | 7486 | 0.9 | /mnt/stockage/packages/f35/aria2/po/fil.po | 
- | [nn]({{< ref "/f35/language/nn.md" >}}) | 55 | 7486 | 0.7 | /mnt/stockage/packages/f35/aria2/po/nn.po | 
- | [kk]({{< ref "/f35/language/kk.md" >}}) | 48 | 7486 | 0.6 | /mnt/stockage/packages/f35/aria2/po/kk.po | 
- | [vi]({{< ref "/f35/language/vi.md" >}}) | 48 | 7486 | 0.6 | /mnt/stockage/packages/f35/aria2/po/vi.po | 
- | [ms]({{< ref "/f35/language/ms.md" >}}) | 47 | 7486 | 0.6 | /mnt/stockage/packages/f35/aria2/po/ms.po | 
- | [hr]({{< ref "/f35/language/hr.md" >}}) | 40 | 7486 | 0.5 | /mnt/stockage/packages/f35/aria2/po/hr.po | 
- | [fa]({{< ref "/f35/language/fa.md" >}}) | 38 | 7486 | 0.5 | /mnt/stockage/packages/f35/aria2/po/fa.po | 
- | [nb_NO]({{< ref "/f35/language/nb_NO.md" >}}) | 23 | 7486 | 0.3 | /mnt/stockage/packages/f35/aria2/po/nb.po | 
- | [th]({{< ref "/f35/language/th.md" >}}) | 23 | 7486 | 0.3 | /mnt/stockage/packages/f35/aria2/po/th.po | 
- | [hu]({{< ref "/f35/language/hu.md" >}}) | 22 | 7486 | 0.3 | /mnt/stockage/packages/f35/aria2/po/hu.po | 
- | [bn]({{< ref "/f35/language/bn.md" >}}) | 15 | 7486 | 0.2 | /mnt/stockage/packages/f35/aria2/po/bn.po | 
- | [oc]({{< ref "/f35/language/oc.md" >}}) | 10 | 7486 | 0.1 | /mnt/stockage/packages/f35/aria2/po/oc.po | 
+ | [error](/f35/language/error) | 14972 | 14972 | 100.0 | /mnt/stockage/packages/f35/aria2/po/en@quot.po/mnt/stockage/packages/f35/aria2/po/en@boldquot.po | 
+ | [pt_BR](/f35/language/pt_BR) | 7403 | 7486 | 98.9 | /mnt/stockage/packages/f35/aria2/po/pt_BR.po | 
+ | [ru](/f35/language/ru) | 7403 | 7486 | 98.9 | /mnt/stockage/packages/f35/aria2/po/ru.po | 
+ | [zh_Hans](/f35/language/zh_Hans) | 5690 | 7486 | 76.0 | /mnt/stockage/packages/f35/aria2/po/zh_CN.po | 
+ | [zh_Hant](/f35/language/zh_Hant) | 4440 | 7486 | 59.3 | /mnt/stockage/packages/f35/aria2/po/zh_TW.po | 
+ | [el](/f35/language/el) | 4151 | 7486 | 55.5 | /mnt/stockage/packages/f35/aria2/po/el.po | 
+ | [ja](/f35/language/ja) | 3598 | 7486 | 48.1 | /mnt/stockage/packages/f35/aria2/po/ja.po | 
+ | [uk](/f35/language/uk) | 3008 | 7486 | 40.2 | /mnt/stockage/packages/f35/aria2/po/uk.po | 
+ | [it](/f35/language/it) | 2637 | 7486 | 35.2 | /mnt/stockage/packages/f35/aria2/po/it.po | 
+ | [fr](/f35/language/fr) | 2503 | 7486 | 33.4 | /mnt/stockage/packages/f35/aria2/po/fr.po | 
+ | [de](/f35/language/de) | 2326 | 7486 | 31.1 | /mnt/stockage/packages/f35/aria2/po/de.po | 
+ | [bg](/f35/language/bg) | 1899 | 7486 | 25.4 | /mnt/stockage/packages/f35/aria2/po/bg.po | 
+ | [tr](/f35/language/tr) | 1313 | 7486 | 17.5 | /mnt/stockage/packages/f35/aria2/po/tr.po | 
+ | [es](/f35/language/es) | 1133 | 7486 | 15.1 | /mnt/stockage/packages/f35/aria2/po/es.po | 
+ | [id](/f35/language/id) | 1098 | 7486 | 14.7 | /mnt/stockage/packages/f35/aria2/po/id.po | 
+ | [pt](/f35/language/pt) | 933 | 7486 | 12.5 | /mnt/stockage/packages/f35/aria2/po/pt.po | 
+ | [ca](/f35/language/ca) | 917 | 7486 | 12.2 | /mnt/stockage/packages/f35/aria2/po/ca.po | 
+ | [fi](/f35/language/fi) | 889 | 7486 | 11.9 | /mnt/stockage/packages/f35/aria2/po/fi.po | 
+ | [pl](/f35/language/pl) | 718 | 7486 | 9.6 | /mnt/stockage/packages/f35/aria2/po/pl.po | 
+ | [he](/f35/language/he) | 500 | 7486 | 6.7 | /mnt/stockage/packages/f35/aria2/po/he.po | 
+ | [da](/f35/language/da) | 454 | 7486 | 6.1 | /mnt/stockage/packages/f35/aria2/po/da.po | 
+ | [sv](/f35/language/sv) | 407 | 7486 | 5.4 | /mnt/stockage/packages/f35/aria2/po/sv.po | 
+ | [nl](/f35/language/nl) | 299 | 7486 | 4.0 | /mnt/stockage/packages/f35/aria2/po/nl.po | 
+ | [ro](/f35/language/ro) | 223 | 7486 | 3.0 | /mnt/stockage/packages/f35/aria2/po/ro.po | 
+ | [zh_Hant_HK](/f35/language/zh_Hant_HK) | 132 | 7486 | 1.8 | /mnt/stockage/packages/f35/aria2/po/zh_HK.po | 
+ | [sk](/f35/language/sk) | 125 | 7486 | 1.7 | /mnt/stockage/packages/f35/aria2/po/sk.po | 
+ | [sr](/f35/language/sr) | 117 | 7486 | 1.6 | /mnt/stockage/packages/f35/aria2/po/sr.po | 
+ | [ar](/f35/language/ar) | 74 | 7486 | 1.0 | /mnt/stockage/packages/f35/aria2/po/ar.po | 
+ | [ko](/f35/language/ko) | 74 | 7486 | 1.0 | /mnt/stockage/packages/f35/aria2/po/ko.po | 
+ | [fil](/f35/language/fil) | 68 | 7486 | 0.9 | /mnt/stockage/packages/f35/aria2/po/fil.po | 
+ | [nn](/f35/language/nn) | 55 | 7486 | 0.7 | /mnt/stockage/packages/f35/aria2/po/nn.po | 
+ | [kk](/f35/language/kk) | 48 | 7486 | 0.6 | /mnt/stockage/packages/f35/aria2/po/kk.po | 
+ | [vi](/f35/language/vi) | 48 | 7486 | 0.6 | /mnt/stockage/packages/f35/aria2/po/vi.po | 
+ | [ms](/f35/language/ms) | 47 | 7486 | 0.6 | /mnt/stockage/packages/f35/aria2/po/ms.po | 
+ | [hr](/f35/language/hr) | 40 | 7486 | 0.5 | /mnt/stockage/packages/f35/aria2/po/hr.po | 
+ | [fa](/f35/language/fa) | 38 | 7486 | 0.5 | /mnt/stockage/packages/f35/aria2/po/fa.po | 
+ | [nb_NO](/f35/language/nb_NO) | 23 | 7486 | 0.3 | /mnt/stockage/packages/f35/aria2/po/nb.po | 
+ | [th](/f35/language/th) | 23 | 7486 | 0.3 | /mnt/stockage/packages/f35/aria2/po/th.po | 
+ | [hu](/f35/language/hu) | 22 | 7486 | 0.3 | /mnt/stockage/packages/f35/aria2/po/hu.po | 
+ | [bn](/f35/language/bn) | 15 | 7486 | 0.2 | /mnt/stockage/packages/f35/aria2/po/bn.po | 
+ | [oc](/f35/language/oc) | 10 | 7486 | 0.1 | /mnt/stockage/packages/f35/aria2/po/oc.po | 
 {.sortable}
 
 

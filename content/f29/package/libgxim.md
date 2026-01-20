@@ -18,79 +18,79 @@ The package libgxim (version 0.5.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [af]({{< ref "/f29/language/af.md" >}}) | 0 | 124 | 0.0 | /mnt/stockage/packages/f29/libgxim/po/af.po | 
- | [am]({{< ref "/f29/language/am.md" >}}) | 0 | 124 | 0.0 | /mnt/stockage/packages/f29/libgxim/po/am.po | 
- | [ar]({{< ref "/f29/language/ar.md" >}}) | 0 | 124 | 0.0 | /mnt/stockage/packages/f29/libgxim/po/ar.po | 
- | [as]({{< ref "/f29/language/as.md" >}}) | 0 | 124 | 0.0 | /mnt/stockage/packages/f29/libgxim/po/as.po | 
- | [be]({{< ref "/f29/language/be.md" >}}) | 0 | 124 | 0.0 | /mnt/stockage/packages/f29/libgxim/po/be.po | 
- | [bg]({{< ref "/f29/language/bg.md" >}}) | 0 | 124 | 0.0 | /mnt/stockage/packages/f29/libgxim/po/bg.po | 
- | [bn]({{< ref "/f29/language/bn.md" >}}) | 0 | 124 | 0.0 | /mnt/stockage/packages/f29/libgxim/po/bn.po | 
- | [bn_IN]({{< ref "/f29/language/bn_IN.md" >}}) | 0 | 124 | 0.0 | /mnt/stockage/packages/f29/libgxim/po/bn_IN.po | 
- | [bs]({{< ref "/f29/language/bs.md" >}}) | 0 | 124 | 0.0 | /mnt/stockage/packages/f29/libgxim/po/bs.po | 
- | [ca]({{< ref "/f29/language/ca.md" >}}) | 0 | 124 | 0.0 | /mnt/stockage/packages/f29/libgxim/po/ca.po | 
- | [cs]({{< ref "/f29/language/cs.md" >}}) | 0 | 124 | 0.0 | /mnt/stockage/packages/f29/libgxim/po/cs.po | 
- | [cy]({{< ref "/f29/language/cy.md" >}}) | 0 | 124 | 0.0 | /mnt/stockage/packages/f29/libgxim/po/cy.po | 
- | [da]({{< ref "/f29/language/da.md" >}}) | 0 | 124 | 0.0 | /mnt/stockage/packages/f29/libgxim/po/da.po | 
- | [de]({{< ref "/f29/language/de.md" >}}) | 0 | 124 | 0.0 | /mnt/stockage/packages/f29/libgxim/po/de.po | 
- | [el]({{< ref "/f29/language/el.md" >}}) | 0 | 124 | 0.0 | /mnt/stockage/packages/f29/libgxim/po/el.po | 
- | [en_GB]({{< ref "/f29/language/en_GB.md" >}}) | 0 | 124 | 0.0 | /mnt/stockage/packages/f29/libgxim/po/en_GB.po | 
- | [es]({{< ref "/f29/language/es.md" >}}) | 0 | 124 | 0.0 | /mnt/stockage/packages/f29/libgxim/po/es.po | 
- | [et]({{< ref "/f29/language/et.md" >}}) | 0 | 124 | 0.0 | /mnt/stockage/packages/f29/libgxim/po/et.po | 
- | [eu]({{< ref "/f29/language/eu.md" >}}) | 0 | 124 | 0.0 | /mnt/stockage/packages/f29/libgxim/po/eu_ES.po | 
- | [fa]({{< ref "/f29/language/fa.md" >}}) | 0 | 124 | 0.0 | /mnt/stockage/packages/f29/libgxim/po/fa.po | 
- | [fi]({{< ref "/f29/language/fi.md" >}}) | 0 | 124 | 0.0 | /mnt/stockage/packages/f29/libgxim/po/fi.po | 
- | [fr]({{< ref "/f29/language/fr.md" >}}) | 0 | 124 | 0.0 | /mnt/stockage/packages/f29/libgxim/po/fr.po | 
- | [gl]({{< ref "/f29/language/gl.md" >}}) | 0 | 124 | 0.0 | /mnt/stockage/packages/f29/libgxim/po/gl.po | 
- | [gu]({{< ref "/f29/language/gu.md" >}}) | 0 | 124 | 0.0 | /mnt/stockage/packages/f29/libgxim/po/gu.po | 
- | [he]({{< ref "/f29/language/he.md" >}}) | 0 | 124 | 0.0 | /mnt/stockage/packages/f29/libgxim/po/he.po | 
- | [hi]({{< ref "/f29/language/hi.md" >}}) | 0 | 124 | 0.0 | /mnt/stockage/packages/f29/libgxim/po/hi.po | 
- | [hr]({{< ref "/f29/language/hr.md" >}}) | 0 | 124 | 0.0 | /mnt/stockage/packages/f29/libgxim/po/hr.po | 
- | [hu]({{< ref "/f29/language/hu.md" >}}) | 0 | 124 | 0.0 | /mnt/stockage/packages/f29/libgxim/po/hu.po | 
- | [hy]({{< ref "/f29/language/hy.md" >}}) | 0 | 124 | 0.0 | /mnt/stockage/packages/f29/libgxim/po/hy.po | 
- | [id]({{< ref "/f29/language/id.md" >}}) | 0 | 124 | 0.0 | /mnt/stockage/packages/f29/libgxim/po/id.po | 
- | [is]({{< ref "/f29/language/is.md" >}}) | 0 | 124 | 0.0 | /mnt/stockage/packages/f29/libgxim/po/is.po | 
- | [it]({{< ref "/f29/language/it.md" >}}) | 0 | 124 | 0.0 | /mnt/stockage/packages/f29/libgxim/po/it.po | 
- | [ja]({{< ref "/f29/language/ja.md" >}}) | 0 | 124 | 0.0 | /mnt/stockage/packages/f29/libgxim/po/ja.po | 
- | [ka]({{< ref "/f29/language/ka.md" >}}) | 0 | 124 | 0.0 | /mnt/stockage/packages/f29/libgxim/po/ka.po | 
- | [kn]({{< ref "/f29/language/kn.md" >}}) | 0 | 124 | 0.0 | /mnt/stockage/packages/f29/libgxim/po/kn.po | 
- | [ko]({{< ref "/f29/language/ko.md" >}}) | 0 | 124 | 0.0 | /mnt/stockage/packages/f29/libgxim/po/ko.po | 
- | [ku]({{< ref "/f29/language/ku.md" >}}) | 0 | 124 | 0.0 | /mnt/stockage/packages/f29/libgxim/po/ku.po | 
- | [lo]({{< ref "/f29/language/lo.md" >}}) | 0 | 124 | 0.0 | /mnt/stockage/packages/f29/libgxim/po/lo.po | 
- | [lt]({{< ref "/f29/language/lt.md" >}}) | 0 | 124 | 0.0 | /mnt/stockage/packages/f29/libgxim/po/lt.po | 
- | [lv]({{< ref "/f29/language/lv.md" >}}) | 0 | 124 | 0.0 | /mnt/stockage/packages/f29/libgxim/po/lv.po | 
- | [mk]({{< ref "/f29/language/mk.md" >}}) | 0 | 124 | 0.0 | /mnt/stockage/packages/f29/libgxim/po/mk.po | 
- | [ml]({{< ref "/f29/language/ml.md" >}}) | 0 | 124 | 0.0 | /mnt/stockage/packages/f29/libgxim/po/ml.po | 
- | [mr]({{< ref "/f29/language/mr.md" >}}) | 0 | 124 | 0.0 | /mnt/stockage/packages/f29/libgxim/po/mr.po | 
- | [ms]({{< ref "/f29/language/ms.md" >}}) | 0 | 124 | 0.0 | /mnt/stockage/packages/f29/libgxim/po/ms.po | 
- | [my]({{< ref "/f29/language/my.md" >}}) | 0 | 124 | 0.0 | /mnt/stockage/packages/f29/libgxim/po/my.po | 
- | [nb_NO]({{< ref "/f29/language/nb_NO.md" >}}) | 0 | 124 | 0.0 | /mnt/stockage/packages/f29/libgxim/po/nb.po | 
- | [nl]({{< ref "/f29/language/nl.md" >}}) | 0 | 124 | 0.0 | /mnt/stockage/packages/f29/libgxim/po/nl.po | 
- | [nn]({{< ref "/f29/language/nn.md" >}}) | 0 | 124 | 0.0 | /mnt/stockage/packages/f29/libgxim/po/nn.po | 
- | [nso]({{< ref "/f29/language/nso.md" >}}) | 0 | 124 | 0.0 | /mnt/stockage/packages/f29/libgxim/po/nso.po | 
- | [or]({{< ref "/f29/language/or.md" >}}) | 0 | 124 | 0.0 | /mnt/stockage/packages/f29/libgxim/po/or.po | 
- | [pa]({{< ref "/f29/language/pa.md" >}}) | 0 | 124 | 0.0 | /mnt/stockage/packages/f29/libgxim/po/pa.po | 
- | [pl]({{< ref "/f29/language/pl.md" >}}) | 0 | 124 | 0.0 | /mnt/stockage/packages/f29/libgxim/po/pl.po | 
- | [pt]({{< ref "/f29/language/pt.md" >}}) | 0 | 124 | 0.0 | /mnt/stockage/packages/f29/libgxim/po/pt.po | 
- | [pt_BR]({{< ref "/f29/language/pt_BR.md" >}}) | 0 | 124 | 0.0 | /mnt/stockage/packages/f29/libgxim/po/pt_BR.po | 
- | [ro]({{< ref "/f29/language/ro.md" >}}) | 0 | 124 | 0.0 | /mnt/stockage/packages/f29/libgxim/po/ro.po | 
- | [ru]({{< ref "/f29/language/ru.md" >}}) | 0 | 124 | 0.0 | /mnt/stockage/packages/f29/libgxim/po/ru.po | 
- | [si]({{< ref "/f29/language/si.md" >}}) | 0 | 124 | 0.0 | /mnt/stockage/packages/f29/libgxim/po/si.po | 
- | [sk]({{< ref "/f29/language/sk.md" >}}) | 0 | 124 | 0.0 | /mnt/stockage/packages/f29/libgxim/po/sk.po | 
- | [sl]({{< ref "/f29/language/sl.md" >}}) | 0 | 124 | 0.0 | /mnt/stockage/packages/f29/libgxim/po/sl.po | 
- | [sq]({{< ref "/f29/language/sq.md" >}}) | 0 | 124 | 0.0 | /mnt/stockage/packages/f29/libgxim/po/sq.po | 
- | [sr]({{< ref "/f29/language/sr.md" >}}) | 0 | 124 | 0.0 | /mnt/stockage/packages/f29/libgxim/po/sr.po | 
- | [sr_Latn]({{< ref "/f29/language/sr_Latn.md" >}}) | 0 | 124 | 0.0 | /mnt/stockage/packages/f29/libgxim/po/sr@latin.po | 
- | [sv]({{< ref "/f29/language/sv.md" >}}) | 0 | 124 | 0.0 | /mnt/stockage/packages/f29/libgxim/po/sv.po | 
- | [ta]({{< ref "/f29/language/ta.md" >}}) | 0 | 124 | 0.0 | /mnt/stockage/packages/f29/libgxim/po/ta.po | 
- | [te]({{< ref "/f29/language/te.md" >}}) | 0 | 124 | 0.0 | /mnt/stockage/packages/f29/libgxim/po/te.po | 
- | [th]({{< ref "/f29/language/th.md" >}}) | 0 | 124 | 0.0 | /mnt/stockage/packages/f29/libgxim/po/th.po | 
- | [tr]({{< ref "/f29/language/tr.md" >}}) | 0 | 124 | 0.0 | /mnt/stockage/packages/f29/libgxim/po/tr.po | 
- | [uk]({{< ref "/f29/language/uk.md" >}}) | 0 | 124 | 0.0 | /mnt/stockage/packages/f29/libgxim/po/uk.po | 
- | [ur]({{< ref "/f29/language/ur.md" >}}) | 0 | 124 | 0.0 | /mnt/stockage/packages/f29/libgxim/po/ur.po | 
- | [vi]({{< ref "/f29/language/vi.md" >}}) | 0 | 124 | 0.0 | /mnt/stockage/packages/f29/libgxim/po/vi.po | 
- | [zh_Hans]({{< ref "/f29/language/zh_Hans.md" >}}) | 0 | 124 | 0.0 | /mnt/stockage/packages/f29/libgxim/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f29/language/zh_Hant.md" >}}) | 0 | 124 | 0.0 | /mnt/stockage/packages/f29/libgxim/po/zh_TW.po | 
- | [zu]({{< ref "/f29/language/zu.md" >}}) | 0 | 124 | 0.0 | /mnt/stockage/packages/f29/libgxim/po/zu.po | 
+ | [af](/f29/language/af) | 0 | 124 | 0.0 | /mnt/stockage/packages/f29/libgxim/po/af.po | 
+ | [am](/f29/language/am) | 0 | 124 | 0.0 | /mnt/stockage/packages/f29/libgxim/po/am.po | 
+ | [ar](/f29/language/ar) | 0 | 124 | 0.0 | /mnt/stockage/packages/f29/libgxim/po/ar.po | 
+ | [as](/f29/language/as) | 0 | 124 | 0.0 | /mnt/stockage/packages/f29/libgxim/po/as.po | 
+ | [be](/f29/language/be) | 0 | 124 | 0.0 | /mnt/stockage/packages/f29/libgxim/po/be.po | 
+ | [bg](/f29/language/bg) | 0 | 124 | 0.0 | /mnt/stockage/packages/f29/libgxim/po/bg.po | 
+ | [bn](/f29/language/bn) | 0 | 124 | 0.0 | /mnt/stockage/packages/f29/libgxim/po/bn.po | 
+ | [bn_IN](/f29/language/bn_IN) | 0 | 124 | 0.0 | /mnt/stockage/packages/f29/libgxim/po/bn_IN.po | 
+ | [bs](/f29/language/bs) | 0 | 124 | 0.0 | /mnt/stockage/packages/f29/libgxim/po/bs.po | 
+ | [ca](/f29/language/ca) | 0 | 124 | 0.0 | /mnt/stockage/packages/f29/libgxim/po/ca.po | 
+ | [cs](/f29/language/cs) | 0 | 124 | 0.0 | /mnt/stockage/packages/f29/libgxim/po/cs.po | 
+ | [cy](/f29/language/cy) | 0 | 124 | 0.0 | /mnt/stockage/packages/f29/libgxim/po/cy.po | 
+ | [da](/f29/language/da) | 0 | 124 | 0.0 | /mnt/stockage/packages/f29/libgxim/po/da.po | 
+ | [de](/f29/language/de) | 0 | 124 | 0.0 | /mnt/stockage/packages/f29/libgxim/po/de.po | 
+ | [el](/f29/language/el) | 0 | 124 | 0.0 | /mnt/stockage/packages/f29/libgxim/po/el.po | 
+ | [en_GB](/f29/language/en_GB) | 0 | 124 | 0.0 | /mnt/stockage/packages/f29/libgxim/po/en_GB.po | 
+ | [es](/f29/language/es) | 0 | 124 | 0.0 | /mnt/stockage/packages/f29/libgxim/po/es.po | 
+ | [et](/f29/language/et) | 0 | 124 | 0.0 | /mnt/stockage/packages/f29/libgxim/po/et.po | 
+ | [eu](/f29/language/eu) | 0 | 124 | 0.0 | /mnt/stockage/packages/f29/libgxim/po/eu_ES.po | 
+ | [fa](/f29/language/fa) | 0 | 124 | 0.0 | /mnt/stockage/packages/f29/libgxim/po/fa.po | 
+ | [fi](/f29/language/fi) | 0 | 124 | 0.0 | /mnt/stockage/packages/f29/libgxim/po/fi.po | 
+ | [fr](/f29/language/fr) | 0 | 124 | 0.0 | /mnt/stockage/packages/f29/libgxim/po/fr.po | 
+ | [gl](/f29/language/gl) | 0 | 124 | 0.0 | /mnt/stockage/packages/f29/libgxim/po/gl.po | 
+ | [gu](/f29/language/gu) | 0 | 124 | 0.0 | /mnt/stockage/packages/f29/libgxim/po/gu.po | 
+ | [he](/f29/language/he) | 0 | 124 | 0.0 | /mnt/stockage/packages/f29/libgxim/po/he.po | 
+ | [hi](/f29/language/hi) | 0 | 124 | 0.0 | /mnt/stockage/packages/f29/libgxim/po/hi.po | 
+ | [hr](/f29/language/hr) | 0 | 124 | 0.0 | /mnt/stockage/packages/f29/libgxim/po/hr.po | 
+ | [hu](/f29/language/hu) | 0 | 124 | 0.0 | /mnt/stockage/packages/f29/libgxim/po/hu.po | 
+ | [hy](/f29/language/hy) | 0 | 124 | 0.0 | /mnt/stockage/packages/f29/libgxim/po/hy.po | 
+ | [id](/f29/language/id) | 0 | 124 | 0.0 | /mnt/stockage/packages/f29/libgxim/po/id.po | 
+ | [is](/f29/language/is) | 0 | 124 | 0.0 | /mnt/stockage/packages/f29/libgxim/po/is.po | 
+ | [it](/f29/language/it) | 0 | 124 | 0.0 | /mnt/stockage/packages/f29/libgxim/po/it.po | 
+ | [ja](/f29/language/ja) | 0 | 124 | 0.0 | /mnt/stockage/packages/f29/libgxim/po/ja.po | 
+ | [ka](/f29/language/ka) | 0 | 124 | 0.0 | /mnt/stockage/packages/f29/libgxim/po/ka.po | 
+ | [kn](/f29/language/kn) | 0 | 124 | 0.0 | /mnt/stockage/packages/f29/libgxim/po/kn.po | 
+ | [ko](/f29/language/ko) | 0 | 124 | 0.0 | /mnt/stockage/packages/f29/libgxim/po/ko.po | 
+ | [ku](/f29/language/ku) | 0 | 124 | 0.0 | /mnt/stockage/packages/f29/libgxim/po/ku.po | 
+ | [lo](/f29/language/lo) | 0 | 124 | 0.0 | /mnt/stockage/packages/f29/libgxim/po/lo.po | 
+ | [lt](/f29/language/lt) | 0 | 124 | 0.0 | /mnt/stockage/packages/f29/libgxim/po/lt.po | 
+ | [lv](/f29/language/lv) | 0 | 124 | 0.0 | /mnt/stockage/packages/f29/libgxim/po/lv.po | 
+ | [mk](/f29/language/mk) | 0 | 124 | 0.0 | /mnt/stockage/packages/f29/libgxim/po/mk.po | 
+ | [ml](/f29/language/ml) | 0 | 124 | 0.0 | /mnt/stockage/packages/f29/libgxim/po/ml.po | 
+ | [mr](/f29/language/mr) | 0 | 124 | 0.0 | /mnt/stockage/packages/f29/libgxim/po/mr.po | 
+ | [ms](/f29/language/ms) | 0 | 124 | 0.0 | /mnt/stockage/packages/f29/libgxim/po/ms.po | 
+ | [my](/f29/language/my) | 0 | 124 | 0.0 | /mnt/stockage/packages/f29/libgxim/po/my.po | 
+ | [nb_NO](/f29/language/nb_NO) | 0 | 124 | 0.0 | /mnt/stockage/packages/f29/libgxim/po/nb.po | 
+ | [nl](/f29/language/nl) | 0 | 124 | 0.0 | /mnt/stockage/packages/f29/libgxim/po/nl.po | 
+ | [nn](/f29/language/nn) | 0 | 124 | 0.0 | /mnt/stockage/packages/f29/libgxim/po/nn.po | 
+ | [nso](/f29/language/nso) | 0 | 124 | 0.0 | /mnt/stockage/packages/f29/libgxim/po/nso.po | 
+ | [or](/f29/language/or) | 0 | 124 | 0.0 | /mnt/stockage/packages/f29/libgxim/po/or.po | 
+ | [pa](/f29/language/pa) | 0 | 124 | 0.0 | /mnt/stockage/packages/f29/libgxim/po/pa.po | 
+ | [pl](/f29/language/pl) | 0 | 124 | 0.0 | /mnt/stockage/packages/f29/libgxim/po/pl.po | 
+ | [pt](/f29/language/pt) | 0 | 124 | 0.0 | /mnt/stockage/packages/f29/libgxim/po/pt.po | 
+ | [pt_BR](/f29/language/pt_BR) | 0 | 124 | 0.0 | /mnt/stockage/packages/f29/libgxim/po/pt_BR.po | 
+ | [ro](/f29/language/ro) | 0 | 124 | 0.0 | /mnt/stockage/packages/f29/libgxim/po/ro.po | 
+ | [ru](/f29/language/ru) | 0 | 124 | 0.0 | /mnt/stockage/packages/f29/libgxim/po/ru.po | 
+ | [si](/f29/language/si) | 0 | 124 | 0.0 | /mnt/stockage/packages/f29/libgxim/po/si.po | 
+ | [sk](/f29/language/sk) | 0 | 124 | 0.0 | /mnt/stockage/packages/f29/libgxim/po/sk.po | 
+ | [sl](/f29/language/sl) | 0 | 124 | 0.0 | /mnt/stockage/packages/f29/libgxim/po/sl.po | 
+ | [sq](/f29/language/sq) | 0 | 124 | 0.0 | /mnt/stockage/packages/f29/libgxim/po/sq.po | 
+ | [sr](/f29/language/sr) | 0 | 124 | 0.0 | /mnt/stockage/packages/f29/libgxim/po/sr.po | 
+ | [sr_Latn](/f29/language/sr_Latn) | 0 | 124 | 0.0 | /mnt/stockage/packages/f29/libgxim/po/sr@latin.po | 
+ | [sv](/f29/language/sv) | 0 | 124 | 0.0 | /mnt/stockage/packages/f29/libgxim/po/sv.po | 
+ | [ta](/f29/language/ta) | 0 | 124 | 0.0 | /mnt/stockage/packages/f29/libgxim/po/ta.po | 
+ | [te](/f29/language/te) | 0 | 124 | 0.0 | /mnt/stockage/packages/f29/libgxim/po/te.po | 
+ | [th](/f29/language/th) | 0 | 124 | 0.0 | /mnt/stockage/packages/f29/libgxim/po/th.po | 
+ | [tr](/f29/language/tr) | 0 | 124 | 0.0 | /mnt/stockage/packages/f29/libgxim/po/tr.po | 
+ | [uk](/f29/language/uk) | 0 | 124 | 0.0 | /mnt/stockage/packages/f29/libgxim/po/uk.po | 
+ | [ur](/f29/language/ur) | 0 | 124 | 0.0 | /mnt/stockage/packages/f29/libgxim/po/ur.po | 
+ | [vi](/f29/language/vi) | 0 | 124 | 0.0 | /mnt/stockage/packages/f29/libgxim/po/vi.po | 
+ | [zh_Hans](/f29/language/zh_Hans) | 0 | 124 | 0.0 | /mnt/stockage/packages/f29/libgxim/po/zh_CN.po | 
+ | [zh_Hant](/f29/language/zh_Hant) | 0 | 124 | 0.0 | /mnt/stockage/packages/f29/libgxim/po/zh_TW.po | 
+ | [zu](/f29/language/zu) | 0 | 124 | 0.0 | /mnt/stockage/packages/f29/libgxim/po/zu.po | 
 {.sortable}
 
 

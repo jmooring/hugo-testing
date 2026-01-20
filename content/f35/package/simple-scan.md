@@ -18,82 +18,82 @@ The package simple-scan (version 40.7):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [af]({{< ref "/f35/language/af.md" >}}) | 837 | 837 | 100.0 | /mnt/stockage/packages/f35/simple-scan/po/af.po | 
- | [be]({{< ref "/f35/language/be.md" >}}) | 993 | 993 | 100.0 | /mnt/stockage/packages/f35/simple-scan/po/be.po | 
- | [ca]({{< ref "/f35/language/ca.md" >}}) | 2196 | 2196 | 100.0 | /mnt/stockage/packages/f35/simple-scan/help/ca/ca.po/mnt/stockage/packages/f35/simple-scan/po/ca.po | 
- | [ca@valencia]({{< ref "/f35/language/ca@valencia.md" >}}) | 847 | 847 | 100.0 | /mnt/stockage/packages/f35/simple-scan/po/ca@valencia.po | 
- | [cs]({{< ref "/f35/language/cs.md" >}}) | 2205 | 2205 | 100.0 | /mnt/stockage/packages/f35/simple-scan/help/cs/cs.po/mnt/stockage/packages/f35/simple-scan/po/cs.po | 
- | [da]({{< ref "/f35/language/da.md" >}}) | 2196 | 2196 | 100.0 | /mnt/stockage/packages/f35/simple-scan/help/da/da.po/mnt/stockage/packages/f35/simple-scan/po/da.po | 
- | [de]({{< ref "/f35/language/de.md" >}}) | 2205 | 2205 | 100.0 | /mnt/stockage/packages/f35/simple-scan/help/de/de.po/mnt/stockage/packages/f35/simple-scan/po/de.po | 
- | [en_GB]({{< ref "/f35/language/en_GB.md" >}}) | 2196 | 2196 | 100.0 | /mnt/stockage/packages/f35/simple-scan/help/en_GB/en_GB.po/mnt/stockage/packages/f35/simple-scan/po/en_GB.po | 
- | [es]({{< ref "/f35/language/es.md" >}}) | 2205 | 2205 | 100.0 | /mnt/stockage/packages/f35/simple-scan/help/es/es.po/mnt/stockage/packages/f35/simple-scan/po/es.po | 
- | [eu]({{< ref "/f35/language/eu.md" >}}) | 2205 | 2205 | 100.0 | /mnt/stockage/packages/f35/simple-scan/help/eu/eu.po/mnt/stockage/packages/f35/simple-scan/po/eu.po | 
- | [fa]({{< ref "/f35/language/fa.md" >}}) | 993 | 993 | 100.0 | /mnt/stockage/packages/f35/simple-scan/po/fa.po | 
- | [fr]({{< ref "/f35/language/fr.md" >}}) | 2205 | 2205 | 100.0 | /mnt/stockage/packages/f35/simple-scan/help/fr/fr.po/mnt/stockage/packages/f35/simple-scan/po/fr.po | 
- | [fur]({{< ref "/f35/language/fur.md" >}}) | 993 | 993 | 100.0 | /mnt/stockage/packages/f35/simple-scan/po/fur.po | 
- | [gd]({{< ref "/f35/language/gd.md" >}}) | 847 | 847 | 100.0 | /mnt/stockage/packages/f35/simple-scan/po/gd.po | 
- | [gl]({{< ref "/f35/language/gl.md" >}}) | 2196 | 2196 | 100.0 | /mnt/stockage/packages/f35/simple-scan/help/gl/gl.po/mnt/stockage/packages/f35/simple-scan/po/gl.po | 
- | [he]({{< ref "/f35/language/he.md" >}}) | 993 | 993 | 100.0 | /mnt/stockage/packages/f35/simple-scan/po/he.po | 
- | [hu]({{< ref "/f35/language/hu.md" >}}) | 2205 | 2205 | 100.0 | /mnt/stockage/packages/f35/simple-scan/help/hu/hu.po/mnt/stockage/packages/f35/simple-scan/po/hu.po | 
- | [id]({{< ref "/f35/language/id.md" >}}) | 2205 | 2205 | 100.0 | /mnt/stockage/packages/f35/simple-scan/help/id/id.po/mnt/stockage/packages/f35/simple-scan/po/id.po | 
- | [is]({{< ref "/f35/language/is.md" >}}) | 993 | 993 | 100.0 | /mnt/stockage/packages/f35/simple-scan/po/is.po | 
- | [ko]({{< ref "/f35/language/ko.md" >}}) | 993 | 993 | 100.0 | /mnt/stockage/packages/f35/simple-scan/po/ko.po | 
- | [lt]({{< ref "/f35/language/lt.md" >}}) | 993 | 993 | 100.0 | /mnt/stockage/packages/f35/simple-scan/po/lt.po | 
- | [lv]({{< ref "/f35/language/lv.md" >}}) | 993 | 993 | 100.0 | /mnt/stockage/packages/f35/simple-scan/po/lv.po | 
- | [ms]({{< ref "/f35/language/ms.md" >}}) | 859 | 859 | 100.0 | /mnt/stockage/packages/f35/simple-scan/po/ms.po | 
- | [oc]({{< ref "/f35/language/oc.md" >}}) | 993 | 993 | 100.0 | /mnt/stockage/packages/f35/simple-scan/po/oc.po | 
- | [pa]({{< ref "/f35/language/pa.md" >}}) | 993 | 993 | 100.0 | /mnt/stockage/packages/f35/simple-scan/po/pa.po | 
- | [pl]({{< ref "/f35/language/pl.md" >}}) | 2205 | 2205 | 100.0 | /mnt/stockage/packages/f35/simple-scan/help/pl/pl.po/mnt/stockage/packages/f35/simple-scan/po/pl.po | 
- | [pt]({{< ref "/f35/language/pt.md" >}}) | 993 | 993 | 100.0 | /mnt/stockage/packages/f35/simple-scan/po/pt.po | 
- | [pt_BR]({{< ref "/f35/language/pt_BR.md" >}}) | 2205 | 2205 | 100.0 | /mnt/stockage/packages/f35/simple-scan/help/pt_BR/pt_BR.po/mnt/stockage/packages/f35/simple-scan/po/pt_BR.po | 
- | [ro]({{< ref "/f35/language/ro.md" >}}) | 2205 | 2205 | 100.0 | /mnt/stockage/packages/f35/simple-scan/help/ro/ro.po/mnt/stockage/packages/f35/simple-scan/po/ro.po | 
- | [ru]({{< ref "/f35/language/ru.md" >}}) | 2205 | 2205 | 100.0 | /mnt/stockage/packages/f35/simple-scan/help/ru/ru.po/mnt/stockage/packages/f35/simple-scan/po/ru.po | 
- | [sv]({{< ref "/f35/language/sv.md" >}}) | 2205 | 2205 | 100.0 | /mnt/stockage/packages/f35/simple-scan/help/sv/sv.po/mnt/stockage/packages/f35/simple-scan/po/sv.po | 
- | [tr]({{< ref "/f35/language/tr.md" >}}) | 2205 | 2205 | 100.0 | /mnt/stockage/packages/f35/simple-scan/help/tr/tr.po/mnt/stockage/packages/f35/simple-scan/po/tr.po | 
- | [uk]({{< ref "/f35/language/uk.md" >}}) | 2205 | 2205 | 100.0 | /mnt/stockage/packages/f35/simple-scan/help/uk/uk.po/mnt/stockage/packages/f35/simple-scan/po/uk.po | 
- | [zh_Hans]({{< ref "/f35/language/zh_Hans.md" >}}) | 993 | 993 | 100.0 | /mnt/stockage/packages/f35/simple-scan/po/zh_CN.po | 
- | [ml]({{< ref "/f35/language/ml.md" >}}) | 844 | 847 | 99.6 | /mnt/stockage/packages/f35/simple-scan/po/ml.po | 
- | [zh_Hant_HK]({{< ref "/f35/language/zh_Hant_HK.md" >}}) | 568 | 589 | 96.4 | /mnt/stockage/packages/f35/simple-scan/po/zh_HK.po | 
- | [eo]({{< ref "/f35/language/eo.md" >}}) | 881 | 984 | 89.5 | /mnt/stockage/packages/f35/simple-scan/po/eo.po | 
- | [am]({{< ref "/f35/language/am.md" >}}) | 509 | 589 | 86.4 | /mnt/stockage/packages/f35/simple-scan/po/am.po | 
- | [th]({{< ref "/f35/language/th.md" >}}) | 509 | 589 | 86.4 | /mnt/stockage/packages/f35/simple-scan/po/th.po | 
- | [sq]({{< ref "/f35/language/sq.md" >}}) | 506 | 589 | 85.9 | /mnt/stockage/packages/f35/simple-scan/po/sq.po | 
- | [ug]({{< ref "/f35/language/ug.md" >}}) | 435 | 589 | 73.9 | /mnt/stockage/packages/f35/simple-scan/po/ug.po | 
- | [km]({{< ref "/f35/language/km.md" >}}) | 406 | 589 | 68.9 | /mnt/stockage/packages/f35/simple-scan/po/km.po | 
- | [ast]({{< ref "/f35/language/ast.md" >}}) | 404 | 589 | 68.6 | /mnt/stockage/packages/f35/simple-scan/po/ast.po | 
- | [vi]({{< ref "/f35/language/vi.md" >}}) | 366 | 589 | 62.1 | /mnt/stockage/packages/f35/simple-scan/po/vi.po | 
- | [my]({{< ref "/f35/language/my.md" >}}) | 362 | 589 | 61.5 | /mnt/stockage/packages/f35/simple-scan/po/my.po | 
- | [et]({{< ref "/f35/language/et.md" >}}) | 349 | 589 | 59.3 | /mnt/stockage/packages/f35/simple-scan/po/et.po | 
- | [te]({{< ref "/f35/language/te.md" >}}) | 349 | 589 | 59.3 | /mnt/stockage/packages/f35/simple-scan/po/te.po | 
- | [sr]({{< ref "/f35/language/sr.md" >}}) | 1840 | 3196 | 57.6 | /mnt/stockage/packages/f35/simple-scan/help/sr/sr.po/mnt/stockage/packages/f35/simple-scan/po/sr@latin.po/mnt/stockage/packages/f35/simple-scan/po/sr.po | 
- | [sk]({{< ref "/f35/language/sk.md" >}}) | 1328 | 2349 | 56.5 | /mnt/stockage/packages/f35/simple-scan/help/sk/sk.po/mnt/stockage/packages/f35/simple-scan/po/sk.po | 
- | [bo]({{< ref "/f35/language/bo.md" >}}) | 325 | 589 | 55.2 | /mnt/stockage/packages/f35/simple-scan/po/bo.po | 
- | [kk]({{< ref "/f35/language/kk.md" >}}) | 547 | 993 | 55.1 | /mnt/stockage/packages/f35/simple-scan/po/kk.po | 
- | [ne]({{< ref "/f35/language/ne.md" >}}) | 525 | 993 | 52.9 | /mnt/stockage/packages/f35/simple-scan/po/ne.po | 
- | [hr]({{< ref "/f35/language/hr.md" >}}) | 1239 | 2349 | 52.7 | /mnt/stockage/packages/f35/simple-scan/help/hr/hr.po/mnt/stockage/packages/f35/simple-scan/po/hr.po | 
- | [el]({{< ref "/f35/language/el.md" >}}) | 1115 | 2323 | 48.0 | /mnt/stockage/packages/f35/simple-scan/help/el/el.po/mnt/stockage/packages/f35/simple-scan/po/el.po | 
- | [bg]({{< ref "/f35/language/bg.md" >}}) | 1121 | 2349 | 47.7 | /mnt/stockage/packages/f35/simple-scan/help/bg/bg.po/mnt/stockage/packages/f35/simple-scan/po/bg.po | 
- | [it]({{< ref "/f35/language/it.md" >}}) | 1076 | 2349 | 45.8 | /mnt/stockage/packages/f35/simple-scan/help/it/it.po/mnt/stockage/packages/f35/simple-scan/po/it.po | 
- | [zh_Hant]({{< ref "/f35/language/zh_Hant.md" >}}) | 1043 | 2349 | 44.4 | /mnt/stockage/packages/f35/simple-scan/help/zh_TW/zh_TW.po/mnt/stockage/packages/f35/simple-scan/po/zh_TW.po | 
- | [ja]({{< ref "/f35/language/ja.md" >}}) | 1033 | 2344 | 44.1 | /mnt/stockage/packages/f35/simple-scan/help/ja/ja.po/mnt/stockage/packages/f35/simple-scan/po/ja.po | 
- | [sl]({{< ref "/f35/language/sl.md" >}}) | 1035 | 2349 | 44.1 | /mnt/stockage/packages/f35/simple-scan/help/sl/sl.po/mnt/stockage/packages/f35/simple-scan/po/sl.po | 
- | [fi]({{< ref "/f35/language/fi.md" >}}) | 1032 | 2349 | 43.9 | /mnt/stockage/packages/f35/simple-scan/help/fi/fi.po/mnt/stockage/packages/f35/simple-scan/po/fi.po | 
- | [nb_NO]({{< ref "/f35/language/nb_NO.md" >}}) | 994 | 2349 | 42.3 | /mnt/stockage/packages/f35/simple-scan/help/nb/nb.po/mnt/stockage/packages/f35/simple-scan/po/nb.po | 
- | [nl]({{< ref "/f35/language/nl.md" >}}) | 994 | 2349 | 42.3 | /mnt/stockage/packages/f35/simple-scan/help/nl/nl.po/mnt/stockage/packages/f35/simple-scan/po/nl.po | 
- | [ar]({{< ref "/f35/language/ar.md" >}}) | 914 | 2203 | 41.5 | /mnt/stockage/packages/f35/simple-scan/help/ar/ar.po/mnt/stockage/packages/f35/simple-scan/po/ar.po | 
- | [mjw]({{< ref "/f35/language/mjw.md" >}}) | 266 | 859 | 31.0 | /mnt/stockage/packages/f35/simple-scan/po/mjw.po | 
- | [sd]({{< ref "/f35/language/sd.md" >}}) | 121 | 589 | 20.5 | /mnt/stockage/packages/f35/simple-scan/po/sd.po | 
- | [uz]({{< ref "/f35/language/uz.md" >}}) | 69 | 589 | 11.7 | /mnt/stockage/packages/f35/simple-scan/po/uz.po | 
- | [ky]({{< ref "/f35/language/ky.md" >}}) | 36 | 589 | 6.1 | /mnt/stockage/packages/f35/simple-scan/po/ky.po | 
- | [ia]({{< ref "/f35/language/ia.md" >}}) | 81 | 1356 | 6.0 | /mnt/stockage/packages/f35/simple-scan/help/ia/ia.po | 
- | [mhr]({{< ref "/f35/language/mhr.md" >}}) | 34 | 589 | 5.8 | /mnt/stockage/packages/f35/simple-scan/po/mhr.po | 
- | [ta]({{< ref "/f35/language/ta.md" >}}) | 31 | 589 | 5.3 | /mnt/stockage/packages/f35/simple-scan/po/ta.po | 
- | [se]({{< ref "/f35/language/se.md" >}}) | 29 | 589 | 4.9 | /mnt/stockage/packages/f35/simple-scan/po/se.po | 
- | [ku]({{< ref "/f35/language/ku.md" >}}) | 88 | 1945 | 4.5 | /mnt/stockage/packages/f35/simple-scan/help/ku/ku.po/mnt/stockage/packages/f35/simple-scan/po/ku.po | 
- | [az]({{< ref "/f35/language/az.md" >}}) | 23 | 589 | 3.9 | /mnt/stockage/packages/f35/simple-scan/po/az.po | 
- | [ur]({{< ref "/f35/language/ur.md" >}}) | 11 | 589 | 1.9 | /mnt/stockage/packages/f35/simple-scan/po/ur.po | 
- | [hy]({{< ref "/f35/language/hy.md" >}}) | 5 | 589 | 0.8 | /mnt/stockage/packages/f35/simple-scan/po/hy.po | 
- | [shn]({{< ref "/f35/language/shn.md" >}}) | 4 | 589 | 0.7 | /mnt/stockage/packages/f35/simple-scan/po/shn.po | 
+ | [af](/f35/language/af) | 837 | 837 | 100.0 | /mnt/stockage/packages/f35/simple-scan/po/af.po | 
+ | [be](/f35/language/be) | 993 | 993 | 100.0 | /mnt/stockage/packages/f35/simple-scan/po/be.po | 
+ | [ca](/f35/language/ca) | 2196 | 2196 | 100.0 | /mnt/stockage/packages/f35/simple-scan/help/ca/ca.po/mnt/stockage/packages/f35/simple-scan/po/ca.po | 
+ | [ca@valencia](/f35/language/ca@valencia) | 847 | 847 | 100.0 | /mnt/stockage/packages/f35/simple-scan/po/ca@valencia.po | 
+ | [cs](/f35/language/cs) | 2205 | 2205 | 100.0 | /mnt/stockage/packages/f35/simple-scan/help/cs/cs.po/mnt/stockage/packages/f35/simple-scan/po/cs.po | 
+ | [da](/f35/language/da) | 2196 | 2196 | 100.0 | /mnt/stockage/packages/f35/simple-scan/help/da/da.po/mnt/stockage/packages/f35/simple-scan/po/da.po | 
+ | [de](/f35/language/de) | 2205 | 2205 | 100.0 | /mnt/stockage/packages/f35/simple-scan/help/de/de.po/mnt/stockage/packages/f35/simple-scan/po/de.po | 
+ | [en_GB](/f35/language/en_GB) | 2196 | 2196 | 100.0 | /mnt/stockage/packages/f35/simple-scan/help/en_GB/en_GB.po/mnt/stockage/packages/f35/simple-scan/po/en_GB.po | 
+ | [es](/f35/language/es) | 2205 | 2205 | 100.0 | /mnt/stockage/packages/f35/simple-scan/help/es/es.po/mnt/stockage/packages/f35/simple-scan/po/es.po | 
+ | [eu](/f35/language/eu) | 2205 | 2205 | 100.0 | /mnt/stockage/packages/f35/simple-scan/help/eu/eu.po/mnt/stockage/packages/f35/simple-scan/po/eu.po | 
+ | [fa](/f35/language/fa) | 993 | 993 | 100.0 | /mnt/stockage/packages/f35/simple-scan/po/fa.po | 
+ | [fr](/f35/language/fr) | 2205 | 2205 | 100.0 | /mnt/stockage/packages/f35/simple-scan/help/fr/fr.po/mnt/stockage/packages/f35/simple-scan/po/fr.po | 
+ | [fur](/f35/language/fur) | 993 | 993 | 100.0 | /mnt/stockage/packages/f35/simple-scan/po/fur.po | 
+ | [gd](/f35/language/gd) | 847 | 847 | 100.0 | /mnt/stockage/packages/f35/simple-scan/po/gd.po | 
+ | [gl](/f35/language/gl) | 2196 | 2196 | 100.0 | /mnt/stockage/packages/f35/simple-scan/help/gl/gl.po/mnt/stockage/packages/f35/simple-scan/po/gl.po | 
+ | [he](/f35/language/he) | 993 | 993 | 100.0 | /mnt/stockage/packages/f35/simple-scan/po/he.po | 
+ | [hu](/f35/language/hu) | 2205 | 2205 | 100.0 | /mnt/stockage/packages/f35/simple-scan/help/hu/hu.po/mnt/stockage/packages/f35/simple-scan/po/hu.po | 
+ | [id](/f35/language/id) | 2205 | 2205 | 100.0 | /mnt/stockage/packages/f35/simple-scan/help/id/id.po/mnt/stockage/packages/f35/simple-scan/po/id.po | 
+ | [is](/f35/language/is) | 993 | 993 | 100.0 | /mnt/stockage/packages/f35/simple-scan/po/is.po | 
+ | [ko](/f35/language/ko) | 993 | 993 | 100.0 | /mnt/stockage/packages/f35/simple-scan/po/ko.po | 
+ | [lt](/f35/language/lt) | 993 | 993 | 100.0 | /mnt/stockage/packages/f35/simple-scan/po/lt.po | 
+ | [lv](/f35/language/lv) | 993 | 993 | 100.0 | /mnt/stockage/packages/f35/simple-scan/po/lv.po | 
+ | [ms](/f35/language/ms) | 859 | 859 | 100.0 | /mnt/stockage/packages/f35/simple-scan/po/ms.po | 
+ | [oc](/f35/language/oc) | 993 | 993 | 100.0 | /mnt/stockage/packages/f35/simple-scan/po/oc.po | 
+ | [pa](/f35/language/pa) | 993 | 993 | 100.0 | /mnt/stockage/packages/f35/simple-scan/po/pa.po | 
+ | [pl](/f35/language/pl) | 2205 | 2205 | 100.0 | /mnt/stockage/packages/f35/simple-scan/help/pl/pl.po/mnt/stockage/packages/f35/simple-scan/po/pl.po | 
+ | [pt](/f35/language/pt) | 993 | 993 | 100.0 | /mnt/stockage/packages/f35/simple-scan/po/pt.po | 
+ | [pt_BR](/f35/language/pt_BR) | 2205 | 2205 | 100.0 | /mnt/stockage/packages/f35/simple-scan/help/pt_BR/pt_BR.po/mnt/stockage/packages/f35/simple-scan/po/pt_BR.po | 
+ | [ro](/f35/language/ro) | 2205 | 2205 | 100.0 | /mnt/stockage/packages/f35/simple-scan/help/ro/ro.po/mnt/stockage/packages/f35/simple-scan/po/ro.po | 
+ | [ru](/f35/language/ru) | 2205 | 2205 | 100.0 | /mnt/stockage/packages/f35/simple-scan/help/ru/ru.po/mnt/stockage/packages/f35/simple-scan/po/ru.po | 
+ | [sv](/f35/language/sv) | 2205 | 2205 | 100.0 | /mnt/stockage/packages/f35/simple-scan/help/sv/sv.po/mnt/stockage/packages/f35/simple-scan/po/sv.po | 
+ | [tr](/f35/language/tr) | 2205 | 2205 | 100.0 | /mnt/stockage/packages/f35/simple-scan/help/tr/tr.po/mnt/stockage/packages/f35/simple-scan/po/tr.po | 
+ | [uk](/f35/language/uk) | 2205 | 2205 | 100.0 | /mnt/stockage/packages/f35/simple-scan/help/uk/uk.po/mnt/stockage/packages/f35/simple-scan/po/uk.po | 
+ | [zh_Hans](/f35/language/zh_Hans) | 993 | 993 | 100.0 | /mnt/stockage/packages/f35/simple-scan/po/zh_CN.po | 
+ | [ml](/f35/language/ml) | 844 | 847 | 99.6 | /mnt/stockage/packages/f35/simple-scan/po/ml.po | 
+ | [zh_Hant_HK](/f35/language/zh_Hant_HK) | 568 | 589 | 96.4 | /mnt/stockage/packages/f35/simple-scan/po/zh_HK.po | 
+ | [eo](/f35/language/eo) | 881 | 984 | 89.5 | /mnt/stockage/packages/f35/simple-scan/po/eo.po | 
+ | [am](/f35/language/am) | 509 | 589 | 86.4 | /mnt/stockage/packages/f35/simple-scan/po/am.po | 
+ | [th](/f35/language/th) | 509 | 589 | 86.4 | /mnt/stockage/packages/f35/simple-scan/po/th.po | 
+ | [sq](/f35/language/sq) | 506 | 589 | 85.9 | /mnt/stockage/packages/f35/simple-scan/po/sq.po | 
+ | [ug](/f35/language/ug) | 435 | 589 | 73.9 | /mnt/stockage/packages/f35/simple-scan/po/ug.po | 
+ | [km](/f35/language/km) | 406 | 589 | 68.9 | /mnt/stockage/packages/f35/simple-scan/po/km.po | 
+ | [ast](/f35/language/ast) | 404 | 589 | 68.6 | /mnt/stockage/packages/f35/simple-scan/po/ast.po | 
+ | [vi](/f35/language/vi) | 366 | 589 | 62.1 | /mnt/stockage/packages/f35/simple-scan/po/vi.po | 
+ | [my](/f35/language/my) | 362 | 589 | 61.5 | /mnt/stockage/packages/f35/simple-scan/po/my.po | 
+ | [et](/f35/language/et) | 349 | 589 | 59.3 | /mnt/stockage/packages/f35/simple-scan/po/et.po | 
+ | [te](/f35/language/te) | 349 | 589 | 59.3 | /mnt/stockage/packages/f35/simple-scan/po/te.po | 
+ | [sr](/f35/language/sr) | 1840 | 3196 | 57.6 | /mnt/stockage/packages/f35/simple-scan/help/sr/sr.po/mnt/stockage/packages/f35/simple-scan/po/sr@latin.po/mnt/stockage/packages/f35/simple-scan/po/sr.po | 
+ | [sk](/f35/language/sk) | 1328 | 2349 | 56.5 | /mnt/stockage/packages/f35/simple-scan/help/sk/sk.po/mnt/stockage/packages/f35/simple-scan/po/sk.po | 
+ | [bo](/f35/language/bo) | 325 | 589 | 55.2 | /mnt/stockage/packages/f35/simple-scan/po/bo.po | 
+ | [kk](/f35/language/kk) | 547 | 993 | 55.1 | /mnt/stockage/packages/f35/simple-scan/po/kk.po | 
+ | [ne](/f35/language/ne) | 525 | 993 | 52.9 | /mnt/stockage/packages/f35/simple-scan/po/ne.po | 
+ | [hr](/f35/language/hr) | 1239 | 2349 | 52.7 | /mnt/stockage/packages/f35/simple-scan/help/hr/hr.po/mnt/stockage/packages/f35/simple-scan/po/hr.po | 
+ | [el](/f35/language/el) | 1115 | 2323 | 48.0 | /mnt/stockage/packages/f35/simple-scan/help/el/el.po/mnt/stockage/packages/f35/simple-scan/po/el.po | 
+ | [bg](/f35/language/bg) | 1121 | 2349 | 47.7 | /mnt/stockage/packages/f35/simple-scan/help/bg/bg.po/mnt/stockage/packages/f35/simple-scan/po/bg.po | 
+ | [it](/f35/language/it) | 1076 | 2349 | 45.8 | /mnt/stockage/packages/f35/simple-scan/help/it/it.po/mnt/stockage/packages/f35/simple-scan/po/it.po | 
+ | [zh_Hant](/f35/language/zh_Hant) | 1043 | 2349 | 44.4 | /mnt/stockage/packages/f35/simple-scan/help/zh_TW/zh_TW.po/mnt/stockage/packages/f35/simple-scan/po/zh_TW.po | 
+ | [ja](/f35/language/ja) | 1033 | 2344 | 44.1 | /mnt/stockage/packages/f35/simple-scan/help/ja/ja.po/mnt/stockage/packages/f35/simple-scan/po/ja.po | 
+ | [sl](/f35/language/sl) | 1035 | 2349 | 44.1 | /mnt/stockage/packages/f35/simple-scan/help/sl/sl.po/mnt/stockage/packages/f35/simple-scan/po/sl.po | 
+ | [fi](/f35/language/fi) | 1032 | 2349 | 43.9 | /mnt/stockage/packages/f35/simple-scan/help/fi/fi.po/mnt/stockage/packages/f35/simple-scan/po/fi.po | 
+ | [nb_NO](/f35/language/nb_NO) | 994 | 2349 | 42.3 | /mnt/stockage/packages/f35/simple-scan/help/nb/nb.po/mnt/stockage/packages/f35/simple-scan/po/nb.po | 
+ | [nl](/f35/language/nl) | 994 | 2349 | 42.3 | /mnt/stockage/packages/f35/simple-scan/help/nl/nl.po/mnt/stockage/packages/f35/simple-scan/po/nl.po | 
+ | [ar](/f35/language/ar) | 914 | 2203 | 41.5 | /mnt/stockage/packages/f35/simple-scan/help/ar/ar.po/mnt/stockage/packages/f35/simple-scan/po/ar.po | 
+ | [mjw](/f35/language/mjw) | 266 | 859 | 31.0 | /mnt/stockage/packages/f35/simple-scan/po/mjw.po | 
+ | [sd](/f35/language/sd) | 121 | 589 | 20.5 | /mnt/stockage/packages/f35/simple-scan/po/sd.po | 
+ | [uz](/f35/language/uz) | 69 | 589 | 11.7 | /mnt/stockage/packages/f35/simple-scan/po/uz.po | 
+ | [ky](/f35/language/ky) | 36 | 589 | 6.1 | /mnt/stockage/packages/f35/simple-scan/po/ky.po | 
+ | [ia](/f35/language/ia) | 81 | 1356 | 6.0 | /mnt/stockage/packages/f35/simple-scan/help/ia/ia.po | 
+ | [mhr](/f35/language/mhr) | 34 | 589 | 5.8 | /mnt/stockage/packages/f35/simple-scan/po/mhr.po | 
+ | [ta](/f35/language/ta) | 31 | 589 | 5.3 | /mnt/stockage/packages/f35/simple-scan/po/ta.po | 
+ | [se](/f35/language/se) | 29 | 589 | 4.9 | /mnt/stockage/packages/f35/simple-scan/po/se.po | 
+ | [ku](/f35/language/ku) | 88 | 1945 | 4.5 | /mnt/stockage/packages/f35/simple-scan/help/ku/ku.po/mnt/stockage/packages/f35/simple-scan/po/ku.po | 
+ | [az](/f35/language/az) | 23 | 589 | 3.9 | /mnt/stockage/packages/f35/simple-scan/po/az.po | 
+ | [ur](/f35/language/ur) | 11 | 589 | 1.9 | /mnt/stockage/packages/f35/simple-scan/po/ur.po | 
+ | [hy](/f35/language/hy) | 5 | 589 | 0.8 | /mnt/stockage/packages/f35/simple-scan/po/hy.po | 
+ | [shn](/f35/language/shn) | 4 | 589 | 0.7 | /mnt/stockage/packages/f35/simple-scan/po/shn.po | 
 {.sortable}
 
 

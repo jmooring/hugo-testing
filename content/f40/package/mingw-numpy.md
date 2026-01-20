@@ -18,10 +18,10 @@ The package mingw-numpy (version 1.26.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f40/language/de.md" >}}) | 11 | 11 | 100.0 | /mnt/stockage/packages/f40/mingw-numpy/vendored-meson/meson/test cases/frameworks/13 yelp/help/de/de.po/mnt/stockage/packages/f40/mingw-numpy/vendored-meson/meson/test cases/frameworks/6 gettext/po/de.po | 
- | [es]({{< ref "/f40/language/es.md" >}}) | 1 | 1 | 100.0 | /mnt/stockage/packages/f40/mingw-numpy/vendored-meson/meson/test cases/frameworks/13 yelp/help/es/es.po | 
- | [fi]({{< ref "/f40/language/fi.md" >}}) | 2 | 2 | 100.0 | /mnt/stockage/packages/f40/mingw-numpy/vendored-meson/meson/test cases/frameworks/6 gettext/po/fi.po | 
- | [ru]({{< ref "/f40/language/ru.md" >}}) | 6 | 6 | 100.0 | /mnt/stockage/packages/f40/mingw-numpy/vendored-meson/meson/test cases/frameworks/6 gettext/po/ru.po | 
+ | [de](/f40/language/de) | 11 | 11 | 100.0 | /mnt/stockage/packages/f40/mingw-numpy/vendored-meson/meson/test cases/frameworks/13 yelp/help/de/de.po/mnt/stockage/packages/f40/mingw-numpy/vendored-meson/meson/test cases/frameworks/6 gettext/po/de.po | 
+ | [es](/f40/language/es) | 1 | 1 | 100.0 | /mnt/stockage/packages/f40/mingw-numpy/vendored-meson/meson/test cases/frameworks/13 yelp/help/es/es.po | 
+ | [fi](/f40/language/fi) | 2 | 2 | 100.0 | /mnt/stockage/packages/f40/mingw-numpy/vendored-meson/meson/test cases/frameworks/6 gettext/po/fi.po | 
+ | [ru](/f40/language/ru) | 6 | 6 | 100.0 | /mnt/stockage/packages/f40/mingw-numpy/vendored-meson/meson/test cases/frameworks/6 gettext/po/ru.po | 
 {.sortable}
 
 

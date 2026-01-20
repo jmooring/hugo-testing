@@ -38,9 +38,9 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [alacarte]({{< ref "/f30/package/alacarte.md" >}}) | 42 | 42 | 100.0 | Bemba Team <bem@li.org> | 
- | [slick-greeter]({{< ref "/f30/package/slick-greeter.md" >}}) | 55 | 211 | 26.1 | Bemba <bem@li.org> | 
- | [pyhoca-gui]({{< ref "/f30/package/pyhoca-gui.md" >}}) | 0 | 1865 | 0.0 | none | 
+ | [alacarte](/f30/package/alacarte) | 42 | 42 | 100.0 | Bemba Team <bem@li.org> | 
+ | [slick-greeter](/f30/package/slick-greeter) | 55 | 211 | 26.1 | Bemba <bem@li.org> | 
+ | [pyhoca-gui](/f30/package/pyhoca-gui) | 0 | 1865 | 0.0 | none | 
 {.sortable}
 
 

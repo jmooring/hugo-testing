@@ -38,7 +38,7 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [kvirc]({{< ref "/f11/package/kvirc.md" >}}) | 15539 | 26860 | 57.9 | LANGUAGE <LL@li.org> | 
+ | [kvirc](/f11/package/kvirc) | 15539 | 26860 | 57.9 | LANGUAGE <LL@li.org> | 
 {.sortable}
 
 

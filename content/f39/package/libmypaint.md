@@ -18,86 +18,86 @@ The package libmypaint (version 1.6.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f39/language/cs.md" >}}) | 2303 | 2303 | 100.0 | /mnt/stockage/packages/f39/libmypaint/po/cs.po | 
- | [en_GB]({{< ref "/f39/language/en_GB.md" >}}) | 2316 | 2316 | 100.0 | /mnt/stockage/packages/f39/libmypaint/po/en_GB.po | 
- | [ko]({{< ref "/f39/language/ko.md" >}}) | 2303 | 2303 | 100.0 | /mnt/stockage/packages/f39/libmypaint/po/ko.po | 
- | [sk]({{< ref "/f39/language/sk.md" >}}) | 2303 | 2303 | 100.0 | /mnt/stockage/packages/f39/libmypaint/po/sk.po | 
- | [sv]({{< ref "/f39/language/sv.md" >}}) | 2303 | 2303 | 100.0 | /mnt/stockage/packages/f39/libmypaint/po/sv.po | 
- | [ca]({{< ref "/f39/language/ca.md" >}}) | 1587 | 2303 | 68.9 | /mnt/stockage/packages/f39/libmypaint/po/ca.po | 
- | [de]({{< ref "/f39/language/de.md" >}}) | 1546 | 2303 | 67.1 | /mnt/stockage/packages/f39/libmypaint/po/de.po | 
- | [pt]({{< ref "/f39/language/pt.md" >}}) | 1549 | 2316 | 66.9 | /mnt/stockage/packages/f39/libmypaint/po/pt.po | 
- | [nl]({{< ref "/f39/language/nl.md" >}}) | 1530 | 2303 | 66.4 | /mnt/stockage/packages/f39/libmypaint/po/nl.po | 
- | [ca@valencia]({{< ref "/f39/language/ca@valencia.md" >}}) | 1529 | 2303 | 66.4 | /mnt/stockage/packages/f39/libmypaint/po/ca@valencia.po | 
- | [es]({{< ref "/f39/language/es.md" >}}) | 1528 | 2303 | 66.3 | /mnt/stockage/packages/f39/libmypaint/po/es.po | 
- | [it]({{< ref "/f39/language/it.md" >}}) | 1528 | 2303 | 66.3 | /mnt/stockage/packages/f39/libmypaint/po/it.po | 
- | [pl]({{< ref "/f39/language/pl.md" >}}) | 1528 | 2303 | 66.3 | /mnt/stockage/packages/f39/libmypaint/po/pl.po | 
- | [pt_BR]({{< ref "/f39/language/pt_BR.md" >}}) | 1528 | 2303 | 66.3 | /mnt/stockage/packages/f39/libmypaint/po/pt_BR.po | 
- | [ru]({{< ref "/f39/language/ru.md" >}}) | 1528 | 2303 | 66.3 | /mnt/stockage/packages/f39/libmypaint/po/ru.po | 
- | [uk]({{< ref "/f39/language/uk.md" >}}) | 1528 | 2303 | 66.3 | /mnt/stockage/packages/f39/libmypaint/po/uk.po | 
- | [zh_Hans]({{< ref "/f39/language/zh_Hans.md" >}}) | 1528 | 2303 | 66.3 | /mnt/stockage/packages/f39/libmypaint/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f39/language/zh_Hant.md" >}}) | 1528 | 2303 | 66.3 | /mnt/stockage/packages/f39/libmypaint/po/zh_TW.po | 
- | [fr]({{< ref "/f39/language/fr.md" >}}) | 1526 | 2303 | 66.3 | /mnt/stockage/packages/f39/libmypaint/po/fr.po | 
- | [ja]({{< ref "/f39/language/ja.md" >}}) | 1526 | 2303 | 66.3 | /mnt/stockage/packages/f39/libmypaint/po/ja.po | 
- | [fi]({{< ref "/f39/language/fi.md" >}}) | 1415 | 2303 | 61.4 | /mnt/stockage/packages/f39/libmypaint/po/fi.po | 
- | [ro]({{< ref "/f39/language/ro.md" >}}) | 1399 | 2303 | 60.7 | /mnt/stockage/packages/f39/libmypaint/po/ro.po | 
- | [id]({{< ref "/f39/language/id.md" >}}) | 1371 | 2303 | 59.5 | /mnt/stockage/packages/f39/libmypaint/po/id.po | 
- | [hu]({{< ref "/f39/language/hu.md" >}}) | 1197 | 2303 | 52.0 | /mnt/stockage/packages/f39/libmypaint/po/hu.po | 
- | [da]({{< ref "/f39/language/da.md" >}}) | 985 | 2303 | 42.8 | /mnt/stockage/packages/f39/libmypaint/po/da.po | 
- | [gl]({{< ref "/f39/language/gl.md" >}}) | 895 | 2303 | 38.9 | /mnt/stockage/packages/f39/libmypaint/po/gl.po | 
- | [ms]({{< ref "/f39/language/ms.md" >}}) | 895 | 2303 | 38.9 | /mnt/stockage/packages/f39/libmypaint/po/ms.po | 
- | [th]({{< ref "/f39/language/th.md" >}}) | 895 | 2303 | 38.9 | /mnt/stockage/packages/f39/libmypaint/po/th.po | 
- | [vi]({{< ref "/f39/language/vi.md" >}}) | 879 | 2303 | 38.2 | /mnt/stockage/packages/f39/libmypaint/po/vi.po | 
- | [nn]({{< ref "/f39/language/nn.md" >}}) | 826 | 2303 | 35.9 | /mnt/stockage/packages/f39/libmypaint/po/nn_NO.po | 
- | [ar]({{< ref "/f39/language/ar.md" >}}) | 816 | 2303 | 35.4 | /mnt/stockage/packages/f39/libmypaint/po/ar.po | 
- | [hr]({{< ref "/f39/language/hr.md" >}}) | 775 | 2316 | 33.5 | /mnt/stockage/packages/f39/libmypaint/po/hr.po | 
- | [sc]({{< ref "/f39/language/sc.md" >}}) | 457 | 2303 | 19.8 | /mnt/stockage/packages/f39/libmypaint/po/sc.po | 
- | [en_CA]({{< ref "/f39/language/en_CA.md" >}}) | 346 | 2303 | 15.0 | /mnt/stockage/packages/f39/libmypaint/po/en_CA.po | 
- | [tr]({{< ref "/f39/language/tr.md" >}}) | 303 | 2303 | 13.2 | /mnt/stockage/packages/f39/libmypaint/po/tr.po | 
- | [sl]({{< ref "/f39/language/sl.md" >}}) | 237 | 2303 | 10.3 | /mnt/stockage/packages/f39/libmypaint/po/sl.po | 
- | [el]({{< ref "/f39/language/el.md" >}}) | 148 | 2303 | 6.4 | /mnt/stockage/packages/f39/libmypaint/po/el.po | 
- | [nb_NO]({{< ref "/f39/language/nb_NO.md" >}}) | 130 | 2303 | 5.6 | /mnt/stockage/packages/f39/libmypaint/po/nb.po | 
- | [mr]({{< ref "/f39/language/mr.md" >}}) | 119 | 2303 | 5.2 | /mnt/stockage/packages/f39/libmypaint/po/mr.po | 
- | [is]({{< ref "/f39/language/is.md" >}}) | 97 | 2303 | 4.2 | /mnt/stockage/packages/f39/libmypaint/po/is.po | 
- | [fa]({{< ref "/f39/language/fa.md" >}}) | 72 | 2303 | 3.1 | /mnt/stockage/packages/f39/libmypaint/po/fa.po | 
- | [he]({{< ref "/f39/language/he.md" >}}) | 24 | 2303 | 1.0 | /mnt/stockage/packages/f39/libmypaint/po/he.po | 
- | [bg]({{< ref "/f39/language/bg.md" >}}) | 5 | 2303 | 0.2 | /mnt/stockage/packages/f39/libmypaint/po/bg.po | 
- | [te]({{< ref "/f39/language/te.md" >}}) | 5 | 2303 | 0.2 | /mnt/stockage/packages/f39/libmypaint/po/te.po | 
- | [sr]({{< ref "/f39/language/sr.md" >}}) | 9 | 4606 | 0.2 | /mnt/stockage/packages/f39/libmypaint/po/sr.po/mnt/stockage/packages/f39/libmypaint/po/sr@latin.po | 
- | [eo]({{< ref "/f39/language/eo.md" >}}) | 4 | 2303 | 0.2 | /mnt/stockage/packages/f39/libmypaint/po/eo.po | 
- | [et]({{< ref "/f39/language/et.md" >}}) | 4 | 2303 | 0.2 | /mnt/stockage/packages/f39/libmypaint/po/et.po | 
- | [ga]({{< ref "/f39/language/ga.md" >}}) | 4 | 2303 | 0.2 | /mnt/stockage/packages/f39/libmypaint/po/ga.po | 
- | [lv]({{< ref "/f39/language/lv.md" >}}) | 4 | 2303 | 0.2 | /mnt/stockage/packages/f39/libmypaint/po/lv.po | 
- | [be]({{< ref "/f39/language/be.md" >}}) | 3 | 2303 | 0.1 | /mnt/stockage/packages/f39/libmypaint/po/be.po | 
- | [eu]({{< ref "/f39/language/eu.md" >}}) | 3 | 2303 | 0.1 | /mnt/stockage/packages/f39/libmypaint/po/eu.po | 
- | [gu]({{< ref "/f39/language/gu.md" >}}) | 3 | 2303 | 0.1 | /mnt/stockage/packages/f39/libmypaint/po/gu.po | 
- | [hi]({{< ref "/f39/language/hi.md" >}}) | 3 | 2303 | 0.1 | /mnt/stockage/packages/f39/libmypaint/po/hi.po | 
- | [lt]({{< ref "/f39/language/lt.md" >}}) | 3 | 2303 | 0.1 | /mnt/stockage/packages/f39/libmypaint/po/lt.po | 
- | [pa]({{< ref "/f39/language/pa.md" >}}) | 3 | 2303 | 0.1 | /mnt/stockage/packages/f39/libmypaint/po/pa.po | 
- | [ta]({{< ref "/f39/language/ta.md" >}}) | 3 | 2303 | 0.1 | /mnt/stockage/packages/f39/libmypaint/po/ta.po | 
- | [af]({{< ref "/f39/language/af.md" >}}) | 2 | 2303 | 0.1 | /mnt/stockage/packages/f39/libmypaint/po/af.po | 
- | [ast]({{< ref "/f39/language/ast.md" >}}) | 2 | 2303 | 0.1 | /mnt/stockage/packages/f39/libmypaint/po/ast.po | 
- | [az]({{< ref "/f39/language/az.md" >}}) | 2 | 2303 | 0.1 | /mnt/stockage/packages/f39/libmypaint/po/az.po | 
- | [bn]({{< ref "/f39/language/bn.md" >}}) | 2 | 2303 | 0.1 | /mnt/stockage/packages/f39/libmypaint/po/bn.po | 
- | [br]({{< ref "/f39/language/br.md" >}}) | 2 | 2303 | 0.1 | /mnt/stockage/packages/f39/libmypaint/po/br.po | 
- | [bs]({{< ref "/f39/language/bs.md" >}}) | 2 | 2303 | 0.1 | /mnt/stockage/packages/f39/libmypaint/po/bs.po | 
- | [dz]({{< ref "/f39/language/dz.md" >}}) | 2 | 2303 | 0.1 | /mnt/stockage/packages/f39/libmypaint/po/dz.po | 
- | [kab]({{< ref "/f39/language/kab.md" >}}) | 2 | 2303 | 0.1 | /mnt/stockage/packages/f39/libmypaint/po/kab.po | 
- | [kk]({{< ref "/f39/language/kk.md" >}}) | 2 | 2303 | 0.1 | /mnt/stockage/packages/f39/libmypaint/po/kk.po | 
- | [kn]({{< ref "/f39/language/kn.md" >}}) | 2 | 2303 | 0.1 | /mnt/stockage/packages/f39/libmypaint/po/kn.po | 
- | [mai]({{< ref "/f39/language/mai.md" >}}) | 2 | 2303 | 0.1 | /mnt/stockage/packages/f39/libmypaint/po/mai.po | 
- | [mn]({{< ref "/f39/language/mn.md" >}}) | 2 | 2303 | 0.1 | /mnt/stockage/packages/f39/libmypaint/po/mn.po | 
- | [oc]({{< ref "/f39/language/oc.md" >}}) | 2 | 2303 | 0.1 | /mnt/stockage/packages/f39/libmypaint/po/oc.po | 
- | [se]({{< ref "/f39/language/se.md" >}}) | 2 | 2303 | 0.1 | /mnt/stockage/packages/f39/libmypaint/po/se.po | 
- | [sq]({{< ref "/f39/language/sq.md" >}}) | 2 | 2303 | 0.1 | /mnt/stockage/packages/f39/libmypaint/po/sq.po | 
- | [tg]({{< ref "/f39/language/tg.md" >}}) | 2 | 2303 | 0.1 | /mnt/stockage/packages/f39/libmypaint/po/tg.po | 
- | [wa]({{< ref "/f39/language/wa.md" >}}) | 2 | 2303 | 0.1 | /mnt/stockage/packages/f39/libmypaint/po/wa.po | 
- | [zh_Hant_HK]({{< ref "/f39/language/zh_Hant_HK.md" >}}) | 2 | 2303 | 0.1 | /mnt/stockage/packages/f39/libmypaint/po/zh_HK.po | 
- | [as]({{< ref "/f39/language/as.md" >}}) | 1 | 2303 | 0.0 | /mnt/stockage/packages/f39/libmypaint/po/as.po | 
- | [csb]({{< ref "/f39/language/csb.md" >}}) | 1 | 2303 | 0.0 | /mnt/stockage/packages/f39/libmypaint/po/csb.po | 
- | [fy]({{< ref "/f39/language/fy.md" >}}) | 1 | 2303 | 0.0 | /mnt/stockage/packages/f39/libmypaint/po/fy.po | 
- | [ka]({{< ref "/f39/language/ka.md" >}}) | 1 | 2303 | 0.0 | /mnt/stockage/packages/f39/libmypaint/po/ka.po | 
- | [uz]({{< ref "/f39/language/uz.md" >}}) | 1 | 2303 | 0.0 | /mnt/stockage/packages/f39/libmypaint/po/uz.po | 
- | [hy]({{< ref "/f39/language/hy.md" >}}) | 0 | 2303 | 0.0 | /mnt/stockage/packages/f39/libmypaint/po/hy.po | 
+ | [cs](/f39/language/cs) | 2303 | 2303 | 100.0 | /mnt/stockage/packages/f39/libmypaint/po/cs.po | 
+ | [en_GB](/f39/language/en_GB) | 2316 | 2316 | 100.0 | /mnt/stockage/packages/f39/libmypaint/po/en_GB.po | 
+ | [ko](/f39/language/ko) | 2303 | 2303 | 100.0 | /mnt/stockage/packages/f39/libmypaint/po/ko.po | 
+ | [sk](/f39/language/sk) | 2303 | 2303 | 100.0 | /mnt/stockage/packages/f39/libmypaint/po/sk.po | 
+ | [sv](/f39/language/sv) | 2303 | 2303 | 100.0 | /mnt/stockage/packages/f39/libmypaint/po/sv.po | 
+ | [ca](/f39/language/ca) | 1587 | 2303 | 68.9 | /mnt/stockage/packages/f39/libmypaint/po/ca.po | 
+ | [de](/f39/language/de) | 1546 | 2303 | 67.1 | /mnt/stockage/packages/f39/libmypaint/po/de.po | 
+ | [pt](/f39/language/pt) | 1549 | 2316 | 66.9 | /mnt/stockage/packages/f39/libmypaint/po/pt.po | 
+ | [nl](/f39/language/nl) | 1530 | 2303 | 66.4 | /mnt/stockage/packages/f39/libmypaint/po/nl.po | 
+ | [ca@valencia](/f39/language/ca@valencia) | 1529 | 2303 | 66.4 | /mnt/stockage/packages/f39/libmypaint/po/ca@valencia.po | 
+ | [es](/f39/language/es) | 1528 | 2303 | 66.3 | /mnt/stockage/packages/f39/libmypaint/po/es.po | 
+ | [it](/f39/language/it) | 1528 | 2303 | 66.3 | /mnt/stockage/packages/f39/libmypaint/po/it.po | 
+ | [pl](/f39/language/pl) | 1528 | 2303 | 66.3 | /mnt/stockage/packages/f39/libmypaint/po/pl.po | 
+ | [pt_BR](/f39/language/pt_BR) | 1528 | 2303 | 66.3 | /mnt/stockage/packages/f39/libmypaint/po/pt_BR.po | 
+ | [ru](/f39/language/ru) | 1528 | 2303 | 66.3 | /mnt/stockage/packages/f39/libmypaint/po/ru.po | 
+ | [uk](/f39/language/uk) | 1528 | 2303 | 66.3 | /mnt/stockage/packages/f39/libmypaint/po/uk.po | 
+ | [zh_Hans](/f39/language/zh_Hans) | 1528 | 2303 | 66.3 | /mnt/stockage/packages/f39/libmypaint/po/zh_CN.po | 
+ | [zh_Hant](/f39/language/zh_Hant) | 1528 | 2303 | 66.3 | /mnt/stockage/packages/f39/libmypaint/po/zh_TW.po | 
+ | [fr](/f39/language/fr) | 1526 | 2303 | 66.3 | /mnt/stockage/packages/f39/libmypaint/po/fr.po | 
+ | [ja](/f39/language/ja) | 1526 | 2303 | 66.3 | /mnt/stockage/packages/f39/libmypaint/po/ja.po | 
+ | [fi](/f39/language/fi) | 1415 | 2303 | 61.4 | /mnt/stockage/packages/f39/libmypaint/po/fi.po | 
+ | [ro](/f39/language/ro) | 1399 | 2303 | 60.7 | /mnt/stockage/packages/f39/libmypaint/po/ro.po | 
+ | [id](/f39/language/id) | 1371 | 2303 | 59.5 | /mnt/stockage/packages/f39/libmypaint/po/id.po | 
+ | [hu](/f39/language/hu) | 1197 | 2303 | 52.0 | /mnt/stockage/packages/f39/libmypaint/po/hu.po | 
+ | [da](/f39/language/da) | 985 | 2303 | 42.8 | /mnt/stockage/packages/f39/libmypaint/po/da.po | 
+ | [gl](/f39/language/gl) | 895 | 2303 | 38.9 | /mnt/stockage/packages/f39/libmypaint/po/gl.po | 
+ | [ms](/f39/language/ms) | 895 | 2303 | 38.9 | /mnt/stockage/packages/f39/libmypaint/po/ms.po | 
+ | [th](/f39/language/th) | 895 | 2303 | 38.9 | /mnt/stockage/packages/f39/libmypaint/po/th.po | 
+ | [vi](/f39/language/vi) | 879 | 2303 | 38.2 | /mnt/stockage/packages/f39/libmypaint/po/vi.po | 
+ | [nn](/f39/language/nn) | 826 | 2303 | 35.9 | /mnt/stockage/packages/f39/libmypaint/po/nn_NO.po | 
+ | [ar](/f39/language/ar) | 816 | 2303 | 35.4 | /mnt/stockage/packages/f39/libmypaint/po/ar.po | 
+ | [hr](/f39/language/hr) | 775 | 2316 | 33.5 | /mnt/stockage/packages/f39/libmypaint/po/hr.po | 
+ | [sc](/f39/language/sc) | 457 | 2303 | 19.8 | /mnt/stockage/packages/f39/libmypaint/po/sc.po | 
+ | [en_CA](/f39/language/en_CA) | 346 | 2303 | 15.0 | /mnt/stockage/packages/f39/libmypaint/po/en_CA.po | 
+ | [tr](/f39/language/tr) | 303 | 2303 | 13.2 | /mnt/stockage/packages/f39/libmypaint/po/tr.po | 
+ | [sl](/f39/language/sl) | 237 | 2303 | 10.3 | /mnt/stockage/packages/f39/libmypaint/po/sl.po | 
+ | [el](/f39/language/el) | 148 | 2303 | 6.4 | /mnt/stockage/packages/f39/libmypaint/po/el.po | 
+ | [nb_NO](/f39/language/nb_NO) | 130 | 2303 | 5.6 | /mnt/stockage/packages/f39/libmypaint/po/nb.po | 
+ | [mr](/f39/language/mr) | 119 | 2303 | 5.2 | /mnt/stockage/packages/f39/libmypaint/po/mr.po | 
+ | [is](/f39/language/is) | 97 | 2303 | 4.2 | /mnt/stockage/packages/f39/libmypaint/po/is.po | 
+ | [fa](/f39/language/fa) | 72 | 2303 | 3.1 | /mnt/stockage/packages/f39/libmypaint/po/fa.po | 
+ | [he](/f39/language/he) | 24 | 2303 | 1.0 | /mnt/stockage/packages/f39/libmypaint/po/he.po | 
+ | [bg](/f39/language/bg) | 5 | 2303 | 0.2 | /mnt/stockage/packages/f39/libmypaint/po/bg.po | 
+ | [te](/f39/language/te) | 5 | 2303 | 0.2 | /mnt/stockage/packages/f39/libmypaint/po/te.po | 
+ | [sr](/f39/language/sr) | 9 | 4606 | 0.2 | /mnt/stockage/packages/f39/libmypaint/po/sr.po/mnt/stockage/packages/f39/libmypaint/po/sr@latin.po | 
+ | [eo](/f39/language/eo) | 4 | 2303 | 0.2 | /mnt/stockage/packages/f39/libmypaint/po/eo.po | 
+ | [et](/f39/language/et) | 4 | 2303 | 0.2 | /mnt/stockage/packages/f39/libmypaint/po/et.po | 
+ | [ga](/f39/language/ga) | 4 | 2303 | 0.2 | /mnt/stockage/packages/f39/libmypaint/po/ga.po | 
+ | [lv](/f39/language/lv) | 4 | 2303 | 0.2 | /mnt/stockage/packages/f39/libmypaint/po/lv.po | 
+ | [be](/f39/language/be) | 3 | 2303 | 0.1 | /mnt/stockage/packages/f39/libmypaint/po/be.po | 
+ | [eu](/f39/language/eu) | 3 | 2303 | 0.1 | /mnt/stockage/packages/f39/libmypaint/po/eu.po | 
+ | [gu](/f39/language/gu) | 3 | 2303 | 0.1 | /mnt/stockage/packages/f39/libmypaint/po/gu.po | 
+ | [hi](/f39/language/hi) | 3 | 2303 | 0.1 | /mnt/stockage/packages/f39/libmypaint/po/hi.po | 
+ | [lt](/f39/language/lt) | 3 | 2303 | 0.1 | /mnt/stockage/packages/f39/libmypaint/po/lt.po | 
+ | [pa](/f39/language/pa) | 3 | 2303 | 0.1 | /mnt/stockage/packages/f39/libmypaint/po/pa.po | 
+ | [ta](/f39/language/ta) | 3 | 2303 | 0.1 | /mnt/stockage/packages/f39/libmypaint/po/ta.po | 
+ | [af](/f39/language/af) | 2 | 2303 | 0.1 | /mnt/stockage/packages/f39/libmypaint/po/af.po | 
+ | [ast](/f39/language/ast) | 2 | 2303 | 0.1 | /mnt/stockage/packages/f39/libmypaint/po/ast.po | 
+ | [az](/f39/language/az) | 2 | 2303 | 0.1 | /mnt/stockage/packages/f39/libmypaint/po/az.po | 
+ | [bn](/f39/language/bn) | 2 | 2303 | 0.1 | /mnt/stockage/packages/f39/libmypaint/po/bn.po | 
+ | [br](/f39/language/br) | 2 | 2303 | 0.1 | /mnt/stockage/packages/f39/libmypaint/po/br.po | 
+ | [bs](/f39/language/bs) | 2 | 2303 | 0.1 | /mnt/stockage/packages/f39/libmypaint/po/bs.po | 
+ | [dz](/f39/language/dz) | 2 | 2303 | 0.1 | /mnt/stockage/packages/f39/libmypaint/po/dz.po | 
+ | [kab](/f39/language/kab) | 2 | 2303 | 0.1 | /mnt/stockage/packages/f39/libmypaint/po/kab.po | 
+ | [kk](/f39/language/kk) | 2 | 2303 | 0.1 | /mnt/stockage/packages/f39/libmypaint/po/kk.po | 
+ | [kn](/f39/language/kn) | 2 | 2303 | 0.1 | /mnt/stockage/packages/f39/libmypaint/po/kn.po | 
+ | [mai](/f39/language/mai) | 2 | 2303 | 0.1 | /mnt/stockage/packages/f39/libmypaint/po/mai.po | 
+ | [mn](/f39/language/mn) | 2 | 2303 | 0.1 | /mnt/stockage/packages/f39/libmypaint/po/mn.po | 
+ | [oc](/f39/language/oc) | 2 | 2303 | 0.1 | /mnt/stockage/packages/f39/libmypaint/po/oc.po | 
+ | [se](/f39/language/se) | 2 | 2303 | 0.1 | /mnt/stockage/packages/f39/libmypaint/po/se.po | 
+ | [sq](/f39/language/sq) | 2 | 2303 | 0.1 | /mnt/stockage/packages/f39/libmypaint/po/sq.po | 
+ | [tg](/f39/language/tg) | 2 | 2303 | 0.1 | /mnt/stockage/packages/f39/libmypaint/po/tg.po | 
+ | [wa](/f39/language/wa) | 2 | 2303 | 0.1 | /mnt/stockage/packages/f39/libmypaint/po/wa.po | 
+ | [zh_Hant_HK](/f39/language/zh_Hant_HK) | 2 | 2303 | 0.1 | /mnt/stockage/packages/f39/libmypaint/po/zh_HK.po | 
+ | [as](/f39/language/as) | 1 | 2303 | 0.0 | /mnt/stockage/packages/f39/libmypaint/po/as.po | 
+ | [csb](/f39/language/csb) | 1 | 2303 | 0.0 | /mnt/stockage/packages/f39/libmypaint/po/csb.po | 
+ | [fy](/f39/language/fy) | 1 | 2303 | 0.0 | /mnt/stockage/packages/f39/libmypaint/po/fy.po | 
+ | [ka](/f39/language/ka) | 1 | 2303 | 0.0 | /mnt/stockage/packages/f39/libmypaint/po/ka.po | 
+ | [uz](/f39/language/uz) | 1 | 2303 | 0.0 | /mnt/stockage/packages/f39/libmypaint/po/uz.po | 
+ | [hy](/f39/language/hy) | 0 | 2303 | 0.0 | /mnt/stockage/packages/f39/libmypaint/po/hy.po | 
 {.sortable}
 
 

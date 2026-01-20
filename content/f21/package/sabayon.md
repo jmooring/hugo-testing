@@ -18,87 +18,87 @@ The package sabayon (version 2.30.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f21/language/ar.md" >}}) | 743 | 743 | 100.0 | /mnt/stockage/packages/f21/sabayon/po/ar.po | 
- | [ast]({{< ref "/f21/language/ast.md" >}}) | 739 | 739 | 100.0 | /mnt/stockage/packages/f21/sabayon/po/ast.po | 
- | [bg]({{< ref "/f21/language/bg.md" >}}) | 743 | 743 | 100.0 | /mnt/stockage/packages/f21/sabayon/po/bg.po | 
- | [bn]({{< ref "/f21/language/bn.md" >}}) | 743 | 743 | 100.0 | /mnt/stockage/packages/f21/sabayon/po/bn.po | 
- | [ca]({{< ref "/f21/language/ca.md" >}}) | 743 | 743 | 100.0 | /mnt/stockage/packages/f21/sabayon/po/ca.po | 
- | [ca@valencia]({{< ref "/f21/language/ca@valencia.md" >}}) | 743 | 743 | 100.0 | /mnt/stockage/packages/f21/sabayon/po/ca@valencia.po | 
- | [cs]({{< ref "/f21/language/cs.md" >}}) | 743 | 743 | 100.0 | /mnt/stockage/packages/f21/sabayon/po/cs.po | 
- | [da]({{< ref "/f21/language/da.md" >}}) | 743 | 743 | 100.0 | /mnt/stockage/packages/f21/sabayon/po/da.po | 
- | [de]({{< ref "/f21/language/de.md" >}}) | 2178 | 2178 | 100.0 | /mnt/stockage/packages/f21/sabayon/help/de/de.po/mnt/stockage/packages/f21/sabayon/po/de.po | 
- | [el]({{< ref "/f21/language/el.md" >}}) | 2178 | 2178 | 100.0 | /mnt/stockage/packages/f21/sabayon/help/el/el.po/mnt/stockage/packages/f21/sabayon/po/el.po | 
- | [en_GB]({{< ref "/f21/language/en_GB.md" >}}) | 743 | 743 | 100.0 | /mnt/stockage/packages/f21/sabayon/po/en_GB.po | 
- | [error]({{< ref "/f21/language/error.md" >}}) | 743 | 743 | 100.0 | /mnt/stockage/packages/f21/sabayon/po/en@shaw.po | 
- | [es]({{< ref "/f21/language/es.md" >}}) | 2178 | 2178 | 100.0 | /mnt/stockage/packages/f21/sabayon/help/es/es.po/mnt/stockage/packages/f21/sabayon/po/es.po | 
- | [et]({{< ref "/f21/language/et.md" >}}) | 743 | 743 | 100.0 | /mnt/stockage/packages/f21/sabayon/po/et.po | 
- | [eu]({{< ref "/f21/language/eu.md" >}}) | 743 | 743 | 100.0 | /mnt/stockage/packages/f21/sabayon/po/eu.po | 
- | [fi]({{< ref "/f21/language/fi.md" >}}) | 743 | 743 | 100.0 | /mnt/stockage/packages/f21/sabayon/po/fi.po | 
- | [fr]({{< ref "/f21/language/fr.md" >}}) | 2178 | 2178 | 100.0 | /mnt/stockage/packages/f21/sabayon/help/fr/fr.po/mnt/stockage/packages/f21/sabayon/po/fr.po | 
- | [gl]({{< ref "/f21/language/gl.md" >}}) | 743 | 743 | 100.0 | /mnt/stockage/packages/f21/sabayon/po/gl.po | 
- | [he]({{< ref "/f21/language/he.md" >}}) | 743 | 743 | 100.0 | /mnt/stockage/packages/f21/sabayon/po/he.po | 
- | [hu]({{< ref "/f21/language/hu.md" >}}) | 743 | 743 | 100.0 | /mnt/stockage/packages/f21/sabayon/po/hu.po | 
- | [hy]({{< ref "/f21/language/hy.md" >}}) | 743 | 743 | 100.0 | /mnt/stockage/packages/f21/sabayon/po/hy.po | 
- | [id]({{< ref "/f21/language/id.md" >}}) | 743 | 743 | 100.0 | /mnt/stockage/packages/f21/sabayon/po/id.po | 
- | [it]({{< ref "/f21/language/it.md" >}}) | 743 | 743 | 100.0 | /mnt/stockage/packages/f21/sabayon/po/it.po | 
- | [ja]({{< ref "/f21/language/ja.md" >}}) | 743 | 743 | 100.0 | /mnt/stockage/packages/f21/sabayon/po/ja.po | 
- | [ko]({{< ref "/f21/language/ko.md" >}}) | 743 | 743 | 100.0 | /mnt/stockage/packages/f21/sabayon/po/ko.po | 
- | [lt]({{< ref "/f21/language/lt.md" >}}) | 743 | 743 | 100.0 | /mnt/stockage/packages/f21/sabayon/po/lt.po | 
- | [lv]({{< ref "/f21/language/lv.md" >}}) | 743 | 743 | 100.0 | /mnt/stockage/packages/f21/sabayon/po/lv.po | 
- | [ml]({{< ref "/f21/language/ml.md" >}}) | 743 | 743 | 100.0 | /mnt/stockage/packages/f21/sabayon/po/ml.po | 
- | [mn]({{< ref "/f21/language/mn.md" >}}) | 743 | 743 | 100.0 | /mnt/stockage/packages/f21/sabayon/po/mn.po | 
- | [nb_NO]({{< ref "/f21/language/nb_NO.md" >}}) | 743 | 743 | 100.0 | /mnt/stockage/packages/f21/sabayon/po/nb.po | 
- | [nn]({{< ref "/f21/language/nn.md" >}}) | 743 | 743 | 100.0 | /mnt/stockage/packages/f21/sabayon/po/nn.po | 
- | [oc]({{< ref "/f21/language/oc.md" >}}) | 743 | 743 | 100.0 | /mnt/stockage/packages/f21/sabayon/po/oc.po | 
- | [pa]({{< ref "/f21/language/pa.md" >}}) | 743 | 743 | 100.0 | /mnt/stockage/packages/f21/sabayon/po/pa.po | 
- | [pl]({{< ref "/f21/language/pl.md" >}}) | 743 | 743 | 100.0 | /mnt/stockage/packages/f21/sabayon/po/pl.po | 
- | [pt]({{< ref "/f21/language/pt.md" >}}) | 743 | 743 | 100.0 | /mnt/stockage/packages/f21/sabayon/po/pt.po | 
- | [pt_BR]({{< ref "/f21/language/pt_BR.md" >}}) | 743 | 743 | 100.0 | /mnt/stockage/packages/f21/sabayon/po/pt_BR.po | 
- | [ro]({{< ref "/f21/language/ro.md" >}}) | 743 | 743 | 100.0 | /mnt/stockage/packages/f21/sabayon/po/ro.po | 
- | [ru]({{< ref "/f21/language/ru.md" >}}) | 743 | 743 | 100.0 | /mnt/stockage/packages/f21/sabayon/po/ru.po | 
- | [sl]({{< ref "/f21/language/sl.md" >}}) | 743 | 743 | 100.0 | /mnt/stockage/packages/f21/sabayon/po/sl.po | 
- | [sq]({{< ref "/f21/language/sq.md" >}}) | 743 | 743 | 100.0 | /mnt/stockage/packages/f21/sabayon/po/sq.po | 
- | [sr]({{< ref "/f21/language/sr.md" >}}) | 743 | 743 | 100.0 | /mnt/stockage/packages/f21/sabayon/po/sr.po | 
- | [sr_Latn]({{< ref "/f21/language/sr_Latn.md" >}}) | 743 | 743 | 100.0 | /mnt/stockage/packages/f21/sabayon/po/sr@latin.po | 
- | [ta]({{< ref "/f21/language/ta.md" >}}) | 743 | 743 | 100.0 | /mnt/stockage/packages/f21/sabayon/po/ta.po | 
- | [th]({{< ref "/f21/language/th.md" >}}) | 743 | 743 | 100.0 | /mnt/stockage/packages/f21/sabayon/po/th.po | 
- | [tr]({{< ref "/f21/language/tr.md" >}}) | 743 | 743 | 100.0 | /mnt/stockage/packages/f21/sabayon/po/tr.po | 
- | [uk]({{< ref "/f21/language/uk.md" >}}) | 2178 | 2178 | 100.0 | /mnt/stockage/packages/f21/sabayon/help/uk/uk.po/mnt/stockage/packages/f21/sabayon/po/uk.po | 
- | [vi]({{< ref "/f21/language/vi.md" >}}) | 743 | 743 | 100.0 | /mnt/stockage/packages/f21/sabayon/po/vi.po | 
- | [zh_Hant]({{< ref "/f21/language/zh_Hant.md" >}}) | 743 | 743 | 100.0 | /mnt/stockage/packages/f21/sabayon/po/zh_TW.po | 
- | [zh_Hant_HK]({{< ref "/f21/language/zh_Hant_HK.md" >}}) | 743 | 743 | 100.0 | /mnt/stockage/packages/f21/sabayon/po/zh_HK.po | 
- | [as]({{< ref "/f21/language/as.md" >}}) | 656 | 736 | 89.1 | /mnt/stockage/packages/f21/sabayon/po/as.po | 
- | [be]({{< ref "/f21/language/be.md" >}}) | 656 | 736 | 89.1 | /mnt/stockage/packages/f21/sabayon/po/be.po | 
- | [bn_IN]({{< ref "/f21/language/bn_IN.md" >}}) | 656 | 736 | 89.1 | /mnt/stockage/packages/f21/sabayon/po/bn_IN.po | 
- | [gu]({{< ref "/f21/language/gu.md" >}}) | 656 | 736 | 89.1 | /mnt/stockage/packages/f21/sabayon/po/gu.po | 
- | [hi]({{< ref "/f21/language/hi.md" >}}) | 656 | 736 | 89.1 | /mnt/stockage/packages/f21/sabayon/po/hi.po | 
- | [kn]({{< ref "/f21/language/kn.md" >}}) | 656 | 736 | 89.1 | /mnt/stockage/packages/f21/sabayon/po/kn.po | 
- | [mr]({{< ref "/f21/language/mr.md" >}}) | 656 | 736 | 89.1 | /mnt/stockage/packages/f21/sabayon/po/mr.po | 
- | [or]({{< ref "/f21/language/or.md" >}}) | 656 | 736 | 89.1 | /mnt/stockage/packages/f21/sabayon/po/or.po | 
- | [te]({{< ref "/f21/language/te.md" >}}) | 656 | 736 | 89.1 | /mnt/stockage/packages/f21/sabayon/po/te.po | 
- | [ug]({{< ref "/f21/language/ug.md" >}}) | 657 | 743 | 88.4 | /mnt/stockage/packages/f21/sabayon/po/ug.po | 
- | [be_Latn]({{< ref "/f21/language/be_Latn.md" >}}) | 629 | 736 | 85.5 | /mnt/stockage/packages/f21/sabayon/po/be@latin.po | 
- | [en_CA]({{< ref "/f21/language/en_CA.md" >}}) | 629 | 736 | 85.5 | /mnt/stockage/packages/f21/sabayon/po/en_CA.po | 
- | [mk]({{< ref "/f21/language/mk.md" >}}) | 629 | 736 | 85.5 | /mnt/stockage/packages/f21/sabayon/po/mk.po | 
- | [ne]({{< ref "/f21/language/ne.md" >}}) | 629 | 736 | 85.5 | /mnt/stockage/packages/f21/sabayon/po/ne.po | 
- | [nl]({{< ref "/f21/language/nl.md" >}}) | 629 | 736 | 85.5 | /mnt/stockage/packages/f21/sabayon/po/nl.po | 
- | [si]({{< ref "/f21/language/si.md" >}}) | 609 | 736 | 82.7 | /mnt/stockage/packages/f21/sabayon/po/si.po | 
- | [sk]({{< ref "/f21/language/sk.md" >}}) | 604 | 743 | 81.3 | /mnt/stockage/packages/f21/sabayon/po/sk.po | 
- | [dz]({{< ref "/f21/language/dz.md" >}}) | 513 | 736 | 69.7 | /mnt/stockage/packages/f21/sabayon/po/dz.po | 
- | [mai]({{< ref "/f21/language/mai.md" >}}) | 503 | 736 | 68.3 | /mnt/stockage/packages/f21/sabayon/po/mai.po | 
- | [cy]({{< ref "/f21/language/cy.md" >}}) | 496 | 736 | 67.4 | /mnt/stockage/packages/f21/sabayon/po/cy.po | 
- | [fa]({{< ref "/f21/language/fa.md" >}}) | 496 | 736 | 67.4 | /mnt/stockage/packages/f21/sabayon/po/fa.po | 
- | [ka]({{< ref "/f21/language/ka.md" >}}) | 496 | 736 | 67.4 | /mnt/stockage/packages/f21/sabayon/po/ka.po | 
- | [mg]({{< ref "/f21/language/mg.md" >}}) | 496 | 736 | 67.4 | /mnt/stockage/packages/f21/sabayon/po/mg.po | 
- | [sv]({{< ref "/f21/language/sv.md" >}}) | 1283 | 2186 | 58.7 | /mnt/stockage/packages/f21/sabayon/help/sv/sv.po/mnt/stockage/packages/f21/sabayon/po/sv.po | 
- | [ps]({{< ref "/f21/language/ps.md" >}}) | 396 | 736 | 53.8 | /mnt/stockage/packages/f21/sabayon/po/ps.po | 
- | [zh_Hans]({{< ref "/f21/language/zh_Hans.md" >}}) | 865 | 2178 | 39.7 | /mnt/stockage/packages/f21/sabayon/help/zh_CN/zh_CN.po/mnt/stockage/packages/f21/sabayon/po/zh_CN.po | 
- | [nds]({{< ref "/f21/language/nds.md" >}}) | 197 | 736 | 26.8 | /mnt/stockage/packages/f21/sabayon/po/nds.po | 
- | [br]({{< ref "/f21/language/br.md" >}}) | 114 | 736 | 15.5 | /mnt/stockage/packages/f21/sabayon/po/br.po | 
- | [ku]({{< ref "/f21/language/ku.md" >}}) | 114 | 736 | 15.5 | /mnt/stockage/packages/f21/sabayon/po/ku.po | 
- | [eo]({{< ref "/f21/language/eo.md" >}}) | 114 | 743 | 15.3 | /mnt/stockage/packages/f21/sabayon/po/eo.po | 
- | [rw]({{< ref "/f21/language/rw.md" >}}) | 9 | 736 | 1.2 | /mnt/stockage/packages/f21/sabayon/po/rw.po | 
- | [kk]({{< ref "/f21/language/kk.md" >}}) | 0 | 743 | 0.0 | /mnt/stockage/packages/f21/sabayon/po/kk.po | 
+ | [ar](/f21/language/ar) | 743 | 743 | 100.0 | /mnt/stockage/packages/f21/sabayon/po/ar.po | 
+ | [ast](/f21/language/ast) | 739 | 739 | 100.0 | /mnt/stockage/packages/f21/sabayon/po/ast.po | 
+ | [bg](/f21/language/bg) | 743 | 743 | 100.0 | /mnt/stockage/packages/f21/sabayon/po/bg.po | 
+ | [bn](/f21/language/bn) | 743 | 743 | 100.0 | /mnt/stockage/packages/f21/sabayon/po/bn.po | 
+ | [ca](/f21/language/ca) | 743 | 743 | 100.0 | /mnt/stockage/packages/f21/sabayon/po/ca.po | 
+ | [ca@valencia](/f21/language/ca@valencia) | 743 | 743 | 100.0 | /mnt/stockage/packages/f21/sabayon/po/ca@valencia.po | 
+ | [cs](/f21/language/cs) | 743 | 743 | 100.0 | /mnt/stockage/packages/f21/sabayon/po/cs.po | 
+ | [da](/f21/language/da) | 743 | 743 | 100.0 | /mnt/stockage/packages/f21/sabayon/po/da.po | 
+ | [de](/f21/language/de) | 2178 | 2178 | 100.0 | /mnt/stockage/packages/f21/sabayon/help/de/de.po/mnt/stockage/packages/f21/sabayon/po/de.po | 
+ | [el](/f21/language/el) | 2178 | 2178 | 100.0 | /mnt/stockage/packages/f21/sabayon/help/el/el.po/mnt/stockage/packages/f21/sabayon/po/el.po | 
+ | [en_GB](/f21/language/en_GB) | 743 | 743 | 100.0 | /mnt/stockage/packages/f21/sabayon/po/en_GB.po | 
+ | [error](/f21/language/error) | 743 | 743 | 100.0 | /mnt/stockage/packages/f21/sabayon/po/en@shaw.po | 
+ | [es](/f21/language/es) | 2178 | 2178 | 100.0 | /mnt/stockage/packages/f21/sabayon/help/es/es.po/mnt/stockage/packages/f21/sabayon/po/es.po | 
+ | [et](/f21/language/et) | 743 | 743 | 100.0 | /mnt/stockage/packages/f21/sabayon/po/et.po | 
+ | [eu](/f21/language/eu) | 743 | 743 | 100.0 | /mnt/stockage/packages/f21/sabayon/po/eu.po | 
+ | [fi](/f21/language/fi) | 743 | 743 | 100.0 | /mnt/stockage/packages/f21/sabayon/po/fi.po | 
+ | [fr](/f21/language/fr) | 2178 | 2178 | 100.0 | /mnt/stockage/packages/f21/sabayon/help/fr/fr.po/mnt/stockage/packages/f21/sabayon/po/fr.po | 
+ | [gl](/f21/language/gl) | 743 | 743 | 100.0 | /mnt/stockage/packages/f21/sabayon/po/gl.po | 
+ | [he](/f21/language/he) | 743 | 743 | 100.0 | /mnt/stockage/packages/f21/sabayon/po/he.po | 
+ | [hu](/f21/language/hu) | 743 | 743 | 100.0 | /mnt/stockage/packages/f21/sabayon/po/hu.po | 
+ | [hy](/f21/language/hy) | 743 | 743 | 100.0 | /mnt/stockage/packages/f21/sabayon/po/hy.po | 
+ | [id](/f21/language/id) | 743 | 743 | 100.0 | /mnt/stockage/packages/f21/sabayon/po/id.po | 
+ | [it](/f21/language/it) | 743 | 743 | 100.0 | /mnt/stockage/packages/f21/sabayon/po/it.po | 
+ | [ja](/f21/language/ja) | 743 | 743 | 100.0 | /mnt/stockage/packages/f21/sabayon/po/ja.po | 
+ | [ko](/f21/language/ko) | 743 | 743 | 100.0 | /mnt/stockage/packages/f21/sabayon/po/ko.po | 
+ | [lt](/f21/language/lt) | 743 | 743 | 100.0 | /mnt/stockage/packages/f21/sabayon/po/lt.po | 
+ | [lv](/f21/language/lv) | 743 | 743 | 100.0 | /mnt/stockage/packages/f21/sabayon/po/lv.po | 
+ | [ml](/f21/language/ml) | 743 | 743 | 100.0 | /mnt/stockage/packages/f21/sabayon/po/ml.po | 
+ | [mn](/f21/language/mn) | 743 | 743 | 100.0 | /mnt/stockage/packages/f21/sabayon/po/mn.po | 
+ | [nb_NO](/f21/language/nb_NO) | 743 | 743 | 100.0 | /mnt/stockage/packages/f21/sabayon/po/nb.po | 
+ | [nn](/f21/language/nn) | 743 | 743 | 100.0 | /mnt/stockage/packages/f21/sabayon/po/nn.po | 
+ | [oc](/f21/language/oc) | 743 | 743 | 100.0 | /mnt/stockage/packages/f21/sabayon/po/oc.po | 
+ | [pa](/f21/language/pa) | 743 | 743 | 100.0 | /mnt/stockage/packages/f21/sabayon/po/pa.po | 
+ | [pl](/f21/language/pl) | 743 | 743 | 100.0 | /mnt/stockage/packages/f21/sabayon/po/pl.po | 
+ | [pt](/f21/language/pt) | 743 | 743 | 100.0 | /mnt/stockage/packages/f21/sabayon/po/pt.po | 
+ | [pt_BR](/f21/language/pt_BR) | 743 | 743 | 100.0 | /mnt/stockage/packages/f21/sabayon/po/pt_BR.po | 
+ | [ro](/f21/language/ro) | 743 | 743 | 100.0 | /mnt/stockage/packages/f21/sabayon/po/ro.po | 
+ | [ru](/f21/language/ru) | 743 | 743 | 100.0 | /mnt/stockage/packages/f21/sabayon/po/ru.po | 
+ | [sl](/f21/language/sl) | 743 | 743 | 100.0 | /mnt/stockage/packages/f21/sabayon/po/sl.po | 
+ | [sq](/f21/language/sq) | 743 | 743 | 100.0 | /mnt/stockage/packages/f21/sabayon/po/sq.po | 
+ | [sr](/f21/language/sr) | 743 | 743 | 100.0 | /mnt/stockage/packages/f21/sabayon/po/sr.po | 
+ | [sr_Latn](/f21/language/sr_Latn) | 743 | 743 | 100.0 | /mnt/stockage/packages/f21/sabayon/po/sr@latin.po | 
+ | [ta](/f21/language/ta) | 743 | 743 | 100.0 | /mnt/stockage/packages/f21/sabayon/po/ta.po | 
+ | [th](/f21/language/th) | 743 | 743 | 100.0 | /mnt/stockage/packages/f21/sabayon/po/th.po | 
+ | [tr](/f21/language/tr) | 743 | 743 | 100.0 | /mnt/stockage/packages/f21/sabayon/po/tr.po | 
+ | [uk](/f21/language/uk) | 2178 | 2178 | 100.0 | /mnt/stockage/packages/f21/sabayon/help/uk/uk.po/mnt/stockage/packages/f21/sabayon/po/uk.po | 
+ | [vi](/f21/language/vi) | 743 | 743 | 100.0 | /mnt/stockage/packages/f21/sabayon/po/vi.po | 
+ | [zh_Hant](/f21/language/zh_Hant) | 743 | 743 | 100.0 | /mnt/stockage/packages/f21/sabayon/po/zh_TW.po | 
+ | [zh_Hant_HK](/f21/language/zh_Hant_HK) | 743 | 743 | 100.0 | /mnt/stockage/packages/f21/sabayon/po/zh_HK.po | 
+ | [as](/f21/language/as) | 656 | 736 | 89.1 | /mnt/stockage/packages/f21/sabayon/po/as.po | 
+ | [be](/f21/language/be) | 656 | 736 | 89.1 | /mnt/stockage/packages/f21/sabayon/po/be.po | 
+ | [bn_IN](/f21/language/bn_IN) | 656 | 736 | 89.1 | /mnt/stockage/packages/f21/sabayon/po/bn_IN.po | 
+ | [gu](/f21/language/gu) | 656 | 736 | 89.1 | /mnt/stockage/packages/f21/sabayon/po/gu.po | 
+ | [hi](/f21/language/hi) | 656 | 736 | 89.1 | /mnt/stockage/packages/f21/sabayon/po/hi.po | 
+ | [kn](/f21/language/kn) | 656 | 736 | 89.1 | /mnt/stockage/packages/f21/sabayon/po/kn.po | 
+ | [mr](/f21/language/mr) | 656 | 736 | 89.1 | /mnt/stockage/packages/f21/sabayon/po/mr.po | 
+ | [or](/f21/language/or) | 656 | 736 | 89.1 | /mnt/stockage/packages/f21/sabayon/po/or.po | 
+ | [te](/f21/language/te) | 656 | 736 | 89.1 | /mnt/stockage/packages/f21/sabayon/po/te.po | 
+ | [ug](/f21/language/ug) | 657 | 743 | 88.4 | /mnt/stockage/packages/f21/sabayon/po/ug.po | 
+ | [be_Latn](/f21/language/be_Latn) | 629 | 736 | 85.5 | /mnt/stockage/packages/f21/sabayon/po/be@latin.po | 
+ | [en_CA](/f21/language/en_CA) | 629 | 736 | 85.5 | /mnt/stockage/packages/f21/sabayon/po/en_CA.po | 
+ | [mk](/f21/language/mk) | 629 | 736 | 85.5 | /mnt/stockage/packages/f21/sabayon/po/mk.po | 
+ | [ne](/f21/language/ne) | 629 | 736 | 85.5 | /mnt/stockage/packages/f21/sabayon/po/ne.po | 
+ | [nl](/f21/language/nl) | 629 | 736 | 85.5 | /mnt/stockage/packages/f21/sabayon/po/nl.po | 
+ | [si](/f21/language/si) | 609 | 736 | 82.7 | /mnt/stockage/packages/f21/sabayon/po/si.po | 
+ | [sk](/f21/language/sk) | 604 | 743 | 81.3 | /mnt/stockage/packages/f21/sabayon/po/sk.po | 
+ | [dz](/f21/language/dz) | 513 | 736 | 69.7 | /mnt/stockage/packages/f21/sabayon/po/dz.po | 
+ | [mai](/f21/language/mai) | 503 | 736 | 68.3 | /mnt/stockage/packages/f21/sabayon/po/mai.po | 
+ | [cy](/f21/language/cy) | 496 | 736 | 67.4 | /mnt/stockage/packages/f21/sabayon/po/cy.po | 
+ | [fa](/f21/language/fa) | 496 | 736 | 67.4 | /mnt/stockage/packages/f21/sabayon/po/fa.po | 
+ | [ka](/f21/language/ka) | 496 | 736 | 67.4 | /mnt/stockage/packages/f21/sabayon/po/ka.po | 
+ | [mg](/f21/language/mg) | 496 | 736 | 67.4 | /mnt/stockage/packages/f21/sabayon/po/mg.po | 
+ | [sv](/f21/language/sv) | 1283 | 2186 | 58.7 | /mnt/stockage/packages/f21/sabayon/help/sv/sv.po/mnt/stockage/packages/f21/sabayon/po/sv.po | 
+ | [ps](/f21/language/ps) | 396 | 736 | 53.8 | /mnt/stockage/packages/f21/sabayon/po/ps.po | 
+ | [zh_Hans](/f21/language/zh_Hans) | 865 | 2178 | 39.7 | /mnt/stockage/packages/f21/sabayon/help/zh_CN/zh_CN.po/mnt/stockage/packages/f21/sabayon/po/zh_CN.po | 
+ | [nds](/f21/language/nds) | 197 | 736 | 26.8 | /mnt/stockage/packages/f21/sabayon/po/nds.po | 
+ | [br](/f21/language/br) | 114 | 736 | 15.5 | /mnt/stockage/packages/f21/sabayon/po/br.po | 
+ | [ku](/f21/language/ku) | 114 | 736 | 15.5 | /mnt/stockage/packages/f21/sabayon/po/ku.po | 
+ | [eo](/f21/language/eo) | 114 | 743 | 15.3 | /mnt/stockage/packages/f21/sabayon/po/eo.po | 
+ | [rw](/f21/language/rw) | 9 | 736 | 1.2 | /mnt/stockage/packages/f21/sabayon/po/rw.po | 
+ | [kk](/f21/language/kk) | 0 | 743 | 0.0 | /mnt/stockage/packages/f21/sabayon/po/kk.po | 
 {.sortable}
 
 

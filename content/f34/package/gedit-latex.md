@@ -18,34 +18,34 @@ The package gedit-latex (version 3.20.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [bs]({{< ref "/f34/language/bs.md" >}}) | 468 | 468 | 100.0 | /mnt/stockage/packages/f34/gedit-latex/po/bs.po | 
- | [cs]({{< ref "/f34/language/cs.md" >}}) | 468 | 468 | 100.0 | /mnt/stockage/packages/f34/gedit-latex/po/cs.po | 
- | [da]({{< ref "/f34/language/da.md" >}}) | 466 | 466 | 100.0 | /mnt/stockage/packages/f34/gedit-latex/po/da.po | 
- | [de]({{< ref "/f34/language/de.md" >}}) | 478 | 478 | 100.0 | /mnt/stockage/packages/f34/gedit-latex/po/de.po | 
- | [el]({{< ref "/f34/language/el.md" >}}) | 468 | 468 | 100.0 | /mnt/stockage/packages/f34/gedit-latex/po/el.po | 
- | [es]({{< ref "/f34/language/es.md" >}}) | 468 | 468 | 100.0 | /mnt/stockage/packages/f34/gedit-latex/po/es.po | 
- | [fr]({{< ref "/f34/language/fr.md" >}}) | 934 | 934 | 100.0 | /mnt/stockage/packages/f34/gedit-latex/po/fr.po/mnt/stockage/packages/f34/gedit-latex/po/oc.po | 
- | [gl]({{< ref "/f34/language/gl.md" >}}) | 466 | 466 | 100.0 | /mnt/stockage/packages/f34/gedit-latex/po/gl.po | 
- | [hu]({{< ref "/f34/language/hu.md" >}}) | 478 | 478 | 100.0 | /mnt/stockage/packages/f34/gedit-latex/po/hu.po | 
- | [it]({{< ref "/f34/language/it.md" >}}) | 468 | 468 | 100.0 | /mnt/stockage/packages/f34/gedit-latex/po/it.po | 
- | [ko]({{< ref "/f34/language/ko.md" >}}) | 466 | 466 | 100.0 | /mnt/stockage/packages/f34/gedit-latex/po/ko.po | 
- | [lv]({{< ref "/f34/language/lv.md" >}}) | 468 | 468 | 100.0 | /mnt/stockage/packages/f34/gedit-latex/po/lv.po | 
- | [pl]({{< ref "/f34/language/pl.md" >}}) | 478 | 478 | 100.0 | /mnt/stockage/packages/f34/gedit-latex/po/pl.po | 
- | [pt]({{< ref "/f34/language/pt.md" >}}) | 468 | 468 | 100.0 | /mnt/stockage/packages/f34/gedit-latex/po/pt.po | 
- | [pt_BR]({{< ref "/f34/language/pt_BR.md" >}}) | 478 | 478 | 100.0 | /mnt/stockage/packages/f34/gedit-latex/po/pt_BR.po | 
- | [sl]({{< ref "/f34/language/sl.md" >}}) | 468 | 468 | 100.0 | /mnt/stockage/packages/f34/gedit-latex/po/sl.po | 
- | [sr]({{< ref "/f34/language/sr.md" >}}) | 936 | 936 | 100.0 | /mnt/stockage/packages/f34/gedit-latex/po/sr@latin.po/mnt/stockage/packages/f34/gedit-latex/po/sr.po | 
- | [th]({{< ref "/f34/language/th.md" >}}) | 468 | 468 | 100.0 | /mnt/stockage/packages/f34/gedit-latex/po/th.po | 
- | [zh_Hans]({{< ref "/f34/language/zh_Hans.md" >}}) | 466 | 466 | 100.0 | /mnt/stockage/packages/f34/gedit-latex/po/zh_CN.po | 
- | [id]({{< ref "/f34/language/id.md" >}}) | 449 | 468 | 95.9 | /mnt/stockage/packages/f34/gedit-latex/po/id.po | 
- | [zh_Hant]({{< ref "/f34/language/zh_Hant.md" >}}) | 412 | 468 | 88.0 | /mnt/stockage/packages/f34/gedit-latex/po/zh_TW.po | 
- | [ro]({{< ref "/f34/language/ro.md" >}}) | 411 | 468 | 87.8 | /mnt/stockage/packages/f34/gedit-latex/po/ro.po | 
- | [ru]({{< ref "/f34/language/ru.md" >}}) | 251 | 298 | 84.2 | /mnt/stockage/packages/f34/gedit-latex/po/ru.po | 
- | [eu]({{< ref "/f34/language/eu.md" >}}) | 282 | 468 | 60.3 | /mnt/stockage/packages/f34/gedit-latex/po/eu.po | 
- | [sv]({{< ref "/f34/language/sv.md" >}}) | 221 | 468 | 47.2 | /mnt/stockage/packages/f34/gedit-latex/po/sv.po | 
- | [nb_NO]({{< ref "/f34/language/nb_NO.md" >}}) | 85 | 298 | 28.5 | /mnt/stockage/packages/f34/gedit-latex/po/nb.po | 
- | [ca]({{< ref "/f34/language/ca.md" >}}) | 111 | 466 | 23.8 | /mnt/stockage/packages/f34/gedit-latex/po/ca.po | 
- | [eo]({{< ref "/f34/language/eo.md" >}}) | 95 | 416 | 22.8 | /mnt/stockage/packages/f34/gedit-latex/po/eo.po | 
+ | [bs](/f34/language/bs) | 468 | 468 | 100.0 | /mnt/stockage/packages/f34/gedit-latex/po/bs.po | 
+ | [cs](/f34/language/cs) | 468 | 468 | 100.0 | /mnt/stockage/packages/f34/gedit-latex/po/cs.po | 
+ | [da](/f34/language/da) | 466 | 466 | 100.0 | /mnt/stockage/packages/f34/gedit-latex/po/da.po | 
+ | [de](/f34/language/de) | 478 | 478 | 100.0 | /mnt/stockage/packages/f34/gedit-latex/po/de.po | 
+ | [el](/f34/language/el) | 468 | 468 | 100.0 | /mnt/stockage/packages/f34/gedit-latex/po/el.po | 
+ | [es](/f34/language/es) | 468 | 468 | 100.0 | /mnt/stockage/packages/f34/gedit-latex/po/es.po | 
+ | [fr](/f34/language/fr) | 934 | 934 | 100.0 | /mnt/stockage/packages/f34/gedit-latex/po/fr.po/mnt/stockage/packages/f34/gedit-latex/po/oc.po | 
+ | [gl](/f34/language/gl) | 466 | 466 | 100.0 | /mnt/stockage/packages/f34/gedit-latex/po/gl.po | 
+ | [hu](/f34/language/hu) | 478 | 478 | 100.0 | /mnt/stockage/packages/f34/gedit-latex/po/hu.po | 
+ | [it](/f34/language/it) | 468 | 468 | 100.0 | /mnt/stockage/packages/f34/gedit-latex/po/it.po | 
+ | [ko](/f34/language/ko) | 466 | 466 | 100.0 | /mnt/stockage/packages/f34/gedit-latex/po/ko.po | 
+ | [lv](/f34/language/lv) | 468 | 468 | 100.0 | /mnt/stockage/packages/f34/gedit-latex/po/lv.po | 
+ | [pl](/f34/language/pl) | 478 | 478 | 100.0 | /mnt/stockage/packages/f34/gedit-latex/po/pl.po | 
+ | [pt](/f34/language/pt) | 468 | 468 | 100.0 | /mnt/stockage/packages/f34/gedit-latex/po/pt.po | 
+ | [pt_BR](/f34/language/pt_BR) | 478 | 478 | 100.0 | /mnt/stockage/packages/f34/gedit-latex/po/pt_BR.po | 
+ | [sl](/f34/language/sl) | 468 | 468 | 100.0 | /mnt/stockage/packages/f34/gedit-latex/po/sl.po | 
+ | [sr](/f34/language/sr) | 936 | 936 | 100.0 | /mnt/stockage/packages/f34/gedit-latex/po/sr@latin.po/mnt/stockage/packages/f34/gedit-latex/po/sr.po | 
+ | [th](/f34/language/th) | 468 | 468 | 100.0 | /mnt/stockage/packages/f34/gedit-latex/po/th.po | 
+ | [zh_Hans](/f34/language/zh_Hans) | 466 | 466 | 100.0 | /mnt/stockage/packages/f34/gedit-latex/po/zh_CN.po | 
+ | [id](/f34/language/id) | 449 | 468 | 95.9 | /mnt/stockage/packages/f34/gedit-latex/po/id.po | 
+ | [zh_Hant](/f34/language/zh_Hant) | 412 | 468 | 88.0 | /mnt/stockage/packages/f34/gedit-latex/po/zh_TW.po | 
+ | [ro](/f34/language/ro) | 411 | 468 | 87.8 | /mnt/stockage/packages/f34/gedit-latex/po/ro.po | 
+ | [ru](/f34/language/ru) | 251 | 298 | 84.2 | /mnt/stockage/packages/f34/gedit-latex/po/ru.po | 
+ | [eu](/f34/language/eu) | 282 | 468 | 60.3 | /mnt/stockage/packages/f34/gedit-latex/po/eu.po | 
+ | [sv](/f34/language/sv) | 221 | 468 | 47.2 | /mnt/stockage/packages/f34/gedit-latex/po/sv.po | 
+ | [nb_NO](/f34/language/nb_NO) | 85 | 298 | 28.5 | /mnt/stockage/packages/f34/gedit-latex/po/nb.po | 
+ | [ca](/f34/language/ca) | 111 | 466 | 23.8 | /mnt/stockage/packages/f34/gedit-latex/po/ca.po | 
+ | [eo](/f34/language/eo) | 95 | 416 | 22.8 | /mnt/stockage/packages/f34/gedit-latex/po/eo.po | 
 {.sortable}
 
 

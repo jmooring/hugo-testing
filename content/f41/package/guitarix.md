@@ -18,11 +18,11 @@ The package guitarix (version 0.44.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ru]({{< ref "/f41/language/ru.md" >}}) | 2871 | 2871 | 100.0 | /mnt/stockage/packages/f41/guitarix/po/ru.po | 
- | [fr]({{< ref "/f41/language/fr.md" >}}) | 2947 | 2957 | 99.7 | /mnt/stockage/packages/f41/guitarix/po/fr.po | 
- | [it]({{< ref "/f41/language/it.md" >}}) | 743 | 2084 | 35.7 | /mnt/stockage/packages/f41/guitarix/po/it.po | 
- | [es]({{< ref "/f41/language/es.md" >}}) | 742 | 2084 | 35.6 | /mnt/stockage/packages/f41/guitarix/po/es.po | 
- | [sk]({{< ref "/f41/language/sk.md" >}}) | 905 | 2871 | 31.5 | /mnt/stockage/packages/f41/guitarix/po/sk.po | 
+ | [ru](/f41/language/ru) | 2871 | 2871 | 100.0 | /mnt/stockage/packages/f41/guitarix/po/ru.po | 
+ | [fr](/f41/language/fr) | 2947 | 2957 | 99.7 | /mnt/stockage/packages/f41/guitarix/po/fr.po | 
+ | [it](/f41/language/it) | 743 | 2084 | 35.7 | /mnt/stockage/packages/f41/guitarix/po/it.po | 
+ | [es](/f41/language/es) | 742 | 2084 | 35.6 | /mnt/stockage/packages/f41/guitarix/po/es.po | 
+ | [sk](/f41/language/sk) | 905 | 2871 | 31.5 | /mnt/stockage/packages/f41/guitarix/po/sk.po | 
 {.sortable}
 
 

@@ -18,7 +18,7 @@ The package openstack-quantum (version 2013.1.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ja]({{< ref "/f19/language/ja.md" >}}) | 4 | 7263 | 0.1 | /mnt/stockage/packages/f19/openstack-quantum/quantum/locale/ja/LC_MESSAGES/quantum.po | 
+ | [ja](/f19/language/ja) | 4 | 7263 | 0.1 | /mnt/stockage/packages/f19/openstack-quantum/quantum/locale/ja/LC_MESSAGES/quantum.po | 
 {.sortable}
 
 

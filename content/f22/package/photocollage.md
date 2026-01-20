@@ -18,9 +18,9 @@ The package photocollage (version 1.3.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f22/language/cs.md" >}}) | 49 | 49 | 100.0 | /mnt/stockage/packages/f22/photocollage/po/cs.po | 
- | [de]({{< ref "/f22/language/de.md" >}}) | 49 | 49 | 100.0 | /mnt/stockage/packages/f22/photocollage/po/de.po | 
- | [fr]({{< ref "/f22/language/fr.md" >}}) | 52 | 52 | 100.0 | /mnt/stockage/packages/f22/photocollage/po/fr.po | 
+ | [cs](/f22/language/cs) | 49 | 49 | 100.0 | /mnt/stockage/packages/f22/photocollage/po/cs.po | 
+ | [de](/f22/language/de) | 49 | 49 | 100.0 | /mnt/stockage/packages/f22/photocollage/po/de.po | 
+ | [fr](/f22/language/fr) | 52 | 52 | 100.0 | /mnt/stockage/packages/f22/photocollage/po/fr.po | 
 {.sortable}
 
 

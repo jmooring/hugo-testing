@@ -18,14 +18,14 @@ The package doodle (version 0.6.6):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f8/language/de.md" >}}) | 732 | 732 | 100.0 | /mnt/stockage/packages/f8/doodle/po/de.po | 
- | [ga]({{< ref "/f8/language/ga.md" >}}) | 732 | 732 | 100.0 | /mnt/stockage/packages/f8/doodle/po/ga.po | 
- | [it]({{< ref "/f8/language/it.md" >}}) | 732 | 732 | 100.0 | /mnt/stockage/packages/f8/doodle/po/it.po | 
- | [vi]({{< ref "/f8/language/vi.md" >}}) | 732 | 732 | 100.0 | /mnt/stockage/packages/f8/doodle/po/vi.po | 
- | [sv]({{< ref "/f8/language/sv.md" >}}) | 725 | 732 | 99.0 | /mnt/stockage/packages/f8/doodle/po/sv.po | 
- | [sq]({{< ref "/f8/language/sq.md" >}}) | 420 | 732 | 57.4 | /mnt/stockage/packages/f8/doodle/po/sq.po | 
- | [nl]({{< ref "/f8/language/nl.md" >}}) | 242 | 732 | 33.1 | /mnt/stockage/packages/f8/doodle/po/nl.po | 
- | [eu]({{< ref "/f8/language/eu.md" >}}) | 197 | 732 | 26.9 | /mnt/stockage/packages/f8/doodle/po/eu.po | 
+ | [de](/f8/language/de) | 732 | 732 | 100.0 | /mnt/stockage/packages/f8/doodle/po/de.po | 
+ | [ga](/f8/language/ga) | 732 | 732 | 100.0 | /mnt/stockage/packages/f8/doodle/po/ga.po | 
+ | [it](/f8/language/it) | 732 | 732 | 100.0 | /mnt/stockage/packages/f8/doodle/po/it.po | 
+ | [vi](/f8/language/vi) | 732 | 732 | 100.0 | /mnt/stockage/packages/f8/doodle/po/vi.po | 
+ | [sv](/f8/language/sv) | 725 | 732 | 99.0 | /mnt/stockage/packages/f8/doodle/po/sv.po | 
+ | [sq](/f8/language/sq) | 420 | 732 | 57.4 | /mnt/stockage/packages/f8/doodle/po/sq.po | 
+ | [nl](/f8/language/nl) | 242 | 732 | 33.1 | /mnt/stockage/packages/f8/doodle/po/nl.po | 
+ | [eu](/f8/language/eu) | 197 | 732 | 26.9 | /mnt/stockage/packages/f8/doodle/po/eu.po | 
 {.sortable}
 
 

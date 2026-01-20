@@ -18,7 +18,7 @@ The package open-cobol (version 1.0.95):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ja]({{< ref "/f10/language/ja.md" >}}) | 92 | 1629 | 5.6 | /mnt/stockage/packages/f10/open-cobol/po/ja.po | 
+ | [ja](/f10/language/ja) | 92 | 1629 | 5.6 | /mnt/stockage/packages/f10/open-cobol/po/ja.po | 
 {.sortable}
 
 

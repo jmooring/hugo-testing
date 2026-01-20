@@ -38,13 +38,13 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [clamtk]({{< ref "/f20/package/clamtk.md" >}}) | 677 | 688 | 98.4 | LANGUAGE <LL@li.org> | 
- | [zarafa]({{< ref "/f20/package/zarafa.md" >}}) | 3306 | 3383 | 97.7 | nl_NL <nl@li.org> | 
- | [manaplus]({{< ref "/f20/package/manaplus.md" >}}) | 2922 | 6208 | 47.1 | Dutch (Belgium) (http://www.transifex.com/projects/p/manaplus/language/nl_BE/) | 
- | [openerp7]({{< ref "/f20/package/openerp7.md" >}}) | 14647 | 46303 | 31.6 | Dutch (Belgium) <nl_BE@li.org> | 
- | [gourmet]({{< ref "/f20/package/gourmet.md" >}}) | 679 | 3776 | 18.0 | Dutch (Belgium) <nl_BE@li.org> | 
- | [gnomebaker]({{< ref "/f20/package/gnomebaker.md" >}}) | 117 | 1186 | 9.9 | Dutch (Belgium) <nl_BE@li.org> | 
- | [openerp]({{< ref "/f20/package/openerp.md" >}}) | 1520 | 39991 | 3.8 | Dutch (Belgium) <nl_BE@li.org> | 
+ | [clamtk](/f20/package/clamtk) | 677 | 688 | 98.4 | LANGUAGE <LL@li.org> | 
+ | [zarafa](/f20/package/zarafa) | 3306 | 3383 | 97.7 | nl_NL <nl@li.org> | 
+ | [manaplus](/f20/package/manaplus) | 2922 | 6208 | 47.1 | Dutch (Belgium) (http://www.transifex.com/projects/p/manaplus/language/nl_BE/) | 
+ | [openerp7](/f20/package/openerp7) | 14647 | 46303 | 31.6 | Dutch (Belgium) <nl_BE@li.org> | 
+ | [gourmet](/f20/package/gourmet) | 679 | 3776 | 18.0 | Dutch (Belgium) <nl_BE@li.org> | 
+ | [gnomebaker](/f20/package/gnomebaker) | 117 | 1186 | 9.9 | Dutch (Belgium) <nl_BE@li.org> | 
+ | [openerp](/f20/package/openerp) | 1520 | 39991 | 3.8 | Dutch (Belgium) <nl_BE@li.org> | 
 {.sortable}
 
 

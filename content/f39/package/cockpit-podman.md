@@ -18,20 +18,20 @@ The package cockpit-podman (version 92):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f39/language/cs.md" >}}) | 1102 | 1102 | 100.0 | /mnt/stockage/packages/f39/cockpit-podman/po/cs.po | 
- | [fr]({{< ref "/f39/language/fr.md" >}}) | 1102 | 1102 | 100.0 | /mnt/stockage/packages/f39/cockpit-podman/po/fr.po | 
- | [ka]({{< ref "/f39/language/ka.md" >}}) | 1102 | 1102 | 100.0 | /mnt/stockage/packages/f39/cockpit-podman/po/ka.po | 
- | [ko]({{< ref "/f39/language/ko.md" >}}) | 1102 | 1102 | 100.0 | /mnt/stockage/packages/f39/cockpit-podman/po/ko.po | 
- | [sv]({{< ref "/f39/language/sv.md" >}}) | 1102 | 1102 | 100.0 | /mnt/stockage/packages/f39/cockpit-podman/po/sv.po | 
- | [tr]({{< ref "/f39/language/tr.md" >}}) | 1102 | 1102 | 100.0 | /mnt/stockage/packages/f39/cockpit-podman/po/tr.po | 
- | [uk]({{< ref "/f39/language/uk.md" >}}) | 1102 | 1102 | 100.0 | /mnt/stockage/packages/f39/cockpit-podman/po/uk.po | 
- | [pl]({{< ref "/f39/language/pl.md" >}}) | 1096 | 1102 | 99.5 | /mnt/stockage/packages/f39/cockpit-podman/po/pl.po | 
- | [es]({{< ref "/f39/language/es.md" >}}) | 1092 | 1102 | 99.1 | /mnt/stockage/packages/f39/cockpit-podman/po/es.po | 
- | [ja]({{< ref "/f39/language/ja.md" >}}) | 1092 | 1102 | 99.1 | /mnt/stockage/packages/f39/cockpit-podman/po/ja.po | 
- | [zh_Hans]({{< ref "/f39/language/zh_Hans.md" >}}) | 1092 | 1102 | 99.1 | /mnt/stockage/packages/f39/cockpit-podman/po/zh_CN.po | 
- | [fi]({{< ref "/f39/language/fi.md" >}}) | 1065 | 1102 | 96.6 | /mnt/stockage/packages/f39/cockpit-podman/po/fi.po | 
- | [de]({{< ref "/f39/language/de.md" >}}) | 1005 | 1102 | 91.2 | /mnt/stockage/packages/f39/cockpit-podman/po/de.po | 
- | [sk]({{< ref "/f39/language/sk.md" >}}) | 687 | 1102 | 62.3 | /mnt/stockage/packages/f39/cockpit-podman/po/sk.po | 
+ | [cs](/f39/language/cs) | 1102 | 1102 | 100.0 | /mnt/stockage/packages/f39/cockpit-podman/po/cs.po | 
+ | [fr](/f39/language/fr) | 1102 | 1102 | 100.0 | /mnt/stockage/packages/f39/cockpit-podman/po/fr.po | 
+ | [ka](/f39/language/ka) | 1102 | 1102 | 100.0 | /mnt/stockage/packages/f39/cockpit-podman/po/ka.po | 
+ | [ko](/f39/language/ko) | 1102 | 1102 | 100.0 | /mnt/stockage/packages/f39/cockpit-podman/po/ko.po | 
+ | [sv](/f39/language/sv) | 1102 | 1102 | 100.0 | /mnt/stockage/packages/f39/cockpit-podman/po/sv.po | 
+ | [tr](/f39/language/tr) | 1102 | 1102 | 100.0 | /mnt/stockage/packages/f39/cockpit-podman/po/tr.po | 
+ | [uk](/f39/language/uk) | 1102 | 1102 | 100.0 | /mnt/stockage/packages/f39/cockpit-podman/po/uk.po | 
+ | [pl](/f39/language/pl) | 1096 | 1102 | 99.5 | /mnt/stockage/packages/f39/cockpit-podman/po/pl.po | 
+ | [es](/f39/language/es) | 1092 | 1102 | 99.1 | /mnt/stockage/packages/f39/cockpit-podman/po/es.po | 
+ | [ja](/f39/language/ja) | 1092 | 1102 | 99.1 | /mnt/stockage/packages/f39/cockpit-podman/po/ja.po | 
+ | [zh_Hans](/f39/language/zh_Hans) | 1092 | 1102 | 99.1 | /mnt/stockage/packages/f39/cockpit-podman/po/zh_CN.po | 
+ | [fi](/f39/language/fi) | 1065 | 1102 | 96.6 | /mnt/stockage/packages/f39/cockpit-podman/po/fi.po | 
+ | [de](/f39/language/de) | 1005 | 1102 | 91.2 | /mnt/stockage/packages/f39/cockpit-podman/po/de.po | 
+ | [sk](/f39/language/sk) | 687 | 1102 | 62.3 | /mnt/stockage/packages/f39/cockpit-podman/po/sk.po | 
 {.sortable}
 
 

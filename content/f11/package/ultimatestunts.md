@@ -18,11 +18,11 @@ The package ultimatestunts (version 0.7.5):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f11/language/fr.md" >}}) | 450 | 450 | 100.0 | /mnt/stockage/packages/f11/ultimatestunts/po/fr_FR.po | 
- | [hu]({{< ref "/f11/language/hu.md" >}}) | 450 | 450 | 100.0 | /mnt/stockage/packages/f11/ultimatestunts/po/hu.po | 
- | [nl]({{< ref "/f11/language/nl.md" >}}) | 450 | 450 | 100.0 | /mnt/stockage/packages/f11/ultimatestunts/po/nl.po | 
- | [pt_BR]({{< ref "/f11/language/pt_BR.md" >}}) | 450 | 450 | 100.0 | /mnt/stockage/packages/f11/ultimatestunts/po/pt_BR.po | 
- | [de]({{< ref "/f11/language/de.md" >}}) | 419 | 450 | 93.1 | /mnt/stockage/packages/f11/ultimatestunts/po/de.po | 
+ | [fr](/f11/language/fr) | 450 | 450 | 100.0 | /mnt/stockage/packages/f11/ultimatestunts/po/fr_FR.po | 
+ | [hu](/f11/language/hu) | 450 | 450 | 100.0 | /mnt/stockage/packages/f11/ultimatestunts/po/hu.po | 
+ | [nl](/f11/language/nl) | 450 | 450 | 100.0 | /mnt/stockage/packages/f11/ultimatestunts/po/nl.po | 
+ | [pt_BR](/f11/language/pt_BR) | 450 | 450 | 100.0 | /mnt/stockage/packages/f11/ultimatestunts/po/pt_BR.po | 
+ | [de](/f11/language/de) | 419 | 450 | 93.1 | /mnt/stockage/packages/f11/ultimatestunts/po/de.po | 
 {.sortable}
 
 

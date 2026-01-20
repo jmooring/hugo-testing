@@ -18,10 +18,10 @@ The package qtcurve-kde4 (version 1.7.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [zh_Hans]({{< ref "/f13/language/zh_Hans.md" >}}) | 5590 | 5594 | 99.9 | /mnt/stockage/packages/f13/qtcurve-kde4/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f13/language/zh_Hant.md" >}}) | 5590 | 5594 | 99.9 | /mnt/stockage/packages/f13/qtcurve-kde4/po/zh_TW.po | 
- | [zh_Hant_HK]({{< ref "/f13/language/zh_Hant_HK.md" >}}) | 5590 | 5594 | 99.9 | /mnt/stockage/packages/f13/qtcurve-kde4/po/zh_HK.po | 
- | [tr]({{< ref "/f13/language/tr.md" >}}) | 450 | 5594 | 8.0 | /mnt/stockage/packages/f13/qtcurve-kde4/po/tr.po | 
+ | [zh_Hans](/f13/language/zh_Hans) | 5590 | 5594 | 99.9 | /mnt/stockage/packages/f13/qtcurve-kde4/po/zh_CN.po | 
+ | [zh_Hant](/f13/language/zh_Hant) | 5590 | 5594 | 99.9 | /mnt/stockage/packages/f13/qtcurve-kde4/po/zh_TW.po | 
+ | [zh_Hant_HK](/f13/language/zh_Hant_HK) | 5590 | 5594 | 99.9 | /mnt/stockage/packages/f13/qtcurve-kde4/po/zh_HK.po | 
+ | [tr](/f13/language/tr) | 450 | 5594 | 8.0 | /mnt/stockage/packages/f13/qtcurve-kde4/po/tr.po | 
 {.sortable}
 
 

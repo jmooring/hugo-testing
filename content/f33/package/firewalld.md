@@ -18,54 +18,54 @@ The package firewalld (version 0.8.6):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [da]({{< ref "/f33/language/da.md" >}}) | 2217 | 2217 | 100.0 | /mnt/stockage/packages/f33/firewalld/po/da.po | 
- | [es]({{< ref "/f33/language/es.md" >}}) | 2217 | 2217 | 100.0 | /mnt/stockage/packages/f33/firewalld/po/es.po | 
- | [fr]({{< ref "/f33/language/fr.md" >}}) | 2217 | 2217 | 100.0 | /mnt/stockage/packages/f33/firewalld/po/fr.po | 
- | [hu]({{< ref "/f33/language/hu.md" >}}) | 2217 | 2217 | 100.0 | /mnt/stockage/packages/f33/firewalld/po/hu.po | 
- | [nl]({{< ref "/f33/language/nl.md" >}}) | 2217 | 2217 | 100.0 | /mnt/stockage/packages/f33/firewalld/po/nl.po | 
- | [pl]({{< ref "/f33/language/pl.md" >}}) | 2217 | 2217 | 100.0 | /mnt/stockage/packages/f33/firewalld/po/pl.po | 
- | [pt_BR]({{< ref "/f33/language/pt_BR.md" >}}) | 2217 | 2217 | 100.0 | /mnt/stockage/packages/f33/firewalld/po/pt_BR.po | 
- | [sk]({{< ref "/f33/language/sk.md" >}}) | 2217 | 2217 | 100.0 | /mnt/stockage/packages/f33/firewalld/po/sk.po | 
- | [sv]({{< ref "/f33/language/sv.md" >}}) | 2217 | 2217 | 100.0 | /mnt/stockage/packages/f33/firewalld/po/sv.po | 
- | [tr]({{< ref "/f33/language/tr.md" >}}) | 2217 | 2217 | 100.0 | /mnt/stockage/packages/f33/firewalld/po/tr.po | 
- | [uk]({{< ref "/f33/language/uk.md" >}}) | 2217 | 2217 | 100.0 | /mnt/stockage/packages/f33/firewalld/po/uk.po | 
- | [zh_Hans]({{< ref "/f33/language/zh_Hans.md" >}}) | 2217 | 2217 | 100.0 | /mnt/stockage/packages/f33/firewalld/po/zh_CN.po | 
- | [ar]({{< ref "/f33/language/ar.md" >}}) | 2207 | 2217 | 99.5 | /mnt/stockage/packages/f33/firewalld/po/ar.po | 
- | [ca]({{< ref "/f33/language/ca.md" >}}) | 2207 | 2217 | 99.5 | /mnt/stockage/packages/f33/firewalld/po/ca.po | 
- | [cs]({{< ref "/f33/language/cs.md" >}}) | 2207 | 2217 | 99.5 | /mnt/stockage/packages/f33/firewalld/po/cs.po | 
- | [de]({{< ref "/f33/language/de.md" >}}) | 2207 | 2217 | 99.5 | /mnt/stockage/packages/f33/firewalld/po/de.po | 
- | [it]({{< ref "/f33/language/it.md" >}}) | 2207 | 2217 | 99.5 | /mnt/stockage/packages/f33/firewalld/po/it.po | 
- | [ru]({{< ref "/f33/language/ru.md" >}}) | 2207 | 2217 | 99.5 | /mnt/stockage/packages/f33/firewalld/po/ru.po | 
- | [zh_Hant]({{< ref "/f33/language/zh_Hant.md" >}}) | 2207 | 2217 | 99.5 | /mnt/stockage/packages/f33/firewalld/po/zh_TW.po | 
- | [ja]({{< ref "/f33/language/ja.md" >}}) | 2199 | 2217 | 99.2 | /mnt/stockage/packages/f33/firewalld/po/ja.po | 
- | [ko]({{< ref "/f33/language/ko.md" >}}) | 2199 | 2217 | 99.2 | /mnt/stockage/packages/f33/firewalld/po/ko.po | 
- | [en_US]({{< ref "/f33/language/en_US.md" >}}) | 1637 | 2217 | 73.8 | /mnt/stockage/packages/f33/firewalld/po/en_US.po | 
- | [pt]({{< ref "/f33/language/pt.md" >}}) | 1506 | 2217 | 67.9 | /mnt/stockage/packages/f33/firewalld/po/pt.po | 
- | [sr]({{< ref "/f33/language/sr.md" >}}) | 1497 | 2217 | 67.5 | /mnt/stockage/packages/f33/firewalld/po/sr.po | 
- | [as]({{< ref "/f33/language/as.md" >}}) | 1486 | 2217 | 67.0 | /mnt/stockage/packages/f33/firewalld/po/as.po | 
- | [bn_IN]({{< ref "/f33/language/bn_IN.md" >}}) | 1486 | 2217 | 67.0 | /mnt/stockage/packages/f33/firewalld/po/bn_IN.po | 
- | [gu]({{< ref "/f33/language/gu.md" >}}) | 1486 | 2217 | 67.0 | /mnt/stockage/packages/f33/firewalld/po/gu.po | 
- | [hi]({{< ref "/f33/language/hi.md" >}}) | 1486 | 2217 | 67.0 | /mnt/stockage/packages/f33/firewalld/po/hi.po | 
- | [kn]({{< ref "/f33/language/kn.md" >}}) | 1486 | 2217 | 67.0 | /mnt/stockage/packages/f33/firewalld/po/kn.po | 
- | [ml]({{< ref "/f33/language/ml.md" >}}) | 1486 | 2217 | 67.0 | /mnt/stockage/packages/f33/firewalld/po/ml.po | 
- | [mr]({{< ref "/f33/language/mr.md" >}}) | 1486 | 2217 | 67.0 | /mnt/stockage/packages/f33/firewalld/po/mr.po | 
- | [or]({{< ref "/f33/language/or.md" >}}) | 1486 | 2217 | 67.0 | /mnt/stockage/packages/f33/firewalld/po/or.po | 
- | [pa]({{< ref "/f33/language/pa.md" >}}) | 1486 | 2217 | 67.0 | /mnt/stockage/packages/f33/firewalld/po/pa.po | 
- | [ta]({{< ref "/f33/language/ta.md" >}}) | 1486 | 2217 | 67.0 | /mnt/stockage/packages/f33/firewalld/po/ta.po | 
- | [te]({{< ref "/f33/language/te.md" >}}) | 1486 | 2217 | 67.0 | /mnt/stockage/packages/f33/firewalld/po/te.po | 
- | [fi]({{< ref "/f33/language/fi.md" >}}) | 1258 | 2217 | 56.7 | /mnt/stockage/packages/f33/firewalld/po/fi.po | 
- | [lt]({{< ref "/f33/language/lt.md" >}}) | 1152 | 2217 | 52.0 | /mnt/stockage/packages/f33/firewalld/po/lt.po | 
- | [en_GB]({{< ref "/f33/language/en_GB.md" >}}) | 809 | 2217 | 36.5 | /mnt/stockage/packages/f33/firewalld/po/en_GB.po | 
- | [bg]({{< ref "/f33/language/bg.md" >}}) | 622 | 2217 | 28.1 | /mnt/stockage/packages/f33/firewalld/po/bg.po | 
- | [el]({{< ref "/f33/language/el.md" >}}) | 584 | 2217 | 26.3 | /mnt/stockage/packages/f33/firewalld/po/el.po | 
- | [gl]({{< ref "/f33/language/gl.md" >}}) | 434 | 2217 | 19.6 | /mnt/stockage/packages/f33/firewalld/po/gl.po | 
- | [et]({{< ref "/f33/language/et.md" >}}) | 216 | 2217 | 9.7 | /mnt/stockage/packages/f33/firewalld/po/et.po | 
- | [sr_Latn]({{< ref "/f33/language/sr_Latn.md" >}}) | 212 | 2217 | 9.6 | /mnt/stockage/packages/f33/firewalld/po/sr@latin.po | 
- | [ka]({{< ref "/f33/language/ka.md" >}}) | 180 | 2217 | 8.1 | /mnt/stockage/packages/f33/firewalld/po/ka.po | 
- | [sq]({{< ref "/f33/language/sq.md" >}}) | 141 | 2217 | 6.4 | /mnt/stockage/packages/f33/firewalld/po/sq.po | 
- | [id]({{< ref "/f33/language/id.md" >}}) | 135 | 2217 | 6.1 | /mnt/stockage/packages/f33/firewalld/po/id.po | 
- | [eu]({{< ref "/f33/language/eu.md" >}}) | 116 | 2217 | 5.2 | /mnt/stockage/packages/f33/firewalld/po/eu.po | 
- | [ia]({{< ref "/f33/language/ia.md" >}}) | 9 | 2217 | 0.4 | /mnt/stockage/packages/f33/firewalld/po/ia.po | 
+ | [da](/f33/language/da) | 2217 | 2217 | 100.0 | /mnt/stockage/packages/f33/firewalld/po/da.po | 
+ | [es](/f33/language/es) | 2217 | 2217 | 100.0 | /mnt/stockage/packages/f33/firewalld/po/es.po | 
+ | [fr](/f33/language/fr) | 2217 | 2217 | 100.0 | /mnt/stockage/packages/f33/firewalld/po/fr.po | 
+ | [hu](/f33/language/hu) | 2217 | 2217 | 100.0 | /mnt/stockage/packages/f33/firewalld/po/hu.po | 
+ | [nl](/f33/language/nl) | 2217 | 2217 | 100.0 | /mnt/stockage/packages/f33/firewalld/po/nl.po | 
+ | [pl](/f33/language/pl) | 2217 | 2217 | 100.0 | /mnt/stockage/packages/f33/firewalld/po/pl.po | 
+ | [pt_BR](/f33/language/pt_BR) | 2217 | 2217 | 100.0 | /mnt/stockage/packages/f33/firewalld/po/pt_BR.po | 
+ | [sk](/f33/language/sk) | 2217 | 2217 | 100.0 | /mnt/stockage/packages/f33/firewalld/po/sk.po | 
+ | [sv](/f33/language/sv) | 2217 | 2217 | 100.0 | /mnt/stockage/packages/f33/firewalld/po/sv.po | 
+ | [tr](/f33/language/tr) | 2217 | 2217 | 100.0 | /mnt/stockage/packages/f33/firewalld/po/tr.po | 
+ | [uk](/f33/language/uk) | 2217 | 2217 | 100.0 | /mnt/stockage/packages/f33/firewalld/po/uk.po | 
+ | [zh_Hans](/f33/language/zh_Hans) | 2217 | 2217 | 100.0 | /mnt/stockage/packages/f33/firewalld/po/zh_CN.po | 
+ | [ar](/f33/language/ar) | 2207 | 2217 | 99.5 | /mnt/stockage/packages/f33/firewalld/po/ar.po | 
+ | [ca](/f33/language/ca) | 2207 | 2217 | 99.5 | /mnt/stockage/packages/f33/firewalld/po/ca.po | 
+ | [cs](/f33/language/cs) | 2207 | 2217 | 99.5 | /mnt/stockage/packages/f33/firewalld/po/cs.po | 
+ | [de](/f33/language/de) | 2207 | 2217 | 99.5 | /mnt/stockage/packages/f33/firewalld/po/de.po | 
+ | [it](/f33/language/it) | 2207 | 2217 | 99.5 | /mnt/stockage/packages/f33/firewalld/po/it.po | 
+ | [ru](/f33/language/ru) | 2207 | 2217 | 99.5 | /mnt/stockage/packages/f33/firewalld/po/ru.po | 
+ | [zh_Hant](/f33/language/zh_Hant) | 2207 | 2217 | 99.5 | /mnt/stockage/packages/f33/firewalld/po/zh_TW.po | 
+ | [ja](/f33/language/ja) | 2199 | 2217 | 99.2 | /mnt/stockage/packages/f33/firewalld/po/ja.po | 
+ | [ko](/f33/language/ko) | 2199 | 2217 | 99.2 | /mnt/stockage/packages/f33/firewalld/po/ko.po | 
+ | [en_US](/f33/language/en_US) | 1637 | 2217 | 73.8 | /mnt/stockage/packages/f33/firewalld/po/en_US.po | 
+ | [pt](/f33/language/pt) | 1506 | 2217 | 67.9 | /mnt/stockage/packages/f33/firewalld/po/pt.po | 
+ | [sr](/f33/language/sr) | 1497 | 2217 | 67.5 | /mnt/stockage/packages/f33/firewalld/po/sr.po | 
+ | [as](/f33/language/as) | 1486 | 2217 | 67.0 | /mnt/stockage/packages/f33/firewalld/po/as.po | 
+ | [bn_IN](/f33/language/bn_IN) | 1486 | 2217 | 67.0 | /mnt/stockage/packages/f33/firewalld/po/bn_IN.po | 
+ | [gu](/f33/language/gu) | 1486 | 2217 | 67.0 | /mnt/stockage/packages/f33/firewalld/po/gu.po | 
+ | [hi](/f33/language/hi) | 1486 | 2217 | 67.0 | /mnt/stockage/packages/f33/firewalld/po/hi.po | 
+ | [kn](/f33/language/kn) | 1486 | 2217 | 67.0 | /mnt/stockage/packages/f33/firewalld/po/kn.po | 
+ | [ml](/f33/language/ml) | 1486 | 2217 | 67.0 | /mnt/stockage/packages/f33/firewalld/po/ml.po | 
+ | [mr](/f33/language/mr) | 1486 | 2217 | 67.0 | /mnt/stockage/packages/f33/firewalld/po/mr.po | 
+ | [or](/f33/language/or) | 1486 | 2217 | 67.0 | /mnt/stockage/packages/f33/firewalld/po/or.po | 
+ | [pa](/f33/language/pa) | 1486 | 2217 | 67.0 | /mnt/stockage/packages/f33/firewalld/po/pa.po | 
+ | [ta](/f33/language/ta) | 1486 | 2217 | 67.0 | /mnt/stockage/packages/f33/firewalld/po/ta.po | 
+ | [te](/f33/language/te) | 1486 | 2217 | 67.0 | /mnt/stockage/packages/f33/firewalld/po/te.po | 
+ | [fi](/f33/language/fi) | 1258 | 2217 | 56.7 | /mnt/stockage/packages/f33/firewalld/po/fi.po | 
+ | [lt](/f33/language/lt) | 1152 | 2217 | 52.0 | /mnt/stockage/packages/f33/firewalld/po/lt.po | 
+ | [en_GB](/f33/language/en_GB) | 809 | 2217 | 36.5 | /mnt/stockage/packages/f33/firewalld/po/en_GB.po | 
+ | [bg](/f33/language/bg) | 622 | 2217 | 28.1 | /mnt/stockage/packages/f33/firewalld/po/bg.po | 
+ | [el](/f33/language/el) | 584 | 2217 | 26.3 | /mnt/stockage/packages/f33/firewalld/po/el.po | 
+ | [gl](/f33/language/gl) | 434 | 2217 | 19.6 | /mnt/stockage/packages/f33/firewalld/po/gl.po | 
+ | [et](/f33/language/et) | 216 | 2217 | 9.7 | /mnt/stockage/packages/f33/firewalld/po/et.po | 
+ | [sr_Latn](/f33/language/sr_Latn) | 212 | 2217 | 9.6 | /mnt/stockage/packages/f33/firewalld/po/sr@latin.po | 
+ | [ka](/f33/language/ka) | 180 | 2217 | 8.1 | /mnt/stockage/packages/f33/firewalld/po/ka.po | 
+ | [sq](/f33/language/sq) | 141 | 2217 | 6.4 | /mnt/stockage/packages/f33/firewalld/po/sq.po | 
+ | [id](/f33/language/id) | 135 | 2217 | 6.1 | /mnt/stockage/packages/f33/firewalld/po/id.po | 
+ | [eu](/f33/language/eu) | 116 | 2217 | 5.2 | /mnt/stockage/packages/f33/firewalld/po/eu.po | 
+ | [ia](/f33/language/ia) | 9 | 2217 | 0.4 | /mnt/stockage/packages/f33/firewalld/po/ia.po | 
 {.sortable}
 
 

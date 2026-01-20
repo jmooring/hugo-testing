@@ -18,13 +18,13 @@ The package coin (version 1.2.6):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f29/language/ca.md" >}}) | 97 | 97 | 100.0 | /mnt/stockage/packages/f29/coin/po/ca.po | 
- | [es]({{< ref "/f29/language/es.md" >}}) | 97 | 97 | 100.0 | /mnt/stockage/packages/f29/coin/po/es.po | 
- | [fr]({{< ref "/f29/language/fr.md" >}}) | 97 | 97 | 100.0 | /mnt/stockage/packages/f29/coin/po/fr.po | 
- | [cs]({{< ref "/f29/language/cs.md" >}}) | 25 | 97 | 25.8 | /mnt/stockage/packages/f29/coin/po/cs.po | 
- | [ja]({{< ref "/f29/language/ja.md" >}}) | 25 | 97 | 25.8 | /mnt/stockage/packages/f29/coin/po/ja.po | 
- | [nl]({{< ref "/f29/language/nl.md" >}}) | 25 | 97 | 25.8 | /mnt/stockage/packages/f29/coin/po/nl.po | 
- | [pt_BR]({{< ref "/f29/language/pt_BR.md" >}}) | 25 | 97 | 25.8 | /mnt/stockage/packages/f29/coin/po/pt_BR.po | 
+ | [ca](/f29/language/ca) | 97 | 97 | 100.0 | /mnt/stockage/packages/f29/coin/po/ca.po | 
+ | [es](/f29/language/es) | 97 | 97 | 100.0 | /mnt/stockage/packages/f29/coin/po/es.po | 
+ | [fr](/f29/language/fr) | 97 | 97 | 100.0 | /mnt/stockage/packages/f29/coin/po/fr.po | 
+ | [cs](/f29/language/cs) | 25 | 97 | 25.8 | /mnt/stockage/packages/f29/coin/po/cs.po | 
+ | [ja](/f29/language/ja) | 25 | 97 | 25.8 | /mnt/stockage/packages/f29/coin/po/ja.po | 
+ | [nl](/f29/language/nl) | 25 | 97 | 25.8 | /mnt/stockage/packages/f29/coin/po/nl.po | 
+ | [pt_BR](/f29/language/pt_BR) | 25 | 97 | 25.8 | /mnt/stockage/packages/f29/coin/po/pt_BR.po | 
 {.sortable}
 
 

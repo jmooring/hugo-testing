@@ -18,26 +18,26 @@ The package trytond-product-cost-fifo (version 4.0.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f25/language/ca.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f25/trytond-product-cost-fifo/locale/ca_ES.po | 
- | [de]({{< ref "/f25/language/de.md" >}}) | 25 | 25 | 100.0 | /mnt/stockage/packages/f25/trytond-product-cost-fifo/locale/de_DE.po | 
- | [es]({{< ref "/f25/language/es.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f25/trytond-product-cost-fifo/locale/es_ES.po | 
- | [es_AR]({{< ref "/f25/language/es_AR.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f25/trytond-product-cost-fifo/locale/es_AR.po | 
- | [es_CO]({{< ref "/f25/language/es_CO.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f25/trytond-product-cost-fifo/locale/es_CO.po | 
- | [es_EC]({{< ref "/f25/language/es_EC.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f25/trytond-product-cost-fifo/locale/es_EC.po | 
- | [es_MX]({{< ref "/f25/language/es_MX.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f25/trytond-product-cost-fifo/locale/es_MX.po | 
- | [fr]({{< ref "/f25/language/fr.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f25/trytond-product-cost-fifo/locale/fr_FR.po | 
- | [hu]({{< ref "/f25/language/hu.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f25/trytond-product-cost-fifo/locale/hu_HU.po | 
- | [pt_BR]({{< ref "/f25/language/pt_BR.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f25/trytond-product-cost-fifo/locale/pt_BR.po | 
- | [sl]({{< ref "/f25/language/sl.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f25/trytond-product-cost-fifo/locale/sl_SI.po | 
- | [bg]({{< ref "/f25/language/bg.md" >}}) | 3 | 24 | 12.5 | /mnt/stockage/packages/f25/trytond-product-cost-fifo/locale/bg_BG.po | 
- | [cs]({{< ref "/f25/language/cs.md" >}}) | 0 | 24 | 0.0 | /mnt/stockage/packages/f25/trytond-product-cost-fifo/locale/cs_CZ.po | 
- | [it]({{< ref "/f25/language/it.md" >}}) | 0 | 24 | 0.0 | /mnt/stockage/packages/f25/trytond-product-cost-fifo/locale/it_IT.po | 
- | [ja]({{< ref "/f25/language/ja.md" >}}) | 0 | 24 | 0.0 | /mnt/stockage/packages/f25/trytond-product-cost-fifo/locale/ja_JP.po | 
- | [lo]({{< ref "/f25/language/lo.md" >}}) | 0 | 24 | 0.0 | /mnt/stockage/packages/f25/trytond-product-cost-fifo/locale/lo_LA.po | 
- | [lt]({{< ref "/f25/language/lt.md" >}}) | 0 | 24 | 0.0 | /mnt/stockage/packages/f25/trytond-product-cost-fifo/locale/lt_LT.po | 
- | [nl]({{< ref "/f25/language/nl.md" >}}) | 0 | 24 | 0.0 | /mnt/stockage/packages/f25/trytond-product-cost-fifo/locale/nl_NL.po | 
- | [ru]({{< ref "/f25/language/ru.md" >}}) | 0 | 24 | 0.0 | /mnt/stockage/packages/f25/trytond-product-cost-fifo/locale/ru_RU.po | 
- | [zh_Hans]({{< ref "/f25/language/zh_Hans.md" >}}) | 0 | 24 | 0.0 | /mnt/stockage/packages/f25/trytond-product-cost-fifo/locale/zh_CN.po | 
+ | [ca](/f25/language/ca) | 24 | 24 | 100.0 | /mnt/stockage/packages/f25/trytond-product-cost-fifo/locale/ca_ES.po | 
+ | [de](/f25/language/de) | 25 | 25 | 100.0 | /mnt/stockage/packages/f25/trytond-product-cost-fifo/locale/de_DE.po | 
+ | [es](/f25/language/es) | 24 | 24 | 100.0 | /mnt/stockage/packages/f25/trytond-product-cost-fifo/locale/es_ES.po | 
+ | [es_AR](/f25/language/es_AR) | 24 | 24 | 100.0 | /mnt/stockage/packages/f25/trytond-product-cost-fifo/locale/es_AR.po | 
+ | [es_CO](/f25/language/es_CO) | 24 | 24 | 100.0 | /mnt/stockage/packages/f25/trytond-product-cost-fifo/locale/es_CO.po | 
+ | [es_EC](/f25/language/es_EC) | 24 | 24 | 100.0 | /mnt/stockage/packages/f25/trytond-product-cost-fifo/locale/es_EC.po | 
+ | [es_MX](/f25/language/es_MX) | 24 | 24 | 100.0 | /mnt/stockage/packages/f25/trytond-product-cost-fifo/locale/es_MX.po | 
+ | [fr](/f25/language/fr) | 24 | 24 | 100.0 | /mnt/stockage/packages/f25/trytond-product-cost-fifo/locale/fr_FR.po | 
+ | [hu](/f25/language/hu) | 24 | 24 | 100.0 | /mnt/stockage/packages/f25/trytond-product-cost-fifo/locale/hu_HU.po | 
+ | [pt_BR](/f25/language/pt_BR) | 24 | 24 | 100.0 | /mnt/stockage/packages/f25/trytond-product-cost-fifo/locale/pt_BR.po | 
+ | [sl](/f25/language/sl) | 24 | 24 | 100.0 | /mnt/stockage/packages/f25/trytond-product-cost-fifo/locale/sl_SI.po | 
+ | [bg](/f25/language/bg) | 3 | 24 | 12.5 | /mnt/stockage/packages/f25/trytond-product-cost-fifo/locale/bg_BG.po | 
+ | [cs](/f25/language/cs) | 0 | 24 | 0.0 | /mnt/stockage/packages/f25/trytond-product-cost-fifo/locale/cs_CZ.po | 
+ | [it](/f25/language/it) | 0 | 24 | 0.0 | /mnt/stockage/packages/f25/trytond-product-cost-fifo/locale/it_IT.po | 
+ | [ja](/f25/language/ja) | 0 | 24 | 0.0 | /mnt/stockage/packages/f25/trytond-product-cost-fifo/locale/ja_JP.po | 
+ | [lo](/f25/language/lo) | 0 | 24 | 0.0 | /mnt/stockage/packages/f25/trytond-product-cost-fifo/locale/lo_LA.po | 
+ | [lt](/f25/language/lt) | 0 | 24 | 0.0 | /mnt/stockage/packages/f25/trytond-product-cost-fifo/locale/lt_LT.po | 
+ | [nl](/f25/language/nl) | 0 | 24 | 0.0 | /mnt/stockage/packages/f25/trytond-product-cost-fifo/locale/nl_NL.po | 
+ | [ru](/f25/language/ru) | 0 | 24 | 0.0 | /mnt/stockage/packages/f25/trytond-product-cost-fifo/locale/ru_RU.po | 
+ | [zh_Hans](/f25/language/zh_Hans) | 0 | 24 | 0.0 | /mnt/stockage/packages/f25/trytond-product-cost-fifo/locale/zh_CN.po | 
 {.sortable}
 
 

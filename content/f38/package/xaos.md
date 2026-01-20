@@ -18,14 +18,14 @@ The package xaos (version 3.6):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f38/language/de.md" >}}) | 907 | 907 | 100.0 | /mnt/stockage/packages/f38/xaos/src/i18n/de.po | 
- | [it]({{< ref "/f38/language/it.md" >}}) | 905 | 907 | 99.8 | /mnt/stockage/packages/f38/xaos/src/i18n/it.po | 
- | [ro]({{< ref "/f38/language/ro.md" >}}) | 858 | 907 | 94.6 | /mnt/stockage/packages/f38/xaos/src/i18n/ro.po | 
- | [fr]({{< ref "/f38/language/fr.md" >}}) | 819 | 907 | 90.3 | /mnt/stockage/packages/f38/xaos/src/i18n/fr.po | 
- | [hu]({{< ref "/f38/language/hu.md" >}}) | 813 | 907 | 89.6 | /mnt/stockage/packages/f38/xaos/src/i18n/hu.po | 
- | [pt]({{< ref "/f38/language/pt.md" >}}) | 685 | 907 | 75.5 | /mnt/stockage/packages/f38/xaos/src/i18n/pt.po | 
- | [cs]({{< ref "/f38/language/cs.md" >}}) | 391 | 907 | 43.1 | /mnt/stockage/packages/f38/xaos/src/i18n/cs.po | 
- | [es]({{< ref "/f38/language/es.md" >}}) | 382 | 907 | 42.1 | /mnt/stockage/packages/f38/xaos/src/i18n/es.po | 
+ | [de](/f38/language/de) | 907 | 907 | 100.0 | /mnt/stockage/packages/f38/xaos/src/i18n/de.po | 
+ | [it](/f38/language/it) | 905 | 907 | 99.8 | /mnt/stockage/packages/f38/xaos/src/i18n/it.po | 
+ | [ro](/f38/language/ro) | 858 | 907 | 94.6 | /mnt/stockage/packages/f38/xaos/src/i18n/ro.po | 
+ | [fr](/f38/language/fr) | 819 | 907 | 90.3 | /mnt/stockage/packages/f38/xaos/src/i18n/fr.po | 
+ | [hu](/f38/language/hu) | 813 | 907 | 89.6 | /mnt/stockage/packages/f38/xaos/src/i18n/hu.po | 
+ | [pt](/f38/language/pt) | 685 | 907 | 75.5 | /mnt/stockage/packages/f38/xaos/src/i18n/pt.po | 
+ | [cs](/f38/language/cs) | 391 | 907 | 43.1 | /mnt/stockage/packages/f38/xaos/src/i18n/cs.po | 
+ | [es](/f38/language/es) | 382 | 907 | 42.1 | /mnt/stockage/packages/f38/xaos/src/i18n/es.po | 
 {.sortable}
 
 

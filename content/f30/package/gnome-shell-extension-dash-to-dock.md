@@ -18,30 +18,30 @@ The package gnome-shell-extension-dash-to-dock (version 66):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [el]({{< ref "/f30/language/el.md" >}}) | 424 | 424 | 100.0 | /mnt/stockage/packages/f30/gnome-shell-extension-dash-to-dock/po/el.po | 
- | [es]({{< ref "/f30/language/es.md" >}}) | 461 | 461 | 100.0 | /mnt/stockage/packages/f30/gnome-shell-extension-dash-to-dock/po/es.po | 
- | [fr]({{< ref "/f30/language/fr.md" >}}) | 453 | 453 | 100.0 | /mnt/stockage/packages/f30/gnome-shell-extension-dash-to-dock/po/fr.po | 
- | [gl]({{< ref "/f30/language/gl.md" >}}) | 423 | 423 | 100.0 | /mnt/stockage/packages/f30/gnome-shell-extension-dash-to-dock/po/gl.po | 
- | [id]({{< ref "/f30/language/id.md" >}}) | 423 | 423 | 100.0 | /mnt/stockage/packages/f30/gnome-shell-extension-dash-to-dock/po/id.po | 
- | [it]({{< ref "/f30/language/it.md" >}}) | 458 | 458 | 100.0 | /mnt/stockage/packages/f30/gnome-shell-extension-dash-to-dock/po/it.po | 
- | [ja]({{< ref "/f30/language/ja.md" >}}) | 431 | 431 | 100.0 | /mnt/stockage/packages/f30/gnome-shell-extension-dash-to-dock/po/ja.po | 
- | [nb_NO]({{< ref "/f30/language/nb_NO.md" >}}) | 454 | 454 | 100.0 | /mnt/stockage/packages/f30/gnome-shell-extension-dash-to-dock/po/nb.po | 
- | [pl]({{< ref "/f30/language/pl.md" >}}) | 453 | 453 | 100.0 | /mnt/stockage/packages/f30/gnome-shell-extension-dash-to-dock/po/pl.po | 
- | [pt_BR]({{< ref "/f30/language/pt_BR.md" >}}) | 461 | 461 | 100.0 | /mnt/stockage/packages/f30/gnome-shell-extension-dash-to-dock/po/pt_BR.po | 
- | [sr]({{< ref "/f30/language/sr.md" >}}) | 437 | 437 | 100.0 | /mnt/stockage/packages/f30/gnome-shell-extension-dash-to-dock/po/sr.po | 
- | [sr_Latn]({{< ref "/f30/language/sr_Latn.md" >}}) | 437 | 437 | 100.0 | /mnt/stockage/packages/f30/gnome-shell-extension-dash-to-dock/po/sr@latin.po | 
- | [tr]({{< ref "/f30/language/tr.md" >}}) | 461 | 461 | 100.0 | /mnt/stockage/packages/f30/gnome-shell-extension-dash-to-dock/po/tr.po | 
- | [zh_Hans]({{< ref "/f30/language/zh_Hans.md" >}}) | 423 | 423 | 100.0 | /mnt/stockage/packages/f30/gnome-shell-extension-dash-to-dock/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f30/language/zh_Hant.md" >}}) | 458 | 458 | 100.0 | /mnt/stockage/packages/f30/gnome-shell-extension-dash-to-dock/po/zh_TW.po | 
- | [sv]({{< ref "/f30/language/sv.md" >}}) | 452 | 454 | 99.6 | /mnt/stockage/packages/f30/gnome-shell-extension-dash-to-dock/po/sv.po | 
- | [uk]({{< ref "/f30/language/uk.md" >}}) | 633 | 637 | 99.4 | /mnt/stockage/packages/f30/gnome-shell-extension-dash-to-dock/po/uk_UA.po | 
- | [cs]({{< ref "/f30/language/cs.md" >}}) | 465 | 469 | 99.1 | /mnt/stockage/packages/f30/gnome-shell-extension-dash-to-dock/po/cs.po | 
- | [ru]({{< ref "/f30/language/ru.md" >}}) | 453 | 458 | 98.9 | /mnt/stockage/packages/f30/gnome-shell-extension-dash-to-dock/po/ru.po | 
- | [hu]({{< ref "/f30/language/hu.md" >}}) | 416 | 423 | 98.3 | /mnt/stockage/packages/f30/gnome-shell-extension-dash-to-dock/po/hu.po | 
- | [pt]({{< ref "/f30/language/pt.md" >}}) | 442 | 461 | 95.9 | /mnt/stockage/packages/f30/gnome-shell-extension-dash-to-dock/po/pt.po | 
- | [ar_DZ]({{< ref "/f30/language/ar_DZ.md" >}}) | 357 | 423 | 84.4 | /mnt/stockage/packages/f30/gnome-shell-extension-dash-to-dock/po/ar.po | 
- | [de]({{< ref "/f30/language/de.md" >}}) | 631 | 846 | 74.6 | /mnt/stockage/packages/f30/gnome-shell-extension-dash-to-dock/po/nl.po/mnt/stockage/packages/f30/gnome-shell-extension-dash-to-dock/po/de.po | 
- | [sk]({{< ref "/f30/language/sk.md" >}}) | 297 | 423 | 70.2 | /mnt/stockage/packages/f30/gnome-shell-extension-dash-to-dock/po/sk.po | 
+ | [el](/f30/language/el) | 424 | 424 | 100.0 | /mnt/stockage/packages/f30/gnome-shell-extension-dash-to-dock/po/el.po | 
+ | [es](/f30/language/es) | 461 | 461 | 100.0 | /mnt/stockage/packages/f30/gnome-shell-extension-dash-to-dock/po/es.po | 
+ | [fr](/f30/language/fr) | 453 | 453 | 100.0 | /mnt/stockage/packages/f30/gnome-shell-extension-dash-to-dock/po/fr.po | 
+ | [gl](/f30/language/gl) | 423 | 423 | 100.0 | /mnt/stockage/packages/f30/gnome-shell-extension-dash-to-dock/po/gl.po | 
+ | [id](/f30/language/id) | 423 | 423 | 100.0 | /mnt/stockage/packages/f30/gnome-shell-extension-dash-to-dock/po/id.po | 
+ | [it](/f30/language/it) | 458 | 458 | 100.0 | /mnt/stockage/packages/f30/gnome-shell-extension-dash-to-dock/po/it.po | 
+ | [ja](/f30/language/ja) | 431 | 431 | 100.0 | /mnt/stockage/packages/f30/gnome-shell-extension-dash-to-dock/po/ja.po | 
+ | [nb_NO](/f30/language/nb_NO) | 454 | 454 | 100.0 | /mnt/stockage/packages/f30/gnome-shell-extension-dash-to-dock/po/nb.po | 
+ | [pl](/f30/language/pl) | 453 | 453 | 100.0 | /mnt/stockage/packages/f30/gnome-shell-extension-dash-to-dock/po/pl.po | 
+ | [pt_BR](/f30/language/pt_BR) | 461 | 461 | 100.0 | /mnt/stockage/packages/f30/gnome-shell-extension-dash-to-dock/po/pt_BR.po | 
+ | [sr](/f30/language/sr) | 437 | 437 | 100.0 | /mnt/stockage/packages/f30/gnome-shell-extension-dash-to-dock/po/sr.po | 
+ | [sr_Latn](/f30/language/sr_Latn) | 437 | 437 | 100.0 | /mnt/stockage/packages/f30/gnome-shell-extension-dash-to-dock/po/sr@latin.po | 
+ | [tr](/f30/language/tr) | 461 | 461 | 100.0 | /mnt/stockage/packages/f30/gnome-shell-extension-dash-to-dock/po/tr.po | 
+ | [zh_Hans](/f30/language/zh_Hans) | 423 | 423 | 100.0 | /mnt/stockage/packages/f30/gnome-shell-extension-dash-to-dock/po/zh_CN.po | 
+ | [zh_Hant](/f30/language/zh_Hant) | 458 | 458 | 100.0 | /mnt/stockage/packages/f30/gnome-shell-extension-dash-to-dock/po/zh_TW.po | 
+ | [sv](/f30/language/sv) | 452 | 454 | 99.6 | /mnt/stockage/packages/f30/gnome-shell-extension-dash-to-dock/po/sv.po | 
+ | [uk](/f30/language/uk) | 633 | 637 | 99.4 | /mnt/stockage/packages/f30/gnome-shell-extension-dash-to-dock/po/uk_UA.po | 
+ | [cs](/f30/language/cs) | 465 | 469 | 99.1 | /mnt/stockage/packages/f30/gnome-shell-extension-dash-to-dock/po/cs.po | 
+ | [ru](/f30/language/ru) | 453 | 458 | 98.9 | /mnt/stockage/packages/f30/gnome-shell-extension-dash-to-dock/po/ru.po | 
+ | [hu](/f30/language/hu) | 416 | 423 | 98.3 | /mnt/stockage/packages/f30/gnome-shell-extension-dash-to-dock/po/hu.po | 
+ | [pt](/f30/language/pt) | 442 | 461 | 95.9 | /mnt/stockage/packages/f30/gnome-shell-extension-dash-to-dock/po/pt.po | 
+ | [ar_DZ](/f30/language/ar_DZ) | 357 | 423 | 84.4 | /mnt/stockage/packages/f30/gnome-shell-extension-dash-to-dock/po/ar.po | 
+ | [de](/f30/language/de) | 631 | 846 | 74.6 | /mnt/stockage/packages/f30/gnome-shell-extension-dash-to-dock/po/nl.po/mnt/stockage/packages/f30/gnome-shell-extension-dash-to-dock/po/de.po | 
+ | [sk](/f30/language/sk) | 297 | 423 | 70.2 | /mnt/stockage/packages/f30/gnome-shell-extension-dash-to-dock/po/sk.po | 
 {.sortable}
 
 

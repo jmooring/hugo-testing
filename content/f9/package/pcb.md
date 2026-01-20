@@ -18,7 +18,7 @@ The package pcb (version 0.20080202):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f9/language/fr.md" >}}) | 1708 | 2765 | 61.8 | /mnt/stockage/packages/f9/pcb/po/fr_FR.po | 
+ | [fr](/f9/language/fr) | 1708 | 2765 | 61.8 | /mnt/stockage/packages/f9/pcb/po/fr_FR.po | 
 {.sortable}
 
 

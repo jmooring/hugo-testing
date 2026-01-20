@@ -18,8 +18,8 @@ The package scalpel (version 2.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fi]({{< ref "/f38/language/fi.md" >}}) | 447 | 447 | 100.0 | /mnt/stockage/packages/f38/scalpel/tre-0.7.5-win32/po/fi.po | 
- | [sv]({{< ref "/f38/language/sv.md" >}}) | 442 | 447 | 98.9 | /mnt/stockage/packages/f38/scalpel/tre-0.7.5-win32/po/sv.po | 
+ | [fi](/f38/language/fi) | 447 | 447 | 100.0 | /mnt/stockage/packages/f38/scalpel/tre-0.7.5-win32/po/fi.po | 
+ | [sv](/f38/language/sv) | 442 | 447 | 98.9 | /mnt/stockage/packages/f38/scalpel/tre-0.7.5-win32/po/sv.po | 
 {.sortable}
 
 

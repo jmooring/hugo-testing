@@ -18,20 +18,20 @@ The package dvdbackup (version 0.4.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f30/language/de.md" >}}) | 1024 | 1024 | 100.0 | /mnt/stockage/packages/f30/dvdbackup/po/de.po | 
- | [en]({{< ref "/f30/language/en.md" >}}) | 2048 | 2048 | 100.0 | /mnt/stockage/packages/f30/dvdbackup/po/en@boldquot.po/mnt/stockage/packages/f30/dvdbackup/po/en@quot.po | 
- | [en_GB]({{< ref "/f30/language/en_GB.md" >}}) | 1024 | 1024 | 100.0 | /mnt/stockage/packages/f30/dvdbackup/po/en_GB.po | 
- | [fr]({{< ref "/f30/language/fr.md" >}}) | 1024 | 1024 | 100.0 | /mnt/stockage/packages/f30/dvdbackup/po/fr.po | 
- | [it]({{< ref "/f30/language/it.md" >}}) | 1024 | 1024 | 100.0 | /mnt/stockage/packages/f30/dvdbackup/po/it.po | 
- | [sk]({{< ref "/f30/language/sk.md" >}}) | 1024 | 1024 | 100.0 | /mnt/stockage/packages/f30/dvdbackup/po/sk.po | 
- | [es]({{< ref "/f30/language/es.md" >}}) | 506 | 1024 | 49.4 | /mnt/stockage/packages/f30/dvdbackup/po/es.po | 
- | [ru]({{< ref "/f30/language/ru.md" >}}) | 316 | 1024 | 30.9 | /mnt/stockage/packages/f30/dvdbackup/po/ru.po | 
- | [et]({{< ref "/f30/language/et.md" >}}) | 111 | 1024 | 10.8 | /mnt/stockage/packages/f30/dvdbackup/po/et.po | 
- | [nb_NO]({{< ref "/f30/language/nb_NO.md" >}}) | 95 | 1024 | 9.3 | /mnt/stockage/packages/f30/dvdbackup/po/nb.po | 
- | [gl]({{< ref "/f30/language/gl.md" >}}) | 67 | 1024 | 6.5 | /mnt/stockage/packages/f30/dvdbackup/po/gl.po | 
- | [da]({{< ref "/f30/language/da.md" >}}) | 56 | 1024 | 5.5 | /mnt/stockage/packages/f30/dvdbackup/po/da.po | 
- | [pt]({{< ref "/f30/language/pt.md" >}}) | 34 | 1024 | 3.3 | /mnt/stockage/packages/f30/dvdbackup/po/pt.po | 
- | [tr]({{< ref "/f30/language/tr.md" >}}) | 26 | 1024 | 2.5 | /mnt/stockage/packages/f30/dvdbackup/po/tr.po | 
+ | [de](/f30/language/de) | 1024 | 1024 | 100.0 | /mnt/stockage/packages/f30/dvdbackup/po/de.po | 
+ | [en](/f30/language/en) | 2048 | 2048 | 100.0 | /mnt/stockage/packages/f30/dvdbackup/po/en@boldquot.po/mnt/stockage/packages/f30/dvdbackup/po/en@quot.po | 
+ | [en_GB](/f30/language/en_GB) | 1024 | 1024 | 100.0 | /mnt/stockage/packages/f30/dvdbackup/po/en_GB.po | 
+ | [fr](/f30/language/fr) | 1024 | 1024 | 100.0 | /mnt/stockage/packages/f30/dvdbackup/po/fr.po | 
+ | [it](/f30/language/it) | 1024 | 1024 | 100.0 | /mnt/stockage/packages/f30/dvdbackup/po/it.po | 
+ | [sk](/f30/language/sk) | 1024 | 1024 | 100.0 | /mnt/stockage/packages/f30/dvdbackup/po/sk.po | 
+ | [es](/f30/language/es) | 506 | 1024 | 49.4 | /mnt/stockage/packages/f30/dvdbackup/po/es.po | 
+ | [ru](/f30/language/ru) | 316 | 1024 | 30.9 | /mnt/stockage/packages/f30/dvdbackup/po/ru.po | 
+ | [et](/f30/language/et) | 111 | 1024 | 10.8 | /mnt/stockage/packages/f30/dvdbackup/po/et.po | 
+ | [nb_NO](/f30/language/nb_NO) | 95 | 1024 | 9.3 | /mnt/stockage/packages/f30/dvdbackup/po/nb.po | 
+ | [gl](/f30/language/gl) | 67 | 1024 | 6.5 | /mnt/stockage/packages/f30/dvdbackup/po/gl.po | 
+ | [da](/f30/language/da) | 56 | 1024 | 5.5 | /mnt/stockage/packages/f30/dvdbackup/po/da.po | 
+ | [pt](/f30/language/pt) | 34 | 1024 | 3.3 | /mnt/stockage/packages/f30/dvdbackup/po/pt.po | 
+ | [tr](/f30/language/tr) | 26 | 1024 | 2.5 | /mnt/stockage/packages/f30/dvdbackup/po/tr.po | 
 {.sortable}
 
 

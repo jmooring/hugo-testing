@@ -38,12 +38,12 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [publican-ovirt]({{< ref "/f15/package/publican-ovirt.md" >}}) | 288 | 288 | 100.0 | Gujarati <fedora-trans-gu@redhat.com> | 
- | [publican-redhat]({{< ref "/f15/package/publican-redhat.md" >}}) | 220 | 220 | 100.0 | Gujarati | 
- | [publican]({{< ref "/f15/package/publican.md" >}}) | 858 | 1094 | 78.4 | Gujarati | 
- | [publican-jboss]({{< ref "/f15/package/publican-jboss.md" >}}) | 120 | 232 | 51.7 | Gujarati | 
- | [pgadmin3]({{< ref "/f15/package/pgadmin3.md" >}}) | 2 | 9676 | 0.0 | LANGUAGE <LL@li.org> | 
- | [publican-fedora]({{< ref "/f15/package/publican-fedora.md" >}}) | 0 | 1 | 0.0 | None | 
+ | [publican-ovirt](/f15/package/publican-ovirt) | 288 | 288 | 100.0 | Gujarati <fedora-trans-gu@redhat.com> | 
+ | [publican-redhat](/f15/package/publican-redhat) | 220 | 220 | 100.0 | Gujarati | 
+ | [publican](/f15/package/publican) | 858 | 1094 | 78.4 | Gujarati | 
+ | [publican-jboss](/f15/package/publican-jboss) | 120 | 232 | 51.7 | Gujarati | 
+ | [pgadmin3](/f15/package/pgadmin3) | 2 | 9676 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [publican-fedora](/f15/package/publican-fedora) | 0 | 1 | 0.0 | None | 
 {.sortable}
 
 

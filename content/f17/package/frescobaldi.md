@@ -18,18 +18,18 @@ The package frescobaldi (version 2.0.9):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [nl]({{< ref "/f17/language/nl.md" >}}) | 8846 | 8846 | 100.0 | /mnt/stockage/packages/f17/frescobaldi/frescobaldi_app/po/nl.po | 
- | [cs]({{< ref "/f17/language/cs.md" >}}) | 8415 | 8846 | 95.1 | /mnt/stockage/packages/f17/frescobaldi/frescobaldi_app/po/cs.po | 
- | [es]({{< ref "/f17/language/es.md" >}}) | 8415 | 8846 | 95.1 | /mnt/stockage/packages/f17/frescobaldi/frescobaldi_app/po/es.po | 
- | [fr]({{< ref "/f17/language/fr.md" >}}) | 8411 | 8846 | 95.1 | /mnt/stockage/packages/f17/frescobaldi/frescobaldi_app/po/fr.po | 
- | [it]({{< ref "/f17/language/it.md" >}}) | 8398 | 8846 | 94.9 | /mnt/stockage/packages/f17/frescobaldi/frescobaldi_app/po/it.po | 
- | [de]({{< ref "/f17/language/de.md" >}}) | 4086 | 8846 | 46.2 | /mnt/stockage/packages/f17/frescobaldi/frescobaldi_app/po/de.po | 
- | [pl]({{< ref "/f17/language/pl.md" >}}) | 3646 | 8846 | 41.2 | /mnt/stockage/packages/f17/frescobaldi/frescobaldi_app/po/pl.po | 
- | [ru]({{< ref "/f17/language/ru.md" >}}) | 3185 | 8846 | 36.0 | /mnt/stockage/packages/f17/frescobaldi/frescobaldi_app/po/ru.po | 
- | [pt_BR]({{< ref "/f17/language/pt_BR.md" >}}) | 2375 | 8846 | 26.8 | /mnt/stockage/packages/f17/frescobaldi/frescobaldi_app/po/pt_BR.po | 
- | [uk]({{< ref "/f17/language/uk.md" >}}) | 1930 | 8846 | 21.8 | /mnt/stockage/packages/f17/frescobaldi/frescobaldi_app/po/uk.po | 
- | [gl]({{< ref "/f17/language/gl.md" >}}) | 1261 | 8846 | 14.3 | /mnt/stockage/packages/f17/frescobaldi/frescobaldi_app/po/gl.po | 
- | [tr]({{< ref "/f17/language/tr.md" >}}) | 1257 | 8846 | 14.2 | /mnt/stockage/packages/f17/frescobaldi/frescobaldi_app/po/tr.po | 
+ | [nl](/f17/language/nl) | 8846 | 8846 | 100.0 | /mnt/stockage/packages/f17/frescobaldi/frescobaldi_app/po/nl.po | 
+ | [cs](/f17/language/cs) | 8415 | 8846 | 95.1 | /mnt/stockage/packages/f17/frescobaldi/frescobaldi_app/po/cs.po | 
+ | [es](/f17/language/es) | 8415 | 8846 | 95.1 | /mnt/stockage/packages/f17/frescobaldi/frescobaldi_app/po/es.po | 
+ | [fr](/f17/language/fr) | 8411 | 8846 | 95.1 | /mnt/stockage/packages/f17/frescobaldi/frescobaldi_app/po/fr.po | 
+ | [it](/f17/language/it) | 8398 | 8846 | 94.9 | /mnt/stockage/packages/f17/frescobaldi/frescobaldi_app/po/it.po | 
+ | [de](/f17/language/de) | 4086 | 8846 | 46.2 | /mnt/stockage/packages/f17/frescobaldi/frescobaldi_app/po/de.po | 
+ | [pl](/f17/language/pl) | 3646 | 8846 | 41.2 | /mnt/stockage/packages/f17/frescobaldi/frescobaldi_app/po/pl.po | 
+ | [ru](/f17/language/ru) | 3185 | 8846 | 36.0 | /mnt/stockage/packages/f17/frescobaldi/frescobaldi_app/po/ru.po | 
+ | [pt_BR](/f17/language/pt_BR) | 2375 | 8846 | 26.8 | /mnt/stockage/packages/f17/frescobaldi/frescobaldi_app/po/pt_BR.po | 
+ | [uk](/f17/language/uk) | 1930 | 8846 | 21.8 | /mnt/stockage/packages/f17/frescobaldi/frescobaldi_app/po/uk.po | 
+ | [gl](/f17/language/gl) | 1261 | 8846 | 14.3 | /mnt/stockage/packages/f17/frescobaldi/frescobaldi_app/po/gl.po | 
+ | [tr](/f17/language/tr) | 1257 | 8846 | 14.2 | /mnt/stockage/packages/f17/frescobaldi/frescobaldi_app/po/tr.po | 
 {.sortable}
 
 

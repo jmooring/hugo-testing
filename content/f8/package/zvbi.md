@@ -18,13 +18,13 @@ The package zvbi (version 0.2.25):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [error]({{< ref "/f8/language/error.md" >}}) | 1258 | 1258 | 100.0 | /mnt/stockage/packages/f8/zvbi/po/en@quot.po/mnt/stockage/packages/f8/zvbi/po/en@boldquot.po | 
- | [de]({{< ref "/f8/language/de.md" >}}) | 614 | 629 | 97.6 | /mnt/stockage/packages/f8/zvbi/po/de.po | 
- | [fr]({{< ref "/f8/language/fr.md" >}}) | 614 | 629 | 97.6 | /mnt/stockage/packages/f8/zvbi/po/fr.po | 
- | [nl]({{< ref "/f8/language/nl.md" >}}) | 614 | 629 | 97.6 | /mnt/stockage/packages/f8/zvbi/po/nl.po | 
- | [it]({{< ref "/f8/language/it.md" >}}) | 593 | 629 | 94.3 | /mnt/stockage/packages/f8/zvbi/po/it.po | 
- | [es]({{< ref "/f8/language/es.md" >}}) | 548 | 629 | 87.1 | /mnt/stockage/packages/f8/zvbi/po/es.po | 
- | [pl]({{< ref "/f8/language/pl.md" >}}) | 515 | 629 | 81.9 | /mnt/stockage/packages/f8/zvbi/po/pl.po | 
+ | [error](/f8/language/error) | 1258 | 1258 | 100.0 | /mnt/stockage/packages/f8/zvbi/po/en@quot.po/mnt/stockage/packages/f8/zvbi/po/en@boldquot.po | 
+ | [de](/f8/language/de) | 614 | 629 | 97.6 | /mnt/stockage/packages/f8/zvbi/po/de.po | 
+ | [fr](/f8/language/fr) | 614 | 629 | 97.6 | /mnt/stockage/packages/f8/zvbi/po/fr.po | 
+ | [nl](/f8/language/nl) | 614 | 629 | 97.6 | /mnt/stockage/packages/f8/zvbi/po/nl.po | 
+ | [it](/f8/language/it) | 593 | 629 | 94.3 | /mnt/stockage/packages/f8/zvbi/po/it.po | 
+ | [es](/f8/language/es) | 548 | 629 | 87.1 | /mnt/stockage/packages/f8/zvbi/po/es.po | 
+ | [pl](/f8/language/pl) | 515 | 629 | 81.9 | /mnt/stockage/packages/f8/zvbi/po/pl.po | 
 {.sortable}
 
 

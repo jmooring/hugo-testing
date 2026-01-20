@@ -18,10 +18,10 @@ The package komparator (version 0.8):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f8/language/de.md" >}}) | 2578 | 2578 | 100.0 | /mnt/stockage/packages/f8/komparator/po/de.po | 
- | [fr]({{< ref "/f8/language/fr.md" >}}) | 2578 | 2578 | 100.0 | /mnt/stockage/packages/f8/komparator/po/fr.po | 
- | [nl]({{< ref "/f8/language/nl.md" >}}) | 2578 | 2578 | 100.0 | /mnt/stockage/packages/f8/komparator/po/nl.po | 
- | [ru]({{< ref "/f8/language/ru.md" >}}) | 1444 | 2578 | 56.0 | /mnt/stockage/packages/f8/komparator/po/ru.po | 
+ | [de](/f8/language/de) | 2578 | 2578 | 100.0 | /mnt/stockage/packages/f8/komparator/po/de.po | 
+ | [fr](/f8/language/fr) | 2578 | 2578 | 100.0 | /mnt/stockage/packages/f8/komparator/po/fr.po | 
+ | [nl](/f8/language/nl) | 2578 | 2578 | 100.0 | /mnt/stockage/packages/f8/komparator/po/nl.po | 
+ | [ru](/f8/language/ru) | 1444 | 2578 | 56.0 | /mnt/stockage/packages/f8/komparator/po/ru.po | 
 {.sortable}
 
 

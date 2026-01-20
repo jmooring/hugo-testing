@@ -18,33 +18,33 @@ The package wget2 (version 2.1.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f37/language/de.md" >}}) | 2376 | 2631 | 90.3 | /mnt/stockage/packages/f37/wget2/po/de.po | 
- | [es]({{< ref "/f37/language/es.md" >}}) | 2376 | 2631 | 90.3 | /mnt/stockage/packages/f37/wget2/po/es.po | 
- | [hr]({{< ref "/f37/language/hr.md" >}}) | 2376 | 2631 | 90.3 | /mnt/stockage/packages/f37/wget2/po/hr.po | 
- | [ja]({{< ref "/f37/language/ja.md" >}}) | 2376 | 2631 | 90.3 | /mnt/stockage/packages/f37/wget2/po/ja.po | 
- | [pl]({{< ref "/f37/language/pl.md" >}}) | 2376 | 2631 | 90.3 | /mnt/stockage/packages/f37/wget2/po/pl.po | 
- | [ro]({{< ref "/f37/language/ro.md" >}}) | 2376 | 2631 | 90.3 | /mnt/stockage/packages/f37/wget2/po/ro.po | 
- | [ru]({{< ref "/f37/language/ru.md" >}}) | 2376 | 2631 | 90.3 | /mnt/stockage/packages/f37/wget2/po/ru.po | 
- | [sr]({{< ref "/f37/language/sr.md" >}}) | 2376 | 2631 | 90.3 | /mnt/stockage/packages/f37/wget2/po/sr.po | 
- | [sv]({{< ref "/f37/language/sv.md" >}}) | 2376 | 2631 | 90.3 | /mnt/stockage/packages/f37/wget2/po/sv.po | 
- | [uk]({{< ref "/f37/language/uk.md" >}}) | 2376 | 2631 | 90.3 | /mnt/stockage/packages/f37/wget2/po/uk.po | 
- | [fr]({{< ref "/f37/language/fr.md" >}}) | 2003 | 2631 | 76.1 | /mnt/stockage/packages/f37/wget2/po/fr.po | 
- | [nb_NO]({{< ref "/f37/language/nb_NO.md" >}}) | 946 | 2631 | 36.0 | /mnt/stockage/packages/f37/wget2/po/nb.po | 
- | [zh_Hans]({{< ref "/f37/language/zh_Hans.md" >}}) | 751 | 2631 | 28.5 | /mnt/stockage/packages/f37/wget2/po/zh_CN.po | 
- | [sk]({{< ref "/f37/language/sk.md" >}}) | 434 | 2631 | 16.5 | /mnt/stockage/packages/f37/wget2/po/sk.po | 
- | [pt_BR]({{< ref "/f37/language/pt_BR.md" >}}) | 378 | 2631 | 14.4 | /mnt/stockage/packages/f37/wget2/po/pt_BR.po | 
- | [cs]({{< ref "/f37/language/cs.md" >}}) | 170 | 2631 | 6.5 | /mnt/stockage/packages/f37/wget2/po/cs.po | 
- | [eo]({{< ref "/f37/language/eo.md" >}}) | 170 | 2631 | 6.5 | /mnt/stockage/packages/f37/wget2/po/eo.po | 
- | [et]({{< ref "/f37/language/et.md" >}}) | 170 | 2631 | 6.5 | /mnt/stockage/packages/f37/wget2/po/et.po | 
- | [ga]({{< ref "/f37/language/ga.md" >}}) | 170 | 2631 | 6.5 | /mnt/stockage/packages/f37/wget2/po/ga.po | 
- | [hu]({{< ref "/f37/language/hu.md" >}}) | 170 | 2631 | 6.5 | /mnt/stockage/packages/f37/wget2/po/hu.po | 
- | [it]({{< ref "/f37/language/it.md" >}}) | 170 | 2631 | 6.5 | /mnt/stockage/packages/f37/wget2/po/it.po | 
- | [tr]({{< ref "/f37/language/tr.md" >}}) | 170 | 2631 | 6.5 | /mnt/stockage/packages/f37/wget2/po/tr.po | 
- | [vi]({{< ref "/f37/language/vi.md" >}}) | 170 | 2631 | 6.5 | /mnt/stockage/packages/f37/wget2/po/vi.po | 
- | [fi]({{< ref "/f37/language/fi.md" >}}) | 159 | 2631 | 6.0 | /mnt/stockage/packages/f37/wget2/po/fi.po | 
- | [id]({{< ref "/f37/language/id.md" >}}) | 159 | 2631 | 6.0 | /mnt/stockage/packages/f37/wget2/po/id.po | 
- | [nl]({{< ref "/f37/language/nl.md" >}}) | 159 | 2631 | 6.0 | /mnt/stockage/packages/f37/wget2/po/nl.po | 
- | [ca]({{< ref "/f37/language/ca.md" >}}) | 143 | 2631 | 5.4 | /mnt/stockage/packages/f37/wget2/po/ca.po | 
+ | [de](/f37/language/de) | 2376 | 2631 | 90.3 | /mnt/stockage/packages/f37/wget2/po/de.po | 
+ | [es](/f37/language/es) | 2376 | 2631 | 90.3 | /mnt/stockage/packages/f37/wget2/po/es.po | 
+ | [hr](/f37/language/hr) | 2376 | 2631 | 90.3 | /mnt/stockage/packages/f37/wget2/po/hr.po | 
+ | [ja](/f37/language/ja) | 2376 | 2631 | 90.3 | /mnt/stockage/packages/f37/wget2/po/ja.po | 
+ | [pl](/f37/language/pl) | 2376 | 2631 | 90.3 | /mnt/stockage/packages/f37/wget2/po/pl.po | 
+ | [ro](/f37/language/ro) | 2376 | 2631 | 90.3 | /mnt/stockage/packages/f37/wget2/po/ro.po | 
+ | [ru](/f37/language/ru) | 2376 | 2631 | 90.3 | /mnt/stockage/packages/f37/wget2/po/ru.po | 
+ | [sr](/f37/language/sr) | 2376 | 2631 | 90.3 | /mnt/stockage/packages/f37/wget2/po/sr.po | 
+ | [sv](/f37/language/sv) | 2376 | 2631 | 90.3 | /mnt/stockage/packages/f37/wget2/po/sv.po | 
+ | [uk](/f37/language/uk) | 2376 | 2631 | 90.3 | /mnt/stockage/packages/f37/wget2/po/uk.po | 
+ | [fr](/f37/language/fr) | 2003 | 2631 | 76.1 | /mnt/stockage/packages/f37/wget2/po/fr.po | 
+ | [nb_NO](/f37/language/nb_NO) | 946 | 2631 | 36.0 | /mnt/stockage/packages/f37/wget2/po/nb.po | 
+ | [zh_Hans](/f37/language/zh_Hans) | 751 | 2631 | 28.5 | /mnt/stockage/packages/f37/wget2/po/zh_CN.po | 
+ | [sk](/f37/language/sk) | 434 | 2631 | 16.5 | /mnt/stockage/packages/f37/wget2/po/sk.po | 
+ | [pt_BR](/f37/language/pt_BR) | 378 | 2631 | 14.4 | /mnt/stockage/packages/f37/wget2/po/pt_BR.po | 
+ | [cs](/f37/language/cs) | 170 | 2631 | 6.5 | /mnt/stockage/packages/f37/wget2/po/cs.po | 
+ | [eo](/f37/language/eo) | 170 | 2631 | 6.5 | /mnt/stockage/packages/f37/wget2/po/eo.po | 
+ | [et](/f37/language/et) | 170 | 2631 | 6.5 | /mnt/stockage/packages/f37/wget2/po/et.po | 
+ | [ga](/f37/language/ga) | 170 | 2631 | 6.5 | /mnt/stockage/packages/f37/wget2/po/ga.po | 
+ | [hu](/f37/language/hu) | 170 | 2631 | 6.5 | /mnt/stockage/packages/f37/wget2/po/hu.po | 
+ | [it](/f37/language/it) | 170 | 2631 | 6.5 | /mnt/stockage/packages/f37/wget2/po/it.po | 
+ | [tr](/f37/language/tr) | 170 | 2631 | 6.5 | /mnt/stockage/packages/f37/wget2/po/tr.po | 
+ | [vi](/f37/language/vi) | 170 | 2631 | 6.5 | /mnt/stockage/packages/f37/wget2/po/vi.po | 
+ | [fi](/f37/language/fi) | 159 | 2631 | 6.0 | /mnt/stockage/packages/f37/wget2/po/fi.po | 
+ | [id](/f37/language/id) | 159 | 2631 | 6.0 | /mnt/stockage/packages/f37/wget2/po/id.po | 
+ | [nl](/f37/language/nl) | 159 | 2631 | 6.0 | /mnt/stockage/packages/f37/wget2/po/nl.po | 
+ | [ca](/f37/language/ca) | 143 | 2631 | 5.4 | /mnt/stockage/packages/f37/wget2/po/ca.po | 
 {.sortable}
 
 

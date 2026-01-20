@@ -18,30 +18,30 @@ The package rednotebook (version 0.9.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ast]({{< ref "/f11/language/ast.md" >}}) | 781 | 781 | 100.0 | /mnt/stockage/packages/f11/rednotebook/po/ast.po | 
- | [de]({{< ref "/f11/language/de.md" >}}) | 781 | 781 | 100.0 | /mnt/stockage/packages/f11/rednotebook/po/de.po | 
- | [es]({{< ref "/f11/language/es.md" >}}) | 781 | 781 | 100.0 | /mnt/stockage/packages/f11/rednotebook/po/es.po | 
- | [fr]({{< ref "/f11/language/fr.md" >}}) | 781 | 781 | 100.0 | /mnt/stockage/packages/f11/rednotebook/po/fr.po | 
- | [he]({{< ref "/f11/language/he.md" >}}) | 781 | 781 | 100.0 | /mnt/stockage/packages/f11/rednotebook/po/he.po | 
- | [id]({{< ref "/f11/language/id.md" >}}) | 781 | 781 | 100.0 | /mnt/stockage/packages/f11/rednotebook/po/id.po | 
- | [nl]({{< ref "/f11/language/nl.md" >}}) | 781 | 781 | 100.0 | /mnt/stockage/packages/f11/rednotebook/po/nl.po | 
- | [pl]({{< ref "/f11/language/pl.md" >}}) | 781 | 781 | 100.0 | /mnt/stockage/packages/f11/rednotebook/po/pl.po | 
- | [uk]({{< ref "/f11/language/uk.md" >}}) | 781 | 781 | 100.0 | /mnt/stockage/packages/f11/rednotebook/po/uk.po | 
- | [zh_Hans]({{< ref "/f11/language/zh_Hans.md" >}}) | 781 | 781 | 100.0 | /mnt/stockage/packages/f11/rednotebook/po/zh_CN.po | 
- | [cs]({{< ref "/f11/language/cs.md" >}}) | 743 | 781 | 95.1 | /mnt/stockage/packages/f11/rednotebook/po/cs.po | 
- | [da]({{< ref "/f11/language/da.md" >}}) | 743 | 781 | 95.1 | /mnt/stockage/packages/f11/rednotebook/po/da.po | 
- | [ms]({{< ref "/f11/language/ms.md" >}}) | 743 | 781 | 95.1 | /mnt/stockage/packages/f11/rednotebook/po/ms.po | 
- | [ro]({{< ref "/f11/language/ro.md" >}}) | 743 | 781 | 95.1 | /mnt/stockage/packages/f11/rednotebook/po/ro.po | 
- | [ru]({{< ref "/f11/language/ru.md" >}}) | 743 | 781 | 95.1 | /mnt/stockage/packages/f11/rednotebook/po/ru.po | 
- | [nb_NO]({{< ref "/f11/language/nb_NO.md" >}}) | 475 | 781 | 60.8 | /mnt/stockage/packages/f11/rednotebook/po/nb.po | 
- | [it]({{< ref "/f11/language/it.md" >}}) | 402 | 781 | 51.5 | /mnt/stockage/packages/f11/rednotebook/po/it.po | 
- | [pt_BR]({{< ref "/f11/language/pt_BR.md" >}}) | 382 | 781 | 48.9 | /mnt/stockage/packages/f11/rednotebook/po/pt_BR.po | 
- | [hr]({{< ref "/f11/language/hr.md" >}}) | 281 | 781 | 36.0 | /mnt/stockage/packages/f11/rednotebook/po/hr.po | 
- | [be]({{< ref "/f11/language/be.md" >}}) | 83 | 781 | 10.6 | /mnt/stockage/packages/f11/rednotebook/po/be.po | 
- | [hu]({{< ref "/f11/language/hu.md" >}}) | 58 | 781 | 7.4 | /mnt/stockage/packages/f11/rednotebook/po/hu.po | 
- | [ca]({{< ref "/f11/language/ca.md" >}}) | 29 | 781 | 3.7 | /mnt/stockage/packages/f11/rednotebook/po/ca.po | 
- | [pt]({{< ref "/f11/language/pt.md" >}}) | 1 | 781 | 0.1 | /mnt/stockage/packages/f11/rednotebook/po/pt.po | 
- | [sr]({{< ref "/f11/language/sr.md" >}}) | 1 | 781 | 0.1 | /mnt/stockage/packages/f11/rednotebook/po/sr.po | 
+ | [ast](/f11/language/ast) | 781 | 781 | 100.0 | /mnt/stockage/packages/f11/rednotebook/po/ast.po | 
+ | [de](/f11/language/de) | 781 | 781 | 100.0 | /mnt/stockage/packages/f11/rednotebook/po/de.po | 
+ | [es](/f11/language/es) | 781 | 781 | 100.0 | /mnt/stockage/packages/f11/rednotebook/po/es.po | 
+ | [fr](/f11/language/fr) | 781 | 781 | 100.0 | /mnt/stockage/packages/f11/rednotebook/po/fr.po | 
+ | [he](/f11/language/he) | 781 | 781 | 100.0 | /mnt/stockage/packages/f11/rednotebook/po/he.po | 
+ | [id](/f11/language/id) | 781 | 781 | 100.0 | /mnt/stockage/packages/f11/rednotebook/po/id.po | 
+ | [nl](/f11/language/nl) | 781 | 781 | 100.0 | /mnt/stockage/packages/f11/rednotebook/po/nl.po | 
+ | [pl](/f11/language/pl) | 781 | 781 | 100.0 | /mnt/stockage/packages/f11/rednotebook/po/pl.po | 
+ | [uk](/f11/language/uk) | 781 | 781 | 100.0 | /mnt/stockage/packages/f11/rednotebook/po/uk.po | 
+ | [zh_Hans](/f11/language/zh_Hans) | 781 | 781 | 100.0 | /mnt/stockage/packages/f11/rednotebook/po/zh_CN.po | 
+ | [cs](/f11/language/cs) | 743 | 781 | 95.1 | /mnt/stockage/packages/f11/rednotebook/po/cs.po | 
+ | [da](/f11/language/da) | 743 | 781 | 95.1 | /mnt/stockage/packages/f11/rednotebook/po/da.po | 
+ | [ms](/f11/language/ms) | 743 | 781 | 95.1 | /mnt/stockage/packages/f11/rednotebook/po/ms.po | 
+ | [ro](/f11/language/ro) | 743 | 781 | 95.1 | /mnt/stockage/packages/f11/rednotebook/po/ro.po | 
+ | [ru](/f11/language/ru) | 743 | 781 | 95.1 | /mnt/stockage/packages/f11/rednotebook/po/ru.po | 
+ | [nb_NO](/f11/language/nb_NO) | 475 | 781 | 60.8 | /mnt/stockage/packages/f11/rednotebook/po/nb.po | 
+ | [it](/f11/language/it) | 402 | 781 | 51.5 | /mnt/stockage/packages/f11/rednotebook/po/it.po | 
+ | [pt_BR](/f11/language/pt_BR) | 382 | 781 | 48.9 | /mnt/stockage/packages/f11/rednotebook/po/pt_BR.po | 
+ | [hr](/f11/language/hr) | 281 | 781 | 36.0 | /mnt/stockage/packages/f11/rednotebook/po/hr.po | 
+ | [be](/f11/language/be) | 83 | 781 | 10.6 | /mnt/stockage/packages/f11/rednotebook/po/be.po | 
+ | [hu](/f11/language/hu) | 58 | 781 | 7.4 | /mnt/stockage/packages/f11/rednotebook/po/hu.po | 
+ | [ca](/f11/language/ca) | 29 | 781 | 3.7 | /mnt/stockage/packages/f11/rednotebook/po/ca.po | 
+ | [pt](/f11/language/pt) | 1 | 781 | 0.1 | /mnt/stockage/packages/f11/rednotebook/po/pt.po | 
+ | [sr](/f11/language/sr) | 1 | 781 | 0.1 | /mnt/stockage/packages/f11/rednotebook/po/sr.po | 
 {.sortable}
 
 

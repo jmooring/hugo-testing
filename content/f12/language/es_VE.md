@@ -38,12 +38,12 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [gnome-applets]({{< ref "/f12/package/gnome-applets.md" >}}) | 3858 | 3858 | 100.0 | Spanish <traductores@es.gnome.org> | 
- | [lxpanel]({{< ref "/f12/package/lxpanel.md" >}}) | 895 | 895 | 100.0 | Spanish <daniel@tunki.org> | 
- | [lxtask]({{< ref "/f12/package/lxtask.md" >}}) | 122 | 122 | 100.0 | Spanish <es@li.org> | 
- | [libgweather]({{< ref "/f12/package/libgweather.md" >}}) | 447 | 460 | 97.2 | Spanish <traductores@es.gnome.org> | 
- | [lxterminal]({{< ref "/f12/package/lxterminal.md" >}}) | 119 | 129 | 92.2 | Spanish <es@li.org> | 
- | [lxdm]({{< ref "/f12/package/lxdm.md" >}}) | 0 | 11 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [gnome-applets](/f12/package/gnome-applets) | 3858 | 3858 | 100.0 | Spanish <traductores@es.gnome.org> | 
+ | [lxpanel](/f12/package/lxpanel) | 895 | 895 | 100.0 | Spanish <daniel@tunki.org> | 
+ | [lxtask](/f12/package/lxtask) | 122 | 122 | 100.0 | Spanish <es@li.org> | 
+ | [libgweather](/f12/package/libgweather) | 447 | 460 | 97.2 | Spanish <traductores@es.gnome.org> | 
+ | [lxterminal](/f12/package/lxterminal) | 119 | 129 | 92.2 | Spanish <es@li.org> | 
+ | [lxdm](/f12/package/lxdm) | 0 | 11 | 0.0 | LANGUAGE <LL@li.org> | 
 {.sortable}
 
 

@@ -18,16 +18,16 @@ The package fcitx-qt5 (version 1.2.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f27/language/ca.md" >}}) | 99 | 99 | 100.0 | /mnt/stockage/packages/f27/fcitx-qt5/po/ca.po | 
- | [de]({{< ref "/f27/language/de.md" >}}) | 99 | 99 | 100.0 | /mnt/stockage/packages/f27/fcitx-qt5/po/de.po | 
- | [ja]({{< ref "/f27/language/ja.md" >}}) | 99 | 99 | 100.0 | /mnt/stockage/packages/f27/fcitx-qt5/po/ja.po | 
- | [ko]({{< ref "/f27/language/ko.md" >}}) | 99 | 99 | 100.0 | /mnt/stockage/packages/f27/fcitx-qt5/po/ko.po | 
- | [ru]({{< ref "/f27/language/ru.md" >}}) | 99 | 99 | 100.0 | /mnt/stockage/packages/f27/fcitx-qt5/po/ru.po | 
- | [zh_Hans]({{< ref "/f27/language/zh_Hans.md" >}}) | 99 | 99 | 100.0 | /mnt/stockage/packages/f27/fcitx-qt5/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f27/language/zh_Hant.md" >}}) | 99 | 99 | 100.0 | /mnt/stockage/packages/f27/fcitx-qt5/po/zh_TW.po | 
- | [da]({{< ref "/f27/language/da.md" >}}) | 56 | 99 | 56.6 | /mnt/stockage/packages/f27/fcitx-qt5/po/da.po | 
- | [es]({{< ref "/f27/language/es.md" >}}) | 0 | 99 | 0.0 | /mnt/stockage/packages/f27/fcitx-qt5/po/es.po | 
- | [fr]({{< ref "/f27/language/fr.md" >}}) | 0 | 99 | 0.0 | /mnt/stockage/packages/f27/fcitx-qt5/po/fr.po | 
+ | [ca](/f27/language/ca) | 99 | 99 | 100.0 | /mnt/stockage/packages/f27/fcitx-qt5/po/ca.po | 
+ | [de](/f27/language/de) | 99 | 99 | 100.0 | /mnt/stockage/packages/f27/fcitx-qt5/po/de.po | 
+ | [ja](/f27/language/ja) | 99 | 99 | 100.0 | /mnt/stockage/packages/f27/fcitx-qt5/po/ja.po | 
+ | [ko](/f27/language/ko) | 99 | 99 | 100.0 | /mnt/stockage/packages/f27/fcitx-qt5/po/ko.po | 
+ | [ru](/f27/language/ru) | 99 | 99 | 100.0 | /mnt/stockage/packages/f27/fcitx-qt5/po/ru.po | 
+ | [zh_Hans](/f27/language/zh_Hans) | 99 | 99 | 100.0 | /mnt/stockage/packages/f27/fcitx-qt5/po/zh_CN.po | 
+ | [zh_Hant](/f27/language/zh_Hant) | 99 | 99 | 100.0 | /mnt/stockage/packages/f27/fcitx-qt5/po/zh_TW.po | 
+ | [da](/f27/language/da) | 56 | 99 | 56.6 | /mnt/stockage/packages/f27/fcitx-qt5/po/da.po | 
+ | [es](/f27/language/es) | 0 | 99 | 0.0 | /mnt/stockage/packages/f27/fcitx-qt5/po/es.po | 
+ | [fr](/f27/language/fr) | 0 | 99 | 0.0 | /mnt/stockage/packages/f27/fcitx-qt5/po/fr.po | 
 {.sortable}
 
 

@@ -18,9 +18,9 @@ The package wavbreaker (version 0.10):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f20/language/de.md" >}}) | 644 | 644 | 100.0 | /mnt/stockage/packages/f20/wavbreaker/po/de.po | 
- | [fr]({{< ref "/f20/language/fr.md" >}}) | 613 | 644 | 95.2 | /mnt/stockage/packages/f20/wavbreaker/po/fr.po | 
- | [pt]({{< ref "/f20/language/pt.md" >}}) | 613 | 644 | 95.2 | /mnt/stockage/packages/f20/wavbreaker/po/pt.po | 
+ | [de](/f20/language/de) | 644 | 644 | 100.0 | /mnt/stockage/packages/f20/wavbreaker/po/de.po | 
+ | [fr](/f20/language/fr) | 613 | 644 | 95.2 | /mnt/stockage/packages/f20/wavbreaker/po/fr.po | 
+ | [pt](/f20/language/pt) | 613 | 644 | 95.2 | /mnt/stockage/packages/f20/wavbreaker/po/pt.po | 
 {.sortable}
 
 

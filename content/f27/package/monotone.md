@@ -18,14 +18,14 @@ The package monotone (version 1.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f27/language/de.md" >}}) | 11942 | 11942 | 100.0 | /mnt/stockage/packages/f27/monotone/po/de.po | 
- | [fr]({{< ref "/f27/language/fr.md" >}}) | 11737 | 11737 | 100.0 | /mnt/stockage/packages/f27/monotone/po/fr.po | 
- | [pt]({{< ref "/f27/language/pt.md" >}}) | 11938 | 11938 | 100.0 | /mnt/stockage/packages/f27/monotone/po/pt.po | 
- | [sv]({{< ref "/f27/language/sv.md" >}}) | 11938 | 11938 | 100.0 | /mnt/stockage/packages/f27/monotone/po/sv.po | 
- | [it]({{< ref "/f27/language/it.md" >}}) | 9939 | 11947 | 83.2 | /mnt/stockage/packages/f27/monotone/po/it.po | 
- | [es]({{< ref "/f27/language/es.md" >}}) | 8754 | 11716 | 74.7 | /mnt/stockage/packages/f27/monotone/po/es.po | 
- | [pt_BR]({{< ref "/f27/language/pt_BR.md" >}}) | 4559 | 11716 | 38.9 | /mnt/stockage/packages/f27/monotone/po/pt_BR.po | 
- | [ja]({{< ref "/f27/language/ja.md" >}}) | 3424 | 11716 | 29.2 | /mnt/stockage/packages/f27/monotone/po/ja.po | 
+ | [de](/f27/language/de) | 11942 | 11942 | 100.0 | /mnt/stockage/packages/f27/monotone/po/de.po | 
+ | [fr](/f27/language/fr) | 11737 | 11737 | 100.0 | /mnt/stockage/packages/f27/monotone/po/fr.po | 
+ | [pt](/f27/language/pt) | 11938 | 11938 | 100.0 | /mnt/stockage/packages/f27/monotone/po/pt.po | 
+ | [sv](/f27/language/sv) | 11938 | 11938 | 100.0 | /mnt/stockage/packages/f27/monotone/po/sv.po | 
+ | [it](/f27/language/it) | 9939 | 11947 | 83.2 | /mnt/stockage/packages/f27/monotone/po/it.po | 
+ | [es](/f27/language/es) | 8754 | 11716 | 74.7 | /mnt/stockage/packages/f27/monotone/po/es.po | 
+ | [pt_BR](/f27/language/pt_BR) | 4559 | 11716 | 38.9 | /mnt/stockage/packages/f27/monotone/po/pt_BR.po | 
+ | [ja](/f27/language/ja) | 3424 | 11716 | 29.2 | /mnt/stockage/packages/f27/monotone/po/ja.po | 
 {.sortable}
 
 

@@ -18,19 +18,19 @@ The package openttd (version 0.7.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f10/language/cs.md" >}}) | 33 | 33 | 100.0 | /mnt/stockage/packages/f10/openttd/os/debian/po/cs.po | 
- | [de]({{< ref "/f10/language/de.md" >}}) | 33 | 33 | 100.0 | /mnt/stockage/packages/f10/openttd/os/debian/po/de.po | 
- | [eu]({{< ref "/f10/language/eu.md" >}}) | 33 | 33 | 100.0 | /mnt/stockage/packages/f10/openttd/os/debian/po/eu.po | 
- | [fi]({{< ref "/f10/language/fi.md" >}}) | 33 | 33 | 100.0 | /mnt/stockage/packages/f10/openttd/os/debian/po/fi.po | 
- | [fr]({{< ref "/f10/language/fr.md" >}}) | 33 | 33 | 100.0 | /mnt/stockage/packages/f10/openttd/os/debian/po/fr.po | 
- | [gl]({{< ref "/f10/language/gl.md" >}}) | 33 | 33 | 100.0 | /mnt/stockage/packages/f10/openttd/os/debian/po/gl.po | 
- | [nl]({{< ref "/f10/language/nl.md" >}}) | 33 | 33 | 100.0 | /mnt/stockage/packages/f10/openttd/os/debian/po/nl.po | 
- | [os]({{< ref "/f10/language/os.md" >}}) | 33 | 33 | 100.0 | /mnt/stockage/packages/f10/openttd/os/debian/po/ca.po | 
- | [pt]({{< ref "/f10/language/pt.md" >}}) | 33 | 33 | 100.0 | /mnt/stockage/packages/f10/openttd/os/debian/po/pt.po | 
- | [pt_BR]({{< ref "/f10/language/pt_BR.md" >}}) | 33 | 33 | 100.0 | /mnt/stockage/packages/f10/openttd/os/debian/po/pt_BR.po | 
- | [ru]({{< ref "/f10/language/ru.md" >}}) | 33 | 33 | 100.0 | /mnt/stockage/packages/f10/openttd/os/debian/po/ru.po | 
- | [sv]({{< ref "/f10/language/sv.md" >}}) | 33 | 33 | 100.0 | /mnt/stockage/packages/f10/openttd/os/debian/po/sv.po | 
- | [ta]({{< ref "/f10/language/ta.md" >}}) | 33 | 33 | 100.0 | /mnt/stockage/packages/f10/openttd/os/debian/po/ta.po | 
+ | [cs](/f10/language/cs) | 33 | 33 | 100.0 | /mnt/stockage/packages/f10/openttd/os/debian/po/cs.po | 
+ | [de](/f10/language/de) | 33 | 33 | 100.0 | /mnt/stockage/packages/f10/openttd/os/debian/po/de.po | 
+ | [eu](/f10/language/eu) | 33 | 33 | 100.0 | /mnt/stockage/packages/f10/openttd/os/debian/po/eu.po | 
+ | [fi](/f10/language/fi) | 33 | 33 | 100.0 | /mnt/stockage/packages/f10/openttd/os/debian/po/fi.po | 
+ | [fr](/f10/language/fr) | 33 | 33 | 100.0 | /mnt/stockage/packages/f10/openttd/os/debian/po/fr.po | 
+ | [gl](/f10/language/gl) | 33 | 33 | 100.0 | /mnt/stockage/packages/f10/openttd/os/debian/po/gl.po | 
+ | [nl](/f10/language/nl) | 33 | 33 | 100.0 | /mnt/stockage/packages/f10/openttd/os/debian/po/nl.po | 
+ | [os](/f10/language/os) | 33 | 33 | 100.0 | /mnt/stockage/packages/f10/openttd/os/debian/po/ca.po | 
+ | [pt](/f10/language/pt) | 33 | 33 | 100.0 | /mnt/stockage/packages/f10/openttd/os/debian/po/pt.po | 
+ | [pt_BR](/f10/language/pt_BR) | 33 | 33 | 100.0 | /mnt/stockage/packages/f10/openttd/os/debian/po/pt_BR.po | 
+ | [ru](/f10/language/ru) | 33 | 33 | 100.0 | /mnt/stockage/packages/f10/openttd/os/debian/po/ru.po | 
+ | [sv](/f10/language/sv) | 33 | 33 | 100.0 | /mnt/stockage/packages/f10/openttd/os/debian/po/sv.po | 
+ | [ta](/f10/language/ta) | 33 | 33 | 100.0 | /mnt/stockage/packages/f10/openttd/os/debian/po/ta.po | 
 {.sortable}
 
 

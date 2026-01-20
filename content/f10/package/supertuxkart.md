@@ -18,12 +18,12 @@ The package supertuxkart (version 0.5):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f10/language/de.md" >}}) | 851 | 851 | 100.0 | /mnt/stockage/packages/f10/supertuxkart/data/po/de.po | 
- | [nl]({{< ref "/f10/language/nl.md" >}}) | 807 | 807 | 100.0 | /mnt/stockage/packages/f10/supertuxkart/data/po/nl.po | 
- | [sv]({{< ref "/f10/language/sv.md" >}}) | 807 | 807 | 100.0 | /mnt/stockage/packages/f10/supertuxkart/data/po/sv.po | 
- | [es]({{< ref "/f10/language/es.md" >}}) | 800 | 807 | 99.1 | /mnt/stockage/packages/f10/supertuxkart/data/po/es.po | 
- | [it]({{< ref "/f10/language/it.md" >}}) | 786 | 824 | 95.4 | /mnt/stockage/packages/f10/supertuxkart/data/po/it.po | 
- | [fr]({{< ref "/f10/language/fr.md" >}}) | 767 | 807 | 95.0 | /mnt/stockage/packages/f10/supertuxkart/data/po/fr.po | 
+ | [de](/f10/language/de) | 851 | 851 | 100.0 | /mnt/stockage/packages/f10/supertuxkart/data/po/de.po | 
+ | [nl](/f10/language/nl) | 807 | 807 | 100.0 | /mnt/stockage/packages/f10/supertuxkart/data/po/nl.po | 
+ | [sv](/f10/language/sv) | 807 | 807 | 100.0 | /mnt/stockage/packages/f10/supertuxkart/data/po/sv.po | 
+ | [es](/f10/language/es) | 800 | 807 | 99.1 | /mnt/stockage/packages/f10/supertuxkart/data/po/es.po | 
+ | [it](/f10/language/it) | 786 | 824 | 95.4 | /mnt/stockage/packages/f10/supertuxkart/data/po/it.po | 
+ | [fr](/f10/language/fr) | 767 | 807 | 95.0 | /mnt/stockage/packages/f10/supertuxkart/data/po/fr.po | 
 {.sortable}
 
 

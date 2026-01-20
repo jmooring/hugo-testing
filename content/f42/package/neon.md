@@ -18,16 +18,16 @@ The package neon (version 0.36.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ka]({{< ref "/f42/language/ka.md" >}}) | 739 | 801 | 92.3 | /mnt/stockage/packages/f42/neon/po/ka.po | 
- | [pl]({{< ref "/f42/language/pl.md" >}}) | 656 | 801 | 81.9 | /mnt/stockage/packages/f42/neon/po/pl.po | 
- | [zh_Hans]({{< ref "/f42/language/zh_Hans.md" >}}) | 470 | 801 | 58.7 | /mnt/stockage/packages/f42/neon/po/zh_CN.po | 
- | [cs]({{< ref "/f42/language/cs.md" >}}) | 76 | 801 | 9.5 | /mnt/stockage/packages/f42/neon/po/cs.po | 
- | [de]({{< ref "/f42/language/de.md" >}}) | 76 | 801 | 9.5 | /mnt/stockage/packages/f42/neon/po/de.po | 
- | [nn]({{< ref "/f42/language/nn.md" >}}) | 76 | 801 | 9.5 | /mnt/stockage/packages/f42/neon/po/nn.po | 
- | [tr]({{< ref "/f42/language/tr.md" >}}) | 76 | 801 | 9.5 | /mnt/stockage/packages/f42/neon/po/tr.po | 
- | [ja]({{< ref "/f42/language/ja.md" >}}) | 32 | 801 | 4.0 | /mnt/stockage/packages/f42/neon/po/ja.po | 
- | [fr]({{< ref "/f42/language/fr.md" >}}) | 0 | 801 | 0.0 | /mnt/stockage/packages/f42/neon/po/fr.po | 
- | [ru]({{< ref "/f42/language/ru.md" >}}) | 0 | 801 | 0.0 | /mnt/stockage/packages/f42/neon/po/ru.po | 
+ | [ka](/f42/language/ka) | 739 | 801 | 92.3 | /mnt/stockage/packages/f42/neon/po/ka.po | 
+ | [pl](/f42/language/pl) | 656 | 801 | 81.9 | /mnt/stockage/packages/f42/neon/po/pl.po | 
+ | [zh_Hans](/f42/language/zh_Hans) | 470 | 801 | 58.7 | /mnt/stockage/packages/f42/neon/po/zh_CN.po | 
+ | [cs](/f42/language/cs) | 76 | 801 | 9.5 | /mnt/stockage/packages/f42/neon/po/cs.po | 
+ | [de](/f42/language/de) | 76 | 801 | 9.5 | /mnt/stockage/packages/f42/neon/po/de.po | 
+ | [nn](/f42/language/nn) | 76 | 801 | 9.5 | /mnt/stockage/packages/f42/neon/po/nn.po | 
+ | [tr](/f42/language/tr) | 76 | 801 | 9.5 | /mnt/stockage/packages/f42/neon/po/tr.po | 
+ | [ja](/f42/language/ja) | 32 | 801 | 4.0 | /mnt/stockage/packages/f42/neon/po/ja.po | 
+ | [fr](/f42/language/fr) | 0 | 801 | 0.0 | /mnt/stockage/packages/f42/neon/po/fr.po | 
+ | [ru](/f42/language/ru) | 0 | 801 | 0.0 | /mnt/stockage/packages/f42/neon/po/ru.po | 
 {.sortable}
 
 

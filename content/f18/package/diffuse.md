@@ -18,15 +18,15 @@ The package diffuse (version 0.4.7):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f18/language/cs.md" >}}) | 987 | 987 | 100.0 | /mnt/stockage/packages/f18/diffuse/translations/cs.po | 
- | [de]({{< ref "/f18/language/de.md" >}}) | 987 | 987 | 100.0 | /mnt/stockage/packages/f18/diffuse/translations/de.po | 
- | [es]({{< ref "/f18/language/es.md" >}}) | 987 | 987 | 100.0 | /mnt/stockage/packages/f18/diffuse/translations/es.po | 
- | [it]({{< ref "/f18/language/it.md" >}}) | 987 | 987 | 100.0 | /mnt/stockage/packages/f18/diffuse/translations/it.po | 
- | [ja]({{< ref "/f18/language/ja.md" >}}) | 987 | 987 | 100.0 | /mnt/stockage/packages/f18/diffuse/translations/ja.po | 
- | [ko]({{< ref "/f18/language/ko.md" >}}) | 987 | 987 | 100.0 | /mnt/stockage/packages/f18/diffuse/translations/ko.po | 
- | [ru]({{< ref "/f18/language/ru.md" >}}) | 987 | 987 | 100.0 | /mnt/stockage/packages/f18/diffuse/translations/ru.po | 
- | [pl]({{< ref "/f18/language/pl.md" >}}) | 849 | 987 | 86.0 | /mnt/stockage/packages/f18/diffuse/translations/pl.po | 
- | [zh_Hans]({{< ref "/f18/language/zh_Hans.md" >}}) | 827 | 987 | 83.8 | /mnt/stockage/packages/f18/diffuse/translations/zh_CN.po | 
+ | [cs](/f18/language/cs) | 987 | 987 | 100.0 | /mnt/stockage/packages/f18/diffuse/translations/cs.po | 
+ | [de](/f18/language/de) | 987 | 987 | 100.0 | /mnt/stockage/packages/f18/diffuse/translations/de.po | 
+ | [es](/f18/language/es) | 987 | 987 | 100.0 | /mnt/stockage/packages/f18/diffuse/translations/es.po | 
+ | [it](/f18/language/it) | 987 | 987 | 100.0 | /mnt/stockage/packages/f18/diffuse/translations/it.po | 
+ | [ja](/f18/language/ja) | 987 | 987 | 100.0 | /mnt/stockage/packages/f18/diffuse/translations/ja.po | 
+ | [ko](/f18/language/ko) | 987 | 987 | 100.0 | /mnt/stockage/packages/f18/diffuse/translations/ko.po | 
+ | [ru](/f18/language/ru) | 987 | 987 | 100.0 | /mnt/stockage/packages/f18/diffuse/translations/ru.po | 
+ | [pl](/f18/language/pl) | 849 | 987 | 86.0 | /mnt/stockage/packages/f18/diffuse/translations/pl.po | 
+ | [zh_Hans](/f18/language/zh_Hans) | 827 | 987 | 83.8 | /mnt/stockage/packages/f18/diffuse/translations/zh_CN.po | 
 {.sortable}
 
 

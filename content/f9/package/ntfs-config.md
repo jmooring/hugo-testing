@@ -18,40 +18,40 @@ The package ntfs-config (version 1.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f9/language/fr.md" >}}) | 455 | 455 | 100.0 | /mnt/stockage/packages/f9/ntfs-config/po/fr.po | 
- | [pl]({{< ref "/f9/language/pl.md" >}}) | 455 | 455 | 100.0 | /mnt/stockage/packages/f9/ntfs-config/po/pl.po | 
- | [cs]({{< ref "/f9/language/cs.md" >}}) | 447 | 455 | 98.2 | /mnt/stockage/packages/f9/ntfs-config/po/cs.po | 
- | [es]({{< ref "/f9/language/es.md" >}}) | 381 | 455 | 83.7 | /mnt/stockage/packages/f9/ntfs-config/po/es.po | 
- | [bn]({{< ref "/f9/language/bn.md" >}}) | 283 | 455 | 62.2 | /mnt/stockage/packages/f9/ntfs-config/po/bn.po | 
- | [en_GB]({{< ref "/f9/language/en_GB.md" >}}) | 283 | 455 | 62.2 | /mnt/stockage/packages/f9/ntfs-config/po/en_GB.po | 
- | [sv]({{< ref "/f9/language/sv.md" >}}) | 283 | 455 | 62.2 | /mnt/stockage/packages/f9/ntfs-config/po/sv.po | 
- | [de]({{< ref "/f9/language/de.md" >}}) | 266 | 455 | 58.5 | /mnt/stockage/packages/f9/ntfs-config/po/de.po | 
- | [zh_Hant_HK]({{< ref "/f9/language/zh_Hant_HK.md" >}}) | 223 | 455 | 49.0 | /mnt/stockage/packages/f9/ntfs-config/po/zh_HK.po | 
- | [it]({{< ref "/f9/language/it.md" >}}) | 206 | 455 | 45.3 | /mnt/stockage/packages/f9/ntfs-config/po/it.po | 
- | [zh_Hans]({{< ref "/f9/language/zh_Hans.md" >}}) | 183 | 455 | 40.2 | /mnt/stockage/packages/f9/ntfs-config/po/zh_CN.po | 
- | [hr]({{< ref "/f9/language/hr.md" >}}) | 170 | 455 | 37.4 | /mnt/stockage/packages/f9/ntfs-config/po/hr.po | 
- | [el]({{< ref "/f9/language/el.md" >}}) | 147 | 455 | 32.3 | /mnt/stockage/packages/f9/ntfs-config/po/el.po | 
- | [sk]({{< ref "/f9/language/sk.md" >}}) | 118 | 455 | 25.9 | /mnt/stockage/packages/f9/ntfs-config/po/sk.po | 
- | [tr]({{< ref "/f9/language/tr.md" >}}) | 109 | 455 | 24.0 | /mnt/stockage/packages/f9/ntfs-config/po/tr.po | 
- | [pt_BR]({{< ref "/f9/language/pt_BR.md" >}}) | 37 | 455 | 8.1 | /mnt/stockage/packages/f9/ntfs-config/po/pt_BR.po | 
- | [ca]({{< ref "/f9/language/ca.md" >}}) | 29 | 455 | 6.4 | /mnt/stockage/packages/f9/ntfs-config/po/ca.po | 
- | [en_AU]({{< ref "/f9/language/en_AU.md" >}}) | 29 | 455 | 6.4 | /mnt/stockage/packages/f9/ntfs-config/po/en_AU.po | 
- | [en_CA]({{< ref "/f9/language/en_CA.md" >}}) | 29 | 455 | 6.4 | /mnt/stockage/packages/f9/ntfs-config/po/en_CA.po | 
- | [et]({{< ref "/f9/language/et.md" >}}) | 29 | 455 | 6.4 | /mnt/stockage/packages/f9/ntfs-config/po/et.po | 
- | [ko]({{< ref "/f9/language/ko.md" >}}) | 29 | 455 | 6.4 | /mnt/stockage/packages/f9/ntfs-config/po/ko.po | 
- | [lt]({{< ref "/f9/language/lt.md" >}}) | 29 | 455 | 6.4 | /mnt/stockage/packages/f9/ntfs-config/po/lt.po | 
- | [nl]({{< ref "/f9/language/nl.md" >}}) | 29 | 455 | 6.4 | /mnt/stockage/packages/f9/ntfs-config/po/nl.po | 
- | [pt]({{< ref "/f9/language/pt.md" >}}) | 29 | 455 | 6.4 | /mnt/stockage/packages/f9/ntfs-config/po/pt.po | 
- | [pt_PT]({{< ref "/f9/language/pt_PT.md" >}}) | 29 | 455 | 6.4 | /mnt/stockage/packages/f9/ntfs-config/po/pt_PT.po | 
- | [ru]({{< ref "/f9/language/ru.md" >}}) | 29 | 455 | 6.4 | /mnt/stockage/packages/f9/ntfs-config/po/ru.po | 
- | [ja]({{< ref "/f9/language/ja.md" >}}) | 13 | 455 | 2.9 | /mnt/stockage/packages/f9/ntfs-config/po/ja.po | 
- | [hu]({{< ref "/f9/language/hu.md" >}}) | 3 | 455 | 0.7 | /mnt/stockage/packages/f9/ntfs-config/po/hu.po | 
- | [oc]({{< ref "/f9/language/oc.md" >}}) | 3 | 455 | 0.7 | /mnt/stockage/packages/f9/ntfs-config/po/oc.po | 
- | [da]({{< ref "/f9/language/da.md" >}}) | 0 | 455 | 0.0 | /mnt/stockage/packages/f9/ntfs-config/po/da.po | 
- | [fa]({{< ref "/f9/language/fa.md" >}}) | 0 | 455 | 0.0 | /mnt/stockage/packages/f9/ntfs-config/po/fa.po | 
- | [he]({{< ref "/f9/language/he.md" >}}) | 0 | 455 | 0.0 | /mnt/stockage/packages/f9/ntfs-config/po/he.po | 
- | [hi]({{< ref "/f9/language/hi.md" >}}) | 0 | 455 | 0.0 | /mnt/stockage/packages/f9/ntfs-config/po/hi.po | 
- | [ro]({{< ref "/f9/language/ro.md" >}}) | 0 | 455 | 0.0 | /mnt/stockage/packages/f9/ntfs-config/po/ro.po | 
+ | [fr](/f9/language/fr) | 455 | 455 | 100.0 | /mnt/stockage/packages/f9/ntfs-config/po/fr.po | 
+ | [pl](/f9/language/pl) | 455 | 455 | 100.0 | /mnt/stockage/packages/f9/ntfs-config/po/pl.po | 
+ | [cs](/f9/language/cs) | 447 | 455 | 98.2 | /mnt/stockage/packages/f9/ntfs-config/po/cs.po | 
+ | [es](/f9/language/es) | 381 | 455 | 83.7 | /mnt/stockage/packages/f9/ntfs-config/po/es.po | 
+ | [bn](/f9/language/bn) | 283 | 455 | 62.2 | /mnt/stockage/packages/f9/ntfs-config/po/bn.po | 
+ | [en_GB](/f9/language/en_GB) | 283 | 455 | 62.2 | /mnt/stockage/packages/f9/ntfs-config/po/en_GB.po | 
+ | [sv](/f9/language/sv) | 283 | 455 | 62.2 | /mnt/stockage/packages/f9/ntfs-config/po/sv.po | 
+ | [de](/f9/language/de) | 266 | 455 | 58.5 | /mnt/stockage/packages/f9/ntfs-config/po/de.po | 
+ | [zh_Hant_HK](/f9/language/zh_Hant_HK) | 223 | 455 | 49.0 | /mnt/stockage/packages/f9/ntfs-config/po/zh_HK.po | 
+ | [it](/f9/language/it) | 206 | 455 | 45.3 | /mnt/stockage/packages/f9/ntfs-config/po/it.po | 
+ | [zh_Hans](/f9/language/zh_Hans) | 183 | 455 | 40.2 | /mnt/stockage/packages/f9/ntfs-config/po/zh_CN.po | 
+ | [hr](/f9/language/hr) | 170 | 455 | 37.4 | /mnt/stockage/packages/f9/ntfs-config/po/hr.po | 
+ | [el](/f9/language/el) | 147 | 455 | 32.3 | /mnt/stockage/packages/f9/ntfs-config/po/el.po | 
+ | [sk](/f9/language/sk) | 118 | 455 | 25.9 | /mnt/stockage/packages/f9/ntfs-config/po/sk.po | 
+ | [tr](/f9/language/tr) | 109 | 455 | 24.0 | /mnt/stockage/packages/f9/ntfs-config/po/tr.po | 
+ | [pt_BR](/f9/language/pt_BR) | 37 | 455 | 8.1 | /mnt/stockage/packages/f9/ntfs-config/po/pt_BR.po | 
+ | [ca](/f9/language/ca) | 29 | 455 | 6.4 | /mnt/stockage/packages/f9/ntfs-config/po/ca.po | 
+ | [en_AU](/f9/language/en_AU) | 29 | 455 | 6.4 | /mnt/stockage/packages/f9/ntfs-config/po/en_AU.po | 
+ | [en_CA](/f9/language/en_CA) | 29 | 455 | 6.4 | /mnt/stockage/packages/f9/ntfs-config/po/en_CA.po | 
+ | [et](/f9/language/et) | 29 | 455 | 6.4 | /mnt/stockage/packages/f9/ntfs-config/po/et.po | 
+ | [ko](/f9/language/ko) | 29 | 455 | 6.4 | /mnt/stockage/packages/f9/ntfs-config/po/ko.po | 
+ | [lt](/f9/language/lt) | 29 | 455 | 6.4 | /mnt/stockage/packages/f9/ntfs-config/po/lt.po | 
+ | [nl](/f9/language/nl) | 29 | 455 | 6.4 | /mnt/stockage/packages/f9/ntfs-config/po/nl.po | 
+ | [pt](/f9/language/pt) | 29 | 455 | 6.4 | /mnt/stockage/packages/f9/ntfs-config/po/pt.po | 
+ | [pt_PT](/f9/language/pt_PT) | 29 | 455 | 6.4 | /mnt/stockage/packages/f9/ntfs-config/po/pt_PT.po | 
+ | [ru](/f9/language/ru) | 29 | 455 | 6.4 | /mnt/stockage/packages/f9/ntfs-config/po/ru.po | 
+ | [ja](/f9/language/ja) | 13 | 455 | 2.9 | /mnt/stockage/packages/f9/ntfs-config/po/ja.po | 
+ | [hu](/f9/language/hu) | 3 | 455 | 0.7 | /mnt/stockage/packages/f9/ntfs-config/po/hu.po | 
+ | [oc](/f9/language/oc) | 3 | 455 | 0.7 | /mnt/stockage/packages/f9/ntfs-config/po/oc.po | 
+ | [da](/f9/language/da) | 0 | 455 | 0.0 | /mnt/stockage/packages/f9/ntfs-config/po/da.po | 
+ | [fa](/f9/language/fa) | 0 | 455 | 0.0 | /mnt/stockage/packages/f9/ntfs-config/po/fa.po | 
+ | [he](/f9/language/he) | 0 | 455 | 0.0 | /mnt/stockage/packages/f9/ntfs-config/po/he.po | 
+ | [hi](/f9/language/hi) | 0 | 455 | 0.0 | /mnt/stockage/packages/f9/ntfs-config/po/hi.po | 
+ | [ro](/f9/language/ro) | 0 | 455 | 0.0 | /mnt/stockage/packages/f9/ntfs-config/po/ro.po | 
 {.sortable}
 
 

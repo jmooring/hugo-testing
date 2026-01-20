@@ -18,12 +18,12 @@ The package quick-usb-formatter (version 0.4.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f25/language/ca.md" >}}) | 106 | 106 | 100.0 | /mnt/stockage/packages/f25/quick-usb-formatter/translations/ca.po | 
- | [fr]({{< ref "/f25/language/fr.md" >}}) | 106 | 106 | 100.0 | /mnt/stockage/packages/f25/quick-usb-formatter/translations/fr.po | 
- | [gl]({{< ref "/f25/language/gl.md" >}}) | 106 | 106 | 100.0 | /mnt/stockage/packages/f25/quick-usb-formatter/translations/gl.po | 
- | [it]({{< ref "/f25/language/it.md" >}}) | 106 | 106 | 100.0 | /mnt/stockage/packages/f25/quick-usb-formatter/translations/it.po | 
- | [tr]({{< ref "/f25/language/tr.md" >}}) | 106 | 106 | 100.0 | /mnt/stockage/packages/f25/quick-usb-formatter/translations/tr.po | 
- | [de]({{< ref "/f25/language/de.md" >}}) | 97 | 106 | 91.5 | /mnt/stockage/packages/f25/quick-usb-formatter/translations/de.po | 
+ | [ca](/f25/language/ca) | 106 | 106 | 100.0 | /mnt/stockage/packages/f25/quick-usb-formatter/translations/ca.po | 
+ | [fr](/f25/language/fr) | 106 | 106 | 100.0 | /mnt/stockage/packages/f25/quick-usb-formatter/translations/fr.po | 
+ | [gl](/f25/language/gl) | 106 | 106 | 100.0 | /mnt/stockage/packages/f25/quick-usb-formatter/translations/gl.po | 
+ | [it](/f25/language/it) | 106 | 106 | 100.0 | /mnt/stockage/packages/f25/quick-usb-formatter/translations/it.po | 
+ | [tr](/f25/language/tr) | 106 | 106 | 100.0 | /mnt/stockage/packages/f25/quick-usb-formatter/translations/tr.po | 
+ | [de](/f25/language/de) | 97 | 106 | 91.5 | /mnt/stockage/packages/f25/quick-usb-formatter/translations/de.po | 
 {.sortable}
 
 

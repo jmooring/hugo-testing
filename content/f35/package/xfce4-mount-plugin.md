@@ -18,42 +18,42 @@ The package xfce4-mount-plugin (version 1.1.5):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f35/language/ca.md" >}}) | 383 | 383 | 100.0 | /mnt/stockage/packages/f35/xfce4-mount-plugin/po/ca.po | 
- | [cs]({{< ref "/f35/language/cs.md" >}}) | 383 | 383 | 100.0 | /mnt/stockage/packages/f35/xfce4-mount-plugin/po/cs.po | 
- | [da]({{< ref "/f35/language/da.md" >}}) | 383 | 383 | 100.0 | /mnt/stockage/packages/f35/xfce4-mount-plugin/po/da.po | 
- | [de]({{< ref "/f35/language/de.md" >}}) | 383 | 383 | 100.0 | /mnt/stockage/packages/f35/xfce4-mount-plugin/po/de.po | 
- | [es]({{< ref "/f35/language/es.md" >}}) | 383 | 383 | 100.0 | /mnt/stockage/packages/f35/xfce4-mount-plugin/po/es.po | 
- | [fr]({{< ref "/f35/language/fr.md" >}}) | 383 | 383 | 100.0 | /mnt/stockage/packages/f35/xfce4-mount-plugin/po/fr.po | 
- | [gl]({{< ref "/f35/language/gl.md" >}}) | 383 | 383 | 100.0 | /mnt/stockage/packages/f35/xfce4-mount-plugin/po/gl.po | 
- | [hu]({{< ref "/f35/language/hu.md" >}}) | 383 | 383 | 100.0 | /mnt/stockage/packages/f35/xfce4-mount-plugin/po/hu.po | 
- | [id]({{< ref "/f35/language/id.md" >}}) | 383 | 383 | 100.0 | /mnt/stockage/packages/f35/xfce4-mount-plugin/po/id.po | 
- | [it]({{< ref "/f35/language/it.md" >}}) | 383 | 383 | 100.0 | /mnt/stockage/packages/f35/xfce4-mount-plugin/po/it.po | 
- | [ja]({{< ref "/f35/language/ja.md" >}}) | 383 | 383 | 100.0 | /mnt/stockage/packages/f35/xfce4-mount-plugin/po/ja.po | 
- | [ko]({{< ref "/f35/language/ko.md" >}}) | 383 | 383 | 100.0 | /mnt/stockage/packages/f35/xfce4-mount-plugin/po/ko.po | 
- | [lt]({{< ref "/f35/language/lt.md" >}}) | 383 | 383 | 100.0 | /mnt/stockage/packages/f35/xfce4-mount-plugin/po/lt.po | 
- | [nb_NO]({{< ref "/f35/language/nb_NO.md" >}}) | 383 | 383 | 100.0 | /mnt/stockage/packages/f35/xfce4-mount-plugin/po/nb.po | 
- | [nl]({{< ref "/f35/language/nl.md" >}}) | 383 | 383 | 100.0 | /mnt/stockage/packages/f35/xfce4-mount-plugin/po/nl.po | 
- | [pl]({{< ref "/f35/language/pl.md" >}}) | 383 | 383 | 100.0 | /mnt/stockage/packages/f35/xfce4-mount-plugin/po/pl.po | 
- | [pt]({{< ref "/f35/language/pt.md" >}}) | 383 | 383 | 100.0 | /mnt/stockage/packages/f35/xfce4-mount-plugin/po/pt.po | 
- | [pt_BR]({{< ref "/f35/language/pt_BR.md" >}}) | 383 | 383 | 100.0 | /mnt/stockage/packages/f35/xfce4-mount-plugin/po/pt_BR.po | 
- | [ru]({{< ref "/f35/language/ru.md" >}}) | 383 | 383 | 100.0 | /mnt/stockage/packages/f35/xfce4-mount-plugin/po/ru.po | 
- | [sk]({{< ref "/f35/language/sk.md" >}}) | 383 | 383 | 100.0 | /mnt/stockage/packages/f35/xfce4-mount-plugin/po/sk.po | 
- | [sq]({{< ref "/f35/language/sq.md" >}}) | 383 | 383 | 100.0 | /mnt/stockage/packages/f35/xfce4-mount-plugin/po/sq.po | 
- | [sv]({{< ref "/f35/language/sv.md" >}}) | 383 | 383 | 100.0 | /mnt/stockage/packages/f35/xfce4-mount-plugin/po/sv.po | 
- | [tr]({{< ref "/f35/language/tr.md" >}}) | 383 | 383 | 100.0 | /mnt/stockage/packages/f35/xfce4-mount-plugin/po/tr.po | 
- | [zh_Hans]({{< ref "/f35/language/zh_Hans.md" >}}) | 383 | 383 | 100.0 | /mnt/stockage/packages/f35/xfce4-mount-plugin/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f35/language/zh_Hant.md" >}}) | 383 | 383 | 100.0 | /mnt/stockage/packages/f35/xfce4-mount-plugin/po/zh_TW.po | 
- | [el]({{< ref "/f35/language/el.md" >}}) | 380 | 383 | 99.2 | /mnt/stockage/packages/f35/xfce4-mount-plugin/po/el.po | 
- | [eu]({{< ref "/f35/language/eu.md" >}}) | 380 | 383 | 99.2 | /mnt/stockage/packages/f35/xfce4-mount-plugin/po/eu.po | 
- | [uk]({{< ref "/f35/language/uk.md" >}}) | 380 | 383 | 99.2 | /mnt/stockage/packages/f35/xfce4-mount-plugin/po/uk.po | 
- | [ast]({{< ref "/f35/language/ast.md" >}}) | 336 | 383 | 87.7 | /mnt/stockage/packages/f35/xfce4-mount-plugin/po/ast.po | 
- | [fi]({{< ref "/f35/language/fi.md" >}}) | 298 | 383 | 77.8 | /mnt/stockage/packages/f35/xfce4-mount-plugin/po/fi.po | 
- | [ar]({{< ref "/f35/language/ar.md" >}}) | 272 | 383 | 71.0 | /mnt/stockage/packages/f35/xfce4-mount-plugin/po/ar.po | 
- | [en_GB]({{< ref "/f35/language/en_GB.md" >}}) | 254 | 383 | 66.3 | /mnt/stockage/packages/f35/xfce4-mount-plugin/po/en_GB.po | 
- | [lv]({{< ref "/f35/language/lv.md" >}}) | 207 | 383 | 54.0 | /mnt/stockage/packages/f35/xfce4-mount-plugin/po/lv.po | 
- | [ur]({{< ref "/f35/language/ur.md" >}}) | 207 | 383 | 54.0 | /mnt/stockage/packages/f35/xfce4-mount-plugin/po/ur.po | 
- | [ur_PK]({{< ref "/f35/language/ur_PK.md" >}}) | 207 | 383 | 54.0 | /mnt/stockage/packages/f35/xfce4-mount-plugin/po/ur_PK.po | 
- | [vi]({{< ref "/f35/language/vi.md" >}}) | 39 | 383 | 10.2 | /mnt/stockage/packages/f35/xfce4-mount-plugin/po/vi.po | 
+ | [ca](/f35/language/ca) | 383 | 383 | 100.0 | /mnt/stockage/packages/f35/xfce4-mount-plugin/po/ca.po | 
+ | [cs](/f35/language/cs) | 383 | 383 | 100.0 | /mnt/stockage/packages/f35/xfce4-mount-plugin/po/cs.po | 
+ | [da](/f35/language/da) | 383 | 383 | 100.0 | /mnt/stockage/packages/f35/xfce4-mount-plugin/po/da.po | 
+ | [de](/f35/language/de) | 383 | 383 | 100.0 | /mnt/stockage/packages/f35/xfce4-mount-plugin/po/de.po | 
+ | [es](/f35/language/es) | 383 | 383 | 100.0 | /mnt/stockage/packages/f35/xfce4-mount-plugin/po/es.po | 
+ | [fr](/f35/language/fr) | 383 | 383 | 100.0 | /mnt/stockage/packages/f35/xfce4-mount-plugin/po/fr.po | 
+ | [gl](/f35/language/gl) | 383 | 383 | 100.0 | /mnt/stockage/packages/f35/xfce4-mount-plugin/po/gl.po | 
+ | [hu](/f35/language/hu) | 383 | 383 | 100.0 | /mnt/stockage/packages/f35/xfce4-mount-plugin/po/hu.po | 
+ | [id](/f35/language/id) | 383 | 383 | 100.0 | /mnt/stockage/packages/f35/xfce4-mount-plugin/po/id.po | 
+ | [it](/f35/language/it) | 383 | 383 | 100.0 | /mnt/stockage/packages/f35/xfce4-mount-plugin/po/it.po | 
+ | [ja](/f35/language/ja) | 383 | 383 | 100.0 | /mnt/stockage/packages/f35/xfce4-mount-plugin/po/ja.po | 
+ | [ko](/f35/language/ko) | 383 | 383 | 100.0 | /mnt/stockage/packages/f35/xfce4-mount-plugin/po/ko.po | 
+ | [lt](/f35/language/lt) | 383 | 383 | 100.0 | /mnt/stockage/packages/f35/xfce4-mount-plugin/po/lt.po | 
+ | [nb_NO](/f35/language/nb_NO) | 383 | 383 | 100.0 | /mnt/stockage/packages/f35/xfce4-mount-plugin/po/nb.po | 
+ | [nl](/f35/language/nl) | 383 | 383 | 100.0 | /mnt/stockage/packages/f35/xfce4-mount-plugin/po/nl.po | 
+ | [pl](/f35/language/pl) | 383 | 383 | 100.0 | /mnt/stockage/packages/f35/xfce4-mount-plugin/po/pl.po | 
+ | [pt](/f35/language/pt) | 383 | 383 | 100.0 | /mnt/stockage/packages/f35/xfce4-mount-plugin/po/pt.po | 
+ | [pt_BR](/f35/language/pt_BR) | 383 | 383 | 100.0 | /mnt/stockage/packages/f35/xfce4-mount-plugin/po/pt_BR.po | 
+ | [ru](/f35/language/ru) | 383 | 383 | 100.0 | /mnt/stockage/packages/f35/xfce4-mount-plugin/po/ru.po | 
+ | [sk](/f35/language/sk) | 383 | 383 | 100.0 | /mnt/stockage/packages/f35/xfce4-mount-plugin/po/sk.po | 
+ | [sq](/f35/language/sq) | 383 | 383 | 100.0 | /mnt/stockage/packages/f35/xfce4-mount-plugin/po/sq.po | 
+ | [sv](/f35/language/sv) | 383 | 383 | 100.0 | /mnt/stockage/packages/f35/xfce4-mount-plugin/po/sv.po | 
+ | [tr](/f35/language/tr) | 383 | 383 | 100.0 | /mnt/stockage/packages/f35/xfce4-mount-plugin/po/tr.po | 
+ | [zh_Hans](/f35/language/zh_Hans) | 383 | 383 | 100.0 | /mnt/stockage/packages/f35/xfce4-mount-plugin/po/zh_CN.po | 
+ | [zh_Hant](/f35/language/zh_Hant) | 383 | 383 | 100.0 | /mnt/stockage/packages/f35/xfce4-mount-plugin/po/zh_TW.po | 
+ | [el](/f35/language/el) | 380 | 383 | 99.2 | /mnt/stockage/packages/f35/xfce4-mount-plugin/po/el.po | 
+ | [eu](/f35/language/eu) | 380 | 383 | 99.2 | /mnt/stockage/packages/f35/xfce4-mount-plugin/po/eu.po | 
+ | [uk](/f35/language/uk) | 380 | 383 | 99.2 | /mnt/stockage/packages/f35/xfce4-mount-plugin/po/uk.po | 
+ | [ast](/f35/language/ast) | 336 | 383 | 87.7 | /mnt/stockage/packages/f35/xfce4-mount-plugin/po/ast.po | 
+ | [fi](/f35/language/fi) | 298 | 383 | 77.8 | /mnt/stockage/packages/f35/xfce4-mount-plugin/po/fi.po | 
+ | [ar](/f35/language/ar) | 272 | 383 | 71.0 | /mnt/stockage/packages/f35/xfce4-mount-plugin/po/ar.po | 
+ | [en_GB](/f35/language/en_GB) | 254 | 383 | 66.3 | /mnt/stockage/packages/f35/xfce4-mount-plugin/po/en_GB.po | 
+ | [lv](/f35/language/lv) | 207 | 383 | 54.0 | /mnt/stockage/packages/f35/xfce4-mount-plugin/po/lv.po | 
+ | [ur](/f35/language/ur) | 207 | 383 | 54.0 | /mnt/stockage/packages/f35/xfce4-mount-plugin/po/ur.po | 
+ | [ur_PK](/f35/language/ur_PK) | 207 | 383 | 54.0 | /mnt/stockage/packages/f35/xfce4-mount-plugin/po/ur_PK.po | 
+ | [vi](/f35/language/vi) | 39 | 383 | 10.2 | /mnt/stockage/packages/f35/xfce4-mount-plugin/po/vi.po | 
 {.sortable}
 
 

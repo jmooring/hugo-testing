@@ -40,45 +40,45 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [sugar-abacus]({{< ref "/f37/package/sugar-abacus.md" >}}) | 28 | 28 | 100.0 | JuneLeonora | 
- | [sugar-implode]({{< ref "/f37/package/sugar-implode.md" >}}) | 77 | 77 | 100.0 | JuneLeonora | 
- | [sugar-jukebox]({{< ref "/f37/package/sugar-jukebox.md" >}}) | 69 | 69 | 100.0 | JuneLeonora | 
- | [sugar-log]({{< ref "/f37/package/sugar-log.md" >}}) | 98 | 98 | 100.0 | JuneLeonora | 
- | [sugar-maze]({{< ref "/f37/package/sugar-maze.md" >}}) | 7 | 7 | 100.0 | JuneLeonora | 
- | [sugar-paint]({{< ref "/f37/package/sugar-paint.md" >}}) | 106 | 106 | 100.0 | LANGUAGE <LL@li.org> | 
- | [sugar-record]({{< ref "/f37/package/sugar-record.md" >}}) | 62 | 62 | 100.0 | Suares | 
- | [sugar-speak]({{< ref "/f37/package/sugar-speak.md" >}}) | 227 | 227 | 100.0 | JuneLeonora | 
- | [sugar-srilanka]({{< ref "/f37/package/sugar-srilanka.md" >}}) | 459 | 459 | 100.0 | LANGUAGE <LL@li.org> | 
- | [sugar-turtleart]({{< ref "/f37/package/sugar-turtleart.md" >}}) | 1574 | 1574 | 100.0 | LANGUAGE <walter@sugarlabs.org> | 
- | [sugar-words]({{< ref "/f37/package/sugar-words.md" >}}) | 3 | 3 | 100.0 | LANGUAGE <LL@li.org> | 
- | [sugar-write]({{< ref "/f37/package/sugar-write.md" >}}) | 119 | 121 | 98.3 | Suares | 
- | [sugar-typing-turtle]({{< ref "/f37/package/sugar-typing-turtle.md" >}}) | 573 | 599 | 95.7 | LANGUAGE <LL@li.org> | 
- | [sugar-memorize]({{< ref "/f37/package/sugar-memorize.md" >}}) | 131 | 142 | 92.3 | Suares | 
- | [sugar-read]({{< ref "/f37/package/sugar-read.md" >}}) | 122 | 137 | 89.1 | Suares | 
- | [sugar-clock]({{< ref "/f37/package/sugar-clock.md" >}}) | 57 | 66 | 86.4 | JuneLeonora | 
- | [folder-color-switcher]({{< ref "/f37/package/folder-color-switcher.md" >}}) | 51 | 65 | 78.5 | Papiamento <pap@li.org> | 
- | [sugar-distance]({{< ref "/f37/package/sugar-distance.md" >}}) | 75 | 99 | 75.8 | LANGUAGE <LL@li.org> | 
- | [sugar-finance]({{< ref "/f37/package/sugar-finance.md" >}}) | 188 | 258 | 72.9 | JuneLeonora | 
- | [sugar]({{< ref "/f37/package/sugar.md" >}}) | 1669 | 2305 | 72.4 | JuneLeonora | 
- | [sugar-dimensions]({{< ref "/f37/package/sugar-dimensions.md" >}}) | 119 | 176 | 67.6 | LANGUAGE <LL@li.org> | 
- | [sugar-browse]({{< ref "/f37/package/sugar-browse.md" >}}) | 213 | 334 | 63.8 | Suares | 
- | [sugar-view-slides]({{< ref "/f37/package/sugar-view-slides.md" >}}) | 36 | 60 | 60.0 | LANGUAGE <LL@li.org> | 
- | [sugar-physics]({{< ref "/f37/package/sugar-physics.md" >}}) | 28 | 48 | 58.3 | LANGUAGE <LL@li.org> | 
- | [sugar-fototoon]({{< ref "/f37/package/sugar-fototoon.md" >}}) | 77 | 139 | 55.4 | JuneLeonora | 
- | [sugar-flipsticks]({{< ref "/f37/package/sugar-flipsticks.md" >}}) | 68 | 151 | 45.0 | LANGUAGE <LL@li.org> | 
- | [sugar-chat]({{< ref "/f37/package/sugar-chat.md" >}}) | 56 | 137 | 40.9 | JuneLeonora | 
- | [sugar-calculator]({{< ref "/f37/package/sugar-calculator.md" >}}) | 352 | 866 | 40.6 | LANGUAGE <LL@li.org> | 
- | [sugar-toolkit-gtk3]({{< ref "/f37/package/sugar-toolkit-gtk3.md" >}}) | 76 | 213 | 35.7 | JuneLeonora | 
- | [sugar-imageviewer]({{< ref "/f37/package/sugar-imageviewer.md" >}}) | 16 | 58 | 27.6 | JuneLeonora | 
- | [cinnamon-translations]({{< ref "/f37/package/cinnamon-translations.md" >}}) | 2087 | 11100 | 18.8 | Papiamento <pap@li.org> | 
- | [blueberry]({{< ref "/f37/package/blueberry.md" >}}) | 31 | 172 | 18.0 | Papiamento <pap@li.org> | 
- | [sugar-story]({{< ref "/f37/package/sugar-story.md" >}}) | 4 | 24 | 16.7 | LANGUAGE <LL@li.org> | 
- | [sugar-pippy]({{< ref "/f37/package/sugar-pippy.md" >}}) | 44 | 282 | 15.6 | LANGUAGE <LL@li.org> | 
- | [nemo-extensions]({{< ref "/f37/package/nemo-extensions.md" >}}) | 1 | 8 | 12.5 | Papiamento <pap@li.org> | 
- | [sugar-terminal]({{< ref "/f37/package/sugar-terminal.md" >}}) | 6 | 121 | 5.0 | LANGUAGE <LL@li.org> | 
- | [sugar-xoeditor]({{< ref "/f37/package/sugar-xoeditor.md" >}}) | 1 | 29 | 3.4 | LANGUAGE <LL@li.org> | 
- | [iso-codes]({{< ref "/f37/package/iso-codes.md" >}}) | 0 | 986 | 0.0 | Papiamento <https://hosted.weblate.org/projects/iso-codes/iso-3166-1/pap/> | 
- | [sugar-portfolio]({{< ref "/f37/package/sugar-portfolio.md" >}}) | 0 | 73 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-abacus](/f37/package/sugar-abacus) | 28 | 28 | 100.0 | JuneLeonora | 
+ | [sugar-implode](/f37/package/sugar-implode) | 77 | 77 | 100.0 | JuneLeonora | 
+ | [sugar-jukebox](/f37/package/sugar-jukebox) | 69 | 69 | 100.0 | JuneLeonora | 
+ | [sugar-log](/f37/package/sugar-log) | 98 | 98 | 100.0 | JuneLeonora | 
+ | [sugar-maze](/f37/package/sugar-maze) | 7 | 7 | 100.0 | JuneLeonora | 
+ | [sugar-paint](/f37/package/sugar-paint) | 106 | 106 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-record](/f37/package/sugar-record) | 62 | 62 | 100.0 | Suares | 
+ | [sugar-speak](/f37/package/sugar-speak) | 227 | 227 | 100.0 | JuneLeonora | 
+ | [sugar-srilanka](/f37/package/sugar-srilanka) | 459 | 459 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-turtleart](/f37/package/sugar-turtleart) | 1574 | 1574 | 100.0 | LANGUAGE <walter@sugarlabs.org> | 
+ | [sugar-words](/f37/package/sugar-words) | 3 | 3 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-write](/f37/package/sugar-write) | 119 | 121 | 98.3 | Suares | 
+ | [sugar-typing-turtle](/f37/package/sugar-typing-turtle) | 573 | 599 | 95.7 | LANGUAGE <LL@li.org> | 
+ | [sugar-memorize](/f37/package/sugar-memorize) | 131 | 142 | 92.3 | Suares | 
+ | [sugar-read](/f37/package/sugar-read) | 122 | 137 | 89.1 | Suares | 
+ | [sugar-clock](/f37/package/sugar-clock) | 57 | 66 | 86.4 | JuneLeonora | 
+ | [folder-color-switcher](/f37/package/folder-color-switcher) | 51 | 65 | 78.5 | Papiamento <pap@li.org> | 
+ | [sugar-distance](/f37/package/sugar-distance) | 75 | 99 | 75.8 | LANGUAGE <LL@li.org> | 
+ | [sugar-finance](/f37/package/sugar-finance) | 188 | 258 | 72.9 | JuneLeonora | 
+ | [sugar](/f37/package/sugar) | 1669 | 2305 | 72.4 | JuneLeonora | 
+ | [sugar-dimensions](/f37/package/sugar-dimensions) | 119 | 176 | 67.6 | LANGUAGE <LL@li.org> | 
+ | [sugar-browse](/f37/package/sugar-browse) | 213 | 334 | 63.8 | Suares | 
+ | [sugar-view-slides](/f37/package/sugar-view-slides) | 36 | 60 | 60.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-physics](/f37/package/sugar-physics) | 28 | 48 | 58.3 | LANGUAGE <LL@li.org> | 
+ | [sugar-fototoon](/f37/package/sugar-fototoon) | 77 | 139 | 55.4 | JuneLeonora | 
+ | [sugar-flipsticks](/f37/package/sugar-flipsticks) | 68 | 151 | 45.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-chat](/f37/package/sugar-chat) | 56 | 137 | 40.9 | JuneLeonora | 
+ | [sugar-calculator](/f37/package/sugar-calculator) | 352 | 866 | 40.6 | LANGUAGE <LL@li.org> | 
+ | [sugar-toolkit-gtk3](/f37/package/sugar-toolkit-gtk3) | 76 | 213 | 35.7 | JuneLeonora | 
+ | [sugar-imageviewer](/f37/package/sugar-imageviewer) | 16 | 58 | 27.6 | JuneLeonora | 
+ | [cinnamon-translations](/f37/package/cinnamon-translations) | 2087 | 11100 | 18.8 | Papiamento <pap@li.org> | 
+ | [blueberry](/f37/package/blueberry) | 31 | 172 | 18.0 | Papiamento <pap@li.org> | 
+ | [sugar-story](/f37/package/sugar-story) | 4 | 24 | 16.7 | LANGUAGE <LL@li.org> | 
+ | [sugar-pippy](/f37/package/sugar-pippy) | 44 | 282 | 15.6 | LANGUAGE <LL@li.org> | 
+ | [nemo-extensions](/f37/package/nemo-extensions) | 1 | 8 | 12.5 | Papiamento <pap@li.org> | 
+ | [sugar-terminal](/f37/package/sugar-terminal) | 6 | 121 | 5.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-xoeditor](/f37/package/sugar-xoeditor) | 1 | 29 | 3.4 | LANGUAGE <LL@li.org> | 
+ | [iso-codes](/f37/package/iso-codes) | 0 | 986 | 0.0 | Papiamento <https://hosted.weblate.org/projects/iso-codes/iso-3166-1/pap/> | 
+ | [sugar-portfolio](/f37/package/sugar-portfolio) | 0 | 73 | 0.0 | LANGUAGE <LL@li.org> | 
 {.sortable}
 
 

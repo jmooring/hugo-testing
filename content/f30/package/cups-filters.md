@@ -18,7 +18,7 @@ The package cups-filters (version 1.27.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f30/language/fr.md" >}}) | 203 | 203 | 100.0 | /mnt/stockage/packages/f30/cups-filters/filter/braille/drivers/common/fr-braille.po | 
+ | [fr](/f30/language/fr) | 203 | 203 | 100.0 | /mnt/stockage/packages/f30/cups-filters/filter/braille/drivers/common/fr-braille.po | 
 {.sortable}
 
 

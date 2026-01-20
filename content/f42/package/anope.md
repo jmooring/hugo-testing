@@ -18,19 +18,19 @@ The package anope (version 2.1.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [en_US]({{< ref "/f42/language/en_US.md" >}}) | 19847 | 19847 | 100.0 | /mnt/stockage/packages/f42/anope/language/anope.en_US.po | 
- | [nl]({{< ref "/f42/language/nl.md" >}}) | 20138 | 20138 | 100.0 | /mnt/stockage/packages/f42/anope/language/anope.nl_NL.po | 
- | [pl]({{< ref "/f42/language/pl.md" >}}) | 20138 | 20138 | 100.0 | /mnt/stockage/packages/f42/anope/language/anope.pl_PL.po | 
- | [tr]({{< ref "/f42/language/tr.md" >}}) | 20138 | 20138 | 100.0 | /mnt/stockage/packages/f42/anope/language/anope.tr_TR.po | 
- | [fr]({{< ref "/f42/language/fr.md" >}}) | 20137 | 20138 | 100.0 | /mnt/stockage/packages/f42/anope/language/anope.fr_FR.po | 
- | [it]({{< ref "/f42/language/it.md" >}}) | 20134 | 20138 | 100.0 | /mnt/stockage/packages/f42/anope/language/anope.it_IT.po | 
- | [es]({{< ref "/f42/language/es.md" >}}) | 17667 | 20196 | 87.5 | /mnt/stockage/packages/f42/anope/language/anope.es_ES.po | 
- | [de]({{< ref "/f42/language/de.md" >}}) | 7749 | 20202 | 38.4 | /mnt/stockage/packages/f42/anope/language/anope.de_DE.po | 
- | [el]({{< ref "/f42/language/el.md" >}}) | 5536 | 20196 | 27.4 | /mnt/stockage/packages/f42/anope/language/anope.el_GR.po | 
- | [ca]({{< ref "/f42/language/ca.md" >}}) | 2337 | 20196 | 11.6 | /mnt/stockage/packages/f42/anope/language/anope.ca_ES.po | 
- | [hu]({{< ref "/f42/language/hu.md" >}}) | 2337 | 20196 | 11.6 | /mnt/stockage/packages/f42/anope/language/anope.hu_HU.po | 
- | [pt_PT]({{< ref "/f42/language/pt_PT.md" >}}) | 2337 | 20196 | 11.6 | /mnt/stockage/packages/f42/anope/language/anope.pt_PT.po | 
- | [ru]({{< ref "/f42/language/ru.md" >}}) | 2337 | 20196 | 11.6 | /mnt/stockage/packages/f42/anope/language/anope.ru_RU.po | 
+ | [en_US](/f42/language/en_US) | 19847 | 19847 | 100.0 | /mnt/stockage/packages/f42/anope/language/anope.en_US.po | 
+ | [nl](/f42/language/nl) | 20138 | 20138 | 100.0 | /mnt/stockage/packages/f42/anope/language/anope.nl_NL.po | 
+ | [pl](/f42/language/pl) | 20138 | 20138 | 100.0 | /mnt/stockage/packages/f42/anope/language/anope.pl_PL.po | 
+ | [tr](/f42/language/tr) | 20138 | 20138 | 100.0 | /mnt/stockage/packages/f42/anope/language/anope.tr_TR.po | 
+ | [fr](/f42/language/fr) | 20137 | 20138 | 100.0 | /mnt/stockage/packages/f42/anope/language/anope.fr_FR.po | 
+ | [it](/f42/language/it) | 20134 | 20138 | 100.0 | /mnt/stockage/packages/f42/anope/language/anope.it_IT.po | 
+ | [es](/f42/language/es) | 17667 | 20196 | 87.5 | /mnt/stockage/packages/f42/anope/language/anope.es_ES.po | 
+ | [de](/f42/language/de) | 7749 | 20202 | 38.4 | /mnt/stockage/packages/f42/anope/language/anope.de_DE.po | 
+ | [el](/f42/language/el) | 5536 | 20196 | 27.4 | /mnt/stockage/packages/f42/anope/language/anope.el_GR.po | 
+ | [ca](/f42/language/ca) | 2337 | 20196 | 11.6 | /mnt/stockage/packages/f42/anope/language/anope.ca_ES.po | 
+ | [hu](/f42/language/hu) | 2337 | 20196 | 11.6 | /mnt/stockage/packages/f42/anope/language/anope.hu_HU.po | 
+ | [pt_PT](/f42/language/pt_PT) | 2337 | 20196 | 11.6 | /mnt/stockage/packages/f42/anope/language/anope.pt_PT.po | 
+ | [ru](/f42/language/ru) | 2337 | 20196 | 11.6 | /mnt/stockage/packages/f42/anope/language/anope.ru_RU.po | 
 {.sortable}
 
 

@@ -18,17 +18,17 @@ The package phodav (version 2.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f23/language/cs.md" >}}) | 40 | 40 | 100.0 | /mnt/stockage/packages/f23/phodav/po/cs.po | 
- | [de]({{< ref "/f23/language/de.md" >}}) | 35 | 35 | 100.0 | /mnt/stockage/packages/f23/phodav/po/de.po | 
- | [el]({{< ref "/f23/language/el.md" >}}) | 35 | 35 | 100.0 | /mnt/stockage/packages/f23/phodav/po/el.po | 
- | [es]({{< ref "/f23/language/es.md" >}}) | 35 | 35 | 100.0 | /mnt/stockage/packages/f23/phodav/po/es.po | 
- | [hu]({{< ref "/f23/language/hu.md" >}}) | 40 | 40 | 100.0 | /mnt/stockage/packages/f23/phodav/po/hu.po | 
- | [id]({{< ref "/f23/language/id.md" >}}) | 35 | 35 | 100.0 | /mnt/stockage/packages/f23/phodav/po/id.po | 
- | [pl]({{< ref "/f23/language/pl.md" >}}) | 40 | 40 | 100.0 | /mnt/stockage/packages/f23/phodav/po/pl.po | 
- | [pt_BR]({{< ref "/f23/language/pt_BR.md" >}}) | 38 | 38 | 100.0 | /mnt/stockage/packages/f23/phodav/po/pt_BR.po | 
- | [sl]({{< ref "/f23/language/sl.md" >}}) | 35 | 35 | 100.0 | /mnt/stockage/packages/f23/phodav/po/sl.po | 
- | [sr]({{< ref "/f23/language/sr.md" >}}) | 70 | 70 | 100.0 | /mnt/stockage/packages/f23/phodav/po/sr@latin.po/mnt/stockage/packages/f23/phodav/po/sr.po | 
- | [tr]({{< ref "/f23/language/tr.md" >}}) | 40 | 40 | 100.0 | /mnt/stockage/packages/f23/phodav/po/tr.po | 
+ | [cs](/f23/language/cs) | 40 | 40 | 100.0 | /mnt/stockage/packages/f23/phodav/po/cs.po | 
+ | [de](/f23/language/de) | 35 | 35 | 100.0 | /mnt/stockage/packages/f23/phodav/po/de.po | 
+ | [el](/f23/language/el) | 35 | 35 | 100.0 | /mnt/stockage/packages/f23/phodav/po/el.po | 
+ | [es](/f23/language/es) | 35 | 35 | 100.0 | /mnt/stockage/packages/f23/phodav/po/es.po | 
+ | [hu](/f23/language/hu) | 40 | 40 | 100.0 | /mnt/stockage/packages/f23/phodav/po/hu.po | 
+ | [id](/f23/language/id) | 35 | 35 | 100.0 | /mnt/stockage/packages/f23/phodav/po/id.po | 
+ | [pl](/f23/language/pl) | 40 | 40 | 100.0 | /mnt/stockage/packages/f23/phodav/po/pl.po | 
+ | [pt_BR](/f23/language/pt_BR) | 38 | 38 | 100.0 | /mnt/stockage/packages/f23/phodav/po/pt_BR.po | 
+ | [sl](/f23/language/sl) | 35 | 35 | 100.0 | /mnt/stockage/packages/f23/phodav/po/sl.po | 
+ | [sr](/f23/language/sr) | 70 | 70 | 100.0 | /mnt/stockage/packages/f23/phodav/po/sr@latin.po/mnt/stockage/packages/f23/phodav/po/sr.po | 
+ | [tr](/f23/language/tr) | 40 | 40 | 100.0 | /mnt/stockage/packages/f23/phodav/po/tr.po | 
 {.sortable}
 
 

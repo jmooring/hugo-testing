@@ -18,15 +18,15 @@ The package rhash (version 1.3.5):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [en]({{< ref "/f29/language/en.md" >}}) | 449 | 449 | 100.0 | /mnt/stockage/packages/f29/rhash/po/en_AU.po | 
- | [it]({{< ref "/f29/language/it.md" >}}) | 449 | 449 | 100.0 | /mnt/stockage/packages/f29/rhash/po/it.po | 
- | [ru]({{< ref "/f29/language/ru.md" >}}) | 449 | 449 | 100.0 | /mnt/stockage/packages/f29/rhash/po/ru.po | 
- | [es]({{< ref "/f29/language/es.md" >}}) | 430 | 449 | 95.8 | /mnt/stockage/packages/f29/rhash/po/es.po | 
- | [de]({{< ref "/f29/language/de.md" >}}) | 235 | 449 | 52.3 | /mnt/stockage/packages/f29/rhash/po/de.po | 
- | [gl]({{< ref "/f29/language/gl.md" >}}) | 228 | 449 | 50.8 | /mnt/stockage/packages/f29/rhash/po/gl.po | 
- | [ca]({{< ref "/f29/language/ca.md" >}}) | 219 | 449 | 48.8 | /mnt/stockage/packages/f29/rhash/po/ca.po | 
- | [ro]({{< ref "/f29/language/ro.md" >}}) | 212 | 449 | 47.2 | /mnt/stockage/packages/f29/rhash/po/ro.po | 
- | [fr]({{< ref "/f29/language/fr.md" >}}) | 180 | 449 | 40.1 | /mnt/stockage/packages/f29/rhash/po/fr.po | 
+ | [en](/f29/language/en) | 449 | 449 | 100.0 | /mnt/stockage/packages/f29/rhash/po/en_AU.po | 
+ | [it](/f29/language/it) | 449 | 449 | 100.0 | /mnt/stockage/packages/f29/rhash/po/it.po | 
+ | [ru](/f29/language/ru) | 449 | 449 | 100.0 | /mnt/stockage/packages/f29/rhash/po/ru.po | 
+ | [es](/f29/language/es) | 430 | 449 | 95.8 | /mnt/stockage/packages/f29/rhash/po/es.po | 
+ | [de](/f29/language/de) | 235 | 449 | 52.3 | /mnt/stockage/packages/f29/rhash/po/de.po | 
+ | [gl](/f29/language/gl) | 228 | 449 | 50.8 | /mnt/stockage/packages/f29/rhash/po/gl.po | 
+ | [ca](/f29/language/ca) | 219 | 449 | 48.8 | /mnt/stockage/packages/f29/rhash/po/ca.po | 
+ | [ro](/f29/language/ro) | 212 | 449 | 47.2 | /mnt/stockage/packages/f29/rhash/po/ro.po | 
+ | [fr](/f29/language/fr) | 180 | 449 | 40.1 | /mnt/stockage/packages/f29/rhash/po/fr.po | 
 {.sortable}
 
 

@@ -38,15 +38,15 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [maliit-keyboard]({{< ref "/f35/package/maliit-keyboard.md" >}}) | 31 | 81 | 38.3 | Lojban <jbo@li.org> | 
- | [supertux]({{< ref "/f35/package/supertux.md" >}}) | 234 | 2866 | 8.2 | Lojban (http://www.transifex.com/arctic-games/supertux/language/jbo/) | 
- | [supertuxkart]({{< ref "/f35/package/supertuxkart.md" >}}) | 255 | 5918 | 4.3 | Lojban (http://www.transifex.com/supertuxkart/supertuxkart/language/jbo/) | 
- | [minetest]({{< ref "/f35/package/minetest.md" >}}) | 425 | 10049 | 4.2 | Lojban <https://hosted.weblate.org/projects/minetest/minetest/jbo/> | 
- | [transmission]({{< ref "/f35/package/transmission.md" >}}) | 49 | 1998 | 2.5 | Lojban (https://www.transifex.com/transmissionbt/teams/33778/jbo/) | 
- | [fragments]({{< ref "/f35/package/fragments.md" >}}) | 49 | 2006 | 2.4 | Lojban (https://www.transifex.com/transmissionbt/teams/33778/jbo/) | 
- | [elementary-files]({{< ref "/f35/package/elementary-files.md" >}}) | 0 | 3669 | 0.0 | Lojban <jbo@li.org> | 
- | [elementary-photos]({{< ref "/f35/package/elementary-photos.md" >}}) | 0 | 4011 | 0.0 | none | 
- | [switchboard]({{< ref "/f35/package/switchboard.md" >}}) | 0 | 148 | 0.0 | none | 
+ | [maliit-keyboard](/f35/package/maliit-keyboard) | 31 | 81 | 38.3 | Lojban <jbo@li.org> | 
+ | [supertux](/f35/package/supertux) | 234 | 2866 | 8.2 | Lojban (http://www.transifex.com/arctic-games/supertux/language/jbo/) | 
+ | [supertuxkart](/f35/package/supertuxkart) | 255 | 5918 | 4.3 | Lojban (http://www.transifex.com/supertuxkart/supertuxkart/language/jbo/) | 
+ | [minetest](/f35/package/minetest) | 425 | 10049 | 4.2 | Lojban <https://hosted.weblate.org/projects/minetest/minetest/jbo/> | 
+ | [transmission](/f35/package/transmission) | 49 | 1998 | 2.5 | Lojban (https://www.transifex.com/transmissionbt/teams/33778/jbo/) | 
+ | [fragments](/f35/package/fragments) | 49 | 2006 | 2.4 | Lojban (https://www.transifex.com/transmissionbt/teams/33778/jbo/) | 
+ | [elementary-files](/f35/package/elementary-files) | 0 | 3669 | 0.0 | Lojban <jbo@li.org> | 
+ | [elementary-photos](/f35/package/elementary-photos) | 0 | 4011 | 0.0 | none | 
+ | [switchboard](/f35/package/switchboard) | 0 | 148 | 0.0 | none | 
 {.sortable}
 
 

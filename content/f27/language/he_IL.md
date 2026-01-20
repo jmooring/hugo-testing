@@ -38,19 +38,19 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [boost]({{< ref "/f27/package/boost.md" >}}) | 1 | 1 | 100.0 |  | 
- | [ceph]({{< ref "/f27/package/ceph.md" >}}) | 1 | 1 | 100.0 |  | 
- | [darktable]({{< ref "/f27/package/darktable.md" >}}) | 10078 | 10078 | 100.0 |  | 
- | [mingw-boost]({{< ref "/f27/package/mingw-boost.md" >}}) | 1 | 1 | 100.0 |  | 
- | [poedit]({{< ref "/f27/package/poedit.md" >}}) | 2639 | 2639 | 100.0 | Hebrew | 
- | [python-flask-admin]({{< ref "/f27/package/python-flask-admin.md" >}}) | 321 | 361 | 88.9 | Hebrew | 
- | [glpi]({{< ref "/f27/package/glpi.md" >}}) | 4604 | 11270 | 40.9 | Hebrew (Israel) (http://www.transifex.com/glpi/GLPI/language/he_IL/) | 
- | [smb4k]({{< ref "/f27/package/smb4k.md" >}}) | 11 | 29 | 37.9 | Hebrew <kde-i18n-doc@kde.org> | 
- | [squirrelmail]({{< ref "/f27/package/squirrelmail.md" >}}) | 2440 | 6878 | 35.5 | HEBREW <squirrelmail-i18n@lists.sourceforge.net> | 
- | [wxPython]({{< ref "/f27/package/wxPython.md" >}}) | 360 | 2457 | 14.7 | Hebrew <he@li.org> | 
- | [publican-fedora]({{< ref "/f27/package/publican-fedora.md" >}}) | 0 | 1 | 0.0 | None | 
- | [python-django-helpdesk]({{< ref "/f27/package/python-django-helpdesk.md" >}}) | 0 | 3241 | 0.0 | Hebrew (Israel) (http://www.transifex.com/rossp/django-helpdesk/language/he_IL/) | 
- | [python-django-rest-framework]({{< ref "/f27/package/python-django-rest-framework.md" >}}) | 0 | 582 | 0.0 | Hebrew (Israel) (http://www.transifex.com/django-rest-framework-1/django-rest-framework/language/he_IL/) | 
+ | [boost](/f27/package/boost) | 1 | 1 | 100.0 |  | 
+ | [ceph](/f27/package/ceph) | 1 | 1 | 100.0 |  | 
+ | [darktable](/f27/package/darktable) | 10078 | 10078 | 100.0 |  | 
+ | [mingw-boost](/f27/package/mingw-boost) | 1 | 1 | 100.0 |  | 
+ | [poedit](/f27/package/poedit) | 2639 | 2639 | 100.0 | Hebrew | 
+ | [python-flask-admin](/f27/package/python-flask-admin) | 321 | 361 | 88.9 | Hebrew | 
+ | [glpi](/f27/package/glpi) | 4604 | 11270 | 40.9 | Hebrew (Israel) (http://www.transifex.com/glpi/GLPI/language/he_IL/) | 
+ | [smb4k](/f27/package/smb4k) | 11 | 29 | 37.9 | Hebrew <kde-i18n-doc@kde.org> | 
+ | [squirrelmail](/f27/package/squirrelmail) | 2440 | 6878 | 35.5 | HEBREW <squirrelmail-i18n@lists.sourceforge.net> | 
+ | [wxPython](/f27/package/wxPython) | 360 | 2457 | 14.7 | Hebrew <he@li.org> | 
+ | [publican-fedora](/f27/package/publican-fedora) | 0 | 1 | 0.0 | None | 
+ | [python-django-helpdesk](/f27/package/python-django-helpdesk) | 0 | 3241 | 0.0 | Hebrew (Israel) (http://www.transifex.com/rossp/django-helpdesk/language/he_IL/) | 
+ | [python-django-rest-framework](/f27/package/python-django-rest-framework) | 0 | 582 | 0.0 | Hebrew (Israel) (http://www.transifex.com/django-rest-framework-1/django-rest-framework/language/he_IL/) | 
 {.sortable}
 
 

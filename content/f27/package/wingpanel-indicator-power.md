@@ -18,200 +18,200 @@ The package wingpanel-indicator-power (version 2.1.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f27/language/ca.md" >}}) | 93 | 93 | 100.0 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/ca.po | 
- | [cs]({{< ref "/f27/language/cs.md" >}}) | 93 | 93 | 100.0 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/cs.po | 
- | [da]({{< ref "/f27/language/da.md" >}}) | 93 | 93 | 100.0 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/da.po | 
- | [de]({{< ref "/f27/language/de.md" >}}) | 93 | 93 | 100.0 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/de.po | 
- | [en_CA]({{< ref "/f27/language/en_CA.md" >}}) | 93 | 93 | 100.0 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/en_CA.po | 
- | [es]({{< ref "/f27/language/es.md" >}}) | 93 | 93 | 100.0 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/es.po | 
- | [fi]({{< ref "/f27/language/fi.md" >}}) | 93 | 93 | 100.0 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/fi.po | 
- | [fr]({{< ref "/f27/language/fr.md" >}}) | 93 | 93 | 100.0 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/fr.po | 
- | [he]({{< ref "/f27/language/he.md" >}}) | 93 | 93 | 100.0 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/he.po | 
- | [hi]({{< ref "/f27/language/hi.md" >}}) | 93 | 93 | 100.0 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/hi.po | 
- | [hu]({{< ref "/f27/language/hu.md" >}}) | 93 | 93 | 100.0 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/hu.po | 
- | [it]({{< ref "/f27/language/it.md" >}}) | 93 | 93 | 100.0 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/it.po | 
- | [ja]({{< ref "/f27/language/ja.md" >}}) | 93 | 93 | 100.0 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/ja.po | 
- | [ko]({{< ref "/f27/language/ko.md" >}}) | 93 | 93 | 100.0 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/ko.po | 
- | [lt]({{< ref "/f27/language/lt.md" >}}) | 93 | 93 | 100.0 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/lt.po | 
- | [pl]({{< ref "/f27/language/pl.md" >}}) | 93 | 93 | 100.0 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/pl.po | 
- | [pt]({{< ref "/f27/language/pt.md" >}}) | 93 | 93 | 100.0 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/pt.po | 
- | [pt_BR]({{< ref "/f27/language/pt_BR.md" >}}) | 93 | 93 | 100.0 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/pt_BR.po | 
- | [ru]({{< ref "/f27/language/ru.md" >}}) | 93 | 93 | 100.0 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/ru.po | 
- | [sl]({{< ref "/f27/language/sl.md" >}}) | 93 | 93 | 100.0 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/sl.po | 
- | [tr]({{< ref "/f27/language/tr.md" >}}) | 93 | 93 | 100.0 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/tr.po | 
- | [bg]({{< ref "/f27/language/bg.md" >}}) | 89 | 93 | 95.7 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/bg.po | 
- | [el]({{< ref "/f27/language/el.md" >}}) | 89 | 93 | 95.7 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/el.po | 
- | [en_GB]({{< ref "/f27/language/en_GB.md" >}}) | 89 | 93 | 95.7 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/en_GB.po | 
- | [et]({{< ref "/f27/language/et.md" >}}) | 89 | 93 | 95.7 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/et.po | 
- | [fr_CA]({{< ref "/f27/language/fr_CA.md" >}}) | 89 | 93 | 95.7 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/fr_CA.po | 
- | [gl]({{< ref "/f27/language/gl.md" >}}) | 89 | 93 | 95.7 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/gl.po | 
- | [hr]({{< ref "/f27/language/hr.md" >}}) | 89 | 93 | 95.7 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/hr.po | 
- | [id]({{< ref "/f27/language/id.md" >}}) | 89 | 93 | 95.7 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/id.po | 
- | [ka]({{< ref "/f27/language/ka.md" >}}) | 89 | 93 | 95.7 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/ka.po | 
- | [ku]({{< ref "/f27/language/ku.md" >}}) | 89 | 93 | 95.7 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/ku.po | 
- | [lv]({{< ref "/f27/language/lv.md" >}}) | 89 | 93 | 95.7 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/lv.po | 
- | [nl]({{< ref "/f27/language/nl.md" >}}) | 89 | 93 | 95.7 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/nl.po | 
- | [nn]({{< ref "/f27/language/nn.md" >}}) | 89 | 93 | 95.7 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/nn.po | 
- | [ro]({{< ref "/f27/language/ro.md" >}}) | 89 | 93 | 95.7 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/ro.po | 
- | [sk]({{< ref "/f27/language/sk.md" >}}) | 89 | 93 | 95.7 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/sk.po | 
- | [sr]({{< ref "/f27/language/sr.md" >}}) | 89 | 93 | 95.7 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/sr.po | 
- | [sv]({{< ref "/f27/language/sv.md" >}}) | 89 | 93 | 95.7 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/sv.po | 
- | [th]({{< ref "/f27/language/th.md" >}}) | 89 | 93 | 95.7 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/th.po | 
- | [tl]({{< ref "/f27/language/tl.md" >}}) | 89 | 93 | 95.7 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/tl.po | 
- | [ug]({{< ref "/f27/language/ug.md" >}}) | 89 | 93 | 95.7 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/ug.po | 
- | [uk]({{< ref "/f27/language/uk.md" >}}) | 89 | 93 | 95.7 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/uk.po | 
- | [vi]({{< ref "/f27/language/vi.md" >}}) | 89 | 93 | 95.7 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/vi.po | 
- | [zh_Hant]({{< ref "/f27/language/zh_Hant.md" >}}) | 89 | 93 | 95.7 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/zh_TW.po | 
- | [be]({{< ref "/f27/language/be.md" >}}) | 88 | 93 | 94.6 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/be.po | 
- | [ms]({{< ref "/f27/language/ms.md" >}}) | 81 | 93 | 87.1 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/ms.po | 
- | [my]({{< ref "/f27/language/my.md" >}}) | 81 | 93 | 87.1 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/my.po | 
- | [en_AU]({{< ref "/f27/language/en_AU.md" >}}) | 64 | 93 | 68.8 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/en_AU.po | 
- | [bn]({{< ref "/f27/language/bn.md" >}}) | 57 | 93 | 61.3 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/bn.po | 
- | [nb_NO]({{< ref "/f27/language/nb_NO.md" >}}) | 93 | 186 | 50.0 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/no.po/mnt/stockage/packages/f27/wingpanel-indicator-power/po/nb.po | 
- | [zh_Hans]({{< ref "/f27/language/zh_Hans.md" >}}) | 93 | 186 | 50.0 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/zh_CN.po/mnt/stockage/packages/f27/wingpanel-indicator-power/po/zh.po | 
- | [az]({{< ref "/f27/language/az.md" >}}) | 25 | 93 | 26.9 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/az.po | 
- | [ckb]({{< ref "/f27/language/ckb.md" >}}) | 17 | 93 | 18.3 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/ckb.po | 
- | [ar]({{< ref "/f27/language/ar.md" >}}) | 15 | 93 | 16.1 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/ar.po | 
- | [si]({{< ref "/f27/language/si.md" >}}) | 14 | 93 | 15.1 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/si.po | 
- | [sq]({{< ref "/f27/language/sq.md" >}}) | 11 | 93 | 11.8 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/sq.po | 
- | [eo]({{< ref "/f27/language/eo.md" >}}) | 6 | 93 | 6.5 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/eo.po | 
- | [aa]({{< ref "/f27/language/aa.md" >}}) | 0 | 93 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/aa.po | 
- | [ab]({{< ref "/f27/language/ab.md" >}}) | 0 | 93 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/ab.po | 
- | [ae]({{< ref "/f27/language/ae.md" >}}) | 0 | 93 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/ae.po | 
- | [af]({{< ref "/f27/language/af.md" >}}) | 0 | 93 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/af.po | 
- | [ak]({{< ref "/f27/language/ak.md" >}}) | 0 | 93 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/ak.po | 
- | [am]({{< ref "/f27/language/am.md" >}}) | 0 | 93 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/am.po | 
- | [an]({{< ref "/f27/language/an.md" >}}) | 0 | 93 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/an.po | 
- | [as]({{< ref "/f27/language/as.md" >}}) | 0 | 93 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/as.po | 
- | [ast]({{< ref "/f27/language/ast.md" >}}) | 0 | 93 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/ast.po | 
- | [av]({{< ref "/f27/language/av.md" >}}) | 0 | 93 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/av.po | 
- | [ay]({{< ref "/f27/language/ay.md" >}}) | 0 | 93 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/ay.po | 
- | [ba]({{< ref "/f27/language/ba.md" >}}) | 0 | 93 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/ba.po | 
- | [bh]({{< ref "/f27/language/bh.md" >}}) | 0 | 93 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/bh.po | 
- | [bi]({{< ref "/f27/language/bi.md" >}}) | 0 | 93 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/bi.po | 
- | [bm]({{< ref "/f27/language/bm.md" >}}) | 0 | 93 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/bm.po | 
- | [bo]({{< ref "/f27/language/bo.md" >}}) | 0 | 93 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/bo.po | 
- | [br]({{< ref "/f27/language/br.md" >}}) | 0 | 93 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/br.po | 
- | [bs]({{< ref "/f27/language/bs.md" >}}) | 0 | 93 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/bs.po | 
- | [ce]({{< ref "/f27/language/ce.md" >}}) | 0 | 93 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/ce.po | 
- | [ch]({{< ref "/f27/language/ch.md" >}}) | 0 | 93 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/ch.po | 
- | [co]({{< ref "/f27/language/co.md" >}}) | 0 | 93 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/co.po | 
- | [cr]({{< ref "/f27/language/cr.md" >}}) | 0 | 93 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/cr.po | 
- | [cu]({{< ref "/f27/language/cu.md" >}}) | 0 | 93 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/cu.po | 
- | [cv]({{< ref "/f27/language/cv.md" >}}) | 0 | 93 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/cv.po | 
- | [cy]({{< ref "/f27/language/cy.md" >}}) | 0 | 93 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/cy.po | 
- | [dv]({{< ref "/f27/language/dv.md" >}}) | 0 | 93 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/dv.po | 
- | [dz]({{< ref "/f27/language/dz.md" >}}) | 0 | 93 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/dz.po | 
- | [ee]({{< ref "/f27/language/ee.md" >}}) | 0 | 93 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/ee.po | 
- | [eu]({{< ref "/f27/language/eu.md" >}}) | 0 | 93 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/eu.po | 
- | [fa]({{< ref "/f27/language/fa.md" >}}) | 0 | 93 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/fa.po | 
- | [ff]({{< ref "/f27/language/ff.md" >}}) | 0 | 93 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/ff.po | 
- | [fj]({{< ref "/f27/language/fj.md" >}}) | 0 | 93 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/fj.po | 
- | [fo]({{< ref "/f27/language/fo.md" >}}) | 0 | 93 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/fo.po | 
- | [fy]({{< ref "/f27/language/fy.md" >}}) | 0 | 93 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/fy.po | 
- | [ga]({{< ref "/f27/language/ga.md" >}}) | 0 | 93 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/ga.po | 
- | [gd]({{< ref "/f27/language/gd.md" >}}) | 0 | 93 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/gd.po | 
- | [gn]({{< ref "/f27/language/gn.md" >}}) | 0 | 93 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/gn.po | 
- | [gu]({{< ref "/f27/language/gu.md" >}}) | 0 | 93 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/gu.po | 
- | [gv]({{< ref "/f27/language/gv.md" >}}) | 0 | 93 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/gv.po | 
- | [ha]({{< ref "/f27/language/ha.md" >}}) | 0 | 93 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/ha.po | 
- | [ho]({{< ref "/f27/language/ho.md" >}}) | 0 | 93 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/ho.po | 
- | [ht]({{< ref "/f27/language/ht.md" >}}) | 0 | 93 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/ht.po | 
- | [hy]({{< ref "/f27/language/hy.md" >}}) | 0 | 93 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/hy.po | 
- | [hz]({{< ref "/f27/language/hz.md" >}}) | 0 | 93 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/hz.po | 
- | [ia]({{< ref "/f27/language/ia.md" >}}) | 0 | 93 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/ia.po | 
- | [ie]({{< ref "/f27/language/ie.md" >}}) | 0 | 93 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/ie.po | 
- | [ig]({{< ref "/f27/language/ig.md" >}}) | 0 | 93 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/ig.po | 
- | [ii]({{< ref "/f27/language/ii.md" >}}) | 0 | 93 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/ii.po | 
- | [ik]({{< ref "/f27/language/ik.md" >}}) | 0 | 93 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/ik.po | 
- | [io]({{< ref "/f27/language/io.md" >}}) | 0 | 93 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/io.po | 
- | [is]({{< ref "/f27/language/is.md" >}}) | 0 | 93 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/is.po | 
- | [iu]({{< ref "/f27/language/iu.md" >}}) | 0 | 93 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/iu.po | 
- | [jv]({{< ref "/f27/language/jv.md" >}}) | 0 | 93 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/jv.po | 
- | [kg]({{< ref "/f27/language/kg.md" >}}) | 0 | 93 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/kg.po | 
- | [ki]({{< ref "/f27/language/ki.md" >}}) | 0 | 93 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/ki.po | 
- | [kj]({{< ref "/f27/language/kj.md" >}}) | 0 | 93 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/kj.po | 
- | [kk]({{< ref "/f27/language/kk.md" >}}) | 0 | 93 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/kk.po | 
- | [kl]({{< ref "/f27/language/kl.md" >}}) | 0 | 93 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/kl.po | 
- | [km]({{< ref "/f27/language/km.md" >}}) | 0 | 93 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/km.po | 
- | [kn]({{< ref "/f27/language/kn.md" >}}) | 0 | 93 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/kn.po | 
- | [kr]({{< ref "/f27/language/kr.md" >}}) | 0 | 93 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/kr.po | 
- | [ks]({{< ref "/f27/language/ks.md" >}}) | 0 | 93 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/ks.po | 
- | [kv]({{< ref "/f27/language/kv.md" >}}) | 0 | 93 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/kv.po | 
- | [kw]({{< ref "/f27/language/kw.md" >}}) | 0 | 93 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/kw.po | 
- | [ky]({{< ref "/f27/language/ky.md" >}}) | 0 | 93 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/ky.po | 
- | [la]({{< ref "/f27/language/la.md" >}}) | 0 | 93 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/la.po | 
- | [lb]({{< ref "/f27/language/lb.md" >}}) | 0 | 93 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/lb.po | 
- | [lg]({{< ref "/f27/language/lg.md" >}}) | 0 | 93 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/lg.po | 
- | [li]({{< ref "/f27/language/li.md" >}}) | 0 | 93 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/li.po | 
- | [ln]({{< ref "/f27/language/ln.md" >}}) | 0 | 93 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/ln.po | 
- | [lo]({{< ref "/f27/language/lo.md" >}}) | 0 | 93 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/lo.po | 
- | [lu]({{< ref "/f27/language/lu.md" >}}) | 0 | 93 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/lu.po | 
- | [mg]({{< ref "/f27/language/mg.md" >}}) | 0 | 93 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/mg.po | 
- | [mh]({{< ref "/f27/language/mh.md" >}}) | 0 | 93 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/mh.po | 
- | [mi]({{< ref "/f27/language/mi.md" >}}) | 0 | 93 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/mi.po | 
- | [mk]({{< ref "/f27/language/mk.md" >}}) | 0 | 93 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/mk.po | 
- | [ml]({{< ref "/f27/language/ml.md" >}}) | 0 | 93 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/ml.po | 
- | [mn]({{< ref "/f27/language/mn.md" >}}) | 0 | 93 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/mn.po | 
- | [mr]({{< ref "/f27/language/mr.md" >}}) | 0 | 93 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/mr.po | 
- | [mt]({{< ref "/f27/language/mt.md" >}}) | 0 | 93 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/mt.po | 
- | [na]({{< ref "/f27/language/na.md" >}}) | 0 | 93 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/na.po | 
- | [nd]({{< ref "/f27/language/nd.md" >}}) | 0 | 93 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/nd.po | 
- | [ne]({{< ref "/f27/language/ne.md" >}}) | 0 | 93 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/ne.po | 
- | [ng]({{< ref "/f27/language/ng.md" >}}) | 0 | 93 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/ng.po | 
- | [nr]({{< ref "/f27/language/nr.md" >}}) | 0 | 93 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/nr.po | 
- | [nv]({{< ref "/f27/language/nv.md" >}}) | 0 | 93 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/nv.po | 
- | [ny]({{< ref "/f27/language/ny.md" >}}) | 0 | 93 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/ny.po | 
- | [oc]({{< ref "/f27/language/oc.md" >}}) | 0 | 93 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/oc.po | 
- | [oj]({{< ref "/f27/language/oj.md" >}}) | 0 | 93 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/oj.po | 
- | [om]({{< ref "/f27/language/om.md" >}}) | 0 | 93 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/om.po | 
- | [or]({{< ref "/f27/language/or.md" >}}) | 0 | 93 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/or.po | 
- | [os]({{< ref "/f27/language/os.md" >}}) | 0 | 93 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/os.po | 
- | [pa]({{< ref "/f27/language/pa.md" >}}) | 0 | 93 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/pa.po | 
- | [pi]({{< ref "/f27/language/pi.md" >}}) | 0 | 93 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/pi.po | 
- | [ps]({{< ref "/f27/language/ps.md" >}}) | 0 | 93 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/ps.po | 
- | [qu]({{< ref "/f27/language/qu.md" >}}) | 0 | 93 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/qu.po | 
- | [rm]({{< ref "/f27/language/rm.md" >}}) | 0 | 93 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/rm.po | 
- | [rn]({{< ref "/f27/language/rn.md" >}}) | 0 | 93 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/rn.po | 
- | [ro_MD]({{< ref "/f27/language/ro_MD.md" >}}) | 0 | 93 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/mo.po | 
- | [rue]({{< ref "/f27/language/rue.md" >}}) | 0 | 93 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/rue.po | 
- | [rw]({{< ref "/f27/language/rw.md" >}}) | 0 | 93 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/rw.po | 
- | [sa]({{< ref "/f27/language/sa.md" >}}) | 0 | 93 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/sa.po | 
- | [sc]({{< ref "/f27/language/sc.md" >}}) | 0 | 93 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/sc.po | 
- | [sd]({{< ref "/f27/language/sd.md" >}}) | 0 | 93 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/sd.po | 
- | [se]({{< ref "/f27/language/se.md" >}}) | 0 | 93 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/se.po | 
- | [sg]({{< ref "/f27/language/sg.md" >}}) | 0 | 93 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/sg.po | 
- | [sm]({{< ref "/f27/language/sm.md" >}}) | 0 | 93 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/sm.po | 
- | [sma]({{< ref "/f27/language/sma.md" >}}) | 0 | 93 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/sma.po | 
- | [sn]({{< ref "/f27/language/sn.md" >}}) | 0 | 93 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/sn.po | 
- | [so]({{< ref "/f27/language/so.md" >}}) | 0 | 93 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/so.po | 
- | [ss]({{< ref "/f27/language/ss.md" >}}) | 0 | 93 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/ss.po | 
- | [st]({{< ref "/f27/language/st.md" >}}) | 0 | 93 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/st.po | 
- | [su]({{< ref "/f27/language/su.md" >}}) | 0 | 93 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/su.po | 
- | [sw]({{< ref "/f27/language/sw.md" >}}) | 0 | 93 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/sw.po | 
- | [ta]({{< ref "/f27/language/ta.md" >}}) | 0 | 93 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/ta.po | 
- | [te]({{< ref "/f27/language/te.md" >}}) | 0 | 93 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/te.po | 
- | [tg]({{< ref "/f27/language/tg.md" >}}) | 0 | 93 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/tg.po | 
- | [ti]({{< ref "/f27/language/ti.md" >}}) | 0 | 93 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/ti.po | 
- | [tk]({{< ref "/f27/language/tk.md" >}}) | 0 | 93 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/tk.po | 
- | [tn]({{< ref "/f27/language/tn.md" >}}) | 0 | 93 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/tn.po | 
- | [to]({{< ref "/f27/language/to.md" >}}) | 0 | 93 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/to.po | 
- | [ts]({{< ref "/f27/language/ts.md" >}}) | 0 | 93 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/ts.po | 
- | [tt]({{< ref "/f27/language/tt.md" >}}) | 0 | 93 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/tt.po | 
- | [tw]({{< ref "/f27/language/tw.md" >}}) | 0 | 93 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/tw.po | 
- | [ty]({{< ref "/f27/language/ty.md" >}}) | 0 | 93 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/ty.po | 
- | [ur]({{< ref "/f27/language/ur.md" >}}) | 0 | 93 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/ur.po | 
- | [uz]({{< ref "/f27/language/uz.md" >}}) | 0 | 93 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/uz.po | 
- | [ve]({{< ref "/f27/language/ve.md" >}}) | 0 | 93 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/ve.po | 
- | [vo]({{< ref "/f27/language/vo.md" >}}) | 0 | 93 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/vo.po | 
- | [wa]({{< ref "/f27/language/wa.md" >}}) | 0 | 93 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/wa.po | 
- | [wo]({{< ref "/f27/language/wo.md" >}}) | 0 | 93 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/wo.po | 
- | [xh]({{< ref "/f27/language/xh.md" >}}) | 0 | 93 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/xh.po | 
- | [yi]({{< ref "/f27/language/yi.md" >}}) | 0 | 93 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/yi.po | 
- | [yo]({{< ref "/f27/language/yo.md" >}}) | 0 | 93 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/yo.po | 
- | [za]({{< ref "/f27/language/za.md" >}}) | 0 | 93 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/za.po | 
- | [zh_Hant_HK]({{< ref "/f27/language/zh_Hant_HK.md" >}}) | 0 | 93 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/zh_HK.po | 
- | [zu]({{< ref "/f27/language/zu.md" >}}) | 0 | 93 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/zu.po | 
+ | [ca](/f27/language/ca) | 93 | 93 | 100.0 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/ca.po | 
+ | [cs](/f27/language/cs) | 93 | 93 | 100.0 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/cs.po | 
+ | [da](/f27/language/da) | 93 | 93 | 100.0 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/da.po | 
+ | [de](/f27/language/de) | 93 | 93 | 100.0 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/de.po | 
+ | [en_CA](/f27/language/en_CA) | 93 | 93 | 100.0 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/en_CA.po | 
+ | [es](/f27/language/es) | 93 | 93 | 100.0 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/es.po | 
+ | [fi](/f27/language/fi) | 93 | 93 | 100.0 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/fi.po | 
+ | [fr](/f27/language/fr) | 93 | 93 | 100.0 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/fr.po | 
+ | [he](/f27/language/he) | 93 | 93 | 100.0 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/he.po | 
+ | [hi](/f27/language/hi) | 93 | 93 | 100.0 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/hi.po | 
+ | [hu](/f27/language/hu) | 93 | 93 | 100.0 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/hu.po | 
+ | [it](/f27/language/it) | 93 | 93 | 100.0 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/it.po | 
+ | [ja](/f27/language/ja) | 93 | 93 | 100.0 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/ja.po | 
+ | [ko](/f27/language/ko) | 93 | 93 | 100.0 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/ko.po | 
+ | [lt](/f27/language/lt) | 93 | 93 | 100.0 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/lt.po | 
+ | [pl](/f27/language/pl) | 93 | 93 | 100.0 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/pl.po | 
+ | [pt](/f27/language/pt) | 93 | 93 | 100.0 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/pt.po | 
+ | [pt_BR](/f27/language/pt_BR) | 93 | 93 | 100.0 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/pt_BR.po | 
+ | [ru](/f27/language/ru) | 93 | 93 | 100.0 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/ru.po | 
+ | [sl](/f27/language/sl) | 93 | 93 | 100.0 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/sl.po | 
+ | [tr](/f27/language/tr) | 93 | 93 | 100.0 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/tr.po | 
+ | [bg](/f27/language/bg) | 89 | 93 | 95.7 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/bg.po | 
+ | [el](/f27/language/el) | 89 | 93 | 95.7 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/el.po | 
+ | [en_GB](/f27/language/en_GB) | 89 | 93 | 95.7 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/en_GB.po | 
+ | [et](/f27/language/et) | 89 | 93 | 95.7 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/et.po | 
+ | [fr_CA](/f27/language/fr_CA) | 89 | 93 | 95.7 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/fr_CA.po | 
+ | [gl](/f27/language/gl) | 89 | 93 | 95.7 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/gl.po | 
+ | [hr](/f27/language/hr) | 89 | 93 | 95.7 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/hr.po | 
+ | [id](/f27/language/id) | 89 | 93 | 95.7 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/id.po | 
+ | [ka](/f27/language/ka) | 89 | 93 | 95.7 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/ka.po | 
+ | [ku](/f27/language/ku) | 89 | 93 | 95.7 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/ku.po | 
+ | [lv](/f27/language/lv) | 89 | 93 | 95.7 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/lv.po | 
+ | [nl](/f27/language/nl) | 89 | 93 | 95.7 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/nl.po | 
+ | [nn](/f27/language/nn) | 89 | 93 | 95.7 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/nn.po | 
+ | [ro](/f27/language/ro) | 89 | 93 | 95.7 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/ro.po | 
+ | [sk](/f27/language/sk) | 89 | 93 | 95.7 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/sk.po | 
+ | [sr](/f27/language/sr) | 89 | 93 | 95.7 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/sr.po | 
+ | [sv](/f27/language/sv) | 89 | 93 | 95.7 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/sv.po | 
+ | [th](/f27/language/th) | 89 | 93 | 95.7 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/th.po | 
+ | [tl](/f27/language/tl) | 89 | 93 | 95.7 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/tl.po | 
+ | [ug](/f27/language/ug) | 89 | 93 | 95.7 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/ug.po | 
+ | [uk](/f27/language/uk) | 89 | 93 | 95.7 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/uk.po | 
+ | [vi](/f27/language/vi) | 89 | 93 | 95.7 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/vi.po | 
+ | [zh_Hant](/f27/language/zh_Hant) | 89 | 93 | 95.7 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/zh_TW.po | 
+ | [be](/f27/language/be) | 88 | 93 | 94.6 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/be.po | 
+ | [ms](/f27/language/ms) | 81 | 93 | 87.1 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/ms.po | 
+ | [my](/f27/language/my) | 81 | 93 | 87.1 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/my.po | 
+ | [en_AU](/f27/language/en_AU) | 64 | 93 | 68.8 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/en_AU.po | 
+ | [bn](/f27/language/bn) | 57 | 93 | 61.3 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/bn.po | 
+ | [nb_NO](/f27/language/nb_NO) | 93 | 186 | 50.0 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/no.po/mnt/stockage/packages/f27/wingpanel-indicator-power/po/nb.po | 
+ | [zh_Hans](/f27/language/zh_Hans) | 93 | 186 | 50.0 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/zh_CN.po/mnt/stockage/packages/f27/wingpanel-indicator-power/po/zh.po | 
+ | [az](/f27/language/az) | 25 | 93 | 26.9 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/az.po | 
+ | [ckb](/f27/language/ckb) | 17 | 93 | 18.3 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/ckb.po | 
+ | [ar](/f27/language/ar) | 15 | 93 | 16.1 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/ar.po | 
+ | [si](/f27/language/si) | 14 | 93 | 15.1 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/si.po | 
+ | [sq](/f27/language/sq) | 11 | 93 | 11.8 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/sq.po | 
+ | [eo](/f27/language/eo) | 6 | 93 | 6.5 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/eo.po | 
+ | [aa](/f27/language/aa) | 0 | 93 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/aa.po | 
+ | [ab](/f27/language/ab) | 0 | 93 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/ab.po | 
+ | [ae](/f27/language/ae) | 0 | 93 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/ae.po | 
+ | [af](/f27/language/af) | 0 | 93 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/af.po | 
+ | [ak](/f27/language/ak) | 0 | 93 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/ak.po | 
+ | [am](/f27/language/am) | 0 | 93 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/am.po | 
+ | [an](/f27/language/an) | 0 | 93 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/an.po | 
+ | [as](/f27/language/as) | 0 | 93 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/as.po | 
+ | [ast](/f27/language/ast) | 0 | 93 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/ast.po | 
+ | [av](/f27/language/av) | 0 | 93 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/av.po | 
+ | [ay](/f27/language/ay) | 0 | 93 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/ay.po | 
+ | [ba](/f27/language/ba) | 0 | 93 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/ba.po | 
+ | [bh](/f27/language/bh) | 0 | 93 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/bh.po | 
+ | [bi](/f27/language/bi) | 0 | 93 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/bi.po | 
+ | [bm](/f27/language/bm) | 0 | 93 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/bm.po | 
+ | [bo](/f27/language/bo) | 0 | 93 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/bo.po | 
+ | [br](/f27/language/br) | 0 | 93 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/br.po | 
+ | [bs](/f27/language/bs) | 0 | 93 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/bs.po | 
+ | [ce](/f27/language/ce) | 0 | 93 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/ce.po | 
+ | [ch](/f27/language/ch) | 0 | 93 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/ch.po | 
+ | [co](/f27/language/co) | 0 | 93 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/co.po | 
+ | [cr](/f27/language/cr) | 0 | 93 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/cr.po | 
+ | [cu](/f27/language/cu) | 0 | 93 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/cu.po | 
+ | [cv](/f27/language/cv) | 0 | 93 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/cv.po | 
+ | [cy](/f27/language/cy) | 0 | 93 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/cy.po | 
+ | [dv](/f27/language/dv) | 0 | 93 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/dv.po | 
+ | [dz](/f27/language/dz) | 0 | 93 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/dz.po | 
+ | [ee](/f27/language/ee) | 0 | 93 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/ee.po | 
+ | [eu](/f27/language/eu) | 0 | 93 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/eu.po | 
+ | [fa](/f27/language/fa) | 0 | 93 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/fa.po | 
+ | [ff](/f27/language/ff) | 0 | 93 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/ff.po | 
+ | [fj](/f27/language/fj) | 0 | 93 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/fj.po | 
+ | [fo](/f27/language/fo) | 0 | 93 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/fo.po | 
+ | [fy](/f27/language/fy) | 0 | 93 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/fy.po | 
+ | [ga](/f27/language/ga) | 0 | 93 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/ga.po | 
+ | [gd](/f27/language/gd) | 0 | 93 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/gd.po | 
+ | [gn](/f27/language/gn) | 0 | 93 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/gn.po | 
+ | [gu](/f27/language/gu) | 0 | 93 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/gu.po | 
+ | [gv](/f27/language/gv) | 0 | 93 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/gv.po | 
+ | [ha](/f27/language/ha) | 0 | 93 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/ha.po | 
+ | [ho](/f27/language/ho) | 0 | 93 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/ho.po | 
+ | [ht](/f27/language/ht) | 0 | 93 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/ht.po | 
+ | [hy](/f27/language/hy) | 0 | 93 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/hy.po | 
+ | [hz](/f27/language/hz) | 0 | 93 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/hz.po | 
+ | [ia](/f27/language/ia) | 0 | 93 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/ia.po | 
+ | [ie](/f27/language/ie) | 0 | 93 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/ie.po | 
+ | [ig](/f27/language/ig) | 0 | 93 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/ig.po | 
+ | [ii](/f27/language/ii) | 0 | 93 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/ii.po | 
+ | [ik](/f27/language/ik) | 0 | 93 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/ik.po | 
+ | [io](/f27/language/io) | 0 | 93 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/io.po | 
+ | [is](/f27/language/is) | 0 | 93 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/is.po | 
+ | [iu](/f27/language/iu) | 0 | 93 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/iu.po | 
+ | [jv](/f27/language/jv) | 0 | 93 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/jv.po | 
+ | [kg](/f27/language/kg) | 0 | 93 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/kg.po | 
+ | [ki](/f27/language/ki) | 0 | 93 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/ki.po | 
+ | [kj](/f27/language/kj) | 0 | 93 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/kj.po | 
+ | [kk](/f27/language/kk) | 0 | 93 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/kk.po | 
+ | [kl](/f27/language/kl) | 0 | 93 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/kl.po | 
+ | [km](/f27/language/km) | 0 | 93 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/km.po | 
+ | [kn](/f27/language/kn) | 0 | 93 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/kn.po | 
+ | [kr](/f27/language/kr) | 0 | 93 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/kr.po | 
+ | [ks](/f27/language/ks) | 0 | 93 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/ks.po | 
+ | [kv](/f27/language/kv) | 0 | 93 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/kv.po | 
+ | [kw](/f27/language/kw) | 0 | 93 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/kw.po | 
+ | [ky](/f27/language/ky) | 0 | 93 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/ky.po | 
+ | [la](/f27/language/la) | 0 | 93 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/la.po | 
+ | [lb](/f27/language/lb) | 0 | 93 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/lb.po | 
+ | [lg](/f27/language/lg) | 0 | 93 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/lg.po | 
+ | [li](/f27/language/li) | 0 | 93 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/li.po | 
+ | [ln](/f27/language/ln) | 0 | 93 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/ln.po | 
+ | [lo](/f27/language/lo) | 0 | 93 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/lo.po | 
+ | [lu](/f27/language/lu) | 0 | 93 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/lu.po | 
+ | [mg](/f27/language/mg) | 0 | 93 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/mg.po | 
+ | [mh](/f27/language/mh) | 0 | 93 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/mh.po | 
+ | [mi](/f27/language/mi) | 0 | 93 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/mi.po | 
+ | [mk](/f27/language/mk) | 0 | 93 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/mk.po | 
+ | [ml](/f27/language/ml) | 0 | 93 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/ml.po | 
+ | [mn](/f27/language/mn) | 0 | 93 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/mn.po | 
+ | [mr](/f27/language/mr) | 0 | 93 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/mr.po | 
+ | [mt](/f27/language/mt) | 0 | 93 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/mt.po | 
+ | [na](/f27/language/na) | 0 | 93 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/na.po | 
+ | [nd](/f27/language/nd) | 0 | 93 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/nd.po | 
+ | [ne](/f27/language/ne) | 0 | 93 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/ne.po | 
+ | [ng](/f27/language/ng) | 0 | 93 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/ng.po | 
+ | [nr](/f27/language/nr) | 0 | 93 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/nr.po | 
+ | [nv](/f27/language/nv) | 0 | 93 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/nv.po | 
+ | [ny](/f27/language/ny) | 0 | 93 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/ny.po | 
+ | [oc](/f27/language/oc) | 0 | 93 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/oc.po | 
+ | [oj](/f27/language/oj) | 0 | 93 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/oj.po | 
+ | [om](/f27/language/om) | 0 | 93 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/om.po | 
+ | [or](/f27/language/or) | 0 | 93 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/or.po | 
+ | [os](/f27/language/os) | 0 | 93 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/os.po | 
+ | [pa](/f27/language/pa) | 0 | 93 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/pa.po | 
+ | [pi](/f27/language/pi) | 0 | 93 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/pi.po | 
+ | [ps](/f27/language/ps) | 0 | 93 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/ps.po | 
+ | [qu](/f27/language/qu) | 0 | 93 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/qu.po | 
+ | [rm](/f27/language/rm) | 0 | 93 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/rm.po | 
+ | [rn](/f27/language/rn) | 0 | 93 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/rn.po | 
+ | [ro_MD](/f27/language/ro_MD) | 0 | 93 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/mo.po | 
+ | [rue](/f27/language/rue) | 0 | 93 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/rue.po | 
+ | [rw](/f27/language/rw) | 0 | 93 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/rw.po | 
+ | [sa](/f27/language/sa) | 0 | 93 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/sa.po | 
+ | [sc](/f27/language/sc) | 0 | 93 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/sc.po | 
+ | [sd](/f27/language/sd) | 0 | 93 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/sd.po | 
+ | [se](/f27/language/se) | 0 | 93 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/se.po | 
+ | [sg](/f27/language/sg) | 0 | 93 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/sg.po | 
+ | [sm](/f27/language/sm) | 0 | 93 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/sm.po | 
+ | [sma](/f27/language/sma) | 0 | 93 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/sma.po | 
+ | [sn](/f27/language/sn) | 0 | 93 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/sn.po | 
+ | [so](/f27/language/so) | 0 | 93 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/so.po | 
+ | [ss](/f27/language/ss) | 0 | 93 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/ss.po | 
+ | [st](/f27/language/st) | 0 | 93 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/st.po | 
+ | [su](/f27/language/su) | 0 | 93 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/su.po | 
+ | [sw](/f27/language/sw) | 0 | 93 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/sw.po | 
+ | [ta](/f27/language/ta) | 0 | 93 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/ta.po | 
+ | [te](/f27/language/te) | 0 | 93 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/te.po | 
+ | [tg](/f27/language/tg) | 0 | 93 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/tg.po | 
+ | [ti](/f27/language/ti) | 0 | 93 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/ti.po | 
+ | [tk](/f27/language/tk) | 0 | 93 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/tk.po | 
+ | [tn](/f27/language/tn) | 0 | 93 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/tn.po | 
+ | [to](/f27/language/to) | 0 | 93 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/to.po | 
+ | [ts](/f27/language/ts) | 0 | 93 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/ts.po | 
+ | [tt](/f27/language/tt) | 0 | 93 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/tt.po | 
+ | [tw](/f27/language/tw) | 0 | 93 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/tw.po | 
+ | [ty](/f27/language/ty) | 0 | 93 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/ty.po | 
+ | [ur](/f27/language/ur) | 0 | 93 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/ur.po | 
+ | [uz](/f27/language/uz) | 0 | 93 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/uz.po | 
+ | [ve](/f27/language/ve) | 0 | 93 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/ve.po | 
+ | [vo](/f27/language/vo) | 0 | 93 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/vo.po | 
+ | [wa](/f27/language/wa) | 0 | 93 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/wa.po | 
+ | [wo](/f27/language/wo) | 0 | 93 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/wo.po | 
+ | [xh](/f27/language/xh) | 0 | 93 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/xh.po | 
+ | [yi](/f27/language/yi) | 0 | 93 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/yi.po | 
+ | [yo](/f27/language/yo) | 0 | 93 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/yo.po | 
+ | [za](/f27/language/za) | 0 | 93 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/za.po | 
+ | [zh_Hant_HK](/f27/language/zh_Hant_HK) | 0 | 93 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/zh_HK.po | 
+ | [zu](/f27/language/zu) | 0 | 93 | 0.0 | /mnt/stockage/packages/f27/wingpanel-indicator-power/po/zu.po | 
 {.sortable}
 
 

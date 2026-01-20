@@ -38,123 +38,123 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [kf5-kjsembed]({{< ref "/f39/package/kf5-kjsembed.md" >}}) | 248 | 248 | 100.0 | Tatar <> | 
- | [kf5-kpty]({{< ref "/f39/package/kf5-kpty.md" >}}) | 15 | 15 | 100.0 | Tatar <> | 
- | [libgnomecanvas]({{< ref "/f39/package/libgnomecanvas.md" >}}) | 357 | 357 | 100.0 | Tatarish <tatarish.l10n@gmail.com> | 
- | [lxmenu-data]({{< ref "/f39/package/lxmenu-data.md" >}}) | 97 | 97 | 100.0 | Tatar <> | 
- | [lxshortcut]({{< ref "/f39/package/lxshortcut.md" >}}) | 43 | 43 | 100.0 | LANGUAGE <LL@li.org> | 
- | [at-spi2-core]({{< ref "/f39/package/at-spi2-core.md" >}}) | 359 | 375 | 95.7 | Tatarish <tatarish.l10n@gmail.com> | 
- | [mingw-atk]({{< ref "/f39/package/mingw-atk.md" >}}) | 359 | 375 | 95.7 | Tatarish <tatarish.l10n@gmail.com> | 
- | [kf5-ktextwidgets]({{< ref "/f39/package/kf5-ktextwidgets.md" >}}) | 450 | 473 | 95.1 | Tatar <> | 
- | [lxlauncher]({{< ref "/f39/package/lxlauncher.md" >}}) | 51 | 58 | 87.9 | LANGUAGE <LL@li.org> | 
- | [supertux]({{< ref "/f39/package/supertux.md" >}}) | 2696 | 3079 | 87.6 | Tatar (http://www.transifex.com/arctic-games/supertux/language/tt/) | 
- | [kf5-khtml]({{< ref "/f39/package/kf5-khtml.md" >}}) | 1448 | 1667 | 86.9 | Tatar <> | 
- | [lxinput]({{< ref "/f39/package/lxinput.md" >}}) | 72 | 83 | 86.7 | Tatar <> | 
- | [kf5-kross]({{< ref "/f39/package/kf5-kross.md" >}}) | 82 | 100 | 82.0 | Tatar <> | 
- | [folder-color-switcher]({{< ref "/f39/package/folder-color-switcher.md" >}}) | 51 | 65 | 78.5 | Tatar <tt@li.org> | 
- | [kf5-kparts]({{< ref "/f39/package/kf5-kparts.md" >}}) | 104 | 138 | 75.4 | Tatar <> | 
- | [kf5-kinit]({{< ref "/f39/package/kf5-kinit.md" >}}) | 85 | 116 | 73.3 | Tatar <> | 
- | [kf5-kcmutils]({{< ref "/f39/package/kf5-kcmutils.md" >}}) | 183 | 266 | 68.8 | Tatar <> | 
- | [kf5-knotifyconfig]({{< ref "/f39/package/kf5-knotifyconfig.md" >}}) | 86 | 129 | 66.7 | Tatar <> | 
- | [lxdm]({{< ref "/f39/package/lxdm.md" >}}) | 31 | 48 | 64.6 | Tatar <> | 
- | [kf5-kxmlgui]({{< ref "/f39/package/kf5-kxmlgui.md" >}}) | 949 | 1574 | 60.3 | Tatar <> | 
- | [kf5-kservice]({{< ref "/f39/package/kf5-kservice.md" >}}) | 80 | 173 | 46.2 | Tatar <> | 
- | [lxmusic]({{< ref "/f39/package/lxmusic.md" >}}) | 93 | 203 | 45.8 | Tatar <> | 
- | [python-django]({{< ref "/f39/package/python-django.md" >}}) | 1463 | 3516 | 41.6 | Tatar (http://www.transifex.com/django/django/language/tt/) | 
- | [python-django4.2]({{< ref "/f39/package/python-django4.2.md" >}}) | 1463 | 3516 | 41.6 | Tatar (http://www.transifex.com/django/django/language/tt/) | 
- | [kf5-kconfigwidgets]({{< ref "/f39/package/kf5-kconfigwidgets.md" >}}) | 141 | 342 | 41.2 | Tatar <> | 
- | [kf5-kdeclarative]({{< ref "/f39/package/kf5-kdeclarative.md" >}}) | 62 | 161 | 38.5 | Tatar <> | 
- | [libgnomeui]({{< ref "/f39/package/libgnomeui.md" >}}) | 536 | 1419 | 37.8 | Tatarish <tatarish.l10n@gmail.com> | 
- | [supertuxkart]({{< ref "/f39/package/supertuxkart.md" >}}) | 2189 | 5959 | 36.7 | Tatar (http://www.transifex.com/supertuxkart/supertuxkart/language/tt/) | 
- | [kf5-ki18n]({{< ref "/f39/package/kf5-ki18n.md" >}}) | 42 | 124 | 33.9 | Tatar <> | 
- | [gdk-pixbuf2]({{< ref "/f39/package/gdk-pixbuf2.md" >}}) | 388 | 1348 | 28.8 | Tatarish <tatarish.l10n@gmail.com> | 
- | [mingw-gdk-pixbuf]({{< ref "/f39/package/mingw-gdk-pixbuf.md" >}}) | 388 | 1348 | 28.8 | Tatarish <tatarish.l10n@gmail.com> | 
- | [libfm]({{< ref "/f39/package/libfm.md" >}}) | 442 | 1575 | 28.1 |  | 
- | [kf5-knewstuff]({{< ref "/f39/package/kf5-knewstuff.md" >}}) | 289 | 1631 | 17.7 | Tatar <> | 
- | [kf5-kdelibs4support]({{< ref "/f39/package/kf5-kdelibs4support.md" >}}) | 894 | 5353 | 16.7 | Tatar <> | 
- | [budgie-desktop]({{< ref "/f39/package/budgie-desktop.md" >}}) | 196 | 1220 | 16.1 | Tatar <http://translate.getsol.us/projects/budgie-desktop/translations/tt/> | 
- | [vlc]({{< ref "/f39/package/vlc.md" >}}) | 3855 | 34779 | 11.1 | Tatar (https://app.transifex.com/yaron/teams/16553/tt/) | 
- | [mozo]({{< ref "/f39/package/mozo.md" >}}) | 5 | 46 | 10.9 | Tatar (https://www.transifex.com/mate/teams/13566/tt/) | 
- | [libgnome]({{< ref "/f39/package/libgnome.md" >}}) | 156 | 1494 | 10.4 | Tatarish <tatarish.l10n@gmail.com> | 
- | [gtk2]({{< ref "/f39/package/gtk2.md" >}}) | 1141 | 13704 | 8.3 | Tatarish <tatarish.l10n@gmail.com> | 
- | [mingw-gtk2]({{< ref "/f39/package/mingw-gtk2.md" >}}) | 1141 | 13704 | 8.3 | Tatarish <tatarish.l10n@gmail.com> | 
- | [gtk4]({{< ref "/f39/package/gtk4.md" >}}) | 186 | 2432 | 7.6 | Tatarish <tatarish.l10n@gmail.com> | 
- | [mingw-gtk4]({{< ref "/f39/package/mingw-gtk4.md" >}}) | 186 | 2432 | 7.6 | Tatarish <tatarish.l10n@gmail.com> | 
- | [glib2]({{< ref "/f39/package/glib2.md" >}}) | 345 | 4777 | 7.2 | Tatarish <tatarish.l10n@gmail.com> | 
- | [mingw-glib2]({{< ref "/f39/package/mingw-glib2.md" >}}) | 345 | 4777 | 7.2 | Tatarish <tatarish.l10n@gmail.com> | 
- | [gimp]({{< ref "/f39/package/gimp.md" >}}) | 901 | 13840 | 6.5 | Tatarish <tatarish.l10n@gmail.com> | 
- | [gimp3]({{< ref "/f39/package/gimp3.md" >}}) | 901 | 13840 | 6.5 | Tatarish <tatarish.l10n@gmail.com> | 
- | [iso-codes]({{< ref "/f39/package/iso-codes.md" >}}) | 1012 | 15908 | 6.4 | Tatarish <tatarish.l10n@gmail.com> | 
- | [xreader]({{< ref "/f39/package/xreader.md" >}}) | 101 | 1625 | 6.2 | Tatar <tt@li.org> | 
- | [gtk3]({{< ref "/f39/package/gtk3.md" >}}) | 695 | 11853 | 5.9 | Tatarish <tatarish.l10n@gmail.com> | 
- | [mingw-gtk3]({{< ref "/f39/package/mingw-gtk3.md" >}}) | 695 | 11853 | 5.9 | Tatarish <tatarish.l10n@gmail.com> | 
- | [libreoffice]({{< ref "/f39/package/libreoffice.md" >}}) | 9884 | 171188 | 5.8 | LANGUAGE <LL@li.org> | 
- | [cinnamon-translations]({{< ref "/f39/package/cinnamon-translations.md" >}}) | 614 | 18676 | 3.3 | Tatar <tt@li.org> | 
- | [isomaster]({{< ref "/f39/package/isomaster.md" >}}) | 17 | 674 | 2.5 | http://littlesvr.ca/ostd/ | 
- | [hunspell]({{< ref "/f39/package/hunspell.md" >}}) | 12 | 613 | 2.0 | Tatar <https://hosted.weblate.org/projects/hunspell/translations/tt/> | 
- | [mingw-hunspell]({{< ref "/f39/package/mingw-hunspell.md" >}}) | 12 | 613 | 2.0 | Tatar <https://hosted.weblate.org/projects/hunspell/translations/tt/> | 
- | [mate-desktop]({{< ref "/f39/package/mate-desktop.md" >}}) | 46 | 2376 | 1.9 | Tatar (https://app.transifex.com/mate/teams/13566/tt/) | 
- | [slick-greeter]({{< ref "/f39/package/slick-greeter.md" >}}) | 4 | 216 | 1.9 | Tatar <tt@li.org> | 
- | [minetest]({{< ref "/f39/package/minetest.md" >}}) | 160 | 9676 | 1.7 | Tatar <https://hosted.weblate.org/projects/minetest/minetest/tt/> | 
- | [mate-session-manager]({{< ref "/f39/package/mate-session-manager.md" >}}) | 11 | 715 | 1.5 | Tatar (https://app.transifex.com/mate/teams/13566/tt/) | 
- | [warzone2100]({{< ref "/f39/package/warzone2100.md" >}}) | 236 | 15773 | 1.5 | Tatar | 
- | [pluma]({{< ref "/f39/package/pluma.md" >}}) | 76 | 5707 | 1.3 | Tatar (https://app.transifex.com/mate/teams/13566/tt/) | 
- | [eom]({{< ref "/f39/package/eom.md" >}}) | 22 | 1779 | 1.2 | Tatar (https://app.transifex.com/mate/teams/13566/tt/) | 
- | [mate-system-monitor]({{< ref "/f39/package/mate-system-monitor.md" >}}) | 19 | 1558 | 1.2 | Tatar (https://app.transifex.com/mate/teams/13566/tt/) | 
- | [asunder]({{< ref "/f39/package/asunder.md" >}}) | 6 | 493 | 1.2 | http://littlesvr.ca/ostd/ | 
- | [engrampa]({{< ref "/f39/package/engrampa.md" >}}) | 24 | 2049 | 1.2 | Tatar (https://app.transifex.com/mate/teams/13566/tt/) | 
- | [mate-sensors-applet]({{< ref "/f39/package/mate-sensors-applet.md" >}}) | 3 | 313 | 1.0 | Tatar (https://www.transifex.com/mate/teams/13566/tt/) | 
- | [mate-polkit]({{< ref "/f39/package/mate-polkit.md" >}}) | 1 | 123 | 0.8 | Tatar (https://www.transifex.com/mate/teams/13566/tt/) | 
- | [xed]({{< ref "/f39/package/xed.md" >}}) | 28 | 3759 | 0.7 | Tatar <tt@li.org> | 
- | [atril]({{< ref "/f39/package/atril.md" >}}) | 17 | 2326 | 0.7 | Tatar (https://app.transifex.com/mate/teams/13566/tt/) | 
- | [mate-screensaver]({{< ref "/f39/package/mate-screensaver.md" >}}) | 8 | 1101 | 0.7 | Tatar (https://app.transifex.com/mate/teams/13566/tt/) | 
- | [mate-menu]({{< ref "/f39/package/mate-menu.md" >}}) | 2 | 308 | 0.6 | Tatar (http://www.transifex.com/mate/MATE/language/tt/) | 
- | [mate-calc]({{< ref "/f39/package/mate-calc.md" >}}) | 10 | 1578 | 0.6 | Tatar (https://www.transifex.com/mate/teams/13566/tt/) | 
- | [mate-utils]({{< ref "/f39/package/mate-utils.md" >}}) | 24 | 3879 | 0.6 | Tatar (https://app.transifex.com/mate/teams/13566/tt/) | 
- | [pidgin]({{< ref "/f39/package/pidgin.md" >}}) | 69 | 13994 | 0.5 | Tatar (http://www.transifex.com/pidgin/pidgin/language/tt/) | 
- | [mate-terminal]({{< ref "/f39/package/mate-terminal.md" >}}) | 19 | 4719 | 0.4 | Tatar (https://app.transifex.com/mate/teams/13566/tt/) | 
- | [mate-control-center]({{< ref "/f39/package/mate-control-center.md" >}}) | 13 | 3331 | 0.4 | Tatar (https://www.transifex.com/mate/teams/13566/tt/) | 
- | [mate-panel]({{< ref "/f39/package/mate-panel.md" >}}) | 16 | 4678 | 0.3 | Tatar (https://app.transifex.com/mate/teams/13566/tt/) | 
- | [caja]({{< ref "/f39/package/caja.md" >}}) | 31 | 9675 | 0.3 | Tatar (https://www.transifex.com/mate/teams/13566/tt/) | 
- | [calibre]({{< ref "/f39/package/calibre.md" >}}) | 175 | 170967 | 0.1 | Tatar (http://www.transifex.com/calibre/calibre/language/tt/) | 
- | [bookworm]({{< ref "/f39/package/bookworm.md" >}}) | 0 | 795 | 0.0 |  | 
- | [chromium]({{< ref "/f39/package/chromium.md" >}}) | 0 | 0 | 0.0 |  | 
- | [coin]({{< ref "/f39/package/coin.md" >}}) | 0 | 252 | 0.0 | none | 
- | [dippi]({{< ref "/f39/package/dippi.md" >}}) | 0 | 1540 | 0.0 | none | 
- | [elementary-code]({{< ref "/f39/package/elementary-code.md" >}}) | 0 | 1572 | 0.0 | LANGUAGE <LL@li.org> | 
- | [elementary-files]({{< ref "/f39/package/elementary-files.md" >}}) | 0 | 2538 | 0.0 | LANGUAGE <LL@li.org> | 
- | [elementary-icon-theme]({{< ref "/f39/package/elementary-icon-theme.md" >}}) | 0 | 394 | 0.0 | none | 
- | [elementary-mail]({{< ref "/f39/package/elementary-mail.md" >}}) | 0 | 861 | 0.0 |  | 
- | [elementary-music]({{< ref "/f39/package/elementary-music.md" >}}) | 0 | 207 | 0.0 | LANGUAGE <LL@li.org> | 
- | [elementary-notifications]({{< ref "/f39/package/elementary-notifications.md" >}}) | 0 | 40 | 0.0 | none | 
- | [gala]({{< ref "/f39/package/gala.md" >}}) | 0 | 259 | 0.0 | none | 
- | [granite]({{< ref "/f39/package/granite.md" >}}) | 0 | 498 | 0.0 |  | 
- | [granite-7]({{< ref "/f39/package/granite-7.md" >}}) | 0 | 369 | 0.0 |  | 
- | [harvey]({{< ref "/f39/package/harvey.md" >}}) | 0 | 182 | 0.0 | none | 
- | [kf5-kauth]({{< ref "/f39/package/kf5-kauth.md" >}}) | 0 | 73 | 0.0 | Tatar <> | 
- | [kf5-kcodecs]({{< ref "/f39/package/kf5-kcodecs.md" >}}) | 0 | 370 | 0.0 | Tatar <> | 
- | [kf5-kcompletion]({{< ref "/f39/package/kf5-kcompletion.md" >}}) | 0 | 18 | 0.0 | Tatar <> | 
- | [kf5-kcoreaddons]({{< ref "/f39/package/kf5-kcoreaddons.md" >}}) | 0 | 382 | 0.0 | Tatar <> | 
- | [kf5-kdesignerplugin]({{< ref "/f39/package/kf5-kdesignerplugin.md" >}}) | 0 | 54 | 0.0 | Tatar <> | 
- | [kf5-kdnssd]({{< ref "/f39/package/kf5-kdnssd.md" >}}) | 0 | 3 | 0.0 | Tatar <> | 
- | [kf5-kglobalaccel]({{< ref "/f39/package/kf5-kglobalaccel.md" >}}) | 0 | 71 | 0.0 | Tatar <> | 
- | [kf5-kitemviews]({{< ref "/f39/package/kf5-kitemviews.md" >}}) | 0 | 7 | 0.0 | Tatar <> | 
- | [kf5-kjobwidgets]({{< ref "/f39/package/kf5-kjobwidgets.md" >}}) | 0 | 133 | 0.0 | Tatar <> | 
- | [kf5-knotifications]({{< ref "/f39/package/kf5-knotifications.md" >}}) | 0 | 21 | 0.0 | Tatar <> | 
- | [kf5-kwidgetsaddons]({{< ref "/f39/package/kf5-kwidgetsaddons.md" >}}) | 0 | 1293 | 0.0 | Tatar <> | 
- | [kf5-kwindowsystem]({{< ref "/f39/package/kf5-kwindowsystem.md" >}}) | 0 | 2 | 0.0 | Tatar <> | 
- | [kf5-sonnet]({{< ref "/f39/package/kf5-sonnet.md" >}}) | 0 | 683 | 0.0 | Tatar <> | 
- | [libmatekbd]({{< ref "/f39/package/libmatekbd.md" >}}) | 0 | 308 | 0.0 | Tatar (http://www.transifex.com/mate/MATE/language/tt/) | 
- | [mate-themes]({{< ref "/f39/package/mate-themes.md" >}}) | 0 | 74 | 0.0 | Tatar (http://app.transifex.com/mate/MATE/language/tt/) | 
- | [nutty]({{< ref "/f39/package/nutty.md" >}}) | 0 | 608 | 0.0 |  | 
- | [optimizer]({{< ref "/f39/package/optimizer.md" >}}) | 0 | 282 | 0.0 | none | 
- | [python-django-contrib-comments]({{< ref "/f39/package/python-django-contrib-comments.md" >}}) | 0 | 244 | 0.0 | Tatar (http://www.transifex.com/django/django-contrib-comments/language/tt/) | 
- | [regextester]({{< ref "/f39/package/regextester.md" >}}) | 0 | 104 | 0.0 | none | 
- | [wingpanel]({{< ref "/f39/package/wingpanel.md" >}}) | 0 | 16 | 0.0 | none | 
- | [wingpanel-indicator-a11y]({{< ref "/f39/package/wingpanel-indicator-a11y.md" >}}) | 0 | 55 | 0.0 | none | 
- | [wingpanel-indicator-bluetooth]({{< ref "/f39/package/wingpanel-indicator-bluetooth.md" >}}) | 0 | 283 | 0.0 | none | 
- | [wingpanel-indicator-datetime]({{< ref "/f39/package/wingpanel-indicator-datetime.md" >}}) | 0 | 177 | 0.0 |  | 
- | [wingpanel-indicator-keyboard]({{< ref "/f39/package/wingpanel-indicator-keyboard.md" >}}) | 0 | 63 | 0.0 |  | 
+ | [kf5-kjsembed](/f39/package/kf5-kjsembed) | 248 | 248 | 100.0 | Tatar <> | 
+ | [kf5-kpty](/f39/package/kf5-kpty) | 15 | 15 | 100.0 | Tatar <> | 
+ | [libgnomecanvas](/f39/package/libgnomecanvas) | 357 | 357 | 100.0 | Tatarish <tatarish.l10n@gmail.com> | 
+ | [lxmenu-data](/f39/package/lxmenu-data) | 97 | 97 | 100.0 | Tatar <> | 
+ | [lxshortcut](/f39/package/lxshortcut) | 43 | 43 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [at-spi2-core](/f39/package/at-spi2-core) | 359 | 375 | 95.7 | Tatarish <tatarish.l10n@gmail.com> | 
+ | [mingw-atk](/f39/package/mingw-atk) | 359 | 375 | 95.7 | Tatarish <tatarish.l10n@gmail.com> | 
+ | [kf5-ktextwidgets](/f39/package/kf5-ktextwidgets) | 450 | 473 | 95.1 | Tatar <> | 
+ | [lxlauncher](/f39/package/lxlauncher) | 51 | 58 | 87.9 | LANGUAGE <LL@li.org> | 
+ | [supertux](/f39/package/supertux) | 2696 | 3079 | 87.6 | Tatar (http://www.transifex.com/arctic-games/supertux/language/tt/) | 
+ | [kf5-khtml](/f39/package/kf5-khtml) | 1448 | 1667 | 86.9 | Tatar <> | 
+ | [lxinput](/f39/package/lxinput) | 72 | 83 | 86.7 | Tatar <> | 
+ | [kf5-kross](/f39/package/kf5-kross) | 82 | 100 | 82.0 | Tatar <> | 
+ | [folder-color-switcher](/f39/package/folder-color-switcher) | 51 | 65 | 78.5 | Tatar <tt@li.org> | 
+ | [kf5-kparts](/f39/package/kf5-kparts) | 104 | 138 | 75.4 | Tatar <> | 
+ | [kf5-kinit](/f39/package/kf5-kinit) | 85 | 116 | 73.3 | Tatar <> | 
+ | [kf5-kcmutils](/f39/package/kf5-kcmutils) | 183 | 266 | 68.8 | Tatar <> | 
+ | [kf5-knotifyconfig](/f39/package/kf5-knotifyconfig) | 86 | 129 | 66.7 | Tatar <> | 
+ | [lxdm](/f39/package/lxdm) | 31 | 48 | 64.6 | Tatar <> | 
+ | [kf5-kxmlgui](/f39/package/kf5-kxmlgui) | 949 | 1574 | 60.3 | Tatar <> | 
+ | [kf5-kservice](/f39/package/kf5-kservice) | 80 | 173 | 46.2 | Tatar <> | 
+ | [lxmusic](/f39/package/lxmusic) | 93 | 203 | 45.8 | Tatar <> | 
+ | [python-django](/f39/package/python-django) | 1463 | 3516 | 41.6 | Tatar (http://www.transifex.com/django/django/language/tt/) | 
+ | [python-django4.2](/f39/package/python-django4.2) | 1463 | 3516 | 41.6 | Tatar (http://www.transifex.com/django/django/language/tt/) | 
+ | [kf5-kconfigwidgets](/f39/package/kf5-kconfigwidgets) | 141 | 342 | 41.2 | Tatar <> | 
+ | [kf5-kdeclarative](/f39/package/kf5-kdeclarative) | 62 | 161 | 38.5 | Tatar <> | 
+ | [libgnomeui](/f39/package/libgnomeui) | 536 | 1419 | 37.8 | Tatarish <tatarish.l10n@gmail.com> | 
+ | [supertuxkart](/f39/package/supertuxkart) | 2189 | 5959 | 36.7 | Tatar (http://www.transifex.com/supertuxkart/supertuxkart/language/tt/) | 
+ | [kf5-ki18n](/f39/package/kf5-ki18n) | 42 | 124 | 33.9 | Tatar <> | 
+ | [gdk-pixbuf2](/f39/package/gdk-pixbuf2) | 388 | 1348 | 28.8 | Tatarish <tatarish.l10n@gmail.com> | 
+ | [mingw-gdk-pixbuf](/f39/package/mingw-gdk-pixbuf) | 388 | 1348 | 28.8 | Tatarish <tatarish.l10n@gmail.com> | 
+ | [libfm](/f39/package/libfm) | 442 | 1575 | 28.1 |  | 
+ | [kf5-knewstuff](/f39/package/kf5-knewstuff) | 289 | 1631 | 17.7 | Tatar <> | 
+ | [kf5-kdelibs4support](/f39/package/kf5-kdelibs4support) | 894 | 5353 | 16.7 | Tatar <> | 
+ | [budgie-desktop](/f39/package/budgie-desktop) | 196 | 1220 | 16.1 | Tatar <http://translate.getsol.us/projects/budgie-desktop/translations/tt/> | 
+ | [vlc](/f39/package/vlc) | 3855 | 34779 | 11.1 | Tatar (https://app.transifex.com/yaron/teams/16553/tt/) | 
+ | [mozo](/f39/package/mozo) | 5 | 46 | 10.9 | Tatar (https://www.transifex.com/mate/teams/13566/tt/) | 
+ | [libgnome](/f39/package/libgnome) | 156 | 1494 | 10.4 | Tatarish <tatarish.l10n@gmail.com> | 
+ | [gtk2](/f39/package/gtk2) | 1141 | 13704 | 8.3 | Tatarish <tatarish.l10n@gmail.com> | 
+ | [mingw-gtk2](/f39/package/mingw-gtk2) | 1141 | 13704 | 8.3 | Tatarish <tatarish.l10n@gmail.com> | 
+ | [gtk4](/f39/package/gtk4) | 186 | 2432 | 7.6 | Tatarish <tatarish.l10n@gmail.com> | 
+ | [mingw-gtk4](/f39/package/mingw-gtk4) | 186 | 2432 | 7.6 | Tatarish <tatarish.l10n@gmail.com> | 
+ | [glib2](/f39/package/glib2) | 345 | 4777 | 7.2 | Tatarish <tatarish.l10n@gmail.com> | 
+ | [mingw-glib2](/f39/package/mingw-glib2) | 345 | 4777 | 7.2 | Tatarish <tatarish.l10n@gmail.com> | 
+ | [gimp](/f39/package/gimp) | 901 | 13840 | 6.5 | Tatarish <tatarish.l10n@gmail.com> | 
+ | [gimp3](/f39/package/gimp3) | 901 | 13840 | 6.5 | Tatarish <tatarish.l10n@gmail.com> | 
+ | [iso-codes](/f39/package/iso-codes) | 1012 | 15908 | 6.4 | Tatarish <tatarish.l10n@gmail.com> | 
+ | [xreader](/f39/package/xreader) | 101 | 1625 | 6.2 | Tatar <tt@li.org> | 
+ | [gtk3](/f39/package/gtk3) | 695 | 11853 | 5.9 | Tatarish <tatarish.l10n@gmail.com> | 
+ | [mingw-gtk3](/f39/package/mingw-gtk3) | 695 | 11853 | 5.9 | Tatarish <tatarish.l10n@gmail.com> | 
+ | [libreoffice](/f39/package/libreoffice) | 9884 | 171188 | 5.8 | LANGUAGE <LL@li.org> | 
+ | [cinnamon-translations](/f39/package/cinnamon-translations) | 614 | 18676 | 3.3 | Tatar <tt@li.org> | 
+ | [isomaster](/f39/package/isomaster) | 17 | 674 | 2.5 | http://littlesvr.ca/ostd/ | 
+ | [hunspell](/f39/package/hunspell) | 12 | 613 | 2.0 | Tatar <https://hosted.weblate.org/projects/hunspell/translations/tt/> | 
+ | [mingw-hunspell](/f39/package/mingw-hunspell) | 12 | 613 | 2.0 | Tatar <https://hosted.weblate.org/projects/hunspell/translations/tt/> | 
+ | [mate-desktop](/f39/package/mate-desktop) | 46 | 2376 | 1.9 | Tatar (https://app.transifex.com/mate/teams/13566/tt/) | 
+ | [slick-greeter](/f39/package/slick-greeter) | 4 | 216 | 1.9 | Tatar <tt@li.org> | 
+ | [minetest](/f39/package/minetest) | 160 | 9676 | 1.7 | Tatar <https://hosted.weblate.org/projects/minetest/minetest/tt/> | 
+ | [mate-session-manager](/f39/package/mate-session-manager) | 11 | 715 | 1.5 | Tatar (https://app.transifex.com/mate/teams/13566/tt/) | 
+ | [warzone2100](/f39/package/warzone2100) | 236 | 15773 | 1.5 | Tatar | 
+ | [pluma](/f39/package/pluma) | 76 | 5707 | 1.3 | Tatar (https://app.transifex.com/mate/teams/13566/tt/) | 
+ | [eom](/f39/package/eom) | 22 | 1779 | 1.2 | Tatar (https://app.transifex.com/mate/teams/13566/tt/) | 
+ | [mate-system-monitor](/f39/package/mate-system-monitor) | 19 | 1558 | 1.2 | Tatar (https://app.transifex.com/mate/teams/13566/tt/) | 
+ | [asunder](/f39/package/asunder) | 6 | 493 | 1.2 | http://littlesvr.ca/ostd/ | 
+ | [engrampa](/f39/package/engrampa) | 24 | 2049 | 1.2 | Tatar (https://app.transifex.com/mate/teams/13566/tt/) | 
+ | [mate-sensors-applet](/f39/package/mate-sensors-applet) | 3 | 313 | 1.0 | Tatar (https://www.transifex.com/mate/teams/13566/tt/) | 
+ | [mate-polkit](/f39/package/mate-polkit) | 1 | 123 | 0.8 | Tatar (https://www.transifex.com/mate/teams/13566/tt/) | 
+ | [xed](/f39/package/xed) | 28 | 3759 | 0.7 | Tatar <tt@li.org> | 
+ | [atril](/f39/package/atril) | 17 | 2326 | 0.7 | Tatar (https://app.transifex.com/mate/teams/13566/tt/) | 
+ | [mate-screensaver](/f39/package/mate-screensaver) | 8 | 1101 | 0.7 | Tatar (https://app.transifex.com/mate/teams/13566/tt/) | 
+ | [mate-menu](/f39/package/mate-menu) | 2 | 308 | 0.6 | Tatar (http://www.transifex.com/mate/MATE/language/tt/) | 
+ | [mate-calc](/f39/package/mate-calc) | 10 | 1578 | 0.6 | Tatar (https://www.transifex.com/mate/teams/13566/tt/) | 
+ | [mate-utils](/f39/package/mate-utils) | 24 | 3879 | 0.6 | Tatar (https://app.transifex.com/mate/teams/13566/tt/) | 
+ | [pidgin](/f39/package/pidgin) | 69 | 13994 | 0.5 | Tatar (http://www.transifex.com/pidgin/pidgin/language/tt/) | 
+ | [mate-terminal](/f39/package/mate-terminal) | 19 | 4719 | 0.4 | Tatar (https://app.transifex.com/mate/teams/13566/tt/) | 
+ | [mate-control-center](/f39/package/mate-control-center) | 13 | 3331 | 0.4 | Tatar (https://www.transifex.com/mate/teams/13566/tt/) | 
+ | [mate-panel](/f39/package/mate-panel) | 16 | 4678 | 0.3 | Tatar (https://app.transifex.com/mate/teams/13566/tt/) | 
+ | [caja](/f39/package/caja) | 31 | 9675 | 0.3 | Tatar (https://www.transifex.com/mate/teams/13566/tt/) | 
+ | [calibre](/f39/package/calibre) | 175 | 170967 | 0.1 | Tatar (http://www.transifex.com/calibre/calibre/language/tt/) | 
+ | [bookworm](/f39/package/bookworm) | 0 | 795 | 0.0 |  | 
+ | [chromium](/f39/package/chromium) | 0 | 0 | 0.0 |  | 
+ | [coin](/f39/package/coin) | 0 | 252 | 0.0 | none | 
+ | [dippi](/f39/package/dippi) | 0 | 1540 | 0.0 | none | 
+ | [elementary-code](/f39/package/elementary-code) | 0 | 1572 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [elementary-files](/f39/package/elementary-files) | 0 | 2538 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [elementary-icon-theme](/f39/package/elementary-icon-theme) | 0 | 394 | 0.0 | none | 
+ | [elementary-mail](/f39/package/elementary-mail) | 0 | 861 | 0.0 |  | 
+ | [elementary-music](/f39/package/elementary-music) | 0 | 207 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [elementary-notifications](/f39/package/elementary-notifications) | 0 | 40 | 0.0 | none | 
+ | [gala](/f39/package/gala) | 0 | 259 | 0.0 | none | 
+ | [granite](/f39/package/granite) | 0 | 498 | 0.0 |  | 
+ | [granite-7](/f39/package/granite-7) | 0 | 369 | 0.0 |  | 
+ | [harvey](/f39/package/harvey) | 0 | 182 | 0.0 | none | 
+ | [kf5-kauth](/f39/package/kf5-kauth) | 0 | 73 | 0.0 | Tatar <> | 
+ | [kf5-kcodecs](/f39/package/kf5-kcodecs) | 0 | 370 | 0.0 | Tatar <> | 
+ | [kf5-kcompletion](/f39/package/kf5-kcompletion) | 0 | 18 | 0.0 | Tatar <> | 
+ | [kf5-kcoreaddons](/f39/package/kf5-kcoreaddons) | 0 | 382 | 0.0 | Tatar <> | 
+ | [kf5-kdesignerplugin](/f39/package/kf5-kdesignerplugin) | 0 | 54 | 0.0 | Tatar <> | 
+ | [kf5-kdnssd](/f39/package/kf5-kdnssd) | 0 | 3 | 0.0 | Tatar <> | 
+ | [kf5-kglobalaccel](/f39/package/kf5-kglobalaccel) | 0 | 71 | 0.0 | Tatar <> | 
+ | [kf5-kitemviews](/f39/package/kf5-kitemviews) | 0 | 7 | 0.0 | Tatar <> | 
+ | [kf5-kjobwidgets](/f39/package/kf5-kjobwidgets) | 0 | 133 | 0.0 | Tatar <> | 
+ | [kf5-knotifications](/f39/package/kf5-knotifications) | 0 | 21 | 0.0 | Tatar <> | 
+ | [kf5-kwidgetsaddons](/f39/package/kf5-kwidgetsaddons) | 0 | 1293 | 0.0 | Tatar <> | 
+ | [kf5-kwindowsystem](/f39/package/kf5-kwindowsystem) | 0 | 2 | 0.0 | Tatar <> | 
+ | [kf5-sonnet](/f39/package/kf5-sonnet) | 0 | 683 | 0.0 | Tatar <> | 
+ | [libmatekbd](/f39/package/libmatekbd) | 0 | 308 | 0.0 | Tatar (http://www.transifex.com/mate/MATE/language/tt/) | 
+ | [mate-themes](/f39/package/mate-themes) | 0 | 74 | 0.0 | Tatar (http://app.transifex.com/mate/MATE/language/tt/) | 
+ | [nutty](/f39/package/nutty) | 0 | 608 | 0.0 |  | 
+ | [optimizer](/f39/package/optimizer) | 0 | 282 | 0.0 | none | 
+ | [python-django-contrib-comments](/f39/package/python-django-contrib-comments) | 0 | 244 | 0.0 | Tatar (http://www.transifex.com/django/django-contrib-comments/language/tt/) | 
+ | [regextester](/f39/package/regextester) | 0 | 104 | 0.0 | none | 
+ | [wingpanel](/f39/package/wingpanel) | 0 | 16 | 0.0 | none | 
+ | [wingpanel-indicator-a11y](/f39/package/wingpanel-indicator-a11y) | 0 | 55 | 0.0 | none | 
+ | [wingpanel-indicator-bluetooth](/f39/package/wingpanel-indicator-bluetooth) | 0 | 283 | 0.0 | none | 
+ | [wingpanel-indicator-datetime](/f39/package/wingpanel-indicator-datetime) | 0 | 177 | 0.0 |  | 
+ | [wingpanel-indicator-keyboard](/f39/package/wingpanel-indicator-keyboard) | 0 | 63 | 0.0 |  | 
 {.sortable}
 
 

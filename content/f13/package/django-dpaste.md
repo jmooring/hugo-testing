@@ -18,8 +18,8 @@ The package django-dpaste (version 0.2.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f13/language/de.md" >}}) | 103 | 108 | 95.4 | /mnt/stockage/packages/f13/django-dpaste/dpaste/locale/de/LC_MESSAGES/._django.po/mnt/stockage/packages/f13/django-dpaste/dpaste/locale/de/LC_MESSAGES/django.po | 
- | [en]({{< ref "/f13/language/en.md" >}}) | 19 | 108 | 17.6 | /mnt/stockage/packages/f13/django-dpaste/dpaste/locale/en/LC_MESSAGES/._django.po/mnt/stockage/packages/f13/django-dpaste/dpaste/locale/en/LC_MESSAGES/django.po | 
+ | [de](/f13/language/de) | 103 | 108 | 95.4 | /mnt/stockage/packages/f13/django-dpaste/dpaste/locale/de/LC_MESSAGES/._django.po/mnt/stockage/packages/f13/django-dpaste/dpaste/locale/de/LC_MESSAGES/django.po | 
+ | [en](/f13/language/en) | 19 | 108 | 17.6 | /mnt/stockage/packages/f13/django-dpaste/dpaste/locale/en/LC_MESSAGES/._django.po/mnt/stockage/packages/f13/django-dpaste/dpaste/locale/en/LC_MESSAGES/django.po | 
 {.sortable}
 
 

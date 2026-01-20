@@ -18,27 +18,27 @@ The package pbuilder (version 0.230.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f33/language/ca.md" >}}) | 96 | 96 | 100.0 | /mnt/stockage/packages/f33/pbuilder/debian/po/ca.po | 
- | [cs]({{< ref "/f33/language/cs.md" >}}) | 96 | 96 | 100.0 | /mnt/stockage/packages/f33/pbuilder/debian/po/cs.po | 
- | [da]({{< ref "/f33/language/da.md" >}}) | 96 | 96 | 100.0 | /mnt/stockage/packages/f33/pbuilder/debian/po/da.po | 
- | [de]({{< ref "/f33/language/de.md" >}}) | 6633 | 6633 | 100.0 | /mnt/stockage/packages/f33/pbuilder/debian/po/de.po/mnt/stockage/packages/f33/pbuilder/Documentation/pbuilder-doc.de.po | 
- | [es]({{< ref "/f33/language/es.md" >}}) | 96 | 96 | 100.0 | /mnt/stockage/packages/f33/pbuilder/debian/po/es.po | 
- | [eu]({{< ref "/f33/language/eu.md" >}}) | 96 | 96 | 100.0 | /mnt/stockage/packages/f33/pbuilder/debian/po/eu.po | 
- | [fi]({{< ref "/f33/language/fi.md" >}}) | 96 | 96 | 100.0 | /mnt/stockage/packages/f33/pbuilder/debian/po/fi.po | 
- | [gl]({{< ref "/f33/language/gl.md" >}}) | 96 | 96 | 100.0 | /mnt/stockage/packages/f33/pbuilder/debian/po/gl.po | 
- | [it]({{< ref "/f33/language/it.md" >}}) | 96 | 96 | 100.0 | /mnt/stockage/packages/f33/pbuilder/debian/po/it.po | 
- | [nl]({{< ref "/f33/language/nl.md" >}}) | 96 | 96 | 100.0 | /mnt/stockage/packages/f33/pbuilder/debian/po/nl.po | 
- | [pt]({{< ref "/f33/language/pt.md" >}}) | 96 | 96 | 100.0 | /mnt/stockage/packages/f33/pbuilder/debian/po/pt.po | 
- | [pt_BR]({{< ref "/f33/language/pt_BR.md" >}}) | 96 | 96 | 100.0 | /mnt/stockage/packages/f33/pbuilder/debian/po/pt_BR.po | 
- | [ro]({{< ref "/f33/language/ro.md" >}}) | 96 | 96 | 100.0 | /mnt/stockage/packages/f33/pbuilder/debian/po/ro.po | 
- | [ru]({{< ref "/f33/language/ru.md" >}}) | 96 | 96 | 100.0 | /mnt/stockage/packages/f33/pbuilder/debian/po/ru.po | 
- | [sk]({{< ref "/f33/language/sk.md" >}}) | 96 | 96 | 100.0 | /mnt/stockage/packages/f33/pbuilder/debian/po/sk.po | 
- | [sr]({{< ref "/f33/language/sr.md" >}}) | 96 | 96 | 100.0 | /mnt/stockage/packages/f33/pbuilder/debian/po/sr.po | 
- | [sr_Latn]({{< ref "/f33/language/sr_Latn.md" >}}) | 96 | 96 | 100.0 | /mnt/stockage/packages/f33/pbuilder/debian/po/sr@latin.po | 
- | [sv]({{< ref "/f33/language/sv.md" >}}) | 96 | 96 | 100.0 | /mnt/stockage/packages/f33/pbuilder/debian/po/sv.po | 
- | [tr]({{< ref "/f33/language/tr.md" >}}) | 96 | 96 | 100.0 | /mnt/stockage/packages/f33/pbuilder/debian/po/tr.po | 
- | [fr]({{< ref "/f33/language/fr.md" >}}) | 2662 | 6633 | 40.1 | /mnt/stockage/packages/f33/pbuilder/debian/po/fr.po/mnt/stockage/packages/f33/pbuilder/Documentation/pbuilder-doc.fr.po | 
- | [ja]({{< ref "/f33/language/ja.md" >}}) | 1177 | 6633 | 17.7 | /mnt/stockage/packages/f33/pbuilder/debian/po/ja.po/mnt/stockage/packages/f33/pbuilder/Documentation/pbuilder-doc.ja.po | 
+ | [ca](/f33/language/ca) | 96 | 96 | 100.0 | /mnt/stockage/packages/f33/pbuilder/debian/po/ca.po | 
+ | [cs](/f33/language/cs) | 96 | 96 | 100.0 | /mnt/stockage/packages/f33/pbuilder/debian/po/cs.po | 
+ | [da](/f33/language/da) | 96 | 96 | 100.0 | /mnt/stockage/packages/f33/pbuilder/debian/po/da.po | 
+ | [de](/f33/language/de) | 6633 | 6633 | 100.0 | /mnt/stockage/packages/f33/pbuilder/debian/po/de.po/mnt/stockage/packages/f33/pbuilder/Documentation/pbuilder-doc.de.po | 
+ | [es](/f33/language/es) | 96 | 96 | 100.0 | /mnt/stockage/packages/f33/pbuilder/debian/po/es.po | 
+ | [eu](/f33/language/eu) | 96 | 96 | 100.0 | /mnt/stockage/packages/f33/pbuilder/debian/po/eu.po | 
+ | [fi](/f33/language/fi) | 96 | 96 | 100.0 | /mnt/stockage/packages/f33/pbuilder/debian/po/fi.po | 
+ | [gl](/f33/language/gl) | 96 | 96 | 100.0 | /mnt/stockage/packages/f33/pbuilder/debian/po/gl.po | 
+ | [it](/f33/language/it) | 96 | 96 | 100.0 | /mnt/stockage/packages/f33/pbuilder/debian/po/it.po | 
+ | [nl](/f33/language/nl) | 96 | 96 | 100.0 | /mnt/stockage/packages/f33/pbuilder/debian/po/nl.po | 
+ | [pt](/f33/language/pt) | 96 | 96 | 100.0 | /mnt/stockage/packages/f33/pbuilder/debian/po/pt.po | 
+ | [pt_BR](/f33/language/pt_BR) | 96 | 96 | 100.0 | /mnt/stockage/packages/f33/pbuilder/debian/po/pt_BR.po | 
+ | [ro](/f33/language/ro) | 96 | 96 | 100.0 | /mnt/stockage/packages/f33/pbuilder/debian/po/ro.po | 
+ | [ru](/f33/language/ru) | 96 | 96 | 100.0 | /mnt/stockage/packages/f33/pbuilder/debian/po/ru.po | 
+ | [sk](/f33/language/sk) | 96 | 96 | 100.0 | /mnt/stockage/packages/f33/pbuilder/debian/po/sk.po | 
+ | [sr](/f33/language/sr) | 96 | 96 | 100.0 | /mnt/stockage/packages/f33/pbuilder/debian/po/sr.po | 
+ | [sr_Latn](/f33/language/sr_Latn) | 96 | 96 | 100.0 | /mnt/stockage/packages/f33/pbuilder/debian/po/sr@latin.po | 
+ | [sv](/f33/language/sv) | 96 | 96 | 100.0 | /mnt/stockage/packages/f33/pbuilder/debian/po/sv.po | 
+ | [tr](/f33/language/tr) | 96 | 96 | 100.0 | /mnt/stockage/packages/f33/pbuilder/debian/po/tr.po | 
+ | [fr](/f33/language/fr) | 2662 | 6633 | 40.1 | /mnt/stockage/packages/f33/pbuilder/debian/po/fr.po/mnt/stockage/packages/f33/pbuilder/Documentation/pbuilder-doc.fr.po | 
+ | [ja](/f33/language/ja) | 1177 | 6633 | 17.7 | /mnt/stockage/packages/f33/pbuilder/debian/po/ja.po/mnt/stockage/packages/f33/pbuilder/Documentation/pbuilder-doc.ja.po | 
 {.sortable}
 
 

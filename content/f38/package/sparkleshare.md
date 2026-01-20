@@ -18,35 +18,35 @@ The package sparkleshare (version 3.28):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f38/language/de.md" >}}) | 402 | 402 | 100.0 | /mnt/stockage/packages/f38/sparkleshare/SparkleShare/Common/Translations/de.po | 
- | [el]({{< ref "/f38/language/el.md" >}}) | 371 | 371 | 100.0 | /mnt/stockage/packages/f38/sparkleshare/SparkleShare/Common/Translations/el.po | 
- | [es]({{< ref "/f38/language/es.md" >}}) | 367 | 367 | 100.0 | /mnt/stockage/packages/f38/sparkleshare/SparkleShare/Common/Translations/es.po | 
- | [it]({{< ref "/f38/language/it.md" >}}) | 367 | 367 | 100.0 | /mnt/stockage/packages/f38/sparkleshare/SparkleShare/Common/Translations/it.po | 
- | [nl]({{< ref "/f38/language/nl.md" >}}) | 402 | 402 | 100.0 | /mnt/stockage/packages/f38/sparkleshare/SparkleShare/Common/Translations/nl.po | 
- | [pl]({{< ref "/f38/language/pl.md" >}}) | 402 | 402 | 100.0 | /mnt/stockage/packages/f38/sparkleshare/SparkleShare/Common/Translations/pl.po | 
- | [ru]({{< ref "/f38/language/ru.md" >}}) | 402 | 402 | 100.0 | /mnt/stockage/packages/f38/sparkleshare/SparkleShare/Common/Translations/ru.po | 
- | [zh_Hans]({{< ref "/f38/language/zh_Hans.md" >}}) | 367 | 367 | 100.0 | /mnt/stockage/packages/f38/sparkleshare/SparkleShare/Common/Translations/zh_CN.po | 
- | [pt_BR]({{< ref "/f38/language/pt_BR.md" >}}) | 366 | 367 | 99.7 | /mnt/stockage/packages/f38/sparkleshare/SparkleShare/Common/Translations/pt_BR.po | 
- | [sv]({{< ref "/f38/language/sv.md" >}}) | 395 | 402 | 98.3 | /mnt/stockage/packages/f38/sparkleshare/SparkleShare/Common/Translations/sv.po | 
- | [fr]({{< ref "/f38/language/fr.md" >}}) | 381 | 402 | 94.8 | /mnt/stockage/packages/f38/sparkleshare/SparkleShare/Common/Translations/fr.po | 
- | [cs]({{< ref "/f38/language/cs.md" >}}) | 249 | 402 | 61.9 | /mnt/stockage/packages/f38/sparkleshare/SparkleShare/Common/Translations/cs_CZ.po | 
- | [he]({{< ref "/f38/language/he.md" >}}) | 248 | 402 | 61.7 | /mnt/stockage/packages/f38/sparkleshare/SparkleShare/Common/Translations/he.po | 
- | [sr]({{< ref "/f38/language/sr.md" >}}) | 190 | 367 | 51.8 | /mnt/stockage/packages/f38/sparkleshare/SparkleShare/Common/Translations/sr_RS.po | 
- | [ja]({{< ref "/f38/language/ja.md" >}}) | 199 | 402 | 49.5 | /mnt/stockage/packages/f38/sparkleshare/SparkleShare/Common/Translations/ja.po | 
- | [ca]({{< ref "/f38/language/ca.md" >}}) | 197 | 402 | 49.0 | /mnt/stockage/packages/f38/sparkleshare/SparkleShare/Common/Translations/ca.po | 
- | [nb_NO]({{< ref "/f38/language/nb_NO.md" >}}) | 197 | 402 | 49.0 | /mnt/stockage/packages/f38/sparkleshare/SparkleShare/Common/Translations/no_NO.po | 
- | [sl]({{< ref "/f38/language/sl.md" >}}) | 197 | 402 | 49.0 | /mnt/stockage/packages/f38/sparkleshare/SparkleShare/Common/Translations/sl.po | 
- | [ar]({{< ref "/f38/language/ar.md" >}}) | 183 | 402 | 45.5 | /mnt/stockage/packages/f38/sparkleshare/SparkleShare/Common/Translations/ar.po | 
- | [hu]({{< ref "/f38/language/hu.md" >}}) | 183 | 402 | 45.5 | /mnt/stockage/packages/f38/sparkleshare/SparkleShare/Common/Translations/hu.po | 
- | [fi]({{< ref "/f38/language/fi.md" >}}) | 179 | 402 | 44.5 | /mnt/stockage/packages/f38/sparkleshare/SparkleShare/Common/Translations/fi.po | 
- | [uk]({{< ref "/f38/language/uk.md" >}}) | 162 | 402 | 40.3 | /mnt/stockage/packages/f38/sparkleshare/SparkleShare/Common/Translations/uk.po | 
- | [sk]({{< ref "/f38/language/sk.md" >}}) | 159 | 402 | 39.6 | /mnt/stockage/packages/f38/sparkleshare/SparkleShare/Common/Translations/sk.po | 
- | [bg]({{< ref "/f38/language/bg.md" >}}) | 157 | 402 | 39.1 | /mnt/stockage/packages/f38/sparkleshare/SparkleShare/Common/Translations/bg.po | 
- | [nn]({{< ref "/f38/language/nn.md" >}}) | 148 | 402 | 36.8 | /mnt/stockage/packages/f38/sparkleshare/SparkleShare/Common/Translations/nn_NO.po | 
- | [da]({{< ref "/f38/language/da.md" >}}) | 142 | 402 | 35.3 | /mnt/stockage/packages/f38/sparkleshare/SparkleShare/Common/Translations/da.po | 
- | [zh_Hant]({{< ref "/f38/language/zh_Hant.md" >}}) | 138 | 402 | 34.3 | /mnt/stockage/packages/f38/sparkleshare/SparkleShare/Common/Translations/zh_TW.po | 
- | [eo]({{< ref "/f38/language/eo.md" >}}) | 45 | 402 | 11.2 | /mnt/stockage/packages/f38/sparkleshare/SparkleShare/Common/Translations/eo.po | 
- | [te]({{< ref "/f38/language/te.md" >}}) | 6 | 402 | 1.5 | /mnt/stockage/packages/f38/sparkleshare/SparkleShare/Common/Translations/te.po | 
+ | [de](/f38/language/de) | 402 | 402 | 100.0 | /mnt/stockage/packages/f38/sparkleshare/SparkleShare/Common/Translations/de.po | 
+ | [el](/f38/language/el) | 371 | 371 | 100.0 | /mnt/stockage/packages/f38/sparkleshare/SparkleShare/Common/Translations/el.po | 
+ | [es](/f38/language/es) | 367 | 367 | 100.0 | /mnt/stockage/packages/f38/sparkleshare/SparkleShare/Common/Translations/es.po | 
+ | [it](/f38/language/it) | 367 | 367 | 100.0 | /mnt/stockage/packages/f38/sparkleshare/SparkleShare/Common/Translations/it.po | 
+ | [nl](/f38/language/nl) | 402 | 402 | 100.0 | /mnt/stockage/packages/f38/sparkleshare/SparkleShare/Common/Translations/nl.po | 
+ | [pl](/f38/language/pl) | 402 | 402 | 100.0 | /mnt/stockage/packages/f38/sparkleshare/SparkleShare/Common/Translations/pl.po | 
+ | [ru](/f38/language/ru) | 402 | 402 | 100.0 | /mnt/stockage/packages/f38/sparkleshare/SparkleShare/Common/Translations/ru.po | 
+ | [zh_Hans](/f38/language/zh_Hans) | 367 | 367 | 100.0 | /mnt/stockage/packages/f38/sparkleshare/SparkleShare/Common/Translations/zh_CN.po | 
+ | [pt_BR](/f38/language/pt_BR) | 366 | 367 | 99.7 | /mnt/stockage/packages/f38/sparkleshare/SparkleShare/Common/Translations/pt_BR.po | 
+ | [sv](/f38/language/sv) | 395 | 402 | 98.3 | /mnt/stockage/packages/f38/sparkleshare/SparkleShare/Common/Translations/sv.po | 
+ | [fr](/f38/language/fr) | 381 | 402 | 94.8 | /mnt/stockage/packages/f38/sparkleshare/SparkleShare/Common/Translations/fr.po | 
+ | [cs](/f38/language/cs) | 249 | 402 | 61.9 | /mnt/stockage/packages/f38/sparkleshare/SparkleShare/Common/Translations/cs_CZ.po | 
+ | [he](/f38/language/he) | 248 | 402 | 61.7 | /mnt/stockage/packages/f38/sparkleshare/SparkleShare/Common/Translations/he.po | 
+ | [sr](/f38/language/sr) | 190 | 367 | 51.8 | /mnt/stockage/packages/f38/sparkleshare/SparkleShare/Common/Translations/sr_RS.po | 
+ | [ja](/f38/language/ja) | 199 | 402 | 49.5 | /mnt/stockage/packages/f38/sparkleshare/SparkleShare/Common/Translations/ja.po | 
+ | [ca](/f38/language/ca) | 197 | 402 | 49.0 | /mnt/stockage/packages/f38/sparkleshare/SparkleShare/Common/Translations/ca.po | 
+ | [nb_NO](/f38/language/nb_NO) | 197 | 402 | 49.0 | /mnt/stockage/packages/f38/sparkleshare/SparkleShare/Common/Translations/no_NO.po | 
+ | [sl](/f38/language/sl) | 197 | 402 | 49.0 | /mnt/stockage/packages/f38/sparkleshare/SparkleShare/Common/Translations/sl.po | 
+ | [ar](/f38/language/ar) | 183 | 402 | 45.5 | /mnt/stockage/packages/f38/sparkleshare/SparkleShare/Common/Translations/ar.po | 
+ | [hu](/f38/language/hu) | 183 | 402 | 45.5 | /mnt/stockage/packages/f38/sparkleshare/SparkleShare/Common/Translations/hu.po | 
+ | [fi](/f38/language/fi) | 179 | 402 | 44.5 | /mnt/stockage/packages/f38/sparkleshare/SparkleShare/Common/Translations/fi.po | 
+ | [uk](/f38/language/uk) | 162 | 402 | 40.3 | /mnt/stockage/packages/f38/sparkleshare/SparkleShare/Common/Translations/uk.po | 
+ | [sk](/f38/language/sk) | 159 | 402 | 39.6 | /mnt/stockage/packages/f38/sparkleshare/SparkleShare/Common/Translations/sk.po | 
+ | [bg](/f38/language/bg) | 157 | 402 | 39.1 | /mnt/stockage/packages/f38/sparkleshare/SparkleShare/Common/Translations/bg.po | 
+ | [nn](/f38/language/nn) | 148 | 402 | 36.8 | /mnt/stockage/packages/f38/sparkleshare/SparkleShare/Common/Translations/nn_NO.po | 
+ | [da](/f38/language/da) | 142 | 402 | 35.3 | /mnt/stockage/packages/f38/sparkleshare/SparkleShare/Common/Translations/da.po | 
+ | [zh_Hant](/f38/language/zh_Hant) | 138 | 402 | 34.3 | /mnt/stockage/packages/f38/sparkleshare/SparkleShare/Common/Translations/zh_TW.po | 
+ | [eo](/f38/language/eo) | 45 | 402 | 11.2 | /mnt/stockage/packages/f38/sparkleshare/SparkleShare/Common/Translations/eo.po | 
+ | [te](/f38/language/te) | 6 | 402 | 1.5 | /mnt/stockage/packages/f38/sparkleshare/SparkleShare/Common/Translations/te.po | 
 {.sortable}
 
 

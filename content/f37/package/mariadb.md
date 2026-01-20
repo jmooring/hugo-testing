@@ -18,27 +18,27 @@ The package mariadb (version 10.5.23):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f37/language/ca.md" >}}) | 144 | 144 | 100.0 | /mnt/stockage/packages/f37/mariadb/debian/po/ca.po | 
- | [cs]({{< ref "/f37/language/cs.md" >}}) | 144 | 144 | 100.0 | /mnt/stockage/packages/f37/mariadb/debian/po/cs.po | 
- | [da]({{< ref "/f37/language/da.md" >}}) | 144 | 144 | 100.0 | /mnt/stockage/packages/f37/mariadb/debian/po/da.po | 
- | [de]({{< ref "/f37/language/de.md" >}}) | 144 | 144 | 100.0 | /mnt/stockage/packages/f37/mariadb/debian/po/de.po | 
- | [es]({{< ref "/f37/language/es.md" >}}) | 144 | 144 | 100.0 | /mnt/stockage/packages/f37/mariadb/debian/po/es.po | 
- | [fi]({{< ref "/f37/language/fi.md" >}}) | 144 | 144 | 100.0 | /mnt/stockage/packages/f37/mariadb/debian/po/fi.po | 
- | [fr]({{< ref "/f37/language/fr.md" >}}) | 144 | 144 | 100.0 | /mnt/stockage/packages/f37/mariadb/debian/po/fr.po | 
- | [it]({{< ref "/f37/language/it.md" >}}) | 144 | 144 | 100.0 | /mnt/stockage/packages/f37/mariadb/debian/po/it.po | 
- | [ja]({{< ref "/f37/language/ja.md" >}}) | 144 | 144 | 100.0 | /mnt/stockage/packages/f37/mariadb/debian/po/ja.po | 
- | [nl]({{< ref "/f37/language/nl.md" >}}) | 144 | 144 | 100.0 | /mnt/stockage/packages/f37/mariadb/debian/po/nl.po | 
- | [pt]({{< ref "/f37/language/pt.md" >}}) | 144 | 144 | 100.0 | /mnt/stockage/packages/f37/mariadb/debian/po/pt.po | 
- | [pt_BR]({{< ref "/f37/language/pt_BR.md" >}}) | 144 | 144 | 100.0 | /mnt/stockage/packages/f37/mariadb/debian/po/pt_BR.po | 
- | [ru]({{< ref "/f37/language/ru.md" >}}) | 144 | 144 | 100.0 | /mnt/stockage/packages/f37/mariadb/debian/po/ru.po | 
- | [sv]({{< ref "/f37/language/sv.md" >}}) | 144 | 144 | 100.0 | /mnt/stockage/packages/f37/mariadb/debian/po/sv.po | 
- | [tr]({{< ref "/f37/language/tr.md" >}}) | 144 | 144 | 100.0 | /mnt/stockage/packages/f37/mariadb/debian/po/tr.po | 
- | [vi]({{< ref "/f37/language/vi.md" >}}) | 144 | 144 | 100.0 | /mnt/stockage/packages/f37/mariadb/debian/po/vi.po | 
- | [ar]({{< ref "/f37/language/ar.md" >}}) | 52 | 144 | 36.1 | /mnt/stockage/packages/f37/mariadb/debian/po/ar.po | 
- | [eu]({{< ref "/f37/language/eu.md" >}}) | 52 | 144 | 36.1 | /mnt/stockage/packages/f37/mariadb/debian/po/eu.po | 
- | [gl]({{< ref "/f37/language/gl.md" >}}) | 52 | 144 | 36.1 | /mnt/stockage/packages/f37/mariadb/debian/po/gl.po | 
- | [nb_NO]({{< ref "/f37/language/nb_NO.md" >}}) | 0 | 144 | 0.0 | /mnt/stockage/packages/f37/mariadb/debian/po/nb.po | 
- | [ro]({{< ref "/f37/language/ro.md" >}}) | 0 | 144 | 0.0 | /mnt/stockage/packages/f37/mariadb/debian/po/ro.po | 
+ | [ca](/f37/language/ca) | 144 | 144 | 100.0 | /mnt/stockage/packages/f37/mariadb/debian/po/ca.po | 
+ | [cs](/f37/language/cs) | 144 | 144 | 100.0 | /mnt/stockage/packages/f37/mariadb/debian/po/cs.po | 
+ | [da](/f37/language/da) | 144 | 144 | 100.0 | /mnt/stockage/packages/f37/mariadb/debian/po/da.po | 
+ | [de](/f37/language/de) | 144 | 144 | 100.0 | /mnt/stockage/packages/f37/mariadb/debian/po/de.po | 
+ | [es](/f37/language/es) | 144 | 144 | 100.0 | /mnt/stockage/packages/f37/mariadb/debian/po/es.po | 
+ | [fi](/f37/language/fi) | 144 | 144 | 100.0 | /mnt/stockage/packages/f37/mariadb/debian/po/fi.po | 
+ | [fr](/f37/language/fr) | 144 | 144 | 100.0 | /mnt/stockage/packages/f37/mariadb/debian/po/fr.po | 
+ | [it](/f37/language/it) | 144 | 144 | 100.0 | /mnt/stockage/packages/f37/mariadb/debian/po/it.po | 
+ | [ja](/f37/language/ja) | 144 | 144 | 100.0 | /mnt/stockage/packages/f37/mariadb/debian/po/ja.po | 
+ | [nl](/f37/language/nl) | 144 | 144 | 100.0 | /mnt/stockage/packages/f37/mariadb/debian/po/nl.po | 
+ | [pt](/f37/language/pt) | 144 | 144 | 100.0 | /mnt/stockage/packages/f37/mariadb/debian/po/pt.po | 
+ | [pt_BR](/f37/language/pt_BR) | 144 | 144 | 100.0 | /mnt/stockage/packages/f37/mariadb/debian/po/pt_BR.po | 
+ | [ru](/f37/language/ru) | 144 | 144 | 100.0 | /mnt/stockage/packages/f37/mariadb/debian/po/ru.po | 
+ | [sv](/f37/language/sv) | 144 | 144 | 100.0 | /mnt/stockage/packages/f37/mariadb/debian/po/sv.po | 
+ | [tr](/f37/language/tr) | 144 | 144 | 100.0 | /mnt/stockage/packages/f37/mariadb/debian/po/tr.po | 
+ | [vi](/f37/language/vi) | 144 | 144 | 100.0 | /mnt/stockage/packages/f37/mariadb/debian/po/vi.po | 
+ | [ar](/f37/language/ar) | 52 | 144 | 36.1 | /mnt/stockage/packages/f37/mariadb/debian/po/ar.po | 
+ | [eu](/f37/language/eu) | 52 | 144 | 36.1 | /mnt/stockage/packages/f37/mariadb/debian/po/eu.po | 
+ | [gl](/f37/language/gl) | 52 | 144 | 36.1 | /mnt/stockage/packages/f37/mariadb/debian/po/gl.po | 
+ | [nb_NO](/f37/language/nb_NO) | 0 | 144 | 0.0 | /mnt/stockage/packages/f37/mariadb/debian/po/nb.po | 
+ | [ro](/f37/language/ro) | 0 | 144 | 0.0 | /mnt/stockage/packages/f37/mariadb/debian/po/ro.po | 
 {.sortable}
 
 

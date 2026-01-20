@@ -18,15 +18,15 @@ The package evolution-couchdb (version 0.3.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f12/language/cs.md" >}}) | 9 | 9 | 100.0 | /mnt/stockage/packages/f12/evolution-couchdb/po/cs.po | 
- | [de]({{< ref "/f12/language/de.md" >}}) | 9 | 9 | 100.0 | /mnt/stockage/packages/f12/evolution-couchdb/po/de.po | 
- | [el]({{< ref "/f12/language/el.md" >}}) | 9 | 9 | 100.0 | /mnt/stockage/packages/f12/evolution-couchdb/po/el.po | 
- | [es]({{< ref "/f12/language/es.md" >}}) | 9 | 9 | 100.0 | /mnt/stockage/packages/f12/evolution-couchdb/po/es.po | 
- | [fr]({{< ref "/f12/language/fr.md" >}}) | 9 | 9 | 100.0 | /mnt/stockage/packages/f12/evolution-couchdb/po/fr.po | 
- | [pt_BR]({{< ref "/f12/language/pt_BR.md" >}}) | 9 | 9 | 100.0 | /mnt/stockage/packages/f12/evolution-couchdb/po/pt_BR.po | 
- | [sl]({{< ref "/f12/language/sl.md" >}}) | 9 | 9 | 100.0 | /mnt/stockage/packages/f12/evolution-couchdb/po/sl.po | 
- | [sv]({{< ref "/f12/language/sv.md" >}}) | 9 | 9 | 100.0 | /mnt/stockage/packages/f12/evolution-couchdb/po/sv.po | 
- | [zh_Hans]({{< ref "/f12/language/zh_Hans.md" >}}) | 9 | 9 | 100.0 | /mnt/stockage/packages/f12/evolution-couchdb/po/zh_CN.po | 
+ | [cs](/f12/language/cs) | 9 | 9 | 100.0 | /mnt/stockage/packages/f12/evolution-couchdb/po/cs.po | 
+ | [de](/f12/language/de) | 9 | 9 | 100.0 | /mnt/stockage/packages/f12/evolution-couchdb/po/de.po | 
+ | [el](/f12/language/el) | 9 | 9 | 100.0 | /mnt/stockage/packages/f12/evolution-couchdb/po/el.po | 
+ | [es](/f12/language/es) | 9 | 9 | 100.0 | /mnt/stockage/packages/f12/evolution-couchdb/po/es.po | 
+ | [fr](/f12/language/fr) | 9 | 9 | 100.0 | /mnt/stockage/packages/f12/evolution-couchdb/po/fr.po | 
+ | [pt_BR](/f12/language/pt_BR) | 9 | 9 | 100.0 | /mnt/stockage/packages/f12/evolution-couchdb/po/pt_BR.po | 
+ | [sl](/f12/language/sl) | 9 | 9 | 100.0 | /mnt/stockage/packages/f12/evolution-couchdb/po/sl.po | 
+ | [sv](/f12/language/sv) | 9 | 9 | 100.0 | /mnt/stockage/packages/f12/evolution-couchdb/po/sv.po | 
+ | [zh_Hans](/f12/language/zh_Hans) | 9 | 9 | 100.0 | /mnt/stockage/packages/f12/evolution-couchdb/po/zh_CN.po | 
 {.sortable}
 
 

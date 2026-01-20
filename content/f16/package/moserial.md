@@ -18,21 +18,21 @@ The package moserial (version 3.0.7):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f16/language/ca.md" >}}) | 757 | 757 | 100.0 | /mnt/stockage/packages/f16/moserial/po/ca.po | 
- | [cs]({{< ref "/f16/language/cs.md" >}}) | 2336 | 2336 | 100.0 | /mnt/stockage/packages/f16/moserial/doc/cs/cs.po/mnt/stockage/packages/f16/moserial/po/cs.po | 
- | [da]({{< ref "/f16/language/da.md" >}}) | 480 | 480 | 100.0 | /mnt/stockage/packages/f16/moserial/po/da.po | 
- | [de]({{< ref "/f16/language/de.md" >}}) | 2336 | 2336 | 100.0 | /mnt/stockage/packages/f16/moserial/doc/de/de.po/mnt/stockage/packages/f16/moserial/po/de.po | 
- | [es]({{< ref "/f16/language/es.md" >}}) | 2336 | 2336 | 100.0 | /mnt/stockage/packages/f16/moserial/doc/es/es.po/mnt/stockage/packages/f16/moserial/po/es.po | 
- | [fr]({{< ref "/f16/language/fr.md" >}}) | 2336 | 2336 | 100.0 | /mnt/stockage/packages/f16/moserial/doc/fr/fr.po/mnt/stockage/packages/f16/moserial/po/fr.po | 
- | [gl]({{< ref "/f16/language/gl.md" >}}) | 480 | 480 | 100.0 | /mnt/stockage/packages/f16/moserial/po/gl.po | 
- | [ja]({{< ref "/f16/language/ja.md" >}}) | 480 | 480 | 100.0 | /mnt/stockage/packages/f16/moserial/po/ja.po | 
- | [ko]({{< ref "/f16/language/ko.md" >}}) | 757 | 757 | 100.0 | /mnt/stockage/packages/f16/moserial/po/ko.po | 
- | [pt_BR]({{< ref "/f16/language/pt_BR.md" >}}) | 525 | 525 | 100.0 | /mnt/stockage/packages/f16/moserial/po/pt_BR.po | 
- | [zh_Hans]({{< ref "/f16/language/zh_Hans.md" >}}) | 525 | 525 | 100.0 | /mnt/stockage/packages/f16/moserial/po/zh_CN.po | 
- | [ro]({{< ref "/f16/language/ro.md" >}}) | 395 | 480 | 82.3 | /mnt/stockage/packages/f16/moserial/po/ro.po | 
- | [nb_NO]({{< ref "/f16/language/nb_NO.md" >}}) | 208 | 525 | 39.6 | /mnt/stockage/packages/f16/moserial/po/nb.po | 
- | [sv]({{< ref "/f16/language/sv.md" >}}) | 863 | 2644 | 32.6 | /mnt/stockage/packages/f16/moserial/doc/sv/sv.po/mnt/stockage/packages/f16/moserial/po/sv.po | 
- | [sl]({{< ref "/f16/language/sl.md" >}}) | 493 | 2364 | 20.9 | /mnt/stockage/packages/f16/moserial/doc/sl/sl.po/mnt/stockage/packages/f16/moserial/po/sl.po | 
+ | [ca](/f16/language/ca) | 757 | 757 | 100.0 | /mnt/stockage/packages/f16/moserial/po/ca.po | 
+ | [cs](/f16/language/cs) | 2336 | 2336 | 100.0 | /mnt/stockage/packages/f16/moserial/doc/cs/cs.po/mnt/stockage/packages/f16/moserial/po/cs.po | 
+ | [da](/f16/language/da) | 480 | 480 | 100.0 | /mnt/stockage/packages/f16/moserial/po/da.po | 
+ | [de](/f16/language/de) | 2336 | 2336 | 100.0 | /mnt/stockage/packages/f16/moserial/doc/de/de.po/mnt/stockage/packages/f16/moserial/po/de.po | 
+ | [es](/f16/language/es) | 2336 | 2336 | 100.0 | /mnt/stockage/packages/f16/moserial/doc/es/es.po/mnt/stockage/packages/f16/moserial/po/es.po | 
+ | [fr](/f16/language/fr) | 2336 | 2336 | 100.0 | /mnt/stockage/packages/f16/moserial/doc/fr/fr.po/mnt/stockage/packages/f16/moserial/po/fr.po | 
+ | [gl](/f16/language/gl) | 480 | 480 | 100.0 | /mnt/stockage/packages/f16/moserial/po/gl.po | 
+ | [ja](/f16/language/ja) | 480 | 480 | 100.0 | /mnt/stockage/packages/f16/moserial/po/ja.po | 
+ | [ko](/f16/language/ko) | 757 | 757 | 100.0 | /mnt/stockage/packages/f16/moserial/po/ko.po | 
+ | [pt_BR](/f16/language/pt_BR) | 525 | 525 | 100.0 | /mnt/stockage/packages/f16/moserial/po/pt_BR.po | 
+ | [zh_Hans](/f16/language/zh_Hans) | 525 | 525 | 100.0 | /mnt/stockage/packages/f16/moserial/po/zh_CN.po | 
+ | [ro](/f16/language/ro) | 395 | 480 | 82.3 | /mnt/stockage/packages/f16/moserial/po/ro.po | 
+ | [nb_NO](/f16/language/nb_NO) | 208 | 525 | 39.6 | /mnt/stockage/packages/f16/moserial/po/nb.po | 
+ | [sv](/f16/language/sv) | 863 | 2644 | 32.6 | /mnt/stockage/packages/f16/moserial/doc/sv/sv.po/mnt/stockage/packages/f16/moserial/po/sv.po | 
+ | [sl](/f16/language/sl) | 493 | 2364 | 20.9 | /mnt/stockage/packages/f16/moserial/doc/sl/sl.po/mnt/stockage/packages/f16/moserial/po/sl.po | 
 {.sortable}
 
 

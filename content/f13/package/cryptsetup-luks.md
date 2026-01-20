@@ -18,14 +18,14 @@ The package cryptsetup-luks (version 1.1.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [nl]({{< ref "/f13/language/nl.md" >}}) | 1024 | 1078 | 95.0 | /mnt/stockage/packages/f13/cryptsetup-luks/po/nl.po | 
- | [pl]({{< ref "/f13/language/pl.md" >}}) | 1024 | 1078 | 95.0 | /mnt/stockage/packages/f13/cryptsetup-luks/po/pl.po | 
- | [vi]({{< ref "/f13/language/vi.md" >}}) | 1024 | 1078 | 95.0 | /mnt/stockage/packages/f13/cryptsetup-luks/po/vi.po | 
- | [de]({{< ref "/f13/language/de.md" >}}) | 993 | 1078 | 92.1 | /mnt/stockage/packages/f13/cryptsetup-luks/po/de.po | 
- | [id]({{< ref "/f13/language/id.md" >}}) | 993 | 1078 | 92.1 | /mnt/stockage/packages/f13/cryptsetup-luks/po/id.po | 
- | [it]({{< ref "/f13/language/it.md" >}}) | 993 | 1078 | 92.1 | /mnt/stockage/packages/f13/cryptsetup-luks/po/it.po | 
- | [sv]({{< ref "/f13/language/sv.md" >}}) | 993 | 1078 | 92.1 | /mnt/stockage/packages/f13/cryptsetup-luks/po/sv.po | 
- | [fr]({{< ref "/f13/language/fr.md" >}}) | 893 | 1078 | 82.8 | /mnt/stockage/packages/f13/cryptsetup-luks/po/fr.po | 
+ | [nl](/f13/language/nl) | 1024 | 1078 | 95.0 | /mnt/stockage/packages/f13/cryptsetup-luks/po/nl.po | 
+ | [pl](/f13/language/pl) | 1024 | 1078 | 95.0 | /mnt/stockage/packages/f13/cryptsetup-luks/po/pl.po | 
+ | [vi](/f13/language/vi) | 1024 | 1078 | 95.0 | /mnt/stockage/packages/f13/cryptsetup-luks/po/vi.po | 
+ | [de](/f13/language/de) | 993 | 1078 | 92.1 | /mnt/stockage/packages/f13/cryptsetup-luks/po/de.po | 
+ | [id](/f13/language/id) | 993 | 1078 | 92.1 | /mnt/stockage/packages/f13/cryptsetup-luks/po/id.po | 
+ | [it](/f13/language/it) | 993 | 1078 | 92.1 | /mnt/stockage/packages/f13/cryptsetup-luks/po/it.po | 
+ | [sv](/f13/language/sv) | 993 | 1078 | 92.1 | /mnt/stockage/packages/f13/cryptsetup-luks/po/sv.po | 
+ | [fr](/f13/language/fr) | 893 | 1078 | 82.8 | /mnt/stockage/packages/f13/cryptsetup-luks/po/fr.po | 
 {.sortable}
 
 

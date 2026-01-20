@@ -18,10 +18,10 @@ The package kbilliards (version 0.8.7b):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f9/language/fr.md" >}}) | 203 | 208 | 97.6 | /mnt/stockage/packages/f9/kbilliards/po/fr.po | 
- | [it]({{< ref "/f9/language/it.md" >}}) | 197 | 208 | 94.7 | /mnt/stockage/packages/f9/kbilliards/po/it.po | 
- | [ru]({{< ref "/f9/language/ru.md" >}}) | 193 | 208 | 92.8 | /mnt/stockage/packages/f9/kbilliards/po/ru.po | 
- | [cs]({{< ref "/f9/language/cs.md" >}}) | 133 | 208 | 63.9 | /mnt/stockage/packages/f9/kbilliards/po/cs.po | 
+ | [fr](/f9/language/fr) | 203 | 208 | 97.6 | /mnt/stockage/packages/f9/kbilliards/po/fr.po | 
+ | [it](/f9/language/it) | 197 | 208 | 94.7 | /mnt/stockage/packages/f9/kbilliards/po/it.po | 
+ | [ru](/f9/language/ru) | 193 | 208 | 92.8 | /mnt/stockage/packages/f9/kbilliards/po/ru.po | 
+ | [cs](/f9/language/cs) | 133 | 208 | 63.9 | /mnt/stockage/packages/f9/kbilliards/po/cs.po | 
 {.sortable}
 
 

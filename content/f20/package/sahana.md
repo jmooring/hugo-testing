@@ -18,8 +18,8 @@ The package sahana (version 0.6.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [my]({{< ref "/f20/language/my.md" >}}) | 15009 | 29306 | 51.2 | /mnt/stockage/packages/f20/sahana/res/locale/my_MM/LC_MESSAGES/sahana.po/mnt/stockage/packages/f20/sahana/res/locale/my_MM/LC_MESSAGES/sahana_temp.po | 
- | [si]({{< ref "/f20/language/si.md" >}}) | 11657 | 31026 | 37.6 | /mnt/stockage/packages/f20/sahana/res/locale/si_LK/LC_MESSAGES/sahana.po/mnt/stockage/packages/f20/sahana/res/locale/si_LK/LC_MESSAGES/sahana_temp.po | 
+ | [my](/f20/language/my) | 15009 | 29306 | 51.2 | /mnt/stockage/packages/f20/sahana/res/locale/my_MM/LC_MESSAGES/sahana.po/mnt/stockage/packages/f20/sahana/res/locale/my_MM/LC_MESSAGES/sahana_temp.po | 
+ | [si](/f20/language/si) | 11657 | 31026 | 37.6 | /mnt/stockage/packages/f20/sahana/res/locale/si_LK/LC_MESSAGES/sahana.po/mnt/stockage/packages/f20/sahana/res/locale/si_LK/LC_MESSAGES/sahana_temp.po | 
 {.sortable}
 
 

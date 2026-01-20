@@ -18,15 +18,15 @@ The package rubygem-virt-p2v (version 0.8.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [es]({{< ref "/f14/language/es.md" >}}) | 1463 | 1463 | 100.0 | /mnt/stockage/packages/f14/rubygem-virt-p2v/po/es.po | 
- | [nl]({{< ref "/f14/language/nl.md" >}}) | 1463 | 1463 | 100.0 | /mnt/stockage/packages/f14/rubygem-virt-p2v/po/nl.po | 
- | [pl]({{< ref "/f14/language/pl.md" >}}) | 1463 | 1463 | 100.0 | /mnt/stockage/packages/f14/rubygem-virt-p2v/po/pl.po | 
- | [uk]({{< ref "/f14/language/uk.md" >}}) | 1463 | 1463 | 100.0 | /mnt/stockage/packages/f14/rubygem-virt-p2v/po/uk.po | 
- | [zh_Hans]({{< ref "/f14/language/zh_Hans.md" >}}) | 986 | 1463 | 67.4 | /mnt/stockage/packages/f14/rubygem-virt-p2v/po/zh_CN.po | 
- | [it]({{< ref "/f14/language/it.md" >}}) | 706 | 1463 | 48.3 | /mnt/stockage/packages/f14/rubygem-virt-p2v/po/it.po | 
- | [ru]({{< ref "/f14/language/ru.md" >}}) | 427 | 1463 | 29.2 | /mnt/stockage/packages/f14/rubygem-virt-p2v/po/ru.po | 
- | [or]({{< ref "/f14/language/or.md" >}}) | 28 | 1463 | 1.9 | /mnt/stockage/packages/f14/rubygem-virt-p2v/po/or.po | 
- | [te]({{< ref "/f14/language/te.md" >}}) | 28 | 1463 | 1.9 | /mnt/stockage/packages/f14/rubygem-virt-p2v/po/te.po | 
+ | [es](/f14/language/es) | 1463 | 1463 | 100.0 | /mnt/stockage/packages/f14/rubygem-virt-p2v/po/es.po | 
+ | [nl](/f14/language/nl) | 1463 | 1463 | 100.0 | /mnt/stockage/packages/f14/rubygem-virt-p2v/po/nl.po | 
+ | [pl](/f14/language/pl) | 1463 | 1463 | 100.0 | /mnt/stockage/packages/f14/rubygem-virt-p2v/po/pl.po | 
+ | [uk](/f14/language/uk) | 1463 | 1463 | 100.0 | /mnt/stockage/packages/f14/rubygem-virt-p2v/po/uk.po | 
+ | [zh_Hans](/f14/language/zh_Hans) | 986 | 1463 | 67.4 | /mnt/stockage/packages/f14/rubygem-virt-p2v/po/zh_CN.po | 
+ | [it](/f14/language/it) | 706 | 1463 | 48.3 | /mnt/stockage/packages/f14/rubygem-virt-p2v/po/it.po | 
+ | [ru](/f14/language/ru) | 427 | 1463 | 29.2 | /mnt/stockage/packages/f14/rubygem-virt-p2v/po/ru.po | 
+ | [or](/f14/language/or) | 28 | 1463 | 1.9 | /mnt/stockage/packages/f14/rubygem-virt-p2v/po/or.po | 
+ | [te](/f14/language/te) | 28 | 1463 | 1.9 | /mnt/stockage/packages/f14/rubygem-virt-p2v/po/te.po | 
 {.sortable}
 
 

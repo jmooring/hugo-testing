@@ -18,10 +18,10 @@ The package gnomecatalog (version 0.3.4.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [es]({{< ref "/f12/language/es.md" >}}) | 124 | 124 | 100.0 | /mnt/stockage/packages/f12/gnomecatalog/po/es.po | 
- | [de]({{< ref "/f12/language/de.md" >}}) | 126 | 127 | 99.2 | /mnt/stockage/packages/f12/gnomecatalog/po/de.po | 
- | [pl]({{< ref "/f12/language/pl.md" >}}) | 100 | 127 | 78.7 | /mnt/stockage/packages/f12/gnomecatalog/po/pl.po | 
- | [en]({{< ref "/f12/language/en.md" >}}) | 0 | 127 | 0.0 | /mnt/stockage/packages/f12/gnomecatalog/po/en.po | 
+ | [es](/f12/language/es) | 124 | 124 | 100.0 | /mnt/stockage/packages/f12/gnomecatalog/po/es.po | 
+ | [de](/f12/language/de) | 126 | 127 | 99.2 | /mnt/stockage/packages/f12/gnomecatalog/po/de.po | 
+ | [pl](/f12/language/pl) | 100 | 127 | 78.7 | /mnt/stockage/packages/f12/gnomecatalog/po/pl.po | 
+ | [en](/f12/language/en) | 0 | 127 | 0.0 | /mnt/stockage/packages/f12/gnomecatalog/po/en.po | 
 {.sortable}
 
 

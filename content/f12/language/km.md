@@ -38,78 +38,78 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [gimp]({{< ref "/f12/package/gimp.md" >}}) | 25383 | 25383 | 100.0 | Khmer <en@li.org> | 
- | [imp]({{< ref "/f12/package/imp.md" >}}) | 5647 | 5647 | 100.0 | Khmer <support@khmeros.info> | 
- | [inkscape]({{< ref "/f12/package/inkscape.md" >}}) | 24035 | 24035 | 100.0 | Khmer <en@li.org> | 
- | [k3b]({{< ref "/f12/package/k3b.md" >}}) | 20621 | 20621 | 100.0 | Khmer <en@li.org> | 
- | [kgrab]({{< ref "/f12/package/kgrab.md" >}}) | 370 | 370 | 100.0 | Khmer <support@khmeros.info> | 
- | [kiconedit]({{< ref "/f12/package/kiconedit.md" >}}) | 726 | 726 | 100.0 | Khmer <support@khmeros.info> | 
- | [kio_gopher]({{< ref "/f12/package/kio_gopher.md" >}}) | 17 | 17 | 100.0 | Khmer <support@khmeros.info> | 
- | [kio_sysinfo]({{< ref "/f12/package/kio_sysinfo.md" >}}) | 168 | 168 | 100.0 | Khmer <support@khmeros.info> | 
- | [kmid]({{< ref "/f12/package/kmid.md" >}}) | 535 | 535 | 100.0 | Khmer <support@khmeros.info> | 
- | [konq-plugins]({{< ref "/f12/package/konq-plugins.md" >}}) | 1692 | 1692 | 100.0 | Khmer <support@khmeros.info> | 
- | [kopete-cryptography]({{< ref "/f12/package/kopete-cryptography.md" >}}) | 408 | 408 | 100.0 | Khmer <support@khmeros.info> | 
- | [ksig]({{< ref "/f12/package/ksig.md" >}}) | 85 | 85 | 100.0 | Khmer <support@khmeros.info> | 
- | [libktorrent]({{< ref "/f12/package/libktorrent.md" >}}) | 417 | 417 | 100.0 | Khmer <support@khmeros.info> | 
- | [newt]({{< ref "/f12/package/newt.md" >}}) | 4 | 4 | 100.0 | Khmer <support@khmeros.info> | 
- | [squirrelmail]({{< ref "/f12/package/squirrelmail.md" >}}) | 18785 | 18785 | 100.0 | Khmer <squirrelmail-i18n@lists.sourceforge.net> | 
- | [sugar-memorize]({{< ref "/f12/package/sugar-memorize.md" >}}) | 50 | 50 | 100.0 | LANGUAGE <LL@li.org> | 
- | [sugar-read]({{< ref "/f12/package/sugar-read.md" >}}) | 26 | 26 | 100.0 | LANGUAGE <LL@li.org> | 
- | [sugar-record]({{< ref "/f12/package/sugar-record.md" >}}) | 137 | 137 | 100.0 | LANGUAGE <LL@li.org> | 
- | [sugar-write]({{< ref "/f12/package/sugar-write.md" >}}) | 69 | 69 | 100.0 | LANGUAGE <LL@li.org> | 
- | [tuxpaint]({{< ref "/f12/package/tuxpaint.md" >}}) | 761 | 761 | 100.0 | Khmer <support@khmeros.info> | 
- | [Django]({{< ref "/f12/package/Django.md" >}}) | 2390 | 2391 | 100.0 | Chay Sengtha <sengtha@e-khmer.com> | 
- | [kmplayer]({{< ref "/f12/package/kmplayer.md" >}}) | 1246 | 1248 | 99.8 | Khmer <support@khmeros.info> | 
- | [kwebkitpart]({{< ref "/f12/package/kwebkitpart.md" >}}) | 471 | 477 | 98.7 | Khmer <support@khmeros.info> | 
- | [iso-codes]({{< ref "/f12/package/iso-codes.md" >}}) | 1071 | 1092 | 98.1 | Khmer | 
- | [pidgin]({{< ref "/f12/package/pidgin.md" >}}) | 17650 | 18654 | 94.6 | Khmer <support@khmeros.info> | 
- | [sugar-browse]({{< ref "/f12/package/sugar-browse.md" >}}) | 46 | 50 | 92.0 | LANGUAGE <LL@li.org> | 
- | [pcmanfm]({{< ref "/f12/package/pcmanfm.md" >}}) | 1380 | 1520 | 90.8 | Khmer <km@li.org> | 
- | [tuxpaint-stamps]({{< ref "/f12/package/tuxpaint-stamps.md" >}}) | 2299 | 2617 | 87.8 | Khmer <support@khmeros.info> | 
- | [sugar-chat]({{< ref "/f12/package/sugar-chat.md" >}}) | 21 | 24 | 87.5 | LANGUAGE <LL@li.org> | 
- | [kcoloredit]({{< ref "/f12/package/kcoloredit.md" >}}) | 232 | 278 | 83.5 | Khmer <support@khmeros.info> | 
- | [kaffeine]({{< ref "/f12/package/kaffeine.md" >}}) | 408 | 507 | 80.5 | Khmer <kde-i18n-doc@kde.org> | 
- | [rsibreak]({{< ref "/f12/package/rsibreak.md" >}}) | 888 | 1223 | 72.6 | Khmer <support@khmeros.info> | 
- | [ktorrent]({{< ref "/f12/package/ktorrent.md" >}}) | 5412 | 7562 | 71.6 | Khmer <support@khmeros.info> | 
- | [kbluetooth]({{< ref "/f12/package/kbluetooth.md" >}}) | 230 | 341 | 67.4 | Khmer <support@khmeros.info> | 
- | [pam]({{< ref "/f12/package/pam.md" >}}) | 375 | 599 | 62.6 | Khmer <support@khmeros.info> | 
- | [dpkg]({{< ref "/f12/package/dpkg.md" >}}) | 4699 | 7604 | 61.8 | <en@li.org> | 
- | [skanlite]({{< ref "/f12/package/skanlite.md" >}}) | 81 | 142 | 57.0 | Khmer <support@khmeros.info> | 
- | [kerry]({{< ref "/f12/package/kerry.md" >}}) | 265 | 486 | 54.5 | Khmer <support@khmeros.info> | 
- | [sugar]({{< ref "/f12/package/sugar.md" >}}) | 173 | 319 | 54.2 | LANGUAGE <LL@li.org> | 
- | [pootle]({{< ref "/f12/package/pootle.md" >}}) | 2847 | 5251 | 54.2 | LANGUAGE <LL@li.org> | 
- | [audacity]({{< ref "/f12/package/audacity.md" >}}) | 4931 | 9628 | 51.2 | Khmer <en@li.org> | 
- | [kde-plasma-networkmanagement]({{< ref "/f12/package/kde-plasma-networkmanagement.md" >}}) | 696 | 1913 | 36.4 | Khmer <support@khmeros.info> | 
- | [shadow-utils]({{< ref "/f12/package/shadow-utils.md" >}}) | 1005 | 3221 | 31.2 | Khmer <support@khmeros.info> | 
- | [kipi-plugins]({{< ref "/f12/package/kipi-plugins.md" >}}) | 1958 | 7665 | 25.5 | Khmer <support@khmeros.info> | 
- | [sugar-finance]({{< ref "/f12/package/sugar-finance.md" >}}) | 34 | 142 | 23.9 | LANGUAGE <LL@li.org> | 
- | [knemo]({{< ref "/f12/package/knemo.md" >}}) | 200 | 1103 | 18.1 | Khmer <support@khmeros.info> | 
- | [digikam]({{< ref "/f12/package/digikam.md" >}}) | 3219 | 23446 | 13.7 | Khmer <support@khmeros.info> | 
- | [horde]({{< ref "/f12/package/horde.md" >}}) | 872 | 7095 | 12.3 | Khmer <support@khmeros.info> | 
- | [olpc-switch-desktop]({{< ref "/f12/package/olpc-switch-desktop.md" >}}) | 18 | 158 | 11.4 | LANGUAGE <LL@li.org> | 
- | [kphotoalbum]({{< ref "/f12/package/kphotoalbum.md" >}}) | 603 | 6333 | 9.5 | Khmer <support@khmeros.info> | 
- | [Miro]({{< ref "/f12/package/Miro.md" >}}) | 254 | 3336 | 7.6 | Khmer <km@li.org> | 
- | [sugar-turtleart]({{< ref "/f12/package/sugar-turtleart.md" >}}) | 2 | 78 | 2.6 | LANGUAGE <LL@li.org> | 
- | [filezilla]({{< ref "/f12/package/filezilla.md" >}}) | 85 | 9102 | 0.9 | Khmer <phireak@gmail.com> | 
- | [nautilus]({{< ref "/f12/package/nautilus.md" >}}) | 42 | 6771 | 0.6 | Khmer <support@khmeros.info> | 
- | [kpilot]({{< ref "/f12/package/kpilot.md" >}}) | 39 | 7156 | 0.5 | Khmer <support@khmeros.info> | 
- | [compiz]({{< ref "/f12/package/compiz.md" >}}) | 3 | 3279 | 0.1 | Khmer <i18n@suse.de> | 
- | [sugar-base]({{< ref "/f12/package/sugar-base.md" >}}) | 0 | 5 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-calculator]({{< ref "/f12/package/sugar-calculator.md" >}}) | 0 | 564 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-connect]({{< ref "/f12/package/sugar-connect.md" >}}) | 0 | 31 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-distance]({{< ref "/f12/package/sugar-distance.md" >}}) | 0 | 76 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-imageviewer]({{< ref "/f12/package/sugar-imageviewer.md" >}}) | 0 | 17 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-infoslicer]({{< ref "/f12/package/sugar-infoslicer.md" >}}) | 0 | 177 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-jukebox]({{< ref "/f12/package/sugar-jukebox.md" >}}) | 0 | 10 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-log]({{< ref "/f12/package/sugar-log.md" >}}) | 0 | 100 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-physics]({{< ref "/f12/package/sugar-physics.md" >}}) | 0 | 22 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-pippy]({{< ref "/f12/package/sugar-pippy.md" >}}) | 0 | 41 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-playgo]({{< ref "/f12/package/sugar-playgo.md" >}}) | 0 | 85 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-terminal]({{< ref "/f12/package/sugar-terminal.md" >}}) | 0 | 6 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-toolkit]({{< ref "/f12/package/sugar-toolkit.md" >}}) | 0 | 59 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-view-slides]({{< ref "/f12/package/sugar-view-slides.md" >}}) | 0 | 7 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-visualmatch]({{< ref "/f12/package/sugar-visualmatch.md" >}}) | 0 | 58 | 0.0 | LANGUAGE <LL@li.org> | 
- | [vidalia]({{< ref "/f12/package/vidalia.md" >}}) | 0 | 8645 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [gimp](/f12/package/gimp) | 25383 | 25383 | 100.0 | Khmer <en@li.org> | 
+ | [imp](/f12/package/imp) | 5647 | 5647 | 100.0 | Khmer <support@khmeros.info> | 
+ | [inkscape](/f12/package/inkscape) | 24035 | 24035 | 100.0 | Khmer <en@li.org> | 
+ | [k3b](/f12/package/k3b) | 20621 | 20621 | 100.0 | Khmer <en@li.org> | 
+ | [kgrab](/f12/package/kgrab) | 370 | 370 | 100.0 | Khmer <support@khmeros.info> | 
+ | [kiconedit](/f12/package/kiconedit) | 726 | 726 | 100.0 | Khmer <support@khmeros.info> | 
+ | [kio_gopher](/f12/package/kio_gopher) | 17 | 17 | 100.0 | Khmer <support@khmeros.info> | 
+ | [kio_sysinfo](/f12/package/kio_sysinfo) | 168 | 168 | 100.0 | Khmer <support@khmeros.info> | 
+ | [kmid](/f12/package/kmid) | 535 | 535 | 100.0 | Khmer <support@khmeros.info> | 
+ | [konq-plugins](/f12/package/konq-plugins) | 1692 | 1692 | 100.0 | Khmer <support@khmeros.info> | 
+ | [kopete-cryptography](/f12/package/kopete-cryptography) | 408 | 408 | 100.0 | Khmer <support@khmeros.info> | 
+ | [ksig](/f12/package/ksig) | 85 | 85 | 100.0 | Khmer <support@khmeros.info> | 
+ | [libktorrent](/f12/package/libktorrent) | 417 | 417 | 100.0 | Khmer <support@khmeros.info> | 
+ | [newt](/f12/package/newt) | 4 | 4 | 100.0 | Khmer <support@khmeros.info> | 
+ | [squirrelmail](/f12/package/squirrelmail) | 18785 | 18785 | 100.0 | Khmer <squirrelmail-i18n@lists.sourceforge.net> | 
+ | [sugar-memorize](/f12/package/sugar-memorize) | 50 | 50 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-read](/f12/package/sugar-read) | 26 | 26 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-record](/f12/package/sugar-record) | 137 | 137 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-write](/f12/package/sugar-write) | 69 | 69 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [tuxpaint](/f12/package/tuxpaint) | 761 | 761 | 100.0 | Khmer <support@khmeros.info> | 
+ | [Django](/f12/package/Django) | 2390 | 2391 | 100.0 | Chay Sengtha <sengtha@e-khmer.com> | 
+ | [kmplayer](/f12/package/kmplayer) | 1246 | 1248 | 99.8 | Khmer <support@khmeros.info> | 
+ | [kwebkitpart](/f12/package/kwebkitpart) | 471 | 477 | 98.7 | Khmer <support@khmeros.info> | 
+ | [iso-codes](/f12/package/iso-codes) | 1071 | 1092 | 98.1 | Khmer | 
+ | [pidgin](/f12/package/pidgin) | 17650 | 18654 | 94.6 | Khmer <support@khmeros.info> | 
+ | [sugar-browse](/f12/package/sugar-browse) | 46 | 50 | 92.0 | LANGUAGE <LL@li.org> | 
+ | [pcmanfm](/f12/package/pcmanfm) | 1380 | 1520 | 90.8 | Khmer <km@li.org> | 
+ | [tuxpaint-stamps](/f12/package/tuxpaint-stamps) | 2299 | 2617 | 87.8 | Khmer <support@khmeros.info> | 
+ | [sugar-chat](/f12/package/sugar-chat) | 21 | 24 | 87.5 | LANGUAGE <LL@li.org> | 
+ | [kcoloredit](/f12/package/kcoloredit) | 232 | 278 | 83.5 | Khmer <support@khmeros.info> | 
+ | [kaffeine](/f12/package/kaffeine) | 408 | 507 | 80.5 | Khmer <kde-i18n-doc@kde.org> | 
+ | [rsibreak](/f12/package/rsibreak) | 888 | 1223 | 72.6 | Khmer <support@khmeros.info> | 
+ | [ktorrent](/f12/package/ktorrent) | 5412 | 7562 | 71.6 | Khmer <support@khmeros.info> | 
+ | [kbluetooth](/f12/package/kbluetooth) | 230 | 341 | 67.4 | Khmer <support@khmeros.info> | 
+ | [pam](/f12/package/pam) | 375 | 599 | 62.6 | Khmer <support@khmeros.info> | 
+ | [dpkg](/f12/package/dpkg) | 4699 | 7604 | 61.8 | <en@li.org> | 
+ | [skanlite](/f12/package/skanlite) | 81 | 142 | 57.0 | Khmer <support@khmeros.info> | 
+ | [kerry](/f12/package/kerry) | 265 | 486 | 54.5 | Khmer <support@khmeros.info> | 
+ | [sugar](/f12/package/sugar) | 173 | 319 | 54.2 | LANGUAGE <LL@li.org> | 
+ | [pootle](/f12/package/pootle) | 2847 | 5251 | 54.2 | LANGUAGE <LL@li.org> | 
+ | [audacity](/f12/package/audacity) | 4931 | 9628 | 51.2 | Khmer <en@li.org> | 
+ | [kde-plasma-networkmanagement](/f12/package/kde-plasma-networkmanagement) | 696 | 1913 | 36.4 | Khmer <support@khmeros.info> | 
+ | [shadow-utils](/f12/package/shadow-utils) | 1005 | 3221 | 31.2 | Khmer <support@khmeros.info> | 
+ | [kipi-plugins](/f12/package/kipi-plugins) | 1958 | 7665 | 25.5 | Khmer <support@khmeros.info> | 
+ | [sugar-finance](/f12/package/sugar-finance) | 34 | 142 | 23.9 | LANGUAGE <LL@li.org> | 
+ | [knemo](/f12/package/knemo) | 200 | 1103 | 18.1 | Khmer <support@khmeros.info> | 
+ | [digikam](/f12/package/digikam) | 3219 | 23446 | 13.7 | Khmer <support@khmeros.info> | 
+ | [horde](/f12/package/horde) | 872 | 7095 | 12.3 | Khmer <support@khmeros.info> | 
+ | [olpc-switch-desktop](/f12/package/olpc-switch-desktop) | 18 | 158 | 11.4 | LANGUAGE <LL@li.org> | 
+ | [kphotoalbum](/f12/package/kphotoalbum) | 603 | 6333 | 9.5 | Khmer <support@khmeros.info> | 
+ | [Miro](/f12/package/Miro) | 254 | 3336 | 7.6 | Khmer <km@li.org> | 
+ | [sugar-turtleart](/f12/package/sugar-turtleart) | 2 | 78 | 2.6 | LANGUAGE <LL@li.org> | 
+ | [filezilla](/f12/package/filezilla) | 85 | 9102 | 0.9 | Khmer <phireak@gmail.com> | 
+ | [nautilus](/f12/package/nautilus) | 42 | 6771 | 0.6 | Khmer <support@khmeros.info> | 
+ | [kpilot](/f12/package/kpilot) | 39 | 7156 | 0.5 | Khmer <support@khmeros.info> | 
+ | [compiz](/f12/package/compiz) | 3 | 3279 | 0.1 | Khmer <i18n@suse.de> | 
+ | [sugar-base](/f12/package/sugar-base) | 0 | 5 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-calculator](/f12/package/sugar-calculator) | 0 | 564 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-connect](/f12/package/sugar-connect) | 0 | 31 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-distance](/f12/package/sugar-distance) | 0 | 76 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-imageviewer](/f12/package/sugar-imageviewer) | 0 | 17 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-infoslicer](/f12/package/sugar-infoslicer) | 0 | 177 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-jukebox](/f12/package/sugar-jukebox) | 0 | 10 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-log](/f12/package/sugar-log) | 0 | 100 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-physics](/f12/package/sugar-physics) | 0 | 22 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-pippy](/f12/package/sugar-pippy) | 0 | 41 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-playgo](/f12/package/sugar-playgo) | 0 | 85 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-terminal](/f12/package/sugar-terminal) | 0 | 6 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-toolkit](/f12/package/sugar-toolkit) | 0 | 59 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-view-slides](/f12/package/sugar-view-slides) | 0 | 7 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-visualmatch](/f12/package/sugar-visualmatch) | 0 | 58 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [vidalia](/f12/package/vidalia) | 0 | 8645 | 0.0 | LANGUAGE <LL@li.org> | 
 {.sortable}
 
 

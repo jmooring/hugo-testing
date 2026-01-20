@@ -38,10 +38,10 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [zarafa]({{< ref "/f21/package/zarafa.md" >}}) | 3199 | 3383 | 94.6 | fr_FR <fr@li.org> | 
- | [intltool]({{< ref "/f21/package/intltool.md" >}}) | 9 | 10 | 90.0 | NONE <kenneth@gnu.org> | 
- | [openerp]({{< ref "/f21/package/openerp.md" >}}) | 52 | 11494 | 0.5 | French (Belgium) <fr_BE@li.org> | 
- | [openerp7]({{< ref "/f21/package/openerp7.md" >}}) | 28 | 11618 | 0.2 | French (Belgium) <fr_BE@li.org> | 
+ | [zarafa](/f21/package/zarafa) | 3199 | 3383 | 94.6 | fr_FR <fr@li.org> | 
+ | [intltool](/f21/package/intltool) | 9 | 10 | 90.0 | NONE <kenneth@gnu.org> | 
+ | [openerp](/f21/package/openerp) | 52 | 11494 | 0.5 | French (Belgium) <fr_BE@li.org> | 
+ | [openerp7](/f21/package/openerp7) | 28 | 11618 | 0.2 | French (Belgium) <fr_BE@li.org> | 
 {.sortable}
 
 

@@ -18,36 +18,36 @@ The package Zim (version 0.62):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f19/language/cs.md" >}}) | 2677 | 2677 | 100.0 | /mnt/stockage/packages/f19/Zim/translations/cs.po | 
- | [de]({{< ref "/f19/language/de.md" >}}) | 2677 | 2677 | 100.0 | /mnt/stockage/packages/f19/Zim/translations/de.po | 
- | [fr]({{< ref "/f19/language/fr.md" >}}) | 2677 | 2677 | 100.0 | /mnt/stockage/packages/f19/Zim/translations/fr.po | 
- | [it]({{< ref "/f19/language/it.md" >}}) | 2677 | 2677 | 100.0 | /mnt/stockage/packages/f19/Zim/translations/it.po | 
- | [nl]({{< ref "/f19/language/nl.md" >}}) | 2677 | 2677 | 100.0 | /mnt/stockage/packages/f19/Zim/translations/nl.po | 
- | [ro]({{< ref "/f19/language/ro.md" >}}) | 2677 | 2677 | 100.0 | /mnt/stockage/packages/f19/Zim/translations/ro.po | 
- | [zh_Hans]({{< ref "/f19/language/zh_Hans.md" >}}) | 2675 | 2677 | 99.9 | /mnt/stockage/packages/f19/Zim/translations/zh_CN.po | 
- | [ja]({{< ref "/f19/language/ja.md" >}}) | 2623 | 2677 | 98.0 | /mnt/stockage/packages/f19/Zim/translations/ja.po | 
- | [ru]({{< ref "/f19/language/ru.md" >}}) | 2415 | 2677 | 90.2 | /mnt/stockage/packages/f19/Zim/translations/ru.po | 
- | [pt_BR]({{< ref "/f19/language/pt_BR.md" >}}) | 2403 | 2677 | 89.8 | /mnt/stockage/packages/f19/Zim/translations/pt_BR.po | 
- | [es]({{< ref "/f19/language/es.md" >}}) | 2394 | 2677 | 89.4 | /mnt/stockage/packages/f19/Zim/translations/es.po | 
- | [fi]({{< ref "/f19/language/fi.md" >}}) | 2394 | 2677 | 89.4 | /mnt/stockage/packages/f19/Zim/translations/fi.po | 
- | [hu]({{< ref "/f19/language/hu.md" >}}) | 2394 | 2677 | 89.4 | /mnt/stockage/packages/f19/Zim/translations/hu.po | 
- | [sl]({{< ref "/f19/language/sl.md" >}}) | 2394 | 2677 | 89.4 | /mnt/stockage/packages/f19/Zim/translations/sl.po | 
- | [en_GB]({{< ref "/f19/language/en_GB.md" >}}) | 2293 | 2677 | 85.7 | /mnt/stockage/packages/f19/Zim/translations/en_GB.po | 
- | [el]({{< ref "/f19/language/el.md" >}}) | 2285 | 2677 | 85.4 | /mnt/stockage/packages/f19/Zim/translations/el.po | 
- | [pl]({{< ref "/f19/language/pl.md" >}}) | 2237 | 2677 | 83.6 | /mnt/stockage/packages/f19/Zim/translations/pl.po | 
- | [tr]({{< ref "/f19/language/tr.md" >}}) | 2216 | 2677 | 82.8 | /mnt/stockage/packages/f19/Zim/translations/tr.po | 
- | [da]({{< ref "/f19/language/da.md" >}}) | 2199 | 2677 | 82.1 | /mnt/stockage/packages/f19/Zim/translations/da.po | 
- | [he]({{< ref "/f19/language/he.md" >}}) | 2158 | 2677 | 80.6 | /mnt/stockage/packages/f19/Zim/translations/he.po | 
- | [zh_Hant]({{< ref "/f19/language/zh_Hant.md" >}}) | 2082 | 2677 | 77.8 | /mnt/stockage/packages/f19/Zim/translations/zh_TW.po | 
- | [gl]({{< ref "/f19/language/gl.md" >}}) | 2035 | 2677 | 76.0 | /mnt/stockage/packages/f19/Zim/translations/gl.po | 
- | [sv]({{< ref "/f19/language/sv.md" >}}) | 1827 | 2677 | 68.2 | /mnt/stockage/packages/f19/Zim/translations/sv.po | 
- | [uk]({{< ref "/f19/language/uk.md" >}}) | 1602 | 2677 | 59.8 | /mnt/stockage/packages/f19/Zim/translations/uk.po | 
- | [et]({{< ref "/f19/language/et.md" >}}) | 1599 | 2677 | 59.7 | /mnt/stockage/packages/f19/Zim/translations/et.po | 
- | [ca]({{< ref "/f19/language/ca.md" >}}) | 1515 | 2677 | 56.6 | /mnt/stockage/packages/f19/Zim/translations/ca.po | 
- | [nb_NO]({{< ref "/f19/language/nb_NO.md" >}}) | 1097 | 2677 | 41.0 | /mnt/stockage/packages/f19/Zim/translations/nb.po | 
- | [sk]({{< ref "/f19/language/sk.md" >}}) | 1016 | 2677 | 38.0 | /mnt/stockage/packages/f19/Zim/translations/sk.po | 
- | [sr]({{< ref "/f19/language/sr.md" >}}) | 997 | 2677 | 37.2 | /mnt/stockage/packages/f19/Zim/translations/sr.po | 
- | [ko]({{< ref "/f19/language/ko.md" >}}) | 976 | 2677 | 36.5 | /mnt/stockage/packages/f19/Zim/translations/ko.po | 
+ | [cs](/f19/language/cs) | 2677 | 2677 | 100.0 | /mnt/stockage/packages/f19/Zim/translations/cs.po | 
+ | [de](/f19/language/de) | 2677 | 2677 | 100.0 | /mnt/stockage/packages/f19/Zim/translations/de.po | 
+ | [fr](/f19/language/fr) | 2677 | 2677 | 100.0 | /mnt/stockage/packages/f19/Zim/translations/fr.po | 
+ | [it](/f19/language/it) | 2677 | 2677 | 100.0 | /mnt/stockage/packages/f19/Zim/translations/it.po | 
+ | [nl](/f19/language/nl) | 2677 | 2677 | 100.0 | /mnt/stockage/packages/f19/Zim/translations/nl.po | 
+ | [ro](/f19/language/ro) | 2677 | 2677 | 100.0 | /mnt/stockage/packages/f19/Zim/translations/ro.po | 
+ | [zh_Hans](/f19/language/zh_Hans) | 2675 | 2677 | 99.9 | /mnt/stockage/packages/f19/Zim/translations/zh_CN.po | 
+ | [ja](/f19/language/ja) | 2623 | 2677 | 98.0 | /mnt/stockage/packages/f19/Zim/translations/ja.po | 
+ | [ru](/f19/language/ru) | 2415 | 2677 | 90.2 | /mnt/stockage/packages/f19/Zim/translations/ru.po | 
+ | [pt_BR](/f19/language/pt_BR) | 2403 | 2677 | 89.8 | /mnt/stockage/packages/f19/Zim/translations/pt_BR.po | 
+ | [es](/f19/language/es) | 2394 | 2677 | 89.4 | /mnt/stockage/packages/f19/Zim/translations/es.po | 
+ | [fi](/f19/language/fi) | 2394 | 2677 | 89.4 | /mnt/stockage/packages/f19/Zim/translations/fi.po | 
+ | [hu](/f19/language/hu) | 2394 | 2677 | 89.4 | /mnt/stockage/packages/f19/Zim/translations/hu.po | 
+ | [sl](/f19/language/sl) | 2394 | 2677 | 89.4 | /mnt/stockage/packages/f19/Zim/translations/sl.po | 
+ | [en_GB](/f19/language/en_GB) | 2293 | 2677 | 85.7 | /mnt/stockage/packages/f19/Zim/translations/en_GB.po | 
+ | [el](/f19/language/el) | 2285 | 2677 | 85.4 | /mnt/stockage/packages/f19/Zim/translations/el.po | 
+ | [pl](/f19/language/pl) | 2237 | 2677 | 83.6 | /mnt/stockage/packages/f19/Zim/translations/pl.po | 
+ | [tr](/f19/language/tr) | 2216 | 2677 | 82.8 | /mnt/stockage/packages/f19/Zim/translations/tr.po | 
+ | [da](/f19/language/da) | 2199 | 2677 | 82.1 | /mnt/stockage/packages/f19/Zim/translations/da.po | 
+ | [he](/f19/language/he) | 2158 | 2677 | 80.6 | /mnt/stockage/packages/f19/Zim/translations/he.po | 
+ | [zh_Hant](/f19/language/zh_Hant) | 2082 | 2677 | 77.8 | /mnt/stockage/packages/f19/Zim/translations/zh_TW.po | 
+ | [gl](/f19/language/gl) | 2035 | 2677 | 76.0 | /mnt/stockage/packages/f19/Zim/translations/gl.po | 
+ | [sv](/f19/language/sv) | 1827 | 2677 | 68.2 | /mnt/stockage/packages/f19/Zim/translations/sv.po | 
+ | [uk](/f19/language/uk) | 1602 | 2677 | 59.8 | /mnt/stockage/packages/f19/Zim/translations/uk.po | 
+ | [et](/f19/language/et) | 1599 | 2677 | 59.7 | /mnt/stockage/packages/f19/Zim/translations/et.po | 
+ | [ca](/f19/language/ca) | 1515 | 2677 | 56.6 | /mnt/stockage/packages/f19/Zim/translations/ca.po | 
+ | [nb_NO](/f19/language/nb_NO) | 1097 | 2677 | 41.0 | /mnt/stockage/packages/f19/Zim/translations/nb.po | 
+ | [sk](/f19/language/sk) | 1016 | 2677 | 38.0 | /mnt/stockage/packages/f19/Zim/translations/sk.po | 
+ | [sr](/f19/language/sr) | 997 | 2677 | 37.2 | /mnt/stockage/packages/f19/Zim/translations/sr.po | 
+ | [ko](/f19/language/ko) | 976 | 2677 | 36.5 | /mnt/stockage/packages/f19/Zim/translations/ko.po | 
 {.sortable}
 
 

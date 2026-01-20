@@ -18,32 +18,32 @@ The package xfce4-mixer (version 4.6.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f11/language/ca.md" >}}) | 181 | 181 | 100.0 | /mnt/stockage/packages/f11/xfce4-mixer/po/ca.po | 
- | [cs]({{< ref "/f11/language/cs.md" >}}) | 181 | 181 | 100.0 | /mnt/stockage/packages/f11/xfce4-mixer/po/cs.po | 
- | [da]({{< ref "/f11/language/da.md" >}}) | 181 | 181 | 100.0 | /mnt/stockage/packages/f11/xfce4-mixer/po/da.po | 
- | [de]({{< ref "/f11/language/de.md" >}}) | 181 | 181 | 100.0 | /mnt/stockage/packages/f11/xfce4-mixer/po/de.po | 
- | [es]({{< ref "/f11/language/es.md" >}}) | 181 | 181 | 100.0 | /mnt/stockage/packages/f11/xfce4-mixer/po/es.po | 
- | [eu]({{< ref "/f11/language/eu.md" >}}) | 181 | 181 | 100.0 | /mnt/stockage/packages/f11/xfce4-mixer/po/eu.po | 
- | [fi]({{< ref "/f11/language/fi.md" >}}) | 181 | 181 | 100.0 | /mnt/stockage/packages/f11/xfce4-mixer/po/fi.po | 
- | [fr]({{< ref "/f11/language/fr.md" >}}) | 181 | 181 | 100.0 | /mnt/stockage/packages/f11/xfce4-mixer/po/fr.po | 
- | [id]({{< ref "/f11/language/id.md" >}}) | 181 | 181 | 100.0 | /mnt/stockage/packages/f11/xfce4-mixer/po/id.po | 
- | [it]({{< ref "/f11/language/it.md" >}}) | 124 | 124 | 100.0 | /mnt/stockage/packages/f11/xfce4-mixer/po/it.po | 
- | [ja]({{< ref "/f11/language/ja.md" >}}) | 181 | 181 | 100.0 | /mnt/stockage/packages/f11/xfce4-mixer/po/ja.po | 
- | [nb_NO]({{< ref "/f11/language/nb_NO.md" >}}) | 181 | 181 | 100.0 | /mnt/stockage/packages/f11/xfce4-mixer/po/nb.po | 
- | [pl]({{< ref "/f11/language/pl.md" >}}) | 181 | 181 | 100.0 | /mnt/stockage/packages/f11/xfce4-mixer/po/pl.po | 
- | [pt]({{< ref "/f11/language/pt.md" >}}) | 181 | 181 | 100.0 | /mnt/stockage/packages/f11/xfce4-mixer/po/pt.po | 
- | [pt_BR]({{< ref "/f11/language/pt_BR.md" >}}) | 181 | 181 | 100.0 | /mnt/stockage/packages/f11/xfce4-mixer/po/pt_BR.po | 
- | [sv]({{< ref "/f11/language/sv.md" >}}) | 181 | 181 | 100.0 | /mnt/stockage/packages/f11/xfce4-mixer/po/sv.po | 
- | [tr]({{< ref "/f11/language/tr.md" >}}) | 181 | 181 | 100.0 | /mnt/stockage/packages/f11/xfce4-mixer/po/tr.po | 
- | [uk]({{< ref "/f11/language/uk.md" >}}) | 181 | 181 | 100.0 | /mnt/stockage/packages/f11/xfce4-mixer/po/uk.po | 
- | [zh_Hans]({{< ref "/f11/language/zh_Hans.md" >}}) | 181 | 181 | 100.0 | /mnt/stockage/packages/f11/xfce4-mixer/po/zh_CN.po | 
- | [hu]({{< ref "/f11/language/hu.md" >}}) | 174 | 181 | 96.1 | /mnt/stockage/packages/f11/xfce4-mixer/po/hu.po | 
- | [si]({{< ref "/f11/language/si.md" >}}) | 99 | 181 | 54.7 | /mnt/stockage/packages/f11/xfce4-mixer/po/si.po | 
- | [gl]({{< ref "/f11/language/gl.md" >}}) | 91 | 181 | 50.3 | /mnt/stockage/packages/f11/xfce4-mixer/po/gl.po | 
- | [ru]({{< ref "/f11/language/ru.md" >}}) | 42 | 181 | 23.2 | /mnt/stockage/packages/f11/xfce4-mixer/po/ru.po | 
- | [ar]({{< ref "/f11/language/ar.md" >}}) | 19 | 181 | 10.5 | /mnt/stockage/packages/f11/xfce4-mixer/po/ar.po | 
- | [nl]({{< ref "/f11/language/nl.md" >}}) | 14 | 181 | 7.7 | /mnt/stockage/packages/f11/xfce4-mixer/po/nl.po | 
- | [am]({{< ref "/f11/language/am.md" >}}) | 0 | 181 | 0.0 | /mnt/stockage/packages/f11/xfce4-mixer/po/am.po | 
+ | [ca](/f11/language/ca) | 181 | 181 | 100.0 | /mnt/stockage/packages/f11/xfce4-mixer/po/ca.po | 
+ | [cs](/f11/language/cs) | 181 | 181 | 100.0 | /mnt/stockage/packages/f11/xfce4-mixer/po/cs.po | 
+ | [da](/f11/language/da) | 181 | 181 | 100.0 | /mnt/stockage/packages/f11/xfce4-mixer/po/da.po | 
+ | [de](/f11/language/de) | 181 | 181 | 100.0 | /mnt/stockage/packages/f11/xfce4-mixer/po/de.po | 
+ | [es](/f11/language/es) | 181 | 181 | 100.0 | /mnt/stockage/packages/f11/xfce4-mixer/po/es.po | 
+ | [eu](/f11/language/eu) | 181 | 181 | 100.0 | /mnt/stockage/packages/f11/xfce4-mixer/po/eu.po | 
+ | [fi](/f11/language/fi) | 181 | 181 | 100.0 | /mnt/stockage/packages/f11/xfce4-mixer/po/fi.po | 
+ | [fr](/f11/language/fr) | 181 | 181 | 100.0 | /mnt/stockage/packages/f11/xfce4-mixer/po/fr.po | 
+ | [id](/f11/language/id) | 181 | 181 | 100.0 | /mnt/stockage/packages/f11/xfce4-mixer/po/id.po | 
+ | [it](/f11/language/it) | 124 | 124 | 100.0 | /mnt/stockage/packages/f11/xfce4-mixer/po/it.po | 
+ | [ja](/f11/language/ja) | 181 | 181 | 100.0 | /mnt/stockage/packages/f11/xfce4-mixer/po/ja.po | 
+ | [nb_NO](/f11/language/nb_NO) | 181 | 181 | 100.0 | /mnt/stockage/packages/f11/xfce4-mixer/po/nb.po | 
+ | [pl](/f11/language/pl) | 181 | 181 | 100.0 | /mnt/stockage/packages/f11/xfce4-mixer/po/pl.po | 
+ | [pt](/f11/language/pt) | 181 | 181 | 100.0 | /mnt/stockage/packages/f11/xfce4-mixer/po/pt.po | 
+ | [pt_BR](/f11/language/pt_BR) | 181 | 181 | 100.0 | /mnt/stockage/packages/f11/xfce4-mixer/po/pt_BR.po | 
+ | [sv](/f11/language/sv) | 181 | 181 | 100.0 | /mnt/stockage/packages/f11/xfce4-mixer/po/sv.po | 
+ | [tr](/f11/language/tr) | 181 | 181 | 100.0 | /mnt/stockage/packages/f11/xfce4-mixer/po/tr.po | 
+ | [uk](/f11/language/uk) | 181 | 181 | 100.0 | /mnt/stockage/packages/f11/xfce4-mixer/po/uk.po | 
+ | [zh_Hans](/f11/language/zh_Hans) | 181 | 181 | 100.0 | /mnt/stockage/packages/f11/xfce4-mixer/po/zh_CN.po | 
+ | [hu](/f11/language/hu) | 174 | 181 | 96.1 | /mnt/stockage/packages/f11/xfce4-mixer/po/hu.po | 
+ | [si](/f11/language/si) | 99 | 181 | 54.7 | /mnt/stockage/packages/f11/xfce4-mixer/po/si.po | 
+ | [gl](/f11/language/gl) | 91 | 181 | 50.3 | /mnt/stockage/packages/f11/xfce4-mixer/po/gl.po | 
+ | [ru](/f11/language/ru) | 42 | 181 | 23.2 | /mnt/stockage/packages/f11/xfce4-mixer/po/ru.po | 
+ | [ar](/f11/language/ar) | 19 | 181 | 10.5 | /mnt/stockage/packages/f11/xfce4-mixer/po/ar.po | 
+ | [nl](/f11/language/nl) | 14 | 181 | 7.7 | /mnt/stockage/packages/f11/xfce4-mixer/po/nl.po | 
+ | [am](/f11/language/am) | 0 | 181 | 0.0 | /mnt/stockage/packages/f11/xfce4-mixer/po/am.po | 
 {.sortable}
 
 

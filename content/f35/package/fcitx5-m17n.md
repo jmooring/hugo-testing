@@ -18,16 +18,16 @@ The package fcitx5-m17n (version 5.0.9):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [da]({{< ref "/f35/language/da.md" >}}) | 30 | 30 | 100.0 | /mnt/stockage/packages/f35/fcitx5-m17n/po/da.po | 
- | [ja]({{< ref "/f35/language/ja.md" >}}) | 30 | 30 | 100.0 | /mnt/stockage/packages/f35/fcitx5-m17n/po/ja.po | 
- | [ko]({{< ref "/f35/language/ko.md" >}}) | 30 | 30 | 100.0 | /mnt/stockage/packages/f35/fcitx5-m17n/po/ko.po | 
- | [ru]({{< ref "/f35/language/ru.md" >}}) | 30 | 30 | 100.0 | /mnt/stockage/packages/f35/fcitx5-m17n/po/ru.po | 
- | [tr]({{< ref "/f35/language/tr.md" >}}) | 30 | 30 | 100.0 | /mnt/stockage/packages/f35/fcitx5-m17n/po/tr.po | 
- | [zh_Hans]({{< ref "/f35/language/zh_Hans.md" >}}) | 30 | 30 | 100.0 | /mnt/stockage/packages/f35/fcitx5-m17n/po/zh_CN.po | 
- | [de]({{< ref "/f35/language/de.md" >}}) | 23 | 30 | 76.7 | /mnt/stockage/packages/f35/fcitx5-m17n/po/de.po | 
- | [zh_Hant]({{< ref "/f35/language/zh_Hant.md" >}}) | 23 | 30 | 76.7 | /mnt/stockage/packages/f35/fcitx5-m17n/po/zh_TW.po | 
- | [ca]({{< ref "/f35/language/ca.md" >}}) | 19 | 30 | 63.3 | /mnt/stockage/packages/f35/fcitx5-m17n/po/ca.po | 
- | [he]({{< ref "/f35/language/he.md" >}}) | 2 | 30 | 6.7 | /mnt/stockage/packages/f35/fcitx5-m17n/po/he.po | 
+ | [da](/f35/language/da) | 30 | 30 | 100.0 | /mnt/stockage/packages/f35/fcitx5-m17n/po/da.po | 
+ | [ja](/f35/language/ja) | 30 | 30 | 100.0 | /mnt/stockage/packages/f35/fcitx5-m17n/po/ja.po | 
+ | [ko](/f35/language/ko) | 30 | 30 | 100.0 | /mnt/stockage/packages/f35/fcitx5-m17n/po/ko.po | 
+ | [ru](/f35/language/ru) | 30 | 30 | 100.0 | /mnt/stockage/packages/f35/fcitx5-m17n/po/ru.po | 
+ | [tr](/f35/language/tr) | 30 | 30 | 100.0 | /mnt/stockage/packages/f35/fcitx5-m17n/po/tr.po | 
+ | [zh_Hans](/f35/language/zh_Hans) | 30 | 30 | 100.0 | /mnt/stockage/packages/f35/fcitx5-m17n/po/zh_CN.po | 
+ | [de](/f35/language/de) | 23 | 30 | 76.7 | /mnt/stockage/packages/f35/fcitx5-m17n/po/de.po | 
+ | [zh_Hant](/f35/language/zh_Hant) | 23 | 30 | 76.7 | /mnt/stockage/packages/f35/fcitx5-m17n/po/zh_TW.po | 
+ | [ca](/f35/language/ca) | 19 | 30 | 63.3 | /mnt/stockage/packages/f35/fcitx5-m17n/po/ca.po | 
+ | [he](/f35/language/he) | 2 | 30 | 6.7 | /mnt/stockage/packages/f35/fcitx5-m17n/po/he.po | 
 {.sortable}
 
 

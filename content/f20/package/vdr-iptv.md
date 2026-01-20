@@ -18,12 +18,12 @@ The package vdr-iptv (version 2.0.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fi]({{< ref "/f20/language/fi.md" >}}) | 256 | 256 | 100.0 | /mnt/stockage/packages/f20/vdr-iptv/po/fi_FI.po | 
- | [fr]({{< ref "/f20/language/fr.md" >}}) | 256 | 256 | 100.0 | /mnt/stockage/packages/f20/vdr-iptv/po/fr_FR.po | 
- | [it]({{< ref "/f20/language/it.md" >}}) | 256 | 256 | 100.0 | /mnt/stockage/packages/f20/vdr-iptv/po/it_IT.po | 
- | [nl]({{< ref "/f20/language/nl.md" >}}) | 256 | 256 | 100.0 | /mnt/stockage/packages/f20/vdr-iptv/po/nl_NL.po | 
- | [ru]({{< ref "/f20/language/ru.md" >}}) | 70 | 256 | 27.3 | /mnt/stockage/packages/f20/vdr-iptv/po/ru_RU.po | 
- | [de]({{< ref "/f20/language/de.md" >}}) | 63 | 256 | 24.6 | /mnt/stockage/packages/f20/vdr-iptv/po/de_DE.po | 
+ | [fi](/f20/language/fi) | 256 | 256 | 100.0 | /mnt/stockage/packages/f20/vdr-iptv/po/fi_FI.po | 
+ | [fr](/f20/language/fr) | 256 | 256 | 100.0 | /mnt/stockage/packages/f20/vdr-iptv/po/fr_FR.po | 
+ | [it](/f20/language/it) | 256 | 256 | 100.0 | /mnt/stockage/packages/f20/vdr-iptv/po/it_IT.po | 
+ | [nl](/f20/language/nl) | 256 | 256 | 100.0 | /mnt/stockage/packages/f20/vdr-iptv/po/nl_NL.po | 
+ | [ru](/f20/language/ru) | 70 | 256 | 27.3 | /mnt/stockage/packages/f20/vdr-iptv/po/ru_RU.po | 
+ | [de](/f20/language/de) | 63 | 256 | 24.6 | /mnt/stockage/packages/f20/vdr-iptv/po/de_DE.po | 
 {.sortable}
 
 

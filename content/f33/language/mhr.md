@@ -38,16 +38,16 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [pidgin]({{< ref "/f33/package/pidgin.md" >}}) | 14023 | 15756 | 89.0 | Mari <muter@lists.linux-ink.ru> | 
- | [lightdm-gtk]({{< ref "/f33/package/lightdm-gtk.md" >}}) | 17 | 87 | 19.5 | Mari (Meadow) <mhr@li.org> | 
- | [iso-codes]({{< ref "/f33/package/iso-codes.md" >}}) | 129 | 982 | 13.1 | Meadow Mari <https://hosted.weblate.org/projects/iso-codes/iso-3166-1/mhr/> | 
- | [slick-greeter]({{< ref "/f33/package/slick-greeter.md" >}}) | 17 | 211 | 8.1 | Mari (Meadow) <mhr@li.org> | 
- | [simple-scan]({{< ref "/f33/package/simple-scan.md" >}}) | 34 | 589 | 5.8 | Mari (Meadow) <mhr@li.org> | 
- | [cinnamon-translations]({{< ref "/f33/package/cinnamon-translations.md" >}}) | 18 | 993 | 1.8 | Meadow Mari <mhr@li.org> | 
- | [onboard]({{< ref "/f33/package/onboard.md" >}}) | 33 | 2318 | 1.4 | Mari (Meadow) <mhr@li.org> | 
- | [deja-dup]({{< ref "/f33/package/deja-dup.md" >}}) | 7 | 1623 | 0.4 | Mari (Meadow) <mhr@li.org> | 
- | [lightdm]({{< ref "/f33/package/lightdm.md" >}}) | 0 | 163 | 0.0 | Mari (Meadow) <mhr@li.org> | 
- | [pyhoca-gui]({{< ref "/f33/package/pyhoca-gui.md" >}}) | 0 | 1865 | 0.0 | none | 
+ | [pidgin](/f33/package/pidgin) | 14023 | 15756 | 89.0 | Mari <muter@lists.linux-ink.ru> | 
+ | [lightdm-gtk](/f33/package/lightdm-gtk) | 17 | 87 | 19.5 | Mari (Meadow) <mhr@li.org> | 
+ | [iso-codes](/f33/package/iso-codes) | 129 | 982 | 13.1 | Meadow Mari <https://hosted.weblate.org/projects/iso-codes/iso-3166-1/mhr/> | 
+ | [slick-greeter](/f33/package/slick-greeter) | 17 | 211 | 8.1 | Mari (Meadow) <mhr@li.org> | 
+ | [simple-scan](/f33/package/simple-scan) | 34 | 589 | 5.8 | Mari (Meadow) <mhr@li.org> | 
+ | [cinnamon-translations](/f33/package/cinnamon-translations) | 18 | 993 | 1.8 | Meadow Mari <mhr@li.org> | 
+ | [onboard](/f33/package/onboard) | 33 | 2318 | 1.4 | Mari (Meadow) <mhr@li.org> | 
+ | [deja-dup](/f33/package/deja-dup) | 7 | 1623 | 0.4 | Mari (Meadow) <mhr@li.org> | 
+ | [lightdm](/f33/package/lightdm) | 0 | 163 | 0.0 | Mari (Meadow) <mhr@li.org> | 
+ | [pyhoca-gui](/f33/package/pyhoca-gui) | 0 | 1865 | 0.0 | none | 
 {.sortable}
 
 

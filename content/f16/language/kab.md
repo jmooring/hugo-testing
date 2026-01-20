@@ -38,8 +38,8 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [avant-window-navigator]({{< ref "/f16/package/avant-window-navigator.md" >}}) | 3 | 1829 | 0.2 | Kabyle <kab@li.org> | 
- | [openerp]({{< ref "/f16/package/openerp.md" >}}) | 6 | 10457 | 0.1 | Kabyle <kab@li.org> | 
+ | [avant-window-navigator](/f16/package/avant-window-navigator) | 3 | 1829 | 0.2 | Kabyle <kab@li.org> | 
+ | [openerp](/f16/package/openerp) | 6 | 10457 | 0.1 | Kabyle <kab@li.org> | 
 {.sortable}
 
 

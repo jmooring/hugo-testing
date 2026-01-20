@@ -38,16 +38,16 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [gnome-applets]({{< ref "/f15/package/gnome-applets.md" >}}) | 3858 | 3858 | 100.0 | Spanish <traductores@es.gnome.org> | 
- | [lxpanel]({{< ref "/f15/package/lxpanel.md" >}}) | 892 | 892 | 100.0 | Spanish <daniel@tunki.org> | 
- | [lxsession]({{< ref "/f15/package/lxsession.md" >}}) | 36 | 36 | 100.0 | Spanish <es@li.org> | 
- | [turpial]({{< ref "/f15/package/turpial.md" >}}) | 569 | 569 | 100.0 | LANGUAGE <LL@li.org> | 
- | [libgweather]({{< ref "/f15/package/libgweather.md" >}}) | 447 | 460 | 97.2 | Spanish <traductores@es.gnome.org> | 
- | [lxmusic]({{< ref "/f15/package/lxmusic.md" >}}) | 196 | 203 | 96.6 | pcman.tw@gmail.com | 
- | [lxinput]({{< ref "/f15/package/lxinput.md" >}}) | 60 | 70 | 85.7 | LANGUAGE <LL@li.org> | 
- | [lxterminal]({{< ref "/f15/package/lxterminal.md" >}}) | 90 | 144 | 62.5 | Spanish <es@li.org> | 
- | [lxdm]({{< ref "/f15/package/lxdm.md" >}}) | 11 | 30 | 36.7 | LANGUAGE <LL@li.org> | 
- | [libfm]({{< ref "/f15/package/libfm.md" >}}) | 0 | 659 | 0.0 |  | 
+ | [gnome-applets](/f15/package/gnome-applets) | 3858 | 3858 | 100.0 | Spanish <traductores@es.gnome.org> | 
+ | [lxpanel](/f15/package/lxpanel) | 892 | 892 | 100.0 | Spanish <daniel@tunki.org> | 
+ | [lxsession](/f15/package/lxsession) | 36 | 36 | 100.0 | Spanish <es@li.org> | 
+ | [turpial](/f15/package/turpial) | 569 | 569 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [libgweather](/f15/package/libgweather) | 447 | 460 | 97.2 | Spanish <traductores@es.gnome.org> | 
+ | [lxmusic](/f15/package/lxmusic) | 196 | 203 | 96.6 | pcman.tw@gmail.com | 
+ | [lxinput](/f15/package/lxinput) | 60 | 70 | 85.7 | LANGUAGE <LL@li.org> | 
+ | [lxterminal](/f15/package/lxterminal) | 90 | 144 | 62.5 | Spanish <es@li.org> | 
+ | [lxdm](/f15/package/lxdm) | 11 | 30 | 36.7 | LANGUAGE <LL@li.org> | 
+ | [libfm](/f15/package/libfm) | 0 | 659 | 0.0 |  | 
 {.sortable}
 
 

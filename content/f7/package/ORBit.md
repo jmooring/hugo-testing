@@ -18,15 +18,15 @@ The package ORBit (version 0.5.17):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f7/language/cs.md" >}}) | 8 | 8 | 100.0 | /mnt/stockage/packages/f7/ORBit/popt/po/cs.po | 
- | [el]({{< ref "/f7/language/el.md" >}}) | 8 | 8 | 100.0 | /mnt/stockage/packages/f7/ORBit/popt/po/el.po | 
- | [error]({{< ref "/f7/language/error.md" >}}) | 8 | 8 | 100.0 | /mnt/stockage/packages/f7/ORBit/popt/po/zh_CN.GB2312.po | 
- | [gl]({{< ref "/f7/language/gl.md" >}}) | 8 | 8 | 100.0 | /mnt/stockage/packages/f7/ORBit/popt/po/gl.po | 
- | [ro]({{< ref "/f7/language/ro.md" >}}) | 8 | 8 | 100.0 | /mnt/stockage/packages/f7/ORBit/popt/po/ro.po | 
- | [sk]({{< ref "/f7/language/sk.md" >}}) | 8 | 8 | 100.0 | /mnt/stockage/packages/f7/ORBit/popt/po/sk.po | 
- | [uk]({{< ref "/f7/language/uk.md" >}}) | 8 | 8 | 100.0 | /mnt/stockage/packages/f7/ORBit/popt/po/uk.po | 
- | [wa]({{< ref "/f7/language/wa.md" >}}) | 8 | 8 | 100.0 | /mnt/stockage/packages/f7/ORBit/popt/po/wa.po | 
- | [da]({{< ref "/f7/language/da.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f7/ORBit/popt/po/da.po | 
+ | [cs](/f7/language/cs) | 8 | 8 | 100.0 | /mnt/stockage/packages/f7/ORBit/popt/po/cs.po | 
+ | [el](/f7/language/el) | 8 | 8 | 100.0 | /mnt/stockage/packages/f7/ORBit/popt/po/el.po | 
+ | [error](/f7/language/error) | 8 | 8 | 100.0 | /mnt/stockage/packages/f7/ORBit/popt/po/zh_CN.GB2312.po | 
+ | [gl](/f7/language/gl) | 8 | 8 | 100.0 | /mnt/stockage/packages/f7/ORBit/popt/po/gl.po | 
+ | [ro](/f7/language/ro) | 8 | 8 | 100.0 | /mnt/stockage/packages/f7/ORBit/popt/po/ro.po | 
+ | [sk](/f7/language/sk) | 8 | 8 | 100.0 | /mnt/stockage/packages/f7/ORBit/popt/po/sk.po | 
+ | [uk](/f7/language/uk) | 8 | 8 | 100.0 | /mnt/stockage/packages/f7/ORBit/popt/po/uk.po | 
+ | [wa](/f7/language/wa) | 8 | 8 | 100.0 | /mnt/stockage/packages/f7/ORBit/popt/po/wa.po | 
+ | [da](/f7/language/da) | 0 | 0 | 0.0 | /mnt/stockage/packages/f7/ORBit/popt/po/da.po | 
 {.sortable}
 
 

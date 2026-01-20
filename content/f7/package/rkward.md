@@ -18,15 +18,15 @@ The package rkward (version 0.4.9a):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [el]({{< ref "/f7/language/el.md" >}}) | 3356 | 3411 | 98.4 | /mnt/stockage/packages/f7/rkward/po/el.po | 
- | [es]({{< ref "/f7/language/es.md" >}}) | 3356 | 3411 | 98.4 | /mnt/stockage/packages/f7/rkward/po/es.po | 
- | [de]({{< ref "/f7/language/de.md" >}}) | 3174 | 3411 | 93.1 | /mnt/stockage/packages/f7/rkward/po/de.po | 
- | [ca]({{< ref "/f7/language/ca.md" >}}) | 3115 | 3411 | 91.3 | /mnt/stockage/packages/f7/rkward/po/ca.po | 
- | [zh_Hans]({{< ref "/f7/language/zh_Hans.md" >}}) | 3043 | 3411 | 89.2 | /mnt/stockage/packages/f7/rkward/po/zh_CN.po | 
- | [tr]({{< ref "/f7/language/tr.md" >}}) | 2954 | 3411 | 86.6 | /mnt/stockage/packages/f7/rkward/po/tr.po | 
- | [fr]({{< ref "/f7/language/fr.md" >}}) | 2794 | 3411 | 81.9 | /mnt/stockage/packages/f7/rkward/po/fr.po | 
- | [it]({{< ref "/f7/language/it.md" >}}) | 510 | 3411 | 15.0 | /mnt/stockage/packages/f7/rkward/po/it.po | 
- | [pl]({{< ref "/f7/language/pl.md" >}}) | 231 | 3411 | 6.8 | /mnt/stockage/packages/f7/rkward/po/pl.po | 
+ | [el](/f7/language/el) | 3356 | 3411 | 98.4 | /mnt/stockage/packages/f7/rkward/po/el.po | 
+ | [es](/f7/language/es) | 3356 | 3411 | 98.4 | /mnt/stockage/packages/f7/rkward/po/es.po | 
+ | [de](/f7/language/de) | 3174 | 3411 | 93.1 | /mnt/stockage/packages/f7/rkward/po/de.po | 
+ | [ca](/f7/language/ca) | 3115 | 3411 | 91.3 | /mnt/stockage/packages/f7/rkward/po/ca.po | 
+ | [zh_Hans](/f7/language/zh_Hans) | 3043 | 3411 | 89.2 | /mnt/stockage/packages/f7/rkward/po/zh_CN.po | 
+ | [tr](/f7/language/tr) | 2954 | 3411 | 86.6 | /mnt/stockage/packages/f7/rkward/po/tr.po | 
+ | [fr](/f7/language/fr) | 2794 | 3411 | 81.9 | /mnt/stockage/packages/f7/rkward/po/fr.po | 
+ | [it](/f7/language/it) | 510 | 3411 | 15.0 | /mnt/stockage/packages/f7/rkward/po/it.po | 
+ | [pl](/f7/language/pl) | 231 | 3411 | 6.8 | /mnt/stockage/packages/f7/rkward/po/pl.po | 
 {.sortable}
 
 

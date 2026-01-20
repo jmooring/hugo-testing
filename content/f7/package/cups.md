@@ -18,15 +18,15 @@ The package cups (version 1.2.12):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [es]({{< ref "/f7/language/es.md" >}}) | 4360 | 4360 | 100.0 | /mnt/stockage/packages/f7/cups/locale/cups_es.po | 
- | [it]({{< ref "/f7/language/it.md" >}}) | 4360 | 4360 | 100.0 | /mnt/stockage/packages/f7/cups/locale/cups_it.po | 
- | [ja]({{< ref "/f7/language/ja.md" >}}) | 4360 | 4360 | 100.0 | /mnt/stockage/packages/f7/cups/locale/cups_ja.po | 
- | [sv]({{< ref "/f7/language/sv.md" >}}) | 4360 | 4360 | 100.0 | /mnt/stockage/packages/f7/cups/locale/cups_sv.po | 
- | [zh_Hant]({{< ref "/f7/language/zh_Hant.md" >}}) | 4360 | 4360 | 100.0 | /mnt/stockage/packages/f7/cups/locale/cups_zh_TW.po | 
- | [de]({{< ref "/f7/language/de.md" >}}) | 4288 | 4360 | 98.3 | /mnt/stockage/packages/f7/cups/locale/cups_de.po | 
- | [et]({{< ref "/f7/language/et.md" >}}) | 4279 | 4360 | 98.1 | /mnt/stockage/packages/f7/cups/locale/cups_et.po | 
- | [pl]({{< ref "/f7/language/pl.md" >}}) | 4260 | 4360 | 97.7 | /mnt/stockage/packages/f7/cups/locale/cups_pl.po | 
- | [fr]({{< ref "/f7/language/fr.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f7/cups/locale/cups_fr.po | 
+ | [es](/f7/language/es) | 4360 | 4360 | 100.0 | /mnt/stockage/packages/f7/cups/locale/cups_es.po | 
+ | [it](/f7/language/it) | 4360 | 4360 | 100.0 | /mnt/stockage/packages/f7/cups/locale/cups_it.po | 
+ | [ja](/f7/language/ja) | 4360 | 4360 | 100.0 | /mnt/stockage/packages/f7/cups/locale/cups_ja.po | 
+ | [sv](/f7/language/sv) | 4360 | 4360 | 100.0 | /mnt/stockage/packages/f7/cups/locale/cups_sv.po | 
+ | [zh_Hant](/f7/language/zh_Hant) | 4360 | 4360 | 100.0 | /mnt/stockage/packages/f7/cups/locale/cups_zh_TW.po | 
+ | [de](/f7/language/de) | 4288 | 4360 | 98.3 | /mnt/stockage/packages/f7/cups/locale/cups_de.po | 
+ | [et](/f7/language/et) | 4279 | 4360 | 98.1 | /mnt/stockage/packages/f7/cups/locale/cups_et.po | 
+ | [pl](/f7/language/pl) | 4260 | 4360 | 97.7 | /mnt/stockage/packages/f7/cups/locale/cups_pl.po | 
+ | [fr](/f7/language/fr) | 0 | 0 | 0.0 | /mnt/stockage/packages/f7/cups/locale/cups_fr.po | 
 {.sortable}
 
 

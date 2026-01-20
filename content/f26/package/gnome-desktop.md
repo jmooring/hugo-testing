@@ -18,112 +18,112 @@ The package gnome-desktop (version 2.32.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [af]({{< ref "/f26/language/af.md" >}}) | 285 | 285 | 100.0 | /mnt/stockage/packages/f26/gnome-desktop/po/af.po | 
- | [as]({{< ref "/f26/language/as.md" >}}) | 351 | 351 | 100.0 | /mnt/stockage/packages/f26/gnome-desktop/po/as.po | 
- | [be]({{< ref "/f26/language/be.md" >}}) | 283 | 283 | 100.0 | /mnt/stockage/packages/f26/gnome-desktop/po/be.po | 
- | [be_Latn]({{< ref "/f26/language/be_Latn.md" >}}) | 349 | 349 | 100.0 | /mnt/stockage/packages/f26/gnome-desktop/po/be@latin.po | 
- | [bg]({{< ref "/f26/language/bg.md" >}}) | 438 | 438 | 100.0 | /mnt/stockage/packages/f26/gnome-desktop/po/bg.po | 
- | [bn]({{< ref "/f26/language/bn.md" >}}) | 349 | 349 | 100.0 | /mnt/stockage/packages/f26/gnome-desktop/po/bn.po | 
- | [bn_IN]({{< ref "/f26/language/bn_IN.md" >}}) | 351 | 351 | 100.0 | /mnt/stockage/packages/f26/gnome-desktop/po/bn_IN.po | 
- | [ca]({{< ref "/f26/language/ca.md" >}}) | 5788 | 5788 | 100.0 | /mnt/stockage/packages/f26/gnome-desktop/desktop-docs/fdl/ca/ca.po/mnt/stockage/packages/f26/gnome-desktop/desktop-docs/gpl/ca/ca.po/mnt/stockage/packages/f26/gnome-desktop/po/ca.po | 
- | [ca@valencia]({{< ref "/f26/language/ca@valencia.md" >}}) | 349 | 349 | 100.0 | /mnt/stockage/packages/f26/gnome-desktop/po/ca@valencia.po | 
- | [crh]({{< ref "/f26/language/crh.md" >}}) | 349 | 349 | 100.0 | /mnt/stockage/packages/f26/gnome-desktop/po/crh.po | 
- | [cs]({{< ref "/f26/language/cs.md" >}}) | 2990 | 2990 | 100.0 | /mnt/stockage/packages/f26/gnome-desktop/desktop-docs/gpl/cs/cs.po/mnt/stockage/packages/f26/gnome-desktop/po/cs.po | 
- | [cy]({{< ref "/f26/language/cy.md" >}}) | 323 | 323 | 100.0 | /mnt/stockage/packages/f26/gnome-desktop/po/cy.po | 
- | [da]({{< ref "/f26/language/da.md" >}}) | 438 | 438 | 100.0 | /mnt/stockage/packages/f26/gnome-desktop/po/da.po | 
- | [de]({{< ref "/f26/language/de.md" >}}) | 10014 | 10014 | 100.0 | /mnt/stockage/packages/f26/gnome-desktop/desktop-docs/fdl/de/de.po/mnt/stockage/packages/f26/gnome-desktop/desktop-docs/gpl/de/de.po/mnt/stockage/packages/f26/gnome-desktop/desktop-docs/lgpl/de/de.po/mnt/stockage/packages/f26/gnome-desktop/po/de.po | 
- | [dz]({{< ref "/f26/language/dz.md" >}}) | 283 | 283 | 100.0 | /mnt/stockage/packages/f26/gnome-desktop/po/dz.po | 
- | [el]({{< ref "/f26/language/el.md" >}}) | 10014 | 10014 | 100.0 | /mnt/stockage/packages/f26/gnome-desktop/desktop-docs/fdl/el/el.po/mnt/stockage/packages/f26/gnome-desktop/desktop-docs/gpl/el/el.po/mnt/stockage/packages/f26/gnome-desktop/desktop-docs/lgpl/el/el.po/mnt/stockage/packages/f26/gnome-desktop/po/el.po | 
- | [en_CA]({{< ref "/f26/language/en_CA.md" >}}) | 330 | 330 | 100.0 | /mnt/stockage/packages/f26/gnome-desktop/po/en_CA.po | 
- | [en_GB]({{< ref "/f26/language/en_GB.md" >}}) | 438 | 438 | 100.0 | /mnt/stockage/packages/f26/gnome-desktop/po/en_GB.po | 
- | [es]({{< ref "/f26/language/es.md" >}}) | 10014 | 10014 | 100.0 | /mnt/stockage/packages/f26/gnome-desktop/desktop-docs/fdl/es/es.po/mnt/stockage/packages/f26/gnome-desktop/desktop-docs/gpl/es/es.po/mnt/stockage/packages/f26/gnome-desktop/desktop-docs/lgpl/es/es.po/mnt/stockage/packages/f26/gnome-desktop/po/es.po | 
- | [et]({{< ref "/f26/language/et.md" >}}) | 438 | 438 | 100.0 | /mnt/stockage/packages/f26/gnome-desktop/po/et.po | 
- | [eu]({{< ref "/f26/language/eu.md" >}}) | 10013 | 10013 | 100.0 | /mnt/stockage/packages/f26/gnome-desktop/desktop-docs/fdl/eu/eu.po/mnt/stockage/packages/f26/gnome-desktop/desktop-docs/gpl/eu/eu.po/mnt/stockage/packages/f26/gnome-desktop/desktop-docs/lgpl/eu/eu.po/mnt/stockage/packages/f26/gnome-desktop/po/eu.po | 
- | [fr]({{< ref "/f26/language/fr.md" >}}) | 10014 | 10014 | 100.0 | /mnt/stockage/packages/f26/gnome-desktop/desktop-docs/fdl/fr/fr.po/mnt/stockage/packages/f26/gnome-desktop/desktop-docs/gpl/fr/fr.po/mnt/stockage/packages/f26/gnome-desktop/desktop-docs/lgpl/fr/fr.po/mnt/stockage/packages/f26/gnome-desktop/po/fr.po | 
- | [fur]({{< ref "/f26/language/fur.md" >}}) | 288 | 288 | 100.0 | /mnt/stockage/packages/f26/gnome-desktop/po/fur.po | 
- | [ga]({{< ref "/f26/language/ga.md" >}}) | 351 | 351 | 100.0 | /mnt/stockage/packages/f26/gnome-desktop/po/ga.po | 
- | [gl]({{< ref "/f26/language/gl.md" >}}) | 438 | 438 | 100.0 | /mnt/stockage/packages/f26/gnome-desktop/po/gl.po | 
- | [gu]({{< ref "/f26/language/gu.md" >}}) | 351 | 351 | 100.0 | /mnt/stockage/packages/f26/gnome-desktop/po/gu.po | 
- | [he]({{< ref "/f26/language/he.md" >}}) | 438 | 438 | 100.0 | /mnt/stockage/packages/f26/gnome-desktop/po/he.po | 
- | [hi]({{< ref "/f26/language/hi.md" >}}) | 351 | 351 | 100.0 | /mnt/stockage/packages/f26/gnome-desktop/po/hi.po | 
- | [hu]({{< ref "/f26/language/hu.md" >}}) | 10014 | 10014 | 100.0 | /mnt/stockage/packages/f26/gnome-desktop/desktop-docs/fdl/hu/hu.po/mnt/stockage/packages/f26/gnome-desktop/desktop-docs/gpl/hu/hu.po/mnt/stockage/packages/f26/gnome-desktop/desktop-docs/lgpl/hu/hu.po/mnt/stockage/packages/f26/gnome-desktop/po/hu.po | 
- | [id]({{< ref "/f26/language/id.md" >}}) | 438 | 438 | 100.0 | /mnt/stockage/packages/f26/gnome-desktop/po/id.po | 
- | [it]({{< ref "/f26/language/it.md" >}}) | 438 | 438 | 100.0 | /mnt/stockage/packages/f26/gnome-desktop/po/it.po | 
- | [ja]({{< ref "/f26/language/ja.md" >}}) | 438 | 438 | 100.0 | /mnt/stockage/packages/f26/gnome-desktop/po/ja.po | 
- | [ka]({{< ref "/f26/language/ka.md" >}}) | 283 | 283 | 100.0 | /mnt/stockage/packages/f26/gnome-desktop/po/ka.po | 
- | [kk]({{< ref "/f26/language/kk.md" >}}) | 438 | 438 | 100.0 | /mnt/stockage/packages/f26/gnome-desktop/po/kk.po | 
- | [ko]({{< ref "/f26/language/ko.md" >}}) | 10014 | 10014 | 100.0 | /mnt/stockage/packages/f26/gnome-desktop/desktop-docs/fdl/ko/ko.po/mnt/stockage/packages/f26/gnome-desktop/desktop-docs/gpl/ko/ko.po/mnt/stockage/packages/f26/gnome-desktop/desktop-docs/lgpl/ko/ko.po/mnt/stockage/packages/f26/gnome-desktop/po/ko.po | 
- | [ky]({{< ref "/f26/language/ky.md" >}}) | 323 | 323 | 100.0 | /mnt/stockage/packages/f26/gnome-desktop/po/ky.po | 
- | [lo]({{< ref "/f26/language/lo.md" >}}) | 351 | 351 | 100.0 | /mnt/stockage/packages/f26/gnome-desktop/po/lo.po | 
- | [lt]({{< ref "/f26/language/lt.md" >}}) | 349 | 349 | 100.0 | /mnt/stockage/packages/f26/gnome-desktop/po/lt.po | 
- | [lv]({{< ref "/f26/language/lv.md" >}}) | 349 | 349 | 100.0 | /mnt/stockage/packages/f26/gnome-desktop/po/lv.po | 
- | [mai]({{< ref "/f26/language/mai.md" >}}) | 351 | 351 | 100.0 | /mnt/stockage/packages/f26/gnome-desktop/po/mai.po | 
- | [mk]({{< ref "/f26/language/mk.md" >}}) | 285 | 285 | 100.0 | /mnt/stockage/packages/f26/gnome-desktop/po/mk.po | 
- | [ml]({{< ref "/f26/language/ml.md" >}}) | 351 | 351 | 100.0 | /mnt/stockage/packages/f26/gnome-desktop/po/ml.po | 
- | [mn]({{< ref "/f26/language/mn.md" >}}) | 349 | 349 | 100.0 | /mnt/stockage/packages/f26/gnome-desktop/po/mn.po | 
- | [mr]({{< ref "/f26/language/mr.md" >}}) | 351 | 351 | 100.0 | /mnt/stockage/packages/f26/gnome-desktop/po/mr.po | 
- | [ms]({{< ref "/f26/language/ms.md" >}}) | 349 | 349 | 100.0 | /mnt/stockage/packages/f26/gnome-desktop/po/ms.po | 
- | [nb_NO]({{< ref "/f26/language/nb_NO.md" >}}) | 438 | 438 | 100.0 | /mnt/stockage/packages/f26/gnome-desktop/po/nb.po | 
- | [ne]({{< ref "/f26/language/ne.md" >}}) | 330 | 330 | 100.0 | /mnt/stockage/packages/f26/gnome-desktop/po/ne.po | 
- | [nl]({{< ref "/f26/language/nl.md" >}}) | 438 | 438 | 100.0 | /mnt/stockage/packages/f26/gnome-desktop/po/nl.po | 
- | [nn]({{< ref "/f26/language/nn.md" >}}) | 349 | 349 | 100.0 | /mnt/stockage/packages/f26/gnome-desktop/po/nn.po | 
- | [or]({{< ref "/f26/language/or.md" >}}) | 438 | 438 | 100.0 | /mnt/stockage/packages/f26/gnome-desktop/po/or.po | 
- | [pl]({{< ref "/f26/language/pl.md" >}}) | 3325 | 3325 | 100.0 | /mnt/stockage/packages/f26/gnome-desktop/desktop-docs/fdl/pl/pl.po/mnt/stockage/packages/f26/gnome-desktop/po/pl.po | 
- | [pt]({{< ref "/f26/language/pt.md" >}}) | 438 | 438 | 100.0 | /mnt/stockage/packages/f26/gnome-desktop/po/pt.po | 
- | [pt_BR]({{< ref "/f26/language/pt_BR.md" >}}) | 438 | 438 | 100.0 | /mnt/stockage/packages/f26/gnome-desktop/po/pt_BR.po | 
- | [ro]({{< ref "/f26/language/ro.md" >}}) | 438 | 438 | 100.0 | /mnt/stockage/packages/f26/gnome-desktop/po/ro.po | 
- | [ru]({{< ref "/f26/language/ru.md" >}}) | 438 | 438 | 100.0 | /mnt/stockage/packages/f26/gnome-desktop/po/ru.po | 
- | [si]({{< ref "/f26/language/si.md" >}}) | 330 | 330 | 100.0 | /mnt/stockage/packages/f26/gnome-desktop/po/si.po | 
- | [sk]({{< ref "/f26/language/sk.md" >}}) | 438 | 438 | 100.0 | /mnt/stockage/packages/f26/gnome-desktop/po/sk.po | 
- | [sl]({{< ref "/f26/language/sl.md" >}}) | 438 | 438 | 100.0 | /mnt/stockage/packages/f26/gnome-desktop/po/sl.po | 
- | [sq]({{< ref "/f26/language/sq.md" >}}) | 285 | 285 | 100.0 | /mnt/stockage/packages/f26/gnome-desktop/po/sq.po | 
- | [sr]({{< ref "/f26/language/sr.md" >}}) | 438 | 438 | 100.0 | /mnt/stockage/packages/f26/gnome-desktop/po/sr.po | 
- | [sr_Latn]({{< ref "/f26/language/sr_Latn.md" >}}) | 438 | 438 | 100.0 | /mnt/stockage/packages/f26/gnome-desktop/po/sr@latin.po | 
- | [sv]({{< ref "/f26/language/sv.md" >}}) | 10014 | 10014 | 100.0 | /mnt/stockage/packages/f26/gnome-desktop/desktop-docs/fdl/sv/sv.po/mnt/stockage/packages/f26/gnome-desktop/desktop-docs/gpl/sv/sv.po/mnt/stockage/packages/f26/gnome-desktop/desktop-docs/lgpl/sv/sv.po/mnt/stockage/packages/f26/gnome-desktop/po/sv.po | 
- | [ta]({{< ref "/f26/language/ta.md" >}}) | 349 | 349 | 100.0 | /mnt/stockage/packages/f26/gnome-desktop/po/ta.po | 
- | [te]({{< ref "/f26/language/te.md" >}}) | 351 | 351 | 100.0 | /mnt/stockage/packages/f26/gnome-desktop/po/te.po | 
- | [th]({{< ref "/f26/language/th.md" >}}) | 432 | 432 | 100.0 | /mnt/stockage/packages/f26/gnome-desktop/po/th.po | 
- | [tr]({{< ref "/f26/language/tr.md" >}}) | 351 | 351 | 100.0 | /mnt/stockage/packages/f26/gnome-desktop/po/tr.po | 
- | [vi]({{< ref "/f26/language/vi.md" >}}) | 9925 | 9925 | 100.0 | /mnt/stockage/packages/f26/gnome-desktop/desktop-docs/fdl/vi/vi.po/mnt/stockage/packages/f26/gnome-desktop/desktop-docs/gpl/vi/vi.po/mnt/stockage/packages/f26/gnome-desktop/desktop-docs/lgpl/vi/vi.po/mnt/stockage/packages/f26/gnome-desktop/po/vi.po | 
- | [xh]({{< ref "/f26/language/xh.md" >}}) | 320 | 320 | 100.0 | /mnt/stockage/packages/f26/gnome-desktop/po/xh.po | 
- | [zh_Hant]({{< ref "/f26/language/zh_Hant.md" >}}) | 438 | 438 | 100.0 | /mnt/stockage/packages/f26/gnome-desktop/po/zh_TW.po | 
- | [zh_Hant_HK]({{< ref "/f26/language/zh_Hant_HK.md" >}}) | 438 | 438 | 100.0 | /mnt/stockage/packages/f26/gnome-desktop/po/zh_HK.po | 
- | [uk]({{< ref "/f26/language/uk.md" >}}) | 9884 | 9925 | 99.6 | /mnt/stockage/packages/f26/gnome-desktop/desktop-docs/fdl/uk/uk.po/mnt/stockage/packages/f26/gnome-desktop/desktop-docs/gpl/uk/uk.po/mnt/stockage/packages/f26/gnome-desktop/desktop-docs/lgpl/uk/uk.po/mnt/stockage/packages/f26/gnome-desktop/po/uk.po | 
- | [hr]({{< ref "/f26/language/hr.md" >}}) | 283 | 285 | 99.3 | /mnt/stockage/packages/f26/gnome-desktop/po/hr.po | 
- | [fa]({{< ref "/f26/language/fa.md" >}}) | 320 | 323 | 99.1 | /mnt/stockage/packages/f26/gnome-desktop/po/fa.po | 
- | [hy]({{< ref "/f26/language/hy.md" >}}) | 345 | 349 | 98.9 | /mnt/stockage/packages/f26/gnome-desktop/po/hy.po | 
- | [az]({{< ref "/f26/language/az.md" >}}) | 316 | 320 | 98.8 | /mnt/stockage/packages/f26/gnome-desktop/po/az.po | 
- | [bs]({{< ref "/f26/language/bs.md" >}}) | 316 | 320 | 98.8 | /mnt/stockage/packages/f26/gnome-desktop/po/bs.po | 
- | [nso]({{< ref "/f26/language/nso.md" >}}) | 316 | 320 | 98.8 | /mnt/stockage/packages/f26/gnome-desktop/po/nso.po | 
- | [wa]({{< ref "/f26/language/wa.md" >}}) | 316 | 320 | 98.8 | /mnt/stockage/packages/f26/gnome-desktop/po/wa.po | 
- | [zu]({{< ref "/f26/language/zu.md" >}}) | 316 | 320 | 98.8 | /mnt/stockage/packages/f26/gnome-desktop/po/zu.po | 
- | [mg]({{< ref "/f26/language/mg.md" >}}) | 281 | 285 | 98.6 | /mnt/stockage/packages/f26/gnome-desktop/po/mg.po | 
- | [ast]({{< ref "/f26/language/ast.md" >}}) | 339 | 349 | 97.1 | /mnt/stockage/packages/f26/gnome-desktop/po/ast.po | 
- | [br]({{< ref "/f26/language/br.md" >}}) | 335 | 349 | 96.0 | /mnt/stockage/packages/f26/gnome-desktop/po/br.po | 
- | [uz]({{< ref "/f26/language/uz.md" >}}) | 628 | 660 | 95.2 | /mnt/stockage/packages/f26/gnome-desktop/po/uz@cyrillic.po/mnt/stockage/packages/f26/gnome-desktop/po/uz.po | 
- | [tk]({{< ref "/f26/language/tk.md" >}}) | 291 | 320 | 90.9 | /mnt/stockage/packages/f26/gnome-desktop/po/tk.po | 
- | [yo]({{< ref "/f26/language/yo.md" >}}) | 328 | 364 | 90.1 | /mnt/stockage/packages/f26/gnome-desktop/po/yo.po | 
- | [ku]({{< ref "/f26/language/ku.md" >}}) | 297 | 351 | 84.6 | /mnt/stockage/packages/f26/gnome-desktop/po/ku.po | 
- | [an]({{< ref "/f26/language/an.md" >}}) | 366 | 438 | 83.6 | /mnt/stockage/packages/f26/gnome-desktop/po/an.po | 
- | [kn]({{< ref "/f26/language/kn.md" >}}) | 365 | 438 | 83.3 | /mnt/stockage/packages/f26/gnome-desktop/po/kn.po | 
- | [error]({{< ref "/f26/language/error.md" >}}) | 334 | 438 | 76.3 | /mnt/stockage/packages/f26/gnome-desktop/po/en@shaw.po | 
- | [eo]({{< ref "/f26/language/eo.md" >}}) | 331 | 438 | 75.6 | /mnt/stockage/packages/f26/gnome-desktop/po/eo.po | 
- | [is]({{< ref "/f26/language/is.md" >}}) | 249 | 351 | 70.9 | /mnt/stockage/packages/f26/gnome-desktop/po/is.po | 
- | [fi]({{< ref "/f26/language/fi.md" >}}) | 4813 | 7038 | 68.4 | /mnt/stockage/packages/f26/gnome-desktop/desktop-docs/gpl/fi/fi.po/mnt/stockage/packages/f26/gnome-desktop/desktop-docs/lgpl/fi/fi.po/mnt/stockage/packages/f26/gnome-desktop/po/fi.po | 
- | [ug]({{< ref "/f26/language/ug.md" >}}) | 189 | 323 | 58.5 | /mnt/stockage/packages/f26/gnome-desktop/po/ug.po | 
- | [ig]({{< ref "/f26/language/ig.md" >}}) | 203 | 349 | 58.2 | /mnt/stockage/packages/f26/gnome-desktop/po/ig.po | 
- | [zh_Hans]({{< ref "/f26/language/zh_Hans.md" >}}) | 3673 | 7023 | 52.3 | /mnt/stockage/packages/f26/gnome-desktop/desktop-docs/gpl/zh_CN/zh_CN.po/mnt/stockage/packages/f26/gnome-desktop/desktop-docs/lgpl/zh_CN/zh_CN.po/mnt/stockage/packages/f26/gnome-desktop/po/zh_CN.po | 
- | [ps]({{< ref "/f26/language/ps.md" >}}) | 144 | 283 | 50.9 | /mnt/stockage/packages/f26/gnome-desktop/po/ps.po | 
- | [ar]({{< ref "/f26/language/ar.md" >}}) | 2927 | 8340 | 35.1 | /mnt/stockage/packages/f26/gnome-desktop/desktop-docs/fdl/ar/ar.po/mnt/stockage/packages/f26/gnome-desktop/desktop-docs/gpl/ar/ar.po/mnt/stockage/packages/f26/gnome-desktop/desktop-docs/lgpl/ar/ar.po/mnt/stockage/packages/f26/gnome-desktop/po/ar.po | 
- | [li]({{< ref "/f26/language/li.md" >}}) | 96 | 320 | 30.0 | /mnt/stockage/packages/f26/gnome-desktop/po/li.po | 
- | [am]({{< ref "/f26/language/am.md" >}}) | 92 | 320 | 28.7 | /mnt/stockage/packages/f26/gnome-desktop/po/am.po | 
- | [nds]({{< ref "/f26/language/nds.md" >}}) | 816 | 2903 | 28.1 | /mnt/stockage/packages/f26/gnome-desktop/desktop-docs/gpl/nds/nds.po/mnt/stockage/packages/f26/gnome-desktop/po/nds.po | 
- | [pa]({{< ref "/f26/language/pa.md" >}}) | 789 | 7023 | 11.2 | /mnt/stockage/packages/f26/gnome-desktop/desktop-docs/gpl/pa/pa.po/mnt/stockage/packages/f26/gnome-desktop/desktop-docs/lgpl/pa/pa.po/mnt/stockage/packages/f26/gnome-desktop/po/pa.po | 
- | [mi]({{< ref "/f26/language/mi.md" >}}) | 20 | 320 | 6.2 | /mnt/stockage/packages/f26/gnome-desktop/po/mi.po | 
- | [rw]({{< ref "/f26/language/rw.md" >}}) | 15 | 320 | 4.7 | /mnt/stockage/packages/f26/gnome-desktop/po/rw.po | 
- | [ur]({{< ref "/f26/language/ur.md" >}}) | 15 | 323 | 4.6 | /mnt/stockage/packages/f26/gnome-desktop/po/ur.po | 
- | [oc]({{< ref "/f26/language/oc.md" >}}) | 370 | 9859 | 3.8 | /mnt/stockage/packages/f26/gnome-desktop/desktop-docs/fdl/oc/oc.po/mnt/stockage/packages/f26/gnome-desktop/desktop-docs/gpl/oc/oc.po/mnt/stockage/packages/f26/gnome-desktop/desktop-docs/lgpl/oc/oc.po/mnt/stockage/packages/f26/gnome-desktop/po/oc.po | 
- | [yi]({{< ref "/f26/language/yi.md" >}}) | 2 | 320 | 0.6 | /mnt/stockage/packages/f26/gnome-desktop/po/yi.po | 
+ | [af](/f26/language/af) | 285 | 285 | 100.0 | /mnt/stockage/packages/f26/gnome-desktop/po/af.po | 
+ | [as](/f26/language/as) | 351 | 351 | 100.0 | /mnt/stockage/packages/f26/gnome-desktop/po/as.po | 
+ | [be](/f26/language/be) | 283 | 283 | 100.0 | /mnt/stockage/packages/f26/gnome-desktop/po/be.po | 
+ | [be_Latn](/f26/language/be_Latn) | 349 | 349 | 100.0 | /mnt/stockage/packages/f26/gnome-desktop/po/be@latin.po | 
+ | [bg](/f26/language/bg) | 438 | 438 | 100.0 | /mnt/stockage/packages/f26/gnome-desktop/po/bg.po | 
+ | [bn](/f26/language/bn) | 349 | 349 | 100.0 | /mnt/stockage/packages/f26/gnome-desktop/po/bn.po | 
+ | [bn_IN](/f26/language/bn_IN) | 351 | 351 | 100.0 | /mnt/stockage/packages/f26/gnome-desktop/po/bn_IN.po | 
+ | [ca](/f26/language/ca) | 5788 | 5788 | 100.0 | /mnt/stockage/packages/f26/gnome-desktop/desktop-docs/fdl/ca/ca.po/mnt/stockage/packages/f26/gnome-desktop/desktop-docs/gpl/ca/ca.po/mnt/stockage/packages/f26/gnome-desktop/po/ca.po | 
+ | [ca@valencia](/f26/language/ca@valencia) | 349 | 349 | 100.0 | /mnt/stockage/packages/f26/gnome-desktop/po/ca@valencia.po | 
+ | [crh](/f26/language/crh) | 349 | 349 | 100.0 | /mnt/stockage/packages/f26/gnome-desktop/po/crh.po | 
+ | [cs](/f26/language/cs) | 2990 | 2990 | 100.0 | /mnt/stockage/packages/f26/gnome-desktop/desktop-docs/gpl/cs/cs.po/mnt/stockage/packages/f26/gnome-desktop/po/cs.po | 
+ | [cy](/f26/language/cy) | 323 | 323 | 100.0 | /mnt/stockage/packages/f26/gnome-desktop/po/cy.po | 
+ | [da](/f26/language/da) | 438 | 438 | 100.0 | /mnt/stockage/packages/f26/gnome-desktop/po/da.po | 
+ | [de](/f26/language/de) | 10014 | 10014 | 100.0 | /mnt/stockage/packages/f26/gnome-desktop/desktop-docs/fdl/de/de.po/mnt/stockage/packages/f26/gnome-desktop/desktop-docs/gpl/de/de.po/mnt/stockage/packages/f26/gnome-desktop/desktop-docs/lgpl/de/de.po/mnt/stockage/packages/f26/gnome-desktop/po/de.po | 
+ | [dz](/f26/language/dz) | 283 | 283 | 100.0 | /mnt/stockage/packages/f26/gnome-desktop/po/dz.po | 
+ | [el](/f26/language/el) | 10014 | 10014 | 100.0 | /mnt/stockage/packages/f26/gnome-desktop/desktop-docs/fdl/el/el.po/mnt/stockage/packages/f26/gnome-desktop/desktop-docs/gpl/el/el.po/mnt/stockage/packages/f26/gnome-desktop/desktop-docs/lgpl/el/el.po/mnt/stockage/packages/f26/gnome-desktop/po/el.po | 
+ | [en_CA](/f26/language/en_CA) | 330 | 330 | 100.0 | /mnt/stockage/packages/f26/gnome-desktop/po/en_CA.po | 
+ | [en_GB](/f26/language/en_GB) | 438 | 438 | 100.0 | /mnt/stockage/packages/f26/gnome-desktop/po/en_GB.po | 
+ | [es](/f26/language/es) | 10014 | 10014 | 100.0 | /mnt/stockage/packages/f26/gnome-desktop/desktop-docs/fdl/es/es.po/mnt/stockage/packages/f26/gnome-desktop/desktop-docs/gpl/es/es.po/mnt/stockage/packages/f26/gnome-desktop/desktop-docs/lgpl/es/es.po/mnt/stockage/packages/f26/gnome-desktop/po/es.po | 
+ | [et](/f26/language/et) | 438 | 438 | 100.0 | /mnt/stockage/packages/f26/gnome-desktop/po/et.po | 
+ | [eu](/f26/language/eu) | 10013 | 10013 | 100.0 | /mnt/stockage/packages/f26/gnome-desktop/desktop-docs/fdl/eu/eu.po/mnt/stockage/packages/f26/gnome-desktop/desktop-docs/gpl/eu/eu.po/mnt/stockage/packages/f26/gnome-desktop/desktop-docs/lgpl/eu/eu.po/mnt/stockage/packages/f26/gnome-desktop/po/eu.po | 
+ | [fr](/f26/language/fr) | 10014 | 10014 | 100.0 | /mnt/stockage/packages/f26/gnome-desktop/desktop-docs/fdl/fr/fr.po/mnt/stockage/packages/f26/gnome-desktop/desktop-docs/gpl/fr/fr.po/mnt/stockage/packages/f26/gnome-desktop/desktop-docs/lgpl/fr/fr.po/mnt/stockage/packages/f26/gnome-desktop/po/fr.po | 
+ | [fur](/f26/language/fur) | 288 | 288 | 100.0 | /mnt/stockage/packages/f26/gnome-desktop/po/fur.po | 
+ | [ga](/f26/language/ga) | 351 | 351 | 100.0 | /mnt/stockage/packages/f26/gnome-desktop/po/ga.po | 
+ | [gl](/f26/language/gl) | 438 | 438 | 100.0 | /mnt/stockage/packages/f26/gnome-desktop/po/gl.po | 
+ | [gu](/f26/language/gu) | 351 | 351 | 100.0 | /mnt/stockage/packages/f26/gnome-desktop/po/gu.po | 
+ | [he](/f26/language/he) | 438 | 438 | 100.0 | /mnt/stockage/packages/f26/gnome-desktop/po/he.po | 
+ | [hi](/f26/language/hi) | 351 | 351 | 100.0 | /mnt/stockage/packages/f26/gnome-desktop/po/hi.po | 
+ | [hu](/f26/language/hu) | 10014 | 10014 | 100.0 | /mnt/stockage/packages/f26/gnome-desktop/desktop-docs/fdl/hu/hu.po/mnt/stockage/packages/f26/gnome-desktop/desktop-docs/gpl/hu/hu.po/mnt/stockage/packages/f26/gnome-desktop/desktop-docs/lgpl/hu/hu.po/mnt/stockage/packages/f26/gnome-desktop/po/hu.po | 
+ | [id](/f26/language/id) | 438 | 438 | 100.0 | /mnt/stockage/packages/f26/gnome-desktop/po/id.po | 
+ | [it](/f26/language/it) | 438 | 438 | 100.0 | /mnt/stockage/packages/f26/gnome-desktop/po/it.po | 
+ | [ja](/f26/language/ja) | 438 | 438 | 100.0 | /mnt/stockage/packages/f26/gnome-desktop/po/ja.po | 
+ | [ka](/f26/language/ka) | 283 | 283 | 100.0 | /mnt/stockage/packages/f26/gnome-desktop/po/ka.po | 
+ | [kk](/f26/language/kk) | 438 | 438 | 100.0 | /mnt/stockage/packages/f26/gnome-desktop/po/kk.po | 
+ | [ko](/f26/language/ko) | 10014 | 10014 | 100.0 | /mnt/stockage/packages/f26/gnome-desktop/desktop-docs/fdl/ko/ko.po/mnt/stockage/packages/f26/gnome-desktop/desktop-docs/gpl/ko/ko.po/mnt/stockage/packages/f26/gnome-desktop/desktop-docs/lgpl/ko/ko.po/mnt/stockage/packages/f26/gnome-desktop/po/ko.po | 
+ | [ky](/f26/language/ky) | 323 | 323 | 100.0 | /mnt/stockage/packages/f26/gnome-desktop/po/ky.po | 
+ | [lo](/f26/language/lo) | 351 | 351 | 100.0 | /mnt/stockage/packages/f26/gnome-desktop/po/lo.po | 
+ | [lt](/f26/language/lt) | 349 | 349 | 100.0 | /mnt/stockage/packages/f26/gnome-desktop/po/lt.po | 
+ | [lv](/f26/language/lv) | 349 | 349 | 100.0 | /mnt/stockage/packages/f26/gnome-desktop/po/lv.po | 
+ | [mai](/f26/language/mai) | 351 | 351 | 100.0 | /mnt/stockage/packages/f26/gnome-desktop/po/mai.po | 
+ | [mk](/f26/language/mk) | 285 | 285 | 100.0 | /mnt/stockage/packages/f26/gnome-desktop/po/mk.po | 
+ | [ml](/f26/language/ml) | 351 | 351 | 100.0 | /mnt/stockage/packages/f26/gnome-desktop/po/ml.po | 
+ | [mn](/f26/language/mn) | 349 | 349 | 100.0 | /mnt/stockage/packages/f26/gnome-desktop/po/mn.po | 
+ | [mr](/f26/language/mr) | 351 | 351 | 100.0 | /mnt/stockage/packages/f26/gnome-desktop/po/mr.po | 
+ | [ms](/f26/language/ms) | 349 | 349 | 100.0 | /mnt/stockage/packages/f26/gnome-desktop/po/ms.po | 
+ | [nb_NO](/f26/language/nb_NO) | 438 | 438 | 100.0 | /mnt/stockage/packages/f26/gnome-desktop/po/nb.po | 
+ | [ne](/f26/language/ne) | 330 | 330 | 100.0 | /mnt/stockage/packages/f26/gnome-desktop/po/ne.po | 
+ | [nl](/f26/language/nl) | 438 | 438 | 100.0 | /mnt/stockage/packages/f26/gnome-desktop/po/nl.po | 
+ | [nn](/f26/language/nn) | 349 | 349 | 100.0 | /mnt/stockage/packages/f26/gnome-desktop/po/nn.po | 
+ | [or](/f26/language/or) | 438 | 438 | 100.0 | /mnt/stockage/packages/f26/gnome-desktop/po/or.po | 
+ | [pl](/f26/language/pl) | 3325 | 3325 | 100.0 | /mnt/stockage/packages/f26/gnome-desktop/desktop-docs/fdl/pl/pl.po/mnt/stockage/packages/f26/gnome-desktop/po/pl.po | 
+ | [pt](/f26/language/pt) | 438 | 438 | 100.0 | /mnt/stockage/packages/f26/gnome-desktop/po/pt.po | 
+ | [pt_BR](/f26/language/pt_BR) | 438 | 438 | 100.0 | /mnt/stockage/packages/f26/gnome-desktop/po/pt_BR.po | 
+ | [ro](/f26/language/ro) | 438 | 438 | 100.0 | /mnt/stockage/packages/f26/gnome-desktop/po/ro.po | 
+ | [ru](/f26/language/ru) | 438 | 438 | 100.0 | /mnt/stockage/packages/f26/gnome-desktop/po/ru.po | 
+ | [si](/f26/language/si) | 330 | 330 | 100.0 | /mnt/stockage/packages/f26/gnome-desktop/po/si.po | 
+ | [sk](/f26/language/sk) | 438 | 438 | 100.0 | /mnt/stockage/packages/f26/gnome-desktop/po/sk.po | 
+ | [sl](/f26/language/sl) | 438 | 438 | 100.0 | /mnt/stockage/packages/f26/gnome-desktop/po/sl.po | 
+ | [sq](/f26/language/sq) | 285 | 285 | 100.0 | /mnt/stockage/packages/f26/gnome-desktop/po/sq.po | 
+ | [sr](/f26/language/sr) | 438 | 438 | 100.0 | /mnt/stockage/packages/f26/gnome-desktop/po/sr.po | 
+ | [sr_Latn](/f26/language/sr_Latn) | 438 | 438 | 100.0 | /mnt/stockage/packages/f26/gnome-desktop/po/sr@latin.po | 
+ | [sv](/f26/language/sv) | 10014 | 10014 | 100.0 | /mnt/stockage/packages/f26/gnome-desktop/desktop-docs/fdl/sv/sv.po/mnt/stockage/packages/f26/gnome-desktop/desktop-docs/gpl/sv/sv.po/mnt/stockage/packages/f26/gnome-desktop/desktop-docs/lgpl/sv/sv.po/mnt/stockage/packages/f26/gnome-desktop/po/sv.po | 
+ | [ta](/f26/language/ta) | 349 | 349 | 100.0 | /mnt/stockage/packages/f26/gnome-desktop/po/ta.po | 
+ | [te](/f26/language/te) | 351 | 351 | 100.0 | /mnt/stockage/packages/f26/gnome-desktop/po/te.po | 
+ | [th](/f26/language/th) | 432 | 432 | 100.0 | /mnt/stockage/packages/f26/gnome-desktop/po/th.po | 
+ | [tr](/f26/language/tr) | 351 | 351 | 100.0 | /mnt/stockage/packages/f26/gnome-desktop/po/tr.po | 
+ | [vi](/f26/language/vi) | 9925 | 9925 | 100.0 | /mnt/stockage/packages/f26/gnome-desktop/desktop-docs/fdl/vi/vi.po/mnt/stockage/packages/f26/gnome-desktop/desktop-docs/gpl/vi/vi.po/mnt/stockage/packages/f26/gnome-desktop/desktop-docs/lgpl/vi/vi.po/mnt/stockage/packages/f26/gnome-desktop/po/vi.po | 
+ | [xh](/f26/language/xh) | 320 | 320 | 100.0 | /mnt/stockage/packages/f26/gnome-desktop/po/xh.po | 
+ | [zh_Hant](/f26/language/zh_Hant) | 438 | 438 | 100.0 | /mnt/stockage/packages/f26/gnome-desktop/po/zh_TW.po | 
+ | [zh_Hant_HK](/f26/language/zh_Hant_HK) | 438 | 438 | 100.0 | /mnt/stockage/packages/f26/gnome-desktop/po/zh_HK.po | 
+ | [uk](/f26/language/uk) | 9884 | 9925 | 99.6 | /mnt/stockage/packages/f26/gnome-desktop/desktop-docs/fdl/uk/uk.po/mnt/stockage/packages/f26/gnome-desktop/desktop-docs/gpl/uk/uk.po/mnt/stockage/packages/f26/gnome-desktop/desktop-docs/lgpl/uk/uk.po/mnt/stockage/packages/f26/gnome-desktop/po/uk.po | 
+ | [hr](/f26/language/hr) | 283 | 285 | 99.3 | /mnt/stockage/packages/f26/gnome-desktop/po/hr.po | 
+ | [fa](/f26/language/fa) | 320 | 323 | 99.1 | /mnt/stockage/packages/f26/gnome-desktop/po/fa.po | 
+ | [hy](/f26/language/hy) | 345 | 349 | 98.9 | /mnt/stockage/packages/f26/gnome-desktop/po/hy.po | 
+ | [az](/f26/language/az) | 316 | 320 | 98.8 | /mnt/stockage/packages/f26/gnome-desktop/po/az.po | 
+ | [bs](/f26/language/bs) | 316 | 320 | 98.8 | /mnt/stockage/packages/f26/gnome-desktop/po/bs.po | 
+ | [nso](/f26/language/nso) | 316 | 320 | 98.8 | /mnt/stockage/packages/f26/gnome-desktop/po/nso.po | 
+ | [wa](/f26/language/wa) | 316 | 320 | 98.8 | /mnt/stockage/packages/f26/gnome-desktop/po/wa.po | 
+ | [zu](/f26/language/zu) | 316 | 320 | 98.8 | /mnt/stockage/packages/f26/gnome-desktop/po/zu.po | 
+ | [mg](/f26/language/mg) | 281 | 285 | 98.6 | /mnt/stockage/packages/f26/gnome-desktop/po/mg.po | 
+ | [ast](/f26/language/ast) | 339 | 349 | 97.1 | /mnt/stockage/packages/f26/gnome-desktop/po/ast.po | 
+ | [br](/f26/language/br) | 335 | 349 | 96.0 | /mnt/stockage/packages/f26/gnome-desktop/po/br.po | 
+ | [uz](/f26/language/uz) | 628 | 660 | 95.2 | /mnt/stockage/packages/f26/gnome-desktop/po/uz@cyrillic.po/mnt/stockage/packages/f26/gnome-desktop/po/uz.po | 
+ | [tk](/f26/language/tk) | 291 | 320 | 90.9 | /mnt/stockage/packages/f26/gnome-desktop/po/tk.po | 
+ | [yo](/f26/language/yo) | 328 | 364 | 90.1 | /mnt/stockage/packages/f26/gnome-desktop/po/yo.po | 
+ | [ku](/f26/language/ku) | 297 | 351 | 84.6 | /mnt/stockage/packages/f26/gnome-desktop/po/ku.po | 
+ | [an](/f26/language/an) | 366 | 438 | 83.6 | /mnt/stockage/packages/f26/gnome-desktop/po/an.po | 
+ | [kn](/f26/language/kn) | 365 | 438 | 83.3 | /mnt/stockage/packages/f26/gnome-desktop/po/kn.po | 
+ | [error](/f26/language/error) | 334 | 438 | 76.3 | /mnt/stockage/packages/f26/gnome-desktop/po/en@shaw.po | 
+ | [eo](/f26/language/eo) | 331 | 438 | 75.6 | /mnt/stockage/packages/f26/gnome-desktop/po/eo.po | 
+ | [is](/f26/language/is) | 249 | 351 | 70.9 | /mnt/stockage/packages/f26/gnome-desktop/po/is.po | 
+ | [fi](/f26/language/fi) | 4813 | 7038 | 68.4 | /mnt/stockage/packages/f26/gnome-desktop/desktop-docs/gpl/fi/fi.po/mnt/stockage/packages/f26/gnome-desktop/desktop-docs/lgpl/fi/fi.po/mnt/stockage/packages/f26/gnome-desktop/po/fi.po | 
+ | [ug](/f26/language/ug) | 189 | 323 | 58.5 | /mnt/stockage/packages/f26/gnome-desktop/po/ug.po | 
+ | [ig](/f26/language/ig) | 203 | 349 | 58.2 | /mnt/stockage/packages/f26/gnome-desktop/po/ig.po | 
+ | [zh_Hans](/f26/language/zh_Hans) | 3673 | 7023 | 52.3 | /mnt/stockage/packages/f26/gnome-desktop/desktop-docs/gpl/zh_CN/zh_CN.po/mnt/stockage/packages/f26/gnome-desktop/desktop-docs/lgpl/zh_CN/zh_CN.po/mnt/stockage/packages/f26/gnome-desktop/po/zh_CN.po | 
+ | [ps](/f26/language/ps) | 144 | 283 | 50.9 | /mnt/stockage/packages/f26/gnome-desktop/po/ps.po | 
+ | [ar](/f26/language/ar) | 2927 | 8340 | 35.1 | /mnt/stockage/packages/f26/gnome-desktop/desktop-docs/fdl/ar/ar.po/mnt/stockage/packages/f26/gnome-desktop/desktop-docs/gpl/ar/ar.po/mnt/stockage/packages/f26/gnome-desktop/desktop-docs/lgpl/ar/ar.po/mnt/stockage/packages/f26/gnome-desktop/po/ar.po | 
+ | [li](/f26/language/li) | 96 | 320 | 30.0 | /mnt/stockage/packages/f26/gnome-desktop/po/li.po | 
+ | [am](/f26/language/am) | 92 | 320 | 28.7 | /mnt/stockage/packages/f26/gnome-desktop/po/am.po | 
+ | [nds](/f26/language/nds) | 816 | 2903 | 28.1 | /mnt/stockage/packages/f26/gnome-desktop/desktop-docs/gpl/nds/nds.po/mnt/stockage/packages/f26/gnome-desktop/po/nds.po | 
+ | [pa](/f26/language/pa) | 789 | 7023 | 11.2 | /mnt/stockage/packages/f26/gnome-desktop/desktop-docs/gpl/pa/pa.po/mnt/stockage/packages/f26/gnome-desktop/desktop-docs/lgpl/pa/pa.po/mnt/stockage/packages/f26/gnome-desktop/po/pa.po | 
+ | [mi](/f26/language/mi) | 20 | 320 | 6.2 | /mnt/stockage/packages/f26/gnome-desktop/po/mi.po | 
+ | [rw](/f26/language/rw) | 15 | 320 | 4.7 | /mnt/stockage/packages/f26/gnome-desktop/po/rw.po | 
+ | [ur](/f26/language/ur) | 15 | 323 | 4.6 | /mnt/stockage/packages/f26/gnome-desktop/po/ur.po | 
+ | [oc](/f26/language/oc) | 370 | 9859 | 3.8 | /mnt/stockage/packages/f26/gnome-desktop/desktop-docs/fdl/oc/oc.po/mnt/stockage/packages/f26/gnome-desktop/desktop-docs/gpl/oc/oc.po/mnt/stockage/packages/f26/gnome-desktop/desktop-docs/lgpl/oc/oc.po/mnt/stockage/packages/f26/gnome-desktop/po/oc.po | 
+ | [yi](/f26/language/yi) | 2 | 320 | 0.6 | /mnt/stockage/packages/f26/gnome-desktop/po/yi.po | 
 {.sortable}
 
 

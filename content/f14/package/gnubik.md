@@ -18,28 +18,28 @@ The package gnubik (version 2.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [bg]({{< ref "/f14/language/bg.md" >}}) | 217 | 217 | 100.0 | /mnt/stockage/packages/f14/gnubik/po/bg.po | 
- | [de]({{< ref "/f14/language/de.md" >}}) | 213 | 217 | 98.2 | /mnt/stockage/packages/f14/gnubik/po/de.po | 
- | [pt_PT]({{< ref "/f14/language/pt_PT.md" >}}) | 213 | 217 | 98.2 | /mnt/stockage/packages/f14/gnubik/po/pt_PT.po | 
- | [eu]({{< ref "/f14/language/eu.md" >}}) | 178 | 217 | 82.0 | /mnt/stockage/packages/f14/gnubik/po/eu.po | 
- | [fi]({{< ref "/f14/language/fi.md" >}}) | 178 | 217 | 82.0 | /mnt/stockage/packages/f14/gnubik/po/fi.po | 
- | [pl]({{< ref "/f14/language/pl.md" >}}) | 178 | 217 | 82.0 | /mnt/stockage/packages/f14/gnubik/po/pl.po | 
- | [ru]({{< ref "/f14/language/ru.md" >}}) | 178 | 217 | 82.0 | /mnt/stockage/packages/f14/gnubik/po/ru.po | 
- | [sv]({{< ref "/f14/language/sv.md" >}}) | 178 | 217 | 82.0 | /mnt/stockage/packages/f14/gnubik/po/sv.po | 
- | [zh_Hans]({{< ref "/f14/language/zh_Hans.md" >}}) | 168 | 217 | 77.4 | /mnt/stockage/packages/f14/gnubik/po/zh_CN.po | 
- | [nl]({{< ref "/f14/language/nl.md" >}}) | 167 | 217 | 77.0 | /mnt/stockage/packages/f14/gnubik/po/nl.po | 
- | [ca]({{< ref "/f14/language/ca.md" >}}) | 120 | 217 | 55.3 | /mnt/stockage/packages/f14/gnubik/po/ca.po | 
- | [da]({{< ref "/f14/language/da.md" >}}) | 120 | 217 | 55.3 | /mnt/stockage/packages/f14/gnubik/po/da.po | 
- | [es]({{< ref "/f14/language/es.md" >}}) | 120 | 217 | 55.3 | /mnt/stockage/packages/f14/gnubik/po/es.po | 
- | [fr]({{< ref "/f14/language/fr.md" >}}) | 120 | 217 | 55.3 | /mnt/stockage/packages/f14/gnubik/po/fr.po | 
- | [he]({{< ref "/f14/language/he.md" >}}) | 120 | 217 | 55.3 | /mnt/stockage/packages/f14/gnubik/po/he.po | 
- | [it]({{< ref "/f14/language/it.md" >}}) | 120 | 217 | 55.3 | /mnt/stockage/packages/f14/gnubik/po/it.po | 
- | [ms]({{< ref "/f14/language/ms.md" >}}) | 120 | 217 | 55.3 | /mnt/stockage/packages/f14/gnubik/po/ms.po | 
- | [nb_NO]({{< ref "/f14/language/nb_NO.md" >}}) | 120 | 217 | 55.3 | /mnt/stockage/packages/f14/gnubik/po/no.po | 
- | [ro]({{< ref "/f14/language/ro.md" >}}) | 120 | 217 | 55.3 | /mnt/stockage/packages/f14/gnubik/po/ro.po | 
- | [tr]({{< ref "/f14/language/tr.md" >}}) | 120 | 217 | 55.3 | /mnt/stockage/packages/f14/gnubik/po/tr.po | 
- | [pt_BR]({{< ref "/f14/language/pt_BR.md" >}}) | 110 | 217 | 50.7 | /mnt/stockage/packages/f14/gnubik/po/pt_BR.po | 
- | [en_US]({{< ref "/f14/language/en_US.md" >}}) | 39 | 217 | 18.0 | /mnt/stockage/packages/f14/gnubik/po/en_US.po | 
+ | [bg](/f14/language/bg) | 217 | 217 | 100.0 | /mnt/stockage/packages/f14/gnubik/po/bg.po | 
+ | [de](/f14/language/de) | 213 | 217 | 98.2 | /mnt/stockage/packages/f14/gnubik/po/de.po | 
+ | [pt_PT](/f14/language/pt_PT) | 213 | 217 | 98.2 | /mnt/stockage/packages/f14/gnubik/po/pt_PT.po | 
+ | [eu](/f14/language/eu) | 178 | 217 | 82.0 | /mnt/stockage/packages/f14/gnubik/po/eu.po | 
+ | [fi](/f14/language/fi) | 178 | 217 | 82.0 | /mnt/stockage/packages/f14/gnubik/po/fi.po | 
+ | [pl](/f14/language/pl) | 178 | 217 | 82.0 | /mnt/stockage/packages/f14/gnubik/po/pl.po | 
+ | [ru](/f14/language/ru) | 178 | 217 | 82.0 | /mnt/stockage/packages/f14/gnubik/po/ru.po | 
+ | [sv](/f14/language/sv) | 178 | 217 | 82.0 | /mnt/stockage/packages/f14/gnubik/po/sv.po | 
+ | [zh_Hans](/f14/language/zh_Hans) | 168 | 217 | 77.4 | /mnt/stockage/packages/f14/gnubik/po/zh_CN.po | 
+ | [nl](/f14/language/nl) | 167 | 217 | 77.0 | /mnt/stockage/packages/f14/gnubik/po/nl.po | 
+ | [ca](/f14/language/ca) | 120 | 217 | 55.3 | /mnt/stockage/packages/f14/gnubik/po/ca.po | 
+ | [da](/f14/language/da) | 120 | 217 | 55.3 | /mnt/stockage/packages/f14/gnubik/po/da.po | 
+ | [es](/f14/language/es) | 120 | 217 | 55.3 | /mnt/stockage/packages/f14/gnubik/po/es.po | 
+ | [fr](/f14/language/fr) | 120 | 217 | 55.3 | /mnt/stockage/packages/f14/gnubik/po/fr.po | 
+ | [he](/f14/language/he) | 120 | 217 | 55.3 | /mnt/stockage/packages/f14/gnubik/po/he.po | 
+ | [it](/f14/language/it) | 120 | 217 | 55.3 | /mnt/stockage/packages/f14/gnubik/po/it.po | 
+ | [ms](/f14/language/ms) | 120 | 217 | 55.3 | /mnt/stockage/packages/f14/gnubik/po/ms.po | 
+ | [nb_NO](/f14/language/nb_NO) | 120 | 217 | 55.3 | /mnt/stockage/packages/f14/gnubik/po/no.po | 
+ | [ro](/f14/language/ro) | 120 | 217 | 55.3 | /mnt/stockage/packages/f14/gnubik/po/ro.po | 
+ | [tr](/f14/language/tr) | 120 | 217 | 55.3 | /mnt/stockage/packages/f14/gnubik/po/tr.po | 
+ | [pt_BR](/f14/language/pt_BR) | 110 | 217 | 50.7 | /mnt/stockage/packages/f14/gnubik/po/pt_BR.po | 
+ | [en_US](/f14/language/en_US) | 39 | 217 | 18.0 | /mnt/stockage/packages/f14/gnubik/po/en_US.po | 
 {.sortable}
 
 

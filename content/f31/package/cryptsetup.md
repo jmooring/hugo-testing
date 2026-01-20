@@ -18,24 +18,24 @@ The package cryptsetup (version 2.3.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f31/language/cs.md" >}}) | 5845 | 5845 | 100.0 | /mnt/stockage/packages/f31/cryptsetup/po/cs.po | 
- | [fr]({{< ref "/f31/language/fr.md" >}}) | 5845 | 5845 | 100.0 | /mnt/stockage/packages/f31/cryptsetup/po/fr.po | 
- | [ja]({{< ref "/f31/language/ja.md" >}}) | 5845 | 5845 | 100.0 | /mnt/stockage/packages/f31/cryptsetup/po/ja.po | 
- | [pl]({{< ref "/f31/language/pl.md" >}}) | 5845 | 5845 | 100.0 | /mnt/stockage/packages/f31/cryptsetup/po/pl.po | 
- | [ru]({{< ref "/f31/language/ru.md" >}}) | 5845 | 5845 | 100.0 | /mnt/stockage/packages/f31/cryptsetup/po/ru.po | 
- | [uk]({{< ref "/f31/language/uk.md" >}}) | 5845 | 5845 | 100.0 | /mnt/stockage/packages/f31/cryptsetup/po/uk.po | 
- | [de]({{< ref "/f31/language/de.md" >}}) | 5794 | 5845 | 99.1 | /mnt/stockage/packages/f31/cryptsetup/po/de.po | 
- | [es]({{< ref "/f31/language/es.md" >}}) | 5794 | 5845 | 99.1 | /mnt/stockage/packages/f31/cryptsetup/po/es.po | 
- | [sr]({{< ref "/f31/language/sr.md" >}}) | 5762 | 5845 | 98.6 | /mnt/stockage/packages/f31/cryptsetup/po/sr.po | 
- | [da]({{< ref "/f31/language/da.md" >}}) | 5387 | 5845 | 92.2 | /mnt/stockage/packages/f31/cryptsetup/po/da.po | 
- | [it]({{< ref "/f31/language/it.md" >}}) | 4017 | 5845 | 68.7 | /mnt/stockage/packages/f31/cryptsetup/po/it.po | 
- | [pt_BR]({{< ref "/f31/language/pt_BR.md" >}}) | 4017 | 5845 | 68.7 | /mnt/stockage/packages/f31/cryptsetup/po/pt_BR.po | 
- | [sv]({{< ref "/f31/language/sv.md" >}}) | 4017 | 5845 | 68.7 | /mnt/stockage/packages/f31/cryptsetup/po/sv.po | 
- | [zh_Hans]({{< ref "/f31/language/zh_Hans.md" >}}) | 2360 | 5845 | 40.4 | /mnt/stockage/packages/f31/cryptsetup/po/zh_CN.po | 
- | [nl]({{< ref "/f31/language/nl.md" >}}) | 2118 | 5845 | 36.2 | /mnt/stockage/packages/f31/cryptsetup/po/nl.po | 
- | [vi]({{< ref "/f31/language/vi.md" >}}) | 816 | 5845 | 14.0 | /mnt/stockage/packages/f31/cryptsetup/po/vi.po | 
- | [fi]({{< ref "/f31/language/fi.md" >}}) | 785 | 5845 | 13.4 | /mnt/stockage/packages/f31/cryptsetup/po/fi.po | 
- | [id]({{< ref "/f31/language/id.md" >}}) | 340 | 5845 | 5.8 | /mnt/stockage/packages/f31/cryptsetup/po/id.po | 
+ | [cs](/f31/language/cs) | 5845 | 5845 | 100.0 | /mnt/stockage/packages/f31/cryptsetup/po/cs.po | 
+ | [fr](/f31/language/fr) | 5845 | 5845 | 100.0 | /mnt/stockage/packages/f31/cryptsetup/po/fr.po | 
+ | [ja](/f31/language/ja) | 5845 | 5845 | 100.0 | /mnt/stockage/packages/f31/cryptsetup/po/ja.po | 
+ | [pl](/f31/language/pl) | 5845 | 5845 | 100.0 | /mnt/stockage/packages/f31/cryptsetup/po/pl.po | 
+ | [ru](/f31/language/ru) | 5845 | 5845 | 100.0 | /mnt/stockage/packages/f31/cryptsetup/po/ru.po | 
+ | [uk](/f31/language/uk) | 5845 | 5845 | 100.0 | /mnt/stockage/packages/f31/cryptsetup/po/uk.po | 
+ | [de](/f31/language/de) | 5794 | 5845 | 99.1 | /mnt/stockage/packages/f31/cryptsetup/po/de.po | 
+ | [es](/f31/language/es) | 5794 | 5845 | 99.1 | /mnt/stockage/packages/f31/cryptsetup/po/es.po | 
+ | [sr](/f31/language/sr) | 5762 | 5845 | 98.6 | /mnt/stockage/packages/f31/cryptsetup/po/sr.po | 
+ | [da](/f31/language/da) | 5387 | 5845 | 92.2 | /mnt/stockage/packages/f31/cryptsetup/po/da.po | 
+ | [it](/f31/language/it) | 4017 | 5845 | 68.7 | /mnt/stockage/packages/f31/cryptsetup/po/it.po | 
+ | [pt_BR](/f31/language/pt_BR) | 4017 | 5845 | 68.7 | /mnt/stockage/packages/f31/cryptsetup/po/pt_BR.po | 
+ | [sv](/f31/language/sv) | 4017 | 5845 | 68.7 | /mnt/stockage/packages/f31/cryptsetup/po/sv.po | 
+ | [zh_Hans](/f31/language/zh_Hans) | 2360 | 5845 | 40.4 | /mnt/stockage/packages/f31/cryptsetup/po/zh_CN.po | 
+ | [nl](/f31/language/nl) | 2118 | 5845 | 36.2 | /mnt/stockage/packages/f31/cryptsetup/po/nl.po | 
+ | [vi](/f31/language/vi) | 816 | 5845 | 14.0 | /mnt/stockage/packages/f31/cryptsetup/po/vi.po | 
+ | [fi](/f31/language/fi) | 785 | 5845 | 13.4 | /mnt/stockage/packages/f31/cryptsetup/po/fi.po | 
+ | [id](/f31/language/id) | 340 | 5845 | 5.8 | /mnt/stockage/packages/f31/cryptsetup/po/id.po | 
 {.sortable}
 
 

@@ -18,46 +18,46 @@ The package rpm (version 4.20.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f42/language/de.md" >}}) | 4732 | 4732 | 100.0 | /mnt/stockage/packages/f42/rpm/po/de.po | 
- | [fi]({{< ref "/f42/language/fi.md" >}}) | 4732 | 4732 | 100.0 | /mnt/stockage/packages/f42/rpm/po/fi.po | 
- | [fr]({{< ref "/f42/language/fr.md" >}}) | 4732 | 4732 | 100.0 | /mnt/stockage/packages/f42/rpm/po/fr.po | 
- | [ko]({{< ref "/f42/language/ko.md" >}}) | 4732 | 4732 | 100.0 | /mnt/stockage/packages/f42/rpm/po/ko.po | 
- | [pl]({{< ref "/f42/language/pl.md" >}}) | 4732 | 4732 | 100.0 | /mnt/stockage/packages/f42/rpm/po/pl.po | 
- | [sv]({{< ref "/f42/language/sv.md" >}}) | 4732 | 4732 | 100.0 | /mnt/stockage/packages/f42/rpm/po/sv.po | 
- | [uk]({{< ref "/f42/language/uk.md" >}}) | 4732 | 4732 | 100.0 | /mnt/stockage/packages/f42/rpm/po/uk.po | 
- | [cs]({{< ref "/f42/language/cs.md" >}}) | 4665 | 4732 | 98.6 | /mnt/stockage/packages/f42/rpm/po/cs.po | 
- | [zh_Hant]({{< ref "/f42/language/zh_Hant.md" >}}) | 4422 | 4732 | 93.4 | /mnt/stockage/packages/f42/rpm/po/zh_TW.po | 
- | [ja]({{< ref "/f42/language/ja.md" >}}) | 4086 | 4732 | 86.3 | /mnt/stockage/packages/f42/rpm/po/ja.po | 
- | [zh_Hans]({{< ref "/f42/language/zh_Hans.md" >}}) | 7593 | 9464 | 80.2 | /mnt/stockage/packages/f42/rpm/po/zh_CN.po/mnt/stockage/packages/f42/rpm/po/cmn.po | 
- | [pt_BR]({{< ref "/f42/language/pt_BR.md" >}}) | 3649 | 4732 | 77.1 | /mnt/stockage/packages/f42/rpm/po/pt_BR.po | 
- | [vi]({{< ref "/f42/language/vi.md" >}}) | 3464 | 4732 | 73.2 | /mnt/stockage/packages/f42/rpm/po/vi.po | 
- | [eo]({{< ref "/f42/language/eo.md" >}}) | 3425 | 4732 | 72.4 | /mnt/stockage/packages/f42/rpm/po/eo.po | 
- | [it]({{< ref "/f42/language/it.md" >}}) | 3199 | 4732 | 67.6 | /mnt/stockage/packages/f42/rpm/po/it.po | 
- | [ca]({{< ref "/f42/language/ca.md" >}}) | 3180 | 4732 | 67.2 | /mnt/stockage/packages/f42/rpm/po/ca.po | 
- | [es]({{< ref "/f42/language/es.md" >}}) | 3087 | 4732 | 65.2 | /mnt/stockage/packages/f42/rpm/po/es.po | 
- | [sk]({{< ref "/f42/language/sk.md" >}}) | 2894 | 4732 | 61.2 | /mnt/stockage/packages/f42/rpm/po/sk.po | 
- | [ru]({{< ref "/f42/language/ru.md" >}}) | 2672 | 4732 | 56.5 | /mnt/stockage/packages/f42/rpm/po/ru.po | 
- | [tr]({{< ref "/f42/language/tr.md" >}}) | 2671 | 4732 | 56.4 | /mnt/stockage/packages/f42/rpm/po/tr.po | 
- | [sr]({{< ref "/f42/language/sr.md" >}}) | 2369 | 4732 | 50.1 | /mnt/stockage/packages/f42/rpm/po/sr.po | 
- | [sr_Latn]({{< ref "/f42/language/sr_Latn.md" >}}) | 2369 | 4732 | 50.1 | /mnt/stockage/packages/f42/rpm/po/sr@latin.po | 
- | [pt]({{< ref "/f42/language/pt.md" >}}) | 1679 | 4732 | 35.5 | /mnt/stockage/packages/f42/rpm/po/pt.po | 
- | [da]({{< ref "/f42/language/da.md" >}}) | 1387 | 4732 | 29.3 | /mnt/stockage/packages/f42/rpm/po/da.po | 
- | [nb_NO]({{< ref "/f42/language/nb_NO.md" >}}) | 1038 | 4732 | 21.9 | /mnt/stockage/packages/f42/rpm/po/nb.po | 
- | [ka]({{< ref "/f42/language/ka.md" >}}) | 864 | 4732 | 18.3 | /mnt/stockage/packages/f42/rpm/po/ka.po | 
- | [id]({{< ref "/f42/language/id.md" >}}) | 851 | 4732 | 18.0 | /mnt/stockage/packages/f42/rpm/po/id.po | 
- | [sl]({{< ref "/f42/language/sl.md" >}}) | 653 | 4732 | 13.8 | /mnt/stockage/packages/f42/rpm/po/sl.po | 
- | [br]({{< ref "/f42/language/br.md" >}}) | 641 | 4732 | 13.5 | /mnt/stockage/packages/f42/rpm/po/br.po | 
- | [ie]({{< ref "/f42/language/ie.md" >}}) | 449 | 4732 | 9.5 | /mnt/stockage/packages/f42/rpm/po/ie.po | 
- | [is]({{< ref "/f42/language/is.md" >}}) | 308 | 4732 | 6.5 | /mnt/stockage/packages/f42/rpm/po/is.po | 
- | [nl]({{< ref "/f42/language/nl.md" >}}) | 253 | 4732 | 5.3 | /mnt/stockage/packages/f42/rpm/po/nl.po | 
- | [ar]({{< ref "/f42/language/ar.md" >}}) | 230 | 4732 | 4.9 | /mnt/stockage/packages/f42/rpm/po/ar.po | 
- | [ms]({{< ref "/f42/language/ms.md" >}}) | 121 | 4732 | 2.6 | /mnt/stockage/packages/f42/rpm/po/ms.po | 
- | [el]({{< ref "/f42/language/el.md" >}}) | 74 | 4732 | 1.6 | /mnt/stockage/packages/f42/rpm/po/el.po | 
- | [te]({{< ref "/f42/language/te.md" >}}) | 59 | 4732 | 1.2 | /mnt/stockage/packages/f42/rpm/po/te.po | 
- | [pa]({{< ref "/f42/language/pa.md" >}}) | 11 | 4732 | 0.2 | /mnt/stockage/packages/f42/rpm/po/pa.po | 
- | [si]({{< ref "/f42/language/si.md" >}}) | 3 | 4732 | 0.1 | /mnt/stockage/packages/f42/rpm/po/si.po | 
- | [gu]({{< ref "/f42/language/gu.md" >}}) | 0 | 4732 | 0.0 | /mnt/stockage/packages/f42/rpm/po/gu.po | 
- | [he]({{< ref "/f42/language/he.md" >}}) | 0 | 4732 | 0.0 | /mnt/stockage/packages/f42/rpm/po/he.po | 
+ | [de](/f42/language/de) | 4732 | 4732 | 100.0 | /mnt/stockage/packages/f42/rpm/po/de.po | 
+ | [fi](/f42/language/fi) | 4732 | 4732 | 100.0 | /mnt/stockage/packages/f42/rpm/po/fi.po | 
+ | [fr](/f42/language/fr) | 4732 | 4732 | 100.0 | /mnt/stockage/packages/f42/rpm/po/fr.po | 
+ | [ko](/f42/language/ko) | 4732 | 4732 | 100.0 | /mnt/stockage/packages/f42/rpm/po/ko.po | 
+ | [pl](/f42/language/pl) | 4732 | 4732 | 100.0 | /mnt/stockage/packages/f42/rpm/po/pl.po | 
+ | [sv](/f42/language/sv) | 4732 | 4732 | 100.0 | /mnt/stockage/packages/f42/rpm/po/sv.po | 
+ | [uk](/f42/language/uk) | 4732 | 4732 | 100.0 | /mnt/stockage/packages/f42/rpm/po/uk.po | 
+ | [cs](/f42/language/cs) | 4665 | 4732 | 98.6 | /mnt/stockage/packages/f42/rpm/po/cs.po | 
+ | [zh_Hant](/f42/language/zh_Hant) | 4422 | 4732 | 93.4 | /mnt/stockage/packages/f42/rpm/po/zh_TW.po | 
+ | [ja](/f42/language/ja) | 4086 | 4732 | 86.3 | /mnt/stockage/packages/f42/rpm/po/ja.po | 
+ | [zh_Hans](/f42/language/zh_Hans) | 7593 | 9464 | 80.2 | /mnt/stockage/packages/f42/rpm/po/zh_CN.po/mnt/stockage/packages/f42/rpm/po/cmn.po | 
+ | [pt_BR](/f42/language/pt_BR) | 3649 | 4732 | 77.1 | /mnt/stockage/packages/f42/rpm/po/pt_BR.po | 
+ | [vi](/f42/language/vi) | 3464 | 4732 | 73.2 | /mnt/stockage/packages/f42/rpm/po/vi.po | 
+ | [eo](/f42/language/eo) | 3425 | 4732 | 72.4 | /mnt/stockage/packages/f42/rpm/po/eo.po | 
+ | [it](/f42/language/it) | 3199 | 4732 | 67.6 | /mnt/stockage/packages/f42/rpm/po/it.po | 
+ | [ca](/f42/language/ca) | 3180 | 4732 | 67.2 | /mnt/stockage/packages/f42/rpm/po/ca.po | 
+ | [es](/f42/language/es) | 3087 | 4732 | 65.2 | /mnt/stockage/packages/f42/rpm/po/es.po | 
+ | [sk](/f42/language/sk) | 2894 | 4732 | 61.2 | /mnt/stockage/packages/f42/rpm/po/sk.po | 
+ | [ru](/f42/language/ru) | 2672 | 4732 | 56.5 | /mnt/stockage/packages/f42/rpm/po/ru.po | 
+ | [tr](/f42/language/tr) | 2671 | 4732 | 56.4 | /mnt/stockage/packages/f42/rpm/po/tr.po | 
+ | [sr](/f42/language/sr) | 2369 | 4732 | 50.1 | /mnt/stockage/packages/f42/rpm/po/sr.po | 
+ | [sr_Latn](/f42/language/sr_Latn) | 2369 | 4732 | 50.1 | /mnt/stockage/packages/f42/rpm/po/sr@latin.po | 
+ | [pt](/f42/language/pt) | 1679 | 4732 | 35.5 | /mnt/stockage/packages/f42/rpm/po/pt.po | 
+ | [da](/f42/language/da) | 1387 | 4732 | 29.3 | /mnt/stockage/packages/f42/rpm/po/da.po | 
+ | [nb_NO](/f42/language/nb_NO) | 1038 | 4732 | 21.9 | /mnt/stockage/packages/f42/rpm/po/nb.po | 
+ | [ka](/f42/language/ka) | 864 | 4732 | 18.3 | /mnt/stockage/packages/f42/rpm/po/ka.po | 
+ | [id](/f42/language/id) | 851 | 4732 | 18.0 | /mnt/stockage/packages/f42/rpm/po/id.po | 
+ | [sl](/f42/language/sl) | 653 | 4732 | 13.8 | /mnt/stockage/packages/f42/rpm/po/sl.po | 
+ | [br](/f42/language/br) | 641 | 4732 | 13.5 | /mnt/stockage/packages/f42/rpm/po/br.po | 
+ | [ie](/f42/language/ie) | 449 | 4732 | 9.5 | /mnt/stockage/packages/f42/rpm/po/ie.po | 
+ | [is](/f42/language/is) | 308 | 4732 | 6.5 | /mnt/stockage/packages/f42/rpm/po/is.po | 
+ | [nl](/f42/language/nl) | 253 | 4732 | 5.3 | /mnt/stockage/packages/f42/rpm/po/nl.po | 
+ | [ar](/f42/language/ar) | 230 | 4732 | 4.9 | /mnt/stockage/packages/f42/rpm/po/ar.po | 
+ | [ms](/f42/language/ms) | 121 | 4732 | 2.6 | /mnt/stockage/packages/f42/rpm/po/ms.po | 
+ | [el](/f42/language/el) | 74 | 4732 | 1.6 | /mnt/stockage/packages/f42/rpm/po/el.po | 
+ | [te](/f42/language/te) | 59 | 4732 | 1.2 | /mnt/stockage/packages/f42/rpm/po/te.po | 
+ | [pa](/f42/language/pa) | 11 | 4732 | 0.2 | /mnt/stockage/packages/f42/rpm/po/pa.po | 
+ | [si](/f42/language/si) | 3 | 4732 | 0.1 | /mnt/stockage/packages/f42/rpm/po/si.po | 
+ | [gu](/f42/language/gu) | 0 | 4732 | 0.0 | /mnt/stockage/packages/f42/rpm/po/gu.po | 
+ | [he](/f42/language/he) | 0 | 4732 | 0.0 | /mnt/stockage/packages/f42/rpm/po/he.po | 
 {.sortable}
 
 

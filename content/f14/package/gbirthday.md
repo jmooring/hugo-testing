@@ -18,19 +18,19 @@ The package gbirthday (version 0.6.5):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f14/language/cs.md" >}}) | 127 | 127 | 100.0 | /mnt/stockage/packages/f14/gbirthday/po/cs.po | 
- | [da]({{< ref "/f14/language/da.md" >}}) | 127 | 127 | 100.0 | /mnt/stockage/packages/f14/gbirthday/po/da.po | 
- | [de]({{< ref "/f14/language/de.md" >}}) | 127 | 127 | 100.0 | /mnt/stockage/packages/f14/gbirthday/po/de.po | 
- | [he]({{< ref "/f14/language/he.md" >}}) | 127 | 127 | 100.0 | /mnt/stockage/packages/f14/gbirthday/po/he.po | 
- | [pl]({{< ref "/f14/language/pl.md" >}}) | 127 | 127 | 100.0 | /mnt/stockage/packages/f14/gbirthday/po/pl.po | 
- | [ru]({{< ref "/f14/language/ru.md" >}}) | 127 | 127 | 100.0 | /mnt/stockage/packages/f14/gbirthday/po/ru.po | 
- | [fr]({{< ref "/f14/language/fr.md" >}}) | 27 | 122 | 22.1 | /mnt/stockage/packages/f14/gbirthday/po/fr.po | 
- | [es]({{< ref "/f14/language/es.md" >}}) | 24 | 122 | 19.7 | /mnt/stockage/packages/f14/gbirthday/po/es.po | 
- | [gl]({{< ref "/f14/language/gl.md" >}}) | 24 | 122 | 19.7 | /mnt/stockage/packages/f14/gbirthday/po/gl.po | 
- | [it]({{< ref "/f14/language/it.md" >}}) | 24 | 122 | 19.7 | /mnt/stockage/packages/f14/gbirthday/po/it.po | 
- | [pt]({{< ref "/f14/language/pt.md" >}}) | 24 | 122 | 19.7 | /mnt/stockage/packages/f14/gbirthday/po/pt.po | 
- | [sk]({{< ref "/f14/language/sk.md" >}}) | 19 | 122 | 15.6 | /mnt/stockage/packages/f14/gbirthday/po/sk.po | 
- | [en]({{< ref "/f14/language/en.md" >}}) | 0 | 100 | 0.0 | /mnt/stockage/packages/f14/gbirthday/po/en.po | 
+ | [cs](/f14/language/cs) | 127 | 127 | 100.0 | /mnt/stockage/packages/f14/gbirthday/po/cs.po | 
+ | [da](/f14/language/da) | 127 | 127 | 100.0 | /mnt/stockage/packages/f14/gbirthday/po/da.po | 
+ | [de](/f14/language/de) | 127 | 127 | 100.0 | /mnt/stockage/packages/f14/gbirthday/po/de.po | 
+ | [he](/f14/language/he) | 127 | 127 | 100.0 | /mnt/stockage/packages/f14/gbirthday/po/he.po | 
+ | [pl](/f14/language/pl) | 127 | 127 | 100.0 | /mnt/stockage/packages/f14/gbirthday/po/pl.po | 
+ | [ru](/f14/language/ru) | 127 | 127 | 100.0 | /mnt/stockage/packages/f14/gbirthday/po/ru.po | 
+ | [fr](/f14/language/fr) | 27 | 122 | 22.1 | /mnt/stockage/packages/f14/gbirthday/po/fr.po | 
+ | [es](/f14/language/es) | 24 | 122 | 19.7 | /mnt/stockage/packages/f14/gbirthday/po/es.po | 
+ | [gl](/f14/language/gl) | 24 | 122 | 19.7 | /mnt/stockage/packages/f14/gbirthday/po/gl.po | 
+ | [it](/f14/language/it) | 24 | 122 | 19.7 | /mnt/stockage/packages/f14/gbirthday/po/it.po | 
+ | [pt](/f14/language/pt) | 24 | 122 | 19.7 | /mnt/stockage/packages/f14/gbirthday/po/pt.po | 
+ | [sk](/f14/language/sk) | 19 | 122 | 15.6 | /mnt/stockage/packages/f14/gbirthday/po/sk.po | 
+ | [en](/f14/language/en) | 0 | 100 | 0.0 | /mnt/stockage/packages/f14/gbirthday/po/en.po | 
 {.sortable}
 
 

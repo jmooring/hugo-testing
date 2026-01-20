@@ -18,7 +18,7 @@ The package mingw-wine-gecko (version 2.36):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [en_US]({{< ref "/f20/language/en_US.md" >}}) | 6 | 6 | 100.0 | /mnt/stockage/packages/f20/mingw-wine-gecko/python/mozbuild/mozbuild/locale/en-US/LC_MESSAGES/mozbuild.po | 
+ | [en_US](/f20/language/en_US) | 6 | 6 | 100.0 | /mnt/stockage/packages/f20/mingw-wine-gecko/python/mozbuild/mozbuild/locale/en-US/LC_MESSAGES/mozbuild.po | 
 {.sortable}
 
 

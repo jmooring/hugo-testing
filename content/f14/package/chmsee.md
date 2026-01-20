@@ -18,32 +18,32 @@ The package chmsee (version 1.1.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [zh_Hans]({{< ref "/f14/language/zh_Hans.md" >}}) | 194 | 194 | 100.0 | /mnt/stockage/packages/f14/chmsee/po/zh_CN.po | 
- | [es]({{< ref "/f14/language/es.md" >}}) | 127 | 194 | 65.5 | /mnt/stockage/packages/f14/chmsee/po/es.po | 
- | [ru]({{< ref "/f14/language/ru.md" >}}) | 127 | 194 | 65.5 | /mnt/stockage/packages/f14/chmsee/po/ru.po | 
- | [de]({{< ref "/f14/language/de.md" >}}) | 126 | 194 | 64.9 | /mnt/stockage/packages/f14/chmsee/po/de.po | 
- | [zh_Hant]({{< ref "/f14/language/zh_Hant.md" >}}) | 126 | 194 | 64.9 | /mnt/stockage/packages/f14/chmsee/po/zh_TW.po | 
- | [da]({{< ref "/f14/language/da.md" >}}) | 125 | 194 | 64.4 | /mnt/stockage/packages/f14/chmsee/po/da.po | 
- | [el]({{< ref "/f14/language/el.md" >}}) | 125 | 194 | 64.4 | /mnt/stockage/packages/f14/chmsee/po/el.po | 
- | [id]({{< ref "/f14/language/id.md" >}}) | 125 | 194 | 64.4 | /mnt/stockage/packages/f14/chmsee/po/id.po | 
- | [ms]({{< ref "/f14/language/ms.md" >}}) | 125 | 194 | 64.4 | /mnt/stockage/packages/f14/chmsee/po/ms.po | 
- | [ro]({{< ref "/f14/language/ro.md" >}}) | 125 | 194 | 64.4 | /mnt/stockage/packages/f14/chmsee/po/ro.po | 
- | [vi]({{< ref "/f14/language/vi.md" >}}) | 125 | 194 | 64.4 | /mnt/stockage/packages/f14/chmsee/po/vi.po | 
- | [sv]({{< ref "/f14/language/sv.md" >}}) | 124 | 194 | 63.9 | /mnt/stockage/packages/f14/chmsee/po/sv.po | 
- | [sw]({{< ref "/f14/language/sw.md" >}}) | 124 | 194 | 63.9 | /mnt/stockage/packages/f14/chmsee/po/sw.po | 
- | [pt_BR]({{< ref "/f14/language/pt_BR.md" >}}) | 123 | 194 | 63.4 | /mnt/stockage/packages/f14/chmsee/po/pt_BR.po | 
- | [cs]({{< ref "/f14/language/cs.md" >}}) | 107 | 194 | 55.2 | /mnt/stockage/packages/f14/chmsee/po/cs.po | 
- | [sk]({{< ref "/f14/language/sk.md" >}}) | 105 | 194 | 54.1 | /mnt/stockage/packages/f14/chmsee/po/sk.po | 
- | [fr]({{< ref "/f14/language/fr.md" >}}) | 104 | 194 | 53.6 | /mnt/stockage/packages/f14/chmsee/po/fr.po | 
- | [nb_NO]({{< ref "/f14/language/nb_NO.md" >}}) | 100 | 194 | 51.5 | /mnt/stockage/packages/f14/chmsee/po/nb.po | 
- | [en_GB]({{< ref "/f14/language/en_GB.md" >}}) | 99 | 194 | 51.0 | /mnt/stockage/packages/f14/chmsee/po/en_GB.po | 
- | [he]({{< ref "/f14/language/he.md" >}}) | 81 | 194 | 41.8 | /mnt/stockage/packages/f14/chmsee/po/he.po | 
- | [it]({{< ref "/f14/language/it.md" >}}) | 81 | 194 | 41.8 | /mnt/stockage/packages/f14/chmsee/po/it.po | 
- | [uk]({{< ref "/f14/language/uk.md" >}}) | 69 | 194 | 35.6 | /mnt/stockage/packages/f14/chmsee/po/uk.po | 
- | [bn]({{< ref "/f14/language/bn.md" >}}) | 61 | 194 | 31.4 | /mnt/stockage/packages/f14/chmsee/po/bn.po | 
- | [pl]({{< ref "/f14/language/pl.md" >}}) | 45 | 194 | 23.2 | /mnt/stockage/packages/f14/chmsee/po/pl.po | 
- | [pt]({{< ref "/f14/language/pt.md" >}}) | 23 | 194 | 11.9 | /mnt/stockage/packages/f14/chmsee/po/pt.po | 
- | [ca]({{< ref "/f14/language/ca.md" >}}) | 14 | 194 | 7.2 | /mnt/stockage/packages/f14/chmsee/po/ca.po | 
+ | [zh_Hans](/f14/language/zh_Hans) | 194 | 194 | 100.0 | /mnt/stockage/packages/f14/chmsee/po/zh_CN.po | 
+ | [es](/f14/language/es) | 127 | 194 | 65.5 | /mnt/stockage/packages/f14/chmsee/po/es.po | 
+ | [ru](/f14/language/ru) | 127 | 194 | 65.5 | /mnt/stockage/packages/f14/chmsee/po/ru.po | 
+ | [de](/f14/language/de) | 126 | 194 | 64.9 | /mnt/stockage/packages/f14/chmsee/po/de.po | 
+ | [zh_Hant](/f14/language/zh_Hant) | 126 | 194 | 64.9 | /mnt/stockage/packages/f14/chmsee/po/zh_TW.po | 
+ | [da](/f14/language/da) | 125 | 194 | 64.4 | /mnt/stockage/packages/f14/chmsee/po/da.po | 
+ | [el](/f14/language/el) | 125 | 194 | 64.4 | /mnt/stockage/packages/f14/chmsee/po/el.po | 
+ | [id](/f14/language/id) | 125 | 194 | 64.4 | /mnt/stockage/packages/f14/chmsee/po/id.po | 
+ | [ms](/f14/language/ms) | 125 | 194 | 64.4 | /mnt/stockage/packages/f14/chmsee/po/ms.po | 
+ | [ro](/f14/language/ro) | 125 | 194 | 64.4 | /mnt/stockage/packages/f14/chmsee/po/ro.po | 
+ | [vi](/f14/language/vi) | 125 | 194 | 64.4 | /mnt/stockage/packages/f14/chmsee/po/vi.po | 
+ | [sv](/f14/language/sv) | 124 | 194 | 63.9 | /mnt/stockage/packages/f14/chmsee/po/sv.po | 
+ | [sw](/f14/language/sw) | 124 | 194 | 63.9 | /mnt/stockage/packages/f14/chmsee/po/sw.po | 
+ | [pt_BR](/f14/language/pt_BR) | 123 | 194 | 63.4 | /mnt/stockage/packages/f14/chmsee/po/pt_BR.po | 
+ | [cs](/f14/language/cs) | 107 | 194 | 55.2 | /mnt/stockage/packages/f14/chmsee/po/cs.po | 
+ | [sk](/f14/language/sk) | 105 | 194 | 54.1 | /mnt/stockage/packages/f14/chmsee/po/sk.po | 
+ | [fr](/f14/language/fr) | 104 | 194 | 53.6 | /mnt/stockage/packages/f14/chmsee/po/fr.po | 
+ | [nb_NO](/f14/language/nb_NO) | 100 | 194 | 51.5 | /mnt/stockage/packages/f14/chmsee/po/nb.po | 
+ | [en_GB](/f14/language/en_GB) | 99 | 194 | 51.0 | /mnt/stockage/packages/f14/chmsee/po/en_GB.po | 
+ | [he](/f14/language/he) | 81 | 194 | 41.8 | /mnt/stockage/packages/f14/chmsee/po/he.po | 
+ | [it](/f14/language/it) | 81 | 194 | 41.8 | /mnt/stockage/packages/f14/chmsee/po/it.po | 
+ | [uk](/f14/language/uk) | 69 | 194 | 35.6 | /mnt/stockage/packages/f14/chmsee/po/uk.po | 
+ | [bn](/f14/language/bn) | 61 | 194 | 31.4 | /mnt/stockage/packages/f14/chmsee/po/bn.po | 
+ | [pl](/f14/language/pl) | 45 | 194 | 23.2 | /mnt/stockage/packages/f14/chmsee/po/pl.po | 
+ | [pt](/f14/language/pt) | 23 | 194 | 11.9 | /mnt/stockage/packages/f14/chmsee/po/pt.po | 
+ | [ca](/f14/language/ca) | 14 | 194 | 7.2 | /mnt/stockage/packages/f14/chmsee/po/ca.po | 
 {.sortable}
 
 

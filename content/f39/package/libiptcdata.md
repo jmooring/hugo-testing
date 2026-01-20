@@ -18,8 +18,8 @@ The package libiptcdata (version 1.0.5):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f39/language/de.md" >}}) | 1438 | 1438 | 100.0 | /mnt/stockage/packages/f39/libiptcdata/iptc/po/de.po/mnt/stockage/packages/f39/libiptcdata/po/de.po | 
- | [it]({{< ref "/f39/language/it.md" >}}) | 1438 | 1438 | 100.0 | /mnt/stockage/packages/f39/libiptcdata/iptc/po/it.po/mnt/stockage/packages/f39/libiptcdata/po/it.po | 
+ | [de](/f39/language/de) | 1438 | 1438 | 100.0 | /mnt/stockage/packages/f39/libiptcdata/iptc/po/de.po/mnt/stockage/packages/f39/libiptcdata/po/de.po | 
+ | [it](/f39/language/it) | 1438 | 1438 | 100.0 | /mnt/stockage/packages/f39/libiptcdata/iptc/po/it.po/mnt/stockage/packages/f39/libiptcdata/po/it.po | 
 {.sortable}
 
 

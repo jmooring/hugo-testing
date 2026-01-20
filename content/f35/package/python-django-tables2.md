@@ -18,24 +18,24 @@ The package python-django-tables2 (version 2.4.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f35/language/cs.md" >}}) | 2 | 2 | 100.0 | /mnt/stockage/packages/f35/python-django-tables2/django_tables2/locale/cs/LC_MESSAGES/django.po | 
- | [de]({{< ref "/f35/language/de.md" >}}) | 2 | 2 | 100.0 | /mnt/stockage/packages/f35/python-django-tables2/django_tables2/locale/de/LC_MESSAGES/django.po | 
- | [el]({{< ref "/f35/language/el.md" >}}) | 2 | 2 | 100.0 | /mnt/stockage/packages/f35/python-django-tables2/django_tables2/locale/el/LC_MESSAGES/django.po | 
- | [en_US]({{< ref "/f35/language/en_US.md" >}}) | 2 | 2 | 100.0 | /mnt/stockage/packages/f35/python-django-tables2/django_tables2/locale/en/LC_MESSAGES/django.po | 
- | [es]({{< ref "/f35/language/es.md" >}}) | 2 | 2 | 100.0 | /mnt/stockage/packages/f35/python-django-tables2/django_tables2/locale/es/LC_MESSAGES/django.po | 
- | [fr]({{< ref "/f35/language/fr.md" >}}) | 2 | 2 | 100.0 | /mnt/stockage/packages/f35/python-django-tables2/django_tables2/locale/fr/LC_MESSAGES/django.po | 
- | [hu]({{< ref "/f35/language/hu.md" >}}) | 2 | 2 | 100.0 | /mnt/stockage/packages/f35/python-django-tables2/django_tables2/locale/hu/LC_MESSAGES/django.po | 
- | [it]({{< ref "/f35/language/it.md" >}}) | 2 | 2 | 100.0 | /mnt/stockage/packages/f35/python-django-tables2/django_tables2/locale/it/LC_MESSAGES/django.po | 
- | [lt]({{< ref "/f35/language/lt.md" >}}) | 21 | 21 | 100.0 | /mnt/stockage/packages/f35/python-django-tables2/django_tables2/locale/lt/LC_MESSAGES/django.po | 
- | [nb_NO]({{< ref "/f35/language/nb_NO.md" >}}) | 2 | 2 | 100.0 | /mnt/stockage/packages/f35/python-django-tables2/django_tables2/locale/nb/LC_MESSAGES/django.po | 
- | [nl]({{< ref "/f35/language/nl.md" >}}) | 2 | 2 | 100.0 | /mnt/stockage/packages/f35/python-django-tables2/django_tables2/locale/nl/LC_MESSAGES/django.po | 
- | [pl]({{< ref "/f35/language/pl.md" >}}) | 2 | 2 | 100.0 | /mnt/stockage/packages/f35/python-django-tables2/django_tables2/locale/pl/LC_MESSAGES/django.po | 
- | [pt_BR]({{< ref "/f35/language/pt_BR.md" >}}) | 2 | 2 | 100.0 | /mnt/stockage/packages/f35/python-django-tables2/django_tables2/locale/pt_BR/LC_MESSAGES/django.po | 
- | [pt_PT]({{< ref "/f35/language/pt_PT.md" >}}) | 2 | 2 | 100.0 | /mnt/stockage/packages/f35/python-django-tables2/django_tables2/locale/pt_PT/LC_MESSAGES/django.po | 
- | [ru]({{< ref "/f35/language/ru.md" >}}) | 2 | 2 | 100.0 | /mnt/stockage/packages/f35/python-django-tables2/django_tables2/locale/ru/LC_MESSAGES/django.po | 
- | [sv]({{< ref "/f35/language/sv.md" >}}) | 2 | 2 | 100.0 | /mnt/stockage/packages/f35/python-django-tables2/django_tables2/locale/sv/LC_MESSAGES/django.po | 
- | [uk]({{< ref "/f35/language/uk.md" >}}) | 2 | 2 | 100.0 | /mnt/stockage/packages/f35/python-django-tables2/django_tables2/locale/uk/LC_MESSAGES/django.po | 
- | [zh_Hans]({{< ref "/f35/language/zh_Hans.md" >}}) | 2 | 2 | 100.0 | /mnt/stockage/packages/f35/python-django-tables2/django_tables2/locale/zh_Hans/LC_MESSAGES/django.po | 
+ | [cs](/f35/language/cs) | 2 | 2 | 100.0 | /mnt/stockage/packages/f35/python-django-tables2/django_tables2/locale/cs/LC_MESSAGES/django.po | 
+ | [de](/f35/language/de) | 2 | 2 | 100.0 | /mnt/stockage/packages/f35/python-django-tables2/django_tables2/locale/de/LC_MESSAGES/django.po | 
+ | [el](/f35/language/el) | 2 | 2 | 100.0 | /mnt/stockage/packages/f35/python-django-tables2/django_tables2/locale/el/LC_MESSAGES/django.po | 
+ | [en_US](/f35/language/en_US) | 2 | 2 | 100.0 | /mnt/stockage/packages/f35/python-django-tables2/django_tables2/locale/en/LC_MESSAGES/django.po | 
+ | [es](/f35/language/es) | 2 | 2 | 100.0 | /mnt/stockage/packages/f35/python-django-tables2/django_tables2/locale/es/LC_MESSAGES/django.po | 
+ | [fr](/f35/language/fr) | 2 | 2 | 100.0 | /mnt/stockage/packages/f35/python-django-tables2/django_tables2/locale/fr/LC_MESSAGES/django.po | 
+ | [hu](/f35/language/hu) | 2 | 2 | 100.0 | /mnt/stockage/packages/f35/python-django-tables2/django_tables2/locale/hu/LC_MESSAGES/django.po | 
+ | [it](/f35/language/it) | 2 | 2 | 100.0 | /mnt/stockage/packages/f35/python-django-tables2/django_tables2/locale/it/LC_MESSAGES/django.po | 
+ | [lt](/f35/language/lt) | 21 | 21 | 100.0 | /mnt/stockage/packages/f35/python-django-tables2/django_tables2/locale/lt/LC_MESSAGES/django.po | 
+ | [nb_NO](/f35/language/nb_NO) | 2 | 2 | 100.0 | /mnt/stockage/packages/f35/python-django-tables2/django_tables2/locale/nb/LC_MESSAGES/django.po | 
+ | [nl](/f35/language/nl) | 2 | 2 | 100.0 | /mnt/stockage/packages/f35/python-django-tables2/django_tables2/locale/nl/LC_MESSAGES/django.po | 
+ | [pl](/f35/language/pl) | 2 | 2 | 100.0 | /mnt/stockage/packages/f35/python-django-tables2/django_tables2/locale/pl/LC_MESSAGES/django.po | 
+ | [pt_BR](/f35/language/pt_BR) | 2 | 2 | 100.0 | /mnt/stockage/packages/f35/python-django-tables2/django_tables2/locale/pt_BR/LC_MESSAGES/django.po | 
+ | [pt_PT](/f35/language/pt_PT) | 2 | 2 | 100.0 | /mnt/stockage/packages/f35/python-django-tables2/django_tables2/locale/pt_PT/LC_MESSAGES/django.po | 
+ | [ru](/f35/language/ru) | 2 | 2 | 100.0 | /mnt/stockage/packages/f35/python-django-tables2/django_tables2/locale/ru/LC_MESSAGES/django.po | 
+ | [sv](/f35/language/sv) | 2 | 2 | 100.0 | /mnt/stockage/packages/f35/python-django-tables2/django_tables2/locale/sv/LC_MESSAGES/django.po | 
+ | [uk](/f35/language/uk) | 2 | 2 | 100.0 | /mnt/stockage/packages/f35/python-django-tables2/django_tables2/locale/uk/LC_MESSAGES/django.po | 
+ | [zh_Hans](/f35/language/zh_Hans) | 2 | 2 | 100.0 | /mnt/stockage/packages/f35/python-django-tables2/django_tables2/locale/zh_Hans/LC_MESSAGES/django.po | 
 {.sortable}
 
 

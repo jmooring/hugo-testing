@@ -18,29 +18,29 @@ The package scummvm (version 2.0.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [be]({{< ref "/f27/language/be.md" >}}) | 4646 | 4646 | 100.0 | /mnt/stockage/packages/f27/scummvm/po/be_BY.po | 
- | [cs]({{< ref "/f27/language/cs.md" >}}) | 4646 | 4646 | 100.0 | /mnt/stockage/packages/f27/scummvm/po/cs_CZ.po | 
- | [da]({{< ref "/f27/language/da.md" >}}) | 4646 | 4646 | 100.0 | /mnt/stockage/packages/f27/scummvm/po/da_DK.po | 
- | [de]({{< ref "/f27/language/de.md" >}}) | 4646 | 4646 | 100.0 | /mnt/stockage/packages/f27/scummvm/po/de_DE.po | 
- | [es]({{< ref "/f27/language/es.md" >}}) | 4646 | 4646 | 100.0 | /mnt/stockage/packages/f27/scummvm/po/es_ES.po | 
- | [fi]({{< ref "/f27/language/fi.md" >}}) | 4646 | 4646 | 100.0 | /mnt/stockage/packages/f27/scummvm/po/fi_FI.po | 
- | [fr]({{< ref "/f27/language/fr.md" >}}) | 4646 | 4646 | 100.0 | /mnt/stockage/packages/f27/scummvm/po/fr_FR.po | 
- | [gl]({{< ref "/f27/language/gl.md" >}}) | 4646 | 4646 | 100.0 | /mnt/stockage/packages/f27/scummvm/po/gl_ES.po | 
- | [hu]({{< ref "/f27/language/hu.md" >}}) | 4646 | 4646 | 100.0 | /mnt/stockage/packages/f27/scummvm/po/hu_HU.po | 
- | [nl]({{< ref "/f27/language/nl.md" >}}) | 4646 | 4646 | 100.0 | /mnt/stockage/packages/f27/scummvm/po/nl_NL.po | 
- | [ru]({{< ref "/f27/language/ru.md" >}}) | 4646 | 4646 | 100.0 | /mnt/stockage/packages/f27/scummvm/po/ru_RU.po | 
- | [sv]({{< ref "/f27/language/sv.md" >}}) | 4646 | 4646 | 100.0 | /mnt/stockage/packages/f27/scummvm/po/sv_SE.po | 
- | [it]({{< ref "/f27/language/it.md" >}}) | 4603 | 4646 | 99.1 | /mnt/stockage/packages/f27/scummvm/po/it_IT.po | 
- | [uk]({{< ref "/f27/language/uk.md" >}}) | 4264 | 4646 | 91.8 | /mnt/stockage/packages/f27/scummvm/po/uk_UA.po | 
- | [el]({{< ref "/f27/language/el.md" >}}) | 4115 | 4646 | 88.6 | /mnt/stockage/packages/f27/scummvm/po/el.po | 
- | [nb_NO]({{< ref "/f27/language/nb_NO.md" >}}) | 3274 | 4646 | 70.5 | /mnt/stockage/packages/f27/scummvm/po/nb_NO.po | 
- | [pl]({{< ref "/f27/language/pl.md" >}}) | 3274 | 4646 | 70.5 | /mnt/stockage/packages/f27/scummvm/po/pl_PL.po | 
- | [error]({{< ref "/f27/language/error.md" >}}) | 2885 | 4646 | 62.1 | /mnt/stockage/packages/f27/scummvm/po/zh-Latn_CN.po | 
- | [eu]({{< ref "/f27/language/eu.md" >}}) | 2885 | 4646 | 62.1 | /mnt/stockage/packages/f27/scummvm/po/eu.po | 
- | [ca]({{< ref "/f27/language/ca.md" >}}) | 2531 | 4646 | 54.5 | /mnt/stockage/packages/f27/scummvm/po/ca_ES.po | 
- | [nn]({{< ref "/f27/language/nn.md" >}}) | 2325 | 4646 | 50.0 | /mnt/stockage/packages/f27/scummvm/po/nn_NO.po | 
- | [pt_BR]({{< ref "/f27/language/pt_BR.md" >}}) | 2054 | 4646 | 44.2 | /mnt/stockage/packages/f27/scummvm/po/pt_BR.po | 
- | [pt_PT]({{< ref "/f27/language/pt_PT.md" >}}) | 667 | 4646 | 14.4 | /mnt/stockage/packages/f27/scummvm/po/pt_PT.po | 
+ | [be](/f27/language/be) | 4646 | 4646 | 100.0 | /mnt/stockage/packages/f27/scummvm/po/be_BY.po | 
+ | [cs](/f27/language/cs) | 4646 | 4646 | 100.0 | /mnt/stockage/packages/f27/scummvm/po/cs_CZ.po | 
+ | [da](/f27/language/da) | 4646 | 4646 | 100.0 | /mnt/stockage/packages/f27/scummvm/po/da_DK.po | 
+ | [de](/f27/language/de) | 4646 | 4646 | 100.0 | /mnt/stockage/packages/f27/scummvm/po/de_DE.po | 
+ | [es](/f27/language/es) | 4646 | 4646 | 100.0 | /mnt/stockage/packages/f27/scummvm/po/es_ES.po | 
+ | [fi](/f27/language/fi) | 4646 | 4646 | 100.0 | /mnt/stockage/packages/f27/scummvm/po/fi_FI.po | 
+ | [fr](/f27/language/fr) | 4646 | 4646 | 100.0 | /mnt/stockage/packages/f27/scummvm/po/fr_FR.po | 
+ | [gl](/f27/language/gl) | 4646 | 4646 | 100.0 | /mnt/stockage/packages/f27/scummvm/po/gl_ES.po | 
+ | [hu](/f27/language/hu) | 4646 | 4646 | 100.0 | /mnt/stockage/packages/f27/scummvm/po/hu_HU.po | 
+ | [nl](/f27/language/nl) | 4646 | 4646 | 100.0 | /mnt/stockage/packages/f27/scummvm/po/nl_NL.po | 
+ | [ru](/f27/language/ru) | 4646 | 4646 | 100.0 | /mnt/stockage/packages/f27/scummvm/po/ru_RU.po | 
+ | [sv](/f27/language/sv) | 4646 | 4646 | 100.0 | /mnt/stockage/packages/f27/scummvm/po/sv_SE.po | 
+ | [it](/f27/language/it) | 4603 | 4646 | 99.1 | /mnt/stockage/packages/f27/scummvm/po/it_IT.po | 
+ | [uk](/f27/language/uk) | 4264 | 4646 | 91.8 | /mnt/stockage/packages/f27/scummvm/po/uk_UA.po | 
+ | [el](/f27/language/el) | 4115 | 4646 | 88.6 | /mnt/stockage/packages/f27/scummvm/po/el.po | 
+ | [nb_NO](/f27/language/nb_NO) | 3274 | 4646 | 70.5 | /mnt/stockage/packages/f27/scummvm/po/nb_NO.po | 
+ | [pl](/f27/language/pl) | 3274 | 4646 | 70.5 | /mnt/stockage/packages/f27/scummvm/po/pl_PL.po | 
+ | [error](/f27/language/error) | 2885 | 4646 | 62.1 | /mnt/stockage/packages/f27/scummvm/po/zh-Latn_CN.po | 
+ | [eu](/f27/language/eu) | 2885 | 4646 | 62.1 | /mnt/stockage/packages/f27/scummvm/po/eu.po | 
+ | [ca](/f27/language/ca) | 2531 | 4646 | 54.5 | /mnt/stockage/packages/f27/scummvm/po/ca_ES.po | 
+ | [nn](/f27/language/nn) | 2325 | 4646 | 50.0 | /mnt/stockage/packages/f27/scummvm/po/nn_NO.po | 
+ | [pt_BR](/f27/language/pt_BR) | 2054 | 4646 | 44.2 | /mnt/stockage/packages/f27/scummvm/po/pt_BR.po | 
+ | [pt_PT](/f27/language/pt_PT) | 667 | 4646 | 14.4 | /mnt/stockage/packages/f27/scummvm/po/pt_PT.po | 
 {.sortable}
 
 

@@ -44,7 +44,7 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [cinnamon-translations]({{< ref "/f43/package/cinnamon-translations.md" >}}) | 4 | 50 | 8.0 | Balinese <ban@li.org> | 
+ | [cinnamon-translations](/f43/package/cinnamon-translations) | 4 | 50 | 8.0 | Balinese <ban@li.org> | 
 {.sortable}
 
 

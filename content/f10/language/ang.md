@@ -38,16 +38,16 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [at-spi]({{< ref "/f10/package/at-spi.md" >}}) | 4 | 4 | 100.0 | Old English <modean52@comcast.net> | 
- | [gnome-mag]({{< ref "/f10/package/gnome-mag.md" >}}) | 5 | 5 | 100.0 | Old English <modean52@comcast.net> | 
- | [vte]({{< ref "/f10/package/vte.md" >}}) | 27 | 96 | 28.1 | Old English <modean52@comcast.net> | 
- | [eel2]({{< ref "/f10/package/eel2.md" >}}) | 57 | 235 | 24.3 | Old English <modean52@comcast.net> | 
- | [libgnomecanvas]({{< ref "/f10/package/libgnomecanvas.md" >}}) | 14 | 357 | 3.9 | Old English <modean52@comcast.net> | 
- | [gtk2]({{< ref "/f10/package/gtk2.md" >}}) | 423 | 12760 | 3.3 | Old English <modean52@comcast.net> | 
- | [mingw32-gtk2]({{< ref "/f10/package/mingw32-gtk2.md" >}}) | 404 | 12400 | 3.3 | Old English <modean52@comcast.net> | 
- | [libgweather]({{< ref "/f10/package/libgweather.md" >}}) | 51 | 3663 | 1.4 | Old English <modean52@comcast.net> | 
- | [gok]({{< ref "/f10/package/gok.md" >}}) | 19 | 1781 | 1.1 | Old English <modean52@comcast.net> | 
- | [gnome-volume-manager]({{< ref "/f10/package/gnome-volume-manager.md" >}}) | 6 | 1169 | 0.5 | Old English <modean52@comcast.net> | 
+ | [at-spi](/f10/package/at-spi) | 4 | 4 | 100.0 | Old English <modean52@comcast.net> | 
+ | [gnome-mag](/f10/package/gnome-mag) | 5 | 5 | 100.0 | Old English <modean52@comcast.net> | 
+ | [vte](/f10/package/vte) | 27 | 96 | 28.1 | Old English <modean52@comcast.net> | 
+ | [eel2](/f10/package/eel2) | 57 | 235 | 24.3 | Old English <modean52@comcast.net> | 
+ | [libgnomecanvas](/f10/package/libgnomecanvas) | 14 | 357 | 3.9 | Old English <modean52@comcast.net> | 
+ | [gtk2](/f10/package/gtk2) | 423 | 12760 | 3.3 | Old English <modean52@comcast.net> | 
+ | [mingw32-gtk2](/f10/package/mingw32-gtk2) | 404 | 12400 | 3.3 | Old English <modean52@comcast.net> | 
+ | [libgweather](/f10/package/libgweather) | 51 | 3663 | 1.4 | Old English <modean52@comcast.net> | 
+ | [gok](/f10/package/gok) | 19 | 1781 | 1.1 | Old English <modean52@comcast.net> | 
+ | [gnome-volume-manager](/f10/package/gnome-volume-manager) | 6 | 1169 | 0.5 | Old English <modean52@comcast.net> | 
 {.sortable}
 
 

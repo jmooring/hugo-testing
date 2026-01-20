@@ -18,8 +18,8 @@ The package nco (version 4.9.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [es]({{< ref "/f32/language/es.md" >}}) | 34 | 34 | 100.0 | /mnt/stockage/packages/f32/nco/po/es/nco.po | 
- | [fr]({{< ref "/f32/language/fr.md" >}}) | 34 | 34 | 100.0 | /mnt/stockage/packages/f32/nco/po/fr/nco.po | 
+ | [es](/f32/language/es) | 34 | 34 | 100.0 | /mnt/stockage/packages/f32/nco/po/es/nco.po | 
+ | [fr](/f32/language/fr) | 34 | 34 | 100.0 | /mnt/stockage/packages/f32/nco/po/fr/nco.po | 
 {.sortable}
 
 

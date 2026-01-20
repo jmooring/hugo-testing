@@ -18,16 +18,16 @@ The package klamav (version 0.41.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f8/language/fr.md" >}}) | 2501 | 2501 | 100.0 | /mnt/stockage/packages/f8/klamav/po/fr.po | 
- | [pt_BR]({{< ref "/f8/language/pt_BR.md" >}}) | 2021 | 2503 | 80.7 | /mnt/stockage/packages/f8/klamav/po/pt_BR.po | 
- | [es]({{< ref "/f8/language/es.md" >}}) | 931 | 2503 | 37.2 | /mnt/stockage/packages/f8/klamav/po/es.po | 
- | [hu]({{< ref "/f8/language/hu.md" >}}) | 768 | 2503 | 30.7 | /mnt/stockage/packages/f8/klamav/po/hu.po | 
- | [cs]({{< ref "/f8/language/cs.md" >}}) | 767 | 2503 | 30.6 | /mnt/stockage/packages/f8/klamav/po/cs.po | 
- | [pl]({{< ref "/f8/language/pl.md" >}}) | 559 | 2503 | 22.3 | /mnt/stockage/packages/f8/klamav/po/pl.po | 
- | [de]({{< ref "/f8/language/de.md" >}}) | 458 | 2503 | 18.3 | /mnt/stockage/packages/f8/klamav/po/de.po | 
- | [zh_Hans]({{< ref "/f8/language/zh_Hans.md" >}}) | 372 | 2503 | 14.9 | /mnt/stockage/packages/f8/klamav/po/zh_CN.po | 
- | [ru]({{< ref "/f8/language/ru.md" >}}) | 358 | 2503 | 14.3 | /mnt/stockage/packages/f8/klamav/po/ru.po | 
- | [it]({{< ref "/f8/language/it.md" >}}) | 15 | 2503 | 0.6 | /mnt/stockage/packages/f8/klamav/po/it.po | 
+ | [fr](/f8/language/fr) | 2501 | 2501 | 100.0 | /mnt/stockage/packages/f8/klamav/po/fr.po | 
+ | [pt_BR](/f8/language/pt_BR) | 2021 | 2503 | 80.7 | /mnt/stockage/packages/f8/klamav/po/pt_BR.po | 
+ | [es](/f8/language/es) | 931 | 2503 | 37.2 | /mnt/stockage/packages/f8/klamav/po/es.po | 
+ | [hu](/f8/language/hu) | 768 | 2503 | 30.7 | /mnt/stockage/packages/f8/klamav/po/hu.po | 
+ | [cs](/f8/language/cs) | 767 | 2503 | 30.6 | /mnt/stockage/packages/f8/klamav/po/cs.po | 
+ | [pl](/f8/language/pl) | 559 | 2503 | 22.3 | /mnt/stockage/packages/f8/klamav/po/pl.po | 
+ | [de](/f8/language/de) | 458 | 2503 | 18.3 | /mnt/stockage/packages/f8/klamav/po/de.po | 
+ | [zh_Hans](/f8/language/zh_Hans) | 372 | 2503 | 14.9 | /mnt/stockage/packages/f8/klamav/po/zh_CN.po | 
+ | [ru](/f8/language/ru) | 358 | 2503 | 14.3 | /mnt/stockage/packages/f8/klamav/po/ru.po | 
+ | [it](/f8/language/it) | 15 | 2503 | 0.6 | /mnt/stockage/packages/f8/klamav/po/it.po | 
 {.sortable}
 
 

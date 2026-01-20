@@ -18,27 +18,27 @@ The package cacti (version 1.2.15):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [es]({{< ref "/f31/language/es.md" >}}) | 24758 | 28668 | 86.4 | /mnt/stockage/packages/f31/cacti/locales/po/es-ES.po | 
- | [zh_Hans]({{< ref "/f31/language/zh_Hans.md" >}}) | 22309 | 28668 | 77.8 | /mnt/stockage/packages/f31/cacti/locales/po/zh-CN.po | 
- | [nl]({{< ref "/f31/language/nl.md" >}}) | 13227 | 28668 | 46.1 | /mnt/stockage/packages/f31/cacti/locales/po/nl-NL.po | 
- | [fr]({{< ref "/f31/language/fr.md" >}}) | 7806 | 28668 | 27.2 | /mnt/stockage/packages/f31/cacti/locales/po/fr-FR.po | 
- | [de]({{< ref "/f31/language/de.md" >}}) | 4262 | 28668 | 14.9 | /mnt/stockage/packages/f31/cacti/locales/po/de-DE.po | 
- | [pl]({{< ref "/f31/language/pl.md" >}}) | 1960 | 28668 | 6.8 | /mnt/stockage/packages/f31/cacti/locales/po/pl-PL.po | 
- | [ru]({{< ref "/f31/language/ru.md" >}}) | 1885 | 28668 | 6.6 | /mnt/stockage/packages/f31/cacti/locales/po/ru-RU.po | 
- | [ja]({{< ref "/f31/language/ja.md" >}}) | 1613 | 28668 | 5.6 | /mnt/stockage/packages/f31/cacti/locales/po/ja-JP.po | 
- | [it]({{< ref "/f31/language/it.md" >}}) | 1573 | 28668 | 5.5 | /mnt/stockage/packages/f31/cacti/locales/po/it-IT.po | 
- | [sv]({{< ref "/f31/language/sv.md" >}}) | 1352 | 28668 | 4.7 | /mnt/stockage/packages/f31/cacti/locales/po/sv-SE.po | 
- | [pt_BR]({{< ref "/f31/language/pt_BR.md" >}}) | 1230 | 28668 | 4.3 | /mnt/stockage/packages/f31/cacti/locales/po/pt-BR.po | 
- | [tr]({{< ref "/f31/language/tr.md" >}}) | 1197 | 28668 | 4.2 | /mnt/stockage/packages/f31/cacti/locales/po/tr-TR.po | 
- | [el]({{< ref "/f31/language/el.md" >}}) | 1147 | 28668 | 4.0 | /mnt/stockage/packages/f31/cacti/locales/po/el-GR.po | 
- | [pt_PT]({{< ref "/f31/language/pt_PT.md" >}}) | 1139 | 28668 | 4.0 | /mnt/stockage/packages/f31/cacti/locales/po/pt-PT.po | 
- | [bg]({{< ref "/f31/language/bg.md" >}}) | 1085 | 28668 | 3.8 | /mnt/stockage/packages/f31/cacti/locales/po/bg-BG.po | 
- | [ar_SA]({{< ref "/f31/language/ar_SA.md" >}}) | 1074 | 28668 | 3.7 | /mnt/stockage/packages/f31/cacti/locales/po/ar-SA.po | 
- | [zh_Hant]({{< ref "/f31/language/zh_Hant.md" >}}) | 1049 | 28668 | 3.7 | /mnt/stockage/packages/f31/cacti/locales/po/zh-TW.po | 
- | [ko]({{< ref "/f31/language/ko.md" >}}) | 1019 | 28668 | 3.6 | /mnt/stockage/packages/f31/cacti/locales/po/ko-KR.po | 
- | [vi]({{< ref "/f31/language/vi.md" >}}) | 945 | 28668 | 3.3 | /mnt/stockage/packages/f31/cacti/locales/po/vi-VN.po | 
- | [he_IL]({{< ref "/f31/language/he_IL.md" >}}) | 915 | 28668 | 3.2 | /mnt/stockage/packages/f31/cacti/locales/po/he-IL.po | 
- | [hi]({{< ref "/f31/language/hi.md" >}}) | 827 | 28668 | 2.9 | /mnt/stockage/packages/f31/cacti/locales/po/hi-IN.po | 
+ | [es](/f31/language/es) | 24758 | 28668 | 86.4 | /mnt/stockage/packages/f31/cacti/locales/po/es-ES.po | 
+ | [zh_Hans](/f31/language/zh_Hans) | 22309 | 28668 | 77.8 | /mnt/stockage/packages/f31/cacti/locales/po/zh-CN.po | 
+ | [nl](/f31/language/nl) | 13227 | 28668 | 46.1 | /mnt/stockage/packages/f31/cacti/locales/po/nl-NL.po | 
+ | [fr](/f31/language/fr) | 7806 | 28668 | 27.2 | /mnt/stockage/packages/f31/cacti/locales/po/fr-FR.po | 
+ | [de](/f31/language/de) | 4262 | 28668 | 14.9 | /mnt/stockage/packages/f31/cacti/locales/po/de-DE.po | 
+ | [pl](/f31/language/pl) | 1960 | 28668 | 6.8 | /mnt/stockage/packages/f31/cacti/locales/po/pl-PL.po | 
+ | [ru](/f31/language/ru) | 1885 | 28668 | 6.6 | /mnt/stockage/packages/f31/cacti/locales/po/ru-RU.po | 
+ | [ja](/f31/language/ja) | 1613 | 28668 | 5.6 | /mnt/stockage/packages/f31/cacti/locales/po/ja-JP.po | 
+ | [it](/f31/language/it) | 1573 | 28668 | 5.5 | /mnt/stockage/packages/f31/cacti/locales/po/it-IT.po | 
+ | [sv](/f31/language/sv) | 1352 | 28668 | 4.7 | /mnt/stockage/packages/f31/cacti/locales/po/sv-SE.po | 
+ | [pt_BR](/f31/language/pt_BR) | 1230 | 28668 | 4.3 | /mnt/stockage/packages/f31/cacti/locales/po/pt-BR.po | 
+ | [tr](/f31/language/tr) | 1197 | 28668 | 4.2 | /mnt/stockage/packages/f31/cacti/locales/po/tr-TR.po | 
+ | [el](/f31/language/el) | 1147 | 28668 | 4.0 | /mnt/stockage/packages/f31/cacti/locales/po/el-GR.po | 
+ | [pt_PT](/f31/language/pt_PT) | 1139 | 28668 | 4.0 | /mnt/stockage/packages/f31/cacti/locales/po/pt-PT.po | 
+ | [bg](/f31/language/bg) | 1085 | 28668 | 3.8 | /mnt/stockage/packages/f31/cacti/locales/po/bg-BG.po | 
+ | [ar_SA](/f31/language/ar_SA) | 1074 | 28668 | 3.7 | /mnt/stockage/packages/f31/cacti/locales/po/ar-SA.po | 
+ | [zh_Hant](/f31/language/zh_Hant) | 1049 | 28668 | 3.7 | /mnt/stockage/packages/f31/cacti/locales/po/zh-TW.po | 
+ | [ko](/f31/language/ko) | 1019 | 28668 | 3.6 | /mnt/stockage/packages/f31/cacti/locales/po/ko-KR.po | 
+ | [vi](/f31/language/vi) | 945 | 28668 | 3.3 | /mnt/stockage/packages/f31/cacti/locales/po/vi-VN.po | 
+ | [he_IL](/f31/language/he_IL) | 915 | 28668 | 3.2 | /mnt/stockage/packages/f31/cacti/locales/po/he-IL.po | 
+ | [hi](/f31/language/hi) | 827 | 28668 | 2.9 | /mnt/stockage/packages/f31/cacti/locales/po/hi-IN.po | 
 {.sortable}
 
 

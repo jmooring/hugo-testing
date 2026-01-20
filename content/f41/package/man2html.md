@@ -18,23 +18,23 @@ The package man2html (version 1.6):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f41/language/ca.md" >}}) | 58 | 58 | 100.0 | /mnt/stockage/packages/f41/man2html/po/ca.po | 
- | [cs]({{< ref "/f41/language/cs.md" >}}) | 58 | 58 | 100.0 | /mnt/stockage/packages/f41/man2html/po/cs.po | 
- | [da]({{< ref "/f41/language/da.md" >}}) | 58 | 58 | 100.0 | /mnt/stockage/packages/f41/man2html/po/da.po | 
- | [de]({{< ref "/f41/language/de.md" >}}) | 58 | 58 | 100.0 | /mnt/stockage/packages/f41/man2html/po/de.po | 
- | [es]({{< ref "/f41/language/es.md" >}}) | 58 | 58 | 100.0 | /mnt/stockage/packages/f41/man2html/po/es.po | 
- | [fr]({{< ref "/f41/language/fr.md" >}}) | 58 | 58 | 100.0 | /mnt/stockage/packages/f41/man2html/po/fr.po | 
- | [gl]({{< ref "/f41/language/gl.md" >}}) | 58 | 58 | 100.0 | /mnt/stockage/packages/f41/man2html/po/gl.po | 
- | [it]({{< ref "/f41/language/it.md" >}}) | 58 | 58 | 100.0 | /mnt/stockage/packages/f41/man2html/po/it.po | 
- | [ja]({{< ref "/f41/language/ja.md" >}}) | 58 | 58 | 100.0 | /mnt/stockage/packages/f41/man2html/po/ja.po | 
- | [nl]({{< ref "/f41/language/nl.md" >}}) | 58 | 58 | 100.0 | /mnt/stockage/packages/f41/man2html/po/nl.po | 
- | [pl]({{< ref "/f41/language/pl.md" >}}) | 58 | 58 | 100.0 | /mnt/stockage/packages/f41/man2html/po/pl.po | 
- | [pt]({{< ref "/f41/language/pt.md" >}}) | 58 | 58 | 100.0 | /mnt/stockage/packages/f41/man2html/po/pt.po | 
- | [pt_BR]({{< ref "/f41/language/pt_BR.md" >}}) | 58 | 58 | 100.0 | /mnt/stockage/packages/f41/man2html/po/pt_BR.po | 
- | [ro]({{< ref "/f41/language/ro.md" >}}) | 58 | 58 | 100.0 | /mnt/stockage/packages/f41/man2html/po/ro.po | 
- | [ru]({{< ref "/f41/language/ru.md" >}}) | 58 | 58 | 100.0 | /mnt/stockage/packages/f41/man2html/po/ru.po | 
- | [sv]({{< ref "/f41/language/sv.md" >}}) | 58 | 58 | 100.0 | /mnt/stockage/packages/f41/man2html/po/sv.po | 
- | [vi]({{< ref "/f41/language/vi.md" >}}) | 58 | 58 | 100.0 | /mnt/stockage/packages/f41/man2html/po/vi.po | 
+ | [ca](/f41/language/ca) | 58 | 58 | 100.0 | /mnt/stockage/packages/f41/man2html/po/ca.po | 
+ | [cs](/f41/language/cs) | 58 | 58 | 100.0 | /mnt/stockage/packages/f41/man2html/po/cs.po | 
+ | [da](/f41/language/da) | 58 | 58 | 100.0 | /mnt/stockage/packages/f41/man2html/po/da.po | 
+ | [de](/f41/language/de) | 58 | 58 | 100.0 | /mnt/stockage/packages/f41/man2html/po/de.po | 
+ | [es](/f41/language/es) | 58 | 58 | 100.0 | /mnt/stockage/packages/f41/man2html/po/es.po | 
+ | [fr](/f41/language/fr) | 58 | 58 | 100.0 | /mnt/stockage/packages/f41/man2html/po/fr.po | 
+ | [gl](/f41/language/gl) | 58 | 58 | 100.0 | /mnt/stockage/packages/f41/man2html/po/gl.po | 
+ | [it](/f41/language/it) | 58 | 58 | 100.0 | /mnt/stockage/packages/f41/man2html/po/it.po | 
+ | [ja](/f41/language/ja) | 58 | 58 | 100.0 | /mnt/stockage/packages/f41/man2html/po/ja.po | 
+ | [nl](/f41/language/nl) | 58 | 58 | 100.0 | /mnt/stockage/packages/f41/man2html/po/nl.po | 
+ | [pl](/f41/language/pl) | 58 | 58 | 100.0 | /mnt/stockage/packages/f41/man2html/po/pl.po | 
+ | [pt](/f41/language/pt) | 58 | 58 | 100.0 | /mnt/stockage/packages/f41/man2html/po/pt.po | 
+ | [pt_BR](/f41/language/pt_BR) | 58 | 58 | 100.0 | /mnt/stockage/packages/f41/man2html/po/pt_BR.po | 
+ | [ro](/f41/language/ro) | 58 | 58 | 100.0 | /mnt/stockage/packages/f41/man2html/po/ro.po | 
+ | [ru](/f41/language/ru) | 58 | 58 | 100.0 | /mnt/stockage/packages/f41/man2html/po/ru.po | 
+ | [sv](/f41/language/sv) | 58 | 58 | 100.0 | /mnt/stockage/packages/f41/man2html/po/sv.po | 
+ | [vi](/f41/language/vi) | 58 | 58 | 100.0 | /mnt/stockage/packages/f41/man2html/po/vi.po | 
 {.sortable}
 
 

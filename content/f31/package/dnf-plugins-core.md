@@ -18,33 +18,33 @@ The package dnf-plugins-core (version 4.0.16):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f31/language/fr.md" >}}) | 1374 | 1374 | 100.0 | /mnt/stockage/packages/f31/dnf-plugins-core/po/fr.po | 
- | [nl]({{< ref "/f31/language/nl.md" >}}) | 1374 | 1374 | 100.0 | /mnt/stockage/packages/f31/dnf-plugins-core/po/nl.po | 
- | [pl]({{< ref "/f31/language/pl.md" >}}) | 1374 | 1374 | 100.0 | /mnt/stockage/packages/f31/dnf-plugins-core/po/pl.po | 
- | [sv]({{< ref "/f31/language/sv.md" >}}) | 1374 | 1374 | 100.0 | /mnt/stockage/packages/f31/dnf-plugins-core/po/sv.po | 
- | [tr]({{< ref "/f31/language/tr.md" >}}) | 1374 | 1374 | 100.0 | /mnt/stockage/packages/f31/dnf-plugins-core/po/tr.po | 
- | [uk]({{< ref "/f31/language/uk.md" >}}) | 1374 | 1374 | 100.0 | /mnt/stockage/packages/f31/dnf-plugins-core/po/uk.po | 
- | [da]({{< ref "/f31/language/da.md" >}}) | 1339 | 1374 | 97.5 | /mnt/stockage/packages/f31/dnf-plugins-core/po/da.po | 
- | [hu]({{< ref "/f31/language/hu.md" >}}) | 1339 | 1374 | 97.5 | /mnt/stockage/packages/f31/dnf-plugins-core/po/hu.po | 
- | [fur]({{< ref "/f31/language/fur.md" >}}) | 1219 | 1374 | 88.7 | /mnt/stockage/packages/f31/dnf-plugins-core/po/fur.po | 
- | [ru]({{< ref "/f31/language/ru.md" >}}) | 1218 | 1374 | 88.6 | /mnt/stockage/packages/f31/dnf-plugins-core/po/ru.po | 
- | [es]({{< ref "/f31/language/es.md" >}}) | 1107 | 1374 | 80.6 | /mnt/stockage/packages/f31/dnf-plugins-core/po/es.po | 
- | [pt_BR]({{< ref "/f31/language/pt_BR.md" >}}) | 975 | 1374 | 71.0 | /mnt/stockage/packages/f31/dnf-plugins-core/po/pt_BR.po | 
- | [zh_Hant]({{< ref "/f31/language/zh_Hant.md" >}}) | 927 | 1374 | 67.5 | /mnt/stockage/packages/f31/dnf-plugins-core/po/zh_TW.po | 
- | [zh_Hans]({{< ref "/f31/language/zh_Hans.md" >}}) | 759 | 1374 | 55.2 | /mnt/stockage/packages/f31/dnf-plugins-core/po/zh_CN.po | 
- | [ja]({{< ref "/f31/language/ja.md" >}}) | 757 | 1374 | 55.1 | /mnt/stockage/packages/f31/dnf-plugins-core/po/ja.po | 
- | [de]({{< ref "/f31/language/de.md" >}}) | 717 | 1374 | 52.2 | /mnt/stockage/packages/f31/dnf-plugins-core/po/de.po | 
- | [it]({{< ref "/f31/language/it.md" >}}) | 713 | 1374 | 51.9 | /mnt/stockage/packages/f31/dnf-plugins-core/po/it.po | 
- | [cs]({{< ref "/f31/language/cs.md" >}}) | 699 | 1374 | 50.9 | /mnt/stockage/packages/f31/dnf-plugins-core/po/cs.po | 
- | [ca]({{< ref "/f31/language/ca.md" >}}) | 660 | 1374 | 48.0 | /mnt/stockage/packages/f31/dnf-plugins-core/po/ca.po | 
- | [ko]({{< ref "/f31/language/ko.md" >}}) | 639 | 1374 | 46.5 | /mnt/stockage/packages/f31/dnf-plugins-core/po/ko.po | 
- | [fi]({{< ref "/f31/language/fi.md" >}}) | 229 | 1374 | 16.7 | /mnt/stockage/packages/f31/dnf-plugins-core/po/fi.po | 
- | [sr]({{< ref "/f31/language/sr.md" >}}) | 224 | 1374 | 16.3 | /mnt/stockage/packages/f31/dnf-plugins-core/po/sr.po | 
- | [id]({{< ref "/f31/language/id.md" >}}) | 206 | 1374 | 15.0 | /mnt/stockage/packages/f31/dnf-plugins-core/po/id.po | 
- | [pt]({{< ref "/f31/language/pt.md" >}}) | 163 | 1374 | 11.9 | /mnt/stockage/packages/f31/dnf-plugins-core/po/pt.po | 
- | [pa]({{< ref "/f31/language/pa.md" >}}) | 103 | 1374 | 7.5 | /mnt/stockage/packages/f31/dnf-plugins-core/po/pa.po | 
- | [sq]({{< ref "/f31/language/sq.md" >}}) | 10 | 1374 | 0.7 | /mnt/stockage/packages/f31/dnf-plugins-core/po/sq.po | 
- | [eu]({{< ref "/f31/language/eu.md" >}}) | 5 | 1374 | 0.4 | /mnt/stockage/packages/f31/dnf-plugins-core/po/eu.po | 
+ | [fr](/f31/language/fr) | 1374 | 1374 | 100.0 | /mnt/stockage/packages/f31/dnf-plugins-core/po/fr.po | 
+ | [nl](/f31/language/nl) | 1374 | 1374 | 100.0 | /mnt/stockage/packages/f31/dnf-plugins-core/po/nl.po | 
+ | [pl](/f31/language/pl) | 1374 | 1374 | 100.0 | /mnt/stockage/packages/f31/dnf-plugins-core/po/pl.po | 
+ | [sv](/f31/language/sv) | 1374 | 1374 | 100.0 | /mnt/stockage/packages/f31/dnf-plugins-core/po/sv.po | 
+ | [tr](/f31/language/tr) | 1374 | 1374 | 100.0 | /mnt/stockage/packages/f31/dnf-plugins-core/po/tr.po | 
+ | [uk](/f31/language/uk) | 1374 | 1374 | 100.0 | /mnt/stockage/packages/f31/dnf-plugins-core/po/uk.po | 
+ | [da](/f31/language/da) | 1339 | 1374 | 97.5 | /mnt/stockage/packages/f31/dnf-plugins-core/po/da.po | 
+ | [hu](/f31/language/hu) | 1339 | 1374 | 97.5 | /mnt/stockage/packages/f31/dnf-plugins-core/po/hu.po | 
+ | [fur](/f31/language/fur) | 1219 | 1374 | 88.7 | /mnt/stockage/packages/f31/dnf-plugins-core/po/fur.po | 
+ | [ru](/f31/language/ru) | 1218 | 1374 | 88.6 | /mnt/stockage/packages/f31/dnf-plugins-core/po/ru.po | 
+ | [es](/f31/language/es) | 1107 | 1374 | 80.6 | /mnt/stockage/packages/f31/dnf-plugins-core/po/es.po | 
+ | [pt_BR](/f31/language/pt_BR) | 975 | 1374 | 71.0 | /mnt/stockage/packages/f31/dnf-plugins-core/po/pt_BR.po | 
+ | [zh_Hant](/f31/language/zh_Hant) | 927 | 1374 | 67.5 | /mnt/stockage/packages/f31/dnf-plugins-core/po/zh_TW.po | 
+ | [zh_Hans](/f31/language/zh_Hans) | 759 | 1374 | 55.2 | /mnt/stockage/packages/f31/dnf-plugins-core/po/zh_CN.po | 
+ | [ja](/f31/language/ja) | 757 | 1374 | 55.1 | /mnt/stockage/packages/f31/dnf-plugins-core/po/ja.po | 
+ | [de](/f31/language/de) | 717 | 1374 | 52.2 | /mnt/stockage/packages/f31/dnf-plugins-core/po/de.po | 
+ | [it](/f31/language/it) | 713 | 1374 | 51.9 | /mnt/stockage/packages/f31/dnf-plugins-core/po/it.po | 
+ | [cs](/f31/language/cs) | 699 | 1374 | 50.9 | /mnt/stockage/packages/f31/dnf-plugins-core/po/cs.po | 
+ | [ca](/f31/language/ca) | 660 | 1374 | 48.0 | /mnt/stockage/packages/f31/dnf-plugins-core/po/ca.po | 
+ | [ko](/f31/language/ko) | 639 | 1374 | 46.5 | /mnt/stockage/packages/f31/dnf-plugins-core/po/ko.po | 
+ | [fi](/f31/language/fi) | 229 | 1374 | 16.7 | /mnt/stockage/packages/f31/dnf-plugins-core/po/fi.po | 
+ | [sr](/f31/language/sr) | 224 | 1374 | 16.3 | /mnt/stockage/packages/f31/dnf-plugins-core/po/sr.po | 
+ | [id](/f31/language/id) | 206 | 1374 | 15.0 | /mnt/stockage/packages/f31/dnf-plugins-core/po/id.po | 
+ | [pt](/f31/language/pt) | 163 | 1374 | 11.9 | /mnt/stockage/packages/f31/dnf-plugins-core/po/pt.po | 
+ | [pa](/f31/language/pa) | 103 | 1374 | 7.5 | /mnt/stockage/packages/f31/dnf-plugins-core/po/pa.po | 
+ | [sq](/f31/language/sq) | 10 | 1374 | 0.7 | /mnt/stockage/packages/f31/dnf-plugins-core/po/sq.po | 
+ | [eu](/f31/language/eu) | 5 | 1374 | 0.4 | /mnt/stockage/packages/f31/dnf-plugins-core/po/eu.po | 
 {.sortable}
 
 

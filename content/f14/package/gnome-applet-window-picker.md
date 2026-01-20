@@ -18,46 +18,46 @@ The package gnome-applet-window-picker (version 0.5.8):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f14/language/ar.md" >}}) | 22 | 29 | 75.9 | /mnt/stockage/packages/f14/gnome-applet-window-picker/po/ar.po | 
- | [ast]({{< ref "/f14/language/ast.md" >}}) | 22 | 29 | 75.9 | /mnt/stockage/packages/f14/gnome-applet-window-picker/po/ast.po | 
- | [bg]({{< ref "/f14/language/bg.md" >}}) | 22 | 29 | 75.9 | /mnt/stockage/packages/f14/gnome-applet-window-picker/po/bg.po | 
- | [bs]({{< ref "/f14/language/bs.md" >}}) | 22 | 29 | 75.9 | /mnt/stockage/packages/f14/gnome-applet-window-picker/po/bs.po | 
- | [ca]({{< ref "/f14/language/ca.md" >}}) | 22 | 29 | 75.9 | /mnt/stockage/packages/f14/gnome-applet-window-picker/po/ca.po | 
- | [cs]({{< ref "/f14/language/cs.md" >}}) | 22 | 29 | 75.9 | /mnt/stockage/packages/f14/gnome-applet-window-picker/po/cs.po | 
- | [da]({{< ref "/f14/language/da.md" >}}) | 22 | 29 | 75.9 | /mnt/stockage/packages/f14/gnome-applet-window-picker/po/da.po | 
- | [de]({{< ref "/f14/language/de.md" >}}) | 22 | 29 | 75.9 | /mnt/stockage/packages/f14/gnome-applet-window-picker/po/de.po | 
- | [el]({{< ref "/f14/language/el.md" >}}) | 22 | 29 | 75.9 | /mnt/stockage/packages/f14/gnome-applet-window-picker/po/el.po | 
- | [en_CA]({{< ref "/f14/language/en_CA.md" >}}) | 22 | 29 | 75.9 | /mnt/stockage/packages/f14/gnome-applet-window-picker/po/en_CA.po | 
- | [es]({{< ref "/f14/language/es.md" >}}) | 22 | 29 | 75.9 | /mnt/stockage/packages/f14/gnome-applet-window-picker/po/es.po | 
- | [eu]({{< ref "/f14/language/eu.md" >}}) | 22 | 29 | 75.9 | /mnt/stockage/packages/f14/gnome-applet-window-picker/po/eu.po | 
- | [fi]({{< ref "/f14/language/fi.md" >}}) | 22 | 29 | 75.9 | /mnt/stockage/packages/f14/gnome-applet-window-picker/po/fi.po | 
- | [fr]({{< ref "/f14/language/fr.md" >}}) | 22 | 29 | 75.9 | /mnt/stockage/packages/f14/gnome-applet-window-picker/po/fr.po | 
- | [gl]({{< ref "/f14/language/gl.md" >}}) | 22 | 29 | 75.9 | /mnt/stockage/packages/f14/gnome-applet-window-picker/po/gl.po | 
- | [he]({{< ref "/f14/language/he.md" >}}) | 22 | 29 | 75.9 | /mnt/stockage/packages/f14/gnome-applet-window-picker/po/he.po | 
- | [hr]({{< ref "/f14/language/hr.md" >}}) | 22 | 29 | 75.9 | /mnt/stockage/packages/f14/gnome-applet-window-picker/po/hr.po | 
- | [hu]({{< ref "/f14/language/hu.md" >}}) | 22 | 29 | 75.9 | /mnt/stockage/packages/f14/gnome-applet-window-picker/po/hu.po | 
- | [id]({{< ref "/f14/language/id.md" >}}) | 22 | 29 | 75.9 | /mnt/stockage/packages/f14/gnome-applet-window-picker/po/id.po | 
- | [it]({{< ref "/f14/language/it.md" >}}) | 22 | 29 | 75.9 | /mnt/stockage/packages/f14/gnome-applet-window-picker/po/it.po | 
- | [ja]({{< ref "/f14/language/ja.md" >}}) | 22 | 29 | 75.9 | /mnt/stockage/packages/f14/gnome-applet-window-picker/po/ja.po | 
- | [ko]({{< ref "/f14/language/ko.md" >}}) | 22 | 29 | 75.9 | /mnt/stockage/packages/f14/gnome-applet-window-picker/po/ko.po | 
- | [lv]({{< ref "/f14/language/lv.md" >}}) | 22 | 29 | 75.9 | /mnt/stockage/packages/f14/gnome-applet-window-picker/po/lv.po | 
- | [nb_NO]({{< ref "/f14/language/nb_NO.md" >}}) | 22 | 29 | 75.9 | /mnt/stockage/packages/f14/gnome-applet-window-picker/po/nb.po | 
- | [nl]({{< ref "/f14/language/nl.md" >}}) | 22 | 29 | 75.9 | /mnt/stockage/packages/f14/gnome-applet-window-picker/po/nl.po | 
- | [pl]({{< ref "/f14/language/pl.md" >}}) | 22 | 29 | 75.9 | /mnt/stockage/packages/f14/gnome-applet-window-picker/po/pl.po | 
- | [pt]({{< ref "/f14/language/pt.md" >}}) | 22 | 29 | 75.9 | /mnt/stockage/packages/f14/gnome-applet-window-picker/po/pt.po | 
- | [pt_BR]({{< ref "/f14/language/pt_BR.md" >}}) | 22 | 29 | 75.9 | /mnt/stockage/packages/f14/gnome-applet-window-picker/po/pt_BR.po | 
- | [ro]({{< ref "/f14/language/ro.md" >}}) | 22 | 29 | 75.9 | /mnt/stockage/packages/f14/gnome-applet-window-picker/po/ro.po | 
- | [ru]({{< ref "/f14/language/ru.md" >}}) | 22 | 29 | 75.9 | /mnt/stockage/packages/f14/gnome-applet-window-picker/po/ru.po | 
- | [sk]({{< ref "/f14/language/sk.md" >}}) | 22 | 29 | 75.9 | /mnt/stockage/packages/f14/gnome-applet-window-picker/po/sk.po | 
- | [sv]({{< ref "/f14/language/sv.md" >}}) | 22 | 29 | 75.9 | /mnt/stockage/packages/f14/gnome-applet-window-picker/po/sv.po | 
- | [tr]({{< ref "/f14/language/tr.md" >}}) | 22 | 29 | 75.9 | /mnt/stockage/packages/f14/gnome-applet-window-picker/po/tr.po | 
- | [uk]({{< ref "/f14/language/uk.md" >}}) | 22 | 29 | 75.9 | /mnt/stockage/packages/f14/gnome-applet-window-picker/po/uk.po | 
- | [zh_Hans]({{< ref "/f14/language/zh_Hans.md" >}}) | 22 | 29 | 75.9 | /mnt/stockage/packages/f14/gnome-applet-window-picker/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f14/language/zh_Hant.md" >}}) | 22 | 29 | 75.9 | /mnt/stockage/packages/f14/gnome-applet-window-picker/po/zh_TW.po | 
- | [th]({{< ref "/f14/language/th.md" >}}) | 20 | 29 | 69.0 | /mnt/stockage/packages/f14/gnome-applet-window-picker/po/th.po | 
- | [sl]({{< ref "/f14/language/sl.md" >}}) | 16 | 29 | 55.2 | /mnt/stockage/packages/f14/gnome-applet-window-picker/po/sl.po | 
- | [en_GB]({{< ref "/f14/language/en_GB.md" >}}) | 0 | 29 | 0.0 | /mnt/stockage/packages/f14/gnome-applet-window-picker/po/en_GB.po | 
- | [sr]({{< ref "/f14/language/sr.md" >}}) | 0 | 29 | 0.0 | /mnt/stockage/packages/f14/gnome-applet-window-picker/po/sr.po | 
+ | [ar](/f14/language/ar) | 22 | 29 | 75.9 | /mnt/stockage/packages/f14/gnome-applet-window-picker/po/ar.po | 
+ | [ast](/f14/language/ast) | 22 | 29 | 75.9 | /mnt/stockage/packages/f14/gnome-applet-window-picker/po/ast.po | 
+ | [bg](/f14/language/bg) | 22 | 29 | 75.9 | /mnt/stockage/packages/f14/gnome-applet-window-picker/po/bg.po | 
+ | [bs](/f14/language/bs) | 22 | 29 | 75.9 | /mnt/stockage/packages/f14/gnome-applet-window-picker/po/bs.po | 
+ | [ca](/f14/language/ca) | 22 | 29 | 75.9 | /mnt/stockage/packages/f14/gnome-applet-window-picker/po/ca.po | 
+ | [cs](/f14/language/cs) | 22 | 29 | 75.9 | /mnt/stockage/packages/f14/gnome-applet-window-picker/po/cs.po | 
+ | [da](/f14/language/da) | 22 | 29 | 75.9 | /mnt/stockage/packages/f14/gnome-applet-window-picker/po/da.po | 
+ | [de](/f14/language/de) | 22 | 29 | 75.9 | /mnt/stockage/packages/f14/gnome-applet-window-picker/po/de.po | 
+ | [el](/f14/language/el) | 22 | 29 | 75.9 | /mnt/stockage/packages/f14/gnome-applet-window-picker/po/el.po | 
+ | [en_CA](/f14/language/en_CA) | 22 | 29 | 75.9 | /mnt/stockage/packages/f14/gnome-applet-window-picker/po/en_CA.po | 
+ | [es](/f14/language/es) | 22 | 29 | 75.9 | /mnt/stockage/packages/f14/gnome-applet-window-picker/po/es.po | 
+ | [eu](/f14/language/eu) | 22 | 29 | 75.9 | /mnt/stockage/packages/f14/gnome-applet-window-picker/po/eu.po | 
+ | [fi](/f14/language/fi) | 22 | 29 | 75.9 | /mnt/stockage/packages/f14/gnome-applet-window-picker/po/fi.po | 
+ | [fr](/f14/language/fr) | 22 | 29 | 75.9 | /mnt/stockage/packages/f14/gnome-applet-window-picker/po/fr.po | 
+ | [gl](/f14/language/gl) | 22 | 29 | 75.9 | /mnt/stockage/packages/f14/gnome-applet-window-picker/po/gl.po | 
+ | [he](/f14/language/he) | 22 | 29 | 75.9 | /mnt/stockage/packages/f14/gnome-applet-window-picker/po/he.po | 
+ | [hr](/f14/language/hr) | 22 | 29 | 75.9 | /mnt/stockage/packages/f14/gnome-applet-window-picker/po/hr.po | 
+ | [hu](/f14/language/hu) | 22 | 29 | 75.9 | /mnt/stockage/packages/f14/gnome-applet-window-picker/po/hu.po | 
+ | [id](/f14/language/id) | 22 | 29 | 75.9 | /mnt/stockage/packages/f14/gnome-applet-window-picker/po/id.po | 
+ | [it](/f14/language/it) | 22 | 29 | 75.9 | /mnt/stockage/packages/f14/gnome-applet-window-picker/po/it.po | 
+ | [ja](/f14/language/ja) | 22 | 29 | 75.9 | /mnt/stockage/packages/f14/gnome-applet-window-picker/po/ja.po | 
+ | [ko](/f14/language/ko) | 22 | 29 | 75.9 | /mnt/stockage/packages/f14/gnome-applet-window-picker/po/ko.po | 
+ | [lv](/f14/language/lv) | 22 | 29 | 75.9 | /mnt/stockage/packages/f14/gnome-applet-window-picker/po/lv.po | 
+ | [nb_NO](/f14/language/nb_NO) | 22 | 29 | 75.9 | /mnt/stockage/packages/f14/gnome-applet-window-picker/po/nb.po | 
+ | [nl](/f14/language/nl) | 22 | 29 | 75.9 | /mnt/stockage/packages/f14/gnome-applet-window-picker/po/nl.po | 
+ | [pl](/f14/language/pl) | 22 | 29 | 75.9 | /mnt/stockage/packages/f14/gnome-applet-window-picker/po/pl.po | 
+ | [pt](/f14/language/pt) | 22 | 29 | 75.9 | /mnt/stockage/packages/f14/gnome-applet-window-picker/po/pt.po | 
+ | [pt_BR](/f14/language/pt_BR) | 22 | 29 | 75.9 | /mnt/stockage/packages/f14/gnome-applet-window-picker/po/pt_BR.po | 
+ | [ro](/f14/language/ro) | 22 | 29 | 75.9 | /mnt/stockage/packages/f14/gnome-applet-window-picker/po/ro.po | 
+ | [ru](/f14/language/ru) | 22 | 29 | 75.9 | /mnt/stockage/packages/f14/gnome-applet-window-picker/po/ru.po | 
+ | [sk](/f14/language/sk) | 22 | 29 | 75.9 | /mnt/stockage/packages/f14/gnome-applet-window-picker/po/sk.po | 
+ | [sv](/f14/language/sv) | 22 | 29 | 75.9 | /mnt/stockage/packages/f14/gnome-applet-window-picker/po/sv.po | 
+ | [tr](/f14/language/tr) | 22 | 29 | 75.9 | /mnt/stockage/packages/f14/gnome-applet-window-picker/po/tr.po | 
+ | [uk](/f14/language/uk) | 22 | 29 | 75.9 | /mnt/stockage/packages/f14/gnome-applet-window-picker/po/uk.po | 
+ | [zh_Hans](/f14/language/zh_Hans) | 22 | 29 | 75.9 | /mnt/stockage/packages/f14/gnome-applet-window-picker/po/zh_CN.po | 
+ | [zh_Hant](/f14/language/zh_Hant) | 22 | 29 | 75.9 | /mnt/stockage/packages/f14/gnome-applet-window-picker/po/zh_TW.po | 
+ | [th](/f14/language/th) | 20 | 29 | 69.0 | /mnt/stockage/packages/f14/gnome-applet-window-picker/po/th.po | 
+ | [sl](/f14/language/sl) | 16 | 29 | 55.2 | /mnt/stockage/packages/f14/gnome-applet-window-picker/po/sl.po | 
+ | [en_GB](/f14/language/en_GB) | 0 | 29 | 0.0 | /mnt/stockage/packages/f14/gnome-applet-window-picker/po/en_GB.po | 
+ | [sr](/f14/language/sr) | 0 | 29 | 0.0 | /mnt/stockage/packages/f14/gnome-applet-window-picker/po/sr.po | 
 {.sortable}
 
 

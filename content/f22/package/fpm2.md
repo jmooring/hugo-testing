@@ -18,14 +18,14 @@ The package fpm2 (version 0.79):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [es]({{< ref "/f22/language/es.md" >}}) | 748 | 748 | 100.0 | /mnt/stockage/packages/f22/fpm2/po/es.po | 
- | [it]({{< ref "/f22/language/it.md" >}}) | 748 | 748 | 100.0 | /mnt/stockage/packages/f22/fpm2/po/it.po | 
- | [de]({{< ref "/f22/language/de.md" >}}) | 744 | 748 | 99.5 | /mnt/stockage/packages/f22/fpm2/po/de.po | 
- | [fr]({{< ref "/f22/language/fr.md" >}}) | 738 | 748 | 98.7 | /mnt/stockage/packages/f22/fpm2/po/fr.po | 
- | [cs]({{< ref "/f22/language/cs.md" >}}) | 1441 | 1496 | 96.3 | /mnt/stockage/packages/f22/fpm2/po/ru.po/mnt/stockage/packages/f22/fpm2/po/cs.po | 
- | [eu]({{< ref "/f22/language/eu.md" >}}) | 694 | 748 | 92.8 | /mnt/stockage/packages/f22/fpm2/po/eu.po | 
- | [hu]({{< ref "/f22/language/hu.md" >}}) | 694 | 748 | 92.8 | /mnt/stockage/packages/f22/fpm2/po/hu.po | 
- | [bg]({{< ref "/f22/language/bg.md" >}}) | 510 | 748 | 68.2 | /mnt/stockage/packages/f22/fpm2/po/bg.po | 
+ | [es](/f22/language/es) | 748 | 748 | 100.0 | /mnt/stockage/packages/f22/fpm2/po/es.po | 
+ | [it](/f22/language/it) | 748 | 748 | 100.0 | /mnt/stockage/packages/f22/fpm2/po/it.po | 
+ | [de](/f22/language/de) | 744 | 748 | 99.5 | /mnt/stockage/packages/f22/fpm2/po/de.po | 
+ | [fr](/f22/language/fr) | 738 | 748 | 98.7 | /mnt/stockage/packages/f22/fpm2/po/fr.po | 
+ | [cs](/f22/language/cs) | 1441 | 1496 | 96.3 | /mnt/stockage/packages/f22/fpm2/po/ru.po/mnt/stockage/packages/f22/fpm2/po/cs.po | 
+ | [eu](/f22/language/eu) | 694 | 748 | 92.8 | /mnt/stockage/packages/f22/fpm2/po/eu.po | 
+ | [hu](/f22/language/hu) | 694 | 748 | 92.8 | /mnt/stockage/packages/f22/fpm2/po/hu.po | 
+ | [bg](/f22/language/bg) | 510 | 748 | 68.2 | /mnt/stockage/packages/f22/fpm2/po/bg.po | 
 {.sortable}
 
 

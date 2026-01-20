@@ -18,7 +18,7 @@ The package dnf-plugins-extras (version 0.0.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ru]({{< ref "/f21/language/ru.md" >}}) | 84 | 128 | 65.6 | /mnt/stockage/packages/f21/dnf-plugins-extras/po/ru.po | 
+ | [ru](/f21/language/ru) | 84 | 128 | 65.6 | /mnt/stockage/packages/f21/dnf-plugins-extras/po/ru.po | 
 {.sortable}
 
 

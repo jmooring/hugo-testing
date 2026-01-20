@@ -18,74 +18,74 @@ The package kjots (version 5.0.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f27/language/ca.md" >}}) | 399 | 399 | 100.0 | /mnt/stockage/packages/f27/kjots/po/ca/kjots.po | 
- | [ca@valencia]({{< ref "/f27/language/ca@valencia.md" >}}) | 399 | 399 | 100.0 | /mnt/stockage/packages/f27/kjots/po/ca@valencia/kjots.po | 
- | [de]({{< ref "/f27/language/de.md" >}}) | 399 | 399 | 100.0 | /mnt/stockage/packages/f27/kjots/po/de/kjots.po | 
- | [en_GB]({{< ref "/f27/language/en_GB.md" >}}) | 399 | 399 | 100.0 | /mnt/stockage/packages/f27/kjots/po/en_GB/kjots.po | 
- | [en_US]({{< ref "/f27/language/en_US.md" >}}) | 399 | 399 | 100.0 | /mnt/stockage/packages/f27/kjots/po/cs/kjots.po | 
- | [es]({{< ref "/f27/language/es.md" >}}) | 399 | 399 | 100.0 | /mnt/stockage/packages/f27/kjots/po/es/kjots.po | 
- | [it]({{< ref "/f27/language/it.md" >}}) | 399 | 399 | 100.0 | /mnt/stockage/packages/f27/kjots/po/it/kjots.po | 
- | [nl]({{< ref "/f27/language/nl.md" >}}) | 399 | 399 | 100.0 | /mnt/stockage/packages/f27/kjots/po/nl/kjots.po | 
- | [pl]({{< ref "/f27/language/pl.md" >}}) | 399 | 399 | 100.0 | /mnt/stockage/packages/f27/kjots/po/pl/kjots.po | 
- | [pt]({{< ref "/f27/language/pt.md" >}}) | 399 | 399 | 100.0 | /mnt/stockage/packages/f27/kjots/po/pt/kjots.po | 
- | [sk]({{< ref "/f27/language/sk.md" >}}) | 399 | 399 | 100.0 | /mnt/stockage/packages/f27/kjots/po/sk/kjots.po | 
- | [sv]({{< ref "/f27/language/sv.md" >}}) | 399 | 399 | 100.0 | /mnt/stockage/packages/f27/kjots/po/sv/kjots.po | 
- | [uk]({{< ref "/f27/language/uk.md" >}}) | 399 | 399 | 100.0 | /mnt/stockage/packages/f27/kjots/po/uk/kjots.po | 
- | [da]({{< ref "/f27/language/da.md" >}}) | 394 | 399 | 98.7 | /mnt/stockage/packages/f27/kjots/po/da/kjots.po | 
- | [el]({{< ref "/f27/language/el.md" >}}) | 394 | 399 | 98.7 | /mnt/stockage/packages/f27/kjots/po/el/kjots.po | 
- | [fi]({{< ref "/f27/language/fi.md" >}}) | 394 | 399 | 98.7 | /mnt/stockage/packages/f27/kjots/po/fi/kjots.po | 
- | [gl]({{< ref "/f27/language/gl.md" >}}) | 394 | 399 | 98.7 | /mnt/stockage/packages/f27/kjots/po/gl/kjots.po | 
- | [pt_BR]({{< ref "/f27/language/pt_BR.md" >}}) | 394 | 399 | 98.7 | /mnt/stockage/packages/f27/kjots/po/pt_BR/kjots.po | 
- | [ru]({{< ref "/f27/language/ru.md" >}}) | 394 | 399 | 98.7 | /mnt/stockage/packages/f27/kjots/po/ru/kjots.po | 
- | [bs]({{< ref "/f27/language/bs.md" >}}) | 387 | 399 | 97.0 | /mnt/stockage/packages/f27/kjots/po/bs/kjots.po | 
- | [et]({{< ref "/f27/language/et.md" >}}) | 387 | 399 | 97.0 | /mnt/stockage/packages/f27/kjots/po/et/kjots.po | 
- | [fr]({{< ref "/f27/language/fr.md" >}}) | 387 | 399 | 97.0 | /mnt/stockage/packages/f27/kjots/po/fr/kjots.po | 
- | [hu]({{< ref "/f27/language/hu.md" >}}) | 387 | 399 | 97.0 | /mnt/stockage/packages/f27/kjots/po/hu/kjots.po | 
- | [ia]({{< ref "/f27/language/ia.md" >}}) | 387 | 399 | 97.0 | /mnt/stockage/packages/f27/kjots/po/ia/kjots.po | 
- | [ko]({{< ref "/f27/language/ko.md" >}}) | 387 | 399 | 97.0 | /mnt/stockage/packages/f27/kjots/po/ko/kjots.po | 
- | [nds]({{< ref "/f27/language/nds.md" >}}) | 387 | 399 | 97.0 | /mnt/stockage/packages/f27/kjots/po/nds/kjots.po | 
- | [zh_Hans]({{< ref "/f27/language/zh_Hans.md" >}}) | 387 | 399 | 97.0 | /mnt/stockage/packages/f27/kjots/po/zh_CN/kjots.po | 
- | [zh_Hant]({{< ref "/f27/language/zh_Hant.md" >}}) | 387 | 399 | 97.0 | /mnt/stockage/packages/f27/kjots/po/zh_TW/kjots.po | 
- | [kk]({{< ref "/f27/language/kk.md" >}}) | 385 | 399 | 96.5 | /mnt/stockage/packages/f27/kjots/po/kk/kjots.po | 
- | [km]({{< ref "/f27/language/km.md" >}}) | 385 | 399 | 96.5 | /mnt/stockage/packages/f27/kjots/po/km/kjots.po | 
- | [nb_NO]({{< ref "/f27/language/nb_NO.md" >}}) | 384 | 399 | 96.2 | /mnt/stockage/packages/f27/kjots/po/nb/kjots.po | 
- | [bg]({{< ref "/f27/language/bg.md" >}}) | 370 | 399 | 92.7 | /mnt/stockage/packages/f27/kjots/po/bg/kjots.po | 
- | [ro]({{< ref "/f27/language/ro.md" >}}) | 362 | 399 | 90.7 | /mnt/stockage/packages/f27/kjots/po/ro/kjots.po | 
- | [tr]({{< ref "/f27/language/tr.md" >}}) | 362 | 399 | 90.7 | /mnt/stockage/packages/f27/kjots/po/tr/kjots.po | 
- | [sl]({{< ref "/f27/language/sl.md" >}}) | 360 | 399 | 90.2 | /mnt/stockage/packages/f27/kjots/po/sl/kjots.po | 
- | [lt]({{< ref "/f27/language/lt.md" >}}) | 335 | 399 | 84.0 | /mnt/stockage/packages/f27/kjots/po/lt/kjots.po | 
- | [nn]({{< ref "/f27/language/nn.md" >}}) | 331 | 399 | 83.0 | /mnt/stockage/packages/f27/kjots/po/nn/kjots.po | 
- | [ja]({{< ref "/f27/language/ja.md" >}}) | 328 | 399 | 82.2 | /mnt/stockage/packages/f27/kjots/po/ja/kjots.po | 
- | [lv]({{< ref "/f27/language/lv.md" >}}) | 272 | 399 | 68.2 | /mnt/stockage/packages/f27/kjots/po/lv/kjots.po | 
- | [ga]({{< ref "/f27/language/ga.md" >}}) | 226 | 399 | 56.6 | /mnt/stockage/packages/f27/kjots/po/ga/kjots.po | 
- | [eu]({{< ref "/f27/language/eu.md" >}}) | 213 | 399 | 53.4 | /mnt/stockage/packages/f27/kjots/po/eu/kjots.po | 
- | [ar]({{< ref "/f27/language/ar.md" >}}) | 209 | 399 | 52.4 | /mnt/stockage/packages/f27/kjots/po/ar/kjots.po | 
- | [ne]({{< ref "/f27/language/ne.md" >}}) | 209 | 399 | 52.4 | /mnt/stockage/packages/f27/kjots/po/ne/kjots.po | 
- | [hi]({{< ref "/f27/language/hi.md" >}}) | 406 | 798 | 50.9 | /mnt/stockage/packages/f27/kjots/po/hi/kjots.po/mnt/stockage/packages/f27/kjots/po/hne/kjots.po | 
- | [fa]({{< ref "/f27/language/fa.md" >}}) | 139 | 399 | 34.8 | /mnt/stockage/packages/f27/kjots/po/fa/kjots.po | 
- | [is]({{< ref "/f27/language/is.md" >}}) | 132 | 399 | 33.1 | /mnt/stockage/packages/f27/kjots/po/is/kjots.po | 
- | [mk]({{< ref "/f27/language/mk.md" >}}) | 132 | 399 | 33.1 | /mnt/stockage/packages/f27/kjots/po/mk/kjots.po | 
- | [uz]({{< ref "/f27/language/uz.md" >}}) | 252 | 798 | 31.6 | /mnt/stockage/packages/f27/kjots/po/uz/kjots.po/mnt/stockage/packages/f27/kjots/po/uz@cyrillic/kjots.po | 
- | [ms]({{< ref "/f27/language/ms.md" >}}) | 101 | 399 | 25.3 | /mnt/stockage/packages/f27/kjots/po/ms/kjots.po | 
- | [ta]({{< ref "/f27/language/ta.md" >}}) | 101 | 399 | 25.3 | /mnt/stockage/packages/f27/kjots/po/ta/kjots.po | 
- | [tg]({{< ref "/f27/language/tg.md" >}}) | 83 | 399 | 20.8 | /mnt/stockage/packages/f27/kjots/po/tg/kjots.po | 
- | [ug]({{< ref "/f27/language/ug.md" >}}) | 78 | 399 | 19.5 | /mnt/stockage/packages/f27/kjots/po/ug/kjots.po | 
- | [wa]({{< ref "/f27/language/wa.md" >}}) | 65 | 399 | 16.3 | /mnt/stockage/packages/f27/kjots/po/wa/kjots.po | 
- | [br]({{< ref "/f27/language/br.md" >}}) | 63 | 399 | 15.8 | /mnt/stockage/packages/f27/kjots/po/br/kjots.po | 
- | [eo]({{< ref "/f27/language/eo.md" >}}) | 52 | 399 | 13.0 | /mnt/stockage/packages/f27/kjots/po/eo/kjots.po | 
- | [pa]({{< ref "/f27/language/pa.md" >}}) | 50 | 399 | 12.5 | /mnt/stockage/packages/f27/kjots/po/pa/kjots.po | 
- | [mai]({{< ref "/f27/language/mai.md" >}}) | 43 | 399 | 10.8 | /mnt/stockage/packages/f27/kjots/po/mai/kjots.po | 
- | [mr]({{< ref "/f27/language/mr.md" >}}) | 36 | 399 | 9.0 | /mnt/stockage/packages/f27/kjots/po/mr/kjots.po | 
- | [oc]({{< ref "/f27/language/oc.md" >}}) | 30 | 399 | 7.5 | /mnt/stockage/packages/f27/kjots/po/oc/kjots.po | 
- | [ast]({{< ref "/f27/language/ast.md" >}}) | 25 | 399 | 6.3 | /mnt/stockage/packages/f27/kjots/po/ast/kjots.po | 
- | [hr]({{< ref "/f27/language/hr.md" >}}) | 25 | 399 | 6.3 | /mnt/stockage/packages/f27/kjots/po/hr/kjots.po | 
- | [cy]({{< ref "/f27/language/cy.md" >}}) | 23 | 399 | 5.8 | /mnt/stockage/packages/f27/kjots/po/cy/kjots.po | 
- | [th]({{< ref "/f27/language/th.md" >}}) | 21 | 399 | 5.3 | /mnt/stockage/packages/f27/kjots/po/th/kjots.po | 
- | [af]({{< ref "/f27/language/af.md" >}}) | 19 | 399 | 4.8 | /mnt/stockage/packages/f27/kjots/po/af/kjots.po | 
- | [be]({{< ref "/f27/language/be.md" >}}) | 19 | 399 | 4.8 | /mnt/stockage/packages/f27/kjots/po/be/kjots.po | 
- | [xh]({{< ref "/f27/language/xh.md" >}}) | 19 | 399 | 4.8 | /mnt/stockage/packages/f27/kjots/po/xh/kjots.po | 
- | [he]({{< ref "/f27/language/he.md" >}}) | 15 | 399 | 3.8 | /mnt/stockage/packages/f27/kjots/po/he/kjots.po | 
- | [se]({{< ref "/f27/language/se.md" >}}) | 4 | 399 | 1.0 | /mnt/stockage/packages/f27/kjots/po/se/kjots.po | 
+ | [ca](/f27/language/ca) | 399 | 399 | 100.0 | /mnt/stockage/packages/f27/kjots/po/ca/kjots.po | 
+ | [ca@valencia](/f27/language/ca@valencia) | 399 | 399 | 100.0 | /mnt/stockage/packages/f27/kjots/po/ca@valencia/kjots.po | 
+ | [de](/f27/language/de) | 399 | 399 | 100.0 | /mnt/stockage/packages/f27/kjots/po/de/kjots.po | 
+ | [en_GB](/f27/language/en_GB) | 399 | 399 | 100.0 | /mnt/stockage/packages/f27/kjots/po/en_GB/kjots.po | 
+ | [en_US](/f27/language/en_US) | 399 | 399 | 100.0 | /mnt/stockage/packages/f27/kjots/po/cs/kjots.po | 
+ | [es](/f27/language/es) | 399 | 399 | 100.0 | /mnt/stockage/packages/f27/kjots/po/es/kjots.po | 
+ | [it](/f27/language/it) | 399 | 399 | 100.0 | /mnt/stockage/packages/f27/kjots/po/it/kjots.po | 
+ | [nl](/f27/language/nl) | 399 | 399 | 100.0 | /mnt/stockage/packages/f27/kjots/po/nl/kjots.po | 
+ | [pl](/f27/language/pl) | 399 | 399 | 100.0 | /mnt/stockage/packages/f27/kjots/po/pl/kjots.po | 
+ | [pt](/f27/language/pt) | 399 | 399 | 100.0 | /mnt/stockage/packages/f27/kjots/po/pt/kjots.po | 
+ | [sk](/f27/language/sk) | 399 | 399 | 100.0 | /mnt/stockage/packages/f27/kjots/po/sk/kjots.po | 
+ | [sv](/f27/language/sv) | 399 | 399 | 100.0 | /mnt/stockage/packages/f27/kjots/po/sv/kjots.po | 
+ | [uk](/f27/language/uk) | 399 | 399 | 100.0 | /mnt/stockage/packages/f27/kjots/po/uk/kjots.po | 
+ | [da](/f27/language/da) | 394 | 399 | 98.7 | /mnt/stockage/packages/f27/kjots/po/da/kjots.po | 
+ | [el](/f27/language/el) | 394 | 399 | 98.7 | /mnt/stockage/packages/f27/kjots/po/el/kjots.po | 
+ | [fi](/f27/language/fi) | 394 | 399 | 98.7 | /mnt/stockage/packages/f27/kjots/po/fi/kjots.po | 
+ | [gl](/f27/language/gl) | 394 | 399 | 98.7 | /mnt/stockage/packages/f27/kjots/po/gl/kjots.po | 
+ | [pt_BR](/f27/language/pt_BR) | 394 | 399 | 98.7 | /mnt/stockage/packages/f27/kjots/po/pt_BR/kjots.po | 
+ | [ru](/f27/language/ru) | 394 | 399 | 98.7 | /mnt/stockage/packages/f27/kjots/po/ru/kjots.po | 
+ | [bs](/f27/language/bs) | 387 | 399 | 97.0 | /mnt/stockage/packages/f27/kjots/po/bs/kjots.po | 
+ | [et](/f27/language/et) | 387 | 399 | 97.0 | /mnt/stockage/packages/f27/kjots/po/et/kjots.po | 
+ | [fr](/f27/language/fr) | 387 | 399 | 97.0 | /mnt/stockage/packages/f27/kjots/po/fr/kjots.po | 
+ | [hu](/f27/language/hu) | 387 | 399 | 97.0 | /mnt/stockage/packages/f27/kjots/po/hu/kjots.po | 
+ | [ia](/f27/language/ia) | 387 | 399 | 97.0 | /mnt/stockage/packages/f27/kjots/po/ia/kjots.po | 
+ | [ko](/f27/language/ko) | 387 | 399 | 97.0 | /mnt/stockage/packages/f27/kjots/po/ko/kjots.po | 
+ | [nds](/f27/language/nds) | 387 | 399 | 97.0 | /mnt/stockage/packages/f27/kjots/po/nds/kjots.po | 
+ | [zh_Hans](/f27/language/zh_Hans) | 387 | 399 | 97.0 | /mnt/stockage/packages/f27/kjots/po/zh_CN/kjots.po | 
+ | [zh_Hant](/f27/language/zh_Hant) | 387 | 399 | 97.0 | /mnt/stockage/packages/f27/kjots/po/zh_TW/kjots.po | 
+ | [kk](/f27/language/kk) | 385 | 399 | 96.5 | /mnt/stockage/packages/f27/kjots/po/kk/kjots.po | 
+ | [km](/f27/language/km) | 385 | 399 | 96.5 | /mnt/stockage/packages/f27/kjots/po/km/kjots.po | 
+ | [nb_NO](/f27/language/nb_NO) | 384 | 399 | 96.2 | /mnt/stockage/packages/f27/kjots/po/nb/kjots.po | 
+ | [bg](/f27/language/bg) | 370 | 399 | 92.7 | /mnt/stockage/packages/f27/kjots/po/bg/kjots.po | 
+ | [ro](/f27/language/ro) | 362 | 399 | 90.7 | /mnt/stockage/packages/f27/kjots/po/ro/kjots.po | 
+ | [tr](/f27/language/tr) | 362 | 399 | 90.7 | /mnt/stockage/packages/f27/kjots/po/tr/kjots.po | 
+ | [sl](/f27/language/sl) | 360 | 399 | 90.2 | /mnt/stockage/packages/f27/kjots/po/sl/kjots.po | 
+ | [lt](/f27/language/lt) | 335 | 399 | 84.0 | /mnt/stockage/packages/f27/kjots/po/lt/kjots.po | 
+ | [nn](/f27/language/nn) | 331 | 399 | 83.0 | /mnt/stockage/packages/f27/kjots/po/nn/kjots.po | 
+ | [ja](/f27/language/ja) | 328 | 399 | 82.2 | /mnt/stockage/packages/f27/kjots/po/ja/kjots.po | 
+ | [lv](/f27/language/lv) | 272 | 399 | 68.2 | /mnt/stockage/packages/f27/kjots/po/lv/kjots.po | 
+ | [ga](/f27/language/ga) | 226 | 399 | 56.6 | /mnt/stockage/packages/f27/kjots/po/ga/kjots.po | 
+ | [eu](/f27/language/eu) | 213 | 399 | 53.4 | /mnt/stockage/packages/f27/kjots/po/eu/kjots.po | 
+ | [ar](/f27/language/ar) | 209 | 399 | 52.4 | /mnt/stockage/packages/f27/kjots/po/ar/kjots.po | 
+ | [ne](/f27/language/ne) | 209 | 399 | 52.4 | /mnt/stockage/packages/f27/kjots/po/ne/kjots.po | 
+ | [hi](/f27/language/hi) | 406 | 798 | 50.9 | /mnt/stockage/packages/f27/kjots/po/hi/kjots.po/mnt/stockage/packages/f27/kjots/po/hne/kjots.po | 
+ | [fa](/f27/language/fa) | 139 | 399 | 34.8 | /mnt/stockage/packages/f27/kjots/po/fa/kjots.po | 
+ | [is](/f27/language/is) | 132 | 399 | 33.1 | /mnt/stockage/packages/f27/kjots/po/is/kjots.po | 
+ | [mk](/f27/language/mk) | 132 | 399 | 33.1 | /mnt/stockage/packages/f27/kjots/po/mk/kjots.po | 
+ | [uz](/f27/language/uz) | 252 | 798 | 31.6 | /mnt/stockage/packages/f27/kjots/po/uz/kjots.po/mnt/stockage/packages/f27/kjots/po/uz@cyrillic/kjots.po | 
+ | [ms](/f27/language/ms) | 101 | 399 | 25.3 | /mnt/stockage/packages/f27/kjots/po/ms/kjots.po | 
+ | [ta](/f27/language/ta) | 101 | 399 | 25.3 | /mnt/stockage/packages/f27/kjots/po/ta/kjots.po | 
+ | [tg](/f27/language/tg) | 83 | 399 | 20.8 | /mnt/stockage/packages/f27/kjots/po/tg/kjots.po | 
+ | [ug](/f27/language/ug) | 78 | 399 | 19.5 | /mnt/stockage/packages/f27/kjots/po/ug/kjots.po | 
+ | [wa](/f27/language/wa) | 65 | 399 | 16.3 | /mnt/stockage/packages/f27/kjots/po/wa/kjots.po | 
+ | [br](/f27/language/br) | 63 | 399 | 15.8 | /mnt/stockage/packages/f27/kjots/po/br/kjots.po | 
+ | [eo](/f27/language/eo) | 52 | 399 | 13.0 | /mnt/stockage/packages/f27/kjots/po/eo/kjots.po | 
+ | [pa](/f27/language/pa) | 50 | 399 | 12.5 | /mnt/stockage/packages/f27/kjots/po/pa/kjots.po | 
+ | [mai](/f27/language/mai) | 43 | 399 | 10.8 | /mnt/stockage/packages/f27/kjots/po/mai/kjots.po | 
+ | [mr](/f27/language/mr) | 36 | 399 | 9.0 | /mnt/stockage/packages/f27/kjots/po/mr/kjots.po | 
+ | [oc](/f27/language/oc) | 30 | 399 | 7.5 | /mnt/stockage/packages/f27/kjots/po/oc/kjots.po | 
+ | [ast](/f27/language/ast) | 25 | 399 | 6.3 | /mnt/stockage/packages/f27/kjots/po/ast/kjots.po | 
+ | [hr](/f27/language/hr) | 25 | 399 | 6.3 | /mnt/stockage/packages/f27/kjots/po/hr/kjots.po | 
+ | [cy](/f27/language/cy) | 23 | 399 | 5.8 | /mnt/stockage/packages/f27/kjots/po/cy/kjots.po | 
+ | [th](/f27/language/th) | 21 | 399 | 5.3 | /mnt/stockage/packages/f27/kjots/po/th/kjots.po | 
+ | [af](/f27/language/af) | 19 | 399 | 4.8 | /mnt/stockage/packages/f27/kjots/po/af/kjots.po | 
+ | [be](/f27/language/be) | 19 | 399 | 4.8 | /mnt/stockage/packages/f27/kjots/po/be/kjots.po | 
+ | [xh](/f27/language/xh) | 19 | 399 | 4.8 | /mnt/stockage/packages/f27/kjots/po/xh/kjots.po | 
+ | [he](/f27/language/he) | 15 | 399 | 3.8 | /mnt/stockage/packages/f27/kjots/po/he/kjots.po | 
+ | [se](/f27/language/se) | 4 | 399 | 1.0 | /mnt/stockage/packages/f27/kjots/po/se/kjots.po | 
 {.sortable}
 
 

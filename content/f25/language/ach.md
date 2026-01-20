@@ -38,28 +38,28 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [sugar-chat]({{< ref "/f25/package/sugar-chat.md" >}}) | 137 | 137 | 100.0 | LANGUAGE <LL@li.org> | 
- | [sugar-imageviewer]({{< ref "/f25/package/sugar-imageviewer.md" >}}) | 58 | 58 | 100.0 | LANGUAGE <LL@li.org> | 
- | [sugar-jukebox]({{< ref "/f25/package/sugar-jukebox.md" >}}) | 69 | 69 | 100.0 | LANGUAGE <LL@li.org> | 
- | [sugar-log]({{< ref "/f25/package/sugar-log.md" >}}) | 98 | 98 | 100.0 | LANGUAGE <LL@li.org> | 
- | [sugar-physics]({{< ref "/f25/package/sugar-physics.md" >}}) | 48 | 48 | 100.0 | LANGUAGE <LL@li.org> | 
- | [sugar-read]({{< ref "/f25/package/sugar-read.md" >}}) | 137 | 137 | 100.0 | LANGUAGE <LL@li.org> | 
- | [sugar-speak]({{< ref "/f25/package/sugar-speak.md" >}}) | 227 | 227 | 100.0 | LANGUAGE <LL@li.org> | 
- | [sugar-terminal]({{< ref "/f25/package/sugar-terminal.md" >}}) | 121 | 121 | 100.0 | LANGUAGE <LL@li.org> | 
- | [sugar-words]({{< ref "/f25/package/sugar-words.md" >}}) | 3 | 3 | 100.0 | LANGUAGE <LL@li.org> | 
- | [virtaal]({{< ref "/f25/package/virtaal.md" >}}) | 1618 | 1653 | 97.9 | LANGUAGE <LL@li.org> | 
- | [tuxpaint]({{< ref "/f25/package/tuxpaint.md" >}}) | 1515 | 1591 | 95.2 |  | 
- | [sugar-write]({{< ref "/f25/package/sugar-write.md" >}}) | 79 | 121 | 65.3 | LANGUAGE <LL@li.org> | 
- | [sugar-calculator]({{< ref "/f25/package/sugar-calculator.md" >}}) | 305 | 871 | 35.0 | LANGUAGE <LL@li.org> | 
- | [abrt]({{< ref "/f25/package/abrt.md" >}}) | 0 | 3230 | 0.0 | Acoli (http://www.transifex.com/projects/p/fedora-abrt/language/ach/) | 
- | [avahi]({{< ref "/f25/package/avahi.md" >}}) | 0 | 868 | 0.0 | Acoli (http://www.transifex.com/lennart/avahi/language/ach/) | 
- | [certmonger]({{< ref "/f25/package/certmonger.md" >}}) | 0 | 2478 | 0.0 | Acoli (http://www.transifex.com/projects/p/certmonger/language/ach/) | 
- | [initial-setup]({{< ref "/f25/package/initial-setup.md" >}}) | 0 | 33 | 0.0 | Acoli (http://www.transifex.com/projects/p/initial-setup/language/ach/) | 
- | [libreport]({{< ref "/f25/package/libreport.md" >}}) | 0 | 3501 | 0.0 | Acoli (http://www.transifex.com/projects/p/libreport/language/ach/) | 
- | [oscap-anaconda-addon]({{< ref "/f25/package/oscap-anaconda-addon.md" >}}) | 0 | 194 | 0.0 | Acoli (http://www.transifex.com/projects/p/oscap-anaconda-addon/language/ach/) | 
- | [python-django-rest-framework]({{< ref "/f25/package/python-django-rest-framework.md" >}}) | 0 | 562 | 0.0 | Acoli (http://www.transifex.com/django-rest-framework-1/django-rest-framework/language/ach/) | 
- | [python-meh]({{< ref "/f25/package/python-meh.md" >}}) | 0 | 109 | 0.0 | Acoli (http://www.transifex.com/projects/p/python-meh/language/ach/) | 
- | [system-config-kickstart]({{< ref "/f25/package/system-config-kickstart.md" >}}) | 0 | 1144 | 0.0 | Acoli (http://www.transifex.com/projects/p/system-config-kickstart/language/ach/) | 
+ | [sugar-chat](/f25/package/sugar-chat) | 137 | 137 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-imageviewer](/f25/package/sugar-imageviewer) | 58 | 58 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-jukebox](/f25/package/sugar-jukebox) | 69 | 69 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-log](/f25/package/sugar-log) | 98 | 98 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-physics](/f25/package/sugar-physics) | 48 | 48 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-read](/f25/package/sugar-read) | 137 | 137 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-speak](/f25/package/sugar-speak) | 227 | 227 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-terminal](/f25/package/sugar-terminal) | 121 | 121 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-words](/f25/package/sugar-words) | 3 | 3 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [virtaal](/f25/package/virtaal) | 1618 | 1653 | 97.9 | LANGUAGE <LL@li.org> | 
+ | [tuxpaint](/f25/package/tuxpaint) | 1515 | 1591 | 95.2 |  | 
+ | [sugar-write](/f25/package/sugar-write) | 79 | 121 | 65.3 | LANGUAGE <LL@li.org> | 
+ | [sugar-calculator](/f25/package/sugar-calculator) | 305 | 871 | 35.0 | LANGUAGE <LL@li.org> | 
+ | [abrt](/f25/package/abrt) | 0 | 3230 | 0.0 | Acoli (http://www.transifex.com/projects/p/fedora-abrt/language/ach/) | 
+ | [avahi](/f25/package/avahi) | 0 | 868 | 0.0 | Acoli (http://www.transifex.com/lennart/avahi/language/ach/) | 
+ | [certmonger](/f25/package/certmonger) | 0 | 2478 | 0.0 | Acoli (http://www.transifex.com/projects/p/certmonger/language/ach/) | 
+ | [initial-setup](/f25/package/initial-setup) | 0 | 33 | 0.0 | Acoli (http://www.transifex.com/projects/p/initial-setup/language/ach/) | 
+ | [libreport](/f25/package/libreport) | 0 | 3501 | 0.0 | Acoli (http://www.transifex.com/projects/p/libreport/language/ach/) | 
+ | [oscap-anaconda-addon](/f25/package/oscap-anaconda-addon) | 0 | 194 | 0.0 | Acoli (http://www.transifex.com/projects/p/oscap-anaconda-addon/language/ach/) | 
+ | [python-django-rest-framework](/f25/package/python-django-rest-framework) | 0 | 562 | 0.0 | Acoli (http://www.transifex.com/django-rest-framework-1/django-rest-framework/language/ach/) | 
+ | [python-meh](/f25/package/python-meh) | 0 | 109 | 0.0 | Acoli (http://www.transifex.com/projects/p/python-meh/language/ach/) | 
+ | [system-config-kickstart](/f25/package/system-config-kickstart) | 0 | 1144 | 0.0 | Acoli (http://www.transifex.com/projects/p/system-config-kickstart/language/ach/) | 
 {.sortable}
 
 

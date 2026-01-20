@@ -38,7 +38,7 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [gtk2]({{< ref "/f8/package/gtk2.md" >}}) | 1871 | 12092 | 15.5 | Ido <gnome-ido@lists.mterry.name> | 
+ | [gtk2](/f8/package/gtk2) | 1871 | 12092 | 15.5 | Ido <gnome-ido@lists.mterry.name> | 
 {.sortable}
 
 

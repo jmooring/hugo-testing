@@ -18,18 +18,18 @@ The package hotssh (version 0.2.6):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f11/language/ca.md" >}}) | 145 | 145 | 100.0 | /mnt/stockage/packages/f11/hotssh/po/ca.po | 
- | [en_CA]({{< ref "/f11/language/en_CA.md" >}}) | 2 | 2 | 100.0 | /mnt/stockage/packages/f11/hotssh/po/en_CA.po | 
- | [es]({{< ref "/f11/language/es.md" >}}) | 145 | 145 | 100.0 | /mnt/stockage/packages/f11/hotssh/po/es.po | 
- | [fi]({{< ref "/f11/language/fi.md" >}}) | 145 | 145 | 100.0 | /mnt/stockage/packages/f11/hotssh/po/fi.po | 
- | [fr]({{< ref "/f11/language/fr.md" >}}) | 145 | 145 | 100.0 | /mnt/stockage/packages/f11/hotssh/po/fr.po | 
- | [ja]({{< ref "/f11/language/ja.md" >}}) | 145 | 145 | 100.0 | /mnt/stockage/packages/f11/hotssh/po/ja.po | 
- | [pt]({{< ref "/f11/language/pt.md" >}}) | 145 | 145 | 100.0 | /mnt/stockage/packages/f11/hotssh/po/pt.po | 
- | [pt_BR]({{< ref "/f11/language/pt_BR.md" >}}) | 145 | 145 | 100.0 | /mnt/stockage/packages/f11/hotssh/po/pt_BR.po | 
- | [sl]({{< ref "/f11/language/sl.md" >}}) | 145 | 145 | 100.0 | /mnt/stockage/packages/f11/hotssh/po/sl.po | 
- | [sv]({{< ref "/f11/language/sv.md" >}}) | 145 | 145 | 100.0 | /mnt/stockage/packages/f11/hotssh/po/sv.po | 
- | [nb_NO]({{< ref "/f11/language/nb_NO.md" >}}) | 69 | 145 | 47.6 | /mnt/stockage/packages/f11/hotssh/po/nb.po | 
- | [ar]({{< ref "/f11/language/ar.md" >}}) | 51 | 145 | 35.2 | /mnt/stockage/packages/f11/hotssh/po/ar.po | 
+ | [ca](/f11/language/ca) | 145 | 145 | 100.0 | /mnt/stockage/packages/f11/hotssh/po/ca.po | 
+ | [en_CA](/f11/language/en_CA) | 2 | 2 | 100.0 | /mnt/stockage/packages/f11/hotssh/po/en_CA.po | 
+ | [es](/f11/language/es) | 145 | 145 | 100.0 | /mnt/stockage/packages/f11/hotssh/po/es.po | 
+ | [fi](/f11/language/fi) | 145 | 145 | 100.0 | /mnt/stockage/packages/f11/hotssh/po/fi.po | 
+ | [fr](/f11/language/fr) | 145 | 145 | 100.0 | /mnt/stockage/packages/f11/hotssh/po/fr.po | 
+ | [ja](/f11/language/ja) | 145 | 145 | 100.0 | /mnt/stockage/packages/f11/hotssh/po/ja.po | 
+ | [pt](/f11/language/pt) | 145 | 145 | 100.0 | /mnt/stockage/packages/f11/hotssh/po/pt.po | 
+ | [pt_BR](/f11/language/pt_BR) | 145 | 145 | 100.0 | /mnt/stockage/packages/f11/hotssh/po/pt_BR.po | 
+ | [sl](/f11/language/sl) | 145 | 145 | 100.0 | /mnt/stockage/packages/f11/hotssh/po/sl.po | 
+ | [sv](/f11/language/sv) | 145 | 145 | 100.0 | /mnt/stockage/packages/f11/hotssh/po/sv.po | 
+ | [nb_NO](/f11/language/nb_NO) | 69 | 145 | 47.6 | /mnt/stockage/packages/f11/hotssh/po/nb.po | 
+ | [ar](/f11/language/ar) | 51 | 145 | 35.2 | /mnt/stockage/packages/f11/hotssh/po/ar.po | 
 {.sortable}
 
 

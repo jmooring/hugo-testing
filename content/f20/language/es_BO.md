@@ -38,7 +38,7 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [openerp7]({{< ref "/f20/package/openerp7.md" >}}) | 41 | 22614 | 0.2 | Spanish (Bolivia) <es_BO@li.org> | 
+ | [openerp7](/f20/package/openerp7) | 41 | 22614 | 0.2 | Spanish (Bolivia) <es_BO@li.org> | 
 {.sortable}
 
 

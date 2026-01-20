@@ -18,9 +18,9 @@ The package florence (version 0.6.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f23/language/fr.md" >}}) | 5892 | 6055 | 97.3 | /mnt/stockage/packages/f23/florence/docs/fr/fr.po/mnt/stockage/packages/f23/florence/po/fr.po | 
- | [it]({{< ref "/f23/language/it.md" >}}) | 1128 | 2143 | 52.6 | /mnt/stockage/packages/f23/florence/po/it.po | 
- | [ru]({{< ref "/f23/language/ru.md" >}}) | 2570 | 6055 | 42.4 | /mnt/stockage/packages/f23/florence/docs/ru/ru.po/mnt/stockage/packages/f23/florence/po/ru.po | 
+ | [fr](/f23/language/fr) | 5892 | 6055 | 97.3 | /mnt/stockage/packages/f23/florence/docs/fr/fr.po/mnt/stockage/packages/f23/florence/po/fr.po | 
+ | [it](/f23/language/it) | 1128 | 2143 | 52.6 | /mnt/stockage/packages/f23/florence/po/it.po | 
+ | [ru](/f23/language/ru) | 2570 | 6055 | 42.4 | /mnt/stockage/packages/f23/florence/docs/ru/ru.po/mnt/stockage/packages/f23/florence/po/ru.po | 
 {.sortable}
 
 

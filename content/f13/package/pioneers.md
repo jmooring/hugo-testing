@@ -18,18 +18,18 @@ The package pioneers (version 0.12.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f13/language/fr.md" >}}) | 2554 | 2554 | 100.0 | /mnt/stockage/packages/f13/pioneers/po/fr.po | 
- | [it]({{< ref "/f13/language/it.md" >}}) | 2554 | 2554 | 100.0 | /mnt/stockage/packages/f13/pioneers/po/it.po | 
- | [nl]({{< ref "/f13/language/nl.md" >}}) | 2554 | 2554 | 100.0 | /mnt/stockage/packages/f13/pioneers/po/nl.po | 
- | [hu]({{< ref "/f13/language/hu.md" >}}) | 2524 | 2554 | 98.8 | /mnt/stockage/packages/f13/pioneers/po/hu.po | 
- | [pt]({{< ref "/f13/language/pt.md" >}}) | 2524 | 2554 | 98.8 | /mnt/stockage/packages/f13/pioneers/po/pt.po | 
- | [sv]({{< ref "/f13/language/sv.md" >}}) | 2524 | 2554 | 98.8 | /mnt/stockage/packages/f13/pioneers/po/sv.po | 
- | [de]({{< ref "/f13/language/de.md" >}}) | 2421 | 2554 | 94.8 | /mnt/stockage/packages/f13/pioneers/po/de.po | 
- | [ja]({{< ref "/f13/language/ja.md" >}}) | 2394 | 2554 | 93.7 | /mnt/stockage/packages/f13/pioneers/po/ja.po | 
- | [da]({{< ref "/f13/language/da.md" >}}) | 2387 | 2554 | 93.5 | /mnt/stockage/packages/f13/pioneers/po/da.po | 
- | [cs]({{< ref "/f13/language/cs.md" >}}) | 2386 | 2554 | 93.4 | /mnt/stockage/packages/f13/pioneers/po/cs.po | 
- | [af]({{< ref "/f13/language/af.md" >}}) | 2263 | 2554 | 88.6 | /mnt/stockage/packages/f13/pioneers/po/af.po | 
- | [es]({{< ref "/f13/language/es.md" >}}) | 2230 | 2554 | 87.3 | /mnt/stockage/packages/f13/pioneers/po/es.po | 
+ | [fr](/f13/language/fr) | 2554 | 2554 | 100.0 | /mnt/stockage/packages/f13/pioneers/po/fr.po | 
+ | [it](/f13/language/it) | 2554 | 2554 | 100.0 | /mnt/stockage/packages/f13/pioneers/po/it.po | 
+ | [nl](/f13/language/nl) | 2554 | 2554 | 100.0 | /mnt/stockage/packages/f13/pioneers/po/nl.po | 
+ | [hu](/f13/language/hu) | 2524 | 2554 | 98.8 | /mnt/stockage/packages/f13/pioneers/po/hu.po | 
+ | [pt](/f13/language/pt) | 2524 | 2554 | 98.8 | /mnt/stockage/packages/f13/pioneers/po/pt.po | 
+ | [sv](/f13/language/sv) | 2524 | 2554 | 98.8 | /mnt/stockage/packages/f13/pioneers/po/sv.po | 
+ | [de](/f13/language/de) | 2421 | 2554 | 94.8 | /mnt/stockage/packages/f13/pioneers/po/de.po | 
+ | [ja](/f13/language/ja) | 2394 | 2554 | 93.7 | /mnt/stockage/packages/f13/pioneers/po/ja.po | 
+ | [da](/f13/language/da) | 2387 | 2554 | 93.5 | /mnt/stockage/packages/f13/pioneers/po/da.po | 
+ | [cs](/f13/language/cs) | 2386 | 2554 | 93.4 | /mnt/stockage/packages/f13/pioneers/po/cs.po | 
+ | [af](/f13/language/af) | 2263 | 2554 | 88.6 | /mnt/stockage/packages/f13/pioneers/po/af.po | 
+ | [es](/f13/language/es) | 2230 | 2554 | 87.3 | /mnt/stockage/packages/f13/pioneers/po/es.po | 
 {.sortable}
 
 

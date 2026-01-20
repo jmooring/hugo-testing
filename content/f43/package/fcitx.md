@@ -18,16 +18,16 @@ The package fcitx (version 4.2.9.9):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [da]({{< ref "/f43/language/da.md" >}}) | 3308 | 3308 | 100.0 | /mnt/stockage/packages/f43/fcitx/po/da.po | 
- | [fr]({{< ref "/f43/language/fr.md" >}}) | 3308 | 3308 | 100.0 | /mnt/stockage/packages/f43/fcitx/po/fr.po | 
- | [ja]({{< ref "/f43/language/ja.md" >}}) | 3308 | 3308 | 100.0 | /mnt/stockage/packages/f43/fcitx/po/ja.po | 
- | [ko]({{< ref "/f43/language/ko.md" >}}) | 3308 | 3308 | 100.0 | /mnt/stockage/packages/f43/fcitx/po/ko.po | 
- | [ru]({{< ref "/f43/language/ru.md" >}}) | 3308 | 3308 | 100.0 | /mnt/stockage/packages/f43/fcitx/po/ru.po | 
- | [zh_Hans]({{< ref "/f43/language/zh_Hans.md" >}}) | 3308 | 3308 | 100.0 | /mnt/stockage/packages/f43/fcitx/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f43/language/zh_Hant.md" >}}) | 3308 | 3308 | 100.0 | /mnt/stockage/packages/f43/fcitx/po/zh_TW.po | 
- | [ca]({{< ref "/f43/language/ca.md" >}}) | 3295 | 3308 | 99.6 | /mnt/stockage/packages/f43/fcitx/po/ca.po | 
- | [de]({{< ref "/f43/language/de.md" >}}) | 3228 | 3308 | 97.6 | /mnt/stockage/packages/f43/fcitx/po/de.po | 
- | [es]({{< ref "/f43/language/es.md" >}}) | 210 | 3308 | 6.3 | /mnt/stockage/packages/f43/fcitx/po/es.po | 
+ | [da](/f43/language/da) | 3308 | 3308 | 100.0 | /mnt/stockage/packages/f43/fcitx/po/da.po | 
+ | [fr](/f43/language/fr) | 3308 | 3308 | 100.0 | /mnt/stockage/packages/f43/fcitx/po/fr.po | 
+ | [ja](/f43/language/ja) | 3308 | 3308 | 100.0 | /mnt/stockage/packages/f43/fcitx/po/ja.po | 
+ | [ko](/f43/language/ko) | 3308 | 3308 | 100.0 | /mnt/stockage/packages/f43/fcitx/po/ko.po | 
+ | [ru](/f43/language/ru) | 3308 | 3308 | 100.0 | /mnt/stockage/packages/f43/fcitx/po/ru.po | 
+ | [zh_Hans](/f43/language/zh_Hans) | 3308 | 3308 | 100.0 | /mnt/stockage/packages/f43/fcitx/po/zh_CN.po | 
+ | [zh_Hant](/f43/language/zh_Hant) | 3308 | 3308 | 100.0 | /mnt/stockage/packages/f43/fcitx/po/zh_TW.po | 
+ | [ca](/f43/language/ca) | 3295 | 3308 | 99.6 | /mnt/stockage/packages/f43/fcitx/po/ca.po | 
+ | [de](/f43/language/de) | 3228 | 3308 | 97.6 | /mnt/stockage/packages/f43/fcitx/po/de.po | 
+ | [es](/f43/language/es) | 210 | 3308 | 6.3 | /mnt/stockage/packages/f43/fcitx/po/es.po | 
 {.sortable}
 
 

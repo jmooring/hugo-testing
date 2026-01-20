@@ -18,12 +18,12 @@ The package fondo (version 1.3.8):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [es]({{< ref "/f30/language/es.md" >}}) | 541 | 570 | 94.9 | /mnt/stockage/packages/f30/fondo/po/es.po/mnt/stockage/packages/f30/fondo/po/extra/es.po | 
- | [de]({{< ref "/f30/language/de.md" >}}) | 502 | 570 | 88.1 | /mnt/stockage/packages/f30/fondo/po/de.po/mnt/stockage/packages/f30/fondo/po/extra/de.po | 
- | [tr]({{< ref "/f30/language/tr.md" >}}) | 502 | 570 | 88.1 | /mnt/stockage/packages/f30/fondo/po/tr.po/mnt/stockage/packages/f30/fondo/po/extra/tr.po | 
- | [nl]({{< ref "/f30/language/nl.md" >}}) | 471 | 570 | 82.6 | /mnt/stockage/packages/f30/fondo/po/nl.po/mnt/stockage/packages/f30/fondo/po/extra/nl.po | 
- | [fr]({{< ref "/f30/language/fr.md" >}}) | 371 | 570 | 65.1 | /mnt/stockage/packages/f30/fondo/po/fr.po/mnt/stockage/packages/f30/fondo/po/extra/fr.po | 
- | [pt_BR]({{< ref "/f30/language/pt_BR.md" >}}) | 367 | 570 | 64.4 | /mnt/stockage/packages/f30/fondo/po/pt_BR.po/mnt/stockage/packages/f30/fondo/po/extra/pt_BR.po | 
+ | [es](/f30/language/es) | 541 | 570 | 94.9 | /mnt/stockage/packages/f30/fondo/po/es.po/mnt/stockage/packages/f30/fondo/po/extra/es.po | 
+ | [de](/f30/language/de) | 502 | 570 | 88.1 | /mnt/stockage/packages/f30/fondo/po/de.po/mnt/stockage/packages/f30/fondo/po/extra/de.po | 
+ | [tr](/f30/language/tr) | 502 | 570 | 88.1 | /mnt/stockage/packages/f30/fondo/po/tr.po/mnt/stockage/packages/f30/fondo/po/extra/tr.po | 
+ | [nl](/f30/language/nl) | 471 | 570 | 82.6 | /mnt/stockage/packages/f30/fondo/po/nl.po/mnt/stockage/packages/f30/fondo/po/extra/nl.po | 
+ | [fr](/f30/language/fr) | 371 | 570 | 65.1 | /mnt/stockage/packages/f30/fondo/po/fr.po/mnt/stockage/packages/f30/fondo/po/extra/fr.po | 
+ | [pt_BR](/f30/language/pt_BR) | 367 | 570 | 64.4 | /mnt/stockage/packages/f30/fondo/po/pt_BR.po/mnt/stockage/packages/f30/fondo/po/extra/pt_BR.po | 
 {.sortable}
 
 

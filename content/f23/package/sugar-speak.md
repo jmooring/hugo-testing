@@ -18,105 +18,105 @@ The package sugar-speak (version 51):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ayc]({{< ref "/f23/language/ayc.md" >}}) | 227 | 227 | 100.0 | /mnt/stockage/packages/f23/sugar-speak/po/ayc.po | 
- | [da]({{< ref "/f23/language/da.md" >}}) | 227 | 227 | 100.0 | /mnt/stockage/packages/f23/sugar-speak/po/da.po | 
- | [de]({{< ref "/f23/language/de.md" >}}) | 227 | 227 | 100.0 | /mnt/stockage/packages/f23/sugar-speak/po/de.po | 
- | [en]({{< ref "/f23/language/en.md" >}}) | 227 | 227 | 100.0 | /mnt/stockage/packages/f23/sugar-speak/po/en.po | 
- | [en_GB]({{< ref "/f23/language/en_GB.md" >}}) | 227 | 227 | 100.0 | /mnt/stockage/packages/f23/sugar-speak/po/en_GB.po | 
- | [en_US]({{< ref "/f23/language/en_US.md" >}}) | 227 | 227 | 100.0 | /mnt/stockage/packages/f23/sugar-speak/po/en_US.po | 
- | [es]({{< ref "/f23/language/es.md" >}}) | 227 | 227 | 100.0 | /mnt/stockage/packages/f23/sugar-speak/po/es.po | 
- | [fr]({{< ref "/f23/language/fr.md" >}}) | 227 | 227 | 100.0 | /mnt/stockage/packages/f23/sugar-speak/po/fr.po | 
- | [hy]({{< ref "/f23/language/hy.md" >}}) | 227 | 227 | 100.0 | /mnt/stockage/packages/f23/sugar-speak/po/hy.po | 
- | [id]({{< ref "/f23/language/id.md" >}}) | 227 | 227 | 100.0 | /mnt/stockage/packages/f23/sugar-speak/po/id.po | 
- | [it]({{< ref "/f23/language/it.md" >}}) | 227 | 227 | 100.0 | /mnt/stockage/packages/f23/sugar-speak/po/it.po | 
- | [ne]({{< ref "/f23/language/ne.md" >}}) | 227 | 227 | 100.0 | /mnt/stockage/packages/f23/sugar-speak/po/ne.po | 
- | [nl]({{< ref "/f23/language/nl.md" >}}) | 227 | 227 | 100.0 | /mnt/stockage/packages/f23/sugar-speak/po/nl.po | 
- | [pap]({{< ref "/f23/language/pap.md" >}}) | 227 | 227 | 100.0 | /mnt/stockage/packages/f23/sugar-speak/po/pap.po | 
- | [pl]({{< ref "/f23/language/pl.md" >}}) | 227 | 227 | 100.0 | /mnt/stockage/packages/f23/sugar-speak/po/pl.po | 
- | [pt]({{< ref "/f23/language/pt.md" >}}) | 227 | 227 | 100.0 | /mnt/stockage/packages/f23/sugar-speak/po/pt.po | 
- | [qu]({{< ref "/f23/language/qu.md" >}}) | 227 | 227 | 100.0 | /mnt/stockage/packages/f23/sugar-speak/po/quz.po | 
- | [zh_Hans]({{< ref "/f23/language/zh_Hans.md" >}}) | 227 | 227 | 100.0 | /mnt/stockage/packages/f23/sugar-speak/po/zh_CN.po | 
- | [ar]({{< ref "/f23/language/ar.md" >}}) | 224 | 227 | 98.7 | /mnt/stockage/packages/f23/sugar-speak/po/ar.po | 
- | [ay]({{< ref "/f23/language/ay.md" >}}) | 141 | 217 | 65.0 | /mnt/stockage/packages/f23/sugar-speak/po/aym.po | 
- | [mi]({{< ref "/f23/language/mi.md" >}}) | 147 | 227 | 64.8 | /mnt/stockage/packages/f23/sugar-speak/po/mi.po | 
- | [el]({{< ref "/f23/language/el.md" >}}) | 139 | 227 | 61.2 | /mnt/stockage/packages/f23/sugar-speak/po/el.po | 
- | [ta]({{< ref "/f23/language/ta.md" >}}) | 134 | 227 | 59.0 | /mnt/stockage/packages/f23/sugar-speak/po/ta.po | 
- | [th]({{< ref "/f23/language/th.md" >}}) | 134 | 227 | 59.0 | /mnt/stockage/packages/f23/sugar-speak/po/th.po | 
- | [zh_Hant]({{< ref "/f23/language/zh_Hant.md" >}}) | 134 | 227 | 59.0 | /mnt/stockage/packages/f23/sugar-speak/po/zh_TW.po | 
- | [hus]({{< ref "/f23/language/hus.md" >}}) | 125 | 227 | 55.1 | /mnt/stockage/packages/f23/sugar-speak/po/hus.po | 
- | [vi]({{< ref "/f23/language/vi.md" >}}) | 81 | 227 | 35.7 | /mnt/stockage/packages/f23/sugar-speak/po/vi.po | 
- | [sq]({{< ref "/f23/language/sq.md" >}}) | 79 | 227 | 34.8 | /mnt/stockage/packages/f23/sugar-speak/po/sq.po | 
- | [hi]({{< ref "/f23/language/hi.md" >}}) | 77 | 227 | 33.9 | /mnt/stockage/packages/f23/sugar-speak/po/hi.po | 
- | [pt_BR]({{< ref "/f23/language/pt_BR.md" >}}) | 76 | 227 | 33.5 | /mnt/stockage/packages/f23/sugar-speak/po/pt_BR.po | 
- | [ru]({{< ref "/f23/language/ru.md" >}}) | 52 | 227 | 22.9 | /mnt/stockage/packages/f23/sugar-speak/po/ru.po | 
- | [mn]({{< ref "/f23/language/mn.md" >}}) | 50 | 227 | 22.0 | /mnt/stockage/packages/f23/sugar-speak/po/mn.po | 
- | [km]({{< ref "/f23/language/km.md" >}}) | 48 | 227 | 21.1 | /mnt/stockage/packages/f23/sugar-speak/po/km.po | 
- | [error]({{< ref "/f23/language/error.md" >}}) | 135 | 681 | 19.8 | /mnt/stockage/packages/f23/sugar-speak/po/tzo.po/mnt/stockage/packages/f23/sugar-speak/po/pbs.po/mnt/stockage/packages/f23/sugar-speak/po/mvo.po | 
- | [rw]({{< ref "/f23/language/rw.md" >}}) | 45 | 227 | 19.8 | /mnt/stockage/packages/f23/sugar-speak/po/rw.po | 
- | [ca]({{< ref "/f23/language/ca.md" >}}) | 40 | 227 | 17.6 | /mnt/stockage/packages/f23/sugar-speak/po/ca.po | 
- | [af]({{< ref "/f23/language/af.md" >}}) | 36 | 227 | 15.9 | /mnt/stockage/packages/f23/sugar-speak/po/af.po | 
- | [am]({{< ref "/f23/language/am.md" >}}) | 35 | 227 | 15.4 | /mnt/stockage/packages/f23/sugar-speak/po/am.po | 
- | [cs]({{< ref "/f23/language/cs.md" >}}) | 34 | 227 | 15.0 | /mnt/stockage/packages/f23/sugar-speak/po/cs.po | 
- | [sv]({{< ref "/f23/language/sv.md" >}}) | 30 | 227 | 13.2 | /mnt/stockage/packages/f23/sugar-speak/po/sv.po | 
- | [gu]({{< ref "/f23/language/gu.md" >}}) | 25 | 227 | 11.0 | /mnt/stockage/packages/f23/sugar-speak/po/gu.po | 
- | [pa]({{< ref "/f23/language/pa.md" >}}) | 25 | 227 | 11.0 | /mnt/stockage/packages/f23/sugar-speak/po/pa.po | 
- | [mr]({{< ref "/f23/language/mr.md" >}}) | 24 | 227 | 10.6 | /mnt/stockage/packages/f23/sugar-speak/po/mr.po | 
- | [bg]({{< ref "/f23/language/bg.md" >}}) | 23 | 227 | 10.1 | /mnt/stockage/packages/f23/sugar-speak/po/bg.po | 
- | [sl]({{< ref "/f23/language/sl.md" >}}) | 23 | 227 | 10.1 | /mnt/stockage/packages/f23/sugar-speak/po/sl.po | 
- | [fa]({{< ref "/f23/language/fa.md" >}}) | 22 | 227 | 9.7 | /mnt/stockage/packages/f23/sugar-speak/po/fa.po | 
- | [ro]({{< ref "/f23/language/ro.md" >}}) | 20 | 227 | 8.8 | /mnt/stockage/packages/f23/sugar-speak/po/ro.po | 
- | [ak]({{< ref "/f23/language/ak.md" >}}) | 16 | 227 | 7.0 | /mnt/stockage/packages/f23/sugar-speak/po/ak.po | 
- | [ps]({{< ref "/f23/language/ps.md" >}}) | 11 | 227 | 4.8 | /mnt/stockage/packages/f23/sugar-speak/po/ps.po | 
- | [sm]({{< ref "/f23/language/sm.md" >}}) | 6 | 227 | 2.6 | /mnt/stockage/packages/f23/sugar-speak/po/sm.po | 
- | [fil]({{< ref "/f23/language/fil.md" >}}) | 3 | 227 | 1.3 | /mnt/stockage/packages/f23/sugar-speak/po/fil.po | 
- | [tzm]({{< ref "/f23/language/tzm.md" >}}) | 3 | 227 | 1.3 | /mnt/stockage/packages/f23/sugar-speak/po/tzm.po | 
- | [bi]({{< ref "/f23/language/bi.md" >}}) | 2 | 227 | 0.9 | /mnt/stockage/packages/f23/sugar-speak/po/bi.po | 
- | [mk]({{< ref "/f23/language/mk.md" >}}) | 2 | 227 | 0.9 | /mnt/stockage/packages/f23/sugar-speak/po/mk.po | 
- | [bn_IN]({{< ref "/f23/language/bn_IN.md" >}}) | 1 | 227 | 0.4 | /mnt/stockage/packages/f23/sugar-speak/po/bn_IN.po | 
- | [son]({{< ref "/f23/language/son.md" >}}) | 1 | 227 | 0.4 | /mnt/stockage/packages/f23/sugar-speak/po/son.po | 
- | [sw]({{< ref "/f23/language/sw.md" >}}) | 1 | 227 | 0.4 | /mnt/stockage/packages/f23/sugar-speak/po/sw.po | 
- | [bn]({{< ref "/f23/language/bn.md" >}}) | 0 | 227 | 0.0 | /mnt/stockage/packages/f23/sugar-speak/po/bn.po | 
- | [bs]({{< ref "/f23/language/bs.md" >}}) | 0 | 227 | 0.0 | /mnt/stockage/packages/f23/sugar-speak/po/bs.po | 
- | [cpp]({{< ref "/f23/language/cpp.md" >}}) | 0 | 227 | 0.0 | /mnt/stockage/packages/f23/sugar-speak/po/cpp.po | 
- | [dz]({{< ref "/f23/language/dz.md" >}}) | 0 | 227 | 0.0 | /mnt/stockage/packages/f23/sugar-speak/po/dz.po | 
- | [ff]({{< ref "/f23/language/ff.md" >}}) | 0 | 227 | 0.0 | /mnt/stockage/packages/f23/sugar-speak/po/ff.po | 
- | [fi]({{< ref "/f23/language/fi.md" >}}) | 0 | 227 | 0.0 | /mnt/stockage/packages/f23/sugar-speak/po/fi.po | 
- | [ha]({{< ref "/f23/language/ha.md" >}}) | 0 | 227 | 0.0 | /mnt/stockage/packages/f23/sugar-speak/po/ha.po | 
- | [he]({{< ref "/f23/language/he.md" >}}) | 0 | 227 | 0.0 | /mnt/stockage/packages/f23/sugar-speak/po/he.po | 
- | [ht]({{< ref "/f23/language/ht.md" >}}) | 0 | 227 | 0.0 | /mnt/stockage/packages/f23/sugar-speak/po/ht.po | 
- | [hu]({{< ref "/f23/language/hu.md" >}}) | 0 | 227 | 0.0 | /mnt/stockage/packages/f23/sugar-speak/po/hu.po | 
- | [ig]({{< ref "/f23/language/ig.md" >}}) | 0 | 227 | 0.0 | /mnt/stockage/packages/f23/sugar-speak/po/ig.po | 
- | [is]({{< ref "/f23/language/is.md" >}}) | 0 | 227 | 0.0 | /mnt/stockage/packages/f23/sugar-speak/po/is.po | 
- | [ja]({{< ref "/f23/language/ja.md" >}}) | 0 | 227 | 0.0 | /mnt/stockage/packages/f23/sugar-speak/po/ja.po | 
- | [kn]({{< ref "/f23/language/kn.md" >}}) | 0 | 227 | 0.0 | /mnt/stockage/packages/f23/sugar-speak/po/kn.po | 
- | [ko]({{< ref "/f23/language/ko.md" >}}) | 0 | 227 | 0.0 | /mnt/stockage/packages/f23/sugar-speak/po/ko.po | 
- | [kos]({{< ref "/f23/language/kos.md" >}}) | 0 | 227 | 0.0 | /mnt/stockage/packages/f23/sugar-speak/po/kos.po | 
- | [ku]({{< ref "/f23/language/ku.md" >}}) | 0 | 227 | 0.0 | /mnt/stockage/packages/f23/sugar-speak/po/ku.po | 
- | [lt]({{< ref "/f23/language/lt.md" >}}) | 0 | 227 | 0.0 | /mnt/stockage/packages/f23/sugar-speak/po/lt.po | 
- | [lv]({{< ref "/f23/language/lv.md" >}}) | 0 | 227 | 0.0 | /mnt/stockage/packages/f23/sugar-speak/po/lv.po | 
- | [mg]({{< ref "/f23/language/mg.md" >}}) | 0 | 227 | 0.0 | /mnt/stockage/packages/f23/sugar-speak/po/mg.po | 
- | [ml]({{< ref "/f23/language/ml.md" >}}) | 0 | 227 | 0.0 | /mnt/stockage/packages/f23/sugar-speak/po/ml.po | 
- | [ms]({{< ref "/f23/language/ms.md" >}}) | 0 | 227 | 0.0 | /mnt/stockage/packages/f23/sugar-speak/po/ms.po | 
- | [na]({{< ref "/f23/language/na.md" >}}) | 0 | 227 | 0.0 | /mnt/stockage/packages/f23/sugar-speak/po/na.po | 
- | [nah]({{< ref "/f23/language/nah.md" >}}) | 0 | 227 | 0.0 | /mnt/stockage/packages/f23/sugar-speak/po/nah.po | 
- | [nb_NO]({{< ref "/f23/language/nb_NO.md" >}}) | 0 | 227 | 0.0 | /mnt/stockage/packages/f23/sugar-speak/po/nb.po | 
- | [nn]({{< ref "/f23/language/nn.md" >}}) | 0 | 227 | 0.0 | /mnt/stockage/packages/f23/sugar-speak/po/nn.po | 
- | [prs]({{< ref "/f23/language/prs.md" >}}) | 0 | 227 | 0.0 | /mnt/stockage/packages/f23/sugar-speak/po/fa_AF.po | 
- | [sd]({{< ref "/f23/language/sd.md" >}}) | 0 | 227 | 0.0 | /mnt/stockage/packages/f23/sugar-speak/po/sd.po | 
- | [si]({{< ref "/f23/language/si.md" >}}) | 0 | 227 | 0.0 | /mnt/stockage/packages/f23/sugar-speak/po/si.po | 
- | [sk]({{< ref "/f23/language/sk.md" >}}) | 0 | 227 | 0.0 | /mnt/stockage/packages/f23/sugar-speak/po/sk.po | 
- | [sr]({{< ref "/f23/language/sr.md" >}}) | 0 | 227 | 0.0 | /mnt/stockage/packages/f23/sugar-speak/po/sr.po | 
- | [st]({{< ref "/f23/language/st.md" >}}) | 0 | 227 | 0.0 | /mnt/stockage/packages/f23/sugar-speak/po/st.po | 
- | [te]({{< ref "/f23/language/te.md" >}}) | 0 | 227 | 0.0 | /mnt/stockage/packages/f23/sugar-speak/po/te.po | 
- | [tr]({{< ref "/f23/language/tr.md" >}}) | 0 | 227 | 0.0 | /mnt/stockage/packages/f23/sugar-speak/po/tr.po | 
- | [tvl]({{< ref "/f23/language/tvl.md" >}}) | 0 | 227 | 0.0 | /mnt/stockage/packages/f23/sugar-speak/po/tvl.po | 
- | [tyv]({{< ref "/f23/language/tyv.md" >}}) | 0 | 227 | 0.0 | /mnt/stockage/packages/f23/sugar-speak/po/tyv.po | 
- | [ug]({{< ref "/f23/language/ug.md" >}}) | 0 | 227 | 0.0 | /mnt/stockage/packages/f23/sugar-speak/po/ug.po | 
- | [uk]({{< ref "/f23/language/uk.md" >}}) | 0 | 227 | 0.0 | /mnt/stockage/packages/f23/sugar-speak/po/uk.po | 
- | [ur]({{< ref "/f23/language/ur.md" >}}) | 0 | 227 | 0.0 | /mnt/stockage/packages/f23/sugar-speak/po/ur.po | 
- | [wa]({{< ref "/f23/language/wa.md" >}}) | 0 | 227 | 0.0 | /mnt/stockage/packages/f23/sugar-speak/po/wa.po | 
- | [yo]({{< ref "/f23/language/yo.md" >}}) | 0 | 227 | 0.0 | /mnt/stockage/packages/f23/sugar-speak/po/yo.po | 
- | [zh_Hant_HK]({{< ref "/f23/language/zh_Hant_HK.md" >}}) | 0 | 227 | 0.0 | /mnt/stockage/packages/f23/sugar-speak/po/zh_HK.po | 
+ | [ayc](/f23/language/ayc) | 227 | 227 | 100.0 | /mnt/stockage/packages/f23/sugar-speak/po/ayc.po | 
+ | [da](/f23/language/da) | 227 | 227 | 100.0 | /mnt/stockage/packages/f23/sugar-speak/po/da.po | 
+ | [de](/f23/language/de) | 227 | 227 | 100.0 | /mnt/stockage/packages/f23/sugar-speak/po/de.po | 
+ | [en](/f23/language/en) | 227 | 227 | 100.0 | /mnt/stockage/packages/f23/sugar-speak/po/en.po | 
+ | [en_GB](/f23/language/en_GB) | 227 | 227 | 100.0 | /mnt/stockage/packages/f23/sugar-speak/po/en_GB.po | 
+ | [en_US](/f23/language/en_US) | 227 | 227 | 100.0 | /mnt/stockage/packages/f23/sugar-speak/po/en_US.po | 
+ | [es](/f23/language/es) | 227 | 227 | 100.0 | /mnt/stockage/packages/f23/sugar-speak/po/es.po | 
+ | [fr](/f23/language/fr) | 227 | 227 | 100.0 | /mnt/stockage/packages/f23/sugar-speak/po/fr.po | 
+ | [hy](/f23/language/hy) | 227 | 227 | 100.0 | /mnt/stockage/packages/f23/sugar-speak/po/hy.po | 
+ | [id](/f23/language/id) | 227 | 227 | 100.0 | /mnt/stockage/packages/f23/sugar-speak/po/id.po | 
+ | [it](/f23/language/it) | 227 | 227 | 100.0 | /mnt/stockage/packages/f23/sugar-speak/po/it.po | 
+ | [ne](/f23/language/ne) | 227 | 227 | 100.0 | /mnt/stockage/packages/f23/sugar-speak/po/ne.po | 
+ | [nl](/f23/language/nl) | 227 | 227 | 100.0 | /mnt/stockage/packages/f23/sugar-speak/po/nl.po | 
+ | [pap](/f23/language/pap) | 227 | 227 | 100.0 | /mnt/stockage/packages/f23/sugar-speak/po/pap.po | 
+ | [pl](/f23/language/pl) | 227 | 227 | 100.0 | /mnt/stockage/packages/f23/sugar-speak/po/pl.po | 
+ | [pt](/f23/language/pt) | 227 | 227 | 100.0 | /mnt/stockage/packages/f23/sugar-speak/po/pt.po | 
+ | [qu](/f23/language/qu) | 227 | 227 | 100.0 | /mnt/stockage/packages/f23/sugar-speak/po/quz.po | 
+ | [zh_Hans](/f23/language/zh_Hans) | 227 | 227 | 100.0 | /mnt/stockage/packages/f23/sugar-speak/po/zh_CN.po | 
+ | [ar](/f23/language/ar) | 224 | 227 | 98.7 | /mnt/stockage/packages/f23/sugar-speak/po/ar.po | 
+ | [ay](/f23/language/ay) | 141 | 217 | 65.0 | /mnt/stockage/packages/f23/sugar-speak/po/aym.po | 
+ | [mi](/f23/language/mi) | 147 | 227 | 64.8 | /mnt/stockage/packages/f23/sugar-speak/po/mi.po | 
+ | [el](/f23/language/el) | 139 | 227 | 61.2 | /mnt/stockage/packages/f23/sugar-speak/po/el.po | 
+ | [ta](/f23/language/ta) | 134 | 227 | 59.0 | /mnt/stockage/packages/f23/sugar-speak/po/ta.po | 
+ | [th](/f23/language/th) | 134 | 227 | 59.0 | /mnt/stockage/packages/f23/sugar-speak/po/th.po | 
+ | [zh_Hant](/f23/language/zh_Hant) | 134 | 227 | 59.0 | /mnt/stockage/packages/f23/sugar-speak/po/zh_TW.po | 
+ | [hus](/f23/language/hus) | 125 | 227 | 55.1 | /mnt/stockage/packages/f23/sugar-speak/po/hus.po | 
+ | [vi](/f23/language/vi) | 81 | 227 | 35.7 | /mnt/stockage/packages/f23/sugar-speak/po/vi.po | 
+ | [sq](/f23/language/sq) | 79 | 227 | 34.8 | /mnt/stockage/packages/f23/sugar-speak/po/sq.po | 
+ | [hi](/f23/language/hi) | 77 | 227 | 33.9 | /mnt/stockage/packages/f23/sugar-speak/po/hi.po | 
+ | [pt_BR](/f23/language/pt_BR) | 76 | 227 | 33.5 | /mnt/stockage/packages/f23/sugar-speak/po/pt_BR.po | 
+ | [ru](/f23/language/ru) | 52 | 227 | 22.9 | /mnt/stockage/packages/f23/sugar-speak/po/ru.po | 
+ | [mn](/f23/language/mn) | 50 | 227 | 22.0 | /mnt/stockage/packages/f23/sugar-speak/po/mn.po | 
+ | [km](/f23/language/km) | 48 | 227 | 21.1 | /mnt/stockage/packages/f23/sugar-speak/po/km.po | 
+ | [error](/f23/language/error) | 135 | 681 | 19.8 | /mnt/stockage/packages/f23/sugar-speak/po/tzo.po/mnt/stockage/packages/f23/sugar-speak/po/pbs.po/mnt/stockage/packages/f23/sugar-speak/po/mvo.po | 
+ | [rw](/f23/language/rw) | 45 | 227 | 19.8 | /mnt/stockage/packages/f23/sugar-speak/po/rw.po | 
+ | [ca](/f23/language/ca) | 40 | 227 | 17.6 | /mnt/stockage/packages/f23/sugar-speak/po/ca.po | 
+ | [af](/f23/language/af) | 36 | 227 | 15.9 | /mnt/stockage/packages/f23/sugar-speak/po/af.po | 
+ | [am](/f23/language/am) | 35 | 227 | 15.4 | /mnt/stockage/packages/f23/sugar-speak/po/am.po | 
+ | [cs](/f23/language/cs) | 34 | 227 | 15.0 | /mnt/stockage/packages/f23/sugar-speak/po/cs.po | 
+ | [sv](/f23/language/sv) | 30 | 227 | 13.2 | /mnt/stockage/packages/f23/sugar-speak/po/sv.po | 
+ | [gu](/f23/language/gu) | 25 | 227 | 11.0 | /mnt/stockage/packages/f23/sugar-speak/po/gu.po | 
+ | [pa](/f23/language/pa) | 25 | 227 | 11.0 | /mnt/stockage/packages/f23/sugar-speak/po/pa.po | 
+ | [mr](/f23/language/mr) | 24 | 227 | 10.6 | /mnt/stockage/packages/f23/sugar-speak/po/mr.po | 
+ | [bg](/f23/language/bg) | 23 | 227 | 10.1 | /mnt/stockage/packages/f23/sugar-speak/po/bg.po | 
+ | [sl](/f23/language/sl) | 23 | 227 | 10.1 | /mnt/stockage/packages/f23/sugar-speak/po/sl.po | 
+ | [fa](/f23/language/fa) | 22 | 227 | 9.7 | /mnt/stockage/packages/f23/sugar-speak/po/fa.po | 
+ | [ro](/f23/language/ro) | 20 | 227 | 8.8 | /mnt/stockage/packages/f23/sugar-speak/po/ro.po | 
+ | [ak](/f23/language/ak) | 16 | 227 | 7.0 | /mnt/stockage/packages/f23/sugar-speak/po/ak.po | 
+ | [ps](/f23/language/ps) | 11 | 227 | 4.8 | /mnt/stockage/packages/f23/sugar-speak/po/ps.po | 
+ | [sm](/f23/language/sm) | 6 | 227 | 2.6 | /mnt/stockage/packages/f23/sugar-speak/po/sm.po | 
+ | [fil](/f23/language/fil) | 3 | 227 | 1.3 | /mnt/stockage/packages/f23/sugar-speak/po/fil.po | 
+ | [tzm](/f23/language/tzm) | 3 | 227 | 1.3 | /mnt/stockage/packages/f23/sugar-speak/po/tzm.po | 
+ | [bi](/f23/language/bi) | 2 | 227 | 0.9 | /mnt/stockage/packages/f23/sugar-speak/po/bi.po | 
+ | [mk](/f23/language/mk) | 2 | 227 | 0.9 | /mnt/stockage/packages/f23/sugar-speak/po/mk.po | 
+ | [bn_IN](/f23/language/bn_IN) | 1 | 227 | 0.4 | /mnt/stockage/packages/f23/sugar-speak/po/bn_IN.po | 
+ | [son](/f23/language/son) | 1 | 227 | 0.4 | /mnt/stockage/packages/f23/sugar-speak/po/son.po | 
+ | [sw](/f23/language/sw) | 1 | 227 | 0.4 | /mnt/stockage/packages/f23/sugar-speak/po/sw.po | 
+ | [bn](/f23/language/bn) | 0 | 227 | 0.0 | /mnt/stockage/packages/f23/sugar-speak/po/bn.po | 
+ | [bs](/f23/language/bs) | 0 | 227 | 0.0 | /mnt/stockage/packages/f23/sugar-speak/po/bs.po | 
+ | [cpp](/f23/language/cpp) | 0 | 227 | 0.0 | /mnt/stockage/packages/f23/sugar-speak/po/cpp.po | 
+ | [dz](/f23/language/dz) | 0 | 227 | 0.0 | /mnt/stockage/packages/f23/sugar-speak/po/dz.po | 
+ | [ff](/f23/language/ff) | 0 | 227 | 0.0 | /mnt/stockage/packages/f23/sugar-speak/po/ff.po | 
+ | [fi](/f23/language/fi) | 0 | 227 | 0.0 | /mnt/stockage/packages/f23/sugar-speak/po/fi.po | 
+ | [ha](/f23/language/ha) | 0 | 227 | 0.0 | /mnt/stockage/packages/f23/sugar-speak/po/ha.po | 
+ | [he](/f23/language/he) | 0 | 227 | 0.0 | /mnt/stockage/packages/f23/sugar-speak/po/he.po | 
+ | [ht](/f23/language/ht) | 0 | 227 | 0.0 | /mnt/stockage/packages/f23/sugar-speak/po/ht.po | 
+ | [hu](/f23/language/hu) | 0 | 227 | 0.0 | /mnt/stockage/packages/f23/sugar-speak/po/hu.po | 
+ | [ig](/f23/language/ig) | 0 | 227 | 0.0 | /mnt/stockage/packages/f23/sugar-speak/po/ig.po | 
+ | [is](/f23/language/is) | 0 | 227 | 0.0 | /mnt/stockage/packages/f23/sugar-speak/po/is.po | 
+ | [ja](/f23/language/ja) | 0 | 227 | 0.0 | /mnt/stockage/packages/f23/sugar-speak/po/ja.po | 
+ | [kn](/f23/language/kn) | 0 | 227 | 0.0 | /mnt/stockage/packages/f23/sugar-speak/po/kn.po | 
+ | [ko](/f23/language/ko) | 0 | 227 | 0.0 | /mnt/stockage/packages/f23/sugar-speak/po/ko.po | 
+ | [kos](/f23/language/kos) | 0 | 227 | 0.0 | /mnt/stockage/packages/f23/sugar-speak/po/kos.po | 
+ | [ku](/f23/language/ku) | 0 | 227 | 0.0 | /mnt/stockage/packages/f23/sugar-speak/po/ku.po | 
+ | [lt](/f23/language/lt) | 0 | 227 | 0.0 | /mnt/stockage/packages/f23/sugar-speak/po/lt.po | 
+ | [lv](/f23/language/lv) | 0 | 227 | 0.0 | /mnt/stockage/packages/f23/sugar-speak/po/lv.po | 
+ | [mg](/f23/language/mg) | 0 | 227 | 0.0 | /mnt/stockage/packages/f23/sugar-speak/po/mg.po | 
+ | [ml](/f23/language/ml) | 0 | 227 | 0.0 | /mnt/stockage/packages/f23/sugar-speak/po/ml.po | 
+ | [ms](/f23/language/ms) | 0 | 227 | 0.0 | /mnt/stockage/packages/f23/sugar-speak/po/ms.po | 
+ | [na](/f23/language/na) | 0 | 227 | 0.0 | /mnt/stockage/packages/f23/sugar-speak/po/na.po | 
+ | [nah](/f23/language/nah) | 0 | 227 | 0.0 | /mnt/stockage/packages/f23/sugar-speak/po/nah.po | 
+ | [nb_NO](/f23/language/nb_NO) | 0 | 227 | 0.0 | /mnt/stockage/packages/f23/sugar-speak/po/nb.po | 
+ | [nn](/f23/language/nn) | 0 | 227 | 0.0 | /mnt/stockage/packages/f23/sugar-speak/po/nn.po | 
+ | [prs](/f23/language/prs) | 0 | 227 | 0.0 | /mnt/stockage/packages/f23/sugar-speak/po/fa_AF.po | 
+ | [sd](/f23/language/sd) | 0 | 227 | 0.0 | /mnt/stockage/packages/f23/sugar-speak/po/sd.po | 
+ | [si](/f23/language/si) | 0 | 227 | 0.0 | /mnt/stockage/packages/f23/sugar-speak/po/si.po | 
+ | [sk](/f23/language/sk) | 0 | 227 | 0.0 | /mnt/stockage/packages/f23/sugar-speak/po/sk.po | 
+ | [sr](/f23/language/sr) | 0 | 227 | 0.0 | /mnt/stockage/packages/f23/sugar-speak/po/sr.po | 
+ | [st](/f23/language/st) | 0 | 227 | 0.0 | /mnt/stockage/packages/f23/sugar-speak/po/st.po | 
+ | [te](/f23/language/te) | 0 | 227 | 0.0 | /mnt/stockage/packages/f23/sugar-speak/po/te.po | 
+ | [tr](/f23/language/tr) | 0 | 227 | 0.0 | /mnt/stockage/packages/f23/sugar-speak/po/tr.po | 
+ | [tvl](/f23/language/tvl) | 0 | 227 | 0.0 | /mnt/stockage/packages/f23/sugar-speak/po/tvl.po | 
+ | [tyv](/f23/language/tyv) | 0 | 227 | 0.0 | /mnt/stockage/packages/f23/sugar-speak/po/tyv.po | 
+ | [ug](/f23/language/ug) | 0 | 227 | 0.0 | /mnt/stockage/packages/f23/sugar-speak/po/ug.po | 
+ | [uk](/f23/language/uk) | 0 | 227 | 0.0 | /mnt/stockage/packages/f23/sugar-speak/po/uk.po | 
+ | [ur](/f23/language/ur) | 0 | 227 | 0.0 | /mnt/stockage/packages/f23/sugar-speak/po/ur.po | 
+ | [wa](/f23/language/wa) | 0 | 227 | 0.0 | /mnt/stockage/packages/f23/sugar-speak/po/wa.po | 
+ | [yo](/f23/language/yo) | 0 | 227 | 0.0 | /mnt/stockage/packages/f23/sugar-speak/po/yo.po | 
+ | [zh_Hant_HK](/f23/language/zh_Hant_HK) | 0 | 227 | 0.0 | /mnt/stockage/packages/f23/sugar-speak/po/zh_HK.po | 
 {.sortable}
 
 

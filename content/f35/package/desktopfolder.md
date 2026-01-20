@@ -18,31 +18,31 @@ The package desktopfolder (version 1.1.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f35/language/ca.md" >}}) | 367 | 367 | 100.0 | /mnt/stockage/packages/f35/desktopfolder/po/ca.po | 
- | [cs]({{< ref "/f35/language/cs.md" >}}) | 367 | 367 | 100.0 | /mnt/stockage/packages/f35/desktopfolder/po/cs.po | 
- | [da]({{< ref "/f35/language/da.md" >}}) | 367 | 367 | 100.0 | /mnt/stockage/packages/f35/desktopfolder/po/da.po | 
- | [de]({{< ref "/f35/language/de.md" >}}) | 367 | 367 | 100.0 | /mnt/stockage/packages/f35/desktopfolder/po/de_DE.po | 
- | [en_GB]({{< ref "/f35/language/en_GB.md" >}}) | 367 | 367 | 100.0 | /mnt/stockage/packages/f35/desktopfolder/po/en_GB.po | 
- | [eo]({{< ref "/f35/language/eo.md" >}}) | 367 | 367 | 100.0 | /mnt/stockage/packages/f35/desktopfolder/po/eo.po | 
- | [es]({{< ref "/f35/language/es.md" >}}) | 367 | 367 | 100.0 | /mnt/stockage/packages/f35/desktopfolder/po/es.po | 
- | [fi]({{< ref "/f35/language/fi.md" >}}) | 367 | 367 | 100.0 | /mnt/stockage/packages/f35/desktopfolder/po/fi.po | 
- | [hu]({{< ref "/f35/language/hu.md" >}}) | 367 | 367 | 100.0 | /mnt/stockage/packages/f35/desktopfolder/po/hu.po | 
- | [it]({{< ref "/f35/language/it.md" >}}) | 367 | 367 | 100.0 | /mnt/stockage/packages/f35/desktopfolder/po/it.po | 
- | [lt]({{< ref "/f35/language/lt.md" >}}) | 367 | 367 | 100.0 | /mnt/stockage/packages/f35/desktopfolder/po/lt.po | 
- | [ms]({{< ref "/f35/language/ms.md" >}}) | 367 | 367 | 100.0 | /mnt/stockage/packages/f35/desktopfolder/po/ms_MY.po | 
- | [nl]({{< ref "/f35/language/nl.md" >}}) | 367 | 367 | 100.0 | /mnt/stockage/packages/f35/desktopfolder/po/nl_NL.po | 
- | [oc]({{< ref "/f35/language/oc.md" >}}) | 367 | 367 | 100.0 | /mnt/stockage/packages/f35/desktopfolder/po/oc.po | 
- | [pl]({{< ref "/f35/language/pl.md" >}}) | 367 | 367 | 100.0 | /mnt/stockage/packages/f35/desktopfolder/po/pl.po | 
- | [pt_BR]({{< ref "/f35/language/pt_BR.md" >}}) | 367 | 367 | 100.0 | /mnt/stockage/packages/f35/desktopfolder/po/pt_BR.po | 
- | [pt_PT]({{< ref "/f35/language/pt_PT.md" >}}) | 367 | 367 | 100.0 | /mnt/stockage/packages/f35/desktopfolder/po/pt_PT.po | 
- | [zh_Hans]({{< ref "/f35/language/zh_Hans.md" >}}) | 364 | 367 | 99.2 | /mnt/stockage/packages/f35/desktopfolder/po/zh_CN.po | 
- | [tr]({{< ref "/f35/language/tr.md" >}}) | 359 | 367 | 97.8 | /mnt/stockage/packages/f35/desktopfolder/po/tr.po | 
- | [ja]({{< ref "/f35/language/ja.md" >}}) | 355 | 367 | 96.7 | /mnt/stockage/packages/f35/desktopfolder/po/ja.po | 
- | [ro]({{< ref "/f35/language/ro.md" >}}) | 333 | 367 | 90.7 | /mnt/stockage/packages/f35/desktopfolder/po/ro_RO.po | 
- | [ru]({{< ref "/f35/language/ru.md" >}}) | 294 | 367 | 80.1 | /mnt/stockage/packages/f35/desktopfolder/po/ru.po | 
- | [fr]({{< ref "/f35/language/fr.md" >}}) | 533 | 734 | 72.6 | /mnt/stockage/packages/f35/desktopfolder/po/fr_FR.po/mnt/stockage/packages/f35/desktopfolder/po/fr.po | 
- | [bg]({{< ref "/f35/language/bg.md" >}}) | 242 | 367 | 65.9 | /mnt/stockage/packages/f35/desktopfolder/po/bg.po | 
- | [uk]({{< ref "/f35/language/uk.md" >}}) | 115 | 367 | 31.3 | /mnt/stockage/packages/f35/desktopfolder/po/uk.po | 
+ | [ca](/f35/language/ca) | 367 | 367 | 100.0 | /mnt/stockage/packages/f35/desktopfolder/po/ca.po | 
+ | [cs](/f35/language/cs) | 367 | 367 | 100.0 | /mnt/stockage/packages/f35/desktopfolder/po/cs.po | 
+ | [da](/f35/language/da) | 367 | 367 | 100.0 | /mnt/stockage/packages/f35/desktopfolder/po/da.po | 
+ | [de](/f35/language/de) | 367 | 367 | 100.0 | /mnt/stockage/packages/f35/desktopfolder/po/de_DE.po | 
+ | [en_GB](/f35/language/en_GB) | 367 | 367 | 100.0 | /mnt/stockage/packages/f35/desktopfolder/po/en_GB.po | 
+ | [eo](/f35/language/eo) | 367 | 367 | 100.0 | /mnt/stockage/packages/f35/desktopfolder/po/eo.po | 
+ | [es](/f35/language/es) | 367 | 367 | 100.0 | /mnt/stockage/packages/f35/desktopfolder/po/es.po | 
+ | [fi](/f35/language/fi) | 367 | 367 | 100.0 | /mnt/stockage/packages/f35/desktopfolder/po/fi.po | 
+ | [hu](/f35/language/hu) | 367 | 367 | 100.0 | /mnt/stockage/packages/f35/desktopfolder/po/hu.po | 
+ | [it](/f35/language/it) | 367 | 367 | 100.0 | /mnt/stockage/packages/f35/desktopfolder/po/it.po | 
+ | [lt](/f35/language/lt) | 367 | 367 | 100.0 | /mnt/stockage/packages/f35/desktopfolder/po/lt.po | 
+ | [ms](/f35/language/ms) | 367 | 367 | 100.0 | /mnt/stockage/packages/f35/desktopfolder/po/ms_MY.po | 
+ | [nl](/f35/language/nl) | 367 | 367 | 100.0 | /mnt/stockage/packages/f35/desktopfolder/po/nl_NL.po | 
+ | [oc](/f35/language/oc) | 367 | 367 | 100.0 | /mnt/stockage/packages/f35/desktopfolder/po/oc.po | 
+ | [pl](/f35/language/pl) | 367 | 367 | 100.0 | /mnt/stockage/packages/f35/desktopfolder/po/pl.po | 
+ | [pt_BR](/f35/language/pt_BR) | 367 | 367 | 100.0 | /mnt/stockage/packages/f35/desktopfolder/po/pt_BR.po | 
+ | [pt_PT](/f35/language/pt_PT) | 367 | 367 | 100.0 | /mnt/stockage/packages/f35/desktopfolder/po/pt_PT.po | 
+ | [zh_Hans](/f35/language/zh_Hans) | 364 | 367 | 99.2 | /mnt/stockage/packages/f35/desktopfolder/po/zh_CN.po | 
+ | [tr](/f35/language/tr) | 359 | 367 | 97.8 | /mnt/stockage/packages/f35/desktopfolder/po/tr.po | 
+ | [ja](/f35/language/ja) | 355 | 367 | 96.7 | /mnt/stockage/packages/f35/desktopfolder/po/ja.po | 
+ | [ro](/f35/language/ro) | 333 | 367 | 90.7 | /mnt/stockage/packages/f35/desktopfolder/po/ro_RO.po | 
+ | [ru](/f35/language/ru) | 294 | 367 | 80.1 | /mnt/stockage/packages/f35/desktopfolder/po/ru.po | 
+ | [fr](/f35/language/fr) | 533 | 734 | 72.6 | /mnt/stockage/packages/f35/desktopfolder/po/fr_FR.po/mnt/stockage/packages/f35/desktopfolder/po/fr.po | 
+ | [bg](/f35/language/bg) | 242 | 367 | 65.9 | /mnt/stockage/packages/f35/desktopfolder/po/bg.po | 
+ | [uk](/f35/language/uk) | 115 | 367 | 31.3 | /mnt/stockage/packages/f35/desktopfolder/po/uk.po | 
 {.sortable}
 
 

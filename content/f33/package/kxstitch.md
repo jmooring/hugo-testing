@@ -18,32 +18,32 @@ The package kxstitch (version 2.1.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f33/language/ca.md" >}}) | 2014 | 2014 | 100.0 | /mnt/stockage/packages/f33/kxstitch/po/ca/kxstitch.po | 
- | [ca@valencia]({{< ref "/f33/language/ca@valencia.md" >}}) | 2014 | 2014 | 100.0 | /mnt/stockage/packages/f33/kxstitch/po/ca@valencia/kxstitch.po | 
- | [en_GB]({{< ref "/f33/language/en_GB.md" >}}) | 2014 | 2014 | 100.0 | /mnt/stockage/packages/f33/kxstitch/po/en_GB/kxstitch.po | 
- | [es]({{< ref "/f33/language/es.md" >}}) | 2014 | 2014 | 100.0 | /mnt/stockage/packages/f33/kxstitch/po/es/kxstitch.po | 
- | [nl]({{< ref "/f33/language/nl.md" >}}) | 2014 | 2014 | 100.0 | /mnt/stockage/packages/f33/kxstitch/po/nl/kxstitch.po | 
- | [nn]({{< ref "/f33/language/nn.md" >}}) | 2014 | 2014 | 100.0 | /mnt/stockage/packages/f33/kxstitch/po/nn/kxstitch.po | 
- | [pl]({{< ref "/f33/language/pl.md" >}}) | 2014 | 2014 | 100.0 | /mnt/stockage/packages/f33/kxstitch/po/pl/kxstitch.po | 
- | [pt]({{< ref "/f33/language/pt.md" >}}) | 2014 | 2014 | 100.0 | /mnt/stockage/packages/f33/kxstitch/po/pt/kxstitch.po | 
- | [sv]({{< ref "/f33/language/sv.md" >}}) | 2014 | 2014 | 100.0 | /mnt/stockage/packages/f33/kxstitch/po/sv/kxstitch.po | 
- | [uk]({{< ref "/f33/language/uk.md" >}}) | 2014 | 2014 | 100.0 | /mnt/stockage/packages/f33/kxstitch/po/uk/kxstitch.po | 
- | [cs]({{< ref "/f33/language/cs.md" >}}) | 1979 | 2014 | 98.3 | /mnt/stockage/packages/f33/kxstitch/po/cs/kxstitch.po | 
- | [et]({{< ref "/f33/language/et.md" >}}) | 1966 | 2014 | 97.6 | /mnt/stockage/packages/f33/kxstitch/po/et/kxstitch.po | 
- | [gl]({{< ref "/f33/language/gl.md" >}}) | 1966 | 2014 | 97.6 | /mnt/stockage/packages/f33/kxstitch/po/gl/kxstitch.po | 
- | [pt_BR]({{< ref "/f33/language/pt_BR.md" >}}) | 1966 | 2014 | 97.6 | /mnt/stockage/packages/f33/kxstitch/po/pt_BR/kxstitch.po | 
- | [sk]({{< ref "/f33/language/sk.md" >}}) | 1966 | 2014 | 97.6 | /mnt/stockage/packages/f33/kxstitch/po/sk/kxstitch.po | 
- | [bs]({{< ref "/f33/language/bs.md" >}}) | 1848 | 2014 | 91.8 | /mnt/stockage/packages/f33/kxstitch/po/bs/kxstitch.po | 
- | [it]({{< ref "/f33/language/it.md" >}}) | 1774 | 2014 | 88.1 | /mnt/stockage/packages/f33/kxstitch/po/it/kxstitch.po | 
- | [fr]({{< ref "/f33/language/fr.md" >}}) | 1749 | 2014 | 86.8 | /mnt/stockage/packages/f33/kxstitch/po/fr/kxstitch.po | 
- | [de]({{< ref "/f33/language/de.md" >}}) | 1195 | 2014 | 59.3 | /mnt/stockage/packages/f33/kxstitch/po/de/kxstitch.po | 
- | [zh_Hans]({{< ref "/f33/language/zh_Hans.md" >}}) | 270 | 2014 | 13.4 | /mnt/stockage/packages/f33/kxstitch/po/zh_CN/kxstitch.po | 
- | [ru]({{< ref "/f33/language/ru.md" >}}) | 133 | 2014 | 6.6 | /mnt/stockage/packages/f33/kxstitch/po/ru/kxstitch.po | 
- | [hu]({{< ref "/f33/language/hu.md" >}}) | 106 | 2014 | 5.3 | /mnt/stockage/packages/f33/kxstitch/po/hu/kxstitch.po | 
- | [ast]({{< ref "/f33/language/ast.md" >}}) | 5 | 2014 | 0.2 | /mnt/stockage/packages/f33/kxstitch/po/ast/kxstitch.po | 
- | [ja]({{< ref "/f33/language/ja.md" >}}) | 0 | 2014 | 0.0 | /mnt/stockage/packages/f33/kxstitch/po/ja/kxstitch.po | 
- | [lt]({{< ref "/f33/language/lt.md" >}}) | 0 | 2014 | 0.0 | /mnt/stockage/packages/f33/kxstitch/po/lt/kxstitch.po | 
- | [zh_Hant]({{< ref "/f33/language/zh_Hant.md" >}}) | 0 | 2014 | 0.0 | /mnt/stockage/packages/f33/kxstitch/po/zh_TW/kxstitch.po | 
+ | [ca](/f33/language/ca) | 2014 | 2014 | 100.0 | /mnt/stockage/packages/f33/kxstitch/po/ca/kxstitch.po | 
+ | [ca@valencia](/f33/language/ca@valencia) | 2014 | 2014 | 100.0 | /mnt/stockage/packages/f33/kxstitch/po/ca@valencia/kxstitch.po | 
+ | [en_GB](/f33/language/en_GB) | 2014 | 2014 | 100.0 | /mnt/stockage/packages/f33/kxstitch/po/en_GB/kxstitch.po | 
+ | [es](/f33/language/es) | 2014 | 2014 | 100.0 | /mnt/stockage/packages/f33/kxstitch/po/es/kxstitch.po | 
+ | [nl](/f33/language/nl) | 2014 | 2014 | 100.0 | /mnt/stockage/packages/f33/kxstitch/po/nl/kxstitch.po | 
+ | [nn](/f33/language/nn) | 2014 | 2014 | 100.0 | /mnt/stockage/packages/f33/kxstitch/po/nn/kxstitch.po | 
+ | [pl](/f33/language/pl) | 2014 | 2014 | 100.0 | /mnt/stockage/packages/f33/kxstitch/po/pl/kxstitch.po | 
+ | [pt](/f33/language/pt) | 2014 | 2014 | 100.0 | /mnt/stockage/packages/f33/kxstitch/po/pt/kxstitch.po | 
+ | [sv](/f33/language/sv) | 2014 | 2014 | 100.0 | /mnt/stockage/packages/f33/kxstitch/po/sv/kxstitch.po | 
+ | [uk](/f33/language/uk) | 2014 | 2014 | 100.0 | /mnt/stockage/packages/f33/kxstitch/po/uk/kxstitch.po | 
+ | [cs](/f33/language/cs) | 1979 | 2014 | 98.3 | /mnt/stockage/packages/f33/kxstitch/po/cs/kxstitch.po | 
+ | [et](/f33/language/et) | 1966 | 2014 | 97.6 | /mnt/stockage/packages/f33/kxstitch/po/et/kxstitch.po | 
+ | [gl](/f33/language/gl) | 1966 | 2014 | 97.6 | /mnt/stockage/packages/f33/kxstitch/po/gl/kxstitch.po | 
+ | [pt_BR](/f33/language/pt_BR) | 1966 | 2014 | 97.6 | /mnt/stockage/packages/f33/kxstitch/po/pt_BR/kxstitch.po | 
+ | [sk](/f33/language/sk) | 1966 | 2014 | 97.6 | /mnt/stockage/packages/f33/kxstitch/po/sk/kxstitch.po | 
+ | [bs](/f33/language/bs) | 1848 | 2014 | 91.8 | /mnt/stockage/packages/f33/kxstitch/po/bs/kxstitch.po | 
+ | [it](/f33/language/it) | 1774 | 2014 | 88.1 | /mnt/stockage/packages/f33/kxstitch/po/it/kxstitch.po | 
+ | [fr](/f33/language/fr) | 1749 | 2014 | 86.8 | /mnt/stockage/packages/f33/kxstitch/po/fr/kxstitch.po | 
+ | [de](/f33/language/de) | 1195 | 2014 | 59.3 | /mnt/stockage/packages/f33/kxstitch/po/de/kxstitch.po | 
+ | [zh_Hans](/f33/language/zh_Hans) | 270 | 2014 | 13.4 | /mnt/stockage/packages/f33/kxstitch/po/zh_CN/kxstitch.po | 
+ | [ru](/f33/language/ru) | 133 | 2014 | 6.6 | /mnt/stockage/packages/f33/kxstitch/po/ru/kxstitch.po | 
+ | [hu](/f33/language/hu) | 106 | 2014 | 5.3 | /mnt/stockage/packages/f33/kxstitch/po/hu/kxstitch.po | 
+ | [ast](/f33/language/ast) | 5 | 2014 | 0.2 | /mnt/stockage/packages/f33/kxstitch/po/ast/kxstitch.po | 
+ | [ja](/f33/language/ja) | 0 | 2014 | 0.0 | /mnt/stockage/packages/f33/kxstitch/po/ja/kxstitch.po | 
+ | [lt](/f33/language/lt) | 0 | 2014 | 0.0 | /mnt/stockage/packages/f33/kxstitch/po/lt/kxstitch.po | 
+ | [zh_Hant](/f33/language/zh_Hant) | 0 | 2014 | 0.0 | /mnt/stockage/packages/f33/kxstitch/po/zh_TW/kxstitch.po | 
 {.sortable}
 
 

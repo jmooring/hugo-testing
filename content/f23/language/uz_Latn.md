@@ -38,12 +38,12 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [garcon]({{< ref "/f23/package/garcon.md" >}}) | 109 | 109 | 100.0 | Uzbek (Latin) (http://www.transifex.com/projects/p/xfce/language/uz@Latn/) | 
- | [xfce4-xkb-plugin]({{< ref "/f23/package/xfce4-xkb-plugin.md" >}}) | 43 | 43 | 100.0 | Uzbek (Latin) (http://www.transifex.com/projects/p/xfce/language/uz@Latn/) | 
- | [uget]({{< ref "/f23/package/uget.md" >}}) | 721 | 1085 | 66.5 | Uzbek (Latin) (http://www.transifex.com/uget/uget/language/uz@Latn/) | 
- | [modem-manager-gui]({{< ref "/f23/package/modem-manager-gui.md" >}}) | 1250 | 3111 | 40.2 | Uzbek (Latin) (http://www.transifex.com/ethereal/modem-manager-gui/language/uz@Latn/) | 
- | [calibre]({{< ref "/f23/package/calibre.md" >}}) | 0 | 151684 | 0.0 | Uzbek (Latin) (http://www.transifex.com/calibre/calibre/language/uz@Latn/) | 
- | [quassel]({{< ref "/f23/package/quassel.md" >}}) | 0 | 5382 | 0.0 | Uzbek (Latin) (http://www.transifex.com/ald/quassel/language/uz@Latn/) | 
+ | [garcon](/f23/package/garcon) | 109 | 109 | 100.0 | Uzbek (Latin) (http://www.transifex.com/projects/p/xfce/language/uz@Latn/) | 
+ | [xfce4-xkb-plugin](/f23/package/xfce4-xkb-plugin) | 43 | 43 | 100.0 | Uzbek (Latin) (http://www.transifex.com/projects/p/xfce/language/uz@Latn/) | 
+ | [uget](/f23/package/uget) | 721 | 1085 | 66.5 | Uzbek (Latin) (http://www.transifex.com/uget/uget/language/uz@Latn/) | 
+ | [modem-manager-gui](/f23/package/modem-manager-gui) | 1250 | 3111 | 40.2 | Uzbek (Latin) (http://www.transifex.com/ethereal/modem-manager-gui/language/uz@Latn/) | 
+ | [calibre](/f23/package/calibre) | 0 | 151684 | 0.0 | Uzbek (Latin) (http://www.transifex.com/calibre/calibre/language/uz@Latn/) | 
+ | [quassel](/f23/package/quassel) | 0 | 5382 | 0.0 | Uzbek (Latin) (http://www.transifex.com/ald/quassel/language/uz@Latn/) | 
 {.sortable}
 
 

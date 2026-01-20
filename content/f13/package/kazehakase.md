@@ -18,12 +18,12 @@ The package kazehakase (version 0.5.8):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f13/language/cs.md" >}}) | 1888 | 1889 | 99.9 | /mnt/stockage/packages/f13/kazehakase/po/cs.po | 
- | [ja]({{< ref "/f13/language/ja.md" >}}) | 1886 | 1889 | 99.8 | /mnt/stockage/packages/f13/kazehakase/po/ja.po | 
- | [nl]({{< ref "/f13/language/nl.md" >}}) | 1835 | 1858 | 98.8 | /mnt/stockage/packages/f13/kazehakase/po/nl.po | 
- | [de]({{< ref "/f13/language/de.md" >}}) | 1851 | 1889 | 98.0 | /mnt/stockage/packages/f13/kazehakase/po/de.po | 
- | [fr]({{< ref "/f13/language/fr.md" >}}) | 1801 | 1889 | 95.3 | /mnt/stockage/packages/f13/kazehakase/po/fr.po | 
- | [ru]({{< ref "/f13/language/ru.md" >}}) | 1737 | 1889 | 92.0 | /mnt/stockage/packages/f13/kazehakase/po/ru.po | 
+ | [cs](/f13/language/cs) | 1888 | 1889 | 99.9 | /mnt/stockage/packages/f13/kazehakase/po/cs.po | 
+ | [ja](/f13/language/ja) | 1886 | 1889 | 99.8 | /mnt/stockage/packages/f13/kazehakase/po/ja.po | 
+ | [nl](/f13/language/nl) | 1835 | 1858 | 98.8 | /mnt/stockage/packages/f13/kazehakase/po/nl.po | 
+ | [de](/f13/language/de) | 1851 | 1889 | 98.0 | /mnt/stockage/packages/f13/kazehakase/po/de.po | 
+ | [fr](/f13/language/fr) | 1801 | 1889 | 95.3 | /mnt/stockage/packages/f13/kazehakase/po/fr.po | 
+ | [ru](/f13/language/ru) | 1737 | 1889 | 92.0 | /mnt/stockage/packages/f13/kazehakase/po/ru.po | 
 {.sortable}
 
 

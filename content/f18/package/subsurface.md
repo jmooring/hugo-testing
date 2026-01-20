@@ -18,26 +18,26 @@ The package subsurface (version 3.1.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [bg]({{< ref "/f18/language/bg.md" >}}) | 1597 | 1597 | 100.0 | /mnt/stockage/packages/f18/subsurface/po/bg_BG.po | 
- | [de]({{< ref "/f18/language/de.md" >}}) | 1597 | 1597 | 100.0 | /mnt/stockage/packages/f18/subsurface/po/de_DE.po | 
- | [de_CH]({{< ref "/f18/language/de_CH.md" >}}) | 1597 | 1597 | 100.0 | /mnt/stockage/packages/f18/subsurface/po/de_CH.po | 
- | [es]({{< ref "/f18/language/es.md" >}}) | 1597 | 1597 | 100.0 | /mnt/stockage/packages/f18/subsurface/po/es_ES.po | 
- | [fi]({{< ref "/f18/language/fi.md" >}}) | 1597 | 1597 | 100.0 | /mnt/stockage/packages/f18/subsurface/po/fi_FI.po | 
- | [fr]({{< ref "/f18/language/fr.md" >}}) | 1597 | 1597 | 100.0 | /mnt/stockage/packages/f18/subsurface/po/fr_FR.po | 
- | [hr]({{< ref "/f18/language/hr.md" >}}) | 1597 | 1597 | 100.0 | /mnt/stockage/packages/f18/subsurface/po/hr_HR.po | 
- | [it]({{< ref "/f18/language/it.md" >}}) | 1597 | 1597 | 100.0 | /mnt/stockage/packages/f18/subsurface/po/it_IT.po | 
- | [nb_NO]({{< ref "/f18/language/nb_NO.md" >}}) | 1597 | 1597 | 100.0 | /mnt/stockage/packages/f18/subsurface/po/nb_NO.po | 
- | [nl]({{< ref "/f18/language/nl.md" >}}) | 1597 | 1597 | 100.0 | /mnt/stockage/packages/f18/subsurface/po/nl_NL.po | 
- | [pl]({{< ref "/f18/language/pl.md" >}}) | 1597 | 1597 | 100.0 | /mnt/stockage/packages/f18/subsurface/po/pl_PL.po | 
- | [pt_PT]({{< ref "/f18/language/pt_PT.md" >}}) | 1597 | 1597 | 100.0 | /mnt/stockage/packages/f18/subsurface/po/pt_PT.po | 
- | [ru]({{< ref "/f18/language/ru.md" >}}) | 1597 | 1597 | 100.0 | /mnt/stockage/packages/f18/subsurface/po/ru_RU.po | 
- | [sv]({{< ref "/f18/language/sv.md" >}}) | 1597 | 1597 | 100.0 | /mnt/stockage/packages/f18/subsurface/po/sv_SE.po | 
- | [vi]({{< ref "/f18/language/vi.md" >}}) | 1597 | 1597 | 100.0 | /mnt/stockage/packages/f18/subsurface/po/vi_VI.po | 
- | [sk]({{< ref "/f18/language/sk.md" >}}) | 1596 | 1597 | 99.9 | /mnt/stockage/packages/f18/subsurface/po/sk_SK.po | 
- | [da]({{< ref "/f18/language/da.md" >}}) | 925 | 1597 | 57.9 | /mnt/stockage/packages/f18/subsurface/po/da_DK.po | 
- | [pt_BR]({{< ref "/f18/language/pt_BR.md" >}}) | 225 | 1597 | 14.1 | /mnt/stockage/packages/f18/subsurface/po/pt_BR.po | 
- | [et]({{< ref "/f18/language/et.md" >}}) | 141 | 1597 | 8.8 | /mnt/stockage/packages/f18/subsurface/po/et_EE.po | 
- | [ca]({{< ref "/f18/language/ca.md" >}}) | 0 | 1597 | 0.0 | /mnt/stockage/packages/f18/subsurface/po/ca_ES.po | 
+ | [bg](/f18/language/bg) | 1597 | 1597 | 100.0 | /mnt/stockage/packages/f18/subsurface/po/bg_BG.po | 
+ | [de](/f18/language/de) | 1597 | 1597 | 100.0 | /mnt/stockage/packages/f18/subsurface/po/de_DE.po | 
+ | [de_CH](/f18/language/de_CH) | 1597 | 1597 | 100.0 | /mnt/stockage/packages/f18/subsurface/po/de_CH.po | 
+ | [es](/f18/language/es) | 1597 | 1597 | 100.0 | /mnt/stockage/packages/f18/subsurface/po/es_ES.po | 
+ | [fi](/f18/language/fi) | 1597 | 1597 | 100.0 | /mnt/stockage/packages/f18/subsurface/po/fi_FI.po | 
+ | [fr](/f18/language/fr) | 1597 | 1597 | 100.0 | /mnt/stockage/packages/f18/subsurface/po/fr_FR.po | 
+ | [hr](/f18/language/hr) | 1597 | 1597 | 100.0 | /mnt/stockage/packages/f18/subsurface/po/hr_HR.po | 
+ | [it](/f18/language/it) | 1597 | 1597 | 100.0 | /mnt/stockage/packages/f18/subsurface/po/it_IT.po | 
+ | [nb_NO](/f18/language/nb_NO) | 1597 | 1597 | 100.0 | /mnt/stockage/packages/f18/subsurface/po/nb_NO.po | 
+ | [nl](/f18/language/nl) | 1597 | 1597 | 100.0 | /mnt/stockage/packages/f18/subsurface/po/nl_NL.po | 
+ | [pl](/f18/language/pl) | 1597 | 1597 | 100.0 | /mnt/stockage/packages/f18/subsurface/po/pl_PL.po | 
+ | [pt_PT](/f18/language/pt_PT) | 1597 | 1597 | 100.0 | /mnt/stockage/packages/f18/subsurface/po/pt_PT.po | 
+ | [ru](/f18/language/ru) | 1597 | 1597 | 100.0 | /mnt/stockage/packages/f18/subsurface/po/ru_RU.po | 
+ | [sv](/f18/language/sv) | 1597 | 1597 | 100.0 | /mnt/stockage/packages/f18/subsurface/po/sv_SE.po | 
+ | [vi](/f18/language/vi) | 1597 | 1597 | 100.0 | /mnt/stockage/packages/f18/subsurface/po/vi_VI.po | 
+ | [sk](/f18/language/sk) | 1596 | 1597 | 99.9 | /mnt/stockage/packages/f18/subsurface/po/sk_SK.po | 
+ | [da](/f18/language/da) | 925 | 1597 | 57.9 | /mnt/stockage/packages/f18/subsurface/po/da_DK.po | 
+ | [pt_BR](/f18/language/pt_BR) | 225 | 1597 | 14.1 | /mnt/stockage/packages/f18/subsurface/po/pt_BR.po | 
+ | [et](/f18/language/et) | 141 | 1597 | 8.8 | /mnt/stockage/packages/f18/subsurface/po/et_EE.po | 
+ | [ca](/f18/language/ca) | 0 | 1597 | 0.0 | /mnt/stockage/packages/f18/subsurface/po/ca_ES.po | 
 {.sortable}
 
 

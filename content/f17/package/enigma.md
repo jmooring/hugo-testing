@@ -18,16 +18,16 @@ The package enigma (version 1.01):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f17/language/de.md" >}}) | 5215 | 5295 | 98.5 | /mnt/stockage/packages/f17/enigma/po/de.po | 
- | [fr]({{< ref "/f17/language/fr.md" >}}) | 5063 | 5295 | 95.6 | /mnt/stockage/packages/f17/enigma/po/fr.po | 
- | [hu]({{< ref "/f17/language/hu.md" >}}) | 5055 | 5295 | 95.5 | /mnt/stockage/packages/f17/enigma/po/hu.po | 
- | [fi]({{< ref "/f17/language/fi.md" >}}) | 5049 | 5295 | 95.4 | /mnt/stockage/packages/f17/enigma/po/fi.po | 
- | [pt]({{< ref "/f17/language/pt.md" >}}) | 4932 | 5295 | 93.1 | /mnt/stockage/packages/f17/enigma/po/pt.po | 
- | [ru]({{< ref "/f17/language/ru.md" >}}) | 4893 | 5295 | 92.4 | /mnt/stockage/packages/f17/enigma/po/ru.po | 
- | [nl]({{< ref "/f17/language/nl.md" >}}) | 4242 | 5295 | 80.1 | /mnt/stockage/packages/f17/enigma/po/nl.po | 
- | [it]({{< ref "/f17/language/it.md" >}}) | 2128 | 5295 | 40.2 | /mnt/stockage/packages/f17/enigma/po/it.po | 
- | [sv]({{< ref "/f17/language/sv.md" >}}) | 2023 | 5295 | 38.2 | /mnt/stockage/packages/f17/enigma/po/sv.po | 
- | [es]({{< ref "/f17/language/es.md" >}}) | 1925 | 5295 | 36.4 | /mnt/stockage/packages/f17/enigma/po/es.po | 
+ | [de](/f17/language/de) | 5215 | 5295 | 98.5 | /mnt/stockage/packages/f17/enigma/po/de.po | 
+ | [fr](/f17/language/fr) | 5063 | 5295 | 95.6 | /mnt/stockage/packages/f17/enigma/po/fr.po | 
+ | [hu](/f17/language/hu) | 5055 | 5295 | 95.5 | /mnt/stockage/packages/f17/enigma/po/hu.po | 
+ | [fi](/f17/language/fi) | 5049 | 5295 | 95.4 | /mnt/stockage/packages/f17/enigma/po/fi.po | 
+ | [pt](/f17/language/pt) | 4932 | 5295 | 93.1 | /mnt/stockage/packages/f17/enigma/po/pt.po | 
+ | [ru](/f17/language/ru) | 4893 | 5295 | 92.4 | /mnt/stockage/packages/f17/enigma/po/ru.po | 
+ | [nl](/f17/language/nl) | 4242 | 5295 | 80.1 | /mnt/stockage/packages/f17/enigma/po/nl.po | 
+ | [it](/f17/language/it) | 2128 | 5295 | 40.2 | /mnt/stockage/packages/f17/enigma/po/it.po | 
+ | [sv](/f17/language/sv) | 2023 | 5295 | 38.2 | /mnt/stockage/packages/f17/enigma/po/sv.po | 
+ | [es](/f17/language/es) | 1925 | 5295 | 36.4 | /mnt/stockage/packages/f17/enigma/po/es.po | 
 {.sortable}
 
 

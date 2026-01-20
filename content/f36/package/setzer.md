@@ -18,8 +18,8 @@ The package setzer (version 0.4.8):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [it]({{< ref "/f36/language/it.md" >}}) | 2716 | 3040 | 89.3 | /mnt/stockage/packages/f36/setzer/po/it.po | 
- | [de]({{< ref "/f36/language/de.md" >}}) | 2195 | 3040 | 72.2 | /mnt/stockage/packages/f36/setzer/po/de.po | 
+ | [it](/f36/language/it) | 2716 | 3040 | 89.3 | /mnt/stockage/packages/f36/setzer/po/it.po | 
+ | [de](/f36/language/de) | 2195 | 3040 | 72.2 | /mnt/stockage/packages/f36/setzer/po/de.po | 
 {.sortable}
 
 

@@ -18,8 +18,8 @@ The package libinfinity (version 0.7.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f30/language/de.md" >}}) | 240 | 5284 | 4.5 | /mnt/stockage/packages/f30/libinfinity/po/de.po | 
- | [ca]({{< ref "/f30/language/ca.md" >}}) | 37 | 5284 | 0.7 | /mnt/stockage/packages/f30/libinfinity/po/ca.po | 
+ | [de](/f30/language/de) | 240 | 5284 | 4.5 | /mnt/stockage/packages/f30/libinfinity/po/de.po | 
+ | [ca](/f30/language/ca) | 37 | 5284 | 0.7 | /mnt/stockage/packages/f30/libinfinity/po/ca.po | 
 {.sortable}
 
 

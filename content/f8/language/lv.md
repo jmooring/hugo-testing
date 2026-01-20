@@ -38,183 +38,183 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [GConf2]({{< ref "/f8/package/GConf2.md" >}}) | 4017 | 4017 | 100.0 | Latvian <locale@laka.lv> | 
- | [NetworkManager]({{< ref "/f8/package/NetworkManager.md" >}}) | 1010 | 1010 | 100.0 | Latvian <locale@laka.lv> | 
- | [alacarte]({{< ref "/f8/package/alacarte.md" >}}) | 74 | 74 | 100.0 | Latvian <locale@laka.lv> | 
- | [alleyoop]({{< ref "/f8/package/alleyoop.md" >}}) | 348 | 348 | 100.0 | Latvian <locale@laka.lv> | 
- | [atk]({{< ref "/f8/package/atk.md" >}}) | 370 | 370 | 100.0 | Latvian <locale@laka.lv> | 
- | [atomix]({{< ref "/f8/package/atomix.md" >}}) | 125 | 125 | 100.0 | Latvian <ll10nt@ttc.lv> | 
- | [beagle]({{< ref "/f8/package/beagle.md" >}}) | 881 | 881 | 100.0 | Latvian <locale@laka.lv> | 
- | [blam]({{< ref "/f8/package/blam.md" >}}) | 330 | 330 | 100.0 | Latvian <locale@laka.lv> | 
- | [bug-buddy]({{< ref "/f8/package/bug-buddy.md" >}}) | 950 | 950 | 100.0 | Latvian <locale@lakalv> | 
- | [control-center]({{< ref "/f8/package/control-center.md" >}}) | 3764 | 3764 | 100.0 | Latvian <locale@laka.lv> | 
- | [dasher]({{< ref "/f8/package/dasher.md" >}}) | 314 | 314 | 100.0 | Latvian <locale@laka.lv> | 
- | [deskbar-applet]({{< ref "/f8/package/deskbar-applet.md" >}}) | 778 | 778 | 100.0 | Latvian <locale@laka.lv> | 
- | [eel2]({{< ref "/f8/package/eel2.md" >}}) | 235 | 235 | 100.0 | Latvian <locale@lakalv> | 
- | [ekiga]({{< ref "/f8/package/ekiga.md" >}}) | 5167 | 5167 | 100.0 | Latvian <locale@laka.lv> | 
- | [eog]({{< ref "/f8/package/eog.md" >}}) | 830 | 830 | 100.0 | Latvian <locale@laka.lv> | 
- | [epiphany]({{< ref "/f8/package/epiphany.md" >}}) | 3966 | 3966 | 100.0 | Latvian <locale@laka.lv> | 
- | [evince]({{< ref "/f8/package/evince.md" >}}) | 946 | 946 | 100.0 | Latvian <locale@lakalv> | 
- | [evolution-data-server]({{< ref "/f8/package/evolution-data-server.md" >}}) | 4985 | 4985 | 100.0 | Latvian <locale@laka.lv> | 
- | [evolution-exchange]({{< ref "/f8/package/evolution-exchange.md" >}}) | 1225 | 1225 | 100.0 | Latvian <locale@laka.lv> | 
- | [evolution-webcal]({{< ref "/f8/package/evolution-webcal.md" >}}) | 184 | 184 | 100.0 | Latvian <locale@laka.lv> | 
- | [fast-user-switch-applet]({{< ref "/f8/package/fast-user-switch-applet.md" >}}) | 1048 | 1048 | 100.0 | Latvian <locale@laka.lv> | 
- | [file-roller]({{< ref "/f8/package/file-roller.md" >}}) | 935 | 935 | 100.0 | Latvian <locale@lakalv> | 
- | [gail]({{< ref "/f8/package/gail.md" >}}) | 170 | 170 | 100.0 | Latvian <locale@laka.lv> | 
- | [galeon]({{< ref "/f8/package/galeon.md" >}}) | 4441 | 4441 | 100.0 | Latvian <ll10nt@os.lv> | 
- | [gcalctool]({{< ref "/f8/package/gcalctool.md" >}}) | 1044 | 1044 | 100.0 | Latvian <locale@lakalv> | 
- | [gconf-editor]({{< ref "/f8/package/gconf-editor.md" >}}) | 329 | 329 | 100.0 | Latvian <locale@laka.lv> | 
- | [gdesklets]({{< ref "/f8/package/gdesklets.md" >}}) | 1390 | 1390 | 100.0 | Latvian <locale@laka.lv> | 
- | [gdm]({{< ref "/f8/package/gdm.md" >}}) | 7377 | 7377 | 100.0 | Latvian <locale@lakalv> | 
- | [gedit]({{< ref "/f8/package/gedit.md" >}}) | 5063 | 5063 | 100.0 | Latvian <locale@laka.lv> | 
- | [gedit-plugins]({{< ref "/f8/package/gedit-plugins.md" >}}) | 3628 | 3628 | 100.0 | Latvian <ll10nt@inbox.lv> | 
- | [ghex]({{< ref "/f8/package/ghex.md" >}}) | 966 | 966 | 100.0 | Latvian <locale@laka.lv> | 
- | [gnome-applets]({{< ref "/f8/package/gnome-applets.md" >}}) | 3838 | 3838 | 100.0 | Latvian <locale@laka.lv> | 
- | [gnome-backgrounds]({{< ref "/f8/package/gnome-backgrounds.md" >}}) | 18 | 18 | 100.0 | Latvian <locale@laka.lv> | 
- | [gnome-bluetooth]({{< ref "/f8/package/gnome-bluetooth.md" >}}) | 365 | 365 | 100.0 | Latvian <locale@laka.lv> | 
- | [gnome-desktop]({{< ref "/f8/package/gnome-desktop.md" >}}) | 330 | 330 | 100.0 | Latvian <locale@laka.lv> | 
- | [gnome-doc-utils]({{< ref "/f8/package/gnome-doc-utils.md" >}}) | 213 | 213 | 100.0 | Latvian <locale@laka.lv> | 
- | [gnome-games]({{< ref "/f8/package/gnome-games.md" >}}) | 7429 | 7429 | 100.0 | Latvian <locale@laka.lv> | 
- | [gnome-icon-theme]({{< ref "/f8/package/gnome-icon-theme.md" >}}) | 53 | 53 | 100.0 | Latvian <locale@laka.lv> | 
- | [gnome-keyring]({{< ref "/f8/package/gnome-keyring.md" >}}) | 711 | 711 | 100.0 | Latvian <locale@laka.lv> | 
- | [gnome-keyring-manager]({{< ref "/f8/package/gnome-keyring-manager.md" >}}) | 284 | 284 | 100.0 | Latvian <locale@laka.lv> | 
- | [gnome-mag]({{< ref "/f8/package/gnome-mag.md" >}}) | 12 | 12 | 100.0 | Latvian <locale@laka.lv> | 
- | [gnome-media]({{< ref "/f8/package/gnome-media.md" >}}) | 1776 | 1776 | 100.0 | Latvian <locale@lakalv> | 
- | [gnome-menus]({{< ref "/f8/package/gnome-menus.md" >}}) | 163 | 163 | 100.0 | Latvian <locale@laka.lv> | 
- | [gnome-mount]({{< ref "/f8/package/gnome-mount.md" >}}) | 790 | 790 | 100.0 | Latvian <locale@laka.lv> | 
- | [gnome-netstatus]({{< ref "/f8/package/gnome-netstatus.md" >}}) | 425 | 425 | 100.0 | Latvian <locale@laka.lv> | 
- | [gnome-nettool]({{< ref "/f8/package/gnome-nettool.md" >}}) | 540 | 540 | 100.0 | Latvian <locale@lakalv> | 
- | [gnome-panel]({{< ref "/f8/package/gnome-panel.md" >}}) | 4090 | 4090 | 100.0 | Latvian <locale@laka.lv> | 
- | [gnome-power-manager]({{< ref "/f8/package/gnome-power-manager.md" >}}) | 2950 | 2950 | 100.0 | Latvian <locale@laka.lv> | 
- | [gnome-screensaver]({{< ref "/f8/package/gnome-screensaver.md" >}}) | 944 | 944 | 100.0 | Latvian <locale@laka.lv> | 
- | [gnome-session]({{< ref "/f8/package/gnome-session.md" >}}) | 643 | 643 | 100.0 | Latvian <locale@laka.lv> | 
- | [gnome-spell]({{< ref "/f8/package/gnome-spell.md" >}}) | 261 | 261 | 100.0 | Latvian <locale@laka.lv> | 
- | [gnome-system-monitor]({{< ref "/f8/package/gnome-system-monitor.md" >}}) | 803 | 803 | 100.0 | Latvian <locale@laka.lv> | 
- | [gnome-terminal]({{< ref "/f8/package/gnome-terminal.md" >}}) | 4599 | 4599 | 100.0 | Latvian <locale@lakalv> | 
- | [gnome-themes]({{< ref "/f8/package/gnome-themes.md" >}}) | 85 | 85 | 100.0 | Latvian <locale@laka.lv> | 
- | [gnome-utils]({{< ref "/f8/package/gnome-utils.md" >}}) | 4139 | 4139 | 100.0 | Latvian <locale@laka.lv> | 
- | [gnome-vfs2]({{< ref "/f8/package/gnome-vfs2.md" >}}) | 1506 | 1506 | 100.0 | Latvian <locale@laka.lv> | 
- | [gnome-volume-manager]({{< ref "/f8/package/gnome-volume-manager.md" >}}) | 1169 | 1169 | 100.0 | Latvian <locale@laka.lv> | 
- | [gnomeradio]({{< ref "/f8/package/gnomeradio.md" >}}) | 443 | 443 | 100.0 | Latvian <ll10nt@os.lv> | 
- | [gok]({{< ref "/f8/package/gok.md" >}}) | 1867 | 1867 | 100.0 | Latvian <locale@laka.lv> | 
- | [gparted]({{< ref "/f8/package/gparted.md" >}}) | 919 | 919 | 100.0 | Latvian <locale@laka.lv> | 
- | [gtkhtml3]({{< ref "/f8/package/gtkhtml3.md" >}}) | 912 | 912 | 100.0 | Latvian <locale@laka.lv> | 
- | [gtkhtml38]({{< ref "/f8/package/gtkhtml38.md" >}}) | 912 | 912 | 100.0 | Latvian <locale@laka.lv> | 
- | [gtksourceview]({{< ref "/f8/package/gtksourceview.md" >}}) | 849 | 849 | 100.0 | Latvian <locale@laka.lv> | 
- | [gtksourceview2]({{< ref "/f8/package/gtksourceview2.md" >}}) | 891 | 891 | 100.0 | Latvian <locale@laka.lv> | 
- | [gucharmap]({{< ref "/f8/package/gucharmap.md" >}}) | 772 | 772 | 100.0 | Latvian <locale@laka.lv> | 
- | [kudzu]({{< ref "/f8/package/kudzu.md" >}}) | 73 | 73 | 100.0 | latvian <locale@laka.lv> | 
- | [libbonobo]({{< ref "/f8/package/libbonobo.md" >}}) | 524 | 524 | 100.0 | Latvian <locale@laka.lv> | 
- | [libbonoboui]({{< ref "/f8/package/libbonoboui.md" >}}) | 361 | 361 | 100.0 | Latvian <locale@laka.lv> | 
- | [libgnome]({{< ref "/f8/package/libgnome.md" >}}) | 1517 | 1517 | 100.0 | Latvian <locale@laka.lv> | 
- | [libgnomecanvas]({{< ref "/f8/package/libgnomecanvas.md" >}}) | 357 | 357 | 100.0 | Latvian <locale@laka.lv> | 
- | [libgnomeprint22]({{< ref "/f8/package/libgnomeprint22.md" >}}) | 168 | 168 | 100.0 | Latvian <locale@laka.lv> | 
- | [libgnomeprintui22]({{< ref "/f8/package/libgnomeprintui22.md" >}}) | 472 | 472 | 100.0 | Latvian <locale@lakalv> | 
- | [libgnomeui]({{< ref "/f8/package/libgnomeui.md" >}}) | 1363 | 1363 | 100.0 | Latvian <locale@laka.lv> | 
- | [libgtop2]({{< ref "/f8/package/libgtop2.md" >}}) | 134 | 134 | 100.0 | Latvian <locale@laka.lv> | 
- | [libwnck]({{< ref "/f8/package/libwnck.md" >}}) | 88 | 88 | 100.0 | Latvian <locale@laka.lv> | 
- | [metacity]({{< ref "/f8/package/metacity.md" >}}) | 7928 | 7928 | 100.0 | Latvian <locale@laka.lv> | 
- | [moin]({{< ref "/f8/package/moin.md" >}}) | 2651 | 2651 | 100.0 |  | 
- | [monkey-bubble]({{< ref "/f8/package/monkey-bubble.md" >}}) | 309 | 309 | 100.0 | Latvian <locale@laka.lv> | 
- | [muine]({{< ref "/f8/package/muine.md" >}}) | 488 | 488 | 100.0 | Latvian <locale@laka.lv> | 
- | [nautilus]({{< ref "/f8/package/nautilus.md" >}}) | 6873 | 6873 | 100.0 | Latvian <locale@laka.lv> | 
- | [nautilus-actions]({{< ref "/f8/package/nautilus-actions.md" >}}) | 1555 | 1555 | 100.0 | Latvian <locale@laka.lv> | 
- | [nautilus-cd-burner]({{< ref "/f8/package/nautilus-cd-burner.md" >}}) | 1306 | 1306 | 100.0 | Latvian <locale@laka.lv> | 
- | [pessulus]({{< ref "/f8/package/pessulus.md" >}}) | 88 | 88 | 100.0 | Latvian <locale@laka.lv> | 
- | [planner]({{< ref "/f8/package/planner.md" >}}) | 1744 | 1744 | 100.0 | Latvian <locale@laka.lv> | 
- | [rhpl]({{< ref "/f8/package/rhpl.md" >}}) | 185 | 185 | 100.0 | latvian <locale@laka.lv> | 
- | [sabayon]({{< ref "/f8/package/sabayon.md" >}}) | 817 | 817 | 100.0 | Latvian <locale@laka.lv> | 
- | [setuptool]({{< ref "/f8/package/setuptool.md" >}}) | 60 | 60 | 100.0 | Latvian <locale@laka.lv> | 
- | [sound-juicer]({{< ref "/f8/package/sound-juicer.md" >}}) | 852 | 852 | 100.0 | Latvian <locale@laka.lv> | 
- | [switchdesk]({{< ref "/f8/package/switchdesk.md" >}}) | 137 | 137 | 100.0 | latvian <locale@laka.lv> | 
- | [system-config-keyboard]({{< ref "/f8/package/system-config-keyboard.md" >}}) | 78 | 78 | 100.0 | latvian <locale@laka.lv> | 
- | [system-config-language]({{< ref "/f8/package/system-config-language.md" >}}) | 45 | 45 | 100.0 | latvian <locale@laka.lv> | 
- | [system-config-nfs]({{< ref "/f8/package/system-config-nfs.md" >}}) | 318 | 318 | 100.0 | Latvian <locale@laka.lv> | 
- | [system-config-rootpassword]({{< ref "/f8/package/system-config-rootpassword.md" >}}) | 50 | 50 | 100.0 | JAST <jast@cc.lv> | 
- | [system-config-services]({{< ref "/f8/package/system-config-services.md" >}}) | 232 | 232 | 100.0 | Latvian <locale@laka.lv> | 
- | [system-config-soundcard]({{< ref "/f8/package/system-config-soundcard.md" >}}) | 224 | 224 | 100.0 | latvian <locale@laka.lv> | 
- | [system-switch-mail]({{< ref "/f8/package/system-switch-mail.md" >}}) | 134 | 134 | 100.0 | JAST <jast@cc.lv> | 
- | [tomboy]({{< ref "/f8/package/tomboy.md" >}}) | 1519 | 1519 | 100.0 | Latvian <locale@laka.lv> | 
- | [totem]({{< ref "/f8/package/totem.md" >}}) | 1817 | 1817 | 100.0 | Latvian <locale@laka.lv> | 
- | [tuxpaint]({{< ref "/f8/package/tuxpaint.md" >}}) | 587 | 587 | 100.0 | Valoda <raivucis@gmail.com> | 
- | [vino]({{< ref "/f8/package/vino.md" >}}) | 871 | 871 | 100.0 | Latvian <locale@laka.lv> | 
- | [vte]({{< ref "/f8/package/vte.md" >}}) | 101 | 101 | 100.0 | Latvian <locale@lakalv> | 
- | [yelp]({{< ref "/f8/package/yelp.md" >}}) | 956 | 956 | 100.0 | Latvian <locale@lakalv> | 
- | [zenity]({{< ref "/f8/package/zenity.md" >}}) | 554 | 554 | 100.0 | Latvian <locale@lakalv> | 
- | [system-config-display]({{< ref "/f8/package/system-config-display.md" >}}) | 394 | 398 | 99.0 | latvian <locale@laka.lv> | 
- | [xmoto]({{< ref "/f8/package/xmoto.md" >}}) | 2601 | 2633 | 98.8 | Latvian | 
- | [banshee]({{< ref "/f8/package/banshee.md" >}}) | 4365 | 4439 | 98.3 | Latvian <locale@laka.lv> | 
- | [evolution]({{< ref "/f8/package/evolution.md" >}}) | 19328 | 19768 | 97.8 | Latvian <locale@laka.lv> | 
- | [poedit]({{< ref "/f8/package/poedit.md" >}}) | 1108 | 1134 | 97.7 | Latvian <ll10nt@os.lv> | 
- | [chkconfig]({{< ref "/f8/package/chkconfig.md" >}}) | 417 | 430 | 97.0 | Latvian <locale@laka.lv> | 
- | [gnome-mime-data]({{< ref "/f8/package/gnome-mime-data.md" >}}) | 797 | 827 | 96.4 | Latvian <ll10nt@os.lv> | 
- | [hwbrowser]({{< ref "/f8/package/hwbrowser.md" >}}) | 111 | 116 | 95.7 | latvian <locale@laka.lv> | 
- | [usermode]({{< ref "/f8/package/usermode.md" >}}) | 538 | 570 | 94.4 | Latvian <locale@laka.lv> | 
- | [redhat-menus]({{< ref "/f8/package/redhat-menus.md" >}}) | 246 | 261 | 94.3 | latvian <locale@laka.lv> | 
- | [f-spot]({{< ref "/f8/package/f-spot.md" >}}) | 2443 | 2677 | 91.3 | Latvian <locale@laka.lv> | 
- | [gnome-libs]({{< ref "/f8/package/gnome-libs.md" >}}) | 988 | 1085 | 91.1 | Latvian <peterisk@apollo.lv> | 
- | [rhythmbox]({{< ref "/f8/package/rhythmbox.md" >}}) | 3504 | 3862 | 90.7 | Latvian <locale@laka.lv> | 
- | [system-config-samba]({{< ref "/f8/package/system-config-samba.md" >}}) | 383 | 423 | 90.5 | JAST <jast@cc.lv> | 
- | [system-config-boot]({{< ref "/f8/package/system-config-boot.md" >}}) | 41 | 46 | 89.1 | latvian <locale@laka.lv> | 
- | [system-config-date]({{< ref "/f8/package/system-config-date.md" >}}) | 855 | 998 | 85.7 | latvian <locale@laka.lv> | 
- | [orca]({{< ref "/f8/package/orca.md" >}}) | 2098 | 2509 | 83.6 | Latvian <locale@laka.lv> | 
- | [firstboot]({{< ref "/f8/package/firstboot.md" >}}) | 499 | 598 | 83.4 | latvian <locale@laka.lv> | 
- | [mc]({{< ref "/f8/package/mc.md" >}}) | 2911 | 3499 | 83.2 | Latvian <hornet@navigators.lv> | 
- | [stellarium]({{< ref "/f8/package/stellarium.md" >}}) | 907 | 1096 | 82.8 | Latvian <lv@li.org> | 
- | [gthumb]({{< ref "/f8/package/gthumb.md" >}}) | 2575 | 3118 | 82.6 | Latvian <locale@laka.lv> | 
- | [ingo]({{< ref "/f8/package/ingo.md" >}}) | 609 | 751 | 81.1 | i18n@lists.horde.org | 
- | [rhgb]({{< ref "/f8/package/rhgb.md" >}}) | 95 | 121 | 78.5 | latvian <locale@laka.lv> | 
- | [gtranslator]({{< ref "/f8/package/gtranslator.md" >}}) | 1105 | 1414 | 78.1 | Latvian <ll10nt@os.lv> | 
- | [abiword]({{< ref "/f8/package/abiword.md" >}}) | 3036 | 4644 | 65.4 | NONE <LL@LL.org> | 
- | [xchm]({{< ref "/f8/package/xchm.md" >}}) | 148 | 227 | 65.2 |  | 
- | [system-config-users]({{< ref "/f8/package/system-config-users.md" >}}) | 771 | 1186 | 65.0 | latvian <locale@laka.lv> | 
- | [Django]({{< ref "/f8/package/Django.md" >}}) | 1445 | 2248 | 64.3 | LANGUAGE <LL@li.org> | 
- | [gtk2]({{< ref "/f8/package/gtk2.md" >}}) | 7435 | 12092 | 61.5 | Latvian <locale@laka.lv> | 
- | [libvirt]({{< ref "/f8/package/libvirt.md" >}}) | 1290 | 2297 | 56.2 | none | 
- | [glib2]({{< ref "/f8/package/glib2.md" >}}) | 732 | 1356 | 54.0 | Latvian <ll10nt@os.lv> | 
- | [system-config-printer]({{< ref "/f8/package/system-config-printer.md" >}}) | 683 | 1285 | 53.2 | Latvian <locale@laka.lv> | 
- | [balsa]({{< ref "/f8/package/balsa.md" >}}) | 2825 | 5348 | 52.8 | Latvian <ll10nt@os.lv> | 
- | [tuxpaint-stamps]({{< ref "/f8/package/tuxpaint-stamps.md" >}}) | 979 | 1908 | 51.3 |  | 
- | [xcdroast]({{< ref "/f8/package/xcdroast.md" >}}) | 4092 | 8044 | 50.9 | <lv@li.org> | 
- | [gnotime]({{< ref "/f8/package/gnotime.md" >}}) | 843 | 1672 | 50.4 | Latvian <peterisk@apollo.lv> | 
- | [anaconda]({{< ref "/f8/package/anaconda.md" >}}) | 5016 | 10203 | 49.2 | Latvian <locale@laka.lv> | 
- | [pgadmin3]({{< ref "/f8/package/pgadmin3.md" >}}) | 3003 | 6195 | 48.5 | pgAdmin Developers <pgadmin-hackers@postgresql.org> | 
- | [filezilla]({{< ref "/f8/package/filezilla.md" >}}) | 2351 | 4974 | 47.3 | Latvian <ssimss@gmail.com> | 
- | [jokosher]({{< ref "/f8/package/jokosher.md" >}}) | 859 | 1931 | 44.5 | Latvian <lv@li.org> | 
- | [deluge]({{< ref "/f8/package/deluge.md" >}}) | 966 | 2269 | 42.6 | Latvian <lv@li.org> | 
- | [xmms]({{< ref "/f8/package/xmms.md" >}}) | 1359 | 3245 | 41.9 | Latvian | 
- | [gnome-build]({{< ref "/f8/package/gnome-build.md" >}}) | 72 | 176 | 40.9 |  | 
- | [im-chooser]({{< ref "/f8/package/im-chooser.md" >}}) | 70 | 172 | 40.7 | none | 
- | [listen]({{< ref "/f8/package/listen.md" >}}) | 229 | 747 | 30.7 | Latvian <lv@li.org> | 
- | [gallery2]({{< ref "/f8/package/gallery2.md" >}}) | 3690 | 13508 | 27.3 | Latvian <gallery-translations@lists.sourceforge.net> | 
- | [dia]({{< ref "/f8/package/dia.md" >}}) | 1361 | 5703 | 23.9 | Latvian <lv@li.org> | 
- | [grass]({{< ref "/f8/package/grass.md" >}}) | 7087 | 31271 | 22.7 | Latvian <translations@grass.itc.it> | 
- | [kronolith]({{< ref "/f8/package/kronolith.md" >}}) | 325 | 1498 | 21.7 | Latvian <ivars@kraslava.lv> | 
- | [glade2]({{< ref "/f8/package/glade2.md" >}}) | 1163 | 5840 | 19.9 | Latvian <ll10nt@os.lv> | 
- | [imp]({{< ref "/f8/package/imp.md" >}}) | 1113 | 5590 | 19.9 | Latvian <i18n@lists.horde.org> | 
- | [system-config-firewall]({{< ref "/f8/package/system-config-firewall.md" >}}) | 309 | 2956 | 10.5 | latvian <locale@laka.lv> | 
- | [compat-wxGTK26]({{< ref "/f8/package/compat-wxGTK26.md" >}}) | 549 | 5334 | 10.3 | wxWidgets translators <wx-translators@wxwindows.org> | 
- | [devhelp]({{< ref "/f8/package/devhelp.md" >}}) | 21 | 209 | 10.0 | Latvian <ll10nt@os.lv> | 
- | [pan]({{< ref "/f8/package/pan.md" >}}) | 220 | 2288 | 9.6 | Latvian <ll10nt@os.lv> | 
- | [wxGTK]({{< ref "/f8/package/wxGTK.md" >}}) | 546 | 6318 | 8.6 | wxWidgets translators <wx-translators@wxwindows.org> | 
- | [wxPython]({{< ref "/f8/package/wxPython.md" >}}) | 546 | 6318 | 8.6 | wxWidgets translators <wx-translators@wxwindows.org> | 
- | [xchat-gnome]({{< ref "/f8/package/xchat-gnome.md" >}}) | 310 | 3901 | 7.9 | Latvian <locale@laka.lv> | 
- | [turba]({{< ref "/f8/package/turba.md" >}}) | 80 | 1252 | 6.4 | Latvian <i18n@lists.horde.org> | 
- | [firestarter]({{< ref "/f8/package/firestarter.md" >}}) | 106 | 1904 | 5.6 | Latvian <ll10nt@os.lv> | 
- | [horde]({{< ref "/f8/package/horde.md" >}}) | 256 | 7041 | 3.6 | Latvian <i18n@lists.horde.org> | 
- | [iso-codes]({{< ref "/f8/package/iso-codes.md" >}}) | 513 | 18216 | 2.8 | Latvian <locale@laka.lv> | 
- | [gnomebaker]({{< ref "/f8/package/gnomebaker.md" >}}) | 23 | 1179 | 2.0 | Latvian <lv@li.org> | 
- | [gnumeric]({{< ref "/f8/package/gnumeric.md" >}}) | 558 | 45738 | 1.2 | Latvian <ll10nt@os.lv> | 
- | [goffice]({{< ref "/f8/package/goffice.md" >}}) | 6 | 3029 | 0.2 | Latvian <ll10nt@os.lv> | 
- | [goffice04]({{< ref "/f8/package/goffice04.md" >}}) | 6 | 3990 | 0.2 | Latvian <ll10nt@os.lv> | 
- | [apcupsd]({{< ref "/f8/package/apcupsd.md" >}}) | 0 | 647 | 0.0 | LANGUAGE <LL@li.org> | 
- | [gourmet]({{< ref "/f8/package/gourmet.md" >}}) | 0 | 3526 | 0.0 | Latvian <lv@li.org> | 
- | [icewm]({{< ref "/f8/package/icewm.md" >}}) | 0 | 0 | 0.0 |  | 
- | [kexec-tools]({{< ref "/f8/package/kexec-tools.md" >}}) | 0 | 132 | 0.0 | LANGUAGE <LL@li.org> | 
- | [policycoreutils]({{< ref "/f8/package/policycoreutils.md" >}}) | 0 | 1214 | 0.0 | LANGUAGE <LL@li.org> | 
- | [pykickstart]({{< ref "/f8/package/pykickstart.md" >}}) | 0 | 284 | 0.0 | LANGUAGE <LL@li.org> | 
- | [setroubleshoot]({{< ref "/f8/package/setroubleshoot.md" >}}) | 0 | 507 | 0.0 | LANGUAGE <LL@li.org> | 
- | [setroubleshoot-plugins]({{< ref "/f8/package/setroubleshoot-plugins.md" >}}) | 0 | 7829 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [GConf2](/f8/package/GConf2) | 4017 | 4017 | 100.0 | Latvian <locale@laka.lv> | 
+ | [NetworkManager](/f8/package/NetworkManager) | 1010 | 1010 | 100.0 | Latvian <locale@laka.lv> | 
+ | [alacarte](/f8/package/alacarte) | 74 | 74 | 100.0 | Latvian <locale@laka.lv> | 
+ | [alleyoop](/f8/package/alleyoop) | 348 | 348 | 100.0 | Latvian <locale@laka.lv> | 
+ | [atk](/f8/package/atk) | 370 | 370 | 100.0 | Latvian <locale@laka.lv> | 
+ | [atomix](/f8/package/atomix) | 125 | 125 | 100.0 | Latvian <ll10nt@ttc.lv> | 
+ | [beagle](/f8/package/beagle) | 881 | 881 | 100.0 | Latvian <locale@laka.lv> | 
+ | [blam](/f8/package/blam) | 330 | 330 | 100.0 | Latvian <locale@laka.lv> | 
+ | [bug-buddy](/f8/package/bug-buddy) | 950 | 950 | 100.0 | Latvian <locale@lakalv> | 
+ | [control-center](/f8/package/control-center) | 3764 | 3764 | 100.0 | Latvian <locale@laka.lv> | 
+ | [dasher](/f8/package/dasher) | 314 | 314 | 100.0 | Latvian <locale@laka.lv> | 
+ | [deskbar-applet](/f8/package/deskbar-applet) | 778 | 778 | 100.0 | Latvian <locale@laka.lv> | 
+ | [eel2](/f8/package/eel2) | 235 | 235 | 100.0 | Latvian <locale@lakalv> | 
+ | [ekiga](/f8/package/ekiga) | 5167 | 5167 | 100.0 | Latvian <locale@laka.lv> | 
+ | [eog](/f8/package/eog) | 830 | 830 | 100.0 | Latvian <locale@laka.lv> | 
+ | [epiphany](/f8/package/epiphany) | 3966 | 3966 | 100.0 | Latvian <locale@laka.lv> | 
+ | [evince](/f8/package/evince) | 946 | 946 | 100.0 | Latvian <locale@lakalv> | 
+ | [evolution-data-server](/f8/package/evolution-data-server) | 4985 | 4985 | 100.0 | Latvian <locale@laka.lv> | 
+ | [evolution-exchange](/f8/package/evolution-exchange) | 1225 | 1225 | 100.0 | Latvian <locale@laka.lv> | 
+ | [evolution-webcal](/f8/package/evolution-webcal) | 184 | 184 | 100.0 | Latvian <locale@laka.lv> | 
+ | [fast-user-switch-applet](/f8/package/fast-user-switch-applet) | 1048 | 1048 | 100.0 | Latvian <locale@laka.lv> | 
+ | [file-roller](/f8/package/file-roller) | 935 | 935 | 100.0 | Latvian <locale@lakalv> | 
+ | [gail](/f8/package/gail) | 170 | 170 | 100.0 | Latvian <locale@laka.lv> | 
+ | [galeon](/f8/package/galeon) | 4441 | 4441 | 100.0 | Latvian <ll10nt@os.lv> | 
+ | [gcalctool](/f8/package/gcalctool) | 1044 | 1044 | 100.0 | Latvian <locale@lakalv> | 
+ | [gconf-editor](/f8/package/gconf-editor) | 329 | 329 | 100.0 | Latvian <locale@laka.lv> | 
+ | [gdesklets](/f8/package/gdesklets) | 1390 | 1390 | 100.0 | Latvian <locale@laka.lv> | 
+ | [gdm](/f8/package/gdm) | 7377 | 7377 | 100.0 | Latvian <locale@lakalv> | 
+ | [gedit](/f8/package/gedit) | 5063 | 5063 | 100.0 | Latvian <locale@laka.lv> | 
+ | [gedit-plugins](/f8/package/gedit-plugins) | 3628 | 3628 | 100.0 | Latvian <ll10nt@inbox.lv> | 
+ | [ghex](/f8/package/ghex) | 966 | 966 | 100.0 | Latvian <locale@laka.lv> | 
+ | [gnome-applets](/f8/package/gnome-applets) | 3838 | 3838 | 100.0 | Latvian <locale@laka.lv> | 
+ | [gnome-backgrounds](/f8/package/gnome-backgrounds) | 18 | 18 | 100.0 | Latvian <locale@laka.lv> | 
+ | [gnome-bluetooth](/f8/package/gnome-bluetooth) | 365 | 365 | 100.0 | Latvian <locale@laka.lv> | 
+ | [gnome-desktop](/f8/package/gnome-desktop) | 330 | 330 | 100.0 | Latvian <locale@laka.lv> | 
+ | [gnome-doc-utils](/f8/package/gnome-doc-utils) | 213 | 213 | 100.0 | Latvian <locale@laka.lv> | 
+ | [gnome-games](/f8/package/gnome-games) | 7429 | 7429 | 100.0 | Latvian <locale@laka.lv> | 
+ | [gnome-icon-theme](/f8/package/gnome-icon-theme) | 53 | 53 | 100.0 | Latvian <locale@laka.lv> | 
+ | [gnome-keyring](/f8/package/gnome-keyring) | 711 | 711 | 100.0 | Latvian <locale@laka.lv> | 
+ | [gnome-keyring-manager](/f8/package/gnome-keyring-manager) | 284 | 284 | 100.0 | Latvian <locale@laka.lv> | 
+ | [gnome-mag](/f8/package/gnome-mag) | 12 | 12 | 100.0 | Latvian <locale@laka.lv> | 
+ | [gnome-media](/f8/package/gnome-media) | 1776 | 1776 | 100.0 | Latvian <locale@lakalv> | 
+ | [gnome-menus](/f8/package/gnome-menus) | 163 | 163 | 100.0 | Latvian <locale@laka.lv> | 
+ | [gnome-mount](/f8/package/gnome-mount) | 790 | 790 | 100.0 | Latvian <locale@laka.lv> | 
+ | [gnome-netstatus](/f8/package/gnome-netstatus) | 425 | 425 | 100.0 | Latvian <locale@laka.lv> | 
+ | [gnome-nettool](/f8/package/gnome-nettool) | 540 | 540 | 100.0 | Latvian <locale@lakalv> | 
+ | [gnome-panel](/f8/package/gnome-panel) | 4090 | 4090 | 100.0 | Latvian <locale@laka.lv> | 
+ | [gnome-power-manager](/f8/package/gnome-power-manager) | 2950 | 2950 | 100.0 | Latvian <locale@laka.lv> | 
+ | [gnome-screensaver](/f8/package/gnome-screensaver) | 944 | 944 | 100.0 | Latvian <locale@laka.lv> | 
+ | [gnome-session](/f8/package/gnome-session) | 643 | 643 | 100.0 | Latvian <locale@laka.lv> | 
+ | [gnome-spell](/f8/package/gnome-spell) | 261 | 261 | 100.0 | Latvian <locale@laka.lv> | 
+ | [gnome-system-monitor](/f8/package/gnome-system-monitor) | 803 | 803 | 100.0 | Latvian <locale@laka.lv> | 
+ | [gnome-terminal](/f8/package/gnome-terminal) | 4599 | 4599 | 100.0 | Latvian <locale@lakalv> | 
+ | [gnome-themes](/f8/package/gnome-themes) | 85 | 85 | 100.0 | Latvian <locale@laka.lv> | 
+ | [gnome-utils](/f8/package/gnome-utils) | 4139 | 4139 | 100.0 | Latvian <locale@laka.lv> | 
+ | [gnome-vfs2](/f8/package/gnome-vfs2) | 1506 | 1506 | 100.0 | Latvian <locale@laka.lv> | 
+ | [gnome-volume-manager](/f8/package/gnome-volume-manager) | 1169 | 1169 | 100.0 | Latvian <locale@laka.lv> | 
+ | [gnomeradio](/f8/package/gnomeradio) | 443 | 443 | 100.0 | Latvian <ll10nt@os.lv> | 
+ | [gok](/f8/package/gok) | 1867 | 1867 | 100.0 | Latvian <locale@laka.lv> | 
+ | [gparted](/f8/package/gparted) | 919 | 919 | 100.0 | Latvian <locale@laka.lv> | 
+ | [gtkhtml3](/f8/package/gtkhtml3) | 912 | 912 | 100.0 | Latvian <locale@laka.lv> | 
+ | [gtkhtml38](/f8/package/gtkhtml38) | 912 | 912 | 100.0 | Latvian <locale@laka.lv> | 
+ | [gtksourceview](/f8/package/gtksourceview) | 849 | 849 | 100.0 | Latvian <locale@laka.lv> | 
+ | [gtksourceview2](/f8/package/gtksourceview2) | 891 | 891 | 100.0 | Latvian <locale@laka.lv> | 
+ | [gucharmap](/f8/package/gucharmap) | 772 | 772 | 100.0 | Latvian <locale@laka.lv> | 
+ | [kudzu](/f8/package/kudzu) | 73 | 73 | 100.0 | latvian <locale@laka.lv> | 
+ | [libbonobo](/f8/package/libbonobo) | 524 | 524 | 100.0 | Latvian <locale@laka.lv> | 
+ | [libbonoboui](/f8/package/libbonoboui) | 361 | 361 | 100.0 | Latvian <locale@laka.lv> | 
+ | [libgnome](/f8/package/libgnome) | 1517 | 1517 | 100.0 | Latvian <locale@laka.lv> | 
+ | [libgnomecanvas](/f8/package/libgnomecanvas) | 357 | 357 | 100.0 | Latvian <locale@laka.lv> | 
+ | [libgnomeprint22](/f8/package/libgnomeprint22) | 168 | 168 | 100.0 | Latvian <locale@laka.lv> | 
+ | [libgnomeprintui22](/f8/package/libgnomeprintui22) | 472 | 472 | 100.0 | Latvian <locale@lakalv> | 
+ | [libgnomeui](/f8/package/libgnomeui) | 1363 | 1363 | 100.0 | Latvian <locale@laka.lv> | 
+ | [libgtop2](/f8/package/libgtop2) | 134 | 134 | 100.0 | Latvian <locale@laka.lv> | 
+ | [libwnck](/f8/package/libwnck) | 88 | 88 | 100.0 | Latvian <locale@laka.lv> | 
+ | [metacity](/f8/package/metacity) | 7928 | 7928 | 100.0 | Latvian <locale@laka.lv> | 
+ | [moin](/f8/package/moin) | 2651 | 2651 | 100.0 |  | 
+ | [monkey-bubble](/f8/package/monkey-bubble) | 309 | 309 | 100.0 | Latvian <locale@laka.lv> | 
+ | [muine](/f8/package/muine) | 488 | 488 | 100.0 | Latvian <locale@laka.lv> | 
+ | [nautilus](/f8/package/nautilus) | 6873 | 6873 | 100.0 | Latvian <locale@laka.lv> | 
+ | [nautilus-actions](/f8/package/nautilus-actions) | 1555 | 1555 | 100.0 | Latvian <locale@laka.lv> | 
+ | [nautilus-cd-burner](/f8/package/nautilus-cd-burner) | 1306 | 1306 | 100.0 | Latvian <locale@laka.lv> | 
+ | [pessulus](/f8/package/pessulus) | 88 | 88 | 100.0 | Latvian <locale@laka.lv> | 
+ | [planner](/f8/package/planner) | 1744 | 1744 | 100.0 | Latvian <locale@laka.lv> | 
+ | [rhpl](/f8/package/rhpl) | 185 | 185 | 100.0 | latvian <locale@laka.lv> | 
+ | [sabayon](/f8/package/sabayon) | 817 | 817 | 100.0 | Latvian <locale@laka.lv> | 
+ | [setuptool](/f8/package/setuptool) | 60 | 60 | 100.0 | Latvian <locale@laka.lv> | 
+ | [sound-juicer](/f8/package/sound-juicer) | 852 | 852 | 100.0 | Latvian <locale@laka.lv> | 
+ | [switchdesk](/f8/package/switchdesk) | 137 | 137 | 100.0 | latvian <locale@laka.lv> | 
+ | [system-config-keyboard](/f8/package/system-config-keyboard) | 78 | 78 | 100.0 | latvian <locale@laka.lv> | 
+ | [system-config-language](/f8/package/system-config-language) | 45 | 45 | 100.0 | latvian <locale@laka.lv> | 
+ | [system-config-nfs](/f8/package/system-config-nfs) | 318 | 318 | 100.0 | Latvian <locale@laka.lv> | 
+ | [system-config-rootpassword](/f8/package/system-config-rootpassword) | 50 | 50 | 100.0 | JAST <jast@cc.lv> | 
+ | [system-config-services](/f8/package/system-config-services) | 232 | 232 | 100.0 | Latvian <locale@laka.lv> | 
+ | [system-config-soundcard](/f8/package/system-config-soundcard) | 224 | 224 | 100.0 | latvian <locale@laka.lv> | 
+ | [system-switch-mail](/f8/package/system-switch-mail) | 134 | 134 | 100.0 | JAST <jast@cc.lv> | 
+ | [tomboy](/f8/package/tomboy) | 1519 | 1519 | 100.0 | Latvian <locale@laka.lv> | 
+ | [totem](/f8/package/totem) | 1817 | 1817 | 100.0 | Latvian <locale@laka.lv> | 
+ | [tuxpaint](/f8/package/tuxpaint) | 587 | 587 | 100.0 | Valoda <raivucis@gmail.com> | 
+ | [vino](/f8/package/vino) | 871 | 871 | 100.0 | Latvian <locale@laka.lv> | 
+ | [vte](/f8/package/vte) | 101 | 101 | 100.0 | Latvian <locale@lakalv> | 
+ | [yelp](/f8/package/yelp) | 956 | 956 | 100.0 | Latvian <locale@lakalv> | 
+ | [zenity](/f8/package/zenity) | 554 | 554 | 100.0 | Latvian <locale@lakalv> | 
+ | [system-config-display](/f8/package/system-config-display) | 394 | 398 | 99.0 | latvian <locale@laka.lv> | 
+ | [xmoto](/f8/package/xmoto) | 2601 | 2633 | 98.8 | Latvian | 
+ | [banshee](/f8/package/banshee) | 4365 | 4439 | 98.3 | Latvian <locale@laka.lv> | 
+ | [evolution](/f8/package/evolution) | 19328 | 19768 | 97.8 | Latvian <locale@laka.lv> | 
+ | [poedit](/f8/package/poedit) | 1108 | 1134 | 97.7 | Latvian <ll10nt@os.lv> | 
+ | [chkconfig](/f8/package/chkconfig) | 417 | 430 | 97.0 | Latvian <locale@laka.lv> | 
+ | [gnome-mime-data](/f8/package/gnome-mime-data) | 797 | 827 | 96.4 | Latvian <ll10nt@os.lv> | 
+ | [hwbrowser](/f8/package/hwbrowser) | 111 | 116 | 95.7 | latvian <locale@laka.lv> | 
+ | [usermode](/f8/package/usermode) | 538 | 570 | 94.4 | Latvian <locale@laka.lv> | 
+ | [redhat-menus](/f8/package/redhat-menus) | 246 | 261 | 94.3 | latvian <locale@laka.lv> | 
+ | [f-spot](/f8/package/f-spot) | 2443 | 2677 | 91.3 | Latvian <locale@laka.lv> | 
+ | [gnome-libs](/f8/package/gnome-libs) | 988 | 1085 | 91.1 | Latvian <peterisk@apollo.lv> | 
+ | [rhythmbox](/f8/package/rhythmbox) | 3504 | 3862 | 90.7 | Latvian <locale@laka.lv> | 
+ | [system-config-samba](/f8/package/system-config-samba) | 383 | 423 | 90.5 | JAST <jast@cc.lv> | 
+ | [system-config-boot](/f8/package/system-config-boot) | 41 | 46 | 89.1 | latvian <locale@laka.lv> | 
+ | [system-config-date](/f8/package/system-config-date) | 855 | 998 | 85.7 | latvian <locale@laka.lv> | 
+ | [orca](/f8/package/orca) | 2098 | 2509 | 83.6 | Latvian <locale@laka.lv> | 
+ | [firstboot](/f8/package/firstboot) | 499 | 598 | 83.4 | latvian <locale@laka.lv> | 
+ | [mc](/f8/package/mc) | 2911 | 3499 | 83.2 | Latvian <hornet@navigators.lv> | 
+ | [stellarium](/f8/package/stellarium) | 907 | 1096 | 82.8 | Latvian <lv@li.org> | 
+ | [gthumb](/f8/package/gthumb) | 2575 | 3118 | 82.6 | Latvian <locale@laka.lv> | 
+ | [ingo](/f8/package/ingo) | 609 | 751 | 81.1 | i18n@lists.horde.org | 
+ | [rhgb](/f8/package/rhgb) | 95 | 121 | 78.5 | latvian <locale@laka.lv> | 
+ | [gtranslator](/f8/package/gtranslator) | 1105 | 1414 | 78.1 | Latvian <ll10nt@os.lv> | 
+ | [abiword](/f8/package/abiword) | 3036 | 4644 | 65.4 | NONE <LL@LL.org> | 
+ | [xchm](/f8/package/xchm) | 148 | 227 | 65.2 |  | 
+ | [system-config-users](/f8/package/system-config-users) | 771 | 1186 | 65.0 | latvian <locale@laka.lv> | 
+ | [Django](/f8/package/Django) | 1445 | 2248 | 64.3 | LANGUAGE <LL@li.org> | 
+ | [gtk2](/f8/package/gtk2) | 7435 | 12092 | 61.5 | Latvian <locale@laka.lv> | 
+ | [libvirt](/f8/package/libvirt) | 1290 | 2297 | 56.2 | none | 
+ | [glib2](/f8/package/glib2) | 732 | 1356 | 54.0 | Latvian <ll10nt@os.lv> | 
+ | [system-config-printer](/f8/package/system-config-printer) | 683 | 1285 | 53.2 | Latvian <locale@laka.lv> | 
+ | [balsa](/f8/package/balsa) | 2825 | 5348 | 52.8 | Latvian <ll10nt@os.lv> | 
+ | [tuxpaint-stamps](/f8/package/tuxpaint-stamps) | 979 | 1908 | 51.3 |  | 
+ | [xcdroast](/f8/package/xcdroast) | 4092 | 8044 | 50.9 | <lv@li.org> | 
+ | [gnotime](/f8/package/gnotime) | 843 | 1672 | 50.4 | Latvian <peterisk@apollo.lv> | 
+ | [anaconda](/f8/package/anaconda) | 5016 | 10203 | 49.2 | Latvian <locale@laka.lv> | 
+ | [pgadmin3](/f8/package/pgadmin3) | 3003 | 6195 | 48.5 | pgAdmin Developers <pgadmin-hackers@postgresql.org> | 
+ | [filezilla](/f8/package/filezilla) | 2351 | 4974 | 47.3 | Latvian <ssimss@gmail.com> | 
+ | [jokosher](/f8/package/jokosher) | 859 | 1931 | 44.5 | Latvian <lv@li.org> | 
+ | [deluge](/f8/package/deluge) | 966 | 2269 | 42.6 | Latvian <lv@li.org> | 
+ | [xmms](/f8/package/xmms) | 1359 | 3245 | 41.9 | Latvian | 
+ | [gnome-build](/f8/package/gnome-build) | 72 | 176 | 40.9 |  | 
+ | [im-chooser](/f8/package/im-chooser) | 70 | 172 | 40.7 | none | 
+ | [listen](/f8/package/listen) | 229 | 747 | 30.7 | Latvian <lv@li.org> | 
+ | [gallery2](/f8/package/gallery2) | 3690 | 13508 | 27.3 | Latvian <gallery-translations@lists.sourceforge.net> | 
+ | [dia](/f8/package/dia) | 1361 | 5703 | 23.9 | Latvian <lv@li.org> | 
+ | [grass](/f8/package/grass) | 7087 | 31271 | 22.7 | Latvian <translations@grass.itc.it> | 
+ | [kronolith](/f8/package/kronolith) | 325 | 1498 | 21.7 | Latvian <ivars@kraslava.lv> | 
+ | [glade2](/f8/package/glade2) | 1163 | 5840 | 19.9 | Latvian <ll10nt@os.lv> | 
+ | [imp](/f8/package/imp) | 1113 | 5590 | 19.9 | Latvian <i18n@lists.horde.org> | 
+ | [system-config-firewall](/f8/package/system-config-firewall) | 309 | 2956 | 10.5 | latvian <locale@laka.lv> | 
+ | [compat-wxGTK26](/f8/package/compat-wxGTK26) | 549 | 5334 | 10.3 | wxWidgets translators <wx-translators@wxwindows.org> | 
+ | [devhelp](/f8/package/devhelp) | 21 | 209 | 10.0 | Latvian <ll10nt@os.lv> | 
+ | [pan](/f8/package/pan) | 220 | 2288 | 9.6 | Latvian <ll10nt@os.lv> | 
+ | [wxGTK](/f8/package/wxGTK) | 546 | 6318 | 8.6 | wxWidgets translators <wx-translators@wxwindows.org> | 
+ | [wxPython](/f8/package/wxPython) | 546 | 6318 | 8.6 | wxWidgets translators <wx-translators@wxwindows.org> | 
+ | [xchat-gnome](/f8/package/xchat-gnome) | 310 | 3901 | 7.9 | Latvian <locale@laka.lv> | 
+ | [turba](/f8/package/turba) | 80 | 1252 | 6.4 | Latvian <i18n@lists.horde.org> | 
+ | [firestarter](/f8/package/firestarter) | 106 | 1904 | 5.6 | Latvian <ll10nt@os.lv> | 
+ | [horde](/f8/package/horde) | 256 | 7041 | 3.6 | Latvian <i18n@lists.horde.org> | 
+ | [iso-codes](/f8/package/iso-codes) | 513 | 18216 | 2.8 | Latvian <locale@laka.lv> | 
+ | [gnomebaker](/f8/package/gnomebaker) | 23 | 1179 | 2.0 | Latvian <lv@li.org> | 
+ | [gnumeric](/f8/package/gnumeric) | 558 | 45738 | 1.2 | Latvian <ll10nt@os.lv> | 
+ | [goffice](/f8/package/goffice) | 6 | 3029 | 0.2 | Latvian <ll10nt@os.lv> | 
+ | [goffice04](/f8/package/goffice04) | 6 | 3990 | 0.2 | Latvian <ll10nt@os.lv> | 
+ | [apcupsd](/f8/package/apcupsd) | 0 | 647 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [gourmet](/f8/package/gourmet) | 0 | 3526 | 0.0 | Latvian <lv@li.org> | 
+ | [icewm](/f8/package/icewm) | 0 | 0 | 0.0 |  | 
+ | [kexec-tools](/f8/package/kexec-tools) | 0 | 132 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [policycoreutils](/f8/package/policycoreutils) | 0 | 1214 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [pykickstart](/f8/package/pykickstart) | 0 | 284 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [setroubleshoot](/f8/package/setroubleshoot) | 0 | 507 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [setroubleshoot-plugins](/f8/package/setroubleshoot-plugins) | 0 | 7829 | 0.0 | LANGUAGE <LL@li.org> | 
 {.sortable}
 
 
@@ -226,8 +226,8 @@ We use the po metadata to get the language code and the team, but sometimes it f
 
 | Package | Lang from file path/name | polib error | Team |
 |---------|--------------------------|-------------|------|
- | [gnome-build]({{< ref "/f8/package/gnome-build.md" >}}) | /mnt/stockage/packages/f8/gnome-build/po/lv.po | error-unicode |  | 
- | [moin]({{< ref "/f8/package/moin.md" >}}) | /mnt/stockage/packages/f8/moin/MoinMoin/i18n/lv.po | error-os |  | 
+ | [gnome-build](/f8/package/gnome-build) | /mnt/stockage/packages/f8/gnome-build/po/lv.po | error-unicode |  | 
+ | [moin](/f8/package/moin) | /mnt/stockage/packages/f8/moin/MoinMoin/i18n/lv.po | error-os |  | 
 {.sortable}
 
 
@@ -238,7 +238,7 @@ We use the calcstats from translate toolkit to get the translation progress, but
 
 | Package | Lang from file path/name | Team |
 |---------|--------------------------|------|
- | [icewm]({{< ref "/f8/package/icewm.md" >}}) | /mnt/stockage/packages/f8/icewm/po/lv.po |  | 
+ | [icewm](/f8/package/icewm) | /mnt/stockage/packages/f8/icewm/po/lv.po |  | 
 {.sortable}
 
 

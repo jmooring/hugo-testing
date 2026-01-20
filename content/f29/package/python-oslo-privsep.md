@@ -18,8 +18,8 @@ The package python-oslo-privsep (version 1.13.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f29/language/de.md" >}}) | 68 | 68 | 100.0 | /mnt/stockage/packages/f29/python-oslo-privsep/oslo_privsep/locale/de/LC_MESSAGES/oslo_privsep-log-warning.po/mnt/stockage/packages/f29/python-oslo-privsep/oslo_privsep/locale/de/LC_MESSAGES/oslo_privsep.po | 
- | [en_GB]({{< ref "/f29/language/en_GB.md" >}}) | 165 | 165 | 100.0 | /mnt/stockage/packages/f29/python-oslo-privsep/oslo_privsep/locale/en_GB/LC_MESSAGES/oslo_privsep-log-warning.po/mnt/stockage/packages/f29/python-oslo-privsep/oslo_privsep/locale/en_GB/LC_MESSAGES/oslo_privsep.po/mnt/stockage/packages/f29/python-oslo-privsep/oslo_privsep/locale/en_GB/LC_MESSAGES/oslo_privsep-log-error.po/mnt/stockage/packages/f29/python-oslo-privsep/oslo_privsep/locale/en_GB/LC_MESSAGES/oslo_privsep-log-info.po | 
+ | [de](/f29/language/de) | 68 | 68 | 100.0 | /mnt/stockage/packages/f29/python-oslo-privsep/oslo_privsep/locale/de/LC_MESSAGES/oslo_privsep-log-warning.po/mnt/stockage/packages/f29/python-oslo-privsep/oslo_privsep/locale/de/LC_MESSAGES/oslo_privsep.po | 
+ | [en_GB](/f29/language/en_GB) | 165 | 165 | 100.0 | /mnt/stockage/packages/f29/python-oslo-privsep/oslo_privsep/locale/en_GB/LC_MESSAGES/oslo_privsep-log-warning.po/mnt/stockage/packages/f29/python-oslo-privsep/oslo_privsep/locale/en_GB/LC_MESSAGES/oslo_privsep.po/mnt/stockage/packages/f29/python-oslo-privsep/oslo_privsep/locale/en_GB/LC_MESSAGES/oslo_privsep-log-error.po/mnt/stockage/packages/f29/python-oslo-privsep/oslo_privsep/locale/en_GB/LC_MESSAGES/oslo_privsep-log-info.po | 
 {.sortable}
 
 

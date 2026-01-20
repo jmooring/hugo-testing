@@ -18,57 +18,57 @@ The package kamera (version 18.12.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f30/language/ca.md" >}}) | 347 | 347 | 100.0 | /mnt/stockage/packages/f30/kamera/po/ca/kcmkamera.po/mnt/stockage/packages/f30/kamera/po/ca/kio5_kamera.po | 
- | [ca@valencia]({{< ref "/f30/language/ca@valencia.md" >}}) | 347 | 347 | 100.0 | /mnt/stockage/packages/f30/kamera/po/ca@valencia/kcmkamera.po/mnt/stockage/packages/f30/kamera/po/ca@valencia/kio5_kamera.po | 
- | [cs]({{< ref "/f30/language/cs.md" >}}) | 347 | 347 | 100.0 | /mnt/stockage/packages/f30/kamera/po/cs/kcmkamera.po/mnt/stockage/packages/f30/kamera/po/cs/kio5_kamera.po | 
- | [da]({{< ref "/f30/language/da.md" >}}) | 342 | 342 | 100.0 | /mnt/stockage/packages/f30/kamera/po/da/kcmkamera.po | 
- | [de]({{< ref "/f30/language/de.md" >}}) | 347 | 347 | 100.0 | /mnt/stockage/packages/f30/kamera/po/de/kcmkamera.po/mnt/stockage/packages/f30/kamera/po/de/kio5_kamera.po | 
- | [el]({{< ref "/f30/language/el.md" >}}) | 342 | 342 | 100.0 | /mnt/stockage/packages/f30/kamera/po/el/kcmkamera.po | 
- | [en_GB]({{< ref "/f30/language/en_GB.md" >}}) | 347 | 347 | 100.0 | /mnt/stockage/packages/f30/kamera/po/en_GB/kcmkamera.po/mnt/stockage/packages/f30/kamera/po/en_GB/kio5_kamera.po | 
- | [es]({{< ref "/f30/language/es.md" >}}) | 347 | 347 | 100.0 | /mnt/stockage/packages/f30/kamera/po/es/kcmkamera.po/mnt/stockage/packages/f30/kamera/po/es/kio5_kamera.po | 
- | [et]({{< ref "/f30/language/et.md" >}}) | 342 | 342 | 100.0 | /mnt/stockage/packages/f30/kamera/po/et/kcmkamera.po | 
- | [eu]({{< ref "/f30/language/eu.md" >}}) | 342 | 342 | 100.0 | /mnt/stockage/packages/f30/kamera/po/eu/kcmkamera.po | 
- | [fi]({{< ref "/f30/language/fi.md" >}}) | 342 | 342 | 100.0 | /mnt/stockage/packages/f30/kamera/po/fi/kcmkamera.po | 
- | [fr]({{< ref "/f30/language/fr.md" >}}) | 347 | 347 | 100.0 | /mnt/stockage/packages/f30/kamera/po/fr/kcmkamera.po/mnt/stockage/packages/f30/kamera/po/fr/kio5_kamera.po | 
- | [gl]({{< ref "/f30/language/gl.md" >}}) | 347 | 347 | 100.0 | /mnt/stockage/packages/f30/kamera/po/gl/kcmkamera.po/mnt/stockage/packages/f30/kamera/po/gl/kio5_kamera.po | 
- | [ia]({{< ref "/f30/language/ia.md" >}}) | 342 | 342 | 100.0 | /mnt/stockage/packages/f30/kamera/po/ia/kcmkamera.po | 
- | [is]({{< ref "/f30/language/is.md" >}}) | 342 | 342 | 100.0 | /mnt/stockage/packages/f30/kamera/po/is/kcmkamera.po | 
- | [it]({{< ref "/f30/language/it.md" >}}) | 347 | 347 | 100.0 | /mnt/stockage/packages/f30/kamera/po/it/kcmkamera.po/mnt/stockage/packages/f30/kamera/po/it/kio5_kamera.po | 
- | [ja]({{< ref "/f30/language/ja.md" >}}) | 342 | 342 | 100.0 | /mnt/stockage/packages/f30/kamera/po/ja/kcmkamera.po | 
- | [nb_NO]({{< ref "/f30/language/nb_NO.md" >}}) | 342 | 342 | 100.0 | /mnt/stockage/packages/f30/kamera/po/nb/kcmkamera.po | 
- | [nl]({{< ref "/f30/language/nl.md" >}}) | 347 | 347 | 100.0 | /mnt/stockage/packages/f30/kamera/po/nl/kcmkamera.po/mnt/stockage/packages/f30/kamera/po/nl/kio5_kamera.po | 
- | [nn]({{< ref "/f30/language/nn.md" >}}) | 347 | 347 | 100.0 | /mnt/stockage/packages/f30/kamera/po/nn/kcmkamera.po/mnt/stockage/packages/f30/kamera/po/nn/kio5_kamera.po | 
- | [pl]({{< ref "/f30/language/pl.md" >}}) | 347 | 347 | 100.0 | /mnt/stockage/packages/f30/kamera/po/pl/kcmkamera.po/mnt/stockage/packages/f30/kamera/po/pl/kio5_kamera.po | 
- | [pt]({{< ref "/f30/language/pt.md" >}}) | 347 | 347 | 100.0 | /mnt/stockage/packages/f30/kamera/po/pt/kcmkamera.po/mnt/stockage/packages/f30/kamera/po/pt/kio5_kamera.po | 
- | [pt_BR]({{< ref "/f30/language/pt_BR.md" >}}) | 347 | 347 | 100.0 | /mnt/stockage/packages/f30/kamera/po/pt_BR/kcmkamera.po/mnt/stockage/packages/f30/kamera/po/pt_BR/kio5_kamera.po | 
- | [ru]({{< ref "/f30/language/ru.md" >}}) | 347 | 347 | 100.0 | /mnt/stockage/packages/f30/kamera/po/ru/kcmkamera.po/mnt/stockage/packages/f30/kamera/po/ru/kio5_kamera.po | 
- | [sk]({{< ref "/f30/language/sk.md" >}}) | 347 | 347 | 100.0 | /mnt/stockage/packages/f30/kamera/po/sk/kcmkamera.po/mnt/stockage/packages/f30/kamera/po/sk/kio5_kamera.po | 
- | [sl]({{< ref "/f30/language/sl.md" >}}) | 342 | 342 | 100.0 | /mnt/stockage/packages/f30/kamera/po/sl/kcmkamera.po | 
- | [sv]({{< ref "/f30/language/sv.md" >}}) | 347 | 347 | 100.0 | /mnt/stockage/packages/f30/kamera/po/sv/kcmkamera.po/mnt/stockage/packages/f30/kamera/po/sv/kio5_kamera.po | 
- | [tr]({{< ref "/f30/language/tr.md" >}}) | 342 | 342 | 100.0 | /mnt/stockage/packages/f30/kamera/po/tr/kcmkamera.po | 
- | [uk]({{< ref "/f30/language/uk.md" >}}) | 347 | 347 | 100.0 | /mnt/stockage/packages/f30/kamera/po/uk/kcmkamera.po/mnt/stockage/packages/f30/kamera/po/uk/kio5_kamera.po | 
- | [zh_Hans]({{< ref "/f30/language/zh_Hans.md" >}}) | 347 | 347 | 100.0 | /mnt/stockage/packages/f30/kamera/po/zh_CN/kcmkamera.po/mnt/stockage/packages/f30/kamera/po/zh_CN/kio5_kamera.po | 
- | [zh_Hant]({{< ref "/f30/language/zh_Hant.md" >}}) | 347 | 347 | 100.0 | /mnt/stockage/packages/f30/kamera/po/zh_TW/kcmkamera.po/mnt/stockage/packages/f30/kamera/po/zh_TW/kio5_kamera.po | 
- | [ar]({{< ref "/f30/language/ar.md" >}}) | 283 | 342 | 82.7 | /mnt/stockage/packages/f30/kamera/po/ar/kcmkamera.po | 
- | [bg]({{< ref "/f30/language/bg.md" >}}) | 283 | 342 | 82.7 | /mnt/stockage/packages/f30/kamera/po/bg/kcmkamera.po | 
- | [bs]({{< ref "/f30/language/bs.md" >}}) | 283 | 342 | 82.7 | /mnt/stockage/packages/f30/kamera/po/bs/kcmkamera.po | 
- | [hr]({{< ref "/f30/language/hr.md" >}}) | 283 | 342 | 82.7 | /mnt/stockage/packages/f30/kamera/po/hr/kcmkamera.po | 
- | [hu]({{< ref "/f30/language/hu.md" >}}) | 283 | 342 | 82.7 | /mnt/stockage/packages/f30/kamera/po/hu/kcmkamera.po | 
- | [kk]({{< ref "/f30/language/kk.md" >}}) | 283 | 342 | 82.7 | /mnt/stockage/packages/f30/kamera/po/kk/kcmkamera.po | 
- | [km]({{< ref "/f30/language/km.md" >}}) | 283 | 342 | 82.7 | /mnt/stockage/packages/f30/kamera/po/km/kcmkamera.po | 
- | [ko]({{< ref "/f30/language/ko.md" >}}) | 283 | 342 | 82.7 | /mnt/stockage/packages/f30/kamera/po/ko/kcmkamera.po | 
- | [lt]({{< ref "/f30/language/lt.md" >}}) | 283 | 342 | 82.7 | /mnt/stockage/packages/f30/kamera/po/lt/kcmkamera.po | 
- | [nds]({{< ref "/f30/language/nds.md" >}}) | 283 | 342 | 82.7 | /mnt/stockage/packages/f30/kamera/po/nds/kcmkamera.po | 
- | [lv]({{< ref "/f30/language/lv.md" >}}) | 281 | 342 | 82.2 | /mnt/stockage/packages/f30/kamera/po/lv/kcmkamera.po | 
- | [en_US]({{< ref "/f30/language/en_US.md" >}}) | 208 | 342 | 60.8 | /mnt/stockage/packages/f30/kamera/po/mr/kcmkamera.po | 
- | [ro]({{< ref "/f30/language/ro.md" >}}) | 190 | 342 | 55.6 | /mnt/stockage/packages/f30/kamera/po/ro/kcmkamera.po | 
- | [eo]({{< ref "/f30/language/eo.md" >}}) | 149 | 342 | 43.6 | /mnt/stockage/packages/f30/kamera/po/eo/kcmkamera.po | 
- | [pa]({{< ref "/f30/language/pa.md" >}}) | 148 | 342 | 43.3 | /mnt/stockage/packages/f30/kamera/po/pa/kcmkamera.po | 
- | [fa]({{< ref "/f30/language/fa.md" >}}) | 143 | 342 | 41.8 | /mnt/stockage/packages/f30/kamera/po/fa/kcmkamera.po | 
- | [he]({{< ref "/f30/language/he.md" >}}) | 143 | 342 | 41.8 | /mnt/stockage/packages/f30/kamera/po/he/kcmkamera.po | 
- | [hi]({{< ref "/f30/language/hi.md" >}}) | 105 | 342 | 30.7 | /mnt/stockage/packages/f30/kamera/po/hi/kcmkamera.po | 
- | [ga]({{< ref "/f30/language/ga.md" >}}) | 83 | 342 | 24.3 | /mnt/stockage/packages/f30/kamera/po/ga/kcmkamera.po | 
- | [ug]({{< ref "/f30/language/ug.md" >}}) | 16 | 342 | 4.7 | /mnt/stockage/packages/f30/kamera/po/ug/kcmkamera.po | 
+ | [ca](/f30/language/ca) | 347 | 347 | 100.0 | /mnt/stockage/packages/f30/kamera/po/ca/kcmkamera.po/mnt/stockage/packages/f30/kamera/po/ca/kio5_kamera.po | 
+ | [ca@valencia](/f30/language/ca@valencia) | 347 | 347 | 100.0 | /mnt/stockage/packages/f30/kamera/po/ca@valencia/kcmkamera.po/mnt/stockage/packages/f30/kamera/po/ca@valencia/kio5_kamera.po | 
+ | [cs](/f30/language/cs) | 347 | 347 | 100.0 | /mnt/stockage/packages/f30/kamera/po/cs/kcmkamera.po/mnt/stockage/packages/f30/kamera/po/cs/kio5_kamera.po | 
+ | [da](/f30/language/da) | 342 | 342 | 100.0 | /mnt/stockage/packages/f30/kamera/po/da/kcmkamera.po | 
+ | [de](/f30/language/de) | 347 | 347 | 100.0 | /mnt/stockage/packages/f30/kamera/po/de/kcmkamera.po/mnt/stockage/packages/f30/kamera/po/de/kio5_kamera.po | 
+ | [el](/f30/language/el) | 342 | 342 | 100.0 | /mnt/stockage/packages/f30/kamera/po/el/kcmkamera.po | 
+ | [en_GB](/f30/language/en_GB) | 347 | 347 | 100.0 | /mnt/stockage/packages/f30/kamera/po/en_GB/kcmkamera.po/mnt/stockage/packages/f30/kamera/po/en_GB/kio5_kamera.po | 
+ | [es](/f30/language/es) | 347 | 347 | 100.0 | /mnt/stockage/packages/f30/kamera/po/es/kcmkamera.po/mnt/stockage/packages/f30/kamera/po/es/kio5_kamera.po | 
+ | [et](/f30/language/et) | 342 | 342 | 100.0 | /mnt/stockage/packages/f30/kamera/po/et/kcmkamera.po | 
+ | [eu](/f30/language/eu) | 342 | 342 | 100.0 | /mnt/stockage/packages/f30/kamera/po/eu/kcmkamera.po | 
+ | [fi](/f30/language/fi) | 342 | 342 | 100.0 | /mnt/stockage/packages/f30/kamera/po/fi/kcmkamera.po | 
+ | [fr](/f30/language/fr) | 347 | 347 | 100.0 | /mnt/stockage/packages/f30/kamera/po/fr/kcmkamera.po/mnt/stockage/packages/f30/kamera/po/fr/kio5_kamera.po | 
+ | [gl](/f30/language/gl) | 347 | 347 | 100.0 | /mnt/stockage/packages/f30/kamera/po/gl/kcmkamera.po/mnt/stockage/packages/f30/kamera/po/gl/kio5_kamera.po | 
+ | [ia](/f30/language/ia) | 342 | 342 | 100.0 | /mnt/stockage/packages/f30/kamera/po/ia/kcmkamera.po | 
+ | [is](/f30/language/is) | 342 | 342 | 100.0 | /mnt/stockage/packages/f30/kamera/po/is/kcmkamera.po | 
+ | [it](/f30/language/it) | 347 | 347 | 100.0 | /mnt/stockage/packages/f30/kamera/po/it/kcmkamera.po/mnt/stockage/packages/f30/kamera/po/it/kio5_kamera.po | 
+ | [ja](/f30/language/ja) | 342 | 342 | 100.0 | /mnt/stockage/packages/f30/kamera/po/ja/kcmkamera.po | 
+ | [nb_NO](/f30/language/nb_NO) | 342 | 342 | 100.0 | /mnt/stockage/packages/f30/kamera/po/nb/kcmkamera.po | 
+ | [nl](/f30/language/nl) | 347 | 347 | 100.0 | /mnt/stockage/packages/f30/kamera/po/nl/kcmkamera.po/mnt/stockage/packages/f30/kamera/po/nl/kio5_kamera.po | 
+ | [nn](/f30/language/nn) | 347 | 347 | 100.0 | /mnt/stockage/packages/f30/kamera/po/nn/kcmkamera.po/mnt/stockage/packages/f30/kamera/po/nn/kio5_kamera.po | 
+ | [pl](/f30/language/pl) | 347 | 347 | 100.0 | /mnt/stockage/packages/f30/kamera/po/pl/kcmkamera.po/mnt/stockage/packages/f30/kamera/po/pl/kio5_kamera.po | 
+ | [pt](/f30/language/pt) | 347 | 347 | 100.0 | /mnt/stockage/packages/f30/kamera/po/pt/kcmkamera.po/mnt/stockage/packages/f30/kamera/po/pt/kio5_kamera.po | 
+ | [pt_BR](/f30/language/pt_BR) | 347 | 347 | 100.0 | /mnt/stockage/packages/f30/kamera/po/pt_BR/kcmkamera.po/mnt/stockage/packages/f30/kamera/po/pt_BR/kio5_kamera.po | 
+ | [ru](/f30/language/ru) | 347 | 347 | 100.0 | /mnt/stockage/packages/f30/kamera/po/ru/kcmkamera.po/mnt/stockage/packages/f30/kamera/po/ru/kio5_kamera.po | 
+ | [sk](/f30/language/sk) | 347 | 347 | 100.0 | /mnt/stockage/packages/f30/kamera/po/sk/kcmkamera.po/mnt/stockage/packages/f30/kamera/po/sk/kio5_kamera.po | 
+ | [sl](/f30/language/sl) | 342 | 342 | 100.0 | /mnt/stockage/packages/f30/kamera/po/sl/kcmkamera.po | 
+ | [sv](/f30/language/sv) | 347 | 347 | 100.0 | /mnt/stockage/packages/f30/kamera/po/sv/kcmkamera.po/mnt/stockage/packages/f30/kamera/po/sv/kio5_kamera.po | 
+ | [tr](/f30/language/tr) | 342 | 342 | 100.0 | /mnt/stockage/packages/f30/kamera/po/tr/kcmkamera.po | 
+ | [uk](/f30/language/uk) | 347 | 347 | 100.0 | /mnt/stockage/packages/f30/kamera/po/uk/kcmkamera.po/mnt/stockage/packages/f30/kamera/po/uk/kio5_kamera.po | 
+ | [zh_Hans](/f30/language/zh_Hans) | 347 | 347 | 100.0 | /mnt/stockage/packages/f30/kamera/po/zh_CN/kcmkamera.po/mnt/stockage/packages/f30/kamera/po/zh_CN/kio5_kamera.po | 
+ | [zh_Hant](/f30/language/zh_Hant) | 347 | 347 | 100.0 | /mnt/stockage/packages/f30/kamera/po/zh_TW/kcmkamera.po/mnt/stockage/packages/f30/kamera/po/zh_TW/kio5_kamera.po | 
+ | [ar](/f30/language/ar) | 283 | 342 | 82.7 | /mnt/stockage/packages/f30/kamera/po/ar/kcmkamera.po | 
+ | [bg](/f30/language/bg) | 283 | 342 | 82.7 | /mnt/stockage/packages/f30/kamera/po/bg/kcmkamera.po | 
+ | [bs](/f30/language/bs) | 283 | 342 | 82.7 | /mnt/stockage/packages/f30/kamera/po/bs/kcmkamera.po | 
+ | [hr](/f30/language/hr) | 283 | 342 | 82.7 | /mnt/stockage/packages/f30/kamera/po/hr/kcmkamera.po | 
+ | [hu](/f30/language/hu) | 283 | 342 | 82.7 | /mnt/stockage/packages/f30/kamera/po/hu/kcmkamera.po | 
+ | [kk](/f30/language/kk) | 283 | 342 | 82.7 | /mnt/stockage/packages/f30/kamera/po/kk/kcmkamera.po | 
+ | [km](/f30/language/km) | 283 | 342 | 82.7 | /mnt/stockage/packages/f30/kamera/po/km/kcmkamera.po | 
+ | [ko](/f30/language/ko) | 283 | 342 | 82.7 | /mnt/stockage/packages/f30/kamera/po/ko/kcmkamera.po | 
+ | [lt](/f30/language/lt) | 283 | 342 | 82.7 | /mnt/stockage/packages/f30/kamera/po/lt/kcmkamera.po | 
+ | [nds](/f30/language/nds) | 283 | 342 | 82.7 | /mnt/stockage/packages/f30/kamera/po/nds/kcmkamera.po | 
+ | [lv](/f30/language/lv) | 281 | 342 | 82.2 | /mnt/stockage/packages/f30/kamera/po/lv/kcmkamera.po | 
+ | [en_US](/f30/language/en_US) | 208 | 342 | 60.8 | /mnt/stockage/packages/f30/kamera/po/mr/kcmkamera.po | 
+ | [ro](/f30/language/ro) | 190 | 342 | 55.6 | /mnt/stockage/packages/f30/kamera/po/ro/kcmkamera.po | 
+ | [eo](/f30/language/eo) | 149 | 342 | 43.6 | /mnt/stockage/packages/f30/kamera/po/eo/kcmkamera.po | 
+ | [pa](/f30/language/pa) | 148 | 342 | 43.3 | /mnt/stockage/packages/f30/kamera/po/pa/kcmkamera.po | 
+ | [fa](/f30/language/fa) | 143 | 342 | 41.8 | /mnt/stockage/packages/f30/kamera/po/fa/kcmkamera.po | 
+ | [he](/f30/language/he) | 143 | 342 | 41.8 | /mnt/stockage/packages/f30/kamera/po/he/kcmkamera.po | 
+ | [hi](/f30/language/hi) | 105 | 342 | 30.7 | /mnt/stockage/packages/f30/kamera/po/hi/kcmkamera.po | 
+ | [ga](/f30/language/ga) | 83 | 342 | 24.3 | /mnt/stockage/packages/f30/kamera/po/ga/kcmkamera.po | 
+ | [ug](/f30/language/ug) | 16 | 342 | 4.7 | /mnt/stockage/packages/f30/kamera/po/ug/kcmkamera.po | 
 {.sortable}
 
 

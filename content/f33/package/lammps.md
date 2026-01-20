@@ -18,17 +18,17 @@ The package lammps (version 20201029):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f33/language/de.md" >}}) | 79 | 79 | 100.0 | /mnt/stockage/packages/f33/lammps/doc/utils/sphinx-config/_themes/lammps_theme/locale/de/LC_MESSAGES/sphinx.po | 
- | [es]({{< ref "/f33/language/es.md" >}}) | 84 | 84 | 100.0 | /mnt/stockage/packages/f33/lammps/doc/utils/sphinx-config/_themes/lammps_theme/locale/es/LC_MESSAGES/sphinx.po | 
- | [et]({{< ref "/f33/language/et.md" >}}) | 81 | 81 | 100.0 | /mnt/stockage/packages/f33/lammps/doc/utils/sphinx-config/_themes/lammps_theme/locale/et/LC_MESSAGES/sphinx.po | 
- | [fr]({{< ref "/f33/language/fr.md" >}}) | 78 | 78 | 100.0 | /mnt/stockage/packages/f33/lammps/doc/utils/sphinx-config/_themes/lammps_theme/locale/fr/LC_MESSAGES/sphinx.po | 
- | [nl]({{< ref "/f33/language/nl.md" >}}) | 82 | 82 | 100.0 | /mnt/stockage/packages/f33/lammps/doc/utils/sphinx-config/_themes/lammps_theme/locale/nl/LC_MESSAGES/sphinx.po | 
- | [pt_BR]({{< ref "/f33/language/pt_BR.md" >}}) | 82 | 82 | 100.0 | /mnt/stockage/packages/f33/lammps/doc/utils/sphinx-config/_themes/lammps_theme/locale/pt_BR/LC_MESSAGES/sphinx.po | 
- | [ru]({{< ref "/f33/language/ru.md" >}}) | 82 | 82 | 100.0 | /mnt/stockage/packages/f33/lammps/doc/utils/sphinx-config/_themes/lammps_theme/locale/ru/LC_MESSAGES/sphinx.po | 
- | [sv]({{< ref "/f33/language/sv.md" >}}) | 83 | 83 | 100.0 | /mnt/stockage/packages/f33/lammps/doc/utils/sphinx-config/_themes/lammps_theme/locale/sv/LC_MESSAGES/sphinx.po | 
- | [tr]({{< ref "/f33/language/tr.md" >}}) | 77 | 77 | 100.0 | /mnt/stockage/packages/f33/lammps/doc/utils/sphinx-config/_themes/lammps_theme/locale/tr/LC_MESSAGES/sphinx.po | 
- | [zh_Hans]({{< ref "/f33/language/zh_Hans.md" >}}) | 81 | 81 | 100.0 | /mnt/stockage/packages/f33/lammps/doc/utils/sphinx-config/_themes/lammps_theme/locale/zh_CN/LC_MESSAGES/sphinx.po | 
- | [en]({{< ref "/f33/language/en.md" >}}) | 0 | 84 | 0.0 | /mnt/stockage/packages/f33/lammps/doc/utils/sphinx-config/_themes/lammps_theme/locale/en/LC_MESSAGES/sphinx.po | 
+ | [de](/f33/language/de) | 79 | 79 | 100.0 | /mnt/stockage/packages/f33/lammps/doc/utils/sphinx-config/_themes/lammps_theme/locale/de/LC_MESSAGES/sphinx.po | 
+ | [es](/f33/language/es) | 84 | 84 | 100.0 | /mnt/stockage/packages/f33/lammps/doc/utils/sphinx-config/_themes/lammps_theme/locale/es/LC_MESSAGES/sphinx.po | 
+ | [et](/f33/language/et) | 81 | 81 | 100.0 | /mnt/stockage/packages/f33/lammps/doc/utils/sphinx-config/_themes/lammps_theme/locale/et/LC_MESSAGES/sphinx.po | 
+ | [fr](/f33/language/fr) | 78 | 78 | 100.0 | /mnt/stockage/packages/f33/lammps/doc/utils/sphinx-config/_themes/lammps_theme/locale/fr/LC_MESSAGES/sphinx.po | 
+ | [nl](/f33/language/nl) | 82 | 82 | 100.0 | /mnt/stockage/packages/f33/lammps/doc/utils/sphinx-config/_themes/lammps_theme/locale/nl/LC_MESSAGES/sphinx.po | 
+ | [pt_BR](/f33/language/pt_BR) | 82 | 82 | 100.0 | /mnt/stockage/packages/f33/lammps/doc/utils/sphinx-config/_themes/lammps_theme/locale/pt_BR/LC_MESSAGES/sphinx.po | 
+ | [ru](/f33/language/ru) | 82 | 82 | 100.0 | /mnt/stockage/packages/f33/lammps/doc/utils/sphinx-config/_themes/lammps_theme/locale/ru/LC_MESSAGES/sphinx.po | 
+ | [sv](/f33/language/sv) | 83 | 83 | 100.0 | /mnt/stockage/packages/f33/lammps/doc/utils/sphinx-config/_themes/lammps_theme/locale/sv/LC_MESSAGES/sphinx.po | 
+ | [tr](/f33/language/tr) | 77 | 77 | 100.0 | /mnt/stockage/packages/f33/lammps/doc/utils/sphinx-config/_themes/lammps_theme/locale/tr/LC_MESSAGES/sphinx.po | 
+ | [zh_Hans](/f33/language/zh_Hans) | 81 | 81 | 100.0 | /mnt/stockage/packages/f33/lammps/doc/utils/sphinx-config/_themes/lammps_theme/locale/zh_CN/LC_MESSAGES/sphinx.po | 
+ | [en](/f33/language/en) | 0 | 84 | 0.0 | /mnt/stockage/packages/f33/lammps/doc/utils/sphinx-config/_themes/lammps_theme/locale/en/LC_MESSAGES/sphinx.po | 
 {.sortable}
 
 

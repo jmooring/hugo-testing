@@ -18,18 +18,18 @@ The package cockpit (version 137):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [pl]({{< ref "/f25/language/pl.md" >}}) | 5203 | 5733 | 90.8 | /mnt/stockage/packages/f25/cockpit/po/pl.po | 
- | [uk]({{< ref "/f25/language/uk.md" >}}) | 5203 | 5733 | 90.8 | /mnt/stockage/packages/f25/cockpit/po/uk.po | 
- | [zh_Hans]({{< ref "/f25/language/zh_Hans.md" >}}) | 5197 | 5734 | 90.6 | /mnt/stockage/packages/f25/cockpit/po/zh_CN.po/mnt/stockage/packages/f25/cockpit/src/common/mock-locale/zh_CN/LC_MESSAGES/test.po | 
- | [es]({{< ref "/f25/language/es.md" >}}) | 2761 | 5733 | 48.2 | /mnt/stockage/packages/f25/cockpit/po/es.po | 
- | [ca]({{< ref "/f25/language/ca.md" >}}) | 2364 | 5733 | 41.2 | /mnt/stockage/packages/f25/cockpit/po/ca.po | 
- | [de]({{< ref "/f25/language/de.md" >}}) | 1504 | 5738 | 26.2 | /mnt/stockage/packages/f25/cockpit/dist/playground/extra.de.po/mnt/stockage/packages/f25/cockpit/pkg/playground/extra.de.po/mnt/stockage/packages/f25/cockpit/po/de.po/mnt/stockage/packages/f25/cockpit/src/common/mock-locale/de_DE/LC_MESSAGES/test.po | 
- | [fr]({{< ref "/f25/language/fr.md" >}}) | 1381 | 5733 | 24.1 | /mnt/stockage/packages/f25/cockpit/po/fr.po | 
- | [pt_BR]({{< ref "/f25/language/pt_BR.md" >}}) | 1297 | 5733 | 22.6 | /mnt/stockage/packages/f25/cockpit/po/pt_BR.po | 
- | [tr]({{< ref "/f25/language/tr.md" >}}) | 890 | 5733 | 15.5 | /mnt/stockage/packages/f25/cockpit/po/tr.po | 
- | [ko]({{< ref "/f25/language/ko.md" >}}) | 693 | 5733 | 12.1 | /mnt/stockage/packages/f25/cockpit/po/ko.po | 
- | [hr]({{< ref "/f25/language/hr.md" >}}) | 533 | 5733 | 9.3 | /mnt/stockage/packages/f25/cockpit/po/hr.po | 
- | [da]({{< ref "/f25/language/da.md" >}}) | 6 | 5733 | 0.1 | /mnt/stockage/packages/f25/cockpit/po/da.po | 
+ | [pl](/f25/language/pl) | 5203 | 5733 | 90.8 | /mnt/stockage/packages/f25/cockpit/po/pl.po | 
+ | [uk](/f25/language/uk) | 5203 | 5733 | 90.8 | /mnt/stockage/packages/f25/cockpit/po/uk.po | 
+ | [zh_Hans](/f25/language/zh_Hans) | 5197 | 5734 | 90.6 | /mnt/stockage/packages/f25/cockpit/po/zh_CN.po/mnt/stockage/packages/f25/cockpit/src/common/mock-locale/zh_CN/LC_MESSAGES/test.po | 
+ | [es](/f25/language/es) | 2761 | 5733 | 48.2 | /mnt/stockage/packages/f25/cockpit/po/es.po | 
+ | [ca](/f25/language/ca) | 2364 | 5733 | 41.2 | /mnt/stockage/packages/f25/cockpit/po/ca.po | 
+ | [de](/f25/language/de) | 1504 | 5738 | 26.2 | /mnt/stockage/packages/f25/cockpit/dist/playground/extra.de.po/mnt/stockage/packages/f25/cockpit/pkg/playground/extra.de.po/mnt/stockage/packages/f25/cockpit/po/de.po/mnt/stockage/packages/f25/cockpit/src/common/mock-locale/de_DE/LC_MESSAGES/test.po | 
+ | [fr](/f25/language/fr) | 1381 | 5733 | 24.1 | /mnt/stockage/packages/f25/cockpit/po/fr.po | 
+ | [pt_BR](/f25/language/pt_BR) | 1297 | 5733 | 22.6 | /mnt/stockage/packages/f25/cockpit/po/pt_BR.po | 
+ | [tr](/f25/language/tr) | 890 | 5733 | 15.5 | /mnt/stockage/packages/f25/cockpit/po/tr.po | 
+ | [ko](/f25/language/ko) | 693 | 5733 | 12.1 | /mnt/stockage/packages/f25/cockpit/po/ko.po | 
+ | [hr](/f25/language/hr) | 533 | 5733 | 9.3 | /mnt/stockage/packages/f25/cockpit/po/hr.po | 
+ | [da](/f25/language/da) | 6 | 5733 | 0.1 | /mnt/stockage/packages/f25/cockpit/po/da.po | 
 {.sortable}
 
 

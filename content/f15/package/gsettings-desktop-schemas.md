@@ -18,12 +18,12 @@ The package gsettings-desktop-schemas (version 3.0.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f15/language/cs.md" >}}) | 2430 | 2430 | 100.0 | /mnt/stockage/packages/f15/gsettings-desktop-schemas/po/cs.po | 
- | [de]({{< ref "/f15/language/de.md" >}}) | 2430 | 2430 | 100.0 | /mnt/stockage/packages/f15/gsettings-desktop-schemas/po/de.po | 
- | [es]({{< ref "/f15/language/es.md" >}}) | 2430 | 2430 | 100.0 | /mnt/stockage/packages/f15/gsettings-desktop-schemas/po/es.po | 
- | [sl]({{< ref "/f15/language/sl.md" >}}) | 2430 | 2430 | 100.0 | /mnt/stockage/packages/f15/gsettings-desktop-schemas/po/sl.po | 
- | [ja]({{< ref "/f15/language/ja.md" >}}) | 1384 | 2430 | 57.0 | /mnt/stockage/packages/f15/gsettings-desktop-schemas/po/ja.po | 
- | [sv]({{< ref "/f15/language/sv.md" >}}) | 138 | 2421 | 5.7 | /mnt/stockage/packages/f15/gsettings-desktop-schemas/po/sv.po | 
+ | [cs](/f15/language/cs) | 2430 | 2430 | 100.0 | /mnt/stockage/packages/f15/gsettings-desktop-schemas/po/cs.po | 
+ | [de](/f15/language/de) | 2430 | 2430 | 100.0 | /mnt/stockage/packages/f15/gsettings-desktop-schemas/po/de.po | 
+ | [es](/f15/language/es) | 2430 | 2430 | 100.0 | /mnt/stockage/packages/f15/gsettings-desktop-schemas/po/es.po | 
+ | [sl](/f15/language/sl) | 2430 | 2430 | 100.0 | /mnt/stockage/packages/f15/gsettings-desktop-schemas/po/sl.po | 
+ | [ja](/f15/language/ja) | 1384 | 2430 | 57.0 | /mnt/stockage/packages/f15/gsettings-desktop-schemas/po/ja.po | 
+ | [sv](/f15/language/sv) | 138 | 2421 | 5.7 | /mnt/stockage/packages/f15/gsettings-desktop-schemas/po/sv.po | 
 {.sortable}
 
 

@@ -18,51 +18,51 @@ The package kf5-kdbusaddons (version 5.55.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f28/language/ar.md" >}}) | 48 | 48 | 100.0 | /mnt/stockage/packages/f28/kf5-kdbusaddons/po/ar/kdbusaddons5_qt.po | 
- | [bs]({{< ref "/f28/language/bs.md" >}}) | 48 | 48 | 100.0 | /mnt/stockage/packages/f28/kf5-kdbusaddons/po/bs/kdbusaddons5_qt.po | 
- | [ca]({{< ref "/f28/language/ca.md" >}}) | 48 | 48 | 100.0 | /mnt/stockage/packages/f28/kf5-kdbusaddons/po/ca/kdbusaddons5_qt.po | 
- | [ca@valencia]({{< ref "/f28/language/ca@valencia.md" >}}) | 48 | 48 | 100.0 | /mnt/stockage/packages/f28/kf5-kdbusaddons/po/ca@valencia/kdbusaddons5_qt.po | 
- | [cs]({{< ref "/f28/language/cs.md" >}}) | 48 | 48 | 100.0 | /mnt/stockage/packages/f28/kf5-kdbusaddons/po/cs/kdbusaddons5_qt.po | 
- | [da]({{< ref "/f28/language/da.md" >}}) | 48 | 48 | 100.0 | /mnt/stockage/packages/f28/kf5-kdbusaddons/po/da/kdbusaddons5_qt.po | 
- | [de]({{< ref "/f28/language/de.md" >}}) | 48 | 48 | 100.0 | /mnt/stockage/packages/f28/kf5-kdbusaddons/po/de/kdbusaddons5_qt.po | 
- | [el]({{< ref "/f28/language/el.md" >}}) | 48 | 48 | 100.0 | /mnt/stockage/packages/f28/kf5-kdbusaddons/po/el/kdbusaddons5_qt.po | 
- | [en_GB]({{< ref "/f28/language/en_GB.md" >}}) | 48 | 48 | 100.0 | /mnt/stockage/packages/f28/kf5-kdbusaddons/po/en_GB/kdbusaddons5_qt.po | 
- | [es]({{< ref "/f28/language/es.md" >}}) | 48 | 48 | 100.0 | /mnt/stockage/packages/f28/kf5-kdbusaddons/po/es/kdbusaddons5_qt.po | 
- | [et]({{< ref "/f28/language/et.md" >}}) | 48 | 48 | 100.0 | /mnt/stockage/packages/f28/kf5-kdbusaddons/po/et/kdbusaddons5_qt.po | 
- | [eu]({{< ref "/f28/language/eu.md" >}}) | 48 | 48 | 100.0 | /mnt/stockage/packages/f28/kf5-kdbusaddons/po/eu/kdbusaddons5_qt.po | 
- | [fi]({{< ref "/f28/language/fi.md" >}}) | 48 | 48 | 100.0 | /mnt/stockage/packages/f28/kf5-kdbusaddons/po/fi/kdbusaddons5_qt.po | 
- | [fr]({{< ref "/f28/language/fr.md" >}}) | 48 | 48 | 100.0 | /mnt/stockage/packages/f28/kf5-kdbusaddons/po/fr/kdbusaddons5_qt.po | 
- | [gd]({{< ref "/f28/language/gd.md" >}}) | 48 | 48 | 100.0 | /mnt/stockage/packages/f28/kf5-kdbusaddons/po/gd/kdbusaddons5_qt.po | 
- | [gl]({{< ref "/f28/language/gl.md" >}}) | 48 | 48 | 100.0 | /mnt/stockage/packages/f28/kf5-kdbusaddons/po/gl/kdbusaddons5_qt.po | 
- | [hu]({{< ref "/f28/language/hu.md" >}}) | 48 | 48 | 100.0 | /mnt/stockage/packages/f28/kf5-kdbusaddons/po/hu/kdbusaddons5_qt.po | 
- | [ia]({{< ref "/f28/language/ia.md" >}}) | 48 | 48 | 100.0 | /mnt/stockage/packages/f28/kf5-kdbusaddons/po/ia/kdbusaddons5_qt.po | 
- | [id]({{< ref "/f28/language/id.md" >}}) | 48 | 48 | 100.0 | /mnt/stockage/packages/f28/kf5-kdbusaddons/po/id/kdbusaddons5_qt.po | 
- | [it]({{< ref "/f28/language/it.md" >}}) | 48 | 48 | 100.0 | /mnt/stockage/packages/f28/kf5-kdbusaddons/po/it/kdbusaddons5_qt.po | 
- | [ja]({{< ref "/f28/language/ja.md" >}}) | 48 | 48 | 100.0 | /mnt/stockage/packages/f28/kf5-kdbusaddons/po/ja/kdbusaddons5_qt.po | 
- | [ko]({{< ref "/f28/language/ko.md" >}}) | 48 | 48 | 100.0 | /mnt/stockage/packages/f28/kf5-kdbusaddons/po/ko/kdbusaddons5_qt.po | 
- | [lt]({{< ref "/f28/language/lt.md" >}}) | 48 | 48 | 100.0 | /mnt/stockage/packages/f28/kf5-kdbusaddons/po/lt/kdbusaddons5_qt.po | 
- | [nb_NO]({{< ref "/f28/language/nb_NO.md" >}}) | 48 | 48 | 100.0 | /mnt/stockage/packages/f28/kf5-kdbusaddons/po/nb/kdbusaddons5_qt.po | 
- | [nds]({{< ref "/f28/language/nds.md" >}}) | 48 | 48 | 100.0 | /mnt/stockage/packages/f28/kf5-kdbusaddons/po/nds/kdbusaddons5_qt.po | 
- | [nl]({{< ref "/f28/language/nl.md" >}}) | 48 | 48 | 100.0 | /mnt/stockage/packages/f28/kf5-kdbusaddons/po/nl/kdbusaddons5_qt.po | 
- | [nn]({{< ref "/f28/language/nn.md" >}}) | 48 | 48 | 100.0 | /mnt/stockage/packages/f28/kf5-kdbusaddons/po/nn/kdbusaddons5_qt.po | 
- | [pa]({{< ref "/f28/language/pa.md" >}}) | 48 | 48 | 100.0 | /mnt/stockage/packages/f28/kf5-kdbusaddons/po/pa/kdbusaddons5_qt.po | 
- | [pl]({{< ref "/f28/language/pl.md" >}}) | 48 | 48 | 100.0 | /mnt/stockage/packages/f28/kf5-kdbusaddons/po/pl/kdbusaddons5_qt.po | 
- | [pt]({{< ref "/f28/language/pt.md" >}}) | 48 | 48 | 100.0 | /mnt/stockage/packages/f28/kf5-kdbusaddons/po/pt/kdbusaddons5_qt.po | 
- | [pt_BR]({{< ref "/f28/language/pt_BR.md" >}}) | 48 | 48 | 100.0 | /mnt/stockage/packages/f28/kf5-kdbusaddons/po/pt_BR/kdbusaddons5_qt.po | 
- | [ro]({{< ref "/f28/language/ro.md" >}}) | 48 | 48 | 100.0 | /mnt/stockage/packages/f28/kf5-kdbusaddons/po/ro/kdbusaddons5_qt.po | 
- | [ru]({{< ref "/f28/language/ru.md" >}}) | 48 | 48 | 100.0 | /mnt/stockage/packages/f28/kf5-kdbusaddons/po/ru/kdbusaddons5_qt.po | 
- | [sk]({{< ref "/f28/language/sk.md" >}}) | 48 | 48 | 100.0 | /mnt/stockage/packages/f28/kf5-kdbusaddons/po/sk/kdbusaddons5_qt.po | 
- | [sl]({{< ref "/f28/language/sl.md" >}}) | 48 | 48 | 100.0 | /mnt/stockage/packages/f28/kf5-kdbusaddons/po/sl/kdbusaddons5_qt.po | 
- | [sr]({{< ref "/f28/language/sr.md" >}}) | 48 | 48 | 100.0 | /mnt/stockage/packages/f28/kf5-kdbusaddons/po/sr/kdbusaddons5_qt.po | 
- | [sr@ijekavian]({{< ref "/f28/language/sr@ijekavian.md" >}}) | 48 | 48 | 100.0 | /mnt/stockage/packages/f28/kf5-kdbusaddons/po/sr@ijekavian/kdbusaddons5_qt.po | 
- | [sr@ijekavian_Latn]({{< ref "/f28/language/sr@ijekavian_Latn.md" >}}) | 48 | 48 | 100.0 | /mnt/stockage/packages/f28/kf5-kdbusaddons/po/sr@ijekavianlatin/kdbusaddons5_qt.po | 
- | [sr_Latn]({{< ref "/f28/language/sr_Latn.md" >}}) | 48 | 48 | 100.0 | /mnt/stockage/packages/f28/kf5-kdbusaddons/po/sr@latin/kdbusaddons5_qt.po | 
- | [sv]({{< ref "/f28/language/sv.md" >}}) | 48 | 48 | 100.0 | /mnt/stockage/packages/f28/kf5-kdbusaddons/po/sv/kdbusaddons5_qt.po | 
- | [tr]({{< ref "/f28/language/tr.md" >}}) | 48 | 48 | 100.0 | /mnt/stockage/packages/f28/kf5-kdbusaddons/po/tr/kdbusaddons5_qt.po | 
- | [uk]({{< ref "/f28/language/uk.md" >}}) | 48 | 48 | 100.0 | /mnt/stockage/packages/f28/kf5-kdbusaddons/po/uk/kdbusaddons5_qt.po | 
- | [zh_Hans]({{< ref "/f28/language/zh_Hans.md" >}}) | 48 | 48 | 100.0 | /mnt/stockage/packages/f28/kf5-kdbusaddons/po/zh_CN/kdbusaddons5_qt.po | 
- | [zh_Hant]({{< ref "/f28/language/zh_Hant.md" >}}) | 48 | 48 | 100.0 | /mnt/stockage/packages/f28/kf5-kdbusaddons/po/zh_TW/kdbusaddons5_qt.po | 
- | [se]({{< ref "/f28/language/se.md" >}}) | 0 | 48 | 0.0 | /mnt/stockage/packages/f28/kf5-kdbusaddons/po/se/kdbusaddons5_qt.po | 
+ | [ar](/f28/language/ar) | 48 | 48 | 100.0 | /mnt/stockage/packages/f28/kf5-kdbusaddons/po/ar/kdbusaddons5_qt.po | 
+ | [bs](/f28/language/bs) | 48 | 48 | 100.0 | /mnt/stockage/packages/f28/kf5-kdbusaddons/po/bs/kdbusaddons5_qt.po | 
+ | [ca](/f28/language/ca) | 48 | 48 | 100.0 | /mnt/stockage/packages/f28/kf5-kdbusaddons/po/ca/kdbusaddons5_qt.po | 
+ | [ca@valencia](/f28/language/ca@valencia) | 48 | 48 | 100.0 | /mnt/stockage/packages/f28/kf5-kdbusaddons/po/ca@valencia/kdbusaddons5_qt.po | 
+ | [cs](/f28/language/cs) | 48 | 48 | 100.0 | /mnt/stockage/packages/f28/kf5-kdbusaddons/po/cs/kdbusaddons5_qt.po | 
+ | [da](/f28/language/da) | 48 | 48 | 100.0 | /mnt/stockage/packages/f28/kf5-kdbusaddons/po/da/kdbusaddons5_qt.po | 
+ | [de](/f28/language/de) | 48 | 48 | 100.0 | /mnt/stockage/packages/f28/kf5-kdbusaddons/po/de/kdbusaddons5_qt.po | 
+ | [el](/f28/language/el) | 48 | 48 | 100.0 | /mnt/stockage/packages/f28/kf5-kdbusaddons/po/el/kdbusaddons5_qt.po | 
+ | [en_GB](/f28/language/en_GB) | 48 | 48 | 100.0 | /mnt/stockage/packages/f28/kf5-kdbusaddons/po/en_GB/kdbusaddons5_qt.po | 
+ | [es](/f28/language/es) | 48 | 48 | 100.0 | /mnt/stockage/packages/f28/kf5-kdbusaddons/po/es/kdbusaddons5_qt.po | 
+ | [et](/f28/language/et) | 48 | 48 | 100.0 | /mnt/stockage/packages/f28/kf5-kdbusaddons/po/et/kdbusaddons5_qt.po | 
+ | [eu](/f28/language/eu) | 48 | 48 | 100.0 | /mnt/stockage/packages/f28/kf5-kdbusaddons/po/eu/kdbusaddons5_qt.po | 
+ | [fi](/f28/language/fi) | 48 | 48 | 100.0 | /mnt/stockage/packages/f28/kf5-kdbusaddons/po/fi/kdbusaddons5_qt.po | 
+ | [fr](/f28/language/fr) | 48 | 48 | 100.0 | /mnt/stockage/packages/f28/kf5-kdbusaddons/po/fr/kdbusaddons5_qt.po | 
+ | [gd](/f28/language/gd) | 48 | 48 | 100.0 | /mnt/stockage/packages/f28/kf5-kdbusaddons/po/gd/kdbusaddons5_qt.po | 
+ | [gl](/f28/language/gl) | 48 | 48 | 100.0 | /mnt/stockage/packages/f28/kf5-kdbusaddons/po/gl/kdbusaddons5_qt.po | 
+ | [hu](/f28/language/hu) | 48 | 48 | 100.0 | /mnt/stockage/packages/f28/kf5-kdbusaddons/po/hu/kdbusaddons5_qt.po | 
+ | [ia](/f28/language/ia) | 48 | 48 | 100.0 | /mnt/stockage/packages/f28/kf5-kdbusaddons/po/ia/kdbusaddons5_qt.po | 
+ | [id](/f28/language/id) | 48 | 48 | 100.0 | /mnt/stockage/packages/f28/kf5-kdbusaddons/po/id/kdbusaddons5_qt.po | 
+ | [it](/f28/language/it) | 48 | 48 | 100.0 | /mnt/stockage/packages/f28/kf5-kdbusaddons/po/it/kdbusaddons5_qt.po | 
+ | [ja](/f28/language/ja) | 48 | 48 | 100.0 | /mnt/stockage/packages/f28/kf5-kdbusaddons/po/ja/kdbusaddons5_qt.po | 
+ | [ko](/f28/language/ko) | 48 | 48 | 100.0 | /mnt/stockage/packages/f28/kf5-kdbusaddons/po/ko/kdbusaddons5_qt.po | 
+ | [lt](/f28/language/lt) | 48 | 48 | 100.0 | /mnt/stockage/packages/f28/kf5-kdbusaddons/po/lt/kdbusaddons5_qt.po | 
+ | [nb_NO](/f28/language/nb_NO) | 48 | 48 | 100.0 | /mnt/stockage/packages/f28/kf5-kdbusaddons/po/nb/kdbusaddons5_qt.po | 
+ | [nds](/f28/language/nds) | 48 | 48 | 100.0 | /mnt/stockage/packages/f28/kf5-kdbusaddons/po/nds/kdbusaddons5_qt.po | 
+ | [nl](/f28/language/nl) | 48 | 48 | 100.0 | /mnt/stockage/packages/f28/kf5-kdbusaddons/po/nl/kdbusaddons5_qt.po | 
+ | [nn](/f28/language/nn) | 48 | 48 | 100.0 | /mnt/stockage/packages/f28/kf5-kdbusaddons/po/nn/kdbusaddons5_qt.po | 
+ | [pa](/f28/language/pa) | 48 | 48 | 100.0 | /mnt/stockage/packages/f28/kf5-kdbusaddons/po/pa/kdbusaddons5_qt.po | 
+ | [pl](/f28/language/pl) | 48 | 48 | 100.0 | /mnt/stockage/packages/f28/kf5-kdbusaddons/po/pl/kdbusaddons5_qt.po | 
+ | [pt](/f28/language/pt) | 48 | 48 | 100.0 | /mnt/stockage/packages/f28/kf5-kdbusaddons/po/pt/kdbusaddons5_qt.po | 
+ | [pt_BR](/f28/language/pt_BR) | 48 | 48 | 100.0 | /mnt/stockage/packages/f28/kf5-kdbusaddons/po/pt_BR/kdbusaddons5_qt.po | 
+ | [ro](/f28/language/ro) | 48 | 48 | 100.0 | /mnt/stockage/packages/f28/kf5-kdbusaddons/po/ro/kdbusaddons5_qt.po | 
+ | [ru](/f28/language/ru) | 48 | 48 | 100.0 | /mnt/stockage/packages/f28/kf5-kdbusaddons/po/ru/kdbusaddons5_qt.po | 
+ | [sk](/f28/language/sk) | 48 | 48 | 100.0 | /mnt/stockage/packages/f28/kf5-kdbusaddons/po/sk/kdbusaddons5_qt.po | 
+ | [sl](/f28/language/sl) | 48 | 48 | 100.0 | /mnt/stockage/packages/f28/kf5-kdbusaddons/po/sl/kdbusaddons5_qt.po | 
+ | [sr](/f28/language/sr) | 48 | 48 | 100.0 | /mnt/stockage/packages/f28/kf5-kdbusaddons/po/sr/kdbusaddons5_qt.po | 
+ | [sr@ijekavian](/f28/language/sr@ijekavian) | 48 | 48 | 100.0 | /mnt/stockage/packages/f28/kf5-kdbusaddons/po/sr@ijekavian/kdbusaddons5_qt.po | 
+ | [sr@ijekavian_Latn](/f28/language/sr@ijekavian_Latn) | 48 | 48 | 100.0 | /mnt/stockage/packages/f28/kf5-kdbusaddons/po/sr@ijekavianlatin/kdbusaddons5_qt.po | 
+ | [sr_Latn](/f28/language/sr_Latn) | 48 | 48 | 100.0 | /mnt/stockage/packages/f28/kf5-kdbusaddons/po/sr@latin/kdbusaddons5_qt.po | 
+ | [sv](/f28/language/sv) | 48 | 48 | 100.0 | /mnt/stockage/packages/f28/kf5-kdbusaddons/po/sv/kdbusaddons5_qt.po | 
+ | [tr](/f28/language/tr) | 48 | 48 | 100.0 | /mnt/stockage/packages/f28/kf5-kdbusaddons/po/tr/kdbusaddons5_qt.po | 
+ | [uk](/f28/language/uk) | 48 | 48 | 100.0 | /mnt/stockage/packages/f28/kf5-kdbusaddons/po/uk/kdbusaddons5_qt.po | 
+ | [zh_Hans](/f28/language/zh_Hans) | 48 | 48 | 100.0 | /mnt/stockage/packages/f28/kf5-kdbusaddons/po/zh_CN/kdbusaddons5_qt.po | 
+ | [zh_Hant](/f28/language/zh_Hant) | 48 | 48 | 100.0 | /mnt/stockage/packages/f28/kf5-kdbusaddons/po/zh_TW/kdbusaddons5_qt.po | 
+ | [se](/f28/language/se) | 0 | 48 | 0.0 | /mnt/stockage/packages/f28/kf5-kdbusaddons/po/se/kdbusaddons5_qt.po | 
 {.sortable}
 
 

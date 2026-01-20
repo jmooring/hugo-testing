@@ -38,9 +38,9 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [enlightenment]({{< ref "/f11/package/enlightenment.md" >}}) | 4989 | 5982 | 83.4 | Enlightenment i18n French <enlightenment-intl@lists.sourceforge.net> | 
- | [liblicense]({{< ref "/f11/package/liblicense.md" >}}) | 45 | 66 | 68.2 | LANGUAGE <LL@li.org> | 
- | [gnomebaker]({{< ref "/f11/package/gnomebaker.md" >}}) | 41 | 1186 | 3.5 | French (Switzerland) <fr_CH@li.org> | 
+ | [enlightenment](/f11/package/enlightenment) | 4989 | 5982 | 83.4 | Enlightenment i18n French <enlightenment-intl@lists.sourceforge.net> | 
+ | [liblicense](/f11/package/liblicense) | 45 | 66 | 68.2 | LANGUAGE <LL@li.org> | 
+ | [gnomebaker](/f11/package/gnomebaker) | 41 | 1186 | 3.5 | French (Switzerland) <fr_CH@li.org> | 
 {.sortable}
 
 

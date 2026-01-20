@@ -18,38 +18,38 @@ The package chatty (version 0.8.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f40/language/cs.md" >}}) | 1340 | 1340 | 100.0 | /mnt/stockage/packages/f40/chatty/po/cs.po | 
- | [da]({{< ref "/f40/language/da.md" >}}) | 574 | 574 | 100.0 | /mnt/stockage/packages/f40/chatty/po/da.po | 
- | [de]({{< ref "/f40/language/de.md" >}}) | 1037 | 1037 | 100.0 | /mnt/stockage/packages/f40/chatty/po/de.po | 
- | [en_GB]({{< ref "/f40/language/en_GB.md" >}}) | 533 | 533 | 100.0 | /mnt/stockage/packages/f40/chatty/po/en_GB.po | 
- | [fa]({{< ref "/f40/language/fa.md" >}}) | 1340 | 1340 | 100.0 | /mnt/stockage/packages/f40/chatty/po/fa.po | 
- | [fur]({{< ref "/f40/language/fur.md" >}}) | 479 | 479 | 100.0 | /mnt/stockage/packages/f40/chatty/po/fur.po | 
- | [he]({{< ref "/f40/language/he.md" >}}) | 1340 | 1340 | 100.0 | /mnt/stockage/packages/f40/chatty/po/he.po | 
- | [hi]({{< ref "/f40/language/hi.md" >}}) | 1117 | 1117 | 100.0 | /mnt/stockage/packages/f40/chatty/po/hi.po | 
- | [ht]({{< ref "/f40/language/ht.md" >}}) | 1039 | 1039 | 100.0 | /mnt/stockage/packages/f40/chatty/po/ht.po | 
- | [hu]({{< ref "/f40/language/hu.md" >}}) | 953 | 953 | 100.0 | /mnt/stockage/packages/f40/chatty/po/hu.po | 
- | [id]({{< ref "/f40/language/id.md" >}}) | 555 | 555 | 100.0 | /mnt/stockage/packages/f40/chatty/po/id.po | 
- | [it]({{< ref "/f40/language/it.md" >}}) | 1117 | 1117 | 100.0 | /mnt/stockage/packages/f40/chatty/po/it.po | 
- | [ka]({{< ref "/f40/language/ka.md" >}}) | 1340 | 1340 | 100.0 | /mnt/stockage/packages/f40/chatty/po/ka.po | 
- | [ko]({{< ref "/f40/language/ko.md" >}}) | 535 | 535 | 100.0 | /mnt/stockage/packages/f40/chatty/po/ko.po | 
- | [la]({{< ref "/f40/language/la.md" >}}) | 522 | 522 | 100.0 | /mnt/stockage/packages/f40/chatty/po/la.po | 
- | [nl]({{< ref "/f40/language/nl.md" >}}) | 677 | 677 | 100.0 | /mnt/stockage/packages/f40/chatty/po/nl.po | 
- | [pt]({{< ref "/f40/language/pt.md" >}}) | 479 | 479 | 100.0 | /mnt/stockage/packages/f40/chatty/po/pt.po | 
- | [ro]({{< ref "/f40/language/ro.md" >}}) | 1340 | 1340 | 100.0 | /mnt/stockage/packages/f40/chatty/po/ro.po | 
- | [ru]({{< ref "/f40/language/ru.md" >}}) | 1340 | 1340 | 100.0 | /mnt/stockage/packages/f40/chatty/po/ru.po | 
- | [sr]({{< ref "/f40/language/sr.md" >}}) | 732 | 732 | 100.0 | /mnt/stockage/packages/f40/chatty/po/sr.po | 
- | [sv]({{< ref "/f40/language/sv.md" >}}) | 1117 | 1117 | 100.0 | /mnt/stockage/packages/f40/chatty/po/sv.po | 
- | [tr]({{< ref "/f40/language/tr.md" >}}) | 1081 | 1081 | 100.0 | /mnt/stockage/packages/f40/chatty/po/tr.po | 
- | [uk]({{< ref "/f40/language/uk.md" >}}) | 1340 | 1340 | 100.0 | /mnt/stockage/packages/f40/chatty/po/uk.po | 
- | [pt_BR]({{< ref "/f40/language/pt_BR.md" >}}) | 953 | 1117 | 85.3 | /mnt/stockage/packages/f40/chatty/po/pt_BR.po | 
- | [fi]({{< ref "/f40/language/fi.md" >}}) | 526 | 626 | 84.0 | /mnt/stockage/packages/f40/chatty/po/fi.po | 
- | [es]({{< ref "/f40/language/es.md" >}}) | 688 | 874 | 78.7 | /mnt/stockage/packages/f40/chatty/po/es.po | 
- | [fr]({{< ref "/f40/language/fr.md" >}}) | 728 | 979 | 74.4 | /mnt/stockage/packages/f40/chatty/po/fr.po | 
- | [eu]({{< ref "/f40/language/eu.md" >}}) | 655 | 1014 | 64.6 | /mnt/stockage/packages/f40/chatty/po/eu.po | 
- | [ja]({{< ref "/f40/language/ja.md" >}}) | 262 | 522 | 50.2 | /mnt/stockage/packages/f40/chatty/po/ja.po | 
- | [el]({{< ref "/f40/language/el.md" >}}) | 79 | 522 | 15.1 | /mnt/stockage/packages/f40/chatty/po/el.po | 
- | [sk]({{< ref "/f40/language/sk.md" >}}) | 32 | 522 | 6.1 | /mnt/stockage/packages/f40/chatty/po/sk.po | 
- | [pl]({{< ref "/f40/language/pl.md" >}}) | 0 | 540 | 0.0 | /mnt/stockage/packages/f40/chatty/po/pl.po | 
+ | [cs](/f40/language/cs) | 1340 | 1340 | 100.0 | /mnt/stockage/packages/f40/chatty/po/cs.po | 
+ | [da](/f40/language/da) | 574 | 574 | 100.0 | /mnt/stockage/packages/f40/chatty/po/da.po | 
+ | [de](/f40/language/de) | 1037 | 1037 | 100.0 | /mnt/stockage/packages/f40/chatty/po/de.po | 
+ | [en_GB](/f40/language/en_GB) | 533 | 533 | 100.0 | /mnt/stockage/packages/f40/chatty/po/en_GB.po | 
+ | [fa](/f40/language/fa) | 1340 | 1340 | 100.0 | /mnt/stockage/packages/f40/chatty/po/fa.po | 
+ | [fur](/f40/language/fur) | 479 | 479 | 100.0 | /mnt/stockage/packages/f40/chatty/po/fur.po | 
+ | [he](/f40/language/he) | 1340 | 1340 | 100.0 | /mnt/stockage/packages/f40/chatty/po/he.po | 
+ | [hi](/f40/language/hi) | 1117 | 1117 | 100.0 | /mnt/stockage/packages/f40/chatty/po/hi.po | 
+ | [ht](/f40/language/ht) | 1039 | 1039 | 100.0 | /mnt/stockage/packages/f40/chatty/po/ht.po | 
+ | [hu](/f40/language/hu) | 953 | 953 | 100.0 | /mnt/stockage/packages/f40/chatty/po/hu.po | 
+ | [id](/f40/language/id) | 555 | 555 | 100.0 | /mnt/stockage/packages/f40/chatty/po/id.po | 
+ | [it](/f40/language/it) | 1117 | 1117 | 100.0 | /mnt/stockage/packages/f40/chatty/po/it.po | 
+ | [ka](/f40/language/ka) | 1340 | 1340 | 100.0 | /mnt/stockage/packages/f40/chatty/po/ka.po | 
+ | [ko](/f40/language/ko) | 535 | 535 | 100.0 | /mnt/stockage/packages/f40/chatty/po/ko.po | 
+ | [la](/f40/language/la) | 522 | 522 | 100.0 | /mnt/stockage/packages/f40/chatty/po/la.po | 
+ | [nl](/f40/language/nl) | 677 | 677 | 100.0 | /mnt/stockage/packages/f40/chatty/po/nl.po | 
+ | [pt](/f40/language/pt) | 479 | 479 | 100.0 | /mnt/stockage/packages/f40/chatty/po/pt.po | 
+ | [ro](/f40/language/ro) | 1340 | 1340 | 100.0 | /mnt/stockage/packages/f40/chatty/po/ro.po | 
+ | [ru](/f40/language/ru) | 1340 | 1340 | 100.0 | /mnt/stockage/packages/f40/chatty/po/ru.po | 
+ | [sr](/f40/language/sr) | 732 | 732 | 100.0 | /mnt/stockage/packages/f40/chatty/po/sr.po | 
+ | [sv](/f40/language/sv) | 1117 | 1117 | 100.0 | /mnt/stockage/packages/f40/chatty/po/sv.po | 
+ | [tr](/f40/language/tr) | 1081 | 1081 | 100.0 | /mnt/stockage/packages/f40/chatty/po/tr.po | 
+ | [uk](/f40/language/uk) | 1340 | 1340 | 100.0 | /mnt/stockage/packages/f40/chatty/po/uk.po | 
+ | [pt_BR](/f40/language/pt_BR) | 953 | 1117 | 85.3 | /mnt/stockage/packages/f40/chatty/po/pt_BR.po | 
+ | [fi](/f40/language/fi) | 526 | 626 | 84.0 | /mnt/stockage/packages/f40/chatty/po/fi.po | 
+ | [es](/f40/language/es) | 688 | 874 | 78.7 | /mnt/stockage/packages/f40/chatty/po/es.po | 
+ | [fr](/f40/language/fr) | 728 | 979 | 74.4 | /mnt/stockage/packages/f40/chatty/po/fr.po | 
+ | [eu](/f40/language/eu) | 655 | 1014 | 64.6 | /mnt/stockage/packages/f40/chatty/po/eu.po | 
+ | [ja](/f40/language/ja) | 262 | 522 | 50.2 | /mnt/stockage/packages/f40/chatty/po/ja.po | 
+ | [el](/f40/language/el) | 79 | 522 | 15.1 | /mnt/stockage/packages/f40/chatty/po/el.po | 
+ | [sk](/f40/language/sk) | 32 | 522 | 6.1 | /mnt/stockage/packages/f40/chatty/po/sk.po | 
+ | [pl](/f40/language/pl) | 0 | 540 | 0.0 | /mnt/stockage/packages/f40/chatty/po/pl.po | 
 {.sortable}
 
 

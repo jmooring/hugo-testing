@@ -18,19 +18,19 @@ The package lftp (version 4.4.9):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f18/language/cs.md" >}}) | 3827 | 3833 | 99.8 | /mnt/stockage/packages/f18/lftp/po/cs.po | 
- | [pl]({{< ref "/f18/language/pl.md" >}}) | 3827 | 3833 | 99.8 | /mnt/stockage/packages/f18/lftp/po/pl.po | 
- | [ru]({{< ref "/f18/language/ru.md" >}}) | 3143 | 3833 | 82.0 | /mnt/stockage/packages/f18/lftp/po/ru.po | 
- | [de]({{< ref "/f18/language/de.md" >}}) | 3012 | 3833 | 78.6 | /mnt/stockage/packages/f18/lftp/po/de.po | 
- | [fr]({{< ref "/f18/language/fr.md" >}}) | 3012 | 3833 | 78.6 | /mnt/stockage/packages/f18/lftp/po/fr.po | 
- | [zh_Hant]({{< ref "/f18/language/zh_Hant.md" >}}) | 2899 | 3833 | 75.6 | /mnt/stockage/packages/f18/lftp/po/zh_TW.po | 
- | [zh_Hant_HK]({{< ref "/f18/language/zh_Hant_HK.md" >}}) | 2899 | 3833 | 75.6 | /mnt/stockage/packages/f18/lftp/po/zh_HK.po | 
- | [es]({{< ref "/f18/language/es.md" >}}) | 2052 | 3833 | 53.5 | /mnt/stockage/packages/f18/lftp/po/es.po | 
- | [ja]({{< ref "/f18/language/ja.md" >}}) | 1789 | 3833 | 46.7 | /mnt/stockage/packages/f18/lftp/po/ja.po | 
- | [ko]({{< ref "/f18/language/ko.md" >}}) | 1566 | 3833 | 40.9 | /mnt/stockage/packages/f18/lftp/po/ko.po | 
- | [it]({{< ref "/f18/language/it.md" >}}) | 1262 | 3833 | 32.9 | /mnt/stockage/packages/f18/lftp/po/it.po | 
- | [zh_Hans]({{< ref "/f18/language/zh_Hans.md" >}}) | 1008 | 3833 | 26.3 | /mnt/stockage/packages/f18/lftp/po/zh_CN.po | 
- | [pt_BR]({{< ref "/f18/language/pt_BR.md" >}}) | 289 | 3833 | 7.5 | /mnt/stockage/packages/f18/lftp/po/pt_BR.po | 
+ | [cs](/f18/language/cs) | 3827 | 3833 | 99.8 | /mnt/stockage/packages/f18/lftp/po/cs.po | 
+ | [pl](/f18/language/pl) | 3827 | 3833 | 99.8 | /mnt/stockage/packages/f18/lftp/po/pl.po | 
+ | [ru](/f18/language/ru) | 3143 | 3833 | 82.0 | /mnt/stockage/packages/f18/lftp/po/ru.po | 
+ | [de](/f18/language/de) | 3012 | 3833 | 78.6 | /mnt/stockage/packages/f18/lftp/po/de.po | 
+ | [fr](/f18/language/fr) | 3012 | 3833 | 78.6 | /mnt/stockage/packages/f18/lftp/po/fr.po | 
+ | [zh_Hant](/f18/language/zh_Hant) | 2899 | 3833 | 75.6 | /mnt/stockage/packages/f18/lftp/po/zh_TW.po | 
+ | [zh_Hant_HK](/f18/language/zh_Hant_HK) | 2899 | 3833 | 75.6 | /mnt/stockage/packages/f18/lftp/po/zh_HK.po | 
+ | [es](/f18/language/es) | 2052 | 3833 | 53.5 | /mnt/stockage/packages/f18/lftp/po/es.po | 
+ | [ja](/f18/language/ja) | 1789 | 3833 | 46.7 | /mnt/stockage/packages/f18/lftp/po/ja.po | 
+ | [ko](/f18/language/ko) | 1566 | 3833 | 40.9 | /mnt/stockage/packages/f18/lftp/po/ko.po | 
+ | [it](/f18/language/it) | 1262 | 3833 | 32.9 | /mnt/stockage/packages/f18/lftp/po/it.po | 
+ | [zh_Hans](/f18/language/zh_Hans) | 1008 | 3833 | 26.3 | /mnt/stockage/packages/f18/lftp/po/zh_CN.po | 
+ | [pt_BR](/f18/language/pt_BR) | 289 | 3833 | 7.5 | /mnt/stockage/packages/f18/lftp/po/pt_BR.po | 
 {.sortable}
 
 

@@ -18,60 +18,60 @@ The package system-config-lvm (version 1.1.18):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [as]({{< ref "/f16/language/as.md" >}}) | 2246 | 2246 | 100.0 | /mnt/stockage/packages/f16/system-config-lvm/po/as.po | 
- | [bn_IN]({{< ref "/f16/language/bn_IN.md" >}}) | 2246 | 2246 | 100.0 | /mnt/stockage/packages/f16/system-config-lvm/po/bn_IN.po | 
- | [ca]({{< ref "/f16/language/ca.md" >}}) | 2246 | 2246 | 100.0 | /mnt/stockage/packages/f16/system-config-lvm/po/ca.po | 
- | [cs]({{< ref "/f16/language/cs.md" >}}) | 2246 | 2246 | 100.0 | /mnt/stockage/packages/f16/system-config-lvm/po/cs.po | 
- | [da]({{< ref "/f16/language/da.md" >}}) | 2246 | 2246 | 100.0 | /mnt/stockage/packages/f16/system-config-lvm/po/da.po | 
- | [de]({{< ref "/f16/language/de.md" >}}) | 2246 | 2246 | 100.0 | /mnt/stockage/packages/f16/system-config-lvm/po/de.po | 
- | [en_GB]({{< ref "/f16/language/en_GB.md" >}}) | 2246 | 2246 | 100.0 | /mnt/stockage/packages/f16/system-config-lvm/po/en_GB.po | 
- | [es]({{< ref "/f16/language/es.md" >}}) | 2246 | 2246 | 100.0 | /mnt/stockage/packages/f16/system-config-lvm/po/es.po | 
- | [fi]({{< ref "/f16/language/fi.md" >}}) | 2246 | 2246 | 100.0 | /mnt/stockage/packages/f16/system-config-lvm/po/fi.po | 
- | [fr]({{< ref "/f16/language/fr.md" >}}) | 2246 | 2246 | 100.0 | /mnt/stockage/packages/f16/system-config-lvm/po/fr.po | 
- | [gu]({{< ref "/f16/language/gu.md" >}}) | 2246 | 2246 | 100.0 | /mnt/stockage/packages/f16/system-config-lvm/po/gu.po | 
- | [hi]({{< ref "/f16/language/hi.md" >}}) | 2246 | 2246 | 100.0 | /mnt/stockage/packages/f16/system-config-lvm/po/hi.po | 
- | [hu]({{< ref "/f16/language/hu.md" >}}) | 2246 | 2246 | 100.0 | /mnt/stockage/packages/f16/system-config-lvm/po/hu.po | 
- | [it]({{< ref "/f16/language/it.md" >}}) | 2246 | 2246 | 100.0 | /mnt/stockage/packages/f16/system-config-lvm/po/it.po | 
- | [ja]({{< ref "/f16/language/ja.md" >}}) | 2246 | 2246 | 100.0 | /mnt/stockage/packages/f16/system-config-lvm/po/ja.po | 
- | [kn]({{< ref "/f16/language/kn.md" >}}) | 2246 | 2246 | 100.0 | /mnt/stockage/packages/f16/system-config-lvm/po/kn.po | 
- | [ko]({{< ref "/f16/language/ko.md" >}}) | 2246 | 2246 | 100.0 | /mnt/stockage/packages/f16/system-config-lvm/po/ko.po | 
- | [ml]({{< ref "/f16/language/ml.md" >}}) | 2246 | 2246 | 100.0 | /mnt/stockage/packages/f16/system-config-lvm/po/ml.po | 
- | [mr]({{< ref "/f16/language/mr.md" >}}) | 2246 | 2246 | 100.0 | /mnt/stockage/packages/f16/system-config-lvm/po/mr.po | 
- | [nl]({{< ref "/f16/language/nl.md" >}}) | 2246 | 2246 | 100.0 | /mnt/stockage/packages/f16/system-config-lvm/po/nl.po | 
- | [or]({{< ref "/f16/language/or.md" >}}) | 2246 | 2246 | 100.0 | /mnt/stockage/packages/f16/system-config-lvm/po/or.po | 
- | [pa]({{< ref "/f16/language/pa.md" >}}) | 2246 | 2246 | 100.0 | /mnt/stockage/packages/f16/system-config-lvm/po/pa.po | 
- | [pl]({{< ref "/f16/language/pl.md" >}}) | 2246 | 2246 | 100.0 | /mnt/stockage/packages/f16/system-config-lvm/po/pl.po | 
- | [pt]({{< ref "/f16/language/pt.md" >}}) | 2246 | 2246 | 100.0 | /mnt/stockage/packages/f16/system-config-lvm/po/pt.po | 
- | [pt_BR]({{< ref "/f16/language/pt_BR.md" >}}) | 2246 | 2246 | 100.0 | /mnt/stockage/packages/f16/system-config-lvm/po/pt_BR.po | 
- | [ru]({{< ref "/f16/language/ru.md" >}}) | 2246 | 2246 | 100.0 | /mnt/stockage/packages/f16/system-config-lvm/po/ru.po | 
- | [sr]({{< ref "/f16/language/sr.md" >}}) | 2246 | 2246 | 100.0 | /mnt/stockage/packages/f16/system-config-lvm/po/sr.po | 
- | [sr_Latn]({{< ref "/f16/language/sr_Latn.md" >}}) | 2246 | 2246 | 100.0 | /mnt/stockage/packages/f16/system-config-lvm/po/sr@latin.po | 
- | [sv]({{< ref "/f16/language/sv.md" >}}) | 2246 | 2246 | 100.0 | /mnt/stockage/packages/f16/system-config-lvm/po/sv.po | 
- | [ta]({{< ref "/f16/language/ta.md" >}}) | 2246 | 2246 | 100.0 | /mnt/stockage/packages/f16/system-config-lvm/po/ta.po | 
- | [te]({{< ref "/f16/language/te.md" >}}) | 2246 | 2246 | 100.0 | /mnt/stockage/packages/f16/system-config-lvm/po/te.po | 
- | [uk]({{< ref "/f16/language/uk.md" >}}) | 2246 | 2246 | 100.0 | /mnt/stockage/packages/f16/system-config-lvm/po/uk.po | 
- | [zh_Hans]({{< ref "/f16/language/zh_Hans.md" >}}) | 2246 | 2246 | 100.0 | /mnt/stockage/packages/f16/system-config-lvm/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f16/language/zh_Hant.md" >}}) | 2246 | 2246 | 100.0 | /mnt/stockage/packages/f16/system-config-lvm/po/zh_TW.po | 
- | [bs]({{< ref "/f16/language/bs.md" >}}) | 2049 | 2142 | 95.7 | /mnt/stockage/packages/f16/system-config-lvm/po/bs.po | 
- | [hr]({{< ref "/f16/language/hr.md" >}}) | 2049 | 2142 | 95.7 | /mnt/stockage/packages/f16/system-config-lvm/po/hr.po | 
- | [is]({{< ref "/f16/language/is.md" >}}) | 2049 | 2142 | 95.7 | /mnt/stockage/packages/f16/system-config-lvm/po/is.po | 
- | [sk]({{< ref "/f16/language/sk.md" >}}) | 2049 | 2142 | 95.7 | /mnt/stockage/packages/f16/system-config-lvm/po/sk.po | 
- | [id]({{< ref "/f16/language/id.md" >}}) | 2084 | 2236 | 93.2 | /mnt/stockage/packages/f16/system-config-lvm/po/id.po | 
- | [mai]({{< ref "/f16/language/mai.md" >}}) | 2084 | 2236 | 93.2 | /mnt/stockage/packages/f16/system-config-lvm/po/mai.po | 
- | [bn]({{< ref "/f16/language/bn.md" >}}) | 1902 | 2142 | 88.8 | /mnt/stockage/packages/f16/system-config-lvm/po/bn.po | 
- | [ar]({{< ref "/f16/language/ar.md" >}}) | 1821 | 2142 | 85.0 | /mnt/stockage/packages/f16/system-config-lvm/po/ar.po | 
- | [ms]({{< ref "/f16/language/ms.md" >}}) | 653 | 2236 | 29.2 | /mnt/stockage/packages/f16/system-config-lvm/po/ms.po | 
- | [bg]({{< ref "/f16/language/bg.md" >}}) | 577 | 2142 | 26.9 | /mnt/stockage/packages/f16/system-config-lvm/po/bg.po | 
- | [mk]({{< ref "/f16/language/mk.md" >}}) | 577 | 2142 | 26.9 | /mnt/stockage/packages/f16/system-config-lvm/po/mk.po | 
- | [fa]({{< ref "/f16/language/fa.md" >}}) | 568 | 2142 | 26.5 | /mnt/stockage/packages/f16/system-config-lvm/po/fa.po | 
- | [si]({{< ref "/f16/language/si.md" >}}) | 560 | 2236 | 25.0 | /mnt/stockage/packages/f16/system-config-lvm/po/si.po | 
- | [nb_NO]({{< ref "/f16/language/nb_NO.md" >}}) | 487 | 2142 | 22.7 | /mnt/stockage/packages/f16/system-config-lvm/po/nb.po | 
- | [tr]({{< ref "/f16/language/tr.md" >}}) | 481 | 2246 | 21.4 | /mnt/stockage/packages/f16/system-config-lvm/po/tr.po | 
- | [et]({{< ref "/f16/language/et.md" >}}) | 403 | 2142 | 18.8 | /mnt/stockage/packages/f16/system-config-lvm/po/et.po | 
- | [el]({{< ref "/f16/language/el.md" >}}) | 97 | 2246 | 4.3 | /mnt/stockage/packages/f16/system-config-lvm/po/el.po | 
- | [nds]({{< ref "/f16/language/nds.md" >}}) | 40 | 2246 | 1.8 | /mnt/stockage/packages/f16/system-config-lvm/po/nds.po | 
- | [hy]({{< ref "/f16/language/hy.md" >}}) | 0 | 2142 | 0.0 | /mnt/stockage/packages/f16/system-config-lvm/po/hy.po | 
- | [my]({{< ref "/f16/language/my.md" >}}) | 0 | 2142 | 0.0 | /mnt/stockage/packages/f16/system-config-lvm/po/my.po | 
+ | [as](/f16/language/as) | 2246 | 2246 | 100.0 | /mnt/stockage/packages/f16/system-config-lvm/po/as.po | 
+ | [bn_IN](/f16/language/bn_IN) | 2246 | 2246 | 100.0 | /mnt/stockage/packages/f16/system-config-lvm/po/bn_IN.po | 
+ | [ca](/f16/language/ca) | 2246 | 2246 | 100.0 | /mnt/stockage/packages/f16/system-config-lvm/po/ca.po | 
+ | [cs](/f16/language/cs) | 2246 | 2246 | 100.0 | /mnt/stockage/packages/f16/system-config-lvm/po/cs.po | 
+ | [da](/f16/language/da) | 2246 | 2246 | 100.0 | /mnt/stockage/packages/f16/system-config-lvm/po/da.po | 
+ | [de](/f16/language/de) | 2246 | 2246 | 100.0 | /mnt/stockage/packages/f16/system-config-lvm/po/de.po | 
+ | [en_GB](/f16/language/en_GB) | 2246 | 2246 | 100.0 | /mnt/stockage/packages/f16/system-config-lvm/po/en_GB.po | 
+ | [es](/f16/language/es) | 2246 | 2246 | 100.0 | /mnt/stockage/packages/f16/system-config-lvm/po/es.po | 
+ | [fi](/f16/language/fi) | 2246 | 2246 | 100.0 | /mnt/stockage/packages/f16/system-config-lvm/po/fi.po | 
+ | [fr](/f16/language/fr) | 2246 | 2246 | 100.0 | /mnt/stockage/packages/f16/system-config-lvm/po/fr.po | 
+ | [gu](/f16/language/gu) | 2246 | 2246 | 100.0 | /mnt/stockage/packages/f16/system-config-lvm/po/gu.po | 
+ | [hi](/f16/language/hi) | 2246 | 2246 | 100.0 | /mnt/stockage/packages/f16/system-config-lvm/po/hi.po | 
+ | [hu](/f16/language/hu) | 2246 | 2246 | 100.0 | /mnt/stockage/packages/f16/system-config-lvm/po/hu.po | 
+ | [it](/f16/language/it) | 2246 | 2246 | 100.0 | /mnt/stockage/packages/f16/system-config-lvm/po/it.po | 
+ | [ja](/f16/language/ja) | 2246 | 2246 | 100.0 | /mnt/stockage/packages/f16/system-config-lvm/po/ja.po | 
+ | [kn](/f16/language/kn) | 2246 | 2246 | 100.0 | /mnt/stockage/packages/f16/system-config-lvm/po/kn.po | 
+ | [ko](/f16/language/ko) | 2246 | 2246 | 100.0 | /mnt/stockage/packages/f16/system-config-lvm/po/ko.po | 
+ | [ml](/f16/language/ml) | 2246 | 2246 | 100.0 | /mnt/stockage/packages/f16/system-config-lvm/po/ml.po | 
+ | [mr](/f16/language/mr) | 2246 | 2246 | 100.0 | /mnt/stockage/packages/f16/system-config-lvm/po/mr.po | 
+ | [nl](/f16/language/nl) | 2246 | 2246 | 100.0 | /mnt/stockage/packages/f16/system-config-lvm/po/nl.po | 
+ | [or](/f16/language/or) | 2246 | 2246 | 100.0 | /mnt/stockage/packages/f16/system-config-lvm/po/or.po | 
+ | [pa](/f16/language/pa) | 2246 | 2246 | 100.0 | /mnt/stockage/packages/f16/system-config-lvm/po/pa.po | 
+ | [pl](/f16/language/pl) | 2246 | 2246 | 100.0 | /mnt/stockage/packages/f16/system-config-lvm/po/pl.po | 
+ | [pt](/f16/language/pt) | 2246 | 2246 | 100.0 | /mnt/stockage/packages/f16/system-config-lvm/po/pt.po | 
+ | [pt_BR](/f16/language/pt_BR) | 2246 | 2246 | 100.0 | /mnt/stockage/packages/f16/system-config-lvm/po/pt_BR.po | 
+ | [ru](/f16/language/ru) | 2246 | 2246 | 100.0 | /mnt/stockage/packages/f16/system-config-lvm/po/ru.po | 
+ | [sr](/f16/language/sr) | 2246 | 2246 | 100.0 | /mnt/stockage/packages/f16/system-config-lvm/po/sr.po | 
+ | [sr_Latn](/f16/language/sr_Latn) | 2246 | 2246 | 100.0 | /mnt/stockage/packages/f16/system-config-lvm/po/sr@latin.po | 
+ | [sv](/f16/language/sv) | 2246 | 2246 | 100.0 | /mnt/stockage/packages/f16/system-config-lvm/po/sv.po | 
+ | [ta](/f16/language/ta) | 2246 | 2246 | 100.0 | /mnt/stockage/packages/f16/system-config-lvm/po/ta.po | 
+ | [te](/f16/language/te) | 2246 | 2246 | 100.0 | /mnt/stockage/packages/f16/system-config-lvm/po/te.po | 
+ | [uk](/f16/language/uk) | 2246 | 2246 | 100.0 | /mnt/stockage/packages/f16/system-config-lvm/po/uk.po | 
+ | [zh_Hans](/f16/language/zh_Hans) | 2246 | 2246 | 100.0 | /mnt/stockage/packages/f16/system-config-lvm/po/zh_CN.po | 
+ | [zh_Hant](/f16/language/zh_Hant) | 2246 | 2246 | 100.0 | /mnt/stockage/packages/f16/system-config-lvm/po/zh_TW.po | 
+ | [bs](/f16/language/bs) | 2049 | 2142 | 95.7 | /mnt/stockage/packages/f16/system-config-lvm/po/bs.po | 
+ | [hr](/f16/language/hr) | 2049 | 2142 | 95.7 | /mnt/stockage/packages/f16/system-config-lvm/po/hr.po | 
+ | [is](/f16/language/is) | 2049 | 2142 | 95.7 | /mnt/stockage/packages/f16/system-config-lvm/po/is.po | 
+ | [sk](/f16/language/sk) | 2049 | 2142 | 95.7 | /mnt/stockage/packages/f16/system-config-lvm/po/sk.po | 
+ | [id](/f16/language/id) | 2084 | 2236 | 93.2 | /mnt/stockage/packages/f16/system-config-lvm/po/id.po | 
+ | [mai](/f16/language/mai) | 2084 | 2236 | 93.2 | /mnt/stockage/packages/f16/system-config-lvm/po/mai.po | 
+ | [bn](/f16/language/bn) | 1902 | 2142 | 88.8 | /mnt/stockage/packages/f16/system-config-lvm/po/bn.po | 
+ | [ar](/f16/language/ar) | 1821 | 2142 | 85.0 | /mnt/stockage/packages/f16/system-config-lvm/po/ar.po | 
+ | [ms](/f16/language/ms) | 653 | 2236 | 29.2 | /mnt/stockage/packages/f16/system-config-lvm/po/ms.po | 
+ | [bg](/f16/language/bg) | 577 | 2142 | 26.9 | /mnt/stockage/packages/f16/system-config-lvm/po/bg.po | 
+ | [mk](/f16/language/mk) | 577 | 2142 | 26.9 | /mnt/stockage/packages/f16/system-config-lvm/po/mk.po | 
+ | [fa](/f16/language/fa) | 568 | 2142 | 26.5 | /mnt/stockage/packages/f16/system-config-lvm/po/fa.po | 
+ | [si](/f16/language/si) | 560 | 2236 | 25.0 | /mnt/stockage/packages/f16/system-config-lvm/po/si.po | 
+ | [nb_NO](/f16/language/nb_NO) | 487 | 2142 | 22.7 | /mnt/stockage/packages/f16/system-config-lvm/po/nb.po | 
+ | [tr](/f16/language/tr) | 481 | 2246 | 21.4 | /mnt/stockage/packages/f16/system-config-lvm/po/tr.po | 
+ | [et](/f16/language/et) | 403 | 2142 | 18.8 | /mnt/stockage/packages/f16/system-config-lvm/po/et.po | 
+ | [el](/f16/language/el) | 97 | 2246 | 4.3 | /mnt/stockage/packages/f16/system-config-lvm/po/el.po | 
+ | [nds](/f16/language/nds) | 40 | 2246 | 1.8 | /mnt/stockage/packages/f16/system-config-lvm/po/nds.po | 
+ | [hy](/f16/language/hy) | 0 | 2142 | 0.0 | /mnt/stockage/packages/f16/system-config-lvm/po/hy.po | 
+ | [my](/f16/language/my) | 0 | 2142 | 0.0 | /mnt/stockage/packages/f16/system-config-lvm/po/my.po | 
 {.sortable}
 
 

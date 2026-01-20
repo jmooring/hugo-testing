@@ -18,7 +18,7 @@ The package elfelli (version 0.3.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f16/language/de.md" >}}) | 170 | 170 | 100.0 | /mnt/stockage/packages/f16/elfelli/po/de.po | 
+ | [de](/f16/language/de) | 170 | 170 | 100.0 | /mnt/stockage/packages/f16/elfelli/po/de.po | 
 {.sortable}
 
 

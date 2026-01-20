@@ -18,26 +18,26 @@ The package sugar-locosugar (version 12):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ach]({{< ref "/f34/language/ach.md" >}}) | 74 | 74 | 100.0 | /mnt/stockage/packages/f34/sugar-locosugar/po/ach.po | 
- | [ayc]({{< ref "/f34/language/ayc.md" >}}) | 74 | 74 | 100.0 | /mnt/stockage/packages/f34/sugar-locosugar/po/ayc.po | 
- | [da]({{< ref "/f34/language/da.md" >}}) | 74 | 74 | 100.0 | /mnt/stockage/packages/f34/sugar-locosugar/po/da.po | 
- | [en]({{< ref "/f34/language/en.md" >}}) | 74 | 74 | 100.0 | /mnt/stockage/packages/f34/sugar-locosugar/po/en.po | 
- | [en_GB]({{< ref "/f34/language/en_GB.md" >}}) | 74 | 74 | 100.0 | /mnt/stockage/packages/f34/sugar-locosugar/po/en_GB.po | 
- | [en_US]({{< ref "/f34/language/en_US.md" >}}) | 74 | 74 | 100.0 | /mnt/stockage/packages/f34/sugar-locosugar/po/en_US.po | 
- | [es]({{< ref "/f34/language/es.md" >}}) | 74 | 74 | 100.0 | /mnt/stockage/packages/f34/sugar-locosugar/po/es.po | 
- | [fr]({{< ref "/f34/language/fr.md" >}}) | 74 | 74 | 100.0 | /mnt/stockage/packages/f34/sugar-locosugar/po/fr.po | 
- | [gug]({{< ref "/f34/language/gug.md" >}}) | 74 | 74 | 100.0 | /mnt/stockage/packages/f34/sugar-locosugar/po/gug.po | 
- | [hy]({{< ref "/f34/language/hy.md" >}}) | 74 | 74 | 100.0 | /mnt/stockage/packages/f34/sugar-locosugar/po/hy.po | 
- | [ig]({{< ref "/f34/language/ig.md" >}}) | 74 | 74 | 100.0 | /mnt/stockage/packages/f34/sugar-locosugar/po/ibo.po | 
- | [nl]({{< ref "/f34/language/nl.md" >}}) | 74 | 74 | 100.0 | /mnt/stockage/packages/f34/sugar-locosugar/po/nl.po | 
- | [pl]({{< ref "/f34/language/pl.md" >}}) | 74 | 74 | 100.0 | /mnt/stockage/packages/f34/sugar-locosugar/po/pl.po | 
- | [pt_BR]({{< ref "/f34/language/pt_BR.md" >}}) | 74 | 74 | 100.0 | /mnt/stockage/packages/f34/sugar-locosugar/po/pt_BR.po | 
- | [ru]({{< ref "/f34/language/ru.md" >}}) | 74 | 74 | 100.0 | /mnt/stockage/packages/f34/sugar-locosugar/po/ru.po | 
- | [sq]({{< ref "/f34/language/sq.md" >}}) | 74 | 74 | 100.0 | /mnt/stockage/packages/f34/sugar-locosugar/po/sq.po | 
- | [sv]({{< ref "/f34/language/sv.md" >}}) | 74 | 74 | 100.0 | /mnt/stockage/packages/f34/sugar-locosugar/po/sv.po | 
- | [uk]({{< ref "/f34/language/uk.md" >}}) | 74 | 74 | 100.0 | /mnt/stockage/packages/f34/sugar-locosugar/po/uk.po | 
- | [zh_Hans]({{< ref "/f34/language/zh_Hans.md" >}}) | 74 | 74 | 100.0 | /mnt/stockage/packages/f34/sugar-locosugar/po/zh_CN.po | 
- | [hi]({{< ref "/f34/language/hi.md" >}}) | 73 | 74 | 98.6 | /mnt/stockage/packages/f34/sugar-locosugar/po/hi.po | 
+ | [ach](/f34/language/ach) | 74 | 74 | 100.0 | /mnt/stockage/packages/f34/sugar-locosugar/po/ach.po | 
+ | [ayc](/f34/language/ayc) | 74 | 74 | 100.0 | /mnt/stockage/packages/f34/sugar-locosugar/po/ayc.po | 
+ | [da](/f34/language/da) | 74 | 74 | 100.0 | /mnt/stockage/packages/f34/sugar-locosugar/po/da.po | 
+ | [en](/f34/language/en) | 74 | 74 | 100.0 | /mnt/stockage/packages/f34/sugar-locosugar/po/en.po | 
+ | [en_GB](/f34/language/en_GB) | 74 | 74 | 100.0 | /mnt/stockage/packages/f34/sugar-locosugar/po/en_GB.po | 
+ | [en_US](/f34/language/en_US) | 74 | 74 | 100.0 | /mnt/stockage/packages/f34/sugar-locosugar/po/en_US.po | 
+ | [es](/f34/language/es) | 74 | 74 | 100.0 | /mnt/stockage/packages/f34/sugar-locosugar/po/es.po | 
+ | [fr](/f34/language/fr) | 74 | 74 | 100.0 | /mnt/stockage/packages/f34/sugar-locosugar/po/fr.po | 
+ | [gug](/f34/language/gug) | 74 | 74 | 100.0 | /mnt/stockage/packages/f34/sugar-locosugar/po/gug.po | 
+ | [hy](/f34/language/hy) | 74 | 74 | 100.0 | /mnt/stockage/packages/f34/sugar-locosugar/po/hy.po | 
+ | [ig](/f34/language/ig) | 74 | 74 | 100.0 | /mnt/stockage/packages/f34/sugar-locosugar/po/ibo.po | 
+ | [nl](/f34/language/nl) | 74 | 74 | 100.0 | /mnt/stockage/packages/f34/sugar-locosugar/po/nl.po | 
+ | [pl](/f34/language/pl) | 74 | 74 | 100.0 | /mnt/stockage/packages/f34/sugar-locosugar/po/pl.po | 
+ | [pt_BR](/f34/language/pt_BR) | 74 | 74 | 100.0 | /mnt/stockage/packages/f34/sugar-locosugar/po/pt_BR.po | 
+ | [ru](/f34/language/ru) | 74 | 74 | 100.0 | /mnt/stockage/packages/f34/sugar-locosugar/po/ru.po | 
+ | [sq](/f34/language/sq) | 74 | 74 | 100.0 | /mnt/stockage/packages/f34/sugar-locosugar/po/sq.po | 
+ | [sv](/f34/language/sv) | 74 | 74 | 100.0 | /mnt/stockage/packages/f34/sugar-locosugar/po/sv.po | 
+ | [uk](/f34/language/uk) | 74 | 74 | 100.0 | /mnt/stockage/packages/f34/sugar-locosugar/po/uk.po | 
+ | [zh_Hans](/f34/language/zh_Hans) | 74 | 74 | 100.0 | /mnt/stockage/packages/f34/sugar-locosugar/po/zh_CN.po | 
+ | [hi](/f34/language/hi) | 73 | 74 | 98.6 | /mnt/stockage/packages/f34/sugar-locosugar/po/hi.po | 
 {.sortable}
 
 

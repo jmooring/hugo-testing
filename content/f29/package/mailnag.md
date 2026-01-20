@@ -18,23 +18,23 @@ The package mailnag (version 1.2.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f29/language/cs.md" >}}) | 205 | 205 | 100.0 | /mnt/stockage/packages/f29/mailnag/po/cs.po | 
- | [de]({{< ref "/f29/language/de.md" >}}) | 205 | 205 | 100.0 | /mnt/stockage/packages/f29/mailnag/po/de.po | 
- | [pt]({{< ref "/f29/language/pt.md" >}}) | 205 | 205 | 100.0 | /mnt/stockage/packages/f29/mailnag/po/pt.po | 
- | [pt_BR]({{< ref "/f29/language/pt_BR.md" >}}) | 205 | 205 | 100.0 | /mnt/stockage/packages/f29/mailnag/po/pt_BR.po | 
- | [sv]({{< ref "/f29/language/sv.md" >}}) | 205 | 205 | 100.0 | /mnt/stockage/packages/f29/mailnag/po/sv.po | 
- | [id]({{< ref "/f29/language/id.md" >}}) | 179 | 205 | 87.3 | /mnt/stockage/packages/f29/mailnag/po/id.po | 
- | [sr]({{< ref "/f29/language/sr.md" >}}) | 179 | 205 | 87.3 | /mnt/stockage/packages/f29/mailnag/po/sr.po | 
- | [es]({{< ref "/f29/language/es.md" >}}) | 145 | 205 | 70.7 | /mnt/stockage/packages/f29/mailnag/po/es.po | 
- | [fr]({{< ref "/f29/language/fr.md" >}}) | 145 | 205 | 70.7 | /mnt/stockage/packages/f29/mailnag/po/fr.po | 
- | [it]({{< ref "/f29/language/it.md" >}}) | 145 | 205 | 70.7 | /mnt/stockage/packages/f29/mailnag/po/it.po | 
- | [zh_Hant]({{< ref "/f29/language/zh_Hant.md" >}}) | 135 | 205 | 65.9 | /mnt/stockage/packages/f29/mailnag/po/zh_TW.po | 
- | [gl]({{< ref "/f29/language/gl.md" >}}) | 129 | 205 | 62.9 | /mnt/stockage/packages/f29/mailnag/po/gl.po | 
- | [uk]({{< ref "/f29/language/uk.md" >}}) | 129 | 205 | 62.9 | /mnt/stockage/packages/f29/mailnag/po/uk.po | 
- | [tr]({{< ref "/f29/language/tr.md" >}}) | 124 | 205 | 60.5 | /mnt/stockage/packages/f29/mailnag/po/tr.po | 
- | [zh_Hans]({{< ref "/f29/language/zh_Hans.md" >}}) | 90 | 205 | 43.9 | /mnt/stockage/packages/f29/mailnag/po/zh_CN.po | 
- | [pl]({{< ref "/f29/language/pl.md" >}}) | 89 | 205 | 43.4 | /mnt/stockage/packages/f29/mailnag/po/pl.po | 
- | [he]({{< ref "/f29/language/he.md" >}}) | 64 | 205 | 31.2 | /mnt/stockage/packages/f29/mailnag/po/he.po | 
+ | [cs](/f29/language/cs) | 205 | 205 | 100.0 | /mnt/stockage/packages/f29/mailnag/po/cs.po | 
+ | [de](/f29/language/de) | 205 | 205 | 100.0 | /mnt/stockage/packages/f29/mailnag/po/de.po | 
+ | [pt](/f29/language/pt) | 205 | 205 | 100.0 | /mnt/stockage/packages/f29/mailnag/po/pt.po | 
+ | [pt_BR](/f29/language/pt_BR) | 205 | 205 | 100.0 | /mnt/stockage/packages/f29/mailnag/po/pt_BR.po | 
+ | [sv](/f29/language/sv) | 205 | 205 | 100.0 | /mnt/stockage/packages/f29/mailnag/po/sv.po | 
+ | [id](/f29/language/id) | 179 | 205 | 87.3 | /mnt/stockage/packages/f29/mailnag/po/id.po | 
+ | [sr](/f29/language/sr) | 179 | 205 | 87.3 | /mnt/stockage/packages/f29/mailnag/po/sr.po | 
+ | [es](/f29/language/es) | 145 | 205 | 70.7 | /mnt/stockage/packages/f29/mailnag/po/es.po | 
+ | [fr](/f29/language/fr) | 145 | 205 | 70.7 | /mnt/stockage/packages/f29/mailnag/po/fr.po | 
+ | [it](/f29/language/it) | 145 | 205 | 70.7 | /mnt/stockage/packages/f29/mailnag/po/it.po | 
+ | [zh_Hant](/f29/language/zh_Hant) | 135 | 205 | 65.9 | /mnt/stockage/packages/f29/mailnag/po/zh_TW.po | 
+ | [gl](/f29/language/gl) | 129 | 205 | 62.9 | /mnt/stockage/packages/f29/mailnag/po/gl.po | 
+ | [uk](/f29/language/uk) | 129 | 205 | 62.9 | /mnt/stockage/packages/f29/mailnag/po/uk.po | 
+ | [tr](/f29/language/tr) | 124 | 205 | 60.5 | /mnt/stockage/packages/f29/mailnag/po/tr.po | 
+ | [zh_Hans](/f29/language/zh_Hans) | 90 | 205 | 43.9 | /mnt/stockage/packages/f29/mailnag/po/zh_CN.po | 
+ | [pl](/f29/language/pl) | 89 | 205 | 43.4 | /mnt/stockage/packages/f29/mailnag/po/pl.po | 
+ | [he](/f29/language/he) | 64 | 205 | 31.2 | /mnt/stockage/packages/f29/mailnag/po/he.po | 
 {.sortable}
 
 

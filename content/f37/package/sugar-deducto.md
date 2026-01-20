@@ -18,36 +18,36 @@ The package sugar-deducto (version 11):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ach]({{< ref "/f37/language/ach.md" >}}) | 107 | 107 | 100.0 | /mnt/stockage/packages/f37/sugar-deducto/po/ach.po | 
- | [ayc]({{< ref "/f37/language/ayc.md" >}}) | 107 | 107 | 100.0 | /mnt/stockage/packages/f37/sugar-deducto/po/ayc.po | 
- | [ca]({{< ref "/f37/language/ca.md" >}}) | 107 | 107 | 100.0 | /mnt/stockage/packages/f37/sugar-deducto/po/ca.po | 
- | [da]({{< ref "/f37/language/da.md" >}}) | 107 | 107 | 100.0 | /mnt/stockage/packages/f37/sugar-deducto/po/da.po | 
- | [el]({{< ref "/f37/language/el.md" >}}) | 107 | 107 | 100.0 | /mnt/stockage/packages/f37/sugar-deducto/po/el.po | 
- | [en]({{< ref "/f37/language/en.md" >}}) | 107 | 107 | 100.0 | /mnt/stockage/packages/f37/sugar-deducto/po/en.po | 
- | [en_GB]({{< ref "/f37/language/en_GB.md" >}}) | 107 | 107 | 100.0 | /mnt/stockage/packages/f37/sugar-deducto/po/en_GB.po | 
- | [en_US]({{< ref "/f37/language/en_US.md" >}}) | 107 | 107 | 100.0 | /mnt/stockage/packages/f37/sugar-deducto/po/en_US.po | 
- | [es]({{< ref "/f37/language/es.md" >}}) | 107 | 107 | 100.0 | /mnt/stockage/packages/f37/sugar-deducto/po/es.po | 
- | [fa]({{< ref "/f37/language/fa.md" >}}) | 107 | 107 | 100.0 | /mnt/stockage/packages/f37/sugar-deducto/po/fa.po | 
- | [fr]({{< ref "/f37/language/fr.md" >}}) | 107 | 107 | 100.0 | /mnt/stockage/packages/f37/sugar-deducto/po/fr.po | 
- | [gug]({{< ref "/f37/language/gug.md" >}}) | 107 | 107 | 100.0 | /mnt/stockage/packages/f37/sugar-deducto/po/gug.po | 
- | [he]({{< ref "/f37/language/he.md" >}}) | 107 | 107 | 100.0 | /mnt/stockage/packages/f37/sugar-deducto/po/he.po | 
- | [hy]({{< ref "/f37/language/hy.md" >}}) | 107 | 107 | 100.0 | /mnt/stockage/packages/f37/sugar-deducto/po/hy.po | 
- | [ms]({{< ref "/f37/language/ms.md" >}}) | 107 | 107 | 100.0 | /mnt/stockage/packages/f37/sugar-deducto/po/ms.po | 
- | [nl]({{< ref "/f37/language/nl.md" >}}) | 107 | 107 | 100.0 | /mnt/stockage/packages/f37/sugar-deducto/po/nl.po | 
- | [pl]({{< ref "/f37/language/pl.md" >}}) | 107 | 107 | 100.0 | /mnt/stockage/packages/f37/sugar-deducto/po/pl.po | 
- | [pt]({{< ref "/f37/language/pt.md" >}}) | 107 | 107 | 100.0 | /mnt/stockage/packages/f37/sugar-deducto/po/pt.po | 
- | [pt_BR]({{< ref "/f37/language/pt_BR.md" >}}) | 107 | 107 | 100.0 | /mnt/stockage/packages/f37/sugar-deducto/po/pt_BR.po | 
- | [ru]({{< ref "/f37/language/ru.md" >}}) | 107 | 107 | 100.0 | /mnt/stockage/packages/f37/sugar-deducto/po/ru.po | 
- | [sq]({{< ref "/f37/language/sq.md" >}}) | 107 | 107 | 100.0 | /mnt/stockage/packages/f37/sugar-deducto/po/sq.po | 
- | [sv]({{< ref "/f37/language/sv.md" >}}) | 107 | 107 | 100.0 | /mnt/stockage/packages/f37/sugar-deducto/po/sv.po | 
- | [th]({{< ref "/f37/language/th.md" >}}) | 107 | 107 | 100.0 | /mnt/stockage/packages/f37/sugar-deducto/po/th.po | 
- | [uk]({{< ref "/f37/language/uk.md" >}}) | 107 | 107 | 100.0 | /mnt/stockage/packages/f37/sugar-deducto/po/uk.po | 
- | [zh_Hans]({{< ref "/f37/language/zh_Hans.md" >}}) | 107 | 107 | 100.0 | /mnt/stockage/packages/f37/sugar-deducto/po/zh_CN.po | 
- | [hi]({{< ref "/f37/language/hi.md" >}}) | 100 | 107 | 93.5 | /mnt/stockage/packages/f37/sugar-deducto/po/hi.po | 
- | [de]({{< ref "/f37/language/de.md" >}}) | 77 | 107 | 72.0 | /mnt/stockage/packages/f37/sugar-deducto/po/de.po | 
- | [gn]({{< ref "/f37/language/gn.md" >}}) | 40 | 107 | 37.4 | /mnt/stockage/packages/f37/sugar-deducto/po/gn.po | 
- | [lt]({{< ref "/f37/language/lt.md" >}}) | 9 | 107 | 8.4 | /mnt/stockage/packages/f37/sugar-deducto/po/lt.po | 
- | [error]({{< ref "/f37/language/error.md" >}}) | 0 | 107 | 0.0 | /mnt/stockage/packages/f37/sugar-deducto/po/pbs.po | 
+ | [ach](/f37/language/ach) | 107 | 107 | 100.0 | /mnt/stockage/packages/f37/sugar-deducto/po/ach.po | 
+ | [ayc](/f37/language/ayc) | 107 | 107 | 100.0 | /mnt/stockage/packages/f37/sugar-deducto/po/ayc.po | 
+ | [ca](/f37/language/ca) | 107 | 107 | 100.0 | /mnt/stockage/packages/f37/sugar-deducto/po/ca.po | 
+ | [da](/f37/language/da) | 107 | 107 | 100.0 | /mnt/stockage/packages/f37/sugar-deducto/po/da.po | 
+ | [el](/f37/language/el) | 107 | 107 | 100.0 | /mnt/stockage/packages/f37/sugar-deducto/po/el.po | 
+ | [en](/f37/language/en) | 107 | 107 | 100.0 | /mnt/stockage/packages/f37/sugar-deducto/po/en.po | 
+ | [en_GB](/f37/language/en_GB) | 107 | 107 | 100.0 | /mnt/stockage/packages/f37/sugar-deducto/po/en_GB.po | 
+ | [en_US](/f37/language/en_US) | 107 | 107 | 100.0 | /mnt/stockage/packages/f37/sugar-deducto/po/en_US.po | 
+ | [es](/f37/language/es) | 107 | 107 | 100.0 | /mnt/stockage/packages/f37/sugar-deducto/po/es.po | 
+ | [fa](/f37/language/fa) | 107 | 107 | 100.0 | /mnt/stockage/packages/f37/sugar-deducto/po/fa.po | 
+ | [fr](/f37/language/fr) | 107 | 107 | 100.0 | /mnt/stockage/packages/f37/sugar-deducto/po/fr.po | 
+ | [gug](/f37/language/gug) | 107 | 107 | 100.0 | /mnt/stockage/packages/f37/sugar-deducto/po/gug.po | 
+ | [he](/f37/language/he) | 107 | 107 | 100.0 | /mnt/stockage/packages/f37/sugar-deducto/po/he.po | 
+ | [hy](/f37/language/hy) | 107 | 107 | 100.0 | /mnt/stockage/packages/f37/sugar-deducto/po/hy.po | 
+ | [ms](/f37/language/ms) | 107 | 107 | 100.0 | /mnt/stockage/packages/f37/sugar-deducto/po/ms.po | 
+ | [nl](/f37/language/nl) | 107 | 107 | 100.0 | /mnt/stockage/packages/f37/sugar-deducto/po/nl.po | 
+ | [pl](/f37/language/pl) | 107 | 107 | 100.0 | /mnt/stockage/packages/f37/sugar-deducto/po/pl.po | 
+ | [pt](/f37/language/pt) | 107 | 107 | 100.0 | /mnt/stockage/packages/f37/sugar-deducto/po/pt.po | 
+ | [pt_BR](/f37/language/pt_BR) | 107 | 107 | 100.0 | /mnt/stockage/packages/f37/sugar-deducto/po/pt_BR.po | 
+ | [ru](/f37/language/ru) | 107 | 107 | 100.0 | /mnt/stockage/packages/f37/sugar-deducto/po/ru.po | 
+ | [sq](/f37/language/sq) | 107 | 107 | 100.0 | /mnt/stockage/packages/f37/sugar-deducto/po/sq.po | 
+ | [sv](/f37/language/sv) | 107 | 107 | 100.0 | /mnt/stockage/packages/f37/sugar-deducto/po/sv.po | 
+ | [th](/f37/language/th) | 107 | 107 | 100.0 | /mnt/stockage/packages/f37/sugar-deducto/po/th.po | 
+ | [uk](/f37/language/uk) | 107 | 107 | 100.0 | /mnt/stockage/packages/f37/sugar-deducto/po/uk.po | 
+ | [zh_Hans](/f37/language/zh_Hans) | 107 | 107 | 100.0 | /mnt/stockage/packages/f37/sugar-deducto/po/zh_CN.po | 
+ | [hi](/f37/language/hi) | 100 | 107 | 93.5 | /mnt/stockage/packages/f37/sugar-deducto/po/hi.po | 
+ | [de](/f37/language/de) | 77 | 107 | 72.0 | /mnt/stockage/packages/f37/sugar-deducto/po/de.po | 
+ | [gn](/f37/language/gn) | 40 | 107 | 37.4 | /mnt/stockage/packages/f37/sugar-deducto/po/gn.po | 
+ | [lt](/f37/language/lt) | 9 | 107 | 8.4 | /mnt/stockage/packages/f37/sugar-deducto/po/lt.po | 
+ | [error](/f37/language/error) | 0 | 107 | 0.0 | /mnt/stockage/packages/f37/sugar-deducto/po/pbs.po | 
 {.sortable}
 
 

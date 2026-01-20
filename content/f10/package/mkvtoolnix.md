@@ -18,7 +18,7 @@ The package mkvtoolnix (version 2.4.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f10/language/de.md" >}}) | 10214 | 10214 | 100.0 | /mnt/stockage/packages/f10/mkvtoolnix/po/de.po | 
+ | [de](/f10/language/de) | 10214 | 10214 | 100.0 | /mnt/stockage/packages/f10/mkvtoolnix/po/de.po | 
 {.sortable}
 
 

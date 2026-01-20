@@ -18,45 +18,45 @@ The package shadow-utils (version 4.6):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [kk]({{< ref "/f28/language/kk.md" >}}) | 3895 | 4093 | 95.2 | /mnt/stockage/packages/f28/shadow-utils/po/kk.po | 
- | [nb_NO]({{< ref "/f28/language/nb_NO.md" >}}) | 3895 | 4093 | 95.2 | /mnt/stockage/packages/f28/shadow-utils/po/nb.po | 
- | [vi]({{< ref "/f28/language/vi.md" >}}) | 3895 | 4093 | 95.2 | /mnt/stockage/packages/f28/shadow-utils/po/vi.po | 
- | [nl]({{< ref "/f28/language/nl.md" >}}) | 3890 | 4093 | 95.0 | /mnt/stockage/packages/f28/shadow-utils/po/nl.po | 
- | [cs]({{< ref "/f28/language/cs.md" >}}) | 3819 | 4093 | 93.3 | /mnt/stockage/packages/f28/shadow-utils/po/cs.po | 
- | [ru]({{< ref "/f28/language/ru.md" >}}) | 19184 | 20881 | 91.9 | /mnt/stockage/packages/f28/shadow-utils/man/po/ru.po/mnt/stockage/packages/f28/shadow-utils/po/ru.po | 
- | [de]({{< ref "/f28/language/de.md" >}}) | 19098 | 20881 | 91.5 | /mnt/stockage/packages/f28/shadow-utils/man/po/de.po/mnt/stockage/packages/f28/shadow-utils/po/de.po | 
- | [ja]({{< ref "/f28/language/ja.md" >}}) | 3657 | 4093 | 89.3 | /mnt/stockage/packages/f28/shadow-utils/po/ja.po | 
- | [ca]({{< ref "/f28/language/ca.md" >}}) | 3644 | 4093 | 89.0 | /mnt/stockage/packages/f28/shadow-utils/po/ca.po | 
- | [da]({{< ref "/f28/language/da.md" >}}) | 3644 | 4093 | 89.0 | /mnt/stockage/packages/f28/shadow-utils/po/da.po | 
- | [pt]({{< ref "/f28/language/pt.md" >}}) | 3644 | 4093 | 89.0 | /mnt/stockage/packages/f28/shadow-utils/po/pt.po | 
- | [el]({{< ref "/f28/language/el.md" >}}) | 3615 | 4093 | 88.3 | /mnt/stockage/packages/f28/shadow-utils/po/el.po | 
- | [pt_BR]({{< ref "/f28/language/pt_BR.md" >}}) | 3263 | 4093 | 79.7 | /mnt/stockage/packages/f28/shadow-utils/po/pt_BR.po | 
- | [es]({{< ref "/f28/language/es.md" >}}) | 3246 | 4093 | 79.3 | /mnt/stockage/packages/f28/shadow-utils/po/es.po | 
- | [it]({{< ref "/f28/language/it.md" >}}) | 16418 | 20881 | 78.6 | /mnt/stockage/packages/f28/shadow-utils/man/po/it.po/mnt/stockage/packages/f28/shadow-utils/po/it.po | 
- | [fr]({{< ref "/f28/language/fr.md" >}}) | 15368 | 20881 | 73.6 | /mnt/stockage/packages/f28/shadow-utils/man/po/fr.po/mnt/stockage/packages/f28/shadow-utils/po/fr.po | 
- | [zh_Hans]({{< ref "/f28/language/zh_Hans.md" >}}) | 14360 | 20881 | 68.8 | /mnt/stockage/packages/f28/shadow-utils/man/po/zh_CN.po/mnt/stockage/packages/f28/shadow-utils/po/zh_CN.po | 
- | [eu]({{< ref "/f28/language/eu.md" >}}) | 2689 | 4093 | 65.7 | /mnt/stockage/packages/f28/shadow-utils/po/eu.po | 
- | [sk]({{< ref "/f28/language/sk.md" >}}) | 2403 | 4093 | 58.7 | /mnt/stockage/packages/f28/shadow-utils/po/sk.po | 
- | [ko]({{< ref "/f28/language/ko.md" >}}) | 1719 | 4093 | 42.0 | /mnt/stockage/packages/f28/shadow-utils/po/ko.po | 
- | [tr]({{< ref "/f28/language/tr.md" >}}) | 1172 | 4093 | 28.6 | /mnt/stockage/packages/f28/shadow-utils/po/tr.po | 
- | [sv]({{< ref "/f28/language/sv.md" >}}) | 5400 | 20881 | 25.9 | /mnt/stockage/packages/f28/shadow-utils/man/po/sv.po/mnt/stockage/packages/f28/shadow-utils/po/sv.po | 
- | [fi]({{< ref "/f28/language/fi.md" >}}) | 1033 | 4093 | 25.2 | /mnt/stockage/packages/f28/shadow-utils/po/fi.po | 
- | [gl]({{< ref "/f28/language/gl.md" >}}) | 1033 | 4093 | 25.2 | /mnt/stockage/packages/f28/shadow-utils/po/gl.po | 
- | [hu]({{< ref "/f28/language/hu.md" >}}) | 1033 | 4093 | 25.2 | /mnt/stockage/packages/f28/shadow-utils/po/hu.po | 
- | [ne]({{< ref "/f28/language/ne.md" >}}) | 1033 | 4093 | 25.2 | /mnt/stockage/packages/f28/shadow-utils/po/ne.po | 
- | [ro]({{< ref "/f28/language/ro.md" >}}) | 1033 | 4093 | 25.2 | /mnt/stockage/packages/f28/shadow-utils/po/ro.po | 
- | [uk]({{< ref "/f28/language/uk.md" >}}) | 1033 | 4093 | 25.2 | /mnt/stockage/packages/f28/shadow-utils/po/uk.po | 
- | [dz]({{< ref "/f28/language/dz.md" >}}) | 1031 | 4093 | 25.2 | /mnt/stockage/packages/f28/shadow-utils/po/dz.po | 
- | [tl]({{< ref "/f28/language/tl.md" >}}) | 1015 | 4093 | 24.8 | /mnt/stockage/packages/f28/shadow-utils/po/tl.po | 
- | [km]({{< ref "/f28/language/km.md" >}}) | 918 | 4093 | 22.4 | /mnt/stockage/packages/f28/shadow-utils/po/km.po | 
- | [id]({{< ref "/f28/language/id.md" >}}) | 887 | 4093 | 21.7 | /mnt/stockage/packages/f28/shadow-utils/po/id.po | 
- | [zh_Hant]({{< ref "/f28/language/zh_Hant.md" >}}) | 786 | 4093 | 19.2 | /mnt/stockage/packages/f28/shadow-utils/po/zh_TW.po | 
- | [nn]({{< ref "/f28/language/nn.md" >}}) | 711 | 4093 | 17.4 | /mnt/stockage/packages/f28/shadow-utils/po/nn.po | 
- | [pl]({{< ref "/f28/language/pl.md" >}}) | 2989 | 20881 | 14.3 | /mnt/stockage/packages/f28/shadow-utils/man/po/pl.po/mnt/stockage/packages/f28/shadow-utils/po/pl.po | 
- | [man]({{< ref "/f28/language/man.md" >}}) | 2133 | 16788 | 12.7 | /mnt/stockage/packages/f28/shadow-utils/man/po/da.po | 
- | [he]({{< ref "/f28/language/he.md" >}}) | 197 | 4093 | 4.8 | /mnt/stockage/packages/f28/shadow-utils/po/he.po | 
- | [bs]({{< ref "/f28/language/bs.md" >}}) | 127 | 4093 | 3.1 | /mnt/stockage/packages/f28/shadow-utils/po/bs.po | 
- | [sq]({{< ref "/f28/language/sq.md" >}}) | 28 | 4093 | 0.7 | /mnt/stockage/packages/f28/shadow-utils/po/sq.po | 
+ | [kk](/f28/language/kk) | 3895 | 4093 | 95.2 | /mnt/stockage/packages/f28/shadow-utils/po/kk.po | 
+ | [nb_NO](/f28/language/nb_NO) | 3895 | 4093 | 95.2 | /mnt/stockage/packages/f28/shadow-utils/po/nb.po | 
+ | [vi](/f28/language/vi) | 3895 | 4093 | 95.2 | /mnt/stockage/packages/f28/shadow-utils/po/vi.po | 
+ | [nl](/f28/language/nl) | 3890 | 4093 | 95.0 | /mnt/stockage/packages/f28/shadow-utils/po/nl.po | 
+ | [cs](/f28/language/cs) | 3819 | 4093 | 93.3 | /mnt/stockage/packages/f28/shadow-utils/po/cs.po | 
+ | [ru](/f28/language/ru) | 19184 | 20881 | 91.9 | /mnt/stockage/packages/f28/shadow-utils/man/po/ru.po/mnt/stockage/packages/f28/shadow-utils/po/ru.po | 
+ | [de](/f28/language/de) | 19098 | 20881 | 91.5 | /mnt/stockage/packages/f28/shadow-utils/man/po/de.po/mnt/stockage/packages/f28/shadow-utils/po/de.po | 
+ | [ja](/f28/language/ja) | 3657 | 4093 | 89.3 | /mnt/stockage/packages/f28/shadow-utils/po/ja.po | 
+ | [ca](/f28/language/ca) | 3644 | 4093 | 89.0 | /mnt/stockage/packages/f28/shadow-utils/po/ca.po | 
+ | [da](/f28/language/da) | 3644 | 4093 | 89.0 | /mnt/stockage/packages/f28/shadow-utils/po/da.po | 
+ | [pt](/f28/language/pt) | 3644 | 4093 | 89.0 | /mnt/stockage/packages/f28/shadow-utils/po/pt.po | 
+ | [el](/f28/language/el) | 3615 | 4093 | 88.3 | /mnt/stockage/packages/f28/shadow-utils/po/el.po | 
+ | [pt_BR](/f28/language/pt_BR) | 3263 | 4093 | 79.7 | /mnt/stockage/packages/f28/shadow-utils/po/pt_BR.po | 
+ | [es](/f28/language/es) | 3246 | 4093 | 79.3 | /mnt/stockage/packages/f28/shadow-utils/po/es.po | 
+ | [it](/f28/language/it) | 16418 | 20881 | 78.6 | /mnt/stockage/packages/f28/shadow-utils/man/po/it.po/mnt/stockage/packages/f28/shadow-utils/po/it.po | 
+ | [fr](/f28/language/fr) | 15368 | 20881 | 73.6 | /mnt/stockage/packages/f28/shadow-utils/man/po/fr.po/mnt/stockage/packages/f28/shadow-utils/po/fr.po | 
+ | [zh_Hans](/f28/language/zh_Hans) | 14360 | 20881 | 68.8 | /mnt/stockage/packages/f28/shadow-utils/man/po/zh_CN.po/mnt/stockage/packages/f28/shadow-utils/po/zh_CN.po | 
+ | [eu](/f28/language/eu) | 2689 | 4093 | 65.7 | /mnt/stockage/packages/f28/shadow-utils/po/eu.po | 
+ | [sk](/f28/language/sk) | 2403 | 4093 | 58.7 | /mnt/stockage/packages/f28/shadow-utils/po/sk.po | 
+ | [ko](/f28/language/ko) | 1719 | 4093 | 42.0 | /mnt/stockage/packages/f28/shadow-utils/po/ko.po | 
+ | [tr](/f28/language/tr) | 1172 | 4093 | 28.6 | /mnt/stockage/packages/f28/shadow-utils/po/tr.po | 
+ | [sv](/f28/language/sv) | 5400 | 20881 | 25.9 | /mnt/stockage/packages/f28/shadow-utils/man/po/sv.po/mnt/stockage/packages/f28/shadow-utils/po/sv.po | 
+ | [fi](/f28/language/fi) | 1033 | 4093 | 25.2 | /mnt/stockage/packages/f28/shadow-utils/po/fi.po | 
+ | [gl](/f28/language/gl) | 1033 | 4093 | 25.2 | /mnt/stockage/packages/f28/shadow-utils/po/gl.po | 
+ | [hu](/f28/language/hu) | 1033 | 4093 | 25.2 | /mnt/stockage/packages/f28/shadow-utils/po/hu.po | 
+ | [ne](/f28/language/ne) | 1033 | 4093 | 25.2 | /mnt/stockage/packages/f28/shadow-utils/po/ne.po | 
+ | [ro](/f28/language/ro) | 1033 | 4093 | 25.2 | /mnt/stockage/packages/f28/shadow-utils/po/ro.po | 
+ | [uk](/f28/language/uk) | 1033 | 4093 | 25.2 | /mnt/stockage/packages/f28/shadow-utils/po/uk.po | 
+ | [dz](/f28/language/dz) | 1031 | 4093 | 25.2 | /mnt/stockage/packages/f28/shadow-utils/po/dz.po | 
+ | [tl](/f28/language/tl) | 1015 | 4093 | 24.8 | /mnt/stockage/packages/f28/shadow-utils/po/tl.po | 
+ | [km](/f28/language/km) | 918 | 4093 | 22.4 | /mnt/stockage/packages/f28/shadow-utils/po/km.po | 
+ | [id](/f28/language/id) | 887 | 4093 | 21.7 | /mnt/stockage/packages/f28/shadow-utils/po/id.po | 
+ | [zh_Hant](/f28/language/zh_Hant) | 786 | 4093 | 19.2 | /mnt/stockage/packages/f28/shadow-utils/po/zh_TW.po | 
+ | [nn](/f28/language/nn) | 711 | 4093 | 17.4 | /mnt/stockage/packages/f28/shadow-utils/po/nn.po | 
+ | [pl](/f28/language/pl) | 2989 | 20881 | 14.3 | /mnt/stockage/packages/f28/shadow-utils/man/po/pl.po/mnt/stockage/packages/f28/shadow-utils/po/pl.po | 
+ | [man](/f28/language/man) | 2133 | 16788 | 12.7 | /mnt/stockage/packages/f28/shadow-utils/man/po/da.po | 
+ | [he](/f28/language/he) | 197 | 4093 | 4.8 | /mnt/stockage/packages/f28/shadow-utils/po/he.po | 
+ | [bs](/f28/language/bs) | 127 | 4093 | 3.1 | /mnt/stockage/packages/f28/shadow-utils/po/bs.po | 
+ | [sq](/f28/language/sq) | 28 | 4093 | 0.7 | /mnt/stockage/packages/f28/shadow-utils/po/sq.po | 
 {.sortable}
 
 

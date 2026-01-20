@@ -18,7 +18,7 @@ The package drupal7-admin_theme (version 1.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [nl]({{< ref "/f24/language/nl.md" >}}) | 176 | 176 | 100.0 | /mnt/stockage/packages/f24/drupal7-admin_theme/translations/nl.po | 
+ | [nl](/f24/language/nl) | 176 | 176 | 100.0 | /mnt/stockage/packages/f24/drupal7-admin_theme/translations/nl.po | 
 {.sortable}
 
 

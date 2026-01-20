@@ -18,8 +18,8 @@ The package libconfig (version 1.7.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [en_GB]({{< ref "/f40/language/en_GB.md" >}}) | 255 | 255 | 100.0 | /mnt/stockage/packages/f40/libconfig/contrib/ls-config/src/po/en_GB.po | 
- | [pl]({{< ref "/f40/language/pl.md" >}}) | 255 | 255 | 100.0 | /mnt/stockage/packages/f40/libconfig/contrib/ls-config/src/po/pl_PL.po | 
+ | [en_GB](/f40/language/en_GB) | 255 | 255 | 100.0 | /mnt/stockage/packages/f40/libconfig/contrib/ls-config/src/po/en_GB.po | 
+ | [pl](/f40/language/pl) | 255 | 255 | 100.0 | /mnt/stockage/packages/f40/libconfig/contrib/ls-config/src/po/pl_PL.po | 
 {.sortable}
 
 

@@ -18,19 +18,19 @@ The package lilyterm (version 0.9.9.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f21/language/de.md" >}}) | 1648 | 1648 | 100.0 | /mnt/stockage/packages/f21/lilyterm/po/de.po | 
- | [pt_BR]({{< ref "/f21/language/pt_BR.md" >}}) | 1648 | 1648 | 100.0 | /mnt/stockage/packages/f21/lilyterm/po/pt_BR.po | 
- | [ru]({{< ref "/f21/language/ru.md" >}}) | 1648 | 1648 | 100.0 | /mnt/stockage/packages/f21/lilyterm/po/ru.po | 
- | [sk]({{< ref "/f21/language/sk.md" >}}) | 1648 | 1648 | 100.0 | /mnt/stockage/packages/f21/lilyterm/po/sk.po | 
- | [uk]({{< ref "/f21/language/uk.md" >}}) | 1648 | 1648 | 100.0 | /mnt/stockage/packages/f21/lilyterm/po/uk.po | 
- | [zh_Hant]({{< ref "/f21/language/zh_Hant.md" >}}) | 1648 | 1648 | 100.0 | /mnt/stockage/packages/f21/lilyterm/po/zh_TW.po | 
- | [it]({{< ref "/f21/language/it.md" >}}) | 1545 | 1648 | 93.8 | /mnt/stockage/packages/f21/lilyterm/po/it.po | 
- | [pl]({{< ref "/f21/language/pl.md" >}}) | 1487 | 1648 | 90.2 | /mnt/stockage/packages/f21/lilyterm/po/pl.po | 
- | [fr]({{< ref "/f21/language/fr.md" >}}) | 1369 | 1648 | 83.1 | /mnt/stockage/packages/f21/lilyterm/po/fr.po | 
- | [tr]({{< ref "/f21/language/tr.md" >}}) | 998 | 1648 | 60.6 | /mnt/stockage/packages/f21/lilyterm/po/tr.po | 
- | [nl]({{< ref "/f21/language/nl.md" >}}) | 986 | 1648 | 59.8 | /mnt/stockage/packages/f21/lilyterm/po/nl.po | 
- | [zh_Hans]({{< ref "/f21/language/zh_Hans.md" >}}) | 843 | 1648 | 51.2 | /mnt/stockage/packages/f21/lilyterm/po/zh_CN.po | 
- | [es_MX]({{< ref "/f21/language/es_MX.md" >}}) | 415 | 1648 | 25.2 | /mnt/stockage/packages/f21/lilyterm/po/es.po | 
+ | [de](/f21/language/de) | 1648 | 1648 | 100.0 | /mnt/stockage/packages/f21/lilyterm/po/de.po | 
+ | [pt_BR](/f21/language/pt_BR) | 1648 | 1648 | 100.0 | /mnt/stockage/packages/f21/lilyterm/po/pt_BR.po | 
+ | [ru](/f21/language/ru) | 1648 | 1648 | 100.0 | /mnt/stockage/packages/f21/lilyterm/po/ru.po | 
+ | [sk](/f21/language/sk) | 1648 | 1648 | 100.0 | /mnt/stockage/packages/f21/lilyterm/po/sk.po | 
+ | [uk](/f21/language/uk) | 1648 | 1648 | 100.0 | /mnt/stockage/packages/f21/lilyterm/po/uk.po | 
+ | [zh_Hant](/f21/language/zh_Hant) | 1648 | 1648 | 100.0 | /mnt/stockage/packages/f21/lilyterm/po/zh_TW.po | 
+ | [it](/f21/language/it) | 1545 | 1648 | 93.8 | /mnt/stockage/packages/f21/lilyterm/po/it.po | 
+ | [pl](/f21/language/pl) | 1487 | 1648 | 90.2 | /mnt/stockage/packages/f21/lilyterm/po/pl.po | 
+ | [fr](/f21/language/fr) | 1369 | 1648 | 83.1 | /mnt/stockage/packages/f21/lilyterm/po/fr.po | 
+ | [tr](/f21/language/tr) | 998 | 1648 | 60.6 | /mnt/stockage/packages/f21/lilyterm/po/tr.po | 
+ | [nl](/f21/language/nl) | 986 | 1648 | 59.8 | /mnt/stockage/packages/f21/lilyterm/po/nl.po | 
+ | [zh_Hans](/f21/language/zh_Hans) | 843 | 1648 | 51.2 | /mnt/stockage/packages/f21/lilyterm/po/zh_CN.po | 
+ | [es_MX](/f21/language/es_MX) | 415 | 1648 | 25.2 | /mnt/stockage/packages/f21/lilyterm/po/es.po | 
 {.sortable}
 
 

@@ -18,11 +18,11 @@ The package udiskie (version 2.3.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [it]({{< ref "/f32/language/it.md" >}}) | 574 | 599 | 95.8 | /mnt/stockage/packages/f32/udiskie/lang/it_IT.po | 
- | [ru]({{< ref "/f32/language/ru.md" >}}) | 471 | 599 | 78.6 | /mnt/stockage/packages/f32/udiskie/lang/ru_RU.po | 
- | [sk]({{< ref "/f32/language/sk.md" >}}) | 377 | 599 | 62.9 | /mnt/stockage/packages/f32/udiskie/lang/sk_SK.po | 
- | [en_US]({{< ref "/f32/language/en_US.md" >}}) | 224 | 599 | 37.4 | /mnt/stockage/packages/f32/udiskie/lang/en_US.po | 
- | [es]({{< ref "/f32/language/es.md" >}}) | 224 | 599 | 37.4 | /mnt/stockage/packages/f32/udiskie/lang/es_ES.po | 
+ | [it](/f32/language/it) | 574 | 599 | 95.8 | /mnt/stockage/packages/f32/udiskie/lang/it_IT.po | 
+ | [ru](/f32/language/ru) | 471 | 599 | 78.6 | /mnt/stockage/packages/f32/udiskie/lang/ru_RU.po | 
+ | [sk](/f32/language/sk) | 377 | 599 | 62.9 | /mnt/stockage/packages/f32/udiskie/lang/sk_SK.po | 
+ | [en_US](/f32/language/en_US) | 224 | 599 | 37.4 | /mnt/stockage/packages/f32/udiskie/lang/en_US.po | 
+ | [es](/f32/language/es) | 224 | 599 | 37.4 | /mnt/stockage/packages/f32/udiskie/lang/es_ES.po | 
 {.sortable}
 
 

@@ -18,7 +18,7 @@ The package mlocate (version 0.16):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f7/language/cs.md" >}}) | 535 | 535 | 100.0 | /mnt/stockage/packages/f7/mlocate/po/cs.po | 
+ | [cs](/f7/language/cs) | 535 | 535 | 100.0 | /mnt/stockage/packages/f7/mlocate/po/cs.po | 
 {.sortable}
 
 

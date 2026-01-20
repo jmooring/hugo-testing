@@ -18,24 +18,24 @@ The package pdfarranger (version 1.6.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f31/language/de.md" >}}) | 199 | 199 | 100.0 | /mnt/stockage/packages/f31/pdfarranger/po/de.po | 
- | [fr]({{< ref "/f31/language/fr.md" >}}) | 199 | 199 | 100.0 | /mnt/stockage/packages/f31/pdfarranger/po/fr.po | 
- | [hr]({{< ref "/f31/language/hr.md" >}}) | 199 | 199 | 100.0 | /mnt/stockage/packages/f31/pdfarranger/po/hr.po | 
- | [hu]({{< ref "/f31/language/hu.md" >}}) | 135 | 135 | 100.0 | /mnt/stockage/packages/f31/pdfarranger/po/hu.po | 
- | [it]({{< ref "/f31/language/it.md" >}}) | 189 | 189 | 100.0 | /mnt/stockage/packages/f31/pdfarranger/po/it.po | 
- | [ja]({{< ref "/f31/language/ja.md" >}}) | 189 | 189 | 100.0 | /mnt/stockage/packages/f31/pdfarranger/po/ja.po | 
- | [sv]({{< ref "/f31/language/sv.md" >}}) | 199 | 199 | 100.0 | /mnt/stockage/packages/f31/pdfarranger/po/sv.po | 
- | [tr]({{< ref "/f31/language/tr.md" >}}) | 189 | 189 | 100.0 | /mnt/stockage/packages/f31/pdfarranger/po/tr.po | 
- | [id]({{< ref "/f31/language/id.md" >}}) | 75 | 135 | 55.6 | /mnt/stockage/packages/f31/pdfarranger/po/id.po | 
- | [ca]({{< ref "/f31/language/ca.md" >}}) | 59 | 135 | 43.7 | /mnt/stockage/packages/f31/pdfarranger/po/ca@valencia.po | 
- | [pt_BR]({{< ref "/f31/language/pt_BR.md" >}}) | 59 | 135 | 43.7 | /mnt/stockage/packages/f31/pdfarranger/po/pt_BR.po | 
- | [es]({{< ref "/f31/language/es.md" >}}) | 58 | 135 | 43.0 | /mnt/stockage/packages/f31/pdfarranger/po/es.po | 
- | [cs]({{< ref "/f31/language/cs.md" >}}) | 55 | 135 | 40.7 | /mnt/stockage/packages/f31/pdfarranger/po/cs.po | 
- | [el]({{< ref "/f31/language/el.md" >}}) | 55 | 135 | 40.7 | /mnt/stockage/packages/f31/pdfarranger/po/el.po | 
- | [nl]({{< ref "/f31/language/nl.md" >}}) | 55 | 135 | 40.7 | /mnt/stockage/packages/f31/pdfarranger/po/nl.po | 
- | [pl]({{< ref "/f31/language/pl.md" >}}) | 55 | 135 | 40.7 | /mnt/stockage/packages/f31/pdfarranger/po/pl_PL.po | 
- | [zh_Hans]({{< ref "/f31/language/zh_Hans.md" >}}) | 55 | 135 | 40.7 | /mnt/stockage/packages/f31/pdfarranger/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f31/language/zh_Hant.md" >}}) | 54 | 135 | 40.0 | /mnt/stockage/packages/f31/pdfarranger/po/zh_TW.po | 
+ | [de](/f31/language/de) | 199 | 199 | 100.0 | /mnt/stockage/packages/f31/pdfarranger/po/de.po | 
+ | [fr](/f31/language/fr) | 199 | 199 | 100.0 | /mnt/stockage/packages/f31/pdfarranger/po/fr.po | 
+ | [hr](/f31/language/hr) | 199 | 199 | 100.0 | /mnt/stockage/packages/f31/pdfarranger/po/hr.po | 
+ | [hu](/f31/language/hu) | 135 | 135 | 100.0 | /mnt/stockage/packages/f31/pdfarranger/po/hu.po | 
+ | [it](/f31/language/it) | 189 | 189 | 100.0 | /mnt/stockage/packages/f31/pdfarranger/po/it.po | 
+ | [ja](/f31/language/ja) | 189 | 189 | 100.0 | /mnt/stockage/packages/f31/pdfarranger/po/ja.po | 
+ | [sv](/f31/language/sv) | 199 | 199 | 100.0 | /mnt/stockage/packages/f31/pdfarranger/po/sv.po | 
+ | [tr](/f31/language/tr) | 189 | 189 | 100.0 | /mnt/stockage/packages/f31/pdfarranger/po/tr.po | 
+ | [id](/f31/language/id) | 75 | 135 | 55.6 | /mnt/stockage/packages/f31/pdfarranger/po/id.po | 
+ | [ca](/f31/language/ca) | 59 | 135 | 43.7 | /mnt/stockage/packages/f31/pdfarranger/po/ca@valencia.po | 
+ | [pt_BR](/f31/language/pt_BR) | 59 | 135 | 43.7 | /mnt/stockage/packages/f31/pdfarranger/po/pt_BR.po | 
+ | [es](/f31/language/es) | 58 | 135 | 43.0 | /mnt/stockage/packages/f31/pdfarranger/po/es.po | 
+ | [cs](/f31/language/cs) | 55 | 135 | 40.7 | /mnt/stockage/packages/f31/pdfarranger/po/cs.po | 
+ | [el](/f31/language/el) | 55 | 135 | 40.7 | /mnt/stockage/packages/f31/pdfarranger/po/el.po | 
+ | [nl](/f31/language/nl) | 55 | 135 | 40.7 | /mnt/stockage/packages/f31/pdfarranger/po/nl.po | 
+ | [pl](/f31/language/pl) | 55 | 135 | 40.7 | /mnt/stockage/packages/f31/pdfarranger/po/pl_PL.po | 
+ | [zh_Hans](/f31/language/zh_Hans) | 55 | 135 | 40.7 | /mnt/stockage/packages/f31/pdfarranger/po/zh_CN.po | 
+ | [zh_Hant](/f31/language/zh_Hant) | 54 | 135 | 40.0 | /mnt/stockage/packages/f31/pdfarranger/po/zh_TW.po | 
 {.sortable}
 
 

@@ -18,16 +18,16 @@ The package gentoo (version 0.20.6):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f22/language/ca.md" >}}) | 2255 | 2255 | 100.0 | /mnt/stockage/packages/f22/gentoo/po/ca.po | 
- | [es]({{< ref "/f22/language/es.md" >}}) | 2255 | 2255 | 100.0 | /mnt/stockage/packages/f22/gentoo/po/es.po | 
- | [sv]({{< ref "/f22/language/sv.md" >}}) | 2255 | 2255 | 100.0 | /mnt/stockage/packages/f22/gentoo/po/sv.po | 
- | [pl]({{< ref "/f22/language/pl.md" >}}) | 1491 | 2255 | 66.1 | /mnt/stockage/packages/f22/gentoo/po/pl.po | 
- | [ru]({{< ref "/f22/language/ru.md" >}}) | 8568 | 13530 | 63.3 | /mnt/stockage/packages/f22/gentoo/po/ru_RU.koi8r.po/mnt/stockage/packages/f22/gentoo/po/ru_RU.KOI8-R.po/mnt/stockage/packages/f22/gentoo/po/ru_RU.utf8.po/mnt/stockage/packages/f22/gentoo/po/ru_RU.cp1251.po/mnt/stockage/packages/f22/gentoo/po/ru_RU.UTF-8.po/mnt/stockage/packages/f22/gentoo/po/ru_RU.CP1251.po | 
- | [es_MX]({{< ref "/f22/language/es_MX.md" >}}) | 1412 | 2255 | 62.6 | /mnt/stockage/packages/f22/gentoo/po/es_MX.po | 
- | [it]({{< ref "/f22/language/it.md" >}}) | 1396 | 2255 | 61.9 | /mnt/stockage/packages/f22/gentoo/po/it.po | 
- | [de]({{< ref "/f22/language/de.md" >}}) | 1192 | 2255 | 52.9 | /mnt/stockage/packages/f22/gentoo/po/de.po | 
- | [fr]({{< ref "/f22/language/fr.md" >}}) | 1055 | 2255 | 46.8 | /mnt/stockage/packages/f22/gentoo/po/fr.po | 
- | [ja]({{< ref "/f22/language/ja.md" >}}) | 455 | 2255 | 20.2 | /mnt/stockage/packages/f22/gentoo/po/ja_JP.UTF-8.po | 
+ | [ca](/f22/language/ca) | 2255 | 2255 | 100.0 | /mnt/stockage/packages/f22/gentoo/po/ca.po | 
+ | [es](/f22/language/es) | 2255 | 2255 | 100.0 | /mnt/stockage/packages/f22/gentoo/po/es.po | 
+ | [sv](/f22/language/sv) | 2255 | 2255 | 100.0 | /mnt/stockage/packages/f22/gentoo/po/sv.po | 
+ | [pl](/f22/language/pl) | 1491 | 2255 | 66.1 | /mnt/stockage/packages/f22/gentoo/po/pl.po | 
+ | [ru](/f22/language/ru) | 8568 | 13530 | 63.3 | /mnt/stockage/packages/f22/gentoo/po/ru_RU.koi8r.po/mnt/stockage/packages/f22/gentoo/po/ru_RU.KOI8-R.po/mnt/stockage/packages/f22/gentoo/po/ru_RU.utf8.po/mnt/stockage/packages/f22/gentoo/po/ru_RU.cp1251.po/mnt/stockage/packages/f22/gentoo/po/ru_RU.UTF-8.po/mnt/stockage/packages/f22/gentoo/po/ru_RU.CP1251.po | 
+ | [es_MX](/f22/language/es_MX) | 1412 | 2255 | 62.6 | /mnt/stockage/packages/f22/gentoo/po/es_MX.po | 
+ | [it](/f22/language/it) | 1396 | 2255 | 61.9 | /mnt/stockage/packages/f22/gentoo/po/it.po | 
+ | [de](/f22/language/de) | 1192 | 2255 | 52.9 | /mnt/stockage/packages/f22/gentoo/po/de.po | 
+ | [fr](/f22/language/fr) | 1055 | 2255 | 46.8 | /mnt/stockage/packages/f22/gentoo/po/fr.po | 
+ | [ja](/f22/language/ja) | 455 | 2255 | 20.2 | /mnt/stockage/packages/f22/gentoo/po/ja_JP.UTF-8.po | 
 {.sortable}
 
 

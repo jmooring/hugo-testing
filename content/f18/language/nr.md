@@ -38,8 +38,8 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [libreoffice]({{< ref "/f18/package/libreoffice.md" >}}) | 45893 | 91771 | 50.0 | LANGUAGE <LL@li.org> | 
- | [tuxpaint]({{< ref "/f18/package/tuxpaint.md" >}}) | 489 | 1247 | 39.2 | LANGUAGE <LL@li.org> | 
+ | [libreoffice](/f18/package/libreoffice) | 45893 | 91771 | 50.0 | LANGUAGE <LL@li.org> | 
+ | [tuxpaint](/f18/package/tuxpaint) | 489 | 1247 | 39.2 | LANGUAGE <LL@li.org> | 
 {.sortable}
 
 

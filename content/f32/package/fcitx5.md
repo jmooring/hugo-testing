@@ -18,16 +18,16 @@ The package fcitx5 (version 5.0.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [da]({{< ref "/f32/language/da.md" >}}) | 1753 | 1753 | 100.0 | /mnt/stockage/packages/f32/fcitx5/po/da.po | 
- | [zh_Hans]({{< ref "/f32/language/zh_Hans.md" >}}) | 1753 | 1753 | 100.0 | /mnt/stockage/packages/f32/fcitx5/po/zh_CN.po | 
- | [ja]({{< ref "/f32/language/ja.md" >}}) | 1310 | 1753 | 74.7 | /mnt/stockage/packages/f32/fcitx5/po/ja.po | 
- | [zh_Hant]({{< ref "/f32/language/zh_Hant.md" >}}) | 1113 | 1753 | 63.5 | /mnt/stockage/packages/f32/fcitx5/po/zh_TW.po | 
- | [ko]({{< ref "/f32/language/ko.md" >}}) | 790 | 1753 | 45.1 | /mnt/stockage/packages/f32/fcitx5/po/ko.po | 
- | [de]({{< ref "/f32/language/de.md" >}}) | 481 | 1753 | 27.4 | /mnt/stockage/packages/f32/fcitx5/po/de.po | 
- | [ca]({{< ref "/f32/language/ca.md" >}}) | 243 | 1753 | 13.9 | /mnt/stockage/packages/f32/fcitx5/po/ca.po | 
- | [ru]({{< ref "/f32/language/ru.md" >}}) | 138 | 1753 | 7.9 | /mnt/stockage/packages/f32/fcitx5/po/ru.po | 
- | [es]({{< ref "/f32/language/es.md" >}}) | 2 | 1753 | 0.1 | /mnt/stockage/packages/f32/fcitx5/po/es.po | 
- | [fr]({{< ref "/f32/language/fr.md" >}}) | 0 | 1753 | 0.0 | /mnt/stockage/packages/f32/fcitx5/po/fr.po | 
+ | [da](/f32/language/da) | 1753 | 1753 | 100.0 | /mnt/stockage/packages/f32/fcitx5/po/da.po | 
+ | [zh_Hans](/f32/language/zh_Hans) | 1753 | 1753 | 100.0 | /mnt/stockage/packages/f32/fcitx5/po/zh_CN.po | 
+ | [ja](/f32/language/ja) | 1310 | 1753 | 74.7 | /mnt/stockage/packages/f32/fcitx5/po/ja.po | 
+ | [zh_Hant](/f32/language/zh_Hant) | 1113 | 1753 | 63.5 | /mnt/stockage/packages/f32/fcitx5/po/zh_TW.po | 
+ | [ko](/f32/language/ko) | 790 | 1753 | 45.1 | /mnt/stockage/packages/f32/fcitx5/po/ko.po | 
+ | [de](/f32/language/de) | 481 | 1753 | 27.4 | /mnt/stockage/packages/f32/fcitx5/po/de.po | 
+ | [ca](/f32/language/ca) | 243 | 1753 | 13.9 | /mnt/stockage/packages/f32/fcitx5/po/ca.po | 
+ | [ru](/f32/language/ru) | 138 | 1753 | 7.9 | /mnt/stockage/packages/f32/fcitx5/po/ru.po | 
+ | [es](/f32/language/es) | 2 | 1753 | 0.1 | /mnt/stockage/packages/f32/fcitx5/po/es.po | 
+ | [fr](/f32/language/fr) | 0 | 1753 | 0.0 | /mnt/stockage/packages/f32/fcitx5/po/fr.po | 
 {.sortable}
 
 

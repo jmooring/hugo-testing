@@ -18,26 +18,26 @@ The package trytond-account-stock-continental (version 4.0.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f27/language/ca.md" >}}) | 325 | 325 | 100.0 | /mnt/stockage/packages/f27/trytond-account-stock-continental/locale/ca_ES.po | 
- | [de]({{< ref "/f27/language/de.md" >}}) | 325 | 325 | 100.0 | /mnt/stockage/packages/f27/trytond-account-stock-continental/locale/de_DE.po | 
- | [es]({{< ref "/f27/language/es.md" >}}) | 325 | 325 | 100.0 | /mnt/stockage/packages/f27/trytond-account-stock-continental/locale/es_ES.po | 
- | [es_AR]({{< ref "/f27/language/es_AR.md" >}}) | 325 | 325 | 100.0 | /mnt/stockage/packages/f27/trytond-account-stock-continental/locale/es_AR.po | 
- | [es_CO]({{< ref "/f27/language/es_CO.md" >}}) | 325 | 325 | 100.0 | /mnt/stockage/packages/f27/trytond-account-stock-continental/locale/es_CO.po | 
- | [es_EC]({{< ref "/f27/language/es_EC.md" >}}) | 325 | 325 | 100.0 | /mnt/stockage/packages/f27/trytond-account-stock-continental/locale/es_EC.po | 
- | [fr]({{< ref "/f27/language/fr.md" >}}) | 325 | 325 | 100.0 | /mnt/stockage/packages/f27/trytond-account-stock-continental/locale/fr_FR.po | 
- | [sl]({{< ref "/f27/language/sl.md" >}}) | 325 | 325 | 100.0 | /mnt/stockage/packages/f27/trytond-account-stock-continental/locale/sl_SI.po | 
- | [pt_BR]({{< ref "/f27/language/pt_BR.md" >}}) | 224 | 325 | 68.9 | /mnt/stockage/packages/f27/trytond-account-stock-continental/locale/pt_BR.po | 
- | [es_MX]({{< ref "/f27/language/es_MX.md" >}}) | 215 | 325 | 66.2 | /mnt/stockage/packages/f27/trytond-account-stock-continental/locale/es_MX.po | 
- | [bg]({{< ref "/f27/language/bg.md" >}}) | 0 | 325 | 0.0 | /mnt/stockage/packages/f27/trytond-account-stock-continental/locale/bg_BG.po | 
- | [cs]({{< ref "/f27/language/cs.md" >}}) | 0 | 325 | 0.0 | /mnt/stockage/packages/f27/trytond-account-stock-continental/locale/cs_CZ.po | 
- | [hu]({{< ref "/f27/language/hu.md" >}}) | 0 | 325 | 0.0 | /mnt/stockage/packages/f27/trytond-account-stock-continental/locale/hu_HU.po | 
- | [it]({{< ref "/f27/language/it.md" >}}) | 0 | 325 | 0.0 | /mnt/stockage/packages/f27/trytond-account-stock-continental/locale/it_IT.po | 
- | [ja]({{< ref "/f27/language/ja.md" >}}) | 0 | 325 | 0.0 | /mnt/stockage/packages/f27/trytond-account-stock-continental/locale/ja_JP.po | 
- | [lo]({{< ref "/f27/language/lo.md" >}}) | 0 | 325 | 0.0 | /mnt/stockage/packages/f27/trytond-account-stock-continental/locale/lo_LA.po | 
- | [lt]({{< ref "/f27/language/lt.md" >}}) | 0 | 325 | 0.0 | /mnt/stockage/packages/f27/trytond-account-stock-continental/locale/lt_LT.po | 
- | [nl]({{< ref "/f27/language/nl.md" >}}) | 0 | 325 | 0.0 | /mnt/stockage/packages/f27/trytond-account-stock-continental/locale/nl_NL.po | 
- | [ru]({{< ref "/f27/language/ru.md" >}}) | 0 | 325 | 0.0 | /mnt/stockage/packages/f27/trytond-account-stock-continental/locale/ru_RU.po | 
- | [zh_Hans]({{< ref "/f27/language/zh_Hans.md" >}}) | 0 | 325 | 0.0 | /mnt/stockage/packages/f27/trytond-account-stock-continental/locale/zh_CN.po | 
+ | [ca](/f27/language/ca) | 325 | 325 | 100.0 | /mnt/stockage/packages/f27/trytond-account-stock-continental/locale/ca_ES.po | 
+ | [de](/f27/language/de) | 325 | 325 | 100.0 | /mnt/stockage/packages/f27/trytond-account-stock-continental/locale/de_DE.po | 
+ | [es](/f27/language/es) | 325 | 325 | 100.0 | /mnt/stockage/packages/f27/trytond-account-stock-continental/locale/es_ES.po | 
+ | [es_AR](/f27/language/es_AR) | 325 | 325 | 100.0 | /mnt/stockage/packages/f27/trytond-account-stock-continental/locale/es_AR.po | 
+ | [es_CO](/f27/language/es_CO) | 325 | 325 | 100.0 | /mnt/stockage/packages/f27/trytond-account-stock-continental/locale/es_CO.po | 
+ | [es_EC](/f27/language/es_EC) | 325 | 325 | 100.0 | /mnt/stockage/packages/f27/trytond-account-stock-continental/locale/es_EC.po | 
+ | [fr](/f27/language/fr) | 325 | 325 | 100.0 | /mnt/stockage/packages/f27/trytond-account-stock-continental/locale/fr_FR.po | 
+ | [sl](/f27/language/sl) | 325 | 325 | 100.0 | /mnt/stockage/packages/f27/trytond-account-stock-continental/locale/sl_SI.po | 
+ | [pt_BR](/f27/language/pt_BR) | 224 | 325 | 68.9 | /mnt/stockage/packages/f27/trytond-account-stock-continental/locale/pt_BR.po | 
+ | [es_MX](/f27/language/es_MX) | 215 | 325 | 66.2 | /mnt/stockage/packages/f27/trytond-account-stock-continental/locale/es_MX.po | 
+ | [bg](/f27/language/bg) | 0 | 325 | 0.0 | /mnt/stockage/packages/f27/trytond-account-stock-continental/locale/bg_BG.po | 
+ | [cs](/f27/language/cs) | 0 | 325 | 0.0 | /mnt/stockage/packages/f27/trytond-account-stock-continental/locale/cs_CZ.po | 
+ | [hu](/f27/language/hu) | 0 | 325 | 0.0 | /mnt/stockage/packages/f27/trytond-account-stock-continental/locale/hu_HU.po | 
+ | [it](/f27/language/it) | 0 | 325 | 0.0 | /mnt/stockage/packages/f27/trytond-account-stock-continental/locale/it_IT.po | 
+ | [ja](/f27/language/ja) | 0 | 325 | 0.0 | /mnt/stockage/packages/f27/trytond-account-stock-continental/locale/ja_JP.po | 
+ | [lo](/f27/language/lo) | 0 | 325 | 0.0 | /mnt/stockage/packages/f27/trytond-account-stock-continental/locale/lo_LA.po | 
+ | [lt](/f27/language/lt) | 0 | 325 | 0.0 | /mnt/stockage/packages/f27/trytond-account-stock-continental/locale/lt_LT.po | 
+ | [nl](/f27/language/nl) | 0 | 325 | 0.0 | /mnt/stockage/packages/f27/trytond-account-stock-continental/locale/nl_NL.po | 
+ | [ru](/f27/language/ru) | 0 | 325 | 0.0 | /mnt/stockage/packages/f27/trytond-account-stock-continental/locale/ru_RU.po | 
+ | [zh_Hans](/f27/language/zh_Hans) | 0 | 325 | 0.0 | /mnt/stockage/packages/f27/trytond-account-stock-continental/locale/zh_CN.po | 
 {.sortable}
 
 

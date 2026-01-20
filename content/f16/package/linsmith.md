@@ -18,12 +18,12 @@ The package linsmith (version 0.99.12):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [sv]({{< ref "/f16/language/sv.md" >}}) | 600 | 673 | 89.2 | /mnt/stockage/packages/f16/linsmith/po/sv.po | 
- | [it]({{< ref "/f16/language/it.md" >}}) | 581 | 673 | 86.3 | /mnt/stockage/packages/f16/linsmith/po/it.po | 
- | [es]({{< ref "/f16/language/es.md" >}}) | 549 | 673 | 81.6 | /mnt/stockage/packages/f16/linsmith/po/es.po | 
- | [de]({{< ref "/f16/language/de.md" >}}) | 462 | 673 | 68.6 | /mnt/stockage/packages/f16/linsmith/po/de.po | 
- | [hu]({{< ref "/f16/language/hu.md" >}}) | 371 | 673 | 55.1 | /mnt/stockage/packages/f16/linsmith/po/hu.po | 
- | [zh_Hans]({{< ref "/f16/language/zh_Hans.md" >}}) | 265 | 673 | 39.4 | /mnt/stockage/packages/f16/linsmith/po/zh.po | 
+ | [sv](/f16/language/sv) | 600 | 673 | 89.2 | /mnt/stockage/packages/f16/linsmith/po/sv.po | 
+ | [it](/f16/language/it) | 581 | 673 | 86.3 | /mnt/stockage/packages/f16/linsmith/po/it.po | 
+ | [es](/f16/language/es) | 549 | 673 | 81.6 | /mnt/stockage/packages/f16/linsmith/po/es.po | 
+ | [de](/f16/language/de) | 462 | 673 | 68.6 | /mnt/stockage/packages/f16/linsmith/po/de.po | 
+ | [hu](/f16/language/hu) | 371 | 673 | 55.1 | /mnt/stockage/packages/f16/linsmith/po/hu.po | 
+ | [zh_Hans](/f16/language/zh_Hans) | 265 | 673 | 39.4 | /mnt/stockage/packages/f16/linsmith/po/zh.po | 
 {.sortable}
 
 

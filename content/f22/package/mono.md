@@ -18,10 +18,10 @@ The package mono (version 2.10.8):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [pt_BR]({{< ref "/f22/language/pt_BR.md" >}}) | 5236 | 7396 | 70.8 | /mnt/stockage/packages/f22/mono/po/mcs/pt_BR.po | 
- | [ja]({{< ref "/f22/language/ja.md" >}}) | 1209 | 7396 | 16.3 | /mnt/stockage/packages/f22/mono/po/mcs/ja.po | 
- | [es]({{< ref "/f22/language/es.md" >}}) | 973 | 7396 | 13.2 | /mnt/stockage/packages/f22/mono/po/mcs/es.po | 
- | [de]({{< ref "/f22/language/de.md" >}}) | 421 | 7396 | 5.7 | /mnt/stockage/packages/f22/mono/po/mcs/de.po | 
+ | [pt_BR](/f22/language/pt_BR) | 5236 | 7396 | 70.8 | /mnt/stockage/packages/f22/mono/po/mcs/pt_BR.po | 
+ | [ja](/f22/language/ja) | 1209 | 7396 | 16.3 | /mnt/stockage/packages/f22/mono/po/mcs/ja.po | 
+ | [es](/f22/language/es) | 973 | 7396 | 13.2 | /mnt/stockage/packages/f22/mono/po/mcs/es.po | 
+ | [de](/f22/language/de) | 421 | 7396 | 5.7 | /mnt/stockage/packages/f22/mono/po/mcs/de.po | 
 {.sortable}
 
 

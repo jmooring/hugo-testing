@@ -18,26 +18,26 @@ The package bilbo (version 1.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ru]({{< ref "/f12/language/ru.md" >}}) | 1367 | 1367 | 100.0 | /mnt/stockage/packages/f12/bilbo/po/ru/bilbo.po | 
- | [tr]({{< ref "/f12/language/tr.md" >}}) | 1367 | 1367 | 100.0 | /mnt/stockage/packages/f12/bilbo/po/tr/bilbo.po | 
- | [uk]({{< ref "/f12/language/uk.md" >}}) | 1367 | 1367 | 100.0 | /mnt/stockage/packages/f12/bilbo/po/uk/bilbo.po | 
- | [pt_BR]({{< ref "/f12/language/pt_BR.md" >}}) | 1357 | 1367 | 99.3 | /mnt/stockage/packages/f12/bilbo/po/pt_BR/bilbo.po | 
- | [fa]({{< ref "/f12/language/fa.md" >}}) | 1349 | 1367 | 98.7 | /mnt/stockage/packages/f12/bilbo/po/fa/bilbo.po | 
- | [nl]({{< ref "/f12/language/nl.md" >}}) | 1315 | 1367 | 96.2 | /mnt/stockage/packages/f12/bilbo/po/nl/bilbo.po | 
- | [de]({{< ref "/f12/language/de.md" >}}) | 1188 | 1367 | 86.9 | /mnt/stockage/packages/f12/bilbo/po/de/bilbo.po | 
- | [it]({{< ref "/f12/language/it.md" >}}) | 1007 | 1367 | 73.7 | /mnt/stockage/packages/f12/bilbo/po/it/bilbo.po | 
- | [pt]({{< ref "/f12/language/pt.md" >}}) | 978 | 1367 | 71.5 | /mnt/stockage/packages/f12/bilbo/po/pt/bilbo.po | 
- | [cs]({{< ref "/f12/language/cs.md" >}}) | 950 | 1367 | 69.5 | /mnt/stockage/packages/f12/bilbo/po/cs/bilbo.po | 
- | [pl]({{< ref "/f12/language/pl.md" >}}) | 717 | 1367 | 52.5 | /mnt/stockage/packages/f12/bilbo/po/pl/bilbo.po | 
- | [ar]({{< ref "/f12/language/ar.md" >}}) | 344 | 1367 | 25.2 | /mnt/stockage/packages/f12/bilbo/po/ar/bilbo.po | 
- | [zh_Hans]({{< ref "/f12/language/zh_Hans.md" >}}) | 333 | 1367 | 24.4 | /mnt/stockage/packages/f12/bilbo/po/zh_CN/bilbo.po | 
- | [es]({{< ref "/f12/language/es.md" >}}) | 329 | 1367 | 24.1 | /mnt/stockage/packages/f12/bilbo/po/es/bilbo.po | 
- | [en_CA]({{< ref "/f12/language/en_CA.md" >}}) | 102 | 1367 | 7.5 | /mnt/stockage/packages/f12/bilbo/po/en_CA/bilbo.po | 
- | [fr]({{< ref "/f12/language/fr.md" >}}) | 55 | 1367 | 4.0 | /mnt/stockage/packages/f12/bilbo/po/fr/bilbo.po | 
- | [ms]({{< ref "/f12/language/ms.md" >}}) | 49 | 1367 | 3.6 | /mnt/stockage/packages/f12/bilbo/po/ms/bilbo.po | 
- | [he]({{< ref "/f12/language/he.md" >}}) | 26 | 1367 | 1.9 | /mnt/stockage/packages/f12/bilbo/po/he/bilbo.po | 
- | [et]({{< ref "/f12/language/et.md" >}}) | 12 | 1367 | 0.9 | /mnt/stockage/packages/f12/bilbo/po/et/bilbo.po | 
- | [sv]({{< ref "/f12/language/sv.md" >}}) | 4 | 1367 | 0.3 | /mnt/stockage/packages/f12/bilbo/po/sv/bilbo.po | 
+ | [ru](/f12/language/ru) | 1367 | 1367 | 100.0 | /mnt/stockage/packages/f12/bilbo/po/ru/bilbo.po | 
+ | [tr](/f12/language/tr) | 1367 | 1367 | 100.0 | /mnt/stockage/packages/f12/bilbo/po/tr/bilbo.po | 
+ | [uk](/f12/language/uk) | 1367 | 1367 | 100.0 | /mnt/stockage/packages/f12/bilbo/po/uk/bilbo.po | 
+ | [pt_BR](/f12/language/pt_BR) | 1357 | 1367 | 99.3 | /mnt/stockage/packages/f12/bilbo/po/pt_BR/bilbo.po | 
+ | [fa](/f12/language/fa) | 1349 | 1367 | 98.7 | /mnt/stockage/packages/f12/bilbo/po/fa/bilbo.po | 
+ | [nl](/f12/language/nl) | 1315 | 1367 | 96.2 | /mnt/stockage/packages/f12/bilbo/po/nl/bilbo.po | 
+ | [de](/f12/language/de) | 1188 | 1367 | 86.9 | /mnt/stockage/packages/f12/bilbo/po/de/bilbo.po | 
+ | [it](/f12/language/it) | 1007 | 1367 | 73.7 | /mnt/stockage/packages/f12/bilbo/po/it/bilbo.po | 
+ | [pt](/f12/language/pt) | 978 | 1367 | 71.5 | /mnt/stockage/packages/f12/bilbo/po/pt/bilbo.po | 
+ | [cs](/f12/language/cs) | 950 | 1367 | 69.5 | /mnt/stockage/packages/f12/bilbo/po/cs/bilbo.po | 
+ | [pl](/f12/language/pl) | 717 | 1367 | 52.5 | /mnt/stockage/packages/f12/bilbo/po/pl/bilbo.po | 
+ | [ar](/f12/language/ar) | 344 | 1367 | 25.2 | /mnt/stockage/packages/f12/bilbo/po/ar/bilbo.po | 
+ | [zh_Hans](/f12/language/zh_Hans) | 333 | 1367 | 24.4 | /mnt/stockage/packages/f12/bilbo/po/zh_CN/bilbo.po | 
+ | [es](/f12/language/es) | 329 | 1367 | 24.1 | /mnt/stockage/packages/f12/bilbo/po/es/bilbo.po | 
+ | [en_CA](/f12/language/en_CA) | 102 | 1367 | 7.5 | /mnt/stockage/packages/f12/bilbo/po/en_CA/bilbo.po | 
+ | [fr](/f12/language/fr) | 55 | 1367 | 4.0 | /mnt/stockage/packages/f12/bilbo/po/fr/bilbo.po | 
+ | [ms](/f12/language/ms) | 49 | 1367 | 3.6 | /mnt/stockage/packages/f12/bilbo/po/ms/bilbo.po | 
+ | [he](/f12/language/he) | 26 | 1367 | 1.9 | /mnt/stockage/packages/f12/bilbo/po/he/bilbo.po | 
+ | [et](/f12/language/et) | 12 | 1367 | 0.9 | /mnt/stockage/packages/f12/bilbo/po/et/bilbo.po | 
+ | [sv](/f12/language/sv) | 4 | 1367 | 0.3 | /mnt/stockage/packages/f12/bilbo/po/sv/bilbo.po | 
 {.sortable}
 
 

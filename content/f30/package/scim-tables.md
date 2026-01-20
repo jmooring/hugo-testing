@@ -18,15 +18,15 @@ The package scim-tables (version 0.5.14):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f30/language/de.md" >}}) | 1040 | 1155 | 90.0 | /mnt/stockage/packages/f30/scim-tables/po/de.po/mnt/stockage/packages/f30/scim-tables/skim/po/de.po | 
- | [fr]({{< ref "/f30/language/fr.md" >}}) | 1040 | 1155 | 90.0 | /mnt/stockage/packages/f30/scim-tables/po/fr.po/mnt/stockage/packages/f30/scim-tables/skim/po/fr.po | 
- | [it]({{< ref "/f30/language/it.md" >}}) | 1040 | 1155 | 90.0 | /mnt/stockage/packages/f30/scim-tables/po/it.po/mnt/stockage/packages/f30/scim-tables/skim/po/it.po | 
- | [ja]({{< ref "/f30/language/ja.md" >}}) | 1040 | 1155 | 90.0 | /mnt/stockage/packages/f30/scim-tables/po/ja.po/mnt/stockage/packages/f30/scim-tables/skim/po/ja.po | 
- | [ko]({{< ref "/f30/language/ko.md" >}}) | 1040 | 1155 | 90.0 | /mnt/stockage/packages/f30/scim-tables/po/ko.po/mnt/stockage/packages/f30/scim-tables/skim/po/ko.po | 
- | [nl]({{< ref "/f30/language/nl.md" >}}) | 1040 | 1155 | 90.0 | /mnt/stockage/packages/f30/scim-tables/po/nl.po/mnt/stockage/packages/f30/scim-tables/skim/po/nl.po | 
- | [zh_Hant]({{< ref "/f30/language/zh_Hant.md" >}}) | 1037 | 1155 | 89.8 | /mnt/stockage/packages/f30/scim-tables/po/zh_TW.po/mnt/stockage/packages/f30/scim-tables/skim/po/zh_TW.po | 
- | [zh_Hans]({{< ref "/f30/language/zh_Hans.md" >}}) | 997 | 1155 | 86.3 | /mnt/stockage/packages/f30/scim-tables/po/zh_CN.po/mnt/stockage/packages/f30/scim-tables/skim/po/zh_CN.po | 
- | [pa]({{< ref "/f30/language/pa.md" >}}) | 432 | 1155 | 37.4 | /mnt/stockage/packages/f30/scim-tables/po/pa.po/mnt/stockage/packages/f30/scim-tables/skim/po/pa.po | 
+ | [de](/f30/language/de) | 1040 | 1155 | 90.0 | /mnt/stockage/packages/f30/scim-tables/po/de.po/mnt/stockage/packages/f30/scim-tables/skim/po/de.po | 
+ | [fr](/f30/language/fr) | 1040 | 1155 | 90.0 | /mnt/stockage/packages/f30/scim-tables/po/fr.po/mnt/stockage/packages/f30/scim-tables/skim/po/fr.po | 
+ | [it](/f30/language/it) | 1040 | 1155 | 90.0 | /mnt/stockage/packages/f30/scim-tables/po/it.po/mnt/stockage/packages/f30/scim-tables/skim/po/it.po | 
+ | [ja](/f30/language/ja) | 1040 | 1155 | 90.0 | /mnt/stockage/packages/f30/scim-tables/po/ja.po/mnt/stockage/packages/f30/scim-tables/skim/po/ja.po | 
+ | [ko](/f30/language/ko) | 1040 | 1155 | 90.0 | /mnt/stockage/packages/f30/scim-tables/po/ko.po/mnt/stockage/packages/f30/scim-tables/skim/po/ko.po | 
+ | [nl](/f30/language/nl) | 1040 | 1155 | 90.0 | /mnt/stockage/packages/f30/scim-tables/po/nl.po/mnt/stockage/packages/f30/scim-tables/skim/po/nl.po | 
+ | [zh_Hant](/f30/language/zh_Hant) | 1037 | 1155 | 89.8 | /mnt/stockage/packages/f30/scim-tables/po/zh_TW.po/mnt/stockage/packages/f30/scim-tables/skim/po/zh_TW.po | 
+ | [zh_Hans](/f30/language/zh_Hans) | 997 | 1155 | 86.3 | /mnt/stockage/packages/f30/scim-tables/po/zh_CN.po/mnt/stockage/packages/f30/scim-tables/skim/po/zh_CN.po | 
+ | [pa](/f30/language/pa) | 432 | 1155 | 37.4 | /mnt/stockage/packages/f30/scim-tables/po/pa.po/mnt/stockage/packages/f30/scim-tables/skim/po/pa.po | 
 {.sortable}
 
 

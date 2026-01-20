@@ -18,8 +18,8 @@ The package colord-gtk (version 0.3.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ka]({{< ref "/f42/language/ka.md" >}}) | 20 | 20 | 100.0 | /mnt/stockage/packages/f42/colord-gtk/po/ka.po | 
- | [en_GB]({{< ref "/f42/language/en_GB.md" >}}) | 0 | 5 | 0.0 | /mnt/stockage/packages/f42/colord-gtk/po/en_GB.po | 
+ | [ka](/f42/language/ka) | 20 | 20 | 100.0 | /mnt/stockage/packages/f42/colord-gtk/po/ka.po | 
+ | [en_GB](/f42/language/en_GB) | 0 | 5 | 0.0 | /mnt/stockage/packages/f42/colord-gtk/po/en_GB.po | 
 {.sortable}
 
 

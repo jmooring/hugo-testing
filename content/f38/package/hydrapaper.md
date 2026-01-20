@@ -18,14 +18,14 @@ The package hydrapaper (version 3.3.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f38/language/de.md" >}}) | 829 | 829 | 100.0 | /mnt/stockage/packages/f38/hydrapaper/po/de.po | 
- | [es]({{< ref "/f38/language/es.md" >}}) | 856 | 856 | 100.0 | /mnt/stockage/packages/f38/hydrapaper/po/es.po | 
- | [fr]({{< ref "/f38/language/fr.md" >}}) | 903 | 903 | 100.0 | /mnt/stockage/packages/f38/hydrapaper/po/fr.po | 
- | [pt_BR]({{< ref "/f38/language/pt_BR.md" >}}) | 605 | 605 | 100.0 | /mnt/stockage/packages/f38/hydrapaper/po/pt_BR.po | 
- | [ru]({{< ref "/f38/language/ru.md" >}}) | 500 | 500 | 100.0 | /mnt/stockage/packages/f38/hydrapaper/po/ru.po | 
- | [sv]({{< ref "/f38/language/sv.md" >}}) | 283 | 283 | 100.0 | /mnt/stockage/packages/f38/hydrapaper/po/sv.po | 
- | [it]({{< ref "/f38/language/it.md" >}}) | 855 | 861 | 99.3 | /mnt/stockage/packages/f38/hydrapaper/po/it.po | 
- | [tr]({{< ref "/f38/language/tr.md" >}}) | 329 | 903 | 36.4 | /mnt/stockage/packages/f38/hydrapaper/po/tr.po | 
+ | [de](/f38/language/de) | 829 | 829 | 100.0 | /mnt/stockage/packages/f38/hydrapaper/po/de.po | 
+ | [es](/f38/language/es) | 856 | 856 | 100.0 | /mnt/stockage/packages/f38/hydrapaper/po/es.po | 
+ | [fr](/f38/language/fr) | 903 | 903 | 100.0 | /mnt/stockage/packages/f38/hydrapaper/po/fr.po | 
+ | [pt_BR](/f38/language/pt_BR) | 605 | 605 | 100.0 | /mnt/stockage/packages/f38/hydrapaper/po/pt_BR.po | 
+ | [ru](/f38/language/ru) | 500 | 500 | 100.0 | /mnt/stockage/packages/f38/hydrapaper/po/ru.po | 
+ | [sv](/f38/language/sv) | 283 | 283 | 100.0 | /mnt/stockage/packages/f38/hydrapaper/po/sv.po | 
+ | [it](/f38/language/it) | 855 | 861 | 99.3 | /mnt/stockage/packages/f38/hydrapaper/po/it.po | 
+ | [tr](/f38/language/tr) | 329 | 903 | 36.4 | /mnt/stockage/packages/f38/hydrapaper/po/tr.po | 
 {.sortable}
 
 

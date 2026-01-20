@@ -18,14 +18,14 @@ The package gmpc (version 0.15.5.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [nb_NO]({{< ref "/f7/language/nb_NO.md" >}}) | 700 | 935 | 74.9 | /mnt/stockage/packages/f7/gmpc/po/nb_NO.po | 
- | [pl]({{< ref "/f7/language/pl.md" >}}) | 680 | 935 | 72.7 | /mnt/stockage/packages/f7/gmpc/po/pl.po | 
- | [ru]({{< ref "/f7/language/ru.md" >}}) | 662 | 935 | 70.8 | /mnt/stockage/packages/f7/gmpc/po/ru.po | 
- | [it]({{< ref "/f7/language/it.md" >}}) | 603 | 935 | 64.5 | /mnt/stockage/packages/f7/gmpc/po/it.po | 
- | [gl]({{< ref "/f7/language/gl.md" >}}) | 532 | 935 | 56.9 | /mnt/stockage/packages/f7/gmpc/po/gl.po | 
- | [de]({{< ref "/f7/language/de.md" >}}) | 511 | 935 | 54.7 | /mnt/stockage/packages/f7/gmpc/po/de.po | 
- | [nl]({{< ref "/f7/language/nl.md" >}}) | 377 | 935 | 40.3 | /mnt/stockage/packages/f7/gmpc/po/nl.po | 
- | [fr]({{< ref "/f7/language/fr.md" >}}) | 146 | 935 | 15.6 | /mnt/stockage/packages/f7/gmpc/po/fr.po | 
+ | [nb_NO](/f7/language/nb_NO) | 700 | 935 | 74.9 | /mnt/stockage/packages/f7/gmpc/po/nb_NO.po | 
+ | [pl](/f7/language/pl) | 680 | 935 | 72.7 | /mnt/stockage/packages/f7/gmpc/po/pl.po | 
+ | [ru](/f7/language/ru) | 662 | 935 | 70.8 | /mnt/stockage/packages/f7/gmpc/po/ru.po | 
+ | [it](/f7/language/it) | 603 | 935 | 64.5 | /mnt/stockage/packages/f7/gmpc/po/it.po | 
+ | [gl](/f7/language/gl) | 532 | 935 | 56.9 | /mnt/stockage/packages/f7/gmpc/po/gl.po | 
+ | [de](/f7/language/de) | 511 | 935 | 54.7 | /mnt/stockage/packages/f7/gmpc/po/de.po | 
+ | [nl](/f7/language/nl) | 377 | 935 | 40.3 | /mnt/stockage/packages/f7/gmpc/po/nl.po | 
+ | [fr](/f7/language/fr) | 146 | 935 | 15.6 | /mnt/stockage/packages/f7/gmpc/po/fr.po | 
 {.sortable}
 
 

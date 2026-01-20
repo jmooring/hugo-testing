@@ -18,51 +18,51 @@ The package xfce4-screenshooter (version 1.8.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f18/language/ar.md" >}}) | 443 | 443 | 100.0 | /mnt/stockage/packages/f18/xfce4-screenshooter/po/ar.po | 
- | [bg]({{< ref "/f18/language/bg.md" >}}) | 443 | 443 | 100.0 | /mnt/stockage/packages/f18/xfce4-screenshooter/po/bg.po | 
- | [ca]({{< ref "/f18/language/ca.md" >}}) | 443 | 443 | 100.0 | /mnt/stockage/packages/f18/xfce4-screenshooter/po/ca.po | 
- | [cs]({{< ref "/f18/language/cs.md" >}}) | 443 | 443 | 100.0 | /mnt/stockage/packages/f18/xfce4-screenshooter/po/cs.po | 
- | [da]({{< ref "/f18/language/da.md" >}}) | 443 | 443 | 100.0 | /mnt/stockage/packages/f18/xfce4-screenshooter/po/da.po | 
- | [de]({{< ref "/f18/language/de.md" >}}) | 443 | 443 | 100.0 | /mnt/stockage/packages/f18/xfce4-screenshooter/po/de.po | 
- | [el]({{< ref "/f18/language/el.md" >}}) | 443 | 443 | 100.0 | /mnt/stockage/packages/f18/xfce4-screenshooter/po/el.po | 
- | [en_GB]({{< ref "/f18/language/en_GB.md" >}}) | 443 | 443 | 100.0 | /mnt/stockage/packages/f18/xfce4-screenshooter/po/en_GB.po | 
- | [es]({{< ref "/f18/language/es.md" >}}) | 443 | 443 | 100.0 | /mnt/stockage/packages/f18/xfce4-screenshooter/po/es.po | 
- | [eu]({{< ref "/f18/language/eu.md" >}}) | 443 | 443 | 100.0 | /mnt/stockage/packages/f18/xfce4-screenshooter/po/eu.po | 
- | [fi]({{< ref "/f18/language/fi.md" >}}) | 443 | 443 | 100.0 | /mnt/stockage/packages/f18/xfce4-screenshooter/po/fi.po | 
- | [fr]({{< ref "/f18/language/fr.md" >}}) | 443 | 443 | 100.0 | /mnt/stockage/packages/f18/xfce4-screenshooter/po/fr.po | 
- | [gl]({{< ref "/f18/language/gl.md" >}}) | 443 | 443 | 100.0 | /mnt/stockage/packages/f18/xfce4-screenshooter/po/gl.po | 
- | [hu]({{< ref "/f18/language/hu.md" >}}) | 443 | 443 | 100.0 | /mnt/stockage/packages/f18/xfce4-screenshooter/po/hu.po | 
- | [id]({{< ref "/f18/language/id.md" >}}) | 443 | 443 | 100.0 | /mnt/stockage/packages/f18/xfce4-screenshooter/po/id.po | 
- | [is]({{< ref "/f18/language/is.md" >}}) | 443 | 443 | 100.0 | /mnt/stockage/packages/f18/xfce4-screenshooter/po/is.po | 
- | [it]({{< ref "/f18/language/it.md" >}}) | 443 | 443 | 100.0 | /mnt/stockage/packages/f18/xfce4-screenshooter/po/it.po | 
- | [ja]({{< ref "/f18/language/ja.md" >}}) | 443 | 443 | 100.0 | /mnt/stockage/packages/f18/xfce4-screenshooter/po/ja.po | 
- | [ko]({{< ref "/f18/language/ko.md" >}}) | 443 | 443 | 100.0 | /mnt/stockage/packages/f18/xfce4-screenshooter/po/ko.po | 
- | [lt]({{< ref "/f18/language/lt.md" >}}) | 443 | 443 | 100.0 | /mnt/stockage/packages/f18/xfce4-screenshooter/po/lt.po | 
- | [lv]({{< ref "/f18/language/lv.md" >}}) | 443 | 443 | 100.0 | /mnt/stockage/packages/f18/xfce4-screenshooter/po/lv.po | 
- | [nb_NO]({{< ref "/f18/language/nb_NO.md" >}}) | 443 | 443 | 100.0 | /mnt/stockage/packages/f18/xfce4-screenshooter/po/nb.po | 
- | [nl]({{< ref "/f18/language/nl.md" >}}) | 443 | 443 | 100.0 | /mnt/stockage/packages/f18/xfce4-screenshooter/po/nl.po | 
- | [nn]({{< ref "/f18/language/nn.md" >}}) | 443 | 443 | 100.0 | /mnt/stockage/packages/f18/xfce4-screenshooter/po/nn.po | 
- | [pl]({{< ref "/f18/language/pl.md" >}}) | 443 | 443 | 100.0 | /mnt/stockage/packages/f18/xfce4-screenshooter/po/pl.po | 
- | [pt]({{< ref "/f18/language/pt.md" >}}) | 443 | 443 | 100.0 | /mnt/stockage/packages/f18/xfce4-screenshooter/po/pt.po | 
- | [pt_BR]({{< ref "/f18/language/pt_BR.md" >}}) | 443 | 443 | 100.0 | /mnt/stockage/packages/f18/xfce4-screenshooter/po/pt_BR.po | 
- | [ro]({{< ref "/f18/language/ro.md" >}}) | 443 | 443 | 100.0 | /mnt/stockage/packages/f18/xfce4-screenshooter/po/ro.po | 
- | [ru]({{< ref "/f18/language/ru.md" >}}) | 443 | 443 | 100.0 | /mnt/stockage/packages/f18/xfce4-screenshooter/po/ru.po | 
- | [sk]({{< ref "/f18/language/sk.md" >}}) | 443 | 443 | 100.0 | /mnt/stockage/packages/f18/xfce4-screenshooter/po/sk.po | 
- | [tr]({{< ref "/f18/language/tr.md" >}}) | 443 | 443 | 100.0 | /mnt/stockage/packages/f18/xfce4-screenshooter/po/tr.po | 
- | [ug]({{< ref "/f18/language/ug.md" >}}) | 443 | 443 | 100.0 | /mnt/stockage/packages/f18/xfce4-screenshooter/po/ug.po | 
- | [uk]({{< ref "/f18/language/uk.md" >}}) | 443 | 443 | 100.0 | /mnt/stockage/packages/f18/xfce4-screenshooter/po/uk.po | 
- | [zh_Hant]({{< ref "/f18/language/zh_Hant.md" >}}) | 443 | 443 | 100.0 | /mnt/stockage/packages/f18/xfce4-screenshooter/po/zh_TW.po | 
- | [ast]({{< ref "/f18/language/ast.md" >}}) | 345 | 443 | 77.9 | /mnt/stockage/packages/f18/xfce4-screenshooter/po/ast.po | 
- | [ur]({{< ref "/f18/language/ur.md" >}}) | 690 | 886 | 77.9 | /mnt/stockage/packages/f18/xfce4-screenshooter/po/ur_PK.po/mnt/stockage/packages/f18/xfce4-screenshooter/po/ur.po | 
- | [vi]({{< ref "/f18/language/vi.md" >}}) | 331 | 443 | 74.7 | /mnt/stockage/packages/f18/xfce4-screenshooter/po/vi.po | 
- | [sv]({{< ref "/f18/language/sv.md" >}}) | 301 | 443 | 67.9 | /mnt/stockage/packages/f18/xfce4-screenshooter/po/sv.po | 
- | [hr]({{< ref "/f18/language/hr.md" >}}) | 227 | 443 | 51.2 | /mnt/stockage/packages/f18/xfce4-screenshooter/po/hr.po | 
- | [et]({{< ref "/f18/language/et.md" >}}) | 170 | 443 | 38.4 | /mnt/stockage/packages/f18/xfce4-screenshooter/po/et.po | 
- | [kk]({{< ref "/f18/language/kk.md" >}}) | 164 | 443 | 37.0 | /mnt/stockage/packages/f18/xfce4-screenshooter/po/kk.po | 
- | [si]({{< ref "/f18/language/si.md" >}}) | 143 | 443 | 32.3 | /mnt/stockage/packages/f18/xfce4-screenshooter/po/si.po | 
- | [pa]({{< ref "/f18/language/pa.md" >}}) | 100 | 443 | 22.6 | /mnt/stockage/packages/f18/xfce4-screenshooter/po/pa.po | 
- | [sq]({{< ref "/f18/language/sq.md" >}}) | 32 | 443 | 7.2 | /mnt/stockage/packages/f18/xfce4-screenshooter/po/sq.po | 
- | [zh_Hans]({{< ref "/f18/language/zh_Hans.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f18/xfce4-screenshooter/po/zh_CN.po | 
+ | [ar](/f18/language/ar) | 443 | 443 | 100.0 | /mnt/stockage/packages/f18/xfce4-screenshooter/po/ar.po | 
+ | [bg](/f18/language/bg) | 443 | 443 | 100.0 | /mnt/stockage/packages/f18/xfce4-screenshooter/po/bg.po | 
+ | [ca](/f18/language/ca) | 443 | 443 | 100.0 | /mnt/stockage/packages/f18/xfce4-screenshooter/po/ca.po | 
+ | [cs](/f18/language/cs) | 443 | 443 | 100.0 | /mnt/stockage/packages/f18/xfce4-screenshooter/po/cs.po | 
+ | [da](/f18/language/da) | 443 | 443 | 100.0 | /mnt/stockage/packages/f18/xfce4-screenshooter/po/da.po | 
+ | [de](/f18/language/de) | 443 | 443 | 100.0 | /mnt/stockage/packages/f18/xfce4-screenshooter/po/de.po | 
+ | [el](/f18/language/el) | 443 | 443 | 100.0 | /mnt/stockage/packages/f18/xfce4-screenshooter/po/el.po | 
+ | [en_GB](/f18/language/en_GB) | 443 | 443 | 100.0 | /mnt/stockage/packages/f18/xfce4-screenshooter/po/en_GB.po | 
+ | [es](/f18/language/es) | 443 | 443 | 100.0 | /mnt/stockage/packages/f18/xfce4-screenshooter/po/es.po | 
+ | [eu](/f18/language/eu) | 443 | 443 | 100.0 | /mnt/stockage/packages/f18/xfce4-screenshooter/po/eu.po | 
+ | [fi](/f18/language/fi) | 443 | 443 | 100.0 | /mnt/stockage/packages/f18/xfce4-screenshooter/po/fi.po | 
+ | [fr](/f18/language/fr) | 443 | 443 | 100.0 | /mnt/stockage/packages/f18/xfce4-screenshooter/po/fr.po | 
+ | [gl](/f18/language/gl) | 443 | 443 | 100.0 | /mnt/stockage/packages/f18/xfce4-screenshooter/po/gl.po | 
+ | [hu](/f18/language/hu) | 443 | 443 | 100.0 | /mnt/stockage/packages/f18/xfce4-screenshooter/po/hu.po | 
+ | [id](/f18/language/id) | 443 | 443 | 100.0 | /mnt/stockage/packages/f18/xfce4-screenshooter/po/id.po | 
+ | [is](/f18/language/is) | 443 | 443 | 100.0 | /mnt/stockage/packages/f18/xfce4-screenshooter/po/is.po | 
+ | [it](/f18/language/it) | 443 | 443 | 100.0 | /mnt/stockage/packages/f18/xfce4-screenshooter/po/it.po | 
+ | [ja](/f18/language/ja) | 443 | 443 | 100.0 | /mnt/stockage/packages/f18/xfce4-screenshooter/po/ja.po | 
+ | [ko](/f18/language/ko) | 443 | 443 | 100.0 | /mnt/stockage/packages/f18/xfce4-screenshooter/po/ko.po | 
+ | [lt](/f18/language/lt) | 443 | 443 | 100.0 | /mnt/stockage/packages/f18/xfce4-screenshooter/po/lt.po | 
+ | [lv](/f18/language/lv) | 443 | 443 | 100.0 | /mnt/stockage/packages/f18/xfce4-screenshooter/po/lv.po | 
+ | [nb_NO](/f18/language/nb_NO) | 443 | 443 | 100.0 | /mnt/stockage/packages/f18/xfce4-screenshooter/po/nb.po | 
+ | [nl](/f18/language/nl) | 443 | 443 | 100.0 | /mnt/stockage/packages/f18/xfce4-screenshooter/po/nl.po | 
+ | [nn](/f18/language/nn) | 443 | 443 | 100.0 | /mnt/stockage/packages/f18/xfce4-screenshooter/po/nn.po | 
+ | [pl](/f18/language/pl) | 443 | 443 | 100.0 | /mnt/stockage/packages/f18/xfce4-screenshooter/po/pl.po | 
+ | [pt](/f18/language/pt) | 443 | 443 | 100.0 | /mnt/stockage/packages/f18/xfce4-screenshooter/po/pt.po | 
+ | [pt_BR](/f18/language/pt_BR) | 443 | 443 | 100.0 | /mnt/stockage/packages/f18/xfce4-screenshooter/po/pt_BR.po | 
+ | [ro](/f18/language/ro) | 443 | 443 | 100.0 | /mnt/stockage/packages/f18/xfce4-screenshooter/po/ro.po | 
+ | [ru](/f18/language/ru) | 443 | 443 | 100.0 | /mnt/stockage/packages/f18/xfce4-screenshooter/po/ru.po | 
+ | [sk](/f18/language/sk) | 443 | 443 | 100.0 | /mnt/stockage/packages/f18/xfce4-screenshooter/po/sk.po | 
+ | [tr](/f18/language/tr) | 443 | 443 | 100.0 | /mnt/stockage/packages/f18/xfce4-screenshooter/po/tr.po | 
+ | [ug](/f18/language/ug) | 443 | 443 | 100.0 | /mnt/stockage/packages/f18/xfce4-screenshooter/po/ug.po | 
+ | [uk](/f18/language/uk) | 443 | 443 | 100.0 | /mnt/stockage/packages/f18/xfce4-screenshooter/po/uk.po | 
+ | [zh_Hant](/f18/language/zh_Hant) | 443 | 443 | 100.0 | /mnt/stockage/packages/f18/xfce4-screenshooter/po/zh_TW.po | 
+ | [ast](/f18/language/ast) | 345 | 443 | 77.9 | /mnt/stockage/packages/f18/xfce4-screenshooter/po/ast.po | 
+ | [ur](/f18/language/ur) | 690 | 886 | 77.9 | /mnt/stockage/packages/f18/xfce4-screenshooter/po/ur_PK.po/mnt/stockage/packages/f18/xfce4-screenshooter/po/ur.po | 
+ | [vi](/f18/language/vi) | 331 | 443 | 74.7 | /mnt/stockage/packages/f18/xfce4-screenshooter/po/vi.po | 
+ | [sv](/f18/language/sv) | 301 | 443 | 67.9 | /mnt/stockage/packages/f18/xfce4-screenshooter/po/sv.po | 
+ | [hr](/f18/language/hr) | 227 | 443 | 51.2 | /mnt/stockage/packages/f18/xfce4-screenshooter/po/hr.po | 
+ | [et](/f18/language/et) | 170 | 443 | 38.4 | /mnt/stockage/packages/f18/xfce4-screenshooter/po/et.po | 
+ | [kk](/f18/language/kk) | 164 | 443 | 37.0 | /mnt/stockage/packages/f18/xfce4-screenshooter/po/kk.po | 
+ | [si](/f18/language/si) | 143 | 443 | 32.3 | /mnt/stockage/packages/f18/xfce4-screenshooter/po/si.po | 
+ | [pa](/f18/language/pa) | 100 | 443 | 22.6 | /mnt/stockage/packages/f18/xfce4-screenshooter/po/pa.po | 
+ | [sq](/f18/language/sq) | 32 | 443 | 7.2 | /mnt/stockage/packages/f18/xfce4-screenshooter/po/sq.po | 
+ | [zh_Hans](/f18/language/zh_Hans) | 0 | 0 | 0.0 | /mnt/stockage/packages/f18/xfce4-screenshooter/po/zh_CN.po | 
 {.sortable}
 
 

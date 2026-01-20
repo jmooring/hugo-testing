@@ -18,7 +18,7 @@ The package java-11-openjdk-portable (version 11.0.20.0.8):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [su]({{< ref "/f37/language/su.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f37/java-11-openjdk-portable/test/jdk/sun/nio/cs/tradChinese.po/mnt/stockage/packages/f37/java-11-openjdk-portable/test/jdk/sun/nio/cs/tradChinese.win.po | 
+ | [su](/f37/language/su) | 0 | 0 | 0.0 | /mnt/stockage/packages/f37/java-11-openjdk-portable/test/jdk/sun/nio/cs/tradChinese.po/mnt/stockage/packages/f37/java-11-openjdk-portable/test/jdk/sun/nio/cs/tradChinese.win.po | 
 {.sortable}
 
 

@@ -18,105 +18,105 @@ The package kf5-kdesignerplugin (version 5.108.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f37/language/ar.md" >}}) | 54 | 54 | 100.0 | /mnt/stockage/packages/f37/kf5-kdesignerplugin/poqm/ar/kdesignerplugin5_qt.po | 
- | [az]({{< ref "/f37/language/az.md" >}}) | 54 | 54 | 100.0 | /mnt/stockage/packages/f37/kf5-kdesignerplugin/poqm/az/kdesignerplugin5_qt.po | 
- | [bg]({{< ref "/f37/language/bg.md" >}}) | 54 | 54 | 100.0 | /mnt/stockage/packages/f37/kf5-kdesignerplugin/poqm/bg/kdesignerplugin5_qt.po | 
- | [ca]({{< ref "/f37/language/ca.md" >}}) | 54 | 54 | 100.0 | /mnt/stockage/packages/f37/kf5-kdesignerplugin/poqm/ca/kdesignerplugin5_qt.po | 
- | [ca@valencia]({{< ref "/f37/language/ca@valencia.md" >}}) | 54 | 54 | 100.0 | /mnt/stockage/packages/f37/kf5-kdesignerplugin/poqm/ca@valencia/kdesignerplugin5_qt.po | 
- | [cs]({{< ref "/f37/language/cs.md" >}}) | 54 | 54 | 100.0 | /mnt/stockage/packages/f37/kf5-kdesignerplugin/poqm/cs/kdesignerplugin5_qt.po | 
- | [da]({{< ref "/f37/language/da.md" >}}) | 54 | 54 | 100.0 | /mnt/stockage/packages/f37/kf5-kdesignerplugin/poqm/da/kdesignerplugin5_qt.po | 
- | [de]({{< ref "/f37/language/de.md" >}}) | 54 | 54 | 100.0 | /mnt/stockage/packages/f37/kf5-kdesignerplugin/poqm/de/kdesignerplugin5_qt.po | 
- | [el]({{< ref "/f37/language/el.md" >}}) | 54 | 54 | 100.0 | /mnt/stockage/packages/f37/kf5-kdesignerplugin/poqm/el/kdesignerplugin5_qt.po | 
- | [en_GB]({{< ref "/f37/language/en_GB.md" >}}) | 54 | 54 | 100.0 | /mnt/stockage/packages/f37/kf5-kdesignerplugin/poqm/en_GB/kdesignerplugin5_qt.po | 
- | [eo]({{< ref "/f37/language/eo.md" >}}) | 54 | 54 | 100.0 | /mnt/stockage/packages/f37/kf5-kdesignerplugin/poqm/eo/kdesignerplugin5_qt.po | 
- | [es]({{< ref "/f37/language/es.md" >}}) | 54 | 54 | 100.0 | /mnt/stockage/packages/f37/kf5-kdesignerplugin/poqm/es/kdesignerplugin5_qt.po | 
- | [et]({{< ref "/f37/language/et.md" >}}) | 54 | 54 | 100.0 | /mnt/stockage/packages/f37/kf5-kdesignerplugin/poqm/et/kdesignerplugin5_qt.po | 
- | [eu]({{< ref "/f37/language/eu.md" >}}) | 54 | 54 | 100.0 | /mnt/stockage/packages/f37/kf5-kdesignerplugin/poqm/eu/kdesignerplugin5_qt.po | 
- | [fi]({{< ref "/f37/language/fi.md" >}}) | 54 | 54 | 100.0 | /mnt/stockage/packages/f37/kf5-kdesignerplugin/poqm/fi/kdesignerplugin5_qt.po | 
- | [fr]({{< ref "/f37/language/fr.md" >}}) | 54 | 54 | 100.0 | /mnt/stockage/packages/f37/kf5-kdesignerplugin/poqm/fr/kdesignerplugin5_qt.po | 
- | [gd]({{< ref "/f37/language/gd.md" >}}) | 54 | 54 | 100.0 | /mnt/stockage/packages/f37/kf5-kdesignerplugin/poqm/gd/kdesignerplugin5_qt.po | 
- | [gl]({{< ref "/f37/language/gl.md" >}}) | 54 | 54 | 100.0 | /mnt/stockage/packages/f37/kf5-kdesignerplugin/poqm/gl/kdesignerplugin5_qt.po | 
- | [hi]({{< ref "/f37/language/hi.md" >}}) | 54 | 54 | 100.0 | /mnt/stockage/packages/f37/kf5-kdesignerplugin/poqm/hi/kdesignerplugin5_qt.po | 
- | [hu]({{< ref "/f37/language/hu.md" >}}) | 54 | 54 | 100.0 | /mnt/stockage/packages/f37/kf5-kdesignerplugin/poqm/hu/kdesignerplugin5_qt.po | 
- | [ia]({{< ref "/f37/language/ia.md" >}}) | 54 | 54 | 100.0 | /mnt/stockage/packages/f37/kf5-kdesignerplugin/poqm/ia/kdesignerplugin5_qt.po | 
- | [id]({{< ref "/f37/language/id.md" >}}) | 54 | 54 | 100.0 | /mnt/stockage/packages/f37/kf5-kdesignerplugin/poqm/id/kdesignerplugin5_qt.po | 
- | [is]({{< ref "/f37/language/is.md" >}}) | 54 | 54 | 100.0 | /mnt/stockage/packages/f37/kf5-kdesignerplugin/poqm/is/kdesignerplugin5_qt.po | 
- | [it]({{< ref "/f37/language/it.md" >}}) | 54 | 54 | 100.0 | /mnt/stockage/packages/f37/kf5-kdesignerplugin/poqm/it/kdesignerplugin5_qt.po | 
- | [ka]({{< ref "/f37/language/ka.md" >}}) | 54 | 54 | 100.0 | /mnt/stockage/packages/f37/kf5-kdesignerplugin/poqm/ka/kdesignerplugin5_qt.po | 
- | [ko]({{< ref "/f37/language/ko.md" >}}) | 54 | 54 | 100.0 | /mnt/stockage/packages/f37/kf5-kdesignerplugin/poqm/ko/kdesignerplugin5_qt.po | 
- | [lt]({{< ref "/f37/language/lt.md" >}}) | 54 | 54 | 100.0 | /mnt/stockage/packages/f37/kf5-kdesignerplugin/poqm/lt/kdesignerplugin5_qt.po | 
- | [mr]({{< ref "/f37/language/mr.md" >}}) | 54 | 54 | 100.0 | /mnt/stockage/packages/f37/kf5-kdesignerplugin/poqm/mr/kdesignerplugin5_qt.po | 
- | [nb_NO]({{< ref "/f37/language/nb_NO.md" >}}) | 54 | 54 | 100.0 | /mnt/stockage/packages/f37/kf5-kdesignerplugin/poqm/nb/kdesignerplugin5_qt.po | 
- | [nds]({{< ref "/f37/language/nds.md" >}}) | 54 | 54 | 100.0 | /mnt/stockage/packages/f37/kf5-kdesignerplugin/poqm/nds/kdesignerplugin5_qt.po | 
- | [nl]({{< ref "/f37/language/nl.md" >}}) | 54 | 54 | 100.0 | /mnt/stockage/packages/f37/kf5-kdesignerplugin/poqm/nl/kdesignerplugin5_qt.po | 
- | [nn]({{< ref "/f37/language/nn.md" >}}) | 54 | 54 | 100.0 | /mnt/stockage/packages/f37/kf5-kdesignerplugin/poqm/nn/kdesignerplugin5_qt.po | 
- | [pl]({{< ref "/f37/language/pl.md" >}}) | 54 | 54 | 100.0 | /mnt/stockage/packages/f37/kf5-kdesignerplugin/poqm/pl/kdesignerplugin5_qt.po | 
- | [pt]({{< ref "/f37/language/pt.md" >}}) | 54 | 54 | 100.0 | /mnt/stockage/packages/f37/kf5-kdesignerplugin/poqm/pt/kdesignerplugin5_qt.po | 
- | [pt_BR]({{< ref "/f37/language/pt_BR.md" >}}) | 54 | 54 | 100.0 | /mnt/stockage/packages/f37/kf5-kdesignerplugin/poqm/pt_BR/kdesignerplugin5_qt.po | 
- | [ru]({{< ref "/f37/language/ru.md" >}}) | 54 | 54 | 100.0 | /mnt/stockage/packages/f37/kf5-kdesignerplugin/poqm/ru/kdesignerplugin5_qt.po | 
- | [sk]({{< ref "/f37/language/sk.md" >}}) | 54 | 54 | 100.0 | /mnt/stockage/packages/f37/kf5-kdesignerplugin/poqm/sk/kdesignerplugin5_qt.po | 
- | [sl]({{< ref "/f37/language/sl.md" >}}) | 54 | 54 | 100.0 | /mnt/stockage/packages/f37/kf5-kdesignerplugin/poqm/sl/kdesignerplugin5_qt.po | 
- | [sr]({{< ref "/f37/language/sr.md" >}}) | 54 | 54 | 100.0 | /mnt/stockage/packages/f37/kf5-kdesignerplugin/poqm/sr/kdesignerplugin5_qt.po | 
- | [sr@ijekavian]({{< ref "/f37/language/sr@ijekavian.md" >}}) | 54 | 54 | 100.0 | /mnt/stockage/packages/f37/kf5-kdesignerplugin/poqm/sr@ijekavian/kdesignerplugin5_qt.po | 
- | [sr@ijekavian_Latn]({{< ref "/f37/language/sr@ijekavian_Latn.md" >}}) | 54 | 54 | 100.0 | /mnt/stockage/packages/f37/kf5-kdesignerplugin/poqm/sr@ijekavianlatin/kdesignerplugin5_qt.po | 
- | [sr_Latn]({{< ref "/f37/language/sr_Latn.md" >}}) | 54 | 54 | 100.0 | /mnt/stockage/packages/f37/kf5-kdesignerplugin/poqm/sr@latin/kdesignerplugin5_qt.po | 
- | [sv]({{< ref "/f37/language/sv.md" >}}) | 54 | 54 | 100.0 | /mnt/stockage/packages/f37/kf5-kdesignerplugin/poqm/sv/kdesignerplugin5_qt.po | 
- | [tg]({{< ref "/f37/language/tg.md" >}}) | 54 | 54 | 100.0 | /mnt/stockage/packages/f37/kf5-kdesignerplugin/poqm/tg/kdesignerplugin5_qt.po | 
- | [tr]({{< ref "/f37/language/tr.md" >}}) | 54 | 54 | 100.0 | /mnt/stockage/packages/f37/kf5-kdesignerplugin/poqm/tr/kdesignerplugin5_qt.po | 
- | [uk]({{< ref "/f37/language/uk.md" >}}) | 54 | 54 | 100.0 | /mnt/stockage/packages/f37/kf5-kdesignerplugin/poqm/uk/kdesignerplugin5_qt.po | 
- | [zh_Hans]({{< ref "/f37/language/zh_Hans.md" >}}) | 54 | 54 | 100.0 | /mnt/stockage/packages/f37/kf5-kdesignerplugin/poqm/zh_CN/kdesignerplugin5_qt.po | 
- | [zh_Hant]({{< ref "/f37/language/zh_Hant.md" >}}) | 54 | 54 | 100.0 | /mnt/stockage/packages/f37/kf5-kdesignerplugin/poqm/zh_TW/kdesignerplugin5_qt.po | 
- | [bs]({{< ref "/f37/language/bs.md" >}}) | 25 | 54 | 46.3 | /mnt/stockage/packages/f37/kf5-kdesignerplugin/poqm/bs/kdesignerplugin5_qt.po | 
- | [pa]({{< ref "/f37/language/pa.md" >}}) | 25 | 54 | 46.3 | /mnt/stockage/packages/f37/kf5-kdesignerplugin/poqm/pa/kdesignerplugin5_qt.po | 
- | [ja]({{< ref "/f37/language/ja.md" >}}) | 24 | 54 | 44.4 | /mnt/stockage/packages/f37/kf5-kdesignerplugin/poqm/ja/kdesignerplugin5_qt.po | 
- | [ro]({{< ref "/f37/language/ro.md" >}}) | 15 | 54 | 27.8 | /mnt/stockage/packages/f37/kf5-kdesignerplugin/poqm/ro/kdesignerplugin5_qt.po | 
- | [af]({{< ref "/f37/language/af.md" >}}) | 0 | 54 | 0.0 | /mnt/stockage/packages/f37/kf5-kdesignerplugin/poqm/af/kdesignerplugin5_qt.po | 
- | [as]({{< ref "/f37/language/as.md" >}}) | 0 | 54 | 0.0 | /mnt/stockage/packages/f37/kf5-kdesignerplugin/poqm/as/kdesignerplugin5_qt.po | 
- | [be]({{< ref "/f37/language/be.md" >}}) | 0 | 54 | 0.0 | /mnt/stockage/packages/f37/kf5-kdesignerplugin/poqm/be/kdesignerplugin5_qt.po | 
- | [be_Latn]({{< ref "/f37/language/be_Latn.md" >}}) | 0 | 54 | 0.0 | /mnt/stockage/packages/f37/kf5-kdesignerplugin/poqm/be@latin/kdesignerplugin5_qt.po | 
- | [bn]({{< ref "/f37/language/bn.md" >}}) | 0 | 54 | 0.0 | /mnt/stockage/packages/f37/kf5-kdesignerplugin/poqm/bn/kdesignerplugin5_qt.po | 
- | [bn_IN]({{< ref "/f37/language/bn_IN.md" >}}) | 0 | 54 | 0.0 | /mnt/stockage/packages/f37/kf5-kdesignerplugin/poqm/bn_IN/kdesignerplugin5_qt.po | 
- | [br]({{< ref "/f37/language/br.md" >}}) | 0 | 54 | 0.0 | /mnt/stockage/packages/f37/kf5-kdesignerplugin/poqm/br/kdesignerplugin5_qt.po | 
- | [crh]({{< ref "/f37/language/crh.md" >}}) | 0 | 54 | 0.0 | /mnt/stockage/packages/f37/kf5-kdesignerplugin/poqm/crh/kdesignerplugin5_qt.po | 
- | [csb]({{< ref "/f37/language/csb.md" >}}) | 0 | 54 | 0.0 | /mnt/stockage/packages/f37/kf5-kdesignerplugin/poqm/csb/kdesignerplugin5_qt.po | 
- | [cy]({{< ref "/f37/language/cy.md" >}}) | 0 | 54 | 0.0 | /mnt/stockage/packages/f37/kf5-kdesignerplugin/poqm/cy/kdesignerplugin5_qt.po | 
- | [fa]({{< ref "/f37/language/fa.md" >}}) | 0 | 54 | 0.0 | /mnt/stockage/packages/f37/kf5-kdesignerplugin/poqm/fa/kdesignerplugin5_qt.po | 
- | [fy]({{< ref "/f37/language/fy.md" >}}) | 0 | 54 | 0.0 | /mnt/stockage/packages/f37/kf5-kdesignerplugin/poqm/fy/kdesignerplugin5_qt.po | 
- | [ga]({{< ref "/f37/language/ga.md" >}}) | 0 | 54 | 0.0 | /mnt/stockage/packages/f37/kf5-kdesignerplugin/poqm/ga/kdesignerplugin5_qt.po | 
- | [gu]({{< ref "/f37/language/gu.md" >}}) | 0 | 54 | 0.0 | /mnt/stockage/packages/f37/kf5-kdesignerplugin/poqm/gu/kdesignerplugin5_qt.po | 
- | [ha]({{< ref "/f37/language/ha.md" >}}) | 0 | 54 | 0.0 | /mnt/stockage/packages/f37/kf5-kdesignerplugin/poqm/ha/kdesignerplugin5_qt.po | 
- | [he]({{< ref "/f37/language/he.md" >}}) | 0 | 54 | 0.0 | /mnt/stockage/packages/f37/kf5-kdesignerplugin/poqm/he/kdesignerplugin5_qt.po | 
- | [hne]({{< ref "/f37/language/hne.md" >}}) | 0 | 54 | 0.0 | /mnt/stockage/packages/f37/kf5-kdesignerplugin/poqm/hne/kdesignerplugin5_qt.po | 
- | [hr]({{< ref "/f37/language/hr.md" >}}) | 0 | 54 | 0.0 | /mnt/stockage/packages/f37/kf5-kdesignerplugin/poqm/hr/kdesignerplugin5_qt.po | 
- | [hsb]({{< ref "/f37/language/hsb.md" >}}) | 0 | 54 | 0.0 | /mnt/stockage/packages/f37/kf5-kdesignerplugin/poqm/hsb/kdesignerplugin5_qt.po | 
- | [hy]({{< ref "/f37/language/hy.md" >}}) | 0 | 54 | 0.0 | /mnt/stockage/packages/f37/kf5-kdesignerplugin/poqm/hy/kdesignerplugin5_qt.po | 
- | [kk]({{< ref "/f37/language/kk.md" >}}) | 0 | 54 | 0.0 | /mnt/stockage/packages/f37/kf5-kdesignerplugin/poqm/kk/kdesignerplugin5_qt.po | 
- | [km]({{< ref "/f37/language/km.md" >}}) | 0 | 54 | 0.0 | /mnt/stockage/packages/f37/kf5-kdesignerplugin/poqm/km/kdesignerplugin5_qt.po | 
- | [kn]({{< ref "/f37/language/kn.md" >}}) | 0 | 54 | 0.0 | /mnt/stockage/packages/f37/kf5-kdesignerplugin/poqm/kn/kdesignerplugin5_qt.po | 
- | [ku]({{< ref "/f37/language/ku.md" >}}) | 0 | 54 | 0.0 | /mnt/stockage/packages/f37/kf5-kdesignerplugin/poqm/ku/kdesignerplugin5_qt.po | 
- | [lb]({{< ref "/f37/language/lb.md" >}}) | 0 | 54 | 0.0 | /mnt/stockage/packages/f37/kf5-kdesignerplugin/poqm/lb/kdesignerplugin5_qt.po | 
- | [lv]({{< ref "/f37/language/lv.md" >}}) | 0 | 54 | 0.0 | /mnt/stockage/packages/f37/kf5-kdesignerplugin/poqm/lv/kdesignerplugin5_qt.po | 
- | [mai]({{< ref "/f37/language/mai.md" >}}) | 0 | 54 | 0.0 | /mnt/stockage/packages/f37/kf5-kdesignerplugin/poqm/mai/kdesignerplugin5_qt.po | 
- | [mk]({{< ref "/f37/language/mk.md" >}}) | 0 | 54 | 0.0 | /mnt/stockage/packages/f37/kf5-kdesignerplugin/poqm/mk/kdesignerplugin5_qt.po | 
- | [ml]({{< ref "/f37/language/ml.md" >}}) | 0 | 54 | 0.0 | /mnt/stockage/packages/f37/kf5-kdesignerplugin/poqm/ml/kdesignerplugin5_qt.po | 
- | [ms]({{< ref "/f37/language/ms.md" >}}) | 0 | 54 | 0.0 | /mnt/stockage/packages/f37/kf5-kdesignerplugin/poqm/ms/kdesignerplugin5_qt.po | 
- | [ne]({{< ref "/f37/language/ne.md" >}}) | 0 | 54 | 0.0 | /mnt/stockage/packages/f37/kf5-kdesignerplugin/poqm/ne/kdesignerplugin5_qt.po | 
- | [oc]({{< ref "/f37/language/oc.md" >}}) | 0 | 54 | 0.0 | /mnt/stockage/packages/f37/kf5-kdesignerplugin/poqm/oc/kdesignerplugin5_qt.po | 
- | [or]({{< ref "/f37/language/or.md" >}}) | 0 | 54 | 0.0 | /mnt/stockage/packages/f37/kf5-kdesignerplugin/poqm/or/kdesignerplugin5_qt.po | 
- | [ps]({{< ref "/f37/language/ps.md" >}}) | 0 | 54 | 0.0 | /mnt/stockage/packages/f37/kf5-kdesignerplugin/poqm/ps/kdesignerplugin5_qt.po | 
- | [se]({{< ref "/f37/language/se.md" >}}) | 0 | 54 | 0.0 | /mnt/stockage/packages/f37/kf5-kdesignerplugin/poqm/se/kdesignerplugin5_qt.po | 
- | [si]({{< ref "/f37/language/si.md" >}}) | 0 | 54 | 0.0 | /mnt/stockage/packages/f37/kf5-kdesignerplugin/poqm/si/kdesignerplugin5_qt.po | 
- | [sq]({{< ref "/f37/language/sq.md" >}}) | 0 | 54 | 0.0 | /mnt/stockage/packages/f37/kf5-kdesignerplugin/poqm/sq/kdesignerplugin5_qt.po | 
- | [ta]({{< ref "/f37/language/ta.md" >}}) | 0 | 54 | 0.0 | /mnt/stockage/packages/f37/kf5-kdesignerplugin/poqm/ta/kdesignerplugin5_qt.po | 
- | [te]({{< ref "/f37/language/te.md" >}}) | 0 | 54 | 0.0 | /mnt/stockage/packages/f37/kf5-kdesignerplugin/poqm/te/kdesignerplugin5_qt.po | 
- | [th]({{< ref "/f37/language/th.md" >}}) | 0 | 54 | 0.0 | /mnt/stockage/packages/f37/kf5-kdesignerplugin/poqm/th/kdesignerplugin5_qt.po | 
- | [tt]({{< ref "/f37/language/tt.md" >}}) | 0 | 54 | 0.0 | /mnt/stockage/packages/f37/kf5-kdesignerplugin/poqm/tt/kdesignerplugin5_qt.po | 
- | [ug]({{< ref "/f37/language/ug.md" >}}) | 0 | 54 | 0.0 | /mnt/stockage/packages/f37/kf5-kdesignerplugin/poqm/ug/kdesignerplugin5_qt.po | 
- | [uz]({{< ref "/f37/language/uz.md" >}}) | 0 | 108 | 0.0 | /mnt/stockage/packages/f37/kf5-kdesignerplugin/poqm/uz@cyrillic/kdesignerplugin5_qt.po/mnt/stockage/packages/f37/kf5-kdesignerplugin/poqm/uz/kdesignerplugin5_qt.po | 
- | [vi]({{< ref "/f37/language/vi.md" >}}) | 0 | 54 | 0.0 | /mnt/stockage/packages/f37/kf5-kdesignerplugin/poqm/vi/kdesignerplugin5_qt.po | 
- | [wa]({{< ref "/f37/language/wa.md" >}}) | 0 | 54 | 0.0 | /mnt/stockage/packages/f37/kf5-kdesignerplugin/poqm/wa/kdesignerplugin5_qt.po | 
- | [xh]({{< ref "/f37/language/xh.md" >}}) | 0 | 54 | 0.0 | /mnt/stockage/packages/f37/kf5-kdesignerplugin/poqm/xh/kdesignerplugin5_qt.po | 
- | [zh_Hant_HK]({{< ref "/f37/language/zh_Hant_HK.md" >}}) | 0 | 54 | 0.0 | /mnt/stockage/packages/f37/kf5-kdesignerplugin/poqm/zh_HK/kdesignerplugin5_qt.po | 
+ | [ar](/f37/language/ar) | 54 | 54 | 100.0 | /mnt/stockage/packages/f37/kf5-kdesignerplugin/poqm/ar/kdesignerplugin5_qt.po | 
+ | [az](/f37/language/az) | 54 | 54 | 100.0 | /mnt/stockage/packages/f37/kf5-kdesignerplugin/poqm/az/kdesignerplugin5_qt.po | 
+ | [bg](/f37/language/bg) | 54 | 54 | 100.0 | /mnt/stockage/packages/f37/kf5-kdesignerplugin/poqm/bg/kdesignerplugin5_qt.po | 
+ | [ca](/f37/language/ca) | 54 | 54 | 100.0 | /mnt/stockage/packages/f37/kf5-kdesignerplugin/poqm/ca/kdesignerplugin5_qt.po | 
+ | [ca@valencia](/f37/language/ca@valencia) | 54 | 54 | 100.0 | /mnt/stockage/packages/f37/kf5-kdesignerplugin/poqm/ca@valencia/kdesignerplugin5_qt.po | 
+ | [cs](/f37/language/cs) | 54 | 54 | 100.0 | /mnt/stockage/packages/f37/kf5-kdesignerplugin/poqm/cs/kdesignerplugin5_qt.po | 
+ | [da](/f37/language/da) | 54 | 54 | 100.0 | /mnt/stockage/packages/f37/kf5-kdesignerplugin/poqm/da/kdesignerplugin5_qt.po | 
+ | [de](/f37/language/de) | 54 | 54 | 100.0 | /mnt/stockage/packages/f37/kf5-kdesignerplugin/poqm/de/kdesignerplugin5_qt.po | 
+ | [el](/f37/language/el) | 54 | 54 | 100.0 | /mnt/stockage/packages/f37/kf5-kdesignerplugin/poqm/el/kdesignerplugin5_qt.po | 
+ | [en_GB](/f37/language/en_GB) | 54 | 54 | 100.0 | /mnt/stockage/packages/f37/kf5-kdesignerplugin/poqm/en_GB/kdesignerplugin5_qt.po | 
+ | [eo](/f37/language/eo) | 54 | 54 | 100.0 | /mnt/stockage/packages/f37/kf5-kdesignerplugin/poqm/eo/kdesignerplugin5_qt.po | 
+ | [es](/f37/language/es) | 54 | 54 | 100.0 | /mnt/stockage/packages/f37/kf5-kdesignerplugin/poqm/es/kdesignerplugin5_qt.po | 
+ | [et](/f37/language/et) | 54 | 54 | 100.0 | /mnt/stockage/packages/f37/kf5-kdesignerplugin/poqm/et/kdesignerplugin5_qt.po | 
+ | [eu](/f37/language/eu) | 54 | 54 | 100.0 | /mnt/stockage/packages/f37/kf5-kdesignerplugin/poqm/eu/kdesignerplugin5_qt.po | 
+ | [fi](/f37/language/fi) | 54 | 54 | 100.0 | /mnt/stockage/packages/f37/kf5-kdesignerplugin/poqm/fi/kdesignerplugin5_qt.po | 
+ | [fr](/f37/language/fr) | 54 | 54 | 100.0 | /mnt/stockage/packages/f37/kf5-kdesignerplugin/poqm/fr/kdesignerplugin5_qt.po | 
+ | [gd](/f37/language/gd) | 54 | 54 | 100.0 | /mnt/stockage/packages/f37/kf5-kdesignerplugin/poqm/gd/kdesignerplugin5_qt.po | 
+ | [gl](/f37/language/gl) | 54 | 54 | 100.0 | /mnt/stockage/packages/f37/kf5-kdesignerplugin/poqm/gl/kdesignerplugin5_qt.po | 
+ | [hi](/f37/language/hi) | 54 | 54 | 100.0 | /mnt/stockage/packages/f37/kf5-kdesignerplugin/poqm/hi/kdesignerplugin5_qt.po | 
+ | [hu](/f37/language/hu) | 54 | 54 | 100.0 | /mnt/stockage/packages/f37/kf5-kdesignerplugin/poqm/hu/kdesignerplugin5_qt.po | 
+ | [ia](/f37/language/ia) | 54 | 54 | 100.0 | /mnt/stockage/packages/f37/kf5-kdesignerplugin/poqm/ia/kdesignerplugin5_qt.po | 
+ | [id](/f37/language/id) | 54 | 54 | 100.0 | /mnt/stockage/packages/f37/kf5-kdesignerplugin/poqm/id/kdesignerplugin5_qt.po | 
+ | [is](/f37/language/is) | 54 | 54 | 100.0 | /mnt/stockage/packages/f37/kf5-kdesignerplugin/poqm/is/kdesignerplugin5_qt.po | 
+ | [it](/f37/language/it) | 54 | 54 | 100.0 | /mnt/stockage/packages/f37/kf5-kdesignerplugin/poqm/it/kdesignerplugin5_qt.po | 
+ | [ka](/f37/language/ka) | 54 | 54 | 100.0 | /mnt/stockage/packages/f37/kf5-kdesignerplugin/poqm/ka/kdesignerplugin5_qt.po | 
+ | [ko](/f37/language/ko) | 54 | 54 | 100.0 | /mnt/stockage/packages/f37/kf5-kdesignerplugin/poqm/ko/kdesignerplugin5_qt.po | 
+ | [lt](/f37/language/lt) | 54 | 54 | 100.0 | /mnt/stockage/packages/f37/kf5-kdesignerplugin/poqm/lt/kdesignerplugin5_qt.po | 
+ | [mr](/f37/language/mr) | 54 | 54 | 100.0 | /mnt/stockage/packages/f37/kf5-kdesignerplugin/poqm/mr/kdesignerplugin5_qt.po | 
+ | [nb_NO](/f37/language/nb_NO) | 54 | 54 | 100.0 | /mnt/stockage/packages/f37/kf5-kdesignerplugin/poqm/nb/kdesignerplugin5_qt.po | 
+ | [nds](/f37/language/nds) | 54 | 54 | 100.0 | /mnt/stockage/packages/f37/kf5-kdesignerplugin/poqm/nds/kdesignerplugin5_qt.po | 
+ | [nl](/f37/language/nl) | 54 | 54 | 100.0 | /mnt/stockage/packages/f37/kf5-kdesignerplugin/poqm/nl/kdesignerplugin5_qt.po | 
+ | [nn](/f37/language/nn) | 54 | 54 | 100.0 | /mnt/stockage/packages/f37/kf5-kdesignerplugin/poqm/nn/kdesignerplugin5_qt.po | 
+ | [pl](/f37/language/pl) | 54 | 54 | 100.0 | /mnt/stockage/packages/f37/kf5-kdesignerplugin/poqm/pl/kdesignerplugin5_qt.po | 
+ | [pt](/f37/language/pt) | 54 | 54 | 100.0 | /mnt/stockage/packages/f37/kf5-kdesignerplugin/poqm/pt/kdesignerplugin5_qt.po | 
+ | [pt_BR](/f37/language/pt_BR) | 54 | 54 | 100.0 | /mnt/stockage/packages/f37/kf5-kdesignerplugin/poqm/pt_BR/kdesignerplugin5_qt.po | 
+ | [ru](/f37/language/ru) | 54 | 54 | 100.0 | /mnt/stockage/packages/f37/kf5-kdesignerplugin/poqm/ru/kdesignerplugin5_qt.po | 
+ | [sk](/f37/language/sk) | 54 | 54 | 100.0 | /mnt/stockage/packages/f37/kf5-kdesignerplugin/poqm/sk/kdesignerplugin5_qt.po | 
+ | [sl](/f37/language/sl) | 54 | 54 | 100.0 | /mnt/stockage/packages/f37/kf5-kdesignerplugin/poqm/sl/kdesignerplugin5_qt.po | 
+ | [sr](/f37/language/sr) | 54 | 54 | 100.0 | /mnt/stockage/packages/f37/kf5-kdesignerplugin/poqm/sr/kdesignerplugin5_qt.po | 
+ | [sr@ijekavian](/f37/language/sr@ijekavian) | 54 | 54 | 100.0 | /mnt/stockage/packages/f37/kf5-kdesignerplugin/poqm/sr@ijekavian/kdesignerplugin5_qt.po | 
+ | [sr@ijekavian_Latn](/f37/language/sr@ijekavian_Latn) | 54 | 54 | 100.0 | /mnt/stockage/packages/f37/kf5-kdesignerplugin/poqm/sr@ijekavianlatin/kdesignerplugin5_qt.po | 
+ | [sr_Latn](/f37/language/sr_Latn) | 54 | 54 | 100.0 | /mnt/stockage/packages/f37/kf5-kdesignerplugin/poqm/sr@latin/kdesignerplugin5_qt.po | 
+ | [sv](/f37/language/sv) | 54 | 54 | 100.0 | /mnt/stockage/packages/f37/kf5-kdesignerplugin/poqm/sv/kdesignerplugin5_qt.po | 
+ | [tg](/f37/language/tg) | 54 | 54 | 100.0 | /mnt/stockage/packages/f37/kf5-kdesignerplugin/poqm/tg/kdesignerplugin5_qt.po | 
+ | [tr](/f37/language/tr) | 54 | 54 | 100.0 | /mnt/stockage/packages/f37/kf5-kdesignerplugin/poqm/tr/kdesignerplugin5_qt.po | 
+ | [uk](/f37/language/uk) | 54 | 54 | 100.0 | /mnt/stockage/packages/f37/kf5-kdesignerplugin/poqm/uk/kdesignerplugin5_qt.po | 
+ | [zh_Hans](/f37/language/zh_Hans) | 54 | 54 | 100.0 | /mnt/stockage/packages/f37/kf5-kdesignerplugin/poqm/zh_CN/kdesignerplugin5_qt.po | 
+ | [zh_Hant](/f37/language/zh_Hant) | 54 | 54 | 100.0 | /mnt/stockage/packages/f37/kf5-kdesignerplugin/poqm/zh_TW/kdesignerplugin5_qt.po | 
+ | [bs](/f37/language/bs) | 25 | 54 | 46.3 | /mnt/stockage/packages/f37/kf5-kdesignerplugin/poqm/bs/kdesignerplugin5_qt.po | 
+ | [pa](/f37/language/pa) | 25 | 54 | 46.3 | /mnt/stockage/packages/f37/kf5-kdesignerplugin/poqm/pa/kdesignerplugin5_qt.po | 
+ | [ja](/f37/language/ja) | 24 | 54 | 44.4 | /mnt/stockage/packages/f37/kf5-kdesignerplugin/poqm/ja/kdesignerplugin5_qt.po | 
+ | [ro](/f37/language/ro) | 15 | 54 | 27.8 | /mnt/stockage/packages/f37/kf5-kdesignerplugin/poqm/ro/kdesignerplugin5_qt.po | 
+ | [af](/f37/language/af) | 0 | 54 | 0.0 | /mnt/stockage/packages/f37/kf5-kdesignerplugin/poqm/af/kdesignerplugin5_qt.po | 
+ | [as](/f37/language/as) | 0 | 54 | 0.0 | /mnt/stockage/packages/f37/kf5-kdesignerplugin/poqm/as/kdesignerplugin5_qt.po | 
+ | [be](/f37/language/be) | 0 | 54 | 0.0 | /mnt/stockage/packages/f37/kf5-kdesignerplugin/poqm/be/kdesignerplugin5_qt.po | 
+ | [be_Latn](/f37/language/be_Latn) | 0 | 54 | 0.0 | /mnt/stockage/packages/f37/kf5-kdesignerplugin/poqm/be@latin/kdesignerplugin5_qt.po | 
+ | [bn](/f37/language/bn) | 0 | 54 | 0.0 | /mnt/stockage/packages/f37/kf5-kdesignerplugin/poqm/bn/kdesignerplugin5_qt.po | 
+ | [bn_IN](/f37/language/bn_IN) | 0 | 54 | 0.0 | /mnt/stockage/packages/f37/kf5-kdesignerplugin/poqm/bn_IN/kdesignerplugin5_qt.po | 
+ | [br](/f37/language/br) | 0 | 54 | 0.0 | /mnt/stockage/packages/f37/kf5-kdesignerplugin/poqm/br/kdesignerplugin5_qt.po | 
+ | [crh](/f37/language/crh) | 0 | 54 | 0.0 | /mnt/stockage/packages/f37/kf5-kdesignerplugin/poqm/crh/kdesignerplugin5_qt.po | 
+ | [csb](/f37/language/csb) | 0 | 54 | 0.0 | /mnt/stockage/packages/f37/kf5-kdesignerplugin/poqm/csb/kdesignerplugin5_qt.po | 
+ | [cy](/f37/language/cy) | 0 | 54 | 0.0 | /mnt/stockage/packages/f37/kf5-kdesignerplugin/poqm/cy/kdesignerplugin5_qt.po | 
+ | [fa](/f37/language/fa) | 0 | 54 | 0.0 | /mnt/stockage/packages/f37/kf5-kdesignerplugin/poqm/fa/kdesignerplugin5_qt.po | 
+ | [fy](/f37/language/fy) | 0 | 54 | 0.0 | /mnt/stockage/packages/f37/kf5-kdesignerplugin/poqm/fy/kdesignerplugin5_qt.po | 
+ | [ga](/f37/language/ga) | 0 | 54 | 0.0 | /mnt/stockage/packages/f37/kf5-kdesignerplugin/poqm/ga/kdesignerplugin5_qt.po | 
+ | [gu](/f37/language/gu) | 0 | 54 | 0.0 | /mnt/stockage/packages/f37/kf5-kdesignerplugin/poqm/gu/kdesignerplugin5_qt.po | 
+ | [ha](/f37/language/ha) | 0 | 54 | 0.0 | /mnt/stockage/packages/f37/kf5-kdesignerplugin/poqm/ha/kdesignerplugin5_qt.po | 
+ | [he](/f37/language/he) | 0 | 54 | 0.0 | /mnt/stockage/packages/f37/kf5-kdesignerplugin/poqm/he/kdesignerplugin5_qt.po | 
+ | [hne](/f37/language/hne) | 0 | 54 | 0.0 | /mnt/stockage/packages/f37/kf5-kdesignerplugin/poqm/hne/kdesignerplugin5_qt.po | 
+ | [hr](/f37/language/hr) | 0 | 54 | 0.0 | /mnt/stockage/packages/f37/kf5-kdesignerplugin/poqm/hr/kdesignerplugin5_qt.po | 
+ | [hsb](/f37/language/hsb) | 0 | 54 | 0.0 | /mnt/stockage/packages/f37/kf5-kdesignerplugin/poqm/hsb/kdesignerplugin5_qt.po | 
+ | [hy](/f37/language/hy) | 0 | 54 | 0.0 | /mnt/stockage/packages/f37/kf5-kdesignerplugin/poqm/hy/kdesignerplugin5_qt.po | 
+ | [kk](/f37/language/kk) | 0 | 54 | 0.0 | /mnt/stockage/packages/f37/kf5-kdesignerplugin/poqm/kk/kdesignerplugin5_qt.po | 
+ | [km](/f37/language/km) | 0 | 54 | 0.0 | /mnt/stockage/packages/f37/kf5-kdesignerplugin/poqm/km/kdesignerplugin5_qt.po | 
+ | [kn](/f37/language/kn) | 0 | 54 | 0.0 | /mnt/stockage/packages/f37/kf5-kdesignerplugin/poqm/kn/kdesignerplugin5_qt.po | 
+ | [ku](/f37/language/ku) | 0 | 54 | 0.0 | /mnt/stockage/packages/f37/kf5-kdesignerplugin/poqm/ku/kdesignerplugin5_qt.po | 
+ | [lb](/f37/language/lb) | 0 | 54 | 0.0 | /mnt/stockage/packages/f37/kf5-kdesignerplugin/poqm/lb/kdesignerplugin5_qt.po | 
+ | [lv](/f37/language/lv) | 0 | 54 | 0.0 | /mnt/stockage/packages/f37/kf5-kdesignerplugin/poqm/lv/kdesignerplugin5_qt.po | 
+ | [mai](/f37/language/mai) | 0 | 54 | 0.0 | /mnt/stockage/packages/f37/kf5-kdesignerplugin/poqm/mai/kdesignerplugin5_qt.po | 
+ | [mk](/f37/language/mk) | 0 | 54 | 0.0 | /mnt/stockage/packages/f37/kf5-kdesignerplugin/poqm/mk/kdesignerplugin5_qt.po | 
+ | [ml](/f37/language/ml) | 0 | 54 | 0.0 | /mnt/stockage/packages/f37/kf5-kdesignerplugin/poqm/ml/kdesignerplugin5_qt.po | 
+ | [ms](/f37/language/ms) | 0 | 54 | 0.0 | /mnt/stockage/packages/f37/kf5-kdesignerplugin/poqm/ms/kdesignerplugin5_qt.po | 
+ | [ne](/f37/language/ne) | 0 | 54 | 0.0 | /mnt/stockage/packages/f37/kf5-kdesignerplugin/poqm/ne/kdesignerplugin5_qt.po | 
+ | [oc](/f37/language/oc) | 0 | 54 | 0.0 | /mnt/stockage/packages/f37/kf5-kdesignerplugin/poqm/oc/kdesignerplugin5_qt.po | 
+ | [or](/f37/language/or) | 0 | 54 | 0.0 | /mnt/stockage/packages/f37/kf5-kdesignerplugin/poqm/or/kdesignerplugin5_qt.po | 
+ | [ps](/f37/language/ps) | 0 | 54 | 0.0 | /mnt/stockage/packages/f37/kf5-kdesignerplugin/poqm/ps/kdesignerplugin5_qt.po | 
+ | [se](/f37/language/se) | 0 | 54 | 0.0 | /mnt/stockage/packages/f37/kf5-kdesignerplugin/poqm/se/kdesignerplugin5_qt.po | 
+ | [si](/f37/language/si) | 0 | 54 | 0.0 | /mnt/stockage/packages/f37/kf5-kdesignerplugin/poqm/si/kdesignerplugin5_qt.po | 
+ | [sq](/f37/language/sq) | 0 | 54 | 0.0 | /mnt/stockage/packages/f37/kf5-kdesignerplugin/poqm/sq/kdesignerplugin5_qt.po | 
+ | [ta](/f37/language/ta) | 0 | 54 | 0.0 | /mnt/stockage/packages/f37/kf5-kdesignerplugin/poqm/ta/kdesignerplugin5_qt.po | 
+ | [te](/f37/language/te) | 0 | 54 | 0.0 | /mnt/stockage/packages/f37/kf5-kdesignerplugin/poqm/te/kdesignerplugin5_qt.po | 
+ | [th](/f37/language/th) | 0 | 54 | 0.0 | /mnt/stockage/packages/f37/kf5-kdesignerplugin/poqm/th/kdesignerplugin5_qt.po | 
+ | [tt](/f37/language/tt) | 0 | 54 | 0.0 | /mnt/stockage/packages/f37/kf5-kdesignerplugin/poqm/tt/kdesignerplugin5_qt.po | 
+ | [ug](/f37/language/ug) | 0 | 54 | 0.0 | /mnt/stockage/packages/f37/kf5-kdesignerplugin/poqm/ug/kdesignerplugin5_qt.po | 
+ | [uz](/f37/language/uz) | 0 | 108 | 0.0 | /mnt/stockage/packages/f37/kf5-kdesignerplugin/poqm/uz@cyrillic/kdesignerplugin5_qt.po/mnt/stockage/packages/f37/kf5-kdesignerplugin/poqm/uz/kdesignerplugin5_qt.po | 
+ | [vi](/f37/language/vi) | 0 | 54 | 0.0 | /mnt/stockage/packages/f37/kf5-kdesignerplugin/poqm/vi/kdesignerplugin5_qt.po | 
+ | [wa](/f37/language/wa) | 0 | 54 | 0.0 | /mnt/stockage/packages/f37/kf5-kdesignerplugin/poqm/wa/kdesignerplugin5_qt.po | 
+ | [xh](/f37/language/xh) | 0 | 54 | 0.0 | /mnt/stockage/packages/f37/kf5-kdesignerplugin/poqm/xh/kdesignerplugin5_qt.po | 
+ | [zh_Hant_HK](/f37/language/zh_Hant_HK) | 0 | 54 | 0.0 | /mnt/stockage/packages/f37/kf5-kdesignerplugin/poqm/zh_HK/kdesignerplugin5_qt.po | 
 {.sortable}
 
 

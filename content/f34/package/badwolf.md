@@ -18,11 +18,11 @@ The package badwolf (version 1.2.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f34/language/fr.md" >}}) | 238 | 239 | 99.6 | /mnt/stockage/packages/f34/badwolf/po/fr.po | 
- | [tr]({{< ref "/f34/language/tr.md" >}}) | 238 | 239 | 99.6 | /mnt/stockage/packages/f34/badwolf/po/tr.po | 
- | [vi]({{< ref "/f34/language/vi.md" >}}) | 238 | 239 | 99.6 | /mnt/stockage/packages/f34/badwolf/po/vi.po | 
- | [pt_BR]({{< ref "/f34/language/pt_BR.md" >}}) | 226 | 239 | 94.6 | /mnt/stockage/packages/f34/badwolf/po/pt_BR.po | 
- | [de]({{< ref "/f34/language/de.md" >}}) | 189 | 239 | 79.1 | /mnt/stockage/packages/f34/badwolf/po/de.po | 
+ | [fr](/f34/language/fr) | 238 | 239 | 99.6 | /mnt/stockage/packages/f34/badwolf/po/fr.po | 
+ | [tr](/f34/language/tr) | 238 | 239 | 99.6 | /mnt/stockage/packages/f34/badwolf/po/tr.po | 
+ | [vi](/f34/language/vi) | 238 | 239 | 99.6 | /mnt/stockage/packages/f34/badwolf/po/vi.po | 
+ | [pt_BR](/f34/language/pt_BR) | 226 | 239 | 94.6 | /mnt/stockage/packages/f34/badwolf/po/pt_BR.po | 
+ | [de](/f34/language/de) | 189 | 239 | 79.1 | /mnt/stockage/packages/f34/badwolf/po/de.po | 
 {.sortable}
 
 

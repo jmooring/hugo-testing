@@ -18,15 +18,15 @@ The package freedink-dfarc (version 3.6):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [da]({{< ref "/f14/language/da.md" >}}) | 738 | 738 | 100.0 | /mnt/stockage/packages/f14/freedink-dfarc/po/da.po | 
- | [de]({{< ref "/f14/language/de.md" >}}) | 738 | 738 | 100.0 | /mnt/stockage/packages/f14/freedink-dfarc/po/de.po | 
- | [es]({{< ref "/f14/language/es.md" >}}) | 741 | 741 | 100.0 | /mnt/stockage/packages/f14/freedink-dfarc/po/es.po | 
- | [fi]({{< ref "/f14/language/fi.md" >}}) | 741 | 741 | 100.0 | /mnt/stockage/packages/f14/freedink-dfarc/po/fi.po | 
- | [fr]({{< ref "/f14/language/fr.md" >}}) | 738 | 738 | 100.0 | /mnt/stockage/packages/f14/freedink-dfarc/po/fr.po | 
- | [pl]({{< ref "/f14/language/pl.md" >}}) | 741 | 741 | 100.0 | /mnt/stockage/packages/f14/freedink-dfarc/po/pl.po | 
- | [vi]({{< ref "/f14/language/vi.md" >}}) | 738 | 738 | 100.0 | /mnt/stockage/packages/f14/freedink-dfarc/po/vi.po | 
- | [it]({{< ref "/f14/language/it.md" >}}) | 656 | 738 | 88.9 | /mnt/stockage/packages/f14/freedink-dfarc/po/it.po | 
- | [mk]({{< ref "/f14/language/mk.md" >}}) | 656 | 738 | 88.9 | /mnt/stockage/packages/f14/freedink-dfarc/po/mk.po | 
+ | [da](/f14/language/da) | 738 | 738 | 100.0 | /mnt/stockage/packages/f14/freedink-dfarc/po/da.po | 
+ | [de](/f14/language/de) | 738 | 738 | 100.0 | /mnt/stockage/packages/f14/freedink-dfarc/po/de.po | 
+ | [es](/f14/language/es) | 741 | 741 | 100.0 | /mnt/stockage/packages/f14/freedink-dfarc/po/es.po | 
+ | [fi](/f14/language/fi) | 741 | 741 | 100.0 | /mnt/stockage/packages/f14/freedink-dfarc/po/fi.po | 
+ | [fr](/f14/language/fr) | 738 | 738 | 100.0 | /mnt/stockage/packages/f14/freedink-dfarc/po/fr.po | 
+ | [pl](/f14/language/pl) | 741 | 741 | 100.0 | /mnt/stockage/packages/f14/freedink-dfarc/po/pl.po | 
+ | [vi](/f14/language/vi) | 738 | 738 | 100.0 | /mnt/stockage/packages/f14/freedink-dfarc/po/vi.po | 
+ | [it](/f14/language/it) | 656 | 738 | 88.9 | /mnt/stockage/packages/f14/freedink-dfarc/po/it.po | 
+ | [mk](/f14/language/mk) | 656 | 738 | 88.9 | /mnt/stockage/packages/f14/freedink-dfarc/po/mk.po | 
 {.sortable}
 
 

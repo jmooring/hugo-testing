@@ -18,10 +18,10 @@ The package python-kiwi (version 1.9.16):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [pt_BR]({{< ref "/f8/language/pt_BR.md" >}}) | 193 | 193 | 100.0 | /mnt/stockage/packages/f8/python-kiwi/po/pt_BR.po | 
- | [sv]({{< ref "/f8/language/sv.md" >}}) | 193 | 193 | 100.0 | /mnt/stockage/packages/f8/python-kiwi/po/sv.po | 
- | [pl]({{< ref "/f8/language/pl.md" >}}) | 184 | 193 | 95.3 | /mnt/stockage/packages/f8/python-kiwi/po/pl.po | 
- | [fr]({{< ref "/f8/language/fr.md" >}}) | 156 | 193 | 80.8 | /mnt/stockage/packages/f8/python-kiwi/po/fr.po | 
+ | [pt_BR](/f8/language/pt_BR) | 193 | 193 | 100.0 | /mnt/stockage/packages/f8/python-kiwi/po/pt_BR.po | 
+ | [sv](/f8/language/sv) | 193 | 193 | 100.0 | /mnt/stockage/packages/f8/python-kiwi/po/sv.po | 
+ | [pl](/f8/language/pl) | 184 | 193 | 95.3 | /mnt/stockage/packages/f8/python-kiwi/po/pl.po | 
+ | [fr](/f8/language/fr) | 156 | 193 | 80.8 | /mnt/stockage/packages/f8/python-kiwi/po/fr.po | 
 {.sortable}
 
 

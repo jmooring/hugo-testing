@@ -18,14 +18,14 @@ The package grilo-plugins (version 0.2.8):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f19/language/cs.md" >}}) | 483 | 483 | 100.0 | /mnt/stockage/packages/f19/grilo-plugins/po/cs.po | 
- | [el]({{< ref "/f19/language/el.md" >}}) | 448 | 448 | 100.0 | /mnt/stockage/packages/f19/grilo-plugins/po/el.po | 
- | [es]({{< ref "/f19/language/es.md" >}}) | 448 | 448 | 100.0 | /mnt/stockage/packages/f19/grilo-plugins/po/es.po | 
- | [gl]({{< ref "/f19/language/gl.md" >}}) | 454 | 454 | 100.0 | /mnt/stockage/packages/f19/grilo-plugins/po/gl.po | 
- | [pl]({{< ref "/f19/language/pl.md" >}}) | 483 | 483 | 100.0 | /mnt/stockage/packages/f19/grilo-plugins/po/pl.po | 
- | [pt_BR]({{< ref "/f19/language/pt_BR.md" >}}) | 448 | 448 | 100.0 | /mnt/stockage/packages/f19/grilo-plugins/po/pt_BR.po | 
- | [sl]({{< ref "/f19/language/sl.md" >}}) | 448 | 448 | 100.0 | /mnt/stockage/packages/f19/grilo-plugins/po/sl.po | 
- | [sr]({{< ref "/f19/language/sr.md" >}}) | 908 | 908 | 100.0 | /mnt/stockage/packages/f19/grilo-plugins/po/sr.po/mnt/stockage/packages/f19/grilo-plugins/po/sr@latin.po | 
+ | [cs](/f19/language/cs) | 483 | 483 | 100.0 | /mnt/stockage/packages/f19/grilo-plugins/po/cs.po | 
+ | [el](/f19/language/el) | 448 | 448 | 100.0 | /mnt/stockage/packages/f19/grilo-plugins/po/el.po | 
+ | [es](/f19/language/es) | 448 | 448 | 100.0 | /mnt/stockage/packages/f19/grilo-plugins/po/es.po | 
+ | [gl](/f19/language/gl) | 454 | 454 | 100.0 | /mnt/stockage/packages/f19/grilo-plugins/po/gl.po | 
+ | [pl](/f19/language/pl) | 483 | 483 | 100.0 | /mnt/stockage/packages/f19/grilo-plugins/po/pl.po | 
+ | [pt_BR](/f19/language/pt_BR) | 448 | 448 | 100.0 | /mnt/stockage/packages/f19/grilo-plugins/po/pt_BR.po | 
+ | [sl](/f19/language/sl) | 448 | 448 | 100.0 | /mnt/stockage/packages/f19/grilo-plugins/po/sl.po | 
+ | [sr](/f19/language/sr) | 908 | 908 | 100.0 | /mnt/stockage/packages/f19/grilo-plugins/po/sr.po/mnt/stockage/packages/f19/grilo-plugins/po/sr@latin.po | 
 {.sortable}
 
 

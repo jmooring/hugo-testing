@@ -18,7 +18,7 @@ The package EekBoek (version 2.02.05):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [en]({{< ref "/f23/language/en.md" >}}) | 4804 | 4818 | 99.7 | /mnt/stockage/packages/f23/EekBoek/locale/ebcore-en.po | 
+ | [en](/f23/language/en) | 4804 | 4818 | 99.7 | /mnt/stockage/packages/f23/EekBoek/locale/ebcore-en.po | 
 {.sortable}
 
 

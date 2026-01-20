@@ -18,11 +18,11 @@ The package bpython (version 0.24):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f38/language/de.md" >}}) | 427 | 604 | 70.7 | /mnt/stockage/packages/f38/bpython/bpython/translations/de/LC_MESSAGES/bpython.po | 
- | [fr]({{< ref "/f38/language/fr.md" >}}) | 229 | 604 | 37.9 | /mnt/stockage/packages/f38/bpython/bpython/translations/fr_FR/LC_MESSAGES/bpython.po | 
- | [es]({{< ref "/f38/language/es.md" >}}) | 13 | 604 | 2.2 | /mnt/stockage/packages/f38/bpython/bpython/translations/es_ES/LC_MESSAGES/bpython.po | 
- | [it]({{< ref "/f38/language/it.md" >}}) | 13 | 604 | 2.2 | /mnt/stockage/packages/f38/bpython/bpython/translations/it_IT/LC_MESSAGES/bpython.po | 
- | [nl]({{< ref "/f38/language/nl.md" >}}) | 13 | 604 | 2.2 | /mnt/stockage/packages/f38/bpython/bpython/translations/nl_NL/LC_MESSAGES/bpython.po | 
+ | [de](/f38/language/de) | 427 | 604 | 70.7 | /mnt/stockage/packages/f38/bpython/bpython/translations/de/LC_MESSAGES/bpython.po | 
+ | [fr](/f38/language/fr) | 229 | 604 | 37.9 | /mnt/stockage/packages/f38/bpython/bpython/translations/fr_FR/LC_MESSAGES/bpython.po | 
+ | [es](/f38/language/es) | 13 | 604 | 2.2 | /mnt/stockage/packages/f38/bpython/bpython/translations/es_ES/LC_MESSAGES/bpython.po | 
+ | [it](/f38/language/it) | 13 | 604 | 2.2 | /mnt/stockage/packages/f38/bpython/bpython/translations/it_IT/LC_MESSAGES/bpython.po | 
+ | [nl](/f38/language/nl) | 13 | 604 | 2.2 | /mnt/stockage/packages/f38/bpython/bpython/translations/nl_NL/LC_MESSAGES/bpython.po | 
 {.sortable}
 
 

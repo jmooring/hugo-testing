@@ -18,61 +18,61 @@ The package kde-partitionmanager (version 23.04.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [az]({{< ref "/f37/language/az.md" >}}) | 2272 | 2272 | 100.0 | /mnt/stockage/packages/f37/kde-partitionmanager/po/az/partitionmanager.po | 
- | [bg]({{< ref "/f37/language/bg.md" >}}) | 2272 | 2272 | 100.0 | /mnt/stockage/packages/f37/kde-partitionmanager/po/bg/partitionmanager.po | 
- | [ca]({{< ref "/f37/language/ca.md" >}}) | 2272 | 2272 | 100.0 | /mnt/stockage/packages/f37/kde-partitionmanager/po/ca/partitionmanager.po | 
- | [ca@valencia]({{< ref "/f37/language/ca@valencia.md" >}}) | 2272 | 2272 | 100.0 | /mnt/stockage/packages/f37/kde-partitionmanager/po/ca@valencia/partitionmanager.po | 
- | [el]({{< ref "/f37/language/el.md" >}}) | 2272 | 2272 | 100.0 | /mnt/stockage/packages/f37/kde-partitionmanager/po/el/partitionmanager.po | 
- | [en_GB]({{< ref "/f37/language/en_GB.md" >}}) | 2272 | 2272 | 100.0 | /mnt/stockage/packages/f37/kde-partitionmanager/po/en_GB/partitionmanager.po | 
- | [es]({{< ref "/f37/language/es.md" >}}) | 2272 | 2272 | 100.0 | /mnt/stockage/packages/f37/kde-partitionmanager/po/es/partitionmanager.po | 
- | [eu]({{< ref "/f37/language/eu.md" >}}) | 2272 | 2272 | 100.0 | /mnt/stockage/packages/f37/kde-partitionmanager/po/eu/partitionmanager.po | 
- | [fi]({{< ref "/f37/language/fi.md" >}}) | 2272 | 2272 | 100.0 | /mnt/stockage/packages/f37/kde-partitionmanager/po/fi/partitionmanager.po | 
- | [fr]({{< ref "/f37/language/fr.md" >}}) | 2272 | 2272 | 100.0 | /mnt/stockage/packages/f37/kde-partitionmanager/po/fr/partitionmanager.po | 
- | [gl]({{< ref "/f37/language/gl.md" >}}) | 2272 | 2272 | 100.0 | /mnt/stockage/packages/f37/kde-partitionmanager/po/gl/partitionmanager.po | 
- | [hu]({{< ref "/f37/language/hu.md" >}}) | 2272 | 2272 | 100.0 | /mnt/stockage/packages/f37/kde-partitionmanager/po/hu/partitionmanager.po | 
- | [it]({{< ref "/f37/language/it.md" >}}) | 2272 | 2272 | 100.0 | /mnt/stockage/packages/f37/kde-partitionmanager/po/it/partitionmanager.po | 
- | [ka]({{< ref "/f37/language/ka.md" >}}) | 2272 | 2272 | 100.0 | /mnt/stockage/packages/f37/kde-partitionmanager/po/ka/partitionmanager.po | 
- | [ko]({{< ref "/f37/language/ko.md" >}}) | 2272 | 2272 | 100.0 | /mnt/stockage/packages/f37/kde-partitionmanager/po/ko/partitionmanager.po | 
- | [nl]({{< ref "/f37/language/nl.md" >}}) | 2272 | 2272 | 100.0 | /mnt/stockage/packages/f37/kde-partitionmanager/po/nl/partitionmanager.po | 
- | [pl]({{< ref "/f37/language/pl.md" >}}) | 2272 | 2272 | 100.0 | /mnt/stockage/packages/f37/kde-partitionmanager/po/pl/partitionmanager.po | 
- | [pt]({{< ref "/f37/language/pt.md" >}}) | 2272 | 2272 | 100.0 | /mnt/stockage/packages/f37/kde-partitionmanager/po/pt/partitionmanager.po | 
- | [pt_BR]({{< ref "/f37/language/pt_BR.md" >}}) | 2272 | 2272 | 100.0 | /mnt/stockage/packages/f37/kde-partitionmanager/po/pt_BR/partitionmanager.po | 
- | [ru]({{< ref "/f37/language/ru.md" >}}) | 2272 | 2272 | 100.0 | /mnt/stockage/packages/f37/kde-partitionmanager/po/ru/partitionmanager.po | 
- | [sk]({{< ref "/f37/language/sk.md" >}}) | 2272 | 2272 | 100.0 | /mnt/stockage/packages/f37/kde-partitionmanager/po/sk/partitionmanager.po | 
- | [sl]({{< ref "/f37/language/sl.md" >}}) | 2272 | 2272 | 100.0 | /mnt/stockage/packages/f37/kde-partitionmanager/po/sl/partitionmanager.po | 
- | [sv]({{< ref "/f37/language/sv.md" >}}) | 2272 | 2272 | 100.0 | /mnt/stockage/packages/f37/kde-partitionmanager/po/sv/partitionmanager.po | 
- | [tr]({{< ref "/f37/language/tr.md" >}}) | 2272 | 2272 | 100.0 | /mnt/stockage/packages/f37/kde-partitionmanager/po/tr/partitionmanager.po | 
- | [uk]({{< ref "/f37/language/uk.md" >}}) | 2272 | 2272 | 100.0 | /mnt/stockage/packages/f37/kde-partitionmanager/po/uk/partitionmanager.po | 
- | [zh_Hans]({{< ref "/f37/language/zh_Hans.md" >}}) | 2272 | 2272 | 100.0 | /mnt/stockage/packages/f37/kde-partitionmanager/po/zh_CN/partitionmanager.po | 
- | [zh_Hant]({{< ref "/f37/language/zh_Hant.md" >}}) | 2272 | 2272 | 100.0 | /mnt/stockage/packages/f37/kde-partitionmanager/po/zh_TW/partitionmanager.po | 
- | [de]({{< ref "/f37/language/de.md" >}}) | 2239 | 2272 | 98.5 | /mnt/stockage/packages/f37/kde-partitionmanager/po/de/partitionmanager.po | 
- | [sr]({{< ref "/f37/language/sr.md" >}}) | 2172 | 2226 | 97.6 | /mnt/stockage/packages/f37/kde-partitionmanager/po/sr/partitionmanager.po | 
- | [sr@ijekavian]({{< ref "/f37/language/sr@ijekavian.md" >}}) | 2172 | 2226 | 97.6 | /mnt/stockage/packages/f37/kde-partitionmanager/po/sr@ijekavian/partitionmanager.po | 
- | [sr@ijekavian_Latn]({{< ref "/f37/language/sr@ijekavian_Latn.md" >}}) | 2172 | 2226 | 97.6 | /mnt/stockage/packages/f37/kde-partitionmanager/po/sr@ijekavianlatin/partitionmanager.po | 
- | [sr_Latn]({{< ref "/f37/language/sr_Latn.md" >}}) | 2172 | 2226 | 97.6 | /mnt/stockage/packages/f37/kde-partitionmanager/po/sr@latin/partitionmanager.po | 
- | [da]({{< ref "/f37/language/da.md" >}}) | 2215 | 2272 | 97.5 | /mnt/stockage/packages/f37/kde-partitionmanager/po/da/partitionmanager.po | 
- | [et]({{< ref "/f37/language/et.md" >}}) | 2215 | 2272 | 97.5 | /mnt/stockage/packages/f37/kde-partitionmanager/po/et/partitionmanager.po | 
- | [id]({{< ref "/f37/language/id.md" >}}) | 2195 | 2272 | 96.6 | /mnt/stockage/packages/f37/kde-partitionmanager/po/id/partitionmanager.po | 
- | [nb_NO]({{< ref "/f37/language/nb_NO.md" >}}) | 1750 | 2272 | 77.0 | /mnt/stockage/packages/f37/kde-partitionmanager/po/nb/partitionmanager.po | 
- | [bs]({{< ref "/f37/language/bs.md" >}}) | 1738 | 2272 | 76.5 | /mnt/stockage/packages/f37/kde-partitionmanager/po/bs/partitionmanager.po | 
- | [pa]({{< ref "/f37/language/pa.md" >}}) | 1713 | 2272 | 75.4 | /mnt/stockage/packages/f37/kde-partitionmanager/po/pa/partitionmanager.po | 
- | [ar]({{< ref "/f37/language/ar.md" >}}) | 1642 | 2272 | 72.3 | /mnt/stockage/packages/f37/kde-partitionmanager/po/ar/partitionmanager.po | 
- | [cs]({{< ref "/f37/language/cs.md" >}}) | 1456 | 2272 | 64.1 | /mnt/stockage/packages/f37/kde-partitionmanager/po/cs/partitionmanager.po | 
- | [ro]({{< ref "/f37/language/ro.md" >}}) | 1435 | 2272 | 63.2 | /mnt/stockage/packages/f37/kde-partitionmanager/po/ro/partitionmanager.po | 
- | [lt]({{< ref "/f37/language/lt.md" >}}) | 1430 | 2272 | 62.9 | /mnt/stockage/packages/f37/kde-partitionmanager/po/lt/partitionmanager.po | 
- | [nds]({{< ref "/f37/language/nds.md" >}}) | 1012 | 2272 | 44.5 | /mnt/stockage/packages/f37/kde-partitionmanager/po/nds/partitionmanager.po | 
- | [th]({{< ref "/f37/language/th.md" >}}) | 968 | 2272 | 42.6 | /mnt/stockage/packages/f37/kde-partitionmanager/po/th/partitionmanager.po | 
- | [ja]({{< ref "/f37/language/ja.md" >}}) | 726 | 2272 | 32.0 | /mnt/stockage/packages/f37/kde-partitionmanager/po/ja/partitionmanager.po | 
- | [lv]({{< ref "/f37/language/lv.md" >}}) | 539 | 2272 | 23.7 | /mnt/stockage/packages/f37/kde-partitionmanager/po/lv/partitionmanager.po | 
- | [ia]({{< ref "/f37/language/ia.md" >}}) | 377 | 2272 | 16.6 | /mnt/stockage/packages/f37/kde-partitionmanager/po/ia/partitionmanager.po | 
- | [mr]({{< ref "/f37/language/mr.md" >}}) | 190 | 2272 | 8.4 | /mnt/stockage/packages/f37/kde-partitionmanager/po/mr/partitionmanager.po | 
- | [ug]({{< ref "/f37/language/ug.md" >}}) | 181 | 2272 | 8.0 | /mnt/stockage/packages/f37/kde-partitionmanager/po/ug/partitionmanager.po | 
- | [nn]({{< ref "/f37/language/nn.md" >}}) | 125 | 2272 | 5.5 | /mnt/stockage/packages/f37/kde-partitionmanager/po/nn/partitionmanager.po | 
- | [mai]({{< ref "/f37/language/mai.md" >}}) | 117 | 2272 | 5.1 | /mnt/stockage/packages/f37/kde-partitionmanager/po/mai/partitionmanager.po | 
- | [ga]({{< ref "/f37/language/ga.md" >}}) | 98 | 2272 | 4.3 | /mnt/stockage/packages/f37/kde-partitionmanager/po/ga/partitionmanager.po | 
- | [eo]({{< ref "/f37/language/eo.md" >}}) | 71 | 2272 | 3.1 | /mnt/stockage/packages/f37/kde-partitionmanager/po/eo/partitionmanager.po | 
- | [hr]({{< ref "/f37/language/hr.md" >}}) | 50 | 2272 | 2.2 | /mnt/stockage/packages/f37/kde-partitionmanager/po/hr/partitionmanager.po | 
- | [is]({{< ref "/f37/language/is.md" >}}) | 34 | 2272 | 1.5 | /mnt/stockage/packages/f37/kde-partitionmanager/po/is/partitionmanager.po | 
+ | [az](/f37/language/az) | 2272 | 2272 | 100.0 | /mnt/stockage/packages/f37/kde-partitionmanager/po/az/partitionmanager.po | 
+ | [bg](/f37/language/bg) | 2272 | 2272 | 100.0 | /mnt/stockage/packages/f37/kde-partitionmanager/po/bg/partitionmanager.po | 
+ | [ca](/f37/language/ca) | 2272 | 2272 | 100.0 | /mnt/stockage/packages/f37/kde-partitionmanager/po/ca/partitionmanager.po | 
+ | [ca@valencia](/f37/language/ca@valencia) | 2272 | 2272 | 100.0 | /mnt/stockage/packages/f37/kde-partitionmanager/po/ca@valencia/partitionmanager.po | 
+ | [el](/f37/language/el) | 2272 | 2272 | 100.0 | /mnt/stockage/packages/f37/kde-partitionmanager/po/el/partitionmanager.po | 
+ | [en_GB](/f37/language/en_GB) | 2272 | 2272 | 100.0 | /mnt/stockage/packages/f37/kde-partitionmanager/po/en_GB/partitionmanager.po | 
+ | [es](/f37/language/es) | 2272 | 2272 | 100.0 | /mnt/stockage/packages/f37/kde-partitionmanager/po/es/partitionmanager.po | 
+ | [eu](/f37/language/eu) | 2272 | 2272 | 100.0 | /mnt/stockage/packages/f37/kde-partitionmanager/po/eu/partitionmanager.po | 
+ | [fi](/f37/language/fi) | 2272 | 2272 | 100.0 | /mnt/stockage/packages/f37/kde-partitionmanager/po/fi/partitionmanager.po | 
+ | [fr](/f37/language/fr) | 2272 | 2272 | 100.0 | /mnt/stockage/packages/f37/kde-partitionmanager/po/fr/partitionmanager.po | 
+ | [gl](/f37/language/gl) | 2272 | 2272 | 100.0 | /mnt/stockage/packages/f37/kde-partitionmanager/po/gl/partitionmanager.po | 
+ | [hu](/f37/language/hu) | 2272 | 2272 | 100.0 | /mnt/stockage/packages/f37/kde-partitionmanager/po/hu/partitionmanager.po | 
+ | [it](/f37/language/it) | 2272 | 2272 | 100.0 | /mnt/stockage/packages/f37/kde-partitionmanager/po/it/partitionmanager.po | 
+ | [ka](/f37/language/ka) | 2272 | 2272 | 100.0 | /mnt/stockage/packages/f37/kde-partitionmanager/po/ka/partitionmanager.po | 
+ | [ko](/f37/language/ko) | 2272 | 2272 | 100.0 | /mnt/stockage/packages/f37/kde-partitionmanager/po/ko/partitionmanager.po | 
+ | [nl](/f37/language/nl) | 2272 | 2272 | 100.0 | /mnt/stockage/packages/f37/kde-partitionmanager/po/nl/partitionmanager.po | 
+ | [pl](/f37/language/pl) | 2272 | 2272 | 100.0 | /mnt/stockage/packages/f37/kde-partitionmanager/po/pl/partitionmanager.po | 
+ | [pt](/f37/language/pt) | 2272 | 2272 | 100.0 | /mnt/stockage/packages/f37/kde-partitionmanager/po/pt/partitionmanager.po | 
+ | [pt_BR](/f37/language/pt_BR) | 2272 | 2272 | 100.0 | /mnt/stockage/packages/f37/kde-partitionmanager/po/pt_BR/partitionmanager.po | 
+ | [ru](/f37/language/ru) | 2272 | 2272 | 100.0 | /mnt/stockage/packages/f37/kde-partitionmanager/po/ru/partitionmanager.po | 
+ | [sk](/f37/language/sk) | 2272 | 2272 | 100.0 | /mnt/stockage/packages/f37/kde-partitionmanager/po/sk/partitionmanager.po | 
+ | [sl](/f37/language/sl) | 2272 | 2272 | 100.0 | /mnt/stockage/packages/f37/kde-partitionmanager/po/sl/partitionmanager.po | 
+ | [sv](/f37/language/sv) | 2272 | 2272 | 100.0 | /mnt/stockage/packages/f37/kde-partitionmanager/po/sv/partitionmanager.po | 
+ | [tr](/f37/language/tr) | 2272 | 2272 | 100.0 | /mnt/stockage/packages/f37/kde-partitionmanager/po/tr/partitionmanager.po | 
+ | [uk](/f37/language/uk) | 2272 | 2272 | 100.0 | /mnt/stockage/packages/f37/kde-partitionmanager/po/uk/partitionmanager.po | 
+ | [zh_Hans](/f37/language/zh_Hans) | 2272 | 2272 | 100.0 | /mnt/stockage/packages/f37/kde-partitionmanager/po/zh_CN/partitionmanager.po | 
+ | [zh_Hant](/f37/language/zh_Hant) | 2272 | 2272 | 100.0 | /mnt/stockage/packages/f37/kde-partitionmanager/po/zh_TW/partitionmanager.po | 
+ | [de](/f37/language/de) | 2239 | 2272 | 98.5 | /mnt/stockage/packages/f37/kde-partitionmanager/po/de/partitionmanager.po | 
+ | [sr](/f37/language/sr) | 2172 | 2226 | 97.6 | /mnt/stockage/packages/f37/kde-partitionmanager/po/sr/partitionmanager.po | 
+ | [sr@ijekavian](/f37/language/sr@ijekavian) | 2172 | 2226 | 97.6 | /mnt/stockage/packages/f37/kde-partitionmanager/po/sr@ijekavian/partitionmanager.po | 
+ | [sr@ijekavian_Latn](/f37/language/sr@ijekavian_Latn) | 2172 | 2226 | 97.6 | /mnt/stockage/packages/f37/kde-partitionmanager/po/sr@ijekavianlatin/partitionmanager.po | 
+ | [sr_Latn](/f37/language/sr_Latn) | 2172 | 2226 | 97.6 | /mnt/stockage/packages/f37/kde-partitionmanager/po/sr@latin/partitionmanager.po | 
+ | [da](/f37/language/da) | 2215 | 2272 | 97.5 | /mnt/stockage/packages/f37/kde-partitionmanager/po/da/partitionmanager.po | 
+ | [et](/f37/language/et) | 2215 | 2272 | 97.5 | /mnt/stockage/packages/f37/kde-partitionmanager/po/et/partitionmanager.po | 
+ | [id](/f37/language/id) | 2195 | 2272 | 96.6 | /mnt/stockage/packages/f37/kde-partitionmanager/po/id/partitionmanager.po | 
+ | [nb_NO](/f37/language/nb_NO) | 1750 | 2272 | 77.0 | /mnt/stockage/packages/f37/kde-partitionmanager/po/nb/partitionmanager.po | 
+ | [bs](/f37/language/bs) | 1738 | 2272 | 76.5 | /mnt/stockage/packages/f37/kde-partitionmanager/po/bs/partitionmanager.po | 
+ | [pa](/f37/language/pa) | 1713 | 2272 | 75.4 | /mnt/stockage/packages/f37/kde-partitionmanager/po/pa/partitionmanager.po | 
+ | [ar](/f37/language/ar) | 1642 | 2272 | 72.3 | /mnt/stockage/packages/f37/kde-partitionmanager/po/ar/partitionmanager.po | 
+ | [cs](/f37/language/cs) | 1456 | 2272 | 64.1 | /mnt/stockage/packages/f37/kde-partitionmanager/po/cs/partitionmanager.po | 
+ | [ro](/f37/language/ro) | 1435 | 2272 | 63.2 | /mnt/stockage/packages/f37/kde-partitionmanager/po/ro/partitionmanager.po | 
+ | [lt](/f37/language/lt) | 1430 | 2272 | 62.9 | /mnt/stockage/packages/f37/kde-partitionmanager/po/lt/partitionmanager.po | 
+ | [nds](/f37/language/nds) | 1012 | 2272 | 44.5 | /mnt/stockage/packages/f37/kde-partitionmanager/po/nds/partitionmanager.po | 
+ | [th](/f37/language/th) | 968 | 2272 | 42.6 | /mnt/stockage/packages/f37/kde-partitionmanager/po/th/partitionmanager.po | 
+ | [ja](/f37/language/ja) | 726 | 2272 | 32.0 | /mnt/stockage/packages/f37/kde-partitionmanager/po/ja/partitionmanager.po | 
+ | [lv](/f37/language/lv) | 539 | 2272 | 23.7 | /mnt/stockage/packages/f37/kde-partitionmanager/po/lv/partitionmanager.po | 
+ | [ia](/f37/language/ia) | 377 | 2272 | 16.6 | /mnt/stockage/packages/f37/kde-partitionmanager/po/ia/partitionmanager.po | 
+ | [mr](/f37/language/mr) | 190 | 2272 | 8.4 | /mnt/stockage/packages/f37/kde-partitionmanager/po/mr/partitionmanager.po | 
+ | [ug](/f37/language/ug) | 181 | 2272 | 8.0 | /mnt/stockage/packages/f37/kde-partitionmanager/po/ug/partitionmanager.po | 
+ | [nn](/f37/language/nn) | 125 | 2272 | 5.5 | /mnt/stockage/packages/f37/kde-partitionmanager/po/nn/partitionmanager.po | 
+ | [mai](/f37/language/mai) | 117 | 2272 | 5.1 | /mnt/stockage/packages/f37/kde-partitionmanager/po/mai/partitionmanager.po | 
+ | [ga](/f37/language/ga) | 98 | 2272 | 4.3 | /mnt/stockage/packages/f37/kde-partitionmanager/po/ga/partitionmanager.po | 
+ | [eo](/f37/language/eo) | 71 | 2272 | 3.1 | /mnt/stockage/packages/f37/kde-partitionmanager/po/eo/partitionmanager.po | 
+ | [hr](/f37/language/hr) | 50 | 2272 | 2.2 | /mnt/stockage/packages/f37/kde-partitionmanager/po/hr/partitionmanager.po | 
+ | [is](/f37/language/is) | 34 | 2272 | 1.5 | /mnt/stockage/packages/f37/kde-partitionmanager/po/is/partitionmanager.po | 
 {.sortable}
 
 

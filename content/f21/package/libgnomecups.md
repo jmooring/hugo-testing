@@ -18,52 +18,52 @@ The package libgnomecups (version 0.2.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f21/language/ar.md" >}}) | 11 | 11 | 100.0 | /mnt/stockage/packages/f21/libgnomecups/po/ar.po | 
- | [bg]({{< ref "/f21/language/bg.md" >}}) | 11 | 11 | 100.0 | /mnt/stockage/packages/f21/libgnomecups/po/bg.po | 
- | [cs]({{< ref "/f21/language/cs.md" >}}) | 210 | 210 | 100.0 | /mnt/stockage/packages/f21/libgnomecups/po/cs.po | 
- | [da]({{< ref "/f21/language/da.md" >}}) | 11 | 11 | 100.0 | /mnt/stockage/packages/f21/libgnomecups/po/da.po | 
- | [de]({{< ref "/f21/language/de.md" >}}) | 210 | 210 | 100.0 | /mnt/stockage/packages/f21/libgnomecups/po/de.po | 
- | [dz]({{< ref "/f21/language/dz.md" >}}) | 11 | 11 | 100.0 | /mnt/stockage/packages/f21/libgnomecups/po/dz.po | 
- | [en_CA]({{< ref "/f21/language/en_CA.md" >}}) | 210 | 210 | 100.0 | /mnt/stockage/packages/f21/libgnomecups/po/en_CA.po | 
- | [en_GB]({{< ref "/f21/language/en_GB.md" >}}) | 210 | 210 | 100.0 | /mnt/stockage/packages/f21/libgnomecups/po/en_GB.po | 
- | [eu]({{< ref "/f21/language/eu.md" >}}) | 11 | 11 | 100.0 | /mnt/stockage/packages/f21/libgnomecups/po/eu.po | 
- | [fi]({{< ref "/f21/language/fi.md" >}}) | 210 | 210 | 100.0 | /mnt/stockage/packages/f21/libgnomecups/po/fi.po | 
- | [fr]({{< ref "/f21/language/fr.md" >}}) | 210 | 210 | 100.0 | /mnt/stockage/packages/f21/libgnomecups/po/fr.po | 
- | [gl]({{< ref "/f21/language/gl.md" >}}) | 11 | 11 | 100.0 | /mnt/stockage/packages/f21/libgnomecups/po/gl.po | 
- | [gu]({{< ref "/f21/language/gu.md" >}}) | 210 | 210 | 100.0 | /mnt/stockage/packages/f21/libgnomecups/po/gu.po | 
- | [hi]({{< ref "/f21/language/hi.md" >}}) | 11 | 11 | 100.0 | /mnt/stockage/packages/f21/libgnomecups/po/hi.po | 
- | [hu]({{< ref "/f21/language/hu.md" >}}) | 210 | 210 | 100.0 | /mnt/stockage/packages/f21/libgnomecups/po/hu.po | 
- | [it]({{< ref "/f21/language/it.md" >}}) | 11 | 11 | 100.0 | /mnt/stockage/packages/f21/libgnomecups/po/it.po | 
- | [ja]({{< ref "/f21/language/ja.md" >}}) | 210 | 210 | 100.0 | /mnt/stockage/packages/f21/libgnomecups/po/ja.po | 
- | [lt]({{< ref "/f21/language/lt.md" >}}) | 11 | 11 | 100.0 | /mnt/stockage/packages/f21/libgnomecups/po/lt.po | 
- | [mk]({{< ref "/f21/language/mk.md" >}}) | 11 | 11 | 100.0 | /mnt/stockage/packages/f21/libgnomecups/po/mk.po | 
- | [nb_NO]({{< ref "/f21/language/nb_NO.md" >}}) | 210 | 210 | 100.0 | /mnt/stockage/packages/f21/libgnomecups/po/nb.po | 
- | [ne]({{< ref "/f21/language/ne.md" >}}) | 11 | 11 | 100.0 | /mnt/stockage/packages/f21/libgnomecups/po/ne.po | 
- | [nl]({{< ref "/f21/language/nl.md" >}}) | 11 | 11 | 100.0 | /mnt/stockage/packages/f21/libgnomecups/po/nl.po | 
- | [pa]({{< ref "/f21/language/pa.md" >}}) | 11 | 11 | 100.0 | /mnt/stockage/packages/f21/libgnomecups/po/pa.po | 
- | [pl]({{< ref "/f21/language/pl.md" >}}) | 11 | 11 | 100.0 | /mnt/stockage/packages/f21/libgnomecups/po/pl.po | 
- | [pt_BR]({{< ref "/f21/language/pt_BR.md" >}}) | 210 | 210 | 100.0 | /mnt/stockage/packages/f21/libgnomecups/po/pt_BR.po | 
- | [sk]({{< ref "/f21/language/sk.md" >}}) | 11 | 11 | 100.0 | /mnt/stockage/packages/f21/libgnomecups/po/sk.po | 
- | [sl]({{< ref "/f21/language/sl.md" >}}) | 11 | 11 | 100.0 | /mnt/stockage/packages/f21/libgnomecups/po/sl.po | 
- | [sq]({{< ref "/f21/language/sq.md" >}}) | 11 | 11 | 100.0 | /mnt/stockage/packages/f21/libgnomecups/po/sq.po | 
- | [sv]({{< ref "/f21/language/sv.md" >}}) | 210 | 210 | 100.0 | /mnt/stockage/packages/f21/libgnomecups/po/sv.po | 
- | [th]({{< ref "/f21/language/th.md" >}}) | 11 | 11 | 100.0 | /mnt/stockage/packages/f21/libgnomecups/po/th.po | 
- | [tr]({{< ref "/f21/language/tr.md" >}}) | 210 | 210 | 100.0 | /mnt/stockage/packages/f21/libgnomecups/po/tr.po | 
- | [vi]({{< ref "/f21/language/vi.md" >}}) | 11 | 11 | 100.0 | /mnt/stockage/packages/f21/libgnomecups/po/vi.po | 
- | [wa]({{< ref "/f21/language/wa.md" >}}) | 210 | 210 | 100.0 | /mnt/stockage/packages/f21/libgnomecups/po/wa.po | 
- | [zh_Hans]({{< ref "/f21/language/zh_Hans.md" >}}) | 11 | 11 | 100.0 | /mnt/stockage/packages/f21/libgnomecups/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f21/language/zh_Hant.md" >}}) | 11 | 11 | 100.0 | /mnt/stockage/packages/f21/libgnomecups/po/zh_TW.po | 
- | [zh_Hant_HK]({{< ref "/f21/language/zh_Hant_HK.md" >}}) | 11 | 11 | 100.0 | /mnt/stockage/packages/f21/libgnomecups/po/zh_HK.po | 
- | [ca]({{< ref "/f21/language/ca.md" >}}) | 206 | 210 | 98.1 | /mnt/stockage/packages/f21/libgnomecups/po/ca.po | 
- | [error]({{< ref "/f21/language/error.md" >}}) | 206 | 210 | 98.1 | /mnt/stockage/packages/f21/libgnomecups/po/sr@Latn.po | 
- | [es]({{< ref "/f21/language/es.md" >}}) | 206 | 210 | 98.1 | /mnt/stockage/packages/f21/libgnomecups/po/es.po | 
- | [hr]({{< ref "/f21/language/hr.md" >}}) | 206 | 210 | 98.1 | /mnt/stockage/packages/f21/libgnomecups/po/hr.po | 
- | [pt]({{< ref "/f21/language/pt.md" >}}) | 206 | 210 | 98.1 | /mnt/stockage/packages/f21/libgnomecups/po/pt.po | 
- | [sr]({{< ref "/f21/language/sr.md" >}}) | 206 | 210 | 98.1 | /mnt/stockage/packages/f21/libgnomecups/po/sr.po | 
- | [uk]({{< ref "/f21/language/uk.md" >}}) | 206 | 210 | 98.1 | /mnt/stockage/packages/f21/libgnomecups/po/uk.po | 
- | [oc]({{< ref "/f21/language/oc.md" >}}) | 10 | 11 | 90.9 | /mnt/stockage/packages/f21/libgnomecups/po/oc.po | 
- | [rw]({{< ref "/f21/language/rw.md" >}}) | 5 | 11 | 45.5 | /mnt/stockage/packages/f21/libgnomecups/po/rw.po | 
- | [is]({{< ref "/f21/language/is.md" >}}) | 55 | 210 | 26.2 | /mnt/stockage/packages/f21/libgnomecups/po/is.po | 
+ | [ar](/f21/language/ar) | 11 | 11 | 100.0 | /mnt/stockage/packages/f21/libgnomecups/po/ar.po | 
+ | [bg](/f21/language/bg) | 11 | 11 | 100.0 | /mnt/stockage/packages/f21/libgnomecups/po/bg.po | 
+ | [cs](/f21/language/cs) | 210 | 210 | 100.0 | /mnt/stockage/packages/f21/libgnomecups/po/cs.po | 
+ | [da](/f21/language/da) | 11 | 11 | 100.0 | /mnt/stockage/packages/f21/libgnomecups/po/da.po | 
+ | [de](/f21/language/de) | 210 | 210 | 100.0 | /mnt/stockage/packages/f21/libgnomecups/po/de.po | 
+ | [dz](/f21/language/dz) | 11 | 11 | 100.0 | /mnt/stockage/packages/f21/libgnomecups/po/dz.po | 
+ | [en_CA](/f21/language/en_CA) | 210 | 210 | 100.0 | /mnt/stockage/packages/f21/libgnomecups/po/en_CA.po | 
+ | [en_GB](/f21/language/en_GB) | 210 | 210 | 100.0 | /mnt/stockage/packages/f21/libgnomecups/po/en_GB.po | 
+ | [eu](/f21/language/eu) | 11 | 11 | 100.0 | /mnt/stockage/packages/f21/libgnomecups/po/eu.po | 
+ | [fi](/f21/language/fi) | 210 | 210 | 100.0 | /mnt/stockage/packages/f21/libgnomecups/po/fi.po | 
+ | [fr](/f21/language/fr) | 210 | 210 | 100.0 | /mnt/stockage/packages/f21/libgnomecups/po/fr.po | 
+ | [gl](/f21/language/gl) | 11 | 11 | 100.0 | /mnt/stockage/packages/f21/libgnomecups/po/gl.po | 
+ | [gu](/f21/language/gu) | 210 | 210 | 100.0 | /mnt/stockage/packages/f21/libgnomecups/po/gu.po | 
+ | [hi](/f21/language/hi) | 11 | 11 | 100.0 | /mnt/stockage/packages/f21/libgnomecups/po/hi.po | 
+ | [hu](/f21/language/hu) | 210 | 210 | 100.0 | /mnt/stockage/packages/f21/libgnomecups/po/hu.po | 
+ | [it](/f21/language/it) | 11 | 11 | 100.0 | /mnt/stockage/packages/f21/libgnomecups/po/it.po | 
+ | [ja](/f21/language/ja) | 210 | 210 | 100.0 | /mnt/stockage/packages/f21/libgnomecups/po/ja.po | 
+ | [lt](/f21/language/lt) | 11 | 11 | 100.0 | /mnt/stockage/packages/f21/libgnomecups/po/lt.po | 
+ | [mk](/f21/language/mk) | 11 | 11 | 100.0 | /mnt/stockage/packages/f21/libgnomecups/po/mk.po | 
+ | [nb_NO](/f21/language/nb_NO) | 210 | 210 | 100.0 | /mnt/stockage/packages/f21/libgnomecups/po/nb.po | 
+ | [ne](/f21/language/ne) | 11 | 11 | 100.0 | /mnt/stockage/packages/f21/libgnomecups/po/ne.po | 
+ | [nl](/f21/language/nl) | 11 | 11 | 100.0 | /mnt/stockage/packages/f21/libgnomecups/po/nl.po | 
+ | [pa](/f21/language/pa) | 11 | 11 | 100.0 | /mnt/stockage/packages/f21/libgnomecups/po/pa.po | 
+ | [pl](/f21/language/pl) | 11 | 11 | 100.0 | /mnt/stockage/packages/f21/libgnomecups/po/pl.po | 
+ | [pt_BR](/f21/language/pt_BR) | 210 | 210 | 100.0 | /mnt/stockage/packages/f21/libgnomecups/po/pt_BR.po | 
+ | [sk](/f21/language/sk) | 11 | 11 | 100.0 | /mnt/stockage/packages/f21/libgnomecups/po/sk.po | 
+ | [sl](/f21/language/sl) | 11 | 11 | 100.0 | /mnt/stockage/packages/f21/libgnomecups/po/sl.po | 
+ | [sq](/f21/language/sq) | 11 | 11 | 100.0 | /mnt/stockage/packages/f21/libgnomecups/po/sq.po | 
+ | [sv](/f21/language/sv) | 210 | 210 | 100.0 | /mnt/stockage/packages/f21/libgnomecups/po/sv.po | 
+ | [th](/f21/language/th) | 11 | 11 | 100.0 | /mnt/stockage/packages/f21/libgnomecups/po/th.po | 
+ | [tr](/f21/language/tr) | 210 | 210 | 100.0 | /mnt/stockage/packages/f21/libgnomecups/po/tr.po | 
+ | [vi](/f21/language/vi) | 11 | 11 | 100.0 | /mnt/stockage/packages/f21/libgnomecups/po/vi.po | 
+ | [wa](/f21/language/wa) | 210 | 210 | 100.0 | /mnt/stockage/packages/f21/libgnomecups/po/wa.po | 
+ | [zh_Hans](/f21/language/zh_Hans) | 11 | 11 | 100.0 | /mnt/stockage/packages/f21/libgnomecups/po/zh_CN.po | 
+ | [zh_Hant](/f21/language/zh_Hant) | 11 | 11 | 100.0 | /mnt/stockage/packages/f21/libgnomecups/po/zh_TW.po | 
+ | [zh_Hant_HK](/f21/language/zh_Hant_HK) | 11 | 11 | 100.0 | /mnt/stockage/packages/f21/libgnomecups/po/zh_HK.po | 
+ | [ca](/f21/language/ca) | 206 | 210 | 98.1 | /mnt/stockage/packages/f21/libgnomecups/po/ca.po | 
+ | [error](/f21/language/error) | 206 | 210 | 98.1 | /mnt/stockage/packages/f21/libgnomecups/po/sr@Latn.po | 
+ | [es](/f21/language/es) | 206 | 210 | 98.1 | /mnt/stockage/packages/f21/libgnomecups/po/es.po | 
+ | [hr](/f21/language/hr) | 206 | 210 | 98.1 | /mnt/stockage/packages/f21/libgnomecups/po/hr.po | 
+ | [pt](/f21/language/pt) | 206 | 210 | 98.1 | /mnt/stockage/packages/f21/libgnomecups/po/pt.po | 
+ | [sr](/f21/language/sr) | 206 | 210 | 98.1 | /mnt/stockage/packages/f21/libgnomecups/po/sr.po | 
+ | [uk](/f21/language/uk) | 206 | 210 | 98.1 | /mnt/stockage/packages/f21/libgnomecups/po/uk.po | 
+ | [oc](/f21/language/oc) | 10 | 11 | 90.9 | /mnt/stockage/packages/f21/libgnomecups/po/oc.po | 
+ | [rw](/f21/language/rw) | 5 | 11 | 45.5 | /mnt/stockage/packages/f21/libgnomecups/po/rw.po | 
+ | [is](/f21/language/is) | 55 | 210 | 26.2 | /mnt/stockage/packages/f21/libgnomecups/po/is.po | 
 {.sortable}
 
 

@@ -18,14 +18,14 @@ The package lemonpos (version 0.9.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f28/language/de.md" >}}) | 3066 | 3118 | 98.3 | /mnt/stockage/packages/f28/lemonpos/squeeze/src/po/de.po/mnt/stockage/packages/f28/lemonpos/src/po/de.po | 
- | [es]({{< ref "/f28/language/es.md" >}}) | 3408 | 3787 | 90.0 | /mnt/stockage/packages/f28/lemonpos/squeeze/src/po/es.po/mnt/stockage/packages/f28/lemonpos/src/es.po/mnt/stockage/packages/f28/lemonpos/src/po/es.po | 
- | [cs]({{< ref "/f28/language/cs.md" >}}) | 2755 | 3118 | 88.4 | /mnt/stockage/packages/f28/lemonpos/squeeze/src/po/cz.po/mnt/stockage/packages/f28/lemonpos/src/po/cz.po | 
- | [fr]({{< ref "/f28/language/fr.md" >}}) | 2721 | 3118 | 87.3 | /mnt/stockage/packages/f28/lemonpos/squeeze/src/po/fr.po/mnt/stockage/packages/f28/lemonpos/src/po/fr.po | 
- | [pt_BR]({{< ref "/f28/language/pt_BR.md" >}}) | 512 | 1340 | 38.2 | /mnt/stockage/packages/f28/lemonpos/squeeze/src/po/pt_BR.po | 
- | [error]({{< ref "/f28/language/error.md" >}}) | 1187 | 3118 | 38.1 | /mnt/stockage/packages/f28/lemonpos/squeeze/src/po/squeeze-zh.po/mnt/stockage/packages/f28/lemonpos/src/po/lemon-zh.po | 
- | [zh_Hans]({{< ref "/f28/language/zh_Hans.md" >}}) | 1187 | 3118 | 38.1 | /mnt/stockage/packages/f28/lemonpos/squeeze/src/po/zh.po/mnt/stockage/packages/f28/lemonpos/src/po/zh.po | 
- | [ca]({{< ref "/f28/language/ca.md" >}}) | 1164 | 3118 | 37.3 | /mnt/stockage/packages/f28/lemonpos/squeeze/src/po/ca.po/mnt/stockage/packages/f28/lemonpos/src/po/ca.po | 
+ | [de](/f28/language/de) | 3066 | 3118 | 98.3 | /mnt/stockage/packages/f28/lemonpos/squeeze/src/po/de.po/mnt/stockage/packages/f28/lemonpos/src/po/de.po | 
+ | [es](/f28/language/es) | 3408 | 3787 | 90.0 | /mnt/stockage/packages/f28/lemonpos/squeeze/src/po/es.po/mnt/stockage/packages/f28/lemonpos/src/es.po/mnt/stockage/packages/f28/lemonpos/src/po/es.po | 
+ | [cs](/f28/language/cs) | 2755 | 3118 | 88.4 | /mnt/stockage/packages/f28/lemonpos/squeeze/src/po/cz.po/mnt/stockage/packages/f28/lemonpos/src/po/cz.po | 
+ | [fr](/f28/language/fr) | 2721 | 3118 | 87.3 | /mnt/stockage/packages/f28/lemonpos/squeeze/src/po/fr.po/mnt/stockage/packages/f28/lemonpos/src/po/fr.po | 
+ | [pt_BR](/f28/language/pt_BR) | 512 | 1340 | 38.2 | /mnt/stockage/packages/f28/lemonpos/squeeze/src/po/pt_BR.po | 
+ | [error](/f28/language/error) | 1187 | 3118 | 38.1 | /mnt/stockage/packages/f28/lemonpos/squeeze/src/po/squeeze-zh.po/mnt/stockage/packages/f28/lemonpos/src/po/lemon-zh.po | 
+ | [zh_Hans](/f28/language/zh_Hans) | 1187 | 3118 | 38.1 | /mnt/stockage/packages/f28/lemonpos/squeeze/src/po/zh.po/mnt/stockage/packages/f28/lemonpos/src/po/zh.po | 
+ | [ca](/f28/language/ca) | 1164 | 3118 | 37.3 | /mnt/stockage/packages/f28/lemonpos/squeeze/src/po/ca.po/mnt/stockage/packages/f28/lemonpos/src/po/ca.po | 
 {.sortable}
 
 

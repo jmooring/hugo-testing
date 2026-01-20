@@ -18,9 +18,9 @@ The package jack-rack (version 1.4.6):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f7/language/de.md" >}}) | 282 | 600 | 47.0 | /mnt/stockage/packages/f7/jack-rack/po/de.po | 
- | [fr]({{< ref "/f7/language/fr.md" >}}) | 282 | 600 | 47.0 | /mnt/stockage/packages/f7/jack-rack/po/fr.po | 
- | [ru]({{< ref "/f7/language/ru.md" >}}) | 270 | 600 | 45.0 | /mnt/stockage/packages/f7/jack-rack/po/ru.po | 
+ | [de](/f7/language/de) | 282 | 600 | 47.0 | /mnt/stockage/packages/f7/jack-rack/po/de.po | 
+ | [fr](/f7/language/fr) | 282 | 600 | 47.0 | /mnt/stockage/packages/f7/jack-rack/po/fr.po | 
+ | [ru](/f7/language/ru) | 270 | 600 | 45.0 | /mnt/stockage/packages/f7/jack-rack/po/ru.po | 
 {.sortable}
 
 

@@ -18,7 +18,7 @@ The package audio-convert-mod (version 3.46.0b):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [zh_Hans]({{< ref "/f31/language/zh_Hans.md" >}}) | 274 | 415 | 66.0 | /mnt/stockage/packages/f31/audio-convert-mod/po/zh_CN.po | 
+ | [zh_Hans](/f31/language/zh_Hans) | 274 | 415 | 66.0 | /mnt/stockage/packages/f31/audio-convert-mod/po/zh_CN.po | 
 {.sortable}
 
 

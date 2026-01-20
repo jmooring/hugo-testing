@@ -18,21 +18,21 @@ The package gnubg (version 1.08.003):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fi]({{< ref "/f41/language/fi.md" >}}) | 19488 | 19495 | 100.0 | /mnt/stockage/packages/f41/gnubg/po/fi.po | 
- | [ja]({{< ref "/f41/language/ja.md" >}}) | 19487 | 19495 | 100.0 | /mnt/stockage/packages/f41/gnubg/po/ja.po | 
- | [it]({{< ref "/f41/language/it.md" >}}) | 12558 | 19495 | 64.4 | /mnt/stockage/packages/f41/gnubg/po/it.po | 
- | [ro]({{< ref "/f41/language/ro.md" >}}) | 11171 | 19495 | 57.3 | /mnt/stockage/packages/f41/gnubg/po/ro.po | 
- | [cs]({{< ref "/f41/language/cs.md" >}}) | 11037 | 19495 | 56.6 | /mnt/stockage/packages/f41/gnubg/po/cs.po | 
- | [da]({{< ref "/f41/language/da.md" >}}) | 10635 | 19495 | 54.6 | /mnt/stockage/packages/f41/gnubg/po/da.po | 
- | [de]({{< ref "/f41/language/de.md" >}}) | 9802 | 19495 | 50.3 | /mnt/stockage/packages/f41/gnubg/po/de.po | 
- | [es]({{< ref "/f41/language/es.md" >}}) | 9465 | 19495 | 48.6 | /mnt/stockage/packages/f41/gnubg/po/es.po | 
- | [fr]({{< ref "/f41/language/fr.md" >}}) | 7764 | 19495 | 39.8 | /mnt/stockage/packages/f41/gnubg/po/fr.po | 
- | [en_US]({{< ref "/f41/language/en_US.md" >}}) | 7362 | 19495 | 37.8 | /mnt/stockage/packages/f41/gnubg/po/en_US.po | 
- | [is]({{< ref "/f41/language/is.md" >}}) | 1326 | 19495 | 6.8 | /mnt/stockage/packages/f41/gnubg/po/is.po | 
- | [tr]({{< ref "/f41/language/tr.md" >}}) | 1319 | 19495 | 6.8 | /mnt/stockage/packages/f41/gnubg/po/tr.po | 
- | [ru]({{< ref "/f41/language/ru.md" >}}) | 1003 | 19495 | 5.1 | /mnt/stockage/packages/f41/gnubg/po/ru.po | 
- | [el]({{< ref "/f41/language/el.md" >}}) | 504 | 19495 | 2.6 | /mnt/stockage/packages/f41/gnubg/po/el.po | 
- | [en_GB]({{< ref "/f41/language/en_GB.md" >}}) | 0 | 19495 | 0.0 | /mnt/stockage/packages/f41/gnubg/po/en_GB.po | 
+ | [fi](/f41/language/fi) | 19488 | 19495 | 100.0 | /mnt/stockage/packages/f41/gnubg/po/fi.po | 
+ | [ja](/f41/language/ja) | 19487 | 19495 | 100.0 | /mnt/stockage/packages/f41/gnubg/po/ja.po | 
+ | [it](/f41/language/it) | 12558 | 19495 | 64.4 | /mnt/stockage/packages/f41/gnubg/po/it.po | 
+ | [ro](/f41/language/ro) | 11171 | 19495 | 57.3 | /mnt/stockage/packages/f41/gnubg/po/ro.po | 
+ | [cs](/f41/language/cs) | 11037 | 19495 | 56.6 | /mnt/stockage/packages/f41/gnubg/po/cs.po | 
+ | [da](/f41/language/da) | 10635 | 19495 | 54.6 | /mnt/stockage/packages/f41/gnubg/po/da.po | 
+ | [de](/f41/language/de) | 9802 | 19495 | 50.3 | /mnt/stockage/packages/f41/gnubg/po/de.po | 
+ | [es](/f41/language/es) | 9465 | 19495 | 48.6 | /mnt/stockage/packages/f41/gnubg/po/es.po | 
+ | [fr](/f41/language/fr) | 7764 | 19495 | 39.8 | /mnt/stockage/packages/f41/gnubg/po/fr.po | 
+ | [en_US](/f41/language/en_US) | 7362 | 19495 | 37.8 | /mnt/stockage/packages/f41/gnubg/po/en_US.po | 
+ | [is](/f41/language/is) | 1326 | 19495 | 6.8 | /mnt/stockage/packages/f41/gnubg/po/is.po | 
+ | [tr](/f41/language/tr) | 1319 | 19495 | 6.8 | /mnt/stockage/packages/f41/gnubg/po/tr.po | 
+ | [ru](/f41/language/ru) | 1003 | 19495 | 5.1 | /mnt/stockage/packages/f41/gnubg/po/ru.po | 
+ | [el](/f41/language/el) | 504 | 19495 | 2.6 | /mnt/stockage/packages/f41/gnubg/po/el.po | 
+ | [en_GB](/f41/language/en_GB) | 0 | 19495 | 0.0 | /mnt/stockage/packages/f41/gnubg/po/en_GB.po | 
 {.sortable}
 
 

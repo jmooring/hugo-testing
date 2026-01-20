@@ -18,13 +18,13 @@ The package rEFInd (version 0.14.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f42/language/de.md" >}}) | 65 | 65 | 100.0 | /mnt/stockage/packages/f42/rEFInd/debian/po/de.po | 
- | [es]({{< ref "/f42/language/es.md" >}}) | 65 | 65 | 100.0 | /mnt/stockage/packages/f42/rEFInd/debian/po/es.po | 
- | [fr]({{< ref "/f42/language/fr.md" >}}) | 65 | 65 | 100.0 | /mnt/stockage/packages/f42/rEFInd/debian/po/fr.po | 
- | [nl]({{< ref "/f42/language/nl.md" >}}) | 65 | 65 | 100.0 | /mnt/stockage/packages/f42/rEFInd/debian/po/nl.po | 
- | [pt]({{< ref "/f42/language/pt.md" >}}) | 65 | 65 | 100.0 | /mnt/stockage/packages/f42/rEFInd/debian/po/pt.po | 
- | [pt_BR]({{< ref "/f42/language/pt_BR.md" >}}) | 65 | 65 | 100.0 | /mnt/stockage/packages/f42/rEFInd/debian/po/pt_BR.po | 
- | [ru]({{< ref "/f42/language/ru.md" >}}) | 65 | 65 | 100.0 | /mnt/stockage/packages/f42/rEFInd/debian/po/ru.po | 
+ | [de](/f42/language/de) | 65 | 65 | 100.0 | /mnt/stockage/packages/f42/rEFInd/debian/po/de.po | 
+ | [es](/f42/language/es) | 65 | 65 | 100.0 | /mnt/stockage/packages/f42/rEFInd/debian/po/es.po | 
+ | [fr](/f42/language/fr) | 65 | 65 | 100.0 | /mnt/stockage/packages/f42/rEFInd/debian/po/fr.po | 
+ | [nl](/f42/language/nl) | 65 | 65 | 100.0 | /mnt/stockage/packages/f42/rEFInd/debian/po/nl.po | 
+ | [pt](/f42/language/pt) | 65 | 65 | 100.0 | /mnt/stockage/packages/f42/rEFInd/debian/po/pt.po | 
+ | [pt_BR](/f42/language/pt_BR) | 65 | 65 | 100.0 | /mnt/stockage/packages/f42/rEFInd/debian/po/pt_BR.po | 
+ | [ru](/f42/language/ru) | 65 | 65 | 100.0 | /mnt/stockage/packages/f42/rEFInd/debian/po/ru.po | 
 {.sortable}
 
 

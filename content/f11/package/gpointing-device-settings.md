@@ -18,10 +18,10 @@ The package gpointing-device-settings (version 1.3.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ja]({{< ref "/f11/language/ja.md" >}}) | 131 | 156 | 84.0 | /mnt/stockage/packages/f11/gpointing-device-settings/po/ja.po | 
- | [en_GB]({{< ref "/f11/language/en_GB.md" >}}) | 120 | 156 | 76.9 | /mnt/stockage/packages/f11/gpointing-device-settings/po/en_GB.po | 
- | [es]({{< ref "/f11/language/es.md" >}}) | 76 | 156 | 48.7 | /mnt/stockage/packages/f11/gpointing-device-settings/po/es.po | 
- | [sv]({{< ref "/f11/language/sv.md" >}}) | 20 | 156 | 12.8 | /mnt/stockage/packages/f11/gpointing-device-settings/po/sv.po | 
+ | [ja](/f11/language/ja) | 131 | 156 | 84.0 | /mnt/stockage/packages/f11/gpointing-device-settings/po/ja.po | 
+ | [en_GB](/f11/language/en_GB) | 120 | 156 | 76.9 | /mnt/stockage/packages/f11/gpointing-device-settings/po/en_GB.po | 
+ | [es](/f11/language/es) | 76 | 156 | 48.7 | /mnt/stockage/packages/f11/gpointing-device-settings/po/es.po | 
+ | [sv](/f11/language/sv) | 20 | 156 | 12.8 | /mnt/stockage/packages/f11/gpointing-device-settings/po/sv.po | 
 {.sortable}
 
 

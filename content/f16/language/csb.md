@@ -38,12 +38,12 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [exaile]({{< ref "/f16/package/exaile.md" >}}) | 1307 | 3683 | 35.5 | Kashubian <csb@li.org> | 
- | [awn-extras-applets]({{< ref "/f16/package/awn-extras-applets.md" >}}) | 292 | 5353 | 5.5 | Kashubian <csb@li.org> | 
- | [k3b]({{< ref "/f16/package/k3b.md" >}}) | 671 | 15116 | 4.4 | Kashubian <i18n-csb@linuxcsb.org> | 
- | [e16]({{< ref "/f16/package/e16.md" >}}) | 115 | 2832 | 4.1 | Kashubian <csb@li.org> | 
- | [avant-window-navigator]({{< ref "/f16/package/avant-window-navigator.md" >}}) | 21 | 1829 | 1.1 | Kashubian <csb@li.org> | 
- | [vidalia]({{< ref "/f16/package/vidalia.md" >}}) | 0 | 10369 | 0.0 | translations@vidalia-project.net | 
+ | [exaile](/f16/package/exaile) | 1307 | 3683 | 35.5 | Kashubian <csb@li.org> | 
+ | [awn-extras-applets](/f16/package/awn-extras-applets) | 292 | 5353 | 5.5 | Kashubian <csb@li.org> | 
+ | [k3b](/f16/package/k3b) | 671 | 15116 | 4.4 | Kashubian <i18n-csb@linuxcsb.org> | 
+ | [e16](/f16/package/e16) | 115 | 2832 | 4.1 | Kashubian <csb@li.org> | 
+ | [avant-window-navigator](/f16/package/avant-window-navigator) | 21 | 1829 | 1.1 | Kashubian <csb@li.org> | 
+ | [vidalia](/f16/package/vidalia) | 0 | 10369 | 0.0 | translations@vidalia-project.net | 
 {.sortable}
 
 

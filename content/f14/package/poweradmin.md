@@ -18,9 +18,9 @@ The package poweradmin (version 2.1.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f14/language/de.md" >}}) | 1920 | 1920 | 100.0 | /mnt/stockage/packages/f14/poweradmin/locale/de_DE/LC_MESSAGES/de.po | 
- | [nl]({{< ref "/f14/language/nl.md" >}}) | 1959 | 1959 | 100.0 | /mnt/stockage/packages/f14/poweradmin/locale/nl_NL/LC_MESSAGES/nl.po | 
- | [en]({{< ref "/f14/language/en.md" >}}) | 0 | 858 | 0.0 | /mnt/stockage/packages/f14/poweradmin/locale/en_EN/LC_MESSAGES/en.po | 
+ | [de](/f14/language/de) | 1920 | 1920 | 100.0 | /mnt/stockage/packages/f14/poweradmin/locale/de_DE/LC_MESSAGES/de.po | 
+ | [nl](/f14/language/nl) | 1959 | 1959 | 100.0 | /mnt/stockage/packages/f14/poweradmin/locale/nl_NL/LC_MESSAGES/nl.po | 
+ | [en](/f14/language/en) | 0 | 858 | 0.0 | /mnt/stockage/packages/f14/poweradmin/locale/en_EN/LC_MESSAGES/en.po | 
 {.sortable}
 
 

@@ -18,32 +18,32 @@ The package tellico (version 2.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [da]({{< ref "/f13/language/da.md" >}}) | 5497 | 5497 | 100.0 | /mnt/stockage/packages/f13/tellico/po/da/tellico.po | 
- | [es]({{< ref "/f13/language/es.md" >}}) | 5497 | 5497 | 100.0 | /mnt/stockage/packages/f13/tellico/po/es/tellico.po | 
- | [nb_NO]({{< ref "/f13/language/nb_NO.md" >}}) | 5497 | 5497 | 100.0 | /mnt/stockage/packages/f13/tellico/po/nb/tellico.po | 
- | [nl]({{< ref "/f13/language/nl.md" >}}) | 5497 | 5497 | 100.0 | /mnt/stockage/packages/f13/tellico/po/nl/tellico.po | 
- | [pt]({{< ref "/f13/language/pt.md" >}}) | 5497 | 5497 | 100.0 | /mnt/stockage/packages/f13/tellico/po/pt/tellico.po | 
- | [pt_BR]({{< ref "/f13/language/pt_BR.md" >}}) | 5497 | 5497 | 100.0 | /mnt/stockage/packages/f13/tellico/po/pt_BR/tellico.po | 
- | [sv]({{< ref "/f13/language/sv.md" >}}) | 5497 | 5497 | 100.0 | /mnt/stockage/packages/f13/tellico/po/sv/tellico.po | 
- | [uk]({{< ref "/f13/language/uk.md" >}}) | 5497 | 5497 | 100.0 | /mnt/stockage/packages/f13/tellico/po/uk/tellico.po | 
- | [ru]({{< ref "/f13/language/ru.md" >}}) | 5493 | 5497 | 99.9 | /mnt/stockage/packages/f13/tellico/po/ru/tellico.po | 
- | [en_GB]({{< ref "/f13/language/en_GB.md" >}}) | 5491 | 5497 | 99.9 | /mnt/stockage/packages/f13/tellico/po/en_GB/tellico.po | 
- | [et]({{< ref "/f13/language/et.md" >}}) | 5468 | 5497 | 99.5 | /mnt/stockage/packages/f13/tellico/po/et/tellico.po | 
- | [el]({{< ref "/f13/language/el.md" >}}) | 5467 | 5497 | 99.5 | /mnt/stockage/packages/f13/tellico/po/el/tellico.po | 
- | [ca]({{< ref "/f13/language/ca.md" >}}) | 5442 | 5497 | 99.0 | /mnt/stockage/packages/f13/tellico/po/ca/tellico.po | 
- | [ca@valencia]({{< ref "/f13/language/ca@valencia.md" >}}) | 5442 | 5497 | 99.0 | /mnt/stockage/packages/f13/tellico/po/ca@valencia/tellico.po | 
- | [hu]({{< ref "/f13/language/hu.md" >}}) | 5442 | 5497 | 99.0 | /mnt/stockage/packages/f13/tellico/po/hu/tellico.po | 
- | [it]({{< ref "/f13/language/it.md" >}}) | 5376 | 5497 | 97.8 | /mnt/stockage/packages/f13/tellico/po/it/tellico.po | 
- | [nds]({{< ref "/f13/language/nds.md" >}}) | 5344 | 5497 | 97.2 | /mnt/stockage/packages/f13/tellico/po/nds/tellico.po | 
- | [fi]({{< ref "/f13/language/fi.md" >}}) | 5215 | 5497 | 94.9 | /mnt/stockage/packages/f13/tellico/po/fi/tellico.po | 
- | [fr]({{< ref "/f13/language/fr.md" >}}) | 5023 | 5497 | 91.4 | /mnt/stockage/packages/f13/tellico/po/fr/tellico.po | 
- | [gl]({{< ref "/f13/language/gl.md" >}}) | 5006 | 5497 | 91.1 | /mnt/stockage/packages/f13/tellico/po/gl/tellico.po | 
- | [de]({{< ref "/f13/language/de.md" >}}) | 5001 | 5497 | 91.0 | /mnt/stockage/packages/f13/tellico/po/de/tellico.po | 
- | [nn]({{< ref "/f13/language/nn.md" >}}) | 4986 | 5497 | 90.7 | /mnt/stockage/packages/f13/tellico/po/nn/tellico.po | 
- | [pl]({{< ref "/f13/language/pl.md" >}}) | 4914 | 5497 | 89.4 | /mnt/stockage/packages/f13/tellico/po/pl/tellico.po | 
- | [tr]({{< ref "/f13/language/tr.md" >}}) | 4584 | 5497 | 83.4 | /mnt/stockage/packages/f13/tellico/po/tr/tellico.po | 
- | [cs]({{< ref "/f13/language/cs.md" >}}) | 4507 | 5497 | 82.0 | /mnt/stockage/packages/f13/tellico/po/cs/tellico.po | 
- | [zh_Hans]({{< ref "/f13/language/zh_Hans.md" >}}) | 2861 | 5497 | 52.0 | /mnt/stockage/packages/f13/tellico/po/zh_CN/tellico.po | 
+ | [da](/f13/language/da) | 5497 | 5497 | 100.0 | /mnt/stockage/packages/f13/tellico/po/da/tellico.po | 
+ | [es](/f13/language/es) | 5497 | 5497 | 100.0 | /mnt/stockage/packages/f13/tellico/po/es/tellico.po | 
+ | [nb_NO](/f13/language/nb_NO) | 5497 | 5497 | 100.0 | /mnt/stockage/packages/f13/tellico/po/nb/tellico.po | 
+ | [nl](/f13/language/nl) | 5497 | 5497 | 100.0 | /mnt/stockage/packages/f13/tellico/po/nl/tellico.po | 
+ | [pt](/f13/language/pt) | 5497 | 5497 | 100.0 | /mnt/stockage/packages/f13/tellico/po/pt/tellico.po | 
+ | [pt_BR](/f13/language/pt_BR) | 5497 | 5497 | 100.0 | /mnt/stockage/packages/f13/tellico/po/pt_BR/tellico.po | 
+ | [sv](/f13/language/sv) | 5497 | 5497 | 100.0 | /mnt/stockage/packages/f13/tellico/po/sv/tellico.po | 
+ | [uk](/f13/language/uk) | 5497 | 5497 | 100.0 | /mnt/stockage/packages/f13/tellico/po/uk/tellico.po | 
+ | [ru](/f13/language/ru) | 5493 | 5497 | 99.9 | /mnt/stockage/packages/f13/tellico/po/ru/tellico.po | 
+ | [en_GB](/f13/language/en_GB) | 5491 | 5497 | 99.9 | /mnt/stockage/packages/f13/tellico/po/en_GB/tellico.po | 
+ | [et](/f13/language/et) | 5468 | 5497 | 99.5 | /mnt/stockage/packages/f13/tellico/po/et/tellico.po | 
+ | [el](/f13/language/el) | 5467 | 5497 | 99.5 | /mnt/stockage/packages/f13/tellico/po/el/tellico.po | 
+ | [ca](/f13/language/ca) | 5442 | 5497 | 99.0 | /mnt/stockage/packages/f13/tellico/po/ca/tellico.po | 
+ | [ca@valencia](/f13/language/ca@valencia) | 5442 | 5497 | 99.0 | /mnt/stockage/packages/f13/tellico/po/ca@valencia/tellico.po | 
+ | [hu](/f13/language/hu) | 5442 | 5497 | 99.0 | /mnt/stockage/packages/f13/tellico/po/hu/tellico.po | 
+ | [it](/f13/language/it) | 5376 | 5497 | 97.8 | /mnt/stockage/packages/f13/tellico/po/it/tellico.po | 
+ | [nds](/f13/language/nds) | 5344 | 5497 | 97.2 | /mnt/stockage/packages/f13/tellico/po/nds/tellico.po | 
+ | [fi](/f13/language/fi) | 5215 | 5497 | 94.9 | /mnt/stockage/packages/f13/tellico/po/fi/tellico.po | 
+ | [fr](/f13/language/fr) | 5023 | 5497 | 91.4 | /mnt/stockage/packages/f13/tellico/po/fr/tellico.po | 
+ | [gl](/f13/language/gl) | 5006 | 5497 | 91.1 | /mnt/stockage/packages/f13/tellico/po/gl/tellico.po | 
+ | [de](/f13/language/de) | 5001 | 5497 | 91.0 | /mnt/stockage/packages/f13/tellico/po/de/tellico.po | 
+ | [nn](/f13/language/nn) | 4986 | 5497 | 90.7 | /mnt/stockage/packages/f13/tellico/po/nn/tellico.po | 
+ | [pl](/f13/language/pl) | 4914 | 5497 | 89.4 | /mnt/stockage/packages/f13/tellico/po/pl/tellico.po | 
+ | [tr](/f13/language/tr) | 4584 | 5497 | 83.4 | /mnt/stockage/packages/f13/tellico/po/tr/tellico.po | 
+ | [cs](/f13/language/cs) | 4507 | 5497 | 82.0 | /mnt/stockage/packages/f13/tellico/po/cs/tellico.po | 
+ | [zh_Hans](/f13/language/zh_Hans) | 2861 | 5497 | 52.0 | /mnt/stockage/packages/f13/tellico/po/zh_CN/tellico.po | 
 {.sortable}
 
 

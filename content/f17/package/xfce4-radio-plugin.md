@@ -18,37 +18,37 @@ The package xfce4-radio-plugin (version 0.5.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ast]({{< ref "/f17/language/ast.md" >}}) | 65 | 65 | 100.0 | /mnt/stockage/packages/f17/xfce4-radio-plugin/po/ast.po | 
- | [ca]({{< ref "/f17/language/ca.md" >}}) | 65 | 65 | 100.0 | /mnt/stockage/packages/f17/xfce4-radio-plugin/po/ca.po | 
- | [cs]({{< ref "/f17/language/cs.md" >}}) | 65 | 65 | 100.0 | /mnt/stockage/packages/f17/xfce4-radio-plugin/po/cs.po | 
- | [da]({{< ref "/f17/language/da.md" >}}) | 118 | 118 | 100.0 | /mnt/stockage/packages/f17/xfce4-radio-plugin/po/da.po | 
- | [de]({{< ref "/f17/language/de.md" >}}) | 118 | 118 | 100.0 | /mnt/stockage/packages/f17/xfce4-radio-plugin/po/de.po | 
- | [en_GB]({{< ref "/f17/language/en_GB.md" >}}) | 65 | 65 | 100.0 | /mnt/stockage/packages/f17/xfce4-radio-plugin/po/en_GB.po | 
- | [es]({{< ref "/f17/language/es.md" >}}) | 65 | 65 | 100.0 | /mnt/stockage/packages/f17/xfce4-radio-plugin/po/es.po | 
- | [eu]({{< ref "/f17/language/eu.md" >}}) | 65 | 65 | 100.0 | /mnt/stockage/packages/f17/xfce4-radio-plugin/po/eu.po | 
- | [fr]({{< ref "/f17/language/fr.md" >}}) | 65 | 65 | 100.0 | /mnt/stockage/packages/f17/xfce4-radio-plugin/po/fr.po | 
- | [gl]({{< ref "/f17/language/gl.md" >}}) | 118 | 118 | 100.0 | /mnt/stockage/packages/f17/xfce4-radio-plugin/po/gl.po | 
- | [hu]({{< ref "/f17/language/hu.md" >}}) | 65 | 65 | 100.0 | /mnt/stockage/packages/f17/xfce4-radio-plugin/po/hu.po | 
- | [id]({{< ref "/f17/language/id.md" >}}) | 118 | 118 | 100.0 | /mnt/stockage/packages/f17/xfce4-radio-plugin/po/id.po | 
- | [it]({{< ref "/f17/language/it.md" >}}) | 118 | 118 | 100.0 | /mnt/stockage/packages/f17/xfce4-radio-plugin/po/it.po | 
- | [ja]({{< ref "/f17/language/ja.md" >}}) | 118 | 118 | 100.0 | /mnt/stockage/packages/f17/xfce4-radio-plugin/po/ja.po | 
- | [lv]({{< ref "/f17/language/lv.md" >}}) | 65 | 65 | 100.0 | /mnt/stockage/packages/f17/xfce4-radio-plugin/po/lv.po | 
- | [nl]({{< ref "/f17/language/nl.md" >}}) | 118 | 118 | 100.0 | /mnt/stockage/packages/f17/xfce4-radio-plugin/po/nl.po | 
- | [pl]({{< ref "/f17/language/pl.md" >}}) | 52 | 52 | 100.0 | /mnt/stockage/packages/f17/xfce4-radio-plugin/po/pl.po | 
- | [pt]({{< ref "/f17/language/pt.md" >}}) | 118 | 118 | 100.0 | /mnt/stockage/packages/f17/xfce4-radio-plugin/po/pt.po | 
- | [pt_BR]({{< ref "/f17/language/pt_BR.md" >}}) | 118 | 118 | 100.0 | /mnt/stockage/packages/f17/xfce4-radio-plugin/po/pt_BR.po | 
- | [sq]({{< ref "/f17/language/sq.md" >}}) | 56 | 56 | 100.0 | /mnt/stockage/packages/f17/xfce4-radio-plugin/po/sq.po | 
- | [sv]({{< ref "/f17/language/sv.md" >}}) | 70 | 70 | 100.0 | /mnt/stockage/packages/f17/xfce4-radio-plugin/po/sv.po | 
- | [tr]({{< ref "/f17/language/tr.md" >}}) | 56 | 56 | 100.0 | /mnt/stockage/packages/f17/xfce4-radio-plugin/po/tr.po | 
- | [ug]({{< ref "/f17/language/ug.md" >}}) | 52 | 52 | 100.0 | /mnt/stockage/packages/f17/xfce4-radio-plugin/po/ug.po | 
- | [uk]({{< ref "/f17/language/uk.md" >}}) | 118 | 118 | 100.0 | /mnt/stockage/packages/f17/xfce4-radio-plugin/po/uk.po | 
- | [ur]({{< ref "/f17/language/ur.md" >}}) | 65 | 65 | 100.0 | /mnt/stockage/packages/f17/xfce4-radio-plugin/po/ur.po | 
- | [ur_PK]({{< ref "/f17/language/ur_PK.md" >}}) | 65 | 65 | 100.0 | /mnt/stockage/packages/f17/xfce4-radio-plugin/po/ur_PK.po | 
- | [zh_Hans]({{< ref "/f17/language/zh_Hans.md" >}}) | 65 | 65 | 100.0 | /mnt/stockage/packages/f17/xfce4-radio-plugin/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f17/language/zh_Hant.md" >}}) | 52 | 52 | 100.0 | /mnt/stockage/packages/f17/xfce4-radio-plugin/po/zh_TW.po | 
- | [el]({{< ref "/f17/language/el.md" >}}) | 116 | 118 | 98.3 | /mnt/stockage/packages/f17/xfce4-radio-plugin/po/el.po | 
- | [ru]({{< ref "/f17/language/ru.md" >}}) | 116 | 118 | 98.3 | /mnt/stockage/packages/f17/xfce4-radio-plugin/po/ru.po | 
- | [ar]({{< ref "/f17/language/ar.md" >}}) | 0 | 56 | 0.0 | /mnt/stockage/packages/f17/xfce4-radio-plugin/po/ar.po | 
+ | [ast](/f17/language/ast) | 65 | 65 | 100.0 | /mnt/stockage/packages/f17/xfce4-radio-plugin/po/ast.po | 
+ | [ca](/f17/language/ca) | 65 | 65 | 100.0 | /mnt/stockage/packages/f17/xfce4-radio-plugin/po/ca.po | 
+ | [cs](/f17/language/cs) | 65 | 65 | 100.0 | /mnt/stockage/packages/f17/xfce4-radio-plugin/po/cs.po | 
+ | [da](/f17/language/da) | 118 | 118 | 100.0 | /mnt/stockage/packages/f17/xfce4-radio-plugin/po/da.po | 
+ | [de](/f17/language/de) | 118 | 118 | 100.0 | /mnt/stockage/packages/f17/xfce4-radio-plugin/po/de.po | 
+ | [en_GB](/f17/language/en_GB) | 65 | 65 | 100.0 | /mnt/stockage/packages/f17/xfce4-radio-plugin/po/en_GB.po | 
+ | [es](/f17/language/es) | 65 | 65 | 100.0 | /mnt/stockage/packages/f17/xfce4-radio-plugin/po/es.po | 
+ | [eu](/f17/language/eu) | 65 | 65 | 100.0 | /mnt/stockage/packages/f17/xfce4-radio-plugin/po/eu.po | 
+ | [fr](/f17/language/fr) | 65 | 65 | 100.0 | /mnt/stockage/packages/f17/xfce4-radio-plugin/po/fr.po | 
+ | [gl](/f17/language/gl) | 118 | 118 | 100.0 | /mnt/stockage/packages/f17/xfce4-radio-plugin/po/gl.po | 
+ | [hu](/f17/language/hu) | 65 | 65 | 100.0 | /mnt/stockage/packages/f17/xfce4-radio-plugin/po/hu.po | 
+ | [id](/f17/language/id) | 118 | 118 | 100.0 | /mnt/stockage/packages/f17/xfce4-radio-plugin/po/id.po | 
+ | [it](/f17/language/it) | 118 | 118 | 100.0 | /mnt/stockage/packages/f17/xfce4-radio-plugin/po/it.po | 
+ | [ja](/f17/language/ja) | 118 | 118 | 100.0 | /mnt/stockage/packages/f17/xfce4-radio-plugin/po/ja.po | 
+ | [lv](/f17/language/lv) | 65 | 65 | 100.0 | /mnt/stockage/packages/f17/xfce4-radio-plugin/po/lv.po | 
+ | [nl](/f17/language/nl) | 118 | 118 | 100.0 | /mnt/stockage/packages/f17/xfce4-radio-plugin/po/nl.po | 
+ | [pl](/f17/language/pl) | 52 | 52 | 100.0 | /mnt/stockage/packages/f17/xfce4-radio-plugin/po/pl.po | 
+ | [pt](/f17/language/pt) | 118 | 118 | 100.0 | /mnt/stockage/packages/f17/xfce4-radio-plugin/po/pt.po | 
+ | [pt_BR](/f17/language/pt_BR) | 118 | 118 | 100.0 | /mnt/stockage/packages/f17/xfce4-radio-plugin/po/pt_BR.po | 
+ | [sq](/f17/language/sq) | 56 | 56 | 100.0 | /mnt/stockage/packages/f17/xfce4-radio-plugin/po/sq.po | 
+ | [sv](/f17/language/sv) | 70 | 70 | 100.0 | /mnt/stockage/packages/f17/xfce4-radio-plugin/po/sv.po | 
+ | [tr](/f17/language/tr) | 56 | 56 | 100.0 | /mnt/stockage/packages/f17/xfce4-radio-plugin/po/tr.po | 
+ | [ug](/f17/language/ug) | 52 | 52 | 100.0 | /mnt/stockage/packages/f17/xfce4-radio-plugin/po/ug.po | 
+ | [uk](/f17/language/uk) | 118 | 118 | 100.0 | /mnt/stockage/packages/f17/xfce4-radio-plugin/po/uk.po | 
+ | [ur](/f17/language/ur) | 65 | 65 | 100.0 | /mnt/stockage/packages/f17/xfce4-radio-plugin/po/ur.po | 
+ | [ur_PK](/f17/language/ur_PK) | 65 | 65 | 100.0 | /mnt/stockage/packages/f17/xfce4-radio-plugin/po/ur_PK.po | 
+ | [zh_Hans](/f17/language/zh_Hans) | 65 | 65 | 100.0 | /mnt/stockage/packages/f17/xfce4-radio-plugin/po/zh_CN.po | 
+ | [zh_Hant](/f17/language/zh_Hant) | 52 | 52 | 100.0 | /mnt/stockage/packages/f17/xfce4-radio-plugin/po/zh_TW.po | 
+ | [el](/f17/language/el) | 116 | 118 | 98.3 | /mnt/stockage/packages/f17/xfce4-radio-plugin/po/el.po | 
+ | [ru](/f17/language/ru) | 116 | 118 | 98.3 | /mnt/stockage/packages/f17/xfce4-radio-plugin/po/ru.po | 
+ | [ar](/f17/language/ar) | 0 | 56 | 0.0 | /mnt/stockage/packages/f17/xfce4-radio-plugin/po/ar.po | 
 {.sortable}
 
 

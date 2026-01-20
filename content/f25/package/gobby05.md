@@ -18,14 +18,14 @@ The package gobby05 (version 0.5.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f25/language/de.md" >}}) | 922 | 1473 | 62.6 | /mnt/stockage/packages/f25/gobby05/po/de.po | 
- | [el]({{< ref "/f25/language/el.md" >}}) | 922 | 1473 | 62.6 | /mnt/stockage/packages/f25/gobby05/po/el_GR.po | 
- | [en_GB]({{< ref "/f25/language/en_GB.md" >}}) | 922 | 1473 | 62.6 | /mnt/stockage/packages/f25/gobby05/po/en_GB.po | 
- | [fr]({{< ref "/f25/language/fr.md" >}}) | 922 | 1473 | 62.6 | /mnt/stockage/packages/f25/gobby05/po/fr.po | 
- | [ja]({{< ref "/f25/language/ja.md" >}}) | 922 | 1473 | 62.6 | /mnt/stockage/packages/f25/gobby05/po/ja.po | 
- | [zh_Hant]({{< ref "/f25/language/zh_Hant.md" >}}) | 922 | 1473 | 62.6 | /mnt/stockage/packages/f25/gobby05/po/zh_TW.po | 
- | [pt_BR]({{< ref "/f25/language/pt_BR.md" >}}) | 625 | 1473 | 42.4 | /mnt/stockage/packages/f25/gobby05/po/pt_BR.po | 
- | [ca]({{< ref "/f25/language/ca.md" >}}) | 100 | 1473 | 6.8 | /mnt/stockage/packages/f25/gobby05/po/ca.po | 
+ | [de](/f25/language/de) | 922 | 1473 | 62.6 | /mnt/stockage/packages/f25/gobby05/po/de.po | 
+ | [el](/f25/language/el) | 922 | 1473 | 62.6 | /mnt/stockage/packages/f25/gobby05/po/el_GR.po | 
+ | [en_GB](/f25/language/en_GB) | 922 | 1473 | 62.6 | /mnt/stockage/packages/f25/gobby05/po/en_GB.po | 
+ | [fr](/f25/language/fr) | 922 | 1473 | 62.6 | /mnt/stockage/packages/f25/gobby05/po/fr.po | 
+ | [ja](/f25/language/ja) | 922 | 1473 | 62.6 | /mnt/stockage/packages/f25/gobby05/po/ja.po | 
+ | [zh_Hant](/f25/language/zh_Hant) | 922 | 1473 | 62.6 | /mnt/stockage/packages/f25/gobby05/po/zh_TW.po | 
+ | [pt_BR](/f25/language/pt_BR) | 625 | 1473 | 42.4 | /mnt/stockage/packages/f25/gobby05/po/pt_BR.po | 
+ | [ca](/f25/language/ca) | 100 | 1473 | 6.8 | /mnt/stockage/packages/f25/gobby05/po/ca.po | 
 {.sortable}
 
 

@@ -18,18 +18,18 @@ The package sugar-flip (version 4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [da]({{< ref "/f16/language/da.md" >}}) | 14 | 14 | 100.0 | /mnt/stockage/packages/f16/sugar-flip/po/da.po | 
- | [de]({{< ref "/f16/language/de.md" >}}) | 14 | 14 | 100.0 | /mnt/stockage/packages/f16/sugar-flip/po/de.po | 
- | [en]({{< ref "/f16/language/en.md" >}}) | 14 | 14 | 100.0 | /mnt/stockage/packages/f16/sugar-flip/po/en.po | 
- | [en_GB]({{< ref "/f16/language/en_GB.md" >}}) | 14 | 14 | 100.0 | /mnt/stockage/packages/f16/sugar-flip/po/en_GB.po | 
- | [en_US]({{< ref "/f16/language/en_US.md" >}}) | 14 | 14 | 100.0 | /mnt/stockage/packages/f16/sugar-flip/po/en_US.po | 
- | [es]({{< ref "/f16/language/es.md" >}}) | 14 | 14 | 100.0 | /mnt/stockage/packages/f16/sugar-flip/po/es.po | 
- | [hy]({{< ref "/f16/language/hy.md" >}}) | 14 | 14 | 100.0 | /mnt/stockage/packages/f16/sugar-flip/po/hy.po | 
- | [nl]({{< ref "/f16/language/nl.md" >}}) | 14 | 14 | 100.0 | /mnt/stockage/packages/f16/sugar-flip/po/nl.po | 
- | [pt]({{< ref "/f16/language/pt.md" >}}) | 14 | 14 | 100.0 | /mnt/stockage/packages/f16/sugar-flip/po/pt.po | 
- | [th]({{< ref "/f16/language/th.md" >}}) | 14 | 14 | 100.0 | /mnt/stockage/packages/f16/sugar-flip/po/th.po | 
- | [zh_Hans]({{< ref "/f16/language/zh_Hans.md" >}}) | 14 | 14 | 100.0 | /mnt/stockage/packages/f16/sugar-flip/po/zh_CN.po | 
- | [rw]({{< ref "/f16/language/rw.md" >}}) | 11 | 14 | 78.6 | /mnt/stockage/packages/f16/sugar-flip/po/rw.po | 
+ | [da](/f16/language/da) | 14 | 14 | 100.0 | /mnt/stockage/packages/f16/sugar-flip/po/da.po | 
+ | [de](/f16/language/de) | 14 | 14 | 100.0 | /mnt/stockage/packages/f16/sugar-flip/po/de.po | 
+ | [en](/f16/language/en) | 14 | 14 | 100.0 | /mnt/stockage/packages/f16/sugar-flip/po/en.po | 
+ | [en_GB](/f16/language/en_GB) | 14 | 14 | 100.0 | /mnt/stockage/packages/f16/sugar-flip/po/en_GB.po | 
+ | [en_US](/f16/language/en_US) | 14 | 14 | 100.0 | /mnt/stockage/packages/f16/sugar-flip/po/en_US.po | 
+ | [es](/f16/language/es) | 14 | 14 | 100.0 | /mnt/stockage/packages/f16/sugar-flip/po/es.po | 
+ | [hy](/f16/language/hy) | 14 | 14 | 100.0 | /mnt/stockage/packages/f16/sugar-flip/po/hy.po | 
+ | [nl](/f16/language/nl) | 14 | 14 | 100.0 | /mnt/stockage/packages/f16/sugar-flip/po/nl.po | 
+ | [pt](/f16/language/pt) | 14 | 14 | 100.0 | /mnt/stockage/packages/f16/sugar-flip/po/pt.po | 
+ | [th](/f16/language/th) | 14 | 14 | 100.0 | /mnt/stockage/packages/f16/sugar-flip/po/th.po | 
+ | [zh_Hans](/f16/language/zh_Hans) | 14 | 14 | 100.0 | /mnt/stockage/packages/f16/sugar-flip/po/zh_CN.po | 
+ | [rw](/f16/language/rw) | 11 | 14 | 78.6 | /mnt/stockage/packages/f16/sugar-flip/po/rw.po | 
 {.sortable}
 
 

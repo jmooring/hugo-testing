@@ -18,127 +18,127 @@ The package tuxpaint (version 0.9.29):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ja]({{< ref "/f36/language/ja.md" >}}) | 3761 | 3763 | 99.9 | /mnt/stockage/packages/f36/tuxpaint/src/po/ja.po | 
- | [ca]({{< ref "/f36/language/ca.md" >}}) | 3760 | 3763 | 99.9 | /mnt/stockage/packages/f36/tuxpaint/src/po/ca.po | 
- | [fr]({{< ref "/f36/language/fr.md" >}}) | 3760 | 3763 | 99.9 | /mnt/stockage/packages/f36/tuxpaint/src/po/fr.po | 
- | [ka]({{< ref "/f36/language/ka.md" >}}) | 3760 | 3763 | 99.9 | /mnt/stockage/packages/f36/tuxpaint/src/po/ka.po | 
- | [nl]({{< ref "/f36/language/nl.md" >}}) | 3760 | 3763 | 99.9 | /mnt/stockage/packages/f36/tuxpaint/src/po/nl.po | 
- | [pt]({{< ref "/f36/language/pt.md" >}}) | 3760 | 3763 | 99.9 | /mnt/stockage/packages/f36/tuxpaint/src/po/pt.po | 
- | [uk]({{< ref "/f36/language/uk.md" >}}) | 3760 | 3763 | 99.9 | /mnt/stockage/packages/f36/tuxpaint/src/po/uk.po | 
- | [nn]({{< ref "/f36/language/nn.md" >}}) | 3756 | 3763 | 99.8 | /mnt/stockage/packages/f36/tuxpaint/src/po/nn.po | 
- | [bg]({{< ref "/f36/language/bg.md" >}}) | 3327 | 3763 | 88.4 | /mnt/stockage/packages/f36/tuxpaint/src/po/bg.po | 
- | [ga]({{< ref "/f36/language/ga.md" >}}) | 2592 | 3763 | 68.9 | /mnt/stockage/packages/f36/tuxpaint/src/po/ga.po | 
- | [is]({{< ref "/f36/language/is.md" >}}) | 2397 | 3763 | 63.7 | /mnt/stockage/packages/f36/tuxpaint/src/po/is.po | 
- | [pa]({{< ref "/f36/language/pa.md" >}}) | 2229 | 3763 | 59.2 | /mnt/stockage/packages/f36/tuxpaint/src/po/pa.po | 
- | [ko]({{< ref "/f36/language/ko.md" >}}) | 2042 | 3763 | 54.3 | /mnt/stockage/packages/f36/tuxpaint/src/po/ko.po | 
- | [sk]({{< ref "/f36/language/sk.md" >}}) | 1855 | 3763 | 49.3 | /mnt/stockage/packages/f36/tuxpaint/src/po/sk.po | 
- | [sq]({{< ref "/f36/language/sq.md" >}}) | 1855 | 3763 | 49.3 | /mnt/stockage/packages/f36/tuxpaint/src/po/sq.po | 
- | [gu]({{< ref "/f36/language/gu.md" >}}) | 1687 | 3763 | 44.8 | /mnt/stockage/packages/f36/tuxpaint/src/po/gu.po | 
- | [gd]({{< ref "/f36/language/gd.md" >}}) | 1653 | 3763 | 43.9 | /mnt/stockage/packages/f36/tuxpaint/src/po/gd.po | 
- | [gl]({{< ref "/f36/language/gl.md" >}}) | 1653 | 3763 | 43.9 | /mnt/stockage/packages/f36/tuxpaint/src/po/gl.po | 
- | [nb_NO]({{< ref "/f36/language/nb_NO.md" >}}) | 1653 | 3763 | 43.9 | /mnt/stockage/packages/f36/tuxpaint/src/po/nb.po | 
- | [sc]({{< ref "/f36/language/sc.md" >}}) | 1545 | 3763 | 41.1 | /mnt/stockage/packages/f36/tuxpaint/src/po/sc.po | 
- | [eu]({{< ref "/f36/language/eu.md" >}}) | 1523 | 3763 | 40.5 | /mnt/stockage/packages/f36/tuxpaint/src/po/eu.po | 
- | [de]({{< ref "/f36/language/de.md" >}}) | 1521 | 3763 | 40.4 | /mnt/stockage/packages/f36/tuxpaint/src/po/de.po | 
- | [it]({{< ref "/f36/language/it.md" >}}) | 1521 | 3763 | 40.4 | /mnt/stockage/packages/f36/tuxpaint/src/po/it.po | 
- | [ca@valencia]({{< ref "/f36/language/ca@valencia.md" >}}) | 1520 | 3763 | 40.4 | /mnt/stockage/packages/f36/tuxpaint/src/po/ca@valencia.po | 
- | [an]({{< ref "/f36/language/an.md" >}}) | 1517 | 3763 | 40.3 | /mnt/stockage/packages/f36/tuxpaint/src/po/an.po | 
- | [da]({{< ref "/f36/language/da.md" >}}) | 1517 | 3763 | 40.3 | /mnt/stockage/packages/f36/tuxpaint/src/po/da.po | 
- | [el]({{< ref "/f36/language/el.md" >}}) | 1517 | 3763 | 40.3 | /mnt/stockage/packages/f36/tuxpaint/src/po/el.po | 
- | [es]({{< ref "/f36/language/es.md" >}}) | 1517 | 3763 | 40.3 | /mnt/stockage/packages/f36/tuxpaint/src/po/es.po | 
- | [ff]({{< ref "/f36/language/ff.md" >}}) | 1517 | 3763 | 40.3 | /mnt/stockage/packages/f36/tuxpaint/src/po/ff.po | 
- | [hr]({{< ref "/f36/language/hr.md" >}}) | 1517 | 3763 | 40.3 | /mnt/stockage/packages/f36/tuxpaint/src/po/hr.po | 
- | [id]({{< ref "/f36/language/id.md" >}}) | 1517 | 3763 | 40.3 | /mnt/stockage/packages/f36/tuxpaint/src/po/id.po | 
- | [kab]({{< ref "/f36/language/kab.md" >}}) | 1517 | 3763 | 40.3 | /mnt/stockage/packages/f36/tuxpaint/src/po/kab.po | 
- | [pl]({{< ref "/f36/language/pl.md" >}}) | 1517 | 3763 | 40.3 | /mnt/stockage/packages/f36/tuxpaint/src/po/pl.po | 
- | [pt_BR]({{< ref "/f36/language/pt_BR.md" >}}) | 1517 | 3763 | 40.3 | /mnt/stockage/packages/f36/tuxpaint/src/po/pt_BR.po | 
- | [ru]({{< ref "/f36/language/ru.md" >}}) | 1517 | 3763 | 40.3 | /mnt/stockage/packages/f36/tuxpaint/src/po/ru.po | 
- | [sl]({{< ref "/f36/language/sl.md" >}}) | 1517 | 3763 | 40.3 | /mnt/stockage/packages/f36/tuxpaint/src/po/sl.po | 
- | [son]({{< ref "/f36/language/son.md" >}}) | 1517 | 3763 | 40.3 | /mnt/stockage/packages/f36/tuxpaint/src/po/son.po | 
- | [sv]({{< ref "/f36/language/sv.md" >}}) | 1517 | 3763 | 40.3 | /mnt/stockage/packages/f36/tuxpaint/src/po/sv.po | 
- | [af]({{< ref "/f36/language/af.md" >}}) | 1507 | 3763 | 40.0 | /mnt/stockage/packages/f36/tuxpaint/src/po/af.po | 
- | [en_GB]({{< ref "/f36/language/en_GB.md" >}}) | 1448 | 3763 | 38.5 | /mnt/stockage/packages/f36/tuxpaint/src/po/en_GB.po | 
- | [zh_Hans]({{< ref "/f36/language/zh_Hans.md" >}}) | 1196 | 3763 | 31.8 | /mnt/stockage/packages/f36/tuxpaint/src/po/zh_CN.po | 
- | [hu]({{< ref "/f36/language/hu.md" >}}) | 1176 | 3763 | 31.3 | /mnt/stockage/packages/f36/tuxpaint/src/po/hu.po | 
- | [am]({{< ref "/f36/language/am.md" >}}) | 1174 | 3763 | 31.2 | /mnt/stockage/packages/f36/tuxpaint/src/po/am.po | 
- | [as]({{< ref "/f36/language/as.md" >}}) | 1174 | 3763 | 31.2 | /mnt/stockage/packages/f36/tuxpaint/src/po/as.po | 
- | [be]({{< ref "/f36/language/be.md" >}}) | 1174 | 3763 | 31.2 | /mnt/stockage/packages/f36/tuxpaint/src/po/be.po | 
- | [en_AU]({{< ref "/f36/language/en_AU.md" >}}) | 1174 | 3763 | 31.2 | /mnt/stockage/packages/f36/tuxpaint/src/po/en_AU.po | 
- | [en_CA]({{< ref "/f36/language/en_CA.md" >}}) | 1174 | 3763 | 31.2 | /mnt/stockage/packages/f36/tuxpaint/src/po/en_CA.po | 
- | [fi]({{< ref "/f36/language/fi.md" >}}) | 1174 | 3763 | 31.2 | /mnt/stockage/packages/f36/tuxpaint/src/po/fi.po | 
- | [hi]({{< ref "/f36/language/hi.md" >}}) | 1174 | 3763 | 31.2 | /mnt/stockage/packages/f36/tuxpaint/src/po/hi.po | 
- | [hy]({{< ref "/f36/language/hy.md" >}}) | 1174 | 3763 | 31.2 | /mnt/stockage/packages/f36/tuxpaint/src/po/hy.po | 
- | [kn]({{< ref "/f36/language/kn.md" >}}) | 1174 | 3763 | 31.2 | /mnt/stockage/packages/f36/tuxpaint/src/po/kn.po | 
- | [lv]({{< ref "/f36/language/lv.md" >}}) | 1174 | 3763 | 31.2 | /mnt/stockage/packages/f36/tuxpaint/src/po/lv.po | 
- | [ne]({{< ref "/f36/language/ne.md" >}}) | 1174 | 3763 | 31.2 | /mnt/stockage/packages/f36/tuxpaint/src/po/ne.po | 
- | [sat]({{< ref "/f36/language/sat.md" >}}) | 1174 | 3763 | 31.2 | /mnt/stockage/packages/f36/tuxpaint/src/po/sat.po | 
- | [vec]({{< ref "/f36/language/vec.md" >}}) | 1174 | 3763 | 31.2 | /mnt/stockage/packages/f36/tuxpaint/src/po/vec.po | 
- | [wo]({{< ref "/f36/language/wo.md" >}}) | 1174 | 3763 | 31.2 | /mnt/stockage/packages/f36/tuxpaint/src/po/wo.po | 
- | [zh_Hant]({{< ref "/f36/language/zh_Hant.md" >}}) | 1174 | 3763 | 31.2 | /mnt/stockage/packages/f36/tuxpaint/src/po/zh_TW.po | 
- | [ml]({{< ref "/f36/language/ml.md" >}}) | 1170 | 3763 | 31.1 | /mnt/stockage/packages/f36/tuxpaint/src/po/ml.po | 
- | [sw]({{< ref "/f36/language/sw.md" >}}) | 1146 | 3763 | 30.5 | /mnt/stockage/packages/f36/tuxpaint/src/po/sw.po | 
- | [iu]({{< ref "/f36/language/iu.md" >}}) | 1144 | 3763 | 30.4 | /mnt/stockage/packages/f36/tuxpaint/src/po/iu.po | 
- | [bn]({{< ref "/f36/language/bn.md" >}}) | 1137 | 3763 | 30.2 | /mnt/stockage/packages/f36/tuxpaint/src/po/bn.po | 
- | [ach]({{< ref "/f36/language/ach.md" >}}) | 1120 | 3763 | 29.8 | /mnt/stockage/packages/f36/tuxpaint/src/po/ach.po | 
- | [ak]({{< ref "/f36/language/ak.md" >}}) | 1120 | 3763 | 29.8 | /mnt/stockage/packages/f36/tuxpaint/src/po/ak.po | 
- | [ast]({{< ref "/f36/language/ast.md" >}}) | 1120 | 3763 | 29.8 | /mnt/stockage/packages/f36/tuxpaint/src/po/ast.po | 
- | [bm]({{< ref "/f36/language/bm.md" >}}) | 1120 | 3763 | 29.8 | /mnt/stockage/packages/f36/tuxpaint/src/po/bm.po | 
- | [brx]({{< ref "/f36/language/brx.md" >}}) | 1120 | 3763 | 29.8 | /mnt/stockage/packages/f36/tuxpaint/src/po/brx.po | 
- | [doi]({{< ref "/f36/language/doi.md" >}}) | 1120 | 3763 | 29.8 | /mnt/stockage/packages/f36/tuxpaint/src/po/doi.po | 
- | [en_US]({{< ref "/f36/language/en_US.md" >}}) | 1120 | 3763 | 29.8 | /mnt/stockage/packages/f36/tuxpaint/src/po/mai.po | 
- | [kok]({{< ref "/f36/language/kok.md" >}}) | 1120 | 3763 | 29.8 | /mnt/stockage/packages/f36/tuxpaint/src/po/kok.po | 
- | [ks]({{< ref "/f36/language/ks.md" >}}) | 1120 | 3763 | 29.8 | /mnt/stockage/packages/f36/tuxpaint/src/po/ks.po | 
- | [lg]({{< ref "/f36/language/lg.md" >}}) | 1120 | 3763 | 29.8 | /mnt/stockage/packages/f36/tuxpaint/src/po/lg.po | 
- | [mni]({{< ref "/f36/language/mni.md" >}}) | 1120 | 3763 | 29.8 | /mnt/stockage/packages/f36/tuxpaint/src/po/mni.po | 
- | [mr]({{< ref "/f36/language/mr.md" >}}) | 1120 | 3763 | 29.8 | /mnt/stockage/packages/f36/tuxpaint/src/po/mr.po | 
- | [nso]({{< ref "/f36/language/nso.md" >}}) | 1120 | 3763 | 29.8 | /mnt/stockage/packages/f36/tuxpaint/src/po/nso.po | 
- | [or]({{< ref "/f36/language/or.md" >}}) | 1120 | 3763 | 29.8 | /mnt/stockage/packages/f36/tuxpaint/src/po/or.po | 
- | [sa]({{< ref "/f36/language/sa.md" >}}) | 1120 | 3763 | 29.8 | /mnt/stockage/packages/f36/tuxpaint/src/po/sa.po | 
- | [sd]({{< ref "/f36/language/sd.md" >}}) | 1120 | 3763 | 29.8 | /mnt/stockage/packages/f36/tuxpaint/src/po/sd.po | 
- | [sr]({{< ref "/f36/language/sr.md" >}}) | 2240 | 7526 | 29.8 | /mnt/stockage/packages/f36/tuxpaint/src/po/sr@latin.po/mnt/stockage/packages/f36/tuxpaint/src/po/sr.po | 
- | [tr]({{< ref "/f36/language/tr.md" >}}) | 1120 | 3763 | 29.8 | /mnt/stockage/packages/f36/tuxpaint/src/po/tr.po | 
- | [ur]({{< ref "/f36/language/ur.md" >}}) | 1120 | 3763 | 29.8 | /mnt/stockage/packages/f36/tuxpaint/src/po/ur.po | 
- | [zu]({{< ref "/f36/language/zu.md" >}}) | 1120 | 3763 | 29.8 | /mnt/stockage/packages/f36/tuxpaint/src/po/zu.po | 
- | [te]({{< ref "/f36/language/te.md" >}}) | 1114 | 3763 | 29.6 | /mnt/stockage/packages/f36/tuxpaint/src/po/te.po | 
- | [cgg]({{< ref "/f36/language/cgg.md" >}}) | 1106 | 3763 | 29.4 | /mnt/stockage/packages/f36/tuxpaint/src/po/cgg.po | 
- | [eo]({{< ref "/f36/language/eo.md" >}}) | 1096 | 3763 | 29.1 | /mnt/stockage/packages/f36/tuxpaint/src/po/eo.po | 
- | [cs]({{< ref "/f36/language/cs.md" >}}) | 1074 | 3763 | 28.5 | /mnt/stockage/packages/f36/tuxpaint/src/po/cs.po | 
- | [vi]({{< ref "/f36/language/vi.md" >}}) | 1074 | 3763 | 28.5 | /mnt/stockage/packages/f36/tuxpaint/src/po/vi.po | 
- | [lb]({{< ref "/f36/language/lb.md" >}}) | 1052 | 3763 | 28.0 | /mnt/stockage/packages/f36/tuxpaint/src/po/lb.po | 
- | [ro]({{< ref "/f36/language/ro.md" >}}) | 1041 | 3763 | 27.7 | /mnt/stockage/packages/f36/tuxpaint/src/po/ro.po | 
- | [si]({{< ref "/f36/language/si.md" >}}) | 1010 | 3763 | 26.8 | /mnt/stockage/packages/f36/tuxpaint/src/po/si.po | 
- | [ms]({{< ref "/f36/language/ms.md" >}}) | 939 | 3763 | 25.0 | /mnt/stockage/packages/f36/tuxpaint/src/po/ms.po | 
- | [et]({{< ref "/f36/language/et.md" >}}) | 938 | 3763 | 24.9 | /mnt/stockage/packages/f36/tuxpaint/src/po/et.po | 
- | [th]({{< ref "/f36/language/th.md" >}}) | 938 | 3763 | 24.9 | /mnt/stockage/packages/f36/tuxpaint/src/po/th.po | 
- | [error]({{< ref "/f36/language/error.md" >}}) | 7327 | 30104 | 24.3 | /mnt/stockage/packages/f36/tuxpaint/src/po/sat@olchiki.po/mnt/stockage/packages/f36/tuxpaint/src/po/kok@roman.po/mnt/stockage/packages/f36/tuxpaint/src/po/shs.po/mnt/stockage/packages/f36/tuxpaint/src/po/sd@devanagari.po/mnt/stockage/packages/f36/tuxpaint/src/po/ks@devanagari.po/mnt/stockage/packages/f36/tuxpaint/src/po/mni@meiteimayek.po/mnt/stockage/packages/f36/tuxpaint/src/po/zam.po/mnt/stockage/packages/f36/tuxpaint/src/po/gos.po | 
- | [he]({{< ref "/f36/language/he.md" >}}) | 883 | 3763 | 23.5 | /mnt/stockage/packages/f36/tuxpaint/src/po/he.po | 
- | [ta]({{< ref "/f36/language/ta.md" >}}) | 828 | 3763 | 22.0 | /mnt/stockage/packages/f36/tuxpaint/src/po/ta.po | 
- | [ar]({{< ref "/f36/language/ar.md" >}}) | 823 | 3763 | 21.9 | /mnt/stockage/packages/f36/tuxpaint/src/po/ar.po | 
- | [fa]({{< ref "/f36/language/fa.md" >}}) | 714 | 3763 | 19.0 | /mnt/stockage/packages/f36/tuxpaint/src/po/fa.po | 
- | [en_ZA]({{< ref "/f36/language/en_ZA.md" >}}) | 570 | 3763 | 15.1 | /mnt/stockage/packages/f36/tuxpaint/src/po/en_ZA.po | 
- | [fo]({{< ref "/f36/language/fo.md" >}}) | 512 | 3763 | 13.6 | /mnt/stockage/packages/f36/tuxpaint/src/po/fo.po | 
- | [km]({{< ref "/f36/language/km.md" >}}) | 512 | 3763 | 13.6 | /mnt/stockage/packages/f36/tuxpaint/src/po/km.po | 
- | [az]({{< ref "/f36/language/az.md" >}}) | 506 | 3763 | 13.4 | /mnt/stockage/packages/f36/tuxpaint/src/po/az.po | 
- | [ku]({{< ref "/f36/language/ku.md" >}}) | 486 | 3763 | 12.9 | /mnt/stockage/packages/f36/tuxpaint/src/po/ku.po | 
- | [es_MX]({{< ref "/f36/language/es_MX.md" >}}) | 455 | 3763 | 12.1 | /mnt/stockage/packages/f36/tuxpaint/src/po/es_MX.po | 
- | [lt]({{< ref "/f36/language/lt.md" >}}) | 393 | 3763 | 10.4 | /mnt/stockage/packages/f36/tuxpaint/src/po/lt.po | 
- | [wa]({{< ref "/f36/language/wa.md" >}}) | 357 | 3763 | 9.5 | /mnt/stockage/packages/f36/tuxpaint/src/po/wa.po | 
- | [nr]({{< ref "/f36/language/nr.md" >}}) | 353 | 3763 | 9.4 | /mnt/stockage/packages/f36/tuxpaint/src/po/nr.po | 
- | [tw]({{< ref "/f36/language/tw.md" >}}) | 353 | 3763 | 9.4 | /mnt/stockage/packages/f36/tuxpaint/src/po/tw.po | 
- | [ve]({{< ref "/f36/language/ve.md" >}}) | 353 | 3763 | 9.4 | /mnt/stockage/packages/f36/tuxpaint/src/po/ve.po | 
- | [bs]({{< ref "/f36/language/bs.md" >}}) | 352 | 3763 | 9.4 | /mnt/stockage/packages/f36/tuxpaint/src/po/bs.po | 
- | [xh]({{< ref "/f36/language/xh.md" >}}) | 342 | 3763 | 9.1 | /mnt/stockage/packages/f36/tuxpaint/src/po/xh.po | 
- | [su]({{< ref "/f36/language/su.md" >}}) | 322 | 3763 | 8.6 | /mnt/stockage/packages/f36/tuxpaint/src/po/su.po | 
- | [mk]({{< ref "/f36/language/mk.md" >}}) | 309 | 3763 | 8.2 | /mnt/stockage/packages/f36/tuxpaint/src/po/mk.po | 
- | [br]({{< ref "/f36/language/br.md" >}}) | 239 | 3763 | 6.4 | /mnt/stockage/packages/f36/tuxpaint/src/po/br.po | 
- | [cy]({{< ref "/f36/language/cy.md" >}}) | 227 | 3763 | 6.0 | /mnt/stockage/packages/f36/tuxpaint/src/po/cy.po | 
- | [oc]({{< ref "/f36/language/oc.md" >}}) | 206 | 3763 | 5.5 | /mnt/stockage/packages/f36/tuxpaint/src/po/oc.po | 
- | [tl]({{< ref "/f36/language/tl.md" >}}) | 186 | 3763 | 4.9 | /mnt/stockage/packages/f36/tuxpaint/src/po/tl.po | 
- | [oj]({{< ref "/f36/language/oj.md" >}}) | 176 | 3763 | 4.7 | /mnt/stockage/packages/f36/tuxpaint/src/po/oj.po | 
- | [bo]({{< ref "/f36/language/bo.md" >}}) | 61 | 3763 | 1.6 | /mnt/stockage/packages/f36/tuxpaint/src/po/bo.po | 
- | [tlh]({{< ref "/f36/language/tlh.md" >}}) | 34 | 3763 | 0.9 | /mnt/stockage/packages/f36/tuxpaint/src/po/tlh.po | 
- | [rw]({{< ref "/f36/language/rw.md" >}}) | 22 | 3763 | 0.6 | /mnt/stockage/packages/f36/tuxpaint/src/po/rw.po | 
- | [mn]({{< ref "/f36/language/mn.md" >}}) | 0 | 3763 | 0.0 | /mnt/stockage/packages/f36/tuxpaint/src/po/mn.po | 
+ | [ja](/f36/language/ja) | 3761 | 3763 | 99.9 | /mnt/stockage/packages/f36/tuxpaint/src/po/ja.po | 
+ | [ca](/f36/language/ca) | 3760 | 3763 | 99.9 | /mnt/stockage/packages/f36/tuxpaint/src/po/ca.po | 
+ | [fr](/f36/language/fr) | 3760 | 3763 | 99.9 | /mnt/stockage/packages/f36/tuxpaint/src/po/fr.po | 
+ | [ka](/f36/language/ka) | 3760 | 3763 | 99.9 | /mnt/stockage/packages/f36/tuxpaint/src/po/ka.po | 
+ | [nl](/f36/language/nl) | 3760 | 3763 | 99.9 | /mnt/stockage/packages/f36/tuxpaint/src/po/nl.po | 
+ | [pt](/f36/language/pt) | 3760 | 3763 | 99.9 | /mnt/stockage/packages/f36/tuxpaint/src/po/pt.po | 
+ | [uk](/f36/language/uk) | 3760 | 3763 | 99.9 | /mnt/stockage/packages/f36/tuxpaint/src/po/uk.po | 
+ | [nn](/f36/language/nn) | 3756 | 3763 | 99.8 | /mnt/stockage/packages/f36/tuxpaint/src/po/nn.po | 
+ | [bg](/f36/language/bg) | 3327 | 3763 | 88.4 | /mnt/stockage/packages/f36/tuxpaint/src/po/bg.po | 
+ | [ga](/f36/language/ga) | 2592 | 3763 | 68.9 | /mnt/stockage/packages/f36/tuxpaint/src/po/ga.po | 
+ | [is](/f36/language/is) | 2397 | 3763 | 63.7 | /mnt/stockage/packages/f36/tuxpaint/src/po/is.po | 
+ | [pa](/f36/language/pa) | 2229 | 3763 | 59.2 | /mnt/stockage/packages/f36/tuxpaint/src/po/pa.po | 
+ | [ko](/f36/language/ko) | 2042 | 3763 | 54.3 | /mnt/stockage/packages/f36/tuxpaint/src/po/ko.po | 
+ | [sk](/f36/language/sk) | 1855 | 3763 | 49.3 | /mnt/stockage/packages/f36/tuxpaint/src/po/sk.po | 
+ | [sq](/f36/language/sq) | 1855 | 3763 | 49.3 | /mnt/stockage/packages/f36/tuxpaint/src/po/sq.po | 
+ | [gu](/f36/language/gu) | 1687 | 3763 | 44.8 | /mnt/stockage/packages/f36/tuxpaint/src/po/gu.po | 
+ | [gd](/f36/language/gd) | 1653 | 3763 | 43.9 | /mnt/stockage/packages/f36/tuxpaint/src/po/gd.po | 
+ | [gl](/f36/language/gl) | 1653 | 3763 | 43.9 | /mnt/stockage/packages/f36/tuxpaint/src/po/gl.po | 
+ | [nb_NO](/f36/language/nb_NO) | 1653 | 3763 | 43.9 | /mnt/stockage/packages/f36/tuxpaint/src/po/nb.po | 
+ | [sc](/f36/language/sc) | 1545 | 3763 | 41.1 | /mnt/stockage/packages/f36/tuxpaint/src/po/sc.po | 
+ | [eu](/f36/language/eu) | 1523 | 3763 | 40.5 | /mnt/stockage/packages/f36/tuxpaint/src/po/eu.po | 
+ | [de](/f36/language/de) | 1521 | 3763 | 40.4 | /mnt/stockage/packages/f36/tuxpaint/src/po/de.po | 
+ | [it](/f36/language/it) | 1521 | 3763 | 40.4 | /mnt/stockage/packages/f36/tuxpaint/src/po/it.po | 
+ | [ca@valencia](/f36/language/ca@valencia) | 1520 | 3763 | 40.4 | /mnt/stockage/packages/f36/tuxpaint/src/po/ca@valencia.po | 
+ | [an](/f36/language/an) | 1517 | 3763 | 40.3 | /mnt/stockage/packages/f36/tuxpaint/src/po/an.po | 
+ | [da](/f36/language/da) | 1517 | 3763 | 40.3 | /mnt/stockage/packages/f36/tuxpaint/src/po/da.po | 
+ | [el](/f36/language/el) | 1517 | 3763 | 40.3 | /mnt/stockage/packages/f36/tuxpaint/src/po/el.po | 
+ | [es](/f36/language/es) | 1517 | 3763 | 40.3 | /mnt/stockage/packages/f36/tuxpaint/src/po/es.po | 
+ | [ff](/f36/language/ff) | 1517 | 3763 | 40.3 | /mnt/stockage/packages/f36/tuxpaint/src/po/ff.po | 
+ | [hr](/f36/language/hr) | 1517 | 3763 | 40.3 | /mnt/stockage/packages/f36/tuxpaint/src/po/hr.po | 
+ | [id](/f36/language/id) | 1517 | 3763 | 40.3 | /mnt/stockage/packages/f36/tuxpaint/src/po/id.po | 
+ | [kab](/f36/language/kab) | 1517 | 3763 | 40.3 | /mnt/stockage/packages/f36/tuxpaint/src/po/kab.po | 
+ | [pl](/f36/language/pl) | 1517 | 3763 | 40.3 | /mnt/stockage/packages/f36/tuxpaint/src/po/pl.po | 
+ | [pt_BR](/f36/language/pt_BR) | 1517 | 3763 | 40.3 | /mnt/stockage/packages/f36/tuxpaint/src/po/pt_BR.po | 
+ | [ru](/f36/language/ru) | 1517 | 3763 | 40.3 | /mnt/stockage/packages/f36/tuxpaint/src/po/ru.po | 
+ | [sl](/f36/language/sl) | 1517 | 3763 | 40.3 | /mnt/stockage/packages/f36/tuxpaint/src/po/sl.po | 
+ | [son](/f36/language/son) | 1517 | 3763 | 40.3 | /mnt/stockage/packages/f36/tuxpaint/src/po/son.po | 
+ | [sv](/f36/language/sv) | 1517 | 3763 | 40.3 | /mnt/stockage/packages/f36/tuxpaint/src/po/sv.po | 
+ | [af](/f36/language/af) | 1507 | 3763 | 40.0 | /mnt/stockage/packages/f36/tuxpaint/src/po/af.po | 
+ | [en_GB](/f36/language/en_GB) | 1448 | 3763 | 38.5 | /mnt/stockage/packages/f36/tuxpaint/src/po/en_GB.po | 
+ | [zh_Hans](/f36/language/zh_Hans) | 1196 | 3763 | 31.8 | /mnt/stockage/packages/f36/tuxpaint/src/po/zh_CN.po | 
+ | [hu](/f36/language/hu) | 1176 | 3763 | 31.3 | /mnt/stockage/packages/f36/tuxpaint/src/po/hu.po | 
+ | [am](/f36/language/am) | 1174 | 3763 | 31.2 | /mnt/stockage/packages/f36/tuxpaint/src/po/am.po | 
+ | [as](/f36/language/as) | 1174 | 3763 | 31.2 | /mnt/stockage/packages/f36/tuxpaint/src/po/as.po | 
+ | [be](/f36/language/be) | 1174 | 3763 | 31.2 | /mnt/stockage/packages/f36/tuxpaint/src/po/be.po | 
+ | [en_AU](/f36/language/en_AU) | 1174 | 3763 | 31.2 | /mnt/stockage/packages/f36/tuxpaint/src/po/en_AU.po | 
+ | [en_CA](/f36/language/en_CA) | 1174 | 3763 | 31.2 | /mnt/stockage/packages/f36/tuxpaint/src/po/en_CA.po | 
+ | [fi](/f36/language/fi) | 1174 | 3763 | 31.2 | /mnt/stockage/packages/f36/tuxpaint/src/po/fi.po | 
+ | [hi](/f36/language/hi) | 1174 | 3763 | 31.2 | /mnt/stockage/packages/f36/tuxpaint/src/po/hi.po | 
+ | [hy](/f36/language/hy) | 1174 | 3763 | 31.2 | /mnt/stockage/packages/f36/tuxpaint/src/po/hy.po | 
+ | [kn](/f36/language/kn) | 1174 | 3763 | 31.2 | /mnt/stockage/packages/f36/tuxpaint/src/po/kn.po | 
+ | [lv](/f36/language/lv) | 1174 | 3763 | 31.2 | /mnt/stockage/packages/f36/tuxpaint/src/po/lv.po | 
+ | [ne](/f36/language/ne) | 1174 | 3763 | 31.2 | /mnt/stockage/packages/f36/tuxpaint/src/po/ne.po | 
+ | [sat](/f36/language/sat) | 1174 | 3763 | 31.2 | /mnt/stockage/packages/f36/tuxpaint/src/po/sat.po | 
+ | [vec](/f36/language/vec) | 1174 | 3763 | 31.2 | /mnt/stockage/packages/f36/tuxpaint/src/po/vec.po | 
+ | [wo](/f36/language/wo) | 1174 | 3763 | 31.2 | /mnt/stockage/packages/f36/tuxpaint/src/po/wo.po | 
+ | [zh_Hant](/f36/language/zh_Hant) | 1174 | 3763 | 31.2 | /mnt/stockage/packages/f36/tuxpaint/src/po/zh_TW.po | 
+ | [ml](/f36/language/ml) | 1170 | 3763 | 31.1 | /mnt/stockage/packages/f36/tuxpaint/src/po/ml.po | 
+ | [sw](/f36/language/sw) | 1146 | 3763 | 30.5 | /mnt/stockage/packages/f36/tuxpaint/src/po/sw.po | 
+ | [iu](/f36/language/iu) | 1144 | 3763 | 30.4 | /mnt/stockage/packages/f36/tuxpaint/src/po/iu.po | 
+ | [bn](/f36/language/bn) | 1137 | 3763 | 30.2 | /mnt/stockage/packages/f36/tuxpaint/src/po/bn.po | 
+ | [ach](/f36/language/ach) | 1120 | 3763 | 29.8 | /mnt/stockage/packages/f36/tuxpaint/src/po/ach.po | 
+ | [ak](/f36/language/ak) | 1120 | 3763 | 29.8 | /mnt/stockage/packages/f36/tuxpaint/src/po/ak.po | 
+ | [ast](/f36/language/ast) | 1120 | 3763 | 29.8 | /mnt/stockage/packages/f36/tuxpaint/src/po/ast.po | 
+ | [bm](/f36/language/bm) | 1120 | 3763 | 29.8 | /mnt/stockage/packages/f36/tuxpaint/src/po/bm.po | 
+ | [brx](/f36/language/brx) | 1120 | 3763 | 29.8 | /mnt/stockage/packages/f36/tuxpaint/src/po/brx.po | 
+ | [doi](/f36/language/doi) | 1120 | 3763 | 29.8 | /mnt/stockage/packages/f36/tuxpaint/src/po/doi.po | 
+ | [en_US](/f36/language/en_US) | 1120 | 3763 | 29.8 | /mnt/stockage/packages/f36/tuxpaint/src/po/mai.po | 
+ | [kok](/f36/language/kok) | 1120 | 3763 | 29.8 | /mnt/stockage/packages/f36/tuxpaint/src/po/kok.po | 
+ | [ks](/f36/language/ks) | 1120 | 3763 | 29.8 | /mnt/stockage/packages/f36/tuxpaint/src/po/ks.po | 
+ | [lg](/f36/language/lg) | 1120 | 3763 | 29.8 | /mnt/stockage/packages/f36/tuxpaint/src/po/lg.po | 
+ | [mni](/f36/language/mni) | 1120 | 3763 | 29.8 | /mnt/stockage/packages/f36/tuxpaint/src/po/mni.po | 
+ | [mr](/f36/language/mr) | 1120 | 3763 | 29.8 | /mnt/stockage/packages/f36/tuxpaint/src/po/mr.po | 
+ | [nso](/f36/language/nso) | 1120 | 3763 | 29.8 | /mnt/stockage/packages/f36/tuxpaint/src/po/nso.po | 
+ | [or](/f36/language/or) | 1120 | 3763 | 29.8 | /mnt/stockage/packages/f36/tuxpaint/src/po/or.po | 
+ | [sa](/f36/language/sa) | 1120 | 3763 | 29.8 | /mnt/stockage/packages/f36/tuxpaint/src/po/sa.po | 
+ | [sd](/f36/language/sd) | 1120 | 3763 | 29.8 | /mnt/stockage/packages/f36/tuxpaint/src/po/sd.po | 
+ | [sr](/f36/language/sr) | 2240 | 7526 | 29.8 | /mnt/stockage/packages/f36/tuxpaint/src/po/sr@latin.po/mnt/stockage/packages/f36/tuxpaint/src/po/sr.po | 
+ | [tr](/f36/language/tr) | 1120 | 3763 | 29.8 | /mnt/stockage/packages/f36/tuxpaint/src/po/tr.po | 
+ | [ur](/f36/language/ur) | 1120 | 3763 | 29.8 | /mnt/stockage/packages/f36/tuxpaint/src/po/ur.po | 
+ | [zu](/f36/language/zu) | 1120 | 3763 | 29.8 | /mnt/stockage/packages/f36/tuxpaint/src/po/zu.po | 
+ | [te](/f36/language/te) | 1114 | 3763 | 29.6 | /mnt/stockage/packages/f36/tuxpaint/src/po/te.po | 
+ | [cgg](/f36/language/cgg) | 1106 | 3763 | 29.4 | /mnt/stockage/packages/f36/tuxpaint/src/po/cgg.po | 
+ | [eo](/f36/language/eo) | 1096 | 3763 | 29.1 | /mnt/stockage/packages/f36/tuxpaint/src/po/eo.po | 
+ | [cs](/f36/language/cs) | 1074 | 3763 | 28.5 | /mnt/stockage/packages/f36/tuxpaint/src/po/cs.po | 
+ | [vi](/f36/language/vi) | 1074 | 3763 | 28.5 | /mnt/stockage/packages/f36/tuxpaint/src/po/vi.po | 
+ | [lb](/f36/language/lb) | 1052 | 3763 | 28.0 | /mnt/stockage/packages/f36/tuxpaint/src/po/lb.po | 
+ | [ro](/f36/language/ro) | 1041 | 3763 | 27.7 | /mnt/stockage/packages/f36/tuxpaint/src/po/ro.po | 
+ | [si](/f36/language/si) | 1010 | 3763 | 26.8 | /mnt/stockage/packages/f36/tuxpaint/src/po/si.po | 
+ | [ms](/f36/language/ms) | 939 | 3763 | 25.0 | /mnt/stockage/packages/f36/tuxpaint/src/po/ms.po | 
+ | [et](/f36/language/et) | 938 | 3763 | 24.9 | /mnt/stockage/packages/f36/tuxpaint/src/po/et.po | 
+ | [th](/f36/language/th) | 938 | 3763 | 24.9 | /mnt/stockage/packages/f36/tuxpaint/src/po/th.po | 
+ | [error](/f36/language/error) | 7327 | 30104 | 24.3 | /mnt/stockage/packages/f36/tuxpaint/src/po/sat@olchiki.po/mnt/stockage/packages/f36/tuxpaint/src/po/kok@roman.po/mnt/stockage/packages/f36/tuxpaint/src/po/shs.po/mnt/stockage/packages/f36/tuxpaint/src/po/sd@devanagari.po/mnt/stockage/packages/f36/tuxpaint/src/po/ks@devanagari.po/mnt/stockage/packages/f36/tuxpaint/src/po/mni@meiteimayek.po/mnt/stockage/packages/f36/tuxpaint/src/po/zam.po/mnt/stockage/packages/f36/tuxpaint/src/po/gos.po | 
+ | [he](/f36/language/he) | 883 | 3763 | 23.5 | /mnt/stockage/packages/f36/tuxpaint/src/po/he.po | 
+ | [ta](/f36/language/ta) | 828 | 3763 | 22.0 | /mnt/stockage/packages/f36/tuxpaint/src/po/ta.po | 
+ | [ar](/f36/language/ar) | 823 | 3763 | 21.9 | /mnt/stockage/packages/f36/tuxpaint/src/po/ar.po | 
+ | [fa](/f36/language/fa) | 714 | 3763 | 19.0 | /mnt/stockage/packages/f36/tuxpaint/src/po/fa.po | 
+ | [en_ZA](/f36/language/en_ZA) | 570 | 3763 | 15.1 | /mnt/stockage/packages/f36/tuxpaint/src/po/en_ZA.po | 
+ | [fo](/f36/language/fo) | 512 | 3763 | 13.6 | /mnt/stockage/packages/f36/tuxpaint/src/po/fo.po | 
+ | [km](/f36/language/km) | 512 | 3763 | 13.6 | /mnt/stockage/packages/f36/tuxpaint/src/po/km.po | 
+ | [az](/f36/language/az) | 506 | 3763 | 13.4 | /mnt/stockage/packages/f36/tuxpaint/src/po/az.po | 
+ | [ku](/f36/language/ku) | 486 | 3763 | 12.9 | /mnt/stockage/packages/f36/tuxpaint/src/po/ku.po | 
+ | [es_MX](/f36/language/es_MX) | 455 | 3763 | 12.1 | /mnt/stockage/packages/f36/tuxpaint/src/po/es_MX.po | 
+ | [lt](/f36/language/lt) | 393 | 3763 | 10.4 | /mnt/stockage/packages/f36/tuxpaint/src/po/lt.po | 
+ | [wa](/f36/language/wa) | 357 | 3763 | 9.5 | /mnt/stockage/packages/f36/tuxpaint/src/po/wa.po | 
+ | [nr](/f36/language/nr) | 353 | 3763 | 9.4 | /mnt/stockage/packages/f36/tuxpaint/src/po/nr.po | 
+ | [tw](/f36/language/tw) | 353 | 3763 | 9.4 | /mnt/stockage/packages/f36/tuxpaint/src/po/tw.po | 
+ | [ve](/f36/language/ve) | 353 | 3763 | 9.4 | /mnt/stockage/packages/f36/tuxpaint/src/po/ve.po | 
+ | [bs](/f36/language/bs) | 352 | 3763 | 9.4 | /mnt/stockage/packages/f36/tuxpaint/src/po/bs.po | 
+ | [xh](/f36/language/xh) | 342 | 3763 | 9.1 | /mnt/stockage/packages/f36/tuxpaint/src/po/xh.po | 
+ | [su](/f36/language/su) | 322 | 3763 | 8.6 | /mnt/stockage/packages/f36/tuxpaint/src/po/su.po | 
+ | [mk](/f36/language/mk) | 309 | 3763 | 8.2 | /mnt/stockage/packages/f36/tuxpaint/src/po/mk.po | 
+ | [br](/f36/language/br) | 239 | 3763 | 6.4 | /mnt/stockage/packages/f36/tuxpaint/src/po/br.po | 
+ | [cy](/f36/language/cy) | 227 | 3763 | 6.0 | /mnt/stockage/packages/f36/tuxpaint/src/po/cy.po | 
+ | [oc](/f36/language/oc) | 206 | 3763 | 5.5 | /mnt/stockage/packages/f36/tuxpaint/src/po/oc.po | 
+ | [tl](/f36/language/tl) | 186 | 3763 | 4.9 | /mnt/stockage/packages/f36/tuxpaint/src/po/tl.po | 
+ | [oj](/f36/language/oj) | 176 | 3763 | 4.7 | /mnt/stockage/packages/f36/tuxpaint/src/po/oj.po | 
+ | [bo](/f36/language/bo) | 61 | 3763 | 1.6 | /mnt/stockage/packages/f36/tuxpaint/src/po/bo.po | 
+ | [tlh](/f36/language/tlh) | 34 | 3763 | 0.9 | /mnt/stockage/packages/f36/tuxpaint/src/po/tlh.po | 
+ | [rw](/f36/language/rw) | 22 | 3763 | 0.6 | /mnt/stockage/packages/f36/tuxpaint/src/po/rw.po | 
+ | [mn](/f36/language/mn) | 0 | 3763 | 0.0 | /mnt/stockage/packages/f36/tuxpaint/src/po/mn.po | 
 {.sortable}
 
 

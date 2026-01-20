@@ -18,14 +18,14 @@ The package xen (version 4.13.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [bg]({{< ref "/f32/language/bg.md" >}}) | 33 | 35 | 94.3 | /mnt/stockage/packages/f32/xen/tools/qemu-xen/po/bg.po | 
- | [de]({{< ref "/f32/language/de.md" >}}) | 33 | 35 | 94.3 | /mnt/stockage/packages/f32/xen/tools/qemu-xen/po/de_DE.po | 
- | [fr]({{< ref "/f32/language/fr.md" >}}) | 33 | 35 | 94.3 | /mnt/stockage/packages/f32/xen/tools/qemu-xen/po/fr_FR.po | 
- | [it]({{< ref "/f32/language/it.md" >}}) | 33 | 35 | 94.3 | /mnt/stockage/packages/f32/xen/tools/qemu-xen/po/it.po | 
- | [zh_Hans]({{< ref "/f32/language/zh_Hans.md" >}}) | 33 | 35 | 94.3 | /mnt/stockage/packages/f32/xen/tools/qemu-xen/po/zh_CN.po | 
- | [hu]({{< ref "/f32/language/hu.md" >}}) | 22 | 35 | 62.9 | /mnt/stockage/packages/f32/xen/tools/qemu-xen/po/hu.po | 
- | [tr]({{< ref "/f32/language/tr.md" >}}) | 22 | 35 | 62.9 | /mnt/stockage/packages/f32/xen/tools/qemu-xen/po/tr.po | 
- | [error]({{< ref "/f32/language/error.md" >}}) | 0 | 35 | 0.0 | /mnt/stockage/packages/f32/xen/tools/qemu-xen/po/messages.po | 
+ | [bg](/f32/language/bg) | 33 | 35 | 94.3 | /mnt/stockage/packages/f32/xen/tools/qemu-xen/po/bg.po | 
+ | [de](/f32/language/de) | 33 | 35 | 94.3 | /mnt/stockage/packages/f32/xen/tools/qemu-xen/po/de_DE.po | 
+ | [fr](/f32/language/fr) | 33 | 35 | 94.3 | /mnt/stockage/packages/f32/xen/tools/qemu-xen/po/fr_FR.po | 
+ | [it](/f32/language/it) | 33 | 35 | 94.3 | /mnt/stockage/packages/f32/xen/tools/qemu-xen/po/it.po | 
+ | [zh_Hans](/f32/language/zh_Hans) | 33 | 35 | 94.3 | /mnt/stockage/packages/f32/xen/tools/qemu-xen/po/zh_CN.po | 
+ | [hu](/f32/language/hu) | 22 | 35 | 62.9 | /mnt/stockage/packages/f32/xen/tools/qemu-xen/po/hu.po | 
+ | [tr](/f32/language/tr) | 22 | 35 | 62.9 | /mnt/stockage/packages/f32/xen/tools/qemu-xen/po/tr.po | 
+ | [error](/f32/language/error) | 0 | 35 | 0.0 | /mnt/stockage/packages/f32/xen/tools/qemu-xen/po/messages.po | 
 {.sortable}
 
 

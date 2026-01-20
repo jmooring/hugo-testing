@@ -18,10 +18,10 @@ The package glances (version 1.5.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f16/language/fr.md" >}}) | 146 | 465 | 31.4 | /mnt/stockage/packages/f16/glances/i18n/fr/LC_MESSAGES/glances.po | 
- | [es]({{< ref "/f16/language/es.md" >}}) | 16 | 465 | 3.4 | /mnt/stockage/packages/f16/glances/i18n/es/LC_MESSAGES/glances.po | 
- | [pt_BR]({{< ref "/f16/language/pt_BR.md" >}}) | 16 | 465 | 3.4 | /mnt/stockage/packages/f16/glances/i18n/pt_BR/LC_MESSAGES/glances.po | 
- | [it]({{< ref "/f16/language/it.md" >}}) | 14 | 465 | 3.0 | /mnt/stockage/packages/f16/glances/i18n/it/LC_MESSAGES/glances.po | 
+ | [fr](/f16/language/fr) | 146 | 465 | 31.4 | /mnt/stockage/packages/f16/glances/i18n/fr/LC_MESSAGES/glances.po | 
+ | [es](/f16/language/es) | 16 | 465 | 3.4 | /mnt/stockage/packages/f16/glances/i18n/es/LC_MESSAGES/glances.po | 
+ | [pt_BR](/f16/language/pt_BR) | 16 | 465 | 3.4 | /mnt/stockage/packages/f16/glances/i18n/pt_BR/LC_MESSAGES/glances.po | 
+ | [it](/f16/language/it) | 14 | 465 | 3.0 | /mnt/stockage/packages/f16/glances/i18n/it/LC_MESSAGES/glances.po | 
 {.sortable}
 
 

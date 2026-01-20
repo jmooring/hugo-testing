@@ -18,54 +18,54 @@ The package kapman (version 19.04.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [bs]({{< ref "/f30/language/bs.md" >}}) | 114 | 114 | 100.0 | /mnt/stockage/packages/f30/kapman/po/bs/kapman.po | 
- | [ca]({{< ref "/f30/language/ca.md" >}}) | 114 | 114 | 100.0 | /mnt/stockage/packages/f30/kapman/po/ca/kapman.po | 
- | [ca@valencia]({{< ref "/f30/language/ca@valencia.md" >}}) | 114 | 114 | 100.0 | /mnt/stockage/packages/f30/kapman/po/ca@valencia/kapman.po | 
- | [cs]({{< ref "/f30/language/cs.md" >}}) | 114 | 114 | 100.0 | /mnt/stockage/packages/f30/kapman/po/cs/kapman.po | 
- | [da]({{< ref "/f30/language/da.md" >}}) | 114 | 114 | 100.0 | /mnt/stockage/packages/f30/kapman/po/da/kapman.po | 
- | [de]({{< ref "/f30/language/de.md" >}}) | 114 | 114 | 100.0 | /mnt/stockage/packages/f30/kapman/po/de/kapman.po | 
- | [el]({{< ref "/f30/language/el.md" >}}) | 114 | 114 | 100.0 | /mnt/stockage/packages/f30/kapman/po/el/kapman.po | 
- | [en_GB]({{< ref "/f30/language/en_GB.md" >}}) | 114 | 114 | 100.0 | /mnt/stockage/packages/f30/kapman/po/en_GB/kapman.po | 
- | [es]({{< ref "/f30/language/es.md" >}}) | 114 | 114 | 100.0 | /mnt/stockage/packages/f30/kapman/po/es/kapman.po | 
- | [et]({{< ref "/f30/language/et.md" >}}) | 114 | 114 | 100.0 | /mnt/stockage/packages/f30/kapman/po/et/kapman.po | 
- | [fi]({{< ref "/f30/language/fi.md" >}}) | 114 | 114 | 100.0 | /mnt/stockage/packages/f30/kapman/po/fi/kapman.po | 
- | [fr]({{< ref "/f30/language/fr.md" >}}) | 114 | 114 | 100.0 | /mnt/stockage/packages/f30/kapman/po/fr/kapman.po | 
- | [ga]({{< ref "/f30/language/ga.md" >}}) | 114 | 114 | 100.0 | /mnt/stockage/packages/f30/kapman/po/ga/kapman.po | 
- | [gl]({{< ref "/f30/language/gl.md" >}}) | 114 | 114 | 100.0 | /mnt/stockage/packages/f30/kapman/po/gl/kapman.po | 
- | [hu]({{< ref "/f30/language/hu.md" >}}) | 114 | 114 | 100.0 | /mnt/stockage/packages/f30/kapman/po/hu/kapman.po | 
- | [it]({{< ref "/f30/language/it.md" >}}) | 114 | 114 | 100.0 | /mnt/stockage/packages/f30/kapman/po/it/kapman.po | 
- | [kk]({{< ref "/f30/language/kk.md" >}}) | 114 | 114 | 100.0 | /mnt/stockage/packages/f30/kapman/po/kk/kapman.po | 
- | [km]({{< ref "/f30/language/km.md" >}}) | 114 | 114 | 100.0 | /mnt/stockage/packages/f30/kapman/po/km/kapman.po | 
- | [ko]({{< ref "/f30/language/ko.md" >}}) | 114 | 114 | 100.0 | /mnt/stockage/packages/f30/kapman/po/ko/kapman.po | 
- | [lv]({{< ref "/f30/language/lv.md" >}}) | 114 | 114 | 100.0 | /mnt/stockage/packages/f30/kapman/po/lv/kapman.po | 
- | [nb_NO]({{< ref "/f30/language/nb_NO.md" >}}) | 114 | 114 | 100.0 | /mnt/stockage/packages/f30/kapman/po/nb/kapman.po | 
- | [nds]({{< ref "/f30/language/nds.md" >}}) | 114 | 114 | 100.0 | /mnt/stockage/packages/f30/kapman/po/nds/kapman.po | 
- | [nl]({{< ref "/f30/language/nl.md" >}}) | 114 | 114 | 100.0 | /mnt/stockage/packages/f30/kapman/po/nl/kapman.po | 
- | [nn]({{< ref "/f30/language/nn.md" >}}) | 114 | 114 | 100.0 | /mnt/stockage/packages/f30/kapman/po/nn/kapman.po | 
- | [pl]({{< ref "/f30/language/pl.md" >}}) | 114 | 114 | 100.0 | /mnt/stockage/packages/f30/kapman/po/pl/kapman.po | 
- | [pt]({{< ref "/f30/language/pt.md" >}}) | 114 | 114 | 100.0 | /mnt/stockage/packages/f30/kapman/po/pt/kapman.po | 
- | [pt_BR]({{< ref "/f30/language/pt_BR.md" >}}) | 114 | 114 | 100.0 | /mnt/stockage/packages/f30/kapman/po/pt_BR/kapman.po | 
- | [ru]({{< ref "/f30/language/ru.md" >}}) | 114 | 114 | 100.0 | /mnt/stockage/packages/f30/kapman/po/ru/kapman.po | 
- | [sk]({{< ref "/f30/language/sk.md" >}}) | 114 | 114 | 100.0 | /mnt/stockage/packages/f30/kapman/po/sk/kapman.po | 
- | [sl]({{< ref "/f30/language/sl.md" >}}) | 114 | 114 | 100.0 | /mnt/stockage/packages/f30/kapman/po/sl/kapman.po | 
- | [sr]({{< ref "/f30/language/sr.md" >}}) | 114 | 114 | 100.0 | /mnt/stockage/packages/f30/kapman/po/sr/kapman.po | 
- | [sv]({{< ref "/f30/language/sv.md" >}}) | 114 | 114 | 100.0 | /mnt/stockage/packages/f30/kapman/po/sv/kapman.po | 
- | [tr]({{< ref "/f30/language/tr.md" >}}) | 114 | 114 | 100.0 | /mnt/stockage/packages/f30/kapman/po/tr/kapman.po | 
- | [uk]({{< ref "/f30/language/uk.md" >}}) | 114 | 114 | 100.0 | /mnt/stockage/packages/f30/kapman/po/uk/kapman.po | 
- | [zh_Hans]({{< ref "/f30/language/zh_Hans.md" >}}) | 114 | 114 | 100.0 | /mnt/stockage/packages/f30/kapman/po/zh_CN/kapman.po | 
- | [zh_Hant]({{< ref "/f30/language/zh_Hant.md" >}}) | 114 | 114 | 100.0 | /mnt/stockage/packages/f30/kapman/po/zh_TW/kapman.po | 
- | [ar]({{< ref "/f30/language/ar.md" >}}) | 108 | 114 | 94.7 | /mnt/stockage/packages/f30/kapman/po/ar/kapman.po | 
- | [bg]({{< ref "/f30/language/bg.md" >}}) | 108 | 114 | 94.7 | /mnt/stockage/packages/f30/kapman/po/bg/kapman.po | 
- | [eu]({{< ref "/f30/language/eu.md" >}}) | 108 | 114 | 94.7 | /mnt/stockage/packages/f30/kapman/po/eu/kapman.po | 
- | [ja]({{< ref "/f30/language/ja.md" >}}) | 108 | 114 | 94.7 | /mnt/stockage/packages/f30/kapman/po/ja/kapman.po | 
- | [lt]({{< ref "/f30/language/lt.md" >}}) | 108 | 114 | 94.7 | /mnt/stockage/packages/f30/kapman/po/lt/kapman.po | 
- | [ro]({{< ref "/f30/language/ro.md" >}}) | 108 | 114 | 94.7 | /mnt/stockage/packages/f30/kapman/po/ro/kapman.po | 
- | [eo]({{< ref "/f30/language/eo.md" >}}) | 84 | 114 | 73.7 | /mnt/stockage/packages/f30/kapman/po/eo/kapman.po | 
- | [ug]({{< ref "/f30/language/ug.md" >}}) | 56 | 114 | 49.1 | /mnt/stockage/packages/f30/kapman/po/ug/kapman.po | 
- | [hi]({{< ref "/f30/language/hi.md" >}}) | 55 | 114 | 48.2 | /mnt/stockage/packages/f30/kapman/po/hi/kapman.po | 
- | [mr]({{< ref "/f30/language/mr.md" >}}) | 44 | 114 | 38.6 | /mnt/stockage/packages/f30/kapman/po/mr/kapman.po | 
- | [hr]({{< ref "/f30/language/hr.md" >}}) | 7 | 114 | 6.1 | /mnt/stockage/packages/f30/kapman/po/hr/kapman.po | 
- | [is]({{< ref "/f30/language/is.md" >}}) | 0 | 114 | 0.0 | /mnt/stockage/packages/f30/kapman/po/is/kapman.po | 
+ | [bs](/f30/language/bs) | 114 | 114 | 100.0 | /mnt/stockage/packages/f30/kapman/po/bs/kapman.po | 
+ | [ca](/f30/language/ca) | 114 | 114 | 100.0 | /mnt/stockage/packages/f30/kapman/po/ca/kapman.po | 
+ | [ca@valencia](/f30/language/ca@valencia) | 114 | 114 | 100.0 | /mnt/stockage/packages/f30/kapman/po/ca@valencia/kapman.po | 
+ | [cs](/f30/language/cs) | 114 | 114 | 100.0 | /mnt/stockage/packages/f30/kapman/po/cs/kapman.po | 
+ | [da](/f30/language/da) | 114 | 114 | 100.0 | /mnt/stockage/packages/f30/kapman/po/da/kapman.po | 
+ | [de](/f30/language/de) | 114 | 114 | 100.0 | /mnt/stockage/packages/f30/kapman/po/de/kapman.po | 
+ | [el](/f30/language/el) | 114 | 114 | 100.0 | /mnt/stockage/packages/f30/kapman/po/el/kapman.po | 
+ | [en_GB](/f30/language/en_GB) | 114 | 114 | 100.0 | /mnt/stockage/packages/f30/kapman/po/en_GB/kapman.po | 
+ | [es](/f30/language/es) | 114 | 114 | 100.0 | /mnt/stockage/packages/f30/kapman/po/es/kapman.po | 
+ | [et](/f30/language/et) | 114 | 114 | 100.0 | /mnt/stockage/packages/f30/kapman/po/et/kapman.po | 
+ | [fi](/f30/language/fi) | 114 | 114 | 100.0 | /mnt/stockage/packages/f30/kapman/po/fi/kapman.po | 
+ | [fr](/f30/language/fr) | 114 | 114 | 100.0 | /mnt/stockage/packages/f30/kapman/po/fr/kapman.po | 
+ | [ga](/f30/language/ga) | 114 | 114 | 100.0 | /mnt/stockage/packages/f30/kapman/po/ga/kapman.po | 
+ | [gl](/f30/language/gl) | 114 | 114 | 100.0 | /mnt/stockage/packages/f30/kapman/po/gl/kapman.po | 
+ | [hu](/f30/language/hu) | 114 | 114 | 100.0 | /mnt/stockage/packages/f30/kapman/po/hu/kapman.po | 
+ | [it](/f30/language/it) | 114 | 114 | 100.0 | /mnt/stockage/packages/f30/kapman/po/it/kapman.po | 
+ | [kk](/f30/language/kk) | 114 | 114 | 100.0 | /mnt/stockage/packages/f30/kapman/po/kk/kapman.po | 
+ | [km](/f30/language/km) | 114 | 114 | 100.0 | /mnt/stockage/packages/f30/kapman/po/km/kapman.po | 
+ | [ko](/f30/language/ko) | 114 | 114 | 100.0 | /mnt/stockage/packages/f30/kapman/po/ko/kapman.po | 
+ | [lv](/f30/language/lv) | 114 | 114 | 100.0 | /mnt/stockage/packages/f30/kapman/po/lv/kapman.po | 
+ | [nb_NO](/f30/language/nb_NO) | 114 | 114 | 100.0 | /mnt/stockage/packages/f30/kapman/po/nb/kapman.po | 
+ | [nds](/f30/language/nds) | 114 | 114 | 100.0 | /mnt/stockage/packages/f30/kapman/po/nds/kapman.po | 
+ | [nl](/f30/language/nl) | 114 | 114 | 100.0 | /mnt/stockage/packages/f30/kapman/po/nl/kapman.po | 
+ | [nn](/f30/language/nn) | 114 | 114 | 100.0 | /mnt/stockage/packages/f30/kapman/po/nn/kapman.po | 
+ | [pl](/f30/language/pl) | 114 | 114 | 100.0 | /mnt/stockage/packages/f30/kapman/po/pl/kapman.po | 
+ | [pt](/f30/language/pt) | 114 | 114 | 100.0 | /mnt/stockage/packages/f30/kapman/po/pt/kapman.po | 
+ | [pt_BR](/f30/language/pt_BR) | 114 | 114 | 100.0 | /mnt/stockage/packages/f30/kapman/po/pt_BR/kapman.po | 
+ | [ru](/f30/language/ru) | 114 | 114 | 100.0 | /mnt/stockage/packages/f30/kapman/po/ru/kapman.po | 
+ | [sk](/f30/language/sk) | 114 | 114 | 100.0 | /mnt/stockage/packages/f30/kapman/po/sk/kapman.po | 
+ | [sl](/f30/language/sl) | 114 | 114 | 100.0 | /mnt/stockage/packages/f30/kapman/po/sl/kapman.po | 
+ | [sr](/f30/language/sr) | 114 | 114 | 100.0 | /mnt/stockage/packages/f30/kapman/po/sr/kapman.po | 
+ | [sv](/f30/language/sv) | 114 | 114 | 100.0 | /mnt/stockage/packages/f30/kapman/po/sv/kapman.po | 
+ | [tr](/f30/language/tr) | 114 | 114 | 100.0 | /mnt/stockage/packages/f30/kapman/po/tr/kapman.po | 
+ | [uk](/f30/language/uk) | 114 | 114 | 100.0 | /mnt/stockage/packages/f30/kapman/po/uk/kapman.po | 
+ | [zh_Hans](/f30/language/zh_Hans) | 114 | 114 | 100.0 | /mnt/stockage/packages/f30/kapman/po/zh_CN/kapman.po | 
+ | [zh_Hant](/f30/language/zh_Hant) | 114 | 114 | 100.0 | /mnt/stockage/packages/f30/kapman/po/zh_TW/kapman.po | 
+ | [ar](/f30/language/ar) | 108 | 114 | 94.7 | /mnt/stockage/packages/f30/kapman/po/ar/kapman.po | 
+ | [bg](/f30/language/bg) | 108 | 114 | 94.7 | /mnt/stockage/packages/f30/kapman/po/bg/kapman.po | 
+ | [eu](/f30/language/eu) | 108 | 114 | 94.7 | /mnt/stockage/packages/f30/kapman/po/eu/kapman.po | 
+ | [ja](/f30/language/ja) | 108 | 114 | 94.7 | /mnt/stockage/packages/f30/kapman/po/ja/kapman.po | 
+ | [lt](/f30/language/lt) | 108 | 114 | 94.7 | /mnt/stockage/packages/f30/kapman/po/lt/kapman.po | 
+ | [ro](/f30/language/ro) | 108 | 114 | 94.7 | /mnt/stockage/packages/f30/kapman/po/ro/kapman.po | 
+ | [eo](/f30/language/eo) | 84 | 114 | 73.7 | /mnt/stockage/packages/f30/kapman/po/eo/kapman.po | 
+ | [ug](/f30/language/ug) | 56 | 114 | 49.1 | /mnt/stockage/packages/f30/kapman/po/ug/kapman.po | 
+ | [hi](/f30/language/hi) | 55 | 114 | 48.2 | /mnt/stockage/packages/f30/kapman/po/hi/kapman.po | 
+ | [mr](/f30/language/mr) | 44 | 114 | 38.6 | /mnt/stockage/packages/f30/kapman/po/mr/kapman.po | 
+ | [hr](/f30/language/hr) | 7 | 114 | 6.1 | /mnt/stockage/packages/f30/kapman/po/hr/kapman.po | 
+ | [is](/f30/language/is) | 0 | 114 | 0.0 | /mnt/stockage/packages/f30/kapman/po/is/kapman.po | 
 {.sortable}
 
 

@@ -18,7 +18,7 @@ The package libtomoe-gtk (version 0.5.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ja]({{< ref "/f7/language/ja.md" >}}) | 48 | 223 | 21.5 | /mnt/stockage/packages/f7/libtomoe-gtk/po/ja.po | 
+ | [ja](/f7/language/ja) | 48 | 223 | 21.5 | /mnt/stockage/packages/f7/libtomoe-gtk/po/ja.po | 
 {.sortable}
 
 

@@ -18,9 +18,9 @@ The package clutter-gtk (version 1.8.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ja]({{< ref "/f34/language/ja.md" >}}) | 5 | 5 | 100.0 | /mnt/stockage/packages/f34/clutter-gtk/po/ja.po | 
- | [pl]({{< ref "/f34/language/pl.md" >}}) | 5 | 5 | 100.0 | /mnt/stockage/packages/f34/clutter-gtk/po/pl.po | 
- | [zh_Hans]({{< ref "/f34/language/zh_Hans.md" >}}) | 5 | 5 | 100.0 | /mnt/stockage/packages/f34/clutter-gtk/po/zh_CN.po | 
+ | [ja](/f34/language/ja) | 5 | 5 | 100.0 | /mnt/stockage/packages/f34/clutter-gtk/po/ja.po | 
+ | [pl](/f34/language/pl) | 5 | 5 | 100.0 | /mnt/stockage/packages/f34/clutter-gtk/po/pl.po | 
+ | [zh_Hans](/f34/language/zh_Hans) | 5 | 5 | 100.0 | /mnt/stockage/packages/f34/clutter-gtk/po/zh_CN.po | 
 {.sortable}
 
 

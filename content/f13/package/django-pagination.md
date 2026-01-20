@@ -18,9 +18,9 @@ The package django-pagination (version 1.0.5):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f13/language/de.md" >}}) | 2 | 2 | 100.0 | /mnt/stockage/packages/f13/django-pagination/pagination/locale/de/LC_MESSAGES/django.po | 
- | [fr]({{< ref "/f13/language/fr.md" >}}) | 2 | 2 | 100.0 | /mnt/stockage/packages/f13/django-pagination/pagination/locale/fr/LC_MESSAGES/django.po/mnt/stockage/packages/f13/django-pagination/pagination/locale/fr/LC_MESSAGES/._django.po | 
- | [pl]({{< ref "/f13/language/pl.md" >}}) | 2 | 2 | 100.0 | /mnt/stockage/packages/f13/django-pagination/pagination/locale/pl/LC_MESSAGES/django.po/mnt/stockage/packages/f13/django-pagination/pagination/locale/pl/LC_MESSAGES/._django.po | 
+ | [de](/f13/language/de) | 2 | 2 | 100.0 | /mnt/stockage/packages/f13/django-pagination/pagination/locale/de/LC_MESSAGES/django.po | 
+ | [fr](/f13/language/fr) | 2 | 2 | 100.0 | /mnt/stockage/packages/f13/django-pagination/pagination/locale/fr/LC_MESSAGES/django.po/mnt/stockage/packages/f13/django-pagination/pagination/locale/fr/LC_MESSAGES/._django.po | 
+ | [pl](/f13/language/pl) | 2 | 2 | 100.0 | /mnt/stockage/packages/f13/django-pagination/pagination/locale/pl/LC_MESSAGES/django.po/mnt/stockage/packages/f13/django-pagination/pagination/locale/pl/LC_MESSAGES/._django.po | 
 {.sortable}
 
 

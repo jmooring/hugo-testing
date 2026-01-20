@@ -18,9 +18,9 @@ The package xca (version 1.3.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f24/language/fr.md" >}}) | 3085 | 3085 | 100.0 | /mnt/stockage/packages/f24/xca/lang/fr.po | 
- | [tr]({{< ref "/f24/language/tr.md" >}}) | 392 | 3286 | 11.9 | /mnt/stockage/packages/f24/xca/lang/tr.po | 
- | [es]({{< ref "/f24/language/es.md" >}}) | 197 | 3269 | 6.0 | /mnt/stockage/packages/f24/xca/lang/es.po | 
+ | [fr](/f24/language/fr) | 3085 | 3085 | 100.0 | /mnt/stockage/packages/f24/xca/lang/fr.po | 
+ | [tr](/f24/language/tr) | 392 | 3286 | 11.9 | /mnt/stockage/packages/f24/xca/lang/tr.po | 
+ | [es](/f24/language/es) | 197 | 3269 | 6.0 | /mnt/stockage/packages/f24/xca/lang/es.po | 
 {.sortable}
 
 

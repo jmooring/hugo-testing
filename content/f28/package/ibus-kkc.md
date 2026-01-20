@@ -18,7 +18,7 @@ The package ibus-kkc (version 1.5.22):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ja]({{< ref "/f28/language/ja.md" >}}) | 270 | 270 | 100.0 | /mnt/stockage/packages/f28/ibus-kkc/po/ja.po | 
+ | [ja](/f28/language/ja) | 270 | 270 | 100.0 | /mnt/stockage/packages/f28/ibus-kkc/po/ja.po | 
 {.sortable}
 
 

@@ -18,35 +18,35 @@ The package oggconvert (version 0.3.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [bg]({{< ref "/f10/language/bg.md" >}}) | 152 | 152 | 100.0 | /mnt/stockage/packages/f10/oggconvert/po/bg.po | 
- | [ca]({{< ref "/f10/language/ca.md" >}}) | 152 | 152 | 100.0 | /mnt/stockage/packages/f10/oggconvert/po/ca.po | 
- | [de]({{< ref "/f10/language/de.md" >}}) | 152 | 152 | 100.0 | /mnt/stockage/packages/f10/oggconvert/po/de.po | 
- | [es]({{< ref "/f10/language/es.md" >}}) | 152 | 152 | 100.0 | /mnt/stockage/packages/f10/oggconvert/po/es.po | 
- | [fr]({{< ref "/f10/language/fr.md" >}}) | 152 | 152 | 100.0 | /mnt/stockage/packages/f10/oggconvert/po/fr.po | 
- | [he]({{< ref "/f10/language/he.md" >}}) | 152 | 152 | 100.0 | /mnt/stockage/packages/f10/oggconvert/po/he.po | 
- | [it]({{< ref "/f10/language/it.md" >}}) | 152 | 152 | 100.0 | /mnt/stockage/packages/f10/oggconvert/po/it.po | 
- | [lt]({{< ref "/f10/language/lt.md" >}}) | 152 | 152 | 100.0 | /mnt/stockage/packages/f10/oggconvert/po/lt.po | 
- | [ms]({{< ref "/f10/language/ms.md" >}}) | 152 | 152 | 100.0 | /mnt/stockage/packages/f10/oggconvert/po/ms.po | 
- | [nb_NO]({{< ref "/f10/language/nb_NO.md" >}}) | 152 | 152 | 100.0 | /mnt/stockage/packages/f10/oggconvert/po/nb.po | 
- | [nl]({{< ref "/f10/language/nl.md" >}}) | 152 | 152 | 100.0 | /mnt/stockage/packages/f10/oggconvert/po/nl.po | 
- | [pt]({{< ref "/f10/language/pt.md" >}}) | 152 | 152 | 100.0 | /mnt/stockage/packages/f10/oggconvert/po/pt.po | 
- | [ru]({{< ref "/f10/language/ru.md" >}}) | 152 | 152 | 100.0 | /mnt/stockage/packages/f10/oggconvert/po/ru.po | 
- | [sr]({{< ref "/f10/language/sr.md" >}}) | 152 | 152 | 100.0 | /mnt/stockage/packages/f10/oggconvert/po/sr.po | 
- | [sv]({{< ref "/f10/language/sv.md" >}}) | 152 | 152 | 100.0 | /mnt/stockage/packages/f10/oggconvert/po/sv.po | 
- | [zh_Hans]({{< ref "/f10/language/zh_Hans.md" >}}) | 152 | 152 | 100.0 | /mnt/stockage/packages/f10/oggconvert/po/zh_CN.po | 
- | [sk]({{< ref "/f10/language/sk.md" >}}) | 150 | 152 | 98.7 | /mnt/stockage/packages/f10/oggconvert/po/sk.po | 
- | [cs]({{< ref "/f10/language/cs.md" >}}) | 148 | 152 | 97.4 | /mnt/stockage/packages/f10/oggconvert/po/cs.po | 
- | [mt]({{< ref "/f10/language/mt.md" >}}) | 145 | 152 | 95.4 | /mnt/stockage/packages/f10/oggconvert/po/mt.po | 
- | [pt_BR]({{< ref "/f10/language/pt_BR.md" >}}) | 144 | 152 | 94.7 | /mnt/stockage/packages/f10/oggconvert/po/pt_BR.po | 
- | [pl]({{< ref "/f10/language/pl.md" >}}) | 122 | 152 | 80.3 | /mnt/stockage/packages/f10/oggconvert/po/pl.po | 
- | [fi]({{< ref "/f10/language/fi.md" >}}) | 97 | 152 | 63.8 | /mnt/stockage/packages/f10/oggconvert/po/fi.po | 
- | [frp]({{< ref "/f10/language/frp.md" >}}) | 89 | 152 | 58.6 | /mnt/stockage/packages/f10/oggconvert/po/frp.po | 
- | [hu]({{< ref "/f10/language/hu.md" >}}) | 70 | 152 | 46.1 | /mnt/stockage/packages/f10/oggconvert/po/hu.po | 
- | [tr]({{< ref "/f10/language/tr.md" >}}) | 67 | 152 | 44.1 | /mnt/stockage/packages/f10/oggconvert/po/tr.po | 
- | [zh_Hant]({{< ref "/f10/language/zh_Hant.md" >}}) | 62 | 152 | 40.8 | /mnt/stockage/packages/f10/oggconvert/po/zh_TW.po | 
- | [uk]({{< ref "/f10/language/uk.md" >}}) | 58 | 152 | 38.2 | /mnt/stockage/packages/f10/oggconvert/po/uk.po | 
- | [ko]({{< ref "/f10/language/ko.md" >}}) | 54 | 152 | 35.5 | /mnt/stockage/packages/f10/oggconvert/po/ko.po | 
- | [oc]({{< ref "/f10/language/oc.md" >}}) | 20 | 152 | 13.2 | /mnt/stockage/packages/f10/oggconvert/po/oc.po | 
+ | [bg](/f10/language/bg) | 152 | 152 | 100.0 | /mnt/stockage/packages/f10/oggconvert/po/bg.po | 
+ | [ca](/f10/language/ca) | 152 | 152 | 100.0 | /mnt/stockage/packages/f10/oggconvert/po/ca.po | 
+ | [de](/f10/language/de) | 152 | 152 | 100.0 | /mnt/stockage/packages/f10/oggconvert/po/de.po | 
+ | [es](/f10/language/es) | 152 | 152 | 100.0 | /mnt/stockage/packages/f10/oggconvert/po/es.po | 
+ | [fr](/f10/language/fr) | 152 | 152 | 100.0 | /mnt/stockage/packages/f10/oggconvert/po/fr.po | 
+ | [he](/f10/language/he) | 152 | 152 | 100.0 | /mnt/stockage/packages/f10/oggconvert/po/he.po | 
+ | [it](/f10/language/it) | 152 | 152 | 100.0 | /mnt/stockage/packages/f10/oggconvert/po/it.po | 
+ | [lt](/f10/language/lt) | 152 | 152 | 100.0 | /mnt/stockage/packages/f10/oggconvert/po/lt.po | 
+ | [ms](/f10/language/ms) | 152 | 152 | 100.0 | /mnt/stockage/packages/f10/oggconvert/po/ms.po | 
+ | [nb_NO](/f10/language/nb_NO) | 152 | 152 | 100.0 | /mnt/stockage/packages/f10/oggconvert/po/nb.po | 
+ | [nl](/f10/language/nl) | 152 | 152 | 100.0 | /mnt/stockage/packages/f10/oggconvert/po/nl.po | 
+ | [pt](/f10/language/pt) | 152 | 152 | 100.0 | /mnt/stockage/packages/f10/oggconvert/po/pt.po | 
+ | [ru](/f10/language/ru) | 152 | 152 | 100.0 | /mnt/stockage/packages/f10/oggconvert/po/ru.po | 
+ | [sr](/f10/language/sr) | 152 | 152 | 100.0 | /mnt/stockage/packages/f10/oggconvert/po/sr.po | 
+ | [sv](/f10/language/sv) | 152 | 152 | 100.0 | /mnt/stockage/packages/f10/oggconvert/po/sv.po | 
+ | [zh_Hans](/f10/language/zh_Hans) | 152 | 152 | 100.0 | /mnt/stockage/packages/f10/oggconvert/po/zh_CN.po | 
+ | [sk](/f10/language/sk) | 150 | 152 | 98.7 | /mnt/stockage/packages/f10/oggconvert/po/sk.po | 
+ | [cs](/f10/language/cs) | 148 | 152 | 97.4 | /mnt/stockage/packages/f10/oggconvert/po/cs.po | 
+ | [mt](/f10/language/mt) | 145 | 152 | 95.4 | /mnt/stockage/packages/f10/oggconvert/po/mt.po | 
+ | [pt_BR](/f10/language/pt_BR) | 144 | 152 | 94.7 | /mnt/stockage/packages/f10/oggconvert/po/pt_BR.po | 
+ | [pl](/f10/language/pl) | 122 | 152 | 80.3 | /mnt/stockage/packages/f10/oggconvert/po/pl.po | 
+ | [fi](/f10/language/fi) | 97 | 152 | 63.8 | /mnt/stockage/packages/f10/oggconvert/po/fi.po | 
+ | [frp](/f10/language/frp) | 89 | 152 | 58.6 | /mnt/stockage/packages/f10/oggconvert/po/frp.po | 
+ | [hu](/f10/language/hu) | 70 | 152 | 46.1 | /mnt/stockage/packages/f10/oggconvert/po/hu.po | 
+ | [tr](/f10/language/tr) | 67 | 152 | 44.1 | /mnt/stockage/packages/f10/oggconvert/po/tr.po | 
+ | [zh_Hant](/f10/language/zh_Hant) | 62 | 152 | 40.8 | /mnt/stockage/packages/f10/oggconvert/po/zh_TW.po | 
+ | [uk](/f10/language/uk) | 58 | 152 | 38.2 | /mnt/stockage/packages/f10/oggconvert/po/uk.po | 
+ | [ko](/f10/language/ko) | 54 | 152 | 35.5 | /mnt/stockage/packages/f10/oggconvert/po/ko.po | 
+ | [oc](/f10/language/oc) | 20 | 152 | 13.2 | /mnt/stockage/packages/f10/oggconvert/po/oc.po | 
 {.sortable}
 
 

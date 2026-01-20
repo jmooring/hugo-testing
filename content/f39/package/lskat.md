@@ -18,78 +18,78 @@ The package lskat (version 23.08.5):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f39/language/ar.md" >}}) | 254 | 254 | 100.0 | /mnt/stockage/packages/f39/lskat/po/ar/lskat.po | 
- | [bs]({{< ref "/f39/language/bs.md" >}}) | 254 | 254 | 100.0 | /mnt/stockage/packages/f39/lskat/po/bs/lskat.po | 
- | [ca]({{< ref "/f39/language/ca.md" >}}) | 254 | 254 | 100.0 | /mnt/stockage/packages/f39/lskat/po/ca/lskat.po | 
- | [ca@valencia]({{< ref "/f39/language/ca@valencia.md" >}}) | 254 | 254 | 100.0 | /mnt/stockage/packages/f39/lskat/po/ca@valencia/lskat.po | 
- | [cs]({{< ref "/f39/language/cs.md" >}}) | 254 | 254 | 100.0 | /mnt/stockage/packages/f39/lskat/po/cs/lskat.po | 
- | [da]({{< ref "/f39/language/da.md" >}}) | 254 | 254 | 100.0 | /mnt/stockage/packages/f39/lskat/po/da/lskat.po | 
- | [de]({{< ref "/f39/language/de.md" >}}) | 254 | 254 | 100.0 | /mnt/stockage/packages/f39/lskat/po/de/lskat.po | 
- | [el]({{< ref "/f39/language/el.md" >}}) | 254 | 254 | 100.0 | /mnt/stockage/packages/f39/lskat/po/el/lskat.po | 
- | [en_GB]({{< ref "/f39/language/en_GB.md" >}}) | 254 | 254 | 100.0 | /mnt/stockage/packages/f39/lskat/po/en_GB/lskat.po | 
- | [eo]({{< ref "/f39/language/eo.md" >}}) | 254 | 254 | 100.0 | /mnt/stockage/packages/f39/lskat/po/eo/lskat.po | 
- | [es]({{< ref "/f39/language/es.md" >}}) | 254 | 254 | 100.0 | /mnt/stockage/packages/f39/lskat/po/es/lskat.po | 
- | [et]({{< ref "/f39/language/et.md" >}}) | 254 | 254 | 100.0 | /mnt/stockage/packages/f39/lskat/po/et/lskat.po | 
- | [eu]({{< ref "/f39/language/eu.md" >}}) | 254 | 254 | 100.0 | /mnt/stockage/packages/f39/lskat/po/eu/lskat.po | 
- | [fi]({{< ref "/f39/language/fi.md" >}}) | 254 | 254 | 100.0 | /mnt/stockage/packages/f39/lskat/po/fi/lskat.po | 
- | [fr]({{< ref "/f39/language/fr.md" >}}) | 254 | 254 | 100.0 | /mnt/stockage/packages/f39/lskat/po/fr/lskat.po | 
- | [ga]({{< ref "/f39/language/ga.md" >}}) | 254 | 254 | 100.0 | /mnt/stockage/packages/f39/lskat/po/ga/lskat.po | 
- | [gl]({{< ref "/f39/language/gl.md" >}}) | 254 | 254 | 100.0 | /mnt/stockage/packages/f39/lskat/po/gl/lskat.po | 
- | [hu]({{< ref "/f39/language/hu.md" >}}) | 254 | 254 | 100.0 | /mnt/stockage/packages/f39/lskat/po/hu/lskat.po | 
- | [id]({{< ref "/f39/language/id.md" >}}) | 254 | 254 | 100.0 | /mnt/stockage/packages/f39/lskat/po/id/lskat.po | 
- | [it]({{< ref "/f39/language/it.md" >}}) | 254 | 254 | 100.0 | /mnt/stockage/packages/f39/lskat/po/it/lskat.po | 
- | [ka]({{< ref "/f39/language/ka.md" >}}) | 254 | 254 | 100.0 | /mnt/stockage/packages/f39/lskat/po/ka/lskat.po | 
- | [kk]({{< ref "/f39/language/kk.md" >}}) | 254 | 254 | 100.0 | /mnt/stockage/packages/f39/lskat/po/kk/lskat.po | 
- | [km]({{< ref "/f39/language/km.md" >}}) | 254 | 254 | 100.0 | /mnt/stockage/packages/f39/lskat/po/km/lskat.po | 
- | [ko]({{< ref "/f39/language/ko.md" >}}) | 254 | 254 | 100.0 | /mnt/stockage/packages/f39/lskat/po/ko/lskat.po | 
- | [nb_NO]({{< ref "/f39/language/nb_NO.md" >}}) | 254 | 254 | 100.0 | /mnt/stockage/packages/f39/lskat/po/nb/lskat.po | 
- | [nds]({{< ref "/f39/language/nds.md" >}}) | 254 | 254 | 100.0 | /mnt/stockage/packages/f39/lskat/po/nds/lskat.po | 
- | [nl]({{< ref "/f39/language/nl.md" >}}) | 254 | 254 | 100.0 | /mnt/stockage/packages/f39/lskat/po/nl/lskat.po | 
- | [nn]({{< ref "/f39/language/nn.md" >}}) | 254 | 254 | 100.0 | /mnt/stockage/packages/f39/lskat/po/nn/lskat.po | 
- | [pl]({{< ref "/f39/language/pl.md" >}}) | 254 | 254 | 100.0 | /mnt/stockage/packages/f39/lskat/po/pl/lskat.po | 
- | [pt]({{< ref "/f39/language/pt.md" >}}) | 254 | 254 | 100.0 | /mnt/stockage/packages/f39/lskat/po/pt/lskat.po | 
- | [pt_BR]({{< ref "/f39/language/pt_BR.md" >}}) | 254 | 254 | 100.0 | /mnt/stockage/packages/f39/lskat/po/pt_BR/lskat.po | 
- | [ru]({{< ref "/f39/language/ru.md" >}}) | 254 | 254 | 100.0 | /mnt/stockage/packages/f39/lskat/po/ru/lskat.po | 
- | [sk]({{< ref "/f39/language/sk.md" >}}) | 254 | 254 | 100.0 | /mnt/stockage/packages/f39/lskat/po/sk/lskat.po | 
- | [sl]({{< ref "/f39/language/sl.md" >}}) | 254 | 254 | 100.0 | /mnt/stockage/packages/f39/lskat/po/sl/lskat.po | 
- | [sr]({{< ref "/f39/language/sr.md" >}}) | 254 | 254 | 100.0 | /mnt/stockage/packages/f39/lskat/po/sr/lskat.po | 
- | [sr@ijekavian]({{< ref "/f39/language/sr@ijekavian.md" >}}) | 254 | 254 | 100.0 | /mnt/stockage/packages/f39/lskat/po/sr@ijekavian/lskat.po | 
- | [sr@ijekavian_Latn]({{< ref "/f39/language/sr@ijekavian_Latn.md" >}}) | 254 | 254 | 100.0 | /mnt/stockage/packages/f39/lskat/po/sr@ijekavianlatin/lskat.po | 
- | [sr_Latn]({{< ref "/f39/language/sr_Latn.md" >}}) | 254 | 254 | 100.0 | /mnt/stockage/packages/f39/lskat/po/sr@latin/lskat.po | 
- | [sv]({{< ref "/f39/language/sv.md" >}}) | 254 | 254 | 100.0 | /mnt/stockage/packages/f39/lskat/po/sv/lskat.po | 
- | [tr]({{< ref "/f39/language/tr.md" >}}) | 254 | 254 | 100.0 | /mnt/stockage/packages/f39/lskat/po/tr/lskat.po | 
- | [uk]({{< ref "/f39/language/uk.md" >}}) | 254 | 254 | 100.0 | /mnt/stockage/packages/f39/lskat/po/uk/lskat.po | 
- | [zh_Hans]({{< ref "/f39/language/zh_Hans.md" >}}) | 254 | 254 | 100.0 | /mnt/stockage/packages/f39/lskat/po/zh_CN/lskat.po | 
- | [zh_Hant]({{< ref "/f39/language/zh_Hant.md" >}}) | 254 | 254 | 100.0 | /mnt/stockage/packages/f39/lskat/po/zh_TW/lskat.po | 
- | [lv]({{< ref "/f39/language/lv.md" >}}) | 250 | 254 | 98.4 | /mnt/stockage/packages/f39/lskat/po/lv/lskat.po | 
- | [ja]({{< ref "/f39/language/ja.md" >}}) | 249 | 254 | 98.0 | /mnt/stockage/packages/f39/lskat/po/ja/lskat.po | 
- | [ro]({{< ref "/f39/language/ro.md" >}}) | 249 | 254 | 98.0 | /mnt/stockage/packages/f39/lskat/po/ro/lskat.po | 
- | [hne]({{< ref "/f39/language/hne.md" >}}) | 228 | 254 | 89.8 | /mnt/stockage/packages/f39/lskat/po/hne/lskat.po | 
- | [ne]({{< ref "/f39/language/ne.md" >}}) | 195 | 254 | 76.8 | /mnt/stockage/packages/f39/lskat/po/ne/lskat.po | 
- | [fa]({{< ref "/f39/language/fa.md" >}}) | 194 | 254 | 76.4 | /mnt/stockage/packages/f39/lskat/po/fa/lskat.po | 
- | [hi]({{< ref "/f39/language/hi.md" >}}) | 174 | 254 | 68.5 | /mnt/stockage/packages/f39/lskat/po/hi/lskat.po | 
- | [ms]({{< ref "/f39/language/ms.md" >}}) | 103 | 254 | 40.6 | /mnt/stockage/packages/f39/lskat/po/ms/lskat.po | 
- | [cy]({{< ref "/f39/language/cy.md" >}}) | 100 | 254 | 39.4 | /mnt/stockage/packages/f39/lskat/po/cy/lskat.po | 
- | [he]({{< ref "/f39/language/he.md" >}}) | 100 | 254 | 39.4 | /mnt/stockage/packages/f39/lskat/po/he/lskat.po | 
- | [hr]({{< ref "/f39/language/hr.md" >}}) | 100 | 254 | 39.4 | /mnt/stockage/packages/f39/lskat/po/hr/lskat.po | 
- | [is]({{< ref "/f39/language/is.md" >}}) | 100 | 254 | 39.4 | /mnt/stockage/packages/f39/lskat/po/is/lskat.po | 
- | [mk]({{< ref "/f39/language/mk.md" >}}) | 100 | 254 | 39.4 | /mnt/stockage/packages/f39/lskat/po/mk/lskat.po | 
- | [ta]({{< ref "/f39/language/ta.md" >}}) | 100 | 254 | 39.4 | /mnt/stockage/packages/f39/lskat/po/ta/lskat.po | 
- | [tg]({{< ref "/f39/language/tg.md" >}}) | 100 | 254 | 39.4 | /mnt/stockage/packages/f39/lskat/po/tg/lskat.po | 
- | [xh]({{< ref "/f39/language/xh.md" >}}) | 100 | 254 | 39.4 | /mnt/stockage/packages/f39/lskat/po/xh/lskat.po | 
- | [af]({{< ref "/f39/language/af.md" >}}) | 97 | 254 | 38.2 | /mnt/stockage/packages/f39/lskat/po/af/lskat.po | 
- | [bg]({{< ref "/f39/language/bg.md" >}}) | 96 | 254 | 37.8 | /mnt/stockage/packages/f39/lskat/po/bg/lskat.po | 
- | [ug]({{< ref "/f39/language/ug.md" >}}) | 87 | 254 | 34.3 | /mnt/stockage/packages/f39/lskat/po/ug/lskat.po | 
- | [mr]({{< ref "/f39/language/mr.md" >}}) | 64 | 254 | 25.2 | /mnt/stockage/packages/f39/lskat/po/mr/lskat.po | 
- | [sq]({{< ref "/f39/language/sq.md" >}}) | 60 | 254 | 23.6 | /mnt/stockage/packages/f39/lskat/po/sq/lskat.po | 
- | [lt]({{< ref "/f39/language/lt.md" >}}) | 58 | 254 | 22.8 | /mnt/stockage/packages/f39/lskat/po/lt/lskat.po | 
- | [be]({{< ref "/f39/language/be.md" >}}) | 57 | 254 | 22.4 | /mnt/stockage/packages/f39/lskat/po/be/lskat.po | 
- | [br]({{< ref "/f39/language/br.md" >}}) | 27 | 254 | 10.6 | /mnt/stockage/packages/f39/lskat/po/br/lskat.po | 
- | [pa]({{< ref "/f39/language/pa.md" >}}) | 22 | 254 | 8.7 | /mnt/stockage/packages/f39/lskat/po/pa/lskat.po | 
- | [mai]({{< ref "/f39/language/mai.md" >}}) | 21 | 254 | 8.3 | /mnt/stockage/packages/f39/lskat/po/mai/lskat.po | 
- | [oc]({{< ref "/f39/language/oc.md" >}}) | 21 | 254 | 8.3 | /mnt/stockage/packages/f39/lskat/po/oc/lskat.po | 
- | [ml]({{< ref "/f39/language/ml.md" >}}) | 2 | 254 | 0.8 | /mnt/stockage/packages/f39/lskat/po/ml/lskat.po | 
- | [se]({{< ref "/f39/language/se.md" >}}) | 0 | 254 | 0.0 | /mnt/stockage/packages/f39/lskat/po/se/lskat.po | 
+ | [ar](/f39/language/ar) | 254 | 254 | 100.0 | /mnt/stockage/packages/f39/lskat/po/ar/lskat.po | 
+ | [bs](/f39/language/bs) | 254 | 254 | 100.0 | /mnt/stockage/packages/f39/lskat/po/bs/lskat.po | 
+ | [ca](/f39/language/ca) | 254 | 254 | 100.0 | /mnt/stockage/packages/f39/lskat/po/ca/lskat.po | 
+ | [ca@valencia](/f39/language/ca@valencia) | 254 | 254 | 100.0 | /mnt/stockage/packages/f39/lskat/po/ca@valencia/lskat.po | 
+ | [cs](/f39/language/cs) | 254 | 254 | 100.0 | /mnt/stockage/packages/f39/lskat/po/cs/lskat.po | 
+ | [da](/f39/language/da) | 254 | 254 | 100.0 | /mnt/stockage/packages/f39/lskat/po/da/lskat.po | 
+ | [de](/f39/language/de) | 254 | 254 | 100.0 | /mnt/stockage/packages/f39/lskat/po/de/lskat.po | 
+ | [el](/f39/language/el) | 254 | 254 | 100.0 | /mnt/stockage/packages/f39/lskat/po/el/lskat.po | 
+ | [en_GB](/f39/language/en_GB) | 254 | 254 | 100.0 | /mnt/stockage/packages/f39/lskat/po/en_GB/lskat.po | 
+ | [eo](/f39/language/eo) | 254 | 254 | 100.0 | /mnt/stockage/packages/f39/lskat/po/eo/lskat.po | 
+ | [es](/f39/language/es) | 254 | 254 | 100.0 | /mnt/stockage/packages/f39/lskat/po/es/lskat.po | 
+ | [et](/f39/language/et) | 254 | 254 | 100.0 | /mnt/stockage/packages/f39/lskat/po/et/lskat.po | 
+ | [eu](/f39/language/eu) | 254 | 254 | 100.0 | /mnt/stockage/packages/f39/lskat/po/eu/lskat.po | 
+ | [fi](/f39/language/fi) | 254 | 254 | 100.0 | /mnt/stockage/packages/f39/lskat/po/fi/lskat.po | 
+ | [fr](/f39/language/fr) | 254 | 254 | 100.0 | /mnt/stockage/packages/f39/lskat/po/fr/lskat.po | 
+ | [ga](/f39/language/ga) | 254 | 254 | 100.0 | /mnt/stockage/packages/f39/lskat/po/ga/lskat.po | 
+ | [gl](/f39/language/gl) | 254 | 254 | 100.0 | /mnt/stockage/packages/f39/lskat/po/gl/lskat.po | 
+ | [hu](/f39/language/hu) | 254 | 254 | 100.0 | /mnt/stockage/packages/f39/lskat/po/hu/lskat.po | 
+ | [id](/f39/language/id) | 254 | 254 | 100.0 | /mnt/stockage/packages/f39/lskat/po/id/lskat.po | 
+ | [it](/f39/language/it) | 254 | 254 | 100.0 | /mnt/stockage/packages/f39/lskat/po/it/lskat.po | 
+ | [ka](/f39/language/ka) | 254 | 254 | 100.0 | /mnt/stockage/packages/f39/lskat/po/ka/lskat.po | 
+ | [kk](/f39/language/kk) | 254 | 254 | 100.0 | /mnt/stockage/packages/f39/lskat/po/kk/lskat.po | 
+ | [km](/f39/language/km) | 254 | 254 | 100.0 | /mnt/stockage/packages/f39/lskat/po/km/lskat.po | 
+ | [ko](/f39/language/ko) | 254 | 254 | 100.0 | /mnt/stockage/packages/f39/lskat/po/ko/lskat.po | 
+ | [nb_NO](/f39/language/nb_NO) | 254 | 254 | 100.0 | /mnt/stockage/packages/f39/lskat/po/nb/lskat.po | 
+ | [nds](/f39/language/nds) | 254 | 254 | 100.0 | /mnt/stockage/packages/f39/lskat/po/nds/lskat.po | 
+ | [nl](/f39/language/nl) | 254 | 254 | 100.0 | /mnt/stockage/packages/f39/lskat/po/nl/lskat.po | 
+ | [nn](/f39/language/nn) | 254 | 254 | 100.0 | /mnt/stockage/packages/f39/lskat/po/nn/lskat.po | 
+ | [pl](/f39/language/pl) | 254 | 254 | 100.0 | /mnt/stockage/packages/f39/lskat/po/pl/lskat.po | 
+ | [pt](/f39/language/pt) | 254 | 254 | 100.0 | /mnt/stockage/packages/f39/lskat/po/pt/lskat.po | 
+ | [pt_BR](/f39/language/pt_BR) | 254 | 254 | 100.0 | /mnt/stockage/packages/f39/lskat/po/pt_BR/lskat.po | 
+ | [ru](/f39/language/ru) | 254 | 254 | 100.0 | /mnt/stockage/packages/f39/lskat/po/ru/lskat.po | 
+ | [sk](/f39/language/sk) | 254 | 254 | 100.0 | /mnt/stockage/packages/f39/lskat/po/sk/lskat.po | 
+ | [sl](/f39/language/sl) | 254 | 254 | 100.0 | /mnt/stockage/packages/f39/lskat/po/sl/lskat.po | 
+ | [sr](/f39/language/sr) | 254 | 254 | 100.0 | /mnt/stockage/packages/f39/lskat/po/sr/lskat.po | 
+ | [sr@ijekavian](/f39/language/sr@ijekavian) | 254 | 254 | 100.0 | /mnt/stockage/packages/f39/lskat/po/sr@ijekavian/lskat.po | 
+ | [sr@ijekavian_Latn](/f39/language/sr@ijekavian_Latn) | 254 | 254 | 100.0 | /mnt/stockage/packages/f39/lskat/po/sr@ijekavianlatin/lskat.po | 
+ | [sr_Latn](/f39/language/sr_Latn) | 254 | 254 | 100.0 | /mnt/stockage/packages/f39/lskat/po/sr@latin/lskat.po | 
+ | [sv](/f39/language/sv) | 254 | 254 | 100.0 | /mnt/stockage/packages/f39/lskat/po/sv/lskat.po | 
+ | [tr](/f39/language/tr) | 254 | 254 | 100.0 | /mnt/stockage/packages/f39/lskat/po/tr/lskat.po | 
+ | [uk](/f39/language/uk) | 254 | 254 | 100.0 | /mnt/stockage/packages/f39/lskat/po/uk/lskat.po | 
+ | [zh_Hans](/f39/language/zh_Hans) | 254 | 254 | 100.0 | /mnt/stockage/packages/f39/lskat/po/zh_CN/lskat.po | 
+ | [zh_Hant](/f39/language/zh_Hant) | 254 | 254 | 100.0 | /mnt/stockage/packages/f39/lskat/po/zh_TW/lskat.po | 
+ | [lv](/f39/language/lv) | 250 | 254 | 98.4 | /mnt/stockage/packages/f39/lskat/po/lv/lskat.po | 
+ | [ja](/f39/language/ja) | 249 | 254 | 98.0 | /mnt/stockage/packages/f39/lskat/po/ja/lskat.po | 
+ | [ro](/f39/language/ro) | 249 | 254 | 98.0 | /mnt/stockage/packages/f39/lskat/po/ro/lskat.po | 
+ | [hne](/f39/language/hne) | 228 | 254 | 89.8 | /mnt/stockage/packages/f39/lskat/po/hne/lskat.po | 
+ | [ne](/f39/language/ne) | 195 | 254 | 76.8 | /mnt/stockage/packages/f39/lskat/po/ne/lskat.po | 
+ | [fa](/f39/language/fa) | 194 | 254 | 76.4 | /mnt/stockage/packages/f39/lskat/po/fa/lskat.po | 
+ | [hi](/f39/language/hi) | 174 | 254 | 68.5 | /mnt/stockage/packages/f39/lskat/po/hi/lskat.po | 
+ | [ms](/f39/language/ms) | 103 | 254 | 40.6 | /mnt/stockage/packages/f39/lskat/po/ms/lskat.po | 
+ | [cy](/f39/language/cy) | 100 | 254 | 39.4 | /mnt/stockage/packages/f39/lskat/po/cy/lskat.po | 
+ | [he](/f39/language/he) | 100 | 254 | 39.4 | /mnt/stockage/packages/f39/lskat/po/he/lskat.po | 
+ | [hr](/f39/language/hr) | 100 | 254 | 39.4 | /mnt/stockage/packages/f39/lskat/po/hr/lskat.po | 
+ | [is](/f39/language/is) | 100 | 254 | 39.4 | /mnt/stockage/packages/f39/lskat/po/is/lskat.po | 
+ | [mk](/f39/language/mk) | 100 | 254 | 39.4 | /mnt/stockage/packages/f39/lskat/po/mk/lskat.po | 
+ | [ta](/f39/language/ta) | 100 | 254 | 39.4 | /mnt/stockage/packages/f39/lskat/po/ta/lskat.po | 
+ | [tg](/f39/language/tg) | 100 | 254 | 39.4 | /mnt/stockage/packages/f39/lskat/po/tg/lskat.po | 
+ | [xh](/f39/language/xh) | 100 | 254 | 39.4 | /mnt/stockage/packages/f39/lskat/po/xh/lskat.po | 
+ | [af](/f39/language/af) | 97 | 254 | 38.2 | /mnt/stockage/packages/f39/lskat/po/af/lskat.po | 
+ | [bg](/f39/language/bg) | 96 | 254 | 37.8 | /mnt/stockage/packages/f39/lskat/po/bg/lskat.po | 
+ | [ug](/f39/language/ug) | 87 | 254 | 34.3 | /mnt/stockage/packages/f39/lskat/po/ug/lskat.po | 
+ | [mr](/f39/language/mr) | 64 | 254 | 25.2 | /mnt/stockage/packages/f39/lskat/po/mr/lskat.po | 
+ | [sq](/f39/language/sq) | 60 | 254 | 23.6 | /mnt/stockage/packages/f39/lskat/po/sq/lskat.po | 
+ | [lt](/f39/language/lt) | 58 | 254 | 22.8 | /mnt/stockage/packages/f39/lskat/po/lt/lskat.po | 
+ | [be](/f39/language/be) | 57 | 254 | 22.4 | /mnt/stockage/packages/f39/lskat/po/be/lskat.po | 
+ | [br](/f39/language/br) | 27 | 254 | 10.6 | /mnt/stockage/packages/f39/lskat/po/br/lskat.po | 
+ | [pa](/f39/language/pa) | 22 | 254 | 8.7 | /mnt/stockage/packages/f39/lskat/po/pa/lskat.po | 
+ | [mai](/f39/language/mai) | 21 | 254 | 8.3 | /mnt/stockage/packages/f39/lskat/po/mai/lskat.po | 
+ | [oc](/f39/language/oc) | 21 | 254 | 8.3 | /mnt/stockage/packages/f39/lskat/po/oc/lskat.po | 
+ | [ml](/f39/language/ml) | 2 | 254 | 0.8 | /mnt/stockage/packages/f39/lskat/po/ml/lskat.po | 
+ | [se](/f39/language/se) | 0 | 254 | 0.0 | /mnt/stockage/packages/f39/lskat/po/se/lskat.po | 
 {.sortable}
 
 

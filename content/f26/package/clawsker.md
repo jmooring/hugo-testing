@@ -18,19 +18,19 @@ The package clawsker (version 1.0.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f26/language/ca.md" >}}) | 1262 | 1262 | 100.0 | /mnt/stockage/packages/f26/clawsker/po/ca.po | 
- | [da]({{< ref "/f26/language/da.md" >}}) | 1262 | 1262 | 100.0 | /mnt/stockage/packages/f26/clawsker/po/da.po | 
- | [de]({{< ref "/f26/language/de.md" >}}) | 1231 | 1231 | 100.0 | /mnt/stockage/packages/f26/clawsker/po/de.po | 
- | [es]({{< ref "/f26/language/es.md" >}}) | 1262 | 1262 | 100.0 | /mnt/stockage/packages/f26/clawsker/po/es.po | 
- | [fr]({{< ref "/f26/language/fr.md" >}}) | 1262 | 1262 | 100.0 | /mnt/stockage/packages/f26/clawsker/po/fr.po | 
- | [id]({{< ref "/f26/language/id.md" >}}) | 1262 | 1262 | 100.0 | /mnt/stockage/packages/f26/clawsker/po/id.po | 
- | [it]({{< ref "/f26/language/it.md" >}}) | 840 | 840 | 100.0 | /mnt/stockage/packages/f26/clawsker/po/unmaint/it.po | 
- | [nb_NO]({{< ref "/f26/language/nb_NO.md" >}}) | 1262 | 1262 | 100.0 | /mnt/stockage/packages/f26/clawsker/po/nb.po | 
- | [nl]({{< ref "/f26/language/nl.md" >}}) | 1231 | 1231 | 100.0 | /mnt/stockage/packages/f26/clawsker/po/nl.po | 
- | [pt_BR]({{< ref "/f26/language/pt_BR.md" >}}) | 1231 | 1231 | 100.0 | /mnt/stockage/packages/f26/clawsker/po/pt_BR.po | 
- | [sr]({{< ref "/f26/language/sr.md" >}}) | 1312 | 1312 | 100.0 | /mnt/stockage/packages/f26/clawsker/po/unmaint/sr.po/mnt/stockage/packages/f26/clawsker/po/unmaint/sr@latin.po | 
- | [sv]({{< ref "/f26/language/sv.md" >}}) | 1262 | 1262 | 100.0 | /mnt/stockage/packages/f26/clawsker/po/sv.po | 
- | [tr]({{< ref "/f26/language/tr.md" >}}) | 1262 | 1262 | 100.0 | /mnt/stockage/packages/f26/clawsker/po/tr.po | 
+ | [ca](/f26/language/ca) | 1262 | 1262 | 100.0 | /mnt/stockage/packages/f26/clawsker/po/ca.po | 
+ | [da](/f26/language/da) | 1262 | 1262 | 100.0 | /mnt/stockage/packages/f26/clawsker/po/da.po | 
+ | [de](/f26/language/de) | 1231 | 1231 | 100.0 | /mnt/stockage/packages/f26/clawsker/po/de.po | 
+ | [es](/f26/language/es) | 1262 | 1262 | 100.0 | /mnt/stockage/packages/f26/clawsker/po/es.po | 
+ | [fr](/f26/language/fr) | 1262 | 1262 | 100.0 | /mnt/stockage/packages/f26/clawsker/po/fr.po | 
+ | [id](/f26/language/id) | 1262 | 1262 | 100.0 | /mnt/stockage/packages/f26/clawsker/po/id.po | 
+ | [it](/f26/language/it) | 840 | 840 | 100.0 | /mnt/stockage/packages/f26/clawsker/po/unmaint/it.po | 
+ | [nb_NO](/f26/language/nb_NO) | 1262 | 1262 | 100.0 | /mnt/stockage/packages/f26/clawsker/po/nb.po | 
+ | [nl](/f26/language/nl) | 1231 | 1231 | 100.0 | /mnt/stockage/packages/f26/clawsker/po/nl.po | 
+ | [pt_BR](/f26/language/pt_BR) | 1231 | 1231 | 100.0 | /mnt/stockage/packages/f26/clawsker/po/pt_BR.po | 
+ | [sr](/f26/language/sr) | 1312 | 1312 | 100.0 | /mnt/stockage/packages/f26/clawsker/po/unmaint/sr.po/mnt/stockage/packages/f26/clawsker/po/unmaint/sr@latin.po | 
+ | [sv](/f26/language/sv) | 1262 | 1262 | 100.0 | /mnt/stockage/packages/f26/clawsker/po/sv.po | 
+ | [tr](/f26/language/tr) | 1262 | 1262 | 100.0 | /mnt/stockage/packages/f26/clawsker/po/tr.po | 
 {.sortable}
 
 

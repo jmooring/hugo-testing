@@ -18,37 +18,37 @@ The package WindowMaker (version 0.95.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f16/language/ca.md" >}}) | 5082 | 5082 | 100.0 | /mnt/stockage/packages/f16/WindowMaker/po/ca.po/mnt/stockage/packages/f16/WindowMaker/WINGs/po/ca.po/mnt/stockage/packages/f16/WindowMaker/WPrefs.app/po/ca.po | 
- | [gl]({{< ref "/f16/language/gl.md" >}}) | 2043 | 2043 | 100.0 | /mnt/stockage/packages/f16/WindowMaker/po/gl.po | 
- | [ko]({{< ref "/f16/language/ko.md" >}}) | 3962 | 3962 | 100.0 | /mnt/stockage/packages/f16/WindowMaker/po/ko.po/mnt/stockage/packages/f16/WindowMaker/WPrefs.app/po/ko.po | 
- | [nb_NO]({{< ref "/f16/language/nb_NO.md" >}}) | 831 | 831 | 100.0 | /mnt/stockage/packages/f16/WindowMaker/po/no.po | 
- | [sv]({{< ref "/f16/language/sv.md" >}}) | 629 | 629 | 100.0 | /mnt/stockage/packages/f16/WindowMaker/po/sv.po | 
- | [zh_Hans]({{< ref "/f16/language/zh_Hans.md" >}}) | 3974 | 3974 | 100.0 | /mnt/stockage/packages/f16/WindowMaker/po/zh_CN.po/mnt/stockage/packages/f16/WindowMaker/WPrefs.app/po/zh_CN.po | 
- | [hu]({{< ref "/f16/language/hu.md" >}}) | 3983 | 3984 | 100.0 | /mnt/stockage/packages/f16/WindowMaker/po/hu.po/mnt/stockage/packages/f16/WindowMaker/WPrefs.app/po/hu.po | 
- | [nl]({{< ref "/f16/language/nl.md" >}}) | 628 | 629 | 99.8 | /mnt/stockage/packages/f16/WindowMaker/po/nl.po | 
- | [it]({{< ref "/f16/language/it.md" >}}) | 4301 | 4314 | 99.7 | /mnt/stockage/packages/f16/WindowMaker/po/it.po/mnt/stockage/packages/f16/WindowMaker/WPrefs.app/po/it.po | 
- | [sk]({{< ref "/f16/language/sk.md" >}}) | 4991 | 5016 | 99.5 | /mnt/stockage/packages/f16/WindowMaker/po/sk.po/mnt/stockage/packages/f16/WindowMaker/WINGs/po/sk.po/mnt/stockage/packages/f16/WindowMaker/WPrefs.app/po/sk.po | 
- | [bs]({{< ref "/f16/language/bs.md" >}}) | 1352 | 1360 | 99.4 | /mnt/stockage/packages/f16/WindowMaker/po/bs.po | 
- | [bg]({{< ref "/f16/language/bg.md" >}}) | 4878 | 4913 | 99.3 | /mnt/stockage/packages/f16/WindowMaker/po/bg.po/mnt/stockage/packages/f16/WindowMaker/WINGs/po/bg.po/mnt/stockage/packages/f16/WindowMaker/WPrefs.app/po/bg.po | 
- | [hr]({{< ref "/f16/language/hr.md" >}}) | 2669 | 2689 | 99.3 | /mnt/stockage/packages/f16/WindowMaker/po/hr.po/mnt/stockage/packages/f16/WindowMaker/WPrefs.app/po/hr.po | 
- | [pl]({{< ref "/f16/language/pl.md" >}}) | 1420 | 1431 | 99.2 | /mnt/stockage/packages/f16/WindowMaker/po/pl.po | 
- | [cs]({{< ref "/f16/language/cs.md" >}}) | 4839 | 4887 | 99.0 | /mnt/stockage/packages/f16/WindowMaker/po/cs.po/mnt/stockage/packages/f16/WindowMaker/WINGs/po/cs.po/mnt/stockage/packages/f16/WindowMaker/WPrefs.app/po/cs.po | 
- | [et]({{< ref "/f16/language/et.md" >}}) | 4657 | 4705 | 99.0 | /mnt/stockage/packages/f16/WindowMaker/po/et.po/mnt/stockage/packages/f16/WindowMaker/WPrefs.app/po/et.po | 
- | [tr]({{< ref "/f16/language/tr.md" >}}) | 1125 | 1139 | 98.8 | /mnt/stockage/packages/f16/WindowMaker/po/tr.po | 
- | [zh_Hant]({{< ref "/f16/language/zh_Hant.md" >}}) | 4101 | 4271 | 96.0 | /mnt/stockage/packages/f16/WindowMaker/po/zh_TW.po/mnt/stockage/packages/f16/WindowMaker/WPrefs.app/po/zh_TW.po | 
- | [fi]({{< ref "/f16/language/fi.md" >}}) | 4176 | 4359 | 95.8 | /mnt/stockage/packages/f16/WindowMaker/po/fi.po/mnt/stockage/packages/f16/WindowMaker/WPrefs.app/po/fi.po | 
- | [de]({{< ref "/f16/language/de.md" >}}) | 4538 | 4773 | 95.1 | /mnt/stockage/packages/f16/WindowMaker/po/de.po/mnt/stockage/packages/f16/WindowMaker/util/po/de.po/mnt/stockage/packages/f16/WindowMaker/WINGs/po/de.po/mnt/stockage/packages/f16/WindowMaker/WPrefs.app/po/de.po | 
- | [fr]({{< ref "/f16/language/fr.md" >}}) | 5192 | 5558 | 93.4 | /mnt/stockage/packages/f16/WindowMaker/po/fr.po/mnt/stockage/packages/f16/WindowMaker/util/po/fr.po/mnt/stockage/packages/f16/WindowMaker/WINGs/po/fr.po/mnt/stockage/packages/f16/WindowMaker/WPrefs.app/po/fr.po | 
- | [es]({{< ref "/f16/language/es.md" >}}) | 4846 | 5212 | 93.0 | /mnt/stockage/packages/f16/WindowMaker/po/es.po/mnt/stockage/packages/f16/WindowMaker/util/po/es.po/mnt/stockage/packages/f16/WindowMaker/WPrefs.app/po/es.po | 
- | [da]({{< ref "/f16/language/da.md" >}}) | 2239 | 2418 | 92.6 | /mnt/stockage/packages/f16/WindowMaker/po/da.po | 
- | [ja]({{< ref "/f16/language/ja.md" >}}) | 3924 | 4242 | 92.5 | /mnt/stockage/packages/f16/WindowMaker/po/ja.po/mnt/stockage/packages/f16/WindowMaker/WPrefs.app/po/ja.po | 
- | [pt]({{< ref "/f16/language/pt.md" >}}) | 4247 | 4613 | 92.1 | /mnt/stockage/packages/f16/WindowMaker/po/pt.po/mnt/stockage/packages/f16/WindowMaker/util/po/pt.po/mnt/stockage/packages/f16/WindowMaker/WPrefs.app/po/pt.po | 
- | [ru]({{< ref "/f16/language/ru.md" >}}) | 3928 | 4386 | 89.6 | /mnt/stockage/packages/f16/WindowMaker/po/ru.po/mnt/stockage/packages/f16/WindowMaker/WPrefs.app/po/ru.po | 
- | [ms]({{< ref "/f16/language/ms.md" >}}) | 2052 | 2414 | 85.0 | /mnt/stockage/packages/f16/WindowMaker/po/ms.po | 
- | [ro]({{< ref "/f16/language/ro.md" >}}) | 530 | 629 | 84.3 | /mnt/stockage/packages/f16/WindowMaker/po/ro.po | 
- | [el]({{< ref "/f16/language/el.md" >}}) | 1039 | 2011 | 51.7 | /mnt/stockage/packages/f16/WindowMaker/po/el.po | 
- | [hy]({{< ref "/f16/language/hy.md" >}}) | 369 | 2286 | 16.1 | /mnt/stockage/packages/f16/WindowMaker/po/hy.po | 
- | [be]({{< ref "/f16/language/be.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f16/WindowMaker/po/be.po | 
+ | [ca](/f16/language/ca) | 5082 | 5082 | 100.0 | /mnt/stockage/packages/f16/WindowMaker/po/ca.po/mnt/stockage/packages/f16/WindowMaker/WINGs/po/ca.po/mnt/stockage/packages/f16/WindowMaker/WPrefs.app/po/ca.po | 
+ | [gl](/f16/language/gl) | 2043 | 2043 | 100.0 | /mnt/stockage/packages/f16/WindowMaker/po/gl.po | 
+ | [ko](/f16/language/ko) | 3962 | 3962 | 100.0 | /mnt/stockage/packages/f16/WindowMaker/po/ko.po/mnt/stockage/packages/f16/WindowMaker/WPrefs.app/po/ko.po | 
+ | [nb_NO](/f16/language/nb_NO) | 831 | 831 | 100.0 | /mnt/stockage/packages/f16/WindowMaker/po/no.po | 
+ | [sv](/f16/language/sv) | 629 | 629 | 100.0 | /mnt/stockage/packages/f16/WindowMaker/po/sv.po | 
+ | [zh_Hans](/f16/language/zh_Hans) | 3974 | 3974 | 100.0 | /mnt/stockage/packages/f16/WindowMaker/po/zh_CN.po/mnt/stockage/packages/f16/WindowMaker/WPrefs.app/po/zh_CN.po | 
+ | [hu](/f16/language/hu) | 3983 | 3984 | 100.0 | /mnt/stockage/packages/f16/WindowMaker/po/hu.po/mnt/stockage/packages/f16/WindowMaker/WPrefs.app/po/hu.po | 
+ | [nl](/f16/language/nl) | 628 | 629 | 99.8 | /mnt/stockage/packages/f16/WindowMaker/po/nl.po | 
+ | [it](/f16/language/it) | 4301 | 4314 | 99.7 | /mnt/stockage/packages/f16/WindowMaker/po/it.po/mnt/stockage/packages/f16/WindowMaker/WPrefs.app/po/it.po | 
+ | [sk](/f16/language/sk) | 4991 | 5016 | 99.5 | /mnt/stockage/packages/f16/WindowMaker/po/sk.po/mnt/stockage/packages/f16/WindowMaker/WINGs/po/sk.po/mnt/stockage/packages/f16/WindowMaker/WPrefs.app/po/sk.po | 
+ | [bs](/f16/language/bs) | 1352 | 1360 | 99.4 | /mnt/stockage/packages/f16/WindowMaker/po/bs.po | 
+ | [bg](/f16/language/bg) | 4878 | 4913 | 99.3 | /mnt/stockage/packages/f16/WindowMaker/po/bg.po/mnt/stockage/packages/f16/WindowMaker/WINGs/po/bg.po/mnt/stockage/packages/f16/WindowMaker/WPrefs.app/po/bg.po | 
+ | [hr](/f16/language/hr) | 2669 | 2689 | 99.3 | /mnt/stockage/packages/f16/WindowMaker/po/hr.po/mnt/stockage/packages/f16/WindowMaker/WPrefs.app/po/hr.po | 
+ | [pl](/f16/language/pl) | 1420 | 1431 | 99.2 | /mnt/stockage/packages/f16/WindowMaker/po/pl.po | 
+ | [cs](/f16/language/cs) | 4839 | 4887 | 99.0 | /mnt/stockage/packages/f16/WindowMaker/po/cs.po/mnt/stockage/packages/f16/WindowMaker/WINGs/po/cs.po/mnt/stockage/packages/f16/WindowMaker/WPrefs.app/po/cs.po | 
+ | [et](/f16/language/et) | 4657 | 4705 | 99.0 | /mnt/stockage/packages/f16/WindowMaker/po/et.po/mnt/stockage/packages/f16/WindowMaker/WPrefs.app/po/et.po | 
+ | [tr](/f16/language/tr) | 1125 | 1139 | 98.8 | /mnt/stockage/packages/f16/WindowMaker/po/tr.po | 
+ | [zh_Hant](/f16/language/zh_Hant) | 4101 | 4271 | 96.0 | /mnt/stockage/packages/f16/WindowMaker/po/zh_TW.po/mnt/stockage/packages/f16/WindowMaker/WPrefs.app/po/zh_TW.po | 
+ | [fi](/f16/language/fi) | 4176 | 4359 | 95.8 | /mnt/stockage/packages/f16/WindowMaker/po/fi.po/mnt/stockage/packages/f16/WindowMaker/WPrefs.app/po/fi.po | 
+ | [de](/f16/language/de) | 4538 | 4773 | 95.1 | /mnt/stockage/packages/f16/WindowMaker/po/de.po/mnt/stockage/packages/f16/WindowMaker/util/po/de.po/mnt/stockage/packages/f16/WindowMaker/WINGs/po/de.po/mnt/stockage/packages/f16/WindowMaker/WPrefs.app/po/de.po | 
+ | [fr](/f16/language/fr) | 5192 | 5558 | 93.4 | /mnt/stockage/packages/f16/WindowMaker/po/fr.po/mnt/stockage/packages/f16/WindowMaker/util/po/fr.po/mnt/stockage/packages/f16/WindowMaker/WINGs/po/fr.po/mnt/stockage/packages/f16/WindowMaker/WPrefs.app/po/fr.po | 
+ | [es](/f16/language/es) | 4846 | 5212 | 93.0 | /mnt/stockage/packages/f16/WindowMaker/po/es.po/mnt/stockage/packages/f16/WindowMaker/util/po/es.po/mnt/stockage/packages/f16/WindowMaker/WPrefs.app/po/es.po | 
+ | [da](/f16/language/da) | 2239 | 2418 | 92.6 | /mnt/stockage/packages/f16/WindowMaker/po/da.po | 
+ | [ja](/f16/language/ja) | 3924 | 4242 | 92.5 | /mnt/stockage/packages/f16/WindowMaker/po/ja.po/mnt/stockage/packages/f16/WindowMaker/WPrefs.app/po/ja.po | 
+ | [pt](/f16/language/pt) | 4247 | 4613 | 92.1 | /mnt/stockage/packages/f16/WindowMaker/po/pt.po/mnt/stockage/packages/f16/WindowMaker/util/po/pt.po/mnt/stockage/packages/f16/WindowMaker/WPrefs.app/po/pt.po | 
+ | [ru](/f16/language/ru) | 3928 | 4386 | 89.6 | /mnt/stockage/packages/f16/WindowMaker/po/ru.po/mnt/stockage/packages/f16/WindowMaker/WPrefs.app/po/ru.po | 
+ | [ms](/f16/language/ms) | 2052 | 2414 | 85.0 | /mnt/stockage/packages/f16/WindowMaker/po/ms.po | 
+ | [ro](/f16/language/ro) | 530 | 629 | 84.3 | /mnt/stockage/packages/f16/WindowMaker/po/ro.po | 
+ | [el](/f16/language/el) | 1039 | 2011 | 51.7 | /mnt/stockage/packages/f16/WindowMaker/po/el.po | 
+ | [hy](/f16/language/hy) | 369 | 2286 | 16.1 | /mnt/stockage/packages/f16/WindowMaker/po/hy.po | 
+ | [be](/f16/language/be) | 0 | 0 | 0.0 | /mnt/stockage/packages/f16/WindowMaker/po/be.po | 
 {.sortable}
 
 

@@ -18,11 +18,11 @@ The package crosswords (version 0.3.13):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [es]({{< ref "/f39/language/es.md" >}}) | 1128 | 1128 | 100.0 | /mnt/stockage/packages/f39/crosswords/po/es.po | 
- | [fr]({{< ref "/f39/language/fr.md" >}}) | 1110 | 1110 | 100.0 | /mnt/stockage/packages/f39/crosswords/po/fr.po | 
- | [nl]({{< ref "/f39/language/nl.md" >}}) | 1110 | 1110 | 100.0 | /mnt/stockage/packages/f39/crosswords/po/nl.po | 
- | [it]({{< ref "/f39/language/it.md" >}}) | 1109 | 1110 | 99.9 | /mnt/stockage/packages/f39/crosswords/po/it.po | 
- | [de]({{< ref "/f39/language/de.md" >}}) | 1022 | 1110 | 92.1 | /mnt/stockage/packages/f39/crosswords/po/de_DE.po | 
+ | [es](/f39/language/es) | 1128 | 1128 | 100.0 | /mnt/stockage/packages/f39/crosswords/po/es.po | 
+ | [fr](/f39/language/fr) | 1110 | 1110 | 100.0 | /mnt/stockage/packages/f39/crosswords/po/fr.po | 
+ | [nl](/f39/language/nl) | 1110 | 1110 | 100.0 | /mnt/stockage/packages/f39/crosswords/po/nl.po | 
+ | [it](/f39/language/it) | 1109 | 1110 | 99.9 | /mnt/stockage/packages/f39/crosswords/po/it.po | 
+ | [de](/f39/language/de) | 1022 | 1110 | 92.1 | /mnt/stockage/packages/f39/crosswords/po/de_DE.po | 
 {.sortable}
 
 

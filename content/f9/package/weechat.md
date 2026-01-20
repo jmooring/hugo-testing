@@ -18,12 +18,12 @@ The package weechat (version 0.2.6):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f9/language/cs.md" >}}) | 7703 | 7703 | 100.0 | /mnt/stockage/packages/f9/weechat/po/cs.po | 
- | [fr]({{< ref "/f9/language/fr.md" >}}) | 7703 | 7703 | 100.0 | /mnt/stockage/packages/f9/weechat/po/fr.po | 
- | [ru]({{< ref "/f9/language/ru.md" >}}) | 7703 | 7703 | 100.0 | /mnt/stockage/packages/f9/weechat/po/ru.po | 
- | [de]({{< ref "/f9/language/de.md" >}}) | 6748 | 7703 | 87.6 | /mnt/stockage/packages/f9/weechat/po/de.po | 
- | [hu]({{< ref "/f9/language/hu.md" >}}) | 6228 | 7703 | 80.9 | /mnt/stockage/packages/f9/weechat/po/hu.po | 
- | [es]({{< ref "/f9/language/es.md" >}}) | 5896 | 7703 | 76.5 | /mnt/stockage/packages/f9/weechat/po/es.po | 
+ | [cs](/f9/language/cs) | 7703 | 7703 | 100.0 | /mnt/stockage/packages/f9/weechat/po/cs.po | 
+ | [fr](/f9/language/fr) | 7703 | 7703 | 100.0 | /mnt/stockage/packages/f9/weechat/po/fr.po | 
+ | [ru](/f9/language/ru) | 7703 | 7703 | 100.0 | /mnt/stockage/packages/f9/weechat/po/ru.po | 
+ | [de](/f9/language/de) | 6748 | 7703 | 87.6 | /mnt/stockage/packages/f9/weechat/po/de.po | 
+ | [hu](/f9/language/hu) | 6228 | 7703 | 80.9 | /mnt/stockage/packages/f9/weechat/po/hu.po | 
+ | [es](/f9/language/es) | 5896 | 7703 | 76.5 | /mnt/stockage/packages/f9/weechat/po/es.po | 
 {.sortable}
 
 

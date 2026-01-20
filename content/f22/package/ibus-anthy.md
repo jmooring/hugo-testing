@@ -18,12 +18,12 @@ The package ibus-anthy (version 1.5.8):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f22/language/ca.md" >}}) | 693 | 693 | 100.0 | /mnt/stockage/packages/f22/ibus-anthy/po/ca.po | 
- | [fr]({{< ref "/f22/language/fr.md" >}}) | 693 | 693 | 100.0 | /mnt/stockage/packages/f22/ibus-anthy/po/fr.po | 
- | [ja]({{< ref "/f22/language/ja.md" >}}) | 738 | 738 | 100.0 | /mnt/stockage/packages/f22/ibus-anthy/po/ja.po | 
- | [uk]({{< ref "/f22/language/uk.md" >}}) | 562 | 693 | 81.1 | /mnt/stockage/packages/f22/ibus-anthy/po/uk.po | 
- | [el]({{< ref "/f22/language/el.md" >}}) | 141 | 693 | 20.3 | /mnt/stockage/packages/f22/ibus-anthy/po/el.po | 
- | [zh_Hans]({{< ref "/f22/language/zh_Hans.md" >}}) | 29 | 693 | 4.2 | /mnt/stockage/packages/f22/ibus-anthy/po/zh_CN.po | 
+ | [ca](/f22/language/ca) | 693 | 693 | 100.0 | /mnt/stockage/packages/f22/ibus-anthy/po/ca.po | 
+ | [fr](/f22/language/fr) | 693 | 693 | 100.0 | /mnt/stockage/packages/f22/ibus-anthy/po/fr.po | 
+ | [ja](/f22/language/ja) | 738 | 738 | 100.0 | /mnt/stockage/packages/f22/ibus-anthy/po/ja.po | 
+ | [uk](/f22/language/uk) | 562 | 693 | 81.1 | /mnt/stockage/packages/f22/ibus-anthy/po/uk.po | 
+ | [el](/f22/language/el) | 141 | 693 | 20.3 | /mnt/stockage/packages/f22/ibus-anthy/po/el.po | 
+ | [zh_Hans](/f22/language/zh_Hans) | 29 | 693 | 4.2 | /mnt/stockage/packages/f22/ibus-anthy/po/zh_CN.po | 
 {.sortable}
 
 

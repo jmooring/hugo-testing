@@ -18,23 +18,23 @@ The package etckeeper (version 1.18.5):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f23/language/cs.md" >}}) | 41 | 41 | 100.0 | /mnt/stockage/packages/f23/etckeeper/debian/po/cs.po | 
- | [da]({{< ref "/f23/language/da.md" >}}) | 41 | 41 | 100.0 | /mnt/stockage/packages/f23/etckeeper/debian/po/da.po | 
- | [de]({{< ref "/f23/language/de.md" >}}) | 41 | 41 | 100.0 | /mnt/stockage/packages/f23/etckeeper/debian/po/de.po | 
- | [es]({{< ref "/f23/language/es.md" >}}) | 41 | 41 | 100.0 | /mnt/stockage/packages/f23/etckeeper/debian/po/es.po | 
- | [fr]({{< ref "/f23/language/fr.md" >}}) | 41 | 41 | 100.0 | /mnt/stockage/packages/f23/etckeeper/debian/po/fr.po | 
- | [it]({{< ref "/f23/language/it.md" >}}) | 41 | 41 | 100.0 | /mnt/stockage/packages/f23/etckeeper/debian/po/it.po | 
- | [ja]({{< ref "/f23/language/ja.md" >}}) | 41 | 41 | 100.0 | /mnt/stockage/packages/f23/etckeeper/debian/po/ja.po | 
- | [nl]({{< ref "/f23/language/nl.md" >}}) | 41 | 41 | 100.0 | /mnt/stockage/packages/f23/etckeeper/debian/po/nl.po | 
- | [pl]({{< ref "/f23/language/pl.md" >}}) | 41 | 41 | 100.0 | /mnt/stockage/packages/f23/etckeeper/debian/po/pl.po | 
- | [pt]({{< ref "/f23/language/pt.md" >}}) | 41 | 41 | 100.0 | /mnt/stockage/packages/f23/etckeeper/debian/po/pt.po | 
- | [pt_BR]({{< ref "/f23/language/pt_BR.md" >}}) | 41 | 41 | 100.0 | /mnt/stockage/packages/f23/etckeeper/debian/po/pt_BR.po | 
- | [ru]({{< ref "/f23/language/ru.md" >}}) | 41 | 41 | 100.0 | /mnt/stockage/packages/f23/etckeeper/debian/po/ru.po | 
- | [sv]({{< ref "/f23/language/sv.md" >}}) | 41 | 41 | 100.0 | /mnt/stockage/packages/f23/etckeeper/debian/po/sv.po | 
- | [vi]({{< ref "/f23/language/vi.md" >}}) | 41 | 41 | 100.0 | /mnt/stockage/packages/f23/etckeeper/debian/po/vi.po | 
- | [eu]({{< ref "/f23/language/eu.md" >}}) | 0 | 41 | 0.0 | /mnt/stockage/packages/f23/etckeeper/debian/po/eu.po | 
- | [fi]({{< ref "/f23/language/fi.md" >}}) | 0 | 41 | 0.0 | /mnt/stockage/packages/f23/etckeeper/debian/po/fi.po | 
- | [gl]({{< ref "/f23/language/gl.md" >}}) | 0 | 41 | 0.0 | /mnt/stockage/packages/f23/etckeeper/debian/po/gl.po | 
+ | [cs](/f23/language/cs) | 41 | 41 | 100.0 | /mnt/stockage/packages/f23/etckeeper/debian/po/cs.po | 
+ | [da](/f23/language/da) | 41 | 41 | 100.0 | /mnt/stockage/packages/f23/etckeeper/debian/po/da.po | 
+ | [de](/f23/language/de) | 41 | 41 | 100.0 | /mnt/stockage/packages/f23/etckeeper/debian/po/de.po | 
+ | [es](/f23/language/es) | 41 | 41 | 100.0 | /mnt/stockage/packages/f23/etckeeper/debian/po/es.po | 
+ | [fr](/f23/language/fr) | 41 | 41 | 100.0 | /mnt/stockage/packages/f23/etckeeper/debian/po/fr.po | 
+ | [it](/f23/language/it) | 41 | 41 | 100.0 | /mnt/stockage/packages/f23/etckeeper/debian/po/it.po | 
+ | [ja](/f23/language/ja) | 41 | 41 | 100.0 | /mnt/stockage/packages/f23/etckeeper/debian/po/ja.po | 
+ | [nl](/f23/language/nl) | 41 | 41 | 100.0 | /mnt/stockage/packages/f23/etckeeper/debian/po/nl.po | 
+ | [pl](/f23/language/pl) | 41 | 41 | 100.0 | /mnt/stockage/packages/f23/etckeeper/debian/po/pl.po | 
+ | [pt](/f23/language/pt) | 41 | 41 | 100.0 | /mnt/stockage/packages/f23/etckeeper/debian/po/pt.po | 
+ | [pt_BR](/f23/language/pt_BR) | 41 | 41 | 100.0 | /mnt/stockage/packages/f23/etckeeper/debian/po/pt_BR.po | 
+ | [ru](/f23/language/ru) | 41 | 41 | 100.0 | /mnt/stockage/packages/f23/etckeeper/debian/po/ru.po | 
+ | [sv](/f23/language/sv) | 41 | 41 | 100.0 | /mnt/stockage/packages/f23/etckeeper/debian/po/sv.po | 
+ | [vi](/f23/language/vi) | 41 | 41 | 100.0 | /mnt/stockage/packages/f23/etckeeper/debian/po/vi.po | 
+ | [eu](/f23/language/eu) | 0 | 41 | 0.0 | /mnt/stockage/packages/f23/etckeeper/debian/po/eu.po | 
+ | [fi](/f23/language/fi) | 0 | 41 | 0.0 | /mnt/stockage/packages/f23/etckeeper/debian/po/fi.po | 
+ | [gl](/f23/language/gl) | 0 | 41 | 0.0 | /mnt/stockage/packages/f23/etckeeper/debian/po/gl.po | 
 {.sortable}
 
 

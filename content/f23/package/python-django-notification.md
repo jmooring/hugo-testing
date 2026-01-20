@@ -18,8 +18,8 @@ The package python-django-notification (version 1.2.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f23/language/fr.md" >}}) | 64 | 64 | 100.0 | /mnt/stockage/packages/f23/python-django-notification/notification/locale/fr/LC_MESSAGES/django.po | 
- | [ru]({{< ref "/f23/language/ru.md" >}}) | 61 | 64 | 95.3 | /mnt/stockage/packages/f23/python-django-notification/notification/locale/ru/LC_MESSAGES/django.po | 
+ | [fr](/f23/language/fr) | 64 | 64 | 100.0 | /mnt/stockage/packages/f23/python-django-notification/notification/locale/fr/LC_MESSAGES/django.po | 
+ | [ru](/f23/language/ru) | 61 | 64 | 95.3 | /mnt/stockage/packages/f23/python-django-notification/notification/locale/ru/LC_MESSAGES/django.po | 
 {.sortable}
 
 

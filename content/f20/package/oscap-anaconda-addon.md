@@ -18,8 +18,8 @@ The package oscap-anaconda-addon (version 0.6):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f20/language/cs.md" >}}) | 112 | 112 | 100.0 | /mnt/stockage/packages/f20/oscap-anaconda-addon/po/cs.po | 
- | [pl]({{< ref "/f20/language/pl.md" >}}) | 112 | 112 | 100.0 | /mnt/stockage/packages/f20/oscap-anaconda-addon/po/pl.po | 
+ | [cs](/f20/language/cs) | 112 | 112 | 100.0 | /mnt/stockage/packages/f20/oscap-anaconda-addon/po/cs.po | 
+ | [pl](/f20/language/pl) | 112 | 112 | 100.0 | /mnt/stockage/packages/f20/oscap-anaconda-addon/po/pl.po | 
 {.sortable}
 
 

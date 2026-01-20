@@ -18,13 +18,13 @@ The package bacula2 (version 2.4.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f29/language/fr.md" >}}) | 6066 | 20292 | 29.9 | /mnt/stockage/packages/f29/bacula2/po/fr.po | 
- | [de]({{< ref "/f29/language/de.md" >}}) | 2391 | 20292 | 11.8 | /mnt/stockage/packages/f29/bacula2/po/de.po | 
- | [es]({{< ref "/f29/language/es.md" >}}) | 0 | 20287 | 0.0 | /mnt/stockage/packages/f29/bacula2/po/es.po | 
- | [es_AR]({{< ref "/f29/language/es_AR.md" >}}) | 0 | 18155 | 0.0 | /mnt/stockage/packages/f29/bacula2/po/es_AR.po | 
- | [fi]({{< ref "/f29/language/fi.md" >}}) | 0 | 20287 | 0.0 | /mnt/stockage/packages/f29/bacula2/po/fi.po | 
- | [it]({{< ref "/f29/language/it.md" >}}) | 0 | 20287 | 0.0 | /mnt/stockage/packages/f29/bacula2/po/it.po | 
- | [sv]({{< ref "/f29/language/sv.md" >}}) | 0 | 20287 | 0.0 | /mnt/stockage/packages/f29/bacula2/po/sv.po | 
+ | [fr](/f29/language/fr) | 6066 | 20292 | 29.9 | /mnt/stockage/packages/f29/bacula2/po/fr.po | 
+ | [de](/f29/language/de) | 2391 | 20292 | 11.8 | /mnt/stockage/packages/f29/bacula2/po/de.po | 
+ | [es](/f29/language/es) | 0 | 20287 | 0.0 | /mnt/stockage/packages/f29/bacula2/po/es.po | 
+ | [es_AR](/f29/language/es_AR) | 0 | 18155 | 0.0 | /mnt/stockage/packages/f29/bacula2/po/es_AR.po | 
+ | [fi](/f29/language/fi) | 0 | 20287 | 0.0 | /mnt/stockage/packages/f29/bacula2/po/fi.po | 
+ | [it](/f29/language/it) | 0 | 20287 | 0.0 | /mnt/stockage/packages/f29/bacula2/po/it.po | 
+ | [sv](/f29/language/sv) | 0 | 20287 | 0.0 | /mnt/stockage/packages/f29/bacula2/po/sv.po | 
 {.sortable}
 
 

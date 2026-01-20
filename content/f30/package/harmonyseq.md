@@ -18,12 +18,12 @@ The package harmonyseq (version 0.16):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [pl]({{< ref "/f30/language/pl.md" >}}) | 1867 | 1867 | 100.0 | /mnt/stockage/packages/f30/harmonyseq/po/pl.po | 
- | [ja]({{< ref "/f30/language/ja.md" >}}) | 1718 | 1867 | 92.0 | /mnt/stockage/packages/f30/harmonyseq/po/ja.po | 
- | [de]({{< ref "/f30/language/de.md" >}}) | 1285 | 1867 | 68.8 | /mnt/stockage/packages/f30/harmonyseq/po/de.po | 
- | [en_GB]({{< ref "/f30/language/en_GB.md" >}}) | 1285 | 1867 | 68.8 | /mnt/stockage/packages/f30/harmonyseq/po/en_GB.po | 
- | [tr]({{< ref "/f30/language/tr.md" >}}) | 121 | 1867 | 6.5 | /mnt/stockage/packages/f30/harmonyseq/po/tr.po | 
- | [en]({{< ref "/f30/language/en.md" >}}) | 120 | 1867 | 6.4 | /mnt/stockage/packages/f30/harmonyseq/po/en.po | 
+ | [pl](/f30/language/pl) | 1867 | 1867 | 100.0 | /mnt/stockage/packages/f30/harmonyseq/po/pl.po | 
+ | [ja](/f30/language/ja) | 1718 | 1867 | 92.0 | /mnt/stockage/packages/f30/harmonyseq/po/ja.po | 
+ | [de](/f30/language/de) | 1285 | 1867 | 68.8 | /mnt/stockage/packages/f30/harmonyseq/po/de.po | 
+ | [en_GB](/f30/language/en_GB) | 1285 | 1867 | 68.8 | /mnt/stockage/packages/f30/harmonyseq/po/en_GB.po | 
+ | [tr](/f30/language/tr) | 121 | 1867 | 6.5 | /mnt/stockage/packages/f30/harmonyseq/po/tr.po | 
+ | [en](/f30/language/en) | 120 | 1867 | 6.4 | /mnt/stockage/packages/f30/harmonyseq/po/en.po | 
 {.sortable}
 
 

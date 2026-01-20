@@ -40,19 +40,19 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [nautilus]({{< ref "/f18/package/nautilus.md" >}}) | 6259 | 7403 | 84.5 | Tibetan <bo@li.org> | 
- | [nemo]({{< ref "/f18/package/nemo.md" >}}) | 6259 | 7403 | 84.5 | Tibetan <bo@li.org> | 
- | [libreoffice]({{< ref "/f18/package/libreoffice.md" >}}) | 402208 | 531878 | 75.6 | LANGUAGE <LL@li.org> | 
- | [console-setup]({{< ref "/f18/package/console-setup.md" >}}) | 501 | 979 | 51.2 | bo <translation-team-bo@lists.sourceforge.net> | 
- | [tuxpaint]({{< ref "/f18/package/tuxpaint.md" >}}) | 61 | 1247 | 4.9 | LANGUAGE <LL@li.org> | 
- | [pootle]({{< ref "/f18/package/pootle.md" >}}) | 4 | 2424 | 0.2 | LANGUAGE <LL@li.org> | 
- | [deja-dup]({{< ref "/f18/package/deja-dup.md" >}}) | 0 | 1756 | 0.0 | Tibetan <bo@li.org> | 
- | [gnomebaker]({{< ref "/f18/package/gnomebaker.md" >}}) | 0 | 1186 | 0.0 | Tibetan <bo@li.org> | 
- | [lightdm]({{< ref "/f18/package/lightdm.md" >}}) | 0 | 79 | 0.0 | Tibetan <bo@li.org> | 
- | [lightdm-gtk]({{< ref "/f18/package/lightdm-gtk.md" >}}) | 0 | 57 | 0.0 | Tibetan <bo@li.org> | 
- | [stellarium]({{< ref "/f18/package/stellarium.md" >}}) | 0 | 11181 | 0.0 | Tibetan <bo@li.org> | 
- | [transmission]({{< ref "/f18/package/transmission.md" >}}) | 0 | 1809 | 0.0 | Tibetan <bo@li.org> | 
- | [vidalia]({{< ref "/f18/package/vidalia.md" >}}) | 0 | 10377 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [nautilus](/f18/package/nautilus) | 6259 | 7403 | 84.5 | Tibetan <bo@li.org> | 
+ | [nemo](/f18/package/nemo) | 6259 | 7403 | 84.5 | Tibetan <bo@li.org> | 
+ | [libreoffice](/f18/package/libreoffice) | 402208 | 531878 | 75.6 | LANGUAGE <LL@li.org> | 
+ | [console-setup](/f18/package/console-setup) | 501 | 979 | 51.2 | bo <translation-team-bo@lists.sourceforge.net> | 
+ | [tuxpaint](/f18/package/tuxpaint) | 61 | 1247 | 4.9 | LANGUAGE <LL@li.org> | 
+ | [pootle](/f18/package/pootle) | 4 | 2424 | 0.2 | LANGUAGE <LL@li.org> | 
+ | [deja-dup](/f18/package/deja-dup) | 0 | 1756 | 0.0 | Tibetan <bo@li.org> | 
+ | [gnomebaker](/f18/package/gnomebaker) | 0 | 1186 | 0.0 | Tibetan <bo@li.org> | 
+ | [lightdm](/f18/package/lightdm) | 0 | 79 | 0.0 | Tibetan <bo@li.org> | 
+ | [lightdm-gtk](/f18/package/lightdm-gtk) | 0 | 57 | 0.0 | Tibetan <bo@li.org> | 
+ | [stellarium](/f18/package/stellarium) | 0 | 11181 | 0.0 | Tibetan <bo@li.org> | 
+ | [transmission](/f18/package/transmission) | 0 | 1809 | 0.0 | Tibetan <bo@li.org> | 
+ | [vidalia](/f18/package/vidalia) | 0 | 10377 | 0.0 | LANGUAGE <LL@li.org> | 
 {.sortable}
 
 

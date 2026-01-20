@@ -38,13 +38,13 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [supertux]({{< ref "/f31/package/supertux.md" >}}) | 229 | 2980 | 7.7 | Lojban (http://www.transifex.com/arctic-games/supertux/language/jbo/) | 
- | [supertuxkart]({{< ref "/f31/package/supertuxkart.md" >}}) | 257 | 5341 | 4.8 | Lojban (http://www.transifex.com/supertuxkart/supertuxkart/language/jbo/) | 
- | [minetest]({{< ref "/f31/package/minetest.md" >}}) | 174 | 6406 | 2.7 | Lojban <https://hosted.weblate.org/projects/minetest/minetest/jbo/> | 
- | [fragments]({{< ref "/f31/package/fragments.md" >}}) | 49 | 2006 | 2.4 | Lojban (https://www.transifex.com/transmissionbt/teams/33778/jbo/) | 
- | [elementary-files]({{< ref "/f31/package/elementary-files.md" >}}) | 0 | 2911 | 0.0 | Lojban <jbo@li.org> | 
- | [elementary-photos]({{< ref "/f31/package/elementary-photos.md" >}}) | 0 | 3910 | 0.0 | none | 
- | [switchboard]({{< ref "/f31/package/switchboard.md" >}}) | 0 | 124 | 0.0 | none | 
+ | [supertux](/f31/package/supertux) | 229 | 2980 | 7.7 | Lojban (http://www.transifex.com/arctic-games/supertux/language/jbo/) | 
+ | [supertuxkart](/f31/package/supertuxkart) | 257 | 5341 | 4.8 | Lojban (http://www.transifex.com/supertuxkart/supertuxkart/language/jbo/) | 
+ | [minetest](/f31/package/minetest) | 174 | 6406 | 2.7 | Lojban <https://hosted.weblate.org/projects/minetest/minetest/jbo/> | 
+ | [fragments](/f31/package/fragments) | 49 | 2006 | 2.4 | Lojban (https://www.transifex.com/transmissionbt/teams/33778/jbo/) | 
+ | [elementary-files](/f31/package/elementary-files) | 0 | 2911 | 0.0 | Lojban <jbo@li.org> | 
+ | [elementary-photos](/f31/package/elementary-photos) | 0 | 3910 | 0.0 | none | 
+ | [switchboard](/f31/package/switchboard) | 0 | 124 | 0.0 | none | 
 {.sortable}
 
 

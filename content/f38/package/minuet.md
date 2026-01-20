@@ -18,39 +18,39 @@ The package minuet (version 23.08.5):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f38/language/ca.md" >}}) | 412 | 412 | 100.0 | /mnt/stockage/packages/f38/minuet/po/ca/minuet.po | 
- | [ca@valencia]({{< ref "/f38/language/ca@valencia.md" >}}) | 412 | 412 | 100.0 | /mnt/stockage/packages/f38/minuet/po/ca@valencia/minuet.po | 
- | [en_GB]({{< ref "/f38/language/en_GB.md" >}}) | 412 | 412 | 100.0 | /mnt/stockage/packages/f38/minuet/po/en_GB/minuet.po | 
- | [es]({{< ref "/f38/language/es.md" >}}) | 412 | 412 | 100.0 | /mnt/stockage/packages/f38/minuet/po/es/minuet.po | 
- | [eu]({{< ref "/f38/language/eu.md" >}}) | 412 | 412 | 100.0 | /mnt/stockage/packages/f38/minuet/po/eu/minuet.po | 
- | [fi]({{< ref "/f38/language/fi.md" >}}) | 412 | 412 | 100.0 | /mnt/stockage/packages/f38/minuet/po/fi/minuet.po | 
- | [fr]({{< ref "/f38/language/fr.md" >}}) | 412 | 412 | 100.0 | /mnt/stockage/packages/f38/minuet/po/fr/minuet.po | 
- | [gl]({{< ref "/f38/language/gl.md" >}}) | 412 | 412 | 100.0 | /mnt/stockage/packages/f38/minuet/po/gl/minuet.po | 
- | [it]({{< ref "/f38/language/it.md" >}}) | 412 | 412 | 100.0 | /mnt/stockage/packages/f38/minuet/po/it/minuet.po | 
- | [ka]({{< ref "/f38/language/ka.md" >}}) | 412 | 412 | 100.0 | /mnt/stockage/packages/f38/minuet/po/ka/minuet.po | 
- | [ko]({{< ref "/f38/language/ko.md" >}}) | 412 | 412 | 100.0 | /mnt/stockage/packages/f38/minuet/po/ko/minuet.po | 
- | [nl]({{< ref "/f38/language/nl.md" >}}) | 412 | 412 | 100.0 | /mnt/stockage/packages/f38/minuet/po/nl/minuet.po | 
- | [pl]({{< ref "/f38/language/pl.md" >}}) | 412 | 412 | 100.0 | /mnt/stockage/packages/f38/minuet/po/pl/minuet.po | 
- | [pt]({{< ref "/f38/language/pt.md" >}}) | 412 | 412 | 100.0 | /mnt/stockage/packages/f38/minuet/po/pt/minuet.po | 
- | [pt_BR]({{< ref "/f38/language/pt_BR.md" >}}) | 412 | 412 | 100.0 | /mnt/stockage/packages/f38/minuet/po/pt_BR/minuet.po | 
- | [ru]({{< ref "/f38/language/ru.md" >}}) | 412 | 412 | 100.0 | /mnt/stockage/packages/f38/minuet/po/ru/minuet.po | 
- | [sk]({{< ref "/f38/language/sk.md" >}}) | 412 | 412 | 100.0 | /mnt/stockage/packages/f38/minuet/po/sk/minuet.po | 
- | [sl]({{< ref "/f38/language/sl.md" >}}) | 412 | 412 | 100.0 | /mnt/stockage/packages/f38/minuet/po/sl/minuet.po | 
- | [sv]({{< ref "/f38/language/sv.md" >}}) | 412 | 412 | 100.0 | /mnt/stockage/packages/f38/minuet/po/sv/minuet.po | 
- | [tr]({{< ref "/f38/language/tr.md" >}}) | 412 | 412 | 100.0 | /mnt/stockage/packages/f38/minuet/po/tr/minuet.po | 
- | [uk]({{< ref "/f38/language/uk.md" >}}) | 412 | 412 | 100.0 | /mnt/stockage/packages/f38/minuet/po/uk/minuet.po | 
- | [eo]({{< ref "/f38/language/eo.md" >}}) | 326 | 412 | 79.1 | /mnt/stockage/packages/f38/minuet/po/eo/minuet.po | 
- | [da]({{< ref "/f38/language/da.md" >}}) | 293 | 412 | 71.1 | /mnt/stockage/packages/f38/minuet/po/da/minuet.po | 
- | [zh_Hant]({{< ref "/f38/language/zh_Hant.md" >}}) | 215 | 412 | 52.2 | /mnt/stockage/packages/f38/minuet/po/zh_TW/minuet.po | 
- | [et]({{< ref "/f38/language/et.md" >}}) | 205 | 412 | 49.8 | /mnt/stockage/packages/f38/minuet/po/et/minuet.po | 
- | [zh_Hans]({{< ref "/f38/language/zh_Hans.md" >}}) | 188 | 412 | 45.6 | /mnt/stockage/packages/f38/minuet/po/zh_CN/minuet.po | 
- | [de]({{< ref "/f38/language/de.md" >}}) | 141 | 412 | 34.2 | /mnt/stockage/packages/f38/minuet/po/de/minuet.po | 
- | [nn]({{< ref "/f38/language/nn.md" >}}) | 135 | 412 | 32.8 | /mnt/stockage/packages/f38/minuet/po/nn/minuet.po | 
- | [cs]({{< ref "/f38/language/cs.md" >}}) | 49 | 412 | 11.9 | /mnt/stockage/packages/f38/minuet/po/cs/minuet.po | 
- | [ar]({{< ref "/f38/language/ar.md" >}}) | 8 | 412 | 1.9 | /mnt/stockage/packages/f38/minuet/po/ar/minuet.po | 
- | [ml]({{< ref "/f38/language/ml.md" >}}) | 2 | 412 | 0.5 | /mnt/stockage/packages/f38/minuet/po/ml/minuet.po | 
- | [ja]({{< ref "/f38/language/ja.md" >}}) | 0 | 412 | 0.0 | /mnt/stockage/packages/f38/minuet/po/ja/minuet.po | 
- | [lt]({{< ref "/f38/language/lt.md" >}}) | 0 | 412 | 0.0 | /mnt/stockage/packages/f38/minuet/po/lt/minuet.po | 
+ | [ca](/f38/language/ca) | 412 | 412 | 100.0 | /mnt/stockage/packages/f38/minuet/po/ca/minuet.po | 
+ | [ca@valencia](/f38/language/ca@valencia) | 412 | 412 | 100.0 | /mnt/stockage/packages/f38/minuet/po/ca@valencia/minuet.po | 
+ | [en_GB](/f38/language/en_GB) | 412 | 412 | 100.0 | /mnt/stockage/packages/f38/minuet/po/en_GB/minuet.po | 
+ | [es](/f38/language/es) | 412 | 412 | 100.0 | /mnt/stockage/packages/f38/minuet/po/es/minuet.po | 
+ | [eu](/f38/language/eu) | 412 | 412 | 100.0 | /mnt/stockage/packages/f38/minuet/po/eu/minuet.po | 
+ | [fi](/f38/language/fi) | 412 | 412 | 100.0 | /mnt/stockage/packages/f38/minuet/po/fi/minuet.po | 
+ | [fr](/f38/language/fr) | 412 | 412 | 100.0 | /mnt/stockage/packages/f38/minuet/po/fr/minuet.po | 
+ | [gl](/f38/language/gl) | 412 | 412 | 100.0 | /mnt/stockage/packages/f38/minuet/po/gl/minuet.po | 
+ | [it](/f38/language/it) | 412 | 412 | 100.0 | /mnt/stockage/packages/f38/minuet/po/it/minuet.po | 
+ | [ka](/f38/language/ka) | 412 | 412 | 100.0 | /mnt/stockage/packages/f38/minuet/po/ka/minuet.po | 
+ | [ko](/f38/language/ko) | 412 | 412 | 100.0 | /mnt/stockage/packages/f38/minuet/po/ko/minuet.po | 
+ | [nl](/f38/language/nl) | 412 | 412 | 100.0 | /mnt/stockage/packages/f38/minuet/po/nl/minuet.po | 
+ | [pl](/f38/language/pl) | 412 | 412 | 100.0 | /mnt/stockage/packages/f38/minuet/po/pl/minuet.po | 
+ | [pt](/f38/language/pt) | 412 | 412 | 100.0 | /mnt/stockage/packages/f38/minuet/po/pt/minuet.po | 
+ | [pt_BR](/f38/language/pt_BR) | 412 | 412 | 100.0 | /mnt/stockage/packages/f38/minuet/po/pt_BR/minuet.po | 
+ | [ru](/f38/language/ru) | 412 | 412 | 100.0 | /mnt/stockage/packages/f38/minuet/po/ru/minuet.po | 
+ | [sk](/f38/language/sk) | 412 | 412 | 100.0 | /mnt/stockage/packages/f38/minuet/po/sk/minuet.po | 
+ | [sl](/f38/language/sl) | 412 | 412 | 100.0 | /mnt/stockage/packages/f38/minuet/po/sl/minuet.po | 
+ | [sv](/f38/language/sv) | 412 | 412 | 100.0 | /mnt/stockage/packages/f38/minuet/po/sv/minuet.po | 
+ | [tr](/f38/language/tr) | 412 | 412 | 100.0 | /mnt/stockage/packages/f38/minuet/po/tr/minuet.po | 
+ | [uk](/f38/language/uk) | 412 | 412 | 100.0 | /mnt/stockage/packages/f38/minuet/po/uk/minuet.po | 
+ | [eo](/f38/language/eo) | 326 | 412 | 79.1 | /mnt/stockage/packages/f38/minuet/po/eo/minuet.po | 
+ | [da](/f38/language/da) | 293 | 412 | 71.1 | /mnt/stockage/packages/f38/minuet/po/da/minuet.po | 
+ | [zh_Hant](/f38/language/zh_Hant) | 215 | 412 | 52.2 | /mnt/stockage/packages/f38/minuet/po/zh_TW/minuet.po | 
+ | [et](/f38/language/et) | 205 | 412 | 49.8 | /mnt/stockage/packages/f38/minuet/po/et/minuet.po | 
+ | [zh_Hans](/f38/language/zh_Hans) | 188 | 412 | 45.6 | /mnt/stockage/packages/f38/minuet/po/zh_CN/minuet.po | 
+ | [de](/f38/language/de) | 141 | 412 | 34.2 | /mnt/stockage/packages/f38/minuet/po/de/minuet.po | 
+ | [nn](/f38/language/nn) | 135 | 412 | 32.8 | /mnt/stockage/packages/f38/minuet/po/nn/minuet.po | 
+ | [cs](/f38/language/cs) | 49 | 412 | 11.9 | /mnt/stockage/packages/f38/minuet/po/cs/minuet.po | 
+ | [ar](/f38/language/ar) | 8 | 412 | 1.9 | /mnt/stockage/packages/f38/minuet/po/ar/minuet.po | 
+ | [ml](/f38/language/ml) | 2 | 412 | 0.5 | /mnt/stockage/packages/f38/minuet/po/ml/minuet.po | 
+ | [ja](/f38/language/ja) | 0 | 412 | 0.0 | /mnt/stockage/packages/f38/minuet/po/ja/minuet.po | 
+ | [lt](/f38/language/lt) | 0 | 412 | 0.0 | /mnt/stockage/packages/f38/minuet/po/lt/minuet.po | 
 {.sortable}
 
 

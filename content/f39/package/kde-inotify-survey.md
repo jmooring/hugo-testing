@@ -18,33 +18,33 @@ The package kde-inotify-survey (version 23.08.5):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f39/language/ca.md" >}}) | 190 | 190 | 100.0 | /mnt/stockage/packages/f39/kde-inotify-survey/po/ca/kde-inotify-survey.po | 
- | [ca@valencia]({{< ref "/f39/language/ca@valencia.md" >}}) | 190 | 190 | 100.0 | /mnt/stockage/packages/f39/kde-inotify-survey/po/ca@valencia/kde-inotify-survey.po | 
- | [de]({{< ref "/f39/language/de.md" >}}) | 190 | 190 | 100.0 | /mnt/stockage/packages/f39/kde-inotify-survey/po/de/kde-inotify-survey.po | 
- | [en_GB]({{< ref "/f39/language/en_GB.md" >}}) | 190 | 190 | 100.0 | /mnt/stockage/packages/f39/kde-inotify-survey/po/en_GB/kde-inotify-survey.po | 
- | [es]({{< ref "/f39/language/es.md" >}}) | 190 | 190 | 100.0 | /mnt/stockage/packages/f39/kde-inotify-survey/po/es/kde-inotify-survey.po | 
- | [eu]({{< ref "/f39/language/eu.md" >}}) | 190 | 190 | 100.0 | /mnt/stockage/packages/f39/kde-inotify-survey/po/eu/kde-inotify-survey.po | 
- | [fi]({{< ref "/f39/language/fi.md" >}}) | 190 | 190 | 100.0 | /mnt/stockage/packages/f39/kde-inotify-survey/po/fi/kde-inotify-survey.po | 
- | [fr]({{< ref "/f39/language/fr.md" >}}) | 190 | 190 | 100.0 | /mnt/stockage/packages/f39/kde-inotify-survey/po/fr/kde-inotify-survey.po | 
- | [gl]({{< ref "/f39/language/gl.md" >}}) | 190 | 190 | 100.0 | /mnt/stockage/packages/f39/kde-inotify-survey/po/gl/kde-inotify-survey.po | 
- | [id]({{< ref "/f39/language/id.md" >}}) | 190 | 190 | 100.0 | /mnt/stockage/packages/f39/kde-inotify-survey/po/id/kde-inotify-survey.po | 
- | [it]({{< ref "/f39/language/it.md" >}}) | 190 | 190 | 100.0 | /mnt/stockage/packages/f39/kde-inotify-survey/po/it/kde-inotify-survey.po | 
- | [ka]({{< ref "/f39/language/ka.md" >}}) | 190 | 190 | 100.0 | /mnt/stockage/packages/f39/kde-inotify-survey/po/ka/kde-inotify-survey.po | 
- | [ko]({{< ref "/f39/language/ko.md" >}}) | 190 | 190 | 100.0 | /mnt/stockage/packages/f39/kde-inotify-survey/po/ko/kde-inotify-survey.po | 
- | [nl]({{< ref "/f39/language/nl.md" >}}) | 190 | 190 | 100.0 | /mnt/stockage/packages/f39/kde-inotify-survey/po/nl/kde-inotify-survey.po | 
- | [pl]({{< ref "/f39/language/pl.md" >}}) | 190 | 190 | 100.0 | /mnt/stockage/packages/f39/kde-inotify-survey/po/pl/kde-inotify-survey.po | 
- | [pt]({{< ref "/f39/language/pt.md" >}}) | 190 | 190 | 100.0 | /mnt/stockage/packages/f39/kde-inotify-survey/po/pt/kde-inotify-survey.po | 
- | [ru]({{< ref "/f39/language/ru.md" >}}) | 190 | 190 | 100.0 | /mnt/stockage/packages/f39/kde-inotify-survey/po/ru/kde-inotify-survey.po | 
- | [sl]({{< ref "/f39/language/sl.md" >}}) | 190 | 190 | 100.0 | /mnt/stockage/packages/f39/kde-inotify-survey/po/sl/kde-inotify-survey.po | 
- | [sv]({{< ref "/f39/language/sv.md" >}}) | 190 | 190 | 100.0 | /mnt/stockage/packages/f39/kde-inotify-survey/po/sv/kde-inotify-survey.po | 
- | [tr]({{< ref "/f39/language/tr.md" >}}) | 190 | 190 | 100.0 | /mnt/stockage/packages/f39/kde-inotify-survey/po/tr/kde-inotify-survey.po | 
- | [uk]({{< ref "/f39/language/uk.md" >}}) | 190 | 190 | 100.0 | /mnt/stockage/packages/f39/kde-inotify-survey/po/uk/kde-inotify-survey.po | 
- | [zh_Hans]({{< ref "/f39/language/zh_Hans.md" >}}) | 190 | 190 | 100.0 | /mnt/stockage/packages/f39/kde-inotify-survey/po/zh_CN/kde-inotify-survey.po | 
- | [zh_Hant]({{< ref "/f39/language/zh_Hant.md" >}}) | 190 | 190 | 100.0 | /mnt/stockage/packages/f39/kde-inotify-survey/po/zh_TW/kde-inotify-survey.po | 
- | [sk]({{< ref "/f39/language/sk.md" >}}) | 3 | 190 | 1.6 | /mnt/stockage/packages/f39/kde-inotify-survey/po/sk/kde-inotify-survey.po | 
- | [cs]({{< ref "/f39/language/cs.md" >}}) | 0 | 190 | 0.0 | /mnt/stockage/packages/f39/kde-inotify-survey/po/cs/kde-inotify-survey.po | 
- | [ja]({{< ref "/f39/language/ja.md" >}}) | 0 | 190 | 0.0 | /mnt/stockage/packages/f39/kde-inotify-survey/po/ja/kde-inotify-survey.po | 
- | [lt]({{< ref "/f39/language/lt.md" >}}) | 0 | 190 | 0.0 | /mnt/stockage/packages/f39/kde-inotify-survey/po/lt/kde-inotify-survey.po | 
+ | [ca](/f39/language/ca) | 190 | 190 | 100.0 | /mnt/stockage/packages/f39/kde-inotify-survey/po/ca/kde-inotify-survey.po | 
+ | [ca@valencia](/f39/language/ca@valencia) | 190 | 190 | 100.0 | /mnt/stockage/packages/f39/kde-inotify-survey/po/ca@valencia/kde-inotify-survey.po | 
+ | [de](/f39/language/de) | 190 | 190 | 100.0 | /mnt/stockage/packages/f39/kde-inotify-survey/po/de/kde-inotify-survey.po | 
+ | [en_GB](/f39/language/en_GB) | 190 | 190 | 100.0 | /mnt/stockage/packages/f39/kde-inotify-survey/po/en_GB/kde-inotify-survey.po | 
+ | [es](/f39/language/es) | 190 | 190 | 100.0 | /mnt/stockage/packages/f39/kde-inotify-survey/po/es/kde-inotify-survey.po | 
+ | [eu](/f39/language/eu) | 190 | 190 | 100.0 | /mnt/stockage/packages/f39/kde-inotify-survey/po/eu/kde-inotify-survey.po | 
+ | [fi](/f39/language/fi) | 190 | 190 | 100.0 | /mnt/stockage/packages/f39/kde-inotify-survey/po/fi/kde-inotify-survey.po | 
+ | [fr](/f39/language/fr) | 190 | 190 | 100.0 | /mnt/stockage/packages/f39/kde-inotify-survey/po/fr/kde-inotify-survey.po | 
+ | [gl](/f39/language/gl) | 190 | 190 | 100.0 | /mnt/stockage/packages/f39/kde-inotify-survey/po/gl/kde-inotify-survey.po | 
+ | [id](/f39/language/id) | 190 | 190 | 100.0 | /mnt/stockage/packages/f39/kde-inotify-survey/po/id/kde-inotify-survey.po | 
+ | [it](/f39/language/it) | 190 | 190 | 100.0 | /mnt/stockage/packages/f39/kde-inotify-survey/po/it/kde-inotify-survey.po | 
+ | [ka](/f39/language/ka) | 190 | 190 | 100.0 | /mnt/stockage/packages/f39/kde-inotify-survey/po/ka/kde-inotify-survey.po | 
+ | [ko](/f39/language/ko) | 190 | 190 | 100.0 | /mnt/stockage/packages/f39/kde-inotify-survey/po/ko/kde-inotify-survey.po | 
+ | [nl](/f39/language/nl) | 190 | 190 | 100.0 | /mnt/stockage/packages/f39/kde-inotify-survey/po/nl/kde-inotify-survey.po | 
+ | [pl](/f39/language/pl) | 190 | 190 | 100.0 | /mnt/stockage/packages/f39/kde-inotify-survey/po/pl/kde-inotify-survey.po | 
+ | [pt](/f39/language/pt) | 190 | 190 | 100.0 | /mnt/stockage/packages/f39/kde-inotify-survey/po/pt/kde-inotify-survey.po | 
+ | [ru](/f39/language/ru) | 190 | 190 | 100.0 | /mnt/stockage/packages/f39/kde-inotify-survey/po/ru/kde-inotify-survey.po | 
+ | [sl](/f39/language/sl) | 190 | 190 | 100.0 | /mnt/stockage/packages/f39/kde-inotify-survey/po/sl/kde-inotify-survey.po | 
+ | [sv](/f39/language/sv) | 190 | 190 | 100.0 | /mnt/stockage/packages/f39/kde-inotify-survey/po/sv/kde-inotify-survey.po | 
+ | [tr](/f39/language/tr) | 190 | 190 | 100.0 | /mnt/stockage/packages/f39/kde-inotify-survey/po/tr/kde-inotify-survey.po | 
+ | [uk](/f39/language/uk) | 190 | 190 | 100.0 | /mnt/stockage/packages/f39/kde-inotify-survey/po/uk/kde-inotify-survey.po | 
+ | [zh_Hans](/f39/language/zh_Hans) | 190 | 190 | 100.0 | /mnt/stockage/packages/f39/kde-inotify-survey/po/zh_CN/kde-inotify-survey.po | 
+ | [zh_Hant](/f39/language/zh_Hant) | 190 | 190 | 100.0 | /mnt/stockage/packages/f39/kde-inotify-survey/po/zh_TW/kde-inotify-survey.po | 
+ | [sk](/f39/language/sk) | 3 | 190 | 1.6 | /mnt/stockage/packages/f39/kde-inotify-survey/po/sk/kde-inotify-survey.po | 
+ | [cs](/f39/language/cs) | 0 | 190 | 0.0 | /mnt/stockage/packages/f39/kde-inotify-survey/po/cs/kde-inotify-survey.po | 
+ | [ja](/f39/language/ja) | 0 | 190 | 0.0 | /mnt/stockage/packages/f39/kde-inotify-survey/po/ja/kde-inotify-survey.po | 
+ | [lt](/f39/language/lt) | 0 | 190 | 0.0 | /mnt/stockage/packages/f39/kde-inotify-survey/po/lt/kde-inotify-survey.po | 
 {.sortable}
 
 

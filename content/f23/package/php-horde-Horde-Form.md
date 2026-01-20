@@ -18,48 +18,48 @@ The package php-horde-Horde-Form (version 2.0.15):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [da]({{< ref "/f23/language/da.md" >}}) | 560 | 560 | 100.0 | /mnt/stockage/packages/f23/php-horde-Horde-Form/Horde_Form-2.0.15/locale/da/LC_MESSAGES/Horde_Form.po | 
- | [de]({{< ref "/f23/language/de.md" >}}) | 560 | 560 | 100.0 | /mnt/stockage/packages/f23/php-horde-Horde-Form/Horde_Form-2.0.15/locale/de/LC_MESSAGES/Horde_Form.po | 
- | [es]({{< ref "/f23/language/es.md" >}}) | 560 | 560 | 100.0 | /mnt/stockage/packages/f23/php-horde-Horde-Form/Horde_Form-2.0.15/locale/es/LC_MESSAGES/Horde_Form.po | 
- | [et]({{< ref "/f23/language/et.md" >}}) | 557 | 557 | 100.0 | /mnt/stockage/packages/f23/php-horde-Horde-Form/Horde_Form-2.0.15/locale/et/LC_MESSAGES/Horde_Form.po | 
- | [fi]({{< ref "/f23/language/fi.md" >}}) | 560 | 560 | 100.0 | /mnt/stockage/packages/f23/php-horde-Horde-Form/Horde_Form-2.0.15/locale/fi/LC_MESSAGES/Horde_Form.po | 
- | [fr]({{< ref "/f23/language/fr.md" >}}) | 560 | 560 | 100.0 | /mnt/stockage/packages/f23/php-horde-Horde-Form/Horde_Form-2.0.15/locale/fr/LC_MESSAGES/Horde_Form.po | 
- | [hr]({{< ref "/f23/language/hr.md" >}}) | 557 | 557 | 100.0 | /mnt/stockage/packages/f23/php-horde-Horde-Form/Horde_Form-2.0.15/locale/hr/LC_MESSAGES/Horde_Form.po | 
- | [hu]({{< ref "/f23/language/hu.md" >}}) | 560 | 560 | 100.0 | /mnt/stockage/packages/f23/php-horde-Horde-Form/Horde_Form-2.0.15/locale/hu/LC_MESSAGES/Horde_Form.po | 
- | [ja]({{< ref "/f23/language/ja.md" >}}) | 560 | 560 | 100.0 | /mnt/stockage/packages/f23/php-horde-Horde-Form/Horde_Form-2.0.15/locale/ja/LC_MESSAGES/Horde_Form.po | 
- | [lt]({{< ref "/f23/language/lt.md" >}}) | 553 | 553 | 100.0 | /mnt/stockage/packages/f23/php-horde-Horde-Form/Horde_Form-2.0.15/locale/lt/LC_MESSAGES/Horde_Form.po | 
- | [lv]({{< ref "/f23/language/lv.md" >}}) | 553 | 553 | 100.0 | /mnt/stockage/packages/f23/php-horde-Horde-Form/Horde_Form-2.0.15/locale/lv/LC_MESSAGES/Horde_Form.po | 
- | [pt_BR]({{< ref "/f23/language/pt_BR.md" >}}) | 560 | 560 | 100.0 | /mnt/stockage/packages/f23/php-horde-Horde-Form/Horde_Form-2.0.15/locale/pt_BR/LC_MESSAGES/Horde_Form.po | 
- | [sk]({{< ref "/f23/language/sk.md" >}}) | 560 | 560 | 100.0 | /mnt/stockage/packages/f23/php-horde-Horde-Form/Horde_Form-2.0.15/locale/sk/LC_MESSAGES/Horde_Form.po | 
- | [el]({{< ref "/f23/language/el.md" >}}) | 538 | 553 | 97.3 | /mnt/stockage/packages/f23/php-horde-Horde-Form/Horde_Form-2.0.15/locale/el/LC_MESSAGES/Horde_Form.po | 
- | [it]({{< ref "/f23/language/it.md" >}}) | 529 | 553 | 95.7 | /mnt/stockage/packages/f23/php-horde-Horde-Form/Horde_Form-2.0.15/locale/it/LC_MESSAGES/Horde_Form.po | 
- | [tr]({{< ref "/f23/language/tr.md" >}}) | 529 | 553 | 95.7 | /mnt/stockage/packages/f23/php-horde-Horde-Form/Horde_Form-2.0.15/locale/tr/LC_MESSAGES/Horde_Form.po | 
- | [zh_Hant]({{< ref "/f23/language/zh_Hant.md" >}}) | 529 | 553 | 95.7 | /mnt/stockage/packages/f23/php-horde-Horde-Form/Horde_Form-2.0.15/locale/zh_TW/LC_MESSAGES/Horde_Form.po | 
- | [uk]({{< ref "/f23/language/uk.md" >}}) | 480 | 560 | 85.7 | /mnt/stockage/packages/f23/php-horde-Horde-Form/Horde_Form-2.0.15/locale/uk/LC_MESSAGES/Horde_Form.po | 
- | [sl]({{< ref "/f23/language/sl.md" >}}) | 396 | 553 | 71.6 | /mnt/stockage/packages/f23/php-horde-Horde-Form/Horde_Form-2.0.15/locale/sl/LC_MESSAGES/Horde_Form.po | 
- | [zh_Hans]({{< ref "/f23/language/zh_Hans.md" >}}) | 396 | 553 | 71.6 | /mnt/stockage/packages/f23/php-horde-Horde-Form/Horde_Form-2.0.15/locale/zh_CN/LC_MESSAGES/Horde_Form.po | 
- | [cs]({{< ref "/f23/language/cs.md" >}}) | 319 | 553 | 57.7 | /mnt/stockage/packages/f23/php-horde-Horde-Form/Horde_Form-2.0.15/locale/cs/LC_MESSAGES/Horde_Form.po | 
- | [pt]({{< ref "/f23/language/pt.md" >}}) | 319 | 553 | 57.7 | /mnt/stockage/packages/f23/php-horde-Horde-Form/Horde_Form-2.0.15/locale/pt/LC_MESSAGES/Horde_Form.po | 
- | [ca]({{< ref "/f23/language/ca.md" >}}) | 287 | 553 | 51.9 | /mnt/stockage/packages/f23/php-horde-Horde-Form/Horde_Form-2.0.15/locale/ca/LC_MESSAGES/Horde_Form.po | 
- | [fa]({{< ref "/f23/language/fa.md" >}}) | 249 | 553 | 45.0 | /mnt/stockage/packages/f23/php-horde-Horde-Form/Horde_Form-2.0.15/locale/fa/LC_MESSAGES/Horde_Form.po | 
- | [sv]({{< ref "/f23/language/sv.md" >}}) | 192 | 553 | 34.7 | /mnt/stockage/packages/f23/php-horde-Horde-Form/Horde_Form-2.0.15/locale/sv/LC_MESSAGES/Horde_Form.po | 
- | [nb_NO]({{< ref "/f23/language/nb_NO.md" >}}) | 168 | 553 | 30.4 | /mnt/stockage/packages/f23/php-horde-Horde-Form/Horde_Form-2.0.15/locale/nb/LC_MESSAGES/Horde_Form.po | 
- | [pl]({{< ref "/f23/language/pl.md" >}}) | 141 | 553 | 25.5 | /mnt/stockage/packages/f23/php-horde-Horde-Form/Horde_Form-2.0.15/locale/pl/LC_MESSAGES/Horde_Form.po | 
- | [bg]({{< ref "/f23/language/bg.md" >}}) | 75 | 553 | 13.6 | /mnt/stockage/packages/f23/php-horde-Horde-Form/Horde_Form-2.0.15/locale/bg/LC_MESSAGES/Horde_Form.po | 
- | [ru]({{< ref "/f23/language/ru.md" >}}) | 64 | 553 | 11.6 | /mnt/stockage/packages/f23/php-horde-Horde-Form/Horde_Form-2.0.15/locale/ru/LC_MESSAGES/Horde_Form.po | 
- | [eu]({{< ref "/f23/language/eu.md" >}}) | 56 | 560 | 10.0 | /mnt/stockage/packages/f23/php-horde-Horde-Form/Horde_Form-2.0.15/locale/eu/LC_MESSAGES/Horde_Form.po | 
- | [km]({{< ref "/f23/language/km.md" >}}) | 35 | 553 | 6.3 | /mnt/stockage/packages/f23/php-horde-Horde-Form/Horde_Form-2.0.15/locale/km/LC_MESSAGES/Horde_Form.po | 
- | [bs]({{< ref "/f23/language/bs.md" >}}) | 21 | 553 | 3.8 | /mnt/stockage/packages/f23/php-horde-Horde-Form/Horde_Form-2.0.15/locale/bs/LC_MESSAGES/Horde_Form.po | 
- | [ko]({{< ref "/f23/language/ko.md" >}}) | 21 | 553 | 3.8 | /mnt/stockage/packages/f23/php-horde-Horde-Form/Horde_Form-2.0.15/locale/ko/LC_MESSAGES/Horde_Form.po | 
- | [id]({{< ref "/f23/language/id.md" >}}) | 12 | 553 | 2.2 | /mnt/stockage/packages/f23/php-horde-Horde-Form/Horde_Form-2.0.15/locale/id/LC_MESSAGES/Horde_Form.po | 
- | [mk]({{< ref "/f23/language/mk.md" >}}) | 7 | 553 | 1.3 | /mnt/stockage/packages/f23/php-horde-Horde-Form/Horde_Form-2.0.15/locale/mk/LC_MESSAGES/Horde_Form.po | 
- | [nn]({{< ref "/f23/language/nn.md" >}}) | 7 | 553 | 1.3 | /mnt/stockage/packages/f23/php-horde-Horde-Form/Horde_Form-2.0.15/locale/nn/LC_MESSAGES/Horde_Form.po | 
- | [is]({{< ref "/f23/language/is.md" >}}) | 5 | 553 | 0.9 | /mnt/stockage/packages/f23/php-horde-Horde-Form/Horde_Form-2.0.15/locale/is/LC_MESSAGES/Horde_Form.po | 
- | [gl]({{< ref "/f23/language/gl.md" >}}) | 3 | 527 | 0.6 | /mnt/stockage/packages/f23/php-horde-Horde-Form/Horde_Form-2.0.15/locale/gl/LC_MESSAGES/Horde_Form.po | 
- | [ar]({{< ref "/f23/language/ar.md" >}}) | 3 | 553 | 0.5 | /mnt/stockage/packages/f23/php-horde-Horde-Form/Horde_Form-2.0.15/locale/ar/LC_MESSAGES/Horde_Form.po | 
- | [ro]({{< ref "/f23/language/ro.md" >}}) | 3 | 553 | 0.5 | /mnt/stockage/packages/f23/php-horde-Horde-Form/Horde_Form-2.0.15/locale/ro/LC_MESSAGES/Horde_Form.po | 
- | [he]({{< ref "/f23/language/he.md" >}}) | 1 | 553 | 0.2 | /mnt/stockage/packages/f23/php-horde-Horde-Form/Horde_Form-2.0.15/locale/he/LC_MESSAGES/Horde_Form.po | 
- | [nl]({{< ref "/f23/language/nl.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f23/php-horde-Horde-Form/Horde_Form-2.0.15/locale/nl/LC_MESSAGES/Horde_Form.po | 
+ | [da](/f23/language/da) | 560 | 560 | 100.0 | /mnt/stockage/packages/f23/php-horde-Horde-Form/Horde_Form-2.0.15/locale/da/LC_MESSAGES/Horde_Form.po | 
+ | [de](/f23/language/de) | 560 | 560 | 100.0 | /mnt/stockage/packages/f23/php-horde-Horde-Form/Horde_Form-2.0.15/locale/de/LC_MESSAGES/Horde_Form.po | 
+ | [es](/f23/language/es) | 560 | 560 | 100.0 | /mnt/stockage/packages/f23/php-horde-Horde-Form/Horde_Form-2.0.15/locale/es/LC_MESSAGES/Horde_Form.po | 
+ | [et](/f23/language/et) | 557 | 557 | 100.0 | /mnt/stockage/packages/f23/php-horde-Horde-Form/Horde_Form-2.0.15/locale/et/LC_MESSAGES/Horde_Form.po | 
+ | [fi](/f23/language/fi) | 560 | 560 | 100.0 | /mnt/stockage/packages/f23/php-horde-Horde-Form/Horde_Form-2.0.15/locale/fi/LC_MESSAGES/Horde_Form.po | 
+ | [fr](/f23/language/fr) | 560 | 560 | 100.0 | /mnt/stockage/packages/f23/php-horde-Horde-Form/Horde_Form-2.0.15/locale/fr/LC_MESSAGES/Horde_Form.po | 
+ | [hr](/f23/language/hr) | 557 | 557 | 100.0 | /mnt/stockage/packages/f23/php-horde-Horde-Form/Horde_Form-2.0.15/locale/hr/LC_MESSAGES/Horde_Form.po | 
+ | [hu](/f23/language/hu) | 560 | 560 | 100.0 | /mnt/stockage/packages/f23/php-horde-Horde-Form/Horde_Form-2.0.15/locale/hu/LC_MESSAGES/Horde_Form.po | 
+ | [ja](/f23/language/ja) | 560 | 560 | 100.0 | /mnt/stockage/packages/f23/php-horde-Horde-Form/Horde_Form-2.0.15/locale/ja/LC_MESSAGES/Horde_Form.po | 
+ | [lt](/f23/language/lt) | 553 | 553 | 100.0 | /mnt/stockage/packages/f23/php-horde-Horde-Form/Horde_Form-2.0.15/locale/lt/LC_MESSAGES/Horde_Form.po | 
+ | [lv](/f23/language/lv) | 553 | 553 | 100.0 | /mnt/stockage/packages/f23/php-horde-Horde-Form/Horde_Form-2.0.15/locale/lv/LC_MESSAGES/Horde_Form.po | 
+ | [pt_BR](/f23/language/pt_BR) | 560 | 560 | 100.0 | /mnt/stockage/packages/f23/php-horde-Horde-Form/Horde_Form-2.0.15/locale/pt_BR/LC_MESSAGES/Horde_Form.po | 
+ | [sk](/f23/language/sk) | 560 | 560 | 100.0 | /mnt/stockage/packages/f23/php-horde-Horde-Form/Horde_Form-2.0.15/locale/sk/LC_MESSAGES/Horde_Form.po | 
+ | [el](/f23/language/el) | 538 | 553 | 97.3 | /mnt/stockage/packages/f23/php-horde-Horde-Form/Horde_Form-2.0.15/locale/el/LC_MESSAGES/Horde_Form.po | 
+ | [it](/f23/language/it) | 529 | 553 | 95.7 | /mnt/stockage/packages/f23/php-horde-Horde-Form/Horde_Form-2.0.15/locale/it/LC_MESSAGES/Horde_Form.po | 
+ | [tr](/f23/language/tr) | 529 | 553 | 95.7 | /mnt/stockage/packages/f23/php-horde-Horde-Form/Horde_Form-2.0.15/locale/tr/LC_MESSAGES/Horde_Form.po | 
+ | [zh_Hant](/f23/language/zh_Hant) | 529 | 553 | 95.7 | /mnt/stockage/packages/f23/php-horde-Horde-Form/Horde_Form-2.0.15/locale/zh_TW/LC_MESSAGES/Horde_Form.po | 
+ | [uk](/f23/language/uk) | 480 | 560 | 85.7 | /mnt/stockage/packages/f23/php-horde-Horde-Form/Horde_Form-2.0.15/locale/uk/LC_MESSAGES/Horde_Form.po | 
+ | [sl](/f23/language/sl) | 396 | 553 | 71.6 | /mnt/stockage/packages/f23/php-horde-Horde-Form/Horde_Form-2.0.15/locale/sl/LC_MESSAGES/Horde_Form.po | 
+ | [zh_Hans](/f23/language/zh_Hans) | 396 | 553 | 71.6 | /mnt/stockage/packages/f23/php-horde-Horde-Form/Horde_Form-2.0.15/locale/zh_CN/LC_MESSAGES/Horde_Form.po | 
+ | [cs](/f23/language/cs) | 319 | 553 | 57.7 | /mnt/stockage/packages/f23/php-horde-Horde-Form/Horde_Form-2.0.15/locale/cs/LC_MESSAGES/Horde_Form.po | 
+ | [pt](/f23/language/pt) | 319 | 553 | 57.7 | /mnt/stockage/packages/f23/php-horde-Horde-Form/Horde_Form-2.0.15/locale/pt/LC_MESSAGES/Horde_Form.po | 
+ | [ca](/f23/language/ca) | 287 | 553 | 51.9 | /mnt/stockage/packages/f23/php-horde-Horde-Form/Horde_Form-2.0.15/locale/ca/LC_MESSAGES/Horde_Form.po | 
+ | [fa](/f23/language/fa) | 249 | 553 | 45.0 | /mnt/stockage/packages/f23/php-horde-Horde-Form/Horde_Form-2.0.15/locale/fa/LC_MESSAGES/Horde_Form.po | 
+ | [sv](/f23/language/sv) | 192 | 553 | 34.7 | /mnt/stockage/packages/f23/php-horde-Horde-Form/Horde_Form-2.0.15/locale/sv/LC_MESSAGES/Horde_Form.po | 
+ | [nb_NO](/f23/language/nb_NO) | 168 | 553 | 30.4 | /mnt/stockage/packages/f23/php-horde-Horde-Form/Horde_Form-2.0.15/locale/nb/LC_MESSAGES/Horde_Form.po | 
+ | [pl](/f23/language/pl) | 141 | 553 | 25.5 | /mnt/stockage/packages/f23/php-horde-Horde-Form/Horde_Form-2.0.15/locale/pl/LC_MESSAGES/Horde_Form.po | 
+ | [bg](/f23/language/bg) | 75 | 553 | 13.6 | /mnt/stockage/packages/f23/php-horde-Horde-Form/Horde_Form-2.0.15/locale/bg/LC_MESSAGES/Horde_Form.po | 
+ | [ru](/f23/language/ru) | 64 | 553 | 11.6 | /mnt/stockage/packages/f23/php-horde-Horde-Form/Horde_Form-2.0.15/locale/ru/LC_MESSAGES/Horde_Form.po | 
+ | [eu](/f23/language/eu) | 56 | 560 | 10.0 | /mnt/stockage/packages/f23/php-horde-Horde-Form/Horde_Form-2.0.15/locale/eu/LC_MESSAGES/Horde_Form.po | 
+ | [km](/f23/language/km) | 35 | 553 | 6.3 | /mnt/stockage/packages/f23/php-horde-Horde-Form/Horde_Form-2.0.15/locale/km/LC_MESSAGES/Horde_Form.po | 
+ | [bs](/f23/language/bs) | 21 | 553 | 3.8 | /mnt/stockage/packages/f23/php-horde-Horde-Form/Horde_Form-2.0.15/locale/bs/LC_MESSAGES/Horde_Form.po | 
+ | [ko](/f23/language/ko) | 21 | 553 | 3.8 | /mnt/stockage/packages/f23/php-horde-Horde-Form/Horde_Form-2.0.15/locale/ko/LC_MESSAGES/Horde_Form.po | 
+ | [id](/f23/language/id) | 12 | 553 | 2.2 | /mnt/stockage/packages/f23/php-horde-Horde-Form/Horde_Form-2.0.15/locale/id/LC_MESSAGES/Horde_Form.po | 
+ | [mk](/f23/language/mk) | 7 | 553 | 1.3 | /mnt/stockage/packages/f23/php-horde-Horde-Form/Horde_Form-2.0.15/locale/mk/LC_MESSAGES/Horde_Form.po | 
+ | [nn](/f23/language/nn) | 7 | 553 | 1.3 | /mnt/stockage/packages/f23/php-horde-Horde-Form/Horde_Form-2.0.15/locale/nn/LC_MESSAGES/Horde_Form.po | 
+ | [is](/f23/language/is) | 5 | 553 | 0.9 | /mnt/stockage/packages/f23/php-horde-Horde-Form/Horde_Form-2.0.15/locale/is/LC_MESSAGES/Horde_Form.po | 
+ | [gl](/f23/language/gl) | 3 | 527 | 0.6 | /mnt/stockage/packages/f23/php-horde-Horde-Form/Horde_Form-2.0.15/locale/gl/LC_MESSAGES/Horde_Form.po | 
+ | [ar](/f23/language/ar) | 3 | 553 | 0.5 | /mnt/stockage/packages/f23/php-horde-Horde-Form/Horde_Form-2.0.15/locale/ar/LC_MESSAGES/Horde_Form.po | 
+ | [ro](/f23/language/ro) | 3 | 553 | 0.5 | /mnt/stockage/packages/f23/php-horde-Horde-Form/Horde_Form-2.0.15/locale/ro/LC_MESSAGES/Horde_Form.po | 
+ | [he](/f23/language/he) | 1 | 553 | 0.2 | /mnt/stockage/packages/f23/php-horde-Horde-Form/Horde_Form-2.0.15/locale/he/LC_MESSAGES/Horde_Form.po | 
+ | [nl](/f23/language/nl) | 0 | 0 | 0.0 | /mnt/stockage/packages/f23/php-horde-Horde-Form/Horde_Form-2.0.15/locale/nl/LC_MESSAGES/Horde_Form.po | 
 {.sortable}
 
 

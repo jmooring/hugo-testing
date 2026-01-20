@@ -18,44 +18,44 @@ The package tuxmath (version 2.0.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ast]({{< ref "/f27/language/ast.md" >}}) | 1455 | 1455 | 100.0 | /mnt/stockage/packages/f27/tuxmath/po/ast.po | 
- | [fr]({{< ref "/f27/language/fr.md" >}}) | 1455 | 1455 | 100.0 | /mnt/stockage/packages/f27/tuxmath/po/fr.po | 
- | [error]({{< ref "/f27/language/error.md" >}}) | 3326 | 4365 | 76.2 | /mnt/stockage/packages/f27/tuxmath/po/en@boldquot.po/mnt/stockage/packages/f27/tuxmath/po/zam.po/mnt/stockage/packages/f27/tuxmath/po/en@quot.po | 
- | [sk]({{< ref "/f27/language/sk.md" >}}) | 1042 | 1455 | 71.6 | /mnt/stockage/packages/f27/tuxmath/po/sk.po | 
- | [uk]({{< ref "/f27/language/uk.md" >}}) | 876 | 1455 | 60.2 | /mnt/stockage/packages/f27/tuxmath/po/uk.po | 
- | [el]({{< ref "/f27/language/el.md" >}}) | 869 | 1455 | 59.7 | /mnt/stockage/packages/f27/tuxmath/po/el.po | 
- | [hi]({{< ref "/f27/language/hi.md" >}}) | 869 | 1455 | 59.7 | /mnt/stockage/packages/f27/tuxmath/po/hi.po | 
- | [de]({{< ref "/f27/language/de.md" >}}) | 867 | 1455 | 59.6 | /mnt/stockage/packages/f27/tuxmath/po/de.po | 
- | [ro]({{< ref "/f27/language/ro.md" >}}) | 867 | 1455 | 59.6 | /mnt/stockage/packages/f27/tuxmath/po/ro.po | 
- | [bg]({{< ref "/f27/language/bg.md" >}}) | 866 | 1455 | 59.5 | /mnt/stockage/packages/f27/tuxmath/po/bg.po | 
- | [it]({{< ref "/f27/language/it.md" >}}) | 865 | 1455 | 59.5 | /mnt/stockage/packages/f27/tuxmath/po/it.po | 
- | [tl]({{< ref "/f27/language/tl.md" >}}) | 860 | 1455 | 59.1 | /mnt/stockage/packages/f27/tuxmath/po/tl.po | 
- | [he]({{< ref "/f27/language/he.md" >}}) | 854 | 1455 | 58.7 | /mnt/stockage/packages/f27/tuxmath/po/he.po | 
- | [zh_Hant]({{< ref "/f27/language/zh_Hant.md" >}}) | 854 | 1455 | 58.7 | /mnt/stockage/packages/f27/tuxmath/po/zh_TW.po | 
- | [es]({{< ref "/f27/language/es.md" >}}) | 848 | 1455 | 58.3 | /mnt/stockage/packages/f27/tuxmath/po/es.po | 
- | [ru]({{< ref "/f27/language/ru.md" >}}) | 821 | 1455 | 56.4 | /mnt/stockage/packages/f27/tuxmath/po/ru.po | 
- | [da]({{< ref "/f27/language/da.md" >}}) | 798 | 1455 | 54.8 | /mnt/stockage/packages/f27/tuxmath/po/da.po | 
- | [en_GB]({{< ref "/f27/language/en_GB.md" >}}) | 798 | 1455 | 54.8 | /mnt/stockage/packages/f27/tuxmath/po/en_GB.po | 
- | [nn]({{< ref "/f27/language/nn.md" >}}) | 798 | 1455 | 54.8 | /mnt/stockage/packages/f27/tuxmath/po/nn.po | 
- | [pt]({{< ref "/f27/language/pt.md" >}}) | 798 | 1455 | 54.8 | /mnt/stockage/packages/f27/tuxmath/po/pt.po | 
- | [mn]({{< ref "/f27/language/mn.md" >}}) | 792 | 1455 | 54.4 | /mnt/stockage/packages/f27/tuxmath/po/mn.po | 
- | [pl]({{< ref "/f27/language/pl.md" >}}) | 786 | 1455 | 54.0 | /mnt/stockage/packages/f27/tuxmath/po/pl.po | 
- | [zh_Hans]({{< ref "/f27/language/zh_Hans.md" >}}) | 680 | 1455 | 46.7 | /mnt/stockage/packages/f27/tuxmath/po/zh_CN.po | 
- | [sv]({{< ref "/f27/language/sv.md" >}}) | 428 | 1455 | 29.4 | /mnt/stockage/packages/f27/tuxmath/po/sv.po | 
- | [tr]({{< ref "/f27/language/tr.md" >}}) | 418 | 1455 | 28.7 | /mnt/stockage/packages/f27/tuxmath/po/tr.po | 
- | [nb_NO]({{< ref "/f27/language/nb_NO.md" >}}) | 364 | 1455 | 25.0 | /mnt/stockage/packages/f27/tuxmath/po/nb.po | 
- | [ga]({{< ref "/f27/language/ga.md" >}}) | 352 | 1455 | 24.2 | /mnt/stockage/packages/f27/tuxmath/po/ga.po | 
- | [ku]({{< ref "/f27/language/ku.md" >}}) | 347 | 1455 | 23.8 | /mnt/stockage/packages/f27/tuxmath/po/ku.po | 
- | [ar]({{< ref "/f27/language/ar.md" >}}) | 346 | 1455 | 23.8 | /mnt/stockage/packages/f27/tuxmath/po/ar.po | 
- | [hu]({{< ref "/f27/language/hu.md" >}}) | 346 | 1455 | 23.8 | /mnt/stockage/packages/f27/tuxmath/po/hu.po | 
- | [cs]({{< ref "/f27/language/cs.md" >}}) | 238 | 1455 | 16.4 | /mnt/stockage/packages/f27/tuxmath/po/cs.po | 
- | [ja]({{< ref "/f27/language/ja.md" >}}) | 238 | 1455 | 16.4 | /mnt/stockage/packages/f27/tuxmath/po/ja.po | 
- | [nl]({{< ref "/f27/language/nl.md" >}}) | 238 | 1455 | 16.4 | /mnt/stockage/packages/f27/tuxmath/po/nl.po | 
- | [pt_BR]({{< ref "/f27/language/pt_BR.md" >}}) | 238 | 1455 | 16.4 | /mnt/stockage/packages/f27/tuxmath/po/pt_BR.po | 
- | [sl]({{< ref "/f27/language/sl.md" >}}) | 228 | 1455 | 15.7 | /mnt/stockage/packages/f27/tuxmath/po/sl.po | 
- | [oc]({{< ref "/f27/language/oc.md" >}}) | 155 | 1455 | 10.7 | /mnt/stockage/packages/f27/tuxmath/po/oc.po | 
- | [fi]({{< ref "/f27/language/fi.md" >}}) | 138 | 1455 | 9.5 | /mnt/stockage/packages/f27/tuxmath/po/fi.po | 
- | [vi]({{< ref "/f27/language/vi.md" >}}) | 23 | 1455 | 1.6 | /mnt/stockage/packages/f27/tuxmath/po/vi.po | 
+ | [ast](/f27/language/ast) | 1455 | 1455 | 100.0 | /mnt/stockage/packages/f27/tuxmath/po/ast.po | 
+ | [fr](/f27/language/fr) | 1455 | 1455 | 100.0 | /mnt/stockage/packages/f27/tuxmath/po/fr.po | 
+ | [error](/f27/language/error) | 3326 | 4365 | 76.2 | /mnt/stockage/packages/f27/tuxmath/po/en@boldquot.po/mnt/stockage/packages/f27/tuxmath/po/zam.po/mnt/stockage/packages/f27/tuxmath/po/en@quot.po | 
+ | [sk](/f27/language/sk) | 1042 | 1455 | 71.6 | /mnt/stockage/packages/f27/tuxmath/po/sk.po | 
+ | [uk](/f27/language/uk) | 876 | 1455 | 60.2 | /mnt/stockage/packages/f27/tuxmath/po/uk.po | 
+ | [el](/f27/language/el) | 869 | 1455 | 59.7 | /mnt/stockage/packages/f27/tuxmath/po/el.po | 
+ | [hi](/f27/language/hi) | 869 | 1455 | 59.7 | /mnt/stockage/packages/f27/tuxmath/po/hi.po | 
+ | [de](/f27/language/de) | 867 | 1455 | 59.6 | /mnt/stockage/packages/f27/tuxmath/po/de.po | 
+ | [ro](/f27/language/ro) | 867 | 1455 | 59.6 | /mnt/stockage/packages/f27/tuxmath/po/ro.po | 
+ | [bg](/f27/language/bg) | 866 | 1455 | 59.5 | /mnt/stockage/packages/f27/tuxmath/po/bg.po | 
+ | [it](/f27/language/it) | 865 | 1455 | 59.5 | /mnt/stockage/packages/f27/tuxmath/po/it.po | 
+ | [tl](/f27/language/tl) | 860 | 1455 | 59.1 | /mnt/stockage/packages/f27/tuxmath/po/tl.po | 
+ | [he](/f27/language/he) | 854 | 1455 | 58.7 | /mnt/stockage/packages/f27/tuxmath/po/he.po | 
+ | [zh_Hant](/f27/language/zh_Hant) | 854 | 1455 | 58.7 | /mnt/stockage/packages/f27/tuxmath/po/zh_TW.po | 
+ | [es](/f27/language/es) | 848 | 1455 | 58.3 | /mnt/stockage/packages/f27/tuxmath/po/es.po | 
+ | [ru](/f27/language/ru) | 821 | 1455 | 56.4 | /mnt/stockage/packages/f27/tuxmath/po/ru.po | 
+ | [da](/f27/language/da) | 798 | 1455 | 54.8 | /mnt/stockage/packages/f27/tuxmath/po/da.po | 
+ | [en_GB](/f27/language/en_GB) | 798 | 1455 | 54.8 | /mnt/stockage/packages/f27/tuxmath/po/en_GB.po | 
+ | [nn](/f27/language/nn) | 798 | 1455 | 54.8 | /mnt/stockage/packages/f27/tuxmath/po/nn.po | 
+ | [pt](/f27/language/pt) | 798 | 1455 | 54.8 | /mnt/stockage/packages/f27/tuxmath/po/pt.po | 
+ | [mn](/f27/language/mn) | 792 | 1455 | 54.4 | /mnt/stockage/packages/f27/tuxmath/po/mn.po | 
+ | [pl](/f27/language/pl) | 786 | 1455 | 54.0 | /mnt/stockage/packages/f27/tuxmath/po/pl.po | 
+ | [zh_Hans](/f27/language/zh_Hans) | 680 | 1455 | 46.7 | /mnt/stockage/packages/f27/tuxmath/po/zh_CN.po | 
+ | [sv](/f27/language/sv) | 428 | 1455 | 29.4 | /mnt/stockage/packages/f27/tuxmath/po/sv.po | 
+ | [tr](/f27/language/tr) | 418 | 1455 | 28.7 | /mnt/stockage/packages/f27/tuxmath/po/tr.po | 
+ | [nb_NO](/f27/language/nb_NO) | 364 | 1455 | 25.0 | /mnt/stockage/packages/f27/tuxmath/po/nb.po | 
+ | [ga](/f27/language/ga) | 352 | 1455 | 24.2 | /mnt/stockage/packages/f27/tuxmath/po/ga.po | 
+ | [ku](/f27/language/ku) | 347 | 1455 | 23.8 | /mnt/stockage/packages/f27/tuxmath/po/ku.po | 
+ | [ar](/f27/language/ar) | 346 | 1455 | 23.8 | /mnt/stockage/packages/f27/tuxmath/po/ar.po | 
+ | [hu](/f27/language/hu) | 346 | 1455 | 23.8 | /mnt/stockage/packages/f27/tuxmath/po/hu.po | 
+ | [cs](/f27/language/cs) | 238 | 1455 | 16.4 | /mnt/stockage/packages/f27/tuxmath/po/cs.po | 
+ | [ja](/f27/language/ja) | 238 | 1455 | 16.4 | /mnt/stockage/packages/f27/tuxmath/po/ja.po | 
+ | [nl](/f27/language/nl) | 238 | 1455 | 16.4 | /mnt/stockage/packages/f27/tuxmath/po/nl.po | 
+ | [pt_BR](/f27/language/pt_BR) | 238 | 1455 | 16.4 | /mnt/stockage/packages/f27/tuxmath/po/pt_BR.po | 
+ | [sl](/f27/language/sl) | 228 | 1455 | 15.7 | /mnt/stockage/packages/f27/tuxmath/po/sl.po | 
+ | [oc](/f27/language/oc) | 155 | 1455 | 10.7 | /mnt/stockage/packages/f27/tuxmath/po/oc.po | 
+ | [fi](/f27/language/fi) | 138 | 1455 | 9.5 | /mnt/stockage/packages/f27/tuxmath/po/fi.po | 
+ | [vi](/f27/language/vi) | 23 | 1455 | 1.6 | /mnt/stockage/packages/f27/tuxmath/po/vi.po | 
 {.sortable}
 
 

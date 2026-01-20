@@ -18,16 +18,16 @@ The package weechat (version 0.3.7):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f15/language/de.md" >}}) | 15732 | 15732 | 100.0 | /mnt/stockage/packages/f15/weechat/po/de.po | 
- | [es]({{< ref "/f15/language/es.md" >}}) | 15732 | 15732 | 100.0 | /mnt/stockage/packages/f15/weechat/po/es.po | 
- | [fr]({{< ref "/f15/language/fr.md" >}}) | 15732 | 15732 | 100.0 | /mnt/stockage/packages/f15/weechat/po/fr.po | 
- | [it]({{< ref "/f15/language/it.md" >}}) | 15732 | 15732 | 100.0 | /mnt/stockage/packages/f15/weechat/po/it.po | 
- | [ja]({{< ref "/f15/language/ja.md" >}}) | 15732 | 15732 | 100.0 | /mnt/stockage/packages/f15/weechat/po/ja.po | 
- | [pl]({{< ref "/f15/language/pl.md" >}}) | 15732 | 15732 | 100.0 | /mnt/stockage/packages/f15/weechat/po/pl.po | 
- | [cs]({{< ref "/f15/language/cs.md" >}}) | 11123 | 15732 | 70.7 | /mnt/stockage/packages/f15/weechat/po/cs.po | 
- | [pt]({{< ref "/f15/language/pt.md" >}}) | 9292 | 15732 | 59.1 | /mnt/stockage/packages/f15/weechat/po/pt_BR.po | 
- | [ru]({{< ref "/f15/language/ru.md" >}}) | 1038 | 15732 | 6.6 | /mnt/stockage/packages/f15/weechat/po/ru.po | 
- | [hu]({{< ref "/f15/language/hu.md" >}}) | 756 | 15732 | 4.8 | /mnt/stockage/packages/f15/weechat/po/hu.po | 
+ | [de](/f15/language/de) | 15732 | 15732 | 100.0 | /mnt/stockage/packages/f15/weechat/po/de.po | 
+ | [es](/f15/language/es) | 15732 | 15732 | 100.0 | /mnt/stockage/packages/f15/weechat/po/es.po | 
+ | [fr](/f15/language/fr) | 15732 | 15732 | 100.0 | /mnt/stockage/packages/f15/weechat/po/fr.po | 
+ | [it](/f15/language/it) | 15732 | 15732 | 100.0 | /mnt/stockage/packages/f15/weechat/po/it.po | 
+ | [ja](/f15/language/ja) | 15732 | 15732 | 100.0 | /mnt/stockage/packages/f15/weechat/po/ja.po | 
+ | [pl](/f15/language/pl) | 15732 | 15732 | 100.0 | /mnt/stockage/packages/f15/weechat/po/pl.po | 
+ | [cs](/f15/language/cs) | 11123 | 15732 | 70.7 | /mnt/stockage/packages/f15/weechat/po/cs.po | 
+ | [pt](/f15/language/pt) | 9292 | 15732 | 59.1 | /mnt/stockage/packages/f15/weechat/po/pt_BR.po | 
+ | [ru](/f15/language/ru) | 1038 | 15732 | 6.6 | /mnt/stockage/packages/f15/weechat/po/ru.po | 
+ | [hu](/f15/language/hu) | 756 | 15732 | 4.8 | /mnt/stockage/packages/f15/weechat/po/hu.po | 
 {.sortable}
 
 

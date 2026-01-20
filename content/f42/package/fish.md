@@ -18,14 +18,14 @@ The package fish (version 4.2.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f42/language/fr.md" >}}) | 38621 | 155319 | 24.9 | /mnt/stockage/packages/f42/fish/po/fr.po | 
- | [en]({{< ref "/f42/language/en.md" >}}) | 12286 | 155319 | 7.9 | /mnt/stockage/packages/f42/fish/po/en.po | 
- | [de]({{< ref "/f42/language/de.md" >}}) | 8482 | 155319 | 5.5 | /mnt/stockage/packages/f42/fish/po/de.po | 
- | [sv]({{< ref "/f42/language/sv.md" >}}) | 8289 | 155319 | 5.3 | /mnt/stockage/packages/f42/fish/po/sv.po | 
- | [zh_Hans]({{< ref "/f42/language/zh_Hans.md" >}}) | 6724 | 155319 | 4.3 | /mnt/stockage/packages/f42/fish/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f42/language/zh_Hant.md" >}}) | 6346 | 155319 | 4.1 | /mnt/stockage/packages/f42/fish/po/zh_TW.po | 
- | [pt_BR]({{< ref "/f42/language/pt_BR.md" >}}) | 6302 | 155319 | 4.1 | /mnt/stockage/packages/f42/fish/po/pt_BR.po | 
- | [pl]({{< ref "/f42/language/pl.md" >}}) | 522 | 155319 | 0.3 | /mnt/stockage/packages/f42/fish/po/pl.po | 
+ | [fr](/f42/language/fr) | 38621 | 155319 | 24.9 | /mnt/stockage/packages/f42/fish/po/fr.po | 
+ | [en](/f42/language/en) | 12286 | 155319 | 7.9 | /mnt/stockage/packages/f42/fish/po/en.po | 
+ | [de](/f42/language/de) | 8482 | 155319 | 5.5 | /mnt/stockage/packages/f42/fish/po/de.po | 
+ | [sv](/f42/language/sv) | 8289 | 155319 | 5.3 | /mnt/stockage/packages/f42/fish/po/sv.po | 
+ | [zh_Hans](/f42/language/zh_Hans) | 6724 | 155319 | 4.3 | /mnt/stockage/packages/f42/fish/po/zh_CN.po | 
+ | [zh_Hant](/f42/language/zh_Hant) | 6346 | 155319 | 4.1 | /mnt/stockage/packages/f42/fish/po/zh_TW.po | 
+ | [pt_BR](/f42/language/pt_BR) | 6302 | 155319 | 4.1 | /mnt/stockage/packages/f42/fish/po/pt_BR.po | 
+ | [pl](/f42/language/pl) | 522 | 155319 | 0.3 | /mnt/stockage/packages/f42/fish/po/pl.po | 
 {.sortable}
 
 

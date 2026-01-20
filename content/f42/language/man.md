@@ -39,10 +39,10 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [kde-i18n]({{< ref "/f42/package/kde-i18n.md" >}}) | 181 | 181 | 100.0 | Chinese (traditional) <zh-l10n@linux.org.tw> | 
- | [po4a]({{< ref "/f42/package/po4a.md" >}}) | 677 | 688 | 98.4 | LANGUAGE <LL@li.org> | 
- | [davfs2]({{< ref "/f42/package/davfs2.md" >}}) | 5705 | 5808 | 98.2 |  | 
- | [shadow-utils]({{< ref "/f42/package/shadow-utils.md" >}}) | 979 | 15624 | 6.3 | Danish <debian-l10n-danish@lists.debian.org> | 
+ | [kde-i18n](/f42/package/kde-i18n) | 181 | 181 | 100.0 | Chinese (traditional) <zh-l10n@linux.org.tw> | 
+ | [po4a](/f42/package/po4a) | 677 | 688 | 98.4 | LANGUAGE <LL@li.org> | 
+ | [davfs2](/f42/package/davfs2) | 5705 | 5808 | 98.2 |  | 
+ | [shadow-utils](/f42/package/shadow-utils) | 979 | 15624 | 6.3 | Danish <debian-l10n-danish@lists.debian.org> | 
 {.sortable}
 
 

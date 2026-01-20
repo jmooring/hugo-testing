@@ -18,18 +18,18 @@ The package dates (version 0.4.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f8/language/ca.md" >}}) | 107 | 107 | 100.0 | /mnt/stockage/packages/f8/dates/po/ca.po | 
- | [fi]({{< ref "/f8/language/fi.md" >}}) | 97 | 97 | 100.0 | /mnt/stockage/packages/f8/dates/po/fi.po | 
- | [fr]({{< ref "/f8/language/fr.md" >}}) | 112 | 112 | 100.0 | /mnt/stockage/packages/f8/dates/po/fr.po | 
- | [nb_NO]({{< ref "/f8/language/nb_NO.md" >}}) | 78 | 78 | 100.0 | /mnt/stockage/packages/f8/dates/po/nb.po | 
- | [nl]({{< ref "/f8/language/nl.md" >}}) | 88 | 88 | 100.0 | /mnt/stockage/packages/f8/dates/po/nl.po | 
- | [pl]({{< ref "/f8/language/pl.md" >}}) | 112 | 112 | 100.0 | /mnt/stockage/packages/f8/dates/po/pl.po | 
- | [pt_BR]({{< ref "/f8/language/pt_BR.md" >}}) | 112 | 112 | 100.0 | /mnt/stockage/packages/f8/dates/po/pt_BR.po | 
- | [ru]({{< ref "/f8/language/ru.md" >}}) | 72 | 72 | 100.0 | /mnt/stockage/packages/f8/dates/po/ru.po | 
- | [sv]({{< ref "/f8/language/sv.md" >}}) | 107 | 107 | 100.0 | /mnt/stockage/packages/f8/dates/po/sv.po | 
- | [da]({{< ref "/f8/language/da.md" >}}) | 108 | 112 | 96.4 | /mnt/stockage/packages/f8/dates/po/da.po | 
- | [it]({{< ref "/f8/language/it.md" >}}) | 77 | 97 | 79.4 | /mnt/stockage/packages/f8/dates/po/it.po | 
- | [et]({{< ref "/f8/language/et.md" >}}) | 45 | 88 | 51.1 | /mnt/stockage/packages/f8/dates/po/et.po | 
+ | [ca](/f8/language/ca) | 107 | 107 | 100.0 | /mnt/stockage/packages/f8/dates/po/ca.po | 
+ | [fi](/f8/language/fi) | 97 | 97 | 100.0 | /mnt/stockage/packages/f8/dates/po/fi.po | 
+ | [fr](/f8/language/fr) | 112 | 112 | 100.0 | /mnt/stockage/packages/f8/dates/po/fr.po | 
+ | [nb_NO](/f8/language/nb_NO) | 78 | 78 | 100.0 | /mnt/stockage/packages/f8/dates/po/nb.po | 
+ | [nl](/f8/language/nl) | 88 | 88 | 100.0 | /mnt/stockage/packages/f8/dates/po/nl.po | 
+ | [pl](/f8/language/pl) | 112 | 112 | 100.0 | /mnt/stockage/packages/f8/dates/po/pl.po | 
+ | [pt_BR](/f8/language/pt_BR) | 112 | 112 | 100.0 | /mnt/stockage/packages/f8/dates/po/pt_BR.po | 
+ | [ru](/f8/language/ru) | 72 | 72 | 100.0 | /mnt/stockage/packages/f8/dates/po/ru.po | 
+ | [sv](/f8/language/sv) | 107 | 107 | 100.0 | /mnt/stockage/packages/f8/dates/po/sv.po | 
+ | [da](/f8/language/da) | 108 | 112 | 96.4 | /mnt/stockage/packages/f8/dates/po/da.po | 
+ | [it](/f8/language/it) | 77 | 97 | 79.4 | /mnt/stockage/packages/f8/dates/po/it.po | 
+ | [et](/f8/language/et) | 45 | 88 | 51.1 | /mnt/stockage/packages/f8/dates/po/et.po | 
 {.sortable}
 
 

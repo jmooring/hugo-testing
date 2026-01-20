@@ -18,26 +18,26 @@ The package byobu (version 5.127):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f28/language/de.md" >}}) | 177 | 177 | 100.0 | /mnt/stockage/packages/f28/byobu/po/de.po | 
- | [en_GB]({{< ref "/f28/language/en_GB.md" >}}) | 177 | 177 | 100.0 | /mnt/stockage/packages/f28/byobu/po/en_GB.po | 
- | [es]({{< ref "/f28/language/es.md" >}}) | 177 | 177 | 100.0 | /mnt/stockage/packages/f28/byobu/po/es.po | 
- | [fr]({{< ref "/f28/language/fr.md" >}}) | 177 | 177 | 100.0 | /mnt/stockage/packages/f28/byobu/po/fr.po | 
- | [hu]({{< ref "/f28/language/hu.md" >}}) | 177 | 177 | 100.0 | /mnt/stockage/packages/f28/byobu/po/hu.po | 
- | [id]({{< ref "/f28/language/id.md" >}}) | 177 | 177 | 100.0 | /mnt/stockage/packages/f28/byobu/po/id.po | 
- | [is]({{< ref "/f28/language/is.md" >}}) | 177 | 177 | 100.0 | /mnt/stockage/packages/f28/byobu/po/is.po | 
- | [it]({{< ref "/f28/language/it.md" >}}) | 177 | 177 | 100.0 | /mnt/stockage/packages/f28/byobu/po/it.po | 
- | [nl]({{< ref "/f28/language/nl.md" >}}) | 177 | 177 | 100.0 | /mnt/stockage/packages/f28/byobu/po/nl.po | 
- | [pt]({{< ref "/f28/language/pt.md" >}}) | 177 | 177 | 100.0 | /mnt/stockage/packages/f28/byobu/po/pt.po | 
- | [sv]({{< ref "/f28/language/sv.md" >}}) | 177 | 177 | 100.0 | /mnt/stockage/packages/f28/byobu/po/sv.po | 
- | [uk]({{< ref "/f28/language/uk.md" >}}) | 177 | 177 | 100.0 | /mnt/stockage/packages/f28/byobu/po/uk.po | 
- | [ru]({{< ref "/f28/language/ru.md" >}}) | 173 | 177 | 97.7 | /mnt/stockage/packages/f28/byobu/po/ru.po | 
- | [cs]({{< ref "/f28/language/cs.md" >}}) | 158 | 177 | 89.3 | /mnt/stockage/packages/f28/byobu/po/cs.po | 
- | [pt_BR]({{< ref "/f28/language/pt_BR.md" >}}) | 142 | 177 | 80.2 | /mnt/stockage/packages/f28/byobu/po/pt_BR.po | 
- | [tr]({{< ref "/f28/language/tr.md" >}}) | 121 | 177 | 68.4 | /mnt/stockage/packages/f28/byobu/po/tr.po | 
- | [bg]({{< ref "/f28/language/bg.md" >}}) | 114 | 177 | 64.4 | /mnt/stockage/packages/f28/byobu/po/bg.po | 
- | [lt]({{< ref "/f28/language/lt.md" >}}) | 71 | 177 | 40.1 | /mnt/stockage/packages/f28/byobu/po/lt.po | 
- | [ja]({{< ref "/f28/language/ja.md" >}}) | 65 | 177 | 36.7 | /mnt/stockage/packages/f28/byobu/po/ja.po | 
- | [la]({{< ref "/f28/language/la.md" >}}) | 14 | 177 | 7.9 | /mnt/stockage/packages/f28/byobu/po/la.po | 
+ | [de](/f28/language/de) | 177 | 177 | 100.0 | /mnt/stockage/packages/f28/byobu/po/de.po | 
+ | [en_GB](/f28/language/en_GB) | 177 | 177 | 100.0 | /mnt/stockage/packages/f28/byobu/po/en_GB.po | 
+ | [es](/f28/language/es) | 177 | 177 | 100.0 | /mnt/stockage/packages/f28/byobu/po/es.po | 
+ | [fr](/f28/language/fr) | 177 | 177 | 100.0 | /mnt/stockage/packages/f28/byobu/po/fr.po | 
+ | [hu](/f28/language/hu) | 177 | 177 | 100.0 | /mnt/stockage/packages/f28/byobu/po/hu.po | 
+ | [id](/f28/language/id) | 177 | 177 | 100.0 | /mnt/stockage/packages/f28/byobu/po/id.po | 
+ | [is](/f28/language/is) | 177 | 177 | 100.0 | /mnt/stockage/packages/f28/byobu/po/is.po | 
+ | [it](/f28/language/it) | 177 | 177 | 100.0 | /mnt/stockage/packages/f28/byobu/po/it.po | 
+ | [nl](/f28/language/nl) | 177 | 177 | 100.0 | /mnt/stockage/packages/f28/byobu/po/nl.po | 
+ | [pt](/f28/language/pt) | 177 | 177 | 100.0 | /mnt/stockage/packages/f28/byobu/po/pt.po | 
+ | [sv](/f28/language/sv) | 177 | 177 | 100.0 | /mnt/stockage/packages/f28/byobu/po/sv.po | 
+ | [uk](/f28/language/uk) | 177 | 177 | 100.0 | /mnt/stockage/packages/f28/byobu/po/uk.po | 
+ | [ru](/f28/language/ru) | 173 | 177 | 97.7 | /mnt/stockage/packages/f28/byobu/po/ru.po | 
+ | [cs](/f28/language/cs) | 158 | 177 | 89.3 | /mnt/stockage/packages/f28/byobu/po/cs.po | 
+ | [pt_BR](/f28/language/pt_BR) | 142 | 177 | 80.2 | /mnt/stockage/packages/f28/byobu/po/pt_BR.po | 
+ | [tr](/f28/language/tr) | 121 | 177 | 68.4 | /mnt/stockage/packages/f28/byobu/po/tr.po | 
+ | [bg](/f28/language/bg) | 114 | 177 | 64.4 | /mnt/stockage/packages/f28/byobu/po/bg.po | 
+ | [lt](/f28/language/lt) | 71 | 177 | 40.1 | /mnt/stockage/packages/f28/byobu/po/lt.po | 
+ | [ja](/f28/language/ja) | 65 | 177 | 36.7 | /mnt/stockage/packages/f28/byobu/po/ja.po | 
+ | [la](/f28/language/la) | 14 | 177 | 7.9 | /mnt/stockage/packages/f28/byobu/po/la.po | 
 {.sortable}
 
 

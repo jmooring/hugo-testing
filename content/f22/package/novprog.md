@@ -18,16 +18,16 @@ The package novprog (version 3.0.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f22/language/de.md" >}}) | 71 | 71 | 100.0 | /mnt/stockage/packages/f22/novprog/icons/po/de.po | 
- | [pl]({{< ref "/f22/language/pl.md" >}}) | 71 | 71 | 100.0 | /mnt/stockage/packages/f22/novprog/icons/po/pl.po | 
- | [ro]({{< ref "/f22/language/ro.md" >}}) | 71 | 71 | 100.0 | /mnt/stockage/packages/f22/novprog/icons/po/ro.po | 
- | [el]({{< ref "/f22/language/el.md" >}}) | 4 | 71 | 5.6 | /mnt/stockage/packages/f22/novprog/icons/po/el.po | 
- | [es]({{< ref "/f22/language/es.md" >}}) | 4 | 71 | 5.6 | /mnt/stockage/packages/f22/novprog/icons/po/es.po | 
- | [he]({{< ref "/f22/language/he.md" >}}) | 4 | 71 | 5.6 | /mnt/stockage/packages/f22/novprog/icons/po/he.po | 
- | [nl]({{< ref "/f22/language/nl.md" >}}) | 4 | 71 | 5.6 | /mnt/stockage/packages/f22/novprog/icons/po/nl.po | 
- | [ru]({{< ref "/f22/language/ru.md" >}}) | 4 | 71 | 5.6 | /mnt/stockage/packages/f22/novprog/icons/po/ru.po | 
- | [tr]({{< ref "/f22/language/tr.md" >}}) | 4 | 71 | 5.6 | /mnt/stockage/packages/f22/novprog/icons/po/tr.po | 
- | [fr]({{< ref "/f22/language/fr.md" >}}) | 0 | 71 | 0.0 | /mnt/stockage/packages/f22/novprog/icons/po/fr.po | 
+ | [de](/f22/language/de) | 71 | 71 | 100.0 | /mnt/stockage/packages/f22/novprog/icons/po/de.po | 
+ | [pl](/f22/language/pl) | 71 | 71 | 100.0 | /mnt/stockage/packages/f22/novprog/icons/po/pl.po | 
+ | [ro](/f22/language/ro) | 71 | 71 | 100.0 | /mnt/stockage/packages/f22/novprog/icons/po/ro.po | 
+ | [el](/f22/language/el) | 4 | 71 | 5.6 | /mnt/stockage/packages/f22/novprog/icons/po/el.po | 
+ | [es](/f22/language/es) | 4 | 71 | 5.6 | /mnt/stockage/packages/f22/novprog/icons/po/es.po | 
+ | [he](/f22/language/he) | 4 | 71 | 5.6 | /mnt/stockage/packages/f22/novprog/icons/po/he.po | 
+ | [nl](/f22/language/nl) | 4 | 71 | 5.6 | /mnt/stockage/packages/f22/novprog/icons/po/nl.po | 
+ | [ru](/f22/language/ru) | 4 | 71 | 5.6 | /mnt/stockage/packages/f22/novprog/icons/po/ru.po | 
+ | [tr](/f22/language/tr) | 4 | 71 | 5.6 | /mnt/stockage/packages/f22/novprog/icons/po/tr.po | 
+ | [fr](/f22/language/fr) | 0 | 71 | 0.0 | /mnt/stockage/packages/f22/novprog/icons/po/fr.po | 
 {.sortable}
 
 

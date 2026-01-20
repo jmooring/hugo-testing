@@ -18,12 +18,12 @@ The package gnomint (version 0.9.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [es]({{< ref "/f11/language/es.md" >}}) | 4202 | 4202 | 100.0 | /mnt/stockage/packages/f11/gnomint/po/es.po | 
- | [fr]({{< ref "/f11/language/fr.md" >}}) | 1204 | 2320 | 51.9 | /mnt/stockage/packages/f11/gnomint/po/fr.po | 
- | [it]({{< ref "/f11/language/it.md" >}}) | 213 | 2320 | 9.2 | /mnt/stockage/packages/f11/gnomint/po/it.po | 
- | [sv]({{< ref "/f11/language/sv.md" >}}) | 141 | 2320 | 6.1 | /mnt/stockage/packages/f11/gnomint/po/sv.po | 
- | [de]({{< ref "/f11/language/de.md" >}}) | 44 | 2320 | 1.9 | /mnt/stockage/packages/f11/gnomint/po/de.po | 
- | [cs]({{< ref "/f11/language/cs.md" >}}) | 35 | 2320 | 1.5 | /mnt/stockage/packages/f11/gnomint/po/cs.po | 
+ | [es](/f11/language/es) | 4202 | 4202 | 100.0 | /mnt/stockage/packages/f11/gnomint/po/es.po | 
+ | [fr](/f11/language/fr) | 1204 | 2320 | 51.9 | /mnt/stockage/packages/f11/gnomint/po/fr.po | 
+ | [it](/f11/language/it) | 213 | 2320 | 9.2 | /mnt/stockage/packages/f11/gnomint/po/it.po | 
+ | [sv](/f11/language/sv) | 141 | 2320 | 6.1 | /mnt/stockage/packages/f11/gnomint/po/sv.po | 
+ | [de](/f11/language/de) | 44 | 2320 | 1.9 | /mnt/stockage/packages/f11/gnomint/po/de.po | 
+ | [cs](/f11/language/cs) | 35 | 2320 | 1.5 | /mnt/stockage/packages/f11/gnomint/po/cs.po | 
 {.sortable}
 
 

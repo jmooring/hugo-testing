@@ -38,19 +38,19 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [oggconvert]({{< ref "/f10/package/oggconvert.md" >}}) | 145 | 152 | 95.4 | Maltese <mt@li.org> | 
- | [libkexif]({{< ref "/f10/package/libkexif.md" >}}) | 21 | 25 | 84.0 | Maltese <mt@li.org> | 
- | [ksynaptics]({{< ref "/f10/package/ksynaptics.md" >}}) | 472 | 655 | 72.1 | Maltese <mt@li.org> | 
- | [stellarium]({{< ref "/f10/package/stellarium.md" >}}) | 406 | 2409 | 16.9 | Maltese <mt@li.org> | 
- | [iso-codes]({{< ref "/f10/package/iso-codes.md" >}}) | 814 | 12368 | 6.6 | Maltese <mt@li.org> | 
- | [transmission]({{< ref "/f10/package/transmission.md" >}}) | 27 | 1111 | 2.4 | Maltese <mt@li.org> | 
- | [showimg]({{< ref "/f10/package/showimg.md" >}}) | 6 | 4305 | 0.1 | Maltese <mt@li.org> | 
- | [kst]({{< ref "/f10/package/kst.md" >}}) | 2 | 7397 | 0.0 | Maltese <mt@li.org> | 
- | [kdetv]({{< ref "/f10/package/kdetv.md" >}}) | 0 | 2206 | 0.0 | <en@li.org> | 
- | [kile]({{< ref "/f10/package/kile.md" >}}) | 0 | 10439 | 0.0 | Maltese <mt@li.org> | 
- | [kiosktool]({{< ref "/f10/package/kiosktool.md" >}}) | 0 | 2289 | 0.0 | <en@li.org> | 
- | [kmplayer]({{< ref "/f10/package/kmplayer.md" >}}) | 0 | 1251 | 0.0 | Maltese <mt@li.org> | 
- | [krecipes]({{< ref "/f10/package/krecipes.md" >}}) | 0 | 3087 | 0.0 | <en@li.org> | 
+ | [oggconvert](/f10/package/oggconvert) | 145 | 152 | 95.4 | Maltese <mt@li.org> | 
+ | [libkexif](/f10/package/libkexif) | 21 | 25 | 84.0 | Maltese <mt@li.org> | 
+ | [ksynaptics](/f10/package/ksynaptics) | 472 | 655 | 72.1 | Maltese <mt@li.org> | 
+ | [stellarium](/f10/package/stellarium) | 406 | 2409 | 16.9 | Maltese <mt@li.org> | 
+ | [iso-codes](/f10/package/iso-codes) | 814 | 12368 | 6.6 | Maltese <mt@li.org> | 
+ | [transmission](/f10/package/transmission) | 27 | 1111 | 2.4 | Maltese <mt@li.org> | 
+ | [showimg](/f10/package/showimg) | 6 | 4305 | 0.1 | Maltese <mt@li.org> | 
+ | [kst](/f10/package/kst) | 2 | 7397 | 0.0 | Maltese <mt@li.org> | 
+ | [kdetv](/f10/package/kdetv) | 0 | 2206 | 0.0 | <en@li.org> | 
+ | [kile](/f10/package/kile) | 0 | 10439 | 0.0 | Maltese <mt@li.org> | 
+ | [kiosktool](/f10/package/kiosktool) | 0 | 2289 | 0.0 | <en@li.org> | 
+ | [kmplayer](/f10/package/kmplayer) | 0 | 1251 | 0.0 | Maltese <mt@li.org> | 
+ | [krecipes](/f10/package/krecipes) | 0 | 3087 | 0.0 | <en@li.org> | 
 {.sortable}
 
 

@@ -38,7 +38,7 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [stellarium]({{< ref "/f21/package/stellarium.md" >}}) | 0 | 15825 | 0.0 | Fijian <fj@li.org> | 
+ | [stellarium](/f21/package/stellarium) | 0 | 15825 | 0.0 | Fijian <fj@li.org> | 
 {.sortable}
 
 

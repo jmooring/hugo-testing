@@ -18,36 +18,36 @@ The package xfce4-dict (version 0.6.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [da]({{< ref "/f13/language/da.md" >}}) | 502 | 502 | 100.0 | /mnt/stockage/packages/f13/xfce4-dict/po/da.po | 
- | [pt]({{< ref "/f13/language/pt.md" >}}) | 502 | 502 | 100.0 | /mnt/stockage/packages/f13/xfce4-dict/po/pt.po | 
- | [hu]({{< ref "/f13/language/hu.md" >}}) | 479 | 502 | 95.4 | /mnt/stockage/packages/f13/xfce4-dict/po/hu.po | 
- | [ja]({{< ref "/f13/language/ja.md" >}}) | 461 | 502 | 91.8 | /mnt/stockage/packages/f13/xfce4-dict/po/ja.po | 
- | [ast]({{< ref "/f13/language/ast.md" >}}) | 340 | 502 | 67.7 | /mnt/stockage/packages/f13/xfce4-dict/po/ast.po | 
- | [ca]({{< ref "/f13/language/ca.md" >}}) | 340 | 502 | 67.7 | /mnt/stockage/packages/f13/xfce4-dict/po/ca.po | 
- | [cs]({{< ref "/f13/language/cs.md" >}}) | 340 | 502 | 67.7 | /mnt/stockage/packages/f13/xfce4-dict/po/cs.po | 
- | [de]({{< ref "/f13/language/de.md" >}}) | 340 | 502 | 67.7 | /mnt/stockage/packages/f13/xfce4-dict/po/de.po | 
- | [en_GB]({{< ref "/f13/language/en_GB.md" >}}) | 340 | 502 | 67.7 | /mnt/stockage/packages/f13/xfce4-dict/po/en_GB.po | 
- | [es]({{< ref "/f13/language/es.md" >}}) | 340 | 502 | 67.7 | /mnt/stockage/packages/f13/xfce4-dict/po/es.po | 
- | [eu]({{< ref "/f13/language/eu.md" >}}) | 340 | 502 | 67.7 | /mnt/stockage/packages/f13/xfce4-dict/po/eu.po | 
- | [fi]({{< ref "/f13/language/fi.md" >}}) | 340 | 502 | 67.7 | /mnt/stockage/packages/f13/xfce4-dict/po/fi.po | 
- | [fr]({{< ref "/f13/language/fr.md" >}}) | 340 | 502 | 67.7 | /mnt/stockage/packages/f13/xfce4-dict/po/fr.po | 
- | [gl]({{< ref "/f13/language/gl.md" >}}) | 340 | 502 | 67.7 | /mnt/stockage/packages/f13/xfce4-dict/po/gl.po | 
- | [id]({{< ref "/f13/language/id.md" >}}) | 340 | 502 | 67.7 | /mnt/stockage/packages/f13/xfce4-dict/po/id.po | 
- | [it]({{< ref "/f13/language/it.md" >}}) | 340 | 502 | 67.7 | /mnt/stockage/packages/f13/xfce4-dict/po/it.po | 
- | [lv]({{< ref "/f13/language/lv.md" >}}) | 340 | 502 | 67.7 | /mnt/stockage/packages/f13/xfce4-dict/po/lv.po | 
- | [nl]({{< ref "/f13/language/nl.md" >}}) | 340 | 502 | 67.7 | /mnt/stockage/packages/f13/xfce4-dict/po/nl.po | 
- | [pt_BR]({{< ref "/f13/language/pt_BR.md" >}}) | 340 | 502 | 67.7 | /mnt/stockage/packages/f13/xfce4-dict/po/pt_BR.po | 
- | [ru]({{< ref "/f13/language/ru.md" >}}) | 340 | 502 | 67.7 | /mnt/stockage/packages/f13/xfce4-dict/po/ru.po | 
- | [sv]({{< ref "/f13/language/sv.md" >}}) | 340 | 502 | 67.7 | /mnt/stockage/packages/f13/xfce4-dict/po/sv.po | 
- | [tr]({{< ref "/f13/language/tr.md" >}}) | 340 | 502 | 67.7 | /mnt/stockage/packages/f13/xfce4-dict/po/tr.po | 
- | [uk]({{< ref "/f13/language/uk.md" >}}) | 340 | 502 | 67.7 | /mnt/stockage/packages/f13/xfce4-dict/po/uk.po | 
- | [ur]({{< ref "/f13/language/ur.md" >}}) | 340 | 502 | 67.7 | /mnt/stockage/packages/f13/xfce4-dict/po/ur.po | 
- | [ur_PK]({{< ref "/f13/language/ur_PK.md" >}}) | 340 | 502 | 67.7 | /mnt/stockage/packages/f13/xfce4-dict/po/ur_PK.po | 
- | [zh_Hans]({{< ref "/f13/language/zh_Hans.md" >}}) | 340 | 502 | 67.7 | /mnt/stockage/packages/f13/xfce4-dict/po/zh_CN.po | 
- | [pl]({{< ref "/f13/language/pl.md" >}}) | 333 | 502 | 66.3 | /mnt/stockage/packages/f13/xfce4-dict/po/pl.po | 
- | [nb_NO]({{< ref "/f13/language/nb_NO.md" >}}) | 302 | 502 | 60.2 | /mnt/stockage/packages/f13/xfce4-dict/po/nb.po | 
- | [sq]({{< ref "/f13/language/sq.md" >}}) | 67 | 502 | 13.3 | /mnt/stockage/packages/f13/xfce4-dict/po/sq.po | 
- | [ar]({{< ref "/f13/language/ar.md" >}}) | 0 | 502 | 0.0 | /mnt/stockage/packages/f13/xfce4-dict/po/ar.po | 
+ | [da](/f13/language/da) | 502 | 502 | 100.0 | /mnt/stockage/packages/f13/xfce4-dict/po/da.po | 
+ | [pt](/f13/language/pt) | 502 | 502 | 100.0 | /mnt/stockage/packages/f13/xfce4-dict/po/pt.po | 
+ | [hu](/f13/language/hu) | 479 | 502 | 95.4 | /mnt/stockage/packages/f13/xfce4-dict/po/hu.po | 
+ | [ja](/f13/language/ja) | 461 | 502 | 91.8 | /mnt/stockage/packages/f13/xfce4-dict/po/ja.po | 
+ | [ast](/f13/language/ast) | 340 | 502 | 67.7 | /mnt/stockage/packages/f13/xfce4-dict/po/ast.po | 
+ | [ca](/f13/language/ca) | 340 | 502 | 67.7 | /mnt/stockage/packages/f13/xfce4-dict/po/ca.po | 
+ | [cs](/f13/language/cs) | 340 | 502 | 67.7 | /mnt/stockage/packages/f13/xfce4-dict/po/cs.po | 
+ | [de](/f13/language/de) | 340 | 502 | 67.7 | /mnt/stockage/packages/f13/xfce4-dict/po/de.po | 
+ | [en_GB](/f13/language/en_GB) | 340 | 502 | 67.7 | /mnt/stockage/packages/f13/xfce4-dict/po/en_GB.po | 
+ | [es](/f13/language/es) | 340 | 502 | 67.7 | /mnt/stockage/packages/f13/xfce4-dict/po/es.po | 
+ | [eu](/f13/language/eu) | 340 | 502 | 67.7 | /mnt/stockage/packages/f13/xfce4-dict/po/eu.po | 
+ | [fi](/f13/language/fi) | 340 | 502 | 67.7 | /mnt/stockage/packages/f13/xfce4-dict/po/fi.po | 
+ | [fr](/f13/language/fr) | 340 | 502 | 67.7 | /mnt/stockage/packages/f13/xfce4-dict/po/fr.po | 
+ | [gl](/f13/language/gl) | 340 | 502 | 67.7 | /mnt/stockage/packages/f13/xfce4-dict/po/gl.po | 
+ | [id](/f13/language/id) | 340 | 502 | 67.7 | /mnt/stockage/packages/f13/xfce4-dict/po/id.po | 
+ | [it](/f13/language/it) | 340 | 502 | 67.7 | /mnt/stockage/packages/f13/xfce4-dict/po/it.po | 
+ | [lv](/f13/language/lv) | 340 | 502 | 67.7 | /mnt/stockage/packages/f13/xfce4-dict/po/lv.po | 
+ | [nl](/f13/language/nl) | 340 | 502 | 67.7 | /mnt/stockage/packages/f13/xfce4-dict/po/nl.po | 
+ | [pt_BR](/f13/language/pt_BR) | 340 | 502 | 67.7 | /mnt/stockage/packages/f13/xfce4-dict/po/pt_BR.po | 
+ | [ru](/f13/language/ru) | 340 | 502 | 67.7 | /mnt/stockage/packages/f13/xfce4-dict/po/ru.po | 
+ | [sv](/f13/language/sv) | 340 | 502 | 67.7 | /mnt/stockage/packages/f13/xfce4-dict/po/sv.po | 
+ | [tr](/f13/language/tr) | 340 | 502 | 67.7 | /mnt/stockage/packages/f13/xfce4-dict/po/tr.po | 
+ | [uk](/f13/language/uk) | 340 | 502 | 67.7 | /mnt/stockage/packages/f13/xfce4-dict/po/uk.po | 
+ | [ur](/f13/language/ur) | 340 | 502 | 67.7 | /mnt/stockage/packages/f13/xfce4-dict/po/ur.po | 
+ | [ur_PK](/f13/language/ur_PK) | 340 | 502 | 67.7 | /mnt/stockage/packages/f13/xfce4-dict/po/ur_PK.po | 
+ | [zh_Hans](/f13/language/zh_Hans) | 340 | 502 | 67.7 | /mnt/stockage/packages/f13/xfce4-dict/po/zh_CN.po | 
+ | [pl](/f13/language/pl) | 333 | 502 | 66.3 | /mnt/stockage/packages/f13/xfce4-dict/po/pl.po | 
+ | [nb_NO](/f13/language/nb_NO) | 302 | 502 | 60.2 | /mnt/stockage/packages/f13/xfce4-dict/po/nb.po | 
+ | [sq](/f13/language/sq) | 67 | 502 | 13.3 | /mnt/stockage/packages/f13/xfce4-dict/po/sq.po | 
+ | [ar](/f13/language/ar) | 0 | 502 | 0.0 | /mnt/stockage/packages/f13/xfce4-dict/po/ar.po | 
 {.sortable}
 
 

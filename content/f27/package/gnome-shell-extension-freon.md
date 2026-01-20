@@ -18,16 +18,16 @@ The package gnome-shell-extension-freon (version 34):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f27/language/de.md" >}}) | 94 | 94 | 100.0 | /mnt/stockage/packages/f27/gnome-shell-extension-freon/freon@UshakovVasilii_Github.yahoo.com/po/de.po | 
- | [es]({{< ref "/f27/language/es.md" >}}) | 97 | 97 | 100.0 | /mnt/stockage/packages/f27/gnome-shell-extension-freon/freon@UshakovVasilii_Github.yahoo.com/po/es_ES.po | 
- | [es_AR]({{< ref "/f27/language/es_AR.md" >}}) | 94 | 94 | 100.0 | /mnt/stockage/packages/f27/gnome-shell-extension-freon/freon@UshakovVasilii_Github.yahoo.com/po/es_AR.po | 
- | [fr]({{< ref "/f27/language/fr.md" >}}) | 94 | 94 | 100.0 | /mnt/stockage/packages/f27/gnome-shell-extension-freon/freon@UshakovVasilii_Github.yahoo.com/po/fr.po | 
- | [pl]({{< ref "/f27/language/pl.md" >}}) | 94 | 94 | 100.0 | /mnt/stockage/packages/f27/gnome-shell-extension-freon/freon@UshakovVasilii_Github.yahoo.com/po/pl.po | 
- | [pt_BR]({{< ref "/f27/language/pt_BR.md" >}}) | 94 | 94 | 100.0 | /mnt/stockage/packages/f27/gnome-shell-extension-freon/freon@UshakovVasilii_Github.yahoo.com/po/pt_BR.po | 
- | [ru]({{< ref "/f27/language/ru.md" >}}) | 94 | 94 | 100.0 | /mnt/stockage/packages/f27/gnome-shell-extension-freon/freon@UshakovVasilii_Github.yahoo.com/po/ru.po | 
- | [uk]({{< ref "/f27/language/uk.md" >}}) | 97 | 97 | 100.0 | /mnt/stockage/packages/f27/gnome-shell-extension-freon/freon@UshakovVasilii_Github.yahoo.com/po/uk_UA.po | 
- | [zh_Hans]({{< ref "/f27/language/zh_Hans.md" >}}) | 94 | 94 | 100.0 | /mnt/stockage/packages/f27/gnome-shell-extension-freon/freon@UshakovVasilii_Github.yahoo.com/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f27/language/zh_Hant.md" >}}) | 94 | 94 | 100.0 | /mnt/stockage/packages/f27/gnome-shell-extension-freon/freon@UshakovVasilii_Github.yahoo.com/po/zh_TW.po | 
+ | [de](/f27/language/de) | 94 | 94 | 100.0 | /mnt/stockage/packages/f27/gnome-shell-extension-freon/freon@UshakovVasilii_Github.yahoo.com/po/de.po | 
+ | [es](/f27/language/es) | 97 | 97 | 100.0 | /mnt/stockage/packages/f27/gnome-shell-extension-freon/freon@UshakovVasilii_Github.yahoo.com/po/es_ES.po | 
+ | [es_AR](/f27/language/es_AR) | 94 | 94 | 100.0 | /mnt/stockage/packages/f27/gnome-shell-extension-freon/freon@UshakovVasilii_Github.yahoo.com/po/es_AR.po | 
+ | [fr](/f27/language/fr) | 94 | 94 | 100.0 | /mnt/stockage/packages/f27/gnome-shell-extension-freon/freon@UshakovVasilii_Github.yahoo.com/po/fr.po | 
+ | [pl](/f27/language/pl) | 94 | 94 | 100.0 | /mnt/stockage/packages/f27/gnome-shell-extension-freon/freon@UshakovVasilii_Github.yahoo.com/po/pl.po | 
+ | [pt_BR](/f27/language/pt_BR) | 94 | 94 | 100.0 | /mnt/stockage/packages/f27/gnome-shell-extension-freon/freon@UshakovVasilii_Github.yahoo.com/po/pt_BR.po | 
+ | [ru](/f27/language/ru) | 94 | 94 | 100.0 | /mnt/stockage/packages/f27/gnome-shell-extension-freon/freon@UshakovVasilii_Github.yahoo.com/po/ru.po | 
+ | [uk](/f27/language/uk) | 97 | 97 | 100.0 | /mnt/stockage/packages/f27/gnome-shell-extension-freon/freon@UshakovVasilii_Github.yahoo.com/po/uk_UA.po | 
+ | [zh_Hans](/f27/language/zh_Hans) | 94 | 94 | 100.0 | /mnt/stockage/packages/f27/gnome-shell-extension-freon/freon@UshakovVasilii_Github.yahoo.com/po/zh_CN.po | 
+ | [zh_Hant](/f27/language/zh_Hant) | 94 | 94 | 100.0 | /mnt/stockage/packages/f27/gnome-shell-extension-freon/freon@UshakovVasilii_Github.yahoo.com/po/zh_TW.po | 
 {.sortable}
 
 

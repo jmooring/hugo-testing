@@ -18,63 +18,63 @@ The package publican-fedora (version 4.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [da]({{< ref "/f26/language/da.md" >}}) | 1 | 1 | 100.0 | /mnt/stockage/packages/f26/publican-fedora/da-DK/Feedback.po/mnt/stockage/packages/f26/publican-fedora/da-DK/Logos.po | 
- | [ia]({{< ref "/f26/language/ia.md" >}}) | 107 | 107 | 100.0 | /mnt/stockage/packages/f26/publican-fedora/ia/Feedback.po/mnt/stockage/packages/f26/publican-fedora/ia/Logos.po | 
- | [sr]({{< ref "/f26/language/sr.md" >}}) | 8 | 108 | 7.4 | /mnt/stockage/packages/f26/publican-fedora/sr-RS/Feedback.po/mnt/stockage/packages/f26/publican-fedora/sr-RS/Logos.po/mnt/stockage/packages/f26/publican-fedora/sr-Latn-RS/Logos.po | 
- | [bs]({{< ref "/f26/language/bs.md" >}}) | 7 | 107 | 6.5 | /mnt/stockage/packages/f26/publican-fedora/bs-BA/Feedback.po/mnt/stockage/packages/f26/publican-fedora/bs-BA/Logos.po | 
- | [ca]({{< ref "/f26/language/ca.md" >}}) | 7 | 107 | 6.5 | /mnt/stockage/packages/f26/publican-fedora/ca-ES/Feedback.po/mnt/stockage/packages/f26/publican-fedora/ca-ES/Logos.po | 
- | [de]({{< ref "/f26/language/de.md" >}}) | 7 | 107 | 6.5 | /mnt/stockage/packages/f26/publican-fedora/de-DE/Feedback.po/mnt/stockage/packages/f26/publican-fedora/de-DE/Logos.po | 
- | [es]({{< ref "/f26/language/es.md" >}}) | 7 | 107 | 6.5 | /mnt/stockage/packages/f26/publican-fedora/es-ES/Feedback.po/mnt/stockage/packages/f26/publican-fedora/es-ES/Logos.po | 
- | [fa]({{< ref "/f26/language/fa.md" >}}) | 7 | 107 | 6.5 | /mnt/stockage/packages/f26/publican-fedora/fa-IR/Feedback.po/mnt/stockage/packages/f26/publican-fedora/fa-IR/Logos.po | 
- | [fi]({{< ref "/f26/language/fi.md" >}}) | 7 | 107 | 6.5 | /mnt/stockage/packages/f26/publican-fedora/fi-FI/Feedback.po/mnt/stockage/packages/f26/publican-fedora/fi-FI/Logos.po | 
- | [fr]({{< ref "/f26/language/fr.md" >}}) | 7 | 107 | 6.5 | /mnt/stockage/packages/f26/publican-fedora/fr-FR/Feedback.po/mnt/stockage/packages/f26/publican-fedora/fr-FR/Logos.po | 
- | [hr]({{< ref "/f26/language/hr.md" >}}) | 7 | 107 | 6.5 | /mnt/stockage/packages/f26/publican-fedora/hr-HR/Feedback.po/mnt/stockage/packages/f26/publican-fedora/hr-HR/Logos.po | 
- | [ja]({{< ref "/f26/language/ja.md" >}}) | 7 | 107 | 6.5 | /mnt/stockage/packages/f26/publican-fedora/ja-JP/Feedback.po/mnt/stockage/packages/f26/publican-fedora/ja-JP/Logos.po | 
- | [nl]({{< ref "/f26/language/nl.md" >}}) | 7 | 107 | 6.5 | /mnt/stockage/packages/f26/publican-fedora/nl-NL/Feedback.po/mnt/stockage/packages/f26/publican-fedora/nl-NL/Logos.po | 
- | [pl]({{< ref "/f26/language/pl.md" >}}) | 7 | 107 | 6.5 | /mnt/stockage/packages/f26/publican-fedora/pl-PL/Feedback.po/mnt/stockage/packages/f26/publican-fedora/pl-PL/Logos.po | 
- | [pt_PT]({{< ref "/f26/language/pt_PT.md" >}}) | 7 | 107 | 6.5 | /mnt/stockage/packages/f26/publican-fedora/pt-PT/Feedback.po/mnt/stockage/packages/f26/publican-fedora/pt-PT/Logos.po | 
- | [ru]({{< ref "/f26/language/ru.md" >}}) | 7 | 107 | 6.5 | /mnt/stockage/packages/f26/publican-fedora/ru-RU/Feedback.po/mnt/stockage/packages/f26/publican-fedora/ru-RU/Logos.po | 
- | [uk]({{< ref "/f26/language/uk.md" >}}) | 7 | 107 | 6.5 | /mnt/stockage/packages/f26/publican-fedora/uk-UA/Feedback.po/mnt/stockage/packages/f26/publican-fedora/uk-UA/Logos.po | 
- | [ar]({{< ref "/f26/language/ar.md" >}}) | 6 | 106 | 5.7 | /mnt/stockage/packages/f26/publican-fedora/ar-SA/Feedback.po | 
- | [gu]({{< ref "/f26/language/gu.md" >}}) | 6 | 106 | 5.7 | /mnt/stockage/packages/f26/publican-fedora/gu-IN/Feedback.po | 
- | [sr_Latn]({{< ref "/f26/language/sr_Latn.md" >}}) | 6 | 106 | 5.7 | /mnt/stockage/packages/f26/publican-fedora/sr-Latn-RS/Feedback.po | 
- | [as]({{< ref "/f26/language/as.md" >}}) | 6 | 107 | 5.6 | /mnt/stockage/packages/f26/publican-fedora/as-IN/Feedback.po/mnt/stockage/packages/f26/publican-fedora/as-IN/Logos.po | 
- | [ast]({{< ref "/f26/language/ast.md" >}}) | 6 | 107 | 5.6 | /mnt/stockage/packages/f26/publican-fedora/ast-ES/Feedback.po/mnt/stockage/packages/f26/publican-fedora/ast-ES/Logos.po | 
- | [bg]({{< ref "/f26/language/bg.md" >}}) | 6 | 107 | 5.6 | /mnt/stockage/packages/f26/publican-fedora/bg-BG/Feedback.po/mnt/stockage/packages/f26/publican-fedora/bg-BG/Logos.po | 
- | [bn_IN]({{< ref "/f26/language/bn_IN.md" >}}) | 6 | 107 | 5.6 | /mnt/stockage/packages/f26/publican-fedora/bn-IN/Feedback.po/mnt/stockage/packages/f26/publican-fedora/bn-IN/Logos.po | 
- | [cs]({{< ref "/f26/language/cs.md" >}}) | 6 | 107 | 5.6 | /mnt/stockage/packages/f26/publican-fedora/cs-CZ/Feedback.po/mnt/stockage/packages/f26/publican-fedora/cs-CZ/Logos.po | 
- | [de_CH]({{< ref "/f26/language/de_CH.md" >}}) | 6 | 107 | 5.6 | /mnt/stockage/packages/f26/publican-fedora/de-CH/Feedback.po/mnt/stockage/packages/f26/publican-fedora/de-CH/Logos.po | 
- | [el]({{< ref "/f26/language/el.md" >}}) | 6 | 107 | 5.6 | /mnt/stockage/packages/f26/publican-fedora/el-GR/Feedback.po/mnt/stockage/packages/f26/publican-fedora/el-GR/Logos.po | 
- | [en_GB]({{< ref "/f26/language/en_GB.md" >}}) | 6 | 107 | 5.6 | /mnt/stockage/packages/f26/publican-fedora/en-GB/Feedback.po/mnt/stockage/packages/f26/publican-fedora/en-GB/Logos.po | 
- | [error]({{< ref "/f26/language/error.md" >}}) | 6 | 107 | 5.6 | /mnt/stockage/packages/f26/publican-fedora/nds-DE/Feedback.po/mnt/stockage/packages/f26/publican-fedora/nds-DE/Logos.po | 
- | [hi]({{< ref "/f26/language/hi.md" >}}) | 6 | 107 | 5.6 | /mnt/stockage/packages/f26/publican-fedora/hi-IN/Feedback.po/mnt/stockage/packages/f26/publican-fedora/hi-IN/Logos.po | 
- | [hu]({{< ref "/f26/language/hu.md" >}}) | 6 | 107 | 5.6 | /mnt/stockage/packages/f26/publican-fedora/hu-HU/Feedback.po/mnt/stockage/packages/f26/publican-fedora/hu-HU/Logos.po | 
- | [id]({{< ref "/f26/language/id.md" >}}) | 6 | 107 | 5.6 | /mnt/stockage/packages/f26/publican-fedora/id-ID/Feedback.po/mnt/stockage/packages/f26/publican-fedora/id-ID/Logos.po | 
- | [is]({{< ref "/f26/language/is.md" >}}) | 6 | 107 | 5.6 | /mnt/stockage/packages/f26/publican-fedora/is-IS/Feedback.po/mnt/stockage/packages/f26/publican-fedora/is-IS/Logos.po | 
- | [it]({{< ref "/f26/language/it.md" >}}) | 6 | 107 | 5.6 | /mnt/stockage/packages/f26/publican-fedora/it-IT/Feedback.po/mnt/stockage/packages/f26/publican-fedora/it-IT/Logos.po | 
- | [kn]({{< ref "/f26/language/kn.md" >}}) | 6 | 107 | 5.6 | /mnt/stockage/packages/f26/publican-fedora/kn-IN/Feedback.po/mnt/stockage/packages/f26/publican-fedora/kn-IN/Logos.po | 
- | [ko]({{< ref "/f26/language/ko.md" >}}) | 6 | 107 | 5.6 | /mnt/stockage/packages/f26/publican-fedora/ko-KR/Feedback.po/mnt/stockage/packages/f26/publican-fedora/ko-KR/Logos.po | 
- | [lv]({{< ref "/f26/language/lv.md" >}}) | 6 | 107 | 5.6 | /mnt/stockage/packages/f26/publican-fedora/lv-LV/Feedback.po/mnt/stockage/packages/f26/publican-fedora/lv-LV/Logos.po | 
- | [ml]({{< ref "/f26/language/ml.md" >}}) | 6 | 107 | 5.6 | /mnt/stockage/packages/f26/publican-fedora/ml-IN/Feedback.po/mnt/stockage/packages/f26/publican-fedora/ml-IN/Logos.po | 
- | [mr]({{< ref "/f26/language/mr.md" >}}) | 6 | 107 | 5.6 | /mnt/stockage/packages/f26/publican-fedora/mr-IN/Feedback.po/mnt/stockage/packages/f26/publican-fedora/mr-IN/Logos.po | 
- | [nb_NO]({{< ref "/f26/language/nb_NO.md" >}}) | 6 | 107 | 5.6 | /mnt/stockage/packages/f26/publican-fedora/nb-NO/Feedback.po/mnt/stockage/packages/f26/publican-fedora/nb-NO/Logos.po | 
- | [or]({{< ref "/f26/language/or.md" >}}) | 6 | 107 | 5.6 | /mnt/stockage/packages/f26/publican-fedora/or-IN/Feedback.po/mnt/stockage/packages/f26/publican-fedora/or-IN/Logos.po | 
- | [pa]({{< ref "/f26/language/pa.md" >}}) | 6 | 107 | 5.6 | /mnt/stockage/packages/f26/publican-fedora/pa-IN/Feedback.po/mnt/stockage/packages/f26/publican-fedora/pa-IN/Logos.po | 
- | [pt_BR]({{< ref "/f26/language/pt_BR.md" >}}) | 6 | 107 | 5.6 | /mnt/stockage/packages/f26/publican-fedora/pt-BR/Feedback.po/mnt/stockage/packages/f26/publican-fedora/pt-BR/Logos.po | 
- | [si]({{< ref "/f26/language/si.md" >}}) | 6 | 107 | 5.6 | /mnt/stockage/packages/f26/publican-fedora/si-LK/Feedback.po/mnt/stockage/packages/f26/publican-fedora/si-LK/Logos.po | 
- | [sk]({{< ref "/f26/language/sk.md" >}}) | 6 | 107 | 5.6 | /mnt/stockage/packages/f26/publican-fedora/sk-SK/Feedback.po/mnt/stockage/packages/f26/publican-fedora/sk-SK/Logos.po | 
- | [sv]({{< ref "/f26/language/sv.md" >}}) | 6 | 107 | 5.6 | /mnt/stockage/packages/f26/publican-fedora/sv-SE/Feedback.po/mnt/stockage/packages/f26/publican-fedora/sv-SE/Logos.po | 
- | [ta]({{< ref "/f26/language/ta.md" >}}) | 6 | 107 | 5.6 | /mnt/stockage/packages/f26/publican-fedora/ta-IN/Feedback.po/mnt/stockage/packages/f26/publican-fedora/ta-IN/Logos.po | 
- | [te]({{< ref "/f26/language/te.md" >}}) | 6 | 107 | 5.6 | /mnt/stockage/packages/f26/publican-fedora/te-IN/Feedback.po/mnt/stockage/packages/f26/publican-fedora/te-IN/Logos.po | 
- | [th]({{< ref "/f26/language/th.md" >}}) | 6 | 107 | 5.6 | /mnt/stockage/packages/f26/publican-fedora/th-TH/Feedback.po/mnt/stockage/packages/f26/publican-fedora/th-TH/Logos.po | 
- | [zh_Hans]({{< ref "/f26/language/zh_Hans.md" >}}) | 6 | 107 | 5.6 | /mnt/stockage/packages/f26/publican-fedora/zh-CN/Feedback.po/mnt/stockage/packages/f26/publican-fedora/zh-CN/Logos.po | 
- | [zh_Hant]({{< ref "/f26/language/zh_Hant.md" >}}) | 6 | 107 | 5.6 | /mnt/stockage/packages/f26/publican-fedora/zh-TW/Feedback.po/mnt/stockage/packages/f26/publican-fedora/zh-TW/Logos.po | 
- | [ar_SA]({{< ref "/f26/language/ar_SA.md" >}}) | 0 | 1 | 0.0 | /mnt/stockage/packages/f26/publican-fedora/ar-SA/Logos.po | 
- | [gu_IN]({{< ref "/f26/language/gu_IN.md" >}}) | 0 | 1 | 0.0 | /mnt/stockage/packages/f26/publican-fedora/gu-IN/Logos.po | 
- | [he]({{< ref "/f26/language/he.md" >}}) | 0 | 106 | 0.0 | /mnt/stockage/packages/f26/publican-fedora/he-IL/Feedback.po | 
- | [he_IL]({{< ref "/f26/language/he_IL.md" >}}) | 0 | 1 | 0.0 | /mnt/stockage/packages/f26/publican-fedora/he-IL/Logos.po | 
- | [ms]({{< ref "/f26/language/ms.md" >}}) | 0 | 107 | 0.0 | /mnt/stockage/packages/f26/publican-fedora/ms-MY/Feedback.po/mnt/stockage/packages/f26/publican-fedora/ms-MY/Logos.po | 
- | [tr]({{< ref "/f26/language/tr.md" >}}) | 0 | 107 | 0.0 | /mnt/stockage/packages/f26/publican-fedora/tr-TR/Feedback.po/mnt/stockage/packages/f26/publican-fedora/tr-TR/Logos.po | 
+ | [da](/f26/language/da) | 1 | 1 | 100.0 | /mnt/stockage/packages/f26/publican-fedora/da-DK/Feedback.po/mnt/stockage/packages/f26/publican-fedora/da-DK/Logos.po | 
+ | [ia](/f26/language/ia) | 107 | 107 | 100.0 | /mnt/stockage/packages/f26/publican-fedora/ia/Feedback.po/mnt/stockage/packages/f26/publican-fedora/ia/Logos.po | 
+ | [sr](/f26/language/sr) | 8 | 108 | 7.4 | /mnt/stockage/packages/f26/publican-fedora/sr-RS/Feedback.po/mnt/stockage/packages/f26/publican-fedora/sr-RS/Logos.po/mnt/stockage/packages/f26/publican-fedora/sr-Latn-RS/Logos.po | 
+ | [bs](/f26/language/bs) | 7 | 107 | 6.5 | /mnt/stockage/packages/f26/publican-fedora/bs-BA/Feedback.po/mnt/stockage/packages/f26/publican-fedora/bs-BA/Logos.po | 
+ | [ca](/f26/language/ca) | 7 | 107 | 6.5 | /mnt/stockage/packages/f26/publican-fedora/ca-ES/Feedback.po/mnt/stockage/packages/f26/publican-fedora/ca-ES/Logos.po | 
+ | [de](/f26/language/de) | 7 | 107 | 6.5 | /mnt/stockage/packages/f26/publican-fedora/de-DE/Feedback.po/mnt/stockage/packages/f26/publican-fedora/de-DE/Logos.po | 
+ | [es](/f26/language/es) | 7 | 107 | 6.5 | /mnt/stockage/packages/f26/publican-fedora/es-ES/Feedback.po/mnt/stockage/packages/f26/publican-fedora/es-ES/Logos.po | 
+ | [fa](/f26/language/fa) | 7 | 107 | 6.5 | /mnt/stockage/packages/f26/publican-fedora/fa-IR/Feedback.po/mnt/stockage/packages/f26/publican-fedora/fa-IR/Logos.po | 
+ | [fi](/f26/language/fi) | 7 | 107 | 6.5 | /mnt/stockage/packages/f26/publican-fedora/fi-FI/Feedback.po/mnt/stockage/packages/f26/publican-fedora/fi-FI/Logos.po | 
+ | [fr](/f26/language/fr) | 7 | 107 | 6.5 | /mnt/stockage/packages/f26/publican-fedora/fr-FR/Feedback.po/mnt/stockage/packages/f26/publican-fedora/fr-FR/Logos.po | 
+ | [hr](/f26/language/hr) | 7 | 107 | 6.5 | /mnt/stockage/packages/f26/publican-fedora/hr-HR/Feedback.po/mnt/stockage/packages/f26/publican-fedora/hr-HR/Logos.po | 
+ | [ja](/f26/language/ja) | 7 | 107 | 6.5 | /mnt/stockage/packages/f26/publican-fedora/ja-JP/Feedback.po/mnt/stockage/packages/f26/publican-fedora/ja-JP/Logos.po | 
+ | [nl](/f26/language/nl) | 7 | 107 | 6.5 | /mnt/stockage/packages/f26/publican-fedora/nl-NL/Feedback.po/mnt/stockage/packages/f26/publican-fedora/nl-NL/Logos.po | 
+ | [pl](/f26/language/pl) | 7 | 107 | 6.5 | /mnt/stockage/packages/f26/publican-fedora/pl-PL/Feedback.po/mnt/stockage/packages/f26/publican-fedora/pl-PL/Logos.po | 
+ | [pt_PT](/f26/language/pt_PT) | 7 | 107 | 6.5 | /mnt/stockage/packages/f26/publican-fedora/pt-PT/Feedback.po/mnt/stockage/packages/f26/publican-fedora/pt-PT/Logos.po | 
+ | [ru](/f26/language/ru) | 7 | 107 | 6.5 | /mnt/stockage/packages/f26/publican-fedora/ru-RU/Feedback.po/mnt/stockage/packages/f26/publican-fedora/ru-RU/Logos.po | 
+ | [uk](/f26/language/uk) | 7 | 107 | 6.5 | /mnt/stockage/packages/f26/publican-fedora/uk-UA/Feedback.po/mnt/stockage/packages/f26/publican-fedora/uk-UA/Logos.po | 
+ | [ar](/f26/language/ar) | 6 | 106 | 5.7 | /mnt/stockage/packages/f26/publican-fedora/ar-SA/Feedback.po | 
+ | [gu](/f26/language/gu) | 6 | 106 | 5.7 | /mnt/stockage/packages/f26/publican-fedora/gu-IN/Feedback.po | 
+ | [sr_Latn](/f26/language/sr_Latn) | 6 | 106 | 5.7 | /mnt/stockage/packages/f26/publican-fedora/sr-Latn-RS/Feedback.po | 
+ | [as](/f26/language/as) | 6 | 107 | 5.6 | /mnt/stockage/packages/f26/publican-fedora/as-IN/Feedback.po/mnt/stockage/packages/f26/publican-fedora/as-IN/Logos.po | 
+ | [ast](/f26/language/ast) | 6 | 107 | 5.6 | /mnt/stockage/packages/f26/publican-fedora/ast-ES/Feedback.po/mnt/stockage/packages/f26/publican-fedora/ast-ES/Logos.po | 
+ | [bg](/f26/language/bg) | 6 | 107 | 5.6 | /mnt/stockage/packages/f26/publican-fedora/bg-BG/Feedback.po/mnt/stockage/packages/f26/publican-fedora/bg-BG/Logos.po | 
+ | [bn_IN](/f26/language/bn_IN) | 6 | 107 | 5.6 | /mnt/stockage/packages/f26/publican-fedora/bn-IN/Feedback.po/mnt/stockage/packages/f26/publican-fedora/bn-IN/Logos.po | 
+ | [cs](/f26/language/cs) | 6 | 107 | 5.6 | /mnt/stockage/packages/f26/publican-fedora/cs-CZ/Feedback.po/mnt/stockage/packages/f26/publican-fedora/cs-CZ/Logos.po | 
+ | [de_CH](/f26/language/de_CH) | 6 | 107 | 5.6 | /mnt/stockage/packages/f26/publican-fedora/de-CH/Feedback.po/mnt/stockage/packages/f26/publican-fedora/de-CH/Logos.po | 
+ | [el](/f26/language/el) | 6 | 107 | 5.6 | /mnt/stockage/packages/f26/publican-fedora/el-GR/Feedback.po/mnt/stockage/packages/f26/publican-fedora/el-GR/Logos.po | 
+ | [en_GB](/f26/language/en_GB) | 6 | 107 | 5.6 | /mnt/stockage/packages/f26/publican-fedora/en-GB/Feedback.po/mnt/stockage/packages/f26/publican-fedora/en-GB/Logos.po | 
+ | [error](/f26/language/error) | 6 | 107 | 5.6 | /mnt/stockage/packages/f26/publican-fedora/nds-DE/Feedback.po/mnt/stockage/packages/f26/publican-fedora/nds-DE/Logos.po | 
+ | [hi](/f26/language/hi) | 6 | 107 | 5.6 | /mnt/stockage/packages/f26/publican-fedora/hi-IN/Feedback.po/mnt/stockage/packages/f26/publican-fedora/hi-IN/Logos.po | 
+ | [hu](/f26/language/hu) | 6 | 107 | 5.6 | /mnt/stockage/packages/f26/publican-fedora/hu-HU/Feedback.po/mnt/stockage/packages/f26/publican-fedora/hu-HU/Logos.po | 
+ | [id](/f26/language/id) | 6 | 107 | 5.6 | /mnt/stockage/packages/f26/publican-fedora/id-ID/Feedback.po/mnt/stockage/packages/f26/publican-fedora/id-ID/Logos.po | 
+ | [is](/f26/language/is) | 6 | 107 | 5.6 | /mnt/stockage/packages/f26/publican-fedora/is-IS/Feedback.po/mnt/stockage/packages/f26/publican-fedora/is-IS/Logos.po | 
+ | [it](/f26/language/it) | 6 | 107 | 5.6 | /mnt/stockage/packages/f26/publican-fedora/it-IT/Feedback.po/mnt/stockage/packages/f26/publican-fedora/it-IT/Logos.po | 
+ | [kn](/f26/language/kn) | 6 | 107 | 5.6 | /mnt/stockage/packages/f26/publican-fedora/kn-IN/Feedback.po/mnt/stockage/packages/f26/publican-fedora/kn-IN/Logos.po | 
+ | [ko](/f26/language/ko) | 6 | 107 | 5.6 | /mnt/stockage/packages/f26/publican-fedora/ko-KR/Feedback.po/mnt/stockage/packages/f26/publican-fedora/ko-KR/Logos.po | 
+ | [lv](/f26/language/lv) | 6 | 107 | 5.6 | /mnt/stockage/packages/f26/publican-fedora/lv-LV/Feedback.po/mnt/stockage/packages/f26/publican-fedora/lv-LV/Logos.po | 
+ | [ml](/f26/language/ml) | 6 | 107 | 5.6 | /mnt/stockage/packages/f26/publican-fedora/ml-IN/Feedback.po/mnt/stockage/packages/f26/publican-fedora/ml-IN/Logos.po | 
+ | [mr](/f26/language/mr) | 6 | 107 | 5.6 | /mnt/stockage/packages/f26/publican-fedora/mr-IN/Feedback.po/mnt/stockage/packages/f26/publican-fedora/mr-IN/Logos.po | 
+ | [nb_NO](/f26/language/nb_NO) | 6 | 107 | 5.6 | /mnt/stockage/packages/f26/publican-fedora/nb-NO/Feedback.po/mnt/stockage/packages/f26/publican-fedora/nb-NO/Logos.po | 
+ | [or](/f26/language/or) | 6 | 107 | 5.6 | /mnt/stockage/packages/f26/publican-fedora/or-IN/Feedback.po/mnt/stockage/packages/f26/publican-fedora/or-IN/Logos.po | 
+ | [pa](/f26/language/pa) | 6 | 107 | 5.6 | /mnt/stockage/packages/f26/publican-fedora/pa-IN/Feedback.po/mnt/stockage/packages/f26/publican-fedora/pa-IN/Logos.po | 
+ | [pt_BR](/f26/language/pt_BR) | 6 | 107 | 5.6 | /mnt/stockage/packages/f26/publican-fedora/pt-BR/Feedback.po/mnt/stockage/packages/f26/publican-fedora/pt-BR/Logos.po | 
+ | [si](/f26/language/si) | 6 | 107 | 5.6 | /mnt/stockage/packages/f26/publican-fedora/si-LK/Feedback.po/mnt/stockage/packages/f26/publican-fedora/si-LK/Logos.po | 
+ | [sk](/f26/language/sk) | 6 | 107 | 5.6 | /mnt/stockage/packages/f26/publican-fedora/sk-SK/Feedback.po/mnt/stockage/packages/f26/publican-fedora/sk-SK/Logos.po | 
+ | [sv](/f26/language/sv) | 6 | 107 | 5.6 | /mnt/stockage/packages/f26/publican-fedora/sv-SE/Feedback.po/mnt/stockage/packages/f26/publican-fedora/sv-SE/Logos.po | 
+ | [ta](/f26/language/ta) | 6 | 107 | 5.6 | /mnt/stockage/packages/f26/publican-fedora/ta-IN/Feedback.po/mnt/stockage/packages/f26/publican-fedora/ta-IN/Logos.po | 
+ | [te](/f26/language/te) | 6 | 107 | 5.6 | /mnt/stockage/packages/f26/publican-fedora/te-IN/Feedback.po/mnt/stockage/packages/f26/publican-fedora/te-IN/Logos.po | 
+ | [th](/f26/language/th) | 6 | 107 | 5.6 | /mnt/stockage/packages/f26/publican-fedora/th-TH/Feedback.po/mnt/stockage/packages/f26/publican-fedora/th-TH/Logos.po | 
+ | [zh_Hans](/f26/language/zh_Hans) | 6 | 107 | 5.6 | /mnt/stockage/packages/f26/publican-fedora/zh-CN/Feedback.po/mnt/stockage/packages/f26/publican-fedora/zh-CN/Logos.po | 
+ | [zh_Hant](/f26/language/zh_Hant) | 6 | 107 | 5.6 | /mnt/stockage/packages/f26/publican-fedora/zh-TW/Feedback.po/mnt/stockage/packages/f26/publican-fedora/zh-TW/Logos.po | 
+ | [ar_SA](/f26/language/ar_SA) | 0 | 1 | 0.0 | /mnt/stockage/packages/f26/publican-fedora/ar-SA/Logos.po | 
+ | [gu_IN](/f26/language/gu_IN) | 0 | 1 | 0.0 | /mnt/stockage/packages/f26/publican-fedora/gu-IN/Logos.po | 
+ | [he](/f26/language/he) | 0 | 106 | 0.0 | /mnt/stockage/packages/f26/publican-fedora/he-IL/Feedback.po | 
+ | [he_IL](/f26/language/he_IL) | 0 | 1 | 0.0 | /mnt/stockage/packages/f26/publican-fedora/he-IL/Logos.po | 
+ | [ms](/f26/language/ms) | 0 | 107 | 0.0 | /mnt/stockage/packages/f26/publican-fedora/ms-MY/Feedback.po/mnt/stockage/packages/f26/publican-fedora/ms-MY/Logos.po | 
+ | [tr](/f26/language/tr) | 0 | 107 | 0.0 | /mnt/stockage/packages/f26/publican-fedora/tr-TR/Feedback.po/mnt/stockage/packages/f26/publican-fedora/tr-TR/Logos.po | 
 {.sortable}
 
 

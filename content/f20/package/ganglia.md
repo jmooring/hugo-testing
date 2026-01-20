@@ -18,21 +18,21 @@ The package ganglia (version 3.7.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f20/language/cs.md" >}}) | 59 | 59 | 100.0 | /mnt/stockage/packages/f20/ganglia/debian/po/cs.po | 
- | [da]({{< ref "/f20/language/da.md" >}}) | 59 | 59 | 100.0 | /mnt/stockage/packages/f20/ganglia/debian/po/da.po | 
- | [de]({{< ref "/f20/language/de.md" >}}) | 59 | 59 | 100.0 | /mnt/stockage/packages/f20/ganglia/debian/po/de.po | 
- | [es]({{< ref "/f20/language/es.md" >}}) | 59 | 59 | 100.0 | /mnt/stockage/packages/f20/ganglia/debian/po/es.po | 
- | [et]({{< ref "/f20/language/et.md" >}}) | 59 | 59 | 100.0 | /mnt/stockage/packages/f20/ganglia/debian/po/et.po | 
- | [eu]({{< ref "/f20/language/eu.md" >}}) | 59 | 59 | 100.0 | /mnt/stockage/packages/f20/ganglia/debian/po/eu.po | 
- | [fi]({{< ref "/f20/language/fi.md" >}}) | 59 | 59 | 100.0 | /mnt/stockage/packages/f20/ganglia/debian/po/fi.po | 
- | [fr]({{< ref "/f20/language/fr.md" >}}) | 59 | 59 | 100.0 | /mnt/stockage/packages/f20/ganglia/debian/po/fr.po | 
- | [gl]({{< ref "/f20/language/gl.md" >}}) | 59 | 59 | 100.0 | /mnt/stockage/packages/f20/ganglia/debian/po/gl.po | 
- | [it]({{< ref "/f20/language/it.md" >}}) | 59 | 59 | 100.0 | /mnt/stockage/packages/f20/ganglia/debian/po/it.po | 
- | [ja]({{< ref "/f20/language/ja.md" >}}) | 59 | 59 | 100.0 | /mnt/stockage/packages/f20/ganglia/debian/po/ja.po | 
- | [pt]({{< ref "/f20/language/pt.md" >}}) | 59 | 59 | 100.0 | /mnt/stockage/packages/f20/ganglia/debian/po/pt.po | 
- | [ru]({{< ref "/f20/language/ru.md" >}}) | 59 | 59 | 100.0 | /mnt/stockage/packages/f20/ganglia/debian/po/ru.po | 
- | [sv]({{< ref "/f20/language/sv.md" >}}) | 59 | 59 | 100.0 | /mnt/stockage/packages/f20/ganglia/debian/po/sv.po | 
- | [vi]({{< ref "/f20/language/vi.md" >}}) | 59 | 59 | 100.0 | /mnt/stockage/packages/f20/ganglia/debian/po/vi.po | 
+ | [cs](/f20/language/cs) | 59 | 59 | 100.0 | /mnt/stockage/packages/f20/ganglia/debian/po/cs.po | 
+ | [da](/f20/language/da) | 59 | 59 | 100.0 | /mnt/stockage/packages/f20/ganglia/debian/po/da.po | 
+ | [de](/f20/language/de) | 59 | 59 | 100.0 | /mnt/stockage/packages/f20/ganglia/debian/po/de.po | 
+ | [es](/f20/language/es) | 59 | 59 | 100.0 | /mnt/stockage/packages/f20/ganglia/debian/po/es.po | 
+ | [et](/f20/language/et) | 59 | 59 | 100.0 | /mnt/stockage/packages/f20/ganglia/debian/po/et.po | 
+ | [eu](/f20/language/eu) | 59 | 59 | 100.0 | /mnt/stockage/packages/f20/ganglia/debian/po/eu.po | 
+ | [fi](/f20/language/fi) | 59 | 59 | 100.0 | /mnt/stockage/packages/f20/ganglia/debian/po/fi.po | 
+ | [fr](/f20/language/fr) | 59 | 59 | 100.0 | /mnt/stockage/packages/f20/ganglia/debian/po/fr.po | 
+ | [gl](/f20/language/gl) | 59 | 59 | 100.0 | /mnt/stockage/packages/f20/ganglia/debian/po/gl.po | 
+ | [it](/f20/language/it) | 59 | 59 | 100.0 | /mnt/stockage/packages/f20/ganglia/debian/po/it.po | 
+ | [ja](/f20/language/ja) | 59 | 59 | 100.0 | /mnt/stockage/packages/f20/ganglia/debian/po/ja.po | 
+ | [pt](/f20/language/pt) | 59 | 59 | 100.0 | /mnt/stockage/packages/f20/ganglia/debian/po/pt.po | 
+ | [ru](/f20/language/ru) | 59 | 59 | 100.0 | /mnt/stockage/packages/f20/ganglia/debian/po/ru.po | 
+ | [sv](/f20/language/sv) | 59 | 59 | 100.0 | /mnt/stockage/packages/f20/ganglia/debian/po/sv.po | 
+ | [vi](/f20/language/vi) | 59 | 59 | 100.0 | /mnt/stockage/packages/f20/ganglia/debian/po/vi.po | 
 {.sortable}
 
 

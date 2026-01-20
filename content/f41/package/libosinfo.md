@@ -18,27 +18,27 @@ The package libosinfo (version 1.12.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f41/language/cs.md" >}}) | 817 | 817 | 100.0 | /mnt/stockage/packages/f41/libosinfo/po/cs.po | 
- | [de]({{< ref "/f41/language/de.md" >}}) | 817 | 817 | 100.0 | /mnt/stockage/packages/f41/libosinfo/po/de.po | 
- | [fr]({{< ref "/f41/language/fr.md" >}}) | 817 | 817 | 100.0 | /mnt/stockage/packages/f41/libosinfo/po/fr.po | 
- | [fur]({{< ref "/f41/language/fur.md" >}}) | 817 | 817 | 100.0 | /mnt/stockage/packages/f41/libosinfo/po/fur.po | 
- | [id]({{< ref "/f41/language/id.md" >}}) | 817 | 817 | 100.0 | /mnt/stockage/packages/f41/libosinfo/po/id.po | 
- | [it]({{< ref "/f41/language/it.md" >}}) | 817 | 817 | 100.0 | /mnt/stockage/packages/f41/libosinfo/po/it.po | 
- | [ka]({{< ref "/f41/language/ka.md" >}}) | 817 | 817 | 100.0 | /mnt/stockage/packages/f41/libosinfo/po/ka.po | 
- | [ko]({{< ref "/f41/language/ko.md" >}}) | 817 | 817 | 100.0 | /mnt/stockage/packages/f41/libosinfo/po/ko.po | 
- | [pl]({{< ref "/f41/language/pl.md" >}}) | 817 | 817 | 100.0 | /mnt/stockage/packages/f41/libosinfo/po/pl.po | 
- | [pt_BR]({{< ref "/f41/language/pt_BR.md" >}}) | 817 | 817 | 100.0 | /mnt/stockage/packages/f41/libosinfo/po/pt_BR.po | 
- | [tr]({{< ref "/f41/language/tr.md" >}}) | 817 | 817 | 100.0 | /mnt/stockage/packages/f41/libosinfo/po/tr.po | 
- | [uk]({{< ref "/f41/language/uk.md" >}}) | 817 | 817 | 100.0 | /mnt/stockage/packages/f41/libosinfo/po/uk.po | 
- | [ca]({{< ref "/f41/language/ca.md" >}}) | 644 | 817 | 78.8 | /mnt/stockage/packages/f41/libosinfo/po/ca.po | 
- | [fi]({{< ref "/f41/language/fi.md" >}}) | 570 | 817 | 69.8 | /mnt/stockage/packages/f41/libosinfo/po/fi.po | 
- | [ja]({{< ref "/f41/language/ja.md" >}}) | 422 | 817 | 51.7 | /mnt/stockage/packages/f41/libosinfo/po/ja.po | 
- | [pt_PT]({{< ref "/f41/language/pt_PT.md" >}}) | 375 | 817 | 45.9 | /mnt/stockage/packages/f41/libosinfo/po/pt_PT.po | 
- | [es]({{< ref "/f41/language/es.md" >}}) | 62 | 817 | 7.6 | /mnt/stockage/packages/f41/libosinfo/po/es.po | 
- | [si]({{< ref "/f41/language/si.md" >}}) | 2 | 817 | 0.2 | /mnt/stockage/packages/f41/libosinfo/po/si.po | 
- | [eu]({{< ref "/f41/language/eu.md" >}}) | 0 | 817 | 0.0 | /mnt/stockage/packages/f41/libosinfo/po/eu.po | 
- | [ru]({{< ref "/f41/language/ru.md" >}}) | 0 | 817 | 0.0 | /mnt/stockage/packages/f41/libosinfo/po/ru.po | 
- | [zh_Hans]({{< ref "/f41/language/zh_Hans.md" >}}) | 0 | 817 | 0.0 | /mnt/stockage/packages/f41/libosinfo/po/zh_Hans.po | 
+ | [cs](/f41/language/cs) | 817 | 817 | 100.0 | /mnt/stockage/packages/f41/libosinfo/po/cs.po | 
+ | [de](/f41/language/de) | 817 | 817 | 100.0 | /mnt/stockage/packages/f41/libosinfo/po/de.po | 
+ | [fr](/f41/language/fr) | 817 | 817 | 100.0 | /mnt/stockage/packages/f41/libosinfo/po/fr.po | 
+ | [fur](/f41/language/fur) | 817 | 817 | 100.0 | /mnt/stockage/packages/f41/libosinfo/po/fur.po | 
+ | [id](/f41/language/id) | 817 | 817 | 100.0 | /mnt/stockage/packages/f41/libosinfo/po/id.po | 
+ | [it](/f41/language/it) | 817 | 817 | 100.0 | /mnt/stockage/packages/f41/libosinfo/po/it.po | 
+ | [ka](/f41/language/ka) | 817 | 817 | 100.0 | /mnt/stockage/packages/f41/libosinfo/po/ka.po | 
+ | [ko](/f41/language/ko) | 817 | 817 | 100.0 | /mnt/stockage/packages/f41/libosinfo/po/ko.po | 
+ | [pl](/f41/language/pl) | 817 | 817 | 100.0 | /mnt/stockage/packages/f41/libosinfo/po/pl.po | 
+ | [pt_BR](/f41/language/pt_BR) | 817 | 817 | 100.0 | /mnt/stockage/packages/f41/libosinfo/po/pt_BR.po | 
+ | [tr](/f41/language/tr) | 817 | 817 | 100.0 | /mnt/stockage/packages/f41/libosinfo/po/tr.po | 
+ | [uk](/f41/language/uk) | 817 | 817 | 100.0 | /mnt/stockage/packages/f41/libosinfo/po/uk.po | 
+ | [ca](/f41/language/ca) | 644 | 817 | 78.8 | /mnt/stockage/packages/f41/libosinfo/po/ca.po | 
+ | [fi](/f41/language/fi) | 570 | 817 | 69.8 | /mnt/stockage/packages/f41/libosinfo/po/fi.po | 
+ | [ja](/f41/language/ja) | 422 | 817 | 51.7 | /mnt/stockage/packages/f41/libosinfo/po/ja.po | 
+ | [pt_PT](/f41/language/pt_PT) | 375 | 817 | 45.9 | /mnt/stockage/packages/f41/libosinfo/po/pt_PT.po | 
+ | [es](/f41/language/es) | 62 | 817 | 7.6 | /mnt/stockage/packages/f41/libosinfo/po/es.po | 
+ | [si](/f41/language/si) | 2 | 817 | 0.2 | /mnt/stockage/packages/f41/libosinfo/po/si.po | 
+ | [eu](/f41/language/eu) | 0 | 817 | 0.0 | /mnt/stockage/packages/f41/libosinfo/po/eu.po | 
+ | [ru](/f41/language/ru) | 0 | 817 | 0.0 | /mnt/stockage/packages/f41/libosinfo/po/ru.po | 
+ | [zh_Hans](/f41/language/zh_Hans) | 0 | 817 | 0.0 | /mnt/stockage/packages/f41/libosinfo/po/zh_Hans.po | 
 {.sortable}
 
 

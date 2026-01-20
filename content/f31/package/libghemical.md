@@ -18,12 +18,12 @@ The package libghemical (version 3.0.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f31/language/de.md" >}}) | 892 | 892 | 100.0 | /mnt/stockage/packages/f31/libghemical/po/de.po | 
- | [pt_BR]({{< ref "/f31/language/pt_BR.md" >}}) | 878 | 892 | 98.4 | /mnt/stockage/packages/f31/libghemical/po/pt_BR.po | 
- | [ru]({{< ref "/f31/language/ru.md" >}}) | 845 | 892 | 94.7 | /mnt/stockage/packages/f31/libghemical/po/ru.po | 
- | [mk]({{< ref "/f31/language/mk.md" >}}) | 752 | 892 | 84.3 | /mnt/stockage/packages/f31/libghemical/po/mk.po | 
- | [sq]({{< ref "/f31/language/sq.md" >}}) | 752 | 892 | 84.3 | /mnt/stockage/packages/f31/libghemical/po/sq.po | 
- | [fi]({{< ref "/f31/language/fi.md" >}}) | 637 | 892 | 71.4 | /mnt/stockage/packages/f31/libghemical/po/fi.po | 
+ | [de](/f31/language/de) | 892 | 892 | 100.0 | /mnt/stockage/packages/f31/libghemical/po/de.po | 
+ | [pt_BR](/f31/language/pt_BR) | 878 | 892 | 98.4 | /mnt/stockage/packages/f31/libghemical/po/pt_BR.po | 
+ | [ru](/f31/language/ru) | 845 | 892 | 94.7 | /mnt/stockage/packages/f31/libghemical/po/ru.po | 
+ | [mk](/f31/language/mk) | 752 | 892 | 84.3 | /mnt/stockage/packages/f31/libghemical/po/mk.po | 
+ | [sq](/f31/language/sq) | 752 | 892 | 84.3 | /mnt/stockage/packages/f31/libghemical/po/sq.po | 
+ | [fi](/f31/language/fi) | 637 | 892 | 71.4 | /mnt/stockage/packages/f31/libghemical/po/fi.po | 
 {.sortable}
 
 

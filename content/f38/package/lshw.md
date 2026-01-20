@@ -18,9 +18,9 @@ The package lshw (version B.02.20):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f38/language/ca.md" >}}) | 863 | 863 | 100.0 | /mnt/stockage/packages/f38/lshw/src/po/ca.po | 
- | [es]({{< ref "/f38/language/es.md" >}}) | 863 | 863 | 100.0 | /mnt/stockage/packages/f38/lshw/src/po/es.po | 
- | [fr]({{< ref "/f38/language/fr.md" >}}) | 446 | 679 | 65.7 | /mnt/stockage/packages/f38/lshw/src/po/fr.po | 
+ | [ca](/f38/language/ca) | 863 | 863 | 100.0 | /mnt/stockage/packages/f38/lshw/src/po/ca.po | 
+ | [es](/f38/language/es) | 863 | 863 | 100.0 | /mnt/stockage/packages/f38/lshw/src/po/es.po | 
+ | [fr](/f38/language/fr) | 446 | 679 | 65.7 | /mnt/stockage/packages/f38/lshw/src/po/fr.po | 
 {.sortable}
 
 

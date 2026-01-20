@@ -18,7 +18,7 @@ The package scim-python (version 0.1.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [zh_Hans]({{< ref "/f8/language/zh_Hans.md" >}}) | 40 | 41 | 97.6 | /mnt/stockage/packages/f8/scim-python/po/zh_CN.po | 
+ | [zh_Hans](/f8/language/zh_Hans) | 40 | 41 | 97.6 | /mnt/stockage/packages/f8/scim-python/po/zh_CN.po | 
 {.sortable}
 
 

@@ -18,21 +18,21 @@ The package cflow (version 1.5):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [da]({{< ref "/f25/language/da.md" >}}) | 525 | 606 | 86.6 | /mnt/stockage/packages/f25/cflow/po/da.po | 
- | [de]({{< ref "/f25/language/de.md" >}}) | 525 | 606 | 86.6 | /mnt/stockage/packages/f25/cflow/po/de.po | 
- | [eo]({{< ref "/f25/language/eo.md" >}}) | 525 | 606 | 86.6 | /mnt/stockage/packages/f25/cflow/po/eo.po | 
- | [fi]({{< ref "/f25/language/fi.md" >}}) | 525 | 606 | 86.6 | /mnt/stockage/packages/f25/cflow/po/fi.po | 
- | [fr]({{< ref "/f25/language/fr.md" >}}) | 525 | 606 | 86.6 | /mnt/stockage/packages/f25/cflow/po/fr.po | 
- | [ga]({{< ref "/f25/language/ga.md" >}}) | 525 | 606 | 86.6 | /mnt/stockage/packages/f25/cflow/po/ga.po | 
- | [hr]({{< ref "/f25/language/hr.md" >}}) | 525 | 606 | 86.6 | /mnt/stockage/packages/f25/cflow/po/hr.po | 
- | [id]({{< ref "/f25/language/id.md" >}}) | 525 | 606 | 86.6 | /mnt/stockage/packages/f25/cflow/po/id.po | 
- | [nl]({{< ref "/f25/language/nl.md" >}}) | 525 | 606 | 86.6 | /mnt/stockage/packages/f25/cflow/po/nl.po | 
- | [pl]({{< ref "/f25/language/pl.md" >}}) | 525 | 606 | 86.6 | /mnt/stockage/packages/f25/cflow/po/pl.po | 
- | [sr]({{< ref "/f25/language/sr.md" >}}) | 525 | 606 | 86.6 | /mnt/stockage/packages/f25/cflow/po/sr.po | 
- | [sv]({{< ref "/f25/language/sv.md" >}}) | 525 | 606 | 86.6 | /mnt/stockage/packages/f25/cflow/po/sv.po | 
- | [uk]({{< ref "/f25/language/uk.md" >}}) | 525 | 606 | 86.6 | /mnt/stockage/packages/f25/cflow/po/uk.po | 
- | [vi]({{< ref "/f25/language/vi.md" >}}) | 525 | 606 | 86.6 | /mnt/stockage/packages/f25/cflow/po/vi.po | 
- | [zh_Hans]({{< ref "/f25/language/zh_Hans.md" >}}) | 525 | 606 | 86.6 | /mnt/stockage/packages/f25/cflow/po/zh_CN.po | 
+ | [da](/f25/language/da) | 525 | 606 | 86.6 | /mnt/stockage/packages/f25/cflow/po/da.po | 
+ | [de](/f25/language/de) | 525 | 606 | 86.6 | /mnt/stockage/packages/f25/cflow/po/de.po | 
+ | [eo](/f25/language/eo) | 525 | 606 | 86.6 | /mnt/stockage/packages/f25/cflow/po/eo.po | 
+ | [fi](/f25/language/fi) | 525 | 606 | 86.6 | /mnt/stockage/packages/f25/cflow/po/fi.po | 
+ | [fr](/f25/language/fr) | 525 | 606 | 86.6 | /mnt/stockage/packages/f25/cflow/po/fr.po | 
+ | [ga](/f25/language/ga) | 525 | 606 | 86.6 | /mnt/stockage/packages/f25/cflow/po/ga.po | 
+ | [hr](/f25/language/hr) | 525 | 606 | 86.6 | /mnt/stockage/packages/f25/cflow/po/hr.po | 
+ | [id](/f25/language/id) | 525 | 606 | 86.6 | /mnt/stockage/packages/f25/cflow/po/id.po | 
+ | [nl](/f25/language/nl) | 525 | 606 | 86.6 | /mnt/stockage/packages/f25/cflow/po/nl.po | 
+ | [pl](/f25/language/pl) | 525 | 606 | 86.6 | /mnt/stockage/packages/f25/cflow/po/pl.po | 
+ | [sr](/f25/language/sr) | 525 | 606 | 86.6 | /mnt/stockage/packages/f25/cflow/po/sr.po | 
+ | [sv](/f25/language/sv) | 525 | 606 | 86.6 | /mnt/stockage/packages/f25/cflow/po/sv.po | 
+ | [uk](/f25/language/uk) | 525 | 606 | 86.6 | /mnt/stockage/packages/f25/cflow/po/uk.po | 
+ | [vi](/f25/language/vi) | 525 | 606 | 86.6 | /mnt/stockage/packages/f25/cflow/po/vi.po | 
+ | [zh_Hans](/f25/language/zh_Hans) | 525 | 606 | 86.6 | /mnt/stockage/packages/f25/cflow/po/zh_CN.po | 
 {.sortable}
 
 

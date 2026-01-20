@@ -18,21 +18,21 @@ The package comix (version 4.0.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f21/language/ca.md" >}}) | 1326 | 1326 | 100.0 | /mnt/stockage/packages/f21/comix/messages/ca/LC_MESSAGES/comix.po | 
- | [cs]({{< ref "/f21/language/cs.md" >}}) | 1326 | 1326 | 100.0 | /mnt/stockage/packages/f21/comix/messages/cs/LC_MESSAGES/comix.po | 
- | [fr]({{< ref "/f21/language/fr.md" >}}) | 1326 | 1326 | 100.0 | /mnt/stockage/packages/f21/comix/messages/fr/LC_MESSAGES/comix.po | 
- | [hu]({{< ref "/f21/language/hu.md" >}}) | 1326 | 1326 | 100.0 | /mnt/stockage/packages/f21/comix/messages/hu/LC_MESSAGES/comix.po | 
- | [ja]({{< ref "/f21/language/ja.md" >}}) | 1326 | 1326 | 100.0 | /mnt/stockage/packages/f21/comix/messages/ja/LC_MESSAGES/comix.po | 
- | [pl]({{< ref "/f21/language/pl.md" >}}) | 1326 | 1326 | 100.0 | /mnt/stockage/packages/f21/comix/messages/pl/LC_MESSAGES/comix.po | 
- | [ru]({{< ref "/f21/language/ru.md" >}}) | 1326 | 1326 | 100.0 | /mnt/stockage/packages/f21/comix/messages/ru/LC_MESSAGES/comix.po | 
- | [sv]({{< ref "/f21/language/sv.md" >}}) | 1326 | 1326 | 100.0 | /mnt/stockage/packages/f21/comix/messages/sv/LC_MESSAGES/comix.po | 
- | [zh_Hans]({{< ref "/f21/language/zh_Hans.md" >}}) | 1326 | 1326 | 100.0 | /mnt/stockage/packages/f21/comix/messages/zh_CN/LC_MESSAGES/comix.po | 
- | [zh_Hant]({{< ref "/f21/language/zh_Hant.md" >}}) | 1326 | 1326 | 100.0 | /mnt/stockage/packages/f21/comix/messages/zh_TW/LC_MESSAGES/comix.po | 
- | [es]({{< ref "/f21/language/es.md" >}}) | 1300 | 1326 | 98.0 | /mnt/stockage/packages/f21/comix/messages/es/LC_MESSAGES/comix.po | 
- | [hr]({{< ref "/f21/language/hr.md" >}}) | 1300 | 1326 | 98.0 | /mnt/stockage/packages/f21/comix/messages/hr/LC_MESSAGES/comix.po | 
- | [id]({{< ref "/f21/language/id.md" >}}) | 1300 | 1326 | 98.0 | /mnt/stockage/packages/f21/comix/messages/id/LC_MESSAGES/comix.po | 
- | [ko]({{< ref "/f21/language/ko.md" >}}) | 1300 | 1326 | 98.0 | /mnt/stockage/packages/f21/comix/messages/ko/LC_MESSAGES/comix.po | 
- | [pt_BR]({{< ref "/f21/language/pt_BR.md" >}}) | 1300 | 1326 | 98.0 | /mnt/stockage/packages/f21/comix/messages/pt_BR/LC_MESSAGES/comix.po | 
+ | [ca](/f21/language/ca) | 1326 | 1326 | 100.0 | /mnt/stockage/packages/f21/comix/messages/ca/LC_MESSAGES/comix.po | 
+ | [cs](/f21/language/cs) | 1326 | 1326 | 100.0 | /mnt/stockage/packages/f21/comix/messages/cs/LC_MESSAGES/comix.po | 
+ | [fr](/f21/language/fr) | 1326 | 1326 | 100.0 | /mnt/stockage/packages/f21/comix/messages/fr/LC_MESSAGES/comix.po | 
+ | [hu](/f21/language/hu) | 1326 | 1326 | 100.0 | /mnt/stockage/packages/f21/comix/messages/hu/LC_MESSAGES/comix.po | 
+ | [ja](/f21/language/ja) | 1326 | 1326 | 100.0 | /mnt/stockage/packages/f21/comix/messages/ja/LC_MESSAGES/comix.po | 
+ | [pl](/f21/language/pl) | 1326 | 1326 | 100.0 | /mnt/stockage/packages/f21/comix/messages/pl/LC_MESSAGES/comix.po | 
+ | [ru](/f21/language/ru) | 1326 | 1326 | 100.0 | /mnt/stockage/packages/f21/comix/messages/ru/LC_MESSAGES/comix.po | 
+ | [sv](/f21/language/sv) | 1326 | 1326 | 100.0 | /mnt/stockage/packages/f21/comix/messages/sv/LC_MESSAGES/comix.po | 
+ | [zh_Hans](/f21/language/zh_Hans) | 1326 | 1326 | 100.0 | /mnt/stockage/packages/f21/comix/messages/zh_CN/LC_MESSAGES/comix.po | 
+ | [zh_Hant](/f21/language/zh_Hant) | 1326 | 1326 | 100.0 | /mnt/stockage/packages/f21/comix/messages/zh_TW/LC_MESSAGES/comix.po | 
+ | [es](/f21/language/es) | 1300 | 1326 | 98.0 | /mnt/stockage/packages/f21/comix/messages/es/LC_MESSAGES/comix.po | 
+ | [hr](/f21/language/hr) | 1300 | 1326 | 98.0 | /mnt/stockage/packages/f21/comix/messages/hr/LC_MESSAGES/comix.po | 
+ | [id](/f21/language/id) | 1300 | 1326 | 98.0 | /mnt/stockage/packages/f21/comix/messages/id/LC_MESSAGES/comix.po | 
+ | [ko](/f21/language/ko) | 1300 | 1326 | 98.0 | /mnt/stockage/packages/f21/comix/messages/ko/LC_MESSAGES/comix.po | 
+ | [pt_BR](/f21/language/pt_BR) | 1300 | 1326 | 98.0 | /mnt/stockage/packages/f21/comix/messages/pt_BR/LC_MESSAGES/comix.po | 
 {.sortable}
 
 

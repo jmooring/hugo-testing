@@ -18,117 +18,117 @@ The package budgie-session (version 0.9.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ab]({{< ref "/f41/language/ab.md" >}}) | 435 | 435 | 100.0 | /mnt/stockage/packages/f41/budgie-session/po/ab.po | 
- | [af]({{< ref "/f41/language/af.md" >}}) | 299 | 299 | 100.0 | /mnt/stockage/packages/f41/budgie-session/po/af.po | 
- | [an]({{< ref "/f41/language/an.md" >}}) | 319 | 319 | 100.0 | /mnt/stockage/packages/f41/budgie-session/po/an.po | 
- | [as]({{< ref "/f41/language/as.md" >}}) | 323 | 323 | 100.0 | /mnt/stockage/packages/f41/budgie-session/po/as.po | 
- | [be]({{< ref "/f41/language/be.md" >}}) | 435 | 435 | 100.0 | /mnt/stockage/packages/f41/budgie-session/po/be.po | 
- | [bg]({{< ref "/f41/language/bg.md" >}}) | 435 | 435 | 100.0 | /mnt/stockage/packages/f41/budgie-session/po/bg.po | 
- | [bn]({{< ref "/f41/language/bn.md" >}}) | 446 | 446 | 100.0 | /mnt/stockage/packages/f41/budgie-session/po/bn.po | 
- | [bn_IN]({{< ref "/f41/language/bn_IN.md" >}}) | 432 | 432 | 100.0 | /mnt/stockage/packages/f41/budgie-session/po/bn_IN.po | 
- | [bs]({{< ref "/f41/language/bs.md" >}}) | 327 | 327 | 100.0 | /mnt/stockage/packages/f41/budgie-session/po/bs.po | 
- | [ca]({{< ref "/f41/language/ca.md" >}}) | 435 | 435 | 100.0 | /mnt/stockage/packages/f41/budgie-session/po/ca.po | 
- | [ca@valencia]({{< ref "/f41/language/ca@valencia.md" >}}) | 299 | 299 | 100.0 | /mnt/stockage/packages/f41/budgie-session/po/ca@valencia.po | 
- | [crh]({{< ref "/f41/language/crh.md" >}}) | 563 | 563 | 100.0 | /mnt/stockage/packages/f41/budgie-session/po/crh.po | 
- | [cs]({{< ref "/f41/language/cs.md" >}}) | 435 | 435 | 100.0 | /mnt/stockage/packages/f41/budgie-session/po/cs.po | 
- | [cy]({{< ref "/f41/language/cy.md" >}}) | 569 | 569 | 100.0 | /mnt/stockage/packages/f41/budgie-session/po/cy.po | 
- | [da]({{< ref "/f41/language/da.md" >}}) | 435 | 435 | 100.0 | /mnt/stockage/packages/f41/budgie-session/po/da.po | 
- | [de]({{< ref "/f41/language/de.md" >}}) | 435 | 435 | 100.0 | /mnt/stockage/packages/f41/budgie-session/po/de.po | 
- | [dz]({{< ref "/f41/language/dz.md" >}}) | 899 | 899 | 100.0 | /mnt/stockage/packages/f41/budgie-session/po/dz.po | 
- | [el]({{< ref "/f41/language/el.md" >}}) | 432 | 432 | 100.0 | /mnt/stockage/packages/f41/budgie-session/po/el.po | 
- | [en_CA]({{< ref "/f41/language/en_CA.md" >}}) | 888 | 888 | 100.0 | /mnt/stockage/packages/f41/budgie-session/po/en_CA.po | 
- | [en_GB]({{< ref "/f41/language/en_GB.md" >}}) | 432 | 432 | 100.0 | /mnt/stockage/packages/f41/budgie-session/po/en_GB.po | 
- | [eo]({{< ref "/f41/language/eo.md" >}}) | 364 | 364 | 100.0 | /mnt/stockage/packages/f41/budgie-session/po/eo.po | 
- | [es]({{< ref "/f41/language/es.md" >}}) | 435 | 435 | 100.0 | /mnt/stockage/packages/f41/budgie-session/po/es.po | 
- | [et]({{< ref "/f41/language/et.md" >}}) | 299 | 299 | 100.0 | /mnt/stockage/packages/f41/budgie-session/po/et.po | 
- | [eu]({{< ref "/f41/language/eu.md" >}}) | 435 | 435 | 100.0 | /mnt/stockage/packages/f41/budgie-session/po/eu.po | 
- | [fa]({{< ref "/f41/language/fa.md" >}}) | 435 | 435 | 100.0 | /mnt/stockage/packages/f41/budgie-session/po/fa.po | 
- | [fr]({{< ref "/f41/language/fr.md" >}}) | 435 | 435 | 100.0 | /mnt/stockage/packages/f41/budgie-session/po/fr.po | 
- | [fur]({{< ref "/f41/language/fur.md" >}}) | 435 | 435 | 100.0 | /mnt/stockage/packages/f41/budgie-session/po/fur.po | 
- | [fy]({{< ref "/f41/language/fy.md" >}}) | 448 | 448 | 100.0 | /mnt/stockage/packages/f41/budgie-session/po/fy.po | 
- | [gd]({{< ref "/f41/language/gd.md" >}}) | 364 | 364 | 100.0 | /mnt/stockage/packages/f41/budgie-session/po/gd.po | 
- | [gl]({{< ref "/f41/language/gl.md" >}}) | 435 | 435 | 100.0 | /mnt/stockage/packages/f41/budgie-session/po/gl.po | 
- | [gu]({{< ref "/f41/language/gu.md" >}}) | 298 | 298 | 100.0 | /mnt/stockage/packages/f41/budgie-session/po/gu.po | 
- | [he]({{< ref "/f41/language/he.md" >}}) | 435 | 435 | 100.0 | /mnt/stockage/packages/f41/budgie-session/po/he.po | 
- | [hi]({{< ref "/f41/language/hi.md" >}}) | 323 | 323 | 100.0 | /mnt/stockage/packages/f41/budgie-session/po/hi.po | 
- | [hr]({{< ref "/f41/language/hr.md" >}}) | 435 | 435 | 100.0 | /mnt/stockage/packages/f41/budgie-session/po/hr.po | 
- | [hu]({{< ref "/f41/language/hu.md" >}}) | 435 | 435 | 100.0 | /mnt/stockage/packages/f41/budgie-session/po/hu.po | 
- | [hy]({{< ref "/f41/language/hy.md" >}}) | 570 | 570 | 100.0 | /mnt/stockage/packages/f41/budgie-session/po/hy.po | 
- | [id]({{< ref "/f41/language/id.md" >}}) | 435 | 435 | 100.0 | /mnt/stockage/packages/f41/budgie-session/po/id.po | 
- | [is]({{< ref "/f41/language/is.md" >}}) | 435 | 435 | 100.0 | /mnt/stockage/packages/f41/budgie-session/po/is.po | 
- | [it]({{< ref "/f41/language/it.md" >}}) | 435 | 435 | 100.0 | /mnt/stockage/packages/f41/budgie-session/po/it.po | 
- | [ka]({{< ref "/f41/language/ka.md" >}}) | 435 | 435 | 100.0 | /mnt/stockage/packages/f41/budgie-session/po/ka.po | 
- | [kk]({{< ref "/f41/language/kk.md" >}}) | 435 | 435 | 100.0 | /mnt/stockage/packages/f41/budgie-session/po/kk.po | 
- | [km]({{< ref "/f41/language/km.md" >}}) | 323 | 323 | 100.0 | /mnt/stockage/packages/f41/budgie-session/po/km.po | 
- | [kn]({{< ref "/f41/language/kn.md" >}}) | 323 | 323 | 100.0 | /mnt/stockage/packages/f41/budgie-session/po/kn.po | 
- | [ko]({{< ref "/f41/language/ko.md" >}}) | 435 | 435 | 100.0 | /mnt/stockage/packages/f41/budgie-session/po/ko.po | 
- | [lt]({{< ref "/f41/language/lt.md" >}}) | 435 | 435 | 100.0 | /mnt/stockage/packages/f41/budgie-session/po/lt.po | 
- | [lv]({{< ref "/f41/language/lv.md" >}}) | 435 | 435 | 100.0 | /mnt/stockage/packages/f41/budgie-session/po/lv.po | 
- | [mg]({{< ref "/f41/language/mg.md" >}}) | 571 | 571 | 100.0 | /mnt/stockage/packages/f41/budgie-session/po/mg.po | 
- | [mk]({{< ref "/f41/language/mk.md" >}}) | 714 | 714 | 100.0 | /mnt/stockage/packages/f41/budgie-session/po/mk.po | 
- | [ml]({{< ref "/f41/language/ml.md" >}}) | 364 | 364 | 100.0 | /mnt/stockage/packages/f41/budgie-session/po/ml.po | 
- | [mr]({{< ref "/f41/language/mr.md" >}}) | 323 | 323 | 100.0 | /mnt/stockage/packages/f41/budgie-session/po/mr.po | 
- | [ms]({{< ref "/f41/language/ms.md" >}}) | 414 | 414 | 100.0 | /mnt/stockage/packages/f41/budgie-session/po/ms.po | 
- | [ne]({{< ref "/f41/language/ne.md" >}}) | 435 | 435 | 100.0 | /mnt/stockage/packages/f41/budgie-session/po/ne.po | 
- | [nl]({{< ref "/f41/language/nl.md" >}}) | 435 | 435 | 100.0 | /mnt/stockage/packages/f41/budgie-session/po/nl.po | 
- | [nn]({{< ref "/f41/language/nn.md" >}}) | 489 | 489 | 100.0 | /mnt/stockage/packages/f41/budgie-session/po/nn.po | 
- | [oc]({{< ref "/f41/language/oc.md" >}}) | 435 | 435 | 100.0 | /mnt/stockage/packages/f41/budgie-session/po/oc.po | 
- | [or]({{< ref "/f41/language/or.md" >}}) | 323 | 323 | 100.0 | /mnt/stockage/packages/f41/budgie-session/po/or.po | 
- | [pa]({{< ref "/f41/language/pa.md" >}}) | 432 | 432 | 100.0 | /mnt/stockage/packages/f41/budgie-session/po/pa.po | 
- | [pl]({{< ref "/f41/language/pl.md" >}}) | 435 | 435 | 100.0 | /mnt/stockage/packages/f41/budgie-session/po/pl.po | 
- | [pt]({{< ref "/f41/language/pt.md" >}}) | 435 | 435 | 100.0 | /mnt/stockage/packages/f41/budgie-session/po/pt.po | 
- | [pt_BR]({{< ref "/f41/language/pt_BR.md" >}}) | 435 | 435 | 100.0 | /mnt/stockage/packages/f41/budgie-session/po/pt_BR.po | 
- | [ro]({{< ref "/f41/language/ro.md" >}}) | 432 | 432 | 100.0 | /mnt/stockage/packages/f41/budgie-session/po/ro.po | 
- | [ru]({{< ref "/f41/language/ru.md" >}}) | 435 | 435 | 100.0 | /mnt/stockage/packages/f41/budgie-session/po/ru.po | 
- | [si]({{< ref "/f41/language/si.md" >}}) | 811 | 811 | 100.0 | /mnt/stockage/packages/f41/budgie-session/po/si.po | 
- | [sk]({{< ref "/f41/language/sk.md" >}}) | 435 | 435 | 100.0 | /mnt/stockage/packages/f41/budgie-session/po/sk.po | 
- | [sl]({{< ref "/f41/language/sl.md" >}}) | 435 | 435 | 100.0 | /mnt/stockage/packages/f41/budgie-session/po/sl.po | 
- | [sq]({{< ref "/f41/language/sq.md" >}}) | 811 | 811 | 100.0 | /mnt/stockage/packages/f41/budgie-session/po/sq.po | 
- | [sr]({{< ref "/f41/language/sr.md" >}}) | 734 | 734 | 100.0 | /mnt/stockage/packages/f41/budgie-session/po/sr@latin.po/mnt/stockage/packages/f41/budgie-session/po/sr.po | 
- | [sv]({{< ref "/f41/language/sv.md" >}}) | 435 | 435 | 100.0 | /mnt/stockage/packages/f41/budgie-session/po/sv.po | 
- | [ta]({{< ref "/f41/language/ta.md" >}}) | 323 | 323 | 100.0 | /mnt/stockage/packages/f41/budgie-session/po/ta.po | 
- | [te]({{< ref "/f41/language/te.md" >}}) | 323 | 323 | 100.0 | /mnt/stockage/packages/f41/budgie-session/po/te.po | 
- | [tg]({{< ref "/f41/language/tg.md" >}}) | 327 | 327 | 100.0 | /mnt/stockage/packages/f41/budgie-session/po/tg.po | 
- | [th]({{< ref "/f41/language/th.md" >}}) | 319 | 319 | 100.0 | /mnt/stockage/packages/f41/budgie-session/po/th.po | 
- | [tr]({{< ref "/f41/language/tr.md" >}}) | 435 | 435 | 100.0 | /mnt/stockage/packages/f41/budgie-session/po/tr.po | 
- | [ug]({{< ref "/f41/language/ug.md" >}}) | 563 | 563 | 100.0 | /mnt/stockage/packages/f41/budgie-session/po/ug.po | 
- | [uk]({{< ref "/f41/language/uk.md" >}}) | 435 | 435 | 100.0 | /mnt/stockage/packages/f41/budgie-session/po/uk.po | 
- | [vi]({{< ref "/f41/language/vi.md" >}}) | 270 | 270 | 100.0 | /mnt/stockage/packages/f41/budgie-session/po/vi.po | 
- | [wa]({{< ref "/f41/language/wa.md" >}}) | 533 | 533 | 100.0 | /mnt/stockage/packages/f41/budgie-session/po/wa.po | 
- | [zh_Hans]({{< ref "/f41/language/zh_Hans.md" >}}) | 435 | 435 | 100.0 | /mnt/stockage/packages/f41/budgie-session/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f41/language/zh_Hant.md" >}}) | 435 | 435 | 100.0 | /mnt/stockage/packages/f41/budgie-session/po/zh_TW.po | 
- | [zh_Hant_HK]({{< ref "/f41/language/zh_Hant_HK.md" >}}) | 431 | 431 | 100.0 | /mnt/stockage/packages/f41/budgie-session/po/zh_HK.po | 
- | [az]({{< ref "/f41/language/az.md" >}}) | 513 | 516 | 99.4 | /mnt/stockage/packages/f41/budgie-session/po/az.po | 
- | [mn]({{< ref "/f41/language/mn.md" >}}) | 513 | 516 | 99.4 | /mnt/stockage/packages/f41/budgie-session/po/mn.po | 
- | [nso]({{< ref "/f41/language/nso.md" >}}) | 513 | 516 | 99.4 | /mnt/stockage/packages/f41/budgie-session/po/nso.po | 
- | [zu]({{< ref "/f41/language/zu.md" >}}) | 513 | 516 | 99.4 | /mnt/stockage/packages/f41/budgie-session/po/zu.po | 
- | [br]({{< ref "/f41/language/br.md" >}}) | 668 | 675 | 99.0 | /mnt/stockage/packages/f41/budgie-session/po/br.po | 
- | [ast]({{< ref "/f41/language/ast.md" >}}) | 711 | 722 | 98.5 | /mnt/stockage/packages/f41/budgie-session/po/ast.po | 
- | [csb]({{< ref "/f41/language/csb.md" >}}) | 447 | 475 | 94.1 | /mnt/stockage/packages/f41/budgie-session/po/csb.po | 
- | [xh]({{< ref "/f41/language/xh.md" >}}) | 498 | 533 | 93.4 | /mnt/stockage/packages/f41/budgie-session/po/xh.po | 
- | [nb_NO]({{< ref "/f41/language/nb_NO.md" >}}) | 387 | 435 | 89.0 | /mnt/stockage/packages/f41/budgie-session/po/nb.po | 
- | [ja]({{< ref "/f41/language/ja.md" >}}) | 382 | 432 | 88.4 | /mnt/stockage/packages/f41/budgie-session/po/ja.po | 
- | [error]({{< ref "/f41/language/error.md" >}}) | 556 | 638 | 87.1 | /mnt/stockage/packages/f41/budgie-session/po/en@shaw.po | 
- | [ar]({{< ref "/f41/language/ar.md" >}}) | 256 | 323 | 79.3 | /mnt/stockage/packages/f41/budgie-session/po/ar.po | 
- | [be_Latn]({{< ref "/f41/language/be_Latn.md" >}}) | 533 | 714 | 74.6 | /mnt/stockage/packages/f41/budgie-session/po/be@latin.po | 
- | [fi]({{< ref "/f41/language/fi.md" >}}) | 307 | 435 | 70.6 | /mnt/stockage/packages/f41/budgie-session/po/fi.po | 
- | [kab]({{< ref "/f41/language/kab.md" >}}) | 250 | 364 | 68.7 | /mnt/stockage/packages/f41/budgie-session/po/kab.po | 
- | [mai]({{< ref "/f41/language/mai.md" >}}) | 267 | 638 | 41.8 | /mnt/stockage/packages/f41/budgie-session/po/mai.po | 
- | [ga]({{< ref "/f41/language/ga.md" >}}) | 274 | 675 | 40.6 | /mnt/stockage/packages/f41/budgie-session/po/ga.po | 
- | [ps]({{< ref "/f41/language/ps.md" >}}) | 244 | 679 | 35.9 | /mnt/stockage/packages/f41/budgie-session/po/ps.po | 
- | [mjw]({{< ref "/f41/language/mjw.md" >}}) | 127 | 382 | 33.2 | /mnt/stockage/packages/f41/budgie-session/po/mjw.po | 
- | [ckb]({{< ref "/f41/language/ckb.md" >}}) | 137 | 414 | 33.1 | /mnt/stockage/packages/f41/budgie-session/po/ckb.po | 
- | [nds]({{< ref "/f41/language/nds.md" >}}) | 209 | 638 | 32.8 | /mnt/stockage/packages/f41/budgie-session/po/nds.po | 
- | [ku]({{< ref "/f41/language/ku.md" >}}) | 208 | 714 | 29.1 | /mnt/stockage/packages/f41/budgie-session/po/ku.po | 
- | [am]({{< ref "/f41/language/am.md" >}}) | 145 | 516 | 28.1 | /mnt/stockage/packages/f41/budgie-session/po/am.po | 
- | [uz]({{< ref "/f41/language/uz.md" >}}) | 386 | 1406 | 27.5 | /mnt/stockage/packages/f41/budgie-session/po/uz@cyrillic.po/mnt/stockage/packages/f41/budgie-session/po/uz.po | 
- | [ha]({{< ref "/f41/language/ha.md" >}}) | 117 | 722 | 16.2 | /mnt/stockage/packages/f41/budgie-session/po/ha.po | 
- | [ig]({{< ref "/f41/language/ig.md" >}}) | 117 | 722 | 16.2 | /mnt/stockage/packages/f41/budgie-session/po/ig.po | 
- | [yo]({{< ref "/f41/language/yo.md" >}}) | 117 | 722 | 16.2 | /mnt/stockage/packages/f41/budgie-session/po/yo.po | 
- | [ie]({{< ref "/f41/language/ie.md" >}}) | 56 | 435 | 12.9 | /mnt/stockage/packages/f41/budgie-session/po/ie.po | 
- | [tk]({{< ref "/f41/language/tk.md" >}}) | 44 | 516 | 8.5 | /mnt/stockage/packages/f41/budgie-session/po/tk.po | 
- | [rw]({{< ref "/f41/language/rw.md" >}}) | 13 | 533 | 2.4 | /mnt/stockage/packages/f41/budgie-session/po/rw.po | 
- | [mi]({{< ref "/f41/language/mi.md" >}}) | 8 | 516 | 1.6 | /mnt/stockage/packages/f41/budgie-session/po/mi.po | 
+ | [ab](/f41/language/ab) | 435 | 435 | 100.0 | /mnt/stockage/packages/f41/budgie-session/po/ab.po | 
+ | [af](/f41/language/af) | 299 | 299 | 100.0 | /mnt/stockage/packages/f41/budgie-session/po/af.po | 
+ | [an](/f41/language/an) | 319 | 319 | 100.0 | /mnt/stockage/packages/f41/budgie-session/po/an.po | 
+ | [as](/f41/language/as) | 323 | 323 | 100.0 | /mnt/stockage/packages/f41/budgie-session/po/as.po | 
+ | [be](/f41/language/be) | 435 | 435 | 100.0 | /mnt/stockage/packages/f41/budgie-session/po/be.po | 
+ | [bg](/f41/language/bg) | 435 | 435 | 100.0 | /mnt/stockage/packages/f41/budgie-session/po/bg.po | 
+ | [bn](/f41/language/bn) | 446 | 446 | 100.0 | /mnt/stockage/packages/f41/budgie-session/po/bn.po | 
+ | [bn_IN](/f41/language/bn_IN) | 432 | 432 | 100.0 | /mnt/stockage/packages/f41/budgie-session/po/bn_IN.po | 
+ | [bs](/f41/language/bs) | 327 | 327 | 100.0 | /mnt/stockage/packages/f41/budgie-session/po/bs.po | 
+ | [ca](/f41/language/ca) | 435 | 435 | 100.0 | /mnt/stockage/packages/f41/budgie-session/po/ca.po | 
+ | [ca@valencia](/f41/language/ca@valencia) | 299 | 299 | 100.0 | /mnt/stockage/packages/f41/budgie-session/po/ca@valencia.po | 
+ | [crh](/f41/language/crh) | 563 | 563 | 100.0 | /mnt/stockage/packages/f41/budgie-session/po/crh.po | 
+ | [cs](/f41/language/cs) | 435 | 435 | 100.0 | /mnt/stockage/packages/f41/budgie-session/po/cs.po | 
+ | [cy](/f41/language/cy) | 569 | 569 | 100.0 | /mnt/stockage/packages/f41/budgie-session/po/cy.po | 
+ | [da](/f41/language/da) | 435 | 435 | 100.0 | /mnt/stockage/packages/f41/budgie-session/po/da.po | 
+ | [de](/f41/language/de) | 435 | 435 | 100.0 | /mnt/stockage/packages/f41/budgie-session/po/de.po | 
+ | [dz](/f41/language/dz) | 899 | 899 | 100.0 | /mnt/stockage/packages/f41/budgie-session/po/dz.po | 
+ | [el](/f41/language/el) | 432 | 432 | 100.0 | /mnt/stockage/packages/f41/budgie-session/po/el.po | 
+ | [en_CA](/f41/language/en_CA) | 888 | 888 | 100.0 | /mnt/stockage/packages/f41/budgie-session/po/en_CA.po | 
+ | [en_GB](/f41/language/en_GB) | 432 | 432 | 100.0 | /mnt/stockage/packages/f41/budgie-session/po/en_GB.po | 
+ | [eo](/f41/language/eo) | 364 | 364 | 100.0 | /mnt/stockage/packages/f41/budgie-session/po/eo.po | 
+ | [es](/f41/language/es) | 435 | 435 | 100.0 | /mnt/stockage/packages/f41/budgie-session/po/es.po | 
+ | [et](/f41/language/et) | 299 | 299 | 100.0 | /mnt/stockage/packages/f41/budgie-session/po/et.po | 
+ | [eu](/f41/language/eu) | 435 | 435 | 100.0 | /mnt/stockage/packages/f41/budgie-session/po/eu.po | 
+ | [fa](/f41/language/fa) | 435 | 435 | 100.0 | /mnt/stockage/packages/f41/budgie-session/po/fa.po | 
+ | [fr](/f41/language/fr) | 435 | 435 | 100.0 | /mnt/stockage/packages/f41/budgie-session/po/fr.po | 
+ | [fur](/f41/language/fur) | 435 | 435 | 100.0 | /mnt/stockage/packages/f41/budgie-session/po/fur.po | 
+ | [fy](/f41/language/fy) | 448 | 448 | 100.0 | /mnt/stockage/packages/f41/budgie-session/po/fy.po | 
+ | [gd](/f41/language/gd) | 364 | 364 | 100.0 | /mnt/stockage/packages/f41/budgie-session/po/gd.po | 
+ | [gl](/f41/language/gl) | 435 | 435 | 100.0 | /mnt/stockage/packages/f41/budgie-session/po/gl.po | 
+ | [gu](/f41/language/gu) | 298 | 298 | 100.0 | /mnt/stockage/packages/f41/budgie-session/po/gu.po | 
+ | [he](/f41/language/he) | 435 | 435 | 100.0 | /mnt/stockage/packages/f41/budgie-session/po/he.po | 
+ | [hi](/f41/language/hi) | 323 | 323 | 100.0 | /mnt/stockage/packages/f41/budgie-session/po/hi.po | 
+ | [hr](/f41/language/hr) | 435 | 435 | 100.0 | /mnt/stockage/packages/f41/budgie-session/po/hr.po | 
+ | [hu](/f41/language/hu) | 435 | 435 | 100.0 | /mnt/stockage/packages/f41/budgie-session/po/hu.po | 
+ | [hy](/f41/language/hy) | 570 | 570 | 100.0 | /mnt/stockage/packages/f41/budgie-session/po/hy.po | 
+ | [id](/f41/language/id) | 435 | 435 | 100.0 | /mnt/stockage/packages/f41/budgie-session/po/id.po | 
+ | [is](/f41/language/is) | 435 | 435 | 100.0 | /mnt/stockage/packages/f41/budgie-session/po/is.po | 
+ | [it](/f41/language/it) | 435 | 435 | 100.0 | /mnt/stockage/packages/f41/budgie-session/po/it.po | 
+ | [ka](/f41/language/ka) | 435 | 435 | 100.0 | /mnt/stockage/packages/f41/budgie-session/po/ka.po | 
+ | [kk](/f41/language/kk) | 435 | 435 | 100.0 | /mnt/stockage/packages/f41/budgie-session/po/kk.po | 
+ | [km](/f41/language/km) | 323 | 323 | 100.0 | /mnt/stockage/packages/f41/budgie-session/po/km.po | 
+ | [kn](/f41/language/kn) | 323 | 323 | 100.0 | /mnt/stockage/packages/f41/budgie-session/po/kn.po | 
+ | [ko](/f41/language/ko) | 435 | 435 | 100.0 | /mnt/stockage/packages/f41/budgie-session/po/ko.po | 
+ | [lt](/f41/language/lt) | 435 | 435 | 100.0 | /mnt/stockage/packages/f41/budgie-session/po/lt.po | 
+ | [lv](/f41/language/lv) | 435 | 435 | 100.0 | /mnt/stockage/packages/f41/budgie-session/po/lv.po | 
+ | [mg](/f41/language/mg) | 571 | 571 | 100.0 | /mnt/stockage/packages/f41/budgie-session/po/mg.po | 
+ | [mk](/f41/language/mk) | 714 | 714 | 100.0 | /mnt/stockage/packages/f41/budgie-session/po/mk.po | 
+ | [ml](/f41/language/ml) | 364 | 364 | 100.0 | /mnt/stockage/packages/f41/budgie-session/po/ml.po | 
+ | [mr](/f41/language/mr) | 323 | 323 | 100.0 | /mnt/stockage/packages/f41/budgie-session/po/mr.po | 
+ | [ms](/f41/language/ms) | 414 | 414 | 100.0 | /mnt/stockage/packages/f41/budgie-session/po/ms.po | 
+ | [ne](/f41/language/ne) | 435 | 435 | 100.0 | /mnt/stockage/packages/f41/budgie-session/po/ne.po | 
+ | [nl](/f41/language/nl) | 435 | 435 | 100.0 | /mnt/stockage/packages/f41/budgie-session/po/nl.po | 
+ | [nn](/f41/language/nn) | 489 | 489 | 100.0 | /mnt/stockage/packages/f41/budgie-session/po/nn.po | 
+ | [oc](/f41/language/oc) | 435 | 435 | 100.0 | /mnt/stockage/packages/f41/budgie-session/po/oc.po | 
+ | [or](/f41/language/or) | 323 | 323 | 100.0 | /mnt/stockage/packages/f41/budgie-session/po/or.po | 
+ | [pa](/f41/language/pa) | 432 | 432 | 100.0 | /mnt/stockage/packages/f41/budgie-session/po/pa.po | 
+ | [pl](/f41/language/pl) | 435 | 435 | 100.0 | /mnt/stockage/packages/f41/budgie-session/po/pl.po | 
+ | [pt](/f41/language/pt) | 435 | 435 | 100.0 | /mnt/stockage/packages/f41/budgie-session/po/pt.po | 
+ | [pt_BR](/f41/language/pt_BR) | 435 | 435 | 100.0 | /mnt/stockage/packages/f41/budgie-session/po/pt_BR.po | 
+ | [ro](/f41/language/ro) | 432 | 432 | 100.0 | /mnt/stockage/packages/f41/budgie-session/po/ro.po | 
+ | [ru](/f41/language/ru) | 435 | 435 | 100.0 | /mnt/stockage/packages/f41/budgie-session/po/ru.po | 
+ | [si](/f41/language/si) | 811 | 811 | 100.0 | /mnt/stockage/packages/f41/budgie-session/po/si.po | 
+ | [sk](/f41/language/sk) | 435 | 435 | 100.0 | /mnt/stockage/packages/f41/budgie-session/po/sk.po | 
+ | [sl](/f41/language/sl) | 435 | 435 | 100.0 | /mnt/stockage/packages/f41/budgie-session/po/sl.po | 
+ | [sq](/f41/language/sq) | 811 | 811 | 100.0 | /mnt/stockage/packages/f41/budgie-session/po/sq.po | 
+ | [sr](/f41/language/sr) | 734 | 734 | 100.0 | /mnt/stockage/packages/f41/budgie-session/po/sr@latin.po/mnt/stockage/packages/f41/budgie-session/po/sr.po | 
+ | [sv](/f41/language/sv) | 435 | 435 | 100.0 | /mnt/stockage/packages/f41/budgie-session/po/sv.po | 
+ | [ta](/f41/language/ta) | 323 | 323 | 100.0 | /mnt/stockage/packages/f41/budgie-session/po/ta.po | 
+ | [te](/f41/language/te) | 323 | 323 | 100.0 | /mnt/stockage/packages/f41/budgie-session/po/te.po | 
+ | [tg](/f41/language/tg) | 327 | 327 | 100.0 | /mnt/stockage/packages/f41/budgie-session/po/tg.po | 
+ | [th](/f41/language/th) | 319 | 319 | 100.0 | /mnt/stockage/packages/f41/budgie-session/po/th.po | 
+ | [tr](/f41/language/tr) | 435 | 435 | 100.0 | /mnt/stockage/packages/f41/budgie-session/po/tr.po | 
+ | [ug](/f41/language/ug) | 563 | 563 | 100.0 | /mnt/stockage/packages/f41/budgie-session/po/ug.po | 
+ | [uk](/f41/language/uk) | 435 | 435 | 100.0 | /mnt/stockage/packages/f41/budgie-session/po/uk.po | 
+ | [vi](/f41/language/vi) | 270 | 270 | 100.0 | /mnt/stockage/packages/f41/budgie-session/po/vi.po | 
+ | [wa](/f41/language/wa) | 533 | 533 | 100.0 | /mnt/stockage/packages/f41/budgie-session/po/wa.po | 
+ | [zh_Hans](/f41/language/zh_Hans) | 435 | 435 | 100.0 | /mnt/stockage/packages/f41/budgie-session/po/zh_CN.po | 
+ | [zh_Hant](/f41/language/zh_Hant) | 435 | 435 | 100.0 | /mnt/stockage/packages/f41/budgie-session/po/zh_TW.po | 
+ | [zh_Hant_HK](/f41/language/zh_Hant_HK) | 431 | 431 | 100.0 | /mnt/stockage/packages/f41/budgie-session/po/zh_HK.po | 
+ | [az](/f41/language/az) | 513 | 516 | 99.4 | /mnt/stockage/packages/f41/budgie-session/po/az.po | 
+ | [mn](/f41/language/mn) | 513 | 516 | 99.4 | /mnt/stockage/packages/f41/budgie-session/po/mn.po | 
+ | [nso](/f41/language/nso) | 513 | 516 | 99.4 | /mnt/stockage/packages/f41/budgie-session/po/nso.po | 
+ | [zu](/f41/language/zu) | 513 | 516 | 99.4 | /mnt/stockage/packages/f41/budgie-session/po/zu.po | 
+ | [br](/f41/language/br) | 668 | 675 | 99.0 | /mnt/stockage/packages/f41/budgie-session/po/br.po | 
+ | [ast](/f41/language/ast) | 711 | 722 | 98.5 | /mnt/stockage/packages/f41/budgie-session/po/ast.po | 
+ | [csb](/f41/language/csb) | 447 | 475 | 94.1 | /mnt/stockage/packages/f41/budgie-session/po/csb.po | 
+ | [xh](/f41/language/xh) | 498 | 533 | 93.4 | /mnt/stockage/packages/f41/budgie-session/po/xh.po | 
+ | [nb_NO](/f41/language/nb_NO) | 387 | 435 | 89.0 | /mnt/stockage/packages/f41/budgie-session/po/nb.po | 
+ | [ja](/f41/language/ja) | 382 | 432 | 88.4 | /mnt/stockage/packages/f41/budgie-session/po/ja.po | 
+ | [error](/f41/language/error) | 556 | 638 | 87.1 | /mnt/stockage/packages/f41/budgie-session/po/en@shaw.po | 
+ | [ar](/f41/language/ar) | 256 | 323 | 79.3 | /mnt/stockage/packages/f41/budgie-session/po/ar.po | 
+ | [be_Latn](/f41/language/be_Latn) | 533 | 714 | 74.6 | /mnt/stockage/packages/f41/budgie-session/po/be@latin.po | 
+ | [fi](/f41/language/fi) | 307 | 435 | 70.6 | /mnt/stockage/packages/f41/budgie-session/po/fi.po | 
+ | [kab](/f41/language/kab) | 250 | 364 | 68.7 | /mnt/stockage/packages/f41/budgie-session/po/kab.po | 
+ | [mai](/f41/language/mai) | 267 | 638 | 41.8 | /mnt/stockage/packages/f41/budgie-session/po/mai.po | 
+ | [ga](/f41/language/ga) | 274 | 675 | 40.6 | /mnt/stockage/packages/f41/budgie-session/po/ga.po | 
+ | [ps](/f41/language/ps) | 244 | 679 | 35.9 | /mnt/stockage/packages/f41/budgie-session/po/ps.po | 
+ | [mjw](/f41/language/mjw) | 127 | 382 | 33.2 | /mnt/stockage/packages/f41/budgie-session/po/mjw.po | 
+ | [ckb](/f41/language/ckb) | 137 | 414 | 33.1 | /mnt/stockage/packages/f41/budgie-session/po/ckb.po | 
+ | [nds](/f41/language/nds) | 209 | 638 | 32.8 | /mnt/stockage/packages/f41/budgie-session/po/nds.po | 
+ | [ku](/f41/language/ku) | 208 | 714 | 29.1 | /mnt/stockage/packages/f41/budgie-session/po/ku.po | 
+ | [am](/f41/language/am) | 145 | 516 | 28.1 | /mnt/stockage/packages/f41/budgie-session/po/am.po | 
+ | [uz](/f41/language/uz) | 386 | 1406 | 27.5 | /mnt/stockage/packages/f41/budgie-session/po/uz@cyrillic.po/mnt/stockage/packages/f41/budgie-session/po/uz.po | 
+ | [ha](/f41/language/ha) | 117 | 722 | 16.2 | /mnt/stockage/packages/f41/budgie-session/po/ha.po | 
+ | [ig](/f41/language/ig) | 117 | 722 | 16.2 | /mnt/stockage/packages/f41/budgie-session/po/ig.po | 
+ | [yo](/f41/language/yo) | 117 | 722 | 16.2 | /mnt/stockage/packages/f41/budgie-session/po/yo.po | 
+ | [ie](/f41/language/ie) | 56 | 435 | 12.9 | /mnt/stockage/packages/f41/budgie-session/po/ie.po | 
+ | [tk](/f41/language/tk) | 44 | 516 | 8.5 | /mnt/stockage/packages/f41/budgie-session/po/tk.po | 
+ | [rw](/f41/language/rw) | 13 | 533 | 2.4 | /mnt/stockage/packages/f41/budgie-session/po/rw.po | 
+ | [mi](/f41/language/mi) | 8 | 516 | 1.6 | /mnt/stockage/packages/f41/budgie-session/po/mi.po | 
 {.sortable}
 
 

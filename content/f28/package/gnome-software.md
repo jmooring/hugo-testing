@@ -18,61 +18,61 @@ The package gnome-software (version 3.28.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f28/language/ar.md" >}}) | 2455 | 2455 | 100.0 | /mnt/stockage/packages/f28/gnome-software/po/ar.po | 
- | [as]({{< ref "/f28/language/as.md" >}}) | 1043 | 1043 | 100.0 | /mnt/stockage/packages/f28/gnome-software/po/as.po | 
- | [bg]({{< ref "/f28/language/bg.md" >}}) | 3546 | 3546 | 100.0 | /mnt/stockage/packages/f28/gnome-software/po/bg.po | 
- | [bs]({{< ref "/f28/language/bs.md" >}}) | 1391 | 1391 | 100.0 | /mnt/stockage/packages/f28/gnome-software/po/bs.po | 
- | [ca]({{< ref "/f28/language/ca.md" >}}) | 3676 | 3676 | 100.0 | /mnt/stockage/packages/f28/gnome-software/po/ca.po | 
- | [cs]({{< ref "/f28/language/cs.md" >}}) | 3709 | 3709 | 100.0 | /mnt/stockage/packages/f28/gnome-software/po/cs.po | 
- | [da]({{< ref "/f28/language/da.md" >}}) | 3709 | 3709 | 100.0 | /mnt/stockage/packages/f28/gnome-software/po/da.po | 
- | [de]({{< ref "/f28/language/de.md" >}}) | 3709 | 3709 | 100.0 | /mnt/stockage/packages/f28/gnome-software/po/de.po | 
- | [el]({{< ref "/f28/language/el.md" >}}) | 3527 | 3527 | 100.0 | /mnt/stockage/packages/f28/gnome-software/po/el.po | 
- | [en_GB]({{< ref "/f28/language/en_GB.md" >}}) | 3676 | 3676 | 100.0 | /mnt/stockage/packages/f28/gnome-software/po/en_GB.po | 
- | [es]({{< ref "/f28/language/es.md" >}}) | 3676 | 3676 | 100.0 | /mnt/stockage/packages/f28/gnome-software/po/es.po | 
- | [eu]({{< ref "/f28/language/eu.md" >}}) | 3527 | 3527 | 100.0 | /mnt/stockage/packages/f28/gnome-software/po/eu.po | 
- | [fr]({{< ref "/f28/language/fr.md" >}}) | 3676 | 3676 | 100.0 | /mnt/stockage/packages/f28/gnome-software/po/fr.po | 
- | [fur]({{< ref "/f28/language/fur.md" >}}) | 3676 | 3676 | 100.0 | /mnt/stockage/packages/f28/gnome-software/po/fur.po | 
- | [gd]({{< ref "/f28/language/gd.md" >}}) | 3526 | 3526 | 100.0 | /mnt/stockage/packages/f28/gnome-software/po/gd.po | 
- | [gl]({{< ref "/f28/language/gl.md" >}}) | 3709 | 3709 | 100.0 | /mnt/stockage/packages/f28/gnome-software/po/gl.po | 
- | [hr]({{< ref "/f28/language/hr.md" >}}) | 3709 | 3709 | 100.0 | /mnt/stockage/packages/f28/gnome-software/po/hr.po | 
- | [hu]({{< ref "/f28/language/hu.md" >}}) | 3709 | 3709 | 100.0 | /mnt/stockage/packages/f28/gnome-software/po/hu.po | 
- | [id]({{< ref "/f28/language/id.md" >}}) | 3709 | 3709 | 100.0 | /mnt/stockage/packages/f28/gnome-software/po/id.po | 
- | [it]({{< ref "/f28/language/it.md" >}}) | 3709 | 3709 | 100.0 | /mnt/stockage/packages/f28/gnome-software/po/it.po | 
- | [km]({{< ref "/f28/language/km.md" >}}) | 969 | 969 | 100.0 | /mnt/stockage/packages/f28/gnome-software/po/km.po | 
- | [ko]({{< ref "/f28/language/ko.md" >}}) | 3674 | 3674 | 100.0 | /mnt/stockage/packages/f28/gnome-software/po/ko.po | 
- | [lt]({{< ref "/f28/language/lt.md" >}}) | 3709 | 3709 | 100.0 | /mnt/stockage/packages/f28/gnome-software/po/lt.po | 
- | [lv]({{< ref "/f28/language/lv.md" >}}) | 3709 | 3709 | 100.0 | /mnt/stockage/packages/f28/gnome-software/po/lv.po | 
- | [nl]({{< ref "/f28/language/nl.md" >}}) | 3709 | 3709 | 100.0 | /mnt/stockage/packages/f28/gnome-software/po/nl.po | 
- | [oc]({{< ref "/f28/language/oc.md" >}}) | 3283 | 3283 | 100.0 | /mnt/stockage/packages/f28/gnome-software/po/oc.po | 
- | [pa]({{< ref "/f28/language/pa.md" >}}) | 3676 | 3676 | 100.0 | /mnt/stockage/packages/f28/gnome-software/po/pa.po | 
- | [pl]({{< ref "/f28/language/pl.md" >}}) | 3709 | 3709 | 100.0 | /mnt/stockage/packages/f28/gnome-software/po/pl.po | 
- | [pt]({{< ref "/f28/language/pt.md" >}}) | 2336 | 2336 | 100.0 | /mnt/stockage/packages/f28/gnome-software/po/pt.po | 
- | [pt_BR]({{< ref "/f28/language/pt_BR.md" >}}) | 3709 | 3709 | 100.0 | /mnt/stockage/packages/f28/gnome-software/po/pt_BR.po | 
- | [ro]({{< ref "/f28/language/ro.md" >}}) | 3709 | 3709 | 100.0 | /mnt/stockage/packages/f28/gnome-software/po/ro.po | 
- | [sl]({{< ref "/f28/language/sl.md" >}}) | 3709 | 3709 | 100.0 | /mnt/stockage/packages/f28/gnome-software/po/sl.po | 
- | [sr]({{< ref "/f28/language/sr.md" >}}) | 7295 | 7295 | 100.0 | /mnt/stockage/packages/f28/gnome-software/po/sr.po/mnt/stockage/packages/f28/gnome-software/po/sr@latin.po | 
- | [sv]({{< ref "/f28/language/sv.md" >}}) | 3709 | 3709 | 100.0 | /mnt/stockage/packages/f28/gnome-software/po/sv.po | 
- | [th]({{< ref "/f28/language/th.md" >}}) | 1913 | 1913 | 100.0 | /mnt/stockage/packages/f28/gnome-software/po/th.po | 
- | [tr]({{< ref "/f28/language/tr.md" >}}) | 3709 | 3709 | 100.0 | /mnt/stockage/packages/f28/gnome-software/po/tr.po | 
- | [uk]({{< ref "/f28/language/uk.md" >}}) | 2602 | 2602 | 100.0 | /mnt/stockage/packages/f28/gnome-software/po/uk.po | 
- | [zh_Hans]({{< ref "/f28/language/zh_Hans.md" >}}) | 3676 | 3676 | 100.0 | /mnt/stockage/packages/f28/gnome-software/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f28/language/zh_Hant.md" >}}) | 3619 | 3619 | 100.0 | /mnt/stockage/packages/f28/gnome-software/po/zh_TW.po | 
- | [zh_Hant_HK]({{< ref "/f28/language/zh_Hant_HK.md" >}}) | 1039 | 1039 | 100.0 | /mnt/stockage/packages/f28/gnome-software/po/zh_HK.po | 
- | [ca@valencia]({{< ref "/f28/language/ca@valencia.md" >}}) | 3527 | 3528 | 100.0 | /mnt/stockage/packages/f28/gnome-software/po/ca@valencia.po | 
- | [he]({{< ref "/f28/language/he.md" >}}) | 2447 | 2455 | 99.7 | /mnt/stockage/packages/f28/gnome-software/po/he.po | 
- | [fi]({{< ref "/f28/language/fi.md" >}}) | 3524 | 3709 | 95.0 | /mnt/stockage/packages/f28/gnome-software/po/fi.po | 
- | [ru]({{< ref "/f28/language/ru.md" >}}) | 3206 | 3619 | 88.6 | /mnt/stockage/packages/f28/gnome-software/po/ru.po | 
- | [nb_NO]({{< ref "/f28/language/nb_NO.md" >}}) | 3147 | 3556 | 88.5 | /mnt/stockage/packages/f28/gnome-software/po/nb.po | 
- | [af]({{< ref "/f28/language/af.md" >}}) | 3010 | 3528 | 85.3 | /mnt/stockage/packages/f28/gnome-software/po/af.po | 
- | [sk]({{< ref "/f28/language/sk.md" >}}) | 3133 | 3676 | 85.2 | /mnt/stockage/packages/f28/gnome-software/po/sk.po | 
- | [fa]({{< ref "/f28/language/fa.md" >}}) | 2796 | 3528 | 79.3 | /mnt/stockage/packages/f28/gnome-software/po/fa.po | 
- | [kk]({{< ref "/f28/language/kk.md" >}}) | 2852 | 3676 | 77.6 | /mnt/stockage/packages/f28/gnome-software/po/kk.po | 
- | [te]({{< ref "/f28/language/te.md" >}}) | 672 | 930 | 72.3 | /mnt/stockage/packages/f28/gnome-software/po/te.po | 
- | [ja]({{< ref "/f28/language/ja.md" >}}) | 2142 | 3676 | 58.3 | /mnt/stockage/packages/f28/gnome-software/po/ja.po | 
- | [eo]({{< ref "/f28/language/eo.md" >}}) | 853 | 2379 | 35.9 | /mnt/stockage/packages/f28/gnome-software/po/eo.po | 
- | [ne]({{< ref "/f28/language/ne.md" >}}) | 869 | 3526 | 24.6 | /mnt/stockage/packages/f28/gnome-software/po/ne.po | 
- | [is]({{< ref "/f28/language/is.md" >}}) | 325 | 2456 | 13.2 | /mnt/stockage/packages/f28/gnome-software/po/is.po | 
- | [ga]({{< ref "/f28/language/ga.md" >}}) | 152 | 1505 | 10.1 | /mnt/stockage/packages/f28/gnome-software/po/ga.po | 
+ | [ar](/f28/language/ar) | 2455 | 2455 | 100.0 | /mnt/stockage/packages/f28/gnome-software/po/ar.po | 
+ | [as](/f28/language/as) | 1043 | 1043 | 100.0 | /mnt/stockage/packages/f28/gnome-software/po/as.po | 
+ | [bg](/f28/language/bg) | 3546 | 3546 | 100.0 | /mnt/stockage/packages/f28/gnome-software/po/bg.po | 
+ | [bs](/f28/language/bs) | 1391 | 1391 | 100.0 | /mnt/stockage/packages/f28/gnome-software/po/bs.po | 
+ | [ca](/f28/language/ca) | 3676 | 3676 | 100.0 | /mnt/stockage/packages/f28/gnome-software/po/ca.po | 
+ | [cs](/f28/language/cs) | 3709 | 3709 | 100.0 | /mnt/stockage/packages/f28/gnome-software/po/cs.po | 
+ | [da](/f28/language/da) | 3709 | 3709 | 100.0 | /mnt/stockage/packages/f28/gnome-software/po/da.po | 
+ | [de](/f28/language/de) | 3709 | 3709 | 100.0 | /mnt/stockage/packages/f28/gnome-software/po/de.po | 
+ | [el](/f28/language/el) | 3527 | 3527 | 100.0 | /mnt/stockage/packages/f28/gnome-software/po/el.po | 
+ | [en_GB](/f28/language/en_GB) | 3676 | 3676 | 100.0 | /mnt/stockage/packages/f28/gnome-software/po/en_GB.po | 
+ | [es](/f28/language/es) | 3676 | 3676 | 100.0 | /mnt/stockage/packages/f28/gnome-software/po/es.po | 
+ | [eu](/f28/language/eu) | 3527 | 3527 | 100.0 | /mnt/stockage/packages/f28/gnome-software/po/eu.po | 
+ | [fr](/f28/language/fr) | 3676 | 3676 | 100.0 | /mnt/stockage/packages/f28/gnome-software/po/fr.po | 
+ | [fur](/f28/language/fur) | 3676 | 3676 | 100.0 | /mnt/stockage/packages/f28/gnome-software/po/fur.po | 
+ | [gd](/f28/language/gd) | 3526 | 3526 | 100.0 | /mnt/stockage/packages/f28/gnome-software/po/gd.po | 
+ | [gl](/f28/language/gl) | 3709 | 3709 | 100.0 | /mnt/stockage/packages/f28/gnome-software/po/gl.po | 
+ | [hr](/f28/language/hr) | 3709 | 3709 | 100.0 | /mnt/stockage/packages/f28/gnome-software/po/hr.po | 
+ | [hu](/f28/language/hu) | 3709 | 3709 | 100.0 | /mnt/stockage/packages/f28/gnome-software/po/hu.po | 
+ | [id](/f28/language/id) | 3709 | 3709 | 100.0 | /mnt/stockage/packages/f28/gnome-software/po/id.po | 
+ | [it](/f28/language/it) | 3709 | 3709 | 100.0 | /mnt/stockage/packages/f28/gnome-software/po/it.po | 
+ | [km](/f28/language/km) | 969 | 969 | 100.0 | /mnt/stockage/packages/f28/gnome-software/po/km.po | 
+ | [ko](/f28/language/ko) | 3674 | 3674 | 100.0 | /mnt/stockage/packages/f28/gnome-software/po/ko.po | 
+ | [lt](/f28/language/lt) | 3709 | 3709 | 100.0 | /mnt/stockage/packages/f28/gnome-software/po/lt.po | 
+ | [lv](/f28/language/lv) | 3709 | 3709 | 100.0 | /mnt/stockage/packages/f28/gnome-software/po/lv.po | 
+ | [nl](/f28/language/nl) | 3709 | 3709 | 100.0 | /mnt/stockage/packages/f28/gnome-software/po/nl.po | 
+ | [oc](/f28/language/oc) | 3283 | 3283 | 100.0 | /mnt/stockage/packages/f28/gnome-software/po/oc.po | 
+ | [pa](/f28/language/pa) | 3676 | 3676 | 100.0 | /mnt/stockage/packages/f28/gnome-software/po/pa.po | 
+ | [pl](/f28/language/pl) | 3709 | 3709 | 100.0 | /mnt/stockage/packages/f28/gnome-software/po/pl.po | 
+ | [pt](/f28/language/pt) | 2336 | 2336 | 100.0 | /mnt/stockage/packages/f28/gnome-software/po/pt.po | 
+ | [pt_BR](/f28/language/pt_BR) | 3709 | 3709 | 100.0 | /mnt/stockage/packages/f28/gnome-software/po/pt_BR.po | 
+ | [ro](/f28/language/ro) | 3709 | 3709 | 100.0 | /mnt/stockage/packages/f28/gnome-software/po/ro.po | 
+ | [sl](/f28/language/sl) | 3709 | 3709 | 100.0 | /mnt/stockage/packages/f28/gnome-software/po/sl.po | 
+ | [sr](/f28/language/sr) | 7295 | 7295 | 100.0 | /mnt/stockage/packages/f28/gnome-software/po/sr.po/mnt/stockage/packages/f28/gnome-software/po/sr@latin.po | 
+ | [sv](/f28/language/sv) | 3709 | 3709 | 100.0 | /mnt/stockage/packages/f28/gnome-software/po/sv.po | 
+ | [th](/f28/language/th) | 1913 | 1913 | 100.0 | /mnt/stockage/packages/f28/gnome-software/po/th.po | 
+ | [tr](/f28/language/tr) | 3709 | 3709 | 100.0 | /mnt/stockage/packages/f28/gnome-software/po/tr.po | 
+ | [uk](/f28/language/uk) | 2602 | 2602 | 100.0 | /mnt/stockage/packages/f28/gnome-software/po/uk.po | 
+ | [zh_Hans](/f28/language/zh_Hans) | 3676 | 3676 | 100.0 | /mnt/stockage/packages/f28/gnome-software/po/zh_CN.po | 
+ | [zh_Hant](/f28/language/zh_Hant) | 3619 | 3619 | 100.0 | /mnt/stockage/packages/f28/gnome-software/po/zh_TW.po | 
+ | [zh_Hant_HK](/f28/language/zh_Hant_HK) | 1039 | 1039 | 100.0 | /mnt/stockage/packages/f28/gnome-software/po/zh_HK.po | 
+ | [ca@valencia](/f28/language/ca@valencia) | 3527 | 3528 | 100.0 | /mnt/stockage/packages/f28/gnome-software/po/ca@valencia.po | 
+ | [he](/f28/language/he) | 2447 | 2455 | 99.7 | /mnt/stockage/packages/f28/gnome-software/po/he.po | 
+ | [fi](/f28/language/fi) | 3524 | 3709 | 95.0 | /mnt/stockage/packages/f28/gnome-software/po/fi.po | 
+ | [ru](/f28/language/ru) | 3206 | 3619 | 88.6 | /mnt/stockage/packages/f28/gnome-software/po/ru.po | 
+ | [nb_NO](/f28/language/nb_NO) | 3147 | 3556 | 88.5 | /mnt/stockage/packages/f28/gnome-software/po/nb.po | 
+ | [af](/f28/language/af) | 3010 | 3528 | 85.3 | /mnt/stockage/packages/f28/gnome-software/po/af.po | 
+ | [sk](/f28/language/sk) | 3133 | 3676 | 85.2 | /mnt/stockage/packages/f28/gnome-software/po/sk.po | 
+ | [fa](/f28/language/fa) | 2796 | 3528 | 79.3 | /mnt/stockage/packages/f28/gnome-software/po/fa.po | 
+ | [kk](/f28/language/kk) | 2852 | 3676 | 77.6 | /mnt/stockage/packages/f28/gnome-software/po/kk.po | 
+ | [te](/f28/language/te) | 672 | 930 | 72.3 | /mnt/stockage/packages/f28/gnome-software/po/te.po | 
+ | [ja](/f28/language/ja) | 2142 | 3676 | 58.3 | /mnt/stockage/packages/f28/gnome-software/po/ja.po | 
+ | [eo](/f28/language/eo) | 853 | 2379 | 35.9 | /mnt/stockage/packages/f28/gnome-software/po/eo.po | 
+ | [ne](/f28/language/ne) | 869 | 3526 | 24.6 | /mnt/stockage/packages/f28/gnome-software/po/ne.po | 
+ | [is](/f28/language/is) | 325 | 2456 | 13.2 | /mnt/stockage/packages/f28/gnome-software/po/is.po | 
+ | [ga](/f28/language/ga) | 152 | 1505 | 10.1 | /mnt/stockage/packages/f28/gnome-software/po/ga.po | 
 {.sortable}
 
 

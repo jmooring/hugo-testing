@@ -18,25 +18,25 @@ The package insight (version 7.10.50.20160208):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f25/language/de.md" >}}) | 1602 | 1602 | 100.0 | /mnt/stockage/packages/f25/insight/opcodes/po/de.po | 
- | [es]({{< ref "/f25/language/es.md" >}}) | 9792 | 9792 | 100.0 | /mnt/stockage/packages/f25/insight/bfd/po/es.po/mnt/stockage/packages/f25/insight/opcodes/po/es.po | 
- | [fi]({{< ref "/f25/language/fi.md" >}}) | 10721 | 10721 | 100.0 | /mnt/stockage/packages/f25/insight/bfd/po/fi.po/mnt/stockage/packages/f25/insight/opcodes/po/fi.po | 
- | [fr]({{< ref "/f25/language/fr.md" >}}) | 9971 | 9971 | 100.0 | /mnt/stockage/packages/f25/insight/bfd/po/fr.po/mnt/stockage/packages/f25/insight/opcodes/po/fr.po | 
- | [ga]({{< ref "/f25/language/ga.md" >}}) | 1297 | 1297 | 100.0 | /mnt/stockage/packages/f25/insight/opcodes/po/ga.po | 
- | [id]({{< ref "/f25/language/id.md" >}}) | 7765 | 7765 | 100.0 | /mnt/stockage/packages/f25/insight/bfd/po/id.po/mnt/stockage/packages/f25/insight/opcodes/po/id.po | 
- | [it]({{< ref "/f25/language/it.md" >}}) | 1371 | 1371 | 100.0 | /mnt/stockage/packages/f25/insight/opcodes/po/it.po | 
- | [nl]({{< ref "/f25/language/nl.md" >}}) | 1371 | 1371 | 100.0 | /mnt/stockage/packages/f25/insight/opcodes/po/nl.po | 
- | [pt_BR]({{< ref "/f25/language/pt_BR.md" >}}) | 434 | 434 | 100.0 | /mnt/stockage/packages/f25/insight/opcodes/po/pt_BR.po | 
- | [ro]({{< ref "/f25/language/ro.md" >}}) | 4961 | 4961 | 100.0 | /mnt/stockage/packages/f25/insight/bfd/po/ro.po/mnt/stockage/packages/f25/insight/opcodes/po/ro.po | 
- | [ru]({{< ref "/f25/language/ru.md" >}}) | 8369 | 8369 | 100.0 | /mnt/stockage/packages/f25/insight/bfd/po/ru.po | 
- | [sv]({{< ref "/f25/language/sv.md" >}}) | 4964 | 4964 | 100.0 | /mnt/stockage/packages/f25/insight/bfd/po/sv.po/mnt/stockage/packages/f25/insight/opcodes/po/sv.po | 
- | [tr]({{< ref "/f25/language/tr.md" >}}) | 4961 | 4961 | 100.0 | /mnt/stockage/packages/f25/insight/bfd/po/tr.po/mnt/stockage/packages/f25/insight/opcodes/po/tr.po | 
- | [uk]({{< ref "/f25/language/uk.md" >}}) | 9792 | 9792 | 100.0 | /mnt/stockage/packages/f25/insight/bfd/po/uk.po/mnt/stockage/packages/f25/insight/opcodes/po/uk.po | 
- | [vi]({{< ref "/f25/language/vi.md" >}}) | 9792 | 9792 | 100.0 | /mnt/stockage/packages/f25/insight/bfd/po/vi.po/mnt/stockage/packages/f25/insight/opcodes/po/vi.po | 
- | [da]({{< ref "/f25/language/da.md" >}}) | 8808 | 9211 | 95.6 | /mnt/stockage/packages/f25/insight/bfd/po/da.po/mnt/stockage/packages/f25/insight/opcodes/po/da.po | 
- | [ja]({{< ref "/f25/language/ja.md" >}}) | 6811 | 8230 | 82.8 | /mnt/stockage/packages/f25/insight/bfd/po/ja.po | 
- | [zh_Hans]({{< ref "/f25/language/zh_Hans.md" >}}) | 1757 | 10721 | 16.4 | /mnt/stockage/packages/f25/insight/bfd/po/zh_CN.po/mnt/stockage/packages/f25/insight/opcodes/po/zh_CN.po | 
- | [rw]({{< ref "/f25/language/rw.md" >}}) | 2 | 4098 | 0.0 | /mnt/stockage/packages/f25/insight/bfd/po/rw.po | 
+ | [de](/f25/language/de) | 1602 | 1602 | 100.0 | /mnt/stockage/packages/f25/insight/opcodes/po/de.po | 
+ | [es](/f25/language/es) | 9792 | 9792 | 100.0 | /mnt/stockage/packages/f25/insight/bfd/po/es.po/mnt/stockage/packages/f25/insight/opcodes/po/es.po | 
+ | [fi](/f25/language/fi) | 10721 | 10721 | 100.0 | /mnt/stockage/packages/f25/insight/bfd/po/fi.po/mnt/stockage/packages/f25/insight/opcodes/po/fi.po | 
+ | [fr](/f25/language/fr) | 9971 | 9971 | 100.0 | /mnt/stockage/packages/f25/insight/bfd/po/fr.po/mnt/stockage/packages/f25/insight/opcodes/po/fr.po | 
+ | [ga](/f25/language/ga) | 1297 | 1297 | 100.0 | /mnt/stockage/packages/f25/insight/opcodes/po/ga.po | 
+ | [id](/f25/language/id) | 7765 | 7765 | 100.0 | /mnt/stockage/packages/f25/insight/bfd/po/id.po/mnt/stockage/packages/f25/insight/opcodes/po/id.po | 
+ | [it](/f25/language/it) | 1371 | 1371 | 100.0 | /mnt/stockage/packages/f25/insight/opcodes/po/it.po | 
+ | [nl](/f25/language/nl) | 1371 | 1371 | 100.0 | /mnt/stockage/packages/f25/insight/opcodes/po/nl.po | 
+ | [pt_BR](/f25/language/pt_BR) | 434 | 434 | 100.0 | /mnt/stockage/packages/f25/insight/opcodes/po/pt_BR.po | 
+ | [ro](/f25/language/ro) | 4961 | 4961 | 100.0 | /mnt/stockage/packages/f25/insight/bfd/po/ro.po/mnt/stockage/packages/f25/insight/opcodes/po/ro.po | 
+ | [ru](/f25/language/ru) | 8369 | 8369 | 100.0 | /mnt/stockage/packages/f25/insight/bfd/po/ru.po | 
+ | [sv](/f25/language/sv) | 4964 | 4964 | 100.0 | /mnt/stockage/packages/f25/insight/bfd/po/sv.po/mnt/stockage/packages/f25/insight/opcodes/po/sv.po | 
+ | [tr](/f25/language/tr) | 4961 | 4961 | 100.0 | /mnt/stockage/packages/f25/insight/bfd/po/tr.po/mnt/stockage/packages/f25/insight/opcodes/po/tr.po | 
+ | [uk](/f25/language/uk) | 9792 | 9792 | 100.0 | /mnt/stockage/packages/f25/insight/bfd/po/uk.po/mnt/stockage/packages/f25/insight/opcodes/po/uk.po | 
+ | [vi](/f25/language/vi) | 9792 | 9792 | 100.0 | /mnt/stockage/packages/f25/insight/bfd/po/vi.po/mnt/stockage/packages/f25/insight/opcodes/po/vi.po | 
+ | [da](/f25/language/da) | 8808 | 9211 | 95.6 | /mnt/stockage/packages/f25/insight/bfd/po/da.po/mnt/stockage/packages/f25/insight/opcodes/po/da.po | 
+ | [ja](/f25/language/ja) | 6811 | 8230 | 82.8 | /mnt/stockage/packages/f25/insight/bfd/po/ja.po | 
+ | [zh_Hans](/f25/language/zh_Hans) | 1757 | 10721 | 16.4 | /mnt/stockage/packages/f25/insight/bfd/po/zh_CN.po/mnt/stockage/packages/f25/insight/opcodes/po/zh_CN.po | 
+ | [rw](/f25/language/rw) | 2 | 4098 | 0.0 | /mnt/stockage/packages/f25/insight/bfd/po/rw.po | 
 {.sortable}
 
 

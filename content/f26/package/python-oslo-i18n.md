@@ -18,16 +18,16 @@ The package python-oslo-i18n (version 3.4.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f26/language/de.md" >}}) | 6 | 6 | 100.0 | /mnt/stockage/packages/f26/python-oslo-i18n/oslo_i18n/locale/de/LC_MESSAGES/oslo_i18n.po | 
- | [en_GB]({{< ref "/f26/language/en_GB.md" >}}) | 6 | 6 | 100.0 | /mnt/stockage/packages/f26/python-oslo-i18n/oslo_i18n/locale/en_GB/LC_MESSAGES/oslo_i18n.po | 
- | [es]({{< ref "/f26/language/es.md" >}}) | 6 | 6 | 100.0 | /mnt/stockage/packages/f26/python-oslo-i18n/oslo_i18n/locale/es/LC_MESSAGES/oslo_i18n.po | 
- | [fr]({{< ref "/f26/language/fr.md" >}}) | 6 | 6 | 100.0 | /mnt/stockage/packages/f26/python-oslo-i18n/oslo_i18n/locale/fr/LC_MESSAGES/oslo_i18n.po | 
- | [it]({{< ref "/f26/language/it.md" >}}) | 6 | 6 | 100.0 | /mnt/stockage/packages/f26/python-oslo-i18n/oslo_i18n/locale/it/LC_MESSAGES/oslo_i18n.po | 
- | [ja]({{< ref "/f26/language/ja.md" >}}) | 6 | 6 | 100.0 | /mnt/stockage/packages/f26/python-oslo-i18n/oslo_i18n/locale/ja/LC_MESSAGES/oslo_i18n.po | 
- | [ko]({{< ref "/f26/language/ko.md" >}}) | 6 | 6 | 100.0 | /mnt/stockage/packages/f26/python-oslo-i18n/oslo_i18n/locale/ko_KR/LC_MESSAGES/oslo_i18n.po | 
- | [pl]({{< ref "/f26/language/pl.md" >}}) | 6 | 6 | 100.0 | /mnt/stockage/packages/f26/python-oslo-i18n/oslo_i18n/locale/pl_PL/LC_MESSAGES/oslo_i18n.po | 
- | [pt]({{< ref "/f26/language/pt.md" >}}) | 6 | 6 | 100.0 | /mnt/stockage/packages/f26/python-oslo-i18n/oslo_i18n/locale/pt/LC_MESSAGES/oslo_i18n.po | 
- | [zh_Hans]({{< ref "/f26/language/zh_Hans.md" >}}) | 6 | 6 | 100.0 | /mnt/stockage/packages/f26/python-oslo-i18n/oslo_i18n/locale/zh_CN/LC_MESSAGES/oslo_i18n.po | 
+ | [de](/f26/language/de) | 6 | 6 | 100.0 | /mnt/stockage/packages/f26/python-oslo-i18n/oslo_i18n/locale/de/LC_MESSAGES/oslo_i18n.po | 
+ | [en_GB](/f26/language/en_GB) | 6 | 6 | 100.0 | /mnt/stockage/packages/f26/python-oslo-i18n/oslo_i18n/locale/en_GB/LC_MESSAGES/oslo_i18n.po | 
+ | [es](/f26/language/es) | 6 | 6 | 100.0 | /mnt/stockage/packages/f26/python-oslo-i18n/oslo_i18n/locale/es/LC_MESSAGES/oslo_i18n.po | 
+ | [fr](/f26/language/fr) | 6 | 6 | 100.0 | /mnt/stockage/packages/f26/python-oslo-i18n/oslo_i18n/locale/fr/LC_MESSAGES/oslo_i18n.po | 
+ | [it](/f26/language/it) | 6 | 6 | 100.0 | /mnt/stockage/packages/f26/python-oslo-i18n/oslo_i18n/locale/it/LC_MESSAGES/oslo_i18n.po | 
+ | [ja](/f26/language/ja) | 6 | 6 | 100.0 | /mnt/stockage/packages/f26/python-oslo-i18n/oslo_i18n/locale/ja/LC_MESSAGES/oslo_i18n.po | 
+ | [ko](/f26/language/ko) | 6 | 6 | 100.0 | /mnt/stockage/packages/f26/python-oslo-i18n/oslo_i18n/locale/ko_KR/LC_MESSAGES/oslo_i18n.po | 
+ | [pl](/f26/language/pl) | 6 | 6 | 100.0 | /mnt/stockage/packages/f26/python-oslo-i18n/oslo_i18n/locale/pl_PL/LC_MESSAGES/oslo_i18n.po | 
+ | [pt](/f26/language/pt) | 6 | 6 | 100.0 | /mnt/stockage/packages/f26/python-oslo-i18n/oslo_i18n/locale/pt/LC_MESSAGES/oslo_i18n.po | 
+ | [zh_Hans](/f26/language/zh_Hans) | 6 | 6 | 100.0 | /mnt/stockage/packages/f26/python-oslo-i18n/oslo_i18n/locale/zh_CN/LC_MESSAGES/oslo_i18n.po | 
 {.sortable}
 
 

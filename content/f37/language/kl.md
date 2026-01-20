@@ -39,21 +39,21 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [slick-greeter]({{< ref "/f37/package/slick-greeter.md" >}}) | 54 | 211 | 25.6 | Greenlandic (Kalaallisut) <kl@li.org> | 
- | [libreoffice]({{< ref "/f37/package/libreoffice.md" >}}) | 1330 | 168400 | 0.8 | LANGUAGE <LL@li.org> | 
- | [bookworm]({{< ref "/f37/package/bookworm.md" >}}) | 0 | 795 | 0.0 |  | 
- | [coin]({{< ref "/f37/package/coin.md" >}}) | 0 | 252 | 0.0 | none | 
- | [dippi]({{< ref "/f37/package/dippi.md" >}}) | 0 | 1183 | 0.0 | none | 
- | [granite]({{< ref "/f37/package/granite.md" >}}) | 0 | 498 | 0.0 |  | 
- | [harvey]({{< ref "/f37/package/harvey.md" >}}) | 0 | 182 | 0.0 | none | 
- | [iso-codes]({{< ref "/f37/package/iso-codes.md" >}}) | 0 | 986 | 0.0 | Greenlandic <https://hosted.weblate.org/projects/iso-codes/iso-3166-1/kl/> | 
- | [lightdm]({{< ref "/f37/package/lightdm.md" >}}) | 0 | 84 | 0.0 | Greenlandic (Kalaallisut) <kl@li.org> | 
- | [nutty]({{< ref "/f37/package/nutty.md" >}}) | 0 | 608 | 0.0 |  | 
- | [optimizer]({{< ref "/f37/package/optimizer.md" >}}) | 0 | 282 | 0.0 | none | 
- | [pyhoca-gui]({{< ref "/f37/package/pyhoca-gui.md" >}}) | 0 | 1865 | 0.0 | none | 
- | [python-django-mailman3]({{< ref "/f37/package/python-django-mailman3.md" >}}) | 0 | 355 | 0.0 | LANGUAGE <LL@li.org> | 
- | [python-postorius]({{< ref "/f37/package/python-postorius.md" >}}) | 0 | 5054 | 0.0 | LANGUAGE <LL@li.org> | 
- | [regextester]({{< ref "/f37/package/regextester.md" >}}) | 0 | 104 | 0.0 | none | 
+ | [slick-greeter](/f37/package/slick-greeter) | 54 | 211 | 25.6 | Greenlandic (Kalaallisut) <kl@li.org> | 
+ | [libreoffice](/f37/package/libreoffice) | 1330 | 168400 | 0.8 | LANGUAGE <LL@li.org> | 
+ | [bookworm](/f37/package/bookworm) | 0 | 795 | 0.0 |  | 
+ | [coin](/f37/package/coin) | 0 | 252 | 0.0 | none | 
+ | [dippi](/f37/package/dippi) | 0 | 1183 | 0.0 | none | 
+ | [granite](/f37/package/granite) | 0 | 498 | 0.0 |  | 
+ | [harvey](/f37/package/harvey) | 0 | 182 | 0.0 | none | 
+ | [iso-codes](/f37/package/iso-codes) | 0 | 986 | 0.0 | Greenlandic <https://hosted.weblate.org/projects/iso-codes/iso-3166-1/kl/> | 
+ | [lightdm](/f37/package/lightdm) | 0 | 84 | 0.0 | Greenlandic (Kalaallisut) <kl@li.org> | 
+ | [nutty](/f37/package/nutty) | 0 | 608 | 0.0 |  | 
+ | [optimizer](/f37/package/optimizer) | 0 | 282 | 0.0 | none | 
+ | [pyhoca-gui](/f37/package/pyhoca-gui) | 0 | 1865 | 0.0 | none | 
+ | [python-django-mailman3](/f37/package/python-django-mailman3) | 0 | 355 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [python-postorius](/f37/package/python-postorius) | 0 | 5054 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [regextester](/f37/package/regextester) | 0 | 104 | 0.0 | none | 
 {.sortable}
 
 

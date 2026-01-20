@@ -18,13 +18,13 @@ The package gnash (version 0.8.5):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f10/language/cs.md" >}}) | 8011 | 9876 | 81.1 | /mnt/stockage/packages/f10/gnash/po/cs.po | 
- | [fi]({{< ref "/f10/language/fi.md" >}}) | 1127 | 9883 | 11.4 | /mnt/stockage/packages/f10/gnash/po/fi.po | 
- | [de]({{< ref "/f10/language/de.md" >}}) | 930 | 9876 | 9.4 | /mnt/stockage/packages/f10/gnash/po/de.po | 
- | [ja]({{< ref "/f10/language/ja.md" >}}) | 588 | 9876 | 6.0 | /mnt/stockage/packages/f10/gnash/po/ja.po | 
- | [it]({{< ref "/f10/language/it.md" >}}) | 271 | 9876 | 2.7 | /mnt/stockage/packages/f10/gnash/po/it.po | 
- | [fr]({{< ref "/f10/language/fr.md" >}}) | 32 | 9876 | 0.3 | /mnt/stockage/packages/f10/gnash/po/fr.po | 
- | [es]({{< ref "/f10/language/es.md" >}}) | 15 | 9876 | 0.2 | /mnt/stockage/packages/f10/gnash/po/es.po | 
+ | [cs](/f10/language/cs) | 8011 | 9876 | 81.1 | /mnt/stockage/packages/f10/gnash/po/cs.po | 
+ | [fi](/f10/language/fi) | 1127 | 9883 | 11.4 | /mnt/stockage/packages/f10/gnash/po/fi.po | 
+ | [de](/f10/language/de) | 930 | 9876 | 9.4 | /mnt/stockage/packages/f10/gnash/po/de.po | 
+ | [ja](/f10/language/ja) | 588 | 9876 | 6.0 | /mnt/stockage/packages/f10/gnash/po/ja.po | 
+ | [it](/f10/language/it) | 271 | 9876 | 2.7 | /mnt/stockage/packages/f10/gnash/po/it.po | 
+ | [fr](/f10/language/fr) | 32 | 9876 | 0.3 | /mnt/stockage/packages/f10/gnash/po/fr.po | 
+ | [es](/f10/language/es) | 15 | 9876 | 0.2 | /mnt/stockage/packages/f10/gnash/po/es.po | 
 {.sortable}
 
 

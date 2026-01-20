@@ -47,1322 +47,1322 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [0ad]({{< ref "/f22/package/0ad.md" >}}) | 104 | 104 | 100.0 | Dutch (http://www.transifex.com/projects/p/0ad/language/nl/) | 
- | [CableSwig]({{< ref "/f22/package/CableSwig.md" >}}) | 1140 | 1140 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
- | [GConf2]({{< ref "/f22/package/GConf2.md" >}}) | 4088 | 4088 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
- | [NetworkManager-openswan]({{< ref "/f22/package/NetworkManager-openswan.md" >}}) | 139 | 139 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
- | [NetworkManager-pptp]({{< ref "/f22/package/NetworkManager-pptp.md" >}}) | 110 | 110 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
- | [NetworkManager-vpnc]({{< ref "/f22/package/NetworkManager-vpnc.md" >}}) | 138 | 138 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
- | [Thunar]({{< ref "/f22/package/Thunar.md" >}}) | 4206 | 4206 | 100.0 | Dutch (http://www.transifex.com/projects/p/thunar/language/nl/) | 
- | [Zim]({{< ref "/f22/package/Zim.md" >}}) | 2874 | 2874 | 100.0 | Dutch <nl@li.org> | 
- | [accerciser]({{< ref "/f22/package/accerciser.md" >}}) | 535 | 535 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
- | [accountsservice]({{< ref "/f22/package/accountsservice.md" >}}) | 59 | 59 | 100.0 | Dutch (http://www.transifex.com/projects/p/freedesktop/language/nl/) | 
- | [adwaita-icon-theme]({{< ref "/f22/package/adwaita-icon-theme.md" >}}) | 51 | 51 | 100.0 | Dutch <vertaling@nl.linux.org> | 
- | [aisleriot]({{< ref "/f22/package/aisleriot.md" >}}) | 2997 | 2997 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
- | [alacarte]({{< ref "/f22/package/alacarte.md" >}}) | 42 | 42 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
- | [alleyoop]({{< ref "/f22/package/alleyoop.md" >}}) | 351 | 351 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
- | [almanah]({{< ref "/f22/package/almanah.md" >}}) | 785 | 785 | 100.0 | <en@li.org> | 
- | [amarok]({{< ref "/f22/package/amarok.md" >}}) | 15794 | 15794 | 100.0 | Dutch <kde-i18n-nl@kde.org> | 
- | [apper]({{< ref "/f22/package/apper.md" >}}) | 4143 | 4143 | 100.0 | Dutch <kde-i18n-nl@kde.org> | 
- | [apt-cacher-ng]({{< ref "/f22/package/apt-cacher-ng.md" >}}) | 394 | 394 | 100.0 | Debian Dutch l10n Team <debian-l10n-dutch@lists.debian.org> | 
- | [arandr]({{< ref "/f22/package/arandr.md" >}}) | 172 | 172 | 100.0 | LANGUAGE <LL@li.org> | 
- | [arm-none-eabi-binutils-cs]({{< ref "/f22/package/arm-none-eabi-binutils-cs.md" >}}) | 1896 | 1896 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
- | [arm-none-eabi-gdb]({{< ref "/f22/package/arm-none-eabi-gdb.md" >}}) | 1371 | 1371 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
- | [aspell]({{< ref "/f22/package/aspell.md" >}}) | 1726 | 1726 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
- | [at-spi]({{< ref "/f22/package/at-spi.md" >}}) | 61 | 61 | 100.0 | Dutch | 
- | [at-spi2-core]({{< ref "/f22/package/at-spi2-core.md" >}}) | 96 | 96 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
- | [atk]({{< ref "/f22/package/atk.md" >}}) | 375 | 375 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
- | [atomix]({{< ref "/f22/package/atomix.md" >}}) | 146 | 146 | 100.0 | Dutch <vertaling@nl.linux.org> | 
- | [attr]({{< ref "/f22/package/attr.md" >}}) | 308 | 308 | 100.0 | Debian l10n Dutch <debian-l10n-dutch@lists.debian.org> | 
- | [audacity]({{< ref "/f22/package/audacity.md" >}}) | 12236 | 12236 | 100.0 | Dutch (http://www.transifex.com/klyok/audacity/language/nl/) | 
- | [audex]({{< ref "/f22/package/audex.md" >}}) | 3347 | 3347 | 100.0 | Dutch <kde-i18n-nl@kde.org> | 
- | [audit-viewer]({{< ref "/f22/package/audit-viewer.md" >}}) | 611 | 611 | 100.0 | LANGUAGE <LL@li.org> | 
- | [authconfig]({{< ref "/f22/package/authconfig.md" >}}) | 1715 | 1715 | 100.0 | Dutch (http://www.transifex.com/projects/p/authconfig/language/nl/) | 
- | [avr-binutils]({{< ref "/f22/package/avr-binutils.md" >}}) | 1896 | 1896 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
- | [avr-gdb]({{< ref "/f22/package/avr-gdb.md" >}}) | 1392 | 1392 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
- | [backintime]({{< ref "/f22/package/backintime.md" >}}) | 1492 | 1492 | 100.0 | Dutch <nl@li.org> | 
- | [bakery]({{< ref "/f22/package/bakery.md" >}}) | 72 | 72 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
- | [ballerburg]({{< ref "/f22/package/ballerburg.md" >}}) | 294 | 294 | 100.0 | Dutch <nl@li.org> | 
- | [banshee]({{< ref "/f22/package/banshee.md" >}}) | 5801 | 5801 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
- | [baobab]({{< ref "/f22/package/baobab.md" >}}) | 210 | 210 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
- | [bijiben]({{< ref "/f22/package/bijiben.md" >}}) | 310 | 310 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
- | [binutils]({{< ref "/f22/package/binutils.md" >}}) | 1896 | 1896 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
- | [bleachbit]({{< ref "/f22/package/bleachbit.md" >}}) | 1112 | 1112 | 100.0 | Dutch <nl@li.org> | 
- | [blobwars]({{< ref "/f22/package/blobwars.md" >}}) | 1256 | 1256 | 100.0 | Dutch Localization <debian-l10n-dutch@lists.debian.org> | 
- | [bluedevil]({{< ref "/f22/package/bluedevil.md" >}}) | 555 | 555 | 100.0 | Dutch <kde-i18n-nl@kde.org> | 
- | [bluefish]({{< ref "/f22/package/bluefish.md" >}}) | 4905 | 4905 | 100.0 | Dutch; Flemish <> | 
- | [boinc-client]({{< ref "/f22/package/boinc-client.md" >}}) | 25309 | 25309 | 100.0 | LANGUAGE <LL@li.org> | 
- | [brasero]({{< ref "/f22/package/brasero.md" >}}) | 5546 | 5546 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
- | [bygfoot]({{< ref "/f22/package/bygfoot.md" >}}) | 3720 | 3720 | 100.0 | Dutch <tobedeprez@scarlet.be> | 
- | [byobu]({{< ref "/f22/package/byobu.md" >}}) | 177 | 177 | 100.0 | Dutch <nl@li.org> | 
- | [bzflag]({{< ref "/f22/package/bzflag.md" >}}) | 1898 | 1898 | 100.0 |  | 
- | [cairo-clock]({{< ref "/f22/package/cairo-clock.md" >}}) | 270 | 270 | 100.0 | Harm Hilvers <harm@tweakers.net> | 
- | [cairo-dock]({{< ref "/f22/package/cairo-dock.md" >}}) | 7464 | 7464 | 100.0 | LANGUAGE <LL@li.org> | 
- | [cairo-dock-plug-ins]({{< ref "/f22/package/cairo-dock-plug-ins.md" >}}) | 10203 | 10203 | 100.0 | LANGUAGE <LL@li.org> | 
- | [caja]({{< ref "/f22/package/caja.md" >}}) | 9244 | 9244 | 100.0 | Dutch (http://www.transifex.com/mate/MATE/language/nl/) | 
- | [caja-extensions]({{< ref "/f22/package/caja-extensions.md" >}}) | 556 | 556 | 100.0 | Dutch (http://www.transifex.com/mate/MATE/language/nl/) | 
- | [camorama]({{< ref "/f22/package/camorama.md" >}}) | 586 | 586 | 100.0 | Dutch <nl@li.org> | 
- | [catfish]({{< ref "/f22/package/catfish.md" >}}) | 512 | 512 | 100.0 | Dutch <nl@li.org> | 
- | [ccsm]({{< ref "/f22/package/ccsm.md" >}}) | 549 | 549 | 100.0 | Dutch <mailmelist@gmail.com> | 
- | [cheese]({{< ref "/f22/package/cheese.md" >}}) | 613 | 613 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
- | [childsplay]({{< ref "/f22/package/childsplay.md" >}}) | 1226 | 1226 | 100.0 | <en@li.org> | 
- | [chkconfig]({{< ref "/f22/package/chkconfig.md" >}}) | 513 | 513 | 100.0 | Dutch (http://www.transifex.com/projects/p/fedora/language/nl/) | 
- | [choqok]({{< ref "/f22/package/choqok.md" >}}) | 2159 | 2159 | 100.0 | Dutch <kde-i18n-nl@kde.org> | 
- | [cinnamon-control-center]({{< ref "/f22/package/cinnamon-control-center.md" >}}) | 1313 | 1313 | 100.0 | Fedora | 
- | [cinnamon-settings-daemon]({{< ref "/f22/package/cinnamon-settings-daemon.md" >}}) | 3943 | 3943 | 100.0 | Dutch <ubuntu-l10n-nl@lists.ubuntu.com> | 
- | [cinnamon-translations]({{< ref "/f22/package/cinnamon-translations.md" >}}) | 13313 | 13313 | 100.0 | Dutch <nl@li.org> | 
- | [clamtk]({{< ref "/f22/package/clamtk.md" >}}) | 464 | 464 | 100.0 | LANGUAGE <LL@li.org> | 
- | [claws-mail]({{< ref "/f22/package/claws-mail.md" >}}) | 19808 | 19808 | 100.0 | translators@lists.claws-mail.org | 
- | [clementine]({{< ref "/f22/package/clementine.md" >}}) | 5091 | 5091 | 100.0 | Dutch (http://www.transifex.com/davidsansome/clementine/language/nl/) | 
- | [colord-kde]({{< ref "/f22/package/colord-kde.md" >}}) | 369 | 369 | 100.0 | Dutch <kde-i18n-nl@kde.org> | 
- | [compat-gtkhtml314]({{< ref "/f22/package/compat-gtkhtml314.md" >}}) | 485 | 485 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
- | [compat-libgdata19]({{< ref "/f22/package/compat-libgdata19.md" >}}) | 607 | 607 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
- | [console-setup]({{< ref "/f22/package/console-setup.md" >}}) | 981 | 981 | 100.0 | Debian l10n Dutch <debian-l10n-dutch@lists.debian.org> | 
- | [control-center]({{< ref "/f22/package/control-center.md" >}}) | 6355 | 6355 | 100.0 | Fedora | 
- | [corebird]({{< ref "/f22/package/corebird.md" >}}) | 423 | 423 | 100.0 | Dutch (http://www.transifex.com/corebird/corebird/language/nl/) | 
- | [cross-binutils]({{< ref "/f22/package/cross-binutils.md" >}}) | 1896 | 1896 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
- | [cryptsetup]({{< ref "/f22/package/cryptsetup.md" >}}) | 2436 | 2436 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
- | [cups-pk-helper]({{< ref "/f22/package/cups-pk-helper.md" >}}) | 149 | 149 | 100.0 | Dutch (http://www.transifex.net/projects/p/freedesktop/language/nl/) | 
- | [darktable]({{< ref "/f22/package/darktable.md" >}}) | 7536 | 7536 | 100.0 | Ger Siemerink <g.siemerink@gmail.com> | 
- | [dasher]({{< ref "/f22/package/dasher.md" >}}) | 526 | 526 | 100.0 | nl <vertaling@vrijschrift.org> | 
- | [dconf-editor]({{< ref "/f22/package/dconf-editor.md" >}}) | 191 | 191 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
- | [dcraw]({{< ref "/f22/package/dcraw.md" >}}) | 634 | 634 | 100.0 |  | 
- | [debconf]({{< ref "/f22/package/debconf.md" >}}) | 795 | 795 | 100.0 | Dutch <debian-l10n-dutch@lists.debian.org> | 
- | [deja-dup]({{< ref "/f22/package/deja-dup.md" >}}) | 4100 | 4100 | 100.0 | Dutch <nl@li.org> | 
- | [devhelp]({{< ref "/f22/package/devhelp.md" >}}) | 460 | 460 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
- | [devilspie2]({{< ref "/f22/package/devilspie2.md" >}}) | 156 | 156 | 100.0 | Dutch | 
- | [dexter]({{< ref "/f22/package/dexter.md" >}}) | 228 | 228 | 100.0 | Dutch <nl@li.org> | 
- | [dialog]({{< ref "/f22/package/dialog.md" >}}) | 25 | 25 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
- | [diction]({{< ref "/f22/package/diction.md" >}}) | 457 | 457 | 100.0 | Nederlands <hans.lodder@requirements-management.nl> | 
- | [diffutils]({{< ref "/f22/package/diffutils.md" >}}) | 1800 | 1800 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
- | [digikam]({{< ref "/f22/package/digikam.md" >}}) | 48758 | 48758 | 100.0 | Dutch <kde-i18n-nl@kde.org> | 
- | [doodle]({{< ref "/f22/package/doodle.md" >}}) | 684 | 684 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
- | [dpkg]({{< ref "/f22/package/dpkg.md" >}}) | 10990 | 10990 | 100.0 | Dutch <debian-l10n-dutch@lists.debian.org> | 
- | [driconf]({{< ref "/f22/package/driconf.md" >}}) | 512 | 512 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
- | [drupal6-votingapi]({{< ref "/f22/package/drupal6-votingapi.md" >}}) | 380 | 380 | 100.0 | Dutch <EMAIL@ADDRESS> | 
- | [drupal7-admin_theme]({{< ref "/f22/package/drupal7-admin_theme.md" >}}) | 176 | 176 | 100.0 | Davy Van Den Bremt <info@davyvandenbremt.be> | 
- | [drupal7-l10n_update]({{< ref "/f22/package/drupal7-l10n_update.md" >}}) | 8 | 8 | 100.0 |  | 
- | [drupal7-potx]({{< ref "/f22/package/drupal7-potx.md" >}}) | 168 | 168 | 100.0 | None <hanv@users.sourceforge.net> | 
- | [dwdiff]({{< ref "/f22/package/dwdiff.md" >}}) | 518 | 518 | 100.0 | Dutch <> | 
- | [e2fsprogs]({{< ref "/f22/package/e2fsprogs.md" >}}) | 8477 | 8477 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
- | [ecore]({{< ref "/f22/package/ecore.md" >}}) | 110 | 110 | 100.0 | <vistausss@gmail.com> | 
- | [edgar]({{< ref "/f22/package/edgar.md" >}}) | 11475 | 11475 | 100.0 | Dutch <nl@li.org> | 
- | [efreet]({{< ref "/f22/package/efreet.md" >}}) | 1 | 1 | 100.0 | Enlightenment Team | 
- | [ejabberd]({{< ref "/f22/package/ejabberd.md" >}}) | 1826 | 1826 | 100.0 |  | 
- | [emerald]({{< ref "/f22/package/emerald.md" >}}) | 774 | 774 | 100.0 | Dutch <ixce@beryl-project.org> | 
- | [eog]({{< ref "/f22/package/eog.md" >}}) | 1502 | 1502 | 100.0 | Dutch <gnome-nl-list@gnome.org> | 
- | [eom]({{< ref "/f22/package/eom.md" >}}) | 1731 | 1731 | 100.0 | Dutch (http://www.transifex.com/projects/p/MATE/language/nl/) | 
- | [epiphany]({{< ref "/f22/package/epiphany.md" >}}) | 2592 | 2592 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
- | [etckeeper]({{< ref "/f22/package/etckeeper.md" >}}) | 64 | 64 | 100.0 | Debian l10n Dutch <debian-l10n-dutch@lists.debian.org> | 
- | [evolution]({{< ref "/f22/package/evolution.md" >}}) | 21216 | 21216 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
- | [evolution-data-server]({{< ref "/f22/package/evolution-data-server.md" >}}) | 5406 | 5406 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
- | [evolution-mapi]({{< ref "/f22/package/evolution-mapi.md" >}}) | 516 | 516 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
- | [exif]({{< ref "/f22/package/exif.md" >}}) | 296 | 296 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
- | [exo]({{< ref "/f22/package/exo.md" >}}) | 1414 | 1414 | 100.0 | Dutch (http://www.transifex.com/projects/p/exo/language/nl/) | 
- | [expendable]({{< ref "/f22/package/expendable.md" >}}) | 227 | 227 | 100.0 | Dutch (http://www.transifex.com/projects/p/expendable/language/nl/) | 
- | [file-roller]({{< ref "/f22/package/file-roller.md" >}}) | 1195 | 1195 | 100.0 | Dutch <gnome-nl-list@gnome.org> | 
- | [filezilla]({{< ref "/f22/package/filezilla.md" >}}) | 9894 | 9894 | 100.0 | <en@li.org> | 
- | [five-or-more]({{< ref "/f22/package/five-or-more.md" >}}) | 465 | 465 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
- | [focuswriter]({{< ref "/f22/package/focuswriter.md" >}}) | 129 | 129 | 100.0 | Dutch (http://www.transifex.com/projects/p/focuswriter/language/nl/) | 
- | [four-in-a-row]({{< ref "/f22/package/four-in-a-row.md" >}}) | 4683 | 4683 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
- | [foxtrotgps]({{< ref "/f22/package/foxtrotgps.md" >}}) | 995 | 995 | 100.0 |  | 
- | [fpc]({{< ref "/f22/package/fpc.md" >}}) | 3 | 3 | 100.0 |  | 
- | [fprintd]({{< ref "/f22/package/fprintd.md" >}}) | 419 | 419 | 100.0 | Dutch (http://www.transifex.com/projects/p/freedesktop/language/nl/) | 
- | [freedink]({{< ref "/f22/package/freedink.md" >}}) | 271 | 271 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
- | [freedink-data]({{< ref "/f22/package/freedink-data.md" >}}) | 13758 | 13758 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
- | [freedink-dfarc]({{< ref "/f22/package/freedink-dfarc.md" >}}) | 773 | 773 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
- | [freeipa]({{< ref "/f22/package/freeipa.md" >}}) | 4 | 4 | 100.0 | Dutch (http://www.transifex.com/projects/p/freeipa/language/nl/) | 
- | [fslint]({{< ref "/f22/package/fslint.md" >}}) | 388 | 388 | 100.0 | Dutch <vertaling@nl.linux.org> | 
- | [gambas3]({{< ref "/f22/package/gambas3.md" >}}) | 7133 | 7133 | 100.0 |  | 
- | [garcon]({{< ref "/f22/package/garcon.md" >}}) | 109 | 109 | 100.0 | Dutch (http://www.transifex.com/projects/p/xfce/language/nl/) | 
- | [gawk]({{< ref "/f22/package/gawk.md" >}}) | 4574 | 4574 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
- | [gbrainy]({{< ref "/f22/package/gbrainy.md" >}}) | 10163 | 10163 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
- | [gccxml]({{< ref "/f22/package/gccxml.md" >}}) | 1140 | 1140 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
- | [gcl]({{< ref "/f22/package/gcl.md" >}}) | 177 | 177 | 100.0 | debian-l10n-dutch <debian-l10n-dutch@lists.debian.org> | 
- | [gcompris]({{< ref "/f22/package/gcompris.md" >}}) | 17459 | 17459 | 100.0 | Dutch <gnome-nl-list@gnome.org> | 
- | [gconf-editor]({{< ref "/f22/package/gconf-editor.md" >}}) | 336 | 336 | 100.0 | Dutch <vertaling@nl.linux.org> | 
- | [gcr]({{< ref "/f22/package/gcr.md" >}}) | 677 | 677 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
- | [gdb]({{< ref "/f22/package/gdb.md" >}}) | 1371 | 1371 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
- | [gdm]({{< ref "/f22/package/gdm.md" >}}) | 655 | 655 | 100.0 | Dutch <gnome-nl-list@gnome.org> | 
- | [geany]({{< ref "/f22/package/geany.md" >}}) | 5969 | 5969 | 100.0 | Dutch <geany-i18n@uvena.de> | 
- | [geary]({{< ref "/f22/package/geary.md" >}}) | 1281 | 1281 | 100.0 | Dutch <vertaling@vrijschrift.org>
+ | [0ad](/f22/package/0ad) | 104 | 104 | 100.0 | Dutch (http://www.transifex.com/projects/p/0ad/language/nl/) | 
+ | [CableSwig](/f22/package/CableSwig) | 1140 | 1140 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
+ | [GConf2](/f22/package/GConf2) | 4088 | 4088 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
+ | [NetworkManager-openswan](/f22/package/NetworkManager-openswan) | 139 | 139 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
+ | [NetworkManager-pptp](/f22/package/NetworkManager-pptp) | 110 | 110 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
+ | [NetworkManager-vpnc](/f22/package/NetworkManager-vpnc) | 138 | 138 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
+ | [Thunar](/f22/package/Thunar) | 4206 | 4206 | 100.0 | Dutch (http://www.transifex.com/projects/p/thunar/language/nl/) | 
+ | [Zim](/f22/package/Zim) | 2874 | 2874 | 100.0 | Dutch <nl@li.org> | 
+ | [accerciser](/f22/package/accerciser) | 535 | 535 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
+ | [accountsservice](/f22/package/accountsservice) | 59 | 59 | 100.0 | Dutch (http://www.transifex.com/projects/p/freedesktop/language/nl/) | 
+ | [adwaita-icon-theme](/f22/package/adwaita-icon-theme) | 51 | 51 | 100.0 | Dutch <vertaling@nl.linux.org> | 
+ | [aisleriot](/f22/package/aisleriot) | 2997 | 2997 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
+ | [alacarte](/f22/package/alacarte) | 42 | 42 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
+ | [alleyoop](/f22/package/alleyoop) | 351 | 351 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
+ | [almanah](/f22/package/almanah) | 785 | 785 | 100.0 | <en@li.org> | 
+ | [amarok](/f22/package/amarok) | 15794 | 15794 | 100.0 | Dutch <kde-i18n-nl@kde.org> | 
+ | [apper](/f22/package/apper) | 4143 | 4143 | 100.0 | Dutch <kde-i18n-nl@kde.org> | 
+ | [apt-cacher-ng](/f22/package/apt-cacher-ng) | 394 | 394 | 100.0 | Debian Dutch l10n Team <debian-l10n-dutch@lists.debian.org> | 
+ | [arandr](/f22/package/arandr) | 172 | 172 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [arm-none-eabi-binutils-cs](/f22/package/arm-none-eabi-binutils-cs) | 1896 | 1896 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
+ | [arm-none-eabi-gdb](/f22/package/arm-none-eabi-gdb) | 1371 | 1371 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
+ | [aspell](/f22/package/aspell) | 1726 | 1726 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
+ | [at-spi](/f22/package/at-spi) | 61 | 61 | 100.0 | Dutch | 
+ | [at-spi2-core](/f22/package/at-spi2-core) | 96 | 96 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
+ | [atk](/f22/package/atk) | 375 | 375 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
+ | [atomix](/f22/package/atomix) | 146 | 146 | 100.0 | Dutch <vertaling@nl.linux.org> | 
+ | [attr](/f22/package/attr) | 308 | 308 | 100.0 | Debian l10n Dutch <debian-l10n-dutch@lists.debian.org> | 
+ | [audacity](/f22/package/audacity) | 12236 | 12236 | 100.0 | Dutch (http://www.transifex.com/klyok/audacity/language/nl/) | 
+ | [audex](/f22/package/audex) | 3347 | 3347 | 100.0 | Dutch <kde-i18n-nl@kde.org> | 
+ | [audit-viewer](/f22/package/audit-viewer) | 611 | 611 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [authconfig](/f22/package/authconfig) | 1715 | 1715 | 100.0 | Dutch (http://www.transifex.com/projects/p/authconfig/language/nl/) | 
+ | [avr-binutils](/f22/package/avr-binutils) | 1896 | 1896 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
+ | [avr-gdb](/f22/package/avr-gdb) | 1392 | 1392 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
+ | [backintime](/f22/package/backintime) | 1492 | 1492 | 100.0 | Dutch <nl@li.org> | 
+ | [bakery](/f22/package/bakery) | 72 | 72 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
+ | [ballerburg](/f22/package/ballerburg) | 294 | 294 | 100.0 | Dutch <nl@li.org> | 
+ | [banshee](/f22/package/banshee) | 5801 | 5801 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
+ | [baobab](/f22/package/baobab) | 210 | 210 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
+ | [bijiben](/f22/package/bijiben) | 310 | 310 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
+ | [binutils](/f22/package/binutils) | 1896 | 1896 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
+ | [bleachbit](/f22/package/bleachbit) | 1112 | 1112 | 100.0 | Dutch <nl@li.org> | 
+ | [blobwars](/f22/package/blobwars) | 1256 | 1256 | 100.0 | Dutch Localization <debian-l10n-dutch@lists.debian.org> | 
+ | [bluedevil](/f22/package/bluedevil) | 555 | 555 | 100.0 | Dutch <kde-i18n-nl@kde.org> | 
+ | [bluefish](/f22/package/bluefish) | 4905 | 4905 | 100.0 | Dutch; Flemish <> | 
+ | [boinc-client](/f22/package/boinc-client) | 25309 | 25309 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [brasero](/f22/package/brasero) | 5546 | 5546 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
+ | [bygfoot](/f22/package/bygfoot) | 3720 | 3720 | 100.0 | Dutch <tobedeprez@scarlet.be> | 
+ | [byobu](/f22/package/byobu) | 177 | 177 | 100.0 | Dutch <nl@li.org> | 
+ | [bzflag](/f22/package/bzflag) | 1898 | 1898 | 100.0 |  | 
+ | [cairo-clock](/f22/package/cairo-clock) | 270 | 270 | 100.0 | Harm Hilvers <harm@tweakers.net> | 
+ | [cairo-dock](/f22/package/cairo-dock) | 7464 | 7464 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [cairo-dock-plug-ins](/f22/package/cairo-dock-plug-ins) | 10203 | 10203 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [caja](/f22/package/caja) | 9244 | 9244 | 100.0 | Dutch (http://www.transifex.com/mate/MATE/language/nl/) | 
+ | [caja-extensions](/f22/package/caja-extensions) | 556 | 556 | 100.0 | Dutch (http://www.transifex.com/mate/MATE/language/nl/) | 
+ | [camorama](/f22/package/camorama) | 586 | 586 | 100.0 | Dutch <nl@li.org> | 
+ | [catfish](/f22/package/catfish) | 512 | 512 | 100.0 | Dutch <nl@li.org> | 
+ | [ccsm](/f22/package/ccsm) | 549 | 549 | 100.0 | Dutch <mailmelist@gmail.com> | 
+ | [cheese](/f22/package/cheese) | 613 | 613 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
+ | [childsplay](/f22/package/childsplay) | 1226 | 1226 | 100.0 | <en@li.org> | 
+ | [chkconfig](/f22/package/chkconfig) | 513 | 513 | 100.0 | Dutch (http://www.transifex.com/projects/p/fedora/language/nl/) | 
+ | [choqok](/f22/package/choqok) | 2159 | 2159 | 100.0 | Dutch <kde-i18n-nl@kde.org> | 
+ | [cinnamon-control-center](/f22/package/cinnamon-control-center) | 1313 | 1313 | 100.0 | Fedora | 
+ | [cinnamon-settings-daemon](/f22/package/cinnamon-settings-daemon) | 3943 | 3943 | 100.0 | Dutch <ubuntu-l10n-nl@lists.ubuntu.com> | 
+ | [cinnamon-translations](/f22/package/cinnamon-translations) | 13313 | 13313 | 100.0 | Dutch <nl@li.org> | 
+ | [clamtk](/f22/package/clamtk) | 464 | 464 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [claws-mail](/f22/package/claws-mail) | 19808 | 19808 | 100.0 | translators@lists.claws-mail.org | 
+ | [clementine](/f22/package/clementine) | 5091 | 5091 | 100.0 | Dutch (http://www.transifex.com/davidsansome/clementine/language/nl/) | 
+ | [colord-kde](/f22/package/colord-kde) | 369 | 369 | 100.0 | Dutch <kde-i18n-nl@kde.org> | 
+ | [compat-gtkhtml314](/f22/package/compat-gtkhtml314) | 485 | 485 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
+ | [compat-libgdata19](/f22/package/compat-libgdata19) | 607 | 607 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
+ | [console-setup](/f22/package/console-setup) | 981 | 981 | 100.0 | Debian l10n Dutch <debian-l10n-dutch@lists.debian.org> | 
+ | [control-center](/f22/package/control-center) | 6355 | 6355 | 100.0 | Fedora | 
+ | [corebird](/f22/package/corebird) | 423 | 423 | 100.0 | Dutch (http://www.transifex.com/corebird/corebird/language/nl/) | 
+ | [cross-binutils](/f22/package/cross-binutils) | 1896 | 1896 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
+ | [cryptsetup](/f22/package/cryptsetup) | 2436 | 2436 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
+ | [cups-pk-helper](/f22/package/cups-pk-helper) | 149 | 149 | 100.0 | Dutch (http://www.transifex.net/projects/p/freedesktop/language/nl/) | 
+ | [darktable](/f22/package/darktable) | 7536 | 7536 | 100.0 | Ger Siemerink <g.siemerink@gmail.com> | 
+ | [dasher](/f22/package/dasher) | 526 | 526 | 100.0 | nl <vertaling@vrijschrift.org> | 
+ | [dconf-editor](/f22/package/dconf-editor) | 191 | 191 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
+ | [dcraw](/f22/package/dcraw) | 634 | 634 | 100.0 |  | 
+ | [debconf](/f22/package/debconf) | 795 | 795 | 100.0 | Dutch <debian-l10n-dutch@lists.debian.org> | 
+ | [deja-dup](/f22/package/deja-dup) | 4100 | 4100 | 100.0 | Dutch <nl@li.org> | 
+ | [devhelp](/f22/package/devhelp) | 460 | 460 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
+ | [devilspie2](/f22/package/devilspie2) | 156 | 156 | 100.0 | Dutch | 
+ | [dexter](/f22/package/dexter) | 228 | 228 | 100.0 | Dutch <nl@li.org> | 
+ | [dialog](/f22/package/dialog) | 25 | 25 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
+ | [diction](/f22/package/diction) | 457 | 457 | 100.0 | Nederlands <hans.lodder@requirements-management.nl> | 
+ | [diffutils](/f22/package/diffutils) | 1800 | 1800 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
+ | [digikam](/f22/package/digikam) | 48758 | 48758 | 100.0 | Dutch <kde-i18n-nl@kde.org> | 
+ | [doodle](/f22/package/doodle) | 684 | 684 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
+ | [dpkg](/f22/package/dpkg) | 10990 | 10990 | 100.0 | Dutch <debian-l10n-dutch@lists.debian.org> | 
+ | [driconf](/f22/package/driconf) | 512 | 512 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
+ | [drupal6-votingapi](/f22/package/drupal6-votingapi) | 380 | 380 | 100.0 | Dutch <EMAIL@ADDRESS> | 
+ | [drupal7-admin_theme](/f22/package/drupal7-admin_theme) | 176 | 176 | 100.0 | Davy Van Den Bremt <info@davyvandenbremt.be> | 
+ | [drupal7-l10n_update](/f22/package/drupal7-l10n_update) | 8 | 8 | 100.0 |  | 
+ | [drupal7-potx](/f22/package/drupal7-potx) | 168 | 168 | 100.0 | None <hanv@users.sourceforge.net> | 
+ | [dwdiff](/f22/package/dwdiff) | 518 | 518 | 100.0 | Dutch <> | 
+ | [e2fsprogs](/f22/package/e2fsprogs) | 8477 | 8477 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
+ | [ecore](/f22/package/ecore) | 110 | 110 | 100.0 | <vistausss@gmail.com> | 
+ | [edgar](/f22/package/edgar) | 11475 | 11475 | 100.0 | Dutch <nl@li.org> | 
+ | [efreet](/f22/package/efreet) | 1 | 1 | 100.0 | Enlightenment Team | 
+ | [ejabberd](/f22/package/ejabberd) | 1826 | 1826 | 100.0 |  | 
+ | [emerald](/f22/package/emerald) | 774 | 774 | 100.0 | Dutch <ixce@beryl-project.org> | 
+ | [eog](/f22/package/eog) | 1502 | 1502 | 100.0 | Dutch <gnome-nl-list@gnome.org> | 
+ | [eom](/f22/package/eom) | 1731 | 1731 | 100.0 | Dutch (http://www.transifex.com/projects/p/MATE/language/nl/) | 
+ | [epiphany](/f22/package/epiphany) | 2592 | 2592 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
+ | [etckeeper](/f22/package/etckeeper) | 64 | 64 | 100.0 | Debian l10n Dutch <debian-l10n-dutch@lists.debian.org> | 
+ | [evolution](/f22/package/evolution) | 21216 | 21216 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
+ | [evolution-data-server](/f22/package/evolution-data-server) | 5406 | 5406 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
+ | [evolution-mapi](/f22/package/evolution-mapi) | 516 | 516 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
+ | [exif](/f22/package/exif) | 296 | 296 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
+ | [exo](/f22/package/exo) | 1414 | 1414 | 100.0 | Dutch (http://www.transifex.com/projects/p/exo/language/nl/) | 
+ | [expendable](/f22/package/expendable) | 227 | 227 | 100.0 | Dutch (http://www.transifex.com/projects/p/expendable/language/nl/) | 
+ | [file-roller](/f22/package/file-roller) | 1195 | 1195 | 100.0 | Dutch <gnome-nl-list@gnome.org> | 
+ | [filezilla](/f22/package/filezilla) | 9894 | 9894 | 100.0 | <en@li.org> | 
+ | [five-or-more](/f22/package/five-or-more) | 465 | 465 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
+ | [focuswriter](/f22/package/focuswriter) | 129 | 129 | 100.0 | Dutch (http://www.transifex.com/projects/p/focuswriter/language/nl/) | 
+ | [four-in-a-row](/f22/package/four-in-a-row) | 4683 | 4683 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
+ | [foxtrotgps](/f22/package/foxtrotgps) | 995 | 995 | 100.0 |  | 
+ | [fpc](/f22/package/fpc) | 3 | 3 | 100.0 |  | 
+ | [fprintd](/f22/package/fprintd) | 419 | 419 | 100.0 | Dutch (http://www.transifex.com/projects/p/freedesktop/language/nl/) | 
+ | [freedink](/f22/package/freedink) | 271 | 271 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
+ | [freedink-data](/f22/package/freedink-data) | 13758 | 13758 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
+ | [freedink-dfarc](/f22/package/freedink-dfarc) | 773 | 773 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
+ | [freeipa](/f22/package/freeipa) | 4 | 4 | 100.0 | Dutch (http://www.transifex.com/projects/p/freeipa/language/nl/) | 
+ | [fslint](/f22/package/fslint) | 388 | 388 | 100.0 | Dutch <vertaling@nl.linux.org> | 
+ | [gambas3](/f22/package/gambas3) | 7133 | 7133 | 100.0 |  | 
+ | [garcon](/f22/package/garcon) | 109 | 109 | 100.0 | Dutch (http://www.transifex.com/projects/p/xfce/language/nl/) | 
+ | [gawk](/f22/package/gawk) | 4574 | 4574 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
+ | [gbrainy](/f22/package/gbrainy) | 10163 | 10163 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
+ | [gccxml](/f22/package/gccxml) | 1140 | 1140 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
+ | [gcl](/f22/package/gcl) | 177 | 177 | 100.0 | debian-l10n-dutch <debian-l10n-dutch@lists.debian.org> | 
+ | [gcompris](/f22/package/gcompris) | 17459 | 17459 | 100.0 | Dutch <gnome-nl-list@gnome.org> | 
+ | [gconf-editor](/f22/package/gconf-editor) | 336 | 336 | 100.0 | Dutch <vertaling@nl.linux.org> | 
+ | [gcr](/f22/package/gcr) | 677 | 677 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
+ | [gdb](/f22/package/gdb) | 1371 | 1371 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
+ | [gdm](/f22/package/gdm) | 655 | 655 | 100.0 | Dutch <gnome-nl-list@gnome.org> | 
+ | [geany](/f22/package/geany) | 5969 | 5969 | 100.0 | Dutch <geany-i18n@uvena.de> | 
+ | [geary](/f22/package/geary) | 1281 | 1281 | 100.0 | Dutch <vertaling@vrijschrift.org>
 geary/language/nl_NL/) | 
- | [gedit]({{< ref "/f22/package/gedit.md" >}}) | 4115 | 4115 | 100.0 | Dutch <gnome-nl-list@gnome.org> | 
- | [ggz-base-libs]({{< ref "/f22/package/ggz-base-libs.md" >}}) | 52 | 52 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
- | [ggz-gtk-client]({{< ref "/f22/package/ggz-gtk-client.md" >}}) | 665 | 665 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
- | [ghex]({{< ref "/f22/package/ghex.md" >}}) | 966 | 966 | 100.0 | Dutch <vertaling@nl.linux.org> | 
- | [gigolo]({{< ref "/f22/package/gigolo.md" >}}) | 521 | 521 | 100.0 | Dutch (http://www.transifex.com/projects/p/xfce/language/nl/) | 
- | [glade2]({{< ref "/f22/package/glade2.md" >}}) | 5840 | 5840 | 100.0 | Dutch <vertaling@nl.linux.org> | 
- | [glib-networking]({{< ref "/f22/package/glib-networking.md" >}}) | 135 | 135 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
- | [glibc]({{< ref "/f22/package/glibc.md" >}}) | 8001 | 8001 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
- | [glibc-arm-linux-gnu]({{< ref "/f22/package/glibc-arm-linux-gnu.md" >}}) | 8001 | 8001 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
- | [glom]({{< ref "/f22/package/glom.md" >}}) | 275 | 275 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
- | [gmpc]({{< ref "/f22/package/gmpc.md" >}}) | 25 | 25 | 100.0 | Dutch <nl@li.org> | 
- | [gnome-backgrounds]({{< ref "/f22/package/gnome-backgrounds.md" >}}) | 27 | 27 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
- | [gnome-bluetooth]({{< ref "/f22/package/gnome-bluetooth.md" >}}) | 308 | 308 | 100.0 | Dutch <gnome-nl-list@gnome.org> | 
- | [gnome-boxes]({{< ref "/f22/package/gnome-boxes.md" >}}) | 926 | 926 | 100.0 | Dutch <gnome-nl-list@gnome.org> | 
- | [gnome-calculator]({{< ref "/f22/package/gnome-calculator.md" >}}) | 1464 | 1464 | 100.0 | Dutch <gnome-nl-list@gnome.org> | 
- | [gnome-chess]({{< ref "/f22/package/gnome-chess.md" >}}) | 4683 | 4683 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
- | [gnome-clocks]({{< ref "/f22/package/gnome-clocks.md" >}}) | 223 | 223 | 100.0 | Dutch <gnome-nl-list@gnome.org> | 
- | [gnome-color-manager]({{< ref "/f22/package/gnome-color-manager.md" >}}) | 1792 | 1792 | 100.0 | Nederlands <vertaling@vrijschrift.org> | 
- | [gnome-contacts]({{< ref "/f22/package/gnome-contacts.md" >}}) | 405 | 405 | 100.0 | Dutch <gnome-nl-list@gnome.org> | 
- | [gnome-desktop]({{< ref "/f22/package/gnome-desktop.md" >}}) | 438 | 438 | 100.0 | Dutch <vertaling@nl.linux.org> | 
- | [gnome-desktop3]({{< ref "/f22/package/gnome-desktop3.md" >}}) | 146 | 146 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
- | [gnome-dictionary]({{< ref "/f22/package/gnome-dictionary.md" >}}) | 841 | 841 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
- | [gnome-disk-utility]({{< ref "/f22/package/gnome-disk-utility.md" >}}) | 3423 | 3423 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
- | [gnome-do]({{< ref "/f22/package/gnome-do.md" >}}) | 612 | 612 | 100.0 | Dutch <nl@li.org> | 
- | [gnome-doc-utils]({{< ref "/f22/package/gnome-doc-utils.md" >}}) | 251 | 251 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
- | [gnome-font-viewer]({{< ref "/f22/package/gnome-font-viewer.md" >}}) | 130 | 130 | 100.0 | Dutch <gnome-nl-list@gnome.org> | 
- | [gnome-icon-theme]({{< ref "/f22/package/gnome-icon-theme.md" >}}) | 51 | 51 | 100.0 | Dutch <vertaling@nl.linux.org> | 
- | [gnome-initial-setup]({{< ref "/f22/package/gnome-initial-setup.md" >}}) | 638 | 638 | 100.0 | Dutch <gnome-nl-list@gnome.org> | 
- | [gnome-keyring]({{< ref "/f22/package/gnome-keyring.md" >}}) | 553 | 553 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
- | [gnome-klotski]({{< ref "/f22/package/gnome-klotski.md" >}}) | 4683 | 4683 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
- | [gnome-logs]({{< ref "/f22/package/gnome-logs.md" >}}) | 120 | 120 | 100.0 | Dutch <gnome-nl-list@gnome.org> | 
- | [gnome-mahjongg]({{< ref "/f22/package/gnome-mahjongg.md" >}}) | 4683 | 4683 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
- | [gnome-maps]({{< ref "/f22/package/gnome-maps.md" >}}) | 481 | 481 | 100.0 | Dutch <gnome-nl-list@gnome.org> | 
- | [gnome-menus]({{< ref "/f22/package/gnome-menus.md" >}}) | 70 | 70 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
- | [gnome-mime-data]({{< ref "/f22/package/gnome-mime-data.md" >}}) | 887 | 887 | 100.0 | Dutch <vertaling@nl.linux.org> | 
- | [gnome-mines]({{< ref "/f22/package/gnome-mines.md" >}}) | 4683 | 4683 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
- | [gnome-mud]({{< ref "/f22/package/gnome-mud.md" >}}) | 1309 | 1309 | 100.0 | Dutch <vertaling@nl.linux.org> | 
- | [gnome-multi-writer]({{< ref "/f22/package/gnome-multi-writer.md" >}}) | 344 | 344 | 100.0 | Dutch (http://www.transifex.com/projects/p/gnome-multi-writer/language/nl/) | 
- | [gnome-music]({{< ref "/f22/package/gnome-music.md" >}}) | 383 | 383 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
- | [gnome-nettool]({{< ref "/f22/package/gnome-nettool.md" >}}) | 664 | 664 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
- | [gnome-nibbles]({{< ref "/f22/package/gnome-nibbles.md" >}}) | 4683 | 4683 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
- | [gnome-packagekit]({{< ref "/f22/package/gnome-packagekit.md" >}}) | 4390 | 4390 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
- | [gnome-phone-manager]({{< ref "/f22/package/gnome-phone-manager.md" >}}) | 513 | 513 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
- | [gnome-photos]({{< ref "/f22/package/gnome-photos.md" >}}) | 354 | 354 | 100.0 | Dutch <gnome-nl-list@gnome.org> | 
- | [gnome-power-manager]({{< ref "/f22/package/gnome-power-manager.md" >}}) | 432 | 432 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
- | [gnome-robots]({{< ref "/f22/package/gnome-robots.md" >}}) | 4683 | 4683 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
- | [gnome-screensaver]({{< ref "/f22/package/gnome-screensaver.md" >}}) | 291 | 291 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
- | [gnome-screenshot]({{< ref "/f22/package/gnome-screenshot.md" >}}) | 455 | 455 | 100.0 | Dutch <gnome-nl-list@gnome.org> | 
- | [gnome-search-tool]({{< ref "/f22/package/gnome-search-tool.md" >}}) | 1359 | 1359 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
- | [gnome-session]({{< ref "/f22/package/gnome-session.md" >}}) | 431 | 431 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
- | [gnome-shell]({{< ref "/f22/package/gnome-shell.md" >}}) | 1296 | 1296 | 100.0 | Dutch <gnome-nl-list@gnome.org> | 
- | [gnome-shell-extensions]({{< ref "/f22/package/gnome-shell-extensions.md" >}}) | 358 | 358 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
- | [gnome-sound-recorder]({{< ref "/f22/package/gnome-sound-recorder.md" >}}) | 223 | 223 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
- | [gnome-sudoku]({{< ref "/f22/package/gnome-sudoku.md" >}}) | 4683 | 4683 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
- | [gnome-system-log]({{< ref "/f22/package/gnome-system-log.md" >}}) | 522 | 522 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
- | [gnome-system-monitor]({{< ref "/f22/package/gnome-system-monitor.md" >}}) | 1283 | 1283 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
- | [gnome-tetravex]({{< ref "/f22/package/gnome-tetravex.md" >}}) | 4683 | 4683 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
- | [gnome-themes]({{< ref "/f22/package/gnome-themes.md" >}}) | 109 | 109 | 100.0 | Dutch <vertaling@nl.linux.org> | 
- | [gnome-themes-standard]({{< ref "/f22/package/gnome-themes-standard.md" >}}) | 24 | 24 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
- | [gnome-tweak-tool]({{< ref "/f22/package/gnome-tweak-tool.md" >}}) | 382 | 382 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
- | [gnome-user-share]({{< ref "/f22/package/gnome-user-share.md" >}}) | 247 | 247 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
- | [gnome-vfs2]({{< ref "/f22/package/gnome-vfs2.md" >}}) | 1519 | 1519 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
- | [gnome-weather]({{< ref "/f22/package/gnome-weather.md" >}}) | 216 | 216 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
- | [gnubik]({{< ref "/f22/package/gnubik.md" >}}) | 285 | 285 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
- | [gnuchess]({{< ref "/f22/package/gnuchess.md" >}}) | 1068 | 1068 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
- | [gobby]({{< ref "/f22/package/gobby.md" >}}) | 900 | 900 | 100.0 | Dutch <nl@li.org> | 
- | [googsystray]({{< ref "/f22/package/googsystray.md" >}}) | 759 | 759 | 100.0 | Dutch | 
- | [gparted]({{< ref "/f22/package/gparted.md" >}}) | 2591 | 2591 | 100.0 | Dutch <gnome-nl-list@gnome.org> | 
- | [gpicview]({{< ref "/f22/package/gpicview.md" >}}) | 219 | 219 | 100.0 | Dutch | 
- | [gpsdrive]({{< ref "/f22/package/gpsdrive.md" >}}) | 2311 | 2311 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
- | [grep]({{< ref "/f22/package/grep.md" >}}) | 943 | 943 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
- | [greylistd]({{< ref "/f22/package/greylistd.md" >}}) | 350 | 350 | 100.0 | debian-l10n-dutch <debian-l10n-dutch@lists.debian.org> | 
- | [gridengine]({{< ref "/f22/package/gridengine.md" >}}) | 2047 | 2047 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
- | [gstreamer-plugins-bad-free]({{< ref "/f22/package/gstreamer-plugins-bad-free.md" >}}) | 96 | 96 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
- | [gstreamer-plugins-good]({{< ref "/f22/package/gstreamer-plugins-good.md" >}}) | 814 | 814 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
- | [gstreamer1]({{< ref "/f22/package/gstreamer1.md" >}}) | 2002 | 2002 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
- | [gstreamer1-plugins-base]({{< ref "/f22/package/gstreamer1-plugins-base.md" >}}) | 819 | 819 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
- | [gstreamer1-plugins-good]({{< ref "/f22/package/gstreamer1-plugins-good.md" >}}) | 759 | 759 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
- | [gthumb]({{< ref "/f22/package/gthumb.md" >}}) | 5033 | 5033 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
- | [gtick]({{< ref "/f22/package/gtick.md" >}}) | 338 | 338 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
- | [gtk-recordmydesktop]({{< ref "/f22/package/gtk-recordmydesktop.md" >}}) | 816 | 816 | 100.0 | Dutch | 
- | [gtk2-engines]({{< ref "/f22/package/gtk2-engines.md" >}}) | 119 | 119 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
- | [gtk3]({{< ref "/f22/package/gtk3.md" >}}) | 13348 | 13348 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
- | [gtkhtml3]({{< ref "/f22/package/gtkhtml3.md" >}}) | 485 | 485 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
- | [gtksourceview]({{< ref "/f22/package/gtksourceview.md" >}}) | 849 | 849 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
- | [gtksourceview2]({{< ref "/f22/package/gtksourceview2.md" >}}) | 1099 | 1099 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
- | [gtksourceview3]({{< ref "/f22/package/gtksourceview3.md" >}}) | 1551 | 1551 | 100.0 | Dutch; Flemish <gnome-nl-list@gnome.org> | 
- | [gtkspell]({{< ref "/f22/package/gtkspell.md" >}}) | 11 | 11 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
- | [gtkspell3]({{< ref "/f22/package/gtkspell3.md" >}}) | 16 | 16 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
- | [gtranslator]({{< ref "/f22/package/gtranslator.md" >}}) | 1230 | 1230 | 100.0 | Dutch <vertaling@nl.linux.org> | 
- | [guayadeque]({{< ref "/f22/package/guayadeque.md" >}}) | 3326 | 3326 | 100.0 | Dutch (Netherlands) (http://www.transifex.com/projects/p/guayadeque/language/nl_NL/) | 
- | [gucharmap]({{< ref "/f22/package/gucharmap.md" >}}) | 1071 | 1071 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
- | [gvfs]({{< ref "/f22/package/gvfs.md" >}}) | 2648 | 2648 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
- | [gvrng]({{< ref "/f22/package/gvrng.md" >}}) | 373 | 373 | 100.0 | Dutch <nl@li.org> | 
- | [gwget]({{< ref "/f22/package/gwget.md" >}}) | 525 | 525 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
- | [hivex]({{< ref "/f22/package/hivex.md" >}}) | 270 | 270 | 100.0 | Dutch <> | 
- | [homerun]({{< ref "/f22/package/homerun.md" >}}) | 504 | 504 | 100.0 | Dutch <kde-i18n-nl@kde.org> | 
- | [iagno]({{< ref "/f22/package/iagno.md" >}}) | 4683 | 4683 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
- | [ibus]({{< ref "/f22/package/ibus.md" >}}) | 996 | 996 | 100.0 | Dutch <trans-nl@lists.fedoraproject.org> | 
- | [initial-setup]({{< ref "/f22/package/initial-setup.md" >}}) | 85 | 85 | 100.0 | Dutch (http://www.transifex.com/projects/p/initial-setup/language/nl/) | 
- | [insight]({{< ref "/f22/package/insight.md" >}}) | 1371 | 1371 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
- | [islamic-menus]({{< ref "/f22/package/islamic-menus.md" >}}) | 5 | 5 | 100.0 | Dutch <nl@li.org> | 
- | [isomaster]({{< ref "/f22/package/isomaster.md" >}}) | 674 | 674 | 100.0 |  | 
- | [istanbul]({{< ref "/f22/package/istanbul.md" >}}) | 350 | 350 | 100.0 | Gnome-NL <gnome-nl-list@gnome.org> | 
- | [k3b]({{< ref "/f22/package/k3b.md" >}}) | 20541 | 20541 | 100.0 | Dutch <kde-i18n-nl@kde.org> | 
- | [k4dirstat]({{< ref "/f22/package/k4dirstat.md" >}}) | 547 | 547 | 100.0 | Dutch (http://www.transifex.com/projects/p/k4dirstat/language/nl/) | 
- | [kamoso]({{< ref "/f22/package/kamoso.md" >}}) | 165 | 165 | 100.0 | Dutch <kde-i18n-nl@kde.org> | 
- | [kaudiocreator]({{< ref "/f22/package/kaudiocreator.md" >}}) | 1136 | 1136 | 100.0 | Dutch <kde-i18n-nl@kde.org> | 
- | [kbd]({{< ref "/f22/package/kbd.md" >}}) | 2367 | 2367 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
- | [kcm-gtk]({{< ref "/f22/package/kcm-gtk.md" >}}) | 124 | 124 | 100.0 | Dutch <nl@li.org> | 
- | [kcoloredit]({{< ref "/f22/package/kcoloredit.md" >}}) | 278 | 278 | 100.0 | Dutch <kde-i18n-nl@kde.org> | 
- | [kde-cli-tools]({{< ref "/f22/package/kde-cli-tools.md" >}}) | 2102 | 2102 | 100.0 | Dutch <kde-i18n-nl@kde.org> | 
- | [kde-connect]({{< ref "/f22/package/kde-connect.md" >}}) | 430 | 430 | 100.0 | Dutch <kde-i18n-nl@kde.org> | 
- | [kde-gtk-config]({{< ref "/f22/package/kde-gtk-config.md" >}}) | 292 | 292 | 100.0 | Dutch <kde-i18n-nl@kde.org> | 
- | [kde-l10n]({{< ref "/f22/package/kde-l10n.md" >}}) | 482220 | 482220 | 100.0 | Dutch <kde-i18n-nl@kde.org> | 
- | [kde-partitionmanager]({{< ref "/f22/package/kde-partitionmanager.md" >}}) | 4878 | 4878 | 100.0 | Dutch <kde-i18n-nl@kde.org> | 
- | [kde-plasma-nm]({{< ref "/f22/package/kde-plasma-nm.md" >}}) | 2939 | 2939 | 100.0 | Dutch <kde-i18n-nl@kde.org> | 
- | [kdeplasma-addons]({{< ref "/f22/package/kdeplasma-addons.md" >}}) | 3992 | 3992 | 100.0 | Dutch <kde-i18n-nl@kde.org> | 
- | [kdevelop]({{< ref "/f22/package/kdevelop.md" >}}) | 4291 | 4291 | 100.0 | Dutch <kde-i18n-nl@kde.org> | 
- | [kdevelop-php]({{< ref "/f22/package/kdevelop-php.md" >}}) | 329 | 329 | 100.0 | Dutch <kde-i18n-nl@kde.org> | 
- | [kdevelop-python]({{< ref "/f22/package/kdevelop-python.md" >}}) | 590 | 590 | 100.0 | Dutch <kde-i18n-nl@kde.org> | 
- | [kdevplatform]({{< ref "/f22/package/kdevplatform.md" >}}) | 9124 | 9124 | 100.0 | Dutch <kde-i18n-nl@kde.org> | 
- | [kdiff3]({{< ref "/f22/package/kdiff3.md" >}}) | 3770 | 3770 | 100.0 | Dutch <kde-i18n-nl@kde.org> | 
- | [kdissert]({{< ref "/f22/package/kdissert.md" >}}) | 2027 | 2027 | 100.0 | Nederlands <kde-i18n-nl@kde.org> | 
- | [keurocalc]({{< ref "/f22/package/keurocalc.md" >}}) | 3042 | 3042 | 100.0 | Dutch <kde-i18n-nl@kde.org> | 
- | [kf5-baloo]({{< ref "/f22/package/kf5-baloo.md" >}}) | 538 | 538 | 100.0 | Dutch <kde-i18n-nl@kde.org> | 
- | [kf5-frameworkintegration]({{< ref "/f22/package/kf5-frameworkintegration.md" >}}) | 56 | 56 | 100.0 | Dutch <kde-i18n-nl@kde.org> | 
- | [kf5-kactivities]({{< ref "/f22/package/kf5-kactivities.md" >}}) | 147 | 147 | 100.0 | Dutch <kde-i18n-nl@kde.org> | 
- | [kf5-kauth]({{< ref "/f22/package/kf5-kauth.md" >}}) | 58 | 58 | 100.0 | Dutch <kde-i18n-nl@kde.org> | 
- | [kf5-kbookmarks]({{< ref "/f22/package/kf5-kbookmarks.md" >}}) | 218 | 218 | 100.0 | Dutch <kde-i18n-nl@kde.org> | 
- | [kf5-kcmutils]({{< ref "/f22/package/kf5-kcmutils.md" >}}) | 563 | 563 | 100.0 | Dutch <kde-i18n-nl@kde.org> | 
- | [kf5-kcodecs]({{< ref "/f22/package/kf5-kcodecs.md" >}}) | 348 | 348 | 100.0 | Dutch <kde-i18n-nl@kde.org> | 
- | [kf5-kcompletion]({{< ref "/f22/package/kf5-kcompletion.md" >}}) | 20 | 20 | 100.0 | Dutch <kde-i18n-nl@kde.org> | 
- | [kf5-kconfig]({{< ref "/f22/package/kf5-kconfig.md" >}}) | 254 | 254 | 100.0 | Dutch <kde-i18n-nl@kde.org> | 
- | [kf5-kconfigwidgets]({{< ref "/f22/package/kf5-kconfigwidgets.md" >}}) | 317 | 317 | 100.0 | Dutch <kde-i18n-nl@kde.org> | 
- | [kf5-kcoreaddons]({{< ref "/f22/package/kf5-kcoreaddons.md" >}}) | 265 | 265 | 100.0 | Dutch <kde-i18n-nl@kde.org> | 
- | [kf5-kdbusaddons]({{< ref "/f22/package/kf5-kdbusaddons.md" >}}) | 48 | 48 | 100.0 | Dutch <kde-i18n-nl@kde.org> | 
- | [kf5-kdeclarative]({{< ref "/f22/package/kf5-kdeclarative.md" >}}) | 109 | 109 | 100.0 | Dutch <kde-i18n-nl@kde.org> | 
- | [kf5-kdelibs4support]({{< ref "/f22/package/kf5-kdelibs4support.md" >}}) | 4813 | 4813 | 100.0 | Dutch <kde-i18n-nl@kde.org> | 
- | [kf5-kdesignerplugin]({{< ref "/f22/package/kf5-kdesignerplugin.md" >}}) | 54 | 54 | 100.0 | Dutch <kde-i18n-nl@kde.org> | 
- | [kf5-kdesu]({{< ref "/f22/package/kf5-kdesu.md" >}}) | 19 | 19 | 100.0 | Dutch <kde-i18n-nl@kde.org> | 
- | [kf5-kdnssd]({{< ref "/f22/package/kf5-kdnssd.md" >}}) | 3 | 3 | 100.0 | Dutch <kde-i18n-nl@kde.org> | 
- | [kf5-kdoctools]({{< ref "/f22/package/kf5-kdoctools.md" >}}) | 8 | 8 | 100.0 | Dutch <kde-i18n-nl@kde.org> | 
- | [kf5-kfilemetadata]({{< ref "/f22/package/kf5-kfilemetadata.md" >}}) | 128 | 128 | 100.0 | Dutch <kde-i18n-nl@kde.org> | 
- | [kf5-kglobalaccel]({{< ref "/f22/package/kf5-kglobalaccel.md" >}}) | 71 | 71 | 100.0 | Dutch <kde-i18n-nl@kde.org> | 
- | [kf5-khtml]({{< ref "/f22/package/kf5-khtml.md" >}}) | 1723 | 1723 | 100.0 | Dutch <kde-i18n-nl@kde.org> | 
- | [kf5-ki18n]({{< ref "/f22/package/kf5-ki18n.md" >}}) | 124 | 124 | 100.0 | Dutch <kde-i18n-nl@kde.org> | 
- | [kf5-kiconthemes]({{< ref "/f22/package/kf5-kiconthemes.md" >}}) | 37 | 37 | 100.0 | Dutch <kde-i18n-nl@kde.org> | 
- | [kf5-kinit]({{< ref "/f22/package/kf5-kinit.md" >}}) | 134 | 134 | 100.0 | Dutch <kde-i18n-nl@kde.org> | 
- | [kf5-kio]({{< ref "/f22/package/kf5-kio.md" >}}) | 11715 | 11715 | 100.0 | Dutch <kde-i18n-nl@kde.org> | 
- | [kf5-kitemviews]({{< ref "/f22/package/kf5-kitemviews.md" >}}) | 7 | 7 | 100.0 | Dutch <kde-i18n-nl@kde.org> | 
- | [kf5-kjobwidgets]({{< ref "/f22/package/kf5-kjobwidgets.md" >}}) | 141 | 141 | 100.0 | Dutch <kde-i18n-nl@kde.org> | 
- | [kf5-kjsembed]({{< ref "/f22/package/kf5-kjsembed.md" >}}) | 248 | 248 | 100.0 | Dutch <kde-i18n-nl@kde.org> | 
- | [kf5-knewstuff]({{< ref "/f22/package/kf5-knewstuff.md" >}}) | 673 | 673 | 100.0 | Dutch <kde-i18n-nl@kde.org> | 
- | [kf5-knotifications]({{< ref "/f22/package/kf5-knotifications.md" >}}) | 18 | 18 | 100.0 | Dutch <kde-i18n-nl@kde.org> | 
- | [kf5-knotifyconfig]({{< ref "/f22/package/kf5-knotifyconfig.md" >}}) | 129 | 129 | 100.0 | Dutch <kde-i18n-nl@kde.org> | 
- | [kf5-kpackage]({{< ref "/f22/package/kf5-kpackage.md" >}}) | 423 | 423 | 100.0 | Dutch <kde-i18n-nl@kde.org> | 
- | [kf5-kparts]({{< ref "/f22/package/kf5-kparts.md" >}}) | 104 | 104 | 100.0 | Dutch <kde-i18n-nl@kde.org> | 
- | [kf5-kpeople]({{< ref "/f22/package/kf5-kpeople.md" >}}) | 21 | 21 | 100.0 | Dutch <kde-i18n-nl@kde.org> | 
- | [kf5-kpty]({{< ref "/f22/package/kf5-kpty.md" >}}) | 15 | 15 | 100.0 | Dutch <kde-i18n-nl@kde.org> | 
- | [kf5-kross]({{< ref "/f22/package/kf5-kross.md" >}}) | 100 | 100 | 100.0 | Dutch <kde-i18n-nl@kde.org> | 
- | [kf5-krunner]({{< ref "/f22/package/kf5-krunner.md" >}}) | 15 | 15 | 100.0 | Dutch <kde-i18n-nl@kde.org> | 
- | [kf5-kservice]({{< ref "/f22/package/kf5-kservice.md" >}}) | 170 | 170 | 100.0 | Dutch <kde-i18n-nl@kde.org> | 
- | [kf5-ktexteditor]({{< ref "/f22/package/kf5-ktexteditor.md" >}}) | 8742 | 8742 | 100.0 | Dutch <kde-i18n-nl@kde.org> | 
- | [kf5-ktextwidgets]({{< ref "/f22/package/kf5-ktextwidgets.md" >}}) | 462 | 462 | 100.0 | Dutch <kde-i18n-nl@kde.org> | 
- | [kf5-kunitconversion]({{< ref "/f22/package/kf5-kunitconversion.md" >}}) | 4386 | 4386 | 100.0 | Dutch <kde-i18n-nl@kde.org> | 
- | [kf5-kwallet]({{< ref "/f22/package/kf5-kwallet.md" >}}) | 1625 | 1625 | 100.0 | Dutch <kde-i18n-nl@kde.org> | 
- | [kf5-kwidgetsaddons]({{< ref "/f22/package/kf5-kwidgetsaddons.md" >}}) | 1261 | 1261 | 100.0 | Dutch <kde-i18n-nl@kde.org> | 
- | [kf5-kwindowsystem]({{< ref "/f22/package/kf5-kwindowsystem.md" >}}) | 2 | 2 | 100.0 | Dutch <kde-i18n-nl@kde.org> | 
- | [kf5-kxmlgui]({{< ref "/f22/package/kf5-kxmlgui.md" >}}) | 1538 | 1538 | 100.0 | Dutch <kde-i18n-nl@kde.org> | 
- | [kf5-kxmlrpcclient]({{< ref "/f22/package/kf5-kxmlrpcclient.md" >}}) | 13 | 13 | 100.0 | Dutch <kde-i18n-nl@kde.org> | 
- | [kf5-plasma]({{< ref "/f22/package/kf5-plasma.md" >}}) | 771 | 771 | 100.0 | Dutch <kde-i18n-nl@kde.org> | 
- | [kf5-solid]({{< ref "/f22/package/kf5-solid.md" >}}) | 677 | 677 | 100.0 | Dutch <kde-i18n-nl@kde.org> | 
- | [kf5-sonnet]({{< ref "/f22/package/kf5-sonnet.md" >}}) | 665 | 665 | 100.0 | Dutch <kde-i18n-nl@kde.org> | 
- | [kflickr]({{< ref "/f22/package/kflickr.md" >}}) | 332 | 332 | 100.0 | Dutch <nl@li.org> | 
- | [kgamma]({{< ref "/f22/package/kgamma.md" >}}) | 130 | 130 | 100.0 | Dutch <kde-i18n-nl@kde.org> | 
- | [kgrab]({{< ref "/f22/package/kgrab.md" >}}) | 370 | 370 | 100.0 | Dutch <kde-i18n-doc@kde.org> | 
- | [kgraphviewer]({{< ref "/f22/package/kgraphviewer.md" >}}) | 1251 | 1251 | 100.0 | Dutch <kde-i18n-nl@kde.org> | 
- | [khelpcenter]({{< ref "/f22/package/khelpcenter.md" >}}) | 768 | 768 | 100.0 | Dutch <kde-i18n-nl@kde.org> | 
- | [khotkeys]({{< ref "/f22/package/khotkeys.md" >}}) | 433 | 433 | 100.0 | Dutch <kde-i18n-nl@kde.org> | 
- | [kicad]({{< ref "/f22/package/kicad.md" >}}) | 11630 | 11630 | 100.0 | KiCad Team <xor.gate.engineering@gmail.com> | 
- | [kiconedit]({{< ref "/f22/package/kiconedit.md" >}}) | 726 | 726 | 100.0 | Dutch <kde-i18n-nl@kde.org> | 
- | [kile]({{< ref "/f22/package/kile.md" >}}) | 11162 | 11162 | 100.0 | Dutch <kde-i18n-nl@kde.org> | 
- | [kinfocenter]({{< ref "/f22/package/kinfocenter.md" >}}) | 2958 | 2958 | 100.0 | Dutch <kde-i18n-nl@kde.org> | 
- | [kio_gopher]({{< ref "/f22/package/kio_gopher.md" >}}) | 17 | 17 | 100.0 | Dutch <kde-i18n-nl@kde.org> | 
- | [kio_mtp]({{< ref "/f22/package/kio_mtp.md" >}}) | 17 | 17 | 100.0 | Dutch <kde-i18n-nl@kde.org> | 
- | [kio_sysinfo]({{< ref "/f22/package/kio_sysinfo.md" >}}) | 168 | 168 | 100.0 | Dutch <kde-i18n-doc@kde.org> | 
- | [klavaro]({{< ref "/f22/package/klavaro.md" >}}) | 1912 | 1912 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
- | [kmenuedit]({{< ref "/f22/package/kmenuedit.md" >}}) | 281 | 281 | 100.0 | Dutch <kde-i18n-nl@kde.org> | 
- | [kmid2]({{< ref "/f22/package/kmid2.md" >}}) | 1022 | 1022 | 100.0 | Dutch <kde-i18n-nl@kde.org> | 
- | [kmldonkey]({{< ref "/f22/package/kmldonkey.md" >}}) | 1830 | 1830 | 100.0 | Dutch <kde-i18n-nl@kde.org> | 
- | [kmymoney]({{< ref "/f22/package/kmymoney.md" >}}) | 20996 | 20996 | 100.0 | Dutch <kde-i18n-nl@kde.org> | 
- | [knemo]({{< ref "/f22/package/knemo.md" >}}) | 1236 | 1236 | 100.0 | Dutch <kde-i18n-nl@kde.org> | 
- | [knetstats]({{< ref "/f22/package/knetstats.md" >}}) | 119 | 119 | 100.0 | Dutch <kde-i18n-nl@kde.org> | 
- | [knights]({{< ref "/f22/package/knights.md" >}}) | 757 | 757 | 100.0 | Nederlands <kde-i18n-nl@kde.org> | 
- | [koffice-kivio]({{< ref "/f22/package/koffice-kivio.md" >}}) | 8417 | 8417 | 100.0 | Dutch <kde-i18n-nl@kde.org> | 
- | [komparator]({{< ref "/f22/package/komparator.md" >}}) | 2587 | 2587 | 100.0 | Nederlands <kde-i18n-nl@kde.org> | 
- | [konversation]({{< ref "/f22/package/konversation.md" >}}) | 10235 | 10235 | 100.0 | Dutch <kde-i18n-nl@kde.org> | 
- | [kopete-cryptography]({{< ref "/f22/package/kopete-cryptography.md" >}}) | 408 | 408 | 100.0 | Dutch <kde-i18n-nl@kde.org> | 
- | [koverartist]({{< ref "/f22/package/koverartist.md" >}}) | 659 | 659 | 100.0 | LANGUAGE <LL@li.org> | 
- | [kpilot]({{< ref "/f22/package/kpilot.md" >}}) | 7156 | 7156 | 100.0 | Dutch <kde-i18n-nl@kde.org> | 
- | [krusader]({{< ref "/f22/package/krusader.md" >}}) | 7956 | 7956 | 100.0 | Dutch <kde-i18n-nl@kde.org> | 
- | [kscreen]({{< ref "/f22/package/kscreen.md" >}}) | 191 | 191 | 100.0 | Dutch <kde-i18n-nl@kde.org> | 
- | [kscreenlocker]({{< ref "/f22/package/kscreenlocker.md" >}}) | 178 | 178 | 100.0 | Dutch <kde-i18n-nl@kde.org> | 
- | [ksig]({{< ref "/f22/package/ksig.md" >}}) | 85 | 85 | 100.0 | Dutch <kde-i18n-nl@kde.org> | 
- | [ksshaskpass]({{< ref "/f22/package/ksshaskpass.md" >}}) | 43 | 43 | 100.0 | Dutch <kde-i18n-nl@kde.org> | 
- | [kst]({{< ref "/f22/package/kst.md" >}}) | 7288 | 7288 | 100.0 | Dutch <kde-i18n-nl@kde.org> | 
- | [ksysguard]({{< ref "/f22/package/ksysguard.md" >}}) | 1082 | 1082 | 100.0 | Dutch <kde-i18n-nl@kde.org> | 
- | [ktorrent]({{< ref "/f22/package/ktorrent.md" >}}) | 7739 | 7739 | 100.0 | Dutch <kde-i18n-nl@kde.org> | 
- | [kwebkitpart]({{< ref "/f22/package/kwebkitpart.md" >}}) | 624 | 624 | 100.0 | Dutch <kde-i18n-nl@kde.org> | 
- | [kwin]({{< ref "/f22/package/kwin.md" >}}) | 6091 | 6091 | 100.0 | Dutch <kde-i18n-nl@kde.org> | 
- | [kxstitch]({{< ref "/f22/package/kxstitch.md" >}}) | 781 | 781 | 100.0 | Dutch <kde-i18n-doc@kde.org> | 
- | [latexila]({{< ref "/f22/package/latexila.md" >}}) | 2195 | 2195 | 100.0 | Dutch <gnome-nl-list@gnome.org> | 
- | [leafpad]({{< ref "/f22/package/leafpad.md" >}}) | 125 | 125 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
- | [lekhonee-gnome]({{< ref "/f22/package/lekhonee-gnome.md" >}}) | 112 | 112 | 100.0 | Fedora | 
- | [libbonobo]({{< ref "/f22/package/libbonobo.md" >}}) | 543 | 543 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
- | [libbonoboui]({{< ref "/f22/package/libbonoboui.md" >}}) | 368 | 368 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
- | [libcryptui]({{< ref "/f22/package/libcryptui.md" >}}) | 3012 | 3012 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
- | [libfm]({{< ref "/f22/package/libfm.md" >}}) | 1565 | 1565 | 100.0 | Dutch | 
- | [libgdata]({{< ref "/f22/package/libgdata.md" >}}) | 607 | 607 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
- | [libgdl]({{< ref "/f22/package/libgdl.md" >}}) | 604 | 604 | 100.0 | Dutch <vertaling@nl.linux.org> | 
- | [libgnome]({{< ref "/f22/package/libgnome.md" >}}) | 1773 | 1773 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
- | [libgnome-keyring]({{< ref "/f22/package/libgnome-keyring.md" >}}) | 44 | 44 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
- | [libgnome-media-profiles]({{< ref "/f22/package/libgnome-media-profiles.md" >}}) | 460 | 460 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
- | [libgnomecanvas]({{< ref "/f22/package/libgnomecanvas.md" >}}) | 378 | 378 | 100.0 | Dutch <nl@li.org> | 
- | [libgnomecups]({{< ref "/f22/package/libgnomecups.md" >}}) | 11 | 11 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
- | [libgnomekbd]({{< ref "/f22/package/libgnomekbd.md" >}}) | 242 | 242 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
- | [libgnomeprint22]({{< ref "/f22/package/libgnomeprint22.md" >}}) | 168 | 168 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
- | [libgnomeprintui22]({{< ref "/f22/package/libgnomeprintui22.md" >}}) | 481 | 481 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
- | [libgnomeui]({{< ref "/f22/package/libgnomeui.md" >}}) | 1309 | 1309 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
- | [libgsasl]({{< ref "/f22/package/libgsasl.md" >}}) | 577 | 577 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
- | [libgtop2]({{< ref "/f22/package/libgtop2.md" >}}) | 126 | 126 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
- | [libgweather]({{< ref "/f22/package/libgweather.md" >}}) | 6109 | 6109 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
- | [libkexif]({{< ref "/f22/package/libkexif.md" >}}) | 25 | 25 | 100.0 | Dutch <kde-i18n-nl@kde.org> | 
- | [libkfbapi]({{< ref "/f22/package/libkfbapi.md" >}}) | 42 | 42 | 100.0 | Dutch <kde-i18n-nl@kde.org> | 
- | [libkpeople]({{< ref "/f22/package/libkpeople.md" >}}) | 26 | 26 | 100.0 | Dutch <kde-i18n-nl@kde.org> | 
- | [libksysguard]({{< ref "/f22/package/libksysguard.md" >}}) | 3193 | 3193 | 100.0 | Dutch <kde-i18n-nl@kde.org> | 
- | [libktorrent]({{< ref "/f22/package/libktorrent.md" >}}) | 519 | 519 | 100.0 | Dutch <kde-i18n-nl@kde.org> | 
- | [libmatekbd]({{< ref "/f22/package/libmatekbd.md" >}}) | 251 | 251 | 100.0 | Dutch (http://www.transifex.com/mate/MATE/language/nl/) | 
- | [libmatemixer]({{< ref "/f22/package/libmatemixer.md" >}}) | 242 | 242 | 100.0 | Dutch (http://www.transifex.com/mate/MATE/language/nl/) | 
- | [libmateweather]({{< ref "/f22/package/libmateweather.md" >}}) | 6115 | 6115 | 100.0 | Dutch (http://www.transifex.com/mate/MATE/language/nl/) | 
- | [libmx]({{< ref "/f22/package/libmx.md" >}}) | 40 | 40 | 100.0 | LANGUAGE <LL@li.org> | 
- | [libpaper]({{< ref "/f22/package/libpaper.md" >}}) | 73 | 73 | 100.0 | debian-l10n-dutch <debian-l10n-dutch@lists.debian.org> | 
- | [libpeas]({{< ref "/f22/package/libpeas.md" >}}) | 106 | 106 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
- | [libreoffice]({{< ref "/f22/package/libreoffice.md" >}}) | 541914 | 541914 | 100.0 | LANGUAGE <LL@li.org> | 
- | [libsecret]({{< ref "/f22/package/libsecret.md" >}}) | 59 | 59 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
- | [libsoup]({{< ref "/f22/package/libsoup.md" >}}) | 79 | 79 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
- | [libwnck]({{< ref "/f22/package/libwnck.md" >}}) | 1124 | 1124 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
- | [libwnck3]({{< ref "/f22/package/libwnck3.md" >}}) | 1084 | 1084 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
- | [libxfce4ui]({{< ref "/f22/package/libxfce4ui.md" >}}) | 871 | 871 | 100.0 | Dutch (http://www.transifex.com/projects/p/libxfce4ui/language/nl/) | 
- | [libxfce4util]({{< ref "/f22/package/libxfce4util.md" >}}) | 424 | 424 | 100.0 | Dutch (Flemish) | 
- | [liferea]({{< ref "/f22/package/liferea.md" >}}) | 2271 | 2271 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
- | [lightdm]({{< ref "/f22/package/lightdm.md" >}}) | 79 | 79 | 100.0 | Dutch <nl@li.org> | 
- | [lightdm-gtk]({{< ref "/f22/package/lightdm-gtk.md" >}}) | 84 | 84 | 100.0 | Dutch <nl@li.org> | 
- | [lightdm-kde]({{< ref "/f22/package/lightdm-kde.md" >}}) | 134 | 134 | 100.0 | Dutch <kde-i18n-nl@kde.org> | 
- | [lightsoff]({{< ref "/f22/package/lightsoff.md" >}}) | 4683 | 4683 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
- | [lincity-ng]({{< ref "/f22/package/lincity-ng.md" >}}) | 1923 | 1923 | 100.0 | Nederlands | 
- | [lxappearance]({{< ref "/f22/package/lxappearance.md" >}}) | 212 | 212 | 100.0 | Dutch | 
- | [lxappearance-obconf]({{< ref "/f22/package/lxappearance-obconf.md" >}}) | 196 | 196 | 100.0 | Dutch | 
- | [lxdm]({{< ref "/f22/package/lxdm.md" >}}) | 30 | 30 | 100.0 | Dutch | 
- | [lxinput]({{< ref "/f22/package/lxinput.md" >}}) | 72 | 72 | 100.0 | Dutch | 
- | [lxlauncher]({{< ref "/f22/package/lxlauncher.md" >}}) | 51 | 51 | 100.0 | Dutch | 
- | [lxmenu-data]({{< ref "/f22/package/lxmenu-data.md" >}}) | 97 | 97 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
- | [lxmusic]({{< ref "/f22/package/lxmusic.md" >}}) | 203 | 203 | 100.0 | LANGUAGE <LL@li.org> | 
- | [lxpolkit]({{< ref "/f22/package/lxpolkit.md" >}}) | 15 | 15 | 100.0 | Dutch | 
- | [lxrandr]({{< ref "/f22/package/lxrandr.md" >}}) | 122 | 122 | 100.0 | Dutch | 
- | [lxsession]({{< ref "/f22/package/lxsession.md" >}}) | 36 | 36 | 100.0 | Dutch | 
- | [lxsession-edit]({{< ref "/f22/package/lxsession-edit.md" >}}) | 64 | 64 | 100.0 | Dutch | 
- | [lxshortcut]({{< ref "/f22/package/lxshortcut.md" >}}) | 43 | 43 | 100.0 | Dutch | 
- | [lxtask]({{< ref "/f22/package/lxtask.md" >}}) | 122 | 122 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
- | [lxterminal]({{< ref "/f22/package/lxterminal.md" >}}) | 144 | 144 | 100.0 | Dutch | 
- | [lynx]({{< ref "/f22/package/lynx.md" >}}) | 8178 | 8178 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
- | [man2html]({{< ref "/f22/package/man2html.md" >}}) | 58 | 58 | 100.0 | dutch <debian-l10n-dutch@lists.debian.org> | 
- | [marco]({{< ref "/f22/package/marco.md" >}}) | 4078 | 4078 | 100.0 | Dutch (http://www.transifex.com/mate/MATE/language/nl/) | 
- | [massif-visualizer]({{< ref "/f22/package/massif-visualizer.md" >}}) | 385 | 385 | 100.0 | Dutch <kde-i18n-nl@kde.org> | 
- | [mate-calc]({{< ref "/f22/package/mate-calc.md" >}}) | 1412 | 1412 | 100.0 | Dutch (http://www.transifex.com/projects/p/MATE/language/nl/) | 
- | [mate-control-center]({{< ref "/f22/package/mate-control-center.md" >}}) | 2751 | 2751 | 100.0 | Dutch (http://www.transifex.com/mate/MATE/language/nl/) | 
- | [mate-desktop]({{< ref "/f22/package/mate-desktop.md" >}}) | 2413 | 2413 | 100.0 | Dutch (http://www.transifex.com/mate/MATE/language/nl/) | 
- | [mate-dialogs]({{< ref "/f22/package/mate-dialogs.md" >}}) | 631 | 631 | 100.0 | Dutch (http://www.transifex.com/projects/p/MATE/language/nl/) | 
- | [mate-icon-theme]({{< ref "/f22/package/mate-icon-theme.md" >}}) | 51 | 51 | 100.0 | Dutch <vertaling@nl.linux.org> | 
- | [mate-media]({{< ref "/f22/package/mate-media.md" >}}) | 179 | 179 | 100.0 | Dutch (http://www.transifex.com/projects/p/MATE/language/nl/) | 
- | [mate-menus]({{< ref "/f22/package/mate-menus.md" >}}) | 97 | 97 | 100.0 | Dutch (http://www.transifex.com/projects/p/MATE/language/nl/) | 
- | [mate-netspeed]({{< ref "/f22/package/mate-netspeed.md" >}}) | 147 | 147 | 100.0 | Dutch (http://www.transifex.com/projects/p/MATE/language/nl/) | 
- | [mate-notification-daemon]({{< ref "/f22/package/mate-notification-daemon.md" >}}) | 152 | 152 | 100.0 | Dutch (http://www.transifex.com/projects/p/MATE/language/nl/) | 
- | [mate-polkit]({{< ref "/f22/package/mate-polkit.md" >}}) | 296 | 296 | 100.0 | Dutch (http://www.transifex.com/projects/p/MATE/language/nl/) | 
- | [mate-power-manager]({{< ref "/f22/package/mate-power-manager.md" >}}) | 2725 | 2725 | 100.0 | Dutch (http://www.transifex.com/mate/MATE/language/nl/) | 
- | [mate-screensaver]({{< ref "/f22/package/mate-screensaver.md" >}}) | 585 | 585 | 100.0 | Dutch (http://www.transifex.com/projects/p/MATE/language/nl/) | 
- | [mate-sensors-applet]({{< ref "/f22/package/mate-sensors-applet.md" >}}) | 290 | 290 | 100.0 | Dutch (http://www.transifex.com/projects/p/MATE/language/nl/) | 
- | [mate-settings-daemon]({{< ref "/f22/package/mate-settings-daemon.md" >}}) | 1735 | 1735 | 100.0 | Dutch (http://www.transifex.com/projects/p/MATE/language/nl/) | 
- | [mate-system-monitor]({{< ref "/f22/package/mate-system-monitor.md" >}}) | 1211 | 1211 | 100.0 | Dutch (http://www.transifex.com/mate/MATE/language/nl/) | 
- | [mate-terminal]({{< ref "/f22/package/mate-terminal.md" >}}) | 1347 | 1347 | 100.0 | Dutch (http://www.transifex.com/projects/p/MATE/language/nl/) | 
- | [mate-themes]({{< ref "/f22/package/mate-themes.md" >}}) | 55 | 55 | 100.0 | Dutch (http://www.transifex.com/mate/MATE/language/nl/) | 
- | [mate-utils]({{< ref "/f22/package/mate-utils.md" >}}) | 3666 | 3666 | 100.0 | Dutch (http://www.transifex.com/projects/p/MATE/language/nl/) | 
- | [meld]({{< ref "/f22/package/meld.md" >}}) | 883 | 883 | 100.0 | Dutch <vertaling@nl.li.org> | 
- | [menulibre]({{< ref "/f22/package/menulibre.md" >}}) | 701 | 701 | 100.0 | Dutch <nl@li.org> | 
- | [metacity]({{< ref "/f22/package/metacity.md" >}}) | 2040 | 2040 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
- | [mingw-GConf2]({{< ref "/f22/package/mingw-GConf2.md" >}}) | 4088 | 4088 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
- | [mingw-adwaita-icon-theme]({{< ref "/f22/package/mingw-adwaita-icon-theme.md" >}}) | 51 | 51 | 100.0 | Dutch <vertaling@nl.linux.org> | 
- | [mingw-atk]({{< ref "/f22/package/mingw-atk.md" >}}) | 375 | 375 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
- | [mingw-binutils]({{< ref "/f22/package/mingw-binutils.md" >}}) | 1896 | 1896 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
- | [mingw-gdb]({{< ref "/f22/package/mingw-gdb.md" >}}) | 1371 | 1371 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
- | [mingw-glib-networking]({{< ref "/f22/package/mingw-glib-networking.md" >}}) | 135 | 135 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
- | [mingw-gstreamer-plugins-bad-free]({{< ref "/f22/package/mingw-gstreamer-plugins-bad-free.md" >}}) | 96 | 96 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
- | [mingw-gstreamer-plugins-good]({{< ref "/f22/package/mingw-gstreamer-plugins-good.md" >}}) | 814 | 814 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
- | [mingw-gstreamer1]({{< ref "/f22/package/mingw-gstreamer1.md" >}}) | 2002 | 2002 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
- | [mingw-gstreamer1-plugins-base]({{< ref "/f22/package/mingw-gstreamer1-plugins-base.md" >}}) | 819 | 819 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
- | [mingw-gstreamer1-plugins-good]({{< ref "/f22/package/mingw-gstreamer1-plugins-good.md" >}}) | 766 | 766 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
- | [mingw-gtk3]({{< ref "/f22/package/mingw-gtk3.md" >}}) | 13348 | 13348 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
- | [mingw-gtkhtml3]({{< ref "/f22/package/mingw-gtkhtml3.md" >}}) | 485 | 485 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
- | [mingw-gtksourceview3]({{< ref "/f22/package/mingw-gtksourceview3.md" >}}) | 1551 | 1551 | 100.0 | Dutch; Flemish <gnome-nl-list@gnome.org> | 
- | [mingw-gtkspell3]({{< ref "/f22/package/mingw-gtkspell3.md" >}}) | 16 | 16 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
- | [mingw-libidn]({{< ref "/f22/package/mingw-libidn.md" >}}) | 414 | 414 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
- | [mingw-libsoup]({{< ref "/f22/package/mingw-libsoup.md" >}}) | 79 | 79 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
- | [mingw-wxWidgets]({{< ref "/f22/package/mingw-wxWidgets.md" >}}) | 6679 | 6679 | 100.0 | wxWidgets translators <wx-translators@wxwidgets.org> | 
- | [mintmenu]({{< ref "/f22/package/mintmenu.md" >}}) | 5999 | 5999 | 100.0 | Dutch <nl@li.org> | 
- | [moodle]({{< ref "/f22/package/moodle.md" >}}) | 421 | 421 | 100.0 | Dutch <i18n@lists.horde.org> | 
- | [mousetweaks]({{< ref "/f22/package/mousetweaks.md" >}}) | 237 | 237 | 100.0 | Dutch <vertaling@nl.gnome.org> | 
- | [mozo]({{< ref "/f22/package/mozo.md" >}}) | 42 | 42 | 100.0 | Dutch (http://www.transifex.com/projects/p/MATE/language/nl/) | 
- | [msp430-binutils]({{< ref "/f22/package/msp430-binutils.md" >}}) | 1896 | 1896 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
- | [multimedia-menus]({{< ref "/f22/package/multimedia-menus.md" >}}) | 56 | 56 | 100.0 | Fedora | 
- | [muon]({{< ref "/f22/package/muon.md" >}}) | 1901 | 1901 | 100.0 | Dutch <kde-i18n-nl@kde.org> | 
- | [mutt]({{< ref "/f22/package/mutt.md" >}}) | 5576 | 5576 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
- | [mutter]({{< ref "/f22/package/mutter.md" >}}) | 2063 | 2063 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
- | [nacl-arm-binutils]({{< ref "/f22/package/nacl-arm-binutils.md" >}}) | 1896 | 1896 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
- | [nacl-binutils]({{< ref "/f22/package/nacl-binutils.md" >}}) | 1896 | 1896 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
- | [nano]({{< ref "/f22/package/nano.md" >}}) | 2885 | 2885 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
- | [nautilus]({{< ref "/f22/package/nautilus.md" >}}) | 5068 | 5068 | 100.0 | Dutch <gnome-nl-list@gnome.org> | 
- | [nautilus-image-converter]({{< ref "/f22/package/nautilus-image-converter.md" >}}) | 79 | 79 | 100.0 | Dutch | 
- | [nautilus-open-terminal]({{< ref "/f22/package/nautilus-open-terminal.md" >}}) | 166 | 166 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
- | [nautilus-sendto]({{< ref "/f22/package/nautilus-sendto.md" >}}) | 274 | 274 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
- | [nesc]({{< ref "/f22/package/nesc.md" >}}) | 1178 | 1178 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
- | [net6]({{< ref "/f22/package/net6.md" >}}) | 304 | 304 | 100.0 | Dutch <nl@li.org> | 
- | [network-manager-applet]({{< ref "/f22/package/network-manager-applet.md" >}}) | 2887 | 2887 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
- | [newt]({{< ref "/f22/package/newt.md" >}}) | 4 | 4 | 100.0 | debian-l10n-dutch <debian-l10n-dutch@lists.debian.org> | 
- | [nicotine+]({{< ref "/f22/package/nicotine+.md" >}}) | 4978 | 4978 | 100.0 | Dutch <> | 
- | [nntpgrab]({{< ref "/f22/package/nntpgrab.md" >}}) | 2259 | 2259 | 100.0 | Dutch | 
- | [notification-daemon]({{< ref "/f22/package/notification-daemon.md" >}}) | 17 | 17 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
- | [oggconvert]({{< ref "/f22/package/oggconvert.md" >}}) | 132 | 132 | 100.0 | Dutch <nl@li.org> | 
- | [olpc-switch-desktop]({{< ref "/f22/package/olpc-switch-desktop.md" >}}) | 158 | 158 | 100.0 | LANGUAGE <LL@li.org> | 
- | [orage]({{< ref "/f22/package/orage.md" >}}) | 2931 | 2931 | 100.0 | Dutch (http://www.transifex.com/projects/p/xfce-apps/language/nl/) | 
- | [orca]({{< ref "/f22/package/orca.md" >}}) | 4456 | 4456 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
- | [pacman]({{< ref "/f22/package/pacman.md" >}}) | 5389 | 5389 | 100.0 | Dutch (http://www.transifex.com/toofishes/archlinux-pacman/language/nl/) | 
- | [pam]({{< ref "/f22/package/pam.md" >}}) | 606 | 606 | 100.0 | Dutch (http://www.transifex.com/projects/p/fedora/language/nl/) | 
- | [pam_krb5]({{< ref "/f22/package/pam_krb5.md" >}}) | 7 | 7 | 100.0 | Dutch (http://www.transifex.com/projects/p/fedora/language/nl/) | 
- | [paprefs]({{< ref "/f22/package/paprefs.md" >}}) | 131 | 131 | 100.0 | nl <nl@li.org> | 
- | [parole]({{< ref "/f22/package/parole.md" >}}) | 918 | 918 | 100.0 | Dutch (http://www.transifex.com/projects/p/xfce-apps/language/nl/) | 
- | [parted]({{< ref "/f22/package/parted.md" >}}) | 4416 | 4416 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
- | [passwd]({{< ref "/f22/package/passwd.md" >}}) | 315 | 315 | 100.0 | Dutch (http://www.transifex.com/projects/p/fedora/language/nl/) | 
- | [pastebinit]({{< ref "/f22/package/pastebinit.md" >}}) | 183 | 183 | 100.0 | Dutch <nl@li.org> | 
- | [pbuilder]({{< ref "/f22/package/pbuilder.md" >}}) | 96 | 96 | 100.0 | Debian l10n Dutch <debian-l10n-dutch@lists.debian.org> | 
- | [pcb]({{< ref "/f22/package/pcb.md" >}}) | 3175 | 3175 | 100.0 | Bert Timmerman <bert.timmerman@xs4all.nl> | 
- | [pcmanfm]({{< ref "/f22/package/pcmanfm.md" >}}) | 1210 | 1210 | 100.0 | Dutch | 
- | [pdfmod]({{< ref "/f22/package/pdfmod.md" >}}) | 266 | 266 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
- | [perl-libintl]({{< ref "/f22/package/perl-libintl.md" >}}) | 19 | 19 | 100.0 | Dutch <guido@imperia.net> | 
- | [pessulus]({{< ref "/f22/package/pessulus.md" >}}) | 130 | 130 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
- | [phatch]({{< ref "/f22/package/phatch.md" >}}) | 2553 | 2553 | 100.0 | Stani <spe.stani.be@gmail.com> | 
- | [php-horde-Horde-Alarm]({{< ref "/f22/package/php-horde-Horde-Alarm.md" >}}) | 13 | 13 | 100.0 | Dutch <i18n@lists.horde.org> | 
- | [php-horde-Horde-Argv]({{< ref "/f22/package/php-horde-Horde-Argv.md" >}}) | 60 | 60 | 100.0 | Dutch <i18n@lists.horde.org> | 
- | [php-horde-Horde-Browser]({{< ref "/f22/package/php-horde-Horde-Browser.md" >}}) | 66 | 66 | 100.0 | Dutch <i18n@lists.horde.org> | 
- | [php-horde-Horde-Cli]({{< ref "/f22/package/php-horde-Horde-Cli.md" >}}) | 16 | 16 | 100.0 | Dutch <i18n@lists.horde.org> | 
- | [php-horde-Horde-Compress]({{< ref "/f22/package/php-horde-Horde-Compress.md" >}}) | 25 | 25 | 100.0 | Dutch <i18n@lists.horde.org> | 
- | [php-horde-Horde-Core]({{< ref "/f22/package/php-horde-Horde-Core.md" >}}) | 1036 | 1036 | 100.0 | Dutch <kde-i18n-doc@kde.org> | 
- | [php-horde-Horde-Data]({{< ref "/f22/package/php-horde-Horde-Data.md" >}}) | 53 | 53 | 100.0 | Dutch <i18n@lists.horde.org> | 
- | [php-horde-Horde-Date]({{< ref "/f22/package/php-horde-Horde-Date.md" >}}) | 42 | 42 | 100.0 | Dutch <i18n@lists.horde.org> | 
- | [php-horde-Horde-Exception]({{< ref "/f22/package/php-horde-Horde-Exception.md" >}}) | 4 | 4 | 100.0 | Dutch <i18n@lists.horde.org> | 
- | [php-horde-Horde-Icalendar]({{< ref "/f22/package/php-horde-Horde-Icalendar.md" >}}) | 3 | 3 | 100.0 | Dutch <i18n@lists.horde.org> | 
- | [php-horde-Horde-Imap-Client]({{< ref "/f22/package/php-horde-Horde-Imap-Client.md" >}}) | 375 | 375 | 100.0 | American English <kde-i18n-doc@kde.org> | 
- | [php-horde-Horde-Imsp]({{< ref "/f22/package/php-horde-Horde-Imsp.md" >}}) | 3 | 3 | 100.0 | Dutch <i18n@lists.horde.org> | 
- | [php-horde-Horde-LoginTasks]({{< ref "/f22/package/php-horde-Horde-LoginTasks.md" >}}) | 6 | 6 | 100.0 | Dutch <i18n@lists.horde.org> | 
- | [php-horde-Horde-Mime]({{< ref "/f22/package/php-horde-Horde-Mime.md" >}}) | 42 | 42 | 100.0 | Dutch <i18n@lists.horde.org> | 
- | [php-horde-Horde-Mime-Viewer]({{< ref "/f22/package/php-horde-Horde-Mime-Viewer.md" >}}) | 47 | 47 | 100.0 | Dutch <i18n@lists.horde.org> | 
- | [php-horde-Horde-Nls]({{< ref "/f22/package/php-horde-Horde-Nls.md" >}}) | 702 | 702 | 100.0 | Dutch <kde-i18n-doc@kde.org> | 
- | [php-horde-Horde-Perms]({{< ref "/f22/package/php-horde-Horde-Perms.md" >}}) | 17 | 17 | 100.0 | Dutch <i18n@lists.horde.org> | 
- | [php-horde-Horde-Prefs]({{< ref "/f22/package/php-horde-Horde-Prefs.md" >}}) | 30 | 30 | 100.0 | Dutch <i18n@lists.horde.org> | 
- | [php-horde-Horde-Rpc]({{< ref "/f22/package/php-horde-Horde-Rpc.md" >}}) | 59 | 59 | 100.0 | Dutch <i18n@lists.horde.org> | 
- | [php-horde-Horde-Service-Weather]({{< ref "/f22/package/php-horde-Horde-Service-Weather.md" >}}) | 539 | 539 | 100.0 | Dutch <i18n@lists.horde.org> | 
- | [php-horde-Horde-Share]({{< ref "/f22/package/php-horde-Horde-Share.md" >}}) | 8 | 8 | 100.0 | Dutch <i18n@lists.horde.org> | 
- | [php-horde-Horde-SyncMl]({{< ref "/f22/package/php-horde-Horde-SyncMl.md" >}}) | 3 | 3 | 100.0 | Dutch <i18n@lists.horde.org> | 
- | [php-horde-Horde-Text-Filter]({{< ref "/f22/package/php-horde-Horde-Text-Filter.md" >}}) | 1 | 1 | 100.0 | Dutch <i18n@lists.horde.org> | 
- | [php-horde-Horde-Token]({{< ref "/f22/package/php-horde-Horde-Token.md" >}}) | 64 | 64 | 100.0 | Dutch <i18n@lists.horde.org> | 
- | [php-horde-Horde-Vfs]({{< ref "/f22/package/php-horde-Horde-Vfs.md" >}}) | 10 | 10 | 100.0 | Dutch <i18n@lists.horde.org> | 
- | [php-horde-horde]({{< ref "/f22/package/php-horde-horde.md" >}}) | 3354 | 3354 | 100.0 | Dutch <kde-i18n-doc@kde.org> | 
- | [php-horde-imp]({{< ref "/f22/package/php-horde-imp.md" >}}) | 6584 | 6584 | 100.0 | Dutch <kde-i18n-doc@kde.org> | 
- | [php-horde-kronolith]({{< ref "/f22/package/php-horde-kronolith.md" >}}) | 3726 | 3726 | 100.0 | Dutch <kde-i18n-doc@kde.org> | 
- | [php-horde-mnemo]({{< ref "/f22/package/php-horde-mnemo.md" >}}) | 514 | 514 | 100.0 | Dutch <kde-i18n-doc@kde.org> | 
- | [php-horde-nag]({{< ref "/f22/package/php-horde-nag.md" >}}) | 1510 | 1510 | 100.0 | Dutch <kde-i18n-doc@kde.org> | 
- | [php-horde-passwd]({{< ref "/f22/package/php-horde-passwd.md" >}}) | 155 | 155 | 100.0 | <i18n@lists.horde.org> | 
- | [php-horde-turba]({{< ref "/f22/package/php-horde-turba.md" >}}) | 1811 | 1811 | 100.0 | Dutch <kde-i18n-doc@kde.org> | 
- | [pidgin-birthday-reminder]({{< ref "/f22/package/pidgin-birthday-reminder.md" >}}) | 240 | 240 | 100.0 | Dutch <nl@li.org> | 
- | [pidgin-musictracker]({{< ref "/f22/package/pidgin-musictracker.md" >}}) | 333 | 333 | 100.0 | Dutch <nl@li.org> | 
- | [pidgin-sipe]({{< ref "/f22/package/pidgin-sipe.md" >}}) | 1010 | 1010 | 100.0 | Dutch (http://www.transifex.com/stefanb/pidgin-sipe/language/nl/) | 
- | [pioneers]({{< ref "/f22/package/pioneers.md" >}}) | 2989 | 2989 | 100.0 | Bas Wijnen <shevek@fmf.nl> Roland Clobus <rclobus@rclobus.nl> | 
- | [pitivi]({{< ref "/f22/package/pitivi.md" >}}) | 1463 | 1463 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
- | [plank]({{< ref "/f22/package/plank.md" >}}) | 184 | 184 | 100.0 | Dutch <nl@li.org> | 
- | [planner]({{< ref "/f22/package/planner.md" >}}) | 1744 | 1744 | 100.0 | Dutch <nl@li.org> | 
- | [plasma-breeze]({{< ref "/f22/package/plasma-breeze.md" >}}) | 255 | 255 | 100.0 | Dutch <kde-i18n-nl@kde.org> | 
- | [plasma-desktop]({{< ref "/f22/package/plasma-desktop.md" >}}) | 12806 | 12806 | 100.0 | Dutch <kde-i18n-nl@kde.org> | 
- | [plasma-mediacenter]({{< ref "/f22/package/plasma-mediacenter.md" >}}) | 172 | 172 | 100.0 | Dutch <kde-i18n-nl@kde.org> | 
- | [plasma-milou]({{< ref "/f22/package/plasma-milou.md" >}}) | 33 | 33 | 100.0 | Dutch <kde-i18n-nl@kde.org> | 
- | [plasma-nm]({{< ref "/f22/package/plasma-nm.md" >}}) | 4014 | 4014 | 100.0 | Dutch <kde-i18n-nl@kde.org> | 
- | [plasma-oxygen]({{< ref "/f22/package/plasma-oxygen.md" >}}) | 789 | 789 | 100.0 | Dutch <kde-i18n-nl@kde.org> | 
- | [plasma-pa]({{< ref "/f22/package/plasma-pa.md" >}}) | 69 | 69 | 100.0 | Dutch <kde-i18n-nl@kde.org> | 
- | [plasma-sdk]({{< ref "/f22/package/plasma-sdk.md" >}}) | 1433 | 1433 | 100.0 | Dutch <kde-i18n-nl@kde.org> | 
- | [plasma-systemsettings]({{< ref "/f22/package/plasma-systemsettings.md" >}}) | 186 | 186 | 100.0 | Dutch <kde-i18n-nl@kde.org> | 
- | [plasma-user-manager]({{< ref "/f22/package/plasma-user-manager.md" >}}) | 277 | 277 | 100.0 | Dutch <kde-i18n-nl@kde.org> | 
- | [plasma-workspace]({{< ref "/f22/package/plasma-workspace.md" >}}) | 11524 | 11524 | 100.0 | Dutch <kde-i18n-nl@kde.org> | 
- | [pluma]({{< ref "/f22/package/pluma.md" >}}) | 4999 | 4999 | 100.0 | Dutch (http://www.transifex.com/projects/p/MATE/language/nl/) | 
- | [pmount]({{< ref "/f22/package/pmount.md" >}}) | 723 | 723 | 100.0 | Dutch <nl@li.org> | 
- | [poedit]({{< ref "/f22/package/poedit.md" >}}) | 2461 | 2461 | 100.0 | Dutch | 
- | [polkit-kde]({{< ref "/f22/package/polkit-kde.md" >}}) | 94 | 94 | 100.0 | Dutch <kde-i18n-nl@kde.org> | 
- | [powerdevil]({{< ref "/f22/package/powerdevil.md" >}}) | 543 | 543 | 100.0 | Dutch <kde-i18n-nl@kde.org> | 
- | [pybliographer]({{< ref "/f22/package/pybliographer.md" >}}) | 939 | 939 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
- | [pyhoca-gui]({{< ref "/f22/package/pyhoca-gui.md" >}}) | 1838 | 1838 | 100.0 | X2Go i18n <x2go-i18n@lists.x2go.org> | 
- | [pykickstart]({{< ref "/f22/package/pykickstart.md" >}}) | 448 | 448 | 100.0 | Dutch (http://www.transifex.com/projects/p/pykickstart/language/nl/) | 
- | [python-django]({{< ref "/f22/package/python-django.md" >}}) | 3484 | 3484 | 100.0 | Dutch (http://www.transifex.com/projects/p/django/language/nl/) | 
- | [python-django-registration]({{< ref "/f22/package/python-django-registration.md" >}}) | 81 | 81 | 100.0 | LANGUAGE <LL@li.org> | 
- | [python-django-simple-captcha]({{< ref "/f22/package/python-django-simple-captcha.md" >}}) | 11 | 11 | 100.0 | Leon de Rijke <leon@cmsworks.nl> | 
- | [python-fedora]({{< ref "/f22/package/python-fedora.md" >}}) | 214 | 214 | 100.0 | Dutch (http://www.transifex.com/projects/p/python-fedora/language/nl/) | 
- | [python-lettuce]({{< ref "/f22/package/python-lettuce.md" >}}) | 7211 | 7211 | 100.0 |  | 
- | [python-meh]({{< ref "/f22/package/python-meh.md" >}}) | 109 | 109 | 100.0 | Dutch (http://www.transifex.com/projects/p/python-meh/language/nl/) | 
- | [qalculate-gtk]({{< ref "/f22/package/qalculate-gtk.md" >}}) | 2342 | 2342 | 100.0 | <kde-i18n-nl@kde.org.> | 
- | [qalculate-kde]({{< ref "/f22/package/qalculate-kde.md" >}}) | 1420 | 1420 | 100.0 | <kde-i18n-nl@kde.org.> | 
- | [qt-recordmydesktop]({{< ref "/f22/package/qt-recordmydesktop.md" >}}) | 816 | 816 | 100.0 | Dutch | 
- | [qtwebkit]({{< ref "/f22/package/qtwebkit.md" >}}) | 1404 | 1404 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
- | [quadrapassel]({{< ref "/f22/package/quadrapassel.md" >}}) | 4683 | 4683 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
- | [rawstudio]({{< ref "/f22/package/rawstudio.md" >}}) | 1617 | 1617 | 100.0 | Rawstudio development <rawstudio-dev@rawstudio.org> | 
- | [recutils]({{< ref "/f22/package/recutils.md" >}}) | 1867 | 1867 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
- | [redhat-menus]({{< ref "/f22/package/redhat-menus.md" >}}) | 261 | 261 | 100.0 | Dutch <vertaling@nl.linux.org> | 
- | [rekonq]({{< ref "/f22/package/rekonq.md" >}}) | 2202 | 2202 | 100.0 | Dutch <kde-i18n-nl@kde.org> | 
- | [renameutils]({{< ref "/f22/package/renameutils.md" >}}) | 265 | 265 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
- | [rhnsd]({{< ref "/f22/package/rhnsd.md" >}}) | 37 | 37 | 100.0 | Dutch (http://www.transifex.com/projects/p/fedora/language/nl/) | 
- | [rhythmbox]({{< ref "/f22/package/rhythmbox.md" >}}) | 3719 | 3719 | 100.0 | Dutch <gnome-nl-list@gnome.org> | 
- | [ristretto]({{< ref "/f22/package/ristretto.md" >}}) | 741 | 741 | 100.0 | Dutch (http://www.transifex.com/projects/p/xfce-apps/language/nl/) | 
- | [rkward]({{< ref "/f22/package/rkward.md" >}}) | 34160 | 34160 | 100.0 | Dutch <kde-i18n-nl@kde.org> | 
- | [rsibreak]({{< ref "/f22/package/rsibreak.md" >}}) | 1304 | 1304 | 100.0 | Dutch <kde-i18n-nl@kde.org> | 
- | [rygel]({{< ref "/f22/package/rygel.md" >}}) | 556 | 556 | 100.0 | Dutch <gnome-nl-list@gnome.org> | 
- | [sane-backends]({{< ref "/f22/package/sane-backends.md" >}}) | 4907 | 4907 | 100.0 | American English <sane-devel@lists.alioth.debian.org> | 
- | [sddm-kcm]({{< ref "/f22/package/sddm-kcm.md" >}}) | 62 | 62 | 100.0 | Dutch <kde-i18n-nl@kde.org> | 
- | [seahorse]({{< ref "/f22/package/seahorse.md" >}}) | 2486 | 2486 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
- | [setroubleshoot]({{< ref "/f22/package/setroubleshoot.md" >}}) | 656 | 656 | 100.0 | Dutch (http://www.transifex.com/projects/p/fedora/language/nl/) | 
- | [setroubleshoot-plugins]({{< ref "/f22/package/setroubleshoot-plugins.md" >}}) | 9830 | 9830 | 100.0 | Dutch (http://www.transifex.com/projects/p/fedora/language/nl/) | 
- | [setuptool]({{< ref "/f22/package/setuptool.md" >}}) | 55 | 55 | 100.0 | Fedora | 
- | [shotwell]({{< ref "/f22/package/shotwell.md" >}}) | 4483 | 4483 | 100.0 | Dutch <vertaling@vrijschrift.org>
+ | [gedit](/f22/package/gedit) | 4115 | 4115 | 100.0 | Dutch <gnome-nl-list@gnome.org> | 
+ | [ggz-base-libs](/f22/package/ggz-base-libs) | 52 | 52 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
+ | [ggz-gtk-client](/f22/package/ggz-gtk-client) | 665 | 665 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
+ | [ghex](/f22/package/ghex) | 966 | 966 | 100.0 | Dutch <vertaling@nl.linux.org> | 
+ | [gigolo](/f22/package/gigolo) | 521 | 521 | 100.0 | Dutch (http://www.transifex.com/projects/p/xfce/language/nl/) | 
+ | [glade2](/f22/package/glade2) | 5840 | 5840 | 100.0 | Dutch <vertaling@nl.linux.org> | 
+ | [glib-networking](/f22/package/glib-networking) | 135 | 135 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
+ | [glibc](/f22/package/glibc) | 8001 | 8001 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
+ | [glibc-arm-linux-gnu](/f22/package/glibc-arm-linux-gnu) | 8001 | 8001 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
+ | [glom](/f22/package/glom) | 275 | 275 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
+ | [gmpc](/f22/package/gmpc) | 25 | 25 | 100.0 | Dutch <nl@li.org> | 
+ | [gnome-backgrounds](/f22/package/gnome-backgrounds) | 27 | 27 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
+ | [gnome-bluetooth](/f22/package/gnome-bluetooth) | 308 | 308 | 100.0 | Dutch <gnome-nl-list@gnome.org> | 
+ | [gnome-boxes](/f22/package/gnome-boxes) | 926 | 926 | 100.0 | Dutch <gnome-nl-list@gnome.org> | 
+ | [gnome-calculator](/f22/package/gnome-calculator) | 1464 | 1464 | 100.0 | Dutch <gnome-nl-list@gnome.org> | 
+ | [gnome-chess](/f22/package/gnome-chess) | 4683 | 4683 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
+ | [gnome-clocks](/f22/package/gnome-clocks) | 223 | 223 | 100.0 | Dutch <gnome-nl-list@gnome.org> | 
+ | [gnome-color-manager](/f22/package/gnome-color-manager) | 1792 | 1792 | 100.0 | Nederlands <vertaling@vrijschrift.org> | 
+ | [gnome-contacts](/f22/package/gnome-contacts) | 405 | 405 | 100.0 | Dutch <gnome-nl-list@gnome.org> | 
+ | [gnome-desktop](/f22/package/gnome-desktop) | 438 | 438 | 100.0 | Dutch <vertaling@nl.linux.org> | 
+ | [gnome-desktop3](/f22/package/gnome-desktop3) | 146 | 146 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
+ | [gnome-dictionary](/f22/package/gnome-dictionary) | 841 | 841 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
+ | [gnome-disk-utility](/f22/package/gnome-disk-utility) | 3423 | 3423 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
+ | [gnome-do](/f22/package/gnome-do) | 612 | 612 | 100.0 | Dutch <nl@li.org> | 
+ | [gnome-doc-utils](/f22/package/gnome-doc-utils) | 251 | 251 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
+ | [gnome-font-viewer](/f22/package/gnome-font-viewer) | 130 | 130 | 100.0 | Dutch <gnome-nl-list@gnome.org> | 
+ | [gnome-icon-theme](/f22/package/gnome-icon-theme) | 51 | 51 | 100.0 | Dutch <vertaling@nl.linux.org> | 
+ | [gnome-initial-setup](/f22/package/gnome-initial-setup) | 638 | 638 | 100.0 | Dutch <gnome-nl-list@gnome.org> | 
+ | [gnome-keyring](/f22/package/gnome-keyring) | 553 | 553 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
+ | [gnome-klotski](/f22/package/gnome-klotski) | 4683 | 4683 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
+ | [gnome-logs](/f22/package/gnome-logs) | 120 | 120 | 100.0 | Dutch <gnome-nl-list@gnome.org> | 
+ | [gnome-mahjongg](/f22/package/gnome-mahjongg) | 4683 | 4683 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
+ | [gnome-maps](/f22/package/gnome-maps) | 481 | 481 | 100.0 | Dutch <gnome-nl-list@gnome.org> | 
+ | [gnome-menus](/f22/package/gnome-menus) | 70 | 70 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
+ | [gnome-mime-data](/f22/package/gnome-mime-data) | 887 | 887 | 100.0 | Dutch <vertaling@nl.linux.org> | 
+ | [gnome-mines](/f22/package/gnome-mines) | 4683 | 4683 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
+ | [gnome-mud](/f22/package/gnome-mud) | 1309 | 1309 | 100.0 | Dutch <vertaling@nl.linux.org> | 
+ | [gnome-multi-writer](/f22/package/gnome-multi-writer) | 344 | 344 | 100.0 | Dutch (http://www.transifex.com/projects/p/gnome-multi-writer/language/nl/) | 
+ | [gnome-music](/f22/package/gnome-music) | 383 | 383 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
+ | [gnome-nettool](/f22/package/gnome-nettool) | 664 | 664 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
+ | [gnome-nibbles](/f22/package/gnome-nibbles) | 4683 | 4683 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
+ | [gnome-packagekit](/f22/package/gnome-packagekit) | 4390 | 4390 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
+ | [gnome-phone-manager](/f22/package/gnome-phone-manager) | 513 | 513 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
+ | [gnome-photos](/f22/package/gnome-photos) | 354 | 354 | 100.0 | Dutch <gnome-nl-list@gnome.org> | 
+ | [gnome-power-manager](/f22/package/gnome-power-manager) | 432 | 432 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
+ | [gnome-robots](/f22/package/gnome-robots) | 4683 | 4683 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
+ | [gnome-screensaver](/f22/package/gnome-screensaver) | 291 | 291 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
+ | [gnome-screenshot](/f22/package/gnome-screenshot) | 455 | 455 | 100.0 | Dutch <gnome-nl-list@gnome.org> | 
+ | [gnome-search-tool](/f22/package/gnome-search-tool) | 1359 | 1359 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
+ | [gnome-session](/f22/package/gnome-session) | 431 | 431 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
+ | [gnome-shell](/f22/package/gnome-shell) | 1296 | 1296 | 100.0 | Dutch <gnome-nl-list@gnome.org> | 
+ | [gnome-shell-extensions](/f22/package/gnome-shell-extensions) | 358 | 358 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
+ | [gnome-sound-recorder](/f22/package/gnome-sound-recorder) | 223 | 223 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
+ | [gnome-sudoku](/f22/package/gnome-sudoku) | 4683 | 4683 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
+ | [gnome-system-log](/f22/package/gnome-system-log) | 522 | 522 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
+ | [gnome-system-monitor](/f22/package/gnome-system-monitor) | 1283 | 1283 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
+ | [gnome-tetravex](/f22/package/gnome-tetravex) | 4683 | 4683 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
+ | [gnome-themes](/f22/package/gnome-themes) | 109 | 109 | 100.0 | Dutch <vertaling@nl.linux.org> | 
+ | [gnome-themes-standard](/f22/package/gnome-themes-standard) | 24 | 24 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
+ | [gnome-tweak-tool](/f22/package/gnome-tweak-tool) | 382 | 382 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
+ | [gnome-user-share](/f22/package/gnome-user-share) | 247 | 247 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
+ | [gnome-vfs2](/f22/package/gnome-vfs2) | 1519 | 1519 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
+ | [gnome-weather](/f22/package/gnome-weather) | 216 | 216 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
+ | [gnubik](/f22/package/gnubik) | 285 | 285 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
+ | [gnuchess](/f22/package/gnuchess) | 1068 | 1068 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
+ | [gobby](/f22/package/gobby) | 900 | 900 | 100.0 | Dutch <nl@li.org> | 
+ | [googsystray](/f22/package/googsystray) | 759 | 759 | 100.0 | Dutch | 
+ | [gparted](/f22/package/gparted) | 2591 | 2591 | 100.0 | Dutch <gnome-nl-list@gnome.org> | 
+ | [gpicview](/f22/package/gpicview) | 219 | 219 | 100.0 | Dutch | 
+ | [gpsdrive](/f22/package/gpsdrive) | 2311 | 2311 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
+ | [grep](/f22/package/grep) | 943 | 943 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
+ | [greylistd](/f22/package/greylistd) | 350 | 350 | 100.0 | debian-l10n-dutch <debian-l10n-dutch@lists.debian.org> | 
+ | [gridengine](/f22/package/gridengine) | 2047 | 2047 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
+ | [gstreamer-plugins-bad-free](/f22/package/gstreamer-plugins-bad-free) | 96 | 96 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
+ | [gstreamer-plugins-good](/f22/package/gstreamer-plugins-good) | 814 | 814 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
+ | [gstreamer1](/f22/package/gstreamer1) | 2002 | 2002 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
+ | [gstreamer1-plugins-base](/f22/package/gstreamer1-plugins-base) | 819 | 819 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
+ | [gstreamer1-plugins-good](/f22/package/gstreamer1-plugins-good) | 759 | 759 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
+ | [gthumb](/f22/package/gthumb) | 5033 | 5033 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
+ | [gtick](/f22/package/gtick) | 338 | 338 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
+ | [gtk-recordmydesktop](/f22/package/gtk-recordmydesktop) | 816 | 816 | 100.0 | Dutch | 
+ | [gtk2-engines](/f22/package/gtk2-engines) | 119 | 119 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
+ | [gtk3](/f22/package/gtk3) | 13348 | 13348 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
+ | [gtkhtml3](/f22/package/gtkhtml3) | 485 | 485 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
+ | [gtksourceview](/f22/package/gtksourceview) | 849 | 849 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
+ | [gtksourceview2](/f22/package/gtksourceview2) | 1099 | 1099 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
+ | [gtksourceview3](/f22/package/gtksourceview3) | 1551 | 1551 | 100.0 | Dutch; Flemish <gnome-nl-list@gnome.org> | 
+ | [gtkspell](/f22/package/gtkspell) | 11 | 11 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
+ | [gtkspell3](/f22/package/gtkspell3) | 16 | 16 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
+ | [gtranslator](/f22/package/gtranslator) | 1230 | 1230 | 100.0 | Dutch <vertaling@nl.linux.org> | 
+ | [guayadeque](/f22/package/guayadeque) | 3326 | 3326 | 100.0 | Dutch (Netherlands) (http://www.transifex.com/projects/p/guayadeque/language/nl_NL/) | 
+ | [gucharmap](/f22/package/gucharmap) | 1071 | 1071 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
+ | [gvfs](/f22/package/gvfs) | 2648 | 2648 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
+ | [gvrng](/f22/package/gvrng) | 373 | 373 | 100.0 | Dutch <nl@li.org> | 
+ | [gwget](/f22/package/gwget) | 525 | 525 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
+ | [hivex](/f22/package/hivex) | 270 | 270 | 100.0 | Dutch <> | 
+ | [homerun](/f22/package/homerun) | 504 | 504 | 100.0 | Dutch <kde-i18n-nl@kde.org> | 
+ | [iagno](/f22/package/iagno) | 4683 | 4683 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
+ | [ibus](/f22/package/ibus) | 996 | 996 | 100.0 | Dutch <trans-nl@lists.fedoraproject.org> | 
+ | [initial-setup](/f22/package/initial-setup) | 85 | 85 | 100.0 | Dutch (http://www.transifex.com/projects/p/initial-setup/language/nl/) | 
+ | [insight](/f22/package/insight) | 1371 | 1371 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
+ | [islamic-menus](/f22/package/islamic-menus) | 5 | 5 | 100.0 | Dutch <nl@li.org> | 
+ | [isomaster](/f22/package/isomaster) | 674 | 674 | 100.0 |  | 
+ | [istanbul](/f22/package/istanbul) | 350 | 350 | 100.0 | Gnome-NL <gnome-nl-list@gnome.org> | 
+ | [k3b](/f22/package/k3b) | 20541 | 20541 | 100.0 | Dutch <kde-i18n-nl@kde.org> | 
+ | [k4dirstat](/f22/package/k4dirstat) | 547 | 547 | 100.0 | Dutch (http://www.transifex.com/projects/p/k4dirstat/language/nl/) | 
+ | [kamoso](/f22/package/kamoso) | 165 | 165 | 100.0 | Dutch <kde-i18n-nl@kde.org> | 
+ | [kaudiocreator](/f22/package/kaudiocreator) | 1136 | 1136 | 100.0 | Dutch <kde-i18n-nl@kde.org> | 
+ | [kbd](/f22/package/kbd) | 2367 | 2367 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
+ | [kcm-gtk](/f22/package/kcm-gtk) | 124 | 124 | 100.0 | Dutch <nl@li.org> | 
+ | [kcoloredit](/f22/package/kcoloredit) | 278 | 278 | 100.0 | Dutch <kde-i18n-nl@kde.org> | 
+ | [kde-cli-tools](/f22/package/kde-cli-tools) | 2102 | 2102 | 100.0 | Dutch <kde-i18n-nl@kde.org> | 
+ | [kde-connect](/f22/package/kde-connect) | 430 | 430 | 100.0 | Dutch <kde-i18n-nl@kde.org> | 
+ | [kde-gtk-config](/f22/package/kde-gtk-config) | 292 | 292 | 100.0 | Dutch <kde-i18n-nl@kde.org> | 
+ | [kde-l10n](/f22/package/kde-l10n) | 482220 | 482220 | 100.0 | Dutch <kde-i18n-nl@kde.org> | 
+ | [kde-partitionmanager](/f22/package/kde-partitionmanager) | 4878 | 4878 | 100.0 | Dutch <kde-i18n-nl@kde.org> | 
+ | [kde-plasma-nm](/f22/package/kde-plasma-nm) | 2939 | 2939 | 100.0 | Dutch <kde-i18n-nl@kde.org> | 
+ | [kdeplasma-addons](/f22/package/kdeplasma-addons) | 3992 | 3992 | 100.0 | Dutch <kde-i18n-nl@kde.org> | 
+ | [kdevelop](/f22/package/kdevelop) | 4291 | 4291 | 100.0 | Dutch <kde-i18n-nl@kde.org> | 
+ | [kdevelop-php](/f22/package/kdevelop-php) | 329 | 329 | 100.0 | Dutch <kde-i18n-nl@kde.org> | 
+ | [kdevelop-python](/f22/package/kdevelop-python) | 590 | 590 | 100.0 | Dutch <kde-i18n-nl@kde.org> | 
+ | [kdevplatform](/f22/package/kdevplatform) | 9124 | 9124 | 100.0 | Dutch <kde-i18n-nl@kde.org> | 
+ | [kdiff3](/f22/package/kdiff3) | 3770 | 3770 | 100.0 | Dutch <kde-i18n-nl@kde.org> | 
+ | [kdissert](/f22/package/kdissert) | 2027 | 2027 | 100.0 | Nederlands <kde-i18n-nl@kde.org> | 
+ | [keurocalc](/f22/package/keurocalc) | 3042 | 3042 | 100.0 | Dutch <kde-i18n-nl@kde.org> | 
+ | [kf5-baloo](/f22/package/kf5-baloo) | 538 | 538 | 100.0 | Dutch <kde-i18n-nl@kde.org> | 
+ | [kf5-frameworkintegration](/f22/package/kf5-frameworkintegration) | 56 | 56 | 100.0 | Dutch <kde-i18n-nl@kde.org> | 
+ | [kf5-kactivities](/f22/package/kf5-kactivities) | 147 | 147 | 100.0 | Dutch <kde-i18n-nl@kde.org> | 
+ | [kf5-kauth](/f22/package/kf5-kauth) | 58 | 58 | 100.0 | Dutch <kde-i18n-nl@kde.org> | 
+ | [kf5-kbookmarks](/f22/package/kf5-kbookmarks) | 218 | 218 | 100.0 | Dutch <kde-i18n-nl@kde.org> | 
+ | [kf5-kcmutils](/f22/package/kf5-kcmutils) | 563 | 563 | 100.0 | Dutch <kde-i18n-nl@kde.org> | 
+ | [kf5-kcodecs](/f22/package/kf5-kcodecs) | 348 | 348 | 100.0 | Dutch <kde-i18n-nl@kde.org> | 
+ | [kf5-kcompletion](/f22/package/kf5-kcompletion) | 20 | 20 | 100.0 | Dutch <kde-i18n-nl@kde.org> | 
+ | [kf5-kconfig](/f22/package/kf5-kconfig) | 254 | 254 | 100.0 | Dutch <kde-i18n-nl@kde.org> | 
+ | [kf5-kconfigwidgets](/f22/package/kf5-kconfigwidgets) | 317 | 317 | 100.0 | Dutch <kde-i18n-nl@kde.org> | 
+ | [kf5-kcoreaddons](/f22/package/kf5-kcoreaddons) | 265 | 265 | 100.0 | Dutch <kde-i18n-nl@kde.org> | 
+ | [kf5-kdbusaddons](/f22/package/kf5-kdbusaddons) | 48 | 48 | 100.0 | Dutch <kde-i18n-nl@kde.org> | 
+ | [kf5-kdeclarative](/f22/package/kf5-kdeclarative) | 109 | 109 | 100.0 | Dutch <kde-i18n-nl@kde.org> | 
+ | [kf5-kdelibs4support](/f22/package/kf5-kdelibs4support) | 4813 | 4813 | 100.0 | Dutch <kde-i18n-nl@kde.org> | 
+ | [kf5-kdesignerplugin](/f22/package/kf5-kdesignerplugin) | 54 | 54 | 100.0 | Dutch <kde-i18n-nl@kde.org> | 
+ | [kf5-kdesu](/f22/package/kf5-kdesu) | 19 | 19 | 100.0 | Dutch <kde-i18n-nl@kde.org> | 
+ | [kf5-kdnssd](/f22/package/kf5-kdnssd) | 3 | 3 | 100.0 | Dutch <kde-i18n-nl@kde.org> | 
+ | [kf5-kdoctools](/f22/package/kf5-kdoctools) | 8 | 8 | 100.0 | Dutch <kde-i18n-nl@kde.org> | 
+ | [kf5-kfilemetadata](/f22/package/kf5-kfilemetadata) | 128 | 128 | 100.0 | Dutch <kde-i18n-nl@kde.org> | 
+ | [kf5-kglobalaccel](/f22/package/kf5-kglobalaccel) | 71 | 71 | 100.0 | Dutch <kde-i18n-nl@kde.org> | 
+ | [kf5-khtml](/f22/package/kf5-khtml) | 1723 | 1723 | 100.0 | Dutch <kde-i18n-nl@kde.org> | 
+ | [kf5-ki18n](/f22/package/kf5-ki18n) | 124 | 124 | 100.0 | Dutch <kde-i18n-nl@kde.org> | 
+ | [kf5-kiconthemes](/f22/package/kf5-kiconthemes) | 37 | 37 | 100.0 | Dutch <kde-i18n-nl@kde.org> | 
+ | [kf5-kinit](/f22/package/kf5-kinit) | 134 | 134 | 100.0 | Dutch <kde-i18n-nl@kde.org> | 
+ | [kf5-kio](/f22/package/kf5-kio) | 11715 | 11715 | 100.0 | Dutch <kde-i18n-nl@kde.org> | 
+ | [kf5-kitemviews](/f22/package/kf5-kitemviews) | 7 | 7 | 100.0 | Dutch <kde-i18n-nl@kde.org> | 
+ | [kf5-kjobwidgets](/f22/package/kf5-kjobwidgets) | 141 | 141 | 100.0 | Dutch <kde-i18n-nl@kde.org> | 
+ | [kf5-kjsembed](/f22/package/kf5-kjsembed) | 248 | 248 | 100.0 | Dutch <kde-i18n-nl@kde.org> | 
+ | [kf5-knewstuff](/f22/package/kf5-knewstuff) | 673 | 673 | 100.0 | Dutch <kde-i18n-nl@kde.org> | 
+ | [kf5-knotifications](/f22/package/kf5-knotifications) | 18 | 18 | 100.0 | Dutch <kde-i18n-nl@kde.org> | 
+ | [kf5-knotifyconfig](/f22/package/kf5-knotifyconfig) | 129 | 129 | 100.0 | Dutch <kde-i18n-nl@kde.org> | 
+ | [kf5-kpackage](/f22/package/kf5-kpackage) | 423 | 423 | 100.0 | Dutch <kde-i18n-nl@kde.org> | 
+ | [kf5-kparts](/f22/package/kf5-kparts) | 104 | 104 | 100.0 | Dutch <kde-i18n-nl@kde.org> | 
+ | [kf5-kpeople](/f22/package/kf5-kpeople) | 21 | 21 | 100.0 | Dutch <kde-i18n-nl@kde.org> | 
+ | [kf5-kpty](/f22/package/kf5-kpty) | 15 | 15 | 100.0 | Dutch <kde-i18n-nl@kde.org> | 
+ | [kf5-kross](/f22/package/kf5-kross) | 100 | 100 | 100.0 | Dutch <kde-i18n-nl@kde.org> | 
+ | [kf5-krunner](/f22/package/kf5-krunner) | 15 | 15 | 100.0 | Dutch <kde-i18n-nl@kde.org> | 
+ | [kf5-kservice](/f22/package/kf5-kservice) | 170 | 170 | 100.0 | Dutch <kde-i18n-nl@kde.org> | 
+ | [kf5-ktexteditor](/f22/package/kf5-ktexteditor) | 8742 | 8742 | 100.0 | Dutch <kde-i18n-nl@kde.org> | 
+ | [kf5-ktextwidgets](/f22/package/kf5-ktextwidgets) | 462 | 462 | 100.0 | Dutch <kde-i18n-nl@kde.org> | 
+ | [kf5-kunitconversion](/f22/package/kf5-kunitconversion) | 4386 | 4386 | 100.0 | Dutch <kde-i18n-nl@kde.org> | 
+ | [kf5-kwallet](/f22/package/kf5-kwallet) | 1625 | 1625 | 100.0 | Dutch <kde-i18n-nl@kde.org> | 
+ | [kf5-kwidgetsaddons](/f22/package/kf5-kwidgetsaddons) | 1261 | 1261 | 100.0 | Dutch <kde-i18n-nl@kde.org> | 
+ | [kf5-kwindowsystem](/f22/package/kf5-kwindowsystem) | 2 | 2 | 100.0 | Dutch <kde-i18n-nl@kde.org> | 
+ | [kf5-kxmlgui](/f22/package/kf5-kxmlgui) | 1538 | 1538 | 100.0 | Dutch <kde-i18n-nl@kde.org> | 
+ | [kf5-kxmlrpcclient](/f22/package/kf5-kxmlrpcclient) | 13 | 13 | 100.0 | Dutch <kde-i18n-nl@kde.org> | 
+ | [kf5-plasma](/f22/package/kf5-plasma) | 771 | 771 | 100.0 | Dutch <kde-i18n-nl@kde.org> | 
+ | [kf5-solid](/f22/package/kf5-solid) | 677 | 677 | 100.0 | Dutch <kde-i18n-nl@kde.org> | 
+ | [kf5-sonnet](/f22/package/kf5-sonnet) | 665 | 665 | 100.0 | Dutch <kde-i18n-nl@kde.org> | 
+ | [kflickr](/f22/package/kflickr) | 332 | 332 | 100.0 | Dutch <nl@li.org> | 
+ | [kgamma](/f22/package/kgamma) | 130 | 130 | 100.0 | Dutch <kde-i18n-nl@kde.org> | 
+ | [kgrab](/f22/package/kgrab) | 370 | 370 | 100.0 | Dutch <kde-i18n-doc@kde.org> | 
+ | [kgraphviewer](/f22/package/kgraphviewer) | 1251 | 1251 | 100.0 | Dutch <kde-i18n-nl@kde.org> | 
+ | [khelpcenter](/f22/package/khelpcenter) | 768 | 768 | 100.0 | Dutch <kde-i18n-nl@kde.org> | 
+ | [khotkeys](/f22/package/khotkeys) | 433 | 433 | 100.0 | Dutch <kde-i18n-nl@kde.org> | 
+ | [kicad](/f22/package/kicad) | 11630 | 11630 | 100.0 | KiCad Team <xor.gate.engineering@gmail.com> | 
+ | [kiconedit](/f22/package/kiconedit) | 726 | 726 | 100.0 | Dutch <kde-i18n-nl@kde.org> | 
+ | [kile](/f22/package/kile) | 11162 | 11162 | 100.0 | Dutch <kde-i18n-nl@kde.org> | 
+ | [kinfocenter](/f22/package/kinfocenter) | 2958 | 2958 | 100.0 | Dutch <kde-i18n-nl@kde.org> | 
+ | [kio_gopher](/f22/package/kio_gopher) | 17 | 17 | 100.0 | Dutch <kde-i18n-nl@kde.org> | 
+ | [kio_mtp](/f22/package/kio_mtp) | 17 | 17 | 100.0 | Dutch <kde-i18n-nl@kde.org> | 
+ | [kio_sysinfo](/f22/package/kio_sysinfo) | 168 | 168 | 100.0 | Dutch <kde-i18n-doc@kde.org> | 
+ | [klavaro](/f22/package/klavaro) | 1912 | 1912 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
+ | [kmenuedit](/f22/package/kmenuedit) | 281 | 281 | 100.0 | Dutch <kde-i18n-nl@kde.org> | 
+ | [kmid2](/f22/package/kmid2) | 1022 | 1022 | 100.0 | Dutch <kde-i18n-nl@kde.org> | 
+ | [kmldonkey](/f22/package/kmldonkey) | 1830 | 1830 | 100.0 | Dutch <kde-i18n-nl@kde.org> | 
+ | [kmymoney](/f22/package/kmymoney) | 20996 | 20996 | 100.0 | Dutch <kde-i18n-nl@kde.org> | 
+ | [knemo](/f22/package/knemo) | 1236 | 1236 | 100.0 | Dutch <kde-i18n-nl@kde.org> | 
+ | [knetstats](/f22/package/knetstats) | 119 | 119 | 100.0 | Dutch <kde-i18n-nl@kde.org> | 
+ | [knights](/f22/package/knights) | 757 | 757 | 100.0 | Nederlands <kde-i18n-nl@kde.org> | 
+ | [koffice-kivio](/f22/package/koffice-kivio) | 8417 | 8417 | 100.0 | Dutch <kde-i18n-nl@kde.org> | 
+ | [komparator](/f22/package/komparator) | 2587 | 2587 | 100.0 | Nederlands <kde-i18n-nl@kde.org> | 
+ | [konversation](/f22/package/konversation) | 10235 | 10235 | 100.0 | Dutch <kde-i18n-nl@kde.org> | 
+ | [kopete-cryptography](/f22/package/kopete-cryptography) | 408 | 408 | 100.0 | Dutch <kde-i18n-nl@kde.org> | 
+ | [koverartist](/f22/package/koverartist) | 659 | 659 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [kpilot](/f22/package/kpilot) | 7156 | 7156 | 100.0 | Dutch <kde-i18n-nl@kde.org> | 
+ | [krusader](/f22/package/krusader) | 7956 | 7956 | 100.0 | Dutch <kde-i18n-nl@kde.org> | 
+ | [kscreen](/f22/package/kscreen) | 191 | 191 | 100.0 | Dutch <kde-i18n-nl@kde.org> | 
+ | [kscreenlocker](/f22/package/kscreenlocker) | 178 | 178 | 100.0 | Dutch <kde-i18n-nl@kde.org> | 
+ | [ksig](/f22/package/ksig) | 85 | 85 | 100.0 | Dutch <kde-i18n-nl@kde.org> | 
+ | [ksshaskpass](/f22/package/ksshaskpass) | 43 | 43 | 100.0 | Dutch <kde-i18n-nl@kde.org> | 
+ | [kst](/f22/package/kst) | 7288 | 7288 | 100.0 | Dutch <kde-i18n-nl@kde.org> | 
+ | [ksysguard](/f22/package/ksysguard) | 1082 | 1082 | 100.0 | Dutch <kde-i18n-nl@kde.org> | 
+ | [ktorrent](/f22/package/ktorrent) | 7739 | 7739 | 100.0 | Dutch <kde-i18n-nl@kde.org> | 
+ | [kwebkitpart](/f22/package/kwebkitpart) | 624 | 624 | 100.0 | Dutch <kde-i18n-nl@kde.org> | 
+ | [kwin](/f22/package/kwin) | 6091 | 6091 | 100.0 | Dutch <kde-i18n-nl@kde.org> | 
+ | [kxstitch](/f22/package/kxstitch) | 781 | 781 | 100.0 | Dutch <kde-i18n-doc@kde.org> | 
+ | [latexila](/f22/package/latexila) | 2195 | 2195 | 100.0 | Dutch <gnome-nl-list@gnome.org> | 
+ | [leafpad](/f22/package/leafpad) | 125 | 125 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
+ | [lekhonee-gnome](/f22/package/lekhonee-gnome) | 112 | 112 | 100.0 | Fedora | 
+ | [libbonobo](/f22/package/libbonobo) | 543 | 543 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
+ | [libbonoboui](/f22/package/libbonoboui) | 368 | 368 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
+ | [libcryptui](/f22/package/libcryptui) | 3012 | 3012 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
+ | [libfm](/f22/package/libfm) | 1565 | 1565 | 100.0 | Dutch | 
+ | [libgdata](/f22/package/libgdata) | 607 | 607 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
+ | [libgdl](/f22/package/libgdl) | 604 | 604 | 100.0 | Dutch <vertaling@nl.linux.org> | 
+ | [libgnome](/f22/package/libgnome) | 1773 | 1773 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
+ | [libgnome-keyring](/f22/package/libgnome-keyring) | 44 | 44 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
+ | [libgnome-media-profiles](/f22/package/libgnome-media-profiles) | 460 | 460 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
+ | [libgnomecanvas](/f22/package/libgnomecanvas) | 378 | 378 | 100.0 | Dutch <nl@li.org> | 
+ | [libgnomecups](/f22/package/libgnomecups) | 11 | 11 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
+ | [libgnomekbd](/f22/package/libgnomekbd) | 242 | 242 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
+ | [libgnomeprint22](/f22/package/libgnomeprint22) | 168 | 168 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
+ | [libgnomeprintui22](/f22/package/libgnomeprintui22) | 481 | 481 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
+ | [libgnomeui](/f22/package/libgnomeui) | 1309 | 1309 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
+ | [libgsasl](/f22/package/libgsasl) | 577 | 577 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
+ | [libgtop2](/f22/package/libgtop2) | 126 | 126 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
+ | [libgweather](/f22/package/libgweather) | 6109 | 6109 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
+ | [libkexif](/f22/package/libkexif) | 25 | 25 | 100.0 | Dutch <kde-i18n-nl@kde.org> | 
+ | [libkfbapi](/f22/package/libkfbapi) | 42 | 42 | 100.0 | Dutch <kde-i18n-nl@kde.org> | 
+ | [libkpeople](/f22/package/libkpeople) | 26 | 26 | 100.0 | Dutch <kde-i18n-nl@kde.org> | 
+ | [libksysguard](/f22/package/libksysguard) | 3193 | 3193 | 100.0 | Dutch <kde-i18n-nl@kde.org> | 
+ | [libktorrent](/f22/package/libktorrent) | 519 | 519 | 100.0 | Dutch <kde-i18n-nl@kde.org> | 
+ | [libmatekbd](/f22/package/libmatekbd) | 251 | 251 | 100.0 | Dutch (http://www.transifex.com/mate/MATE/language/nl/) | 
+ | [libmatemixer](/f22/package/libmatemixer) | 242 | 242 | 100.0 | Dutch (http://www.transifex.com/mate/MATE/language/nl/) | 
+ | [libmateweather](/f22/package/libmateweather) | 6115 | 6115 | 100.0 | Dutch (http://www.transifex.com/mate/MATE/language/nl/) | 
+ | [libmx](/f22/package/libmx) | 40 | 40 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [libpaper](/f22/package/libpaper) | 73 | 73 | 100.0 | debian-l10n-dutch <debian-l10n-dutch@lists.debian.org> | 
+ | [libpeas](/f22/package/libpeas) | 106 | 106 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
+ | [libreoffice](/f22/package/libreoffice) | 541914 | 541914 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [libsecret](/f22/package/libsecret) | 59 | 59 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
+ | [libsoup](/f22/package/libsoup) | 79 | 79 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
+ | [libwnck](/f22/package/libwnck) | 1124 | 1124 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
+ | [libwnck3](/f22/package/libwnck3) | 1084 | 1084 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
+ | [libxfce4ui](/f22/package/libxfce4ui) | 871 | 871 | 100.0 | Dutch (http://www.transifex.com/projects/p/libxfce4ui/language/nl/) | 
+ | [libxfce4util](/f22/package/libxfce4util) | 424 | 424 | 100.0 | Dutch (Flemish) | 
+ | [liferea](/f22/package/liferea) | 2271 | 2271 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
+ | [lightdm](/f22/package/lightdm) | 79 | 79 | 100.0 | Dutch <nl@li.org> | 
+ | [lightdm-gtk](/f22/package/lightdm-gtk) | 84 | 84 | 100.0 | Dutch <nl@li.org> | 
+ | [lightdm-kde](/f22/package/lightdm-kde) | 134 | 134 | 100.0 | Dutch <kde-i18n-nl@kde.org> | 
+ | [lightsoff](/f22/package/lightsoff) | 4683 | 4683 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
+ | [lincity-ng](/f22/package/lincity-ng) | 1923 | 1923 | 100.0 | Nederlands | 
+ | [lxappearance](/f22/package/lxappearance) | 212 | 212 | 100.0 | Dutch | 
+ | [lxappearance-obconf](/f22/package/lxappearance-obconf) | 196 | 196 | 100.0 | Dutch | 
+ | [lxdm](/f22/package/lxdm) | 30 | 30 | 100.0 | Dutch | 
+ | [lxinput](/f22/package/lxinput) | 72 | 72 | 100.0 | Dutch | 
+ | [lxlauncher](/f22/package/lxlauncher) | 51 | 51 | 100.0 | Dutch | 
+ | [lxmenu-data](/f22/package/lxmenu-data) | 97 | 97 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
+ | [lxmusic](/f22/package/lxmusic) | 203 | 203 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [lxpolkit](/f22/package/lxpolkit) | 15 | 15 | 100.0 | Dutch | 
+ | [lxrandr](/f22/package/lxrandr) | 122 | 122 | 100.0 | Dutch | 
+ | [lxsession](/f22/package/lxsession) | 36 | 36 | 100.0 | Dutch | 
+ | [lxsession-edit](/f22/package/lxsession-edit) | 64 | 64 | 100.0 | Dutch | 
+ | [lxshortcut](/f22/package/lxshortcut) | 43 | 43 | 100.0 | Dutch | 
+ | [lxtask](/f22/package/lxtask) | 122 | 122 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
+ | [lxterminal](/f22/package/lxterminal) | 144 | 144 | 100.0 | Dutch | 
+ | [lynx](/f22/package/lynx) | 8178 | 8178 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
+ | [man2html](/f22/package/man2html) | 58 | 58 | 100.0 | dutch <debian-l10n-dutch@lists.debian.org> | 
+ | [marco](/f22/package/marco) | 4078 | 4078 | 100.0 | Dutch (http://www.transifex.com/mate/MATE/language/nl/) | 
+ | [massif-visualizer](/f22/package/massif-visualizer) | 385 | 385 | 100.0 | Dutch <kde-i18n-nl@kde.org> | 
+ | [mate-calc](/f22/package/mate-calc) | 1412 | 1412 | 100.0 | Dutch (http://www.transifex.com/projects/p/MATE/language/nl/) | 
+ | [mate-control-center](/f22/package/mate-control-center) | 2751 | 2751 | 100.0 | Dutch (http://www.transifex.com/mate/MATE/language/nl/) | 
+ | [mate-desktop](/f22/package/mate-desktop) | 2413 | 2413 | 100.0 | Dutch (http://www.transifex.com/mate/MATE/language/nl/) | 
+ | [mate-dialogs](/f22/package/mate-dialogs) | 631 | 631 | 100.0 | Dutch (http://www.transifex.com/projects/p/MATE/language/nl/) | 
+ | [mate-icon-theme](/f22/package/mate-icon-theme) | 51 | 51 | 100.0 | Dutch <vertaling@nl.linux.org> | 
+ | [mate-media](/f22/package/mate-media) | 179 | 179 | 100.0 | Dutch (http://www.transifex.com/projects/p/MATE/language/nl/) | 
+ | [mate-menus](/f22/package/mate-menus) | 97 | 97 | 100.0 | Dutch (http://www.transifex.com/projects/p/MATE/language/nl/) | 
+ | [mate-netspeed](/f22/package/mate-netspeed) | 147 | 147 | 100.0 | Dutch (http://www.transifex.com/projects/p/MATE/language/nl/) | 
+ | [mate-notification-daemon](/f22/package/mate-notification-daemon) | 152 | 152 | 100.0 | Dutch (http://www.transifex.com/projects/p/MATE/language/nl/) | 
+ | [mate-polkit](/f22/package/mate-polkit) | 296 | 296 | 100.0 | Dutch (http://www.transifex.com/projects/p/MATE/language/nl/) | 
+ | [mate-power-manager](/f22/package/mate-power-manager) | 2725 | 2725 | 100.0 | Dutch (http://www.transifex.com/mate/MATE/language/nl/) | 
+ | [mate-screensaver](/f22/package/mate-screensaver) | 585 | 585 | 100.0 | Dutch (http://www.transifex.com/projects/p/MATE/language/nl/) | 
+ | [mate-sensors-applet](/f22/package/mate-sensors-applet) | 290 | 290 | 100.0 | Dutch (http://www.transifex.com/projects/p/MATE/language/nl/) | 
+ | [mate-settings-daemon](/f22/package/mate-settings-daemon) | 1735 | 1735 | 100.0 | Dutch (http://www.transifex.com/projects/p/MATE/language/nl/) | 
+ | [mate-system-monitor](/f22/package/mate-system-monitor) | 1211 | 1211 | 100.0 | Dutch (http://www.transifex.com/mate/MATE/language/nl/) | 
+ | [mate-terminal](/f22/package/mate-terminal) | 1347 | 1347 | 100.0 | Dutch (http://www.transifex.com/projects/p/MATE/language/nl/) | 
+ | [mate-themes](/f22/package/mate-themes) | 55 | 55 | 100.0 | Dutch (http://www.transifex.com/mate/MATE/language/nl/) | 
+ | [mate-utils](/f22/package/mate-utils) | 3666 | 3666 | 100.0 | Dutch (http://www.transifex.com/projects/p/MATE/language/nl/) | 
+ | [meld](/f22/package/meld) | 883 | 883 | 100.0 | Dutch <vertaling@nl.li.org> | 
+ | [menulibre](/f22/package/menulibre) | 701 | 701 | 100.0 | Dutch <nl@li.org> | 
+ | [metacity](/f22/package/metacity) | 2040 | 2040 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
+ | [mingw-GConf2](/f22/package/mingw-GConf2) | 4088 | 4088 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
+ | [mingw-adwaita-icon-theme](/f22/package/mingw-adwaita-icon-theme) | 51 | 51 | 100.0 | Dutch <vertaling@nl.linux.org> | 
+ | [mingw-atk](/f22/package/mingw-atk) | 375 | 375 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
+ | [mingw-binutils](/f22/package/mingw-binutils) | 1896 | 1896 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
+ | [mingw-gdb](/f22/package/mingw-gdb) | 1371 | 1371 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
+ | [mingw-glib-networking](/f22/package/mingw-glib-networking) | 135 | 135 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
+ | [mingw-gstreamer-plugins-bad-free](/f22/package/mingw-gstreamer-plugins-bad-free) | 96 | 96 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
+ | [mingw-gstreamer-plugins-good](/f22/package/mingw-gstreamer-plugins-good) | 814 | 814 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
+ | [mingw-gstreamer1](/f22/package/mingw-gstreamer1) | 2002 | 2002 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
+ | [mingw-gstreamer1-plugins-base](/f22/package/mingw-gstreamer1-plugins-base) | 819 | 819 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
+ | [mingw-gstreamer1-plugins-good](/f22/package/mingw-gstreamer1-plugins-good) | 766 | 766 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
+ | [mingw-gtk3](/f22/package/mingw-gtk3) | 13348 | 13348 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
+ | [mingw-gtkhtml3](/f22/package/mingw-gtkhtml3) | 485 | 485 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
+ | [mingw-gtksourceview3](/f22/package/mingw-gtksourceview3) | 1551 | 1551 | 100.0 | Dutch; Flemish <gnome-nl-list@gnome.org> | 
+ | [mingw-gtkspell3](/f22/package/mingw-gtkspell3) | 16 | 16 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
+ | [mingw-libidn](/f22/package/mingw-libidn) | 414 | 414 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
+ | [mingw-libsoup](/f22/package/mingw-libsoup) | 79 | 79 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
+ | [mingw-wxWidgets](/f22/package/mingw-wxWidgets) | 6679 | 6679 | 100.0 | wxWidgets translators <wx-translators@wxwidgets.org> | 
+ | [mintmenu](/f22/package/mintmenu) | 5999 | 5999 | 100.0 | Dutch <nl@li.org> | 
+ | [moodle](/f22/package/moodle) | 421 | 421 | 100.0 | Dutch <i18n@lists.horde.org> | 
+ | [mousetweaks](/f22/package/mousetweaks) | 237 | 237 | 100.0 | Dutch <vertaling@nl.gnome.org> | 
+ | [mozo](/f22/package/mozo) | 42 | 42 | 100.0 | Dutch (http://www.transifex.com/projects/p/MATE/language/nl/) | 
+ | [msp430-binutils](/f22/package/msp430-binutils) | 1896 | 1896 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
+ | [multimedia-menus](/f22/package/multimedia-menus) | 56 | 56 | 100.0 | Fedora | 
+ | [muon](/f22/package/muon) | 1901 | 1901 | 100.0 | Dutch <kde-i18n-nl@kde.org> | 
+ | [mutt](/f22/package/mutt) | 5576 | 5576 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
+ | [mutter](/f22/package/mutter) | 2063 | 2063 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
+ | [nacl-arm-binutils](/f22/package/nacl-arm-binutils) | 1896 | 1896 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
+ | [nacl-binutils](/f22/package/nacl-binutils) | 1896 | 1896 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
+ | [nano](/f22/package/nano) | 2885 | 2885 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
+ | [nautilus](/f22/package/nautilus) | 5068 | 5068 | 100.0 | Dutch <gnome-nl-list@gnome.org> | 
+ | [nautilus-image-converter](/f22/package/nautilus-image-converter) | 79 | 79 | 100.0 | Dutch | 
+ | [nautilus-open-terminal](/f22/package/nautilus-open-terminal) | 166 | 166 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
+ | [nautilus-sendto](/f22/package/nautilus-sendto) | 274 | 274 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
+ | [nesc](/f22/package/nesc) | 1178 | 1178 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
+ | [net6](/f22/package/net6) | 304 | 304 | 100.0 | Dutch <nl@li.org> | 
+ | [network-manager-applet](/f22/package/network-manager-applet) | 2887 | 2887 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
+ | [newt](/f22/package/newt) | 4 | 4 | 100.0 | debian-l10n-dutch <debian-l10n-dutch@lists.debian.org> | 
+ | [nicotine+](/f22/package/nicotine+) | 4978 | 4978 | 100.0 | Dutch <> | 
+ | [nntpgrab](/f22/package/nntpgrab) | 2259 | 2259 | 100.0 | Dutch | 
+ | [notification-daemon](/f22/package/notification-daemon) | 17 | 17 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
+ | [oggconvert](/f22/package/oggconvert) | 132 | 132 | 100.0 | Dutch <nl@li.org> | 
+ | [olpc-switch-desktop](/f22/package/olpc-switch-desktop) | 158 | 158 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [orage](/f22/package/orage) | 2931 | 2931 | 100.0 | Dutch (http://www.transifex.com/projects/p/xfce-apps/language/nl/) | 
+ | [orca](/f22/package/orca) | 4456 | 4456 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
+ | [pacman](/f22/package/pacman) | 5389 | 5389 | 100.0 | Dutch (http://www.transifex.com/toofishes/archlinux-pacman/language/nl/) | 
+ | [pam](/f22/package/pam) | 606 | 606 | 100.0 | Dutch (http://www.transifex.com/projects/p/fedora/language/nl/) | 
+ | [pam_krb5](/f22/package/pam_krb5) | 7 | 7 | 100.0 | Dutch (http://www.transifex.com/projects/p/fedora/language/nl/) | 
+ | [paprefs](/f22/package/paprefs) | 131 | 131 | 100.0 | nl <nl@li.org> | 
+ | [parole](/f22/package/parole) | 918 | 918 | 100.0 | Dutch (http://www.transifex.com/projects/p/xfce-apps/language/nl/) | 
+ | [parted](/f22/package/parted) | 4416 | 4416 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
+ | [passwd](/f22/package/passwd) | 315 | 315 | 100.0 | Dutch (http://www.transifex.com/projects/p/fedora/language/nl/) | 
+ | [pastebinit](/f22/package/pastebinit) | 183 | 183 | 100.0 | Dutch <nl@li.org> | 
+ | [pbuilder](/f22/package/pbuilder) | 96 | 96 | 100.0 | Debian l10n Dutch <debian-l10n-dutch@lists.debian.org> | 
+ | [pcb](/f22/package/pcb) | 3175 | 3175 | 100.0 | Bert Timmerman <bert.timmerman@xs4all.nl> | 
+ | [pcmanfm](/f22/package/pcmanfm) | 1210 | 1210 | 100.0 | Dutch | 
+ | [pdfmod](/f22/package/pdfmod) | 266 | 266 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
+ | [perl-libintl](/f22/package/perl-libintl) | 19 | 19 | 100.0 | Dutch <guido@imperia.net> | 
+ | [pessulus](/f22/package/pessulus) | 130 | 130 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
+ | [phatch](/f22/package/phatch) | 2553 | 2553 | 100.0 | Stani <spe.stani.be@gmail.com> | 
+ | [php-horde-Horde-Alarm](/f22/package/php-horde-Horde-Alarm) | 13 | 13 | 100.0 | Dutch <i18n@lists.horde.org> | 
+ | [php-horde-Horde-Argv](/f22/package/php-horde-Horde-Argv) | 60 | 60 | 100.0 | Dutch <i18n@lists.horde.org> | 
+ | [php-horde-Horde-Browser](/f22/package/php-horde-Horde-Browser) | 66 | 66 | 100.0 | Dutch <i18n@lists.horde.org> | 
+ | [php-horde-Horde-Cli](/f22/package/php-horde-Horde-Cli) | 16 | 16 | 100.0 | Dutch <i18n@lists.horde.org> | 
+ | [php-horde-Horde-Compress](/f22/package/php-horde-Horde-Compress) | 25 | 25 | 100.0 | Dutch <i18n@lists.horde.org> | 
+ | [php-horde-Horde-Core](/f22/package/php-horde-Horde-Core) | 1036 | 1036 | 100.0 | Dutch <kde-i18n-doc@kde.org> | 
+ | [php-horde-Horde-Data](/f22/package/php-horde-Horde-Data) | 53 | 53 | 100.0 | Dutch <i18n@lists.horde.org> | 
+ | [php-horde-Horde-Date](/f22/package/php-horde-Horde-Date) | 42 | 42 | 100.0 | Dutch <i18n@lists.horde.org> | 
+ | [php-horde-Horde-Exception](/f22/package/php-horde-Horde-Exception) | 4 | 4 | 100.0 | Dutch <i18n@lists.horde.org> | 
+ | [php-horde-Horde-Icalendar](/f22/package/php-horde-Horde-Icalendar) | 3 | 3 | 100.0 | Dutch <i18n@lists.horde.org> | 
+ | [php-horde-Horde-Imap-Client](/f22/package/php-horde-Horde-Imap-Client) | 375 | 375 | 100.0 | American English <kde-i18n-doc@kde.org> | 
+ | [php-horde-Horde-Imsp](/f22/package/php-horde-Horde-Imsp) | 3 | 3 | 100.0 | Dutch <i18n@lists.horde.org> | 
+ | [php-horde-Horde-LoginTasks](/f22/package/php-horde-Horde-LoginTasks) | 6 | 6 | 100.0 | Dutch <i18n@lists.horde.org> | 
+ | [php-horde-Horde-Mime](/f22/package/php-horde-Horde-Mime) | 42 | 42 | 100.0 | Dutch <i18n@lists.horde.org> | 
+ | [php-horde-Horde-Mime-Viewer](/f22/package/php-horde-Horde-Mime-Viewer) | 47 | 47 | 100.0 | Dutch <i18n@lists.horde.org> | 
+ | [php-horde-Horde-Nls](/f22/package/php-horde-Horde-Nls) | 702 | 702 | 100.0 | Dutch <kde-i18n-doc@kde.org> | 
+ | [php-horde-Horde-Perms](/f22/package/php-horde-Horde-Perms) | 17 | 17 | 100.0 | Dutch <i18n@lists.horde.org> | 
+ | [php-horde-Horde-Prefs](/f22/package/php-horde-Horde-Prefs) | 30 | 30 | 100.0 | Dutch <i18n@lists.horde.org> | 
+ | [php-horde-Horde-Rpc](/f22/package/php-horde-Horde-Rpc) | 59 | 59 | 100.0 | Dutch <i18n@lists.horde.org> | 
+ | [php-horde-Horde-Service-Weather](/f22/package/php-horde-Horde-Service-Weather) | 539 | 539 | 100.0 | Dutch <i18n@lists.horde.org> | 
+ | [php-horde-Horde-Share](/f22/package/php-horde-Horde-Share) | 8 | 8 | 100.0 | Dutch <i18n@lists.horde.org> | 
+ | [php-horde-Horde-SyncMl](/f22/package/php-horde-Horde-SyncMl) | 3 | 3 | 100.0 | Dutch <i18n@lists.horde.org> | 
+ | [php-horde-Horde-Text-Filter](/f22/package/php-horde-Horde-Text-Filter) | 1 | 1 | 100.0 | Dutch <i18n@lists.horde.org> | 
+ | [php-horde-Horde-Token](/f22/package/php-horde-Horde-Token) | 64 | 64 | 100.0 | Dutch <i18n@lists.horde.org> | 
+ | [php-horde-Horde-Vfs](/f22/package/php-horde-Horde-Vfs) | 10 | 10 | 100.0 | Dutch <i18n@lists.horde.org> | 
+ | [php-horde-horde](/f22/package/php-horde-horde) | 3354 | 3354 | 100.0 | Dutch <kde-i18n-doc@kde.org> | 
+ | [php-horde-imp](/f22/package/php-horde-imp) | 6584 | 6584 | 100.0 | Dutch <kde-i18n-doc@kde.org> | 
+ | [php-horde-kronolith](/f22/package/php-horde-kronolith) | 3726 | 3726 | 100.0 | Dutch <kde-i18n-doc@kde.org> | 
+ | [php-horde-mnemo](/f22/package/php-horde-mnemo) | 514 | 514 | 100.0 | Dutch <kde-i18n-doc@kde.org> | 
+ | [php-horde-nag](/f22/package/php-horde-nag) | 1510 | 1510 | 100.0 | Dutch <kde-i18n-doc@kde.org> | 
+ | [php-horde-passwd](/f22/package/php-horde-passwd) | 155 | 155 | 100.0 | <i18n@lists.horde.org> | 
+ | [php-horde-turba](/f22/package/php-horde-turba) | 1811 | 1811 | 100.0 | Dutch <kde-i18n-doc@kde.org> | 
+ | [pidgin-birthday-reminder](/f22/package/pidgin-birthday-reminder) | 240 | 240 | 100.0 | Dutch <nl@li.org> | 
+ | [pidgin-musictracker](/f22/package/pidgin-musictracker) | 333 | 333 | 100.0 | Dutch <nl@li.org> | 
+ | [pidgin-sipe](/f22/package/pidgin-sipe) | 1010 | 1010 | 100.0 | Dutch (http://www.transifex.com/stefanb/pidgin-sipe/language/nl/) | 
+ | [pioneers](/f22/package/pioneers) | 2989 | 2989 | 100.0 | Bas Wijnen <shevek@fmf.nl> Roland Clobus <rclobus@rclobus.nl> | 
+ | [pitivi](/f22/package/pitivi) | 1463 | 1463 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
+ | [plank](/f22/package/plank) | 184 | 184 | 100.0 | Dutch <nl@li.org> | 
+ | [planner](/f22/package/planner) | 1744 | 1744 | 100.0 | Dutch <nl@li.org> | 
+ | [plasma-breeze](/f22/package/plasma-breeze) | 255 | 255 | 100.0 | Dutch <kde-i18n-nl@kde.org> | 
+ | [plasma-desktop](/f22/package/plasma-desktop) | 12806 | 12806 | 100.0 | Dutch <kde-i18n-nl@kde.org> | 
+ | [plasma-mediacenter](/f22/package/plasma-mediacenter) | 172 | 172 | 100.0 | Dutch <kde-i18n-nl@kde.org> | 
+ | [plasma-milou](/f22/package/plasma-milou) | 33 | 33 | 100.0 | Dutch <kde-i18n-nl@kde.org> | 
+ | [plasma-nm](/f22/package/plasma-nm) | 4014 | 4014 | 100.0 | Dutch <kde-i18n-nl@kde.org> | 
+ | [plasma-oxygen](/f22/package/plasma-oxygen) | 789 | 789 | 100.0 | Dutch <kde-i18n-nl@kde.org> | 
+ | [plasma-pa](/f22/package/plasma-pa) | 69 | 69 | 100.0 | Dutch <kde-i18n-nl@kde.org> | 
+ | [plasma-sdk](/f22/package/plasma-sdk) | 1433 | 1433 | 100.0 | Dutch <kde-i18n-nl@kde.org> | 
+ | [plasma-systemsettings](/f22/package/plasma-systemsettings) | 186 | 186 | 100.0 | Dutch <kde-i18n-nl@kde.org> | 
+ | [plasma-user-manager](/f22/package/plasma-user-manager) | 277 | 277 | 100.0 | Dutch <kde-i18n-nl@kde.org> | 
+ | [plasma-workspace](/f22/package/plasma-workspace) | 11524 | 11524 | 100.0 | Dutch <kde-i18n-nl@kde.org> | 
+ | [pluma](/f22/package/pluma) | 4999 | 4999 | 100.0 | Dutch (http://www.transifex.com/projects/p/MATE/language/nl/) | 
+ | [pmount](/f22/package/pmount) | 723 | 723 | 100.0 | Dutch <nl@li.org> | 
+ | [poedit](/f22/package/poedit) | 2461 | 2461 | 100.0 | Dutch | 
+ | [polkit-kde](/f22/package/polkit-kde) | 94 | 94 | 100.0 | Dutch <kde-i18n-nl@kde.org> | 
+ | [powerdevil](/f22/package/powerdevil) | 543 | 543 | 100.0 | Dutch <kde-i18n-nl@kde.org> | 
+ | [pybliographer](/f22/package/pybliographer) | 939 | 939 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
+ | [pyhoca-gui](/f22/package/pyhoca-gui) | 1838 | 1838 | 100.0 | X2Go i18n <x2go-i18n@lists.x2go.org> | 
+ | [pykickstart](/f22/package/pykickstart) | 448 | 448 | 100.0 | Dutch (http://www.transifex.com/projects/p/pykickstart/language/nl/) | 
+ | [python-django](/f22/package/python-django) | 3484 | 3484 | 100.0 | Dutch (http://www.transifex.com/projects/p/django/language/nl/) | 
+ | [python-django-registration](/f22/package/python-django-registration) | 81 | 81 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [python-django-simple-captcha](/f22/package/python-django-simple-captcha) | 11 | 11 | 100.0 | Leon de Rijke <leon@cmsworks.nl> | 
+ | [python-fedora](/f22/package/python-fedora) | 214 | 214 | 100.0 | Dutch (http://www.transifex.com/projects/p/python-fedora/language/nl/) | 
+ | [python-lettuce](/f22/package/python-lettuce) | 7211 | 7211 | 100.0 |  | 
+ | [python-meh](/f22/package/python-meh) | 109 | 109 | 100.0 | Dutch (http://www.transifex.com/projects/p/python-meh/language/nl/) | 
+ | [qalculate-gtk](/f22/package/qalculate-gtk) | 2342 | 2342 | 100.0 | <kde-i18n-nl@kde.org.> | 
+ | [qalculate-kde](/f22/package/qalculate-kde) | 1420 | 1420 | 100.0 | <kde-i18n-nl@kde.org.> | 
+ | [qt-recordmydesktop](/f22/package/qt-recordmydesktop) | 816 | 816 | 100.0 | Dutch | 
+ | [qtwebkit](/f22/package/qtwebkit) | 1404 | 1404 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
+ | [quadrapassel](/f22/package/quadrapassel) | 4683 | 4683 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
+ | [rawstudio](/f22/package/rawstudio) | 1617 | 1617 | 100.0 | Rawstudio development <rawstudio-dev@rawstudio.org> | 
+ | [recutils](/f22/package/recutils) | 1867 | 1867 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
+ | [redhat-menus](/f22/package/redhat-menus) | 261 | 261 | 100.0 | Dutch <vertaling@nl.linux.org> | 
+ | [rekonq](/f22/package/rekonq) | 2202 | 2202 | 100.0 | Dutch <kde-i18n-nl@kde.org> | 
+ | [renameutils](/f22/package/renameutils) | 265 | 265 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
+ | [rhnsd](/f22/package/rhnsd) | 37 | 37 | 100.0 | Dutch (http://www.transifex.com/projects/p/fedora/language/nl/) | 
+ | [rhythmbox](/f22/package/rhythmbox) | 3719 | 3719 | 100.0 | Dutch <gnome-nl-list@gnome.org> | 
+ | [ristretto](/f22/package/ristretto) | 741 | 741 | 100.0 | Dutch (http://www.transifex.com/projects/p/xfce-apps/language/nl/) | 
+ | [rkward](/f22/package/rkward) | 34160 | 34160 | 100.0 | Dutch <kde-i18n-nl@kde.org> | 
+ | [rsibreak](/f22/package/rsibreak) | 1304 | 1304 | 100.0 | Dutch <kde-i18n-nl@kde.org> | 
+ | [rygel](/f22/package/rygel) | 556 | 556 | 100.0 | Dutch <gnome-nl-list@gnome.org> | 
+ | [sane-backends](/f22/package/sane-backends) | 4907 | 4907 | 100.0 | American English <sane-devel@lists.alioth.debian.org> | 
+ | [sddm-kcm](/f22/package/sddm-kcm) | 62 | 62 | 100.0 | Dutch <kde-i18n-nl@kde.org> | 
+ | [seahorse](/f22/package/seahorse) | 2486 | 2486 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
+ | [setroubleshoot](/f22/package/setroubleshoot) | 656 | 656 | 100.0 | Dutch (http://www.transifex.com/projects/p/fedora/language/nl/) | 
+ | [setroubleshoot-plugins](/f22/package/setroubleshoot-plugins) | 9830 | 9830 | 100.0 | Dutch (http://www.transifex.com/projects/p/fedora/language/nl/) | 
+ | [setuptool](/f22/package/setuptool) | 55 | 55 | 100.0 | Fedora | 
+ | [shotwell](/f22/package/shotwell) | 4483 | 4483 | 100.0 | Dutch <vertaling@vrijschrift.org>
 nl/) | 
- | [shutter]({{< ref "/f22/package/shutter.md" >}}) | 3093 | 3093 | 100.0 | Dutch <nl@li.org> | 
- | [simple-ccsm]({{< ref "/f22/package/simple-ccsm.md" >}}) | 67 | 67 | 100.0 | LANGUAGE <LL@li.org> | 
- | [skanlite]({{< ref "/f22/package/skanlite.md" >}}) | 183 | 183 | 100.0 | Dutch <kde-i18n-nl@kde.org> | 
- | [smb4k]({{< ref "/f22/package/smb4k.md" >}}) | 6705 | 6705 | 100.0 | Dutch <kde-i18n-nl@kde.org> | 
- | [smuxi]({{< ref "/f22/package/smuxi.md" >}}) | 2476 | 2476 | 100.0 | Dutch (http://www.transifex.com/projects/p/smuxi/language/nl/) | 
- | [snapper]({{< ref "/f22/package/snapper.md" >}}) | 639 | 639 | 100.0 | Dutch <opensuse-nl@opensuse.org> | 
- | [snownews]({{< ref "/f22/package/snownews.md" >}}) | 791 | 791 | 100.0 | Dutch <nl@li.org> | 
- | [solfege]({{< ref "/f22/package/solfege.md" >}}) | 10082 | 10082 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
- | [sos]({{< ref "/f22/package/sos.md" >}}) | 267 | 267 | 100.0 | Fedora | 
- | [soundconverter]({{< ref "/f22/package/soundconverter.md" >}}) | 388 | 388 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
- | [sparkleshare]({{< ref "/f22/package/sparkleshare.md" >}}) | 402 | 402 | 100.0 |  | 
- | [squirrelmail]({{< ref "/f22/package/squirrelmail.md" >}}) | 14671 | 14671 | 100.0 | Dutch <squirrelmail-i18n@lists.sourceforge.net> | 
- | [sugar]({{< ref "/f22/package/sugar.md" >}}) | 2154 | 2154 | 100.0 | LANGUAGE <LL@li.org> | 
- | [sugar-abacus]({{< ref "/f22/package/sugar-abacus.md" >}}) | 34 | 34 | 100.0 | LANGUAGE <LL@li.org> | 
- | [sugar-base]({{< ref "/f22/package/sugar-base.md" >}}) | 5 | 5 | 100.0 | LANGUAGE <LL@li.org> | 
- | [sugar-browse]({{< ref "/f22/package/sugar-browse.md" >}}) | 189 | 189 | 100.0 | LANGUAGE <LL@li.org> | 
- | [sugar-calculator]({{< ref "/f22/package/sugar-calculator.md" >}}) | 871 | 871 | 100.0 | English | 
- | [sugar-chat]({{< ref "/f22/package/sugar-chat.md" >}}) | 55 | 55 | 100.0 | LANGUAGE <LL@li.org> | 
- | [sugar-clock]({{< ref "/f22/package/sugar-clock.md" >}}) | 59 | 59 | 100.0 | LANGUAGE <LL@li.org> | 
- | [sugar-connect]({{< ref "/f22/package/sugar-connect.md" >}}) | 36 | 36 | 100.0 | LANGUAGE <LL@li.org> | 
- | [sugar-deducto]({{< ref "/f22/package/sugar-deducto.md" >}}) | 109 | 109 | 100.0 | LANGUAGE <LL@li.org> | 
- | [sugar-finance]({{< ref "/f22/package/sugar-finance.md" >}}) | 164 | 164 | 100.0 | LANGUAGE <LL@li.org> | 
- | [sugar-flip]({{< ref "/f22/package/sugar-flip.md" >}}) | 17 | 17 | 100.0 | LANGUAGE <LL@li.org> | 
- | [sugar-fototoon]({{< ref "/f22/package/sugar-fototoon.md" >}}) | 77 | 77 | 100.0 | LANGUAGE <LL@li.org> | 
- | [sugar-fractionbounce]({{< ref "/f22/package/sugar-fractionbounce.md" >}}) | 68 | 68 | 100.0 | LANGUAGE <LL@li.org> | 
- | [sugar-getiabooks]({{< ref "/f22/package/sugar-getiabooks.md" >}}) | 119 | 119 | 100.0 | LANGUAGE <LL@li.org> | 
- | [sugar-imageviewer]({{< ref "/f22/package/sugar-imageviewer.md" >}}) | 51 | 51 | 100.0 | LANGUAGE <LL@li.org> | 
- | [sugar-implode]({{< ref "/f22/package/sugar-implode.md" >}}) | 77 | 77 | 100.0 | LANGUAGE <LL@li.org> | 
- | [sugar-infoslicer]({{< ref "/f22/package/sugar-infoslicer.md" >}}) | 236 | 236 | 100.0 | LANGUAGE <LL@li.org> | 
- | [sugar-jukebox]({{< ref "/f22/package/sugar-jukebox.md" >}}) | 65 | 65 | 100.0 | LANGUAGE <LL@li.org> | 
- | [sugar-labyrinth]({{< ref "/f22/package/sugar-labyrinth.md" >}}) | 281 | 281 | 100.0 | LANGUAGE <LL@li.org> | 
- | [sugar-locosugar]({{< ref "/f22/package/sugar-locosugar.md" >}}) | 74 | 74 | 100.0 | LANGUAGE <LL@li.org> | 
- | [sugar-log]({{< ref "/f22/package/sugar-log.md" >}}) | 98 | 98 | 100.0 | LANGUAGE <LL@li.org> | 
- | [sugar-maze]({{< ref "/f22/package/sugar-maze.md" >}}) | 7 | 7 | 100.0 | LANGUAGE <LL@li.org> | 
- | [sugar-measure]({{< ref "/f22/package/sugar-measure.md" >}}) | 155 | 155 | 100.0 | LANGUAGE <LL@li.org> | 
- | [sugar-memorize]({{< ref "/f22/package/sugar-memorize.md" >}}) | 142 | 142 | 100.0 | LANGUAGE <LL@li.org> | 
- | [sugar-moon]({{< ref "/f22/package/sugar-moon.md" >}}) | 117 | 117 | 100.0 | LANGUAGE <LL@li.org> | 
- | [sugar-nutrition]({{< ref "/f22/package/sugar-nutrition.md" >}}) | 192 | 192 | 100.0 | LANGUAGE <LL@li.org> | 
- | [sugar-paint]({{< ref "/f22/package/sugar-paint.md" >}}) | 96 | 96 | 100.0 | LANGUAGE <LL@li.org> | 
- | [sugar-physics]({{< ref "/f22/package/sugar-physics.md" >}}) | 86 | 86 | 100.0 | LANGUAGE <LL@li.org> | 
- | [sugar-pippy]({{< ref "/f22/package/sugar-pippy.md" >}}) | 109 | 109 | 100.0 | LANGUAGE <LL@li.org> | 
- | [sugar-playgo]({{< ref "/f22/package/sugar-playgo.md" >}}) | 85 | 85 | 100.0 | LANGUAGE <LL@li.org> | 
- | [sugar-portfolio]({{< ref "/f22/package/sugar-portfolio.md" >}}) | 60 | 60 | 100.0 | LANGUAGE <LL@li.org> | 
- | [sugar-pukllanapac]({{< ref "/f22/package/sugar-pukllanapac.md" >}}) | 10 | 10 | 100.0 | LANGUAGE <LL@li.org> | 
- | [sugar-read]({{< ref "/f22/package/sugar-read.md" >}}) | 124 | 124 | 100.0 | LANGUAGE <LL@li.org> | 
- | [sugar-record]({{< ref "/f22/package/sugar-record.md" >}}) | 62 | 62 | 100.0 | LANGUAGE <LL@li.org> | 
- | [sugar-ruler]({{< ref "/f22/package/sugar-ruler.md" >}}) | 29 | 29 | 100.0 | Dutch | 
- | [sugar-speak]({{< ref "/f22/package/sugar-speak.md" >}}) | 227 | 227 | 100.0 | LANGUAGE <LL@li.org> | 
- | [sugar-story]({{< ref "/f22/package/sugar-story.md" >}}) | 24 | 24 | 100.0 | LANGUAGE <LL@li.org> | 
- | [sugar-terminal]({{< ref "/f22/package/sugar-terminal.md" >}}) | 15 | 15 | 100.0 | LANGUAGE <LL@li.org> | 
- | [sugar-toolkit]({{< ref "/f22/package/sugar-toolkit.md" >}}) | 73 | 73 | 100.0 | LANGUAGE <LL@li.org> | 
- | [sugar-toolkit-gtk3]({{< ref "/f22/package/sugar-toolkit-gtk3.md" >}}) | 156 | 156 | 100.0 | LANGUAGE <LL@li.org> | 
- | [sugar-turtleart]({{< ref "/f22/package/sugar-turtleart.md" >}}) | 1574 | 1574 | 100.0 | LANGUAGE <LL@li.org> | 
- | [sugar-typing-turtle]({{< ref "/f22/package/sugar-typing-turtle.md" >}}) | 599 | 599 | 100.0 | LANGUAGE <LL@li.org> | 
- | [sugar-visualmatch]({{< ref "/f22/package/sugar-visualmatch.md" >}}) | 161 | 161 | 100.0 | LANGUAGE <LL@li.org> | 
- | [sugar-write]({{< ref "/f22/package/sugar-write.md" >}}) | 121 | 121 | 100.0 | LANGUAGE <LL@li.org> | 
- | [sugar-xoeditor]({{< ref "/f22/package/sugar-xoeditor.md" >}}) | 29 | 29 | 100.0 | LANGUAGE <LL@li.org> | 
- | [sugar-yupana]({{< ref "/f22/package/sugar-yupana.md" >}}) | 30 | 30 | 100.0 | LANGUAGE <LL@li.org> | 
- | [sushi]({{< ref "/f22/package/sushi.md" >}}) | 24 | 24 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
- | [swell-foop]({{< ref "/f22/package/swell-foop.md" >}}) | 4683 | 4683 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
- | [switchdesk]({{< ref "/f22/package/switchdesk.md" >}}) | 139 | 139 | 100.0 | Dutch <fedora-trans-list@redhat.com> | 
- | [syncevolution]({{< ref "/f22/package/syncevolution.md" >}}) | 1132 | 1132 | 100.0 | Dutch (http://www.transifex.net/projects/p/meego/team/nl/) | 
- | [sysstat]({{< ref "/f22/package/sysstat.md" >}}) | 610 | 610 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
- | [system-config-audit]({{< ref "/f22/package/system-config-audit.md" >}}) | 1241 | 1241 | 100.0 | Dutch (http://www.transifex.com/projects/p/fedora/language/nl/) | 
- | [system-config-bind]({{< ref "/f22/package/system-config-bind.md" >}}) | 9419 | 9419 | 100.0 | nl <nl@li.org> | 
- | [system-config-date]({{< ref "/f22/package/system-config-date.md" >}}) | 1850 | 1850 | 100.0 | Dutch (http://www.transifex.com/projects/p/fedora/language/nl/) | 
- | [system-config-firewall]({{< ref "/f22/package/system-config-firewall.md" >}}) | 2814 | 2814 | 100.0 | Fedora | 
- | [system-config-httpd]({{< ref "/f22/package/system-config-httpd.md" >}}) | 867 | 867 | 100.0 | Fedora | 
- | [system-config-keyboard]({{< ref "/f22/package/system-config-keyboard.md" >}}) | 187 | 187 | 100.0 | Fedora | 
- | [system-config-kickstart]({{< ref "/f22/package/system-config-kickstart.md" >}}) | 1144 | 1144 | 100.0 | Dutch (http://www.transifex.com/projects/p/system-config-kickstart/language/nl/) | 
- | [system-config-nfs]({{< ref "/f22/package/system-config-nfs.md" >}}) | 332 | 332 | 100.0 | Dutch (http://www.transifex.com/projects/p/fedora/language/nl/) | 
- | [system-config-nfs-docs]({{< ref "/f22/package/system-config-nfs-docs.md" >}}) | 1192 | 1192 | 100.0 | Fedora | 
- | [system-config-printer]({{< ref "/f22/package/system-config-printer.md" >}}) | 3158 | 3158 | 100.0 | Dutch (http://www.transifex.com/projects/p/system-config-printer/language/nl/) | 
- | [system-config-rootpassword]({{< ref "/f22/package/system-config-rootpassword.md" >}}) | 116 | 116 | 100.0 | Dutch <fedora-trans-list@redhat.com> | 
- | [system-config-samba]({{< ref "/f22/package/system-config-samba.md" >}}) | 571 | 571 | 100.0 | Dutch (http://www.transifex.net/projects/p/fedora/language/nl/) | 
- | [system-config-samba-docs]({{< ref "/f22/package/system-config-samba-docs.md" >}}) | 1195 | 1195 | 100.0 | Fedora | 
- | [system-config-services-docs]({{< ref "/f22/package/system-config-services-docs.md" >}}) | 638 | 638 | 100.0 | Fedora | 
- | [system-config-users-docs]({{< ref "/f22/package/system-config-users-docs.md" >}}) | 1061 | 1061 | 100.0 | Fedora | 
- | [system-switch-java]({{< ref "/f22/package/system-switch-java.md" >}}) | 81 | 81 | 100.0 | Fedora | 
- | [system-switch-mail]({{< ref "/f22/package/system-switch-mail.md" >}}) | 158 | 158 | 100.0 | <nl@li.org> | 
- | [tali]({{< ref "/f22/package/tali.md" >}}) | 4683 | 4683 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
- | [tellico]({{< ref "/f22/package/tellico.md" >}}) | 5790 | 5790 | 100.0 | Dutch <kde-i18n-nl@kde.org> | 
- | [texinfo]({{< ref "/f22/package/texinfo.md" >}}) | 6272 | 6272 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
- | [thunar-archive-plugin]({{< ref "/f22/package/thunar-archive-plugin.md" >}}) | 86 | 86 | 100.0 | Dutch (Flemish) | 
- | [thunar-media-tags-plugin]({{< ref "/f22/package/thunar-media-tags-plugin.md" >}}) | 156 | 156 | 100.0 | Dutch (Flemish) | 
- | [thunar-volman]({{< ref "/f22/package/thunar-volman.md" >}}) | 487 | 487 | 100.0 | Dutch (http://www.transifex.com/projects/p/xfce/language/nl/) | 
- | [tigervnc]({{< ref "/f22/package/tigervnc.md" >}}) | 675 | 675 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
- | [tomboy]({{< ref "/f22/package/tomboy.md" >}}) | 3278 | 3278 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
- | [totem]({{< ref "/f22/package/totem.md" >}}) | 1449 | 1449 | 100.0 | Dutch <gnome-nl-list@gnome.org> | 
- | [totem-pl-parser]({{< ref "/f22/package/totem-pl-parser.md" >}}) | 28 | 28 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
- | [tracker]({{< ref "/f22/package/tracker.md" >}}) | 3167 | 3167 | 100.0 | Dutch <gnome-nl-list@gnome.org> | 
- | [transmission]({{< ref "/f22/package/transmission.md" >}}) | 1809 | 1809 | 100.0 | Ubuntu Dutch Translators | 
- | [trojita]({{< ref "/f22/package/trojita.md" >}}) | 3883 | 3883 | 100.0 | Dutch <kde-i18n-nl@kde.org> | 
- | [tumbler]({{< ref "/f22/package/tumbler.md" >}}) | 278 | 278 | 100.0 | Dutch (http://www.transifex.com/projects/p/xfce/language/nl/) | 
- | [tuxpaint]({{< ref "/f22/package/tuxpaint.md" >}}) | 1591 | 1591 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
- | [ultimatestunts]({{< ref "/f22/package/ultimatestunts.md" >}}) | 590 | 590 | 100.0 | Dutch <cornware-cjp@users.sourceforge.net> | 
- | [usermode]({{< ref "/f22/package/usermode.md" >}}) | 573 | 573 | 100.0 | Dutch (http://www.transifex.com/projects/p/fedora/language/nl/) | 
- | [valyriatear]({{< ref "/f22/package/valyriatear.md" >}}) | 9867 | 9867 | 100.0 | Dutch (Netherlands) (http://www.transifex.com/projects/p/valyria-tear/language/nl_NL/) | 
- | [vdr-iptv]({{< ref "/f22/package/vdr-iptv.md" >}}) | 191 | 191 | 100.0 | Dutch <vdr@linuxtv.org> | 
- | [vim]({{< ref "/f22/package/vim.md" >}}) | 5625 | 5625 | 100.0 | Dutch <vertaling@vrijschrift.nl> | 
- | [vinagre]({{< ref "/f22/package/vinagre.md" >}}) | 1419 | 1419 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
- | [vino]({{< ref "/f22/package/vino.md" >}}) | 1228 | 1228 | 100.0 | Dutch <vertaling@nl.linux.org> | 
- | [virt-top]({{< ref "/f22/package/virt-top.md" >}}) | 361 | 361 | 100.0 | Dutch <> | 
- | [virtaal]({{< ref "/f22/package/virtaal.md" >}}) | 1433 | 1433 | 100.0 | TOMTT (Tom's One-Man Translation Team) | 
- | [volume_key]({{< ref "/f22/package/volume_key.md" >}}) | 745 | 745 | 100.0 | Dutch (http://www.transifex.com/projects/p/fedora/language/nl/) | 
- | [vte]({{< ref "/f22/package/vte.md" >}}) | 80 | 80 | 100.0 | Dutch <vertaling@nl.linux.org> | 
- | [vte291]({{< ref "/f22/package/vte291.md" >}}) | 80 | 80 | 100.0 | Dutch <vertaling@nl.linux.org> | 
- | [vte3]({{< ref "/f22/package/vte3.md" >}}) | 80 | 80 | 100.0 | Dutch <vertaling@nl.linux.org> | 
- | [wammu]({{< ref "/f22/package/wammu.md" >}}) | 5230 | 5230 | 100.0 | Dutch <https://hosted.weblate.org/projects/gammu/wammu-doc/nl/> | 
- | [watchdog]({{< ref "/f22/package/watchdog.md" >}}) | 97 | 97 | 100.0 | debian-l10n-dutch <debian-l10n-dutch@lists.debian.org> | 
- | [wcd]({{< ref "/f22/package/wcd.md" >}}) | 8003 | 8003 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
- | [wdiff]({{< ref "/f22/package/wdiff.md" >}}) | 993 | 993 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
- | [wicd]({{< ref "/f22/package/wicd.md" >}}) | 1138 | 1138 | 100.0 | nl <LL@li.org> | 
- | [wicd-kde]({{< ref "/f22/package/wicd-kde.md" >}}) | 358 | 358 | 100.0 | Dutch <kde-i18n-nl@kde.org> | 
- | [widelands]({{< ref "/f22/package/widelands.md" >}}) | 34294 | 34294 | 100.0 | Dutch <nl@li.org> | 
- | [wireshark]({{< ref "/f22/package/wireshark.md" >}}) | 79 | 79 | 100.0 | Debian l10n Dutch <debian-l10n-dutch@lists.debian.org> | 
- | [workrave]({{< ref "/f22/package/workrave.md" >}}) | 1321 | 1321 | 100.0 | Raymond Penners <raymond@dotsphinx.com> | 
- | [wxGTK]({{< ref "/f22/package/wxGTK.md" >}}) | 6679 | 6679 | 100.0 | wxWidgets translators <wx-translators@wxwidgets.org> | 
- | [xcdroast]({{< ref "/f22/package/xcdroast.md" >}}) | 8044 | 8044 | 100.0 | Dutch <eric.hameleers@sox.homeip.net> | 
- | [xconvers]({{< ref "/f22/package/xconvers.md" >}}) | 278 | 278 | 100.0 | nl <pg4i@amsat.org> | 
- | [xdg-user-dirs]({{< ref "/f22/package/xdg-user-dirs.md" >}}) | 28 | 28 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
- | [xdg-user-dirs-gtk]({{< ref "/f22/package/xdg-user-dirs-gtk.md" >}}) | 81 | 81 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
- | [xfbib]({{< ref "/f22/package/xfbib.md" >}}) | 342 | 342 | 100.0 | Dutch (Flemish) | 
- | [xfburn]({{< ref "/f22/package/xfburn.md" >}}) | 1375 | 1375 | 100.0 | Dutch (http://www.transifex.com/projects/p/xfce-apps/language/nl/) | 
- | [xfce4-appfinder]({{< ref "/f22/package/xfce4-appfinder.md" >}}) | 322 | 322 | 100.0 | Dutch (http://www.transifex.com/projects/p/xfce/language/nl/) | 
- | [xfce4-battery-plugin]({{< ref "/f22/package/xfce4-battery-plugin.md" >}}) | 149 | 149 | 100.0 | Dutch/Flemish | 
- | [xfce4-clipman-plugin]({{< ref "/f22/package/xfce4-clipman-plugin.md" >}}) | 399 | 399 | 100.0 | Dutch (http://www.transifex.com/projects/p/xfce/language/nl/) | 
- | [xfce4-cpufreq-plugin]({{< ref "/f22/package/xfce4-cpufreq-plugin.md" >}}) | 140 | 140 | 100.0 | Dutch (http://www.transifex.com/projects/p/xfce/language/nl/) | 
- | [xfce4-cpugraph-plugin]({{< ref "/f22/package/xfce4-cpugraph-plugin.md" >}}) | 76 | 76 | 100.0 | Dutch (Flemish) | 
- | [xfce4-datetime-plugin]({{< ref "/f22/package/xfce4-datetime-plugin.md" >}}) | 52 | 52 | 100.0 | Dutch (Flemish) | 
- | [xfce4-dict]({{< ref "/f22/package/xfce4-dict.md" >}}) | 519 | 519 | 100.0 | Dutch (http://www.transifex.com/projects/p/xfce-apps/language/nl/) | 
- | [xfce4-diskperf-plugin]({{< ref "/f22/package/xfce4-diskperf-plugin.md" >}}) | 183 | 183 | 100.0 | Dutch (Flemish) | 
- | [xfce4-embed-plugin]({{< ref "/f22/package/xfce4-embed-plugin.md" >}}) | 219 | 219 | 100.0 | Dutch (Flemish) | 
- | [xfce4-eyes-plugin]({{< ref "/f22/package/xfce4-eyes-plugin.md" >}}) | 15 | 15 | 100.0 | Dutch (Flemish) | 
- | [xfce4-fsguard-plugin]({{< ref "/f22/package/xfce4-fsguard-plugin.md" >}}) | 71 | 71 | 100.0 | Dutch (Flemish) | 
- | [xfce4-genmon-plugin]({{< ref "/f22/package/xfce4-genmon-plugin.md" >}}) | 85 | 85 | 100.0 | Dutch (Flemish) | 
- | [xfce4-hardware-monitor-plugin]({{< ref "/f22/package/xfce4-hardware-monitor-plugin.md" >}}) | 356 | 356 | 100.0 | Dutch <vertaling@nl.linux.org> | 
- | [xfce4-mailwatch-plugin]({{< ref "/f22/package/xfce4-mailwatch-plugin.md" >}}) | 685 | 685 | 100.0 | Dutch (http://www.transifex.com/projects/p/xfce/language/nl/) | 
- | [xfce4-mixer]({{< ref "/f22/package/xfce4-mixer.md" >}}) | 181 | 181 | 100.0 | Dutch (Flemish) | 
- | [xfce4-mount-plugin]({{< ref "/f22/package/xfce4-mount-plugin.md" >}}) | 362 | 362 | 100.0 | Dutch (http://www.transifex.com/projects/p/xfce-panel-plugins/language/nl/) | 
- | [xfce4-mpc-plugin]({{< ref "/f22/package/xfce4-mpc-plugin.md" >}}) | 76 | 76 | 100.0 | Dutch (http://www.transifex.com/projects/p/xfce/language/nl/) | 
- | [xfce4-netload-plugin]({{< ref "/f22/package/xfce4-netload-plugin.md" >}}) | 92 | 92 | 100.0 | Dutch (http://www.transifex.com/projects/p/xfce-panel-plugins/language/nl/) | 
- | [xfce4-notes-plugin]({{< ref "/f22/package/xfce4-notes-plugin.md" >}}) | 163 | 163 | 100.0 | Dutch (http://www.transifex.com/projects/p/xfce/language/nl/) | 
- | [xfce4-notifyd]({{< ref "/f22/package/xfce4-notifyd.md" >}}) | 98 | 98 | 100.0 | Dutch (Flemish) | 
- | [xfce4-panel]({{< ref "/f22/package/xfce4-panel.md" >}}) | 1705 | 1705 | 100.0 | Dutch (http://www.transifex.com/projects/p/xfce4-panel/language/nl/) | 
- | [xfce4-places-plugin]({{< ref "/f22/package/xfce4-places-plugin.md" >}}) | 160 | 160 | 100.0 | Dutch (http://www.transifex.com/projects/p/xfce/language/nl/) | 
- | [xfce4-power-manager]({{< ref "/f22/package/xfce4-power-manager.md" >}}) | 979 | 979 | 100.0 | Dutch (http://www.transifex.com/projects/p/xfce4-power-manager/language/nl/) | 
- | [xfce4-screenshooter]({{< ref "/f22/package/xfce4-screenshooter.md" >}}) | 550 | 550 | 100.0 | Dutch (http://www.transifex.com/projects/p/xfce-apps/language/nl/) | 
- | [xfce4-sensors-plugin]({{< ref "/f22/package/xfce4-sensors-plugin.md" >}}) | 354 | 354 | 100.0 | Dutch (Flemish) | 
- | [xfce4-session]({{< ref "/f22/package/xfce4-session.md" >}}) | 1066 | 1066 | 100.0 | Dutch (http://www.transifex.com/projects/p/xfce/language/nl/) | 
- | [xfce4-settings]({{< ref "/f22/package/xfce4-settings.md" >}}) | 1600 | 1600 | 100.0 | Dutch (http://www.transifex.com/projects/p/xfce4-settings/language/nl/) | 
- | [xfce4-smartbookmark-plugin]({{< ref "/f22/package/xfce4-smartbookmark-plugin.md" >}}) | 22 | 22 | 100.0 | Dutch (Flemish) | 
- | [xfce4-systemload-plugin]({{< ref "/f22/package/xfce4-systemload-plugin.md" >}}) | 75 | 75 | 100.0 | Dutch (http://www.transifex.com/projects/p/xfce-panel-plugins/language/nl/) | 
- | [xfce4-taskmanager]({{< ref "/f22/package/xfce4-taskmanager.md" >}}) | 223 | 223 | 100.0 | Dutch (http://www.transifex.com/projects/p/xfce-apps/language/nl/) | 
- | [xfce4-terminal]({{< ref "/f22/package/xfce4-terminal.md" >}}) | 1098 | 1098 | 100.0 | Dutch (http://www.transifex.com/projects/p/xfce/language/nl/) | 
- | [xfce4-time-out-plugin]({{< ref "/f22/package/xfce4-time-out-plugin.md" >}}) | 88 | 88 | 100.0 | Dutch (Flemish) | 
- | [xfce4-verve-plugin]({{< ref "/f22/package/xfce4-verve-plugin.md" >}}) | 47 | 47 | 100.0 | Dutch (http://www.transifex.com/projects/p/xfce/language/nl/) | 
- | [xfce4-wavelan-plugin]({{< ref "/f22/package/xfce4-wavelan-plugin.md" >}}) | 51 | 51 | 100.0 | Dutch (Flemish) | 
- | [xfce4-weather-plugin]({{< ref "/f22/package/xfce4-weather-plugin.md" >}}) | 3668 | 3668 | 100.0 | Dutch (http://www.transifex.com/projects/p/xfce-panel-plugins/language/nl/) | 
- | [xfce4-whiskermenu-plugin]({{< ref "/f22/package/xfce4-whiskermenu-plugin.md" >}}) | 236 | 236 | 100.0 | Dutch (http://www.transifex.com/gottcode/xfce4-whiskermenu-plugin/language/nl/) | 
- | [xfce4-xkb-plugin]({{< ref "/f22/package/xfce4-xkb-plugin.md" >}}) | 43 | 43 | 100.0 | Dutch (http://www.transifex.com/projects/p/xfce/language/nl/) | 
- | [xfconf]({{< ref "/f22/package/xfconf.md" >}}) | 452 | 452 | 100.0 | Dutch (http://www.transifex.com/projects/p/xfconf/language/nl/) | 
- | [xfdesktop]({{< ref "/f22/package/xfdesktop.md" >}}) | 976 | 976 | 100.0 | Dutch (http://www.transifex.com/projects/p/xfdesktop/language/nl/) | 
- | [xfwm4]({{< ref "/f22/package/xfwm4.md" >}}) | 673 | 673 | 100.0 | Dutch (http://www.transifex.com/projects/p/xfwm4/language/nl/) | 
- | [xkeyboard-config]({{< ref "/f22/package/xkeyboard-config.md" >}}) | 3564 | 3564 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
- | [xscreensaver]({{< ref "/f22/package/xscreensaver.md" >}}) | 11024 | 11024 | 100.0 | Nederlands <ubuntu-l10n-nl@lists.ubuntu.com> | 
- | [yakuake]({{< ref "/f22/package/yakuake.md" >}}) | 1520 | 1520 | 100.0 | Dutch <kde-i18n-nl@kde.org> | 
- | [yelp]({{< ref "/f22/package/yelp.md" >}}) | 452 | 452 | 100.0 | Dutch <gnome-nl-list@gnome.org> | 
- | [yelp-xsl]({{< ref "/f22/package/yelp-xsl.md" >}}) | 80 | 80 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
- | [zanshin]({{< ref "/f22/package/zanshin.md" >}}) | 322 | 322 | 100.0 | Dutch <kde-i18n-nl@kde.org> | 
- | [kphotoalbum]({{< ref "/f22/package/kphotoalbum.md" >}}) | 9769 | 9772 | 100.0 | Dutch <kde-i18n-nl@kde.org> | 
- | [gnome-terminal]({{< ref "/f22/package/gnome-terminal.md" >}}) | 2203 | 2204 | 100.0 | Dutch <gnome-nl-list@gnome.org> | 
- | [inkscape]({{< ref "/f22/package/inkscape.md" >}}) | 34650 | 34673 | 99.9 | Dutch | 
- | [wastesedge]({{< ref "/f22/package/wastesedge.md" >}}) | 19975 | 19989 | 99.9 | Dutch <vertaling@nl.linux.org> | 
- | [httping]({{< ref "/f22/package/httping.md" >}}) | 1311 | 1312 | 99.9 | Dutch | 
- | [kmplayer]({{< ref "/f22/package/kmplayer.md" >}}) | 1248 | 1249 | 99.9 | Dutch <kde-i18n-nl@kde.org> | 
- | [geda-gaf]({{< ref "/f22/package/geda-gaf.md" >}}) | 3444 | 3447 | 99.9 | gEDA developers <geda-dev@seul.org> | 
- | [rapid-photo-downloader]({{< ref "/f22/package/rapid-photo-downloader.md" >}}) | 1830 | 1832 | 99.9 | Dutch <nl@li.org> | 
- | [gnucash]({{< ref "/f22/package/gnucash.md" >}}) | 30165 | 30200 | 99.9 | Dutch <vertaling@vrijschrift.org> | 
- | [kdesvn]({{< ref "/f22/package/kdesvn.md" >}}) | 4213 | 4219 | 99.9 | po <kde-i18n-doc@kde.org> | 
- | [gstreamer]({{< ref "/f22/package/gstreamer.md" >}}) | 1914 | 1917 | 99.8 | Dutch <vertaling@vrijschrift.org> | 
- | [mingw-gstreamer]({{< ref "/f22/package/mingw-gstreamer.md" >}}) | 1914 | 1917 | 99.8 | Dutch <vertaling@vrijschrift.org> | 
- | [gnome-settings-daemon]({{< ref "/f22/package/gnome-settings-daemon.md" >}}) | 3723 | 3729 | 99.8 | Dutch <vertaling@vrijschrift.org> | 
- | [regexxer]({{< ref "/f22/package/regexxer.md" >}}) | 466 | 467 | 99.8 | Dutch <vertaling@nl.linux.org> | 
- | [kmess]({{< ref "/f22/package/kmess.md" >}}) | 7439 | 7458 | 99.7 | Dutch <kde-i18n-doc@kde.org> | 
- | [hex-a-hop]({{< ref "/f22/package/hex-a-hop.md" >}}) | 1173 | 1176 | 99.7 | Dutch <nl@li.org> | 
- | [celestia]({{< ref "/f22/package/celestia.md" >}}) | 2270 | 2276 | 99.7 | Dutch <LL@li.org> | 
- | [make]({{< ref "/f22/package/make.md" >}}) | 2280 | 2287 | 99.7 | Dutch <vertaling@vrijschrift.org> | 
- | [gnupg]({{< ref "/f22/package/gnupg.md" >}}) | 8613 | 8640 | 99.7 | Debian Dutch l10n Team <debian-l10n-dutch@lists.debian.org> | 
- | [compat-wxGTK3-gtk2]({{< ref "/f22/package/compat-wxGTK3-gtk2.md" >}}) | 7657 | 7682 | 99.7 | wxWidgets translators <wx-translators@wxwidgets.org> | 
- | [wxGTK3]({{< ref "/f22/package/wxGTK3.md" >}}) | 7657 | 7682 | 99.7 | wxWidgets translators <wx-translators@wxwidgets.org> | 
- | [system-config-network]({{< ref "/f22/package/system-config-network.md" >}}) | 3022 | 3032 | 99.7 | Fedora | 
- | [bangarang]({{< ref "/f22/package/bangarang.md" >}}) | 1203 | 1207 | 99.7 | Dutch <kde-i18n-nl@kde.org> | 
- | [scim]({{< ref "/f22/package/scim.md" >}}) | 1169 | 1173 | 99.7 | Nederlands | 
- | [picard]({{< ref "/f22/package/picard.md" >}}) | 2883 | 2893 | 99.7 | Dutch (http://www.transifex.com/projects/p/musicbrainz/language/nl/) | 
- | [photoprint]({{< ref "/f22/package/photoprint.md" >}}) | 1412 | 1417 | 99.6 | Dutch <> | 
- | [scratch]({{< ref "/f22/package/scratch.md" >}}) | 1463 | 1470 | 99.5 | Dutch <vertaling@vrijschrift.org> | 
- | [gnome-hearts]({{< ref "/f22/package/gnome-hearts.md" >}}) | 407 | 409 | 99.5 | Dutch <nl@li.org> | 
- | [perl-Padre]({{< ref "/f22/package/perl-Padre.md" >}}) | 4236 | 4258 | 99.5 | ddn <ddn123456 at gmail.com> | 
- | [simple-scan]({{< ref "/f22/package/simple-scan.md" >}}) | 577 | 580 | 99.5 | Dutch <nl@li.org> | 
- | [pidgin]({{< ref "/f22/package/pidgin.md" >}}) | 18452 | 18558 | 99.4 | Dutch (http://www.transifex.com/projects/p/pidgin/language/nl/) | 
- | [gnomad2]({{< ref "/f22/package/gnomad2.md" >}}) | 693 | 697 | 99.4 | Dutch <nl@li.org> | 
- | [gstreamer-plugins-base]({{< ref "/f22/package/gstreamer-plugins-base.md" >}}) | 902 | 908 | 99.3 | Dutch <vertaling@vrijschrift.org> | 
- | [mingw-gstreamer-plugins-base]({{< ref "/f22/package/mingw-gstreamer-plugins-base.md" >}}) | 902 | 908 | 99.3 | Dutch <vertaling@vrijschrift.org> | 
- | [libexif]({{< ref "/f22/package/libexif.md" >}}) | 6930 | 6977 | 99.3 | Dutch <vertaling@vrijschrift.org> | 
- | [yumex]({{< ref "/f22/package/yumex.md" >}}) | 987 | 994 | 99.3 | Dutch (http://www.transifex.com/projects/p/yumex/language/nl/) | 
- | [gtk-gnutella]({{< ref "/f22/package/gtk-gnutella.md" >}}) | 16186 | 16308 | 99.3 | Dutch (http://www.transifex.com/gtk-gnutella/gtk-gnutella/language/nl/) | 
- | [ffgtk]({{< ref "/f22/package/ffgtk.md" >}}) | 2382 | 2400 | 99.2 | nl <-> | 
- | [gutenprint]({{< ref "/f22/package/gutenprint.md" >}}) | 11711 | 11801 | 99.2 | Dutch <vertaling@vrijschrift.org> | 
- | [xboard]({{< ref "/f22/package/xboard.md" >}}) | 2553 | 2573 | 99.2 | Dutch <vertaling@vrijschrift.org> | 
- | [osmo]({{< ref "/f22/package/osmo.md" >}}) | 1685 | 1699 | 99.2 |  | 
- | [anaconda]({{< ref "/f22/package/anaconda.md" >}}) | 6659 | 6715 | 99.2 | Dutch (http://www.transifex.com/projects/p/anaconda/language/nl/) | 
- | [python-django-reversion]({{< ref "/f22/package/python-django-reversion.md" >}}) | 118 | 119 | 99.2 | Dutch | 
- | [firewalld]({{< ref "/f22/package/firewalld.md" >}}) | 1558 | 1572 | 99.1 | Dutch (http://www.transifex.com/projects/p/firewalld/language/nl/) | 
- | [abrt]({{< ref "/f22/package/abrt.md" >}}) | 3418 | 3450 | 99.1 | Dutch (http://www.transifex.com/projects/p/fedora-abrt/language/nl/) | 
- | [kcm_systemd]({{< ref "/f22/package/kcm_systemd.md" >}}) | 1372 | 1385 | 99.1 | Dutch <kde-i18n-nl@kde.org> | 
- | [perl-Log-Report]({{< ref "/f22/package/perl-Log-Report.md" >}}) | 527 | 532 | 99.1 |  | 
- | [pidgin-otr]({{< ref "/f22/package/pidgin-otr.md" >}}) | 1054 | 1064 | 99.1 | Paul Wouters <paul@cypherpunks.ca> | 
- | [hugin]({{< ref "/f22/package/hugin.md" >}}) | 7457 | 7528 | 99.1 | American English <kde-i18n-doc@lists.kde.org> | 
- | [grsync]({{< ref "/f22/package/grsync.md" >}}) | 1130 | 1141 | 99.0 |  | 
- | [moin]({{< ref "/f22/package/moin.md" >}}) | 4974 | 5023 | 99.0 |  | 
- | [enigma]({{< ref "/f22/package/enigma.md" >}}) | 9145 | 9237 | 99.0 | Dutch (http://www.transifex.com/projects/p/enigma/language/nl/) | 
- | [vdr]({{< ref "/f22/package/vdr.md" >}}) | 1355 | 1369 | 99.0 | Dutch <vdr@linuxtv.org> | 
- | [kchmviewer]({{< ref "/f22/package/kchmviewer.md" >}}) | 962 | 972 | 99.0 | Dutch <kde-i18n-doc@lists.kde.org> | 
- | [bash]({{< ref "/f22/package/bash.md" >}}) | 11062 | 11178 | 99.0 | Dutch <vertaling@vrijschrift.org> | 
- | [empathy]({{< ref "/f22/package/empathy.md" >}}) | 4159 | 4205 | 98.9 | Dutch <vertaling@vrijschrift.org> | 
- | [audacious]({{< ref "/f22/package/audacious.md" >}}) | 632 | 639 | 98.9 | Dutch (http://www.transifex.com/projects/p/audacious/language/nl/) | 
- | [coreutils]({{< ref "/f22/package/coreutils.md" >}}) | 20235 | 20478 | 98.8 | Dutch <vertaling@vrijschrift.org> | 
- | [kazehakase]({{< ref "/f22/package/kazehakase.md" >}}) | 1835 | 1858 | 98.8 | Dutch | 
- | [system-config-kdump]({{< ref "/f22/package/system-config-kdump.md" >}}) | 866 | 877 | 98.7 | Dutch (http://www.transifex.com/projects/p/fedora/language/nl/) | 
- | [dayplanner]({{< ref "/f22/package/dayplanner.md" >}}) | 1082 | 1096 | 98.7 | Dutch <vertaling@vrijschrift.org> | 
- | [fotoxx]({{< ref "/f22/package/fotoxx.md" >}}) | 3303 | 3346 | 98.7 | Dutch | 
- | [gphoto2]({{< ref "/f22/package/gphoto2.md" >}}) | 1687 | 1709 | 98.7 | Dutch <vertaling@vrijschrift.org> | 
- | [skychart]({{< ref "/f22/package/skychart.md" >}}) | 6326 | 6411 | 98.7 | LazPaint | 
- | [alexandria]({{< ref "/f22/package/alexandria.md" >}}) | 1165 | 1181 | 98.6 | Dutch | 
- | [xlog]({{< ref "/f22/package/xlog.md" >}}) | 1441 | 1462 | 98.6 | NL <nl@li.org> | 
- | [mingw-p11-kit]({{< ref "/f22/package/mingw-p11-kit.md" >}}) | 469 | 476 | 98.5 | Dutch (http://www.transifex.com/projects/p/freedesktop/language/nl/) | 
- | [p11-kit]({{< ref "/f22/package/p11-kit.md" >}}) | 469 | 476 | 98.5 | Dutch (http://www.transifex.com/projects/p/freedesktop/language/nl/) | 
- | [certmonger]({{< ref "/f22/package/certmonger.md" >}}) | 1644 | 1669 | 98.5 | Dutch (http://www.transifex.com/projects/p/certmonger/language/nl/) | 
- | [frescobaldi]({{< ref "/f22/package/frescobaldi.md" >}}) | 14903 | 15134 | 98.5 | Nederlands <> | 
- | [subdownloader]({{< ref "/f22/package/subdownloader.md" >}}) | 952 | 968 | 98.3 | LANGUAGE <LL@li.org> | 
- | [xpad]({{< ref "/f22/package/xpad.md" >}}) | 399 | 406 | 98.3 | Dutch <vertaling@vrijschrift.org> | 
- | [mirage]({{< ref "/f22/package/mirage.md" >}}) | 802 | 817 | 98.2 |  | 
- | [xiphos]({{< ref "/f22/package/xiphos.md" >}}) | 4640 | 4727 | 98.2 | Xiphos-developers <xiphos-developers@lists> | 
- | [pinfo]({{< ref "/f22/package/pinfo.md" >}}) | 315 | 321 | 98.1 | Dutch <nl@li.org> | 
- | [arduino]({{< ref "/f22/package/arduino.md" >}}) | 1881 | 1917 | 98.1 | Dutch | 
- | [gimp]({{< ref "/f22/package/gimp.md" >}}) | 26457 | 26972 | 98.1 | Dutch <vertaling@vrijschrift.org> | 
- | [scummvm]({{< ref "/f22/package/scummvm.md" >}}) | 3377 | 3445 | 98.0 | Ben Castricum <scummvm@bencastricum.nl> | 
- | [listen]({{< ref "/f22/package/listen.md" >}}) | 1745 | 1783 | 97.9 | French <traduc@traduc.org> | 
- | [mail-notification]({{< ref "/f22/package/mail-notification.md" >}}) | 1866 | 1908 | 97.8 | Marcel J. Zwiebel <mj.zwiebel@nonux.nl> | 
- | [blueman]({{< ref "/f22/package/blueman.md" >}}) | 1414 | 1446 | 97.8 | Dutch (http://www.transifex.com/projects/p/MATE/language/nl/) | 
- | [xfce4-timer-plugin]({{< ref "/f22/package/xfce4-timer-plugin.md" >}}) | 131 | 134 | 97.8 | Dutch (http://www.transifex.com/projects/p/xfce/language/nl/) | 
- | [scim-chewing]({{< ref "/f22/package/scim-chewing.md" >}}) | 301 | 308 | 97.7 | Nederlands | 
- | [frepple]({{< ref "/f22/package/frepple.md" >}}) | 2622 | 2683 | 97.7 | frepple | 
- | [glpi]({{< ref "/f22/package/glpi.md" >}}) | 10393 | 10636 | 97.7 | Dutch (Netherlands) (http://www.transifex.com/glpi/GLPI/language/nl_NL/) | 
- | [seahorse-nautilus]({{< ref "/f22/package/seahorse-nautilus.md" >}}) | 411 | 421 | 97.6 | Dutch <vertaling@vrijschrift.org> | 
- | [kBuild]({{< ref "/f22/package/kBuild.md" >}}) | 493 | 505 | 97.6 | Dutch <vertaling@vrijschrift.org> | 
- | [e16]({{< ref "/f22/package/e16.md" >}}) | 2760 | 2828 | 97.6 | Dutch <nl@li.org> | 
- | [im-chooser]({{< ref "/f22/package/im-chooser.md" >}}) | 231 | 237 | 97.5 | LANGUAGE <LL@li.org> | 
- | [boswars]({{< ref "/f22/package/boswars.md" >}}) | 230 | 236 | 97.5 | Dutch <foppe.benedictus@gmail.com> | 
- | [udisks2]({{< ref "/f22/package/udisks2.md" >}}) | 1486 | 1525 | 97.4 | Dutch (http://www.transifex.com/projects/p/udisks/language/nl/) | 
- | [nemiver]({{< ref "/f22/package/nemiver.md" >}}) | 409 | 420 | 97.4 | Dutch <vertaling@vrijschrift.org> | 
- | [warzone2100]({{< ref "/f22/package/warzone2100.md" >}}) | 12870 | 13237 | 97.2 | Dutch <vertaling@vrijschrift.org> | 
- | [dos2unix]({{< ref "/f22/package/dos2unix.md" >}}) | 3806 | 3916 | 97.2 | Dutch <vertaling@vrijschrift.org> | 
- | [k3guitune]({{< ref "/f22/package/k3guitune.md" >}}) | 206 | 212 | 97.2 | Nederlands <nl@li.org> | 
- | [rabbitvcs]({{< ref "/f22/package/rabbitvcs.md" >}}) | 1480 | 1524 | 97.1 | Dutch <vertaling@vrijschrift.org> | 
- | [quodlibet]({{< ref "/f22/package/quodlibet.md" >}}) | 5022 | 5174 | 97.1 | Nederlands <en@li.org> | 
- | [trytond-country]({{< ref "/f22/package/trytond-country.md" >}}) | 6781 | 6993 | 97.0 |  | 
- | [zenity]({{< ref "/f22/package/zenity.md" >}}) | 728 | 751 | 96.9 | Dutch <vertaling@vrijschrift.org> | 
- | [dbmail]({{< ref "/f22/package/dbmail.md" >}}) | 443 | 457 | 96.9 | Debian l10n Dutch <debian-l10n-dutch@lists.debian.org> | 
- | [cracklib]({{< ref "/f22/package/cracklib.md" >}}) | 93 | 96 | 96.9 | Dutch <kde-i18n-nl@kde.org> | 
- | [gweled]({{< ref "/f22/package/gweled.md" >}}) | 151 | 156 | 96.8 | Dutch <nl@li.org> | 
- | [mingw-libgpg-error]({{< ref "/f22/package/mingw-libgpg-error.md" >}}) | 777 | 803 | 96.8 | Dutch <vertaling@vrijschrift.org> | 
- | [libidn]({{< ref "/f22/package/libidn.md" >}}) | 414 | 428 | 96.7 | Dutch <vertaling@vrijschrift.org> | 
- | [imsettings]({{< ref "/f22/package/imsettings.md" >}}) | 425 | 440 | 96.6 | LANGUAGE <LL@li.org> | 
- | [tar]({{< ref "/f22/package/tar.md" >}}) | 3422 | 3543 | 96.6 | Dutch <vertaling@vrijschrift.org> | 
- | [wxPython]({{< ref "/f22/package/wxPython.md" >}}) | 9791 | 10139 | 96.6 | wxWidgets translators <wx-translators@wxwidgets.org> | 
- | [cinnamon-desktop]({{< ref "/f22/package/cinnamon-desktop.md" >}}) | 223 | 231 | 96.5 | Dutch <vertaling@nl.linux.org> | 
- | [gtk+]({{< ref "/f22/package/gtk+.md" >}}) | 195 | 202 | 96.5 | dutch <nl@li.org> | 
- | [lxpanel]({{< ref "/f22/package/lxpanel.md" >}}) | 978 | 1014 | 96.4 | Dutch | 
- | [synaptic]({{< ref "/f22/package/synaptic.md" >}}) | 3116 | 3231 | 96.4 | Dutch <vertaling@vrijschrift.org> | 
- | [libuser]({{< ref "/f22/package/libuser.md" >}}) | 1385 | 1437 | 96.4 | Dutch (http://www.transifex.com/projects/p/fedora/language/nl/) | 
- | [drgeo]({{< ref "/f22/package/drgeo.md" >}}) | 1912 | 1985 | 96.3 | Dutch <vertaling@nl.linux.org> | 
- | [sudo]({{< ref "/f22/package/sudo.md" >}}) | 3348 | 3483 | 96.1 | Dutch <vertaling@vrijschrift.org> | 
- | [sylpheed]({{< ref "/f22/package/sylpheed.md" >}}) | 6826 | 7103 | 96.1 |  | 
- | [sleuthkit]({{< ref "/f22/package/sleuthkit.md" >}}) | 6687 | 6961 | 96.1 | Dutch <vertaling@vrijschrift.org> | 
- | [wput]({{< ref "/f22/package/wput.md" >}}) | 1021 | 1063 | 96.0 | Dutch <nl@li.org> | 
- | [gnome-online-accounts]({{< ref "/f22/package/gnome-online-accounts.md" >}}) | 1111 | 1157 | 96.0 | Dutch <vertaling@vrijschrift.org> | 
- | [gtk2]({{< ref "/f22/package/gtk2.md" >}}) | 11925 | 12423 | 96.0 | Dutch <vertaling@vrijschrift.org> | 
- | [mingw-gtk2]({{< ref "/f22/package/mingw-gtk2.md" >}}) | 11925 | 12423 | 96.0 | Dutch <vertaling@vrijschrift.org> | 
- | [newsbeuter]({{< ref "/f22/package/newsbeuter.md" >}}) | 1287 | 1342 | 95.9 | Dutch <vertalen@vrijschrift.org> | 
- | [gliv]({{< ref "/f22/package/gliv.md" >}}) | 991 | 1034 | 95.8 | Dutch <vertaling@vrijschrift.org> | 
- | [homebank]({{< ref "/f22/package/homebank.md" >}}) | 2049 | 2139 | 95.8 | Dutch <vertaling@nl.linux.org> | 
- | [ufraw]({{< ref "/f22/package/ufraw.md" >}}) | 2079 | 2172 | 95.7 | American English <kde-i18n-doc@kde.org> | 
- | [system-config-services]({{< ref "/f22/package/system-config-services.md" >}}) | 511 | 534 | 95.7 | Dutch (http://www.transifex.com/projects/p/fedora/language/nl/) | 
- | [fetchmail]({{< ref "/f22/package/fetchmail.md" >}}) | 4192 | 4382 | 95.7 | Dutch <vertaling@vrijschrift.org> | 
- | [chemtool]({{< ref "/f22/package/chemtool.md" >}}) | 1132 | 1184 | 95.6 | NONE | 
- | [gdk-pixbuf2]({{< ref "/f22/package/gdk-pixbuf2.md" >}}) | 1288 | 1348 | 95.5 | Dutch <vertaling@vrijschrift.org> | 
- | [mingw-gdk-pixbuf]({{< ref "/f22/package/mingw-gdk-pixbuf.md" >}}) | 1288 | 1348 | 95.5 | Dutch <vertaling@vrijschrift.org> | 
- | [mc]({{< ref "/f22/package/mc.md" >}}) | 3869 | 4053 | 95.5 | Dutch (http://www.transifex.com/projects/p/mc/language/nl/) | 
- | [gnome-libs]({{< ref "/f22/package/gnome-libs.md" >}}) | 1034 | 1085 | 95.3 | Dutch <nl@li.org> | 
- | [openteacher]({{< ref "/f22/package/openteacher.md" >}}) | 3961 | 4157 | 95.3 | LANGUAGE <LL@li.org> | 
- | [gramps]({{< ref "/f22/package/gramps.md" >}}) | 35321 | 37092 | 95.2 | nederlands <frederik.de.richter@gmail.com> | 
- | [ekiga]({{< ref "/f22/package/ekiga.md" >}}) | 3991 | 4192 | 95.2 | Dutch <vertaling@vrijschrift.org> | 
- | [fakeroot]({{< ref "/f22/package/fakeroot.md" >}}) | 1467 | 1543 | 95.1 | Dutch <nl@li.org> | 
- | [libqalculate]({{< ref "/f22/package/libqalculate.md" >}}) | 6428 | 6764 | 95.0 | <kde-i18n-nl@kde.org> | 
- | [mate-panel]({{< ref "/f22/package/mate-panel.md" >}}) | 4987 | 5248 | 95.0 |  | 
- | [sed]({{< ref "/f22/package/sed.md" >}}) | 520 | 548 | 94.9 | Dutch <vertaling@vrijschrift.org> | 
- | [shared-mime-info]({{< ref "/f22/package/shared-mime-info.md" >}}) | 1666 | 1756 | 94.9 | Dutch (http://www.transifex.com/projects/p/shared-mime-info/language/nl/) | 
- | [indent]({{< ref "/f22/package/indent.md" >}}) | 258 | 272 | 94.9 | Dutch <vertaling@vrijschrift.org> | 
- | [libpwquality]({{< ref "/f22/package/libpwquality.md" >}}) | 324 | 343 | 94.5 | Dutch (http://www.transifex.com/projects/p/libpwquality/language/nl/) | 
- | [system-config-users]({{< ref "/f22/package/system-config-users.md" >}}) | 1436 | 1521 | 94.4 | Dutch (http://www.transifex.com/projects/p/fedora/language/nl/) | 
- | [gnutls]({{< ref "/f22/package/gnutls.md" >}}) | 1358 | 1439 | 94.4 | Dutch <vertaling@vrijschrift.org> | 
- | [mingw-gnutls]({{< ref "/f22/package/mingw-gnutls.md" >}}) | 1358 | 1439 | 94.4 | Dutch <vertaling@vrijschrift.org> | 
- | [gwibber]({{< ref "/f22/package/gwibber.md" >}}) | 725 | 769 | 94.3 | Dutch <nl@li.org> | 
- | [pogo]({{< ref "/f22/package/pogo.md" >}}) | 543 | 576 | 94.3 | Dutch <nl@li.org> | 
- | [gallery2]({{< ref "/f22/package/gallery2.md" >}}) | 16745 | 17768 | 94.2 | Dutch <gallery-devel@lists.sourceforge.net> | 
- | [jwm]({{< ref "/f22/package/jwm.md" >}}) | 274 | 291 | 94.2 | Dutch | 
- | [zvbi]({{< ref "/f22/package/zvbi.md" >}}) | 624 | 664 | 94.0 | Dutch <ime@iae.nl> | 
- | [decibel-audio-player]({{< ref "/f22/package/decibel-audio-player.md" >}}) | 1401 | 1494 | 93.8 | Dutch <nl@li.org> | 
- | [mate-applets]({{< ref "/f22/package/mate-applets.md" >}}) | 8037 | 8582 | 93.6 | Dutch <nl@li.org> | 
- | [openbox]({{< ref "/f22/package/openbox.md" >}}) | 473 | 506 | 93.5 | Dutch <vertaling@vrijschrift.org> | 
- | [phpesp]({{< ref "/f22/package/phpesp.md" >}}) | 2083 | 2230 | 93.4 | nl_NL <jflemer@alum.rpi.edu> | 
- | [coccinella]({{< ref "/f22/package/coccinella.md" >}}) | 4996 | 5358 | 93.2 | Dutch | 
- | [mkvtoolnix]({{< ref "/f22/package/mkvtoolnix.md" >}}) | 37281 | 39992 | 93.2 | Nederlands rc1 <bmom43@gmail.com> | 
- | [remmina]({{< ref "/f22/package/remmina.md" >}}) | 1072 | 1150 | 93.2 | Nederlands <> | 
- | [python-nikola]({{< ref "/f22/package/python-nikola.md" >}}) | 68 | 73 | 93.2 | Dutch (http://www.transifex.com/projects/p/nikola/language/nl/) | 
- | [entangle]({{< ref "/f22/package/entangle.md" >}}) | 869 | 934 | 93.0 | Dutch (http://www.transifex.com/projects/p/entangle/language/nl/) | 
- | [vorbis-tools]({{< ref "/f22/package/vorbis-tools.md" >}}) | 3820 | 4109 | 93.0 | Dutch <vertaling@vrijschrift.org> | 
- | [obconf]({{< ref "/f22/package/obconf.md" >}}) | 686 | 738 | 93.0 |  | 
- | [popt]({{< ref "/f22/package/popt.md" >}}) | 78 | 84 | 92.9 | Dutch <vertaling@vrijschrift.org> | 
- | [kid3]({{< ref "/f22/package/kid3.md" >}}) | 1714 | 1850 | 92.6 | Dutch <kde-i18n-doc@kde.org> | 
- | [pavucontrol]({{< ref "/f22/package/pavucontrol.md" >}}) | 219 | 237 | 92.4 | nl <nl@li.org> | 
- | [cherrytree]({{< ref "/f22/package/cherrytree.md" >}}) | 2535 | 2745 | 92.3 | Nederlands <> | 
- | [initscripts]({{< ref "/f22/package/initscripts.md" >}}) | 922 | 1003 | 91.9 | Dutch (http://www.transifex.com/projects/p/fedora/language/nl/) | 
- | [mtpaint]({{< ref "/f22/package/mtpaint.md" >}}) | 2876 | 3131 | 91.9 |  | 
- | [muffin]({{< ref "/f22/package/muffin.md" >}}) | 1870 | 2038 | 91.8 | Dutch <vertaling@vrijschrift.org> | 
- | [gftp]({{< ref "/f22/package/gftp.md" >}}) | 3096 | 3375 | 91.7 | Dutch <vertaling@vrijschrift.org> | 
- | [a2ps]({{< ref "/f22/package/a2ps.md" >}}) | 1384 | 1512 | 91.5 | Dutch <vertaling@vrijschrift.org> | 
- | [mate-session-manager]({{< ref "/f22/package/mate-session-manager.md" >}}) | 607 | 665 | 91.3 | Dutch (http://www.transifex.com/projects/p/MATE/language/nl/) | 
- | [jwhois]({{< ref "/f22/package/jwhois.md" >}}) | 401 | 440 | 91.1 | Dutch <vertaling@nl.linux.org> | 
- | [grub-customizer]({{< ref "/f22/package/grub-customizer.md" >}}) | 1179 | 1295 | 91.0 | Dutch <nl@li.org> | 
- | [gourmet]({{< ref "/f22/package/gourmet.md" >}}) | 3582 | 3939 | 90.9 | Dutch <nl@li.org> | 
- | [ldm]({{< ref "/f22/package/ldm.md" >}}) | 50 | 55 | 90.9 | Dutch <nl@li.org> | 
- | [vdr-epgsearch]({{< ref "/f22/package/vdr-epgsearch.md" >}}) | 2189 | 2419 | 90.5 | Dutch <vdr@linuxtv.org> | 
- | [cpio]({{< ref "/f22/package/cpio.md" >}}) | 1659 | 1837 | 90.3 | Dutch <vertaling@vrijschrift.org> | 
- | [texlive]({{< ref "/f22/package/texlive.md" >}}) | 1101 | 1221 | 90.2 | TL Translation Team <tex-live@tug.org> | 
- | [steadyflow]({{< ref "/f22/package/steadyflow.md" >}}) | 423 | 470 | 90.0 | Dutch <nl@li.org> | 
- | [wget]({{< ref "/f22/package/wget.md" >}}) | 3228 | 3590 | 89.9 | Dutch <vertaling@vrijschrift.org> | 
- | [libextractor]({{< ref "/f22/package/libextractor.md" >}}) | 1765 | 1964 | 89.9 | Dutch <vertaling@vrijschrift.org> | 
- | [scim-tables]({{< ref "/f22/package/scim-tables.md" >}}) | 1003 | 1118 | 89.7 | Nederlands | 
- | [util-linux]({{< ref "/f22/package/util-linux.md" >}}) | 18683 | 20839 | 89.7 | Dutch <vertaling@vrijschrift.org> | 
- | [LabPlot]({{< ref "/f22/package/LabPlot.md" >}}) | 14953 | 16684 | 89.6 | Nederlands <kde-i18n-nl@kde.org.> | 
- | [skrooge]({{< ref "/f22/package/skrooge.md" >}}) | 8798 | 9835 | 89.5 | Dutch <kde-i18n-nl@kde.org> | 
- | [mingw-webkitgtk]({{< ref "/f22/package/mingw-webkitgtk.md" >}}) | 2407 | 2699 | 89.2 | Dutch <vertaling@vrijschrift.org> | 
- | [mingw-webkitgtk3]({{< ref "/f22/package/mingw-webkitgtk3.md" >}}) | 2407 | 2699 | 89.2 | Dutch <vertaling@vrijschrift.org> | 
- | [webkitgtk]({{< ref "/f22/package/webkitgtk.md" >}}) | 2407 | 2699 | 89.2 | Dutch <vertaling@vrijschrift.org> | 
- | [webkitgtk3]({{< ref "/f22/package/webkitgtk3.md" >}}) | 2407 | 2699 | 89.2 | Dutch <vertaling@vrijschrift.org> | 
- | [webkitgtk4]({{< ref "/f22/package/webkitgtk4.md" >}}) | 2407 | 2699 | 89.2 | Dutch <vertaling@vrijschrift.org> | 
- | [backup-manager]({{< ref "/f22/package/backup-manager.md" >}}) | 947 | 1063 | 89.1 | DUTCH | 
- | [ganyremote]({{< ref "/f22/package/ganyremote.md" >}}) | 443 | 500 | 88.6 | Dutch | 
- | [exaile]({{< ref "/f22/package/exaile.md" >}}) | 3547 | 4006 | 88.5 | Dutch <https://hosted.weblate.org/projects/exaile/master/nl/> | 
- | [wine]({{< ref "/f22/package/wine.md" >}}) | 12885 | 14570 | 88.4 | Dutch | 
- | [viewnior]({{< ref "/f22/package/viewnior.md" >}}) | 375 | 425 | 88.2 | Dutch <nl@li.org> | 
- | [thunar-vfs]({{< ref "/f22/package/thunar-vfs.md" >}}) | 341 | 387 | 88.1 | Dutch <xfce-i18n@xfce.org> | 
- | [flaw]({{< ref "/f22/package/flaw.md" >}}) | 74 | 84 | 88.1 | LANGUAGE <LL@li.org> | 
- | [WindowMaker]({{< ref "/f22/package/WindowMaker.md" >}}) | 5015 | 5707 | 87.9 | Dutch | 
- | [gkrellm]({{< ref "/f22/package/gkrellm.md" >}}) | 3321 | 3784 | 87.8 | none <none> | 
- | [poweradmin]({{< ref "/f22/package/poweradmin.md" >}}) | 1836 | 2093 | 87.7 | Dutch (http://www.transifex.net/projects/p/poweradmin/team/nl/) | 
- | [pidgin-guifications]({{< ref "/f22/package/pidgin-guifications.md" >}}) | 442 | 505 | 87.5 | Dutch <nl@li.org> | 
- | [asunder]({{< ref "/f22/package/asunder.md" >}}) | 420 | 480 | 87.5 | <LL@li.org> | 
- | [xfmpc]({{< ref "/f22/package/xfmpc.md" >}}) | 146 | 167 | 87.4 | Dutch (Flemish) | 
- | [slrn]({{< ref "/f22/package/slrn.md" >}}) | 4678 | 5351 | 87.4 | Dutch <nl@li.org> | 
- | [findutils]({{< ref "/f22/package/findutils.md" >}}) | 2446 | 2811 | 87.0 | Dutch <vertaling@vrijschrift.org> | 
- | [l3afpad]({{< ref "/f22/package/l3afpad.md" >}}) | 113 | 130 | 86.9 | Dutch <vertaling@vrijschrift.org> | 
- | [jmol]({{< ref "/f22/package/jmol.md" >}}) | 2741 | 3163 | 86.7 | Dutch <jmol-developer@lists.sf.net> | 
- | [cflow]({{< ref "/f22/package/cflow.md" >}}) | 525 | 606 | 86.6 | Dutch <vertaling@vrijschrift.org> | 
- | [xarchiver]({{< ref "/f22/package/xarchiver.md" >}}) | 979 | 1131 | 86.6 | Dutch <vertaling@vrijschrift.org> | 
- | [xmoto]({{< ref "/f22/package/xmoto.md" >}}) | 3320 | 3839 | 86.5 |  | 
- | [thunar-vcs-plugin]({{< ref "/f22/package/thunar-vcs-plugin.md" >}}) | 435 | 506 | 86.0 | Dutch <xfce-i18n@xfce.org> | 
- | [fgrun]({{< ref "/f22/package/fgrun.md" >}}) | 855 | 995 | 85.9 | Dutch | 
- | [synfig]({{< ref "/f22/package/synfig.md" >}}) | 3573 | 4168 | 85.7 | Dutch (http://www.transifex.com/projects/p/synfig/language/nl/) | 
- | [pspp]({{< ref "/f22/package/pspp.md" >}}) | 8725 | 10247 | 85.1 | Dutch <vertaling@vrijschrift.org> | 
- | [rednotebook]({{< ref "/f22/package/rednotebook.md" >}}) | 976 | 1147 | 85.1 | Dutch <nl@li.org> | 
- | [nodm]({{< ref "/f22/package/nodm.md" >}}) | 214 | 252 | 84.9 | Debian l10n Dutch <debian-l10n-dutch@lists.debian.org> | 
- | [gmusicbrowser]({{< ref "/f22/package/gmusicbrowser.md" >}}) | 4533 | 5348 | 84.8 | Nederlands <gijs.timmers@student.kuleuven.be> | 
- | [xchat]({{< ref "/f22/package/xchat.md" >}}) | 4250 | 5027 | 84.5 | Dutch <vertaling@vrijschrift.org> | 
- | [virt-viewer]({{< ref "/f22/package/virt-viewer.md" >}}) | 584 | 692 | 84.4 | Dutch (http://www.transifex.com/projects/p/virt-viewer/language/nl/) | 
- | [psmisc]({{< ref "/f22/package/psmisc.md" >}}) | 781 | 929 | 84.1 | Dutch <vertaling@vrijschrift.org> | 
- | [pragha]({{< ref "/f22/package/pragha.md" >}}) | 674 | 802 | 84.0 | Dutch (http://www.transifex.com/projects/p/Pragha/language/nl/) | 
- | [libgphoto2]({{< ref "/f22/package/libgphoto2.md" >}}) | 9305 | 11079 | 84.0 | Dutch <vertaling@vrijschrift.org> | 
- | [tortoisehg]({{< ref "/f22/package/tortoisehg.md" >}}) | 10049 | 12026 | 83.6 | Dutch <nl@li.org> | 
- | [mate-backgrounds]({{< ref "/f22/package/mate-backgrounds.md" >}}) | 25 | 30 | 83.3 | Dutch (http://www.transifex.com/projects/p/MATE/language/nl/) | 
- | [fldigi]({{< ref "/f22/package/fldigi.md" >}}) | 5025 | 6051 | 83.0 | Dutch | 
- | [vdr-skinenigmang]({{< ref "/f22/package/vdr-skinenigmang.md" >}}) | 267 | 322 | 82.9 | <vdr@linuxtv.org> | 
- | [pinta]({{< ref "/f22/package/pinta.md" >}}) | 1336 | 1618 | 82.6 | Dutch <nl@li.org> | 
- | [fuse-encfs]({{< ref "/f22/package/fuse-encfs.md" >}}) | 1053 | 1278 | 82.4 | Dutch <nl@li.org> | 
- | [python-django-countries]({{< ref "/f22/package/python-django-countries.md" >}}) | 345 | 419 | 82.3 | Dutch (http://www.transifex.com/projects/p/django-countries/language/nl/) | 
- | [gnome-commander]({{< ref "/f22/package/gnome-commander.md" >}}) | 7005 | 8519 | 82.2 | Dutch <vertaling@vrijschrift.org> | 
- | [PackageKit]({{< ref "/f22/package/PackageKit.md" >}}) | 1046 | 1273 | 82.2 | Dutch (http://www.transifex.com/p/packagekit/language/nl/) | 
- | [drupal6-cck]({{< ref "/f22/package/drupal6-cck.md" >}}) | 1806 | 2198 | 82.2 | Dutch <EMAIL@ADDRESS> | 
- | [nemo-extensions]({{< ref "/f22/package/nemo-extensions.md" >}}) | 538 | 656 | 82.0 | Dutch <nl@li.org> | 
- | [gajim]({{< ref "/f22/package/gajim.md" >}}) | 9721 | 11922 | 81.5 | none | 
- | [gscan2pdf]({{< ref "/f22/package/gscan2pdf.md" >}}) | 1324 | 1624 | 81.5 | Dutch <nl@li.org> | 
- | [grub2]({{< ref "/f22/package/grub2.md" >}}) | 5725 | 7053 | 81.2 | Dutch <vertaling@vrijschrift.org> | 
- | [xdialog]({{< ref "/f22/package/xdialog.md" >}}) | 17 | 21 | 81.0 | Dutch | 
- | [python-colander]({{< ref "/f22/package/python-colander.md" >}}) | 130 | 161 | 80.7 | nl <LL@li.org> | 
- | [quassel]({{< ref "/f22/package/quassel.md" >}}) | 4343 | 5382 | 80.7 | Dutch (http://www.transifex.com/ald/quassel/language/nl/) | 
- | [midori]({{< ref "/f22/package/midori.md" >}}) | 2841 | 3541 | 80.2 | Dutch (Flemish) | 
- | [cinnamon-session]({{< ref "/f22/package/cinnamon-session.md" >}}) | 345 | 432 | 79.9 | Debian l10n Dutch <debian-l10n-dutch@lists.debian.org> | 
- | [redshift]({{< ref "/f22/package/redshift.md" >}}) | 819 | 1026 | 79.8 | Dutch <nl@li.org> | 
- | [openerp7]({{< ref "/f22/package/openerp7.md" >}}) | 51474 | 64698 | 79.6 | Dutch <nl@li.org> | 
- | [openerp]({{< ref "/f22/package/openerp.md" >}}) | 63652 | 80115 | 79.5 |  | 
- | [sonata]({{< ref "/f22/package/sonata.md" >}}) | 900 | 1136 | 79.2 |  | 
- | [librfm]({{< ref "/f22/package/librfm.md" >}}) | 1884 | 2397 | 78.6 | Dutch <vertaling@vrijschrift.org> | 
- | [xmms]({{< ref "/f22/package/xmms.md" >}}) | 2703 | 3443 | 78.5 | <en@li.org> | 
- | [trytond-product]({{< ref "/f22/package/trytond-product.md" >}}) | 339 | 434 | 78.1 |  | 
- | [enscript]({{< ref "/f22/package/enscript.md" >}}) | 1427 | 1833 | 77.9 | Dutch <vertaling@vrijschrift.org> | 
- | [gdesklets]({{< ref "/f22/package/gdesklets.md" >}}) | 1186 | 1528 | 77.6 | Dutch <vertaling@vrijschrift.org> | 
- | [minetest]({{< ref "/f22/package/minetest.md" >}}) | 394 | 513 | 76.8 |  | 
- | [atril]({{< ref "/f22/package/atril.md" >}}) | 2610 | 3411 | 76.5 | Dutch <vertaling@vrijschrift.org> | 
- | [python-sphinx]({{< ref "/f22/package/python-sphinx.md" >}}) | 377 | 493 | 76.5 | Dutch (http://www.transifex.com/projects/p/sphinx-1/language/nl/) | 
- | [scim-array]({{< ref "/f22/package/scim-array.md" >}}) | 79 | 104 | 76.0 | Nederlands | 
- | [trytond-currency]({{< ref "/f22/package/trytond-currency.md" >}}) | 356 | 469 | 75.9 |  | 
- | [compiz]({{< ref "/f22/package/compiz.md" >}}) | 2462 | 3250 | 75.8 | Dutch <nl@li.org> | 
- | [dia]({{< ref "/f22/package/dia.md" >}}) | 4324 | 5711 | 75.7 | Dutch <nl@li.org> | 
- | [evince]({{< ref "/f22/package/evince.md" >}}) | 2495 | 3296 | 75.7 | Dutch <vertaling@vrijschrift.org> | 
- | [gnome-shell-extension-openweather]({{< ref "/f22/package/gnome-shell-extension-openweather.md" >}}) | 374 | 497 | 75.3 |  | 
- | [gphotoframe]({{< ref "/f22/package/gphotoframe.md" >}}) | 992 | 1322 | 75.0 | Dutch (Netherlands) (http://www.transifex.com/projects/p/gphotoframe/language/nl_NL/) | 
- | [gedit-plugins]({{< ref "/f22/package/gedit-plugins.md" >}}) | 902 | 1205 | 74.9 | Dutch <vertaling@vrijschrift.org> | 
- | [deluge]({{< ref "/f22/package/deluge.md" >}}) | 2040 | 2728 | 74.8 | Dutch <nl@li.org> | 
- | [system-config-date-docs]({{< ref "/f22/package/system-config-date-docs.md" >}}) | 568 | 761 | 74.6 | Fedora | 
- | [flare]({{< ref "/f22/package/flare.md" >}}) | 2449 | 3294 | 74.3 | Dutch; Flemish <> | 
- | [efl]({{< ref "/f22/package/efl.md" >}}) | 109 | 147 | 74.1 | Enlightenment Team | 
- | [compiz-plugins-experimental]({{< ref "/f22/package/compiz-plugins-experimental.md" >}}) | 6624 | 8946 | 74.0 | Dutch <nl@li.org> | 
- | [compiz-plugins-extra]({{< ref "/f22/package/compiz-plugins-extra.md" >}}) | 6624 | 8946 | 74.0 | Dutch <nl@li.org> | 
- | [compiz-plugins-main]({{< ref "/f22/package/compiz-plugins-main.md" >}}) | 6624 | 8946 | 74.0 | Dutch <nl@li.org> | 
- | [compiz-plugins-unsupported]({{< ref "/f22/package/compiz-plugins-unsupported.md" >}}) | 6624 | 8946 | 74.0 | Dutch <nl@li.org> | 
- | [genius]({{< ref "/f22/package/genius.md" >}}) | 3931 | 5338 | 73.6 | Dutch <vertaling@nl.linux.org> | 
- | [caja-actions]({{< ref "/f22/package/caja-actions.md" >}}) | 1132 | 1554 | 72.8 | Dutch <vertaling@vrijschrift.org> | 
- | [libgpg-error]({{< ref "/f22/package/libgpg-error.md" >}}) | 925 | 1272 | 72.7 | Dutch <vertaling@vrijschrift.org> | 
- | [nautilus-pastebin]({{< ref "/f22/package/nautilus-pastebin.md" >}}) | 61 | 84 | 72.6 | Dutch <nl@li.org> | 
- | [trytond-dashboard]({{< ref "/f22/package/trytond-dashboard.md" >}}) | 29 | 40 | 72.5 |  | 
- | [xsane]({{< ref "/f22/package/xsane.md" >}}) | 2325 | 3224 | 72.1 | Dutch <nl@li.org> | 
- | [trytond-account-statement]({{< ref "/f22/package/trytond-account-statement.md" >}}) | 121 | 169 | 71.6 |  | 
- | [sflphone]({{< ref "/f22/package/sflphone.md" >}}) | 2259 | 3167 | 71.3 | LANGUAGE <LL@li.org> | 
- | [centerim]({{< ref "/f22/package/centerim.md" >}}) | 2022 | 2864 | 70.6 | Nederlands <i18n@kde.nl> | 
- | [flex]({{< ref "/f22/package/flex.md" >}}) | 796 | 1130 | 70.4 | Dutch <vertaling@vrijschrift.org> | 
- | [trytond-account-invoice]({{< ref "/f22/package/trytond-account-invoice.md" >}}) | 707 | 1006 | 70.3 |  | 
- | [rhn-client-tools]({{< ref "/f22/package/rhn-client-tools.md" >}}) | 2876 | 4103 | 70.1 | Dutch (http://www.transifex.com/projects/p/spacewalk/language/nl/) | 
- | [kanyremote]({{< ref "/f22/package/kanyremote.md" >}}) | 339 | 484 | 70.0 | Dutch | 
- | [mlocate]({{< ref "/f22/package/mlocate.md" >}}) | 406 | 581 | 69.9 | Dutch (http://www.transifex.com/projects/p/fedora/language/nl/) | 
- | [sharutils]({{< ref "/f22/package/sharutils.md" >}}) | 2190 | 3147 | 69.6 | Dutch <vertaling@vrijschrift.org> | 
- | [axel]({{< ref "/f22/package/axel.md" >}}) | 258 | 371 | 69.5 | Dutch <nl@li.org> | 
- | [krecipes]({{< ref "/f22/package/krecipes.md" >}}) | 2602 | 3748 | 69.4 | Dutch <kde-i18n-nl@kde.org> | 
- | [balsa]({{< ref "/f22/package/balsa.md" >}}) | 4277 | 6204 | 68.9 | Dutch <nl@li.org> | 
- | [iok]({{< ref "/f22/package/iok.md" >}}) | 142 | 206 | 68.9 | Fedora | 
- | [gnue-common]({{< ref "/f22/package/gnue-common.md" >}}) | 1454 | 2132 | 68.2 | <en@li.org> | 
- | [NetworkManager-openconnect]({{< ref "/f22/package/NetworkManager-openconnect.md" >}}) | 2489 | 3716 | 67.0 | Dutch (http://www.transifex.com/projects/p/meego/language/nl/) | 
- | [pulsecaster]({{< ref "/f22/package/pulsecaster.md" >}}) | 98 | 147 | 66.7 | nl <LL@li.org> | 
- | [simon]({{< ref "/f22/package/simon.md" >}}) | 7833 | 11816 | 66.3 | Dutch <kde-i18n-nl@kde.org> | 
- | [glib2]({{< ref "/f22/package/glib2.md" >}}) | 3595 | 5433 | 66.2 | Dutch <vertaling@vrijschrift.org> | 
- | [mingw-glib2]({{< ref "/f22/package/mingw-glib2.md" >}}) | 3595 | 5433 | 66.2 | Dutch <vertaling@vrijschrift.org> | 
- | [trytond-party]({{< ref "/f22/package/trytond-party.md" >}}) | 195 | 299 | 65.2 |  | 
- | [libreport]({{< ref "/f22/package/libreport.md" >}}) | 2877 | 4475 | 64.3 | Dutch (http://www.transifex.com/projects/p/libreport/language/nl/) | 
- | [ayttm]({{< ref "/f22/package/ayttm.md" >}}) | 1860 | 2912 | 63.9 | Nederlands <i18n@kde.nl> | 
- | [trytond-account]({{< ref "/f22/package/trytond-account.md" >}}) | 1478 | 2322 | 63.7 |  | 
- | [man-db]({{< ref "/f22/package/man-db.md" >}}) | 6098 | 9589 | 63.6 | Dutch <vertaling@vrijschrift.org> | 
- | [purple-msn-pecan]({{< ref "/f22/package/purple-msn-pecan.md" >}}) | 603 | 960 | 62.8 | Dutch <nl@li.org> | 
- | [kvirc]({{< ref "/f22/package/kvirc.md" >}}) | 11361 | 18095 | 62.8 | Nederlands <kvirc-subscribe@lists.omnikron.net> | 
- | [pyroom]({{< ref "/f22/package/pyroom.md" >}}) | 258 | 411 | 62.8 | Dutch <nl@li.org> | 
- | [mesa]({{< ref "/f22/package/mesa.md" >}}) | 244 | 389 | 62.7 | Dutch <vertaling@nl.linux.org> | 
- | [sectool]({{< ref "/f22/package/sectool.md" >}}) | 1507 | 2411 | 62.5 | Dutch <nl@li.org> | 
- | [clutter]({{< ref "/f22/package/clutter.md" >}}) | 1905 | 3053 | 62.4 | Dutch <nl@li.org> | 
- | [tuxtype2]({{< ref "/f22/package/tuxtype2.md" >}}) | 49 | 80 | 61.3 | LANGUAGE <LL@li.org> | 
- | [pulseaudio]({{< ref "/f22/package/pulseaudio.md" >}}) | 2011 | 3304 | 60.9 | Dutch <vertaling@vrijschrift.org> | 
- | [gpodder]({{< ref "/f22/package/gpodder.md" >}}) | 1136 | 1879 | 60.5 | Dutch (http://www.transifex.com/projects/p/gpodder/language/nl/) | 
- | [gitg]({{< ref "/f22/package/gitg.md" >}}) | 693 | 1154 | 60.1 | Dutch <vertaling@vrijschrift.org> | 
- | [kupfer]({{< ref "/f22/package/kupfer.md" >}}) | 1487 | 2479 | 60.0 | Dutch | 
- | [lilyterm]({{< ref "/f22/package/lilyterm.md" >}}) | 986 | 1648 | 59.8 | Adrian Buyssens <howitzer@archlinux.us> | 
- | [trytond-sale]({{< ref "/f22/package/trytond-sale.md" >}}) | 337 | 564 | 59.8 |  | 
- | [nuvolaplayer]({{< ref "/f22/package/nuvolaplayer.md" >}}) | 586 | 982 | 59.7 | Dutch <nl@li.org> | 
- | [warmux]({{< ref "/f22/package/warmux.md" >}}) | 1630 | 2744 | 59.4 | Dutch <nl@li.org> | 
- | [ksensors]({{< ref "/f22/package/ksensors.md" >}}) | 95 | 160 | 59.4 | Nederlands <i18n@kde.nl> | 
- | [NetworkManager-openvpn]({{< ref "/f22/package/NetworkManager-openvpn.md" >}}) | 449 | 757 | 59.3 | Dutch <vertaling@vrijschrift.org> | 
- | [mailman]({{< ref "/f22/package/mailman.md" >}}) | 14018 | 23721 | 59.1 | Dutch <info@janveuger.com> | 
- | [cura]({{< ref "/f22/package/cura.md" >}}) | 2979 | 5057 | 58.9 | LANGUAGE &lt;LL@li.org&gt; | 
- | [cura-lulzbot]({{< ref "/f22/package/cura-lulzbot.md" >}}) | 2979 | 5057 | 58.9 | LANGUAGE &lt;LL@li.org&gt; | 
- | [avogadro]({{< ref "/f22/package/avogadro.md" >}}) | 3671 | 6236 | 58.9 | Dutch <nl@li.org> | 
- | [pidgin-libnotify]({{< ref "/f22/package/pidgin-libnotify.md" >}}) | 21 | 36 | 58.3 |  | 
- | [zabbix]({{< ref "/f22/package/zabbix.md" >}}) | 8965 | 15519 | 57.8 | NL | 
- | [virt-manager]({{< ref "/f22/package/virt-manager.md" >}}) | 4564 | 7952 | 57.4 | Dutch (http://www.transifex.com/projects/p/virt-manager/language/nl/) | 
- | [trytond-timesheet]({{< ref "/f22/package/trytond-timesheet.md" >}}) | 148 | 258 | 57.4 |  | 
- | [caja-terminal]({{< ref "/f22/package/caja-terminal.md" >}}) | 63 | 110 | 57.3 | Dutch <nl@li.org> | 
- | [monodevelop]({{< ref "/f22/package/monodevelop.md" >}}) | 9467 | 16623 | 57.0 | Dutch | 
- | [gimp-gap]({{< ref "/f22/package/gimp-gap.md" >}}) | 5464 | 9598 | 56.9 | Dutch <vertaling@nl.linux.org> | 
- | [pingus]({{< ref "/f22/package/pingus.md" >}}) | 3062 | 5395 | 56.8 | Bas Wijnen <wijnen@debian.org>, Martijn Santen <martijn@jomarsoft.nl>, Giray Devlet <giray@devlet.cc> | 
- | [trytond-account-product]({{< ref "/f22/package/trytond-account-product.md" >}}) | 114 | 201 | 56.7 |  | 
- | [geeqie]({{< ref "/f22/package/geeqie.md" >}}) | 2030 | 3614 | 56.2 | Dutch <vertaling@vrijschrift.org> | 
- | [obby]({{< ref "/f22/package/obby.md" >}}) | 89 | 159 | 56.0 | Dutch <nl@li.org> | 
- | [gtweakui]({{< ref "/f22/package/gtweakui.md" >}}) | 138 | 252 | 54.8 | Dutch <nl@li.org> | 
- | [vidalia]({{< ref "/f22/package/vidalia.md" >}}) | 5655 | 10463 | 54.0 | translations@vidalia-project.net | 
- | [yumex-dnf]({{< ref "/f22/package/yumex-dnf.md" >}}) | 431 | 798 | 54.0 | Dutch (http://www.transifex.com/projects/p/yumex/language/nl/) | 
- | [hexchat]({{< ref "/f22/package/hexchat.md" >}}) | 3111 | 5762 | 54.0 | Dutch (http://www.transifex.com/projects/p/hexchat/language/nl/) | 
- | [radiotray]({{< ref "/f22/package/radiotray.md" >}}) | 70 | 130 | 53.8 | Dutch (http://www.transifex.com/projects/p/radiotray/language/nl/) | 
- | [clisp]({{< ref "/f22/package/clisp.md" >}}) | 7577 | 14278 | 53.1 | Dutch <vertaling@vrijschrift.org> | 
- | [mingw-qt5-qtwebkit]({{< ref "/f22/package/mingw-qt5-qtwebkit.md" >}}) | 1382 | 2631 | 52.5 | Dutch <vertaling@vrijschrift.org> | 
- | [qt5-qtwebkit]({{< ref "/f22/package/qt5-qtwebkit.md" >}}) | 1382 | 2631 | 52.5 | Dutch <vertaling@vrijschrift.org> | 
- | [gettext]({{< ref "/f22/package/gettext.md" >}}) | 3772 | 7303 | 51.7 | Dutch <vertaling@vrijschrift.org> | 
- | [mingw-gettext]({{< ref "/f22/package/mingw-gettext.md" >}}) | 3772 | 7303 | 51.7 | Dutch <vertaling@vrijschrift.org> | 
- | [openconnect]({{< ref "/f22/package/openconnect.md" >}}) | 2428 | 4722 | 51.4 | Dutch (http://www.transifex.com/projects/p/meego/language/nl/) | 
- | [gtypist]({{< ref "/f22/package/gtypist.md" >}}) | 285 | 556 | 51.3 | Dutch (Nederlands) <nl@li.org> | 
- | [trytond]({{< ref "/f22/package/trytond.md" >}}) | 1350 | 2648 | 51.0 |  | 
- | [texi2html]({{< ref "/f22/package/texi2html.md" >}}) | 1017 | 1996 | 51.0 | Dutch <guido@imperia.net> | 
- | [lordsawar]({{< ref "/f22/package/lordsawar.md" >}}) | 1618 | 3178 | 50.9 | Dutch <vertaling@vrijschrift.org> | 
- | [synapse]({{< ref "/f22/package/synapse.md" >}}) | 414 | 824 | 50.2 | Dutch <nl@li.org> | 
- | [calibre]({{< ref "/f22/package/calibre.md" >}}) | 73372 | 147028 | 49.9 | Dutch (http://www.transifex.com/calibre/calibre/language/nl/) | 
- | [enlightenment]({{< ref "/f22/package/enlightenment.md" >}}) | 4250 | 8708 | 48.8 | Dutch <kde-i18n-doc@kde.org> | 
- | [trytond-company]({{< ref "/f22/package/trytond-company.md" >}}) | 62 | 128 | 48.4 |  | 
- | [engrampa]({{< ref "/f22/package/engrampa.md" >}}) | 3395 | 7133 | 47.6 | Dutch <nl@li.org> | 
- | [colorhug-client]({{< ref "/f22/package/colorhug-client.md" >}}) | 667 | 1409 | 47.3 | Dutch (Netherlands) (http://www.transifex.com/projects/p/colorhug-client/language/nl_NL/) | 
- | [mingw-colorhug-client]({{< ref "/f22/package/mingw-colorhug-client.md" >}}) | 667 | 1409 | 47.3 | Dutch (Netherlands) (http://www.transifex.com/projects/p/colorhug-client/language/nl_NL/) | 
- | [easytag]({{< ref "/f22/package/easytag.md" >}}) | 2602 | 5507 | 47.2 | Dutch <nl@li.org> | 
- | [gstreamer1-plugins-bad-free]({{< ref "/f22/package/gstreamer1-plugins-bad-free.md" >}}) | 228 | 486 | 46.9 | Dutch <vertaling@vrijschrift.org> | 
- | [mingw-gstreamer1-plugins-bad-free]({{< ref "/f22/package/mingw-gstreamer1-plugins-bad-free.md" >}}) | 228 | 486 | 46.9 | Dutch <vertaling@vrijschrift.org> | 
- | [gnome-activity-journal]({{< ref "/f22/package/gnome-activity-journal.md" >}}) | 148 | 316 | 46.8 |  | 
- | [anjuta]({{< ref "/f22/package/anjuta.md" >}}) | 3643 | 7905 | 46.1 | Dutch <vertaling@vrijschrift.org> | 
- | [flumotion]({{< ref "/f22/package/flumotion.md" >}}) | 1530 | 3337 | 45.8 |  | 
- | [gtg]({{< ref "/f22/package/gtg.md" >}}) | 1601 | 3497 | 45.8 | Dutch <nl@li.org> | 
- | [wesnoth]({{< ref "/f22/package/wesnoth.md" >}}) | 117023 | 256016 | 45.7 | Dutch <AI0867@gmail.com> | 
- | [flare-engine]({{< ref "/f22/package/flare-engine.md" >}}) | 273 | 598 | 45.7 | Dutch; Flemish <> | 
- | [pgadmin3]({{< ref "/f22/package/pgadmin3.md" >}}) | 7673 | 16898 | 45.4 | pgAdmin Developers <pgadmin-hackers@postgresql.org> | 
- | [xfe]({{< ref "/f22/package/xfe.md" >}}) | 2722 | 6004 | 45.3 | Dutch | 
- | [yum-rhn-plugin]({{< ref "/f22/package/yum-rhn-plugin.md" >}}) | 66 | 147 | 44.9 | Dutch (http://www.transifex.com/projects/p/fedora/language/nl/) | 
- | [bison]({{< ref "/f22/package/bison.md" >}}) | 632 | 1419 | 44.5 | Dutch <vertaling@vrijschrift.org> | 
- | [audacious-plugins]({{< ref "/f22/package/audacious-plugins.md" >}}) | 1721 | 3910 | 44.0 | Dutch (http://www.transifex.com/projects/p/audacious/language/nl/) | 
- | [goffice08]({{< ref "/f22/package/goffice08.md" >}}) | 2018 | 4599 | 43.9 | Dutch <vertaling@vrijschrift.org> | 
- | [docky]({{< ref "/f22/package/docky.md" >}}) | 768 | 1757 | 43.7 | Dutch <nl@li.org> | 
- | [xournal]({{< ref "/f22/package/xournal.md" >}}) | 440 | 1016 | 43.3 |  | 
- | [gnome-video-effects]({{< ref "/f22/package/gnome-video-effects.md" >}}) | 11 | 26 | 42.3 | Dutch | 
- | [python-blivet]({{< ref "/f22/package/python-blivet.md" >}}) | 284 | 678 | 41.9 | Dutch (http://www.transifex.com/projects/p/blivet/language/nl/) | 
- | [iso-codes]({{< ref "/f22/package/iso-codes.md" >}}) | 11480 | 27518 | 41.7 | Dutch <vertaling@vrijschrift.org> | 
- | [gummi]({{< ref "/f22/package/gummi.md" >}}) | 316 | 758 | 41.7 | Dutch <LL@li.org> | 
- | [trac-accountmanager-plugin]({{< ref "/f22/package/trac-accountmanager-plugin.md" >}}) | 488 | 1208 | 40.4 | Dutch <trac-dev@googlegroups.com> | 
- | [lilypond]({{< ref "/f22/package/lilypond.md" >}}) | 5197 | 12972 | 40.1 | LANGUAGE <LL@li.org> | 
- | [labyrinth]({{< ref "/f22/package/labyrinth.md" >}}) | 89 | 226 | 39.4 | Dutch <nl@li.org> | 
- | [guake]({{< ref "/f22/package/guake.md" >}}) | 367 | 937 | 39.2 | Dutch (http://www.transifex.com/projects/p/guake/language/nl/) | 
- | [rt]({{< ref "/f22/package/rt.md" >}}) | 3990 | 10201 | 39.1 | Dutch <nl@li.org> | 
- | [partimage]({{< ref "/f22/package/partimage.md" >}}) | 1312 | 3387 | 38.7 | Dutch <nl@li.org> | 
- | [python-django-debug-toolbar]({{< ref "/f22/package/python-django-debug-toolbar.md" >}}) | 137 | 355 | 38.6 | Dutch (http://www.transifex.com/projects/p/django-debug-toolbar/language/nl/) | 
- | [trac]({{< ref "/f22/package/trac.md" >}}) | 5026 | 13111 | 38.3 | nl <LL@li.org> | 
- | [caribou]({{< ref "/f22/package/caribou.md" >}}) | 76 | 200 | 38.0 | Dutch <gnome-nl-list@gnome.org> | 
- | [sawfish]({{< ref "/f22/package/sawfish.md" >}}) | 2370 | 6443 | 36.8 | Dutch <nl@li.org> | 
- | [calcurse]({{< ref "/f22/package/calcurse.md" >}}) | 889 | 2433 | 36.5 | Dutch (http://www.transifex.com/lfleischer/calcurse/language/nl/) | 
- | [freeciv]({{< ref "/f22/package/freeciv.md" >}}) | 35580 | 98018 | 36.3 | Nederlands <nl@li.org> | 
- | [scim-hangul]({{< ref "/f22/package/scim-hangul.md" >}}) | 77 | 214 | 36.0 | Nederlands | 
- | [gcal]({{< ref "/f22/package/gcal.md" >}}) | 1797 | 5005 | 35.9 | Dutch <vertaling@vrijschrift.org> | 
- | [samba]({{< ref "/f22/package/samba.md" >}}) | 187 | 524 | 35.7 | Novell Language <language@novell.com> | 
- | [python-django-openstack-auth]({{< ref "/f22/package/python-django-openstack-auth.md" >}}) | 42 | 120 | 35.0 | Dutch (Netherlands) (http://www.transifex.com/projects/p/horizon/language/nl_NL/) | 
- | [jpilot]({{< ref "/f22/package/jpilot.md" >}}) | 1058 | 3074 | 34.4 | Dutch <vertaling@vrijschrift.org> | 
- | [gnome-documents]({{< ref "/f22/package/gnome-documents.md" >}}) | 549 | 1599 | 34.3 | Dutch <nl@li.org> | 
- | [pychess]({{< ref "/f22/package/pychess.md" >}}) | 1049 | 3091 | 33.9 | Danish <thomas@ahle.dk> | 
- | [krename]({{< ref "/f22/package/krename.md" >}}) | 697 | 2058 | 33.9 | <en@li.org> | 
- | [tagtool]({{< ref "/f22/package/tagtool.md" >}}) | 324 | 958 | 33.8 | Dutch <vertaling@vrijschrift.org> | 
- | [gnumed]({{< ref "/f22/package/gnumed.md" >}}) | 8520 | 25930 | 32.9 | Dutch <nl@li.org> | 
- | [mingw-libvirt]({{< ref "/f22/package/mingw-libvirt.md" >}}) | 17031 | 52474 | 32.5 | Dutch (http://www.transifex.com/projects/p/fedora/language/nl/) | 
- | [openerp-client]({{< ref "/f22/package/openerp-client.md" >}}) | 2507 | 7729 | 32.4 | Dutch <nl@li.org> | 
- | [libvirt]({{< ref "/f22/package/libvirt.md" >}}) | 17009 | 52524 | 32.4 | Dutch (http://www.transifex.com/projects/p/fedora/language/nl/) | 
- | [scim-pinyin]({{< ref "/f22/package/scim-pinyin.md" >}}) | 204 | 634 | 32.2 | Nederlands | 
- | [revelation]({{< ref "/f22/package/revelation.md" >}}) | 620 | 1945 | 31.9 | Dutch (http://www.transifex.com/projects/p/revelation/language/nl/) | 
- | [publican]({{< ref "/f22/package/publican.md" >}}) | 1726 | 5443 | 31.7 | Fedora | 
- | [dc3dd]({{< ref "/f22/package/dc3dd.md" >}}) | 276 | 871 | 31.7 | Dutch <vertaling@vrijschrift.org> | 
- | [stellarium]({{< ref "/f22/package/stellarium.md" >}}) | 5021 | 15962 | 31.5 |  | 
- | [lyx]({{< ref "/f22/package/lyx.md" >}}) | 6657 | 21611 | 30.8 | Dutch <lyx-docs@lists.lyx.org> | 
- | [etherape]({{< ref "/f22/package/etherape.md" >}}) | 360 | 1170 | 30.8 | Dutch <nl@li.org> | 
- | [frozen-bubble]({{< ref "/f22/package/frozen-bubble.md" >}}) | 210 | 698 | 30.1 | LANGUAGE <LL@li.org> | 
- | [glabels]({{< ref "/f22/package/glabels.md" >}}) | 2341 | 7989 | 29.3 | Dutch <vertaling@vrijschrift.org> | 
- | [tvtime]({{< ref "/f22/package/tvtime.md" >}}) | 357 | 1227 | 29.1 | Dutch <nl@li.org> | 
- | [light-locker]({{< ref "/f22/package/light-locker.md" >}}) | 68 | 234 | 29.1 | Dutch (http://www.transifex.com/projects/p/light-locker/language/nl/) | 
- | [goffice]({{< ref "/f22/package/goffice.md" >}}) | 1797 | 6201 | 29.0 | Dutch <vertaling@vrijschrift.org> | 
- | [gnumeric]({{< ref "/f22/package/gnumeric.md" >}}) | 10024 | 35046 | 28.6 | Dutch <vertaling@vrijschrift.org> | 
- | [spacefm]({{< ref "/f22/package/spacefm.md" >}}) | 2426 | 8722 | 27.8 | Dutch (http://www.transifex.com/projects/p/spacefm/language/nl/) | 
- | [shadow-utils]({{< ref "/f22/package/shadow-utils.md" >}}) | 1087 | 3923 | 27.7 | debian-l10n-dutch <debian-l10n-dutch@lists.debian.org> | 
- | [cinepaint]({{< ref "/f22/package/cinepaint.md" >}}) | 1993 | 7407 | 26.9 | Dutch <vertaling@nl.linux.org> | 
- | [ailurus]({{< ref "/f22/package/ailurus.md" >}}) | 2060 | 7717 | 26.7 | none | 
- | [recode]({{< ref "/f22/package/recode.md" >}}) | 221 | 829 | 26.7 | Dutch <nl@li.org> | 
- | [lazarus]({{< ref "/f22/package/lazarus.md" >}}) | 6793 | 25543 | 26.6 |  | 
- | [tuxpaint-stamps]({{< ref "/f22/package/tuxpaint-stamps.md" >}}) | 684 | 2711 | 25.2 | Nederlands <nl@li.org> | 
- | [lifeograph]({{< ref "/f22/package/lifeograph.md" >}}) | 252 | 1004 | 25.1 | Dutch <nl@li.org> | 
- | [geany-plugins]({{< ref "/f22/package/geany-plugins.md" >}}) | 1827 | 7752 | 23.6 | Dutch | 
- | [system-config-language]({{< ref "/f22/package/system-config-language.md" >}}) | 46 | 197 | 23.4 | Fedora | 
- | [terminator]({{< ref "/f22/package/terminator.md" >}}) | 287 | 1311 | 21.9 | LANGUAGE <LL@li.org> | 
- | [sound-juicer]({{< ref "/f22/package/sound-juicer.md" >}}) | 1291 | 5923 | 21.8 | Dutch <vertaling@vrijschrift.org> | 
- | [fusionforge]({{< ref "/f22/package/fusionforge.md" >}}) | 6517 | 31805 | 20.5 | Dutch <nl@li.org> | 
- | [colord]({{< ref "/f22/package/colord.md" >}}) | 386 | 1885 | 20.5 | Dutch (http://www.transifex.com/projects/p/colord/language/nl/) | 
- | [mingw-colord]({{< ref "/f22/package/mingw-colord.md" >}}) | 386 | 1885 | 20.5 | Dutch (http://www.transifex.com/projects/p/colord/language/nl/) | 
- | [pam_pkcs11]({{< ref "/f22/package/pam_pkcs11.md" >}}) | 34 | 167 | 20.4 | Dutch <nl@li.org> | 
- | [glade]({{< ref "/f22/package/glade.md" >}}) | 669 | 3326 | 20.1 | Dutch <vertaling@vrijschrift.org> | 
- | [glade3]({{< ref "/f22/package/glade3.md" >}}) | 669 | 3326 | 20.1 | Dutch <vertaling@vrijschrift.org> | 
- | [supertux]({{< ref "/f22/package/supertux.md" >}}) | 361 | 1823 | 19.8 | Dutch (http://www.transifex.com/arctic-games/supertux/language/nl/) | 
- | [revisor]({{< ref "/f22/package/revisor.md" >}}) | 877 | 4443 | 19.7 | Dutch <nippur@fedoraproject.org> | 
- | [subtitleeditor]({{< ref "/f22/package/subtitleeditor.md" >}}) | 348 | 1817 | 19.2 | Dutch <LL@li.org> | 
- | [ncmpc]({{< ref "/f22/package/ncmpc.md" >}}) | 147 | 788 | 18.7 | Dutch <nl@li.org> | 
- | [gtkhash]({{< ref "/f22/package/gtkhash.md" >}}) | 22 | 118 | 18.6 | Dutch <nl@li.org> | 
- | [linux_logo]({{< ref "/f22/package/linux_logo.md" >}}) | 10 | 54 | 18.5 | LANGUAGE <LL@li.org> | 
- | [gnomebaker]({{< ref "/f22/package/gnomebaker.md" >}}) | 433 | 2353 | 18.4 | Dutch <nl@li.org> | 
- | [gnome-user-docs]({{< ref "/f22/package/gnome-user-docs.md" >}}) | 8463 | 46007 | 18.4 | Dutch <nl@li.org> | 
- | [policycoreutils]({{< ref "/f22/package/policycoreutils.md" >}}) | 1378 | 7678 | 17.9 | Dutch (http://www.transifex.com/projects/p/fedora/language/nl/) | 
- | [bibletime]({{< ref "/f22/package/bibletime.md" >}}) | 1707 | 9720 | 17.6 | Deutsch | 
- | [rodent]({{< ref "/f22/package/rodent.md" >}}) | 1696 | 9802 | 17.3 |  | 
- | [bacula]({{< ref "/f22/package/bacula.md" >}}) | 106 | 615 | 17.2 | LANGUAGE <LL@li.org> | 
- | [tuxmath]({{< ref "/f22/package/tuxmath.md" >}}) | 238 | 1454 | 16.4 | Dutch <LL@li.org> | 
- | [viking]({{< ref "/f22/package/viking.md" >}}) | 675 | 4135 | 16.3 | Dutch <nl@li.org> | 
- | [python-django-formtools]({{< ref "/f22/package/python-django-formtools.md" >}}) | 5 | 32 | 15.6 | Dutch (http://www.transifex.com/projects/p/django-formtools/language/nl/) | 
- | [grisbi]({{< ref "/f22/package/grisbi.md" >}}) | 1820 | 12750 | 14.3 | Dutch <en@li.org> | 
- | [compat-gcc-32]({{< ref "/f22/package/compat-gcc-32.md" >}}) | 4827 | 34490 | 14.0 | Dutch <vertaling@nl.linux.org> | 
- | [manaplus]({{< ref "/f22/package/manaplus.md" >}}) | 604 | 4384 | 13.8 | Dutch (http://www.transifex.com/projects/p/manaplus/language/nl/) | 
- | [hamster-time-tracker]({{< ref "/f22/package/hamster-time-tracker.md" >}}) | 96 | 697 | 13.8 | Dutch <vertaling@vrijschrift.org> | 
- | [liveusb-creator]({{< ref "/f22/package/liveusb-creator.md" >}}) | 87 | 649 | 13.4 | Fedora | 
- | [stardict]({{< ref "/f22/package/stardict.md" >}}) | 1290 | 11078 | 11.6 | LANGUAGE <LL@li.org> | 
- | [printrun]({{< ref "/f22/package/printrun.md" >}}) | 293 | 2594 | 11.3 | NL <LL@li.org> | 
- | [sssd]({{< ref "/f22/package/sssd.md" >}}) | 2879 | 25712 | 11.2 | Dutch (http://www.transifex.com/projects/p/sssd/language/nl/) | 
- | [NetworkManager-ssh]({{< ref "/f22/package/NetworkManager-ssh.md" >}}) | 32 | 286 | 11.2 | Dutch <vertaling@vrijschrift.org> | 
- | [gimp-help]({{< ref "/f22/package/gimp-help.md" >}}) | 26718 | 240891 | 11.1 | LANGUAGE <LL@li.org> | 
- | [nacl-gcc]({{< ref "/f22/package/nacl-gcc.md" >}}) | 5960 | 53910 | 11.1 | Dutch <vertaling@vrijschrift.org> | 
- | [compat-gcc-34]({{< ref "/f22/package/compat-gcc-34.md" >}}) | 3376 | 30879 | 10.9 | Dutch <vertaling@nl.linux.org> | 
- | [NetworkManager-fortisslvpn]({{< ref "/f22/package/NetworkManager-fortisslvpn.md" >}}) | 19 | 174 | 10.9 | Dutch <vertaling@vrijschrift.org> | 
- | [NetworkManager-l2tp]({{< ref "/f22/package/NetworkManager-l2tp.md" >}}) | 80 | 753 | 10.6 | Dutch <vertaling@vrijschrift.org> | 
- | [linphone]({{< ref "/f22/package/linphone.md" >}}) | 185 | 1853 | 10.0 | Nederlands <vertaling@nl.linux.org> | 
- | [powertop]({{< ref "/f22/package/powertop.md" >}}) | 55 | 611 | 9.0 | Dutch (Netherlands) (http://www.transifex.com/projects/p/PowerTOP/language/nl_NL/) | 
- | [common-lisp-controller]({{< ref "/f22/package/common-lisp-controller.md" >}}) | 5 | 57 | 8.8 | Debian l10n Dutch <debian-l10n-dutch@lists.debian.org> | 
- | [avr-gcc]({{< ref "/f22/package/avr-gcc.md" >}}) | 6421 | 80406 | 8.0 | Dutch <vertaling@vrijschrift.org> | 
- | [ghdl]({{< ref "/f22/package/ghdl.md" >}}) | 6421 | 80406 | 8.0 | Dutch <vertaling@vrijschrift.org> | 
- | [nacl-arm-gcc]({{< ref "/f22/package/nacl-arm-gcc.md" >}}) | 6421 | 80406 | 8.0 | Dutch <vertaling@vrijschrift.org> | 
- | [ircp-tray]({{< ref "/f22/package/ircp-tray.md" >}}) | 19 | 239 | 7.9 | Dutch <nl@li.org> | 
- | [msp430-gcc]({{< ref "/f22/package/msp430-gcc.md" >}}) | 5094 | 66518 | 7.7 | Dutch <vertaling@vrijschrift.org> | 
- | [po4a]({{< ref "/f22/package/po4a.md" >}}) | 145 | 1941 | 7.5 | Dutch <debian-l10n-dutch@lists.debian.org> | 
- | [pan]({{< ref "/f22/package/pan.md" >}}) | 236 | 3168 | 7.4 | Dutch <vertaling@vrijschrift.org> | 
- | [cross-gcc]({{< ref "/f22/package/cross-gcc.md" >}}) | 6329 | 86662 | 7.3 | Dutch <vertaling@vrijschrift.org> | 
- | [gcc]({{< ref "/f22/package/gcc.md" >}}) | 6329 | 86662 | 7.3 | Dutch <vertaling@vrijschrift.org> | 
- | [mingw-gcc]({{< ref "/f22/package/mingw-gcc.md" >}}) | 6211 | 86025 | 7.2 | Dutch <vertaling@vrijschrift.org> | 
- | [tanglet]({{< ref "/f22/package/tanglet.md" >}}) | 9 | 125 | 7.2 | Dutch (http://www.transifex.com/projects/p/tanglet/language/nl/) | 
- | [arm-none-eabi-gcc-cs]({{< ref "/f22/package/arm-none-eabi-gcc-cs.md" >}}) | 6189 | 86557 | 7.2 | Dutch <vertaling@vrijschrift.org> | 
- | [synfigstudio]({{< ref "/f22/package/synfigstudio.md" >}}) | 308 | 4337 | 7.1 | Dutch (http://www.transifex.com/projects/p/synfig/language/nl/) | 
- | [vdr-live]({{< ref "/f22/package/vdr-live.md" >}}) | 60 | 907 | 6.6 | see developers in README | 
- | [publican-fedora]({{< ref "/f22/package/publican-fedora.md" >}}) | 7 | 107 | 6.5 | Fedora | 
- | [gammu]({{< ref "/f22/package/gammu.md" >}}) | 259 | 4019 | 6.4 | none | 
- | [mcomix]({{< ref "/f22/package/mcomix.md" >}}) | 163 | 2604 | 6.3 | LANGUAGE <LL@li.org> | 
- | [elementary]({{< ref "/f22/package/elementary.md" >}}) | 9 | 146 | 6.2 | Dutch <vistausss@gmail.com> | 
- | [gnotime]({{< ref "/f22/package/gnotime.md" >}}) | 118 | 2008 | 5.9 | Dutch <NL@li.org>, Dennis Smit <area101.penguin.nl> | 
- | [novprog]({{< ref "/f22/package/novprog.md" >}}) | 4 | 71 | 5.6 | Dutch (http://www.transifex.com/projects/p/novprog/language/nl/) | 
- | [hydrogen]({{< ref "/f22/package/hydrogen.md" >}}) | 381 | 7769 | 4.9 |  | 
- | [rpm]({{< ref "/f22/package/rpm.md" >}}) | 174 | 3800 | 4.6 | Dutch (http://www.transifex.com/projects/p/rpm/language/nl/) | 
- | [aria2]({{< ref "/f22/package/aria2.md" >}}) | 299 | 6665 | 4.5 | Dutch <nl@li.org> | 
- | [cogl]({{< ref "/f22/package/cogl.md" >}}) | 15 | 393 | 3.8 | Dutch <vertaling@vrijschrift.org> | 
- | [bpython]({{< ref "/f22/package/bpython.md" >}}) | 13 | 342 | 3.8 | bpython developers | 
- | [simsu]({{< ref "/f22/package/simsu.md" >}}) | 3 | 81 | 3.7 | Dutch (http://www.transifex.com/projects/p/simsu/language/nl/) | 
- | [feedreader]({{< ref "/f22/package/feedreader.md" >}}) | 12 | 347 | 3.5 | Dutch <nl@li.org> | 
- | [postgresql-jdbc]({{< ref "/f22/package/postgresql-jdbc.md" >}}) | 68 | 2064 | 3.3 | Dutch <ajkuiper@wxs.nl> | 
- | [libguestfs]({{< ref "/f22/package/libguestfs.md" >}}) | 5208 | 174060 | 3.0 | Dutch (http://www.transifex.com/projects/p/libguestfs/language/nl/) | 
- | [elinks]({{< ref "/f22/package/elinks.md" >}}) | 359 | 12245 | 2.9 | Dutch <vertaling@nl.linux.org> | 
- | [libgda]({{< ref "/f22/package/libgda.md" >}}) | 281 | 11142 | 2.5 | Dutch <vertaling@vrijschrift.org> | 
- | [NetworkManager]({{< ref "/f22/package/NetworkManager.md" >}}) | 125 | 9877 | 1.3 | Dutch <vertaling@vrijschrift.org> | 
- | [gnome-abrt]({{< ref "/f22/package/gnome-abrt.md" >}}) | 5 | 439 | 1.1 | Dutch (http://www.transifex.com/projects/p/gnome-abrt/language/nl/) | 
- | [autotest-framework]({{< ref "/f22/package/autotest-framework.md" >}}) | 11 | 983 | 1.1 | Dutch <vertaling@vrijschrift.org> | 
- | [blender]({{< ref "/f22/package/blender.md" >}}) | 333 | 99163 | 0.3 | LANGUAGE <LL@li.org> | 
- | [bzr]({{< ref "/f22/package/bzr.md" >}}) | 3 | 33249 | 0.0 | Dutch <nl@li.org> | 
- | [appstream]({{< ref "/f22/package/appstream.md" >}}) | 0 | 304 | 0.0 | Dutch (http://www.transifex.com/freedesktop/appstream/language/nl/) | 
- | [avahi]({{< ref "/f22/package/avahi.md" >}}) | 0 | 865 | 0.0 | nl <nl@li.org> | 
- | [cherokee]({{< ref "/f22/package/cherokee.md" >}}) | 0 | 0 | 0.0 | none | 
- | [dnf-plugin-system-upgrade]({{< ref "/f22/package/dnf-plugin-system-upgrade.md" >}}) | 0 | 211 | 0.0 | Dutch | 
- | [drupal6-userpoints]({{< ref "/f22/package/drupal6-userpoints.md" >}}) | 0 | 0 | 0.0 |  | 
- | [fonts-tweak-tool]({{< ref "/f22/package/fonts-tweak-tool.md" >}}) | 0 | 164 | 0.0 | Dutch | 
- | [grass]({{< ref "/f22/package/grass.md" >}}) | 0 | 72595 | 0.0 | Dutch <grass-translations@lists.osgeo.org> | 
- | [gtkpod]({{< ref "/f22/package/gtkpod.md" >}}) | 0 | 7520 | 0.0 | Dutch (Netherlands) <None> | 
- | [icewm]({{< ref "/f22/package/icewm.md" >}}) | 0 | 0 | 0.0 | Dutch | 
- | [kexec-tools]({{< ref "/f22/package/kexec-tools.md" >}}) | 0 | 83 | 0.0 | LANGUAGE <LL@li.org> | 
- | [libgxim]({{< ref "/f22/package/libgxim.md" >}}) | 0 | 124 | 0.0 | LANGUAGE <LL@li.org> | 
- | [libosinfo]({{< ref "/f22/package/libosinfo.md" >}}) | 0 | 1871 | 0.0 | Dutch | 
- | [libreswan]({{< ref "/f22/package/libreswan.md" >}}) | 0 | 935 | 0.0 | Debian l10n Dutch <debian-l10n-dutch@lists.debian.org> | 
- | [libsmbios]({{< ref "/f22/package/libsmbios.md" >}}) | 0 | 1630 | 0.0 | Dutch | 
- | [libvirt-glib]({{< ref "/f22/package/libvirt-glib.md" >}}) | 0 | 138 | 0.0 | Dutch (http://www.transifex.com/projects/p/libvirt-glib/language/nl/) | 
- | [libvirt-sandbox]({{< ref "/f22/package/libvirt-sandbox.md" >}}) | 0 | 617 | 0.0 | Dutch (http://www.transifex.com/projects/p/fedora/language/nl/) | 
- | [mariadb]({{< ref "/f22/package/mariadb.md" >}}) | 0 | 308 | 0.0 | Debian-Dutch <debian-l10n-dutch@lists.debian.org> | 
- | [mariadb-galera]({{< ref "/f22/package/mariadb-galera.md" >}}) | 0 | 308 | 0.0 | Debian-Dutch <debian-l10n-dutch@lists.debian.org> | 
- | [mingw-libvirt-glib]({{< ref "/f22/package/mingw-libvirt-glib.md" >}}) | 0 | 138 | 0.0 | Dutch (http://www.transifex.com/projects/p/libvirt-glib/language/nl/) | 
- | [oscap-anaconda-addon]({{< ref "/f22/package/oscap-anaconda-addon.md" >}}) | 0 | 194 | 0.0 | Dutch (http://www.transifex.com/projects/p/oscap-anaconda-addon/language/nl/) | 
- | [php-horde-Horde-Form]({{< ref "/f22/package/php-horde-Horde-Form.md" >}}) | 0 | 0 | 0.0 | i18n@lists.horde.org | 
- | [php-horde-Horde-Image]({{< ref "/f22/package/php-horde-Horde-Image.md" >}}) | 0 | 0 | 0.0 | i18n@lists.horde.org | 
- | [php-horde-Horde-Kolab-Storage]({{< ref "/f22/package/php-horde-Horde-Kolab-Storage.md" >}}) | 0 | 0 | 0.0 | i18n@lists.horde.org | 
- | [prozilla]({{< ref "/f22/package/prozilla.md" >}}) | 0 | 0 | 0.0 |  | 
- | [python-django-rest-framework]({{< ref "/f22/package/python-django-rest-framework.md" >}}) | 0 | 493 | 0.0 | Dutch (http://www.transifex.com/projects/p/django-rest-framework/language/nl/) | 
- | [qgis]({{< ref "/f22/package/qgis.md" >}}) | 0 | 47 | 0.0 | Dutch (http://www.transifex.com/projects/p/MetaSearch/language/nl/) | 
- | [realmd]({{< ref "/f22/package/realmd.md" >}}) | 0 | 778 | 0.0 | Dutch (http://www.transifex.com/projects/p/freedesktop/language/nl/) | 
- | [retrace-server]({{< ref "/f22/package/retrace-server.md" >}}) | 0 | 381 | 0.0 | Dutch | 
- | [sugar-view-slides]({{< ref "/f22/package/sugar-view-slides.md" >}}) | 0 | 7 | 0.0 | LANGUAGE <LL@li.org> | 
- | [supertuxkart]({{< ref "/f22/package/supertuxkart.md" >}}) | 0 | 0 | 0.0 |  | 
- | [trytond-account-invoice-history]({{< ref "/f22/package/trytond-account-invoice-history.md" >}}) | 0 | 2 | 0.0 |  | 
- | [trytond-account-invoice-line-standalone]({{< ref "/f22/package/trytond-account-invoice-line-standalone.md" >}}) | 0 | 24 | 0.0 |  | 
- | [trytond-account-stock-anglo-saxon]({{< ref "/f22/package/trytond-account-stock-anglo-saxon.md" >}}) | 0 | 46 | 0.0 |  | 
- | [trytond-account-stock-continental]({{< ref "/f22/package/trytond-account-stock-continental.md" >}}) | 0 | 207 | 0.0 |  | 
- | [trytond-analytic-account]({{< ref "/f22/package/trytond-analytic-account.md" >}}) | 0 | 193 | 0.0 |  | 
- | [trytond-analytic-invoice]({{< ref "/f22/package/trytond-analytic-invoice.md" >}}) | 0 | 2 | 0.0 |  | 
- | [trytond-analytic-purchase]({{< ref "/f22/package/trytond-analytic-purchase.md" >}}) | 0 | 10 | 0.0 |  | 
- | [trytond-analytic-sale]({{< ref "/f22/package/trytond-analytic-sale.md" >}}) | 0 | 2 | 0.0 |  | 
- | [trytond-calendar]({{< ref "/f22/package/trytond-calendar.md" >}}) | 0 | 489 | 0.0 |  | 
- | [trytond-calendar-classification]({{< ref "/f22/package/trytond-calendar-classification.md" >}}) | 0 | 2 | 0.0 |  | 
- | [trytond-calendar-scheduling]({{< ref "/f22/package/trytond-calendar-scheduling.md" >}}) | 0 | 100 | 0.0 |  | 
- | [trytond-calendar-todo]({{< ref "/f22/package/trytond-calendar-todo.md" >}}) | 0 | 202 | 0.0 |  | 
- | [trytond-company-work-time]({{< ref "/f22/package/trytond-company-work-time.md" >}}) | 0 | 18 | 0.0 |  | 
- | [trytond-google-maps]({{< ref "/f22/package/trytond-google-maps.md" >}}) | 0 | 2 | 0.0 |  | 
- | [trytond-ldap-authentication]({{< ref "/f22/package/trytond-ldap-authentication.md" >}}) | 0 | 36 | 0.0 |  | 
- | [trytond-ldap-connection]({{< ref "/f22/package/trytond-ldap-connection.md" >}}) | 0 | 64 | 0.0 |  | 
- | [trytond-party-siret]({{< ref "/f22/package/trytond-party-siret.md" >}}) | 0 | 10 | 0.0 |  | 
- | [trytond-party-vcarddav]({{< ref "/f22/package/trytond-party-vcarddav.md" >}}) | 0 | 14 | 0.0 |  | 
- | [trytond-product-cost-fifo]({{< ref "/f22/package/trytond-product-cost-fifo.md" >}}) | 0 | 23 | 0.0 |  | 
- | [trytond-product-cost-history]({{< ref "/f22/package/trytond-product-cost-history.md" >}}) | 0 | 26 | 0.0 |  | 
- | [trytond-product-price-list]({{< ref "/f22/package/trytond-product-price-list.md" >}}) | 0 | 68 | 0.0 |  | 
- | [trytond-project]({{< ref "/f22/package/trytond-project.md" >}}) | 0 | 78 | 0.0 |  | 
- | [trytond-project-plan]({{< ref "/f22/package/trytond-project-plan.md" >}}) | 0 | 97 | 0.0 |  | 
- | [trytond-project-revenue]({{< ref "/f22/package/trytond-project-revenue.md" >}}) | 0 | 61 | 0.0 |  | 
- | [trytond-purchase]({{< ref "/f22/package/trytond-purchase.md" >}}) | 0 | 630 | 0.0 |  | 
- | [trytond-purchase-invoice-line-standalone]({{< ref "/f22/package/trytond-purchase-invoice-line-standalone.md" >}}) | 0 | 53 | 0.0 |  | 
- | [trytond-sale-opportunity]({{< ref "/f22/package/trytond-sale-opportunity.md" >}}) | 0 | 347 | 0.0 |  | 
- | [trytond-sale-price-list]({{< ref "/f22/package/trytond-sale-price-list.md" >}}) | 0 | 5 | 0.0 |  | 
- | [trytond-stock]({{< ref "/f22/package/trytond-stock.md" >}}) | 0 | 1237 | 0.0 |  | 
- | [trytond-stock-forecast]({{< ref "/f22/package/trytond-stock-forecast.md" >}}) | 0 | 174 | 0.0 |  | 
- | [trytond-stock-inventory-location]({{< ref "/f22/package/trytond-stock-inventory-location.md" >}}) | 0 | 17 | 0.0 |  | 
- | [trytond-stock-location-sequence]({{< ref "/f22/package/trytond-stock-location-sequence.md" >}}) | 0 | 1 | 0.0 |  | 
- | [trytond-stock-product-location]({{< ref "/f22/package/trytond-stock-product-location.md" >}}) | 0 | 29 | 0.0 |  | 
- | [trytond-stock-supply]({{< ref "/f22/package/trytond-stock-supply.md" >}}) | 0 | 236 | 0.0 |  | 
- | [trytond-stock-supply-day]({{< ref "/f22/package/trytond-stock-supply-day.md" >}}) | 0 | 29 | 0.0 |  | 
+ | [shutter](/f22/package/shutter) | 3093 | 3093 | 100.0 | Dutch <nl@li.org> | 
+ | [simple-ccsm](/f22/package/simple-ccsm) | 67 | 67 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [skanlite](/f22/package/skanlite) | 183 | 183 | 100.0 | Dutch <kde-i18n-nl@kde.org> | 
+ | [smb4k](/f22/package/smb4k) | 6705 | 6705 | 100.0 | Dutch <kde-i18n-nl@kde.org> | 
+ | [smuxi](/f22/package/smuxi) | 2476 | 2476 | 100.0 | Dutch (http://www.transifex.com/projects/p/smuxi/language/nl/) | 
+ | [snapper](/f22/package/snapper) | 639 | 639 | 100.0 | Dutch <opensuse-nl@opensuse.org> | 
+ | [snownews](/f22/package/snownews) | 791 | 791 | 100.0 | Dutch <nl@li.org> | 
+ | [solfege](/f22/package/solfege) | 10082 | 10082 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
+ | [sos](/f22/package/sos) | 267 | 267 | 100.0 | Fedora | 
+ | [soundconverter](/f22/package/soundconverter) | 388 | 388 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
+ | [sparkleshare](/f22/package/sparkleshare) | 402 | 402 | 100.0 |  | 
+ | [squirrelmail](/f22/package/squirrelmail) | 14671 | 14671 | 100.0 | Dutch <squirrelmail-i18n@lists.sourceforge.net> | 
+ | [sugar](/f22/package/sugar) | 2154 | 2154 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-abacus](/f22/package/sugar-abacus) | 34 | 34 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-base](/f22/package/sugar-base) | 5 | 5 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-browse](/f22/package/sugar-browse) | 189 | 189 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-calculator](/f22/package/sugar-calculator) | 871 | 871 | 100.0 | English | 
+ | [sugar-chat](/f22/package/sugar-chat) | 55 | 55 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-clock](/f22/package/sugar-clock) | 59 | 59 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-connect](/f22/package/sugar-connect) | 36 | 36 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-deducto](/f22/package/sugar-deducto) | 109 | 109 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-finance](/f22/package/sugar-finance) | 164 | 164 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-flip](/f22/package/sugar-flip) | 17 | 17 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-fototoon](/f22/package/sugar-fototoon) | 77 | 77 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-fractionbounce](/f22/package/sugar-fractionbounce) | 68 | 68 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-getiabooks](/f22/package/sugar-getiabooks) | 119 | 119 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-imageviewer](/f22/package/sugar-imageviewer) | 51 | 51 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-implode](/f22/package/sugar-implode) | 77 | 77 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-infoslicer](/f22/package/sugar-infoslicer) | 236 | 236 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-jukebox](/f22/package/sugar-jukebox) | 65 | 65 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-labyrinth](/f22/package/sugar-labyrinth) | 281 | 281 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-locosugar](/f22/package/sugar-locosugar) | 74 | 74 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-log](/f22/package/sugar-log) | 98 | 98 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-maze](/f22/package/sugar-maze) | 7 | 7 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-measure](/f22/package/sugar-measure) | 155 | 155 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-memorize](/f22/package/sugar-memorize) | 142 | 142 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-moon](/f22/package/sugar-moon) | 117 | 117 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-nutrition](/f22/package/sugar-nutrition) | 192 | 192 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-paint](/f22/package/sugar-paint) | 96 | 96 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-physics](/f22/package/sugar-physics) | 86 | 86 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-pippy](/f22/package/sugar-pippy) | 109 | 109 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-playgo](/f22/package/sugar-playgo) | 85 | 85 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-portfolio](/f22/package/sugar-portfolio) | 60 | 60 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-pukllanapac](/f22/package/sugar-pukllanapac) | 10 | 10 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-read](/f22/package/sugar-read) | 124 | 124 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-record](/f22/package/sugar-record) | 62 | 62 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-ruler](/f22/package/sugar-ruler) | 29 | 29 | 100.0 | Dutch | 
+ | [sugar-speak](/f22/package/sugar-speak) | 227 | 227 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-story](/f22/package/sugar-story) | 24 | 24 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-terminal](/f22/package/sugar-terminal) | 15 | 15 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-toolkit](/f22/package/sugar-toolkit) | 73 | 73 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-toolkit-gtk3](/f22/package/sugar-toolkit-gtk3) | 156 | 156 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-turtleart](/f22/package/sugar-turtleart) | 1574 | 1574 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-typing-turtle](/f22/package/sugar-typing-turtle) | 599 | 599 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-visualmatch](/f22/package/sugar-visualmatch) | 161 | 161 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-write](/f22/package/sugar-write) | 121 | 121 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-xoeditor](/f22/package/sugar-xoeditor) | 29 | 29 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-yupana](/f22/package/sugar-yupana) | 30 | 30 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sushi](/f22/package/sushi) | 24 | 24 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
+ | [swell-foop](/f22/package/swell-foop) | 4683 | 4683 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
+ | [switchdesk](/f22/package/switchdesk) | 139 | 139 | 100.0 | Dutch <fedora-trans-list@redhat.com> | 
+ | [syncevolution](/f22/package/syncevolution) | 1132 | 1132 | 100.0 | Dutch (http://www.transifex.net/projects/p/meego/team/nl/) | 
+ | [sysstat](/f22/package/sysstat) | 610 | 610 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
+ | [system-config-audit](/f22/package/system-config-audit) | 1241 | 1241 | 100.0 | Dutch (http://www.transifex.com/projects/p/fedora/language/nl/) | 
+ | [system-config-bind](/f22/package/system-config-bind) | 9419 | 9419 | 100.0 | nl <nl@li.org> | 
+ | [system-config-date](/f22/package/system-config-date) | 1850 | 1850 | 100.0 | Dutch (http://www.transifex.com/projects/p/fedora/language/nl/) | 
+ | [system-config-firewall](/f22/package/system-config-firewall) | 2814 | 2814 | 100.0 | Fedora | 
+ | [system-config-httpd](/f22/package/system-config-httpd) | 867 | 867 | 100.0 | Fedora | 
+ | [system-config-keyboard](/f22/package/system-config-keyboard) | 187 | 187 | 100.0 | Fedora | 
+ | [system-config-kickstart](/f22/package/system-config-kickstart) | 1144 | 1144 | 100.0 | Dutch (http://www.transifex.com/projects/p/system-config-kickstart/language/nl/) | 
+ | [system-config-nfs](/f22/package/system-config-nfs) | 332 | 332 | 100.0 | Dutch (http://www.transifex.com/projects/p/fedora/language/nl/) | 
+ | [system-config-nfs-docs](/f22/package/system-config-nfs-docs) | 1192 | 1192 | 100.0 | Fedora | 
+ | [system-config-printer](/f22/package/system-config-printer) | 3158 | 3158 | 100.0 | Dutch (http://www.transifex.com/projects/p/system-config-printer/language/nl/) | 
+ | [system-config-rootpassword](/f22/package/system-config-rootpassword) | 116 | 116 | 100.0 | Dutch <fedora-trans-list@redhat.com> | 
+ | [system-config-samba](/f22/package/system-config-samba) | 571 | 571 | 100.0 | Dutch (http://www.transifex.net/projects/p/fedora/language/nl/) | 
+ | [system-config-samba-docs](/f22/package/system-config-samba-docs) | 1195 | 1195 | 100.0 | Fedora | 
+ | [system-config-services-docs](/f22/package/system-config-services-docs) | 638 | 638 | 100.0 | Fedora | 
+ | [system-config-users-docs](/f22/package/system-config-users-docs) | 1061 | 1061 | 100.0 | Fedora | 
+ | [system-switch-java](/f22/package/system-switch-java) | 81 | 81 | 100.0 | Fedora | 
+ | [system-switch-mail](/f22/package/system-switch-mail) | 158 | 158 | 100.0 | <nl@li.org> | 
+ | [tali](/f22/package/tali) | 4683 | 4683 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
+ | [tellico](/f22/package/tellico) | 5790 | 5790 | 100.0 | Dutch <kde-i18n-nl@kde.org> | 
+ | [texinfo](/f22/package/texinfo) | 6272 | 6272 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
+ | [thunar-archive-plugin](/f22/package/thunar-archive-plugin) | 86 | 86 | 100.0 | Dutch (Flemish) | 
+ | [thunar-media-tags-plugin](/f22/package/thunar-media-tags-plugin) | 156 | 156 | 100.0 | Dutch (Flemish) | 
+ | [thunar-volman](/f22/package/thunar-volman) | 487 | 487 | 100.0 | Dutch (http://www.transifex.com/projects/p/xfce/language/nl/) | 
+ | [tigervnc](/f22/package/tigervnc) | 675 | 675 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
+ | [tomboy](/f22/package/tomboy) | 3278 | 3278 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
+ | [totem](/f22/package/totem) | 1449 | 1449 | 100.0 | Dutch <gnome-nl-list@gnome.org> | 
+ | [totem-pl-parser](/f22/package/totem-pl-parser) | 28 | 28 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
+ | [tracker](/f22/package/tracker) | 3167 | 3167 | 100.0 | Dutch <gnome-nl-list@gnome.org> | 
+ | [transmission](/f22/package/transmission) | 1809 | 1809 | 100.0 | Ubuntu Dutch Translators | 
+ | [trojita](/f22/package/trojita) | 3883 | 3883 | 100.0 | Dutch <kde-i18n-nl@kde.org> | 
+ | [tumbler](/f22/package/tumbler) | 278 | 278 | 100.0 | Dutch (http://www.transifex.com/projects/p/xfce/language/nl/) | 
+ | [tuxpaint](/f22/package/tuxpaint) | 1591 | 1591 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
+ | [ultimatestunts](/f22/package/ultimatestunts) | 590 | 590 | 100.0 | Dutch <cornware-cjp@users.sourceforge.net> | 
+ | [usermode](/f22/package/usermode) | 573 | 573 | 100.0 | Dutch (http://www.transifex.com/projects/p/fedora/language/nl/) | 
+ | [valyriatear](/f22/package/valyriatear) | 9867 | 9867 | 100.0 | Dutch (Netherlands) (http://www.transifex.com/projects/p/valyria-tear/language/nl_NL/) | 
+ | [vdr-iptv](/f22/package/vdr-iptv) | 191 | 191 | 100.0 | Dutch <vdr@linuxtv.org> | 
+ | [vim](/f22/package/vim) | 5625 | 5625 | 100.0 | Dutch <vertaling@vrijschrift.nl> | 
+ | [vinagre](/f22/package/vinagre) | 1419 | 1419 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
+ | [vino](/f22/package/vino) | 1228 | 1228 | 100.0 | Dutch <vertaling@nl.linux.org> | 
+ | [virt-top](/f22/package/virt-top) | 361 | 361 | 100.0 | Dutch <> | 
+ | [virtaal](/f22/package/virtaal) | 1433 | 1433 | 100.0 | TOMTT (Tom's One-Man Translation Team) | 
+ | [volume_key](/f22/package/volume_key) | 745 | 745 | 100.0 | Dutch (http://www.transifex.com/projects/p/fedora/language/nl/) | 
+ | [vte](/f22/package/vte) | 80 | 80 | 100.0 | Dutch <vertaling@nl.linux.org> | 
+ | [vte291](/f22/package/vte291) | 80 | 80 | 100.0 | Dutch <vertaling@nl.linux.org> | 
+ | [vte3](/f22/package/vte3) | 80 | 80 | 100.0 | Dutch <vertaling@nl.linux.org> | 
+ | [wammu](/f22/package/wammu) | 5230 | 5230 | 100.0 | Dutch <https://hosted.weblate.org/projects/gammu/wammu-doc/nl/> | 
+ | [watchdog](/f22/package/watchdog) | 97 | 97 | 100.0 | debian-l10n-dutch <debian-l10n-dutch@lists.debian.org> | 
+ | [wcd](/f22/package/wcd) | 8003 | 8003 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
+ | [wdiff](/f22/package/wdiff) | 993 | 993 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
+ | [wicd](/f22/package/wicd) | 1138 | 1138 | 100.0 | nl <LL@li.org> | 
+ | [wicd-kde](/f22/package/wicd-kde) | 358 | 358 | 100.0 | Dutch <kde-i18n-nl@kde.org> | 
+ | [widelands](/f22/package/widelands) | 34294 | 34294 | 100.0 | Dutch <nl@li.org> | 
+ | [wireshark](/f22/package/wireshark) | 79 | 79 | 100.0 | Debian l10n Dutch <debian-l10n-dutch@lists.debian.org> | 
+ | [workrave](/f22/package/workrave) | 1321 | 1321 | 100.0 | Raymond Penners <raymond@dotsphinx.com> | 
+ | [wxGTK](/f22/package/wxGTK) | 6679 | 6679 | 100.0 | wxWidgets translators <wx-translators@wxwidgets.org> | 
+ | [xcdroast](/f22/package/xcdroast) | 8044 | 8044 | 100.0 | Dutch <eric.hameleers@sox.homeip.net> | 
+ | [xconvers](/f22/package/xconvers) | 278 | 278 | 100.0 | nl <pg4i@amsat.org> | 
+ | [xdg-user-dirs](/f22/package/xdg-user-dirs) | 28 | 28 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
+ | [xdg-user-dirs-gtk](/f22/package/xdg-user-dirs-gtk) | 81 | 81 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
+ | [xfbib](/f22/package/xfbib) | 342 | 342 | 100.0 | Dutch (Flemish) | 
+ | [xfburn](/f22/package/xfburn) | 1375 | 1375 | 100.0 | Dutch (http://www.transifex.com/projects/p/xfce-apps/language/nl/) | 
+ | [xfce4-appfinder](/f22/package/xfce4-appfinder) | 322 | 322 | 100.0 | Dutch (http://www.transifex.com/projects/p/xfce/language/nl/) | 
+ | [xfce4-battery-plugin](/f22/package/xfce4-battery-plugin) | 149 | 149 | 100.0 | Dutch/Flemish | 
+ | [xfce4-clipman-plugin](/f22/package/xfce4-clipman-plugin) | 399 | 399 | 100.0 | Dutch (http://www.transifex.com/projects/p/xfce/language/nl/) | 
+ | [xfce4-cpufreq-plugin](/f22/package/xfce4-cpufreq-plugin) | 140 | 140 | 100.0 | Dutch (http://www.transifex.com/projects/p/xfce/language/nl/) | 
+ | [xfce4-cpugraph-plugin](/f22/package/xfce4-cpugraph-plugin) | 76 | 76 | 100.0 | Dutch (Flemish) | 
+ | [xfce4-datetime-plugin](/f22/package/xfce4-datetime-plugin) | 52 | 52 | 100.0 | Dutch (Flemish) | 
+ | [xfce4-dict](/f22/package/xfce4-dict) | 519 | 519 | 100.0 | Dutch (http://www.transifex.com/projects/p/xfce-apps/language/nl/) | 
+ | [xfce4-diskperf-plugin](/f22/package/xfce4-diskperf-plugin) | 183 | 183 | 100.0 | Dutch (Flemish) | 
+ | [xfce4-embed-plugin](/f22/package/xfce4-embed-plugin) | 219 | 219 | 100.0 | Dutch (Flemish) | 
+ | [xfce4-eyes-plugin](/f22/package/xfce4-eyes-plugin) | 15 | 15 | 100.0 | Dutch (Flemish) | 
+ | [xfce4-fsguard-plugin](/f22/package/xfce4-fsguard-plugin) | 71 | 71 | 100.0 | Dutch (Flemish) | 
+ | [xfce4-genmon-plugin](/f22/package/xfce4-genmon-plugin) | 85 | 85 | 100.0 | Dutch (Flemish) | 
+ | [xfce4-hardware-monitor-plugin](/f22/package/xfce4-hardware-monitor-plugin) | 356 | 356 | 100.0 | Dutch <vertaling@nl.linux.org> | 
+ | [xfce4-mailwatch-plugin](/f22/package/xfce4-mailwatch-plugin) | 685 | 685 | 100.0 | Dutch (http://www.transifex.com/projects/p/xfce/language/nl/) | 
+ | [xfce4-mixer](/f22/package/xfce4-mixer) | 181 | 181 | 100.0 | Dutch (Flemish) | 
+ | [xfce4-mount-plugin](/f22/package/xfce4-mount-plugin) | 362 | 362 | 100.0 | Dutch (http://www.transifex.com/projects/p/xfce-panel-plugins/language/nl/) | 
+ | [xfce4-mpc-plugin](/f22/package/xfce4-mpc-plugin) | 76 | 76 | 100.0 | Dutch (http://www.transifex.com/projects/p/xfce/language/nl/) | 
+ | [xfce4-netload-plugin](/f22/package/xfce4-netload-plugin) | 92 | 92 | 100.0 | Dutch (http://www.transifex.com/projects/p/xfce-panel-plugins/language/nl/) | 
+ | [xfce4-notes-plugin](/f22/package/xfce4-notes-plugin) | 163 | 163 | 100.0 | Dutch (http://www.transifex.com/projects/p/xfce/language/nl/) | 
+ | [xfce4-notifyd](/f22/package/xfce4-notifyd) | 98 | 98 | 100.0 | Dutch (Flemish) | 
+ | [xfce4-panel](/f22/package/xfce4-panel) | 1705 | 1705 | 100.0 | Dutch (http://www.transifex.com/projects/p/xfce4-panel/language/nl/) | 
+ | [xfce4-places-plugin](/f22/package/xfce4-places-plugin) | 160 | 160 | 100.0 | Dutch (http://www.transifex.com/projects/p/xfce/language/nl/) | 
+ | [xfce4-power-manager](/f22/package/xfce4-power-manager) | 979 | 979 | 100.0 | Dutch (http://www.transifex.com/projects/p/xfce4-power-manager/language/nl/) | 
+ | [xfce4-screenshooter](/f22/package/xfce4-screenshooter) | 550 | 550 | 100.0 | Dutch (http://www.transifex.com/projects/p/xfce-apps/language/nl/) | 
+ | [xfce4-sensors-plugin](/f22/package/xfce4-sensors-plugin) | 354 | 354 | 100.0 | Dutch (Flemish) | 
+ | [xfce4-session](/f22/package/xfce4-session) | 1066 | 1066 | 100.0 | Dutch (http://www.transifex.com/projects/p/xfce/language/nl/) | 
+ | [xfce4-settings](/f22/package/xfce4-settings) | 1600 | 1600 | 100.0 | Dutch (http://www.transifex.com/projects/p/xfce4-settings/language/nl/) | 
+ | [xfce4-smartbookmark-plugin](/f22/package/xfce4-smartbookmark-plugin) | 22 | 22 | 100.0 | Dutch (Flemish) | 
+ | [xfce4-systemload-plugin](/f22/package/xfce4-systemload-plugin) | 75 | 75 | 100.0 | Dutch (http://www.transifex.com/projects/p/xfce-panel-plugins/language/nl/) | 
+ | [xfce4-taskmanager](/f22/package/xfce4-taskmanager) | 223 | 223 | 100.0 | Dutch (http://www.transifex.com/projects/p/xfce-apps/language/nl/) | 
+ | [xfce4-terminal](/f22/package/xfce4-terminal) | 1098 | 1098 | 100.0 | Dutch (http://www.transifex.com/projects/p/xfce/language/nl/) | 
+ | [xfce4-time-out-plugin](/f22/package/xfce4-time-out-plugin) | 88 | 88 | 100.0 | Dutch (Flemish) | 
+ | [xfce4-verve-plugin](/f22/package/xfce4-verve-plugin) | 47 | 47 | 100.0 | Dutch (http://www.transifex.com/projects/p/xfce/language/nl/) | 
+ | [xfce4-wavelan-plugin](/f22/package/xfce4-wavelan-plugin) | 51 | 51 | 100.0 | Dutch (Flemish) | 
+ | [xfce4-weather-plugin](/f22/package/xfce4-weather-plugin) | 3668 | 3668 | 100.0 | Dutch (http://www.transifex.com/projects/p/xfce-panel-plugins/language/nl/) | 
+ | [xfce4-whiskermenu-plugin](/f22/package/xfce4-whiskermenu-plugin) | 236 | 236 | 100.0 | Dutch (http://www.transifex.com/gottcode/xfce4-whiskermenu-plugin/language/nl/) | 
+ | [xfce4-xkb-plugin](/f22/package/xfce4-xkb-plugin) | 43 | 43 | 100.0 | Dutch (http://www.transifex.com/projects/p/xfce/language/nl/) | 
+ | [xfconf](/f22/package/xfconf) | 452 | 452 | 100.0 | Dutch (http://www.transifex.com/projects/p/xfconf/language/nl/) | 
+ | [xfdesktop](/f22/package/xfdesktop) | 976 | 976 | 100.0 | Dutch (http://www.transifex.com/projects/p/xfdesktop/language/nl/) | 
+ | [xfwm4](/f22/package/xfwm4) | 673 | 673 | 100.0 | Dutch (http://www.transifex.com/projects/p/xfwm4/language/nl/) | 
+ | [xkeyboard-config](/f22/package/xkeyboard-config) | 3564 | 3564 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
+ | [xscreensaver](/f22/package/xscreensaver) | 11024 | 11024 | 100.0 | Nederlands <ubuntu-l10n-nl@lists.ubuntu.com> | 
+ | [yakuake](/f22/package/yakuake) | 1520 | 1520 | 100.0 | Dutch <kde-i18n-nl@kde.org> | 
+ | [yelp](/f22/package/yelp) | 452 | 452 | 100.0 | Dutch <gnome-nl-list@gnome.org> | 
+ | [yelp-xsl](/f22/package/yelp-xsl) | 80 | 80 | 100.0 | Dutch <vertaling@vrijschrift.org> | 
+ | [zanshin](/f22/package/zanshin) | 322 | 322 | 100.0 | Dutch <kde-i18n-nl@kde.org> | 
+ | [kphotoalbum](/f22/package/kphotoalbum) | 9769 | 9772 | 100.0 | Dutch <kde-i18n-nl@kde.org> | 
+ | [gnome-terminal](/f22/package/gnome-terminal) | 2203 | 2204 | 100.0 | Dutch <gnome-nl-list@gnome.org> | 
+ | [inkscape](/f22/package/inkscape) | 34650 | 34673 | 99.9 | Dutch | 
+ | [wastesedge](/f22/package/wastesedge) | 19975 | 19989 | 99.9 | Dutch <vertaling@nl.linux.org> | 
+ | [httping](/f22/package/httping) | 1311 | 1312 | 99.9 | Dutch | 
+ | [kmplayer](/f22/package/kmplayer) | 1248 | 1249 | 99.9 | Dutch <kde-i18n-nl@kde.org> | 
+ | [geda-gaf](/f22/package/geda-gaf) | 3444 | 3447 | 99.9 | gEDA developers <geda-dev@seul.org> | 
+ | [rapid-photo-downloader](/f22/package/rapid-photo-downloader) | 1830 | 1832 | 99.9 | Dutch <nl@li.org> | 
+ | [gnucash](/f22/package/gnucash) | 30165 | 30200 | 99.9 | Dutch <vertaling@vrijschrift.org> | 
+ | [kdesvn](/f22/package/kdesvn) | 4213 | 4219 | 99.9 | po <kde-i18n-doc@kde.org> | 
+ | [gstreamer](/f22/package/gstreamer) | 1914 | 1917 | 99.8 | Dutch <vertaling@vrijschrift.org> | 
+ | [mingw-gstreamer](/f22/package/mingw-gstreamer) | 1914 | 1917 | 99.8 | Dutch <vertaling@vrijschrift.org> | 
+ | [gnome-settings-daemon](/f22/package/gnome-settings-daemon) | 3723 | 3729 | 99.8 | Dutch <vertaling@vrijschrift.org> | 
+ | [regexxer](/f22/package/regexxer) | 466 | 467 | 99.8 | Dutch <vertaling@nl.linux.org> | 
+ | [kmess](/f22/package/kmess) | 7439 | 7458 | 99.7 | Dutch <kde-i18n-doc@kde.org> | 
+ | [hex-a-hop](/f22/package/hex-a-hop) | 1173 | 1176 | 99.7 | Dutch <nl@li.org> | 
+ | [celestia](/f22/package/celestia) | 2270 | 2276 | 99.7 | Dutch <LL@li.org> | 
+ | [make](/f22/package/make) | 2280 | 2287 | 99.7 | Dutch <vertaling@vrijschrift.org> | 
+ | [gnupg](/f22/package/gnupg) | 8613 | 8640 | 99.7 | Debian Dutch l10n Team <debian-l10n-dutch@lists.debian.org> | 
+ | [compat-wxGTK3-gtk2](/f22/package/compat-wxGTK3-gtk2) | 7657 | 7682 | 99.7 | wxWidgets translators <wx-translators@wxwidgets.org> | 
+ | [wxGTK3](/f22/package/wxGTK3) | 7657 | 7682 | 99.7 | wxWidgets translators <wx-translators@wxwidgets.org> | 
+ | [system-config-network](/f22/package/system-config-network) | 3022 | 3032 | 99.7 | Fedora | 
+ | [bangarang](/f22/package/bangarang) | 1203 | 1207 | 99.7 | Dutch <kde-i18n-nl@kde.org> | 
+ | [scim](/f22/package/scim) | 1169 | 1173 | 99.7 | Nederlands | 
+ | [picard](/f22/package/picard) | 2883 | 2893 | 99.7 | Dutch (http://www.transifex.com/projects/p/musicbrainz/language/nl/) | 
+ | [photoprint](/f22/package/photoprint) | 1412 | 1417 | 99.6 | Dutch <> | 
+ | [scratch](/f22/package/scratch) | 1463 | 1470 | 99.5 | Dutch <vertaling@vrijschrift.org> | 
+ | [gnome-hearts](/f22/package/gnome-hearts) | 407 | 409 | 99.5 | Dutch <nl@li.org> | 
+ | [perl-Padre](/f22/package/perl-Padre) | 4236 | 4258 | 99.5 | ddn <ddn123456 at gmail.com> | 
+ | [simple-scan](/f22/package/simple-scan) | 577 | 580 | 99.5 | Dutch <nl@li.org> | 
+ | [pidgin](/f22/package/pidgin) | 18452 | 18558 | 99.4 | Dutch (http://www.transifex.com/projects/p/pidgin/language/nl/) | 
+ | [gnomad2](/f22/package/gnomad2) | 693 | 697 | 99.4 | Dutch <nl@li.org> | 
+ | [gstreamer-plugins-base](/f22/package/gstreamer-plugins-base) | 902 | 908 | 99.3 | Dutch <vertaling@vrijschrift.org> | 
+ | [mingw-gstreamer-plugins-base](/f22/package/mingw-gstreamer-plugins-base) | 902 | 908 | 99.3 | Dutch <vertaling@vrijschrift.org> | 
+ | [libexif](/f22/package/libexif) | 6930 | 6977 | 99.3 | Dutch <vertaling@vrijschrift.org> | 
+ | [yumex](/f22/package/yumex) | 987 | 994 | 99.3 | Dutch (http://www.transifex.com/projects/p/yumex/language/nl/) | 
+ | [gtk-gnutella](/f22/package/gtk-gnutella) | 16186 | 16308 | 99.3 | Dutch (http://www.transifex.com/gtk-gnutella/gtk-gnutella/language/nl/) | 
+ | [ffgtk](/f22/package/ffgtk) | 2382 | 2400 | 99.2 | nl <-> | 
+ | [gutenprint](/f22/package/gutenprint) | 11711 | 11801 | 99.2 | Dutch <vertaling@vrijschrift.org> | 
+ | [xboard](/f22/package/xboard) | 2553 | 2573 | 99.2 | Dutch <vertaling@vrijschrift.org> | 
+ | [osmo](/f22/package/osmo) | 1685 | 1699 | 99.2 |  | 
+ | [anaconda](/f22/package/anaconda) | 6659 | 6715 | 99.2 | Dutch (http://www.transifex.com/projects/p/anaconda/language/nl/) | 
+ | [python-django-reversion](/f22/package/python-django-reversion) | 118 | 119 | 99.2 | Dutch | 
+ | [firewalld](/f22/package/firewalld) | 1558 | 1572 | 99.1 | Dutch (http://www.transifex.com/projects/p/firewalld/language/nl/) | 
+ | [abrt](/f22/package/abrt) | 3418 | 3450 | 99.1 | Dutch (http://www.transifex.com/projects/p/fedora-abrt/language/nl/) | 
+ | [kcm_systemd](/f22/package/kcm_systemd) | 1372 | 1385 | 99.1 | Dutch <kde-i18n-nl@kde.org> | 
+ | [perl-Log-Report](/f22/package/perl-Log-Report) | 527 | 532 | 99.1 |  | 
+ | [pidgin-otr](/f22/package/pidgin-otr) | 1054 | 1064 | 99.1 | Paul Wouters <paul@cypherpunks.ca> | 
+ | [hugin](/f22/package/hugin) | 7457 | 7528 | 99.1 | American English <kde-i18n-doc@lists.kde.org> | 
+ | [grsync](/f22/package/grsync) | 1130 | 1141 | 99.0 |  | 
+ | [moin](/f22/package/moin) | 4974 | 5023 | 99.0 |  | 
+ | [enigma](/f22/package/enigma) | 9145 | 9237 | 99.0 | Dutch (http://www.transifex.com/projects/p/enigma/language/nl/) | 
+ | [vdr](/f22/package/vdr) | 1355 | 1369 | 99.0 | Dutch <vdr@linuxtv.org> | 
+ | [kchmviewer](/f22/package/kchmviewer) | 962 | 972 | 99.0 | Dutch <kde-i18n-doc@lists.kde.org> | 
+ | [bash](/f22/package/bash) | 11062 | 11178 | 99.0 | Dutch <vertaling@vrijschrift.org> | 
+ | [empathy](/f22/package/empathy) | 4159 | 4205 | 98.9 | Dutch <vertaling@vrijschrift.org> | 
+ | [audacious](/f22/package/audacious) | 632 | 639 | 98.9 | Dutch (http://www.transifex.com/projects/p/audacious/language/nl/) | 
+ | [coreutils](/f22/package/coreutils) | 20235 | 20478 | 98.8 | Dutch <vertaling@vrijschrift.org> | 
+ | [kazehakase](/f22/package/kazehakase) | 1835 | 1858 | 98.8 | Dutch | 
+ | [system-config-kdump](/f22/package/system-config-kdump) | 866 | 877 | 98.7 | Dutch (http://www.transifex.com/projects/p/fedora/language/nl/) | 
+ | [dayplanner](/f22/package/dayplanner) | 1082 | 1096 | 98.7 | Dutch <vertaling@vrijschrift.org> | 
+ | [fotoxx](/f22/package/fotoxx) | 3303 | 3346 | 98.7 | Dutch | 
+ | [gphoto2](/f22/package/gphoto2) | 1687 | 1709 | 98.7 | Dutch <vertaling@vrijschrift.org> | 
+ | [skychart](/f22/package/skychart) | 6326 | 6411 | 98.7 | LazPaint | 
+ | [alexandria](/f22/package/alexandria) | 1165 | 1181 | 98.6 | Dutch | 
+ | [xlog](/f22/package/xlog) | 1441 | 1462 | 98.6 | NL <nl@li.org> | 
+ | [mingw-p11-kit](/f22/package/mingw-p11-kit) | 469 | 476 | 98.5 | Dutch (http://www.transifex.com/projects/p/freedesktop/language/nl/) | 
+ | [p11-kit](/f22/package/p11-kit) | 469 | 476 | 98.5 | Dutch (http://www.transifex.com/projects/p/freedesktop/language/nl/) | 
+ | [certmonger](/f22/package/certmonger) | 1644 | 1669 | 98.5 | Dutch (http://www.transifex.com/projects/p/certmonger/language/nl/) | 
+ | [frescobaldi](/f22/package/frescobaldi) | 14903 | 15134 | 98.5 | Nederlands <> | 
+ | [subdownloader](/f22/package/subdownloader) | 952 | 968 | 98.3 | LANGUAGE <LL@li.org> | 
+ | [xpad](/f22/package/xpad) | 399 | 406 | 98.3 | Dutch <vertaling@vrijschrift.org> | 
+ | [mirage](/f22/package/mirage) | 802 | 817 | 98.2 |  | 
+ | [xiphos](/f22/package/xiphos) | 4640 | 4727 | 98.2 | Xiphos-developers <xiphos-developers@lists> | 
+ | [pinfo](/f22/package/pinfo) | 315 | 321 | 98.1 | Dutch <nl@li.org> | 
+ | [arduino](/f22/package/arduino) | 1881 | 1917 | 98.1 | Dutch | 
+ | [gimp](/f22/package/gimp) | 26457 | 26972 | 98.1 | Dutch <vertaling@vrijschrift.org> | 
+ | [scummvm](/f22/package/scummvm) | 3377 | 3445 | 98.0 | Ben Castricum <scummvm@bencastricum.nl> | 
+ | [listen](/f22/package/listen) | 1745 | 1783 | 97.9 | French <traduc@traduc.org> | 
+ | [mail-notification](/f22/package/mail-notification) | 1866 | 1908 | 97.8 | Marcel J. Zwiebel <mj.zwiebel@nonux.nl> | 
+ | [blueman](/f22/package/blueman) | 1414 | 1446 | 97.8 | Dutch (http://www.transifex.com/projects/p/MATE/language/nl/) | 
+ | [xfce4-timer-plugin](/f22/package/xfce4-timer-plugin) | 131 | 134 | 97.8 | Dutch (http://www.transifex.com/projects/p/xfce/language/nl/) | 
+ | [scim-chewing](/f22/package/scim-chewing) | 301 | 308 | 97.7 | Nederlands | 
+ | [frepple](/f22/package/frepple) | 2622 | 2683 | 97.7 | frepple | 
+ | [glpi](/f22/package/glpi) | 10393 | 10636 | 97.7 | Dutch (Netherlands) (http://www.transifex.com/glpi/GLPI/language/nl_NL/) | 
+ | [seahorse-nautilus](/f22/package/seahorse-nautilus) | 411 | 421 | 97.6 | Dutch <vertaling@vrijschrift.org> | 
+ | [kBuild](/f22/package/kBuild) | 493 | 505 | 97.6 | Dutch <vertaling@vrijschrift.org> | 
+ | [e16](/f22/package/e16) | 2760 | 2828 | 97.6 | Dutch <nl@li.org> | 
+ | [im-chooser](/f22/package/im-chooser) | 231 | 237 | 97.5 | LANGUAGE <LL@li.org> | 
+ | [boswars](/f22/package/boswars) | 230 | 236 | 97.5 | Dutch <foppe.benedictus@gmail.com> | 
+ | [udisks2](/f22/package/udisks2) | 1486 | 1525 | 97.4 | Dutch (http://www.transifex.com/projects/p/udisks/language/nl/) | 
+ | [nemiver](/f22/package/nemiver) | 409 | 420 | 97.4 | Dutch <vertaling@vrijschrift.org> | 
+ | [warzone2100](/f22/package/warzone2100) | 12870 | 13237 | 97.2 | Dutch <vertaling@vrijschrift.org> | 
+ | [dos2unix](/f22/package/dos2unix) | 3806 | 3916 | 97.2 | Dutch <vertaling@vrijschrift.org> | 
+ | [k3guitune](/f22/package/k3guitune) | 206 | 212 | 97.2 | Nederlands <nl@li.org> | 
+ | [rabbitvcs](/f22/package/rabbitvcs) | 1480 | 1524 | 97.1 | Dutch <vertaling@vrijschrift.org> | 
+ | [quodlibet](/f22/package/quodlibet) | 5022 | 5174 | 97.1 | Nederlands <en@li.org> | 
+ | [trytond-country](/f22/package/trytond-country) | 6781 | 6993 | 97.0 |  | 
+ | [zenity](/f22/package/zenity) | 728 | 751 | 96.9 | Dutch <vertaling@vrijschrift.org> | 
+ | [dbmail](/f22/package/dbmail) | 443 | 457 | 96.9 | Debian l10n Dutch <debian-l10n-dutch@lists.debian.org> | 
+ | [cracklib](/f22/package/cracklib) | 93 | 96 | 96.9 | Dutch <kde-i18n-nl@kde.org> | 
+ | [gweled](/f22/package/gweled) | 151 | 156 | 96.8 | Dutch <nl@li.org> | 
+ | [mingw-libgpg-error](/f22/package/mingw-libgpg-error) | 777 | 803 | 96.8 | Dutch <vertaling@vrijschrift.org> | 
+ | [libidn](/f22/package/libidn) | 414 | 428 | 96.7 | Dutch <vertaling@vrijschrift.org> | 
+ | [imsettings](/f22/package/imsettings) | 425 | 440 | 96.6 | LANGUAGE <LL@li.org> | 
+ | [tar](/f22/package/tar) | 3422 | 3543 | 96.6 | Dutch <vertaling@vrijschrift.org> | 
+ | [wxPython](/f22/package/wxPython) | 9791 | 10139 | 96.6 | wxWidgets translators <wx-translators@wxwidgets.org> | 
+ | [cinnamon-desktop](/f22/package/cinnamon-desktop) | 223 | 231 | 96.5 | Dutch <vertaling@nl.linux.org> | 
+ | [gtk+](/f22/package/gtk+) | 195 | 202 | 96.5 | dutch <nl@li.org> | 
+ | [lxpanel](/f22/package/lxpanel) | 978 | 1014 | 96.4 | Dutch | 
+ | [synaptic](/f22/package/synaptic) | 3116 | 3231 | 96.4 | Dutch <vertaling@vrijschrift.org> | 
+ | [libuser](/f22/package/libuser) | 1385 | 1437 | 96.4 | Dutch (http://www.transifex.com/projects/p/fedora/language/nl/) | 
+ | [drgeo](/f22/package/drgeo) | 1912 | 1985 | 96.3 | Dutch <vertaling@nl.linux.org> | 
+ | [sudo](/f22/package/sudo) | 3348 | 3483 | 96.1 | Dutch <vertaling@vrijschrift.org> | 
+ | [sylpheed](/f22/package/sylpheed) | 6826 | 7103 | 96.1 |  | 
+ | [sleuthkit](/f22/package/sleuthkit) | 6687 | 6961 | 96.1 | Dutch <vertaling@vrijschrift.org> | 
+ | [wput](/f22/package/wput) | 1021 | 1063 | 96.0 | Dutch <nl@li.org> | 
+ | [gnome-online-accounts](/f22/package/gnome-online-accounts) | 1111 | 1157 | 96.0 | Dutch <vertaling@vrijschrift.org> | 
+ | [gtk2](/f22/package/gtk2) | 11925 | 12423 | 96.0 | Dutch <vertaling@vrijschrift.org> | 
+ | [mingw-gtk2](/f22/package/mingw-gtk2) | 11925 | 12423 | 96.0 | Dutch <vertaling@vrijschrift.org> | 
+ | [newsbeuter](/f22/package/newsbeuter) | 1287 | 1342 | 95.9 | Dutch <vertalen@vrijschrift.org> | 
+ | [gliv](/f22/package/gliv) | 991 | 1034 | 95.8 | Dutch <vertaling@vrijschrift.org> | 
+ | [homebank](/f22/package/homebank) | 2049 | 2139 | 95.8 | Dutch <vertaling@nl.linux.org> | 
+ | [ufraw](/f22/package/ufraw) | 2079 | 2172 | 95.7 | American English <kde-i18n-doc@kde.org> | 
+ | [system-config-services](/f22/package/system-config-services) | 511 | 534 | 95.7 | Dutch (http://www.transifex.com/projects/p/fedora/language/nl/) | 
+ | [fetchmail](/f22/package/fetchmail) | 4192 | 4382 | 95.7 | Dutch <vertaling@vrijschrift.org> | 
+ | [chemtool](/f22/package/chemtool) | 1132 | 1184 | 95.6 | NONE | 
+ | [gdk-pixbuf2](/f22/package/gdk-pixbuf2) | 1288 | 1348 | 95.5 | Dutch <vertaling@vrijschrift.org> | 
+ | [mingw-gdk-pixbuf](/f22/package/mingw-gdk-pixbuf) | 1288 | 1348 | 95.5 | Dutch <vertaling@vrijschrift.org> | 
+ | [mc](/f22/package/mc) | 3869 | 4053 | 95.5 | Dutch (http://www.transifex.com/projects/p/mc/language/nl/) | 
+ | [gnome-libs](/f22/package/gnome-libs) | 1034 | 1085 | 95.3 | Dutch <nl@li.org> | 
+ | [openteacher](/f22/package/openteacher) | 3961 | 4157 | 95.3 | LANGUAGE <LL@li.org> | 
+ | [gramps](/f22/package/gramps) | 35321 | 37092 | 95.2 | nederlands <frederik.de.richter@gmail.com> | 
+ | [ekiga](/f22/package/ekiga) | 3991 | 4192 | 95.2 | Dutch <vertaling@vrijschrift.org> | 
+ | [fakeroot](/f22/package/fakeroot) | 1467 | 1543 | 95.1 | Dutch <nl@li.org> | 
+ | [libqalculate](/f22/package/libqalculate) | 6428 | 6764 | 95.0 | <kde-i18n-nl@kde.org> | 
+ | [mate-panel](/f22/package/mate-panel) | 4987 | 5248 | 95.0 |  | 
+ | [sed](/f22/package/sed) | 520 | 548 | 94.9 | Dutch <vertaling@vrijschrift.org> | 
+ | [shared-mime-info](/f22/package/shared-mime-info) | 1666 | 1756 | 94.9 | Dutch (http://www.transifex.com/projects/p/shared-mime-info/language/nl/) | 
+ | [indent](/f22/package/indent) | 258 | 272 | 94.9 | Dutch <vertaling@vrijschrift.org> | 
+ | [libpwquality](/f22/package/libpwquality) | 324 | 343 | 94.5 | Dutch (http://www.transifex.com/projects/p/libpwquality/language/nl/) | 
+ | [system-config-users](/f22/package/system-config-users) | 1436 | 1521 | 94.4 | Dutch (http://www.transifex.com/projects/p/fedora/language/nl/) | 
+ | [gnutls](/f22/package/gnutls) | 1358 | 1439 | 94.4 | Dutch <vertaling@vrijschrift.org> | 
+ | [mingw-gnutls](/f22/package/mingw-gnutls) | 1358 | 1439 | 94.4 | Dutch <vertaling@vrijschrift.org> | 
+ | [gwibber](/f22/package/gwibber) | 725 | 769 | 94.3 | Dutch <nl@li.org> | 
+ | [pogo](/f22/package/pogo) | 543 | 576 | 94.3 | Dutch <nl@li.org> | 
+ | [gallery2](/f22/package/gallery2) | 16745 | 17768 | 94.2 | Dutch <gallery-devel@lists.sourceforge.net> | 
+ | [jwm](/f22/package/jwm) | 274 | 291 | 94.2 | Dutch | 
+ | [zvbi](/f22/package/zvbi) | 624 | 664 | 94.0 | Dutch <ime@iae.nl> | 
+ | [decibel-audio-player](/f22/package/decibel-audio-player) | 1401 | 1494 | 93.8 | Dutch <nl@li.org> | 
+ | [mate-applets](/f22/package/mate-applets) | 8037 | 8582 | 93.6 | Dutch <nl@li.org> | 
+ | [openbox](/f22/package/openbox) | 473 | 506 | 93.5 | Dutch <vertaling@vrijschrift.org> | 
+ | [phpesp](/f22/package/phpesp) | 2083 | 2230 | 93.4 | nl_NL <jflemer@alum.rpi.edu> | 
+ | [coccinella](/f22/package/coccinella) | 4996 | 5358 | 93.2 | Dutch | 
+ | [mkvtoolnix](/f22/package/mkvtoolnix) | 37281 | 39992 | 93.2 | Nederlands rc1 <bmom43@gmail.com> | 
+ | [remmina](/f22/package/remmina) | 1072 | 1150 | 93.2 | Nederlands <> | 
+ | [python-nikola](/f22/package/python-nikola) | 68 | 73 | 93.2 | Dutch (http://www.transifex.com/projects/p/nikola/language/nl/) | 
+ | [entangle](/f22/package/entangle) | 869 | 934 | 93.0 | Dutch (http://www.transifex.com/projects/p/entangle/language/nl/) | 
+ | [vorbis-tools](/f22/package/vorbis-tools) | 3820 | 4109 | 93.0 | Dutch <vertaling@vrijschrift.org> | 
+ | [obconf](/f22/package/obconf) | 686 | 738 | 93.0 |  | 
+ | [popt](/f22/package/popt) | 78 | 84 | 92.9 | Dutch <vertaling@vrijschrift.org> | 
+ | [kid3](/f22/package/kid3) | 1714 | 1850 | 92.6 | Dutch <kde-i18n-doc@kde.org> | 
+ | [pavucontrol](/f22/package/pavucontrol) | 219 | 237 | 92.4 | nl <nl@li.org> | 
+ | [cherrytree](/f22/package/cherrytree) | 2535 | 2745 | 92.3 | Nederlands <> | 
+ | [initscripts](/f22/package/initscripts) | 922 | 1003 | 91.9 | Dutch (http://www.transifex.com/projects/p/fedora/language/nl/) | 
+ | [mtpaint](/f22/package/mtpaint) | 2876 | 3131 | 91.9 |  | 
+ | [muffin](/f22/package/muffin) | 1870 | 2038 | 91.8 | Dutch <vertaling@vrijschrift.org> | 
+ | [gftp](/f22/package/gftp) | 3096 | 3375 | 91.7 | Dutch <vertaling@vrijschrift.org> | 
+ | [a2ps](/f22/package/a2ps) | 1384 | 1512 | 91.5 | Dutch <vertaling@vrijschrift.org> | 
+ | [mate-session-manager](/f22/package/mate-session-manager) | 607 | 665 | 91.3 | Dutch (http://www.transifex.com/projects/p/MATE/language/nl/) | 
+ | [jwhois](/f22/package/jwhois) | 401 | 440 | 91.1 | Dutch <vertaling@nl.linux.org> | 
+ | [grub-customizer](/f22/package/grub-customizer) | 1179 | 1295 | 91.0 | Dutch <nl@li.org> | 
+ | [gourmet](/f22/package/gourmet) | 3582 | 3939 | 90.9 | Dutch <nl@li.org> | 
+ | [ldm](/f22/package/ldm) | 50 | 55 | 90.9 | Dutch <nl@li.org> | 
+ | [vdr-epgsearch](/f22/package/vdr-epgsearch) | 2189 | 2419 | 90.5 | Dutch <vdr@linuxtv.org> | 
+ | [cpio](/f22/package/cpio) | 1659 | 1837 | 90.3 | Dutch <vertaling@vrijschrift.org> | 
+ | [texlive](/f22/package/texlive) | 1101 | 1221 | 90.2 | TL Translation Team <tex-live@tug.org> | 
+ | [steadyflow](/f22/package/steadyflow) | 423 | 470 | 90.0 | Dutch <nl@li.org> | 
+ | [wget](/f22/package/wget) | 3228 | 3590 | 89.9 | Dutch <vertaling@vrijschrift.org> | 
+ | [libextractor](/f22/package/libextractor) | 1765 | 1964 | 89.9 | Dutch <vertaling@vrijschrift.org> | 
+ | [scim-tables](/f22/package/scim-tables) | 1003 | 1118 | 89.7 | Nederlands | 
+ | [util-linux](/f22/package/util-linux) | 18683 | 20839 | 89.7 | Dutch <vertaling@vrijschrift.org> | 
+ | [LabPlot](/f22/package/LabPlot) | 14953 | 16684 | 89.6 | Nederlands <kde-i18n-nl@kde.org.> | 
+ | [skrooge](/f22/package/skrooge) | 8798 | 9835 | 89.5 | Dutch <kde-i18n-nl@kde.org> | 
+ | [mingw-webkitgtk](/f22/package/mingw-webkitgtk) | 2407 | 2699 | 89.2 | Dutch <vertaling@vrijschrift.org> | 
+ | [mingw-webkitgtk3](/f22/package/mingw-webkitgtk3) | 2407 | 2699 | 89.2 | Dutch <vertaling@vrijschrift.org> | 
+ | [webkitgtk](/f22/package/webkitgtk) | 2407 | 2699 | 89.2 | Dutch <vertaling@vrijschrift.org> | 
+ | [webkitgtk3](/f22/package/webkitgtk3) | 2407 | 2699 | 89.2 | Dutch <vertaling@vrijschrift.org> | 
+ | [webkitgtk4](/f22/package/webkitgtk4) | 2407 | 2699 | 89.2 | Dutch <vertaling@vrijschrift.org> | 
+ | [backup-manager](/f22/package/backup-manager) | 947 | 1063 | 89.1 | DUTCH | 
+ | [ganyremote](/f22/package/ganyremote) | 443 | 500 | 88.6 | Dutch | 
+ | [exaile](/f22/package/exaile) | 3547 | 4006 | 88.5 | Dutch <https://hosted.weblate.org/projects/exaile/master/nl/> | 
+ | [wine](/f22/package/wine) | 12885 | 14570 | 88.4 | Dutch | 
+ | [viewnior](/f22/package/viewnior) | 375 | 425 | 88.2 | Dutch <nl@li.org> | 
+ | [thunar-vfs](/f22/package/thunar-vfs) | 341 | 387 | 88.1 | Dutch <xfce-i18n@xfce.org> | 
+ | [flaw](/f22/package/flaw) | 74 | 84 | 88.1 | LANGUAGE <LL@li.org> | 
+ | [WindowMaker](/f22/package/WindowMaker) | 5015 | 5707 | 87.9 | Dutch | 
+ | [gkrellm](/f22/package/gkrellm) | 3321 | 3784 | 87.8 | none <none> | 
+ | [poweradmin](/f22/package/poweradmin) | 1836 | 2093 | 87.7 | Dutch (http://www.transifex.net/projects/p/poweradmin/team/nl/) | 
+ | [pidgin-guifications](/f22/package/pidgin-guifications) | 442 | 505 | 87.5 | Dutch <nl@li.org> | 
+ | [asunder](/f22/package/asunder) | 420 | 480 | 87.5 | <LL@li.org> | 
+ | [xfmpc](/f22/package/xfmpc) | 146 | 167 | 87.4 | Dutch (Flemish) | 
+ | [slrn](/f22/package/slrn) | 4678 | 5351 | 87.4 | Dutch <nl@li.org> | 
+ | [findutils](/f22/package/findutils) | 2446 | 2811 | 87.0 | Dutch <vertaling@vrijschrift.org> | 
+ | [l3afpad](/f22/package/l3afpad) | 113 | 130 | 86.9 | Dutch <vertaling@vrijschrift.org> | 
+ | [jmol](/f22/package/jmol) | 2741 | 3163 | 86.7 | Dutch <jmol-developer@lists.sf.net> | 
+ | [cflow](/f22/package/cflow) | 525 | 606 | 86.6 | Dutch <vertaling@vrijschrift.org> | 
+ | [xarchiver](/f22/package/xarchiver) | 979 | 1131 | 86.6 | Dutch <vertaling@vrijschrift.org> | 
+ | [xmoto](/f22/package/xmoto) | 3320 | 3839 | 86.5 |  | 
+ | [thunar-vcs-plugin](/f22/package/thunar-vcs-plugin) | 435 | 506 | 86.0 | Dutch <xfce-i18n@xfce.org> | 
+ | [fgrun](/f22/package/fgrun) | 855 | 995 | 85.9 | Dutch | 
+ | [synfig](/f22/package/synfig) | 3573 | 4168 | 85.7 | Dutch (http://www.transifex.com/projects/p/synfig/language/nl/) | 
+ | [pspp](/f22/package/pspp) | 8725 | 10247 | 85.1 | Dutch <vertaling@vrijschrift.org> | 
+ | [rednotebook](/f22/package/rednotebook) | 976 | 1147 | 85.1 | Dutch <nl@li.org> | 
+ | [nodm](/f22/package/nodm) | 214 | 252 | 84.9 | Debian l10n Dutch <debian-l10n-dutch@lists.debian.org> | 
+ | [gmusicbrowser](/f22/package/gmusicbrowser) | 4533 | 5348 | 84.8 | Nederlands <gijs.timmers@student.kuleuven.be> | 
+ | [xchat](/f22/package/xchat) | 4250 | 5027 | 84.5 | Dutch <vertaling@vrijschrift.org> | 
+ | [virt-viewer](/f22/package/virt-viewer) | 584 | 692 | 84.4 | Dutch (http://www.transifex.com/projects/p/virt-viewer/language/nl/) | 
+ | [psmisc](/f22/package/psmisc) | 781 | 929 | 84.1 | Dutch <vertaling@vrijschrift.org> | 
+ | [pragha](/f22/package/pragha) | 674 | 802 | 84.0 | Dutch (http://www.transifex.com/projects/p/Pragha/language/nl/) | 
+ | [libgphoto2](/f22/package/libgphoto2) | 9305 | 11079 | 84.0 | Dutch <vertaling@vrijschrift.org> | 
+ | [tortoisehg](/f22/package/tortoisehg) | 10049 | 12026 | 83.6 | Dutch <nl@li.org> | 
+ | [mate-backgrounds](/f22/package/mate-backgrounds) | 25 | 30 | 83.3 | Dutch (http://www.transifex.com/projects/p/MATE/language/nl/) | 
+ | [fldigi](/f22/package/fldigi) | 5025 | 6051 | 83.0 | Dutch | 
+ | [vdr-skinenigmang](/f22/package/vdr-skinenigmang) | 267 | 322 | 82.9 | <vdr@linuxtv.org> | 
+ | [pinta](/f22/package/pinta) | 1336 | 1618 | 82.6 | Dutch <nl@li.org> | 
+ | [fuse-encfs](/f22/package/fuse-encfs) | 1053 | 1278 | 82.4 | Dutch <nl@li.org> | 
+ | [python-django-countries](/f22/package/python-django-countries) | 345 | 419 | 82.3 | Dutch (http://www.transifex.com/projects/p/django-countries/language/nl/) | 
+ | [gnome-commander](/f22/package/gnome-commander) | 7005 | 8519 | 82.2 | Dutch <vertaling@vrijschrift.org> | 
+ | [PackageKit](/f22/package/PackageKit) | 1046 | 1273 | 82.2 | Dutch (http://www.transifex.com/p/packagekit/language/nl/) | 
+ | [drupal6-cck](/f22/package/drupal6-cck) | 1806 | 2198 | 82.2 | Dutch <EMAIL@ADDRESS> | 
+ | [nemo-extensions](/f22/package/nemo-extensions) | 538 | 656 | 82.0 | Dutch <nl@li.org> | 
+ | [gajim](/f22/package/gajim) | 9721 | 11922 | 81.5 | none | 
+ | [gscan2pdf](/f22/package/gscan2pdf) | 1324 | 1624 | 81.5 | Dutch <nl@li.org> | 
+ | [grub2](/f22/package/grub2) | 5725 | 7053 | 81.2 | Dutch <vertaling@vrijschrift.org> | 
+ | [xdialog](/f22/package/xdialog) | 17 | 21 | 81.0 | Dutch | 
+ | [python-colander](/f22/package/python-colander) | 130 | 161 | 80.7 | nl <LL@li.org> | 
+ | [quassel](/f22/package/quassel) | 4343 | 5382 | 80.7 | Dutch (http://www.transifex.com/ald/quassel/language/nl/) | 
+ | [midori](/f22/package/midori) | 2841 | 3541 | 80.2 | Dutch (Flemish) | 
+ | [cinnamon-session](/f22/package/cinnamon-session) | 345 | 432 | 79.9 | Debian l10n Dutch <debian-l10n-dutch@lists.debian.org> | 
+ | [redshift](/f22/package/redshift) | 819 | 1026 | 79.8 | Dutch <nl@li.org> | 
+ | [openerp7](/f22/package/openerp7) | 51474 | 64698 | 79.6 | Dutch <nl@li.org> | 
+ | [openerp](/f22/package/openerp) | 63652 | 80115 | 79.5 |  | 
+ | [sonata](/f22/package/sonata) | 900 | 1136 | 79.2 |  | 
+ | [librfm](/f22/package/librfm) | 1884 | 2397 | 78.6 | Dutch <vertaling@vrijschrift.org> | 
+ | [xmms](/f22/package/xmms) | 2703 | 3443 | 78.5 | <en@li.org> | 
+ | [trytond-product](/f22/package/trytond-product) | 339 | 434 | 78.1 |  | 
+ | [enscript](/f22/package/enscript) | 1427 | 1833 | 77.9 | Dutch <vertaling@vrijschrift.org> | 
+ | [gdesklets](/f22/package/gdesklets) | 1186 | 1528 | 77.6 | Dutch <vertaling@vrijschrift.org> | 
+ | [minetest](/f22/package/minetest) | 394 | 513 | 76.8 |  | 
+ | [atril](/f22/package/atril) | 2610 | 3411 | 76.5 | Dutch <vertaling@vrijschrift.org> | 
+ | [python-sphinx](/f22/package/python-sphinx) | 377 | 493 | 76.5 | Dutch (http://www.transifex.com/projects/p/sphinx-1/language/nl/) | 
+ | [scim-array](/f22/package/scim-array) | 79 | 104 | 76.0 | Nederlands | 
+ | [trytond-currency](/f22/package/trytond-currency) | 356 | 469 | 75.9 |  | 
+ | [compiz](/f22/package/compiz) | 2462 | 3250 | 75.8 | Dutch <nl@li.org> | 
+ | [dia](/f22/package/dia) | 4324 | 5711 | 75.7 | Dutch <nl@li.org> | 
+ | [evince](/f22/package/evince) | 2495 | 3296 | 75.7 | Dutch <vertaling@vrijschrift.org> | 
+ | [gnome-shell-extension-openweather](/f22/package/gnome-shell-extension-openweather) | 374 | 497 | 75.3 |  | 
+ | [gphotoframe](/f22/package/gphotoframe) | 992 | 1322 | 75.0 | Dutch (Netherlands) (http://www.transifex.com/projects/p/gphotoframe/language/nl_NL/) | 
+ | [gedit-plugins](/f22/package/gedit-plugins) | 902 | 1205 | 74.9 | Dutch <vertaling@vrijschrift.org> | 
+ | [deluge](/f22/package/deluge) | 2040 | 2728 | 74.8 | Dutch <nl@li.org> | 
+ | [system-config-date-docs](/f22/package/system-config-date-docs) | 568 | 761 | 74.6 | Fedora | 
+ | [flare](/f22/package/flare) | 2449 | 3294 | 74.3 | Dutch; Flemish <> | 
+ | [efl](/f22/package/efl) | 109 | 147 | 74.1 | Enlightenment Team | 
+ | [compiz-plugins-experimental](/f22/package/compiz-plugins-experimental) | 6624 | 8946 | 74.0 | Dutch <nl@li.org> | 
+ | [compiz-plugins-extra](/f22/package/compiz-plugins-extra) | 6624 | 8946 | 74.0 | Dutch <nl@li.org> | 
+ | [compiz-plugins-main](/f22/package/compiz-plugins-main) | 6624 | 8946 | 74.0 | Dutch <nl@li.org> | 
+ | [compiz-plugins-unsupported](/f22/package/compiz-plugins-unsupported) | 6624 | 8946 | 74.0 | Dutch <nl@li.org> | 
+ | [genius](/f22/package/genius) | 3931 | 5338 | 73.6 | Dutch <vertaling@nl.linux.org> | 
+ | [caja-actions](/f22/package/caja-actions) | 1132 | 1554 | 72.8 | Dutch <vertaling@vrijschrift.org> | 
+ | [libgpg-error](/f22/package/libgpg-error) | 925 | 1272 | 72.7 | Dutch <vertaling@vrijschrift.org> | 
+ | [nautilus-pastebin](/f22/package/nautilus-pastebin) | 61 | 84 | 72.6 | Dutch <nl@li.org> | 
+ | [trytond-dashboard](/f22/package/trytond-dashboard) | 29 | 40 | 72.5 |  | 
+ | [xsane](/f22/package/xsane) | 2325 | 3224 | 72.1 | Dutch <nl@li.org> | 
+ | [trytond-account-statement](/f22/package/trytond-account-statement) | 121 | 169 | 71.6 |  | 
+ | [sflphone](/f22/package/sflphone) | 2259 | 3167 | 71.3 | LANGUAGE <LL@li.org> | 
+ | [centerim](/f22/package/centerim) | 2022 | 2864 | 70.6 | Nederlands <i18n@kde.nl> | 
+ | [flex](/f22/package/flex) | 796 | 1130 | 70.4 | Dutch <vertaling@vrijschrift.org> | 
+ | [trytond-account-invoice](/f22/package/trytond-account-invoice) | 707 | 1006 | 70.3 |  | 
+ | [rhn-client-tools](/f22/package/rhn-client-tools) | 2876 | 4103 | 70.1 | Dutch (http://www.transifex.com/projects/p/spacewalk/language/nl/) | 
+ | [kanyremote](/f22/package/kanyremote) | 339 | 484 | 70.0 | Dutch | 
+ | [mlocate](/f22/package/mlocate) | 406 | 581 | 69.9 | Dutch (http://www.transifex.com/projects/p/fedora/language/nl/) | 
+ | [sharutils](/f22/package/sharutils) | 2190 | 3147 | 69.6 | Dutch <vertaling@vrijschrift.org> | 
+ | [axel](/f22/package/axel) | 258 | 371 | 69.5 | Dutch <nl@li.org> | 
+ | [krecipes](/f22/package/krecipes) | 2602 | 3748 | 69.4 | Dutch <kde-i18n-nl@kde.org> | 
+ | [balsa](/f22/package/balsa) | 4277 | 6204 | 68.9 | Dutch <nl@li.org> | 
+ | [iok](/f22/package/iok) | 142 | 206 | 68.9 | Fedora | 
+ | [gnue-common](/f22/package/gnue-common) | 1454 | 2132 | 68.2 | <en@li.org> | 
+ | [NetworkManager-openconnect](/f22/package/NetworkManager-openconnect) | 2489 | 3716 | 67.0 | Dutch (http://www.transifex.com/projects/p/meego/language/nl/) | 
+ | [pulsecaster](/f22/package/pulsecaster) | 98 | 147 | 66.7 | nl <LL@li.org> | 
+ | [simon](/f22/package/simon) | 7833 | 11816 | 66.3 | Dutch <kde-i18n-nl@kde.org> | 
+ | [glib2](/f22/package/glib2) | 3595 | 5433 | 66.2 | Dutch <vertaling@vrijschrift.org> | 
+ | [mingw-glib2](/f22/package/mingw-glib2) | 3595 | 5433 | 66.2 | Dutch <vertaling@vrijschrift.org> | 
+ | [trytond-party](/f22/package/trytond-party) | 195 | 299 | 65.2 |  | 
+ | [libreport](/f22/package/libreport) | 2877 | 4475 | 64.3 | Dutch (http://www.transifex.com/projects/p/libreport/language/nl/) | 
+ | [ayttm](/f22/package/ayttm) | 1860 | 2912 | 63.9 | Nederlands <i18n@kde.nl> | 
+ | [trytond-account](/f22/package/trytond-account) | 1478 | 2322 | 63.7 |  | 
+ | [man-db](/f22/package/man-db) | 6098 | 9589 | 63.6 | Dutch <vertaling@vrijschrift.org> | 
+ | [purple-msn-pecan](/f22/package/purple-msn-pecan) | 603 | 960 | 62.8 | Dutch <nl@li.org> | 
+ | [kvirc](/f22/package/kvirc) | 11361 | 18095 | 62.8 | Nederlands <kvirc-subscribe@lists.omnikron.net> | 
+ | [pyroom](/f22/package/pyroom) | 258 | 411 | 62.8 | Dutch <nl@li.org> | 
+ | [mesa](/f22/package/mesa) | 244 | 389 | 62.7 | Dutch <vertaling@nl.linux.org> | 
+ | [sectool](/f22/package/sectool) | 1507 | 2411 | 62.5 | Dutch <nl@li.org> | 
+ | [clutter](/f22/package/clutter) | 1905 | 3053 | 62.4 | Dutch <nl@li.org> | 
+ | [tuxtype2](/f22/package/tuxtype2) | 49 | 80 | 61.3 | LANGUAGE <LL@li.org> | 
+ | [pulseaudio](/f22/package/pulseaudio) | 2011 | 3304 | 60.9 | Dutch <vertaling@vrijschrift.org> | 
+ | [gpodder](/f22/package/gpodder) | 1136 | 1879 | 60.5 | Dutch (http://www.transifex.com/projects/p/gpodder/language/nl/) | 
+ | [gitg](/f22/package/gitg) | 693 | 1154 | 60.1 | Dutch <vertaling@vrijschrift.org> | 
+ | [kupfer](/f22/package/kupfer) | 1487 | 2479 | 60.0 | Dutch | 
+ | [lilyterm](/f22/package/lilyterm) | 986 | 1648 | 59.8 | Adrian Buyssens <howitzer@archlinux.us> | 
+ | [trytond-sale](/f22/package/trytond-sale) | 337 | 564 | 59.8 |  | 
+ | [nuvolaplayer](/f22/package/nuvolaplayer) | 586 | 982 | 59.7 | Dutch <nl@li.org> | 
+ | [warmux](/f22/package/warmux) | 1630 | 2744 | 59.4 | Dutch <nl@li.org> | 
+ | [ksensors](/f22/package/ksensors) | 95 | 160 | 59.4 | Nederlands <i18n@kde.nl> | 
+ | [NetworkManager-openvpn](/f22/package/NetworkManager-openvpn) | 449 | 757 | 59.3 | Dutch <vertaling@vrijschrift.org> | 
+ | [mailman](/f22/package/mailman) | 14018 | 23721 | 59.1 | Dutch <info@janveuger.com> | 
+ | [cura](/f22/package/cura) | 2979 | 5057 | 58.9 | LANGUAGE &lt;LL@li.org&gt; | 
+ | [cura-lulzbot](/f22/package/cura-lulzbot) | 2979 | 5057 | 58.9 | LANGUAGE &lt;LL@li.org&gt; | 
+ | [avogadro](/f22/package/avogadro) | 3671 | 6236 | 58.9 | Dutch <nl@li.org> | 
+ | [pidgin-libnotify](/f22/package/pidgin-libnotify) | 21 | 36 | 58.3 |  | 
+ | [zabbix](/f22/package/zabbix) | 8965 | 15519 | 57.8 | NL | 
+ | [virt-manager](/f22/package/virt-manager) | 4564 | 7952 | 57.4 | Dutch (http://www.transifex.com/projects/p/virt-manager/language/nl/) | 
+ | [trytond-timesheet](/f22/package/trytond-timesheet) | 148 | 258 | 57.4 |  | 
+ | [caja-terminal](/f22/package/caja-terminal) | 63 | 110 | 57.3 | Dutch <nl@li.org> | 
+ | [monodevelop](/f22/package/monodevelop) | 9467 | 16623 | 57.0 | Dutch | 
+ | [gimp-gap](/f22/package/gimp-gap) | 5464 | 9598 | 56.9 | Dutch <vertaling@nl.linux.org> | 
+ | [pingus](/f22/package/pingus) | 3062 | 5395 | 56.8 | Bas Wijnen <wijnen@debian.org>, Martijn Santen <martijn@jomarsoft.nl>, Giray Devlet <giray@devlet.cc> | 
+ | [trytond-account-product](/f22/package/trytond-account-product) | 114 | 201 | 56.7 |  | 
+ | [geeqie](/f22/package/geeqie) | 2030 | 3614 | 56.2 | Dutch <vertaling@vrijschrift.org> | 
+ | [obby](/f22/package/obby) | 89 | 159 | 56.0 | Dutch <nl@li.org> | 
+ | [gtweakui](/f22/package/gtweakui) | 138 | 252 | 54.8 | Dutch <nl@li.org> | 
+ | [vidalia](/f22/package/vidalia) | 5655 | 10463 | 54.0 | translations@vidalia-project.net | 
+ | [yumex-dnf](/f22/package/yumex-dnf) | 431 | 798 | 54.0 | Dutch (http://www.transifex.com/projects/p/yumex/language/nl/) | 
+ | [hexchat](/f22/package/hexchat) | 3111 | 5762 | 54.0 | Dutch (http://www.transifex.com/projects/p/hexchat/language/nl/) | 
+ | [radiotray](/f22/package/radiotray) | 70 | 130 | 53.8 | Dutch (http://www.transifex.com/projects/p/radiotray/language/nl/) | 
+ | [clisp](/f22/package/clisp) | 7577 | 14278 | 53.1 | Dutch <vertaling@vrijschrift.org> | 
+ | [mingw-qt5-qtwebkit](/f22/package/mingw-qt5-qtwebkit) | 1382 | 2631 | 52.5 | Dutch <vertaling@vrijschrift.org> | 
+ | [qt5-qtwebkit](/f22/package/qt5-qtwebkit) | 1382 | 2631 | 52.5 | Dutch <vertaling@vrijschrift.org> | 
+ | [gettext](/f22/package/gettext) | 3772 | 7303 | 51.7 | Dutch <vertaling@vrijschrift.org> | 
+ | [mingw-gettext](/f22/package/mingw-gettext) | 3772 | 7303 | 51.7 | Dutch <vertaling@vrijschrift.org> | 
+ | [openconnect](/f22/package/openconnect) | 2428 | 4722 | 51.4 | Dutch (http://www.transifex.com/projects/p/meego/language/nl/) | 
+ | [gtypist](/f22/package/gtypist) | 285 | 556 | 51.3 | Dutch (Nederlands) <nl@li.org> | 
+ | [trytond](/f22/package/trytond) | 1350 | 2648 | 51.0 |  | 
+ | [texi2html](/f22/package/texi2html) | 1017 | 1996 | 51.0 | Dutch <guido@imperia.net> | 
+ | [lordsawar](/f22/package/lordsawar) | 1618 | 3178 | 50.9 | Dutch <vertaling@vrijschrift.org> | 
+ | [synapse](/f22/package/synapse) | 414 | 824 | 50.2 | Dutch <nl@li.org> | 
+ | [calibre](/f22/package/calibre) | 73372 | 147028 | 49.9 | Dutch (http://www.transifex.com/calibre/calibre/language/nl/) | 
+ | [enlightenment](/f22/package/enlightenment) | 4250 | 8708 | 48.8 | Dutch <kde-i18n-doc@kde.org> | 
+ | [trytond-company](/f22/package/trytond-company) | 62 | 128 | 48.4 |  | 
+ | [engrampa](/f22/package/engrampa) | 3395 | 7133 | 47.6 | Dutch <nl@li.org> | 
+ | [colorhug-client](/f22/package/colorhug-client) | 667 | 1409 | 47.3 | Dutch (Netherlands) (http://www.transifex.com/projects/p/colorhug-client/language/nl_NL/) | 
+ | [mingw-colorhug-client](/f22/package/mingw-colorhug-client) | 667 | 1409 | 47.3 | Dutch (Netherlands) (http://www.transifex.com/projects/p/colorhug-client/language/nl_NL/) | 
+ | [easytag](/f22/package/easytag) | 2602 | 5507 | 47.2 | Dutch <nl@li.org> | 
+ | [gstreamer1-plugins-bad-free](/f22/package/gstreamer1-plugins-bad-free) | 228 | 486 | 46.9 | Dutch <vertaling@vrijschrift.org> | 
+ | [mingw-gstreamer1-plugins-bad-free](/f22/package/mingw-gstreamer1-plugins-bad-free) | 228 | 486 | 46.9 | Dutch <vertaling@vrijschrift.org> | 
+ | [gnome-activity-journal](/f22/package/gnome-activity-journal) | 148 | 316 | 46.8 |  | 
+ | [anjuta](/f22/package/anjuta) | 3643 | 7905 | 46.1 | Dutch <vertaling@vrijschrift.org> | 
+ | [flumotion](/f22/package/flumotion) | 1530 | 3337 | 45.8 |  | 
+ | [gtg](/f22/package/gtg) | 1601 | 3497 | 45.8 | Dutch <nl@li.org> | 
+ | [wesnoth](/f22/package/wesnoth) | 117023 | 256016 | 45.7 | Dutch <AI0867@gmail.com> | 
+ | [flare-engine](/f22/package/flare-engine) | 273 | 598 | 45.7 | Dutch; Flemish <> | 
+ | [pgadmin3](/f22/package/pgadmin3) | 7673 | 16898 | 45.4 | pgAdmin Developers <pgadmin-hackers@postgresql.org> | 
+ | [xfe](/f22/package/xfe) | 2722 | 6004 | 45.3 | Dutch | 
+ | [yum-rhn-plugin](/f22/package/yum-rhn-plugin) | 66 | 147 | 44.9 | Dutch (http://www.transifex.com/projects/p/fedora/language/nl/) | 
+ | [bison](/f22/package/bison) | 632 | 1419 | 44.5 | Dutch <vertaling@vrijschrift.org> | 
+ | [audacious-plugins](/f22/package/audacious-plugins) | 1721 | 3910 | 44.0 | Dutch (http://www.transifex.com/projects/p/audacious/language/nl/) | 
+ | [goffice08](/f22/package/goffice08) | 2018 | 4599 | 43.9 | Dutch <vertaling@vrijschrift.org> | 
+ | [docky](/f22/package/docky) | 768 | 1757 | 43.7 | Dutch <nl@li.org> | 
+ | [xournal](/f22/package/xournal) | 440 | 1016 | 43.3 |  | 
+ | [gnome-video-effects](/f22/package/gnome-video-effects) | 11 | 26 | 42.3 | Dutch | 
+ | [python-blivet](/f22/package/python-blivet) | 284 | 678 | 41.9 | Dutch (http://www.transifex.com/projects/p/blivet/language/nl/) | 
+ | [iso-codes](/f22/package/iso-codes) | 11480 | 27518 | 41.7 | Dutch <vertaling@vrijschrift.org> | 
+ | [gummi](/f22/package/gummi) | 316 | 758 | 41.7 | Dutch <LL@li.org> | 
+ | [trac-accountmanager-plugin](/f22/package/trac-accountmanager-plugin) | 488 | 1208 | 40.4 | Dutch <trac-dev@googlegroups.com> | 
+ | [lilypond](/f22/package/lilypond) | 5197 | 12972 | 40.1 | LANGUAGE <LL@li.org> | 
+ | [labyrinth](/f22/package/labyrinth) | 89 | 226 | 39.4 | Dutch <nl@li.org> | 
+ | [guake](/f22/package/guake) | 367 | 937 | 39.2 | Dutch (http://www.transifex.com/projects/p/guake/language/nl/) | 
+ | [rt](/f22/package/rt) | 3990 | 10201 | 39.1 | Dutch <nl@li.org> | 
+ | [partimage](/f22/package/partimage) | 1312 | 3387 | 38.7 | Dutch <nl@li.org> | 
+ | [python-django-debug-toolbar](/f22/package/python-django-debug-toolbar) | 137 | 355 | 38.6 | Dutch (http://www.transifex.com/projects/p/django-debug-toolbar/language/nl/) | 
+ | [trac](/f22/package/trac) | 5026 | 13111 | 38.3 | nl <LL@li.org> | 
+ | [caribou](/f22/package/caribou) | 76 | 200 | 38.0 | Dutch <gnome-nl-list@gnome.org> | 
+ | [sawfish](/f22/package/sawfish) | 2370 | 6443 | 36.8 | Dutch <nl@li.org> | 
+ | [calcurse](/f22/package/calcurse) | 889 | 2433 | 36.5 | Dutch (http://www.transifex.com/lfleischer/calcurse/language/nl/) | 
+ | [freeciv](/f22/package/freeciv) | 35580 | 98018 | 36.3 | Nederlands <nl@li.org> | 
+ | [scim-hangul](/f22/package/scim-hangul) | 77 | 214 | 36.0 | Nederlands | 
+ | [gcal](/f22/package/gcal) | 1797 | 5005 | 35.9 | Dutch <vertaling@vrijschrift.org> | 
+ | [samba](/f22/package/samba) | 187 | 524 | 35.7 | Novell Language <language@novell.com> | 
+ | [python-django-openstack-auth](/f22/package/python-django-openstack-auth) | 42 | 120 | 35.0 | Dutch (Netherlands) (http://www.transifex.com/projects/p/horizon/language/nl_NL/) | 
+ | [jpilot](/f22/package/jpilot) | 1058 | 3074 | 34.4 | Dutch <vertaling@vrijschrift.org> | 
+ | [gnome-documents](/f22/package/gnome-documents) | 549 | 1599 | 34.3 | Dutch <nl@li.org> | 
+ | [pychess](/f22/package/pychess) | 1049 | 3091 | 33.9 | Danish <thomas@ahle.dk> | 
+ | [krename](/f22/package/krename) | 697 | 2058 | 33.9 | <en@li.org> | 
+ | [tagtool](/f22/package/tagtool) | 324 | 958 | 33.8 | Dutch <vertaling@vrijschrift.org> | 
+ | [gnumed](/f22/package/gnumed) | 8520 | 25930 | 32.9 | Dutch <nl@li.org> | 
+ | [mingw-libvirt](/f22/package/mingw-libvirt) | 17031 | 52474 | 32.5 | Dutch (http://www.transifex.com/projects/p/fedora/language/nl/) | 
+ | [openerp-client](/f22/package/openerp-client) | 2507 | 7729 | 32.4 | Dutch <nl@li.org> | 
+ | [libvirt](/f22/package/libvirt) | 17009 | 52524 | 32.4 | Dutch (http://www.transifex.com/projects/p/fedora/language/nl/) | 
+ | [scim-pinyin](/f22/package/scim-pinyin) | 204 | 634 | 32.2 | Nederlands | 
+ | [revelation](/f22/package/revelation) | 620 | 1945 | 31.9 | Dutch (http://www.transifex.com/projects/p/revelation/language/nl/) | 
+ | [publican](/f22/package/publican) | 1726 | 5443 | 31.7 | Fedora | 
+ | [dc3dd](/f22/package/dc3dd) | 276 | 871 | 31.7 | Dutch <vertaling@vrijschrift.org> | 
+ | [stellarium](/f22/package/stellarium) | 5021 | 15962 | 31.5 |  | 
+ | [lyx](/f22/package/lyx) | 6657 | 21611 | 30.8 | Dutch <lyx-docs@lists.lyx.org> | 
+ | [etherape](/f22/package/etherape) | 360 | 1170 | 30.8 | Dutch <nl@li.org> | 
+ | [frozen-bubble](/f22/package/frozen-bubble) | 210 | 698 | 30.1 | LANGUAGE <LL@li.org> | 
+ | [glabels](/f22/package/glabels) | 2341 | 7989 | 29.3 | Dutch <vertaling@vrijschrift.org> | 
+ | [tvtime](/f22/package/tvtime) | 357 | 1227 | 29.1 | Dutch <nl@li.org> | 
+ | [light-locker](/f22/package/light-locker) | 68 | 234 | 29.1 | Dutch (http://www.transifex.com/projects/p/light-locker/language/nl/) | 
+ | [goffice](/f22/package/goffice) | 1797 | 6201 | 29.0 | Dutch <vertaling@vrijschrift.org> | 
+ | [gnumeric](/f22/package/gnumeric) | 10024 | 35046 | 28.6 | Dutch <vertaling@vrijschrift.org> | 
+ | [spacefm](/f22/package/spacefm) | 2426 | 8722 | 27.8 | Dutch (http://www.transifex.com/projects/p/spacefm/language/nl/) | 
+ | [shadow-utils](/f22/package/shadow-utils) | 1087 | 3923 | 27.7 | debian-l10n-dutch <debian-l10n-dutch@lists.debian.org> | 
+ | [cinepaint](/f22/package/cinepaint) | 1993 | 7407 | 26.9 | Dutch <vertaling@nl.linux.org> | 
+ | [ailurus](/f22/package/ailurus) | 2060 | 7717 | 26.7 | none | 
+ | [recode](/f22/package/recode) | 221 | 829 | 26.7 | Dutch <nl@li.org> | 
+ | [lazarus](/f22/package/lazarus) | 6793 | 25543 | 26.6 |  | 
+ | [tuxpaint-stamps](/f22/package/tuxpaint-stamps) | 684 | 2711 | 25.2 | Nederlands <nl@li.org> | 
+ | [lifeograph](/f22/package/lifeograph) | 252 | 1004 | 25.1 | Dutch <nl@li.org> | 
+ | [geany-plugins](/f22/package/geany-plugins) | 1827 | 7752 | 23.6 | Dutch | 
+ | [system-config-language](/f22/package/system-config-language) | 46 | 197 | 23.4 | Fedora | 
+ | [terminator](/f22/package/terminator) | 287 | 1311 | 21.9 | LANGUAGE <LL@li.org> | 
+ | [sound-juicer](/f22/package/sound-juicer) | 1291 | 5923 | 21.8 | Dutch <vertaling@vrijschrift.org> | 
+ | [fusionforge](/f22/package/fusionforge) | 6517 | 31805 | 20.5 | Dutch <nl@li.org> | 
+ | [colord](/f22/package/colord) | 386 | 1885 | 20.5 | Dutch (http://www.transifex.com/projects/p/colord/language/nl/) | 
+ | [mingw-colord](/f22/package/mingw-colord) | 386 | 1885 | 20.5 | Dutch (http://www.transifex.com/projects/p/colord/language/nl/) | 
+ | [pam_pkcs11](/f22/package/pam_pkcs11) | 34 | 167 | 20.4 | Dutch <nl@li.org> | 
+ | [glade](/f22/package/glade) | 669 | 3326 | 20.1 | Dutch <vertaling@vrijschrift.org> | 
+ | [glade3](/f22/package/glade3) | 669 | 3326 | 20.1 | Dutch <vertaling@vrijschrift.org> | 
+ | [supertux](/f22/package/supertux) | 361 | 1823 | 19.8 | Dutch (http://www.transifex.com/arctic-games/supertux/language/nl/) | 
+ | [revisor](/f22/package/revisor) | 877 | 4443 | 19.7 | Dutch <nippur@fedoraproject.org> | 
+ | [subtitleeditor](/f22/package/subtitleeditor) | 348 | 1817 | 19.2 | Dutch <LL@li.org> | 
+ | [ncmpc](/f22/package/ncmpc) | 147 | 788 | 18.7 | Dutch <nl@li.org> | 
+ | [gtkhash](/f22/package/gtkhash) | 22 | 118 | 18.6 | Dutch <nl@li.org> | 
+ | [linux_logo](/f22/package/linux_logo) | 10 | 54 | 18.5 | LANGUAGE <LL@li.org> | 
+ | [gnomebaker](/f22/package/gnomebaker) | 433 | 2353 | 18.4 | Dutch <nl@li.org> | 
+ | [gnome-user-docs](/f22/package/gnome-user-docs) | 8463 | 46007 | 18.4 | Dutch <nl@li.org> | 
+ | [policycoreutils](/f22/package/policycoreutils) | 1378 | 7678 | 17.9 | Dutch (http://www.transifex.com/projects/p/fedora/language/nl/) | 
+ | [bibletime](/f22/package/bibletime) | 1707 | 9720 | 17.6 | Deutsch | 
+ | [rodent](/f22/package/rodent) | 1696 | 9802 | 17.3 |  | 
+ | [bacula](/f22/package/bacula) | 106 | 615 | 17.2 | LANGUAGE <LL@li.org> | 
+ | [tuxmath](/f22/package/tuxmath) | 238 | 1454 | 16.4 | Dutch <LL@li.org> | 
+ | [viking](/f22/package/viking) | 675 | 4135 | 16.3 | Dutch <nl@li.org> | 
+ | [python-django-formtools](/f22/package/python-django-formtools) | 5 | 32 | 15.6 | Dutch (http://www.transifex.com/projects/p/django-formtools/language/nl/) | 
+ | [grisbi](/f22/package/grisbi) | 1820 | 12750 | 14.3 | Dutch <en@li.org> | 
+ | [compat-gcc-32](/f22/package/compat-gcc-32) | 4827 | 34490 | 14.0 | Dutch <vertaling@nl.linux.org> | 
+ | [manaplus](/f22/package/manaplus) | 604 | 4384 | 13.8 | Dutch (http://www.transifex.com/projects/p/manaplus/language/nl/) | 
+ | [hamster-time-tracker](/f22/package/hamster-time-tracker) | 96 | 697 | 13.8 | Dutch <vertaling@vrijschrift.org> | 
+ | [liveusb-creator](/f22/package/liveusb-creator) | 87 | 649 | 13.4 | Fedora | 
+ | [stardict](/f22/package/stardict) | 1290 | 11078 | 11.6 | LANGUAGE <LL@li.org> | 
+ | [printrun](/f22/package/printrun) | 293 | 2594 | 11.3 | NL <LL@li.org> | 
+ | [sssd](/f22/package/sssd) | 2879 | 25712 | 11.2 | Dutch (http://www.transifex.com/projects/p/sssd/language/nl/) | 
+ | [NetworkManager-ssh](/f22/package/NetworkManager-ssh) | 32 | 286 | 11.2 | Dutch <vertaling@vrijschrift.org> | 
+ | [gimp-help](/f22/package/gimp-help) | 26718 | 240891 | 11.1 | LANGUAGE <LL@li.org> | 
+ | [nacl-gcc](/f22/package/nacl-gcc) | 5960 | 53910 | 11.1 | Dutch <vertaling@vrijschrift.org> | 
+ | [compat-gcc-34](/f22/package/compat-gcc-34) | 3376 | 30879 | 10.9 | Dutch <vertaling@nl.linux.org> | 
+ | [NetworkManager-fortisslvpn](/f22/package/NetworkManager-fortisslvpn) | 19 | 174 | 10.9 | Dutch <vertaling@vrijschrift.org> | 
+ | [NetworkManager-l2tp](/f22/package/NetworkManager-l2tp) | 80 | 753 | 10.6 | Dutch <vertaling@vrijschrift.org> | 
+ | [linphone](/f22/package/linphone) | 185 | 1853 | 10.0 | Nederlands <vertaling@nl.linux.org> | 
+ | [powertop](/f22/package/powertop) | 55 | 611 | 9.0 | Dutch (Netherlands) (http://www.transifex.com/projects/p/PowerTOP/language/nl_NL/) | 
+ | [common-lisp-controller](/f22/package/common-lisp-controller) | 5 | 57 | 8.8 | Debian l10n Dutch <debian-l10n-dutch@lists.debian.org> | 
+ | [avr-gcc](/f22/package/avr-gcc) | 6421 | 80406 | 8.0 | Dutch <vertaling@vrijschrift.org> | 
+ | [ghdl](/f22/package/ghdl) | 6421 | 80406 | 8.0 | Dutch <vertaling@vrijschrift.org> | 
+ | [nacl-arm-gcc](/f22/package/nacl-arm-gcc) | 6421 | 80406 | 8.0 | Dutch <vertaling@vrijschrift.org> | 
+ | [ircp-tray](/f22/package/ircp-tray) | 19 | 239 | 7.9 | Dutch <nl@li.org> | 
+ | [msp430-gcc](/f22/package/msp430-gcc) | 5094 | 66518 | 7.7 | Dutch <vertaling@vrijschrift.org> | 
+ | [po4a](/f22/package/po4a) | 145 | 1941 | 7.5 | Dutch <debian-l10n-dutch@lists.debian.org> | 
+ | [pan](/f22/package/pan) | 236 | 3168 | 7.4 | Dutch <vertaling@vrijschrift.org> | 
+ | [cross-gcc](/f22/package/cross-gcc) | 6329 | 86662 | 7.3 | Dutch <vertaling@vrijschrift.org> | 
+ | [gcc](/f22/package/gcc) | 6329 | 86662 | 7.3 | Dutch <vertaling@vrijschrift.org> | 
+ | [mingw-gcc](/f22/package/mingw-gcc) | 6211 | 86025 | 7.2 | Dutch <vertaling@vrijschrift.org> | 
+ | [tanglet](/f22/package/tanglet) | 9 | 125 | 7.2 | Dutch (http://www.transifex.com/projects/p/tanglet/language/nl/) | 
+ | [arm-none-eabi-gcc-cs](/f22/package/arm-none-eabi-gcc-cs) | 6189 | 86557 | 7.2 | Dutch <vertaling@vrijschrift.org> | 
+ | [synfigstudio](/f22/package/synfigstudio) | 308 | 4337 | 7.1 | Dutch (http://www.transifex.com/projects/p/synfig/language/nl/) | 
+ | [vdr-live](/f22/package/vdr-live) | 60 | 907 | 6.6 | see developers in README | 
+ | [publican-fedora](/f22/package/publican-fedora) | 7 | 107 | 6.5 | Fedora | 
+ | [gammu](/f22/package/gammu) | 259 | 4019 | 6.4 | none | 
+ | [mcomix](/f22/package/mcomix) | 163 | 2604 | 6.3 | LANGUAGE <LL@li.org> | 
+ | [elementary](/f22/package/elementary) | 9 | 146 | 6.2 | Dutch <vistausss@gmail.com> | 
+ | [gnotime](/f22/package/gnotime) | 118 | 2008 | 5.9 | Dutch <NL@li.org>, Dennis Smit <area101.penguin.nl> | 
+ | [novprog](/f22/package/novprog) | 4 | 71 | 5.6 | Dutch (http://www.transifex.com/projects/p/novprog/language/nl/) | 
+ | [hydrogen](/f22/package/hydrogen) | 381 | 7769 | 4.9 |  | 
+ | [rpm](/f22/package/rpm) | 174 | 3800 | 4.6 | Dutch (http://www.transifex.com/projects/p/rpm/language/nl/) | 
+ | [aria2](/f22/package/aria2) | 299 | 6665 | 4.5 | Dutch <nl@li.org> | 
+ | [cogl](/f22/package/cogl) | 15 | 393 | 3.8 | Dutch <vertaling@vrijschrift.org> | 
+ | [bpython](/f22/package/bpython) | 13 | 342 | 3.8 | bpython developers | 
+ | [simsu](/f22/package/simsu) | 3 | 81 | 3.7 | Dutch (http://www.transifex.com/projects/p/simsu/language/nl/) | 
+ | [feedreader](/f22/package/feedreader) | 12 | 347 | 3.5 | Dutch <nl@li.org> | 
+ | [postgresql-jdbc](/f22/package/postgresql-jdbc) | 68 | 2064 | 3.3 | Dutch <ajkuiper@wxs.nl> | 
+ | [libguestfs](/f22/package/libguestfs) | 5208 | 174060 | 3.0 | Dutch (http://www.transifex.com/projects/p/libguestfs/language/nl/) | 
+ | [elinks](/f22/package/elinks) | 359 | 12245 | 2.9 | Dutch <vertaling@nl.linux.org> | 
+ | [libgda](/f22/package/libgda) | 281 | 11142 | 2.5 | Dutch <vertaling@vrijschrift.org> | 
+ | [NetworkManager](/f22/package/NetworkManager) | 125 | 9877 | 1.3 | Dutch <vertaling@vrijschrift.org> | 
+ | [gnome-abrt](/f22/package/gnome-abrt) | 5 | 439 | 1.1 | Dutch (http://www.transifex.com/projects/p/gnome-abrt/language/nl/) | 
+ | [autotest-framework](/f22/package/autotest-framework) | 11 | 983 | 1.1 | Dutch <vertaling@vrijschrift.org> | 
+ | [blender](/f22/package/blender) | 333 | 99163 | 0.3 | LANGUAGE <LL@li.org> | 
+ | [bzr](/f22/package/bzr) | 3 | 33249 | 0.0 | Dutch <nl@li.org> | 
+ | [appstream](/f22/package/appstream) | 0 | 304 | 0.0 | Dutch (http://www.transifex.com/freedesktop/appstream/language/nl/) | 
+ | [avahi](/f22/package/avahi) | 0 | 865 | 0.0 | nl <nl@li.org> | 
+ | [cherokee](/f22/package/cherokee) | 0 | 0 | 0.0 | none | 
+ | [dnf-plugin-system-upgrade](/f22/package/dnf-plugin-system-upgrade) | 0 | 211 | 0.0 | Dutch | 
+ | [drupal6-userpoints](/f22/package/drupal6-userpoints) | 0 | 0 | 0.0 |  | 
+ | [fonts-tweak-tool](/f22/package/fonts-tweak-tool) | 0 | 164 | 0.0 | Dutch | 
+ | [grass](/f22/package/grass) | 0 | 72595 | 0.0 | Dutch <grass-translations@lists.osgeo.org> | 
+ | [gtkpod](/f22/package/gtkpod) | 0 | 7520 | 0.0 | Dutch (Netherlands) <None> | 
+ | [icewm](/f22/package/icewm) | 0 | 0 | 0.0 | Dutch | 
+ | [kexec-tools](/f22/package/kexec-tools) | 0 | 83 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [libgxim](/f22/package/libgxim) | 0 | 124 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [libosinfo](/f22/package/libosinfo) | 0 | 1871 | 0.0 | Dutch | 
+ | [libreswan](/f22/package/libreswan) | 0 | 935 | 0.0 | Debian l10n Dutch <debian-l10n-dutch@lists.debian.org> | 
+ | [libsmbios](/f22/package/libsmbios) | 0 | 1630 | 0.0 | Dutch | 
+ | [libvirt-glib](/f22/package/libvirt-glib) | 0 | 138 | 0.0 | Dutch (http://www.transifex.com/projects/p/libvirt-glib/language/nl/) | 
+ | [libvirt-sandbox](/f22/package/libvirt-sandbox) | 0 | 617 | 0.0 | Dutch (http://www.transifex.com/projects/p/fedora/language/nl/) | 
+ | [mariadb](/f22/package/mariadb) | 0 | 308 | 0.0 | Debian-Dutch <debian-l10n-dutch@lists.debian.org> | 
+ | [mariadb-galera](/f22/package/mariadb-galera) | 0 | 308 | 0.0 | Debian-Dutch <debian-l10n-dutch@lists.debian.org> | 
+ | [mingw-libvirt-glib](/f22/package/mingw-libvirt-glib) | 0 | 138 | 0.0 | Dutch (http://www.transifex.com/projects/p/libvirt-glib/language/nl/) | 
+ | [oscap-anaconda-addon](/f22/package/oscap-anaconda-addon) | 0 | 194 | 0.0 | Dutch (http://www.transifex.com/projects/p/oscap-anaconda-addon/language/nl/) | 
+ | [php-horde-Horde-Form](/f22/package/php-horde-Horde-Form) | 0 | 0 | 0.0 | i18n@lists.horde.org | 
+ | [php-horde-Horde-Image](/f22/package/php-horde-Horde-Image) | 0 | 0 | 0.0 | i18n@lists.horde.org | 
+ | [php-horde-Horde-Kolab-Storage](/f22/package/php-horde-Horde-Kolab-Storage) | 0 | 0 | 0.0 | i18n@lists.horde.org | 
+ | [prozilla](/f22/package/prozilla) | 0 | 0 | 0.0 |  | 
+ | [python-django-rest-framework](/f22/package/python-django-rest-framework) | 0 | 493 | 0.0 | Dutch (http://www.transifex.com/projects/p/django-rest-framework/language/nl/) | 
+ | [qgis](/f22/package/qgis) | 0 | 47 | 0.0 | Dutch (http://www.transifex.com/projects/p/MetaSearch/language/nl/) | 
+ | [realmd](/f22/package/realmd) | 0 | 778 | 0.0 | Dutch (http://www.transifex.com/projects/p/freedesktop/language/nl/) | 
+ | [retrace-server](/f22/package/retrace-server) | 0 | 381 | 0.0 | Dutch | 
+ | [sugar-view-slides](/f22/package/sugar-view-slides) | 0 | 7 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [supertuxkart](/f22/package/supertuxkart) | 0 | 0 | 0.0 |  | 
+ | [trytond-account-invoice-history](/f22/package/trytond-account-invoice-history) | 0 | 2 | 0.0 |  | 
+ | [trytond-account-invoice-line-standalone](/f22/package/trytond-account-invoice-line-standalone) | 0 | 24 | 0.0 |  | 
+ | [trytond-account-stock-anglo-saxon](/f22/package/trytond-account-stock-anglo-saxon) | 0 | 46 | 0.0 |  | 
+ | [trytond-account-stock-continental](/f22/package/trytond-account-stock-continental) | 0 | 207 | 0.0 |  | 
+ | [trytond-analytic-account](/f22/package/trytond-analytic-account) | 0 | 193 | 0.0 |  | 
+ | [trytond-analytic-invoice](/f22/package/trytond-analytic-invoice) | 0 | 2 | 0.0 |  | 
+ | [trytond-analytic-purchase](/f22/package/trytond-analytic-purchase) | 0 | 10 | 0.0 |  | 
+ | [trytond-analytic-sale](/f22/package/trytond-analytic-sale) | 0 | 2 | 0.0 |  | 
+ | [trytond-calendar](/f22/package/trytond-calendar) | 0 | 489 | 0.0 |  | 
+ | [trytond-calendar-classification](/f22/package/trytond-calendar-classification) | 0 | 2 | 0.0 |  | 
+ | [trytond-calendar-scheduling](/f22/package/trytond-calendar-scheduling) | 0 | 100 | 0.0 |  | 
+ | [trytond-calendar-todo](/f22/package/trytond-calendar-todo) | 0 | 202 | 0.0 |  | 
+ | [trytond-company-work-time](/f22/package/trytond-company-work-time) | 0 | 18 | 0.0 |  | 
+ | [trytond-google-maps](/f22/package/trytond-google-maps) | 0 | 2 | 0.0 |  | 
+ | [trytond-ldap-authentication](/f22/package/trytond-ldap-authentication) | 0 | 36 | 0.0 |  | 
+ | [trytond-ldap-connection](/f22/package/trytond-ldap-connection) | 0 | 64 | 0.0 |  | 
+ | [trytond-party-siret](/f22/package/trytond-party-siret) | 0 | 10 | 0.0 |  | 
+ | [trytond-party-vcarddav](/f22/package/trytond-party-vcarddav) | 0 | 14 | 0.0 |  | 
+ | [trytond-product-cost-fifo](/f22/package/trytond-product-cost-fifo) | 0 | 23 | 0.0 |  | 
+ | [trytond-product-cost-history](/f22/package/trytond-product-cost-history) | 0 | 26 | 0.0 |  | 
+ | [trytond-product-price-list](/f22/package/trytond-product-price-list) | 0 | 68 | 0.0 |  | 
+ | [trytond-project](/f22/package/trytond-project) | 0 | 78 | 0.0 |  | 
+ | [trytond-project-plan](/f22/package/trytond-project-plan) | 0 | 97 | 0.0 |  | 
+ | [trytond-project-revenue](/f22/package/trytond-project-revenue) | 0 | 61 | 0.0 |  | 
+ | [trytond-purchase](/f22/package/trytond-purchase) | 0 | 630 | 0.0 |  | 
+ | [trytond-purchase-invoice-line-standalone](/f22/package/trytond-purchase-invoice-line-standalone) | 0 | 53 | 0.0 |  | 
+ | [trytond-sale-opportunity](/f22/package/trytond-sale-opportunity) | 0 | 347 | 0.0 |  | 
+ | [trytond-sale-price-list](/f22/package/trytond-sale-price-list) | 0 | 5 | 0.0 |  | 
+ | [trytond-stock](/f22/package/trytond-stock) | 0 | 1237 | 0.0 |  | 
+ | [trytond-stock-forecast](/f22/package/trytond-stock-forecast) | 0 | 174 | 0.0 |  | 
+ | [trytond-stock-inventory-location](/f22/package/trytond-stock-inventory-location) | 0 | 17 | 0.0 |  | 
+ | [trytond-stock-location-sequence](/f22/package/trytond-stock-location-sequence) | 0 | 1 | 0.0 |  | 
+ | [trytond-stock-product-location](/f22/package/trytond-stock-product-location) | 0 | 29 | 0.0 |  | 
+ | [trytond-stock-supply](/f22/package/trytond-stock-supply) | 0 | 236 | 0.0 |  | 
+ | [trytond-stock-supply-day](/f22/package/trytond-stock-supply-day) | 0 | 29 | 0.0 |  | 
 {.sortable}
 
 
@@ -1374,13 +1374,13 @@ We use the po metadata to get the language code and the team, but sometimes it f
 
 | Package | Lang from file path/name | polib error | Team |
 |---------|--------------------------|-------------|------|
- | [bzflag]({{< ref "/f22/package/bzflag.md" >}}) | /mnt/stockage/packages/f22/bzflag/data/l10n/bzflag_nl.po | error-os |  | 
- | [drupal6-userpoints]({{< ref "/f22/package/drupal6-userpoints.md" >}}) | /mnt/stockage/packages/f22/drupal6-userpoints/translations/nl.po | error-unicode |  | 
- | [moin]({{< ref "/f22/package/moin.md" >}}) | /mnt/stockage/packages/f22/moin/MoinMoin/i18n/nl.MoinMoin.po | error-os |  | 
- | [prozilla]({{< ref "/f22/package/prozilla.md" >}}) | /mnt/stockage/packages/f22/prozilla/libprozilla/po/nl.po | error-unicode |  | 
- | [prozilla]({{< ref "/f22/package/prozilla.md" >}}) | /mnt/stockage/packages/f22/prozilla/po/nl.po | error-unicode |  | 
- | [rodent]({{< ref "/f22/package/rodent.md" >}}) | /mnt/stockage/packages/f22/rodent/apps/fgr/po/nl.po | error-unicode |  | 
- | [supertuxkart]({{< ref "/f22/package/supertuxkart.md" >}}) | /mnt/stockage/packages/f22/supertuxkart/data/po/nl.po | error-os |  | 
+ | [bzflag](/f22/package/bzflag) | /mnt/stockage/packages/f22/bzflag/data/l10n/bzflag_nl.po | error-os |  | 
+ | [drupal6-userpoints](/f22/package/drupal6-userpoints) | /mnt/stockage/packages/f22/drupal6-userpoints/translations/nl.po | error-unicode |  | 
+ | [moin](/f22/package/moin) | /mnt/stockage/packages/f22/moin/MoinMoin/i18n/nl.MoinMoin.po | error-os |  | 
+ | [prozilla](/f22/package/prozilla) | /mnt/stockage/packages/f22/prozilla/libprozilla/po/nl.po | error-unicode |  | 
+ | [prozilla](/f22/package/prozilla) | /mnt/stockage/packages/f22/prozilla/po/nl.po | error-unicode |  | 
+ | [rodent](/f22/package/rodent) | /mnt/stockage/packages/f22/rodent/apps/fgr/po/nl.po | error-unicode |  | 
+ | [supertuxkart](/f22/package/supertuxkart) | /mnt/stockage/packages/f22/supertuxkart/data/po/nl.po | error-os |  | 
 {.sortable}
 
 
@@ -1391,11 +1391,11 @@ We use the calcstats from translate toolkit to get the translation progress, but
 
 | Package | Lang from file path/name | Team |
 |---------|--------------------------|------|
- | [drupal6-userpoints]({{< ref "/f22/package/drupal6-userpoints.md" >}}) | /mnt/stockage/packages/f22/drupal6-userpoints/translations/nl.po |  | 
- | [icewm]({{< ref "/f22/package/icewm.md" >}}) | /mnt/stockage/packages/f22/icewm/po/nl.po | Dutch | 
- | [prozilla]({{< ref "/f22/package/prozilla.md" >}}) | /mnt/stockage/packages/f22/prozilla/libprozilla/po/nl.po |  | 
- | [prozilla]({{< ref "/f22/package/prozilla.md" >}}) | /mnt/stockage/packages/f22/prozilla/po/nl.po |  | 
- | [supertuxkart]({{< ref "/f22/package/supertuxkart.md" >}}) | /mnt/stockage/packages/f22/supertuxkart/data/po/nl.po |  | 
+ | [drupal6-userpoints](/f22/package/drupal6-userpoints) | /mnt/stockage/packages/f22/drupal6-userpoints/translations/nl.po |  | 
+ | [icewm](/f22/package/icewm) | /mnt/stockage/packages/f22/icewm/po/nl.po | Dutch | 
+ | [prozilla](/f22/package/prozilla) | /mnt/stockage/packages/f22/prozilla/libprozilla/po/nl.po |  | 
+ | [prozilla](/f22/package/prozilla) | /mnt/stockage/packages/f22/prozilla/po/nl.po |  | 
+ | [supertuxkart](/f22/package/supertuxkart) | /mnt/stockage/packages/f22/supertuxkart/data/po/nl.po |  | 
 {.sortable}
 
 

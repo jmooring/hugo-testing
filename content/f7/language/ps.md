@@ -41,9 +41,9 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [kde-i18n]({{< ref "/f7/package/kde-i18n.md" >}}) | 7 | 7 | 100.0 | Traditional Chinese <zh_l10n@linux.org.tw> | 
- | [pidgin]({{< ref "/f7/package/pidgin.md" >}}) | 2141 | 15654 | 13.7 | Pashto | 
- | [iso-codes]({{< ref "/f7/package/iso-codes.md" >}}) | 120 | 12020 | 1.0 | Pushto | 
+ | [kde-i18n](/f7/package/kde-i18n) | 7 | 7 | 100.0 | Traditional Chinese <zh_l10n@linux.org.tw> | 
+ | [pidgin](/f7/package/pidgin) | 2141 | 15654 | 13.7 | Pashto | 
+ | [iso-codes](/f7/package/iso-codes) | 120 | 12020 | 1.0 | Pushto | 
 {.sortable}
 
 

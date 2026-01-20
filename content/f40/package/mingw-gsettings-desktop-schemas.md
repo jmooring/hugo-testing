@@ -18,64 +18,64 @@ The package mingw-gsettings-desktop-schemas (version 45.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [bg]({{< ref "/f40/language/bg.md" >}}) | 7207 | 7207 | 100.0 | /mnt/stockage/packages/f40/mingw-gsettings-desktop-schemas/po/bg.po | 
- | [bs]({{< ref "/f40/language/bs.md" >}}) | 5813 | 5813 | 100.0 | /mnt/stockage/packages/f40/mingw-gsettings-desktop-schemas/po/bs.po | 
- | [ca]({{< ref "/f40/language/ca.md" >}}) | 7207 | 7207 | 100.0 | /mnt/stockage/packages/f40/mingw-gsettings-desktop-schemas/po/ca.po | 
- | [cs]({{< ref "/f40/language/cs.md" >}}) | 7163 | 7163 | 100.0 | /mnt/stockage/packages/f40/mingw-gsettings-desktop-schemas/po/cs.po | 
- | [da]({{< ref "/f40/language/da.md" >}}) | 7163 | 7163 | 100.0 | /mnt/stockage/packages/f40/mingw-gsettings-desktop-schemas/po/da.po | 
- | [de]({{< ref "/f40/language/de.md" >}}) | 7207 | 7207 | 100.0 | /mnt/stockage/packages/f40/mingw-gsettings-desktop-schemas/po/de.po | 
- | [el]({{< ref "/f40/language/el.md" >}}) | 5863 | 5863 | 100.0 | /mnt/stockage/packages/f40/mingw-gsettings-desktop-schemas/po/el.po | 
- | [en_GB]({{< ref "/f40/language/en_GB.md" >}}) | 7207 | 7207 | 100.0 | /mnt/stockage/packages/f40/mingw-gsettings-desktop-schemas/po/en_GB.po | 
- | [es]({{< ref "/f40/language/es.md" >}}) | 7163 | 7163 | 100.0 | /mnt/stockage/packages/f40/mingw-gsettings-desktop-schemas/po/es.po | 
- | [eu]({{< ref "/f40/language/eu.md" >}}) | 7163 | 7163 | 100.0 | /mnt/stockage/packages/f40/mingw-gsettings-desktop-schemas/po/eu.po | 
- | [fr]({{< ref "/f40/language/fr.md" >}}) | 7205 | 7205 | 100.0 | /mnt/stockage/packages/f40/mingw-gsettings-desktop-schemas/po/fr.po | 
- | [fur]({{< ref "/f40/language/fur.md" >}}) | 7207 | 7207 | 100.0 | /mnt/stockage/packages/f40/mingw-gsettings-desktop-schemas/po/fur.po | 
- | [gl]({{< ref "/f40/language/gl.md" >}}) | 7163 | 7163 | 100.0 | /mnt/stockage/packages/f40/mingw-gsettings-desktop-schemas/po/gl.po | 
- | [he]({{< ref "/f40/language/he.md" >}}) | 7163 | 7163 | 100.0 | /mnt/stockage/packages/f40/mingw-gsettings-desktop-schemas/po/he.po | 
- | [hi]({{< ref "/f40/language/hi.md" >}}) | 5290 | 5290 | 100.0 | /mnt/stockage/packages/f40/mingw-gsettings-desktop-schemas/po/hi.po | 
- | [hr]({{< ref "/f40/language/hr.md" >}}) | 7207 | 7207 | 100.0 | /mnt/stockage/packages/f40/mingw-gsettings-desktop-schemas/po/hr.po | 
- | [hu]({{< ref "/f40/language/hu.md" >}}) | 7163 | 7163 | 100.0 | /mnt/stockage/packages/f40/mingw-gsettings-desktop-schemas/po/hu.po | 
- | [id]({{< ref "/f40/language/id.md" >}}) | 7163 | 7163 | 100.0 | /mnt/stockage/packages/f40/mingw-gsettings-desktop-schemas/po/id.po | 
- | [it]({{< ref "/f40/language/it.md" >}}) | 7010 | 7010 | 100.0 | /mnt/stockage/packages/f40/mingw-gsettings-desktop-schemas/po/it.po | 
- | [lt]({{< ref "/f40/language/lt.md" >}}) | 7163 | 7163 | 100.0 | /mnt/stockage/packages/f40/mingw-gsettings-desktop-schemas/po/lt.po | 
- | [lv]({{< ref "/f40/language/lv.md" >}}) | 6378 | 6378 | 100.0 | /mnt/stockage/packages/f40/mingw-gsettings-desktop-schemas/po/lv.po | 
- | [ms]({{< ref "/f40/language/ms.md" >}}) | 6603 | 6603 | 100.0 | /mnt/stockage/packages/f40/mingw-gsettings-desktop-schemas/po/ms.po | 
- | [pl]({{< ref "/f40/language/pl.md" >}}) | 7163 | 7163 | 100.0 | /mnt/stockage/packages/f40/mingw-gsettings-desktop-schemas/po/pl.po | 
- | [pt]({{< ref "/f40/language/pt.md" >}}) | 7163 | 7163 | 100.0 | /mnt/stockage/packages/f40/mingw-gsettings-desktop-schemas/po/pt.po | 
- | [pt_BR]({{< ref "/f40/language/pt_BR.md" >}}) | 7207 | 7207 | 100.0 | /mnt/stockage/packages/f40/mingw-gsettings-desktop-schemas/po/pt_BR.po | 
- | [ro]({{< ref "/f40/language/ro.md" >}}) | 7163 | 7163 | 100.0 | /mnt/stockage/packages/f40/mingw-gsettings-desktop-schemas/po/ro.po | 
- | [ru]({{< ref "/f40/language/ru.md" >}}) | 7163 | 7163 | 100.0 | /mnt/stockage/packages/f40/mingw-gsettings-desktop-schemas/po/ru.po | 
- | [sk]({{< ref "/f40/language/sk.md" >}}) | 6311 | 6311 | 100.0 | /mnt/stockage/packages/f40/mingw-gsettings-desktop-schemas/po/sk.po | 
- | [sl]({{< ref "/f40/language/sl.md" >}}) | 7163 | 7163 | 100.0 | /mnt/stockage/packages/f40/mingw-gsettings-desktop-schemas/po/sl.po | 
- | [sr]({{< ref "/f40/language/sr.md" >}}) | 13585 | 13585 | 100.0 | /mnt/stockage/packages/f40/mingw-gsettings-desktop-schemas/po/sr@latin.po/mnt/stockage/packages/f40/mingw-gsettings-desktop-schemas/po/sr.po | 
- | [sv]({{< ref "/f40/language/sv.md" >}}) | 7163 | 7163 | 100.0 | /mnt/stockage/packages/f40/mingw-gsettings-desktop-schemas/po/sv.po | 
- | [tr]({{< ref "/f40/language/tr.md" >}}) | 7163 | 7163 | 100.0 | /mnt/stockage/packages/f40/mingw-gsettings-desktop-schemas/po/tr.po | 
- | [uk]({{< ref "/f40/language/uk.md" >}}) | 7163 | 7163 | 100.0 | /mnt/stockage/packages/f40/mingw-gsettings-desktop-schemas/po/uk.po | 
- | [zh_Hans]({{< ref "/f40/language/zh_Hans.md" >}}) | 7163 | 7163 | 100.0 | /mnt/stockage/packages/f40/mingw-gsettings-desktop-schemas/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f40/language/zh_Hant.md" >}}) | 6378 | 6378 | 100.0 | /mnt/stockage/packages/f40/mingw-gsettings-desktop-schemas/po/zh_TW.po | 
- | [zh_Hant_HK]({{< ref "/f40/language/zh_Hant_HK.md" >}}) | 5665 | 5665 | 100.0 | /mnt/stockage/packages/f40/mingw-gsettings-desktop-schemas/po/zh_HK.po | 
- | [ca@valencia]({{< ref "/f40/language/ca@valencia.md" >}}) | 5942 | 6311 | 94.2 | /mnt/stockage/packages/f40/mingw-gsettings-desktop-schemas/po/ca@valencia.po | 
- | [oc]({{< ref "/f40/language/oc.md" >}}) | 6155 | 7207 | 85.4 | /mnt/stockage/packages/f40/mingw-gsettings-desktop-schemas/po/oc.po | 
- | [ug]({{< ref "/f40/language/ug.md" >}}) | 3600 | 5290 | 68.1 | /mnt/stockage/packages/f40/mingw-gsettings-desktop-schemas/po/ug.po | 
- | [pa]({{< ref "/f40/language/pa.md" >}}) | 2202 | 4224 | 52.1 | /mnt/stockage/packages/f40/mingw-gsettings-desktop-schemas/po/pa.po | 
- | [nl]({{< ref "/f40/language/nl.md" >}}) | 3621 | 7207 | 50.2 | /mnt/stockage/packages/f40/mingw-gsettings-desktop-schemas/po/nl.po | 
- | [or]({{< ref "/f40/language/or.md" >}}) | 2113 | 4585 | 46.1 | /mnt/stockage/packages/f40/mingw-gsettings-desktop-schemas/po/or.po | 
- | [vi]({{< ref "/f40/language/vi.md" >}}) | 762 | 2430 | 31.4 | /mnt/stockage/packages/f40/mingw-gsettings-desktop-schemas/po/vi.po | 
- | [ne]({{< ref "/f40/language/ne.md" >}}) | 2038 | 7207 | 28.3 | /mnt/stockage/packages/f40/mingw-gsettings-desktop-schemas/po/ne.po | 
- | [nb_NO]({{< ref "/f40/language/nb_NO.md" >}}) | 1596 | 6694 | 23.8 | /mnt/stockage/packages/f40/mingw-gsettings-desktop-schemas/po/nb.po | 
- | [eo]({{< ref "/f40/language/eo.md" >}}) | 1494 | 6343 | 23.6 | /mnt/stockage/packages/f40/mingw-gsettings-desktop-schemas/po/eo.po | 
- | [gu]({{< ref "/f40/language/gu.md" >}}) | 1128 | 5665 | 19.9 | /mnt/stockage/packages/f40/mingw-gsettings-desktop-schemas/po/gu.po | 
- | [ja]({{< ref "/f40/language/ja.md" >}}) | 1052 | 6550 | 16.1 | /mnt/stockage/packages/f40/mingw-gsettings-desktop-schemas/po/ja.po | 
- | [is]({{< ref "/f40/language/is.md" >}}) | 957 | 6232 | 15.4 | /mnt/stockage/packages/f40/mingw-gsettings-desktop-schemas/po/is.po | 
- | [as]({{< ref "/f40/language/as.md" >}}) | 678 | 4585 | 14.8 | /mnt/stockage/packages/f40/mingw-gsettings-desktop-schemas/po/as.po | 
- | [kk]({{< ref "/f40/language/kk.md" >}}) | 1020 | 7207 | 14.2 | /mnt/stockage/packages/f40/mingw-gsettings-desktop-schemas/po/kk.po | 
- | [ka]({{< ref "/f40/language/ka.md" >}}) | 977 | 7163 | 13.6 | /mnt/stockage/packages/f40/mingw-gsettings-desktop-schemas/po/ka.po | 
- | [ml]({{< ref "/f40/language/ml.md" >}}) | 582 | 5290 | 11.0 | /mnt/stockage/packages/f40/mingw-gsettings-desktop-schemas/po/ml.po | 
- | [be]({{< ref "/f40/language/be.md" >}}) | 536 | 7163 | 7.5 | /mnt/stockage/packages/f40/mingw-gsettings-desktop-schemas/po/be.po | 
- | [fi]({{< ref "/f40/language/fi.md" >}}) | 406 | 5558 | 7.3 | /mnt/stockage/packages/f40/mingw-gsettings-desktop-schemas/po/fi.po | 
- | [fa]({{< ref "/f40/language/fa.md" >}}) | 354 | 7163 | 4.9 | /mnt/stockage/packages/f40/mingw-gsettings-desktop-schemas/po/fa.po | 
- | [ab]({{< ref "/f40/language/ab.md" >}}) | 323 | 7207 | 4.5 | /mnt/stockage/packages/f40/mingw-gsettings-desktop-schemas/po/ab.po | 
- | [tg]({{< ref "/f40/language/tg.md" >}}) | 8 | 5290 | 0.2 | /mnt/stockage/packages/f40/mingw-gsettings-desktop-schemas/po/tg.po | 
+ | [bg](/f40/language/bg) | 7207 | 7207 | 100.0 | /mnt/stockage/packages/f40/mingw-gsettings-desktop-schemas/po/bg.po | 
+ | [bs](/f40/language/bs) | 5813 | 5813 | 100.0 | /mnt/stockage/packages/f40/mingw-gsettings-desktop-schemas/po/bs.po | 
+ | [ca](/f40/language/ca) | 7207 | 7207 | 100.0 | /mnt/stockage/packages/f40/mingw-gsettings-desktop-schemas/po/ca.po | 
+ | [cs](/f40/language/cs) | 7163 | 7163 | 100.0 | /mnt/stockage/packages/f40/mingw-gsettings-desktop-schemas/po/cs.po | 
+ | [da](/f40/language/da) | 7163 | 7163 | 100.0 | /mnt/stockage/packages/f40/mingw-gsettings-desktop-schemas/po/da.po | 
+ | [de](/f40/language/de) | 7207 | 7207 | 100.0 | /mnt/stockage/packages/f40/mingw-gsettings-desktop-schemas/po/de.po | 
+ | [el](/f40/language/el) | 5863 | 5863 | 100.0 | /mnt/stockage/packages/f40/mingw-gsettings-desktop-schemas/po/el.po | 
+ | [en_GB](/f40/language/en_GB) | 7207 | 7207 | 100.0 | /mnt/stockage/packages/f40/mingw-gsettings-desktop-schemas/po/en_GB.po | 
+ | [es](/f40/language/es) | 7163 | 7163 | 100.0 | /mnt/stockage/packages/f40/mingw-gsettings-desktop-schemas/po/es.po | 
+ | [eu](/f40/language/eu) | 7163 | 7163 | 100.0 | /mnt/stockage/packages/f40/mingw-gsettings-desktop-schemas/po/eu.po | 
+ | [fr](/f40/language/fr) | 7205 | 7205 | 100.0 | /mnt/stockage/packages/f40/mingw-gsettings-desktop-schemas/po/fr.po | 
+ | [fur](/f40/language/fur) | 7207 | 7207 | 100.0 | /mnt/stockage/packages/f40/mingw-gsettings-desktop-schemas/po/fur.po | 
+ | [gl](/f40/language/gl) | 7163 | 7163 | 100.0 | /mnt/stockage/packages/f40/mingw-gsettings-desktop-schemas/po/gl.po | 
+ | [he](/f40/language/he) | 7163 | 7163 | 100.0 | /mnt/stockage/packages/f40/mingw-gsettings-desktop-schemas/po/he.po | 
+ | [hi](/f40/language/hi) | 5290 | 5290 | 100.0 | /mnt/stockage/packages/f40/mingw-gsettings-desktop-schemas/po/hi.po | 
+ | [hr](/f40/language/hr) | 7207 | 7207 | 100.0 | /mnt/stockage/packages/f40/mingw-gsettings-desktop-schemas/po/hr.po | 
+ | [hu](/f40/language/hu) | 7163 | 7163 | 100.0 | /mnt/stockage/packages/f40/mingw-gsettings-desktop-schemas/po/hu.po | 
+ | [id](/f40/language/id) | 7163 | 7163 | 100.0 | /mnt/stockage/packages/f40/mingw-gsettings-desktop-schemas/po/id.po | 
+ | [it](/f40/language/it) | 7010 | 7010 | 100.0 | /mnt/stockage/packages/f40/mingw-gsettings-desktop-schemas/po/it.po | 
+ | [lt](/f40/language/lt) | 7163 | 7163 | 100.0 | /mnt/stockage/packages/f40/mingw-gsettings-desktop-schemas/po/lt.po | 
+ | [lv](/f40/language/lv) | 6378 | 6378 | 100.0 | /mnt/stockage/packages/f40/mingw-gsettings-desktop-schemas/po/lv.po | 
+ | [ms](/f40/language/ms) | 6603 | 6603 | 100.0 | /mnt/stockage/packages/f40/mingw-gsettings-desktop-schemas/po/ms.po | 
+ | [pl](/f40/language/pl) | 7163 | 7163 | 100.0 | /mnt/stockage/packages/f40/mingw-gsettings-desktop-schemas/po/pl.po | 
+ | [pt](/f40/language/pt) | 7163 | 7163 | 100.0 | /mnt/stockage/packages/f40/mingw-gsettings-desktop-schemas/po/pt.po | 
+ | [pt_BR](/f40/language/pt_BR) | 7207 | 7207 | 100.0 | /mnt/stockage/packages/f40/mingw-gsettings-desktop-schemas/po/pt_BR.po | 
+ | [ro](/f40/language/ro) | 7163 | 7163 | 100.0 | /mnt/stockage/packages/f40/mingw-gsettings-desktop-schemas/po/ro.po | 
+ | [ru](/f40/language/ru) | 7163 | 7163 | 100.0 | /mnt/stockage/packages/f40/mingw-gsettings-desktop-schemas/po/ru.po | 
+ | [sk](/f40/language/sk) | 6311 | 6311 | 100.0 | /mnt/stockage/packages/f40/mingw-gsettings-desktop-schemas/po/sk.po | 
+ | [sl](/f40/language/sl) | 7163 | 7163 | 100.0 | /mnt/stockage/packages/f40/mingw-gsettings-desktop-schemas/po/sl.po | 
+ | [sr](/f40/language/sr) | 13585 | 13585 | 100.0 | /mnt/stockage/packages/f40/mingw-gsettings-desktop-schemas/po/sr@latin.po/mnt/stockage/packages/f40/mingw-gsettings-desktop-schemas/po/sr.po | 
+ | [sv](/f40/language/sv) | 7163 | 7163 | 100.0 | /mnt/stockage/packages/f40/mingw-gsettings-desktop-schemas/po/sv.po | 
+ | [tr](/f40/language/tr) | 7163 | 7163 | 100.0 | /mnt/stockage/packages/f40/mingw-gsettings-desktop-schemas/po/tr.po | 
+ | [uk](/f40/language/uk) | 7163 | 7163 | 100.0 | /mnt/stockage/packages/f40/mingw-gsettings-desktop-schemas/po/uk.po | 
+ | [zh_Hans](/f40/language/zh_Hans) | 7163 | 7163 | 100.0 | /mnt/stockage/packages/f40/mingw-gsettings-desktop-schemas/po/zh_CN.po | 
+ | [zh_Hant](/f40/language/zh_Hant) | 6378 | 6378 | 100.0 | /mnt/stockage/packages/f40/mingw-gsettings-desktop-schemas/po/zh_TW.po | 
+ | [zh_Hant_HK](/f40/language/zh_Hant_HK) | 5665 | 5665 | 100.0 | /mnt/stockage/packages/f40/mingw-gsettings-desktop-schemas/po/zh_HK.po | 
+ | [ca@valencia](/f40/language/ca@valencia) | 5942 | 6311 | 94.2 | /mnt/stockage/packages/f40/mingw-gsettings-desktop-schemas/po/ca@valencia.po | 
+ | [oc](/f40/language/oc) | 6155 | 7207 | 85.4 | /mnt/stockage/packages/f40/mingw-gsettings-desktop-schemas/po/oc.po | 
+ | [ug](/f40/language/ug) | 3600 | 5290 | 68.1 | /mnt/stockage/packages/f40/mingw-gsettings-desktop-schemas/po/ug.po | 
+ | [pa](/f40/language/pa) | 2202 | 4224 | 52.1 | /mnt/stockage/packages/f40/mingw-gsettings-desktop-schemas/po/pa.po | 
+ | [nl](/f40/language/nl) | 3621 | 7207 | 50.2 | /mnt/stockage/packages/f40/mingw-gsettings-desktop-schemas/po/nl.po | 
+ | [or](/f40/language/or) | 2113 | 4585 | 46.1 | /mnt/stockage/packages/f40/mingw-gsettings-desktop-schemas/po/or.po | 
+ | [vi](/f40/language/vi) | 762 | 2430 | 31.4 | /mnt/stockage/packages/f40/mingw-gsettings-desktop-schemas/po/vi.po | 
+ | [ne](/f40/language/ne) | 2038 | 7207 | 28.3 | /mnt/stockage/packages/f40/mingw-gsettings-desktop-schemas/po/ne.po | 
+ | [nb_NO](/f40/language/nb_NO) | 1596 | 6694 | 23.8 | /mnt/stockage/packages/f40/mingw-gsettings-desktop-schemas/po/nb.po | 
+ | [eo](/f40/language/eo) | 1494 | 6343 | 23.6 | /mnt/stockage/packages/f40/mingw-gsettings-desktop-schemas/po/eo.po | 
+ | [gu](/f40/language/gu) | 1128 | 5665 | 19.9 | /mnt/stockage/packages/f40/mingw-gsettings-desktop-schemas/po/gu.po | 
+ | [ja](/f40/language/ja) | 1052 | 6550 | 16.1 | /mnt/stockage/packages/f40/mingw-gsettings-desktop-schemas/po/ja.po | 
+ | [is](/f40/language/is) | 957 | 6232 | 15.4 | /mnt/stockage/packages/f40/mingw-gsettings-desktop-schemas/po/is.po | 
+ | [as](/f40/language/as) | 678 | 4585 | 14.8 | /mnt/stockage/packages/f40/mingw-gsettings-desktop-schemas/po/as.po | 
+ | [kk](/f40/language/kk) | 1020 | 7207 | 14.2 | /mnt/stockage/packages/f40/mingw-gsettings-desktop-schemas/po/kk.po | 
+ | [ka](/f40/language/ka) | 977 | 7163 | 13.6 | /mnt/stockage/packages/f40/mingw-gsettings-desktop-schemas/po/ka.po | 
+ | [ml](/f40/language/ml) | 582 | 5290 | 11.0 | /mnt/stockage/packages/f40/mingw-gsettings-desktop-schemas/po/ml.po | 
+ | [be](/f40/language/be) | 536 | 7163 | 7.5 | /mnt/stockage/packages/f40/mingw-gsettings-desktop-schemas/po/be.po | 
+ | [fi](/f40/language/fi) | 406 | 5558 | 7.3 | /mnt/stockage/packages/f40/mingw-gsettings-desktop-schemas/po/fi.po | 
+ | [fa](/f40/language/fa) | 354 | 7163 | 4.9 | /mnt/stockage/packages/f40/mingw-gsettings-desktop-schemas/po/fa.po | 
+ | [ab](/f40/language/ab) | 323 | 7207 | 4.5 | /mnt/stockage/packages/f40/mingw-gsettings-desktop-schemas/po/ab.po | 
+ | [tg](/f40/language/tg) | 8 | 5290 | 0.2 | /mnt/stockage/packages/f40/mingw-gsettings-desktop-schemas/po/tg.po | 
 {.sortable}
 
 

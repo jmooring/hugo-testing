@@ -38,13 +38,13 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [mozo]({{< ref "/f42/package/mozo.md" >}}) | 1 | 46 | 2.2 | N'ko (https://app.transifex.com/mate/teams/13566/nqo/) | 
- | [mate-sensors-applet]({{< ref "/f42/package/mate-sensors-applet.md" >}}) | 2 | 313 | 0.6 | N'ko (https://www.transifex.com/mate/teams/13566/nqo/) | 
- | [eom]({{< ref "/f42/package/eom.md" >}}) | 6 | 1779 | 0.3 | N'ko (https://www.transifex.com/mate/teams/13566/nqo/) | 
- | [mate-menu]({{< ref "/f42/package/mate-menu.md" >}}) | 1 | 308 | 0.3 | N'ko (http://www.transifex.com/mate/MATE/language/nqo/) | 
- | [atril]({{< ref "/f42/package/atril.md" >}}) | 7 | 2325 | 0.3 | N'ko (https://www.transifex.com/mate/teams/13566/nqo/) | 
- | [mate-terminal]({{< ref "/f42/package/mate-terminal.md" >}}) | 9 | 4724 | 0.2 | N'ko (https://www.transifex.com/mate/teams/13566/nqo/) | 
- | [mate-themes]({{< ref "/f42/package/mate-themes.md" >}}) | 0 | 74 | 0.0 | N'ko (http://app.transifex.com/mate/MATE/language/nqo/) | 
+ | [mozo](/f42/package/mozo) | 1 | 46 | 2.2 | N'ko (https://app.transifex.com/mate/teams/13566/nqo/) | 
+ | [mate-sensors-applet](/f42/package/mate-sensors-applet) | 2 | 313 | 0.6 | N'ko (https://www.transifex.com/mate/teams/13566/nqo/) | 
+ | [eom](/f42/package/eom) | 6 | 1779 | 0.3 | N'ko (https://www.transifex.com/mate/teams/13566/nqo/) | 
+ | [mate-menu](/f42/package/mate-menu) | 1 | 308 | 0.3 | N'ko (http://www.transifex.com/mate/MATE/language/nqo/) | 
+ | [atril](/f42/package/atril) | 7 | 2325 | 0.3 | N'ko (https://www.transifex.com/mate/teams/13566/nqo/) | 
+ | [mate-terminal](/f42/package/mate-terminal) | 9 | 4724 | 0.2 | N'ko (https://www.transifex.com/mate/teams/13566/nqo/) | 
+ | [mate-themes](/f42/package/mate-themes) | 0 | 74 | 0.0 | N'ko (http://app.transifex.com/mate/MATE/language/nqo/) | 
 {.sortable}
 
 

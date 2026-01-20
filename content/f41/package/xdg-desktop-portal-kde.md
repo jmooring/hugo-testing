@@ -18,59 +18,59 @@ The package xdg-desktop-portal-kde (version 6.4.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f41/language/ar.md" >}}) | 533 | 533 | 100.0 | /mnt/stockage/packages/f41/xdg-desktop-portal-kde/po/ar/xdg-desktop-portal-kde.po | 
- | [bg]({{< ref "/f41/language/bg.md" >}}) | 533 | 533 | 100.0 | /mnt/stockage/packages/f41/xdg-desktop-portal-kde/po/bg/xdg-desktop-portal-kde.po | 
- | [ca]({{< ref "/f41/language/ca.md" >}}) | 533 | 533 | 100.0 | /mnt/stockage/packages/f41/xdg-desktop-portal-kde/po/ca/xdg-desktop-portal-kde.po | 
- | [ca@valencia]({{< ref "/f41/language/ca@valencia.md" >}}) | 533 | 533 | 100.0 | /mnt/stockage/packages/f41/xdg-desktop-portal-kde/po/ca@valencia/xdg-desktop-portal-kde.po | 
- | [es]({{< ref "/f41/language/es.md" >}}) | 533 | 533 | 100.0 | /mnt/stockage/packages/f41/xdg-desktop-portal-kde/po/es/xdg-desktop-portal-kde.po | 
- | [eu]({{< ref "/f41/language/eu.md" >}}) | 533 | 533 | 100.0 | /mnt/stockage/packages/f41/xdg-desktop-portal-kde/po/eu/xdg-desktop-portal-kde.po | 
- | [fi]({{< ref "/f41/language/fi.md" >}}) | 533 | 533 | 100.0 | /mnt/stockage/packages/f41/xdg-desktop-portal-kde/po/fi/xdg-desktop-portal-kde.po | 
- | [fr]({{< ref "/f41/language/fr.md" >}}) | 533 | 533 | 100.0 | /mnt/stockage/packages/f41/xdg-desktop-portal-kde/po/fr/xdg-desktop-portal-kde.po | 
- | [gl]({{< ref "/f41/language/gl.md" >}}) | 533 | 533 | 100.0 | /mnt/stockage/packages/f41/xdg-desktop-portal-kde/po/gl/xdg-desktop-portal-kde.po | 
- | [he]({{< ref "/f41/language/he.md" >}}) | 533 | 533 | 100.0 | /mnt/stockage/packages/f41/xdg-desktop-portal-kde/po/he/xdg-desktop-portal-kde.po | 
- | [hu]({{< ref "/f41/language/hu.md" >}}) | 533 | 533 | 100.0 | /mnt/stockage/packages/f41/xdg-desktop-portal-kde/po/hu/xdg-desktop-portal-kde.po | 
- | [ia]({{< ref "/f41/language/ia.md" >}}) | 533 | 533 | 100.0 | /mnt/stockage/packages/f41/xdg-desktop-portal-kde/po/ia/xdg-desktop-portal-kde.po | 
- | [it]({{< ref "/f41/language/it.md" >}}) | 533 | 533 | 100.0 | /mnt/stockage/packages/f41/xdg-desktop-portal-kde/po/it/xdg-desktop-portal-kde.po | 
- | [ka]({{< ref "/f41/language/ka.md" >}}) | 533 | 533 | 100.0 | /mnt/stockage/packages/f41/xdg-desktop-portal-kde/po/ka/xdg-desktop-portal-kde.po | 
- | [ko]({{< ref "/f41/language/ko.md" >}}) | 533 | 533 | 100.0 | /mnt/stockage/packages/f41/xdg-desktop-portal-kde/po/ko/xdg-desktop-portal-kde.po | 
- | [nl]({{< ref "/f41/language/nl.md" >}}) | 533 | 533 | 100.0 | /mnt/stockage/packages/f41/xdg-desktop-portal-kde/po/nl/xdg-desktop-portal-kde.po | 
- | [pt_BR]({{< ref "/f41/language/pt_BR.md" >}}) | 533 | 533 | 100.0 | /mnt/stockage/packages/f41/xdg-desktop-portal-kde/po/pt_BR/xdg-desktop-portal-kde.po | 
- | [ru]({{< ref "/f41/language/ru.md" >}}) | 533 | 533 | 100.0 | /mnt/stockage/packages/f41/xdg-desktop-portal-kde/po/ru/xdg-desktop-portal-kde.po | 
- | [sl]({{< ref "/f41/language/sl.md" >}}) | 533 | 533 | 100.0 | /mnt/stockage/packages/f41/xdg-desktop-portal-kde/po/sl/xdg-desktop-portal-kde.po | 
- | [sv]({{< ref "/f41/language/sv.md" >}}) | 533 | 533 | 100.0 | /mnt/stockage/packages/f41/xdg-desktop-portal-kde/po/sv/xdg-desktop-portal-kde.po | 
- | [tr]({{< ref "/f41/language/tr.md" >}}) | 533 | 533 | 100.0 | /mnt/stockage/packages/f41/xdg-desktop-portal-kde/po/tr/xdg-desktop-portal-kde.po | 
- | [uk]({{< ref "/f41/language/uk.md" >}}) | 533 | 533 | 100.0 | /mnt/stockage/packages/f41/xdg-desktop-portal-kde/po/uk/xdg-desktop-portal-kde.po | 
- | [zh_Hans]({{< ref "/f41/language/zh_Hans.md" >}}) | 533 | 533 | 100.0 | /mnt/stockage/packages/f41/xdg-desktop-portal-kde/po/zh_CN/xdg-desktop-portal-kde.po | 
- | [zh_Hant]({{< ref "/f41/language/zh_Hant.md" >}}) | 533 | 533 | 100.0 | /mnt/stockage/packages/f41/xdg-desktop-portal-kde/po/zh_TW/xdg-desktop-portal-kde.po | 
- | [lv]({{< ref "/f41/language/lv.md" >}}) | 501 | 533 | 94.0 | /mnt/stockage/packages/f41/xdg-desktop-portal-kde/po/lv/xdg-desktop-portal-kde.po | 
- | [de]({{< ref "/f41/language/de.md" >}}) | 415 | 533 | 77.9 | /mnt/stockage/packages/f41/xdg-desktop-portal-kde/po/de/xdg-desktop-portal-kde.po | 
- | [eo]({{< ref "/f41/language/eo.md" >}}) | 415 | 533 | 77.9 | /mnt/stockage/packages/f41/xdg-desktop-portal-kde/po/eo/xdg-desktop-portal-kde.po | 
- | [nb_NO]({{< ref "/f41/language/nb_NO.md" >}}) | 415 | 533 | 77.9 | /mnt/stockage/packages/f41/xdg-desktop-portal-kde/po/nb/xdg-desktop-portal-kde.po | 
- | [pl]({{< ref "/f41/language/pl.md" >}}) | 415 | 533 | 77.9 | /mnt/stockage/packages/f41/xdg-desktop-portal-kde/po/pl/xdg-desktop-portal-kde.po | 
- | [sa]({{< ref "/f41/language/sa.md" >}}) | 415 | 533 | 77.9 | /mnt/stockage/packages/f41/xdg-desktop-portal-kde/po/sa/xdg-desktop-portal-kde.po | 
- | [ta]({{< ref "/f41/language/ta.md" >}}) | 415 | 533 | 77.9 | /mnt/stockage/packages/f41/xdg-desktop-portal-kde/po/ta/xdg-desktop-portal-kde.po | 
- | [pa]({{< ref "/f41/language/pa.md" >}}) | 394 | 533 | 73.9 | /mnt/stockage/packages/f41/xdg-desktop-portal-kde/po/pa/xdg-desktop-portal-kde.po | 
- | [hi]({{< ref "/f41/language/hi.md" >}}) | 391 | 533 | 73.4 | /mnt/stockage/packages/f41/xdg-desktop-portal-kde/po/hi/xdg-desktop-portal-kde.po | 
- | [lt]({{< ref "/f41/language/lt.md" >}}) | 391 | 533 | 73.4 | /mnt/stockage/packages/f41/xdg-desktop-portal-kde/po/lt/xdg-desktop-portal-kde.po | 
- | [en_GB]({{< ref "/f41/language/en_GB.md" >}}) | 386 | 533 | 72.4 | /mnt/stockage/packages/f41/xdg-desktop-portal-kde/po/en_GB/xdg-desktop-portal-kde.po | 
- | [nn]({{< ref "/f41/language/nn.md" >}}) | 384 | 533 | 72.0 | /mnt/stockage/packages/f41/xdg-desktop-portal-kde/po/nn/xdg-desktop-portal-kde.po | 
- | [da]({{< ref "/f41/language/da.md" >}}) | 380 | 533 | 71.3 | /mnt/stockage/packages/f41/xdg-desktop-portal-kde/po/da/xdg-desktop-portal-kde.po | 
- | [is]({{< ref "/f41/language/is.md" >}}) | 380 | 533 | 71.3 | /mnt/stockage/packages/f41/xdg-desktop-portal-kde/po/is/xdg-desktop-portal-kde.po | 
- | [ro]({{< ref "/f41/language/ro.md" >}}) | 364 | 533 | 68.3 | /mnt/stockage/packages/f41/xdg-desktop-portal-kde/po/ro/xdg-desktop-portal-kde.po | 
- | [el]({{< ref "/f41/language/el.md" >}}) | 344 | 533 | 64.5 | /mnt/stockage/packages/f41/xdg-desktop-portal-kde/po/el/xdg-desktop-portal-kde.po | 
- | [sk]({{< ref "/f41/language/sk.md" >}}) | 336 | 533 | 63.0 | /mnt/stockage/packages/f41/xdg-desktop-portal-kde/po/sk/xdg-desktop-portal-kde.po | 
- | [id]({{< ref "/f41/language/id.md" >}}) | 279 | 533 | 52.3 | /mnt/stockage/packages/f41/xdg-desktop-portal-kde/po/id/xdg-desktop-portal-kde.po | 
- | [pt]({{< ref "/f41/language/pt.md" >}}) | 209 | 533 | 39.2 | /mnt/stockage/packages/f41/xdg-desktop-portal-kde/po/pt/xdg-desktop-portal-kde.po | 
- | [cs]({{< ref "/f41/language/cs.md" >}}) | 174 | 533 | 32.6 | /mnt/stockage/packages/f41/xdg-desktop-portal-kde/po/cs/xdg-desktop-portal-kde.po | 
- | [az]({{< ref "/f41/language/az.md" >}}) | 149 | 533 | 28.0 | /mnt/stockage/packages/f41/xdg-desktop-portal-kde/po/az/xdg-desktop-portal-kde.po | 
- | [ja]({{< ref "/f41/language/ja.md" >}}) | 82 | 533 | 15.4 | /mnt/stockage/packages/f41/xdg-desktop-portal-kde/po/ja/xdg-desktop-portal-kde.po | 
- | [ast]({{< ref "/f41/language/ast.md" >}}) | 58 | 533 | 10.9 | /mnt/stockage/packages/f41/xdg-desktop-portal-kde/po/ast/xdg-desktop-portal-kde.po | 
- | [et]({{< ref "/f41/language/et.md" >}}) | 27 | 533 | 5.1 | /mnt/stockage/packages/f41/xdg-desktop-portal-kde/po/et/xdg-desktop-portal-kde.po | 
- | [sr]({{< ref "/f41/language/sr.md" >}}) | 4 | 533 | 0.8 | /mnt/stockage/packages/f41/xdg-desktop-portal-kde/po/sr/xdg-desktop-portal-kde.po | 
- | [sr@ijekavian]({{< ref "/f41/language/sr@ijekavian.md" >}}) | 4 | 533 | 0.8 | /mnt/stockage/packages/f41/xdg-desktop-portal-kde/po/sr@ijekavian/xdg-desktop-portal-kde.po | 
- | [sr@ijekavian_Latn]({{< ref "/f41/language/sr@ijekavian_Latn.md" >}}) | 4 | 533 | 0.8 | /mnt/stockage/packages/f41/xdg-desktop-portal-kde/po/sr@ijekavianlatin/xdg-desktop-portal-kde.po | 
- | [sr_Latn]({{< ref "/f41/language/sr_Latn.md" >}}) | 4 | 533 | 0.8 | /mnt/stockage/packages/f41/xdg-desktop-portal-kde/po/sr@latin/xdg-desktop-portal-kde.po | 
- | [ml]({{< ref "/f41/language/ml.md" >}}) | 0 | 533 | 0.0 | /mnt/stockage/packages/f41/xdg-desktop-portal-kde/po/ml/xdg-desktop-portal-kde.po | 
+ | [ar](/f41/language/ar) | 533 | 533 | 100.0 | /mnt/stockage/packages/f41/xdg-desktop-portal-kde/po/ar/xdg-desktop-portal-kde.po | 
+ | [bg](/f41/language/bg) | 533 | 533 | 100.0 | /mnt/stockage/packages/f41/xdg-desktop-portal-kde/po/bg/xdg-desktop-portal-kde.po | 
+ | [ca](/f41/language/ca) | 533 | 533 | 100.0 | /mnt/stockage/packages/f41/xdg-desktop-portal-kde/po/ca/xdg-desktop-portal-kde.po | 
+ | [ca@valencia](/f41/language/ca@valencia) | 533 | 533 | 100.0 | /mnt/stockage/packages/f41/xdg-desktop-portal-kde/po/ca@valencia/xdg-desktop-portal-kde.po | 
+ | [es](/f41/language/es) | 533 | 533 | 100.0 | /mnt/stockage/packages/f41/xdg-desktop-portal-kde/po/es/xdg-desktop-portal-kde.po | 
+ | [eu](/f41/language/eu) | 533 | 533 | 100.0 | /mnt/stockage/packages/f41/xdg-desktop-portal-kde/po/eu/xdg-desktop-portal-kde.po | 
+ | [fi](/f41/language/fi) | 533 | 533 | 100.0 | /mnt/stockage/packages/f41/xdg-desktop-portal-kde/po/fi/xdg-desktop-portal-kde.po | 
+ | [fr](/f41/language/fr) | 533 | 533 | 100.0 | /mnt/stockage/packages/f41/xdg-desktop-portal-kde/po/fr/xdg-desktop-portal-kde.po | 
+ | [gl](/f41/language/gl) | 533 | 533 | 100.0 | /mnt/stockage/packages/f41/xdg-desktop-portal-kde/po/gl/xdg-desktop-portal-kde.po | 
+ | [he](/f41/language/he) | 533 | 533 | 100.0 | /mnt/stockage/packages/f41/xdg-desktop-portal-kde/po/he/xdg-desktop-portal-kde.po | 
+ | [hu](/f41/language/hu) | 533 | 533 | 100.0 | /mnt/stockage/packages/f41/xdg-desktop-portal-kde/po/hu/xdg-desktop-portal-kde.po | 
+ | [ia](/f41/language/ia) | 533 | 533 | 100.0 | /mnt/stockage/packages/f41/xdg-desktop-portal-kde/po/ia/xdg-desktop-portal-kde.po | 
+ | [it](/f41/language/it) | 533 | 533 | 100.0 | /mnt/stockage/packages/f41/xdg-desktop-portal-kde/po/it/xdg-desktop-portal-kde.po | 
+ | [ka](/f41/language/ka) | 533 | 533 | 100.0 | /mnt/stockage/packages/f41/xdg-desktop-portal-kde/po/ka/xdg-desktop-portal-kde.po | 
+ | [ko](/f41/language/ko) | 533 | 533 | 100.0 | /mnt/stockage/packages/f41/xdg-desktop-portal-kde/po/ko/xdg-desktop-portal-kde.po | 
+ | [nl](/f41/language/nl) | 533 | 533 | 100.0 | /mnt/stockage/packages/f41/xdg-desktop-portal-kde/po/nl/xdg-desktop-portal-kde.po | 
+ | [pt_BR](/f41/language/pt_BR) | 533 | 533 | 100.0 | /mnt/stockage/packages/f41/xdg-desktop-portal-kde/po/pt_BR/xdg-desktop-portal-kde.po | 
+ | [ru](/f41/language/ru) | 533 | 533 | 100.0 | /mnt/stockage/packages/f41/xdg-desktop-portal-kde/po/ru/xdg-desktop-portal-kde.po | 
+ | [sl](/f41/language/sl) | 533 | 533 | 100.0 | /mnt/stockage/packages/f41/xdg-desktop-portal-kde/po/sl/xdg-desktop-portal-kde.po | 
+ | [sv](/f41/language/sv) | 533 | 533 | 100.0 | /mnt/stockage/packages/f41/xdg-desktop-portal-kde/po/sv/xdg-desktop-portal-kde.po | 
+ | [tr](/f41/language/tr) | 533 | 533 | 100.0 | /mnt/stockage/packages/f41/xdg-desktop-portal-kde/po/tr/xdg-desktop-portal-kde.po | 
+ | [uk](/f41/language/uk) | 533 | 533 | 100.0 | /mnt/stockage/packages/f41/xdg-desktop-portal-kde/po/uk/xdg-desktop-portal-kde.po | 
+ | [zh_Hans](/f41/language/zh_Hans) | 533 | 533 | 100.0 | /mnt/stockage/packages/f41/xdg-desktop-portal-kde/po/zh_CN/xdg-desktop-portal-kde.po | 
+ | [zh_Hant](/f41/language/zh_Hant) | 533 | 533 | 100.0 | /mnt/stockage/packages/f41/xdg-desktop-portal-kde/po/zh_TW/xdg-desktop-portal-kde.po | 
+ | [lv](/f41/language/lv) | 501 | 533 | 94.0 | /mnt/stockage/packages/f41/xdg-desktop-portal-kde/po/lv/xdg-desktop-portal-kde.po | 
+ | [de](/f41/language/de) | 415 | 533 | 77.9 | /mnt/stockage/packages/f41/xdg-desktop-portal-kde/po/de/xdg-desktop-portal-kde.po | 
+ | [eo](/f41/language/eo) | 415 | 533 | 77.9 | /mnt/stockage/packages/f41/xdg-desktop-portal-kde/po/eo/xdg-desktop-portal-kde.po | 
+ | [nb_NO](/f41/language/nb_NO) | 415 | 533 | 77.9 | /mnt/stockage/packages/f41/xdg-desktop-portal-kde/po/nb/xdg-desktop-portal-kde.po | 
+ | [pl](/f41/language/pl) | 415 | 533 | 77.9 | /mnt/stockage/packages/f41/xdg-desktop-portal-kde/po/pl/xdg-desktop-portal-kde.po | 
+ | [sa](/f41/language/sa) | 415 | 533 | 77.9 | /mnt/stockage/packages/f41/xdg-desktop-portal-kde/po/sa/xdg-desktop-portal-kde.po | 
+ | [ta](/f41/language/ta) | 415 | 533 | 77.9 | /mnt/stockage/packages/f41/xdg-desktop-portal-kde/po/ta/xdg-desktop-portal-kde.po | 
+ | [pa](/f41/language/pa) | 394 | 533 | 73.9 | /mnt/stockage/packages/f41/xdg-desktop-portal-kde/po/pa/xdg-desktop-portal-kde.po | 
+ | [hi](/f41/language/hi) | 391 | 533 | 73.4 | /mnt/stockage/packages/f41/xdg-desktop-portal-kde/po/hi/xdg-desktop-portal-kde.po | 
+ | [lt](/f41/language/lt) | 391 | 533 | 73.4 | /mnt/stockage/packages/f41/xdg-desktop-portal-kde/po/lt/xdg-desktop-portal-kde.po | 
+ | [en_GB](/f41/language/en_GB) | 386 | 533 | 72.4 | /mnt/stockage/packages/f41/xdg-desktop-portal-kde/po/en_GB/xdg-desktop-portal-kde.po | 
+ | [nn](/f41/language/nn) | 384 | 533 | 72.0 | /mnt/stockage/packages/f41/xdg-desktop-portal-kde/po/nn/xdg-desktop-portal-kde.po | 
+ | [da](/f41/language/da) | 380 | 533 | 71.3 | /mnt/stockage/packages/f41/xdg-desktop-portal-kde/po/da/xdg-desktop-portal-kde.po | 
+ | [is](/f41/language/is) | 380 | 533 | 71.3 | /mnt/stockage/packages/f41/xdg-desktop-portal-kde/po/is/xdg-desktop-portal-kde.po | 
+ | [ro](/f41/language/ro) | 364 | 533 | 68.3 | /mnt/stockage/packages/f41/xdg-desktop-portal-kde/po/ro/xdg-desktop-portal-kde.po | 
+ | [el](/f41/language/el) | 344 | 533 | 64.5 | /mnt/stockage/packages/f41/xdg-desktop-portal-kde/po/el/xdg-desktop-portal-kde.po | 
+ | [sk](/f41/language/sk) | 336 | 533 | 63.0 | /mnt/stockage/packages/f41/xdg-desktop-portal-kde/po/sk/xdg-desktop-portal-kde.po | 
+ | [id](/f41/language/id) | 279 | 533 | 52.3 | /mnt/stockage/packages/f41/xdg-desktop-portal-kde/po/id/xdg-desktop-portal-kde.po | 
+ | [pt](/f41/language/pt) | 209 | 533 | 39.2 | /mnt/stockage/packages/f41/xdg-desktop-portal-kde/po/pt/xdg-desktop-portal-kde.po | 
+ | [cs](/f41/language/cs) | 174 | 533 | 32.6 | /mnt/stockage/packages/f41/xdg-desktop-portal-kde/po/cs/xdg-desktop-portal-kde.po | 
+ | [az](/f41/language/az) | 149 | 533 | 28.0 | /mnt/stockage/packages/f41/xdg-desktop-portal-kde/po/az/xdg-desktop-portal-kde.po | 
+ | [ja](/f41/language/ja) | 82 | 533 | 15.4 | /mnt/stockage/packages/f41/xdg-desktop-portal-kde/po/ja/xdg-desktop-portal-kde.po | 
+ | [ast](/f41/language/ast) | 58 | 533 | 10.9 | /mnt/stockage/packages/f41/xdg-desktop-portal-kde/po/ast/xdg-desktop-portal-kde.po | 
+ | [et](/f41/language/et) | 27 | 533 | 5.1 | /mnt/stockage/packages/f41/xdg-desktop-portal-kde/po/et/xdg-desktop-portal-kde.po | 
+ | [sr](/f41/language/sr) | 4 | 533 | 0.8 | /mnt/stockage/packages/f41/xdg-desktop-portal-kde/po/sr/xdg-desktop-portal-kde.po | 
+ | [sr@ijekavian](/f41/language/sr@ijekavian) | 4 | 533 | 0.8 | /mnt/stockage/packages/f41/xdg-desktop-portal-kde/po/sr@ijekavian/xdg-desktop-portal-kde.po | 
+ | [sr@ijekavian_Latn](/f41/language/sr@ijekavian_Latn) | 4 | 533 | 0.8 | /mnt/stockage/packages/f41/xdg-desktop-portal-kde/po/sr@ijekavianlatin/xdg-desktop-portal-kde.po | 
+ | [sr_Latn](/f41/language/sr_Latn) | 4 | 533 | 0.8 | /mnt/stockage/packages/f41/xdg-desktop-portal-kde/po/sr@latin/xdg-desktop-portal-kde.po | 
+ | [ml](/f41/language/ml) | 0 | 533 | 0.0 | /mnt/stockage/packages/f41/xdg-desktop-portal-kde/po/ml/xdg-desktop-portal-kde.po | 
 {.sortable}
 
 

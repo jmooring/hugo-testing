@@ -18,11 +18,11 @@ The package spice-gtk (version 0.39):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [it]({{< ref "/f35/language/it.md" >}}) | 314 | 339 | 92.6 | /mnt/stockage/packages/f35/spice-gtk/po/it.po | 
- | [cs]({{< ref "/f35/language/cs.md" >}}) | 311 | 339 | 91.7 | /mnt/stockage/packages/f35/spice-gtk/po/cs.po | 
- | [ru]({{< ref "/f35/language/ru.md" >}}) | 303 | 339 | 89.4 | /mnt/stockage/packages/f35/spice-gtk/po/ru.po | 
- | [de]({{< ref "/f35/language/de.md" >}}) | 240 | 339 | 70.8 | /mnt/stockage/packages/f35/spice-gtk/po/de.po | 
- | [fr]({{< ref "/f35/language/fr.md" >}}) | 2 | 339 | 0.6 | /mnt/stockage/packages/f35/spice-gtk/po/fr.po | 
+ | [it](/f35/language/it) | 314 | 339 | 92.6 | /mnt/stockage/packages/f35/spice-gtk/po/it.po | 
+ | [cs](/f35/language/cs) | 311 | 339 | 91.7 | /mnt/stockage/packages/f35/spice-gtk/po/cs.po | 
+ | [ru](/f35/language/ru) | 303 | 339 | 89.4 | /mnt/stockage/packages/f35/spice-gtk/po/ru.po | 
+ | [de](/f35/language/de) | 240 | 339 | 70.8 | /mnt/stockage/packages/f35/spice-gtk/po/de.po | 
+ | [fr](/f35/language/fr) | 2 | 339 | 0.6 | /mnt/stockage/packages/f35/spice-gtk/po/fr.po | 
 {.sortable}
 
 

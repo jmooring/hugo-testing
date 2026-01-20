@@ -18,10 +18,10 @@ The package openstack-designate (version 2015.1.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f23/language/fr.md" >}}) | 122 | 151 | 80.8 | /mnt/stockage/packages/f23/openstack-designate/designate/locale/fr/LC_MESSAGES/designate-log-critical.po/mnt/stockage/packages/f23/openstack-designate/designate/locale/fr/LC_MESSAGES/designate.po | 
- | [en_GB]({{< ref "/f23/language/en_GB.md" >}}) | 23 | 32 | 71.9 | /mnt/stockage/packages/f23/openstack-designate/designate/locale/en_GB/LC_MESSAGES/designate-log-critical.po | 
- | [ko]({{< ref "/f23/language/ko.md" >}}) | 23 | 32 | 71.9 | /mnt/stockage/packages/f23/openstack-designate/designate/locale/ko_KR/LC_MESSAGES/designate-log-critical.po | 
- | [pt_BR]({{< ref "/f23/language/pt_BR.md" >}}) | 23 | 32 | 71.9 | /mnt/stockage/packages/f23/openstack-designate/designate/locale/pt_BR/LC_MESSAGES/designate-log-critical.po | 
+ | [fr](/f23/language/fr) | 122 | 151 | 80.8 | /mnt/stockage/packages/f23/openstack-designate/designate/locale/fr/LC_MESSAGES/designate-log-critical.po/mnt/stockage/packages/f23/openstack-designate/designate/locale/fr/LC_MESSAGES/designate.po | 
+ | [en_GB](/f23/language/en_GB) | 23 | 32 | 71.9 | /mnt/stockage/packages/f23/openstack-designate/designate/locale/en_GB/LC_MESSAGES/designate-log-critical.po | 
+ | [ko](/f23/language/ko) | 23 | 32 | 71.9 | /mnt/stockage/packages/f23/openstack-designate/designate/locale/ko_KR/LC_MESSAGES/designate-log-critical.po | 
+ | [pt_BR](/f23/language/pt_BR) | 23 | 32 | 71.9 | /mnt/stockage/packages/f23/openstack-designate/designate/locale/pt_BR/LC_MESSAGES/designate-log-critical.po | 
 {.sortable}
 
 

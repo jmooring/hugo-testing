@@ -18,37 +18,37 @@ The package arduino (version 1.0.6):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f22/language/fr.md" >}}) | 1917 | 1917 | 100.0 | /mnt/stockage/packages/f22/arduino/app/src/processing/app/Resources_fr.po | 
- | [et]({{< ref "/f22/language/et.md" >}}) | 1910 | 1917 | 99.6 | /mnt/stockage/packages/f22/arduino/app/src/processing/app/Resources_et.po | 
- | [ja]({{< ref "/f22/language/ja.md" >}}) | 1910 | 1917 | 99.6 | /mnt/stockage/packages/f22/arduino/app/src/processing/app/Resources_ja.po | 
- | [hu]({{< ref "/f22/language/hu.md" >}}) | 1903 | 1917 | 99.3 | /mnt/stockage/packages/f22/arduino/app/src/processing/app/Resources_hu.po | 
- | [de]({{< ref "/f22/language/de.md" >}}) | 3804 | 3834 | 99.2 | /mnt/stockage/packages/f22/arduino/app/src/processing/app/Resources_ro.po/mnt/stockage/packages/f22/arduino/app/src/processing/app/Resources_de.po | 
- | [el]({{< ref "/f22/language/el.md" >}}) | 1902 | 1917 | 99.2 | /mnt/stockage/packages/f22/arduino/app/src/processing/app/Resources_el.po | 
- | [lt]({{< ref "/f22/language/lt.md" >}}) | 1902 | 1917 | 99.2 | /mnt/stockage/packages/f22/arduino/app/src/processing/app/Resources_lt.po | 
- | [nb_NO]({{< ref "/f22/language/nb_NO.md" >}}) | 1902 | 1917 | 99.2 | /mnt/stockage/packages/f22/arduino/app/src/processing/app/Resources_no_nb.po | 
- | [pt_BR]({{< ref "/f22/language/pt_BR.md" >}}) | 1902 | 1917 | 99.2 | /mnt/stockage/packages/f22/arduino/app/src/processing/app/Resources_pt_br.po | 
- | [pt_PT]({{< ref "/f22/language/pt_PT.md" >}}) | 1902 | 1917 | 99.2 | /mnt/stockage/packages/f22/arduino/app/src/processing/app/Resources_pt_pt.po | 
- | [it]({{< ref "/f22/language/it.md" >}}) | 1894 | 1917 | 98.8 | /mnt/stockage/packages/f22/arduino/app/src/processing/app/Resources_it.po | 
- | [lv]({{< ref "/f22/language/lv.md" >}}) | 1885 | 1917 | 98.3 | /mnt/stockage/packages/f22/arduino/app/src/processing/app/Resources_lv.po | 
- | [ca]({{< ref "/f22/language/ca.md" >}}) | 1884 | 1917 | 98.3 | /mnt/stockage/packages/f22/arduino/app/src/processing/app/Resources_ca.po | 
- | [ru]({{< ref "/f22/language/ru.md" >}}) | 1882 | 1917 | 98.2 | /mnt/stockage/packages/f22/arduino/app/src/processing/app/Resources_ru.po | 
- | [nl]({{< ref "/f22/language/nl.md" >}}) | 1881 | 1917 | 98.1 | /mnt/stockage/packages/f22/arduino/app/src/processing/app/Resources_nl.po | 
- | [da]({{< ref "/f22/language/da.md" >}}) | 1880 | 1917 | 98.1 | /mnt/stockage/packages/f22/arduino/app/src/processing/app/Resources_da.po | 
- | [fa]({{< ref "/f22/language/fa.md" >}}) | 1880 | 1917 | 98.1 | /mnt/stockage/packages/f22/arduino/app/src/processing/app/Resources_fa.po | 
- | [ko]({{< ref "/f22/language/ko.md" >}}) | 1880 | 1917 | 98.1 | /mnt/stockage/packages/f22/arduino/app/src/processing/app/Resources_ko.po | 
- | [tl]({{< ref "/f22/language/tl.md" >}}) | 1877 | 1917 | 97.9 | /mnt/stockage/packages/f22/arduino/app/src/processing/app/Resources_tl.po | 
- | [an]({{< ref "/f22/language/an.md" >}}) | 1875 | 1917 | 97.8 | /mnt/stockage/packages/f22/arduino/app/src/processing/app/Resources_an.po | 
- | [zh_Hans]({{< ref "/f22/language/zh_Hans.md" >}}) | 3742 | 3834 | 97.6 | /mnt/stockage/packages/f22/arduino/app/src/processing/app/Resources_zh_cn.po/mnt/stockage/packages/f22/arduino/app/src/processing/app/Resources_zh_tw.po | 
- | [ar]({{< ref "/f22/language/ar.md" >}}) | 1868 | 1917 | 97.4 | /mnt/stockage/packages/f22/arduino/app/src/processing/app/Resources_ar.po | 
- | [hi]({{< ref "/f22/language/hi.md" >}}) | 1868 | 1917 | 97.4 | /mnt/stockage/packages/f22/arduino/app/src/processing/app/Resources_hi.po | 
- | [es]({{< ref "/f22/language/es.md" >}}) | 1859 | 1917 | 97.0 | /mnt/stockage/packages/f22/arduino/app/src/processing/app/Resources_es.po | 
- | [ta]({{< ref "/f22/language/ta.md" >}}) | 1856 | 1917 | 96.8 | /mnt/stockage/packages/f22/arduino/app/src/processing/app/Resources_ta.po | 
- | [gl]({{< ref "/f22/language/gl.md" >}}) | 1841 | 1917 | 96.0 | /mnt/stockage/packages/f22/arduino/app/src/processing/app/Resources_gl.po | 
- | [pl]({{< ref "/f22/language/pl.md" >}}) | 1814 | 1917 | 94.6 | /mnt/stockage/packages/f22/arduino/app/src/processing/app/Resources_pl.po | 
- | [id]({{< ref "/f22/language/id.md" >}}) | 1686 | 1917 | 87.9 | /mnt/stockage/packages/f22/arduino/app/src/processing/app/Resources_id.po | 
- | [sl]({{< ref "/f22/language/sl.md" >}}) | 933 | 1917 | 48.7 | /mnt/stockage/packages/f22/arduino/app/src/processing/app/Resources_sl.po | 
- | [mr]({{< ref "/f22/language/mr.md" >}}) | 133 | 1917 | 6.9 | /mnt/stockage/packages/f22/arduino/app/src/processing/app/Resources_mr.po | 
- | [en]({{< ref "/f22/language/en.md" >}}) | 0 | 1917 | 0.0 | /mnt/stockage/packages/f22/arduino/app/src/processing/app/Resources_en.po | 
+ | [fr](/f22/language/fr) | 1917 | 1917 | 100.0 | /mnt/stockage/packages/f22/arduino/app/src/processing/app/Resources_fr.po | 
+ | [et](/f22/language/et) | 1910 | 1917 | 99.6 | /mnt/stockage/packages/f22/arduino/app/src/processing/app/Resources_et.po | 
+ | [ja](/f22/language/ja) | 1910 | 1917 | 99.6 | /mnt/stockage/packages/f22/arduino/app/src/processing/app/Resources_ja.po | 
+ | [hu](/f22/language/hu) | 1903 | 1917 | 99.3 | /mnt/stockage/packages/f22/arduino/app/src/processing/app/Resources_hu.po | 
+ | [de](/f22/language/de) | 3804 | 3834 | 99.2 | /mnt/stockage/packages/f22/arduino/app/src/processing/app/Resources_ro.po/mnt/stockage/packages/f22/arduino/app/src/processing/app/Resources_de.po | 
+ | [el](/f22/language/el) | 1902 | 1917 | 99.2 | /mnt/stockage/packages/f22/arduino/app/src/processing/app/Resources_el.po | 
+ | [lt](/f22/language/lt) | 1902 | 1917 | 99.2 | /mnt/stockage/packages/f22/arduino/app/src/processing/app/Resources_lt.po | 
+ | [nb_NO](/f22/language/nb_NO) | 1902 | 1917 | 99.2 | /mnt/stockage/packages/f22/arduino/app/src/processing/app/Resources_no_nb.po | 
+ | [pt_BR](/f22/language/pt_BR) | 1902 | 1917 | 99.2 | /mnt/stockage/packages/f22/arduino/app/src/processing/app/Resources_pt_br.po | 
+ | [pt_PT](/f22/language/pt_PT) | 1902 | 1917 | 99.2 | /mnt/stockage/packages/f22/arduino/app/src/processing/app/Resources_pt_pt.po | 
+ | [it](/f22/language/it) | 1894 | 1917 | 98.8 | /mnt/stockage/packages/f22/arduino/app/src/processing/app/Resources_it.po | 
+ | [lv](/f22/language/lv) | 1885 | 1917 | 98.3 | /mnt/stockage/packages/f22/arduino/app/src/processing/app/Resources_lv.po | 
+ | [ca](/f22/language/ca) | 1884 | 1917 | 98.3 | /mnt/stockage/packages/f22/arduino/app/src/processing/app/Resources_ca.po | 
+ | [ru](/f22/language/ru) | 1882 | 1917 | 98.2 | /mnt/stockage/packages/f22/arduino/app/src/processing/app/Resources_ru.po | 
+ | [nl](/f22/language/nl) | 1881 | 1917 | 98.1 | /mnt/stockage/packages/f22/arduino/app/src/processing/app/Resources_nl.po | 
+ | [da](/f22/language/da) | 1880 | 1917 | 98.1 | /mnt/stockage/packages/f22/arduino/app/src/processing/app/Resources_da.po | 
+ | [fa](/f22/language/fa) | 1880 | 1917 | 98.1 | /mnt/stockage/packages/f22/arduino/app/src/processing/app/Resources_fa.po | 
+ | [ko](/f22/language/ko) | 1880 | 1917 | 98.1 | /mnt/stockage/packages/f22/arduino/app/src/processing/app/Resources_ko.po | 
+ | [tl](/f22/language/tl) | 1877 | 1917 | 97.9 | /mnt/stockage/packages/f22/arduino/app/src/processing/app/Resources_tl.po | 
+ | [an](/f22/language/an) | 1875 | 1917 | 97.8 | /mnt/stockage/packages/f22/arduino/app/src/processing/app/Resources_an.po | 
+ | [zh_Hans](/f22/language/zh_Hans) | 3742 | 3834 | 97.6 | /mnt/stockage/packages/f22/arduino/app/src/processing/app/Resources_zh_cn.po/mnt/stockage/packages/f22/arduino/app/src/processing/app/Resources_zh_tw.po | 
+ | [ar](/f22/language/ar) | 1868 | 1917 | 97.4 | /mnt/stockage/packages/f22/arduino/app/src/processing/app/Resources_ar.po | 
+ | [hi](/f22/language/hi) | 1868 | 1917 | 97.4 | /mnt/stockage/packages/f22/arduino/app/src/processing/app/Resources_hi.po | 
+ | [es](/f22/language/es) | 1859 | 1917 | 97.0 | /mnt/stockage/packages/f22/arduino/app/src/processing/app/Resources_es.po | 
+ | [ta](/f22/language/ta) | 1856 | 1917 | 96.8 | /mnt/stockage/packages/f22/arduino/app/src/processing/app/Resources_ta.po | 
+ | [gl](/f22/language/gl) | 1841 | 1917 | 96.0 | /mnt/stockage/packages/f22/arduino/app/src/processing/app/Resources_gl.po | 
+ | [pl](/f22/language/pl) | 1814 | 1917 | 94.6 | /mnt/stockage/packages/f22/arduino/app/src/processing/app/Resources_pl.po | 
+ | [id](/f22/language/id) | 1686 | 1917 | 87.9 | /mnt/stockage/packages/f22/arduino/app/src/processing/app/Resources_id.po | 
+ | [sl](/f22/language/sl) | 933 | 1917 | 48.7 | /mnt/stockage/packages/f22/arduino/app/src/processing/app/Resources_sl.po | 
+ | [mr](/f22/language/mr) | 133 | 1917 | 6.9 | /mnt/stockage/packages/f22/arduino/app/src/processing/app/Resources_mr.po | 
+ | [en](/f22/language/en) | 0 | 1917 | 0.0 | /mnt/stockage/packages/f22/arduino/app/src/processing/app/Resources_en.po | 
 {.sortable}
 
 

@@ -41,202 +41,202 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [alacarte]({{< ref "/f39/package/alacarte.md" >}}) | 42 | 42 | 100.0 | Pashto <pathanisation@googlegroups.com> | 
- | [gnome-icon-theme]({{< ref "/f39/package/gnome-icon-theme.md" >}}) | 20 | 20 | 100.0 | Pashto <pathanisation@googlegroups.com> | 
- | [gnome-shell-frippery]({{< ref "/f39/package/gnome-shell-frippery.md" >}}) | 4 | 4 | 100.0 |  | 
- | [kde-i18n]({{< ref "/f39/package/kde-i18n.md" >}}) | 7 | 7 | 100.0 | Traditional Chinese <zh_l10n@linux.org.tw> | 
- | [kf5-kpty]({{< ref "/f39/package/kf5-kpty.md" >}}) | 15 | 15 | 100.0 | Pashto <pathanisation@googlegroups.com> | 
- | [lxmenu-data]({{< ref "/f39/package/lxmenu-data.md" >}}) | 97 | 97 | 100.0 | Pashto <pathanisation@googlegroups.com> | 
- | [mate-icon-theme]({{< ref "/f39/package/mate-icon-theme.md" >}}) | 4 | 4 | 100.0 | Pushto (https://www.transifex.com/mate/teams/13566/ps/) | 
- | [totem-pl-parser]({{< ref "/f39/package/totem-pl-parser.md" >}}) | 28 | 28 | 100.0 | Pashto <pathanisation@googlegroups.com> | 
- | [xdg-user-dirs-gtk]({{< ref "/f39/package/xdg-user-dirs-gtk.md" >}}) | 81 | 81 | 100.0 | Pashto <pathanisation@googlegroups.com> | 
- | [file-roller]({{< ref "/f39/package/file-roller.md" >}}) | 1200 | 1206 | 99.5 | Pashto <pathanisation@googlegroups.com> | 
- | [at-spi2-core]({{< ref "/f39/package/at-spi2-core.md" >}}) | 370 | 375 | 98.7 | Pashto <pathanisation@googlegroups.com> | 
- | [mingw-atk]({{< ref "/f39/package/mingw-atk.md" >}}) | 370 | 375 | 98.7 | Pashto <pathanisation@googlegroups.com> | 
- | [gconf-editor]({{< ref "/f39/package/gconf-editor.md" >}}) | 328 | 336 | 97.6 | Pashto <pathanisation@googlegroups.com> | 
- | [mate-menus]({{< ref "/f39/package/mate-menus.md" >}}) | 98 | 103 | 95.1 | Pashto (https://app.transifex.com/mate/teams/13566/ps/) | 
- | [xdg-user-dirs]({{< ref "/f39/package/xdg-user-dirs.md" >}}) | 26 | 28 | 92.9 | Pashto <pathanisation@googlegroups.com> | 
- | [mozo]({{< ref "/f39/package/mozo.md" >}}) | 40 | 46 | 87.0 | Pashto (https://www.transifex.com/mate/teams/13566/ps/) | 
- | [cheese]({{< ref "/f39/package/cheese.md" >}}) | 333 | 389 | 85.6 | Pashto <pathanisation@googlegroups.com> | 
- | [gnome-menus]({{< ref "/f39/package/gnome-menus.md" >}}) | 128 | 157 | 81.5 | Pashto <pathanisation@googlegroups.com> | 
- | [evince]({{< ref "/f39/package/evince.md" >}}) | 746 | 989 | 75.4 | Pashto <pathanisation@googlegroups.com> | 
- | [kf5-kross]({{< ref "/f39/package/kf5-kross.md" >}}) | 73 | 100 | 73.0 | Pashto <pathanisation@googlegroups.com> | 
- | [sugar-distance]({{< ref "/f39/package/sugar-distance.md" >}}) | 72 | 99 | 72.7 | PASHTO <LL@li.org> | 
- | [libbonoboui]({{< ref "/f39/package/libbonoboui.md" >}}) | 254 | 368 | 69.0 | Pashto <pathanisation@googlegroups.com> | 
- | [libgnomeui]({{< ref "/f39/package/libgnomeui.md" >}}) | 846 | 1226 | 69.0 | Pashto <pakhtosoft@gmail.com> | 
- | [devhelp]({{< ref "/f39/package/devhelp.md" >}}) | 242 | 364 | 66.5 | Pashto <pathanisation@googlegroups.com> | 
- | [gthumb]({{< ref "/f39/package/gthumb.md" >}}) | 2262 | 3472 | 65.1 | Pashto <pakhtosoft@gmail.com> | 
- | [kf5-kjsembed]({{< ref "/f39/package/kf5-kjsembed.md" >}}) | 156 | 248 | 62.9 | Pashto <pathanisation@googlegroups.com> | 
- | [eog]({{< ref "/f39/package/eog.md" >}}) | 750 | 1193 | 62.9 | Pashto <pathanisation@googlegroups.com> | 
- | [kf5-ktextwidgets]({{< ref "/f39/package/kf5-ktextwidgets.md" >}}) | 288 | 473 | 60.9 | Pashto <pathanisation@googlegroups.com> | 
- | [sugar-toolkit-gtk3]({{< ref "/f39/package/sugar-toolkit-gtk3.md" >}}) | 127 | 213 | 59.6 | LANGUAGE <LL@li.org> | 
- | [gnome-system-monitor]({{< ref "/f39/package/gnome-system-monitor.md" >}}) | 479 | 868 | 55.2 | Pashto <pakhtosoft@gmail.com> | 
- | [baobab]({{< ref "/f39/package/baobab.md" >}}) | 282 | 540 | 52.2 | Pashto <pathanisation@googlegroups.com> | 
- | [sugar-write]({{< ref "/f39/package/sugar-write.md" >}}) | 63 | 121 | 52.1 | LANGUAGE <LL@li.org> | 
- | [dasher]({{< ref "/f39/package/dasher.md" >}}) | 273 | 528 | 51.7 | Pashto <pathanisation@googlegroups.com> | 
- | [kf5-kparts]({{< ref "/f39/package/kf5-kparts.md" >}}) | 71 | 138 | 51.4 | Pashto <pathanisation@googlegroups.com> | 
- | [gnome-desktop3]({{< ref "/f39/package/gnome-desktop3.md" >}}) | 144 | 283 | 50.9 | Pashto <pathanisation@googlegroups.com> | 
- | [engrampa]({{< ref "/f39/package/engrampa.md" >}}) | 995 | 2049 | 48.6 | Pashto (https://app.transifex.com/mate/teams/13566/ps/) | 
- | [kf5-kcmutils]({{< ref "/f39/package/kf5-kcmutils.md" >}}) | 122 | 266 | 45.9 | Pashto <pathanisation@googlegroups.com> | 
- | [gnome-dictionary]({{< ref "/f39/package/gnome-dictionary.md" >}}) | 367 | 833 | 44.1 | Pashto <pathanisation@googlegroups.com> | 
- | [sugar-flipsticks]({{< ref "/f39/package/sugar-flipsticks.md" >}}) | 66 | 151 | 43.7 | LANGUAGE <LL@li.org> | 
- | [sugar-log]({{< ref "/f39/package/sugar-log.md" >}}) | 41 | 98 | 41.8 | LANGUAGE <LL@li.org> | 
- | [islamic-menus]({{< ref "/f39/package/islamic-menus.md" >}}) | 2 | 5 | 40.0 | Pashto <ps@li.org> | 
- | [budgie-screensaver]({{< ref "/f39/package/budgie-screensaver.md" >}}) | 376 | 955 | 39.4 | Pashto <pakhtosoft@gmail.com> | 
- | [sugar-calculator]({{< ref "/f39/package/sugar-calculator.md" >}}) | 339 | 866 | 39.1 | LANGUAGE <LL@li.org> | 
- | [gedit]({{< ref "/f39/package/gedit.md" >}}) | 1929 | 5010 | 38.5 | Pashto <pathanisation@googlegroups.com> | 
- | [gnome-panel]({{< ref "/f39/package/gnome-panel.md" >}}) | 1328 | 3520 | 37.7 | Pashto <pp@pathanisation.pakhtosoft.com> | 
- | [zenity]({{< ref "/f39/package/zenity.md" >}}) | 210 | 582 | 36.1 | Pashto <pathanisation@googlegroups.com> | 
- | [budgie-session]({{< ref "/f39/package/budgie-session.md" >}}) | 244 | 679 | 35.9 | Pashto <pathanisation@googlegroups.com> | 
- | [gnome-session]({{< ref "/f39/package/gnome-session.md" >}}) | 244 | 679 | 35.9 | Pashto <pathanisation@googlegroups.com> | 
- | [kf5-kconfigwidgets]({{< ref "/f39/package/kf5-kconfigwidgets.md" >}}) | 120 | 342 | 35.1 | Pashto <pathanisation@googlegroups.com> | 
- | [kf5-khtml]({{< ref "/f39/package/kf5-khtml.md" >}}) | 575 | 1667 | 34.5 | Pashto <pathanisation@googlegroups.com> | 
- | [kf5-ki18n]({{< ref "/f39/package/kf5-ki18n.md" >}}) | 42 | 124 | 33.9 | Pashto <pathanisation@googlegroups.com> | 
- | [mate-screensaver]({{< ref "/f39/package/mate-screensaver.md" >}}) | 360 | 1101 | 32.7 | Pashto (https://app.transifex.com/mate/teams/13566/ps/) | 
- | [rhythmbox]({{< ref "/f39/package/rhythmbox.md" >}}) | 1298 | 4019 | 32.3 | Pashto <pakhtosoft@gmail.com> | 
- | [gnome-nettool]({{< ref "/f39/package/gnome-nettool.md" >}}) | 165 | 523 | 31.5 | Pashto <zabeehkhan@gmail.com> | 
- | [evolution]({{< ref "/f39/package/evolution.md" >}}) | 6876 | 21865 | 31.4 | Pashto <pathanisation@goolgegroups.com> | 
- | [mate-session-manager]({{< ref "/f39/package/mate-session-manager.md" >}}) | 223 | 715 | 31.2 | Pashto (https://app.transifex.com/mate/teams/13566/ps/) | 
- | [gnome-video-effects]({{< ref "/f39/package/gnome-video-effects.md" >}}) | 8 | 26 | 30.8 | Pashto <pathanisation@googlegroups.com> | 
- | [xreader]({{< ref "/f39/package/xreader.md" >}}) | 475 | 1625 | 29.2 | Pushto (http://www.transifex.com/mate/MATE/language/ps/) | 
- | [xed]({{< ref "/f39/package/xed.md" >}}) | 1089 | 3759 | 29.0 | Pushto (http://www.transifex.com/projects/p/MATE/language/ps/) | 
- | [gnome-screenshot]({{< ref "/f39/package/gnome-screenshot.md" >}}) | 91 | 319 | 28.5 | Pashto <pathanisation@googlegroups.com> | 
- | [sugar-imageviewer]({{< ref "/f39/package/sugar-imageviewer.md" >}}) | 16 | 58 | 27.6 | Pashto<LL@li.org> | 
- | [sugar]({{< ref "/f39/package/sugar.md" >}}) | 629 | 2305 | 27.3 | LANGUAGE <LL@li.org> | 
- | [sugar-physics]({{< ref "/f39/package/sugar-physics.md" >}}) | 13 | 48 | 27.1 | LANGUAGE <LL@li.org> | 
- | [gnome-terminal]({{< ref "/f39/package/gnome-terminal.md" >}}) | 899 | 3394 | 26.5 | Pashto <pathanisation@googlegroups.com> | 
- | [kf5-knotifyconfig]({{< ref "/f39/package/kf5-knotifyconfig.md" >}}) | 34 | 129 | 26.4 | Pashto <pathanisation@googlegroups.com> | 
- | [gtk4]({{< ref "/f39/package/gtk4.md" >}}) | 636 | 2432 | 26.2 | Pashto <pathanisation@googlegroups.com> | 
- | [mingw-gtk4]({{< ref "/f39/package/mingw-gtk4.md" >}}) | 636 | 2432 | 26.2 | Pashto <pathanisation@googlegroups.com> | 
- | [yelp]({{< ref "/f39/package/yelp.md" >}}) | 268 | 1035 | 25.9 | Pashto <pathanisation@googlegroups.com> | 
- | [sugar-memorize]({{< ref "/f39/package/sugar-memorize.md" >}}) | 36 | 142 | 25.4 | PASHTO <LL@li.org> | 
- | [sugar-read]({{< ref "/f39/package/sugar-read.md" >}}) | 32 | 137 | 23.4 | LANGUAGE <LL@li.org> | 
- | [gnome-system-log]({{< ref "/f39/package/gnome-system-log.md" >}}) | 121 | 522 | 23.2 | Pashto <pathanisation@googlegroups.com> | 
- | [mate-panel]({{< ref "/f39/package/mate-panel.md" >}}) | 1494 | 6720 | 22.2 | Pashto (https://app.transifex.com/mate/teams/13566/ps/) | 
- | [sugar-chat]({{< ref "/f39/package/sugar-chat.md" >}}) | 30 | 137 | 21.9 | LANGUAGE <LL@li.org> | 
- | [sugar-record]({{< ref "/f39/package/sugar-record.md" >}}) | 12 | 62 | 19.4 | LANGUAGE <LL@li.org> | 
- | [gnome-applets]({{< ref "/f39/package/gnome-applets.md" >}}) | 602 | 3158 | 19.1 | Pashto <pathanisation@googlegroups.com> | 
- | [sugar-finance]({{< ref "/f39/package/sugar-finance.md" >}}) | 48 | 258 | 18.6 | PASHTO <LL@li.org> | 
- | [kf5-kservice]({{< ref "/f39/package/kf5-kservice.md" >}}) | 32 | 173 | 18.5 | Pashto <pathanisation@googlegroups.com> | 
- | [gedit-plugins]({{< ref "/f39/package/gedit-plugins.md" >}}) | 222 | 1205 | 18.4 | Pashto <pathanisation@googlegroups.com> | 
- | [gtk2]({{< ref "/f39/package/gtk2.md" >}}) | 2441 | 13704 | 17.8 | Pashto <pathanisation@googlegroups.com> | 
- | [mingw-gtk2]({{< ref "/f39/package/mingw-gtk2.md" >}}) | 2441 | 13704 | 17.8 | Pashto <pathanisation@googlegroups.com> | 
- | [gtk3]({{< ref "/f39/package/gtk3.md" >}}) | 2081 | 11853 | 17.6 | Pashto <pathanisation@googlegroups.com> | 
- | [mingw-gtk3]({{< ref "/f39/package/mingw-gtk3.md" >}}) | 2081 | 11853 | 17.6 | Pashto <pathanisation@googlegroups.com> | 
- | [gdm]({{< ref "/f39/package/gdm.md" >}}) | 109 | 650 | 16.8 | Pashto <pathanisation@googlegroups.com> | 
- | [atril]({{< ref "/f39/package/atril.md" >}}) | 662 | 4365 | 15.2 | Pushto (https://www.transifex.com/mate/teams/13566/ps/) | 
- | [sugar-view-slides]({{< ref "/f39/package/sugar-view-slides.md" >}}) | 9 | 60 | 15.0 | LANGUAGE <LL@li.org> | 
- | [nautilus]({{< ref "/f39/package/nautilus.md" >}}) | 1166 | 8379 | 13.9 | Pashto <pathanisation@googlegroups.com> | 
- | [epiphany]({{< ref "/f39/package/epiphany.md" >}}) | 401 | 2882 | 13.9 | Pashto <pathanisation@googlegroups.com> | 
- | [mate-utils]({{< ref "/f39/package/mate-utils.md" >}}) | 1374 | 10060 | 13.7 | Pashto (https://app.transifex.com/mate/teams/13566/ps/) | 
- | [sugar-pippy]({{< ref "/f39/package/sugar-pippy.md" >}}) | 36 | 275 | 13.1 | LANGUAGE <LL@li.org> | 
- | [cinnamon-translations]({{< ref "/f39/package/cinnamon-translations.md" >}}) | 50 | 384 | 13.0 | Pashto <pakhtosoft@gmail.com> | 
- | [eom]({{< ref "/f39/package/eom.md" >}}) | 629 | 4961 | 12.7 | Pushto (https://www.transifex.com/mate/teams/13566/ps/) | 
- | [kf5-kxmlgui]({{< ref "/f39/package/kf5-kxmlgui.md" >}}) | 199 | 1574 | 12.6 | Pashto <pathanisation@googlegroups.com> | 
- | [pluma]({{< ref "/f39/package/pluma.md" >}}) | 1610 | 13113 | 12.3 | Pashto (https://app.transifex.com/mate/teams/13566/ps/) | 
- | [mate-menu]({{< ref "/f39/package/mate-menu.md" >}}) | 37 | 308 | 12.0 | Pushto (http://www.transifex.com/mate/MATE/language/ps/) | 
- | [caja]({{< ref "/f39/package/caja.md" >}}) | 1154 | 9675 | 11.9 | Pashto (https://app.transifex.com/mate/teams/13566/ps/) | 
- | [pidgin]({{< ref "/f39/package/pidgin.md" >}}) | 1499 | 13994 | 10.7 | Pashto (http://www.transifex.com/pidgin/pidgin/language/ps/) | 
- | [glib2]({{< ref "/f39/package/glib2.md" >}}) | 466 | 4777 | 9.8 | Pashto <pathanisation@googlegroups.com> | 
- | [mingw-glib2]({{< ref "/f39/package/mingw-glib2.md" >}}) | 466 | 4777 | 9.8 | Pashto <pathanisation@googlegroups.com> | 
- | [mate-terminal]({{< ref "/f39/package/mate-terminal.md" >}}) | 805 | 8386 | 9.6 | Pashto (https://app.transifex.com/mate/teams/13566/ps/) | 
- | [kf5-kdelibs4support]({{< ref "/f39/package/kf5-kdelibs4support.md" >}}) | 507 | 5353 | 9.5 | Pashto <pathanisation@googlegroups.com> | 
- | [NetworkManager-ssh]({{< ref "/f39/package/NetworkManager-ssh.md" >}}) | 26 | 286 | 9.1 | Pashto <pathanisation@googlegroups.com> | 
- | [gdk-pixbuf2]({{< ref "/f39/package/gdk-pixbuf2.md" >}}) | 120 | 1348 | 8.9 | Pashto <pathanisation@googlegroups.com> | 
- | [mingw-gdk-pixbuf]({{< ref "/f39/package/mingw-gdk-pixbuf.md" >}}) | 120 | 1348 | 8.9 | Pashto <pathanisation@googlegroups.com> | 
- | [kf5-kinit]({{< ref "/f39/package/kf5-kinit.md" >}}) | 10 | 116 | 8.6 | Pashto <pathanisation@googlegroups.com> | 
- | [sugar-browse]({{< ref "/f39/package/sugar-browse.md" >}}) | 28 | 334 | 8.4 | LANGUAGE <LL@li.org> | 
- | [mate-media]({{< ref "/f39/package/mate-media.md" >}}) | 19 | 239 | 7.9 | Pashto (https://app.transifex.com/mate/teams/13566/ps/) | 
- | [libgdl]({{< ref "/f39/package/libgdl.md" >}}) | 48 | 611 | 7.9 | Pashto <pathanisation@googlegroups.com> | 
- | [kf5-kdeclarative]({{< ref "/f39/package/kf5-kdeclarative.md" >}}) | 12 | 161 | 7.5 | Pashto <pathanisation@googlegroups.com> | 
- | [mate-backgrounds]({{< ref "/f39/package/mate-backgrounds.md" >}}) | 4 | 55 | 7.3 | Pushto (https://www.transifex.com/mate/teams/13566/ps/) | 
- | [mate-system-monitor]({{< ref "/f39/package/mate-system-monitor.md" >}}) | 309 | 4893 | 6.3 | Pashto (https://app.transifex.com/mate/teams/13566/ps/) | 
- | [sugar-turtleart]({{< ref "/f39/package/sugar-turtleart.md" >}}) | 81 | 1459 | 5.6 | Pashto <LL@li.org> | 
- | [sugar-terminal]({{< ref "/f39/package/sugar-terminal.md" >}}) | 6 | 121 | 5.0 | LANGUAGE <LL@li.org> | 
- | [sugar-speak]({{< ref "/f39/package/sugar-speak.md" >}}) | 11 | 227 | 4.8 | LANGUAGE <LL@li.org> | 
- | [vlc]({{< ref "/f39/package/vlc.md" >}}) | 1337 | 34779 | 3.8 | Pashto (https://app.transifex.com/yaron/teams/16553/ps/) | 
- | [isomaster]({{< ref "/f39/package/isomaster.md" >}}) | 25 | 674 | 3.7 | http://littlesvr.ca/ostd/ | 
- | [mate-polkit]({{< ref "/f39/package/mate-polkit.md" >}}) | 4 | 123 | 3.3 | Pashto (https://www.transifex.com/mate/teams/13566/ps/) | 
- | [mate-desktop]({{< ref "/f39/package/mate-desktop.md" >}}) | 74 | 2376 | 3.1 | Pashto (https://app.transifex.com/mate/teams/13566/ps/) | 
- | [asunder]({{< ref "/f39/package/asunder.md" >}}) | 14 | 493 | 2.8 | http://littlesvr.ca/ostd/ | 
- | [light-locker]({{< ref "/f39/package/light-locker.md" >}}) | 7 | 260 | 2.7 | Pushto (http://www.transifex.com/the_cavalry/light-locker/language/ps/) | 
- | [mate-notification-daemon]({{< ref "/f39/package/mate-notification-daemon.md" >}}) | 5 | 186 | 2.7 | Pashto (https://app.transifex.com/mate/teams/13566/ps/) | 
- | [sugar-implode]({{< ref "/f39/package/sugar-implode.md" >}}) | 2 | 77 | 2.6 | LANGUAGE <LL@li.org> | 
- | [kf5-knewstuff]({{< ref "/f39/package/kf5-knewstuff.md" >}}) | 41 | 1631 | 2.5 | Pashto <pathanisation@googlegroups.com> | 
- | [mate-applets]({{< ref "/f39/package/mate-applets.md" >}}) | 392 | 15957 | 2.5 | Pashto (https://www.transifex.com/mate/teams/13566/ps/) | 
- | [libmateweather]({{< ref "/f39/package/libmateweather.md" >}}) | 12 | 500 | 2.4 | Pashto (https://app.transifex.com/mate/teams/13566/ps/) | 
- | [pluma-plugins]({{< ref "/f39/package/pluma-plugins.md" >}}) | 32 | 1398 | 2.3 | Pushto (https://www.transifex.com/mate/teams/13566/ps/) | 
- | [NetworkManager-openvpn]({{< ref "/f39/package/NetworkManager-openvpn.md" >}}) | 43 | 2157 | 2.0 | Pashto <pathanisation@googlegroups.com> | 
- | [libmatekbd]({{< ref "/f39/package/libmatekbd.md" >}}) | 6 | 308 | 1.9 | Pashto (https://app.transifex.com/mate/teams/13566/ps/) | 
- | [mate-control-center]({{< ref "/f39/package/mate-control-center.md" >}}) | 146 | 8253 | 1.8 | Pashto (https://app.transifex.com/mate/teams/13566/ps/) | 
- | [libmatemixer]({{< ref "/f39/package/libmatemixer.md" >}}) | 4 | 242 | 1.7 | Pashto (https://app.transifex.com/mate/teams/13566/ps/) | 
- | [mate-settings-daemon]({{< ref "/f39/package/mate-settings-daemon.md" >}}) | 36 | 2207 | 1.6 | Pashto (https://app.transifex.com/mate/teams/13566/ps/) | 
- | [iso-codes]({{< ref "/f39/package/iso-codes.md" >}}) | 232 | 15908 | 1.5 | Pushto <https://hosted.weblate.org/projects/iso-codes/iso-3166-1/ps/> | 
- | [NetworkManager-l2tp]({{< ref "/f39/package/NetworkManager-l2tp.md" >}}) | 16 | 1289 | 1.2 | Pashto <pathanisation@googlegroups.com> | 
- | [caja-extensions]({{< ref "/f39/package/caja-extensions.md" >}}) | 9 | 760 | 1.2 | Pashto (https://www.transifex.com/mate/teams/13566/ps/) | 
- | [mate-user-admin]({{< ref "/f39/package/mate-user-admin.md" >}}) | 7 | 605 | 1.2 | Pashto (https://www.transifex.com/mate/teams/13566/ps/) | 
- | [mate-calc]({{< ref "/f39/package/mate-calc.md" >}}) | 26 | 3323 | 0.8 | Pushto (https://www.transifex.com/mate/teams/13566/ps/) | 
- | [efl]({{< ref "/f39/package/efl.md" >}}) | 1 | 156 | 0.6 | General | 
- | [elementary-code]({{< ref "/f39/package/elementary-code.md" >}}) | 10 | 1572 | 0.6 | LANGUAGE <LL@li.org> | 
- | [caja-actions]({{< ref "/f39/package/caja-actions.md" >}}) | 113 | 18815 | 0.6 | Pushto (https://www.transifex.com/mate/teams/13566/ps/) | 
- | [mate-power-manager]({{< ref "/f39/package/mate-power-manager.md" >}}) | 30 | 5119 | 0.6 | Pashto (https://app.transifex.com/mate/teams/13566/ps/) | 
- | [marco]({{< ref "/f39/package/marco.md" >}}) | 20 | 4303 | 0.5 | Pashto (https://app.transifex.com/mate/teams/13566/ps/) | 
- | [mate-user-guide]({{< ref "/f39/package/mate-user-guide.md" >}}) | 86 | 44679 | 0.2 | Pushto (https://www.transifex.com/mate/teams/13566/ps/) | 
- | [mate-sensors-applet]({{< ref "/f39/package/mate-sensors-applet.md" >}}) | 4 | 2160 | 0.2 | Pushto (https://www.transifex.com/mate/teams/13566/ps/) | 
- | [clutter]({{< ref "/f39/package/clutter.md" >}}) | 1 | 3057 | 0.0 | Pashto <pathanisation@googlegroups.com> | 
- | [deja-dup]({{< ref "/f39/package/deja-dup.md" >}}) | 1 | 3375 | 0.0 | Pashto <ps@li.org> | 
- | [calibre]({{< ref "/f39/package/calibre.md" >}}) | 33 | 170967 | 0.0 | Pashto (http://www.transifex.com/calibre/calibre/language/ps/) | 
- | [bookworm]({{< ref "/f39/package/bookworm.md" >}}) | 0 | 795 | 0.0 |  | 
- | [chromium]({{< ref "/f39/package/chromium.md" >}}) | 0 | 0 | 0.0 |  | 
- | [cinnamon-desktop]({{< ref "/f39/package/cinnamon-desktop.md" >}}) | 0 | 234 | 0.0 | Pashto <pathanisation@googlegroups.com> | 
- | [coin]({{< ref "/f39/package/coin.md" >}}) | 0 | 252 | 0.0 | none | 
- | [dippi]({{< ref "/f39/package/dippi.md" >}}) | 0 | 1540 | 0.0 | none | 
- | [elementary-files]({{< ref "/f39/package/elementary-files.md" >}}) | 0 | 2538 | 0.0 | LANGUAGE <LL@li.org> | 
- | [elementary-icon-theme]({{< ref "/f39/package/elementary-icon-theme.md" >}}) | 0 | 394 | 0.0 | none | 
- | [elementary-mail]({{< ref "/f39/package/elementary-mail.md" >}}) | 0 | 861 | 0.0 |  | 
- | [elementary-music]({{< ref "/f39/package/elementary-music.md" >}}) | 0 | 207 | 0.0 | LANGUAGE <LL@li.org> | 
- | [elementary-notifications]({{< ref "/f39/package/elementary-notifications.md" >}}) | 0 | 40 | 0.0 | none | 
- | [gala]({{< ref "/f39/package/gala.md" >}}) | 0 | 259 | 0.0 | none | 
- | [gnome-font-viewer]({{< ref "/f39/package/gnome-font-viewer.md" >}}) | 0 | 32 | 0.0 | Pashto <pathanisation@googlegroups.com> | 
- | [granite]({{< ref "/f39/package/granite.md" >}}) | 0 | 498 | 0.0 |  | 
- | [granite-7]({{< ref "/f39/package/granite-7.md" >}}) | 0 | 369 | 0.0 |  | 
- | [harvey]({{< ref "/f39/package/harvey.md" >}}) | 0 | 182 | 0.0 | none | 
- | [kf5-kauth]({{< ref "/f39/package/kf5-kauth.md" >}}) | 0 | 73 | 0.0 | Pashto <pathanisation@googlegroups.com> | 
- | [kf5-kcodecs]({{< ref "/f39/package/kf5-kcodecs.md" >}}) | 0 | 370 | 0.0 | Pashto <pathanisation@googlegroups.com> | 
- | [kf5-kcompletion]({{< ref "/f39/package/kf5-kcompletion.md" >}}) | 0 | 18 | 0.0 | Pashto <pathanisation@googlegroups.com> | 
- | [kf5-kcoreaddons]({{< ref "/f39/package/kf5-kcoreaddons.md" >}}) | 0 | 382 | 0.0 | Pashto <pathanisation@googlegroups.com> | 
- | [kf5-kdesignerplugin]({{< ref "/f39/package/kf5-kdesignerplugin.md" >}}) | 0 | 54 | 0.0 | Pashto <pathanisation@googlegroups.com> | 
- | [kf5-kdnssd]({{< ref "/f39/package/kf5-kdnssd.md" >}}) | 0 | 3 | 0.0 | Pashto <pathanisation@googlegroups.com> | 
- | [kf5-kglobalaccel]({{< ref "/f39/package/kf5-kglobalaccel.md" >}}) | 0 | 71 | 0.0 | Pashto <pathanisation@googlegroups.com> | 
- | [kf5-kitemviews]({{< ref "/f39/package/kf5-kitemviews.md" >}}) | 0 | 7 | 0.0 | Pashto <pathanisation@googlegroups.com> | 
- | [kf5-kjobwidgets]({{< ref "/f39/package/kf5-kjobwidgets.md" >}}) | 0 | 133 | 0.0 | Pashto <pathanisation@googlegroups.com> | 
- | [kf5-knotifications]({{< ref "/f39/package/kf5-knotifications.md" >}}) | 0 | 21 | 0.0 | Pashto <pathanisation@googlegroups.com> | 
- | [kf5-kwidgetsaddons]({{< ref "/f39/package/kf5-kwidgetsaddons.md" >}}) | 0 | 1293 | 0.0 | Pashto <pathanisation@googlegroups.com> | 
- | [kf5-kwindowsystem]({{< ref "/f39/package/kf5-kwindowsystem.md" >}}) | 0 | 2 | 0.0 | Pashto <pathanisation@googlegroups.com> | 
- | [kf5-sonnet]({{< ref "/f39/package/kf5-sonnet.md" >}}) | 0 | 683 | 0.0 | Pashto <pathanisation@googlegroups.com> | 
- | [libfm]({{< ref "/f39/package/libfm.md" >}}) | 0 | 1575 | 0.0 | LANGUAGE <LL@li.org> | 
- | [lxdm]({{< ref "/f39/package/lxdm.md" >}}) | 0 | 48 | 0.0 | LANGUAGE <LL@li.org> | 
- | [lxinput]({{< ref "/f39/package/lxinput.md" >}}) | 0 | 83 | 0.0 | LANGUAGE <LL@li.org> | 
- | [lxlauncher]({{< ref "/f39/package/lxlauncher.md" >}}) | 0 | 58 | 0.0 | LANGUAGE <LL@li.org> | 
- | [lxmusic]({{< ref "/f39/package/lxmusic.md" >}}) | 0 | 203 | 0.0 | LANGUAGE <LL@li.org> | 
- | [lxshortcut]({{< ref "/f39/package/lxshortcut.md" >}}) | 0 | 43 | 0.0 | LANGUAGE <LL@li.org> | 
- | [mate-themes]({{< ref "/f39/package/mate-themes.md" >}}) | 0 | 74 | 0.0 | Pashto (http://app.transifex.com/mate/MATE/language/ps/) | 
- | [nutty]({{< ref "/f39/package/nutty.md" >}}) | 0 | 608 | 0.0 |  | 
- | [optimizer]({{< ref "/f39/package/optimizer.md" >}}) | 0 | 282 | 0.0 | none | 
- | [pyhoca-gui]({{< ref "/f39/package/pyhoca-gui.md" >}}) | 0 | 1865 | 0.0 | none | 
- | [python-django-mailman3]({{< ref "/f39/package/python-django-mailman3.md" >}}) | 0 | 355 | 0.0 | LANGUAGE <LL@li.org> | 
- | [python-hyperkitty]({{< ref "/f39/package/python-hyperkitty.md" >}}) | 0 | 951 | 0.0 | LANGUAGE <LL@li.org> | 
- | [python-postorius]({{< ref "/f39/package/python-postorius.md" >}}) | 0 | 5054 | 0.0 | LANGUAGE <LL@li.org> | 
- | [regextester]({{< ref "/f39/package/regextester.md" >}}) | 0 | 104 | 0.0 | none | 
- | [slick-greeter]({{< ref "/f39/package/slick-greeter.md" >}}) | 0 | 216 | 0.0 | Pashto <ps@li.org> | 
- | [spacefm]({{< ref "/f39/package/spacefm.md" >}}) | 0 | 8722 | 0.0 | Pushto (http://www.transifex.com/projects/p/spacefm/language/ps/) | 
- | [sugar-clock]({{< ref "/f39/package/sugar-clock.md" >}}) | 0 | 66 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-dimensions]({{< ref "/f39/package/sugar-dimensions.md" >}}) | 0 | 176 | 0.0 | LANGUAGE <LL@li.org> | 
- | [wingpanel]({{< ref "/f39/package/wingpanel.md" >}}) | 0 | 16 | 0.0 | none | 
- | [wingpanel-indicator-a11y]({{< ref "/f39/package/wingpanel-indicator-a11y.md" >}}) | 0 | 55 | 0.0 | none | 
- | [wingpanel-indicator-bluetooth]({{< ref "/f39/package/wingpanel-indicator-bluetooth.md" >}}) | 0 | 283 | 0.0 | none | 
- | [wingpanel-indicator-datetime]({{< ref "/f39/package/wingpanel-indicator-datetime.md" >}}) | 0 | 177 | 0.0 |  | 
- | [wingpanel-indicator-keyboard]({{< ref "/f39/package/wingpanel-indicator-keyboard.md" >}}) | 0 | 63 | 0.0 |  | 
+ | [alacarte](/f39/package/alacarte) | 42 | 42 | 100.0 | Pashto <pathanisation@googlegroups.com> | 
+ | [gnome-icon-theme](/f39/package/gnome-icon-theme) | 20 | 20 | 100.0 | Pashto <pathanisation@googlegroups.com> | 
+ | [gnome-shell-frippery](/f39/package/gnome-shell-frippery) | 4 | 4 | 100.0 |  | 
+ | [kde-i18n](/f39/package/kde-i18n) | 7 | 7 | 100.0 | Traditional Chinese <zh_l10n@linux.org.tw> | 
+ | [kf5-kpty](/f39/package/kf5-kpty) | 15 | 15 | 100.0 | Pashto <pathanisation@googlegroups.com> | 
+ | [lxmenu-data](/f39/package/lxmenu-data) | 97 | 97 | 100.0 | Pashto <pathanisation@googlegroups.com> | 
+ | [mate-icon-theme](/f39/package/mate-icon-theme) | 4 | 4 | 100.0 | Pushto (https://www.transifex.com/mate/teams/13566/ps/) | 
+ | [totem-pl-parser](/f39/package/totem-pl-parser) | 28 | 28 | 100.0 | Pashto <pathanisation@googlegroups.com> | 
+ | [xdg-user-dirs-gtk](/f39/package/xdg-user-dirs-gtk) | 81 | 81 | 100.0 | Pashto <pathanisation@googlegroups.com> | 
+ | [file-roller](/f39/package/file-roller) | 1200 | 1206 | 99.5 | Pashto <pathanisation@googlegroups.com> | 
+ | [at-spi2-core](/f39/package/at-spi2-core) | 370 | 375 | 98.7 | Pashto <pathanisation@googlegroups.com> | 
+ | [mingw-atk](/f39/package/mingw-atk) | 370 | 375 | 98.7 | Pashto <pathanisation@googlegroups.com> | 
+ | [gconf-editor](/f39/package/gconf-editor) | 328 | 336 | 97.6 | Pashto <pathanisation@googlegroups.com> | 
+ | [mate-menus](/f39/package/mate-menus) | 98 | 103 | 95.1 | Pashto (https://app.transifex.com/mate/teams/13566/ps/) | 
+ | [xdg-user-dirs](/f39/package/xdg-user-dirs) | 26 | 28 | 92.9 | Pashto <pathanisation@googlegroups.com> | 
+ | [mozo](/f39/package/mozo) | 40 | 46 | 87.0 | Pashto (https://www.transifex.com/mate/teams/13566/ps/) | 
+ | [cheese](/f39/package/cheese) | 333 | 389 | 85.6 | Pashto <pathanisation@googlegroups.com> | 
+ | [gnome-menus](/f39/package/gnome-menus) | 128 | 157 | 81.5 | Pashto <pathanisation@googlegroups.com> | 
+ | [evince](/f39/package/evince) | 746 | 989 | 75.4 | Pashto <pathanisation@googlegroups.com> | 
+ | [kf5-kross](/f39/package/kf5-kross) | 73 | 100 | 73.0 | Pashto <pathanisation@googlegroups.com> | 
+ | [sugar-distance](/f39/package/sugar-distance) | 72 | 99 | 72.7 | PASHTO <LL@li.org> | 
+ | [libbonoboui](/f39/package/libbonoboui) | 254 | 368 | 69.0 | Pashto <pathanisation@googlegroups.com> | 
+ | [libgnomeui](/f39/package/libgnomeui) | 846 | 1226 | 69.0 | Pashto <pakhtosoft@gmail.com> | 
+ | [devhelp](/f39/package/devhelp) | 242 | 364 | 66.5 | Pashto <pathanisation@googlegroups.com> | 
+ | [gthumb](/f39/package/gthumb) | 2262 | 3472 | 65.1 | Pashto <pakhtosoft@gmail.com> | 
+ | [kf5-kjsembed](/f39/package/kf5-kjsembed) | 156 | 248 | 62.9 | Pashto <pathanisation@googlegroups.com> | 
+ | [eog](/f39/package/eog) | 750 | 1193 | 62.9 | Pashto <pathanisation@googlegroups.com> | 
+ | [kf5-ktextwidgets](/f39/package/kf5-ktextwidgets) | 288 | 473 | 60.9 | Pashto <pathanisation@googlegroups.com> | 
+ | [sugar-toolkit-gtk3](/f39/package/sugar-toolkit-gtk3) | 127 | 213 | 59.6 | LANGUAGE <LL@li.org> | 
+ | [gnome-system-monitor](/f39/package/gnome-system-monitor) | 479 | 868 | 55.2 | Pashto <pakhtosoft@gmail.com> | 
+ | [baobab](/f39/package/baobab) | 282 | 540 | 52.2 | Pashto <pathanisation@googlegroups.com> | 
+ | [sugar-write](/f39/package/sugar-write) | 63 | 121 | 52.1 | LANGUAGE <LL@li.org> | 
+ | [dasher](/f39/package/dasher) | 273 | 528 | 51.7 | Pashto <pathanisation@googlegroups.com> | 
+ | [kf5-kparts](/f39/package/kf5-kparts) | 71 | 138 | 51.4 | Pashto <pathanisation@googlegroups.com> | 
+ | [gnome-desktop3](/f39/package/gnome-desktop3) | 144 | 283 | 50.9 | Pashto <pathanisation@googlegroups.com> | 
+ | [engrampa](/f39/package/engrampa) | 995 | 2049 | 48.6 | Pashto (https://app.transifex.com/mate/teams/13566/ps/) | 
+ | [kf5-kcmutils](/f39/package/kf5-kcmutils) | 122 | 266 | 45.9 | Pashto <pathanisation@googlegroups.com> | 
+ | [gnome-dictionary](/f39/package/gnome-dictionary) | 367 | 833 | 44.1 | Pashto <pathanisation@googlegroups.com> | 
+ | [sugar-flipsticks](/f39/package/sugar-flipsticks) | 66 | 151 | 43.7 | LANGUAGE <LL@li.org> | 
+ | [sugar-log](/f39/package/sugar-log) | 41 | 98 | 41.8 | LANGUAGE <LL@li.org> | 
+ | [islamic-menus](/f39/package/islamic-menus) | 2 | 5 | 40.0 | Pashto <ps@li.org> | 
+ | [budgie-screensaver](/f39/package/budgie-screensaver) | 376 | 955 | 39.4 | Pashto <pakhtosoft@gmail.com> | 
+ | [sugar-calculator](/f39/package/sugar-calculator) | 339 | 866 | 39.1 | LANGUAGE <LL@li.org> | 
+ | [gedit](/f39/package/gedit) | 1929 | 5010 | 38.5 | Pashto <pathanisation@googlegroups.com> | 
+ | [gnome-panel](/f39/package/gnome-panel) | 1328 | 3520 | 37.7 | Pashto <pp@pathanisation.pakhtosoft.com> | 
+ | [zenity](/f39/package/zenity) | 210 | 582 | 36.1 | Pashto <pathanisation@googlegroups.com> | 
+ | [budgie-session](/f39/package/budgie-session) | 244 | 679 | 35.9 | Pashto <pathanisation@googlegroups.com> | 
+ | [gnome-session](/f39/package/gnome-session) | 244 | 679 | 35.9 | Pashto <pathanisation@googlegroups.com> | 
+ | [kf5-kconfigwidgets](/f39/package/kf5-kconfigwidgets) | 120 | 342 | 35.1 | Pashto <pathanisation@googlegroups.com> | 
+ | [kf5-khtml](/f39/package/kf5-khtml) | 575 | 1667 | 34.5 | Pashto <pathanisation@googlegroups.com> | 
+ | [kf5-ki18n](/f39/package/kf5-ki18n) | 42 | 124 | 33.9 | Pashto <pathanisation@googlegroups.com> | 
+ | [mate-screensaver](/f39/package/mate-screensaver) | 360 | 1101 | 32.7 | Pashto (https://app.transifex.com/mate/teams/13566/ps/) | 
+ | [rhythmbox](/f39/package/rhythmbox) | 1298 | 4019 | 32.3 | Pashto <pakhtosoft@gmail.com> | 
+ | [gnome-nettool](/f39/package/gnome-nettool) | 165 | 523 | 31.5 | Pashto <zabeehkhan@gmail.com> | 
+ | [evolution](/f39/package/evolution) | 6876 | 21865 | 31.4 | Pashto <pathanisation@goolgegroups.com> | 
+ | [mate-session-manager](/f39/package/mate-session-manager) | 223 | 715 | 31.2 | Pashto (https://app.transifex.com/mate/teams/13566/ps/) | 
+ | [gnome-video-effects](/f39/package/gnome-video-effects) | 8 | 26 | 30.8 | Pashto <pathanisation@googlegroups.com> | 
+ | [xreader](/f39/package/xreader) | 475 | 1625 | 29.2 | Pushto (http://www.transifex.com/mate/MATE/language/ps/) | 
+ | [xed](/f39/package/xed) | 1089 | 3759 | 29.0 | Pushto (http://www.transifex.com/projects/p/MATE/language/ps/) | 
+ | [gnome-screenshot](/f39/package/gnome-screenshot) | 91 | 319 | 28.5 | Pashto <pathanisation@googlegroups.com> | 
+ | [sugar-imageviewer](/f39/package/sugar-imageviewer) | 16 | 58 | 27.6 | Pashto<LL@li.org> | 
+ | [sugar](/f39/package/sugar) | 629 | 2305 | 27.3 | LANGUAGE <LL@li.org> | 
+ | [sugar-physics](/f39/package/sugar-physics) | 13 | 48 | 27.1 | LANGUAGE <LL@li.org> | 
+ | [gnome-terminal](/f39/package/gnome-terminal) | 899 | 3394 | 26.5 | Pashto <pathanisation@googlegroups.com> | 
+ | [kf5-knotifyconfig](/f39/package/kf5-knotifyconfig) | 34 | 129 | 26.4 | Pashto <pathanisation@googlegroups.com> | 
+ | [gtk4](/f39/package/gtk4) | 636 | 2432 | 26.2 | Pashto <pathanisation@googlegroups.com> | 
+ | [mingw-gtk4](/f39/package/mingw-gtk4) | 636 | 2432 | 26.2 | Pashto <pathanisation@googlegroups.com> | 
+ | [yelp](/f39/package/yelp) | 268 | 1035 | 25.9 | Pashto <pathanisation@googlegroups.com> | 
+ | [sugar-memorize](/f39/package/sugar-memorize) | 36 | 142 | 25.4 | PASHTO <LL@li.org> | 
+ | [sugar-read](/f39/package/sugar-read) | 32 | 137 | 23.4 | LANGUAGE <LL@li.org> | 
+ | [gnome-system-log](/f39/package/gnome-system-log) | 121 | 522 | 23.2 | Pashto <pathanisation@googlegroups.com> | 
+ | [mate-panel](/f39/package/mate-panel) | 1494 | 6720 | 22.2 | Pashto (https://app.transifex.com/mate/teams/13566/ps/) | 
+ | [sugar-chat](/f39/package/sugar-chat) | 30 | 137 | 21.9 | LANGUAGE <LL@li.org> | 
+ | [sugar-record](/f39/package/sugar-record) | 12 | 62 | 19.4 | LANGUAGE <LL@li.org> | 
+ | [gnome-applets](/f39/package/gnome-applets) | 602 | 3158 | 19.1 | Pashto <pathanisation@googlegroups.com> | 
+ | [sugar-finance](/f39/package/sugar-finance) | 48 | 258 | 18.6 | PASHTO <LL@li.org> | 
+ | [kf5-kservice](/f39/package/kf5-kservice) | 32 | 173 | 18.5 | Pashto <pathanisation@googlegroups.com> | 
+ | [gedit-plugins](/f39/package/gedit-plugins) | 222 | 1205 | 18.4 | Pashto <pathanisation@googlegroups.com> | 
+ | [gtk2](/f39/package/gtk2) | 2441 | 13704 | 17.8 | Pashto <pathanisation@googlegroups.com> | 
+ | [mingw-gtk2](/f39/package/mingw-gtk2) | 2441 | 13704 | 17.8 | Pashto <pathanisation@googlegroups.com> | 
+ | [gtk3](/f39/package/gtk3) | 2081 | 11853 | 17.6 | Pashto <pathanisation@googlegroups.com> | 
+ | [mingw-gtk3](/f39/package/mingw-gtk3) | 2081 | 11853 | 17.6 | Pashto <pathanisation@googlegroups.com> | 
+ | [gdm](/f39/package/gdm) | 109 | 650 | 16.8 | Pashto <pathanisation@googlegroups.com> | 
+ | [atril](/f39/package/atril) | 662 | 4365 | 15.2 | Pushto (https://www.transifex.com/mate/teams/13566/ps/) | 
+ | [sugar-view-slides](/f39/package/sugar-view-slides) | 9 | 60 | 15.0 | LANGUAGE <LL@li.org> | 
+ | [nautilus](/f39/package/nautilus) | 1166 | 8379 | 13.9 | Pashto <pathanisation@googlegroups.com> | 
+ | [epiphany](/f39/package/epiphany) | 401 | 2882 | 13.9 | Pashto <pathanisation@googlegroups.com> | 
+ | [mate-utils](/f39/package/mate-utils) | 1374 | 10060 | 13.7 | Pashto (https://app.transifex.com/mate/teams/13566/ps/) | 
+ | [sugar-pippy](/f39/package/sugar-pippy) | 36 | 275 | 13.1 | LANGUAGE <LL@li.org> | 
+ | [cinnamon-translations](/f39/package/cinnamon-translations) | 50 | 384 | 13.0 | Pashto <pakhtosoft@gmail.com> | 
+ | [eom](/f39/package/eom) | 629 | 4961 | 12.7 | Pushto (https://www.transifex.com/mate/teams/13566/ps/) | 
+ | [kf5-kxmlgui](/f39/package/kf5-kxmlgui) | 199 | 1574 | 12.6 | Pashto <pathanisation@googlegroups.com> | 
+ | [pluma](/f39/package/pluma) | 1610 | 13113 | 12.3 | Pashto (https://app.transifex.com/mate/teams/13566/ps/) | 
+ | [mate-menu](/f39/package/mate-menu) | 37 | 308 | 12.0 | Pushto (http://www.transifex.com/mate/MATE/language/ps/) | 
+ | [caja](/f39/package/caja) | 1154 | 9675 | 11.9 | Pashto (https://app.transifex.com/mate/teams/13566/ps/) | 
+ | [pidgin](/f39/package/pidgin) | 1499 | 13994 | 10.7 | Pashto (http://www.transifex.com/pidgin/pidgin/language/ps/) | 
+ | [glib2](/f39/package/glib2) | 466 | 4777 | 9.8 | Pashto <pathanisation@googlegroups.com> | 
+ | [mingw-glib2](/f39/package/mingw-glib2) | 466 | 4777 | 9.8 | Pashto <pathanisation@googlegroups.com> | 
+ | [mate-terminal](/f39/package/mate-terminal) | 805 | 8386 | 9.6 | Pashto (https://app.transifex.com/mate/teams/13566/ps/) | 
+ | [kf5-kdelibs4support](/f39/package/kf5-kdelibs4support) | 507 | 5353 | 9.5 | Pashto <pathanisation@googlegroups.com> | 
+ | [NetworkManager-ssh](/f39/package/NetworkManager-ssh) | 26 | 286 | 9.1 | Pashto <pathanisation@googlegroups.com> | 
+ | [gdk-pixbuf2](/f39/package/gdk-pixbuf2) | 120 | 1348 | 8.9 | Pashto <pathanisation@googlegroups.com> | 
+ | [mingw-gdk-pixbuf](/f39/package/mingw-gdk-pixbuf) | 120 | 1348 | 8.9 | Pashto <pathanisation@googlegroups.com> | 
+ | [kf5-kinit](/f39/package/kf5-kinit) | 10 | 116 | 8.6 | Pashto <pathanisation@googlegroups.com> | 
+ | [sugar-browse](/f39/package/sugar-browse) | 28 | 334 | 8.4 | LANGUAGE <LL@li.org> | 
+ | [mate-media](/f39/package/mate-media) | 19 | 239 | 7.9 | Pashto (https://app.transifex.com/mate/teams/13566/ps/) | 
+ | [libgdl](/f39/package/libgdl) | 48 | 611 | 7.9 | Pashto <pathanisation@googlegroups.com> | 
+ | [kf5-kdeclarative](/f39/package/kf5-kdeclarative) | 12 | 161 | 7.5 | Pashto <pathanisation@googlegroups.com> | 
+ | [mate-backgrounds](/f39/package/mate-backgrounds) | 4 | 55 | 7.3 | Pushto (https://www.transifex.com/mate/teams/13566/ps/) | 
+ | [mate-system-monitor](/f39/package/mate-system-monitor) | 309 | 4893 | 6.3 | Pashto (https://app.transifex.com/mate/teams/13566/ps/) | 
+ | [sugar-turtleart](/f39/package/sugar-turtleart) | 81 | 1459 | 5.6 | Pashto <LL@li.org> | 
+ | [sugar-terminal](/f39/package/sugar-terminal) | 6 | 121 | 5.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-speak](/f39/package/sugar-speak) | 11 | 227 | 4.8 | LANGUAGE <LL@li.org> | 
+ | [vlc](/f39/package/vlc) | 1337 | 34779 | 3.8 | Pashto (https://app.transifex.com/yaron/teams/16553/ps/) | 
+ | [isomaster](/f39/package/isomaster) | 25 | 674 | 3.7 | http://littlesvr.ca/ostd/ | 
+ | [mate-polkit](/f39/package/mate-polkit) | 4 | 123 | 3.3 | Pashto (https://www.transifex.com/mate/teams/13566/ps/) | 
+ | [mate-desktop](/f39/package/mate-desktop) | 74 | 2376 | 3.1 | Pashto (https://app.transifex.com/mate/teams/13566/ps/) | 
+ | [asunder](/f39/package/asunder) | 14 | 493 | 2.8 | http://littlesvr.ca/ostd/ | 
+ | [light-locker](/f39/package/light-locker) | 7 | 260 | 2.7 | Pushto (http://www.transifex.com/the_cavalry/light-locker/language/ps/) | 
+ | [mate-notification-daemon](/f39/package/mate-notification-daemon) | 5 | 186 | 2.7 | Pashto (https://app.transifex.com/mate/teams/13566/ps/) | 
+ | [sugar-implode](/f39/package/sugar-implode) | 2 | 77 | 2.6 | LANGUAGE <LL@li.org> | 
+ | [kf5-knewstuff](/f39/package/kf5-knewstuff) | 41 | 1631 | 2.5 | Pashto <pathanisation@googlegroups.com> | 
+ | [mate-applets](/f39/package/mate-applets) | 392 | 15957 | 2.5 | Pashto (https://www.transifex.com/mate/teams/13566/ps/) | 
+ | [libmateweather](/f39/package/libmateweather) | 12 | 500 | 2.4 | Pashto (https://app.transifex.com/mate/teams/13566/ps/) | 
+ | [pluma-plugins](/f39/package/pluma-plugins) | 32 | 1398 | 2.3 | Pushto (https://www.transifex.com/mate/teams/13566/ps/) | 
+ | [NetworkManager-openvpn](/f39/package/NetworkManager-openvpn) | 43 | 2157 | 2.0 | Pashto <pathanisation@googlegroups.com> | 
+ | [libmatekbd](/f39/package/libmatekbd) | 6 | 308 | 1.9 | Pashto (https://app.transifex.com/mate/teams/13566/ps/) | 
+ | [mate-control-center](/f39/package/mate-control-center) | 146 | 8253 | 1.8 | Pashto (https://app.transifex.com/mate/teams/13566/ps/) | 
+ | [libmatemixer](/f39/package/libmatemixer) | 4 | 242 | 1.7 | Pashto (https://app.transifex.com/mate/teams/13566/ps/) | 
+ | [mate-settings-daemon](/f39/package/mate-settings-daemon) | 36 | 2207 | 1.6 | Pashto (https://app.transifex.com/mate/teams/13566/ps/) | 
+ | [iso-codes](/f39/package/iso-codes) | 232 | 15908 | 1.5 | Pushto <https://hosted.weblate.org/projects/iso-codes/iso-3166-1/ps/> | 
+ | [NetworkManager-l2tp](/f39/package/NetworkManager-l2tp) | 16 | 1289 | 1.2 | Pashto <pathanisation@googlegroups.com> | 
+ | [caja-extensions](/f39/package/caja-extensions) | 9 | 760 | 1.2 | Pashto (https://www.transifex.com/mate/teams/13566/ps/) | 
+ | [mate-user-admin](/f39/package/mate-user-admin) | 7 | 605 | 1.2 | Pashto (https://www.transifex.com/mate/teams/13566/ps/) | 
+ | [mate-calc](/f39/package/mate-calc) | 26 | 3323 | 0.8 | Pushto (https://www.transifex.com/mate/teams/13566/ps/) | 
+ | [efl](/f39/package/efl) | 1 | 156 | 0.6 | General | 
+ | [elementary-code](/f39/package/elementary-code) | 10 | 1572 | 0.6 | LANGUAGE <LL@li.org> | 
+ | [caja-actions](/f39/package/caja-actions) | 113 | 18815 | 0.6 | Pushto (https://www.transifex.com/mate/teams/13566/ps/) | 
+ | [mate-power-manager](/f39/package/mate-power-manager) | 30 | 5119 | 0.6 | Pashto (https://app.transifex.com/mate/teams/13566/ps/) | 
+ | [marco](/f39/package/marco) | 20 | 4303 | 0.5 | Pashto (https://app.transifex.com/mate/teams/13566/ps/) | 
+ | [mate-user-guide](/f39/package/mate-user-guide) | 86 | 44679 | 0.2 | Pushto (https://www.transifex.com/mate/teams/13566/ps/) | 
+ | [mate-sensors-applet](/f39/package/mate-sensors-applet) | 4 | 2160 | 0.2 | Pushto (https://www.transifex.com/mate/teams/13566/ps/) | 
+ | [clutter](/f39/package/clutter) | 1 | 3057 | 0.0 | Pashto <pathanisation@googlegroups.com> | 
+ | [deja-dup](/f39/package/deja-dup) | 1 | 3375 | 0.0 | Pashto <ps@li.org> | 
+ | [calibre](/f39/package/calibre) | 33 | 170967 | 0.0 | Pashto (http://www.transifex.com/calibre/calibre/language/ps/) | 
+ | [bookworm](/f39/package/bookworm) | 0 | 795 | 0.0 |  | 
+ | [chromium](/f39/package/chromium) | 0 | 0 | 0.0 |  | 
+ | [cinnamon-desktop](/f39/package/cinnamon-desktop) | 0 | 234 | 0.0 | Pashto <pathanisation@googlegroups.com> | 
+ | [coin](/f39/package/coin) | 0 | 252 | 0.0 | none | 
+ | [dippi](/f39/package/dippi) | 0 | 1540 | 0.0 | none | 
+ | [elementary-files](/f39/package/elementary-files) | 0 | 2538 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [elementary-icon-theme](/f39/package/elementary-icon-theme) | 0 | 394 | 0.0 | none | 
+ | [elementary-mail](/f39/package/elementary-mail) | 0 | 861 | 0.0 |  | 
+ | [elementary-music](/f39/package/elementary-music) | 0 | 207 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [elementary-notifications](/f39/package/elementary-notifications) | 0 | 40 | 0.0 | none | 
+ | [gala](/f39/package/gala) | 0 | 259 | 0.0 | none | 
+ | [gnome-font-viewer](/f39/package/gnome-font-viewer) | 0 | 32 | 0.0 | Pashto <pathanisation@googlegroups.com> | 
+ | [granite](/f39/package/granite) | 0 | 498 | 0.0 |  | 
+ | [granite-7](/f39/package/granite-7) | 0 | 369 | 0.0 |  | 
+ | [harvey](/f39/package/harvey) | 0 | 182 | 0.0 | none | 
+ | [kf5-kauth](/f39/package/kf5-kauth) | 0 | 73 | 0.0 | Pashto <pathanisation@googlegroups.com> | 
+ | [kf5-kcodecs](/f39/package/kf5-kcodecs) | 0 | 370 | 0.0 | Pashto <pathanisation@googlegroups.com> | 
+ | [kf5-kcompletion](/f39/package/kf5-kcompletion) | 0 | 18 | 0.0 | Pashto <pathanisation@googlegroups.com> | 
+ | [kf5-kcoreaddons](/f39/package/kf5-kcoreaddons) | 0 | 382 | 0.0 | Pashto <pathanisation@googlegroups.com> | 
+ | [kf5-kdesignerplugin](/f39/package/kf5-kdesignerplugin) | 0 | 54 | 0.0 | Pashto <pathanisation@googlegroups.com> | 
+ | [kf5-kdnssd](/f39/package/kf5-kdnssd) | 0 | 3 | 0.0 | Pashto <pathanisation@googlegroups.com> | 
+ | [kf5-kglobalaccel](/f39/package/kf5-kglobalaccel) | 0 | 71 | 0.0 | Pashto <pathanisation@googlegroups.com> | 
+ | [kf5-kitemviews](/f39/package/kf5-kitemviews) | 0 | 7 | 0.0 | Pashto <pathanisation@googlegroups.com> | 
+ | [kf5-kjobwidgets](/f39/package/kf5-kjobwidgets) | 0 | 133 | 0.0 | Pashto <pathanisation@googlegroups.com> | 
+ | [kf5-knotifications](/f39/package/kf5-knotifications) | 0 | 21 | 0.0 | Pashto <pathanisation@googlegroups.com> | 
+ | [kf5-kwidgetsaddons](/f39/package/kf5-kwidgetsaddons) | 0 | 1293 | 0.0 | Pashto <pathanisation@googlegroups.com> | 
+ | [kf5-kwindowsystem](/f39/package/kf5-kwindowsystem) | 0 | 2 | 0.0 | Pashto <pathanisation@googlegroups.com> | 
+ | [kf5-sonnet](/f39/package/kf5-sonnet) | 0 | 683 | 0.0 | Pashto <pathanisation@googlegroups.com> | 
+ | [libfm](/f39/package/libfm) | 0 | 1575 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [lxdm](/f39/package/lxdm) | 0 | 48 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [lxinput](/f39/package/lxinput) | 0 | 83 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [lxlauncher](/f39/package/lxlauncher) | 0 | 58 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [lxmusic](/f39/package/lxmusic) | 0 | 203 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [lxshortcut](/f39/package/lxshortcut) | 0 | 43 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [mate-themes](/f39/package/mate-themes) | 0 | 74 | 0.0 | Pashto (http://app.transifex.com/mate/MATE/language/ps/) | 
+ | [nutty](/f39/package/nutty) | 0 | 608 | 0.0 |  | 
+ | [optimizer](/f39/package/optimizer) | 0 | 282 | 0.0 | none | 
+ | [pyhoca-gui](/f39/package/pyhoca-gui) | 0 | 1865 | 0.0 | none | 
+ | [python-django-mailman3](/f39/package/python-django-mailman3) | 0 | 355 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [python-hyperkitty](/f39/package/python-hyperkitty) | 0 | 951 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [python-postorius](/f39/package/python-postorius) | 0 | 5054 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [regextester](/f39/package/regextester) | 0 | 104 | 0.0 | none | 
+ | [slick-greeter](/f39/package/slick-greeter) | 0 | 216 | 0.0 | Pashto <ps@li.org> | 
+ | [spacefm](/f39/package/spacefm) | 0 | 8722 | 0.0 | Pushto (http://www.transifex.com/projects/p/spacefm/language/ps/) | 
+ | [sugar-clock](/f39/package/sugar-clock) | 0 | 66 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-dimensions](/f39/package/sugar-dimensions) | 0 | 176 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [wingpanel](/f39/package/wingpanel) | 0 | 16 | 0.0 | none | 
+ | [wingpanel-indicator-a11y](/f39/package/wingpanel-indicator-a11y) | 0 | 55 | 0.0 | none | 
+ | [wingpanel-indicator-bluetooth](/f39/package/wingpanel-indicator-bluetooth) | 0 | 283 | 0.0 | none | 
+ | [wingpanel-indicator-datetime](/f39/package/wingpanel-indicator-datetime) | 0 | 177 | 0.0 |  | 
+ | [wingpanel-indicator-keyboard](/f39/package/wingpanel-indicator-keyboard) | 0 | 63 | 0.0 |  | 
 {.sortable}
 
 

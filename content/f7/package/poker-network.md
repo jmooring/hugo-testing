@@ -18,7 +18,7 @@ The package poker-network (version 1.6.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f7/language/fr.md" >}}) | 832 | 912 | 91.2 | /mnt/stockage/packages/f7/poker-network/po/fr.po | 
+ | [fr](/f7/language/fr) | 832 | 912 | 91.2 | /mnt/stockage/packages/f7/poker-network/po/fr.po | 
 {.sortable}
 
 

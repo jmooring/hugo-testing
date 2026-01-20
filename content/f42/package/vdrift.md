@@ -18,16 +18,16 @@ The package vdrift (version 20141020):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [gd]({{< ref "/f42/language/gd.md" >}}) | 1649 | 1649 | 100.0 | /mnt/stockage/packages/f42/vdrift/locale/gd.po | 
- | [de]({{< ref "/f42/language/de.md" >}}) | 1567 | 1649 | 95.0 | /mnt/stockage/packages/f42/vdrift/locale/de.po | 
- | [pt_BR]({{< ref "/f42/language/pt_BR.md" >}}) | 1518 | 1639 | 92.6 | /mnt/stockage/packages/f42/vdrift/locale/pt_BR.po | 
- | [pl]({{< ref "/f42/language/pl.md" >}}) | 1232 | 1649 | 74.7 | /mnt/stockage/packages/f42/vdrift/locale/pl.po | 
- | [ro]({{< ref "/f42/language/ro.md" >}}) | 864 | 1649 | 52.4 | /mnt/stockage/packages/f42/vdrift/locale/ro.po | 
- | [uk]({{< ref "/f42/language/uk.md" >}}) | 847 | 1649 | 51.4 | /mnt/stockage/packages/f42/vdrift/locale/uk.po | 
- | [ru]({{< ref "/f42/language/ru.md" >}}) | 804 | 1649 | 48.8 | /mnt/stockage/packages/f42/vdrift/locale/ru.po | 
- | [fr]({{< ref "/f42/language/fr.md" >}}) | 670 | 1649 | 40.6 | /mnt/stockage/packages/f42/vdrift/locale/fr.po | 
- | [tr]({{< ref "/f42/language/tr.md" >}}) | 46 | 1649 | 2.8 | /mnt/stockage/packages/f42/vdrift/locale/tr.po | 
- | [hu]({{< ref "/f42/language/hu.md" >}}) | 8 | 1639 | 0.5 | /mnt/stockage/packages/f42/vdrift/locale/hu_HU.po | 
+ | [gd](/f42/language/gd) | 1649 | 1649 | 100.0 | /mnt/stockage/packages/f42/vdrift/locale/gd.po | 
+ | [de](/f42/language/de) | 1567 | 1649 | 95.0 | /mnt/stockage/packages/f42/vdrift/locale/de.po | 
+ | [pt_BR](/f42/language/pt_BR) | 1518 | 1639 | 92.6 | /mnt/stockage/packages/f42/vdrift/locale/pt_BR.po | 
+ | [pl](/f42/language/pl) | 1232 | 1649 | 74.7 | /mnt/stockage/packages/f42/vdrift/locale/pl.po | 
+ | [ro](/f42/language/ro) | 864 | 1649 | 52.4 | /mnt/stockage/packages/f42/vdrift/locale/ro.po | 
+ | [uk](/f42/language/uk) | 847 | 1649 | 51.4 | /mnt/stockage/packages/f42/vdrift/locale/uk.po | 
+ | [ru](/f42/language/ru) | 804 | 1649 | 48.8 | /mnt/stockage/packages/f42/vdrift/locale/ru.po | 
+ | [fr](/f42/language/fr) | 670 | 1649 | 40.6 | /mnt/stockage/packages/f42/vdrift/locale/fr.po | 
+ | [tr](/f42/language/tr) | 46 | 1649 | 2.8 | /mnt/stockage/packages/f42/vdrift/locale/tr.po | 
+ | [hu](/f42/language/hu) | 8 | 1639 | 0.5 | /mnt/stockage/packages/f42/vdrift/locale/hu_HU.po | 
 {.sortable}
 
 

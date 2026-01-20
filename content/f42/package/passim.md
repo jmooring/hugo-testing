@@ -18,16 +18,16 @@ The package passim (version 0.1.10):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [en_GB]({{< ref "/f42/language/en_GB.md" >}}) | 63 | 63 | 100.0 | /mnt/stockage/packages/f42/passim/po/en_GB.po | 
- | [fi]({{< ref "/f42/language/fi.md" >}}) | 106 | 106 | 100.0 | /mnt/stockage/packages/f42/passim/po/fi.po | 
- | [fr]({{< ref "/f42/language/fr.md" >}}) | 63 | 63 | 100.0 | /mnt/stockage/packages/f42/passim/po/fr.po | 
- | [ka]({{< ref "/f42/language/ka.md" >}}) | 106 | 106 | 100.0 | /mnt/stockage/packages/f42/passim/po/ka.po | 
- | [nb_NO]({{< ref "/f42/language/nb_NO.md" >}}) | 63 | 63 | 100.0 | /mnt/stockage/packages/f42/passim/po/nb_NO.po | 
- | [ru]({{< ref "/f42/language/ru.md" >}}) | 106 | 106 | 100.0 | /mnt/stockage/packages/f42/passim/po/ru.po | 
- | [ta]({{< ref "/f42/language/ta.md" >}}) | 106 | 106 | 100.0 | /mnt/stockage/packages/f42/passim/po/ta.po | 
- | [tr]({{< ref "/f42/language/tr.md" >}}) | 106 | 106 | 100.0 | /mnt/stockage/packages/f42/passim/po/tr.po | 
- | [de]({{< ref "/f42/language/de.md" >}}) | 54 | 63 | 85.7 | /mnt/stockage/packages/f42/passim/po/de.po | 
- | [cs]({{< ref "/f42/language/cs.md" >}}) | 31 | 63 | 49.2 | /mnt/stockage/packages/f42/passim/po/cs.po | 
+ | [en_GB](/f42/language/en_GB) | 63 | 63 | 100.0 | /mnt/stockage/packages/f42/passim/po/en_GB.po | 
+ | [fi](/f42/language/fi) | 106 | 106 | 100.0 | /mnt/stockage/packages/f42/passim/po/fi.po | 
+ | [fr](/f42/language/fr) | 63 | 63 | 100.0 | /mnt/stockage/packages/f42/passim/po/fr.po | 
+ | [ka](/f42/language/ka) | 106 | 106 | 100.0 | /mnt/stockage/packages/f42/passim/po/ka.po | 
+ | [nb_NO](/f42/language/nb_NO) | 63 | 63 | 100.0 | /mnt/stockage/packages/f42/passim/po/nb_NO.po | 
+ | [ru](/f42/language/ru) | 106 | 106 | 100.0 | /mnt/stockage/packages/f42/passim/po/ru.po | 
+ | [ta](/f42/language/ta) | 106 | 106 | 100.0 | /mnt/stockage/packages/f42/passim/po/ta.po | 
+ | [tr](/f42/language/tr) | 106 | 106 | 100.0 | /mnt/stockage/packages/f42/passim/po/tr.po | 
+ | [de](/f42/language/de) | 54 | 63 | 85.7 | /mnt/stockage/packages/f42/passim/po/de.po | 
+ | [cs](/f42/language/cs) | 31 | 63 | 49.2 | /mnt/stockage/packages/f42/passim/po/cs.po | 
 {.sortable}
 
 

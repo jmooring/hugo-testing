@@ -18,10 +18,10 @@ The package libbtctl (version 0.10.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [be]({{< ref "/f9/language/be.md" >}}) | 40 | 40 | 100.0 | /mnt/stockage/packages/f9/libbtctl/po/be.po | 
- | [ja]({{< ref "/f9/language/ja.md" >}}) | 48 | 48 | 100.0 | /mnt/stockage/packages/f9/libbtctl/po/ja.po | 
- | [en_GB]({{< ref "/f9/language/en_GB.md" >}}) | 12 | 40 | 30.0 | /mnt/stockage/packages/f9/libbtctl/po/en_GB.po | 
- | [oc]({{< ref "/f9/language/oc.md" >}}) | 4 | 40 | 10.0 | /mnt/stockage/packages/f9/libbtctl/po/oc.po | 
+ | [be](/f9/language/be) | 40 | 40 | 100.0 | /mnt/stockage/packages/f9/libbtctl/po/be.po | 
+ | [ja](/f9/language/ja) | 48 | 48 | 100.0 | /mnt/stockage/packages/f9/libbtctl/po/ja.po | 
+ | [en_GB](/f9/language/en_GB) | 12 | 40 | 30.0 | /mnt/stockage/packages/f9/libbtctl/po/en_GB.po | 
+ | [oc](/f9/language/oc) | 4 | 40 | 10.0 | /mnt/stockage/packages/f9/libbtctl/po/oc.po | 
 {.sortable}
 
 

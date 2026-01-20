@@ -18,17 +18,17 @@ The package glabels (version 2.2.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ja]({{< ref "/f9/language/ja.md" >}}) | 1756 | 1756 | 100.0 | /mnt/stockage/packages/f9/glabels/po/ja.po | 
- | [fr]({{< ref "/f9/language/fr.md" >}}) | 1688 | 1745 | 96.7 | /mnt/stockage/packages/f9/glabels/po/fr.po | 
- | [ru]({{< ref "/f9/language/ru.md" >}}) | 1577 | 1658 | 95.1 | /mnt/stockage/packages/f9/glabels/po/ru.po | 
- | [es]({{< ref "/f9/language/es.md" >}}) | 1570 | 1658 | 94.7 | /mnt/stockage/packages/f9/glabels/po/es.po | 
- | [eo]({{< ref "/f9/language/eo.md" >}}) | 1497 | 1662 | 90.1 | /mnt/stockage/packages/f9/glabels/po/eo.po | 
- | [cs]({{< ref "/f9/language/cs.md" >}}) | 1387 | 1658 | 83.7 | /mnt/stockage/packages/f9/glabels/po/cs.po | 
- | [it]({{< ref "/f9/language/it.md" >}}) | 1040 | 1662 | 62.6 | /mnt/stockage/packages/f9/glabels/po/it.po | 
- | [pt_BR]({{< ref "/f9/language/pt_BR.md" >}}) | 874 | 1756 | 49.8 | /mnt/stockage/packages/f9/glabels/po/pt_BR.po | 
- | [de]({{< ref "/f9/language/de.md" >}}) | 490 | 1756 | 27.9 | /mnt/stockage/packages/f9/glabels/po/de.po | 
- | [error]({{< ref "/f9/language/error.md" >}}) | 285 | 1756 | 16.2 | /mnt/stockage/packages/f9/glabels/po/zh_TW.Big5.po | 
- | [pl]({{< ref "/f9/language/pl.md" >}}) | 285 | 1756 | 16.2 | /mnt/stockage/packages/f9/glabels/po/pl.po | 
+ | [ja](/f9/language/ja) | 1756 | 1756 | 100.0 | /mnt/stockage/packages/f9/glabels/po/ja.po | 
+ | [fr](/f9/language/fr) | 1688 | 1745 | 96.7 | /mnt/stockage/packages/f9/glabels/po/fr.po | 
+ | [ru](/f9/language/ru) | 1577 | 1658 | 95.1 | /mnt/stockage/packages/f9/glabels/po/ru.po | 
+ | [es](/f9/language/es) | 1570 | 1658 | 94.7 | /mnt/stockage/packages/f9/glabels/po/es.po | 
+ | [eo](/f9/language/eo) | 1497 | 1662 | 90.1 | /mnt/stockage/packages/f9/glabels/po/eo.po | 
+ | [cs](/f9/language/cs) | 1387 | 1658 | 83.7 | /mnt/stockage/packages/f9/glabels/po/cs.po | 
+ | [it](/f9/language/it) | 1040 | 1662 | 62.6 | /mnt/stockage/packages/f9/glabels/po/it.po | 
+ | [pt_BR](/f9/language/pt_BR) | 874 | 1756 | 49.8 | /mnt/stockage/packages/f9/glabels/po/pt_BR.po | 
+ | [de](/f9/language/de) | 490 | 1756 | 27.9 | /mnt/stockage/packages/f9/glabels/po/de.po | 
+ | [error](/f9/language/error) | 285 | 1756 | 16.2 | /mnt/stockage/packages/f9/glabels/po/zh_TW.Big5.po | 
+ | [pl](/f9/language/pl) | 285 | 1756 | 16.2 | /mnt/stockage/packages/f9/glabels/po/pl.po | 
 {.sortable}
 
 

@@ -18,7 +18,7 @@ The package gwenhywfar (version 4.9.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f19/language/de.md" >}}) | 1457 | 1457 | 100.0 | /mnt/stockage/packages/f19/gwenhywfar/po/de.po | 
+ | [de](/f19/language/de) | 1457 | 1457 | 100.0 | /mnt/stockage/packages/f19/gwenhywfar/po/de.po | 
 {.sortable}
 
 

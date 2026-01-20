@@ -18,25 +18,25 @@ The package gobby (version 0.4.12):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [uk]({{< ref "/f19/language/uk.md" >}}) | 877 | 900 | 97.4 | /mnt/stockage/packages/f19/gobby/po/uk.po | 
- | [cs]({{< ref "/f19/language/cs.md" >}}) | 865 | 900 | 96.1 | /mnt/stockage/packages/f19/gobby/po/cs.po | 
- | [el]({{< ref "/f19/language/el.md" >}}) | 863 | 900 | 95.9 | /mnt/stockage/packages/f19/gobby/po/el.po | 
- | [ru]({{< ref "/f19/language/ru.md" >}}) | 863 | 900 | 95.9 | /mnt/stockage/packages/f19/gobby/po/ru.po | 
- | [de]({{< ref "/f19/language/de.md" >}}) | 799 | 900 | 88.8 | /mnt/stockage/packages/f19/gobby/po/de.po | 
- | [it]({{< ref "/f19/language/it.md" >}}) | 784 | 900 | 87.1 | /mnt/stockage/packages/f19/gobby/po/it.po | 
- | [ja]({{< ref "/f19/language/ja.md" >}}) | 784 | 900 | 87.1 | /mnt/stockage/packages/f19/gobby/po/ja.po | 
- | [ca]({{< ref "/f19/language/ca.md" >}}) | 778 | 900 | 86.4 | /mnt/stockage/packages/f19/gobby/po/ca.po | 
- | [fr]({{< ref "/f19/language/fr.md" >}}) | 766 | 900 | 85.1 | /mnt/stockage/packages/f19/gobby/po/fr.po | 
- | [he]({{< ref "/f19/language/he.md" >}}) | 765 | 900 | 85.0 | /mnt/stockage/packages/f19/gobby/po/he.po | 
- | [nl]({{< ref "/f19/language/nl.md" >}}) | 765 | 900 | 85.0 | /mnt/stockage/packages/f19/gobby/po/nl.po | 
- | [sv]({{< ref "/f19/language/sv.md" >}}) | 765 | 900 | 85.0 | /mnt/stockage/packages/f19/gobby/po/sv.po | 
- | [es]({{< ref "/f19/language/es.md" >}}) | 729 | 900 | 81.0 | /mnt/stockage/packages/f19/gobby/po/es.po | 
- | [ko]({{< ref "/f19/language/ko.md" >}}) | 727 | 900 | 80.8 | /mnt/stockage/packages/f19/gobby/po/ko.po | 
- | [pt_BR]({{< ref "/f19/language/pt_BR.md" >}}) | 714 | 900 | 79.3 | /mnt/stockage/packages/f19/gobby/po/pt_BR.po | 
- | [pt]({{< ref "/f19/language/pt.md" >}}) | 668 | 900 | 74.2 | /mnt/stockage/packages/f19/gobby/po/pt.po | 
- | [zh_Hans]({{< ref "/f19/language/zh_Hans.md" >}}) | 575 | 900 | 63.9 | /mnt/stockage/packages/f19/gobby/po/zh_CN.po | 
- | [pl]({{< ref "/f19/language/pl.md" >}}) | 512 | 900 | 56.9 | /mnt/stockage/packages/f19/gobby/po/pl.po | 
- | [en_GB]({{< ref "/f19/language/en_GB.md" >}}) | 49 | 900 | 5.4 | /mnt/stockage/packages/f19/gobby/po/en_GB.po | 
+ | [uk](/f19/language/uk) | 877 | 900 | 97.4 | /mnt/stockage/packages/f19/gobby/po/uk.po | 
+ | [cs](/f19/language/cs) | 865 | 900 | 96.1 | /mnt/stockage/packages/f19/gobby/po/cs.po | 
+ | [el](/f19/language/el) | 863 | 900 | 95.9 | /mnt/stockage/packages/f19/gobby/po/el.po | 
+ | [ru](/f19/language/ru) | 863 | 900 | 95.9 | /mnt/stockage/packages/f19/gobby/po/ru.po | 
+ | [de](/f19/language/de) | 799 | 900 | 88.8 | /mnt/stockage/packages/f19/gobby/po/de.po | 
+ | [it](/f19/language/it) | 784 | 900 | 87.1 | /mnt/stockage/packages/f19/gobby/po/it.po | 
+ | [ja](/f19/language/ja) | 784 | 900 | 87.1 | /mnt/stockage/packages/f19/gobby/po/ja.po | 
+ | [ca](/f19/language/ca) | 778 | 900 | 86.4 | /mnt/stockage/packages/f19/gobby/po/ca.po | 
+ | [fr](/f19/language/fr) | 766 | 900 | 85.1 | /mnt/stockage/packages/f19/gobby/po/fr.po | 
+ | [he](/f19/language/he) | 765 | 900 | 85.0 | /mnt/stockage/packages/f19/gobby/po/he.po | 
+ | [nl](/f19/language/nl) | 765 | 900 | 85.0 | /mnt/stockage/packages/f19/gobby/po/nl.po | 
+ | [sv](/f19/language/sv) | 765 | 900 | 85.0 | /mnt/stockage/packages/f19/gobby/po/sv.po | 
+ | [es](/f19/language/es) | 729 | 900 | 81.0 | /mnt/stockage/packages/f19/gobby/po/es.po | 
+ | [ko](/f19/language/ko) | 727 | 900 | 80.8 | /mnt/stockage/packages/f19/gobby/po/ko.po | 
+ | [pt_BR](/f19/language/pt_BR) | 714 | 900 | 79.3 | /mnt/stockage/packages/f19/gobby/po/pt_BR.po | 
+ | [pt](/f19/language/pt) | 668 | 900 | 74.2 | /mnt/stockage/packages/f19/gobby/po/pt.po | 
+ | [zh_Hans](/f19/language/zh_Hans) | 575 | 900 | 63.9 | /mnt/stockage/packages/f19/gobby/po/zh_CN.po | 
+ | [pl](/f19/language/pl) | 512 | 900 | 56.9 | /mnt/stockage/packages/f19/gobby/po/pl.po | 
+ | [en_GB](/f19/language/en_GB) | 49 | 900 | 5.4 | /mnt/stockage/packages/f19/gobby/po/en_GB.po | 
 {.sortable}
 
 

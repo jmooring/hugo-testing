@@ -18,21 +18,21 @@ The package gccxml (version 0.9.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f22/language/de.md" >}}) | 1140 | 1140 | 100.0 | /mnt/stockage/packages/f22/gccxml/GCC/libcpp/po/de.po | 
- | [es]({{< ref "/f22/language/es.md" >}}) | 1140 | 1140 | 100.0 | /mnt/stockage/packages/f22/gccxml/GCC/libcpp/po/es.po | 
- | [nl]({{< ref "/f22/language/nl.md" >}}) | 1140 | 1140 | 100.0 | /mnt/stockage/packages/f22/gccxml/GCC/libcpp/po/nl.po | 
- | [tr]({{< ref "/f22/language/tr.md" >}}) | 1140 | 1140 | 100.0 | /mnt/stockage/packages/f22/gccxml/GCC/libcpp/po/tr.po | 
- | [vi]({{< ref "/f22/language/vi.md" >}}) | 1140 | 1140 | 100.0 | /mnt/stockage/packages/f22/gccxml/GCC/libcpp/po/vi.po | 
- | [zh_Hans]({{< ref "/f22/language/zh_Hans.md" >}}) | 1140 | 1140 | 100.0 | /mnt/stockage/packages/f22/gccxml/GCC/libcpp/po/zh_CN.po | 
- | [sv]({{< ref "/f22/language/sv.md" >}}) | 1101 | 1140 | 96.6 | /mnt/stockage/packages/f22/gccxml/GCC/libcpp/po/sv.po | 
- | [zh_Hant]({{< ref "/f22/language/zh_Hant.md" >}}) | 1101 | 1140 | 96.6 | /mnt/stockage/packages/f22/gccxml/GCC/libcpp/po/zh_TW.po | 
- | [fr]({{< ref "/f22/language/fr.md" >}}) | 1076 | 1140 | 94.4 | /mnt/stockage/packages/f22/gccxml/GCC/libcpp/po/fr.po | 
- | [ca]({{< ref "/f22/language/ca.md" >}}) | 1072 | 1140 | 94.0 | /mnt/stockage/packages/f22/gccxml/GCC/libcpp/po/ca.po | 
- | [da]({{< ref "/f22/language/da.md" >}}) | 859 | 1140 | 75.4 | /mnt/stockage/packages/f22/gccxml/GCC/libcpp/po/da.po | 
- | [ja]({{< ref "/f22/language/ja.md" >}}) | 505 | 1140 | 44.3 | /mnt/stockage/packages/f22/gccxml/GCC/libcpp/po/ja.po | 
- | [be]({{< ref "/f22/language/be.md" >}}) | 25 | 1140 | 2.2 | /mnt/stockage/packages/f22/gccxml/GCC/libcpp/po/be.po | 
- | [el]({{< ref "/f22/language/el.md" >}}) | 15 | 1140 | 1.3 | /mnt/stockage/packages/f22/gccxml/GCC/libcpp/po/el.po | 
- | [rw]({{< ref "/f22/language/rw.md" >}}) | 0 | 1140 | 0.0 | /mnt/stockage/packages/f22/gccxml/GCC/libcpp/po/rw.po | 
+ | [de](/f22/language/de) | 1140 | 1140 | 100.0 | /mnt/stockage/packages/f22/gccxml/GCC/libcpp/po/de.po | 
+ | [es](/f22/language/es) | 1140 | 1140 | 100.0 | /mnt/stockage/packages/f22/gccxml/GCC/libcpp/po/es.po | 
+ | [nl](/f22/language/nl) | 1140 | 1140 | 100.0 | /mnt/stockage/packages/f22/gccxml/GCC/libcpp/po/nl.po | 
+ | [tr](/f22/language/tr) | 1140 | 1140 | 100.0 | /mnt/stockage/packages/f22/gccxml/GCC/libcpp/po/tr.po | 
+ | [vi](/f22/language/vi) | 1140 | 1140 | 100.0 | /mnt/stockage/packages/f22/gccxml/GCC/libcpp/po/vi.po | 
+ | [zh_Hans](/f22/language/zh_Hans) | 1140 | 1140 | 100.0 | /mnt/stockage/packages/f22/gccxml/GCC/libcpp/po/zh_CN.po | 
+ | [sv](/f22/language/sv) | 1101 | 1140 | 96.6 | /mnt/stockage/packages/f22/gccxml/GCC/libcpp/po/sv.po | 
+ | [zh_Hant](/f22/language/zh_Hant) | 1101 | 1140 | 96.6 | /mnt/stockage/packages/f22/gccxml/GCC/libcpp/po/zh_TW.po | 
+ | [fr](/f22/language/fr) | 1076 | 1140 | 94.4 | /mnt/stockage/packages/f22/gccxml/GCC/libcpp/po/fr.po | 
+ | [ca](/f22/language/ca) | 1072 | 1140 | 94.0 | /mnt/stockage/packages/f22/gccxml/GCC/libcpp/po/ca.po | 
+ | [da](/f22/language/da) | 859 | 1140 | 75.4 | /mnt/stockage/packages/f22/gccxml/GCC/libcpp/po/da.po | 
+ | [ja](/f22/language/ja) | 505 | 1140 | 44.3 | /mnt/stockage/packages/f22/gccxml/GCC/libcpp/po/ja.po | 
+ | [be](/f22/language/be) | 25 | 1140 | 2.2 | /mnt/stockage/packages/f22/gccxml/GCC/libcpp/po/be.po | 
+ | [el](/f22/language/el) | 15 | 1140 | 1.3 | /mnt/stockage/packages/f22/gccxml/GCC/libcpp/po/el.po | 
+ | [rw](/f22/language/rw) | 0 | 1140 | 0.0 | /mnt/stockage/packages/f22/gccxml/GCC/libcpp/po/rw.po | 
 {.sortable}
 
 

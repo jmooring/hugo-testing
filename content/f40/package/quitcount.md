@@ -18,16 +18,16 @@ The package quitcount (version 3.1.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ast]({{< ref "/f40/language/ast.md" >}}) | 154 | 166 | 92.8 | /mnt/stockage/packages/f40/quitcount/po/ast.po | 
- | [cs]({{< ref "/f40/language/cs.md" >}}) | 154 | 166 | 92.8 | /mnt/stockage/packages/f40/quitcount/po/cs.po | 
- | [de]({{< ref "/f40/language/de.md" >}}) | 154 | 166 | 92.8 | /mnt/stockage/packages/f40/quitcount/po/de.po | 
- | [el]({{< ref "/f40/language/el.md" >}}) | 154 | 166 | 92.8 | /mnt/stockage/packages/f40/quitcount/po/el.po | 
- | [es]({{< ref "/f40/language/es.md" >}}) | 154 | 166 | 92.8 | /mnt/stockage/packages/f40/quitcount/po/es.po | 
- | [fr]({{< ref "/f40/language/fr.md" >}}) | 154 | 166 | 92.8 | /mnt/stockage/packages/f40/quitcount/po/fr.po | 
- | [he]({{< ref "/f40/language/he.md" >}}) | 154 | 166 | 92.8 | /mnt/stockage/packages/f40/quitcount/po/he.po | 
- | [hu]({{< ref "/f40/language/hu.md" >}}) | 154 | 166 | 92.8 | /mnt/stockage/packages/f40/quitcount/po/hu.po | 
- | [it]({{< ref "/f40/language/it.md" >}}) | 154 | 166 | 92.8 | /mnt/stockage/packages/f40/quitcount/po/it.po | 
- | [ro]({{< ref "/f40/language/ro.md" >}}) | 154 | 166 | 92.8 | /mnt/stockage/packages/f40/quitcount/po/ro.po | 
+ | [ast](/f40/language/ast) | 154 | 166 | 92.8 | /mnt/stockage/packages/f40/quitcount/po/ast.po | 
+ | [cs](/f40/language/cs) | 154 | 166 | 92.8 | /mnt/stockage/packages/f40/quitcount/po/cs.po | 
+ | [de](/f40/language/de) | 154 | 166 | 92.8 | /mnt/stockage/packages/f40/quitcount/po/de.po | 
+ | [el](/f40/language/el) | 154 | 166 | 92.8 | /mnt/stockage/packages/f40/quitcount/po/el.po | 
+ | [es](/f40/language/es) | 154 | 166 | 92.8 | /mnt/stockage/packages/f40/quitcount/po/es.po | 
+ | [fr](/f40/language/fr) | 154 | 166 | 92.8 | /mnt/stockage/packages/f40/quitcount/po/fr.po | 
+ | [he](/f40/language/he) | 154 | 166 | 92.8 | /mnt/stockage/packages/f40/quitcount/po/he.po | 
+ | [hu](/f40/language/hu) | 154 | 166 | 92.8 | /mnt/stockage/packages/f40/quitcount/po/hu.po | 
+ | [it](/f40/language/it) | 154 | 166 | 92.8 | /mnt/stockage/packages/f40/quitcount/po/it.po | 
+ | [ro](/f40/language/ro) | 154 | 166 | 92.8 | /mnt/stockage/packages/f40/quitcount/po/ro.po | 
 {.sortable}
 
 

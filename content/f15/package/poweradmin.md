@@ -18,14 +18,14 @@ The package poweradmin (version 2.1.5):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f15/language/de.md" >}}) | 1920 | 1920 | 100.0 | /mnt/stockage/packages/f15/poweradmin/locale/de_DE/LC_MESSAGES/de.po | 
- | [error]({{< ref "/f15/language/error.md" >}}) | 200 | 200 | 100.0 | /mnt/stockage/packages/f15/poweradmin/locale/ja_JP/LC_MESSAGES/ja_db.po | 
- | [fr]({{< ref "/f15/language/fr.md" >}}) | 1388 | 1388 | 100.0 | /mnt/stockage/packages/f15/poweradmin/locale/fr_FR/LC_MESSAGES/fr.po/mnt/stockage/packages/f15/poweradmin/locale/fr_FR/LC_MESSAGES/fr_db.po | 
- | [ja]({{< ref "/f15/language/ja.md" >}}) | 1176 | 1176 | 100.0 | /mnt/stockage/packages/f15/poweradmin/locale/ja_JP/LC_MESSAGES/ja.po | 
- | [nl]({{< ref "/f15/language/nl.md" >}}) | 1970 | 1970 | 100.0 | /mnt/stockage/packages/f15/poweradmin/locale/nl_NL/LC_MESSAGES/nl.po | 
- | [pl]({{< ref "/f15/language/pl.md" >}}) | 1376 | 1376 | 100.0 | /mnt/stockage/packages/f15/poweradmin/locale/pl_PL/LC_MESSAGES/pl.po | 
- | [ru]({{< ref "/f15/language/ru.md" >}}) | 1909 | 1909 | 100.0 | /mnt/stockage/packages/f15/poweradmin/locale/ru_RU/LC_MESSAGES/ru.po | 
- | [en]({{< ref "/f15/language/en.md" >}}) | 0 | 869 | 0.0 | /mnt/stockage/packages/f15/poweradmin/locale/en_EN/LC_MESSAGES/en.po | 
+ | [de](/f15/language/de) | 1920 | 1920 | 100.0 | /mnt/stockage/packages/f15/poweradmin/locale/de_DE/LC_MESSAGES/de.po | 
+ | [error](/f15/language/error) | 200 | 200 | 100.0 | /mnt/stockage/packages/f15/poweradmin/locale/ja_JP/LC_MESSAGES/ja_db.po | 
+ | [fr](/f15/language/fr) | 1388 | 1388 | 100.0 | /mnt/stockage/packages/f15/poweradmin/locale/fr_FR/LC_MESSAGES/fr.po/mnt/stockage/packages/f15/poweradmin/locale/fr_FR/LC_MESSAGES/fr_db.po | 
+ | [ja](/f15/language/ja) | 1176 | 1176 | 100.0 | /mnt/stockage/packages/f15/poweradmin/locale/ja_JP/LC_MESSAGES/ja.po | 
+ | [nl](/f15/language/nl) | 1970 | 1970 | 100.0 | /mnt/stockage/packages/f15/poweradmin/locale/nl_NL/LC_MESSAGES/nl.po | 
+ | [pl](/f15/language/pl) | 1376 | 1376 | 100.0 | /mnt/stockage/packages/f15/poweradmin/locale/pl_PL/LC_MESSAGES/pl.po | 
+ | [ru](/f15/language/ru) | 1909 | 1909 | 100.0 | /mnt/stockage/packages/f15/poweradmin/locale/ru_RU/LC_MESSAGES/ru.po | 
+ | [en](/f15/language/en) | 0 | 869 | 0.0 | /mnt/stockage/packages/f15/poweradmin/locale/en_EN/LC_MESSAGES/en.po | 
 {.sortable}
 
 

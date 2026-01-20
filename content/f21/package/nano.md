@@ -18,38 +18,38 @@ The package nano (version 2.3.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f21/language/de.md" >}}) | 2862 | 2862 | 100.0 | /mnt/stockage/packages/f21/nano/po/de.po | 
- | [eo]({{< ref "/f21/language/eo.md" >}}) | 2862 | 2862 | 100.0 | /mnt/stockage/packages/f21/nano/po/eo.po | 
- | [fi]({{< ref "/f21/language/fi.md" >}}) | 2862 | 2862 | 100.0 | /mnt/stockage/packages/f21/nano/po/fi.po | 
- | [fr]({{< ref "/f21/language/fr.md" >}}) | 2862 | 2862 | 100.0 | /mnt/stockage/packages/f21/nano/po/fr.po | 
- | [it]({{< ref "/f21/language/it.md" >}}) | 2862 | 2862 | 100.0 | /mnt/stockage/packages/f21/nano/po/it.po | 
- | [nl]({{< ref "/f21/language/nl.md" >}}) | 2862 | 2862 | 100.0 | /mnt/stockage/packages/f21/nano/po/nl.po | 
- | [ru]({{< ref "/f21/language/ru.md" >}}) | 2862 | 2862 | 100.0 | /mnt/stockage/packages/f21/nano/po/ru.po | 
- | [uk]({{< ref "/f21/language/uk.md" >}}) | 2862 | 2862 | 100.0 | /mnt/stockage/packages/f21/nano/po/uk.po | 
- | [vi]({{< ref "/f21/language/vi.md" >}}) | 2862 | 2862 | 100.0 | /mnt/stockage/packages/f21/nano/po/vi.po | 
- | [cs]({{< ref "/f21/language/cs.md" >}}) | 2558 | 2862 | 89.4 | /mnt/stockage/packages/f21/nano/po/cs.po | 
- | [es]({{< ref "/f21/language/es.md" >}}) | 2558 | 2862 | 89.4 | /mnt/stockage/packages/f21/nano/po/es.po | 
- | [nb_NO]({{< ref "/f21/language/nb_NO.md" >}}) | 2558 | 2862 | 89.4 | /mnt/stockage/packages/f21/nano/po/nb.po | 
- | [sl]({{< ref "/f21/language/sl.md" >}}) | 2558 | 2862 | 89.4 | /mnt/stockage/packages/f21/nano/po/sl.po | 
- | [sr]({{< ref "/f21/language/sr.md" >}}) | 2558 | 2862 | 89.4 | /mnt/stockage/packages/f21/nano/po/sr.po | 
- | [zh_Hant]({{< ref "/f21/language/zh_Hant.md" >}}) | 2558 | 2862 | 89.4 | /mnt/stockage/packages/f21/nano/po/zh_TW.po | 
- | [da]({{< ref "/f21/language/da.md" >}}) | 2522 | 2862 | 88.1 | /mnt/stockage/packages/f21/nano/po/da.po | 
- | [gl]({{< ref "/f21/language/gl.md" >}}) | 2522 | 2862 | 88.1 | /mnt/stockage/packages/f21/nano/po/gl.po | 
- | [zh_Hans]({{< ref "/f21/language/zh_Hans.md" >}}) | 2522 | 2862 | 88.1 | /mnt/stockage/packages/f21/nano/po/zh_CN.po | 
- | [ja]({{< ref "/f21/language/ja.md" >}}) | 2412 | 2862 | 84.3 | /mnt/stockage/packages/f21/nano/po/ja.po | 
- | [hu]({{< ref "/f21/language/hu.md" >}}) | 2403 | 2862 | 84.0 | /mnt/stockage/packages/f21/nano/po/hu.po | 
- | [pl]({{< ref "/f21/language/pl.md" >}}) | 2403 | 2862 | 84.0 | /mnt/stockage/packages/f21/nano/po/pl.po | 
- | [pt_BR]({{< ref "/f21/language/pt_BR.md" >}}) | 2403 | 2862 | 84.0 | /mnt/stockage/packages/f21/nano/po/pt_BR.po | 
- | [ca]({{< ref "/f21/language/ca.md" >}}) | 2369 | 2862 | 82.8 | /mnt/stockage/packages/f21/nano/po/ca.po | 
- | [ga]({{< ref "/f21/language/ga.md" >}}) | 2271 | 2862 | 79.4 | /mnt/stockage/packages/f21/nano/po/ga.po | 
- | [ms]({{< ref "/f21/language/ms.md" >}}) | 2271 | 2862 | 79.4 | /mnt/stockage/packages/f21/nano/po/ms.po | 
- | [bg]({{< ref "/f21/language/bg.md" >}}) | 2050 | 2862 | 71.6 | /mnt/stockage/packages/f21/nano/po/bg.po | 
- | [sv]({{< ref "/f21/language/sv.md" >}}) | 2050 | 2862 | 71.6 | /mnt/stockage/packages/f21/nano/po/sv.po | 
- | [eu]({{< ref "/f21/language/eu.md" >}}) | 1764 | 2862 | 61.6 | /mnt/stockage/packages/f21/nano/po/eu.po | 
- | [ro]({{< ref "/f21/language/ro.md" >}}) | 1229 | 2862 | 42.9 | /mnt/stockage/packages/f21/nano/po/ro.po | 
- | [id]({{< ref "/f21/language/id.md" >}}) | 638 | 2862 | 22.3 | /mnt/stockage/packages/f21/nano/po/id.po | 
- | [tr]({{< ref "/f21/language/tr.md" >}}) | 638 | 2862 | 22.3 | /mnt/stockage/packages/f21/nano/po/tr.po | 
- | [nn]({{< ref "/f21/language/nn.md" >}}) | 303 | 2862 | 10.6 | /mnt/stockage/packages/f21/nano/po/nn.po | 
+ | [de](/f21/language/de) | 2862 | 2862 | 100.0 | /mnt/stockage/packages/f21/nano/po/de.po | 
+ | [eo](/f21/language/eo) | 2862 | 2862 | 100.0 | /mnt/stockage/packages/f21/nano/po/eo.po | 
+ | [fi](/f21/language/fi) | 2862 | 2862 | 100.0 | /mnt/stockage/packages/f21/nano/po/fi.po | 
+ | [fr](/f21/language/fr) | 2862 | 2862 | 100.0 | /mnt/stockage/packages/f21/nano/po/fr.po | 
+ | [it](/f21/language/it) | 2862 | 2862 | 100.0 | /mnt/stockage/packages/f21/nano/po/it.po | 
+ | [nl](/f21/language/nl) | 2862 | 2862 | 100.0 | /mnt/stockage/packages/f21/nano/po/nl.po | 
+ | [ru](/f21/language/ru) | 2862 | 2862 | 100.0 | /mnt/stockage/packages/f21/nano/po/ru.po | 
+ | [uk](/f21/language/uk) | 2862 | 2862 | 100.0 | /mnt/stockage/packages/f21/nano/po/uk.po | 
+ | [vi](/f21/language/vi) | 2862 | 2862 | 100.0 | /mnt/stockage/packages/f21/nano/po/vi.po | 
+ | [cs](/f21/language/cs) | 2558 | 2862 | 89.4 | /mnt/stockage/packages/f21/nano/po/cs.po | 
+ | [es](/f21/language/es) | 2558 | 2862 | 89.4 | /mnt/stockage/packages/f21/nano/po/es.po | 
+ | [nb_NO](/f21/language/nb_NO) | 2558 | 2862 | 89.4 | /mnt/stockage/packages/f21/nano/po/nb.po | 
+ | [sl](/f21/language/sl) | 2558 | 2862 | 89.4 | /mnt/stockage/packages/f21/nano/po/sl.po | 
+ | [sr](/f21/language/sr) | 2558 | 2862 | 89.4 | /mnt/stockage/packages/f21/nano/po/sr.po | 
+ | [zh_Hant](/f21/language/zh_Hant) | 2558 | 2862 | 89.4 | /mnt/stockage/packages/f21/nano/po/zh_TW.po | 
+ | [da](/f21/language/da) | 2522 | 2862 | 88.1 | /mnt/stockage/packages/f21/nano/po/da.po | 
+ | [gl](/f21/language/gl) | 2522 | 2862 | 88.1 | /mnt/stockage/packages/f21/nano/po/gl.po | 
+ | [zh_Hans](/f21/language/zh_Hans) | 2522 | 2862 | 88.1 | /mnt/stockage/packages/f21/nano/po/zh_CN.po | 
+ | [ja](/f21/language/ja) | 2412 | 2862 | 84.3 | /mnt/stockage/packages/f21/nano/po/ja.po | 
+ | [hu](/f21/language/hu) | 2403 | 2862 | 84.0 | /mnt/stockage/packages/f21/nano/po/hu.po | 
+ | [pl](/f21/language/pl) | 2403 | 2862 | 84.0 | /mnt/stockage/packages/f21/nano/po/pl.po | 
+ | [pt_BR](/f21/language/pt_BR) | 2403 | 2862 | 84.0 | /mnt/stockage/packages/f21/nano/po/pt_BR.po | 
+ | [ca](/f21/language/ca) | 2369 | 2862 | 82.8 | /mnt/stockage/packages/f21/nano/po/ca.po | 
+ | [ga](/f21/language/ga) | 2271 | 2862 | 79.4 | /mnt/stockage/packages/f21/nano/po/ga.po | 
+ | [ms](/f21/language/ms) | 2271 | 2862 | 79.4 | /mnt/stockage/packages/f21/nano/po/ms.po | 
+ | [bg](/f21/language/bg) | 2050 | 2862 | 71.6 | /mnt/stockage/packages/f21/nano/po/bg.po | 
+ | [sv](/f21/language/sv) | 2050 | 2862 | 71.6 | /mnt/stockage/packages/f21/nano/po/sv.po | 
+ | [eu](/f21/language/eu) | 1764 | 2862 | 61.6 | /mnt/stockage/packages/f21/nano/po/eu.po | 
+ | [ro](/f21/language/ro) | 1229 | 2862 | 42.9 | /mnt/stockage/packages/f21/nano/po/ro.po | 
+ | [id](/f21/language/id) | 638 | 2862 | 22.3 | /mnt/stockage/packages/f21/nano/po/id.po | 
+ | [tr](/f21/language/tr) | 638 | 2862 | 22.3 | /mnt/stockage/packages/f21/nano/po/tr.po | 
+ | [nn](/f21/language/nn) | 303 | 2862 | 10.6 | /mnt/stockage/packages/f21/nano/po/nn.po | 
 {.sortable}
 
 

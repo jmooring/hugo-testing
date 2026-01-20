@@ -18,25 +18,25 @@ The package mariadb-galera (version 10.0.17):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f23/language/de.md" >}}) | 299 | 308 | 97.1 | /mnt/stockage/packages/f23/mariadb-galera/debian/po/de.po | 
- | [fr]({{< ref "/f23/language/fr.md" >}}) | 299 | 308 | 97.1 | /mnt/stockage/packages/f23/mariadb-galera/debian/po/fr.po | 
- | [it]({{< ref "/f23/language/it.md" >}}) | 299 | 308 | 97.1 | /mnt/stockage/packages/f23/mariadb-galera/debian/po/it.po | 
- | [ja]({{< ref "/f23/language/ja.md" >}}) | 299 | 308 | 97.1 | /mnt/stockage/packages/f23/mariadb-galera/debian/po/ja.po | 
- | [ru]({{< ref "/f23/language/ru.md" >}}) | 299 | 308 | 97.1 | /mnt/stockage/packages/f23/mariadb-galera/debian/po/ru.po | 
- | [sv]({{< ref "/f23/language/sv.md" >}}) | 299 | 308 | 97.1 | /mnt/stockage/packages/f23/mariadb-galera/debian/po/sv.po | 
- | [eu]({{< ref "/f23/language/eu.md" >}}) | 213 | 308 | 69.2 | /mnt/stockage/packages/f23/mariadb-galera/debian/po/eu.po | 
- | [da]({{< ref "/f23/language/da.md" >}}) | 184 | 308 | 59.7 | /mnt/stockage/packages/f23/mariadb-galera/debian/po/da.po | 
- | [es]({{< ref "/f23/language/es.md" >}}) | 184 | 308 | 59.7 | /mnt/stockage/packages/f23/mariadb-galera/debian/po/es.po | 
- | [ar]({{< ref "/f23/language/ar.md" >}}) | 174 | 308 | 56.5 | /mnt/stockage/packages/f23/mariadb-galera/debian/po/ar.po | 
- | [cs]({{< ref "/f23/language/cs.md" >}}) | 174 | 308 | 56.5 | /mnt/stockage/packages/f23/mariadb-galera/debian/po/cs.po | 
- | [gl]({{< ref "/f23/language/gl.md" >}}) | 174 | 308 | 56.5 | /mnt/stockage/packages/f23/mariadb-galera/debian/po/gl.po | 
- | [pt]({{< ref "/f23/language/pt.md" >}}) | 174 | 308 | 56.5 | /mnt/stockage/packages/f23/mariadb-galera/debian/po/pt.po | 
- | [pt_BR]({{< ref "/f23/language/pt_BR.md" >}}) | 174 | 308 | 56.5 | /mnt/stockage/packages/f23/mariadb-galera/debian/po/pt_BR.po | 
- | [ca]({{< ref "/f23/language/ca.md" >}}) | 0 | 308 | 0.0 | /mnt/stockage/packages/f23/mariadb-galera/debian/po/ca.po | 
- | [nb_NO]({{< ref "/f23/language/nb_NO.md" >}}) | 0 | 308 | 0.0 | /mnt/stockage/packages/f23/mariadb-galera/debian/po/nb.po | 
- | [nl]({{< ref "/f23/language/nl.md" >}}) | 0 | 308 | 0.0 | /mnt/stockage/packages/f23/mariadb-galera/debian/po/nl.po | 
- | [ro]({{< ref "/f23/language/ro.md" >}}) | 0 | 308 | 0.0 | /mnt/stockage/packages/f23/mariadb-galera/debian/po/ro.po | 
- | [tr]({{< ref "/f23/language/tr.md" >}}) | 0 | 308 | 0.0 | /mnt/stockage/packages/f23/mariadb-galera/debian/po/tr.po | 
+ | [de](/f23/language/de) | 299 | 308 | 97.1 | /mnt/stockage/packages/f23/mariadb-galera/debian/po/de.po | 
+ | [fr](/f23/language/fr) | 299 | 308 | 97.1 | /mnt/stockage/packages/f23/mariadb-galera/debian/po/fr.po | 
+ | [it](/f23/language/it) | 299 | 308 | 97.1 | /mnt/stockage/packages/f23/mariadb-galera/debian/po/it.po | 
+ | [ja](/f23/language/ja) | 299 | 308 | 97.1 | /mnt/stockage/packages/f23/mariadb-galera/debian/po/ja.po | 
+ | [ru](/f23/language/ru) | 299 | 308 | 97.1 | /mnt/stockage/packages/f23/mariadb-galera/debian/po/ru.po | 
+ | [sv](/f23/language/sv) | 299 | 308 | 97.1 | /mnt/stockage/packages/f23/mariadb-galera/debian/po/sv.po | 
+ | [eu](/f23/language/eu) | 213 | 308 | 69.2 | /mnt/stockage/packages/f23/mariadb-galera/debian/po/eu.po | 
+ | [da](/f23/language/da) | 184 | 308 | 59.7 | /mnt/stockage/packages/f23/mariadb-galera/debian/po/da.po | 
+ | [es](/f23/language/es) | 184 | 308 | 59.7 | /mnt/stockage/packages/f23/mariadb-galera/debian/po/es.po | 
+ | [ar](/f23/language/ar) | 174 | 308 | 56.5 | /mnt/stockage/packages/f23/mariadb-galera/debian/po/ar.po | 
+ | [cs](/f23/language/cs) | 174 | 308 | 56.5 | /mnt/stockage/packages/f23/mariadb-galera/debian/po/cs.po | 
+ | [gl](/f23/language/gl) | 174 | 308 | 56.5 | /mnt/stockage/packages/f23/mariadb-galera/debian/po/gl.po | 
+ | [pt](/f23/language/pt) | 174 | 308 | 56.5 | /mnt/stockage/packages/f23/mariadb-galera/debian/po/pt.po | 
+ | [pt_BR](/f23/language/pt_BR) | 174 | 308 | 56.5 | /mnt/stockage/packages/f23/mariadb-galera/debian/po/pt_BR.po | 
+ | [ca](/f23/language/ca) | 0 | 308 | 0.0 | /mnt/stockage/packages/f23/mariadb-galera/debian/po/ca.po | 
+ | [nb_NO](/f23/language/nb_NO) | 0 | 308 | 0.0 | /mnt/stockage/packages/f23/mariadb-galera/debian/po/nb.po | 
+ | [nl](/f23/language/nl) | 0 | 308 | 0.0 | /mnt/stockage/packages/f23/mariadb-galera/debian/po/nl.po | 
+ | [ro](/f23/language/ro) | 0 | 308 | 0.0 | /mnt/stockage/packages/f23/mariadb-galera/debian/po/ro.po | 
+ | [tr](/f23/language/tr) | 0 | 308 | 0.0 | /mnt/stockage/packages/f23/mariadb-galera/debian/po/tr.po | 
 {.sortable}
 
 

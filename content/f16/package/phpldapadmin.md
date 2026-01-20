@@ -18,25 +18,25 @@ The package phpldapadmin (version 1.2.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [es]({{< ref "/f16/language/es.md" >}}) | 3392 | 3419 | 99.2 | /mnt/stockage/packages/f16/phpldapadmin/locale/es_ES/LC_MESSAGES/messages.po | 
- | [fi]({{< ref "/f16/language/fi.md" >}}) | 3376 | 3419 | 98.7 | /mnt/stockage/packages/f16/phpldapadmin/locale/fi_FI/LC_MESSAGES/messages.po | 
- | [it]({{< ref "/f16/language/it.md" >}}) | 2888 | 3419 | 84.5 | /mnt/stockage/packages/f16/phpldapadmin/locale/it_IT/LC_MESSAGES/messages.po | 
- | [pt_BR]({{< ref "/f16/language/pt_BR.md" >}}) | 2384 | 3419 | 69.7 | /mnt/stockage/packages/f16/phpldapadmin/locale/pt_BR/LC_MESSAGES/messages.po | 
- | [ru]({{< ref "/f16/language/ru.md" >}}) | 2286 | 3419 | 66.9 | /mnt/stockage/packages/f16/phpldapadmin/locale/ru_RU/LC_MESSAGES/messages.po | 
- | [fr]({{< ref "/f16/language/fr.md" >}}) | 2167 | 3419 | 63.4 | /mnt/stockage/packages/f16/phpldapadmin/locale/fr_FR/LC_MESSAGES/messages.po | 
- | [ja]({{< ref "/f16/language/ja.md" >}}) | 2084 | 3419 | 61.0 | /mnt/stockage/packages/f16/phpldapadmin/locale/ja_JP/LC_MESSAGES/messages.po | 
- | [de]({{< ref "/f16/language/de.md" >}}) | 2002 | 3419 | 58.6 | /mnt/stockage/packages/f16/phpldapadmin/locale/de_DE/LC_MESSAGES/messages.po | 
- | [pl]({{< ref "/f16/language/pl.md" >}}) | 1701 | 3419 | 49.8 | /mnt/stockage/packages/f16/phpldapadmin/locale/pl_PL/LC_MESSAGES/messages.po | 
- | [da]({{< ref "/f16/language/da.md" >}}) | 1405 | 3419 | 41.1 | /mnt/stockage/packages/f16/phpldapadmin/locale/da_DK/LC_MESSAGES/messages.po | 
- | [zh_Hans]({{< ref "/f16/language/zh_Hans.md" >}}) | 1189 | 3419 | 34.8 | /mnt/stockage/packages/f16/phpldapadmin/locale/zh_CN/LC_MESSAGES/messages.po | 
- | [cs]({{< ref "/f16/language/cs.md" >}}) | 1145 | 3419 | 33.5 | /mnt/stockage/packages/f16/phpldapadmin/locale/cs_CZ/LC_MESSAGES/messages.po | 
- | [hu]({{< ref "/f16/language/hu.md" >}}) | 1090 | 3419 | 31.9 | /mnt/stockage/packages/f16/phpldapadmin/locale/hu_HU/LC_MESSAGES/messages.po | 
- | [zh_Hant]({{< ref "/f16/language/zh_Hant.md" >}}) | 861 | 3419 | 25.2 | /mnt/stockage/packages/f16/phpldapadmin/locale/zh_TW/LC_MESSAGES/messages.po | 
- | [ca]({{< ref "/f16/language/ca.md" >}}) | 508 | 3399 | 14.9 | /mnt/stockage/packages/f16/phpldapadmin/locale/ca_ES/LC_MESSAGES/messages.po | 
- | [error]({{< ref "/f16/language/error.md" >}}) | 484 | 3419 | 14.2 | /mnt/stockage/packages/f16/phpldapadmin/locale/sv_FI/LC_MESSAGES/messages.po | 
- | [nl_BE]({{< ref "/f16/language/nl_BE.md" >}}) | 482 | 3419 | 14.1 | /mnt/stockage/packages/f16/phpldapadmin/locale/nl_BE/LC_MESSAGES/messages.po | 
- | [sk]({{< ref "/f16/language/sk.md" >}}) | 437 | 3419 | 12.8 | /mnt/stockage/packages/f16/phpldapadmin/locale/sk_SK/LC_MESSAGES/messages.po | 
- | [oc]({{< ref "/f16/language/oc.md" >}}) | 97 | 3419 | 2.8 | /mnt/stockage/packages/f16/phpldapadmin/locale/oc_FR/LC_MESSAGES/messages.po | 
+ | [es](/f16/language/es) | 3392 | 3419 | 99.2 | /mnt/stockage/packages/f16/phpldapadmin/locale/es_ES/LC_MESSAGES/messages.po | 
+ | [fi](/f16/language/fi) | 3376 | 3419 | 98.7 | /mnt/stockage/packages/f16/phpldapadmin/locale/fi_FI/LC_MESSAGES/messages.po | 
+ | [it](/f16/language/it) | 2888 | 3419 | 84.5 | /mnt/stockage/packages/f16/phpldapadmin/locale/it_IT/LC_MESSAGES/messages.po | 
+ | [pt_BR](/f16/language/pt_BR) | 2384 | 3419 | 69.7 | /mnt/stockage/packages/f16/phpldapadmin/locale/pt_BR/LC_MESSAGES/messages.po | 
+ | [ru](/f16/language/ru) | 2286 | 3419 | 66.9 | /mnt/stockage/packages/f16/phpldapadmin/locale/ru_RU/LC_MESSAGES/messages.po | 
+ | [fr](/f16/language/fr) | 2167 | 3419 | 63.4 | /mnt/stockage/packages/f16/phpldapadmin/locale/fr_FR/LC_MESSAGES/messages.po | 
+ | [ja](/f16/language/ja) | 2084 | 3419 | 61.0 | /mnt/stockage/packages/f16/phpldapadmin/locale/ja_JP/LC_MESSAGES/messages.po | 
+ | [de](/f16/language/de) | 2002 | 3419 | 58.6 | /mnt/stockage/packages/f16/phpldapadmin/locale/de_DE/LC_MESSAGES/messages.po | 
+ | [pl](/f16/language/pl) | 1701 | 3419 | 49.8 | /mnt/stockage/packages/f16/phpldapadmin/locale/pl_PL/LC_MESSAGES/messages.po | 
+ | [da](/f16/language/da) | 1405 | 3419 | 41.1 | /mnt/stockage/packages/f16/phpldapadmin/locale/da_DK/LC_MESSAGES/messages.po | 
+ | [zh_Hans](/f16/language/zh_Hans) | 1189 | 3419 | 34.8 | /mnt/stockage/packages/f16/phpldapadmin/locale/zh_CN/LC_MESSAGES/messages.po | 
+ | [cs](/f16/language/cs) | 1145 | 3419 | 33.5 | /mnt/stockage/packages/f16/phpldapadmin/locale/cs_CZ/LC_MESSAGES/messages.po | 
+ | [hu](/f16/language/hu) | 1090 | 3419 | 31.9 | /mnt/stockage/packages/f16/phpldapadmin/locale/hu_HU/LC_MESSAGES/messages.po | 
+ | [zh_Hant](/f16/language/zh_Hant) | 861 | 3419 | 25.2 | /mnt/stockage/packages/f16/phpldapadmin/locale/zh_TW/LC_MESSAGES/messages.po | 
+ | [ca](/f16/language/ca) | 508 | 3399 | 14.9 | /mnt/stockage/packages/f16/phpldapadmin/locale/ca_ES/LC_MESSAGES/messages.po | 
+ | [error](/f16/language/error) | 484 | 3419 | 14.2 | /mnt/stockage/packages/f16/phpldapadmin/locale/sv_FI/LC_MESSAGES/messages.po | 
+ | [nl_BE](/f16/language/nl_BE) | 482 | 3419 | 14.1 | /mnt/stockage/packages/f16/phpldapadmin/locale/nl_BE/LC_MESSAGES/messages.po | 
+ | [sk](/f16/language/sk) | 437 | 3419 | 12.8 | /mnt/stockage/packages/f16/phpldapadmin/locale/sk_SK/LC_MESSAGES/messages.po | 
+ | [oc](/f16/language/oc) | 97 | 3419 | 2.8 | /mnt/stockage/packages/f16/phpldapadmin/locale/oc_FR/LC_MESSAGES/messages.po | 
 {.sortable}
 
 

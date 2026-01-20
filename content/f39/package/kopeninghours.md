@@ -18,37 +18,37 @@ The package kopeninghours (version 23.08.5):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f39/language/ca.md" >}}) | 160 | 160 | 100.0 | /mnt/stockage/packages/f39/kopeninghours/po/ca/kopeninghours.po | 
- | [ca@valencia]({{< ref "/f39/language/ca@valencia.md" >}}) | 160 | 160 | 100.0 | /mnt/stockage/packages/f39/kopeninghours/po/ca@valencia/kopeninghours.po | 
- | [de]({{< ref "/f39/language/de.md" >}}) | 160 | 160 | 100.0 | /mnt/stockage/packages/f39/kopeninghours/po/de/kopeninghours.po | 
- | [en_GB]({{< ref "/f39/language/en_GB.md" >}}) | 160 | 160 | 100.0 | /mnt/stockage/packages/f39/kopeninghours/po/en_GB/kopeninghours.po | 
- | [eo]({{< ref "/f39/language/eo.md" >}}) | 160 | 160 | 100.0 | /mnt/stockage/packages/f39/kopeninghours/po/eo/kopeninghours.po | 
- | [es]({{< ref "/f39/language/es.md" >}}) | 160 | 160 | 100.0 | /mnt/stockage/packages/f39/kopeninghours/po/es/kopeninghours.po | 
- | [eu]({{< ref "/f39/language/eu.md" >}}) | 160 | 160 | 100.0 | /mnt/stockage/packages/f39/kopeninghours/po/eu/kopeninghours.po | 
- | [fi]({{< ref "/f39/language/fi.md" >}}) | 160 | 160 | 100.0 | /mnt/stockage/packages/f39/kopeninghours/po/fi/kopeninghours.po | 
- | [fr]({{< ref "/f39/language/fr.md" >}}) | 160 | 160 | 100.0 | /mnt/stockage/packages/f39/kopeninghours/po/fr/kopeninghours.po | 
- | [gl]({{< ref "/f39/language/gl.md" >}}) | 160 | 160 | 100.0 | /mnt/stockage/packages/f39/kopeninghours/po/gl/kopeninghours.po | 
- | [hi]({{< ref "/f39/language/hi.md" >}}) | 160 | 160 | 100.0 | /mnt/stockage/packages/f39/kopeninghours/po/hi/kopeninghours.po | 
- | [it]({{< ref "/f39/language/it.md" >}}) | 160 | 160 | 100.0 | /mnt/stockage/packages/f39/kopeninghours/po/it/kopeninghours.po | 
- | [ka]({{< ref "/f39/language/ka.md" >}}) | 160 | 160 | 100.0 | /mnt/stockage/packages/f39/kopeninghours/po/ka/kopeninghours.po | 
- | [ko]({{< ref "/f39/language/ko.md" >}}) | 160 | 160 | 100.0 | /mnt/stockage/packages/f39/kopeninghours/po/ko/kopeninghours.po | 
- | [nl]({{< ref "/f39/language/nl.md" >}}) | 160 | 160 | 100.0 | /mnt/stockage/packages/f39/kopeninghours/po/nl/kopeninghours.po | 
- | [nn]({{< ref "/f39/language/nn.md" >}}) | 160 | 160 | 100.0 | /mnt/stockage/packages/f39/kopeninghours/po/nn/kopeninghours.po | 
- | [pl]({{< ref "/f39/language/pl.md" >}}) | 160 | 160 | 100.0 | /mnt/stockage/packages/f39/kopeninghours/po/pl/kopeninghours.po | 
- | [pt]({{< ref "/f39/language/pt.md" >}}) | 160 | 160 | 100.0 | /mnt/stockage/packages/f39/kopeninghours/po/pt/kopeninghours.po | 
- | [pt_BR]({{< ref "/f39/language/pt_BR.md" >}}) | 160 | 160 | 100.0 | /mnt/stockage/packages/f39/kopeninghours/po/pt_BR/kopeninghours.po | 
- | [ru]({{< ref "/f39/language/ru.md" >}}) | 160 | 160 | 100.0 | /mnt/stockage/packages/f39/kopeninghours/po/ru/kopeninghours.po | 
- | [sl]({{< ref "/f39/language/sl.md" >}}) | 160 | 160 | 100.0 | /mnt/stockage/packages/f39/kopeninghours/po/sl/kopeninghours.po | 
- | [sv]({{< ref "/f39/language/sv.md" >}}) | 160 | 160 | 100.0 | /mnt/stockage/packages/f39/kopeninghours/po/sv/kopeninghours.po | 
- | [tr]({{< ref "/f39/language/tr.md" >}}) | 160 | 160 | 100.0 | /mnt/stockage/packages/f39/kopeninghours/po/tr/kopeninghours.po | 
- | [uk]({{< ref "/f39/language/uk.md" >}}) | 160 | 160 | 100.0 | /mnt/stockage/packages/f39/kopeninghours/po/uk/kopeninghours.po | 
- | [zh_Hans]({{< ref "/f39/language/zh_Hans.md" >}}) | 160 | 160 | 100.0 | /mnt/stockage/packages/f39/kopeninghours/po/zh_CN/kopeninghours.po | 
- | [zh_Hant]({{< ref "/f39/language/zh_Hant.md" >}}) | 160 | 160 | 100.0 | /mnt/stockage/packages/f39/kopeninghours/po/zh_TW/kopeninghours.po | 
- | [ro]({{< ref "/f39/language/ro.md" >}}) | 38 | 160 | 23.8 | /mnt/stockage/packages/f39/kopeninghours/po/ro/kopeninghours.po | 
- | [cs]({{< ref "/f39/language/cs.md" >}}) | 16 | 160 | 10.0 | /mnt/stockage/packages/f39/kopeninghours/po/cs/kopeninghours.po | 
- | [sk]({{< ref "/f39/language/sk.md" >}}) | 6 | 160 | 3.8 | /mnt/stockage/packages/f39/kopeninghours/po/sk/kopeninghours.po | 
- | [ja]({{< ref "/f39/language/ja.md" >}}) | 0 | 160 | 0.0 | /mnt/stockage/packages/f39/kopeninghours/po/ja/kopeninghours.po | 
- | [lt]({{< ref "/f39/language/lt.md" >}}) | 0 | 160 | 0.0 | /mnt/stockage/packages/f39/kopeninghours/po/lt/kopeninghours.po | 
+ | [ca](/f39/language/ca) | 160 | 160 | 100.0 | /mnt/stockage/packages/f39/kopeninghours/po/ca/kopeninghours.po | 
+ | [ca@valencia](/f39/language/ca@valencia) | 160 | 160 | 100.0 | /mnt/stockage/packages/f39/kopeninghours/po/ca@valencia/kopeninghours.po | 
+ | [de](/f39/language/de) | 160 | 160 | 100.0 | /mnt/stockage/packages/f39/kopeninghours/po/de/kopeninghours.po | 
+ | [en_GB](/f39/language/en_GB) | 160 | 160 | 100.0 | /mnt/stockage/packages/f39/kopeninghours/po/en_GB/kopeninghours.po | 
+ | [eo](/f39/language/eo) | 160 | 160 | 100.0 | /mnt/stockage/packages/f39/kopeninghours/po/eo/kopeninghours.po | 
+ | [es](/f39/language/es) | 160 | 160 | 100.0 | /mnt/stockage/packages/f39/kopeninghours/po/es/kopeninghours.po | 
+ | [eu](/f39/language/eu) | 160 | 160 | 100.0 | /mnt/stockage/packages/f39/kopeninghours/po/eu/kopeninghours.po | 
+ | [fi](/f39/language/fi) | 160 | 160 | 100.0 | /mnt/stockage/packages/f39/kopeninghours/po/fi/kopeninghours.po | 
+ | [fr](/f39/language/fr) | 160 | 160 | 100.0 | /mnt/stockage/packages/f39/kopeninghours/po/fr/kopeninghours.po | 
+ | [gl](/f39/language/gl) | 160 | 160 | 100.0 | /mnt/stockage/packages/f39/kopeninghours/po/gl/kopeninghours.po | 
+ | [hi](/f39/language/hi) | 160 | 160 | 100.0 | /mnt/stockage/packages/f39/kopeninghours/po/hi/kopeninghours.po | 
+ | [it](/f39/language/it) | 160 | 160 | 100.0 | /mnt/stockage/packages/f39/kopeninghours/po/it/kopeninghours.po | 
+ | [ka](/f39/language/ka) | 160 | 160 | 100.0 | /mnt/stockage/packages/f39/kopeninghours/po/ka/kopeninghours.po | 
+ | [ko](/f39/language/ko) | 160 | 160 | 100.0 | /mnt/stockage/packages/f39/kopeninghours/po/ko/kopeninghours.po | 
+ | [nl](/f39/language/nl) | 160 | 160 | 100.0 | /mnt/stockage/packages/f39/kopeninghours/po/nl/kopeninghours.po | 
+ | [nn](/f39/language/nn) | 160 | 160 | 100.0 | /mnt/stockage/packages/f39/kopeninghours/po/nn/kopeninghours.po | 
+ | [pl](/f39/language/pl) | 160 | 160 | 100.0 | /mnt/stockage/packages/f39/kopeninghours/po/pl/kopeninghours.po | 
+ | [pt](/f39/language/pt) | 160 | 160 | 100.0 | /mnt/stockage/packages/f39/kopeninghours/po/pt/kopeninghours.po | 
+ | [pt_BR](/f39/language/pt_BR) | 160 | 160 | 100.0 | /mnt/stockage/packages/f39/kopeninghours/po/pt_BR/kopeninghours.po | 
+ | [ru](/f39/language/ru) | 160 | 160 | 100.0 | /mnt/stockage/packages/f39/kopeninghours/po/ru/kopeninghours.po | 
+ | [sl](/f39/language/sl) | 160 | 160 | 100.0 | /mnt/stockage/packages/f39/kopeninghours/po/sl/kopeninghours.po | 
+ | [sv](/f39/language/sv) | 160 | 160 | 100.0 | /mnt/stockage/packages/f39/kopeninghours/po/sv/kopeninghours.po | 
+ | [tr](/f39/language/tr) | 160 | 160 | 100.0 | /mnt/stockage/packages/f39/kopeninghours/po/tr/kopeninghours.po | 
+ | [uk](/f39/language/uk) | 160 | 160 | 100.0 | /mnt/stockage/packages/f39/kopeninghours/po/uk/kopeninghours.po | 
+ | [zh_Hans](/f39/language/zh_Hans) | 160 | 160 | 100.0 | /mnt/stockage/packages/f39/kopeninghours/po/zh_CN/kopeninghours.po | 
+ | [zh_Hant](/f39/language/zh_Hant) | 160 | 160 | 100.0 | /mnt/stockage/packages/f39/kopeninghours/po/zh_TW/kopeninghours.po | 
+ | [ro](/f39/language/ro) | 38 | 160 | 23.8 | /mnt/stockage/packages/f39/kopeninghours/po/ro/kopeninghours.po | 
+ | [cs](/f39/language/cs) | 16 | 160 | 10.0 | /mnt/stockage/packages/f39/kopeninghours/po/cs/kopeninghours.po | 
+ | [sk](/f39/language/sk) | 6 | 160 | 3.8 | /mnt/stockage/packages/f39/kopeninghours/po/sk/kopeninghours.po | 
+ | [ja](/f39/language/ja) | 0 | 160 | 0.0 | /mnt/stockage/packages/f39/kopeninghours/po/ja/kopeninghours.po | 
+ | [lt](/f39/language/lt) | 0 | 160 | 0.0 | /mnt/stockage/packages/f39/kopeninghours/po/lt/kopeninghours.po | 
 {.sortable}
 
 

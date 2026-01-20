@@ -18,13 +18,13 @@ The package iputils (version 20200821):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [tr]({{< ref "/f33/language/tr.md" >}}) | 1237 | 1237 | 100.0 | /mnt/stockage/packages/f33/iputils/po/tr.po | 
- | [uk]({{< ref "/f33/language/uk.md" >}}) | 1237 | 1237 | 100.0 | /mnt/stockage/packages/f33/iputils/po/uk.po | 
- | [ja]({{< ref "/f33/language/ja.md" >}}) | 1212 | 1317 | 92.0 | /mnt/stockage/packages/f33/iputils/po/ja.po | 
- | [pt_BR]({{< ref "/f33/language/pt_BR.md" >}}) | 596 | 1237 | 48.2 | /mnt/stockage/packages/f33/iputils/po/pt_BR.po | 
- | [fr]({{< ref "/f33/language/fr.md" >}}) | 565 | 1237 | 45.7 | /mnt/stockage/packages/f33/iputils/po/fr.po | 
- | [zh_Hans]({{< ref "/f33/language/zh_Hans.md" >}}) | 505 | 1237 | 40.8 | /mnt/stockage/packages/f33/iputils/po/zh_CN.po | 
- | [de]({{< ref "/f33/language/de.md" >}}) | 435 | 1237 | 35.2 | /mnt/stockage/packages/f33/iputils/po/de.po | 
+ | [tr](/f33/language/tr) | 1237 | 1237 | 100.0 | /mnt/stockage/packages/f33/iputils/po/tr.po | 
+ | [uk](/f33/language/uk) | 1237 | 1237 | 100.0 | /mnt/stockage/packages/f33/iputils/po/uk.po | 
+ | [ja](/f33/language/ja) | 1212 | 1317 | 92.0 | /mnt/stockage/packages/f33/iputils/po/ja.po | 
+ | [pt_BR](/f33/language/pt_BR) | 596 | 1237 | 48.2 | /mnt/stockage/packages/f33/iputils/po/pt_BR.po | 
+ | [fr](/f33/language/fr) | 565 | 1237 | 45.7 | /mnt/stockage/packages/f33/iputils/po/fr.po | 
+ | [zh_Hans](/f33/language/zh_Hans) | 505 | 1237 | 40.8 | /mnt/stockage/packages/f33/iputils/po/zh_CN.po | 
+ | [de](/f33/language/de) | 435 | 1237 | 35.2 | /mnt/stockage/packages/f33/iputils/po/de.po | 
 {.sortable}
 
 

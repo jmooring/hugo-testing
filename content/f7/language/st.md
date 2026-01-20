@@ -39,7 +39,7 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [gnomebaker]({{< ref "/f7/package/gnomebaker.md" >}}) | 0 | 1186 | 0.0 | Sotho, Southern <st@li.org> | 
+ | [gnomebaker](/f7/package/gnomebaker) | 0 | 1186 | 0.0 | Sotho, Southern <st@li.org> | 
 {.sortable}
 
 

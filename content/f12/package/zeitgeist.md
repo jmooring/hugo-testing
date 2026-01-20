@@ -18,18 +18,18 @@ The package zeitgeist (version 0.4.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f12/language/ca.md" >}}) | 99 | 99 | 100.0 | /mnt/stockage/packages/f12/zeitgeist/po/ca.po | 
- | [de]({{< ref "/f12/language/de.md" >}}) | 99 | 99 | 100.0 | /mnt/stockage/packages/f12/zeitgeist/po/de.po | 
- | [es]({{< ref "/f12/language/es.md" >}}) | 99 | 99 | 100.0 | /mnt/stockage/packages/f12/zeitgeist/po/es.po | 
- | [fr]({{< ref "/f12/language/fr.md" >}}) | 99 | 99 | 100.0 | /mnt/stockage/packages/f12/zeitgeist/po/fr.po | 
- | [nb_NO]({{< ref "/f12/language/nb_NO.md" >}}) | 99 | 99 | 100.0 | /mnt/stockage/packages/f12/zeitgeist/po/nb.po | 
- | [pt]({{< ref "/f12/language/pt.md" >}}) | 99 | 99 | 100.0 | /mnt/stockage/packages/f12/zeitgeist/po/pt.po | 
- | [pt_BR]({{< ref "/f12/language/pt_BR.md" >}}) | 99 | 99 | 100.0 | /mnt/stockage/packages/f12/zeitgeist/po/pt_BR.po | 
- | [sv]({{< ref "/f12/language/sv.md" >}}) | 99 | 99 | 100.0 | /mnt/stockage/packages/f12/zeitgeist/po/sv.po | 
- | [uk]({{< ref "/f12/language/uk.md" >}}) | 99 | 99 | 100.0 | /mnt/stockage/packages/f12/zeitgeist/po/uk.po | 
- | [cs]({{< ref "/f12/language/cs.md" >}}) | 52 | 99 | 52.5 | /mnt/stockage/packages/f12/zeitgeist/po/cs.po | 
- | [fi]({{< ref "/f12/language/fi.md" >}}) | 20 | 99 | 20.2 | /mnt/stockage/packages/f12/zeitgeist/po/fi.po | 
- | [nn]({{< ref "/f12/language/nn.md" >}}) | 13 | 99 | 13.1 | /mnt/stockage/packages/f12/zeitgeist/po/nn.po | 
+ | [ca](/f12/language/ca) | 99 | 99 | 100.0 | /mnt/stockage/packages/f12/zeitgeist/po/ca.po | 
+ | [de](/f12/language/de) | 99 | 99 | 100.0 | /mnt/stockage/packages/f12/zeitgeist/po/de.po | 
+ | [es](/f12/language/es) | 99 | 99 | 100.0 | /mnt/stockage/packages/f12/zeitgeist/po/es.po | 
+ | [fr](/f12/language/fr) | 99 | 99 | 100.0 | /mnt/stockage/packages/f12/zeitgeist/po/fr.po | 
+ | [nb_NO](/f12/language/nb_NO) | 99 | 99 | 100.0 | /mnt/stockage/packages/f12/zeitgeist/po/nb.po | 
+ | [pt](/f12/language/pt) | 99 | 99 | 100.0 | /mnt/stockage/packages/f12/zeitgeist/po/pt.po | 
+ | [pt_BR](/f12/language/pt_BR) | 99 | 99 | 100.0 | /mnt/stockage/packages/f12/zeitgeist/po/pt_BR.po | 
+ | [sv](/f12/language/sv) | 99 | 99 | 100.0 | /mnt/stockage/packages/f12/zeitgeist/po/sv.po | 
+ | [uk](/f12/language/uk) | 99 | 99 | 100.0 | /mnt/stockage/packages/f12/zeitgeist/po/uk.po | 
+ | [cs](/f12/language/cs) | 52 | 99 | 52.5 | /mnt/stockage/packages/f12/zeitgeist/po/cs.po | 
+ | [fi](/f12/language/fi) | 20 | 99 | 20.2 | /mnt/stockage/packages/f12/zeitgeist/po/fi.po | 
+ | [nn](/f12/language/nn) | 13 | 99 | 13.1 | /mnt/stockage/packages/f12/zeitgeist/po/nn.po | 
 {.sortable}
 
 

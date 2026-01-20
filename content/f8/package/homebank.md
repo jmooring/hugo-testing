@@ -18,16 +18,16 @@ The package homebank (version 3.5):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f8/language/fr.md" >}}) | 1076 | 1076 | 100.0 | /mnt/stockage/packages/f8/homebank/po/fr.po | 
- | [it]({{< ref "/f8/language/it.md" >}}) | 1072 | 1076 | 99.6 | /mnt/stockage/packages/f8/homebank/po/it.po | 
- | [pt_BR]({{< ref "/f8/language/pt_BR.md" >}}) | 760 | 1076 | 70.6 | /mnt/stockage/packages/f8/homebank/po/pt_BR.po | 
- | [de]({{< ref "/f8/language/de.md" >}}) | 700 | 1076 | 65.1 | /mnt/stockage/packages/f8/homebank/po/de.po | 
- | [he]({{< ref "/f8/language/he.md" >}}) | 638 | 1076 | 59.3 | /mnt/stockage/packages/f8/homebank/po/he.po | 
- | [nb_NO]({{< ref "/f8/language/nb_NO.md" >}}) | 627 | 1076 | 58.3 | /mnt/stockage/packages/f8/homebank/po/nb.po | 
- | [ru]({{< ref "/f8/language/ru.md" >}}) | 505 | 1076 | 46.9 | /mnt/stockage/packages/f8/homebank/po/ru.po | 
- | [es]({{< ref "/f8/language/es.md" >}}) | 474 | 1076 | 44.1 | /mnt/stockage/packages/f8/homebank/po/es.po | 
- | [zh_Hans]({{< ref "/f8/language/zh_Hans.md" >}}) | 415 | 1076 | 38.6 | /mnt/stockage/packages/f8/homebank/po/zh_CN.po | 
- | [nl]({{< ref "/f8/language/nl.md" >}}) | 182 | 1076 | 16.9 | /mnt/stockage/packages/f8/homebank/po/nl.po | 
+ | [fr](/f8/language/fr) | 1076 | 1076 | 100.0 | /mnt/stockage/packages/f8/homebank/po/fr.po | 
+ | [it](/f8/language/it) | 1072 | 1076 | 99.6 | /mnt/stockage/packages/f8/homebank/po/it.po | 
+ | [pt_BR](/f8/language/pt_BR) | 760 | 1076 | 70.6 | /mnt/stockage/packages/f8/homebank/po/pt_BR.po | 
+ | [de](/f8/language/de) | 700 | 1076 | 65.1 | /mnt/stockage/packages/f8/homebank/po/de.po | 
+ | [he](/f8/language/he) | 638 | 1076 | 59.3 | /mnt/stockage/packages/f8/homebank/po/he.po | 
+ | [nb_NO](/f8/language/nb_NO) | 627 | 1076 | 58.3 | /mnt/stockage/packages/f8/homebank/po/nb.po | 
+ | [ru](/f8/language/ru) | 505 | 1076 | 46.9 | /mnt/stockage/packages/f8/homebank/po/ru.po | 
+ | [es](/f8/language/es) | 474 | 1076 | 44.1 | /mnt/stockage/packages/f8/homebank/po/es.po | 
+ | [zh_Hans](/f8/language/zh_Hans) | 415 | 1076 | 38.6 | /mnt/stockage/packages/f8/homebank/po/zh_CN.po | 
+ | [nl](/f8/language/nl) | 182 | 1076 | 16.9 | /mnt/stockage/packages/f8/homebank/po/nl.po | 
 {.sortable}
 
 

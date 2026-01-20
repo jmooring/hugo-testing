@@ -18,11 +18,11 @@ The package gpaste (version 3.16.3.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f22/language/fr.md" >}}) | 1037 | 1037 | 100.0 | /mnt/stockage/packages/f22/gpaste/po/fr.po | 
- | [pt_BR]({{< ref "/f22/language/pt_BR.md" >}}) | 757 | 1037 | 73.0 | /mnt/stockage/packages/f22/gpaste/po/pt_BR.po | 
- | [de]({{< ref "/f22/language/de.md" >}}) | 717 | 1037 | 69.1 | /mnt/stockage/packages/f22/gpaste/po/de.po | 
- | [es]({{< ref "/f22/language/es.md" >}}) | 494 | 1037 | 47.6 | /mnt/stockage/packages/f22/gpaste/po/es.po | 
- | [fi]({{< ref "/f22/language/fi.md" >}}) | 470 | 1037 | 45.3 | /mnt/stockage/packages/f22/gpaste/po/fi.po | 
+ | [fr](/f22/language/fr) | 1037 | 1037 | 100.0 | /mnt/stockage/packages/f22/gpaste/po/fr.po | 
+ | [pt_BR](/f22/language/pt_BR) | 757 | 1037 | 73.0 | /mnt/stockage/packages/f22/gpaste/po/pt_BR.po | 
+ | [de](/f22/language/de) | 717 | 1037 | 69.1 | /mnt/stockage/packages/f22/gpaste/po/de.po | 
+ | [es](/f22/language/es) | 494 | 1037 | 47.6 | /mnt/stockage/packages/f22/gpaste/po/es.po | 
+ | [fi](/f22/language/fi) | 470 | 1037 | 45.3 | /mnt/stockage/packages/f22/gpaste/po/fi.po | 
 {.sortable}
 
 

@@ -18,17 +18,17 @@ The package girara (version 0.2.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f22/language/de.md" >}}) | 238 | 243 | 97.9 | /mnt/stockage/packages/f22/girara/po/de.po | 
- | [it]({{< ref "/f22/language/it.md" >}}) | 233 | 243 | 95.9 | /mnt/stockage/packages/f22/girara/po/it.po | 
- | [fr]({{< ref "/f22/language/fr.md" >}}) | 224 | 243 | 92.2 | /mnt/stockage/packages/f22/girara/po/fr.po | 
- | [ru]({{< ref "/f22/language/ru.md" >}}) | 224 | 243 | 92.2 | /mnt/stockage/packages/f22/girara/po/ru.po | 
- | [pt_BR]({{< ref "/f22/language/pt_BR.md" >}}) | 215 | 243 | 88.5 | /mnt/stockage/packages/f22/girara/po/pt_BR.po | 
- | [el]({{< ref "/f22/language/el.md" >}}) | 191 | 243 | 78.6 | /mnt/stockage/packages/f22/girara/po/el.po | 
- | [es]({{< ref "/f22/language/es.md" >}}) | 191 | 243 | 78.6 | /mnt/stockage/packages/f22/girara/po/es.po | 
- | [pl]({{< ref "/f22/language/pl.md" >}}) | 191 | 243 | 78.6 | /mnt/stockage/packages/f22/girara/po/pl.po | 
- | [tr]({{< ref "/f22/language/tr.md" >}}) | 191 | 243 | 78.6 | /mnt/stockage/packages/f22/girara/po/tr.po | 
- | [eo]({{< ref "/f22/language/eo.md" >}}) | 185 | 243 | 76.1 | /mnt/stockage/packages/f22/girara/po/eo.po | 
- | [he]({{< ref "/f22/language/he.md" >}}) | 0 | 243 | 0.0 | /mnt/stockage/packages/f22/girara/po/he.po | 
+ | [de](/f22/language/de) | 238 | 243 | 97.9 | /mnt/stockage/packages/f22/girara/po/de.po | 
+ | [it](/f22/language/it) | 233 | 243 | 95.9 | /mnt/stockage/packages/f22/girara/po/it.po | 
+ | [fr](/f22/language/fr) | 224 | 243 | 92.2 | /mnt/stockage/packages/f22/girara/po/fr.po | 
+ | [ru](/f22/language/ru) | 224 | 243 | 92.2 | /mnt/stockage/packages/f22/girara/po/ru.po | 
+ | [pt_BR](/f22/language/pt_BR) | 215 | 243 | 88.5 | /mnt/stockage/packages/f22/girara/po/pt_BR.po | 
+ | [el](/f22/language/el) | 191 | 243 | 78.6 | /mnt/stockage/packages/f22/girara/po/el.po | 
+ | [es](/f22/language/es) | 191 | 243 | 78.6 | /mnt/stockage/packages/f22/girara/po/es.po | 
+ | [pl](/f22/language/pl) | 191 | 243 | 78.6 | /mnt/stockage/packages/f22/girara/po/pl.po | 
+ | [tr](/f22/language/tr) | 191 | 243 | 78.6 | /mnt/stockage/packages/f22/girara/po/tr.po | 
+ | [eo](/f22/language/eo) | 185 | 243 | 76.1 | /mnt/stockage/packages/f22/girara/po/eo.po | 
+ | [he](/f22/language/he) | 0 | 243 | 0.0 | /mnt/stockage/packages/f22/girara/po/he.po | 
 {.sortable}
 
 

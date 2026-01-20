@@ -18,32 +18,32 @@ The package startdde (version 5.10.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [az]({{< ref "/f39/language/az.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f39/startdde/misc/po/az.po | 
- | [bo]({{< ref "/f39/language/bo.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f39/startdde/misc/po/bo.po | 
- | [ca]({{< ref "/f39/language/ca.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f39/startdde/misc/po/ca.po | 
- | [cs]({{< ref "/f39/language/cs.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f39/startdde/misc/po/cs.po | 
- | [de]({{< ref "/f39/language/de.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f39/startdde/misc/po/de.po | 
- | [en_US]({{< ref "/f39/language/en_US.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f39/startdde/misc/po/en_US.po | 
- | [es]({{< ref "/f39/language/es.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f39/startdde/misc/po/es.po | 
- | [fi]({{< ref "/f39/language/fi.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f39/startdde/misc/po/fi.po | 
- | [fr]({{< ref "/f39/language/fr.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f39/startdde/misc/po/fr.po | 
- | [hu]({{< ref "/f39/language/hu.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f39/startdde/misc/po/hu.po | 
- | [it]({{< ref "/f39/language/it.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f39/startdde/misc/po/it.po | 
- | [nl]({{< ref "/f39/language/nl.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f39/startdde/misc/po/nl.po | 
- | [pl]({{< ref "/f39/language/pl.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f39/startdde/misc/po/pl.po | 
- | [pt]({{< ref "/f39/language/pt.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f39/startdde/misc/po/pt.po | 
- | [pt_BR]({{< ref "/f39/language/pt_BR.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f39/startdde/misc/po/pt_BR.po | 
- | [ru]({{< ref "/f39/language/ru.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f39/startdde/misc/po/ru.po | 
- | [sl]({{< ref "/f39/language/sl.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f39/startdde/misc/po/sl.po | 
- | [sq]({{< ref "/f39/language/sq.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f39/startdde/misc/po/sq.po | 
- | [sr]({{< ref "/f39/language/sr.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f39/startdde/misc/po/sr.po | 
- | [tr]({{< ref "/f39/language/tr.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f39/startdde/misc/po/tr.po | 
- | [ug]({{< ref "/f39/language/ug.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f39/startdde/misc/po/ug.po | 
- | [uk]({{< ref "/f39/language/uk.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f39/startdde/misc/po/uk.po | 
- | [zh_Hans]({{< ref "/f39/language/zh_Hans.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f39/startdde/misc/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f39/language/zh_Hant.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f39/startdde/misc/po/zh_TW.po | 
- | [zh_Hant_HK]({{< ref "/f39/language/zh_Hant_HK.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f39/startdde/misc/po/zh_HK.po | 
- | [hr]({{< ref "/f39/language/hr.md" >}}) | 16 | 24 | 66.7 | /mnt/stockage/packages/f39/startdde/misc/po/hr.po | 
+ | [az](/f39/language/az) | 24 | 24 | 100.0 | /mnt/stockage/packages/f39/startdde/misc/po/az.po | 
+ | [bo](/f39/language/bo) | 24 | 24 | 100.0 | /mnt/stockage/packages/f39/startdde/misc/po/bo.po | 
+ | [ca](/f39/language/ca) | 24 | 24 | 100.0 | /mnt/stockage/packages/f39/startdde/misc/po/ca.po | 
+ | [cs](/f39/language/cs) | 24 | 24 | 100.0 | /mnt/stockage/packages/f39/startdde/misc/po/cs.po | 
+ | [de](/f39/language/de) | 24 | 24 | 100.0 | /mnt/stockage/packages/f39/startdde/misc/po/de.po | 
+ | [en_US](/f39/language/en_US) | 24 | 24 | 100.0 | /mnt/stockage/packages/f39/startdde/misc/po/en_US.po | 
+ | [es](/f39/language/es) | 24 | 24 | 100.0 | /mnt/stockage/packages/f39/startdde/misc/po/es.po | 
+ | [fi](/f39/language/fi) | 24 | 24 | 100.0 | /mnt/stockage/packages/f39/startdde/misc/po/fi.po | 
+ | [fr](/f39/language/fr) | 24 | 24 | 100.0 | /mnt/stockage/packages/f39/startdde/misc/po/fr.po | 
+ | [hu](/f39/language/hu) | 24 | 24 | 100.0 | /mnt/stockage/packages/f39/startdde/misc/po/hu.po | 
+ | [it](/f39/language/it) | 24 | 24 | 100.0 | /mnt/stockage/packages/f39/startdde/misc/po/it.po | 
+ | [nl](/f39/language/nl) | 24 | 24 | 100.0 | /mnt/stockage/packages/f39/startdde/misc/po/nl.po | 
+ | [pl](/f39/language/pl) | 24 | 24 | 100.0 | /mnt/stockage/packages/f39/startdde/misc/po/pl.po | 
+ | [pt](/f39/language/pt) | 24 | 24 | 100.0 | /mnt/stockage/packages/f39/startdde/misc/po/pt.po | 
+ | [pt_BR](/f39/language/pt_BR) | 24 | 24 | 100.0 | /mnt/stockage/packages/f39/startdde/misc/po/pt_BR.po | 
+ | [ru](/f39/language/ru) | 24 | 24 | 100.0 | /mnt/stockage/packages/f39/startdde/misc/po/ru.po | 
+ | [sl](/f39/language/sl) | 24 | 24 | 100.0 | /mnt/stockage/packages/f39/startdde/misc/po/sl.po | 
+ | [sq](/f39/language/sq) | 24 | 24 | 100.0 | /mnt/stockage/packages/f39/startdde/misc/po/sq.po | 
+ | [sr](/f39/language/sr) | 24 | 24 | 100.0 | /mnt/stockage/packages/f39/startdde/misc/po/sr.po | 
+ | [tr](/f39/language/tr) | 24 | 24 | 100.0 | /mnt/stockage/packages/f39/startdde/misc/po/tr.po | 
+ | [ug](/f39/language/ug) | 24 | 24 | 100.0 | /mnt/stockage/packages/f39/startdde/misc/po/ug.po | 
+ | [uk](/f39/language/uk) | 24 | 24 | 100.0 | /mnt/stockage/packages/f39/startdde/misc/po/uk.po | 
+ | [zh_Hans](/f39/language/zh_Hans) | 24 | 24 | 100.0 | /mnt/stockage/packages/f39/startdde/misc/po/zh_CN.po | 
+ | [zh_Hant](/f39/language/zh_Hant) | 24 | 24 | 100.0 | /mnt/stockage/packages/f39/startdde/misc/po/zh_TW.po | 
+ | [zh_Hant_HK](/f39/language/zh_Hant_HK) | 24 | 24 | 100.0 | /mnt/stockage/packages/f39/startdde/misc/po/zh_HK.po | 
+ | [hr](/f39/language/hr) | 16 | 24 | 66.7 | /mnt/stockage/packages/f39/startdde/misc/po/hr.po | 
 {.sortable}
 
 

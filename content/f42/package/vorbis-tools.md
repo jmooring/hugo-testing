@@ -18,23 +18,23 @@ The package vorbis-tools (version 1.4.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [nl]({{< ref "/f42/language/nl.md" >}}) | 3323 | 3796 | 87.5 | /mnt/stockage/packages/f42/vorbis-tools/po/nl.po | 
- | [pl]({{< ref "/f42/language/pl.md" >}}) | 3320 | 3796 | 87.5 | /mnt/stockage/packages/f42/vorbis-tools/po/pl.po | 
- | [cs]({{< ref "/f42/language/cs.md" >}}) | 2238 | 3796 | 59.0 | /mnt/stockage/packages/f42/vorbis-tools/po/cs.po | 
- | [eo]({{< ref "/f42/language/eo.md" >}}) | 2231 | 3796 | 58.8 | /mnt/stockage/packages/f42/vorbis-tools/po/eo.po | 
- | [vi]({{< ref "/f42/language/vi.md" >}}) | 2231 | 3796 | 58.8 | /mnt/stockage/packages/f42/vorbis-tools/po/vi.po | 
- | [uk]({{< ref "/f42/language/uk.md" >}}) | 1034 | 3796 | 27.2 | /mnt/stockage/packages/f42/vorbis-tools/po/uk.po | 
- | [ru]({{< ref "/f42/language/ru.md" >}}) | 1026 | 3796 | 27.0 | /mnt/stockage/packages/f42/vorbis-tools/po/ru.po | 
- | [sk]({{< ref "/f42/language/sk.md" >}}) | 1026 | 3796 | 27.0 | /mnt/stockage/packages/f42/vorbis-tools/po/sk.po | 
- | [be]({{< ref "/f42/language/be.md" >}}) | 901 | 3796 | 23.7 | /mnt/stockage/packages/f42/vorbis-tools/po/be.po | 
- | [en_GB]({{< ref "/f42/language/en_GB.md" >}}) | 901 | 3796 | 23.7 | /mnt/stockage/packages/f42/vorbis-tools/po/en_GB.po | 
- | [es]({{< ref "/f42/language/es.md" >}}) | 901 | 3796 | 23.7 | /mnt/stockage/packages/f42/vorbis-tools/po/es.po | 
- | [fr]({{< ref "/f42/language/fr.md" >}}) | 901 | 3796 | 23.7 | /mnt/stockage/packages/f42/vorbis-tools/po/fr.po | 
- | [ro]({{< ref "/f42/language/ro.md" >}}) | 901 | 3796 | 23.7 | /mnt/stockage/packages/f42/vorbis-tools/po/ro.po | 
- | [hu]({{< ref "/f42/language/hu.md" >}}) | 711 | 3796 | 18.7 | /mnt/stockage/packages/f42/vorbis-tools/po/hu.po | 
- | [sv]({{< ref "/f42/language/sv.md" >}}) | 497 | 3796 | 13.1 | /mnt/stockage/packages/f42/vorbis-tools/po/sv.po | 
- | [da]({{< ref "/f42/language/da.md" >}}) | 493 | 3796 | 13.0 | /mnt/stockage/packages/f42/vorbis-tools/po/da.po | 
- | [hr]({{< ref "/f42/language/hr.md" >}}) | 101 | 3796 | 2.7 | /mnt/stockage/packages/f42/vorbis-tools/po/hr.po | 
+ | [nl](/f42/language/nl) | 3323 | 3796 | 87.5 | /mnt/stockage/packages/f42/vorbis-tools/po/nl.po | 
+ | [pl](/f42/language/pl) | 3320 | 3796 | 87.5 | /mnt/stockage/packages/f42/vorbis-tools/po/pl.po | 
+ | [cs](/f42/language/cs) | 2238 | 3796 | 59.0 | /mnt/stockage/packages/f42/vorbis-tools/po/cs.po | 
+ | [eo](/f42/language/eo) | 2231 | 3796 | 58.8 | /mnt/stockage/packages/f42/vorbis-tools/po/eo.po | 
+ | [vi](/f42/language/vi) | 2231 | 3796 | 58.8 | /mnt/stockage/packages/f42/vorbis-tools/po/vi.po | 
+ | [uk](/f42/language/uk) | 1034 | 3796 | 27.2 | /mnt/stockage/packages/f42/vorbis-tools/po/uk.po | 
+ | [ru](/f42/language/ru) | 1026 | 3796 | 27.0 | /mnt/stockage/packages/f42/vorbis-tools/po/ru.po | 
+ | [sk](/f42/language/sk) | 1026 | 3796 | 27.0 | /mnt/stockage/packages/f42/vorbis-tools/po/sk.po | 
+ | [be](/f42/language/be) | 901 | 3796 | 23.7 | /mnt/stockage/packages/f42/vorbis-tools/po/be.po | 
+ | [en_GB](/f42/language/en_GB) | 901 | 3796 | 23.7 | /mnt/stockage/packages/f42/vorbis-tools/po/en_GB.po | 
+ | [es](/f42/language/es) | 901 | 3796 | 23.7 | /mnt/stockage/packages/f42/vorbis-tools/po/es.po | 
+ | [fr](/f42/language/fr) | 901 | 3796 | 23.7 | /mnt/stockage/packages/f42/vorbis-tools/po/fr.po | 
+ | [ro](/f42/language/ro) | 901 | 3796 | 23.7 | /mnt/stockage/packages/f42/vorbis-tools/po/ro.po | 
+ | [hu](/f42/language/hu) | 711 | 3796 | 18.7 | /mnt/stockage/packages/f42/vorbis-tools/po/hu.po | 
+ | [sv](/f42/language/sv) | 497 | 3796 | 13.1 | /mnt/stockage/packages/f42/vorbis-tools/po/sv.po | 
+ | [da](/f42/language/da) | 493 | 3796 | 13.0 | /mnt/stockage/packages/f42/vorbis-tools/po/da.po | 
+ | [hr](/f42/language/hr) | 101 | 3796 | 2.7 | /mnt/stockage/packages/f42/vorbis-tools/po/hr.po | 
 {.sortable}
 
 

@@ -18,16 +18,16 @@ The package trytond-google-maps (version 2.4.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [bg]({{< ref "/f18/language/bg.md" >}}) | 2 | 2 | 100.0 | /mnt/stockage/packages/f18/trytond-google-maps/locale/bg_BG.po | 
- | [ca]({{< ref "/f18/language/ca.md" >}}) | 2 | 2 | 100.0 | /mnt/stockage/packages/f18/trytond-google-maps/locale/ca_ES.po | 
- | [de]({{< ref "/f18/language/de.md" >}}) | 2 | 2 | 100.0 | /mnt/stockage/packages/f18/trytond-google-maps/locale/de_DE.po | 
- | [es]({{< ref "/f18/language/es.md" >}}) | 2 | 2 | 100.0 | /mnt/stockage/packages/f18/trytond-google-maps/locale/es_ES.po | 
- | [es_AR]({{< ref "/f18/language/es_AR.md" >}}) | 2 | 2 | 100.0 | /mnt/stockage/packages/f18/trytond-google-maps/locale/es_AR.po | 
- | [es_CO]({{< ref "/f18/language/es_CO.md" >}}) | 2 | 2 | 100.0 | /mnt/stockage/packages/f18/trytond-google-maps/locale/es_CO.po | 
- | [fr]({{< ref "/f18/language/fr.md" >}}) | 2 | 2 | 100.0 | /mnt/stockage/packages/f18/trytond-google-maps/locale/fr_FR.po | 
- | [cs]({{< ref "/f18/language/cs.md" >}}) | 0 | 2 | 0.0 | /mnt/stockage/packages/f18/trytond-google-maps/locale/cs_CZ.po | 
- | [nl]({{< ref "/f18/language/nl.md" >}}) | 0 | 2 | 0.0 | /mnt/stockage/packages/f18/trytond-google-maps/locale/nl_NL.po | 
- | [ru]({{< ref "/f18/language/ru.md" >}}) | 0 | 2 | 0.0 | /mnt/stockage/packages/f18/trytond-google-maps/locale/ru_RU.po | 
+ | [bg](/f18/language/bg) | 2 | 2 | 100.0 | /mnt/stockage/packages/f18/trytond-google-maps/locale/bg_BG.po | 
+ | [ca](/f18/language/ca) | 2 | 2 | 100.0 | /mnt/stockage/packages/f18/trytond-google-maps/locale/ca_ES.po | 
+ | [de](/f18/language/de) | 2 | 2 | 100.0 | /mnt/stockage/packages/f18/trytond-google-maps/locale/de_DE.po | 
+ | [es](/f18/language/es) | 2 | 2 | 100.0 | /mnt/stockage/packages/f18/trytond-google-maps/locale/es_ES.po | 
+ | [es_AR](/f18/language/es_AR) | 2 | 2 | 100.0 | /mnt/stockage/packages/f18/trytond-google-maps/locale/es_AR.po | 
+ | [es_CO](/f18/language/es_CO) | 2 | 2 | 100.0 | /mnt/stockage/packages/f18/trytond-google-maps/locale/es_CO.po | 
+ | [fr](/f18/language/fr) | 2 | 2 | 100.0 | /mnt/stockage/packages/f18/trytond-google-maps/locale/fr_FR.po | 
+ | [cs](/f18/language/cs) | 0 | 2 | 0.0 | /mnt/stockage/packages/f18/trytond-google-maps/locale/cs_CZ.po | 
+ | [nl](/f18/language/nl) | 0 | 2 | 0.0 | /mnt/stockage/packages/f18/trytond-google-maps/locale/nl_NL.po | 
+ | [ru](/f18/language/ru) | 0 | 2 | 0.0 | /mnt/stockage/packages/f18/trytond-google-maps/locale/ru_RU.po | 
 {.sortable}
 
 

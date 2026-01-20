@@ -18,15 +18,15 @@ The package fish (version 2.6.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [nb_NO]({{< ref "/f26/language/nb_NO.md" >}}) | 8 | 8 | 100.0 | /mnt/stockage/packages/f26/fish/po/nb.po | 
- | [nn]({{< ref "/f26/language/nn.md" >}}) | 8 | 8 | 100.0 | /mnt/stockage/packages/f26/fish/po/nn.po | 
- | [en]({{< ref "/f26/language/en.md" >}}) | 9616 | 11148 | 86.3 | /mnt/stockage/packages/f26/fish/po/en.po | 
- | [de]({{< ref "/f26/language/de.md" >}}) | 1352 | 2354 | 57.4 | /mnt/stockage/packages/f26/fish/po/de.po | 
- | [pl]({{< ref "/f26/language/pl.md" >}}) | 1256 | 2203 | 57.0 | /mnt/stockage/packages/f26/fish/po/pl.po | 
- | [sv]({{< ref "/f26/language/sv.md" >}}) | 5114 | 11148 | 45.9 | /mnt/stockage/packages/f26/fish/po/sv.po | 
- | [zh_Hans]({{< ref "/f26/language/zh_Hans.md" >}}) | 4776 | 11145 | 42.9 | /mnt/stockage/packages/f26/fish/po/zh_CN.po | 
- | [pt_BR]({{< ref "/f26/language/pt_BR.md" >}}) | 2757 | 11145 | 24.7 | /mnt/stockage/packages/f26/fish/po/pt_BR.po | 
- | [fr]({{< ref "/f26/language/fr.md" >}}) | 2559 | 11145 | 23.0 | /mnt/stockage/packages/f26/fish/po/fr.po | 
+ | [nb_NO](/f26/language/nb_NO) | 8 | 8 | 100.0 | /mnt/stockage/packages/f26/fish/po/nb.po | 
+ | [nn](/f26/language/nn) | 8 | 8 | 100.0 | /mnt/stockage/packages/f26/fish/po/nn.po | 
+ | [en](/f26/language/en) | 9616 | 11148 | 86.3 | /mnt/stockage/packages/f26/fish/po/en.po | 
+ | [de](/f26/language/de) | 1352 | 2354 | 57.4 | /mnt/stockage/packages/f26/fish/po/de.po | 
+ | [pl](/f26/language/pl) | 1256 | 2203 | 57.0 | /mnt/stockage/packages/f26/fish/po/pl.po | 
+ | [sv](/f26/language/sv) | 5114 | 11148 | 45.9 | /mnt/stockage/packages/f26/fish/po/sv.po | 
+ | [zh_Hans](/f26/language/zh_Hans) | 4776 | 11145 | 42.9 | /mnt/stockage/packages/f26/fish/po/zh_CN.po | 
+ | [pt_BR](/f26/language/pt_BR) | 2757 | 11145 | 24.7 | /mnt/stockage/packages/f26/fish/po/pt_BR.po | 
+ | [fr](/f26/language/fr) | 2559 | 11145 | 23.0 | /mnt/stockage/packages/f26/fish/po/fr.po | 
 {.sortable}
 
 

@@ -18,20 +18,20 @@ The package psad (version 2.2.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f19/language/cs.md" >}}) | 467 | 467 | 100.0 | /mnt/stockage/packages/f19/psad/deps/whois/po/cs.po | 
- | [de]({{< ref "/f19/language/de.md" >}}) | 467 | 467 | 100.0 | /mnt/stockage/packages/f19/psad/deps/whois/po/de.po | 
- | [es]({{< ref "/f19/language/es.md" >}}) | 467 | 467 | 100.0 | /mnt/stockage/packages/f19/psad/deps/whois/po/es.po | 
- | [fi]({{< ref "/f19/language/fi.md" >}}) | 467 | 467 | 100.0 | /mnt/stockage/packages/f19/psad/deps/whois/po/fi.po | 
- | [fr]({{< ref "/f19/language/fr.md" >}}) | 467 | 467 | 100.0 | /mnt/stockage/packages/f19/psad/deps/whois/po/fr.po | 
- | [it]({{< ref "/f19/language/it.md" >}}) | 467 | 467 | 100.0 | /mnt/stockage/packages/f19/psad/deps/whois/po/it.po | 
- | [pl]({{< ref "/f19/language/pl.md" >}}) | 467 | 467 | 100.0 | /mnt/stockage/packages/f19/psad/deps/whois/po/pl.po | 
- | [ru]({{< ref "/f19/language/ru.md" >}}) | 467 | 467 | 100.0 | /mnt/stockage/packages/f19/psad/deps/whois/po/ru.po | 
- | [pt_BR]({{< ref "/f19/language/pt_BR.md" >}}) | 359 | 467 | 76.9 | /mnt/stockage/packages/f19/psad/deps/whois/po/pt_BR.po | 
- | [zh_Hans]({{< ref "/f19/language/zh_Hans.md" >}}) | 345 | 467 | 73.9 | /mnt/stockage/packages/f19/psad/deps/whois/po/zh_CN.po | 
- | [el]({{< ref "/f19/language/el.md" >}}) | 319 | 467 | 68.3 | /mnt/stockage/packages/f19/psad/deps/whois/po/el.po | 
- | [ja]({{< ref "/f19/language/ja.md" >}}) | 319 | 467 | 68.3 | /mnt/stockage/packages/f19/psad/deps/whois/po/ja.po | 
- | [eu]({{< ref "/f19/language/eu.md" >}}) | 105 | 467 | 22.5 | /mnt/stockage/packages/f19/psad/deps/whois/po/eu.po | 
- | [nb_NO]({{< ref "/f19/language/nb_NO.md" >}}) | 15 | 467 | 3.2 | /mnt/stockage/packages/f19/psad/deps/whois/po/no.po | 
+ | [cs](/f19/language/cs) | 467 | 467 | 100.0 | /mnt/stockage/packages/f19/psad/deps/whois/po/cs.po | 
+ | [de](/f19/language/de) | 467 | 467 | 100.0 | /mnt/stockage/packages/f19/psad/deps/whois/po/de.po | 
+ | [es](/f19/language/es) | 467 | 467 | 100.0 | /mnt/stockage/packages/f19/psad/deps/whois/po/es.po | 
+ | [fi](/f19/language/fi) | 467 | 467 | 100.0 | /mnt/stockage/packages/f19/psad/deps/whois/po/fi.po | 
+ | [fr](/f19/language/fr) | 467 | 467 | 100.0 | /mnt/stockage/packages/f19/psad/deps/whois/po/fr.po | 
+ | [it](/f19/language/it) | 467 | 467 | 100.0 | /mnt/stockage/packages/f19/psad/deps/whois/po/it.po | 
+ | [pl](/f19/language/pl) | 467 | 467 | 100.0 | /mnt/stockage/packages/f19/psad/deps/whois/po/pl.po | 
+ | [ru](/f19/language/ru) | 467 | 467 | 100.0 | /mnt/stockage/packages/f19/psad/deps/whois/po/ru.po | 
+ | [pt_BR](/f19/language/pt_BR) | 359 | 467 | 76.9 | /mnt/stockage/packages/f19/psad/deps/whois/po/pt_BR.po | 
+ | [zh_Hans](/f19/language/zh_Hans) | 345 | 467 | 73.9 | /mnt/stockage/packages/f19/psad/deps/whois/po/zh_CN.po | 
+ | [el](/f19/language/el) | 319 | 467 | 68.3 | /mnt/stockage/packages/f19/psad/deps/whois/po/el.po | 
+ | [ja](/f19/language/ja) | 319 | 467 | 68.3 | /mnt/stockage/packages/f19/psad/deps/whois/po/ja.po | 
+ | [eu](/f19/language/eu) | 105 | 467 | 22.5 | /mnt/stockage/packages/f19/psad/deps/whois/po/eu.po | 
+ | [nb_NO](/f19/language/nb_NO) | 15 | 467 | 3.2 | /mnt/stockage/packages/f19/psad/deps/whois/po/no.po | 
 {.sortable}
 
 

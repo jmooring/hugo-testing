@@ -18,9 +18,9 @@ The package synfig (version 0.62.00):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [es]({{< ref "/f12/language/es.md" >}}) | 2273 | 2273 | 100.0 | /mnt/stockage/packages/f12/synfig/po/es.po | 
- | [fr]({{< ref "/f12/language/fr.md" >}}) | 2273 | 2273 | 100.0 | /mnt/stockage/packages/f12/synfig/po/fr.po | 
- | [ru]({{< ref "/f12/language/ru.md" >}}) | 1180 | 2273 | 51.9 | /mnt/stockage/packages/f12/synfig/po/ru.po | 
+ | [es](/f12/language/es) | 2273 | 2273 | 100.0 | /mnt/stockage/packages/f12/synfig/po/es.po | 
+ | [fr](/f12/language/fr) | 2273 | 2273 | 100.0 | /mnt/stockage/packages/f12/synfig/po/fr.po | 
+ | [ru](/f12/language/ru) | 1180 | 2273 | 51.9 | /mnt/stockage/packages/f12/synfig/po/ru.po | 
 {.sortable}
 
 

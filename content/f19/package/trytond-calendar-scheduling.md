@@ -18,16 +18,16 @@ The package trytond-calendar-scheduling (version 2.6.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [bg]({{< ref "/f19/language/bg.md" >}}) | 100 | 100 | 100.0 | /mnt/stockage/packages/f19/trytond-calendar-scheduling/locale/bg_BG.po | 
- | [ca]({{< ref "/f19/language/ca.md" >}}) | 100 | 100 | 100.0 | /mnt/stockage/packages/f19/trytond-calendar-scheduling/locale/ca_ES.po | 
- | [de]({{< ref "/f19/language/de.md" >}}) | 100 | 100 | 100.0 | /mnt/stockage/packages/f19/trytond-calendar-scheduling/locale/de_DE.po | 
- | [es]({{< ref "/f19/language/es.md" >}}) | 100 | 100 | 100.0 | /mnt/stockage/packages/f19/trytond-calendar-scheduling/locale/es_ES.po | 
- | [es_AR]({{< ref "/f19/language/es_AR.md" >}}) | 100 | 100 | 100.0 | /mnt/stockage/packages/f19/trytond-calendar-scheduling/locale/es_AR.po | 
- | [es_CO]({{< ref "/f19/language/es_CO.md" >}}) | 100 | 100 | 100.0 | /mnt/stockage/packages/f19/trytond-calendar-scheduling/locale/es_CO.po | 
- | [fr]({{< ref "/f19/language/fr.md" >}}) | 184 | 184 | 100.0 | /mnt/stockage/packages/f19/trytond-calendar-scheduling/locale/fr_FR.po | 
- | [ru]({{< ref "/f19/language/ru.md" >}}) | 39 | 100 | 39.0 | /mnt/stockage/packages/f19/trytond-calendar-scheduling/locale/ru_RU.po | 
- | [cs]({{< ref "/f19/language/cs.md" >}}) | 0 | 100 | 0.0 | /mnt/stockage/packages/f19/trytond-calendar-scheduling/locale/cs_CZ.po | 
- | [nl]({{< ref "/f19/language/nl.md" >}}) | 0 | 100 | 0.0 | /mnt/stockage/packages/f19/trytond-calendar-scheduling/locale/nl_NL.po | 
+ | [bg](/f19/language/bg) | 100 | 100 | 100.0 | /mnt/stockage/packages/f19/trytond-calendar-scheduling/locale/bg_BG.po | 
+ | [ca](/f19/language/ca) | 100 | 100 | 100.0 | /mnt/stockage/packages/f19/trytond-calendar-scheduling/locale/ca_ES.po | 
+ | [de](/f19/language/de) | 100 | 100 | 100.0 | /mnt/stockage/packages/f19/trytond-calendar-scheduling/locale/de_DE.po | 
+ | [es](/f19/language/es) | 100 | 100 | 100.0 | /mnt/stockage/packages/f19/trytond-calendar-scheduling/locale/es_ES.po | 
+ | [es_AR](/f19/language/es_AR) | 100 | 100 | 100.0 | /mnt/stockage/packages/f19/trytond-calendar-scheduling/locale/es_AR.po | 
+ | [es_CO](/f19/language/es_CO) | 100 | 100 | 100.0 | /mnt/stockage/packages/f19/trytond-calendar-scheduling/locale/es_CO.po | 
+ | [fr](/f19/language/fr) | 184 | 184 | 100.0 | /mnt/stockage/packages/f19/trytond-calendar-scheduling/locale/fr_FR.po | 
+ | [ru](/f19/language/ru) | 39 | 100 | 39.0 | /mnt/stockage/packages/f19/trytond-calendar-scheduling/locale/ru_RU.po | 
+ | [cs](/f19/language/cs) | 0 | 100 | 0.0 | /mnt/stockage/packages/f19/trytond-calendar-scheduling/locale/cs_CZ.po | 
+ | [nl](/f19/language/nl) | 0 | 100 | 0.0 | /mnt/stockage/packages/f19/trytond-calendar-scheduling/locale/nl_NL.po | 
 {.sortable}
 
 

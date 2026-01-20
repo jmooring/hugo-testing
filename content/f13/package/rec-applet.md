@@ -18,14 +18,14 @@ The package rec-applet (version 0.2.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [pt]({{< ref "/f13/language/pt.md" >}}) | 107 | 107 | 100.0 | /mnt/stockage/packages/f13/rec-applet/po/pt.po | 
- | [de]({{< ref "/f13/language/de.md" >}}) | 104 | 107 | 97.2 | /mnt/stockage/packages/f13/rec-applet/po/de.po | 
- | [fi]({{< ref "/f13/language/fi.md" >}}) | 104 | 107 | 97.2 | /mnt/stockage/packages/f13/rec-applet/po/fi.po | 
- | [hu]({{< ref "/f13/language/hu.md" >}}) | 104 | 107 | 97.2 | /mnt/stockage/packages/f13/rec-applet/po/hu.po | 
- | [nb_NO]({{< ref "/f13/language/nb_NO.md" >}}) | 104 | 107 | 97.2 | /mnt/stockage/packages/f13/rec-applet/po/nb.po | 
- | [pt_BR]({{< ref "/f13/language/pt_BR.md" >}}) | 104 | 107 | 97.2 | /mnt/stockage/packages/f13/rec-applet/po/pt_BR.po | 
- | [fr]({{< ref "/f13/language/fr.md" >}}) | 100 | 107 | 93.5 | /mnt/stockage/packages/f13/rec-applet/po/fr.po | 
- | [en_AU]({{< ref "/f13/language/en_AU.md" >}}) | 85 | 107 | 79.4 | /mnt/stockage/packages/f13/rec-applet/po/en_AU.po | 
+ | [pt](/f13/language/pt) | 107 | 107 | 100.0 | /mnt/stockage/packages/f13/rec-applet/po/pt.po | 
+ | [de](/f13/language/de) | 104 | 107 | 97.2 | /mnt/stockage/packages/f13/rec-applet/po/de.po | 
+ | [fi](/f13/language/fi) | 104 | 107 | 97.2 | /mnt/stockage/packages/f13/rec-applet/po/fi.po | 
+ | [hu](/f13/language/hu) | 104 | 107 | 97.2 | /mnt/stockage/packages/f13/rec-applet/po/hu.po | 
+ | [nb_NO](/f13/language/nb_NO) | 104 | 107 | 97.2 | /mnt/stockage/packages/f13/rec-applet/po/nb.po | 
+ | [pt_BR](/f13/language/pt_BR) | 104 | 107 | 97.2 | /mnt/stockage/packages/f13/rec-applet/po/pt_BR.po | 
+ | [fr](/f13/language/fr) | 100 | 107 | 93.5 | /mnt/stockage/packages/f13/rec-applet/po/fr.po | 
+ | [en_AU](/f13/language/en_AU) | 85 | 107 | 79.4 | /mnt/stockage/packages/f13/rec-applet/po/en_AU.po | 
 {.sortable}
 
 

@@ -18,63 +18,63 @@ The package libgdata (version 0.13.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [as]({{< ref "/f19/language/as.md" >}}) | 614 | 614 | 100.0 | /mnt/stockage/packages/f19/libgdata/po/as.po | 
- | [be]({{< ref "/f19/language/be.md" >}}) | 614 | 614 | 100.0 | /mnt/stockage/packages/f19/libgdata/po/be.po | 
- | [bg]({{< ref "/f19/language/bg.md" >}}) | 614 | 614 | 100.0 | /mnt/stockage/packages/f19/libgdata/po/bg.po | 
- | [bn_IN]({{< ref "/f19/language/bn_IN.md" >}}) | 552 | 552 | 100.0 | /mnt/stockage/packages/f19/libgdata/po/bn_IN.po | 
- | [ca]({{< ref "/f19/language/ca.md" >}}) | 614 | 614 | 100.0 | /mnt/stockage/packages/f19/libgdata/po/ca.po | 
- | [ca@valencia]({{< ref "/f19/language/ca@valencia.md" >}}) | 614 | 614 | 100.0 | /mnt/stockage/packages/f19/libgdata/po/ca@valencia.po | 
- | [cs]({{< ref "/f19/language/cs.md" >}}) | 614 | 614 | 100.0 | /mnt/stockage/packages/f19/libgdata/po/cs.po | 
- | [da]({{< ref "/f19/language/da.md" >}}) | 614 | 614 | 100.0 | /mnt/stockage/packages/f19/libgdata/po/da.po | 
- | [de]({{< ref "/f19/language/de.md" >}}) | 614 | 614 | 100.0 | /mnt/stockage/packages/f19/libgdata/po/de.po | 
- | [el]({{< ref "/f19/language/el.md" >}}) | 614 | 614 | 100.0 | /mnt/stockage/packages/f19/libgdata/po/el.po | 
- | [en_GB]({{< ref "/f19/language/en_GB.md" >}}) | 614 | 614 | 100.0 | /mnt/stockage/packages/f19/libgdata/po/en_GB.po | 
- | [es]({{< ref "/f19/language/es.md" >}}) | 614 | 614 | 100.0 | /mnt/stockage/packages/f19/libgdata/po/es.po | 
- | [et]({{< ref "/f19/language/et.md" >}}) | 614 | 614 | 100.0 | /mnt/stockage/packages/f19/libgdata/po/et.po | 
- | [eu]({{< ref "/f19/language/eu.md" >}}) | 614 | 614 | 100.0 | /mnt/stockage/packages/f19/libgdata/po/eu.po | 
- | [fi]({{< ref "/f19/language/fi.md" >}}) | 597 | 597 | 100.0 | /mnt/stockage/packages/f19/libgdata/po/fi.po | 
- | [fr]({{< ref "/f19/language/fr.md" >}}) | 614 | 614 | 100.0 | /mnt/stockage/packages/f19/libgdata/po/fr.po | 
- | [gl]({{< ref "/f19/language/gl.md" >}}) | 632 | 632 | 100.0 | /mnt/stockage/packages/f19/libgdata/po/gl.po | 
- | [he]({{< ref "/f19/language/he.md" >}}) | 614 | 614 | 100.0 | /mnt/stockage/packages/f19/libgdata/po/he.po | 
- | [hi]({{< ref "/f19/language/hi.md" >}}) | 614 | 614 | 100.0 | /mnt/stockage/packages/f19/libgdata/po/hi.po | 
- | [hu]({{< ref "/f19/language/hu.md" >}}) | 614 | 614 | 100.0 | /mnt/stockage/packages/f19/libgdata/po/hu.po | 
- | [id]({{< ref "/f19/language/id.md" >}}) | 614 | 614 | 100.0 | /mnt/stockage/packages/f19/libgdata/po/id.po | 
- | [it]({{< ref "/f19/language/it.md" >}}) | 614 | 614 | 100.0 | /mnt/stockage/packages/f19/libgdata/po/it.po | 
- | [ko]({{< ref "/f19/language/ko.md" >}}) | 614 | 614 | 100.0 | /mnt/stockage/packages/f19/libgdata/po/ko.po | 
- | [lt]({{< ref "/f19/language/lt.md" >}}) | 614 | 614 | 100.0 | /mnt/stockage/packages/f19/libgdata/po/lt.po | 
- | [lv]({{< ref "/f19/language/lv.md" >}}) | 614 | 614 | 100.0 | /mnt/stockage/packages/f19/libgdata/po/lv.po | 
- | [mr]({{< ref "/f19/language/mr.md" >}}) | 597 | 597 | 100.0 | /mnt/stockage/packages/f19/libgdata/po/mr.po | 
- | [nb_NO]({{< ref "/f19/language/nb_NO.md" >}}) | 614 | 614 | 100.0 | /mnt/stockage/packages/f19/libgdata/po/nb.po | 
- | [nl]({{< ref "/f19/language/nl.md" >}}) | 607 | 607 | 100.0 | /mnt/stockage/packages/f19/libgdata/po/nl.po | 
- | [or]({{< ref "/f19/language/or.md" >}}) | 597 | 597 | 100.0 | /mnt/stockage/packages/f19/libgdata/po/or.po | 
- | [pa]({{< ref "/f19/language/pa.md" >}}) | 614 | 614 | 100.0 | /mnt/stockage/packages/f19/libgdata/po/pa.po | 
- | [pl]({{< ref "/f19/language/pl.md" >}}) | 632 | 632 | 100.0 | /mnt/stockage/packages/f19/libgdata/po/pl.po | 
- | [pt]({{< ref "/f19/language/pt.md" >}}) | 614 | 614 | 100.0 | /mnt/stockage/packages/f19/libgdata/po/pt.po | 
- | [pt_BR]({{< ref "/f19/language/pt_BR.md" >}}) | 614 | 614 | 100.0 | /mnt/stockage/packages/f19/libgdata/po/pt_BR.po | 
- | [ro]({{< ref "/f19/language/ro.md" >}}) | 552 | 552 | 100.0 | /mnt/stockage/packages/f19/libgdata/po/ro.po | 
- | [ru]({{< ref "/f19/language/ru.md" >}}) | 614 | 614 | 100.0 | /mnt/stockage/packages/f19/libgdata/po/ru.po | 
- | [sk]({{< ref "/f19/language/sk.md" >}}) | 614 | 614 | 100.0 | /mnt/stockage/packages/f19/libgdata/po/sk.po | 
- | [sl]({{< ref "/f19/language/sl.md" >}}) | 614 | 614 | 100.0 | /mnt/stockage/packages/f19/libgdata/po/sl.po | 
- | [sr]({{< ref "/f19/language/sr.md" >}}) | 614 | 614 | 100.0 | /mnt/stockage/packages/f19/libgdata/po/sr.po | 
- | [sr_Latn]({{< ref "/f19/language/sr_Latn.md" >}}) | 614 | 614 | 100.0 | /mnt/stockage/packages/f19/libgdata/po/sr@latin.po | 
- | [sv]({{< ref "/f19/language/sv.md" >}}) | 607 | 607 | 100.0 | /mnt/stockage/packages/f19/libgdata/po/sv.po | 
- | [ta]({{< ref "/f19/language/ta.md" >}}) | 597 | 597 | 100.0 | /mnt/stockage/packages/f19/libgdata/po/ta.po | 
- | [te]({{< ref "/f19/language/te.md" >}}) | 614 | 614 | 100.0 | /mnt/stockage/packages/f19/libgdata/po/te.po | 
- | [th]({{< ref "/f19/language/th.md" >}}) | 614 | 614 | 100.0 | /mnt/stockage/packages/f19/libgdata/po/th.po | 
- | [tr]({{< ref "/f19/language/tr.md" >}}) | 614 | 614 | 100.0 | /mnt/stockage/packages/f19/libgdata/po/tr.po | 
- | [ug]({{< ref "/f19/language/ug.md" >}}) | 614 | 614 | 100.0 | /mnt/stockage/packages/f19/libgdata/po/ug.po | 
- | [uk]({{< ref "/f19/language/uk.md" >}}) | 597 | 597 | 100.0 | /mnt/stockage/packages/f19/libgdata/po/uk.po | 
- | [vi]({{< ref "/f19/language/vi.md" >}}) | 614 | 614 | 100.0 | /mnt/stockage/packages/f19/libgdata/po/vi.po | 
- | [zh_Hans]({{< ref "/f19/language/zh_Hans.md" >}}) | 597 | 597 | 100.0 | /mnt/stockage/packages/f19/libgdata/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f19/language/zh_Hant.md" >}}) | 614 | 614 | 100.0 | /mnt/stockage/packages/f19/libgdata/po/zh_TW.po | 
- | [zh_Hant_HK]({{< ref "/f19/language/zh_Hant_HK.md" >}}) | 614 | 614 | 100.0 | /mnt/stockage/packages/f19/libgdata/po/zh_HK.po | 
- | [ja]({{< ref "/f19/language/ja.md" >}}) | 428 | 597 | 71.7 | /mnt/stockage/packages/f19/libgdata/po/ja.po | 
- | [ar]({{< ref "/f19/language/ar.md" >}}) | 403 | 597 | 67.5 | /mnt/stockage/packages/f19/libgdata/po/ar.po | 
- | [eo]({{< ref "/f19/language/eo.md" >}}) | 370 | 597 | 62.0 | /mnt/stockage/packages/f19/libgdata/po/eo.po | 
- | [gu]({{< ref "/f19/language/gu.md" >}}) | 247 | 552 | 44.7 | /mnt/stockage/packages/f19/libgdata/po/gu.po | 
- | [ml]({{< ref "/f19/language/ml.md" >}}) | 192 | 614 | 31.3 | /mnt/stockage/packages/f19/libgdata/po/ml.po | 
- | [tg]({{< ref "/f19/language/tg.md" >}}) | 106 | 614 | 17.3 | /mnt/stockage/packages/f19/libgdata/po/tg.po | 
- | [kn]({{< ref "/f19/language/kn.md" >}}) | 79 | 597 | 13.2 | /mnt/stockage/packages/f19/libgdata/po/kn.po | 
+ | [as](/f19/language/as) | 614 | 614 | 100.0 | /mnt/stockage/packages/f19/libgdata/po/as.po | 
+ | [be](/f19/language/be) | 614 | 614 | 100.0 | /mnt/stockage/packages/f19/libgdata/po/be.po | 
+ | [bg](/f19/language/bg) | 614 | 614 | 100.0 | /mnt/stockage/packages/f19/libgdata/po/bg.po | 
+ | [bn_IN](/f19/language/bn_IN) | 552 | 552 | 100.0 | /mnt/stockage/packages/f19/libgdata/po/bn_IN.po | 
+ | [ca](/f19/language/ca) | 614 | 614 | 100.0 | /mnt/stockage/packages/f19/libgdata/po/ca.po | 
+ | [ca@valencia](/f19/language/ca@valencia) | 614 | 614 | 100.0 | /mnt/stockage/packages/f19/libgdata/po/ca@valencia.po | 
+ | [cs](/f19/language/cs) | 614 | 614 | 100.0 | /mnt/stockage/packages/f19/libgdata/po/cs.po | 
+ | [da](/f19/language/da) | 614 | 614 | 100.0 | /mnt/stockage/packages/f19/libgdata/po/da.po | 
+ | [de](/f19/language/de) | 614 | 614 | 100.0 | /mnt/stockage/packages/f19/libgdata/po/de.po | 
+ | [el](/f19/language/el) | 614 | 614 | 100.0 | /mnt/stockage/packages/f19/libgdata/po/el.po | 
+ | [en_GB](/f19/language/en_GB) | 614 | 614 | 100.0 | /mnt/stockage/packages/f19/libgdata/po/en_GB.po | 
+ | [es](/f19/language/es) | 614 | 614 | 100.0 | /mnt/stockage/packages/f19/libgdata/po/es.po | 
+ | [et](/f19/language/et) | 614 | 614 | 100.0 | /mnt/stockage/packages/f19/libgdata/po/et.po | 
+ | [eu](/f19/language/eu) | 614 | 614 | 100.0 | /mnt/stockage/packages/f19/libgdata/po/eu.po | 
+ | [fi](/f19/language/fi) | 597 | 597 | 100.0 | /mnt/stockage/packages/f19/libgdata/po/fi.po | 
+ | [fr](/f19/language/fr) | 614 | 614 | 100.0 | /mnt/stockage/packages/f19/libgdata/po/fr.po | 
+ | [gl](/f19/language/gl) | 632 | 632 | 100.0 | /mnt/stockage/packages/f19/libgdata/po/gl.po | 
+ | [he](/f19/language/he) | 614 | 614 | 100.0 | /mnt/stockage/packages/f19/libgdata/po/he.po | 
+ | [hi](/f19/language/hi) | 614 | 614 | 100.0 | /mnt/stockage/packages/f19/libgdata/po/hi.po | 
+ | [hu](/f19/language/hu) | 614 | 614 | 100.0 | /mnt/stockage/packages/f19/libgdata/po/hu.po | 
+ | [id](/f19/language/id) | 614 | 614 | 100.0 | /mnt/stockage/packages/f19/libgdata/po/id.po | 
+ | [it](/f19/language/it) | 614 | 614 | 100.0 | /mnt/stockage/packages/f19/libgdata/po/it.po | 
+ | [ko](/f19/language/ko) | 614 | 614 | 100.0 | /mnt/stockage/packages/f19/libgdata/po/ko.po | 
+ | [lt](/f19/language/lt) | 614 | 614 | 100.0 | /mnt/stockage/packages/f19/libgdata/po/lt.po | 
+ | [lv](/f19/language/lv) | 614 | 614 | 100.0 | /mnt/stockage/packages/f19/libgdata/po/lv.po | 
+ | [mr](/f19/language/mr) | 597 | 597 | 100.0 | /mnt/stockage/packages/f19/libgdata/po/mr.po | 
+ | [nb_NO](/f19/language/nb_NO) | 614 | 614 | 100.0 | /mnt/stockage/packages/f19/libgdata/po/nb.po | 
+ | [nl](/f19/language/nl) | 607 | 607 | 100.0 | /mnt/stockage/packages/f19/libgdata/po/nl.po | 
+ | [or](/f19/language/or) | 597 | 597 | 100.0 | /mnt/stockage/packages/f19/libgdata/po/or.po | 
+ | [pa](/f19/language/pa) | 614 | 614 | 100.0 | /mnt/stockage/packages/f19/libgdata/po/pa.po | 
+ | [pl](/f19/language/pl) | 632 | 632 | 100.0 | /mnt/stockage/packages/f19/libgdata/po/pl.po | 
+ | [pt](/f19/language/pt) | 614 | 614 | 100.0 | /mnt/stockage/packages/f19/libgdata/po/pt.po | 
+ | [pt_BR](/f19/language/pt_BR) | 614 | 614 | 100.0 | /mnt/stockage/packages/f19/libgdata/po/pt_BR.po | 
+ | [ro](/f19/language/ro) | 552 | 552 | 100.0 | /mnt/stockage/packages/f19/libgdata/po/ro.po | 
+ | [ru](/f19/language/ru) | 614 | 614 | 100.0 | /mnt/stockage/packages/f19/libgdata/po/ru.po | 
+ | [sk](/f19/language/sk) | 614 | 614 | 100.0 | /mnt/stockage/packages/f19/libgdata/po/sk.po | 
+ | [sl](/f19/language/sl) | 614 | 614 | 100.0 | /mnt/stockage/packages/f19/libgdata/po/sl.po | 
+ | [sr](/f19/language/sr) | 614 | 614 | 100.0 | /mnt/stockage/packages/f19/libgdata/po/sr.po | 
+ | [sr_Latn](/f19/language/sr_Latn) | 614 | 614 | 100.0 | /mnt/stockage/packages/f19/libgdata/po/sr@latin.po | 
+ | [sv](/f19/language/sv) | 607 | 607 | 100.0 | /mnt/stockage/packages/f19/libgdata/po/sv.po | 
+ | [ta](/f19/language/ta) | 597 | 597 | 100.0 | /mnt/stockage/packages/f19/libgdata/po/ta.po | 
+ | [te](/f19/language/te) | 614 | 614 | 100.0 | /mnt/stockage/packages/f19/libgdata/po/te.po | 
+ | [th](/f19/language/th) | 614 | 614 | 100.0 | /mnt/stockage/packages/f19/libgdata/po/th.po | 
+ | [tr](/f19/language/tr) | 614 | 614 | 100.0 | /mnt/stockage/packages/f19/libgdata/po/tr.po | 
+ | [ug](/f19/language/ug) | 614 | 614 | 100.0 | /mnt/stockage/packages/f19/libgdata/po/ug.po | 
+ | [uk](/f19/language/uk) | 597 | 597 | 100.0 | /mnt/stockage/packages/f19/libgdata/po/uk.po | 
+ | [vi](/f19/language/vi) | 614 | 614 | 100.0 | /mnt/stockage/packages/f19/libgdata/po/vi.po | 
+ | [zh_Hans](/f19/language/zh_Hans) | 597 | 597 | 100.0 | /mnt/stockage/packages/f19/libgdata/po/zh_CN.po | 
+ | [zh_Hant](/f19/language/zh_Hant) | 614 | 614 | 100.0 | /mnt/stockage/packages/f19/libgdata/po/zh_TW.po | 
+ | [zh_Hant_HK](/f19/language/zh_Hant_HK) | 614 | 614 | 100.0 | /mnt/stockage/packages/f19/libgdata/po/zh_HK.po | 
+ | [ja](/f19/language/ja) | 428 | 597 | 71.7 | /mnt/stockage/packages/f19/libgdata/po/ja.po | 
+ | [ar](/f19/language/ar) | 403 | 597 | 67.5 | /mnt/stockage/packages/f19/libgdata/po/ar.po | 
+ | [eo](/f19/language/eo) | 370 | 597 | 62.0 | /mnt/stockage/packages/f19/libgdata/po/eo.po | 
+ | [gu](/f19/language/gu) | 247 | 552 | 44.7 | /mnt/stockage/packages/f19/libgdata/po/gu.po | 
+ | [ml](/f19/language/ml) | 192 | 614 | 31.3 | /mnt/stockage/packages/f19/libgdata/po/ml.po | 
+ | [tg](/f19/language/tg) | 106 | 614 | 17.3 | /mnt/stockage/packages/f19/libgdata/po/tg.po | 
+ | [kn](/f19/language/kn) | 79 | 597 | 13.2 | /mnt/stockage/packages/f19/libgdata/po/kn.po | 
 {.sortable}
 
 

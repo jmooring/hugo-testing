@@ -18,13 +18,13 @@ The package spacewalk-backend (version 1.4.39):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [sv]({{< ref "/f16/language/sv.md" >}}) | 1902 | 1912 | 99.5 | /mnt/stockage/packages/f16/spacewalk-backend/po/sv.po | 
- | [de]({{< ref "/f16/language/de.md" >}}) | 1162 | 1912 | 60.8 | /mnt/stockage/packages/f16/spacewalk-backend/po/de.po | 
- | [cs]({{< ref "/f16/language/cs.md" >}}) | 1121 | 1912 | 58.6 | /mnt/stockage/packages/f16/spacewalk-backend/po/cs.po | 
- | [fr]({{< ref "/f16/language/fr.md" >}}) | 819 | 1912 | 42.8 | /mnt/stockage/packages/f16/spacewalk-backend/po/fr.po | 
- | [ru]({{< ref "/f16/language/ru.md" >}}) | 171 | 1912 | 8.9 | /mnt/stockage/packages/f16/spacewalk-backend/po/ru.po | 
- | [en]({{< ref "/f16/language/en.md" >}}) | 15 | 1912 | 0.8 | /mnt/stockage/packages/f16/spacewalk-backend/po/en.po | 
- | [ro]({{< ref "/f16/language/ro.md" >}}) | 5 | 1912 | 0.3 | /mnt/stockage/packages/f16/spacewalk-backend/po/ro.po | 
+ | [sv](/f16/language/sv) | 1902 | 1912 | 99.5 | /mnt/stockage/packages/f16/spacewalk-backend/po/sv.po | 
+ | [de](/f16/language/de) | 1162 | 1912 | 60.8 | /mnt/stockage/packages/f16/spacewalk-backend/po/de.po | 
+ | [cs](/f16/language/cs) | 1121 | 1912 | 58.6 | /mnt/stockage/packages/f16/spacewalk-backend/po/cs.po | 
+ | [fr](/f16/language/fr) | 819 | 1912 | 42.8 | /mnt/stockage/packages/f16/spacewalk-backend/po/fr.po | 
+ | [ru](/f16/language/ru) | 171 | 1912 | 8.9 | /mnt/stockage/packages/f16/spacewalk-backend/po/ru.po | 
+ | [en](/f16/language/en) | 15 | 1912 | 0.8 | /mnt/stockage/packages/f16/spacewalk-backend/po/en.po | 
+ | [ro](/f16/language/ro) | 5 | 1912 | 0.3 | /mnt/stockage/packages/f16/spacewalk-backend/po/ro.po | 
 {.sortable}
 
 

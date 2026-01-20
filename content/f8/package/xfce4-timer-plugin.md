@@ -18,15 +18,15 @@ The package xfce4-timer-plugin (version 0.5.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f8/language/ca.md" >}}) | 94 | 94 | 100.0 | /mnt/stockage/packages/f8/xfce4-timer-plugin/po/ca.po | 
- | [cs]({{< ref "/f8/language/cs.md" >}}) | 94 | 94 | 100.0 | /mnt/stockage/packages/f8/xfce4-timer-plugin/po/cs.po | 
- | [eu]({{< ref "/f8/language/eu.md" >}}) | 94 | 94 | 100.0 | /mnt/stockage/packages/f8/xfce4-timer-plugin/po/eu.po | 
- | [fr]({{< ref "/f8/language/fr.md" >}}) | 94 | 94 | 100.0 | /mnt/stockage/packages/f8/xfce4-timer-plugin/po/fr.po | 
- | [hu]({{< ref "/f8/language/hu.md" >}}) | 94 | 94 | 100.0 | /mnt/stockage/packages/f8/xfce4-timer-plugin/po/hu.po | 
- | [pl]({{< ref "/f8/language/pl.md" >}}) | 94 | 94 | 100.0 | /mnt/stockage/packages/f8/xfce4-timer-plugin/po/pl.po | 
- | [ja]({{< ref "/f8/language/ja.md" >}}) | 81 | 94 | 86.2 | /mnt/stockage/packages/f8/xfce4-timer-plugin/po/ja.po | 
- | [ru]({{< ref "/f8/language/ru.md" >}}) | 81 | 94 | 86.2 | /mnt/stockage/packages/f8/xfce4-timer-plugin/po/ru.po | 
- | [tr]({{< ref "/f8/language/tr.md" >}}) | 81 | 94 | 86.2 | /mnt/stockage/packages/f8/xfce4-timer-plugin/po/tr.po | 
+ | [ca](/f8/language/ca) | 94 | 94 | 100.0 | /mnt/stockage/packages/f8/xfce4-timer-plugin/po/ca.po | 
+ | [cs](/f8/language/cs) | 94 | 94 | 100.0 | /mnt/stockage/packages/f8/xfce4-timer-plugin/po/cs.po | 
+ | [eu](/f8/language/eu) | 94 | 94 | 100.0 | /mnt/stockage/packages/f8/xfce4-timer-plugin/po/eu.po | 
+ | [fr](/f8/language/fr) | 94 | 94 | 100.0 | /mnt/stockage/packages/f8/xfce4-timer-plugin/po/fr.po | 
+ | [hu](/f8/language/hu) | 94 | 94 | 100.0 | /mnt/stockage/packages/f8/xfce4-timer-plugin/po/hu.po | 
+ | [pl](/f8/language/pl) | 94 | 94 | 100.0 | /mnt/stockage/packages/f8/xfce4-timer-plugin/po/pl.po | 
+ | [ja](/f8/language/ja) | 81 | 94 | 86.2 | /mnt/stockage/packages/f8/xfce4-timer-plugin/po/ja.po | 
+ | [ru](/f8/language/ru) | 81 | 94 | 86.2 | /mnt/stockage/packages/f8/xfce4-timer-plugin/po/ru.po | 
+ | [tr](/f8/language/tr) | 81 | 94 | 86.2 | /mnt/stockage/packages/f8/xfce4-timer-plugin/po/tr.po | 
 {.sortable}
 
 

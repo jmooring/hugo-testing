@@ -38,14 +38,14 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [dialect]({{< ref "/f42/package/dialect.md" >}}) | 316 | 485 | 65.2 |  | 
- | [folder-color-switcher]({{< ref "/f42/package/folder-color-switcher.md" >}}) | 22 | 65 | 33.8 | Standard Moroccan Tamazight <zgh@li.org> | 
- | [xapps]({{< ref "/f42/package/xapps.md" >}}) | 18 | 73 | 24.7 | Standard Moroccan Tamazight <zgh@li.org> | 
- | [slick-greeter]({{< ref "/f42/package/slick-greeter.md" >}}) | 37 | 216 | 17.1 | Standard Moroccan Tamazight <zgh@li.org> | 
- | [lightdm-settings]({{< ref "/f42/package/lightdm-settings.md" >}}) | 40 | 355 | 11.3 | Standard Moroccan Tamazight <zgh@li.org> | 
- | [xreader]({{< ref "/f42/package/xreader.md" >}}) | 104 | 1625 | 6.4 | Standard Moroccan Tamazight <zgh@li.org> | 
- | [xed]({{< ref "/f42/package/xed.md" >}}) | 213 | 3775 | 5.6 | Standard Moroccan Tamazight <zgh@li.org> | 
- | [cinnamon-translations]({{< ref "/f42/package/cinnamon-translations.md" >}}) | 400 | 18956 | 2.1 | Standard Moroccan Tamazight <zgh@li.org> | 
+ | [dialect](/f42/package/dialect) | 316 | 485 | 65.2 |  | 
+ | [folder-color-switcher](/f42/package/folder-color-switcher) | 22 | 65 | 33.8 | Standard Moroccan Tamazight <zgh@li.org> | 
+ | [xapps](/f42/package/xapps) | 18 | 73 | 24.7 | Standard Moroccan Tamazight <zgh@li.org> | 
+ | [slick-greeter](/f42/package/slick-greeter) | 37 | 216 | 17.1 | Standard Moroccan Tamazight <zgh@li.org> | 
+ | [lightdm-settings](/f42/package/lightdm-settings) | 40 | 355 | 11.3 | Standard Moroccan Tamazight <zgh@li.org> | 
+ | [xreader](/f42/package/xreader) | 104 | 1625 | 6.4 | Standard Moroccan Tamazight <zgh@li.org> | 
+ | [xed](/f42/package/xed) | 213 | 3775 | 5.6 | Standard Moroccan Tamazight <zgh@li.org> | 
+ | [cinnamon-translations](/f42/package/cinnamon-translations) | 400 | 18956 | 2.1 | Standard Moroccan Tamazight <zgh@li.org> | 
 {.sortable}
 
 

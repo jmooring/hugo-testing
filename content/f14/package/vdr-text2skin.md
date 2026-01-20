@@ -18,9 +18,9 @@ The package vdr-text2skin (version 1.3.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f14/language/de.md" >}}) | 59 | 59 | 100.0 | /mnt/stockage/packages/f14/vdr-text2skin/po/de_DE.po | 
- | [it]({{< ref "/f14/language/it.md" >}}) | 59 | 59 | 100.0 | /mnt/stockage/packages/f14/vdr-text2skin/po/it_IT.po | 
- | [fi]({{< ref "/f14/language/fi.md" >}}) | 56 | 59 | 94.9 | /mnt/stockage/packages/f14/vdr-text2skin/po/fi_FI.po | 
+ | [de](/f14/language/de) | 59 | 59 | 100.0 | /mnt/stockage/packages/f14/vdr-text2skin/po/de_DE.po | 
+ | [it](/f14/language/it) | 59 | 59 | 100.0 | /mnt/stockage/packages/f14/vdr-text2skin/po/it_IT.po | 
+ | [fi](/f14/language/fi) | 56 | 59 | 94.9 | /mnt/stockage/packages/f14/vdr-text2skin/po/fi_FI.po | 
 {.sortable}
 
 

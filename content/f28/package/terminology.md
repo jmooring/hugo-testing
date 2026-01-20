@@ -18,22 +18,22 @@ The package terminology (version 1.3.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [da]({{< ref "/f28/language/da.md" >}}) | 860 | 860 | 100.0 | /mnt/stockage/packages/f28/terminology/po/da.po | 
- | [it]({{< ref "/f28/language/it.md" >}}) | 858 | 858 | 100.0 | /mnt/stockage/packages/f28/terminology/po/it.po | 
- | [sl]({{< ref "/f28/language/sl.md" >}}) | 791 | 858 | 92.2 | /mnt/stockage/packages/f28/terminology/po/sl.po | 
- | [vi]({{< ref "/f28/language/vi.md" >}}) | 755 | 858 | 88.0 | /mnt/stockage/packages/f28/terminology/po/vi.po | 
- | [ca]({{< ref "/f28/language/ca.md" >}}) | 744 | 858 | 86.7 | /mnt/stockage/packages/f28/terminology/po/ca.po | 
- | [es]({{< ref "/f28/language/es.md" >}}) | 733 | 858 | 85.4 | /mnt/stockage/packages/f28/terminology/po/es.po | 
- | [sr]({{< ref "/f28/language/sr.md" >}}) | 718 | 858 | 83.7 | /mnt/stockage/packages/f28/terminology/po/sr.po | 
- | [fi]({{< ref "/f28/language/fi.md" >}}) | 674 | 858 | 78.6 | /mnt/stockage/packages/f28/terminology/po/fi.po | 
- | [el]({{< ref "/f28/language/el.md" >}}) | 626 | 858 | 73.0 | /mnt/stockage/packages/f28/terminology/po/el.po | 
- | [hi]({{< ref "/f28/language/hi.md" >}}) | 489 | 858 | 57.0 | /mnt/stockage/packages/f28/terminology/po/hi.po | 
- | [ms]({{< ref "/f28/language/ms.md" >}}) | 391 | 858 | 45.6 | /mnt/stockage/packages/f28/terminology/po/ms.po | 
- | [ko]({{< ref "/f28/language/ko.md" >}}) | 311 | 858 | 36.2 | /mnt/stockage/packages/f28/terminology/po/ko.po | 
- | [fr]({{< ref "/f28/language/fr.md" >}}) | 188 | 858 | 21.9 | /mnt/stockage/packages/f28/terminology/po/fr.po | 
- | [eo]({{< ref "/f28/language/eo.md" >}}) | 145 | 858 | 16.9 | /mnt/stockage/packages/f28/terminology/po/eo.po | 
- | [tr]({{< ref "/f28/language/tr.md" >}}) | 74 | 858 | 8.6 | /mnt/stockage/packages/f28/terminology/po/tr.po | 
- | [de]({{< ref "/f28/language/de.md" >}}) | 6 | 858 | 0.7 | /mnt/stockage/packages/f28/terminology/po/de.po | 
+ | [da](/f28/language/da) | 860 | 860 | 100.0 | /mnt/stockage/packages/f28/terminology/po/da.po | 
+ | [it](/f28/language/it) | 858 | 858 | 100.0 | /mnt/stockage/packages/f28/terminology/po/it.po | 
+ | [sl](/f28/language/sl) | 791 | 858 | 92.2 | /mnt/stockage/packages/f28/terminology/po/sl.po | 
+ | [vi](/f28/language/vi) | 755 | 858 | 88.0 | /mnt/stockage/packages/f28/terminology/po/vi.po | 
+ | [ca](/f28/language/ca) | 744 | 858 | 86.7 | /mnt/stockage/packages/f28/terminology/po/ca.po | 
+ | [es](/f28/language/es) | 733 | 858 | 85.4 | /mnt/stockage/packages/f28/terminology/po/es.po | 
+ | [sr](/f28/language/sr) | 718 | 858 | 83.7 | /mnt/stockage/packages/f28/terminology/po/sr.po | 
+ | [fi](/f28/language/fi) | 674 | 858 | 78.6 | /mnt/stockage/packages/f28/terminology/po/fi.po | 
+ | [el](/f28/language/el) | 626 | 858 | 73.0 | /mnt/stockage/packages/f28/terminology/po/el.po | 
+ | [hi](/f28/language/hi) | 489 | 858 | 57.0 | /mnt/stockage/packages/f28/terminology/po/hi.po | 
+ | [ms](/f28/language/ms) | 391 | 858 | 45.6 | /mnt/stockage/packages/f28/terminology/po/ms.po | 
+ | [ko](/f28/language/ko) | 311 | 858 | 36.2 | /mnt/stockage/packages/f28/terminology/po/ko.po | 
+ | [fr](/f28/language/fr) | 188 | 858 | 21.9 | /mnt/stockage/packages/f28/terminology/po/fr.po | 
+ | [eo](/f28/language/eo) | 145 | 858 | 16.9 | /mnt/stockage/packages/f28/terminology/po/eo.po | 
+ | [tr](/f28/language/tr) | 74 | 858 | 8.6 | /mnt/stockage/packages/f28/terminology/po/tr.po | 
+ | [de](/f28/language/de) | 6 | 858 | 0.7 | /mnt/stockage/packages/f28/terminology/po/de.po | 
 {.sortable}
 
 

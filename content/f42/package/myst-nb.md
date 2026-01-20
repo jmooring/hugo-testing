@@ -18,7 +18,7 @@ The package myst-nb (version 1.3.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [es]({{< ref "/f42/language/es.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f42/myst-nb/tests/notebooks/locale/es/LC_MESSAGES/basic_run_intl.po | 
+ | [es](/f42/language/es) | 4 | 4 | 100.0 | /mnt/stockage/packages/f42/myst-nb/tests/notebooks/locale/es/LC_MESSAGES/basic_run_intl.po | 
 {.sortable}
 
 

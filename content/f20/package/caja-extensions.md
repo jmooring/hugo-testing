@@ -18,40 +18,40 @@ The package caja-extensions (version 1.8.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f20/language/cs.md" >}}) | 510 | 510 | 100.0 | /mnt/stockage/packages/f20/caja-extensions/po/cs.po | 
- | [da]({{< ref "/f20/language/da.md" >}}) | 510 | 510 | 100.0 | /mnt/stockage/packages/f20/caja-extensions/po/da.po | 
- | [de]({{< ref "/f20/language/de.md" >}}) | 510 | 510 | 100.0 | /mnt/stockage/packages/f20/caja-extensions/po/de.po | 
- | [el]({{< ref "/f20/language/el.md" >}}) | 510 | 510 | 100.0 | /mnt/stockage/packages/f20/caja-extensions/po/el.po | 
- | [en_AU]({{< ref "/f20/language/en_AU.md" >}}) | 510 | 510 | 100.0 | /mnt/stockage/packages/f20/caja-extensions/po/en_AU.po | 
- | [en_GB]({{< ref "/f20/language/en_GB.md" >}}) | 510 | 510 | 100.0 | /mnt/stockage/packages/f20/caja-extensions/po/en_GB.po | 
- | [es]({{< ref "/f20/language/es.md" >}}) | 510 | 510 | 100.0 | /mnt/stockage/packages/f20/caja-extensions/po/es.po | 
- | [fr]({{< ref "/f20/language/fr.md" >}}) | 510 | 510 | 100.0 | /mnt/stockage/packages/f20/caja-extensions/po/fr.po | 
- | [gl]({{< ref "/f20/language/gl.md" >}}) | 510 | 510 | 100.0 | /mnt/stockage/packages/f20/caja-extensions/po/gl.po | 
- | [it]({{< ref "/f20/language/it.md" >}}) | 510 | 510 | 100.0 | /mnt/stockage/packages/f20/caja-extensions/po/it.po | 
- | [ko]({{< ref "/f20/language/ko.md" >}}) | 510 | 510 | 100.0 | /mnt/stockage/packages/f20/caja-extensions/po/ko.po | 
- | [ms]({{< ref "/f20/language/ms.md" >}}) | 510 | 510 | 100.0 | /mnt/stockage/packages/f20/caja-extensions/po/ms.po | 
- | [nl]({{< ref "/f20/language/nl.md" >}}) | 510 | 510 | 100.0 | /mnt/stockage/packages/f20/caja-extensions/po/nl.po | 
- | [pl]({{< ref "/f20/language/pl.md" >}}) | 510 | 510 | 100.0 | /mnt/stockage/packages/f20/caja-extensions/po/pl.po | 
- | [pt]({{< ref "/f20/language/pt.md" >}}) | 510 | 510 | 100.0 | /mnt/stockage/packages/f20/caja-extensions/po/pt.po | 
- | [ru]({{< ref "/f20/language/ru.md" >}}) | 510 | 510 | 100.0 | /mnt/stockage/packages/f20/caja-extensions/po/ru.po | 
- | [sk]({{< ref "/f20/language/sk.md" >}}) | 510 | 510 | 100.0 | /mnt/stockage/packages/f20/caja-extensions/po/sk.po | 
- | [sl]({{< ref "/f20/language/sl.md" >}}) | 510 | 510 | 100.0 | /mnt/stockage/packages/f20/caja-extensions/po/sl.po | 
- | [tr]({{< ref "/f20/language/tr.md" >}}) | 510 | 510 | 100.0 | /mnt/stockage/packages/f20/caja-extensions/po/tr.po | 
- | [uk]({{< ref "/f20/language/uk.md" >}}) | 510 | 510 | 100.0 | /mnt/stockage/packages/f20/caja-extensions/po/uk.po | 
- | [zh_Hans]({{< ref "/f20/language/zh_Hans.md" >}}) | 1020 | 1020 | 100.0 | /mnt/stockage/packages/f20/caja-extensions/po/cmn.po/mnt/stockage/packages/f20/caja-extensions/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f20/language/zh_Hant.md" >}}) | 510 | 510 | 100.0 | /mnt/stockage/packages/f20/caja-extensions/po/zh_TW.po | 
- | [mk]({{< ref "/f20/language/mk.md" >}}) | 417 | 510 | 81.8 | /mnt/stockage/packages/f20/caja-extensions/po/mk.po | 
- | [hu]({{< ref "/f20/language/hu.md" >}}) | 401 | 510 | 78.6 | /mnt/stockage/packages/f20/caja-extensions/po/hu.po | 
- | [pt_BR]({{< ref "/f20/language/pt_BR.md" >}}) | 390 | 510 | 76.5 | /mnt/stockage/packages/f20/caja-extensions/po/pt_BR.po | 
- | [sv]({{< ref "/f20/language/sv.md" >}}) | 316 | 510 | 62.0 | /mnt/stockage/packages/f20/caja-extensions/po/sv.po | 
- | [ar]({{< ref "/f20/language/ar.md" >}}) | 305 | 510 | 59.8 | /mnt/stockage/packages/f20/caja-extensions/po/ar.po | 
- | [eu]({{< ref "/f20/language/eu.md" >}}) | 300 | 510 | 58.8 | /mnt/stockage/packages/f20/caja-extensions/po/eu.po | 
- | [bg]({{< ref "/f20/language/bg.md" >}}) | 266 | 510 | 52.2 | /mnt/stockage/packages/f20/caja-extensions/po/bg.po | 
- | [am]({{< ref "/f20/language/am.md" >}}) | 224 | 510 | 43.9 | /mnt/stockage/packages/f20/caja-extensions/po/am.po | 
- | [hr]({{< ref "/f20/language/hr.md" >}}) | 194 | 510 | 38.0 | /mnt/stockage/packages/f20/caja-extensions/po/hr.po | 
- | [be]({{< ref "/f20/language/be.md" >}}) | 61 | 510 | 12.0 | /mnt/stockage/packages/f20/caja-extensions/po/be.po | 
- | [vi]({{< ref "/f20/language/vi.md" >}}) | 57 | 510 | 11.2 | /mnt/stockage/packages/f20/caja-extensions/po/vi.po | 
- | [kk]({{< ref "/f20/language/kk.md" >}}) | 17 | 510 | 3.3 | /mnt/stockage/packages/f20/caja-extensions/po/kk.po | 
+ | [cs](/f20/language/cs) | 510 | 510 | 100.0 | /mnt/stockage/packages/f20/caja-extensions/po/cs.po | 
+ | [da](/f20/language/da) | 510 | 510 | 100.0 | /mnt/stockage/packages/f20/caja-extensions/po/da.po | 
+ | [de](/f20/language/de) | 510 | 510 | 100.0 | /mnt/stockage/packages/f20/caja-extensions/po/de.po | 
+ | [el](/f20/language/el) | 510 | 510 | 100.0 | /mnt/stockage/packages/f20/caja-extensions/po/el.po | 
+ | [en_AU](/f20/language/en_AU) | 510 | 510 | 100.0 | /mnt/stockage/packages/f20/caja-extensions/po/en_AU.po | 
+ | [en_GB](/f20/language/en_GB) | 510 | 510 | 100.0 | /mnt/stockage/packages/f20/caja-extensions/po/en_GB.po | 
+ | [es](/f20/language/es) | 510 | 510 | 100.0 | /mnt/stockage/packages/f20/caja-extensions/po/es.po | 
+ | [fr](/f20/language/fr) | 510 | 510 | 100.0 | /mnt/stockage/packages/f20/caja-extensions/po/fr.po | 
+ | [gl](/f20/language/gl) | 510 | 510 | 100.0 | /mnt/stockage/packages/f20/caja-extensions/po/gl.po | 
+ | [it](/f20/language/it) | 510 | 510 | 100.0 | /mnt/stockage/packages/f20/caja-extensions/po/it.po | 
+ | [ko](/f20/language/ko) | 510 | 510 | 100.0 | /mnt/stockage/packages/f20/caja-extensions/po/ko.po | 
+ | [ms](/f20/language/ms) | 510 | 510 | 100.0 | /mnt/stockage/packages/f20/caja-extensions/po/ms.po | 
+ | [nl](/f20/language/nl) | 510 | 510 | 100.0 | /mnt/stockage/packages/f20/caja-extensions/po/nl.po | 
+ | [pl](/f20/language/pl) | 510 | 510 | 100.0 | /mnt/stockage/packages/f20/caja-extensions/po/pl.po | 
+ | [pt](/f20/language/pt) | 510 | 510 | 100.0 | /mnt/stockage/packages/f20/caja-extensions/po/pt.po | 
+ | [ru](/f20/language/ru) | 510 | 510 | 100.0 | /mnt/stockage/packages/f20/caja-extensions/po/ru.po | 
+ | [sk](/f20/language/sk) | 510 | 510 | 100.0 | /mnt/stockage/packages/f20/caja-extensions/po/sk.po | 
+ | [sl](/f20/language/sl) | 510 | 510 | 100.0 | /mnt/stockage/packages/f20/caja-extensions/po/sl.po | 
+ | [tr](/f20/language/tr) | 510 | 510 | 100.0 | /mnt/stockage/packages/f20/caja-extensions/po/tr.po | 
+ | [uk](/f20/language/uk) | 510 | 510 | 100.0 | /mnt/stockage/packages/f20/caja-extensions/po/uk.po | 
+ | [zh_Hans](/f20/language/zh_Hans) | 1020 | 1020 | 100.0 | /mnt/stockage/packages/f20/caja-extensions/po/cmn.po/mnt/stockage/packages/f20/caja-extensions/po/zh_CN.po | 
+ | [zh_Hant](/f20/language/zh_Hant) | 510 | 510 | 100.0 | /mnt/stockage/packages/f20/caja-extensions/po/zh_TW.po | 
+ | [mk](/f20/language/mk) | 417 | 510 | 81.8 | /mnt/stockage/packages/f20/caja-extensions/po/mk.po | 
+ | [hu](/f20/language/hu) | 401 | 510 | 78.6 | /mnt/stockage/packages/f20/caja-extensions/po/hu.po | 
+ | [pt_BR](/f20/language/pt_BR) | 390 | 510 | 76.5 | /mnt/stockage/packages/f20/caja-extensions/po/pt_BR.po | 
+ | [sv](/f20/language/sv) | 316 | 510 | 62.0 | /mnt/stockage/packages/f20/caja-extensions/po/sv.po | 
+ | [ar](/f20/language/ar) | 305 | 510 | 59.8 | /mnt/stockage/packages/f20/caja-extensions/po/ar.po | 
+ | [eu](/f20/language/eu) | 300 | 510 | 58.8 | /mnt/stockage/packages/f20/caja-extensions/po/eu.po | 
+ | [bg](/f20/language/bg) | 266 | 510 | 52.2 | /mnt/stockage/packages/f20/caja-extensions/po/bg.po | 
+ | [am](/f20/language/am) | 224 | 510 | 43.9 | /mnt/stockage/packages/f20/caja-extensions/po/am.po | 
+ | [hr](/f20/language/hr) | 194 | 510 | 38.0 | /mnt/stockage/packages/f20/caja-extensions/po/hr.po | 
+ | [be](/f20/language/be) | 61 | 510 | 12.0 | /mnt/stockage/packages/f20/caja-extensions/po/be.po | 
+ | [vi](/f20/language/vi) | 57 | 510 | 11.2 | /mnt/stockage/packages/f20/caja-extensions/po/vi.po | 
+ | [kk](/f20/language/kk) | 17 | 510 | 3.3 | /mnt/stockage/packages/f20/caja-extensions/po/kk.po | 
 {.sortable}
 
 

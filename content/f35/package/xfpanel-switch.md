@@ -18,25 +18,25 @@ The package xfpanel-switch (version 1.0.7):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f35/language/cs.md" >}}) | 62 | 101 | 61.4 | /mnt/stockage/packages/f35/xfpanel-switch/po/cs.po | 
- | [de]({{< ref "/f35/language/de.md" >}}) | 62 | 101 | 61.4 | /mnt/stockage/packages/f35/xfpanel-switch/po/de.po | 
- | [el]({{< ref "/f35/language/el.md" >}}) | 62 | 101 | 61.4 | /mnt/stockage/packages/f35/xfpanel-switch/po/el.po | 
- | [es]({{< ref "/f35/language/es.md" >}}) | 62 | 101 | 61.4 | /mnt/stockage/packages/f35/xfpanel-switch/po/es.po | 
- | [fi]({{< ref "/f35/language/fi.md" >}}) | 62 | 101 | 61.4 | /mnt/stockage/packages/f35/xfpanel-switch/po/fi.po | 
- | [fr]({{< ref "/f35/language/fr.md" >}}) | 62 | 101 | 61.4 | /mnt/stockage/packages/f35/xfpanel-switch/po/fr.po | 
- | [gl]({{< ref "/f35/language/gl.md" >}}) | 62 | 101 | 61.4 | /mnt/stockage/packages/f35/xfpanel-switch/po/gl.po | 
- | [it]({{< ref "/f35/language/it.md" >}}) | 62 | 101 | 61.4 | /mnt/stockage/packages/f35/xfpanel-switch/po/it.po | 
- | [ja]({{< ref "/f35/language/ja.md" >}}) | 62 | 101 | 61.4 | /mnt/stockage/packages/f35/xfpanel-switch/po/ja.po | 
- | [kk]({{< ref "/f35/language/kk.md" >}}) | 62 | 101 | 61.4 | /mnt/stockage/packages/f35/xfpanel-switch/po/kk.po | 
- | [lt]({{< ref "/f35/language/lt.md" >}}) | 62 | 101 | 61.4 | /mnt/stockage/packages/f35/xfpanel-switch/po/lt.po | 
- | [nl]({{< ref "/f35/language/nl.md" >}}) | 62 | 101 | 61.4 | /mnt/stockage/packages/f35/xfpanel-switch/po/nl.po | 
- | [pl]({{< ref "/f35/language/pl.md" >}}) | 62 | 101 | 61.4 | /mnt/stockage/packages/f35/xfpanel-switch/po/pl.po | 
- | [pt]({{< ref "/f35/language/pt.md" >}}) | 62 | 101 | 61.4 | /mnt/stockage/packages/f35/xfpanel-switch/po/pt.po | 
- | [pt_BR]({{< ref "/f35/language/pt_BR.md" >}}) | 62 | 101 | 61.4 | /mnt/stockage/packages/f35/xfpanel-switch/po/pt_BR.po | 
- | [sl]({{< ref "/f35/language/sl.md" >}}) | 62 | 101 | 61.4 | /mnt/stockage/packages/f35/xfpanel-switch/po/sl.po | 
- | [sv]({{< ref "/f35/language/sv.md" >}}) | 62 | 101 | 61.4 | /mnt/stockage/packages/f35/xfpanel-switch/po/sv.po | 
- | [sr]({{< ref "/f35/language/sr.md" >}}) | 58 | 101 | 57.4 | /mnt/stockage/packages/f35/xfpanel-switch/po/sr.po | 
- | [ru]({{< ref "/f35/language/ru.md" >}}) | 38 | 101 | 37.6 | /mnt/stockage/packages/f35/xfpanel-switch/po/ru.po | 
+ | [cs](/f35/language/cs) | 62 | 101 | 61.4 | /mnt/stockage/packages/f35/xfpanel-switch/po/cs.po | 
+ | [de](/f35/language/de) | 62 | 101 | 61.4 | /mnt/stockage/packages/f35/xfpanel-switch/po/de.po | 
+ | [el](/f35/language/el) | 62 | 101 | 61.4 | /mnt/stockage/packages/f35/xfpanel-switch/po/el.po | 
+ | [es](/f35/language/es) | 62 | 101 | 61.4 | /mnt/stockage/packages/f35/xfpanel-switch/po/es.po | 
+ | [fi](/f35/language/fi) | 62 | 101 | 61.4 | /mnt/stockage/packages/f35/xfpanel-switch/po/fi.po | 
+ | [fr](/f35/language/fr) | 62 | 101 | 61.4 | /mnt/stockage/packages/f35/xfpanel-switch/po/fr.po | 
+ | [gl](/f35/language/gl) | 62 | 101 | 61.4 | /mnt/stockage/packages/f35/xfpanel-switch/po/gl.po | 
+ | [it](/f35/language/it) | 62 | 101 | 61.4 | /mnt/stockage/packages/f35/xfpanel-switch/po/it.po | 
+ | [ja](/f35/language/ja) | 62 | 101 | 61.4 | /mnt/stockage/packages/f35/xfpanel-switch/po/ja.po | 
+ | [kk](/f35/language/kk) | 62 | 101 | 61.4 | /mnt/stockage/packages/f35/xfpanel-switch/po/kk.po | 
+ | [lt](/f35/language/lt) | 62 | 101 | 61.4 | /mnt/stockage/packages/f35/xfpanel-switch/po/lt.po | 
+ | [nl](/f35/language/nl) | 62 | 101 | 61.4 | /mnt/stockage/packages/f35/xfpanel-switch/po/nl.po | 
+ | [pl](/f35/language/pl) | 62 | 101 | 61.4 | /mnt/stockage/packages/f35/xfpanel-switch/po/pl.po | 
+ | [pt](/f35/language/pt) | 62 | 101 | 61.4 | /mnt/stockage/packages/f35/xfpanel-switch/po/pt.po | 
+ | [pt_BR](/f35/language/pt_BR) | 62 | 101 | 61.4 | /mnt/stockage/packages/f35/xfpanel-switch/po/pt_BR.po | 
+ | [sl](/f35/language/sl) | 62 | 101 | 61.4 | /mnt/stockage/packages/f35/xfpanel-switch/po/sl.po | 
+ | [sv](/f35/language/sv) | 62 | 101 | 61.4 | /mnt/stockage/packages/f35/xfpanel-switch/po/sv.po | 
+ | [sr](/f35/language/sr) | 58 | 101 | 57.4 | /mnt/stockage/packages/f35/xfpanel-switch/po/sr.po | 
+ | [ru](/f35/language/ru) | 38 | 101 | 37.6 | /mnt/stockage/packages/f35/xfpanel-switch/po/ru.po | 
 {.sortable}
 
 

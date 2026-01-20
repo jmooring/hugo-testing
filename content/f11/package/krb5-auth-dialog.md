@@ -18,10 +18,10 @@ The package krb5-auth-dialog (version 0.10):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [es]({{< ref "/f11/language/es.md" >}}) | 321 | 1794 | 17.9 | /mnt/stockage/packages/f11/krb5-auth-dialog/po/es.po | 
- | [de]({{< ref "/f11/language/de.md" >}}) | 97 | 1759 | 5.5 | /mnt/stockage/packages/f11/krb5-auth-dialog/po/de.po | 
- | [nb_NO]({{< ref "/f11/language/nb_NO.md" >}}) | 31 | 1759 | 1.8 | /mnt/stockage/packages/f11/krb5-auth-dialog/po/nb.po | 
- | [sv]({{< ref "/f11/language/sv.md" >}}) | 7 | 1759 | 0.4 | /mnt/stockage/packages/f11/krb5-auth-dialog/po/sv.po | 
+ | [es](/f11/language/es) | 321 | 1794 | 17.9 | /mnt/stockage/packages/f11/krb5-auth-dialog/po/es.po | 
+ | [de](/f11/language/de) | 97 | 1759 | 5.5 | /mnt/stockage/packages/f11/krb5-auth-dialog/po/de.po | 
+ | [nb_NO](/f11/language/nb_NO) | 31 | 1759 | 1.8 | /mnt/stockage/packages/f11/krb5-auth-dialog/po/nb.po | 
+ | [sv](/f11/language/sv) | 7 | 1759 | 0.4 | /mnt/stockage/packages/f11/krb5-auth-dialog/po/sv.po | 
 {.sortable}
 
 

@@ -18,7 +18,7 @@ The package java-latest-openjdk-portable (version 21.0.1.0.12):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [su]({{< ref "/f38/language/su.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f38/java-latest-openjdk-portable/test/jdk/sun/nio/cs/tradChinese.po/mnt/stockage/packages/f38/java-latest-openjdk-portable/test/jdk/sun/nio/cs/tradChinese.win.po | 
+ | [su](/f38/language/su) | 0 | 0 | 0.0 | /mnt/stockage/packages/f38/java-latest-openjdk-portable/test/jdk/sun/nio/cs/tradChinese.po/mnt/stockage/packages/f38/java-latest-openjdk-portable/test/jdk/sun/nio/cs/tradChinese.win.po | 
 {.sortable}
 
 

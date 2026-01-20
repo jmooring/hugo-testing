@@ -38,8 +38,8 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [mintmenu]({{< ref "/f20/package/mintmenu.md" >}}) | 44 | 1460 | 3.0 | Chuvash <cv@li.org> | 
- | [stellarium]({{< ref "/f20/package/stellarium.md" >}}) | 73 | 11181 | 0.7 | Chuvash <cv@li.org> | 
+ | [mintmenu](/f20/package/mintmenu) | 44 | 1460 | 3.0 | Chuvash <cv@li.org> | 
+ | [stellarium](/f20/package/stellarium) | 73 | 11181 | 0.7 | Chuvash <cv@li.org> | 
 {.sortable}
 
 

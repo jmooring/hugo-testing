@@ -38,9 +38,9 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [libreoffice]({{< ref "/f31/package/libreoffice.md" >}}) | 104206 | 104206 | 100.0 | LANGUAGE <LL@li.org> | 
- | [python-django]({{< ref "/f31/package/python-django.md" >}}) | 3765 | 3765 | 100.0 | Lower Sorbian (http://www.transifex.com/django/django/language/dsb/) | 
- | [python2-django1.11]({{< ref "/f31/package/python2-django1.11.md" >}}) | 3613 | 3613 | 100.0 | Lower Sorbian (http://www.transifex.com/django/django/language/dsb/) | 
+ | [libreoffice](/f31/package/libreoffice) | 104206 | 104206 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [python-django](/f31/package/python-django) | 3765 | 3765 | 100.0 | Lower Sorbian (http://www.transifex.com/django/django/language/dsb/) | 
+ | [python2-django1.11](/f31/package/python2-django1.11) | 3613 | 3613 | 100.0 | Lower Sorbian (http://www.transifex.com/django/django/language/dsb/) | 
 {.sortable}
 
 

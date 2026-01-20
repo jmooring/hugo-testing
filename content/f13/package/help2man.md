@@ -18,14 +18,14 @@ The package help2man (version 1.38.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fi]({{< ref "/f13/language/fi.md" >}}) | 511 | 511 | 100.0 | /mnt/stockage/packages/f13/help2man/po/fi.po | 
- | [pl]({{< ref "/f13/language/pl.md" >}}) | 511 | 511 | 100.0 | /mnt/stockage/packages/f13/help2man/po/pl.po | 
- | [ru]({{< ref "/f13/language/ru.md" >}}) | 511 | 511 | 100.0 | /mnt/stockage/packages/f13/help2man/po/ru.po | 
- | [vi]({{< ref "/f13/language/vi.md" >}}) | 511 | 511 | 100.0 | /mnt/stockage/packages/f13/help2man/po/vi.po | 
- | [de]({{< ref "/f13/language/de.md" >}}) | 500 | 511 | 97.8 | /mnt/stockage/packages/f13/help2man/po/de.po | 
- | [fr]({{< ref "/f13/language/fr.md" >}}) | 353 | 511 | 69.1 | /mnt/stockage/packages/f13/help2man/po/fr.po | 
- | [sv]({{< ref "/f13/language/sv.md" >}}) | 347 | 511 | 67.9 | /mnt/stockage/packages/f13/help2man/po/sv.po | 
- | [pt_BR]({{< ref "/f13/language/pt_BR.md" >}}) | 262 | 511 | 51.3 | /mnt/stockage/packages/f13/help2man/po/pt_BR.po | 
+ | [fi](/f13/language/fi) | 511 | 511 | 100.0 | /mnt/stockage/packages/f13/help2man/po/fi.po | 
+ | [pl](/f13/language/pl) | 511 | 511 | 100.0 | /mnt/stockage/packages/f13/help2man/po/pl.po | 
+ | [ru](/f13/language/ru) | 511 | 511 | 100.0 | /mnt/stockage/packages/f13/help2man/po/ru.po | 
+ | [vi](/f13/language/vi) | 511 | 511 | 100.0 | /mnt/stockage/packages/f13/help2man/po/vi.po | 
+ | [de](/f13/language/de) | 500 | 511 | 97.8 | /mnt/stockage/packages/f13/help2man/po/de.po | 
+ | [fr](/f13/language/fr) | 353 | 511 | 69.1 | /mnt/stockage/packages/f13/help2man/po/fr.po | 
+ | [sv](/f13/language/sv) | 347 | 511 | 67.9 | /mnt/stockage/packages/f13/help2man/po/sv.po | 
+ | [pt_BR](/f13/language/pt_BR) | 262 | 511 | 51.3 | /mnt/stockage/packages/f13/help2man/po/pt_BR.po | 
 {.sortable}
 
 

@@ -45,42 +45,42 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [at-spi]({{< ref "/f14/package/at-spi.md" >}}) | 15 | 15 | 100.0 | Serbian (sr) <serbiangnome-lista@nongnu.org> | 
- | [gnome-mime-data]({{< ref "/f14/package/gnome-mime-data.md" >}}) | 887 | 887 | 100.0 | Serbian (sr) <serbiangnome-lista@nongnu.org> | 
- | [k3b]({{< ref "/f14/package/k3b.md" >}}) | 20429 | 20429 | 100.0 | Serbian <kde-i18n-sr@kde.org> | 
- | [kde-l10n]({{< ref "/f14/package/kde-l10n.md" >}}) | 236916 | 236916 | 100.0 | Serbian <kde-i18n-sr@kde.org> | 
- | [kmid2]({{< ref "/f14/package/kmid2.md" >}}) | 947 | 947 | 100.0 | sr <kde-i18n-sr@kde.org> | 
- | [knights]({{< ref "/f14/package/knights.md" >}}) | 555 | 555 | 100.0 | Serbian <kde-i18n-sr@kde.org> | 
- | [konq-plugins]({{< ref "/f14/package/konq-plugins.md" >}}) | 1692 | 1692 | 100.0 | Serbian <kde-i18n-sr@kde.org> | 
- | [ktorrent]({{< ref "/f14/package/ktorrent.md" >}}) | 7950 | 7950 | 100.0 | Serbian <kde-i18n-sr@kde.org> | 
- | [libgnome]({{< ref "/f14/package/libgnome.md" >}}) | 1407 | 1407 | 100.0 | Serbian (sr) <gnom@prevod.org> | 
- | [libgnomecanvas]({{< ref "/f14/package/libgnomecanvas.md" >}}) | 357 | 357 | 100.0 | Serbian (sr) <serbiagnome-lista@nongnu.org> | 
- | [libktorrent]({{< ref "/f14/package/libktorrent.md" >}}) | 507 | 507 | 100.0 | Serbian <kde-i18n-sr@kde.org> | 
- | [amarok]({{< ref "/f14/package/amarok.md" >}}) | 14347 | 14400 | 99.6 | Serbian <kde-i18n-sr@kde.org> | 
- | [bluedevil]({{< ref "/f14/package/bluedevil.md" >}}) | 601 | 604 | 99.5 | Serbian <kde-i18n-sr@kde.org> | 
- | [konversation]({{< ref "/f14/package/konversation.md" >}}) | 10108 | 10184 | 99.3 | Serbian <kde-i18n-sr@kde.org> | 
- | [kaudiocreator]({{< ref "/f14/package/kaudiocreator.md" >}}) | 1123 | 1136 | 98.9 | Serbian <kde-i18n-sr@kde.org> | 
- | [kwebkitpart]({{< ref "/f14/package/kwebkitpart.md" >}}) | 457 | 477 | 95.8 | Serbian <kde-i18n-sr@kde.org> | 
- | [atk]({{< ref "/f14/package/atk.md" >}}) | 359 | 375 | 95.7 | Serbian (sr) <gnom@prevod.org> | 
- | [mingw32-atk]({{< ref "/f14/package/mingw32-atk.md" >}}) | 359 | 375 | 95.7 | Serbian (sr) <gnom@prevod.org> | 
- | [libgnomeui]({{< ref "/f14/package/libgnomeui.md" >}}) | 1270 | 1419 | 89.5 | Serbian (sr) <gnom@prevod.org> | 
- | [nautilus]({{< ref "/f14/package/nautilus.md" >}}) | 6241 | 6976 | 89.5 | Serbian (sr) <serbiangnome-lista@nongnu.org> | 
- | [polkit-kde]({{< ref "/f14/package/polkit-kde.md" >}}) | 82 | 92 | 89.1 | Serbian <kde-i18n-sr@kde.org> | 
- | [rekonq]({{< ref "/f14/package/rekonq.md" >}}) | 1422 | 1617 | 87.9 | Serbian <kde-i18n-sr@kde.org> | 
- | [libbonoboui]({{< ref "/f14/package/libbonoboui.md" >}}) | 314 | 360 | 87.2 | Serbian (sr) <serbiangnome-lista@nongnu.org> | 
- | [gnome-panel]({{< ref "/f14/package/gnome-panel.md" >}}) | 3423 | 3937 | 86.9 | Serbian (sr) <serbiagnome-lista@nongnu.org> | 
- | [file-roller]({{< ref "/f14/package/file-roller.md" >}}) | 799 | 971 | 82.3 | Serbian (sr) <serbiangnome-lista@nongnu.org> | 
- | [knemo]({{< ref "/f14/package/knemo.md" >}}) | 912 | 1186 | 76.9 | Serbian <kde-i18n-sr@kde.org> | 
- | [kaffeine]({{< ref "/f14/package/kaffeine.md" >}}) | 448 | 590 | 75.9 | Serbian <kde-i18n-sr@kde.org> | 
- | [gdk-pixbuf2]({{< ref "/f14/package/gdk-pixbuf2.md" >}}) | 921 | 1313 | 70.1 | Serbian (sr) <serbiangnome-lista@nongnu.org> | 
- | [mingw32-gdk-pixbuf]({{< ref "/f14/package/mingw32-gdk-pixbuf.md" >}}) | 921 | 1313 | 70.1 | Serbian (sr) <serbiangnome-lista@nongnu.org> | 
- | [akonadi-googledata]({{< ref "/f14/package/akonadi-googledata.md" >}}) | 57 | 86 | 66.3 | Serbian <kde-i18n-sr@kde.org> | 
- | [gnome-vfs2]({{< ref "/f14/package/gnome-vfs2.md" >}}) | 747 | 1282 | 58.3 | Serbian (sr) <serbiangnome-lista@nongnu.org> | 
- | [gtk2]({{< ref "/f14/package/gtk2.md" >}}) | 6886 | 13704 | 50.2 | Serbian (sr) <serbiangnome-lista@nongnu.org> | 
- | [mingw32-gtk2]({{< ref "/f14/package/mingw32-gtk2.md" >}}) | 6886 | 13704 | 50.2 | Serbian (sr) <serbiangnome-lista@nongnu.org> | 
- | [gtk3]({{< ref "/f14/package/gtk3.md" >}}) | 5562 | 11998 | 46.4 | Serbian (sr) <serbiangnome-lista@nongnu.org> | 
- | [glib2]({{< ref "/f14/package/glib2.md" >}}) | 669 | 3690 | 18.1 | Serbian (sr) <serbiagnome-lista@nongnu.org> | 
- | [mingw32-glib2]({{< ref "/f14/package/mingw32-glib2.md" >}}) | 669 | 3690 | 18.1 | Serbian (sr) <serbiagnome-lista@nongnu.org> | 
+ | [at-spi](/f14/package/at-spi) | 15 | 15 | 100.0 | Serbian (sr) <serbiangnome-lista@nongnu.org> | 
+ | [gnome-mime-data](/f14/package/gnome-mime-data) | 887 | 887 | 100.0 | Serbian (sr) <serbiangnome-lista@nongnu.org> | 
+ | [k3b](/f14/package/k3b) | 20429 | 20429 | 100.0 | Serbian <kde-i18n-sr@kde.org> | 
+ | [kde-l10n](/f14/package/kde-l10n) | 236916 | 236916 | 100.0 | Serbian <kde-i18n-sr@kde.org> | 
+ | [kmid2](/f14/package/kmid2) | 947 | 947 | 100.0 | sr <kde-i18n-sr@kde.org> | 
+ | [knights](/f14/package/knights) | 555 | 555 | 100.0 | Serbian <kde-i18n-sr@kde.org> | 
+ | [konq-plugins](/f14/package/konq-plugins) | 1692 | 1692 | 100.0 | Serbian <kde-i18n-sr@kde.org> | 
+ | [ktorrent](/f14/package/ktorrent) | 7950 | 7950 | 100.0 | Serbian <kde-i18n-sr@kde.org> | 
+ | [libgnome](/f14/package/libgnome) | 1407 | 1407 | 100.0 | Serbian (sr) <gnom@prevod.org> | 
+ | [libgnomecanvas](/f14/package/libgnomecanvas) | 357 | 357 | 100.0 | Serbian (sr) <serbiagnome-lista@nongnu.org> | 
+ | [libktorrent](/f14/package/libktorrent) | 507 | 507 | 100.0 | Serbian <kde-i18n-sr@kde.org> | 
+ | [amarok](/f14/package/amarok) | 14347 | 14400 | 99.6 | Serbian <kde-i18n-sr@kde.org> | 
+ | [bluedevil](/f14/package/bluedevil) | 601 | 604 | 99.5 | Serbian <kde-i18n-sr@kde.org> | 
+ | [konversation](/f14/package/konversation) | 10108 | 10184 | 99.3 | Serbian <kde-i18n-sr@kde.org> | 
+ | [kaudiocreator](/f14/package/kaudiocreator) | 1123 | 1136 | 98.9 | Serbian <kde-i18n-sr@kde.org> | 
+ | [kwebkitpart](/f14/package/kwebkitpart) | 457 | 477 | 95.8 | Serbian <kde-i18n-sr@kde.org> | 
+ | [atk](/f14/package/atk) | 359 | 375 | 95.7 | Serbian (sr) <gnom@prevod.org> | 
+ | [mingw32-atk](/f14/package/mingw32-atk) | 359 | 375 | 95.7 | Serbian (sr) <gnom@prevod.org> | 
+ | [libgnomeui](/f14/package/libgnomeui) | 1270 | 1419 | 89.5 | Serbian (sr) <gnom@prevod.org> | 
+ | [nautilus](/f14/package/nautilus) | 6241 | 6976 | 89.5 | Serbian (sr) <serbiangnome-lista@nongnu.org> | 
+ | [polkit-kde](/f14/package/polkit-kde) | 82 | 92 | 89.1 | Serbian <kde-i18n-sr@kde.org> | 
+ | [rekonq](/f14/package/rekonq) | 1422 | 1617 | 87.9 | Serbian <kde-i18n-sr@kde.org> | 
+ | [libbonoboui](/f14/package/libbonoboui) | 314 | 360 | 87.2 | Serbian (sr) <serbiangnome-lista@nongnu.org> | 
+ | [gnome-panel](/f14/package/gnome-panel) | 3423 | 3937 | 86.9 | Serbian (sr) <serbiagnome-lista@nongnu.org> | 
+ | [file-roller](/f14/package/file-roller) | 799 | 971 | 82.3 | Serbian (sr) <serbiangnome-lista@nongnu.org> | 
+ | [knemo](/f14/package/knemo) | 912 | 1186 | 76.9 | Serbian <kde-i18n-sr@kde.org> | 
+ | [kaffeine](/f14/package/kaffeine) | 448 | 590 | 75.9 | Serbian <kde-i18n-sr@kde.org> | 
+ | [gdk-pixbuf2](/f14/package/gdk-pixbuf2) | 921 | 1313 | 70.1 | Serbian (sr) <serbiangnome-lista@nongnu.org> | 
+ | [mingw32-gdk-pixbuf](/f14/package/mingw32-gdk-pixbuf) | 921 | 1313 | 70.1 | Serbian (sr) <serbiangnome-lista@nongnu.org> | 
+ | [akonadi-googledata](/f14/package/akonadi-googledata) | 57 | 86 | 66.3 | Serbian <kde-i18n-sr@kde.org> | 
+ | [gnome-vfs2](/f14/package/gnome-vfs2) | 747 | 1282 | 58.3 | Serbian (sr) <serbiangnome-lista@nongnu.org> | 
+ | [gtk2](/f14/package/gtk2) | 6886 | 13704 | 50.2 | Serbian (sr) <serbiangnome-lista@nongnu.org> | 
+ | [mingw32-gtk2](/f14/package/mingw32-gtk2) | 6886 | 13704 | 50.2 | Serbian (sr) <serbiangnome-lista@nongnu.org> | 
+ | [gtk3](/f14/package/gtk3) | 5562 | 11998 | 46.4 | Serbian (sr) <serbiangnome-lista@nongnu.org> | 
+ | [glib2](/f14/package/glib2) | 669 | 3690 | 18.1 | Serbian (sr) <serbiagnome-lista@nongnu.org> | 
+ | [mingw32-glib2](/f14/package/mingw32-glib2) | 669 | 3690 | 18.1 | Serbian (sr) <serbiagnome-lista@nongnu.org> | 
 {.sortable}
 
 

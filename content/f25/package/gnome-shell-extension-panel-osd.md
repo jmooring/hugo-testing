@@ -18,10 +18,10 @@ The package gnome-shell-extension-panel-osd (version 1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f25/language/de.md" >}}) | 120 | 120 | 100.0 | /mnt/stockage/packages/f25/gnome-shell-extension-panel-osd/po/de.po | 
- | [pl]({{< ref "/f25/language/pl.md" >}}) | 120 | 120 | 100.0 | /mnt/stockage/packages/f25/gnome-shell-extension-panel-osd/po/pl.po | 
- | [pt_BR]({{< ref "/f25/language/pt_BR.md" >}}) | 82 | 120 | 68.3 | /mnt/stockage/packages/f25/gnome-shell-extension-panel-osd/po/pt_BR.po | 
- | [zh_Hans]({{< ref "/f25/language/zh_Hans.md" >}}) | 76 | 120 | 63.3 | /mnt/stockage/packages/f25/gnome-shell-extension-panel-osd/po/zh_CN.po | 
+ | [de](/f25/language/de) | 120 | 120 | 100.0 | /mnt/stockage/packages/f25/gnome-shell-extension-panel-osd/po/de.po | 
+ | [pl](/f25/language/pl) | 120 | 120 | 100.0 | /mnt/stockage/packages/f25/gnome-shell-extension-panel-osd/po/pl.po | 
+ | [pt_BR](/f25/language/pt_BR) | 82 | 120 | 68.3 | /mnt/stockage/packages/f25/gnome-shell-extension-panel-osd/po/pt_BR.po | 
+ | [zh_Hans](/f25/language/zh_Hans) | 76 | 120 | 63.3 | /mnt/stockage/packages/f25/gnome-shell-extension-panel-osd/po/zh_CN.po | 
 {.sortable}
 
 

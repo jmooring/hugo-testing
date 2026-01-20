@@ -18,88 +18,88 @@ The package sugar-jukebox (version 23):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f15/language/ar.md" >}}) | 15 | 15 | 100.0 | /mnt/stockage/packages/f15/sugar-jukebox/po/ar.po | 
- | [ca]({{< ref "/f15/language/ca.md" >}}) | 7 | 7 | 100.0 | /mnt/stockage/packages/f15/sugar-jukebox/po/ca.po | 
- | [cs]({{< ref "/f15/language/cs.md" >}}) | 7 | 7 | 100.0 | /mnt/stockage/packages/f15/sugar-jukebox/po/cs.po | 
- | [da]({{< ref "/f15/language/da.md" >}}) | 15 | 15 | 100.0 | /mnt/stockage/packages/f15/sugar-jukebox/po/da.po | 
- | [de]({{< ref "/f15/language/de.md" >}}) | 15 | 15 | 100.0 | /mnt/stockage/packages/f15/sugar-jukebox/po/de.po | 
- | [el]({{< ref "/f15/language/el.md" >}}) | 15 | 15 | 100.0 | /mnt/stockage/packages/f15/sugar-jukebox/po/el.po | 
- | [en]({{< ref "/f15/language/en.md" >}}) | 15 | 15 | 100.0 | /mnt/stockage/packages/f15/sugar-jukebox/po/en.po | 
- | [en_US]({{< ref "/f15/language/en_US.md" >}}) | 15 | 15 | 100.0 | /mnt/stockage/packages/f15/sugar-jukebox/po/en_US.po | 
- | [es]({{< ref "/f15/language/es.md" >}}) | 15 | 15 | 100.0 | /mnt/stockage/packages/f15/sugar-jukebox/po/es.po | 
- | [fr]({{< ref "/f15/language/fr.md" >}}) | 15 | 15 | 100.0 | /mnt/stockage/packages/f15/sugar-jukebox/po/fr.po | 
- | [hi]({{< ref "/f15/language/hi.md" >}}) | 7 | 7 | 100.0 | /mnt/stockage/packages/f15/sugar-jukebox/po/hi.po | 
- | [hu]({{< ref "/f15/language/hu.md" >}}) | 7 | 7 | 100.0 | /mnt/stockage/packages/f15/sugar-jukebox/po/hu.po | 
- | [hus]({{< ref "/f15/language/hus.md" >}}) | 15 | 15 | 100.0 | /mnt/stockage/packages/f15/sugar-jukebox/po/hus.po | 
- | [id]({{< ref "/f15/language/id.md" >}}) | 7 | 7 | 100.0 | /mnt/stockage/packages/f15/sugar-jukebox/po/id.po | 
- | [ja]({{< ref "/f15/language/ja.md" >}}) | 15 | 15 | 100.0 | /mnt/stockage/packages/f15/sugar-jukebox/po/ja.po | 
- | [ko]({{< ref "/f15/language/ko.md" >}}) | 7 | 7 | 100.0 | /mnt/stockage/packages/f15/sugar-jukebox/po/ko.po | 
- | [mg]({{< ref "/f15/language/mg.md" >}}) | 7 | 7 | 100.0 | /mnt/stockage/packages/f15/sugar-jukebox/po/mg.po | 
- | [mn]({{< ref "/f15/language/mn.md" >}}) | 7 | 7 | 100.0 | /mnt/stockage/packages/f15/sugar-jukebox/po/mn.po | 
- | [ne]({{< ref "/f15/language/ne.md" >}}) | 15 | 15 | 100.0 | /mnt/stockage/packages/f15/sugar-jukebox/po/ne.po | 
- | [pap]({{< ref "/f15/language/pap.md" >}}) | 7 | 7 | 100.0 | /mnt/stockage/packages/f15/sugar-jukebox/po/pap.po | 
- | [pl]({{< ref "/f15/language/pl.md" >}}) | 15 | 15 | 100.0 | /mnt/stockage/packages/f15/sugar-jukebox/po/pl.po | 
- | [prs]({{< ref "/f15/language/prs.md" >}}) | 7 | 7 | 100.0 | /mnt/stockage/packages/f15/sugar-jukebox/po/fa_AF.po | 
- | [ps]({{< ref "/f15/language/ps.md" >}}) | 7 | 7 | 100.0 | /mnt/stockage/packages/f15/sugar-jukebox/po/ps.po | 
- | [si]({{< ref "/f15/language/si.md" >}}) | 15 | 15 | 100.0 | /mnt/stockage/packages/f15/sugar-jukebox/po/si.po | 
- | [sq]({{< ref "/f15/language/sq.md" >}}) | 7 | 7 | 100.0 | /mnt/stockage/packages/f15/sugar-jukebox/po/sq.po | 
- | [sv]({{< ref "/f15/language/sv.md" >}}) | 7 | 7 | 100.0 | /mnt/stockage/packages/f15/sugar-jukebox/po/sv.po | 
- | [ta]({{< ref "/f15/language/ta.md" >}}) | 15 | 15 | 100.0 | /mnt/stockage/packages/f15/sugar-jukebox/po/ta.po | 
- | [te]({{< ref "/f15/language/te.md" >}}) | 7 | 7 | 100.0 | /mnt/stockage/packages/f15/sugar-jukebox/po/te.po | 
- | [tr]({{< ref "/f15/language/tr.md" >}}) | 7 | 7 | 100.0 | /mnt/stockage/packages/f15/sugar-jukebox/po/tr.po | 
- | [zh_Hant]({{< ref "/f15/language/zh_Hant.md" >}}) | 15 | 15 | 100.0 | /mnt/stockage/packages/f15/sugar-jukebox/po/zh_TW.po | 
- | [it]({{< ref "/f15/language/it.md" >}}) | 12 | 15 | 80.0 | /mnt/stockage/packages/f15/sugar-jukebox/po/it.po | 
- | [nl]({{< ref "/f15/language/nl.md" >}}) | 12 | 15 | 80.0 | /mnt/stockage/packages/f15/sugar-jukebox/po/nl.po | 
- | [pt]({{< ref "/f15/language/pt.md" >}}) | 12 | 15 | 80.0 | /mnt/stockage/packages/f15/sugar-jukebox/po/pt.po | 
- | [ru]({{< ref "/f15/language/ru.md" >}}) | 12 | 15 | 80.0 | /mnt/stockage/packages/f15/sugar-jukebox/po/ru.po | 
- | [vi]({{< ref "/f15/language/vi.md" >}}) | 12 | 15 | 80.0 | /mnt/stockage/packages/f15/sugar-jukebox/po/vi.po | 
- | [bn_IN]({{< ref "/f15/language/bn_IN.md" >}}) | 5 | 7 | 71.4 | /mnt/stockage/packages/f15/sugar-jukebox/po/bn_IN.po | 
- | [nb_NO]({{< ref "/f15/language/nb_NO.md" >}}) | 5 | 7 | 71.4 | /mnt/stockage/packages/f15/sugar-jukebox/po/nb.po | 
- | [rw]({{< ref "/f15/language/rw.md" >}}) | 5 | 7 | 71.4 | /mnt/stockage/packages/f15/sugar-jukebox/po/rw.po | 
- | [sl]({{< ref "/f15/language/sl.md" >}}) | 5 | 7 | 71.4 | /mnt/stockage/packages/f15/sugar-jukebox/po/sl.po | 
- | [zh_Hans]({{< ref "/f15/language/zh_Hans.md" >}}) | 5 | 7 | 71.4 | /mnt/stockage/packages/f15/sugar-jukebox/po/zh_CN.po | 
- | [bn]({{< ref "/f15/language/bn.md" >}}) | 7 | 15 | 46.7 | /mnt/stockage/packages/f15/sugar-jukebox/po/bn.po | 
- | [hy]({{< ref "/f15/language/hy.md" >}}) | 7 | 15 | 46.7 | /mnt/stockage/packages/f15/sugar-jukebox/po/hy.po | 
- | [pt_BR]({{< ref "/f15/language/pt_BR.md" >}}) | 7 | 15 | 46.7 | /mnt/stockage/packages/f15/sugar-jukebox/po/pt_BR.po | 
- | [am]({{< ref "/f15/language/am.md" >}}) | 2 | 7 | 28.6 | /mnt/stockage/packages/f15/sugar-jukebox/po/am.po | 
- | [km]({{< ref "/f15/language/km.md" >}}) | 2 | 7 | 28.6 | /mnt/stockage/packages/f15/sugar-jukebox/po/km.po | 
- | [br]({{< ref "/f15/language/br.md" >}}) | 3 | 15 | 20.0 | /mnt/stockage/packages/f15/sugar-jukebox/po/br.po | 
- | [af]({{< ref "/f15/language/af.md" >}}) | 0 | 7 | 0.0 | /mnt/stockage/packages/f15/sugar-jukebox/po/af.po | 
- | [ay]({{< ref "/f15/language/ay.md" >}}) | 0 | 7 | 0.0 | /mnt/stockage/packages/f15/sugar-jukebox/po/ay.po | 
- | [bg]({{< ref "/f15/language/bg.md" >}}) | 0 | 7 | 0.0 | /mnt/stockage/packages/f15/sugar-jukebox/po/bg.po | 
- | [bi]({{< ref "/f15/language/bi.md" >}}) | 0 | 7 | 0.0 | /mnt/stockage/packages/f15/sugar-jukebox/po/bi.po | 
- | [cpp]({{< ref "/f15/language/cpp.md" >}}) | 0 | 7 | 0.0 | /mnt/stockage/packages/f15/sugar-jukebox/po/cpp.po | 
- | [dz]({{< ref "/f15/language/dz.md" >}}) | 0 | 7 | 0.0 | /mnt/stockage/packages/f15/sugar-jukebox/po/dz.po | 
- | [error]({{< ref "/f15/language/error.md" >}}) | 0 | 31 | 0.0 | /mnt/stockage/packages/f15/sugar-jukebox/po/tzo.po/mnt/stockage/packages/f15/sugar-jukebox/po/pseudo.po/mnt/stockage/packages/f15/sugar-jukebox/po/pis.po/mnt/stockage/packages/f15/sugar-jukebox/po/mvo.po | 
- | [fa]({{< ref "/f15/language/fa.md" >}}) | 0 | 7 | 0.0 | /mnt/stockage/packages/f15/sugar-jukebox/po/fa.po | 
- | [ff]({{< ref "/f15/language/ff.md" >}}) | 0 | 7 | 0.0 | /mnt/stockage/packages/f15/sugar-jukebox/po/ff.po | 
- | [fi]({{< ref "/f15/language/fi.md" >}}) | 0 | 7 | 0.0 | /mnt/stockage/packages/f15/sugar-jukebox/po/fi.po | 
- | [fil]({{< ref "/f15/language/fil.md" >}}) | 0 | 7 | 0.0 | /mnt/stockage/packages/f15/sugar-jukebox/po/fil.po | 
- | [gu]({{< ref "/f15/language/gu.md" >}}) | 0 | 7 | 0.0 | /mnt/stockage/packages/f15/sugar-jukebox/po/gu.po | 
- | [ha]({{< ref "/f15/language/ha.md" >}}) | 0 | 7 | 0.0 | /mnt/stockage/packages/f15/sugar-jukebox/po/ha.po | 
- | [he]({{< ref "/f15/language/he.md" >}}) | 0 | 7 | 0.0 | /mnt/stockage/packages/f15/sugar-jukebox/po/he.po | 
- | [ht]({{< ref "/f15/language/ht.md" >}}) | 0 | 7 | 0.0 | /mnt/stockage/packages/f15/sugar-jukebox/po/ht.po | 
- | [ig]({{< ref "/f15/language/ig.md" >}}) | 0 | 7 | 0.0 | /mnt/stockage/packages/f15/sugar-jukebox/po/ig.po | 
- | [is]({{< ref "/f15/language/is.md" >}}) | 0 | 7 | 0.0 | /mnt/stockage/packages/f15/sugar-jukebox/po/is.po | 
- | [kos]({{< ref "/f15/language/kos.md" >}}) | 0 | 7 | 0.0 | /mnt/stockage/packages/f15/sugar-jukebox/po/kos.po | 
- | [mi]({{< ref "/f15/language/mi.md" >}}) | 0 | 7 | 0.0 | /mnt/stockage/packages/f15/sugar-jukebox/po/mi.po | 
- | [mk]({{< ref "/f15/language/mk.md" >}}) | 0 | 7 | 0.0 | /mnt/stockage/packages/f15/sugar-jukebox/po/mk.po | 
- | [ml]({{< ref "/f15/language/ml.md" >}}) | 0 | 7 | 0.0 | /mnt/stockage/packages/f15/sugar-jukebox/po/ml.po | 
- | [mr]({{< ref "/f15/language/mr.md" >}}) | 0 | 7 | 0.0 | /mnt/stockage/packages/f15/sugar-jukebox/po/mr.po | 
- | [ms]({{< ref "/f15/language/ms.md" >}}) | 0 | 7 | 0.0 | /mnt/stockage/packages/f15/sugar-jukebox/po/ms.po | 
- | [pa]({{< ref "/f15/language/pa.md" >}}) | 0 | 7 | 0.0 | /mnt/stockage/packages/f15/sugar-jukebox/po/pa.po | 
- | [qu]({{< ref "/f15/language/qu.md" >}}) | 0 | 7 | 0.0 | /mnt/stockage/packages/f15/sugar-jukebox/po/qu.po | 
- | [ro]({{< ref "/f15/language/ro.md" >}}) | 0 | 7 | 0.0 | /mnt/stockage/packages/f15/sugar-jukebox/po/ro.po | 
- | [sd]({{< ref "/f15/language/sd.md" >}}) | 0 | 7 | 0.0 | /mnt/stockage/packages/f15/sugar-jukebox/po/sd.po | 
- | [sk]({{< ref "/f15/language/sk.md" >}}) | 0 | 7 | 0.0 | /mnt/stockage/packages/f15/sugar-jukebox/po/sk.po | 
- | [sw]({{< ref "/f15/language/sw.md" >}}) | 0 | 7 | 0.0 | /mnt/stockage/packages/f15/sugar-jukebox/po/sw.po | 
- | [th]({{< ref "/f15/language/th.md" >}}) | 0 | 7 | 0.0 | /mnt/stockage/packages/f15/sugar-jukebox/po/th.po | 
- | [tpi]({{< ref "/f15/language/tpi.md" >}}) | 0 | 7 | 0.0 | /mnt/stockage/packages/f15/sugar-jukebox/po/tpi.po | 
- | [tvl]({{< ref "/f15/language/tvl.md" >}}) | 0 | 7 | 0.0 | /mnt/stockage/packages/f15/sugar-jukebox/po/tvl.po | 
- | [ug]({{< ref "/f15/language/ug.md" >}}) | 0 | 7 | 0.0 | /mnt/stockage/packages/f15/sugar-jukebox/po/ug.po | 
- | [ur]({{< ref "/f15/language/ur.md" >}}) | 0 | 7 | 0.0 | /mnt/stockage/packages/f15/sugar-jukebox/po/ur.po | 
- | [wa]({{< ref "/f15/language/wa.md" >}}) | 0 | 7 | 0.0 | /mnt/stockage/packages/f15/sugar-jukebox/po/wa.po | 
- | [yo]({{< ref "/f15/language/yo.md" >}}) | 0 | 7 | 0.0 | /mnt/stockage/packages/f15/sugar-jukebox/po/yo.po | 
+ | [ar](/f15/language/ar) | 15 | 15 | 100.0 | /mnt/stockage/packages/f15/sugar-jukebox/po/ar.po | 
+ | [ca](/f15/language/ca) | 7 | 7 | 100.0 | /mnt/stockage/packages/f15/sugar-jukebox/po/ca.po | 
+ | [cs](/f15/language/cs) | 7 | 7 | 100.0 | /mnt/stockage/packages/f15/sugar-jukebox/po/cs.po | 
+ | [da](/f15/language/da) | 15 | 15 | 100.0 | /mnt/stockage/packages/f15/sugar-jukebox/po/da.po | 
+ | [de](/f15/language/de) | 15 | 15 | 100.0 | /mnt/stockage/packages/f15/sugar-jukebox/po/de.po | 
+ | [el](/f15/language/el) | 15 | 15 | 100.0 | /mnt/stockage/packages/f15/sugar-jukebox/po/el.po | 
+ | [en](/f15/language/en) | 15 | 15 | 100.0 | /mnt/stockage/packages/f15/sugar-jukebox/po/en.po | 
+ | [en_US](/f15/language/en_US) | 15 | 15 | 100.0 | /mnt/stockage/packages/f15/sugar-jukebox/po/en_US.po | 
+ | [es](/f15/language/es) | 15 | 15 | 100.0 | /mnt/stockage/packages/f15/sugar-jukebox/po/es.po | 
+ | [fr](/f15/language/fr) | 15 | 15 | 100.0 | /mnt/stockage/packages/f15/sugar-jukebox/po/fr.po | 
+ | [hi](/f15/language/hi) | 7 | 7 | 100.0 | /mnt/stockage/packages/f15/sugar-jukebox/po/hi.po | 
+ | [hu](/f15/language/hu) | 7 | 7 | 100.0 | /mnt/stockage/packages/f15/sugar-jukebox/po/hu.po | 
+ | [hus](/f15/language/hus) | 15 | 15 | 100.0 | /mnt/stockage/packages/f15/sugar-jukebox/po/hus.po | 
+ | [id](/f15/language/id) | 7 | 7 | 100.0 | /mnt/stockage/packages/f15/sugar-jukebox/po/id.po | 
+ | [ja](/f15/language/ja) | 15 | 15 | 100.0 | /mnt/stockage/packages/f15/sugar-jukebox/po/ja.po | 
+ | [ko](/f15/language/ko) | 7 | 7 | 100.0 | /mnt/stockage/packages/f15/sugar-jukebox/po/ko.po | 
+ | [mg](/f15/language/mg) | 7 | 7 | 100.0 | /mnt/stockage/packages/f15/sugar-jukebox/po/mg.po | 
+ | [mn](/f15/language/mn) | 7 | 7 | 100.0 | /mnt/stockage/packages/f15/sugar-jukebox/po/mn.po | 
+ | [ne](/f15/language/ne) | 15 | 15 | 100.0 | /mnt/stockage/packages/f15/sugar-jukebox/po/ne.po | 
+ | [pap](/f15/language/pap) | 7 | 7 | 100.0 | /mnt/stockage/packages/f15/sugar-jukebox/po/pap.po | 
+ | [pl](/f15/language/pl) | 15 | 15 | 100.0 | /mnt/stockage/packages/f15/sugar-jukebox/po/pl.po | 
+ | [prs](/f15/language/prs) | 7 | 7 | 100.0 | /mnt/stockage/packages/f15/sugar-jukebox/po/fa_AF.po | 
+ | [ps](/f15/language/ps) | 7 | 7 | 100.0 | /mnt/stockage/packages/f15/sugar-jukebox/po/ps.po | 
+ | [si](/f15/language/si) | 15 | 15 | 100.0 | /mnt/stockage/packages/f15/sugar-jukebox/po/si.po | 
+ | [sq](/f15/language/sq) | 7 | 7 | 100.0 | /mnt/stockage/packages/f15/sugar-jukebox/po/sq.po | 
+ | [sv](/f15/language/sv) | 7 | 7 | 100.0 | /mnt/stockage/packages/f15/sugar-jukebox/po/sv.po | 
+ | [ta](/f15/language/ta) | 15 | 15 | 100.0 | /mnt/stockage/packages/f15/sugar-jukebox/po/ta.po | 
+ | [te](/f15/language/te) | 7 | 7 | 100.0 | /mnt/stockage/packages/f15/sugar-jukebox/po/te.po | 
+ | [tr](/f15/language/tr) | 7 | 7 | 100.0 | /mnt/stockage/packages/f15/sugar-jukebox/po/tr.po | 
+ | [zh_Hant](/f15/language/zh_Hant) | 15 | 15 | 100.0 | /mnt/stockage/packages/f15/sugar-jukebox/po/zh_TW.po | 
+ | [it](/f15/language/it) | 12 | 15 | 80.0 | /mnt/stockage/packages/f15/sugar-jukebox/po/it.po | 
+ | [nl](/f15/language/nl) | 12 | 15 | 80.0 | /mnt/stockage/packages/f15/sugar-jukebox/po/nl.po | 
+ | [pt](/f15/language/pt) | 12 | 15 | 80.0 | /mnt/stockage/packages/f15/sugar-jukebox/po/pt.po | 
+ | [ru](/f15/language/ru) | 12 | 15 | 80.0 | /mnt/stockage/packages/f15/sugar-jukebox/po/ru.po | 
+ | [vi](/f15/language/vi) | 12 | 15 | 80.0 | /mnt/stockage/packages/f15/sugar-jukebox/po/vi.po | 
+ | [bn_IN](/f15/language/bn_IN) | 5 | 7 | 71.4 | /mnt/stockage/packages/f15/sugar-jukebox/po/bn_IN.po | 
+ | [nb_NO](/f15/language/nb_NO) | 5 | 7 | 71.4 | /mnt/stockage/packages/f15/sugar-jukebox/po/nb.po | 
+ | [rw](/f15/language/rw) | 5 | 7 | 71.4 | /mnt/stockage/packages/f15/sugar-jukebox/po/rw.po | 
+ | [sl](/f15/language/sl) | 5 | 7 | 71.4 | /mnt/stockage/packages/f15/sugar-jukebox/po/sl.po | 
+ | [zh_Hans](/f15/language/zh_Hans) | 5 | 7 | 71.4 | /mnt/stockage/packages/f15/sugar-jukebox/po/zh_CN.po | 
+ | [bn](/f15/language/bn) | 7 | 15 | 46.7 | /mnt/stockage/packages/f15/sugar-jukebox/po/bn.po | 
+ | [hy](/f15/language/hy) | 7 | 15 | 46.7 | /mnt/stockage/packages/f15/sugar-jukebox/po/hy.po | 
+ | [pt_BR](/f15/language/pt_BR) | 7 | 15 | 46.7 | /mnt/stockage/packages/f15/sugar-jukebox/po/pt_BR.po | 
+ | [am](/f15/language/am) | 2 | 7 | 28.6 | /mnt/stockage/packages/f15/sugar-jukebox/po/am.po | 
+ | [km](/f15/language/km) | 2 | 7 | 28.6 | /mnt/stockage/packages/f15/sugar-jukebox/po/km.po | 
+ | [br](/f15/language/br) | 3 | 15 | 20.0 | /mnt/stockage/packages/f15/sugar-jukebox/po/br.po | 
+ | [af](/f15/language/af) | 0 | 7 | 0.0 | /mnt/stockage/packages/f15/sugar-jukebox/po/af.po | 
+ | [ay](/f15/language/ay) | 0 | 7 | 0.0 | /mnt/stockage/packages/f15/sugar-jukebox/po/ay.po | 
+ | [bg](/f15/language/bg) | 0 | 7 | 0.0 | /mnt/stockage/packages/f15/sugar-jukebox/po/bg.po | 
+ | [bi](/f15/language/bi) | 0 | 7 | 0.0 | /mnt/stockage/packages/f15/sugar-jukebox/po/bi.po | 
+ | [cpp](/f15/language/cpp) | 0 | 7 | 0.0 | /mnt/stockage/packages/f15/sugar-jukebox/po/cpp.po | 
+ | [dz](/f15/language/dz) | 0 | 7 | 0.0 | /mnt/stockage/packages/f15/sugar-jukebox/po/dz.po | 
+ | [error](/f15/language/error) | 0 | 31 | 0.0 | /mnt/stockage/packages/f15/sugar-jukebox/po/tzo.po/mnt/stockage/packages/f15/sugar-jukebox/po/pseudo.po/mnt/stockage/packages/f15/sugar-jukebox/po/pis.po/mnt/stockage/packages/f15/sugar-jukebox/po/mvo.po | 
+ | [fa](/f15/language/fa) | 0 | 7 | 0.0 | /mnt/stockage/packages/f15/sugar-jukebox/po/fa.po | 
+ | [ff](/f15/language/ff) | 0 | 7 | 0.0 | /mnt/stockage/packages/f15/sugar-jukebox/po/ff.po | 
+ | [fi](/f15/language/fi) | 0 | 7 | 0.0 | /mnt/stockage/packages/f15/sugar-jukebox/po/fi.po | 
+ | [fil](/f15/language/fil) | 0 | 7 | 0.0 | /mnt/stockage/packages/f15/sugar-jukebox/po/fil.po | 
+ | [gu](/f15/language/gu) | 0 | 7 | 0.0 | /mnt/stockage/packages/f15/sugar-jukebox/po/gu.po | 
+ | [ha](/f15/language/ha) | 0 | 7 | 0.0 | /mnt/stockage/packages/f15/sugar-jukebox/po/ha.po | 
+ | [he](/f15/language/he) | 0 | 7 | 0.0 | /mnt/stockage/packages/f15/sugar-jukebox/po/he.po | 
+ | [ht](/f15/language/ht) | 0 | 7 | 0.0 | /mnt/stockage/packages/f15/sugar-jukebox/po/ht.po | 
+ | [ig](/f15/language/ig) | 0 | 7 | 0.0 | /mnt/stockage/packages/f15/sugar-jukebox/po/ig.po | 
+ | [is](/f15/language/is) | 0 | 7 | 0.0 | /mnt/stockage/packages/f15/sugar-jukebox/po/is.po | 
+ | [kos](/f15/language/kos) | 0 | 7 | 0.0 | /mnt/stockage/packages/f15/sugar-jukebox/po/kos.po | 
+ | [mi](/f15/language/mi) | 0 | 7 | 0.0 | /mnt/stockage/packages/f15/sugar-jukebox/po/mi.po | 
+ | [mk](/f15/language/mk) | 0 | 7 | 0.0 | /mnt/stockage/packages/f15/sugar-jukebox/po/mk.po | 
+ | [ml](/f15/language/ml) | 0 | 7 | 0.0 | /mnt/stockage/packages/f15/sugar-jukebox/po/ml.po | 
+ | [mr](/f15/language/mr) | 0 | 7 | 0.0 | /mnt/stockage/packages/f15/sugar-jukebox/po/mr.po | 
+ | [ms](/f15/language/ms) | 0 | 7 | 0.0 | /mnt/stockage/packages/f15/sugar-jukebox/po/ms.po | 
+ | [pa](/f15/language/pa) | 0 | 7 | 0.0 | /mnt/stockage/packages/f15/sugar-jukebox/po/pa.po | 
+ | [qu](/f15/language/qu) | 0 | 7 | 0.0 | /mnt/stockage/packages/f15/sugar-jukebox/po/qu.po | 
+ | [ro](/f15/language/ro) | 0 | 7 | 0.0 | /mnt/stockage/packages/f15/sugar-jukebox/po/ro.po | 
+ | [sd](/f15/language/sd) | 0 | 7 | 0.0 | /mnt/stockage/packages/f15/sugar-jukebox/po/sd.po | 
+ | [sk](/f15/language/sk) | 0 | 7 | 0.0 | /mnt/stockage/packages/f15/sugar-jukebox/po/sk.po | 
+ | [sw](/f15/language/sw) | 0 | 7 | 0.0 | /mnt/stockage/packages/f15/sugar-jukebox/po/sw.po | 
+ | [th](/f15/language/th) | 0 | 7 | 0.0 | /mnt/stockage/packages/f15/sugar-jukebox/po/th.po | 
+ | [tpi](/f15/language/tpi) | 0 | 7 | 0.0 | /mnt/stockage/packages/f15/sugar-jukebox/po/tpi.po | 
+ | [tvl](/f15/language/tvl) | 0 | 7 | 0.0 | /mnt/stockage/packages/f15/sugar-jukebox/po/tvl.po | 
+ | [ug](/f15/language/ug) | 0 | 7 | 0.0 | /mnt/stockage/packages/f15/sugar-jukebox/po/ug.po | 
+ | [ur](/f15/language/ur) | 0 | 7 | 0.0 | /mnt/stockage/packages/f15/sugar-jukebox/po/ur.po | 
+ | [wa](/f15/language/wa) | 0 | 7 | 0.0 | /mnt/stockage/packages/f15/sugar-jukebox/po/wa.po | 
+ | [yo](/f15/language/yo) | 0 | 7 | 0.0 | /mnt/stockage/packages/f15/sugar-jukebox/po/yo.po | 
 {.sortable}
 
 

@@ -44,19 +44,19 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [alacarte]({{< ref "/f43/package/alacarte.md" >}}) | 42 | 42 | 100.0 | Bodo <brx@li.org> | 
- | [pidgin]({{< ref "/f43/package/pidgin.md" >}}) | 13140 | 13994 | 93.9 | Bodo (http://app.transifex.com/pidgin/pidgin/language/brx/) | 
- | [vlc]({{< ref "/f43/package/vlc.md" >}}) | 29997 | 34814 | 86.2 | Bodo (https://app.transifex.com/yaron/teams/16553/brx/) | 
- | [gnucash]({{< ref "/f43/package/gnucash.md" >}}) | 22060 | 39578 | 55.7 |  | 
- | [inkscape]({{< ref "/f43/package/inkscape.md" >}}) | 16790 | 51528 | 32.6 | Hindi <Indlinux> | 
- | [libreoffice]({{< ref "/f43/package/libreoffice.md" >}}) | 36722 | 178000 | 20.6 | LANGUAGE <LL@li.org> | 
- | [mypaint]({{< ref "/f43/package/mypaint.md" >}}) | 283 | 6381 | 4.4 | Bodo <https://hosted.weblate.org/projects/mypaint/mypaint/brx/> | 
- | [android-tools]({{< ref "/f43/package/android-tools.md" >}}) | 1 | 12195 | 0.0 | Bodo (http://www.transifex.com/projects/p/fedora/language/brx/) | 
- | [policycoreutils]({{< ref "/f43/package/policycoreutils.md" >}}) | 1 | 12284 | 0.0 | Bodo (http://www.transifex.com/projects/p/fedora/language/brx/) | 
- | [fonts-tweak-tool]({{< ref "/f43/package/fonts-tweak-tool.md" >}}) | 0 | 195 | 0.0 | Bodo | 
- | [initial-setup]({{< ref "/f43/package/initial-setup.md" >}}) | 0 | 33 | 0.0 | Bodo | 
- | [libvirt-sandbox]({{< ref "/f43/package/libvirt-sandbox.md" >}}) | 0 | 617 | 0.0 | Bodo (http://www.transifex.com/projects/p/fedora/language/brx/) | 
- | [python-meh]({{< ref "/f43/package/python-meh.md" >}}) | 0 | 109 | 0.0 | Bodo | 
+ | [alacarte](/f43/package/alacarte) | 42 | 42 | 100.0 | Bodo <brx@li.org> | 
+ | [pidgin](/f43/package/pidgin) | 13140 | 13994 | 93.9 | Bodo (http://app.transifex.com/pidgin/pidgin/language/brx/) | 
+ | [vlc](/f43/package/vlc) | 29997 | 34814 | 86.2 | Bodo (https://app.transifex.com/yaron/teams/16553/brx/) | 
+ | [gnucash](/f43/package/gnucash) | 22060 | 39578 | 55.7 |  | 
+ | [inkscape](/f43/package/inkscape) | 16790 | 51528 | 32.6 | Hindi <Indlinux> | 
+ | [libreoffice](/f43/package/libreoffice) | 36722 | 178000 | 20.6 | LANGUAGE <LL@li.org> | 
+ | [mypaint](/f43/package/mypaint) | 283 | 6381 | 4.4 | Bodo <https://hosted.weblate.org/projects/mypaint/mypaint/brx/> | 
+ | [android-tools](/f43/package/android-tools) | 1 | 12195 | 0.0 | Bodo (http://www.transifex.com/projects/p/fedora/language/brx/) | 
+ | [policycoreutils](/f43/package/policycoreutils) | 1 | 12284 | 0.0 | Bodo (http://www.transifex.com/projects/p/fedora/language/brx/) | 
+ | [fonts-tweak-tool](/f43/package/fonts-tweak-tool) | 0 | 195 | 0.0 | Bodo | 
+ | [initial-setup](/f43/package/initial-setup) | 0 | 33 | 0.0 | Bodo | 
+ | [libvirt-sandbox](/f43/package/libvirt-sandbox) | 0 | 617 | 0.0 | Bodo (http://www.transifex.com/projects/p/fedora/language/brx/) | 
+ | [python-meh](/f43/package/python-meh) | 0 | 109 | 0.0 | Bodo | 
 {.sortable}
 
 
@@ -68,8 +68,8 @@ We use the po metadata to get the language code and the team, but sometimes it f
 
 | Package | Lang from file path/name | polib error | Team |
 |---------|--------------------------|-------------|------|
- | [gnucash]({{< ref "/f43/package/gnucash.md" >}}) | /mnt/stockage/packages/f43/gnucash/gnucash-5.14/po/._brx.po | error-unicode |  | 
- | [gnucash]({{< ref "/f43/package/gnucash.md" >}}) | /mnt/stockage/packages/f43/gnucash/gnucash-5.14/po/glossary/._brx.po | error-unicode |  | 
+ | [gnucash](/f43/package/gnucash) | /mnt/stockage/packages/f43/gnucash/gnucash-5.14/po/._brx.po | error-unicode |  | 
+ | [gnucash](/f43/package/gnucash) | /mnt/stockage/packages/f43/gnucash/gnucash-5.14/po/glossary/._brx.po | error-unicode |  | 
 {.sortable}
 
 
@@ -80,8 +80,8 @@ We use the calcstats from translate toolkit to get the translation progress, but
 
 | Package | Lang from file path/name | Team |
 |---------|--------------------------|------|
- | [gnucash]({{< ref "/f43/package/gnucash.md" >}}) | /mnt/stockage/packages/f43/gnucash/gnucash-5.14/po/._brx.po |  | 
- | [gnucash]({{< ref "/f43/package/gnucash.md" >}}) | /mnt/stockage/packages/f43/gnucash/gnucash-5.14/po/glossary/._brx.po |  | 
+ | [gnucash](/f43/package/gnucash) | /mnt/stockage/packages/f43/gnucash/gnucash-5.14/po/._brx.po |  | 
+ | [gnucash](/f43/package/gnucash) | /mnt/stockage/packages/f43/gnucash/gnucash-5.14/po/glossary/._brx.po |  | 
 {.sortable}
 
 

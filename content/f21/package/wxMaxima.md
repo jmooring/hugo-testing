@@ -18,21 +18,21 @@ The package wxMaxima (version 14.09.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f21/language/ca.md" >}}) | 2887 | 2887 | 100.0 | /mnt/stockage/packages/f21/wxMaxima/locales/ca.po | 
- | [de]({{< ref "/f21/language/de.md" >}}) | 2887 | 2887 | 100.0 | /mnt/stockage/packages/f21/wxMaxima/locales/de.po | 
- | [es]({{< ref "/f21/language/es.md" >}}) | 2887 | 2887 | 100.0 | /mnt/stockage/packages/f21/wxMaxima/locales/es.po | 
- | [fr]({{< ref "/f21/language/fr.md" >}}) | 2857 | 2857 | 100.0 | /mnt/stockage/packages/f21/wxMaxima/locales/._fr.po/mnt/stockage/packages/f21/wxMaxima/locales/fr.po | 
- | [gl]({{< ref "/f21/language/gl.md" >}}) | 2908 | 2908 | 100.0 | /mnt/stockage/packages/f21/wxMaxima/locales/gl.po | 
- | [it]({{< ref "/f21/language/it.md" >}}) | 2887 | 2887 | 100.0 | /mnt/stockage/packages/f21/wxMaxima/locales/it.po | 
- | [pt_BR]({{< ref "/f21/language/pt_BR.md" >}}) | 2909 | 2909 | 100.0 | /mnt/stockage/packages/f21/wxMaxima/locales/pt_BR.po | 
- | [zh_Hans]({{< ref "/f21/language/zh_Hans.md" >}}) | 2934 | 2934 | 100.0 | /mnt/stockage/packages/f21/wxMaxima/locales/zh_CN.po | 
- | [zh_Hant]({{< ref "/f21/language/zh_Hant.md" >}}) | 2897 | 2897 | 100.0 | /mnt/stockage/packages/f21/wxMaxima/locales/zh_TW.po | 
- | [pl]({{< ref "/f21/language/pl.md" >}}) | 2837 | 2887 | 98.3 | /mnt/stockage/packages/f21/wxMaxima/locales/pl.po | 
- | [el]({{< ref "/f21/language/el.md" >}}) | 2647 | 2887 | 91.7 | /mnt/stockage/packages/f21/wxMaxima/locales/el.po | 
- | [cs]({{< ref "/f21/language/cs.md" >}}) | 2520 | 2887 | 87.3 | /mnt/stockage/packages/f21/wxMaxima/locales/cs.po | 
- | [ja]({{< ref "/f21/language/ja.md" >}}) | 2352 | 2887 | 81.5 | /mnt/stockage/packages/f21/wxMaxima/locales/ja.po | 
- | [da]({{< ref "/f21/language/da.md" >}}) | 2169 | 2887 | 75.1 | /mnt/stockage/packages/f21/wxMaxima/locales/da.po | 
- | [ru]({{< ref "/f21/language/ru.md" >}}) | 1993 | 2887 | 69.0 | /mnt/stockage/packages/f21/wxMaxima/locales/ru.po | 
+ | [ca](/f21/language/ca) | 2887 | 2887 | 100.0 | /mnt/stockage/packages/f21/wxMaxima/locales/ca.po | 
+ | [de](/f21/language/de) | 2887 | 2887 | 100.0 | /mnt/stockage/packages/f21/wxMaxima/locales/de.po | 
+ | [es](/f21/language/es) | 2887 | 2887 | 100.0 | /mnt/stockage/packages/f21/wxMaxima/locales/es.po | 
+ | [fr](/f21/language/fr) | 2857 | 2857 | 100.0 | /mnt/stockage/packages/f21/wxMaxima/locales/._fr.po/mnt/stockage/packages/f21/wxMaxima/locales/fr.po | 
+ | [gl](/f21/language/gl) | 2908 | 2908 | 100.0 | /mnt/stockage/packages/f21/wxMaxima/locales/gl.po | 
+ | [it](/f21/language/it) | 2887 | 2887 | 100.0 | /mnt/stockage/packages/f21/wxMaxima/locales/it.po | 
+ | [pt_BR](/f21/language/pt_BR) | 2909 | 2909 | 100.0 | /mnt/stockage/packages/f21/wxMaxima/locales/pt_BR.po | 
+ | [zh_Hans](/f21/language/zh_Hans) | 2934 | 2934 | 100.0 | /mnt/stockage/packages/f21/wxMaxima/locales/zh_CN.po | 
+ | [zh_Hant](/f21/language/zh_Hant) | 2897 | 2897 | 100.0 | /mnt/stockage/packages/f21/wxMaxima/locales/zh_TW.po | 
+ | [pl](/f21/language/pl) | 2837 | 2887 | 98.3 | /mnt/stockage/packages/f21/wxMaxima/locales/pl.po | 
+ | [el](/f21/language/el) | 2647 | 2887 | 91.7 | /mnt/stockage/packages/f21/wxMaxima/locales/el.po | 
+ | [cs](/f21/language/cs) | 2520 | 2887 | 87.3 | /mnt/stockage/packages/f21/wxMaxima/locales/cs.po | 
+ | [ja](/f21/language/ja) | 2352 | 2887 | 81.5 | /mnt/stockage/packages/f21/wxMaxima/locales/ja.po | 
+ | [da](/f21/language/da) | 2169 | 2887 | 75.1 | /mnt/stockage/packages/f21/wxMaxima/locales/da.po | 
+ | [ru](/f21/language/ru) | 1993 | 2887 | 69.0 | /mnt/stockage/packages/f21/wxMaxima/locales/ru.po | 
 {.sortable}
 
 

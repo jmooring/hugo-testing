@@ -18,7 +18,7 @@ The package python-oslo-utils (version 1.0.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [en_GB]({{< ref "/f22/language/en_GB.md" >}}) | 44 | 44 | 100.0 | /mnt/stockage/packages/f22/python-oslo-utils/oslo.utils/locale/en_GB/LC_MESSAGES/oslo.utils-log-critical.po/mnt/stockage/packages/f22/python-oslo-utils/oslo.utils/locale/en_GB/LC_MESSAGES/oslo.utils-log-error.po/mnt/stockage/packages/f22/python-oslo-utils/oslo.utils/locale/en_GB/LC_MESSAGES/oslo.utils-log-info.po/mnt/stockage/packages/f22/python-oslo-utils/oslo.utils/locale/en_GB/LC_MESSAGES/oslo.utils-log-warning.po/mnt/stockage/packages/f22/python-oslo-utils/oslo.utils/locale/en_GB/LC_MESSAGES/oslo.utils.po | 
+ | [en_GB](/f22/language/en_GB) | 44 | 44 | 100.0 | /mnt/stockage/packages/f22/python-oslo-utils/oslo.utils/locale/en_GB/LC_MESSAGES/oslo.utils-log-critical.po/mnt/stockage/packages/f22/python-oslo-utils/oslo.utils/locale/en_GB/LC_MESSAGES/oslo.utils-log-error.po/mnt/stockage/packages/f22/python-oslo-utils/oslo.utils/locale/en_GB/LC_MESSAGES/oslo.utils-log-info.po/mnt/stockage/packages/f22/python-oslo-utils/oslo.utils/locale/en_GB/LC_MESSAGES/oslo.utils-log-warning.po/mnt/stockage/packages/f22/python-oslo-utils/oslo.utils/locale/en_GB/LC_MESSAGES/oslo.utils.po | 
 {.sortable}
 
 

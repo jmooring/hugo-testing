@@ -18,11 +18,11 @@ The package openscad (version 2015.03.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f26/language/de.md" >}}) | 624 | 624 | 100.0 | /mnt/stockage/packages/f26/openscad/locale/de.po | 
- | [fr]({{< ref "/f26/language/fr.md" >}}) | 624 | 624 | 100.0 | /mnt/stockage/packages/f26/openscad/locale/fr.po | 
- | [ru]({{< ref "/f26/language/ru.md" >}}) | 624 | 624 | 100.0 | /mnt/stockage/packages/f26/openscad/locale/ru.po | 
- | [cs]({{< ref "/f26/language/cs.md" >}}) | 604 | 624 | 96.8 | /mnt/stockage/packages/f26/openscad/locale/cs.po | 
- | [es]({{< ref "/f26/language/es.md" >}}) | 515 | 622 | 82.8 | /mnt/stockage/packages/f26/openscad/locale/es.po | 
+ | [de](/f26/language/de) | 624 | 624 | 100.0 | /mnt/stockage/packages/f26/openscad/locale/de.po | 
+ | [fr](/f26/language/fr) | 624 | 624 | 100.0 | /mnt/stockage/packages/f26/openscad/locale/fr.po | 
+ | [ru](/f26/language/ru) | 624 | 624 | 100.0 | /mnt/stockage/packages/f26/openscad/locale/ru.po | 
+ | [cs](/f26/language/cs) | 604 | 624 | 96.8 | /mnt/stockage/packages/f26/openscad/locale/cs.po | 
+ | [es](/f26/language/es) | 515 | 622 | 82.8 | /mnt/stockage/packages/f26/openscad/locale/es.po | 
 {.sortable}
 
 

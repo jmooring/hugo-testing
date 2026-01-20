@@ -18,99 +18,99 @@ The package olpc-switch-desktop (version 0.8):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f14/language/ar.md" >}}) | 158 | 158 | 100.0 | /mnt/stockage/packages/f14/olpc-switch-desktop/po/ar.po | 
- | [bn]({{< ref "/f14/language/bn.md" >}}) | 158 | 158 | 100.0 | /mnt/stockage/packages/f14/olpc-switch-desktop/po/bn.po | 
- | [da]({{< ref "/f14/language/da.md" >}}) | 158 | 158 | 100.0 | /mnt/stockage/packages/f14/olpc-switch-desktop/po/da.po | 
- | [de]({{< ref "/f14/language/de.md" >}}) | 158 | 158 | 100.0 | /mnt/stockage/packages/f14/olpc-switch-desktop/po/de.po | 
- | [en]({{< ref "/f14/language/en.md" >}}) | 158 | 158 | 100.0 | /mnt/stockage/packages/f14/olpc-switch-desktop/po/en.po | 
- | [en_US]({{< ref "/f14/language/en_US.md" >}}) | 158 | 158 | 100.0 | /mnt/stockage/packages/f14/olpc-switch-desktop/po/en_US.po | 
- | [es]({{< ref "/f14/language/es.md" >}}) | 158 | 158 | 100.0 | /mnt/stockage/packages/f14/olpc-switch-desktop/po/es.po | 
- | [fr]({{< ref "/f14/language/fr.md" >}}) | 158 | 158 | 100.0 | /mnt/stockage/packages/f14/olpc-switch-desktop/po/fr.po | 
- | [hi]({{< ref "/f14/language/hi.md" >}}) | 158 | 158 | 100.0 | /mnt/stockage/packages/f14/olpc-switch-desktop/po/hi.po | 
- | [it]({{< ref "/f14/language/it.md" >}}) | 158 | 158 | 100.0 | /mnt/stockage/packages/f14/olpc-switch-desktop/po/it.po | 
- | [ja]({{< ref "/f14/language/ja.md" >}}) | 158 | 158 | 100.0 | /mnt/stockage/packages/f14/olpc-switch-desktop/po/ja.po | 
- | [nl]({{< ref "/f14/language/nl.md" >}}) | 158 | 158 | 100.0 | /mnt/stockage/packages/f14/olpc-switch-desktop/po/nl.po | 
- | [si]({{< ref "/f14/language/si.md" >}}) | 158 | 158 | 100.0 | /mnt/stockage/packages/f14/olpc-switch-desktop/po/si.po | 
- | [ta]({{< ref "/f14/language/ta.md" >}}) | 158 | 158 | 100.0 | /mnt/stockage/packages/f14/olpc-switch-desktop/po/ta.po | 
- | [ur]({{< ref "/f14/language/ur.md" >}}) | 158 | 158 | 100.0 | /mnt/stockage/packages/f14/olpc-switch-desktop/po/ur.po | 
- | [vi]({{< ref "/f14/language/vi.md" >}}) | 158 | 158 | 100.0 | /mnt/stockage/packages/f14/olpc-switch-desktop/po/vi.po | 
- | [zh_Hant]({{< ref "/f14/language/zh_Hant.md" >}}) | 158 | 158 | 100.0 | /mnt/stockage/packages/f14/olpc-switch-desktop/po/zh_TW.po | 
- | [bg]({{< ref "/f14/language/bg.md" >}}) | 153 | 158 | 96.8 | /mnt/stockage/packages/f14/olpc-switch-desktop/po/bg.po | 
- | [ca]({{< ref "/f14/language/ca.md" >}}) | 153 | 158 | 96.8 | /mnt/stockage/packages/f14/olpc-switch-desktop/po/ca.po | 
- | [el]({{< ref "/f14/language/el.md" >}}) | 153 | 158 | 96.8 | /mnt/stockage/packages/f14/olpc-switch-desktop/po/el.po | 
- | [fil]({{< ref "/f14/language/fil.md" >}}) | 153 | 158 | 96.8 | /mnt/stockage/packages/f14/olpc-switch-desktop/po/fil.po | 
- | [mg]({{< ref "/f14/language/mg.md" >}}) | 153 | 158 | 96.8 | /mnt/stockage/packages/f14/olpc-switch-desktop/po/mg.po | 
- | [prs]({{< ref "/f14/language/prs.md" >}}) | 153 | 158 | 96.8 | /mnt/stockage/packages/f14/olpc-switch-desktop/po/fa_AF.po | 
- | [ps]({{< ref "/f14/language/ps.md" >}}) | 153 | 158 | 96.8 | /mnt/stockage/packages/f14/olpc-switch-desktop/po/ps.po | 
- | [pt]({{< ref "/f14/language/pt.md" >}}) | 153 | 158 | 96.8 | /mnt/stockage/packages/f14/olpc-switch-desktop/po/pt.po | 
- | [pt_BR]({{< ref "/f14/language/pt_BR.md" >}}) | 153 | 158 | 96.8 | /mnt/stockage/packages/f14/olpc-switch-desktop/po/pt_BR.po | 
- | [ru]({{< ref "/f14/language/ru.md" >}}) | 153 | 158 | 96.8 | /mnt/stockage/packages/f14/olpc-switch-desktop/po/ru.po | 
- | [sl]({{< ref "/f14/language/sl.md" >}}) | 153 | 158 | 96.8 | /mnt/stockage/packages/f14/olpc-switch-desktop/po/sl.po | 
- | [sq]({{< ref "/f14/language/sq.md" >}}) | 153 | 158 | 96.8 | /mnt/stockage/packages/f14/olpc-switch-desktop/po/sq.po | 
- | [zh_Hant_HK]({{< ref "/f14/language/zh_Hant_HK.md" >}}) | 126 | 158 | 79.7 | /mnt/stockage/packages/f14/olpc-switch-desktop/po/zh_HK.po | 
- | [cs]({{< ref "/f14/language/cs.md" >}}) | 117 | 158 | 74.1 | /mnt/stockage/packages/f14/olpc-switch-desktop/po/cs.po | 
- | [mn]({{< ref "/f14/language/mn.md" >}}) | 56 | 158 | 35.4 | /mnt/stockage/packages/f14/olpc-switch-desktop/po/mn.po | 
- | [km]({{< ref "/f14/language/km.md" >}}) | 18 | 158 | 11.4 | /mnt/stockage/packages/f14/olpc-switch-desktop/po/km.po | 
- | [hu]({{< ref "/f14/language/hu.md" >}}) | 17 | 158 | 10.8 | /mnt/stockage/packages/f14/olpc-switch-desktop/po/hu.po | 
- | [af]({{< ref "/f14/language/af.md" >}}) | 0 | 158 | 0.0 | /mnt/stockage/packages/f14/olpc-switch-desktop/po/af.po | 
- | [am]({{< ref "/f14/language/am.md" >}}) | 0 | 158 | 0.0 | /mnt/stockage/packages/f14/olpc-switch-desktop/po/am.po | 
- | [ay]({{< ref "/f14/language/ay.md" >}}) | 0 | 158 | 0.0 | /mnt/stockage/packages/f14/olpc-switch-desktop/po/ay.po | 
- | [bi]({{< ref "/f14/language/bi.md" >}}) | 0 | 158 | 0.0 | /mnt/stockage/packages/f14/olpc-switch-desktop/po/bi.po | 
- | [bn_IN]({{< ref "/f14/language/bn_IN.md" >}}) | 0 | 158 | 0.0 | /mnt/stockage/packages/f14/olpc-switch-desktop/po/bn_IN.po | 
- | [cpp]({{< ref "/f14/language/cpp.md" >}}) | 0 | 158 | 0.0 | /mnt/stockage/packages/f14/olpc-switch-desktop/po/cpp.po | 
- | [dz]({{< ref "/f14/language/dz.md" >}}) | 0 | 158 | 0.0 | /mnt/stockage/packages/f14/olpc-switch-desktop/po/dz.po | 
- | [en_ZA]({{< ref "/f14/language/en_ZA.md" >}}) | 0 | 158 | 0.0 | /mnt/stockage/packages/f14/olpc-switch-desktop/po/en_ZA.po | 
- | [error]({{< ref "/f14/language/error.md" >}}) | 0 | 316 | 0.0 | /mnt/stockage/packages/f14/olpc-switch-desktop/po/mvo.po/mnt/stockage/packages/f14/olpc-switch-desktop/po/pis.po | 
- | [et]({{< ref "/f14/language/et.md" >}}) | 0 | 158 | 0.0 | /mnt/stockage/packages/f14/olpc-switch-desktop/po/et.po | 
- | [eu]({{< ref "/f14/language/eu.md" >}}) | 0 | 158 | 0.0 | /mnt/stockage/packages/f14/olpc-switch-desktop/po/eu.po | 
- | [ff]({{< ref "/f14/language/ff.md" >}}) | 0 | 158 | 0.0 | /mnt/stockage/packages/f14/olpc-switch-desktop/po/ff.po | 
- | [fi]({{< ref "/f14/language/fi.md" >}}) | 0 | 158 | 0.0 | /mnt/stockage/packages/f14/olpc-switch-desktop/po/fi.po | 
- | [fr_CA]({{< ref "/f14/language/fr_CA.md" >}}) | 0 | 158 | 0.0 | /mnt/stockage/packages/f14/olpc-switch-desktop/po/fr_CA.po | 
- | [fur]({{< ref "/f14/language/fur.md" >}}) | 0 | 158 | 0.0 | /mnt/stockage/packages/f14/olpc-switch-desktop/po/fur.po | 
- | [gl]({{< ref "/f14/language/gl.md" >}}) | 0 | 158 | 0.0 | /mnt/stockage/packages/f14/olpc-switch-desktop/po/gl.po | 
- | [gu]({{< ref "/f14/language/gu.md" >}}) | 0 | 158 | 0.0 | /mnt/stockage/packages/f14/olpc-switch-desktop/po/gu.po | 
- | [ha]({{< ref "/f14/language/ha.md" >}}) | 0 | 158 | 0.0 | /mnt/stockage/packages/f14/olpc-switch-desktop/po/ha.po | 
- | [he]({{< ref "/f14/language/he.md" >}}) | 0 | 158 | 0.0 | /mnt/stockage/packages/f14/olpc-switch-desktop/po/he.po | 
- | [hr]({{< ref "/f14/language/hr.md" >}}) | 0 | 158 | 0.0 | /mnt/stockage/packages/f14/olpc-switch-desktop/po/hr.po | 
- | [ht]({{< ref "/f14/language/ht.md" >}}) | 0 | 158 | 0.0 | /mnt/stockage/packages/f14/olpc-switch-desktop/po/ht.po | 
- | [hy]({{< ref "/f14/language/hy.md" >}}) | 0 | 158 | 0.0 | /mnt/stockage/packages/f14/olpc-switch-desktop/po/hy.po | 
- | [id]({{< ref "/f14/language/id.md" >}}) | 0 | 158 | 0.0 | /mnt/stockage/packages/f14/olpc-switch-desktop/po/id.po | 
- | [ig]({{< ref "/f14/language/ig.md" >}}) | 0 | 158 | 0.0 | /mnt/stockage/packages/f14/olpc-switch-desktop/po/ig.po | 
- | [is]({{< ref "/f14/language/is.md" >}}) | 0 | 158 | 0.0 | /mnt/stockage/packages/f14/olpc-switch-desktop/po/is.po | 
- | [ka]({{< ref "/f14/language/ka.md" >}}) | 0 | 158 | 0.0 | /mnt/stockage/packages/f14/olpc-switch-desktop/po/ka.po | 
- | [kn]({{< ref "/f14/language/kn.md" >}}) | 0 | 158 | 0.0 | /mnt/stockage/packages/f14/olpc-switch-desktop/po/kn.po | 
- | [ko]({{< ref "/f14/language/ko.md" >}}) | 0 | 158 | 0.0 | /mnt/stockage/packages/f14/olpc-switch-desktop/po/ko.po | 
- | [mi]({{< ref "/f14/language/mi.md" >}}) | 0 | 158 | 0.0 | /mnt/stockage/packages/f14/olpc-switch-desktop/po/mi.po | 
- | [mk]({{< ref "/f14/language/mk.md" >}}) | 0 | 158 | 0.0 | /mnt/stockage/packages/f14/olpc-switch-desktop/po/mk.po | 
- | [ml]({{< ref "/f14/language/ml.md" >}}) | 0 | 158 | 0.0 | /mnt/stockage/packages/f14/olpc-switch-desktop/po/ml.po | 
- | [mr]({{< ref "/f14/language/mr.md" >}}) | 0 | 158 | 0.0 | /mnt/stockage/packages/f14/olpc-switch-desktop/po/mr.po | 
- | [ms]({{< ref "/f14/language/ms.md" >}}) | 0 | 158 | 0.0 | /mnt/stockage/packages/f14/olpc-switch-desktop/po/ms.po | 
- | [mt]({{< ref "/f14/language/mt.md" >}}) | 0 | 158 | 0.0 | /mnt/stockage/packages/f14/olpc-switch-desktop/po/mt.po | 
- | [na]({{< ref "/f14/language/na.md" >}}) | 0 | 158 | 0.0 | /mnt/stockage/packages/f14/olpc-switch-desktop/po/na.po | 
- | [nb_NO]({{< ref "/f14/language/nb_NO.md" >}}) | 0 | 316 | 0.0 | /mnt/stockage/packages/f14/olpc-switch-desktop/po/no.po/mnt/stockage/packages/f14/olpc-switch-desktop/po/nb.po | 
- | [ne]({{< ref "/f14/language/ne.md" >}}) | 0 | 158 | 0.0 | /mnt/stockage/packages/f14/olpc-switch-desktop/po/ne.po | 
- | [pa]({{< ref "/f14/language/pa.md" >}}) | 0 | 158 | 0.0 | /mnt/stockage/packages/f14/olpc-switch-desktop/po/pa.po | 
- | [pap]({{< ref "/f14/language/pap.md" >}}) | 0 | 158 | 0.0 | /mnt/stockage/packages/f14/olpc-switch-desktop/po/pap.po | 
- | [pl]({{< ref "/f14/language/pl.md" >}}) | 0 | 158 | 0.0 | /mnt/stockage/packages/f14/olpc-switch-desktop/po/pl.po | 
- | [qu]({{< ref "/f14/language/qu.md" >}}) | 0 | 158 | 0.0 | /mnt/stockage/packages/f14/olpc-switch-desktop/po/qu.po | 
- | [ro]({{< ref "/f14/language/ro.md" >}}) | 0 | 158 | 0.0 | /mnt/stockage/packages/f14/olpc-switch-desktop/po/ro.po | 
- | [rw]({{< ref "/f14/language/rw.md" >}}) | 0 | 158 | 0.0 | /mnt/stockage/packages/f14/olpc-switch-desktop/po/rw.po | 
- | [sd]({{< ref "/f14/language/sd.md" >}}) | 0 | 158 | 0.0 | /mnt/stockage/packages/f14/olpc-switch-desktop/po/sd.po | 
- | [sk]({{< ref "/f14/language/sk.md" >}}) | 0 | 158 | 0.0 | /mnt/stockage/packages/f14/olpc-switch-desktop/po/sk.po | 
- | [sr]({{< ref "/f14/language/sr.md" >}}) | 0 | 158 | 0.0 | /mnt/stockage/packages/f14/olpc-switch-desktop/po/sr.po | 
- | [st]({{< ref "/f14/language/st.md" >}}) | 0 | 158 | 0.0 | /mnt/stockage/packages/f14/olpc-switch-desktop/po/st.po | 
- | [sv]({{< ref "/f14/language/sv.md" >}}) | 0 | 158 | 0.0 | /mnt/stockage/packages/f14/olpc-switch-desktop/po/sv.po | 
- | [sw]({{< ref "/f14/language/sw.md" >}}) | 0 | 158 | 0.0 | /mnt/stockage/packages/f14/olpc-switch-desktop/po/sw.po | 
- | [te]({{< ref "/f14/language/te.md" >}}) | 0 | 158 | 0.0 | /mnt/stockage/packages/f14/olpc-switch-desktop/po/te.po | 
- | [th]({{< ref "/f14/language/th.md" >}}) | 0 | 158 | 0.0 | /mnt/stockage/packages/f14/olpc-switch-desktop/po/th.po | 
- | [tpi]({{< ref "/f14/language/tpi.md" >}}) | 0 | 158 | 0.0 | /mnt/stockage/packages/f14/olpc-switch-desktop/po/tpi.po | 
- | [tr]({{< ref "/f14/language/tr.md" >}}) | 0 | 158 | 0.0 | /mnt/stockage/packages/f14/olpc-switch-desktop/po/tr.po | 
- | [ug]({{< ref "/f14/language/ug.md" >}}) | 0 | 158 | 0.0 | /mnt/stockage/packages/f14/olpc-switch-desktop/po/ug.po | 
- | [uk]({{< ref "/f14/language/uk.md" >}}) | 0 | 158 | 0.0 | /mnt/stockage/packages/f14/olpc-switch-desktop/po/uk.po | 
- | [wa]({{< ref "/f14/language/wa.md" >}}) | 0 | 158 | 0.0 | /mnt/stockage/packages/f14/olpc-switch-desktop/po/wa.po | 
- | [wo]({{< ref "/f14/language/wo.md" >}}) | 0 | 158 | 0.0 | /mnt/stockage/packages/f14/olpc-switch-desktop/po/wo.po | 
- | [yo]({{< ref "/f14/language/yo.md" >}}) | 0 | 158 | 0.0 | /mnt/stockage/packages/f14/olpc-switch-desktop/po/yo.po | 
- | [zh_Hans]({{< ref "/f14/language/zh_Hans.md" >}}) | 0 | 158 | 0.0 | /mnt/stockage/packages/f14/olpc-switch-desktop/po/zh_CN.po | 
+ | [ar](/f14/language/ar) | 158 | 158 | 100.0 | /mnt/stockage/packages/f14/olpc-switch-desktop/po/ar.po | 
+ | [bn](/f14/language/bn) | 158 | 158 | 100.0 | /mnt/stockage/packages/f14/olpc-switch-desktop/po/bn.po | 
+ | [da](/f14/language/da) | 158 | 158 | 100.0 | /mnt/stockage/packages/f14/olpc-switch-desktop/po/da.po | 
+ | [de](/f14/language/de) | 158 | 158 | 100.0 | /mnt/stockage/packages/f14/olpc-switch-desktop/po/de.po | 
+ | [en](/f14/language/en) | 158 | 158 | 100.0 | /mnt/stockage/packages/f14/olpc-switch-desktop/po/en.po | 
+ | [en_US](/f14/language/en_US) | 158 | 158 | 100.0 | /mnt/stockage/packages/f14/olpc-switch-desktop/po/en_US.po | 
+ | [es](/f14/language/es) | 158 | 158 | 100.0 | /mnt/stockage/packages/f14/olpc-switch-desktop/po/es.po | 
+ | [fr](/f14/language/fr) | 158 | 158 | 100.0 | /mnt/stockage/packages/f14/olpc-switch-desktop/po/fr.po | 
+ | [hi](/f14/language/hi) | 158 | 158 | 100.0 | /mnt/stockage/packages/f14/olpc-switch-desktop/po/hi.po | 
+ | [it](/f14/language/it) | 158 | 158 | 100.0 | /mnt/stockage/packages/f14/olpc-switch-desktop/po/it.po | 
+ | [ja](/f14/language/ja) | 158 | 158 | 100.0 | /mnt/stockage/packages/f14/olpc-switch-desktop/po/ja.po | 
+ | [nl](/f14/language/nl) | 158 | 158 | 100.0 | /mnt/stockage/packages/f14/olpc-switch-desktop/po/nl.po | 
+ | [si](/f14/language/si) | 158 | 158 | 100.0 | /mnt/stockage/packages/f14/olpc-switch-desktop/po/si.po | 
+ | [ta](/f14/language/ta) | 158 | 158 | 100.0 | /mnt/stockage/packages/f14/olpc-switch-desktop/po/ta.po | 
+ | [ur](/f14/language/ur) | 158 | 158 | 100.0 | /mnt/stockage/packages/f14/olpc-switch-desktop/po/ur.po | 
+ | [vi](/f14/language/vi) | 158 | 158 | 100.0 | /mnt/stockage/packages/f14/olpc-switch-desktop/po/vi.po | 
+ | [zh_Hant](/f14/language/zh_Hant) | 158 | 158 | 100.0 | /mnt/stockage/packages/f14/olpc-switch-desktop/po/zh_TW.po | 
+ | [bg](/f14/language/bg) | 153 | 158 | 96.8 | /mnt/stockage/packages/f14/olpc-switch-desktop/po/bg.po | 
+ | [ca](/f14/language/ca) | 153 | 158 | 96.8 | /mnt/stockage/packages/f14/olpc-switch-desktop/po/ca.po | 
+ | [el](/f14/language/el) | 153 | 158 | 96.8 | /mnt/stockage/packages/f14/olpc-switch-desktop/po/el.po | 
+ | [fil](/f14/language/fil) | 153 | 158 | 96.8 | /mnt/stockage/packages/f14/olpc-switch-desktop/po/fil.po | 
+ | [mg](/f14/language/mg) | 153 | 158 | 96.8 | /mnt/stockage/packages/f14/olpc-switch-desktop/po/mg.po | 
+ | [prs](/f14/language/prs) | 153 | 158 | 96.8 | /mnt/stockage/packages/f14/olpc-switch-desktop/po/fa_AF.po | 
+ | [ps](/f14/language/ps) | 153 | 158 | 96.8 | /mnt/stockage/packages/f14/olpc-switch-desktop/po/ps.po | 
+ | [pt](/f14/language/pt) | 153 | 158 | 96.8 | /mnt/stockage/packages/f14/olpc-switch-desktop/po/pt.po | 
+ | [pt_BR](/f14/language/pt_BR) | 153 | 158 | 96.8 | /mnt/stockage/packages/f14/olpc-switch-desktop/po/pt_BR.po | 
+ | [ru](/f14/language/ru) | 153 | 158 | 96.8 | /mnt/stockage/packages/f14/olpc-switch-desktop/po/ru.po | 
+ | [sl](/f14/language/sl) | 153 | 158 | 96.8 | /mnt/stockage/packages/f14/olpc-switch-desktop/po/sl.po | 
+ | [sq](/f14/language/sq) | 153 | 158 | 96.8 | /mnt/stockage/packages/f14/olpc-switch-desktop/po/sq.po | 
+ | [zh_Hant_HK](/f14/language/zh_Hant_HK) | 126 | 158 | 79.7 | /mnt/stockage/packages/f14/olpc-switch-desktop/po/zh_HK.po | 
+ | [cs](/f14/language/cs) | 117 | 158 | 74.1 | /mnt/stockage/packages/f14/olpc-switch-desktop/po/cs.po | 
+ | [mn](/f14/language/mn) | 56 | 158 | 35.4 | /mnt/stockage/packages/f14/olpc-switch-desktop/po/mn.po | 
+ | [km](/f14/language/km) | 18 | 158 | 11.4 | /mnt/stockage/packages/f14/olpc-switch-desktop/po/km.po | 
+ | [hu](/f14/language/hu) | 17 | 158 | 10.8 | /mnt/stockage/packages/f14/olpc-switch-desktop/po/hu.po | 
+ | [af](/f14/language/af) | 0 | 158 | 0.0 | /mnt/stockage/packages/f14/olpc-switch-desktop/po/af.po | 
+ | [am](/f14/language/am) | 0 | 158 | 0.0 | /mnt/stockage/packages/f14/olpc-switch-desktop/po/am.po | 
+ | [ay](/f14/language/ay) | 0 | 158 | 0.0 | /mnt/stockage/packages/f14/olpc-switch-desktop/po/ay.po | 
+ | [bi](/f14/language/bi) | 0 | 158 | 0.0 | /mnt/stockage/packages/f14/olpc-switch-desktop/po/bi.po | 
+ | [bn_IN](/f14/language/bn_IN) | 0 | 158 | 0.0 | /mnt/stockage/packages/f14/olpc-switch-desktop/po/bn_IN.po | 
+ | [cpp](/f14/language/cpp) | 0 | 158 | 0.0 | /mnt/stockage/packages/f14/olpc-switch-desktop/po/cpp.po | 
+ | [dz](/f14/language/dz) | 0 | 158 | 0.0 | /mnt/stockage/packages/f14/olpc-switch-desktop/po/dz.po | 
+ | [en_ZA](/f14/language/en_ZA) | 0 | 158 | 0.0 | /mnt/stockage/packages/f14/olpc-switch-desktop/po/en_ZA.po | 
+ | [error](/f14/language/error) | 0 | 316 | 0.0 | /mnt/stockage/packages/f14/olpc-switch-desktop/po/mvo.po/mnt/stockage/packages/f14/olpc-switch-desktop/po/pis.po | 
+ | [et](/f14/language/et) | 0 | 158 | 0.0 | /mnt/stockage/packages/f14/olpc-switch-desktop/po/et.po | 
+ | [eu](/f14/language/eu) | 0 | 158 | 0.0 | /mnt/stockage/packages/f14/olpc-switch-desktop/po/eu.po | 
+ | [ff](/f14/language/ff) | 0 | 158 | 0.0 | /mnt/stockage/packages/f14/olpc-switch-desktop/po/ff.po | 
+ | [fi](/f14/language/fi) | 0 | 158 | 0.0 | /mnt/stockage/packages/f14/olpc-switch-desktop/po/fi.po | 
+ | [fr_CA](/f14/language/fr_CA) | 0 | 158 | 0.0 | /mnt/stockage/packages/f14/olpc-switch-desktop/po/fr_CA.po | 
+ | [fur](/f14/language/fur) | 0 | 158 | 0.0 | /mnt/stockage/packages/f14/olpc-switch-desktop/po/fur.po | 
+ | [gl](/f14/language/gl) | 0 | 158 | 0.0 | /mnt/stockage/packages/f14/olpc-switch-desktop/po/gl.po | 
+ | [gu](/f14/language/gu) | 0 | 158 | 0.0 | /mnt/stockage/packages/f14/olpc-switch-desktop/po/gu.po | 
+ | [ha](/f14/language/ha) | 0 | 158 | 0.0 | /mnt/stockage/packages/f14/olpc-switch-desktop/po/ha.po | 
+ | [he](/f14/language/he) | 0 | 158 | 0.0 | /mnt/stockage/packages/f14/olpc-switch-desktop/po/he.po | 
+ | [hr](/f14/language/hr) | 0 | 158 | 0.0 | /mnt/stockage/packages/f14/olpc-switch-desktop/po/hr.po | 
+ | [ht](/f14/language/ht) | 0 | 158 | 0.0 | /mnt/stockage/packages/f14/olpc-switch-desktop/po/ht.po | 
+ | [hy](/f14/language/hy) | 0 | 158 | 0.0 | /mnt/stockage/packages/f14/olpc-switch-desktop/po/hy.po | 
+ | [id](/f14/language/id) | 0 | 158 | 0.0 | /mnt/stockage/packages/f14/olpc-switch-desktop/po/id.po | 
+ | [ig](/f14/language/ig) | 0 | 158 | 0.0 | /mnt/stockage/packages/f14/olpc-switch-desktop/po/ig.po | 
+ | [is](/f14/language/is) | 0 | 158 | 0.0 | /mnt/stockage/packages/f14/olpc-switch-desktop/po/is.po | 
+ | [ka](/f14/language/ka) | 0 | 158 | 0.0 | /mnt/stockage/packages/f14/olpc-switch-desktop/po/ka.po | 
+ | [kn](/f14/language/kn) | 0 | 158 | 0.0 | /mnt/stockage/packages/f14/olpc-switch-desktop/po/kn.po | 
+ | [ko](/f14/language/ko) | 0 | 158 | 0.0 | /mnt/stockage/packages/f14/olpc-switch-desktop/po/ko.po | 
+ | [mi](/f14/language/mi) | 0 | 158 | 0.0 | /mnt/stockage/packages/f14/olpc-switch-desktop/po/mi.po | 
+ | [mk](/f14/language/mk) | 0 | 158 | 0.0 | /mnt/stockage/packages/f14/olpc-switch-desktop/po/mk.po | 
+ | [ml](/f14/language/ml) | 0 | 158 | 0.0 | /mnt/stockage/packages/f14/olpc-switch-desktop/po/ml.po | 
+ | [mr](/f14/language/mr) | 0 | 158 | 0.0 | /mnt/stockage/packages/f14/olpc-switch-desktop/po/mr.po | 
+ | [ms](/f14/language/ms) | 0 | 158 | 0.0 | /mnt/stockage/packages/f14/olpc-switch-desktop/po/ms.po | 
+ | [mt](/f14/language/mt) | 0 | 158 | 0.0 | /mnt/stockage/packages/f14/olpc-switch-desktop/po/mt.po | 
+ | [na](/f14/language/na) | 0 | 158 | 0.0 | /mnt/stockage/packages/f14/olpc-switch-desktop/po/na.po | 
+ | [nb_NO](/f14/language/nb_NO) | 0 | 316 | 0.0 | /mnt/stockage/packages/f14/olpc-switch-desktop/po/no.po/mnt/stockage/packages/f14/olpc-switch-desktop/po/nb.po | 
+ | [ne](/f14/language/ne) | 0 | 158 | 0.0 | /mnt/stockage/packages/f14/olpc-switch-desktop/po/ne.po | 
+ | [pa](/f14/language/pa) | 0 | 158 | 0.0 | /mnt/stockage/packages/f14/olpc-switch-desktop/po/pa.po | 
+ | [pap](/f14/language/pap) | 0 | 158 | 0.0 | /mnt/stockage/packages/f14/olpc-switch-desktop/po/pap.po | 
+ | [pl](/f14/language/pl) | 0 | 158 | 0.0 | /mnt/stockage/packages/f14/olpc-switch-desktop/po/pl.po | 
+ | [qu](/f14/language/qu) | 0 | 158 | 0.0 | /mnt/stockage/packages/f14/olpc-switch-desktop/po/qu.po | 
+ | [ro](/f14/language/ro) | 0 | 158 | 0.0 | /mnt/stockage/packages/f14/olpc-switch-desktop/po/ro.po | 
+ | [rw](/f14/language/rw) | 0 | 158 | 0.0 | /mnt/stockage/packages/f14/olpc-switch-desktop/po/rw.po | 
+ | [sd](/f14/language/sd) | 0 | 158 | 0.0 | /mnt/stockage/packages/f14/olpc-switch-desktop/po/sd.po | 
+ | [sk](/f14/language/sk) | 0 | 158 | 0.0 | /mnt/stockage/packages/f14/olpc-switch-desktop/po/sk.po | 
+ | [sr](/f14/language/sr) | 0 | 158 | 0.0 | /mnt/stockage/packages/f14/olpc-switch-desktop/po/sr.po | 
+ | [st](/f14/language/st) | 0 | 158 | 0.0 | /mnt/stockage/packages/f14/olpc-switch-desktop/po/st.po | 
+ | [sv](/f14/language/sv) | 0 | 158 | 0.0 | /mnt/stockage/packages/f14/olpc-switch-desktop/po/sv.po | 
+ | [sw](/f14/language/sw) | 0 | 158 | 0.0 | /mnt/stockage/packages/f14/olpc-switch-desktop/po/sw.po | 
+ | [te](/f14/language/te) | 0 | 158 | 0.0 | /mnt/stockage/packages/f14/olpc-switch-desktop/po/te.po | 
+ | [th](/f14/language/th) | 0 | 158 | 0.0 | /mnt/stockage/packages/f14/olpc-switch-desktop/po/th.po | 
+ | [tpi](/f14/language/tpi) | 0 | 158 | 0.0 | /mnt/stockage/packages/f14/olpc-switch-desktop/po/tpi.po | 
+ | [tr](/f14/language/tr) | 0 | 158 | 0.0 | /mnt/stockage/packages/f14/olpc-switch-desktop/po/tr.po | 
+ | [ug](/f14/language/ug) | 0 | 158 | 0.0 | /mnt/stockage/packages/f14/olpc-switch-desktop/po/ug.po | 
+ | [uk](/f14/language/uk) | 0 | 158 | 0.0 | /mnt/stockage/packages/f14/olpc-switch-desktop/po/uk.po | 
+ | [wa](/f14/language/wa) | 0 | 158 | 0.0 | /mnt/stockage/packages/f14/olpc-switch-desktop/po/wa.po | 
+ | [wo](/f14/language/wo) | 0 | 158 | 0.0 | /mnt/stockage/packages/f14/olpc-switch-desktop/po/wo.po | 
+ | [yo](/f14/language/yo) | 0 | 158 | 0.0 | /mnt/stockage/packages/f14/olpc-switch-desktop/po/yo.po | 
+ | [zh_Hans](/f14/language/zh_Hans) | 0 | 158 | 0.0 | /mnt/stockage/packages/f14/olpc-switch-desktop/po/zh_CN.po | 
 {.sortable}
 
 

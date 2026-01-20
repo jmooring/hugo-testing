@@ -18,8 +18,8 @@ The package tuna (version 0.9.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ja]({{< ref "/f12/language/ja.md" >}}) | 1302 | 1342 | 97.0 | /mnt/stockage/packages/f12/tuna/po/ja.po | 
- | [pt_BR]({{< ref "/f12/language/pt_BR.md" >}}) | 315 | 1342 | 23.5 | /mnt/stockage/packages/f12/tuna/po/pt_BR.po | 
+ | [ja](/f12/language/ja) | 1302 | 1342 | 97.0 | /mnt/stockage/packages/f12/tuna/po/ja.po | 
+ | [pt_BR](/f12/language/pt_BR) | 315 | 1342 | 23.5 | /mnt/stockage/packages/f12/tuna/po/pt_BR.po | 
 {.sortable}
 
 

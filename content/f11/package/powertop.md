@@ -18,19 +18,19 @@ The package powertop (version 1.11):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f11/language/de.md" >}}) | 983 | 983 | 100.0 | /mnt/stockage/packages/f11/powertop/po/de.po | 
- | [id]({{< ref "/f11/language/id.md" >}}) | 983 | 983 | 100.0 | /mnt/stockage/packages/f11/powertop/po/id.po | 
- | [ja]({{< ref "/f11/language/ja.md" >}}) | 983 | 983 | 100.0 | /mnt/stockage/packages/f11/powertop/po/ja.po | 
- | [pt_BR]({{< ref "/f11/language/pt_BR.md" >}}) | 983 | 983 | 100.0 | /mnt/stockage/packages/f11/powertop/po/pt_BR.po | 
- | [zh_Hans]({{< ref "/f11/language/zh_Hans.md" >}}) | 983 | 983 | 100.0 | /mnt/stockage/packages/f11/powertop/po/zh.po | 
- | [fr]({{< ref "/f11/language/fr.md" >}}) | 982 | 983 | 99.9 | /mnt/stockage/packages/f11/powertop/po/fr.po | 
- | [fi]({{< ref "/f11/language/fi.md" >}}) | 980 | 983 | 99.7 | /mnt/stockage/packages/f11/powertop/po/fi.po | 
- | [hu]({{< ref "/f11/language/hu.md" >}}) | 980 | 983 | 99.7 | /mnt/stockage/packages/f11/powertop/po/hu.po | 
- | [pl]({{< ref "/f11/language/pl.md" >}}) | 699 | 983 | 71.1 | /mnt/stockage/packages/f11/powertop/po/pl.po | 
- | [ru]({{< ref "/f11/language/ru.md" >}}) | 698 | 983 | 71.0 | /mnt/stockage/packages/f11/powertop/po/ru.po | 
- | [es]({{< ref "/f11/language/es.md" >}}) | 353 | 983 | 35.9 | /mnt/stockage/packages/f11/powertop/po/es.po | 
- | [it]({{< ref "/f11/language/it.md" >}}) | 249 | 983 | 25.3 | /mnt/stockage/packages/f11/powertop/po/it.po | 
- | [nl]({{< ref "/f11/language/nl.md" >}}) | 11 | 983 | 1.1 | /mnt/stockage/packages/f11/powertop/po/nl.po | 
+ | [de](/f11/language/de) | 983 | 983 | 100.0 | /mnt/stockage/packages/f11/powertop/po/de.po | 
+ | [id](/f11/language/id) | 983 | 983 | 100.0 | /mnt/stockage/packages/f11/powertop/po/id.po | 
+ | [ja](/f11/language/ja) | 983 | 983 | 100.0 | /mnt/stockage/packages/f11/powertop/po/ja.po | 
+ | [pt_BR](/f11/language/pt_BR) | 983 | 983 | 100.0 | /mnt/stockage/packages/f11/powertop/po/pt_BR.po | 
+ | [zh_Hans](/f11/language/zh_Hans) | 983 | 983 | 100.0 | /mnt/stockage/packages/f11/powertop/po/zh.po | 
+ | [fr](/f11/language/fr) | 982 | 983 | 99.9 | /mnt/stockage/packages/f11/powertop/po/fr.po | 
+ | [fi](/f11/language/fi) | 980 | 983 | 99.7 | /mnt/stockage/packages/f11/powertop/po/fi.po | 
+ | [hu](/f11/language/hu) | 980 | 983 | 99.7 | /mnt/stockage/packages/f11/powertop/po/hu.po | 
+ | [pl](/f11/language/pl) | 699 | 983 | 71.1 | /mnt/stockage/packages/f11/powertop/po/pl.po | 
+ | [ru](/f11/language/ru) | 698 | 983 | 71.0 | /mnt/stockage/packages/f11/powertop/po/ru.po | 
+ | [es](/f11/language/es) | 353 | 983 | 35.9 | /mnt/stockage/packages/f11/powertop/po/es.po | 
+ | [it](/f11/language/it) | 249 | 983 | 25.3 | /mnt/stockage/packages/f11/powertop/po/it.po | 
+ | [nl](/f11/language/nl) | 11 | 983 | 1.1 | /mnt/stockage/packages/f11/powertop/po/nl.po | 
 {.sortable}
 
 

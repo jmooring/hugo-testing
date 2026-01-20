@@ -18,11 +18,11 @@ The package perl-Padre (version 0.20):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f10/language/de.md" >}}) | 563 | 563 | 100.0 | /mnt/stockage/packages/f10/perl-Padre/share/locale/de.po | 
- | [hu]({{< ref "/f10/language/hu.md" >}}) | 560 | 560 | 100.0 | /mnt/stockage/packages/f10/perl-Padre/share/locale/hu.po | 
- | [fr]({{< ref "/f10/language/fr.md" >}}) | 558 | 560 | 99.6 | /mnt/stockage/packages/f10/perl-Padre/share/locale/fr.po | 
- | [he]({{< ref "/f10/language/he.md" >}}) | 365 | 370 | 98.6 | /mnt/stockage/packages/f10/perl-Padre/share/locale/he.po | 
- | [ko]({{< ref "/f10/language/ko.md" >}}) | 542 | 588 | 92.2 | /mnt/stockage/packages/f10/perl-Padre/share/locale/ko.po | 
+ | [de](/f10/language/de) | 563 | 563 | 100.0 | /mnt/stockage/packages/f10/perl-Padre/share/locale/de.po | 
+ | [hu](/f10/language/hu) | 560 | 560 | 100.0 | /mnt/stockage/packages/f10/perl-Padre/share/locale/hu.po | 
+ | [fr](/f10/language/fr) | 558 | 560 | 99.6 | /mnt/stockage/packages/f10/perl-Padre/share/locale/fr.po | 
+ | [he](/f10/language/he) | 365 | 370 | 98.6 | /mnt/stockage/packages/f10/perl-Padre/share/locale/he.po | 
+ | [ko](/f10/language/ko) | 542 | 588 | 92.2 | /mnt/stockage/packages/f10/perl-Padre/share/locale/ko.po | 
 {.sortable}
 
 

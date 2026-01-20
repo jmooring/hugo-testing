@@ -18,10 +18,10 @@ The package midori (version 0.0.18):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f7/language/de.md" >}}) | 865 | 872 | 99.2 | /mnt/stockage/packages/f7/midori/po/de.po | 
- | [fr]({{< ref "/f7/language/fr.md" >}}) | 769 | 872 | 88.2 | /mnt/stockage/packages/f7/midori/po/fr.po | 
- | [sv]({{< ref "/f7/language/sv.md" >}}) | 476 | 872 | 54.6 | /mnt/stockage/packages/f7/midori/po/sv.po | 
- | [pl]({{< ref "/f7/language/pl.md" >}}) | 292 | 872 | 33.5 | /mnt/stockage/packages/f7/midori/po/pl.po | 
+ | [de](/f7/language/de) | 865 | 872 | 99.2 | /mnt/stockage/packages/f7/midori/po/de.po | 
+ | [fr](/f7/language/fr) | 769 | 872 | 88.2 | /mnt/stockage/packages/f7/midori/po/fr.po | 
+ | [sv](/f7/language/sv) | 476 | 872 | 54.6 | /mnt/stockage/packages/f7/midori/po/sv.po | 
+ | [pl](/f7/language/pl) | 292 | 872 | 33.5 | /mnt/stockage/packages/f7/midori/po/pl.po | 
 {.sortable}
 
 

@@ -45,9 +45,9 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [po4a]({{< ref "/f43/package/po4a.md" >}}) | 677 | 688 | 98.4 | LANGUAGE <LL@li.org> | 
- | [davfs2]({{< ref "/f43/package/davfs2.md" >}}) | 5705 | 5808 | 98.2 |  | 
- | [shadow-utils]({{< ref "/f43/package/shadow-utils.md" >}}) | 979 | 15624 | 6.3 | Danish <debian-l10n-danish@lists.debian.org> | 
+ | [po4a](/f43/package/po4a) | 677 | 688 | 98.4 | LANGUAGE <LL@li.org> | 
+ | [davfs2](/f43/package/davfs2) | 5705 | 5808 | 98.2 |  | 
+ | [shadow-utils](/f43/package/shadow-utils) | 979 | 15624 | 6.3 | Danish <debian-l10n-danish@lists.debian.org> | 
 {.sortable}
 
 

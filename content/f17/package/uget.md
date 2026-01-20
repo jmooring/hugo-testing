@@ -18,18 +18,18 @@ The package uget (version 1.10.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [hu]({{< ref "/f17/language/hu.md" >}}) | 621 | 622 | 99.8 | /mnt/stockage/packages/f17/uget/po/hu.po | 
- | [zh_Hant]({{< ref "/f17/language/zh_Hant.md" >}}) | 586 | 622 | 94.2 | /mnt/stockage/packages/f17/uget/po/zh_TW.po | 
- | [zh_Hans]({{< ref "/f17/language/zh_Hans.md" >}}) | 578 | 622 | 92.9 | /mnt/stockage/packages/f17/uget/po/zh_CN.po | 
- | [fr]({{< ref "/f17/language/fr.md" >}}) | 570 | 622 | 91.6 | /mnt/stockage/packages/f17/uget/po/fr.po | 
- | [be]({{< ref "/f17/language/be.md" >}}) | 548 | 622 | 88.1 | /mnt/stockage/packages/f17/uget/po/be.po | 
- | [cs]({{< ref "/f17/language/cs.md" >}}) | 548 | 622 | 88.1 | /mnt/stockage/packages/f17/uget/po/cs.po | 
- | [it]({{< ref "/f17/language/it.md" >}}) | 548 | 622 | 88.1 | /mnt/stockage/packages/f17/uget/po/it.po | 
- | [pl]({{< ref "/f17/language/pl.md" >}}) | 548 | 622 | 88.1 | /mnt/stockage/packages/f17/uget/po/pl.po | 
- | [ru]({{< ref "/f17/language/ru.md" >}}) | 968 | 1244 | 77.8 | /mnt/stockage/packages/f17/uget/po/uk.po/mnt/stockage/packages/f17/uget/po/ru.po | 
- | [es]({{< ref "/f17/language/es.md" >}}) | 429 | 622 | 69.0 | /mnt/stockage/packages/f17/uget/po/es.po | 
- | [tr]({{< ref "/f17/language/tr.md" >}}) | 425 | 622 | 68.3 | /mnt/stockage/packages/f17/uget/po/tr.po | 
- | [de]({{< ref "/f17/language/de.md" >}}) | 327 | 622 | 52.6 | /mnt/stockage/packages/f17/uget/po/de.po | 
+ | [hu](/f17/language/hu) | 621 | 622 | 99.8 | /mnt/stockage/packages/f17/uget/po/hu.po | 
+ | [zh_Hant](/f17/language/zh_Hant) | 586 | 622 | 94.2 | /mnt/stockage/packages/f17/uget/po/zh_TW.po | 
+ | [zh_Hans](/f17/language/zh_Hans) | 578 | 622 | 92.9 | /mnt/stockage/packages/f17/uget/po/zh_CN.po | 
+ | [fr](/f17/language/fr) | 570 | 622 | 91.6 | /mnt/stockage/packages/f17/uget/po/fr.po | 
+ | [be](/f17/language/be) | 548 | 622 | 88.1 | /mnt/stockage/packages/f17/uget/po/be.po | 
+ | [cs](/f17/language/cs) | 548 | 622 | 88.1 | /mnt/stockage/packages/f17/uget/po/cs.po | 
+ | [it](/f17/language/it) | 548 | 622 | 88.1 | /mnt/stockage/packages/f17/uget/po/it.po | 
+ | [pl](/f17/language/pl) | 548 | 622 | 88.1 | /mnt/stockage/packages/f17/uget/po/pl.po | 
+ | [ru](/f17/language/ru) | 968 | 1244 | 77.8 | /mnt/stockage/packages/f17/uget/po/uk.po/mnt/stockage/packages/f17/uget/po/ru.po | 
+ | [es](/f17/language/es) | 429 | 622 | 69.0 | /mnt/stockage/packages/f17/uget/po/es.po | 
+ | [tr](/f17/language/tr) | 425 | 622 | 68.3 | /mnt/stockage/packages/f17/uget/po/tr.po | 
+ | [de](/f17/language/de) | 327 | 622 | 52.6 | /mnt/stockage/packages/f17/uget/po/de.po | 
 {.sortable}
 
 

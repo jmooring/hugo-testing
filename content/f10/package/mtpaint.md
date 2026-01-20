@@ -18,20 +18,20 @@ The package mtpaint (version 3.21):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ru]({{< ref "/f10/language/ru.md" >}}) | 2818 | 2894 | 97.4 | /mnt/stockage/packages/f10/mtpaint/po/ru.po | 
- | [ja]({{< ref "/f10/language/ja.md" >}}) | 2777 | 2894 | 96.0 | /mnt/stockage/packages/f10/mtpaint/po/ja.po | 
- | [gl]({{< ref "/f10/language/gl.md" >}}) | 2671 | 2894 | 92.3 | /mnt/stockage/packages/f10/mtpaint/po/gl.po | 
- | [fr]({{< ref "/f10/language/fr.md" >}}) | 2578 | 2894 | 89.1 | /mnt/stockage/packages/f10/mtpaint/po/fr.po | 
- | [es]({{< ref "/f10/language/es.md" >}}) | 2563 | 2894 | 88.6 | /mnt/stockage/packages/f10/mtpaint/po/es.po | 
- | [zh_Hant]({{< ref "/f10/language/zh_Hant.md" >}}) | 2542 | 2894 | 87.8 | /mnt/stockage/packages/f10/mtpaint/po/zh_TW.po | 
- | [sk]({{< ref "/f10/language/sk.md" >}}) | 2539 | 2894 | 87.7 | /mnt/stockage/packages/f10/mtpaint/po/sk.po | 
- | [cs]({{< ref "/f10/language/cs.md" >}}) | 2538 | 2894 | 87.7 | /mnt/stockage/packages/f10/mtpaint/po/cs.po | 
- | [pl]({{< ref "/f10/language/pl.md" >}}) | 2079 | 2894 | 71.8 | /mnt/stockage/packages/f10/mtpaint/po/pl.po | 
- | [zh_Hans]({{< ref "/f10/language/zh_Hans.md" >}}) | 1625 | 2894 | 56.2 | /mnt/stockage/packages/f10/mtpaint/po/zh_CN.po | 
- | [de]({{< ref "/f10/language/de.md" >}}) | 1375 | 2894 | 47.5 | /mnt/stockage/packages/f10/mtpaint/po/de_DE.po | 
- | [pt_BR]({{< ref "/f10/language/pt_BR.md" >}}) | 943 | 2894 | 32.6 | /mnt/stockage/packages/f10/mtpaint/po/pt_BR.po | 
- | [tr]({{< ref "/f10/language/tr.md" >}}) | 733 | 2894 | 25.3 | /mnt/stockage/packages/f10/mtpaint/po/tr.po | 
- | [pt]({{< ref "/f10/language/pt.md" >}}) | 595 | 2894 | 20.6 | /mnt/stockage/packages/f10/mtpaint/po/pt.po | 
+ | [ru](/f10/language/ru) | 2818 | 2894 | 97.4 | /mnt/stockage/packages/f10/mtpaint/po/ru.po | 
+ | [ja](/f10/language/ja) | 2777 | 2894 | 96.0 | /mnt/stockage/packages/f10/mtpaint/po/ja.po | 
+ | [gl](/f10/language/gl) | 2671 | 2894 | 92.3 | /mnt/stockage/packages/f10/mtpaint/po/gl.po | 
+ | [fr](/f10/language/fr) | 2578 | 2894 | 89.1 | /mnt/stockage/packages/f10/mtpaint/po/fr.po | 
+ | [es](/f10/language/es) | 2563 | 2894 | 88.6 | /mnt/stockage/packages/f10/mtpaint/po/es.po | 
+ | [zh_Hant](/f10/language/zh_Hant) | 2542 | 2894 | 87.8 | /mnt/stockage/packages/f10/mtpaint/po/zh_TW.po | 
+ | [sk](/f10/language/sk) | 2539 | 2894 | 87.7 | /mnt/stockage/packages/f10/mtpaint/po/sk.po | 
+ | [cs](/f10/language/cs) | 2538 | 2894 | 87.7 | /mnt/stockage/packages/f10/mtpaint/po/cs.po | 
+ | [pl](/f10/language/pl) | 2079 | 2894 | 71.8 | /mnt/stockage/packages/f10/mtpaint/po/pl.po | 
+ | [zh_Hans](/f10/language/zh_Hans) | 1625 | 2894 | 56.2 | /mnt/stockage/packages/f10/mtpaint/po/zh_CN.po | 
+ | [de](/f10/language/de) | 1375 | 2894 | 47.5 | /mnt/stockage/packages/f10/mtpaint/po/de_DE.po | 
+ | [pt_BR](/f10/language/pt_BR) | 943 | 2894 | 32.6 | /mnt/stockage/packages/f10/mtpaint/po/pt_BR.po | 
+ | [tr](/f10/language/tr) | 733 | 2894 | 25.3 | /mnt/stockage/packages/f10/mtpaint/po/tr.po | 
+ | [pt](/f10/language/pt) | 595 | 2894 | 20.6 | /mnt/stockage/packages/f10/mtpaint/po/pt.po | 
 {.sortable}
 
 

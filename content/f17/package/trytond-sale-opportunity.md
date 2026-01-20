@@ -18,14 +18,14 @@ The package trytond-sale-opportunity (version 2.2.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [bg]({{< ref "/f17/language/bg.md" >}}) | 294 | 294 | 100.0 | /mnt/stockage/packages/f17/trytond-sale-opportunity/locale/bg_BG.po | 
- | [de]({{< ref "/f17/language/de.md" >}}) | 294 | 294 | 100.0 | /mnt/stockage/packages/f17/trytond-sale-opportunity/locale/de_DE.po | 
- | [fr]({{< ref "/f17/language/fr.md" >}}) | 294 | 294 | 100.0 | /mnt/stockage/packages/f17/trytond-sale-opportunity/locale/fr_FR.po | 
- | [cs]({{< ref "/f17/language/cs.md" >}}) | 0 | 294 | 0.0 | /mnt/stockage/packages/f17/trytond-sale-opportunity/locale/cs_CZ.po | 
- | [es]({{< ref "/f17/language/es.md" >}}) | 0 | 294 | 0.0 | /mnt/stockage/packages/f17/trytond-sale-opportunity/locale/es_ES.po | 
- | [es_CO]({{< ref "/f17/language/es_CO.md" >}}) | 0 | 294 | 0.0 | /mnt/stockage/packages/f17/trytond-sale-opportunity/locale/es_CO.po | 
- | [nl]({{< ref "/f17/language/nl.md" >}}) | 0 | 294 | 0.0 | /mnt/stockage/packages/f17/trytond-sale-opportunity/locale/nl_NL.po | 
- | [ru]({{< ref "/f17/language/ru.md" >}}) | 0 | 294 | 0.0 | /mnt/stockage/packages/f17/trytond-sale-opportunity/locale/ru_RU.po | 
+ | [bg](/f17/language/bg) | 294 | 294 | 100.0 | /mnt/stockage/packages/f17/trytond-sale-opportunity/locale/bg_BG.po | 
+ | [de](/f17/language/de) | 294 | 294 | 100.0 | /mnt/stockage/packages/f17/trytond-sale-opportunity/locale/de_DE.po | 
+ | [fr](/f17/language/fr) | 294 | 294 | 100.0 | /mnt/stockage/packages/f17/trytond-sale-opportunity/locale/fr_FR.po | 
+ | [cs](/f17/language/cs) | 0 | 294 | 0.0 | /mnt/stockage/packages/f17/trytond-sale-opportunity/locale/cs_CZ.po | 
+ | [es](/f17/language/es) | 0 | 294 | 0.0 | /mnt/stockage/packages/f17/trytond-sale-opportunity/locale/es_ES.po | 
+ | [es_CO](/f17/language/es_CO) | 0 | 294 | 0.0 | /mnt/stockage/packages/f17/trytond-sale-opportunity/locale/es_CO.po | 
+ | [nl](/f17/language/nl) | 0 | 294 | 0.0 | /mnt/stockage/packages/f17/trytond-sale-opportunity/locale/nl_NL.po | 
+ | [ru](/f17/language/ru) | 0 | 294 | 0.0 | /mnt/stockage/packages/f17/trytond-sale-opportunity/locale/ru_RU.po | 
 {.sortable}
 
 

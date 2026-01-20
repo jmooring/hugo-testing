@@ -18,23 +18,23 @@ The package easystroke (version 0.6.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f24/language/cs.md" >}}) | 470 | 470 | 100.0 | /mnt/stockage/packages/f24/easystroke/po/cs.po | 
- | [de]({{< ref "/f24/language/de.md" >}}) | 455 | 470 | 96.8 | /mnt/stockage/packages/f24/easystroke/po/de.po | 
- | [es]({{< ref "/f24/language/es.md" >}}) | 455 | 470 | 96.8 | /mnt/stockage/packages/f24/easystroke/po/es.po | 
- | [fr]({{< ref "/f24/language/fr.md" >}}) | 455 | 470 | 96.8 | /mnt/stockage/packages/f24/easystroke/po/fr.po | 
- | [ru]({{< ref "/f24/language/ru.md" >}}) | 455 | 470 | 96.8 | /mnt/stockage/packages/f24/easystroke/po/ru.po | 
- | [el]({{< ref "/f24/language/el.md" >}}) | 451 | 470 | 96.0 | /mnt/stockage/packages/f24/easystroke/po/el.po | 
- | [fi]({{< ref "/f24/language/fi.md" >}}) | 451 | 470 | 96.0 | /mnt/stockage/packages/f24/easystroke/po/fi.po | 
- | [hu]({{< ref "/f24/language/hu.md" >}}) | 451 | 470 | 96.0 | /mnt/stockage/packages/f24/easystroke/po/hu.po | 
- | [it]({{< ref "/f24/language/it.md" >}}) | 451 | 470 | 96.0 | /mnt/stockage/packages/f24/easystroke/po/it.po | 
- | [vi]({{< ref "/f24/language/vi.md" >}}) | 451 | 470 | 96.0 | /mnt/stockage/packages/f24/easystroke/po/vi.po | 
- | [zh_Hans]({{< ref "/f24/language/zh_Hans.md" >}}) | 451 | 470 | 96.0 | /mnt/stockage/packages/f24/easystroke/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f24/language/zh_Hant.md" >}}) | 451 | 470 | 96.0 | /mnt/stockage/packages/f24/easystroke/po/zh_TW.po | 
- | [ko]({{< ref "/f24/language/ko.md" >}}) | 450 | 470 | 95.7 | /mnt/stockage/packages/f24/easystroke/po/ko.po | 
- | [pl]({{< ref "/f24/language/pl.md" >}}) | 440 | 470 | 93.6 | /mnt/stockage/packages/f24/easystroke/po/pl.po | 
- | [ja]({{< ref "/f24/language/ja.md" >}}) | 421 | 470 | 89.6 | /mnt/stockage/packages/f24/easystroke/po/ja.po | 
- | [he]({{< ref "/f24/language/he.md" >}}) | 385 | 470 | 81.9 | /mnt/stockage/packages/f24/easystroke/po/he.po | 
- | [ca]({{< ref "/f24/language/ca.md" >}}) | 353 | 470 | 75.1 | /mnt/stockage/packages/f24/easystroke/po/ca.po | 
+ | [cs](/f24/language/cs) | 470 | 470 | 100.0 | /mnt/stockage/packages/f24/easystroke/po/cs.po | 
+ | [de](/f24/language/de) | 455 | 470 | 96.8 | /mnt/stockage/packages/f24/easystroke/po/de.po | 
+ | [es](/f24/language/es) | 455 | 470 | 96.8 | /mnt/stockage/packages/f24/easystroke/po/es.po | 
+ | [fr](/f24/language/fr) | 455 | 470 | 96.8 | /mnt/stockage/packages/f24/easystroke/po/fr.po | 
+ | [ru](/f24/language/ru) | 455 | 470 | 96.8 | /mnt/stockage/packages/f24/easystroke/po/ru.po | 
+ | [el](/f24/language/el) | 451 | 470 | 96.0 | /mnt/stockage/packages/f24/easystroke/po/el.po | 
+ | [fi](/f24/language/fi) | 451 | 470 | 96.0 | /mnt/stockage/packages/f24/easystroke/po/fi.po | 
+ | [hu](/f24/language/hu) | 451 | 470 | 96.0 | /mnt/stockage/packages/f24/easystroke/po/hu.po | 
+ | [it](/f24/language/it) | 451 | 470 | 96.0 | /mnt/stockage/packages/f24/easystroke/po/it.po | 
+ | [vi](/f24/language/vi) | 451 | 470 | 96.0 | /mnt/stockage/packages/f24/easystroke/po/vi.po | 
+ | [zh_Hans](/f24/language/zh_Hans) | 451 | 470 | 96.0 | /mnt/stockage/packages/f24/easystroke/po/zh_CN.po | 
+ | [zh_Hant](/f24/language/zh_Hant) | 451 | 470 | 96.0 | /mnt/stockage/packages/f24/easystroke/po/zh_TW.po | 
+ | [ko](/f24/language/ko) | 450 | 470 | 95.7 | /mnt/stockage/packages/f24/easystroke/po/ko.po | 
+ | [pl](/f24/language/pl) | 440 | 470 | 93.6 | /mnt/stockage/packages/f24/easystroke/po/pl.po | 
+ | [ja](/f24/language/ja) | 421 | 470 | 89.6 | /mnt/stockage/packages/f24/easystroke/po/ja.po | 
+ | [he](/f24/language/he) | 385 | 470 | 81.9 | /mnt/stockage/packages/f24/easystroke/po/he.po | 
+ | [ca](/f24/language/ca) | 353 | 470 | 75.1 | /mnt/stockage/packages/f24/easystroke/po/ca.po | 
 {.sortable}
 
 

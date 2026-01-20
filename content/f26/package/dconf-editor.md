@@ -18,67 +18,67 @@ The package dconf-editor (version 3.23.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f26/language/cs.md" >}}) | 1375 | 1375 | 100.0 | /mnt/stockage/packages/f26/dconf-editor/po/cs.po | 
- | [es]({{< ref "/f26/language/es.md" >}}) | 1373 | 1373 | 100.0 | /mnt/stockage/packages/f26/dconf-editor/po/es.po | 
- | [fur]({{< ref "/f26/language/fur.md" >}}) | 1372 | 1372 | 100.0 | /mnt/stockage/packages/f26/dconf-editor/po/fur.po | 
- | [hu]({{< ref "/f26/language/hu.md" >}}) | 1375 | 1375 | 100.0 | /mnt/stockage/packages/f26/dconf-editor/po/hu.po | 
- | [pl]({{< ref "/f26/language/pl.md" >}}) | 1373 | 1373 | 100.0 | /mnt/stockage/packages/f26/dconf-editor/po/pl.po | 
- | [pt_BR]({{< ref "/f26/language/pt_BR.md" >}}) | 1375 | 1375 | 100.0 | /mnt/stockage/packages/f26/dconf-editor/po/pt_BR.po | 
- | [ca]({{< ref "/f26/language/ca.md" >}}) | 1221 | 1373 | 88.9 | /mnt/stockage/packages/f26/dconf-editor/po/ca.po | 
- | [da]({{< ref "/f26/language/da.md" >}}) | 1221 | 1373 | 88.9 | /mnt/stockage/packages/f26/dconf-editor/po/da.po | 
- | [de]({{< ref "/f26/language/de.md" >}}) | 1221 | 1373 | 88.9 | /mnt/stockage/packages/f26/dconf-editor/po/de.po | 
- | [en_GB]({{< ref "/f26/language/en_GB.md" >}}) | 1221 | 1373 | 88.9 | /mnt/stockage/packages/f26/dconf-editor/po/en_GB.po | 
- | [eu]({{< ref "/f26/language/eu.md" >}}) | 1221 | 1373 | 88.9 | /mnt/stockage/packages/f26/dconf-editor/po/eu.po | 
- | [fr]({{< ref "/f26/language/fr.md" >}}) | 1221 | 1373 | 88.9 | /mnt/stockage/packages/f26/dconf-editor/po/fr.po | 
- | [gl]({{< ref "/f26/language/gl.md" >}}) | 1221 | 1373 | 88.9 | /mnt/stockage/packages/f26/dconf-editor/po/gl.po | 
- | [he]({{< ref "/f26/language/he.md" >}}) | 1221 | 1373 | 88.9 | /mnt/stockage/packages/f26/dconf-editor/po/he.po | 
- | [id]({{< ref "/f26/language/id.md" >}}) | 1221 | 1373 | 88.9 | /mnt/stockage/packages/f26/dconf-editor/po/id.po | 
- | [it]({{< ref "/f26/language/it.md" >}}) | 1221 | 1373 | 88.9 | /mnt/stockage/packages/f26/dconf-editor/po/it.po | 
- | [ko]({{< ref "/f26/language/ko.md" >}}) | 1221 | 1373 | 88.9 | /mnt/stockage/packages/f26/dconf-editor/po/ko.po | 
- | [lt]({{< ref "/f26/language/lt.md" >}}) | 1221 | 1373 | 88.9 | /mnt/stockage/packages/f26/dconf-editor/po/lt.po | 
- | [lv]({{< ref "/f26/language/lv.md" >}}) | 1221 | 1373 | 88.9 | /mnt/stockage/packages/f26/dconf-editor/po/lv.po | 
- | [sk]({{< ref "/f26/language/sk.md" >}}) | 1221 | 1373 | 88.9 | /mnt/stockage/packages/f26/dconf-editor/po/sk.po | 
- | [sr]({{< ref "/f26/language/sr.md" >}}) | 1221 | 1373 | 88.9 | /mnt/stockage/packages/f26/dconf-editor/po/sr.po | 
- | [sr_Latn]({{< ref "/f26/language/sr_Latn.md" >}}) | 1221 | 1373 | 88.9 | /mnt/stockage/packages/f26/dconf-editor/po/sr@latin.po | 
- | [sv]({{< ref "/f26/language/sv.md" >}}) | 1221 | 1373 | 88.9 | /mnt/stockage/packages/f26/dconf-editor/po/sv.po | 
- | [pt]({{< ref "/f26/language/pt.md" >}}) | 1159 | 1373 | 84.4 | /mnt/stockage/packages/f26/dconf-editor/po/pt.po | 
- | [oc]({{< ref "/f26/language/oc.md" >}}) | 892 | 1373 | 65.0 | /mnt/stockage/packages/f26/dconf-editor/po/oc.po | 
- | [el]({{< ref "/f26/language/el.md" >}}) | 889 | 1373 | 64.7 | /mnt/stockage/packages/f26/dconf-editor/po/el.po | 
- | [zh_Hant]({{< ref "/f26/language/zh_Hant.md" >}}) | 889 | 1373 | 64.7 | /mnt/stockage/packages/f26/dconf-editor/po/zh_TW.po | 
- | [nb_NO]({{< ref "/f26/language/nb_NO.md" >}}) | 380 | 1373 | 27.7 | /mnt/stockage/packages/f26/dconf-editor/po/nb.po | 
- | [fi]({{< ref "/f26/language/fi.md" >}}) | 372 | 1373 | 27.1 | /mnt/stockage/packages/f26/dconf-editor/po/fi.po | 
- | [tr]({{< ref "/f26/language/tr.md" >}}) | 334 | 1373 | 24.3 | /mnt/stockage/packages/f26/dconf-editor/po/tr.po | 
- | [kk]({{< ref "/f26/language/kk.md" >}}) | 269 | 1373 | 19.6 | /mnt/stockage/packages/f26/dconf-editor/po/kk.po | 
- | [eo]({{< ref "/f26/language/eo.md" >}}) | 90 | 1373 | 6.6 | /mnt/stockage/packages/f26/dconf-editor/po/eo.po | 
- | [an]({{< ref "/f26/language/an.md" >}}) | 52 | 1373 | 3.8 | /mnt/stockage/packages/f26/dconf-editor/po/an.po | 
- | [bg]({{< ref "/f26/language/bg.md" >}}) | 52 | 1373 | 3.8 | /mnt/stockage/packages/f26/dconf-editor/po/bg.po | 
- | [bs]({{< ref "/f26/language/bs.md" >}}) | 52 | 1373 | 3.8 | /mnt/stockage/packages/f26/dconf-editor/po/bs.po | 
- | [fa]({{< ref "/f26/language/fa.md" >}}) | 52 | 1373 | 3.8 | /mnt/stockage/packages/f26/dconf-editor/po/fa.po | 
- | [is]({{< ref "/f26/language/is.md" >}}) | 52 | 1373 | 3.8 | /mnt/stockage/packages/f26/dconf-editor/po/is.po | 
- | [ja]({{< ref "/f26/language/ja.md" >}}) | 52 | 1373 | 3.8 | /mnt/stockage/packages/f26/dconf-editor/po/ja.po | 
- | [ro]({{< ref "/f26/language/ro.md" >}}) | 52 | 1373 | 3.8 | /mnt/stockage/packages/f26/dconf-editor/po/ro.po | 
- | [ru]({{< ref "/f26/language/ru.md" >}}) | 52 | 1373 | 3.8 | /mnt/stockage/packages/f26/dconf-editor/po/ru.po | 
- | [sl]({{< ref "/f26/language/sl.md" >}}) | 52 | 1373 | 3.8 | /mnt/stockage/packages/f26/dconf-editor/po/sl.po | 
- | [th]({{< ref "/f26/language/th.md" >}}) | 52 | 1373 | 3.8 | /mnt/stockage/packages/f26/dconf-editor/po/th.po | 
- | [uk]({{< ref "/f26/language/uk.md" >}}) | 52 | 1373 | 3.8 | /mnt/stockage/packages/f26/dconf-editor/po/uk.po | 
- | [vi]({{< ref "/f26/language/vi.md" >}}) | 52 | 1373 | 3.8 | /mnt/stockage/packages/f26/dconf-editor/po/vi.po | 
- | [as]({{< ref "/f26/language/as.md" >}}) | 47 | 1373 | 3.4 | /mnt/stockage/packages/f26/dconf-editor/po/as.po | 
- | [be]({{< ref "/f26/language/be.md" >}}) | 47 | 1373 | 3.4 | /mnt/stockage/packages/f26/dconf-editor/po/be.po | 
- | [ca@valencia]({{< ref "/f26/language/ca@valencia.md" >}}) | 47 | 1373 | 3.4 | /mnt/stockage/packages/f26/dconf-editor/po/ca@valencia.po | 
- | [et]({{< ref "/f26/language/et.md" >}}) | 47 | 1373 | 3.4 | /mnt/stockage/packages/f26/dconf-editor/po/et.po | 
- | [hi]({{< ref "/f26/language/hi.md" >}}) | 47 | 1373 | 3.4 | /mnt/stockage/packages/f26/dconf-editor/po/hi.po | 
- | [ml]({{< ref "/f26/language/ml.md" >}}) | 47 | 1373 | 3.4 | /mnt/stockage/packages/f26/dconf-editor/po/ml.po | 
- | [nl]({{< ref "/f26/language/nl.md" >}}) | 47 | 1373 | 3.4 | /mnt/stockage/packages/f26/dconf-editor/po/nl.po | 
- | [pa]({{< ref "/f26/language/pa.md" >}}) | 47 | 1373 | 3.4 | /mnt/stockage/packages/f26/dconf-editor/po/pa.po | 
- | [ta]({{< ref "/f26/language/ta.md" >}}) | 47 | 1373 | 3.4 | /mnt/stockage/packages/f26/dconf-editor/po/ta.po | 
- | [tg]({{< ref "/f26/language/tg.md" >}}) | 47 | 1373 | 3.4 | /mnt/stockage/packages/f26/dconf-editor/po/tg.po | 
- | [ug]({{< ref "/f26/language/ug.md" >}}) | 47 | 1373 | 3.4 | /mnt/stockage/packages/f26/dconf-editor/po/ug.po | 
- | [zh_Hans]({{< ref "/f26/language/zh_Hans.md" >}}) | 47 | 1373 | 3.4 | /mnt/stockage/packages/f26/dconf-editor/po/zh_CN.po | 
- | [zh_Hant_HK]({{< ref "/f26/language/zh_Hant_HK.md" >}}) | 47 | 1373 | 3.4 | /mnt/stockage/packages/f26/dconf-editor/po/zh_HK.po | 
- | [ar]({{< ref "/f26/language/ar.md" >}}) | 46 | 1373 | 3.4 | /mnt/stockage/packages/f26/dconf-editor/po/ar.po | 
- | [bn_IN]({{< ref "/f26/language/bn_IN.md" >}}) | 46 | 1373 | 3.4 | /mnt/stockage/packages/f26/dconf-editor/po/bn_IN.po | 
- | [mr]({{< ref "/f26/language/mr.md" >}}) | 46 | 1373 | 3.4 | /mnt/stockage/packages/f26/dconf-editor/po/mr.po | 
- | [te]({{< ref "/f26/language/te.md" >}}) | 46 | 1373 | 3.4 | /mnt/stockage/packages/f26/dconf-editor/po/te.po | 
+ | [cs](/f26/language/cs) | 1375 | 1375 | 100.0 | /mnt/stockage/packages/f26/dconf-editor/po/cs.po | 
+ | [es](/f26/language/es) | 1373 | 1373 | 100.0 | /mnt/stockage/packages/f26/dconf-editor/po/es.po | 
+ | [fur](/f26/language/fur) | 1372 | 1372 | 100.0 | /mnt/stockage/packages/f26/dconf-editor/po/fur.po | 
+ | [hu](/f26/language/hu) | 1375 | 1375 | 100.0 | /mnt/stockage/packages/f26/dconf-editor/po/hu.po | 
+ | [pl](/f26/language/pl) | 1373 | 1373 | 100.0 | /mnt/stockage/packages/f26/dconf-editor/po/pl.po | 
+ | [pt_BR](/f26/language/pt_BR) | 1375 | 1375 | 100.0 | /mnt/stockage/packages/f26/dconf-editor/po/pt_BR.po | 
+ | [ca](/f26/language/ca) | 1221 | 1373 | 88.9 | /mnt/stockage/packages/f26/dconf-editor/po/ca.po | 
+ | [da](/f26/language/da) | 1221 | 1373 | 88.9 | /mnt/stockage/packages/f26/dconf-editor/po/da.po | 
+ | [de](/f26/language/de) | 1221 | 1373 | 88.9 | /mnt/stockage/packages/f26/dconf-editor/po/de.po | 
+ | [en_GB](/f26/language/en_GB) | 1221 | 1373 | 88.9 | /mnt/stockage/packages/f26/dconf-editor/po/en_GB.po | 
+ | [eu](/f26/language/eu) | 1221 | 1373 | 88.9 | /mnt/stockage/packages/f26/dconf-editor/po/eu.po | 
+ | [fr](/f26/language/fr) | 1221 | 1373 | 88.9 | /mnt/stockage/packages/f26/dconf-editor/po/fr.po | 
+ | [gl](/f26/language/gl) | 1221 | 1373 | 88.9 | /mnt/stockage/packages/f26/dconf-editor/po/gl.po | 
+ | [he](/f26/language/he) | 1221 | 1373 | 88.9 | /mnt/stockage/packages/f26/dconf-editor/po/he.po | 
+ | [id](/f26/language/id) | 1221 | 1373 | 88.9 | /mnt/stockage/packages/f26/dconf-editor/po/id.po | 
+ | [it](/f26/language/it) | 1221 | 1373 | 88.9 | /mnt/stockage/packages/f26/dconf-editor/po/it.po | 
+ | [ko](/f26/language/ko) | 1221 | 1373 | 88.9 | /mnt/stockage/packages/f26/dconf-editor/po/ko.po | 
+ | [lt](/f26/language/lt) | 1221 | 1373 | 88.9 | /mnt/stockage/packages/f26/dconf-editor/po/lt.po | 
+ | [lv](/f26/language/lv) | 1221 | 1373 | 88.9 | /mnt/stockage/packages/f26/dconf-editor/po/lv.po | 
+ | [sk](/f26/language/sk) | 1221 | 1373 | 88.9 | /mnt/stockage/packages/f26/dconf-editor/po/sk.po | 
+ | [sr](/f26/language/sr) | 1221 | 1373 | 88.9 | /mnt/stockage/packages/f26/dconf-editor/po/sr.po | 
+ | [sr_Latn](/f26/language/sr_Latn) | 1221 | 1373 | 88.9 | /mnt/stockage/packages/f26/dconf-editor/po/sr@latin.po | 
+ | [sv](/f26/language/sv) | 1221 | 1373 | 88.9 | /mnt/stockage/packages/f26/dconf-editor/po/sv.po | 
+ | [pt](/f26/language/pt) | 1159 | 1373 | 84.4 | /mnt/stockage/packages/f26/dconf-editor/po/pt.po | 
+ | [oc](/f26/language/oc) | 892 | 1373 | 65.0 | /mnt/stockage/packages/f26/dconf-editor/po/oc.po | 
+ | [el](/f26/language/el) | 889 | 1373 | 64.7 | /mnt/stockage/packages/f26/dconf-editor/po/el.po | 
+ | [zh_Hant](/f26/language/zh_Hant) | 889 | 1373 | 64.7 | /mnt/stockage/packages/f26/dconf-editor/po/zh_TW.po | 
+ | [nb_NO](/f26/language/nb_NO) | 380 | 1373 | 27.7 | /mnt/stockage/packages/f26/dconf-editor/po/nb.po | 
+ | [fi](/f26/language/fi) | 372 | 1373 | 27.1 | /mnt/stockage/packages/f26/dconf-editor/po/fi.po | 
+ | [tr](/f26/language/tr) | 334 | 1373 | 24.3 | /mnt/stockage/packages/f26/dconf-editor/po/tr.po | 
+ | [kk](/f26/language/kk) | 269 | 1373 | 19.6 | /mnt/stockage/packages/f26/dconf-editor/po/kk.po | 
+ | [eo](/f26/language/eo) | 90 | 1373 | 6.6 | /mnt/stockage/packages/f26/dconf-editor/po/eo.po | 
+ | [an](/f26/language/an) | 52 | 1373 | 3.8 | /mnt/stockage/packages/f26/dconf-editor/po/an.po | 
+ | [bg](/f26/language/bg) | 52 | 1373 | 3.8 | /mnt/stockage/packages/f26/dconf-editor/po/bg.po | 
+ | [bs](/f26/language/bs) | 52 | 1373 | 3.8 | /mnt/stockage/packages/f26/dconf-editor/po/bs.po | 
+ | [fa](/f26/language/fa) | 52 | 1373 | 3.8 | /mnt/stockage/packages/f26/dconf-editor/po/fa.po | 
+ | [is](/f26/language/is) | 52 | 1373 | 3.8 | /mnt/stockage/packages/f26/dconf-editor/po/is.po | 
+ | [ja](/f26/language/ja) | 52 | 1373 | 3.8 | /mnt/stockage/packages/f26/dconf-editor/po/ja.po | 
+ | [ro](/f26/language/ro) | 52 | 1373 | 3.8 | /mnt/stockage/packages/f26/dconf-editor/po/ro.po | 
+ | [ru](/f26/language/ru) | 52 | 1373 | 3.8 | /mnt/stockage/packages/f26/dconf-editor/po/ru.po | 
+ | [sl](/f26/language/sl) | 52 | 1373 | 3.8 | /mnt/stockage/packages/f26/dconf-editor/po/sl.po | 
+ | [th](/f26/language/th) | 52 | 1373 | 3.8 | /mnt/stockage/packages/f26/dconf-editor/po/th.po | 
+ | [uk](/f26/language/uk) | 52 | 1373 | 3.8 | /mnt/stockage/packages/f26/dconf-editor/po/uk.po | 
+ | [vi](/f26/language/vi) | 52 | 1373 | 3.8 | /mnt/stockage/packages/f26/dconf-editor/po/vi.po | 
+ | [as](/f26/language/as) | 47 | 1373 | 3.4 | /mnt/stockage/packages/f26/dconf-editor/po/as.po | 
+ | [be](/f26/language/be) | 47 | 1373 | 3.4 | /mnt/stockage/packages/f26/dconf-editor/po/be.po | 
+ | [ca@valencia](/f26/language/ca@valencia) | 47 | 1373 | 3.4 | /mnt/stockage/packages/f26/dconf-editor/po/ca@valencia.po | 
+ | [et](/f26/language/et) | 47 | 1373 | 3.4 | /mnt/stockage/packages/f26/dconf-editor/po/et.po | 
+ | [hi](/f26/language/hi) | 47 | 1373 | 3.4 | /mnt/stockage/packages/f26/dconf-editor/po/hi.po | 
+ | [ml](/f26/language/ml) | 47 | 1373 | 3.4 | /mnt/stockage/packages/f26/dconf-editor/po/ml.po | 
+ | [nl](/f26/language/nl) | 47 | 1373 | 3.4 | /mnt/stockage/packages/f26/dconf-editor/po/nl.po | 
+ | [pa](/f26/language/pa) | 47 | 1373 | 3.4 | /mnt/stockage/packages/f26/dconf-editor/po/pa.po | 
+ | [ta](/f26/language/ta) | 47 | 1373 | 3.4 | /mnt/stockage/packages/f26/dconf-editor/po/ta.po | 
+ | [tg](/f26/language/tg) | 47 | 1373 | 3.4 | /mnt/stockage/packages/f26/dconf-editor/po/tg.po | 
+ | [ug](/f26/language/ug) | 47 | 1373 | 3.4 | /mnt/stockage/packages/f26/dconf-editor/po/ug.po | 
+ | [zh_Hans](/f26/language/zh_Hans) | 47 | 1373 | 3.4 | /mnt/stockage/packages/f26/dconf-editor/po/zh_CN.po | 
+ | [zh_Hant_HK](/f26/language/zh_Hant_HK) | 47 | 1373 | 3.4 | /mnt/stockage/packages/f26/dconf-editor/po/zh_HK.po | 
+ | [ar](/f26/language/ar) | 46 | 1373 | 3.4 | /mnt/stockage/packages/f26/dconf-editor/po/ar.po | 
+ | [bn_IN](/f26/language/bn_IN) | 46 | 1373 | 3.4 | /mnt/stockage/packages/f26/dconf-editor/po/bn_IN.po | 
+ | [mr](/f26/language/mr) | 46 | 1373 | 3.4 | /mnt/stockage/packages/f26/dconf-editor/po/mr.po | 
+ | [te](/f26/language/te) | 46 | 1373 | 3.4 | /mnt/stockage/packages/f26/dconf-editor/po/te.po | 
 {.sortable}
 
 

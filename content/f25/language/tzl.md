@@ -38,7 +38,7 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [arduino]({{< ref "/f25/package/arduino.md" >}}) | 0 | 2566 | 0.0 | Talossan (http://www.transifex.com/projects/p/arduino-ide-15/language/tzl/) | 
+ | [arduino](/f25/package/arduino) | 0 | 2566 | 0.0 | Talossan (http://www.transifex.com/projects/p/arduino-ide-15/language/tzl/) | 
 {.sortable}
 
 

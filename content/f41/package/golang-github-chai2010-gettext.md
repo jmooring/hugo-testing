@@ -18,12 +18,12 @@ The package golang-github-chai2010-gettext (version 1.0.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [pl]({{< ref "/f41/language/pl.md" >}}) | 6 | 6 | 100.0 | /mnt/stockage/packages/f41/golang-github-chai2010-gettext/testdata/qttest_pl.po | 
- | [zh_Hant]({{< ref "/f41/language/zh_Hant.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f41/golang-github-chai2010-gettext/examples/locale/zh_TW/LC_MESSAGES/hello.po | 
- | [zh_Hans]({{< ref "/f41/language/zh_Hans.md" >}}) | 1549 | 1561 | 99.2 | /mnt/stockage/packages/f41/golang-github-chai2010-gettext/examples/locale/zh_CN/LC_MESSAGES/hello.po/mnt/stockage/packages/f41/golang-github-chai2010-gettext/examples/locale/default/LC_MESSAGES/hello.po/mnt/stockage/packages/f41/golang-github-chai2010-gettext/testdata/poedit-1.5.7-zh_CN.po | 
- | [de]({{< ref "/f41/language/de.md" >}}) | 14 | 21 | 66.7 | /mnt/stockage/packages/f41/golang-github-chai2010-gettext/testdata/gettextpo-1.de.po/mnt/stockage/packages/f41/golang-github-chai2010-gettext/testdata/qttest2_de.po | 
- | [kr]({{< ref "/f41/language/kr.md" >}}) | 328 | 1714 | 19.1 | /mnt/stockage/packages/f41/golang-github-chai2010-gettext/testdata/mm-ko-comp.euc-kr.po | 
- | [ko]({{< ref "/f41/language/ko.md" >}}) | 493 | 4747 | 10.4 | /mnt/stockage/packages/f41/golang-github-chai2010-gettext/testdata/mm-ko.euc-kr.po | 
+ | [pl](/f41/language/pl) | 6 | 6 | 100.0 | /mnt/stockage/packages/f41/golang-github-chai2010-gettext/testdata/qttest_pl.po | 
+ | [zh_Hant](/f41/language/zh_Hant) | 24 | 24 | 100.0 | /mnt/stockage/packages/f41/golang-github-chai2010-gettext/examples/locale/zh_TW/LC_MESSAGES/hello.po | 
+ | [zh_Hans](/f41/language/zh_Hans) | 1549 | 1561 | 99.2 | /mnt/stockage/packages/f41/golang-github-chai2010-gettext/examples/locale/zh_CN/LC_MESSAGES/hello.po/mnt/stockage/packages/f41/golang-github-chai2010-gettext/examples/locale/default/LC_MESSAGES/hello.po/mnt/stockage/packages/f41/golang-github-chai2010-gettext/testdata/poedit-1.5.7-zh_CN.po | 
+ | [de](/f41/language/de) | 14 | 21 | 66.7 | /mnt/stockage/packages/f41/golang-github-chai2010-gettext/testdata/gettextpo-1.de.po/mnt/stockage/packages/f41/golang-github-chai2010-gettext/testdata/qttest2_de.po | 
+ | [kr](/f41/language/kr) | 328 | 1714 | 19.1 | /mnt/stockage/packages/f41/golang-github-chai2010-gettext/testdata/mm-ko-comp.euc-kr.po | 
+ | [ko](/f41/language/ko) | 493 | 4747 | 10.4 | /mnt/stockage/packages/f41/golang-github-chai2010-gettext/testdata/mm-ko.euc-kr.po | 
 {.sortable}
 
 

@@ -18,10 +18,10 @@ The package scmxx (version 0.9.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f41/language/de.md" >}}) | 1646 | 1646 | 100.0 | /mnt/stockage/packages/f41/scmxx/po/de.po | 
- | [it]({{< ref "/f41/language/it.md" >}}) | 1209 | 1646 | 73.5 | /mnt/stockage/packages/f41/scmxx/po/it.po | 
- | [ru]({{< ref "/f41/language/ru.md" >}}) | 924 | 1646 | 56.1 | /mnt/stockage/packages/f41/scmxx/po/ru.po | 
- | [fr]({{< ref "/f41/language/fr.md" >}}) | 911 | 1646 | 55.3 | /mnt/stockage/packages/f41/scmxx/po/fr.po | 
+ | [de](/f41/language/de) | 1646 | 1646 | 100.0 | /mnt/stockage/packages/f41/scmxx/po/de.po | 
+ | [it](/f41/language/it) | 1209 | 1646 | 73.5 | /mnt/stockage/packages/f41/scmxx/po/it.po | 
+ | [ru](/f41/language/ru) | 924 | 1646 | 56.1 | /mnt/stockage/packages/f41/scmxx/po/ru.po | 
+ | [fr](/f41/language/fr) | 911 | 1646 | 55.3 | /mnt/stockage/packages/f41/scmxx/po/fr.po | 
 {.sortable}
 
 

@@ -18,13 +18,13 @@ The package calcurse (version 4.4.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [pt_BR]({{< ref "/f28/language/pt_BR.md" >}}) | 1722 | 2530 | 68.1 | /mnt/stockage/packages/f28/calcurse/po/pt_BR.po | 
- | [ru]({{< ref "/f28/language/ru.md" >}}) | 1706 | 2530 | 67.4 | /mnt/stockage/packages/f28/calcurse/po/ru.po | 
- | [de]({{< ref "/f28/language/de.md" >}}) | 1642 | 2530 | 64.9 | /mnt/stockage/packages/f28/calcurse/po/de.po | 
- | [fr]({{< ref "/f28/language/fr.md" >}}) | 1583 | 2530 | 62.6 | /mnt/stockage/packages/f28/calcurse/po/fr.po | 
- | [nl]({{< ref "/f28/language/nl.md" >}}) | 752 | 2530 | 29.7 | /mnt/stockage/packages/f28/calcurse/po/nl.po | 
- | [es]({{< ref "/f28/language/es.md" >}}) | 233 | 2530 | 9.2 | /mnt/stockage/packages/f28/calcurse/po/es.po | 
- | [en]({{< ref "/f28/language/en.md" >}}) | 97 | 2530 | 3.8 | /mnt/stockage/packages/f28/calcurse/po/en.po | 
+ | [pt_BR](/f28/language/pt_BR) | 1722 | 2530 | 68.1 | /mnt/stockage/packages/f28/calcurse/po/pt_BR.po | 
+ | [ru](/f28/language/ru) | 1706 | 2530 | 67.4 | /mnt/stockage/packages/f28/calcurse/po/ru.po | 
+ | [de](/f28/language/de) | 1642 | 2530 | 64.9 | /mnt/stockage/packages/f28/calcurse/po/de.po | 
+ | [fr](/f28/language/fr) | 1583 | 2530 | 62.6 | /mnt/stockage/packages/f28/calcurse/po/fr.po | 
+ | [nl](/f28/language/nl) | 752 | 2530 | 29.7 | /mnt/stockage/packages/f28/calcurse/po/nl.po | 
+ | [es](/f28/language/es) | 233 | 2530 | 9.2 | /mnt/stockage/packages/f28/calcurse/po/es.po | 
+ | [en](/f28/language/en) | 97 | 2530 | 3.8 | /mnt/stockage/packages/f28/calcurse/po/en.po | 
 {.sortable}
 
 

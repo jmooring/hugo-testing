@@ -18,20 +18,20 @@ The package pitivi (version 0.10.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [sv]({{< ref "/f7/language/sv.md" >}}) | 721 | 721 | 100.0 | /mnt/stockage/packages/f7/pitivi/po/sv.po | 
- | [en_GB]({{< ref "/f7/language/en_GB.md" >}}) | 707 | 721 | 98.1 | /mnt/stockage/packages/f7/pitivi/po/en_GB.po | 
- | [es]({{< ref "/f7/language/es.md" >}}) | 635 | 721 | 88.1 | /mnt/stockage/packages/f7/pitivi/po/es.po | 
- | [fr]({{< ref "/f7/language/fr.md" >}}) | 606 | 721 | 84.0 | /mnt/stockage/packages/f7/pitivi/po/fr.po | 
- | [ca]({{< ref "/f7/language/ca.md" >}}) | 526 | 721 | 73.0 | /mnt/stockage/packages/f7/pitivi/po/ca.po | 
- | [dz]({{< ref "/f7/language/dz.md" >}}) | 526 | 721 | 73.0 | /mnt/stockage/packages/f7/pitivi/po/dz.po | 
- | [it]({{< ref "/f7/language/it.md" >}}) | 416 | 721 | 57.7 | /mnt/stockage/packages/f7/pitivi/po/it.po | 
- | [pt_BR]({{< ref "/f7/language/pt_BR.md" >}}) | 413 | 721 | 57.3 | /mnt/stockage/packages/f7/pitivi/po/pt_BR.po | 
- | [fi]({{< ref "/f7/language/fi.md" >}}) | 402 | 721 | 55.8 | /mnt/stockage/packages/f7/pitivi/po/fi.po | 
- | [pa]({{< ref "/f7/language/pa.md" >}}) | 302 | 721 | 41.9 | /mnt/stockage/packages/f7/pitivi/po/pa.po | 
- | [de]({{< ref "/f7/language/de.md" >}}) | 291 | 721 | 40.4 | /mnt/stockage/packages/f7/pitivi/po/de.po | 
- | [el]({{< ref "/f7/language/el.md" >}}) | 82 | 721 | 11.4 | /mnt/stockage/packages/f7/pitivi/po/el.po | 
- | [zh_Hans]({{< ref "/f7/language/zh_Hans.md" >}}) | 81 | 721 | 11.2 | /mnt/stockage/packages/f7/pitivi/po/zh_CN.po | 
- | [ar]({{< ref "/f7/language/ar.md" >}}) | 26 | 721 | 3.6 | /mnt/stockage/packages/f7/pitivi/po/ar.po | 
+ | [sv](/f7/language/sv) | 721 | 721 | 100.0 | /mnt/stockage/packages/f7/pitivi/po/sv.po | 
+ | [en_GB](/f7/language/en_GB) | 707 | 721 | 98.1 | /mnt/stockage/packages/f7/pitivi/po/en_GB.po | 
+ | [es](/f7/language/es) | 635 | 721 | 88.1 | /mnt/stockage/packages/f7/pitivi/po/es.po | 
+ | [fr](/f7/language/fr) | 606 | 721 | 84.0 | /mnt/stockage/packages/f7/pitivi/po/fr.po | 
+ | [ca](/f7/language/ca) | 526 | 721 | 73.0 | /mnt/stockage/packages/f7/pitivi/po/ca.po | 
+ | [dz](/f7/language/dz) | 526 | 721 | 73.0 | /mnt/stockage/packages/f7/pitivi/po/dz.po | 
+ | [it](/f7/language/it) | 416 | 721 | 57.7 | /mnt/stockage/packages/f7/pitivi/po/it.po | 
+ | [pt_BR](/f7/language/pt_BR) | 413 | 721 | 57.3 | /mnt/stockage/packages/f7/pitivi/po/pt_BR.po | 
+ | [fi](/f7/language/fi) | 402 | 721 | 55.8 | /mnt/stockage/packages/f7/pitivi/po/fi.po | 
+ | [pa](/f7/language/pa) | 302 | 721 | 41.9 | /mnt/stockage/packages/f7/pitivi/po/pa.po | 
+ | [de](/f7/language/de) | 291 | 721 | 40.4 | /mnt/stockage/packages/f7/pitivi/po/de.po | 
+ | [el](/f7/language/el) | 82 | 721 | 11.4 | /mnt/stockage/packages/f7/pitivi/po/el.po | 
+ | [zh_Hans](/f7/language/zh_Hans) | 81 | 721 | 11.2 | /mnt/stockage/packages/f7/pitivi/po/zh_CN.po | 
+ | [ar](/f7/language/ar) | 26 | 721 | 3.6 | /mnt/stockage/packages/f7/pitivi/po/ar.po | 
 {.sortable}
 
 

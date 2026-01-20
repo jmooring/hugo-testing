@@ -18,28 +18,28 @@ The package heaptrack (version 1.2.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f32/language/ca.md" >}}) | 1170 | 1170 | 100.0 | /mnt/stockage/packages/f32/heaptrack/po/ca/heaptrack.po | 
- | [ca@valencia]({{< ref "/f32/language/ca@valencia.md" >}}) | 1170 | 1170 | 100.0 | /mnt/stockage/packages/f32/heaptrack/po/ca@valencia/heaptrack.po | 
- | [en_GB]({{< ref "/f32/language/en_GB.md" >}}) | 1170 | 1170 | 100.0 | /mnt/stockage/packages/f32/heaptrack/po/en_GB/heaptrack.po | 
- | [es]({{< ref "/f32/language/es.md" >}}) | 1170 | 1170 | 100.0 | /mnt/stockage/packages/f32/heaptrack/po/es/heaptrack.po | 
- | [gl]({{< ref "/f32/language/gl.md" >}}) | 1170 | 1170 | 100.0 | /mnt/stockage/packages/f32/heaptrack/po/gl/heaptrack.po | 
- | [ko]({{< ref "/f32/language/ko.md" >}}) | 1170 | 1170 | 100.0 | /mnt/stockage/packages/f32/heaptrack/po/ko/heaptrack.po | 
- | [nl]({{< ref "/f32/language/nl.md" >}}) | 1170 | 1170 | 100.0 | /mnt/stockage/packages/f32/heaptrack/po/nl/heaptrack.po | 
- | [pt]({{< ref "/f32/language/pt.md" >}}) | 1170 | 1170 | 100.0 | /mnt/stockage/packages/f32/heaptrack/po/pt/heaptrack.po | 
- | [pt_BR]({{< ref "/f32/language/pt_BR.md" >}}) | 1170 | 1170 | 100.0 | /mnt/stockage/packages/f32/heaptrack/po/pt_BR/heaptrack.po | 
- | [sv]({{< ref "/f32/language/sv.md" >}}) | 1170 | 1170 | 100.0 | /mnt/stockage/packages/f32/heaptrack/po/sv/heaptrack.po | 
- | [uk]({{< ref "/f32/language/uk.md" >}}) | 1170 | 1170 | 100.0 | /mnt/stockage/packages/f32/heaptrack/po/uk/heaptrack.po | 
- | [nn]({{< ref "/f32/language/nn.md" >}}) | 974 | 1170 | 83.2 | /mnt/stockage/packages/f32/heaptrack/po/nn/heaptrack.po | 
- | [pl]({{< ref "/f32/language/pl.md" >}}) | 974 | 1170 | 83.2 | /mnt/stockage/packages/f32/heaptrack/po/pl/heaptrack.po | 
- | [sk]({{< ref "/f32/language/sk.md" >}}) | 974 | 1170 | 83.2 | /mnt/stockage/packages/f32/heaptrack/po/sk/heaptrack.po | 
- | [da]({{< ref "/f32/language/da.md" >}}) | 916 | 1170 | 78.3 | /mnt/stockage/packages/f32/heaptrack/po/da/heaptrack.po | 
- | [zh_Hans]({{< ref "/f32/language/zh_Hans.md" >}}) | 251 | 1170 | 21.5 | /mnt/stockage/packages/f32/heaptrack/po/zh_CN/heaptrack.po | 
- | [de]({{< ref "/f32/language/de.md" >}}) | 221 | 1170 | 18.9 | /mnt/stockage/packages/f32/heaptrack/po/de/heaptrack.po | 
- | [cs]({{< ref "/f32/language/cs.md" >}}) | 204 | 1170 | 17.4 | /mnt/stockage/packages/f32/heaptrack/po/cs/heaptrack.po | 
- | [fr]({{< ref "/f32/language/fr.md" >}}) | 157 | 1170 | 13.4 | /mnt/stockage/packages/f32/heaptrack/po/fr/heaptrack.po | 
- | [ru]({{< ref "/f32/language/ru.md" >}}) | 133 | 1170 | 11.4 | /mnt/stockage/packages/f32/heaptrack/po/ru/heaptrack.po | 
- | [ast]({{< ref "/f32/language/ast.md" >}}) | 4 | 1170 | 0.3 | /mnt/stockage/packages/f32/heaptrack/po/ast/heaptrack.po | 
- | [tr]({{< ref "/f32/language/tr.md" >}}) | 4 | 1170 | 0.3 | /mnt/stockage/packages/f32/heaptrack/po/tr/heaptrack.po | 
+ | [ca](/f32/language/ca) | 1170 | 1170 | 100.0 | /mnt/stockage/packages/f32/heaptrack/po/ca/heaptrack.po | 
+ | [ca@valencia](/f32/language/ca@valencia) | 1170 | 1170 | 100.0 | /mnt/stockage/packages/f32/heaptrack/po/ca@valencia/heaptrack.po | 
+ | [en_GB](/f32/language/en_GB) | 1170 | 1170 | 100.0 | /mnt/stockage/packages/f32/heaptrack/po/en_GB/heaptrack.po | 
+ | [es](/f32/language/es) | 1170 | 1170 | 100.0 | /mnt/stockage/packages/f32/heaptrack/po/es/heaptrack.po | 
+ | [gl](/f32/language/gl) | 1170 | 1170 | 100.0 | /mnt/stockage/packages/f32/heaptrack/po/gl/heaptrack.po | 
+ | [ko](/f32/language/ko) | 1170 | 1170 | 100.0 | /mnt/stockage/packages/f32/heaptrack/po/ko/heaptrack.po | 
+ | [nl](/f32/language/nl) | 1170 | 1170 | 100.0 | /mnt/stockage/packages/f32/heaptrack/po/nl/heaptrack.po | 
+ | [pt](/f32/language/pt) | 1170 | 1170 | 100.0 | /mnt/stockage/packages/f32/heaptrack/po/pt/heaptrack.po | 
+ | [pt_BR](/f32/language/pt_BR) | 1170 | 1170 | 100.0 | /mnt/stockage/packages/f32/heaptrack/po/pt_BR/heaptrack.po | 
+ | [sv](/f32/language/sv) | 1170 | 1170 | 100.0 | /mnt/stockage/packages/f32/heaptrack/po/sv/heaptrack.po | 
+ | [uk](/f32/language/uk) | 1170 | 1170 | 100.0 | /mnt/stockage/packages/f32/heaptrack/po/uk/heaptrack.po | 
+ | [nn](/f32/language/nn) | 974 | 1170 | 83.2 | /mnt/stockage/packages/f32/heaptrack/po/nn/heaptrack.po | 
+ | [pl](/f32/language/pl) | 974 | 1170 | 83.2 | /mnt/stockage/packages/f32/heaptrack/po/pl/heaptrack.po | 
+ | [sk](/f32/language/sk) | 974 | 1170 | 83.2 | /mnt/stockage/packages/f32/heaptrack/po/sk/heaptrack.po | 
+ | [da](/f32/language/da) | 916 | 1170 | 78.3 | /mnt/stockage/packages/f32/heaptrack/po/da/heaptrack.po | 
+ | [zh_Hans](/f32/language/zh_Hans) | 251 | 1170 | 21.5 | /mnt/stockage/packages/f32/heaptrack/po/zh_CN/heaptrack.po | 
+ | [de](/f32/language/de) | 221 | 1170 | 18.9 | /mnt/stockage/packages/f32/heaptrack/po/de/heaptrack.po | 
+ | [cs](/f32/language/cs) | 204 | 1170 | 17.4 | /mnt/stockage/packages/f32/heaptrack/po/cs/heaptrack.po | 
+ | [fr](/f32/language/fr) | 157 | 1170 | 13.4 | /mnt/stockage/packages/f32/heaptrack/po/fr/heaptrack.po | 
+ | [ru](/f32/language/ru) | 133 | 1170 | 11.4 | /mnt/stockage/packages/f32/heaptrack/po/ru/heaptrack.po | 
+ | [ast](/f32/language/ast) | 4 | 1170 | 0.3 | /mnt/stockage/packages/f32/heaptrack/po/ast/heaptrack.po | 
+ | [tr](/f32/language/tr) | 4 | 1170 | 0.3 | /mnt/stockage/packages/f32/heaptrack/po/tr/heaptrack.po | 
 {.sortable}
 
 

@@ -18,7 +18,7 @@ The package roxterm (version 1.21.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [es]({{< ref "/f15/language/es.md" >}}) | 6043 | 6052 | 99.9 | /mnt/stockage/packages/f15/roxterm/po/es.po/mnt/stockage/packages/f15/roxterm/po4a/guide.html.es.po/mnt/stockage/packages/f15/roxterm/po4a/index.html.es.po/mnt/stockage/packages/f15/roxterm/po4a/installation.html.es.po/mnt/stockage/packages/f15/roxterm/po4a/news.html.es.po/mnt/stockage/packages/f15/roxterm/po4a/roxterm-config.1.es.po/mnt/stockage/packages/f15/roxterm/po4a/roxterm.1.es.po | 
+ | [es](/f15/language/es) | 6043 | 6052 | 99.9 | /mnt/stockage/packages/f15/roxterm/po/es.po/mnt/stockage/packages/f15/roxterm/po4a/guide.html.es.po/mnt/stockage/packages/f15/roxterm/po4a/index.html.es.po/mnt/stockage/packages/f15/roxterm/po4a/installation.html.es.po/mnt/stockage/packages/f15/roxterm/po4a/news.html.es.po/mnt/stockage/packages/f15/roxterm/po4a/roxterm-config.1.es.po/mnt/stockage/packages/f15/roxterm/po4a/roxterm.1.es.po | 
 {.sortable}
 
 

@@ -18,16 +18,16 @@ The package skribilo (version 0.10.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [da]({{< ref "/f42/language/da.md" >}}) | 482 | 482 | 100.0 | /mnt/stockage/packages/f42/skribilo/po/da.po | 
- | [eo]({{< ref "/f42/language/eo.md" >}}) | 482 | 482 | 100.0 | /mnt/stockage/packages/f42/skribilo/po/eo.po | 
- | [es]({{< ref "/f42/language/es.md" >}}) | 482 | 482 | 100.0 | /mnt/stockage/packages/f42/skribilo/po/es.po | 
- | [fr]({{< ref "/f42/language/fr.md" >}}) | 482 | 482 | 100.0 | /mnt/stockage/packages/f42/skribilo/po/fr.po | 
- | [fur]({{< ref "/f42/language/fur.md" >}}) | 482 | 482 | 100.0 | /mnt/stockage/packages/f42/skribilo/po/fur.po | 
- | [hu]({{< ref "/f42/language/hu.md" >}}) | 482 | 482 | 100.0 | /mnt/stockage/packages/f42/skribilo/po/hu.po | 
- | [pt_BR]({{< ref "/f42/language/pt_BR.md" >}}) | 482 | 482 | 100.0 | /mnt/stockage/packages/f42/skribilo/po/pt_BR.po | 
- | [sr]({{< ref "/f42/language/sr.md" >}}) | 482 | 482 | 100.0 | /mnt/stockage/packages/f42/skribilo/po/sr.po | 
- | [sv]({{< ref "/f42/language/sv.md" >}}) | 482 | 482 | 100.0 | /mnt/stockage/packages/f42/skribilo/po/sv.po | 
- | [uk]({{< ref "/f42/language/uk.md" >}}) | 482 | 482 | 100.0 | /mnt/stockage/packages/f42/skribilo/po/uk.po | 
+ | [da](/f42/language/da) | 482 | 482 | 100.0 | /mnt/stockage/packages/f42/skribilo/po/da.po | 
+ | [eo](/f42/language/eo) | 482 | 482 | 100.0 | /mnt/stockage/packages/f42/skribilo/po/eo.po | 
+ | [es](/f42/language/es) | 482 | 482 | 100.0 | /mnt/stockage/packages/f42/skribilo/po/es.po | 
+ | [fr](/f42/language/fr) | 482 | 482 | 100.0 | /mnt/stockage/packages/f42/skribilo/po/fr.po | 
+ | [fur](/f42/language/fur) | 482 | 482 | 100.0 | /mnt/stockage/packages/f42/skribilo/po/fur.po | 
+ | [hu](/f42/language/hu) | 482 | 482 | 100.0 | /mnt/stockage/packages/f42/skribilo/po/hu.po | 
+ | [pt_BR](/f42/language/pt_BR) | 482 | 482 | 100.0 | /mnt/stockage/packages/f42/skribilo/po/pt_BR.po | 
+ | [sr](/f42/language/sr) | 482 | 482 | 100.0 | /mnt/stockage/packages/f42/skribilo/po/sr.po | 
+ | [sv](/f42/language/sv) | 482 | 482 | 100.0 | /mnt/stockage/packages/f42/skribilo/po/sv.po | 
+ | [uk](/f42/language/uk) | 482 | 482 | 100.0 | /mnt/stockage/packages/f42/skribilo/po/uk.po | 
 {.sortable}
 
 

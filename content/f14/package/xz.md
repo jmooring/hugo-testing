@@ -18,7 +18,7 @@ The package xz (version 4.999.9):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f14/language/cs.md" >}}) | 898 | 1005 | 89.4 | /mnt/stockage/packages/f14/xz/po/cs.po | 
+ | [cs](/f14/language/cs) | 898 | 1005 | 89.4 | /mnt/stockage/packages/f14/xz/po/cs.po | 
 {.sortable}
 
 

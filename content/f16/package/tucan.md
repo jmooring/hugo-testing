@@ -18,22 +18,22 @@ The package tucan (version 0.3.10):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f16/language/cs.md" >}}) | 114 | 114 | 100.0 | /mnt/stockage/packages/f16/tucan/i18n/cs/cs.po | 
- | [da]({{< ref "/f16/language/da.md" >}}) | 114 | 114 | 100.0 | /mnt/stockage/packages/f16/tucan/i18n/da/da.po | 
- | [fr]({{< ref "/f16/language/fr.md" >}}) | 114 | 114 | 100.0 | /mnt/stockage/packages/f16/tucan/i18n/fr/fr.po | 
- | [it]({{< ref "/f16/language/it.md" >}}) | 114 | 114 | 100.0 | /mnt/stockage/packages/f16/tucan/i18n/it/it.po | 
- | [nl]({{< ref "/f16/language/nl.md" >}}) | 114 | 114 | 100.0 | /mnt/stockage/packages/f16/tucan/i18n/nl/nl.po | 
- | [pl]({{< ref "/f16/language/pl.md" >}}) | 114 | 114 | 100.0 | /mnt/stockage/packages/f16/tucan/i18n/pl/pl.po | 
- | [pt]({{< ref "/f16/language/pt.md" >}}) | 114 | 114 | 100.0 | /mnt/stockage/packages/f16/tucan/i18n/pt/pt.po | 
- | [ru]({{< ref "/f16/language/ru.md" >}}) | 114 | 114 | 100.0 | /mnt/stockage/packages/f16/tucan/i18n/ru/ru.po | 
- | [se]({{< ref "/f16/language/se.md" >}}) | 114 | 114 | 100.0 | /mnt/stockage/packages/f16/tucan/i18n/se/se.po | 
- | [sk]({{< ref "/f16/language/sk.md" >}}) | 114 | 114 | 100.0 | /mnt/stockage/packages/f16/tucan/i18n/sk/sk.po | 
- | [tr]({{< ref "/f16/language/tr.md" >}}) | 114 | 114 | 100.0 | /mnt/stockage/packages/f16/tucan/i18n/tr/tr.po | 
- | [sl]({{< ref "/f16/language/sl.md" >}}) | 112 | 114 | 98.2 | /mnt/stockage/packages/f16/tucan/i18n/sl/sl.po | 
- | [de]({{< ref "/f16/language/de.md" >}}) | 111 | 114 | 97.4 | /mnt/stockage/packages/f16/tucan/i18n/de/de.po | 
- | [el]({{< ref "/f16/language/el.md" >}}) | 110 | 114 | 96.5 | /mnt/stockage/packages/f16/tucan/i18n/gr/gr.po | 
- | [es]({{< ref "/f16/language/es.md" >}}) | 105 | 114 | 92.1 | /mnt/stockage/packages/f16/tucan/i18n/es/es.po | 
- | [en]({{< ref "/f16/language/en.md" >}}) | 0 | 114 | 0.0 | /mnt/stockage/packages/f16/tucan/i18n/en/en.po | 
+ | [cs](/f16/language/cs) | 114 | 114 | 100.0 | /mnt/stockage/packages/f16/tucan/i18n/cs/cs.po | 
+ | [da](/f16/language/da) | 114 | 114 | 100.0 | /mnt/stockage/packages/f16/tucan/i18n/da/da.po | 
+ | [fr](/f16/language/fr) | 114 | 114 | 100.0 | /mnt/stockage/packages/f16/tucan/i18n/fr/fr.po | 
+ | [it](/f16/language/it) | 114 | 114 | 100.0 | /mnt/stockage/packages/f16/tucan/i18n/it/it.po | 
+ | [nl](/f16/language/nl) | 114 | 114 | 100.0 | /mnt/stockage/packages/f16/tucan/i18n/nl/nl.po | 
+ | [pl](/f16/language/pl) | 114 | 114 | 100.0 | /mnt/stockage/packages/f16/tucan/i18n/pl/pl.po | 
+ | [pt](/f16/language/pt) | 114 | 114 | 100.0 | /mnt/stockage/packages/f16/tucan/i18n/pt/pt.po | 
+ | [ru](/f16/language/ru) | 114 | 114 | 100.0 | /mnt/stockage/packages/f16/tucan/i18n/ru/ru.po | 
+ | [se](/f16/language/se) | 114 | 114 | 100.0 | /mnt/stockage/packages/f16/tucan/i18n/se/se.po | 
+ | [sk](/f16/language/sk) | 114 | 114 | 100.0 | /mnt/stockage/packages/f16/tucan/i18n/sk/sk.po | 
+ | [tr](/f16/language/tr) | 114 | 114 | 100.0 | /mnt/stockage/packages/f16/tucan/i18n/tr/tr.po | 
+ | [sl](/f16/language/sl) | 112 | 114 | 98.2 | /mnt/stockage/packages/f16/tucan/i18n/sl/sl.po | 
+ | [de](/f16/language/de) | 111 | 114 | 97.4 | /mnt/stockage/packages/f16/tucan/i18n/de/de.po | 
+ | [el](/f16/language/el) | 110 | 114 | 96.5 | /mnt/stockage/packages/f16/tucan/i18n/gr/gr.po | 
+ | [es](/f16/language/es) | 105 | 114 | 92.1 | /mnt/stockage/packages/f16/tucan/i18n/es/es.po | 
+ | [en](/f16/language/en) | 0 | 114 | 0.0 | /mnt/stockage/packages/f16/tucan/i18n/en/en.po | 
 {.sortable}
 
 

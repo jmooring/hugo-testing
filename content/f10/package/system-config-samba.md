@@ -18,70 +18,70 @@ The package system-config-samba (version 1.2.76):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [as]({{< ref "/f10/language/as.md" >}}) | 422 | 422 | 100.0 | /mnt/stockage/packages/f10/system-config-samba/po/as.po | 
- | [bn_IN]({{< ref "/f10/language/bn_IN.md" >}}) | 422 | 422 | 100.0 | /mnt/stockage/packages/f10/system-config-samba/po/bn_IN.po | 
- | [da]({{< ref "/f10/language/da.md" >}}) | 422 | 422 | 100.0 | /mnt/stockage/packages/f10/system-config-samba/po/da.po | 
- | [de]({{< ref "/f10/language/de.md" >}}) | 422 | 422 | 100.0 | /mnt/stockage/packages/f10/system-config-samba/po/de.po | 
- | [el]({{< ref "/f10/language/el.md" >}}) | 422 | 422 | 100.0 | /mnt/stockage/packages/f10/system-config-samba/po/el.po | 
- | [es]({{< ref "/f10/language/es.md" >}}) | 422 | 422 | 100.0 | /mnt/stockage/packages/f10/system-config-samba/po/es.po | 
- | [fr]({{< ref "/f10/language/fr.md" >}}) | 422 | 422 | 100.0 | /mnt/stockage/packages/f10/system-config-samba/po/fr.po | 
- | [gu]({{< ref "/f10/language/gu.md" >}}) | 422 | 422 | 100.0 | /mnt/stockage/packages/f10/system-config-samba/po/gu.po | 
- | [hi]({{< ref "/f10/language/hi.md" >}}) | 422 | 422 | 100.0 | /mnt/stockage/packages/f10/system-config-samba/po/hi.po | 
- | [hu]({{< ref "/f10/language/hu.md" >}}) | 422 | 422 | 100.0 | /mnt/stockage/packages/f10/system-config-samba/po/hu.po | 
- | [ml]({{< ref "/f10/language/ml.md" >}}) | 422 | 422 | 100.0 | /mnt/stockage/packages/f10/system-config-samba/po/ml.po | 
- | [mr]({{< ref "/f10/language/mr.md" >}}) | 422 | 422 | 100.0 | /mnt/stockage/packages/f10/system-config-samba/po/mr.po | 
- | [nl]({{< ref "/f10/language/nl.md" >}}) | 422 | 422 | 100.0 | /mnt/stockage/packages/f10/system-config-samba/po/nl.po | 
- | [or]({{< ref "/f10/language/or.md" >}}) | 422 | 422 | 100.0 | /mnt/stockage/packages/f10/system-config-samba/po/or.po | 
- | [pa]({{< ref "/f10/language/pa.md" >}}) | 422 | 422 | 100.0 | /mnt/stockage/packages/f10/system-config-samba/po/pa.po | 
- | [pl]({{< ref "/f10/language/pl.md" >}}) | 422 | 422 | 100.0 | /mnt/stockage/packages/f10/system-config-samba/po/pl.po | 
- | [pt]({{< ref "/f10/language/pt.md" >}}) | 422 | 422 | 100.0 | /mnt/stockage/packages/f10/system-config-samba/po/pt.po | 
- | [pt_BR]({{< ref "/f10/language/pt_BR.md" >}}) | 422 | 422 | 100.0 | /mnt/stockage/packages/f10/system-config-samba/po/pt_BR.po | 
- | [ru]({{< ref "/f10/language/ru.md" >}}) | 422 | 422 | 100.0 | /mnt/stockage/packages/f10/system-config-samba/po/ru.po | 
- | [sk]({{< ref "/f10/language/sk.md" >}}) | 422 | 422 | 100.0 | /mnt/stockage/packages/f10/system-config-samba/po/sk.po | 
- | [sr]({{< ref "/f10/language/sr.md" >}}) | 422 | 422 | 100.0 | /mnt/stockage/packages/f10/system-config-samba/po/sr.po | 
- | [sr_Latn]({{< ref "/f10/language/sr_Latn.md" >}}) | 422 | 422 | 100.0 | /mnt/stockage/packages/f10/system-config-samba/po/sr@latin.po | 
- | [sv]({{< ref "/f10/language/sv.md" >}}) | 422 | 422 | 100.0 | /mnt/stockage/packages/f10/system-config-samba/po/sv.po | 
- | [te]({{< ref "/f10/language/te.md" >}}) | 422 | 422 | 100.0 | /mnt/stockage/packages/f10/system-config-samba/po/te.po | 
- | [zh_Hans]({{< ref "/f10/language/zh_Hans.md" >}}) | 422 | 422 | 100.0 | /mnt/stockage/packages/f10/system-config-samba/po/zh_CN.po | 
- | [ca]({{< ref "/f10/language/ca.md" >}}) | 415 | 422 | 98.3 | /mnt/stockage/packages/f10/system-config-samba/po/ca.po | 
- | [de_CH]({{< ref "/f10/language/de_CH.md" >}}) | 415 | 422 | 98.3 | /mnt/stockage/packages/f10/system-config-samba/po/de_CH.po | 
- | [fi]({{< ref "/f10/language/fi.md" >}}) | 415 | 422 | 98.3 | /mnt/stockage/packages/f10/system-config-samba/po/fi.po | 
- | [hr]({{< ref "/f10/language/hr.md" >}}) | 415 | 422 | 98.3 | /mnt/stockage/packages/f10/system-config-samba/po/hr.po | 
- | [it]({{< ref "/f10/language/it.md" >}}) | 415 | 422 | 98.3 | /mnt/stockage/packages/f10/system-config-samba/po/it.po | 
- | [bg]({{< ref "/f10/language/bg.md" >}}) | 413 | 422 | 97.9 | /mnt/stockage/packages/f10/system-config-samba/po/bg.po | 
- | [cs]({{< ref "/f10/language/cs.md" >}}) | 413 | 422 | 97.9 | /mnt/stockage/packages/f10/system-config-samba/po/cs.po | 
- | [he]({{< ref "/f10/language/he.md" >}}) | 405 | 422 | 96.0 | /mnt/stockage/packages/f10/system-config-samba/po/he.po | 
- | [is]({{< ref "/f10/language/is.md" >}}) | 401 | 422 | 95.0 | /mnt/stockage/packages/f10/system-config-samba/po/is.po | 
- | [ja]({{< ref "/f10/language/ja.md" >}}) | 401 | 422 | 95.0 | /mnt/stockage/packages/f10/system-config-samba/po/ja.po | 
- | [kn]({{< ref "/f10/language/kn.md" >}}) | 401 | 422 | 95.0 | /mnt/stockage/packages/f10/system-config-samba/po/kn.po | 
- | [ko]({{< ref "/f10/language/ko.md" >}}) | 401 | 422 | 95.0 | /mnt/stockage/packages/f10/system-config-samba/po/ko.po | 
- | [mai]({{< ref "/f10/language/mai.md" >}}) | 401 | 422 | 95.0 | /mnt/stockage/packages/f10/system-config-samba/po/mai.po | 
- | [nb_NO]({{< ref "/f10/language/nb_NO.md" >}}) | 401 | 422 | 95.0 | /mnt/stockage/packages/f10/system-config-samba/po/nb.po | 
- | [ta]({{< ref "/f10/language/ta.md" >}}) | 401 | 422 | 95.0 | /mnt/stockage/packages/f10/system-config-samba/po/ta.po | 
- | [zh_Hant]({{< ref "/f10/language/zh_Hant.md" >}}) | 401 | 422 | 95.0 | /mnt/stockage/packages/f10/system-config-samba/po/zh_TW.po | 
- | [en_GB]({{< ref "/f10/language/en_GB.md" >}}) | 361 | 422 | 85.5 | /mnt/stockage/packages/f10/system-config-samba/po/en_GB.po | 
- | [id]({{< ref "/f10/language/id.md" >}}) | 361 | 422 | 85.5 | /mnt/stockage/packages/f10/system-config-samba/po/id.po | 
- | [ms]({{< ref "/f10/language/ms.md" >}}) | 361 | 422 | 85.5 | /mnt/stockage/packages/f10/system-config-samba/po/ms.po | 
- | [si]({{< ref "/f10/language/si.md" >}}) | 361 | 422 | 85.5 | /mnt/stockage/packages/f10/system-config-samba/po/si.po | 
- | [ar]({{< ref "/f10/language/ar.md" >}}) | 353 | 422 | 83.6 | /mnt/stockage/packages/f10/system-config-samba/po/ar.po | 
- | [bn]({{< ref "/f10/language/bn.md" >}}) | 353 | 422 | 83.6 | /mnt/stockage/packages/f10/system-config-samba/po/bn.po | 
- | [bs]({{< ref "/f10/language/bs.md" >}}) | 353 | 422 | 83.6 | /mnt/stockage/packages/f10/system-config-samba/po/bs.po | 
- | [cy]({{< ref "/f10/language/cy.md" >}}) | 353 | 422 | 83.6 | /mnt/stockage/packages/f10/system-config-samba/po/cy.po | 
- | [et]({{< ref "/f10/language/et.md" >}}) | 353 | 422 | 83.6 | /mnt/stockage/packages/f10/system-config-samba/po/et.po | 
- | [lv]({{< ref "/f10/language/lv.md" >}}) | 353 | 422 | 83.6 | /mnt/stockage/packages/f10/system-config-samba/po/lv.po | 
- | [mk]({{< ref "/f10/language/mk.md" >}}) | 353 | 422 | 83.6 | /mnt/stockage/packages/f10/system-config-samba/po/mk.po | 
- | [ro]({{< ref "/f10/language/ro.md" >}}) | 353 | 422 | 83.6 | /mnt/stockage/packages/f10/system-config-samba/po/ro.po | 
- | [uk]({{< ref "/f10/language/uk.md" >}}) | 353 | 422 | 83.6 | /mnt/stockage/packages/f10/system-config-samba/po/uk.po | 
- | [sl]({{< ref "/f10/language/sl.md" >}}) | 263 | 422 | 62.3 | /mnt/stockage/packages/f10/system-config-samba/po/sl.po | 
- | [tr]({{< ref "/f10/language/tr.md" >}}) | 220 | 422 | 52.1 | /mnt/stockage/packages/f10/system-config-samba/po/tr.po | 
- | [vi]({{< ref "/f10/language/vi.md" >}}) | 209 | 422 | 49.5 | /mnt/stockage/packages/f10/system-config-samba/po/vi.po | 
- | [hy]({{< ref "/f10/language/hy.md" >}}) | 0 | 422 | 0.0 | /mnt/stockage/packages/f10/system-config-samba/po/hy.po | 
- | [ka]({{< ref "/f10/language/ka.md" >}}) | 0 | 422 | 0.0 | /mnt/stockage/packages/f10/system-config-samba/po/ka.po | 
- | [ku]({{< ref "/f10/language/ku.md" >}}) | 0 | 422 | 0.0 | /mnt/stockage/packages/f10/system-config-samba/po/ku.po | 
- | [lo]({{< ref "/f10/language/lo.md" >}}) | 0 | 422 | 0.0 | /mnt/stockage/packages/f10/system-config-samba/po/lo.po | 
- | [my]({{< ref "/f10/language/my.md" >}}) | 0 | 422 | 0.0 | /mnt/stockage/packages/f10/system-config-samba/po/my.po | 
- | [sq]({{< ref "/f10/language/sq.md" >}}) | 0 | 422 | 0.0 | /mnt/stockage/packages/f10/system-config-samba/po/sq.po | 
- | [ur]({{< ref "/f10/language/ur.md" >}}) | 0 | 422 | 0.0 | /mnt/stockage/packages/f10/system-config-samba/po/ur.po | 
+ | [as](/f10/language/as) | 422 | 422 | 100.0 | /mnt/stockage/packages/f10/system-config-samba/po/as.po | 
+ | [bn_IN](/f10/language/bn_IN) | 422 | 422 | 100.0 | /mnt/stockage/packages/f10/system-config-samba/po/bn_IN.po | 
+ | [da](/f10/language/da) | 422 | 422 | 100.0 | /mnt/stockage/packages/f10/system-config-samba/po/da.po | 
+ | [de](/f10/language/de) | 422 | 422 | 100.0 | /mnt/stockage/packages/f10/system-config-samba/po/de.po | 
+ | [el](/f10/language/el) | 422 | 422 | 100.0 | /mnt/stockage/packages/f10/system-config-samba/po/el.po | 
+ | [es](/f10/language/es) | 422 | 422 | 100.0 | /mnt/stockage/packages/f10/system-config-samba/po/es.po | 
+ | [fr](/f10/language/fr) | 422 | 422 | 100.0 | /mnt/stockage/packages/f10/system-config-samba/po/fr.po | 
+ | [gu](/f10/language/gu) | 422 | 422 | 100.0 | /mnt/stockage/packages/f10/system-config-samba/po/gu.po | 
+ | [hi](/f10/language/hi) | 422 | 422 | 100.0 | /mnt/stockage/packages/f10/system-config-samba/po/hi.po | 
+ | [hu](/f10/language/hu) | 422 | 422 | 100.0 | /mnt/stockage/packages/f10/system-config-samba/po/hu.po | 
+ | [ml](/f10/language/ml) | 422 | 422 | 100.0 | /mnt/stockage/packages/f10/system-config-samba/po/ml.po | 
+ | [mr](/f10/language/mr) | 422 | 422 | 100.0 | /mnt/stockage/packages/f10/system-config-samba/po/mr.po | 
+ | [nl](/f10/language/nl) | 422 | 422 | 100.0 | /mnt/stockage/packages/f10/system-config-samba/po/nl.po | 
+ | [or](/f10/language/or) | 422 | 422 | 100.0 | /mnt/stockage/packages/f10/system-config-samba/po/or.po | 
+ | [pa](/f10/language/pa) | 422 | 422 | 100.0 | /mnt/stockage/packages/f10/system-config-samba/po/pa.po | 
+ | [pl](/f10/language/pl) | 422 | 422 | 100.0 | /mnt/stockage/packages/f10/system-config-samba/po/pl.po | 
+ | [pt](/f10/language/pt) | 422 | 422 | 100.0 | /mnt/stockage/packages/f10/system-config-samba/po/pt.po | 
+ | [pt_BR](/f10/language/pt_BR) | 422 | 422 | 100.0 | /mnt/stockage/packages/f10/system-config-samba/po/pt_BR.po | 
+ | [ru](/f10/language/ru) | 422 | 422 | 100.0 | /mnt/stockage/packages/f10/system-config-samba/po/ru.po | 
+ | [sk](/f10/language/sk) | 422 | 422 | 100.0 | /mnt/stockage/packages/f10/system-config-samba/po/sk.po | 
+ | [sr](/f10/language/sr) | 422 | 422 | 100.0 | /mnt/stockage/packages/f10/system-config-samba/po/sr.po | 
+ | [sr_Latn](/f10/language/sr_Latn) | 422 | 422 | 100.0 | /mnt/stockage/packages/f10/system-config-samba/po/sr@latin.po | 
+ | [sv](/f10/language/sv) | 422 | 422 | 100.0 | /mnt/stockage/packages/f10/system-config-samba/po/sv.po | 
+ | [te](/f10/language/te) | 422 | 422 | 100.0 | /mnt/stockage/packages/f10/system-config-samba/po/te.po | 
+ | [zh_Hans](/f10/language/zh_Hans) | 422 | 422 | 100.0 | /mnt/stockage/packages/f10/system-config-samba/po/zh_CN.po | 
+ | [ca](/f10/language/ca) | 415 | 422 | 98.3 | /mnt/stockage/packages/f10/system-config-samba/po/ca.po | 
+ | [de_CH](/f10/language/de_CH) | 415 | 422 | 98.3 | /mnt/stockage/packages/f10/system-config-samba/po/de_CH.po | 
+ | [fi](/f10/language/fi) | 415 | 422 | 98.3 | /mnt/stockage/packages/f10/system-config-samba/po/fi.po | 
+ | [hr](/f10/language/hr) | 415 | 422 | 98.3 | /mnt/stockage/packages/f10/system-config-samba/po/hr.po | 
+ | [it](/f10/language/it) | 415 | 422 | 98.3 | /mnt/stockage/packages/f10/system-config-samba/po/it.po | 
+ | [bg](/f10/language/bg) | 413 | 422 | 97.9 | /mnt/stockage/packages/f10/system-config-samba/po/bg.po | 
+ | [cs](/f10/language/cs) | 413 | 422 | 97.9 | /mnt/stockage/packages/f10/system-config-samba/po/cs.po | 
+ | [he](/f10/language/he) | 405 | 422 | 96.0 | /mnt/stockage/packages/f10/system-config-samba/po/he.po | 
+ | [is](/f10/language/is) | 401 | 422 | 95.0 | /mnt/stockage/packages/f10/system-config-samba/po/is.po | 
+ | [ja](/f10/language/ja) | 401 | 422 | 95.0 | /mnt/stockage/packages/f10/system-config-samba/po/ja.po | 
+ | [kn](/f10/language/kn) | 401 | 422 | 95.0 | /mnt/stockage/packages/f10/system-config-samba/po/kn.po | 
+ | [ko](/f10/language/ko) | 401 | 422 | 95.0 | /mnt/stockage/packages/f10/system-config-samba/po/ko.po | 
+ | [mai](/f10/language/mai) | 401 | 422 | 95.0 | /mnt/stockage/packages/f10/system-config-samba/po/mai.po | 
+ | [nb_NO](/f10/language/nb_NO) | 401 | 422 | 95.0 | /mnt/stockage/packages/f10/system-config-samba/po/nb.po | 
+ | [ta](/f10/language/ta) | 401 | 422 | 95.0 | /mnt/stockage/packages/f10/system-config-samba/po/ta.po | 
+ | [zh_Hant](/f10/language/zh_Hant) | 401 | 422 | 95.0 | /mnt/stockage/packages/f10/system-config-samba/po/zh_TW.po | 
+ | [en_GB](/f10/language/en_GB) | 361 | 422 | 85.5 | /mnt/stockage/packages/f10/system-config-samba/po/en_GB.po | 
+ | [id](/f10/language/id) | 361 | 422 | 85.5 | /mnt/stockage/packages/f10/system-config-samba/po/id.po | 
+ | [ms](/f10/language/ms) | 361 | 422 | 85.5 | /mnt/stockage/packages/f10/system-config-samba/po/ms.po | 
+ | [si](/f10/language/si) | 361 | 422 | 85.5 | /mnt/stockage/packages/f10/system-config-samba/po/si.po | 
+ | [ar](/f10/language/ar) | 353 | 422 | 83.6 | /mnt/stockage/packages/f10/system-config-samba/po/ar.po | 
+ | [bn](/f10/language/bn) | 353 | 422 | 83.6 | /mnt/stockage/packages/f10/system-config-samba/po/bn.po | 
+ | [bs](/f10/language/bs) | 353 | 422 | 83.6 | /mnt/stockage/packages/f10/system-config-samba/po/bs.po | 
+ | [cy](/f10/language/cy) | 353 | 422 | 83.6 | /mnt/stockage/packages/f10/system-config-samba/po/cy.po | 
+ | [et](/f10/language/et) | 353 | 422 | 83.6 | /mnt/stockage/packages/f10/system-config-samba/po/et.po | 
+ | [lv](/f10/language/lv) | 353 | 422 | 83.6 | /mnt/stockage/packages/f10/system-config-samba/po/lv.po | 
+ | [mk](/f10/language/mk) | 353 | 422 | 83.6 | /mnt/stockage/packages/f10/system-config-samba/po/mk.po | 
+ | [ro](/f10/language/ro) | 353 | 422 | 83.6 | /mnt/stockage/packages/f10/system-config-samba/po/ro.po | 
+ | [uk](/f10/language/uk) | 353 | 422 | 83.6 | /mnt/stockage/packages/f10/system-config-samba/po/uk.po | 
+ | [sl](/f10/language/sl) | 263 | 422 | 62.3 | /mnt/stockage/packages/f10/system-config-samba/po/sl.po | 
+ | [tr](/f10/language/tr) | 220 | 422 | 52.1 | /mnt/stockage/packages/f10/system-config-samba/po/tr.po | 
+ | [vi](/f10/language/vi) | 209 | 422 | 49.5 | /mnt/stockage/packages/f10/system-config-samba/po/vi.po | 
+ | [hy](/f10/language/hy) | 0 | 422 | 0.0 | /mnt/stockage/packages/f10/system-config-samba/po/hy.po | 
+ | [ka](/f10/language/ka) | 0 | 422 | 0.0 | /mnt/stockage/packages/f10/system-config-samba/po/ka.po | 
+ | [ku](/f10/language/ku) | 0 | 422 | 0.0 | /mnt/stockage/packages/f10/system-config-samba/po/ku.po | 
+ | [lo](/f10/language/lo) | 0 | 422 | 0.0 | /mnt/stockage/packages/f10/system-config-samba/po/lo.po | 
+ | [my](/f10/language/my) | 0 | 422 | 0.0 | /mnt/stockage/packages/f10/system-config-samba/po/my.po | 
+ | [sq](/f10/language/sq) | 0 | 422 | 0.0 | /mnt/stockage/packages/f10/system-config-samba/po/sq.po | 
+ | [ur](/f10/language/ur) | 0 | 422 | 0.0 | /mnt/stockage/packages/f10/system-config-samba/po/ur.po | 
 {.sortable}
 
 

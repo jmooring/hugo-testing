@@ -18,7 +18,7 @@ The package kscope (version 1.6.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [zh_Hans]({{< ref "/f9/language/zh_Hans.md" >}}) | 1268 | 1296 | 97.8 | /mnt/stockage/packages/f9/kscope/po/zh_CN.po | 
+ | [zh_Hans](/f9/language/zh_Hans) | 1268 | 1296 | 97.8 | /mnt/stockage/packages/f9/kscope/po/zh_CN.po | 
 {.sortable}
 
 

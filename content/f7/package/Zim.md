@@ -18,13 +18,13 @@ The package Zim (version 0.23):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f7/language/cs.md" >}}) | 766 | 766 | 100.0 | /mnt/stockage/packages/f7/Zim/po/cs.po | 
- | [nl]({{< ref "/f7/language/nl.md" >}}) | 766 | 766 | 100.0 | /mnt/stockage/packages/f7/Zim/po/nl.po | 
- | [pt]({{< ref "/f7/language/pt.md" >}}) | 766 | 766 | 100.0 | /mnt/stockage/packages/f7/Zim/po/pt.po | 
- | [sv]({{< ref "/f7/language/sv.md" >}}) | 766 | 766 | 100.0 | /mnt/stockage/packages/f7/Zim/po/sv.po | 
- | [es]({{< ref "/f7/language/es.md" >}}) | 761 | 766 | 99.3 | /mnt/stockage/packages/f7/Zim/po/es.po | 
- | [fr]({{< ref "/f7/language/fr.md" >}}) | 384 | 758 | 50.7 | /mnt/stockage/packages/f7/Zim/po/fr.po | 
- | [it]({{< ref "/f7/language/it.md" >}}) | 317 | 766 | 41.4 | /mnt/stockage/packages/f7/Zim/po/it.po | 
+ | [cs](/f7/language/cs) | 766 | 766 | 100.0 | /mnt/stockage/packages/f7/Zim/po/cs.po | 
+ | [nl](/f7/language/nl) | 766 | 766 | 100.0 | /mnt/stockage/packages/f7/Zim/po/nl.po | 
+ | [pt](/f7/language/pt) | 766 | 766 | 100.0 | /mnt/stockage/packages/f7/Zim/po/pt.po | 
+ | [sv](/f7/language/sv) | 766 | 766 | 100.0 | /mnt/stockage/packages/f7/Zim/po/sv.po | 
+ | [es](/f7/language/es) | 761 | 766 | 99.3 | /mnt/stockage/packages/f7/Zim/po/es.po | 
+ | [fr](/f7/language/fr) | 384 | 758 | 50.7 | /mnt/stockage/packages/f7/Zim/po/fr.po | 
+ | [it](/f7/language/it) | 317 | 766 | 41.4 | /mnt/stockage/packages/f7/Zim/po/it.po | 
 {.sortable}
 
 

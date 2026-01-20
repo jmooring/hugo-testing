@@ -18,8 +18,8 @@ The package R-scatterplot3d (version 0.3.43):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f41/language/de.md" >}}) | 20 | 20 | 100.0 | /mnt/stockage/packages/f41/R-scatterplot3d/po/R-de.po | 
- | [en]({{< ref "/f41/language/en.md" >}}) | 0 | 20 | 0.0 | /mnt/stockage/packages/f41/R-scatterplot3d/po/R-en.po | 
+ | [de](/f41/language/de) | 20 | 20 | 100.0 | /mnt/stockage/packages/f41/R-scatterplot3d/po/R-de.po | 
+ | [en](/f41/language/en) | 0 | 20 | 0.0 | /mnt/stockage/packages/f41/R-scatterplot3d/po/R-en.po | 
 {.sortable}
 
 

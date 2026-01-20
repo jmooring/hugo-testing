@@ -18,16 +18,16 @@ The package ipplan (version 4.92):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f17/language/fr.md" >}}) | 5154 | 5154 | 100.0 | /mnt/stockage/packages/f17/ipplan/locale/fr/LC_MESSAGES/messages.po | 
- | [ru]({{< ref "/f17/language/ru.md" >}}) | 5128 | 5128 | 100.0 | /mnt/stockage/packages/f17/ipplan/locale/ru/LC_MESSAGES/messages.po | 
- | [bg]({{< ref "/f17/language/bg.md" >}}) | 4513 | 4516 | 99.9 | /mnt/stockage/packages/f17/ipplan/locale/bg/LC_MESSAGES/messages.po | 
- | [de]({{< ref "/f17/language/de.md" >}}) | 5362 | 5374 | 99.8 | /mnt/stockage/packages/f17/ipplan/locale/de/LC_MESSAGES/messages.po | 
- | [pt_BR]({{< ref "/f17/language/pt_BR.md" >}}) | 3576 | 4734 | 75.5 | /mnt/stockage/packages/f17/ipplan/locale/pt_BR/LC_MESSAGES/messages.po | 
- | [it]({{< ref "/f17/language/it.md" >}}) | 3795 | 5153 | 73.6 | /mnt/stockage/packages/f17/ipplan/locale/it/LC_MESSAGES/messages.po | 
- | [ja]({{< ref "/f17/language/ja.md" >}}) | 1354 | 4936 | 27.4 | /mnt/stockage/packages/f17/ipplan/locale/ja_JP/LC_MESSAGES/messages.po | 
- | [es]({{< ref "/f17/language/es.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f17/ipplan/locale/es/LC_MESSAGES/messages.po | 
- | [nb_NO]({{< ref "/f17/language/nb_NO.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f17/ipplan/locale/no/LC_MESSAGES/messages.po | 
- | [pt]({{< ref "/f17/language/pt.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f17/ipplan/locale/pt/LC_MESSAGES/messages.po | 
+ | [fr](/f17/language/fr) | 5154 | 5154 | 100.0 | /mnt/stockage/packages/f17/ipplan/locale/fr/LC_MESSAGES/messages.po | 
+ | [ru](/f17/language/ru) | 5128 | 5128 | 100.0 | /mnt/stockage/packages/f17/ipplan/locale/ru/LC_MESSAGES/messages.po | 
+ | [bg](/f17/language/bg) | 4513 | 4516 | 99.9 | /mnt/stockage/packages/f17/ipplan/locale/bg/LC_MESSAGES/messages.po | 
+ | [de](/f17/language/de) | 5362 | 5374 | 99.8 | /mnt/stockage/packages/f17/ipplan/locale/de/LC_MESSAGES/messages.po | 
+ | [pt_BR](/f17/language/pt_BR) | 3576 | 4734 | 75.5 | /mnt/stockage/packages/f17/ipplan/locale/pt_BR/LC_MESSAGES/messages.po | 
+ | [it](/f17/language/it) | 3795 | 5153 | 73.6 | /mnt/stockage/packages/f17/ipplan/locale/it/LC_MESSAGES/messages.po | 
+ | [ja](/f17/language/ja) | 1354 | 4936 | 27.4 | /mnt/stockage/packages/f17/ipplan/locale/ja_JP/LC_MESSAGES/messages.po | 
+ | [es](/f17/language/es) | 0 | 0 | 0.0 | /mnt/stockage/packages/f17/ipplan/locale/es/LC_MESSAGES/messages.po | 
+ | [nb_NO](/f17/language/nb_NO) | 0 | 0 | 0.0 | /mnt/stockage/packages/f17/ipplan/locale/no/LC_MESSAGES/messages.po | 
+ | [pt](/f17/language/pt) | 0 | 0 | 0.0 | /mnt/stockage/packages/f17/ipplan/locale/pt/LC_MESSAGES/messages.po | 
 {.sortable}
 
 

@@ -39,1074 +39,1074 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [0ad]({{< ref "/f34/package/0ad.md" >}}) | 300 | 300 | 100.0 | Basque (http://www.transifex.com/wildfire-games/0ad/language/eu/) | 
- | [GConf2]({{< ref "/f34/package/GConf2.md" >}}) | 4088 | 4088 | 100.0 | American English <kde-i18n-doc@kde.org> | 
- | [NetworkManager-pptp]({{< ref "/f34/package/NetworkManager-pptp.md" >}}) | 410 | 410 | 100.0 | Basque <librezale@librezale.org> | 
- | [NetworkManager-sstp]({{< ref "/f34/package/NetworkManager-sstp.md" >}}) | 410 | 410 | 100.0 | Basque <librezale@librezale.org> | 
- | [NetworkManager-vpnc]({{< ref "/f34/package/NetworkManager-vpnc.md" >}}) | 442 | 442 | 100.0 | Basque <librezale@librezale.org> | 
- | [PackageKit]({{< ref "/f34/package/PackageKit.md" >}}) | 1282 | 1282 | 100.0 | Basque (http://www.transifex.com/freedesktop/packagekit/language/eu/) | 
- | [Thunar]({{< ref "/f34/package/Thunar.md" >}}) | 4413 | 4413 | 100.0 | Basque (https://www.transifex.com/xfce/teams/16840/eu/) | 
- | [abattis-cantarell-fonts]({{< ref "/f34/package/abattis-cantarell-fonts.md" >}}) | 27 | 27 | 100.0 | Basque <librezale@librezale.eus> | 
- | [accerciser]({{< ref "/f34/package/accerciser.md" >}}) | 658 | 658 | 100.0 | Basque <itzulpena@euskalgnu.org> | 
- | [accountsservice]({{< ref "/f34/package/accountsservice.md" >}}) | 59 | 59 | 100.0 | Basque (http://www.transifex.com/freedesktop/accountsservice/language/eu/) | 
- | [aisleriot]({{< ref "/f34/package/aisleriot.md" >}}) | 20462 | 20462 | 100.0 | Basque <itzulpena@euskalgnu.org> | 
- | [akonadi-calendar-tools]({{< ref "/f34/package/akonadi-calendar-tools.md" >}}) | 785 | 785 | 100.0 | Basque <kde-i18n-eu@kde.org> | 
- | [akonadi-import-wizard]({{< ref "/f34/package/akonadi-import-wizard.md" >}}) | 394 | 394 | 100.0 | Basque <kde-i18n-eu@kde.org> | 
- | [akregator]({{< ref "/f34/package/akregator.md" >}}) | 1807 | 1807 | 100.0 | Basque <kde-i18n-eu@kde.org> | 
- | [alacarte]({{< ref "/f34/package/alacarte.md" >}}) | 42 | 42 | 100.0 | <eu@li.org> | 
- | [alleyoop]({{< ref "/f34/package/alleyoop.md" >}}) | 351 | 351 | 100.0 | Basque <itzulpena@euskalgnu.org> | 
- | [alligator]({{< ref "/f34/package/alligator.md" >}}) | 136 | 136 | 100.0 | Basque <kde-i18n-eu@kde.org> | 
- | [amtk]({{< ref "/f34/package/amtk.md" >}}) | 11 | 11 | 100.0 | Basque <librezale@librezale.eus> | 
- | [analitza]({{< ref "/f34/package/analitza.md" >}}) | 992 | 992 | 100.0 | Basque <kde-i18n-eu@kde.org> | 
- | [anjuta]({{< ref "/f34/package/anjuta.md" >}}) | 20886 | 20886 | 100.0 | Basque <itzulpena@euskalgnu.org> | 
- | [ardour6]({{< ref "/f34/package/ardour6.md" >}}) | 22404 | 22404 | 100.0 | Euskara <porrumentzio@riseup.net> | 
- | [arduino]({{< ref "/f34/package/arduino.md" >}}) | 3204 | 3204 | 100.0 | Basque (http://www.transifex.com/mbanzi/arduino-ide-15/language/eu/) | 
- | [ark]({{< ref "/f34/package/ark.md" >}}) | 1923 | 1923 | 100.0 | Basque <kde-i18n-eu@kde.org> | 
- | [artikulate]({{< ref "/f34/package/artikulate.md" >}}) | 338 | 338 | 100.0 | Basque <kde-i18n-eu@kde.org> | 
- | [at-spi2-core]({{< ref "/f34/package/at-spi2-core.md" >}}) | 10 | 10 | 100.0 | Basque <librezale@librezale.org> | 
- | [atk]({{< ref "/f34/package/atk.md" >}}) | 440 | 440 | 100.0 | Basque <librezale@librezale.org> | 
- | [atomix]({{< ref "/f34/package/atomix.md" >}}) | 208 | 208 | 100.0 | Basque <librezale@librezale.eus> | 
- | [backintime]({{< ref "/f34/package/backintime.md" >}}) | 1972 | 1972 | 100.0 | Basque <eu@li.org> | 
- | [baloo-widgets]({{< ref "/f34/package/baloo-widgets.md" >}}) | 52 | 52 | 100.0 | Basque <kde-i18n-eu@kde.org> | 
- | [baobab]({{< ref "/f34/package/baobab.md" >}}) | 307 | 307 | 100.0 | Basque <librezale@librezale.eus> | 
- | [bleachbit]({{< ref "/f34/package/bleachbit.md" >}}) | 980 | 980 | 100.0 | Basque <eu@li.org> | 
- | [blender]({{< ref "/f34/package/blender.md" >}}) | 1353 | 1353 | 100.0 | Euskara <agoenaga006@ikasle.ehu.eus> | 
- | [blinken]({{< ref "/f34/package/blinken.md" >}}) | 133 | 133 | 100.0 | Basque <itzulpena@euskalgnu.org> | 
- | [blueberry]({{< ref "/f34/package/blueberry.md" >}}) | 166 | 166 | 100.0 | Basque <eu@li.org> | 
- | [bluedevil]({{< ref "/f34/package/bluedevil.md" >}}) | 517 | 517 | 100.0 | Basque <kde-i18n-eu@kde.org> | 
- | [bomber]({{< ref "/f34/package/bomber.md" >}}) | 110 | 110 | 100.0 | Basque <kde-i18n-eu@kde.org> | 
- | [bovo]({{< ref "/f34/package/bovo.md" >}}) | 81 | 81 | 100.0 | Basque <kde-i18n-eu@kde.org> | 
- | [caribou]({{< ref "/f34/package/caribou.md" >}}) | 169 | 169 | 100.0 | Basque <kde-i18n-doc@kde.org> | 
- | [catfish]({{< ref "/f34/package/catfish.md" >}}) | 1047 | 1047 | 100.0 | Basque (https://www.transifex.com/xfce/teams/16840/eu/) | 
- | [cheese]({{< ref "/f34/package/cheese.md" >}}) | 628 | 628 | 100.0 | Basque <librezale@librezale.eus> | 
- | [chromium]({{< ref "/f34/package/chromium.md" >}}) | 13275 | 13275 | 100.0 | Basque <librezale@librezale.eus> | 
- | [clamtk]({{< ref "/f34/package/clamtk.md" >}}) | 796 | 796 | 100.0 | Basque <eu@li.org> | 
- | [clutter]({{< ref "/f34/package/clutter.md" >}}) | 3057 | 3057 | 100.0 | Basque <librezale@librezale.eus> | 
- | [cogl]({{< ref "/f34/package/cogl.md" >}}) | 393 | 393 | 100.0 | Basque <itzulpena@euskalgnu.org> | 
- | [console-setup]({{< ref "/f34/package/console-setup.md" >}}) | 984 | 984 | 100.0 | Basque <librezale@librezale.eus> | 
- | [cups-pk-helper]({{< ref "/f34/package/cups-pk-helper.md" >}}) | 149 | 149 | 100.0 | Basque (http://www.transifex.com/projects/p/freedesktop/language/eu/) | 
- | [d-feet]({{< ref "/f34/package/d-feet.md" >}}) | 111 | 111 | 100.0 | Basque <librezale@librezale.eus> | 
- | [dasher]({{< ref "/f34/package/dasher.md" >}}) | 6560 | 6560 | 100.0 | Basque <itzulpena@euskalgnu.org> | 
- | [dconf-editor]({{< ref "/f34/package/dconf-editor.md" >}}) | 2955 | 2955 | 100.0 | Basque <librezale@librezale.eus> | 
- | [devhelp]({{< ref "/f34/package/devhelp.md" >}}) | 402 | 402 | 100.0 | Basque <librezale@librezale.eus> | 
- | [dia]({{< ref "/f34/package/dia.md" >}}) | 6601 | 6601 | 100.0 | Basque <itzulpena@euskalgnu.org> | 
- | [dialect]({{< ref "/f34/package/dialect.md" >}}) | 366 | 366 | 100.0 | Basque <https://hosted.weblate.org/projects/dialect/dialect/eu/> | 
- | [dialog]({{< ref "/f34/package/dialog.md" >}}) | 25 | 25 | 100.0 | Basque  <translation-team-eu@lists.sourceforge.net> | 
- | [dolphin]({{< ref "/f34/package/dolphin.md" >}}) | 4746 | 4746 | 100.0 | Basque <kde-i18n-eu@kde.org> | 
- | [dolphin-plugins]({{< ref "/f34/package/dolphin-plugins.md" >}}) | 748 | 748 | 100.0 | Basque <kde-i18n-eu@kde.org> | 
- | [dragon]({{< ref "/f34/package/dragon.md" >}}) | 281 | 281 | 100.0 | Basque <kde-i18n-eu@kde.org> | 
- | [eog]({{< ref "/f34/package/eog.md" >}}) | 4783 | 4783 | 100.0 | Basque <itzulpena@euskalgnu.org> | 
- | [epiphany]({{< ref "/f34/package/epiphany.md" >}}) | 4558 | 4558 | 100.0 | Basque <librezale@librezale.eus> | 
- | [evince]({{< ref "/f34/package/evince.md" >}}) | 3505 | 3505 | 100.0 | Basque <itzulpena@euskalgnu.org> | 
- | [evolution-data-server]({{< ref "/f34/package/evolution-data-server.md" >}}) | 7860 | 7860 | 100.0 | Basque <librezale@librezale.eus> | 
- | [evolution-ews]({{< ref "/f34/package/evolution-ews.md" >}}) | 1824 | 1824 | 100.0 | Basque <librezale@librezale.eus> | 
- | [evolution-mapi]({{< ref "/f34/package/evolution-mapi.md" >}}) | 1039 | 1039 | 100.0 | Basque <librezale@librezale.eus> | 
- | [evolution-rss]({{< ref "/f34/package/evolution-rss.md" >}}) | 674 | 674 | 100.0 | American English <kde-i18n-doc@kde.org> | 
- | [exo]({{< ref "/f34/package/exo.md" >}}) | 738 | 738 | 100.0 | Basque (http://www.transifex.com/xfce/exo/language/eu/) | 
- | [falkon]({{< ref "/f34/package/falkon.md" >}}) | 4386 | 4386 | 100.0 | Basque <kde-i18n-eu@kde.org> | 
- | [file-roller]({{< ref "/f34/package/file-roller.md" >}}) | 1292 | 1292 | 100.0 | Basque <librezale@librezale.eus> | 
- | [filelight]({{< ref "/f34/package/filelight.md" >}}) | 434 | 434 | 100.0 | Basque <kde-i18n-eu@kde.org> | 
- | [filezilla]({{< ref "/f34/package/filezilla.md" >}}) | 10551 | 10551 | 100.0 | Spanish <kde-i18n-doc@kde.org> | 
- | [five-or-more]({{< ref "/f34/package/five-or-more.md" >}}) | 239 | 239 | 100.0 | Basque <librezale@librezale.eus> | 
- | [folks]({{< ref "/f34/package/folks.md" >}}) | 1056 | 1056 | 100.0 | Basque <librezale@librezale.eus> | 
- | [four-in-a-row]({{< ref "/f34/package/four-in-a-row.md" >}}) | 480 | 480 | 100.0 | Basque <librezale@librezale.eus> | 
- | [fwupd]({{< ref "/f34/package/fwupd.md" >}}) | 12 | 12 | 100.0 | Basque (http://www.transifex.com/freedesktop/fwupd/language/eu/) | 
- | [ganglia]({{< ref "/f34/package/ganglia.md" >}}) | 59 | 59 | 100.0 | Euskara <debian-l10n-eu@lists.debian.org> | 
- | [garcon]({{< ref "/f34/package/garcon.md" >}}) | 122 | 122 | 100.0 | Basque (http://www.transifex.com/xfce/garcon/language/eu/) | 
- | [gbrainy]({{< ref "/f34/package/gbrainy.md" >}}) | 8638 | 8638 | 100.0 | Basque <itzulpena@euskalgnu.org> | 
- | [gcab]({{< ref "/f34/package/gcab.md" >}}) | 159 | 159 | 100.0 | Basque <librezale@librezale.org> | 
- | [gcompris-qt]({{< ref "/f34/package/gcompris-qt.md" >}}) | 29269 | 29269 | 100.0 | Basque <kde-i18n-eu@kde.org> | 
- | [gconf-editor]({{< ref "/f34/package/gconf-editor.md" >}}) | 2834 | 2834 | 100.0 | Basque <itzulpena@euskalgnu.org> | 
- | [gcr]({{< ref "/f34/package/gcr.md" >}}) | 754 | 754 | 100.0 | Basque <librezale@librezale.eus> | 
- | [gdk-pixbuf2]({{< ref "/f34/package/gdk-pixbuf2.md" >}}) | 1325 | 1325 | 100.0 | Basque <librezale@librezale.eus> | 
- | [geary]({{< ref "/f34/package/geary.md" >}}) | 2677 | 2677 | 100.0 | Basque <librezale@librezale.eus> | 
- | [gedit]({{< ref "/f34/package/gedit.md" >}}) | 11587 | 11587 | 100.0 | Basque <itzulpena@euskalgnu.org> | 
- | [gedit-plugins]({{< ref "/f34/package/gedit-plugins.md" >}}) | 8666 | 8666 | 100.0 | Basque <itzulpena@euskalgnu.org> | 
- | [genius]({{< ref "/f34/package/genius.md" >}}) | 7297 | 7297 | 100.0 | Basque <itzulpena@euskalgnu.org> | 
- | [ghex]({{< ref "/f34/package/ghex.md" >}}) | 973 | 973 | 100.0 | Basque <itzulpena@euskalgnu.org> | 
- | [gip]({{< ref "/f34/package/gip.md" >}}) | 103 | 103 | 100.0 | Basque <translation-team-eu@lists.sourceforge.net> | 
- | [gitg]({{< ref "/f34/package/gitg.md" >}}) | 2158 | 2158 | 100.0 | Basque <librezale@librezale.eus> | 
- | [glade]({{< ref "/f34/package/glade.md" >}}) | 8616 | 8616 | 100.0 | Basque <itzulpena@euskalgnu.org> | 
- | [glib-networking]({{< ref "/f34/package/glib-networking.md" >}}) | 402 | 402 | 100.0 | Basque <librezale@librezale.eus> | 
- | [glib2]({{< ref "/f34/package/glib2.md" >}}) | 7630 | 7630 | 100.0 | Basque <librezale@librezale.eus> | 
- | [glom]({{< ref "/f34/package/glom.md" >}}) | 4915 | 4915 | 100.0 | Basque <librezale@librezale.org> | 
- | [gnome-2048]({{< ref "/f34/package/gnome-2048.md" >}}) | 347 | 347 | 100.0 | Basque <librezale@librezale.eus> | 
- | [gnome-activity-journal]({{< ref "/f34/package/gnome-activity-journal.md" >}}) | 316 | 316 | 100.0 | Basque <eu@li.org> | 
- | [gnome-applets]({{< ref "/f34/package/gnome-applets.md" >}}) | 17087 | 17087 | 100.0 | Basque <itzulpena@euskalgnu.org> | 
- | [gnome-bluetooth]({{< ref "/f34/package/gnome-bluetooth.md" >}}) | 373 | 373 | 100.0 | Basque <librezale@librezale.eus> | 
- | [gnome-books]({{< ref "/f34/package/gnome-books.md" >}}) | 421 | 421 | 100.0 | Basque <librezale@librezale.eus> | 
- | [gnome-builder]({{< ref "/f34/package/gnome-builder.md" >}}) | 5239 | 5239 | 100.0 | Basque <librezale@librezale.eus> | 
- | [gnome-calendar]({{< ref "/f34/package/gnome-calendar.md" >}}) | 795 | 795 | 100.0 | Basque <librezale@librezale.eus> | 
- | [gnome-characters]({{< ref "/f34/package/gnome-characters.md" >}}) | 181 | 181 | 100.0 | Basque <librezale@librezale.eus> | 
- | [gnome-color-manager]({{< ref "/f34/package/gnome-color-manager.md" >}}) | 1796 | 1796 | 100.0 | Basque <librezale@librezale.eus> | 
- | [gnome-connections]({{< ref "/f34/package/gnome-connections.md" >}}) | 341 | 341 | 100.0 | Basque <librezale@librezale.eus> | 
- | [gnome-contacts]({{< ref "/f34/package/gnome-contacts.md" >}}) | 585 | 585 | 100.0 | Basque <librezale@librezale.eus> | 
- | [gnome-desktop]({{< ref "/f34/package/gnome-desktop.md" >}}) | 10013 | 10013 | 100.0 | Basque <itzulpena@euskalgnu.org> | 
- | [gnome-desktop3]({{< ref "/f34/package/gnome-desktop3.md" >}}) | 9736 | 9736 | 100.0 | Basque <itzulpena@euskalgnu.org> | 
- | [gnome-dictionary]({{< ref "/f34/package/gnome-dictionary.md" >}}) | 1904 | 1904 | 100.0 | Basque <itzulpena@euskalgnu.org> | 
- | [gnome-disk-utility]({{< ref "/f34/package/gnome-disk-utility.md" >}}) | 3980 | 3980 | 100.0 | Basque <librezale@librezale.eus> | 
- | [gnome-do]({{< ref "/f34/package/gnome-do.md" >}}) | 612 | 612 | 100.0 | Basque <eu@li.org> | 
- | [gnome-doc-utils]({{< ref "/f34/package/gnome-doc-utils.md" >}}) | 251 | 251 | 100.0 | Basque <itzulpena@euskalgnu.org> | 
- | [gnome-extensions-app]({{< ref "/f34/package/gnome-extensions-app.md" >}}) | 2767 | 2767 | 100.0 | Basque <librezale@librezale.eus> | 
- | [gnome-flashback]({{< ref "/f34/package/gnome-flashback.md" >}}) | 1302 | 1302 | 100.0 | Basque <librezale@librezale.eus> | 
- | [gnome-font-viewer]({{< ref "/f34/package/gnome-font-viewer.md" >}}) | 536 | 536 | 100.0 | Basque <librezale@librezale.eus> | 
- | [gnome-games]({{< ref "/f34/package/gnome-games.md" >}}) | 857 | 857 | 100.0 | Basque <librezale@librezale.eus> | 
- | [gnome-icon-theme]({{< ref "/f34/package/gnome-icon-theme.md" >}}) | 43 | 43 | 100.0 | Basque <eu@li.org> | 
- | [gnome-initial-setup]({{< ref "/f34/package/gnome-initial-setup.md" >}}) | 842 | 842 | 100.0 | Basque <librezale@librezale.eus> | 
- | [gnome-keyring]({{< ref "/f34/package/gnome-keyring.md" >}}) | 469 | 469 | 100.0 | Basque <librezale@librezale.eus> | 
- | [gnome-klotski]({{< ref "/f34/package/gnome-klotski.md" >}}) | 1433 | 1433 | 100.0 | Basque <itzulpena@euskalgnu.org> | 
- | [gnome-latex]({{< ref "/f34/package/gnome-latex.md" >}}) | 2473 | 2473 | 100.0 | Basque <librezale@librezale.eus> | 
- | [gnome-logs]({{< ref "/f34/package/gnome-logs.md" >}}) | 380 | 380 | 100.0 | Basque <librezale@librezale.eus> | 
- | [gnome-mahjongg]({{< ref "/f34/package/gnome-mahjongg.md" >}}) | 329 | 329 | 100.0 | Basque <librezale@librezale.eus> | 
- | [gnome-maps]({{< ref "/f34/package/gnome-maps.md" >}}) | 1494 | 1494 | 100.0 | Basque <librezale@librezale.eus> | 
- | [gnome-menus]({{< ref "/f34/package/gnome-menus.md" >}}) | 81 | 81 | 100.0 | Basque <librezale@librezale.eus> | 
- | [gnome-mime-data]({{< ref "/f34/package/gnome-mime-data.md" >}}) | 887 | 887 | 100.0 | Basque <itzulpena@euskalgnu.org> | 
- | [gnome-multi-writer]({{< ref "/f34/package/gnome-multi-writer.md" >}}) | 382 | 382 | 100.0 | Basque <librezale@librezale.eus> | 
- | [gnome-music]({{< ref "/f34/package/gnome-music.md" >}}) | 1178 | 1178 | 100.0 | Basque <librezale@librezale.eus> | 
- | [gnome-nettool]({{< ref "/f34/package/gnome-nettool.md" >}}) | 664 | 664 | 100.0 | Basque <kde-i18n-doc@kde.org> | 
- | [gnome-network-displays]({{< ref "/f34/package/gnome-network-displays.md" >}}) | 195 | 195 | 100.0 | Basque <librezale@librezale.eus> | 
- | [gnome-nibbles]({{< ref "/f34/package/gnome-nibbles.md" >}}) | 588 | 588 | 100.0 | Basque <librezale@librezale.eus> | 
- | [gnome-online-accounts]({{< ref "/f34/package/gnome-online-accounts.md" >}}) | 669 | 669 | 100.0 | Basque <librezale@librezale.eus> | 
- | [gnome-packagekit]({{< ref "/f34/package/gnome-packagekit.md" >}}) | 3593 | 3593 | 100.0 | Basque <librezale@librezale.org> | 
- | [gnome-panel]({{< ref "/f34/package/gnome-panel.md" >}}) | 5057 | 5057 | 100.0 | Basque <itzulpena@euskalgnu.org> | 
- | [gnome-passwordsafe]({{< ref "/f34/package/gnome-passwordsafe.md" >}}) | 1057 | 1057 | 100.0 | Basque <librezale@librezale.eus> | 
- | [gnome-photos]({{< ref "/f34/package/gnome-photos.md" >}}) | 1029 | 1029 | 100.0 | Basque <librezale@librezale.eus> | 
- | [gnome-power-manager]({{< ref "/f34/package/gnome-power-manager.md" >}}) | 480 | 480 | 100.0 | Basque <librezale@librezale.org> | 
- | [gnome-radio]({{< ref "/f34/package/gnome-radio.md" >}}) | 1236 | 1236 | 100.0 | Basque <librezale@librezale.eus> | 
- | [gnome-robots]({{< ref "/f34/package/gnome-robots.md" >}}) | 596 | 596 | 100.0 | Basque <librezale@librezale.eus> | 
- | [gnome-screenshot]({{< ref "/f34/package/gnome-screenshot.md" >}}) | 417 | 417 | 100.0 | Basque <librezale@librezale.eus> | 
- | [gnome-search-tool]({{< ref "/f34/package/gnome-search-tool.md" >}}) | 3179 | 3179 | 100.0 | Basque <itzulpena@euskalgnu.org> | 
- | [gnome-session]({{< ref "/f34/package/gnome-session.md" >}}) | 432 | 432 | 100.0 | Basque <librezale@librezale.eus> | 
- | [gnome-settings-daemon]({{< ref "/f34/package/gnome-settings-daemon.md" >}}) | 3417 | 3417 | 100.0 | Basque <librezale@librezale.eus> | 
- | [gnome-shell]({{< ref "/f34/package/gnome-shell.md" >}}) | 2767 | 2767 | 100.0 | Basque <librezale@librezale.eus> | 
- | [gnome-shell-extension-dash-to-dock]({{< ref "/f34/package/gnome-shell-extension-dash-to-dock.md" >}}) | 476 | 476 | 100.0 |  | 
- | [gnome-shell-extensions]({{< ref "/f34/package/gnome-shell-extensions.md" >}}) | 262 | 262 | 100.0 | Basque <librezale@librezale.eus> | 
- | [gnome-shell-frippery]({{< ref "/f34/package/gnome-shell-frippery.md" >}}) | 22 | 22 | 100.0 | Basque <itzulpena@euskalgnu.org> | 
- | [gnome-software]({{< ref "/f34/package/gnome-software.md" >}}) | 3524 | 3524 | 100.0 | Basque <librezale@librezale.eus> | 
- | [gnome-sound-recorder]({{< ref "/f34/package/gnome-sound-recorder.md" >}}) | 270 | 270 | 100.0 | Basque <librezale@librezale.eus> | 
- | [gnome-system-log]({{< ref "/f34/package/gnome-system-log.md" >}}) | 1660 | 1660 | 100.0 | Basque <itzulpena@euskalgnu.org> | 
- | [gnome-system-monitor]({{< ref "/f34/package/gnome-system-monitor.md" >}}) | 1568 | 1568 | 100.0 | Basque <librezale@librezale.eus> | 
- | [gnome-taquin]({{< ref "/f34/package/gnome-taquin.md" >}}) | 431 | 431 | 100.0 | Basque <librezale@librezale.eus> | 
- | [gnome-terminal]({{< ref "/f34/package/gnome-terminal.md" >}}) | 2627 | 2627 | 100.0 | Basque <librezale@librezale.eus> | 
- | [gnome-tetravex]({{< ref "/f34/package/gnome-tetravex.md" >}}) | 968 | 968 | 100.0 | Basque <librezale@librezale.eus> | 
- | [gnome-themes-extra]({{< ref "/f34/package/gnome-themes-extra.md" >}}) | 15 | 15 | 100.0 | Basque <librezale@librezale.eus> | 
- | [gnome-todo]({{< ref "/f34/package/gnome-todo.md" >}}) | 717 | 717 | 100.0 | Basque <librezale@librezale.eus> | 
- | [gnome-tour]({{< ref "/f34/package/gnome-tour.md" >}}) | 112 | 112 | 100.0 | Basque <librezale@librezale.eus> | 
- | [gnome-tweaks]({{< ref "/f34/package/gnome-tweaks.md" >}}) | 657 | 657 | 100.0 | Basque <librezale@librezale.eus> | 
- | [gnome-usage]({{< ref "/f34/package/gnome-usage.md" >}}) | 165 | 165 | 100.0 | Basque <librezale@librezale.eus> | 
- | [gnome-user-share]({{< ref "/f34/package/gnome-user-share.md" >}}) | 49 | 49 | 100.0 | Basque <librezale@librezale.eus> | 
- | [gnome-vfs2]({{< ref "/f34/package/gnome-vfs2.md" >}}) | 1519 | 1519 | 100.0 | Basque <itzulpena@euskalgnu.org> | 
- | [gnome-video-effects]({{< ref "/f34/package/gnome-video-effects.md" >}}) | 256 | 256 | 100.0 | Basque <librezale@librezale.org> | 
- | [gnome-weather]({{< ref "/f34/package/gnome-weather.md" >}}) | 247 | 247 | 100.0 | Basque <librezale@librezale.eus> | 
- | [gnote]({{< ref "/f34/package/gnote.md" >}}) | 3440 | 3440 | 100.0 | Basque <librezale@librezale.eus> | 
- | [gparted]({{< ref "/f34/package/gparted.md" >}}) | 3025 | 3025 | 100.0 | Basque <librezale@librezale.eus> | 
- | [gpicview]({{< ref "/f34/package/gpicview.md" >}}) | 236 | 236 | 100.0 | <alainmendi@gmail.com> | 
- | [granatier]({{< ref "/f34/package/granatier.md" >}}) | 247 | 247 | 100.0 | Basque <kde-i18n-eu@kde.org> | 
- | [grilo]({{< ref "/f34/package/grilo.md" >}}) | 191 | 191 | 100.0 | Basque <librezale@librezale.eus> | 
- | [gsettings-desktop-schemas]({{< ref "/f34/package/gsettings-desktop-schemas.md" >}}) | 6937 | 6937 | 100.0 | Basque <librezale@librezale.eus> | 
- | [gspell]({{< ref "/f34/package/gspell.md" >}}) | 76 | 76 | 100.0 | Basque <librezale@librezale.eus> | 
- | [gthumb]({{< ref "/f34/package/gthumb.md" >}}) | 8551 | 8551 | 100.0 | Basque <itzulpena@euskalgnu.org> | 
- | [gtk+]({{< ref "/f34/package/gtk+.md" >}}) | 202 | 202 | 100.0 | euskare <linux-eu@chanae.alphanet.ch> | 
- | [gtk-vnc]({{< ref "/f34/package/gtk-vnc.md" >}}) | 81 | 81 | 100.0 | Basque <itzulpena@euskalgnu.org> | 
- | [gtk2]({{< ref "/f34/package/gtk2.md" >}}) | 11944 | 11944 | 100.0 | Basque <itzulpena@euskalgnu.org> | 
- | [gtk2-engines]({{< ref "/f34/package/gtk2-engines.md" >}}) | 119 | 119 | 100.0 | Basque <itzulpena@euskalgnu.org> | 
- | [gtk3]({{< ref "/f34/package/gtk3.md" >}}) | 16731 | 16731 | 100.0 | Basque <librezale@librezale.eus> | 
- | [gtk4]({{< ref "/f34/package/gtk4.md" >}}) | 13391 | 13391 | 100.0 | Basque <librezale@librezale.eus> | 
- | [gtkhtml3]({{< ref "/f34/package/gtkhtml3.md" >}}) | 522 | 522 | 100.0 | Basque <librezale@librezale.org> | 
- | [gtksourceview2]({{< ref "/f34/package/gtksourceview2.md" >}}) | 1413 | 1413 | 100.0 | Basque <itzulpena@euskalgnu.org> | 
- | [gtksourceview3]({{< ref "/f34/package/gtksourceview3.md" >}}) | 322 | 322 | 100.0 | Basque <librezale@librezale.eus> | 
- | [gtksourceview4]({{< ref "/f34/package/gtksourceview4.md" >}}) | 308 | 308 | 100.0 | Basque <librezale@librezale.eus> | 
- | [gtkspell]({{< ref "/f34/package/gtkspell.md" >}}) | 11 | 11 | 100.0 | Basque <translation-team-eu@lists.sourceforge.net> | 
- | [gtkspell3]({{< ref "/f34/package/gtkspell3.md" >}}) | 15 | 15 | 100.0 | Basque <translation-team-eu@lists.sourceforge.net> | 
- | [gtranslator]({{< ref "/f34/package/gtranslator.md" >}}) | 1184 | 1184 | 100.0 | Basque <librezale@librezale.eus> | 
- | [gucharmap]({{< ref "/f34/package/gucharmap.md" >}}) | 1452 | 1452 | 100.0 | Basque <librezale@librezale.eus> | 
- | [gvfs]({{< ref "/f34/package/gvfs.md" >}}) | 2102 | 2102 | 100.0 | Basque <librezale@librezale.eus> | 
- | [gwenview]({{< ref "/f34/package/gwenview.md" >}}) | 1620 | 1620 | 100.0 | Basque <kde-i18n-eu@kde.org> | 
- | [homebank]({{< ref "/f34/package/homebank.md" >}}) | 2815 | 2815 | 100.0 | Basque <eu@li.org> | 
- | [iagno]({{< ref "/f34/package/iagno.md" >}}) | 801 | 801 | 100.0 | Basque <librezale@librezale.eus> | 
- | [initial-setup]({{< ref "/f34/package/initial-setup.md" >}}) | 106 | 106 | 100.0 | Basque | 
- | [json-glib]({{< ref "/f34/package/json-glib.md" >}}) | 307 | 307 | 100.0 | Basque <librezale@librezale.eus> | 
- | [juk]({{< ref "/f34/package/juk.md" >}}) | 1484 | 1484 | 100.0 | Basque <kde-i18n-eu@kde.org> | 
- | [k3b]({{< ref "/f34/package/k3b.md" >}}) | 20180 | 20180 | 100.0 | Basque <kde-i18n-eu@kde.org> | 
- | [kaccounts-integration]({{< ref "/f34/package/kaccounts-integration.md" >}}) | 164 | 164 | 100.0 | Basque <kde-i18n-eu@kde.org> | 
- | [kaccounts-providers]({{< ref "/f34/package/kaccounts-providers.md" >}}) | 101 | 101 | 100.0 | Basque | 
- | [kactivitymanagerd]({{< ref "/f34/package/kactivitymanagerd.md" >}}) | 11 | 11 | 100.0 | Basque <kde-i18n-eu@kde.org> | 
- | [kaddressbook]({{< ref "/f34/package/kaddressbook.md" >}}) | 1140 | 1140 | 100.0 | Basque <kde-i18n-eu@kde.org> | 
- | [kamera]({{< ref "/f34/package/kamera.md" >}}) | 347 | 347 | 100.0 | Basque <kde-i18n-doc@kde.org> | 
- | [kamoso]({{< ref "/f34/package/kamoso.md" >}}) | 142 | 142 | 100.0 | Basque <kde-i18n-eu@kde.org> | 
- | [kapman]({{< ref "/f34/package/kapman.md" >}}) | 114 | 114 | 100.0 | Basque <kde-i18n-eu@kde.org> | 
- | [kapptemplate]({{< ref "/f34/package/kapptemplate.md" >}}) | 272 | 272 | 100.0 | Basque <kde-i18n-eu@kde.org> | 
- | [kbackup]({{< ref "/f34/package/kbackup.md" >}}) | 689 | 689 | 100.0 | Basque <kde-i18n-eu@kde.org> | 
- | [kblackbox]({{< ref "/f34/package/kblackbox.md" >}}) | 1364 | 1364 | 100.0 | Basque <kde-i18n-eu@kde.org> | 
- | [kblocks]({{< ref "/f34/package/kblocks.md" >}}) | 147 | 147 | 100.0 | Basque <kde-i18n-eu@kde.org> | 
- | [kbruch]({{< ref "/f34/package/kbruch.md" >}}) | 1347 | 1347 | 100.0 | Basque | 
- | [kcalc]({{< ref "/f34/package/kcalc.md" >}}) | 1026 | 1026 | 100.0 | Basque <kde-i18n-eu@kde.org> | 
- | [kcharselect]({{< ref "/f34/package/kcharselect.md" >}}) | 88 | 88 | 100.0 | Basque <kde-i18n-doc@kde.org> | 
- | [kcolorchooser]({{< ref "/f34/package/kcolorchooser.md" >}}) | 29 | 29 | 100.0 | Basque <kde-i18n-doc@kde.org> | 
- | [kcron]({{< ref "/f34/package/kcron.md" >}}) | 534 | 534 | 100.0 | Basque <itzulpena@euskalgnu.org> | 
- | [kde-cli-tools]({{< ref "/f34/package/kde-cli-tools.md" >}}) | 2250 | 2250 | 100.0 | Basque <kde-i18n-eu@kde.org> | 
- | [kde-partitionmanager]({{< ref "/f34/package/kde-partitionmanager.md" >}}) | 2214 | 2214 | 100.0 | Basque <kde-i18n-eu@kde.org> | 
- | [kde-print-manager]({{< ref "/f34/package/kde-print-manager.md" >}}) | 969 | 969 | 100.0 | Basque <kde-i18n-eu@kde.org> | 
- | [kde-style-breeze]({{< ref "/f34/package/kde-style-breeze.md" >}}) | 266 | 266 | 100.0 | Basque <kde-i18n-eu@kde.org> | 
- | [kdebugsettings]({{< ref "/f34/package/kdebugsettings.md" >}}) | 206 | 206 | 100.0 | Basque <kde-i18n-eu@kde.org> | 
- | [kdecoration]({{< ref "/f34/package/kdecoration.md" >}}) | 39 | 39 | 100.0 | Basque <kde-i18n-eu@kde.org> | 
- | [kdesdk-thumbnailers]({{< ref "/f34/package/kdesdk-thumbnailers.md" >}}) | 4 | 4 | 100.0 | Basque <kde-i18n-doc@kde.org> | 
- | [kdf]({{< ref "/f34/package/kdf.md" >}}) | 181 | 181 | 100.0 | Basque <kde-i18n-doc@kde.org> | 
- | [kdiagram]({{< ref "/f34/package/kdiagram.md" >}}) | 66 | 66 | 100.0 | Basque <kde-i18n-eu@kde.org> | 
- | [kdialog]({{< ref "/f34/package/kdialog.md" >}}) | 382 | 382 | 100.0 | Basque | 
- | [kdiamond]({{< ref "/f34/package/kdiamond.md" >}}) | 122 | 122 | 100.0 | Basque <itzulpena@euskalgnu.org> | 
- | [kdiff3]({{< ref "/f34/package/kdiff3.md" >}}) | 3617 | 3617 | 100.0 | Basque <kde-i18n-eu@kde.org> | 
- | [kdnssd]({{< ref "/f34/package/kdnssd.md" >}}) | 30 | 30 | 100.0 | Basque <kde-i18n-eu@kde.org> | 
- | [keditbookmarks]({{< ref "/f34/package/keditbookmarks.md" >}}) | 466 | 466 | 100.0 | Basque <kde-i18n-eu@kde.org> | 
- | [kf5-akonadi-calendar]({{< ref "/f34/package/kf5-akonadi-calendar.md" >}}) | 1867 | 1867 | 100.0 | Basque <kde-i18n-eu@kde.org> | 
- | [kf5-akonadi-contacts]({{< ref "/f34/package/kf5-akonadi-contacts.md" >}}) | 1597 | 1597 | 100.0 | Basque <kde-i18n-eu@kde.org> | 
- | [kf5-akonadi-mime]({{< ref "/f34/package/kf5-akonadi-mime.md" >}}) | 567 | 567 | 100.0 | Basque <kde-i18n-eu@kde.org> | 
- | [kf5-akonadi-notes]({{< ref "/f34/package/kf5-akonadi-notes.md" >}}) | 2 | 2 | 100.0 | Basque <kde-i18n-eu@kde.org> | 
- | [kf5-akonadi-search]({{< ref "/f34/package/kf5-akonadi-search.md" >}}) | 48 | 48 | 100.0 | Basque <kde-i18n-eu@kde.org> | 
- | [kf5-akonadi-server]({{< ref "/f34/package/kf5-akonadi-server.md" >}}) | 2540 | 2540 | 100.0 | Basque <kde-i18n-eu@kde.org> | 
- | [kf5-audiocd-kio]({{< ref "/f34/package/kf5-audiocd-kio.md" >}}) | 1000 | 1000 | 100.0 | Basque <kde-i18n-eu@kde.org> | 
- | [kf5-baloo]({{< ref "/f34/package/kf5-baloo.md" >}}) | 836 | 836 | 100.0 | Basque <kde-i18n-eu@kde.org> | 
- | [kf5-calendarsupport]({{< ref "/f34/package/kf5-calendarsupport.md" >}}) | 2986 | 2986 | 100.0 | Basque <kde-i18n-eu@kde.org> | 
- | [kf5-grantleetheme]({{< ref "/f34/package/kf5-grantleetheme.md" >}}) | 14 | 14 | 100.0 | Basque <kde-i18n-eu@kde.org> | 
- | [kf5-kauth]({{< ref "/f34/package/kf5-kauth.md" >}}) | 73 | 73 | 100.0 | Basque <kde-i18n-doc@kde.org> | 
- | [kf5-kbookmarks]({{< ref "/f34/package/kf5-kbookmarks.md" >}}) | 230 | 230 | 100.0 | Basque <kde-i18n-eu@kde.org> | 
- | [kf5-kcmutils]({{< ref "/f34/package/kf5-kcmutils.md" >}}) | 247 | 247 | 100.0 | Basque <kde-i18n-eu@kde.org> | 
- | [kf5-kcodecs]({{< ref "/f34/package/kf5-kcodecs.md" >}}) | 372 | 372 | 100.0 | Basque <kde-i18n-eu@kde.org> | 
- | [kf5-kcompletion]({{< ref "/f34/package/kf5-kcompletion.md" >}}) | 18 | 18 | 100.0 | Basque <kde-i18n-eu@kde.org> | 
- | [kf5-kcontacts]({{< ref "/f34/package/kf5-kcontacts.md" >}}) | 177 | 177 | 100.0 | Basque <kde-i18n-eu@kde.org> | 
- | [kf5-kdav]({{< ref "/f34/package/kf5-kdav.md" >}}) | 185 | 185 | 100.0 | Basque <kde-i18n-eu@kde.org> | 
- | [kf5-kdbusaddons]({{< ref "/f34/package/kf5-kdbusaddons.md" >}}) | 48 | 48 | 100.0 | Basque <kde-i18n-doc@kde.org> | 
- | [kf5-kdelibs4support]({{< ref "/f34/package/kf5-kdelibs4support.md" >}}) | 5353 | 5353 | 100.0 | Basque <kde-i18n-eu@kde.org> | 
- | [kf5-kdesignerplugin]({{< ref "/f34/package/kf5-kdesignerplugin.md" >}}) | 54 | 54 | 100.0 | Basque <kde-i18n-doc@kde.org> | 
- | [kf5-kdesu]({{< ref "/f34/package/kf5-kdesu.md" >}}) | 19 | 19 | 100.0 | Basque <kde-i18n-doc@kde.org> | 
- | [kf5-kdnssd]({{< ref "/f34/package/kf5-kdnssd.md" >}}) | 3 | 3 | 100.0 | Basque <kde-i18n-doc@kde.org> | 
- | [kf5-kdoctools]({{< ref "/f34/package/kf5-kdoctools.md" >}}) | 8 | 8 | 100.0 | Basque <kde-i18n-eu@kde.org> | 
- | [kf5-kfilemetadata]({{< ref "/f34/package/kf5-kfilemetadata.md" >}}) | 302 | 302 | 100.0 | Basque <kde-i18n-eu@kde.org> | 
- | [kf5-kglobalaccel]({{< ref "/f34/package/kf5-kglobalaccel.md" >}}) | 71 | 71 | 100.0 | Basque <kde-i18n-doc@kde.org> | 
- | [kf5-kholidays]({{< ref "/f34/package/kf5-kholidays.md" >}}) | 139 | 139 | 100.0 | Basque <kde-i18n-eu@kde.org> | 
- | [kf5-khtml]({{< ref "/f34/package/kf5-khtml.md" >}}) | 1721 | 1721 | 100.0 | Basque <kde-i18n-eu@kde.org> | 
- | [kf5-ki18n]({{< ref "/f34/package/kf5-ki18n.md" >}}) | 124 | 124 | 100.0 | Basque | 
- | [kf5-kiconthemes]({{< ref "/f34/package/kf5-kiconthemes.md" >}}) | 39 | 39 | 100.0 | Basque <kde-i18n-eu@kde.org> | 
- | [kf5-kidentitymanagement]({{< ref "/f34/package/kf5-kidentitymanagement.md" >}}) | 181 | 181 | 100.0 | Basque <kde-i18n-eu@kde.org> | 
- | [kf5-kinit]({{< ref "/f34/package/kf5-kinit.md" >}}) | 116 | 116 | 100.0 | Basque <kde-i18n-doc@kde.org> | 
- | [kf5-kipi-plugins]({{< ref "/f34/package/kf5-kipi-plugins.md" >}}) | 5695 | 5695 | 100.0 | Basque <kde-i18n-eu@kde.org> | 
- | [kf5-kitemviews]({{< ref "/f34/package/kf5-kitemviews.md" >}}) | 7 | 7 | 100.0 | Basque <kde-i18n-eu@kde.org> | 
- | [kf5-kjobwidgets]({{< ref "/f34/package/kf5-kjobwidgets.md" >}}) | 133 | 133 | 100.0 | Basque <kde-i18n-eu@kde.org> | 
- | [kf5-kjsembed]({{< ref "/f34/package/kf5-kjsembed.md" >}}) | 248 | 248 | 100.0 | Basque <kde-i18n-doc@kde.org> | 
- | [kf5-kmime]({{< ref "/f34/package/kf5-kmime.md" >}}) | 159 | 159 | 100.0 | Basque <kde-i18n-eu@kde.org> | 
- | [kf5-knewstuff]({{< ref "/f34/package/kf5-knewstuff.md" >}}) | 1661 | 1661 | 100.0 | Basque <kde-i18n-eu@kde.org> | 
- | [kf5-knotifyconfig]({{< ref "/f34/package/kf5-knotifyconfig.md" >}}) | 129 | 129 | 100.0 | Basque <kde-i18n-doc@kde.org> | 
- | [kf5-kpackage]({{< ref "/f34/package/kf5-kpackage.md" >}}) | 486 | 486 | 100.0 | Basque <kde-i18n-eu@kde.org> | 
- | [kf5-kparts]({{< ref "/f34/package/kf5-kparts.md" >}}) | 132 | 132 | 100.0 | Basque <kde-i18n-eu@kde.org> | 
- | [kf5-kpeople]({{< ref "/f34/package/kf5-kpeople.md" >}}) | 13 | 13 | 100.0 | Basque <kde-i18n-doc@kde.org> | 
- | [kf5-kpty]({{< ref "/f34/package/kf5-kpty.md" >}}) | 15 | 15 | 100.0 | Basque <kde-i18n-doc@kde.org> | 
- | [kf5-kross]({{< ref "/f34/package/kf5-kross.md" >}}) | 100 | 100 | 100.0 | Basque <kde-i18n-doc@kde.org> | 
- | [kf5-kservice]({{< ref "/f34/package/kf5-kservice.md" >}}) | 173 | 173 | 100.0 | Basque <kde-i18n-eu@kde.org> | 
- | [kf5-ktextwidgets]({{< ref "/f34/package/kf5-ktextwidgets.md" >}}) | 473 | 473 | 100.0 | Basque <kde-i18n-eu@kde.org> | 
- | [kf5-kunitconversion]({{< ref "/f34/package/kf5-kunitconversion.md" >}}) | 5735 | 5735 | 100.0 | Basque <kde-i18n-eu@kde.org> | 
- | [kf5-kwallet]({{< ref "/f34/package/kf5-kwallet.md" >}}) | 1460 | 1460 | 100.0 | Basque <kde-i18n-doc@kde.org> | 
- | [kf5-kwidgetsaddons]({{< ref "/f34/package/kf5-kwidgetsaddons.md" >}}) | 1294 | 1294 | 100.0 | Basque <kde-i18n-eu@kde.org> | 
- | [kf5-kwindowsystem]({{< ref "/f34/package/kf5-kwindowsystem.md" >}}) | 2 | 2 | 100.0 | Basque <kde-i18n-doc@kde.org> | 
- | [kf5-kxmlrpcclient]({{< ref "/f34/package/kf5-kxmlrpcclient.md" >}}) | 13 | 13 | 100.0 | Basque <kde-i18n-doc@kde.org> | 
- | [kf5-libgravatar]({{< ref "/f34/package/kf5-libgravatar.md" >}}) | 27 | 27 | 100.0 | Basque <kde-i18n-eu@kde.org> | 
- | [kf5-libkcddb]({{< ref "/f34/package/kf5-libkcddb.md" >}}) | 476 | 476 | 100.0 | Basque <kde-i18n-eu@kde.org> | 
- | [kf5-libkcompactdisc]({{< ref "/f34/package/kf5-libkcompactdisc.md" >}}) | 15 | 15 | 100.0 | Basque <kde-i18n-eu@kde.org> | 
- | [kf5-libkgeomap]({{< ref "/f34/package/kf5-libkgeomap.md" >}}) | 139 | 139 | 100.0 | Basque <kde-i18n-doc@kde.org> | 
- | [kf5-libktorrent]({{< ref "/f34/package/kf5-libktorrent.md" >}}) | 465 | 465 | 100.0 | Basque <itzulpena@euskalgnu.org> | 
- | [kf5-plasma]({{< ref "/f34/package/kf5-plasma.md" >}}) | 392 | 392 | 100.0 | Basque <kde-i18n-eu@kde.org> | 
- | [kfind]({{< ref "/f34/package/kfind.md" >}}) | 502 | 502 | 100.0 | Basque <kde-i18n-eu@kde.org> | 
- | [kfloppy]({{< ref "/f34/package/kfloppy.md" >}}) | 641 | 641 | 100.0 | Basque <kde-i18n-doc@kde.org> | 
- | [kgamma]({{< ref "/f34/package/kgamma.md" >}}) | 130 | 130 | 100.0 | Basque <itzulpena@euskalgnu.org> | 
- | [kgpg]({{< ref "/f34/package/kgpg.md" >}}) | 5268 | 5268 | 100.0 | Basque <kde-i18n-eu@kde.org> | 
- | [khelpcenter]({{< ref "/f34/package/khelpcenter.md" >}}) | 265 | 265 | 100.0 | Basque | 
- | [killbots]({{< ref "/f34/package/killbots.md" >}}) | 637 | 637 | 100.0 | Basque <kde-i18n-eu@kde.org> | 
- | [kinfocenter]({{< ref "/f34/package/kinfocenter.md" >}}) | 742 | 742 | 100.0 | Basque <kde-i18n-eu@kde.org> | 
- | [kio-gdrive]({{< ref "/f34/package/kio-gdrive.md" >}}) | 63 | 63 | 100.0 | Basque <kde-i18n-eu@kde.org> | 
- | [kirigami-gallery]({{< ref "/f34/package/kirigami-gallery.md" >}}) | 856 | 856 | 100.0 | Basque | 
- | [kjots]({{< ref "/f34/package/kjots.md" >}}) | 651 | 651 | 100.0 | Basque | 
- | [kmag]({{< ref "/f34/package/kmag.md" >}}) | 432 | 432 | 100.0 | Basque <kde-i18n-doc@kde.org> | 
- | [kmenuedit]({{< ref "/f34/package/kmenuedit.md" >}}) | 277 | 277 | 100.0 | Basque <kde-i18n-eu@kde.org> | 
- | [kmines]({{< ref "/f34/package/kmines.md" >}}) | 156 | 156 | 100.0 | Basque <kde-i18n-eu@kde.org> | 
- | [kmix]({{< ref "/f34/package/kmix.md" >}}) | 1090 | 1090 | 100.0 | Basque <kde-i18n-eu@kde.org> | 
- | [kmousetool]({{< ref "/f34/package/kmousetool.md" >}}) | 147 | 147 | 100.0 | Basque <kde-i18n-doc@kde.org> | 
- | [kmouth]({{< ref "/f34/package/kmouth.md" >}}) | 1515 | 1515 | 100.0 | Basque <kde-i18n-doc@kde.org> | 
- | [knotes]({{< ref "/f34/package/knotes.md" >}}) | 781 | 781 | 100.0 | Basque <kde-i18n-eu@kde.org> | 
- | [kolourpaint]({{< ref "/f34/package/kolourpaint.md" >}}) | 2564 | 2564 | 100.0 | Basque <kde-i18n-eu@kde.org> | 
- | [konqueror]({{< ref "/f34/package/konqueror.md" >}}) | 8795 | 8795 | 100.0 | Basque <kde-i18n-eu@kde.org> | 
- | [konsole5]({{< ref "/f34/package/konsole5.md" >}}) | 3416 | 3416 | 100.0 | Basque <kde-i18n-eu@kde.org> | 
- | [kontact]({{< ref "/f34/package/kontact.md" >}}) | 600 | 600 | 100.0 | Basque <kde-i18n-eu@kde.org> | 
- | [kopete]({{< ref "/f34/package/kopete.md" >}}) | 18427 | 18427 | 100.0 | Basque <itzulpena@euskalgnu.org> | 
- | [krename]({{< ref "/f34/package/krename.md" >}}) | 2142 | 2142 | 100.0 | Basque <kde-i18n-eu@kde.org> | 
- | [krfb]({{< ref "/f34/package/krfb.md" >}}) | 676 | 676 | 100.0 | Basque <kde-i18n-eu@kde.org> | 
- | [kruler]({{< ref "/f34/package/kruler.md" >}}) | 184 | 184 | 100.0 | Basque <kde-i18n-doc@kde.org> | 
- | [kscreenlocker]({{< ref "/f34/package/kscreenlocker.md" >}}) | 230 | 230 | 100.0 | Basque <kde-i18n-eu@kde.org> | 
- | [ksshaskpass]({{< ref "/f34/package/ksshaskpass.md" >}}) | 50 | 50 | 100.0 | Basque <kde-i18n-eu@kde.org> | 
- | [ksysguard]({{< ref "/f34/package/ksysguard.md" >}}) | 1093 | 1093 | 100.0 | Basque | 
- | [ksystemlog]({{< ref "/f34/package/ksystemlog.md" >}}) | 3034 | 3034 | 100.0 | Basque <kde-i18n-doc@kde.org> | 
- | [kteatime]({{< ref "/f34/package/kteatime.md" >}}) | 203 | 203 | 100.0 | Basque <kde-i18n-eu@kde.org> | 
- | [ktimer]({{< ref "/f34/package/ktimer.md" >}}) | 258 | 258 | 100.0 | Basque <kde-i18n-eu@kde.org> | 
- | [ktouch]({{< ref "/f34/package/ktouch.md" >}}) | 948 | 948 | 100.0 | Basque <kde-i18n-eu@kde.org> | 
- | [ktp-accounts-kcm]({{< ref "/f34/package/ktp-accounts-kcm.md" >}}) | 1100 | 1100 | 100.0 | Basque <kde-i18n-eu@kde.org> | 
- | [ktp-approver]({{< ref "/f34/package/ktp-approver.md" >}}) | 71 | 71 | 100.0 | Basque <kde-i18n-eu@kde.org> | 
- | [ktp-auth-handler]({{< ref "/f34/package/ktp-auth-handler.md" >}}) | 83 | 83 | 100.0 | Basque <kde-i18n-eu@kde.org> | 
- | [ktp-common-internals]({{< ref "/f34/package/ktp-common-internals.md" >}}) | 989 | 989 | 100.0 | Basque <kde-i18n-eu@kde.org> | 
- | [ktp-contact-list]({{< ref "/f34/package/ktp-contact-list.md" >}}) | 680 | 680 | 100.0 | Basque <kde-i18n-eu@kde.org> | 
- | [ktp-contact-runner]({{< ref "/f34/package/ktp-contact-runner.md" >}}) | 208 | 208 | 100.0 | Basque <kde-i18n-eu@kde.org> | 
- | [ktp-desktop-applets]({{< ref "/f34/package/ktp-desktop-applets.md" >}}) | 75 | 75 | 100.0 | Basque <kde-i18n-eu@kde.org> | 
- | [ktp-filetransfer-handler]({{< ref "/f34/package/ktp-filetransfer-handler.md" >}}) | 141 | 141 | 100.0 | Basque <kde-i18n-eu@kde.org> | 
- | [ktp-kded-integration-module]({{< ref "/f34/package/ktp-kded-integration-module.md" >}}) | 490 | 490 | 100.0 | Basque <kde-i18n-eu@kde.org> | 
- | [ktp-send-file]({{< ref "/f34/package/ktp-send-file.md" >}}) | 60 | 60 | 100.0 | Basque <kde-i18n-eu@kde.org> | 
- | [ktp-text-ui]({{< ref "/f34/package/ktp-text-ui.md" >}}) | 1439 | 1439 | 100.0 | Basque <kde-i18n-eu@kde.org> | 
- | [kturtle]({{< ref "/f34/package/kturtle.md" >}}) | 1531 | 1531 | 100.0 | Basque <kde-i18n-eu@kde.org> | 
- | [kwalletmanager5]({{< ref "/f34/package/kwalletmanager5.md" >}}) | 800 | 800 | 100.0 | Basque <kde-i18n-doc@kde.org> | 
- | [kwave]({{< ref "/f34/package/kwave.md" >}}) | 5798 | 5798 | 100.0 | Basque <kde-i18n-eu@kde.org> | 
- | [lasem]({{< ref "/f34/package/lasem.md" >}}) | 29 | 29 | 100.0 | Basque <librezale@librezale.org> | 
- | [leafpad]({{< ref "/f34/package/leafpad.md" >}}) | 125 | 125 | 100.0 | Basque <translation-team-eu@lists.sourceforge.net> | 
- | [libadwaita]({{< ref "/f34/package/libadwaita.md" >}}) | 11 | 11 | 100.0 | Basque <librezale@librezale.eus> | 
- | [libbonobo]({{< ref "/f34/package/libbonobo.md" >}}) | 543 | 543 | 100.0 | Basque <itzulpena@euskalgnu.org> | 
- | [libbonoboui]({{< ref "/f34/package/libbonoboui.md" >}}) | 368 | 368 | 100.0 | Basque <itzulpena@euskalgnu.org> | 
- | [libcryptui]({{< ref "/f34/package/libcryptui.md" >}}) | 3068 | 3068 | 100.0 | Basque <itzulpena@euskalgnu.org> | 
- | [libgda]({{< ref "/f34/package/libgda.md" >}}) | 11547 | 11547 | 100.0 | Basque <librezale@librezale.eus> | 
- | [libgdata]({{< ref "/f34/package/libgdata.md" >}}) | 694 | 694 | 100.0 | Basque <librezale@librezale.eus> | 
- | [libgdl]({{< ref "/f34/package/libgdl.md" >}}) | 659 | 659 | 100.0 | Basque <librezale@librezale.org> | 
- | [libgnome]({{< ref "/f34/package/libgnome.md" >}}) | 1773 | 1773 | 100.0 | Basque <itzulpena@euskalgnu.org> | 
- | [libgnome-games-support]({{< ref "/f34/package/libgnome-games-support.md" >}}) | 43 | 43 | 100.0 | Basque <librezale@librezale.eus> | 
- | [libgnome-keyring]({{< ref "/f34/package/libgnome-keyring.md" >}}) | 44 | 44 | 100.0 | Basque <itzulpena@euskalgnu.org> | 
- | [libgnomecanvas]({{< ref "/f34/package/libgnomecanvas.md" >}}) | 378 | 378 | 100.0 | Basque <itzulpena@euskalgnu.org> | 
- | [libgnomekbd]({{< ref "/f34/package/libgnomekbd.md" >}}) | 242 | 242 | 100.0 | Basque <itzulpena@euskalgnu.org> | 
- | [libgnomeui]({{< ref "/f34/package/libgnomeui.md" >}}) | 1309 | 1309 | 100.0 | <eu@li.org> | 
- | [libgovirt]({{< ref "/f34/package/libgovirt.md" >}}) | 102 | 102 | 100.0 | Basque <librezale@librezale.org> | 
- | [libgsf]({{< ref "/f34/package/libgsf.md" >}}) | 719 | 719 | 100.0 | Basque <librezale@librezale.org> | 
- | [libgtop2]({{< ref "/f34/package/libgtop2.md" >}}) | 126 | 126 | 100.0 | Basque <librezale@librezale.eus> | 
- | [libgweather]({{< ref "/f34/package/libgweather.md" >}}) | 6394 | 6394 | 100.0 | Basque <librezale@librezale.eus> | 
- | [libhandy]({{< ref "/f34/package/libhandy.md" >}}) | 1351 | 1351 | 100.0 | Basque <librezale@librezale.eus> | 
- | [libkdegames]({{< ref "/f34/package/libkdegames.md" >}}) | 370 | 370 | 100.0 | Basque <kde-i18n-eu@kde.org> | 
- | [libkmahjongg]({{< ref "/f34/package/libkmahjongg.md" >}}) | 7 | 7 | 100.0 | Euskara <kde-i18n-doc@kde.org> | 
- | [libnma]({{< ref "/f34/package/libnma.md" >}}) | 917 | 917 | 100.0 | Basque <librezale@librezale.eus> | 
- | [libpaper]({{< ref "/f34/package/libpaper.md" >}}) | 73 | 73 | 100.0 | basque <debian-l10n-basque@lists.debian.org> | 
- | [libpeas]({{< ref "/f34/package/libpeas.md" >}}) | 103 | 103 | 100.0 | Basque <librezale@librezale.eus> | 
- | [libsecret]({{< ref "/f34/package/libsecret.md" >}}) | 59 | 59 | 100.0 | Basque <librezale@librezale.org> | 
- | [libsoup]({{< ref "/f34/package/libsoup.md" >}}) | 183 | 183 | 100.0 | Basque <librezale@librezale.eus> | 
- | [libxfce4ui]({{< ref "/f34/package/libxfce4ui.md" >}}) | 964 | 964 | 100.0 | Basque (http://www.transifex.com/xfce/libxfce4ui/language/eu/) | 
- | [libxfce4util]({{< ref "/f34/package/libxfce4util.md" >}}) | 424 | 424 | 100.0 | Basque (http://www.transifex.com/xfce/libxfce4util/language/eu/) | 
- | [lightdm-settings]({{< ref "/f34/package/lightdm-settings.md" >}}) | 321 | 321 | 100.0 | Basque <eu@li.org> | 
- | [lightsoff]({{< ref "/f34/package/lightsoff.md" >}}) | 143 | 143 | 100.0 | Basque <librezale@librezale.eus> | 
- | [lskat]({{< ref "/f34/package/lskat.md" >}}) | 254 | 254 | 100.0 | Basque <kde-i18n-eu@kde.org> | 
- | [lxappearance-obconf]({{< ref "/f34/package/lxappearance-obconf.md" >}}) | 196 | 196 | 100.0 | LANGUAGE <LL@li.org> | 
- | [lxdm]({{< ref "/f34/package/lxdm.md" >}}) | 47 | 47 | 100.0 | LANGUAGE <LL@li.org> | 
- | [lxinput]({{< ref "/f34/package/lxinput.md" >}}) | 83 | 83 | 100.0 | LANGUAGE <LL@li.org> | 
- | [lxlauncher]({{< ref "/f34/package/lxlauncher.md" >}}) | 58 | 58 | 100.0 | Basque <alainmendi@gmail.com> | 
- | [lxmenu-data]({{< ref "/f34/package/lxmenu-data.md" >}}) | 97 | 97 | 100.0 | Basque <itzulpena@euskalgnu.org> | 
- | [lxmusic]({{< ref "/f34/package/lxmusic.md" >}}) | 203 | 203 | 100.0 | Basque <alainmendi@gmail.com> | 
- | [lxrandr]({{< ref "/f34/package/lxrandr.md" >}}) | 167 | 167 | 100.0 | Basque <alainmendi@gmail.com> | 
- | [lxtask]({{< ref "/f34/package/lxtask.md" >}}) | 130 | 130 | 100.0 | librezale <librezale@librezale.org> | 
- | [mate-icon-theme]({{< ref "/f34/package/mate-icon-theme.md" >}}) | 4 | 4 | 100.0 | Basque (https://www.transifex.com/mate/teams/13566/eu/) | 
- | [mate-polkit]({{< ref "/f34/package/mate-polkit.md" >}}) | 123 | 123 | 100.0 | Basque (https://www.transifex.com/mate/teams/13566/eu/) | 
- | [metacity]({{< ref "/f34/package/metacity.md" >}}) | 1830 | 1830 | 100.0 | Basque <librezale@librezale.eus> | 
- | [minder]({{< ref "/f34/package/minder.md" >}}) | 1423 | 1423 | 100.0 |  | 
- | [mingw-GConf2]({{< ref "/f34/package/mingw-GConf2.md" >}}) | 4088 | 4088 | 100.0 | American English <kde-i18n-doc@kde.org> | 
- | [mingw-atk]({{< ref "/f34/package/mingw-atk.md" >}}) | 440 | 440 | 100.0 | Basque <librezale@librezale.org> | 
- | [mingw-gdk-pixbuf]({{< ref "/f34/package/mingw-gdk-pixbuf.md" >}}) | 1325 | 1325 | 100.0 | Basque <librezale@librezale.eus> | 
- | [mingw-glib-networking]({{< ref "/f34/package/mingw-glib-networking.md" >}}) | 402 | 402 | 100.0 | Basque <librezale@librezale.eus> | 
- | [mingw-glib2]({{< ref "/f34/package/mingw-glib2.md" >}}) | 7630 | 7630 | 100.0 | Basque <librezale@librezale.eus> | 
- | [mingw-gtk-vnc]({{< ref "/f34/package/mingw-gtk-vnc.md" >}}) | 81 | 81 | 100.0 | Basque <itzulpena@euskalgnu.org> | 
- | [mingw-gtk2]({{< ref "/f34/package/mingw-gtk2.md" >}}) | 11944 | 11944 | 100.0 | Basque <itzulpena@euskalgnu.org> | 
- | [mingw-gtk3]({{< ref "/f34/package/mingw-gtk3.md" >}}) | 16731 | 16731 | 100.0 | Basque <librezale@librezale.eus> | 
- | [mingw-gtksourceview3]({{< ref "/f34/package/mingw-gtksourceview3.md" >}}) | 322 | 322 | 100.0 | Basque <librezale@librezale.eus> | 
- | [mingw-gtkspell3]({{< ref "/f34/package/mingw-gtkspell3.md" >}}) | 15 | 15 | 100.0 | Basque <translation-team-eu@lists.sourceforge.net> | 
- | [mingw-json-glib]({{< ref "/f34/package/mingw-json-glib.md" >}}) | 307 | 307 | 100.0 | Basque <librezale@librezale.eus> | 
- | [mingw-libgovirt]({{< ref "/f34/package/mingw-libgovirt.md" >}}) | 102 | 102 | 100.0 | Basque <librezale@librezale.org> | 
- | [mingw-libgsf]({{< ref "/f34/package/mingw-libgsf.md" >}}) | 719 | 719 | 100.0 | Basque <librezale@librezale.org> | 
- | [mingw-libsoup]({{< ref "/f34/package/mingw-libsoup.md" >}}) | 183 | 183 | 100.0 | Basque <librezale@librezale.eus> | 
- | [mousepad]({{< ref "/f34/package/mousepad.md" >}}) | 1593 | 1593 | 100.0 | Basque (http://www.transifex.com/xfce/xfce-apps/language/eu/) | 
- | [mousetweaks]({{< ref "/f34/package/mousetweaks.md" >}}) | 114 | 114 | 100.0 | Basque <itzulpena@euskalgnu.org> | 
- | [msitools]({{< ref "/f34/package/msitools.md" >}}) | 71 | 71 | 100.0 | Basque <librezale@librezale.org> | 
- | [muffin]({{< ref "/f34/package/muffin.md" >}}) | 2043 | 2043 | 100.0 | American English <itzulpena@euskalgnu.org> | 
- | [multimedia-menus]({{< ref "/f34/package/multimedia-menus.md" >}}) | 56 | 56 | 100.0 | eu | 
- | [mutter]({{< ref "/f34/package/mutter.md" >}}) | 1315 | 1315 | 100.0 | Basque <librezale@librezale.eus> | 
- | [mutter3.38]({{< ref "/f34/package/mutter3.38.md" >}}) | 1273 | 1273 | 100.0 | Basque <librezale@librezale.eus> | 
- | [nautilus]({{< ref "/f34/package/nautilus.md" >}}) | 5525 | 5525 | 100.0 | Basque <librezale@librezale.eus> | 
- | [nemiver]({{< ref "/f34/package/nemiver.md" >}}) | 1341 | 1341 | 100.0 | LANGUAGE <LL@li.org> | 
- | [nemo-extensions]({{< ref "/f34/package/nemo-extensions.md" >}}) | 258 | 258 | 100.0 | Basque <eu@li.org> | 
- | [newt]({{< ref "/f34/package/newt.md" >}}) | 4 | 4 | 100.0 | Vasco <librezale@librezale.org> | 
- | [notification-daemon]({{< ref "/f34/package/notification-daemon.md" >}}) | 17 | 17 | 100.0 | Basque <itzulpena@euskalgnu.org> | 
- | [okular]({{< ref "/f34/package/okular.md" >}}) | 5244 | 5244 | 100.0 | Basque <kde-i18n-eu@kde.org> | 
- | [orca]({{< ref "/f34/package/orca.md" >}}) | 5732 | 5732 | 100.0 | Basque <librezale@librezale.eus> | 
- | [palapeli]({{< ref "/f34/package/palapeli.md" >}}) | 1513 | 1513 | 100.0 | Basque <kde-i18n-eu@kde.org> | 
- | [parole]({{< ref "/f34/package/parole.md" >}}) | 1157 | 1157 | 100.0 | Basque (http://www.transifex.com/xfce/xfce-apps/language/eu/) | 
- | [pbuilder]({{< ref "/f34/package/pbuilder.md" >}}) | 96 | 96 | 100.0 | basque <debian-l10n-basque@lists.debian.org> | 
- | [peek]({{< ref "/f34/package/peek.md" >}}) | 564 | 564 | 100.0 | Basque <https://hosted.weblate.org/projects/peek/translations/eu/> | 
- | [phodav]({{< ref "/f34/package/phodav.md" >}}) | 63 | 63 | 100.0 | Basque <librezale@librezale.eus> | 
- | [phonon]({{< ref "/f34/package/phonon.md" >}}) | 327 | 327 | 100.0 | Basque <kde-i18n-eu@kde.org> | 
- | [phonon-backend-gstreamer]({{< ref "/f34/package/phonon-backend-gstreamer.md" >}}) | 104 | 104 | 100.0 | Basque <kde-i18n-eu@kde.org> | 
- | [phonon-qt4]({{< ref "/f34/package/phonon-qt4.md" >}}) | 116 | 116 | 100.0 | Basque <kde-i18n-eu@kde.org> | 
- | [phonon-qt4-backend-gstreamer]({{< ref "/f34/package/phonon-qt4-backend-gstreamer.md" >}}) | 104 | 104 | 100.0 | Basque <kde-i18n-eu@kde.org> | 
- | [php-horde-Horde-Alarm]({{< ref "/f34/package/php-horde-Horde-Alarm.md" >}}) | 13 | 13 | 100.0 | i18n@lists.horde.org | 
- | [php-horde-Horde-Cli]({{< ref "/f34/package/php-horde-Horde-Cli.md" >}}) | 16 | 16 | 100.0 | i18n@lists.horde.org | 
- | [php-horde-Horde-Compress]({{< ref "/f34/package/php-horde-Horde-Compress.md" >}}) | 25 | 25 | 100.0 | i18n@lists.horde.org | 
- | [php-horde-Horde-Core]({{< ref "/f34/package/php-horde-Horde-Core.md" >}}) | 1037 | 1037 | 100.0 | i18n@lists.horde.org | 
- | [php-horde-Horde-Data]({{< ref "/f34/package/php-horde-Horde-Data.md" >}}) | 53 | 53 | 100.0 | i18n@lists.horde.org | 
- | [php-horde-Horde-Date]({{< ref "/f34/package/php-horde-Horde-Date.md" >}}) | 42 | 42 | 100.0 | i18n@lists.horde.org | 
- | [php-horde-Horde-Exception]({{< ref "/f34/package/php-horde-Horde-Exception.md" >}}) | 4 | 4 | 100.0 | Euskal Herriko Unibertsitatea <webmaster@ehu.es> | 
- | [php-horde-Horde-Icalendar]({{< ref "/f34/package/php-horde-Horde-Icalendar.md" >}}) | 3 | 3 | 100.0 | Euskal Herriko Unibertsitatea <webmaster@ehu.es> | 
- | [php-horde-Horde-Imsp]({{< ref "/f34/package/php-horde-Horde-Imsp.md" >}}) | 3 | 3 | 100.0 | Euskal Herriko Unibertsitatea <webmaster@ehu.es> | 
- | [php-horde-Horde-Itip]({{< ref "/f34/package/php-horde-Horde-Itip.md" >}}) | 56 | 56 | 100.0 | Euskal Herriko Unibertsitatea <webmaster@ehu.es> | 
- | [php-horde-Horde-LoginTasks]({{< ref "/f34/package/php-horde-Horde-LoginTasks.md" >}}) | 6 | 6 | 100.0 | Euskal Herriko Unibertsitatea <webmaster@ehu.es> | 
- | [php-horde-Horde-Mime]({{< ref "/f34/package/php-horde-Horde-Mime.md" >}}) | 42 | 42 | 100.0 | Euskal Herriko Unibertsitatea <webmaster@ehu.es> | 
- | [php-horde-Horde-Mime-Viewer]({{< ref "/f34/package/php-horde-Horde-Mime-Viewer.md" >}}) | 47 | 47 | 100.0 | Euskal Herriko Unibertsitatea <webmaster@ehu.es> | 
- | [php-horde-Horde-Perms]({{< ref "/f34/package/php-horde-Horde-Perms.md" >}}) | 17 | 17 | 100.0 | Euskal Herriko Unibertsitatea <webmaster@ehu.es> | 
- | [php-horde-Horde-Prefs]({{< ref "/f34/package/php-horde-Horde-Prefs.md" >}}) | 30 | 30 | 100.0 | Euskal Herriko Unibertsitatea <webmaster@ehu.es> | 
- | [php-horde-Horde-Share]({{< ref "/f34/package/php-horde-Horde-Share.md" >}}) | 8 | 8 | 100.0 | Euskal Herriko Unibertsitatea <webmaster@ehu.es> | 
- | [php-horde-Horde-SyncMl]({{< ref "/f34/package/php-horde-Horde-SyncMl.md" >}}) | 3 | 3 | 100.0 | Euskal Herriko Unibertsitatea <webmaster@ehu.es> | 
- | [php-horde-Horde-Text-Filter]({{< ref "/f34/package/php-horde-Horde-Text-Filter.md" >}}) | 1 | 1 | 100.0 | Euskal Herriko Unibertsitatea <webmaster@ehu.es> | 
- | [php-horde-Horde-Vfs]({{< ref "/f34/package/php-horde-Horde-Vfs.md" >}}) | 10 | 10 | 100.0 | Euskal Herriko Unibertsitatea <webmaster@ehu.es> | 
- | [php-horde-horde]({{< ref "/f34/package/php-horde-horde.md" >}}) | 3508 | 3508 | 100.0 | Euskal Herriko Unibertsitatea <webmaster@ehu.es> | 
- | [php-horde-imp]({{< ref "/f34/package/php-horde-imp.md" >}}) | 6873 | 6873 | 100.0 | Euskal Herriko Unibertsitatea <webmaster@ehu.eus> | 
- | [php-horde-ingo]({{< ref "/f34/package/php-horde-ingo.md" >}}) | 1017 | 1017 | 100.0 | Euskal Herriko Unibertsitatea <webmaster@ehu.es> | 
- | [php-horde-kronolith]({{< ref "/f34/package/php-horde-kronolith.md" >}}) | 3858 | 3858 | 100.0 | Euskal Herriko Unibertsitatea <webmaster@ehu.es> | 
- | [php-horde-mnemo]({{< ref "/f34/package/php-horde-mnemo.md" >}}) | 579 | 579 | 100.0 | Euskal Herriko Unibertsitatea <webmaster@ehu.es> | 
- | [php-horde-nag]({{< ref "/f34/package/php-horde-nag.md" >}}) | 1637 | 1637 | 100.0 | Euskal Herriko Unibertsitatea <webmaster@ehu.es> | 
- | [php-horde-turba]({{< ref "/f34/package/php-horde-turba.md" >}}) | 1873 | 1873 | 100.0 | Euskal Herriko Unibertsitatea <webmaster@ehu.es> | 
- | [picmi]({{< ref "/f34/package/picmi.md" >}}) | 200 | 200 | 100.0 | Basque <kde-i18n-eu@kde.org> | 
- | [plank]({{< ref "/f34/package/plank.md" >}}) | 189 | 189 | 100.0 | Basque <eu@li.org> | 
- | [plasma-breeze]({{< ref "/f34/package/plasma-breeze.md" >}}) | 243 | 243 | 100.0 | Basque <kde-i18n-eu@kde.org> | 
- | [plasma-browser-integration]({{< ref "/f34/package/plasma-browser-integration.md" >}}) | 701 | 701 | 100.0 | Basque <kde-i18n-eu@kde.org> | 
- | [plasma-desktop]({{< ref "/f34/package/plasma-desktop.md" >}}) | 8150 | 8150 | 100.0 | Basque | 
- | [plasma-discover]({{< ref "/f34/package/plasma-discover.md" >}}) | 1982 | 1982 | 100.0 | Basque <kde-i18n-eu@kde.org> | 
- | [plasma-disks]({{< ref "/f34/package/plasma-disks.md" >}}) | 215 | 215 | 100.0 | Basque <kde-i18n-eu@kde.org> | 
- | [plasma-drkonqi]({{< ref "/f34/package/plasma-drkonqi.md" >}}) | 4052 | 4052 | 100.0 | Basque <kde-i18n-eu@kde.org> | 
- | [plasma-firewall]({{< ref "/f34/package/plasma-firewall.md" >}}) | 402 | 402 | 100.0 | Basque <kde-i18n-eu@kde.org> | 
- | [plasma-integration]({{< ref "/f34/package/plasma-integration.md" >}}) | 58 | 58 | 100.0 | Basque <kde-i18n-doc@kde.org> | 
- | [plasma-milou]({{< ref "/f34/package/plasma-milou.md" >}}) | 10 | 10 | 100.0 | Basque <kde-i18n-doc@kde.org> | 
- | [plasma-nm]({{< ref "/f34/package/plasma-nm.md" >}}) | 5317 | 5317 | 100.0 | Basque <kde-i18n-eu@kde.org> | 
- | [plasma-oxygen]({{< ref "/f34/package/plasma-oxygen.md" >}}) | 805 | 805 | 100.0 | Basque <kde-i18n-doc@kde.org> | 
- | [plasma-pa]({{< ref "/f34/package/plasma-pa.md" >}}) | 235 | 235 | 100.0 | Basque <kde-i18n-eu@kde.org> | 
- | [plasma-sdk]({{< ref "/f34/package/plasma-sdk.md" >}}) | 838 | 838 | 100.0 | Basque <kde-i18n-eu@kde.org> | 
- | [plasma-systemsettings]({{< ref "/f34/package/plasma-systemsettings.md" >}}) | 218 | 218 | 100.0 | Basque <kde-i18n-eu@kde.org> | 
- | [plasma-thunderbolt]({{< ref "/f34/package/plasma-thunderbolt.md" >}}) | 178 | 178 | 100.0 | Basque <kde-i18n-eu@kde.org> | 
- | [plasma-vault]({{< ref "/f34/package/plasma-vault.md" >}}) | 874 | 874 | 100.0 | Basque <kde-i18n-eu@kde.org> | 
- | [plymouth]({{< ref "/f34/package/plymouth.md" >}}) | 16 | 16 | 100.0 | Basque <https://translate.fedoraproject.org/projects/plymouth/master/eu/> | 
- | [plymouth-kcm]({{< ref "/f34/package/plymouth-kcm.md" >}}) | 112 | 112 | 100.0 | Basque <kde-i18n-eu@kde.org> | 
- | [polari]({{< ref "/f34/package/polari.md" >}}) | 867 | 867 | 100.0 | Basque <librezale@librezale.eus> | 
- | [polkit-gnome]({{< ref "/f34/package/polkit-gnome.md" >}}) | 94 | 94 | 100.0 | Basque <itzulpena@euskalgnu.org> | 
- | [polkit-kde]({{< ref "/f34/package/polkit-kde.md" >}}) | 95 | 95 | 100.0 | Basque <kde-i18n-eu@kde.org> | 
- | [powerdevil]({{< ref "/f34/package/powerdevil.md" >}}) | 642 | 642 | 100.0 | Basque <kde-i18n-doc@kde.org> | 
- | [python-SecretStorage]({{< ref "/f34/package/python-SecretStorage.md" >}}) | 59 | 59 | 100.0 | Basque <librezale@librezale.org> | 
- | [python-caja]({{< ref "/f34/package/python-caja.md" >}}) | 6 | 6 | 100.0 | Basque (https://www.transifex.com/mate/teams/13566/eu/) | 
- | [python-django-formtools]({{< ref "/f34/package/python-django-formtools.md" >}}) | 32 | 32 | 100.0 | Basque (http://www.transifex.com/django/django-formtools/language/eu/) | 
- | [qtwebkit]({{< ref "/f34/package/qtwebkit.md" >}}) | 1093 | 1093 | 100.0 | Basque <itzulpena@euskalgnu.org> | 
- | [rhythmbox]({{< ref "/f34/package/rhythmbox.md" >}}) | 8812 | 8812 | 100.0 | Basque <itzulpena@euskalgnu.org> | 
- | [rygel]({{< ref "/f34/package/rygel.md" >}}) | 1641 | 1641 | 100.0 | Basque <librezale@librezale.eus> | 
- | [schroot]({{< ref "/f34/package/schroot.md" >}}) | 1665 | 1665 | 100.0 | Basque <librezale@librezale.org> | 
- | [sddm-kcm]({{< ref "/f34/package/sddm-kcm.md" >}}) | 185 | 185 | 100.0 | Basque <kde-i18n-eu@kde.org> | 
- | [seahorse]({{< ref "/f34/package/seahorse.md" >}}) | 2631 | 2631 | 100.0 | Basque <librezale@librezale.eus> | 
- | [seahorse-caja]({{< ref "/f34/package/seahorse-caja.md" >}}) | 421 | 421 | 100.0 | American English <kde-i18n-doc@kde.org> | 
- | [seahorse-nautilus]({{< ref "/f34/package/seahorse-nautilus.md" >}}) | 421 | 421 | 100.0 | American English <kde-i18n-doc@kde.org> | 
- | [shutter]({{< ref "/f34/package/shutter.md" >}}) | 3093 | 3093 | 100.0 | Basque <eu@li.org> | 
- | [simple-scan]({{< ref "/f34/package/simple-scan.md" >}}) | 2205 | 2205 | 100.0 | Basque <librezale@librezale.eus> | 
- | [slick-greeter]({{< ref "/f34/package/slick-greeter.md" >}}) | 211 | 211 | 100.0 | Basque <eu@li.org> | 
- | [smb4k]({{< ref "/f34/package/smb4k.md" >}}) | 6436 | 6436 | 100.0 | Basque <kde-i18n-eu@kde.org> | 
- | [spectacle]({{< ref "/f34/package/spectacle.md" >}}) | 897 | 897 | 100.0 | Basque <kde-i18n-eu@kde.org> | 
- | [squirrelmail]({{< ref "/f34/package/squirrelmail.md" >}}) | 7662 | 7662 | 100.0 | Basque <squirrelmail-i18n@lists.sourceforge.net> | 
- | [sushi]({{< ref "/f34/package/sushi.md" >}}) | 54 | 54 | 100.0 | Basque <librezale@librezale.eus> | 
- | [svgpart]({{< ref "/f34/package/svgpart.md" >}}) | 22 | 22 | 100.0 | Basque <itzulpena@euskalgnu.org> | 
- | [sweeper]({{< ref "/f34/package/sweeper.md" >}}) | 228 | 228 | 100.0 | Basque <kde-i18n-eu@kde.org> | 
- | [swell-foop]({{< ref "/f34/package/swell-foop.md" >}}) | 1645 | 1645 | 100.0 | Basque <itzulpena@euskalgnu.org> | 
- | [sylpheed]({{< ref "/f34/package/sylpheed.md" >}}) | 7214 | 7214 | 100.0 | (EUS_Xabiera Aramendi) <azpidatziak@gmail.com> | 
- | [sysprof]({{< ref "/f34/package/sysprof.md" >}}) | 834 | 834 | 100.0 | Basque <librezale@librezale.eus> | 
- | [sysstat]({{< ref "/f34/package/sysstat.md" >}}) | 587 | 587 | 100.0 | Basque <translation-team-eu@lists.sourceforge.net> | 
- | [tali]({{< ref "/f34/package/tali.md" >}}) | 2427 | 2427 | 100.0 | Basque <librezale@librezale.eus> | 
- | [tepl]({{< ref "/f34/package/tepl.md" >}}) | 294 | 294 | 100.0 | Basque <librezale@librezale.eus> | 
- | [thunar-archive-plugin]({{< ref "/f34/package/thunar-archive-plugin.md" >}}) | 86 | 86 | 100.0 | Basque (http://www.transifex.com/xfce/thunar-plugins/language/eu/) | 
- | [thunar-media-tags-plugin]({{< ref "/f34/package/thunar-media-tags-plugin.md" >}}) | 156 | 156 | 100.0 | Basque (http://www.transifex.com/xfce/thunar-plugins/language/eu/) | 
- | [thunar-volman]({{< ref "/f34/package/thunar-volman.md" >}}) | 484 | 484 | 100.0 | Basque (http://www.transifex.com/xfce/thunar-volman/language/eu/) | 
- | [tomboy]({{< ref "/f34/package/tomboy.md" >}}) | 6616 | 6616 | 100.0 | Basque <itzulpena@euskalgnu.org> | 
- | [toppler]({{< ref "/f34/package/toppler.md" >}}) | 552 | 552 | 100.0 | Euskara  <librezale@librezale.org> | 
- | [totem]({{< ref "/f34/package/totem.md" >}}) | 3966 | 3966 | 100.0 | Basque <itzulpena@euskalgnu.org> | 
- | [totem-pl-parser]({{< ref "/f34/package/totem-pl-parser.md" >}}) | 29 | 29 | 100.0 | Basque <librezale@librezale.eus> | 
- | [tracker]({{< ref "/f34/package/tracker.md" >}}) | 580 | 580 | 100.0 | Basque <librezale@librezale.eus> | 
- | [tracker-miners]({{< ref "/f34/package/tracker-miners.md" >}}) | 1810 | 1810 | 100.0 | Basque <librezale@librezale.eus> | 
- | [tumbler]({{< ref "/f34/package/tumbler.md" >}}) | 241 | 241 | 100.0 | Basque (http://www.transifex.com/xfce/tumbler/language/eu/) | 
- | [vte]({{< ref "/f34/package/vte.md" >}}) | 80 | 80 | 100.0 | Basque <itzulpena@euskalgnu.org> | 
- | [vte291]({{< ref "/f34/package/vte291.md" >}}) | 46 | 46 | 100.0 | Basque <librezale@librezale.eus> | 
- | [wike]({{< ref "/f34/package/wike.md" >}}) | 459 | 459 | 100.0 |  | 
- | [xapps]({{< ref "/f34/package/xapps.md" >}}) | 73 | 73 | 100.0 | Basque <eu@li.org> | 
- | [xarchiver]({{< ref "/f34/package/xarchiver.md" >}}) | 1214 | 1214 | 100.0 | Euskara <librezale@librezale.eus> | 
- | [xawtv]({{< ref "/f34/package/xawtv.md" >}}) | 126 | 126 | 100.0 | Euskara <Librezale@librezale.org> | 
- | [xdg-user-dirs]({{< ref "/f34/package/xdg-user-dirs.md" >}}) | 28 | 28 | 100.0 | Basque <translation-team-eu@lists.sourceforge.net> | 
- | [xdg-user-dirs-gtk]({{< ref "/f34/package/xdg-user-dirs-gtk.md" >}}) | 81 | 81 | 100.0 | Basque <itzulpena@euskalgnu.org> | 
- | [xed]({{< ref "/f34/package/xed.md" >}}) | 3760 | 3760 | 100.0 | Basque (http://www.transifex.com/projects/p/MATE/language/eu/) | 
- | [xfce4-battery-plugin]({{< ref "/f34/package/xfce4-battery-plugin.md" >}}) | 147 | 147 | 100.0 | Basque (http://www.transifex.com/xfce/xfce-panel-plugins/language/eu/) | 
- | [xfce4-calculator-plugin]({{< ref "/f34/package/xfce4-calculator-plugin.md" >}}) | 42 | 42 | 100.0 | Basque (https://www.transifex.com/xfce/teams/16840/eu/) | 
- | [xfce4-cpufreq-plugin]({{< ref "/f34/package/xfce4-cpufreq-plugin.md" >}}) | 174 | 174 | 100.0 | Basque (http://www.transifex.com/xfce/xfce-panel-plugins/language/eu/) | 
- | [xfce4-datetime-plugin]({{< ref "/f34/package/xfce4-datetime-plugin.md" >}}) | 52 | 52 | 100.0 | Basque (http://www.transifex.com/xfce/xfce-panel-plugins/language/eu/) | 
- | [xfce4-diskperf-plugin]({{< ref "/f34/package/xfce4-diskperf-plugin.md" >}}) | 181 | 181 | 100.0 | Basque (http://www.transifex.com/xfce/xfce-panel-plugins/language/eu/) | 
- | [xfce4-eyes-plugin]({{< ref "/f34/package/xfce4-eyes-plugin.md" >}}) | 16 | 16 | 100.0 | Basque (http://www.transifex.com/xfce/xfce-panel-plugins/language/eu/) | 
- | [xfce4-fsguard-plugin]({{< ref "/f34/package/xfce4-fsguard-plugin.md" >}}) | 71 | 71 | 100.0 | Basque (http://www.transifex.com/xfce/xfce-panel-plugins/language/eu/) | 
- | [xfce4-genmon-plugin]({{< ref "/f34/package/xfce4-genmon-plugin.md" >}}) | 100 | 100 | 100.0 | Basque (http://www.transifex.com/xfce/xfce-panel-plugins/language/eu/) | 
- | [xfce4-mpc-plugin]({{< ref "/f34/package/xfce4-mpc-plugin.md" >}}) | 78 | 78 | 100.0 | Basque (http://www.transifex.com/xfce/xfce-panel-plugins/language/eu/) | 
- | [xfce4-netload-plugin]({{< ref "/f34/package/xfce4-netload-plugin.md" >}}) | 91 | 91 | 100.0 | Basque (http://www.transifex.com/xfce/xfce-panel-plugins/language/eu/) | 
- | [xfce4-notes-plugin]({{< ref "/f34/package/xfce4-notes-plugin.md" >}}) | 169 | 169 | 100.0 | Basque (http://www.transifex.com/xfce/xfce-panel-plugins/language/eu/) | 
- | [xfce4-notifyd]({{< ref "/f34/package/xfce4-notifyd.md" >}}) | 98 | 98 | 100.0 | Basque <kde-i18n-doc@kde.org> | 
- | [xfce4-panel]({{< ref "/f34/package/xfce4-panel.md" >}}) | 1847 | 1847 | 100.0 | Basque (https://www.transifex.com/xfce/teams/16840/eu/) | 
- | [xfce4-panel-profiles]({{< ref "/f34/package/xfce4-panel-profiles.md" >}}) | 99 | 99 | 100.0 | Basque (https://www.transifex.com/xfce/teams/16840/eu/) | 
- | [xfce4-places-plugin]({{< ref "/f34/package/xfce4-places-plugin.md" >}}) | 162 | 162 | 100.0 | Basque (http://www.transifex.com/xfce/xfce-panel-plugins/language/eu/) | 
- | [xfce4-pulseaudio-plugin]({{< ref "/f34/package/xfce4-pulseaudio-plugin.md" >}}) | 148 | 148 | 100.0 | Basque (http://www.transifex.com/xfce/xfce-panel-plugins/language/eu/) | 
- | [xfce4-screensaver]({{< ref "/f34/package/xfce4-screensaver.md" >}}) | 696 | 696 | 100.0 | Basque (https://www.transifex.com/xfce/teams/16840/eu/) | 
- | [xfce4-screenshooter]({{< ref "/f34/package/xfce4-screenshooter.md" >}}) | 529 | 529 | 100.0 | Basque (http://www.transifex.com/xfce/xfce-apps/language/eu/) | 
- | [xfce4-session]({{< ref "/f34/package/xfce4-session.md" >}}) | 756 | 756 | 100.0 | Basque (http://www.transifex.com/xfce/xfce4-session/language/eu/) | 
- | [xfce4-settings]({{< ref "/f34/package/xfce4-settings.md" >}}) | 2426 | 2426 | 100.0 | Basque (https://www.transifex.com/xfce/teams/16840/eu/) | 
- | [xfce4-smartbookmark-plugin]({{< ref "/f34/package/xfce4-smartbookmark-plugin.md" >}}) | 22 | 22 | 100.0 | Basque (http://www.transifex.com/xfce/xfce-panel-plugins/language/eu/) | 
- | [xfce4-systemload-plugin]({{< ref "/f34/package/xfce4-systemload-plugin.md" >}}) | 87 | 87 | 100.0 | Basque (http://www.transifex.com/xfce/xfce-panel-plugins/language/eu/) | 
- | [xfce4-time-out-plugin]({{< ref "/f34/package/xfce4-time-out-plugin.md" >}}) | 115 | 115 | 100.0 | Basque (http://www.transifex.com/xfce/xfce-panel-plugins/language/eu/) | 
- | [xfce4-verve-plugin]({{< ref "/f34/package/xfce4-verve-plugin.md" >}}) | 47 | 47 | 100.0 | Librezale <xfce-i18n@xfce.org> | 
- | [xfce4-whiskermenu-plugin]({{< ref "/f34/package/xfce4-whiskermenu-plugin.md" >}}) | 387 | 387 | 100.0 | Basque (http://www.transifex.com/gottcode/xfce4-whiskermenu-plugin/language/eu/) | 
- | [xfconf]({{< ref "/f34/package/xfconf.md" >}}) | 458 | 458 | 100.0 | Basque (http://www.transifex.com/xfce/xfconf/language/eu/) | 
- | [xfmpc]({{< ref "/f34/package/xfmpc.md" >}}) | 175 | 175 | 100.0 | Basque (http://www.transifex.com/xfce/xfce-apps/language/eu/) | 
- | [xournalpp]({{< ref "/f34/package/xournalpp.md" >}}) | 4034 | 4034 | 100.0 | Basque | 
- | [xreader]({{< ref "/f34/package/xreader.md" >}}) | 3387 | 3387 | 100.0 | Basque <itzulpena@euskalgnu.org> | 
- | [yakuake]({{< ref "/f34/package/yakuake.md" >}}) | 1674 | 1674 | 100.0 | Basque <kde-i18n-eu@kde.org> | 
- | [yelp]({{< ref "/f34/package/yelp.md" >}}) | 348 | 348 | 100.0 | Basque <librezale@librezale.eus> | 
- | [yelp-xsl]({{< ref "/f34/package/yelp-xsl.md" >}}) | 88 | 88 | 100.0 | Basque <librezale@librezale.eus> | 
- | [zenity]({{< ref "/f34/package/zenity.md" >}}) | 3221 | 3221 | 100.0 | Basque <itzulpena@euskalgnu.org> | 
- | [kmplot]({{< ref "/f34/package/kmplot.md" >}}) | 2491 | 2493 | 99.9 | Basque <kde-i18n-eu@kde.org> | 
- | [boinc-client]({{< ref "/f34/package/boinc-client.md" >}}) | 21155 | 21183 | 99.9 | Basque (http://www.transifex.com/boinc/boinc/language/eu/) | 
- | [kget]({{< ref "/f34/package/kget.md" >}}) | 2936 | 2940 | 99.9 | Basque <kde-i18n-eu@kde.org> | 
- | [regexxer]({{< ref "/f34/package/regexxer.md" >}}) | 466 | 467 | 99.8 | Basque <itzulpena@euskalgnu.org> | 
- | [kubrick]({{< ref "/f34/package/kubrick.md" >}}) | 1202 | 1205 | 99.8 | Basque <kde-i18n-eu@kde.org> | 
- | [klavaro]({{< ref "/f34/package/klavaro.md" >}}) | 1888 | 1893 | 99.7 | Basque <translation-team-eu@googlegroups.com> | 
- | [libksysguard]({{< ref "/f34/package/libksysguard.md" >}}) | 4090 | 4102 | 99.7 | Basque <kde-i18n-eu@kde.org> | 
- | [Zim]({{< ref "/f34/package/Zim.md" >}}) | 3284 | 3295 | 99.7 | Basque <https://hosted.weblate.org/projects/zim/master/eu/> | 
- | [cinnamon-translations]({{< ref "/f34/package/cinnamon-translations.md" >}}) | 23179 | 23274 | 99.6 | Basque <eu@li.org> | 
- | [pcmanfm]({{< ref "/f34/package/pcmanfm.md" >}}) | 1210 | 1215 | 99.6 | LANGUAGE <LL@li.org> | 
- | [xfce4-dict]({{< ref "/f34/package/xfce4-dict.md" >}}) | 526 | 529 | 99.4 | Basque (http://www.transifex.com/xfce/xfce-apps/language/eu/) | 
- | [ristretto]({{< ref "/f34/package/ristretto.md" >}}) | 635 | 639 | 99.4 | Basque (http://www.transifex.com/xfce/xfce-apps/language/eu/) | 
- | [rekonq]({{< ref "/f34/package/rekonq.md" >}}) | 2187 | 2202 | 99.3 | Basque <kde-i18n-doc@kde.org> | 
- | [kf5-solid]({{< ref "/f34/package/kf5-solid.md" >}}) | 559 | 563 | 99.3 | Basque <kde-i18n-eu@kde.org> | 
- | [kf5-kio]({{< ref "/f34/package/kf5-kio.md" >}}) | 11799 | 11885 | 99.3 | Basque <kde-i18n-eu@kde.org> | 
- | [xfce4-mount-plugin]({{< ref "/f34/package/xfce4-mount-plugin.md" >}}) | 380 | 383 | 99.2 | Basque (http://www.transifex.com/xfce/xfce-panel-plugins/language/eu/) | 
- | [kigo]({{< ref "/f34/package/kigo.md" >}}) | 500 | 504 | 99.2 | Basque <kde-i18n-eu@kde.org> | 
- | [kf5-syntax-highlighting]({{< ref "/f34/package/kf5-syntax-highlighting.md" >}}) | 607 | 612 | 99.2 | Basque <kde-i18n-eu@kde.org> | 
- | [kreversi]({{< ref "/f34/package/kreversi.md" >}}) | 425 | 429 | 99.1 | Basque <kde-i18n-doc@kde.org> | 
- | [kwin]({{< ref "/f34/package/kwin.md" >}}) | 5735 | 5795 | 99.0 | Basque <kde-i18n-eu@kde.org> | 
- | [libfm]({{< ref "/f34/package/libfm.md" >}}) | 1558 | 1575 | 98.9 | LANGUAGE <LL@li.org> | 
- | [kcachegrind]({{< ref "/f34/package/kcachegrind.md" >}}) | 1714 | 1736 | 98.7 | Basque <kde-i18n-doc@kde.org> | 
- | [kde-connect]({{< ref "/f34/package/kde-connect.md" >}}) | 1245 | 1262 | 98.7 | Basque <kde-i18n-eu@kde.org> | 
- | [shotwell]({{< ref "/f34/package/shotwell.md" >}}) | 6880 | 6977 | 98.6 | Basque <librezale@librezale.eus> | 
- | [mingw-wxWidgets3]({{< ref "/f34/package/mingw-wxWidgets3.md" >}}) | 7587 | 7695 | 98.6 | (EUS_Xabier Aramendi) <azpidatziak@gmail.com> | 
- | [python-wxpython4]({{< ref "/f34/package/python-wxpython4.md" >}}) | 7587 | 7695 | 98.6 | (EUS_Xabier Aramendi) <azpidatziak@gmail.com> | 
- | [wxGTK3]({{< ref "/f34/package/wxGTK3.md" >}}) | 7587 | 7695 | 98.6 | (EUS_Xabier Aramendi) <azpidatziak@gmail.com> | 
- | [kf5-kcoreaddons]({{< ref "/f34/package/kf5-kcoreaddons.md" >}}) | 523 | 531 | 98.5 | Basque <kde-i18n-eu@kde.org> | 
- | [tuxpaint-stamps]({{< ref "/f34/package/tuxpaint-stamps.md" >}}) | 3196 | 3249 | 98.4 | Basque <es@li.org> | 
- | [kf5-kxmlgui]({{< ref "/f34/package/kf5-kxmlgui.md" >}}) | 1535 | 1563 | 98.2 | Basque <kde-i18n-eu@kde.org> | 
- | [kspaceduel]({{< ref "/f34/package/kspaceduel.md" >}}) | 162 | 165 | 98.2 | Basque <itzulpena@euskalgnu.org> | 
- | [gegl04]({{< ref "/f34/package/gegl04.md" >}}) | 10043 | 10234 | 98.1 | Basque <librezale@librezale.eus> | 
- | [gimp]({{< ref "/f34/package/gimp.md" >}}) | 38591 | 39400 | 97.9 | Basque <librezale@librezale.eus> | 
- | [kf5-libksane]({{< ref "/f34/package/kf5-libksane.md" >}}) | 284 | 290 | 97.9 | Basque <kde-i18n-eu@kde.org> | 
- | [wxGTK]({{< ref "/f34/package/wxGTK.md" >}}) | 7351 | 7508 | 97.9 | (EUS_Xabier Aramendi) <azpidatziak@gmail.com> | 
- | [plasma-workspace]({{< ref "/f34/package/plasma-workspace.md" >}}) | 11312 | 11558 | 97.9 | Basque <kde-i18n-eu@kde.org> | 
- | [mate-menu]({{< ref "/f34/package/mate-menu.md" >}}) | 301 | 308 | 97.7 | Basque (http://www.transifex.com/mate/MATE/language/eu/) | 
- | [ksquares]({{< ref "/f34/package/ksquares.md" >}}) | 251 | 257 | 97.7 | Basque <itzulpena@euskalgnu.org> | 
- | [kf5-sonnet]({{< ref "/f34/package/kf5-sonnet.md" >}}) | 667 | 683 | 97.7 | Basque <kde-i18n-eu@kde.org> | 
- | [kf5-kconfigwidgets]({{< ref "/f34/package/kf5-kconfigwidgets.md" >}}) | 332 | 340 | 97.6 | Basque <kde-i18n-eu@kde.org> | 
- | [eog-plugins]({{< ref "/f34/package/eog-plugins.md" >}}) | 406 | 416 | 97.6 | Basque <librezale@librezale.eus> | 
- | [lyx]({{< ref "/f34/package/lyx.md" >}}) | 25072 | 25702 | 97.5 | Basque <librezale@librezale.eus> | 
- | [krdc]({{< ref "/f34/package/krdc.md" >}}) | 1147 | 1176 | 97.5 | Basque <kde-i18n-eu@kde.org> | 
- | [gigolo]({{< ref "/f34/package/gigolo.md" >}}) | 455 | 467 | 97.4 | Basque (http://www.transifex.com/xfce/xfce-apps/language/eu/) | 
- | [xfce4-power-manager]({{< ref "/f34/package/xfce4-power-manager.md" >}}) | 1026 | 1057 | 97.1 | Basque (http://www.transifex.com/xfce/xfce4-power-manager/language/eu/) | 
- | [pinfo]({{< ref "/f34/package/pinfo.md" >}}) | 311 | 321 | 96.9 | librezale.org <librezale@librezale.org> | 
- | [kdeplasma-addons]({{< ref "/f34/package/kdeplasma-addons.md" >}}) | 1606 | 1658 | 96.9 | Basque <kde-i18n-eu@kde.org> | 
- | [shared-mime-info]({{< ref "/f34/package/shared-mime-info.md" >}}) | 1991 | 2058 | 96.7 | Basque (http://www.transifex.com/freedesktop/shared-mime-info/language/eu/) | 
- | [kphotoalbum]({{< ref "/f34/package/kphotoalbum.md" >}}) | 9152 | 9473 | 96.6 | Basque <kde-i18n-doc@kde.org> | 
- | [cinnamon-desktop]({{< ref "/f34/package/cinnamon-desktop.md" >}}) | 226 | 234 | 96.6 | Basque <itzulpena@euskalgnu.org> | 
- | [khotkeys]({{< ref "/f34/package/khotkeys.md" >}}) | 435 | 451 | 96.5 | Basque <kde-i18n-eu@kde.org> | 
- | [xdg-desktop-portal-kde]({{< ref "/f34/package/xdg-desktop-portal-kde.md" >}}) | 133 | 138 | 96.4 | Basque <kde-i18n-eu@kde.org> | 
- | [drgeo]({{< ref "/f34/package/drgeo.md" >}}) | 1912 | 1985 | 96.3 | <itzulpena@euskalgnu.org> | 
- | [skanlite]({{< ref "/f34/package/skanlite.md" >}}) | 176 | 183 | 96.2 | Basque <kde-i18n-eu@kde.org> | 
- | [gnome-commander]({{< ref "/f34/package/gnome-commander.md" >}}) | 10288 | 10708 | 96.1 | Basque <librezale@librezale.eus> | 
- | [kio-extras]({{< ref "/f34/package/kio-extras.md" >}}) | 1112 | 1158 | 96.0 | Basque <kde-i18n-eu@kde.org> | 
- | [kmymoney]({{< ref "/f34/package/kmymoney.md" >}}) | 21200 | 22091 | 96.0 | Basque <kde-i18n-eu@kde.org> | 
- | [libmatemixer]({{< ref "/f34/package/libmatemixer.md" >}}) | 232 | 242 | 95.9 | Basque (https://www.transifex.com/mate/teams/13566/eu/) | 
- | [gnome-chemistry-utils]({{< ref "/f34/package/gnome-chemistry-utils.md" >}}) | 4365 | 4563 | 95.7 | LANGUAGE <LL@li.org> | 
- | [mozo]({{< ref "/f34/package/mozo.md" >}}) | 44 | 46 | 95.7 | Basque (https://www.transifex.com/mate/teams/13566/eu/) | 
- | [lxpanel]({{< ref "/f34/package/lxpanel.md" >}}) | 1335 | 1399 | 95.4 | Basque <alainmendi@gmail.com> | 
- | [network-manager-applet]({{< ref "/f34/package/network-manager-applet.md" >}}) | 4108 | 4305 | 95.4 | Basque <librezale@librezale.eus> | 
- | [kf5-knotifications]({{< ref "/f34/package/kf5-knotifications.md" >}}) | 20 | 21 | 95.2 | Basque <kde-i18n-eu@kde.org> | 
- | [mate-menus]({{< ref "/f34/package/mate-menus.md" >}}) | 98 | 103 | 95.1 | Basque (https://www.transifex.com/mate/teams/13566/eu/) | 
- | [ccsm]({{< ref "/f34/package/ccsm.md" >}}) | 561 | 591 | 94.9 | Euskara <librezale@librezale.org> | 
- | [audacity]({{< ref "/f34/package/audacity.md" >}}) | 34198 | 36052 | 94.9 | Basque (https://www.transifex.com/librezale/teams/76773/eu/) | 
- | [openbox]({{< ref "/f34/package/openbox.md" >}}) | 479 | 506 | 94.7 | Inko I. A. <inkoia@gmail.com> | 
- | [mc]({{< ref "/f34/package/mc.md" >}}) | 4058 | 4289 | 94.6 | Basque (http://www.transifex.com/mc/mc/language/eu/) | 
- | [meld]({{< ref "/f34/package/meld.md" >}}) | 2349 | 2485 | 94.5 | Basque <librezale@librezale.eus> | 
- | [kde-l10n]({{< ref "/f34/package/kde-l10n.md" >}}) | 92651 | 98113 | 94.4 | Basque <kde-i18n-doc@kde.org> | 
- | [pitivi]({{< ref "/f34/package/pitivi.md" >}}) | 2221 | 2353 | 94.4 | Basque <librezale@librezale.eus> | 
- | [kgeography]({{< ref "/f34/package/kgeography.md" >}}) | 9113 | 9670 | 94.2 | Basque <kde-i18n-eu@kde.org> | 
- | [kiconedit]({{< ref "/f34/package/kiconedit.md" >}}) | 682 | 726 | 93.9 | Basque <kdeuskaraz@euskalgnu.org> | 
- | [python-ase]({{< ref "/f34/package/python-ase.md" >}}) | 1318 | 1404 | 93.9 | Basque | 
- | [lxterminal]({{< ref "/f34/package/lxterminal.md" >}}) | 199 | 212 | 93.9 | Basque <alainmendi@gmail.com> | 
- | [emerald]({{< ref "/f34/package/emerald.md" >}}) | 652 | 696 | 93.7 | Basque <librezale@librezale.org> | 
- | [ksnakeduel]({{< ref "/f34/package/ksnakeduel.md" >}}) | 222 | 237 | 93.7 | Basque <itzulpena@euskalgnu.org> | 
- | [python-django-contrib-comments]({{< ref "/f34/package/python-django-contrib-comments.md" >}}) | 234 | 250 | 93.6 | Basque (http://www.transifex.com/django/django-contrib-comments/language/eu/) | 
- | [lifeograph]({{< ref "/f34/package/lifeograph.md" >}}) | 976 | 1044 | 93.5 | Basque <eu@li.org> | 
- | [cairo-dock]({{< ref "/f34/package/cairo-dock.md" >}}) | 6966 | 7464 | 93.3 | librezale.org | 
- | [alsa-utils]({{< ref "/f34/package/alsa-utils.md" >}}) | 1751 | 1877 | 93.3 | Librezale <librezale@librezale.eus> | 
- | [timeshift]({{< ref "/f34/package/timeshift.md" >}}) | 2800 | 3005 | 93.2 | Basque <eu@li.org> | 
- | [klines]({{< ref "/f34/package/klines.md" >}}) | 92 | 99 | 92.9 | Basque <itzulpena@euskalgnu.org> | 
- | [plasma-systemmonitor]({{< ref "/f34/package/plasma-systemmonitor.md" >}}) | 497 | 536 | 92.7 | Basque <kde-i18n-eu@kde.org> | 
- | [calligra]({{< ref "/f34/package/calligra.md" >}}) | 27553 | 29739 | 92.6 | Basque <kde-i18n-doc@kde.org> | 
- | [xmms]({{< ref "/f34/package/xmms.md" >}}) | 3177 | 3443 | 92.3 | Euskara <linux-eu@chanae.alphanet.ch> | 
- | [kf5-ktexteditor]({{< ref "/f34/package/kf5-ktexteditor.md" >}}) | 7989 | 8678 | 92.1 | Basque | 
- | [elisa-player]({{< ref "/f34/package/elisa-player.md" >}}) | 526 | 572 | 92.0 | Basque <kde-i18n-eu@kde.org> | 
- | [gscan2pdf]({{< ref "/f34/package/gscan2pdf.md" >}}) | 1690 | 1840 | 91.8 | librezale.org | 
- | [ktorrent]({{< ref "/f34/package/ktorrent.md" >}}) | 6976 | 7608 | 91.7 | Basque <itzulpena@euskalgnu.org> | 
- | [python-nikola]({{< ref "/f34/package/python-nikola.md" >}}) | 86 | 94 | 91.5 | Basque (http://www.transifex.com/ralsina/nikola/language/eu/) | 
- | [sound-juicer]({{< ref "/f34/package/sound-juicer.md" >}}) | 5693 | 6235 | 91.3 | Basque <itzulpena@euskalgnu.org> | 
- | [kf5-kconfig]({{< ref "/f34/package/kf5-kconfig.md" >}}) | 262 | 287 | 91.3 | Basque <kde-i18n-eu@kde.org> | 
- | [supertux]({{< ref "/f34/package/supertux.md" >}}) | 3177 | 3483 | 91.2 | Basque (http://www.transifex.com/arctic-games/supertux/language/eu/) | 
- | [debconf]({{< ref "/f34/package/debconf.md" >}}) | 785 | 862 | 91.1 | Euskara | 
- | [tuxpaint]({{< ref "/f34/package/tuxpaint.md" >}}) | 1590 | 1748 | 91.0 | librezale@librezale.org | 
- | [kf5-purpose]({{< ref "/f34/package/kf5-purpose.md" >}}) | 270 | 298 | 90.6 | Basque <kde-i18n-eu@kde.org> | 
- | [xfce4-sensors-plugin]({{< ref "/f34/package/xfce4-sensors-plugin.md" >}}) | 392 | 433 | 90.5 | Basque (http://www.transifex.com/xfce/xfce-panel-plugins/language/eu/) | 
- | [xfce4-mailwatch-plugin]({{< ref "/f34/package/xfce4-mailwatch-plugin.md" >}}) | 623 | 689 | 90.4 | Basque (http://www.transifex.com/xfce/xfce-panel-plugins/language/eu/) | 
- | [cervisia]({{< ref "/f34/package/cervisia.md" >}}) | 1461 | 1619 | 90.2 | basque <itzulpena@euskalgnu.org> | 
- | [python-django]({{< ref "/f34/package/python-django.md" >}}) | 3372 | 3755 | 89.8 | Basque (http://www.transifex.com/django/django/language/eu/) | 
- | [kdevelop]({{< ref "/f34/package/kdevelop.md" >}}) | 4838 | 5391 | 89.7 | <en@li.org> | 
- | [kig]({{< ref "/f34/package/kig.md" >}}) | 7038 | 7855 | 89.6 | Basque <kde-i18n-eu@kde.org> | 
- | [mate-media]({{< ref "/f34/package/mate-media.md" >}}) | 214 | 239 | 89.5 | Basque (https://www.transifex.com/mate/teams/13566/eu/) | 
- | [xfce4-cpugraph-plugin]({{< ref "/f34/package/xfce4-cpugraph-plugin.md" >}}) | 162 | 181 | 89.5 | Basque (http://www.transifex.com/xfce/xfce-panel-plugins/language/eu/) | 
- | [mate-screensaver]({{< ref "/f34/package/mate-screensaver.md" >}}) | 981 | 1101 | 89.1 | Basque (https://www.transifex.com/mate/teams/13566/eu/) | 
- | [deja-dup]({{< ref "/f34/package/deja-dup.md" >}}) | 3099 | 3486 | 88.9 | Basque <eu@li.org> | 
- | [libkomparediff2]({{< ref "/f34/package/libkomparediff2.md" >}}) | 127 | 143 | 88.8 | Basque <itzulpena@euskalgnu.org> | 
- | [gnome-control-center]({{< ref "/f34/package/gnome-control-center.md" >}}) | 6336 | 7145 | 88.7 | Basque <librezale@librezale.eus> | 
- | [mingw-gstreamer]({{< ref "/f34/package/mingw-gstreamer.md" >}}) | 1697 | 1917 | 88.5 | Basque <translation-team-eu@lists.sourceforge.net> | 
- | [pinta]({{< ref "/f34/package/pinta.md" >}}) | 1545 | 1746 | 88.5 | Basque <eu@li.org> | 
- | [xfwm4]({{< ref "/f34/package/xfwm4.md" >}}) | 584 | 660 | 88.5 | Basque (http://www.transifex.com/xfce/xfwm4/language/eu/) | 
- | [klettres]({{< ref "/f34/package/klettres.md" >}}) | 387 | 438 | 88.4 | Basque <itzulpena@euskalgnu.org> | 
- | [fpm2]({{< ref "/f34/package/fpm2.md" >}}) | 708 | 806 | 87.8 |  | 
- | [mate-backgrounds]({{< ref "/f34/package/mate-backgrounds.md" >}}) | 48 | 55 | 87.3 | Basque (https://www.transifex.com/mate/teams/13566/eu/) | 
- | [kate]({{< ref "/f34/package/kate.md" >}}) | 5960 | 6842 | 87.1 | Basque <kde-i18n-eu@kde.org> | 
- | [l3afpad]({{< ref "/f34/package/l3afpad.md" >}}) | 113 | 130 | 86.9 | Basque <translation-team-eu@lists.sourceforge.net> | 
- | [supertuxkart]({{< ref "/f34/package/supertuxkart.md" >}}) | 5140 | 5918 | 86.9 | Basque (http://www.transifex.com/supertuxkart/supertuxkart/language/eu/) | 
- | [asunder]({{< ref "/f34/package/asunder.md" >}}) | 427 | 492 | 86.8 | Basque <LL@li.org> | 
- | [plasma-pass]({{< ref "/f34/package/plasma-pass.md" >}}) | 26 | 30 | 86.7 | Basque <kde-i18n-eu@kde.org> | 
- | [kpat]({{< ref "/f34/package/kpat.md" >}}) | 473 | 546 | 86.6 | Basque <kde-i18n-eu@kde.org> | 
- | [lokalize]({{< ref "/f34/package/lokalize.md" >}}) | 3539 | 4087 | 86.6 | Basque <kde-i18n-eu@kde.org> | 
- | [pidgin]({{< ref "/f34/package/pidgin.md" >}}) | 13694 | 15835 | 86.5 | Basque (http://www.transifex.com/pidgin/pidgin/language/eu/) | 
- | [tuxtype2]({{< ref "/f34/package/tuxtype2.md" >}}) | 69 | 80 | 86.2 | LANGUAGE <LL@li.org> | 
- | [caja]({{< ref "/f34/package/caja.md" >}}) | 8315 | 9675 | 85.9 | Basque (https://www.transifex.com/mate/teams/13566/eu/) | 
- | [inkscape]({{< ref "/f34/package/inkscape.md" >}}) | 37257 | 43605 | 85.4 | Basque <librezale@librezale.eus> | 
- | [libkeduvocdocument]({{< ref "/f34/package/libkeduvocdocument.md" >}}) | 146 | 171 | 85.4 | Basque <itzulpena@euskalgnu.org> | 
- | [kolf]({{< ref "/f34/package/kolf.md" >}}) | 342 | 401 | 85.3 | Basque <itzulpena@euskalgnu.org> | 
- | [almanah]({{< ref "/f34/package/almanah.md" >}}) | 578 | 679 | 85.1 | American English <kde-i18n-doc@kde.org> | 
- | [kscreen]({{< ref "/f34/package/kscreen.md" >}}) | 267 | 315 | 84.8 | Basque <kde-i18n-eu@kde.org> | 
- | [xfburn]({{< ref "/f34/package/xfburn.md" >}}) | 1325 | 1566 | 84.6 | Basque (http://www.transifex.com/xfce/xfce-apps/language/eu/) | 
- | [bluefish]({{< ref "/f34/package/bluefish.md" >}}) | 4175 | 4945 | 84.4 | Euskara <itzulpena@euskalgnu.org> | 
- | [moserial]({{< ref "/f34/package/moserial.md" >}}) | 529 | 627 | 84.4 | Basque <librezale@librezale.eus> | 
- | [mate-notification-daemon]({{< ref "/f34/package/mate-notification-daemon.md" >}}) | 156 | 186 | 83.9 | Basque (https://www.transifex.com/mate/teams/13566/eu/) | 
- | [ksig]({{< ref "/f34/package/ksig.md" >}}) | 71 | 85 | 83.5 | Basque <itzulpena@euskalgnu.org> | 
- | [indent]({{< ref "/f34/package/indent.md" >}}) | 218 | 261 | 83.5 | Basque <translation-team-eu@lists.sourceforge.net> | 
- | [mkvtoolnix]({{< ref "/f34/package/mkvtoolnix.md" >}}) | 20152 | 24129 | 83.5 | Basque (http://www.transifex.com/moritz-bunkus/mkvtoolnix/language/eu/) | 
- | [pacman]({{< ref "/f34/package/pacman.md" >}}) | 8662 | 10378 | 83.5 | Basque (Spain) (http://www.transifex.com/toofishes/archlinux-pacman/language/eu_ES/) | 
- | [libmatekbd]({{< ref "/f34/package/libmatekbd.md" >}}) | 257 | 308 | 83.4 | Basque (https://www.transifex.com/mate/teams/13566/eu/) | 
- | [kbrickbuster]({{< ref "/f34/package/kbrickbuster.md" >}}) | 126 | 152 | 82.9 | Basque <itzulpena@euskalgnu.org> | 
- | [libfilezilla]({{< ref "/f34/package/libfilezilla.md" >}}) | 400 | 483 | 82.8 | Spanish <kde-i18n-doc@kde.org> | 
- | [goffice]({{< ref "/f34/package/goffice.md" >}}) | 5457 | 6608 | 82.6 | Basque <librezale@librezale.eus> | 
- | [mate-themes]({{< ref "/f34/package/mate-themes.md" >}}) | 61 | 74 | 82.4 | Basque (http://www.transifex.com/mate/MATE/language/eu/) | 
- | [caja-extensions]({{< ref "/f34/package/caja-extensions.md" >}}) | 624 | 760 | 82.1 | Basque (https://www.transifex.com/mate/teams/13566/eu/) | 
- | [rednotebook]({{< ref "/f34/package/rednotebook.md" >}}) | 939 | 1147 | 81.9 | Basque <eu@li.org> | 
- | [gnome-chess]({{< ref "/f34/package/gnome-chess.md" >}}) | 2080 | 2543 | 81.8 | Basque <librezale@librezale.eus> | 
- | [poedit]({{< ref "/f34/package/poedit.md" >}}) | 2379 | 2916 | 81.6 | Basque | 
- | [gnumeric]({{< ref "/f34/package/gnumeric.md" >}}) | 31402 | 38557 | 81.4 | Basque <librezale@librezale.eus> | 
- | [fragments]({{< ref "/f34/package/fragments.md" >}}) | 1625 | 2006 | 81.0 | Basque (https://www.transifex.com/transmissionbt/teams/33778/eu/) | 
- | [transmission]({{< ref "/f34/package/transmission.md" >}}) | 1618 | 1998 | 81.0 | Basque (https://www.transifex.com/transmissionbt/teams/33778/eu/) | 
- | [xfdesktop]({{< ref "/f34/package/xfdesktop.md" >}}) | 842 | 1041 | 80.9 | Basque (http://www.transifex.com/xfce/xfdesktop/language/eu/) | 
- | [neochat]({{< ref "/f34/package/neochat.md" >}}) | 676 | 840 | 80.5 | Basque <kde-i18n-eu@kde.org> | 
- | [foliate]({{< ref "/f34/package/foliate.md" >}}) | 2577 | 3216 | 80.1 |  | 
- | [kshisen]({{< ref "/f34/package/kshisen.md" >}}) | 454 | 567 | 80.1 | Basque <itzulpena@euskalgnu.org> | 
- | [gtypist]({{< ref "/f34/package/gtypist.md" >}}) | 443 | 556 | 79.7 |  | 
- | [kwordquiz]({{< ref "/f34/package/kwordquiz.md" >}}) | 1610 | 2026 | 79.5 | Basque <itzulpena@euskalgnu.org> | 
- | [thunar-vcs-plugin]({{< ref "/f34/package/thunar-vcs-plugin.md" >}}) | 471 | 595 | 79.2 | Basque (http://www.transifex.com/xfce/thunar-plugins/language/eu/) | 
- | [php-horde-Horde-Browser]({{< ref "/f34/package/php-horde-Horde-Browser.md" >}}) | 52 | 66 | 78.8 | i18n@lists.horde.org | 
- | [kmahjongg]({{< ref "/f34/package/kmahjongg.md" >}}) | 277 | 355 | 78.0 | Basque <itzulpena@euskalgnu.org> | 
- | [drawing]({{< ref "/f34/package/drawing.md" >}}) | 1417 | 1832 | 77.3 |  | 
- | [gcolor3]({{< ref "/f34/package/gcolor3.md" >}}) | 331 | 429 | 77.2 | Basque <librezale@librezale.eus> | 
- | [brasero]({{< ref "/f34/package/brasero.md" >}}) | 5894 | 7751 | 76.0 | Basque <librezale@librezale.eus> | 
- | [kalgebra]({{< ref "/f34/package/kalgebra.md" >}}) | 123 | 162 | 75.9 | Basque <itzulpena@euskalgnu.org> | 
- | [quadrapassel]({{< ref "/f34/package/quadrapassel.md" >}}) | 1117 | 1480 | 75.5 | Basque <librezale@librezale.eus> | 
- | [sympa]({{< ref "/f34/package/sympa.md" >}}) | 28055 | 37358 | 75.1 | Euskara | 
- | [gretl]({{< ref "/f34/package/gretl.md" >}}) | 12876 | 17152 | 75.1 |  | 
- | [balsa]({{< ref "/f34/package/balsa.md" >}}) | 5025 | 6779 | 74.1 | Basque <librezale@librezale.eus> | 
- | [marco]({{< ref "/f34/package/marco.md" >}}) | 3156 | 4303 | 73.3 | Basque (https://www.transifex.com/mate/teams/13566/eu/) | 
- | [gstreamer1]({{< ref "/f34/package/gstreamer1.md" >}}) | 1544 | 2110 | 73.2 | Basque <translation-team-eu@lists.sourceforge.net> | 
- | [mingw-gstreamer1]({{< ref "/f34/package/mingw-gstreamer1.md" >}}) | 1544 | 2110 | 73.2 | Basque <translation-team-eu@lists.sourceforge.net> | 
- | [scratch]({{< ref "/f34/package/scratch.md" >}}) | 1067 | 1470 | 72.6 | Jose Manuel <joxegasteiz@euskalnet.net> | 
- | [xfce4-appfinder]({{< ref "/f34/package/xfce4-appfinder.md" >}}) | 314 | 433 | 72.5 | Basque (http://www.transifex.com/xfce/xfce4-appfinder/language/eu/) | 
- | [jmol]({{< ref "/f34/package/jmol.md" >}}) | 2295 | 3166 | 72.5 | Basque <eu@li.org> | 
- | [kpilot]({{< ref "/f34/package/kpilot.md" >}}) | 5176 | 7156 | 72.3 | <eu@li.org> | 
- | [kaudiocreator]({{< ref "/f34/package/kaudiocreator.md" >}}) | 821 | 1136 | 72.3 | Basque <itzulpena@euskalgnu.org> | 
- | [dino]({{< ref "/f34/package/dino.md" >}}) | 707 | 979 | 72.2 | Basque <https://hosted.weblate.org/projects/dino/translations/eu/> | 
- | [koffice-kivio]({{< ref "/f34/package/koffice-kivio.md" >}}) | 6078 | 8417 | 72.2 | Basque <kdeuskaraz@euskalgnu.org> | 
- | [revelation]({{< ref "/f34/package/revelation.md" >}}) | 1751 | 2427 | 72.1 | Basque (http://www.transifex.com/hey_neken/revelation/language/eu/) | 
- | [mailman]({{< ref "/f34/package/mailman.md" >}}) | 17463 | 24451 | 71.4 | Euskara <eu@li.org> | 
- | [mate-desktop]({{< ref "/f34/package/mate-desktop.md" >}}) | 1692 | 2376 | 71.2 | Basque (https://www.transifex.com/mate/teams/13566/eu/) | 
- | [dpkg]({{< ref "/f34/package/dpkg.md" >}}) | 8409 | 11819 | 71.1 | Basque <debian-l10n-basque@lists.debian.org> | 
- | [gnome-sudoku]({{< ref "/f34/package/gnome-sudoku.md" >}}) | 1346 | 1899 | 70.9 | Basque <librezale@librezale.eus> | 
- | [kf5-kdeclarative]({{< ref "/f34/package/kf5-kdeclarative.md" >}}) | 107 | 151 | 70.9 | Basque <kde-i18n-eu@kde.org> | 
- | [kclock]({{< ref "/f34/package/kclock.md" >}}) | 24 | 34 | 70.6 | Basque <kde-i18n-eu@kde.org> | 
- | [compiz]({{< ref "/f34/package/compiz.md" >}}) | 3095 | 4385 | 70.6 | Basque <librezale@librezale.org> | 
- | [ktuberling]({{< ref "/f34/package/ktuberling.md" >}}) | 111 | 158 | 70.3 | Basque <kde-i18n-eu@kde.org> | 
- | [clementine]({{< ref "/f34/package/clementine.md" >}}) | 3688 | 5251 | 70.2 | Basque (http://www.transifex.com/davidsansome/clementine/language/eu/) | 
- | [gstreamer1-plugins-ugly-free]({{< ref "/f34/package/gstreamer1-plugins-ugly-free.md" >}}) | 56 | 80 | 70.0 | Basque <translation-team-eu@lists.sourceforge.net> | 
- | [workrave]({{< ref "/f34/package/workrave.md" >}}) | 976 | 1398 | 69.8 | <eu@li.org> | 
- | [gnome-shell-extension-openweather]({{< ref "/f34/package/gnome-shell-extension-openweather.md" >}}) | 419 | 601 | 69.7 | Librezale <librezale@librezale.eus> | 
- | [pan]({{< ref "/f34/package/pan.md" >}}) | 2426 | 3508 | 69.2 | Basque <librezale@librezale.eus> | 
- | [kf5-libkdepim]({{< ref "/f34/package/kf5-libkdepim.md" >}}) | 24 | 35 | 68.6 | <eu@li.org> | 
- | [amarok]({{< ref "/f34/package/amarok.md" >}}) | 10767 | 15819 | 68.1 | Basque <itzulpena@euskalgnu.org> | 
- | [mate-panel]({{< ref "/f34/package/mate-panel.md" >}}) | 4568 | 6720 | 68.0 | Basque (https://www.transifex.com/mate/teams/13566/eu/) | 
- | [kdenetwork-filesharing]({{< ref "/f34/package/kdenetwork-filesharing.md" >}}) | 302 | 445 | 67.9 | Basque <kde-i18n-eu@kde.org> | 
- | [gnome-mines]({{< ref "/f34/package/gnome-mines.md" >}}) | 977 | 1444 | 67.7 | Basque <librezale@librezale.eus> | 
- | [xfce4-clipman-plugin]({{< ref "/f34/package/xfce4-clipman-plugin.md" >}}) | 322 | 478 | 67.4 | Basque (http://www.transifex.com/xfce/xfce-panel-plugins/language/eu/) | 
- | [kbounce]({{< ref "/f34/package/kbounce.md" >}}) | 103 | 153 | 67.3 | Basque <itzulpena@euskalgnu.org> | 
- | [mutt]({{< ref "/f34/package/mutt.md" >}}) | 4378 | 6561 | 66.7 | Euskara <debian-l10n-basque@lists.debian.org> | 
- | [mate-session-manager]({{< ref "/f34/package/mate-session-manager.md" >}}) | 477 | 715 | 66.7 | Basque (https://www.transifex.com/mate/teams/13566/eu/) | 
- | [umbrello]({{< ref "/f34/package/umbrello.md" >}}) | 3820 | 5726 | 66.7 | Basque <kde-i18n-eu@kde.org> | 
- | [xfce4-taskmanager]({{< ref "/f34/package/xfce4-taskmanager.md" >}}) | 166 | 249 | 66.7 | Basque (http://www.transifex.com/xfce/xfce-apps/language/eu/) | 
- | [kf5-kirigami2]({{< ref "/f34/package/kf5-kirigami2.md" >}}) | 62 | 94 | 66.0 | Basque <kde-i18n-eu@kde.org> | 
- | [konquest]({{< ref "/f34/package/konquest.md" >}}) | 161 | 245 | 65.7 | Basque <itzulpena@euskalgnu.org> | 
- | [krusader]({{< ref "/f34/package/krusader.md" >}}) | 5168 | 7929 | 65.2 | Basque <kde-i18n-eu@kde.org> | 
- | [gnome-subtitles]({{< ref "/f34/package/gnome-subtitles.md" >}}) | 1052 | 1621 | 64.9 | Basque <librezale@librezale.eus> | 
- | [phosh]({{< ref "/f34/package/phosh.md" >}}) | 48 | 74 | 64.9 | Basque | 
- | [kwebkitpart]({{< ref "/f34/package/kwebkitpart.md" >}}) | 432 | 669 | 64.6 | Basque <itzulpena@euskalgnu.org> | 
- | [camorama]({{< ref "/f34/package/camorama.md" >}}) | 500 | 775 | 64.5 | Basque <eu@li.org> | 
- | [xfce4-terminal]({{< ref "/f34/package/xfce4-terminal.md" >}}) | 1108 | 1725 | 64.2 | Basque (http://www.transifex.com/xfce/xfce-apps/language/eu/) | 
- | [gpodder]({{< ref "/f34/package/gpodder.md" >}}) | 1424 | 2221 | 64.1 | Basque (http://www.transifex.com/projects/p/gpodder/language/eu/) | 
- | [kgraphviewer]({{< ref "/f34/package/kgraphviewer.md" >}}) | 764 | 1205 | 63.4 | Basque <itzulpena@euskalgnu.org> | 
- | [avogadro]({{< ref "/f34/package/avogadro.md" >}}) | 4151 | 6607 | 62.8 | Basque <eu@li.org> | 
- | [elementary-music]({{< ref "/f34/package/elementary-music.md" >}}) | 752 | 1205 | 62.4 | Basque <eu@li.org> | 
- | [liferea]({{< ref "/f34/package/liferea.md" >}}) | 1355 | 2216 | 61.1 | Basque <translation-team-eu@lists.sourceforge.net> | 
- | [gnome-clocks]({{< ref "/f34/package/gnome-clocks.md" >}}) | 809 | 1327 | 61.0 | Basque <librezale@librezale.eus> | 
- | [kf5-kldap]({{< ref "/f34/package/kf5-kldap.md" >}}) | 20 | 33 | 60.6 | Basque <itzulpena@euskalgnu.org> | 
- | [evolution]({{< ref "/f34/package/evolution.md" >}}) | 30896 | 51033 | 60.5 | Basque <itzulpena@euskalgnu.org> | 
- | [po4a]({{< ref "/f34/package/po4a.md" >}}) | 1425 | 2358 | 60.4 | Basque <debian-l10n-basque@lists.debian.org> | 
- | [knavalbattle]({{< ref "/f34/package/knavalbattle.md" >}}) | 241 | 399 | 60.4 | Basque <itzulpena@euskalgnu.org> | 
- | [gedit-latex]({{< ref "/f34/package/gedit-latex.md" >}}) | 282 | 468 | 60.3 | Basque <librezale@librezale.org> | 
- | [ksystemstats]({{< ref "/f34/package/ksystemstats.md" >}}) | 235 | 390 | 60.3 | Basque | 
- | [elementary-photos]({{< ref "/f34/package/elementary-photos.md" >}}) | 2409 | 4011 | 60.1 | Basque (http://www.transifex.com/projects/p/shotwell/language/eu/) | 
- | [xfce4-wavelan-plugin]({{< ref "/f34/package/xfce4-wavelan-plugin.md" >}}) | 40 | 67 | 59.7 | Basque (http://www.transifex.com/xfce/xfce-panel-plugins/language/eu/) | 
- | [xfce4-xkb-plugin]({{< ref "/f34/package/xfce4-xkb-plugin.md" >}}) | 34 | 57 | 59.6 | Basque (http://www.transifex.com/xfce/xfce-panel-plugins/language/eu/) | 
- | [shadow-utils]({{< ref "/f34/package/shadow-utils.md" >}}) | 2658 | 4462 | 59.6 | Euskara <debian-l10n-eu@lists.debian.org> | 
- | [khangman]({{< ref "/f34/package/khangman.md" >}}) | 281 | 476 | 59.0 | Basque <itzulpena@euskalgnu.org> | 
- | [compiz-plugins-main]({{< ref "/f34/package/compiz-plugins-main.md" >}}) | 2485 | 4218 | 58.9 | Euskara <eu@li.org> | 
- | [compiz-plugins-extra]({{< ref "/f34/package/compiz-plugins-extra.md" >}}) | 2217 | 3773 | 58.8 | Euskara <eu@li.org> | 
- | [katomic]({{< ref "/f34/package/katomic.md" >}}) | 108 | 184 | 58.7 | Basque <itzulpena@euskalgnu.org> | 
- | [mate-settings-daemon]({{< ref "/f34/package/mate-settings-daemon.md" >}}) | 1281 | 2206 | 58.1 | Basque (https://www.transifex.com/mate/teams/13566/eu/) | 
- | [synapse]({{< ref "/f34/package/synapse.md" >}}) | 497 | 856 | 58.1 | Basque <eu@li.org> | 
- | [ksudoku]({{< ref "/f34/package/ksudoku.md" >}}) | 1012 | 1746 | 58.0 | Basque <kde-i18n-eu@kde.org> | 
- | [kdepim-runtime]({{< ref "/f34/package/kdepim-runtime.md" >}}) | 157 | 271 | 57.9 | Basque <kde-i18n-eu@kde.org> | 
- | [libmateweather]({{< ref "/f34/package/libmateweather.md" >}}) | 3519 | 6143 | 57.3 | Basque (https://www.transifex.com/mate/teams/13566/eu/) | 
- | [mate-user-guide]({{< ref "/f34/package/mate-user-guide.md" >}}) | 24220 | 42969 | 56.4 | Basque (https://www.transifex.com/mate/teams/13566/eu/) | 
- | [kgoldrunner]({{< ref "/f34/package/kgoldrunner.md" >}}) | 13104 | 23554 | 55.6 | Basque <itzulpena@euskalgnu.org> | 
- | [xfce4-timer-plugin]({{< ref "/f34/package/xfce4-timer-plugin.md" >}}) | 75 | 135 | 55.6 | Basque (http://www.transifex.com/xfce/xfce-panel-plugins/language/eu/) | 
- | [kfourinline]({{< ref "/f34/package/kfourinline.md" >}}) | 216 | 392 | 55.1 | Basque <itzulpena@euskalgnu.org> | 
- | [gnome-calculator]({{< ref "/f34/package/gnome-calculator.md" >}}) | 2020 | 3729 | 54.2 | Basque <librezale@librezale.eus> | 
- | [grilo-plugins]({{< ref "/f34/package/grilo-plugins.md" >}}) | 992 | 1844 | 53.8 | Basque <librezale@librezale.eus> | 
- | [calligraplan]({{< ref "/f34/package/calligraplan.md" >}}) | 4769 | 8894 | 53.6 | Basque <kde-i18n-eu@kde.org> | 
- | [okteta]({{< ref "/f34/package/okteta.md" >}}) | 1352 | 2538 | 53.3 | Basque <kde-i18n-eu@kde.org> | 
- | [tellico]({{< ref "/f34/package/tellico.md" >}}) | 3079 | 5862 | 52.5 | Basque <kde-i18n-eu@kde.org> | 
- | [mate-terminal]({{< ref "/f34/package/mate-terminal.md" >}}) | 4377 | 8386 | 52.2 | Basque (https://www.transifex.com/mate/teams/13566/eu/) | 
- | [krita]({{< ref "/f34/package/krita.md" >}}) | 14491 | 27872 | 52.0 | Basque <kde-i18n-eu@kde.org> | 
- | [bijiben]({{< ref "/f34/package/bijiben.md" >}}) | 661 | 1278 | 51.7 | Basque <librezale@librezale.eus> | 
- | [kiten]({{< ref "/f34/package/kiten.md" >}}) | 330 | 653 | 50.5 | Basque <itzulpena@euskalgnu.org> | 
- | [gstreamer1-plugins-good]({{< ref "/f34/package/gstreamer1-plugins-good.md" >}}) | 405 | 802 | 50.5 | Basque <translation-team-eu@lists.sourceforge.net> | 
- | [mingw-gstreamer1-plugins-good]({{< ref "/f34/package/mingw-gstreamer1-plugins-good.md" >}}) | 405 | 802 | 50.5 | Basque <translation-team-eu@lists.sourceforge.net> | 
- | [parley]({{< ref "/f34/package/parley.md" >}}) | 1935 | 3850 | 50.3 | Basque <itzulpena@euskalgnu.org> | 
- | [NetworkManager-openvpn]({{< ref "/f34/package/NetworkManager-openvpn.md" >}}) | 1047 | 2095 | 50.0 | Basque <librezale@librezale.eus> | 
- | [soundconverter]({{< ref "/f34/package/soundconverter.md" >}}) | 253 | 507 | 49.9 | Basque <eu@li.org> | 
- | [sugar-toolkit-gtk3]({{< ref "/f34/package/sugar-toolkit-gtk3.md" >}}) | 106 | 213 | 49.8 | LANGUAGE <LL@li.org> | 
- | [midori]({{< ref "/f34/package/midori.md" >}}) | 1760 | 3541 | 49.7 | Basque <eu@li.org> | 
- | [rt]({{< ref "/f34/package/rt.md" >}}) | 5799 | 11843 | 49.0 | Basque <eu@li.org> | 
- | [mate-utils]({{< ref "/f34/package/mate-utils.md" >}}) | 4912 | 10060 | 48.8 | Basque (https://www.transifex.com/mate/teams/13566/eu/) | 
- | [tar]({{< ref "/f34/package/tar.md" >}}) | 1774 | 3658 | 48.5 | Basque <translation-team-eu@lists.sourceforge.net> | 
- | [lightdm]({{< ref "/f34/package/lightdm.md" >}}) | 79 | 163 | 48.5 | Basque <eu@li.org> | 
- | [kalzium]({{< ref "/f34/package/kalzium.md" >}}) | 5030 | 10407 | 48.3 | Basque <kde-i18n-doc@kde.org> | 
- | [kstars]({{< ref "/f34/package/kstars.md" >}}) | 29521 | 62342 | 47.4 | Basque <kde-i18n-eu@kde.org> | 
- | [latte-dock]({{< ref "/f34/package/latte-dock.md" >}}) | 1632 | 3526 | 46.3 | Basque <kde-i18n-doc@kde.org> | 
- | [atril]({{< ref "/f34/package/atril.md" >}}) | 2030 | 4389 | 46.3 | Basque (https://www.transifex.com/mate/teams/13566/eu/) | 
- | [xpad]({{< ref "/f34/package/xpad.md" >}}) | 191 | 413 | 46.2 | Basque <eu@li.org> | 
- | [geany]({{< ref "/f34/package/geany.md" >}}) | 2824 | 6156 | 45.9 | Euskara <librezale@librezale.org> | 
- | [moodle]({{< ref "/f34/package/moodle.md" >}}) | 141 | 309 | 45.6 | Euskal Herriko Unibertsitatea <webmaster@ehu.es> | 
- | [apt]({{< ref "/f34/package/apt.md" >}}) | 2469 | 5413 | 45.6 | Euskara <debian-l10n-basque@lists.debian.org> | 
- | [gupnp-tools]({{< ref "/f34/package/gupnp-tools.md" >}}) | 161 | 354 | 45.5 | Basque <librezale@librezale.eus> | 
- | [gphoto2]({{< ref "/f34/package/gphoto2.md" >}}) | 800 | 1761 | 45.4 | Basque <translation-team-eu@lists.sourceforge.net> | 
- | [hugin]({{< ref "/f34/package/hugin.md" >}}) | 4277 | 9503 | 45.0 | Basque <LL@li.org> | 
- | [kmail]({{< ref "/f34/package/kmail.md" >}}) | 3654 | 8148 | 44.8 | Basque <kde-i18n-eu@kde.org> | 
- | [knetwalk]({{< ref "/f34/package/knetwalk.md" >}}) | 107 | 243 | 44.0 | Basque <itzulpena@euskalgnu.org> | 
- | [psmisc]({{< ref "/f34/package/psmisc.md" >}}) | 433 | 990 | 43.7 | Basque <translation-team-eu@lists.sourceforge.net> | 
- | [NetworkManager-openconnect]({{< ref "/f34/package/NetworkManager-openconnect.md" >}}) | 2754 | 6362 | 43.3 | Basque <librezale@librezale.org> | 
- | [kexi]({{< ref "/f34/package/kexi.md" >}}) | 3160 | 7340 | 43.1 | Basque <kde-i18n-eu@kde.org> | 
- | [synfigstudio]({{< ref "/f34/package/synfigstudio.md" >}}) | 5983 | 13904 | 43.0 | Basque (Spain) (http://www.transifex.com/morevnaproject/synfig/language/eu_ES/) | 
- | [kanagram]({{< ref "/f34/package/kanagram.md" >}}) | 225 | 528 | 42.6 | Basque <itzulpena@euskalgnu.org> | 
- | [kde-dev-utils]({{< ref "/f34/package/kde-dev-utils.md" >}}) | 28 | 67 | 41.8 | Euskara <eu@li.org> | 
- | [gstreamer1-plugins-base]({{< ref "/f34/package/gstreamer1-plugins-base.md" >}}) | 407 | 976 | 41.7 | Basque <translation-team-eu@lists.sourceforge.net> | 
- | [mingw-gstreamer1-plugins-base]({{< ref "/f34/package/mingw-gstreamer1-plugins-base.md" >}}) | 407 | 976 | 41.7 | Basque <translation-team-eu@lists.sourceforge.net> | 
- | [kf5-mailimporter]({{< ref "/f34/package/kf5-mailimporter.md" >}}) | 581 | 1408 | 41.3 | Basque <kde-i18n-doc@kde.org> | 
- | [rhythmbox-alternative-toolbar]({{< ref "/f34/package/rhythmbox-alternative-toolbar.md" >}}) | 120 | 294 | 40.8 | Basque <eu@li.org> | 
- | [webkit2gtk3]({{< ref "/f34/package/webkit2gtk3.md" >}}) | 1066 | 2623 | 40.6 | Basque <itzulpena@euskalgnu.org> | 
- | [menulibre]({{< ref "/f34/package/menulibre.md" >}}) | 354 | 873 | 40.5 | Basque <eu@li.org> | 
- | [sugar-stopwatch]({{< ref "/f34/package/sugar-stopwatch.md" >}}) | 2 | 5 | 40.0 | LANGUAGE <LL@li.org> | 
- | [freedink]({{< ref "/f34/package/freedink.md" >}}) | 105 | 263 | 39.9 | Basque <translation-team-eu@lists.sourceforge.net> | 
- | [gettext]({{< ref "/f34/package/gettext.md" >}}) | 2871 | 7214 | 39.8 | Basque <translation-team-eu@lists.sourceforge.net> | 
- | [mingw-gettext]({{< ref "/f34/package/mingw-gettext.md" >}}) | 2871 | 7214 | 39.8 | Basque <translation-team-eu@lists.sourceforge.net> | 
- | [digikam]({{< ref "/f34/package/digikam.md" >}}) | 21856 | 54920 | 39.8 | Basque <kde-i18n-eu@kde.org> | 
- | [openconnect]({{< ref "/f34/package/openconnect.md" >}}) | 2676 | 6727 | 39.8 | Basque <librezale@librezale.org> | 
- | [kid3]({{< ref "/f34/package/kid3.md" >}}) | 1265 | 3181 | 39.8 | Basque <kde-i18n-eu@kde.org> | 
- | [terminator]({{< ref "/f34/package/terminator.md" >}}) | 575 | 1450 | 39.7 | Basque (https://www.transifex.com/terminator/teams/109338/eu/) | 
- | [eom]({{< ref "/f34/package/eom.md" >}}) | 1960 | 4961 | 39.5 | Basque (https://www.transifex.com/mate/teams/13566/eu/) | 
- | [mate-calc]({{< ref "/f34/package/mate-calc.md" >}}) | 1288 | 3323 | 38.8 | Basque (https://www.transifex.com/mate/teams/13566/eu/) | 
- | [pluma]({{< ref "/f34/package/pluma.md" >}}) | 5064 | 13113 | 38.6 | Basque (https://www.transifex.com/mate/teams/13566/eu/) | 
- | [mate-applets]({{< ref "/f34/package/mate-applets.md" >}}) | 5978 | 15920 | 37.6 | Basque (https://www.transifex.com/mate/teams/13566/eu/) | 
- | [mate-system-monitor]({{< ref "/f34/package/mate-system-monitor.md" >}}) | 1812 | 4847 | 37.4 | Basque (https://www.transifex.com/mate/teams/13566/eu/) | 
- | [simple-ccsm]({{< ref "/f34/package/simple-ccsm.md" >}}) | 60 | 162 | 37.0 | Euskara <eu@li.org> | 
- | [bottles]({{< ref "/f34/package/bottles.md" >}}) | 772 | 2086 | 37.0 | Basque <https://hosted.weblate.org/projects/bottles/bottles/eu/> | 
- | [hitori]({{< ref "/f34/package/hitori.md" >}}) | 340 | 929 | 36.6 | Basque <librezale@librezale.eus> | 
- | [libgphoto2]({{< ref "/f34/package/libgphoto2.md" >}}) | 4505 | 12399 | 36.3 | <itzulpena@euskalgnu.org> | 
- | [php-horde-Horde-Imap-Client]({{< ref "/f34/package/php-horde-Horde-Imap-Client.md" >}}) | 95 | 263 | 36.1 | Euskal Herriko Unibertsitatea <webmaster@ehu.es> | 
- | [mariadb]({{< ref "/f34/package/mariadb.md" >}}) | 52 | 144 | 36.1 | Euskara <debian-l10n-eu@lists.debian.org> | 
- | [mate-power-manager]({{< ref "/f34/package/mate-power-manager.md" >}}) | 1837 | 5119 | 35.9 | Basque (https://www.transifex.com/mate/teams/13566/eu/) | 
- | [kalarm]({{< ref "/f34/package/kalarm.md" >}}) | 2899 | 8080 | 35.9 | Basque <kde-i18n-eu@kde.org> | 
- | [kompare]({{< ref "/f34/package/kompare.md" >}}) | 511 | 1430 | 35.7 | Basque <itzulpena@euskalgnu.org> | 
- | [nano]({{< ref "/f34/package/nano.md" >}}) | 1222 | 3449 | 35.4 | Basque <translation-team-eu@lists.sourceforge.net> | 
- | [elementary-calendar]({{< ref "/f34/package/elementary-calendar.md" >}}) | 302 | 861 | 35.1 | Basque <eu@li.org> | 
- | [grub-customizer]({{< ref "/f34/package/grub-customizer.md" >}}) | 443 | 1295 | 34.2 | Basque <eu@li.org> | 
- | [mate-control-center]({{< ref "/f34/package/mate-control-center.md" >}}) | 2817 | 8248 | 34.2 | Basque (https://www.transifex.com/mate/teams/13566/eu/) | 
- | [NetworkManager-l2tp]({{< ref "/f34/package/NetworkManager-l2tp.md" >}}) | 421 | 1235 | 34.1 | Basque <librezale@librezale.org> | 
- | [step]({{< ref "/f34/package/step.md" >}}) | 1288 | 3817 | 33.7 | Basque <kde-i18n-eu@kde.org> | 
- | [gnome-boxes]({{< ref "/f34/package/gnome-boxes.md" >}}) | 1764 | 5265 | 33.5 | Basque <librezale@librezale.eus> | 
- | [redshift]({{< ref "/f34/package/redshift.md" >}}) | 335 | 1028 | 32.6 | Basque <eu@li.org> | 
- | [dnfdragora]({{< ref "/f34/package/dnfdragora.md" >}}) | 576 | 1771 | 32.5 | Basque (https://www.transifex.com/MageiaLinux/teams/9361/eu/) | 
- | [avogadro2]({{< ref "/f34/package/avogadro2.md" >}}) | 149 | 464 | 32.1 | Basque <eu@li.org> | 
- | [lightdm-gtk]({{< ref "/f34/package/lightdm-gtk.md" >}}) | 28 | 89 | 31.5 | Basque <eu@li.org> | 
- | [kjumpingcube]({{< ref "/f34/package/kjumpingcube.md" >}}) | 129 | 412 | 31.3 | Basque <itzulpena@euskalgnu.org> | 
- | [renameutils]({{< ref "/f34/package/renameutils.md" >}}) | 82 | 265 | 30.9 | Basque <translation-team-eu@lists.sourceforge.net> | 
- | [wireshark]({{< ref "/f34/package/wireshark.md" >}}) | 79 | 258 | 30.6 | Basque (https://www.transifex.com/wireshark/teams/36457/eu/) | 
- | [hexchat]({{< ref "/f34/package/hexchat.md" >}}) | 1802 | 5971 | 30.2 | Basque (http://www.transifex.com/hexchat/hexchat/language/eu/) | 
- | [gnubik]({{< ref "/f34/package/gnubik.md" >}}) | 84 | 279 | 30.1 | Euskara <3arrano@3arrano.com> | 
- | [scummvm]({{< ref "/f34/package/scummvm.md" >}}) | 2649 | 9021 | 29.4 | Basque <https://translations.scummvm.org/projects/scummvm/scummvm/eu/> | 
- | [geeqie]({{< ref "/f34/package/geeqie.md" >}}) | 1238 | 4348 | 28.5 | librezale <librezale@librezale.org> | 
- | [libpwquality]({{< ref "/f34/package/libpwquality.md" >}}) | 98 | 345 | 28.4 | Basque (http://www.transifex.com/projects/p/libpwquality/language/eu/) | 
- | [passwd]({{< ref "/f34/package/passwd.md" >}}) | 88 | 336 | 26.2 | Basque (http://www.transifex.com/projects/p/fedora/language/eu/) | 
- | [calamares]({{< ref "/f34/package/calamares.md" >}}) | 124 | 490 | 25.3 | Basque (https://www.transifex.com/calamares/teams/20061/eu/) | 
- | [kajongg]({{< ref "/f34/package/kajongg.md" >}}) | 613 | 2444 | 25.1 | Basque <kde-i18n-eu@kde.org> | 
- | [gstreamer1-plugins-bad-free]({{< ref "/f34/package/gstreamer1-plugins-bad-free.md" >}}) | 49 | 197 | 24.9 | Basque <translation-team-eu@lists.sourceforge.net> | 
- | [mingw-gstreamer1-plugins-bad-free]({{< ref "/f34/package/mingw-gstreamer1-plugins-bad-free.md" >}}) | 49 | 197 | 24.9 | Basque <translation-team-eu@lists.sourceforge.net> | 
- | [engrampa]({{< ref "/f34/package/engrampa.md" >}}) | 1927 | 7838 | 24.6 | Basque (https://www.transifex.com/mate/teams/13566/eu/) | 
- | [onboard]({{< ref "/f34/package/onboard.md" >}}) | 546 | 2318 | 23.6 | Basque <eu@li.org> | 
- | [sudo]({{< ref "/f34/package/sudo.md" >}}) | 707 | 3005 | 23.5 | Basque <translation-team-eu@lists.sourceforge.net> | 
- | [tilix]({{< ref "/f34/package/tilix.md" >}}) | 569 | 2429 | 23.4 | Basque <https://hosted.weblate.org/projects/tilix/translations/eu/> | 
- | [dnf]({{< ref "/f34/package/dnf.md" >}}) | 1026 | 4621 | 22.2 | Basque (http://www.transifex.com/projects/p/dnf/language/eu/) | 
- | [stellarium]({{< ref "/f34/package/stellarium.md" >}}) | 31009 | 145097 | 21.4 | Basque (https://www.transifex.com/stellarium/teams/80998/eu/) | 
- | [kf5-libkleo]({{< ref "/f34/package/kf5-libkleo.md" >}}) | 279 | 1335 | 20.9 | Basque <kdeuskaraz@euskalgnu.org> | 
- | [marble]({{< ref "/f34/package/marble.md" >}}) | 2167 | 10568 | 20.5 | Basque <kde-i18n-eu@kde.org> | 
- | [psad]({{< ref "/f34/package/psad.md" >}}) | 101 | 493 | 20.5 |  | 
- | [korganizer]({{< ref "/f34/package/korganizer.md" >}}) | 1415 | 6990 | 20.2 | Basque <itzulpena@euskalgnu.org> | 
- | [frogr]({{< ref "/f34/package/frogr.md" >}}) | 140 | 693 | 20.2 | Basque <librezale@librezale.eus> | 
- | [kf5-messagelib]({{< ref "/f34/package/kf5-messagelib.md" >}}) | 732 | 3639 | 20.1 | Basque <itzulpena@euskalgnu.org> | 
- | [udisks2]({{< ref "/f34/package/udisks2.md" >}}) | 439 | 2187 | 20.1 | Basque | 
- | [quodlibet]({{< ref "/f34/package/quodlibet.md" >}}) | 1539 | 7686 | 20.0 | Basque <librezale@librezale.es> | 
- | [whois]({{< ref "/f34/package/whois.md" >}}) | 101 | 506 | 20.0 |  | 
- | [ravada]({{< ref "/f34/package/ravada.md" >}}) | 214 | 1075 | 19.9 | Basque <https://hosted.weblate.org/projects/ravada/translation/eu/> | 
- | [calibre]({{< ref "/f34/package/calibre.md" >}}) | 31935 | 161062 | 19.8 | Basque (http://www.transifex.com/calibre/calibre/language/eu/) | 
- | [kflickr]({{< ref "/f34/package/kflickr.md" >}}) | 65 | 332 | 19.6 | Basque <eu@li.org> | 
- | [xfce4-weather-plugin]({{< ref "/f34/package/xfce4-weather-plugin.md" >}}) | 716 | 3676 | 19.5 | Basque (http://www.transifex.com/xfce/xfce-panel-plugins/language/eu/) | 
- | [blueman]({{< ref "/f34/package/blueman.md" >}}) | 337 | 1857 | 18.1 | Basque (http://www.transifex.com/mate/MATE/language/eu/) | 
- | [elementary-files]({{< ref "/f34/package/elementary-files.md" >}}) | 613 | 3513 | 17.4 | Basque <eu@li.org> | 
- | [avogadro2-libs]({{< ref "/f34/package/avogadro2-libs.md" >}}) | 689 | 3976 | 17.3 | Basque <eu@li.org> | 
- | [gammastep]({{< ref "/f34/package/gammastep.md" >}}) | 160 | 945 | 16.9 | Basque <eu@li.org> | 
- | [elementary-calculator]({{< ref "/f34/package/elementary-calculator.md" >}}) | 39 | 235 | 16.6 | LANGUAGE <LL@li.org> | 
- | [mate-sensors-applet]({{< ref "/f34/package/mate-sensors-applet.md" >}}) | 349 | 2160 | 16.2 | Basque (https://www.transifex.com/mate/teams/13566/eu/) | 
- | [volume_key]({{< ref "/f34/package/volume_key.md" >}}) | 117 | 763 | 15.3 | Basque (http://www.transifex.com/projects/p/fedora/language/eu/) | 
- | [iso-codes]({{< ref "/f34/package/iso-codes.md" >}}) | 3545 | 23234 | 15.3 | Basque <https://hosted.weblate.org/projects/iso-codes/iso-15924/eu/> | 
- | [elementary-videos]({{< ref "/f34/package/elementary-videos.md" >}}) | 59 | 391 | 15.1 | Basque <eu@li.org> | 
- | [php-horde-Horde-Crypt]({{< ref "/f34/package/php-horde-Horde-Crypt.md" >}}) | 51 | 353 | 14.4 | i18n@lists.horde.org | 
- | [bison]({{< ref "/f34/package/bison.md" >}}) | 24 | 170 | 14.1 | Basque <translation-team-eu@lists.sourceforge.net> | 
- | [NetworkManager-ssh]({{< ref "/f34/package/NetworkManager-ssh.md" >}}) | 39 | 286 | 13.6 | Basque <itzulpena@euskalgnu.org> | 
- | [pluma-plugins]({{< ref "/f34/package/pluma-plugins.md" >}}) | 188 | 1398 | 13.4 | Basque (https://www.transifex.com/mate/teams/13566/eu/) | 
- | [NetworkManager-libreswan]({{< ref "/f34/package/NetworkManager-libreswan.md" >}}) | 62 | 465 | 13.3 | Basque <librezale@librezale.org> | 
- | [NetworkManager-fortisslvpn]({{< ref "/f34/package/NetworkManager-fortisslvpn.md" >}}) | 43 | 323 | 13.3 | Basque <librezale@librezale.org> | 
- | [gnucash]({{< ref "/f34/package/gnucash.md" >}}) | 4790 | 36666 | 13.1 | Basque <translation-team-eu@lists.sourceforge.net> | 
- | [kf5-libksieve]({{< ref "/f34/package/kf5-libksieve.md" >}}) | 438 | 3368 | 13.0 | Euskara <kdeuskaraz@euskalgnu.org> | 
- | [gdm]({{< ref "/f34/package/gdm.md" >}}) | 1309 | 10097 | 13.0 | Basque <librezale@librezale.eus> | 
- | [lollypop]({{< ref "/f34/package/lollypop.md" >}}) | 182 | 1437 | 12.7 | Basque <https://hosted.weblate.org/projects/gnumdk/lollypop/eu/> | 
- | [cantor]({{< ref "/f34/package/cantor.md" >}}) | 453 | 3640 | 12.4 | Basque <itzulpena@euskalgnu.org> | 
- | [python-meh]({{< ref "/f34/package/python-meh.md" >}}) | 13 | 109 | 11.9 | Basque (http://www.transifex.com/projects/p/python-meh/language/eu/) | 
- | [gajim]({{< ref "/f34/package/gajim.md" >}}) | 1127 | 9627 | 11.7 | Basque <urtzi@altza.net> | 
- | [gimagereader]({{< ref "/f34/package/gimagereader.md" >}}) | 182 | 1561 | 11.7 | Basque <https://hosted.weblate.org/projects/gimagereader/translations/eu/> | 
- | [compiz-plugins-experimental]({{< ref "/f34/package/compiz-plugins-experimental.md" >}}) | 517 | 4473 | 11.6 | Euskara <eu@li.org> | 
- | [entangle]({{< ref "/f34/package/entangle.md" >}}) | 109 | 953 | 11.4 | Basque (http://www.transifex.com/projects/p/entangle/language/eu/) | 
- | [taxi]({{< ref "/f34/package/taxi.md" >}}) | 7 | 62 | 11.3 | LANGUAGE <LL@li.org> | 
- | [php-horde-Horde-Auth]({{< ref "/f34/package/php-horde-Horde-Auth.md" >}}) | 21 | 187 | 11.2 | i18n@lists.horde.org | 
- | [minetest]({{< ref "/f34/package/minetest.md" >}}) | 1069 | 9649 | 11.1 | Basque <https://hosted.weblate.org/projects/minetest/minetest/eu/> | 
- | [eiskaltdcpp]({{< ref "/f34/package/eiskaltdcpp.md" >}}) | 399 | 3626 | 11.0 | Basque (https://www.transifex.com/tehnick/teams/11818/eu/) | 
- | [wget]({{< ref "/f34/package/wget.md" >}}) | 445 | 4071 | 10.9 | Basque <translation-team-eu@lists.sourceforge.net> | 
- | [anaconda]({{< ref "/f34/package/anaconda.md" >}}) | 859 | 8018 | 10.7 | Basque <https://translate.fedoraproject.org/projects/anaconda/f34/eu/> | 
- | [elementary-code]({{< ref "/f34/package/elementary-code.md" >}}) | 172 | 1608 | 10.7 | Basque <eu@li.org> | 
- | [kdepim-addons]({{< ref "/f34/package/kdepim-addons.md" >}}) | 208 | 1962 | 10.6 | <eu@li.org> | 
- | [php-horde-Horde-Form]({{< ref "/f34/package/php-horde-Horde-Form.md" >}}) | 56 | 560 | 10.0 | Euskal Herriko Unibertsitatea <webmaster@ehu.es> | 
- | [pmount]({{< ref "/f34/package/pmount.md" >}}) | 64 | 723 | 8.9 | Basque <eu@li.org> | 
- | [godot]({{< ref "/f34/package/godot.md" >}}) | 1169 | 13216 | 8.8 | Basque <https://hosted.weblate.org/projects/godot-engine/godot/eu/> | 
- | [apostrophe]({{< ref "/f34/package/apostrophe.md" >}}) | 39 | 445 | 8.8 |  | 
- | [kpmcore]({{< ref "/f34/package/kpmcore.md" >}}) | 279 | 3237 | 8.6 | Basque <kde-i18n-eu@kde.org> | 
- | [hello]({{< ref "/f34/package/hello.md" >}}) | 16 | 186 | 8.6 | Basque <linux-eu@chanae.alphanet.ch> | 
- | [php-horde-Horde-Nls]({{< ref "/f34/package/php-horde-Horde-Nls.md" >}}) | 60 | 702 | 8.5 | Euskal Herriko Unibertsitatea <webmaster@ehu.es> | 
- | [nicotine+]({{< ref "/f34/package/nicotine+.md" >}}) | 457 | 5405 | 8.5 | Basque <https://hosted.weblate.org/projects/nicotine-plus/nicotine-plus/eu/> | 
- | [switchboard-plug-pantheon-shell]({{< ref "/f34/package/switchboard-plug-pantheon-shell.md" >}}) | 27 | 336 | 8.0 | Basque <https://l10n.elementary.io/projects/switchboard/switchboard-plug-pantheon-shell/eu/> | 
- | [sed]({{< ref "/f34/package/sed.md" >}}) | 66 | 830 | 8.0 | Basque <translation-team-eu@lists.sourceforge.net> | 
- | [elementary-terminal]({{< ref "/f34/package/elementary-terminal.md" >}}) | 49 | 643 | 7.6 | Basque <eu@li.org> | 
- | [abrt]({{< ref "/f34/package/abrt.md" >}}) | 273 | 3676 | 7.4 | Basque (http://www.transifex.com/projects/p/fedora-abrt/language/eu/) | 
- | [switchboard]({{< ref "/f34/package/switchboard.md" >}}) | 9 | 124 | 7.3 | Basque <eu@li.org> | 
- | [python-sphinx]({{< ref "/f34/package/python-sphinx.md" >}}) | 321 | 4581 | 7.0 | Basque (http://www.transifex.com/sphinx-doc/sphinx-1/language/eu/) | 
- | [mingw-colord]({{< ref "/f34/package/mingw-colord.md" >}}) | 129 | 1885 | 6.8 | Basque (http://www.transifex.com/projects/p/colord/language/eu/) | 
- | [php-horde-Horde-Rpc]({{< ref "/f34/package/php-horde-Horde-Rpc.md" >}}) | 4 | 59 | 6.8 | Euskal Herriko Unibertsitatea <webmaster@ehu.es> | 
- | [php-horde-Horde-Argv]({{< ref "/f34/package/php-horde-Horde-Argv.md" >}}) | 4 | 60 | 6.7 | i18n@lists.horde.org | 
- | [cairo-dock-plug-ins]({{< ref "/f34/package/cairo-dock-plug-ins.md" >}}) | 674 | 10203 | 6.6 | Basque <eu@li.org> | 
- | [isomaster]({{< ref "/f34/package/isomaster.md" >}}) | 44 | 674 | 6.5 | http://littlesvr.ca/ostd/ | 
- | [colord]({{< ref "/f34/package/colord.md" >}}) | 129 | 1990 | 6.5 | Basque (http://www.transifex.com/freedesktop/colord/language/eu/) | 
- | [coreutils]({{< ref "/f34/package/coreutils.md" >}}) | 1329 | 21194 | 6.3 | Basque <translation-team-eu@lists.sourceforge.net> | 
- | [granite]({{< ref "/f34/package/granite.md" >}}) | 31 | 498 | 6.2 | Basque <eu@li.org> | 
- | [mingw-wxWidgets]({{< ref "/f34/package/mingw-wxWidgets.md" >}}) | 371 | 6391 | 5.8 | 3ARRANO Euskalgintza <3arrano@euskalerria.org> | 
- | [input-pad]({{< ref "/f34/package/input-pad.md" >}}) | 104 | 1839 | 5.7 | Basque (http://www.transifex.com/projects/p/fedora/language/eu/) | 
- | [gimp-lqr-plugin]({{< ref "/f34/package/gimp-lqr-plugin.md" >}}) | 52 | 928 | 5.6 | LANGUAGE <LL@li.org> | 
- | [firewalld]({{< ref "/f34/package/firewalld.md" >}}) | 116 | 2217 | 5.2 | Basque (http://www.transifex.com/projects/p/firewalld/language/eu/) | 
- | [setroubleshoot]({{< ref "/f34/package/setroubleshoot.md" >}}) | 33 | 635 | 5.2 | Basque (http://www.transifex.com/projects/p/fedora/language/eu/) | 
- | [elementary-mail]({{< ref "/f34/package/elementary-mail.md" >}}) | 33 | 658 | 5.0 | Basque <librezale@librezale.org> | 
- | [remmina]({{< ref "/f34/package/remmina.md" >}}) | 256 | 5134 | 5.0 | Basque <https://hosted.weblate.org/projects/remmina/remmina/eu/> | 
- | [php-horde-Horde-Kolab-Storage]({{< ref "/f34/package/php-horde-Horde-Kolab-Storage.md" >}}) | 15 | 347 | 4.3 | Euskal Herriko Unibertsitatea <webmaster@ehu.es> | 
- | [php-horde-Horde-Image]({{< ref "/f34/package/php-horde-Horde-Image.md" >}}) | 25 | 582 | 4.3 | Euskal Herriko Unibertsitatea <webmaster@ehu.es> | 
- | [ibus]({{< ref "/f34/package/ibus.md" >}}) | 96 | 2292 | 4.2 | Basque <trans-eu@lists.fedoraproject.org> | 
- | [wdiff]({{< ref "/f34/package/wdiff.md" >}}) | 5 | 120 | 4.2 | Basque <translation-team-eu@lists.sourceforge.net> | 
- | [libreport]({{< ref "/f34/package/libreport.md" >}}) | 181 | 4928 | 3.7 | Basque (http://www.transifex.com/projects/p/libreport/language/eu/) | 
- | [elementary-screenshot-tool]({{< ref "/f34/package/elementary-screenshot-tool.md" >}}) | 9 | 248 | 3.6 | Basque <eu@li.org> | 
- | [grep]({{< ref "/f34/package/grep.md" >}}) | 31 | 862 | 3.6 | Basque <translation-team-eu@lists.sourceforge.net> | 
- | [LabPlot]({{< ref "/f34/package/LabPlot.md" >}}) | 385 | 10997 | 3.5 | Basque <kde-i18n-eu@kde.org> | 
- | [pam]({{< ref "/f34/package/pam.md" >}}) | 18 | 525 | 3.4 | Basque (http://www.transifex.com/projects/p/fedora/language/eu/) | 
- | [sawfish]({{< ref "/f34/package/sawfish.md" >}}) | 211 | 6443 | 3.3 | Basque <itzulpena@euskalgnu.org> | 
- | [mate-user-admin]({{< ref "/f34/package/mate-user-admin.md" >}}) | 20 | 628 | 3.2 | Basque (https://www.transifex.com/mate/teams/13566/eu/) | 
- | [man-db]({{< ref "/f34/package/man-db.md" >}}) | 6 | 206 | 2.9 | Basque <translation-team-eu@lists.sourceforge.net> | 
- | [kcoloredit]({{< ref "/f34/package/kcoloredit.md" >}}) | 8 | 278 | 2.9 | Basque <kdeuskaraz@euskalgnu.org> | 
- | [light-locker]({{< ref "/f34/package/light-locker.md" >}}) | 7 | 260 | 2.7 | Basque (http://www.transifex.com/the_cavalry/light-locker/language/eu/) | 
- | [caja-actions]({{< ref "/f34/package/caja-actions.md" >}}) | 475 | 18815 | 2.5 | Basque (https://www.transifex.com/mate/teams/13566/eu/) | 
- | [kleopatra]({{< ref "/f34/package/kleopatra.md" >}}) | 231 | 9239 | 2.5 | <eu@li.org> | 
- | [kf5-kalarmcal]({{< ref "/f34/package/kf5-kalarmcal.md" >}}) | 1 | 40 | 2.5 | Basque <kde-i18n-doc@kde.org> | 
- | [exaile]({{< ref "/f34/package/exaile.md" >}}) | 100 | 4067 | 2.5 | Basque <eu@li.org> | 
- | [manafirewall]({{< ref "/f34/package/manafirewall.md" >}}) | 26 | 1097 | 2.4 | Basque (https://www.transifex.com/MageiaLinux/teams/9361/eu/) | 
- | [dnf-plugins-extras]({{< ref "/f34/package/dnf-plugins-extras.md" >}}) | 9 | 387 | 2.3 | Basque | 
- | [hivex]({{< ref "/f34/package/hivex.md" >}}) | 6 | 270 | 2.2 | Basque (http://www.transifex.com/projects/p/hivex/language/eu/) | 
- | [php-horde-Horde-Service-Weather]({{< ref "/f34/package/php-horde-Horde-Service-Weather.md" >}}) | 11 | 527 | 2.1 | Euskal Herriko Unibertsitatea <webmaster@ehu.es> | 
- | [wesnoth]({{< ref "/f34/package/wesnoth.md" >}}) | 5639 | 299283 | 1.9 | Basque <ziberpunk@ziberghetto.dhis.org> | 
- | [deluge]({{< ref "/f34/package/deluge.md" >}}) | 48 | 2616 | 1.8 | Basque <eu@li.org> | 
- | [widelands]({{< ref "/f34/package/widelands.md" >}}) | 1114 | 62420 | 1.8 | Basque (http://www.transifex.com/widelands/widelands/language/eu/) | 
- | [synfig]({{< ref "/f34/package/synfig.md" >}}) | 155 | 9490 | 1.6 | Basque (Spain) (http://www.transifex.com/morevnaproject/synfig/language/eu_ES/) | 
- | [mypaint]({{< ref "/f34/package/mypaint.md" >}}) | 102 | 6381 | 1.6 | Basque <https://hosted.weblate.org/projects/mypaint/mypaint/eu/> | 
- | [NetworkManager]({{< ref "/f34/package/NetworkManager.md" >}}) | 416 | 26988 | 1.5 | Basque <itzulpena@euskalgnu.org> | 
- | [wingpanel-applications-menu]({{< ref "/f34/package/wingpanel-applications-menu.md" >}}) | 6 | 415 | 1.4 | Basque <eu@li.org> | 
- | [python-blivet]({{< ref "/f34/package/python-blivet.md" >}}) | 8 | 558 | 1.4 | Basque (http://www.transifex.com/projects/p/blivet/language/eu/) | 
- | [switchboard-plug-mouse-touchpad]({{< ref "/f34/package/switchboard-plug-mouse-touchpad.md" >}}) | 4 | 282 | 1.4 | Basque <https://l10n.elementary.io/projects/switchboard/switchboard-plug-mouse-touchpad/eu/> | 
- | [pychess]({{< ref "/f34/package/pychess.md" >}}) | 212 | 15184 | 1.4 | Basque (Spain) (http://www.transifex.com/gbtami/pychess/language/eu_ES/) | 
- | [spacefm]({{< ref "/f34/package/spacefm.md" >}}) | 121 | 8722 | 1.4 | Basque (http://www.transifex.com/projects/p/spacefm/language/eu/) | 
- | [switchboard-plug-about]({{< ref "/f34/package/switchboard-plug-about.md" >}}) | 5 | 383 | 1.3 | Basque <https://l10n.elementary.io/projects/switchboard/switchboard-plug-about/eu/> | 
- | [switchboard-plug-display]({{< ref "/f34/package/switchboard-plug-display.md" >}}) | 2 | 182 | 1.1 | Basque <https://l10n.elementary.io/projects/switchboard/switchboard-plug-display/eu/> | 
- | [chkconfig]({{< ref "/f34/package/chkconfig.md" >}}) | 6 | 573 | 1.0 | Basque (http://www.transifex.com/projects/p/chkconfig/language/eu/) | 
- | [switchboard-plug-bluetooth]({{< ref "/f34/package/switchboard-plug-bluetooth.md" >}}) | 2 | 206 | 1.0 | Basque <https://l10n.elementary.io/projects/switchboard/switchboard-plug-bluetooth/eu/> | 
- | [switchboard-plug-keyboard]({{< ref "/f34/package/switchboard-plug-keyboard.md" >}}) | 6 | 636 | 0.9 | Basque <https://l10n.elementary.io/projects/switchboard/switchboard-plug-keyboard/eu/> | 
- | [switchboard-plug-onlineaccounts]({{< ref "/f34/package/switchboard-plug-onlineaccounts.md" >}}) | 3 | 322 | 0.9 | Basque <eu@li.org> | 
- | [policycoreutils]({{< ref "/f34/package/policycoreutils.md" >}}) | 107 | 12171 | 0.9 | Basque | 
- | [android-tools]({{< ref "/f34/package/android-tools.md" >}}) | 59 | 7678 | 0.8 | Basque (http://www.transifex.com/projects/p/fedora/language/eu/) | 
- | [certmonger]({{< ref "/f34/package/certmonger.md" >}}) | 18 | 2831 | 0.6 | Basque (http://www.transifex.com/projects/p/certmonger/language/eu/) | 
- | [freeipa]({{< ref "/f34/package/freeipa.md" >}}) | 367 | 58024 | 0.6 | Basque | 
- | [malcontent]({{< ref "/f34/package/malcontent.md" >}}) | 3 | 584 | 0.5 | none | 
- | [nutty]({{< ref "/f34/package/nutty.md" >}}) | 3 | 608 | 0.5 | Basque <https://hosted.weblate.org/projects/nutty/translations/eu/> | 
- | [sssd]({{< ref "/f34/package/sssd.md" >}}) | 210 | 44841 | 0.5 | Basque (http://www.transifex.com/projects/p/sssd/language/eu/) | 
- | [setroubleshoot-plugins]({{< ref "/f34/package/setroubleshoot-plugins.md" >}}) | 23 | 6246 | 0.4 | Basque (http://www.transifex.com/projects/p/fedora/language/eu/) | 
- | [elementary-sideload]({{< ref "/f34/package/elementary-sideload.md" >}}) | 1 | 319 | 0.3 | Basque <https://l10n.elementary.io/projects/desktop/sideload/eu/> | 
- | [dnf-plugins-core]({{< ref "/f34/package/dnf-plugins-core.md" >}}) | 5 | 1655 | 0.3 | Basque | 
- | [gala]({{< ref "/f34/package/gala.md" >}}) | 1 | 358 | 0.3 | Basque <https://l10n.elementary.io/projects/desktop/gala/eu/> | 
- | [switchboard-plug-networking]({{< ref "/f34/package/switchboard-plug-networking.md" >}}) | 1 | 522 | 0.2 | Basque <https://l10n.elementary.io/projects/switchboard/switchboard-plug-networking/eu/> | 
- | [initscripts]({{< ref "/f34/package/initscripts.md" >}}) | 2 | 1118 | 0.2 | Basque (http://www.transifex.com/projects/p/fedora/language/eu/) | 
- | [appstream]({{< ref "/f34/package/appstream.md" >}}) | 8 | 4504 | 0.2 | Basque <https://hosted.weblate.org/projects/appstream/translations/eu/> | 
- | [pykickstart]({{< ref "/f34/package/pykickstart.md" >}}) | 3 | 1697 | 0.2 | Basque (http://www.transifex.com/projects/p/pykickstart/language/eu/) | 
- | [pogo]({{< ref "/f34/package/pogo.md" >}}) | 1 | 576 | 0.2 | Basque <eu@li.org> | 
- | [libmypaint]({{< ref "/f34/package/libmypaint.md" >}}) | 3 | 2303 | 0.1 | Basque <https://hosted.weblate.org/projects/mypaint/libmypaint/eu/> | 
- | [libmypaint2]({{< ref "/f34/package/libmypaint2.md" >}}) | 3 | 2311 | 0.1 | Basque <https://hosted.weblate.org/projects/mypaint/libmypaint/eu/> | 
- | [guestfs-tools]({{< ref "/f34/package/guestfs-tools.md" >}}) | 191 | 197988 | 0.1 | Basque (http://www.transifex.com/projects/p/libguestfs/language/eu/) | 
- | [libguestfs]({{< ref "/f34/package/libguestfs.md" >}}) | 191 | 197988 | 0.1 | Basque (http://www.transifex.com/projects/p/libguestfs/language/eu/) | 
- | [sugar]({{< ref "/f34/package/sugar.md" >}}) | 1 | 2305 | 0.0 | LANGUAGE <LL@li.org> | 
- | [bookworm]({{< ref "/f34/package/bookworm.md" >}}) | 0 | 795 | 0.0 |  | 
- | [coin]({{< ref "/f34/package/coin.md" >}}) | 0 | 252 | 0.0 | none | 
- | [dippi]({{< ref "/f34/package/dippi.md" >}}) | 0 | 397 | 0.0 | none | 
- | [elementary-camera]({{< ref "/f34/package/elementary-camera.md" >}}) | 0 | 159 | 0.0 | Basque <eu@li.org> | 
- | [elementary-capnet-assist]({{< ref "/f34/package/elementary-capnet-assist.md" >}}) | 0 | 81 | 0.0 | none | 
- | [elementary-greeter]({{< ref "/f34/package/elementary-greeter.md" >}}) | 0 | 200 | 0.0 | Basque <eu@li.org> | 
- | [elementary-icon-theme]({{< ref "/f34/package/elementary-icon-theme.md" >}}) | 0 | 263 | 0.0 | none | 
- | [elementary-notifications]({{< ref "/f34/package/elementary-notifications.md" >}}) | 0 | 36 | 0.0 | none | 
- | [elementary-settings-daemon]({{< ref "/f34/package/elementary-settings-daemon.md" >}}) | 0 | 26 | 0.0 | none | 
- | [elementary-shortcut-overlay]({{< ref "/f34/package/elementary-shortcut-overlay.md" >}}) | 0 | 130 | 0.0 | none | 
- | [elementary-tasks]({{< ref "/f34/package/elementary-tasks.md" >}}) | 0 | 364 | 0.0 | none | 
- | [elementary-theme]({{< ref "/f34/package/elementary-theme.md" >}}) | 0 | 63 | 0.0 | none | 
- | [feedreader]({{< ref "/f34/package/feedreader.md" >}}) | 0 | 1374 | 0.0 |  | 
- | [fonts-tweak-tool]({{< ref "/f34/package/fonts-tweak-tool.md" >}}) | 0 | 196 | 0.0 | Basque | 
- | [fprintd]({{< ref "/f34/package/fprintd.md" >}}) | 0 | 419 | 0.0 | Basque (http://www.transifex.com/freedesktop/fprintd/language/eu/) | 
- | [gnome-abrt]({{< ref "/f34/package/gnome-abrt.md" >}}) | 0 | 221 | 0.0 | none | 
- | [harvey]({{< ref "/f34/package/harvey.md" >}}) | 0 | 182 | 0.0 | none | 
- | [im-chooser]({{< ref "/f34/package/im-chooser.md" >}}) | 0 | 254 | 0.0 | LANGUAGE <LL@li.org> | 
- | [imsettings]({{< ref "/f34/package/imsettings.md" >}}) | 0 | 485 | 0.0 | LANGUAGE <LL@li.org> | 
- | [kreport]({{< ref "/f34/package/kreport.md" >}}) | 0 | 411 | 0.0 | Basque <kde-i18n-doc@kde.org> | 
- | [libdnf]({{< ref "/f34/package/libdnf.md" >}}) | 0 | 1441 | 0.0 | Basque | 
- | [libgxim]({{< ref "/f34/package/libgxim.md" >}}) | 0 | 124 | 0.0 | Basque | 
- | [libosinfo]({{< ref "/f34/package/libosinfo.md" >}}) | 0 | 815 | 0.0 | none | 
- | [lxshortcut]({{< ref "/f34/package/lxshortcut.md" >}}) | 0 | 43 | 0.0 | LANGUAGE <LL@li.org> | 
- | [mame]({{< ref "/f34/package/mame.md" >}}) | 0 | 3464 | 0.0 | MAME Language Team | 
- | [mingw-libosinfo]({{< ref "/f34/package/mingw-libosinfo.md" >}}) | 0 | 815 | 0.0 | none | 
- | [mingw-libvirt-glib]({{< ref "/f34/package/mingw-libvirt-glib.md" >}}) | 0 | 158 | 0.0 | Basque (http://www.transifex.com/projects/p/libvirt-glib/language/eu/) | 
- | [mingw-p11-kit]({{< ref "/f34/package/mingw-p11-kit.md" >}}) | 0 | 476 | 0.0 | Basque (http://www.transifex.com/freedesktop/p11-kit/language/eu/) | 
- | [olpc-switch-desktop]({{< ref "/f34/package/olpc-switch-desktop.md" >}}) | 0 | 158 | 0.0 | LANGUAGE <LL@li.org> | 
- | [optimizer]({{< ref "/f34/package/optimizer.md" >}}) | 0 | 282 | 0.0 | none | 
- | [p11-kit]({{< ref "/f34/package/p11-kit.md" >}}) | 0 | 476 | 0.0 | Basque (http://www.transifex.com/freedesktop/p11-kit/language/eu/) | 
- | [pantheon-agent-geoclue2]({{< ref "/f34/package/pantheon-agent-geoclue2.md" >}}) | 0 | 101 | 0.0 | LANGUAGE <LL@li.org> | 
- | [pantheon-agent-polkit]({{< ref "/f34/package/pantheon-agent-polkit.md" >}}) | 0 | 56 | 0.0 | LANGUAGE <LL@li.org> | 
- | [php-horde-Horde-Token]({{< ref "/f34/package/php-horde-Horde-Token.md" >}}) | 0 | 64 | 0.0 | Euskal Herriko Unibertsitatea <webmaster@ehu.es> | 
- | [php-phpmyadmin-sql-parser5]({{< ref "/f34/package/php-phpmyadmin-sql-parser5.md" >}}) | 0 | 268 | 0.0 | Basque <https://hosted.weblate.org/projects/phpmyadmin/master/eu/> | 
- | [plasma-mediacenter]({{< ref "/f34/package/plasma-mediacenter.md" >}}) | 0 | 83 | 0.0 | Basque <kde-i18n-doc@kde.org> | 
- | [pyhoca-gui]({{< ref "/f34/package/pyhoca-gui.md" >}}) | 0 | 1865 | 0.0 | none | 
- | [python-fedora]({{< ref "/f34/package/python-fedora.md" >}}) | 0 | 214 | 0.0 | Basque | 
- | [python-sphinxcontrib-applehelp]({{< ref "/f34/package/python-sphinxcontrib-applehelp.md" >}}) | 0 | 89 | 0.0 | Basque (https://www.transifex.com/sphinx-doc/teams/36659/eu/) | 
- | [python-sphinxcontrib-devhelp]({{< ref "/f34/package/python-sphinxcontrib-devhelp.md" >}}) | 0 | 18 | 0.0 | Basque (https://www.transifex.com/sphinx-doc/teams/36659/eu/) | 
- | [python-sphinxcontrib-htmlhelp]({{< ref "/f34/package/python-sphinxcontrib-htmlhelp.md" >}}) | 0 | 25 | 0.0 | Basque (https://www.transifex.com/sphinx-doc/teams/36659/eu/) | 
- | [python-sphinxcontrib-qthelp]({{< ref "/f34/package/python-sphinxcontrib-qthelp.md" >}}) | 0 | 33 | 0.0 | Basque (https://www.transifex.com/sphinx-doc/teams/36659/eu/) | 
- | [python-sphinxcontrib-serializinghtml]({{< ref "/f34/package/python-sphinxcontrib-serializinghtml.md" >}}) | 0 | 18 | 0.0 | Basque (https://www.transifex.com/sphinx-doc/teams/36659/eu/) | 
- | [realmd]({{< ref "/f34/package/realmd.md" >}}) | 0 | 789 | 0.0 | Basque (http://www.transifex.com/freedesktop/realmd/language/eu/) | 
- | [retrace-server]({{< ref "/f34/package/retrace-server.md" >}}) | 0 | 433 | 0.0 | none | 
- | [rpm-ostree]({{< ref "/f34/package/rpm-ostree.md" >}}) | 0 | 1441 | 0.0 | Basque | 
- | [snapper]({{< ref "/f34/package/snapper.md" >}}) | 0 | 1095 | 0.0 | Basque <i18n@suse.de> | 
- | [sos]({{< ref "/f34/package/sos.md" >}}) | 0 | 122 | 0.0 | none | 
- | [speedcrunch]({{< ref "/f34/package/speedcrunch.md" >}}) | 0 | 93 | 0.0 | Basque (http://www.transifex.com/heldercorreia/speedcrunch/language/eu/) | 
- | [sugar-terminal]({{< ref "/f34/package/sugar-terminal.md" >}}) | 0 | 121 | 0.0 | LANGUAGE <LL@li.org> | 
- | [switchboard-plug-a11y]({{< ref "/f34/package/switchboard-plug-a11y.md" >}}) | 0 | 180 | 0.0 | LANGUAGE <LL@li.org> | 
- | [switchboard-plug-applications]({{< ref "/f34/package/switchboard-plug-applications.md" >}}) | 0 | 227 | 0.0 | LANGUAGE <LL@li.org> | 
- | [switchboard-plug-notifications]({{< ref "/f34/package/switchboard-plug-notifications.md" >}}) | 0 | 142 | 0.0 | LANGUAGE <LL@li.org> | 
- | [switchboard-plug-printers]({{< ref "/f34/package/switchboard-plug-printers.md" >}}) | 0 | 362 | 0.0 | LANGUAGE <LL@li.org> | 
- | [switchboard-plug-sharing]({{< ref "/f34/package/switchboard-plug-sharing.md" >}}) | 0 | 141 | 0.0 | none | 
- | [switchboard-plug-sound]({{< ref "/f34/package/switchboard-plug-sound.md" >}}) | 0 | 193 | 0.0 | Basque <eu@li.org> | 
- | [switchdesk]({{< ref "/f34/package/switchdesk.md" >}}) | 0 | 122 | 0.0 | <en@li.org> | 
- | [wingpanel]({{< ref "/f34/package/wingpanel.md" >}}) | 0 | 19 | 0.0 | LANGUAGE <LL@li.org> | 
- | [wingpanel-indicator-bluetooth]({{< ref "/f34/package/wingpanel-indicator-bluetooth.md" >}}) | 0 | 78 | 0.0 | LANGUAGE <LL@li.org> | 
- | [wingpanel-indicator-datetime]({{< ref "/f34/package/wingpanel-indicator-datetime.md" >}}) | 0 | 177 | 0.0 | LANGUAGE <LL@li.org> | 
- | [wingpanel-indicator-keyboard]({{< ref "/f34/package/wingpanel-indicator-keyboard.md" >}}) | 0 | 53 | 0.0 | LANGUAGE <LL@li.org> | 
- | [wingpanel-indicator-network]({{< ref "/f34/package/wingpanel-indicator-network.md" >}}) | 0 | 131 | 0.0 | LANGUAGE <LL@li.org> | 
- | [wingpanel-indicator-nightlight]({{< ref "/f34/package/wingpanel-indicator-nightlight.md" >}}) | 0 | 45 | 0.0 |  | 
- | [wingpanel-indicator-notifications]({{< ref "/f34/package/wingpanel-indicator-notifications.md" >}}) | 0 | 101 | 0.0 | LANGUAGE <LL@li.org> | 
- | [wingpanel-indicator-power]({{< ref "/f34/package/wingpanel-indicator-power.md" >}}) | 0 | 191 | 0.0 | LANGUAGE <LL@li.org> | 
- | [wingpanel-indicator-session]({{< ref "/f34/package/wingpanel-indicator-session.md" >}}) | 0 | 108 | 0.0 | LANGUAGE <LL@li.org> | 
- | [wingpanel-indicator-sound]({{< ref "/f34/package/wingpanel-indicator-sound.md" >}}) | 0 | 96 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [0ad](/f34/package/0ad) | 300 | 300 | 100.0 | Basque (http://www.transifex.com/wildfire-games/0ad/language/eu/) | 
+ | [GConf2](/f34/package/GConf2) | 4088 | 4088 | 100.0 | American English <kde-i18n-doc@kde.org> | 
+ | [NetworkManager-pptp](/f34/package/NetworkManager-pptp) | 410 | 410 | 100.0 | Basque <librezale@librezale.org> | 
+ | [NetworkManager-sstp](/f34/package/NetworkManager-sstp) | 410 | 410 | 100.0 | Basque <librezale@librezale.org> | 
+ | [NetworkManager-vpnc](/f34/package/NetworkManager-vpnc) | 442 | 442 | 100.0 | Basque <librezale@librezale.org> | 
+ | [PackageKit](/f34/package/PackageKit) | 1282 | 1282 | 100.0 | Basque (http://www.transifex.com/freedesktop/packagekit/language/eu/) | 
+ | [Thunar](/f34/package/Thunar) | 4413 | 4413 | 100.0 | Basque (https://www.transifex.com/xfce/teams/16840/eu/) | 
+ | [abattis-cantarell-fonts](/f34/package/abattis-cantarell-fonts) | 27 | 27 | 100.0 | Basque <librezale@librezale.eus> | 
+ | [accerciser](/f34/package/accerciser) | 658 | 658 | 100.0 | Basque <itzulpena@euskalgnu.org> | 
+ | [accountsservice](/f34/package/accountsservice) | 59 | 59 | 100.0 | Basque (http://www.transifex.com/freedesktop/accountsservice/language/eu/) | 
+ | [aisleriot](/f34/package/aisleriot) | 20462 | 20462 | 100.0 | Basque <itzulpena@euskalgnu.org> | 
+ | [akonadi-calendar-tools](/f34/package/akonadi-calendar-tools) | 785 | 785 | 100.0 | Basque <kde-i18n-eu@kde.org> | 
+ | [akonadi-import-wizard](/f34/package/akonadi-import-wizard) | 394 | 394 | 100.0 | Basque <kde-i18n-eu@kde.org> | 
+ | [akregator](/f34/package/akregator) | 1807 | 1807 | 100.0 | Basque <kde-i18n-eu@kde.org> | 
+ | [alacarte](/f34/package/alacarte) | 42 | 42 | 100.0 | <eu@li.org> | 
+ | [alleyoop](/f34/package/alleyoop) | 351 | 351 | 100.0 | Basque <itzulpena@euskalgnu.org> | 
+ | [alligator](/f34/package/alligator) | 136 | 136 | 100.0 | Basque <kde-i18n-eu@kde.org> | 
+ | [amtk](/f34/package/amtk) | 11 | 11 | 100.0 | Basque <librezale@librezale.eus> | 
+ | [analitza](/f34/package/analitza) | 992 | 992 | 100.0 | Basque <kde-i18n-eu@kde.org> | 
+ | [anjuta](/f34/package/anjuta) | 20886 | 20886 | 100.0 | Basque <itzulpena@euskalgnu.org> | 
+ | [ardour6](/f34/package/ardour6) | 22404 | 22404 | 100.0 | Euskara <porrumentzio@riseup.net> | 
+ | [arduino](/f34/package/arduino) | 3204 | 3204 | 100.0 | Basque (http://www.transifex.com/mbanzi/arduino-ide-15/language/eu/) | 
+ | [ark](/f34/package/ark) | 1923 | 1923 | 100.0 | Basque <kde-i18n-eu@kde.org> | 
+ | [artikulate](/f34/package/artikulate) | 338 | 338 | 100.0 | Basque <kde-i18n-eu@kde.org> | 
+ | [at-spi2-core](/f34/package/at-spi2-core) | 10 | 10 | 100.0 | Basque <librezale@librezale.org> | 
+ | [atk](/f34/package/atk) | 440 | 440 | 100.0 | Basque <librezale@librezale.org> | 
+ | [atomix](/f34/package/atomix) | 208 | 208 | 100.0 | Basque <librezale@librezale.eus> | 
+ | [backintime](/f34/package/backintime) | 1972 | 1972 | 100.0 | Basque <eu@li.org> | 
+ | [baloo-widgets](/f34/package/baloo-widgets) | 52 | 52 | 100.0 | Basque <kde-i18n-eu@kde.org> | 
+ | [baobab](/f34/package/baobab) | 307 | 307 | 100.0 | Basque <librezale@librezale.eus> | 
+ | [bleachbit](/f34/package/bleachbit) | 980 | 980 | 100.0 | Basque <eu@li.org> | 
+ | [blender](/f34/package/blender) | 1353 | 1353 | 100.0 | Euskara <agoenaga006@ikasle.ehu.eus> | 
+ | [blinken](/f34/package/blinken) | 133 | 133 | 100.0 | Basque <itzulpena@euskalgnu.org> | 
+ | [blueberry](/f34/package/blueberry) | 166 | 166 | 100.0 | Basque <eu@li.org> | 
+ | [bluedevil](/f34/package/bluedevil) | 517 | 517 | 100.0 | Basque <kde-i18n-eu@kde.org> | 
+ | [bomber](/f34/package/bomber) | 110 | 110 | 100.0 | Basque <kde-i18n-eu@kde.org> | 
+ | [bovo](/f34/package/bovo) | 81 | 81 | 100.0 | Basque <kde-i18n-eu@kde.org> | 
+ | [caribou](/f34/package/caribou) | 169 | 169 | 100.0 | Basque <kde-i18n-doc@kde.org> | 
+ | [catfish](/f34/package/catfish) | 1047 | 1047 | 100.0 | Basque (https://www.transifex.com/xfce/teams/16840/eu/) | 
+ | [cheese](/f34/package/cheese) | 628 | 628 | 100.0 | Basque <librezale@librezale.eus> | 
+ | [chromium](/f34/package/chromium) | 13275 | 13275 | 100.0 | Basque <librezale@librezale.eus> | 
+ | [clamtk](/f34/package/clamtk) | 796 | 796 | 100.0 | Basque <eu@li.org> | 
+ | [clutter](/f34/package/clutter) | 3057 | 3057 | 100.0 | Basque <librezale@librezale.eus> | 
+ | [cogl](/f34/package/cogl) | 393 | 393 | 100.0 | Basque <itzulpena@euskalgnu.org> | 
+ | [console-setup](/f34/package/console-setup) | 984 | 984 | 100.0 | Basque <librezale@librezale.eus> | 
+ | [cups-pk-helper](/f34/package/cups-pk-helper) | 149 | 149 | 100.0 | Basque (http://www.transifex.com/projects/p/freedesktop/language/eu/) | 
+ | [d-feet](/f34/package/d-feet) | 111 | 111 | 100.0 | Basque <librezale@librezale.eus> | 
+ | [dasher](/f34/package/dasher) | 6560 | 6560 | 100.0 | Basque <itzulpena@euskalgnu.org> | 
+ | [dconf-editor](/f34/package/dconf-editor) | 2955 | 2955 | 100.0 | Basque <librezale@librezale.eus> | 
+ | [devhelp](/f34/package/devhelp) | 402 | 402 | 100.0 | Basque <librezale@librezale.eus> | 
+ | [dia](/f34/package/dia) | 6601 | 6601 | 100.0 | Basque <itzulpena@euskalgnu.org> | 
+ | [dialect](/f34/package/dialect) | 366 | 366 | 100.0 | Basque <https://hosted.weblate.org/projects/dialect/dialect/eu/> | 
+ | [dialog](/f34/package/dialog) | 25 | 25 | 100.0 | Basque  <translation-team-eu@lists.sourceforge.net> | 
+ | [dolphin](/f34/package/dolphin) | 4746 | 4746 | 100.0 | Basque <kde-i18n-eu@kde.org> | 
+ | [dolphin-plugins](/f34/package/dolphin-plugins) | 748 | 748 | 100.0 | Basque <kde-i18n-eu@kde.org> | 
+ | [dragon](/f34/package/dragon) | 281 | 281 | 100.0 | Basque <kde-i18n-eu@kde.org> | 
+ | [eog](/f34/package/eog) | 4783 | 4783 | 100.0 | Basque <itzulpena@euskalgnu.org> | 
+ | [epiphany](/f34/package/epiphany) | 4558 | 4558 | 100.0 | Basque <librezale@librezale.eus> | 
+ | [evince](/f34/package/evince) | 3505 | 3505 | 100.0 | Basque <itzulpena@euskalgnu.org> | 
+ | [evolution-data-server](/f34/package/evolution-data-server) | 7860 | 7860 | 100.0 | Basque <librezale@librezale.eus> | 
+ | [evolution-ews](/f34/package/evolution-ews) | 1824 | 1824 | 100.0 | Basque <librezale@librezale.eus> | 
+ | [evolution-mapi](/f34/package/evolution-mapi) | 1039 | 1039 | 100.0 | Basque <librezale@librezale.eus> | 
+ | [evolution-rss](/f34/package/evolution-rss) | 674 | 674 | 100.0 | American English <kde-i18n-doc@kde.org> | 
+ | [exo](/f34/package/exo) | 738 | 738 | 100.0 | Basque (http://www.transifex.com/xfce/exo/language/eu/) | 
+ | [falkon](/f34/package/falkon) | 4386 | 4386 | 100.0 | Basque <kde-i18n-eu@kde.org> | 
+ | [file-roller](/f34/package/file-roller) | 1292 | 1292 | 100.0 | Basque <librezale@librezale.eus> | 
+ | [filelight](/f34/package/filelight) | 434 | 434 | 100.0 | Basque <kde-i18n-eu@kde.org> | 
+ | [filezilla](/f34/package/filezilla) | 10551 | 10551 | 100.0 | Spanish <kde-i18n-doc@kde.org> | 
+ | [five-or-more](/f34/package/five-or-more) | 239 | 239 | 100.0 | Basque <librezale@librezale.eus> | 
+ | [folks](/f34/package/folks) | 1056 | 1056 | 100.0 | Basque <librezale@librezale.eus> | 
+ | [four-in-a-row](/f34/package/four-in-a-row) | 480 | 480 | 100.0 | Basque <librezale@librezale.eus> | 
+ | [fwupd](/f34/package/fwupd) | 12 | 12 | 100.0 | Basque (http://www.transifex.com/freedesktop/fwupd/language/eu/) | 
+ | [ganglia](/f34/package/ganglia) | 59 | 59 | 100.0 | Euskara <debian-l10n-eu@lists.debian.org> | 
+ | [garcon](/f34/package/garcon) | 122 | 122 | 100.0 | Basque (http://www.transifex.com/xfce/garcon/language/eu/) | 
+ | [gbrainy](/f34/package/gbrainy) | 8638 | 8638 | 100.0 | Basque <itzulpena@euskalgnu.org> | 
+ | [gcab](/f34/package/gcab) | 159 | 159 | 100.0 | Basque <librezale@librezale.org> | 
+ | [gcompris-qt](/f34/package/gcompris-qt) | 29269 | 29269 | 100.0 | Basque <kde-i18n-eu@kde.org> | 
+ | [gconf-editor](/f34/package/gconf-editor) | 2834 | 2834 | 100.0 | Basque <itzulpena@euskalgnu.org> | 
+ | [gcr](/f34/package/gcr) | 754 | 754 | 100.0 | Basque <librezale@librezale.eus> | 
+ | [gdk-pixbuf2](/f34/package/gdk-pixbuf2) | 1325 | 1325 | 100.0 | Basque <librezale@librezale.eus> | 
+ | [geary](/f34/package/geary) | 2677 | 2677 | 100.0 | Basque <librezale@librezale.eus> | 
+ | [gedit](/f34/package/gedit) | 11587 | 11587 | 100.0 | Basque <itzulpena@euskalgnu.org> | 
+ | [gedit-plugins](/f34/package/gedit-plugins) | 8666 | 8666 | 100.0 | Basque <itzulpena@euskalgnu.org> | 
+ | [genius](/f34/package/genius) | 7297 | 7297 | 100.0 | Basque <itzulpena@euskalgnu.org> | 
+ | [ghex](/f34/package/ghex) | 973 | 973 | 100.0 | Basque <itzulpena@euskalgnu.org> | 
+ | [gip](/f34/package/gip) | 103 | 103 | 100.0 | Basque <translation-team-eu@lists.sourceforge.net> | 
+ | [gitg](/f34/package/gitg) | 2158 | 2158 | 100.0 | Basque <librezale@librezale.eus> | 
+ | [glade](/f34/package/glade) | 8616 | 8616 | 100.0 | Basque <itzulpena@euskalgnu.org> | 
+ | [glib-networking](/f34/package/glib-networking) | 402 | 402 | 100.0 | Basque <librezale@librezale.eus> | 
+ | [glib2](/f34/package/glib2) | 7630 | 7630 | 100.0 | Basque <librezale@librezale.eus> | 
+ | [glom](/f34/package/glom) | 4915 | 4915 | 100.0 | Basque <librezale@librezale.org> | 
+ | [gnome-2048](/f34/package/gnome-2048) | 347 | 347 | 100.0 | Basque <librezale@librezale.eus> | 
+ | [gnome-activity-journal](/f34/package/gnome-activity-journal) | 316 | 316 | 100.0 | Basque <eu@li.org> | 
+ | [gnome-applets](/f34/package/gnome-applets) | 17087 | 17087 | 100.0 | Basque <itzulpena@euskalgnu.org> | 
+ | [gnome-bluetooth](/f34/package/gnome-bluetooth) | 373 | 373 | 100.0 | Basque <librezale@librezale.eus> | 
+ | [gnome-books](/f34/package/gnome-books) | 421 | 421 | 100.0 | Basque <librezale@librezale.eus> | 
+ | [gnome-builder](/f34/package/gnome-builder) | 5239 | 5239 | 100.0 | Basque <librezale@librezale.eus> | 
+ | [gnome-calendar](/f34/package/gnome-calendar) | 795 | 795 | 100.0 | Basque <librezale@librezale.eus> | 
+ | [gnome-characters](/f34/package/gnome-characters) | 181 | 181 | 100.0 | Basque <librezale@librezale.eus> | 
+ | [gnome-color-manager](/f34/package/gnome-color-manager) | 1796 | 1796 | 100.0 | Basque <librezale@librezale.eus> | 
+ | [gnome-connections](/f34/package/gnome-connections) | 341 | 341 | 100.0 | Basque <librezale@librezale.eus> | 
+ | [gnome-contacts](/f34/package/gnome-contacts) | 585 | 585 | 100.0 | Basque <librezale@librezale.eus> | 
+ | [gnome-desktop](/f34/package/gnome-desktop) | 10013 | 10013 | 100.0 | Basque <itzulpena@euskalgnu.org> | 
+ | [gnome-desktop3](/f34/package/gnome-desktop3) | 9736 | 9736 | 100.0 | Basque <itzulpena@euskalgnu.org> | 
+ | [gnome-dictionary](/f34/package/gnome-dictionary) | 1904 | 1904 | 100.0 | Basque <itzulpena@euskalgnu.org> | 
+ | [gnome-disk-utility](/f34/package/gnome-disk-utility) | 3980 | 3980 | 100.0 | Basque <librezale@librezale.eus> | 
+ | [gnome-do](/f34/package/gnome-do) | 612 | 612 | 100.0 | Basque <eu@li.org> | 
+ | [gnome-doc-utils](/f34/package/gnome-doc-utils) | 251 | 251 | 100.0 | Basque <itzulpena@euskalgnu.org> | 
+ | [gnome-extensions-app](/f34/package/gnome-extensions-app) | 2767 | 2767 | 100.0 | Basque <librezale@librezale.eus> | 
+ | [gnome-flashback](/f34/package/gnome-flashback) | 1302 | 1302 | 100.0 | Basque <librezale@librezale.eus> | 
+ | [gnome-font-viewer](/f34/package/gnome-font-viewer) | 536 | 536 | 100.0 | Basque <librezale@librezale.eus> | 
+ | [gnome-games](/f34/package/gnome-games) | 857 | 857 | 100.0 | Basque <librezale@librezale.eus> | 
+ | [gnome-icon-theme](/f34/package/gnome-icon-theme) | 43 | 43 | 100.0 | Basque <eu@li.org> | 
+ | [gnome-initial-setup](/f34/package/gnome-initial-setup) | 842 | 842 | 100.0 | Basque <librezale@librezale.eus> | 
+ | [gnome-keyring](/f34/package/gnome-keyring) | 469 | 469 | 100.0 | Basque <librezale@librezale.eus> | 
+ | [gnome-klotski](/f34/package/gnome-klotski) | 1433 | 1433 | 100.0 | Basque <itzulpena@euskalgnu.org> | 
+ | [gnome-latex](/f34/package/gnome-latex) | 2473 | 2473 | 100.0 | Basque <librezale@librezale.eus> | 
+ | [gnome-logs](/f34/package/gnome-logs) | 380 | 380 | 100.0 | Basque <librezale@librezale.eus> | 
+ | [gnome-mahjongg](/f34/package/gnome-mahjongg) | 329 | 329 | 100.0 | Basque <librezale@librezale.eus> | 
+ | [gnome-maps](/f34/package/gnome-maps) | 1494 | 1494 | 100.0 | Basque <librezale@librezale.eus> | 
+ | [gnome-menus](/f34/package/gnome-menus) | 81 | 81 | 100.0 | Basque <librezale@librezale.eus> | 
+ | [gnome-mime-data](/f34/package/gnome-mime-data) | 887 | 887 | 100.0 | Basque <itzulpena@euskalgnu.org> | 
+ | [gnome-multi-writer](/f34/package/gnome-multi-writer) | 382 | 382 | 100.0 | Basque <librezale@librezale.eus> | 
+ | [gnome-music](/f34/package/gnome-music) | 1178 | 1178 | 100.0 | Basque <librezale@librezale.eus> | 
+ | [gnome-nettool](/f34/package/gnome-nettool) | 664 | 664 | 100.0 | Basque <kde-i18n-doc@kde.org> | 
+ | [gnome-network-displays](/f34/package/gnome-network-displays) | 195 | 195 | 100.0 | Basque <librezale@librezale.eus> | 
+ | [gnome-nibbles](/f34/package/gnome-nibbles) | 588 | 588 | 100.0 | Basque <librezale@librezale.eus> | 
+ | [gnome-online-accounts](/f34/package/gnome-online-accounts) | 669 | 669 | 100.0 | Basque <librezale@librezale.eus> | 
+ | [gnome-packagekit](/f34/package/gnome-packagekit) | 3593 | 3593 | 100.0 | Basque <librezale@librezale.org> | 
+ | [gnome-panel](/f34/package/gnome-panel) | 5057 | 5057 | 100.0 | Basque <itzulpena@euskalgnu.org> | 
+ | [gnome-passwordsafe](/f34/package/gnome-passwordsafe) | 1057 | 1057 | 100.0 | Basque <librezale@librezale.eus> | 
+ | [gnome-photos](/f34/package/gnome-photos) | 1029 | 1029 | 100.0 | Basque <librezale@librezale.eus> | 
+ | [gnome-power-manager](/f34/package/gnome-power-manager) | 480 | 480 | 100.0 | Basque <librezale@librezale.org> | 
+ | [gnome-radio](/f34/package/gnome-radio) | 1236 | 1236 | 100.0 | Basque <librezale@librezale.eus> | 
+ | [gnome-robots](/f34/package/gnome-robots) | 596 | 596 | 100.0 | Basque <librezale@librezale.eus> | 
+ | [gnome-screenshot](/f34/package/gnome-screenshot) | 417 | 417 | 100.0 | Basque <librezale@librezale.eus> | 
+ | [gnome-search-tool](/f34/package/gnome-search-tool) | 3179 | 3179 | 100.0 | Basque <itzulpena@euskalgnu.org> | 
+ | [gnome-session](/f34/package/gnome-session) | 432 | 432 | 100.0 | Basque <librezale@librezale.eus> | 
+ | [gnome-settings-daemon](/f34/package/gnome-settings-daemon) | 3417 | 3417 | 100.0 | Basque <librezale@librezale.eus> | 
+ | [gnome-shell](/f34/package/gnome-shell) | 2767 | 2767 | 100.0 | Basque <librezale@librezale.eus> | 
+ | [gnome-shell-extension-dash-to-dock](/f34/package/gnome-shell-extension-dash-to-dock) | 476 | 476 | 100.0 |  | 
+ | [gnome-shell-extensions](/f34/package/gnome-shell-extensions) | 262 | 262 | 100.0 | Basque <librezale@librezale.eus> | 
+ | [gnome-shell-frippery](/f34/package/gnome-shell-frippery) | 22 | 22 | 100.0 | Basque <itzulpena@euskalgnu.org> | 
+ | [gnome-software](/f34/package/gnome-software) | 3524 | 3524 | 100.0 | Basque <librezale@librezale.eus> | 
+ | [gnome-sound-recorder](/f34/package/gnome-sound-recorder) | 270 | 270 | 100.0 | Basque <librezale@librezale.eus> | 
+ | [gnome-system-log](/f34/package/gnome-system-log) | 1660 | 1660 | 100.0 | Basque <itzulpena@euskalgnu.org> | 
+ | [gnome-system-monitor](/f34/package/gnome-system-monitor) | 1568 | 1568 | 100.0 | Basque <librezale@librezale.eus> | 
+ | [gnome-taquin](/f34/package/gnome-taquin) | 431 | 431 | 100.0 | Basque <librezale@librezale.eus> | 
+ | [gnome-terminal](/f34/package/gnome-terminal) | 2627 | 2627 | 100.0 | Basque <librezale@librezale.eus> | 
+ | [gnome-tetravex](/f34/package/gnome-tetravex) | 968 | 968 | 100.0 | Basque <librezale@librezale.eus> | 
+ | [gnome-themes-extra](/f34/package/gnome-themes-extra) | 15 | 15 | 100.0 | Basque <librezale@librezale.eus> | 
+ | [gnome-todo](/f34/package/gnome-todo) | 717 | 717 | 100.0 | Basque <librezale@librezale.eus> | 
+ | [gnome-tour](/f34/package/gnome-tour) | 112 | 112 | 100.0 | Basque <librezale@librezale.eus> | 
+ | [gnome-tweaks](/f34/package/gnome-tweaks) | 657 | 657 | 100.0 | Basque <librezale@librezale.eus> | 
+ | [gnome-usage](/f34/package/gnome-usage) | 165 | 165 | 100.0 | Basque <librezale@librezale.eus> | 
+ | [gnome-user-share](/f34/package/gnome-user-share) | 49 | 49 | 100.0 | Basque <librezale@librezale.eus> | 
+ | [gnome-vfs2](/f34/package/gnome-vfs2) | 1519 | 1519 | 100.0 | Basque <itzulpena@euskalgnu.org> | 
+ | [gnome-video-effects](/f34/package/gnome-video-effects) | 256 | 256 | 100.0 | Basque <librezale@librezale.org> | 
+ | [gnome-weather](/f34/package/gnome-weather) | 247 | 247 | 100.0 | Basque <librezale@librezale.eus> | 
+ | [gnote](/f34/package/gnote) | 3440 | 3440 | 100.0 | Basque <librezale@librezale.eus> | 
+ | [gparted](/f34/package/gparted) | 3025 | 3025 | 100.0 | Basque <librezale@librezale.eus> | 
+ | [gpicview](/f34/package/gpicview) | 236 | 236 | 100.0 | <alainmendi@gmail.com> | 
+ | [granatier](/f34/package/granatier) | 247 | 247 | 100.0 | Basque <kde-i18n-eu@kde.org> | 
+ | [grilo](/f34/package/grilo) | 191 | 191 | 100.0 | Basque <librezale@librezale.eus> | 
+ | [gsettings-desktop-schemas](/f34/package/gsettings-desktop-schemas) | 6937 | 6937 | 100.0 | Basque <librezale@librezale.eus> | 
+ | [gspell](/f34/package/gspell) | 76 | 76 | 100.0 | Basque <librezale@librezale.eus> | 
+ | [gthumb](/f34/package/gthumb) | 8551 | 8551 | 100.0 | Basque <itzulpena@euskalgnu.org> | 
+ | [gtk+](/f34/package/gtk+) | 202 | 202 | 100.0 | euskare <linux-eu@chanae.alphanet.ch> | 
+ | [gtk-vnc](/f34/package/gtk-vnc) | 81 | 81 | 100.0 | Basque <itzulpena@euskalgnu.org> | 
+ | [gtk2](/f34/package/gtk2) | 11944 | 11944 | 100.0 | Basque <itzulpena@euskalgnu.org> | 
+ | [gtk2-engines](/f34/package/gtk2-engines) | 119 | 119 | 100.0 | Basque <itzulpena@euskalgnu.org> | 
+ | [gtk3](/f34/package/gtk3) | 16731 | 16731 | 100.0 | Basque <librezale@librezale.eus> | 
+ | [gtk4](/f34/package/gtk4) | 13391 | 13391 | 100.0 | Basque <librezale@librezale.eus> | 
+ | [gtkhtml3](/f34/package/gtkhtml3) | 522 | 522 | 100.0 | Basque <librezale@librezale.org> | 
+ | [gtksourceview2](/f34/package/gtksourceview2) | 1413 | 1413 | 100.0 | Basque <itzulpena@euskalgnu.org> | 
+ | [gtksourceview3](/f34/package/gtksourceview3) | 322 | 322 | 100.0 | Basque <librezale@librezale.eus> | 
+ | [gtksourceview4](/f34/package/gtksourceview4) | 308 | 308 | 100.0 | Basque <librezale@librezale.eus> | 
+ | [gtkspell](/f34/package/gtkspell) | 11 | 11 | 100.0 | Basque <translation-team-eu@lists.sourceforge.net> | 
+ | [gtkspell3](/f34/package/gtkspell3) | 15 | 15 | 100.0 | Basque <translation-team-eu@lists.sourceforge.net> | 
+ | [gtranslator](/f34/package/gtranslator) | 1184 | 1184 | 100.0 | Basque <librezale@librezale.eus> | 
+ | [gucharmap](/f34/package/gucharmap) | 1452 | 1452 | 100.0 | Basque <librezale@librezale.eus> | 
+ | [gvfs](/f34/package/gvfs) | 2102 | 2102 | 100.0 | Basque <librezale@librezale.eus> | 
+ | [gwenview](/f34/package/gwenview) | 1620 | 1620 | 100.0 | Basque <kde-i18n-eu@kde.org> | 
+ | [homebank](/f34/package/homebank) | 2815 | 2815 | 100.0 | Basque <eu@li.org> | 
+ | [iagno](/f34/package/iagno) | 801 | 801 | 100.0 | Basque <librezale@librezale.eus> | 
+ | [initial-setup](/f34/package/initial-setup) | 106 | 106 | 100.0 | Basque | 
+ | [json-glib](/f34/package/json-glib) | 307 | 307 | 100.0 | Basque <librezale@librezale.eus> | 
+ | [juk](/f34/package/juk) | 1484 | 1484 | 100.0 | Basque <kde-i18n-eu@kde.org> | 
+ | [k3b](/f34/package/k3b) | 20180 | 20180 | 100.0 | Basque <kde-i18n-eu@kde.org> | 
+ | [kaccounts-integration](/f34/package/kaccounts-integration) | 164 | 164 | 100.0 | Basque <kde-i18n-eu@kde.org> | 
+ | [kaccounts-providers](/f34/package/kaccounts-providers) | 101 | 101 | 100.0 | Basque | 
+ | [kactivitymanagerd](/f34/package/kactivitymanagerd) | 11 | 11 | 100.0 | Basque <kde-i18n-eu@kde.org> | 
+ | [kaddressbook](/f34/package/kaddressbook) | 1140 | 1140 | 100.0 | Basque <kde-i18n-eu@kde.org> | 
+ | [kamera](/f34/package/kamera) | 347 | 347 | 100.0 | Basque <kde-i18n-doc@kde.org> | 
+ | [kamoso](/f34/package/kamoso) | 142 | 142 | 100.0 | Basque <kde-i18n-eu@kde.org> | 
+ | [kapman](/f34/package/kapman) | 114 | 114 | 100.0 | Basque <kde-i18n-eu@kde.org> | 
+ | [kapptemplate](/f34/package/kapptemplate) | 272 | 272 | 100.0 | Basque <kde-i18n-eu@kde.org> | 
+ | [kbackup](/f34/package/kbackup) | 689 | 689 | 100.0 | Basque <kde-i18n-eu@kde.org> | 
+ | [kblackbox](/f34/package/kblackbox) | 1364 | 1364 | 100.0 | Basque <kde-i18n-eu@kde.org> | 
+ | [kblocks](/f34/package/kblocks) | 147 | 147 | 100.0 | Basque <kde-i18n-eu@kde.org> | 
+ | [kbruch](/f34/package/kbruch) | 1347 | 1347 | 100.0 | Basque | 
+ | [kcalc](/f34/package/kcalc) | 1026 | 1026 | 100.0 | Basque <kde-i18n-eu@kde.org> | 
+ | [kcharselect](/f34/package/kcharselect) | 88 | 88 | 100.0 | Basque <kde-i18n-doc@kde.org> | 
+ | [kcolorchooser](/f34/package/kcolorchooser) | 29 | 29 | 100.0 | Basque <kde-i18n-doc@kde.org> | 
+ | [kcron](/f34/package/kcron) | 534 | 534 | 100.0 | Basque <itzulpena@euskalgnu.org> | 
+ | [kde-cli-tools](/f34/package/kde-cli-tools) | 2250 | 2250 | 100.0 | Basque <kde-i18n-eu@kde.org> | 
+ | [kde-partitionmanager](/f34/package/kde-partitionmanager) | 2214 | 2214 | 100.0 | Basque <kde-i18n-eu@kde.org> | 
+ | [kde-print-manager](/f34/package/kde-print-manager) | 969 | 969 | 100.0 | Basque <kde-i18n-eu@kde.org> | 
+ | [kde-style-breeze](/f34/package/kde-style-breeze) | 266 | 266 | 100.0 | Basque <kde-i18n-eu@kde.org> | 
+ | [kdebugsettings](/f34/package/kdebugsettings) | 206 | 206 | 100.0 | Basque <kde-i18n-eu@kde.org> | 
+ | [kdecoration](/f34/package/kdecoration) | 39 | 39 | 100.0 | Basque <kde-i18n-eu@kde.org> | 
+ | [kdesdk-thumbnailers](/f34/package/kdesdk-thumbnailers) | 4 | 4 | 100.0 | Basque <kde-i18n-doc@kde.org> | 
+ | [kdf](/f34/package/kdf) | 181 | 181 | 100.0 | Basque <kde-i18n-doc@kde.org> | 
+ | [kdiagram](/f34/package/kdiagram) | 66 | 66 | 100.0 | Basque <kde-i18n-eu@kde.org> | 
+ | [kdialog](/f34/package/kdialog) | 382 | 382 | 100.0 | Basque | 
+ | [kdiamond](/f34/package/kdiamond) | 122 | 122 | 100.0 | Basque <itzulpena@euskalgnu.org> | 
+ | [kdiff3](/f34/package/kdiff3) | 3617 | 3617 | 100.0 | Basque <kde-i18n-eu@kde.org> | 
+ | [kdnssd](/f34/package/kdnssd) | 30 | 30 | 100.0 | Basque <kde-i18n-eu@kde.org> | 
+ | [keditbookmarks](/f34/package/keditbookmarks) | 466 | 466 | 100.0 | Basque <kde-i18n-eu@kde.org> | 
+ | [kf5-akonadi-calendar](/f34/package/kf5-akonadi-calendar) | 1867 | 1867 | 100.0 | Basque <kde-i18n-eu@kde.org> | 
+ | [kf5-akonadi-contacts](/f34/package/kf5-akonadi-contacts) | 1597 | 1597 | 100.0 | Basque <kde-i18n-eu@kde.org> | 
+ | [kf5-akonadi-mime](/f34/package/kf5-akonadi-mime) | 567 | 567 | 100.0 | Basque <kde-i18n-eu@kde.org> | 
+ | [kf5-akonadi-notes](/f34/package/kf5-akonadi-notes) | 2 | 2 | 100.0 | Basque <kde-i18n-eu@kde.org> | 
+ | [kf5-akonadi-search](/f34/package/kf5-akonadi-search) | 48 | 48 | 100.0 | Basque <kde-i18n-eu@kde.org> | 
+ | [kf5-akonadi-server](/f34/package/kf5-akonadi-server) | 2540 | 2540 | 100.0 | Basque <kde-i18n-eu@kde.org> | 
+ | [kf5-audiocd-kio](/f34/package/kf5-audiocd-kio) | 1000 | 1000 | 100.0 | Basque <kde-i18n-eu@kde.org> | 
+ | [kf5-baloo](/f34/package/kf5-baloo) | 836 | 836 | 100.0 | Basque <kde-i18n-eu@kde.org> | 
+ | [kf5-calendarsupport](/f34/package/kf5-calendarsupport) | 2986 | 2986 | 100.0 | Basque <kde-i18n-eu@kde.org> | 
+ | [kf5-grantleetheme](/f34/package/kf5-grantleetheme) | 14 | 14 | 100.0 | Basque <kde-i18n-eu@kde.org> | 
+ | [kf5-kauth](/f34/package/kf5-kauth) | 73 | 73 | 100.0 | Basque <kde-i18n-doc@kde.org> | 
+ | [kf5-kbookmarks](/f34/package/kf5-kbookmarks) | 230 | 230 | 100.0 | Basque <kde-i18n-eu@kde.org> | 
+ | [kf5-kcmutils](/f34/package/kf5-kcmutils) | 247 | 247 | 100.0 | Basque <kde-i18n-eu@kde.org> | 
+ | [kf5-kcodecs](/f34/package/kf5-kcodecs) | 372 | 372 | 100.0 | Basque <kde-i18n-eu@kde.org> | 
+ | [kf5-kcompletion](/f34/package/kf5-kcompletion) | 18 | 18 | 100.0 | Basque <kde-i18n-eu@kde.org> | 
+ | [kf5-kcontacts](/f34/package/kf5-kcontacts) | 177 | 177 | 100.0 | Basque <kde-i18n-eu@kde.org> | 
+ | [kf5-kdav](/f34/package/kf5-kdav) | 185 | 185 | 100.0 | Basque <kde-i18n-eu@kde.org> | 
+ | [kf5-kdbusaddons](/f34/package/kf5-kdbusaddons) | 48 | 48 | 100.0 | Basque <kde-i18n-doc@kde.org> | 
+ | [kf5-kdelibs4support](/f34/package/kf5-kdelibs4support) | 5353 | 5353 | 100.0 | Basque <kde-i18n-eu@kde.org> | 
+ | [kf5-kdesignerplugin](/f34/package/kf5-kdesignerplugin) | 54 | 54 | 100.0 | Basque <kde-i18n-doc@kde.org> | 
+ | [kf5-kdesu](/f34/package/kf5-kdesu) | 19 | 19 | 100.0 | Basque <kde-i18n-doc@kde.org> | 
+ | [kf5-kdnssd](/f34/package/kf5-kdnssd) | 3 | 3 | 100.0 | Basque <kde-i18n-doc@kde.org> | 
+ | [kf5-kdoctools](/f34/package/kf5-kdoctools) | 8 | 8 | 100.0 | Basque <kde-i18n-eu@kde.org> | 
+ | [kf5-kfilemetadata](/f34/package/kf5-kfilemetadata) | 302 | 302 | 100.0 | Basque <kde-i18n-eu@kde.org> | 
+ | [kf5-kglobalaccel](/f34/package/kf5-kglobalaccel) | 71 | 71 | 100.0 | Basque <kde-i18n-doc@kde.org> | 
+ | [kf5-kholidays](/f34/package/kf5-kholidays) | 139 | 139 | 100.0 | Basque <kde-i18n-eu@kde.org> | 
+ | [kf5-khtml](/f34/package/kf5-khtml) | 1721 | 1721 | 100.0 | Basque <kde-i18n-eu@kde.org> | 
+ | [kf5-ki18n](/f34/package/kf5-ki18n) | 124 | 124 | 100.0 | Basque | 
+ | [kf5-kiconthemes](/f34/package/kf5-kiconthemes) | 39 | 39 | 100.0 | Basque <kde-i18n-eu@kde.org> | 
+ | [kf5-kidentitymanagement](/f34/package/kf5-kidentitymanagement) | 181 | 181 | 100.0 | Basque <kde-i18n-eu@kde.org> | 
+ | [kf5-kinit](/f34/package/kf5-kinit) | 116 | 116 | 100.0 | Basque <kde-i18n-doc@kde.org> | 
+ | [kf5-kipi-plugins](/f34/package/kf5-kipi-plugins) | 5695 | 5695 | 100.0 | Basque <kde-i18n-eu@kde.org> | 
+ | [kf5-kitemviews](/f34/package/kf5-kitemviews) | 7 | 7 | 100.0 | Basque <kde-i18n-eu@kde.org> | 
+ | [kf5-kjobwidgets](/f34/package/kf5-kjobwidgets) | 133 | 133 | 100.0 | Basque <kde-i18n-eu@kde.org> | 
+ | [kf5-kjsembed](/f34/package/kf5-kjsembed) | 248 | 248 | 100.0 | Basque <kde-i18n-doc@kde.org> | 
+ | [kf5-kmime](/f34/package/kf5-kmime) | 159 | 159 | 100.0 | Basque <kde-i18n-eu@kde.org> | 
+ | [kf5-knewstuff](/f34/package/kf5-knewstuff) | 1661 | 1661 | 100.0 | Basque <kde-i18n-eu@kde.org> | 
+ | [kf5-knotifyconfig](/f34/package/kf5-knotifyconfig) | 129 | 129 | 100.0 | Basque <kde-i18n-doc@kde.org> | 
+ | [kf5-kpackage](/f34/package/kf5-kpackage) | 486 | 486 | 100.0 | Basque <kde-i18n-eu@kde.org> | 
+ | [kf5-kparts](/f34/package/kf5-kparts) | 132 | 132 | 100.0 | Basque <kde-i18n-eu@kde.org> | 
+ | [kf5-kpeople](/f34/package/kf5-kpeople) | 13 | 13 | 100.0 | Basque <kde-i18n-doc@kde.org> | 
+ | [kf5-kpty](/f34/package/kf5-kpty) | 15 | 15 | 100.0 | Basque <kde-i18n-doc@kde.org> | 
+ | [kf5-kross](/f34/package/kf5-kross) | 100 | 100 | 100.0 | Basque <kde-i18n-doc@kde.org> | 
+ | [kf5-kservice](/f34/package/kf5-kservice) | 173 | 173 | 100.0 | Basque <kde-i18n-eu@kde.org> | 
+ | [kf5-ktextwidgets](/f34/package/kf5-ktextwidgets) | 473 | 473 | 100.0 | Basque <kde-i18n-eu@kde.org> | 
+ | [kf5-kunitconversion](/f34/package/kf5-kunitconversion) | 5735 | 5735 | 100.0 | Basque <kde-i18n-eu@kde.org> | 
+ | [kf5-kwallet](/f34/package/kf5-kwallet) | 1460 | 1460 | 100.0 | Basque <kde-i18n-doc@kde.org> | 
+ | [kf5-kwidgetsaddons](/f34/package/kf5-kwidgetsaddons) | 1294 | 1294 | 100.0 | Basque <kde-i18n-eu@kde.org> | 
+ | [kf5-kwindowsystem](/f34/package/kf5-kwindowsystem) | 2 | 2 | 100.0 | Basque <kde-i18n-doc@kde.org> | 
+ | [kf5-kxmlrpcclient](/f34/package/kf5-kxmlrpcclient) | 13 | 13 | 100.0 | Basque <kde-i18n-doc@kde.org> | 
+ | [kf5-libgravatar](/f34/package/kf5-libgravatar) | 27 | 27 | 100.0 | Basque <kde-i18n-eu@kde.org> | 
+ | [kf5-libkcddb](/f34/package/kf5-libkcddb) | 476 | 476 | 100.0 | Basque <kde-i18n-eu@kde.org> | 
+ | [kf5-libkcompactdisc](/f34/package/kf5-libkcompactdisc) | 15 | 15 | 100.0 | Basque <kde-i18n-eu@kde.org> | 
+ | [kf5-libkgeomap](/f34/package/kf5-libkgeomap) | 139 | 139 | 100.0 | Basque <kde-i18n-doc@kde.org> | 
+ | [kf5-libktorrent](/f34/package/kf5-libktorrent) | 465 | 465 | 100.0 | Basque <itzulpena@euskalgnu.org> | 
+ | [kf5-plasma](/f34/package/kf5-plasma) | 392 | 392 | 100.0 | Basque <kde-i18n-eu@kde.org> | 
+ | [kfind](/f34/package/kfind) | 502 | 502 | 100.0 | Basque <kde-i18n-eu@kde.org> | 
+ | [kfloppy](/f34/package/kfloppy) | 641 | 641 | 100.0 | Basque <kde-i18n-doc@kde.org> | 
+ | [kgamma](/f34/package/kgamma) | 130 | 130 | 100.0 | Basque <itzulpena@euskalgnu.org> | 
+ | [kgpg](/f34/package/kgpg) | 5268 | 5268 | 100.0 | Basque <kde-i18n-eu@kde.org> | 
+ | [khelpcenter](/f34/package/khelpcenter) | 265 | 265 | 100.0 | Basque | 
+ | [killbots](/f34/package/killbots) | 637 | 637 | 100.0 | Basque <kde-i18n-eu@kde.org> | 
+ | [kinfocenter](/f34/package/kinfocenter) | 742 | 742 | 100.0 | Basque <kde-i18n-eu@kde.org> | 
+ | [kio-gdrive](/f34/package/kio-gdrive) | 63 | 63 | 100.0 | Basque <kde-i18n-eu@kde.org> | 
+ | [kirigami-gallery](/f34/package/kirigami-gallery) | 856 | 856 | 100.0 | Basque | 
+ | [kjots](/f34/package/kjots) | 651 | 651 | 100.0 | Basque | 
+ | [kmag](/f34/package/kmag) | 432 | 432 | 100.0 | Basque <kde-i18n-doc@kde.org> | 
+ | [kmenuedit](/f34/package/kmenuedit) | 277 | 277 | 100.0 | Basque <kde-i18n-eu@kde.org> | 
+ | [kmines](/f34/package/kmines) | 156 | 156 | 100.0 | Basque <kde-i18n-eu@kde.org> | 
+ | [kmix](/f34/package/kmix) | 1090 | 1090 | 100.0 | Basque <kde-i18n-eu@kde.org> | 
+ | [kmousetool](/f34/package/kmousetool) | 147 | 147 | 100.0 | Basque <kde-i18n-doc@kde.org> | 
+ | [kmouth](/f34/package/kmouth) | 1515 | 1515 | 100.0 | Basque <kde-i18n-doc@kde.org> | 
+ | [knotes](/f34/package/knotes) | 781 | 781 | 100.0 | Basque <kde-i18n-eu@kde.org> | 
+ | [kolourpaint](/f34/package/kolourpaint) | 2564 | 2564 | 100.0 | Basque <kde-i18n-eu@kde.org> | 
+ | [konqueror](/f34/package/konqueror) | 8795 | 8795 | 100.0 | Basque <kde-i18n-eu@kde.org> | 
+ | [konsole5](/f34/package/konsole5) | 3416 | 3416 | 100.0 | Basque <kde-i18n-eu@kde.org> | 
+ | [kontact](/f34/package/kontact) | 600 | 600 | 100.0 | Basque <kde-i18n-eu@kde.org> | 
+ | [kopete](/f34/package/kopete) | 18427 | 18427 | 100.0 | Basque <itzulpena@euskalgnu.org> | 
+ | [krename](/f34/package/krename) | 2142 | 2142 | 100.0 | Basque <kde-i18n-eu@kde.org> | 
+ | [krfb](/f34/package/krfb) | 676 | 676 | 100.0 | Basque <kde-i18n-eu@kde.org> | 
+ | [kruler](/f34/package/kruler) | 184 | 184 | 100.0 | Basque <kde-i18n-doc@kde.org> | 
+ | [kscreenlocker](/f34/package/kscreenlocker) | 230 | 230 | 100.0 | Basque <kde-i18n-eu@kde.org> | 
+ | [ksshaskpass](/f34/package/ksshaskpass) | 50 | 50 | 100.0 | Basque <kde-i18n-eu@kde.org> | 
+ | [ksysguard](/f34/package/ksysguard) | 1093 | 1093 | 100.0 | Basque | 
+ | [ksystemlog](/f34/package/ksystemlog) | 3034 | 3034 | 100.0 | Basque <kde-i18n-doc@kde.org> | 
+ | [kteatime](/f34/package/kteatime) | 203 | 203 | 100.0 | Basque <kde-i18n-eu@kde.org> | 
+ | [ktimer](/f34/package/ktimer) | 258 | 258 | 100.0 | Basque <kde-i18n-eu@kde.org> | 
+ | [ktouch](/f34/package/ktouch) | 948 | 948 | 100.0 | Basque <kde-i18n-eu@kde.org> | 
+ | [ktp-accounts-kcm](/f34/package/ktp-accounts-kcm) | 1100 | 1100 | 100.0 | Basque <kde-i18n-eu@kde.org> | 
+ | [ktp-approver](/f34/package/ktp-approver) | 71 | 71 | 100.0 | Basque <kde-i18n-eu@kde.org> | 
+ | [ktp-auth-handler](/f34/package/ktp-auth-handler) | 83 | 83 | 100.0 | Basque <kde-i18n-eu@kde.org> | 
+ | [ktp-common-internals](/f34/package/ktp-common-internals) | 989 | 989 | 100.0 | Basque <kde-i18n-eu@kde.org> | 
+ | [ktp-contact-list](/f34/package/ktp-contact-list) | 680 | 680 | 100.0 | Basque <kde-i18n-eu@kde.org> | 
+ | [ktp-contact-runner](/f34/package/ktp-contact-runner) | 208 | 208 | 100.0 | Basque <kde-i18n-eu@kde.org> | 
+ | [ktp-desktop-applets](/f34/package/ktp-desktop-applets) | 75 | 75 | 100.0 | Basque <kde-i18n-eu@kde.org> | 
+ | [ktp-filetransfer-handler](/f34/package/ktp-filetransfer-handler) | 141 | 141 | 100.0 | Basque <kde-i18n-eu@kde.org> | 
+ | [ktp-kded-integration-module](/f34/package/ktp-kded-integration-module) | 490 | 490 | 100.0 | Basque <kde-i18n-eu@kde.org> | 
+ | [ktp-send-file](/f34/package/ktp-send-file) | 60 | 60 | 100.0 | Basque <kde-i18n-eu@kde.org> | 
+ | [ktp-text-ui](/f34/package/ktp-text-ui) | 1439 | 1439 | 100.0 | Basque <kde-i18n-eu@kde.org> | 
+ | [kturtle](/f34/package/kturtle) | 1531 | 1531 | 100.0 | Basque <kde-i18n-eu@kde.org> | 
+ | [kwalletmanager5](/f34/package/kwalletmanager5) | 800 | 800 | 100.0 | Basque <kde-i18n-doc@kde.org> | 
+ | [kwave](/f34/package/kwave) | 5798 | 5798 | 100.0 | Basque <kde-i18n-eu@kde.org> | 
+ | [lasem](/f34/package/lasem) | 29 | 29 | 100.0 | Basque <librezale@librezale.org> | 
+ | [leafpad](/f34/package/leafpad) | 125 | 125 | 100.0 | Basque <translation-team-eu@lists.sourceforge.net> | 
+ | [libadwaita](/f34/package/libadwaita) | 11 | 11 | 100.0 | Basque <librezale@librezale.eus> | 
+ | [libbonobo](/f34/package/libbonobo) | 543 | 543 | 100.0 | Basque <itzulpena@euskalgnu.org> | 
+ | [libbonoboui](/f34/package/libbonoboui) | 368 | 368 | 100.0 | Basque <itzulpena@euskalgnu.org> | 
+ | [libcryptui](/f34/package/libcryptui) | 3068 | 3068 | 100.0 | Basque <itzulpena@euskalgnu.org> | 
+ | [libgda](/f34/package/libgda) | 11547 | 11547 | 100.0 | Basque <librezale@librezale.eus> | 
+ | [libgdata](/f34/package/libgdata) | 694 | 694 | 100.0 | Basque <librezale@librezale.eus> | 
+ | [libgdl](/f34/package/libgdl) | 659 | 659 | 100.0 | Basque <librezale@librezale.org> | 
+ | [libgnome](/f34/package/libgnome) | 1773 | 1773 | 100.0 | Basque <itzulpena@euskalgnu.org> | 
+ | [libgnome-games-support](/f34/package/libgnome-games-support) | 43 | 43 | 100.0 | Basque <librezale@librezale.eus> | 
+ | [libgnome-keyring](/f34/package/libgnome-keyring) | 44 | 44 | 100.0 | Basque <itzulpena@euskalgnu.org> | 
+ | [libgnomecanvas](/f34/package/libgnomecanvas) | 378 | 378 | 100.0 | Basque <itzulpena@euskalgnu.org> | 
+ | [libgnomekbd](/f34/package/libgnomekbd) | 242 | 242 | 100.0 | Basque <itzulpena@euskalgnu.org> | 
+ | [libgnomeui](/f34/package/libgnomeui) | 1309 | 1309 | 100.0 | <eu@li.org> | 
+ | [libgovirt](/f34/package/libgovirt) | 102 | 102 | 100.0 | Basque <librezale@librezale.org> | 
+ | [libgsf](/f34/package/libgsf) | 719 | 719 | 100.0 | Basque <librezale@librezale.org> | 
+ | [libgtop2](/f34/package/libgtop2) | 126 | 126 | 100.0 | Basque <librezale@librezale.eus> | 
+ | [libgweather](/f34/package/libgweather) | 6394 | 6394 | 100.0 | Basque <librezale@librezale.eus> | 
+ | [libhandy](/f34/package/libhandy) | 1351 | 1351 | 100.0 | Basque <librezale@librezale.eus> | 
+ | [libkdegames](/f34/package/libkdegames) | 370 | 370 | 100.0 | Basque <kde-i18n-eu@kde.org> | 
+ | [libkmahjongg](/f34/package/libkmahjongg) | 7 | 7 | 100.0 | Euskara <kde-i18n-doc@kde.org> | 
+ | [libnma](/f34/package/libnma) | 917 | 917 | 100.0 | Basque <librezale@librezale.eus> | 
+ | [libpaper](/f34/package/libpaper) | 73 | 73 | 100.0 | basque <debian-l10n-basque@lists.debian.org> | 
+ | [libpeas](/f34/package/libpeas) | 103 | 103 | 100.0 | Basque <librezale@librezale.eus> | 
+ | [libsecret](/f34/package/libsecret) | 59 | 59 | 100.0 | Basque <librezale@librezale.org> | 
+ | [libsoup](/f34/package/libsoup) | 183 | 183 | 100.0 | Basque <librezale@librezale.eus> | 
+ | [libxfce4ui](/f34/package/libxfce4ui) | 964 | 964 | 100.0 | Basque (http://www.transifex.com/xfce/libxfce4ui/language/eu/) | 
+ | [libxfce4util](/f34/package/libxfce4util) | 424 | 424 | 100.0 | Basque (http://www.transifex.com/xfce/libxfce4util/language/eu/) | 
+ | [lightdm-settings](/f34/package/lightdm-settings) | 321 | 321 | 100.0 | Basque <eu@li.org> | 
+ | [lightsoff](/f34/package/lightsoff) | 143 | 143 | 100.0 | Basque <librezale@librezale.eus> | 
+ | [lskat](/f34/package/lskat) | 254 | 254 | 100.0 | Basque <kde-i18n-eu@kde.org> | 
+ | [lxappearance-obconf](/f34/package/lxappearance-obconf) | 196 | 196 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [lxdm](/f34/package/lxdm) | 47 | 47 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [lxinput](/f34/package/lxinput) | 83 | 83 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [lxlauncher](/f34/package/lxlauncher) | 58 | 58 | 100.0 | Basque <alainmendi@gmail.com> | 
+ | [lxmenu-data](/f34/package/lxmenu-data) | 97 | 97 | 100.0 | Basque <itzulpena@euskalgnu.org> | 
+ | [lxmusic](/f34/package/lxmusic) | 203 | 203 | 100.0 | Basque <alainmendi@gmail.com> | 
+ | [lxrandr](/f34/package/lxrandr) | 167 | 167 | 100.0 | Basque <alainmendi@gmail.com> | 
+ | [lxtask](/f34/package/lxtask) | 130 | 130 | 100.0 | librezale <librezale@librezale.org> | 
+ | [mate-icon-theme](/f34/package/mate-icon-theme) | 4 | 4 | 100.0 | Basque (https://www.transifex.com/mate/teams/13566/eu/) | 
+ | [mate-polkit](/f34/package/mate-polkit) | 123 | 123 | 100.0 | Basque (https://www.transifex.com/mate/teams/13566/eu/) | 
+ | [metacity](/f34/package/metacity) | 1830 | 1830 | 100.0 | Basque <librezale@librezale.eus> | 
+ | [minder](/f34/package/minder) | 1423 | 1423 | 100.0 |  | 
+ | [mingw-GConf2](/f34/package/mingw-GConf2) | 4088 | 4088 | 100.0 | American English <kde-i18n-doc@kde.org> | 
+ | [mingw-atk](/f34/package/mingw-atk) | 440 | 440 | 100.0 | Basque <librezale@librezale.org> | 
+ | [mingw-gdk-pixbuf](/f34/package/mingw-gdk-pixbuf) | 1325 | 1325 | 100.0 | Basque <librezale@librezale.eus> | 
+ | [mingw-glib-networking](/f34/package/mingw-glib-networking) | 402 | 402 | 100.0 | Basque <librezale@librezale.eus> | 
+ | [mingw-glib2](/f34/package/mingw-glib2) | 7630 | 7630 | 100.0 | Basque <librezale@librezale.eus> | 
+ | [mingw-gtk-vnc](/f34/package/mingw-gtk-vnc) | 81 | 81 | 100.0 | Basque <itzulpena@euskalgnu.org> | 
+ | [mingw-gtk2](/f34/package/mingw-gtk2) | 11944 | 11944 | 100.0 | Basque <itzulpena@euskalgnu.org> | 
+ | [mingw-gtk3](/f34/package/mingw-gtk3) | 16731 | 16731 | 100.0 | Basque <librezale@librezale.eus> | 
+ | [mingw-gtksourceview3](/f34/package/mingw-gtksourceview3) | 322 | 322 | 100.0 | Basque <librezale@librezale.eus> | 
+ | [mingw-gtkspell3](/f34/package/mingw-gtkspell3) | 15 | 15 | 100.0 | Basque <translation-team-eu@lists.sourceforge.net> | 
+ | [mingw-json-glib](/f34/package/mingw-json-glib) | 307 | 307 | 100.0 | Basque <librezale@librezale.eus> | 
+ | [mingw-libgovirt](/f34/package/mingw-libgovirt) | 102 | 102 | 100.0 | Basque <librezale@librezale.org> | 
+ | [mingw-libgsf](/f34/package/mingw-libgsf) | 719 | 719 | 100.0 | Basque <librezale@librezale.org> | 
+ | [mingw-libsoup](/f34/package/mingw-libsoup) | 183 | 183 | 100.0 | Basque <librezale@librezale.eus> | 
+ | [mousepad](/f34/package/mousepad) | 1593 | 1593 | 100.0 | Basque (http://www.transifex.com/xfce/xfce-apps/language/eu/) | 
+ | [mousetweaks](/f34/package/mousetweaks) | 114 | 114 | 100.0 | Basque <itzulpena@euskalgnu.org> | 
+ | [msitools](/f34/package/msitools) | 71 | 71 | 100.0 | Basque <librezale@librezale.org> | 
+ | [muffin](/f34/package/muffin) | 2043 | 2043 | 100.0 | American English <itzulpena@euskalgnu.org> | 
+ | [multimedia-menus](/f34/package/multimedia-menus) | 56 | 56 | 100.0 | eu | 
+ | [mutter](/f34/package/mutter) | 1315 | 1315 | 100.0 | Basque <librezale@librezale.eus> | 
+ | [mutter3.38](/f34/package/mutter3.38) | 1273 | 1273 | 100.0 | Basque <librezale@librezale.eus> | 
+ | [nautilus](/f34/package/nautilus) | 5525 | 5525 | 100.0 | Basque <librezale@librezale.eus> | 
+ | [nemiver](/f34/package/nemiver) | 1341 | 1341 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [nemo-extensions](/f34/package/nemo-extensions) | 258 | 258 | 100.0 | Basque <eu@li.org> | 
+ | [newt](/f34/package/newt) | 4 | 4 | 100.0 | Vasco <librezale@librezale.org> | 
+ | [notification-daemon](/f34/package/notification-daemon) | 17 | 17 | 100.0 | Basque <itzulpena@euskalgnu.org> | 
+ | [okular](/f34/package/okular) | 5244 | 5244 | 100.0 | Basque <kde-i18n-eu@kde.org> | 
+ | [orca](/f34/package/orca) | 5732 | 5732 | 100.0 | Basque <librezale@librezale.eus> | 
+ | [palapeli](/f34/package/palapeli) | 1513 | 1513 | 100.0 | Basque <kde-i18n-eu@kde.org> | 
+ | [parole](/f34/package/parole) | 1157 | 1157 | 100.0 | Basque (http://www.transifex.com/xfce/xfce-apps/language/eu/) | 
+ | [pbuilder](/f34/package/pbuilder) | 96 | 96 | 100.0 | basque <debian-l10n-basque@lists.debian.org> | 
+ | [peek](/f34/package/peek) | 564 | 564 | 100.0 | Basque <https://hosted.weblate.org/projects/peek/translations/eu/> | 
+ | [phodav](/f34/package/phodav) | 63 | 63 | 100.0 | Basque <librezale@librezale.eus> | 
+ | [phonon](/f34/package/phonon) | 327 | 327 | 100.0 | Basque <kde-i18n-eu@kde.org> | 
+ | [phonon-backend-gstreamer](/f34/package/phonon-backend-gstreamer) | 104 | 104 | 100.0 | Basque <kde-i18n-eu@kde.org> | 
+ | [phonon-qt4](/f34/package/phonon-qt4) | 116 | 116 | 100.0 | Basque <kde-i18n-eu@kde.org> | 
+ | [phonon-qt4-backend-gstreamer](/f34/package/phonon-qt4-backend-gstreamer) | 104 | 104 | 100.0 | Basque <kde-i18n-eu@kde.org> | 
+ | [php-horde-Horde-Alarm](/f34/package/php-horde-Horde-Alarm) | 13 | 13 | 100.0 | i18n@lists.horde.org | 
+ | [php-horde-Horde-Cli](/f34/package/php-horde-Horde-Cli) | 16 | 16 | 100.0 | i18n@lists.horde.org | 
+ | [php-horde-Horde-Compress](/f34/package/php-horde-Horde-Compress) | 25 | 25 | 100.0 | i18n@lists.horde.org | 
+ | [php-horde-Horde-Core](/f34/package/php-horde-Horde-Core) | 1037 | 1037 | 100.0 | i18n@lists.horde.org | 
+ | [php-horde-Horde-Data](/f34/package/php-horde-Horde-Data) | 53 | 53 | 100.0 | i18n@lists.horde.org | 
+ | [php-horde-Horde-Date](/f34/package/php-horde-Horde-Date) | 42 | 42 | 100.0 | i18n@lists.horde.org | 
+ | [php-horde-Horde-Exception](/f34/package/php-horde-Horde-Exception) | 4 | 4 | 100.0 | Euskal Herriko Unibertsitatea <webmaster@ehu.es> | 
+ | [php-horde-Horde-Icalendar](/f34/package/php-horde-Horde-Icalendar) | 3 | 3 | 100.0 | Euskal Herriko Unibertsitatea <webmaster@ehu.es> | 
+ | [php-horde-Horde-Imsp](/f34/package/php-horde-Horde-Imsp) | 3 | 3 | 100.0 | Euskal Herriko Unibertsitatea <webmaster@ehu.es> | 
+ | [php-horde-Horde-Itip](/f34/package/php-horde-Horde-Itip) | 56 | 56 | 100.0 | Euskal Herriko Unibertsitatea <webmaster@ehu.es> | 
+ | [php-horde-Horde-LoginTasks](/f34/package/php-horde-Horde-LoginTasks) | 6 | 6 | 100.0 | Euskal Herriko Unibertsitatea <webmaster@ehu.es> | 
+ | [php-horde-Horde-Mime](/f34/package/php-horde-Horde-Mime) | 42 | 42 | 100.0 | Euskal Herriko Unibertsitatea <webmaster@ehu.es> | 
+ | [php-horde-Horde-Mime-Viewer](/f34/package/php-horde-Horde-Mime-Viewer) | 47 | 47 | 100.0 | Euskal Herriko Unibertsitatea <webmaster@ehu.es> | 
+ | [php-horde-Horde-Perms](/f34/package/php-horde-Horde-Perms) | 17 | 17 | 100.0 | Euskal Herriko Unibertsitatea <webmaster@ehu.es> | 
+ | [php-horde-Horde-Prefs](/f34/package/php-horde-Horde-Prefs) | 30 | 30 | 100.0 | Euskal Herriko Unibertsitatea <webmaster@ehu.es> | 
+ | [php-horde-Horde-Share](/f34/package/php-horde-Horde-Share) | 8 | 8 | 100.0 | Euskal Herriko Unibertsitatea <webmaster@ehu.es> | 
+ | [php-horde-Horde-SyncMl](/f34/package/php-horde-Horde-SyncMl) | 3 | 3 | 100.0 | Euskal Herriko Unibertsitatea <webmaster@ehu.es> | 
+ | [php-horde-Horde-Text-Filter](/f34/package/php-horde-Horde-Text-Filter) | 1 | 1 | 100.0 | Euskal Herriko Unibertsitatea <webmaster@ehu.es> | 
+ | [php-horde-Horde-Vfs](/f34/package/php-horde-Horde-Vfs) | 10 | 10 | 100.0 | Euskal Herriko Unibertsitatea <webmaster@ehu.es> | 
+ | [php-horde-horde](/f34/package/php-horde-horde) | 3508 | 3508 | 100.0 | Euskal Herriko Unibertsitatea <webmaster@ehu.es> | 
+ | [php-horde-imp](/f34/package/php-horde-imp) | 6873 | 6873 | 100.0 | Euskal Herriko Unibertsitatea <webmaster@ehu.eus> | 
+ | [php-horde-ingo](/f34/package/php-horde-ingo) | 1017 | 1017 | 100.0 | Euskal Herriko Unibertsitatea <webmaster@ehu.es> | 
+ | [php-horde-kronolith](/f34/package/php-horde-kronolith) | 3858 | 3858 | 100.0 | Euskal Herriko Unibertsitatea <webmaster@ehu.es> | 
+ | [php-horde-mnemo](/f34/package/php-horde-mnemo) | 579 | 579 | 100.0 | Euskal Herriko Unibertsitatea <webmaster@ehu.es> | 
+ | [php-horde-nag](/f34/package/php-horde-nag) | 1637 | 1637 | 100.0 | Euskal Herriko Unibertsitatea <webmaster@ehu.es> | 
+ | [php-horde-turba](/f34/package/php-horde-turba) | 1873 | 1873 | 100.0 | Euskal Herriko Unibertsitatea <webmaster@ehu.es> | 
+ | [picmi](/f34/package/picmi) | 200 | 200 | 100.0 | Basque <kde-i18n-eu@kde.org> | 
+ | [plank](/f34/package/plank) | 189 | 189 | 100.0 | Basque <eu@li.org> | 
+ | [plasma-breeze](/f34/package/plasma-breeze) | 243 | 243 | 100.0 | Basque <kde-i18n-eu@kde.org> | 
+ | [plasma-browser-integration](/f34/package/plasma-browser-integration) | 701 | 701 | 100.0 | Basque <kde-i18n-eu@kde.org> | 
+ | [plasma-desktop](/f34/package/plasma-desktop) | 8150 | 8150 | 100.0 | Basque | 
+ | [plasma-discover](/f34/package/plasma-discover) | 1982 | 1982 | 100.0 | Basque <kde-i18n-eu@kde.org> | 
+ | [plasma-disks](/f34/package/plasma-disks) | 215 | 215 | 100.0 | Basque <kde-i18n-eu@kde.org> | 
+ | [plasma-drkonqi](/f34/package/plasma-drkonqi) | 4052 | 4052 | 100.0 | Basque <kde-i18n-eu@kde.org> | 
+ | [plasma-firewall](/f34/package/plasma-firewall) | 402 | 402 | 100.0 | Basque <kde-i18n-eu@kde.org> | 
+ | [plasma-integration](/f34/package/plasma-integration) | 58 | 58 | 100.0 | Basque <kde-i18n-doc@kde.org> | 
+ | [plasma-milou](/f34/package/plasma-milou) | 10 | 10 | 100.0 | Basque <kde-i18n-doc@kde.org> | 
+ | [plasma-nm](/f34/package/plasma-nm) | 5317 | 5317 | 100.0 | Basque <kde-i18n-eu@kde.org> | 
+ | [plasma-oxygen](/f34/package/plasma-oxygen) | 805 | 805 | 100.0 | Basque <kde-i18n-doc@kde.org> | 
+ | [plasma-pa](/f34/package/plasma-pa) | 235 | 235 | 100.0 | Basque <kde-i18n-eu@kde.org> | 
+ | [plasma-sdk](/f34/package/plasma-sdk) | 838 | 838 | 100.0 | Basque <kde-i18n-eu@kde.org> | 
+ | [plasma-systemsettings](/f34/package/plasma-systemsettings) | 218 | 218 | 100.0 | Basque <kde-i18n-eu@kde.org> | 
+ | [plasma-thunderbolt](/f34/package/plasma-thunderbolt) | 178 | 178 | 100.0 | Basque <kde-i18n-eu@kde.org> | 
+ | [plasma-vault](/f34/package/plasma-vault) | 874 | 874 | 100.0 | Basque <kde-i18n-eu@kde.org> | 
+ | [plymouth](/f34/package/plymouth) | 16 | 16 | 100.0 | Basque <https://translate.fedoraproject.org/projects/plymouth/master/eu/> | 
+ | [plymouth-kcm](/f34/package/plymouth-kcm) | 112 | 112 | 100.0 | Basque <kde-i18n-eu@kde.org> | 
+ | [polari](/f34/package/polari) | 867 | 867 | 100.0 | Basque <librezale@librezale.eus> | 
+ | [polkit-gnome](/f34/package/polkit-gnome) | 94 | 94 | 100.0 | Basque <itzulpena@euskalgnu.org> | 
+ | [polkit-kde](/f34/package/polkit-kde) | 95 | 95 | 100.0 | Basque <kde-i18n-eu@kde.org> | 
+ | [powerdevil](/f34/package/powerdevil) | 642 | 642 | 100.0 | Basque <kde-i18n-doc@kde.org> | 
+ | [python-SecretStorage](/f34/package/python-SecretStorage) | 59 | 59 | 100.0 | Basque <librezale@librezale.org> | 
+ | [python-caja](/f34/package/python-caja) | 6 | 6 | 100.0 | Basque (https://www.transifex.com/mate/teams/13566/eu/) | 
+ | [python-django-formtools](/f34/package/python-django-formtools) | 32 | 32 | 100.0 | Basque (http://www.transifex.com/django/django-formtools/language/eu/) | 
+ | [qtwebkit](/f34/package/qtwebkit) | 1093 | 1093 | 100.0 | Basque <itzulpena@euskalgnu.org> | 
+ | [rhythmbox](/f34/package/rhythmbox) | 8812 | 8812 | 100.0 | Basque <itzulpena@euskalgnu.org> | 
+ | [rygel](/f34/package/rygel) | 1641 | 1641 | 100.0 | Basque <librezale@librezale.eus> | 
+ | [schroot](/f34/package/schroot) | 1665 | 1665 | 100.0 | Basque <librezale@librezale.org> | 
+ | [sddm-kcm](/f34/package/sddm-kcm) | 185 | 185 | 100.0 | Basque <kde-i18n-eu@kde.org> | 
+ | [seahorse](/f34/package/seahorse) | 2631 | 2631 | 100.0 | Basque <librezale@librezale.eus> | 
+ | [seahorse-caja](/f34/package/seahorse-caja) | 421 | 421 | 100.0 | American English <kde-i18n-doc@kde.org> | 
+ | [seahorse-nautilus](/f34/package/seahorse-nautilus) | 421 | 421 | 100.0 | American English <kde-i18n-doc@kde.org> | 
+ | [shutter](/f34/package/shutter) | 3093 | 3093 | 100.0 | Basque <eu@li.org> | 
+ | [simple-scan](/f34/package/simple-scan) | 2205 | 2205 | 100.0 | Basque <librezale@librezale.eus> | 
+ | [slick-greeter](/f34/package/slick-greeter) | 211 | 211 | 100.0 | Basque <eu@li.org> | 
+ | [smb4k](/f34/package/smb4k) | 6436 | 6436 | 100.0 | Basque <kde-i18n-eu@kde.org> | 
+ | [spectacle](/f34/package/spectacle) | 897 | 897 | 100.0 | Basque <kde-i18n-eu@kde.org> | 
+ | [squirrelmail](/f34/package/squirrelmail) | 7662 | 7662 | 100.0 | Basque <squirrelmail-i18n@lists.sourceforge.net> | 
+ | [sushi](/f34/package/sushi) | 54 | 54 | 100.0 | Basque <librezale@librezale.eus> | 
+ | [svgpart](/f34/package/svgpart) | 22 | 22 | 100.0 | Basque <itzulpena@euskalgnu.org> | 
+ | [sweeper](/f34/package/sweeper) | 228 | 228 | 100.0 | Basque <kde-i18n-eu@kde.org> | 
+ | [swell-foop](/f34/package/swell-foop) | 1645 | 1645 | 100.0 | Basque <itzulpena@euskalgnu.org> | 
+ | [sylpheed](/f34/package/sylpheed) | 7214 | 7214 | 100.0 | (EUS_Xabiera Aramendi) <azpidatziak@gmail.com> | 
+ | [sysprof](/f34/package/sysprof) | 834 | 834 | 100.0 | Basque <librezale@librezale.eus> | 
+ | [sysstat](/f34/package/sysstat) | 587 | 587 | 100.0 | Basque <translation-team-eu@lists.sourceforge.net> | 
+ | [tali](/f34/package/tali) | 2427 | 2427 | 100.0 | Basque <librezale@librezale.eus> | 
+ | [tepl](/f34/package/tepl) | 294 | 294 | 100.0 | Basque <librezale@librezale.eus> | 
+ | [thunar-archive-plugin](/f34/package/thunar-archive-plugin) | 86 | 86 | 100.0 | Basque (http://www.transifex.com/xfce/thunar-plugins/language/eu/) | 
+ | [thunar-media-tags-plugin](/f34/package/thunar-media-tags-plugin) | 156 | 156 | 100.0 | Basque (http://www.transifex.com/xfce/thunar-plugins/language/eu/) | 
+ | [thunar-volman](/f34/package/thunar-volman) | 484 | 484 | 100.0 | Basque (http://www.transifex.com/xfce/thunar-volman/language/eu/) | 
+ | [tomboy](/f34/package/tomboy) | 6616 | 6616 | 100.0 | Basque <itzulpena@euskalgnu.org> | 
+ | [toppler](/f34/package/toppler) | 552 | 552 | 100.0 | Euskara  <librezale@librezale.org> | 
+ | [totem](/f34/package/totem) | 3966 | 3966 | 100.0 | Basque <itzulpena@euskalgnu.org> | 
+ | [totem-pl-parser](/f34/package/totem-pl-parser) | 29 | 29 | 100.0 | Basque <librezale@librezale.eus> | 
+ | [tracker](/f34/package/tracker) | 580 | 580 | 100.0 | Basque <librezale@librezale.eus> | 
+ | [tracker-miners](/f34/package/tracker-miners) | 1810 | 1810 | 100.0 | Basque <librezale@librezale.eus> | 
+ | [tumbler](/f34/package/tumbler) | 241 | 241 | 100.0 | Basque (http://www.transifex.com/xfce/tumbler/language/eu/) | 
+ | [vte](/f34/package/vte) | 80 | 80 | 100.0 | Basque <itzulpena@euskalgnu.org> | 
+ | [vte291](/f34/package/vte291) | 46 | 46 | 100.0 | Basque <librezale@librezale.eus> | 
+ | [wike](/f34/package/wike) | 459 | 459 | 100.0 |  | 
+ | [xapps](/f34/package/xapps) | 73 | 73 | 100.0 | Basque <eu@li.org> | 
+ | [xarchiver](/f34/package/xarchiver) | 1214 | 1214 | 100.0 | Euskara <librezale@librezale.eus> | 
+ | [xawtv](/f34/package/xawtv) | 126 | 126 | 100.0 | Euskara <Librezale@librezale.org> | 
+ | [xdg-user-dirs](/f34/package/xdg-user-dirs) | 28 | 28 | 100.0 | Basque <translation-team-eu@lists.sourceforge.net> | 
+ | [xdg-user-dirs-gtk](/f34/package/xdg-user-dirs-gtk) | 81 | 81 | 100.0 | Basque <itzulpena@euskalgnu.org> | 
+ | [xed](/f34/package/xed) | 3760 | 3760 | 100.0 | Basque (http://www.transifex.com/projects/p/MATE/language/eu/) | 
+ | [xfce4-battery-plugin](/f34/package/xfce4-battery-plugin) | 147 | 147 | 100.0 | Basque (http://www.transifex.com/xfce/xfce-panel-plugins/language/eu/) | 
+ | [xfce4-calculator-plugin](/f34/package/xfce4-calculator-plugin) | 42 | 42 | 100.0 | Basque (https://www.transifex.com/xfce/teams/16840/eu/) | 
+ | [xfce4-cpufreq-plugin](/f34/package/xfce4-cpufreq-plugin) | 174 | 174 | 100.0 | Basque (http://www.transifex.com/xfce/xfce-panel-plugins/language/eu/) | 
+ | [xfce4-datetime-plugin](/f34/package/xfce4-datetime-plugin) | 52 | 52 | 100.0 | Basque (http://www.transifex.com/xfce/xfce-panel-plugins/language/eu/) | 
+ | [xfce4-diskperf-plugin](/f34/package/xfce4-diskperf-plugin) | 181 | 181 | 100.0 | Basque (http://www.transifex.com/xfce/xfce-panel-plugins/language/eu/) | 
+ | [xfce4-eyes-plugin](/f34/package/xfce4-eyes-plugin) | 16 | 16 | 100.0 | Basque (http://www.transifex.com/xfce/xfce-panel-plugins/language/eu/) | 
+ | [xfce4-fsguard-plugin](/f34/package/xfce4-fsguard-plugin) | 71 | 71 | 100.0 | Basque (http://www.transifex.com/xfce/xfce-panel-plugins/language/eu/) | 
+ | [xfce4-genmon-plugin](/f34/package/xfce4-genmon-plugin) | 100 | 100 | 100.0 | Basque (http://www.transifex.com/xfce/xfce-panel-plugins/language/eu/) | 
+ | [xfce4-mpc-plugin](/f34/package/xfce4-mpc-plugin) | 78 | 78 | 100.0 | Basque (http://www.transifex.com/xfce/xfce-panel-plugins/language/eu/) | 
+ | [xfce4-netload-plugin](/f34/package/xfce4-netload-plugin) | 91 | 91 | 100.0 | Basque (http://www.transifex.com/xfce/xfce-panel-plugins/language/eu/) | 
+ | [xfce4-notes-plugin](/f34/package/xfce4-notes-plugin) | 169 | 169 | 100.0 | Basque (http://www.transifex.com/xfce/xfce-panel-plugins/language/eu/) | 
+ | [xfce4-notifyd](/f34/package/xfce4-notifyd) | 98 | 98 | 100.0 | Basque <kde-i18n-doc@kde.org> | 
+ | [xfce4-panel](/f34/package/xfce4-panel) | 1847 | 1847 | 100.0 | Basque (https://www.transifex.com/xfce/teams/16840/eu/) | 
+ | [xfce4-panel-profiles](/f34/package/xfce4-panel-profiles) | 99 | 99 | 100.0 | Basque (https://www.transifex.com/xfce/teams/16840/eu/) | 
+ | [xfce4-places-plugin](/f34/package/xfce4-places-plugin) | 162 | 162 | 100.0 | Basque (http://www.transifex.com/xfce/xfce-panel-plugins/language/eu/) | 
+ | [xfce4-pulseaudio-plugin](/f34/package/xfce4-pulseaudio-plugin) | 148 | 148 | 100.0 | Basque (http://www.transifex.com/xfce/xfce-panel-plugins/language/eu/) | 
+ | [xfce4-screensaver](/f34/package/xfce4-screensaver) | 696 | 696 | 100.0 | Basque (https://www.transifex.com/xfce/teams/16840/eu/) | 
+ | [xfce4-screenshooter](/f34/package/xfce4-screenshooter) | 529 | 529 | 100.0 | Basque (http://www.transifex.com/xfce/xfce-apps/language/eu/) | 
+ | [xfce4-session](/f34/package/xfce4-session) | 756 | 756 | 100.0 | Basque (http://www.transifex.com/xfce/xfce4-session/language/eu/) | 
+ | [xfce4-settings](/f34/package/xfce4-settings) | 2426 | 2426 | 100.0 | Basque (https://www.transifex.com/xfce/teams/16840/eu/) | 
+ | [xfce4-smartbookmark-plugin](/f34/package/xfce4-smartbookmark-plugin) | 22 | 22 | 100.0 | Basque (http://www.transifex.com/xfce/xfce-panel-plugins/language/eu/) | 
+ | [xfce4-systemload-plugin](/f34/package/xfce4-systemload-plugin) | 87 | 87 | 100.0 | Basque (http://www.transifex.com/xfce/xfce-panel-plugins/language/eu/) | 
+ | [xfce4-time-out-plugin](/f34/package/xfce4-time-out-plugin) | 115 | 115 | 100.0 | Basque (http://www.transifex.com/xfce/xfce-panel-plugins/language/eu/) | 
+ | [xfce4-verve-plugin](/f34/package/xfce4-verve-plugin) | 47 | 47 | 100.0 | Librezale <xfce-i18n@xfce.org> | 
+ | [xfce4-whiskermenu-plugin](/f34/package/xfce4-whiskermenu-plugin) | 387 | 387 | 100.0 | Basque (http://www.transifex.com/gottcode/xfce4-whiskermenu-plugin/language/eu/) | 
+ | [xfconf](/f34/package/xfconf) | 458 | 458 | 100.0 | Basque (http://www.transifex.com/xfce/xfconf/language/eu/) | 
+ | [xfmpc](/f34/package/xfmpc) | 175 | 175 | 100.0 | Basque (http://www.transifex.com/xfce/xfce-apps/language/eu/) | 
+ | [xournalpp](/f34/package/xournalpp) | 4034 | 4034 | 100.0 | Basque | 
+ | [xreader](/f34/package/xreader) | 3387 | 3387 | 100.0 | Basque <itzulpena@euskalgnu.org> | 
+ | [yakuake](/f34/package/yakuake) | 1674 | 1674 | 100.0 | Basque <kde-i18n-eu@kde.org> | 
+ | [yelp](/f34/package/yelp) | 348 | 348 | 100.0 | Basque <librezale@librezale.eus> | 
+ | [yelp-xsl](/f34/package/yelp-xsl) | 88 | 88 | 100.0 | Basque <librezale@librezale.eus> | 
+ | [zenity](/f34/package/zenity) | 3221 | 3221 | 100.0 | Basque <itzulpena@euskalgnu.org> | 
+ | [kmplot](/f34/package/kmplot) | 2491 | 2493 | 99.9 | Basque <kde-i18n-eu@kde.org> | 
+ | [boinc-client](/f34/package/boinc-client) | 21155 | 21183 | 99.9 | Basque (http://www.transifex.com/boinc/boinc/language/eu/) | 
+ | [kget](/f34/package/kget) | 2936 | 2940 | 99.9 | Basque <kde-i18n-eu@kde.org> | 
+ | [regexxer](/f34/package/regexxer) | 466 | 467 | 99.8 | Basque <itzulpena@euskalgnu.org> | 
+ | [kubrick](/f34/package/kubrick) | 1202 | 1205 | 99.8 | Basque <kde-i18n-eu@kde.org> | 
+ | [klavaro](/f34/package/klavaro) | 1888 | 1893 | 99.7 | Basque <translation-team-eu@googlegroups.com> | 
+ | [libksysguard](/f34/package/libksysguard) | 4090 | 4102 | 99.7 | Basque <kde-i18n-eu@kde.org> | 
+ | [Zim](/f34/package/Zim) | 3284 | 3295 | 99.7 | Basque <https://hosted.weblate.org/projects/zim/master/eu/> | 
+ | [cinnamon-translations](/f34/package/cinnamon-translations) | 23179 | 23274 | 99.6 | Basque <eu@li.org> | 
+ | [pcmanfm](/f34/package/pcmanfm) | 1210 | 1215 | 99.6 | LANGUAGE <LL@li.org> | 
+ | [xfce4-dict](/f34/package/xfce4-dict) | 526 | 529 | 99.4 | Basque (http://www.transifex.com/xfce/xfce-apps/language/eu/) | 
+ | [ristretto](/f34/package/ristretto) | 635 | 639 | 99.4 | Basque (http://www.transifex.com/xfce/xfce-apps/language/eu/) | 
+ | [rekonq](/f34/package/rekonq) | 2187 | 2202 | 99.3 | Basque <kde-i18n-doc@kde.org> | 
+ | [kf5-solid](/f34/package/kf5-solid) | 559 | 563 | 99.3 | Basque <kde-i18n-eu@kde.org> | 
+ | [kf5-kio](/f34/package/kf5-kio) | 11799 | 11885 | 99.3 | Basque <kde-i18n-eu@kde.org> | 
+ | [xfce4-mount-plugin](/f34/package/xfce4-mount-plugin) | 380 | 383 | 99.2 | Basque (http://www.transifex.com/xfce/xfce-panel-plugins/language/eu/) | 
+ | [kigo](/f34/package/kigo) | 500 | 504 | 99.2 | Basque <kde-i18n-eu@kde.org> | 
+ | [kf5-syntax-highlighting](/f34/package/kf5-syntax-highlighting) | 607 | 612 | 99.2 | Basque <kde-i18n-eu@kde.org> | 
+ | [kreversi](/f34/package/kreversi) | 425 | 429 | 99.1 | Basque <kde-i18n-doc@kde.org> | 
+ | [kwin](/f34/package/kwin) | 5735 | 5795 | 99.0 | Basque <kde-i18n-eu@kde.org> | 
+ | [libfm](/f34/package/libfm) | 1558 | 1575 | 98.9 | LANGUAGE <LL@li.org> | 
+ | [kcachegrind](/f34/package/kcachegrind) | 1714 | 1736 | 98.7 | Basque <kde-i18n-doc@kde.org> | 
+ | [kde-connect](/f34/package/kde-connect) | 1245 | 1262 | 98.7 | Basque <kde-i18n-eu@kde.org> | 
+ | [shotwell](/f34/package/shotwell) | 6880 | 6977 | 98.6 | Basque <librezale@librezale.eus> | 
+ | [mingw-wxWidgets3](/f34/package/mingw-wxWidgets3) | 7587 | 7695 | 98.6 | (EUS_Xabier Aramendi) <azpidatziak@gmail.com> | 
+ | [python-wxpython4](/f34/package/python-wxpython4) | 7587 | 7695 | 98.6 | (EUS_Xabier Aramendi) <azpidatziak@gmail.com> | 
+ | [wxGTK3](/f34/package/wxGTK3) | 7587 | 7695 | 98.6 | (EUS_Xabier Aramendi) <azpidatziak@gmail.com> | 
+ | [kf5-kcoreaddons](/f34/package/kf5-kcoreaddons) | 523 | 531 | 98.5 | Basque <kde-i18n-eu@kde.org> | 
+ | [tuxpaint-stamps](/f34/package/tuxpaint-stamps) | 3196 | 3249 | 98.4 | Basque <es@li.org> | 
+ | [kf5-kxmlgui](/f34/package/kf5-kxmlgui) | 1535 | 1563 | 98.2 | Basque <kde-i18n-eu@kde.org> | 
+ | [kspaceduel](/f34/package/kspaceduel) | 162 | 165 | 98.2 | Basque <itzulpena@euskalgnu.org> | 
+ | [gegl04](/f34/package/gegl04) | 10043 | 10234 | 98.1 | Basque <librezale@librezale.eus> | 
+ | [gimp](/f34/package/gimp) | 38591 | 39400 | 97.9 | Basque <librezale@librezale.eus> | 
+ | [kf5-libksane](/f34/package/kf5-libksane) | 284 | 290 | 97.9 | Basque <kde-i18n-eu@kde.org> | 
+ | [wxGTK](/f34/package/wxGTK) | 7351 | 7508 | 97.9 | (EUS_Xabier Aramendi) <azpidatziak@gmail.com> | 
+ | [plasma-workspace](/f34/package/plasma-workspace) | 11312 | 11558 | 97.9 | Basque <kde-i18n-eu@kde.org> | 
+ | [mate-menu](/f34/package/mate-menu) | 301 | 308 | 97.7 | Basque (http://www.transifex.com/mate/MATE/language/eu/) | 
+ | [ksquares](/f34/package/ksquares) | 251 | 257 | 97.7 | Basque <itzulpena@euskalgnu.org> | 
+ | [kf5-sonnet](/f34/package/kf5-sonnet) | 667 | 683 | 97.7 | Basque <kde-i18n-eu@kde.org> | 
+ | [kf5-kconfigwidgets](/f34/package/kf5-kconfigwidgets) | 332 | 340 | 97.6 | Basque <kde-i18n-eu@kde.org> | 
+ | [eog-plugins](/f34/package/eog-plugins) | 406 | 416 | 97.6 | Basque <librezale@librezale.eus> | 
+ | [lyx](/f34/package/lyx) | 25072 | 25702 | 97.5 | Basque <librezale@librezale.eus> | 
+ | [krdc](/f34/package/krdc) | 1147 | 1176 | 97.5 | Basque <kde-i18n-eu@kde.org> | 
+ | [gigolo](/f34/package/gigolo) | 455 | 467 | 97.4 | Basque (http://www.transifex.com/xfce/xfce-apps/language/eu/) | 
+ | [xfce4-power-manager](/f34/package/xfce4-power-manager) | 1026 | 1057 | 97.1 | Basque (http://www.transifex.com/xfce/xfce4-power-manager/language/eu/) | 
+ | [pinfo](/f34/package/pinfo) | 311 | 321 | 96.9 | librezale.org <librezale@librezale.org> | 
+ | [kdeplasma-addons](/f34/package/kdeplasma-addons) | 1606 | 1658 | 96.9 | Basque <kde-i18n-eu@kde.org> | 
+ | [shared-mime-info](/f34/package/shared-mime-info) | 1991 | 2058 | 96.7 | Basque (http://www.transifex.com/freedesktop/shared-mime-info/language/eu/) | 
+ | [kphotoalbum](/f34/package/kphotoalbum) | 9152 | 9473 | 96.6 | Basque <kde-i18n-doc@kde.org> | 
+ | [cinnamon-desktop](/f34/package/cinnamon-desktop) | 226 | 234 | 96.6 | Basque <itzulpena@euskalgnu.org> | 
+ | [khotkeys](/f34/package/khotkeys) | 435 | 451 | 96.5 | Basque <kde-i18n-eu@kde.org> | 
+ | [xdg-desktop-portal-kde](/f34/package/xdg-desktop-portal-kde) | 133 | 138 | 96.4 | Basque <kde-i18n-eu@kde.org> | 
+ | [drgeo](/f34/package/drgeo) | 1912 | 1985 | 96.3 | <itzulpena@euskalgnu.org> | 
+ | [skanlite](/f34/package/skanlite) | 176 | 183 | 96.2 | Basque <kde-i18n-eu@kde.org> | 
+ | [gnome-commander](/f34/package/gnome-commander) | 10288 | 10708 | 96.1 | Basque <librezale@librezale.eus> | 
+ | [kio-extras](/f34/package/kio-extras) | 1112 | 1158 | 96.0 | Basque <kde-i18n-eu@kde.org> | 
+ | [kmymoney](/f34/package/kmymoney) | 21200 | 22091 | 96.0 | Basque <kde-i18n-eu@kde.org> | 
+ | [libmatemixer](/f34/package/libmatemixer) | 232 | 242 | 95.9 | Basque (https://www.transifex.com/mate/teams/13566/eu/) | 
+ | [gnome-chemistry-utils](/f34/package/gnome-chemistry-utils) | 4365 | 4563 | 95.7 | LANGUAGE <LL@li.org> | 
+ | [mozo](/f34/package/mozo) | 44 | 46 | 95.7 | Basque (https://www.transifex.com/mate/teams/13566/eu/) | 
+ | [lxpanel](/f34/package/lxpanel) | 1335 | 1399 | 95.4 | Basque <alainmendi@gmail.com> | 
+ | [network-manager-applet](/f34/package/network-manager-applet) | 4108 | 4305 | 95.4 | Basque <librezale@librezale.eus> | 
+ | [kf5-knotifications](/f34/package/kf5-knotifications) | 20 | 21 | 95.2 | Basque <kde-i18n-eu@kde.org> | 
+ | [mate-menus](/f34/package/mate-menus) | 98 | 103 | 95.1 | Basque (https://www.transifex.com/mate/teams/13566/eu/) | 
+ | [ccsm](/f34/package/ccsm) | 561 | 591 | 94.9 | Euskara <librezale@librezale.org> | 
+ | [audacity](/f34/package/audacity) | 34198 | 36052 | 94.9 | Basque (https://www.transifex.com/librezale/teams/76773/eu/) | 
+ | [openbox](/f34/package/openbox) | 479 | 506 | 94.7 | Inko I. A. <inkoia@gmail.com> | 
+ | [mc](/f34/package/mc) | 4058 | 4289 | 94.6 | Basque (http://www.transifex.com/mc/mc/language/eu/) | 
+ | [meld](/f34/package/meld) | 2349 | 2485 | 94.5 | Basque <librezale@librezale.eus> | 
+ | [kde-l10n](/f34/package/kde-l10n) | 92651 | 98113 | 94.4 | Basque <kde-i18n-doc@kde.org> | 
+ | [pitivi](/f34/package/pitivi) | 2221 | 2353 | 94.4 | Basque <librezale@librezale.eus> | 
+ | [kgeography](/f34/package/kgeography) | 9113 | 9670 | 94.2 | Basque <kde-i18n-eu@kde.org> | 
+ | [kiconedit](/f34/package/kiconedit) | 682 | 726 | 93.9 | Basque <kdeuskaraz@euskalgnu.org> | 
+ | [python-ase](/f34/package/python-ase) | 1318 | 1404 | 93.9 | Basque | 
+ | [lxterminal](/f34/package/lxterminal) | 199 | 212 | 93.9 | Basque <alainmendi@gmail.com> | 
+ | [emerald](/f34/package/emerald) | 652 | 696 | 93.7 | Basque <librezale@librezale.org> | 
+ | [ksnakeduel](/f34/package/ksnakeduel) | 222 | 237 | 93.7 | Basque <itzulpena@euskalgnu.org> | 
+ | [python-django-contrib-comments](/f34/package/python-django-contrib-comments) | 234 | 250 | 93.6 | Basque (http://www.transifex.com/django/django-contrib-comments/language/eu/) | 
+ | [lifeograph](/f34/package/lifeograph) | 976 | 1044 | 93.5 | Basque <eu@li.org> | 
+ | [cairo-dock](/f34/package/cairo-dock) | 6966 | 7464 | 93.3 | librezale.org | 
+ | [alsa-utils](/f34/package/alsa-utils) | 1751 | 1877 | 93.3 | Librezale <librezale@librezale.eus> | 
+ | [timeshift](/f34/package/timeshift) | 2800 | 3005 | 93.2 | Basque <eu@li.org> | 
+ | [klines](/f34/package/klines) | 92 | 99 | 92.9 | Basque <itzulpena@euskalgnu.org> | 
+ | [plasma-systemmonitor](/f34/package/plasma-systemmonitor) | 497 | 536 | 92.7 | Basque <kde-i18n-eu@kde.org> | 
+ | [calligra](/f34/package/calligra) | 27553 | 29739 | 92.6 | Basque <kde-i18n-doc@kde.org> | 
+ | [xmms](/f34/package/xmms) | 3177 | 3443 | 92.3 | Euskara <linux-eu@chanae.alphanet.ch> | 
+ | [kf5-ktexteditor](/f34/package/kf5-ktexteditor) | 7989 | 8678 | 92.1 | Basque | 
+ | [elisa-player](/f34/package/elisa-player) | 526 | 572 | 92.0 | Basque <kde-i18n-eu@kde.org> | 
+ | [gscan2pdf](/f34/package/gscan2pdf) | 1690 | 1840 | 91.8 | librezale.org | 
+ | [ktorrent](/f34/package/ktorrent) | 6976 | 7608 | 91.7 | Basque <itzulpena@euskalgnu.org> | 
+ | [python-nikola](/f34/package/python-nikola) | 86 | 94 | 91.5 | Basque (http://www.transifex.com/ralsina/nikola/language/eu/) | 
+ | [sound-juicer](/f34/package/sound-juicer) | 5693 | 6235 | 91.3 | Basque <itzulpena@euskalgnu.org> | 
+ | [kf5-kconfig](/f34/package/kf5-kconfig) | 262 | 287 | 91.3 | Basque <kde-i18n-eu@kde.org> | 
+ | [supertux](/f34/package/supertux) | 3177 | 3483 | 91.2 | Basque (http://www.transifex.com/arctic-games/supertux/language/eu/) | 
+ | [debconf](/f34/package/debconf) | 785 | 862 | 91.1 | Euskara | 
+ | [tuxpaint](/f34/package/tuxpaint) | 1590 | 1748 | 91.0 | librezale@librezale.org | 
+ | [kf5-purpose](/f34/package/kf5-purpose) | 270 | 298 | 90.6 | Basque <kde-i18n-eu@kde.org> | 
+ | [xfce4-sensors-plugin](/f34/package/xfce4-sensors-plugin) | 392 | 433 | 90.5 | Basque (http://www.transifex.com/xfce/xfce-panel-plugins/language/eu/) | 
+ | [xfce4-mailwatch-plugin](/f34/package/xfce4-mailwatch-plugin) | 623 | 689 | 90.4 | Basque (http://www.transifex.com/xfce/xfce-panel-plugins/language/eu/) | 
+ | [cervisia](/f34/package/cervisia) | 1461 | 1619 | 90.2 | basque <itzulpena@euskalgnu.org> | 
+ | [python-django](/f34/package/python-django) | 3372 | 3755 | 89.8 | Basque (http://www.transifex.com/django/django/language/eu/) | 
+ | [kdevelop](/f34/package/kdevelop) | 4838 | 5391 | 89.7 | <en@li.org> | 
+ | [kig](/f34/package/kig) | 7038 | 7855 | 89.6 | Basque <kde-i18n-eu@kde.org> | 
+ | [mate-media](/f34/package/mate-media) | 214 | 239 | 89.5 | Basque (https://www.transifex.com/mate/teams/13566/eu/) | 
+ | [xfce4-cpugraph-plugin](/f34/package/xfce4-cpugraph-plugin) | 162 | 181 | 89.5 | Basque (http://www.transifex.com/xfce/xfce-panel-plugins/language/eu/) | 
+ | [mate-screensaver](/f34/package/mate-screensaver) | 981 | 1101 | 89.1 | Basque (https://www.transifex.com/mate/teams/13566/eu/) | 
+ | [deja-dup](/f34/package/deja-dup) | 3099 | 3486 | 88.9 | Basque <eu@li.org> | 
+ | [libkomparediff2](/f34/package/libkomparediff2) | 127 | 143 | 88.8 | Basque <itzulpena@euskalgnu.org> | 
+ | [gnome-control-center](/f34/package/gnome-control-center) | 6336 | 7145 | 88.7 | Basque <librezale@librezale.eus> | 
+ | [mingw-gstreamer](/f34/package/mingw-gstreamer) | 1697 | 1917 | 88.5 | Basque <translation-team-eu@lists.sourceforge.net> | 
+ | [pinta](/f34/package/pinta) | 1545 | 1746 | 88.5 | Basque <eu@li.org> | 
+ | [xfwm4](/f34/package/xfwm4) | 584 | 660 | 88.5 | Basque (http://www.transifex.com/xfce/xfwm4/language/eu/) | 
+ | [klettres](/f34/package/klettres) | 387 | 438 | 88.4 | Basque <itzulpena@euskalgnu.org> | 
+ | [fpm2](/f34/package/fpm2) | 708 | 806 | 87.8 |  | 
+ | [mate-backgrounds](/f34/package/mate-backgrounds) | 48 | 55 | 87.3 | Basque (https://www.transifex.com/mate/teams/13566/eu/) | 
+ | [kate](/f34/package/kate) | 5960 | 6842 | 87.1 | Basque <kde-i18n-eu@kde.org> | 
+ | [l3afpad](/f34/package/l3afpad) | 113 | 130 | 86.9 | Basque <translation-team-eu@lists.sourceforge.net> | 
+ | [supertuxkart](/f34/package/supertuxkart) | 5140 | 5918 | 86.9 | Basque (http://www.transifex.com/supertuxkart/supertuxkart/language/eu/) | 
+ | [asunder](/f34/package/asunder) | 427 | 492 | 86.8 | Basque <LL@li.org> | 
+ | [plasma-pass](/f34/package/plasma-pass) | 26 | 30 | 86.7 | Basque <kde-i18n-eu@kde.org> | 
+ | [kpat](/f34/package/kpat) | 473 | 546 | 86.6 | Basque <kde-i18n-eu@kde.org> | 
+ | [lokalize](/f34/package/lokalize) | 3539 | 4087 | 86.6 | Basque <kde-i18n-eu@kde.org> | 
+ | [pidgin](/f34/package/pidgin) | 13694 | 15835 | 86.5 | Basque (http://www.transifex.com/pidgin/pidgin/language/eu/) | 
+ | [tuxtype2](/f34/package/tuxtype2) | 69 | 80 | 86.2 | LANGUAGE <LL@li.org> | 
+ | [caja](/f34/package/caja) | 8315 | 9675 | 85.9 | Basque (https://www.transifex.com/mate/teams/13566/eu/) | 
+ | [inkscape](/f34/package/inkscape) | 37257 | 43605 | 85.4 | Basque <librezale@librezale.eus> | 
+ | [libkeduvocdocument](/f34/package/libkeduvocdocument) | 146 | 171 | 85.4 | Basque <itzulpena@euskalgnu.org> | 
+ | [kolf](/f34/package/kolf) | 342 | 401 | 85.3 | Basque <itzulpena@euskalgnu.org> | 
+ | [almanah](/f34/package/almanah) | 578 | 679 | 85.1 | American English <kde-i18n-doc@kde.org> | 
+ | [kscreen](/f34/package/kscreen) | 267 | 315 | 84.8 | Basque <kde-i18n-eu@kde.org> | 
+ | [xfburn](/f34/package/xfburn) | 1325 | 1566 | 84.6 | Basque (http://www.transifex.com/xfce/xfce-apps/language/eu/) | 
+ | [bluefish](/f34/package/bluefish) | 4175 | 4945 | 84.4 | Euskara <itzulpena@euskalgnu.org> | 
+ | [moserial](/f34/package/moserial) | 529 | 627 | 84.4 | Basque <librezale@librezale.eus> | 
+ | [mate-notification-daemon](/f34/package/mate-notification-daemon) | 156 | 186 | 83.9 | Basque (https://www.transifex.com/mate/teams/13566/eu/) | 
+ | [ksig](/f34/package/ksig) | 71 | 85 | 83.5 | Basque <itzulpena@euskalgnu.org> | 
+ | [indent](/f34/package/indent) | 218 | 261 | 83.5 | Basque <translation-team-eu@lists.sourceforge.net> | 
+ | [mkvtoolnix](/f34/package/mkvtoolnix) | 20152 | 24129 | 83.5 | Basque (http://www.transifex.com/moritz-bunkus/mkvtoolnix/language/eu/) | 
+ | [pacman](/f34/package/pacman) | 8662 | 10378 | 83.5 | Basque (Spain) (http://www.transifex.com/toofishes/archlinux-pacman/language/eu_ES/) | 
+ | [libmatekbd](/f34/package/libmatekbd) | 257 | 308 | 83.4 | Basque (https://www.transifex.com/mate/teams/13566/eu/) | 
+ | [kbrickbuster](/f34/package/kbrickbuster) | 126 | 152 | 82.9 | Basque <itzulpena@euskalgnu.org> | 
+ | [libfilezilla](/f34/package/libfilezilla) | 400 | 483 | 82.8 | Spanish <kde-i18n-doc@kde.org> | 
+ | [goffice](/f34/package/goffice) | 5457 | 6608 | 82.6 | Basque <librezale@librezale.eus> | 
+ | [mate-themes](/f34/package/mate-themes) | 61 | 74 | 82.4 | Basque (http://www.transifex.com/mate/MATE/language/eu/) | 
+ | [caja-extensions](/f34/package/caja-extensions) | 624 | 760 | 82.1 | Basque (https://www.transifex.com/mate/teams/13566/eu/) | 
+ | [rednotebook](/f34/package/rednotebook) | 939 | 1147 | 81.9 | Basque <eu@li.org> | 
+ | [gnome-chess](/f34/package/gnome-chess) | 2080 | 2543 | 81.8 | Basque <librezale@librezale.eus> | 
+ | [poedit](/f34/package/poedit) | 2379 | 2916 | 81.6 | Basque | 
+ | [gnumeric](/f34/package/gnumeric) | 31402 | 38557 | 81.4 | Basque <librezale@librezale.eus> | 
+ | [fragments](/f34/package/fragments) | 1625 | 2006 | 81.0 | Basque (https://www.transifex.com/transmissionbt/teams/33778/eu/) | 
+ | [transmission](/f34/package/transmission) | 1618 | 1998 | 81.0 | Basque (https://www.transifex.com/transmissionbt/teams/33778/eu/) | 
+ | [xfdesktop](/f34/package/xfdesktop) | 842 | 1041 | 80.9 | Basque (http://www.transifex.com/xfce/xfdesktop/language/eu/) | 
+ | [neochat](/f34/package/neochat) | 676 | 840 | 80.5 | Basque <kde-i18n-eu@kde.org> | 
+ | [foliate](/f34/package/foliate) | 2577 | 3216 | 80.1 |  | 
+ | [kshisen](/f34/package/kshisen) | 454 | 567 | 80.1 | Basque <itzulpena@euskalgnu.org> | 
+ | [gtypist](/f34/package/gtypist) | 443 | 556 | 79.7 |  | 
+ | [kwordquiz](/f34/package/kwordquiz) | 1610 | 2026 | 79.5 | Basque <itzulpena@euskalgnu.org> | 
+ | [thunar-vcs-plugin](/f34/package/thunar-vcs-plugin) | 471 | 595 | 79.2 | Basque (http://www.transifex.com/xfce/thunar-plugins/language/eu/) | 
+ | [php-horde-Horde-Browser](/f34/package/php-horde-Horde-Browser) | 52 | 66 | 78.8 | i18n@lists.horde.org | 
+ | [kmahjongg](/f34/package/kmahjongg) | 277 | 355 | 78.0 | Basque <itzulpena@euskalgnu.org> | 
+ | [drawing](/f34/package/drawing) | 1417 | 1832 | 77.3 |  | 
+ | [gcolor3](/f34/package/gcolor3) | 331 | 429 | 77.2 | Basque <librezale@librezale.eus> | 
+ | [brasero](/f34/package/brasero) | 5894 | 7751 | 76.0 | Basque <librezale@librezale.eus> | 
+ | [kalgebra](/f34/package/kalgebra) | 123 | 162 | 75.9 | Basque <itzulpena@euskalgnu.org> | 
+ | [quadrapassel](/f34/package/quadrapassel) | 1117 | 1480 | 75.5 | Basque <librezale@librezale.eus> | 
+ | [sympa](/f34/package/sympa) | 28055 | 37358 | 75.1 | Euskara | 
+ | [gretl](/f34/package/gretl) | 12876 | 17152 | 75.1 |  | 
+ | [balsa](/f34/package/balsa) | 5025 | 6779 | 74.1 | Basque <librezale@librezale.eus> | 
+ | [marco](/f34/package/marco) | 3156 | 4303 | 73.3 | Basque (https://www.transifex.com/mate/teams/13566/eu/) | 
+ | [gstreamer1](/f34/package/gstreamer1) | 1544 | 2110 | 73.2 | Basque <translation-team-eu@lists.sourceforge.net> | 
+ | [mingw-gstreamer1](/f34/package/mingw-gstreamer1) | 1544 | 2110 | 73.2 | Basque <translation-team-eu@lists.sourceforge.net> | 
+ | [scratch](/f34/package/scratch) | 1067 | 1470 | 72.6 | Jose Manuel <joxegasteiz@euskalnet.net> | 
+ | [xfce4-appfinder](/f34/package/xfce4-appfinder) | 314 | 433 | 72.5 | Basque (http://www.transifex.com/xfce/xfce4-appfinder/language/eu/) | 
+ | [jmol](/f34/package/jmol) | 2295 | 3166 | 72.5 | Basque <eu@li.org> | 
+ | [kpilot](/f34/package/kpilot) | 5176 | 7156 | 72.3 | <eu@li.org> | 
+ | [kaudiocreator](/f34/package/kaudiocreator) | 821 | 1136 | 72.3 | Basque <itzulpena@euskalgnu.org> | 
+ | [dino](/f34/package/dino) | 707 | 979 | 72.2 | Basque <https://hosted.weblate.org/projects/dino/translations/eu/> | 
+ | [koffice-kivio](/f34/package/koffice-kivio) | 6078 | 8417 | 72.2 | Basque <kdeuskaraz@euskalgnu.org> | 
+ | [revelation](/f34/package/revelation) | 1751 | 2427 | 72.1 | Basque (http://www.transifex.com/hey_neken/revelation/language/eu/) | 
+ | [mailman](/f34/package/mailman) | 17463 | 24451 | 71.4 | Euskara <eu@li.org> | 
+ | [mate-desktop](/f34/package/mate-desktop) | 1692 | 2376 | 71.2 | Basque (https://www.transifex.com/mate/teams/13566/eu/) | 
+ | [dpkg](/f34/package/dpkg) | 8409 | 11819 | 71.1 | Basque <debian-l10n-basque@lists.debian.org> | 
+ | [gnome-sudoku](/f34/package/gnome-sudoku) | 1346 | 1899 | 70.9 | Basque <librezale@librezale.eus> | 
+ | [kf5-kdeclarative](/f34/package/kf5-kdeclarative) | 107 | 151 | 70.9 | Basque <kde-i18n-eu@kde.org> | 
+ | [kclock](/f34/package/kclock) | 24 | 34 | 70.6 | Basque <kde-i18n-eu@kde.org> | 
+ | [compiz](/f34/package/compiz) | 3095 | 4385 | 70.6 | Basque <librezale@librezale.org> | 
+ | [ktuberling](/f34/package/ktuberling) | 111 | 158 | 70.3 | Basque <kde-i18n-eu@kde.org> | 
+ | [clementine](/f34/package/clementine) | 3688 | 5251 | 70.2 | Basque (http://www.transifex.com/davidsansome/clementine/language/eu/) | 
+ | [gstreamer1-plugins-ugly-free](/f34/package/gstreamer1-plugins-ugly-free) | 56 | 80 | 70.0 | Basque <translation-team-eu@lists.sourceforge.net> | 
+ | [workrave](/f34/package/workrave) | 976 | 1398 | 69.8 | <eu@li.org> | 
+ | [gnome-shell-extension-openweather](/f34/package/gnome-shell-extension-openweather) | 419 | 601 | 69.7 | Librezale <librezale@librezale.eus> | 
+ | [pan](/f34/package/pan) | 2426 | 3508 | 69.2 | Basque <librezale@librezale.eus> | 
+ | [kf5-libkdepim](/f34/package/kf5-libkdepim) | 24 | 35 | 68.6 | <eu@li.org> | 
+ | [amarok](/f34/package/amarok) | 10767 | 15819 | 68.1 | Basque <itzulpena@euskalgnu.org> | 
+ | [mate-panel](/f34/package/mate-panel) | 4568 | 6720 | 68.0 | Basque (https://www.transifex.com/mate/teams/13566/eu/) | 
+ | [kdenetwork-filesharing](/f34/package/kdenetwork-filesharing) | 302 | 445 | 67.9 | Basque <kde-i18n-eu@kde.org> | 
+ | [gnome-mines](/f34/package/gnome-mines) | 977 | 1444 | 67.7 | Basque <librezale@librezale.eus> | 
+ | [xfce4-clipman-plugin](/f34/package/xfce4-clipman-plugin) | 322 | 478 | 67.4 | Basque (http://www.transifex.com/xfce/xfce-panel-plugins/language/eu/) | 
+ | [kbounce](/f34/package/kbounce) | 103 | 153 | 67.3 | Basque <itzulpena@euskalgnu.org> | 
+ | [mutt](/f34/package/mutt) | 4378 | 6561 | 66.7 | Euskara <debian-l10n-basque@lists.debian.org> | 
+ | [mate-session-manager](/f34/package/mate-session-manager) | 477 | 715 | 66.7 | Basque (https://www.transifex.com/mate/teams/13566/eu/) | 
+ | [umbrello](/f34/package/umbrello) | 3820 | 5726 | 66.7 | Basque <kde-i18n-eu@kde.org> | 
+ | [xfce4-taskmanager](/f34/package/xfce4-taskmanager) | 166 | 249 | 66.7 | Basque (http://www.transifex.com/xfce/xfce-apps/language/eu/) | 
+ | [kf5-kirigami2](/f34/package/kf5-kirigami2) | 62 | 94 | 66.0 | Basque <kde-i18n-eu@kde.org> | 
+ | [konquest](/f34/package/konquest) | 161 | 245 | 65.7 | Basque <itzulpena@euskalgnu.org> | 
+ | [krusader](/f34/package/krusader) | 5168 | 7929 | 65.2 | Basque <kde-i18n-eu@kde.org> | 
+ | [gnome-subtitles](/f34/package/gnome-subtitles) | 1052 | 1621 | 64.9 | Basque <librezale@librezale.eus> | 
+ | [phosh](/f34/package/phosh) | 48 | 74 | 64.9 | Basque | 
+ | [kwebkitpart](/f34/package/kwebkitpart) | 432 | 669 | 64.6 | Basque <itzulpena@euskalgnu.org> | 
+ | [camorama](/f34/package/camorama) | 500 | 775 | 64.5 | Basque <eu@li.org> | 
+ | [xfce4-terminal](/f34/package/xfce4-terminal) | 1108 | 1725 | 64.2 | Basque (http://www.transifex.com/xfce/xfce-apps/language/eu/) | 
+ | [gpodder](/f34/package/gpodder) | 1424 | 2221 | 64.1 | Basque (http://www.transifex.com/projects/p/gpodder/language/eu/) | 
+ | [kgraphviewer](/f34/package/kgraphviewer) | 764 | 1205 | 63.4 | Basque <itzulpena@euskalgnu.org> | 
+ | [avogadro](/f34/package/avogadro) | 4151 | 6607 | 62.8 | Basque <eu@li.org> | 
+ | [elementary-music](/f34/package/elementary-music) | 752 | 1205 | 62.4 | Basque <eu@li.org> | 
+ | [liferea](/f34/package/liferea) | 1355 | 2216 | 61.1 | Basque <translation-team-eu@lists.sourceforge.net> | 
+ | [gnome-clocks](/f34/package/gnome-clocks) | 809 | 1327 | 61.0 | Basque <librezale@librezale.eus> | 
+ | [kf5-kldap](/f34/package/kf5-kldap) | 20 | 33 | 60.6 | Basque <itzulpena@euskalgnu.org> | 
+ | [evolution](/f34/package/evolution) | 30896 | 51033 | 60.5 | Basque <itzulpena@euskalgnu.org> | 
+ | [po4a](/f34/package/po4a) | 1425 | 2358 | 60.4 | Basque <debian-l10n-basque@lists.debian.org> | 
+ | [knavalbattle](/f34/package/knavalbattle) | 241 | 399 | 60.4 | Basque <itzulpena@euskalgnu.org> | 
+ | [gedit-latex](/f34/package/gedit-latex) | 282 | 468 | 60.3 | Basque <librezale@librezale.org> | 
+ | [ksystemstats](/f34/package/ksystemstats) | 235 | 390 | 60.3 | Basque | 
+ | [elementary-photos](/f34/package/elementary-photos) | 2409 | 4011 | 60.1 | Basque (http://www.transifex.com/projects/p/shotwell/language/eu/) | 
+ | [xfce4-wavelan-plugin](/f34/package/xfce4-wavelan-plugin) | 40 | 67 | 59.7 | Basque (http://www.transifex.com/xfce/xfce-panel-plugins/language/eu/) | 
+ | [xfce4-xkb-plugin](/f34/package/xfce4-xkb-plugin) | 34 | 57 | 59.6 | Basque (http://www.transifex.com/xfce/xfce-panel-plugins/language/eu/) | 
+ | [shadow-utils](/f34/package/shadow-utils) | 2658 | 4462 | 59.6 | Euskara <debian-l10n-eu@lists.debian.org> | 
+ | [khangman](/f34/package/khangman) | 281 | 476 | 59.0 | Basque <itzulpena@euskalgnu.org> | 
+ | [compiz-plugins-main](/f34/package/compiz-plugins-main) | 2485 | 4218 | 58.9 | Euskara <eu@li.org> | 
+ | [compiz-plugins-extra](/f34/package/compiz-plugins-extra) | 2217 | 3773 | 58.8 | Euskara <eu@li.org> | 
+ | [katomic](/f34/package/katomic) | 108 | 184 | 58.7 | Basque <itzulpena@euskalgnu.org> | 
+ | [mate-settings-daemon](/f34/package/mate-settings-daemon) | 1281 | 2206 | 58.1 | Basque (https://www.transifex.com/mate/teams/13566/eu/) | 
+ | [synapse](/f34/package/synapse) | 497 | 856 | 58.1 | Basque <eu@li.org> | 
+ | [ksudoku](/f34/package/ksudoku) | 1012 | 1746 | 58.0 | Basque <kde-i18n-eu@kde.org> | 
+ | [kdepim-runtime](/f34/package/kdepim-runtime) | 157 | 271 | 57.9 | Basque <kde-i18n-eu@kde.org> | 
+ | [libmateweather](/f34/package/libmateweather) | 3519 | 6143 | 57.3 | Basque (https://www.transifex.com/mate/teams/13566/eu/) | 
+ | [mate-user-guide](/f34/package/mate-user-guide) | 24220 | 42969 | 56.4 | Basque (https://www.transifex.com/mate/teams/13566/eu/) | 
+ | [kgoldrunner](/f34/package/kgoldrunner) | 13104 | 23554 | 55.6 | Basque <itzulpena@euskalgnu.org> | 
+ | [xfce4-timer-plugin](/f34/package/xfce4-timer-plugin) | 75 | 135 | 55.6 | Basque (http://www.transifex.com/xfce/xfce-panel-plugins/language/eu/) | 
+ | [kfourinline](/f34/package/kfourinline) | 216 | 392 | 55.1 | Basque <itzulpena@euskalgnu.org> | 
+ | [gnome-calculator](/f34/package/gnome-calculator) | 2020 | 3729 | 54.2 | Basque <librezale@librezale.eus> | 
+ | [grilo-plugins](/f34/package/grilo-plugins) | 992 | 1844 | 53.8 | Basque <librezale@librezale.eus> | 
+ | [calligraplan](/f34/package/calligraplan) | 4769 | 8894 | 53.6 | Basque <kde-i18n-eu@kde.org> | 
+ | [okteta](/f34/package/okteta) | 1352 | 2538 | 53.3 | Basque <kde-i18n-eu@kde.org> | 
+ | [tellico](/f34/package/tellico) | 3079 | 5862 | 52.5 | Basque <kde-i18n-eu@kde.org> | 
+ | [mate-terminal](/f34/package/mate-terminal) | 4377 | 8386 | 52.2 | Basque (https://www.transifex.com/mate/teams/13566/eu/) | 
+ | [krita](/f34/package/krita) | 14491 | 27872 | 52.0 | Basque <kde-i18n-eu@kde.org> | 
+ | [bijiben](/f34/package/bijiben) | 661 | 1278 | 51.7 | Basque <librezale@librezale.eus> | 
+ | [kiten](/f34/package/kiten) | 330 | 653 | 50.5 | Basque <itzulpena@euskalgnu.org> | 
+ | [gstreamer1-plugins-good](/f34/package/gstreamer1-plugins-good) | 405 | 802 | 50.5 | Basque <translation-team-eu@lists.sourceforge.net> | 
+ | [mingw-gstreamer1-plugins-good](/f34/package/mingw-gstreamer1-plugins-good) | 405 | 802 | 50.5 | Basque <translation-team-eu@lists.sourceforge.net> | 
+ | [parley](/f34/package/parley) | 1935 | 3850 | 50.3 | Basque <itzulpena@euskalgnu.org> | 
+ | [NetworkManager-openvpn](/f34/package/NetworkManager-openvpn) | 1047 | 2095 | 50.0 | Basque <librezale@librezale.eus> | 
+ | [soundconverter](/f34/package/soundconverter) | 253 | 507 | 49.9 | Basque <eu@li.org> | 
+ | [sugar-toolkit-gtk3](/f34/package/sugar-toolkit-gtk3) | 106 | 213 | 49.8 | LANGUAGE <LL@li.org> | 
+ | [midori](/f34/package/midori) | 1760 | 3541 | 49.7 | Basque <eu@li.org> | 
+ | [rt](/f34/package/rt) | 5799 | 11843 | 49.0 | Basque <eu@li.org> | 
+ | [mate-utils](/f34/package/mate-utils) | 4912 | 10060 | 48.8 | Basque (https://www.transifex.com/mate/teams/13566/eu/) | 
+ | [tar](/f34/package/tar) | 1774 | 3658 | 48.5 | Basque <translation-team-eu@lists.sourceforge.net> | 
+ | [lightdm](/f34/package/lightdm) | 79 | 163 | 48.5 | Basque <eu@li.org> | 
+ | [kalzium](/f34/package/kalzium) | 5030 | 10407 | 48.3 | Basque <kde-i18n-doc@kde.org> | 
+ | [kstars](/f34/package/kstars) | 29521 | 62342 | 47.4 | Basque <kde-i18n-eu@kde.org> | 
+ | [latte-dock](/f34/package/latte-dock) | 1632 | 3526 | 46.3 | Basque <kde-i18n-doc@kde.org> | 
+ | [atril](/f34/package/atril) | 2030 | 4389 | 46.3 | Basque (https://www.transifex.com/mate/teams/13566/eu/) | 
+ | [xpad](/f34/package/xpad) | 191 | 413 | 46.2 | Basque <eu@li.org> | 
+ | [geany](/f34/package/geany) | 2824 | 6156 | 45.9 | Euskara <librezale@librezale.org> | 
+ | [moodle](/f34/package/moodle) | 141 | 309 | 45.6 | Euskal Herriko Unibertsitatea <webmaster@ehu.es> | 
+ | [apt](/f34/package/apt) | 2469 | 5413 | 45.6 | Euskara <debian-l10n-basque@lists.debian.org> | 
+ | [gupnp-tools](/f34/package/gupnp-tools) | 161 | 354 | 45.5 | Basque <librezale@librezale.eus> | 
+ | [gphoto2](/f34/package/gphoto2) | 800 | 1761 | 45.4 | Basque <translation-team-eu@lists.sourceforge.net> | 
+ | [hugin](/f34/package/hugin) | 4277 | 9503 | 45.0 | Basque <LL@li.org> | 
+ | [kmail](/f34/package/kmail) | 3654 | 8148 | 44.8 | Basque <kde-i18n-eu@kde.org> | 
+ | [knetwalk](/f34/package/knetwalk) | 107 | 243 | 44.0 | Basque <itzulpena@euskalgnu.org> | 
+ | [psmisc](/f34/package/psmisc) | 433 | 990 | 43.7 | Basque <translation-team-eu@lists.sourceforge.net> | 
+ | [NetworkManager-openconnect](/f34/package/NetworkManager-openconnect) | 2754 | 6362 | 43.3 | Basque <librezale@librezale.org> | 
+ | [kexi](/f34/package/kexi) | 3160 | 7340 | 43.1 | Basque <kde-i18n-eu@kde.org> | 
+ | [synfigstudio](/f34/package/synfigstudio) | 5983 | 13904 | 43.0 | Basque (Spain) (http://www.transifex.com/morevnaproject/synfig/language/eu_ES/) | 
+ | [kanagram](/f34/package/kanagram) | 225 | 528 | 42.6 | Basque <itzulpena@euskalgnu.org> | 
+ | [kde-dev-utils](/f34/package/kde-dev-utils) | 28 | 67 | 41.8 | Euskara <eu@li.org> | 
+ | [gstreamer1-plugins-base](/f34/package/gstreamer1-plugins-base) | 407 | 976 | 41.7 | Basque <translation-team-eu@lists.sourceforge.net> | 
+ | [mingw-gstreamer1-plugins-base](/f34/package/mingw-gstreamer1-plugins-base) | 407 | 976 | 41.7 | Basque <translation-team-eu@lists.sourceforge.net> | 
+ | [kf5-mailimporter](/f34/package/kf5-mailimporter) | 581 | 1408 | 41.3 | Basque <kde-i18n-doc@kde.org> | 
+ | [rhythmbox-alternative-toolbar](/f34/package/rhythmbox-alternative-toolbar) | 120 | 294 | 40.8 | Basque <eu@li.org> | 
+ | [webkit2gtk3](/f34/package/webkit2gtk3) | 1066 | 2623 | 40.6 | Basque <itzulpena@euskalgnu.org> | 
+ | [menulibre](/f34/package/menulibre) | 354 | 873 | 40.5 | Basque <eu@li.org> | 
+ | [sugar-stopwatch](/f34/package/sugar-stopwatch) | 2 | 5 | 40.0 | LANGUAGE <LL@li.org> | 
+ | [freedink](/f34/package/freedink) | 105 | 263 | 39.9 | Basque <translation-team-eu@lists.sourceforge.net> | 
+ | [gettext](/f34/package/gettext) | 2871 | 7214 | 39.8 | Basque <translation-team-eu@lists.sourceforge.net> | 
+ | [mingw-gettext](/f34/package/mingw-gettext) | 2871 | 7214 | 39.8 | Basque <translation-team-eu@lists.sourceforge.net> | 
+ | [digikam](/f34/package/digikam) | 21856 | 54920 | 39.8 | Basque <kde-i18n-eu@kde.org> | 
+ | [openconnect](/f34/package/openconnect) | 2676 | 6727 | 39.8 | Basque <librezale@librezale.org> | 
+ | [kid3](/f34/package/kid3) | 1265 | 3181 | 39.8 | Basque <kde-i18n-eu@kde.org> | 
+ | [terminator](/f34/package/terminator) | 575 | 1450 | 39.7 | Basque (https://www.transifex.com/terminator/teams/109338/eu/) | 
+ | [eom](/f34/package/eom) | 1960 | 4961 | 39.5 | Basque (https://www.transifex.com/mate/teams/13566/eu/) | 
+ | [mate-calc](/f34/package/mate-calc) | 1288 | 3323 | 38.8 | Basque (https://www.transifex.com/mate/teams/13566/eu/) | 
+ | [pluma](/f34/package/pluma) | 5064 | 13113 | 38.6 | Basque (https://www.transifex.com/mate/teams/13566/eu/) | 
+ | [mate-applets](/f34/package/mate-applets) | 5978 | 15920 | 37.6 | Basque (https://www.transifex.com/mate/teams/13566/eu/) | 
+ | [mate-system-monitor](/f34/package/mate-system-monitor) | 1812 | 4847 | 37.4 | Basque (https://www.transifex.com/mate/teams/13566/eu/) | 
+ | [simple-ccsm](/f34/package/simple-ccsm) | 60 | 162 | 37.0 | Euskara <eu@li.org> | 
+ | [bottles](/f34/package/bottles) | 772 | 2086 | 37.0 | Basque <https://hosted.weblate.org/projects/bottles/bottles/eu/> | 
+ | [hitori](/f34/package/hitori) | 340 | 929 | 36.6 | Basque <librezale@librezale.eus> | 
+ | [libgphoto2](/f34/package/libgphoto2) | 4505 | 12399 | 36.3 | <itzulpena@euskalgnu.org> | 
+ | [php-horde-Horde-Imap-Client](/f34/package/php-horde-Horde-Imap-Client) | 95 | 263 | 36.1 | Euskal Herriko Unibertsitatea <webmaster@ehu.es> | 
+ | [mariadb](/f34/package/mariadb) | 52 | 144 | 36.1 | Euskara <debian-l10n-eu@lists.debian.org> | 
+ | [mate-power-manager](/f34/package/mate-power-manager) | 1837 | 5119 | 35.9 | Basque (https://www.transifex.com/mate/teams/13566/eu/) | 
+ | [kalarm](/f34/package/kalarm) | 2899 | 8080 | 35.9 | Basque <kde-i18n-eu@kde.org> | 
+ | [kompare](/f34/package/kompare) | 511 | 1430 | 35.7 | Basque <itzulpena@euskalgnu.org> | 
+ | [nano](/f34/package/nano) | 1222 | 3449 | 35.4 | Basque <translation-team-eu@lists.sourceforge.net> | 
+ | [elementary-calendar](/f34/package/elementary-calendar) | 302 | 861 | 35.1 | Basque <eu@li.org> | 
+ | [grub-customizer](/f34/package/grub-customizer) | 443 | 1295 | 34.2 | Basque <eu@li.org> | 
+ | [mate-control-center](/f34/package/mate-control-center) | 2817 | 8248 | 34.2 | Basque (https://www.transifex.com/mate/teams/13566/eu/) | 
+ | [NetworkManager-l2tp](/f34/package/NetworkManager-l2tp) | 421 | 1235 | 34.1 | Basque <librezale@librezale.org> | 
+ | [step](/f34/package/step) | 1288 | 3817 | 33.7 | Basque <kde-i18n-eu@kde.org> | 
+ | [gnome-boxes](/f34/package/gnome-boxes) | 1764 | 5265 | 33.5 | Basque <librezale@librezale.eus> | 
+ | [redshift](/f34/package/redshift) | 335 | 1028 | 32.6 | Basque <eu@li.org> | 
+ | [dnfdragora](/f34/package/dnfdragora) | 576 | 1771 | 32.5 | Basque (https://www.transifex.com/MageiaLinux/teams/9361/eu/) | 
+ | [avogadro2](/f34/package/avogadro2) | 149 | 464 | 32.1 | Basque <eu@li.org> | 
+ | [lightdm-gtk](/f34/package/lightdm-gtk) | 28 | 89 | 31.5 | Basque <eu@li.org> | 
+ | [kjumpingcube](/f34/package/kjumpingcube) | 129 | 412 | 31.3 | Basque <itzulpena@euskalgnu.org> | 
+ | [renameutils](/f34/package/renameutils) | 82 | 265 | 30.9 | Basque <translation-team-eu@lists.sourceforge.net> | 
+ | [wireshark](/f34/package/wireshark) | 79 | 258 | 30.6 | Basque (https://www.transifex.com/wireshark/teams/36457/eu/) | 
+ | [hexchat](/f34/package/hexchat) | 1802 | 5971 | 30.2 | Basque (http://www.transifex.com/hexchat/hexchat/language/eu/) | 
+ | [gnubik](/f34/package/gnubik) | 84 | 279 | 30.1 | Euskara <3arrano@3arrano.com> | 
+ | [scummvm](/f34/package/scummvm) | 2649 | 9021 | 29.4 | Basque <https://translations.scummvm.org/projects/scummvm/scummvm/eu/> | 
+ | [geeqie](/f34/package/geeqie) | 1238 | 4348 | 28.5 | librezale <librezale@librezale.org> | 
+ | [libpwquality](/f34/package/libpwquality) | 98 | 345 | 28.4 | Basque (http://www.transifex.com/projects/p/libpwquality/language/eu/) | 
+ | [passwd](/f34/package/passwd) | 88 | 336 | 26.2 | Basque (http://www.transifex.com/projects/p/fedora/language/eu/) | 
+ | [calamares](/f34/package/calamares) | 124 | 490 | 25.3 | Basque (https://www.transifex.com/calamares/teams/20061/eu/) | 
+ | [kajongg](/f34/package/kajongg) | 613 | 2444 | 25.1 | Basque <kde-i18n-eu@kde.org> | 
+ | [gstreamer1-plugins-bad-free](/f34/package/gstreamer1-plugins-bad-free) | 49 | 197 | 24.9 | Basque <translation-team-eu@lists.sourceforge.net> | 
+ | [mingw-gstreamer1-plugins-bad-free](/f34/package/mingw-gstreamer1-plugins-bad-free) | 49 | 197 | 24.9 | Basque <translation-team-eu@lists.sourceforge.net> | 
+ | [engrampa](/f34/package/engrampa) | 1927 | 7838 | 24.6 | Basque (https://www.transifex.com/mate/teams/13566/eu/) | 
+ | [onboard](/f34/package/onboard) | 546 | 2318 | 23.6 | Basque <eu@li.org> | 
+ | [sudo](/f34/package/sudo) | 707 | 3005 | 23.5 | Basque <translation-team-eu@lists.sourceforge.net> | 
+ | [tilix](/f34/package/tilix) | 569 | 2429 | 23.4 | Basque <https://hosted.weblate.org/projects/tilix/translations/eu/> | 
+ | [dnf](/f34/package/dnf) | 1026 | 4621 | 22.2 | Basque (http://www.transifex.com/projects/p/dnf/language/eu/) | 
+ | [stellarium](/f34/package/stellarium) | 31009 | 145097 | 21.4 | Basque (https://www.transifex.com/stellarium/teams/80998/eu/) | 
+ | [kf5-libkleo](/f34/package/kf5-libkleo) | 279 | 1335 | 20.9 | Basque <kdeuskaraz@euskalgnu.org> | 
+ | [marble](/f34/package/marble) | 2167 | 10568 | 20.5 | Basque <kde-i18n-eu@kde.org> | 
+ | [psad](/f34/package/psad) | 101 | 493 | 20.5 |  | 
+ | [korganizer](/f34/package/korganizer) | 1415 | 6990 | 20.2 | Basque <itzulpena@euskalgnu.org> | 
+ | [frogr](/f34/package/frogr) | 140 | 693 | 20.2 | Basque <librezale@librezale.eus> | 
+ | [kf5-messagelib](/f34/package/kf5-messagelib) | 732 | 3639 | 20.1 | Basque <itzulpena@euskalgnu.org> | 
+ | [udisks2](/f34/package/udisks2) | 439 | 2187 | 20.1 | Basque | 
+ | [quodlibet](/f34/package/quodlibet) | 1539 | 7686 | 20.0 | Basque <librezale@librezale.es> | 
+ | [whois](/f34/package/whois) | 101 | 506 | 20.0 |  | 
+ | [ravada](/f34/package/ravada) | 214 | 1075 | 19.9 | Basque <https://hosted.weblate.org/projects/ravada/translation/eu/> | 
+ | [calibre](/f34/package/calibre) | 31935 | 161062 | 19.8 | Basque (http://www.transifex.com/calibre/calibre/language/eu/) | 
+ | [kflickr](/f34/package/kflickr) | 65 | 332 | 19.6 | Basque <eu@li.org> | 
+ | [xfce4-weather-plugin](/f34/package/xfce4-weather-plugin) | 716 | 3676 | 19.5 | Basque (http://www.transifex.com/xfce/xfce-panel-plugins/language/eu/) | 
+ | [blueman](/f34/package/blueman) | 337 | 1857 | 18.1 | Basque (http://www.transifex.com/mate/MATE/language/eu/) | 
+ | [elementary-files](/f34/package/elementary-files) | 613 | 3513 | 17.4 | Basque <eu@li.org> | 
+ | [avogadro2-libs](/f34/package/avogadro2-libs) | 689 | 3976 | 17.3 | Basque <eu@li.org> | 
+ | [gammastep](/f34/package/gammastep) | 160 | 945 | 16.9 | Basque <eu@li.org> | 
+ | [elementary-calculator](/f34/package/elementary-calculator) | 39 | 235 | 16.6 | LANGUAGE <LL@li.org> | 
+ | [mate-sensors-applet](/f34/package/mate-sensors-applet) | 349 | 2160 | 16.2 | Basque (https://www.transifex.com/mate/teams/13566/eu/) | 
+ | [volume_key](/f34/package/volume_key) | 117 | 763 | 15.3 | Basque (http://www.transifex.com/projects/p/fedora/language/eu/) | 
+ | [iso-codes](/f34/package/iso-codes) | 3545 | 23234 | 15.3 | Basque <https://hosted.weblate.org/projects/iso-codes/iso-15924/eu/> | 
+ | [elementary-videos](/f34/package/elementary-videos) | 59 | 391 | 15.1 | Basque <eu@li.org> | 
+ | [php-horde-Horde-Crypt](/f34/package/php-horde-Horde-Crypt) | 51 | 353 | 14.4 | i18n@lists.horde.org | 
+ | [bison](/f34/package/bison) | 24 | 170 | 14.1 | Basque <translation-team-eu@lists.sourceforge.net> | 
+ | [NetworkManager-ssh](/f34/package/NetworkManager-ssh) | 39 | 286 | 13.6 | Basque <itzulpena@euskalgnu.org> | 
+ | [pluma-plugins](/f34/package/pluma-plugins) | 188 | 1398 | 13.4 | Basque (https://www.transifex.com/mate/teams/13566/eu/) | 
+ | [NetworkManager-libreswan](/f34/package/NetworkManager-libreswan) | 62 | 465 | 13.3 | Basque <librezale@librezale.org> | 
+ | [NetworkManager-fortisslvpn](/f34/package/NetworkManager-fortisslvpn) | 43 | 323 | 13.3 | Basque <librezale@librezale.org> | 
+ | [gnucash](/f34/package/gnucash) | 4790 | 36666 | 13.1 | Basque <translation-team-eu@lists.sourceforge.net> | 
+ | [kf5-libksieve](/f34/package/kf5-libksieve) | 438 | 3368 | 13.0 | Euskara <kdeuskaraz@euskalgnu.org> | 
+ | [gdm](/f34/package/gdm) | 1309 | 10097 | 13.0 | Basque <librezale@librezale.eus> | 
+ | [lollypop](/f34/package/lollypop) | 182 | 1437 | 12.7 | Basque <https://hosted.weblate.org/projects/gnumdk/lollypop/eu/> | 
+ | [cantor](/f34/package/cantor) | 453 | 3640 | 12.4 | Basque <itzulpena@euskalgnu.org> | 
+ | [python-meh](/f34/package/python-meh) | 13 | 109 | 11.9 | Basque (http://www.transifex.com/projects/p/python-meh/language/eu/) | 
+ | [gajim](/f34/package/gajim) | 1127 | 9627 | 11.7 | Basque <urtzi@altza.net> | 
+ | [gimagereader](/f34/package/gimagereader) | 182 | 1561 | 11.7 | Basque <https://hosted.weblate.org/projects/gimagereader/translations/eu/> | 
+ | [compiz-plugins-experimental](/f34/package/compiz-plugins-experimental) | 517 | 4473 | 11.6 | Euskara <eu@li.org> | 
+ | [entangle](/f34/package/entangle) | 109 | 953 | 11.4 | Basque (http://www.transifex.com/projects/p/entangle/language/eu/) | 
+ | [taxi](/f34/package/taxi) | 7 | 62 | 11.3 | LANGUAGE <LL@li.org> | 
+ | [php-horde-Horde-Auth](/f34/package/php-horde-Horde-Auth) | 21 | 187 | 11.2 | i18n@lists.horde.org | 
+ | [minetest](/f34/package/minetest) | 1069 | 9649 | 11.1 | Basque <https://hosted.weblate.org/projects/minetest/minetest/eu/> | 
+ | [eiskaltdcpp](/f34/package/eiskaltdcpp) | 399 | 3626 | 11.0 | Basque (https://www.transifex.com/tehnick/teams/11818/eu/) | 
+ | [wget](/f34/package/wget) | 445 | 4071 | 10.9 | Basque <translation-team-eu@lists.sourceforge.net> | 
+ | [anaconda](/f34/package/anaconda) | 859 | 8018 | 10.7 | Basque <https://translate.fedoraproject.org/projects/anaconda/f34/eu/> | 
+ | [elementary-code](/f34/package/elementary-code) | 172 | 1608 | 10.7 | Basque <eu@li.org> | 
+ | [kdepim-addons](/f34/package/kdepim-addons) | 208 | 1962 | 10.6 | <eu@li.org> | 
+ | [php-horde-Horde-Form](/f34/package/php-horde-Horde-Form) | 56 | 560 | 10.0 | Euskal Herriko Unibertsitatea <webmaster@ehu.es> | 
+ | [pmount](/f34/package/pmount) | 64 | 723 | 8.9 | Basque <eu@li.org> | 
+ | [godot](/f34/package/godot) | 1169 | 13216 | 8.8 | Basque <https://hosted.weblate.org/projects/godot-engine/godot/eu/> | 
+ | [apostrophe](/f34/package/apostrophe) | 39 | 445 | 8.8 |  | 
+ | [kpmcore](/f34/package/kpmcore) | 279 | 3237 | 8.6 | Basque <kde-i18n-eu@kde.org> | 
+ | [hello](/f34/package/hello) | 16 | 186 | 8.6 | Basque <linux-eu@chanae.alphanet.ch> | 
+ | [php-horde-Horde-Nls](/f34/package/php-horde-Horde-Nls) | 60 | 702 | 8.5 | Euskal Herriko Unibertsitatea <webmaster@ehu.es> | 
+ | [nicotine+](/f34/package/nicotine+) | 457 | 5405 | 8.5 | Basque <https://hosted.weblate.org/projects/nicotine-plus/nicotine-plus/eu/> | 
+ | [switchboard-plug-pantheon-shell](/f34/package/switchboard-plug-pantheon-shell) | 27 | 336 | 8.0 | Basque <https://l10n.elementary.io/projects/switchboard/switchboard-plug-pantheon-shell/eu/> | 
+ | [sed](/f34/package/sed) | 66 | 830 | 8.0 | Basque <translation-team-eu@lists.sourceforge.net> | 
+ | [elementary-terminal](/f34/package/elementary-terminal) | 49 | 643 | 7.6 | Basque <eu@li.org> | 
+ | [abrt](/f34/package/abrt) | 273 | 3676 | 7.4 | Basque (http://www.transifex.com/projects/p/fedora-abrt/language/eu/) | 
+ | [switchboard](/f34/package/switchboard) | 9 | 124 | 7.3 | Basque <eu@li.org> | 
+ | [python-sphinx](/f34/package/python-sphinx) | 321 | 4581 | 7.0 | Basque (http://www.transifex.com/sphinx-doc/sphinx-1/language/eu/) | 
+ | [mingw-colord](/f34/package/mingw-colord) | 129 | 1885 | 6.8 | Basque (http://www.transifex.com/projects/p/colord/language/eu/) | 
+ | [php-horde-Horde-Rpc](/f34/package/php-horde-Horde-Rpc) | 4 | 59 | 6.8 | Euskal Herriko Unibertsitatea <webmaster@ehu.es> | 
+ | [php-horde-Horde-Argv](/f34/package/php-horde-Horde-Argv) | 4 | 60 | 6.7 | i18n@lists.horde.org | 
+ | [cairo-dock-plug-ins](/f34/package/cairo-dock-plug-ins) | 674 | 10203 | 6.6 | Basque <eu@li.org> | 
+ | [isomaster](/f34/package/isomaster) | 44 | 674 | 6.5 | http://littlesvr.ca/ostd/ | 
+ | [colord](/f34/package/colord) | 129 | 1990 | 6.5 | Basque (http://www.transifex.com/freedesktop/colord/language/eu/) | 
+ | [coreutils](/f34/package/coreutils) | 1329 | 21194 | 6.3 | Basque <translation-team-eu@lists.sourceforge.net> | 
+ | [granite](/f34/package/granite) | 31 | 498 | 6.2 | Basque <eu@li.org> | 
+ | [mingw-wxWidgets](/f34/package/mingw-wxWidgets) | 371 | 6391 | 5.8 | 3ARRANO Euskalgintza <3arrano@euskalerria.org> | 
+ | [input-pad](/f34/package/input-pad) | 104 | 1839 | 5.7 | Basque (http://www.transifex.com/projects/p/fedora/language/eu/) | 
+ | [gimp-lqr-plugin](/f34/package/gimp-lqr-plugin) | 52 | 928 | 5.6 | LANGUAGE <LL@li.org> | 
+ | [firewalld](/f34/package/firewalld) | 116 | 2217 | 5.2 | Basque (http://www.transifex.com/projects/p/firewalld/language/eu/) | 
+ | [setroubleshoot](/f34/package/setroubleshoot) | 33 | 635 | 5.2 | Basque (http://www.transifex.com/projects/p/fedora/language/eu/) | 
+ | [elementary-mail](/f34/package/elementary-mail) | 33 | 658 | 5.0 | Basque <librezale@librezale.org> | 
+ | [remmina](/f34/package/remmina) | 256 | 5134 | 5.0 | Basque <https://hosted.weblate.org/projects/remmina/remmina/eu/> | 
+ | [php-horde-Horde-Kolab-Storage](/f34/package/php-horde-Horde-Kolab-Storage) | 15 | 347 | 4.3 | Euskal Herriko Unibertsitatea <webmaster@ehu.es> | 
+ | [php-horde-Horde-Image](/f34/package/php-horde-Horde-Image) | 25 | 582 | 4.3 | Euskal Herriko Unibertsitatea <webmaster@ehu.es> | 
+ | [ibus](/f34/package/ibus) | 96 | 2292 | 4.2 | Basque <trans-eu@lists.fedoraproject.org> | 
+ | [wdiff](/f34/package/wdiff) | 5 | 120 | 4.2 | Basque <translation-team-eu@lists.sourceforge.net> | 
+ | [libreport](/f34/package/libreport) | 181 | 4928 | 3.7 | Basque (http://www.transifex.com/projects/p/libreport/language/eu/) | 
+ | [elementary-screenshot-tool](/f34/package/elementary-screenshot-tool) | 9 | 248 | 3.6 | Basque <eu@li.org> | 
+ | [grep](/f34/package/grep) | 31 | 862 | 3.6 | Basque <translation-team-eu@lists.sourceforge.net> | 
+ | [LabPlot](/f34/package/LabPlot) | 385 | 10997 | 3.5 | Basque <kde-i18n-eu@kde.org> | 
+ | [pam](/f34/package/pam) | 18 | 525 | 3.4 | Basque (http://www.transifex.com/projects/p/fedora/language/eu/) | 
+ | [sawfish](/f34/package/sawfish) | 211 | 6443 | 3.3 | Basque <itzulpena@euskalgnu.org> | 
+ | [mate-user-admin](/f34/package/mate-user-admin) | 20 | 628 | 3.2 | Basque (https://www.transifex.com/mate/teams/13566/eu/) | 
+ | [man-db](/f34/package/man-db) | 6 | 206 | 2.9 | Basque <translation-team-eu@lists.sourceforge.net> | 
+ | [kcoloredit](/f34/package/kcoloredit) | 8 | 278 | 2.9 | Basque <kdeuskaraz@euskalgnu.org> | 
+ | [light-locker](/f34/package/light-locker) | 7 | 260 | 2.7 | Basque (http://www.transifex.com/the_cavalry/light-locker/language/eu/) | 
+ | [caja-actions](/f34/package/caja-actions) | 475 | 18815 | 2.5 | Basque (https://www.transifex.com/mate/teams/13566/eu/) | 
+ | [kleopatra](/f34/package/kleopatra) | 231 | 9239 | 2.5 | <eu@li.org> | 
+ | [kf5-kalarmcal](/f34/package/kf5-kalarmcal) | 1 | 40 | 2.5 | Basque <kde-i18n-doc@kde.org> | 
+ | [exaile](/f34/package/exaile) | 100 | 4067 | 2.5 | Basque <eu@li.org> | 
+ | [manafirewall](/f34/package/manafirewall) | 26 | 1097 | 2.4 | Basque (https://www.transifex.com/MageiaLinux/teams/9361/eu/) | 
+ | [dnf-plugins-extras](/f34/package/dnf-plugins-extras) | 9 | 387 | 2.3 | Basque | 
+ | [hivex](/f34/package/hivex) | 6 | 270 | 2.2 | Basque (http://www.transifex.com/projects/p/hivex/language/eu/) | 
+ | [php-horde-Horde-Service-Weather](/f34/package/php-horde-Horde-Service-Weather) | 11 | 527 | 2.1 | Euskal Herriko Unibertsitatea <webmaster@ehu.es> | 
+ | [wesnoth](/f34/package/wesnoth) | 5639 | 299283 | 1.9 | Basque <ziberpunk@ziberghetto.dhis.org> | 
+ | [deluge](/f34/package/deluge) | 48 | 2616 | 1.8 | Basque <eu@li.org> | 
+ | [widelands](/f34/package/widelands) | 1114 | 62420 | 1.8 | Basque (http://www.transifex.com/widelands/widelands/language/eu/) | 
+ | [synfig](/f34/package/synfig) | 155 | 9490 | 1.6 | Basque (Spain) (http://www.transifex.com/morevnaproject/synfig/language/eu_ES/) | 
+ | [mypaint](/f34/package/mypaint) | 102 | 6381 | 1.6 | Basque <https://hosted.weblate.org/projects/mypaint/mypaint/eu/> | 
+ | [NetworkManager](/f34/package/NetworkManager) | 416 | 26988 | 1.5 | Basque <itzulpena@euskalgnu.org> | 
+ | [wingpanel-applications-menu](/f34/package/wingpanel-applications-menu) | 6 | 415 | 1.4 | Basque <eu@li.org> | 
+ | [python-blivet](/f34/package/python-blivet) | 8 | 558 | 1.4 | Basque (http://www.transifex.com/projects/p/blivet/language/eu/) | 
+ | [switchboard-plug-mouse-touchpad](/f34/package/switchboard-plug-mouse-touchpad) | 4 | 282 | 1.4 | Basque <https://l10n.elementary.io/projects/switchboard/switchboard-plug-mouse-touchpad/eu/> | 
+ | [pychess](/f34/package/pychess) | 212 | 15184 | 1.4 | Basque (Spain) (http://www.transifex.com/gbtami/pychess/language/eu_ES/) | 
+ | [spacefm](/f34/package/spacefm) | 121 | 8722 | 1.4 | Basque (http://www.transifex.com/projects/p/spacefm/language/eu/) | 
+ | [switchboard-plug-about](/f34/package/switchboard-plug-about) | 5 | 383 | 1.3 | Basque <https://l10n.elementary.io/projects/switchboard/switchboard-plug-about/eu/> | 
+ | [switchboard-plug-display](/f34/package/switchboard-plug-display) | 2 | 182 | 1.1 | Basque <https://l10n.elementary.io/projects/switchboard/switchboard-plug-display/eu/> | 
+ | [chkconfig](/f34/package/chkconfig) | 6 | 573 | 1.0 | Basque (http://www.transifex.com/projects/p/chkconfig/language/eu/) | 
+ | [switchboard-plug-bluetooth](/f34/package/switchboard-plug-bluetooth) | 2 | 206 | 1.0 | Basque <https://l10n.elementary.io/projects/switchboard/switchboard-plug-bluetooth/eu/> | 
+ | [switchboard-plug-keyboard](/f34/package/switchboard-plug-keyboard) | 6 | 636 | 0.9 | Basque <https://l10n.elementary.io/projects/switchboard/switchboard-plug-keyboard/eu/> | 
+ | [switchboard-plug-onlineaccounts](/f34/package/switchboard-plug-onlineaccounts) | 3 | 322 | 0.9 | Basque <eu@li.org> | 
+ | [policycoreutils](/f34/package/policycoreutils) | 107 | 12171 | 0.9 | Basque | 
+ | [android-tools](/f34/package/android-tools) | 59 | 7678 | 0.8 | Basque (http://www.transifex.com/projects/p/fedora/language/eu/) | 
+ | [certmonger](/f34/package/certmonger) | 18 | 2831 | 0.6 | Basque (http://www.transifex.com/projects/p/certmonger/language/eu/) | 
+ | [freeipa](/f34/package/freeipa) | 367 | 58024 | 0.6 | Basque | 
+ | [malcontent](/f34/package/malcontent) | 3 | 584 | 0.5 | none | 
+ | [nutty](/f34/package/nutty) | 3 | 608 | 0.5 | Basque <https://hosted.weblate.org/projects/nutty/translations/eu/> | 
+ | [sssd](/f34/package/sssd) | 210 | 44841 | 0.5 | Basque (http://www.transifex.com/projects/p/sssd/language/eu/) | 
+ | [setroubleshoot-plugins](/f34/package/setroubleshoot-plugins) | 23 | 6246 | 0.4 | Basque (http://www.transifex.com/projects/p/fedora/language/eu/) | 
+ | [elementary-sideload](/f34/package/elementary-sideload) | 1 | 319 | 0.3 | Basque <https://l10n.elementary.io/projects/desktop/sideload/eu/> | 
+ | [dnf-plugins-core](/f34/package/dnf-plugins-core) | 5 | 1655 | 0.3 | Basque | 
+ | [gala](/f34/package/gala) | 1 | 358 | 0.3 | Basque <https://l10n.elementary.io/projects/desktop/gala/eu/> | 
+ | [switchboard-plug-networking](/f34/package/switchboard-plug-networking) | 1 | 522 | 0.2 | Basque <https://l10n.elementary.io/projects/switchboard/switchboard-plug-networking/eu/> | 
+ | [initscripts](/f34/package/initscripts) | 2 | 1118 | 0.2 | Basque (http://www.transifex.com/projects/p/fedora/language/eu/) | 
+ | [appstream](/f34/package/appstream) | 8 | 4504 | 0.2 | Basque <https://hosted.weblate.org/projects/appstream/translations/eu/> | 
+ | [pykickstart](/f34/package/pykickstart) | 3 | 1697 | 0.2 | Basque (http://www.transifex.com/projects/p/pykickstart/language/eu/) | 
+ | [pogo](/f34/package/pogo) | 1 | 576 | 0.2 | Basque <eu@li.org> | 
+ | [libmypaint](/f34/package/libmypaint) | 3 | 2303 | 0.1 | Basque <https://hosted.weblate.org/projects/mypaint/libmypaint/eu/> | 
+ | [libmypaint2](/f34/package/libmypaint2) | 3 | 2311 | 0.1 | Basque <https://hosted.weblate.org/projects/mypaint/libmypaint/eu/> | 
+ | [guestfs-tools](/f34/package/guestfs-tools) | 191 | 197988 | 0.1 | Basque (http://www.transifex.com/projects/p/libguestfs/language/eu/) | 
+ | [libguestfs](/f34/package/libguestfs) | 191 | 197988 | 0.1 | Basque (http://www.transifex.com/projects/p/libguestfs/language/eu/) | 
+ | [sugar](/f34/package/sugar) | 1 | 2305 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [bookworm](/f34/package/bookworm) | 0 | 795 | 0.0 |  | 
+ | [coin](/f34/package/coin) | 0 | 252 | 0.0 | none | 
+ | [dippi](/f34/package/dippi) | 0 | 397 | 0.0 | none | 
+ | [elementary-camera](/f34/package/elementary-camera) | 0 | 159 | 0.0 | Basque <eu@li.org> | 
+ | [elementary-capnet-assist](/f34/package/elementary-capnet-assist) | 0 | 81 | 0.0 | none | 
+ | [elementary-greeter](/f34/package/elementary-greeter) | 0 | 200 | 0.0 | Basque <eu@li.org> | 
+ | [elementary-icon-theme](/f34/package/elementary-icon-theme) | 0 | 263 | 0.0 | none | 
+ | [elementary-notifications](/f34/package/elementary-notifications) | 0 | 36 | 0.0 | none | 
+ | [elementary-settings-daemon](/f34/package/elementary-settings-daemon) | 0 | 26 | 0.0 | none | 
+ | [elementary-shortcut-overlay](/f34/package/elementary-shortcut-overlay) | 0 | 130 | 0.0 | none | 
+ | [elementary-tasks](/f34/package/elementary-tasks) | 0 | 364 | 0.0 | none | 
+ | [elementary-theme](/f34/package/elementary-theme) | 0 | 63 | 0.0 | none | 
+ | [feedreader](/f34/package/feedreader) | 0 | 1374 | 0.0 |  | 
+ | [fonts-tweak-tool](/f34/package/fonts-tweak-tool) | 0 | 196 | 0.0 | Basque | 
+ | [fprintd](/f34/package/fprintd) | 0 | 419 | 0.0 | Basque (http://www.transifex.com/freedesktop/fprintd/language/eu/) | 
+ | [gnome-abrt](/f34/package/gnome-abrt) | 0 | 221 | 0.0 | none | 
+ | [harvey](/f34/package/harvey) | 0 | 182 | 0.0 | none | 
+ | [im-chooser](/f34/package/im-chooser) | 0 | 254 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [imsettings](/f34/package/imsettings) | 0 | 485 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [kreport](/f34/package/kreport) | 0 | 411 | 0.0 | Basque <kde-i18n-doc@kde.org> | 
+ | [libdnf](/f34/package/libdnf) | 0 | 1441 | 0.0 | Basque | 
+ | [libgxim](/f34/package/libgxim) | 0 | 124 | 0.0 | Basque | 
+ | [libosinfo](/f34/package/libosinfo) | 0 | 815 | 0.0 | none | 
+ | [lxshortcut](/f34/package/lxshortcut) | 0 | 43 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [mame](/f34/package/mame) | 0 | 3464 | 0.0 | MAME Language Team | 
+ | [mingw-libosinfo](/f34/package/mingw-libosinfo) | 0 | 815 | 0.0 | none | 
+ | [mingw-libvirt-glib](/f34/package/mingw-libvirt-glib) | 0 | 158 | 0.0 | Basque (http://www.transifex.com/projects/p/libvirt-glib/language/eu/) | 
+ | [mingw-p11-kit](/f34/package/mingw-p11-kit) | 0 | 476 | 0.0 | Basque (http://www.transifex.com/freedesktop/p11-kit/language/eu/) | 
+ | [olpc-switch-desktop](/f34/package/olpc-switch-desktop) | 0 | 158 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [optimizer](/f34/package/optimizer) | 0 | 282 | 0.0 | none | 
+ | [p11-kit](/f34/package/p11-kit) | 0 | 476 | 0.0 | Basque (http://www.transifex.com/freedesktop/p11-kit/language/eu/) | 
+ | [pantheon-agent-geoclue2](/f34/package/pantheon-agent-geoclue2) | 0 | 101 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [pantheon-agent-polkit](/f34/package/pantheon-agent-polkit) | 0 | 56 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [php-horde-Horde-Token](/f34/package/php-horde-Horde-Token) | 0 | 64 | 0.0 | Euskal Herriko Unibertsitatea <webmaster@ehu.es> | 
+ | [php-phpmyadmin-sql-parser5](/f34/package/php-phpmyadmin-sql-parser5) | 0 | 268 | 0.0 | Basque <https://hosted.weblate.org/projects/phpmyadmin/master/eu/> | 
+ | [plasma-mediacenter](/f34/package/plasma-mediacenter) | 0 | 83 | 0.0 | Basque <kde-i18n-doc@kde.org> | 
+ | [pyhoca-gui](/f34/package/pyhoca-gui) | 0 | 1865 | 0.0 | none | 
+ | [python-fedora](/f34/package/python-fedora) | 0 | 214 | 0.0 | Basque | 
+ | [python-sphinxcontrib-applehelp](/f34/package/python-sphinxcontrib-applehelp) | 0 | 89 | 0.0 | Basque (https://www.transifex.com/sphinx-doc/teams/36659/eu/) | 
+ | [python-sphinxcontrib-devhelp](/f34/package/python-sphinxcontrib-devhelp) | 0 | 18 | 0.0 | Basque (https://www.transifex.com/sphinx-doc/teams/36659/eu/) | 
+ | [python-sphinxcontrib-htmlhelp](/f34/package/python-sphinxcontrib-htmlhelp) | 0 | 25 | 0.0 | Basque (https://www.transifex.com/sphinx-doc/teams/36659/eu/) | 
+ | [python-sphinxcontrib-qthelp](/f34/package/python-sphinxcontrib-qthelp) | 0 | 33 | 0.0 | Basque (https://www.transifex.com/sphinx-doc/teams/36659/eu/) | 
+ | [python-sphinxcontrib-serializinghtml](/f34/package/python-sphinxcontrib-serializinghtml) | 0 | 18 | 0.0 | Basque (https://www.transifex.com/sphinx-doc/teams/36659/eu/) | 
+ | [realmd](/f34/package/realmd) | 0 | 789 | 0.0 | Basque (http://www.transifex.com/freedesktop/realmd/language/eu/) | 
+ | [retrace-server](/f34/package/retrace-server) | 0 | 433 | 0.0 | none | 
+ | [rpm-ostree](/f34/package/rpm-ostree) | 0 | 1441 | 0.0 | Basque | 
+ | [snapper](/f34/package/snapper) | 0 | 1095 | 0.0 | Basque <i18n@suse.de> | 
+ | [sos](/f34/package/sos) | 0 | 122 | 0.0 | none | 
+ | [speedcrunch](/f34/package/speedcrunch) | 0 | 93 | 0.0 | Basque (http://www.transifex.com/heldercorreia/speedcrunch/language/eu/) | 
+ | [sugar-terminal](/f34/package/sugar-terminal) | 0 | 121 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [switchboard-plug-a11y](/f34/package/switchboard-plug-a11y) | 0 | 180 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [switchboard-plug-applications](/f34/package/switchboard-plug-applications) | 0 | 227 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [switchboard-plug-notifications](/f34/package/switchboard-plug-notifications) | 0 | 142 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [switchboard-plug-printers](/f34/package/switchboard-plug-printers) | 0 | 362 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [switchboard-plug-sharing](/f34/package/switchboard-plug-sharing) | 0 | 141 | 0.0 | none | 
+ | [switchboard-plug-sound](/f34/package/switchboard-plug-sound) | 0 | 193 | 0.0 | Basque <eu@li.org> | 
+ | [switchdesk](/f34/package/switchdesk) | 0 | 122 | 0.0 | <en@li.org> | 
+ | [wingpanel](/f34/package/wingpanel) | 0 | 19 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [wingpanel-indicator-bluetooth](/f34/package/wingpanel-indicator-bluetooth) | 0 | 78 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [wingpanel-indicator-datetime](/f34/package/wingpanel-indicator-datetime) | 0 | 177 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [wingpanel-indicator-keyboard](/f34/package/wingpanel-indicator-keyboard) | 0 | 53 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [wingpanel-indicator-network](/f34/package/wingpanel-indicator-network) | 0 | 131 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [wingpanel-indicator-nightlight](/f34/package/wingpanel-indicator-nightlight) | 0 | 45 | 0.0 |  | 
+ | [wingpanel-indicator-notifications](/f34/package/wingpanel-indicator-notifications) | 0 | 101 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [wingpanel-indicator-power](/f34/package/wingpanel-indicator-power) | 0 | 191 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [wingpanel-indicator-session](/f34/package/wingpanel-indicator-session) | 0 | 108 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [wingpanel-indicator-sound](/f34/package/wingpanel-indicator-sound) | 0 | 96 | 0.0 | LANGUAGE <LL@li.org> | 
 {.sortable}
 
 
@@ -1118,8 +1118,8 @@ We use the po metadata to get the language code and the team, but sometimes it f
 
 | Package | Lang from file path/name | polib error | Team |
 |---------|--------------------------|-------------|------|
- | [psad]({{< ref "/f34/package/psad.md" >}}) | /mnt/stockage/packages/f34/psad/deps/whois/po/eu.po | error-unicode |  | 
- | [whois]({{< ref "/f34/package/whois.md" >}}) | /mnt/stockage/packages/f34/whois/po/eu.po | error-unicode |  | 
+ | [psad](/f34/package/psad) | /mnt/stockage/packages/f34/psad/deps/whois/po/eu.po | error-unicode |  | 
+ | [whois](/f34/package/whois) | /mnt/stockage/packages/f34/whois/po/eu.po | error-unicode |  | 
 {.sortable}
 
 

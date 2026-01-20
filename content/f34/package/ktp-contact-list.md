@@ -18,50 +18,50 @@ The package ktp-contact-list (version 21.04.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f34/language/ca.md" >}}) | 680 | 680 | 100.0 | /mnt/stockage/packages/f34/ktp-contact-list/po/ca/ktp-contactlist.po | 
- | [ca@valencia]({{< ref "/f34/language/ca@valencia.md" >}}) | 680 | 680 | 100.0 | /mnt/stockage/packages/f34/ktp-contact-list/po/ca@valencia/ktp-contactlist.po | 
- | [el]({{< ref "/f34/language/el.md" >}}) | 680 | 680 | 100.0 | /mnt/stockage/packages/f34/ktp-contact-list/po/el/ktp-contactlist.po | 
- | [en_GB]({{< ref "/f34/language/en_GB.md" >}}) | 680 | 680 | 100.0 | /mnt/stockage/packages/f34/ktp-contact-list/po/en_GB/ktp-contactlist.po | 
- | [es]({{< ref "/f34/language/es.md" >}}) | 680 | 680 | 100.0 | /mnt/stockage/packages/f34/ktp-contact-list/po/es/ktp-contactlist.po | 
- | [eu]({{< ref "/f34/language/eu.md" >}}) | 680 | 680 | 100.0 | /mnt/stockage/packages/f34/ktp-contact-list/po/eu/ktp-contactlist.po | 
- | [fi]({{< ref "/f34/language/fi.md" >}}) | 680 | 680 | 100.0 | /mnt/stockage/packages/f34/ktp-contact-list/po/fi/ktp-contactlist.po | 
- | [fr]({{< ref "/f34/language/fr.md" >}}) | 680 | 680 | 100.0 | /mnt/stockage/packages/f34/ktp-contact-list/po/fr/ktp-contactlist.po | 
- | [gl]({{< ref "/f34/language/gl.md" >}}) | 680 | 680 | 100.0 | /mnt/stockage/packages/f34/ktp-contact-list/po/gl/ktp-contactlist.po | 
- | [ko]({{< ref "/f34/language/ko.md" >}}) | 680 | 680 | 100.0 | /mnt/stockage/packages/f34/ktp-contact-list/po/ko/ktp-contactlist.po | 
- | [nl]({{< ref "/f34/language/nl.md" >}}) | 680 | 680 | 100.0 | /mnt/stockage/packages/f34/ktp-contact-list/po/nl/ktp-contactlist.po | 
- | [nn]({{< ref "/f34/language/nn.md" >}}) | 680 | 680 | 100.0 | /mnt/stockage/packages/f34/ktp-contact-list/po/nn/ktp-contactlist.po | 
- | [pl]({{< ref "/f34/language/pl.md" >}}) | 680 | 680 | 100.0 | /mnt/stockage/packages/f34/ktp-contact-list/po/pl/ktp-contactlist.po | 
- | [pt]({{< ref "/f34/language/pt.md" >}}) | 680 | 680 | 100.0 | /mnt/stockage/packages/f34/ktp-contact-list/po/pt/ktp-contactlist.po | 
- | [pt_BR]({{< ref "/f34/language/pt_BR.md" >}}) | 680 | 680 | 100.0 | /mnt/stockage/packages/f34/ktp-contact-list/po/pt_BR/ktp-contactlist.po | 
- | [sl]({{< ref "/f34/language/sl.md" >}}) | 680 | 680 | 100.0 | /mnt/stockage/packages/f34/ktp-contact-list/po/sl/ktp-contactlist.po | 
- | [sr]({{< ref "/f34/language/sr.md" >}}) | 680 | 680 | 100.0 | /mnt/stockage/packages/f34/ktp-contact-list/po/sr/ktp-contactlist.po | 
- | [sv]({{< ref "/f34/language/sv.md" >}}) | 680 | 680 | 100.0 | /mnt/stockage/packages/f34/ktp-contact-list/po/sv/ktp-contactlist.po | 
- | [uk]({{< ref "/f34/language/uk.md" >}}) | 680 | 680 | 100.0 | /mnt/stockage/packages/f34/ktp-contact-list/po/uk/ktp-contactlist.po | 
- | [zh_Hans]({{< ref "/f34/language/zh_Hans.md" >}}) | 680 | 680 | 100.0 | /mnt/stockage/packages/f34/ktp-contact-list/po/zh_CN/ktp-contactlist.po | 
- | [zh_Hant]({{< ref "/f34/language/zh_Hant.md" >}}) | 680 | 680 | 100.0 | /mnt/stockage/packages/f34/ktp-contact-list/po/zh_TW/ktp-contactlist.po | 
- | [it]({{< ref "/f34/language/it.md" >}}) | 625 | 680 | 91.9 | /mnt/stockage/packages/f34/ktp-contact-list/po/it/ktp-contactlist.po | 
- | [de]({{< ref "/f34/language/de.md" >}}) | 570 | 680 | 83.8 | /mnt/stockage/packages/f34/ktp-contact-list/po/de/ktp-contactlist.po | 
- | [cs]({{< ref "/f34/language/cs.md" >}}) | 474 | 680 | 69.7 | /mnt/stockage/packages/f34/ktp-contact-list/po/cs/ktp-contactlist.po | 
- | [et]({{< ref "/f34/language/et.md" >}}) | 428 | 680 | 62.9 | /mnt/stockage/packages/f34/ktp-contact-list/po/et/ktp-contactlist.po | 
- | [da]({{< ref "/f34/language/da.md" >}}) | 407 | 680 | 59.9 | /mnt/stockage/packages/f34/ktp-contact-list/po/da/ktp-contactlist.po | 
- | [ia]({{< ref "/f34/language/ia.md" >}}) | 407 | 680 | 59.9 | /mnt/stockage/packages/f34/ktp-contact-list/po/ia/ktp-contactlist.po | 
- | [sk]({{< ref "/f34/language/sk.md" >}}) | 407 | 680 | 59.9 | /mnt/stockage/packages/f34/ktp-contact-list/po/sk/ktp-contactlist.po | 
- | [ro]({{< ref "/f34/language/ro.md" >}}) | 387 | 680 | 56.9 | /mnt/stockage/packages/f34/ktp-contact-list/po/ro/ktp-contactlist.po | 
- | [ru]({{< ref "/f34/language/ru.md" >}}) | 387 | 680 | 56.9 | /mnt/stockage/packages/f34/ktp-contact-list/po/ru/ktp-contactlist.po | 
- | [tr]({{< ref "/f34/language/tr.md" >}}) | 387 | 680 | 56.9 | /mnt/stockage/packages/f34/ktp-contact-list/po/tr/ktp-contactlist.po | 
- | [bs]({{< ref "/f34/language/bs.md" >}}) | 380 | 680 | 55.9 | /mnt/stockage/packages/f34/ktp-contact-list/po/bs/ktp-contactlist.po | 
- | [hu]({{< ref "/f34/language/hu.md" >}}) | 377 | 680 | 55.4 | /mnt/stockage/packages/f34/ktp-contact-list/po/hu/ktp-contactlist.po | 
- | [nb_NO]({{< ref "/f34/language/nb_NO.md" >}}) | 377 | 680 | 55.4 | /mnt/stockage/packages/f34/ktp-contact-list/po/nb/ktp-contactlist.po | 
- | [nds]({{< ref "/f34/language/nds.md" >}}) | 377 | 680 | 55.4 | /mnt/stockage/packages/f34/ktp-contact-list/po/nds/ktp-contactlist.po | 
- | [kk]({{< ref "/f34/language/kk.md" >}}) | 353 | 680 | 51.9 | /mnt/stockage/packages/f34/ktp-contact-list/po/kk/ktp-contactlist.po | 
- | [lt]({{< ref "/f34/language/lt.md" >}}) | 328 | 680 | 48.2 | /mnt/stockage/packages/f34/ktp-contact-list/po/lt/ktp-contactlist.po | 
- | [km]({{< ref "/f34/language/km.md" >}}) | 273 | 680 | 40.1 | /mnt/stockage/packages/f34/ktp-contact-list/po/km/ktp-contactlist.po | 
- | [ar]({{< ref "/f34/language/ar.md" >}}) | 200 | 680 | 29.4 | /mnt/stockage/packages/f34/ktp-contact-list/po/ar/ktp-contactlist.po | 
- | [pa]({{< ref "/f34/language/pa.md" >}}) | 141 | 680 | 20.7 | /mnt/stockage/packages/f34/ktp-contact-list/po/pa/ktp-contactlist.po | 
- | [ug]({{< ref "/f34/language/ug.md" >}}) | 56 | 680 | 8.2 | /mnt/stockage/packages/f34/ktp-contact-list/po/ug/ktp-contactlist.po | 
- | [ga]({{< ref "/f34/language/ga.md" >}}) | 48 | 680 | 7.1 | /mnt/stockage/packages/f34/ktp-contact-list/po/ga/ktp-contactlist.po | 
- | [mr]({{< ref "/f34/language/mr.md" >}}) | 30 | 680 | 4.4 | /mnt/stockage/packages/f34/ktp-contact-list/po/mr/ktp-contactlist.po | 
- | [ja]({{< ref "/f34/language/ja.md" >}}) | 0 | 680 | 0.0 | /mnt/stockage/packages/f34/ktp-contact-list/po/ja/ktp-contactlist.po | 
+ | [ca](/f34/language/ca) | 680 | 680 | 100.0 | /mnt/stockage/packages/f34/ktp-contact-list/po/ca/ktp-contactlist.po | 
+ | [ca@valencia](/f34/language/ca@valencia) | 680 | 680 | 100.0 | /mnt/stockage/packages/f34/ktp-contact-list/po/ca@valencia/ktp-contactlist.po | 
+ | [el](/f34/language/el) | 680 | 680 | 100.0 | /mnt/stockage/packages/f34/ktp-contact-list/po/el/ktp-contactlist.po | 
+ | [en_GB](/f34/language/en_GB) | 680 | 680 | 100.0 | /mnt/stockage/packages/f34/ktp-contact-list/po/en_GB/ktp-contactlist.po | 
+ | [es](/f34/language/es) | 680 | 680 | 100.0 | /mnt/stockage/packages/f34/ktp-contact-list/po/es/ktp-contactlist.po | 
+ | [eu](/f34/language/eu) | 680 | 680 | 100.0 | /mnt/stockage/packages/f34/ktp-contact-list/po/eu/ktp-contactlist.po | 
+ | [fi](/f34/language/fi) | 680 | 680 | 100.0 | /mnt/stockage/packages/f34/ktp-contact-list/po/fi/ktp-contactlist.po | 
+ | [fr](/f34/language/fr) | 680 | 680 | 100.0 | /mnt/stockage/packages/f34/ktp-contact-list/po/fr/ktp-contactlist.po | 
+ | [gl](/f34/language/gl) | 680 | 680 | 100.0 | /mnt/stockage/packages/f34/ktp-contact-list/po/gl/ktp-contactlist.po | 
+ | [ko](/f34/language/ko) | 680 | 680 | 100.0 | /mnt/stockage/packages/f34/ktp-contact-list/po/ko/ktp-contactlist.po | 
+ | [nl](/f34/language/nl) | 680 | 680 | 100.0 | /mnt/stockage/packages/f34/ktp-contact-list/po/nl/ktp-contactlist.po | 
+ | [nn](/f34/language/nn) | 680 | 680 | 100.0 | /mnt/stockage/packages/f34/ktp-contact-list/po/nn/ktp-contactlist.po | 
+ | [pl](/f34/language/pl) | 680 | 680 | 100.0 | /mnt/stockage/packages/f34/ktp-contact-list/po/pl/ktp-contactlist.po | 
+ | [pt](/f34/language/pt) | 680 | 680 | 100.0 | /mnt/stockage/packages/f34/ktp-contact-list/po/pt/ktp-contactlist.po | 
+ | [pt_BR](/f34/language/pt_BR) | 680 | 680 | 100.0 | /mnt/stockage/packages/f34/ktp-contact-list/po/pt_BR/ktp-contactlist.po | 
+ | [sl](/f34/language/sl) | 680 | 680 | 100.0 | /mnt/stockage/packages/f34/ktp-contact-list/po/sl/ktp-contactlist.po | 
+ | [sr](/f34/language/sr) | 680 | 680 | 100.0 | /mnt/stockage/packages/f34/ktp-contact-list/po/sr/ktp-contactlist.po | 
+ | [sv](/f34/language/sv) | 680 | 680 | 100.0 | /mnt/stockage/packages/f34/ktp-contact-list/po/sv/ktp-contactlist.po | 
+ | [uk](/f34/language/uk) | 680 | 680 | 100.0 | /mnt/stockage/packages/f34/ktp-contact-list/po/uk/ktp-contactlist.po | 
+ | [zh_Hans](/f34/language/zh_Hans) | 680 | 680 | 100.0 | /mnt/stockage/packages/f34/ktp-contact-list/po/zh_CN/ktp-contactlist.po | 
+ | [zh_Hant](/f34/language/zh_Hant) | 680 | 680 | 100.0 | /mnt/stockage/packages/f34/ktp-contact-list/po/zh_TW/ktp-contactlist.po | 
+ | [it](/f34/language/it) | 625 | 680 | 91.9 | /mnt/stockage/packages/f34/ktp-contact-list/po/it/ktp-contactlist.po | 
+ | [de](/f34/language/de) | 570 | 680 | 83.8 | /mnt/stockage/packages/f34/ktp-contact-list/po/de/ktp-contactlist.po | 
+ | [cs](/f34/language/cs) | 474 | 680 | 69.7 | /mnt/stockage/packages/f34/ktp-contact-list/po/cs/ktp-contactlist.po | 
+ | [et](/f34/language/et) | 428 | 680 | 62.9 | /mnt/stockage/packages/f34/ktp-contact-list/po/et/ktp-contactlist.po | 
+ | [da](/f34/language/da) | 407 | 680 | 59.9 | /mnt/stockage/packages/f34/ktp-contact-list/po/da/ktp-contactlist.po | 
+ | [ia](/f34/language/ia) | 407 | 680 | 59.9 | /mnt/stockage/packages/f34/ktp-contact-list/po/ia/ktp-contactlist.po | 
+ | [sk](/f34/language/sk) | 407 | 680 | 59.9 | /mnt/stockage/packages/f34/ktp-contact-list/po/sk/ktp-contactlist.po | 
+ | [ro](/f34/language/ro) | 387 | 680 | 56.9 | /mnt/stockage/packages/f34/ktp-contact-list/po/ro/ktp-contactlist.po | 
+ | [ru](/f34/language/ru) | 387 | 680 | 56.9 | /mnt/stockage/packages/f34/ktp-contact-list/po/ru/ktp-contactlist.po | 
+ | [tr](/f34/language/tr) | 387 | 680 | 56.9 | /mnt/stockage/packages/f34/ktp-contact-list/po/tr/ktp-contactlist.po | 
+ | [bs](/f34/language/bs) | 380 | 680 | 55.9 | /mnt/stockage/packages/f34/ktp-contact-list/po/bs/ktp-contactlist.po | 
+ | [hu](/f34/language/hu) | 377 | 680 | 55.4 | /mnt/stockage/packages/f34/ktp-contact-list/po/hu/ktp-contactlist.po | 
+ | [nb_NO](/f34/language/nb_NO) | 377 | 680 | 55.4 | /mnt/stockage/packages/f34/ktp-contact-list/po/nb/ktp-contactlist.po | 
+ | [nds](/f34/language/nds) | 377 | 680 | 55.4 | /mnt/stockage/packages/f34/ktp-contact-list/po/nds/ktp-contactlist.po | 
+ | [kk](/f34/language/kk) | 353 | 680 | 51.9 | /mnt/stockage/packages/f34/ktp-contact-list/po/kk/ktp-contactlist.po | 
+ | [lt](/f34/language/lt) | 328 | 680 | 48.2 | /mnt/stockage/packages/f34/ktp-contact-list/po/lt/ktp-contactlist.po | 
+ | [km](/f34/language/km) | 273 | 680 | 40.1 | /mnt/stockage/packages/f34/ktp-contact-list/po/km/ktp-contactlist.po | 
+ | [ar](/f34/language/ar) | 200 | 680 | 29.4 | /mnt/stockage/packages/f34/ktp-contact-list/po/ar/ktp-contactlist.po | 
+ | [pa](/f34/language/pa) | 141 | 680 | 20.7 | /mnt/stockage/packages/f34/ktp-contact-list/po/pa/ktp-contactlist.po | 
+ | [ug](/f34/language/ug) | 56 | 680 | 8.2 | /mnt/stockage/packages/f34/ktp-contact-list/po/ug/ktp-contactlist.po | 
+ | [ga](/f34/language/ga) | 48 | 680 | 7.1 | /mnt/stockage/packages/f34/ktp-contact-list/po/ga/ktp-contactlist.po | 
+ | [mr](/f34/language/mr) | 30 | 680 | 4.4 | /mnt/stockage/packages/f34/ktp-contact-list/po/mr/ktp-contactlist.po | 
+ | [ja](/f34/language/ja) | 0 | 680 | 0.0 | /mnt/stockage/packages/f34/ktp-contact-list/po/ja/ktp-contactlist.po | 
 {.sortable}
 
 

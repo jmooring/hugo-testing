@@ -18,89 +18,89 @@ The package libgedit-gtksourceview (version 299.4.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [be]({{< ref "/f42/language/be.md" >}}) | 319 | 319 | 100.0 | /mnt/stockage/packages/f42/libgedit-gtksourceview/po/be.po | 
- | [da]({{< ref "/f42/language/da.md" >}}) | 319 | 319 | 100.0 | /mnt/stockage/packages/f42/libgedit-gtksourceview/po/da.po | 
- | [de]({{< ref "/f42/language/de.md" >}}) | 319 | 319 | 100.0 | /mnt/stockage/packages/f42/libgedit-gtksourceview/po/de.po | 
- | [ka]({{< ref "/f42/language/ka.md" >}}) | 319 | 319 | 100.0 | /mnt/stockage/packages/f42/libgedit-gtksourceview/po/ka.po | 
- | [pt_BR]({{< ref "/f42/language/pt_BR.md" >}}) | 319 | 319 | 100.0 | /mnt/stockage/packages/f42/libgedit-gtksourceview/po/pt_BR.po | 
- | [ru]({{< ref "/f42/language/ru.md" >}}) | 319 | 319 | 100.0 | /mnt/stockage/packages/f42/libgedit-gtksourceview/po/ru.po | 
- | [sl]({{< ref "/f42/language/sl.md" >}}) | 319 | 319 | 100.0 | /mnt/stockage/packages/f42/libgedit-gtksourceview/po/sl.po | 
- | [sv]({{< ref "/f42/language/sv.md" >}}) | 319 | 319 | 100.0 | /mnt/stockage/packages/f42/libgedit-gtksourceview/po/sv.po | 
- | [tr]({{< ref "/f42/language/tr.md" >}}) | 319 | 319 | 100.0 | /mnt/stockage/packages/f42/libgedit-gtksourceview/po/tr.po | 
- | [uk]({{< ref "/f42/language/uk.md" >}}) | 319 | 319 | 100.0 | /mnt/stockage/packages/f42/libgedit-gtksourceview/po/uk.po | 
- | [zh_Hans]({{< ref "/f42/language/zh_Hans.md" >}}) | 319 | 319 | 100.0 | /mnt/stockage/packages/f42/libgedit-gtksourceview/po/zh_CN.po | 
- | [es]({{< ref "/f42/language/es.md" >}}) | 303 | 319 | 95.0 | /mnt/stockage/packages/f42/libgedit-gtksourceview/po/es.po | 
- | [fr]({{< ref "/f42/language/fr.md" >}}) | 303 | 319 | 95.0 | /mnt/stockage/packages/f42/libgedit-gtksourceview/po/fr.po | 
- | [hr]({{< ref "/f42/language/hr.md" >}}) | 303 | 319 | 95.0 | /mnt/stockage/packages/f42/libgedit-gtksourceview/po/hr.po | 
- | [pl]({{< ref "/f42/language/pl.md" >}}) | 303 | 319 | 95.0 | /mnt/stockage/packages/f42/libgedit-gtksourceview/po/pl.po | 
- | [sk]({{< ref "/f42/language/sk.md" >}}) | 303 | 319 | 95.0 | /mnt/stockage/packages/f42/libgedit-gtksourceview/po/sk.po | 
- | [ca]({{< ref "/f42/language/ca.md" >}}) | 301 | 319 | 94.4 | /mnt/stockage/packages/f42/libgedit-gtksourceview/po/ca.po | 
- | [cs]({{< ref "/f42/language/cs.md" >}}) | 301 | 319 | 94.4 | /mnt/stockage/packages/f42/libgedit-gtksourceview/po/cs.po | 
- | [el]({{< ref "/f42/language/el.md" >}}) | 301 | 319 | 94.4 | /mnt/stockage/packages/f42/libgedit-gtksourceview/po/el.po | 
- | [eu]({{< ref "/f42/language/eu.md" >}}) | 301 | 319 | 94.4 | /mnt/stockage/packages/f42/libgedit-gtksourceview/po/eu.po | 
- | [fur]({{< ref "/f42/language/fur.md" >}}) | 301 | 319 | 94.4 | /mnt/stockage/packages/f42/libgedit-gtksourceview/po/fur.po | 
- | [gl]({{< ref "/f42/language/gl.md" >}}) | 301 | 319 | 94.4 | /mnt/stockage/packages/f42/libgedit-gtksourceview/po/gl.po | 
- | [hu]({{< ref "/f42/language/hu.md" >}}) | 301 | 319 | 94.4 | /mnt/stockage/packages/f42/libgedit-gtksourceview/po/hu.po | 
- | [id]({{< ref "/f42/language/id.md" >}}) | 301 | 319 | 94.4 | /mnt/stockage/packages/f42/libgedit-gtksourceview/po/id.po | 
- | [it]({{< ref "/f42/language/it.md" >}}) | 301 | 319 | 94.4 | /mnt/stockage/packages/f42/libgedit-gtksourceview/po/it.po | 
- | [ko]({{< ref "/f42/language/ko.md" >}}) | 301 | 319 | 94.4 | /mnt/stockage/packages/f42/libgedit-gtksourceview/po/ko.po | 
- | [lt]({{< ref "/f42/language/lt.md" >}}) | 301 | 319 | 94.4 | /mnt/stockage/packages/f42/libgedit-gtksourceview/po/lt.po | 
- | [lv]({{< ref "/f42/language/lv.md" >}}) | 301 | 319 | 94.4 | /mnt/stockage/packages/f42/libgedit-gtksourceview/po/lv.po | 
- | [nb_NO]({{< ref "/f42/language/nb_NO.md" >}}) | 301 | 319 | 94.4 | /mnt/stockage/packages/f42/libgedit-gtksourceview/po/nb.po | 
- | [nl]({{< ref "/f42/language/nl.md" >}}) | 301 | 319 | 94.4 | /mnt/stockage/packages/f42/libgedit-gtksourceview/po/nl.po | 
- | [ro]({{< ref "/f42/language/ro.md" >}}) | 301 | 319 | 94.4 | /mnt/stockage/packages/f42/libgedit-gtksourceview/po/ro.po | 
- | [sr]({{< ref "/f42/language/sr.md" >}}) | 301 | 319 | 94.4 | /mnt/stockage/packages/f42/libgedit-gtksourceview/po/sr.po | 
- | [sr_Latn]({{< ref "/f42/language/sr_Latn.md" >}}) | 301 | 319 | 94.4 | /mnt/stockage/packages/f42/libgedit-gtksourceview/po/sr@latin.po | 
- | [zh_Hant]({{< ref "/f42/language/zh_Hant.md" >}}) | 301 | 319 | 94.4 | /mnt/stockage/packages/f42/libgedit-gtksourceview/po/zh_TW.po | 
- | [en_GB]({{< ref "/f42/language/en_GB.md" >}}) | 236 | 319 | 74.0 | /mnt/stockage/packages/f42/libgedit-gtksourceview/po/en_GB.po | 
- | [he]({{< ref "/f42/language/he.md" >}}) | 236 | 319 | 74.0 | /mnt/stockage/packages/f42/libgedit-gtksourceview/po/he.po | 
- | [pt]({{< ref "/f42/language/pt.md" >}}) | 236 | 319 | 74.0 | /mnt/stockage/packages/f42/libgedit-gtksourceview/po/pt.po | 
- | [vi]({{< ref "/f42/language/vi.md" >}}) | 236 | 319 | 74.0 | /mnt/stockage/packages/f42/libgedit-gtksourceview/po/vi.po | 
- | [bg]({{< ref "/f42/language/bg.md" >}}) | 232 | 319 | 72.7 | /mnt/stockage/packages/f42/libgedit-gtksourceview/po/bg.po | 
- | [ca@valencia]({{< ref "/f42/language/ca@valencia.md" >}}) | 204 | 319 | 63.9 | /mnt/stockage/packages/f42/libgedit-gtksourceview/po/ca@valencia.po | 
- | [oc]({{< ref "/f42/language/oc.md" >}}) | 203 | 319 | 63.6 | /mnt/stockage/packages/f42/libgedit-gtksourceview/po/oc.po | 
- | [as]({{< ref "/f42/language/as.md" >}}) | 199 | 319 | 62.4 | /mnt/stockage/packages/f42/libgedit-gtksourceview/po/as.po | 
- | [bs]({{< ref "/f42/language/bs.md" >}}) | 199 | 319 | 62.4 | /mnt/stockage/packages/f42/libgedit-gtksourceview/po/bs.po | 
- | [zh_Hant_HK]({{< ref "/f42/language/zh_Hant_HK.md" >}}) | 199 | 319 | 62.4 | /mnt/stockage/packages/f42/libgedit-gtksourceview/po/zh_HK.po | 
- | [ja]({{< ref "/f42/language/ja.md" >}}) | 191 | 319 | 59.9 | /mnt/stockage/packages/f42/libgedit-gtksourceview/po/ja.po | 
- | [gu]({{< ref "/f42/language/gu.md" >}}) | 153 | 319 | 48.0 | /mnt/stockage/packages/f42/libgedit-gtksourceview/po/gu.po | 
- | [fi]({{< ref "/f42/language/fi.md" >}}) | 145 | 319 | 45.5 | /mnt/stockage/packages/f42/libgedit-gtksourceview/po/fi.po | 
- | [kk]({{< ref "/f42/language/kk.md" >}}) | 126 | 319 | 39.5 | /mnt/stockage/packages/f42/libgedit-gtksourceview/po/kk.po | 
- | [pa]({{< ref "/f42/language/pa.md" >}}) | 116 | 319 | 36.4 | /mnt/stockage/packages/f42/libgedit-gtksourceview/po/pa.po | 
- | [hi]({{< ref "/f42/language/hi.md" >}}) | 113 | 319 | 35.4 | /mnt/stockage/packages/f42/libgedit-gtksourceview/po/hi.po | 
- | [ta]({{< ref "/f42/language/ta.md" >}}) | 113 | 319 | 35.4 | /mnt/stockage/packages/f42/libgedit-gtksourceview/po/ta.po | 
- | [th]({{< ref "/f42/language/th.md" >}}) | 113 | 319 | 35.4 | /mnt/stockage/packages/f42/libgedit-gtksourceview/po/th.po | 
- | [ug]({{< ref "/f42/language/ug.md" >}}) | 113 | 319 | 35.4 | /mnt/stockage/packages/f42/libgedit-gtksourceview/po/ug.po | 
- | [te]({{< ref "/f42/language/te.md" >}}) | 109 | 319 | 34.2 | /mnt/stockage/packages/f42/libgedit-gtksourceview/po/te.po | 
- | [kn]({{< ref "/f42/language/kn.md" >}}) | 107 | 319 | 33.5 | /mnt/stockage/packages/f42/libgedit-gtksourceview/po/kn.po | 
- | [ast]({{< ref "/f42/language/ast.md" >}}) | 105 | 319 | 32.9 | /mnt/stockage/packages/f42/libgedit-gtksourceview/po/ast.po | 
- | [mk]({{< ref "/f42/language/mk.md" >}}) | 105 | 319 | 32.9 | /mnt/stockage/packages/f42/libgedit-gtksourceview/po/mk.po | 
- | [bn]({{< ref "/f42/language/bn.md" >}}) | 101 | 319 | 31.7 | /mnt/stockage/packages/f42/libgedit-gtksourceview/po/bn.po | 
- | [nn]({{< ref "/f42/language/nn.md" >}}) | 101 | 319 | 31.7 | /mnt/stockage/packages/f42/libgedit-gtksourceview/po/nn.po | 
- | [or]({{< ref "/f42/language/or.md" >}}) | 99 | 319 | 31.0 | /mnt/stockage/packages/f42/libgedit-gtksourceview/po/or.po | 
- | [et]({{< ref "/f42/language/et.md" >}}) | 96 | 319 | 30.1 | /mnt/stockage/packages/f42/libgedit-gtksourceview/po/et.po | 
- | [ar]({{< ref "/f42/language/ar.md" >}}) | 93 | 319 | 29.2 | /mnt/stockage/packages/f42/libgedit-gtksourceview/po/ar.po | 
- | [bn_IN]({{< ref "/f42/language/bn_IN.md" >}}) | 93 | 319 | 29.2 | /mnt/stockage/packages/f42/libgedit-gtksourceview/po/bn_IN.po | 
- | [ml]({{< ref "/f42/language/ml.md" >}}) | 93 | 319 | 29.2 | /mnt/stockage/packages/f42/libgedit-gtksourceview/po/ml.po | 
- | [mr]({{< ref "/f42/language/mr.md" >}}) | 93 | 319 | 29.2 | /mnt/stockage/packages/f42/libgedit-gtksourceview/po/mr.po | 
- | [error]({{< ref "/f42/language/error.md" >}}) | 72 | 319 | 22.6 | /mnt/stockage/packages/f42/libgedit-gtksourceview/po/en@shaw.po | 
- | [dz]({{< ref "/f42/language/dz.md" >}}) | 71 | 319 | 22.3 | /mnt/stockage/packages/f42/libgedit-gtksourceview/po/dz.po | 
- | [en_CA]({{< ref "/f42/language/en_CA.md" >}}) | 71 | 319 | 22.3 | /mnt/stockage/packages/f42/libgedit-gtksourceview/po/en_CA.po | 
- | [ne]({{< ref "/f42/language/ne.md" >}}) | 71 | 319 | 22.3 | /mnt/stockage/packages/f42/libgedit-gtksourceview/po/ne.po | 
- | [ga]({{< ref "/f42/language/ga.md" >}}) | 37 | 319 | 11.6 | /mnt/stockage/packages/f42/libgedit-gtksourceview/po/ga.po | 
- | [eo]({{< ref "/f42/language/eo.md" >}}) | 29 | 319 | 9.1 | /mnt/stockage/packages/f42/libgedit-gtksourceview/po/eo.po | 
- | [fa]({{< ref "/f42/language/fa.md" >}}) | 8 | 319 | 2.5 | /mnt/stockage/packages/f42/libgedit-gtksourceview/po/fa.po | 
- | [mai]({{< ref "/f42/language/mai.md" >}}) | 7 | 319 | 2.2 | /mnt/stockage/packages/f42/libgedit-gtksourceview/po/mai.po | 
- | [si]({{< ref "/f42/language/si.md" >}}) | 7 | 319 | 2.2 | /mnt/stockage/packages/f42/libgedit-gtksourceview/po/si.po | 
- | [az]({{< ref "/f42/language/az.md" >}}) | 4 | 319 | 1.3 | /mnt/stockage/packages/f42/libgedit-gtksourceview/po/az.po | 
- | [cy]({{< ref "/f42/language/cy.md" >}}) | 4 | 319 | 1.3 | /mnt/stockage/packages/f42/libgedit-gtksourceview/po/cy.po | 
- | [mg]({{< ref "/f42/language/mg.md" >}}) | 4 | 319 | 1.3 | /mnt/stockage/packages/f42/libgedit-gtksourceview/po/mg.po | 
- | [mn]({{< ref "/f42/language/mn.md" >}}) | 4 | 319 | 1.3 | /mnt/stockage/packages/f42/libgedit-gtksourceview/po/mn.po | 
- | [ms]({{< ref "/f42/language/ms.md" >}}) | 4 | 319 | 1.3 | /mnt/stockage/packages/f42/libgedit-gtksourceview/po/ms.po | 
- | [sq]({{< ref "/f42/language/sq.md" >}}) | 4 | 319 | 1.3 | /mnt/stockage/packages/f42/libgedit-gtksourceview/po/sq.po | 
- | [tg]({{< ref "/f42/language/tg.md" >}}) | 4 | 319 | 1.3 | /mnt/stockage/packages/f42/libgedit-gtksourceview/po/tg.po | 
- | [xh]({{< ref "/f42/language/xh.md" >}}) | 4 | 319 | 1.3 | /mnt/stockage/packages/f42/libgedit-gtksourceview/po/xh.po | 
- | [rw]({{< ref "/f42/language/rw.md" >}}) | 1 | 319 | 0.3 | /mnt/stockage/packages/f42/libgedit-gtksourceview/po/rw.po | 
+ | [be](/f42/language/be) | 319 | 319 | 100.0 | /mnt/stockage/packages/f42/libgedit-gtksourceview/po/be.po | 
+ | [da](/f42/language/da) | 319 | 319 | 100.0 | /mnt/stockage/packages/f42/libgedit-gtksourceview/po/da.po | 
+ | [de](/f42/language/de) | 319 | 319 | 100.0 | /mnt/stockage/packages/f42/libgedit-gtksourceview/po/de.po | 
+ | [ka](/f42/language/ka) | 319 | 319 | 100.0 | /mnt/stockage/packages/f42/libgedit-gtksourceview/po/ka.po | 
+ | [pt_BR](/f42/language/pt_BR) | 319 | 319 | 100.0 | /mnt/stockage/packages/f42/libgedit-gtksourceview/po/pt_BR.po | 
+ | [ru](/f42/language/ru) | 319 | 319 | 100.0 | /mnt/stockage/packages/f42/libgedit-gtksourceview/po/ru.po | 
+ | [sl](/f42/language/sl) | 319 | 319 | 100.0 | /mnt/stockage/packages/f42/libgedit-gtksourceview/po/sl.po | 
+ | [sv](/f42/language/sv) | 319 | 319 | 100.0 | /mnt/stockage/packages/f42/libgedit-gtksourceview/po/sv.po | 
+ | [tr](/f42/language/tr) | 319 | 319 | 100.0 | /mnt/stockage/packages/f42/libgedit-gtksourceview/po/tr.po | 
+ | [uk](/f42/language/uk) | 319 | 319 | 100.0 | /mnt/stockage/packages/f42/libgedit-gtksourceview/po/uk.po | 
+ | [zh_Hans](/f42/language/zh_Hans) | 319 | 319 | 100.0 | /mnt/stockage/packages/f42/libgedit-gtksourceview/po/zh_CN.po | 
+ | [es](/f42/language/es) | 303 | 319 | 95.0 | /mnt/stockage/packages/f42/libgedit-gtksourceview/po/es.po | 
+ | [fr](/f42/language/fr) | 303 | 319 | 95.0 | /mnt/stockage/packages/f42/libgedit-gtksourceview/po/fr.po | 
+ | [hr](/f42/language/hr) | 303 | 319 | 95.0 | /mnt/stockage/packages/f42/libgedit-gtksourceview/po/hr.po | 
+ | [pl](/f42/language/pl) | 303 | 319 | 95.0 | /mnt/stockage/packages/f42/libgedit-gtksourceview/po/pl.po | 
+ | [sk](/f42/language/sk) | 303 | 319 | 95.0 | /mnt/stockage/packages/f42/libgedit-gtksourceview/po/sk.po | 
+ | [ca](/f42/language/ca) | 301 | 319 | 94.4 | /mnt/stockage/packages/f42/libgedit-gtksourceview/po/ca.po | 
+ | [cs](/f42/language/cs) | 301 | 319 | 94.4 | /mnt/stockage/packages/f42/libgedit-gtksourceview/po/cs.po | 
+ | [el](/f42/language/el) | 301 | 319 | 94.4 | /mnt/stockage/packages/f42/libgedit-gtksourceview/po/el.po | 
+ | [eu](/f42/language/eu) | 301 | 319 | 94.4 | /mnt/stockage/packages/f42/libgedit-gtksourceview/po/eu.po | 
+ | [fur](/f42/language/fur) | 301 | 319 | 94.4 | /mnt/stockage/packages/f42/libgedit-gtksourceview/po/fur.po | 
+ | [gl](/f42/language/gl) | 301 | 319 | 94.4 | /mnt/stockage/packages/f42/libgedit-gtksourceview/po/gl.po | 
+ | [hu](/f42/language/hu) | 301 | 319 | 94.4 | /mnt/stockage/packages/f42/libgedit-gtksourceview/po/hu.po | 
+ | [id](/f42/language/id) | 301 | 319 | 94.4 | /mnt/stockage/packages/f42/libgedit-gtksourceview/po/id.po | 
+ | [it](/f42/language/it) | 301 | 319 | 94.4 | /mnt/stockage/packages/f42/libgedit-gtksourceview/po/it.po | 
+ | [ko](/f42/language/ko) | 301 | 319 | 94.4 | /mnt/stockage/packages/f42/libgedit-gtksourceview/po/ko.po | 
+ | [lt](/f42/language/lt) | 301 | 319 | 94.4 | /mnt/stockage/packages/f42/libgedit-gtksourceview/po/lt.po | 
+ | [lv](/f42/language/lv) | 301 | 319 | 94.4 | /mnt/stockage/packages/f42/libgedit-gtksourceview/po/lv.po | 
+ | [nb_NO](/f42/language/nb_NO) | 301 | 319 | 94.4 | /mnt/stockage/packages/f42/libgedit-gtksourceview/po/nb.po | 
+ | [nl](/f42/language/nl) | 301 | 319 | 94.4 | /mnt/stockage/packages/f42/libgedit-gtksourceview/po/nl.po | 
+ | [ro](/f42/language/ro) | 301 | 319 | 94.4 | /mnt/stockage/packages/f42/libgedit-gtksourceview/po/ro.po | 
+ | [sr](/f42/language/sr) | 301 | 319 | 94.4 | /mnt/stockage/packages/f42/libgedit-gtksourceview/po/sr.po | 
+ | [sr_Latn](/f42/language/sr_Latn) | 301 | 319 | 94.4 | /mnt/stockage/packages/f42/libgedit-gtksourceview/po/sr@latin.po | 
+ | [zh_Hant](/f42/language/zh_Hant) | 301 | 319 | 94.4 | /mnt/stockage/packages/f42/libgedit-gtksourceview/po/zh_TW.po | 
+ | [en_GB](/f42/language/en_GB) | 236 | 319 | 74.0 | /mnt/stockage/packages/f42/libgedit-gtksourceview/po/en_GB.po | 
+ | [he](/f42/language/he) | 236 | 319 | 74.0 | /mnt/stockage/packages/f42/libgedit-gtksourceview/po/he.po | 
+ | [pt](/f42/language/pt) | 236 | 319 | 74.0 | /mnt/stockage/packages/f42/libgedit-gtksourceview/po/pt.po | 
+ | [vi](/f42/language/vi) | 236 | 319 | 74.0 | /mnt/stockage/packages/f42/libgedit-gtksourceview/po/vi.po | 
+ | [bg](/f42/language/bg) | 232 | 319 | 72.7 | /mnt/stockage/packages/f42/libgedit-gtksourceview/po/bg.po | 
+ | [ca@valencia](/f42/language/ca@valencia) | 204 | 319 | 63.9 | /mnt/stockage/packages/f42/libgedit-gtksourceview/po/ca@valencia.po | 
+ | [oc](/f42/language/oc) | 203 | 319 | 63.6 | /mnt/stockage/packages/f42/libgedit-gtksourceview/po/oc.po | 
+ | [as](/f42/language/as) | 199 | 319 | 62.4 | /mnt/stockage/packages/f42/libgedit-gtksourceview/po/as.po | 
+ | [bs](/f42/language/bs) | 199 | 319 | 62.4 | /mnt/stockage/packages/f42/libgedit-gtksourceview/po/bs.po | 
+ | [zh_Hant_HK](/f42/language/zh_Hant_HK) | 199 | 319 | 62.4 | /mnt/stockage/packages/f42/libgedit-gtksourceview/po/zh_HK.po | 
+ | [ja](/f42/language/ja) | 191 | 319 | 59.9 | /mnt/stockage/packages/f42/libgedit-gtksourceview/po/ja.po | 
+ | [gu](/f42/language/gu) | 153 | 319 | 48.0 | /mnt/stockage/packages/f42/libgedit-gtksourceview/po/gu.po | 
+ | [fi](/f42/language/fi) | 145 | 319 | 45.5 | /mnt/stockage/packages/f42/libgedit-gtksourceview/po/fi.po | 
+ | [kk](/f42/language/kk) | 126 | 319 | 39.5 | /mnt/stockage/packages/f42/libgedit-gtksourceview/po/kk.po | 
+ | [pa](/f42/language/pa) | 116 | 319 | 36.4 | /mnt/stockage/packages/f42/libgedit-gtksourceview/po/pa.po | 
+ | [hi](/f42/language/hi) | 113 | 319 | 35.4 | /mnt/stockage/packages/f42/libgedit-gtksourceview/po/hi.po | 
+ | [ta](/f42/language/ta) | 113 | 319 | 35.4 | /mnt/stockage/packages/f42/libgedit-gtksourceview/po/ta.po | 
+ | [th](/f42/language/th) | 113 | 319 | 35.4 | /mnt/stockage/packages/f42/libgedit-gtksourceview/po/th.po | 
+ | [ug](/f42/language/ug) | 113 | 319 | 35.4 | /mnt/stockage/packages/f42/libgedit-gtksourceview/po/ug.po | 
+ | [te](/f42/language/te) | 109 | 319 | 34.2 | /mnt/stockage/packages/f42/libgedit-gtksourceview/po/te.po | 
+ | [kn](/f42/language/kn) | 107 | 319 | 33.5 | /mnt/stockage/packages/f42/libgedit-gtksourceview/po/kn.po | 
+ | [ast](/f42/language/ast) | 105 | 319 | 32.9 | /mnt/stockage/packages/f42/libgedit-gtksourceview/po/ast.po | 
+ | [mk](/f42/language/mk) | 105 | 319 | 32.9 | /mnt/stockage/packages/f42/libgedit-gtksourceview/po/mk.po | 
+ | [bn](/f42/language/bn) | 101 | 319 | 31.7 | /mnt/stockage/packages/f42/libgedit-gtksourceview/po/bn.po | 
+ | [nn](/f42/language/nn) | 101 | 319 | 31.7 | /mnt/stockage/packages/f42/libgedit-gtksourceview/po/nn.po | 
+ | [or](/f42/language/or) | 99 | 319 | 31.0 | /mnt/stockage/packages/f42/libgedit-gtksourceview/po/or.po | 
+ | [et](/f42/language/et) | 96 | 319 | 30.1 | /mnt/stockage/packages/f42/libgedit-gtksourceview/po/et.po | 
+ | [ar](/f42/language/ar) | 93 | 319 | 29.2 | /mnt/stockage/packages/f42/libgedit-gtksourceview/po/ar.po | 
+ | [bn_IN](/f42/language/bn_IN) | 93 | 319 | 29.2 | /mnt/stockage/packages/f42/libgedit-gtksourceview/po/bn_IN.po | 
+ | [ml](/f42/language/ml) | 93 | 319 | 29.2 | /mnt/stockage/packages/f42/libgedit-gtksourceview/po/ml.po | 
+ | [mr](/f42/language/mr) | 93 | 319 | 29.2 | /mnt/stockage/packages/f42/libgedit-gtksourceview/po/mr.po | 
+ | [error](/f42/language/error) | 72 | 319 | 22.6 | /mnt/stockage/packages/f42/libgedit-gtksourceview/po/en@shaw.po | 
+ | [dz](/f42/language/dz) | 71 | 319 | 22.3 | /mnt/stockage/packages/f42/libgedit-gtksourceview/po/dz.po | 
+ | [en_CA](/f42/language/en_CA) | 71 | 319 | 22.3 | /mnt/stockage/packages/f42/libgedit-gtksourceview/po/en_CA.po | 
+ | [ne](/f42/language/ne) | 71 | 319 | 22.3 | /mnt/stockage/packages/f42/libgedit-gtksourceview/po/ne.po | 
+ | [ga](/f42/language/ga) | 37 | 319 | 11.6 | /mnt/stockage/packages/f42/libgedit-gtksourceview/po/ga.po | 
+ | [eo](/f42/language/eo) | 29 | 319 | 9.1 | /mnt/stockage/packages/f42/libgedit-gtksourceview/po/eo.po | 
+ | [fa](/f42/language/fa) | 8 | 319 | 2.5 | /mnt/stockage/packages/f42/libgedit-gtksourceview/po/fa.po | 
+ | [mai](/f42/language/mai) | 7 | 319 | 2.2 | /mnt/stockage/packages/f42/libgedit-gtksourceview/po/mai.po | 
+ | [si](/f42/language/si) | 7 | 319 | 2.2 | /mnt/stockage/packages/f42/libgedit-gtksourceview/po/si.po | 
+ | [az](/f42/language/az) | 4 | 319 | 1.3 | /mnt/stockage/packages/f42/libgedit-gtksourceview/po/az.po | 
+ | [cy](/f42/language/cy) | 4 | 319 | 1.3 | /mnt/stockage/packages/f42/libgedit-gtksourceview/po/cy.po | 
+ | [mg](/f42/language/mg) | 4 | 319 | 1.3 | /mnt/stockage/packages/f42/libgedit-gtksourceview/po/mg.po | 
+ | [mn](/f42/language/mn) | 4 | 319 | 1.3 | /mnt/stockage/packages/f42/libgedit-gtksourceview/po/mn.po | 
+ | [ms](/f42/language/ms) | 4 | 319 | 1.3 | /mnt/stockage/packages/f42/libgedit-gtksourceview/po/ms.po | 
+ | [sq](/f42/language/sq) | 4 | 319 | 1.3 | /mnt/stockage/packages/f42/libgedit-gtksourceview/po/sq.po | 
+ | [tg](/f42/language/tg) | 4 | 319 | 1.3 | /mnt/stockage/packages/f42/libgedit-gtksourceview/po/tg.po | 
+ | [xh](/f42/language/xh) | 4 | 319 | 1.3 | /mnt/stockage/packages/f42/libgedit-gtksourceview/po/xh.po | 
+ | [rw](/f42/language/rw) | 1 | 319 | 0.3 | /mnt/stockage/packages/f42/libgedit-gtksourceview/po/rw.po | 
 {.sortable}
 
 

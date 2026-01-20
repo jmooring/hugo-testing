@@ -38,7 +38,7 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [Zim]({{< ref "/f41/package/Zim.md" >}}) | 0 | 3529 | 0.0 | none | 
+ | [Zim](/f41/package/Zim) | 0 | 3529 | 0.0 | none | 
 {.sortable}
 
 

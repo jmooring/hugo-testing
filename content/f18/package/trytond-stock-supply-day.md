@@ -18,16 +18,16 @@ The package trytond-stock-supply-day (version 2.4.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [bg]({{< ref "/f18/language/bg.md" >}}) | 29 | 29 | 100.0 | /mnt/stockage/packages/f18/trytond-stock-supply-day/locale/bg_BG.po | 
- | [de]({{< ref "/f18/language/de.md" >}}) | 29 | 29 | 100.0 | /mnt/stockage/packages/f18/trytond-stock-supply-day/locale/de_DE.po | 
- | [es]({{< ref "/f18/language/es.md" >}}) | 29 | 29 | 100.0 | /mnt/stockage/packages/f18/trytond-stock-supply-day/locale/es_ES.po | 
- | [es_AR]({{< ref "/f18/language/es_AR.md" >}}) | 29 | 29 | 100.0 | /mnt/stockage/packages/f18/trytond-stock-supply-day/locale/es_AR.po | 
- | [fr]({{< ref "/f18/language/fr.md" >}}) | 38 | 38 | 100.0 | /mnt/stockage/packages/f18/trytond-stock-supply-day/locale/fr_FR.po | 
- | [ca]({{< ref "/f18/language/ca.md" >}}) | 20 | 29 | 69.0 | /mnt/stockage/packages/f18/trytond-stock-supply-day/locale/ca_ES.po | 
- | [es_CO]({{< ref "/f18/language/es_CO.md" >}}) | 20 | 29 | 69.0 | /mnt/stockage/packages/f18/trytond-stock-supply-day/locale/es_CO.po | 
- | [cs]({{< ref "/f18/language/cs.md" >}}) | 0 | 29 | 0.0 | /mnt/stockage/packages/f18/trytond-stock-supply-day/locale/cs_CZ.po | 
- | [nl]({{< ref "/f18/language/nl.md" >}}) | 0 | 29 | 0.0 | /mnt/stockage/packages/f18/trytond-stock-supply-day/locale/nl_NL.po | 
- | [ru]({{< ref "/f18/language/ru.md" >}}) | 0 | 29 | 0.0 | /mnt/stockage/packages/f18/trytond-stock-supply-day/locale/ru_RU.po | 
+ | [bg](/f18/language/bg) | 29 | 29 | 100.0 | /mnt/stockage/packages/f18/trytond-stock-supply-day/locale/bg_BG.po | 
+ | [de](/f18/language/de) | 29 | 29 | 100.0 | /mnt/stockage/packages/f18/trytond-stock-supply-day/locale/de_DE.po | 
+ | [es](/f18/language/es) | 29 | 29 | 100.0 | /mnt/stockage/packages/f18/trytond-stock-supply-day/locale/es_ES.po | 
+ | [es_AR](/f18/language/es_AR) | 29 | 29 | 100.0 | /mnt/stockage/packages/f18/trytond-stock-supply-day/locale/es_AR.po | 
+ | [fr](/f18/language/fr) | 38 | 38 | 100.0 | /mnt/stockage/packages/f18/trytond-stock-supply-day/locale/fr_FR.po | 
+ | [ca](/f18/language/ca) | 20 | 29 | 69.0 | /mnt/stockage/packages/f18/trytond-stock-supply-day/locale/ca_ES.po | 
+ | [es_CO](/f18/language/es_CO) | 20 | 29 | 69.0 | /mnt/stockage/packages/f18/trytond-stock-supply-day/locale/es_CO.po | 
+ | [cs](/f18/language/cs) | 0 | 29 | 0.0 | /mnt/stockage/packages/f18/trytond-stock-supply-day/locale/cs_CZ.po | 
+ | [nl](/f18/language/nl) | 0 | 29 | 0.0 | /mnt/stockage/packages/f18/trytond-stock-supply-day/locale/nl_NL.po | 
+ | [ru](/f18/language/ru) | 0 | 29 | 0.0 | /mnt/stockage/packages/f18/trytond-stock-supply-day/locale/ru_RU.po | 
 {.sortable}
 
 

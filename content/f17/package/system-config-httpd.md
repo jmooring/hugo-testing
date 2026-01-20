@@ -18,69 +18,69 @@ The package system-config-httpd (version 1.5.5):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f17/language/ar.md" >}}) | 867 | 867 | 100.0 | /mnt/stockage/packages/f17/system-config-httpd/po/ar.po | 
- | [as]({{< ref "/f17/language/as.md" >}}) | 877 | 877 | 100.0 | /mnt/stockage/packages/f17/system-config-httpd/po/as.po | 
- | [bg]({{< ref "/f17/language/bg.md" >}}) | 866 | 866 | 100.0 | /mnt/stockage/packages/f17/system-config-httpd/po/bg.po | 
- | [bn_IN]({{< ref "/f17/language/bn_IN.md" >}}) | 877 | 877 | 100.0 | /mnt/stockage/packages/f17/system-config-httpd/po/bn_IN.po | 
- | [ca]({{< ref "/f17/language/ca.md" >}}) | 877 | 877 | 100.0 | /mnt/stockage/packages/f17/system-config-httpd/po/ca.po | 
- | [cs]({{< ref "/f17/language/cs.md" >}}) | 877 | 877 | 100.0 | /mnt/stockage/packages/f17/system-config-httpd/po/cs.po | 
- | [da]({{< ref "/f17/language/da.md" >}}) | 877 | 877 | 100.0 | /mnt/stockage/packages/f17/system-config-httpd/po/da.po | 
- | [de]({{< ref "/f17/language/de.md" >}}) | 877 | 877 | 100.0 | /mnt/stockage/packages/f17/system-config-httpd/po/de.po | 
- | [en_GB]({{< ref "/f17/language/en_GB.md" >}}) | 858 | 858 | 100.0 | /mnt/stockage/packages/f17/system-config-httpd/po/en_GB.po | 
- | [es]({{< ref "/f17/language/es.md" >}}) | 877 | 877 | 100.0 | /mnt/stockage/packages/f17/system-config-httpd/po/es.po | 
- | [fi]({{< ref "/f17/language/fi.md" >}}) | 877 | 877 | 100.0 | /mnt/stockage/packages/f17/system-config-httpd/po/fi.po | 
- | [fr]({{< ref "/f17/language/fr.md" >}}) | 877 | 877 | 100.0 | /mnt/stockage/packages/f17/system-config-httpd/po/fr.po | 
- | [gu]({{< ref "/f17/language/gu.md" >}}) | 877 | 877 | 100.0 | /mnt/stockage/packages/f17/system-config-httpd/po/gu.po | 
- | [hi]({{< ref "/f17/language/hi.md" >}}) | 877 | 877 | 100.0 | /mnt/stockage/packages/f17/system-config-httpd/po/hi.po | 
- | [hr]({{< ref "/f17/language/hr.md" >}}) | 858 | 858 | 100.0 | /mnt/stockage/packages/f17/system-config-httpd/po/hr.po | 
- | [hu]({{< ref "/f17/language/hu.md" >}}) | 877 | 877 | 100.0 | /mnt/stockage/packages/f17/system-config-httpd/po/hu.po | 
- | [id]({{< ref "/f17/language/id.md" >}}) | 877 | 877 | 100.0 | /mnt/stockage/packages/f17/system-config-httpd/po/id.po | 
- | [is]({{< ref "/f17/language/is.md" >}}) | 877 | 877 | 100.0 | /mnt/stockage/packages/f17/system-config-httpd/po/is.po | 
- | [it]({{< ref "/f17/language/it.md" >}}) | 877 | 877 | 100.0 | /mnt/stockage/packages/f17/system-config-httpd/po/it.po | 
- | [ja]({{< ref "/f17/language/ja.md" >}}) | 877 | 877 | 100.0 | /mnt/stockage/packages/f17/system-config-httpd/po/ja.po | 
- | [kn]({{< ref "/f17/language/kn.md" >}}) | 877 | 877 | 100.0 | /mnt/stockage/packages/f17/system-config-httpd/po/kn.po | 
- | [ml]({{< ref "/f17/language/ml.md" >}}) | 877 | 877 | 100.0 | /mnt/stockage/packages/f17/system-config-httpd/po/ml.po | 
- | [mr]({{< ref "/f17/language/mr.md" >}}) | 877 | 877 | 100.0 | /mnt/stockage/packages/f17/system-config-httpd/po/mr.po | 
- | [ms]({{< ref "/f17/language/ms.md" >}}) | 858 | 858 | 100.0 | /mnt/stockage/packages/f17/system-config-httpd/po/ms.po | 
- | [nb_NO]({{< ref "/f17/language/nb_NO.md" >}}) | 877 | 877 | 100.0 | /mnt/stockage/packages/f17/system-config-httpd/po/nb.po | 
- | [nl]({{< ref "/f17/language/nl.md" >}}) | 867 | 867 | 100.0 | /mnt/stockage/packages/f17/system-config-httpd/po/nl.po | 
- | [or]({{< ref "/f17/language/or.md" >}}) | 877 | 877 | 100.0 | /mnt/stockage/packages/f17/system-config-httpd/po/or.po | 
- | [pa]({{< ref "/f17/language/pa.md" >}}) | 877 | 877 | 100.0 | /mnt/stockage/packages/f17/system-config-httpd/po/pa.po | 
- | [pl]({{< ref "/f17/language/pl.md" >}}) | 877 | 877 | 100.0 | /mnt/stockage/packages/f17/system-config-httpd/po/pl.po | 
- | [pt]({{< ref "/f17/language/pt.md" >}}) | 877 | 877 | 100.0 | /mnt/stockage/packages/f17/system-config-httpd/po/pt.po | 
- | [pt_BR]({{< ref "/f17/language/pt_BR.md" >}}) | 877 | 877 | 100.0 | /mnt/stockage/packages/f17/system-config-httpd/po/pt_BR.po | 
- | [ro]({{< ref "/f17/language/ro.md" >}}) | 858 | 858 | 100.0 | /mnt/stockage/packages/f17/system-config-httpd/po/ro.po | 
- | [ru]({{< ref "/f17/language/ru.md" >}}) | 877 | 877 | 100.0 | /mnt/stockage/packages/f17/system-config-httpd/po/ru.po | 
- | [sk]({{< ref "/f17/language/sk.md" >}}) | 877 | 877 | 100.0 | /mnt/stockage/packages/f17/system-config-httpd/po/sk.po | 
- | [sl]({{< ref "/f17/language/sl.md" >}}) | 858 | 858 | 100.0 | /mnt/stockage/packages/f17/system-config-httpd/po/sl.po | 
- | [sr]({{< ref "/f17/language/sr.md" >}}) | 877 | 877 | 100.0 | /mnt/stockage/packages/f17/system-config-httpd/po/sr.po | 
- | [sr_Latn]({{< ref "/f17/language/sr_Latn.md" >}}) | 877 | 877 | 100.0 | /mnt/stockage/packages/f17/system-config-httpd/po/sr@latin.po | 
- | [sv]({{< ref "/f17/language/sv.md" >}}) | 867 | 867 | 100.0 | /mnt/stockage/packages/f17/system-config-httpd/po/sv.po | 
- | [ta]({{< ref "/f17/language/ta.md" >}}) | 877 | 877 | 100.0 | /mnt/stockage/packages/f17/system-config-httpd/po/ta.po | 
- | [te]({{< ref "/f17/language/te.md" >}}) | 877 | 877 | 100.0 | /mnt/stockage/packages/f17/system-config-httpd/po/te.po | 
- | [tr]({{< ref "/f17/language/tr.md" >}}) | 858 | 858 | 100.0 | /mnt/stockage/packages/f17/system-config-httpd/po/tr.po | 
- | [uk]({{< ref "/f17/language/uk.md" >}}) | 877 | 877 | 100.0 | /mnt/stockage/packages/f17/system-config-httpd/po/uk.po | 
- | [zh_Hans]({{< ref "/f17/language/zh_Hans.md" >}}) | 877 | 877 | 100.0 | /mnt/stockage/packages/f17/system-config-httpd/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f17/language/zh_Hant.md" >}}) | 1754 | 1754 | 100.0 | /mnt/stockage/packages/f17/system-config-httpd/po/zh_TW.po/mnt/stockage/packages/f17/system-config-httpd/po/ko.po | 
- | [bn]({{< ref "/f17/language/bn.md" >}}) | 816 | 858 | 95.1 | /mnt/stockage/packages/f17/system-config-httpd/po/bn.po | 
- | [cy]({{< ref "/f17/language/cy.md" >}}) | 816 | 858 | 95.1 | /mnt/stockage/packages/f17/system-config-httpd/po/cy.po | 
- | [et]({{< ref "/f17/language/et.md" >}}) | 816 | 858 | 95.1 | /mnt/stockage/packages/f17/system-config-httpd/po/et.po | 
- | [hy]({{< ref "/f17/language/hy.md" >}}) | 816 | 858 | 95.1 | /mnt/stockage/packages/f17/system-config-httpd/po/hy.po | 
- | [mk]({{< ref "/f17/language/mk.md" >}}) | 816 | 858 | 95.1 | /mnt/stockage/packages/f17/system-config-httpd/po/mk.po | 
- | [ur]({{< ref "/f17/language/ur.md" >}}) | 816 | 858 | 95.1 | /mnt/stockage/packages/f17/system-config-httpd/po/ur.po | 
- | [ka]({{< ref "/f17/language/ka.md" >}}) | 790 | 858 | 92.1 | /mnt/stockage/packages/f17/system-config-httpd/po/ka.po | 
- | [vi]({{< ref "/f17/language/vi.md" >}}) | 725 | 858 | 84.5 | /mnt/stockage/packages/f17/system-config-httpd/po/vi.po | 
- | [gl]({{< ref "/f17/language/gl.md" >}}) | 674 | 858 | 78.6 | /mnt/stockage/packages/f17/system-config-httpd/po/gl.po | 
- | [fa]({{< ref "/f17/language/fa.md" >}}) | 670 | 858 | 78.1 | /mnt/stockage/packages/f17/system-config-httpd/po/fa.po | 
- | [si]({{< ref "/f17/language/si.md" >}}) | 134 | 858 | 15.6 | /mnt/stockage/packages/f17/system-config-httpd/po/si.po | 
- | [el]({{< ref "/f17/language/el.md" >}}) | 115 | 858 | 13.4 | /mnt/stockage/packages/f17/system-config-httpd/po/el.po | 
- | [nn]({{< ref "/f17/language/nn.md" >}}) | 39 | 858 | 4.5 | /mnt/stockage/packages/f17/system-config-httpd/po/nn.po | 
- | [wa]({{< ref "/f17/language/wa.md" >}}) | 2 | 858 | 0.2 | /mnt/stockage/packages/f17/system-config-httpd/po/wa.po | 
- | [he]({{< ref "/f17/language/he.md" >}}) | 0 | 858 | 0.0 | /mnt/stockage/packages/f17/system-config-httpd/po/he.po | 
- | [ku]({{< ref "/f17/language/ku.md" >}}) | 0 | 858 | 0.0 | /mnt/stockage/packages/f17/system-config-httpd/po/ku.po | 
- | [lo]({{< ref "/f17/language/lo.md" >}}) | 0 | 858 | 0.0 | /mnt/stockage/packages/f17/system-config-httpd/po/lo.po | 
- | [my]({{< ref "/f17/language/my.md" >}}) | 0 | 858 | 0.0 | /mnt/stockage/packages/f17/system-config-httpd/po/my.po | 
- | [sq]({{< ref "/f17/language/sq.md" >}}) | 0 | 858 | 0.0 | /mnt/stockage/packages/f17/system-config-httpd/po/sq.po | 
+ | [ar](/f17/language/ar) | 867 | 867 | 100.0 | /mnt/stockage/packages/f17/system-config-httpd/po/ar.po | 
+ | [as](/f17/language/as) | 877 | 877 | 100.0 | /mnt/stockage/packages/f17/system-config-httpd/po/as.po | 
+ | [bg](/f17/language/bg) | 866 | 866 | 100.0 | /mnt/stockage/packages/f17/system-config-httpd/po/bg.po | 
+ | [bn_IN](/f17/language/bn_IN) | 877 | 877 | 100.0 | /mnt/stockage/packages/f17/system-config-httpd/po/bn_IN.po | 
+ | [ca](/f17/language/ca) | 877 | 877 | 100.0 | /mnt/stockage/packages/f17/system-config-httpd/po/ca.po | 
+ | [cs](/f17/language/cs) | 877 | 877 | 100.0 | /mnt/stockage/packages/f17/system-config-httpd/po/cs.po | 
+ | [da](/f17/language/da) | 877 | 877 | 100.0 | /mnt/stockage/packages/f17/system-config-httpd/po/da.po | 
+ | [de](/f17/language/de) | 877 | 877 | 100.0 | /mnt/stockage/packages/f17/system-config-httpd/po/de.po | 
+ | [en_GB](/f17/language/en_GB) | 858 | 858 | 100.0 | /mnt/stockage/packages/f17/system-config-httpd/po/en_GB.po | 
+ | [es](/f17/language/es) | 877 | 877 | 100.0 | /mnt/stockage/packages/f17/system-config-httpd/po/es.po | 
+ | [fi](/f17/language/fi) | 877 | 877 | 100.0 | /mnt/stockage/packages/f17/system-config-httpd/po/fi.po | 
+ | [fr](/f17/language/fr) | 877 | 877 | 100.0 | /mnt/stockage/packages/f17/system-config-httpd/po/fr.po | 
+ | [gu](/f17/language/gu) | 877 | 877 | 100.0 | /mnt/stockage/packages/f17/system-config-httpd/po/gu.po | 
+ | [hi](/f17/language/hi) | 877 | 877 | 100.0 | /mnt/stockage/packages/f17/system-config-httpd/po/hi.po | 
+ | [hr](/f17/language/hr) | 858 | 858 | 100.0 | /mnt/stockage/packages/f17/system-config-httpd/po/hr.po | 
+ | [hu](/f17/language/hu) | 877 | 877 | 100.0 | /mnt/stockage/packages/f17/system-config-httpd/po/hu.po | 
+ | [id](/f17/language/id) | 877 | 877 | 100.0 | /mnt/stockage/packages/f17/system-config-httpd/po/id.po | 
+ | [is](/f17/language/is) | 877 | 877 | 100.0 | /mnt/stockage/packages/f17/system-config-httpd/po/is.po | 
+ | [it](/f17/language/it) | 877 | 877 | 100.0 | /mnt/stockage/packages/f17/system-config-httpd/po/it.po | 
+ | [ja](/f17/language/ja) | 877 | 877 | 100.0 | /mnt/stockage/packages/f17/system-config-httpd/po/ja.po | 
+ | [kn](/f17/language/kn) | 877 | 877 | 100.0 | /mnt/stockage/packages/f17/system-config-httpd/po/kn.po | 
+ | [ml](/f17/language/ml) | 877 | 877 | 100.0 | /mnt/stockage/packages/f17/system-config-httpd/po/ml.po | 
+ | [mr](/f17/language/mr) | 877 | 877 | 100.0 | /mnt/stockage/packages/f17/system-config-httpd/po/mr.po | 
+ | [ms](/f17/language/ms) | 858 | 858 | 100.0 | /mnt/stockage/packages/f17/system-config-httpd/po/ms.po | 
+ | [nb_NO](/f17/language/nb_NO) | 877 | 877 | 100.0 | /mnt/stockage/packages/f17/system-config-httpd/po/nb.po | 
+ | [nl](/f17/language/nl) | 867 | 867 | 100.0 | /mnt/stockage/packages/f17/system-config-httpd/po/nl.po | 
+ | [or](/f17/language/or) | 877 | 877 | 100.0 | /mnt/stockage/packages/f17/system-config-httpd/po/or.po | 
+ | [pa](/f17/language/pa) | 877 | 877 | 100.0 | /mnt/stockage/packages/f17/system-config-httpd/po/pa.po | 
+ | [pl](/f17/language/pl) | 877 | 877 | 100.0 | /mnt/stockage/packages/f17/system-config-httpd/po/pl.po | 
+ | [pt](/f17/language/pt) | 877 | 877 | 100.0 | /mnt/stockage/packages/f17/system-config-httpd/po/pt.po | 
+ | [pt_BR](/f17/language/pt_BR) | 877 | 877 | 100.0 | /mnt/stockage/packages/f17/system-config-httpd/po/pt_BR.po | 
+ | [ro](/f17/language/ro) | 858 | 858 | 100.0 | /mnt/stockage/packages/f17/system-config-httpd/po/ro.po | 
+ | [ru](/f17/language/ru) | 877 | 877 | 100.0 | /mnt/stockage/packages/f17/system-config-httpd/po/ru.po | 
+ | [sk](/f17/language/sk) | 877 | 877 | 100.0 | /mnt/stockage/packages/f17/system-config-httpd/po/sk.po | 
+ | [sl](/f17/language/sl) | 858 | 858 | 100.0 | /mnt/stockage/packages/f17/system-config-httpd/po/sl.po | 
+ | [sr](/f17/language/sr) | 877 | 877 | 100.0 | /mnt/stockage/packages/f17/system-config-httpd/po/sr.po | 
+ | [sr_Latn](/f17/language/sr_Latn) | 877 | 877 | 100.0 | /mnt/stockage/packages/f17/system-config-httpd/po/sr@latin.po | 
+ | [sv](/f17/language/sv) | 867 | 867 | 100.0 | /mnt/stockage/packages/f17/system-config-httpd/po/sv.po | 
+ | [ta](/f17/language/ta) | 877 | 877 | 100.0 | /mnt/stockage/packages/f17/system-config-httpd/po/ta.po | 
+ | [te](/f17/language/te) | 877 | 877 | 100.0 | /mnt/stockage/packages/f17/system-config-httpd/po/te.po | 
+ | [tr](/f17/language/tr) | 858 | 858 | 100.0 | /mnt/stockage/packages/f17/system-config-httpd/po/tr.po | 
+ | [uk](/f17/language/uk) | 877 | 877 | 100.0 | /mnt/stockage/packages/f17/system-config-httpd/po/uk.po | 
+ | [zh_Hans](/f17/language/zh_Hans) | 877 | 877 | 100.0 | /mnt/stockage/packages/f17/system-config-httpd/po/zh_CN.po | 
+ | [zh_Hant](/f17/language/zh_Hant) | 1754 | 1754 | 100.0 | /mnt/stockage/packages/f17/system-config-httpd/po/zh_TW.po/mnt/stockage/packages/f17/system-config-httpd/po/ko.po | 
+ | [bn](/f17/language/bn) | 816 | 858 | 95.1 | /mnt/stockage/packages/f17/system-config-httpd/po/bn.po | 
+ | [cy](/f17/language/cy) | 816 | 858 | 95.1 | /mnt/stockage/packages/f17/system-config-httpd/po/cy.po | 
+ | [et](/f17/language/et) | 816 | 858 | 95.1 | /mnt/stockage/packages/f17/system-config-httpd/po/et.po | 
+ | [hy](/f17/language/hy) | 816 | 858 | 95.1 | /mnt/stockage/packages/f17/system-config-httpd/po/hy.po | 
+ | [mk](/f17/language/mk) | 816 | 858 | 95.1 | /mnt/stockage/packages/f17/system-config-httpd/po/mk.po | 
+ | [ur](/f17/language/ur) | 816 | 858 | 95.1 | /mnt/stockage/packages/f17/system-config-httpd/po/ur.po | 
+ | [ka](/f17/language/ka) | 790 | 858 | 92.1 | /mnt/stockage/packages/f17/system-config-httpd/po/ka.po | 
+ | [vi](/f17/language/vi) | 725 | 858 | 84.5 | /mnt/stockage/packages/f17/system-config-httpd/po/vi.po | 
+ | [gl](/f17/language/gl) | 674 | 858 | 78.6 | /mnt/stockage/packages/f17/system-config-httpd/po/gl.po | 
+ | [fa](/f17/language/fa) | 670 | 858 | 78.1 | /mnt/stockage/packages/f17/system-config-httpd/po/fa.po | 
+ | [si](/f17/language/si) | 134 | 858 | 15.6 | /mnt/stockage/packages/f17/system-config-httpd/po/si.po | 
+ | [el](/f17/language/el) | 115 | 858 | 13.4 | /mnt/stockage/packages/f17/system-config-httpd/po/el.po | 
+ | [nn](/f17/language/nn) | 39 | 858 | 4.5 | /mnt/stockage/packages/f17/system-config-httpd/po/nn.po | 
+ | [wa](/f17/language/wa) | 2 | 858 | 0.2 | /mnt/stockage/packages/f17/system-config-httpd/po/wa.po | 
+ | [he](/f17/language/he) | 0 | 858 | 0.0 | /mnt/stockage/packages/f17/system-config-httpd/po/he.po | 
+ | [ku](/f17/language/ku) | 0 | 858 | 0.0 | /mnt/stockage/packages/f17/system-config-httpd/po/ku.po | 
+ | [lo](/f17/language/lo) | 0 | 858 | 0.0 | /mnt/stockage/packages/f17/system-config-httpd/po/lo.po | 
+ | [my](/f17/language/my) | 0 | 858 | 0.0 | /mnt/stockage/packages/f17/system-config-httpd/po/my.po | 
+ | [sq](/f17/language/sq) | 0 | 858 | 0.0 | /mnt/stockage/packages/f17/system-config-httpd/po/sq.po | 
 {.sortable}
 
 

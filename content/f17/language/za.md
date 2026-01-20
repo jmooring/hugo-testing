@@ -38,7 +38,7 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [gtkpod]({{< ref "/f17/package/gtkpod.md" >}}) | 4763 | 7309 | 65.2 | Zhuang <zh_CN@li.gtkpod.org> | 
+ | [gtkpod](/f17/package/gtkpod) | 4763 | 7309 | 65.2 | Zhuang <zh_CN@li.gtkpod.org> | 
 {.sortable}
 
 

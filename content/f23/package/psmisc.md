@@ -18,34 +18,34 @@ The package psmisc (version 22.21):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f23/language/cs.md" >}}) | 781 | 929 | 84.1 | /mnt/stockage/packages/f23/psmisc/po/cs.po | 
- | [de]({{< ref "/f23/language/de.md" >}}) | 781 | 929 | 84.1 | /mnt/stockage/packages/f23/psmisc/po/de.po | 
- | [el]({{< ref "/f23/language/el.md" >}}) | 781 | 929 | 84.1 | /mnt/stockage/packages/f23/psmisc/po/el.po | 
- | [eo]({{< ref "/f23/language/eo.md" >}}) | 781 | 929 | 84.1 | /mnt/stockage/packages/f23/psmisc/po/eo.po | 
- | [fi]({{< ref "/f23/language/fi.md" >}}) | 781 | 929 | 84.1 | /mnt/stockage/packages/f23/psmisc/po/fi.po | 
- | [fr]({{< ref "/f23/language/fr.md" >}}) | 781 | 929 | 84.1 | /mnt/stockage/packages/f23/psmisc/po/fr.po | 
- | [hu]({{< ref "/f23/language/hu.md" >}}) | 781 | 929 | 84.1 | /mnt/stockage/packages/f23/psmisc/po/hu.po | 
- | [it]({{< ref "/f23/language/it.md" >}}) | 781 | 929 | 84.1 | /mnt/stockage/packages/f23/psmisc/po/it.po | 
- | [nl]({{< ref "/f23/language/nl.md" >}}) | 781 | 929 | 84.1 | /mnt/stockage/packages/f23/psmisc/po/nl.po | 
- | [pl]({{< ref "/f23/language/pl.md" >}}) | 781 | 929 | 84.1 | /mnt/stockage/packages/f23/psmisc/po/pl.po | 
- | [ru]({{< ref "/f23/language/ru.md" >}}) | 781 | 929 | 84.1 | /mnt/stockage/packages/f23/psmisc/po/ru.po | 
- | [sr]({{< ref "/f23/language/sr.md" >}}) | 781 | 929 | 84.1 | /mnt/stockage/packages/f23/psmisc/po/sr.po | 
- | [uk]({{< ref "/f23/language/uk.md" >}}) | 781 | 929 | 84.1 | /mnt/stockage/packages/f23/psmisc/po/uk.po | 
- | [vi]({{< ref "/f23/language/vi.md" >}}) | 781 | 929 | 84.1 | /mnt/stockage/packages/f23/psmisc/po/vi.po | 
- | [zh_Hant]({{< ref "/f23/language/zh_Hant.md" >}}) | 781 | 929 | 84.1 | /mnt/stockage/packages/f23/psmisc/po/zh_TW.po | 
- | [da]({{< ref "/f23/language/da.md" >}}) | 633 | 929 | 68.1 | /mnt/stockage/packages/f23/psmisc/po/da.po | 
- | [eu]({{< ref "/f23/language/eu.md" >}}) | 633 | 929 | 68.1 | /mnt/stockage/packages/f23/psmisc/po/eu.po | 
- | [id]({{< ref "/f23/language/id.md" >}}) | 633 | 929 | 68.1 | /mnt/stockage/packages/f23/psmisc/po/id.po | 
- | [pt_BR]({{< ref "/f23/language/pt_BR.md" >}}) | 633 | 929 | 68.1 | /mnt/stockage/packages/f23/psmisc/po/pt_BR.po | 
- | [sv]({{< ref "/f23/language/sv.md" >}}) | 531 | 929 | 57.2 | /mnt/stockage/packages/f23/psmisc/po/sv.po | 
- | [hr]({{< ref "/f23/language/hr.md" >}}) | 527 | 929 | 56.7 | /mnt/stockage/packages/f23/psmisc/po/hr.po | 
- | [zh_Hans]({{< ref "/f23/language/zh_Hans.md" >}}) | 282 | 929 | 30.4 | /mnt/stockage/packages/f23/psmisc/po/zh_CN.po | 
- | [bg]({{< ref "/f23/language/bg.md" >}}) | 212 | 929 | 22.8 | /mnt/stockage/packages/f23/psmisc/po/bg.po | 
- | [ja]({{< ref "/f23/language/ja.md" >}}) | 212 | 929 | 22.8 | /mnt/stockage/packages/f23/psmisc/po/ja.po | 
- | [nb_NO]({{< ref "/f23/language/nb_NO.md" >}}) | 212 | 929 | 22.8 | /mnt/stockage/packages/f23/psmisc/po/nb.po | 
- | [ca]({{< ref "/f23/language/ca.md" >}}) | 81 | 929 | 8.7 | /mnt/stockage/packages/f23/psmisc/po/ca.po | 
- | [ro]({{< ref "/f23/language/ro.md" >}}) | 81 | 929 | 8.7 | /mnt/stockage/packages/f23/psmisc/po/ro.po | 
- | [pt]({{< ref "/f23/language/pt.md" >}}) | 10 | 929 | 1.1 | /mnt/stockage/packages/f23/psmisc/po/pt.po | 
+ | [cs](/f23/language/cs) | 781 | 929 | 84.1 | /mnt/stockage/packages/f23/psmisc/po/cs.po | 
+ | [de](/f23/language/de) | 781 | 929 | 84.1 | /mnt/stockage/packages/f23/psmisc/po/de.po | 
+ | [el](/f23/language/el) | 781 | 929 | 84.1 | /mnt/stockage/packages/f23/psmisc/po/el.po | 
+ | [eo](/f23/language/eo) | 781 | 929 | 84.1 | /mnt/stockage/packages/f23/psmisc/po/eo.po | 
+ | [fi](/f23/language/fi) | 781 | 929 | 84.1 | /mnt/stockage/packages/f23/psmisc/po/fi.po | 
+ | [fr](/f23/language/fr) | 781 | 929 | 84.1 | /mnt/stockage/packages/f23/psmisc/po/fr.po | 
+ | [hu](/f23/language/hu) | 781 | 929 | 84.1 | /mnt/stockage/packages/f23/psmisc/po/hu.po | 
+ | [it](/f23/language/it) | 781 | 929 | 84.1 | /mnt/stockage/packages/f23/psmisc/po/it.po | 
+ | [nl](/f23/language/nl) | 781 | 929 | 84.1 | /mnt/stockage/packages/f23/psmisc/po/nl.po | 
+ | [pl](/f23/language/pl) | 781 | 929 | 84.1 | /mnt/stockage/packages/f23/psmisc/po/pl.po | 
+ | [ru](/f23/language/ru) | 781 | 929 | 84.1 | /mnt/stockage/packages/f23/psmisc/po/ru.po | 
+ | [sr](/f23/language/sr) | 781 | 929 | 84.1 | /mnt/stockage/packages/f23/psmisc/po/sr.po | 
+ | [uk](/f23/language/uk) | 781 | 929 | 84.1 | /mnt/stockage/packages/f23/psmisc/po/uk.po | 
+ | [vi](/f23/language/vi) | 781 | 929 | 84.1 | /mnt/stockage/packages/f23/psmisc/po/vi.po | 
+ | [zh_Hant](/f23/language/zh_Hant) | 781 | 929 | 84.1 | /mnt/stockage/packages/f23/psmisc/po/zh_TW.po | 
+ | [da](/f23/language/da) | 633 | 929 | 68.1 | /mnt/stockage/packages/f23/psmisc/po/da.po | 
+ | [eu](/f23/language/eu) | 633 | 929 | 68.1 | /mnt/stockage/packages/f23/psmisc/po/eu.po | 
+ | [id](/f23/language/id) | 633 | 929 | 68.1 | /mnt/stockage/packages/f23/psmisc/po/id.po | 
+ | [pt_BR](/f23/language/pt_BR) | 633 | 929 | 68.1 | /mnt/stockage/packages/f23/psmisc/po/pt_BR.po | 
+ | [sv](/f23/language/sv) | 531 | 929 | 57.2 | /mnt/stockage/packages/f23/psmisc/po/sv.po | 
+ | [hr](/f23/language/hr) | 527 | 929 | 56.7 | /mnt/stockage/packages/f23/psmisc/po/hr.po | 
+ | [zh_Hans](/f23/language/zh_Hans) | 282 | 929 | 30.4 | /mnt/stockage/packages/f23/psmisc/po/zh_CN.po | 
+ | [bg](/f23/language/bg) | 212 | 929 | 22.8 | /mnt/stockage/packages/f23/psmisc/po/bg.po | 
+ | [ja](/f23/language/ja) | 212 | 929 | 22.8 | /mnt/stockage/packages/f23/psmisc/po/ja.po | 
+ | [nb_NO](/f23/language/nb_NO) | 212 | 929 | 22.8 | /mnt/stockage/packages/f23/psmisc/po/nb.po | 
+ | [ca](/f23/language/ca) | 81 | 929 | 8.7 | /mnt/stockage/packages/f23/psmisc/po/ca.po | 
+ | [ro](/f23/language/ro) | 81 | 929 | 8.7 | /mnt/stockage/packages/f23/psmisc/po/ro.po | 
+ | [pt](/f23/language/pt) | 10 | 929 | 1.1 | /mnt/stockage/packages/f23/psmisc/po/pt.po | 
 {.sortable}
 
 

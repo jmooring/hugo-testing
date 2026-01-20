@@ -18,31 +18,31 @@ The package sonata (version 1.6.2.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f19/language/ar.md" >}}) | 1136 | 1136 | 100.0 | /mnt/stockage/packages/f19/sonata/po/ar.po | 
- | [de]({{< ref "/f19/language/de.md" >}}) | 1136 | 1136 | 100.0 | /mnt/stockage/packages/f19/sonata/po/de.po | 
- | [es]({{< ref "/f19/language/es.md" >}}) | 1136 | 1136 | 100.0 | /mnt/stockage/packages/f19/sonata/po/es.po | 
- | [et]({{< ref "/f19/language/et.md" >}}) | 1136 | 1136 | 100.0 | /mnt/stockage/packages/f19/sonata/po/et.po | 
- | [fi]({{< ref "/f19/language/fi.md" >}}) | 1136 | 1136 | 100.0 | /mnt/stockage/packages/f19/sonata/po/fi.po | 
- | [ja]({{< ref "/f19/language/ja.md" >}}) | 1136 | 1136 | 100.0 | /mnt/stockage/packages/f19/sonata/po/ja.po | 
- | [pl]({{< ref "/f19/language/pl.md" >}}) | 1136 | 1136 | 100.0 | /mnt/stockage/packages/f19/sonata/po/pl.po | 
- | [sv]({{< ref "/f19/language/sv.md" >}}) | 1136 | 1136 | 100.0 | /mnt/stockage/packages/f19/sonata/po/sv.po | 
- | [zh_Hans]({{< ref "/f19/language/zh_Hans.md" >}}) | 1135 | 1136 | 99.9 | /mnt/stockage/packages/f19/sonata/po/zh_CN.po | 
- | [cs]({{< ref "/f19/language/cs.md" >}}) | 1133 | 1136 | 99.7 | /mnt/stockage/packages/f19/sonata/po/cs.po | 
- | [el]({{< ref "/f19/language/el.md" >}}) | 1133 | 1136 | 99.7 | /mnt/stockage/packages/f19/sonata/po/el_GR.po | 
- | [fr]({{< ref "/f19/language/fr.md" >}}) | 1133 | 1136 | 99.7 | /mnt/stockage/packages/f19/sonata/po/fr.po | 
- | [ca]({{< ref "/f19/language/ca.md" >}}) | 1128 | 1136 | 99.3 | /mnt/stockage/packages/f19/sonata/po/ca.po | 
- | [zh_Hant]({{< ref "/f19/language/zh_Hant.md" >}}) | 1127 | 1137 | 99.1 | /mnt/stockage/packages/f19/sonata/po/zh_TW.po | 
- | [da]({{< ref "/f19/language/da.md" >}}) | 1110 | 1136 | 97.7 | /mnt/stockage/packages/f19/sonata/po/da.po | 
- | [sl]({{< ref "/f19/language/sl.md" >}}) | 1102 | 1136 | 97.0 | /mnt/stockage/packages/f19/sonata/po/sl.po | 
- | [ru]({{< ref "/f19/language/ru.md" >}}) | 1087 | 1136 | 95.7 | /mnt/stockage/packages/f19/sonata/po/ru.po | 
- | [be_Latn]({{< ref "/f19/language/be_Latn.md" >}}) | 900 | 1136 | 79.2 | /mnt/stockage/packages/f19/sonata/po/be@latin.po | 
- | [nl]({{< ref "/f19/language/nl.md" >}}) | 900 | 1136 | 79.2 | /mnt/stockage/packages/f19/sonata/po/nl.po | 
- | [sk]({{< ref "/f19/language/sk.md" >}}) | 900 | 1136 | 79.2 | /mnt/stockage/packages/f19/sonata/po/sk.po | 
- | [tr]({{< ref "/f19/language/tr.md" >}}) | 859 | 1136 | 75.6 | /mnt/stockage/packages/f19/sonata/po/tr.po | 
- | [it]({{< ref "/f19/language/it.md" >}}) | 679 | 1136 | 59.8 | /mnt/stockage/packages/f19/sonata/po/it.po | 
- | [pt_BR]({{< ref "/f19/language/pt_BR.md" >}}) | 679 | 1136 | 59.8 | /mnt/stockage/packages/f19/sonata/po/pt_BR.po | 
- | [uk]({{< ref "/f19/language/uk.md" >}}) | 430 | 1136 | 37.9 | /mnt/stockage/packages/f19/sonata/po/uk.po | 
- | [error]({{< ref "/f19/language/error.md" >}}) | 0 | 1137 | 0.0 | /mnt/stockage/packages/f19/sonata/po/messages.po | 
+ | [ar](/f19/language/ar) | 1136 | 1136 | 100.0 | /mnt/stockage/packages/f19/sonata/po/ar.po | 
+ | [de](/f19/language/de) | 1136 | 1136 | 100.0 | /mnt/stockage/packages/f19/sonata/po/de.po | 
+ | [es](/f19/language/es) | 1136 | 1136 | 100.0 | /mnt/stockage/packages/f19/sonata/po/es.po | 
+ | [et](/f19/language/et) | 1136 | 1136 | 100.0 | /mnt/stockage/packages/f19/sonata/po/et.po | 
+ | [fi](/f19/language/fi) | 1136 | 1136 | 100.0 | /mnt/stockage/packages/f19/sonata/po/fi.po | 
+ | [ja](/f19/language/ja) | 1136 | 1136 | 100.0 | /mnt/stockage/packages/f19/sonata/po/ja.po | 
+ | [pl](/f19/language/pl) | 1136 | 1136 | 100.0 | /mnt/stockage/packages/f19/sonata/po/pl.po | 
+ | [sv](/f19/language/sv) | 1136 | 1136 | 100.0 | /mnt/stockage/packages/f19/sonata/po/sv.po | 
+ | [zh_Hans](/f19/language/zh_Hans) | 1135 | 1136 | 99.9 | /mnt/stockage/packages/f19/sonata/po/zh_CN.po | 
+ | [cs](/f19/language/cs) | 1133 | 1136 | 99.7 | /mnt/stockage/packages/f19/sonata/po/cs.po | 
+ | [el](/f19/language/el) | 1133 | 1136 | 99.7 | /mnt/stockage/packages/f19/sonata/po/el_GR.po | 
+ | [fr](/f19/language/fr) | 1133 | 1136 | 99.7 | /mnt/stockage/packages/f19/sonata/po/fr.po | 
+ | [ca](/f19/language/ca) | 1128 | 1136 | 99.3 | /mnt/stockage/packages/f19/sonata/po/ca.po | 
+ | [zh_Hant](/f19/language/zh_Hant) | 1127 | 1137 | 99.1 | /mnt/stockage/packages/f19/sonata/po/zh_TW.po | 
+ | [da](/f19/language/da) | 1110 | 1136 | 97.7 | /mnt/stockage/packages/f19/sonata/po/da.po | 
+ | [sl](/f19/language/sl) | 1102 | 1136 | 97.0 | /mnt/stockage/packages/f19/sonata/po/sl.po | 
+ | [ru](/f19/language/ru) | 1087 | 1136 | 95.7 | /mnt/stockage/packages/f19/sonata/po/ru.po | 
+ | [be_Latn](/f19/language/be_Latn) | 900 | 1136 | 79.2 | /mnt/stockage/packages/f19/sonata/po/be@latin.po | 
+ | [nl](/f19/language/nl) | 900 | 1136 | 79.2 | /mnt/stockage/packages/f19/sonata/po/nl.po | 
+ | [sk](/f19/language/sk) | 900 | 1136 | 79.2 | /mnt/stockage/packages/f19/sonata/po/sk.po | 
+ | [tr](/f19/language/tr) | 859 | 1136 | 75.6 | /mnt/stockage/packages/f19/sonata/po/tr.po | 
+ | [it](/f19/language/it) | 679 | 1136 | 59.8 | /mnt/stockage/packages/f19/sonata/po/it.po | 
+ | [pt_BR](/f19/language/pt_BR) | 679 | 1136 | 59.8 | /mnt/stockage/packages/f19/sonata/po/pt_BR.po | 
+ | [uk](/f19/language/uk) | 430 | 1136 | 37.9 | /mnt/stockage/packages/f19/sonata/po/uk.po | 
+ | [error](/f19/language/error) | 0 | 1137 | 0.0 | /mnt/stockage/packages/f19/sonata/po/messages.po | 
 {.sortable}
 
 

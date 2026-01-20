@@ -38,13 +38,13 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [libgweather]({{< ref "/f24/package/libgweather.md" >}}) | 447 | 460 | 97.2 | Spanish <traductores@es.gnome.org> | 
- | [libmateweather]({{< ref "/f24/package/libmateweather.md" >}}) | 361 | 499 | 72.3 | Spanish (Uruguay) (http://www.transifex.com/mate/MATE/language/es_UY/) | 
- | [mate-applets]({{< ref "/f24/package/mate-applets.md" >}}) | 1596 | 2621 | 60.9 | Spanish (Uruguay) (http://www.transifex.com/mate/MATE/language/es_UY/) | 
- | [openerp]({{< ref "/f24/package/openerp.md" >}}) | 1003 | 10716 | 9.4 | Spanish (Uruguay) <es_UY@li.org> | 
- | [openerp7]({{< ref "/f24/package/openerp7.md" >}}) | 333 | 10657 | 3.1 | Spanish (Uruguay) <es_UY@li.org> | 
- | [libmatekbd]({{< ref "/f24/package/libmatekbd.md" >}}) | 0 | 251 | 0.0 | Spanish (Uruguay) (http://www.transifex.com/mate/MATE/language/es_UY/) | 
- | [mate-user-guide]({{< ref "/f24/package/mate-user-guide.md" >}}) | 0 | 5 | 0.0 | Spanish (Uruguay) (http://www.transifex.com/mate/MATE/language/es_UY/) | 
+ | [libgweather](/f24/package/libgweather) | 447 | 460 | 97.2 | Spanish <traductores@es.gnome.org> | 
+ | [libmateweather](/f24/package/libmateweather) | 361 | 499 | 72.3 | Spanish (Uruguay) (http://www.transifex.com/mate/MATE/language/es_UY/) | 
+ | [mate-applets](/f24/package/mate-applets) | 1596 | 2621 | 60.9 | Spanish (Uruguay) (http://www.transifex.com/mate/MATE/language/es_UY/) | 
+ | [openerp](/f24/package/openerp) | 1003 | 10716 | 9.4 | Spanish (Uruguay) <es_UY@li.org> | 
+ | [openerp7](/f24/package/openerp7) | 333 | 10657 | 3.1 | Spanish (Uruguay) <es_UY@li.org> | 
+ | [libmatekbd](/f24/package/libmatekbd) | 0 | 251 | 0.0 | Spanish (Uruguay) (http://www.transifex.com/mate/MATE/language/es_UY/) | 
+ | [mate-user-guide](/f24/package/mate-user-guide) | 0 | 5 | 0.0 | Spanish (Uruguay) (http://www.transifex.com/mate/MATE/language/es_UY/) | 
 {.sortable}
 
 

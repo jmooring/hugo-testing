@@ -18,22 +18,22 @@ The package alexandria (version 0.6.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f9/language/de.md" >}}) | 1092 | 1092 | 100.0 | /mnt/stockage/packages/f9/alexandria/po/de.po | 
- | [ja]({{< ref "/f9/language/ja.md" >}}) | 1092 | 1092 | 100.0 | /mnt/stockage/packages/f9/alexandria/po/ja.po | 
- | [nl]({{< ref "/f9/language/nl.md" >}}) | 1092 | 1092 | 100.0 | /mnt/stockage/packages/f9/alexandria/po/nl.po | 
- | [gl]({{< ref "/f9/language/gl.md" >}}) | 1051 | 1092 | 96.2 | /mnt/stockage/packages/f9/alexandria/po/gl.po | 
- | [zh_Hant]({{< ref "/f9/language/zh_Hant.md" >}}) | 1051 | 1092 | 96.2 | /mnt/stockage/packages/f9/alexandria/po/zh_TW.po | 
- | [cs]({{< ref "/f9/language/cs.md" >}}) | 1033 | 1092 | 94.6 | /mnt/stockage/packages/f9/alexandria/po/cs.po | 
- | [pt]({{< ref "/f9/language/pt.md" >}}) | 1027 | 1092 | 94.0 | /mnt/stockage/packages/f9/alexandria/po/pt.po | 
- | [es]({{< ref "/f9/language/es.md" >}}) | 1013 | 1092 | 92.8 | /mnt/stockage/packages/f9/alexandria/po/es.po | 
- | [fr]({{< ref "/f9/language/fr.md" >}}) | 960 | 1092 | 87.9 | /mnt/stockage/packages/f9/alexandria/po/fr.po | 
- | [uk]({{< ref "/f9/language/uk.md" >}}) | 959 | 1092 | 87.8 | /mnt/stockage/packages/f9/alexandria/po/uk.po | 
- | [it]({{< ref "/f9/language/it.md" >}}) | 699 | 1092 | 64.0 | /mnt/stockage/packages/f9/alexandria/po/it.po | 
- | [pl]({{< ref "/f9/language/pl.md" >}}) | 647 | 1092 | 59.2 | /mnt/stockage/packages/f9/alexandria/po/pl.po | 
- | [sv]({{< ref "/f9/language/sv.md" >}}) | 647 | 1092 | 59.2 | /mnt/stockage/packages/f9/alexandria/po/sv.po | 
- | [cy]({{< ref "/f9/language/cy.md" >}}) | 571 | 1092 | 52.3 | /mnt/stockage/packages/f9/alexandria/po/cy.po | 
- | [pt_BR]({{< ref "/f9/language/pt_BR.md" >}}) | 571 | 1092 | 52.3 | /mnt/stockage/packages/f9/alexandria/po/pt_BR.po | 
- | [ga]({{< ref "/f9/language/ga.md" >}}) | 561 | 1092 | 51.4 | /mnt/stockage/packages/f9/alexandria/po/ga.po | 
+ | [de](/f9/language/de) | 1092 | 1092 | 100.0 | /mnt/stockage/packages/f9/alexandria/po/de.po | 
+ | [ja](/f9/language/ja) | 1092 | 1092 | 100.0 | /mnt/stockage/packages/f9/alexandria/po/ja.po | 
+ | [nl](/f9/language/nl) | 1092 | 1092 | 100.0 | /mnt/stockage/packages/f9/alexandria/po/nl.po | 
+ | [gl](/f9/language/gl) | 1051 | 1092 | 96.2 | /mnt/stockage/packages/f9/alexandria/po/gl.po | 
+ | [zh_Hant](/f9/language/zh_Hant) | 1051 | 1092 | 96.2 | /mnt/stockage/packages/f9/alexandria/po/zh_TW.po | 
+ | [cs](/f9/language/cs) | 1033 | 1092 | 94.6 | /mnt/stockage/packages/f9/alexandria/po/cs.po | 
+ | [pt](/f9/language/pt) | 1027 | 1092 | 94.0 | /mnt/stockage/packages/f9/alexandria/po/pt.po | 
+ | [es](/f9/language/es) | 1013 | 1092 | 92.8 | /mnt/stockage/packages/f9/alexandria/po/es.po | 
+ | [fr](/f9/language/fr) | 960 | 1092 | 87.9 | /mnt/stockage/packages/f9/alexandria/po/fr.po | 
+ | [uk](/f9/language/uk) | 959 | 1092 | 87.8 | /mnt/stockage/packages/f9/alexandria/po/uk.po | 
+ | [it](/f9/language/it) | 699 | 1092 | 64.0 | /mnt/stockage/packages/f9/alexandria/po/it.po | 
+ | [pl](/f9/language/pl) | 647 | 1092 | 59.2 | /mnt/stockage/packages/f9/alexandria/po/pl.po | 
+ | [sv](/f9/language/sv) | 647 | 1092 | 59.2 | /mnt/stockage/packages/f9/alexandria/po/sv.po | 
+ | [cy](/f9/language/cy) | 571 | 1092 | 52.3 | /mnt/stockage/packages/f9/alexandria/po/cy.po | 
+ | [pt_BR](/f9/language/pt_BR) | 571 | 1092 | 52.3 | /mnt/stockage/packages/f9/alexandria/po/pt_BR.po | 
+ | [ga](/f9/language/ga) | 561 | 1092 | 51.4 | /mnt/stockage/packages/f9/alexandria/po/ga.po | 
 {.sortable}
 
 

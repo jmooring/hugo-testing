@@ -18,7 +18,7 @@ The package ibus-gucharmap (version 1.4.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [zh_Hans]({{< ref "/f20/language/zh_Hans.md" >}}) | 0 | 13 | 0.0 | /mnt/stockage/packages/f20/ibus-gucharmap/po/zh_CN.po | 
+ | [zh_Hans](/f20/language/zh_Hans) | 0 | 13 | 0.0 | /mnt/stockage/packages/f20/ibus-gucharmap/po/zh_CN.po | 
 {.sortable}
 
 

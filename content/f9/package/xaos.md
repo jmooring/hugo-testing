@@ -18,12 +18,12 @@ The package xaos (version 3.2.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ro]({{< ref "/f9/language/ro.md" >}}) | 863 | 865 | 99.8 | /mnt/stockage/packages/f9/xaos/src/i18n/ro.po | 
- | [de]({{< ref "/f9/language/de.md" >}}) | 833 | 865 | 96.3 | /mnt/stockage/packages/f9/xaos/src/i18n/de.po | 
- | [fr]({{< ref "/f9/language/fr.md" >}}) | 824 | 865 | 95.3 | /mnt/stockage/packages/f9/xaos/src/i18n/fr.po | 
- | [hu]({{< ref "/f9/language/hu.md" >}}) | 680 | 865 | 78.6 | /mnt/stockage/packages/f9/xaos/src/i18n/hu.po | 
- | [cs]({{< ref "/f9/language/cs.md" >}}) | 396 | 865 | 45.8 | /mnt/stockage/packages/f9/xaos/src/i18n/cs.po | 
- | [es]({{< ref "/f9/language/es.md" >}}) | 387 | 865 | 44.7 | /mnt/stockage/packages/f9/xaos/src/i18n/es.po | 
+ | [ro](/f9/language/ro) | 863 | 865 | 99.8 | /mnt/stockage/packages/f9/xaos/src/i18n/ro.po | 
+ | [de](/f9/language/de) | 833 | 865 | 96.3 | /mnt/stockage/packages/f9/xaos/src/i18n/de.po | 
+ | [fr](/f9/language/fr) | 824 | 865 | 95.3 | /mnt/stockage/packages/f9/xaos/src/i18n/fr.po | 
+ | [hu](/f9/language/hu) | 680 | 865 | 78.6 | /mnt/stockage/packages/f9/xaos/src/i18n/hu.po | 
+ | [cs](/f9/language/cs) | 396 | 865 | 45.8 | /mnt/stockage/packages/f9/xaos/src/i18n/cs.po | 
+ | [es](/f9/language/es) | 387 | 865 | 44.7 | /mnt/stockage/packages/f9/xaos/src/i18n/es.po | 
 {.sortable}
 
 

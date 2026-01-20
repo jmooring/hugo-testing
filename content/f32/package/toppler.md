@@ -18,14 +18,14 @@ The package toppler (version 1.1.5):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f32/language/cs.md" >}}) | 552 | 552 | 100.0 | /mnt/stockage/packages/f32/toppler/po/cs.po | 
- | [de]({{< ref "/f32/language/de.md" >}}) | 552 | 552 | 100.0 | /mnt/stockage/packages/f32/toppler/po/de.po | 
- | [eu]({{< ref "/f32/language/eu.md" >}}) | 552 | 552 | 100.0 | /mnt/stockage/packages/f32/toppler/po/eu.po | 
- | [ro]({{< ref "/f32/language/ro.md" >}}) | 552 | 552 | 100.0 | /mnt/stockage/packages/f32/toppler/po/ro.po | 
- | [fr]({{< ref "/f32/language/fr.md" >}}) | 530 | 552 | 96.0 | /mnt/stockage/packages/f32/toppler/po/fr.po | 
- | [sv]({{< ref "/f32/language/sv.md" >}}) | 530 | 552 | 96.0 | /mnt/stockage/packages/f32/toppler/po/sv.po | 
- | [pt]({{< ref "/f32/language/pt.md" >}}) | 472 | 552 | 85.5 | /mnt/stockage/packages/f32/toppler/po/pt.po | 
- | [fi]({{< ref "/f32/language/fi.md" >}}) | 396 | 552 | 71.7 | /mnt/stockage/packages/f32/toppler/po/fi.po | 
+ | [cs](/f32/language/cs) | 552 | 552 | 100.0 | /mnt/stockage/packages/f32/toppler/po/cs.po | 
+ | [de](/f32/language/de) | 552 | 552 | 100.0 | /mnt/stockage/packages/f32/toppler/po/de.po | 
+ | [eu](/f32/language/eu) | 552 | 552 | 100.0 | /mnt/stockage/packages/f32/toppler/po/eu.po | 
+ | [ro](/f32/language/ro) | 552 | 552 | 100.0 | /mnt/stockage/packages/f32/toppler/po/ro.po | 
+ | [fr](/f32/language/fr) | 530 | 552 | 96.0 | /mnt/stockage/packages/f32/toppler/po/fr.po | 
+ | [sv](/f32/language/sv) | 530 | 552 | 96.0 | /mnt/stockage/packages/f32/toppler/po/sv.po | 
+ | [pt](/f32/language/pt) | 472 | 552 | 85.5 | /mnt/stockage/packages/f32/toppler/po/pt.po | 
+ | [fi](/f32/language/fi) | 396 | 552 | 71.7 | /mnt/stockage/packages/f32/toppler/po/fi.po | 
 {.sortable}
 
 

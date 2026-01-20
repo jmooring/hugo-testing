@@ -18,48 +18,48 @@ The package php-horde-Horde-Share (version 2.2.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [da]({{< ref "/f32/language/da.md" >}}) | 8 | 8 | 100.0 | /mnt/stockage/packages/f32/php-horde-Horde-Share/Horde_Share-2.2.0/locale/da/LC_MESSAGES/Horde_Share.po | 
- | [de]({{< ref "/f32/language/de.md" >}}) | 8 | 8 | 100.0 | /mnt/stockage/packages/f32/php-horde-Horde-Share/Horde_Share-2.2.0/locale/de/LC_MESSAGES/Horde_Share.po | 
- | [el]({{< ref "/f32/language/el.md" >}}) | 48 | 48 | 100.0 | /mnt/stockage/packages/f32/php-horde-Horde-Share/Horde_Share-2.2.0/locale/el/LC_MESSAGES/Horde_Share.po | 
- | [es]({{< ref "/f32/language/es.md" >}}) | 8 | 8 | 100.0 | /mnt/stockage/packages/f32/php-horde-Horde-Share/Horde_Share-2.2.0/locale/es/LC_MESSAGES/Horde_Share.po | 
- | [eu]({{< ref "/f32/language/eu.md" >}}) | 8 | 8 | 100.0 | /mnt/stockage/packages/f32/php-horde-Horde-Share/Horde_Share-2.2.0/locale/eu/LC_MESSAGES/Horde_Share.po | 
- | [fi]({{< ref "/f32/language/fi.md" >}}) | 8 | 8 | 100.0 | /mnt/stockage/packages/f32/php-horde-Horde-Share/Horde_Share-2.2.0/locale/fi/LC_MESSAGES/Horde_Share.po | 
- | [hr]({{< ref "/f32/language/hr.md" >}}) | 8 | 8 | 100.0 | /mnt/stockage/packages/f32/php-horde-Horde-Share/Horde_Share-2.2.0/locale/hr/LC_MESSAGES/Horde_Share.po | 
- | [hu]({{< ref "/f32/language/hu.md" >}}) | 8 | 8 | 100.0 | /mnt/stockage/packages/f32/php-horde-Horde-Share/Horde_Share-2.2.0/locale/hu/LC_MESSAGES/Horde_Share.po | 
- | [ja]({{< ref "/f32/language/ja.md" >}}) | 8 | 8 | 100.0 | /mnt/stockage/packages/f32/php-horde-Horde-Share/Horde_Share-2.2.0/locale/ja/LC_MESSAGES/Horde_Share.po | 
- | [lt]({{< ref "/f32/language/lt.md" >}}) | 8 | 8 | 100.0 | /mnt/stockage/packages/f32/php-horde-Horde-Share/Horde_Share-2.2.0/locale/lt/LC_MESSAGES/Horde_Share.po | 
- | [lv]({{< ref "/f32/language/lv.md" >}}) | 8 | 8 | 100.0 | /mnt/stockage/packages/f32/php-horde-Horde-Share/Horde_Share-2.2.0/locale/lv/LC_MESSAGES/Horde_Share.po | 
- | [nl]({{< ref "/f32/language/nl.md" >}}) | 8 | 8 | 100.0 | /mnt/stockage/packages/f32/php-horde-Horde-Share/Horde_Share-2.2.0/locale/nl/LC_MESSAGES/Horde_Share.po | 
- | [pt_BR]({{< ref "/f32/language/pt_BR.md" >}}) | 8 | 8 | 100.0 | /mnt/stockage/packages/f32/php-horde-Horde-Share/Horde_Share-2.2.0/locale/pt_BR/LC_MESSAGES/Horde_Share.po | 
- | [sk]({{< ref "/f32/language/sk.md" >}}) | 8 | 8 | 100.0 | /mnt/stockage/packages/f32/php-horde-Horde-Share/Horde_Share-2.2.0/locale/sk/LC_MESSAGES/Horde_Share.po | 
- | [tr]({{< ref "/f32/language/tr.md" >}}) | 48 | 48 | 100.0 | /mnt/stockage/packages/f32/php-horde-Horde-Share/Horde_Share-2.2.0/locale/tr/LC_MESSAGES/Horde_Share.po | 
- | [uk]({{< ref "/f32/language/uk.md" >}}) | 39 | 48 | 81.2 | /mnt/stockage/packages/f32/php-horde-Horde-Share/Horde_Share-2.2.0/locale/uk/LC_MESSAGES/Horde_Share.po | 
- | [zh_Hant]({{< ref "/f32/language/zh_Hant.md" >}}) | 32 | 48 | 66.7 | /mnt/stockage/packages/f32/php-horde-Horde-Share/Horde_Share-2.2.0/locale/zh_TW/LC_MESSAGES/Horde_Share.po | 
- | [it]({{< ref "/f32/language/it.md" >}}) | 26 | 48 | 54.2 | /mnt/stockage/packages/f32/php-horde-Horde-Share/Horde_Share-2.2.0/locale/it/LC_MESSAGES/Horde_Share.po | 
- | [et]({{< ref "/f32/language/et.md" >}}) | 18 | 48 | 37.5 | /mnt/stockage/packages/f32/php-horde-Horde-Share/Horde_Share-2.2.0/locale/et/LC_MESSAGES/Horde_Share.po | 
- | [fr]({{< ref "/f32/language/fr.md" >}}) | 18 | 48 | 37.5 | /mnt/stockage/packages/f32/php-horde-Horde-Share/Horde_Share-2.2.0/locale/fr/LC_MESSAGES/Horde_Share.po | 
- | [ca]({{< ref "/f32/language/ca.md" >}}) | 13 | 48 | 27.1 | /mnt/stockage/packages/f32/php-horde-Horde-Share/Horde_Share-2.2.0/locale/ca/LC_MESSAGES/Horde_Share.po | 
- | [cs]({{< ref "/f32/language/cs.md" >}}) | 13 | 48 | 27.1 | /mnt/stockage/packages/f32/php-horde-Horde-Share/Horde_Share-2.2.0/locale/cs/LC_MESSAGES/Horde_Share.po | 
- | [pt]({{< ref "/f32/language/pt.md" >}}) | 13 | 48 | 27.1 | /mnt/stockage/packages/f32/php-horde-Horde-Share/Horde_Share-2.2.0/locale/pt/LC_MESSAGES/Horde_Share.po | 
- | [sl]({{< ref "/f32/language/sl.md" >}}) | 13 | 48 | 27.1 | /mnt/stockage/packages/f32/php-horde-Horde-Share/Horde_Share-2.2.0/locale/sl/LC_MESSAGES/Horde_Share.po | 
- | [zh_Hans]({{< ref "/f32/language/zh_Hans.md" >}}) | 13 | 48 | 27.1 | /mnt/stockage/packages/f32/php-horde-Horde-Share/Horde_Share-2.2.0/locale/zh_CN/LC_MESSAGES/Horde_Share.po | 
- | [fa]({{< ref "/f32/language/fa.md" >}}) | 5 | 48 | 10.4 | /mnt/stockage/packages/f32/php-horde-Horde-Share/Horde_Share-2.2.0/locale/fa/LC_MESSAGES/Horde_Share.po | 
- | [id]({{< ref "/f32/language/id.md" >}}) | 5 | 48 | 10.4 | /mnt/stockage/packages/f32/php-horde-Horde-Share/Horde_Share-2.2.0/locale/id/LC_MESSAGES/Horde_Share.po | 
- | [km]({{< ref "/f32/language/km.md" >}}) | 5 | 48 | 10.4 | /mnt/stockage/packages/f32/php-horde-Horde-Share/Horde_Share-2.2.0/locale/km/LC_MESSAGES/Horde_Share.po | 
- | [ru]({{< ref "/f32/language/ru.md" >}}) | 5 | 48 | 10.4 | /mnt/stockage/packages/f32/php-horde-Horde-Share/Horde_Share-2.2.0/locale/ru/LC_MESSAGES/Horde_Share.po | 
- | [sv]({{< ref "/f32/language/sv.md" >}}) | 5 | 48 | 10.4 | /mnt/stockage/packages/f32/php-horde-Horde-Share/Horde_Share-2.2.0/locale/sv/LC_MESSAGES/Horde_Share.po | 
- | [bg]({{< ref "/f32/language/bg.md" >}}) | 4 | 48 | 8.3 | /mnt/stockage/packages/f32/php-horde-Horde-Share/Horde_Share-2.2.0/locale/bg/LC_MESSAGES/Horde_Share.po | 
- | [ko]({{< ref "/f32/language/ko.md" >}}) | 4 | 48 | 8.3 | /mnt/stockage/packages/f32/php-horde-Horde-Share/Horde_Share-2.2.0/locale/ko/LC_MESSAGES/Horde_Share.po | 
- | [nb_NO]({{< ref "/f32/language/nb_NO.md" >}}) | 4 | 48 | 8.3 | /mnt/stockage/packages/f32/php-horde-Horde-Share/Horde_Share-2.2.0/locale/nb/LC_MESSAGES/Horde_Share.po | 
- | [pl]({{< ref "/f32/language/pl.md" >}}) | 4 | 48 | 8.3 | /mnt/stockage/packages/f32/php-horde-Horde-Share/Horde_Share-2.2.0/locale/pl/LC_MESSAGES/Horde_Share.po | 
- | [ar]({{< ref "/f32/language/ar.md" >}}) | 3 | 48 | 6.2 | /mnt/stockage/packages/f32/php-horde-Horde-Share/Horde_Share-2.2.0/locale/ar/LC_MESSAGES/Horde_Share.po | 
- | [gl]({{< ref "/f32/language/gl.md" >}}) | 3 | 48 | 6.2 | /mnt/stockage/packages/f32/php-horde-Horde-Share/Horde_Share-2.2.0/locale/gl/LC_MESSAGES/Horde_Share.po | 
- | [nn]({{< ref "/f32/language/nn.md" >}}) | 3 | 48 | 6.2 | /mnt/stockage/packages/f32/php-horde-Horde-Share/Horde_Share-2.2.0/locale/nn/LC_MESSAGES/Horde_Share.po | 
- | [ro]({{< ref "/f32/language/ro.md" >}}) | 3 | 48 | 6.2 | /mnt/stockage/packages/f32/php-horde-Horde-Share/Horde_Share-2.2.0/locale/ro/LC_MESSAGES/Horde_Share.po | 
- | [bs]({{< ref "/f32/language/bs.md" >}}) | 2 | 48 | 4.2 | /mnt/stockage/packages/f32/php-horde-Horde-Share/Horde_Share-2.2.0/locale/bs/LC_MESSAGES/Horde_Share.po | 
- | [is]({{< ref "/f32/language/is.md" >}}) | 1 | 48 | 2.1 | /mnt/stockage/packages/f32/php-horde-Horde-Share/Horde_Share-2.2.0/locale/is/LC_MESSAGES/Horde_Share.po | 
- | [mk]({{< ref "/f32/language/mk.md" >}}) | 1 | 48 | 2.1 | /mnt/stockage/packages/f32/php-horde-Horde-Share/Horde_Share-2.2.0/locale/mk/LC_MESSAGES/Horde_Share.po | 
- | [he]({{< ref "/f32/language/he.md" >}}) | 0 | 48 | 0.0 | /mnt/stockage/packages/f32/php-horde-Horde-Share/Horde_Share-2.2.0/locale/he/LC_MESSAGES/Horde_Share.po | 
+ | [da](/f32/language/da) | 8 | 8 | 100.0 | /mnt/stockage/packages/f32/php-horde-Horde-Share/Horde_Share-2.2.0/locale/da/LC_MESSAGES/Horde_Share.po | 
+ | [de](/f32/language/de) | 8 | 8 | 100.0 | /mnt/stockage/packages/f32/php-horde-Horde-Share/Horde_Share-2.2.0/locale/de/LC_MESSAGES/Horde_Share.po | 
+ | [el](/f32/language/el) | 48 | 48 | 100.0 | /mnt/stockage/packages/f32/php-horde-Horde-Share/Horde_Share-2.2.0/locale/el/LC_MESSAGES/Horde_Share.po | 
+ | [es](/f32/language/es) | 8 | 8 | 100.0 | /mnt/stockage/packages/f32/php-horde-Horde-Share/Horde_Share-2.2.0/locale/es/LC_MESSAGES/Horde_Share.po | 
+ | [eu](/f32/language/eu) | 8 | 8 | 100.0 | /mnt/stockage/packages/f32/php-horde-Horde-Share/Horde_Share-2.2.0/locale/eu/LC_MESSAGES/Horde_Share.po | 
+ | [fi](/f32/language/fi) | 8 | 8 | 100.0 | /mnt/stockage/packages/f32/php-horde-Horde-Share/Horde_Share-2.2.0/locale/fi/LC_MESSAGES/Horde_Share.po | 
+ | [hr](/f32/language/hr) | 8 | 8 | 100.0 | /mnt/stockage/packages/f32/php-horde-Horde-Share/Horde_Share-2.2.0/locale/hr/LC_MESSAGES/Horde_Share.po | 
+ | [hu](/f32/language/hu) | 8 | 8 | 100.0 | /mnt/stockage/packages/f32/php-horde-Horde-Share/Horde_Share-2.2.0/locale/hu/LC_MESSAGES/Horde_Share.po | 
+ | [ja](/f32/language/ja) | 8 | 8 | 100.0 | /mnt/stockage/packages/f32/php-horde-Horde-Share/Horde_Share-2.2.0/locale/ja/LC_MESSAGES/Horde_Share.po | 
+ | [lt](/f32/language/lt) | 8 | 8 | 100.0 | /mnt/stockage/packages/f32/php-horde-Horde-Share/Horde_Share-2.2.0/locale/lt/LC_MESSAGES/Horde_Share.po | 
+ | [lv](/f32/language/lv) | 8 | 8 | 100.0 | /mnt/stockage/packages/f32/php-horde-Horde-Share/Horde_Share-2.2.0/locale/lv/LC_MESSAGES/Horde_Share.po | 
+ | [nl](/f32/language/nl) | 8 | 8 | 100.0 | /mnt/stockage/packages/f32/php-horde-Horde-Share/Horde_Share-2.2.0/locale/nl/LC_MESSAGES/Horde_Share.po | 
+ | [pt_BR](/f32/language/pt_BR) | 8 | 8 | 100.0 | /mnt/stockage/packages/f32/php-horde-Horde-Share/Horde_Share-2.2.0/locale/pt_BR/LC_MESSAGES/Horde_Share.po | 
+ | [sk](/f32/language/sk) | 8 | 8 | 100.0 | /mnt/stockage/packages/f32/php-horde-Horde-Share/Horde_Share-2.2.0/locale/sk/LC_MESSAGES/Horde_Share.po | 
+ | [tr](/f32/language/tr) | 48 | 48 | 100.0 | /mnt/stockage/packages/f32/php-horde-Horde-Share/Horde_Share-2.2.0/locale/tr/LC_MESSAGES/Horde_Share.po | 
+ | [uk](/f32/language/uk) | 39 | 48 | 81.2 | /mnt/stockage/packages/f32/php-horde-Horde-Share/Horde_Share-2.2.0/locale/uk/LC_MESSAGES/Horde_Share.po | 
+ | [zh_Hant](/f32/language/zh_Hant) | 32 | 48 | 66.7 | /mnt/stockage/packages/f32/php-horde-Horde-Share/Horde_Share-2.2.0/locale/zh_TW/LC_MESSAGES/Horde_Share.po | 
+ | [it](/f32/language/it) | 26 | 48 | 54.2 | /mnt/stockage/packages/f32/php-horde-Horde-Share/Horde_Share-2.2.0/locale/it/LC_MESSAGES/Horde_Share.po | 
+ | [et](/f32/language/et) | 18 | 48 | 37.5 | /mnt/stockage/packages/f32/php-horde-Horde-Share/Horde_Share-2.2.0/locale/et/LC_MESSAGES/Horde_Share.po | 
+ | [fr](/f32/language/fr) | 18 | 48 | 37.5 | /mnt/stockage/packages/f32/php-horde-Horde-Share/Horde_Share-2.2.0/locale/fr/LC_MESSAGES/Horde_Share.po | 
+ | [ca](/f32/language/ca) | 13 | 48 | 27.1 | /mnt/stockage/packages/f32/php-horde-Horde-Share/Horde_Share-2.2.0/locale/ca/LC_MESSAGES/Horde_Share.po | 
+ | [cs](/f32/language/cs) | 13 | 48 | 27.1 | /mnt/stockage/packages/f32/php-horde-Horde-Share/Horde_Share-2.2.0/locale/cs/LC_MESSAGES/Horde_Share.po | 
+ | [pt](/f32/language/pt) | 13 | 48 | 27.1 | /mnt/stockage/packages/f32/php-horde-Horde-Share/Horde_Share-2.2.0/locale/pt/LC_MESSAGES/Horde_Share.po | 
+ | [sl](/f32/language/sl) | 13 | 48 | 27.1 | /mnt/stockage/packages/f32/php-horde-Horde-Share/Horde_Share-2.2.0/locale/sl/LC_MESSAGES/Horde_Share.po | 
+ | [zh_Hans](/f32/language/zh_Hans) | 13 | 48 | 27.1 | /mnt/stockage/packages/f32/php-horde-Horde-Share/Horde_Share-2.2.0/locale/zh_CN/LC_MESSAGES/Horde_Share.po | 
+ | [fa](/f32/language/fa) | 5 | 48 | 10.4 | /mnt/stockage/packages/f32/php-horde-Horde-Share/Horde_Share-2.2.0/locale/fa/LC_MESSAGES/Horde_Share.po | 
+ | [id](/f32/language/id) | 5 | 48 | 10.4 | /mnt/stockage/packages/f32/php-horde-Horde-Share/Horde_Share-2.2.0/locale/id/LC_MESSAGES/Horde_Share.po | 
+ | [km](/f32/language/km) | 5 | 48 | 10.4 | /mnt/stockage/packages/f32/php-horde-Horde-Share/Horde_Share-2.2.0/locale/km/LC_MESSAGES/Horde_Share.po | 
+ | [ru](/f32/language/ru) | 5 | 48 | 10.4 | /mnt/stockage/packages/f32/php-horde-Horde-Share/Horde_Share-2.2.0/locale/ru/LC_MESSAGES/Horde_Share.po | 
+ | [sv](/f32/language/sv) | 5 | 48 | 10.4 | /mnt/stockage/packages/f32/php-horde-Horde-Share/Horde_Share-2.2.0/locale/sv/LC_MESSAGES/Horde_Share.po | 
+ | [bg](/f32/language/bg) | 4 | 48 | 8.3 | /mnt/stockage/packages/f32/php-horde-Horde-Share/Horde_Share-2.2.0/locale/bg/LC_MESSAGES/Horde_Share.po | 
+ | [ko](/f32/language/ko) | 4 | 48 | 8.3 | /mnt/stockage/packages/f32/php-horde-Horde-Share/Horde_Share-2.2.0/locale/ko/LC_MESSAGES/Horde_Share.po | 
+ | [nb_NO](/f32/language/nb_NO) | 4 | 48 | 8.3 | /mnt/stockage/packages/f32/php-horde-Horde-Share/Horde_Share-2.2.0/locale/nb/LC_MESSAGES/Horde_Share.po | 
+ | [pl](/f32/language/pl) | 4 | 48 | 8.3 | /mnt/stockage/packages/f32/php-horde-Horde-Share/Horde_Share-2.2.0/locale/pl/LC_MESSAGES/Horde_Share.po | 
+ | [ar](/f32/language/ar) | 3 | 48 | 6.2 | /mnt/stockage/packages/f32/php-horde-Horde-Share/Horde_Share-2.2.0/locale/ar/LC_MESSAGES/Horde_Share.po | 
+ | [gl](/f32/language/gl) | 3 | 48 | 6.2 | /mnt/stockage/packages/f32/php-horde-Horde-Share/Horde_Share-2.2.0/locale/gl/LC_MESSAGES/Horde_Share.po | 
+ | [nn](/f32/language/nn) | 3 | 48 | 6.2 | /mnt/stockage/packages/f32/php-horde-Horde-Share/Horde_Share-2.2.0/locale/nn/LC_MESSAGES/Horde_Share.po | 
+ | [ro](/f32/language/ro) | 3 | 48 | 6.2 | /mnt/stockage/packages/f32/php-horde-Horde-Share/Horde_Share-2.2.0/locale/ro/LC_MESSAGES/Horde_Share.po | 
+ | [bs](/f32/language/bs) | 2 | 48 | 4.2 | /mnt/stockage/packages/f32/php-horde-Horde-Share/Horde_Share-2.2.0/locale/bs/LC_MESSAGES/Horde_Share.po | 
+ | [is](/f32/language/is) | 1 | 48 | 2.1 | /mnt/stockage/packages/f32/php-horde-Horde-Share/Horde_Share-2.2.0/locale/is/LC_MESSAGES/Horde_Share.po | 
+ | [mk](/f32/language/mk) | 1 | 48 | 2.1 | /mnt/stockage/packages/f32/php-horde-Horde-Share/Horde_Share-2.2.0/locale/mk/LC_MESSAGES/Horde_Share.po | 
+ | [he](/f32/language/he) | 0 | 48 | 0.0 | /mnt/stockage/packages/f32/php-horde-Horde-Share/Horde_Share-2.2.0/locale/he/LC_MESSAGES/Horde_Share.po | 
 {.sortable}
 
 

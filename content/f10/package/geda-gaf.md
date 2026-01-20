@@ -18,16 +18,16 @@ The package geda-gaf (version 1.6.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [es]({{< ref "/f10/language/es.md" >}}) | 2852 | 2852 | 100.0 | /mnt/stockage/packages/f10/geda-gaf/gattrib/po/es.po/mnt/stockage/packages/f10/geda-gaf/gschem/po/es.po/mnt/stockage/packages/f10/geda-gaf/libgeda/po/es.po | 
- | [en_GB]({{< ref "/f10/language/en_GB.md" >}}) | 2678 | 2844 | 94.2 | /mnt/stockage/packages/f10/geda-gaf/gschem/po/en_GB.po/mnt/stockage/packages/f10/geda-gaf/libgeda/po/en_GB.po | 
- | [de]({{< ref "/f10/language/de.md" >}}) | 2564 | 2852 | 89.9 | /mnt/stockage/packages/f10/geda-gaf/gattrib/po/de.po/mnt/stockage/packages/f10/geda-gaf/gschem/po/de.po/mnt/stockage/packages/f10/geda-gaf/libgeda/po/de.po | 
- | [nl]({{< ref "/f10/language/nl.md" >}}) | 2513 | 2852 | 88.1 | /mnt/stockage/packages/f10/geda-gaf/gattrib/po/nl.po/mnt/stockage/packages/f10/geda-gaf/gschem/po/nl.po/mnt/stockage/packages/f10/geda-gaf/libgeda/po/nl.po | 
- | [fr]({{< ref "/f10/language/fr.md" >}}) | 1304 | 1853 | 70.4 | /mnt/stockage/packages/f10/geda-gaf/gschem/po/fr.po | 
- | [it]({{< ref "/f10/language/it.md" >}}) | 1303 | 1853 | 70.3 | /mnt/stockage/packages/f10/geda-gaf/gschem/po/it.po | 
- | [af]({{< ref "/f10/language/af.md" >}}) | 1256 | 1853 | 67.8 | /mnt/stockage/packages/f10/geda-gaf/gschem/po/af.po | 
- | [ru]({{< ref "/f10/language/ru.md" >}}) | 1081 | 1853 | 58.3 | /mnt/stockage/packages/f10/geda-gaf/gschem/po/ru.po | 
- | [pt_BR]({{< ref "/f10/language/pt_BR.md" >}}) | 970 | 1853 | 52.3 | /mnt/stockage/packages/f10/geda-gaf/gschem/po/pt_BR.po | 
- | [ja]({{< ref "/f10/language/ja.md" >}}) | 778 | 1853 | 42.0 | /mnt/stockage/packages/f10/geda-gaf/gschem/po/ja.po | 
+ | [es](/f10/language/es) | 2852 | 2852 | 100.0 | /mnt/stockage/packages/f10/geda-gaf/gattrib/po/es.po/mnt/stockage/packages/f10/geda-gaf/gschem/po/es.po/mnt/stockage/packages/f10/geda-gaf/libgeda/po/es.po | 
+ | [en_GB](/f10/language/en_GB) | 2678 | 2844 | 94.2 | /mnt/stockage/packages/f10/geda-gaf/gschem/po/en_GB.po/mnt/stockage/packages/f10/geda-gaf/libgeda/po/en_GB.po | 
+ | [de](/f10/language/de) | 2564 | 2852 | 89.9 | /mnt/stockage/packages/f10/geda-gaf/gattrib/po/de.po/mnt/stockage/packages/f10/geda-gaf/gschem/po/de.po/mnt/stockage/packages/f10/geda-gaf/libgeda/po/de.po | 
+ | [nl](/f10/language/nl) | 2513 | 2852 | 88.1 | /mnt/stockage/packages/f10/geda-gaf/gattrib/po/nl.po/mnt/stockage/packages/f10/geda-gaf/gschem/po/nl.po/mnt/stockage/packages/f10/geda-gaf/libgeda/po/nl.po | 
+ | [fr](/f10/language/fr) | 1304 | 1853 | 70.4 | /mnt/stockage/packages/f10/geda-gaf/gschem/po/fr.po | 
+ | [it](/f10/language/it) | 1303 | 1853 | 70.3 | /mnt/stockage/packages/f10/geda-gaf/gschem/po/it.po | 
+ | [af](/f10/language/af) | 1256 | 1853 | 67.8 | /mnt/stockage/packages/f10/geda-gaf/gschem/po/af.po | 
+ | [ru](/f10/language/ru) | 1081 | 1853 | 58.3 | /mnt/stockage/packages/f10/geda-gaf/gschem/po/ru.po | 
+ | [pt_BR](/f10/language/pt_BR) | 970 | 1853 | 52.3 | /mnt/stockage/packages/f10/geda-gaf/gschem/po/pt_BR.po | 
+ | [ja](/f10/language/ja) | 778 | 1853 | 42.0 | /mnt/stockage/packages/f10/geda-gaf/gschem/po/ja.po | 
 {.sortable}
 
 

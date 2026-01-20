@@ -38,25 +38,25 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [gnome-applets]({{< ref "/f8/package/gnome-applets.md" >}}) | 3858 | 3858 | 100.0 | Spanish <traductores@es.gnome.org> | 
- | [bittorrent]({{< ref "/f8/package/bittorrent.md" >}}) | 3614 | 3904 | 92.6 | LANGUAGE <LL@li.org> | 
- | [gnomebaker]({{< ref "/f8/package/gnomebaker.md" >}}) | 1059 | 1186 | 89.3 | Spanish (Mexico) <es_MX@li.org> | 
- | [gallery2]({{< ref "/f8/package/gallery2.md" >}}) | 6760 | 9145 | 73.9 | Mexican Spanish <gallery-devel@lists.sourceforge.net> | 
- | [xfce4-session]({{< ref "/f8/package/xfce4-session.md" >}}) | 545 | 738 | 73.8 | Spanish <es@li.org> | 
- | [tuxpaint]({{< ref "/f8/package/tuxpaint.md" >}}) | 416 | 591 | 70.4 | Español <ggabriel@internet.com.uy> | 
- | [abiword]({{< ref "/f8/package/abiword.md" >}}) | 2791 | 4644 | 60.1 | unknown <email@address> | 
- | [xfwm4]({{< ref "/f8/package/xfwm4.md" >}}) | 336 | 646 | 52.0 | Spanish <es@li.org> | 
- | [xfce4-mixer]({{< ref "/f8/package/xfce4-mixer.md" >}}) | 115 | 226 | 50.9 | Spanish <es@li.org> | 
- | [xfce-mcs-manager]({{< ref "/f8/package/xfce-mcs-manager.md" >}}) | 14 | 30 | 46.7 | Spanish <es@li.org> | 
- | [xfprint]({{< ref "/f8/package/xfprint.md" >}}) | 146 | 324 | 45.1 | Spanish <es@li.org> | 
- | [xfce-mcs-plugins]({{< ref "/f8/package/xfce-mcs-plugins.md" >}}) | 173 | 475 | 36.4 | Spanish <es@li.org> | 
- | [xfce4-appfinder]({{< ref "/f8/package/xfce4-appfinder.md" >}}) | 14 | 48 | 29.2 | Spanish <es@li.org> | 
- | [xfdesktop]({{< ref "/f8/package/xfdesktop.md" >}}) | 286 | 1078 | 26.5 | Spanish <es@li.org> | 
- | [xfce-utils]({{< ref "/f8/package/xfce-utils.md" >}}) | 20 | 119 | 16.8 | Spanish <es@li.org> | 
- | [solfege]({{< ref "/f8/package/solfege.md" >}}) | 467 | 3460 | 13.5 | Spanish/Mexico | 
- | [xfce4-panel]({{< ref "/f8/package/xfce4-panel.md" >}}) | 68 | 578 | 11.8 | Spanish <es@li.org> | 
- | [xfce4-eyes-plugin]({{< ref "/f8/package/xfce4-eyes-plugin.md" >}}) | 1 | 9 | 11.1 | Spanish <es@li.org> | 
- | [inkscape]({{< ref "/f8/package/inkscape.md" >}}) | 936 | 11648 | 8.0 | none <none> | 
+ | [gnome-applets](/f8/package/gnome-applets) | 3858 | 3858 | 100.0 | Spanish <traductores@es.gnome.org> | 
+ | [bittorrent](/f8/package/bittorrent) | 3614 | 3904 | 92.6 | LANGUAGE <LL@li.org> | 
+ | [gnomebaker](/f8/package/gnomebaker) | 1059 | 1186 | 89.3 | Spanish (Mexico) <es_MX@li.org> | 
+ | [gallery2](/f8/package/gallery2) | 6760 | 9145 | 73.9 | Mexican Spanish <gallery-devel@lists.sourceforge.net> | 
+ | [xfce4-session](/f8/package/xfce4-session) | 545 | 738 | 73.8 | Spanish <es@li.org> | 
+ | [tuxpaint](/f8/package/tuxpaint) | 416 | 591 | 70.4 | Español <ggabriel@internet.com.uy> | 
+ | [abiword](/f8/package/abiword) | 2791 | 4644 | 60.1 | unknown <email@address> | 
+ | [xfwm4](/f8/package/xfwm4) | 336 | 646 | 52.0 | Spanish <es@li.org> | 
+ | [xfce4-mixer](/f8/package/xfce4-mixer) | 115 | 226 | 50.9 | Spanish <es@li.org> | 
+ | [xfce-mcs-manager](/f8/package/xfce-mcs-manager) | 14 | 30 | 46.7 | Spanish <es@li.org> | 
+ | [xfprint](/f8/package/xfprint) | 146 | 324 | 45.1 | Spanish <es@li.org> | 
+ | [xfce-mcs-plugins](/f8/package/xfce-mcs-plugins) | 173 | 475 | 36.4 | Spanish <es@li.org> | 
+ | [xfce4-appfinder](/f8/package/xfce4-appfinder) | 14 | 48 | 29.2 | Spanish <es@li.org> | 
+ | [xfdesktop](/f8/package/xfdesktop) | 286 | 1078 | 26.5 | Spanish <es@li.org> | 
+ | [xfce-utils](/f8/package/xfce-utils) | 20 | 119 | 16.8 | Spanish <es@li.org> | 
+ | [solfege](/f8/package/solfege) | 467 | 3460 | 13.5 | Spanish/Mexico | 
+ | [xfce4-panel](/f8/package/xfce4-panel) | 68 | 578 | 11.8 | Spanish <es@li.org> | 
+ | [xfce4-eyes-plugin](/f8/package/xfce4-eyes-plugin) | 1 | 9 | 11.1 | Spanish <es@li.org> | 
+ | [inkscape](/f8/package/inkscape) | 936 | 11648 | 8.0 | none <none> | 
 {.sortable}
 
 

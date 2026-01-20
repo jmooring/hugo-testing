@@ -18,29 +18,29 @@ The package bibletime (version 1.6.5.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fi]({{< ref "/f7/language/fi.md" >}}) | 3437 | 3437 | 100.0 | /mnt/stockage/packages/f7/bibletime/po/fi.po | 
- | [zh_Hans]({{< ref "/f7/language/zh_Hans.md" >}}) | 3437 | 3437 | 100.0 | /mnt/stockage/packages/f7/bibletime/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f7/language/zh_Hant.md" >}}) | 3428 | 3437 | 99.7 | /mnt/stockage/packages/f7/bibletime/po/zh_TW.po | 
- | [nl]({{< ref "/f7/language/nl.md" >}}) | 3424 | 3437 | 99.6 | /mnt/stockage/packages/f7/bibletime/po/nl.po | 
- | [da]({{< ref "/f7/language/da.md" >}}) | 3393 | 3437 | 98.7 | /mnt/stockage/packages/f7/bibletime/po/da.po | 
- | [es]({{< ref "/f7/language/es.md" >}}) | 3393 | 3437 | 98.7 | /mnt/stockage/packages/f7/bibletime/po/es.po | 
- | [ro]({{< ref "/f7/language/ro.md" >}}) | 3383 | 3437 | 98.4 | /mnt/stockage/packages/f7/bibletime/po/ro.po | 
- | [cs]({{< ref "/f7/language/cs.md" >}}) | 3348 | 3437 | 97.4 | /mnt/stockage/packages/f7/bibletime/po/cs.po | 
- | [de]({{< ref "/f7/language/de.md" >}}) | 3271 | 3437 | 95.2 | /mnt/stockage/packages/f7/bibletime/po/de.po | 
- | [pl]({{< ref "/f7/language/pl.md" >}}) | 3142 | 3437 | 91.4 | /mnt/stockage/packages/f7/bibletime/po/pl.po | 
- | [fr]({{< ref "/f7/language/fr.md" >}}) | 3126 | 3437 | 91.0 | /mnt/stockage/packages/f7/bibletime/po/fr.po | 
- | [nn]({{< ref "/f7/language/nn.md" >}}) | 3126 | 3437 | 91.0 | /mnt/stockage/packages/f7/bibletime/po/nn_NO.po | 
- | [ru]({{< ref "/f7/language/ru.md" >}}) | 3119 | 3437 | 90.7 | /mnt/stockage/packages/f7/bibletime/po/ru.po | 
- | [ko]({{< ref "/f7/language/ko.md" >}}) | 2624 | 3437 | 76.3 | /mnt/stockage/packages/f7/bibletime/po/ko.po | 
- | [sk]({{< ref "/f7/language/sk.md" >}}) | 2555 | 3437 | 74.3 | /mnt/stockage/packages/f7/bibletime/po/sk.po | 
- | [pt_BR]({{< ref "/f7/language/pt_BR.md" >}}) | 2410 | 3437 | 70.1 | /mnt/stockage/packages/f7/bibletime/po/pt_br.po | 
- | [bg]({{< ref "/f7/language/bg.md" >}}) | 1778 | 3437 | 51.7 | /mnt/stockage/packages/f7/bibletime/po/bg.po | 
- | [en_GB]({{< ref "/f7/language/en_GB.md" >}}) | 1775 | 3437 | 51.6 | /mnt/stockage/packages/f7/bibletime/po/en_GB.po | 
- | [it]({{< ref "/f7/language/it.md" >}}) | 1728 | 3437 | 50.3 | /mnt/stockage/packages/f7/bibletime/po/it.po | 
- | [uk]({{< ref "/f7/language/uk.md" >}}) | 1689 | 3437 | 49.1 | /mnt/stockage/packages/f7/bibletime/po/ua.po | 
- | [af]({{< ref "/f7/language/af.md" >}}) | 791 | 3437 | 23.0 | /mnt/stockage/packages/f7/bibletime/po/af.po | 
- | [nb_NO]({{< ref "/f7/language/nb_NO.md" >}}) | 177 | 3437 | 5.1 | /mnt/stockage/packages/f7/bibletime/po/no.po | 
- | [hu]({{< ref "/f7/language/hu.md" >}}) | 7 | 3437 | 0.2 | /mnt/stockage/packages/f7/bibletime/po/hu.po | 
+ | [fi](/f7/language/fi) | 3437 | 3437 | 100.0 | /mnt/stockage/packages/f7/bibletime/po/fi.po | 
+ | [zh_Hans](/f7/language/zh_Hans) | 3437 | 3437 | 100.0 | /mnt/stockage/packages/f7/bibletime/po/zh_CN.po | 
+ | [zh_Hant](/f7/language/zh_Hant) | 3428 | 3437 | 99.7 | /mnt/stockage/packages/f7/bibletime/po/zh_TW.po | 
+ | [nl](/f7/language/nl) | 3424 | 3437 | 99.6 | /mnt/stockage/packages/f7/bibletime/po/nl.po | 
+ | [da](/f7/language/da) | 3393 | 3437 | 98.7 | /mnt/stockage/packages/f7/bibletime/po/da.po | 
+ | [es](/f7/language/es) | 3393 | 3437 | 98.7 | /mnt/stockage/packages/f7/bibletime/po/es.po | 
+ | [ro](/f7/language/ro) | 3383 | 3437 | 98.4 | /mnt/stockage/packages/f7/bibletime/po/ro.po | 
+ | [cs](/f7/language/cs) | 3348 | 3437 | 97.4 | /mnt/stockage/packages/f7/bibletime/po/cs.po | 
+ | [de](/f7/language/de) | 3271 | 3437 | 95.2 | /mnt/stockage/packages/f7/bibletime/po/de.po | 
+ | [pl](/f7/language/pl) | 3142 | 3437 | 91.4 | /mnt/stockage/packages/f7/bibletime/po/pl.po | 
+ | [fr](/f7/language/fr) | 3126 | 3437 | 91.0 | /mnt/stockage/packages/f7/bibletime/po/fr.po | 
+ | [nn](/f7/language/nn) | 3126 | 3437 | 91.0 | /mnt/stockage/packages/f7/bibletime/po/nn_NO.po | 
+ | [ru](/f7/language/ru) | 3119 | 3437 | 90.7 | /mnt/stockage/packages/f7/bibletime/po/ru.po | 
+ | [ko](/f7/language/ko) | 2624 | 3437 | 76.3 | /mnt/stockage/packages/f7/bibletime/po/ko.po | 
+ | [sk](/f7/language/sk) | 2555 | 3437 | 74.3 | /mnt/stockage/packages/f7/bibletime/po/sk.po | 
+ | [pt_BR](/f7/language/pt_BR) | 2410 | 3437 | 70.1 | /mnt/stockage/packages/f7/bibletime/po/pt_br.po | 
+ | [bg](/f7/language/bg) | 1778 | 3437 | 51.7 | /mnt/stockage/packages/f7/bibletime/po/bg.po | 
+ | [en_GB](/f7/language/en_GB) | 1775 | 3437 | 51.6 | /mnt/stockage/packages/f7/bibletime/po/en_GB.po | 
+ | [it](/f7/language/it) | 1728 | 3437 | 50.3 | /mnt/stockage/packages/f7/bibletime/po/it.po | 
+ | [uk](/f7/language/uk) | 1689 | 3437 | 49.1 | /mnt/stockage/packages/f7/bibletime/po/ua.po | 
+ | [af](/f7/language/af) | 791 | 3437 | 23.0 | /mnt/stockage/packages/f7/bibletime/po/af.po | 
+ | [nb_NO](/f7/language/nb_NO) | 177 | 3437 | 5.1 | /mnt/stockage/packages/f7/bibletime/po/no.po | 
+ | [hu](/f7/language/hu) | 7 | 3437 | 0.2 | /mnt/stockage/packages/f7/bibletime/po/hu.po | 
 {.sortable}
 
 

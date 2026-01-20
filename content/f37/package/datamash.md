@@ -18,18 +18,18 @@ The package datamash (version 1.7):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f37/language/de.md" >}}) | 876 | 1322 | 66.3 | /mnt/stockage/packages/f37/datamash/po/de.po | 
- | [eo]({{< ref "/f37/language/eo.md" >}}) | 876 | 1322 | 66.3 | /mnt/stockage/packages/f37/datamash/po/eo.po | 
- | [fr]({{< ref "/f37/language/fr.md" >}}) | 876 | 1322 | 66.3 | /mnt/stockage/packages/f37/datamash/po/fr.po | 
- | [nb_NO]({{< ref "/f37/language/nb_NO.md" >}}) | 876 | 1322 | 66.3 | /mnt/stockage/packages/f37/datamash/po/nb.po | 
- | [nl]({{< ref "/f37/language/nl.md" >}}) | 876 | 1322 | 66.3 | /mnt/stockage/packages/f37/datamash/po/nl.po | 
- | [pt_BR]({{< ref "/f37/language/pt_BR.md" >}}) | 876 | 1322 | 66.3 | /mnt/stockage/packages/f37/datamash/po/pt_BR.po | 
- | [sr]({{< ref "/f37/language/sr.md" >}}) | 876 | 1322 | 66.3 | /mnt/stockage/packages/f37/datamash/po/sr.po | 
- | [uk]({{< ref "/f37/language/uk.md" >}}) | 876 | 1322 | 66.3 | /mnt/stockage/packages/f37/datamash/po/uk.po | 
- | [da]({{< ref "/f37/language/da.md" >}}) | 735 | 1322 | 55.6 | /mnt/stockage/packages/f37/datamash/po/da.po | 
- | [es]({{< ref "/f37/language/es.md" >}}) | 735 | 1322 | 55.6 | /mnt/stockage/packages/f37/datamash/po/es.po | 
- | [sv]({{< ref "/f37/language/sv.md" >}}) | 735 | 1322 | 55.6 | /mnt/stockage/packages/f37/datamash/po/sv.po | 
- | [vi]({{< ref "/f37/language/vi.md" >}}) | 429 | 1322 | 32.5 | /mnt/stockage/packages/f37/datamash/po/vi.po | 
+ | [de](/f37/language/de) | 876 | 1322 | 66.3 | /mnt/stockage/packages/f37/datamash/po/de.po | 
+ | [eo](/f37/language/eo) | 876 | 1322 | 66.3 | /mnt/stockage/packages/f37/datamash/po/eo.po | 
+ | [fr](/f37/language/fr) | 876 | 1322 | 66.3 | /mnt/stockage/packages/f37/datamash/po/fr.po | 
+ | [nb_NO](/f37/language/nb_NO) | 876 | 1322 | 66.3 | /mnt/stockage/packages/f37/datamash/po/nb.po | 
+ | [nl](/f37/language/nl) | 876 | 1322 | 66.3 | /mnt/stockage/packages/f37/datamash/po/nl.po | 
+ | [pt_BR](/f37/language/pt_BR) | 876 | 1322 | 66.3 | /mnt/stockage/packages/f37/datamash/po/pt_BR.po | 
+ | [sr](/f37/language/sr) | 876 | 1322 | 66.3 | /mnt/stockage/packages/f37/datamash/po/sr.po | 
+ | [uk](/f37/language/uk) | 876 | 1322 | 66.3 | /mnt/stockage/packages/f37/datamash/po/uk.po | 
+ | [da](/f37/language/da) | 735 | 1322 | 55.6 | /mnt/stockage/packages/f37/datamash/po/da.po | 
+ | [es](/f37/language/es) | 735 | 1322 | 55.6 | /mnt/stockage/packages/f37/datamash/po/es.po | 
+ | [sv](/f37/language/sv) | 735 | 1322 | 55.6 | /mnt/stockage/packages/f37/datamash/po/sv.po | 
+ | [vi](/f37/language/vi) | 429 | 1322 | 32.5 | /mnt/stockage/packages/f37/datamash/po/vi.po | 
 {.sortable}
 
 

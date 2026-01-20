@@ -189,7 +189,7 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [godot]({{< ref "/f35/package/godot.md" >}}) | 434 | 15126 | 2.9 | Pirate <https://hosted.weblate.org/projects/godot-engine/godot/pr/> | 
+ | [godot](/f35/package/godot) | 434 | 15126 | 2.9 | Pirate <https://hosted.weblate.org/projects/godot-engine/godot/pr/> | 
 {.sortable}
 
 

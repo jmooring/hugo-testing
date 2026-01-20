@@ -18,26 +18,26 @@ The package jpilot (version 1.8.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f29/language/fr.md" >}}) | 2515 | 3074 | 81.8 | /mnt/stockage/packages/f29/jpilot/po/fr.po | 
- | [da]({{< ref "/f29/language/da.md" >}}) | 2321 | 3074 | 75.5 | /mnt/stockage/packages/f29/jpilot/po/da.po | 
- | [es]({{< ref "/f29/language/es.md" >}}) | 1719 | 3074 | 55.9 | /mnt/stockage/packages/f29/jpilot/po/es.po | 
- | [tr]({{< ref "/f29/language/tr.md" >}}) | 1719 | 3074 | 55.9 | /mnt/stockage/packages/f29/jpilot/po/tr.po | 
- | [pt_BR]({{< ref "/f29/language/pt_BR.md" >}}) | 1669 | 3074 | 54.3 | /mnt/stockage/packages/f29/jpilot/po/pt_BR.po | 
- | [ja]({{< ref "/f29/language/ja.md" >}}) | 1581 | 3074 | 51.4 | /mnt/stockage/packages/f29/jpilot/po/ja.po | 
- | [ko]({{< ref "/f29/language/ko.md" >}}) | 1571 | 3074 | 51.1 | /mnt/stockage/packages/f29/jpilot/po/ko.po | 
- | [cs]({{< ref "/f29/language/cs.md" >}}) | 1566 | 3074 | 50.9 | /mnt/stockage/packages/f29/jpilot/po/cs.po | 
- | [uk]({{< ref "/f29/language/uk.md" >}}) | 1566 | 3074 | 50.9 | /mnt/stockage/packages/f29/jpilot/po/uk.po | 
- | [vi]({{< ref "/f29/language/vi.md" >}}) | 1566 | 3074 | 50.9 | /mnt/stockage/packages/f29/jpilot/po/vi.po | 
- | [zh_Hans]({{< ref "/f29/language/zh_Hans.md" >}}) | 1566 | 3074 | 50.9 | /mnt/stockage/packages/f29/jpilot/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f29/language/zh_Hant.md" >}}) | 1497 | 3074 | 48.7 | /mnt/stockage/packages/f29/jpilot/po/zh_TW.po | 
- | [it]({{< ref "/f29/language/it.md" >}}) | 1468 | 3074 | 47.8 | /mnt/stockage/packages/f29/jpilot/po/it.po | 
- | [ru]({{< ref "/f29/language/ru.md" >}}) | 1169 | 3074 | 38.0 | /mnt/stockage/packages/f29/jpilot/po/ru.po | 
- | [nl]({{< ref "/f29/language/nl.md" >}}) | 1058 | 3074 | 34.4 | /mnt/stockage/packages/f29/jpilot/po/nl.po | 
- | [de]({{< ref "/f29/language/de.md" >}}) | 989 | 3074 | 32.2 | /mnt/stockage/packages/f29/jpilot/po/de.po | 
- | [sv]({{< ref "/f29/language/sv.md" >}}) | 669 | 3074 | 21.8 | /mnt/stockage/packages/f29/jpilot/po/sv.po | 
- | [ca]({{< ref "/f29/language/ca.md" >}}) | 583 | 3074 | 19.0 | /mnt/stockage/packages/f29/jpilot/po/ca.po | 
- | [nb_NO]({{< ref "/f29/language/nb_NO.md" >}}) | 329 | 3074 | 10.7 | /mnt/stockage/packages/f29/jpilot/po/nb.po | 
- | [rw]({{< ref "/f29/language/rw.md" >}}) | 112 | 3074 | 3.6 | /mnt/stockage/packages/f29/jpilot/po/rw.po | 
+ | [fr](/f29/language/fr) | 2515 | 3074 | 81.8 | /mnt/stockage/packages/f29/jpilot/po/fr.po | 
+ | [da](/f29/language/da) | 2321 | 3074 | 75.5 | /mnt/stockage/packages/f29/jpilot/po/da.po | 
+ | [es](/f29/language/es) | 1719 | 3074 | 55.9 | /mnt/stockage/packages/f29/jpilot/po/es.po | 
+ | [tr](/f29/language/tr) | 1719 | 3074 | 55.9 | /mnt/stockage/packages/f29/jpilot/po/tr.po | 
+ | [pt_BR](/f29/language/pt_BR) | 1669 | 3074 | 54.3 | /mnt/stockage/packages/f29/jpilot/po/pt_BR.po | 
+ | [ja](/f29/language/ja) | 1581 | 3074 | 51.4 | /mnt/stockage/packages/f29/jpilot/po/ja.po | 
+ | [ko](/f29/language/ko) | 1571 | 3074 | 51.1 | /mnt/stockage/packages/f29/jpilot/po/ko.po | 
+ | [cs](/f29/language/cs) | 1566 | 3074 | 50.9 | /mnt/stockage/packages/f29/jpilot/po/cs.po | 
+ | [uk](/f29/language/uk) | 1566 | 3074 | 50.9 | /mnt/stockage/packages/f29/jpilot/po/uk.po | 
+ | [vi](/f29/language/vi) | 1566 | 3074 | 50.9 | /mnt/stockage/packages/f29/jpilot/po/vi.po | 
+ | [zh_Hans](/f29/language/zh_Hans) | 1566 | 3074 | 50.9 | /mnt/stockage/packages/f29/jpilot/po/zh_CN.po | 
+ | [zh_Hant](/f29/language/zh_Hant) | 1497 | 3074 | 48.7 | /mnt/stockage/packages/f29/jpilot/po/zh_TW.po | 
+ | [it](/f29/language/it) | 1468 | 3074 | 47.8 | /mnt/stockage/packages/f29/jpilot/po/it.po | 
+ | [ru](/f29/language/ru) | 1169 | 3074 | 38.0 | /mnt/stockage/packages/f29/jpilot/po/ru.po | 
+ | [nl](/f29/language/nl) | 1058 | 3074 | 34.4 | /mnt/stockage/packages/f29/jpilot/po/nl.po | 
+ | [de](/f29/language/de) | 989 | 3074 | 32.2 | /mnt/stockage/packages/f29/jpilot/po/de.po | 
+ | [sv](/f29/language/sv) | 669 | 3074 | 21.8 | /mnt/stockage/packages/f29/jpilot/po/sv.po | 
+ | [ca](/f29/language/ca) | 583 | 3074 | 19.0 | /mnt/stockage/packages/f29/jpilot/po/ca.po | 
+ | [nb_NO](/f29/language/nb_NO) | 329 | 3074 | 10.7 | /mnt/stockage/packages/f29/jpilot/po/nb.po | 
+ | [rw](/f29/language/rw) | 112 | 3074 | 3.6 | /mnt/stockage/packages/f29/jpilot/po/rw.po | 
 {.sortable}
 
 

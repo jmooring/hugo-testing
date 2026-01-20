@@ -38,16 +38,16 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [blueberry]({{< ref "/f25/package/blueberry.md" >}}) | 141 | 141 | 100.0 | Scots <sco@li.org> | 
- | [gnomad2]({{< ref "/f25/package/gnomad2.md" >}}) | 697 | 697 | 100.0 | Scots <sco@li.org> | 
- | [cinnamon-translations]({{< ref "/f25/package/cinnamon-translations.md" >}}) | 1196 | 7283 | 16.4 | Scots <sco@li.org> | 
- | [pyroom]({{< ref "/f25/package/pyroom.md" >}}) | 21 | 411 | 5.1 | Scots <sco@li.org> | 
- | [mintmenu]({{< ref "/f25/package/mintmenu.md" >}}) | 15 | 862 | 1.7 | Scots <sco@li.org> | 
- | [picard]({{< ref "/f25/package/picard.md" >}}) | 29 | 1681 | 1.7 | Scots (http://www.transifex.com/projects/p/musicbrainz/language/sco/) | 
- | [stellarium]({{< ref "/f25/package/stellarium.md" >}}) | 48 | 23532 | 0.2 | Scots <sco@li.org> | 
- | [bzr]({{< ref "/f25/package/bzr.md" >}}) | 23 | 33249 | 0.1 | Scots <sco@li.org> | 
- | [libmatekbd]({{< ref "/f25/package/libmatekbd.md" >}}) | 0 | 251 | 0.0 | Scots (http://www.transifex.com/mate/MATE/language/sco/) | 
- | [mate-menu]({{< ref "/f25/package/mate-menu.md" >}}) | 0 | 300 | 0.0 | Scots (http://www.transifex.com/mate/MATE/language/sco/) | 
+ | [blueberry](/f25/package/blueberry) | 141 | 141 | 100.0 | Scots <sco@li.org> | 
+ | [gnomad2](/f25/package/gnomad2) | 697 | 697 | 100.0 | Scots <sco@li.org> | 
+ | [cinnamon-translations](/f25/package/cinnamon-translations) | 1196 | 7283 | 16.4 | Scots <sco@li.org> | 
+ | [pyroom](/f25/package/pyroom) | 21 | 411 | 5.1 | Scots <sco@li.org> | 
+ | [mintmenu](/f25/package/mintmenu) | 15 | 862 | 1.7 | Scots <sco@li.org> | 
+ | [picard](/f25/package/picard) | 29 | 1681 | 1.7 | Scots (http://www.transifex.com/projects/p/musicbrainz/language/sco/) | 
+ | [stellarium](/f25/package/stellarium) | 48 | 23532 | 0.2 | Scots <sco@li.org> | 
+ | [bzr](/f25/package/bzr) | 23 | 33249 | 0.1 | Scots <sco@li.org> | 
+ | [libmatekbd](/f25/package/libmatekbd) | 0 | 251 | 0.0 | Scots (http://www.transifex.com/mate/MATE/language/sco/) | 
+ | [mate-menu](/f25/package/mate-menu) | 0 | 300 | 0.0 | Scots (http://www.transifex.com/mate/MATE/language/sco/) | 
 {.sortable}
 
 

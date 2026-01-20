@@ -18,22 +18,22 @@ The package insight (version 6.8.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [da]({{< ref "/f12/language/da.md" >}}) | 4129 | 4129 | 100.0 | /mnt/stockage/packages/f12/insight/bfd/po/da.po/mnt/stockage/packages/f12/insight/opcodes/po/da.po | 
- | [de]({{< ref "/f12/language/de.md" >}}) | 863 | 863 | 100.0 | /mnt/stockage/packages/f12/insight/opcodes/po/de.po | 
- | [es]({{< ref "/f12/language/es.md" >}}) | 6848 | 6848 | 100.0 | /mnt/stockage/packages/f12/insight/bfd/po/es.po/mnt/stockage/packages/f12/insight/opcodes/po/es.po | 
- | [fi]({{< ref "/f12/language/fi.md" >}}) | 6848 | 6848 | 100.0 | /mnt/stockage/packages/f12/insight/bfd/po/fi.po/mnt/stockage/packages/f12/insight/opcodes/po/fi.po | 
- | [fr]({{< ref "/f12/language/fr.md" >}}) | 4964 | 4964 | 100.0 | /mnt/stockage/packages/f12/insight/bfd/po/fr.po/mnt/stockage/packages/f12/insight/opcodes/po/fr.po | 
- | [ga]({{< ref "/f12/language/ga.md" >}}) | 1209 | 1209 | 100.0 | /mnt/stockage/packages/f12/insight/opcodes/po/ga.po | 
- | [id]({{< ref "/f12/language/id.md" >}}) | 434 | 434 | 100.0 | /mnt/stockage/packages/f12/insight/opcodes/po/id.po | 
- | [nl]({{< ref "/f12/language/nl.md" >}}) | 1209 | 1209 | 100.0 | /mnt/stockage/packages/f12/insight/opcodes/po/nl.po | 
- | [pt_BR]({{< ref "/f12/language/pt_BR.md" >}}) | 434 | 434 | 100.0 | /mnt/stockage/packages/f12/insight/opcodes/po/pt_BR.po | 
- | [ro]({{< ref "/f12/language/ro.md" >}}) | 4961 | 4961 | 100.0 | /mnt/stockage/packages/f12/insight/bfd/po/ro.po/mnt/stockage/packages/f12/insight/opcodes/po/ro.po | 
- | [sv]({{< ref "/f12/language/sv.md" >}}) | 4964 | 4964 | 100.0 | /mnt/stockage/packages/f12/insight/bfd/po/sv.po/mnt/stockage/packages/f12/insight/opcodes/po/sv.po | 
- | [tr]({{< ref "/f12/language/tr.md" >}}) | 4961 | 4961 | 100.0 | /mnt/stockage/packages/f12/insight/bfd/po/tr.po/mnt/stockage/packages/f12/insight/opcodes/po/tr.po | 
- | [ja]({{< ref "/f12/language/ja.md" >}}) | 2156 | 3375 | 63.9 | /mnt/stockage/packages/f12/insight/bfd/po/ja.po | 
- | [vi]({{< ref "/f12/language/vi.md" >}}) | 3342 | 6083 | 54.9 | /mnt/stockage/packages/f12/insight/bfd/po/vi.po/mnt/stockage/packages/f12/insight/opcodes/po/vi.po | 
- | [zh_Hans]({{< ref "/f12/language/zh_Hans.md" >}}) | 2316 | 4561 | 50.8 | /mnt/stockage/packages/f12/insight/bfd/po/zh_CN.po/mnt/stockage/packages/f12/insight/opcodes/po/zh_CN.po | 
- | [rw]({{< ref "/f12/language/rw.md" >}}) | 2 | 4098 | 0.0 | /mnt/stockage/packages/f12/insight/bfd/po/rw.po | 
+ | [da](/f12/language/da) | 4129 | 4129 | 100.0 | /mnt/stockage/packages/f12/insight/bfd/po/da.po/mnt/stockage/packages/f12/insight/opcodes/po/da.po | 
+ | [de](/f12/language/de) | 863 | 863 | 100.0 | /mnt/stockage/packages/f12/insight/opcodes/po/de.po | 
+ | [es](/f12/language/es) | 6848 | 6848 | 100.0 | /mnt/stockage/packages/f12/insight/bfd/po/es.po/mnt/stockage/packages/f12/insight/opcodes/po/es.po | 
+ | [fi](/f12/language/fi) | 6848 | 6848 | 100.0 | /mnt/stockage/packages/f12/insight/bfd/po/fi.po/mnt/stockage/packages/f12/insight/opcodes/po/fi.po | 
+ | [fr](/f12/language/fr) | 4964 | 4964 | 100.0 | /mnt/stockage/packages/f12/insight/bfd/po/fr.po/mnt/stockage/packages/f12/insight/opcodes/po/fr.po | 
+ | [ga](/f12/language/ga) | 1209 | 1209 | 100.0 | /mnt/stockage/packages/f12/insight/opcodes/po/ga.po | 
+ | [id](/f12/language/id) | 434 | 434 | 100.0 | /mnt/stockage/packages/f12/insight/opcodes/po/id.po | 
+ | [nl](/f12/language/nl) | 1209 | 1209 | 100.0 | /mnt/stockage/packages/f12/insight/opcodes/po/nl.po | 
+ | [pt_BR](/f12/language/pt_BR) | 434 | 434 | 100.0 | /mnt/stockage/packages/f12/insight/opcodes/po/pt_BR.po | 
+ | [ro](/f12/language/ro) | 4961 | 4961 | 100.0 | /mnt/stockage/packages/f12/insight/bfd/po/ro.po/mnt/stockage/packages/f12/insight/opcodes/po/ro.po | 
+ | [sv](/f12/language/sv) | 4964 | 4964 | 100.0 | /mnt/stockage/packages/f12/insight/bfd/po/sv.po/mnt/stockage/packages/f12/insight/opcodes/po/sv.po | 
+ | [tr](/f12/language/tr) | 4961 | 4961 | 100.0 | /mnt/stockage/packages/f12/insight/bfd/po/tr.po/mnt/stockage/packages/f12/insight/opcodes/po/tr.po | 
+ | [ja](/f12/language/ja) | 2156 | 3375 | 63.9 | /mnt/stockage/packages/f12/insight/bfd/po/ja.po | 
+ | [vi](/f12/language/vi) | 3342 | 6083 | 54.9 | /mnt/stockage/packages/f12/insight/bfd/po/vi.po/mnt/stockage/packages/f12/insight/opcodes/po/vi.po | 
+ | [zh_Hans](/f12/language/zh_Hans) | 2316 | 4561 | 50.8 | /mnt/stockage/packages/f12/insight/bfd/po/zh_CN.po/mnt/stockage/packages/f12/insight/opcodes/po/zh_CN.po | 
+ | [rw](/f12/language/rw) | 2 | 4098 | 0.0 | /mnt/stockage/packages/f12/insight/bfd/po/rw.po | 
 {.sortable}
 
 

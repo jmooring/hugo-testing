@@ -18,57 +18,57 @@ The package avogadro (version 1.2.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [hr]({{< ref "/f25/language/hr.md" >}}) | 565 | 565 | 100.0 | /mnt/stockage/packages/f25/avogadro/i18n/avogadro/hr.po | 
- | [en_GB]({{< ref "/f25/language/en_GB.md" >}}) | 6579 | 6607 | 99.6 | /mnt/stockage/packages/f25/avogadro/i18n/avogadro/en_GB.po/mnt/stockage/packages/f25/avogadro/i18n/libavogadro/en_GB.po | 
- | [fr]({{< ref "/f25/language/fr.md" >}}) | 6579 | 6607 | 99.6 | /mnt/stockage/packages/f25/avogadro/i18n/avogadro/fr.po/mnt/stockage/packages/f25/avogadro/i18n/libavogadro/fr.po | 
- | [uk]({{< ref "/f25/language/uk.md" >}}) | 6579 | 6607 | 99.6 | /mnt/stockage/packages/f25/avogadro/i18n/avogadro/uk.po/mnt/stockage/packages/f25/avogadro/i18n/libavogadro/uk.po | 
- | [ja]({{< ref "/f25/language/ja.md" >}}) | 6557 | 6607 | 99.2 | /mnt/stockage/packages/f25/avogadro/i18n/avogadro/ja.po/mnt/stockage/packages/f25/avogadro/i18n/libavogadro/ja.po | 
- | [el]({{< ref "/f25/language/el.md" >}}) | 6293 | 6607 | 95.2 | /mnt/stockage/packages/f25/avogadro/i18n/avogadro/el.po/mnt/stockage/packages/f25/avogadro/i18n/libavogadro/el.po | 
- | [cs]({{< ref "/f25/language/cs.md" >}}) | 6234 | 6607 | 94.4 | /mnt/stockage/packages/f25/avogadro/i18n/avogadro/cs.po/mnt/stockage/packages/f25/avogadro/i18n/libavogadro/cs.po | 
- | [sr]({{< ref "/f25/language/sr.md" >}}) | 6224 | 6607 | 94.2 | /mnt/stockage/packages/f25/avogadro/i18n/avogadro/sr.po/mnt/stockage/packages/f25/avogadro/i18n/libavogadro/sr.po | 
- | [ms]({{< ref "/f25/language/ms.md" >}}) | 6200 | 6607 | 93.8 | /mnt/stockage/packages/f25/avogadro/i18n/avogadro/ms.po/mnt/stockage/packages/f25/avogadro/i18n/libavogadro/ms.po | 
- | [de]({{< ref "/f25/language/de.md" >}}) | 5987 | 6607 | 90.6 | /mnt/stockage/packages/f25/avogadro/i18n/avogadro/de.po/mnt/stockage/packages/f25/avogadro/i18n/libavogadro/de.po | 
- | [sl]({{< ref "/f25/language/sl.md" >}}) | 5873 | 6607 | 88.9 | /mnt/stockage/packages/f25/avogadro/i18n/avogadro/sl.po/mnt/stockage/packages/f25/avogadro/i18n/libavogadro/sl.po | 
- | [es]({{< ref "/f25/language/es.md" >}}) | 5285 | 6607 | 80.0 | /mnt/stockage/packages/f25/avogadro/i18n/avogadro/es.po/mnt/stockage/packages/f25/avogadro/i18n/libavogadro/es.po | 
- | [ca]({{< ref "/f25/language/ca.md" >}}) | 5121 | 6607 | 77.5 | /mnt/stockage/packages/f25/avogadro/i18n/avogadro/ca.po/mnt/stockage/packages/f25/avogadro/i18n/libavogadro/ca.po | 
- | [id]({{< ref "/f25/language/id.md" >}}) | 5065 | 6607 | 76.7 | /mnt/stockage/packages/f25/avogadro/i18n/avogadro/id.po/mnt/stockage/packages/f25/avogadro/i18n/libavogadro/id.po | 
- | [gl]({{< ref "/f25/language/gl.md" >}}) | 4997 | 6607 | 75.6 | /mnt/stockage/packages/f25/avogadro/i18n/avogadro/gl.po/mnt/stockage/packages/f25/avogadro/i18n/libavogadro/gl.po | 
- | [it]({{< ref "/f25/language/it.md" >}}) | 4793 | 6607 | 72.5 | /mnt/stockage/packages/f25/avogadro/i18n/avogadro/it.po/mnt/stockage/packages/f25/avogadro/i18n/libavogadro/it.po | 
- | [ru]({{< ref "/f25/language/ru.md" >}}) | 4721 | 6607 | 71.5 | /mnt/stockage/packages/f25/avogadro/i18n/avogadro/ru.po/mnt/stockage/packages/f25/avogadro/i18n/libavogadro/ru.po | 
- | [zh_Hant]({{< ref "/f25/language/zh_Hant.md" >}}) | 4597 | 6607 | 69.6 | /mnt/stockage/packages/f25/avogadro/i18n/avogadro/zh_TW.po/mnt/stockage/packages/f25/avogadro/i18n/libavogadro/zh_TW.po | 
- | [ca@valencia]({{< ref "/f25/language/ca@valencia.md" >}}) | 4556 | 6607 | 69.0 | /mnt/stockage/packages/f25/avogadro/i18n/avogadro/ca@valencia.po/mnt/stockage/packages/f25/avogadro/i18n/libavogadro/ca@valencia.po | 
- | [en_CA]({{< ref "/f25/language/en_CA.md" >}}) | 4316 | 6607 | 65.3 | /mnt/stockage/packages/f25/avogadro/i18n/avogadro/en_CA.po/mnt/stockage/packages/f25/avogadro/i18n/libavogadro/en_CA.po | 
- | [en_AU]({{< ref "/f25/language/en_AU.md" >}}) | 4285 | 6607 | 64.9 | /mnt/stockage/packages/f25/avogadro/i18n/avogadro/en_AU.po/mnt/stockage/packages/f25/avogadro/i18n/libavogadro/en_AU.po | 
- | [te]({{< ref "/f25/language/te.md" >}}) | 366 | 565 | 64.8 | /mnt/stockage/packages/f25/avogadro/i18n/avogadro/te.po | 
- | [eu]({{< ref "/f25/language/eu.md" >}}) | 4151 | 6607 | 62.8 | /mnt/stockage/packages/f25/avogadro/i18n/avogadro/eu.po/mnt/stockage/packages/f25/avogadro/i18n/libavogadro/eu.po | 
- | [zh_Hans]({{< ref "/f25/language/zh_Hans.md" >}}) | 3771 | 6607 | 57.1 | /mnt/stockage/packages/f25/avogadro/i18n/avogadro/zh_CN.po/mnt/stockage/packages/f25/avogadro/i18n/libavogadro/zh_CN.po | 
- | [pt_BR]({{< ref "/f25/language/pt_BR.md" >}}) | 3752 | 6607 | 56.8 | /mnt/stockage/packages/f25/avogadro/i18n/avogadro/pt_BR.po/mnt/stockage/packages/f25/avogadro/i18n/libavogadro/pt_BR.po | 
- | [pt]({{< ref "/f25/language/pt.md" >}}) | 3648 | 6607 | 55.2 | /mnt/stockage/packages/f25/avogadro/i18n/avogadro/pt.po/mnt/stockage/packages/f25/avogadro/i18n/libavogadro/pt.po | 
- | [nl]({{< ref "/f25/language/nl.md" >}}) | 3637 | 6607 | 55.0 | /mnt/stockage/packages/f25/avogadro/i18n/avogadro/nl.po/mnt/stockage/packages/f25/avogadro/i18n/libavogadro/nl.po | 
- | [bs]({{< ref "/f25/language/bs.md" >}}) | 3191 | 6042 | 52.8 | /mnt/stockage/packages/f25/avogadro/i18n/libavogadro/bs.po | 
- | [vi]({{< ref "/f25/language/vi.md" >}}) | 3431 | 6607 | 51.9 | /mnt/stockage/packages/f25/avogadro/i18n/avogadro/vi.po/mnt/stockage/packages/f25/avogadro/i18n/libavogadro/vi.po | 
- | [hu]({{< ref "/f25/language/hu.md" >}}) | 3273 | 6607 | 49.5 | /mnt/stockage/packages/f25/avogadro/i18n/avogadro/hu.po/mnt/stockage/packages/f25/avogadro/i18n/libavogadro/hu.po | 
- | [ko]({{< ref "/f25/language/ko.md" >}}) | 2712 | 6607 | 41.0 | /mnt/stockage/packages/f25/avogadro/i18n/avogadro/ko.po/mnt/stockage/packages/f25/avogadro/i18n/libavogadro/ko.po | 
- | [da]({{< ref "/f25/language/da.md" >}}) | 2698 | 6607 | 40.8 | /mnt/stockage/packages/f25/avogadro/i18n/avogadro/da.po/mnt/stockage/packages/f25/avogadro/i18n/libavogadro/da.po | 
- | [tr]({{< ref "/f25/language/tr.md" >}}) | 2270 | 6607 | 34.4 | /mnt/stockage/packages/f25/avogadro/i18n/avogadro/tr.po/mnt/stockage/packages/f25/avogadro/i18n/libavogadro/tr.po | 
- | [sk]({{< ref "/f25/language/sk.md" >}}) | 2047 | 6607 | 31.0 | /mnt/stockage/packages/f25/avogadro/i18n/avogadro/sk.po/mnt/stockage/packages/f25/avogadro/i18n/libavogadro/sk.po | 
- | [oc]({{< ref "/f25/language/oc.md" >}}) | 1828 | 6607 | 27.7 | /mnt/stockage/packages/f25/avogadro/i18n/avogadro/oc.po/mnt/stockage/packages/f25/avogadro/i18n/libavogadro/oc.po | 
- | [nb_NO]({{< ref "/f25/language/nb_NO.md" >}}) | 1227 | 6607 | 18.6 | /mnt/stockage/packages/f25/avogadro/i18n/avogadro/nb.po/mnt/stockage/packages/f25/avogadro/i18n/libavogadro/nb.po | 
- | [pl]({{< ref "/f25/language/pl.md" >}}) | 1158 | 6607 | 17.5 | /mnt/stockage/packages/f25/avogadro/i18n/avogadro/pl.po/mnt/stockage/packages/f25/avogadro/i18n/libavogadro/pl.po | 
- | [bg]({{< ref "/f25/language/bg.md" >}}) | 1100 | 6607 | 16.6 | /mnt/stockage/packages/f25/avogadro/i18n/avogadro/bg.po/mnt/stockage/packages/f25/avogadro/i18n/libavogadro/bg.po | 
- | [sv]({{< ref "/f25/language/sv.md" >}}) | 974 | 6607 | 14.7 | /mnt/stockage/packages/f25/avogadro/i18n/avogadro/sv.po/mnt/stockage/packages/f25/avogadro/i18n/libavogadro/sv.po | 
- | [ar]({{< ref "/f25/language/ar.md" >}}) | 969 | 6607 | 14.7 | /mnt/stockage/packages/f25/avogadro/i18n/avogadro/ar.po/mnt/stockage/packages/f25/avogadro/i18n/libavogadro/ar.po | 
- | [fi]({{< ref "/f25/language/fi.md" >}}) | 911 | 6607 | 13.8 | /mnt/stockage/packages/f25/avogadro/i18n/avogadro/fi.po/mnt/stockage/packages/f25/avogadro/i18n/libavogadro/fi.po | 
- | [he]({{< ref "/f25/language/he.md" >}}) | 806 | 6607 | 12.2 | /mnt/stockage/packages/f25/avogadro/i18n/avogadro/he.po/mnt/stockage/packages/f25/avogadro/i18n/libavogadro/he.po | 
- | [et]({{< ref "/f25/language/et.md" >}}) | 547 | 6607 | 8.3 | /mnt/stockage/packages/f25/avogadro/i18n/avogadro/et.po/mnt/stockage/packages/f25/avogadro/i18n/libavogadro/et.po | 
- | [sq]({{< ref "/f25/language/sq.md" >}}) | 389 | 6607 | 5.9 | /mnt/stockage/packages/f25/avogadro/i18n/avogadro/sq.po/mnt/stockage/packages/f25/avogadro/i18n/libavogadro/sq.po | 
- | [ug]({{< ref "/f25/language/ug.md" >}}) | 379 | 6607 | 5.7 | /mnt/stockage/packages/f25/avogadro/i18n/avogadro/ug.po/mnt/stockage/packages/f25/avogadro/i18n/libavogadro/ug.po | 
- | [af]({{< ref "/f25/language/af.md" >}}) | 27 | 565 | 4.8 | /mnt/stockage/packages/f25/avogadro/i18n/avogadro/af.po | 
- | [hi]({{< ref "/f25/language/hi.md" >}}) | 236 | 6607 | 3.6 | /mnt/stockage/packages/f25/avogadro/i18n/avogadro/hi.po/mnt/stockage/packages/f25/avogadro/i18n/libavogadro/hi.po | 
- | [th]({{< ref "/f25/language/th.md" >}}) | 186 | 6607 | 2.8 | /mnt/stockage/packages/f25/avogadro/i18n/avogadro/th.po/mnt/stockage/packages/f25/avogadro/i18n/libavogadro/th.po | 
- | [kn]({{< ref "/f25/language/kn.md" >}}) | 125 | 6607 | 1.9 | /mnt/stockage/packages/f25/avogadro/i18n/avogadro/kn.po/mnt/stockage/packages/f25/avogadro/i18n/libavogadro/kn.po | 
- | [ta]({{< ref "/f25/language/ta.md" >}}) | 9 | 565 | 1.6 | /mnt/stockage/packages/f25/avogadro/i18n/avogadro/ta.po | 
- | [fr_CA]({{< ref "/f25/language/fr_CA.md" >}}) | 4 | 565 | 0.7 | /mnt/stockage/packages/f25/avogadro/i18n/avogadro/fr_CA.po | 
+ | [hr](/f25/language/hr) | 565 | 565 | 100.0 | /mnt/stockage/packages/f25/avogadro/i18n/avogadro/hr.po | 
+ | [en_GB](/f25/language/en_GB) | 6579 | 6607 | 99.6 | /mnt/stockage/packages/f25/avogadro/i18n/avogadro/en_GB.po/mnt/stockage/packages/f25/avogadro/i18n/libavogadro/en_GB.po | 
+ | [fr](/f25/language/fr) | 6579 | 6607 | 99.6 | /mnt/stockage/packages/f25/avogadro/i18n/avogadro/fr.po/mnt/stockage/packages/f25/avogadro/i18n/libavogadro/fr.po | 
+ | [uk](/f25/language/uk) | 6579 | 6607 | 99.6 | /mnt/stockage/packages/f25/avogadro/i18n/avogadro/uk.po/mnt/stockage/packages/f25/avogadro/i18n/libavogadro/uk.po | 
+ | [ja](/f25/language/ja) | 6557 | 6607 | 99.2 | /mnt/stockage/packages/f25/avogadro/i18n/avogadro/ja.po/mnt/stockage/packages/f25/avogadro/i18n/libavogadro/ja.po | 
+ | [el](/f25/language/el) | 6293 | 6607 | 95.2 | /mnt/stockage/packages/f25/avogadro/i18n/avogadro/el.po/mnt/stockage/packages/f25/avogadro/i18n/libavogadro/el.po | 
+ | [cs](/f25/language/cs) | 6234 | 6607 | 94.4 | /mnt/stockage/packages/f25/avogadro/i18n/avogadro/cs.po/mnt/stockage/packages/f25/avogadro/i18n/libavogadro/cs.po | 
+ | [sr](/f25/language/sr) | 6224 | 6607 | 94.2 | /mnt/stockage/packages/f25/avogadro/i18n/avogadro/sr.po/mnt/stockage/packages/f25/avogadro/i18n/libavogadro/sr.po | 
+ | [ms](/f25/language/ms) | 6200 | 6607 | 93.8 | /mnt/stockage/packages/f25/avogadro/i18n/avogadro/ms.po/mnt/stockage/packages/f25/avogadro/i18n/libavogadro/ms.po | 
+ | [de](/f25/language/de) | 5987 | 6607 | 90.6 | /mnt/stockage/packages/f25/avogadro/i18n/avogadro/de.po/mnt/stockage/packages/f25/avogadro/i18n/libavogadro/de.po | 
+ | [sl](/f25/language/sl) | 5873 | 6607 | 88.9 | /mnt/stockage/packages/f25/avogadro/i18n/avogadro/sl.po/mnt/stockage/packages/f25/avogadro/i18n/libavogadro/sl.po | 
+ | [es](/f25/language/es) | 5285 | 6607 | 80.0 | /mnt/stockage/packages/f25/avogadro/i18n/avogadro/es.po/mnt/stockage/packages/f25/avogadro/i18n/libavogadro/es.po | 
+ | [ca](/f25/language/ca) | 5121 | 6607 | 77.5 | /mnt/stockage/packages/f25/avogadro/i18n/avogadro/ca.po/mnt/stockage/packages/f25/avogadro/i18n/libavogadro/ca.po | 
+ | [id](/f25/language/id) | 5065 | 6607 | 76.7 | /mnt/stockage/packages/f25/avogadro/i18n/avogadro/id.po/mnt/stockage/packages/f25/avogadro/i18n/libavogadro/id.po | 
+ | [gl](/f25/language/gl) | 4997 | 6607 | 75.6 | /mnt/stockage/packages/f25/avogadro/i18n/avogadro/gl.po/mnt/stockage/packages/f25/avogadro/i18n/libavogadro/gl.po | 
+ | [it](/f25/language/it) | 4793 | 6607 | 72.5 | /mnt/stockage/packages/f25/avogadro/i18n/avogadro/it.po/mnt/stockage/packages/f25/avogadro/i18n/libavogadro/it.po | 
+ | [ru](/f25/language/ru) | 4721 | 6607 | 71.5 | /mnt/stockage/packages/f25/avogadro/i18n/avogadro/ru.po/mnt/stockage/packages/f25/avogadro/i18n/libavogadro/ru.po | 
+ | [zh_Hant](/f25/language/zh_Hant) | 4597 | 6607 | 69.6 | /mnt/stockage/packages/f25/avogadro/i18n/avogadro/zh_TW.po/mnt/stockage/packages/f25/avogadro/i18n/libavogadro/zh_TW.po | 
+ | [ca@valencia](/f25/language/ca@valencia) | 4556 | 6607 | 69.0 | /mnt/stockage/packages/f25/avogadro/i18n/avogadro/ca@valencia.po/mnt/stockage/packages/f25/avogadro/i18n/libavogadro/ca@valencia.po | 
+ | [en_CA](/f25/language/en_CA) | 4316 | 6607 | 65.3 | /mnt/stockage/packages/f25/avogadro/i18n/avogadro/en_CA.po/mnt/stockage/packages/f25/avogadro/i18n/libavogadro/en_CA.po | 
+ | [en_AU](/f25/language/en_AU) | 4285 | 6607 | 64.9 | /mnt/stockage/packages/f25/avogadro/i18n/avogadro/en_AU.po/mnt/stockage/packages/f25/avogadro/i18n/libavogadro/en_AU.po | 
+ | [te](/f25/language/te) | 366 | 565 | 64.8 | /mnt/stockage/packages/f25/avogadro/i18n/avogadro/te.po | 
+ | [eu](/f25/language/eu) | 4151 | 6607 | 62.8 | /mnt/stockage/packages/f25/avogadro/i18n/avogadro/eu.po/mnt/stockage/packages/f25/avogadro/i18n/libavogadro/eu.po | 
+ | [zh_Hans](/f25/language/zh_Hans) | 3771 | 6607 | 57.1 | /mnt/stockage/packages/f25/avogadro/i18n/avogadro/zh_CN.po/mnt/stockage/packages/f25/avogadro/i18n/libavogadro/zh_CN.po | 
+ | [pt_BR](/f25/language/pt_BR) | 3752 | 6607 | 56.8 | /mnt/stockage/packages/f25/avogadro/i18n/avogadro/pt_BR.po/mnt/stockage/packages/f25/avogadro/i18n/libavogadro/pt_BR.po | 
+ | [pt](/f25/language/pt) | 3648 | 6607 | 55.2 | /mnt/stockage/packages/f25/avogadro/i18n/avogadro/pt.po/mnt/stockage/packages/f25/avogadro/i18n/libavogadro/pt.po | 
+ | [nl](/f25/language/nl) | 3637 | 6607 | 55.0 | /mnt/stockage/packages/f25/avogadro/i18n/avogadro/nl.po/mnt/stockage/packages/f25/avogadro/i18n/libavogadro/nl.po | 
+ | [bs](/f25/language/bs) | 3191 | 6042 | 52.8 | /mnt/stockage/packages/f25/avogadro/i18n/libavogadro/bs.po | 
+ | [vi](/f25/language/vi) | 3431 | 6607 | 51.9 | /mnt/stockage/packages/f25/avogadro/i18n/avogadro/vi.po/mnt/stockage/packages/f25/avogadro/i18n/libavogadro/vi.po | 
+ | [hu](/f25/language/hu) | 3273 | 6607 | 49.5 | /mnt/stockage/packages/f25/avogadro/i18n/avogadro/hu.po/mnt/stockage/packages/f25/avogadro/i18n/libavogadro/hu.po | 
+ | [ko](/f25/language/ko) | 2712 | 6607 | 41.0 | /mnt/stockage/packages/f25/avogadro/i18n/avogadro/ko.po/mnt/stockage/packages/f25/avogadro/i18n/libavogadro/ko.po | 
+ | [da](/f25/language/da) | 2698 | 6607 | 40.8 | /mnt/stockage/packages/f25/avogadro/i18n/avogadro/da.po/mnt/stockage/packages/f25/avogadro/i18n/libavogadro/da.po | 
+ | [tr](/f25/language/tr) | 2270 | 6607 | 34.4 | /mnt/stockage/packages/f25/avogadro/i18n/avogadro/tr.po/mnt/stockage/packages/f25/avogadro/i18n/libavogadro/tr.po | 
+ | [sk](/f25/language/sk) | 2047 | 6607 | 31.0 | /mnt/stockage/packages/f25/avogadro/i18n/avogadro/sk.po/mnt/stockage/packages/f25/avogadro/i18n/libavogadro/sk.po | 
+ | [oc](/f25/language/oc) | 1828 | 6607 | 27.7 | /mnt/stockage/packages/f25/avogadro/i18n/avogadro/oc.po/mnt/stockage/packages/f25/avogadro/i18n/libavogadro/oc.po | 
+ | [nb_NO](/f25/language/nb_NO) | 1227 | 6607 | 18.6 | /mnt/stockage/packages/f25/avogadro/i18n/avogadro/nb.po/mnt/stockage/packages/f25/avogadro/i18n/libavogadro/nb.po | 
+ | [pl](/f25/language/pl) | 1158 | 6607 | 17.5 | /mnt/stockage/packages/f25/avogadro/i18n/avogadro/pl.po/mnt/stockage/packages/f25/avogadro/i18n/libavogadro/pl.po | 
+ | [bg](/f25/language/bg) | 1100 | 6607 | 16.6 | /mnt/stockage/packages/f25/avogadro/i18n/avogadro/bg.po/mnt/stockage/packages/f25/avogadro/i18n/libavogadro/bg.po | 
+ | [sv](/f25/language/sv) | 974 | 6607 | 14.7 | /mnt/stockage/packages/f25/avogadro/i18n/avogadro/sv.po/mnt/stockage/packages/f25/avogadro/i18n/libavogadro/sv.po | 
+ | [ar](/f25/language/ar) | 969 | 6607 | 14.7 | /mnt/stockage/packages/f25/avogadro/i18n/avogadro/ar.po/mnt/stockage/packages/f25/avogadro/i18n/libavogadro/ar.po | 
+ | [fi](/f25/language/fi) | 911 | 6607 | 13.8 | /mnt/stockage/packages/f25/avogadro/i18n/avogadro/fi.po/mnt/stockage/packages/f25/avogadro/i18n/libavogadro/fi.po | 
+ | [he](/f25/language/he) | 806 | 6607 | 12.2 | /mnt/stockage/packages/f25/avogadro/i18n/avogadro/he.po/mnt/stockage/packages/f25/avogadro/i18n/libavogadro/he.po | 
+ | [et](/f25/language/et) | 547 | 6607 | 8.3 | /mnt/stockage/packages/f25/avogadro/i18n/avogadro/et.po/mnt/stockage/packages/f25/avogadro/i18n/libavogadro/et.po | 
+ | [sq](/f25/language/sq) | 389 | 6607 | 5.9 | /mnt/stockage/packages/f25/avogadro/i18n/avogadro/sq.po/mnt/stockage/packages/f25/avogadro/i18n/libavogadro/sq.po | 
+ | [ug](/f25/language/ug) | 379 | 6607 | 5.7 | /mnt/stockage/packages/f25/avogadro/i18n/avogadro/ug.po/mnt/stockage/packages/f25/avogadro/i18n/libavogadro/ug.po | 
+ | [af](/f25/language/af) | 27 | 565 | 4.8 | /mnt/stockage/packages/f25/avogadro/i18n/avogadro/af.po | 
+ | [hi](/f25/language/hi) | 236 | 6607 | 3.6 | /mnt/stockage/packages/f25/avogadro/i18n/avogadro/hi.po/mnt/stockage/packages/f25/avogadro/i18n/libavogadro/hi.po | 
+ | [th](/f25/language/th) | 186 | 6607 | 2.8 | /mnt/stockage/packages/f25/avogadro/i18n/avogadro/th.po/mnt/stockage/packages/f25/avogadro/i18n/libavogadro/th.po | 
+ | [kn](/f25/language/kn) | 125 | 6607 | 1.9 | /mnt/stockage/packages/f25/avogadro/i18n/avogadro/kn.po/mnt/stockage/packages/f25/avogadro/i18n/libavogadro/kn.po | 
+ | [ta](/f25/language/ta) | 9 | 565 | 1.6 | /mnt/stockage/packages/f25/avogadro/i18n/avogadro/ta.po | 
+ | [fr_CA](/f25/language/fr_CA) | 4 | 565 | 0.7 | /mnt/stockage/packages/f25/avogadro/i18n/avogadro/fr_CA.po | 
 {.sortable}
 
 

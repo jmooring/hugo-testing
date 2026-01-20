@@ -18,17 +18,17 @@ The package python-fedora (version 0.3.20):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [es]({{< ref "/f11/language/es.md" >}}) | 968 | 968 | 100.0 | /mnt/stockage/packages/f11/python-fedora/po/es.po | 
- | [pl]({{< ref "/f11/language/pl.md" >}}) | 968 | 968 | 100.0 | /mnt/stockage/packages/f11/python-fedora/po/pl.po | 
- | [ca]({{< ref "/f11/language/ca.md" >}}) | 635 | 968 | 65.6 | /mnt/stockage/packages/f11/python-fedora/po/ca.po | 
- | [hu]({{< ref "/f11/language/hu.md" >}}) | 635 | 968 | 65.6 | /mnt/stockage/packages/f11/python-fedora/po/hu.po | 
- | [it]({{< ref "/f11/language/it.md" >}}) | 635 | 968 | 65.6 | /mnt/stockage/packages/f11/python-fedora/po/it.po | 
- | [pt_BR]({{< ref "/f11/language/pt_BR.md" >}}) | 635 | 968 | 65.6 | /mnt/stockage/packages/f11/python-fedora/po/pt_BR.po | 
- | [th]({{< ref "/f11/language/th.md" >}}) | 617 | 968 | 63.7 | /mnt/stockage/packages/f11/python-fedora/po/th.po | 
- | [de]({{< ref "/f11/language/de.md" >}}) | 284 | 968 | 29.3 | /mnt/stockage/packages/f11/python-fedora/po/de.po | 
- | [ja]({{< ref "/f11/language/ja.md" >}}) | 0 | 968 | 0.0 | /mnt/stockage/packages/f11/python-fedora/po/ja.po | 
- | [nl]({{< ref "/f11/language/nl.md" >}}) | 0 | 968 | 0.0 | /mnt/stockage/packages/f11/python-fedora/po/nl.po | 
- | [ru]({{< ref "/f11/language/ru.md" >}}) | 0 | 968 | 0.0 | /mnt/stockage/packages/f11/python-fedora/po/ru.po | 
+ | [es](/f11/language/es) | 968 | 968 | 100.0 | /mnt/stockage/packages/f11/python-fedora/po/es.po | 
+ | [pl](/f11/language/pl) | 968 | 968 | 100.0 | /mnt/stockage/packages/f11/python-fedora/po/pl.po | 
+ | [ca](/f11/language/ca) | 635 | 968 | 65.6 | /mnt/stockage/packages/f11/python-fedora/po/ca.po | 
+ | [hu](/f11/language/hu) | 635 | 968 | 65.6 | /mnt/stockage/packages/f11/python-fedora/po/hu.po | 
+ | [it](/f11/language/it) | 635 | 968 | 65.6 | /mnt/stockage/packages/f11/python-fedora/po/it.po | 
+ | [pt_BR](/f11/language/pt_BR) | 635 | 968 | 65.6 | /mnt/stockage/packages/f11/python-fedora/po/pt_BR.po | 
+ | [th](/f11/language/th) | 617 | 968 | 63.7 | /mnt/stockage/packages/f11/python-fedora/po/th.po | 
+ | [de](/f11/language/de) | 284 | 968 | 29.3 | /mnt/stockage/packages/f11/python-fedora/po/de.po | 
+ | [ja](/f11/language/ja) | 0 | 968 | 0.0 | /mnt/stockage/packages/f11/python-fedora/po/ja.po | 
+ | [nl](/f11/language/nl) | 0 | 968 | 0.0 | /mnt/stockage/packages/f11/python-fedora/po/nl.po | 
+ | [ru](/f11/language/ru) | 0 | 968 | 0.0 | /mnt/stockage/packages/f11/python-fedora/po/ru.po | 
 {.sortable}
 
 

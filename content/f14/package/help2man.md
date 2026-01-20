@@ -18,19 +18,19 @@ The package help2man (version 1.40.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f14/language/fr.md" >}}) | 523 | 523 | 100.0 | /mnt/stockage/packages/f14/help2man/po/fr.po | 
- | [it]({{< ref "/f14/language/it.md" >}}) | 523 | 523 | 100.0 | /mnt/stockage/packages/f14/help2man/po/it.po | 
- | [ja]({{< ref "/f14/language/ja.md" >}}) | 523 | 523 | 100.0 | /mnt/stockage/packages/f14/help2man/po/ja.po | 
- | [pl]({{< ref "/f14/language/pl.md" >}}) | 523 | 523 | 100.0 | /mnt/stockage/packages/f14/help2man/po/pl.po | 
- | [ru]({{< ref "/f14/language/ru.md" >}}) | 523 | 523 | 100.0 | /mnt/stockage/packages/f14/help2man/po/ru.po | 
- | [uk]({{< ref "/f14/language/uk.md" >}}) | 523 | 523 | 100.0 | /mnt/stockage/packages/f14/help2man/po/uk.po | 
- | [de]({{< ref "/f14/language/de.md" >}}) | 521 | 523 | 99.6 | /mnt/stockage/packages/f14/help2man/po/de.po | 
- | [eo]({{< ref "/f14/language/eo.md" >}}) | 521 | 523 | 99.6 | /mnt/stockage/packages/f14/help2man/po/eo.po | 
- | [fi]({{< ref "/f14/language/fi.md" >}}) | 521 | 523 | 99.6 | /mnt/stockage/packages/f14/help2man/po/fi.po | 
- | [vi]({{< ref "/f14/language/vi.md" >}}) | 320 | 523 | 61.2 | /mnt/stockage/packages/f14/help2man/po/vi.po | 
- | [sv]({{< ref "/f14/language/sv.md" >}}) | 297 | 523 | 56.8 | /mnt/stockage/packages/f14/help2man/po/sv.po | 
- | [el]({{< ref "/f14/language/el.md" >}}) | 291 | 523 | 55.6 | /mnt/stockage/packages/f14/help2man/po/el.po | 
- | [pt_BR]({{< ref "/f14/language/pt_BR.md" >}}) | 262 | 523 | 50.1 | /mnt/stockage/packages/f14/help2man/po/pt_BR.po | 
+ | [fr](/f14/language/fr) | 523 | 523 | 100.0 | /mnt/stockage/packages/f14/help2man/po/fr.po | 
+ | [it](/f14/language/it) | 523 | 523 | 100.0 | /mnt/stockage/packages/f14/help2man/po/it.po | 
+ | [ja](/f14/language/ja) | 523 | 523 | 100.0 | /mnt/stockage/packages/f14/help2man/po/ja.po | 
+ | [pl](/f14/language/pl) | 523 | 523 | 100.0 | /mnt/stockage/packages/f14/help2man/po/pl.po | 
+ | [ru](/f14/language/ru) | 523 | 523 | 100.0 | /mnt/stockage/packages/f14/help2man/po/ru.po | 
+ | [uk](/f14/language/uk) | 523 | 523 | 100.0 | /mnt/stockage/packages/f14/help2man/po/uk.po | 
+ | [de](/f14/language/de) | 521 | 523 | 99.6 | /mnt/stockage/packages/f14/help2man/po/de.po | 
+ | [eo](/f14/language/eo) | 521 | 523 | 99.6 | /mnt/stockage/packages/f14/help2man/po/eo.po | 
+ | [fi](/f14/language/fi) | 521 | 523 | 99.6 | /mnt/stockage/packages/f14/help2man/po/fi.po | 
+ | [vi](/f14/language/vi) | 320 | 523 | 61.2 | /mnt/stockage/packages/f14/help2man/po/vi.po | 
+ | [sv](/f14/language/sv) | 297 | 523 | 56.8 | /mnt/stockage/packages/f14/help2man/po/sv.po | 
+ | [el](/f14/language/el) | 291 | 523 | 55.6 | /mnt/stockage/packages/f14/help2man/po/el.po | 
+ | [pt_BR](/f14/language/pt_BR) | 262 | 523 | 50.1 | /mnt/stockage/packages/f14/help2man/po/pt_BR.po | 
 {.sortable}
 
 

@@ -18,63 +18,63 @@ The package xfce4-hardware-monitor-plugin (version 1.6.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f31/language/ar.md" >}}) | 356 | 356 | 100.0 | /mnt/stockage/packages/f31/xfce4-hardware-monitor-plugin/po/ar.po | 
- | [as]({{< ref "/f31/language/as.md" >}}) | 356 | 356 | 100.0 | /mnt/stockage/packages/f31/xfce4-hardware-monitor-plugin/po/as.po | 
- | [az]({{< ref "/f31/language/az.md" >}}) | 393 | 393 | 100.0 | /mnt/stockage/packages/f31/xfce4-hardware-monitor-plugin/po/az.po | 
- | [bg]({{< ref "/f31/language/bg.md" >}}) | 356 | 356 | 100.0 | /mnt/stockage/packages/f31/xfce4-hardware-monitor-plugin/po/bg.po | 
- | [bn_IN]({{< ref "/f31/language/bn_IN.md" >}}) | 356 | 356 | 100.0 | /mnt/stockage/packages/f31/xfce4-hardware-monitor-plugin/po/bn_IN.po | 
- | [bs]({{< ref "/f31/language/bs.md" >}}) | 363 | 363 | 100.0 | /mnt/stockage/packages/f31/xfce4-hardware-monitor-plugin/po/bs.po | 
- | [ca]({{< ref "/f31/language/ca.md" >}}) | 356 | 356 | 100.0 | /mnt/stockage/packages/f31/xfce4-hardware-monitor-plugin/po/ca.po | 
- | [cs]({{< ref "/f31/language/cs.md" >}}) | 356 | 356 | 100.0 | /mnt/stockage/packages/f31/xfce4-hardware-monitor-plugin/po/cs.po | 
- | [cy]({{< ref "/f31/language/cy.md" >}}) | 393 | 393 | 100.0 | /mnt/stockage/packages/f31/xfce4-hardware-monitor-plugin/po/cy.po | 
- | [da]({{< ref "/f31/language/da.md" >}}) | 356 | 356 | 100.0 | /mnt/stockage/packages/f31/xfce4-hardware-monitor-plugin/po/da.po | 
- | [de]({{< ref "/f31/language/de.md" >}}) | 356 | 356 | 100.0 | /mnt/stockage/packages/f31/xfce4-hardware-monitor-plugin/po/de.po | 
- | [dz]({{< ref "/f31/language/dz.md" >}}) | 356 | 356 | 100.0 | /mnt/stockage/packages/f31/xfce4-hardware-monitor-plugin/po/dz.po | 
- | [en_CA]({{< ref "/f31/language/en_CA.md" >}}) | 363 | 363 | 100.0 | /mnt/stockage/packages/f31/xfce4-hardware-monitor-plugin/po/en_CA.po | 
- | [en_GB]({{< ref "/f31/language/en_GB.md" >}}) | 356 | 356 | 100.0 | /mnt/stockage/packages/f31/xfce4-hardware-monitor-plugin/po/en_GB.po | 
- | [error]({{< ref "/f31/language/error.md" >}}) | 363 | 363 | 100.0 | /mnt/stockage/packages/f31/xfce4-hardware-monitor-plugin/po/sr@Latn.po | 
- | [es]({{< ref "/f31/language/es.md" >}}) | 356 | 356 | 100.0 | /mnt/stockage/packages/f31/xfce4-hardware-monitor-plugin/po/es.po | 
- | [eu]({{< ref "/f31/language/eu.md" >}}) | 356 | 356 | 100.0 | /mnt/stockage/packages/f31/xfce4-hardware-monitor-plugin/po/eu.po | 
- | [fi]({{< ref "/f31/language/fi.md" >}}) | 356 | 356 | 100.0 | /mnt/stockage/packages/f31/xfce4-hardware-monitor-plugin/po/fi.po | 
- | [fr]({{< ref "/f31/language/fr.md" >}}) | 356 | 356 | 100.0 | /mnt/stockage/packages/f31/xfce4-hardware-monitor-plugin/po/fr.po | 
- | [gl]({{< ref "/f31/language/gl.md" >}}) | 356 | 356 | 100.0 | /mnt/stockage/packages/f31/xfce4-hardware-monitor-plugin/po/gl.po | 
- | [gu]({{< ref "/f31/language/gu.md" >}}) | 356 | 356 | 100.0 | /mnt/stockage/packages/f31/xfce4-hardware-monitor-plugin/po/gu.po | 
- | [he]({{< ref "/f31/language/he.md" >}}) | 356 | 356 | 100.0 | /mnt/stockage/packages/f31/xfce4-hardware-monitor-plugin/po/he.po | 
- | [hi]({{< ref "/f31/language/hi.md" >}}) | 356 | 356 | 100.0 | /mnt/stockage/packages/f31/xfce4-hardware-monitor-plugin/po/hi.po | 
- | [hr]({{< ref "/f31/language/hr.md" >}}) | 401 | 401 | 100.0 | /mnt/stockage/packages/f31/xfce4-hardware-monitor-plugin/po/hr.po | 
- | [hu]({{< ref "/f31/language/hu.md" >}}) | 356 | 356 | 100.0 | /mnt/stockage/packages/f31/xfce4-hardware-monitor-plugin/po/hu.po | 
- | [ja]({{< ref "/f31/language/ja.md" >}}) | 356 | 356 | 100.0 | /mnt/stockage/packages/f31/xfce4-hardware-monitor-plugin/po/ja.po | 
- | [kn]({{< ref "/f31/language/kn.md" >}}) | 356 | 356 | 100.0 | /mnt/stockage/packages/f31/xfce4-hardware-monitor-plugin/po/kn.po | 
- | [ko]({{< ref "/f31/language/ko.md" >}}) | 356 | 356 | 100.0 | /mnt/stockage/packages/f31/xfce4-hardware-monitor-plugin/po/ko.po | 
- | [lv]({{< ref "/f31/language/lv.md" >}}) | 356 | 356 | 100.0 | /mnt/stockage/packages/f31/xfce4-hardware-monitor-plugin/po/lv.po | 
- | [mr]({{< ref "/f31/language/mr.md" >}}) | 356 | 356 | 100.0 | /mnt/stockage/packages/f31/xfce4-hardware-monitor-plugin/po/mr.po | 
- | [ms]({{< ref "/f31/language/ms.md" >}}) | 393 | 393 | 100.0 | /mnt/stockage/packages/f31/xfce4-hardware-monitor-plugin/po/ms.po | 
- | [nb_NO]({{< ref "/f31/language/nb_NO.md" >}}) | 356 | 356 | 100.0 | /mnt/stockage/packages/f31/xfce4-hardware-monitor-plugin/po/nb.po | 
- | [ne]({{< ref "/f31/language/ne.md" >}}) | 356 | 356 | 100.0 | /mnt/stockage/packages/f31/xfce4-hardware-monitor-plugin/po/ne.po | 
- | [nl]({{< ref "/f31/language/nl.md" >}}) | 356 | 356 | 100.0 | /mnt/stockage/packages/f31/xfce4-hardware-monitor-plugin/po/nl.po | 
- | [pa]({{< ref "/f31/language/pa.md" >}}) | 356 | 356 | 100.0 | /mnt/stockage/packages/f31/xfce4-hardware-monitor-plugin/po/pa.po | 
- | [pl]({{< ref "/f31/language/pl.md" >}}) | 356 | 356 | 100.0 | /mnt/stockage/packages/f31/xfce4-hardware-monitor-plugin/po/pl.po | 
- | [pt]({{< ref "/f31/language/pt.md" >}}) | 356 | 356 | 100.0 | /mnt/stockage/packages/f31/xfce4-hardware-monitor-plugin/po/pt.po | 
- | [pt_BR]({{< ref "/f31/language/pt_BR.md" >}}) | 356 | 356 | 100.0 | /mnt/stockage/packages/f31/xfce4-hardware-monitor-plugin/po/pt_BR.po | 
- | [ru]({{< ref "/f31/language/ru.md" >}}) | 363 | 363 | 100.0 | /mnt/stockage/packages/f31/xfce4-hardware-monitor-plugin/po/ru.po | 
- | [sl]({{< ref "/f31/language/sl.md" >}}) | 356 | 356 | 100.0 | /mnt/stockage/packages/f31/xfce4-hardware-monitor-plugin/po/sl.po | 
- | [sr]({{< ref "/f31/language/sr.md" >}}) | 363 | 363 | 100.0 | /mnt/stockage/packages/f31/xfce4-hardware-monitor-plugin/po/sr.po | 
- | [sv]({{< ref "/f31/language/sv.md" >}}) | 356 | 356 | 100.0 | /mnt/stockage/packages/f31/xfce4-hardware-monitor-plugin/po/sv.po | 
- | [ta]({{< ref "/f31/language/ta.md" >}}) | 356 | 356 | 100.0 | /mnt/stockage/packages/f31/xfce4-hardware-monitor-plugin/po/ta.po | 
- | [te]({{< ref "/f31/language/te.md" >}}) | 356 | 356 | 100.0 | /mnt/stockage/packages/f31/xfce4-hardware-monitor-plugin/po/te.po | 
- | [th]({{< ref "/f31/language/th.md" >}}) | 356 | 356 | 100.0 | /mnt/stockage/packages/f31/xfce4-hardware-monitor-plugin/po/th.po | 
- | [tr]({{< ref "/f31/language/tr.md" >}}) | 363 | 363 | 100.0 | /mnt/stockage/packages/f31/xfce4-hardware-monitor-plugin/po/tr.po | 
- | [uk]({{< ref "/f31/language/uk.md" >}}) | 356 | 356 | 100.0 | /mnt/stockage/packages/f31/xfce4-hardware-monitor-plugin/po/uk.po | 
- | [vi]({{< ref "/f31/language/vi.md" >}}) | 356 | 356 | 100.0 | /mnt/stockage/packages/f31/xfce4-hardware-monitor-plugin/po/vi.po | 
- | [zh_Hans]({{< ref "/f31/language/zh_Hans.md" >}}) | 363 | 363 | 100.0 | /mnt/stockage/packages/f31/xfce4-hardware-monitor-plugin/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f31/language/zh_Hant.md" >}}) | 352 | 352 | 100.0 | /mnt/stockage/packages/f31/xfce4-hardware-monitor-plugin/po/zh_TW.po | 
- | [zh_Hant_HK]({{< ref "/f31/language/zh_Hant_HK.md" >}}) | 352 | 352 | 100.0 | /mnt/stockage/packages/f31/xfce4-hardware-monitor-plugin/po/zh_HK.po | 
- | [it]({{< ref "/f31/language/it.md" >}}) | 399 | 401 | 99.5 | /mnt/stockage/packages/f31/xfce4-hardware-monitor-plugin/po/it.po | 
- | [el]({{< ref "/f31/language/el.md" >}}) | 295 | 356 | 82.9 | /mnt/stockage/packages/f31/xfce4-hardware-monitor-plugin/po/el.po | 
- | [be]({{< ref "/f31/language/be.md" >}}) | 312 | 393 | 79.4 | /mnt/stockage/packages/f31/xfce4-hardware-monitor-plugin/po/be.po | 
- | [sq]({{< ref "/f31/language/sq.md" >}}) | 110 | 363 | 30.3 | /mnt/stockage/packages/f31/xfce4-hardware-monitor-plugin/po/sq.po | 
- | [oc]({{< ref "/f31/language/oc.md" >}}) | 29 | 356 | 8.1 | /mnt/stockage/packages/f31/xfce4-hardware-monitor-plugin/po/oc.po | 
- | [rw]({{< ref "/f31/language/rw.md" >}}) | 8 | 363 | 2.2 | /mnt/stockage/packages/f31/xfce4-hardware-monitor-plugin/po/rw.po | 
+ | [ar](/f31/language/ar) | 356 | 356 | 100.0 | /mnt/stockage/packages/f31/xfce4-hardware-monitor-plugin/po/ar.po | 
+ | [as](/f31/language/as) | 356 | 356 | 100.0 | /mnt/stockage/packages/f31/xfce4-hardware-monitor-plugin/po/as.po | 
+ | [az](/f31/language/az) | 393 | 393 | 100.0 | /mnt/stockage/packages/f31/xfce4-hardware-monitor-plugin/po/az.po | 
+ | [bg](/f31/language/bg) | 356 | 356 | 100.0 | /mnt/stockage/packages/f31/xfce4-hardware-monitor-plugin/po/bg.po | 
+ | [bn_IN](/f31/language/bn_IN) | 356 | 356 | 100.0 | /mnt/stockage/packages/f31/xfce4-hardware-monitor-plugin/po/bn_IN.po | 
+ | [bs](/f31/language/bs) | 363 | 363 | 100.0 | /mnt/stockage/packages/f31/xfce4-hardware-monitor-plugin/po/bs.po | 
+ | [ca](/f31/language/ca) | 356 | 356 | 100.0 | /mnt/stockage/packages/f31/xfce4-hardware-monitor-plugin/po/ca.po | 
+ | [cs](/f31/language/cs) | 356 | 356 | 100.0 | /mnt/stockage/packages/f31/xfce4-hardware-monitor-plugin/po/cs.po | 
+ | [cy](/f31/language/cy) | 393 | 393 | 100.0 | /mnt/stockage/packages/f31/xfce4-hardware-monitor-plugin/po/cy.po | 
+ | [da](/f31/language/da) | 356 | 356 | 100.0 | /mnt/stockage/packages/f31/xfce4-hardware-monitor-plugin/po/da.po | 
+ | [de](/f31/language/de) | 356 | 356 | 100.0 | /mnt/stockage/packages/f31/xfce4-hardware-monitor-plugin/po/de.po | 
+ | [dz](/f31/language/dz) | 356 | 356 | 100.0 | /mnt/stockage/packages/f31/xfce4-hardware-monitor-plugin/po/dz.po | 
+ | [en_CA](/f31/language/en_CA) | 363 | 363 | 100.0 | /mnt/stockage/packages/f31/xfce4-hardware-monitor-plugin/po/en_CA.po | 
+ | [en_GB](/f31/language/en_GB) | 356 | 356 | 100.0 | /mnt/stockage/packages/f31/xfce4-hardware-monitor-plugin/po/en_GB.po | 
+ | [error](/f31/language/error) | 363 | 363 | 100.0 | /mnt/stockage/packages/f31/xfce4-hardware-monitor-plugin/po/sr@Latn.po | 
+ | [es](/f31/language/es) | 356 | 356 | 100.0 | /mnt/stockage/packages/f31/xfce4-hardware-monitor-plugin/po/es.po | 
+ | [eu](/f31/language/eu) | 356 | 356 | 100.0 | /mnt/stockage/packages/f31/xfce4-hardware-monitor-plugin/po/eu.po | 
+ | [fi](/f31/language/fi) | 356 | 356 | 100.0 | /mnt/stockage/packages/f31/xfce4-hardware-monitor-plugin/po/fi.po | 
+ | [fr](/f31/language/fr) | 356 | 356 | 100.0 | /mnt/stockage/packages/f31/xfce4-hardware-monitor-plugin/po/fr.po | 
+ | [gl](/f31/language/gl) | 356 | 356 | 100.0 | /mnt/stockage/packages/f31/xfce4-hardware-monitor-plugin/po/gl.po | 
+ | [gu](/f31/language/gu) | 356 | 356 | 100.0 | /mnt/stockage/packages/f31/xfce4-hardware-monitor-plugin/po/gu.po | 
+ | [he](/f31/language/he) | 356 | 356 | 100.0 | /mnt/stockage/packages/f31/xfce4-hardware-monitor-plugin/po/he.po | 
+ | [hi](/f31/language/hi) | 356 | 356 | 100.0 | /mnt/stockage/packages/f31/xfce4-hardware-monitor-plugin/po/hi.po | 
+ | [hr](/f31/language/hr) | 401 | 401 | 100.0 | /mnt/stockage/packages/f31/xfce4-hardware-monitor-plugin/po/hr.po | 
+ | [hu](/f31/language/hu) | 356 | 356 | 100.0 | /mnt/stockage/packages/f31/xfce4-hardware-monitor-plugin/po/hu.po | 
+ | [ja](/f31/language/ja) | 356 | 356 | 100.0 | /mnt/stockage/packages/f31/xfce4-hardware-monitor-plugin/po/ja.po | 
+ | [kn](/f31/language/kn) | 356 | 356 | 100.0 | /mnt/stockage/packages/f31/xfce4-hardware-monitor-plugin/po/kn.po | 
+ | [ko](/f31/language/ko) | 356 | 356 | 100.0 | /mnt/stockage/packages/f31/xfce4-hardware-monitor-plugin/po/ko.po | 
+ | [lv](/f31/language/lv) | 356 | 356 | 100.0 | /mnt/stockage/packages/f31/xfce4-hardware-monitor-plugin/po/lv.po | 
+ | [mr](/f31/language/mr) | 356 | 356 | 100.0 | /mnt/stockage/packages/f31/xfce4-hardware-monitor-plugin/po/mr.po | 
+ | [ms](/f31/language/ms) | 393 | 393 | 100.0 | /mnt/stockage/packages/f31/xfce4-hardware-monitor-plugin/po/ms.po | 
+ | [nb_NO](/f31/language/nb_NO) | 356 | 356 | 100.0 | /mnt/stockage/packages/f31/xfce4-hardware-monitor-plugin/po/nb.po | 
+ | [ne](/f31/language/ne) | 356 | 356 | 100.0 | /mnt/stockage/packages/f31/xfce4-hardware-monitor-plugin/po/ne.po | 
+ | [nl](/f31/language/nl) | 356 | 356 | 100.0 | /mnt/stockage/packages/f31/xfce4-hardware-monitor-plugin/po/nl.po | 
+ | [pa](/f31/language/pa) | 356 | 356 | 100.0 | /mnt/stockage/packages/f31/xfce4-hardware-monitor-plugin/po/pa.po | 
+ | [pl](/f31/language/pl) | 356 | 356 | 100.0 | /mnt/stockage/packages/f31/xfce4-hardware-monitor-plugin/po/pl.po | 
+ | [pt](/f31/language/pt) | 356 | 356 | 100.0 | /mnt/stockage/packages/f31/xfce4-hardware-monitor-plugin/po/pt.po | 
+ | [pt_BR](/f31/language/pt_BR) | 356 | 356 | 100.0 | /mnt/stockage/packages/f31/xfce4-hardware-monitor-plugin/po/pt_BR.po | 
+ | [ru](/f31/language/ru) | 363 | 363 | 100.0 | /mnt/stockage/packages/f31/xfce4-hardware-monitor-plugin/po/ru.po | 
+ | [sl](/f31/language/sl) | 356 | 356 | 100.0 | /mnt/stockage/packages/f31/xfce4-hardware-monitor-plugin/po/sl.po | 
+ | [sr](/f31/language/sr) | 363 | 363 | 100.0 | /mnt/stockage/packages/f31/xfce4-hardware-monitor-plugin/po/sr.po | 
+ | [sv](/f31/language/sv) | 356 | 356 | 100.0 | /mnt/stockage/packages/f31/xfce4-hardware-monitor-plugin/po/sv.po | 
+ | [ta](/f31/language/ta) | 356 | 356 | 100.0 | /mnt/stockage/packages/f31/xfce4-hardware-monitor-plugin/po/ta.po | 
+ | [te](/f31/language/te) | 356 | 356 | 100.0 | /mnt/stockage/packages/f31/xfce4-hardware-monitor-plugin/po/te.po | 
+ | [th](/f31/language/th) | 356 | 356 | 100.0 | /mnt/stockage/packages/f31/xfce4-hardware-monitor-plugin/po/th.po | 
+ | [tr](/f31/language/tr) | 363 | 363 | 100.0 | /mnt/stockage/packages/f31/xfce4-hardware-monitor-plugin/po/tr.po | 
+ | [uk](/f31/language/uk) | 356 | 356 | 100.0 | /mnt/stockage/packages/f31/xfce4-hardware-monitor-plugin/po/uk.po | 
+ | [vi](/f31/language/vi) | 356 | 356 | 100.0 | /mnt/stockage/packages/f31/xfce4-hardware-monitor-plugin/po/vi.po | 
+ | [zh_Hans](/f31/language/zh_Hans) | 363 | 363 | 100.0 | /mnt/stockage/packages/f31/xfce4-hardware-monitor-plugin/po/zh_CN.po | 
+ | [zh_Hant](/f31/language/zh_Hant) | 352 | 352 | 100.0 | /mnt/stockage/packages/f31/xfce4-hardware-monitor-plugin/po/zh_TW.po | 
+ | [zh_Hant_HK](/f31/language/zh_Hant_HK) | 352 | 352 | 100.0 | /mnt/stockage/packages/f31/xfce4-hardware-monitor-plugin/po/zh_HK.po | 
+ | [it](/f31/language/it) | 399 | 401 | 99.5 | /mnt/stockage/packages/f31/xfce4-hardware-monitor-plugin/po/it.po | 
+ | [el](/f31/language/el) | 295 | 356 | 82.9 | /mnt/stockage/packages/f31/xfce4-hardware-monitor-plugin/po/el.po | 
+ | [be](/f31/language/be) | 312 | 393 | 79.4 | /mnt/stockage/packages/f31/xfce4-hardware-monitor-plugin/po/be.po | 
+ | [sq](/f31/language/sq) | 110 | 363 | 30.3 | /mnt/stockage/packages/f31/xfce4-hardware-monitor-plugin/po/sq.po | 
+ | [oc](/f31/language/oc) | 29 | 356 | 8.1 | /mnt/stockage/packages/f31/xfce4-hardware-monitor-plugin/po/oc.po | 
+ | [rw](/f31/language/rw) | 8 | 363 | 2.2 | /mnt/stockage/packages/f31/xfce4-hardware-monitor-plugin/po/rw.po | 
 {.sortable}
 
 

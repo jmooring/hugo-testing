@@ -18,56 +18,56 @@ The package libgdl (version 0.7.11):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f7/language/ar.md" >}}) | 613 | 613 | 100.0 | /mnt/stockage/packages/f7/libgdl/po/ar.po | 
- | [az]({{< ref "/f7/language/az.md" >}}) | 677 | 677 | 100.0 | /mnt/stockage/packages/f7/libgdl/po/az.po | 
- | [bg]({{< ref "/f7/language/bg.md" >}}) | 612 | 612 | 100.0 | /mnt/stockage/packages/f7/libgdl/po/bg.po | 
- | [ca]({{< ref "/f7/language/ca.md" >}}) | 613 | 613 | 100.0 | /mnt/stockage/packages/f7/libgdl/po/ca.po | 
- | [de]({{< ref "/f7/language/de.md" >}}) | 613 | 613 | 100.0 | /mnt/stockage/packages/f7/libgdl/po/de.po | 
- | [dz]({{< ref "/f7/language/dz.md" >}}) | 612 | 612 | 100.0 | /mnt/stockage/packages/f7/libgdl/po/dz.po | 
- | [en_CA]({{< ref "/f7/language/en_CA.md" >}}) | 686 | 686 | 100.0 | /mnt/stockage/packages/f7/libgdl/po/en_CA.po | 
- | [en_GB]({{< ref "/f7/language/en_GB.md" >}}) | 613 | 613 | 100.0 | /mnt/stockage/packages/f7/libgdl/po/en_GB.po | 
- | [error]({{< ref "/f7/language/error.md" >}}) | 692 | 692 | 100.0 | /mnt/stockage/packages/f7/libgdl/po/sr@Latn.po | 
- | [es]({{< ref "/f7/language/es.md" >}}) | 613 | 613 | 100.0 | /mnt/stockage/packages/f7/libgdl/po/es.po | 
- | [eu]({{< ref "/f7/language/eu.md" >}}) | 613 | 613 | 100.0 | /mnt/stockage/packages/f7/libgdl/po/eu.po | 
- | [fi]({{< ref "/f7/language/fi.md" >}}) | 613 | 613 | 100.0 | /mnt/stockage/packages/f7/libgdl/po/fi.po | 
- | [fr]({{< ref "/f7/language/fr.md" >}}) | 613 | 613 | 100.0 | /mnt/stockage/packages/f7/libgdl/po/fr.po | 
- | [gl]({{< ref "/f7/language/gl.md" >}}) | 613 | 613 | 100.0 | /mnt/stockage/packages/f7/libgdl/po/gl.po | 
- | [hr]({{< ref "/f7/language/hr.md" >}}) | 685 | 685 | 100.0 | /mnt/stockage/packages/f7/libgdl/po/hr.po | 
- | [hu]({{< ref "/f7/language/hu.md" >}}) | 613 | 613 | 100.0 | /mnt/stockage/packages/f7/libgdl/po/hu.po | 
- | [ja]({{< ref "/f7/language/ja.md" >}}) | 613 | 613 | 100.0 | /mnt/stockage/packages/f7/libgdl/po/ja.po | 
- | [lv]({{< ref "/f7/language/lv.md" >}}) | 612 | 612 | 100.0 | /mnt/stockage/packages/f7/libgdl/po/lv.po | 
- | [mk]({{< ref "/f7/language/mk.md" >}}) | 613 | 613 | 100.0 | /mnt/stockage/packages/f7/libgdl/po/mk.po | 
- | [ne]({{< ref "/f7/language/ne.md" >}}) | 612 | 612 | 100.0 | /mnt/stockage/packages/f7/libgdl/po/ne.po | 
- | [nl]({{< ref "/f7/language/nl.md" >}}) | 613 | 613 | 100.0 | /mnt/stockage/packages/f7/libgdl/po/nl.po | 
- | [pt]({{< ref "/f7/language/pt.md" >}}) | 613 | 613 | 100.0 | /mnt/stockage/packages/f7/libgdl/po/pt.po | 
- | [pt_BR]({{< ref "/f7/language/pt_BR.md" >}}) | 613 | 613 | 100.0 | /mnt/stockage/packages/f7/libgdl/po/pt_BR.po | 
- | [sl]({{< ref "/f7/language/sl.md" >}}) | 613 | 613 | 100.0 | /mnt/stockage/packages/f7/libgdl/po/sl.po | 
- | [sr]({{< ref "/f7/language/sr.md" >}}) | 692 | 692 | 100.0 | /mnt/stockage/packages/f7/libgdl/po/sr.po | 
- | [sv]({{< ref "/f7/language/sv.md" >}}) | 613 | 613 | 100.0 | /mnt/stockage/packages/f7/libgdl/po/sv.po | 
- | [tr]({{< ref "/f7/language/tr.md" >}}) | 612 | 612 | 100.0 | /mnt/stockage/packages/f7/libgdl/po/tr.po | 
- | [uk]({{< ref "/f7/language/uk.md" >}}) | 613 | 613 | 100.0 | /mnt/stockage/packages/f7/libgdl/po/uk.po | 
- | [vi]({{< ref "/f7/language/vi.md" >}}) | 612 | 612 | 100.0 | /mnt/stockage/packages/f7/libgdl/po/vi.po | 
- | [zh_Hans]({{< ref "/f7/language/zh_Hans.md" >}}) | 613 | 613 | 100.0 | /mnt/stockage/packages/f7/libgdl/po/zh_CN.po | 
- | [pl]({{< ref "/f7/language/pl.md" >}}) | 600 | 613 | 97.9 | /mnt/stockage/packages/f7/libgdl/po/pl.po | 
- | [th]({{< ref "/f7/language/th.md" >}}) | 599 | 613 | 97.7 | /mnt/stockage/packages/f7/libgdl/po/th.po | 
- | [cs]({{< ref "/f7/language/cs.md" >}}) | 593 | 613 | 96.7 | /mnt/stockage/packages/f7/libgdl/po/cs.po | 
- | [ko]({{< ref "/f7/language/ko.md" >}}) | 533 | 612 | 87.1 | /mnt/stockage/packages/f7/libgdl/po/ko.po | 
- | [sk]({{< ref "/f7/language/sk.md" >}}) | 223 | 685 | 32.6 | /mnt/stockage/packages/f7/libgdl/po/sk.po | 
- | [si]({{< ref "/f7/language/si.md" >}}) | 160 | 612 | 26.1 | /mnt/stockage/packages/f7/libgdl/po/si.po | 
- | [pa]({{< ref "/f7/language/pa.md" >}}) | 161 | 685 | 23.5 | /mnt/stockage/packages/f7/libgdl/po/pa.po | 
- | [hi]({{< ref "/f7/language/hi.md" >}}) | 141 | 613 | 23.0 | /mnt/stockage/packages/f7/libgdl/po/hi.po | 
- | [nb_NO]({{< ref "/f7/language/nb_NO.md" >}}) | 119 | 612 | 19.4 | /mnt/stockage/packages/f7/libgdl/po/nb.po | 
- | [ru]({{< ref "/f7/language/ru.md" >}}) | 97 | 685 | 14.2 | /mnt/stockage/packages/f7/libgdl/po/ru.po | 
- | [sq]({{< ref "/f7/language/sq.md" >}}) | 68 | 685 | 9.9 | /mnt/stockage/packages/f7/libgdl/po/sq.po | 
- | [el]({{< ref "/f7/language/el.md" >}}) | 60 | 685 | 8.8 | /mnt/stockage/packages/f7/libgdl/po/el.po | 
- | [it]({{< ref "/f7/language/it.md" >}}) | 60 | 685 | 8.8 | /mnt/stockage/packages/f7/libgdl/po/it.po | 
- | [am]({{< ref "/f7/language/am.md" >}}) | 45 | 685 | 6.6 | /mnt/stockage/packages/f7/libgdl/po/am.po | 
- | [ga]({{< ref "/f7/language/ga.md" >}}) | 44 | 677 | 6.5 | /mnt/stockage/packages/f7/libgdl/po/ga.po | 
- | [ml]({{< ref "/f7/language/ml.md" >}}) | 43 | 685 | 6.3 | /mnt/stockage/packages/f7/libgdl/po/ml.po | 
- | [oc]({{< ref "/f7/language/oc.md" >}}) | 19 | 613 | 3.1 | /mnt/stockage/packages/f7/libgdl/po/oc.po | 
- | [rw]({{< ref "/f7/language/rw.md" >}}) | 21 | 686 | 3.1 | /mnt/stockage/packages/f7/libgdl/po/rw.po | 
- | [lt]({{< ref "/f7/language/lt.md" >}}) | 12 | 613 | 2.0 | /mnt/stockage/packages/f7/libgdl/po/lt.po | 
- | [da]({{< ref "/f7/language/da.md" >}}) | 1 | 699 | 0.1 | /mnt/stockage/packages/f7/libgdl/po/da.po | 
+ | [ar](/f7/language/ar) | 613 | 613 | 100.0 | /mnt/stockage/packages/f7/libgdl/po/ar.po | 
+ | [az](/f7/language/az) | 677 | 677 | 100.0 | /mnt/stockage/packages/f7/libgdl/po/az.po | 
+ | [bg](/f7/language/bg) | 612 | 612 | 100.0 | /mnt/stockage/packages/f7/libgdl/po/bg.po | 
+ | [ca](/f7/language/ca) | 613 | 613 | 100.0 | /mnt/stockage/packages/f7/libgdl/po/ca.po | 
+ | [de](/f7/language/de) | 613 | 613 | 100.0 | /mnt/stockage/packages/f7/libgdl/po/de.po | 
+ | [dz](/f7/language/dz) | 612 | 612 | 100.0 | /mnt/stockage/packages/f7/libgdl/po/dz.po | 
+ | [en_CA](/f7/language/en_CA) | 686 | 686 | 100.0 | /mnt/stockage/packages/f7/libgdl/po/en_CA.po | 
+ | [en_GB](/f7/language/en_GB) | 613 | 613 | 100.0 | /mnt/stockage/packages/f7/libgdl/po/en_GB.po | 
+ | [error](/f7/language/error) | 692 | 692 | 100.0 | /mnt/stockage/packages/f7/libgdl/po/sr@Latn.po | 
+ | [es](/f7/language/es) | 613 | 613 | 100.0 | /mnt/stockage/packages/f7/libgdl/po/es.po | 
+ | [eu](/f7/language/eu) | 613 | 613 | 100.0 | /mnt/stockage/packages/f7/libgdl/po/eu.po | 
+ | [fi](/f7/language/fi) | 613 | 613 | 100.0 | /mnt/stockage/packages/f7/libgdl/po/fi.po | 
+ | [fr](/f7/language/fr) | 613 | 613 | 100.0 | /mnt/stockage/packages/f7/libgdl/po/fr.po | 
+ | [gl](/f7/language/gl) | 613 | 613 | 100.0 | /mnt/stockage/packages/f7/libgdl/po/gl.po | 
+ | [hr](/f7/language/hr) | 685 | 685 | 100.0 | /mnt/stockage/packages/f7/libgdl/po/hr.po | 
+ | [hu](/f7/language/hu) | 613 | 613 | 100.0 | /mnt/stockage/packages/f7/libgdl/po/hu.po | 
+ | [ja](/f7/language/ja) | 613 | 613 | 100.0 | /mnt/stockage/packages/f7/libgdl/po/ja.po | 
+ | [lv](/f7/language/lv) | 612 | 612 | 100.0 | /mnt/stockage/packages/f7/libgdl/po/lv.po | 
+ | [mk](/f7/language/mk) | 613 | 613 | 100.0 | /mnt/stockage/packages/f7/libgdl/po/mk.po | 
+ | [ne](/f7/language/ne) | 612 | 612 | 100.0 | /mnt/stockage/packages/f7/libgdl/po/ne.po | 
+ | [nl](/f7/language/nl) | 613 | 613 | 100.0 | /mnt/stockage/packages/f7/libgdl/po/nl.po | 
+ | [pt](/f7/language/pt) | 613 | 613 | 100.0 | /mnt/stockage/packages/f7/libgdl/po/pt.po | 
+ | [pt_BR](/f7/language/pt_BR) | 613 | 613 | 100.0 | /mnt/stockage/packages/f7/libgdl/po/pt_BR.po | 
+ | [sl](/f7/language/sl) | 613 | 613 | 100.0 | /mnt/stockage/packages/f7/libgdl/po/sl.po | 
+ | [sr](/f7/language/sr) | 692 | 692 | 100.0 | /mnt/stockage/packages/f7/libgdl/po/sr.po | 
+ | [sv](/f7/language/sv) | 613 | 613 | 100.0 | /mnt/stockage/packages/f7/libgdl/po/sv.po | 
+ | [tr](/f7/language/tr) | 612 | 612 | 100.0 | /mnt/stockage/packages/f7/libgdl/po/tr.po | 
+ | [uk](/f7/language/uk) | 613 | 613 | 100.0 | /mnt/stockage/packages/f7/libgdl/po/uk.po | 
+ | [vi](/f7/language/vi) | 612 | 612 | 100.0 | /mnt/stockage/packages/f7/libgdl/po/vi.po | 
+ | [zh_Hans](/f7/language/zh_Hans) | 613 | 613 | 100.0 | /mnt/stockage/packages/f7/libgdl/po/zh_CN.po | 
+ | [pl](/f7/language/pl) | 600 | 613 | 97.9 | /mnt/stockage/packages/f7/libgdl/po/pl.po | 
+ | [th](/f7/language/th) | 599 | 613 | 97.7 | /mnt/stockage/packages/f7/libgdl/po/th.po | 
+ | [cs](/f7/language/cs) | 593 | 613 | 96.7 | /mnt/stockage/packages/f7/libgdl/po/cs.po | 
+ | [ko](/f7/language/ko) | 533 | 612 | 87.1 | /mnt/stockage/packages/f7/libgdl/po/ko.po | 
+ | [sk](/f7/language/sk) | 223 | 685 | 32.6 | /mnt/stockage/packages/f7/libgdl/po/sk.po | 
+ | [si](/f7/language/si) | 160 | 612 | 26.1 | /mnt/stockage/packages/f7/libgdl/po/si.po | 
+ | [pa](/f7/language/pa) | 161 | 685 | 23.5 | /mnt/stockage/packages/f7/libgdl/po/pa.po | 
+ | [hi](/f7/language/hi) | 141 | 613 | 23.0 | /mnt/stockage/packages/f7/libgdl/po/hi.po | 
+ | [nb_NO](/f7/language/nb_NO) | 119 | 612 | 19.4 | /mnt/stockage/packages/f7/libgdl/po/nb.po | 
+ | [ru](/f7/language/ru) | 97 | 685 | 14.2 | /mnt/stockage/packages/f7/libgdl/po/ru.po | 
+ | [sq](/f7/language/sq) | 68 | 685 | 9.9 | /mnt/stockage/packages/f7/libgdl/po/sq.po | 
+ | [el](/f7/language/el) | 60 | 685 | 8.8 | /mnt/stockage/packages/f7/libgdl/po/el.po | 
+ | [it](/f7/language/it) | 60 | 685 | 8.8 | /mnt/stockage/packages/f7/libgdl/po/it.po | 
+ | [am](/f7/language/am) | 45 | 685 | 6.6 | /mnt/stockage/packages/f7/libgdl/po/am.po | 
+ | [ga](/f7/language/ga) | 44 | 677 | 6.5 | /mnt/stockage/packages/f7/libgdl/po/ga.po | 
+ | [ml](/f7/language/ml) | 43 | 685 | 6.3 | /mnt/stockage/packages/f7/libgdl/po/ml.po | 
+ | [oc](/f7/language/oc) | 19 | 613 | 3.1 | /mnt/stockage/packages/f7/libgdl/po/oc.po | 
+ | [rw](/f7/language/rw) | 21 | 686 | 3.1 | /mnt/stockage/packages/f7/libgdl/po/rw.po | 
+ | [lt](/f7/language/lt) | 12 | 613 | 2.0 | /mnt/stockage/packages/f7/libgdl/po/lt.po | 
+ | [da](/f7/language/da) | 1 | 699 | 0.1 | /mnt/stockage/packages/f7/libgdl/po/da.po | 
 {.sortable}
 
 

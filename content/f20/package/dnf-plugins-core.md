@@ -18,7 +18,7 @@ The package dnf-plugins-core (version 0.1.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [da]({{< ref "/f20/language/da.md" >}}) | 4 | 129 | 3.1 | /mnt/stockage/packages/f20/dnf-plugins-core/po/da.po | 
+ | [da](/f20/language/da) | 4 | 129 | 3.1 | /mnt/stockage/packages/f20/dnf-plugins-core/po/da.po | 
 {.sortable}
 
 

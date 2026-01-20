@@ -18,29 +18,29 @@ The package nautilus-sound-converter (version 3.0.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f18/language/cs.md" >}}) | 159 | 159 | 100.0 | /mnt/stockage/packages/f18/nautilus-sound-converter/po/cs.po | 
- | [da]({{< ref "/f18/language/da.md" >}}) | 159 | 159 | 100.0 | /mnt/stockage/packages/f18/nautilus-sound-converter/po/da.po | 
- | [de]({{< ref "/f18/language/de.md" >}}) | 159 | 159 | 100.0 | /mnt/stockage/packages/f18/nautilus-sound-converter/po/de.po | 
- | [el]({{< ref "/f18/language/el.md" >}}) | 159 | 159 | 100.0 | /mnt/stockage/packages/f18/nautilus-sound-converter/po/el.po | 
- | [es]({{< ref "/f18/language/es.md" >}}) | 159 | 159 | 100.0 | /mnt/stockage/packages/f18/nautilus-sound-converter/po/es.po | 
- | [fr]({{< ref "/f18/language/fr.md" >}}) | 159 | 159 | 100.0 | /mnt/stockage/packages/f18/nautilus-sound-converter/po/fr.po | 
- | [gl]({{< ref "/f18/language/gl.md" >}}) | 159 | 159 | 100.0 | /mnt/stockage/packages/f18/nautilus-sound-converter/po/gl.po | 
- | [he]({{< ref "/f18/language/he.md" >}}) | 159 | 159 | 100.0 | /mnt/stockage/packages/f18/nautilus-sound-converter/po/he.po | 
- | [hu]({{< ref "/f18/language/hu.md" >}}) | 159 | 159 | 100.0 | /mnt/stockage/packages/f18/nautilus-sound-converter/po/hu.po | 
- | [it]({{< ref "/f18/language/it.md" >}}) | 159 | 159 | 100.0 | /mnt/stockage/packages/f18/nautilus-sound-converter/po/it.po | 
- | [lv]({{< ref "/f18/language/lv.md" >}}) | 159 | 159 | 100.0 | /mnt/stockage/packages/f18/nautilus-sound-converter/po/lv.po | 
- | [pl]({{< ref "/f18/language/pl.md" >}}) | 159 | 159 | 100.0 | /mnt/stockage/packages/f18/nautilus-sound-converter/po/pl.po | 
- | [pt_BR]({{< ref "/f18/language/pt_BR.md" >}}) | 159 | 159 | 100.0 | /mnt/stockage/packages/f18/nautilus-sound-converter/po/pt_BR.po | 
- | [ru]({{< ref "/f18/language/ru.md" >}}) | 159 | 159 | 100.0 | /mnt/stockage/packages/f18/nautilus-sound-converter/po/ru.po | 
- | [sl]({{< ref "/f18/language/sl.md" >}}) | 159 | 159 | 100.0 | /mnt/stockage/packages/f18/nautilus-sound-converter/po/sl.po | 
- | [sr]({{< ref "/f18/language/sr.md" >}}) | 318 | 318 | 100.0 | /mnt/stockage/packages/f18/nautilus-sound-converter/po/sr.po/mnt/stockage/packages/f18/nautilus-sound-converter/po/sr@latin.po | 
- | [sv]({{< ref "/f18/language/sv.md" >}}) | 159 | 159 | 100.0 | /mnt/stockage/packages/f18/nautilus-sound-converter/po/sv.po | 
- | [uk]({{< ref "/f18/language/uk.md" >}}) | 159 | 159 | 100.0 | /mnt/stockage/packages/f18/nautilus-sound-converter/po/uk.po | 
- | [vi]({{< ref "/f18/language/vi.md" >}}) | 159 | 159 | 100.0 | /mnt/stockage/packages/f18/nautilus-sound-converter/po/vi.po | 
- | [zh_Hans]({{< ref "/f18/language/zh_Hans.md" >}}) | 159 | 159 | 100.0 | /mnt/stockage/packages/f18/nautilus-sound-converter/po/zh_CN.po | 
- | [ar]({{< ref "/f18/language/ar.md" >}}) | 155 | 159 | 97.5 | /mnt/stockage/packages/f18/nautilus-sound-converter/po/ar.po | 
- | [eo]({{< ref "/f18/language/eo.md" >}}) | 50 | 159 | 31.4 | /mnt/stockage/packages/f18/nautilus-sound-converter/po/eo.po | 
- | [nb_NO]({{< ref "/f18/language/nb_NO.md" >}}) | 21 | 159 | 13.2 | /mnt/stockage/packages/f18/nautilus-sound-converter/po/nb.po | 
+ | [cs](/f18/language/cs) | 159 | 159 | 100.0 | /mnt/stockage/packages/f18/nautilus-sound-converter/po/cs.po | 
+ | [da](/f18/language/da) | 159 | 159 | 100.0 | /mnt/stockage/packages/f18/nautilus-sound-converter/po/da.po | 
+ | [de](/f18/language/de) | 159 | 159 | 100.0 | /mnt/stockage/packages/f18/nautilus-sound-converter/po/de.po | 
+ | [el](/f18/language/el) | 159 | 159 | 100.0 | /mnt/stockage/packages/f18/nautilus-sound-converter/po/el.po | 
+ | [es](/f18/language/es) | 159 | 159 | 100.0 | /mnt/stockage/packages/f18/nautilus-sound-converter/po/es.po | 
+ | [fr](/f18/language/fr) | 159 | 159 | 100.0 | /mnt/stockage/packages/f18/nautilus-sound-converter/po/fr.po | 
+ | [gl](/f18/language/gl) | 159 | 159 | 100.0 | /mnt/stockage/packages/f18/nautilus-sound-converter/po/gl.po | 
+ | [he](/f18/language/he) | 159 | 159 | 100.0 | /mnt/stockage/packages/f18/nautilus-sound-converter/po/he.po | 
+ | [hu](/f18/language/hu) | 159 | 159 | 100.0 | /mnt/stockage/packages/f18/nautilus-sound-converter/po/hu.po | 
+ | [it](/f18/language/it) | 159 | 159 | 100.0 | /mnt/stockage/packages/f18/nautilus-sound-converter/po/it.po | 
+ | [lv](/f18/language/lv) | 159 | 159 | 100.0 | /mnt/stockage/packages/f18/nautilus-sound-converter/po/lv.po | 
+ | [pl](/f18/language/pl) | 159 | 159 | 100.0 | /mnt/stockage/packages/f18/nautilus-sound-converter/po/pl.po | 
+ | [pt_BR](/f18/language/pt_BR) | 159 | 159 | 100.0 | /mnt/stockage/packages/f18/nautilus-sound-converter/po/pt_BR.po | 
+ | [ru](/f18/language/ru) | 159 | 159 | 100.0 | /mnt/stockage/packages/f18/nautilus-sound-converter/po/ru.po | 
+ | [sl](/f18/language/sl) | 159 | 159 | 100.0 | /mnt/stockage/packages/f18/nautilus-sound-converter/po/sl.po | 
+ | [sr](/f18/language/sr) | 318 | 318 | 100.0 | /mnt/stockage/packages/f18/nautilus-sound-converter/po/sr.po/mnt/stockage/packages/f18/nautilus-sound-converter/po/sr@latin.po | 
+ | [sv](/f18/language/sv) | 159 | 159 | 100.0 | /mnt/stockage/packages/f18/nautilus-sound-converter/po/sv.po | 
+ | [uk](/f18/language/uk) | 159 | 159 | 100.0 | /mnt/stockage/packages/f18/nautilus-sound-converter/po/uk.po | 
+ | [vi](/f18/language/vi) | 159 | 159 | 100.0 | /mnt/stockage/packages/f18/nautilus-sound-converter/po/vi.po | 
+ | [zh_Hans](/f18/language/zh_Hans) | 159 | 159 | 100.0 | /mnt/stockage/packages/f18/nautilus-sound-converter/po/zh_CN.po | 
+ | [ar](/f18/language/ar) | 155 | 159 | 97.5 | /mnt/stockage/packages/f18/nautilus-sound-converter/po/ar.po | 
+ | [eo](/f18/language/eo) | 50 | 159 | 31.4 | /mnt/stockage/packages/f18/nautilus-sound-converter/po/eo.po | 
+ | [nb_NO](/f18/language/nb_NO) | 21 | 159 | 13.2 | /mnt/stockage/packages/f18/nautilus-sound-converter/po/nb.po | 
 {.sortable}
 
 

@@ -18,29 +18,29 @@ The package python-django-openstack-auth (version 1.1.5):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f21/language/ar.md" >}}) | 47 | 47 | 100.0 | /mnt/stockage/packages/f21/python-django-openstack-auth/openstack_auth/locale/ar/LC_MESSAGES/django.po | 
- | [ca]({{< ref "/f21/language/ca.md" >}}) | 47 | 47 | 100.0 | /mnt/stockage/packages/f21/python-django-openstack-auth/openstack_auth/locale/ca/LC_MESSAGES/django.po | 
- | [de]({{< ref "/f21/language/de.md" >}}) | 47 | 47 | 100.0 | /mnt/stockage/packages/f21/python-django-openstack-auth/openstack_auth/locale/de/LC_MESSAGES/django.po | 
- | [en_AU]({{< ref "/f21/language/en_AU.md" >}}) | 47 | 47 | 100.0 | /mnt/stockage/packages/f21/python-django-openstack-auth/openstack_auth/locale/en_AU/LC_MESSAGES/django.po | 
- | [en_GB]({{< ref "/f21/language/en_GB.md" >}}) | 47 | 47 | 100.0 | /mnt/stockage/packages/f21/python-django-openstack-auth/openstack_auth/locale/en_GB/LC_MESSAGES/django.po | 
- | [es]({{< ref "/f21/language/es.md" >}}) | 47 | 47 | 100.0 | /mnt/stockage/packages/f21/python-django-openstack-auth/openstack_auth/locale/es/LC_MESSAGES/django.po | 
- | [es_MX]({{< ref "/f21/language/es_MX.md" >}}) | 47 | 47 | 100.0 | /mnt/stockage/packages/f21/python-django-openstack-auth/openstack_auth/locale/es_MX/LC_MESSAGES/django.po | 
- | [fr]({{< ref "/f21/language/fr.md" >}}) | 47 | 47 | 100.0 | /mnt/stockage/packages/f21/python-django-openstack-auth/openstack_auth/locale/fr/LC_MESSAGES/django.po | 
- | [hi]({{< ref "/f21/language/hi.md" >}}) | 47 | 47 | 100.0 | /mnt/stockage/packages/f21/python-django-openstack-auth/openstack_auth/locale/hi/LC_MESSAGES/django.po | 
- | [ja]({{< ref "/f21/language/ja.md" >}}) | 47 | 47 | 100.0 | /mnt/stockage/packages/f21/python-django-openstack-auth/openstack_auth/locale/ja/LC_MESSAGES/django.po | 
- | [ko]({{< ref "/f21/language/ko.md" >}}) | 47 | 47 | 100.0 | /mnt/stockage/packages/f21/python-django-openstack-auth/openstack_auth/locale/ko_KR/LC_MESSAGES/django.po | 
- | [nl]({{< ref "/f21/language/nl.md" >}}) | 47 | 47 | 100.0 | /mnt/stockage/packages/f21/python-django-openstack-auth/openstack_auth/locale/nl_NL/LC_MESSAGES/django.po | 
- | [pa]({{< ref "/f21/language/pa.md" >}}) | 47 | 47 | 100.0 | /mnt/stockage/packages/f21/python-django-openstack-auth/openstack_auth/locale/pa_IN/LC_MESSAGES/django.po | 
- | [pl]({{< ref "/f21/language/pl.md" >}}) | 47 | 47 | 100.0 | /mnt/stockage/packages/f21/python-django-openstack-auth/openstack_auth/locale/pl_PL/LC_MESSAGES/django.po | 
- | [pt]({{< ref "/f21/language/pt.md" >}}) | 47 | 47 | 100.0 | /mnt/stockage/packages/f21/python-django-openstack-auth/openstack_auth/locale/pt/LC_MESSAGES/django.po | 
- | [pt_BR]({{< ref "/f21/language/pt_BR.md" >}}) | 47 | 47 | 100.0 | /mnt/stockage/packages/f21/python-django-openstack-auth/openstack_auth/locale/pt_BR/LC_MESSAGES/django.po | 
- | [ru]({{< ref "/f21/language/ru.md" >}}) | 47 | 47 | 100.0 | /mnt/stockage/packages/f21/python-django-openstack-auth/openstack_auth/locale/ru/LC_MESSAGES/django.po | 
- | [sl]({{< ref "/f21/language/sl.md" >}}) | 47 | 47 | 100.0 | /mnt/stockage/packages/f21/python-django-openstack-auth/openstack_auth/locale/sl_SI/LC_MESSAGES/django.po | 
- | [sr]({{< ref "/f21/language/sr.md" >}}) | 47 | 47 | 100.0 | /mnt/stockage/packages/f21/python-django-openstack-auth/openstack_auth/locale/sr/LC_MESSAGES/django.po | 
- | [tr]({{< ref "/f21/language/tr.md" >}}) | 47 | 47 | 100.0 | /mnt/stockage/packages/f21/python-django-openstack-auth/openstack_auth/locale/tr_TR/LC_MESSAGES/django.po | 
- | [uk]({{< ref "/f21/language/uk.md" >}}) | 47 | 47 | 100.0 | /mnt/stockage/packages/f21/python-django-openstack-auth/openstack_auth/locale/uk/LC_MESSAGES/django.po | 
- | [zh_Hans]({{< ref "/f21/language/zh_Hans.md" >}}) | 47 | 47 | 100.0 | /mnt/stockage/packages/f21/python-django-openstack-auth/openstack_auth/locale/zh_CN/LC_MESSAGES/django.po | 
- | [zh_Hant]({{< ref "/f21/language/zh_Hant.md" >}}) | 47 | 47 | 100.0 | /mnt/stockage/packages/f21/python-django-openstack-auth/openstack_auth/locale/zh_TW/LC_MESSAGES/django.po | 
+ | [ar](/f21/language/ar) | 47 | 47 | 100.0 | /mnt/stockage/packages/f21/python-django-openstack-auth/openstack_auth/locale/ar/LC_MESSAGES/django.po | 
+ | [ca](/f21/language/ca) | 47 | 47 | 100.0 | /mnt/stockage/packages/f21/python-django-openstack-auth/openstack_auth/locale/ca/LC_MESSAGES/django.po | 
+ | [de](/f21/language/de) | 47 | 47 | 100.0 | /mnt/stockage/packages/f21/python-django-openstack-auth/openstack_auth/locale/de/LC_MESSAGES/django.po | 
+ | [en_AU](/f21/language/en_AU) | 47 | 47 | 100.0 | /mnt/stockage/packages/f21/python-django-openstack-auth/openstack_auth/locale/en_AU/LC_MESSAGES/django.po | 
+ | [en_GB](/f21/language/en_GB) | 47 | 47 | 100.0 | /mnt/stockage/packages/f21/python-django-openstack-auth/openstack_auth/locale/en_GB/LC_MESSAGES/django.po | 
+ | [es](/f21/language/es) | 47 | 47 | 100.0 | /mnt/stockage/packages/f21/python-django-openstack-auth/openstack_auth/locale/es/LC_MESSAGES/django.po | 
+ | [es_MX](/f21/language/es_MX) | 47 | 47 | 100.0 | /mnt/stockage/packages/f21/python-django-openstack-auth/openstack_auth/locale/es_MX/LC_MESSAGES/django.po | 
+ | [fr](/f21/language/fr) | 47 | 47 | 100.0 | /mnt/stockage/packages/f21/python-django-openstack-auth/openstack_auth/locale/fr/LC_MESSAGES/django.po | 
+ | [hi](/f21/language/hi) | 47 | 47 | 100.0 | /mnt/stockage/packages/f21/python-django-openstack-auth/openstack_auth/locale/hi/LC_MESSAGES/django.po | 
+ | [ja](/f21/language/ja) | 47 | 47 | 100.0 | /mnt/stockage/packages/f21/python-django-openstack-auth/openstack_auth/locale/ja/LC_MESSAGES/django.po | 
+ | [ko](/f21/language/ko) | 47 | 47 | 100.0 | /mnt/stockage/packages/f21/python-django-openstack-auth/openstack_auth/locale/ko_KR/LC_MESSAGES/django.po | 
+ | [nl](/f21/language/nl) | 47 | 47 | 100.0 | /mnt/stockage/packages/f21/python-django-openstack-auth/openstack_auth/locale/nl_NL/LC_MESSAGES/django.po | 
+ | [pa](/f21/language/pa) | 47 | 47 | 100.0 | /mnt/stockage/packages/f21/python-django-openstack-auth/openstack_auth/locale/pa_IN/LC_MESSAGES/django.po | 
+ | [pl](/f21/language/pl) | 47 | 47 | 100.0 | /mnt/stockage/packages/f21/python-django-openstack-auth/openstack_auth/locale/pl_PL/LC_MESSAGES/django.po | 
+ | [pt](/f21/language/pt) | 47 | 47 | 100.0 | /mnt/stockage/packages/f21/python-django-openstack-auth/openstack_auth/locale/pt/LC_MESSAGES/django.po | 
+ | [pt_BR](/f21/language/pt_BR) | 47 | 47 | 100.0 | /mnt/stockage/packages/f21/python-django-openstack-auth/openstack_auth/locale/pt_BR/LC_MESSAGES/django.po | 
+ | [ru](/f21/language/ru) | 47 | 47 | 100.0 | /mnt/stockage/packages/f21/python-django-openstack-auth/openstack_auth/locale/ru/LC_MESSAGES/django.po | 
+ | [sl](/f21/language/sl) | 47 | 47 | 100.0 | /mnt/stockage/packages/f21/python-django-openstack-auth/openstack_auth/locale/sl_SI/LC_MESSAGES/django.po | 
+ | [sr](/f21/language/sr) | 47 | 47 | 100.0 | /mnt/stockage/packages/f21/python-django-openstack-auth/openstack_auth/locale/sr/LC_MESSAGES/django.po | 
+ | [tr](/f21/language/tr) | 47 | 47 | 100.0 | /mnt/stockage/packages/f21/python-django-openstack-auth/openstack_auth/locale/tr_TR/LC_MESSAGES/django.po | 
+ | [uk](/f21/language/uk) | 47 | 47 | 100.0 | /mnt/stockage/packages/f21/python-django-openstack-auth/openstack_auth/locale/uk/LC_MESSAGES/django.po | 
+ | [zh_Hans](/f21/language/zh_Hans) | 47 | 47 | 100.0 | /mnt/stockage/packages/f21/python-django-openstack-auth/openstack_auth/locale/zh_CN/LC_MESSAGES/django.po | 
+ | [zh_Hant](/f21/language/zh_Hant) | 47 | 47 | 100.0 | /mnt/stockage/packages/f21/python-django-openstack-auth/openstack_auth/locale/zh_TW/LC_MESSAGES/django.po | 
 {.sortable}
 
 

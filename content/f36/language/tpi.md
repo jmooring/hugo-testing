@@ -38,8 +38,8 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [mate-menu]({{< ref "/f36/package/mate-menu.md" >}}) | 34 | 308 | 11.0 | Tok Pisin <tpi@li.org> | 
- | [cinnamon-translations]({{< ref "/f36/package/cinnamon-translations.md" >}}) | 83 | 9144 | 0.9 | Tok Pisin <tpi@li.org> | 
+ | [mate-menu](/f36/package/mate-menu) | 34 | 308 | 11.0 | Tok Pisin <tpi@li.org> | 
+ | [cinnamon-translations](/f36/package/cinnamon-translations) | 83 | 9144 | 0.9 | Tok Pisin <tpi@li.org> | 
 {.sortable}
 
 

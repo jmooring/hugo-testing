@@ -18,15 +18,15 @@ The package ircp-tray (version 0.7.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [it]({{< ref "/f12/language/it.md" >}}) | 205 | 205 | 100.0 | /mnt/stockage/packages/f12/ircp-tray/po/it.po | 
- | [ru]({{< ref "/f12/language/ru.md" >}}) | 205 | 205 | 100.0 | /mnt/stockage/packages/f12/ircp-tray/po/ru.po | 
- | [sv]({{< ref "/f12/language/sv.md" >}}) | 201 | 201 | 100.0 | /mnt/stockage/packages/f12/ircp-tray/po/sv.po | 
- | [he]({{< ref "/f12/language/he.md" >}}) | 200 | 205 | 97.6 | /mnt/stockage/packages/f12/ircp-tray/po/he.po | 
- | [es]({{< ref "/f12/language/es.md" >}}) | 178 | 205 | 86.8 | /mnt/stockage/packages/f12/ircp-tray/po/es.po | 
- | [pl]({{< ref "/f12/language/pl.md" >}}) | 169 | 201 | 84.1 | /mnt/stockage/packages/f12/ircp-tray/po/pl.po | 
- | [fr]({{< ref "/f12/language/fr.md" >}}) | 139 | 201 | 69.2 | /mnt/stockage/packages/f12/ircp-tray/po/fr.po | 
- | [zh_Hans]({{< ref "/f12/language/zh_Hans.md" >}}) | 113 | 201 | 56.2 | /mnt/stockage/packages/f12/ircp-tray/po/zh_CN.po | 
- | [de]({{< ref "/f12/language/de.md" >}}) | 0 | 201 | 0.0 | /mnt/stockage/packages/f12/ircp-tray/po/de.po | 
+ | [it](/f12/language/it) | 205 | 205 | 100.0 | /mnt/stockage/packages/f12/ircp-tray/po/it.po | 
+ | [ru](/f12/language/ru) | 205 | 205 | 100.0 | /mnt/stockage/packages/f12/ircp-tray/po/ru.po | 
+ | [sv](/f12/language/sv) | 201 | 201 | 100.0 | /mnt/stockage/packages/f12/ircp-tray/po/sv.po | 
+ | [he](/f12/language/he) | 200 | 205 | 97.6 | /mnt/stockage/packages/f12/ircp-tray/po/he.po | 
+ | [es](/f12/language/es) | 178 | 205 | 86.8 | /mnt/stockage/packages/f12/ircp-tray/po/es.po | 
+ | [pl](/f12/language/pl) | 169 | 201 | 84.1 | /mnt/stockage/packages/f12/ircp-tray/po/pl.po | 
+ | [fr](/f12/language/fr) | 139 | 201 | 69.2 | /mnt/stockage/packages/f12/ircp-tray/po/fr.po | 
+ | [zh_Hans](/f12/language/zh_Hans) | 113 | 201 | 56.2 | /mnt/stockage/packages/f12/ircp-tray/po/zh_CN.po | 
+ | [de](/f12/language/de) | 0 | 201 | 0.0 | /mnt/stockage/packages/f12/ircp-tray/po/de.po | 
 {.sortable}
 
 

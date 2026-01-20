@@ -18,34 +18,34 @@ The package asunder (version 1.9):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f11/language/ar.md" >}}) | 420 | 420 | 100.0 | /mnt/stockage/packages/f11/asunder/po/ar.po | 
- | [bg]({{< ref "/f11/language/bg.md" >}}) | 420 | 420 | 100.0 | /mnt/stockage/packages/f11/asunder/po/bg.po | 
- | [ca]({{< ref "/f11/language/ca.md" >}}) | 420 | 420 | 100.0 | /mnt/stockage/packages/f11/asunder/po/ca.po | 
- | [cs]({{< ref "/f11/language/cs.md" >}}) | 420 | 420 | 100.0 | /mnt/stockage/packages/f11/asunder/po/cs.po | 
- | [el]({{< ref "/f11/language/el.md" >}}) | 420 | 420 | 100.0 | /mnt/stockage/packages/f11/asunder/po/el.po | 
- | [es]({{< ref "/f11/language/es.md" >}}) | 420 | 420 | 100.0 | /mnt/stockage/packages/f11/asunder/po/es.po | 
- | [fr]({{< ref "/f11/language/fr.md" >}}) | 420 | 420 | 100.0 | /mnt/stockage/packages/f11/asunder/po/fr.po | 
- | [hu]({{< ref "/f11/language/hu.md" >}}) | 420 | 420 | 100.0 | /mnt/stockage/packages/f11/asunder/po/hu.po | 
- | [it]({{< ref "/f11/language/it.md" >}}) | 420 | 420 | 100.0 | /mnt/stockage/packages/f11/asunder/po/it.po | 
- | [nl]({{< ref "/f11/language/nl.md" >}}) | 420 | 420 | 100.0 | /mnt/stockage/packages/f11/asunder/po/nl.po | 
- | [pl]({{< ref "/f11/language/pl.md" >}}) | 420 | 420 | 100.0 | /mnt/stockage/packages/f11/asunder/po/pl.po | 
- | [pt_BR]({{< ref "/f11/language/pt_BR.md" >}}) | 420 | 420 | 100.0 | /mnt/stockage/packages/f11/asunder/po/pt_BR.po | 
- | [ru]({{< ref "/f11/language/ru.md" >}}) | 420 | 420 | 100.0 | /mnt/stockage/packages/f11/asunder/po/ru.po | 
- | [sk]({{< ref "/f11/language/sk.md" >}}) | 420 | 420 | 100.0 | /mnt/stockage/packages/f11/asunder/po/sk.po | 
- | [sl]({{< ref "/f11/language/sl.md" >}}) | 420 | 420 | 100.0 | /mnt/stockage/packages/f11/asunder/po/sl.po | 
- | [sq]({{< ref "/f11/language/sq.md" >}}) | 420 | 420 | 100.0 | /mnt/stockage/packages/f11/asunder/po/sq.po | 
- | [sr]({{< ref "/f11/language/sr.md" >}}) | 420 | 420 | 100.0 | /mnt/stockage/packages/f11/asunder/po/sr.po | 
- | [sr_Latn]({{< ref "/f11/language/sr_Latn.md" >}}) | 420 | 420 | 100.0 | /mnt/stockage/packages/f11/asunder/po/sr@latin.po | 
- | [sv]({{< ref "/f11/language/sv.md" >}}) | 420 | 420 | 100.0 | /mnt/stockage/packages/f11/asunder/po/sv.po | 
- | [zh_Hant]({{< ref "/f11/language/zh_Hant.md" >}}) | 420 | 420 | 100.0 | /mnt/stockage/packages/f11/asunder/po/zh_TW.po | 
- | [be_Latn]({{< ref "/f11/language/be_Latn.md" >}}) | 355 | 420 | 84.5 | /mnt/stockage/packages/f11/asunder/po/be@latin.po | 
- | [de]({{< ref "/f11/language/de.md" >}}) | 355 | 420 | 84.5 | /mnt/stockage/packages/f11/asunder/po/de.po | 
- | [ja]({{< ref "/f11/language/ja.md" >}}) | 355 | 420 | 84.5 | /mnt/stockage/packages/f11/asunder/po/ja.po | 
- | [nb_NO]({{< ref "/f11/language/nb_NO.md" >}}) | 355 | 420 | 84.5 | /mnt/stockage/packages/f11/asunder/po/nb.po | 
- | [fi]({{< ref "/f11/language/fi.md" >}}) | 353 | 420 | 84.0 | /mnt/stockage/packages/f11/asunder/po/fi.po | 
- | [pt]({{< ref "/f11/language/pt.md" >}}) | 353 | 420 | 84.0 | /mnt/stockage/packages/f11/asunder/po/pt.po | 
- | [lv]({{< ref "/f11/language/lv.md" >}}) | 349 | 420 | 83.1 | /mnt/stockage/packages/f11/asunder/po/lv.po | 
- | [nn]({{< ref "/f11/language/nn.md" >}}) | 122 | 420 | 29.0 | /mnt/stockage/packages/f11/asunder/po/nn.po | 
+ | [ar](/f11/language/ar) | 420 | 420 | 100.0 | /mnt/stockage/packages/f11/asunder/po/ar.po | 
+ | [bg](/f11/language/bg) | 420 | 420 | 100.0 | /mnt/stockage/packages/f11/asunder/po/bg.po | 
+ | [ca](/f11/language/ca) | 420 | 420 | 100.0 | /mnt/stockage/packages/f11/asunder/po/ca.po | 
+ | [cs](/f11/language/cs) | 420 | 420 | 100.0 | /mnt/stockage/packages/f11/asunder/po/cs.po | 
+ | [el](/f11/language/el) | 420 | 420 | 100.0 | /mnt/stockage/packages/f11/asunder/po/el.po | 
+ | [es](/f11/language/es) | 420 | 420 | 100.0 | /mnt/stockage/packages/f11/asunder/po/es.po | 
+ | [fr](/f11/language/fr) | 420 | 420 | 100.0 | /mnt/stockage/packages/f11/asunder/po/fr.po | 
+ | [hu](/f11/language/hu) | 420 | 420 | 100.0 | /mnt/stockage/packages/f11/asunder/po/hu.po | 
+ | [it](/f11/language/it) | 420 | 420 | 100.0 | /mnt/stockage/packages/f11/asunder/po/it.po | 
+ | [nl](/f11/language/nl) | 420 | 420 | 100.0 | /mnt/stockage/packages/f11/asunder/po/nl.po | 
+ | [pl](/f11/language/pl) | 420 | 420 | 100.0 | /mnt/stockage/packages/f11/asunder/po/pl.po | 
+ | [pt_BR](/f11/language/pt_BR) | 420 | 420 | 100.0 | /mnt/stockage/packages/f11/asunder/po/pt_BR.po | 
+ | [ru](/f11/language/ru) | 420 | 420 | 100.0 | /mnt/stockage/packages/f11/asunder/po/ru.po | 
+ | [sk](/f11/language/sk) | 420 | 420 | 100.0 | /mnt/stockage/packages/f11/asunder/po/sk.po | 
+ | [sl](/f11/language/sl) | 420 | 420 | 100.0 | /mnt/stockage/packages/f11/asunder/po/sl.po | 
+ | [sq](/f11/language/sq) | 420 | 420 | 100.0 | /mnt/stockage/packages/f11/asunder/po/sq.po | 
+ | [sr](/f11/language/sr) | 420 | 420 | 100.0 | /mnt/stockage/packages/f11/asunder/po/sr.po | 
+ | [sr_Latn](/f11/language/sr_Latn) | 420 | 420 | 100.0 | /mnt/stockage/packages/f11/asunder/po/sr@latin.po | 
+ | [sv](/f11/language/sv) | 420 | 420 | 100.0 | /mnt/stockage/packages/f11/asunder/po/sv.po | 
+ | [zh_Hant](/f11/language/zh_Hant) | 420 | 420 | 100.0 | /mnt/stockage/packages/f11/asunder/po/zh_TW.po | 
+ | [be_Latn](/f11/language/be_Latn) | 355 | 420 | 84.5 | /mnt/stockage/packages/f11/asunder/po/be@latin.po | 
+ | [de](/f11/language/de) | 355 | 420 | 84.5 | /mnt/stockage/packages/f11/asunder/po/de.po | 
+ | [ja](/f11/language/ja) | 355 | 420 | 84.5 | /mnt/stockage/packages/f11/asunder/po/ja.po | 
+ | [nb_NO](/f11/language/nb_NO) | 355 | 420 | 84.5 | /mnt/stockage/packages/f11/asunder/po/nb.po | 
+ | [fi](/f11/language/fi) | 353 | 420 | 84.0 | /mnt/stockage/packages/f11/asunder/po/fi.po | 
+ | [pt](/f11/language/pt) | 353 | 420 | 84.0 | /mnt/stockage/packages/f11/asunder/po/pt.po | 
+ | [lv](/f11/language/lv) | 349 | 420 | 83.1 | /mnt/stockage/packages/f11/asunder/po/lv.po | 
+ | [nn](/f11/language/nn) | 122 | 420 | 29.0 | /mnt/stockage/packages/f11/asunder/po/nn.po | 
 {.sortable}
 
 

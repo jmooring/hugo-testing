@@ -18,25 +18,25 @@ The package samba (version 3.5.15):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f15/language/ar.md" >}}) | 198 | 198 | 100.0 | /mnt/stockage/packages/f15/samba/source3/locale/pam_winbind/ar.po | 
- | [cs]({{< ref "/f15/language/cs.md" >}}) | 198 | 198 | 100.0 | /mnt/stockage/packages/f15/samba/source3/locale/pam_winbind/cs.po | 
- | [da]({{< ref "/f15/language/da.md" >}}) | 223 | 223 | 100.0 | /mnt/stockage/packages/f15/samba/source3/locale/pam_winbind/da.po | 
- | [es]({{< ref "/f15/language/es.md" >}}) | 198 | 198 | 100.0 | /mnt/stockage/packages/f15/samba/source3/locale/pam_winbind/es.po | 
- | [fi]({{< ref "/f15/language/fi.md" >}}) | 223 | 223 | 100.0 | /mnt/stockage/packages/f15/samba/source3/locale/pam_winbind/fi.po | 
- | [fr]({{< ref "/f15/language/fr.md" >}}) | 198 | 198 | 100.0 | /mnt/stockage/packages/f15/samba/source3/locale/pam_winbind/fr.po | 
- | [hu]({{< ref "/f15/language/hu.md" >}}) | 198 | 198 | 100.0 | /mnt/stockage/packages/f15/samba/source3/locale/pam_winbind/hu.po | 
- | [it]({{< ref "/f15/language/it.md" >}}) | 198 | 198 | 100.0 | /mnt/stockage/packages/f15/samba/source3/locale/pam_winbind/it.po | 
- | [ja]({{< ref "/f15/language/ja.md" >}}) | 198 | 198 | 100.0 | /mnt/stockage/packages/f15/samba/source3/locale/pam_winbind/ja.po | 
- | [ko]({{< ref "/f15/language/ko.md" >}}) | 198 | 198 | 100.0 | /mnt/stockage/packages/f15/samba/source3/locale/pam_winbind/ko.po | 
- | [nb_NO]({{< ref "/f15/language/nb_NO.md" >}}) | 223 | 223 | 100.0 | /mnt/stockage/packages/f15/samba/source3/locale/pam_winbind/nb.po | 
- | [nl]({{< ref "/f15/language/nl.md" >}}) | 198 | 198 | 100.0 | /mnt/stockage/packages/f15/samba/source3/locale/pam_winbind/nl.po | 
- | [pl]({{< ref "/f15/language/pl.md" >}}) | 198 | 198 | 100.0 | /mnt/stockage/packages/f15/samba/source3/locale/pam_winbind/pl.po | 
- | [pt_BR]({{< ref "/f15/language/pt_BR.md" >}}) | 198 | 198 | 100.0 | /mnt/stockage/packages/f15/samba/source3/locale/pam_winbind/pt_BR.po | 
- | [ru]({{< ref "/f15/language/ru.md" >}}) | 198 | 198 | 100.0 | /mnt/stockage/packages/f15/samba/source3/locale/pam_winbind/ru.po | 
- | [sv]({{< ref "/f15/language/sv.md" >}}) | 198 | 198 | 100.0 | /mnt/stockage/packages/f15/samba/source3/locale/pam_winbind/sv.po | 
- | [zh_Hans]({{< ref "/f15/language/zh_Hans.md" >}}) | 198 | 198 | 100.0 | /mnt/stockage/packages/f15/samba/source3/locale/pam_winbind/zh_CN.po | 
- | [zh_Hant]({{< ref "/f15/language/zh_Hant.md" >}}) | 198 | 198 | 100.0 | /mnt/stockage/packages/f15/samba/source3/locale/pam_winbind/zh_TW.po | 
- | [de]({{< ref "/f15/language/de.md" >}}) | 962 | 12243 | 7.9 | /mnt/stockage/packages/f15/samba/source3/locale/net/de.po/mnt/stockage/packages/f15/samba/source3/locale/pam_winbind/de.po | 
+ | [ar](/f15/language/ar) | 198 | 198 | 100.0 | /mnt/stockage/packages/f15/samba/source3/locale/pam_winbind/ar.po | 
+ | [cs](/f15/language/cs) | 198 | 198 | 100.0 | /mnt/stockage/packages/f15/samba/source3/locale/pam_winbind/cs.po | 
+ | [da](/f15/language/da) | 223 | 223 | 100.0 | /mnt/stockage/packages/f15/samba/source3/locale/pam_winbind/da.po | 
+ | [es](/f15/language/es) | 198 | 198 | 100.0 | /mnt/stockage/packages/f15/samba/source3/locale/pam_winbind/es.po | 
+ | [fi](/f15/language/fi) | 223 | 223 | 100.0 | /mnt/stockage/packages/f15/samba/source3/locale/pam_winbind/fi.po | 
+ | [fr](/f15/language/fr) | 198 | 198 | 100.0 | /mnt/stockage/packages/f15/samba/source3/locale/pam_winbind/fr.po | 
+ | [hu](/f15/language/hu) | 198 | 198 | 100.0 | /mnt/stockage/packages/f15/samba/source3/locale/pam_winbind/hu.po | 
+ | [it](/f15/language/it) | 198 | 198 | 100.0 | /mnt/stockage/packages/f15/samba/source3/locale/pam_winbind/it.po | 
+ | [ja](/f15/language/ja) | 198 | 198 | 100.0 | /mnt/stockage/packages/f15/samba/source3/locale/pam_winbind/ja.po | 
+ | [ko](/f15/language/ko) | 198 | 198 | 100.0 | /mnt/stockage/packages/f15/samba/source3/locale/pam_winbind/ko.po | 
+ | [nb_NO](/f15/language/nb_NO) | 223 | 223 | 100.0 | /mnt/stockage/packages/f15/samba/source3/locale/pam_winbind/nb.po | 
+ | [nl](/f15/language/nl) | 198 | 198 | 100.0 | /mnt/stockage/packages/f15/samba/source3/locale/pam_winbind/nl.po | 
+ | [pl](/f15/language/pl) | 198 | 198 | 100.0 | /mnt/stockage/packages/f15/samba/source3/locale/pam_winbind/pl.po | 
+ | [pt_BR](/f15/language/pt_BR) | 198 | 198 | 100.0 | /mnt/stockage/packages/f15/samba/source3/locale/pam_winbind/pt_BR.po | 
+ | [ru](/f15/language/ru) | 198 | 198 | 100.0 | /mnt/stockage/packages/f15/samba/source3/locale/pam_winbind/ru.po | 
+ | [sv](/f15/language/sv) | 198 | 198 | 100.0 | /mnt/stockage/packages/f15/samba/source3/locale/pam_winbind/sv.po | 
+ | [zh_Hans](/f15/language/zh_Hans) | 198 | 198 | 100.0 | /mnt/stockage/packages/f15/samba/source3/locale/pam_winbind/zh_CN.po | 
+ | [zh_Hant](/f15/language/zh_Hant) | 198 | 198 | 100.0 | /mnt/stockage/packages/f15/samba/source3/locale/pam_winbind/zh_TW.po | 
+ | [de](/f15/language/de) | 962 | 12243 | 7.9 | /mnt/stockage/packages/f15/samba/source3/locale/net/de.po/mnt/stockage/packages/f15/samba/source3/locale/pam_winbind/de.po | 
 {.sortable}
 
 

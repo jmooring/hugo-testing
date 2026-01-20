@@ -38,7 +38,7 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [pgadmin3]({{< ref "/f8/package/pgadmin3.md" >}}) | 1373 | 6195 | 22.2 | urdu <pgadmin-hackers@postgresql.org> | 
+ | [pgadmin3](/f8/package/pgadmin3) | 1373 | 6195 | 22.2 | urdu <pgadmin-hackers@postgresql.org> | 
 {.sortable}
 
 

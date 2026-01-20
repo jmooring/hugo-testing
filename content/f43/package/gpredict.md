@@ -18,21 +18,21 @@ The package gpredict (version 2.2.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f43/language/de.md" >}}) | 6124 | 6124 | 100.0 | /mnt/stockage/packages/f43/gpredict/po/de.po | 
- | [cs]({{< ref "/f43/language/cs.md" >}}) | 5042 | 6124 | 82.3 | /mnt/stockage/packages/f43/gpredict/po/cs.po | 
- | [en_GB]({{< ref "/f43/language/en_GB.md" >}}) | 5042 | 6124 | 82.3 | /mnt/stockage/packages/f43/gpredict/po/en_GB.po | 
- | [es]({{< ref "/f43/language/es.md" >}}) | 3873 | 6124 | 63.2 | /mnt/stockage/packages/f43/gpredict/po/es.po | 
- | [ru]({{< ref "/f43/language/ru.md" >}}) | 3027 | 6124 | 49.4 | /mnt/stockage/packages/f43/gpredict/po/ru.po | 
- | [fr]({{< ref "/f43/language/fr.md" >}}) | 2581 | 6124 | 42.1 | /mnt/stockage/packages/f43/gpredict/po/fr.po | 
- | [lt]({{< ref "/f43/language/lt.md" >}}) | 1886 | 6124 | 30.8 | /mnt/stockage/packages/f43/gpredict/po/lt.po | 
- | [da]({{< ref "/f43/language/da.md" >}}) | 1389 | 6124 | 22.7 | /mnt/stockage/packages/f43/gpredict/po/da.po | 
- | [it]({{< ref "/f43/language/it.md" >}}) | 1082 | 6124 | 17.7 | /mnt/stockage/packages/f43/gpredict/po/it.po | 
- | [fi]({{< ref "/f43/language/fi.md" >}}) | 805 | 6124 | 13.1 | /mnt/stockage/packages/f43/gpredict/po/fi.po | 
- | [el]({{< ref "/f43/language/el.md" >}}) | 482 | 6124 | 7.9 | /mnt/stockage/packages/f43/gpredict/po/el.po | 
- | [id]({{< ref "/f43/language/id.md" >}}) | 329 | 6124 | 5.4 | /mnt/stockage/packages/f43/gpredict/po/id.po | 
- | [th]({{< ref "/f43/language/th.md" >}}) | 67 | 6124 | 1.1 | /mnt/stockage/packages/f43/gpredict/po/th.po | 
- | [uk]({{< ref "/f43/language/uk.md" >}}) | 45 | 6124 | 0.7 | /mnt/stockage/packages/f43/gpredict/po/uk.po | 
- | [en_US]({{< ref "/f43/language/en_US.md" >}}) | 0 | 6124 | 0.0 | /mnt/stockage/packages/f43/gpredict/po/en_US.po | 
+ | [de](/f43/language/de) | 6124 | 6124 | 100.0 | /mnt/stockage/packages/f43/gpredict/po/de.po | 
+ | [cs](/f43/language/cs) | 5042 | 6124 | 82.3 | /mnt/stockage/packages/f43/gpredict/po/cs.po | 
+ | [en_GB](/f43/language/en_GB) | 5042 | 6124 | 82.3 | /mnt/stockage/packages/f43/gpredict/po/en_GB.po | 
+ | [es](/f43/language/es) | 3873 | 6124 | 63.2 | /mnt/stockage/packages/f43/gpredict/po/es.po | 
+ | [ru](/f43/language/ru) | 3027 | 6124 | 49.4 | /mnt/stockage/packages/f43/gpredict/po/ru.po | 
+ | [fr](/f43/language/fr) | 2581 | 6124 | 42.1 | /mnt/stockage/packages/f43/gpredict/po/fr.po | 
+ | [lt](/f43/language/lt) | 1886 | 6124 | 30.8 | /mnt/stockage/packages/f43/gpredict/po/lt.po | 
+ | [da](/f43/language/da) | 1389 | 6124 | 22.7 | /mnt/stockage/packages/f43/gpredict/po/da.po | 
+ | [it](/f43/language/it) | 1082 | 6124 | 17.7 | /mnt/stockage/packages/f43/gpredict/po/it.po | 
+ | [fi](/f43/language/fi) | 805 | 6124 | 13.1 | /mnt/stockage/packages/f43/gpredict/po/fi.po | 
+ | [el](/f43/language/el) | 482 | 6124 | 7.9 | /mnt/stockage/packages/f43/gpredict/po/el.po | 
+ | [id](/f43/language/id) | 329 | 6124 | 5.4 | /mnt/stockage/packages/f43/gpredict/po/id.po | 
+ | [th](/f43/language/th) | 67 | 6124 | 1.1 | /mnt/stockage/packages/f43/gpredict/po/th.po | 
+ | [uk](/f43/language/uk) | 45 | 6124 | 0.7 | /mnt/stockage/packages/f43/gpredict/po/uk.po | 
+ | [en_US](/f43/language/en_US) | 0 | 6124 | 0.0 | /mnt/stockage/packages/f43/gpredict/po/en_US.po | 
 {.sortable}
 
 

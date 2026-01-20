@@ -38,9 +38,9 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [alacarte]({{< ref "/f17/package/alacarte.md" >}}) | 42 | 42 | 100.0 | Bodo <brx@li.org> | 
- | [libreoffice]({{< ref "/f17/package/libreoffice.md" >}}) | 59605 | 93282 | 63.9 | LANGUAGE <LL@li.org> | 
- | [iok]({{< ref "/f17/package/iok.md" >}}) | 87 | 206 | 42.2 | Bodo <LL@li.org> | 
+ | [alacarte](/f17/package/alacarte) | 42 | 42 | 100.0 | Bodo <brx@li.org> | 
+ | [libreoffice](/f17/package/libreoffice) | 59605 | 93282 | 63.9 | LANGUAGE <LL@li.org> | 
+ | [iok](/f17/package/iok) | 87 | 206 | 42.2 | Bodo <LL@li.org> | 
 {.sortable}
 
 

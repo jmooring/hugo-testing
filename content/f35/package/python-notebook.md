@@ -18,11 +18,11 @@ The package python-notebook (version 6.4.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [nl]({{< ref "/f35/language/nl.md" >}}) | 3854 | 3854 | 100.0 | /mnt/stockage/packages/f35/python-notebook/notebook/i18n/nl/LC_MESSAGES/nbjs.po/mnt/stockage/packages/f35/python-notebook/notebook/i18n/nl/LC_MESSAGES/nbui.po/mnt/stockage/packages/f35/python-notebook/notebook/i18n/nl/LC_MESSAGES/notebook.po | 
- | [ru]({{< ref "/f35/language/ru.md" >}}) | 3852 | 3852 | 100.0 | /mnt/stockage/packages/f35/python-notebook/notebook/i18n/ru_RU/LC_MESSAGES/nbjs.po/mnt/stockage/packages/f35/python-notebook/notebook/i18n/ru_RU/LC_MESSAGES/nbui.po/mnt/stockage/packages/f35/python-notebook/notebook/i18n/ru_RU/LC_MESSAGES/notebook.po | 
- | [ja]({{< ref "/f35/language/ja.md" >}}) | 3737 | 3859 | 96.8 | /mnt/stockage/packages/f35/python-notebook/notebook/i18n/ja_JP/LC_MESSAGES/nbjs.po/mnt/stockage/packages/f35/python-notebook/notebook/i18n/ja_JP/LC_MESSAGES/nbui.po/mnt/stockage/packages/f35/python-notebook/notebook/i18n/ja_JP/LC_MESSAGES/notebook.po | 
- | [zh_Hans]({{< ref "/f35/language/zh_Hans.md" >}}) | 3458 | 3926 | 88.1 | /mnt/stockage/packages/f35/python-notebook/notebook/i18n/zh_CN/LC_MESSAGES/nbjs.po/mnt/stockage/packages/f35/python-notebook/notebook/i18n/zh_CN/LC_MESSAGES/nbui.po/mnt/stockage/packages/f35/python-notebook/notebook/i18n/zh_CN/LC_MESSAGES/notebook.po | 
- | [fr]({{< ref "/f35/language/fr.md" >}}) | 2924 | 3854 | 75.9 | /mnt/stockage/packages/f35/python-notebook/notebook/i18n/fr_FR/LC_MESSAGES/nbjs.po/mnt/stockage/packages/f35/python-notebook/notebook/i18n/fr_FR/LC_MESSAGES/nbui.po/mnt/stockage/packages/f35/python-notebook/notebook/i18n/fr_FR/LC_MESSAGES/notebook.po | 
+ | [nl](/f35/language/nl) | 3854 | 3854 | 100.0 | /mnt/stockage/packages/f35/python-notebook/notebook/i18n/nl/LC_MESSAGES/nbjs.po/mnt/stockage/packages/f35/python-notebook/notebook/i18n/nl/LC_MESSAGES/nbui.po/mnt/stockage/packages/f35/python-notebook/notebook/i18n/nl/LC_MESSAGES/notebook.po | 
+ | [ru](/f35/language/ru) | 3852 | 3852 | 100.0 | /mnt/stockage/packages/f35/python-notebook/notebook/i18n/ru_RU/LC_MESSAGES/nbjs.po/mnt/stockage/packages/f35/python-notebook/notebook/i18n/ru_RU/LC_MESSAGES/nbui.po/mnt/stockage/packages/f35/python-notebook/notebook/i18n/ru_RU/LC_MESSAGES/notebook.po | 
+ | [ja](/f35/language/ja) | 3737 | 3859 | 96.8 | /mnt/stockage/packages/f35/python-notebook/notebook/i18n/ja_JP/LC_MESSAGES/nbjs.po/mnt/stockage/packages/f35/python-notebook/notebook/i18n/ja_JP/LC_MESSAGES/nbui.po/mnt/stockage/packages/f35/python-notebook/notebook/i18n/ja_JP/LC_MESSAGES/notebook.po | 
+ | [zh_Hans](/f35/language/zh_Hans) | 3458 | 3926 | 88.1 | /mnt/stockage/packages/f35/python-notebook/notebook/i18n/zh_CN/LC_MESSAGES/nbjs.po/mnt/stockage/packages/f35/python-notebook/notebook/i18n/zh_CN/LC_MESSAGES/nbui.po/mnt/stockage/packages/f35/python-notebook/notebook/i18n/zh_CN/LC_MESSAGES/notebook.po | 
+ | [fr](/f35/language/fr) | 2924 | 3854 | 75.9 | /mnt/stockage/packages/f35/python-notebook/notebook/i18n/fr_FR/LC_MESSAGES/nbjs.po/mnt/stockage/packages/f35/python-notebook/notebook/i18n/fr_FR/LC_MESSAGES/nbui.po/mnt/stockage/packages/f35/python-notebook/notebook/i18n/fr_FR/LC_MESSAGES/notebook.po | 
 {.sortable}
 
 

@@ -18,19 +18,19 @@ The package audacious-plugins (version 2.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f13/language/cs.md" >}}) | 8929 | 8929 | 100.0 | /mnt/stockage/packages/f13/audacious-plugins/po/cs.po | 
- | [eu]({{< ref "/f13/language/eu.md" >}}) | 7545 | 7545 | 100.0 | /mnt/stockage/packages/f13/audacious-plugins/po/eu.po | 
- | [fr]({{< ref "/f13/language/fr.md" >}}) | 9061 | 9061 | 100.0 | /mnt/stockage/packages/f13/audacious-plugins/po/fr.po | 
- | [ru]({{< ref "/f13/language/ru.md" >}}) | 8912 | 8912 | 100.0 | /mnt/stockage/packages/f13/audacious-plugins/po/ru.po | 
- | [lv]({{< ref "/f13/language/lv.md" >}}) | 8814 | 8861 | 99.5 | /mnt/stockage/packages/f13/audacious-plugins/po/lv.po | 
- | [ca]({{< ref "/f13/language/ca.md" >}}) | 6445 | 8861 | 72.7 | /mnt/stockage/packages/f13/audacious-plugins/po/ca.po | 
- | [ja]({{< ref "/f13/language/ja.md" >}}) | 6445 | 8861 | 72.7 | /mnt/stockage/packages/f13/audacious-plugins/po/ja.po | 
- | [tr]({{< ref "/f13/language/tr.md" >}}) | 5207 | 8861 | 58.8 | /mnt/stockage/packages/f13/audacious-plugins/po/tr.po | 
- | [sk]({{< ref "/f13/language/sk.md" >}}) | 2842 | 8861 | 32.1 | /mnt/stockage/packages/f13/audacious-plugins/po/sk.po | 
- | [de]({{< ref "/f13/language/de.md" >}}) | 2434 | 8861 | 27.5 | /mnt/stockage/packages/f13/audacious-plugins/po/de.po | 
- | [et]({{< ref "/f13/language/et.md" >}}) | 959 | 8861 | 10.8 | /mnt/stockage/packages/f13/audacious-plugins/po/et.po | 
- | [cy]({{< ref "/f13/language/cy.md" >}}) | 937 | 8861 | 10.6 | /mnt/stockage/packages/f13/audacious-plugins/po/cy.po | 
- | [ro]({{< ref "/f13/language/ro.md" >}}) | 884 | 8861 | 10.0 | /mnt/stockage/packages/f13/audacious-plugins/po/ro.po | 
+ | [cs](/f13/language/cs) | 8929 | 8929 | 100.0 | /mnt/stockage/packages/f13/audacious-plugins/po/cs.po | 
+ | [eu](/f13/language/eu) | 7545 | 7545 | 100.0 | /mnt/stockage/packages/f13/audacious-plugins/po/eu.po | 
+ | [fr](/f13/language/fr) | 9061 | 9061 | 100.0 | /mnt/stockage/packages/f13/audacious-plugins/po/fr.po | 
+ | [ru](/f13/language/ru) | 8912 | 8912 | 100.0 | /mnt/stockage/packages/f13/audacious-plugins/po/ru.po | 
+ | [lv](/f13/language/lv) | 8814 | 8861 | 99.5 | /mnt/stockage/packages/f13/audacious-plugins/po/lv.po | 
+ | [ca](/f13/language/ca) | 6445 | 8861 | 72.7 | /mnt/stockage/packages/f13/audacious-plugins/po/ca.po | 
+ | [ja](/f13/language/ja) | 6445 | 8861 | 72.7 | /mnt/stockage/packages/f13/audacious-plugins/po/ja.po | 
+ | [tr](/f13/language/tr) | 5207 | 8861 | 58.8 | /mnt/stockage/packages/f13/audacious-plugins/po/tr.po | 
+ | [sk](/f13/language/sk) | 2842 | 8861 | 32.1 | /mnt/stockage/packages/f13/audacious-plugins/po/sk.po | 
+ | [de](/f13/language/de) | 2434 | 8861 | 27.5 | /mnt/stockage/packages/f13/audacious-plugins/po/de.po | 
+ | [et](/f13/language/et) | 959 | 8861 | 10.8 | /mnt/stockage/packages/f13/audacious-plugins/po/et.po | 
+ | [cy](/f13/language/cy) | 937 | 8861 | 10.6 | /mnt/stockage/packages/f13/audacious-plugins/po/cy.po | 
+ | [ro](/f13/language/ro) | 884 | 8861 | 10.0 | /mnt/stockage/packages/f13/audacious-plugins/po/ro.po | 
 {.sortable}
 
 

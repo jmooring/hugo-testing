@@ -38,8 +38,8 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [tuxpaint]({{< ref "/f13/package/tuxpaint.md" >}}) | 34 | 1247 | 2.7 | Bill Kendrick <nbs@sonic.net> | 
- | [bittorrent]({{< ref "/f13/package/bittorrent.md" >}}) | 13 | 3906 | 0.3 | LANGUAGE <LL@li.org> | 
+ | [tuxpaint](/f13/package/tuxpaint) | 34 | 1247 | 2.7 | Bill Kendrick <nbs@sonic.net> | 
+ | [bittorrent](/f13/package/bittorrent) | 13 | 3906 | 0.3 | LANGUAGE <LL@li.org> | 
 {.sortable}
 
 

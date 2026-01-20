@@ -18,32 +18,32 @@ The package util-linux (version 2.28.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f25/language/cs.md" >}}) | 21780 | 21819 | 99.8 | /mnt/stockage/packages/f25/util-linux/po/cs.po | 
- | [de]({{< ref "/f25/language/de.md" >}}) | 21780 | 21819 | 99.8 | /mnt/stockage/packages/f25/util-linux/po/de.po | 
- | [es]({{< ref "/f25/language/es.md" >}}) | 21780 | 21819 | 99.8 | /mnt/stockage/packages/f25/util-linux/po/es.po | 
- | [pl]({{< ref "/f25/language/pl.md" >}}) | 21780 | 21819 | 99.8 | /mnt/stockage/packages/f25/util-linux/po/pl.po | 
- | [pt_BR]({{< ref "/f25/language/pt_BR.md" >}}) | 21780 | 21819 | 99.8 | /mnt/stockage/packages/f25/util-linux/po/pt_BR.po | 
- | [sv]({{< ref "/f25/language/sv.md" >}}) | 21780 | 21819 | 99.8 | /mnt/stockage/packages/f25/util-linux/po/sv.po | 
- | [uk]({{< ref "/f25/language/uk.md" >}}) | 21780 | 21819 | 99.8 | /mnt/stockage/packages/f25/util-linux/po/uk.po | 
- | [nl]({{< ref "/f25/language/nl.md" >}}) | 20290 | 21819 | 93.0 | /mnt/stockage/packages/f25/util-linux/po/nl.po | 
- | [fr]({{< ref "/f25/language/fr.md" >}}) | 19369 | 21819 | 88.8 | /mnt/stockage/packages/f25/util-linux/po/fr.po | 
- | [vi]({{< ref "/f25/language/vi.md" >}}) | 19369 | 21819 | 88.8 | /mnt/stockage/packages/f25/util-linux/po/vi.po | 
- | [da]({{< ref "/f25/language/da.md" >}}) | 19364 | 21819 | 88.7 | /mnt/stockage/packages/f25/util-linux/po/da.po | 
- | [ja]({{< ref "/f25/language/ja.md" >}}) | 18141 | 21819 | 83.1 | /mnt/stockage/packages/f25/util-linux/po/ja.po | 
- | [zh_Hans]({{< ref "/f25/language/zh_Hans.md" >}}) | 17213 | 21819 | 78.9 | /mnt/stockage/packages/f25/util-linux/po/zh_CN.po | 
- | [ru]({{< ref "/f25/language/ru.md" >}}) | 9368 | 21819 | 42.9 | /mnt/stockage/packages/f25/util-linux/po/ru.po | 
- | [fi]({{< ref "/f25/language/fi.md" >}}) | 4494 | 21819 | 20.6 | /mnt/stockage/packages/f25/util-linux/po/fi.po | 
- | [zh_Hant]({{< ref "/f25/language/zh_Hant.md" >}}) | 3170 | 21819 | 14.5 | /mnt/stockage/packages/f25/util-linux/po/zh_TW.po | 
- | [id]({{< ref "/f25/language/id.md" >}}) | 2832 | 21819 | 13.0 | /mnt/stockage/packages/f25/util-linux/po/id.po | 
- | [hu]({{< ref "/f25/language/hu.md" >}}) | 2421 | 21819 | 11.1 | /mnt/stockage/packages/f25/util-linux/po/hu.po | 
- | [ca]({{< ref "/f25/language/ca.md" >}}) | 1904 | 21819 | 8.7 | /mnt/stockage/packages/f25/util-linux/po/ca.po | 
- | [tr]({{< ref "/f25/language/tr.md" >}}) | 1904 | 21819 | 8.7 | /mnt/stockage/packages/f25/util-linux/po/tr.po | 
- | [sl]({{< ref "/f25/language/sl.md" >}}) | 1893 | 21819 | 8.7 | /mnt/stockage/packages/f25/util-linux/po/sl.po | 
- | [it]({{< ref "/f25/language/it.md" >}}) | 1742 | 21819 | 8.0 | /mnt/stockage/packages/f25/util-linux/po/it.po | 
- | [hr]({{< ref "/f25/language/hr.md" >}}) | 1311 | 21819 | 6.0 | /mnt/stockage/packages/f25/util-linux/po/hr.po | 
- | [et]({{< ref "/f25/language/et.md" >}}) | 1268 | 21819 | 5.8 | /mnt/stockage/packages/f25/util-linux/po/et.po | 
- | [eu]({{< ref "/f25/language/eu.md" >}}) | 871 | 21819 | 4.0 | /mnt/stockage/packages/f25/util-linux/po/eu.po | 
- | [gl]({{< ref "/f25/language/gl.md" >}}) | 787 | 21819 | 3.6 | /mnt/stockage/packages/f25/util-linux/po/gl.po | 
+ | [cs](/f25/language/cs) | 21780 | 21819 | 99.8 | /mnt/stockage/packages/f25/util-linux/po/cs.po | 
+ | [de](/f25/language/de) | 21780 | 21819 | 99.8 | /mnt/stockage/packages/f25/util-linux/po/de.po | 
+ | [es](/f25/language/es) | 21780 | 21819 | 99.8 | /mnt/stockage/packages/f25/util-linux/po/es.po | 
+ | [pl](/f25/language/pl) | 21780 | 21819 | 99.8 | /mnt/stockage/packages/f25/util-linux/po/pl.po | 
+ | [pt_BR](/f25/language/pt_BR) | 21780 | 21819 | 99.8 | /mnt/stockage/packages/f25/util-linux/po/pt_BR.po | 
+ | [sv](/f25/language/sv) | 21780 | 21819 | 99.8 | /mnt/stockage/packages/f25/util-linux/po/sv.po | 
+ | [uk](/f25/language/uk) | 21780 | 21819 | 99.8 | /mnt/stockage/packages/f25/util-linux/po/uk.po | 
+ | [nl](/f25/language/nl) | 20290 | 21819 | 93.0 | /mnt/stockage/packages/f25/util-linux/po/nl.po | 
+ | [fr](/f25/language/fr) | 19369 | 21819 | 88.8 | /mnt/stockage/packages/f25/util-linux/po/fr.po | 
+ | [vi](/f25/language/vi) | 19369 | 21819 | 88.8 | /mnt/stockage/packages/f25/util-linux/po/vi.po | 
+ | [da](/f25/language/da) | 19364 | 21819 | 88.7 | /mnt/stockage/packages/f25/util-linux/po/da.po | 
+ | [ja](/f25/language/ja) | 18141 | 21819 | 83.1 | /mnt/stockage/packages/f25/util-linux/po/ja.po | 
+ | [zh_Hans](/f25/language/zh_Hans) | 17213 | 21819 | 78.9 | /mnt/stockage/packages/f25/util-linux/po/zh_CN.po | 
+ | [ru](/f25/language/ru) | 9368 | 21819 | 42.9 | /mnt/stockage/packages/f25/util-linux/po/ru.po | 
+ | [fi](/f25/language/fi) | 4494 | 21819 | 20.6 | /mnt/stockage/packages/f25/util-linux/po/fi.po | 
+ | [zh_Hant](/f25/language/zh_Hant) | 3170 | 21819 | 14.5 | /mnt/stockage/packages/f25/util-linux/po/zh_TW.po | 
+ | [id](/f25/language/id) | 2832 | 21819 | 13.0 | /mnt/stockage/packages/f25/util-linux/po/id.po | 
+ | [hu](/f25/language/hu) | 2421 | 21819 | 11.1 | /mnt/stockage/packages/f25/util-linux/po/hu.po | 
+ | [ca](/f25/language/ca) | 1904 | 21819 | 8.7 | /mnt/stockage/packages/f25/util-linux/po/ca.po | 
+ | [tr](/f25/language/tr) | 1904 | 21819 | 8.7 | /mnt/stockage/packages/f25/util-linux/po/tr.po | 
+ | [sl](/f25/language/sl) | 1893 | 21819 | 8.7 | /mnt/stockage/packages/f25/util-linux/po/sl.po | 
+ | [it](/f25/language/it) | 1742 | 21819 | 8.0 | /mnt/stockage/packages/f25/util-linux/po/it.po | 
+ | [hr](/f25/language/hr) | 1311 | 21819 | 6.0 | /mnt/stockage/packages/f25/util-linux/po/hr.po | 
+ | [et](/f25/language/et) | 1268 | 21819 | 5.8 | /mnt/stockage/packages/f25/util-linux/po/et.po | 
+ | [eu](/f25/language/eu) | 871 | 21819 | 4.0 | /mnt/stockage/packages/f25/util-linux/po/eu.po | 
+ | [gl](/f25/language/gl) | 787 | 21819 | 3.6 | /mnt/stockage/packages/f25/util-linux/po/gl.po | 
 {.sortable}
 
 

@@ -18,35 +18,35 @@ The package gnome-multi-writer (version 3.24.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [bs]({{< ref "/f26/language/bs.md" >}}) | 387 | 387 | 100.0 | /mnt/stockage/packages/f26/gnome-multi-writer/po/bs.po | 
- | [cs]({{< ref "/f26/language/cs.md" >}}) | 387 | 387 | 100.0 | /mnt/stockage/packages/f26/gnome-multi-writer/po/cs.po | 
- | [de]({{< ref "/f26/language/de.md" >}}) | 387 | 387 | 100.0 | /mnt/stockage/packages/f26/gnome-multi-writer/po/de.po | 
- | [el]({{< ref "/f26/language/el.md" >}}) | 387 | 387 | 100.0 | /mnt/stockage/packages/f26/gnome-multi-writer/po/el.po | 
- | [en_GB]({{< ref "/f26/language/en_GB.md" >}}) | 344 | 344 | 100.0 | /mnt/stockage/packages/f26/gnome-multi-writer/po/en_GB.po | 
- | [es]({{< ref "/f26/language/es.md" >}}) | 387 | 387 | 100.0 | /mnt/stockage/packages/f26/gnome-multi-writer/po/es.po | 
- | [fa]({{< ref "/f26/language/fa.md" >}}) | 344 | 344 | 100.0 | /mnt/stockage/packages/f26/gnome-multi-writer/po/fa.po | 
- | [fr]({{< ref "/f26/language/fr.md" >}}) | 387 | 387 | 100.0 | /mnt/stockage/packages/f26/gnome-multi-writer/po/fr.po | 
- | [fur]({{< ref "/f26/language/fur.md" >}}) | 387 | 387 | 100.0 | /mnt/stockage/packages/f26/gnome-multi-writer/po/fur.po | 
- | [hu]({{< ref "/f26/language/hu.md" >}}) | 387 | 387 | 100.0 | /mnt/stockage/packages/f26/gnome-multi-writer/po/hu.po | 
- | [id]({{< ref "/f26/language/id.md" >}}) | 387 | 387 | 100.0 | /mnt/stockage/packages/f26/gnome-multi-writer/po/id.po | 
- | [it]({{< ref "/f26/language/it.md" >}}) | 387 | 387 | 100.0 | /mnt/stockage/packages/f26/gnome-multi-writer/po/it.po | 
- | [nl]({{< ref "/f26/language/nl.md" >}}) | 344 | 344 | 100.0 | /mnt/stockage/packages/f26/gnome-multi-writer/po/nl.po | 
- | [pl]({{< ref "/f26/language/pl.md" >}}) | 387 | 387 | 100.0 | /mnt/stockage/packages/f26/gnome-multi-writer/po/pl.po | 
- | [pt]({{< ref "/f26/language/pt.md" >}}) | 387 | 387 | 100.0 | /mnt/stockage/packages/f26/gnome-multi-writer/po/pt.po | 
- | [pt_BR]({{< ref "/f26/language/pt_BR.md" >}}) | 387 | 387 | 100.0 | /mnt/stockage/packages/f26/gnome-multi-writer/po/pt_BR.po | 
- | [sk]({{< ref "/f26/language/sk.md" >}}) | 387 | 387 | 100.0 | /mnt/stockage/packages/f26/gnome-multi-writer/po/sk.po | 
- | [sr]({{< ref "/f26/language/sr.md" >}}) | 774 | 774 | 100.0 | /mnt/stockage/packages/f26/gnome-multi-writer/po/sr@latin.po/mnt/stockage/packages/f26/gnome-multi-writer/po/sr.po | 
- | [sv]({{< ref "/f26/language/sv.md" >}}) | 387 | 387 | 100.0 | /mnt/stockage/packages/f26/gnome-multi-writer/po/sv.po | 
- | [tr]({{< ref "/f26/language/tr.md" >}}) | 387 | 387 | 100.0 | /mnt/stockage/packages/f26/gnome-multi-writer/po/tr.po | 
- | [uk]({{< ref "/f26/language/uk.md" >}}) | 347 | 347 | 100.0 | /mnt/stockage/packages/f26/gnome-multi-writer/po/uk.po | 
- | [zh_Hant]({{< ref "/f26/language/zh_Hant.md" >}}) | 387 | 387 | 100.0 | /mnt/stockage/packages/f26/gnome-multi-writer/po/zh_TW.po | 
- | [oc]({{< ref "/f26/language/oc.md" >}}) | 350 | 387 | 90.4 | /mnt/stockage/packages/f26/gnome-multi-writer/po/oc.po | 
- | [fi]({{< ref "/f26/language/fi.md" >}}) | 333 | 387 | 86.0 | /mnt/stockage/packages/f26/gnome-multi-writer/po/fi.po | 
- | [he]({{< ref "/f26/language/he.md" >}}) | 307 | 387 | 79.3 | /mnt/stockage/packages/f26/gnome-multi-writer/po/he.po | 
- | [ru]({{< ref "/f26/language/ru.md" >}}) | 240 | 344 | 69.8 | /mnt/stockage/packages/f26/gnome-multi-writer/po/ru.po | 
- | [gl]({{< ref "/f26/language/gl.md" >}}) | 126 | 344 | 36.6 | /mnt/stockage/packages/f26/gnome-multi-writer/po/gl.po | 
- | [ca]({{< ref "/f26/language/ca.md" >}}) | 126 | 387 | 32.6 | /mnt/stockage/packages/f26/gnome-multi-writer/po/ca.po | 
- | [sl]({{< ref "/f26/language/sl.md" >}}) | 12 | 387 | 3.1 | /mnt/stockage/packages/f26/gnome-multi-writer/po/sl.po | 
+ | [bs](/f26/language/bs) | 387 | 387 | 100.0 | /mnt/stockage/packages/f26/gnome-multi-writer/po/bs.po | 
+ | [cs](/f26/language/cs) | 387 | 387 | 100.0 | /mnt/stockage/packages/f26/gnome-multi-writer/po/cs.po | 
+ | [de](/f26/language/de) | 387 | 387 | 100.0 | /mnt/stockage/packages/f26/gnome-multi-writer/po/de.po | 
+ | [el](/f26/language/el) | 387 | 387 | 100.0 | /mnt/stockage/packages/f26/gnome-multi-writer/po/el.po | 
+ | [en_GB](/f26/language/en_GB) | 344 | 344 | 100.0 | /mnt/stockage/packages/f26/gnome-multi-writer/po/en_GB.po | 
+ | [es](/f26/language/es) | 387 | 387 | 100.0 | /mnt/stockage/packages/f26/gnome-multi-writer/po/es.po | 
+ | [fa](/f26/language/fa) | 344 | 344 | 100.0 | /mnt/stockage/packages/f26/gnome-multi-writer/po/fa.po | 
+ | [fr](/f26/language/fr) | 387 | 387 | 100.0 | /mnt/stockage/packages/f26/gnome-multi-writer/po/fr.po | 
+ | [fur](/f26/language/fur) | 387 | 387 | 100.0 | /mnt/stockage/packages/f26/gnome-multi-writer/po/fur.po | 
+ | [hu](/f26/language/hu) | 387 | 387 | 100.0 | /mnt/stockage/packages/f26/gnome-multi-writer/po/hu.po | 
+ | [id](/f26/language/id) | 387 | 387 | 100.0 | /mnt/stockage/packages/f26/gnome-multi-writer/po/id.po | 
+ | [it](/f26/language/it) | 387 | 387 | 100.0 | /mnt/stockage/packages/f26/gnome-multi-writer/po/it.po | 
+ | [nl](/f26/language/nl) | 344 | 344 | 100.0 | /mnt/stockage/packages/f26/gnome-multi-writer/po/nl.po | 
+ | [pl](/f26/language/pl) | 387 | 387 | 100.0 | /mnt/stockage/packages/f26/gnome-multi-writer/po/pl.po | 
+ | [pt](/f26/language/pt) | 387 | 387 | 100.0 | /mnt/stockage/packages/f26/gnome-multi-writer/po/pt.po | 
+ | [pt_BR](/f26/language/pt_BR) | 387 | 387 | 100.0 | /mnt/stockage/packages/f26/gnome-multi-writer/po/pt_BR.po | 
+ | [sk](/f26/language/sk) | 387 | 387 | 100.0 | /mnt/stockage/packages/f26/gnome-multi-writer/po/sk.po | 
+ | [sr](/f26/language/sr) | 774 | 774 | 100.0 | /mnt/stockage/packages/f26/gnome-multi-writer/po/sr@latin.po/mnt/stockage/packages/f26/gnome-multi-writer/po/sr.po | 
+ | [sv](/f26/language/sv) | 387 | 387 | 100.0 | /mnt/stockage/packages/f26/gnome-multi-writer/po/sv.po | 
+ | [tr](/f26/language/tr) | 387 | 387 | 100.0 | /mnt/stockage/packages/f26/gnome-multi-writer/po/tr.po | 
+ | [uk](/f26/language/uk) | 347 | 347 | 100.0 | /mnt/stockage/packages/f26/gnome-multi-writer/po/uk.po | 
+ | [zh_Hant](/f26/language/zh_Hant) | 387 | 387 | 100.0 | /mnt/stockage/packages/f26/gnome-multi-writer/po/zh_TW.po | 
+ | [oc](/f26/language/oc) | 350 | 387 | 90.4 | /mnt/stockage/packages/f26/gnome-multi-writer/po/oc.po | 
+ | [fi](/f26/language/fi) | 333 | 387 | 86.0 | /mnt/stockage/packages/f26/gnome-multi-writer/po/fi.po | 
+ | [he](/f26/language/he) | 307 | 387 | 79.3 | /mnt/stockage/packages/f26/gnome-multi-writer/po/he.po | 
+ | [ru](/f26/language/ru) | 240 | 344 | 69.8 | /mnt/stockage/packages/f26/gnome-multi-writer/po/ru.po | 
+ | [gl](/f26/language/gl) | 126 | 344 | 36.6 | /mnt/stockage/packages/f26/gnome-multi-writer/po/gl.po | 
+ | [ca](/f26/language/ca) | 126 | 387 | 32.6 | /mnt/stockage/packages/f26/gnome-multi-writer/po/ca.po | 
+ | [sl](/f26/language/sl) | 12 | 387 | 3.1 | /mnt/stockage/packages/f26/gnome-multi-writer/po/sl.po | 
 {.sortable}
 
 

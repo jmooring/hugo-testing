@@ -18,63 +18,63 @@ The package calls (version 49.1.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f43/language/ar.md" >}}) | 473 | 473 | 100.0 | /mnt/stockage/packages/f43/calls/po/ar.po | 
- | [be]({{< ref "/f43/language/be.md" >}}) | 14 | 14 | 100.0 | /mnt/stockage/packages/f43/calls/po/be.po | 
- | [bg]({{< ref "/f43/language/bg.md" >}}) | 474 | 474 | 100.0 | /mnt/stockage/packages/f43/calls/po/bg.po | 
- | [ca]({{< ref "/f43/language/ca.md" >}}) | 41 | 41 | 100.0 | /mnt/stockage/packages/f43/calls/po/ca.po | 
- | [cs]({{< ref "/f43/language/cs.md" >}}) | 44 | 44 | 100.0 | /mnt/stockage/packages/f43/calls/po/cs.po | 
- | [da]({{< ref "/f43/language/da.md" >}}) | 473 | 473 | 100.0 | /mnt/stockage/packages/f43/calls/po/da.po | 
- | [de]({{< ref "/f43/language/de.md" >}}) | 44 | 44 | 100.0 | /mnt/stockage/packages/f43/calls/po/de.po | 
- | [el]({{< ref "/f43/language/el.md" >}}) | 43 | 43 | 100.0 | /mnt/stockage/packages/f43/calls/po/el.po | 
- | [en_GB]({{< ref "/f43/language/en_GB.md" >}}) | 473 | 473 | 100.0 | /mnt/stockage/packages/f43/calls/po/en_GB.po | 
- | [eo]({{< ref "/f43/language/eo.md" >}}) | 465 | 465 | 100.0 | /mnt/stockage/packages/f43/calls/po/eo.po | 
- | [es]({{< ref "/f43/language/es.md" >}}) | 44 | 44 | 100.0 | /mnt/stockage/packages/f43/calls/po/es.po | 
- | [eu]({{< ref "/f43/language/eu.md" >}}) | 41 | 41 | 100.0 | /mnt/stockage/packages/f43/calls/po/eu.po | 
- | [fa]({{< ref "/f43/language/fa.md" >}}) | 44 | 44 | 100.0 | /mnt/stockage/packages/f43/calls/po/fa.po | 
- | [fi]({{< ref "/f43/language/fi.md" >}}) | 44 | 44 | 100.0 | /mnt/stockage/packages/f43/calls/po/fi.po | 
- | [fil]({{< ref "/f43/language/fil.md" >}}) | 465 | 465 | 100.0 | /mnt/stockage/packages/f43/calls/po/fil.po | 
- | [fr]({{< ref "/f43/language/fr.md" >}}) | 39 | 39 | 100.0 | /mnt/stockage/packages/f43/calls/po/fr.po | 
- | [fur]({{< ref "/f43/language/fur.md" >}}) | 41 | 41 | 100.0 | /mnt/stockage/packages/f43/calls/po/fur.po | 
- | [gl]({{< ref "/f43/language/gl.md" >}}) | 79 | 79 | 100.0 | /mnt/stockage/packages/f43/calls/po/gl.po | 
- | [he]({{< ref "/f43/language/he.md" >}}) | 44 | 44 | 100.0 | /mnt/stockage/packages/f43/calls/po/he.po | 
- | [hi]({{< ref "/f43/language/hi.md" >}}) | 41 | 41 | 100.0 | /mnt/stockage/packages/f43/calls/po/hi.po | 
- | [hr]({{< ref "/f43/language/hr.md" >}}) | 51 | 51 | 100.0 | /mnt/stockage/packages/f43/calls/po/hr.po | 
- | [ht]({{< ref "/f43/language/ht.md" >}}) | 14 | 14 | 100.0 | /mnt/stockage/packages/f43/calls/po/ht.po | 
- | [hu]({{< ref "/f43/language/hu.md" >}}) | 44 | 44 | 100.0 | /mnt/stockage/packages/f43/calls/po/hu.po | 
- | [hy]({{< ref "/f43/language/hy.md" >}}) | 271 | 271 | 100.0 | /mnt/stockage/packages/f43/calls/po/hy.po | 
- | [id]({{< ref "/f43/language/id.md" >}}) | 473 | 473 | 100.0 | /mnt/stockage/packages/f43/calls/po/id.po | 
- | [it]({{< ref "/f43/language/it.md" >}}) | 14 | 14 | 100.0 | /mnt/stockage/packages/f43/calls/po/it.po | 
- | [ja]({{< ref "/f43/language/ja.md" >}}) | 102 | 102 | 100.0 | /mnt/stockage/packages/f43/calls/po/ja.po | 
- | [ka]({{< ref "/f43/language/ka.md" >}}) | 51 | 51 | 100.0 | /mnt/stockage/packages/f43/calls/po/ka.po | 
- | [ko]({{< ref "/f43/language/ko.md" >}}) | 473 | 473 | 100.0 | /mnt/stockage/packages/f43/calls/po/ko.po | 
- | [lt]({{< ref "/f43/language/lt.md" >}}) | 473 | 473 | 100.0 | /mnt/stockage/packages/f43/calls/po/lt.po | 
- | [lv]({{< ref "/f43/language/lv.md" >}}) | 473 | 473 | 100.0 | /mnt/stockage/packages/f43/calls/po/lv.po | 
- | [my]({{< ref "/f43/language/my.md" >}}) | 465 | 465 | 100.0 | /mnt/stockage/packages/f43/calls/po/my.po | 
- | [nb_NO]({{< ref "/f43/language/nb_NO.md" >}}) | 473 | 473 | 100.0 | /mnt/stockage/packages/f43/calls/po/nb.po | 
- | [ne]({{< ref "/f43/language/ne.md" >}}) | 473 | 473 | 100.0 | /mnt/stockage/packages/f43/calls/po/ne.po | 
- | [nl]({{< ref "/f43/language/nl.md" >}}) | 44 | 44 | 100.0 | /mnt/stockage/packages/f43/calls/po/nl.po | 
- | [nn]({{< ref "/f43/language/nn.md" >}}) | 473 | 473 | 100.0 | /mnt/stockage/packages/f43/calls/po/nn.po | 
- | [oc]({{< ref "/f43/language/oc.md" >}}) | 39 | 39 | 100.0 | /mnt/stockage/packages/f43/calls/po/oc.po | 
- | [pa]({{< ref "/f43/language/pa.md" >}}) | 474 | 474 | 100.0 | /mnt/stockage/packages/f43/calls/po/pa.po | 
- | [pl]({{< ref "/f43/language/pl.md" >}}) | 44 | 44 | 100.0 | /mnt/stockage/packages/f43/calls/po/pl.po | 
- | [pt]({{< ref "/f43/language/pt.md" >}}) | 44 | 44 | 100.0 | /mnt/stockage/packages/f43/calls/po/pt.po | 
- | [pt_BR]({{< ref "/f43/language/pt_BR.md" >}}) | 14 | 14 | 100.0 | /mnt/stockage/packages/f43/calls/po/pt_BR.po | 
- | [ro]({{< ref "/f43/language/ro.md" >}}) | 14 | 14 | 100.0 | /mnt/stockage/packages/f43/calls/po/ro.po | 
- | [ru]({{< ref "/f43/language/ru.md" >}}) | 51 | 51 | 100.0 | /mnt/stockage/packages/f43/calls/po/ru.po | 
- | [sk]({{< ref "/f43/language/sk.md" >}}) | 473 | 473 | 100.0 | /mnt/stockage/packages/f43/calls/po/sk.po | 
- | [sl]({{< ref "/f43/language/sl.md" >}}) | 44 | 44 | 100.0 | /mnt/stockage/packages/f43/calls/po/sl.po | 
- | [sr]({{< ref "/f43/language/sr.md" >}}) | 517 | 517 | 100.0 | /mnt/stockage/packages/f43/calls/po/sr.po/mnt/stockage/packages/f43/calls/po/sr@latin.po | 
- | [sv]({{< ref "/f43/language/sv.md" >}}) | 44 | 44 | 100.0 | /mnt/stockage/packages/f43/calls/po/sv.po | 
- | [th]({{< ref "/f43/language/th.md" >}}) | 473 | 473 | 100.0 | /mnt/stockage/packages/f43/calls/po/th.po | 
- | [tr]({{< ref "/f43/language/tr.md" >}}) | 14 | 14 | 100.0 | /mnt/stockage/packages/f43/calls/po/tr.po | 
- | [ug]({{< ref "/f43/language/ug.md" >}}) | 465 | 465 | 100.0 | /mnt/stockage/packages/f43/calls/po/ug.po | 
- | [uk]({{< ref "/f43/language/uk.md" >}}) | 51 | 51 | 100.0 | /mnt/stockage/packages/f43/calls/po/uk.po | 
- | [uz]({{< ref "/f43/language/uz.md" >}}) | 473 | 473 | 100.0 | /mnt/stockage/packages/f43/calls/po/uz.po | 
- | [vi]({{< ref "/f43/language/vi.md" >}}) | 472 | 472 | 100.0 | /mnt/stockage/packages/f43/calls/po/vi.po | 
- | [zh_Hans]({{< ref "/f43/language/zh_Hans.md" >}}) | 41 | 41 | 100.0 | /mnt/stockage/packages/f43/calls/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f43/language/zh_Hant.md" >}}) | 473 | 473 | 100.0 | /mnt/stockage/packages/f43/calls/po/zh_TW.po | 
- | [ia]({{< ref "/f43/language/ia.md" >}}) | 183 | 465 | 39.4 | /mnt/stockage/packages/f43/calls/po/ia.po | 
- | [kab]({{< ref "/f43/language/kab.md" >}}) | 130 | 465 | 28.0 | /mnt/stockage/packages/f43/calls/po/kab.po | 
+ | [ar](/f43/language/ar) | 473 | 473 | 100.0 | /mnt/stockage/packages/f43/calls/po/ar.po | 
+ | [be](/f43/language/be) | 14 | 14 | 100.0 | /mnt/stockage/packages/f43/calls/po/be.po | 
+ | [bg](/f43/language/bg) | 474 | 474 | 100.0 | /mnt/stockage/packages/f43/calls/po/bg.po | 
+ | [ca](/f43/language/ca) | 41 | 41 | 100.0 | /mnt/stockage/packages/f43/calls/po/ca.po | 
+ | [cs](/f43/language/cs) | 44 | 44 | 100.0 | /mnt/stockage/packages/f43/calls/po/cs.po | 
+ | [da](/f43/language/da) | 473 | 473 | 100.0 | /mnt/stockage/packages/f43/calls/po/da.po | 
+ | [de](/f43/language/de) | 44 | 44 | 100.0 | /mnt/stockage/packages/f43/calls/po/de.po | 
+ | [el](/f43/language/el) | 43 | 43 | 100.0 | /mnt/stockage/packages/f43/calls/po/el.po | 
+ | [en_GB](/f43/language/en_GB) | 473 | 473 | 100.0 | /mnt/stockage/packages/f43/calls/po/en_GB.po | 
+ | [eo](/f43/language/eo) | 465 | 465 | 100.0 | /mnt/stockage/packages/f43/calls/po/eo.po | 
+ | [es](/f43/language/es) | 44 | 44 | 100.0 | /mnt/stockage/packages/f43/calls/po/es.po | 
+ | [eu](/f43/language/eu) | 41 | 41 | 100.0 | /mnt/stockage/packages/f43/calls/po/eu.po | 
+ | [fa](/f43/language/fa) | 44 | 44 | 100.0 | /mnt/stockage/packages/f43/calls/po/fa.po | 
+ | [fi](/f43/language/fi) | 44 | 44 | 100.0 | /mnt/stockage/packages/f43/calls/po/fi.po | 
+ | [fil](/f43/language/fil) | 465 | 465 | 100.0 | /mnt/stockage/packages/f43/calls/po/fil.po | 
+ | [fr](/f43/language/fr) | 39 | 39 | 100.0 | /mnt/stockage/packages/f43/calls/po/fr.po | 
+ | [fur](/f43/language/fur) | 41 | 41 | 100.0 | /mnt/stockage/packages/f43/calls/po/fur.po | 
+ | [gl](/f43/language/gl) | 79 | 79 | 100.0 | /mnt/stockage/packages/f43/calls/po/gl.po | 
+ | [he](/f43/language/he) | 44 | 44 | 100.0 | /mnt/stockage/packages/f43/calls/po/he.po | 
+ | [hi](/f43/language/hi) | 41 | 41 | 100.0 | /mnt/stockage/packages/f43/calls/po/hi.po | 
+ | [hr](/f43/language/hr) | 51 | 51 | 100.0 | /mnt/stockage/packages/f43/calls/po/hr.po | 
+ | [ht](/f43/language/ht) | 14 | 14 | 100.0 | /mnt/stockage/packages/f43/calls/po/ht.po | 
+ | [hu](/f43/language/hu) | 44 | 44 | 100.0 | /mnt/stockage/packages/f43/calls/po/hu.po | 
+ | [hy](/f43/language/hy) | 271 | 271 | 100.0 | /mnt/stockage/packages/f43/calls/po/hy.po | 
+ | [id](/f43/language/id) | 473 | 473 | 100.0 | /mnt/stockage/packages/f43/calls/po/id.po | 
+ | [it](/f43/language/it) | 14 | 14 | 100.0 | /mnt/stockage/packages/f43/calls/po/it.po | 
+ | [ja](/f43/language/ja) | 102 | 102 | 100.0 | /mnt/stockage/packages/f43/calls/po/ja.po | 
+ | [ka](/f43/language/ka) | 51 | 51 | 100.0 | /mnt/stockage/packages/f43/calls/po/ka.po | 
+ | [ko](/f43/language/ko) | 473 | 473 | 100.0 | /mnt/stockage/packages/f43/calls/po/ko.po | 
+ | [lt](/f43/language/lt) | 473 | 473 | 100.0 | /mnt/stockage/packages/f43/calls/po/lt.po | 
+ | [lv](/f43/language/lv) | 473 | 473 | 100.0 | /mnt/stockage/packages/f43/calls/po/lv.po | 
+ | [my](/f43/language/my) | 465 | 465 | 100.0 | /mnt/stockage/packages/f43/calls/po/my.po | 
+ | [nb_NO](/f43/language/nb_NO) | 473 | 473 | 100.0 | /mnt/stockage/packages/f43/calls/po/nb.po | 
+ | [ne](/f43/language/ne) | 473 | 473 | 100.0 | /mnt/stockage/packages/f43/calls/po/ne.po | 
+ | [nl](/f43/language/nl) | 44 | 44 | 100.0 | /mnt/stockage/packages/f43/calls/po/nl.po | 
+ | [nn](/f43/language/nn) | 473 | 473 | 100.0 | /mnt/stockage/packages/f43/calls/po/nn.po | 
+ | [oc](/f43/language/oc) | 39 | 39 | 100.0 | /mnt/stockage/packages/f43/calls/po/oc.po | 
+ | [pa](/f43/language/pa) | 474 | 474 | 100.0 | /mnt/stockage/packages/f43/calls/po/pa.po | 
+ | [pl](/f43/language/pl) | 44 | 44 | 100.0 | /mnt/stockage/packages/f43/calls/po/pl.po | 
+ | [pt](/f43/language/pt) | 44 | 44 | 100.0 | /mnt/stockage/packages/f43/calls/po/pt.po | 
+ | [pt_BR](/f43/language/pt_BR) | 14 | 14 | 100.0 | /mnt/stockage/packages/f43/calls/po/pt_BR.po | 
+ | [ro](/f43/language/ro) | 14 | 14 | 100.0 | /mnt/stockage/packages/f43/calls/po/ro.po | 
+ | [ru](/f43/language/ru) | 51 | 51 | 100.0 | /mnt/stockage/packages/f43/calls/po/ru.po | 
+ | [sk](/f43/language/sk) | 473 | 473 | 100.0 | /mnt/stockage/packages/f43/calls/po/sk.po | 
+ | [sl](/f43/language/sl) | 44 | 44 | 100.0 | /mnt/stockage/packages/f43/calls/po/sl.po | 
+ | [sr](/f43/language/sr) | 517 | 517 | 100.0 | /mnt/stockage/packages/f43/calls/po/sr.po/mnt/stockage/packages/f43/calls/po/sr@latin.po | 
+ | [sv](/f43/language/sv) | 44 | 44 | 100.0 | /mnt/stockage/packages/f43/calls/po/sv.po | 
+ | [th](/f43/language/th) | 473 | 473 | 100.0 | /mnt/stockage/packages/f43/calls/po/th.po | 
+ | [tr](/f43/language/tr) | 14 | 14 | 100.0 | /mnt/stockage/packages/f43/calls/po/tr.po | 
+ | [ug](/f43/language/ug) | 465 | 465 | 100.0 | /mnt/stockage/packages/f43/calls/po/ug.po | 
+ | [uk](/f43/language/uk) | 51 | 51 | 100.0 | /mnt/stockage/packages/f43/calls/po/uk.po | 
+ | [uz](/f43/language/uz) | 473 | 473 | 100.0 | /mnt/stockage/packages/f43/calls/po/uz.po | 
+ | [vi](/f43/language/vi) | 472 | 472 | 100.0 | /mnt/stockage/packages/f43/calls/po/vi.po | 
+ | [zh_Hans](/f43/language/zh_Hans) | 41 | 41 | 100.0 | /mnt/stockage/packages/f43/calls/po/zh_CN.po | 
+ | [zh_Hant](/f43/language/zh_Hant) | 473 | 473 | 100.0 | /mnt/stockage/packages/f43/calls/po/zh_TW.po | 
+ | [ia](/f43/language/ia) | 183 | 465 | 39.4 | /mnt/stockage/packages/f43/calls/po/ia.po | 
+ | [kab](/f43/language/kab) | 130 | 465 | 28.0 | /mnt/stockage/packages/f43/calls/po/kab.po | 
 {.sortable}
 
 

@@ -18,10 +18,10 @@ The package wavbreaker (version 0.16):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f43/language/fr.md" >}}) | 500 | 500 | 100.0 | /mnt/stockage/packages/f43/wavbreaker/po/fr.po | 
- | [pt]({{< ref "/f43/language/pt.md" >}}) | 500 | 500 | 100.0 | /mnt/stockage/packages/f43/wavbreaker/po/pt.po | 
- | [de]({{< ref "/f43/language/de.md" >}}) | 408 | 500 | 81.6 | /mnt/stockage/packages/f43/wavbreaker/po/de.po | 
- | [es]({{< ref "/f43/language/es.md" >}}) | 408 | 500 | 81.6 | /mnt/stockage/packages/f43/wavbreaker/po/es.po | 
+ | [fr](/f43/language/fr) | 500 | 500 | 100.0 | /mnt/stockage/packages/f43/wavbreaker/po/fr.po | 
+ | [pt](/f43/language/pt) | 500 | 500 | 100.0 | /mnt/stockage/packages/f43/wavbreaker/po/pt.po | 
+ | [de](/f43/language/de) | 408 | 500 | 81.6 | /mnt/stockage/packages/f43/wavbreaker/po/de.po | 
+ | [es](/f43/language/es) | 408 | 500 | 81.6 | /mnt/stockage/packages/f43/wavbreaker/po/es.po | 
 {.sortable}
 
 

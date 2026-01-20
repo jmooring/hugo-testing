@@ -18,40 +18,40 @@ The package edgar (version 1.36):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f38/language/de.md" >}}) | 11474 | 11474 | 100.0 | /mnt/stockage/packages/f38/edgar/locale/de.po | 
- | [en_GB]({{< ref "/f38/language/en_GB.md" >}}) | 11474 | 11474 | 100.0 | /mnt/stockage/packages/f38/edgar/locale/en_GB.po | 
- | [en_US]({{< ref "/f38/language/en_US.md" >}}) | 11474 | 11474 | 100.0 | /mnt/stockage/packages/f38/edgar/locale/en_US.po | 
- | [fr]({{< ref "/f38/language/fr.md" >}}) | 11474 | 11474 | 100.0 | /mnt/stockage/packages/f38/edgar/locale/fr.po | 
- | [it]({{< ref "/f38/language/it.md" >}}) | 11474 | 11474 | 100.0 | /mnt/stockage/packages/f38/edgar/locale/it.po | 
- | [ja]({{< ref "/f38/language/ja.md" >}}) | 11474 | 11474 | 100.0 | /mnt/stockage/packages/f38/edgar/locale/ja.po | 
- | [nl]({{< ref "/f38/language/nl.md" >}}) | 11474 | 11474 | 100.0 | /mnt/stockage/packages/f38/edgar/locale/nl.po | 
- | [pt_BR]({{< ref "/f38/language/pt_BR.md" >}}) | 11474 | 11474 | 100.0 | /mnt/stockage/packages/f38/edgar/locale/pt_BR.po | 
- | [ru]({{< ref "/f38/language/ru.md" >}}) | 11474 | 11474 | 100.0 | /mnt/stockage/packages/f38/edgar/locale/ru.po | 
- | [uk]({{< ref "/f38/language/uk.md" >}}) | 11474 | 11474 | 100.0 | /mnt/stockage/packages/f38/edgar/locale/uk.po | 
- | [es]({{< ref "/f38/language/es.md" >}}) | 11435 | 11474 | 99.7 | /mnt/stockage/packages/f38/edgar/locale/es.po | 
- | [cs]({{< ref "/f38/language/cs.md" >}}) | 11364 | 11474 | 99.0 | /mnt/stockage/packages/f38/edgar/locale/cs.po | 
- | [pl]({{< ref "/f38/language/pl.md" >}}) | 4356 | 11474 | 38.0 | /mnt/stockage/packages/f38/edgar/locale/pl.po | 
- | [zh_Hans]({{< ref "/f38/language/zh_Hans.md" >}}) | 3636 | 11474 | 31.7 | /mnt/stockage/packages/f38/edgar/locale/zh_CN.po | 
- | [sk]({{< ref "/f38/language/sk.md" >}}) | 2245 | 11474 | 19.6 | /mnt/stockage/packages/f38/edgar/locale/sk.po | 
- | [pt]({{< ref "/f38/language/pt.md" >}}) | 960 | 11474 | 8.4 | /mnt/stockage/packages/f38/edgar/locale/pt.po | 
- | [ro]({{< ref "/f38/language/ro.md" >}}) | 860 | 11474 | 7.5 | /mnt/stockage/packages/f38/edgar/locale/ro.po | 
- | [fa]({{< ref "/f38/language/fa.md" >}}) | 792 | 11474 | 6.9 | /mnt/stockage/packages/f38/edgar/locale/fa.po | 
- | [eo]({{< ref "/f38/language/eo.md" >}}) | 711 | 11474 | 6.2 | /mnt/stockage/packages/f38/edgar/locale/eo.po | 
- | [el]({{< ref "/f38/language/el.md" >}}) | 436 | 11474 | 3.8 | /mnt/stockage/packages/f38/edgar/locale/el.po | 
- | [id]({{< ref "/f38/language/id.md" >}}) | 333 | 11474 | 2.9 | /mnt/stockage/packages/f38/edgar/locale/id.po | 
- | [ms]({{< ref "/f38/language/ms.md" >}}) | 200 | 11474 | 1.7 | /mnt/stockage/packages/f38/edgar/locale/ms.po | 
- | [lv]({{< ref "/f38/language/lv.md" >}}) | 8 | 11474 | 0.1 | /mnt/stockage/packages/f38/edgar/locale/lv.po | 
- | [da]({{< ref "/f38/language/da.md" >}}) | 4 | 11474 | 0.0 | /mnt/stockage/packages/f38/edgar/locale/da.po | 
- | [sv]({{< ref "/f38/language/sv.md" >}}) | 4 | 11474 | 0.0 | /mnt/stockage/packages/f38/edgar/locale/sv.po | 
- | [tr]({{< ref "/f38/language/tr.md" >}}) | 4 | 11474 | 0.0 | /mnt/stockage/packages/f38/edgar/locale/tr.po | 
- | [hi]({{< ref "/f38/language/hi.md" >}}) | 2 | 11474 | 0.0 | /mnt/stockage/packages/f38/edgar/locale/hi.po | 
- | [sr]({{< ref "/f38/language/sr.md" >}}) | 2 | 11474 | 0.0 | /mnt/stockage/packages/f38/edgar/locale/sr.po | 
- | [ar]({{< ref "/f38/language/ar.md" >}}) | 1 | 11474 | 0.0 | /mnt/stockage/packages/f38/edgar/locale/ar.po | 
- | [jv]({{< ref "/f38/language/jv.md" >}}) | 1 | 11474 | 0.0 | /mnt/stockage/packages/f38/edgar/locale/jv.po | 
- | [ko]({{< ref "/f38/language/ko.md" >}}) | 1 | 11474 | 0.0 | /mnt/stockage/packages/f38/edgar/locale/ko.po | 
- | [ta]({{< ref "/f38/language/ta.md" >}}) | 1 | 11474 | 0.0 | /mnt/stockage/packages/f38/edgar/locale/ta.po | 
- | [ur]({{< ref "/f38/language/ur.md" >}}) | 1 | 11474 | 0.0 | /mnt/stockage/packages/f38/edgar/locale/ur.po | 
- | [vi]({{< ref "/f38/language/vi.md" >}}) | 1 | 11474 | 0.0 | /mnt/stockage/packages/f38/edgar/locale/vi.po | 
+ | [de](/f38/language/de) | 11474 | 11474 | 100.0 | /mnt/stockage/packages/f38/edgar/locale/de.po | 
+ | [en_GB](/f38/language/en_GB) | 11474 | 11474 | 100.0 | /mnt/stockage/packages/f38/edgar/locale/en_GB.po | 
+ | [en_US](/f38/language/en_US) | 11474 | 11474 | 100.0 | /mnt/stockage/packages/f38/edgar/locale/en_US.po | 
+ | [fr](/f38/language/fr) | 11474 | 11474 | 100.0 | /mnt/stockage/packages/f38/edgar/locale/fr.po | 
+ | [it](/f38/language/it) | 11474 | 11474 | 100.0 | /mnt/stockage/packages/f38/edgar/locale/it.po | 
+ | [ja](/f38/language/ja) | 11474 | 11474 | 100.0 | /mnt/stockage/packages/f38/edgar/locale/ja.po | 
+ | [nl](/f38/language/nl) | 11474 | 11474 | 100.0 | /mnt/stockage/packages/f38/edgar/locale/nl.po | 
+ | [pt_BR](/f38/language/pt_BR) | 11474 | 11474 | 100.0 | /mnt/stockage/packages/f38/edgar/locale/pt_BR.po | 
+ | [ru](/f38/language/ru) | 11474 | 11474 | 100.0 | /mnt/stockage/packages/f38/edgar/locale/ru.po | 
+ | [uk](/f38/language/uk) | 11474 | 11474 | 100.0 | /mnt/stockage/packages/f38/edgar/locale/uk.po | 
+ | [es](/f38/language/es) | 11435 | 11474 | 99.7 | /mnt/stockage/packages/f38/edgar/locale/es.po | 
+ | [cs](/f38/language/cs) | 11364 | 11474 | 99.0 | /mnt/stockage/packages/f38/edgar/locale/cs.po | 
+ | [pl](/f38/language/pl) | 4356 | 11474 | 38.0 | /mnt/stockage/packages/f38/edgar/locale/pl.po | 
+ | [zh_Hans](/f38/language/zh_Hans) | 3636 | 11474 | 31.7 | /mnt/stockage/packages/f38/edgar/locale/zh_CN.po | 
+ | [sk](/f38/language/sk) | 2245 | 11474 | 19.6 | /mnt/stockage/packages/f38/edgar/locale/sk.po | 
+ | [pt](/f38/language/pt) | 960 | 11474 | 8.4 | /mnt/stockage/packages/f38/edgar/locale/pt.po | 
+ | [ro](/f38/language/ro) | 860 | 11474 | 7.5 | /mnt/stockage/packages/f38/edgar/locale/ro.po | 
+ | [fa](/f38/language/fa) | 792 | 11474 | 6.9 | /mnt/stockage/packages/f38/edgar/locale/fa.po | 
+ | [eo](/f38/language/eo) | 711 | 11474 | 6.2 | /mnt/stockage/packages/f38/edgar/locale/eo.po | 
+ | [el](/f38/language/el) | 436 | 11474 | 3.8 | /mnt/stockage/packages/f38/edgar/locale/el.po | 
+ | [id](/f38/language/id) | 333 | 11474 | 2.9 | /mnt/stockage/packages/f38/edgar/locale/id.po | 
+ | [ms](/f38/language/ms) | 200 | 11474 | 1.7 | /mnt/stockage/packages/f38/edgar/locale/ms.po | 
+ | [lv](/f38/language/lv) | 8 | 11474 | 0.1 | /mnt/stockage/packages/f38/edgar/locale/lv.po | 
+ | [da](/f38/language/da) | 4 | 11474 | 0.0 | /mnt/stockage/packages/f38/edgar/locale/da.po | 
+ | [sv](/f38/language/sv) | 4 | 11474 | 0.0 | /mnt/stockage/packages/f38/edgar/locale/sv.po | 
+ | [tr](/f38/language/tr) | 4 | 11474 | 0.0 | /mnt/stockage/packages/f38/edgar/locale/tr.po | 
+ | [hi](/f38/language/hi) | 2 | 11474 | 0.0 | /mnt/stockage/packages/f38/edgar/locale/hi.po | 
+ | [sr](/f38/language/sr) | 2 | 11474 | 0.0 | /mnt/stockage/packages/f38/edgar/locale/sr.po | 
+ | [ar](/f38/language/ar) | 1 | 11474 | 0.0 | /mnt/stockage/packages/f38/edgar/locale/ar.po | 
+ | [jv](/f38/language/jv) | 1 | 11474 | 0.0 | /mnt/stockage/packages/f38/edgar/locale/jv.po | 
+ | [ko](/f38/language/ko) | 1 | 11474 | 0.0 | /mnt/stockage/packages/f38/edgar/locale/ko.po | 
+ | [ta](/f38/language/ta) | 1 | 11474 | 0.0 | /mnt/stockage/packages/f38/edgar/locale/ta.po | 
+ | [ur](/f38/language/ur) | 1 | 11474 | 0.0 | /mnt/stockage/packages/f38/edgar/locale/ur.po | 
+ | [vi](/f38/language/vi) | 1 | 11474 | 0.0 | /mnt/stockage/packages/f38/edgar/locale/vi.po | 
 {.sortable}
 
 

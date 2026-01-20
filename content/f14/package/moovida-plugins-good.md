@@ -18,18 +18,18 @@ The package moovida-plugins-good (version 1.0.9):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f14/language/cs.md" >}}) | 26 | 26 | 100.0 | /mnt/stockage/packages/f14/moovida-plugins-good/elisa/plugins/base/i18n/cs.po | 
- | [de]({{< ref "/f14/language/de.md" >}}) | 26 | 26 | 100.0 | /mnt/stockage/packages/f14/moovida-plugins-good/elisa/plugins/base/i18n/de.po | 
- | [es]({{< ref "/f14/language/es.md" >}}) | 26 | 26 | 100.0 | /mnt/stockage/packages/f14/moovida-plugins-good/elisa/plugins/base/i18n/es.po | 
- | [et]({{< ref "/f14/language/et.md" >}}) | 26 | 26 | 100.0 | /mnt/stockage/packages/f14/moovida-plugins-good/elisa/plugins/base/i18n/et.po | 
- | [fr]({{< ref "/f14/language/fr.md" >}}) | 26 | 26 | 100.0 | /mnt/stockage/packages/f14/moovida-plugins-good/elisa/plugins/base/i18n/fr.po | 
- | [gl]({{< ref "/f14/language/gl.md" >}}) | 26 | 26 | 100.0 | /mnt/stockage/packages/f14/moovida-plugins-good/elisa/plugins/base/i18n/gl.po | 
- | [hu]({{< ref "/f14/language/hu.md" >}}) | 26 | 26 | 100.0 | /mnt/stockage/packages/f14/moovida-plugins-good/elisa/plugins/base/i18n/hu.po | 
- | [it]({{< ref "/f14/language/it.md" >}}) | 26 | 26 | 100.0 | /mnt/stockage/packages/f14/moovida-plugins-good/elisa/plugins/base/i18n/it.po | 
- | [nl]({{< ref "/f14/language/nl.md" >}}) | 26 | 26 | 100.0 | /mnt/stockage/packages/f14/moovida-plugins-good/elisa/plugins/base/i18n/nl.po | 
- | [pl]({{< ref "/f14/language/pl.md" >}}) | 26 | 26 | 100.0 | /mnt/stockage/packages/f14/moovida-plugins-good/elisa/plugins/base/i18n/pl.po | 
- | [ru]({{< ref "/f14/language/ru.md" >}}) | 26 | 26 | 100.0 | /mnt/stockage/packages/f14/moovida-plugins-good/elisa/plugins/base/i18n/ru.po | 
- | [sk]({{< ref "/f14/language/sk.md" >}}) | 26 | 26 | 100.0 | /mnt/stockage/packages/f14/moovida-plugins-good/elisa/plugins/base/i18n/sk.po | 
+ | [cs](/f14/language/cs) | 26 | 26 | 100.0 | /mnt/stockage/packages/f14/moovida-plugins-good/elisa/plugins/base/i18n/cs.po | 
+ | [de](/f14/language/de) | 26 | 26 | 100.0 | /mnt/stockage/packages/f14/moovida-plugins-good/elisa/plugins/base/i18n/de.po | 
+ | [es](/f14/language/es) | 26 | 26 | 100.0 | /mnt/stockage/packages/f14/moovida-plugins-good/elisa/plugins/base/i18n/es.po | 
+ | [et](/f14/language/et) | 26 | 26 | 100.0 | /mnt/stockage/packages/f14/moovida-plugins-good/elisa/plugins/base/i18n/et.po | 
+ | [fr](/f14/language/fr) | 26 | 26 | 100.0 | /mnt/stockage/packages/f14/moovida-plugins-good/elisa/plugins/base/i18n/fr.po | 
+ | [gl](/f14/language/gl) | 26 | 26 | 100.0 | /mnt/stockage/packages/f14/moovida-plugins-good/elisa/plugins/base/i18n/gl.po | 
+ | [hu](/f14/language/hu) | 26 | 26 | 100.0 | /mnt/stockage/packages/f14/moovida-plugins-good/elisa/plugins/base/i18n/hu.po | 
+ | [it](/f14/language/it) | 26 | 26 | 100.0 | /mnt/stockage/packages/f14/moovida-plugins-good/elisa/plugins/base/i18n/it.po | 
+ | [nl](/f14/language/nl) | 26 | 26 | 100.0 | /mnt/stockage/packages/f14/moovida-plugins-good/elisa/plugins/base/i18n/nl.po | 
+ | [pl](/f14/language/pl) | 26 | 26 | 100.0 | /mnt/stockage/packages/f14/moovida-plugins-good/elisa/plugins/base/i18n/pl.po | 
+ | [ru](/f14/language/ru) | 26 | 26 | 100.0 | /mnt/stockage/packages/f14/moovida-plugins-good/elisa/plugins/base/i18n/ru.po | 
+ | [sk](/f14/language/sk) | 26 | 26 | 100.0 | /mnt/stockage/packages/f14/moovida-plugins-good/elisa/plugins/base/i18n/sk.po | 
 {.sortable}
 
 

@@ -18,32 +18,32 @@ The package kiosktool (version 1.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [bg]({{< ref "/f12/language/bg.md" >}}) | 2289 | 2289 | 100.0 | /mnt/stockage/packages/f12/kiosktool/po/bg/kiosktool.po | 
- | [da]({{< ref "/f12/language/da.md" >}}) | 2289 | 2289 | 100.0 | /mnt/stockage/packages/f12/kiosktool/po/da/kiosktool.po | 
- | [de]({{< ref "/f12/language/de.md" >}}) | 2289 | 2289 | 100.0 | /mnt/stockage/packages/f12/kiosktool/po/de/kiosktool.po | 
- | [en_GB]({{< ref "/f12/language/en_GB.md" >}}) | 2289 | 2289 | 100.0 | /mnt/stockage/packages/f12/kiosktool/po/en_GB/kiosktool.po | 
- | [es]({{< ref "/f12/language/es.md" >}}) | 2289 | 2289 | 100.0 | /mnt/stockage/packages/f12/kiosktool/po/es/kiosktool.po | 
- | [et]({{< ref "/f12/language/et.md" >}}) | 2289 | 2289 | 100.0 | /mnt/stockage/packages/f12/kiosktool/po/et/kiosktool.po | 
- | [fr]({{< ref "/f12/language/fr.md" >}}) | 2289 | 2289 | 100.0 | /mnt/stockage/packages/f12/kiosktool/po/fr/kiosktool.po | 
- | [it]({{< ref "/f12/language/it.md" >}}) | 2289 | 2289 | 100.0 | /mnt/stockage/packages/f12/kiosktool/po/it/kiosktool.po | 
- | [nl]({{< ref "/f12/language/nl.md" >}}) | 2289 | 2289 | 100.0 | /mnt/stockage/packages/f12/kiosktool/po/nl/kiosktool.po | 
- | [pt]({{< ref "/f12/language/pt.md" >}}) | 2289 | 2289 | 100.0 | /mnt/stockage/packages/f12/kiosktool/po/pt/kiosktool.po | 
- | [ru]({{< ref "/f12/language/ru.md" >}}) | 2289 | 2289 | 100.0 | /mnt/stockage/packages/f12/kiosktool/po/ru/kiosktool.po | 
- | [sv]({{< ref "/f12/language/sv.md" >}}) | 2289 | 2289 | 100.0 | /mnt/stockage/packages/f12/kiosktool/po/sv/kiosktool.po | 
- | [error]({{< ref "/f12/language/error.md" >}}) | 4535 | 4578 | 99.1 | /mnt/stockage/packages/f12/kiosktool/po/sr@Latn/kiosktool.po/mnt/stockage/packages/f12/kiosktool/po/xx/kiosktool.po | 
- | [sr]({{< ref "/f12/language/sr.md" >}}) | 2246 | 2289 | 98.1 | /mnt/stockage/packages/f12/kiosktool/po/sr/kiosktool.po | 
- | [ta]({{< ref "/f12/language/ta.md" >}}) | 2190 | 2289 | 95.7 | /mnt/stockage/packages/f12/kiosktool/po/ta/kiosktool.po | 
- | [pt_BR]({{< ref "/f12/language/pt_BR.md" >}}) | 2023 | 2289 | 88.4 | /mnt/stockage/packages/f12/kiosktool/po/pt_BR/kiosktool.po | 
- | [cs]({{< ref "/f12/language/cs.md" >}}) | 1773 | 2289 | 77.5 | /mnt/stockage/packages/f12/kiosktool/po/cs/kiosktool.po | 
- | [tr]({{< ref "/f12/language/tr.md" >}}) | 415 | 2289 | 18.1 | /mnt/stockage/packages/f12/kiosktool/po/tr/kiosktool.po | 
- | [br]({{< ref "/f12/language/br.md" >}}) | 123 | 2289 | 5.4 | /mnt/stockage/packages/f12/kiosktool/po/br/kiosktool.po | 
- | [ga]({{< ref "/f12/language/ga.md" >}}) | 51 | 2289 | 2.2 | /mnt/stockage/packages/f12/kiosktool/po/ga/kiosktool.po | 
- | [cy]({{< ref "/f12/language/cy.md" >}}) | 41 | 2289 | 1.8 | /mnt/stockage/packages/f12/kiosktool/po/cy/kiosktool.po | 
- | [lt]({{< ref "/f12/language/lt.md" >}}) | 18 | 2289 | 0.8 | /mnt/stockage/packages/f12/kiosktool/po/lt/kiosktool.po | 
- | [ro]({{< ref "/f12/language/ro.md" >}}) | 4 | 2289 | 0.2 | /mnt/stockage/packages/f12/kiosktool/po/ro/kiosktool.po | 
- | [ca]({{< ref "/f12/language/ca.md" >}}) | 0 | 2289 | 0.0 | /mnt/stockage/packages/f12/kiosktool/po/ca/kiosktool.po | 
- | [is]({{< ref "/f12/language/is.md" >}}) | 0 | 2289 | 0.0 | /mnt/stockage/packages/f12/kiosktool/po/is/kiosktool.po | 
- | [mt]({{< ref "/f12/language/mt.md" >}}) | 0 | 2289 | 0.0 | /mnt/stockage/packages/f12/kiosktool/po/mt/kiosktool.po | 
+ | [bg](/f12/language/bg) | 2289 | 2289 | 100.0 | /mnt/stockage/packages/f12/kiosktool/po/bg/kiosktool.po | 
+ | [da](/f12/language/da) | 2289 | 2289 | 100.0 | /mnt/stockage/packages/f12/kiosktool/po/da/kiosktool.po | 
+ | [de](/f12/language/de) | 2289 | 2289 | 100.0 | /mnt/stockage/packages/f12/kiosktool/po/de/kiosktool.po | 
+ | [en_GB](/f12/language/en_GB) | 2289 | 2289 | 100.0 | /mnt/stockage/packages/f12/kiosktool/po/en_GB/kiosktool.po | 
+ | [es](/f12/language/es) | 2289 | 2289 | 100.0 | /mnt/stockage/packages/f12/kiosktool/po/es/kiosktool.po | 
+ | [et](/f12/language/et) | 2289 | 2289 | 100.0 | /mnt/stockage/packages/f12/kiosktool/po/et/kiosktool.po | 
+ | [fr](/f12/language/fr) | 2289 | 2289 | 100.0 | /mnt/stockage/packages/f12/kiosktool/po/fr/kiosktool.po | 
+ | [it](/f12/language/it) | 2289 | 2289 | 100.0 | /mnt/stockage/packages/f12/kiosktool/po/it/kiosktool.po | 
+ | [nl](/f12/language/nl) | 2289 | 2289 | 100.0 | /mnt/stockage/packages/f12/kiosktool/po/nl/kiosktool.po | 
+ | [pt](/f12/language/pt) | 2289 | 2289 | 100.0 | /mnt/stockage/packages/f12/kiosktool/po/pt/kiosktool.po | 
+ | [ru](/f12/language/ru) | 2289 | 2289 | 100.0 | /mnt/stockage/packages/f12/kiosktool/po/ru/kiosktool.po | 
+ | [sv](/f12/language/sv) | 2289 | 2289 | 100.0 | /mnt/stockage/packages/f12/kiosktool/po/sv/kiosktool.po | 
+ | [error](/f12/language/error) | 4535 | 4578 | 99.1 | /mnt/stockage/packages/f12/kiosktool/po/sr@Latn/kiosktool.po/mnt/stockage/packages/f12/kiosktool/po/xx/kiosktool.po | 
+ | [sr](/f12/language/sr) | 2246 | 2289 | 98.1 | /mnt/stockage/packages/f12/kiosktool/po/sr/kiosktool.po | 
+ | [ta](/f12/language/ta) | 2190 | 2289 | 95.7 | /mnt/stockage/packages/f12/kiosktool/po/ta/kiosktool.po | 
+ | [pt_BR](/f12/language/pt_BR) | 2023 | 2289 | 88.4 | /mnt/stockage/packages/f12/kiosktool/po/pt_BR/kiosktool.po | 
+ | [cs](/f12/language/cs) | 1773 | 2289 | 77.5 | /mnt/stockage/packages/f12/kiosktool/po/cs/kiosktool.po | 
+ | [tr](/f12/language/tr) | 415 | 2289 | 18.1 | /mnt/stockage/packages/f12/kiosktool/po/tr/kiosktool.po | 
+ | [br](/f12/language/br) | 123 | 2289 | 5.4 | /mnt/stockage/packages/f12/kiosktool/po/br/kiosktool.po | 
+ | [ga](/f12/language/ga) | 51 | 2289 | 2.2 | /mnt/stockage/packages/f12/kiosktool/po/ga/kiosktool.po | 
+ | [cy](/f12/language/cy) | 41 | 2289 | 1.8 | /mnt/stockage/packages/f12/kiosktool/po/cy/kiosktool.po | 
+ | [lt](/f12/language/lt) | 18 | 2289 | 0.8 | /mnt/stockage/packages/f12/kiosktool/po/lt/kiosktool.po | 
+ | [ro](/f12/language/ro) | 4 | 2289 | 0.2 | /mnt/stockage/packages/f12/kiosktool/po/ro/kiosktool.po | 
+ | [ca](/f12/language/ca) | 0 | 2289 | 0.0 | /mnt/stockage/packages/f12/kiosktool/po/ca/kiosktool.po | 
+ | [is](/f12/language/is) | 0 | 2289 | 0.0 | /mnt/stockage/packages/f12/kiosktool/po/is/kiosktool.po | 
+ | [mt](/f12/language/mt) | 0 | 2289 | 0.0 | /mnt/stockage/packages/f12/kiosktool/po/mt/kiosktool.po | 
 {.sortable}
 
 

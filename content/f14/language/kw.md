@@ -38,9 +38,9 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [wormux]({{< ref "/f14/package/wormux.md" >}}) | 1336 | 1916 | 69.7 | Treylyansow <treylyansow@kernewegva.com> | 
- | [Miro]({{< ref "/f14/package/Miro.md" >}}) | 1321 | 3336 | 39.6 | Cornish <kw@li.org> | 
- | [vidalia]({{< ref "/f14/package/vidalia.md" >}}) | 0 | 9310 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [wormux](/f14/package/wormux) | 1336 | 1916 | 69.7 | Treylyansow <treylyansow@kernewegva.com> | 
+ | [Miro](/f14/package/Miro) | 1321 | 3336 | 39.6 | Cornish <kw@li.org> | 
+ | [vidalia](/f14/package/vidalia) | 0 | 9310 | 0.0 | LANGUAGE <LL@li.org> | 
 {.sortable}
 
 

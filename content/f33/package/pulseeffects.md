@@ -18,20 +18,20 @@ The package pulseeffects (version 4.8.5):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [es_CO]({{< ref "/f33/language/es_CO.md" >}}) | 2208 | 2208 | 100.0 | /mnt/stockage/packages/f33/pulseeffects/po/es_VE.po/mnt/stockage/packages/f33/pulseeffects/po/es_MX.po/mnt/stockage/packages/f33/pulseeffects/po/es_CO.po | 
- | [it]({{< ref "/f33/language/it.md" >}}) | 7681 | 7681 | 100.0 | /mnt/stockage/packages/f33/pulseeffects/help/it_IT/it_IT.po/mnt/stockage/packages/f33/pulseeffects/po/it_IT.po | 
- | [de]({{< ref "/f33/language/de.md" >}}) | 7090 | 7681 | 92.3 | /mnt/stockage/packages/f33/pulseeffects/help/de/de.po/mnt/stockage/packages/f33/pulseeffects/po/de.po | 
- | [sk]({{< ref "/f33/language/sk.md" >}}) | 772 | 842 | 91.7 | /mnt/stockage/packages/f33/pulseeffects/po/sk.po | 
- | [zh_Hans]({{< ref "/f33/language/zh_Hans.md" >}}) | 753 | 828 | 90.9 | /mnt/stockage/packages/f33/pulseeffects/po/zh_CN.po | 
- | [cs]({{< ref "/f33/language/cs.md" >}}) | 763 | 842 | 90.6 | /mnt/stockage/packages/f33/pulseeffects/po/cs.po | 
- | [tr]({{< ref "/f33/language/tr.md" >}}) | 3071 | 4056 | 75.7 | /mnt/stockage/packages/f33/pulseeffects/help/tr/tr.po/mnt/stockage/packages/f33/pulseeffects/po/tr.po | 
- | [id]({{< ref "/f33/language/id.md" >}}) | 615 | 842 | 73.0 | /mnt/stockage/packages/f33/pulseeffects/po/id_ID.po | 
- | [pt_BR]({{< ref "/f33/language/pt_BR.md" >}}) | 4218 | 7681 | 54.9 | /mnt/stockage/packages/f33/pulseeffects/help/pt_BR/pt_BR.po/mnt/stockage/packages/f33/pulseeffects/po/pt_BR.po | 
- | [hr]({{< ref "/f33/language/hr.md" >}}) | 428 | 842 | 50.8 | /mnt/stockage/packages/f33/pulseeffects/po/hr.po | 
- | [pl]({{< ref "/f33/language/pl.md" >}}) | 421 | 842 | 50.0 | /mnt/stockage/packages/f33/pulseeffects/po/pl.po | 
- | [sv]({{< ref "/f33/language/sv.md" >}}) | 203 | 842 | 24.1 | /mnt/stockage/packages/f33/pulseeffects/po/sv.po | 
- | [fr]({{< ref "/f33/language/fr.md" >}}) | 187 | 842 | 22.2 | /mnt/stockage/packages/f33/pulseeffects/po/fr_FR.po | 
- | [ru]({{< ref "/f33/language/ru.md" >}}) | 989 | 7681 | 12.9 | /mnt/stockage/packages/f33/pulseeffects/help/ru/ru.po/mnt/stockage/packages/f33/pulseeffects/po/ru.po | 
+ | [es_CO](/f33/language/es_CO) | 2208 | 2208 | 100.0 | /mnt/stockage/packages/f33/pulseeffects/po/es_VE.po/mnt/stockage/packages/f33/pulseeffects/po/es_MX.po/mnt/stockage/packages/f33/pulseeffects/po/es_CO.po | 
+ | [it](/f33/language/it) | 7681 | 7681 | 100.0 | /mnt/stockage/packages/f33/pulseeffects/help/it_IT/it_IT.po/mnt/stockage/packages/f33/pulseeffects/po/it_IT.po | 
+ | [de](/f33/language/de) | 7090 | 7681 | 92.3 | /mnt/stockage/packages/f33/pulseeffects/help/de/de.po/mnt/stockage/packages/f33/pulseeffects/po/de.po | 
+ | [sk](/f33/language/sk) | 772 | 842 | 91.7 | /mnt/stockage/packages/f33/pulseeffects/po/sk.po | 
+ | [zh_Hans](/f33/language/zh_Hans) | 753 | 828 | 90.9 | /mnt/stockage/packages/f33/pulseeffects/po/zh_CN.po | 
+ | [cs](/f33/language/cs) | 763 | 842 | 90.6 | /mnt/stockage/packages/f33/pulseeffects/po/cs.po | 
+ | [tr](/f33/language/tr) | 3071 | 4056 | 75.7 | /mnt/stockage/packages/f33/pulseeffects/help/tr/tr.po/mnt/stockage/packages/f33/pulseeffects/po/tr.po | 
+ | [id](/f33/language/id) | 615 | 842 | 73.0 | /mnt/stockage/packages/f33/pulseeffects/po/id_ID.po | 
+ | [pt_BR](/f33/language/pt_BR) | 4218 | 7681 | 54.9 | /mnt/stockage/packages/f33/pulseeffects/help/pt_BR/pt_BR.po/mnt/stockage/packages/f33/pulseeffects/po/pt_BR.po | 
+ | [hr](/f33/language/hr) | 428 | 842 | 50.8 | /mnt/stockage/packages/f33/pulseeffects/po/hr.po | 
+ | [pl](/f33/language/pl) | 421 | 842 | 50.0 | /mnt/stockage/packages/f33/pulseeffects/po/pl.po | 
+ | [sv](/f33/language/sv) | 203 | 842 | 24.1 | /mnt/stockage/packages/f33/pulseeffects/po/sv.po | 
+ | [fr](/f33/language/fr) | 187 | 842 | 22.2 | /mnt/stockage/packages/f33/pulseeffects/po/fr_FR.po | 
+ | [ru](/f33/language/ru) | 989 | 7681 | 12.9 | /mnt/stockage/packages/f33/pulseeffects/help/ru/ru.po/mnt/stockage/packages/f33/pulseeffects/po/ru.po | 
 {.sortable}
 
 

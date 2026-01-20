@@ -18,11 +18,11 @@ The package nautilus-search-tool (version 0.3.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [es]({{< ref "/f29/language/es.md" >}}) | 11 | 11 | 100.0 | /mnt/stockage/packages/f29/nautilus-search-tool/po/es.po | 
- | [fr]({{< ref "/f29/language/fr.md" >}}) | 11 | 11 | 100.0 | /mnt/stockage/packages/f29/nautilus-search-tool/po/fr.po | 
- | [it]({{< ref "/f29/language/it.md" >}}) | 11 | 11 | 100.0 | /mnt/stockage/packages/f29/nautilus-search-tool/po/it.po | 
- | [sv]({{< ref "/f29/language/sv.md" >}}) | 11 | 11 | 100.0 | /mnt/stockage/packages/f29/nautilus-search-tool/po/sv.po | 
- | [tr]({{< ref "/f29/language/tr.md" >}}) | 11 | 11 | 100.0 | /mnt/stockage/packages/f29/nautilus-search-tool/po/tr.po | 
+ | [es](/f29/language/es) | 11 | 11 | 100.0 | /mnt/stockage/packages/f29/nautilus-search-tool/po/es.po | 
+ | [fr](/f29/language/fr) | 11 | 11 | 100.0 | /mnt/stockage/packages/f29/nautilus-search-tool/po/fr.po | 
+ | [it](/f29/language/it) | 11 | 11 | 100.0 | /mnt/stockage/packages/f29/nautilus-search-tool/po/it.po | 
+ | [sv](/f29/language/sv) | 11 | 11 | 100.0 | /mnt/stockage/packages/f29/nautilus-search-tool/po/sv.po | 
+ | [tr](/f29/language/tr) | 11 | 11 | 100.0 | /mnt/stockage/packages/f29/nautilus-search-tool/po/tr.po | 
 {.sortable}
 
 

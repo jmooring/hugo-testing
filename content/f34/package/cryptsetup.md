@@ -18,24 +18,24 @@ The package cryptsetup (version 2.3.7):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f34/language/cs.md" >}}) | 5930 | 5988 | 99.0 | /mnt/stockage/packages/f34/cryptsetup/po/cs.po | 
- | [de]({{< ref "/f34/language/de.md" >}}) | 5930 | 5988 | 99.0 | /mnt/stockage/packages/f34/cryptsetup/po/de.po | 
- | [fr]({{< ref "/f34/language/fr.md" >}}) | 5930 | 5988 | 99.0 | /mnt/stockage/packages/f34/cryptsetup/po/fr.po | 
- | [ja]({{< ref "/f34/language/ja.md" >}}) | 5930 | 5988 | 99.0 | /mnt/stockage/packages/f34/cryptsetup/po/ja.po | 
- | [pl]({{< ref "/f34/language/pl.md" >}}) | 5930 | 5988 | 99.0 | /mnt/stockage/packages/f34/cryptsetup/po/pl.po | 
- | [ru]({{< ref "/f34/language/ru.md" >}}) | 5930 | 5988 | 99.0 | /mnt/stockage/packages/f34/cryptsetup/po/ru.po | 
- | [uk]({{< ref "/f34/language/uk.md" >}}) | 5930 | 5988 | 99.0 | /mnt/stockage/packages/f34/cryptsetup/po/uk.po | 
- | [es]({{< ref "/f34/language/es.md" >}}) | 5903 | 5988 | 98.6 | /mnt/stockage/packages/f34/cryptsetup/po/es.po | 
- | [sr]({{< ref "/f34/language/sr.md" >}}) | 5903 | 5988 | 98.6 | /mnt/stockage/packages/f34/cryptsetup/po/sr.po | 
- | [sv]({{< ref "/f34/language/sv.md" >}}) | 5797 | 5988 | 96.8 | /mnt/stockage/packages/f34/cryptsetup/po/sv.po | 
- | [da]({{< ref "/f34/language/da.md" >}}) | 5339 | 5988 | 89.2 | /mnt/stockage/packages/f34/cryptsetup/po/da.po | 
- | [it]({{< ref "/f34/language/it.md" >}}) | 3995 | 5988 | 66.7 | /mnt/stockage/packages/f34/cryptsetup/po/it.po | 
- | [pt_BR]({{< ref "/f34/language/pt_BR.md" >}}) | 3995 | 5988 | 66.7 | /mnt/stockage/packages/f34/cryptsetup/po/pt_BR.po | 
- | [zh_Hans]({{< ref "/f34/language/zh_Hans.md" >}}) | 2354 | 5988 | 39.3 | /mnt/stockage/packages/f34/cryptsetup/po/zh_CN.po | 
- | [nl]({{< ref "/f34/language/nl.md" >}}) | 2112 | 5988 | 35.3 | /mnt/stockage/packages/f34/cryptsetup/po/nl.po | 
- | [vi]({{< ref "/f34/language/vi.md" >}}) | 816 | 5988 | 13.6 | /mnt/stockage/packages/f34/cryptsetup/po/vi.po | 
- | [fi]({{< ref "/f34/language/fi.md" >}}) | 785 | 5988 | 13.1 | /mnt/stockage/packages/f34/cryptsetup/po/fi.po | 
- | [id]({{< ref "/f34/language/id.md" >}}) | 340 | 5988 | 5.7 | /mnt/stockage/packages/f34/cryptsetup/po/id.po | 
+ | [cs](/f34/language/cs) | 5930 | 5988 | 99.0 | /mnt/stockage/packages/f34/cryptsetup/po/cs.po | 
+ | [de](/f34/language/de) | 5930 | 5988 | 99.0 | /mnt/stockage/packages/f34/cryptsetup/po/de.po | 
+ | [fr](/f34/language/fr) | 5930 | 5988 | 99.0 | /mnt/stockage/packages/f34/cryptsetup/po/fr.po | 
+ | [ja](/f34/language/ja) | 5930 | 5988 | 99.0 | /mnt/stockage/packages/f34/cryptsetup/po/ja.po | 
+ | [pl](/f34/language/pl) | 5930 | 5988 | 99.0 | /mnt/stockage/packages/f34/cryptsetup/po/pl.po | 
+ | [ru](/f34/language/ru) | 5930 | 5988 | 99.0 | /mnt/stockage/packages/f34/cryptsetup/po/ru.po | 
+ | [uk](/f34/language/uk) | 5930 | 5988 | 99.0 | /mnt/stockage/packages/f34/cryptsetup/po/uk.po | 
+ | [es](/f34/language/es) | 5903 | 5988 | 98.6 | /mnt/stockage/packages/f34/cryptsetup/po/es.po | 
+ | [sr](/f34/language/sr) | 5903 | 5988 | 98.6 | /mnt/stockage/packages/f34/cryptsetup/po/sr.po | 
+ | [sv](/f34/language/sv) | 5797 | 5988 | 96.8 | /mnt/stockage/packages/f34/cryptsetup/po/sv.po | 
+ | [da](/f34/language/da) | 5339 | 5988 | 89.2 | /mnt/stockage/packages/f34/cryptsetup/po/da.po | 
+ | [it](/f34/language/it) | 3995 | 5988 | 66.7 | /mnt/stockage/packages/f34/cryptsetup/po/it.po | 
+ | [pt_BR](/f34/language/pt_BR) | 3995 | 5988 | 66.7 | /mnt/stockage/packages/f34/cryptsetup/po/pt_BR.po | 
+ | [zh_Hans](/f34/language/zh_Hans) | 2354 | 5988 | 39.3 | /mnt/stockage/packages/f34/cryptsetup/po/zh_CN.po | 
+ | [nl](/f34/language/nl) | 2112 | 5988 | 35.3 | /mnt/stockage/packages/f34/cryptsetup/po/nl.po | 
+ | [vi](/f34/language/vi) | 816 | 5988 | 13.6 | /mnt/stockage/packages/f34/cryptsetup/po/vi.po | 
+ | [fi](/f34/language/fi) | 785 | 5988 | 13.1 | /mnt/stockage/packages/f34/cryptsetup/po/fi.po | 
+ | [id](/f34/language/id) | 340 | 5988 | 5.7 | /mnt/stockage/packages/f34/cryptsetup/po/id.po | 
 {.sortable}
 
 

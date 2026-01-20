@@ -18,13 +18,13 @@ The package iok (version 1.3.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [nl]({{< ref "/f10/language/nl.md" >}}) | 127 | 129 | 98.4 | /mnt/stockage/packages/f10/iok/po/nl.po | 
- | [pa]({{< ref "/f10/language/pa.md" >}}) | 127 | 129 | 98.4 | /mnt/stockage/packages/f10/iok/po/pa.po | 
- | [it]({{< ref "/f10/language/it.md" >}}) | 125 | 129 | 96.9 | /mnt/stockage/packages/f10/iok/po/it.po | 
- | [pl]({{< ref "/f10/language/pl.md" >}}) | 125 | 129 | 96.9 | /mnt/stockage/packages/f10/iok/po/pl.po | 
- | [pt_BR]({{< ref "/f10/language/pt_BR.md" >}}) | 42 | 129 | 32.6 | /mnt/stockage/packages/f10/iok/po/pt_BR.po | 
- | [de]({{< ref "/f10/language/de.md" >}}) | 34 | 129 | 26.4 | /mnt/stockage/packages/f10/iok/po/de.po | 
- | [zh_Hans]({{< ref "/f10/language/zh_Hans.md" >}}) | 28 | 129 | 21.7 | /mnt/stockage/packages/f10/iok/po/zh_CN.po | 
+ | [nl](/f10/language/nl) | 127 | 129 | 98.4 | /mnt/stockage/packages/f10/iok/po/nl.po | 
+ | [pa](/f10/language/pa) | 127 | 129 | 98.4 | /mnt/stockage/packages/f10/iok/po/pa.po | 
+ | [it](/f10/language/it) | 125 | 129 | 96.9 | /mnt/stockage/packages/f10/iok/po/it.po | 
+ | [pl](/f10/language/pl) | 125 | 129 | 96.9 | /mnt/stockage/packages/f10/iok/po/pl.po | 
+ | [pt_BR](/f10/language/pt_BR) | 42 | 129 | 32.6 | /mnt/stockage/packages/f10/iok/po/pt_BR.po | 
+ | [de](/f10/language/de) | 34 | 129 | 26.4 | /mnt/stockage/packages/f10/iok/po/de.po | 
+ | [zh_Hans](/f10/language/zh_Hans) | 28 | 129 | 21.7 | /mnt/stockage/packages/f10/iok/po/zh_CN.po | 
 {.sortable}
 
 

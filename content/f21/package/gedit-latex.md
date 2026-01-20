@@ -18,29 +18,29 @@ The package gedit-latex (version 3.8.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f21/language/cs.md" >}}) | 466 | 466 | 100.0 | /mnt/stockage/packages/f21/gedit-latex/po/cs.po | 
- | [da]({{< ref "/f21/language/da.md" >}}) | 466 | 466 | 100.0 | /mnt/stockage/packages/f21/gedit-latex/po/da.po | 
- | [de]({{< ref "/f21/language/de.md" >}}) | 466 | 466 | 100.0 | /mnt/stockage/packages/f21/gedit-latex/po/de.po | 
- | [el]({{< ref "/f21/language/el.md" >}}) | 466 | 466 | 100.0 | /mnt/stockage/packages/f21/gedit-latex/po/el.po | 
- | [es]({{< ref "/f21/language/es.md" >}}) | 466 | 466 | 100.0 | /mnt/stockage/packages/f21/gedit-latex/po/es.po | 
- | [fr]({{< ref "/f21/language/fr.md" >}}) | 466 | 466 | 100.0 | /mnt/stockage/packages/f21/gedit-latex/po/fr.po | 
- | [gl]({{< ref "/f21/language/gl.md" >}}) | 466 | 466 | 100.0 | /mnt/stockage/packages/f21/gedit-latex/po/gl.po | 
- | [hu]({{< ref "/f21/language/hu.md" >}}) | 466 | 466 | 100.0 | /mnt/stockage/packages/f21/gedit-latex/po/hu.po | 
- | [it]({{< ref "/f21/language/it.md" >}}) | 466 | 466 | 100.0 | /mnt/stockage/packages/f21/gedit-latex/po/it.po | 
- | [lv]({{< ref "/f21/language/lv.md" >}}) | 466 | 466 | 100.0 | /mnt/stockage/packages/f21/gedit-latex/po/lv.po | 
- | [pl]({{< ref "/f21/language/pl.md" >}}) | 466 | 466 | 100.0 | /mnt/stockage/packages/f21/gedit-latex/po/pl.po | 
- | [pt_BR]({{< ref "/f21/language/pt_BR.md" >}}) | 466 | 466 | 100.0 | /mnt/stockage/packages/f21/gedit-latex/po/pt_BR.po | 
- | [sl]({{< ref "/f21/language/sl.md" >}}) | 466 | 466 | 100.0 | /mnt/stockage/packages/f21/gedit-latex/po/sl.po | 
- | [sr]({{< ref "/f21/language/sr.md" >}}) | 932 | 932 | 100.0 | /mnt/stockage/packages/f21/gedit-latex/po/sr@latin.po/mnt/stockage/packages/f21/gedit-latex/po/sr.po | 
- | [th]({{< ref "/f21/language/th.md" >}}) | 466 | 466 | 100.0 | /mnt/stockage/packages/f21/gedit-latex/po/th.po | 
- | [zh_Hans]({{< ref "/f21/language/zh_Hans.md" >}}) | 466 | 466 | 100.0 | /mnt/stockage/packages/f21/gedit-latex/po/zh_CN.po | 
- | [ru]({{< ref "/f21/language/ru.md" >}}) | 251 | 298 | 84.2 | /mnt/stockage/packages/f21/gedit-latex/po/ru.po | 
- | [eu]({{< ref "/f21/language/eu.md" >}}) | 336 | 466 | 72.1 | /mnt/stockage/packages/f21/gedit-latex/po/eu.po | 
- | [id]({{< ref "/f21/language/id.md" >}}) | 283 | 466 | 60.7 | /mnt/stockage/packages/f21/gedit-latex/po/id.po | 
- | [sv]({{< ref "/f21/language/sv.md" >}}) | 221 | 416 | 53.1 | /mnt/stockage/packages/f21/gedit-latex/po/sv.po | 
- | [nb_NO]({{< ref "/f21/language/nb_NO.md" >}}) | 85 | 298 | 28.5 | /mnt/stockage/packages/f21/gedit-latex/po/nb.po | 
- | [ca]({{< ref "/f21/language/ca.md" >}}) | 111 | 466 | 23.8 | /mnt/stockage/packages/f21/gedit-latex/po/ca.po | 
- | [eo]({{< ref "/f21/language/eo.md" >}}) | 95 | 416 | 22.8 | /mnt/stockage/packages/f21/gedit-latex/po/eo.po | 
+ | [cs](/f21/language/cs) | 466 | 466 | 100.0 | /mnt/stockage/packages/f21/gedit-latex/po/cs.po | 
+ | [da](/f21/language/da) | 466 | 466 | 100.0 | /mnt/stockage/packages/f21/gedit-latex/po/da.po | 
+ | [de](/f21/language/de) | 466 | 466 | 100.0 | /mnt/stockage/packages/f21/gedit-latex/po/de.po | 
+ | [el](/f21/language/el) | 466 | 466 | 100.0 | /mnt/stockage/packages/f21/gedit-latex/po/el.po | 
+ | [es](/f21/language/es) | 466 | 466 | 100.0 | /mnt/stockage/packages/f21/gedit-latex/po/es.po | 
+ | [fr](/f21/language/fr) | 466 | 466 | 100.0 | /mnt/stockage/packages/f21/gedit-latex/po/fr.po | 
+ | [gl](/f21/language/gl) | 466 | 466 | 100.0 | /mnt/stockage/packages/f21/gedit-latex/po/gl.po | 
+ | [hu](/f21/language/hu) | 466 | 466 | 100.0 | /mnt/stockage/packages/f21/gedit-latex/po/hu.po | 
+ | [it](/f21/language/it) | 466 | 466 | 100.0 | /mnt/stockage/packages/f21/gedit-latex/po/it.po | 
+ | [lv](/f21/language/lv) | 466 | 466 | 100.0 | /mnt/stockage/packages/f21/gedit-latex/po/lv.po | 
+ | [pl](/f21/language/pl) | 466 | 466 | 100.0 | /mnt/stockage/packages/f21/gedit-latex/po/pl.po | 
+ | [pt_BR](/f21/language/pt_BR) | 466 | 466 | 100.0 | /mnt/stockage/packages/f21/gedit-latex/po/pt_BR.po | 
+ | [sl](/f21/language/sl) | 466 | 466 | 100.0 | /mnt/stockage/packages/f21/gedit-latex/po/sl.po | 
+ | [sr](/f21/language/sr) | 932 | 932 | 100.0 | /mnt/stockage/packages/f21/gedit-latex/po/sr@latin.po/mnt/stockage/packages/f21/gedit-latex/po/sr.po | 
+ | [th](/f21/language/th) | 466 | 466 | 100.0 | /mnt/stockage/packages/f21/gedit-latex/po/th.po | 
+ | [zh_Hans](/f21/language/zh_Hans) | 466 | 466 | 100.0 | /mnt/stockage/packages/f21/gedit-latex/po/zh_CN.po | 
+ | [ru](/f21/language/ru) | 251 | 298 | 84.2 | /mnt/stockage/packages/f21/gedit-latex/po/ru.po | 
+ | [eu](/f21/language/eu) | 336 | 466 | 72.1 | /mnt/stockage/packages/f21/gedit-latex/po/eu.po | 
+ | [id](/f21/language/id) | 283 | 466 | 60.7 | /mnt/stockage/packages/f21/gedit-latex/po/id.po | 
+ | [sv](/f21/language/sv) | 221 | 416 | 53.1 | /mnt/stockage/packages/f21/gedit-latex/po/sv.po | 
+ | [nb_NO](/f21/language/nb_NO) | 85 | 298 | 28.5 | /mnt/stockage/packages/f21/gedit-latex/po/nb.po | 
+ | [ca](/f21/language/ca) | 111 | 466 | 23.8 | /mnt/stockage/packages/f21/gedit-latex/po/ca.po | 
+ | [eo](/f21/language/eo) | 95 | 416 | 22.8 | /mnt/stockage/packages/f21/gedit-latex/po/eo.po | 
 {.sortable}
 
 

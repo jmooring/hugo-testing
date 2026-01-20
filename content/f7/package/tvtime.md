@@ -18,14 +18,14 @@ The package tvtime (version 1.0.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f7/language/cs.md" >}}) | 1205 | 1224 | 98.4 | /mnt/stockage/packages/f7/tvtime/po/cs.po | 
- | [de]({{< ref "/f7/language/de.md" >}}) | 1205 | 1224 | 98.4 | /mnt/stockage/packages/f7/tvtime/po/de.po | 
- | [hu]({{< ref "/f7/language/hu.md" >}}) | 1205 | 1224 | 98.4 | /mnt/stockage/packages/f7/tvtime/po/hu.po | 
- | [es]({{< ref "/f7/language/es.md" >}}) | 1169 | 1224 | 95.5 | /mnt/stockage/packages/f7/tvtime/po/es.po | 
- | [fi]({{< ref "/f7/language/fi.md" >}}) | 1169 | 1224 | 95.5 | /mnt/stockage/packages/f7/tvtime/po/fi.po | 
- | [sv]({{< ref "/f7/language/sv.md" >}}) | 1169 | 1224 | 95.5 | /mnt/stockage/packages/f7/tvtime/po/sv.po | 
- | [pt]({{< ref "/f7/language/pt.md" >}}) | 1159 | 1224 | 94.7 | /mnt/stockage/packages/f7/tvtime/po/pt.po | 
- | [pl]({{< ref "/f7/language/pl.md" >}}) | 1048 | 1224 | 85.6 | /mnt/stockage/packages/f7/tvtime/po/pl.po | 
+ | [cs](/f7/language/cs) | 1205 | 1224 | 98.4 | /mnt/stockage/packages/f7/tvtime/po/cs.po | 
+ | [de](/f7/language/de) | 1205 | 1224 | 98.4 | /mnt/stockage/packages/f7/tvtime/po/de.po | 
+ | [hu](/f7/language/hu) | 1205 | 1224 | 98.4 | /mnt/stockage/packages/f7/tvtime/po/hu.po | 
+ | [es](/f7/language/es) | 1169 | 1224 | 95.5 | /mnt/stockage/packages/f7/tvtime/po/es.po | 
+ | [fi](/f7/language/fi) | 1169 | 1224 | 95.5 | /mnt/stockage/packages/f7/tvtime/po/fi.po | 
+ | [sv](/f7/language/sv) | 1169 | 1224 | 95.5 | /mnt/stockage/packages/f7/tvtime/po/sv.po | 
+ | [pt](/f7/language/pt) | 1159 | 1224 | 94.7 | /mnt/stockage/packages/f7/tvtime/po/pt.po | 
+ | [pl](/f7/language/pl) | 1048 | 1224 | 85.6 | /mnt/stockage/packages/f7/tvtime/po/pl.po | 
 {.sortable}
 
 

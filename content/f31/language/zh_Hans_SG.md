@@ -38,7 +38,7 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [visualboyadvance-m]({{< ref "/f31/package/visualboyadvance-m.md" >}}) | 0 | 2393 | 0.0 | Chinese (Singapore) (http://www.transifex.com/bgk/vba-m/language/zh_SG/) | 
+ | [visualboyadvance-m](/f31/package/visualboyadvance-m) | 0 | 2393 | 0.0 | Chinese (Singapore) (http://www.transifex.com/bgk/vba-m/language/zh_SG/) | 
 {.sortable}
 
 

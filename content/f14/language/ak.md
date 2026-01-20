@@ -38,11 +38,11 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [pootle]({{< ref "/f14/package/pootle.md" >}}) | 5453 | 5453 | 100.0 | LANGUAGE <LL@li.org> | 
- | [virtaal]({{< ref "/f14/package/virtaal.md" >}}) | 1309 | 1309 | 100.0 | LANGUAGE <LL@li.org> | 
- | [sugar-clock]({{< ref "/f14/package/sugar-clock.md" >}}) | 0 | 38 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-moon]({{< ref "/f14/package/sugar-moon.md" >}}) | 0 | 90 | 0.0 | LANGUAGE <LL@li.org> | 
- | [vidalia]({{< ref "/f14/package/vidalia.md" >}}) | 0 | 10375 | 0.0 | translations@vidalia-project.net | 
+ | [pootle](/f14/package/pootle) | 5453 | 5453 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [virtaal](/f14/package/virtaal) | 1309 | 1309 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-clock](/f14/package/sugar-clock) | 0 | 38 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-moon](/f14/package/sugar-moon) | 0 | 90 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [vidalia](/f14/package/vidalia) | 0 | 10375 | 0.0 | translations@vidalia-project.net | 
 {.sortable}
 
 

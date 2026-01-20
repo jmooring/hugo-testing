@@ -18,16 +18,16 @@ The package ikiwiki (version 2.72):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [es]({{< ref "/f10/language/es.md" >}}) | 1015 | 1015 | 100.0 | /mnt/stockage/packages/f10/ikiwiki/po/es.po | 
- | [de]({{< ref "/f10/language/de.md" >}}) | 985 | 1015 | 97.0 | /mnt/stockage/packages/f10/ikiwiki/po/de.po | 
- | [fr]({{< ref "/f10/language/fr.md" >}}) | 985 | 1015 | 97.0 | /mnt/stockage/packages/f10/ikiwiki/po/fr.po | 
- | [da]({{< ref "/f10/language/da.md" >}}) | 935 | 1015 | 92.1 | /mnt/stockage/packages/f10/ikiwiki/po/da.po | 
- | [cs]({{< ref "/f10/language/cs.md" >}}) | 424 | 1015 | 41.8 | /mnt/stockage/packages/f10/ikiwiki/po/cs.po | 
- | [gu]({{< ref "/f10/language/gu.md" >}}) | 407 | 1015 | 40.1 | /mnt/stockage/packages/f10/ikiwiki/po/gu.po | 
- | [pl]({{< ref "/f10/language/pl.md" >}}) | 333 | 1015 | 32.8 | /mnt/stockage/packages/f10/ikiwiki/po/pl.po | 
- | [bg]({{< ref "/f10/language/bg.md" >}}) | 230 | 1015 | 22.7 | /mnt/stockage/packages/f10/ikiwiki/po/bg.po | 
- | [sv]({{< ref "/f10/language/sv.md" >}}) | 230 | 1015 | 22.7 | /mnt/stockage/packages/f10/ikiwiki/po/sv.po | 
- | [vi]({{< ref "/f10/language/vi.md" >}}) | 230 | 1015 | 22.7 | /mnt/stockage/packages/f10/ikiwiki/po/vi.po | 
+ | [es](/f10/language/es) | 1015 | 1015 | 100.0 | /mnt/stockage/packages/f10/ikiwiki/po/es.po | 
+ | [de](/f10/language/de) | 985 | 1015 | 97.0 | /mnt/stockage/packages/f10/ikiwiki/po/de.po | 
+ | [fr](/f10/language/fr) | 985 | 1015 | 97.0 | /mnt/stockage/packages/f10/ikiwiki/po/fr.po | 
+ | [da](/f10/language/da) | 935 | 1015 | 92.1 | /mnt/stockage/packages/f10/ikiwiki/po/da.po | 
+ | [cs](/f10/language/cs) | 424 | 1015 | 41.8 | /mnt/stockage/packages/f10/ikiwiki/po/cs.po | 
+ | [gu](/f10/language/gu) | 407 | 1015 | 40.1 | /mnt/stockage/packages/f10/ikiwiki/po/gu.po | 
+ | [pl](/f10/language/pl) | 333 | 1015 | 32.8 | /mnt/stockage/packages/f10/ikiwiki/po/pl.po | 
+ | [bg](/f10/language/bg) | 230 | 1015 | 22.7 | /mnt/stockage/packages/f10/ikiwiki/po/bg.po | 
+ | [sv](/f10/language/sv) | 230 | 1015 | 22.7 | /mnt/stockage/packages/f10/ikiwiki/po/sv.po | 
+ | [vi](/f10/language/vi) | 230 | 1015 | 22.7 | /mnt/stockage/packages/f10/ikiwiki/po/vi.po | 
 {.sortable}
 
 

@@ -18,10 +18,10 @@ The package pam_pkcs11 (version 0.6.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f18/language/fr.md" >}}) | 37 | 37 | 100.0 | /mnt/stockage/packages/f18/pam_pkcs11/po/fr.po | 
- | [de]({{< ref "/f18/language/de.md" >}}) | 22 | 37 | 59.5 | /mnt/stockage/packages/f18/pam_pkcs11/po/de.po | 
- | [pl]({{< ref "/f18/language/pl.md" >}}) | 22 | 37 | 59.5 | /mnt/stockage/packages/f18/pam_pkcs11/po/pl.po | 
- | [ru]({{< ref "/f18/language/ru.md" >}}) | 22 | 37 | 59.5 | /mnt/stockage/packages/f18/pam_pkcs11/po/ru.po | 
+ | [fr](/f18/language/fr) | 37 | 37 | 100.0 | /mnt/stockage/packages/f18/pam_pkcs11/po/fr.po | 
+ | [de](/f18/language/de) | 22 | 37 | 59.5 | /mnt/stockage/packages/f18/pam_pkcs11/po/de.po | 
+ | [pl](/f18/language/pl) | 22 | 37 | 59.5 | /mnt/stockage/packages/f18/pam_pkcs11/po/pl.po | 
+ | [ru](/f18/language/ru) | 22 | 37 | 59.5 | /mnt/stockage/packages/f18/pam_pkcs11/po/ru.po | 
 {.sortable}
 
 

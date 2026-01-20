@@ -18,29 +18,29 @@ The package make (version 3.81):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [es]({{< ref "/f10/language/es.md" >}}) | 1869 | 1997 | 93.6 | /mnt/stockage/packages/f10/make/po/es.po | 
- | [fr]({{< ref "/f10/language/fr.md" >}}) | 1869 | 1997 | 93.6 | /mnt/stockage/packages/f10/make/po/fr.po | 
- | [ga]({{< ref "/f10/language/ga.md" >}}) | 1869 | 1997 | 93.6 | /mnt/stockage/packages/f10/make/po/ga.po | 
- | [nl]({{< ref "/f10/language/nl.md" >}}) | 1869 | 1997 | 93.6 | /mnt/stockage/packages/f10/make/po/nl.po | 
- | [pl]({{< ref "/f10/language/pl.md" >}}) | 1869 | 1997 | 93.6 | /mnt/stockage/packages/f10/make/po/pl.po | 
- | [vi]({{< ref "/f10/language/vi.md" >}}) | 1869 | 1997 | 93.6 | /mnt/stockage/packages/f10/make/po/vi.po | 
- | [fi]({{< ref "/f10/language/fi.md" >}}) | 1760 | 1997 | 88.1 | /mnt/stockage/packages/f10/make/po/fi.po | 
- | [da]({{< ref "/f10/language/da.md" >}}) | 1741 | 1997 | 87.2 | /mnt/stockage/packages/f10/make/po/da.po | 
- | [gl]({{< ref "/f10/language/gl.md" >}}) | 1741 | 1997 | 87.2 | /mnt/stockage/packages/f10/make/po/gl.po | 
- | [hr]({{< ref "/f10/language/hr.md" >}}) | 1741 | 1997 | 87.2 | /mnt/stockage/packages/f10/make/po/hr.po | 
- | [ja]({{< ref "/f10/language/ja.md" >}}) | 1741 | 1997 | 87.2 | /mnt/stockage/packages/f10/make/po/ja.po | 
- | [pt_BR]({{< ref "/f10/language/pt_BR.md" >}}) | 1741 | 1997 | 87.2 | /mnt/stockage/packages/f10/make/po/pt_BR.po | 
- | [tr]({{< ref "/f10/language/tr.md" >}}) | 1741 | 1997 | 87.2 | /mnt/stockage/packages/f10/make/po/tr.po | 
- | [de]({{< ref "/f10/language/de.md" >}}) | 1453 | 1997 | 72.8 | /mnt/stockage/packages/f10/make/po/de.po | 
- | [he]({{< ref "/f10/language/he.md" >}}) | 1355 | 1997 | 67.9 | /mnt/stockage/packages/f10/make/po/he.po | 
- | [ko]({{< ref "/f10/language/ko.md" >}}) | 1355 | 1997 | 67.9 | /mnt/stockage/packages/f10/make/po/ko.po | 
- | [ru]({{< ref "/f10/language/ru.md" >}}) | 1355 | 1997 | 67.9 | /mnt/stockage/packages/f10/make/po/ru.po | 
- | [sv]({{< ref "/f10/language/sv.md" >}}) | 1355 | 1997 | 67.9 | /mnt/stockage/packages/f10/make/po/sv.po | 
- | [id]({{< ref "/f10/language/id.md" >}}) | 1332 | 1997 | 66.7 | /mnt/stockage/packages/f10/make/po/id.po | 
- | [zh_Hans]({{< ref "/f10/language/zh_Hans.md" >}}) | 1182 | 1997 | 59.2 | /mnt/stockage/packages/f10/make/po/zh_CN.po | 
- | [uk]({{< ref "/f10/language/uk.md" >}}) | 950 | 1997 | 47.6 | /mnt/stockage/packages/f10/make/po/uk.po | 
- | [be]({{< ref "/f10/language/be.md" >}}) | 528 | 1997 | 26.4 | /mnt/stockage/packages/f10/make/po/be.po | 
- | [rw]({{< ref "/f10/language/rw.md" >}}) | 6 | 1997 | 0.3 | /mnt/stockage/packages/f10/make/po/rw.po | 
+ | [es](/f10/language/es) | 1869 | 1997 | 93.6 | /mnt/stockage/packages/f10/make/po/es.po | 
+ | [fr](/f10/language/fr) | 1869 | 1997 | 93.6 | /mnt/stockage/packages/f10/make/po/fr.po | 
+ | [ga](/f10/language/ga) | 1869 | 1997 | 93.6 | /mnt/stockage/packages/f10/make/po/ga.po | 
+ | [nl](/f10/language/nl) | 1869 | 1997 | 93.6 | /mnt/stockage/packages/f10/make/po/nl.po | 
+ | [pl](/f10/language/pl) | 1869 | 1997 | 93.6 | /mnt/stockage/packages/f10/make/po/pl.po | 
+ | [vi](/f10/language/vi) | 1869 | 1997 | 93.6 | /mnt/stockage/packages/f10/make/po/vi.po | 
+ | [fi](/f10/language/fi) | 1760 | 1997 | 88.1 | /mnt/stockage/packages/f10/make/po/fi.po | 
+ | [da](/f10/language/da) | 1741 | 1997 | 87.2 | /mnt/stockage/packages/f10/make/po/da.po | 
+ | [gl](/f10/language/gl) | 1741 | 1997 | 87.2 | /mnt/stockage/packages/f10/make/po/gl.po | 
+ | [hr](/f10/language/hr) | 1741 | 1997 | 87.2 | /mnt/stockage/packages/f10/make/po/hr.po | 
+ | [ja](/f10/language/ja) | 1741 | 1997 | 87.2 | /mnt/stockage/packages/f10/make/po/ja.po | 
+ | [pt_BR](/f10/language/pt_BR) | 1741 | 1997 | 87.2 | /mnt/stockage/packages/f10/make/po/pt_BR.po | 
+ | [tr](/f10/language/tr) | 1741 | 1997 | 87.2 | /mnt/stockage/packages/f10/make/po/tr.po | 
+ | [de](/f10/language/de) | 1453 | 1997 | 72.8 | /mnt/stockage/packages/f10/make/po/de.po | 
+ | [he](/f10/language/he) | 1355 | 1997 | 67.9 | /mnt/stockage/packages/f10/make/po/he.po | 
+ | [ko](/f10/language/ko) | 1355 | 1997 | 67.9 | /mnt/stockage/packages/f10/make/po/ko.po | 
+ | [ru](/f10/language/ru) | 1355 | 1997 | 67.9 | /mnt/stockage/packages/f10/make/po/ru.po | 
+ | [sv](/f10/language/sv) | 1355 | 1997 | 67.9 | /mnt/stockage/packages/f10/make/po/sv.po | 
+ | [id](/f10/language/id) | 1332 | 1997 | 66.7 | /mnt/stockage/packages/f10/make/po/id.po | 
+ | [zh_Hans](/f10/language/zh_Hans) | 1182 | 1997 | 59.2 | /mnt/stockage/packages/f10/make/po/zh_CN.po | 
+ | [uk](/f10/language/uk) | 950 | 1997 | 47.6 | /mnt/stockage/packages/f10/make/po/uk.po | 
+ | [be](/f10/language/be) | 528 | 1997 | 26.4 | /mnt/stockage/packages/f10/make/po/be.po | 
+ | [rw](/f10/language/rw) | 6 | 1997 | 0.3 | /mnt/stockage/packages/f10/make/po/rw.po | 
 {.sortable}
 
 

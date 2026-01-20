@@ -18,7 +18,7 @@ The package libtifiles2 (version 1.1.6):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f22/language/fr.md" >}}) | 194 | 194 | 100.0 | /mnt/stockage/packages/f22/libtifiles2/po/fr.po | 
+ | [fr](/f22/language/fr) | 194 | 194 | 100.0 | /mnt/stockage/packages/f22/libtifiles2/po/fr.po | 
 {.sortable}
 
 

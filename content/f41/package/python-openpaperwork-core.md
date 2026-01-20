@@ -18,14 +18,14 @@ The package python-openpaperwork-core (version 2.2.5):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f41/language/ca.md" >}}) | 178 | 178 | 100.0 | /mnt/stockage/packages/f41/python-openpaperwork-core/l10n/ca.po | 
- | [de]({{< ref "/f41/language/de.md" >}}) | 178 | 178 | 100.0 | /mnt/stockage/packages/f41/python-openpaperwork-core/l10n/de.po | 
- | [es]({{< ref "/f41/language/es.md" >}}) | 178 | 178 | 100.0 | /mnt/stockage/packages/f41/python-openpaperwork-core/l10n/es.po | 
- | [fr]({{< ref "/f41/language/fr.md" >}}) | 178 | 178 | 100.0 | /mnt/stockage/packages/f41/python-openpaperwork-core/l10n/fr.po | 
- | [oc]({{< ref "/f41/language/oc.md" >}}) | 178 | 178 | 100.0 | /mnt/stockage/packages/f41/python-openpaperwork-core/l10n/oc.po | 
- | [sv]({{< ref "/f41/language/sv.md" >}}) | 169 | 169 | 100.0 | /mnt/stockage/packages/f41/python-openpaperwork-core/l10n/sv.po | 
- | [zh_Hans]({{< ref "/f41/language/zh_Hans.md" >}}) | 169 | 169 | 100.0 | /mnt/stockage/packages/f41/python-openpaperwork-core/l10n/zh_Hans.po | 
- | [uk]({{< ref "/f41/language/uk.md" >}}) | 0 | 178 | 0.0 | /mnt/stockage/packages/f41/python-openpaperwork-core/l10n/uk.po | 
+ | [ca](/f41/language/ca) | 178 | 178 | 100.0 | /mnt/stockage/packages/f41/python-openpaperwork-core/l10n/ca.po | 
+ | [de](/f41/language/de) | 178 | 178 | 100.0 | /mnt/stockage/packages/f41/python-openpaperwork-core/l10n/de.po | 
+ | [es](/f41/language/es) | 178 | 178 | 100.0 | /mnt/stockage/packages/f41/python-openpaperwork-core/l10n/es.po | 
+ | [fr](/f41/language/fr) | 178 | 178 | 100.0 | /mnt/stockage/packages/f41/python-openpaperwork-core/l10n/fr.po | 
+ | [oc](/f41/language/oc) | 178 | 178 | 100.0 | /mnt/stockage/packages/f41/python-openpaperwork-core/l10n/oc.po | 
+ | [sv](/f41/language/sv) | 169 | 169 | 100.0 | /mnt/stockage/packages/f41/python-openpaperwork-core/l10n/sv.po | 
+ | [zh_Hans](/f41/language/zh_Hans) | 169 | 169 | 100.0 | /mnt/stockage/packages/f41/python-openpaperwork-core/l10n/zh_Hans.po | 
+ | [uk](/f41/language/uk) | 0 | 178 | 0.0 | /mnt/stockage/packages/f41/python-openpaperwork-core/l10n/uk.po | 
 {.sortable}
 
 

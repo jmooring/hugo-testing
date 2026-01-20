@@ -18,28 +18,28 @@ The package gnome-web-photo (version 0.10.5):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f25/language/ca.md" >}}) | 365 | 365 | 100.0 | /mnt/stockage/packages/f25/gnome-web-photo/po/ca.po | 
- | [cs]({{< ref "/f25/language/cs.md" >}}) | 375 | 375 | 100.0 | /mnt/stockage/packages/f25/gnome-web-photo/po/cs.po | 
- | [da]({{< ref "/f25/language/da.md" >}}) | 168 | 168 | 100.0 | /mnt/stockage/packages/f25/gnome-web-photo/po/da.po | 
- | [de]({{< ref "/f25/language/de.md" >}}) | 375 | 375 | 100.0 | /mnt/stockage/packages/f25/gnome-web-photo/po/de.po | 
- | [el]({{< ref "/f25/language/el.md" >}}) | 330 | 330 | 100.0 | /mnt/stockage/packages/f25/gnome-web-photo/po/el.po | 
- | [es]({{< ref "/f25/language/es.md" >}}) | 375 | 375 | 100.0 | /mnt/stockage/packages/f25/gnome-web-photo/po/es.po | 
- | [fr]({{< ref "/f25/language/fr.md" >}}) | 330 | 330 | 100.0 | /mnt/stockage/packages/f25/gnome-web-photo/po/fr.po | 
- | [gl]({{< ref "/f25/language/gl.md" >}}) | 375 | 375 | 100.0 | /mnt/stockage/packages/f25/gnome-web-photo/po/gl.po | 
- | [he]({{< ref "/f25/language/he.md" >}}) | 168 | 168 | 100.0 | /mnt/stockage/packages/f25/gnome-web-photo/po/he.po | 
- | [hu]({{< ref "/f25/language/hu.md" >}}) | 375 | 375 | 100.0 | /mnt/stockage/packages/f25/gnome-web-photo/po/hu.po | 
- | [ja]({{< ref "/f25/language/ja.md" >}}) | 375 | 375 | 100.0 | /mnt/stockage/packages/f25/gnome-web-photo/po/ja.po | 
- | [pl]({{< ref "/f25/language/pl.md" >}}) | 375 | 375 | 100.0 | /mnt/stockage/packages/f25/gnome-web-photo/po/pl.po | 
- | [pt_BR]({{< ref "/f25/language/pt_BR.md" >}}) | 330 | 330 | 100.0 | /mnt/stockage/packages/f25/gnome-web-photo/po/pt_BR.po | 
- | [ru]({{< ref "/f25/language/ru.md" >}}) | 365 | 365 | 100.0 | /mnt/stockage/packages/f25/gnome-web-photo/po/ru.po | 
- | [sl]({{< ref "/f25/language/sl.md" >}}) | 375 | 375 | 100.0 | /mnt/stockage/packages/f25/gnome-web-photo/po/sl.po | 
- | [sv]({{< ref "/f25/language/sv.md" >}}) | 330 | 330 | 100.0 | /mnt/stockage/packages/f25/gnome-web-photo/po/sv.po | 
- | [uk]({{< ref "/f25/language/uk.md" >}}) | 375 | 375 | 100.0 | /mnt/stockage/packages/f25/gnome-web-photo/po/uk.po | 
- | [zh_Hans]({{< ref "/f25/language/zh_Hans.md" >}}) | 330 | 330 | 100.0 | /mnt/stockage/packages/f25/gnome-web-photo/po/zh_CN.po | 
- | [pa]({{< ref "/f25/language/pa.md" >}}) | 102 | 168 | 60.7 | /mnt/stockage/packages/f25/gnome-web-photo/po/pa.po | 
- | [ar]({{< ref "/f25/language/ar.md" >}}) | 67 | 375 | 17.9 | /mnt/stockage/packages/f25/gnome-web-photo/po/ar.po | 
- | [nb_NO]({{< ref "/f25/language/nb_NO.md" >}}) | 19 | 168 | 11.3 | /mnt/stockage/packages/f25/gnome-web-photo/po/nb.po | 
- | [oc]({{< ref "/f25/language/oc.md" >}}) | 0 | 26 | 0.0 | /mnt/stockage/packages/f25/gnome-web-photo/po/oc.po | 
+ | [ca](/f25/language/ca) | 365 | 365 | 100.0 | /mnt/stockage/packages/f25/gnome-web-photo/po/ca.po | 
+ | [cs](/f25/language/cs) | 375 | 375 | 100.0 | /mnt/stockage/packages/f25/gnome-web-photo/po/cs.po | 
+ | [da](/f25/language/da) | 168 | 168 | 100.0 | /mnt/stockage/packages/f25/gnome-web-photo/po/da.po | 
+ | [de](/f25/language/de) | 375 | 375 | 100.0 | /mnt/stockage/packages/f25/gnome-web-photo/po/de.po | 
+ | [el](/f25/language/el) | 330 | 330 | 100.0 | /mnt/stockage/packages/f25/gnome-web-photo/po/el.po | 
+ | [es](/f25/language/es) | 375 | 375 | 100.0 | /mnt/stockage/packages/f25/gnome-web-photo/po/es.po | 
+ | [fr](/f25/language/fr) | 330 | 330 | 100.0 | /mnt/stockage/packages/f25/gnome-web-photo/po/fr.po | 
+ | [gl](/f25/language/gl) | 375 | 375 | 100.0 | /mnt/stockage/packages/f25/gnome-web-photo/po/gl.po | 
+ | [he](/f25/language/he) | 168 | 168 | 100.0 | /mnt/stockage/packages/f25/gnome-web-photo/po/he.po | 
+ | [hu](/f25/language/hu) | 375 | 375 | 100.0 | /mnt/stockage/packages/f25/gnome-web-photo/po/hu.po | 
+ | [ja](/f25/language/ja) | 375 | 375 | 100.0 | /mnt/stockage/packages/f25/gnome-web-photo/po/ja.po | 
+ | [pl](/f25/language/pl) | 375 | 375 | 100.0 | /mnt/stockage/packages/f25/gnome-web-photo/po/pl.po | 
+ | [pt_BR](/f25/language/pt_BR) | 330 | 330 | 100.0 | /mnt/stockage/packages/f25/gnome-web-photo/po/pt_BR.po | 
+ | [ru](/f25/language/ru) | 365 | 365 | 100.0 | /mnt/stockage/packages/f25/gnome-web-photo/po/ru.po | 
+ | [sl](/f25/language/sl) | 375 | 375 | 100.0 | /mnt/stockage/packages/f25/gnome-web-photo/po/sl.po | 
+ | [sv](/f25/language/sv) | 330 | 330 | 100.0 | /mnt/stockage/packages/f25/gnome-web-photo/po/sv.po | 
+ | [uk](/f25/language/uk) | 375 | 375 | 100.0 | /mnt/stockage/packages/f25/gnome-web-photo/po/uk.po | 
+ | [zh_Hans](/f25/language/zh_Hans) | 330 | 330 | 100.0 | /mnt/stockage/packages/f25/gnome-web-photo/po/zh_CN.po | 
+ | [pa](/f25/language/pa) | 102 | 168 | 60.7 | /mnt/stockage/packages/f25/gnome-web-photo/po/pa.po | 
+ | [ar](/f25/language/ar) | 67 | 375 | 17.9 | /mnt/stockage/packages/f25/gnome-web-photo/po/ar.po | 
+ | [nb_NO](/f25/language/nb_NO) | 19 | 168 | 11.3 | /mnt/stockage/packages/f25/gnome-web-photo/po/nb.po | 
+ | [oc](/f25/language/oc) | 0 | 26 | 0.0 | /mnt/stockage/packages/f25/gnome-web-photo/po/oc.po | 
 {.sortable}
 
 

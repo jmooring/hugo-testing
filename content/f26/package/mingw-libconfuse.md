@@ -18,9 +18,9 @@ The package mingw-libconfuse (version 3.2.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [sv]({{< ref "/f26/language/sv.md" >}}) | 148 | 148 | 100.0 | /mnt/stockage/packages/f26/mingw-libconfuse/po/sv.po | 
- | [de]({{< ref "/f26/language/de.md" >}}) | 113 | 148 | 76.4 | /mnt/stockage/packages/f26/mingw-libconfuse/po/de.po | 
- | [fr]({{< ref "/f26/language/fr.md" >}}) | 109 | 148 | 73.6 | /mnt/stockage/packages/f26/mingw-libconfuse/po/fr.po | 
+ | [sv](/f26/language/sv) | 148 | 148 | 100.0 | /mnt/stockage/packages/f26/mingw-libconfuse/po/sv.po | 
+ | [de](/f26/language/de) | 113 | 148 | 76.4 | /mnt/stockage/packages/f26/mingw-libconfuse/po/de.po | 
+ | [fr](/f26/language/fr) | 109 | 148 | 73.6 | /mnt/stockage/packages/f26/mingw-libconfuse/po/fr.po | 
 {.sortable}
 
 

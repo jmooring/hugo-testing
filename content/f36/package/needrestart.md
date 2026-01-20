@@ -18,9 +18,9 @@ The package needrestart (version 3.5):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f36/language/cs.md" >}}) | 476 | 476 | 100.0 | /mnt/stockage/packages/f36/needrestart/ex/debconf/po/cs.po/mnt/stockage/packages/f36/needrestart/po/needrestart/cs.po/mnt/stockage/packages/f36/needrestart/po/needrestart-notify/cs.po | 
- | [de]({{< ref "/f36/language/de.md" >}}) | 476 | 476 | 100.0 | /mnt/stockage/packages/f36/needrestart/ex/debconf/po/de.po/mnt/stockage/packages/f36/needrestart/po/needrestart/de.po/mnt/stockage/packages/f36/needrestart/po/needrestart-notify/de.po | 
- | [ru]({{< ref "/f36/language/ru.md" >}}) | 370 | 370 | 100.0 | /mnt/stockage/packages/f36/needrestart/ex/debconf/po/ru.po/mnt/stockage/packages/f36/needrestart/po/needrestart/ru.po/mnt/stockage/packages/f36/needrestart/po/needrestart-notify/ru.po | 
+ | [cs](/f36/language/cs) | 476 | 476 | 100.0 | /mnt/stockage/packages/f36/needrestart/ex/debconf/po/cs.po/mnt/stockage/packages/f36/needrestart/po/needrestart/cs.po/mnt/stockage/packages/f36/needrestart/po/needrestart-notify/cs.po | 
+ | [de](/f36/language/de) | 476 | 476 | 100.0 | /mnt/stockage/packages/f36/needrestart/ex/debconf/po/de.po/mnt/stockage/packages/f36/needrestart/po/needrestart/de.po/mnt/stockage/packages/f36/needrestart/po/needrestart-notify/de.po | 
+ | [ru](/f36/language/ru) | 370 | 370 | 100.0 | /mnt/stockage/packages/f36/needrestart/ex/debconf/po/ru.po/mnt/stockage/packages/f36/needrestart/po/needrestart/ru.po/mnt/stockage/packages/f36/needrestart/po/needrestart-notify/ru.po | 
 {.sortable}
 
 

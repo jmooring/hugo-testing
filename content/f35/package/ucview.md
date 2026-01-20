@@ -18,10 +18,10 @@ The package ucview (version 0.33):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [pt_BR]({{< ref "/f35/language/pt_BR.md" >}}) | 282 | 282 | 100.0 | /mnt/stockage/packages/f35/ucview/po/pt_BR.po | 
- | [ru]({{< ref "/f35/language/ru.md" >}}) | 480 | 480 | 100.0 | /mnt/stockage/packages/f35/ucview/po/ru.po | 
- | [de]({{< ref "/f35/language/de.md" >}}) | 313 | 521 | 60.1 | /mnt/stockage/packages/f35/ucview/po/de.po | 
- | [fr]({{< ref "/f35/language/fr.md" >}}) | 150 | 521 | 28.8 | /mnt/stockage/packages/f35/ucview/po/fr.po | 
+ | [pt_BR](/f35/language/pt_BR) | 282 | 282 | 100.0 | /mnt/stockage/packages/f35/ucview/po/pt_BR.po | 
+ | [ru](/f35/language/ru) | 480 | 480 | 100.0 | /mnt/stockage/packages/f35/ucview/po/ru.po | 
+ | [de](/f35/language/de) | 313 | 521 | 60.1 | /mnt/stockage/packages/f35/ucview/po/de.po | 
+ | [fr](/f35/language/fr) | 150 | 521 | 28.8 | /mnt/stockage/packages/f35/ucview/po/fr.po | 
 {.sortable}
 
 

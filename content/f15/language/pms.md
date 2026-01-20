@@ -38,8 +38,8 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [onboard]({{< ref "/f15/package/onboard.md" >}}) | 1 | 377 | 0.3 | Piemontese <pms@li.org> | 
- | [vidalia]({{< ref "/f15/package/vidalia.md" >}}) | 0 | 10375 | 0.0 | translations@vidalia-project.net | 
+ | [onboard](/f15/package/onboard) | 1 | 377 | 0.3 | Piemontese <pms@li.org> | 
+ | [vidalia](/f15/package/vidalia) | 0 | 10375 | 0.0 | translations@vidalia-project.net | 
 {.sortable}
 
 

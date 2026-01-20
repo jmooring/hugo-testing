@@ -40,8 +40,8 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [lxmenu-data]({{< ref "/f14/package/lxmenu-data.md" >}}) | 53 | 97 | 54.6 |  | 
- | [gnome-menus]({{< ref "/f14/package/gnome-menus.md" >}}) | 71 | 133 | 53.4 |  | 
+ | [lxmenu-data](/f14/package/lxmenu-data) | 53 | 97 | 54.6 |  | 
+ | [gnome-menus](/f14/package/gnome-menus) | 71 | 133 | 53.4 |  | 
 {.sortable}
 
 

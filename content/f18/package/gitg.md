@@ -18,24 +18,24 @@ The package gitg (version 0.2.5):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [da]({{< ref "/f18/language/da.md" >}}) | 1306 | 1306 | 100.0 | /mnt/stockage/packages/f18/gitg/po/da.po | 
- | [de]({{< ref "/f18/language/de.md" >}}) | 1229 | 1229 | 100.0 | /mnt/stockage/packages/f18/gitg/po/de.po | 
- | [en_GB]({{< ref "/f18/language/en_GB.md" >}}) | 1042 | 1042 | 100.0 | /mnt/stockage/packages/f18/gitg/po/en_GB.po | 
- | [es]({{< ref "/f18/language/es.md" >}}) | 1229 | 1229 | 100.0 | /mnt/stockage/packages/f18/gitg/po/es.po | 
- | [fr]({{< ref "/f18/language/fr.md" >}}) | 1306 | 1306 | 100.0 | /mnt/stockage/packages/f18/gitg/po/fr.po | 
- | [gl]({{< ref "/f18/language/gl.md" >}}) | 1229 | 1229 | 100.0 | /mnt/stockage/packages/f18/gitg/po/gl.po | 
- | [nl]({{< ref "/f18/language/nl.md" >}}) | 1178 | 1178 | 100.0 | /mnt/stockage/packages/f18/gitg/po/nl.po | 
- | [pt_BR]({{< ref "/f18/language/pt_BR.md" >}}) | 1306 | 1306 | 100.0 | /mnt/stockage/packages/f18/gitg/po/pt_BR.po | 
- | [ro]({{< ref "/f18/language/ro.md" >}}) | 1304 | 1304 | 100.0 | /mnt/stockage/packages/f18/gitg/po/ro.po | 
- | [sl]({{< ref "/f18/language/sl.md" >}}) | 1229 | 1229 | 100.0 | /mnt/stockage/packages/f18/gitg/po/sl.po | 
- | [ru]({{< ref "/f18/language/ru.md" >}}) | 1290 | 1306 | 98.8 | /mnt/stockage/packages/f18/gitg/po/ru.po | 
- | [it]({{< ref "/f18/language/it.md" >}}) | 1138 | 1306 | 87.1 | /mnt/stockage/packages/f18/gitg/po/it.po | 
- | [zh_Hans]({{< ref "/f18/language/zh_Hans.md" >}}) | 876 | 1229 | 71.3 | /mnt/stockage/packages/f18/gitg/po/zh_CN.po | 
- | [uk]({{< ref "/f18/language/uk.md" >}}) | 705 | 1306 | 54.0 | /mnt/stockage/packages/f18/gitg/po/uk.po | 
- | [pa]({{< ref "/f18/language/pa.md" >}}) | 273 | 1237 | 22.1 | /mnt/stockage/packages/f18/gitg/po/pa.po | 
- | [sv]({{< ref "/f18/language/sv.md" >}}) | 197 | 989 | 19.9 | /mnt/stockage/packages/f18/gitg/po/sv.po | 
- | [nb_NO]({{< ref "/f18/language/nb_NO.md" >}}) | 12 | 1200 | 1.0 | /mnt/stockage/packages/f18/gitg/po/nb.po | 
- | [lt]({{< ref "/f18/language/lt.md" >}}) | 4 | 1042 | 0.4 | /mnt/stockage/packages/f18/gitg/po/lt.po | 
+ | [da](/f18/language/da) | 1306 | 1306 | 100.0 | /mnt/stockage/packages/f18/gitg/po/da.po | 
+ | [de](/f18/language/de) | 1229 | 1229 | 100.0 | /mnt/stockage/packages/f18/gitg/po/de.po | 
+ | [en_GB](/f18/language/en_GB) | 1042 | 1042 | 100.0 | /mnt/stockage/packages/f18/gitg/po/en_GB.po | 
+ | [es](/f18/language/es) | 1229 | 1229 | 100.0 | /mnt/stockage/packages/f18/gitg/po/es.po | 
+ | [fr](/f18/language/fr) | 1306 | 1306 | 100.0 | /mnt/stockage/packages/f18/gitg/po/fr.po | 
+ | [gl](/f18/language/gl) | 1229 | 1229 | 100.0 | /mnt/stockage/packages/f18/gitg/po/gl.po | 
+ | [nl](/f18/language/nl) | 1178 | 1178 | 100.0 | /mnt/stockage/packages/f18/gitg/po/nl.po | 
+ | [pt_BR](/f18/language/pt_BR) | 1306 | 1306 | 100.0 | /mnt/stockage/packages/f18/gitg/po/pt_BR.po | 
+ | [ro](/f18/language/ro) | 1304 | 1304 | 100.0 | /mnt/stockage/packages/f18/gitg/po/ro.po | 
+ | [sl](/f18/language/sl) | 1229 | 1229 | 100.0 | /mnt/stockage/packages/f18/gitg/po/sl.po | 
+ | [ru](/f18/language/ru) | 1290 | 1306 | 98.8 | /mnt/stockage/packages/f18/gitg/po/ru.po | 
+ | [it](/f18/language/it) | 1138 | 1306 | 87.1 | /mnt/stockage/packages/f18/gitg/po/it.po | 
+ | [zh_Hans](/f18/language/zh_Hans) | 876 | 1229 | 71.3 | /mnt/stockage/packages/f18/gitg/po/zh_CN.po | 
+ | [uk](/f18/language/uk) | 705 | 1306 | 54.0 | /mnt/stockage/packages/f18/gitg/po/uk.po | 
+ | [pa](/f18/language/pa) | 273 | 1237 | 22.1 | /mnt/stockage/packages/f18/gitg/po/pa.po | 
+ | [sv](/f18/language/sv) | 197 | 989 | 19.9 | /mnt/stockage/packages/f18/gitg/po/sv.po | 
+ | [nb_NO](/f18/language/nb_NO) | 12 | 1200 | 1.0 | /mnt/stockage/packages/f18/gitg/po/nb.po | 
+ | [lt](/f18/language/lt) | 4 | 1042 | 0.4 | /mnt/stockage/packages/f18/gitg/po/lt.po | 
 {.sortable}
 
 

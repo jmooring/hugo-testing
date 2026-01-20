@@ -18,13 +18,13 @@ The package girara (version 0.1.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f17/language/de.md" >}}) | 197 | 197 | 100.0 | /mnt/stockage/packages/f17/girara/po/de.po | 
- | [fr]({{< ref "/f17/language/fr.md" >}}) | 197 | 197 | 100.0 | /mnt/stockage/packages/f17/girara/po/fr.po | 
- | [pl]({{< ref "/f17/language/pl.md" >}}) | 197 | 197 | 100.0 | /mnt/stockage/packages/f17/girara/po/pl.po | 
- | [eo]({{< ref "/f17/language/eo.md" >}}) | 191 | 197 | 97.0 | /mnt/stockage/packages/f17/girara/po/eo.po | 
- | [es]({{< ref "/f17/language/es.md" >}}) | 191 | 197 | 97.0 | /mnt/stockage/packages/f17/girara/po/es.po | 
- | [it]({{< ref "/f17/language/it.md" >}}) | 191 | 197 | 97.0 | /mnt/stockage/packages/f17/girara/po/it.po | 
- | [tr]({{< ref "/f17/language/tr.md" >}}) | 191 | 197 | 97.0 | /mnt/stockage/packages/f17/girara/po/tr.po | 
+ | [de](/f17/language/de) | 197 | 197 | 100.0 | /mnt/stockage/packages/f17/girara/po/de.po | 
+ | [fr](/f17/language/fr) | 197 | 197 | 100.0 | /mnt/stockage/packages/f17/girara/po/fr.po | 
+ | [pl](/f17/language/pl) | 197 | 197 | 100.0 | /mnt/stockage/packages/f17/girara/po/pl.po | 
+ | [eo](/f17/language/eo) | 191 | 197 | 97.0 | /mnt/stockage/packages/f17/girara/po/eo.po | 
+ | [es](/f17/language/es) | 191 | 197 | 97.0 | /mnt/stockage/packages/f17/girara/po/es.po | 
+ | [it](/f17/language/it) | 191 | 197 | 97.0 | /mnt/stockage/packages/f17/girara/po/it.po | 
+ | [tr](/f17/language/tr) | 191 | 197 | 97.0 | /mnt/stockage/packages/f17/girara/po/tr.po | 
 {.sortable}
 
 

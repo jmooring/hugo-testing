@@ -18,12 +18,12 @@ The package qgis (version 2.6.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f21/language/cs.md" >}}) | 47 | 47 | 100.0 | /mnt/stockage/packages/f21/qgis/python/plugins/MetaSearch/locale/cs/LC_MESSAGES/templates.po | 
- | [de]({{< ref "/f21/language/de.md" >}}) | 47 | 47 | 100.0 | /mnt/stockage/packages/f21/qgis/python/plugins/MetaSearch/locale/de/LC_MESSAGES/templates.po | 
- | [it]({{< ref "/f21/language/it.md" >}}) | 47 | 47 | 100.0 | /mnt/stockage/packages/f21/qgis/python/plugins/MetaSearch/locale/it/LC_MESSAGES/templates.po | 
- | [fr]({{< ref "/f21/language/fr.md" >}}) | 42 | 47 | 89.4 | /mnt/stockage/packages/f21/qgis/python/plugins/MetaSearch/locale/fr/LC_MESSAGES/templates.po | 
- | [en]({{< ref "/f21/language/en.md" >}}) | 0 | 49 | 0.0 | /mnt/stockage/packages/f21/qgis/python/plugins/MetaSearch/locale/en/LC_MESSAGES/templates.po | 
- | [nl]({{< ref "/f21/language/nl.md" >}}) | 0 | 47 | 0.0 | /mnt/stockage/packages/f21/qgis/python/plugins/MetaSearch/locale/nl/LC_MESSAGES/templates.po | 
+ | [cs](/f21/language/cs) | 47 | 47 | 100.0 | /mnt/stockage/packages/f21/qgis/python/plugins/MetaSearch/locale/cs/LC_MESSAGES/templates.po | 
+ | [de](/f21/language/de) | 47 | 47 | 100.0 | /mnt/stockage/packages/f21/qgis/python/plugins/MetaSearch/locale/de/LC_MESSAGES/templates.po | 
+ | [it](/f21/language/it) | 47 | 47 | 100.0 | /mnt/stockage/packages/f21/qgis/python/plugins/MetaSearch/locale/it/LC_MESSAGES/templates.po | 
+ | [fr](/f21/language/fr) | 42 | 47 | 89.4 | /mnt/stockage/packages/f21/qgis/python/plugins/MetaSearch/locale/fr/LC_MESSAGES/templates.po | 
+ | [en](/f21/language/en) | 0 | 49 | 0.0 | /mnt/stockage/packages/f21/qgis/python/plugins/MetaSearch/locale/en/LC_MESSAGES/templates.po | 
+ | [nl](/f21/language/nl) | 0 | 47 | 0.0 | /mnt/stockage/packages/f21/qgis/python/plugins/MetaSearch/locale/nl/LC_MESSAGES/templates.po | 
 {.sortable}
 
 

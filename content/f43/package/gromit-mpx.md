@@ -18,16 +18,16 @@ The package gromit-mpx (version 1.8.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f43/language/de.md" >}}) | 312 | 312 | 100.0 | /mnt/stockage/packages/f43/gromit-mpx/po/de.po | 
- | [es]({{< ref "/f43/language/es.md" >}}) | 312 | 312 | 100.0 | /mnt/stockage/packages/f43/gromit-mpx/po/es.po | 
- | [fa]({{< ref "/f43/language/fa.md" >}}) | 312 | 312 | 100.0 | /mnt/stockage/packages/f43/gromit-mpx/po/fa.po | 
- | [he]({{< ref "/f43/language/he.md" >}}) | 312 | 312 | 100.0 | /mnt/stockage/packages/f43/gromit-mpx/po/he.po | 
- | [it]({{< ref "/f43/language/it.md" >}}) | 312 | 312 | 100.0 | /mnt/stockage/packages/f43/gromit-mpx/po/it.po | 
- | [pt_BR]({{< ref "/f43/language/pt_BR.md" >}}) | 312 | 312 | 100.0 | /mnt/stockage/packages/f43/gromit-mpx/po/pt_BR.po | 
- | [zh_Hans]({{< ref "/f43/language/zh_Hans.md" >}}) | 312 | 312 | 100.0 | /mnt/stockage/packages/f43/gromit-mpx/po/zh_CN.po | 
- | [zh_Hans_SG]({{< ref "/f43/language/zh_Hans_SG.md" >}}) | 312 | 312 | 100.0 | /mnt/stockage/packages/f43/gromit-mpx/po/zh_SG.po | 
- | [zh_Hant]({{< ref "/f43/language/zh_Hant.md" >}}) | 312 | 312 | 100.0 | /mnt/stockage/packages/f43/gromit-mpx/po/zh_TW.po | 
- | [zh_Hant_HK]({{< ref "/f43/language/zh_Hant_HK.md" >}}) | 312 | 312 | 100.0 | /mnt/stockage/packages/f43/gromit-mpx/po/zh_HK.po | 
+ | [de](/f43/language/de) | 312 | 312 | 100.0 | /mnt/stockage/packages/f43/gromit-mpx/po/de.po | 
+ | [es](/f43/language/es) | 312 | 312 | 100.0 | /mnt/stockage/packages/f43/gromit-mpx/po/es.po | 
+ | [fa](/f43/language/fa) | 312 | 312 | 100.0 | /mnt/stockage/packages/f43/gromit-mpx/po/fa.po | 
+ | [he](/f43/language/he) | 312 | 312 | 100.0 | /mnt/stockage/packages/f43/gromit-mpx/po/he.po | 
+ | [it](/f43/language/it) | 312 | 312 | 100.0 | /mnt/stockage/packages/f43/gromit-mpx/po/it.po | 
+ | [pt_BR](/f43/language/pt_BR) | 312 | 312 | 100.0 | /mnt/stockage/packages/f43/gromit-mpx/po/pt_BR.po | 
+ | [zh_Hans](/f43/language/zh_Hans) | 312 | 312 | 100.0 | /mnt/stockage/packages/f43/gromit-mpx/po/zh_CN.po | 
+ | [zh_Hans_SG](/f43/language/zh_Hans_SG) | 312 | 312 | 100.0 | /mnt/stockage/packages/f43/gromit-mpx/po/zh_SG.po | 
+ | [zh_Hant](/f43/language/zh_Hant) | 312 | 312 | 100.0 | /mnt/stockage/packages/f43/gromit-mpx/po/zh_TW.po | 
+ | [zh_Hant_HK](/f43/language/zh_Hant_HK) | 312 | 312 | 100.0 | /mnt/stockage/packages/f43/gromit-mpx/po/zh_HK.po | 
 {.sortable}
 
 

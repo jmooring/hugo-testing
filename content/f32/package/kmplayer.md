@@ -18,48 +18,48 @@ The package kmplayer (version 0.12.0b):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f32/language/cs.md" >}}) | 1248 | 1248 | 100.0 | /mnt/stockage/packages/f32/kmplayer/po/cs/kmplayer.po | 
- | [nb_NO]({{< ref "/f32/language/nb_NO.md" >}}) | 1248 | 1248 | 100.0 | /mnt/stockage/packages/f32/kmplayer/po/nb/kmplayer.po | 
- | [pt]({{< ref "/f32/language/pt.md" >}}) | 1249 | 1249 | 100.0 | /mnt/stockage/packages/f32/kmplayer/po/pt/kmplayer.po | 
- | [sv]({{< ref "/f32/language/sv.md" >}}) | 1249 | 1249 | 100.0 | /mnt/stockage/packages/f32/kmplayer/po/sv/kmplayer.po | 
- | [uk]({{< ref "/f32/language/uk.md" >}}) | 1249 | 1249 | 100.0 | /mnt/stockage/packages/f32/kmplayer/po/uk/kmplayer.po | 
- | [bs]({{< ref "/f32/language/bs.md" >}}) | 1248 | 1249 | 99.9 | /mnt/stockage/packages/f32/kmplayer/po/bs/kmplayer.po | 
- | [ca]({{< ref "/f32/language/ca.md" >}}) | 2496 | 2498 | 99.9 | /mnt/stockage/packages/f32/kmplayer/po/ca@valencia/kmplayer.po/mnt/stockage/packages/f32/kmplayer/po/ca/kmplayer.po | 
- | [da]({{< ref "/f32/language/da.md" >}}) | 1248 | 1249 | 99.9 | /mnt/stockage/packages/f32/kmplayer/po/da/kmplayer.po | 
- | [de]({{< ref "/f32/language/de.md" >}}) | 1248 | 1249 | 99.9 | /mnt/stockage/packages/f32/kmplayer/po/de/kmplayer.po | 
- | [el]({{< ref "/f32/language/el.md" >}}) | 1248 | 1249 | 99.9 | /mnt/stockage/packages/f32/kmplayer/po/el/kmplayer.po | 
- | [en_GB]({{< ref "/f32/language/en_GB.md" >}}) | 1248 | 1249 | 99.9 | /mnt/stockage/packages/f32/kmplayer/po/en_GB/kmplayer.po | 
- | [es]({{< ref "/f32/language/es.md" >}}) | 1248 | 1249 | 99.9 | /mnt/stockage/packages/f32/kmplayer/po/es/kmplayer.po | 
- | [et]({{< ref "/f32/language/et.md" >}}) | 1248 | 1249 | 99.9 | /mnt/stockage/packages/f32/kmplayer/po/et/kmplayer.po | 
- | [fr]({{< ref "/f32/language/fr.md" >}}) | 1248 | 1249 | 99.9 | /mnt/stockage/packages/f32/kmplayer/po/fr/kmplayer.po | 
- | [it]({{< ref "/f32/language/it.md" >}}) | 1248 | 1249 | 99.9 | /mnt/stockage/packages/f32/kmplayer/po/it/kmplayer.po | 
- | [km]({{< ref "/f32/language/km.md" >}}) | 1248 | 1249 | 99.9 | /mnt/stockage/packages/f32/kmplayer/po/km/kmplayer.po | 
- | [nds]({{< ref "/f32/language/nds.md" >}}) | 1248 | 1249 | 99.9 | /mnt/stockage/packages/f32/kmplayer/po/nds/kmplayer.po | 
- | [nl]({{< ref "/f32/language/nl.md" >}}) | 1248 | 1249 | 99.9 | /mnt/stockage/packages/f32/kmplayer/po/nl/kmplayer.po | 
- | [pl]({{< ref "/f32/language/pl.md" >}}) | 1248 | 1249 | 99.9 | /mnt/stockage/packages/f32/kmplayer/po/pl/kmplayer.po | 
- | [pt_BR]({{< ref "/f32/language/pt_BR.md" >}}) | 1248 | 1249 | 99.9 | /mnt/stockage/packages/f32/kmplayer/po/pt_BR/kmplayer.po | 
- | [tr]({{< ref "/f32/language/tr.md" >}}) | 1248 | 1249 | 99.9 | /mnt/stockage/packages/f32/kmplayer/po/tr/kmplayer.po | 
- | [ug]({{< ref "/f32/language/ug.md" >}}) | 1248 | 1249 | 99.9 | /mnt/stockage/packages/f32/kmplayer/po/ug/kmplayer.po | 
- | [zh_Hant]({{< ref "/f32/language/zh_Hant.md" >}}) | 1248 | 1249 | 99.9 | /mnt/stockage/packages/f32/kmplayer/po/zh_TW/kmplayer.po | 
- | [sr]({{< ref "/f32/language/sr.md" >}}) | 1246 | 1248 | 99.8 | /mnt/stockage/packages/f32/kmplayer/po/sr/kmplayer.po | 
- | [sr_Latn]({{< ref "/f32/language/sr_Latn.md" >}}) | 1246 | 1248 | 99.8 | /mnt/stockage/packages/f32/kmplayer/po/sr@latin/kmplayer.po | 
- | [zh_Hans]({{< ref "/f32/language/zh_Hans.md" >}}) | 1238 | 1249 | 99.1 | /mnt/stockage/packages/f32/kmplayer/po/zh_CN/kmplayer.po | 
- | [lt]({{< ref "/f32/language/lt.md" >}}) | 1210 | 1248 | 97.0 | /mnt/stockage/packages/f32/kmplayer/po/lt/kmplayer.po | 
- | [gl]({{< ref "/f32/language/gl.md" >}}) | 1163 | 1249 | 93.1 | /mnt/stockage/packages/f32/kmplayer/po/gl/kmplayer.po | 
- | [ru]({{< ref "/f32/language/ru.md" >}}) | 1155 | 1249 | 92.5 | /mnt/stockage/packages/f32/kmplayer/po/ru/kmplayer.po | 
- | [ja]({{< ref "/f32/language/ja.md" >}}) | 1076 | 1249 | 86.1 | /mnt/stockage/packages/f32/kmplayer/po/ja/kmplayer.po | 
- | [ku]({{< ref "/f32/language/ku.md" >}}) | 1010 | 1249 | 80.9 | /mnt/stockage/packages/f32/kmplayer/po/ku/kmplayer.po | 
- | [ro]({{< ref "/f32/language/ro.md" >}}) | 922 | 1249 | 73.8 | /mnt/stockage/packages/f32/kmplayer/po/ro/kmplayer.po | 
- | [bg]({{< ref "/f32/language/bg.md" >}}) | 515 | 1249 | 41.2 | /mnt/stockage/packages/f32/kmplayer/po/bg/kmplayer.po | 
- | [lv]({{< ref "/f32/language/lv.md" >}}) | 470 | 1249 | 37.6 | /mnt/stockage/packages/f32/kmplayer/po/lv/kmplayer.po | 
- | [ga]({{< ref "/f32/language/ga.md" >}}) | 220 | 1249 | 17.6 | /mnt/stockage/packages/f32/kmplayer/po/ga/kmplayer.po | 
- | [th]({{< ref "/f32/language/th.md" >}}) | 218 | 1249 | 17.5 | /mnt/stockage/packages/f32/kmplayer/po/th/kmplayer.po | 
- | [eo]({{< ref "/f32/language/eo.md" >}}) | 130 | 1249 | 10.4 | /mnt/stockage/packages/f32/kmplayer/po/eo/kmplayer.po | 
- | [mai]({{< ref "/f32/language/mai.md" >}}) | 111 | 1249 | 8.9 | /mnt/stockage/packages/f32/kmplayer/po/mai/kmplayer.po | 
- | [hu]({{< ref "/f32/language/hu.md" >}}) | 27 | 1249 | 2.2 | /mnt/stockage/packages/f32/kmplayer/po/hu/kmplayer.po | 
- | [nn]({{< ref "/f32/language/nn.md" >}}) | 10 | 1248 | 0.8 | /mnt/stockage/packages/f32/kmplayer/po/nn/kmplayer.po | 
- | [hr]({{< ref "/f32/language/hr.md" >}}) | 2 | 1248 | 0.2 | /mnt/stockage/packages/f32/kmplayer/po/hr/kmplayer.po | 
- | [sk]({{< ref "/f32/language/sk.md" >}}) | 0 | 1249 | 0.0 | /mnt/stockage/packages/f32/kmplayer/po/sk/kmplayer.po | 
+ | [cs](/f32/language/cs) | 1248 | 1248 | 100.0 | /mnt/stockage/packages/f32/kmplayer/po/cs/kmplayer.po | 
+ | [nb_NO](/f32/language/nb_NO) | 1248 | 1248 | 100.0 | /mnt/stockage/packages/f32/kmplayer/po/nb/kmplayer.po | 
+ | [pt](/f32/language/pt) | 1249 | 1249 | 100.0 | /mnt/stockage/packages/f32/kmplayer/po/pt/kmplayer.po | 
+ | [sv](/f32/language/sv) | 1249 | 1249 | 100.0 | /mnt/stockage/packages/f32/kmplayer/po/sv/kmplayer.po | 
+ | [uk](/f32/language/uk) | 1249 | 1249 | 100.0 | /mnt/stockage/packages/f32/kmplayer/po/uk/kmplayer.po | 
+ | [bs](/f32/language/bs) | 1248 | 1249 | 99.9 | /mnt/stockage/packages/f32/kmplayer/po/bs/kmplayer.po | 
+ | [ca](/f32/language/ca) | 2496 | 2498 | 99.9 | /mnt/stockage/packages/f32/kmplayer/po/ca@valencia/kmplayer.po/mnt/stockage/packages/f32/kmplayer/po/ca/kmplayer.po | 
+ | [da](/f32/language/da) | 1248 | 1249 | 99.9 | /mnt/stockage/packages/f32/kmplayer/po/da/kmplayer.po | 
+ | [de](/f32/language/de) | 1248 | 1249 | 99.9 | /mnt/stockage/packages/f32/kmplayer/po/de/kmplayer.po | 
+ | [el](/f32/language/el) | 1248 | 1249 | 99.9 | /mnt/stockage/packages/f32/kmplayer/po/el/kmplayer.po | 
+ | [en_GB](/f32/language/en_GB) | 1248 | 1249 | 99.9 | /mnt/stockage/packages/f32/kmplayer/po/en_GB/kmplayer.po | 
+ | [es](/f32/language/es) | 1248 | 1249 | 99.9 | /mnt/stockage/packages/f32/kmplayer/po/es/kmplayer.po | 
+ | [et](/f32/language/et) | 1248 | 1249 | 99.9 | /mnt/stockage/packages/f32/kmplayer/po/et/kmplayer.po | 
+ | [fr](/f32/language/fr) | 1248 | 1249 | 99.9 | /mnt/stockage/packages/f32/kmplayer/po/fr/kmplayer.po | 
+ | [it](/f32/language/it) | 1248 | 1249 | 99.9 | /mnt/stockage/packages/f32/kmplayer/po/it/kmplayer.po | 
+ | [km](/f32/language/km) | 1248 | 1249 | 99.9 | /mnt/stockage/packages/f32/kmplayer/po/km/kmplayer.po | 
+ | [nds](/f32/language/nds) | 1248 | 1249 | 99.9 | /mnt/stockage/packages/f32/kmplayer/po/nds/kmplayer.po | 
+ | [nl](/f32/language/nl) | 1248 | 1249 | 99.9 | /mnt/stockage/packages/f32/kmplayer/po/nl/kmplayer.po | 
+ | [pl](/f32/language/pl) | 1248 | 1249 | 99.9 | /mnt/stockage/packages/f32/kmplayer/po/pl/kmplayer.po | 
+ | [pt_BR](/f32/language/pt_BR) | 1248 | 1249 | 99.9 | /mnt/stockage/packages/f32/kmplayer/po/pt_BR/kmplayer.po | 
+ | [tr](/f32/language/tr) | 1248 | 1249 | 99.9 | /mnt/stockage/packages/f32/kmplayer/po/tr/kmplayer.po | 
+ | [ug](/f32/language/ug) | 1248 | 1249 | 99.9 | /mnt/stockage/packages/f32/kmplayer/po/ug/kmplayer.po | 
+ | [zh_Hant](/f32/language/zh_Hant) | 1248 | 1249 | 99.9 | /mnt/stockage/packages/f32/kmplayer/po/zh_TW/kmplayer.po | 
+ | [sr](/f32/language/sr) | 1246 | 1248 | 99.8 | /mnt/stockage/packages/f32/kmplayer/po/sr/kmplayer.po | 
+ | [sr_Latn](/f32/language/sr_Latn) | 1246 | 1248 | 99.8 | /mnt/stockage/packages/f32/kmplayer/po/sr@latin/kmplayer.po | 
+ | [zh_Hans](/f32/language/zh_Hans) | 1238 | 1249 | 99.1 | /mnt/stockage/packages/f32/kmplayer/po/zh_CN/kmplayer.po | 
+ | [lt](/f32/language/lt) | 1210 | 1248 | 97.0 | /mnt/stockage/packages/f32/kmplayer/po/lt/kmplayer.po | 
+ | [gl](/f32/language/gl) | 1163 | 1249 | 93.1 | /mnt/stockage/packages/f32/kmplayer/po/gl/kmplayer.po | 
+ | [ru](/f32/language/ru) | 1155 | 1249 | 92.5 | /mnt/stockage/packages/f32/kmplayer/po/ru/kmplayer.po | 
+ | [ja](/f32/language/ja) | 1076 | 1249 | 86.1 | /mnt/stockage/packages/f32/kmplayer/po/ja/kmplayer.po | 
+ | [ku](/f32/language/ku) | 1010 | 1249 | 80.9 | /mnt/stockage/packages/f32/kmplayer/po/ku/kmplayer.po | 
+ | [ro](/f32/language/ro) | 922 | 1249 | 73.8 | /mnt/stockage/packages/f32/kmplayer/po/ro/kmplayer.po | 
+ | [bg](/f32/language/bg) | 515 | 1249 | 41.2 | /mnt/stockage/packages/f32/kmplayer/po/bg/kmplayer.po | 
+ | [lv](/f32/language/lv) | 470 | 1249 | 37.6 | /mnt/stockage/packages/f32/kmplayer/po/lv/kmplayer.po | 
+ | [ga](/f32/language/ga) | 220 | 1249 | 17.6 | /mnt/stockage/packages/f32/kmplayer/po/ga/kmplayer.po | 
+ | [th](/f32/language/th) | 218 | 1249 | 17.5 | /mnt/stockage/packages/f32/kmplayer/po/th/kmplayer.po | 
+ | [eo](/f32/language/eo) | 130 | 1249 | 10.4 | /mnt/stockage/packages/f32/kmplayer/po/eo/kmplayer.po | 
+ | [mai](/f32/language/mai) | 111 | 1249 | 8.9 | /mnt/stockage/packages/f32/kmplayer/po/mai/kmplayer.po | 
+ | [hu](/f32/language/hu) | 27 | 1249 | 2.2 | /mnt/stockage/packages/f32/kmplayer/po/hu/kmplayer.po | 
+ | [nn](/f32/language/nn) | 10 | 1248 | 0.8 | /mnt/stockage/packages/f32/kmplayer/po/nn/kmplayer.po | 
+ | [hr](/f32/language/hr) | 2 | 1248 | 0.2 | /mnt/stockage/packages/f32/kmplayer/po/hr/kmplayer.po | 
+ | [sk](/f32/language/sk) | 0 | 1249 | 0.0 | /mnt/stockage/packages/f32/kmplayer/po/sk/kmplayer.po | 
 {.sortable}
 
 

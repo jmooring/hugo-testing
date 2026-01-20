@@ -18,20 +18,20 @@ The package libgovirt (version 0.3.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [bs]({{< ref "/f22/language/bs.md" >}}) | 102 | 102 | 100.0 | /mnt/stockage/packages/f22/libgovirt/po/bs.po | 
- | [cs]({{< ref "/f22/language/cs.md" >}}) | 102 | 102 | 100.0 | /mnt/stockage/packages/f22/libgovirt/po/cs.po | 
- | [de]({{< ref "/f22/language/de.md" >}}) | 102 | 102 | 100.0 | /mnt/stockage/packages/f22/libgovirt/po/de.po | 
- | [el]({{< ref "/f22/language/el.md" >}}) | 102 | 102 | 100.0 | /mnt/stockage/packages/f22/libgovirt/po/el.po | 
- | [es]({{< ref "/f22/language/es.md" >}}) | 102 | 102 | 100.0 | /mnt/stockage/packages/f22/libgovirt/po/es.po | 
- | [eu]({{< ref "/f22/language/eu.md" >}}) | 102 | 102 | 100.0 | /mnt/stockage/packages/f22/libgovirt/po/eu.po | 
- | [hu]({{< ref "/f22/language/hu.md" >}}) | 102 | 102 | 100.0 | /mnt/stockage/packages/f22/libgovirt/po/hu.po | 
- | [id]({{< ref "/f22/language/id.md" >}}) | 102 | 102 | 100.0 | /mnt/stockage/packages/f22/libgovirt/po/id.po | 
- | [pl]({{< ref "/f22/language/pl.md" >}}) | 102 | 102 | 100.0 | /mnt/stockage/packages/f22/libgovirt/po/pl.po | 
- | [pt_BR]({{< ref "/f22/language/pt_BR.md" >}}) | 102 | 102 | 100.0 | /mnt/stockage/packages/f22/libgovirt/po/pt_BR.po | 
- | [ru]({{< ref "/f22/language/ru.md" >}}) | 102 | 102 | 100.0 | /mnt/stockage/packages/f22/libgovirt/po/ru.po | 
- | [sl]({{< ref "/f22/language/sl.md" >}}) | 102 | 102 | 100.0 | /mnt/stockage/packages/f22/libgovirt/po/sl.po | 
- | [sr]({{< ref "/f22/language/sr.md" >}}) | 204 | 204 | 100.0 | /mnt/stockage/packages/f22/libgovirt/po/sr.po/mnt/stockage/packages/f22/libgovirt/po/sr@latin.po | 
- | [tr]({{< ref "/f22/language/tr.md" >}}) | 102 | 102 | 100.0 | /mnt/stockage/packages/f22/libgovirt/po/tr.po | 
+ | [bs](/f22/language/bs) | 102 | 102 | 100.0 | /mnt/stockage/packages/f22/libgovirt/po/bs.po | 
+ | [cs](/f22/language/cs) | 102 | 102 | 100.0 | /mnt/stockage/packages/f22/libgovirt/po/cs.po | 
+ | [de](/f22/language/de) | 102 | 102 | 100.0 | /mnt/stockage/packages/f22/libgovirt/po/de.po | 
+ | [el](/f22/language/el) | 102 | 102 | 100.0 | /mnt/stockage/packages/f22/libgovirt/po/el.po | 
+ | [es](/f22/language/es) | 102 | 102 | 100.0 | /mnt/stockage/packages/f22/libgovirt/po/es.po | 
+ | [eu](/f22/language/eu) | 102 | 102 | 100.0 | /mnt/stockage/packages/f22/libgovirt/po/eu.po | 
+ | [hu](/f22/language/hu) | 102 | 102 | 100.0 | /mnt/stockage/packages/f22/libgovirt/po/hu.po | 
+ | [id](/f22/language/id) | 102 | 102 | 100.0 | /mnt/stockage/packages/f22/libgovirt/po/id.po | 
+ | [pl](/f22/language/pl) | 102 | 102 | 100.0 | /mnt/stockage/packages/f22/libgovirt/po/pl.po | 
+ | [pt_BR](/f22/language/pt_BR) | 102 | 102 | 100.0 | /mnt/stockage/packages/f22/libgovirt/po/pt_BR.po | 
+ | [ru](/f22/language/ru) | 102 | 102 | 100.0 | /mnt/stockage/packages/f22/libgovirt/po/ru.po | 
+ | [sl](/f22/language/sl) | 102 | 102 | 100.0 | /mnt/stockage/packages/f22/libgovirt/po/sl.po | 
+ | [sr](/f22/language/sr) | 204 | 204 | 100.0 | /mnt/stockage/packages/f22/libgovirt/po/sr.po/mnt/stockage/packages/f22/libgovirt/po/sr@latin.po | 
+ | [tr](/f22/language/tr) | 102 | 102 | 100.0 | /mnt/stockage/packages/f22/libgovirt/po/tr.po | 
 {.sortable}
 
 

@@ -18,7 +18,7 @@ The package icecat (version 45.3.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [en_US]({{< ref "/f23/language/en_US.md" >}}) | 6 | 6 | 100.0 | /mnt/stockage/packages/f23/icecat/python/mozbuild/mozbuild/locale/en-US/LC_MESSAGES/mozbuild.po | 
+ | [en_US](/f23/language/en_US) | 6 | 6 | 100.0 | /mnt/stockage/packages/f23/icecat/python/mozbuild/mozbuild/locale/en-US/LC_MESSAGES/mozbuild.po | 
 {.sortable}
 
 

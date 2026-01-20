@@ -39,10 +39,10 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [kde-i18n]({{< ref "/f8/package/kde-i18n.md" >}}) | 181 | 181 | 100.0 | Chinese (traditional) <zh-l10n@linux.org.tw> | 
- | [shadow-utils]({{< ref "/f8/package/shadow-utils.md" >}}) | 10869 | 10869 | 100.0 | Debian French Team <debian-l10n-french@lists.debian.org> | 
- | [po4a]({{< ref "/f8/package/po4a.md" >}}) | 0 | 35 | 0.0 | LANGUAGE <LL@li.org> | 
- | [wine-docs]({{< ref "/f8/package/wine-docs.md" >}}) | 0 | 38 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [kde-i18n](/f8/package/kde-i18n) | 181 | 181 | 100.0 | Chinese (traditional) <zh-l10n@linux.org.tw> | 
+ | [shadow-utils](/f8/package/shadow-utils) | 10869 | 10869 | 100.0 | Debian French Team <debian-l10n-french@lists.debian.org> | 
+ | [po4a](/f8/package/po4a) | 0 | 35 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [wine-docs](/f8/package/wine-docs) | 0 | 38 | 0.0 | LANGUAGE <LL@li.org> | 
 {.sortable}
 
 

@@ -18,7 +18,7 @@ The package mingw-tesseract (version 3.02.02):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [pl]({{< ref "/f19/language/pl.md" >}}) | 17 | 91 | 18.7 | /mnt/stockage/packages/f19/mingw-tesseract/po/pl.po | 
+ | [pl](/f19/language/pl) | 17 | 91 | 18.7 | /mnt/stockage/packages/f19/mingw-tesseract/po/pl.po | 
 {.sortable}
 
 

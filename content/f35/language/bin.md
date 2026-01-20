@@ -38,8 +38,8 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [lazpaint]({{< ref "/f35/package/lazpaint.md" >}}) | 2192 | 7227 | 30.3 |  | 
- | [libreoffice]({{< ref "/f35/package/libreoffice.md" >}}) | 0 | 0 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [lazpaint](/f35/package/lazpaint) | 2192 | 7227 | 30.3 |  | 
+ | [libreoffice](/f35/package/libreoffice) | 0 | 0 | 0.0 | LANGUAGE <LL@li.org> | 
 {.sortable}
 
 

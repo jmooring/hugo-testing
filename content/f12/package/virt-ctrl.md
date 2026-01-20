@@ -18,17 +18,17 @@ The package virt-ctrl (version 1.0.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ja]({{< ref "/f12/language/ja.md" >}}) | 911 | 911 | 100.0 | /mnt/stockage/packages/f12/virt-ctrl/po/ja.po | 
- | [as]({{< ref "/f12/language/as.md" >}}) | 109 | 112 | 97.3 | /mnt/stockage/packages/f12/virt-ctrl/po/as.po | 
- | [bn_IN]({{< ref "/f12/language/bn_IN.md" >}}) | 109 | 112 | 97.3 | /mnt/stockage/packages/f12/virt-ctrl/po/bn_IN.po | 
- | [it]({{< ref "/f12/language/it.md" >}}) | 109 | 112 | 97.3 | /mnt/stockage/packages/f12/virt-ctrl/po/it.po | 
- | [kn]({{< ref "/f12/language/kn.md" >}}) | 109 | 112 | 97.3 | /mnt/stockage/packages/f12/virt-ctrl/po/kn.po | 
- | [ml]({{< ref "/f12/language/ml.md" >}}) | 109 | 112 | 97.3 | /mnt/stockage/packages/f12/virt-ctrl/po/ml.po | 
- | [mr]({{< ref "/f12/language/mr.md" >}}) | 109 | 112 | 97.3 | /mnt/stockage/packages/f12/virt-ctrl/po/mr.po | 
- | [pl]({{< ref "/f12/language/pl.md" >}}) | 109 | 112 | 97.3 | /mnt/stockage/packages/f12/virt-ctrl/po/pl.po | 
- | [pt_BR]({{< ref "/f12/language/pt_BR.md" >}}) | 109 | 112 | 97.3 | /mnt/stockage/packages/f12/virt-ctrl/po/pt_BR.po | 
- | [te]({{< ref "/f12/language/te.md" >}}) | 109 | 112 | 97.3 | /mnt/stockage/packages/f12/virt-ctrl/po/te.po | 
- | [zh_Hans]({{< ref "/f12/language/zh_Hans.md" >}}) | 109 | 112 | 97.3 | /mnt/stockage/packages/f12/virt-ctrl/po/zh_CN.po | 
+ | [ja](/f12/language/ja) | 911 | 911 | 100.0 | /mnt/stockage/packages/f12/virt-ctrl/po/ja.po | 
+ | [as](/f12/language/as) | 109 | 112 | 97.3 | /mnt/stockage/packages/f12/virt-ctrl/po/as.po | 
+ | [bn_IN](/f12/language/bn_IN) | 109 | 112 | 97.3 | /mnt/stockage/packages/f12/virt-ctrl/po/bn_IN.po | 
+ | [it](/f12/language/it) | 109 | 112 | 97.3 | /mnt/stockage/packages/f12/virt-ctrl/po/it.po | 
+ | [kn](/f12/language/kn) | 109 | 112 | 97.3 | /mnt/stockage/packages/f12/virt-ctrl/po/kn.po | 
+ | [ml](/f12/language/ml) | 109 | 112 | 97.3 | /mnt/stockage/packages/f12/virt-ctrl/po/ml.po | 
+ | [mr](/f12/language/mr) | 109 | 112 | 97.3 | /mnt/stockage/packages/f12/virt-ctrl/po/mr.po | 
+ | [pl](/f12/language/pl) | 109 | 112 | 97.3 | /mnt/stockage/packages/f12/virt-ctrl/po/pl.po | 
+ | [pt_BR](/f12/language/pt_BR) | 109 | 112 | 97.3 | /mnt/stockage/packages/f12/virt-ctrl/po/pt_BR.po | 
+ | [te](/f12/language/te) | 109 | 112 | 97.3 | /mnt/stockage/packages/f12/virt-ctrl/po/te.po | 
+ | [zh_Hans](/f12/language/zh_Hans) | 109 | 112 | 97.3 | /mnt/stockage/packages/f12/virt-ctrl/po/zh_CN.po | 
 {.sortable}
 
 

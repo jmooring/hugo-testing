@@ -18,9 +18,9 @@ The package mmlib (version 1.4.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f37/language/de.md" >}}) | 19 | 19 | 100.0 | /mnt/stockage/packages/f37/mmlib/po/de.po | 
- | [fr]({{< ref "/f37/language/fr.md" >}}) | 19 | 19 | 100.0 | /mnt/stockage/packages/f37/mmlib/po/fr.po | 
- | [it]({{< ref "/f37/language/it.md" >}}) | 19 | 19 | 100.0 | /mnt/stockage/packages/f37/mmlib/po/it.po | 
+ | [de](/f37/language/de) | 19 | 19 | 100.0 | /mnt/stockage/packages/f37/mmlib/po/de.po | 
+ | [fr](/f37/language/fr) | 19 | 19 | 100.0 | /mnt/stockage/packages/f37/mmlib/po/fr.po | 
+ | [it](/f37/language/it) | 19 | 19 | 100.0 | /mnt/stockage/packages/f37/mmlib/po/it.po | 
 {.sortable}
 
 

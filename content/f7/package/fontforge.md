@@ -18,17 +18,17 @@ The package fontforge (version 20061220):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [en_GB]({{< ref "/f7/language/en_GB.md" >}}) | 206 | 206 | 100.0 | /mnt/stockage/packages/f7/fontforge/po/en_GB.po | 
- | [es]({{< ref "/f7/language/es.md" >}}) | 12903 | 12903 | 100.0 | /mnt/stockage/packages/f7/fontforge/po/es.po | 
- | [it]({{< ref "/f7/language/it.md" >}}) | 6828 | 6828 | 100.0 | /mnt/stockage/packages/f7/fontforge/po/it.po | 
- | [ja]({{< ref "/f7/language/ja.md" >}}) | 21574 | 21574 | 100.0 | /mnt/stockage/packages/f7/fontforge/po/ja.po | 
- | [vi]({{< ref "/f7/language/vi.md" >}}) | 19547 | 19547 | 100.0 | /mnt/stockage/packages/f7/fontforge/po/vi.po | 
- | [fr]({{< ref "/f7/language/fr.md" >}}) | 11446 | 17545 | 65.2 | /mnt/stockage/packages/f7/fontforge/po/fr.po | 
- | [de]({{< ref "/f7/language/de.md" >}}) | 615 | 999 | 61.6 | /mnt/stockage/packages/f7/fontforge/po/de.po | 
- | [pl]({{< ref "/f7/language/pl.md" >}}) | 8588 | 21589 | 39.8 | /mnt/stockage/packages/f7/fontforge/po/pl.po | 
- | [ru]({{< ref "/f7/language/ru.md" >}}) | 2600 | 6984 | 37.2 | /mnt/stockage/packages/f7/fontforge/po/ru.po | 
- | [zh_Hans]({{< ref "/f7/language/zh_Hans.md" >}}) | 4297 | 21149 | 20.3 | /mnt/stockage/packages/f7/fontforge/po/zh_CN.po | 
- | [el]({{< ref "/f7/language/el.md" >}}) | 485 | 21497 | 2.3 | /mnt/stockage/packages/f7/fontforge/po/el.po | 
+ | [en_GB](/f7/language/en_GB) | 206 | 206 | 100.0 | /mnt/stockage/packages/f7/fontforge/po/en_GB.po | 
+ | [es](/f7/language/es) | 12903 | 12903 | 100.0 | /mnt/stockage/packages/f7/fontforge/po/es.po | 
+ | [it](/f7/language/it) | 6828 | 6828 | 100.0 | /mnt/stockage/packages/f7/fontforge/po/it.po | 
+ | [ja](/f7/language/ja) | 21574 | 21574 | 100.0 | /mnt/stockage/packages/f7/fontforge/po/ja.po | 
+ | [vi](/f7/language/vi) | 19547 | 19547 | 100.0 | /mnt/stockage/packages/f7/fontforge/po/vi.po | 
+ | [fr](/f7/language/fr) | 11446 | 17545 | 65.2 | /mnt/stockage/packages/f7/fontforge/po/fr.po | 
+ | [de](/f7/language/de) | 615 | 999 | 61.6 | /mnt/stockage/packages/f7/fontforge/po/de.po | 
+ | [pl](/f7/language/pl) | 8588 | 21589 | 39.8 | /mnt/stockage/packages/f7/fontforge/po/pl.po | 
+ | [ru](/f7/language/ru) | 2600 | 6984 | 37.2 | /mnt/stockage/packages/f7/fontforge/po/ru.po | 
+ | [zh_Hans](/f7/language/zh_Hans) | 4297 | 21149 | 20.3 | /mnt/stockage/packages/f7/fontforge/po/zh_CN.po | 
+ | [el](/f7/language/el) | 485 | 21497 | 2.3 | /mnt/stockage/packages/f7/fontforge/po/el.po | 
 {.sortable}
 
 

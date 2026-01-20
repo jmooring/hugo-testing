@@ -18,104 +18,104 @@ The package blueberry (version 1.2.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [am]({{< ref "/f27/language/am.md" >}}) | 141 | 141 | 100.0 | /mnt/stockage/packages/f27/blueberry/po/blueberry-am.po | 
- | [ar_EG]({{< ref "/f27/language/ar_EG.md" >}}) | 141 | 141 | 100.0 | /mnt/stockage/packages/f27/blueberry/po/blueberry-ar.po | 
- | [bg]({{< ref "/f27/language/bg.md" >}}) | 141 | 141 | 100.0 | /mnt/stockage/packages/f27/blueberry/po/blueberry-bg.po | 
- | [ca]({{< ref "/f27/language/ca.md" >}}) | 141 | 141 | 100.0 | /mnt/stockage/packages/f27/blueberry/po/blueberry-ca.po | 
- | [cs]({{< ref "/f27/language/cs.md" >}}) | 141 | 141 | 100.0 | /mnt/stockage/packages/f27/blueberry/po/blueberry-cs.po | 
- | [cy]({{< ref "/f27/language/cy.md" >}}) | 141 | 141 | 100.0 | /mnt/stockage/packages/f27/blueberry/po/blueberry-cy.po | 
- | [da]({{< ref "/f27/language/da.md" >}}) | 141 | 141 | 100.0 | /mnt/stockage/packages/f27/blueberry/po/blueberry-da.po | 
- | [de]({{< ref "/f27/language/de.md" >}}) | 141 | 141 | 100.0 | /mnt/stockage/packages/f27/blueberry/po/blueberry-de.po | 
- | [en_GB]({{< ref "/f27/language/en_GB.md" >}}) | 141 | 141 | 100.0 | /mnt/stockage/packages/f27/blueberry/po/blueberry-en_GB.po | 
- | [es]({{< ref "/f27/language/es.md" >}}) | 141 | 141 | 100.0 | /mnt/stockage/packages/f27/blueberry/po/blueberry-es.po | 
- | [et]({{< ref "/f27/language/et.md" >}}) | 141 | 141 | 100.0 | /mnt/stockage/packages/f27/blueberry/po/blueberry-et.po | 
- | [eu]({{< ref "/f27/language/eu.md" >}}) | 141 | 141 | 100.0 | /mnt/stockage/packages/f27/blueberry/po/blueberry-eu.po | 
- | [fi]({{< ref "/f27/language/fi.md" >}}) | 141 | 141 | 100.0 | /mnt/stockage/packages/f27/blueberry/po/blueberry-fi.po | 
- | [fr]({{< ref "/f27/language/fr.md" >}}) | 141 | 141 | 100.0 | /mnt/stockage/packages/f27/blueberry/po/blueberry-fr.po | 
- | [hi]({{< ref "/f27/language/hi.md" >}}) | 141 | 141 | 100.0 | /mnt/stockage/packages/f27/blueberry/po/blueberry-hi.po | 
- | [hr]({{< ref "/f27/language/hr.md" >}}) | 141 | 141 | 100.0 | /mnt/stockage/packages/f27/blueberry/po/blueberry-hr.po | 
- | [hu]({{< ref "/f27/language/hu.md" >}}) | 141 | 141 | 100.0 | /mnt/stockage/packages/f27/blueberry/po/blueberry-hu.po | 
- | [hy]({{< ref "/f27/language/hy.md" >}}) | 141 | 141 | 100.0 | /mnt/stockage/packages/f27/blueberry/po/blueberry-hy.po | 
- | [ia]({{< ref "/f27/language/ia.md" >}}) | 141 | 141 | 100.0 | /mnt/stockage/packages/f27/blueberry/po/blueberry-ia.po | 
- | [is]({{< ref "/f27/language/is.md" >}}) | 141 | 141 | 100.0 | /mnt/stockage/packages/f27/blueberry/po/blueberry-is.po | 
- | [it]({{< ref "/f27/language/it.md" >}}) | 141 | 141 | 100.0 | /mnt/stockage/packages/f27/blueberry/po/blueberry-it.po | 
- | [ja]({{< ref "/f27/language/ja.md" >}}) | 141 | 141 | 100.0 | /mnt/stockage/packages/f27/blueberry/po/blueberry-ja.po | 
- | [kab]({{< ref "/f27/language/kab.md" >}}) | 141 | 141 | 100.0 | /mnt/stockage/packages/f27/blueberry/po/blueberry-kab.po | 
- | [ko]({{< ref "/f27/language/ko.md" >}}) | 141 | 141 | 100.0 | /mnt/stockage/packages/f27/blueberry/po/blueberry-ko.po | 
- | [lt]({{< ref "/f27/language/lt.md" >}}) | 141 | 141 | 100.0 | /mnt/stockage/packages/f27/blueberry/po/blueberry-lt.po | 
- | [nap]({{< ref "/f27/language/nap.md" >}}) | 141 | 141 | 100.0 | /mnt/stockage/packages/f27/blueberry/po/blueberry-nap.po | 
- | [nl]({{< ref "/f27/language/nl.md" >}}) | 141 | 141 | 100.0 | /mnt/stockage/packages/f27/blueberry/po/blueberry-nl.po | 
- | [pl]({{< ref "/f27/language/pl.md" >}}) | 141 | 141 | 100.0 | /mnt/stockage/packages/f27/blueberry/po/blueberry-pl.po | 
- | [pt]({{< ref "/f27/language/pt.md" >}}) | 141 | 141 | 100.0 | /mnt/stockage/packages/f27/blueberry/po/blueberry-pt.po | 
- | [pt_BR]({{< ref "/f27/language/pt_BR.md" >}}) | 141 | 141 | 100.0 | /mnt/stockage/packages/f27/blueberry/po/blueberry-pt_BR.po | 
- | [ro]({{< ref "/f27/language/ro.md" >}}) | 141 | 141 | 100.0 | /mnt/stockage/packages/f27/blueberry/po/blueberry-ro.po | 
- | [ru]({{< ref "/f27/language/ru.md" >}}) | 141 | 141 | 100.0 | /mnt/stockage/packages/f27/blueberry/po/blueberry-ru.po | 
- | [sco]({{< ref "/f27/language/sco.md" >}}) | 141 | 141 | 100.0 | /mnt/stockage/packages/f27/blueberry/po/blueberry-sco.po | 
- | [sk]({{< ref "/f27/language/sk.md" >}}) | 141 | 141 | 100.0 | /mnt/stockage/packages/f27/blueberry/po/blueberry-sk.po | 
- | [sl]({{< ref "/f27/language/sl.md" >}}) | 141 | 141 | 100.0 | /mnt/stockage/packages/f27/blueberry/po/blueberry-sl.po | 
- | [sr]({{< ref "/f27/language/sr.md" >}}) | 141 | 141 | 100.0 | /mnt/stockage/packages/f27/blueberry/po/blueberry-sr.po | 
- | [sv]({{< ref "/f27/language/sv.md" >}}) | 141 | 141 | 100.0 | /mnt/stockage/packages/f27/blueberry/po/blueberry-sv.po | 
- | [th]({{< ref "/f27/language/th.md" >}}) | 141 | 141 | 100.0 | /mnt/stockage/packages/f27/blueberry/po/blueberry-th.po | 
- | [tr]({{< ref "/f27/language/tr.md" >}}) | 141 | 141 | 100.0 | /mnt/stockage/packages/f27/blueberry/po/blueberry-tr.po | 
- | [uk]({{< ref "/f27/language/uk.md" >}}) | 141 | 141 | 100.0 | /mnt/stockage/packages/f27/blueberry/po/blueberry-uk.po | 
- | [uz]({{< ref "/f27/language/uz.md" >}}) | 141 | 141 | 100.0 | /mnt/stockage/packages/f27/blueberry/po/blueberry-uz.po | 
- | [vi]({{< ref "/f27/language/vi.md" >}}) | 141 | 141 | 100.0 | /mnt/stockage/packages/f27/blueberry/po/blueberry-vi.po | 
- | [zh_Hans]({{< ref "/f27/language/zh_Hans.md" >}}) | 141 | 141 | 100.0 | /mnt/stockage/packages/f27/blueberry/po/blueberry-zh_CN.po | 
- | [zh_Hant]({{< ref "/f27/language/zh_Hant.md" >}}) | 141 | 141 | 100.0 | /mnt/stockage/packages/f27/blueberry/po/blueberry-zh_TW.po | 
- | [zh_Hant_HK]({{< ref "/f27/language/zh_Hant_HK.md" >}}) | 141 | 141 | 100.0 | /mnt/stockage/packages/f27/blueberry/po/blueberry-zh_HK.po | 
- | [zu]({{< ref "/f27/language/zu.md" >}}) | 141 | 141 | 100.0 | /mnt/stockage/packages/f27/blueberry/po/blueberry-zu.po | 
- | [gd]({{< ref "/f27/language/gd.md" >}}) | 138 | 141 | 97.9 | /mnt/stockage/packages/f27/blueberry/po/blueberry-gd.po | 
- | [nb_NO]({{< ref "/f27/language/nb_NO.md" >}}) | 132 | 141 | 93.6 | /mnt/stockage/packages/f27/blueberry/po/blueberry-nb.po | 
- | [bs]({{< ref "/f27/language/bs.md" >}}) | 127 | 141 | 90.1 | /mnt/stockage/packages/f27/blueberry/po/blueberry-bs.po | 
- | [nds]({{< ref "/f27/language/nds.md" >}}) | 120 | 141 | 85.1 | /mnt/stockage/packages/f27/blueberry/po/blueberry-nds.po | 
- | [he]({{< ref "/f27/language/he.md" >}}) | 59 | 141 | 41.8 | /mnt/stockage/packages/f27/blueberry/po/blueberry-he.po | 
- | [lo]({{< ref "/f27/language/lo.md" >}}) | 32 | 141 | 22.7 | /mnt/stockage/packages/f27/blueberry/po/blueberry-lo.po | 
- | [ca@valencia]({{< ref "/f27/language/ca@valencia.md" >}}) | 31 | 141 | 22.0 | /mnt/stockage/packages/f27/blueberry/po/blueberry-ca@valencia.po | 
- | [el]({{< ref "/f27/language/el.md" >}}) | 31 | 141 | 22.0 | /mnt/stockage/packages/f27/blueberry/po/blueberry-el.po | 
- | [fr_CA]({{< ref "/f27/language/fr_CA.md" >}}) | 31 | 141 | 22.0 | /mnt/stockage/packages/f27/blueberry/po/blueberry-fr_CA.po | 
- | [id]({{< ref "/f27/language/id.md" >}}) | 31 | 141 | 22.0 | /mnt/stockage/packages/f27/blueberry/po/blueberry-id.po | 
- | [kk]({{< ref "/f27/language/kk.md" >}}) | 31 | 141 | 22.0 | /mnt/stockage/packages/f27/blueberry/po/blueberry-kk.po | 
- | [ku]({{< ref "/f27/language/ku.md" >}}) | 31 | 141 | 22.0 | /mnt/stockage/packages/f27/blueberry/po/blueberry-ku.po | 
- | [mr]({{< ref "/f27/language/mr.md" >}}) | 31 | 141 | 22.0 | /mnt/stockage/packages/f27/blueberry/po/blueberry-mr.po | 
- | [ms]({{< ref "/f27/language/ms.md" >}}) | 31 | 141 | 22.0 | /mnt/stockage/packages/f27/blueberry/po/blueberry-ms.po | 
- | [ne]({{< ref "/f27/language/ne.md" >}}) | 31 | 141 | 22.0 | /mnt/stockage/packages/f27/blueberry/po/blueberry-ne.po | 
- | [oc]({{< ref "/f27/language/oc.md" >}}) | 31 | 141 | 22.0 | /mnt/stockage/packages/f27/blueberry/po/blueberry-oc.po | 
- | [pap]({{< ref "/f27/language/pap.md" >}}) | 31 | 141 | 22.0 | /mnt/stockage/packages/f27/blueberry/po/blueberry-pap.po | 
- | [ta]({{< ref "/f27/language/ta.md" >}}) | 31 | 141 | 22.0 | /mnt/stockage/packages/f27/blueberry/po/blueberry-ta.po | 
- | [tg]({{< ref "/f27/language/tg.md" >}}) | 31 | 141 | 22.0 | /mnt/stockage/packages/f27/blueberry/po/blueberry-tg.po | 
- | [tt]({{< ref "/f27/language/tt.md" >}}) | 31 | 141 | 22.0 | /mnt/stockage/packages/f27/blueberry/po/blueberry-tt.po | 
- | [ur]({{< ref "/f27/language/ur.md" >}}) | 31 | 141 | 22.0 | /mnt/stockage/packages/f27/blueberry/po/blueberry-ur.po | 
- | [km]({{< ref "/f27/language/km.md" >}}) | 27 | 141 | 19.1 | /mnt/stockage/packages/f27/blueberry/po/blueberry-km.po | 
- | [lv]({{< ref "/f27/language/lv.md" >}}) | 27 | 141 | 19.1 | /mnt/stockage/packages/f27/blueberry/po/blueberry-lv.po | 
- | [ml]({{< ref "/f27/language/ml.md" >}}) | 27 | 141 | 19.1 | /mnt/stockage/packages/f27/blueberry/po/blueberry-ml.po | 
- | [or]({{< ref "/f27/language/or.md" >}}) | 27 | 141 | 19.1 | /mnt/stockage/packages/f27/blueberry/po/blueberry-or.po | 
- | [sq]({{< ref "/f27/language/sq.md" >}}) | 27 | 141 | 19.1 | /mnt/stockage/packages/f27/blueberry/po/blueberry-sq.po | 
- | [az]({{< ref "/f27/language/az.md" >}}) | 24 | 141 | 17.0 | /mnt/stockage/packages/f27/blueberry/po/blueberry-az.po | 
- | [be]({{< ref "/f27/language/be.md" >}}) | 24 | 141 | 17.0 | /mnt/stockage/packages/f27/blueberry/po/blueberry-be.po | 
- | [crh]({{< ref "/f27/language/crh.md" >}}) | 24 | 141 | 17.0 | /mnt/stockage/packages/f27/blueberry/po/blueberry-crh.po | 
- | [en_CA]({{< ref "/f27/language/en_CA.md" >}}) | 24 | 141 | 17.0 | /mnt/stockage/packages/f27/blueberry/po/blueberry-en_CA.po | 
- | [fil]({{< ref "/f27/language/fil.md" >}}) | 24 | 141 | 17.0 | /mnt/stockage/packages/f27/blueberry/po/blueberry-fil.po | 
- | [frp]({{< ref "/f27/language/frp.md" >}}) | 24 | 141 | 17.0 | /mnt/stockage/packages/f27/blueberry/po/blueberry-frp.po | 
- | [fy]({{< ref "/f27/language/fy.md" >}}) | 24 | 141 | 17.0 | /mnt/stockage/packages/f27/blueberry/po/blueberry-fy.po | 
- | [gl]({{< ref "/f27/language/gl.md" >}}) | 24 | 141 | 17.0 | /mnt/stockage/packages/f27/blueberry/po/blueberry-gl.po | 
- | [my]({{< ref "/f27/language/my.md" >}}) | 24 | 141 | 17.0 | /mnt/stockage/packages/f27/blueberry/po/blueberry-my.po | 
- | [pa]({{< ref "/f27/language/pa.md" >}}) | 24 | 141 | 17.0 | /mnt/stockage/packages/f27/blueberry/po/blueberry-pa.po | 
- | [tl]({{< ref "/f27/language/tl.md" >}}) | 24 | 141 | 17.0 | /mnt/stockage/packages/f27/blueberry/po/blueberry-tl.po | 
- | [ug]({{< ref "/f27/language/ug.md" >}}) | 24 | 141 | 17.0 | /mnt/stockage/packages/f27/blueberry/po/blueberry-ug.po | 
- | [fa]({{< ref "/f27/language/fa.md" >}}) | 20 | 141 | 14.2 | /mnt/stockage/packages/f27/blueberry/po/blueberry-fa.po | 
- | [as]({{< ref "/f27/language/as.md" >}}) | 19 | 141 | 13.5 | /mnt/stockage/packages/f27/blueberry/po/blueberry-as.po | 
- | [xh]({{< ref "/f27/language/xh.md" >}}) | 19 | 141 | 13.5 | /mnt/stockage/packages/f27/blueberry/po/blueberry-xh.po | 
- | [eo]({{< ref "/f27/language/eo.md" >}}) | 15 | 141 | 10.6 | /mnt/stockage/packages/f27/blueberry/po/blueberry-eo.po | 
- | [ber]({{< ref "/f27/language/ber.md" >}}) | 13 | 141 | 9.2 | /mnt/stockage/packages/f27/blueberry/po/blueberry-ber.po | 
- | [ka]({{< ref "/f27/language/ka.md" >}}) | 11 | 141 | 7.8 | /mnt/stockage/packages/f27/blueberry/po/blueberry-ka.po | 
- | [mn]({{< ref "/f27/language/mn.md" >}}) | 2 | 141 | 1.4 | /mnt/stockage/packages/f27/blueberry/po/blueberry-mn.po | 
- | [shn]({{< ref "/f27/language/shn.md" >}}) | 2 | 141 | 1.4 | /mnt/stockage/packages/f27/blueberry/po/blueberry-shn.po | 
- | [af]({{< ref "/f27/language/af.md" >}}) | 0 | 141 | 0.0 | /mnt/stockage/packages/f27/blueberry/po/blueberry-af.po | 
- | [bn]({{< ref "/f27/language/bn.md" >}}) | 0 | 141 | 0.0 | /mnt/stockage/packages/f27/blueberry/po/blueberry-bn.po | 
- | [en_AU]({{< ref "/f27/language/en_AU.md" >}}) | 0 | 141 | 0.0 | /mnt/stockage/packages/f27/blueberry/po/blueberry-en_AU.po | 
- | [si]({{< ref "/f27/language/si.md" >}}) | 0 | 141 | 0.0 | /mnt/stockage/packages/f27/blueberry/po/blueberry-si.po | 
- | [sr_Latn]({{< ref "/f27/language/sr_Latn.md" >}}) | 0 | 141 | 0.0 | /mnt/stockage/packages/f27/blueberry/po/blueberry-sr@latin.po | 
- | [te]({{< ref "/f27/language/te.md" >}}) | 0 | 141 | 0.0 | /mnt/stockage/packages/f27/blueberry/po/blueberry-te.po | 
+ | [am](/f27/language/am) | 141 | 141 | 100.0 | /mnt/stockage/packages/f27/blueberry/po/blueberry-am.po | 
+ | [ar_EG](/f27/language/ar_EG) | 141 | 141 | 100.0 | /mnt/stockage/packages/f27/blueberry/po/blueberry-ar.po | 
+ | [bg](/f27/language/bg) | 141 | 141 | 100.0 | /mnt/stockage/packages/f27/blueberry/po/blueberry-bg.po | 
+ | [ca](/f27/language/ca) | 141 | 141 | 100.0 | /mnt/stockage/packages/f27/blueberry/po/blueberry-ca.po | 
+ | [cs](/f27/language/cs) | 141 | 141 | 100.0 | /mnt/stockage/packages/f27/blueberry/po/blueberry-cs.po | 
+ | [cy](/f27/language/cy) | 141 | 141 | 100.0 | /mnt/stockage/packages/f27/blueberry/po/blueberry-cy.po | 
+ | [da](/f27/language/da) | 141 | 141 | 100.0 | /mnt/stockage/packages/f27/blueberry/po/blueberry-da.po | 
+ | [de](/f27/language/de) | 141 | 141 | 100.0 | /mnt/stockage/packages/f27/blueberry/po/blueberry-de.po | 
+ | [en_GB](/f27/language/en_GB) | 141 | 141 | 100.0 | /mnt/stockage/packages/f27/blueberry/po/blueberry-en_GB.po | 
+ | [es](/f27/language/es) | 141 | 141 | 100.0 | /mnt/stockage/packages/f27/blueberry/po/blueberry-es.po | 
+ | [et](/f27/language/et) | 141 | 141 | 100.0 | /mnt/stockage/packages/f27/blueberry/po/blueberry-et.po | 
+ | [eu](/f27/language/eu) | 141 | 141 | 100.0 | /mnt/stockage/packages/f27/blueberry/po/blueberry-eu.po | 
+ | [fi](/f27/language/fi) | 141 | 141 | 100.0 | /mnt/stockage/packages/f27/blueberry/po/blueberry-fi.po | 
+ | [fr](/f27/language/fr) | 141 | 141 | 100.0 | /mnt/stockage/packages/f27/blueberry/po/blueberry-fr.po | 
+ | [hi](/f27/language/hi) | 141 | 141 | 100.0 | /mnt/stockage/packages/f27/blueberry/po/blueberry-hi.po | 
+ | [hr](/f27/language/hr) | 141 | 141 | 100.0 | /mnt/stockage/packages/f27/blueberry/po/blueberry-hr.po | 
+ | [hu](/f27/language/hu) | 141 | 141 | 100.0 | /mnt/stockage/packages/f27/blueberry/po/blueberry-hu.po | 
+ | [hy](/f27/language/hy) | 141 | 141 | 100.0 | /mnt/stockage/packages/f27/blueberry/po/blueberry-hy.po | 
+ | [ia](/f27/language/ia) | 141 | 141 | 100.0 | /mnt/stockage/packages/f27/blueberry/po/blueberry-ia.po | 
+ | [is](/f27/language/is) | 141 | 141 | 100.0 | /mnt/stockage/packages/f27/blueberry/po/blueberry-is.po | 
+ | [it](/f27/language/it) | 141 | 141 | 100.0 | /mnt/stockage/packages/f27/blueberry/po/blueberry-it.po | 
+ | [ja](/f27/language/ja) | 141 | 141 | 100.0 | /mnt/stockage/packages/f27/blueberry/po/blueberry-ja.po | 
+ | [kab](/f27/language/kab) | 141 | 141 | 100.0 | /mnt/stockage/packages/f27/blueberry/po/blueberry-kab.po | 
+ | [ko](/f27/language/ko) | 141 | 141 | 100.0 | /mnt/stockage/packages/f27/blueberry/po/blueberry-ko.po | 
+ | [lt](/f27/language/lt) | 141 | 141 | 100.0 | /mnt/stockage/packages/f27/blueberry/po/blueberry-lt.po | 
+ | [nap](/f27/language/nap) | 141 | 141 | 100.0 | /mnt/stockage/packages/f27/blueberry/po/blueberry-nap.po | 
+ | [nl](/f27/language/nl) | 141 | 141 | 100.0 | /mnt/stockage/packages/f27/blueberry/po/blueberry-nl.po | 
+ | [pl](/f27/language/pl) | 141 | 141 | 100.0 | /mnt/stockage/packages/f27/blueberry/po/blueberry-pl.po | 
+ | [pt](/f27/language/pt) | 141 | 141 | 100.0 | /mnt/stockage/packages/f27/blueberry/po/blueberry-pt.po | 
+ | [pt_BR](/f27/language/pt_BR) | 141 | 141 | 100.0 | /mnt/stockage/packages/f27/blueberry/po/blueberry-pt_BR.po | 
+ | [ro](/f27/language/ro) | 141 | 141 | 100.0 | /mnt/stockage/packages/f27/blueberry/po/blueberry-ro.po | 
+ | [ru](/f27/language/ru) | 141 | 141 | 100.0 | /mnt/stockage/packages/f27/blueberry/po/blueberry-ru.po | 
+ | [sco](/f27/language/sco) | 141 | 141 | 100.0 | /mnt/stockage/packages/f27/blueberry/po/blueberry-sco.po | 
+ | [sk](/f27/language/sk) | 141 | 141 | 100.0 | /mnt/stockage/packages/f27/blueberry/po/blueberry-sk.po | 
+ | [sl](/f27/language/sl) | 141 | 141 | 100.0 | /mnt/stockage/packages/f27/blueberry/po/blueberry-sl.po | 
+ | [sr](/f27/language/sr) | 141 | 141 | 100.0 | /mnt/stockage/packages/f27/blueberry/po/blueberry-sr.po | 
+ | [sv](/f27/language/sv) | 141 | 141 | 100.0 | /mnt/stockage/packages/f27/blueberry/po/blueberry-sv.po | 
+ | [th](/f27/language/th) | 141 | 141 | 100.0 | /mnt/stockage/packages/f27/blueberry/po/blueberry-th.po | 
+ | [tr](/f27/language/tr) | 141 | 141 | 100.0 | /mnt/stockage/packages/f27/blueberry/po/blueberry-tr.po | 
+ | [uk](/f27/language/uk) | 141 | 141 | 100.0 | /mnt/stockage/packages/f27/blueberry/po/blueberry-uk.po | 
+ | [uz](/f27/language/uz) | 141 | 141 | 100.0 | /mnt/stockage/packages/f27/blueberry/po/blueberry-uz.po | 
+ | [vi](/f27/language/vi) | 141 | 141 | 100.0 | /mnt/stockage/packages/f27/blueberry/po/blueberry-vi.po | 
+ | [zh_Hans](/f27/language/zh_Hans) | 141 | 141 | 100.0 | /mnt/stockage/packages/f27/blueberry/po/blueberry-zh_CN.po | 
+ | [zh_Hant](/f27/language/zh_Hant) | 141 | 141 | 100.0 | /mnt/stockage/packages/f27/blueberry/po/blueberry-zh_TW.po | 
+ | [zh_Hant_HK](/f27/language/zh_Hant_HK) | 141 | 141 | 100.0 | /mnt/stockage/packages/f27/blueberry/po/blueberry-zh_HK.po | 
+ | [zu](/f27/language/zu) | 141 | 141 | 100.0 | /mnt/stockage/packages/f27/blueberry/po/blueberry-zu.po | 
+ | [gd](/f27/language/gd) | 138 | 141 | 97.9 | /mnt/stockage/packages/f27/blueberry/po/blueberry-gd.po | 
+ | [nb_NO](/f27/language/nb_NO) | 132 | 141 | 93.6 | /mnt/stockage/packages/f27/blueberry/po/blueberry-nb.po | 
+ | [bs](/f27/language/bs) | 127 | 141 | 90.1 | /mnt/stockage/packages/f27/blueberry/po/blueberry-bs.po | 
+ | [nds](/f27/language/nds) | 120 | 141 | 85.1 | /mnt/stockage/packages/f27/blueberry/po/blueberry-nds.po | 
+ | [he](/f27/language/he) | 59 | 141 | 41.8 | /mnt/stockage/packages/f27/blueberry/po/blueberry-he.po | 
+ | [lo](/f27/language/lo) | 32 | 141 | 22.7 | /mnt/stockage/packages/f27/blueberry/po/blueberry-lo.po | 
+ | [ca@valencia](/f27/language/ca@valencia) | 31 | 141 | 22.0 | /mnt/stockage/packages/f27/blueberry/po/blueberry-ca@valencia.po | 
+ | [el](/f27/language/el) | 31 | 141 | 22.0 | /mnt/stockage/packages/f27/blueberry/po/blueberry-el.po | 
+ | [fr_CA](/f27/language/fr_CA) | 31 | 141 | 22.0 | /mnt/stockage/packages/f27/blueberry/po/blueberry-fr_CA.po | 
+ | [id](/f27/language/id) | 31 | 141 | 22.0 | /mnt/stockage/packages/f27/blueberry/po/blueberry-id.po | 
+ | [kk](/f27/language/kk) | 31 | 141 | 22.0 | /mnt/stockage/packages/f27/blueberry/po/blueberry-kk.po | 
+ | [ku](/f27/language/ku) | 31 | 141 | 22.0 | /mnt/stockage/packages/f27/blueberry/po/blueberry-ku.po | 
+ | [mr](/f27/language/mr) | 31 | 141 | 22.0 | /mnt/stockage/packages/f27/blueberry/po/blueberry-mr.po | 
+ | [ms](/f27/language/ms) | 31 | 141 | 22.0 | /mnt/stockage/packages/f27/blueberry/po/blueberry-ms.po | 
+ | [ne](/f27/language/ne) | 31 | 141 | 22.0 | /mnt/stockage/packages/f27/blueberry/po/blueberry-ne.po | 
+ | [oc](/f27/language/oc) | 31 | 141 | 22.0 | /mnt/stockage/packages/f27/blueberry/po/blueberry-oc.po | 
+ | [pap](/f27/language/pap) | 31 | 141 | 22.0 | /mnt/stockage/packages/f27/blueberry/po/blueberry-pap.po | 
+ | [ta](/f27/language/ta) | 31 | 141 | 22.0 | /mnt/stockage/packages/f27/blueberry/po/blueberry-ta.po | 
+ | [tg](/f27/language/tg) | 31 | 141 | 22.0 | /mnt/stockage/packages/f27/blueberry/po/blueberry-tg.po | 
+ | [tt](/f27/language/tt) | 31 | 141 | 22.0 | /mnt/stockage/packages/f27/blueberry/po/blueberry-tt.po | 
+ | [ur](/f27/language/ur) | 31 | 141 | 22.0 | /mnt/stockage/packages/f27/blueberry/po/blueberry-ur.po | 
+ | [km](/f27/language/km) | 27 | 141 | 19.1 | /mnt/stockage/packages/f27/blueberry/po/blueberry-km.po | 
+ | [lv](/f27/language/lv) | 27 | 141 | 19.1 | /mnt/stockage/packages/f27/blueberry/po/blueberry-lv.po | 
+ | [ml](/f27/language/ml) | 27 | 141 | 19.1 | /mnt/stockage/packages/f27/blueberry/po/blueberry-ml.po | 
+ | [or](/f27/language/or) | 27 | 141 | 19.1 | /mnt/stockage/packages/f27/blueberry/po/blueberry-or.po | 
+ | [sq](/f27/language/sq) | 27 | 141 | 19.1 | /mnt/stockage/packages/f27/blueberry/po/blueberry-sq.po | 
+ | [az](/f27/language/az) | 24 | 141 | 17.0 | /mnt/stockage/packages/f27/blueberry/po/blueberry-az.po | 
+ | [be](/f27/language/be) | 24 | 141 | 17.0 | /mnt/stockage/packages/f27/blueberry/po/blueberry-be.po | 
+ | [crh](/f27/language/crh) | 24 | 141 | 17.0 | /mnt/stockage/packages/f27/blueberry/po/blueberry-crh.po | 
+ | [en_CA](/f27/language/en_CA) | 24 | 141 | 17.0 | /mnt/stockage/packages/f27/blueberry/po/blueberry-en_CA.po | 
+ | [fil](/f27/language/fil) | 24 | 141 | 17.0 | /mnt/stockage/packages/f27/blueberry/po/blueberry-fil.po | 
+ | [frp](/f27/language/frp) | 24 | 141 | 17.0 | /mnt/stockage/packages/f27/blueberry/po/blueberry-frp.po | 
+ | [fy](/f27/language/fy) | 24 | 141 | 17.0 | /mnt/stockage/packages/f27/blueberry/po/blueberry-fy.po | 
+ | [gl](/f27/language/gl) | 24 | 141 | 17.0 | /mnt/stockage/packages/f27/blueberry/po/blueberry-gl.po | 
+ | [my](/f27/language/my) | 24 | 141 | 17.0 | /mnt/stockage/packages/f27/blueberry/po/blueberry-my.po | 
+ | [pa](/f27/language/pa) | 24 | 141 | 17.0 | /mnt/stockage/packages/f27/blueberry/po/blueberry-pa.po | 
+ | [tl](/f27/language/tl) | 24 | 141 | 17.0 | /mnt/stockage/packages/f27/blueberry/po/blueberry-tl.po | 
+ | [ug](/f27/language/ug) | 24 | 141 | 17.0 | /mnt/stockage/packages/f27/blueberry/po/blueberry-ug.po | 
+ | [fa](/f27/language/fa) | 20 | 141 | 14.2 | /mnt/stockage/packages/f27/blueberry/po/blueberry-fa.po | 
+ | [as](/f27/language/as) | 19 | 141 | 13.5 | /mnt/stockage/packages/f27/blueberry/po/blueberry-as.po | 
+ | [xh](/f27/language/xh) | 19 | 141 | 13.5 | /mnt/stockage/packages/f27/blueberry/po/blueberry-xh.po | 
+ | [eo](/f27/language/eo) | 15 | 141 | 10.6 | /mnt/stockage/packages/f27/blueberry/po/blueberry-eo.po | 
+ | [ber](/f27/language/ber) | 13 | 141 | 9.2 | /mnt/stockage/packages/f27/blueberry/po/blueberry-ber.po | 
+ | [ka](/f27/language/ka) | 11 | 141 | 7.8 | /mnt/stockage/packages/f27/blueberry/po/blueberry-ka.po | 
+ | [mn](/f27/language/mn) | 2 | 141 | 1.4 | /mnt/stockage/packages/f27/blueberry/po/blueberry-mn.po | 
+ | [shn](/f27/language/shn) | 2 | 141 | 1.4 | /mnt/stockage/packages/f27/blueberry/po/blueberry-shn.po | 
+ | [af](/f27/language/af) | 0 | 141 | 0.0 | /mnt/stockage/packages/f27/blueberry/po/blueberry-af.po | 
+ | [bn](/f27/language/bn) | 0 | 141 | 0.0 | /mnt/stockage/packages/f27/blueberry/po/blueberry-bn.po | 
+ | [en_AU](/f27/language/en_AU) | 0 | 141 | 0.0 | /mnt/stockage/packages/f27/blueberry/po/blueberry-en_AU.po | 
+ | [si](/f27/language/si) | 0 | 141 | 0.0 | /mnt/stockage/packages/f27/blueberry/po/blueberry-si.po | 
+ | [sr_Latn](/f27/language/sr_Latn) | 0 | 141 | 0.0 | /mnt/stockage/packages/f27/blueberry/po/blueberry-sr@latin.po | 
+ | [te](/f27/language/te) | 0 | 141 | 0.0 | /mnt/stockage/packages/f27/blueberry/po/blueberry-te.po | 
 {.sortable}
 
 

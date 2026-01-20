@@ -18,16 +18,16 @@ The package dnsmasq (version 2.66):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f19/language/fr.md" >}}) | 2283 | 2283 | 100.0 | /mnt/stockage/packages/f19/dnsmasq/po/fr.po | 
- | [pl]({{< ref "/f19/language/pl.md" >}}) | 2283 | 2283 | 100.0 | /mnt/stockage/packages/f19/dnsmasq/po/pl.po | 
- | [de]({{< ref "/f19/language/de.md" >}}) | 2016 | 2283 | 88.3 | /mnt/stockage/packages/f19/dnsmasq/po/de.po | 
- | [es]({{< ref "/f19/language/es.md" >}}) | 1235 | 2283 | 54.1 | /mnt/stockage/packages/f19/dnsmasq/po/es.po | 
- | [nb_NO]({{< ref "/f19/language/nb_NO.md" >}}) | 763 | 2283 | 33.4 | /mnt/stockage/packages/f19/dnsmasq/po/no.po | 
- | [ro]({{< ref "/f19/language/ro.md" >}}) | 763 | 2283 | 33.4 | /mnt/stockage/packages/f19/dnsmasq/po/ro.po | 
- | [id]({{< ref "/f19/language/id.md" >}}) | 751 | 2283 | 32.9 | /mnt/stockage/packages/f19/dnsmasq/po/id.po | 
- | [fi]({{< ref "/f19/language/fi.md" >}}) | 0 | 2283 | 0.0 | /mnt/stockage/packages/f19/dnsmasq/po/fi.po | 
- | [it]({{< ref "/f19/language/it.md" >}}) | 0 | 2283 | 0.0 | /mnt/stockage/packages/f19/dnsmasq/po/it.po | 
- | [pt]({{< ref "/f19/language/pt.md" >}}) | 0 | 2283 | 0.0 | /mnt/stockage/packages/f19/dnsmasq/po/pt_BR.po | 
+ | [fr](/f19/language/fr) | 2283 | 2283 | 100.0 | /mnt/stockage/packages/f19/dnsmasq/po/fr.po | 
+ | [pl](/f19/language/pl) | 2283 | 2283 | 100.0 | /mnt/stockage/packages/f19/dnsmasq/po/pl.po | 
+ | [de](/f19/language/de) | 2016 | 2283 | 88.3 | /mnt/stockage/packages/f19/dnsmasq/po/de.po | 
+ | [es](/f19/language/es) | 1235 | 2283 | 54.1 | /mnt/stockage/packages/f19/dnsmasq/po/es.po | 
+ | [nb_NO](/f19/language/nb_NO) | 763 | 2283 | 33.4 | /mnt/stockage/packages/f19/dnsmasq/po/no.po | 
+ | [ro](/f19/language/ro) | 763 | 2283 | 33.4 | /mnt/stockage/packages/f19/dnsmasq/po/ro.po | 
+ | [id](/f19/language/id) | 751 | 2283 | 32.9 | /mnt/stockage/packages/f19/dnsmasq/po/id.po | 
+ | [fi](/f19/language/fi) | 0 | 2283 | 0.0 | /mnt/stockage/packages/f19/dnsmasq/po/fi.po | 
+ | [it](/f19/language/it) | 0 | 2283 | 0.0 | /mnt/stockage/packages/f19/dnsmasq/po/it.po | 
+ | [pt](/f19/language/pt) | 0 | 2283 | 0.0 | /mnt/stockage/packages/f19/dnsmasq/po/pt_BR.po | 
 {.sortable}
 
 

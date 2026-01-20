@@ -18,56 +18,56 @@ The package libdnf (version 0.64.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fi]({{< ref "/f33/language/fi.md" >}}) | 1441 | 1441 | 100.0 | /mnt/stockage/packages/f33/libdnf/po/fi.po | 
- | [fr]({{< ref "/f33/language/fr.md" >}}) | 1441 | 1441 | 100.0 | /mnt/stockage/packages/f33/libdnf/po/fr.po | 
- | [ko]({{< ref "/f33/language/ko.md" >}}) | 1441 | 1441 | 100.0 | /mnt/stockage/packages/f33/libdnf/po/ko.po | 
- | [nl]({{< ref "/f33/language/nl.md" >}}) | 1441 | 1441 | 100.0 | /mnt/stockage/packages/f33/libdnf/po/nl.po | 
- | [pl]({{< ref "/f33/language/pl.md" >}}) | 1441 | 1441 | 100.0 | /mnt/stockage/packages/f33/libdnf/po/pl.po | 
- | [ru]({{< ref "/f33/language/ru.md" >}}) | 1441 | 1441 | 100.0 | /mnt/stockage/packages/f33/libdnf/po/ru.po | 
- | [sv]({{< ref "/f33/language/sv.md" >}}) | 1441 | 1441 | 100.0 | /mnt/stockage/packages/f33/libdnf/po/sv.po | 
- | [tr]({{< ref "/f33/language/tr.md" >}}) | 1441 | 1441 | 100.0 | /mnt/stockage/packages/f33/libdnf/po/tr.po | 
- | [uk]({{< ref "/f33/language/uk.md" >}}) | 1441 | 1441 | 100.0 | /mnt/stockage/packages/f33/libdnf/po/uk.po | 
- | [zh_Hant]({{< ref "/f33/language/zh_Hant.md" >}}) | 1156 | 1441 | 80.2 | /mnt/stockage/packages/f33/libdnf/po/zh_TW.po | 
- | [ja]({{< ref "/f33/language/ja.md" >}}) | 1138 | 1441 | 79.0 | /mnt/stockage/packages/f33/libdnf/po/ja.po | 
- | [pt_BR]({{< ref "/f33/language/pt_BR.md" >}}) | 981 | 1441 | 68.1 | /mnt/stockage/packages/f33/libdnf/po/pt_BR.po | 
- | [zh_Hans]({{< ref "/f33/language/zh_Hans.md" >}}) | 847 | 1441 | 58.8 | /mnt/stockage/packages/f33/libdnf/po/zh_CN.po | 
- | [es]({{< ref "/f33/language/es.md" >}}) | 588 | 1441 | 40.8 | /mnt/stockage/packages/f33/libdnf/po/es.po | 
- | [de]({{< ref "/f33/language/de.md" >}}) | 580 | 1441 | 40.2 | /mnt/stockage/packages/f33/libdnf/po/de.po | 
- | [it]({{< ref "/f33/language/it.md" >}}) | 575 | 1441 | 39.9 | /mnt/stockage/packages/f33/libdnf/po/it.po | 
- | [hu]({{< ref "/f33/language/hu.md" >}}) | 257 | 1441 | 17.8 | /mnt/stockage/packages/f33/libdnf/po/hu.po | 
- | [cs]({{< ref "/f33/language/cs.md" >}}) | 156 | 1441 | 10.8 | /mnt/stockage/packages/f33/libdnf/po/cs.po | 
- | [bn]({{< ref "/f33/language/bn.md" >}}) | 141 | 1441 | 9.8 | /mnt/stockage/packages/f33/libdnf/po/bn.po | 
- | [da]({{< ref "/f33/language/da.md" >}}) | 141 | 1441 | 9.8 | /mnt/stockage/packages/f33/libdnf/po/da.po | 
- | [ca]({{< ref "/f33/language/ca.md" >}}) | 112 | 1441 | 7.8 | /mnt/stockage/packages/f33/libdnf/po/ca.po | 
- | [fur]({{< ref "/f33/language/fur.md" >}}) | 101 | 1441 | 7.0 | /mnt/stockage/packages/f33/libdnf/po/fur.po | 
- | [pt]({{< ref "/f33/language/pt.md" >}}) | 63 | 1441 | 4.4 | /mnt/stockage/packages/f33/libdnf/po/pt.po | 
- | [id]({{< ref "/f33/language/id.md" >}}) | 46 | 1441 | 3.2 | /mnt/stockage/packages/f33/libdnf/po/id.po | 
- | [bg]({{< ref "/f33/language/bg.md" >}}) | 19 | 1441 | 1.3 | /mnt/stockage/packages/f33/libdnf/po/bg.po | 
- | [pa]({{< ref "/f33/language/pa.md" >}}) | 14 | 1441 | 1.0 | /mnt/stockage/packages/f33/libdnf/po/pa.po | 
- | [fil]({{< ref "/f33/language/fil.md" >}}) | 8 | 1441 | 0.6 | /mnt/stockage/packages/f33/libdnf/po/fil.po | 
- | [as]({{< ref "/f33/language/as.md" >}}) | 2 | 1441 | 0.1 | /mnt/stockage/packages/f33/libdnf/po/as.po | 
- | [bn_IN]({{< ref "/f33/language/bn_IN.md" >}}) | 2 | 1441 | 0.1 | /mnt/stockage/packages/f33/libdnf/po/bn_IN.po | 
- | [el]({{< ref "/f33/language/el.md" >}}) | 2 | 1441 | 0.1 | /mnt/stockage/packages/f33/libdnf/po/el.po | 
- | [fa]({{< ref "/f33/language/fa.md" >}}) | 2 | 1441 | 0.1 | /mnt/stockage/packages/f33/libdnf/po/fa.po | 
- | [gu]({{< ref "/f33/language/gu.md" >}}) | 2 | 1441 | 0.1 | /mnt/stockage/packages/f33/libdnf/po/gu.po | 
- | [hi]({{< ref "/f33/language/hi.md" >}}) | 2 | 1441 | 0.1 | /mnt/stockage/packages/f33/libdnf/po/hi.po | 
- | [ia]({{< ref "/f33/language/ia.md" >}}) | 2 | 1441 | 0.1 | /mnt/stockage/packages/f33/libdnf/po/ia.po | 
- | [is]({{< ref "/f33/language/is.md" >}}) | 2 | 1441 | 0.1 | /mnt/stockage/packages/f33/libdnf/po/is.po | 
- | [kn]({{< ref "/f33/language/kn.md" >}}) | 2 | 1441 | 0.1 | /mnt/stockage/packages/f33/libdnf/po/kn.po | 
- | [mai]({{< ref "/f33/language/mai.md" >}}) | 2 | 1441 | 0.1 | /mnt/stockage/packages/f33/libdnf/po/mai.po | 
- | [ml]({{< ref "/f33/language/ml.md" >}}) | 2 | 1441 | 0.1 | /mnt/stockage/packages/f33/libdnf/po/ml.po | 
- | [mr]({{< ref "/f33/language/mr.md" >}}) | 2 | 1441 | 0.1 | /mnt/stockage/packages/f33/libdnf/po/mr.po | 
- | [nb_NO]({{< ref "/f33/language/nb_NO.md" >}}) | 2 | 1441 | 0.1 | /mnt/stockage/packages/f33/libdnf/po/nb.po | 
- | [or]({{< ref "/f33/language/or.md" >}}) | 2 | 1441 | 0.1 | /mnt/stockage/packages/f33/libdnf/po/or.po | 
- | [sk]({{< ref "/f33/language/sk.md" >}}) | 2 | 1441 | 0.1 | /mnt/stockage/packages/f33/libdnf/po/sk.po | 
- | [sq]({{< ref "/f33/language/sq.md" >}}) | 2 | 1441 | 0.1 | /mnt/stockage/packages/f33/libdnf/po/sq.po | 
- | [sr]({{< ref "/f33/language/sr.md" >}}) | 2 | 1441 | 0.1 | /mnt/stockage/packages/f33/libdnf/po/sr.po | 
- | [sr_Latn]({{< ref "/f33/language/sr_Latn.md" >}}) | 2 | 1441 | 0.1 | /mnt/stockage/packages/f33/libdnf/po/sr@latin.po | 
- | [ta]({{< ref "/f33/language/ta.md" >}}) | 2 | 1441 | 0.1 | /mnt/stockage/packages/f33/libdnf/po/ta.po | 
- | [te]({{< ref "/f33/language/te.md" >}}) | 2 | 1441 | 0.1 | /mnt/stockage/packages/f33/libdnf/po/te.po | 
- | [th]({{< ref "/f33/language/th.md" >}}) | 2 | 1441 | 0.1 | /mnt/stockage/packages/f33/libdnf/po/th.po | 
- | [eu]({{< ref "/f33/language/eu.md" >}}) | 0 | 1441 | 0.0 | /mnt/stockage/packages/f33/libdnf/po/eu.po | 
- | [si]({{< ref "/f33/language/si.md" >}}) | 0 | 1441 | 0.0 | /mnt/stockage/packages/f33/libdnf/po/si.po | 
+ | [fi](/f33/language/fi) | 1441 | 1441 | 100.0 | /mnt/stockage/packages/f33/libdnf/po/fi.po | 
+ | [fr](/f33/language/fr) | 1441 | 1441 | 100.0 | /mnt/stockage/packages/f33/libdnf/po/fr.po | 
+ | [ko](/f33/language/ko) | 1441 | 1441 | 100.0 | /mnt/stockage/packages/f33/libdnf/po/ko.po | 
+ | [nl](/f33/language/nl) | 1441 | 1441 | 100.0 | /mnt/stockage/packages/f33/libdnf/po/nl.po | 
+ | [pl](/f33/language/pl) | 1441 | 1441 | 100.0 | /mnt/stockage/packages/f33/libdnf/po/pl.po | 
+ | [ru](/f33/language/ru) | 1441 | 1441 | 100.0 | /mnt/stockage/packages/f33/libdnf/po/ru.po | 
+ | [sv](/f33/language/sv) | 1441 | 1441 | 100.0 | /mnt/stockage/packages/f33/libdnf/po/sv.po | 
+ | [tr](/f33/language/tr) | 1441 | 1441 | 100.0 | /mnt/stockage/packages/f33/libdnf/po/tr.po | 
+ | [uk](/f33/language/uk) | 1441 | 1441 | 100.0 | /mnt/stockage/packages/f33/libdnf/po/uk.po | 
+ | [zh_Hant](/f33/language/zh_Hant) | 1156 | 1441 | 80.2 | /mnt/stockage/packages/f33/libdnf/po/zh_TW.po | 
+ | [ja](/f33/language/ja) | 1138 | 1441 | 79.0 | /mnt/stockage/packages/f33/libdnf/po/ja.po | 
+ | [pt_BR](/f33/language/pt_BR) | 981 | 1441 | 68.1 | /mnt/stockage/packages/f33/libdnf/po/pt_BR.po | 
+ | [zh_Hans](/f33/language/zh_Hans) | 847 | 1441 | 58.8 | /mnt/stockage/packages/f33/libdnf/po/zh_CN.po | 
+ | [es](/f33/language/es) | 588 | 1441 | 40.8 | /mnt/stockage/packages/f33/libdnf/po/es.po | 
+ | [de](/f33/language/de) | 580 | 1441 | 40.2 | /mnt/stockage/packages/f33/libdnf/po/de.po | 
+ | [it](/f33/language/it) | 575 | 1441 | 39.9 | /mnt/stockage/packages/f33/libdnf/po/it.po | 
+ | [hu](/f33/language/hu) | 257 | 1441 | 17.8 | /mnt/stockage/packages/f33/libdnf/po/hu.po | 
+ | [cs](/f33/language/cs) | 156 | 1441 | 10.8 | /mnt/stockage/packages/f33/libdnf/po/cs.po | 
+ | [bn](/f33/language/bn) | 141 | 1441 | 9.8 | /mnt/stockage/packages/f33/libdnf/po/bn.po | 
+ | [da](/f33/language/da) | 141 | 1441 | 9.8 | /mnt/stockage/packages/f33/libdnf/po/da.po | 
+ | [ca](/f33/language/ca) | 112 | 1441 | 7.8 | /mnt/stockage/packages/f33/libdnf/po/ca.po | 
+ | [fur](/f33/language/fur) | 101 | 1441 | 7.0 | /mnt/stockage/packages/f33/libdnf/po/fur.po | 
+ | [pt](/f33/language/pt) | 63 | 1441 | 4.4 | /mnt/stockage/packages/f33/libdnf/po/pt.po | 
+ | [id](/f33/language/id) | 46 | 1441 | 3.2 | /mnt/stockage/packages/f33/libdnf/po/id.po | 
+ | [bg](/f33/language/bg) | 19 | 1441 | 1.3 | /mnt/stockage/packages/f33/libdnf/po/bg.po | 
+ | [pa](/f33/language/pa) | 14 | 1441 | 1.0 | /mnt/stockage/packages/f33/libdnf/po/pa.po | 
+ | [fil](/f33/language/fil) | 8 | 1441 | 0.6 | /mnt/stockage/packages/f33/libdnf/po/fil.po | 
+ | [as](/f33/language/as) | 2 | 1441 | 0.1 | /mnt/stockage/packages/f33/libdnf/po/as.po | 
+ | [bn_IN](/f33/language/bn_IN) | 2 | 1441 | 0.1 | /mnt/stockage/packages/f33/libdnf/po/bn_IN.po | 
+ | [el](/f33/language/el) | 2 | 1441 | 0.1 | /mnt/stockage/packages/f33/libdnf/po/el.po | 
+ | [fa](/f33/language/fa) | 2 | 1441 | 0.1 | /mnt/stockage/packages/f33/libdnf/po/fa.po | 
+ | [gu](/f33/language/gu) | 2 | 1441 | 0.1 | /mnt/stockage/packages/f33/libdnf/po/gu.po | 
+ | [hi](/f33/language/hi) | 2 | 1441 | 0.1 | /mnt/stockage/packages/f33/libdnf/po/hi.po | 
+ | [ia](/f33/language/ia) | 2 | 1441 | 0.1 | /mnt/stockage/packages/f33/libdnf/po/ia.po | 
+ | [is](/f33/language/is) | 2 | 1441 | 0.1 | /mnt/stockage/packages/f33/libdnf/po/is.po | 
+ | [kn](/f33/language/kn) | 2 | 1441 | 0.1 | /mnt/stockage/packages/f33/libdnf/po/kn.po | 
+ | [mai](/f33/language/mai) | 2 | 1441 | 0.1 | /mnt/stockage/packages/f33/libdnf/po/mai.po | 
+ | [ml](/f33/language/ml) | 2 | 1441 | 0.1 | /mnt/stockage/packages/f33/libdnf/po/ml.po | 
+ | [mr](/f33/language/mr) | 2 | 1441 | 0.1 | /mnt/stockage/packages/f33/libdnf/po/mr.po | 
+ | [nb_NO](/f33/language/nb_NO) | 2 | 1441 | 0.1 | /mnt/stockage/packages/f33/libdnf/po/nb.po | 
+ | [or](/f33/language/or) | 2 | 1441 | 0.1 | /mnt/stockage/packages/f33/libdnf/po/or.po | 
+ | [sk](/f33/language/sk) | 2 | 1441 | 0.1 | /mnt/stockage/packages/f33/libdnf/po/sk.po | 
+ | [sq](/f33/language/sq) | 2 | 1441 | 0.1 | /mnt/stockage/packages/f33/libdnf/po/sq.po | 
+ | [sr](/f33/language/sr) | 2 | 1441 | 0.1 | /mnt/stockage/packages/f33/libdnf/po/sr.po | 
+ | [sr_Latn](/f33/language/sr_Latn) | 2 | 1441 | 0.1 | /mnt/stockage/packages/f33/libdnf/po/sr@latin.po | 
+ | [ta](/f33/language/ta) | 2 | 1441 | 0.1 | /mnt/stockage/packages/f33/libdnf/po/ta.po | 
+ | [te](/f33/language/te) | 2 | 1441 | 0.1 | /mnt/stockage/packages/f33/libdnf/po/te.po | 
+ | [th](/f33/language/th) | 2 | 1441 | 0.1 | /mnt/stockage/packages/f33/libdnf/po/th.po | 
+ | [eu](/f33/language/eu) | 0 | 1441 | 0.0 | /mnt/stockage/packages/f33/libdnf/po/eu.po | 
+ | [si](/f33/language/si) | 0 | 1441 | 0.0 | /mnt/stockage/packages/f33/libdnf/po/si.po | 
 {.sortable}
 
 

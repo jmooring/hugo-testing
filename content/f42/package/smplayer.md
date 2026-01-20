@@ -18,7 +18,7 @@ The package smplayer (version 25.6.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [nb_NO]({{< ref "/f42/language/nb_NO.md" >}}) | 547 | 1198 | 45.7 | /mnt/stockage/packages/f42/smplayer/setup/translations/po_files/norwegian_nb.po/mnt/stockage/packages/f42/smplayer/setup/translations/po_files/norwegian_nn.po | 
+ | [nb_NO](/f42/language/nb_NO) | 547 | 1198 | 45.7 | /mnt/stockage/packages/f42/smplayer/setup/translations/po_files/norwegian_nb.po/mnt/stockage/packages/f42/smplayer/setup/translations/po_files/norwegian_nn.po | 
 {.sortable}
 
 

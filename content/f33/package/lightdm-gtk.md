@@ -18,79 +18,79 @@ The package lightdm-gtk (version 2.0.7):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [bg]({{< ref "/f33/language/bg.md" >}}) | 87 | 87 | 100.0 | /mnt/stockage/packages/f33/lightdm-gtk/po/bg.po | 
- | [ca]({{< ref "/f33/language/ca.md" >}}) | 87 | 87 | 100.0 | /mnt/stockage/packages/f33/lightdm-gtk/po/ca.po | 
- | [cs]({{< ref "/f33/language/cs.md" >}}) | 87 | 87 | 100.0 | /mnt/stockage/packages/f33/lightdm-gtk/po/cs.po | 
- | [da]({{< ref "/f33/language/da.md" >}}) | 87 | 87 | 100.0 | /mnt/stockage/packages/f33/lightdm-gtk/po/da.po | 
- | [en_GB]({{< ref "/f33/language/en_GB.md" >}}) | 87 | 87 | 100.0 | /mnt/stockage/packages/f33/lightdm-gtk/po/en_GB.po | 
- | [lt]({{< ref "/f33/language/lt.md" >}}) | 87 | 87 | 100.0 | /mnt/stockage/packages/f33/lightdm-gtk/po/lt.po | 
- | [nl]({{< ref "/f33/language/nl.md" >}}) | 87 | 87 | 100.0 | /mnt/stockage/packages/f33/lightdm-gtk/po/nl.po | 
- | [tr]({{< ref "/f33/language/tr.md" >}}) | 87 | 87 | 100.0 | /mnt/stockage/packages/f33/lightdm-gtk/po/tr.po | 
- | [zh_Hans]({{< ref "/f33/language/zh_Hans.md" >}}) | 87 | 87 | 100.0 | /mnt/stockage/packages/f33/lightdm-gtk/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f33/language/zh_Hant.md" >}}) | 87 | 87 | 100.0 | /mnt/stockage/packages/f33/lightdm-gtk/po/zh_TW.po | 
- | [be]({{< ref "/f33/language/be.md" >}}) | 68 | 87 | 78.2 | /mnt/stockage/packages/f33/lightdm-gtk/po/be.po | 
- | [br]({{< ref "/f33/language/br.md" >}}) | 68 | 87 | 78.2 | /mnt/stockage/packages/f33/lightdm-gtk/po/br.po | 
- | [bs]({{< ref "/f33/language/bs.md" >}}) | 68 | 87 | 78.2 | /mnt/stockage/packages/f33/lightdm-gtk/po/bs.po | 
- | [de]({{< ref "/f33/language/de.md" >}}) | 68 | 87 | 78.2 | /mnt/stockage/packages/f33/lightdm-gtk/po/de.po | 
- | [en_AU]({{< ref "/f33/language/en_AU.md" >}}) | 68 | 87 | 78.2 | /mnt/stockage/packages/f33/lightdm-gtk/po/en_AU.po | 
- | [es]({{< ref "/f33/language/es.md" >}}) | 68 | 87 | 78.2 | /mnt/stockage/packages/f33/lightdm-gtk/po/es.po | 
- | [et]({{< ref "/f33/language/et.md" >}}) | 68 | 87 | 78.2 | /mnt/stockage/packages/f33/lightdm-gtk/po/et.po | 
- | [fi]({{< ref "/f33/language/fi.md" >}}) | 68 | 87 | 78.2 | /mnt/stockage/packages/f33/lightdm-gtk/po/fi.po | 
- | [fr]({{< ref "/f33/language/fr.md" >}}) | 68 | 87 | 78.2 | /mnt/stockage/packages/f33/lightdm-gtk/po/fr.po | 
- | [gl]({{< ref "/f33/language/gl.md" >}}) | 68 | 87 | 78.2 | /mnt/stockage/packages/f33/lightdm-gtk/po/gl.po | 
- | [hu]({{< ref "/f33/language/hu.md" >}}) | 68 | 87 | 78.2 | /mnt/stockage/packages/f33/lightdm-gtk/po/hu.po | 
- | [is]({{< ref "/f33/language/is.md" >}}) | 68 | 87 | 78.2 | /mnt/stockage/packages/f33/lightdm-gtk/po/is.po | 
- | [it]({{< ref "/f33/language/it.md" >}}) | 68 | 87 | 78.2 | /mnt/stockage/packages/f33/lightdm-gtk/po/it.po | 
- | [kk]({{< ref "/f33/language/kk.md" >}}) | 68 | 87 | 78.2 | /mnt/stockage/packages/f33/lightdm-gtk/po/kk.po | 
- | [pl]({{< ref "/f33/language/pl.md" >}}) | 68 | 87 | 78.2 | /mnt/stockage/packages/f33/lightdm-gtk/po/pl.po | 
- | [pt]({{< ref "/f33/language/pt.md" >}}) | 68 | 87 | 78.2 | /mnt/stockage/packages/f33/lightdm-gtk/po/pt.po | 
- | [ru]({{< ref "/f33/language/ru.md" >}}) | 68 | 87 | 78.2 | /mnt/stockage/packages/f33/lightdm-gtk/po/ru.po | 
- | [sk]({{< ref "/f33/language/sk.md" >}}) | 68 | 87 | 78.2 | /mnt/stockage/packages/f33/lightdm-gtk/po/sk.po | 
- | [sl]({{< ref "/f33/language/sl.md" >}}) | 68 | 87 | 78.2 | /mnt/stockage/packages/f33/lightdm-gtk/po/sl.po | 
- | [sv]({{< ref "/f33/language/sv.md" >}}) | 68 | 87 | 78.2 | /mnt/stockage/packages/f33/lightdm-gtk/po/sv.po | 
- | [gd]({{< ref "/f33/language/gd.md" >}}) | 36 | 87 | 41.4 | /mnt/stockage/packages/f33/lightdm-gtk/po/gd.po | 
- | [ko]({{< ref "/f33/language/ko.md" >}}) | 36 | 87 | 41.4 | /mnt/stockage/packages/f33/lightdm-gtk/po/ko.po | 
- | [ms]({{< ref "/f33/language/ms.md" >}}) | 36 | 87 | 41.4 | /mnt/stockage/packages/f33/lightdm-gtk/po/ms.po | 
- | [th]({{< ref "/f33/language/th.md" >}}) | 36 | 87 | 41.4 | /mnt/stockage/packages/f33/lightdm-gtk/po/th.po | 
- | [ar]({{< ref "/f33/language/ar.md" >}}) | 35 | 87 | 40.2 | /mnt/stockage/packages/f33/lightdm-gtk/po/ar.po | 
- | [ast]({{< ref "/f33/language/ast.md" >}}) | 35 | 87 | 40.2 | /mnt/stockage/packages/f33/lightdm-gtk/po/ast.po | 
- | [bn]({{< ref "/f33/language/bn.md" >}}) | 35 | 87 | 40.2 | /mnt/stockage/packages/f33/lightdm-gtk/po/bn.po | 
- | [ca@valencia]({{< ref "/f33/language/ca@valencia.md" >}}) | 35 | 87 | 40.2 | /mnt/stockage/packages/f33/lightdm-gtk/po/ca@valencia.po | 
- | [en_CA]({{< ref "/f33/language/en_CA.md" >}}) | 35 | 87 | 40.2 | /mnt/stockage/packages/f33/lightdm-gtk/po/en_CA.po | 
- | [eo]({{< ref "/f33/language/eo.md" >}}) | 35 | 87 | 40.2 | /mnt/stockage/packages/f33/lightdm-gtk/po/eo.po | 
- | [eu]({{< ref "/f33/language/eu.md" >}}) | 35 | 87 | 40.2 | /mnt/stockage/packages/f33/lightdm-gtk/po/eu.po | 
- | [he]({{< ref "/f33/language/he.md" >}}) | 35 | 87 | 40.2 | /mnt/stockage/packages/f33/lightdm-gtk/po/he.po | 
- | [hi]({{< ref "/f33/language/hi.md" >}}) | 35 | 87 | 40.2 | /mnt/stockage/packages/f33/lightdm-gtk/po/hi.po | 
- | [ja]({{< ref "/f33/language/ja.md" >}}) | 35 | 87 | 40.2 | /mnt/stockage/packages/f33/lightdm-gtk/po/ja.po | 
- | [km]({{< ref "/f33/language/km.md" >}}) | 35 | 87 | 40.2 | /mnt/stockage/packages/f33/lightdm-gtk/po/km.po | 
- | [lb]({{< ref "/f33/language/lb.md" >}}) | 35 | 87 | 40.2 | /mnt/stockage/packages/f33/lightdm-gtk/po/lb.po | 
- | [lv]({{< ref "/f33/language/lv.md" >}}) | 35 | 87 | 40.2 | /mnt/stockage/packages/f33/lightdm-gtk/po/lv.po | 
- | [oc]({{< ref "/f33/language/oc.md" >}}) | 35 | 87 | 40.2 | /mnt/stockage/packages/f33/lightdm-gtk/po/oc.po | 
- | [pt_BR]({{< ref "/f33/language/pt_BR.md" >}}) | 35 | 87 | 40.2 | /mnt/stockage/packages/f33/lightdm-gtk/po/pt_BR.po | 
- | [sq]({{< ref "/f33/language/sq.md" >}}) | 35 | 87 | 40.2 | /mnt/stockage/packages/f33/lightdm-gtk/po/sq.po | 
- | [sr]({{< ref "/f33/language/sr.md" >}}) | 35 | 87 | 40.2 | /mnt/stockage/packages/f33/lightdm-gtk/po/sr.po | 
- | [ta]({{< ref "/f33/language/ta.md" >}}) | 35 | 87 | 40.2 | /mnt/stockage/packages/f33/lightdm-gtk/po/ta.po | 
- | [ug]({{< ref "/f33/language/ug.md" >}}) | 35 | 87 | 40.2 | /mnt/stockage/packages/f33/lightdm-gtk/po/ug.po | 
- | [uz]({{< ref "/f33/language/uz.md" >}}) | 35 | 87 | 40.2 | /mnt/stockage/packages/f33/lightdm-gtk/po/uz.po | 
- | [zh_Hant_HK]({{< ref "/f33/language/zh_Hant_HK.md" >}}) | 35 | 87 | 40.2 | /mnt/stockage/packages/f33/lightdm-gtk/po/zh_HK.po | 
- | [el]({{< ref "/f33/language/el.md" >}}) | 34 | 87 | 39.1 | /mnt/stockage/packages/f33/lightdm-gtk/po/el.po | 
- | [fy]({{< ref "/f33/language/fy.md" >}}) | 34 | 87 | 39.1 | /mnt/stockage/packages/f33/lightdm-gtk/po/fy.po | 
- | [id]({{< ref "/f33/language/id.md" >}}) | 34 | 87 | 39.1 | /mnt/stockage/packages/f33/lightdm-gtk/po/id.po | 
- | [ku]({{< ref "/f33/language/ku.md" >}}) | 34 | 87 | 39.1 | /mnt/stockage/packages/f33/lightdm-gtk/po/ku.po | 
- | [nb_NO]({{< ref "/f33/language/nb_NO.md" >}}) | 34 | 87 | 39.1 | /mnt/stockage/packages/f33/lightdm-gtk/po/nb.po | 
- | [uk]({{< ref "/f33/language/uk.md" >}}) | 34 | 87 | 39.1 | /mnt/stockage/packages/f33/lightdm-gtk/po/uk.po | 
- | [vi]({{< ref "/f33/language/vi.md" >}}) | 34 | 87 | 39.1 | /mnt/stockage/packages/f33/lightdm-gtk/po/vi.po | 
- | [sd]({{< ref "/f33/language/sd.md" >}}) | 30 | 87 | 34.5 | /mnt/stockage/packages/f33/lightdm-gtk/po/sd.po | 
- | [te]({{< ref "/f33/language/te.md" >}}) | 30 | 87 | 34.5 | /mnt/stockage/packages/f33/lightdm-gtk/po/te.po | 
- | [wae]({{< ref "/f33/language/wae.md" >}}) | 28 | 87 | 32.2 | /mnt/stockage/packages/f33/lightdm-gtk/po/wae.po | 
- | [hr]({{< ref "/f33/language/hr.md" >}}) | 20 | 87 | 23.0 | /mnt/stockage/packages/f33/lightdm-gtk/po/hr.po | 
- | [ro]({{< ref "/f33/language/ro.md" >}}) | 20 | 87 | 23.0 | /mnt/stockage/packages/f33/lightdm-gtk/po/ro.po | 
- | [ia]({{< ref "/f33/language/ia.md" >}}) | 18 | 87 | 20.7 | /mnt/stockage/packages/f33/lightdm-gtk/po/ia.po | 
- | [mhr]({{< ref "/f33/language/mhr.md" >}}) | 17 | 87 | 19.5 | /mnt/stockage/packages/f33/lightdm-gtk/po/mhr.po | 
- | [ml]({{< ref "/f33/language/ml.md" >}}) | 9 | 87 | 10.3 | /mnt/stockage/packages/f33/lightdm-gtk/po/ml.po | 
- | [bo]({{< ref "/f33/language/bo.md" >}}) | 0 | 87 | 0.0 | /mnt/stockage/packages/f33/lightdm-gtk/po/bo.po | 
- | [nn]({{< ref "/f33/language/nn.md" >}}) | 0 | 87 | 0.0 | /mnt/stockage/packages/f33/lightdm-gtk/po/nn.po | 
- | [si]({{< ref "/f33/language/si.md" >}}) | 0 | 87 | 0.0 | /mnt/stockage/packages/f33/lightdm-gtk/po/si.po | 
+ | [bg](/f33/language/bg) | 87 | 87 | 100.0 | /mnt/stockage/packages/f33/lightdm-gtk/po/bg.po | 
+ | [ca](/f33/language/ca) | 87 | 87 | 100.0 | /mnt/stockage/packages/f33/lightdm-gtk/po/ca.po | 
+ | [cs](/f33/language/cs) | 87 | 87 | 100.0 | /mnt/stockage/packages/f33/lightdm-gtk/po/cs.po | 
+ | [da](/f33/language/da) | 87 | 87 | 100.0 | /mnt/stockage/packages/f33/lightdm-gtk/po/da.po | 
+ | [en_GB](/f33/language/en_GB) | 87 | 87 | 100.0 | /mnt/stockage/packages/f33/lightdm-gtk/po/en_GB.po | 
+ | [lt](/f33/language/lt) | 87 | 87 | 100.0 | /mnt/stockage/packages/f33/lightdm-gtk/po/lt.po | 
+ | [nl](/f33/language/nl) | 87 | 87 | 100.0 | /mnt/stockage/packages/f33/lightdm-gtk/po/nl.po | 
+ | [tr](/f33/language/tr) | 87 | 87 | 100.0 | /mnt/stockage/packages/f33/lightdm-gtk/po/tr.po | 
+ | [zh_Hans](/f33/language/zh_Hans) | 87 | 87 | 100.0 | /mnt/stockage/packages/f33/lightdm-gtk/po/zh_CN.po | 
+ | [zh_Hant](/f33/language/zh_Hant) | 87 | 87 | 100.0 | /mnt/stockage/packages/f33/lightdm-gtk/po/zh_TW.po | 
+ | [be](/f33/language/be) | 68 | 87 | 78.2 | /mnt/stockage/packages/f33/lightdm-gtk/po/be.po | 
+ | [br](/f33/language/br) | 68 | 87 | 78.2 | /mnt/stockage/packages/f33/lightdm-gtk/po/br.po | 
+ | [bs](/f33/language/bs) | 68 | 87 | 78.2 | /mnt/stockage/packages/f33/lightdm-gtk/po/bs.po | 
+ | [de](/f33/language/de) | 68 | 87 | 78.2 | /mnt/stockage/packages/f33/lightdm-gtk/po/de.po | 
+ | [en_AU](/f33/language/en_AU) | 68 | 87 | 78.2 | /mnt/stockage/packages/f33/lightdm-gtk/po/en_AU.po | 
+ | [es](/f33/language/es) | 68 | 87 | 78.2 | /mnt/stockage/packages/f33/lightdm-gtk/po/es.po | 
+ | [et](/f33/language/et) | 68 | 87 | 78.2 | /mnt/stockage/packages/f33/lightdm-gtk/po/et.po | 
+ | [fi](/f33/language/fi) | 68 | 87 | 78.2 | /mnt/stockage/packages/f33/lightdm-gtk/po/fi.po | 
+ | [fr](/f33/language/fr) | 68 | 87 | 78.2 | /mnt/stockage/packages/f33/lightdm-gtk/po/fr.po | 
+ | [gl](/f33/language/gl) | 68 | 87 | 78.2 | /mnt/stockage/packages/f33/lightdm-gtk/po/gl.po | 
+ | [hu](/f33/language/hu) | 68 | 87 | 78.2 | /mnt/stockage/packages/f33/lightdm-gtk/po/hu.po | 
+ | [is](/f33/language/is) | 68 | 87 | 78.2 | /mnt/stockage/packages/f33/lightdm-gtk/po/is.po | 
+ | [it](/f33/language/it) | 68 | 87 | 78.2 | /mnt/stockage/packages/f33/lightdm-gtk/po/it.po | 
+ | [kk](/f33/language/kk) | 68 | 87 | 78.2 | /mnt/stockage/packages/f33/lightdm-gtk/po/kk.po | 
+ | [pl](/f33/language/pl) | 68 | 87 | 78.2 | /mnt/stockage/packages/f33/lightdm-gtk/po/pl.po | 
+ | [pt](/f33/language/pt) | 68 | 87 | 78.2 | /mnt/stockage/packages/f33/lightdm-gtk/po/pt.po | 
+ | [ru](/f33/language/ru) | 68 | 87 | 78.2 | /mnt/stockage/packages/f33/lightdm-gtk/po/ru.po | 
+ | [sk](/f33/language/sk) | 68 | 87 | 78.2 | /mnt/stockage/packages/f33/lightdm-gtk/po/sk.po | 
+ | [sl](/f33/language/sl) | 68 | 87 | 78.2 | /mnt/stockage/packages/f33/lightdm-gtk/po/sl.po | 
+ | [sv](/f33/language/sv) | 68 | 87 | 78.2 | /mnt/stockage/packages/f33/lightdm-gtk/po/sv.po | 
+ | [gd](/f33/language/gd) | 36 | 87 | 41.4 | /mnt/stockage/packages/f33/lightdm-gtk/po/gd.po | 
+ | [ko](/f33/language/ko) | 36 | 87 | 41.4 | /mnt/stockage/packages/f33/lightdm-gtk/po/ko.po | 
+ | [ms](/f33/language/ms) | 36 | 87 | 41.4 | /mnt/stockage/packages/f33/lightdm-gtk/po/ms.po | 
+ | [th](/f33/language/th) | 36 | 87 | 41.4 | /mnt/stockage/packages/f33/lightdm-gtk/po/th.po | 
+ | [ar](/f33/language/ar) | 35 | 87 | 40.2 | /mnt/stockage/packages/f33/lightdm-gtk/po/ar.po | 
+ | [ast](/f33/language/ast) | 35 | 87 | 40.2 | /mnt/stockage/packages/f33/lightdm-gtk/po/ast.po | 
+ | [bn](/f33/language/bn) | 35 | 87 | 40.2 | /mnt/stockage/packages/f33/lightdm-gtk/po/bn.po | 
+ | [ca@valencia](/f33/language/ca@valencia) | 35 | 87 | 40.2 | /mnt/stockage/packages/f33/lightdm-gtk/po/ca@valencia.po | 
+ | [en_CA](/f33/language/en_CA) | 35 | 87 | 40.2 | /mnt/stockage/packages/f33/lightdm-gtk/po/en_CA.po | 
+ | [eo](/f33/language/eo) | 35 | 87 | 40.2 | /mnt/stockage/packages/f33/lightdm-gtk/po/eo.po | 
+ | [eu](/f33/language/eu) | 35 | 87 | 40.2 | /mnt/stockage/packages/f33/lightdm-gtk/po/eu.po | 
+ | [he](/f33/language/he) | 35 | 87 | 40.2 | /mnt/stockage/packages/f33/lightdm-gtk/po/he.po | 
+ | [hi](/f33/language/hi) | 35 | 87 | 40.2 | /mnt/stockage/packages/f33/lightdm-gtk/po/hi.po | 
+ | [ja](/f33/language/ja) | 35 | 87 | 40.2 | /mnt/stockage/packages/f33/lightdm-gtk/po/ja.po | 
+ | [km](/f33/language/km) | 35 | 87 | 40.2 | /mnt/stockage/packages/f33/lightdm-gtk/po/km.po | 
+ | [lb](/f33/language/lb) | 35 | 87 | 40.2 | /mnt/stockage/packages/f33/lightdm-gtk/po/lb.po | 
+ | [lv](/f33/language/lv) | 35 | 87 | 40.2 | /mnt/stockage/packages/f33/lightdm-gtk/po/lv.po | 
+ | [oc](/f33/language/oc) | 35 | 87 | 40.2 | /mnt/stockage/packages/f33/lightdm-gtk/po/oc.po | 
+ | [pt_BR](/f33/language/pt_BR) | 35 | 87 | 40.2 | /mnt/stockage/packages/f33/lightdm-gtk/po/pt_BR.po | 
+ | [sq](/f33/language/sq) | 35 | 87 | 40.2 | /mnt/stockage/packages/f33/lightdm-gtk/po/sq.po | 
+ | [sr](/f33/language/sr) | 35 | 87 | 40.2 | /mnt/stockage/packages/f33/lightdm-gtk/po/sr.po | 
+ | [ta](/f33/language/ta) | 35 | 87 | 40.2 | /mnt/stockage/packages/f33/lightdm-gtk/po/ta.po | 
+ | [ug](/f33/language/ug) | 35 | 87 | 40.2 | /mnt/stockage/packages/f33/lightdm-gtk/po/ug.po | 
+ | [uz](/f33/language/uz) | 35 | 87 | 40.2 | /mnt/stockage/packages/f33/lightdm-gtk/po/uz.po | 
+ | [zh_Hant_HK](/f33/language/zh_Hant_HK) | 35 | 87 | 40.2 | /mnt/stockage/packages/f33/lightdm-gtk/po/zh_HK.po | 
+ | [el](/f33/language/el) | 34 | 87 | 39.1 | /mnt/stockage/packages/f33/lightdm-gtk/po/el.po | 
+ | [fy](/f33/language/fy) | 34 | 87 | 39.1 | /mnt/stockage/packages/f33/lightdm-gtk/po/fy.po | 
+ | [id](/f33/language/id) | 34 | 87 | 39.1 | /mnt/stockage/packages/f33/lightdm-gtk/po/id.po | 
+ | [ku](/f33/language/ku) | 34 | 87 | 39.1 | /mnt/stockage/packages/f33/lightdm-gtk/po/ku.po | 
+ | [nb_NO](/f33/language/nb_NO) | 34 | 87 | 39.1 | /mnt/stockage/packages/f33/lightdm-gtk/po/nb.po | 
+ | [uk](/f33/language/uk) | 34 | 87 | 39.1 | /mnt/stockage/packages/f33/lightdm-gtk/po/uk.po | 
+ | [vi](/f33/language/vi) | 34 | 87 | 39.1 | /mnt/stockage/packages/f33/lightdm-gtk/po/vi.po | 
+ | [sd](/f33/language/sd) | 30 | 87 | 34.5 | /mnt/stockage/packages/f33/lightdm-gtk/po/sd.po | 
+ | [te](/f33/language/te) | 30 | 87 | 34.5 | /mnt/stockage/packages/f33/lightdm-gtk/po/te.po | 
+ | [wae](/f33/language/wae) | 28 | 87 | 32.2 | /mnt/stockage/packages/f33/lightdm-gtk/po/wae.po | 
+ | [hr](/f33/language/hr) | 20 | 87 | 23.0 | /mnt/stockage/packages/f33/lightdm-gtk/po/hr.po | 
+ | [ro](/f33/language/ro) | 20 | 87 | 23.0 | /mnt/stockage/packages/f33/lightdm-gtk/po/ro.po | 
+ | [ia](/f33/language/ia) | 18 | 87 | 20.7 | /mnt/stockage/packages/f33/lightdm-gtk/po/ia.po | 
+ | [mhr](/f33/language/mhr) | 17 | 87 | 19.5 | /mnt/stockage/packages/f33/lightdm-gtk/po/mhr.po | 
+ | [ml](/f33/language/ml) | 9 | 87 | 10.3 | /mnt/stockage/packages/f33/lightdm-gtk/po/ml.po | 
+ | [bo](/f33/language/bo) | 0 | 87 | 0.0 | /mnt/stockage/packages/f33/lightdm-gtk/po/bo.po | 
+ | [nn](/f33/language/nn) | 0 | 87 | 0.0 | /mnt/stockage/packages/f33/lightdm-gtk/po/nn.po | 
+ | [si](/f33/language/si) | 0 | 87 | 0.0 | /mnt/stockage/packages/f33/lightdm-gtk/po/si.po | 
 {.sortable}
 
 

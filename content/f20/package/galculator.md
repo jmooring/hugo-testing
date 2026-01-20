@@ -18,23 +18,23 @@ The package galculator (version 2.1.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [lt]({{< ref "/f20/language/lt.md" >}}) | 935 | 935 | 100.0 | /mnt/stockage/packages/f20/galculator/po/lt.po | 
- | [de]({{< ref "/f20/language/de.md" >}}) | 735 | 935 | 78.6 | /mnt/stockage/packages/f20/galculator/po/de.po | 
- | [sv]({{< ref "/f20/language/sv.md" >}}) | 701 | 935 | 75.0 | /mnt/stockage/packages/f20/galculator/po/sv.po | 
- | [tr]({{< ref "/f20/language/tr.md" >}}) | 693 | 935 | 74.1 | /mnt/stockage/packages/f20/galculator/po/tr.po | 
- | [ja]({{< ref "/f20/language/ja.md" >}}) | 597 | 935 | 63.9 | /mnt/stockage/packages/f20/galculator/po/ja.po | 
- | [pt]({{< ref "/f20/language/pt.md" >}}) | 557 | 935 | 59.6 | /mnt/stockage/packages/f20/galculator/po/pt.po | 
- | [pt_BR]({{< ref "/f20/language/pt_BR.md" >}}) | 557 | 935 | 59.6 | /mnt/stockage/packages/f20/galculator/po/pt_BR.po | 
- | [pl]({{< ref "/f20/language/pl.md" >}}) | 554 | 935 | 59.3 | /mnt/stockage/packages/f20/galculator/po/pl.po | 
- | [fr]({{< ref "/f20/language/fr.md" >}}) | 443 | 935 | 47.4 | /mnt/stockage/packages/f20/galculator/po/fr.po | 
- | [ro]({{< ref "/f20/language/ro.md" >}}) | 443 | 935 | 47.4 | /mnt/stockage/packages/f20/galculator/po/ro.po | 
- | [kk]({{< ref "/f20/language/kk.md" >}}) | 408 | 935 | 43.6 | /mnt/stockage/packages/f20/galculator/po/kk_KZ.po | 
- | [sk]({{< ref "/f20/language/sk.md" >}}) | 355 | 935 | 38.0 | /mnt/stockage/packages/f20/galculator/po/sk.po | 
- | [ru]({{< ref "/f20/language/ru.md" >}}) | 337 | 935 | 36.0 | /mnt/stockage/packages/f20/galculator/po/ru.po | 
- | [zh_Hans]({{< ref "/f20/language/zh_Hans.md" >}}) | 321 | 935 | 34.3 | /mnt/stockage/packages/f20/galculator/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f20/language/zh_Hant.md" >}}) | 260 | 935 | 27.8 | /mnt/stockage/packages/f20/galculator/po/zh_TW.po | 
- | [es]({{< ref "/f20/language/es.md" >}}) | 101 | 935 | 10.8 | /mnt/stockage/packages/f20/galculator/po/es_MX.po | 
- | [da]({{< ref "/f20/language/da.md" >}}) | 79 | 935 | 8.4 | /mnt/stockage/packages/f20/galculator/po/da_DK.po | 
+ | [lt](/f20/language/lt) | 935 | 935 | 100.0 | /mnt/stockage/packages/f20/galculator/po/lt.po | 
+ | [de](/f20/language/de) | 735 | 935 | 78.6 | /mnt/stockage/packages/f20/galculator/po/de.po | 
+ | [sv](/f20/language/sv) | 701 | 935 | 75.0 | /mnt/stockage/packages/f20/galculator/po/sv.po | 
+ | [tr](/f20/language/tr) | 693 | 935 | 74.1 | /mnt/stockage/packages/f20/galculator/po/tr.po | 
+ | [ja](/f20/language/ja) | 597 | 935 | 63.9 | /mnt/stockage/packages/f20/galculator/po/ja.po | 
+ | [pt](/f20/language/pt) | 557 | 935 | 59.6 | /mnt/stockage/packages/f20/galculator/po/pt.po | 
+ | [pt_BR](/f20/language/pt_BR) | 557 | 935 | 59.6 | /mnt/stockage/packages/f20/galculator/po/pt_BR.po | 
+ | [pl](/f20/language/pl) | 554 | 935 | 59.3 | /mnt/stockage/packages/f20/galculator/po/pl.po | 
+ | [fr](/f20/language/fr) | 443 | 935 | 47.4 | /mnt/stockage/packages/f20/galculator/po/fr.po | 
+ | [ro](/f20/language/ro) | 443 | 935 | 47.4 | /mnt/stockage/packages/f20/galculator/po/ro.po | 
+ | [kk](/f20/language/kk) | 408 | 935 | 43.6 | /mnt/stockage/packages/f20/galculator/po/kk_KZ.po | 
+ | [sk](/f20/language/sk) | 355 | 935 | 38.0 | /mnt/stockage/packages/f20/galculator/po/sk.po | 
+ | [ru](/f20/language/ru) | 337 | 935 | 36.0 | /mnt/stockage/packages/f20/galculator/po/ru.po | 
+ | [zh_Hans](/f20/language/zh_Hans) | 321 | 935 | 34.3 | /mnt/stockage/packages/f20/galculator/po/zh_CN.po | 
+ | [zh_Hant](/f20/language/zh_Hant) | 260 | 935 | 27.8 | /mnt/stockage/packages/f20/galculator/po/zh_TW.po | 
+ | [es](/f20/language/es) | 101 | 935 | 10.8 | /mnt/stockage/packages/f20/galculator/po/es_MX.po | 
+ | [da](/f20/language/da) | 79 | 935 | 8.4 | /mnt/stockage/packages/f20/galculator/po/da_DK.po | 
 {.sortable}
 
 

@@ -39,7 +39,7 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [iso-codes]({{< ref "/f7/package/iso-codes.md" >}}) | 2 | 11068 | 0.0 | Syriac | 
+ | [iso-codes](/f7/package/iso-codes) | 2 | 11068 | 0.0 | Syriac | 
 {.sortable}
 
 

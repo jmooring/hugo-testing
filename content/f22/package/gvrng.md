@@ -18,15 +18,15 @@ The package gvrng (version 4.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f22/language/de.md" >}}) | 373 | 373 | 100.0 | /mnt/stockage/packages/f22/gvrng/po/de/gvrng.po | 
- | [nl]({{< ref "/f22/language/nl.md" >}}) | 373 | 373 | 100.0 | /mnt/stockage/packages/f22/gvrng/po/nl/gvrng.po | 
- | [cs]({{< ref "/f22/language/cs.md" >}}) | 366 | 373 | 98.1 | /mnt/stockage/packages/f22/gvrng/po/cs/gvrng.po | 
- | [nb_NO]({{< ref "/f22/language/nb_NO.md" >}}) | 94 | 373 | 25.2 | /mnt/stockage/packages/f22/gvrng/po/no/gvrng.po | 
- | [ca]({{< ref "/f22/language/ca.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f22/gvrng/po/ca/gvrng.po | 
- | [es]({{< ref "/f22/language/es.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f22/gvrng/po/es/gvrng.po | 
- | [fr]({{< ref "/f22/language/fr.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f22/gvrng/po/fr/gvrng.po | 
- | [it]({{< ref "/f22/language/it.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f22/gvrng/po/it/gvrng.po | 
- | [ro]({{< ref "/f22/language/ro.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f22/gvrng/po/ro/gvrng.po | 
+ | [de](/f22/language/de) | 373 | 373 | 100.0 | /mnt/stockage/packages/f22/gvrng/po/de/gvrng.po | 
+ | [nl](/f22/language/nl) | 373 | 373 | 100.0 | /mnt/stockage/packages/f22/gvrng/po/nl/gvrng.po | 
+ | [cs](/f22/language/cs) | 366 | 373 | 98.1 | /mnt/stockage/packages/f22/gvrng/po/cs/gvrng.po | 
+ | [nb_NO](/f22/language/nb_NO) | 94 | 373 | 25.2 | /mnt/stockage/packages/f22/gvrng/po/no/gvrng.po | 
+ | [ca](/f22/language/ca) | 0 | 0 | 0.0 | /mnt/stockage/packages/f22/gvrng/po/ca/gvrng.po | 
+ | [es](/f22/language/es) | 0 | 0 | 0.0 | /mnt/stockage/packages/f22/gvrng/po/es/gvrng.po | 
+ | [fr](/f22/language/fr) | 0 | 0 | 0.0 | /mnt/stockage/packages/f22/gvrng/po/fr/gvrng.po | 
+ | [it](/f22/language/it) | 0 | 0 | 0.0 | /mnt/stockage/packages/f22/gvrng/po/it/gvrng.po | 
+ | [ro](/f22/language/ro) | 0 | 0 | 0.0 | /mnt/stockage/packages/f22/gvrng/po/ro/gvrng.po | 
 {.sortable}
 
 

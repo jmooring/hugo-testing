@@ -18,60 +18,60 @@ The package sawfish (version 1.11):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f23/language/cs.md" >}}) | 6543 | 6543 | 100.0 | /mnt/stockage/packages/f23/sawfish/po/cs.po | 
- | [es]({{< ref "/f23/language/es.md" >}}) | 6543 | 6543 | 100.0 | /mnt/stockage/packages/f23/sawfish/po/es.po | 
- | [fr]({{< ref "/f23/language/fr.md" >}}) | 6452 | 6452 | 100.0 | /mnt/stockage/packages/f23/sawfish/po/fr.po | 
- | [de]({{< ref "/f23/language/de.md" >}}) | 9132 | 9136 | 100.0 | /mnt/stockage/packages/f23/sawfish/po/de.po | 
- | [sl]({{< ref "/f23/language/sl.md" >}}) | 6419 | 6543 | 98.1 | /mnt/stockage/packages/f23/sawfish/po/sl.po | 
- | [en_GB]({{< ref "/f23/language/en_GB.md" >}}) | 6281 | 6443 | 97.5 | /mnt/stockage/packages/f23/sawfish/po/en_GB.po | 
- | [zh_Hans]({{< ref "/f23/language/zh_Hans.md" >}}) | 6274 | 6452 | 97.2 | /mnt/stockage/packages/f23/sawfish/po/zh_CN.po | 
- | [nb_NO]({{< ref "/f23/language/nb_NO.md" >}}) | 2607 | 6705 | 38.9 | /mnt/stockage/packages/f23/sawfish/po/no.po/mnt/stockage/packages/f23/sawfish/po/nb.po | 
- | [sv]({{< ref "/f23/language/sv.md" >}}) | 2454 | 6443 | 38.1 | /mnt/stockage/packages/f23/sawfish/po/sv.po | 
- | [da]({{< ref "/f23/language/da.md" >}}) | 2441 | 6443 | 37.9 | /mnt/stockage/packages/f23/sawfish/po/da.po | 
- | [ja]({{< ref "/f23/language/ja.md" >}}) | 2381 | 6443 | 37.0 | /mnt/stockage/packages/f23/sawfish/po/ja.po | 
- | [dz]({{< ref "/f23/language/dz.md" >}}) | 2370 | 6443 | 36.8 | /mnt/stockage/packages/f23/sawfish/po/dz.po | 
- | [en_CA]({{< ref "/f23/language/en_CA.md" >}}) | 2370 | 6443 | 36.8 | /mnt/stockage/packages/f23/sawfish/po/en_CA.po | 
- | [error]({{< ref "/f23/language/error.md" >}}) | 2370 | 6443 | 36.8 | /mnt/stockage/packages/f23/sawfish/po/sr@Latn.po | 
- | [fi]({{< ref "/f23/language/fi.md" >}}) | 2370 | 6443 | 36.8 | /mnt/stockage/packages/f23/sawfish/po/fi.po | 
- | [ne]({{< ref "/f23/language/ne.md" >}}) | 2370 | 6443 | 36.8 | /mnt/stockage/packages/f23/sawfish/po/ne.po | 
- | [nl]({{< ref "/f23/language/nl.md" >}}) | 2370 | 6443 | 36.8 | /mnt/stockage/packages/f23/sawfish/po/nl.po | 
- | [pt]({{< ref "/f23/language/pt.md" >}}) | 2370 | 6443 | 36.8 | /mnt/stockage/packages/f23/sawfish/po/pt.po | 
- | [sk]({{< ref "/f23/language/sk.md" >}}) | 2370 | 6443 | 36.8 | /mnt/stockage/packages/f23/sawfish/po/sk.po | 
- | [sr]({{< ref "/f23/language/sr.md" >}}) | 2370 | 6443 | 36.8 | /mnt/stockage/packages/f23/sawfish/po/sr.po | 
- | [uk]({{< ref "/f23/language/uk.md" >}}) | 2370 | 6443 | 36.8 | /mnt/stockage/packages/f23/sawfish/po/uk.po | 
- | [vi]({{< ref "/f23/language/vi.md" >}}) | 2370 | 6443 | 36.8 | /mnt/stockage/packages/f23/sawfish/po/vi.po | 
- | [az]({{< ref "/f23/language/az.md" >}}) | 2349 | 6443 | 36.5 | /mnt/stockage/packages/f23/sawfish/po/az.po | 
- | [be]({{< ref "/f23/language/be.md" >}}) | 2349 | 6443 | 36.5 | /mnt/stockage/packages/f23/sawfish/po/be.po | 
- | [ca]({{< ref "/f23/language/ca.md" >}}) | 2349 | 6443 | 36.5 | /mnt/stockage/packages/f23/sawfish/po/ca.po | 
- | [el]({{< ref "/f23/language/el.md" >}}) | 2349 | 6443 | 36.5 | /mnt/stockage/packages/f23/sawfish/po/el.po | 
- | [lv]({{< ref "/f23/language/lv.md" >}}) | 2349 | 6443 | 36.5 | /mnt/stockage/packages/f23/sawfish/po/lv.po | 
- | [pt_BR]({{< ref "/f23/language/pt_BR.md" >}}) | 2327 | 6617 | 35.2 | /mnt/stockage/packages/f23/sawfish/po/pt_BR.po | 
- | [bg]({{< ref "/f23/language/bg.md" >}}) | 2247 | 6443 | 34.9 | /mnt/stockage/packages/f23/sawfish/po/bg.po | 
- | [hu]({{< ref "/f23/language/hu.md" >}}) | 2247 | 6443 | 34.9 | /mnt/stockage/packages/f23/sawfish/po/hu.po | 
- | [ko]({{< ref "/f23/language/ko.md" >}}) | 2247 | 6443 | 34.9 | /mnt/stockage/packages/f23/sawfish/po/ko.po | 
- | [gl]({{< ref "/f23/language/gl.md" >}}) | 2183 | 6443 | 33.9 | /mnt/stockage/packages/f23/sawfish/po/gl.po | 
- | [bs]({{< ref "/f23/language/bs.md" >}}) | 2118 | 6443 | 32.9 | /mnt/stockage/packages/f23/sawfish/po/bs.po | 
- | [it]({{< ref "/f23/language/it.md" >}}) | 2118 | 6443 | 32.9 | /mnt/stockage/packages/f23/sawfish/po/it.po | 
- | [pl]({{< ref "/f23/language/pl.md" >}}) | 1974 | 6443 | 30.6 | /mnt/stockage/packages/f23/sawfish/po/pl.po | 
- | [ro]({{< ref "/f23/language/ro.md" >}}) | 1901 | 6443 | 29.5 | /mnt/stockage/packages/f23/sawfish/po/ro.po | 
- | [zh_Hant]({{< ref "/f23/language/zh_Hant.md" >}}) | 1872 | 6443 | 29.1 | /mnt/stockage/packages/f23/sawfish/po/zh_TW.po | 
- | [tr]({{< ref "/f23/language/tr.md" >}}) | 1154 | 6443 | 17.9 | /mnt/stockage/packages/f23/sawfish/po/tr.po | 
- | [wa]({{< ref "/f23/language/wa.md" >}}) | 1111 | 6443 | 17.2 | /mnt/stockage/packages/f23/sawfish/po/wa.po | 
- | [et]({{< ref "/f23/language/et.md" >}}) | 939 | 6443 | 14.6 | /mnt/stockage/packages/f23/sawfish/po/et.po | 
- | [ms]({{< ref "/f23/language/ms.md" >}}) | 740 | 6443 | 11.5 | /mnt/stockage/packages/f23/sawfish/po/ms.po | 
- | [mk]({{< ref "/f23/language/mk.md" >}}) | 316 | 6443 | 4.9 | /mnt/stockage/packages/f23/sawfish/po/mk.po | 
- | [eu]({{< ref "/f23/language/eu.md" >}}) | 211 | 6443 | 3.3 | /mnt/stockage/packages/f23/sawfish/po/eu.po | 
- | [nn]({{< ref "/f23/language/nn.md" >}}) | 210 | 6443 | 3.3 | /mnt/stockage/packages/f23/sawfish/po/nn.po | 
- | [id]({{< ref "/f23/language/id.md" >}}) | 160 | 6443 | 2.5 | /mnt/stockage/packages/f23/sawfish/po/id.po | 
- | [am]({{< ref "/f23/language/am.md" >}}) | 132 | 6443 | 2.0 | /mnt/stockage/packages/f23/sawfish/po/am.po | 
- | [pa]({{< ref "/f23/language/pa.md" >}}) | 96 | 6443 | 1.5 | /mnt/stockage/packages/f23/sawfish/po/pa.po | 
- | [ru]({{< ref "/f23/language/ru.md" >}}) | 58 | 6617 | 0.9 | /mnt/stockage/packages/f23/sawfish/po/ru.po | 
- | [oc]({{< ref "/f23/language/oc.md" >}}) | 46 | 6443 | 0.7 | /mnt/stockage/packages/f23/sawfish/po/oc.po | 
- | [rw]({{< ref "/f23/language/rw.md" >}}) | 45 | 6443 | 0.7 | /mnt/stockage/packages/f23/sawfish/po/rw.po | 
- | [ar]({{< ref "/f23/language/ar.md" >}}) | 46 | 6617 | 0.7 | /mnt/stockage/packages/f23/sawfish/po/ar.po | 
- | [ga]({{< ref "/f23/language/ga.md" >}}) | 29 | 6443 | 0.5 | /mnt/stockage/packages/f23/sawfish/po/ga.po | 
- | [ak]({{< ref "/f23/language/ak.md" >}}) | 0 | 6617 | 0.0 | /mnt/stockage/packages/f23/sawfish/po/ak.po | 
- | [hi]({{< ref "/f23/language/hi.md" >}}) | 0 | 6617 | 0.0 | /mnt/stockage/packages/f23/sawfish/po/hi_IN.po | 
+ | [cs](/f23/language/cs) | 6543 | 6543 | 100.0 | /mnt/stockage/packages/f23/sawfish/po/cs.po | 
+ | [es](/f23/language/es) | 6543 | 6543 | 100.0 | /mnt/stockage/packages/f23/sawfish/po/es.po | 
+ | [fr](/f23/language/fr) | 6452 | 6452 | 100.0 | /mnt/stockage/packages/f23/sawfish/po/fr.po | 
+ | [de](/f23/language/de) | 9132 | 9136 | 100.0 | /mnt/stockage/packages/f23/sawfish/po/de.po | 
+ | [sl](/f23/language/sl) | 6419 | 6543 | 98.1 | /mnt/stockage/packages/f23/sawfish/po/sl.po | 
+ | [en_GB](/f23/language/en_GB) | 6281 | 6443 | 97.5 | /mnt/stockage/packages/f23/sawfish/po/en_GB.po | 
+ | [zh_Hans](/f23/language/zh_Hans) | 6274 | 6452 | 97.2 | /mnt/stockage/packages/f23/sawfish/po/zh_CN.po | 
+ | [nb_NO](/f23/language/nb_NO) | 2607 | 6705 | 38.9 | /mnt/stockage/packages/f23/sawfish/po/no.po/mnt/stockage/packages/f23/sawfish/po/nb.po | 
+ | [sv](/f23/language/sv) | 2454 | 6443 | 38.1 | /mnt/stockage/packages/f23/sawfish/po/sv.po | 
+ | [da](/f23/language/da) | 2441 | 6443 | 37.9 | /mnt/stockage/packages/f23/sawfish/po/da.po | 
+ | [ja](/f23/language/ja) | 2381 | 6443 | 37.0 | /mnt/stockage/packages/f23/sawfish/po/ja.po | 
+ | [dz](/f23/language/dz) | 2370 | 6443 | 36.8 | /mnt/stockage/packages/f23/sawfish/po/dz.po | 
+ | [en_CA](/f23/language/en_CA) | 2370 | 6443 | 36.8 | /mnt/stockage/packages/f23/sawfish/po/en_CA.po | 
+ | [error](/f23/language/error) | 2370 | 6443 | 36.8 | /mnt/stockage/packages/f23/sawfish/po/sr@Latn.po | 
+ | [fi](/f23/language/fi) | 2370 | 6443 | 36.8 | /mnt/stockage/packages/f23/sawfish/po/fi.po | 
+ | [ne](/f23/language/ne) | 2370 | 6443 | 36.8 | /mnt/stockage/packages/f23/sawfish/po/ne.po | 
+ | [nl](/f23/language/nl) | 2370 | 6443 | 36.8 | /mnt/stockage/packages/f23/sawfish/po/nl.po | 
+ | [pt](/f23/language/pt) | 2370 | 6443 | 36.8 | /mnt/stockage/packages/f23/sawfish/po/pt.po | 
+ | [sk](/f23/language/sk) | 2370 | 6443 | 36.8 | /mnt/stockage/packages/f23/sawfish/po/sk.po | 
+ | [sr](/f23/language/sr) | 2370 | 6443 | 36.8 | /mnt/stockage/packages/f23/sawfish/po/sr.po | 
+ | [uk](/f23/language/uk) | 2370 | 6443 | 36.8 | /mnt/stockage/packages/f23/sawfish/po/uk.po | 
+ | [vi](/f23/language/vi) | 2370 | 6443 | 36.8 | /mnt/stockage/packages/f23/sawfish/po/vi.po | 
+ | [az](/f23/language/az) | 2349 | 6443 | 36.5 | /mnt/stockage/packages/f23/sawfish/po/az.po | 
+ | [be](/f23/language/be) | 2349 | 6443 | 36.5 | /mnt/stockage/packages/f23/sawfish/po/be.po | 
+ | [ca](/f23/language/ca) | 2349 | 6443 | 36.5 | /mnt/stockage/packages/f23/sawfish/po/ca.po | 
+ | [el](/f23/language/el) | 2349 | 6443 | 36.5 | /mnt/stockage/packages/f23/sawfish/po/el.po | 
+ | [lv](/f23/language/lv) | 2349 | 6443 | 36.5 | /mnt/stockage/packages/f23/sawfish/po/lv.po | 
+ | [pt_BR](/f23/language/pt_BR) | 2327 | 6617 | 35.2 | /mnt/stockage/packages/f23/sawfish/po/pt_BR.po | 
+ | [bg](/f23/language/bg) | 2247 | 6443 | 34.9 | /mnt/stockage/packages/f23/sawfish/po/bg.po | 
+ | [hu](/f23/language/hu) | 2247 | 6443 | 34.9 | /mnt/stockage/packages/f23/sawfish/po/hu.po | 
+ | [ko](/f23/language/ko) | 2247 | 6443 | 34.9 | /mnt/stockage/packages/f23/sawfish/po/ko.po | 
+ | [gl](/f23/language/gl) | 2183 | 6443 | 33.9 | /mnt/stockage/packages/f23/sawfish/po/gl.po | 
+ | [bs](/f23/language/bs) | 2118 | 6443 | 32.9 | /mnt/stockage/packages/f23/sawfish/po/bs.po | 
+ | [it](/f23/language/it) | 2118 | 6443 | 32.9 | /mnt/stockage/packages/f23/sawfish/po/it.po | 
+ | [pl](/f23/language/pl) | 1974 | 6443 | 30.6 | /mnt/stockage/packages/f23/sawfish/po/pl.po | 
+ | [ro](/f23/language/ro) | 1901 | 6443 | 29.5 | /mnt/stockage/packages/f23/sawfish/po/ro.po | 
+ | [zh_Hant](/f23/language/zh_Hant) | 1872 | 6443 | 29.1 | /mnt/stockage/packages/f23/sawfish/po/zh_TW.po | 
+ | [tr](/f23/language/tr) | 1154 | 6443 | 17.9 | /mnt/stockage/packages/f23/sawfish/po/tr.po | 
+ | [wa](/f23/language/wa) | 1111 | 6443 | 17.2 | /mnt/stockage/packages/f23/sawfish/po/wa.po | 
+ | [et](/f23/language/et) | 939 | 6443 | 14.6 | /mnt/stockage/packages/f23/sawfish/po/et.po | 
+ | [ms](/f23/language/ms) | 740 | 6443 | 11.5 | /mnt/stockage/packages/f23/sawfish/po/ms.po | 
+ | [mk](/f23/language/mk) | 316 | 6443 | 4.9 | /mnt/stockage/packages/f23/sawfish/po/mk.po | 
+ | [eu](/f23/language/eu) | 211 | 6443 | 3.3 | /mnt/stockage/packages/f23/sawfish/po/eu.po | 
+ | [nn](/f23/language/nn) | 210 | 6443 | 3.3 | /mnt/stockage/packages/f23/sawfish/po/nn.po | 
+ | [id](/f23/language/id) | 160 | 6443 | 2.5 | /mnt/stockage/packages/f23/sawfish/po/id.po | 
+ | [am](/f23/language/am) | 132 | 6443 | 2.0 | /mnt/stockage/packages/f23/sawfish/po/am.po | 
+ | [pa](/f23/language/pa) | 96 | 6443 | 1.5 | /mnt/stockage/packages/f23/sawfish/po/pa.po | 
+ | [ru](/f23/language/ru) | 58 | 6617 | 0.9 | /mnt/stockage/packages/f23/sawfish/po/ru.po | 
+ | [oc](/f23/language/oc) | 46 | 6443 | 0.7 | /mnt/stockage/packages/f23/sawfish/po/oc.po | 
+ | [rw](/f23/language/rw) | 45 | 6443 | 0.7 | /mnt/stockage/packages/f23/sawfish/po/rw.po | 
+ | [ar](/f23/language/ar) | 46 | 6617 | 0.7 | /mnt/stockage/packages/f23/sawfish/po/ar.po | 
+ | [ga](/f23/language/ga) | 29 | 6443 | 0.5 | /mnt/stockage/packages/f23/sawfish/po/ga.po | 
+ | [ak](/f23/language/ak) | 0 | 6617 | 0.0 | /mnt/stockage/packages/f23/sawfish/po/ak.po | 
+ | [hi](/f23/language/hi) | 0 | 6617 | 0.0 | /mnt/stockage/packages/f23/sawfish/po/hi_IN.po | 
 {.sortable}
 
 

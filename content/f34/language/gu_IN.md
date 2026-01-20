@@ -38,7 +38,7 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [pgadmin3]({{< ref "/f34/package/pgadmin3.md" >}}) | 2 | 23216 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [pgadmin3](/f34/package/pgadmin3) | 2 | 23216 | 0.0 | LANGUAGE <LL@li.org> | 
 {.sortable}
 
 

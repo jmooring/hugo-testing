@@ -18,42 +18,42 @@ The package xfbib (version 0.1.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f24/language/ar.md" >}}) | 342 | 342 | 100.0 | /mnt/stockage/packages/f24/xfbib/po/ar.po | 
- | [ast]({{< ref "/f24/language/ast.md" >}}) | 342 | 342 | 100.0 | /mnt/stockage/packages/f24/xfbib/po/ast.po | 
- | [bg]({{< ref "/f24/language/bg.md" >}}) | 342 | 342 | 100.0 | /mnt/stockage/packages/f24/xfbib/po/bg.po | 
- | [ca]({{< ref "/f24/language/ca.md" >}}) | 342 | 342 | 100.0 | /mnt/stockage/packages/f24/xfbib/po/ca.po | 
- | [cs]({{< ref "/f24/language/cs.md" >}}) | 342 | 342 | 100.0 | /mnt/stockage/packages/f24/xfbib/po/cs.po | 
- | [da]({{< ref "/f24/language/da.md" >}}) | 342 | 342 | 100.0 | /mnt/stockage/packages/f24/xfbib/po/da.po | 
- | [de]({{< ref "/f24/language/de.md" >}}) | 342 | 342 | 100.0 | /mnt/stockage/packages/f24/xfbib/po/de.po | 
- | [el]({{< ref "/f24/language/el.md" >}}) | 342 | 342 | 100.0 | /mnt/stockage/packages/f24/xfbib/po/el.po | 
- | [en_GB]({{< ref "/f24/language/en_GB.md" >}}) | 342 | 342 | 100.0 | /mnt/stockage/packages/f24/xfbib/po/en_GB.po | 
- | [es]({{< ref "/f24/language/es.md" >}}) | 342 | 342 | 100.0 | /mnt/stockage/packages/f24/xfbib/po/es.po | 
- | [eu]({{< ref "/f24/language/eu.md" >}}) | 342 | 342 | 100.0 | /mnt/stockage/packages/f24/xfbib/po/eu.po | 
- | [fr]({{< ref "/f24/language/fr.md" >}}) | 342 | 342 | 100.0 | /mnt/stockage/packages/f24/xfbib/po/fr.po | 
- | [hu]({{< ref "/f24/language/hu.md" >}}) | 342 | 342 | 100.0 | /mnt/stockage/packages/f24/xfbib/po/hu.po | 
- | [id]({{< ref "/f24/language/id.md" >}}) | 342 | 342 | 100.0 | /mnt/stockage/packages/f24/xfbib/po/id.po | 
- | [it]({{< ref "/f24/language/it.md" >}}) | 342 | 342 | 100.0 | /mnt/stockage/packages/f24/xfbib/po/it.po | 
- | [ko]({{< ref "/f24/language/ko.md" >}}) | 342 | 342 | 100.0 | /mnt/stockage/packages/f24/xfbib/po/ko.po | 
- | [lt]({{< ref "/f24/language/lt.md" >}}) | 342 | 342 | 100.0 | /mnt/stockage/packages/f24/xfbib/po/lt.po | 
- | [lv]({{< ref "/f24/language/lv.md" >}}) | 342 | 342 | 100.0 | /mnt/stockage/packages/f24/xfbib/po/lv.po | 
- | [nl]({{< ref "/f24/language/nl.md" >}}) | 342 | 342 | 100.0 | /mnt/stockage/packages/f24/xfbib/po/nl.po | 
- | [pt]({{< ref "/f24/language/pt.md" >}}) | 342 | 342 | 100.0 | /mnt/stockage/packages/f24/xfbib/po/pt.po | 
- | [pt_BR]({{< ref "/f24/language/pt_BR.md" >}}) | 342 | 342 | 100.0 | /mnt/stockage/packages/f24/xfbib/po/pt_BR.po | 
- | [ru]({{< ref "/f24/language/ru.md" >}}) | 342 | 342 | 100.0 | /mnt/stockage/packages/f24/xfbib/po/ru.po | 
- | [sk]({{< ref "/f24/language/sk.md" >}}) | 342 | 342 | 100.0 | /mnt/stockage/packages/f24/xfbib/po/sk.po | 
- | [sr]({{< ref "/f24/language/sr.md" >}}) | 342 | 342 | 100.0 | /mnt/stockage/packages/f24/xfbib/po/sr.po | 
- | [tr]({{< ref "/f24/language/tr.md" >}}) | 342 | 342 | 100.0 | /mnt/stockage/packages/f24/xfbib/po/tr.po | 
- | [uk]({{< ref "/f24/language/uk.md" >}}) | 342 | 342 | 100.0 | /mnt/stockage/packages/f24/xfbib/po/uk.po | 
- | [ur]({{< ref "/f24/language/ur.md" >}}) | 342 | 342 | 100.0 | /mnt/stockage/packages/f24/xfbib/po/ur.po | 
- | [ur_PK]({{< ref "/f24/language/ur_PK.md" >}}) | 342 | 342 | 100.0 | /mnt/stockage/packages/f24/xfbib/po/ur_PK.po | 
- | [zh_Hans]({{< ref "/f24/language/zh_Hans.md" >}}) | 342 | 342 | 100.0 | /mnt/stockage/packages/f24/xfbib/po/zh_CN.po | 
- | [gl]({{< ref "/f24/language/gl.md" >}}) | 312 | 342 | 91.2 | /mnt/stockage/packages/f24/xfbib/po/gl.po | 
- | [ug]({{< ref "/f24/language/ug.md" >}}) | 312 | 342 | 91.2 | /mnt/stockage/packages/f24/xfbib/po/ug.po | 
- | [hr]({{< ref "/f24/language/hr.md" >}}) | 220 | 342 | 64.3 | /mnt/stockage/packages/f24/xfbib/po/hr.po | 
- | [sv]({{< ref "/f24/language/sv.md" >}}) | 208 | 342 | 60.8 | /mnt/stockage/packages/f24/xfbib/po/sv.po | 
- | [pl]({{< ref "/f24/language/pl.md" >}}) | 187 | 342 | 54.7 | /mnt/stockage/packages/f24/xfbib/po/pl.po | 
- | [zh_Hant]({{< ref "/f24/language/zh_Hant.md" >}}) | 185 | 342 | 54.1 | /mnt/stockage/packages/f24/xfbib/po/zh_TW.po | 
- | [ja]({{< ref "/f24/language/ja.md" >}}) | 176 | 342 | 51.5 | /mnt/stockage/packages/f24/xfbib/po/ja.po | 
+ | [ar](/f24/language/ar) | 342 | 342 | 100.0 | /mnt/stockage/packages/f24/xfbib/po/ar.po | 
+ | [ast](/f24/language/ast) | 342 | 342 | 100.0 | /mnt/stockage/packages/f24/xfbib/po/ast.po | 
+ | [bg](/f24/language/bg) | 342 | 342 | 100.0 | /mnt/stockage/packages/f24/xfbib/po/bg.po | 
+ | [ca](/f24/language/ca) | 342 | 342 | 100.0 | /mnt/stockage/packages/f24/xfbib/po/ca.po | 
+ | [cs](/f24/language/cs) | 342 | 342 | 100.0 | /mnt/stockage/packages/f24/xfbib/po/cs.po | 
+ | [da](/f24/language/da) | 342 | 342 | 100.0 | /mnt/stockage/packages/f24/xfbib/po/da.po | 
+ | [de](/f24/language/de) | 342 | 342 | 100.0 | /mnt/stockage/packages/f24/xfbib/po/de.po | 
+ | [el](/f24/language/el) | 342 | 342 | 100.0 | /mnt/stockage/packages/f24/xfbib/po/el.po | 
+ | [en_GB](/f24/language/en_GB) | 342 | 342 | 100.0 | /mnt/stockage/packages/f24/xfbib/po/en_GB.po | 
+ | [es](/f24/language/es) | 342 | 342 | 100.0 | /mnt/stockage/packages/f24/xfbib/po/es.po | 
+ | [eu](/f24/language/eu) | 342 | 342 | 100.0 | /mnt/stockage/packages/f24/xfbib/po/eu.po | 
+ | [fr](/f24/language/fr) | 342 | 342 | 100.0 | /mnt/stockage/packages/f24/xfbib/po/fr.po | 
+ | [hu](/f24/language/hu) | 342 | 342 | 100.0 | /mnt/stockage/packages/f24/xfbib/po/hu.po | 
+ | [id](/f24/language/id) | 342 | 342 | 100.0 | /mnt/stockage/packages/f24/xfbib/po/id.po | 
+ | [it](/f24/language/it) | 342 | 342 | 100.0 | /mnt/stockage/packages/f24/xfbib/po/it.po | 
+ | [ko](/f24/language/ko) | 342 | 342 | 100.0 | /mnt/stockage/packages/f24/xfbib/po/ko.po | 
+ | [lt](/f24/language/lt) | 342 | 342 | 100.0 | /mnt/stockage/packages/f24/xfbib/po/lt.po | 
+ | [lv](/f24/language/lv) | 342 | 342 | 100.0 | /mnt/stockage/packages/f24/xfbib/po/lv.po | 
+ | [nl](/f24/language/nl) | 342 | 342 | 100.0 | /mnt/stockage/packages/f24/xfbib/po/nl.po | 
+ | [pt](/f24/language/pt) | 342 | 342 | 100.0 | /mnt/stockage/packages/f24/xfbib/po/pt.po | 
+ | [pt_BR](/f24/language/pt_BR) | 342 | 342 | 100.0 | /mnt/stockage/packages/f24/xfbib/po/pt_BR.po | 
+ | [ru](/f24/language/ru) | 342 | 342 | 100.0 | /mnt/stockage/packages/f24/xfbib/po/ru.po | 
+ | [sk](/f24/language/sk) | 342 | 342 | 100.0 | /mnt/stockage/packages/f24/xfbib/po/sk.po | 
+ | [sr](/f24/language/sr) | 342 | 342 | 100.0 | /mnt/stockage/packages/f24/xfbib/po/sr.po | 
+ | [tr](/f24/language/tr) | 342 | 342 | 100.0 | /mnt/stockage/packages/f24/xfbib/po/tr.po | 
+ | [uk](/f24/language/uk) | 342 | 342 | 100.0 | /mnt/stockage/packages/f24/xfbib/po/uk.po | 
+ | [ur](/f24/language/ur) | 342 | 342 | 100.0 | /mnt/stockage/packages/f24/xfbib/po/ur.po | 
+ | [ur_PK](/f24/language/ur_PK) | 342 | 342 | 100.0 | /mnt/stockage/packages/f24/xfbib/po/ur_PK.po | 
+ | [zh_Hans](/f24/language/zh_Hans) | 342 | 342 | 100.0 | /mnt/stockage/packages/f24/xfbib/po/zh_CN.po | 
+ | [gl](/f24/language/gl) | 312 | 342 | 91.2 | /mnt/stockage/packages/f24/xfbib/po/gl.po | 
+ | [ug](/f24/language/ug) | 312 | 342 | 91.2 | /mnt/stockage/packages/f24/xfbib/po/ug.po | 
+ | [hr](/f24/language/hr) | 220 | 342 | 64.3 | /mnt/stockage/packages/f24/xfbib/po/hr.po | 
+ | [sv](/f24/language/sv) | 208 | 342 | 60.8 | /mnt/stockage/packages/f24/xfbib/po/sv.po | 
+ | [pl](/f24/language/pl) | 187 | 342 | 54.7 | /mnt/stockage/packages/f24/xfbib/po/pl.po | 
+ | [zh_Hant](/f24/language/zh_Hant) | 185 | 342 | 54.1 | /mnt/stockage/packages/f24/xfbib/po/zh_TW.po | 
+ | [ja](/f24/language/ja) | 176 | 342 | 51.5 | /mnt/stockage/packages/f24/xfbib/po/ja.po | 
 {.sortable}
 
 

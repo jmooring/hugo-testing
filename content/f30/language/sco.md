@@ -38,15 +38,15 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [gnomad2]({{< ref "/f30/package/gnomad2.md" >}}) | 697 | 697 | 100.0 | Scots <sco@li.org> | 
- | [blueberry]({{< ref "/f30/package/blueberry.md" >}}) | 141 | 148 | 95.3 | Scots <sco@li.org> | 
- | [cinnamon-translations]({{< ref "/f30/package/cinnamon-translations.md" >}}) | 1001 | 8484 | 11.8 | Scots <sco@li.org> | 
- | [pyroom]({{< ref "/f30/package/pyroom.md" >}}) | 21 | 411 | 5.1 | Scots <sco@li.org> | 
- | [picard]({{< ref "/f30/package/picard.md" >}}) | 29 | 1681 | 1.7 | Scots (http://www.transifex.com/projects/p/musicbrainz/language/sco/) | 
- | [supertuxkart]({{< ref "/f30/package/supertuxkart.md" >}}) | 14 | 5341 | 0.3 | Scots (http://www.transifex.com/supertuxkart/supertuxkart/language/sco/) | 
- | [bzr]({{< ref "/f30/package/bzr.md" >}}) | 23 | 33249 | 0.1 | Scots <sco@li.org> | 
- | [libmatekbd]({{< ref "/f30/package/libmatekbd.md" >}}) | 0 | 251 | 0.0 | Scots (http://www.transifex.com/mate/MATE/language/sco/) | 
- | [mate-themes]({{< ref "/f30/package/mate-themes.md" >}}) | 0 | 70 | 0.0 | Scots (http://www.transifex.com/mate/MATE/language/sco/) | 
+ | [gnomad2](/f30/package/gnomad2) | 697 | 697 | 100.0 | Scots <sco@li.org> | 
+ | [blueberry](/f30/package/blueberry) | 141 | 148 | 95.3 | Scots <sco@li.org> | 
+ | [cinnamon-translations](/f30/package/cinnamon-translations) | 1001 | 8484 | 11.8 | Scots <sco@li.org> | 
+ | [pyroom](/f30/package/pyroom) | 21 | 411 | 5.1 | Scots <sco@li.org> | 
+ | [picard](/f30/package/picard) | 29 | 1681 | 1.7 | Scots (http://www.transifex.com/projects/p/musicbrainz/language/sco/) | 
+ | [supertuxkart](/f30/package/supertuxkart) | 14 | 5341 | 0.3 | Scots (http://www.transifex.com/supertuxkart/supertuxkart/language/sco/) | 
+ | [bzr](/f30/package/bzr) | 23 | 33249 | 0.1 | Scots <sco@li.org> | 
+ | [libmatekbd](/f30/package/libmatekbd) | 0 | 251 | 0.0 | Scots (http://www.transifex.com/mate/MATE/language/sco/) | 
+ | [mate-themes](/f30/package/mate-themes) | 0 | 70 | 0.0 | Scots (http://www.transifex.com/mate/MATE/language/sco/) | 
 {.sortable}
 
 

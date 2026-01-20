@@ -18,14 +18,14 @@ The package git-cola (version 1.8.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f16/language/de.md" >}}) | 1916 | 1916 | 100.0 | /mnt/stockage/packages/f16/git-cola/po/de.po/mnt/stockage/packages/f16/git-cola/po/glossary/de.po | 
- | [fr]({{< ref "/f16/language/fr.md" >}}) | 1842 | 1842 | 100.0 | /mnt/stockage/packages/f16/git-cola/po/fr.po | 
- | [hu]({{< ref "/f16/language/hu.md" >}}) | 1842 | 1842 | 100.0 | /mnt/stockage/packages/f16/git-cola/po/hu.po | 
- | [ja]({{< ref "/f16/language/ja.md" >}}) | 1842 | 1842 | 100.0 | /mnt/stockage/packages/f16/git-cola/po/ja.po | 
- | [sv]({{< ref "/f16/language/sv.md" >}}) | 1842 | 1842 | 100.0 | /mnt/stockage/packages/f16/git-cola/po/sv.po | 
- | [it]({{< ref "/f16/language/it.md" >}}) | 1915 | 1916 | 99.9 | /mnt/stockage/packages/f16/git-cola/po/it.po/mnt/stockage/packages/f16/git-cola/po/glossary/it.po | 
- | [ru]({{< ref "/f16/language/ru.md" >}}) | 1837 | 1842 | 99.7 | /mnt/stockage/packages/f16/git-cola/po/ru.po | 
- | [zh_Hans]({{< ref "/f16/language/zh_Hans.md" >}}) | 1834 | 1912 | 95.9 | /mnt/stockage/packages/f16/git-cola/po/zh_cn.po/mnt/stockage/packages/f16/git-cola/po/glossary/zh_cn.po | 
+ | [de](/f16/language/de) | 1916 | 1916 | 100.0 | /mnt/stockage/packages/f16/git-cola/po/de.po/mnt/stockage/packages/f16/git-cola/po/glossary/de.po | 
+ | [fr](/f16/language/fr) | 1842 | 1842 | 100.0 | /mnt/stockage/packages/f16/git-cola/po/fr.po | 
+ | [hu](/f16/language/hu) | 1842 | 1842 | 100.0 | /mnt/stockage/packages/f16/git-cola/po/hu.po | 
+ | [ja](/f16/language/ja) | 1842 | 1842 | 100.0 | /mnt/stockage/packages/f16/git-cola/po/ja.po | 
+ | [sv](/f16/language/sv) | 1842 | 1842 | 100.0 | /mnt/stockage/packages/f16/git-cola/po/sv.po | 
+ | [it](/f16/language/it) | 1915 | 1916 | 99.9 | /mnt/stockage/packages/f16/git-cola/po/it.po/mnt/stockage/packages/f16/git-cola/po/glossary/it.po | 
+ | [ru](/f16/language/ru) | 1837 | 1842 | 99.7 | /mnt/stockage/packages/f16/git-cola/po/ru.po | 
+ | [zh_Hans](/f16/language/zh_Hans) | 1834 | 1912 | 95.9 | /mnt/stockage/packages/f16/git-cola/po/zh_cn.po/mnt/stockage/packages/f16/git-cola/po/glossary/zh_cn.po | 
 {.sortable}
 
 

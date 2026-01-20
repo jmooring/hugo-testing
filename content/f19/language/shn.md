@@ -39,10 +39,10 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [shutter]({{< ref "/f19/package/shutter.md" >}}) | 73 | 2448 | 3.0 | Shan <shn@li.org> | 
- | [deja-dup]({{< ref "/f19/package/deja-dup.md" >}}) | 0 | 1756 | 0.0 | Shan <shn@li.org> | 
- | [gwibber]({{< ref "/f19/package/gwibber.md" >}}) | 0 | 769 | 0.0 | Shan <shn@li.org> | 
- | [lightdm]({{< ref "/f19/package/lightdm.md" >}}) | 0 | 79 | 0.0 | Shan <shn@li.org> | 
+ | [shutter](/f19/package/shutter) | 73 | 2448 | 3.0 | Shan <shn@li.org> | 
+ | [deja-dup](/f19/package/deja-dup) | 0 | 1756 | 0.0 | Shan <shn@li.org> | 
+ | [gwibber](/f19/package/gwibber) | 0 | 769 | 0.0 | Shan <shn@li.org> | 
+ | [lightdm](/f19/package/lightdm) | 0 | 79 | 0.0 | Shan <shn@li.org> | 
 {.sortable}
 
 

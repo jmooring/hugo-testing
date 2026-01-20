@@ -18,54 +18,54 @@ The package plasma-mediacenter (version 5.7.5):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f37/language/ca.md" >}}) | 172 | 172 | 100.0 | /mnt/stockage/packages/f37/plasma-mediacenter/po/ca/plasma-mediacenter.po/mnt/stockage/packages/f37/plasma-mediacenter/po/ca/plasma_shell_org.kde.plasma.mediacenter.po | 
- | [ca@valencia]({{< ref "/f37/language/ca@valencia.md" >}}) | 172 | 172 | 100.0 | /mnt/stockage/packages/f37/plasma-mediacenter/po/ca@valencia/plasma-mediacenter.po/mnt/stockage/packages/f37/plasma-mediacenter/po/ca@valencia/plasma_shell_org.kde.plasma.mediacenter.po | 
- | [cs]({{< ref "/f37/language/cs.md" >}}) | 172 | 172 | 100.0 | /mnt/stockage/packages/f37/plasma-mediacenter/po/cs/plasma-mediacenter.po/mnt/stockage/packages/f37/plasma-mediacenter/po/cs/plasma_shell_org.kde.plasma.mediacenter.po | 
- | [da]({{< ref "/f37/language/da.md" >}}) | 172 | 172 | 100.0 | /mnt/stockage/packages/f37/plasma-mediacenter/po/da/plasma-mediacenter.po/mnt/stockage/packages/f37/plasma-mediacenter/po/da/plasma_shell_org.kde.plasma.mediacenter.po | 
- | [de]({{< ref "/f37/language/de.md" >}}) | 172 | 172 | 100.0 | /mnt/stockage/packages/f37/plasma-mediacenter/po/de/plasma-mediacenter.po/mnt/stockage/packages/f37/plasma-mediacenter/po/de/plasma_shell_org.kde.plasma.mediacenter.po | 
- | [el]({{< ref "/f37/language/el.md" >}}) | 172 | 172 | 100.0 | /mnt/stockage/packages/f37/plasma-mediacenter/po/el/plasma-mediacenter.po/mnt/stockage/packages/f37/plasma-mediacenter/po/el/plasma_shell_org.kde.plasma.mediacenter.po | 
- | [en_GB]({{< ref "/f37/language/en_GB.md" >}}) | 172 | 172 | 100.0 | /mnt/stockage/packages/f37/plasma-mediacenter/po/en_GB/plasma-mediacenter.po/mnt/stockage/packages/f37/plasma-mediacenter/po/en_GB/plasma_shell_org.kde.plasma.mediacenter.po | 
- | [es]({{< ref "/f37/language/es.md" >}}) | 172 | 172 | 100.0 | /mnt/stockage/packages/f37/plasma-mediacenter/po/es/plasma-mediacenter.po/mnt/stockage/packages/f37/plasma-mediacenter/po/es/plasma_shell_org.kde.plasma.mediacenter.po | 
- | [et]({{< ref "/f37/language/et.md" >}}) | 172 | 172 | 100.0 | /mnt/stockage/packages/f37/plasma-mediacenter/po/et/plasma-mediacenter.po/mnt/stockage/packages/f37/plasma-mediacenter/po/et/plasma_shell_org.kde.plasma.mediacenter.po | 
- | [fi]({{< ref "/f37/language/fi.md" >}}) | 172 | 172 | 100.0 | /mnt/stockage/packages/f37/plasma-mediacenter/po/fi/plasma-mediacenter.po/mnt/stockage/packages/f37/plasma-mediacenter/po/fi/plasma_shell_org.kde.plasma.mediacenter.po | 
- | [fr]({{< ref "/f37/language/fr.md" >}}) | 172 | 172 | 100.0 | /mnt/stockage/packages/f37/plasma-mediacenter/po/fr/plasma-mediacenter.po/mnt/stockage/packages/f37/plasma-mediacenter/po/fr/plasma_shell_org.kde.plasma.mediacenter.po | 
- | [gl]({{< ref "/f37/language/gl.md" >}}) | 172 | 172 | 100.0 | /mnt/stockage/packages/f37/plasma-mediacenter/po/gl/plasma-mediacenter.po/mnt/stockage/packages/f37/plasma-mediacenter/po/gl/plasma_shell_org.kde.plasma.mediacenter.po | 
- | [hu]({{< ref "/f37/language/hu.md" >}}) | 172 | 172 | 100.0 | /mnt/stockage/packages/f37/plasma-mediacenter/po/hu/plasma-mediacenter.po/mnt/stockage/packages/f37/plasma-mediacenter/po/hu/plasma_shell_org.kde.plasma.mediacenter.po | 
- | [it]({{< ref "/f37/language/it.md" >}}) | 172 | 172 | 100.0 | /mnt/stockage/packages/f37/plasma-mediacenter/po/it/plasma-mediacenter.po/mnt/stockage/packages/f37/plasma-mediacenter/po/it/plasma_shell_org.kde.plasma.mediacenter.po | 
- | [ko]({{< ref "/f37/language/ko.md" >}}) | 172 | 172 | 100.0 | /mnt/stockage/packages/f37/plasma-mediacenter/po/ko/plasma-mediacenter.po/mnt/stockage/packages/f37/plasma-mediacenter/po/ko/plasma_shell_org.kde.plasma.mediacenter.po | 
- | [nl]({{< ref "/f37/language/nl.md" >}}) | 172 | 172 | 100.0 | /mnt/stockage/packages/f37/plasma-mediacenter/po/nl/plasma-mediacenter.po/mnt/stockage/packages/f37/plasma-mediacenter/po/nl/plasma_shell_org.kde.plasma.mediacenter.po | 
- | [nn]({{< ref "/f37/language/nn.md" >}}) | 172 | 172 | 100.0 | /mnt/stockage/packages/f37/plasma-mediacenter/po/nn/plasma-mediacenter.po/mnt/stockage/packages/f37/plasma-mediacenter/po/nn/plasma_shell_org.kde.plasma.mediacenter.po | 
- | [pl]({{< ref "/f37/language/pl.md" >}}) | 172 | 172 | 100.0 | /mnt/stockage/packages/f37/plasma-mediacenter/po/pl/plasma-mediacenter.po/mnt/stockage/packages/f37/plasma-mediacenter/po/pl/plasma_shell_org.kde.plasma.mediacenter.po | 
- | [pt]({{< ref "/f37/language/pt.md" >}}) | 172 | 172 | 100.0 | /mnt/stockage/packages/f37/plasma-mediacenter/po/pt/plasma-mediacenter.po/mnt/stockage/packages/f37/plasma-mediacenter/po/pt/plasma_shell_org.kde.plasma.mediacenter.po | 
- | [pt_BR]({{< ref "/f37/language/pt_BR.md" >}}) | 172 | 172 | 100.0 | /mnt/stockage/packages/f37/plasma-mediacenter/po/pt_BR/plasma-mediacenter.po/mnt/stockage/packages/f37/plasma-mediacenter/po/pt_BR/plasma_shell_org.kde.plasma.mediacenter.po | 
- | [ru]({{< ref "/f37/language/ru.md" >}}) | 172 | 172 | 100.0 | /mnt/stockage/packages/f37/plasma-mediacenter/po/ru/plasma-mediacenter.po/mnt/stockage/packages/f37/plasma-mediacenter/po/ru/plasma_shell_org.kde.plasma.mediacenter.po | 
- | [sk]({{< ref "/f37/language/sk.md" >}}) | 172 | 172 | 100.0 | /mnt/stockage/packages/f37/plasma-mediacenter/po/sk/plasma-mediacenter.po/mnt/stockage/packages/f37/plasma-mediacenter/po/sk/plasma_shell_org.kde.plasma.mediacenter.po | 
- | [sl]({{< ref "/f37/language/sl.md" >}}) | 172 | 172 | 100.0 | /mnt/stockage/packages/f37/plasma-mediacenter/po/sl/plasma-mediacenter.po/mnt/stockage/packages/f37/plasma-mediacenter/po/sl/plasma_shell_org.kde.plasma.mediacenter.po | 
- | [sr]({{< ref "/f37/language/sr.md" >}}) | 172 | 172 | 100.0 | /mnt/stockage/packages/f37/plasma-mediacenter/po/sr/plasma-mediacenter.po/mnt/stockage/packages/f37/plasma-mediacenter/po/sr/plasma_shell_org.kde.plasma.mediacenter.po | 
- | [sr@ijekavian]({{< ref "/f37/language/sr@ijekavian.md" >}}) | 172 | 172 | 100.0 | /mnt/stockage/packages/f37/plasma-mediacenter/po/sr@ijekavian/plasma-mediacenter.po/mnt/stockage/packages/f37/plasma-mediacenter/po/sr@ijekavian/plasma_shell_org.kde.plasma.mediacenter.po | 
- | [sr@ijekavian_Latn]({{< ref "/f37/language/sr@ijekavian_Latn.md" >}}) | 172 | 172 | 100.0 | /mnt/stockage/packages/f37/plasma-mediacenter/po/sr@ijekavianlatin/plasma-mediacenter.po/mnt/stockage/packages/f37/plasma-mediacenter/po/sr@ijekavianlatin/plasma_shell_org.kde.plasma.mediacenter.po | 
- | [sr_Latn]({{< ref "/f37/language/sr_Latn.md" >}}) | 172 | 172 | 100.0 | /mnt/stockage/packages/f37/plasma-mediacenter/po/sr@latin/plasma-mediacenter.po/mnt/stockage/packages/f37/plasma-mediacenter/po/sr@latin/plasma_shell_org.kde.plasma.mediacenter.po | 
- | [sv]({{< ref "/f37/language/sv.md" >}}) | 172 | 172 | 100.0 | /mnt/stockage/packages/f37/plasma-mediacenter/po/sv/plasma-mediacenter.po/mnt/stockage/packages/f37/plasma-mediacenter/po/sv/plasma_shell_org.kde.plasma.mediacenter.po | 
- | [tr]({{< ref "/f37/language/tr.md" >}}) | 83 | 83 | 100.0 | /mnt/stockage/packages/f37/plasma-mediacenter/po/tr/plasma-mediacenter.po | 
- | [uk]({{< ref "/f37/language/uk.md" >}}) | 172 | 172 | 100.0 | /mnt/stockage/packages/f37/plasma-mediacenter/po/uk/plasma-mediacenter.po/mnt/stockage/packages/f37/plasma-mediacenter/po/uk/plasma_shell_org.kde.plasma.mediacenter.po | 
- | [zh_Hans]({{< ref "/f37/language/zh_Hans.md" >}}) | 172 | 172 | 100.0 | /mnt/stockage/packages/f37/plasma-mediacenter/po/zh_CN/plasma-mediacenter.po/mnt/stockage/packages/f37/plasma-mediacenter/po/zh_CN/plasma_shell_org.kde.plasma.mediacenter.po | 
- | [zh_Hant]({{< ref "/f37/language/zh_Hant.md" >}}) | 172 | 172 | 100.0 | /mnt/stockage/packages/f37/plasma-mediacenter/po/zh_TW/plasma-mediacenter.po/mnt/stockage/packages/f37/plasma-mediacenter/po/zh_TW/plasma_shell_org.kde.plasma.mediacenter.po | 
- | [id]({{< ref "/f37/language/id.md" >}}) | 168 | 172 | 97.7 | /mnt/stockage/packages/f37/plasma-mediacenter/po/id/plasma-mediacenter.po/mnt/stockage/packages/f37/plasma-mediacenter/po/id/plasma_shell_org.kde.plasma.mediacenter.po | 
- | [lt]({{< ref "/f37/language/lt.md" >}}) | 168 | 172 | 97.7 | /mnt/stockage/packages/f37/plasma-mediacenter/po/lt/plasma-mediacenter.po/mnt/stockage/packages/f37/plasma-mediacenter/po/lt/plasma_shell_org.kde.plasma.mediacenter.po | 
- | [he]({{< ref "/f37/language/he.md" >}}) | 85 | 89 | 95.5 | /mnt/stockage/packages/f37/plasma-mediacenter/po/he/plasma_shell_org.kde.plasma.mediacenter.po | 
- | [ar]({{< ref "/f37/language/ar.md" >}}) | 134 | 172 | 77.9 | /mnt/stockage/packages/f37/plasma-mediacenter/po/ar/plasma-mediacenter.po/mnt/stockage/packages/f37/plasma-mediacenter/po/ar/plasma_shell_org.kde.plasma.mediacenter.po | 
- | [nb_NO]({{< ref "/f37/language/nb_NO.md" >}}) | 117 | 172 | 68.0 | /mnt/stockage/packages/f37/plasma-mediacenter/po/nb/plasma-mediacenter.po/mnt/stockage/packages/f37/plasma-mediacenter/po/nb/plasma_shell_org.kde.plasma.mediacenter.po | 
- | [ro]({{< ref "/f37/language/ro.md" >}}) | 46 | 83 | 55.4 | /mnt/stockage/packages/f37/plasma-mediacenter/po/ro/plasma-mediacenter.po | 
- | [ast]({{< ref "/f37/language/ast.md" >}}) | 85 | 172 | 49.4 | /mnt/stockage/packages/f37/plasma-mediacenter/po/ast/plasma-mediacenter.po/mnt/stockage/packages/f37/plasma-mediacenter/po/ast/plasma_shell_org.kde.plasma.mediacenter.po | 
- | [lv]({{< ref "/f37/language/lv.md" >}}) | 28 | 83 | 33.7 | /mnt/stockage/packages/f37/plasma-mediacenter/po/lv/plasma-mediacenter.po | 
- | [bs]({{< ref "/f37/language/bs.md" >}}) | 24 | 83 | 28.9 | /mnt/stockage/packages/f37/plasma-mediacenter/po/bs/plasma-mediacenter.po | 
- | [ug]({{< ref "/f37/language/ug.md" >}}) | 12 | 83 | 14.5 | /mnt/stockage/packages/f37/plasma-mediacenter/po/ug/plasma-mediacenter.po | 
- | [eu]({{< ref "/f37/language/eu.md" >}}) | 0 | 83 | 0.0 | /mnt/stockage/packages/f37/plasma-mediacenter/po/eu/plasma-mediacenter.po | 
- | [ga]({{< ref "/f37/language/ga.md" >}}) | 0 | 83 | 0.0 | /mnt/stockage/packages/f37/plasma-mediacenter/po/ga/plasma-mediacenter.po | 
- | [ja]({{< ref "/f37/language/ja.md" >}}) | 0 | 172 | 0.0 | /mnt/stockage/packages/f37/plasma-mediacenter/po/ja/plasma-mediacenter.po/mnt/stockage/packages/f37/plasma-mediacenter/po/ja/plasma_shell_org.kde.plasma.mediacenter.po | 
- | [km]({{< ref "/f37/language/km.md" >}}) | 0 | 83 | 0.0 | /mnt/stockage/packages/f37/plasma-mediacenter/po/km/plasma-mediacenter.po | 
- | [mr]({{< ref "/f37/language/mr.md" >}}) | 0 | 83 | 0.0 | /mnt/stockage/packages/f37/plasma-mediacenter/po/mr/plasma-mediacenter.po | 
- | [nds]({{< ref "/f37/language/nds.md" >}}) | 0 | 83 | 0.0 | /mnt/stockage/packages/f37/plasma-mediacenter/po/nds/plasma-mediacenter.po | 
+ | [ca](/f37/language/ca) | 172 | 172 | 100.0 | /mnt/stockage/packages/f37/plasma-mediacenter/po/ca/plasma-mediacenter.po/mnt/stockage/packages/f37/plasma-mediacenter/po/ca/plasma_shell_org.kde.plasma.mediacenter.po | 
+ | [ca@valencia](/f37/language/ca@valencia) | 172 | 172 | 100.0 | /mnt/stockage/packages/f37/plasma-mediacenter/po/ca@valencia/plasma-mediacenter.po/mnt/stockage/packages/f37/plasma-mediacenter/po/ca@valencia/plasma_shell_org.kde.plasma.mediacenter.po | 
+ | [cs](/f37/language/cs) | 172 | 172 | 100.0 | /mnt/stockage/packages/f37/plasma-mediacenter/po/cs/plasma-mediacenter.po/mnt/stockage/packages/f37/plasma-mediacenter/po/cs/plasma_shell_org.kde.plasma.mediacenter.po | 
+ | [da](/f37/language/da) | 172 | 172 | 100.0 | /mnt/stockage/packages/f37/plasma-mediacenter/po/da/plasma-mediacenter.po/mnt/stockage/packages/f37/plasma-mediacenter/po/da/plasma_shell_org.kde.plasma.mediacenter.po | 
+ | [de](/f37/language/de) | 172 | 172 | 100.0 | /mnt/stockage/packages/f37/plasma-mediacenter/po/de/plasma-mediacenter.po/mnt/stockage/packages/f37/plasma-mediacenter/po/de/plasma_shell_org.kde.plasma.mediacenter.po | 
+ | [el](/f37/language/el) | 172 | 172 | 100.0 | /mnt/stockage/packages/f37/plasma-mediacenter/po/el/plasma-mediacenter.po/mnt/stockage/packages/f37/plasma-mediacenter/po/el/plasma_shell_org.kde.plasma.mediacenter.po | 
+ | [en_GB](/f37/language/en_GB) | 172 | 172 | 100.0 | /mnt/stockage/packages/f37/plasma-mediacenter/po/en_GB/plasma-mediacenter.po/mnt/stockage/packages/f37/plasma-mediacenter/po/en_GB/plasma_shell_org.kde.plasma.mediacenter.po | 
+ | [es](/f37/language/es) | 172 | 172 | 100.0 | /mnt/stockage/packages/f37/plasma-mediacenter/po/es/plasma-mediacenter.po/mnt/stockage/packages/f37/plasma-mediacenter/po/es/plasma_shell_org.kde.plasma.mediacenter.po | 
+ | [et](/f37/language/et) | 172 | 172 | 100.0 | /mnt/stockage/packages/f37/plasma-mediacenter/po/et/plasma-mediacenter.po/mnt/stockage/packages/f37/plasma-mediacenter/po/et/plasma_shell_org.kde.plasma.mediacenter.po | 
+ | [fi](/f37/language/fi) | 172 | 172 | 100.0 | /mnt/stockage/packages/f37/plasma-mediacenter/po/fi/plasma-mediacenter.po/mnt/stockage/packages/f37/plasma-mediacenter/po/fi/plasma_shell_org.kde.plasma.mediacenter.po | 
+ | [fr](/f37/language/fr) | 172 | 172 | 100.0 | /mnt/stockage/packages/f37/plasma-mediacenter/po/fr/plasma-mediacenter.po/mnt/stockage/packages/f37/plasma-mediacenter/po/fr/plasma_shell_org.kde.plasma.mediacenter.po | 
+ | [gl](/f37/language/gl) | 172 | 172 | 100.0 | /mnt/stockage/packages/f37/plasma-mediacenter/po/gl/plasma-mediacenter.po/mnt/stockage/packages/f37/plasma-mediacenter/po/gl/plasma_shell_org.kde.plasma.mediacenter.po | 
+ | [hu](/f37/language/hu) | 172 | 172 | 100.0 | /mnt/stockage/packages/f37/plasma-mediacenter/po/hu/plasma-mediacenter.po/mnt/stockage/packages/f37/plasma-mediacenter/po/hu/plasma_shell_org.kde.plasma.mediacenter.po | 
+ | [it](/f37/language/it) | 172 | 172 | 100.0 | /mnt/stockage/packages/f37/plasma-mediacenter/po/it/plasma-mediacenter.po/mnt/stockage/packages/f37/plasma-mediacenter/po/it/plasma_shell_org.kde.plasma.mediacenter.po | 
+ | [ko](/f37/language/ko) | 172 | 172 | 100.0 | /mnt/stockage/packages/f37/plasma-mediacenter/po/ko/plasma-mediacenter.po/mnt/stockage/packages/f37/plasma-mediacenter/po/ko/plasma_shell_org.kde.plasma.mediacenter.po | 
+ | [nl](/f37/language/nl) | 172 | 172 | 100.0 | /mnt/stockage/packages/f37/plasma-mediacenter/po/nl/plasma-mediacenter.po/mnt/stockage/packages/f37/plasma-mediacenter/po/nl/plasma_shell_org.kde.plasma.mediacenter.po | 
+ | [nn](/f37/language/nn) | 172 | 172 | 100.0 | /mnt/stockage/packages/f37/plasma-mediacenter/po/nn/plasma-mediacenter.po/mnt/stockage/packages/f37/plasma-mediacenter/po/nn/plasma_shell_org.kde.plasma.mediacenter.po | 
+ | [pl](/f37/language/pl) | 172 | 172 | 100.0 | /mnt/stockage/packages/f37/plasma-mediacenter/po/pl/plasma-mediacenter.po/mnt/stockage/packages/f37/plasma-mediacenter/po/pl/plasma_shell_org.kde.plasma.mediacenter.po | 
+ | [pt](/f37/language/pt) | 172 | 172 | 100.0 | /mnt/stockage/packages/f37/plasma-mediacenter/po/pt/plasma-mediacenter.po/mnt/stockage/packages/f37/plasma-mediacenter/po/pt/plasma_shell_org.kde.plasma.mediacenter.po | 
+ | [pt_BR](/f37/language/pt_BR) | 172 | 172 | 100.0 | /mnt/stockage/packages/f37/plasma-mediacenter/po/pt_BR/plasma-mediacenter.po/mnt/stockage/packages/f37/plasma-mediacenter/po/pt_BR/plasma_shell_org.kde.plasma.mediacenter.po | 
+ | [ru](/f37/language/ru) | 172 | 172 | 100.0 | /mnt/stockage/packages/f37/plasma-mediacenter/po/ru/plasma-mediacenter.po/mnt/stockage/packages/f37/plasma-mediacenter/po/ru/plasma_shell_org.kde.plasma.mediacenter.po | 
+ | [sk](/f37/language/sk) | 172 | 172 | 100.0 | /mnt/stockage/packages/f37/plasma-mediacenter/po/sk/plasma-mediacenter.po/mnt/stockage/packages/f37/plasma-mediacenter/po/sk/plasma_shell_org.kde.plasma.mediacenter.po | 
+ | [sl](/f37/language/sl) | 172 | 172 | 100.0 | /mnt/stockage/packages/f37/plasma-mediacenter/po/sl/plasma-mediacenter.po/mnt/stockage/packages/f37/plasma-mediacenter/po/sl/plasma_shell_org.kde.plasma.mediacenter.po | 
+ | [sr](/f37/language/sr) | 172 | 172 | 100.0 | /mnt/stockage/packages/f37/plasma-mediacenter/po/sr/plasma-mediacenter.po/mnt/stockage/packages/f37/plasma-mediacenter/po/sr/plasma_shell_org.kde.plasma.mediacenter.po | 
+ | [sr@ijekavian](/f37/language/sr@ijekavian) | 172 | 172 | 100.0 | /mnt/stockage/packages/f37/plasma-mediacenter/po/sr@ijekavian/plasma-mediacenter.po/mnt/stockage/packages/f37/plasma-mediacenter/po/sr@ijekavian/plasma_shell_org.kde.plasma.mediacenter.po | 
+ | [sr@ijekavian_Latn](/f37/language/sr@ijekavian_Latn) | 172 | 172 | 100.0 | /mnt/stockage/packages/f37/plasma-mediacenter/po/sr@ijekavianlatin/plasma-mediacenter.po/mnt/stockage/packages/f37/plasma-mediacenter/po/sr@ijekavianlatin/plasma_shell_org.kde.plasma.mediacenter.po | 
+ | [sr_Latn](/f37/language/sr_Latn) | 172 | 172 | 100.0 | /mnt/stockage/packages/f37/plasma-mediacenter/po/sr@latin/plasma-mediacenter.po/mnt/stockage/packages/f37/plasma-mediacenter/po/sr@latin/plasma_shell_org.kde.plasma.mediacenter.po | 
+ | [sv](/f37/language/sv) | 172 | 172 | 100.0 | /mnt/stockage/packages/f37/plasma-mediacenter/po/sv/plasma-mediacenter.po/mnt/stockage/packages/f37/plasma-mediacenter/po/sv/plasma_shell_org.kde.plasma.mediacenter.po | 
+ | [tr](/f37/language/tr) | 83 | 83 | 100.0 | /mnt/stockage/packages/f37/plasma-mediacenter/po/tr/plasma-mediacenter.po | 
+ | [uk](/f37/language/uk) | 172 | 172 | 100.0 | /mnt/stockage/packages/f37/plasma-mediacenter/po/uk/plasma-mediacenter.po/mnt/stockage/packages/f37/plasma-mediacenter/po/uk/plasma_shell_org.kde.plasma.mediacenter.po | 
+ | [zh_Hans](/f37/language/zh_Hans) | 172 | 172 | 100.0 | /mnt/stockage/packages/f37/plasma-mediacenter/po/zh_CN/plasma-mediacenter.po/mnt/stockage/packages/f37/plasma-mediacenter/po/zh_CN/plasma_shell_org.kde.plasma.mediacenter.po | 
+ | [zh_Hant](/f37/language/zh_Hant) | 172 | 172 | 100.0 | /mnt/stockage/packages/f37/plasma-mediacenter/po/zh_TW/plasma-mediacenter.po/mnt/stockage/packages/f37/plasma-mediacenter/po/zh_TW/plasma_shell_org.kde.plasma.mediacenter.po | 
+ | [id](/f37/language/id) | 168 | 172 | 97.7 | /mnt/stockage/packages/f37/plasma-mediacenter/po/id/plasma-mediacenter.po/mnt/stockage/packages/f37/plasma-mediacenter/po/id/plasma_shell_org.kde.plasma.mediacenter.po | 
+ | [lt](/f37/language/lt) | 168 | 172 | 97.7 | /mnt/stockage/packages/f37/plasma-mediacenter/po/lt/plasma-mediacenter.po/mnt/stockage/packages/f37/plasma-mediacenter/po/lt/plasma_shell_org.kde.plasma.mediacenter.po | 
+ | [he](/f37/language/he) | 85 | 89 | 95.5 | /mnt/stockage/packages/f37/plasma-mediacenter/po/he/plasma_shell_org.kde.plasma.mediacenter.po | 
+ | [ar](/f37/language/ar) | 134 | 172 | 77.9 | /mnt/stockage/packages/f37/plasma-mediacenter/po/ar/plasma-mediacenter.po/mnt/stockage/packages/f37/plasma-mediacenter/po/ar/plasma_shell_org.kde.plasma.mediacenter.po | 
+ | [nb_NO](/f37/language/nb_NO) | 117 | 172 | 68.0 | /mnt/stockage/packages/f37/plasma-mediacenter/po/nb/plasma-mediacenter.po/mnt/stockage/packages/f37/plasma-mediacenter/po/nb/plasma_shell_org.kde.plasma.mediacenter.po | 
+ | [ro](/f37/language/ro) | 46 | 83 | 55.4 | /mnt/stockage/packages/f37/plasma-mediacenter/po/ro/plasma-mediacenter.po | 
+ | [ast](/f37/language/ast) | 85 | 172 | 49.4 | /mnt/stockage/packages/f37/plasma-mediacenter/po/ast/plasma-mediacenter.po/mnt/stockage/packages/f37/plasma-mediacenter/po/ast/plasma_shell_org.kde.plasma.mediacenter.po | 
+ | [lv](/f37/language/lv) | 28 | 83 | 33.7 | /mnt/stockage/packages/f37/plasma-mediacenter/po/lv/plasma-mediacenter.po | 
+ | [bs](/f37/language/bs) | 24 | 83 | 28.9 | /mnt/stockage/packages/f37/plasma-mediacenter/po/bs/plasma-mediacenter.po | 
+ | [ug](/f37/language/ug) | 12 | 83 | 14.5 | /mnt/stockage/packages/f37/plasma-mediacenter/po/ug/plasma-mediacenter.po | 
+ | [eu](/f37/language/eu) | 0 | 83 | 0.0 | /mnt/stockage/packages/f37/plasma-mediacenter/po/eu/plasma-mediacenter.po | 
+ | [ga](/f37/language/ga) | 0 | 83 | 0.0 | /mnt/stockage/packages/f37/plasma-mediacenter/po/ga/plasma-mediacenter.po | 
+ | [ja](/f37/language/ja) | 0 | 172 | 0.0 | /mnt/stockage/packages/f37/plasma-mediacenter/po/ja/plasma-mediacenter.po/mnt/stockage/packages/f37/plasma-mediacenter/po/ja/plasma_shell_org.kde.plasma.mediacenter.po | 
+ | [km](/f37/language/km) | 0 | 83 | 0.0 | /mnt/stockage/packages/f37/plasma-mediacenter/po/km/plasma-mediacenter.po | 
+ | [mr](/f37/language/mr) | 0 | 83 | 0.0 | /mnt/stockage/packages/f37/plasma-mediacenter/po/mr/plasma-mediacenter.po | 
+ | [nds](/f37/language/nds) | 0 | 83 | 0.0 | /mnt/stockage/packages/f37/plasma-mediacenter/po/nds/plasma-mediacenter.po | 
 {.sortable}
 
 

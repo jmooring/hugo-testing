@@ -18,28 +18,28 @@ The package minicom (version 2.10):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f42/language/de.md" >}}) | 1958 | 1958 | 100.0 | /mnt/stockage/packages/f42/minicom/po/de.po | 
- | [fr]({{< ref "/f42/language/fr.md" >}}) | 1958 | 1958 | 100.0 | /mnt/stockage/packages/f42/minicom/po/fr.po | 
- | [ka]({{< ref "/f42/language/ka.md" >}}) | 1935 | 1935 | 100.0 | /mnt/stockage/packages/f42/minicom/po/ka.po | 
- | [ko]({{< ref "/f42/language/ko.md" >}}) | 1958 | 1958 | 100.0 | /mnt/stockage/packages/f42/minicom/po/ko.po | 
- | [nb_NO]({{< ref "/f42/language/nb_NO.md" >}}) | 1958 | 1958 | 100.0 | /mnt/stockage/packages/f42/minicom/po/nb.po | 
- | [pl]({{< ref "/f42/language/pl.md" >}}) | 1958 | 1958 | 100.0 | /mnt/stockage/packages/f42/minicom/po/pl.po | 
- | [ro]({{< ref "/f42/language/ro.md" >}}) | 1958 | 1958 | 100.0 | /mnt/stockage/packages/f42/minicom/po/ro.po | 
- | [sr]({{< ref "/f42/language/sr.md" >}}) | 1958 | 1958 | 100.0 | /mnt/stockage/packages/f42/minicom/po/sr.po | 
- | [sv]({{< ref "/f42/language/sv.md" >}}) | 1958 | 1958 | 100.0 | /mnt/stockage/packages/f42/minicom/po/sv.po | 
- | [da]({{< ref "/f42/language/da.md" >}}) | 1544 | 1955 | 79.0 | /mnt/stockage/packages/f42/minicom/po/da.po | 
- | [pt_BR]({{< ref "/f42/language/pt_BR.md" >}}) | 1544 | 1955 | 79.0 | /mnt/stockage/packages/f42/minicom/po/pt_BR.po | 
- | [vi]({{< ref "/f42/language/vi.md" >}}) | 1544 | 1955 | 79.0 | /mnt/stockage/packages/f42/minicom/po/vi.po | 
- | [es]({{< ref "/f42/language/es.md" >}}) | 1529 | 1955 | 78.2 | /mnt/stockage/packages/f42/minicom/po/es.po | 
- | [fi]({{< ref "/f42/language/fi.md" >}}) | 1529 | 1955 | 78.2 | /mnt/stockage/packages/f42/minicom/po/fi.po | 
- | [id]({{< ref "/f42/language/id.md" >}}) | 1529 | 1955 | 78.2 | /mnt/stockage/packages/f42/minicom/po/id.po | 
- | [zh_Hans]({{< ref "/f42/language/zh_Hans.md" >}}) | 1529 | 1955 | 78.2 | /mnt/stockage/packages/f42/minicom/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f42/language/zh_Hant.md" >}}) | 1529 | 1955 | 78.2 | /mnt/stockage/packages/f42/minicom/po/zh_TW.po | 
- | [ru]({{< ref "/f42/language/ru.md" >}}) | 1386 | 1955 | 70.9 | /mnt/stockage/packages/f42/minicom/po/ru.po | 
- | [ja]({{< ref "/f42/language/ja.md" >}}) | 1330 | 1955 | 68.0 | /mnt/stockage/packages/f42/minicom/po/ja.po | 
- | [cs]({{< ref "/f42/language/cs.md" >}}) | 1156 | 1955 | 59.1 | /mnt/stockage/packages/f42/minicom/po/cs.po | 
- | [hu]({{< ref "/f42/language/hu.md" >}}) | 1105 | 1955 | 56.5 | /mnt/stockage/packages/f42/minicom/po/hu.po | 
- | [rw]({{< ref "/f42/language/rw.md" >}}) | 12 | 1955 | 0.6 | /mnt/stockage/packages/f42/minicom/po/rw.po | 
+ | [de](/f42/language/de) | 1958 | 1958 | 100.0 | /mnt/stockage/packages/f42/minicom/po/de.po | 
+ | [fr](/f42/language/fr) | 1958 | 1958 | 100.0 | /mnt/stockage/packages/f42/minicom/po/fr.po | 
+ | [ka](/f42/language/ka) | 1935 | 1935 | 100.0 | /mnt/stockage/packages/f42/minicom/po/ka.po | 
+ | [ko](/f42/language/ko) | 1958 | 1958 | 100.0 | /mnt/stockage/packages/f42/minicom/po/ko.po | 
+ | [nb_NO](/f42/language/nb_NO) | 1958 | 1958 | 100.0 | /mnt/stockage/packages/f42/minicom/po/nb.po | 
+ | [pl](/f42/language/pl) | 1958 | 1958 | 100.0 | /mnt/stockage/packages/f42/minicom/po/pl.po | 
+ | [ro](/f42/language/ro) | 1958 | 1958 | 100.0 | /mnt/stockage/packages/f42/minicom/po/ro.po | 
+ | [sr](/f42/language/sr) | 1958 | 1958 | 100.0 | /mnt/stockage/packages/f42/minicom/po/sr.po | 
+ | [sv](/f42/language/sv) | 1958 | 1958 | 100.0 | /mnt/stockage/packages/f42/minicom/po/sv.po | 
+ | [da](/f42/language/da) | 1544 | 1955 | 79.0 | /mnt/stockage/packages/f42/minicom/po/da.po | 
+ | [pt_BR](/f42/language/pt_BR) | 1544 | 1955 | 79.0 | /mnt/stockage/packages/f42/minicom/po/pt_BR.po | 
+ | [vi](/f42/language/vi) | 1544 | 1955 | 79.0 | /mnt/stockage/packages/f42/minicom/po/vi.po | 
+ | [es](/f42/language/es) | 1529 | 1955 | 78.2 | /mnt/stockage/packages/f42/minicom/po/es.po | 
+ | [fi](/f42/language/fi) | 1529 | 1955 | 78.2 | /mnt/stockage/packages/f42/minicom/po/fi.po | 
+ | [id](/f42/language/id) | 1529 | 1955 | 78.2 | /mnt/stockage/packages/f42/minicom/po/id.po | 
+ | [zh_Hans](/f42/language/zh_Hans) | 1529 | 1955 | 78.2 | /mnt/stockage/packages/f42/minicom/po/zh_CN.po | 
+ | [zh_Hant](/f42/language/zh_Hant) | 1529 | 1955 | 78.2 | /mnt/stockage/packages/f42/minicom/po/zh_TW.po | 
+ | [ru](/f42/language/ru) | 1386 | 1955 | 70.9 | /mnt/stockage/packages/f42/minicom/po/ru.po | 
+ | [ja](/f42/language/ja) | 1330 | 1955 | 68.0 | /mnt/stockage/packages/f42/minicom/po/ja.po | 
+ | [cs](/f42/language/cs) | 1156 | 1955 | 59.1 | /mnt/stockage/packages/f42/minicom/po/cs.po | 
+ | [hu](/f42/language/hu) | 1105 | 1955 | 56.5 | /mnt/stockage/packages/f42/minicom/po/hu.po | 
+ | [rw](/f42/language/rw) | 12 | 1955 | 0.6 | /mnt/stockage/packages/f42/minicom/po/rw.po | 
 {.sortable}
 
 

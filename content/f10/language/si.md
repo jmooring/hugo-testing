@@ -38,176 +38,176 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [alacarte]({{< ref "/f10/package/alacarte.md" >}}) | 74 | 74 | 100.0 | Sinhala <en@li.org> | 
- | [compiz]({{< ref "/f10/package/compiz.md" >}}) | 66 | 66 | 100.0 | Sinhala <en@li.org> | 
- | [evolution]({{< ref "/f10/package/evolution.md" >}}) | 19927 | 19927 | 100.0 | Sinhalese <kde-i18n-doc@lists.kde.org> | 
- | [evolution-webcal]({{< ref "/f10/package/evolution-webcal.md" >}}) | 184 | 184 | 100.0 | Sinhala <en@li.org> | 
- | [gdm]({{< ref "/f10/package/gdm.md" >}}) | 610 | 610 | 100.0 | Sinhala <en@li.org> | 
- | [gnome-backgrounds]({{< ref "/f10/package/gnome-backgrounds.md" >}}) | 18 | 18 | 100.0 | Sinhala <en@li.org> | 
- | [gnome-desktop]({{< ref "/f10/package/gnome-desktop.md" >}}) | 330 | 330 | 100.0 | Sinhala <en@li.org> | 
- | [gnome-games]({{< ref "/f10/package/gnome-games.md" >}}) | 7203 | 7203 | 100.0 | Sinhala <en@li.org> | 
- | [gnome-icon-theme]({{< ref "/f10/package/gnome-icon-theme.md" >}}) | 49 | 49 | 100.0 | Sinhala <en@li.org> | 
- | [gnome-mag]({{< ref "/f10/package/gnome-mag.md" >}}) | 5 | 5 | 100.0 | Sinhala <en@li.org> | 
- | [gnome-menus]({{< ref "/f10/package/gnome-menus.md" >}}) | 165 | 165 | 100.0 | Sinhala <en@li.org> | 
- | [gnome-session]({{< ref "/f10/package/gnome-session.md" >}}) | 811 | 811 | 100.0 | Sinhala <en@li.org> | 
- | [gnome-themes]({{< ref "/f10/package/gnome-themes.md" >}}) | 80 | 80 | 100.0 | Sinhala <en@li.org> | 
- | [gtk2-engines]({{< ref "/f10/package/gtk2-engines.md" >}}) | 83 | 83 | 100.0 | Sinhala <en@li.org> | 
- | [hwbrowser]({{< ref "/f10/package/hwbrowser.md" >}}) | 116 | 116 | 100.0 | Sinhala <en@li.org> | 
- | [kexec-tools]({{< ref "/f10/package/kexec-tools.md" >}}) | 206 | 206 | 100.0 | Sinhala <en@li.org> | 
- | [libgnomekbd]({{< ref "/f10/package/libgnomekbd.md" >}}) | 262 | 262 | 100.0 | Sinhala <en@li.org> | 
- | [libgnomeprint22]({{< ref "/f10/package/libgnomeprint22.md" >}}) | 168 | 168 | 100.0 | Sinhala <en@li.org> | 
- | [libwnck]({{< ref "/f10/package/libwnck.md" >}}) | 87 | 87 | 100.0 | Sinhala <en@li.org> | 
- | [libxfce4util]({{< ref "/f10/package/libxfce4util.md" >}}) | 413 | 413 | 100.0 | Sinhala <en@li.org> | 
- | [libxfcegui4]({{< ref "/f10/package/libxfcegui4.md" >}}) | 81 | 81 | 100.0 | Sinhala <en@li.org> | 
- | [lxmenu-data]({{< ref "/f10/package/lxmenu-data.md" >}}) | 97 | 97 | 100.0 | Sinhala <en@li.org> | 
- | [mousepad]({{< ref "/f10/package/mousepad.md" >}}) | 135 | 135 | 100.0 | Sinhala <rashan.uoc@gmail.com> | 
- | [orca]({{< ref "/f10/package/orca.md" >}}) | 2500 | 2500 | 100.0 | Sinhalese <kde-i18n-doc@lists.kde.org> | 
- | [publican-fedora]({{< ref "/f10/package/publican-fedora.md" >}}) | 107 | 107 | 100.0 | Sinhala <en@li.org> | 
- | [publican-ovirt]({{< ref "/f10/package/publican-ovirt.md" >}}) | 288 | 288 | 100.0 | Sinhala <en@li.org> | 
- | [redhat-menus]({{< ref "/f10/package/redhat-menus.md" >}}) | 261 | 261 | 100.0 | Sinhala <en@li.org> | 
- | [rhpl]({{< ref "/f10/package/rhpl.md" >}}) | 185 | 185 | 100.0 | Sinhala <en@li.org> | 
- | [sugar-browse]({{< ref "/f10/package/sugar-browse.md" >}}) | 52 | 52 | 100.0 | LANGUAGE <LL@li.org> | 
- | [sugar-chat]({{< ref "/f10/package/sugar-chat.md" >}}) | 21 | 21 | 100.0 | LANGUAGE <LL@li.org> | 
- | [sugar-memorize]({{< ref "/f10/package/sugar-memorize.md" >}}) | 50 | 50 | 100.0 | LANGUAGE <LL@li.org> | 
- | [sugar-pippy]({{< ref "/f10/package/sugar-pippy.md" >}}) | 52 | 52 | 100.0 | Sinhalese <en@li.org> | 
- | [sugar-record]({{< ref "/f10/package/sugar-record.md" >}}) | 137 | 137 | 100.0 | LANGUAGE <LL@li.org> | 
- | [sugar-toolkit]({{< ref "/f10/package/sugar-toolkit.md" >}}) | 59 | 59 | 100.0 | LANGUAGE <LL@li.org> | 
- | [system-config-keyboard]({{< ref "/f10/package/system-config-keyboard.md" >}}) | 78 | 78 | 100.0 | Sinhala <en@li.org> | 
- | [system-switch-mail]({{< ref "/f10/package/system-switch-mail.md" >}}) | 134 | 134 | 100.0 | Sinhala <en@li.org> | 
- | [vinagre]({{< ref "/f10/package/vinagre.md" >}}) | 426 | 426 | 100.0 |  | 
- | [vte]({{< ref "/f10/package/vte.md" >}}) | 108 | 108 | 100.0 | Sinhala <en@li.org> | 
- | [xfce-mcs-manager]({{< ref "/f10/package/xfce-mcs-manager.md" >}}) | 30 | 30 | 100.0 | Sinhala <si@li.org> | 
- | [xfce-mcs-plugins]({{< ref "/f10/package/xfce-mcs-plugins.md" >}}) | 540 | 540 | 100.0 | Sinhala <si@li.org> | 
- | [xfce-utils]({{< ref "/f10/package/xfce-utils.md" >}}) | 119 | 119 | 100.0 | Sinhala <si@li.org> | 
- | [xfce4-appfinder]({{< ref "/f10/package/xfce4-appfinder.md" >}}) | 48 | 48 | 100.0 | Sinhala <si@li.org> | 
- | [xfce4-icon-theme]({{< ref "/f10/package/xfce4-icon-theme.md" >}}) | 8 | 8 | 100.0 | Sinhala <si@li.org> | 
- | [xfce4-mixer]({{< ref "/f10/package/xfce4-mixer.md" >}}) | 226 | 226 | 100.0 | Sinhala <si@li.org> | 
- | [xfce4-panel]({{< ref "/f10/package/xfce4-panel.md" >}}) | 578 | 578 | 100.0 | Sinhala <si@li.org> | 
- | [xfce4-session]({{< ref "/f10/package/xfce4-session.md" >}}) | 738 | 738 | 100.0 | Sinhala <si@li.org> | 
- | [xfprint]({{< ref "/f10/package/xfprint.md" >}}) | 323 | 323 | 100.0 | Sinhala <si@li.org> | 
- | [zenity]({{< ref "/f10/package/zenity.md" >}}) | 559 | 559 | 100.0 | American English <kde-i18n-doc@lists.kde.org> | 
- | [sugar]({{< ref "/f10/package/sugar.md" >}}) | 200 | 205 | 97.6 | LANGUAGE <LL@li.org> | 
- | [system-config-date]({{< ref "/f10/package/system-config-date.md" >}}) | 977 | 1022 | 95.6 | Sinhala <en@li.org> | 
- | [sugar-journal]({{< ref "/f10/package/sugar-journal.md" >}}) | 37 | 39 | 94.9 | LANGUAGE <LL@li.org> | 
- | [sugar-update-control]({{< ref "/f10/package/sugar-update-control.md" >}}) | 149 | 159 | 93.7 | LANGUAGE <LL@li.org> | 
- | [libgnomeprintui22]({{< ref "/f10/package/libgnomeprintui22.md" >}}) | 448 | 481 | 93.1 | Sinhala <en@li.org> | 
- | [system-config-netboot]({{< ref "/f10/package/system-config-netboot.md" >}}) | 994 | 1103 | 90.1 | Sinhala <en@li.org> | 
- | [system-config-boot]({{< ref "/f10/package/system-config-boot.md" >}}) | 41 | 46 | 89.1 | Sinhala <en@li.org> | 
- | [libgweather]({{< ref "/f10/package/libgweather.md" >}}) | 6309 | 7283 | 86.6 | Sinhala <en@li.org> | 
- | [pam]({{< ref "/f10/package/pam.md" >}}) | 445 | 517 | 86.1 | Sinhala <en@li.org> | 
- | [system-config-samba]({{< ref "/f10/package/system-config-samba.md" >}}) | 361 | 422 | 85.5 | Sinhala <en@li.org> | 
- | [gnome-keyring-manager]({{< ref "/f10/package/gnome-keyring-manager.md" >}}) | 233 | 284 | 82.0 | Sinhala <en@li.org> | 
- | [gnome-build]({{< ref "/f10/package/gnome-build.md" >}}) | 344 | 422 | 81.5 | Sinhala <en@li.org> | 
- | [eel2]({{< ref "/f10/package/eel2.md" >}}) | 190 | 235 | 80.9 | Sinhala <en@li.org> | 
- | [gparted]({{< ref "/f10/package/gparted.md" >}}) | 892 | 1274 | 70.0 | Sinhala <en@li.org> | 
- | [sound-juicer]({{< ref "/f10/package/sound-juicer.md" >}}) | 602 | 861 | 69.9 | Sinhala <en@li.org> | 
- | [sugar-playgo]({{< ref "/f10/package/sugar-playgo.md" >}}) | 57 | 85 | 67.1 | LANGUAGE <LL@li.org> | 
- | [totem]({{< ref "/f10/package/totem.md" >}}) | 1160 | 1838 | 63.1 | Sinhala <en@li.org> | 
- | [totem-pl-parser]({{< ref "/f10/package/totem-pl-parser.md" >}}) | 1160 | 1838 | 63.1 | Sinhala <en@li.org> | 
- | [gnome-screensaver]({{< ref "/f10/package/gnome-screensaver.md" >}}) | 605 | 972 | 62.2 | Sinhala <en@li.org> | 
- | [system-config-users]({{< ref "/f10/package/system-config-users.md" >}}) | 829 | 1337 | 62.0 | Sinhala <en@li.org> | 
- | [deskbar-applet]({{< ref "/f10/package/deskbar-applet.md" >}}) | 451 | 734 | 61.4 | Sinhala <en@li.org> | 
- | [file-roller]({{< ref "/f10/package/file-roller.md" >}}) | 651 | 1068 | 61.0 | Sinhala <en@li.org> | 
- | [gnome-utils]({{< ref "/f10/package/gnome-utils.md" >}}) | 2452 | 4143 | 59.2 |  | 
- | [vino]({{< ref "/f10/package/vino.md" >}}) | 479 | 816 | 58.7 | Sinhala <en@li.org> | 
- | [anaconda]({{< ref "/f10/package/anaconda.md" >}}) | 5835 | 10416 | 56.0 | Sinhala <en@li.org> | 
- | [nautilus-cd-burner]({{< ref "/f10/package/nautilus-cd-burner.md" >}}) | 636 | 1306 | 48.7 | Sinhala <en@li.org> | 
- | [gnome-keyring]({{< ref "/f10/package/gnome-keyring.md" >}}) | 340 | 711 | 47.8 | Sinhala <en@li.org> | 
- | [system-config-display]({{< ref "/f10/package/system-config-display.md" >}}) | 190 | 398 | 47.7 | Sinhala <en@li.org> | 
- | [gnome-applets]({{< ref "/f10/package/gnome-applets.md" >}}) | 1619 | 3744 | 43.2 | Sinhala <en@li.org> | 
- | [nautilus]({{< ref "/f10/package/nautilus.md" >}}) | 2963 | 6914 | 42.9 | Sinhalese <kde-i18n-doc@lists.kde.org> | 
- | [sugar-write]({{< ref "/f10/package/sugar-write.md" >}}) | 29 | 69 | 42.0 | LANGUAGE <LL@li.org> | 
- | [etoys]({{< ref "/f10/package/etoys.md" >}}) | 11285 | 27689 | 40.8 | Sinhalese <en@li.org> | 
- | [ntfs-config]({{< ref "/f10/package/ntfs-config.md" >}}) | 143 | 357 | 40.1 | Sinhalese <si@li.org> | 
- | [tomboy]({{< ref "/f10/package/tomboy.md" >}}) | 774 | 1953 | 39.6 | Sinhala <en@li.org> | 
- | [gedit]({{< ref "/f10/package/gedit.md" >}}) | 1941 | 5063 | 38.3 | Sinhala <en@li.org> | 
- | [sahana]({{< ref "/f10/package/sahana.md" >}}) | 11657 | 31026 | 37.6 | LANGUAGE <sahana.lk> | 
- | [eog]({{< ref "/f10/package/eog.md" >}}) | 357 | 956 | 37.3 | Sinhala <en@li.org> | 
- | [anjuta]({{< ref "/f10/package/anjuta.md" >}}) | 2659 | 7280 | 36.5 | Sinhala <en@li.org> | 
- | [gnome-media]({{< ref "/f10/package/gnome-media.md" >}}) | 655 | 1923 | 34.1 | Sinhala <en@li.org> | 
- | [gtk2]({{< ref "/f10/package/gtk2.md" >}}) | 4129 | 12760 | 32.4 | Sinhala <en@li.org> | 
- | [gnome-system-monitor]({{< ref "/f10/package/gnome-system-monitor.md" >}}) | 258 | 839 | 30.8 | Sinhala <en@li.org> | 
- | [gnome-volume-manager]({{< ref "/f10/package/gnome-volume-manager.md" >}}) | 375 | 1221 | 30.7 | LANGUAGE <LL@li.org> | 
- | [mingw32-gtk2]({{< ref "/f10/package/mingw32-gtk2.md" >}}) | 3486 | 12400 | 28.1 | Sinhala <en@li.org> | 
- | [libgdl]({{< ref "/f10/package/libgdl.md" >}}) | 160 | 612 | 26.1 | Sinhala <en@li.org> | 
- | [system-config-lvm]({{< ref "/f10/package/system-config-lvm.md" >}}) | 560 | 2236 | 25.0 | Sinhala <en@li.org> | 
- | [system-config-network]({{< ref "/f10/package/system-config-network.md" >}}) | 702 | 2894 | 24.3 | Sinhala <en@li.org> | 
- | [gnome-panel]({{< ref "/f10/package/gnome-panel.md" >}}) | 967 | 4191 | 23.1 | Sinhala <en@li.org> | 
- | [firstboot]({{< ref "/f10/package/firstboot.md" >}}) | 137 | 604 | 22.7 | Sinhala <en@li.org> | 
- | [evince]({{< ref "/f10/package/evince.md" >}}) | 219 | 1004 | 21.8 | Sinhala <en@li.org> | 
- | [dasher]({{< ref "/f10/package/dasher.md" >}}) | 95 | 443 | 21.4 | Sinhala <en@li.org> | 
- | [authconfig]({{< ref "/f10/package/authconfig.md" >}}) | 276 | 1351 | 20.4 | Sinhala <en@li.org> | 
- | [system-config-nfs]({{< ref "/f10/package/system-config-nfs.md" >}}) | 306 | 1517 | 20.2 | LANGUAGE <LL@li.org> | 
- | [gcalctool]({{< ref "/f10/package/gcalctool.md" >}}) | 207 | 1045 | 19.8 | Sinhala <en@li.org> | 
- | [libbonoboui]({{< ref "/f10/package/libbonoboui.md" >}}) | 63 | 361 | 17.5 | Sinhala <en@li.org> | 
- | [gnome-terminal]({{< ref "/f10/package/gnome-terminal.md" >}}) | 793 | 4599 | 17.2 | Sinhala <en@li.org> | 
- | [glib2]({{< ref "/f10/package/glib2.md" >}}) | 367 | 2197 | 16.7 | Sinhala <en@li.org> | 
- | [mingw32-glib2]({{< ref "/f10/package/mingw32-glib2.md" >}}) | 367 | 2325 | 15.8 | Sinhala <en@li.org> | 
- | [system-config-httpd]({{< ref "/f10/package/system-config-httpd.md" >}}) | 134 | 858 | 15.6 | Sinhala <en@li.org> | 
- | [libvirt]({{< ref "/f10/package/libvirt.md" >}}) | 1224 | 8225 | 14.9 | none | 
- | [gtksourceview2]({{< ref "/f10/package/gtksourceview2.md" >}}) | 117 | 826 | 14.2 | Sinhala <en@li.org> | 
- | [libgnomeui]({{< ref "/f10/package/libgnomeui.md" >}}) | 179 | 1335 | 13.4 | Sinhala <en@li.org> | 
- | [gtkhtml3]({{< ref "/f10/package/gtkhtml3.md" >}}) | 99 | 914 | 10.8 | Sinhala <en@li.org> | 
- | [gconf-editor]({{< ref "/f10/package/gconf-editor.md" >}}) | 34 | 329 | 10.3 | Sinhala <en@li.org> | 
- | [atk]({{< ref "/f10/package/atk.md" >}}) | 38 | 370 | 10.3 | Sinhala <en@li.org> | 
- | [control-center]({{< ref "/f10/package/control-center.md" >}}) | 377 | 3697 | 10.2 | Sinhala <en@li.org> | 
- | [mingw32-atk]({{< ref "/f10/package/mingw32-atk.md" >}}) | 38 | 375 | 10.1 | Sinhala <en@li.org> | 
- | [gnome-nettool]({{< ref "/f10/package/gnome-nettool.md" >}}) | 48 | 540 | 8.9 | Sinhala <en@li.org> | 
- | [pidgin]({{< ref "/f10/package/pidgin.md" >}}) | 1514 | 17989 | 8.4 | Sinhala <sinhala@linux.lk> | 
- | [yelp]({{< ref "/f10/package/yelp.md" >}}) | 84 | 1009 | 8.3 | Sinhala <en@li.org> | 
- | [system-config-firewall]({{< ref "/f10/package/system-config-firewall.md" >}}) | 188 | 2497 | 7.5 | Sinhala <en@li.org> | 
- | [glade3]({{< ref "/f10/package/glade3.md" >}}) | 222 | 3197 | 6.9 | Sinhala <en@li.org> | 
- | [im-chooser]({{< ref "/f10/package/im-chooser.md" >}}) | 10 | 152 | 6.6 | Sinhala <en@li.org> | 
- | [system-config-services]({{< ref "/f10/package/system-config-services.md" >}}) | 24 | 384 | 6.2 | Sinhala <en@li.org> | 
- | [gucharmap]({{< ref "/f10/package/gucharmap.md" >}}) | 45 | 776 | 5.8 | Sinhala <en@li.org> | 
- | [usermode]({{< ref "/f10/package/usermode.md" >}}) | 31 | 564 | 5.5 | Sinhala <en@li.org> | 
- | [bug-buddy]({{< ref "/f10/package/bug-buddy.md" >}}) | 49 | 930 | 5.3 | Sinhala <en@li.org> | 
- | [epiphany]({{< ref "/f10/package/epiphany.md" >}}) | 197 | 4061 | 4.9 | Sinhala <en@li.org> | 
- | [stellarium]({{< ref "/f10/package/stellarium.md" >}}) | 104 | 2409 | 4.3 | Sinhalese <si@li.org> | 
- | [gnome-power-manager]({{< ref "/f10/package/gnome-power-manager.md" >}}) | 143 | 3437 | 4.2 | Sinhala <en@li.org> | 
- | [evolution-exchange]({{< ref "/f10/package/evolution-exchange.md" >}}) | 54 | 1307 | 4.1 | Sinhala <en@li.org> | 
- | [seahorse]({{< ref "/f10/package/seahorse.md" >}}) | 130 | 3630 | 3.6 | Sinhala <en@li.org> | 
- | [seahorse-plugins]({{< ref "/f10/package/seahorse-plugins.md" >}}) | 130 | 3630 | 3.6 | Sinhala <en@li.org> | 
- | [gok]({{< ref "/f10/package/gok.md" >}}) | 62 | 1942 | 3.2 | Sinhala <en@li.org> | 
- | [evolution-data-server]({{< ref "/f10/package/evolution-data-server.md" >}}) | 146 | 5037 | 2.9 | Sinhala <en@li.org> | 
- | [gnome-settings-daemon]({{< ref "/f10/package/gnome-settings-daemon.md" >}}) | 21 | 1034 | 2.0 | Sinhala <en@li.org> | 
- | [Miro]({{< ref "/f10/package/Miro.md" >}}) | 47 | 2661 | 1.8 | Sinhalese <si@li.org> | 
- | [ekiga]({{< ref "/f10/package/ekiga.md" >}}) | 83 | 5145 | 1.6 | Sinhala <en@li.org> | 
- | [libgnome]({{< ref "/f10/package/libgnome.md" >}}) | 16 | 1653 | 1.0 | Sinhala <en@li.org> | 
- | [system-config-printer]({{< ref "/f10/package/system-config-printer.md" >}}) | 28 | 3005 | 0.9 | Sinhala <en@li.org> | 
- | [metacity]({{< ref "/f10/package/metacity.md" >}}) | 75 | 8059 | 0.9 | Sinhala <en@li.org> | 
- | [system-config-bind]({{< ref "/f10/package/system-config-bind.md" >}}) | 58 | 9419 | 0.6 | Sinhala <en@li.org> | 
- | [GConf2]({{< ref "/f10/package/GConf2.md" >}}) | 22 | 4032 | 0.5 | Sinhala <en@li.org> | 
- | [publican]({{< ref "/f10/package/publican.md" >}}) | 14 | 6588 | 0.2 | Sinhala <en@li.org> | 
- | [chkconfig]({{< ref "/f10/package/chkconfig.md" >}}) | 0 | 430 | 0.0 | none | 
- | [deluge]({{< ref "/f10/package/deluge.md" >}}) | 0 | 1998 | 0.0 | Sinhalese <si@li.org> | 
- | [imsettings]({{< ref "/f10/package/imsettings.md" >}}) | 0 | 849 | 0.0 | Sinhala <en@li.org> | 
- | [initscripts]({{< ref "/f10/package/initscripts.md" >}}) | 0 | 3871 | 0.0 | none | 
- | [knetworkmanager]({{< ref "/f10/package/knetworkmanager.md" >}}) | 0 | 408 | 0.0 | Sinhala <i18n@suse.de> | 
- | [libgxim]({{< ref "/f10/package/libgxim.md" >}}) | 0 | 130 | 0.0 | none | 
- | [passwd]({{< ref "/f10/package/passwd.md" >}}) | 0 | 291 | 0.0 | none | 
- | [policycoreutils]({{< ref "/f10/package/policycoreutils.md" >}}) | 0 | 4363 | 0.0 | LANGUAGE <LL@li.org> | 
- | [pykickstart]({{< ref "/f10/package/pykickstart.md" >}}) | 0 | 284 | 0.0 | LANGUAGE <LL@li.org> | 
- | [rhpxl]({{< ref "/f10/package/rhpxl.md" >}}) | 0 | 130 | 0.0 | none | 
- | [setroubleshoot]({{< ref "/f10/package/setroubleshoot.md" >}}) | 0 | 582 | 0.0 | LANGUAGE <LL@li.org> | 
- | [setroubleshoot-plugins]({{< ref "/f10/package/setroubleshoot-plugins.md" >}}) | 0 | 8276 | 0.0 | LANGUAGE <LL@li.org> | 
- | [setuptool]({{< ref "/f10/package/setuptool.md" >}}) | 0 | 60 | 0.0 | none | 
- | [specspo]({{< ref "/f10/package/specspo.md" >}}) | 0 | 305294 | 0.0 | none | 
- | [sugar-base]({{< ref "/f10/package/sugar-base.md" >}}) | 0 | 5 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-calculator]({{< ref "/f10/package/sugar-calculator.md" >}}) | 0 | 563 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-finance]({{< ref "/f10/package/sugar-finance.md" >}}) | 0 | 142 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-imageviewer]({{< ref "/f10/package/sugar-imageviewer.md" >}}) | 0 | 17 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-infoslicer]({{< ref "/f10/package/sugar-infoslicer.md" >}}) | 0 | 177 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-jukebox]({{< ref "/f10/package/sugar-jukebox.md" >}}) | 0 | 10 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-log]({{< ref "/f10/package/sugar-log.md" >}}) | 0 | 100 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-terminal]({{< ref "/f10/package/sugar-terminal.md" >}}) | 0 | 6 | 0.0 | LANGUAGE <LL@li.org> | 
- | [switchdesk]({{< ref "/f10/package/switchdesk.md" >}}) | 0 | 137 | 0.0 | none | 
- | [system-config-date-docs]({{< ref "/f10/package/system-config-date-docs.md" >}}) | 0 | 660 | 0.0 | LANGUAGE <LL@li.org> | 
- | [system-config-kdump]({{< ref "/f10/package/system-config-kdump.md" >}}) | 0 | 383 | 0.0 | LANGUAGE <LL@li.org> | 
- | [system-config-kickstart]({{< ref "/f10/package/system-config-kickstart.md" >}}) | 0 | 1054 | 0.0 | none | 
- | [system-config-language]({{< ref "/f10/package/system-config-language.md" >}}) | 0 | 49 | 0.0 | none | 
- | [system-config-rootpassword]({{< ref "/f10/package/system-config-rootpassword.md" >}}) | 0 | 116 | 0.0 | none | 
- | [system-config-users-docs]({{< ref "/f10/package/system-config-users-docs.md" >}}) | 0 | 1054 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [alacarte](/f10/package/alacarte) | 74 | 74 | 100.0 | Sinhala <en@li.org> | 
+ | [compiz](/f10/package/compiz) | 66 | 66 | 100.0 | Sinhala <en@li.org> | 
+ | [evolution](/f10/package/evolution) | 19927 | 19927 | 100.0 | Sinhalese <kde-i18n-doc@lists.kde.org> | 
+ | [evolution-webcal](/f10/package/evolution-webcal) | 184 | 184 | 100.0 | Sinhala <en@li.org> | 
+ | [gdm](/f10/package/gdm) | 610 | 610 | 100.0 | Sinhala <en@li.org> | 
+ | [gnome-backgrounds](/f10/package/gnome-backgrounds) | 18 | 18 | 100.0 | Sinhala <en@li.org> | 
+ | [gnome-desktop](/f10/package/gnome-desktop) | 330 | 330 | 100.0 | Sinhala <en@li.org> | 
+ | [gnome-games](/f10/package/gnome-games) | 7203 | 7203 | 100.0 | Sinhala <en@li.org> | 
+ | [gnome-icon-theme](/f10/package/gnome-icon-theme) | 49 | 49 | 100.0 | Sinhala <en@li.org> | 
+ | [gnome-mag](/f10/package/gnome-mag) | 5 | 5 | 100.0 | Sinhala <en@li.org> | 
+ | [gnome-menus](/f10/package/gnome-menus) | 165 | 165 | 100.0 | Sinhala <en@li.org> | 
+ | [gnome-session](/f10/package/gnome-session) | 811 | 811 | 100.0 | Sinhala <en@li.org> | 
+ | [gnome-themes](/f10/package/gnome-themes) | 80 | 80 | 100.0 | Sinhala <en@li.org> | 
+ | [gtk2-engines](/f10/package/gtk2-engines) | 83 | 83 | 100.0 | Sinhala <en@li.org> | 
+ | [hwbrowser](/f10/package/hwbrowser) | 116 | 116 | 100.0 | Sinhala <en@li.org> | 
+ | [kexec-tools](/f10/package/kexec-tools) | 206 | 206 | 100.0 | Sinhala <en@li.org> | 
+ | [libgnomekbd](/f10/package/libgnomekbd) | 262 | 262 | 100.0 | Sinhala <en@li.org> | 
+ | [libgnomeprint22](/f10/package/libgnomeprint22) | 168 | 168 | 100.0 | Sinhala <en@li.org> | 
+ | [libwnck](/f10/package/libwnck) | 87 | 87 | 100.0 | Sinhala <en@li.org> | 
+ | [libxfce4util](/f10/package/libxfce4util) | 413 | 413 | 100.0 | Sinhala <en@li.org> | 
+ | [libxfcegui4](/f10/package/libxfcegui4) | 81 | 81 | 100.0 | Sinhala <en@li.org> | 
+ | [lxmenu-data](/f10/package/lxmenu-data) | 97 | 97 | 100.0 | Sinhala <en@li.org> | 
+ | [mousepad](/f10/package/mousepad) | 135 | 135 | 100.0 | Sinhala <rashan.uoc@gmail.com> | 
+ | [orca](/f10/package/orca) | 2500 | 2500 | 100.0 | Sinhalese <kde-i18n-doc@lists.kde.org> | 
+ | [publican-fedora](/f10/package/publican-fedora) | 107 | 107 | 100.0 | Sinhala <en@li.org> | 
+ | [publican-ovirt](/f10/package/publican-ovirt) | 288 | 288 | 100.0 | Sinhala <en@li.org> | 
+ | [redhat-menus](/f10/package/redhat-menus) | 261 | 261 | 100.0 | Sinhala <en@li.org> | 
+ | [rhpl](/f10/package/rhpl) | 185 | 185 | 100.0 | Sinhala <en@li.org> | 
+ | [sugar-browse](/f10/package/sugar-browse) | 52 | 52 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-chat](/f10/package/sugar-chat) | 21 | 21 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-memorize](/f10/package/sugar-memorize) | 50 | 50 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-pippy](/f10/package/sugar-pippy) | 52 | 52 | 100.0 | Sinhalese <en@li.org> | 
+ | [sugar-record](/f10/package/sugar-record) | 137 | 137 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-toolkit](/f10/package/sugar-toolkit) | 59 | 59 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [system-config-keyboard](/f10/package/system-config-keyboard) | 78 | 78 | 100.0 | Sinhala <en@li.org> | 
+ | [system-switch-mail](/f10/package/system-switch-mail) | 134 | 134 | 100.0 | Sinhala <en@li.org> | 
+ | [vinagre](/f10/package/vinagre) | 426 | 426 | 100.0 |  | 
+ | [vte](/f10/package/vte) | 108 | 108 | 100.0 | Sinhala <en@li.org> | 
+ | [xfce-mcs-manager](/f10/package/xfce-mcs-manager) | 30 | 30 | 100.0 | Sinhala <si@li.org> | 
+ | [xfce-mcs-plugins](/f10/package/xfce-mcs-plugins) | 540 | 540 | 100.0 | Sinhala <si@li.org> | 
+ | [xfce-utils](/f10/package/xfce-utils) | 119 | 119 | 100.0 | Sinhala <si@li.org> | 
+ | [xfce4-appfinder](/f10/package/xfce4-appfinder) | 48 | 48 | 100.0 | Sinhala <si@li.org> | 
+ | [xfce4-icon-theme](/f10/package/xfce4-icon-theme) | 8 | 8 | 100.0 | Sinhala <si@li.org> | 
+ | [xfce4-mixer](/f10/package/xfce4-mixer) | 226 | 226 | 100.0 | Sinhala <si@li.org> | 
+ | [xfce4-panel](/f10/package/xfce4-panel) | 578 | 578 | 100.0 | Sinhala <si@li.org> | 
+ | [xfce4-session](/f10/package/xfce4-session) | 738 | 738 | 100.0 | Sinhala <si@li.org> | 
+ | [xfprint](/f10/package/xfprint) | 323 | 323 | 100.0 | Sinhala <si@li.org> | 
+ | [zenity](/f10/package/zenity) | 559 | 559 | 100.0 | American English <kde-i18n-doc@lists.kde.org> | 
+ | [sugar](/f10/package/sugar) | 200 | 205 | 97.6 | LANGUAGE <LL@li.org> | 
+ | [system-config-date](/f10/package/system-config-date) | 977 | 1022 | 95.6 | Sinhala <en@li.org> | 
+ | [sugar-journal](/f10/package/sugar-journal) | 37 | 39 | 94.9 | LANGUAGE <LL@li.org> | 
+ | [sugar-update-control](/f10/package/sugar-update-control) | 149 | 159 | 93.7 | LANGUAGE <LL@li.org> | 
+ | [libgnomeprintui22](/f10/package/libgnomeprintui22) | 448 | 481 | 93.1 | Sinhala <en@li.org> | 
+ | [system-config-netboot](/f10/package/system-config-netboot) | 994 | 1103 | 90.1 | Sinhala <en@li.org> | 
+ | [system-config-boot](/f10/package/system-config-boot) | 41 | 46 | 89.1 | Sinhala <en@li.org> | 
+ | [libgweather](/f10/package/libgweather) | 6309 | 7283 | 86.6 | Sinhala <en@li.org> | 
+ | [pam](/f10/package/pam) | 445 | 517 | 86.1 | Sinhala <en@li.org> | 
+ | [system-config-samba](/f10/package/system-config-samba) | 361 | 422 | 85.5 | Sinhala <en@li.org> | 
+ | [gnome-keyring-manager](/f10/package/gnome-keyring-manager) | 233 | 284 | 82.0 | Sinhala <en@li.org> | 
+ | [gnome-build](/f10/package/gnome-build) | 344 | 422 | 81.5 | Sinhala <en@li.org> | 
+ | [eel2](/f10/package/eel2) | 190 | 235 | 80.9 | Sinhala <en@li.org> | 
+ | [gparted](/f10/package/gparted) | 892 | 1274 | 70.0 | Sinhala <en@li.org> | 
+ | [sound-juicer](/f10/package/sound-juicer) | 602 | 861 | 69.9 | Sinhala <en@li.org> | 
+ | [sugar-playgo](/f10/package/sugar-playgo) | 57 | 85 | 67.1 | LANGUAGE <LL@li.org> | 
+ | [totem](/f10/package/totem) | 1160 | 1838 | 63.1 | Sinhala <en@li.org> | 
+ | [totem-pl-parser](/f10/package/totem-pl-parser) | 1160 | 1838 | 63.1 | Sinhala <en@li.org> | 
+ | [gnome-screensaver](/f10/package/gnome-screensaver) | 605 | 972 | 62.2 | Sinhala <en@li.org> | 
+ | [system-config-users](/f10/package/system-config-users) | 829 | 1337 | 62.0 | Sinhala <en@li.org> | 
+ | [deskbar-applet](/f10/package/deskbar-applet) | 451 | 734 | 61.4 | Sinhala <en@li.org> | 
+ | [file-roller](/f10/package/file-roller) | 651 | 1068 | 61.0 | Sinhala <en@li.org> | 
+ | [gnome-utils](/f10/package/gnome-utils) | 2452 | 4143 | 59.2 |  | 
+ | [vino](/f10/package/vino) | 479 | 816 | 58.7 | Sinhala <en@li.org> | 
+ | [anaconda](/f10/package/anaconda) | 5835 | 10416 | 56.0 | Sinhala <en@li.org> | 
+ | [nautilus-cd-burner](/f10/package/nautilus-cd-burner) | 636 | 1306 | 48.7 | Sinhala <en@li.org> | 
+ | [gnome-keyring](/f10/package/gnome-keyring) | 340 | 711 | 47.8 | Sinhala <en@li.org> | 
+ | [system-config-display](/f10/package/system-config-display) | 190 | 398 | 47.7 | Sinhala <en@li.org> | 
+ | [gnome-applets](/f10/package/gnome-applets) | 1619 | 3744 | 43.2 | Sinhala <en@li.org> | 
+ | [nautilus](/f10/package/nautilus) | 2963 | 6914 | 42.9 | Sinhalese <kde-i18n-doc@lists.kde.org> | 
+ | [sugar-write](/f10/package/sugar-write) | 29 | 69 | 42.0 | LANGUAGE <LL@li.org> | 
+ | [etoys](/f10/package/etoys) | 11285 | 27689 | 40.8 | Sinhalese <en@li.org> | 
+ | [ntfs-config](/f10/package/ntfs-config) | 143 | 357 | 40.1 | Sinhalese <si@li.org> | 
+ | [tomboy](/f10/package/tomboy) | 774 | 1953 | 39.6 | Sinhala <en@li.org> | 
+ | [gedit](/f10/package/gedit) | 1941 | 5063 | 38.3 | Sinhala <en@li.org> | 
+ | [sahana](/f10/package/sahana) | 11657 | 31026 | 37.6 | LANGUAGE <sahana.lk> | 
+ | [eog](/f10/package/eog) | 357 | 956 | 37.3 | Sinhala <en@li.org> | 
+ | [anjuta](/f10/package/anjuta) | 2659 | 7280 | 36.5 | Sinhala <en@li.org> | 
+ | [gnome-media](/f10/package/gnome-media) | 655 | 1923 | 34.1 | Sinhala <en@li.org> | 
+ | [gtk2](/f10/package/gtk2) | 4129 | 12760 | 32.4 | Sinhala <en@li.org> | 
+ | [gnome-system-monitor](/f10/package/gnome-system-monitor) | 258 | 839 | 30.8 | Sinhala <en@li.org> | 
+ | [gnome-volume-manager](/f10/package/gnome-volume-manager) | 375 | 1221 | 30.7 | LANGUAGE <LL@li.org> | 
+ | [mingw32-gtk2](/f10/package/mingw32-gtk2) | 3486 | 12400 | 28.1 | Sinhala <en@li.org> | 
+ | [libgdl](/f10/package/libgdl) | 160 | 612 | 26.1 | Sinhala <en@li.org> | 
+ | [system-config-lvm](/f10/package/system-config-lvm) | 560 | 2236 | 25.0 | Sinhala <en@li.org> | 
+ | [system-config-network](/f10/package/system-config-network) | 702 | 2894 | 24.3 | Sinhala <en@li.org> | 
+ | [gnome-panel](/f10/package/gnome-panel) | 967 | 4191 | 23.1 | Sinhala <en@li.org> | 
+ | [firstboot](/f10/package/firstboot) | 137 | 604 | 22.7 | Sinhala <en@li.org> | 
+ | [evince](/f10/package/evince) | 219 | 1004 | 21.8 | Sinhala <en@li.org> | 
+ | [dasher](/f10/package/dasher) | 95 | 443 | 21.4 | Sinhala <en@li.org> | 
+ | [authconfig](/f10/package/authconfig) | 276 | 1351 | 20.4 | Sinhala <en@li.org> | 
+ | [system-config-nfs](/f10/package/system-config-nfs) | 306 | 1517 | 20.2 | LANGUAGE <LL@li.org> | 
+ | [gcalctool](/f10/package/gcalctool) | 207 | 1045 | 19.8 | Sinhala <en@li.org> | 
+ | [libbonoboui](/f10/package/libbonoboui) | 63 | 361 | 17.5 | Sinhala <en@li.org> | 
+ | [gnome-terminal](/f10/package/gnome-terminal) | 793 | 4599 | 17.2 | Sinhala <en@li.org> | 
+ | [glib2](/f10/package/glib2) | 367 | 2197 | 16.7 | Sinhala <en@li.org> | 
+ | [mingw32-glib2](/f10/package/mingw32-glib2) | 367 | 2325 | 15.8 | Sinhala <en@li.org> | 
+ | [system-config-httpd](/f10/package/system-config-httpd) | 134 | 858 | 15.6 | Sinhala <en@li.org> | 
+ | [libvirt](/f10/package/libvirt) | 1224 | 8225 | 14.9 | none | 
+ | [gtksourceview2](/f10/package/gtksourceview2) | 117 | 826 | 14.2 | Sinhala <en@li.org> | 
+ | [libgnomeui](/f10/package/libgnomeui) | 179 | 1335 | 13.4 | Sinhala <en@li.org> | 
+ | [gtkhtml3](/f10/package/gtkhtml3) | 99 | 914 | 10.8 | Sinhala <en@li.org> | 
+ | [gconf-editor](/f10/package/gconf-editor) | 34 | 329 | 10.3 | Sinhala <en@li.org> | 
+ | [atk](/f10/package/atk) | 38 | 370 | 10.3 | Sinhala <en@li.org> | 
+ | [control-center](/f10/package/control-center) | 377 | 3697 | 10.2 | Sinhala <en@li.org> | 
+ | [mingw32-atk](/f10/package/mingw32-atk) | 38 | 375 | 10.1 | Sinhala <en@li.org> | 
+ | [gnome-nettool](/f10/package/gnome-nettool) | 48 | 540 | 8.9 | Sinhala <en@li.org> | 
+ | [pidgin](/f10/package/pidgin) | 1514 | 17989 | 8.4 | Sinhala <sinhala@linux.lk> | 
+ | [yelp](/f10/package/yelp) | 84 | 1009 | 8.3 | Sinhala <en@li.org> | 
+ | [system-config-firewall](/f10/package/system-config-firewall) | 188 | 2497 | 7.5 | Sinhala <en@li.org> | 
+ | [glade3](/f10/package/glade3) | 222 | 3197 | 6.9 | Sinhala <en@li.org> | 
+ | [im-chooser](/f10/package/im-chooser) | 10 | 152 | 6.6 | Sinhala <en@li.org> | 
+ | [system-config-services](/f10/package/system-config-services) | 24 | 384 | 6.2 | Sinhala <en@li.org> | 
+ | [gucharmap](/f10/package/gucharmap) | 45 | 776 | 5.8 | Sinhala <en@li.org> | 
+ | [usermode](/f10/package/usermode) | 31 | 564 | 5.5 | Sinhala <en@li.org> | 
+ | [bug-buddy](/f10/package/bug-buddy) | 49 | 930 | 5.3 | Sinhala <en@li.org> | 
+ | [epiphany](/f10/package/epiphany) | 197 | 4061 | 4.9 | Sinhala <en@li.org> | 
+ | [stellarium](/f10/package/stellarium) | 104 | 2409 | 4.3 | Sinhalese <si@li.org> | 
+ | [gnome-power-manager](/f10/package/gnome-power-manager) | 143 | 3437 | 4.2 | Sinhala <en@li.org> | 
+ | [evolution-exchange](/f10/package/evolution-exchange) | 54 | 1307 | 4.1 | Sinhala <en@li.org> | 
+ | [seahorse](/f10/package/seahorse) | 130 | 3630 | 3.6 | Sinhala <en@li.org> | 
+ | [seahorse-plugins](/f10/package/seahorse-plugins) | 130 | 3630 | 3.6 | Sinhala <en@li.org> | 
+ | [gok](/f10/package/gok) | 62 | 1942 | 3.2 | Sinhala <en@li.org> | 
+ | [evolution-data-server](/f10/package/evolution-data-server) | 146 | 5037 | 2.9 | Sinhala <en@li.org> | 
+ | [gnome-settings-daemon](/f10/package/gnome-settings-daemon) | 21 | 1034 | 2.0 | Sinhala <en@li.org> | 
+ | [Miro](/f10/package/Miro) | 47 | 2661 | 1.8 | Sinhalese <si@li.org> | 
+ | [ekiga](/f10/package/ekiga) | 83 | 5145 | 1.6 | Sinhala <en@li.org> | 
+ | [libgnome](/f10/package/libgnome) | 16 | 1653 | 1.0 | Sinhala <en@li.org> | 
+ | [system-config-printer](/f10/package/system-config-printer) | 28 | 3005 | 0.9 | Sinhala <en@li.org> | 
+ | [metacity](/f10/package/metacity) | 75 | 8059 | 0.9 | Sinhala <en@li.org> | 
+ | [system-config-bind](/f10/package/system-config-bind) | 58 | 9419 | 0.6 | Sinhala <en@li.org> | 
+ | [GConf2](/f10/package/GConf2) | 22 | 4032 | 0.5 | Sinhala <en@li.org> | 
+ | [publican](/f10/package/publican) | 14 | 6588 | 0.2 | Sinhala <en@li.org> | 
+ | [chkconfig](/f10/package/chkconfig) | 0 | 430 | 0.0 | none | 
+ | [deluge](/f10/package/deluge) | 0 | 1998 | 0.0 | Sinhalese <si@li.org> | 
+ | [imsettings](/f10/package/imsettings) | 0 | 849 | 0.0 | Sinhala <en@li.org> | 
+ | [initscripts](/f10/package/initscripts) | 0 | 3871 | 0.0 | none | 
+ | [knetworkmanager](/f10/package/knetworkmanager) | 0 | 408 | 0.0 | Sinhala <i18n@suse.de> | 
+ | [libgxim](/f10/package/libgxim) | 0 | 130 | 0.0 | none | 
+ | [passwd](/f10/package/passwd) | 0 | 291 | 0.0 | none | 
+ | [policycoreutils](/f10/package/policycoreutils) | 0 | 4363 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [pykickstart](/f10/package/pykickstart) | 0 | 284 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [rhpxl](/f10/package/rhpxl) | 0 | 130 | 0.0 | none | 
+ | [setroubleshoot](/f10/package/setroubleshoot) | 0 | 582 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [setroubleshoot-plugins](/f10/package/setroubleshoot-plugins) | 0 | 8276 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [setuptool](/f10/package/setuptool) | 0 | 60 | 0.0 | none | 
+ | [specspo](/f10/package/specspo) | 0 | 305294 | 0.0 | none | 
+ | [sugar-base](/f10/package/sugar-base) | 0 | 5 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-calculator](/f10/package/sugar-calculator) | 0 | 563 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-finance](/f10/package/sugar-finance) | 0 | 142 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-imageviewer](/f10/package/sugar-imageviewer) | 0 | 17 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-infoslicer](/f10/package/sugar-infoslicer) | 0 | 177 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-jukebox](/f10/package/sugar-jukebox) | 0 | 10 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-log](/f10/package/sugar-log) | 0 | 100 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-terminal](/f10/package/sugar-terminal) | 0 | 6 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [switchdesk](/f10/package/switchdesk) | 0 | 137 | 0.0 | none | 
+ | [system-config-date-docs](/f10/package/system-config-date-docs) | 0 | 660 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [system-config-kdump](/f10/package/system-config-kdump) | 0 | 383 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [system-config-kickstart](/f10/package/system-config-kickstart) | 0 | 1054 | 0.0 | none | 
+ | [system-config-language](/f10/package/system-config-language) | 0 | 49 | 0.0 | none | 
+ | [system-config-rootpassword](/f10/package/system-config-rootpassword) | 0 | 116 | 0.0 | none | 
+ | [system-config-users-docs](/f10/package/system-config-users-docs) | 0 | 1054 | 0.0 | LANGUAGE <LL@li.org> | 
 {.sortable}
 
 
@@ -219,7 +219,7 @@ We use the po metadata to get the language code and the team, but sometimes it f
 
 | Package | Lang from file path/name | polib error | Team |
 |---------|--------------------------|-------------|------|
- | [gnome-utils]({{< ref "/f10/package/gnome-utils.md" >}}) | /mnt/stockage/packages/f10/gnome-utils/po/si.po | error-os |  | 
+ | [gnome-utils](/f10/package/gnome-utils) | /mnt/stockage/packages/f10/gnome-utils/po/si.po | error-os |  | 
 {.sortable}
 
 

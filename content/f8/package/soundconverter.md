@@ -18,16 +18,16 @@ The package soundconverter (version 0.9.7):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f8/language/cs.md" >}}) | 444 | 444 | 100.0 | /mnt/stockage/packages/f8/soundconverter/po/cs.po | 
- | [es]({{< ref "/f8/language/es.md" >}}) | 444 | 444 | 100.0 | /mnt/stockage/packages/f8/soundconverter/po/es.po | 
- | [fr]({{< ref "/f8/language/fr.md" >}}) | 444 | 444 | 100.0 | /mnt/stockage/packages/f8/soundconverter/po/fr.po | 
- | [it]({{< ref "/f8/language/it.md" >}}) | 444 | 444 | 100.0 | /mnt/stockage/packages/f8/soundconverter/po/it.po | 
- | [de]({{< ref "/f8/language/de.md" >}}) | 439 | 444 | 98.9 | /mnt/stockage/packages/f8/soundconverter/po/de.po | 
- | [ru]({{< ref "/f8/language/ru.md" >}}) | 435 | 444 | 98.0 | /mnt/stockage/packages/f8/soundconverter/po/ru.po | 
- | [pt_BR]({{< ref "/f8/language/pt_BR.md" >}}) | 405 | 444 | 91.2 | /mnt/stockage/packages/f8/soundconverter/po/pt_BR.po | 
- | [sv]({{< ref "/f8/language/sv.md" >}}) | 405 | 444 | 91.2 | /mnt/stockage/packages/f8/soundconverter/po/sv_SE.po | 
- | [hu]({{< ref "/f8/language/hu.md" >}}) | 387 | 444 | 87.2 | /mnt/stockage/packages/f8/soundconverter/po/hu.po | 
- | [pl]({{< ref "/f8/language/pl.md" >}}) | 368 | 444 | 82.9 | /mnt/stockage/packages/f8/soundconverter/po/pl.po | 
+ | [cs](/f8/language/cs) | 444 | 444 | 100.0 | /mnt/stockage/packages/f8/soundconverter/po/cs.po | 
+ | [es](/f8/language/es) | 444 | 444 | 100.0 | /mnt/stockage/packages/f8/soundconverter/po/es.po | 
+ | [fr](/f8/language/fr) | 444 | 444 | 100.0 | /mnt/stockage/packages/f8/soundconverter/po/fr.po | 
+ | [it](/f8/language/it) | 444 | 444 | 100.0 | /mnt/stockage/packages/f8/soundconverter/po/it.po | 
+ | [de](/f8/language/de) | 439 | 444 | 98.9 | /mnt/stockage/packages/f8/soundconverter/po/de.po | 
+ | [ru](/f8/language/ru) | 435 | 444 | 98.0 | /mnt/stockage/packages/f8/soundconverter/po/ru.po | 
+ | [pt_BR](/f8/language/pt_BR) | 405 | 444 | 91.2 | /mnt/stockage/packages/f8/soundconverter/po/pt_BR.po | 
+ | [sv](/f8/language/sv) | 405 | 444 | 91.2 | /mnt/stockage/packages/f8/soundconverter/po/sv_SE.po | 
+ | [hu](/f8/language/hu) | 387 | 444 | 87.2 | /mnt/stockage/packages/f8/soundconverter/po/hu.po | 
+ | [pl](/f8/language/pl) | 368 | 444 | 82.9 | /mnt/stockage/packages/f8/soundconverter/po/pl.po | 
 {.sortable}
 
 

@@ -18,21 +18,21 @@ The package gtk-recordmydesktop (version 0.3.8):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [el]({{< ref "/f11/language/el.md" >}}) | 816 | 816 | 100.0 | /mnt/stockage/packages/f11/gtk-recordmydesktop/po/el.po | 
- | [es]({{< ref "/f11/language/es.md" >}}) | 816 | 816 | 100.0 | /mnt/stockage/packages/f11/gtk-recordmydesktop/po/es.po | 
- | [fr]({{< ref "/f11/language/fr.md" >}}) | 816 | 816 | 100.0 | /mnt/stockage/packages/f11/gtk-recordmydesktop/po/fr.po | 
- | [it]({{< ref "/f11/language/it.md" >}}) | 816 | 816 | 100.0 | /mnt/stockage/packages/f11/gtk-recordmydesktop/po/it.po | 
- | [nl]({{< ref "/f11/language/nl.md" >}}) | 816 | 816 | 100.0 | /mnt/stockage/packages/f11/gtk-recordmydesktop/po/nl.po | 
- | [pl]({{< ref "/f11/language/pl.md" >}}) | 816 | 816 | 100.0 | /mnt/stockage/packages/f11/gtk-recordmydesktop/po/pl.po | 
- | [pt_BR]({{< ref "/f11/language/pt_BR.md" >}}) | 816 | 816 | 100.0 | /mnt/stockage/packages/f11/gtk-recordmydesktop/po/pt_BR.po | 
- | [sv]({{< ref "/f11/language/sv.md" >}}) | 816 | 816 | 100.0 | /mnt/stockage/packages/f11/gtk-recordmydesktop/po/sv.po | 
- | [ru]({{< ref "/f11/language/ru.md" >}}) | 710 | 816 | 87.0 | /mnt/stockage/packages/f11/gtk-recordmydesktop/po/ru.po | 
- | [ca]({{< ref "/f11/language/ca.md" >}}) | 685 | 816 | 83.9 | /mnt/stockage/packages/f11/gtk-recordmydesktop/po/ca.po | 
- | [ar]({{< ref "/f11/language/ar.md" >}}) | 553 | 816 | 67.8 | /mnt/stockage/packages/f11/gtk-recordmydesktop/po/ar.po | 
- | [ja]({{< ref "/f11/language/ja.md" >}}) | 553 | 816 | 67.8 | /mnt/stockage/packages/f11/gtk-recordmydesktop/po/ja.po | 
- | [pt]({{< ref "/f11/language/pt.md" >}}) | 553 | 816 | 67.8 | /mnt/stockage/packages/f11/gtk-recordmydesktop/po/pt.po | 
- | [tr]({{< ref "/f11/language/tr.md" >}}) | 553 | 816 | 67.8 | /mnt/stockage/packages/f11/gtk-recordmydesktop/po/tr.po | 
- | [de]({{< ref "/f11/language/de.md" >}}) | 532 | 816 | 65.2 | /mnt/stockage/packages/f11/gtk-recordmydesktop/po/de.po | 
+ | [el](/f11/language/el) | 816 | 816 | 100.0 | /mnt/stockage/packages/f11/gtk-recordmydesktop/po/el.po | 
+ | [es](/f11/language/es) | 816 | 816 | 100.0 | /mnt/stockage/packages/f11/gtk-recordmydesktop/po/es.po | 
+ | [fr](/f11/language/fr) | 816 | 816 | 100.0 | /mnt/stockage/packages/f11/gtk-recordmydesktop/po/fr.po | 
+ | [it](/f11/language/it) | 816 | 816 | 100.0 | /mnt/stockage/packages/f11/gtk-recordmydesktop/po/it.po | 
+ | [nl](/f11/language/nl) | 816 | 816 | 100.0 | /mnt/stockage/packages/f11/gtk-recordmydesktop/po/nl.po | 
+ | [pl](/f11/language/pl) | 816 | 816 | 100.0 | /mnt/stockage/packages/f11/gtk-recordmydesktop/po/pl.po | 
+ | [pt_BR](/f11/language/pt_BR) | 816 | 816 | 100.0 | /mnt/stockage/packages/f11/gtk-recordmydesktop/po/pt_BR.po | 
+ | [sv](/f11/language/sv) | 816 | 816 | 100.0 | /mnt/stockage/packages/f11/gtk-recordmydesktop/po/sv.po | 
+ | [ru](/f11/language/ru) | 710 | 816 | 87.0 | /mnt/stockage/packages/f11/gtk-recordmydesktop/po/ru.po | 
+ | [ca](/f11/language/ca) | 685 | 816 | 83.9 | /mnt/stockage/packages/f11/gtk-recordmydesktop/po/ca.po | 
+ | [ar](/f11/language/ar) | 553 | 816 | 67.8 | /mnt/stockage/packages/f11/gtk-recordmydesktop/po/ar.po | 
+ | [ja](/f11/language/ja) | 553 | 816 | 67.8 | /mnt/stockage/packages/f11/gtk-recordmydesktop/po/ja.po | 
+ | [pt](/f11/language/pt) | 553 | 816 | 67.8 | /mnt/stockage/packages/f11/gtk-recordmydesktop/po/pt.po | 
+ | [tr](/f11/language/tr) | 553 | 816 | 67.8 | /mnt/stockage/packages/f11/gtk-recordmydesktop/po/tr.po | 
+ | [de](/f11/language/de) | 532 | 816 | 65.2 | /mnt/stockage/packages/f11/gtk-recordmydesktop/po/de.po | 
 {.sortable}
 
 

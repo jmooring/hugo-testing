@@ -18,10 +18,10 @@ The package sysprof (version 3.20.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [pl]({{< ref "/f24/language/pl.md" >}}) | 265 | 265 | 100.0 | /mnt/stockage/packages/f24/sysprof/po/pl.po | 
- | [pt_BR]({{< ref "/f24/language/pt_BR.md" >}}) | 1119 | 1119 | 100.0 | /mnt/stockage/packages/f24/sysprof/help/pt_BR/pt_BR.po/mnt/stockage/packages/f24/sysprof/po/pt_BR.po | 
- | [sr]({{< ref "/f24/language/sr.md" >}}) | 265 | 265 | 100.0 | /mnt/stockage/packages/f24/sysprof/po/sr.po | 
- | [de]({{< ref "/f24/language/de.md" >}}) | 137 | 1112 | 12.3 | /mnt/stockage/packages/f24/sysprof/help/de/de.po/mnt/stockage/packages/f24/sysprof/po/de.po | 
+ | [pl](/f24/language/pl) | 265 | 265 | 100.0 | /mnt/stockage/packages/f24/sysprof/po/pl.po | 
+ | [pt_BR](/f24/language/pt_BR) | 1119 | 1119 | 100.0 | /mnt/stockage/packages/f24/sysprof/help/pt_BR/pt_BR.po/mnt/stockage/packages/f24/sysprof/po/pt_BR.po | 
+ | [sr](/f24/language/sr) | 265 | 265 | 100.0 | /mnt/stockage/packages/f24/sysprof/po/sr.po | 
+ | [de](/f24/language/de) | 137 | 1112 | 12.3 | /mnt/stockage/packages/f24/sysprof/help/de/de.po/mnt/stockage/packages/f24/sysprof/po/de.po | 
 {.sortable}
 
 

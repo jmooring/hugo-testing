@@ -18,50 +18,50 @@ The package rygel (version 0.10.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [bg]({{< ref "/f15/language/bg.md" >}}) | 556 | 556 | 100.0 | /mnt/stockage/packages/f15/rygel/po/bg.po | 
- | [bn_IN]({{< ref "/f15/language/bn_IN.md" >}}) | 556 | 556 | 100.0 | /mnt/stockage/packages/f15/rygel/po/bn_IN.po | 
- | [ca]({{< ref "/f15/language/ca.md" >}}) | 1110 | 1110 | 100.0 | /mnt/stockage/packages/f15/rygel/po/ca.po/mnt/stockage/packages/f15/rygel/po/ca@valencia.po | 
- | [cs]({{< ref "/f15/language/cs.md" >}}) | 555 | 555 | 100.0 | /mnt/stockage/packages/f15/rygel/po/cs.po | 
- | [da]({{< ref "/f15/language/da.md" >}}) | 549 | 549 | 100.0 | /mnt/stockage/packages/f15/rygel/po/da.po | 
- | [de]({{< ref "/f15/language/de.md" >}}) | 555 | 555 | 100.0 | /mnt/stockage/packages/f15/rygel/po/de.po | 
- | [el]({{< ref "/f15/language/el.md" >}}) | 592 | 592 | 100.0 | /mnt/stockage/packages/f15/rygel/po/el.po | 
- | [en_GB]({{< ref "/f15/language/en_GB.md" >}}) | 556 | 556 | 100.0 | /mnt/stockage/packages/f15/rygel/po/en_GB.po | 
- | [es]({{< ref "/f15/language/es.md" >}}) | 555 | 555 | 100.0 | /mnt/stockage/packages/f15/rygel/po/es.po | 
- | [et]({{< ref "/f15/language/et.md" >}}) | 556 | 556 | 100.0 | /mnt/stockage/packages/f15/rygel/po/et.po | 
- | [fr]({{< ref "/f15/language/fr.md" >}}) | 556 | 556 | 100.0 | /mnt/stockage/packages/f15/rygel/po/fr.po | 
- | [gl]({{< ref "/f15/language/gl.md" >}}) | 556 | 556 | 100.0 | /mnt/stockage/packages/f15/rygel/po/gl.po | 
- | [he]({{< ref "/f15/language/he.md" >}}) | 556 | 556 | 100.0 | /mnt/stockage/packages/f15/rygel/po/he.po | 
- | [hu]({{< ref "/f15/language/hu.md" >}}) | 556 | 556 | 100.0 | /mnt/stockage/packages/f15/rygel/po/hu.po | 
- | [id]({{< ref "/f15/language/id.md" >}}) | 556 | 556 | 100.0 | /mnt/stockage/packages/f15/rygel/po/id.po | 
- | [it]({{< ref "/f15/language/it.md" >}}) | 554 | 554 | 100.0 | /mnt/stockage/packages/f15/rygel/po/it.po | 
- | [ja]({{< ref "/f15/language/ja.md" >}}) | 556 | 556 | 100.0 | /mnt/stockage/packages/f15/rygel/po/ja.po | 
- | [kn]({{< ref "/f15/language/kn.md" >}}) | 556 | 556 | 100.0 | /mnt/stockage/packages/f15/rygel/po/kn.po | 
- | [ko]({{< ref "/f15/language/ko.md" >}}) | 556 | 556 | 100.0 | /mnt/stockage/packages/f15/rygel/po/ko.po | 
- | [lt]({{< ref "/f15/language/lt.md" >}}) | 554 | 554 | 100.0 | /mnt/stockage/packages/f15/rygel/po/lt.po | 
- | [lv]({{< ref "/f15/language/lv.md" >}}) | 555 | 555 | 100.0 | /mnt/stockage/packages/f15/rygel/po/lv.po | 
- | [nb_NO]({{< ref "/f15/language/nb_NO.md" >}}) | 556 | 556 | 100.0 | /mnt/stockage/packages/f15/rygel/po/nb.po | 
- | [nl]({{< ref "/f15/language/nl.md" >}}) | 556 | 556 | 100.0 | /mnt/stockage/packages/f15/rygel/po/nl.po | 
- | [pa]({{< ref "/f15/language/pa.md" >}}) | 592 | 592 | 100.0 | /mnt/stockage/packages/f15/rygel/po/pa.po | 
- | [pl]({{< ref "/f15/language/pl.md" >}}) | 555 | 555 | 100.0 | /mnt/stockage/packages/f15/rygel/po/pl.po | 
- | [pt]({{< ref "/f15/language/pt.md" >}}) | 556 | 556 | 100.0 | /mnt/stockage/packages/f15/rygel/po/pt.po | 
- | [pt_BR]({{< ref "/f15/language/pt_BR.md" >}}) | 554 | 554 | 100.0 | /mnt/stockage/packages/f15/rygel/po/pt_BR.po | 
- | [ro]({{< ref "/f15/language/ro.md" >}}) | 556 | 556 | 100.0 | /mnt/stockage/packages/f15/rygel/po/ro.po | 
- | [ru]({{< ref "/f15/language/ru.md" >}}) | 555 | 555 | 100.0 | /mnt/stockage/packages/f15/rygel/po/ru.po | 
- | [sl]({{< ref "/f15/language/sl.md" >}}) | 555 | 555 | 100.0 | /mnt/stockage/packages/f15/rygel/po/sl.po | 
- | [sr]({{< ref "/f15/language/sr.md" >}}) | 556 | 556 | 100.0 | /mnt/stockage/packages/f15/rygel/po/sr.po | 
- | [sr_Latn]({{< ref "/f15/language/sr_Latn.md" >}}) | 556 | 556 | 100.0 | /mnt/stockage/packages/f15/rygel/po/sr@latin.po | 
- | [sv]({{< ref "/f15/language/sv.md" >}}) | 555 | 555 | 100.0 | /mnt/stockage/packages/f15/rygel/po/sv.po | 
- | [ta]({{< ref "/f15/language/ta.md" >}}) | 715 | 715 | 100.0 | /mnt/stockage/packages/f15/rygel/po/ta.po | 
- | [th]({{< ref "/f15/language/th.md" >}}) | 556 | 556 | 100.0 | /mnt/stockage/packages/f15/rygel/po/th.po | 
- | [uk]({{< ref "/f15/language/uk.md" >}}) | 556 | 556 | 100.0 | /mnt/stockage/packages/f15/rygel/po/uk.po | 
- | [vi]({{< ref "/f15/language/vi.md" >}}) | 592 | 592 | 100.0 | /mnt/stockage/packages/f15/rygel/po/vi.po | 
- | [zh_Hans]({{< ref "/f15/language/zh_Hans.md" >}}) | 556 | 556 | 100.0 | /mnt/stockage/packages/f15/rygel/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f15/language/zh_Hant.md" >}}) | 592 | 592 | 100.0 | /mnt/stockage/packages/f15/rygel/po/zh_TW.po | 
- | [zh_Hant_HK]({{< ref "/f15/language/zh_Hant_HK.md" >}}) | 592 | 592 | 100.0 | /mnt/stockage/packages/f15/rygel/po/zh_HK.po | 
- | [ug]({{< ref "/f15/language/ug.md" >}}) | 549 | 556 | 98.7 | /mnt/stockage/packages/f15/rygel/po/ug.po | 
- | [gu]({{< ref "/f15/language/gu.md" >}}) | 377 | 556 | 67.8 | /mnt/stockage/packages/f15/rygel/po/gu.po | 
- | [af]({{< ref "/f15/language/af.md" >}}) | 250 | 592 | 42.2 | /mnt/stockage/packages/f15/rygel/po/af.po | 
- | [ar]({{< ref "/f15/language/ar.md" >}}) | 68 | 549 | 12.4 | /mnt/stockage/packages/f15/rygel/po/ar.po | 
+ | [bg](/f15/language/bg) | 556 | 556 | 100.0 | /mnt/stockage/packages/f15/rygel/po/bg.po | 
+ | [bn_IN](/f15/language/bn_IN) | 556 | 556 | 100.0 | /mnt/stockage/packages/f15/rygel/po/bn_IN.po | 
+ | [ca](/f15/language/ca) | 1110 | 1110 | 100.0 | /mnt/stockage/packages/f15/rygel/po/ca.po/mnt/stockage/packages/f15/rygel/po/ca@valencia.po | 
+ | [cs](/f15/language/cs) | 555 | 555 | 100.0 | /mnt/stockage/packages/f15/rygel/po/cs.po | 
+ | [da](/f15/language/da) | 549 | 549 | 100.0 | /mnt/stockage/packages/f15/rygel/po/da.po | 
+ | [de](/f15/language/de) | 555 | 555 | 100.0 | /mnt/stockage/packages/f15/rygel/po/de.po | 
+ | [el](/f15/language/el) | 592 | 592 | 100.0 | /mnt/stockage/packages/f15/rygel/po/el.po | 
+ | [en_GB](/f15/language/en_GB) | 556 | 556 | 100.0 | /mnt/stockage/packages/f15/rygel/po/en_GB.po | 
+ | [es](/f15/language/es) | 555 | 555 | 100.0 | /mnt/stockage/packages/f15/rygel/po/es.po | 
+ | [et](/f15/language/et) | 556 | 556 | 100.0 | /mnt/stockage/packages/f15/rygel/po/et.po | 
+ | [fr](/f15/language/fr) | 556 | 556 | 100.0 | /mnt/stockage/packages/f15/rygel/po/fr.po | 
+ | [gl](/f15/language/gl) | 556 | 556 | 100.0 | /mnt/stockage/packages/f15/rygel/po/gl.po | 
+ | [he](/f15/language/he) | 556 | 556 | 100.0 | /mnt/stockage/packages/f15/rygel/po/he.po | 
+ | [hu](/f15/language/hu) | 556 | 556 | 100.0 | /mnt/stockage/packages/f15/rygel/po/hu.po | 
+ | [id](/f15/language/id) | 556 | 556 | 100.0 | /mnt/stockage/packages/f15/rygel/po/id.po | 
+ | [it](/f15/language/it) | 554 | 554 | 100.0 | /mnt/stockage/packages/f15/rygel/po/it.po | 
+ | [ja](/f15/language/ja) | 556 | 556 | 100.0 | /mnt/stockage/packages/f15/rygel/po/ja.po | 
+ | [kn](/f15/language/kn) | 556 | 556 | 100.0 | /mnt/stockage/packages/f15/rygel/po/kn.po | 
+ | [ko](/f15/language/ko) | 556 | 556 | 100.0 | /mnt/stockage/packages/f15/rygel/po/ko.po | 
+ | [lt](/f15/language/lt) | 554 | 554 | 100.0 | /mnt/stockage/packages/f15/rygel/po/lt.po | 
+ | [lv](/f15/language/lv) | 555 | 555 | 100.0 | /mnt/stockage/packages/f15/rygel/po/lv.po | 
+ | [nb_NO](/f15/language/nb_NO) | 556 | 556 | 100.0 | /mnt/stockage/packages/f15/rygel/po/nb.po | 
+ | [nl](/f15/language/nl) | 556 | 556 | 100.0 | /mnt/stockage/packages/f15/rygel/po/nl.po | 
+ | [pa](/f15/language/pa) | 592 | 592 | 100.0 | /mnt/stockage/packages/f15/rygel/po/pa.po | 
+ | [pl](/f15/language/pl) | 555 | 555 | 100.0 | /mnt/stockage/packages/f15/rygel/po/pl.po | 
+ | [pt](/f15/language/pt) | 556 | 556 | 100.0 | /mnt/stockage/packages/f15/rygel/po/pt.po | 
+ | [pt_BR](/f15/language/pt_BR) | 554 | 554 | 100.0 | /mnt/stockage/packages/f15/rygel/po/pt_BR.po | 
+ | [ro](/f15/language/ro) | 556 | 556 | 100.0 | /mnt/stockage/packages/f15/rygel/po/ro.po | 
+ | [ru](/f15/language/ru) | 555 | 555 | 100.0 | /mnt/stockage/packages/f15/rygel/po/ru.po | 
+ | [sl](/f15/language/sl) | 555 | 555 | 100.0 | /mnt/stockage/packages/f15/rygel/po/sl.po | 
+ | [sr](/f15/language/sr) | 556 | 556 | 100.0 | /mnt/stockage/packages/f15/rygel/po/sr.po | 
+ | [sr_Latn](/f15/language/sr_Latn) | 556 | 556 | 100.0 | /mnt/stockage/packages/f15/rygel/po/sr@latin.po | 
+ | [sv](/f15/language/sv) | 555 | 555 | 100.0 | /mnt/stockage/packages/f15/rygel/po/sv.po | 
+ | [ta](/f15/language/ta) | 715 | 715 | 100.0 | /mnt/stockage/packages/f15/rygel/po/ta.po | 
+ | [th](/f15/language/th) | 556 | 556 | 100.0 | /mnt/stockage/packages/f15/rygel/po/th.po | 
+ | [uk](/f15/language/uk) | 556 | 556 | 100.0 | /mnt/stockage/packages/f15/rygel/po/uk.po | 
+ | [vi](/f15/language/vi) | 592 | 592 | 100.0 | /mnt/stockage/packages/f15/rygel/po/vi.po | 
+ | [zh_Hans](/f15/language/zh_Hans) | 556 | 556 | 100.0 | /mnt/stockage/packages/f15/rygel/po/zh_CN.po | 
+ | [zh_Hant](/f15/language/zh_Hant) | 592 | 592 | 100.0 | /mnt/stockage/packages/f15/rygel/po/zh_TW.po | 
+ | [zh_Hant_HK](/f15/language/zh_Hant_HK) | 592 | 592 | 100.0 | /mnt/stockage/packages/f15/rygel/po/zh_HK.po | 
+ | [ug](/f15/language/ug) | 549 | 556 | 98.7 | /mnt/stockage/packages/f15/rygel/po/ug.po | 
+ | [gu](/f15/language/gu) | 377 | 556 | 67.8 | /mnt/stockage/packages/f15/rygel/po/gu.po | 
+ | [af](/f15/language/af) | 250 | 592 | 42.2 | /mnt/stockage/packages/f15/rygel/po/af.po | 
+ | [ar](/f15/language/ar) | 68 | 549 | 12.4 | /mnt/stockage/packages/f15/rygel/po/ar.po | 
 {.sortable}
 
 

@@ -44,7 +44,7 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [gnome-shell-extension-blur-my-shell]({{< ref "/f43/package/gnome-shell-extension-blur-my-shell.md" >}}) | 0 | 996 | 0.0 | none | 
+ | [gnome-shell-extension-blur-my-shell](/f43/package/gnome-shell-extension-blur-my-shell) | 0 | 996 | 0.0 | none | 
 {.sortable}
 
 

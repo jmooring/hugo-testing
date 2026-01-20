@@ -18,19 +18,19 @@ The package gnubg (version 1.06.001):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f34/language/cs.md" >}}) | 11610 | 13176 | 88.1 | /mnt/stockage/packages/f34/gnubg/po/cs.po | 
- | [da]({{< ref "/f34/language/da.md" >}}) | 11202 | 13176 | 85.0 | /mnt/stockage/packages/f34/gnubg/po/da.po | 
- | [it]({{< ref "/f34/language/it.md" >}}) | 10432 | 13176 | 79.2 | /mnt/stockage/packages/f34/gnubg/po/it.po | 
- | [es]({{< ref "/f34/language/es.md" >}}) | 9968 | 13176 | 75.7 | /mnt/stockage/packages/f34/gnubg/po/es.po | 
- | [ro]({{< ref "/f34/language/ro.md" >}}) | 8925 | 13176 | 67.7 | /mnt/stockage/packages/f34/gnubg/po/ro.po | 
- | [de]({{< ref "/f34/language/de.md" >}}) | 7691 | 13176 | 58.4 | /mnt/stockage/packages/f34/gnubg/po/de.po | 
- | [fr]({{< ref "/f34/language/fr.md" >}}) | 6156 | 13176 | 46.7 | /mnt/stockage/packages/f34/gnubg/po/fr.po | 
- | [en_US]({{< ref "/f34/language/en_US.md" >}}) | 5664 | 13176 | 43.0 | /mnt/stockage/packages/f34/gnubg/po/en_US.po | 
- | [ja]({{< ref "/f34/language/ja.md" >}}) | 2685 | 13176 | 20.4 | /mnt/stockage/packages/f34/gnubg/po/ja.po | 
- | [is]({{< ref "/f34/language/is.md" >}}) | 1109 | 13176 | 8.4 | /mnt/stockage/packages/f34/gnubg/po/is.po | 
- | [tr]({{< ref "/f34/language/tr.md" >}}) | 1108 | 13176 | 8.4 | /mnt/stockage/packages/f34/gnubg/po/tr.po | 
- | [ru]({{< ref "/f34/language/ru.md" >}}) | 1014 | 13176 | 7.7 | /mnt/stockage/packages/f34/gnubg/po/ru.po | 
- | [el]({{< ref "/f34/language/el.md" >}}) | 511 | 13176 | 3.9 | /mnt/stockage/packages/f34/gnubg/po/el.po | 
+ | [cs](/f34/language/cs) | 11610 | 13176 | 88.1 | /mnt/stockage/packages/f34/gnubg/po/cs.po | 
+ | [da](/f34/language/da) | 11202 | 13176 | 85.0 | /mnt/stockage/packages/f34/gnubg/po/da.po | 
+ | [it](/f34/language/it) | 10432 | 13176 | 79.2 | /mnt/stockage/packages/f34/gnubg/po/it.po | 
+ | [es](/f34/language/es) | 9968 | 13176 | 75.7 | /mnt/stockage/packages/f34/gnubg/po/es.po | 
+ | [ro](/f34/language/ro) | 8925 | 13176 | 67.7 | /mnt/stockage/packages/f34/gnubg/po/ro.po | 
+ | [de](/f34/language/de) | 7691 | 13176 | 58.4 | /mnt/stockage/packages/f34/gnubg/po/de.po | 
+ | [fr](/f34/language/fr) | 6156 | 13176 | 46.7 | /mnt/stockage/packages/f34/gnubg/po/fr.po | 
+ | [en_US](/f34/language/en_US) | 5664 | 13176 | 43.0 | /mnt/stockage/packages/f34/gnubg/po/en_US.po | 
+ | [ja](/f34/language/ja) | 2685 | 13176 | 20.4 | /mnt/stockage/packages/f34/gnubg/po/ja.po | 
+ | [is](/f34/language/is) | 1109 | 13176 | 8.4 | /mnt/stockage/packages/f34/gnubg/po/is.po | 
+ | [tr](/f34/language/tr) | 1108 | 13176 | 8.4 | /mnt/stockage/packages/f34/gnubg/po/tr.po | 
+ | [ru](/f34/language/ru) | 1014 | 13176 | 7.7 | /mnt/stockage/packages/f34/gnubg/po/ru.po | 
+ | [el](/f34/language/el) | 511 | 13176 | 3.9 | /mnt/stockage/packages/f34/gnubg/po/el.po | 
 {.sortable}
 
 

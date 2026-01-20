@@ -18,61 +18,61 @@ The package sugar-flipsticks (version 14):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ach]({{< ref "/f40/language/ach.md" >}}) | 151 | 151 | 100.0 | /mnt/stockage/packages/f40/sugar-flipsticks/po/ach.po | 
- | [ayc]({{< ref "/f40/language/ayc.md" >}}) | 151 | 151 | 100.0 | /mnt/stockage/packages/f40/sugar-flipsticks/po/ayc.po | 
- | [ca]({{< ref "/f40/language/ca.md" >}}) | 151 | 151 | 100.0 | /mnt/stockage/packages/f40/sugar-flipsticks/po/ca.po | 
- | [da]({{< ref "/f40/language/da.md" >}}) | 151 | 151 | 100.0 | /mnt/stockage/packages/f40/sugar-flipsticks/po/da.po | 
- | [en]({{< ref "/f40/language/en.md" >}}) | 151 | 151 | 100.0 | /mnt/stockage/packages/f40/sugar-flipsticks/po/en.po | 
- | [en_GB]({{< ref "/f40/language/en_GB.md" >}}) | 151 | 151 | 100.0 | /mnt/stockage/packages/f40/sugar-flipsticks/po/en_GB.po | 
- | [en_US]({{< ref "/f40/language/en_US.md" >}}) | 151 | 151 | 100.0 | /mnt/stockage/packages/f40/sugar-flipsticks/po/en_US.po | 
- | [es]({{< ref "/f40/language/es.md" >}}) | 151 | 151 | 100.0 | /mnt/stockage/packages/f40/sugar-flipsticks/po/es.po | 
- | [fr]({{< ref "/f40/language/fr.md" >}}) | 151 | 151 | 100.0 | /mnt/stockage/packages/f40/sugar-flipsticks/po/fr.po | 
- | [gug]({{< ref "/f40/language/gug.md" >}}) | 151 | 151 | 100.0 | /mnt/stockage/packages/f40/sugar-flipsticks/po/gug.po | 
- | [hy]({{< ref "/f40/language/hy.md" >}}) | 151 | 151 | 100.0 | /mnt/stockage/packages/f40/sugar-flipsticks/po/hy.po | 
- | [nl]({{< ref "/f40/language/nl.md" >}}) | 151 | 151 | 100.0 | /mnt/stockage/packages/f40/sugar-flipsticks/po/nl.po | 
- | [pl]({{< ref "/f40/language/pl.md" >}}) | 151 | 151 | 100.0 | /mnt/stockage/packages/f40/sugar-flipsticks/po/pl.po | 
- | [pt]({{< ref "/f40/language/pt.md" >}}) | 151 | 151 | 100.0 | /mnt/stockage/packages/f40/sugar-flipsticks/po/pt.po | 
- | [pt_BR]({{< ref "/f40/language/pt_BR.md" >}}) | 151 | 151 | 100.0 | /mnt/stockage/packages/f40/sugar-flipsticks/po/pt_BR.po | 
- | [sv]({{< ref "/f40/language/sv.md" >}}) | 151 | 151 | 100.0 | /mnt/stockage/packages/f40/sugar-flipsticks/po/sv.po | 
- | [uk]({{< ref "/f40/language/uk.md" >}}) | 151 | 151 | 100.0 | /mnt/stockage/packages/f40/sugar-flipsticks/po/uk.po | 
- | [zh_Hans]({{< ref "/f40/language/zh_Hans.md" >}}) | 151 | 151 | 100.0 | /mnt/stockage/packages/f40/sugar-flipsticks/po/zh_CN.po | 
- | [hi]({{< ref "/f40/language/hi.md" >}}) | 149 | 151 | 98.7 | /mnt/stockage/packages/f40/sugar-flipsticks/po/hi.po | 
- | [sq]({{< ref "/f40/language/sq.md" >}}) | 149 | 151 | 98.7 | /mnt/stockage/packages/f40/sugar-flipsticks/po/sq.po | 
- | [el]({{< ref "/f40/language/el.md" >}}) | 78 | 151 | 51.7 | /mnt/stockage/packages/f40/sugar-flipsticks/po/el.po | 
- | [hus]({{< ref "/f40/language/hus.md" >}}) | 78 | 151 | 51.7 | /mnt/stockage/packages/f40/sugar-flipsticks/po/hus.po | 
- | [bn]({{< ref "/f40/language/bn.md" >}}) | 77 | 151 | 51.0 | /mnt/stockage/packages/f40/sugar-flipsticks/po/bn.po | 
- | [de]({{< ref "/f40/language/de.md" >}}) | 77 | 151 | 51.0 | /mnt/stockage/packages/f40/sugar-flipsticks/po/de.po | 
- | [it]({{< ref "/f40/language/it.md" >}}) | 77 | 151 | 51.0 | /mnt/stockage/packages/f40/sugar-flipsticks/po/it.po | 
- | [ne]({{< ref "/f40/language/ne.md" >}}) | 77 | 151 | 51.0 | /mnt/stockage/packages/f40/sugar-flipsticks/po/ne.po | 
- | [ta]({{< ref "/f40/language/ta.md" >}}) | 77 | 151 | 51.0 | /mnt/stockage/packages/f40/sugar-flipsticks/po/ta.po | 
- | [th]({{< ref "/f40/language/th.md" >}}) | 77 | 151 | 51.0 | /mnt/stockage/packages/f40/sugar-flipsticks/po/th.po | 
- | [zh_Hant]({{< ref "/f40/language/zh_Hant.md" >}}) | 77 | 151 | 51.0 | /mnt/stockage/packages/f40/sugar-flipsticks/po/zh_TW.po | 
- | [nah]({{< ref "/f40/language/nah.md" >}}) | 76 | 151 | 50.3 | /mnt/stockage/packages/f40/sugar-flipsticks/po/nah.po | 
- | [sw]({{< ref "/f40/language/sw.md" >}}) | 76 | 151 | 50.3 | /mnt/stockage/packages/f40/sugar-flipsticks/po/sw.po | 
- | [ms]({{< ref "/f40/language/ms.md" >}}) | 73 | 151 | 48.3 | /mnt/stockage/packages/f40/sugar-flipsticks/po/ms.po | 
- | [vi]({{< ref "/f40/language/vi.md" >}}) | 71 | 151 | 47.0 | /mnt/stockage/packages/f40/sugar-flipsticks/po/vi.po | 
- | [pap]({{< ref "/f40/language/pap.md" >}}) | 68 | 151 | 45.0 | /mnt/stockage/packages/f40/sugar-flipsticks/po/pap.po | 
- | [si]({{< ref "/f40/language/si.md" >}}) | 68 | 151 | 45.0 | /mnt/stockage/packages/f40/sugar-flipsticks/po/si.po | 
- | [ht]({{< ref "/f40/language/ht.md" >}}) | 66 | 151 | 43.7 | /mnt/stockage/packages/f40/sugar-flipsticks/po/ht.po | 
- | [ps]({{< ref "/f40/language/ps.md" >}}) | 66 | 151 | 43.7 | /mnt/stockage/packages/f40/sugar-flipsticks/po/ps.po | 
- | [ja]({{< ref "/f40/language/ja.md" >}}) | 65 | 151 | 43.0 | /mnt/stockage/packages/f40/sugar-flipsticks/po/ja.po | 
- | [prs]({{< ref "/f40/language/prs.md" >}}) | 65 | 151 | 43.0 | /mnt/stockage/packages/f40/sugar-flipsticks/po/fa_AF.po | 
- | [fa]({{< ref "/f40/language/fa.md" >}}) | 44 | 151 | 29.1 | /mnt/stockage/packages/f40/sugar-flipsticks/po/fa.po | 
- | [cs]({{< ref "/f40/language/cs.md" >}}) | 21 | 151 | 13.9 | /mnt/stockage/packages/f40/sugar-flipsticks/po/cs.po | 
- | [rw]({{< ref "/f40/language/rw.md" >}}) | 19 | 151 | 12.6 | /mnt/stockage/packages/f40/sugar-flipsticks/po/rw.po | 
- | [km]({{< ref "/f40/language/km.md" >}}) | 16 | 151 | 10.6 | /mnt/stockage/packages/f40/sugar-flipsticks/po/km.po | 
- | [mg]({{< ref "/f40/language/mg.md" >}}) | 15 | 151 | 9.9 | /mnt/stockage/packages/f40/sugar-flipsticks/po/mg.po | 
- | [ay]({{< ref "/f40/language/ay.md" >}}) | 8 | 151 | 5.3 | /mnt/stockage/packages/f40/sugar-flipsticks/po/aym.po | 
- | [sk]({{< ref "/f40/language/sk.md" >}}) | 8 | 151 | 5.3 | /mnt/stockage/packages/f40/sugar-flipsticks/po/sk.po | 
- | [am]({{< ref "/f40/language/am.md" >}}) | 7 | 151 | 4.6 | /mnt/stockage/packages/f40/sugar-flipsticks/po/am.po | 
- | [qu]({{< ref "/f40/language/qu.md" >}}) | 7 | 151 | 4.6 | /mnt/stockage/packages/f40/sugar-flipsticks/po/quz.po | 
- | [tzm]({{< ref "/f40/language/tzm.md" >}}) | 3 | 151 | 2.0 | /mnt/stockage/packages/f40/sugar-flipsticks/po/tzm.po | 
- | [hu]({{< ref "/f40/language/hu.md" >}}) | 2 | 151 | 1.3 | /mnt/stockage/packages/f40/sugar-flipsticks/po/hu.po | 
- | [sm]({{< ref "/f40/language/sm.md" >}}) | 2 | 151 | 1.3 | /mnt/stockage/packages/f40/sugar-flipsticks/po/sm.po | 
- | [mi]({{< ref "/f40/language/mi.md" >}}) | 1 | 151 | 0.7 | /mnt/stockage/packages/f40/sugar-flipsticks/po/mi.po | 
- | [error]({{< ref "/f40/language/error.md" >}}) | 0 | 151 | 0.0 | /mnt/stockage/packages/f40/sugar-flipsticks/po/pbs.po | 
- | [son]({{< ref "/f40/language/son.md" >}}) | 0 | 151 | 0.0 | /mnt/stockage/packages/f40/sugar-flipsticks/po/son.po | 
- | [ur]({{< ref "/f40/language/ur.md" >}}) | 0 | 151 | 0.0 | /mnt/stockage/packages/f40/sugar-flipsticks/po/ur.po | 
+ | [ach](/f40/language/ach) | 151 | 151 | 100.0 | /mnt/stockage/packages/f40/sugar-flipsticks/po/ach.po | 
+ | [ayc](/f40/language/ayc) | 151 | 151 | 100.0 | /mnt/stockage/packages/f40/sugar-flipsticks/po/ayc.po | 
+ | [ca](/f40/language/ca) | 151 | 151 | 100.0 | /mnt/stockage/packages/f40/sugar-flipsticks/po/ca.po | 
+ | [da](/f40/language/da) | 151 | 151 | 100.0 | /mnt/stockage/packages/f40/sugar-flipsticks/po/da.po | 
+ | [en](/f40/language/en) | 151 | 151 | 100.0 | /mnt/stockage/packages/f40/sugar-flipsticks/po/en.po | 
+ | [en_GB](/f40/language/en_GB) | 151 | 151 | 100.0 | /mnt/stockage/packages/f40/sugar-flipsticks/po/en_GB.po | 
+ | [en_US](/f40/language/en_US) | 151 | 151 | 100.0 | /mnt/stockage/packages/f40/sugar-flipsticks/po/en_US.po | 
+ | [es](/f40/language/es) | 151 | 151 | 100.0 | /mnt/stockage/packages/f40/sugar-flipsticks/po/es.po | 
+ | [fr](/f40/language/fr) | 151 | 151 | 100.0 | /mnt/stockage/packages/f40/sugar-flipsticks/po/fr.po | 
+ | [gug](/f40/language/gug) | 151 | 151 | 100.0 | /mnt/stockage/packages/f40/sugar-flipsticks/po/gug.po | 
+ | [hy](/f40/language/hy) | 151 | 151 | 100.0 | /mnt/stockage/packages/f40/sugar-flipsticks/po/hy.po | 
+ | [nl](/f40/language/nl) | 151 | 151 | 100.0 | /mnt/stockage/packages/f40/sugar-flipsticks/po/nl.po | 
+ | [pl](/f40/language/pl) | 151 | 151 | 100.0 | /mnt/stockage/packages/f40/sugar-flipsticks/po/pl.po | 
+ | [pt](/f40/language/pt) | 151 | 151 | 100.0 | /mnt/stockage/packages/f40/sugar-flipsticks/po/pt.po | 
+ | [pt_BR](/f40/language/pt_BR) | 151 | 151 | 100.0 | /mnt/stockage/packages/f40/sugar-flipsticks/po/pt_BR.po | 
+ | [sv](/f40/language/sv) | 151 | 151 | 100.0 | /mnt/stockage/packages/f40/sugar-flipsticks/po/sv.po | 
+ | [uk](/f40/language/uk) | 151 | 151 | 100.0 | /mnt/stockage/packages/f40/sugar-flipsticks/po/uk.po | 
+ | [zh_Hans](/f40/language/zh_Hans) | 151 | 151 | 100.0 | /mnt/stockage/packages/f40/sugar-flipsticks/po/zh_CN.po | 
+ | [hi](/f40/language/hi) | 149 | 151 | 98.7 | /mnt/stockage/packages/f40/sugar-flipsticks/po/hi.po | 
+ | [sq](/f40/language/sq) | 149 | 151 | 98.7 | /mnt/stockage/packages/f40/sugar-flipsticks/po/sq.po | 
+ | [el](/f40/language/el) | 78 | 151 | 51.7 | /mnt/stockage/packages/f40/sugar-flipsticks/po/el.po | 
+ | [hus](/f40/language/hus) | 78 | 151 | 51.7 | /mnt/stockage/packages/f40/sugar-flipsticks/po/hus.po | 
+ | [bn](/f40/language/bn) | 77 | 151 | 51.0 | /mnt/stockage/packages/f40/sugar-flipsticks/po/bn.po | 
+ | [de](/f40/language/de) | 77 | 151 | 51.0 | /mnt/stockage/packages/f40/sugar-flipsticks/po/de.po | 
+ | [it](/f40/language/it) | 77 | 151 | 51.0 | /mnt/stockage/packages/f40/sugar-flipsticks/po/it.po | 
+ | [ne](/f40/language/ne) | 77 | 151 | 51.0 | /mnt/stockage/packages/f40/sugar-flipsticks/po/ne.po | 
+ | [ta](/f40/language/ta) | 77 | 151 | 51.0 | /mnt/stockage/packages/f40/sugar-flipsticks/po/ta.po | 
+ | [th](/f40/language/th) | 77 | 151 | 51.0 | /mnt/stockage/packages/f40/sugar-flipsticks/po/th.po | 
+ | [zh_Hant](/f40/language/zh_Hant) | 77 | 151 | 51.0 | /mnt/stockage/packages/f40/sugar-flipsticks/po/zh_TW.po | 
+ | [nah](/f40/language/nah) | 76 | 151 | 50.3 | /mnt/stockage/packages/f40/sugar-flipsticks/po/nah.po | 
+ | [sw](/f40/language/sw) | 76 | 151 | 50.3 | /mnt/stockage/packages/f40/sugar-flipsticks/po/sw.po | 
+ | [ms](/f40/language/ms) | 73 | 151 | 48.3 | /mnt/stockage/packages/f40/sugar-flipsticks/po/ms.po | 
+ | [vi](/f40/language/vi) | 71 | 151 | 47.0 | /mnt/stockage/packages/f40/sugar-flipsticks/po/vi.po | 
+ | [pap](/f40/language/pap) | 68 | 151 | 45.0 | /mnt/stockage/packages/f40/sugar-flipsticks/po/pap.po | 
+ | [si](/f40/language/si) | 68 | 151 | 45.0 | /mnt/stockage/packages/f40/sugar-flipsticks/po/si.po | 
+ | [ht](/f40/language/ht) | 66 | 151 | 43.7 | /mnt/stockage/packages/f40/sugar-flipsticks/po/ht.po | 
+ | [ps](/f40/language/ps) | 66 | 151 | 43.7 | /mnt/stockage/packages/f40/sugar-flipsticks/po/ps.po | 
+ | [ja](/f40/language/ja) | 65 | 151 | 43.0 | /mnt/stockage/packages/f40/sugar-flipsticks/po/ja.po | 
+ | [prs](/f40/language/prs) | 65 | 151 | 43.0 | /mnt/stockage/packages/f40/sugar-flipsticks/po/fa_AF.po | 
+ | [fa](/f40/language/fa) | 44 | 151 | 29.1 | /mnt/stockage/packages/f40/sugar-flipsticks/po/fa.po | 
+ | [cs](/f40/language/cs) | 21 | 151 | 13.9 | /mnt/stockage/packages/f40/sugar-flipsticks/po/cs.po | 
+ | [rw](/f40/language/rw) | 19 | 151 | 12.6 | /mnt/stockage/packages/f40/sugar-flipsticks/po/rw.po | 
+ | [km](/f40/language/km) | 16 | 151 | 10.6 | /mnt/stockage/packages/f40/sugar-flipsticks/po/km.po | 
+ | [mg](/f40/language/mg) | 15 | 151 | 9.9 | /mnt/stockage/packages/f40/sugar-flipsticks/po/mg.po | 
+ | [ay](/f40/language/ay) | 8 | 151 | 5.3 | /mnt/stockage/packages/f40/sugar-flipsticks/po/aym.po | 
+ | [sk](/f40/language/sk) | 8 | 151 | 5.3 | /mnt/stockage/packages/f40/sugar-flipsticks/po/sk.po | 
+ | [am](/f40/language/am) | 7 | 151 | 4.6 | /mnt/stockage/packages/f40/sugar-flipsticks/po/am.po | 
+ | [qu](/f40/language/qu) | 7 | 151 | 4.6 | /mnt/stockage/packages/f40/sugar-flipsticks/po/quz.po | 
+ | [tzm](/f40/language/tzm) | 3 | 151 | 2.0 | /mnt/stockage/packages/f40/sugar-flipsticks/po/tzm.po | 
+ | [hu](/f40/language/hu) | 2 | 151 | 1.3 | /mnt/stockage/packages/f40/sugar-flipsticks/po/hu.po | 
+ | [sm](/f40/language/sm) | 2 | 151 | 1.3 | /mnt/stockage/packages/f40/sugar-flipsticks/po/sm.po | 
+ | [mi](/f40/language/mi) | 1 | 151 | 0.7 | /mnt/stockage/packages/f40/sugar-flipsticks/po/mi.po | 
+ | [error](/f40/language/error) | 0 | 151 | 0.0 | /mnt/stockage/packages/f40/sugar-flipsticks/po/pbs.po | 
+ | [son](/f40/language/son) | 0 | 151 | 0.0 | /mnt/stockage/packages/f40/sugar-flipsticks/po/son.po | 
+ | [ur](/f40/language/ur) | 0 | 151 | 0.0 | /mnt/stockage/packages/f40/sugar-flipsticks/po/ur.po | 
 {.sortable}
 
 

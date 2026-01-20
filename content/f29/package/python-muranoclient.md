@@ -18,8 +18,8 @@ The package python-muranoclient (version 1.0.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [en_GB]({{< ref "/f29/language/en_GB.md" >}}) | 988 | 988 | 100.0 | /mnt/stockage/packages/f29/python-muranoclient/muranoclient/locale/en_GB/LC_MESSAGES/muranoclient.po/mnt/stockage/packages/f29/python-muranoclient/releasenotes/source/locale/en_GB/LC_MESSAGES/releasenotes.po | 
- | [fr]({{< ref "/f29/language/fr.md" >}}) | 39 | 39 | 100.0 | /mnt/stockage/packages/f29/python-muranoclient/releasenotes/source/locale/fr/LC_MESSAGES/releasenotes.po | 
+ | [en_GB](/f29/language/en_GB) | 988 | 988 | 100.0 | /mnt/stockage/packages/f29/python-muranoclient/muranoclient/locale/en_GB/LC_MESSAGES/muranoclient.po/mnt/stockage/packages/f29/python-muranoclient/releasenotes/source/locale/en_GB/LC_MESSAGES/releasenotes.po | 
+ | [fr](/f29/language/fr) | 39 | 39 | 100.0 | /mnt/stockage/packages/f29/python-muranoclient/releasenotes/source/locale/fr/LC_MESSAGES/releasenotes.po | 
 {.sortable}
 
 

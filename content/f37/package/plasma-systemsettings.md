@@ -18,90 +18,90 @@ The package plasma-systemsettings (version 5.27.8):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f37/language/ar.md" >}}) | 212 | 212 | 100.0 | /mnt/stockage/packages/f37/plasma-systemsettings/po/ar/systemsettings.po | 
- | [bg]({{< ref "/f37/language/bg.md" >}}) | 212 | 212 | 100.0 | /mnt/stockage/packages/f37/plasma-systemsettings/po/bg/systemsettings.po | 
- | [ca]({{< ref "/f37/language/ca.md" >}}) | 212 | 212 | 100.0 | /mnt/stockage/packages/f37/plasma-systemsettings/po/ca/systemsettings.po | 
- | [ca@valencia]({{< ref "/f37/language/ca@valencia.md" >}}) | 212 | 212 | 100.0 | /mnt/stockage/packages/f37/plasma-systemsettings/po/ca@valencia/systemsettings.po | 
- | [cs]({{< ref "/f37/language/cs.md" >}}) | 212 | 212 | 100.0 | /mnt/stockage/packages/f37/plasma-systemsettings/po/cs/systemsettings.po | 
- | [de]({{< ref "/f37/language/de.md" >}}) | 212 | 212 | 100.0 | /mnt/stockage/packages/f37/plasma-systemsettings/po/de/systemsettings.po | 
- | [en_GB]({{< ref "/f37/language/en_GB.md" >}}) | 212 | 212 | 100.0 | /mnt/stockage/packages/f37/plasma-systemsettings/po/en_GB/systemsettings.po | 
- | [eo]({{< ref "/f37/language/eo.md" >}}) | 212 | 212 | 100.0 | /mnt/stockage/packages/f37/plasma-systemsettings/po/eo/systemsettings.po | 
- | [es]({{< ref "/f37/language/es.md" >}}) | 212 | 212 | 100.0 | /mnt/stockage/packages/f37/plasma-systemsettings/po/es/systemsettings.po | 
- | [eu]({{< ref "/f37/language/eu.md" >}}) | 212 | 212 | 100.0 | /mnt/stockage/packages/f37/plasma-systemsettings/po/eu/systemsettings.po | 
- | [fi]({{< ref "/f37/language/fi.md" >}}) | 212 | 212 | 100.0 | /mnt/stockage/packages/f37/plasma-systemsettings/po/fi/systemsettings.po | 
- | [fr]({{< ref "/f37/language/fr.md" >}}) | 212 | 212 | 100.0 | /mnt/stockage/packages/f37/plasma-systemsettings/po/fr/systemsettings.po | 
- | [gl]({{< ref "/f37/language/gl.md" >}}) | 212 | 212 | 100.0 | /mnt/stockage/packages/f37/plasma-systemsettings/po/gl/systemsettings.po | 
- | [ia]({{< ref "/f37/language/ia.md" >}}) | 212 | 212 | 100.0 | /mnt/stockage/packages/f37/plasma-systemsettings/po/ia/systemsettings.po | 
- | [id]({{< ref "/f37/language/id.md" >}}) | 212 | 212 | 100.0 | /mnt/stockage/packages/f37/plasma-systemsettings/po/id/systemsettings.po | 
- | [it]({{< ref "/f37/language/it.md" >}}) | 212 | 212 | 100.0 | /mnt/stockage/packages/f37/plasma-systemsettings/po/it/systemsettings.po | 
- | [ja]({{< ref "/f37/language/ja.md" >}}) | 212 | 212 | 100.0 | /mnt/stockage/packages/f37/plasma-systemsettings/po/ja/systemsettings.po | 
- | [ka]({{< ref "/f37/language/ka.md" >}}) | 212 | 212 | 100.0 | /mnt/stockage/packages/f37/plasma-systemsettings/po/ka/systemsettings.po | 
- | [ko]({{< ref "/f37/language/ko.md" >}}) | 212 | 212 | 100.0 | /mnt/stockage/packages/f37/plasma-systemsettings/po/ko/systemsettings.po | 
- | [nb_NO]({{< ref "/f37/language/nb_NO.md" >}}) | 212 | 212 | 100.0 | /mnt/stockage/packages/f37/plasma-systemsettings/po/nb/systemsettings.po | 
- | [nl]({{< ref "/f37/language/nl.md" >}}) | 212 | 212 | 100.0 | /mnt/stockage/packages/f37/plasma-systemsettings/po/nl/systemsettings.po | 
- | [nn]({{< ref "/f37/language/nn.md" >}}) | 212 | 212 | 100.0 | /mnt/stockage/packages/f37/plasma-systemsettings/po/nn/systemsettings.po | 
- | [pl]({{< ref "/f37/language/pl.md" >}}) | 212 | 212 | 100.0 | /mnt/stockage/packages/f37/plasma-systemsettings/po/pl/systemsettings.po | 
- | [pt]({{< ref "/f37/language/pt.md" >}}) | 212 | 212 | 100.0 | /mnt/stockage/packages/f37/plasma-systemsettings/po/pt/systemsettings.po | 
- | [pt_BR]({{< ref "/f37/language/pt_BR.md" >}}) | 212 | 212 | 100.0 | /mnt/stockage/packages/f37/plasma-systemsettings/po/pt_BR/systemsettings.po | 
- | [ru]({{< ref "/f37/language/ru.md" >}}) | 212 | 212 | 100.0 | /mnt/stockage/packages/f37/plasma-systemsettings/po/ru/systemsettings.po | 
- | [sk]({{< ref "/f37/language/sk.md" >}}) | 212 | 212 | 100.0 | /mnt/stockage/packages/f37/plasma-systemsettings/po/sk/systemsettings.po | 
- | [sl]({{< ref "/f37/language/sl.md" >}}) | 212 | 212 | 100.0 | /mnt/stockage/packages/f37/plasma-systemsettings/po/sl/systemsettings.po | 
- | [sv]({{< ref "/f37/language/sv.md" >}}) | 212 | 212 | 100.0 | /mnt/stockage/packages/f37/plasma-systemsettings/po/sv/systemsettings.po | 
- | [ta]({{< ref "/f37/language/ta.md" >}}) | 212 | 212 | 100.0 | /mnt/stockage/packages/f37/plasma-systemsettings/po/ta/systemsettings.po | 
- | [tr]({{< ref "/f37/language/tr.md" >}}) | 212 | 212 | 100.0 | /mnt/stockage/packages/f37/plasma-systemsettings/po/tr/systemsettings.po | 
- | [uk]({{< ref "/f37/language/uk.md" >}}) | 212 | 212 | 100.0 | /mnt/stockage/packages/f37/plasma-systemsettings/po/uk/systemsettings.po | 
- | [vi]({{< ref "/f37/language/vi.md" >}}) | 212 | 212 | 100.0 | /mnt/stockage/packages/f37/plasma-systemsettings/po/vi/systemsettings.po | 
- | [zh_Hans]({{< ref "/f37/language/zh_Hans.md" >}}) | 212 | 212 | 100.0 | /mnt/stockage/packages/f37/plasma-systemsettings/po/zh_CN/systemsettings.po | 
- | [zh_Hant]({{< ref "/f37/language/zh_Hant.md" >}}) | 212 | 212 | 100.0 | /mnt/stockage/packages/f37/plasma-systemsettings/po/zh_TW/systemsettings.po | 
- | [az]({{< ref "/f37/language/az.md" >}}) | 209 | 212 | 98.6 | /mnt/stockage/packages/f37/plasma-systemsettings/po/az/systemsettings.po | 
- | [be]({{< ref "/f37/language/be.md" >}}) | 209 | 212 | 98.6 | /mnt/stockage/packages/f37/plasma-systemsettings/po/be/systemsettings.po | 
- | [lt]({{< ref "/f37/language/lt.md" >}}) | 209 | 212 | 98.6 | /mnt/stockage/packages/f37/plasma-systemsettings/po/lt/systemsettings.po | 
- | [ro]({{< ref "/f37/language/ro.md" >}}) | 209 | 212 | 98.6 | /mnt/stockage/packages/f37/plasma-systemsettings/po/ro/systemsettings.po | 
- | [da]({{< ref "/f37/language/da.md" >}}) | 202 | 212 | 95.3 | /mnt/stockage/packages/f37/plasma-systemsettings/po/da/systemsettings.po | 
- | [el]({{< ref "/f37/language/el.md" >}}) | 202 | 212 | 95.3 | /mnt/stockage/packages/f37/plasma-systemsettings/po/el/systemsettings.po | 
- | [hi]({{< ref "/f37/language/hi.md" >}}) | 202 | 212 | 95.3 | /mnt/stockage/packages/f37/plasma-systemsettings/po/hi/systemsettings.po | 
- | [hu]({{< ref "/f37/language/hu.md" >}}) | 202 | 212 | 95.3 | /mnt/stockage/packages/f37/plasma-systemsettings/po/hu/systemsettings.po | 
- | [is]({{< ref "/f37/language/is.md" >}}) | 202 | 212 | 95.3 | /mnt/stockage/packages/f37/plasma-systemsettings/po/is/systemsettings.po | 
- | [my]({{< ref "/f37/language/my.md" >}}) | 202 | 212 | 95.3 | /mnt/stockage/packages/f37/plasma-systemsettings/po/my/systemsettings.po | 
- | [ml]({{< ref "/f37/language/ml.md" >}}) | 194 | 212 | 91.5 | /mnt/stockage/packages/f37/plasma-systemsettings/po/ml/systemsettings.po | 
- | [et]({{< ref "/f37/language/et.md" >}}) | 192 | 212 | 90.6 | /mnt/stockage/packages/f37/plasma-systemsettings/po/et/systemsettings.po | 
- | [pa]({{< ref "/f37/language/pa.md" >}}) | 192 | 212 | 90.6 | /mnt/stockage/packages/f37/plasma-systemsettings/po/pa/systemsettings.po | 
- | [sr]({{< ref "/f37/language/sr.md" >}}) | 185 | 228 | 81.1 | /mnt/stockage/packages/f37/plasma-systemsettings/po/sr/systemsettings.po | 
- | [sr@ijekavian]({{< ref "/f37/language/sr@ijekavian.md" >}}) | 185 | 228 | 81.1 | /mnt/stockage/packages/f37/plasma-systemsettings/po/sr@ijekavian/systemsettings.po | 
- | [sr@ijekavian_Latn]({{< ref "/f37/language/sr@ijekavian_Latn.md" >}}) | 185 | 228 | 81.1 | /mnt/stockage/packages/f37/plasma-systemsettings/po/sr@ijekavianlatin/systemsettings.po | 
- | [sr_Latn]({{< ref "/f37/language/sr_Latn.md" >}}) | 185 | 228 | 81.1 | /mnt/stockage/packages/f37/plasma-systemsettings/po/sr@latin/systemsettings.po | 
- | [tg]({{< ref "/f37/language/tg.md" >}}) | 167 | 212 | 78.8 | /mnt/stockage/packages/f37/plasma-systemsettings/po/tg/systemsettings.po | 
- | [he]({{< ref "/f37/language/he.md" >}}) | 133 | 212 | 62.7 | /mnt/stockage/packages/f37/plasma-systemsettings/po/he/systemsettings.po | 
- | [bs]({{< ref "/f37/language/bs.md" >}}) | 111 | 212 | 52.4 | /mnt/stockage/packages/f37/plasma-systemsettings/po/bs/systemsettings.po | 
- | [csb]({{< ref "/f37/language/csb.md" >}}) | 111 | 212 | 52.4 | /mnt/stockage/packages/f37/plasma-systemsettings/po/csb/systemsettings.po | 
- | [fy]({{< ref "/f37/language/fy.md" >}}) | 111 | 212 | 52.4 | /mnt/stockage/packages/f37/plasma-systemsettings/po/fy/systemsettings.po | 
- | [ga]({{< ref "/f37/language/ga.md" >}}) | 111 | 212 | 52.4 | /mnt/stockage/packages/f37/plasma-systemsettings/po/ga/systemsettings.po | 
- | [gu]({{< ref "/f37/language/gu.md" >}}) | 111 | 212 | 52.4 | /mnt/stockage/packages/f37/plasma-systemsettings/po/gu/systemsettings.po | 
- | [hr]({{< ref "/f37/language/hr.md" >}}) | 111 | 212 | 52.4 | /mnt/stockage/packages/f37/plasma-systemsettings/po/hr/systemsettings.po | 
- | [kk]({{< ref "/f37/language/kk.md" >}}) | 111 | 212 | 52.4 | /mnt/stockage/packages/f37/plasma-systemsettings/po/kk/systemsettings.po | 
- | [km]({{< ref "/f37/language/km.md" >}}) | 111 | 212 | 52.4 | /mnt/stockage/packages/f37/plasma-systemsettings/po/km/systemsettings.po | 
- | [lv]({{< ref "/f37/language/lv.md" >}}) | 111 | 212 | 52.4 | /mnt/stockage/packages/f37/plasma-systemsettings/po/lv/systemsettings.po | 
- | [mr]({{< ref "/f37/language/mr.md" >}}) | 111 | 212 | 52.4 | /mnt/stockage/packages/f37/plasma-systemsettings/po/mr/systemsettings.po | 
- | [nds]({{< ref "/f37/language/nds.md" >}}) | 111 | 212 | 52.4 | /mnt/stockage/packages/f37/plasma-systemsettings/po/nds/systemsettings.po | 
- | [th]({{< ref "/f37/language/th.md" >}}) | 111 | 212 | 52.4 | /mnt/stockage/packages/f37/plasma-systemsettings/po/th/systemsettings.po | 
- | [ug]({{< ref "/f37/language/ug.md" >}}) | 111 | 212 | 52.4 | /mnt/stockage/packages/f37/plasma-systemsettings/po/ug/systemsettings.po | 
- | [wa]({{< ref "/f37/language/wa.md" >}}) | 111 | 212 | 52.4 | /mnt/stockage/packages/f37/plasma-systemsettings/po/wa/systemsettings.po | 
- | [mk]({{< ref "/f37/language/mk.md" >}}) | 62 | 212 | 29.2 | /mnt/stockage/packages/f37/plasma-systemsettings/po/mk/systemsettings.po | 
- | [fa]({{< ref "/f37/language/fa.md" >}}) | 61 | 212 | 28.8 | /mnt/stockage/packages/f37/plasma-systemsettings/po/fa/systemsettings.po | 
- | [ms]({{< ref "/f37/language/ms.md" >}}) | 26 | 212 | 12.3 | /mnt/stockage/packages/f37/plasma-systemsettings/po/ms/systemsettings.po | 
- | [mai]({{< ref "/f37/language/mai.md" >}}) | 22 | 212 | 10.4 | /mnt/stockage/packages/f37/plasma-systemsettings/po/mai/systemsettings.po | 
- | [be_Latn]({{< ref "/f37/language/be_Latn.md" >}}) | 7 | 212 | 3.3 | /mnt/stockage/packages/f37/plasma-systemsettings/po/be@latin/systemsettings.po | 
- | [bn_IN]({{< ref "/f37/language/bn_IN.md" >}}) | 7 | 212 | 3.3 | /mnt/stockage/packages/f37/plasma-systemsettings/po/bn_IN/systemsettings.po | 
- | [hne]({{< ref "/f37/language/hne.md" >}}) | 7 | 212 | 3.3 | /mnt/stockage/packages/f37/plasma-systemsettings/po/hne/systemsettings.po | 
- | [hsb]({{< ref "/f37/language/hsb.md" >}}) | 7 | 212 | 3.3 | /mnt/stockage/packages/f37/plasma-systemsettings/po/hsb/systemsettings.po | 
- | [ku]({{< ref "/f37/language/ku.md" >}}) | 7 | 212 | 3.3 | /mnt/stockage/packages/f37/plasma-systemsettings/po/ku/systemsettings.po | 
- | [ne]({{< ref "/f37/language/ne.md" >}}) | 7 | 212 | 3.3 | /mnt/stockage/packages/f37/plasma-systemsettings/po/ne/systemsettings.po | 
- | [oc]({{< ref "/f37/language/oc.md" >}}) | 7 | 212 | 3.3 | /mnt/stockage/packages/f37/plasma-systemsettings/po/oc/systemsettings.po | 
- | [se]({{< ref "/f37/language/se.md" >}}) | 7 | 212 | 3.3 | /mnt/stockage/packages/f37/plasma-systemsettings/po/se/systemsettings.po | 
- | [si]({{< ref "/f37/language/si.md" >}}) | 7 | 212 | 3.3 | /mnt/stockage/packages/f37/plasma-systemsettings/po/si/systemsettings.po | 
- | [sq]({{< ref "/f37/language/sq.md" >}}) | 7 | 212 | 3.3 | /mnt/stockage/packages/f37/plasma-systemsettings/po/sq/systemsettings.po | 
- | [te]({{< ref "/f37/language/te.md" >}}) | 7 | 212 | 3.3 | /mnt/stockage/packages/f37/plasma-systemsettings/po/te/systemsettings.po | 
- | [or]({{< ref "/f37/language/or.md" >}}) | 0 | 212 | 0.0 | /mnt/stockage/packages/f37/plasma-systemsettings/po/or/systemsettings.po | 
+ | [ar](/f37/language/ar) | 212 | 212 | 100.0 | /mnt/stockage/packages/f37/plasma-systemsettings/po/ar/systemsettings.po | 
+ | [bg](/f37/language/bg) | 212 | 212 | 100.0 | /mnt/stockage/packages/f37/plasma-systemsettings/po/bg/systemsettings.po | 
+ | [ca](/f37/language/ca) | 212 | 212 | 100.0 | /mnt/stockage/packages/f37/plasma-systemsettings/po/ca/systemsettings.po | 
+ | [ca@valencia](/f37/language/ca@valencia) | 212 | 212 | 100.0 | /mnt/stockage/packages/f37/plasma-systemsettings/po/ca@valencia/systemsettings.po | 
+ | [cs](/f37/language/cs) | 212 | 212 | 100.0 | /mnt/stockage/packages/f37/plasma-systemsettings/po/cs/systemsettings.po | 
+ | [de](/f37/language/de) | 212 | 212 | 100.0 | /mnt/stockage/packages/f37/plasma-systemsettings/po/de/systemsettings.po | 
+ | [en_GB](/f37/language/en_GB) | 212 | 212 | 100.0 | /mnt/stockage/packages/f37/plasma-systemsettings/po/en_GB/systemsettings.po | 
+ | [eo](/f37/language/eo) | 212 | 212 | 100.0 | /mnt/stockage/packages/f37/plasma-systemsettings/po/eo/systemsettings.po | 
+ | [es](/f37/language/es) | 212 | 212 | 100.0 | /mnt/stockage/packages/f37/plasma-systemsettings/po/es/systemsettings.po | 
+ | [eu](/f37/language/eu) | 212 | 212 | 100.0 | /mnt/stockage/packages/f37/plasma-systemsettings/po/eu/systemsettings.po | 
+ | [fi](/f37/language/fi) | 212 | 212 | 100.0 | /mnt/stockage/packages/f37/plasma-systemsettings/po/fi/systemsettings.po | 
+ | [fr](/f37/language/fr) | 212 | 212 | 100.0 | /mnt/stockage/packages/f37/plasma-systemsettings/po/fr/systemsettings.po | 
+ | [gl](/f37/language/gl) | 212 | 212 | 100.0 | /mnt/stockage/packages/f37/plasma-systemsettings/po/gl/systemsettings.po | 
+ | [ia](/f37/language/ia) | 212 | 212 | 100.0 | /mnt/stockage/packages/f37/plasma-systemsettings/po/ia/systemsettings.po | 
+ | [id](/f37/language/id) | 212 | 212 | 100.0 | /mnt/stockage/packages/f37/plasma-systemsettings/po/id/systemsettings.po | 
+ | [it](/f37/language/it) | 212 | 212 | 100.0 | /mnt/stockage/packages/f37/plasma-systemsettings/po/it/systemsettings.po | 
+ | [ja](/f37/language/ja) | 212 | 212 | 100.0 | /mnt/stockage/packages/f37/plasma-systemsettings/po/ja/systemsettings.po | 
+ | [ka](/f37/language/ka) | 212 | 212 | 100.0 | /mnt/stockage/packages/f37/plasma-systemsettings/po/ka/systemsettings.po | 
+ | [ko](/f37/language/ko) | 212 | 212 | 100.0 | /mnt/stockage/packages/f37/plasma-systemsettings/po/ko/systemsettings.po | 
+ | [nb_NO](/f37/language/nb_NO) | 212 | 212 | 100.0 | /mnt/stockage/packages/f37/plasma-systemsettings/po/nb/systemsettings.po | 
+ | [nl](/f37/language/nl) | 212 | 212 | 100.0 | /mnt/stockage/packages/f37/plasma-systemsettings/po/nl/systemsettings.po | 
+ | [nn](/f37/language/nn) | 212 | 212 | 100.0 | /mnt/stockage/packages/f37/plasma-systemsettings/po/nn/systemsettings.po | 
+ | [pl](/f37/language/pl) | 212 | 212 | 100.0 | /mnt/stockage/packages/f37/plasma-systemsettings/po/pl/systemsettings.po | 
+ | [pt](/f37/language/pt) | 212 | 212 | 100.0 | /mnt/stockage/packages/f37/plasma-systemsettings/po/pt/systemsettings.po | 
+ | [pt_BR](/f37/language/pt_BR) | 212 | 212 | 100.0 | /mnt/stockage/packages/f37/plasma-systemsettings/po/pt_BR/systemsettings.po | 
+ | [ru](/f37/language/ru) | 212 | 212 | 100.0 | /mnt/stockage/packages/f37/plasma-systemsettings/po/ru/systemsettings.po | 
+ | [sk](/f37/language/sk) | 212 | 212 | 100.0 | /mnt/stockage/packages/f37/plasma-systemsettings/po/sk/systemsettings.po | 
+ | [sl](/f37/language/sl) | 212 | 212 | 100.0 | /mnt/stockage/packages/f37/plasma-systemsettings/po/sl/systemsettings.po | 
+ | [sv](/f37/language/sv) | 212 | 212 | 100.0 | /mnt/stockage/packages/f37/plasma-systemsettings/po/sv/systemsettings.po | 
+ | [ta](/f37/language/ta) | 212 | 212 | 100.0 | /mnt/stockage/packages/f37/plasma-systemsettings/po/ta/systemsettings.po | 
+ | [tr](/f37/language/tr) | 212 | 212 | 100.0 | /mnt/stockage/packages/f37/plasma-systemsettings/po/tr/systemsettings.po | 
+ | [uk](/f37/language/uk) | 212 | 212 | 100.0 | /mnt/stockage/packages/f37/plasma-systemsettings/po/uk/systemsettings.po | 
+ | [vi](/f37/language/vi) | 212 | 212 | 100.0 | /mnt/stockage/packages/f37/plasma-systemsettings/po/vi/systemsettings.po | 
+ | [zh_Hans](/f37/language/zh_Hans) | 212 | 212 | 100.0 | /mnt/stockage/packages/f37/plasma-systemsettings/po/zh_CN/systemsettings.po | 
+ | [zh_Hant](/f37/language/zh_Hant) | 212 | 212 | 100.0 | /mnt/stockage/packages/f37/plasma-systemsettings/po/zh_TW/systemsettings.po | 
+ | [az](/f37/language/az) | 209 | 212 | 98.6 | /mnt/stockage/packages/f37/plasma-systemsettings/po/az/systemsettings.po | 
+ | [be](/f37/language/be) | 209 | 212 | 98.6 | /mnt/stockage/packages/f37/plasma-systemsettings/po/be/systemsettings.po | 
+ | [lt](/f37/language/lt) | 209 | 212 | 98.6 | /mnt/stockage/packages/f37/plasma-systemsettings/po/lt/systemsettings.po | 
+ | [ro](/f37/language/ro) | 209 | 212 | 98.6 | /mnt/stockage/packages/f37/plasma-systemsettings/po/ro/systemsettings.po | 
+ | [da](/f37/language/da) | 202 | 212 | 95.3 | /mnt/stockage/packages/f37/plasma-systemsettings/po/da/systemsettings.po | 
+ | [el](/f37/language/el) | 202 | 212 | 95.3 | /mnt/stockage/packages/f37/plasma-systemsettings/po/el/systemsettings.po | 
+ | [hi](/f37/language/hi) | 202 | 212 | 95.3 | /mnt/stockage/packages/f37/plasma-systemsettings/po/hi/systemsettings.po | 
+ | [hu](/f37/language/hu) | 202 | 212 | 95.3 | /mnt/stockage/packages/f37/plasma-systemsettings/po/hu/systemsettings.po | 
+ | [is](/f37/language/is) | 202 | 212 | 95.3 | /mnt/stockage/packages/f37/plasma-systemsettings/po/is/systemsettings.po | 
+ | [my](/f37/language/my) | 202 | 212 | 95.3 | /mnt/stockage/packages/f37/plasma-systemsettings/po/my/systemsettings.po | 
+ | [ml](/f37/language/ml) | 194 | 212 | 91.5 | /mnt/stockage/packages/f37/plasma-systemsettings/po/ml/systemsettings.po | 
+ | [et](/f37/language/et) | 192 | 212 | 90.6 | /mnt/stockage/packages/f37/plasma-systemsettings/po/et/systemsettings.po | 
+ | [pa](/f37/language/pa) | 192 | 212 | 90.6 | /mnt/stockage/packages/f37/plasma-systemsettings/po/pa/systemsettings.po | 
+ | [sr](/f37/language/sr) | 185 | 228 | 81.1 | /mnt/stockage/packages/f37/plasma-systemsettings/po/sr/systemsettings.po | 
+ | [sr@ijekavian](/f37/language/sr@ijekavian) | 185 | 228 | 81.1 | /mnt/stockage/packages/f37/plasma-systemsettings/po/sr@ijekavian/systemsettings.po | 
+ | [sr@ijekavian_Latn](/f37/language/sr@ijekavian_Latn) | 185 | 228 | 81.1 | /mnt/stockage/packages/f37/plasma-systemsettings/po/sr@ijekavianlatin/systemsettings.po | 
+ | [sr_Latn](/f37/language/sr_Latn) | 185 | 228 | 81.1 | /mnt/stockage/packages/f37/plasma-systemsettings/po/sr@latin/systemsettings.po | 
+ | [tg](/f37/language/tg) | 167 | 212 | 78.8 | /mnt/stockage/packages/f37/plasma-systemsettings/po/tg/systemsettings.po | 
+ | [he](/f37/language/he) | 133 | 212 | 62.7 | /mnt/stockage/packages/f37/plasma-systemsettings/po/he/systemsettings.po | 
+ | [bs](/f37/language/bs) | 111 | 212 | 52.4 | /mnt/stockage/packages/f37/plasma-systemsettings/po/bs/systemsettings.po | 
+ | [csb](/f37/language/csb) | 111 | 212 | 52.4 | /mnt/stockage/packages/f37/plasma-systemsettings/po/csb/systemsettings.po | 
+ | [fy](/f37/language/fy) | 111 | 212 | 52.4 | /mnt/stockage/packages/f37/plasma-systemsettings/po/fy/systemsettings.po | 
+ | [ga](/f37/language/ga) | 111 | 212 | 52.4 | /mnt/stockage/packages/f37/plasma-systemsettings/po/ga/systemsettings.po | 
+ | [gu](/f37/language/gu) | 111 | 212 | 52.4 | /mnt/stockage/packages/f37/plasma-systemsettings/po/gu/systemsettings.po | 
+ | [hr](/f37/language/hr) | 111 | 212 | 52.4 | /mnt/stockage/packages/f37/plasma-systemsettings/po/hr/systemsettings.po | 
+ | [kk](/f37/language/kk) | 111 | 212 | 52.4 | /mnt/stockage/packages/f37/plasma-systemsettings/po/kk/systemsettings.po | 
+ | [km](/f37/language/km) | 111 | 212 | 52.4 | /mnt/stockage/packages/f37/plasma-systemsettings/po/km/systemsettings.po | 
+ | [lv](/f37/language/lv) | 111 | 212 | 52.4 | /mnt/stockage/packages/f37/plasma-systemsettings/po/lv/systemsettings.po | 
+ | [mr](/f37/language/mr) | 111 | 212 | 52.4 | /mnt/stockage/packages/f37/plasma-systemsettings/po/mr/systemsettings.po | 
+ | [nds](/f37/language/nds) | 111 | 212 | 52.4 | /mnt/stockage/packages/f37/plasma-systemsettings/po/nds/systemsettings.po | 
+ | [th](/f37/language/th) | 111 | 212 | 52.4 | /mnt/stockage/packages/f37/plasma-systemsettings/po/th/systemsettings.po | 
+ | [ug](/f37/language/ug) | 111 | 212 | 52.4 | /mnt/stockage/packages/f37/plasma-systemsettings/po/ug/systemsettings.po | 
+ | [wa](/f37/language/wa) | 111 | 212 | 52.4 | /mnt/stockage/packages/f37/plasma-systemsettings/po/wa/systemsettings.po | 
+ | [mk](/f37/language/mk) | 62 | 212 | 29.2 | /mnt/stockage/packages/f37/plasma-systemsettings/po/mk/systemsettings.po | 
+ | [fa](/f37/language/fa) | 61 | 212 | 28.8 | /mnt/stockage/packages/f37/plasma-systemsettings/po/fa/systemsettings.po | 
+ | [ms](/f37/language/ms) | 26 | 212 | 12.3 | /mnt/stockage/packages/f37/plasma-systemsettings/po/ms/systemsettings.po | 
+ | [mai](/f37/language/mai) | 22 | 212 | 10.4 | /mnt/stockage/packages/f37/plasma-systemsettings/po/mai/systemsettings.po | 
+ | [be_Latn](/f37/language/be_Latn) | 7 | 212 | 3.3 | /mnt/stockage/packages/f37/plasma-systemsettings/po/be@latin/systemsettings.po | 
+ | [bn_IN](/f37/language/bn_IN) | 7 | 212 | 3.3 | /mnt/stockage/packages/f37/plasma-systemsettings/po/bn_IN/systemsettings.po | 
+ | [hne](/f37/language/hne) | 7 | 212 | 3.3 | /mnt/stockage/packages/f37/plasma-systemsettings/po/hne/systemsettings.po | 
+ | [hsb](/f37/language/hsb) | 7 | 212 | 3.3 | /mnt/stockage/packages/f37/plasma-systemsettings/po/hsb/systemsettings.po | 
+ | [ku](/f37/language/ku) | 7 | 212 | 3.3 | /mnt/stockage/packages/f37/plasma-systemsettings/po/ku/systemsettings.po | 
+ | [ne](/f37/language/ne) | 7 | 212 | 3.3 | /mnt/stockage/packages/f37/plasma-systemsettings/po/ne/systemsettings.po | 
+ | [oc](/f37/language/oc) | 7 | 212 | 3.3 | /mnt/stockage/packages/f37/plasma-systemsettings/po/oc/systemsettings.po | 
+ | [se](/f37/language/se) | 7 | 212 | 3.3 | /mnt/stockage/packages/f37/plasma-systemsettings/po/se/systemsettings.po | 
+ | [si](/f37/language/si) | 7 | 212 | 3.3 | /mnt/stockage/packages/f37/plasma-systemsettings/po/si/systemsettings.po | 
+ | [sq](/f37/language/sq) | 7 | 212 | 3.3 | /mnt/stockage/packages/f37/plasma-systemsettings/po/sq/systemsettings.po | 
+ | [te](/f37/language/te) | 7 | 212 | 3.3 | /mnt/stockage/packages/f37/plasma-systemsettings/po/te/systemsettings.po | 
+ | [or](/f37/language/or) | 0 | 212 | 0.0 | /mnt/stockage/packages/f37/plasma-systemsettings/po/or/systemsettings.po | 
 {.sortable}
 
 

@@ -18,8 +18,8 @@ The package perl-Catalyst-Plugin-I18N (version 0.10):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f15/language/de.md" >}}) | 1 | 1 | 100.0 | /mnt/stockage/packages/f15/perl-Catalyst-Plugin-I18N/t/lib/TestApp/I18N/de.po | 
- | [error]({{< ref "/f15/language/error.md" >}}) | 2 | 2 | 100.0 | /mnt/stockage/packages/f15/perl-Catalyst-Plugin-I18N/t/lib/TestApp/I18N/i_default.po | 
+ | [de](/f15/language/de) | 1 | 1 | 100.0 | /mnt/stockage/packages/f15/perl-Catalyst-Plugin-I18N/t/lib/TestApp/I18N/de.po | 
+ | [error](/f15/language/error) | 2 | 2 | 100.0 | /mnt/stockage/packages/f15/perl-Catalyst-Plugin-I18N/t/lib/TestApp/I18N/i_default.po | 
 {.sortable}
 
 

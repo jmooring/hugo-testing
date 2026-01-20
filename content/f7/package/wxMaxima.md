@@ -18,12 +18,12 @@ The package wxMaxima (version 0.7.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f7/language/de.md" >}}) | 2460 | 2460 | 100.0 | /mnt/stockage/packages/f7/wxMaxima/locales/de.po | 
- | [es]({{< ref "/f7/language/es.md" >}}) | 2460 | 2460 | 100.0 | /mnt/stockage/packages/f7/wxMaxima/locales/es.po | 
- | [fr]({{< ref "/f7/language/fr.md" >}}) | 2460 | 2460 | 100.0 | /mnt/stockage/packages/f7/wxMaxima/locales/fr.po | 
- | [pt_BR]({{< ref "/f7/language/pt_BR.md" >}}) | 2460 | 2460 | 100.0 | /mnt/stockage/packages/f7/wxMaxima/locales/pt_BR.po | 
- | [ru]({{< ref "/f7/language/ru.md" >}}) | 2460 | 2460 | 100.0 | /mnt/stockage/packages/f7/wxMaxima/locales/ru.po | 
- | [it]({{< ref "/f7/language/it.md" >}}) | 2421 | 2460 | 98.4 | /mnt/stockage/packages/f7/wxMaxima/locales/it.po | 
+ | [de](/f7/language/de) | 2460 | 2460 | 100.0 | /mnt/stockage/packages/f7/wxMaxima/locales/de.po | 
+ | [es](/f7/language/es) | 2460 | 2460 | 100.0 | /mnt/stockage/packages/f7/wxMaxima/locales/es.po | 
+ | [fr](/f7/language/fr) | 2460 | 2460 | 100.0 | /mnt/stockage/packages/f7/wxMaxima/locales/fr.po | 
+ | [pt_BR](/f7/language/pt_BR) | 2460 | 2460 | 100.0 | /mnt/stockage/packages/f7/wxMaxima/locales/pt_BR.po | 
+ | [ru](/f7/language/ru) | 2460 | 2460 | 100.0 | /mnt/stockage/packages/f7/wxMaxima/locales/ru.po | 
+ | [it](/f7/language/it) | 2421 | 2460 | 98.4 | /mnt/stockage/packages/f7/wxMaxima/locales/it.po | 
 {.sortable}
 
 

@@ -18,7 +18,7 @@ The package klibido (version 0.2.5):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f9/language/fr.md" >}}) | 1015 | 1025 | 99.0 | /mnt/stockage/packages/f9/klibido/po/fr.po | 
+ | [fr](/f9/language/fr) | 1015 | 1025 | 99.0 | /mnt/stockage/packages/f9/klibido/po/fr.po | 
 {.sortable}
 
 

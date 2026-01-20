@@ -18,11 +18,11 @@ The package srain (version 1.7.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [nl]({{< ref "/f40/language/nl.md" >}}) | 1077 | 1077 | 100.0 | /mnt/stockage/packages/f40/srain/po/nl.po | 
- | [uk]({{< ref "/f40/language/uk.md" >}}) | 1077 | 1077 | 100.0 | /mnt/stockage/packages/f40/srain/po/uk.po | 
- | [fr]({{< ref "/f40/language/fr.md" >}}) | 1066 | 1077 | 99.0 | /mnt/stockage/packages/f40/srain/po/fr.po | 
- | [zh_Hans]({{< ref "/f40/language/zh_Hans.md" >}}) | 938 | 1077 | 87.1 | /mnt/stockage/packages/f40/srain/po/zh_CN.po | 
- | [ru]({{< ref "/f40/language/ru.md" >}}) | 656 | 1077 | 60.9 | /mnt/stockage/packages/f40/srain/po/ru.po | 
+ | [nl](/f40/language/nl) | 1077 | 1077 | 100.0 | /mnt/stockage/packages/f40/srain/po/nl.po | 
+ | [uk](/f40/language/uk) | 1077 | 1077 | 100.0 | /mnt/stockage/packages/f40/srain/po/uk.po | 
+ | [fr](/f40/language/fr) | 1066 | 1077 | 99.0 | /mnt/stockage/packages/f40/srain/po/fr.po | 
+ | [zh_Hans](/f40/language/zh_Hans) | 938 | 1077 | 87.1 | /mnt/stockage/packages/f40/srain/po/zh_CN.po | 
+ | [ru](/f40/language/ru) | 656 | 1077 | 60.9 | /mnt/stockage/packages/f40/srain/po/ru.po | 
 {.sortable}
 
 

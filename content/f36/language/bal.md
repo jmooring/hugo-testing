@@ -41,17 +41,17 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [newt]({{< ref "/f36/package/newt.md" >}}) | 4 | 4 | 100.0 | Balochi <fedora-trans-bal@redhat.com> | 
- | [setuptool]({{< ref "/f36/package/setuptool.md" >}}) | 55 | 55 | 100.0 | Balochi <fedora-trans-bal@redhat.com> | 
- | [chkconfig]({{< ref "/f36/package/chkconfig.md" >}}) | 410 | 593 | 69.1 | Baluchi <https://translate.fedoraproject.org/projects/fedora-sysv/chkconfig/bal/> | 
- | [system-switch-mail]({{< ref "/f36/package/system-switch-mail.md" >}}) | 9 | 101 | 8.9 | Balochi <fedora-trans-bal@redhat.com> | 
- | [policycoreutils]({{< ref "/f36/package/policycoreutils.md" >}}) | 7 | 12171 | 0.1 | Baluchi | 
- | [android-tools]({{< ref "/f36/package/android-tools.md" >}}) | 0 | 7678 | 0.0 | Balochi <trans-bal@lists.fedoraproject.org> | 
- | [entangle]({{< ref "/f36/package/entangle.md" >}}) | 0 | 953 | 0.0 | Baluchi | 
- | [initial-setup]({{< ref "/f36/package/initial-setup.md" >}}) | 0 | 33 | 0.0 | Baluchi | 
- | [libvirt-sandbox]({{< ref "/f36/package/libvirt-sandbox.md" >}}) | 0 | 617 | 0.0 | Balochi <trans-bal@lists.fedoraproject.org> | 
- | [python-fedora]({{< ref "/f36/package/python-fedora.md" >}}) | 0 | 214 | 0.0 | Baluchi | 
- | [python-meh]({{< ref "/f36/package/python-meh.md" >}}) | 0 | 109 | 0.0 | Baluchi | 
+ | [newt](/f36/package/newt) | 4 | 4 | 100.0 | Balochi <fedora-trans-bal@redhat.com> | 
+ | [setuptool](/f36/package/setuptool) | 55 | 55 | 100.0 | Balochi <fedora-trans-bal@redhat.com> | 
+ | [chkconfig](/f36/package/chkconfig) | 410 | 593 | 69.1 | Baluchi <https://translate.fedoraproject.org/projects/fedora-sysv/chkconfig/bal/> | 
+ | [system-switch-mail](/f36/package/system-switch-mail) | 9 | 101 | 8.9 | Balochi <fedora-trans-bal@redhat.com> | 
+ | [policycoreutils](/f36/package/policycoreutils) | 7 | 12171 | 0.1 | Baluchi | 
+ | [android-tools](/f36/package/android-tools) | 0 | 7678 | 0.0 | Balochi <trans-bal@lists.fedoraproject.org> | 
+ | [entangle](/f36/package/entangle) | 0 | 953 | 0.0 | Baluchi | 
+ | [initial-setup](/f36/package/initial-setup) | 0 | 33 | 0.0 | Baluchi | 
+ | [libvirt-sandbox](/f36/package/libvirt-sandbox) | 0 | 617 | 0.0 | Balochi <trans-bal@lists.fedoraproject.org> | 
+ | [python-fedora](/f36/package/python-fedora) | 0 | 214 | 0.0 | Baluchi | 
+ | [python-meh](/f36/package/python-meh) | 0 | 109 | 0.0 | Baluchi | 
 {.sortable}
 
 

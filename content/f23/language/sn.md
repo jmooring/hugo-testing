@@ -38,7 +38,7 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [mintmenu]({{< ref "/f23/package/mintmenu.md" >}}) | 0 | 862 | 0.0 | Shona <sn@li.org> | 
+ | [mintmenu](/f23/package/mintmenu) | 0 | 862 | 0.0 | Shona <sn@li.org> | 
 {.sortable}
 
 

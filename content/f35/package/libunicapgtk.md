@@ -18,9 +18,9 @@ The package libunicapgtk (version 0.9.8):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f35/language/de.md" >}}) | 99 | 100 | 99.0 | /mnt/stockage/packages/f35/libunicapgtk/po/de.po | 
- | [fr]({{< ref "/f35/language/fr.md" >}}) | 97 | 98 | 99.0 | /mnt/stockage/packages/f35/libunicapgtk/po/fr.po | 
- | [ru]({{< ref "/f35/language/ru.md" >}}) | 147 | 156 | 94.2 | /mnt/stockage/packages/f35/libunicapgtk/po/ru.po | 
+ | [de](/f35/language/de) | 99 | 100 | 99.0 | /mnt/stockage/packages/f35/libunicapgtk/po/de.po | 
+ | [fr](/f35/language/fr) | 97 | 98 | 99.0 | /mnt/stockage/packages/f35/libunicapgtk/po/fr.po | 
+ | [ru](/f35/language/ru) | 147 | 156 | 94.2 | /mnt/stockage/packages/f35/libunicapgtk/po/ru.po | 
 {.sortable}
 
 

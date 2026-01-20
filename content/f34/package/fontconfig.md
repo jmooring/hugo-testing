@@ -18,7 +18,7 @@ The package fontconfig (version 2.13.94):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [zh_Hans]({{< ref "/f34/language/zh_Hans.md" >}}) | 892 | 964 | 92.5 | /mnt/stockage/packages/f34/fontconfig/po/zh_CN.po/mnt/stockage/packages/f34/fontconfig/po-conf/zh_CN.po | 
+ | [zh_Hans](/f34/language/zh_Hans) | 892 | 964 | 92.5 | /mnt/stockage/packages/f34/fontconfig/po/zh_CN.po/mnt/stockage/packages/f34/fontconfig/po-conf/zh_CN.po | 
 {.sortable}
 
 

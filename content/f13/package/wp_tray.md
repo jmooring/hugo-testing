@@ -18,7 +18,7 @@ The package wp_tray (version 0.5.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [en_GB]({{< ref "/f13/language/en_GB.md" >}}) | 363 | 363 | 100.0 | /mnt/stockage/packages/f13/wp_tray/po/en_GB.po | 
+ | [en_GB](/f13/language/en_GB) | 363 | 363 | 100.0 | /mnt/stockage/packages/f13/wp_tray/po/en_GB.po | 
 {.sortable}
 
 

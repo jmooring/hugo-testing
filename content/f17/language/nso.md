@@ -38,63 +38,63 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [gdm]({{< ref "/f17/package/gdm.md" >}}) | 5294 | 5294 | 100.0 | Northern Sotho <translate-discuss-nso@lists.sourceforge.net> | 
- | [gnome-mime-data]({{< ref "/f17/package/gnome-mime-data.md" >}}) | 887 | 887 | 100.0 | Northern Sotho <translate-discuss-nso@lists.sourceforge.net> | 
- | [mate-mime-data]({{< ref "/f17/package/mate-mime-data.md" >}}) | 887 | 887 | 100.0 | LANGUAGE <LL@li.org> | 
- | [virtaal]({{< ref "/f17/package/virtaal.md" >}}) | 1663 | 1663 | 100.0 | LANGUAGE <LL@li.org> | 
- | [gnome-session]({{< ref "/f17/package/gnome-session.md" >}}) | 513 | 516 | 99.4 | Northern Sotho <translate-discuss-nso@lists.sourceforge.net> | 
- | [mate-session-manager]({{< ref "/f17/package/mate-session-manager.md" >}}) | 513 | 516 | 99.4 | Northern Sotho <translate-discuss-nso@lists.sourceforge.net> | 
- | [gnome-desktop]({{< ref "/f17/package/gnome-desktop.md" >}}) | 316 | 320 | 98.8 | Northern Sotho <translate-discuss-nso@lists.sourceforge.net> | 
- | [gnome-desktop3]({{< ref "/f17/package/gnome-desktop3.md" >}}) | 316 | 320 | 98.8 | Northern Sotho <translate-discuss-nso@lists.sourceforge.net> | 
- | [mate-desktop]({{< ref "/f17/package/mate-desktop.md" >}}) | 316 | 320 | 98.8 | Northern Sotho <translate-discuss-nso@lists.sourceforge.net> | 
- | [gnome-vfs2]({{< ref "/f17/package/gnome-vfs2.md" >}}) | 1263 | 1282 | 98.5 | Northern Sotho <translate-discuss-nso@lists.sourceforge.net> | 
- | [libmateui]({{< ref "/f17/package/libmateui.md" >}}) | 1135 | 1223 | 92.8 | LANGUAGE <LL@li.org> | 
- | [gnome-panel]({{< ref "/f17/package/gnome-panel.md" >}}) | 3596 | 3937 | 91.3 | Northern Sotho <translate-discuss-nso@lists.sourceforge.net> | 
- | [eog]({{< ref "/f17/package/eog.md" >}}) | 554 | 614 | 90.2 | Northern Sotho <translate-discuss-nso@lists.sourceforge.net> | 
- | [libgnomeui]({{< ref "/f17/package/libgnomeui.md" >}}) | 1270 | 1419 | 89.5 | Northern Sotho <translate-discuss-nso@lists.sourceforge.net> | 
- | [libbonoboui]({{< ref "/f17/package/libbonoboui.md" >}}) | 314 | 360 | 87.2 | Northern Sotho <translate-discuss-nso@lists.sourceforge.net> | 
- | [libmatecomponentui]({{< ref "/f17/package/libmatecomponentui.md" >}}) | 314 | 368 | 85.3 | LANGUAGE <LL@li.org> | 
- | [pootle]({{< ref "/f17/package/pootle.md" >}}) | 2967 | 3497 | 84.8 | LANGUAGE <LL@li.org> | 
- | [redhat-menus]({{< ref "/f17/package/redhat-menus.md" >}}) | 221 | 261 | 84.7 | Northern Sotho <translate-discuss-nso@lists.sourceforge.net> | 
- | [mate-vfs]({{< ref "/f17/package/mate-vfs.md" >}}) | 1188 | 1519 | 78.2 | LANGUAGE <LL@li.org> | 
- | [control-center]({{< ref "/f17/package/control-center.md" >}}) | 2626 | 3382 | 77.6 | Northern Sotho <translate-discuss-nso@lists.sourceforge.net> | 
- | [gdk-pixbuf2]({{< ref "/f17/package/gdk-pixbuf2.md" >}}) | 912 | 1345 | 67.8 | Northern Sotho <translate-discuss-nso@lists.sourceforge.net> | 
- | [mingw-gdk-pixbuf]({{< ref "/f17/package/mingw-gdk-pixbuf.md" >}}) | 912 | 1345 | 67.8 | Northern Sotho <translate-discuss-nso@lists.sourceforge.net> | 
- | [libreoffice]({{< ref "/f17/package/libreoffice.md" >}}) | 60322 | 93282 | 64.7 | LANGUAGE <LL@li.org> | 
- | [mate-panel]({{< ref "/f17/package/mate-panel.md" >}}) | 2472 | 4237 | 58.3 | LANGUAGE <LL@li.org> | 
- | [gtk2]({{< ref "/f17/package/gtk2.md" >}}) | 6886 | 13704 | 50.2 | Northern Sotho <translate-discuss-nso@lists.sourceforge.net> | 
- | [mingw-gtk2]({{< ref "/f17/package/mingw-gtk2.md" >}}) | 6886 | 13704 | 50.2 | Northern Sotho <translate-discuss-nso@lists.sourceforge.net> | 
- | [nautilus]({{< ref "/f17/package/nautilus.md" >}}) | 3641 | 8144 | 44.7 | Northern Sotho <translate-discuss-nso@lists.sourceforge.net> | 
- | [nemo]({{< ref "/f17/package/nemo.md" >}}) | 3641 | 8144 | 44.7 | Northern Sotho <translate-discuss-nso@lists.sourceforge.net> | 
- | [gtk3]({{< ref "/f17/package/gtk3.md" >}}) | 5264 | 11853 | 44.4 | Northern Sotho <translate-discuss-nso@lists.sourceforge.net> | 
- | [mingw-gtk3]({{< ref "/f17/package/mingw-gtk3.md" >}}) | 5264 | 11853 | 44.4 | Northern Sotho <translate-discuss-nso@lists.sourceforge.net> | 
- | [mate-file-manager]({{< ref "/f17/package/mate-file-manager.md" >}}) | 2970 | 9086 | 32.7 | LANGUAGE <LL@li.org> | 
- | [gnome-settings-daemon]({{< ref "/f17/package/gnome-settings-daemon.md" >}}) | 313 | 1034 | 30.3 | Northern Sotho <translate-discuss-nso@lists.sourceforge.net> | 
- | [drwright]({{< ref "/f17/package/drwright.md" >}}) | 54 | 191 | 28.3 | Northern Sotho <translate-discuss-nso@lists.sourceforge.net> | 
- | [anaconda]({{< ref "/f17/package/anaconda.md" >}}) | 1694 | 8297 | 20.4 | LANGUAGE <LL@li.org> | 
- | [yelp]({{< ref "/f17/package/yelp.md" >}}) | 110 | 606 | 18.2 | Northern Sotho <translate-discuss-nso@lists.sourceforge.net> | 
- | [mate-control-center]({{< ref "/f17/package/mate-control-center.md" >}}) | 401 | 2610 | 15.4 | LANGUAGE <LL@li.org> | 
- | [mate-image-viewer]({{< ref "/f17/package/mate-image-viewer.md" >}}) | 205 | 1623 | 12.6 | LANGUAGE <LL@li.org> | 
- | [firstboot]({{< ref "/f17/package/firstboot.md" >}}) | 61 | 571 | 10.7 | LANGUAGE <LL@li.org> | 
- | [mate-settings-daemon]({{< ref "/f17/package/mate-settings-daemon.md" >}}) | 180 | 1735 | 10.4 | LANGUAGE <LL@li.org> | 
- | [mingw-libvirt]({{< ref "/f17/package/mingw-libvirt.md" >}}) | 954 | 33629 | 2.8 | none | 
- | [libvirt]({{< ref "/f17/package/libvirt.md" >}}) | 954 | 33917 | 2.8 | none | 
- | [iso-codes]({{< ref "/f17/package/iso-codes.md" >}}) | 361 | 18973 | 1.9 | Northern Sotho <sepedi@translate.org.za> | 
- | [koffice-kivio]({{< ref "/f17/package/koffice-kivio.md" >}}) | 113 | 8417 | 1.3 | <en@li.org> | 
- | [calibre]({{< ref "/f17/package/calibre.md" >}}) | 60 | 10496 | 0.6 | Northern Sotho <sepedi@translate.org.za> | 
- | [im-chooser]({{< ref "/f17/package/im-chooser.md" >}}) | 0 | 226 | 0.0 | LANGUAGE <LL@li.org> | 
- | [imsettings]({{< ref "/f17/package/imsettings.md" >}}) | 0 | 404 | 0.0 | LANGUAGE <LL@li.org> | 
- | [libgxim]({{< ref "/f17/package/libgxim.md" >}}) | 0 | 130 | 0.0 | none | 
- | [setroubleshoot]({{< ref "/f17/package/setroubleshoot.md" >}}) | 0 | 631 | 0.0 | LANGUAGE <LL@li.org> | 
- | [setroubleshoot-plugins]({{< ref "/f17/package/setroubleshoot-plugins.md" >}}) | 0 | 8291 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sos]({{< ref "/f17/package/sos.md" >}}) | 0 | 267 | 0.0 | none | 
- | [system-config-date-docs]({{< ref "/f17/package/system-config-date-docs.md" >}}) | 0 | 739 | 0.0 | LANGUAGE <LL@li.org> | 
- | [system-config-kdump]({{< ref "/f17/package/system-config-kdump.md" >}}) | 0 | 807 | 0.0 | LANGUAGE <LL@li.org> | 
- | [system-config-nfs-docs]({{< ref "/f17/package/system-config-nfs-docs.md" >}}) | 0 | 1192 | 0.0 | LANGUAGE <LL@li.org> | 
- | [system-config-samba-docs]({{< ref "/f17/package/system-config-samba-docs.md" >}}) | 0 | 1195 | 0.0 | LANGUAGE <LL@li.org> | 
- | [system-config-services-docs]({{< ref "/f17/package/system-config-services-docs.md" >}}) | 0 | 638 | 0.0 | LANGUAGE <LL@li.org> | 
- | [system-config-users-docs]({{< ref "/f17/package/system-config-users-docs.md" >}}) | 0 | 1061 | 0.0 | LANGUAGE <LL@li.org> | 
- | [vidalia]({{< ref "/f17/package/vidalia.md" >}}) | 0 | 10369 | 0.0 | translations@vidalia-project.net | 
+ | [gdm](/f17/package/gdm) | 5294 | 5294 | 100.0 | Northern Sotho <translate-discuss-nso@lists.sourceforge.net> | 
+ | [gnome-mime-data](/f17/package/gnome-mime-data) | 887 | 887 | 100.0 | Northern Sotho <translate-discuss-nso@lists.sourceforge.net> | 
+ | [mate-mime-data](/f17/package/mate-mime-data) | 887 | 887 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [virtaal](/f17/package/virtaal) | 1663 | 1663 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [gnome-session](/f17/package/gnome-session) | 513 | 516 | 99.4 | Northern Sotho <translate-discuss-nso@lists.sourceforge.net> | 
+ | [mate-session-manager](/f17/package/mate-session-manager) | 513 | 516 | 99.4 | Northern Sotho <translate-discuss-nso@lists.sourceforge.net> | 
+ | [gnome-desktop](/f17/package/gnome-desktop) | 316 | 320 | 98.8 | Northern Sotho <translate-discuss-nso@lists.sourceforge.net> | 
+ | [gnome-desktop3](/f17/package/gnome-desktop3) | 316 | 320 | 98.8 | Northern Sotho <translate-discuss-nso@lists.sourceforge.net> | 
+ | [mate-desktop](/f17/package/mate-desktop) | 316 | 320 | 98.8 | Northern Sotho <translate-discuss-nso@lists.sourceforge.net> | 
+ | [gnome-vfs2](/f17/package/gnome-vfs2) | 1263 | 1282 | 98.5 | Northern Sotho <translate-discuss-nso@lists.sourceforge.net> | 
+ | [libmateui](/f17/package/libmateui) | 1135 | 1223 | 92.8 | LANGUAGE <LL@li.org> | 
+ | [gnome-panel](/f17/package/gnome-panel) | 3596 | 3937 | 91.3 | Northern Sotho <translate-discuss-nso@lists.sourceforge.net> | 
+ | [eog](/f17/package/eog) | 554 | 614 | 90.2 | Northern Sotho <translate-discuss-nso@lists.sourceforge.net> | 
+ | [libgnomeui](/f17/package/libgnomeui) | 1270 | 1419 | 89.5 | Northern Sotho <translate-discuss-nso@lists.sourceforge.net> | 
+ | [libbonoboui](/f17/package/libbonoboui) | 314 | 360 | 87.2 | Northern Sotho <translate-discuss-nso@lists.sourceforge.net> | 
+ | [libmatecomponentui](/f17/package/libmatecomponentui) | 314 | 368 | 85.3 | LANGUAGE <LL@li.org> | 
+ | [pootle](/f17/package/pootle) | 2967 | 3497 | 84.8 | LANGUAGE <LL@li.org> | 
+ | [redhat-menus](/f17/package/redhat-menus) | 221 | 261 | 84.7 | Northern Sotho <translate-discuss-nso@lists.sourceforge.net> | 
+ | [mate-vfs](/f17/package/mate-vfs) | 1188 | 1519 | 78.2 | LANGUAGE <LL@li.org> | 
+ | [control-center](/f17/package/control-center) | 2626 | 3382 | 77.6 | Northern Sotho <translate-discuss-nso@lists.sourceforge.net> | 
+ | [gdk-pixbuf2](/f17/package/gdk-pixbuf2) | 912 | 1345 | 67.8 | Northern Sotho <translate-discuss-nso@lists.sourceforge.net> | 
+ | [mingw-gdk-pixbuf](/f17/package/mingw-gdk-pixbuf) | 912 | 1345 | 67.8 | Northern Sotho <translate-discuss-nso@lists.sourceforge.net> | 
+ | [libreoffice](/f17/package/libreoffice) | 60322 | 93282 | 64.7 | LANGUAGE <LL@li.org> | 
+ | [mate-panel](/f17/package/mate-panel) | 2472 | 4237 | 58.3 | LANGUAGE <LL@li.org> | 
+ | [gtk2](/f17/package/gtk2) | 6886 | 13704 | 50.2 | Northern Sotho <translate-discuss-nso@lists.sourceforge.net> | 
+ | [mingw-gtk2](/f17/package/mingw-gtk2) | 6886 | 13704 | 50.2 | Northern Sotho <translate-discuss-nso@lists.sourceforge.net> | 
+ | [nautilus](/f17/package/nautilus) | 3641 | 8144 | 44.7 | Northern Sotho <translate-discuss-nso@lists.sourceforge.net> | 
+ | [nemo](/f17/package/nemo) | 3641 | 8144 | 44.7 | Northern Sotho <translate-discuss-nso@lists.sourceforge.net> | 
+ | [gtk3](/f17/package/gtk3) | 5264 | 11853 | 44.4 | Northern Sotho <translate-discuss-nso@lists.sourceforge.net> | 
+ | [mingw-gtk3](/f17/package/mingw-gtk3) | 5264 | 11853 | 44.4 | Northern Sotho <translate-discuss-nso@lists.sourceforge.net> | 
+ | [mate-file-manager](/f17/package/mate-file-manager) | 2970 | 9086 | 32.7 | LANGUAGE <LL@li.org> | 
+ | [gnome-settings-daemon](/f17/package/gnome-settings-daemon) | 313 | 1034 | 30.3 | Northern Sotho <translate-discuss-nso@lists.sourceforge.net> | 
+ | [drwright](/f17/package/drwright) | 54 | 191 | 28.3 | Northern Sotho <translate-discuss-nso@lists.sourceforge.net> | 
+ | [anaconda](/f17/package/anaconda) | 1694 | 8297 | 20.4 | LANGUAGE <LL@li.org> | 
+ | [yelp](/f17/package/yelp) | 110 | 606 | 18.2 | Northern Sotho <translate-discuss-nso@lists.sourceforge.net> | 
+ | [mate-control-center](/f17/package/mate-control-center) | 401 | 2610 | 15.4 | LANGUAGE <LL@li.org> | 
+ | [mate-image-viewer](/f17/package/mate-image-viewer) | 205 | 1623 | 12.6 | LANGUAGE <LL@li.org> | 
+ | [firstboot](/f17/package/firstboot) | 61 | 571 | 10.7 | LANGUAGE <LL@li.org> | 
+ | [mate-settings-daemon](/f17/package/mate-settings-daemon) | 180 | 1735 | 10.4 | LANGUAGE <LL@li.org> | 
+ | [mingw-libvirt](/f17/package/mingw-libvirt) | 954 | 33629 | 2.8 | none | 
+ | [libvirt](/f17/package/libvirt) | 954 | 33917 | 2.8 | none | 
+ | [iso-codes](/f17/package/iso-codes) | 361 | 18973 | 1.9 | Northern Sotho <sepedi@translate.org.za> | 
+ | [koffice-kivio](/f17/package/koffice-kivio) | 113 | 8417 | 1.3 | <en@li.org> | 
+ | [calibre](/f17/package/calibre) | 60 | 10496 | 0.6 | Northern Sotho <sepedi@translate.org.za> | 
+ | [im-chooser](/f17/package/im-chooser) | 0 | 226 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [imsettings](/f17/package/imsettings) | 0 | 404 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [libgxim](/f17/package/libgxim) | 0 | 130 | 0.0 | none | 
+ | [setroubleshoot](/f17/package/setroubleshoot) | 0 | 631 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [setroubleshoot-plugins](/f17/package/setroubleshoot-plugins) | 0 | 8291 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sos](/f17/package/sos) | 0 | 267 | 0.0 | none | 
+ | [system-config-date-docs](/f17/package/system-config-date-docs) | 0 | 739 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [system-config-kdump](/f17/package/system-config-kdump) | 0 | 807 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [system-config-nfs-docs](/f17/package/system-config-nfs-docs) | 0 | 1192 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [system-config-samba-docs](/f17/package/system-config-samba-docs) | 0 | 1195 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [system-config-services-docs](/f17/package/system-config-services-docs) | 0 | 638 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [system-config-users-docs](/f17/package/system-config-users-docs) | 0 | 1061 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [vidalia](/f17/package/vidalia) | 0 | 10369 | 0.0 | translations@vidalia-project.net | 
 {.sortable}
 
 

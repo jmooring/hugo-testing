@@ -18,7 +18,7 @@ The package perl-MooX-Options (version 4.023):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f25/language/de.md" >}}) | 192 | 214 | 89.7 | /mnt/stockage/packages/f25/perl-MooX-Options/po/de_DE.po/mnt/stockage/packages/f25/perl-MooX-Options/po/de.po | 
+ | [de](/f25/language/de) | 192 | 214 | 89.7 | /mnt/stockage/packages/f25/perl-MooX-Options/po/de_DE.po/mnt/stockage/packages/f25/perl-MooX-Options/po/de.po | 
 {.sortable}
 
 

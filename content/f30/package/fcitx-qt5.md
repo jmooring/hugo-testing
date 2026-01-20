@@ -18,16 +18,16 @@ The package fcitx-qt5 (version 1.2.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f30/language/ca.md" >}}) | 99 | 99 | 100.0 | /mnt/stockage/packages/f30/fcitx-qt5/po/ca.po | 
- | [da]({{< ref "/f30/language/da.md" >}}) | 99 | 99 | 100.0 | /mnt/stockage/packages/f30/fcitx-qt5/po/da.po | 
- | [de]({{< ref "/f30/language/de.md" >}}) | 99 | 99 | 100.0 | /mnt/stockage/packages/f30/fcitx-qt5/po/de.po | 
- | [ja]({{< ref "/f30/language/ja.md" >}}) | 99 | 99 | 100.0 | /mnt/stockage/packages/f30/fcitx-qt5/po/ja.po | 
- | [ko]({{< ref "/f30/language/ko.md" >}}) | 99 | 99 | 100.0 | /mnt/stockage/packages/f30/fcitx-qt5/po/ko.po | 
- | [ru]({{< ref "/f30/language/ru.md" >}}) | 99 | 99 | 100.0 | /mnt/stockage/packages/f30/fcitx-qt5/po/ru.po | 
- | [zh_Hans]({{< ref "/f30/language/zh_Hans.md" >}}) | 99 | 99 | 100.0 | /mnt/stockage/packages/f30/fcitx-qt5/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f30/language/zh_Hant.md" >}}) | 99 | 99 | 100.0 | /mnt/stockage/packages/f30/fcitx-qt5/po/zh_TW.po | 
- | [es]({{< ref "/f30/language/es.md" >}}) | 0 | 99 | 0.0 | /mnt/stockage/packages/f30/fcitx-qt5/po/es.po | 
- | [fr]({{< ref "/f30/language/fr.md" >}}) | 0 | 99 | 0.0 | /mnt/stockage/packages/f30/fcitx-qt5/po/fr.po | 
+ | [ca](/f30/language/ca) | 99 | 99 | 100.0 | /mnt/stockage/packages/f30/fcitx-qt5/po/ca.po | 
+ | [da](/f30/language/da) | 99 | 99 | 100.0 | /mnt/stockage/packages/f30/fcitx-qt5/po/da.po | 
+ | [de](/f30/language/de) | 99 | 99 | 100.0 | /mnt/stockage/packages/f30/fcitx-qt5/po/de.po | 
+ | [ja](/f30/language/ja) | 99 | 99 | 100.0 | /mnt/stockage/packages/f30/fcitx-qt5/po/ja.po | 
+ | [ko](/f30/language/ko) | 99 | 99 | 100.0 | /mnt/stockage/packages/f30/fcitx-qt5/po/ko.po | 
+ | [ru](/f30/language/ru) | 99 | 99 | 100.0 | /mnt/stockage/packages/f30/fcitx-qt5/po/ru.po | 
+ | [zh_Hans](/f30/language/zh_Hans) | 99 | 99 | 100.0 | /mnt/stockage/packages/f30/fcitx-qt5/po/zh_CN.po | 
+ | [zh_Hant](/f30/language/zh_Hant) | 99 | 99 | 100.0 | /mnt/stockage/packages/f30/fcitx-qt5/po/zh_TW.po | 
+ | [es](/f30/language/es) | 0 | 99 | 0.0 | /mnt/stockage/packages/f30/fcitx-qt5/po/es.po | 
+ | [fr](/f30/language/fr) | 0 | 99 | 0.0 | /mnt/stockage/packages/f30/fcitx-qt5/po/fr.po | 
 {.sortable}
 
 

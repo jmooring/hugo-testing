@@ -38,10 +38,10 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [im-chooser]({{< ref "/f22/package/im-chooser.md" >}}) | 54 | 237 | 22.8 | LANGUAGE <LL@li.org> | 
- | [publican]({{< ref "/f22/package/publican.md" >}}) | 1058 | 5443 | 19.4 | Serbian <trans-sr@lists.fedoraproject.org> | 
- | [wine]({{< ref "/f22/package/wine.md" >}}) | 2213 | 14570 | 15.2 | Serbian (Cyrillic) | 
- | [fonts-tweak-tool]({{< ref "/f22/package/fonts-tweak-tool.md" >}}) | 0 | 164 | 0.0 | Serbian (Cyrillic) | 
+ | [im-chooser](/f22/package/im-chooser) | 54 | 237 | 22.8 | LANGUAGE <LL@li.org> | 
+ | [publican](/f22/package/publican) | 1058 | 5443 | 19.4 | Serbian <trans-sr@lists.fedoraproject.org> | 
+ | [wine](/f22/package/wine) | 2213 | 14570 | 15.2 | Serbian (Cyrillic) | 
+ | [fonts-tweak-tool](/f22/package/fonts-tweak-tool) | 0 | 164 | 0.0 | Serbian (Cyrillic) | 
 {.sortable}
 
 

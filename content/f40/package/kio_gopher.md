@@ -18,59 +18,59 @@ The package kio_gopher (version 0.1.99):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [bg]({{< ref "/f40/language/bg.md" >}}) | 17 | 17 | 100.0 | /mnt/stockage/packages/f40/kio_gopher/po/bg/kio5_gopher.po | 
- | [bs]({{< ref "/f40/language/bs.md" >}}) | 17 | 17 | 100.0 | /mnt/stockage/packages/f40/kio_gopher/po/bs/kio5_gopher.po | 
- | [ca]({{< ref "/f40/language/ca.md" >}}) | 17 | 17 | 100.0 | /mnt/stockage/packages/f40/kio_gopher/po/ca/kio5_gopher.po | 
- | [ca@valencia]({{< ref "/f40/language/ca@valencia.md" >}}) | 17 | 17 | 100.0 | /mnt/stockage/packages/f40/kio_gopher/po/ca@valencia/kio5_gopher.po | 
- | [cs]({{< ref "/f40/language/cs.md" >}}) | 17 | 17 | 100.0 | /mnt/stockage/packages/f40/kio_gopher/po/cs/kio5_gopher.po | 
- | [da]({{< ref "/f40/language/da.md" >}}) | 17 | 17 | 100.0 | /mnt/stockage/packages/f40/kio_gopher/po/da/kio5_gopher.po | 
- | [de]({{< ref "/f40/language/de.md" >}}) | 17 | 17 | 100.0 | /mnt/stockage/packages/f40/kio_gopher/po/de/kio5_gopher.po | 
- | [el]({{< ref "/f40/language/el.md" >}}) | 17 | 17 | 100.0 | /mnt/stockage/packages/f40/kio_gopher/po/el/kio5_gopher.po | 
- | [en_GB]({{< ref "/f40/language/en_GB.md" >}}) | 17 | 17 | 100.0 | /mnt/stockage/packages/f40/kio_gopher/po/en_GB/kio5_gopher.po | 
- | [eo]({{< ref "/f40/language/eo.md" >}}) | 17 | 17 | 100.0 | /mnt/stockage/packages/f40/kio_gopher/po/eo/kio5_gopher.po | 
- | [es]({{< ref "/f40/language/es.md" >}}) | 17 | 17 | 100.0 | /mnt/stockage/packages/f40/kio_gopher/po/es/kio5_gopher.po | 
- | [et]({{< ref "/f40/language/et.md" >}}) | 17 | 17 | 100.0 | /mnt/stockage/packages/f40/kio_gopher/po/et/kio5_gopher.po | 
- | [fi]({{< ref "/f40/language/fi.md" >}}) | 17 | 17 | 100.0 | /mnt/stockage/packages/f40/kio_gopher/po/fi/kio5_gopher.po | 
- | [fr]({{< ref "/f40/language/fr.md" >}}) | 17 | 17 | 100.0 | /mnt/stockage/packages/f40/kio_gopher/po/fr/kio5_gopher.po | 
- | [ga]({{< ref "/f40/language/ga.md" >}}) | 17 | 17 | 100.0 | /mnt/stockage/packages/f40/kio_gopher/po/ga/kio5_gopher.po | 
- | [gl]({{< ref "/f40/language/gl.md" >}}) | 17 | 17 | 100.0 | /mnt/stockage/packages/f40/kio_gopher/po/gl/kio5_gopher.po | 
- | [hu]({{< ref "/f40/language/hu.md" >}}) | 17 | 17 | 100.0 | /mnt/stockage/packages/f40/kio_gopher/po/hu/kio5_gopher.po | 
- | [ia]({{< ref "/f40/language/ia.md" >}}) | 17 | 17 | 100.0 | /mnt/stockage/packages/f40/kio_gopher/po/ia/kio5_gopher.po | 
- | [is]({{< ref "/f40/language/is.md" >}}) | 17 | 17 | 100.0 | /mnt/stockage/packages/f40/kio_gopher/po/is/kio5_gopher.po | 
- | [it]({{< ref "/f40/language/it.md" >}}) | 17 | 17 | 100.0 | /mnt/stockage/packages/f40/kio_gopher/po/it/kio5_gopher.po | 
- | [km]({{< ref "/f40/language/km.md" >}}) | 17 | 17 | 100.0 | /mnt/stockage/packages/f40/kio_gopher/po/km/kio5_gopher.po | 
- | [ko]({{< ref "/f40/language/ko.md" >}}) | 17 | 17 | 100.0 | /mnt/stockage/packages/f40/kio_gopher/po/ko/kio5_gopher.po | 
- | [lt]({{< ref "/f40/language/lt.md" >}}) | 17 | 17 | 100.0 | /mnt/stockage/packages/f40/kio_gopher/po/lt/kio5_gopher.po | 
- | [lv]({{< ref "/f40/language/lv.md" >}}) | 17 | 17 | 100.0 | /mnt/stockage/packages/f40/kio_gopher/po/lv/kio5_gopher.po | 
- | [ms]({{< ref "/f40/language/ms.md" >}}) | 17 | 17 | 100.0 | /mnt/stockage/packages/f40/kio_gopher/po/ms/kio5_gopher.po | 
- | [nb_NO]({{< ref "/f40/language/nb_NO.md" >}}) | 17 | 17 | 100.0 | /mnt/stockage/packages/f40/kio_gopher/po/nb/kio5_gopher.po | 
- | [nds]({{< ref "/f40/language/nds.md" >}}) | 17 | 17 | 100.0 | /mnt/stockage/packages/f40/kio_gopher/po/nds/kio5_gopher.po | 
- | [nl]({{< ref "/f40/language/nl.md" >}}) | 17 | 17 | 100.0 | /mnt/stockage/packages/f40/kio_gopher/po/nl/kio5_gopher.po | 
- | [pa]({{< ref "/f40/language/pa.md" >}}) | 17 | 17 | 100.0 | /mnt/stockage/packages/f40/kio_gopher/po/pa/kio5_gopher.po | 
- | [pl]({{< ref "/f40/language/pl.md" >}}) | 17 | 17 | 100.0 | /mnt/stockage/packages/f40/kio_gopher/po/pl/kio5_gopher.po | 
- | [pt]({{< ref "/f40/language/pt.md" >}}) | 17 | 17 | 100.0 | /mnt/stockage/packages/f40/kio_gopher/po/pt/kio5_gopher.po | 
- | [pt_BR]({{< ref "/f40/language/pt_BR.md" >}}) | 17 | 17 | 100.0 | /mnt/stockage/packages/f40/kio_gopher/po/pt_BR/kio5_gopher.po | 
- | [ro]({{< ref "/f40/language/ro.md" >}}) | 17 | 17 | 100.0 | /mnt/stockage/packages/f40/kio_gopher/po/ro/kio5_gopher.po | 
- | [ru]({{< ref "/f40/language/ru.md" >}}) | 17 | 17 | 100.0 | /mnt/stockage/packages/f40/kio_gopher/po/ru/kio5_gopher.po | 
- | [sk]({{< ref "/f40/language/sk.md" >}}) | 17 | 17 | 100.0 | /mnt/stockage/packages/f40/kio_gopher/po/sk/kio5_gopher.po | 
- | [sl]({{< ref "/f40/language/sl.md" >}}) | 17 | 17 | 100.0 | /mnt/stockage/packages/f40/kio_gopher/po/sl/kio5_gopher.po | 
- | [sv]({{< ref "/f40/language/sv.md" >}}) | 17 | 17 | 100.0 | /mnt/stockage/packages/f40/kio_gopher/po/sv/kio5_gopher.po | 
- | [tr]({{< ref "/f40/language/tr.md" >}}) | 17 | 17 | 100.0 | /mnt/stockage/packages/f40/kio_gopher/po/tr/kio5_gopher.po | 
- | [uk]({{< ref "/f40/language/uk.md" >}}) | 17 | 17 | 100.0 | /mnt/stockage/packages/f40/kio_gopher/po/uk/kio5_gopher.po | 
- | [zh_Hans]({{< ref "/f40/language/zh_Hans.md" >}}) | 17 | 17 | 100.0 | /mnt/stockage/packages/f40/kio_gopher/po/zh_CN/kio5_gopher.po | 
- | [zh_Hant]({{< ref "/f40/language/zh_Hant.md" >}}) | 17 | 17 | 100.0 | /mnt/stockage/packages/f40/kio_gopher/po/zh_TW/kio5_gopher.po | 
- | [ar]({{< ref "/f40/language/ar.md" >}}) | 16 | 17 | 94.1 | /mnt/stockage/packages/f40/kio_gopher/po/ar/kio5_gopher.po | 
- | [ka]({{< ref "/f40/language/ka.md" >}}) | 16 | 17 | 94.1 | /mnt/stockage/packages/f40/kio_gopher/po/ka/kio5_gopher.po | 
- | [ta]({{< ref "/f40/language/ta.md" >}}) | 16 | 17 | 94.1 | /mnt/stockage/packages/f40/kio_gopher/po/ta/kio5_gopher.po | 
- | [br]({{< ref "/f40/language/br.md" >}}) | 8 | 17 | 47.1 | /mnt/stockage/packages/f40/kio_gopher/po/br/kio5_gopher.po | 
- | [ug]({{< ref "/f40/language/ug.md" >}}) | 8 | 17 | 47.1 | /mnt/stockage/packages/f40/kio_gopher/po/ug/kio5_gopher.po | 
- | [cy]({{< ref "/f40/language/cy.md" >}}) | 7 | 17 | 41.2 | /mnt/stockage/packages/f40/kio_gopher/po/cy/kio5_gopher.po | 
- | [rw]({{< ref "/f40/language/rw.md" >}}) | 7 | 17 | 41.2 | /mnt/stockage/packages/f40/kio_gopher/po/rw/kio5_gopher.po | 
- | [ast]({{< ref "/f40/language/ast.md" >}}) | 5 | 17 | 29.4 | /mnt/stockage/packages/f40/kio_gopher/po/ast/kio5_gopher.po | 
- | [mr]({{< ref "/f40/language/mr.md" >}}) | 5 | 17 | 29.4 | /mnt/stockage/packages/f40/kio_gopher/po/mr/kio5_gopher.po | 
- | [hr]({{< ref "/f40/language/hr.md" >}}) | 1 | 17 | 5.9 | /mnt/stockage/packages/f40/kio_gopher/po/hr/kio5_gopher.po | 
- | [ja]({{< ref "/f40/language/ja.md" >}}) | 0 | 17 | 0.0 | /mnt/stockage/packages/f40/kio_gopher/po/ja/kio5_gopher.po | 
- | [nn]({{< ref "/f40/language/nn.md" >}}) | 0 | 17 | 0.0 | /mnt/stockage/packages/f40/kio_gopher/po/nn/kio5_gopher.po | 
+ | [bg](/f40/language/bg) | 17 | 17 | 100.0 | /mnt/stockage/packages/f40/kio_gopher/po/bg/kio5_gopher.po | 
+ | [bs](/f40/language/bs) | 17 | 17 | 100.0 | /mnt/stockage/packages/f40/kio_gopher/po/bs/kio5_gopher.po | 
+ | [ca](/f40/language/ca) | 17 | 17 | 100.0 | /mnt/stockage/packages/f40/kio_gopher/po/ca/kio5_gopher.po | 
+ | [ca@valencia](/f40/language/ca@valencia) | 17 | 17 | 100.0 | /mnt/stockage/packages/f40/kio_gopher/po/ca@valencia/kio5_gopher.po | 
+ | [cs](/f40/language/cs) | 17 | 17 | 100.0 | /mnt/stockage/packages/f40/kio_gopher/po/cs/kio5_gopher.po | 
+ | [da](/f40/language/da) | 17 | 17 | 100.0 | /mnt/stockage/packages/f40/kio_gopher/po/da/kio5_gopher.po | 
+ | [de](/f40/language/de) | 17 | 17 | 100.0 | /mnt/stockage/packages/f40/kio_gopher/po/de/kio5_gopher.po | 
+ | [el](/f40/language/el) | 17 | 17 | 100.0 | /mnt/stockage/packages/f40/kio_gopher/po/el/kio5_gopher.po | 
+ | [en_GB](/f40/language/en_GB) | 17 | 17 | 100.0 | /mnt/stockage/packages/f40/kio_gopher/po/en_GB/kio5_gopher.po | 
+ | [eo](/f40/language/eo) | 17 | 17 | 100.0 | /mnt/stockage/packages/f40/kio_gopher/po/eo/kio5_gopher.po | 
+ | [es](/f40/language/es) | 17 | 17 | 100.0 | /mnt/stockage/packages/f40/kio_gopher/po/es/kio5_gopher.po | 
+ | [et](/f40/language/et) | 17 | 17 | 100.0 | /mnt/stockage/packages/f40/kio_gopher/po/et/kio5_gopher.po | 
+ | [fi](/f40/language/fi) | 17 | 17 | 100.0 | /mnt/stockage/packages/f40/kio_gopher/po/fi/kio5_gopher.po | 
+ | [fr](/f40/language/fr) | 17 | 17 | 100.0 | /mnt/stockage/packages/f40/kio_gopher/po/fr/kio5_gopher.po | 
+ | [ga](/f40/language/ga) | 17 | 17 | 100.0 | /mnt/stockage/packages/f40/kio_gopher/po/ga/kio5_gopher.po | 
+ | [gl](/f40/language/gl) | 17 | 17 | 100.0 | /mnt/stockage/packages/f40/kio_gopher/po/gl/kio5_gopher.po | 
+ | [hu](/f40/language/hu) | 17 | 17 | 100.0 | /mnt/stockage/packages/f40/kio_gopher/po/hu/kio5_gopher.po | 
+ | [ia](/f40/language/ia) | 17 | 17 | 100.0 | /mnt/stockage/packages/f40/kio_gopher/po/ia/kio5_gopher.po | 
+ | [is](/f40/language/is) | 17 | 17 | 100.0 | /mnt/stockage/packages/f40/kio_gopher/po/is/kio5_gopher.po | 
+ | [it](/f40/language/it) | 17 | 17 | 100.0 | /mnt/stockage/packages/f40/kio_gopher/po/it/kio5_gopher.po | 
+ | [km](/f40/language/km) | 17 | 17 | 100.0 | /mnt/stockage/packages/f40/kio_gopher/po/km/kio5_gopher.po | 
+ | [ko](/f40/language/ko) | 17 | 17 | 100.0 | /mnt/stockage/packages/f40/kio_gopher/po/ko/kio5_gopher.po | 
+ | [lt](/f40/language/lt) | 17 | 17 | 100.0 | /mnt/stockage/packages/f40/kio_gopher/po/lt/kio5_gopher.po | 
+ | [lv](/f40/language/lv) | 17 | 17 | 100.0 | /mnt/stockage/packages/f40/kio_gopher/po/lv/kio5_gopher.po | 
+ | [ms](/f40/language/ms) | 17 | 17 | 100.0 | /mnt/stockage/packages/f40/kio_gopher/po/ms/kio5_gopher.po | 
+ | [nb_NO](/f40/language/nb_NO) | 17 | 17 | 100.0 | /mnt/stockage/packages/f40/kio_gopher/po/nb/kio5_gopher.po | 
+ | [nds](/f40/language/nds) | 17 | 17 | 100.0 | /mnt/stockage/packages/f40/kio_gopher/po/nds/kio5_gopher.po | 
+ | [nl](/f40/language/nl) | 17 | 17 | 100.0 | /mnt/stockage/packages/f40/kio_gopher/po/nl/kio5_gopher.po | 
+ | [pa](/f40/language/pa) | 17 | 17 | 100.0 | /mnt/stockage/packages/f40/kio_gopher/po/pa/kio5_gopher.po | 
+ | [pl](/f40/language/pl) | 17 | 17 | 100.0 | /mnt/stockage/packages/f40/kio_gopher/po/pl/kio5_gopher.po | 
+ | [pt](/f40/language/pt) | 17 | 17 | 100.0 | /mnt/stockage/packages/f40/kio_gopher/po/pt/kio5_gopher.po | 
+ | [pt_BR](/f40/language/pt_BR) | 17 | 17 | 100.0 | /mnt/stockage/packages/f40/kio_gopher/po/pt_BR/kio5_gopher.po | 
+ | [ro](/f40/language/ro) | 17 | 17 | 100.0 | /mnt/stockage/packages/f40/kio_gopher/po/ro/kio5_gopher.po | 
+ | [ru](/f40/language/ru) | 17 | 17 | 100.0 | /mnt/stockage/packages/f40/kio_gopher/po/ru/kio5_gopher.po | 
+ | [sk](/f40/language/sk) | 17 | 17 | 100.0 | /mnt/stockage/packages/f40/kio_gopher/po/sk/kio5_gopher.po | 
+ | [sl](/f40/language/sl) | 17 | 17 | 100.0 | /mnt/stockage/packages/f40/kio_gopher/po/sl/kio5_gopher.po | 
+ | [sv](/f40/language/sv) | 17 | 17 | 100.0 | /mnt/stockage/packages/f40/kio_gopher/po/sv/kio5_gopher.po | 
+ | [tr](/f40/language/tr) | 17 | 17 | 100.0 | /mnt/stockage/packages/f40/kio_gopher/po/tr/kio5_gopher.po | 
+ | [uk](/f40/language/uk) | 17 | 17 | 100.0 | /mnt/stockage/packages/f40/kio_gopher/po/uk/kio5_gopher.po | 
+ | [zh_Hans](/f40/language/zh_Hans) | 17 | 17 | 100.0 | /mnt/stockage/packages/f40/kio_gopher/po/zh_CN/kio5_gopher.po | 
+ | [zh_Hant](/f40/language/zh_Hant) | 17 | 17 | 100.0 | /mnt/stockage/packages/f40/kio_gopher/po/zh_TW/kio5_gopher.po | 
+ | [ar](/f40/language/ar) | 16 | 17 | 94.1 | /mnt/stockage/packages/f40/kio_gopher/po/ar/kio5_gopher.po | 
+ | [ka](/f40/language/ka) | 16 | 17 | 94.1 | /mnt/stockage/packages/f40/kio_gopher/po/ka/kio5_gopher.po | 
+ | [ta](/f40/language/ta) | 16 | 17 | 94.1 | /mnt/stockage/packages/f40/kio_gopher/po/ta/kio5_gopher.po | 
+ | [br](/f40/language/br) | 8 | 17 | 47.1 | /mnt/stockage/packages/f40/kio_gopher/po/br/kio5_gopher.po | 
+ | [ug](/f40/language/ug) | 8 | 17 | 47.1 | /mnt/stockage/packages/f40/kio_gopher/po/ug/kio5_gopher.po | 
+ | [cy](/f40/language/cy) | 7 | 17 | 41.2 | /mnt/stockage/packages/f40/kio_gopher/po/cy/kio5_gopher.po | 
+ | [rw](/f40/language/rw) | 7 | 17 | 41.2 | /mnt/stockage/packages/f40/kio_gopher/po/rw/kio5_gopher.po | 
+ | [ast](/f40/language/ast) | 5 | 17 | 29.4 | /mnt/stockage/packages/f40/kio_gopher/po/ast/kio5_gopher.po | 
+ | [mr](/f40/language/mr) | 5 | 17 | 29.4 | /mnt/stockage/packages/f40/kio_gopher/po/mr/kio5_gopher.po | 
+ | [hr](/f40/language/hr) | 1 | 17 | 5.9 | /mnt/stockage/packages/f40/kio_gopher/po/hr/kio5_gopher.po | 
+ | [ja](/f40/language/ja) | 0 | 17 | 0.0 | /mnt/stockage/packages/f40/kio_gopher/po/ja/kio5_gopher.po | 
+ | [nn](/f40/language/nn) | 0 | 17 | 0.0 | /mnt/stockage/packages/f40/kio_gopher/po/nn/kio5_gopher.po | 
 {.sortable}
 
 

@@ -38,433 +38,433 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [GConf2]({{< ref "/f28/package/GConf2.md" >}}) | 4088 | 4088 | 100.0 | Assamese <kde-i18n-doc@kde.org> | 
- | [NetworkManager-pptp]({{< ref "/f28/package/NetworkManager-pptp.md" >}}) | 115 | 115 | 100.0 | Assamese <> | 
- | [NetworkManager-sstp]({{< ref "/f28/package/NetworkManager-sstp.md" >}}) | 115 | 115 | 100.0 | Assamese <> | 
- | [NetworkManager-vpnc]({{< ref "/f28/package/NetworkManager-vpnc.md" >}}) | 139 | 139 | 100.0 | Assamese <> | 
- | [accerciser]({{< ref "/f28/package/accerciser.md" >}}) | 599 | 599 | 100.0 | Assamese <kde-i18n-doc@kde.org> | 
- | [aisleriot]({{< ref "/f28/package/aisleriot.md" >}}) | 3032 | 3032 | 100.0 | Assamese <kde-i18n-doc@kde.org> | 
- | [alacarte]({{< ref "/f28/package/alacarte.md" >}}) | 42 | 42 | 100.0 | as_IN <kde-i18n-doc@kde.org> | 
- | [at-spi2-core]({{< ref "/f28/package/at-spi2-core.md" >}}) | 10 | 10 | 100.0 | Assamese <kde-i18n-doc@kde.org> | 
- | [atk]({{< ref "/f28/package/atk.md" >}}) | 440 | 440 | 100.0 | Assamese <kde-i18n-doc@kde.org> | 
- | [baobab]({{< ref "/f28/package/baobab.md" >}}) | 210 | 210 | 100.0 | American English <kde-i18n-doc@kde.org> | 
- | [bijiben]({{< ref "/f28/package/bijiben.md" >}}) | 310 | 310 | 100.0 | Assamese <kde-i18n-doc@kde.org> | 
- | [brasero]({{< ref "/f28/package/brasero.md" >}}) | 5546 | 5546 | 100.0 | Assamese <kde-i18n-doc@kde.org> | 
- | [caribou]({{< ref "/f28/package/caribou.md" >}}) | 171 | 171 | 100.0 | Assamese <kde-i18n-doc@kde.org> | 
- | [cheese]({{< ref "/f28/package/cheese.md" >}}) | 613 | 613 | 100.0 | Assamese <kde-i18n-doc@kde.org> | 
- | [cinnamon-desktop]({{< ref "/f28/package/cinnamon-desktop.md" >}}) | 234 | 234 | 100.0 | as_IN <kde-i18n-doc@kde.org> | 
- | [cogl]({{< ref "/f28/package/cogl.md" >}}) | 378 | 378 | 100.0 | as_IN <kde-i18n-doc@kde.org> | 
- | [compat-gtkhtml314]({{< ref "/f28/package/compat-gtkhtml314.md" >}}) | 695 | 695 | 100.0 | Assamese <> | 
- | [dasher]({{< ref "/f28/package/dasher.md" >}}) | 615 | 615 | 100.0 | Assamese <> | 
- | [deepin-mutter]({{< ref "/f28/package/deepin-mutter.md" >}}) | 1837 | 1837 | 100.0 | Assamese <kde-i18n-doc@kde.org> | 
- | [deepin-terminal]({{< ref "/f28/package/deepin-terminal.md" >}}) | 83 | 83 | 100.0 | Assamese <kde-i18n-doc@kde.org> | 
- | [devhelp]({{< ref "/f28/package/devhelp.md" >}}) | 443 | 443 | 100.0 | Assamese <kde-i18n-doc@kde.org> | 
- | [ekiga]({{< ref "/f28/package/ekiga.md" >}}) | 4483 | 4483 | 100.0 | as_IN <kde-i18n-doc@kde.org> | 
- | [empathy]({{< ref "/f28/package/empathy.md" >}}) | 4367 | 4367 | 100.0 | Assamese <kde-i18n-doc@kde.org> | 
- | [eog]({{< ref "/f28/package/eog.md" >}}) | 1746 | 1746 | 100.0 | Assamese <kde-i18n-doc@kde.org> | 
- | [eog-plugins]({{< ref "/f28/package/eog-plugins.md" >}}) | 79 | 79 | 100.0 | Assamese <fedora-trans-as@redhat.com> | 
- | [epiphany]({{< ref "/f28/package/epiphany.md" >}}) | 2592 | 2592 | 100.0 | Assamese <kde-i18n-doc@kde.org> | 
- | [evince]({{< ref "/f28/package/evince.md" >}}) | 1525 | 1525 | 100.0 | Assamese <kde-i18n-doc@kde.org> | 
- | [evolution]({{< ref "/f28/package/evolution.md" >}}) | 21281 | 21281 | 100.0 | Assamese <kde-i18n-doc@kde.org> | 
- | [evolution-data-server]({{< ref "/f28/package/evolution-data-server.md" >}}) | 5398 | 5398 | 100.0 | Assamese <kde-i18n-doc@kde.org> | 
- | [evolution-ews]({{< ref "/f28/package/evolution-ews.md" >}}) | 1165 | 1165 | 100.0 | Assamese <kde-i18n-doc@kde.org> | 
- | [evolution-mapi]({{< ref "/f28/package/evolution-mapi.md" >}}) | 1036 | 1036 | 100.0 | Assamese <kde-i18n-doc@kde.org> | 
- | [evolution-rss]({{< ref "/f28/package/evolution-rss.md" >}}) | 700 | 700 | 100.0 | Assamese <fedora-trans-as@redhat.com> | 
- | [file-roller]({{< ref "/f28/package/file-roller.md" >}}) | 1198 | 1198 | 100.0 | Assamese <kde-i18n-doc@kde.org> | 
- | [five-or-more]({{< ref "/f28/package/five-or-more.md" >}}) | 276 | 276 | 100.0 | Assamese <kde-i18n-doc@kde.org> | 
- | [folks]({{< ref "/f28/package/folks.md" >}}) | 1003 | 1003 | 100.0 | Assamese <kde-i18n-doc@kde.org> | 
- | [gconf-editor]({{< ref "/f28/package/gconf-editor.md" >}}) | 336 | 336 | 100.0 | Assamese <kde-i18n-doc@kde.org> | 
- | [gcr]({{< ref "/f28/package/gcr.md" >}}) | 700 | 700 | 100.0 | Assamese <kde-i18n-doc@kde.org> | 
- | [gdk-pixbuf2]({{< ref "/f28/package/gdk-pixbuf2.md" >}}) | 1360 | 1360 | 100.0 | Assamese <kde-i18n-doc@kde.org> | 
- | [gedit]({{< ref "/f28/package/gedit.md" >}}) | 4084 | 4084 | 100.0 | Assamese <kde-i18n-doc@kde.org> | 
- | [gitg]({{< ref "/f28/package/gitg.md" >}}) | 1154 | 1154 | 100.0 | Assamese <kde-i18n-doc@kde.org> | 
- | [glib-networking]({{< ref "/f28/package/glib-networking.md" >}}) | 161 | 161 | 100.0 | Assamese <kde-i18n-doc@kde.org> | 
- | [glib2]({{< ref "/f28/package/glib2.md" >}}) | 5703 | 5703 | 100.0 | Assamese <kde-i18n-doc@kde.org> | 
- | [gnome-backgrounds]({{< ref "/f28/package/gnome-backgrounds.md" >}}) | 30 | 30 | 100.0 | American English <kde-i18n-doc@kde.org> | 
- | [gnome-bluetooth]({{< ref "/f28/package/gnome-bluetooth.md" >}}) | 308 | 308 | 100.0 | American English <kde-i18n-doc@kde.org> | 
- | [gnome-boxes]({{< ref "/f28/package/gnome-boxes.md" >}}) | 950 | 950 | 100.0 | Assamese <kde-i18n-doc@kde.org> | 
- | [gnome-calculator]({{< ref "/f28/package/gnome-calculator.md" >}}) | 1337 | 1337 | 100.0 | Assamese <kde-i18n-doc@kde.org> | 
- | [gnome-clocks]({{< ref "/f28/package/gnome-clocks.md" >}}) | 223 | 223 | 100.0 | Assamese <kde-i18n-doc@kde.org> | 
- | [gnome-color-manager]({{< ref "/f28/package/gnome-color-manager.md" >}}) | 1792 | 1792 | 100.0 | Assamese <kde-i18n-doc@kde.org> | 
- | [gnome-contacts]({{< ref "/f28/package/gnome-contacts.md" >}}) | 405 | 405 | 100.0 | Assamese <kde-i18n-doc@kde.org> | 
- | [gnome-desktop]({{< ref "/f28/package/gnome-desktop.md" >}}) | 351 | 351 | 100.0 | Assamese <> | 
- | [gnome-desktop3]({{< ref "/f28/package/gnome-desktop3.md" >}}) | 146 | 146 | 100.0 | Assamese <kde-i18n-doc@kde.org> | 
- | [gnome-dictionary]({{< ref "/f28/package/gnome-dictionary.md" >}}) | 841 | 841 | 100.0 | American English <kde-i18n-doc@kde.org> | 
- | [gnome-disk-utility]({{< ref "/f28/package/gnome-disk-utility.md" >}}) | 3423 | 3423 | 100.0 | Assamese <kde-i18n-doc@kde.org> | 
- | [gnome-doc-utils]({{< ref "/f28/package/gnome-doc-utils.md" >}}) | 251 | 251 | 100.0 | Assamese <kde-i18n-doc@kde.org> | 
- | [gnome-font-viewer]({{< ref "/f28/package/gnome-font-viewer.md" >}}) | 110 | 110 | 100.0 | Assamese <kde-i18n-doc@kde.org> | 
- | [gnome-getting-started-docs]({{< ref "/f28/package/gnome-getting-started-docs.md" >}}) | 2639 | 2639 | 100.0 | American English <kde-i18n-doc@kde.org> | 
- | [gnome-icon-theme]({{< ref "/f28/package/gnome-icon-theme.md" >}}) | 4 | 4 | 100.0 | as_IN <kde-i18n-doc@kde.org> | 
- | [gnome-initial-setup]({{< ref "/f28/package/gnome-initial-setup.md" >}}) | 585 | 585 | 100.0 | Assamese <kde-i18n-doc@kde.org> | 
- | [gnome-keyring]({{< ref "/f28/package/gnome-keyring.md" >}}) | 553 | 553 | 100.0 | as_IN <kde-i18n-doc@kde.org> | 
- | [gnome-klotski]({{< ref "/f28/package/gnome-klotski.md" >}}) | 188 | 188 | 100.0 | Assamese <kde-i18n-doc@kde.org> | 
- | [gnome-logs]({{< ref "/f28/package/gnome-logs.md" >}}) | 115 | 115 | 100.0 | Assamese <kde-i18n-doc@kde.org> | 
- | [gnome-maps]({{< ref "/f28/package/gnome-maps.md" >}}) | 224 | 224 | 100.0 | Assamese <kde-i18n-doc@kde.org> | 
- | [gnome-menus]({{< ref "/f28/package/gnome-menus.md" >}}) | 70 | 70 | 100.0 | Assamese <kde-i18n-doc@kde.org> | 
- | [gnome-music]({{< ref "/f28/package/gnome-music.md" >}}) | 392 | 392 | 100.0 | Assamese <kde-i18n-doc@kde.org> | 
- | [gnome-nettool]({{< ref "/f28/package/gnome-nettool.md" >}}) | 664 | 664 | 100.0 | Assamese <kde-i18n-doc@kde.org> | 
- | [gnome-nibbles]({{< ref "/f28/package/gnome-nibbles.md" >}}) | 385 | 385 | 100.0 | Assamese <kde-i18n-doc@kde.org> | 
- | [gnome-online-accounts]({{< ref "/f28/package/gnome-online-accounts.md" >}}) | 1209 | 1209 | 100.0 | Assamese <kde-i18n-doc@kde.org> | 
- | [gnome-packagekit]({{< ref "/f28/package/gnome-packagekit.md" >}}) | 4390 | 4390 | 100.0 | Assamese <kde-i18n-doc@kde.org> | 
- | [gnome-photos]({{< ref "/f28/package/gnome-photos.md" >}}) | 354 | 354 | 100.0 | Assamese <kde-i18n-doc@kde.org> | 
- | [gnome-power-manager]({{< ref "/f28/package/gnome-power-manager.md" >}}) | 480 | 480 | 100.0 | Assamese <kde-i18n-doc@kde.org> | 
- | [gnome-screensaver]({{< ref "/f28/package/gnome-screensaver.md" >}}) | 270 | 270 | 100.0 | as_IN <kde-i18n-doc@kde.org> | 
- | [gnome-screenshot]({{< ref "/f28/package/gnome-screenshot.md" >}}) | 354 | 354 | 100.0 | Assamese <kde-i18n-doc@kde.org> | 
- | [gnome-search-tool]({{< ref "/f28/package/gnome-search-tool.md" >}}) | 1249 | 1249 | 100.0 | as_IN <kde-i18n-doc@kde.org> | 
- | [gnome-session]({{< ref "/f28/package/gnome-session.md" >}}) | 323 | 323 | 100.0 | Assamese <kde-i18n-doc@kde.org> | 
- | [gnome-settings-daemon]({{< ref "/f28/package/gnome-settings-daemon.md" >}}) | 2607 | 2607 | 100.0 | Assamese <kde-i18n-doc@kde.org> | 
- | [gnome-shell]({{< ref "/f28/package/gnome-shell.md" >}}) | 1485 | 1485 | 100.0 | Assamese <kde-i18n-doc@kde.org> | 
- | [gnome-shell-extensions]({{< ref "/f28/package/gnome-shell-extensions.md" >}}) | 358 | 358 | 100.0 | American English <kde-i18n-doc@kde.org> | 
- | [gnome-software]({{< ref "/f28/package/gnome-software.md" >}}) | 1043 | 1043 | 100.0 | Assamese <kde-i18n-doc@kde.org> | 
- | [gnome-sound-recorder]({{< ref "/f28/package/gnome-sound-recorder.md" >}}) | 253 | 253 | 100.0 | Assamese <kde-i18n-doc@kde.org> | 
- | [gnome-system-log]({{< ref "/f28/package/gnome-system-log.md" >}}) | 420 | 420 | 100.0 | Assamese <kde-i18n-doc@kde.org> | 
- | [gnome-system-monitor]({{< ref "/f28/package/gnome-system-monitor.md" >}}) | 1289 | 1289 | 100.0 | Assamese <kde-i18n-doc@kde.org> | 
- | [gnome-terminal]({{< ref "/f28/package/gnome-terminal.md" >}}) | 2209 | 2209 | 100.0 | Assamese <kde-i18n-doc@kde.org> | 
- | [gnome-themes]({{< ref "/f28/package/gnome-themes.md" >}}) | 109 | 109 | 100.0 | Assamese <fedora-trans-as@redhat.com> | 
- | [gnome-themes-extra]({{< ref "/f28/package/gnome-themes-extra.md" >}}) | 24 | 24 | 100.0 | as_IN <kde-i18n-doc@kde.org> | 
- | [gnome-tweaks]({{< ref "/f28/package/gnome-tweaks.md" >}}) | 382 | 382 | 100.0 | Assamese <kde-i18n-doc@kde.org> | 
- | [gnome-user-share]({{< ref "/f28/package/gnome-user-share.md" >}}) | 160 | 160 | 100.0 | Assamese <kde-i18n-doc@kde.org> | 
- | [gnome-vfs2]({{< ref "/f28/package/gnome-vfs2.md" >}}) | 1508 | 1508 | 100.0 | Assamese | 
- | [gnome-video-effects]({{< ref "/f28/package/gnome-video-effects.md" >}}) | 256 | 256 | 100.0 | Assamese <kde-i18n-doc@kde.org> | 
- | [gnome-weather]({{< ref "/f28/package/gnome-weather.md" >}}) | 183 | 183 | 100.0 | Assamese <kde-i18n-doc@kde.org> | 
- | [gnote]({{< ref "/f28/package/gnote.md" >}}) | 3592 | 3592 | 100.0 | Assamese <kde-i18n-doc@kde.org> | 
- | [grilo]({{< ref "/f28/package/grilo.md" >}}) | 187 | 187 | 100.0 | Assamese <kde-i18n-doc@kde.org> | 
- | [grilo-plugins]({{< ref "/f28/package/grilo-plugins.md" >}}) | 533 | 533 | 100.0 | Assamese <kde-i18n-doc@kde.org> | 
- | [gtk2-engines]({{< ref "/f28/package/gtk2-engines.md" >}}) | 119 | 119 | 100.0 | Assamese <fedora-trans-as@redhat.com> | 
- | [gtk3]({{< ref "/f28/package/gtk3.md" >}}) | 14572 | 14572 | 100.0 | Assamese <kde-i18n-doc@kde.org> | 
- | [gtk4]({{< ref "/f28/package/gtk4.md" >}}) | 14572 | 14572 | 100.0 | Assamese <kde-i18n-doc@kde.org> | 
- | [gtkhtml3]({{< ref "/f28/package/gtkhtml3.md" >}}) | 488 | 488 | 100.0 | Assamese <kde-i18n-doc@kde.org> | 
- | [gtksourceview2]({{< ref "/f28/package/gtksourceview2.md" >}}) | 1120 | 1120 | 100.0 | Assamese <> | 
- | [gucharmap]({{< ref "/f28/package/gucharmap.md" >}}) | 1205 | 1205 | 100.0 | American English <kde-i18n-doc@kde.org> | 
- | [gvfs]({{< ref "/f28/package/gvfs.md" >}}) | 2706 | 2706 | 100.0 | Assamese <kde-i18n-doc@kde.org> | 
- | [initial-setup]({{< ref "/f28/package/initial-setup.md" >}}) | 33 | 33 | 100.0 | Assamese (http://www.transifex.com/projects/p/initial-setup/language/as/) | 
- | [iok]({{< ref "/f28/package/iok.md" >}}) | 206 | 206 | 100.0 | Assamese | 
- | [json-glib]({{< ref "/f28/package/json-glib.md" >}}) | 303 | 303 | 100.0 | Assamese <kde-i18n-doc@kde.org> | 
- | [kexec-tools]({{< ref "/f28/package/kexec-tools.md" >}}) | 83 | 83 | 100.0 | Assamese <kde-i18n-doc@kde.org> | 
- | [kf5-kpty]({{< ref "/f28/package/kf5-kpty.md" >}}) | 15 | 15 | 100.0 | Assamese <fedora-trans-as@redhat.com> | 
- | [libbonobo]({{< ref "/f28/package/libbonobo.md" >}}) | 543 | 543 | 100.0 | Assamese | 
- | [libbonoboui]({{< ref "/f28/package/libbonoboui.md" >}}) | 368 | 368 | 100.0 | Assamese | 
- | [libcryptui]({{< ref "/f28/package/libcryptui.md" >}}) | 3012 | 3012 | 100.0 | Assamese <kde-i18n-doc@kde.org> | 
- | [libgdata]({{< ref "/f28/package/libgdata.md" >}}) | 695 | 695 | 100.0 | Assamese <kde-i18n-doc@kde.org> | 
- | [libgdl]({{< ref "/f28/package/libgdl.md" >}}) | 592 | 592 | 100.0 | as_IN <kde-i18n-doc@kde.org> | 
- | [libgnome]({{< ref "/f28/package/libgnome.md" >}}) | 1772 | 1772 | 100.0 | Assamese <fedora-trans-as@redhat.com> | 
- | [libgnome-keyring]({{< ref "/f28/package/libgnome-keyring.md" >}}) | 44 | 44 | 100.0 | Assamese <kde-i18n-doc@kde.org> | 
- | [libgnomecanvas]({{< ref "/f28/package/libgnomecanvas.md" >}}) | 378 | 378 | 100.0 | Assamese <fedora-trans-as@redhat.com> | 
- | [libgnomekbd]({{< ref "/f28/package/libgnomekbd.md" >}}) | 187 | 187 | 100.0 | as_IN <kde-i18n-doc@kde.org> | 
- | [libgnomeui]({{< ref "/f28/package/libgnomeui.md" >}}) | 1309 | 1309 | 100.0 | Assamese | 
- | [libgtop2]({{< ref "/f28/package/libgtop2.md" >}}) | 126 | 126 | 100.0 | as_IN <kde-i18n-doc@kde.org> | 
- | [libgweather]({{< ref "/f28/package/libgweather.md" >}}) | 6171 | 6171 | 100.0 | Assamese <kde-i18n-doc@kde.org> | 
- | [libpeas]({{< ref "/f28/package/libpeas.md" >}}) | 110 | 110 | 100.0 | Assamese <kde-i18n-doc@kde.org> | 
- | [libpwquality]({{< ref "/f28/package/libpwquality.md" >}}) | 343 | 343 | 100.0 | Assamese (http://www.transifex.com/projects/p/libpwquality/language/as/) | 
- | [libsecret]({{< ref "/f28/package/libsecret.md" >}}) | 59 | 59 | 100.0 | Assamese <kde-i18n-doc@kde.org> | 
- | [libsoup]({{< ref "/f28/package/libsoup.md" >}}) | 110 | 110 | 100.0 | Assamese <kde-i18n-doc@kde.org> | 
- | [libwnck]({{< ref "/f28/package/libwnck.md" >}}) | 1124 | 1124 | 100.0 | Assamese <fedora-trans-as@redhat.com> | 
- | [libwnck3]({{< ref "/f28/package/libwnck3.md" >}}) | 1086 | 1086 | 100.0 | Assamese <kde-i18n-doc@kde.org> | 
- | [lightsoff]({{< ref "/f28/package/lightsoff.md" >}}) | 102 | 102 | 100.0 | Assamese <kde-i18n-doc@kde.org> | 
- | [lxmenu-data]({{< ref "/f28/package/lxmenu-data.md" >}}) | 97 | 97 | 100.0 | Assamese | 
- | [mate-icon-theme]({{< ref "/f28/package/mate-icon-theme.md" >}}) | 4 | 4 | 100.0 | Assamese (https://www.transifex.com/mate/teams/13566/as/) | 
- | [mate-menus]({{< ref "/f28/package/mate-menus.md" >}}) | 97 | 97 | 100.0 | Assamese (https://www.transifex.com/mate/teams/13566/as/) | 
- | [mingw-GConf2]({{< ref "/f28/package/mingw-GConf2.md" >}}) | 4088 | 4088 | 100.0 | Assamese <kde-i18n-doc@kde.org> | 
- | [mingw-atk]({{< ref "/f28/package/mingw-atk.md" >}}) | 440 | 440 | 100.0 | Assamese <kde-i18n-doc@kde.org> | 
- | [mingw-gdk-pixbuf]({{< ref "/f28/package/mingw-gdk-pixbuf.md" >}}) | 1360 | 1360 | 100.0 | Assamese <kde-i18n-doc@kde.org> | 
- | [mingw-glib-networking]({{< ref "/f28/package/mingw-glib-networking.md" >}}) | 161 | 161 | 100.0 | Assamese <kde-i18n-doc@kde.org> | 
- | [mingw-glib2]({{< ref "/f28/package/mingw-glib2.md" >}}) | 5703 | 5703 | 100.0 | Assamese <kde-i18n-doc@kde.org> | 
- | [mingw-gtk3]({{< ref "/f28/package/mingw-gtk3.md" >}}) | 14572 | 14572 | 100.0 | Assamese <kde-i18n-doc@kde.org> | 
- | [mingw-json-glib]({{< ref "/f28/package/mingw-json-glib.md" >}}) | 303 | 303 | 100.0 | Assamese <kde-i18n-doc@kde.org> | 
- | [mingw-libsoup]({{< ref "/f28/package/mingw-libsoup.md" >}}) | 110 | 110 | 100.0 | Assamese <kde-i18n-doc@kde.org> | 
- | [mingw-qt5-qtwebkit]({{< ref "/f28/package/mingw-qt5-qtwebkit.md" >}}) | 2723 | 2723 | 100.0 | Assamese <kde-i18n-doc@kde.org> | 
- | [mingw-webkitgtk]({{< ref "/f28/package/mingw-webkitgtk.md" >}}) | 2715 | 2715 | 100.0 | Assamese <kde-i18n-doc@kde.org> | 
- | [mingw-webkitgtk3]({{< ref "/f28/package/mingw-webkitgtk3.md" >}}) | 2715 | 2715 | 100.0 | Assamese <kde-i18n-doc@kde.org> | 
- | [mousetweaks]({{< ref "/f28/package/mousetweaks.md" >}}) | 114 | 114 | 100.0 | as_IN <kde-i18n-doc@kde.org> | 
- | [mozo]({{< ref "/f28/package/mozo.md" >}}) | 42 | 42 | 100.0 | Assamese (https://www.transifex.com/mate/teams/13566/as/) | 
- | [muffin]({{< ref "/f28/package/muffin.md" >}}) | 2071 | 2071 | 100.0 | as_IN <kde-i18n-doc@kde.org> | 
- | [multimedia-menus]({{< ref "/f28/package/multimedia-menus.md" >}}) | 56 | 56 | 100.0 | Assamese <kde-i18n-doc@lists.kde.org> | 
- | [mutter]({{< ref "/f28/package/mutter.md" >}}) | 1837 | 1837 | 100.0 | Assamese <kde-i18n-doc@kde.org> | 
- | [nautilus]({{< ref "/f28/package/nautilus.md" >}}) | 6114 | 6114 | 100.0 | Assamese <kde-i18n-doc@kde.org> | 
- | [nautilus-sendto]({{< ref "/f28/package/nautilus-sendto.md" >}}) | 45 | 45 | 100.0 | Assamese <kde-i18n-doc@kde.org> | 
- | [nemiver]({{< ref "/f28/package/nemiver.md" >}}) | 1341 | 1341 | 100.0 | Assamese <kde-i18n-doc@kde.org> | 
- | [newt]({{< ref "/f28/package/newt.md" >}}) | 4 | 4 | 100.0 | Assamese <> | 
- | [notification-daemon]({{< ref "/f28/package/notification-daemon.md" >}}) | 17 | 17 | 100.0 | American English <kde-i18n-doc@kde.org> | 
- | [pam_krb5]({{< ref "/f28/package/pam_krb5.md" >}}) | 7 | 7 | 100.0 | Assamese (http://www.transifex.com/projects/p/pam_krb5/language/as/) | 
- | [planner]({{< ref "/f28/package/planner.md" >}}) | 1815 | 1815 | 100.0 | Assamese | 
- | [polari]({{< ref "/f28/package/polari.md" >}}) | 373 | 373 | 100.0 | Assamese <kde-i18n-doc@kde.org> | 
- | [polkit-gnome]({{< ref "/f28/package/polkit-gnome.md" >}}) | 94 | 94 | 100.0 | as_IN <kde-i18n-doc@kde.org> | 
- | [redhat-menus]({{< ref "/f28/package/redhat-menus.md" >}}) | 261 | 261 | 100.0 | Assamese <fedora-trans-as@redhat.com> | 
- | [rhythmbox]({{< ref "/f28/package/rhythmbox.md" >}}) | 4505 | 4505 | 100.0 | Assamese <fedora-trans-as@redhat.com> | 
- | [rygel]({{< ref "/f28/package/rygel.md" >}}) | 1140 | 1140 | 100.0 | Assamese <kde-i18n-doc@kde.org> | 
- | [seahorse]({{< ref "/f28/package/seahorse.md" >}}) | 2486 | 2486 | 100.0 | Assamese <kde-i18n-doc@kde.org> | 
- | [setuptool]({{< ref "/f28/package/setuptool.md" >}}) | 55 | 55 | 100.0 | Assamese <fedora-trans-as@redhat.com> | 
- | [shotwell]({{< ref "/f28/package/shotwell.md" >}}) | 4483 | 4483 | 100.0 | Assamese <kde-i18n-doc@kde.org>
+ | [GConf2](/f28/package/GConf2) | 4088 | 4088 | 100.0 | Assamese <kde-i18n-doc@kde.org> | 
+ | [NetworkManager-pptp](/f28/package/NetworkManager-pptp) | 115 | 115 | 100.0 | Assamese <> | 
+ | [NetworkManager-sstp](/f28/package/NetworkManager-sstp) | 115 | 115 | 100.0 | Assamese <> | 
+ | [NetworkManager-vpnc](/f28/package/NetworkManager-vpnc) | 139 | 139 | 100.0 | Assamese <> | 
+ | [accerciser](/f28/package/accerciser) | 599 | 599 | 100.0 | Assamese <kde-i18n-doc@kde.org> | 
+ | [aisleriot](/f28/package/aisleriot) | 3032 | 3032 | 100.0 | Assamese <kde-i18n-doc@kde.org> | 
+ | [alacarte](/f28/package/alacarte) | 42 | 42 | 100.0 | as_IN <kde-i18n-doc@kde.org> | 
+ | [at-spi2-core](/f28/package/at-spi2-core) | 10 | 10 | 100.0 | Assamese <kde-i18n-doc@kde.org> | 
+ | [atk](/f28/package/atk) | 440 | 440 | 100.0 | Assamese <kde-i18n-doc@kde.org> | 
+ | [baobab](/f28/package/baobab) | 210 | 210 | 100.0 | American English <kde-i18n-doc@kde.org> | 
+ | [bijiben](/f28/package/bijiben) | 310 | 310 | 100.0 | Assamese <kde-i18n-doc@kde.org> | 
+ | [brasero](/f28/package/brasero) | 5546 | 5546 | 100.0 | Assamese <kde-i18n-doc@kde.org> | 
+ | [caribou](/f28/package/caribou) | 171 | 171 | 100.0 | Assamese <kde-i18n-doc@kde.org> | 
+ | [cheese](/f28/package/cheese) | 613 | 613 | 100.0 | Assamese <kde-i18n-doc@kde.org> | 
+ | [cinnamon-desktop](/f28/package/cinnamon-desktop) | 234 | 234 | 100.0 | as_IN <kde-i18n-doc@kde.org> | 
+ | [cogl](/f28/package/cogl) | 378 | 378 | 100.0 | as_IN <kde-i18n-doc@kde.org> | 
+ | [compat-gtkhtml314](/f28/package/compat-gtkhtml314) | 695 | 695 | 100.0 | Assamese <> | 
+ | [dasher](/f28/package/dasher) | 615 | 615 | 100.0 | Assamese <> | 
+ | [deepin-mutter](/f28/package/deepin-mutter) | 1837 | 1837 | 100.0 | Assamese <kde-i18n-doc@kde.org> | 
+ | [deepin-terminal](/f28/package/deepin-terminal) | 83 | 83 | 100.0 | Assamese <kde-i18n-doc@kde.org> | 
+ | [devhelp](/f28/package/devhelp) | 443 | 443 | 100.0 | Assamese <kde-i18n-doc@kde.org> | 
+ | [ekiga](/f28/package/ekiga) | 4483 | 4483 | 100.0 | as_IN <kde-i18n-doc@kde.org> | 
+ | [empathy](/f28/package/empathy) | 4367 | 4367 | 100.0 | Assamese <kde-i18n-doc@kde.org> | 
+ | [eog](/f28/package/eog) | 1746 | 1746 | 100.0 | Assamese <kde-i18n-doc@kde.org> | 
+ | [eog-plugins](/f28/package/eog-plugins) | 79 | 79 | 100.0 | Assamese <fedora-trans-as@redhat.com> | 
+ | [epiphany](/f28/package/epiphany) | 2592 | 2592 | 100.0 | Assamese <kde-i18n-doc@kde.org> | 
+ | [evince](/f28/package/evince) | 1525 | 1525 | 100.0 | Assamese <kde-i18n-doc@kde.org> | 
+ | [evolution](/f28/package/evolution) | 21281 | 21281 | 100.0 | Assamese <kde-i18n-doc@kde.org> | 
+ | [evolution-data-server](/f28/package/evolution-data-server) | 5398 | 5398 | 100.0 | Assamese <kde-i18n-doc@kde.org> | 
+ | [evolution-ews](/f28/package/evolution-ews) | 1165 | 1165 | 100.0 | Assamese <kde-i18n-doc@kde.org> | 
+ | [evolution-mapi](/f28/package/evolution-mapi) | 1036 | 1036 | 100.0 | Assamese <kde-i18n-doc@kde.org> | 
+ | [evolution-rss](/f28/package/evolution-rss) | 700 | 700 | 100.0 | Assamese <fedora-trans-as@redhat.com> | 
+ | [file-roller](/f28/package/file-roller) | 1198 | 1198 | 100.0 | Assamese <kde-i18n-doc@kde.org> | 
+ | [five-or-more](/f28/package/five-or-more) | 276 | 276 | 100.0 | Assamese <kde-i18n-doc@kde.org> | 
+ | [folks](/f28/package/folks) | 1003 | 1003 | 100.0 | Assamese <kde-i18n-doc@kde.org> | 
+ | [gconf-editor](/f28/package/gconf-editor) | 336 | 336 | 100.0 | Assamese <kde-i18n-doc@kde.org> | 
+ | [gcr](/f28/package/gcr) | 700 | 700 | 100.0 | Assamese <kde-i18n-doc@kde.org> | 
+ | [gdk-pixbuf2](/f28/package/gdk-pixbuf2) | 1360 | 1360 | 100.0 | Assamese <kde-i18n-doc@kde.org> | 
+ | [gedit](/f28/package/gedit) | 4084 | 4084 | 100.0 | Assamese <kde-i18n-doc@kde.org> | 
+ | [gitg](/f28/package/gitg) | 1154 | 1154 | 100.0 | Assamese <kde-i18n-doc@kde.org> | 
+ | [glib-networking](/f28/package/glib-networking) | 161 | 161 | 100.0 | Assamese <kde-i18n-doc@kde.org> | 
+ | [glib2](/f28/package/glib2) | 5703 | 5703 | 100.0 | Assamese <kde-i18n-doc@kde.org> | 
+ | [gnome-backgrounds](/f28/package/gnome-backgrounds) | 30 | 30 | 100.0 | American English <kde-i18n-doc@kde.org> | 
+ | [gnome-bluetooth](/f28/package/gnome-bluetooth) | 308 | 308 | 100.0 | American English <kde-i18n-doc@kde.org> | 
+ | [gnome-boxes](/f28/package/gnome-boxes) | 950 | 950 | 100.0 | Assamese <kde-i18n-doc@kde.org> | 
+ | [gnome-calculator](/f28/package/gnome-calculator) | 1337 | 1337 | 100.0 | Assamese <kde-i18n-doc@kde.org> | 
+ | [gnome-clocks](/f28/package/gnome-clocks) | 223 | 223 | 100.0 | Assamese <kde-i18n-doc@kde.org> | 
+ | [gnome-color-manager](/f28/package/gnome-color-manager) | 1792 | 1792 | 100.0 | Assamese <kde-i18n-doc@kde.org> | 
+ | [gnome-contacts](/f28/package/gnome-contacts) | 405 | 405 | 100.0 | Assamese <kde-i18n-doc@kde.org> | 
+ | [gnome-desktop](/f28/package/gnome-desktop) | 351 | 351 | 100.0 | Assamese <> | 
+ | [gnome-desktop3](/f28/package/gnome-desktop3) | 146 | 146 | 100.0 | Assamese <kde-i18n-doc@kde.org> | 
+ | [gnome-dictionary](/f28/package/gnome-dictionary) | 841 | 841 | 100.0 | American English <kde-i18n-doc@kde.org> | 
+ | [gnome-disk-utility](/f28/package/gnome-disk-utility) | 3423 | 3423 | 100.0 | Assamese <kde-i18n-doc@kde.org> | 
+ | [gnome-doc-utils](/f28/package/gnome-doc-utils) | 251 | 251 | 100.0 | Assamese <kde-i18n-doc@kde.org> | 
+ | [gnome-font-viewer](/f28/package/gnome-font-viewer) | 110 | 110 | 100.0 | Assamese <kde-i18n-doc@kde.org> | 
+ | [gnome-getting-started-docs](/f28/package/gnome-getting-started-docs) | 2639 | 2639 | 100.0 | American English <kde-i18n-doc@kde.org> | 
+ | [gnome-icon-theme](/f28/package/gnome-icon-theme) | 4 | 4 | 100.0 | as_IN <kde-i18n-doc@kde.org> | 
+ | [gnome-initial-setup](/f28/package/gnome-initial-setup) | 585 | 585 | 100.0 | Assamese <kde-i18n-doc@kde.org> | 
+ | [gnome-keyring](/f28/package/gnome-keyring) | 553 | 553 | 100.0 | as_IN <kde-i18n-doc@kde.org> | 
+ | [gnome-klotski](/f28/package/gnome-klotski) | 188 | 188 | 100.0 | Assamese <kde-i18n-doc@kde.org> | 
+ | [gnome-logs](/f28/package/gnome-logs) | 115 | 115 | 100.0 | Assamese <kde-i18n-doc@kde.org> | 
+ | [gnome-maps](/f28/package/gnome-maps) | 224 | 224 | 100.0 | Assamese <kde-i18n-doc@kde.org> | 
+ | [gnome-menus](/f28/package/gnome-menus) | 70 | 70 | 100.0 | Assamese <kde-i18n-doc@kde.org> | 
+ | [gnome-music](/f28/package/gnome-music) | 392 | 392 | 100.0 | Assamese <kde-i18n-doc@kde.org> | 
+ | [gnome-nettool](/f28/package/gnome-nettool) | 664 | 664 | 100.0 | Assamese <kde-i18n-doc@kde.org> | 
+ | [gnome-nibbles](/f28/package/gnome-nibbles) | 385 | 385 | 100.0 | Assamese <kde-i18n-doc@kde.org> | 
+ | [gnome-online-accounts](/f28/package/gnome-online-accounts) | 1209 | 1209 | 100.0 | Assamese <kde-i18n-doc@kde.org> | 
+ | [gnome-packagekit](/f28/package/gnome-packagekit) | 4390 | 4390 | 100.0 | Assamese <kde-i18n-doc@kde.org> | 
+ | [gnome-photos](/f28/package/gnome-photos) | 354 | 354 | 100.0 | Assamese <kde-i18n-doc@kde.org> | 
+ | [gnome-power-manager](/f28/package/gnome-power-manager) | 480 | 480 | 100.0 | Assamese <kde-i18n-doc@kde.org> | 
+ | [gnome-screensaver](/f28/package/gnome-screensaver) | 270 | 270 | 100.0 | as_IN <kde-i18n-doc@kde.org> | 
+ | [gnome-screenshot](/f28/package/gnome-screenshot) | 354 | 354 | 100.0 | Assamese <kde-i18n-doc@kde.org> | 
+ | [gnome-search-tool](/f28/package/gnome-search-tool) | 1249 | 1249 | 100.0 | as_IN <kde-i18n-doc@kde.org> | 
+ | [gnome-session](/f28/package/gnome-session) | 323 | 323 | 100.0 | Assamese <kde-i18n-doc@kde.org> | 
+ | [gnome-settings-daemon](/f28/package/gnome-settings-daemon) | 2607 | 2607 | 100.0 | Assamese <kde-i18n-doc@kde.org> | 
+ | [gnome-shell](/f28/package/gnome-shell) | 1485 | 1485 | 100.0 | Assamese <kde-i18n-doc@kde.org> | 
+ | [gnome-shell-extensions](/f28/package/gnome-shell-extensions) | 358 | 358 | 100.0 | American English <kde-i18n-doc@kde.org> | 
+ | [gnome-software](/f28/package/gnome-software) | 1043 | 1043 | 100.0 | Assamese <kde-i18n-doc@kde.org> | 
+ | [gnome-sound-recorder](/f28/package/gnome-sound-recorder) | 253 | 253 | 100.0 | Assamese <kde-i18n-doc@kde.org> | 
+ | [gnome-system-log](/f28/package/gnome-system-log) | 420 | 420 | 100.0 | Assamese <kde-i18n-doc@kde.org> | 
+ | [gnome-system-monitor](/f28/package/gnome-system-monitor) | 1289 | 1289 | 100.0 | Assamese <kde-i18n-doc@kde.org> | 
+ | [gnome-terminal](/f28/package/gnome-terminal) | 2209 | 2209 | 100.0 | Assamese <kde-i18n-doc@kde.org> | 
+ | [gnome-themes](/f28/package/gnome-themes) | 109 | 109 | 100.0 | Assamese <fedora-trans-as@redhat.com> | 
+ | [gnome-themes-extra](/f28/package/gnome-themes-extra) | 24 | 24 | 100.0 | as_IN <kde-i18n-doc@kde.org> | 
+ | [gnome-tweaks](/f28/package/gnome-tweaks) | 382 | 382 | 100.0 | Assamese <kde-i18n-doc@kde.org> | 
+ | [gnome-user-share](/f28/package/gnome-user-share) | 160 | 160 | 100.0 | Assamese <kde-i18n-doc@kde.org> | 
+ | [gnome-vfs2](/f28/package/gnome-vfs2) | 1508 | 1508 | 100.0 | Assamese | 
+ | [gnome-video-effects](/f28/package/gnome-video-effects) | 256 | 256 | 100.0 | Assamese <kde-i18n-doc@kde.org> | 
+ | [gnome-weather](/f28/package/gnome-weather) | 183 | 183 | 100.0 | Assamese <kde-i18n-doc@kde.org> | 
+ | [gnote](/f28/package/gnote) | 3592 | 3592 | 100.0 | Assamese <kde-i18n-doc@kde.org> | 
+ | [grilo](/f28/package/grilo) | 187 | 187 | 100.0 | Assamese <kde-i18n-doc@kde.org> | 
+ | [grilo-plugins](/f28/package/grilo-plugins) | 533 | 533 | 100.0 | Assamese <kde-i18n-doc@kde.org> | 
+ | [gtk2-engines](/f28/package/gtk2-engines) | 119 | 119 | 100.0 | Assamese <fedora-trans-as@redhat.com> | 
+ | [gtk3](/f28/package/gtk3) | 14572 | 14572 | 100.0 | Assamese <kde-i18n-doc@kde.org> | 
+ | [gtk4](/f28/package/gtk4) | 14572 | 14572 | 100.0 | Assamese <kde-i18n-doc@kde.org> | 
+ | [gtkhtml3](/f28/package/gtkhtml3) | 488 | 488 | 100.0 | Assamese <kde-i18n-doc@kde.org> | 
+ | [gtksourceview2](/f28/package/gtksourceview2) | 1120 | 1120 | 100.0 | Assamese <> | 
+ | [gucharmap](/f28/package/gucharmap) | 1205 | 1205 | 100.0 | American English <kde-i18n-doc@kde.org> | 
+ | [gvfs](/f28/package/gvfs) | 2706 | 2706 | 100.0 | Assamese <kde-i18n-doc@kde.org> | 
+ | [initial-setup](/f28/package/initial-setup) | 33 | 33 | 100.0 | Assamese (http://www.transifex.com/projects/p/initial-setup/language/as/) | 
+ | [iok](/f28/package/iok) | 206 | 206 | 100.0 | Assamese | 
+ | [json-glib](/f28/package/json-glib) | 303 | 303 | 100.0 | Assamese <kde-i18n-doc@kde.org> | 
+ | [kexec-tools](/f28/package/kexec-tools) | 83 | 83 | 100.0 | Assamese <kde-i18n-doc@kde.org> | 
+ | [kf5-kpty](/f28/package/kf5-kpty) | 15 | 15 | 100.0 | Assamese <fedora-trans-as@redhat.com> | 
+ | [libbonobo](/f28/package/libbonobo) | 543 | 543 | 100.0 | Assamese | 
+ | [libbonoboui](/f28/package/libbonoboui) | 368 | 368 | 100.0 | Assamese | 
+ | [libcryptui](/f28/package/libcryptui) | 3012 | 3012 | 100.0 | Assamese <kde-i18n-doc@kde.org> | 
+ | [libgdata](/f28/package/libgdata) | 695 | 695 | 100.0 | Assamese <kde-i18n-doc@kde.org> | 
+ | [libgdl](/f28/package/libgdl) | 592 | 592 | 100.0 | as_IN <kde-i18n-doc@kde.org> | 
+ | [libgnome](/f28/package/libgnome) | 1772 | 1772 | 100.0 | Assamese <fedora-trans-as@redhat.com> | 
+ | [libgnome-keyring](/f28/package/libgnome-keyring) | 44 | 44 | 100.0 | Assamese <kde-i18n-doc@kde.org> | 
+ | [libgnomecanvas](/f28/package/libgnomecanvas) | 378 | 378 | 100.0 | Assamese <fedora-trans-as@redhat.com> | 
+ | [libgnomekbd](/f28/package/libgnomekbd) | 187 | 187 | 100.0 | as_IN <kde-i18n-doc@kde.org> | 
+ | [libgnomeui](/f28/package/libgnomeui) | 1309 | 1309 | 100.0 | Assamese | 
+ | [libgtop2](/f28/package/libgtop2) | 126 | 126 | 100.0 | as_IN <kde-i18n-doc@kde.org> | 
+ | [libgweather](/f28/package/libgweather) | 6171 | 6171 | 100.0 | Assamese <kde-i18n-doc@kde.org> | 
+ | [libpeas](/f28/package/libpeas) | 110 | 110 | 100.0 | Assamese <kde-i18n-doc@kde.org> | 
+ | [libpwquality](/f28/package/libpwquality) | 343 | 343 | 100.0 | Assamese (http://www.transifex.com/projects/p/libpwquality/language/as/) | 
+ | [libsecret](/f28/package/libsecret) | 59 | 59 | 100.0 | Assamese <kde-i18n-doc@kde.org> | 
+ | [libsoup](/f28/package/libsoup) | 110 | 110 | 100.0 | Assamese <kde-i18n-doc@kde.org> | 
+ | [libwnck](/f28/package/libwnck) | 1124 | 1124 | 100.0 | Assamese <fedora-trans-as@redhat.com> | 
+ | [libwnck3](/f28/package/libwnck3) | 1086 | 1086 | 100.0 | Assamese <kde-i18n-doc@kde.org> | 
+ | [lightsoff](/f28/package/lightsoff) | 102 | 102 | 100.0 | Assamese <kde-i18n-doc@kde.org> | 
+ | [lxmenu-data](/f28/package/lxmenu-data) | 97 | 97 | 100.0 | Assamese | 
+ | [mate-icon-theme](/f28/package/mate-icon-theme) | 4 | 4 | 100.0 | Assamese (https://www.transifex.com/mate/teams/13566/as/) | 
+ | [mate-menus](/f28/package/mate-menus) | 97 | 97 | 100.0 | Assamese (https://www.transifex.com/mate/teams/13566/as/) | 
+ | [mingw-GConf2](/f28/package/mingw-GConf2) | 4088 | 4088 | 100.0 | Assamese <kde-i18n-doc@kde.org> | 
+ | [mingw-atk](/f28/package/mingw-atk) | 440 | 440 | 100.0 | Assamese <kde-i18n-doc@kde.org> | 
+ | [mingw-gdk-pixbuf](/f28/package/mingw-gdk-pixbuf) | 1360 | 1360 | 100.0 | Assamese <kde-i18n-doc@kde.org> | 
+ | [mingw-glib-networking](/f28/package/mingw-glib-networking) | 161 | 161 | 100.0 | Assamese <kde-i18n-doc@kde.org> | 
+ | [mingw-glib2](/f28/package/mingw-glib2) | 5703 | 5703 | 100.0 | Assamese <kde-i18n-doc@kde.org> | 
+ | [mingw-gtk3](/f28/package/mingw-gtk3) | 14572 | 14572 | 100.0 | Assamese <kde-i18n-doc@kde.org> | 
+ | [mingw-json-glib](/f28/package/mingw-json-glib) | 303 | 303 | 100.0 | Assamese <kde-i18n-doc@kde.org> | 
+ | [mingw-libsoup](/f28/package/mingw-libsoup) | 110 | 110 | 100.0 | Assamese <kde-i18n-doc@kde.org> | 
+ | [mingw-qt5-qtwebkit](/f28/package/mingw-qt5-qtwebkit) | 2723 | 2723 | 100.0 | Assamese <kde-i18n-doc@kde.org> | 
+ | [mingw-webkitgtk](/f28/package/mingw-webkitgtk) | 2715 | 2715 | 100.0 | Assamese <kde-i18n-doc@kde.org> | 
+ | [mingw-webkitgtk3](/f28/package/mingw-webkitgtk3) | 2715 | 2715 | 100.0 | Assamese <kde-i18n-doc@kde.org> | 
+ | [mousetweaks](/f28/package/mousetweaks) | 114 | 114 | 100.0 | as_IN <kde-i18n-doc@kde.org> | 
+ | [mozo](/f28/package/mozo) | 42 | 42 | 100.0 | Assamese (https://www.transifex.com/mate/teams/13566/as/) | 
+ | [muffin](/f28/package/muffin) | 2071 | 2071 | 100.0 | as_IN <kde-i18n-doc@kde.org> | 
+ | [multimedia-menus](/f28/package/multimedia-menus) | 56 | 56 | 100.0 | Assamese <kde-i18n-doc@lists.kde.org> | 
+ | [mutter](/f28/package/mutter) | 1837 | 1837 | 100.0 | Assamese <kde-i18n-doc@kde.org> | 
+ | [nautilus](/f28/package/nautilus) | 6114 | 6114 | 100.0 | Assamese <kde-i18n-doc@kde.org> | 
+ | [nautilus-sendto](/f28/package/nautilus-sendto) | 45 | 45 | 100.0 | Assamese <kde-i18n-doc@kde.org> | 
+ | [nemiver](/f28/package/nemiver) | 1341 | 1341 | 100.0 | Assamese <kde-i18n-doc@kde.org> | 
+ | [newt](/f28/package/newt) | 4 | 4 | 100.0 | Assamese <> | 
+ | [notification-daemon](/f28/package/notification-daemon) | 17 | 17 | 100.0 | American English <kde-i18n-doc@kde.org> | 
+ | [pam_krb5](/f28/package/pam_krb5) | 7 | 7 | 100.0 | Assamese (http://www.transifex.com/projects/p/pam_krb5/language/as/) | 
+ | [planner](/f28/package/planner) | 1815 | 1815 | 100.0 | Assamese | 
+ | [polari](/f28/package/polari) | 373 | 373 | 100.0 | Assamese <kde-i18n-doc@kde.org> | 
+ | [polkit-gnome](/f28/package/polkit-gnome) | 94 | 94 | 100.0 | as_IN <kde-i18n-doc@kde.org> | 
+ | [redhat-menus](/f28/package/redhat-menus) | 261 | 261 | 100.0 | Assamese <fedora-trans-as@redhat.com> | 
+ | [rhythmbox](/f28/package/rhythmbox) | 4505 | 4505 | 100.0 | Assamese <fedora-trans-as@redhat.com> | 
+ | [rygel](/f28/package/rygel) | 1140 | 1140 | 100.0 | Assamese <kde-i18n-doc@kde.org> | 
+ | [seahorse](/f28/package/seahorse) | 2486 | 2486 | 100.0 | Assamese <kde-i18n-doc@kde.org> | 
+ | [setuptool](/f28/package/setuptool) | 55 | 55 | 100.0 | Assamese <fedora-trans-as@redhat.com> | 
+ | [shotwell](/f28/package/shotwell) | 4483 | 4483 | 100.0 | Assamese <kde-i18n-doc@kde.org>
 language/as/) | 
- | [sound-juicer]({{< ref "/f28/package/sound-juicer.md" >}}) | 1022 | 1022 | 100.0 | Assamese <> | 
- | [sushi]({{< ref "/f28/package/sushi.md" >}}) | 24 | 24 | 100.0 | as_IN <kde-i18n-doc@kde.org> | 
- | [switchdesk]({{< ref "/f28/package/switchdesk.md" >}}) | 139 | 139 | 100.0 | Assamese <fedora-trans-as@redhat.com> | 
- | [system-config-bind]({{< ref "/f28/package/system-config-bind.md" >}}) | 9419 | 9419 | 100.0 | Assamese <fedora-trans-as@redhat.com> | 
- | [system-config-httpd]({{< ref "/f28/package/system-config-httpd.md" >}}) | 877 | 877 | 100.0 | Assamese <> | 
- | [system-config-keyboard]({{< ref "/f28/package/system-config-keyboard.md" >}}) | 187 | 187 | 100.0 | Assamese | 
- | [system-config-kickstart]({{< ref "/f28/package/system-config-kickstart.md" >}}) | 1128 | 1128 | 100.0 | Assamese (http://www.transifex.com/projects/p/system-config-kickstart/language/as/) | 
- | [system-config-rootpassword]({{< ref "/f28/package/system-config-rootpassword.md" >}}) | 116 | 116 | 100.0 | Assamese | 
- | [system-switch-java]({{< ref "/f28/package/system-switch-java.md" >}}) | 81 | 81 | 100.0 | Assamese | 
- | [system-switch-mail]({{< ref "/f28/package/system-switch-mail.md" >}}) | 158 | 158 | 100.0 | Assamese <fedora-trans-as@redhat.com> | 
- | [tali]({{< ref "/f28/package/tali.md" >}}) | 421 | 421 | 100.0 | Assamese <kde-i18n-doc@kde.org> | 
- | [tomboy]({{< ref "/f28/package/tomboy.md" >}}) | 3278 | 3278 | 100.0 | as_IN <kde-i18n-doc@kde.org> | 
- | [totem]({{< ref "/f28/package/totem.md" >}}) | 1446 | 1446 | 100.0 | Assamese <kde-i18n-doc@kde.org> | 
- | [totem-pl-parser]({{< ref "/f28/package/totem-pl-parser.md" >}}) | 29 | 29 | 100.0 | Assamese <kde-i18n-doc@kde.org> | 
- | [vinagre]({{< ref "/f28/package/vinagre.md" >}}) | 1507 | 1507 | 100.0 | American English <kde-i18n-doc@kde.org> | 
- | [vino]({{< ref "/f28/package/vino.md" >}}) | 1228 | 1228 | 100.0 | Assamese <kde-i18n-doc@kde.org> | 
- | [virt-top]({{< ref "/f28/package/virt-top.md" >}}) | 361 | 361 | 100.0 | Assamese <None> | 
- | [vte]({{< ref "/f28/package/vte.md" >}}) | 84 | 84 | 100.0 | Assamese <kde-i18n-doc@kde.org> | 
- | [vte291]({{< ref "/f28/package/vte291.md" >}}) | 83 | 83 | 100.0 | Assamese <kde-i18n-doc@kde.org> | 
- | [vte3]({{< ref "/f28/package/vte3.md" >}}) | 80 | 80 | 100.0 | Assamese <kde-i18n-doc@kde.org> | 
- | [webkit2gtk3]({{< ref "/f28/package/webkit2gtk3.md" >}}) | 1543 | 1543 | 100.0 | Assamese <kde-i18n-doc@kde.org> | 
- | [xdg-user-dirs]({{< ref "/f28/package/xdg-user-dirs.md" >}}) | 28 | 28 | 100.0 | Assamese <fedora-trans-as@redhat.com> | 
- | [xdg-user-dirs-gtk]({{< ref "/f28/package/xdg-user-dirs-gtk.md" >}}) | 81 | 81 | 100.0 | Assamese <> | 
- | [xfce4-hardware-monitor-plugin]({{< ref "/f28/package/xfce4-hardware-monitor-plugin.md" >}}) | 356 | 356 | 100.0 | Assamese | 
- | [xplayer-plparser]({{< ref "/f28/package/xplayer-plparser.md" >}}) | 28 | 28 | 100.0 | as_IN <kde-i18n-doc@kde.org> | 
- | [xviewer-plugins]({{< ref "/f28/package/xviewer-plugins.md" >}}) | 77 | 77 | 100.0 | Assamese <fedora-trans-as@redhat.com> | 
- | [yelp]({{< ref "/f28/package/yelp.md" >}}) | 452 | 452 | 100.0 | Assamese <kde-i18n-doc@kde.org> | 
- | [yelp-xsl]({{< ref "/f28/package/yelp-xsl.md" >}}) | 81 | 81 | 100.0 | Assamese <kde-i18n-doc@kde.org> | 
- | [zenity]({{< ref "/f28/package/zenity.md" >}}) | 841 | 841 | 100.0 | Assamese <kde-i18n-doc@kde.org> | 
- | [hamster-time-tracker]({{< ref "/f28/package/hamster-time-tracker.md" >}}) | 696 | 697 | 99.9 | as_IN <kde-i18n-doc@kde.org> | 
- | [usermode]({{< ref "/f28/package/usermode.md" >}}) | 570 | 573 | 99.5 | Assamese (http://www.transifex.com/projects/p/fedora/language/as/) | 
- | [gnome-mahjongg]({{< ref "/f28/package/gnome-mahjongg.md" >}}) | 8435 | 8518 | 99.0 | Assamese <> | 
- | [gnome-tetravex]({{< ref "/f28/package/gnome-tetravex.md" >}}) | 8435 | 8518 | 99.0 | Assamese <> | 
- | [quadrapassel]({{< ref "/f28/package/quadrapassel.md" >}}) | 8435 | 8518 | 99.0 | Assamese <> | 
- | [clutter]({{< ref "/f28/package/clutter.md" >}}) | 3022 | 3057 | 98.9 | American English <kde-i18n-doc@kde.org> | 
- | [system-config-kdump]({{< ref "/f28/package/system-config-kdump.md" >}}) | 866 | 877 | 98.7 | Assamese (http://www.transifex.com/projects/p/fedora/language/as/) | 
- | [gnome-control-center]({{< ref "/f28/package/gnome-control-center.md" >}}) | 6169 | 6259 | 98.6 | Assamese <> | 
- | [xviewer]({{< ref "/f28/package/xviewer.md" >}}) | 1651 | 1677 | 98.4 | Assamese <kde-i18n-doc@kde.org> | 
- | [libmateweather]({{< ref "/f28/package/libmateweather.md" >}}) | 5970 | 6085 | 98.1 | Assamese (https://www.transifex.com/mate/teams/13566/as/) | 
- | [xplayer]({{< ref "/f28/package/xplayer.md" >}}) | 1912 | 1952 | 98.0 | Assamese <kde-i18n-doc@kde.org> | 
- | [hitori]({{< ref "/f28/package/hitori.md" >}}) | 170 | 174 | 97.7 | Assamese <kde-i18n-doc@kde.org> | 
- | [volume_key]({{< ref "/f28/package/volume_key.md" >}}) | 745 | 763 | 97.6 | Assamese (http://www.transifex.com/projects/p/fedora/language/as/) | 
- | [seahorse-caja]({{< ref "/f28/package/seahorse-caja.md" >}}) | 411 | 421 | 97.6 | Assamese <kde-i18n-doc@kde.org> | 
- | [seahorse-nautilus]({{< ref "/f28/package/seahorse-nautilus.md" >}}) | 411 | 421 | 97.6 | Assamese <kde-i18n-doc@kde.org> | 
- | [nemo-extensions]({{< ref "/f28/package/nemo-extensions.md" >}}) | 247 | 254 | 97.2 | Assamese <as@li.org> | 
- | [gtk2]({{< ref "/f28/package/gtk2.md" >}}) | 13281 | 13704 | 96.9 | American English <> | 
- | [mingw-gtk2]({{< ref "/f28/package/mingw-gtk2.md" >}}) | 13281 | 13704 | 96.9 | American English <> | 
- | [cracklib]({{< ref "/f28/package/cracklib.md" >}}) | 93 | 96 | 96.9 | Assamese <> | 
- | [imsettings]({{< ref "/f28/package/imsettings.md" >}}) | 440 | 456 | 96.5 | as_IN <kde-i18n-doc@kde.org> | 
- | [pam]({{< ref "/f28/package/pam.md" >}}) | 575 | 597 | 96.3 | Assamese (http://www.transifex.com/projects/p/fedora/language/as/) | 
- | [im-chooser]({{< ref "/f28/package/im-chooser.md" >}}) | 229 | 239 | 95.8 | as_IN <kde-i18n-doc@kde.org> | 
- | [iso-codes]({{< ref "/f28/package/iso-codes.md" >}}) | 1778 | 1861 | 95.5 | Assamese <fedora-trans-as@redhat.com> | 
- | [system-config-firewall]({{< ref "/f28/package/system-config-firewall.md" >}}) | 2686 | 2814 | 95.5 | American English <fedora-trans-as@redhat.com> | 
- | [gdm]({{< ref "/f28/package/gdm.md" >}}) | 619 | 650 | 95.2 | American English <kde-i18n-doc@kde.org> | 
- | [authconfig]({{< ref "/f28/package/authconfig.md" >}}) | 879 | 929 | 94.6 | Assamese (http://www.transifex.com/projects/p/authconfig/language/as/) | 
- | [system-config-users]({{< ref "/f28/package/system-config-users.md" >}}) | 1436 | 1521 | 94.4 | Assamese (http://www.transifex.com/projects/p/fedora/language/as/) | 
- | [cinnamon-control-center]({{< ref "/f28/package/cinnamon-control-center.md" >}}) | 1223 | 1313 | 93.1 | Assamese <> | 
- | [setroubleshoot]({{< ref "/f28/package/setroubleshoot.md" >}}) | 577 | 633 | 91.2 | Assamese (http://www.transifex.com/projects/p/fedora/language/as/) | 
- | [passwd]({{< ref "/f28/package/passwd.md" >}}) | 306 | 336 | 91.1 | Assamese (http://www.transifex.com/projects/p/fedora/language/as/) | 
- | [chkconfig]({{< ref "/f28/package/chkconfig.md" >}}) | 503 | 555 | 90.6 | Assamese (http://www.transifex.com/projects/p/fedora/language/as/) | 
- | [pidgin]({{< ref "/f28/package/pidgin.md" >}}) | 14184 | 15756 | 90.0 | Assamese (http://www.transifex.com/pidgin/pidgin/language/as/) | 
- | [pantheon-photos]({{< ref "/f28/package/pantheon-photos.md" >}}) | 3553 | 3977 | 89.3 | Assamese (http://www.transifex.com/projects/p/shotwell/language/as/) | 
- | [system-config-printer]({{< ref "/f28/package/system-config-printer.md" >}}) | 3046 | 3450 | 88.3 | Assamese (http://www.transifex.com/projects/p/system-config-printer/language/as/) | 
- | [mingw-gtksourceview3]({{< ref "/f28/package/mingw-gtksourceview3.md" >}}) | 1019 | 1156 | 88.1 | Assamese <kde-i18n-doc@kde.org> | 
- | [gnome-documents]({{< ref "/f28/package/gnome-documents.md" >}}) | 1312 | 1510 | 86.9 | Assamese <kde-i18n-doc@kde.org> | 
- | [mate-screensaver]({{< ref "/f28/package/mate-screensaver.md" >}}) | 852 | 983 | 86.7 | Assamese (https://www.transifex.com/mate/teams/13566/as/) | 
- | [kf5-kjsembed]({{< ref "/f28/package/kf5-kjsembed.md" >}}) | 212 | 248 | 85.5 | Assamese <fedora-trans-as@redhat.com> | 
- | [kf5-kcmutils]({{< ref "/f28/package/kf5-kcmutils.md" >}}) | 471 | 563 | 83.7 | Assamese <fedora-trans-as@redhat.com> | 
- | [pavucontrol]({{< ref "/f28/package/pavucontrol.md" >}}) | 198 | 237 | 83.5 | Assamese <fedora-trans-as@redhat.com> | 
- | [gnucash]({{< ref "/f28/package/gnucash.md" >}}) | 27795 | 34158 | 81.4 | NONE | 
- | [python-blivet1]({{< ref "/f28/package/python-blivet1.md" >}}) | 573 | 707 | 81.0 | Assamese | 
- | [kf5-kross]({{< ref "/f28/package/kf5-kross.md" >}}) | 80 | 100 | 80.0 | Assamese <fedora-trans-as@redhat.com> | 
- | [initscripts]({{< ref "/f28/package/initscripts.md" >}}) | 777 | 974 | 79.8 | Assamese (http://www.transifex.com/projects/p/fedora/language/as/) | 
- | [subscription-manager]({{< ref "/f28/package/subscription-manager.md" >}}) | 4517 | 5722 | 78.9 | Assamese | 
- | [marco]({{< ref "/f28/package/marco.md" >}}) | 3223 | 4148 | 77.7 | Assamese (https://www.transifex.com/mate/teams/13566/as/) | 
- | [virt-manager]({{< ref "/f28/package/virt-manager.md" >}}) | 6411 | 8344 | 76.8 | Assamese (http://www.transifex.com/projects/p/virt-manager/language/as/) | 
- | [mate-backgrounds]({{< ref "/f28/package/mate-backgrounds.md" >}}) | 23 | 30 | 76.7 | Assamese (http://www.transifex.com/mate/MATE/language/as/) | 
- | [policycoreutils]({{< ref "/f28/package/policycoreutils.md" >}}) | 5868 | 7678 | 76.4 | Assamese (http://www.transifex.com/projects/p/fedora/language/as/) | 
- | [gedit-plugins]({{< ref "/f28/package/gedit-plugins.md" >}}) | 890 | 1205 | 73.9 | Assamese <> | 
- | [gnome-abrt]({{< ref "/f28/package/gnome-abrt.md" >}}) | 291 | 397 | 73.3 | Assamese (http://www.transifex.com/projects/p/gnome-abrt/language/as/) | 
- | [kf5-kinit]({{< ref "/f28/package/kf5-kinit.md" >}}) | 96 | 134 | 71.6 | Assamese <fedora-trans-as@redhat.com> | 
- | [anaconda]({{< ref "/f28/package/anaconda.md" >}}) | 5298 | 7551 | 70.2 | Assamese (http://www.transifex.com/projects/p/anaconda/language/as/) | 
- | [mlocate]({{< ref "/f28/package/mlocate.md" >}}) | 406 | 581 | 69.9 | Assamese (http://www.transifex.com/projects/p/fedora/language/as/) | 
- | [caja]({{< ref "/f28/package/caja.md" >}}) | 6520 | 9356 | 69.7 | Assamese (https://www.transifex.com/mate/teams/13566/as/) | 
- | [libuser]({{< ref "/f28/package/libuser.md" >}}) | 996 | 1437 | 69.3 | Assamese (http://www.transifex.com/projects/p/fedora/language/as/) | 
- | [plasma-desktop]({{< ref "/f28/package/plasma-desktop.md" >}}) | 384 | 558 | 68.8 | Assamese <fedora-trans-as@redhat.com> | 
- | [PackageKit]({{< ref "/f28/package/PackageKit.md" >}}) | 878 | 1278 | 68.7 | Assamese (http://www.transifex.com/freedesktop/packagekit/language/as/) | 
- | [libreoffice]({{< ref "/f28/package/libreoffice.md" >}}) | 67075 | 98080 | 68.4 | LANGUAGE <LL@li.org> | 
- | [python-blivet]({{< ref "/f28/package/python-blivet.md" >}}) | 355 | 522 | 68.0 | Assamese (http://www.transifex.com/projects/p/blivet/language/as/) | 
- | [firewalld]({{< ref "/f28/package/firewalld.md" >}}) | 1496 | 2217 | 67.5 | Assamese (http://www.transifex.com/projects/p/firewalld/language/as/) | 
- | [gtksourceview3]({{< ref "/f28/package/gtksourceview3.md" >}}) | 213 | 322 | 66.1 | Assamese <kde-i18n-doc@kde.org> | 
- | [libmatekbd]({{< ref "/f28/package/libmatekbd.md" >}}) | 164 | 251 | 65.3 | Assamese (https://www.transifex.com/mate/teams/13566/as/) | 
- | [kf5-ktextwidgets]({{< ref "/f28/package/kf5-ktextwidgets.md" >}}) | 298 | 462 | 64.5 | Assamese <fedora-trans-as@redhat.com> | 
- | [gnome-robots]({{< ref "/f28/package/gnome-robots.md" >}}) | 384 | 597 | 64.3 | Assamese <> | 
- | [inkscape]({{< ref "/f28/package/inkscape.md" >}}) | 24394 | 38214 | 63.8 | Hindi <Indlinux> | 
- | [xed]({{< ref "/f28/package/xed.md" >}}) | 2919 | 4613 | 63.3 | Assamese (http://www.transifex.com/projects/p/MATE/language/as/) | 
- | [abrt]({{< ref "/f28/package/abrt.md" >}}) | 2488 | 3969 | 62.7 | Assamese (http://www.transifex.com/projects/p/fedora-abrt/language/as/) | 
- | [rhn-client-tools]({{< ref "/f28/package/rhn-client-tools.md" >}}) | 2540 | 4057 | 62.6 | Assamese (http://www.transifex.com/projects/p/spacewalk/language/as/) | 
- | [mate-session-manager]({{< ref "/f28/package/mate-session-manager.md" >}}) | 420 | 681 | 61.7 | Assamese (https://www.transifex.com/mate/teams/13566/as/) | 
- | [pulseaudio]({{< ref "/f28/package/pulseaudio.md" >}}) | 2010 | 3304 | 60.8 | Assamese <> | 
- | [rhnsd]({{< ref "/f28/package/rhnsd.md" >}}) | 20 | 33 | 60.6 | Assamese (http://www.transifex.com/projects/p/fedora/language/as/) | 
- | [libvirt]({{< ref "/f28/package/libvirt.md" >}}) | 38039 | 63891 | 59.5 | Assamese (http://www.transifex.com/projects/p/libvirt/language/as/) | 
- | [mingw-libvirt]({{< ref "/f28/package/mingw-libvirt.md" >}}) | 38039 | 63891 | 59.5 | Assamese (http://www.transifex.com/projects/p/libvirt/language/as/) | 
- | [mate-panel]({{< ref "/f28/package/mate-panel.md" >}}) | 3857 | 6532 | 59.0 | Assamese (https://www.transifex.com/mate/teams/13566/as/) | 
- | [gnome-chess]({{< ref "/f28/package/gnome-chess.md" >}}) | 809 | 1390 | 58.2 | Assamese <> | 
- | [kf5-kparts]({{< ref "/f28/package/kf5-kparts.md" >}}) | 60 | 104 | 57.7 | Assamese <fedora-trans-as@redhat.com> | 
- | [virt-viewer]({{< ref "/f28/package/virt-viewer.md" >}}) | 452 | 784 | 57.7 | Assamese (http://www.transifex.com/projects/p/virt-viewer/language/as/) | 
- | [mate-media]({{< ref "/f28/package/mate-media.md" >}}) | 125 | 226 | 55.3 | Assamese (https://www.transifex.com/mate/teams/13566/as/) | 
- | [mate-desktop]({{< ref "/f28/package/mate-desktop.md" >}}) | 1261 | 2305 | 54.7 | Assamese (https://www.transifex.com/mate/teams/13566/as/) | 
- | [mate-settings-daemon]({{< ref "/f28/package/mate-settings-daemon.md" >}}) | 953 | 1764 | 54.0 | Assamese (https://www.transifex.com/mate/teams/13566/as/) | 
- | [gnome-user-docs]({{< ref "/f28/package/gnome-user-docs.md" >}}) | 30614 | 58586 | 52.3 | Assamese <kde-i18n-doc@kde.org> | 
- | [xreader]({{< ref "/f28/package/xreader.md" >}}) | 851 | 1641 | 51.9 | Assamese (http://www.transifex.com/mate/MATE/language/as/) | 
- | [libreport]({{< ref "/f28/package/libreport.md" >}}) | 2507 | 4987 | 50.3 | Assamese (http://www.transifex.com/projects/p/libreport/language/as/) | 
- | [ibus]({{< ref "/f28/package/ibus.md" >}}) | 996 | 1983 | 50.2 | Assamese <fedora-trans-as@redhat.com> | 
- | [network-manager-applet]({{< ref "/f28/package/network-manager-applet.md" >}}) | 1975 | 4403 | 44.9 | Assamese <kde-i18n-doc@kde.org> | 
- | [sos]({{< ref "/f28/package/sos.md" >}}) | 54 | 122 | 44.3 | Assamese | 
- | [mate-terminal]({{< ref "/f28/package/mate-terminal.md" >}}) | 3616 | 8453 | 42.8 | Assamese (https://www.transifex.com/mate/teams/13566/as/) | 
- | [four-in-a-row]({{< ref "/f28/package/four-in-a-row.md" >}}) | 109 | 256 | 42.6 | Assamese <> | 
- | [setroubleshoot-plugins]({{< ref "/f28/package/setroubleshoot-plugins.md" >}}) | 2622 | 6224 | 42.1 | Assamese (http://www.transifex.com/projects/p/fedora/language/as/) | 
- | [mate-calc]({{< ref "/f28/package/mate-calc.md" >}}) | 1199 | 2995 | 40.0 | Assamese (https://www.transifex.com/mate/teams/13566/as/) | 
- | [paprefs]({{< ref "/f28/package/paprefs.md" >}}) | 51 | 131 | 38.9 | Assamese <fedora-trans-as@redhat.com> | 
- | [kf5-khtml]({{< ref "/f28/package/kf5-khtml.md" >}}) | 657 | 1721 | 38.2 | Assamese <fedora-trans-as@redhat.com> | 
- | [kf5-kconfigwidgets]({{< ref "/f28/package/kf5-kconfigwidgets.md" >}}) | 117 | 321 | 36.4 | Assamese <fedora-trans-as@redhat.com> | 
- | [kf5-ki18n]({{< ref "/f28/package/kf5-ki18n.md" >}}) | 42 | 124 | 33.9 | Assamese <fedora-trans-as@redhat.com> | 
- | [mate-utils]({{< ref "/f28/package/mate-utils.md" >}}) | 3280 | 10102 | 32.5 | Assamese (https://www.transifex.com/mate/teams/13566/as/) | 
- | [publican]({{< ref "/f28/package/publican.md" >}}) | 1735 | 5443 | 31.9 | Assamese <> | 
- | [system-config-language]({{< ref "/f28/package/system-config-language.md" >}}) | 61 | 197 | 31.0 | Assamese <> | 
- | [pluma]({{< ref "/f28/package/pluma.md" >}}) | 3837 | 12740 | 30.1 | Assamese (https://www.transifex.com/mate/teams/13566/as/) | 
- | [mate-power-manager]({{< ref "/f28/package/mate-power-manager.md" >}}) | 1550 | 5246 | 29.5 | Assamese (https://www.transifex.com/mate/teams/13566/as/) | 
- | [kf5-kxmlgui]({{< ref "/f28/package/kf5-kxmlgui.md" >}}) | 458 | 1602 | 28.6 | Assamese <fedora-trans-as@redhat.com> | 
- | [gnome-mines]({{< ref "/f28/package/gnome-mines.md" >}}) | 94 | 344 | 27.3 | Assamese <> | 
- | [kf5-knotifyconfig]({{< ref "/f28/package/kf5-knotifyconfig.md" >}}) | 34 | 129 | 26.4 | Assamese <fedora-trans-as@redhat.com> | 
- | [atril]({{< ref "/f28/package/atril.md" >}}) | 1008 | 3831 | 26.3 | Assamese (https://www.transifex.com/mate/teams/13566/as/) | 
- | [mate-control-center]({{< ref "/f28/package/mate-control-center.md" >}}) | 2080 | 7915 | 26.3 | Assamese (https://www.transifex.com/mate/teams/13566/as/) | 
- | [kf5-kservice]({{< ref "/f28/package/kf5-kservice.md" >}}) | 44 | 170 | 25.9 | Assamese <fedora-trans-as@redhat.com> | 
- | [NetworkManager]({{< ref "/f28/package/NetworkManager.md" >}}) | 5153 | 21397 | 24.1 | Assamese <kde-i18n-doc@kde.org> | 
- | [swell-foop]({{< ref "/f28/package/swell-foop.md" >}}) | 64 | 266 | 24.1 | Assamese <> | 
- | [yum-rhn-plugin]({{< ref "/f28/package/yum-rhn-plugin.md" >}}) | 35 | 147 | 23.8 | Assamese (http://www.transifex.com/projects/p/fedora/language/as/) | 
- | [cinnamon-translations]({{< ref "/f28/package/cinnamon-translations.md" >}}) | 2389 | 10053 | 23.8 | Assamese <as@li.org> | 
- | [kwin]({{< ref "/f28/package/kwin.md" >}}) | 285 | 1383 | 20.6 | Assamese <fedora-trans-as@redhat.com> | 
- | [pykickstart]({{< ref "/f28/package/pykickstart.md" >}}) | 308 | 1521 | 20.2 | Assamese (http://www.transifex.com/projects/p/pykickstart/language/as/) | 
- | [eom]({{< ref "/f28/package/eom.md" >}}) | 1028 | 5121 | 20.1 | Assamese (https://www.transifex.com/mate/teams/13566/as/) | 
- | [kf5-knewstuff]({{< ref "/f28/package/kf5-knewstuff.md" >}}) | 138 | 690 | 20.0 | Assamese <fedora-trans-as@redhat.com> | 
- | [mate-menu]({{< ref "/f28/package/mate-menu.md" >}}) | 62 | 316 | 19.6 | Assamese (http://www.transifex.com/mate/MATE/language/as/) | 
- | [ccsm]({{< ref "/f28/package/ccsm.md" >}}) | 103 | 579 | 17.8 | Assamese <as@li.org> | 
- | [caja-extensions]({{< ref "/f28/package/caja-extensions.md" >}}) | 98 | 570 | 17.2 | Assamese (https://www.transifex.com/mate/teams/13566/as/) | 
- | [compat-tracker1]({{< ref "/f28/package/compat-tracker1.md" >}}) | 561 | 3613 | 15.5 | Assamese <kde-i18n-doc@kde.org> | 
- | [tracker]({{< ref "/f28/package/tracker.md" >}}) | 561 | 3613 | 15.5 | Assamese <kde-i18n-doc@kde.org> | 
- | [tracker-miners]({{< ref "/f28/package/tracker-miners.md" >}}) | 561 | 3613 | 15.5 | Assamese <kde-i18n-doc@kde.org> | 
- | [gsettings-desktop-schemas]({{< ref "/f28/package/gsettings-desktop-schemas.md" >}}) | 678 | 4585 | 14.8 | as_IN <kde-i18n-doc@kde.org> | 
- | [engrampa]({{< ref "/f28/package/engrampa.md" >}}) | 1133 | 7819 | 14.5 | Assamese (https://www.transifex.com/mate/teams/13566/as/) | 
- | [blueberry]({{< ref "/f28/package/blueberry.md" >}}) | 19 | 141 | 13.5 | Assamese <as@li.org> | 
- | [NetworkManager-ssh]({{< ref "/f28/package/NetworkManager-ssh.md" >}}) | 37 | 286 | 12.9 | Assamese <fedora-trans-as@redhat.com> | 
- | [kf5-kdeclarative]({{< ref "/f28/package/kf5-kdeclarative.md" >}}) | 14 | 109 | 12.8 | Assamese <fedora-trans-as@redhat.com> | 
- | [mate-system-monitor]({{< ref "/f28/package/mate-system-monitor.md" >}}) | 556 | 4330 | 12.8 | Assamese (https://www.transifex.com/mate/teams/13566/as/) | 
- | [NetworkManager-fortisslvpn]({{< ref "/f28/package/NetworkManager-fortisslvpn.md" >}}) | 22 | 174 | 12.6 | Assamese <> | 
- | [kf5-kdelibs4support]({{< ref "/f28/package/kf5-kdelibs4support.md" >}}) | 575 | 4813 | 11.9 | Assamese <fedora-trans-as@redhat.com> | 
- | [mate-themes]({{< ref "/f28/package/mate-themes.md" >}}) | 7 | 60 | 11.7 | Assamese (http://www.transifex.com/mate/MATE/language/as/) | 
- | [NetworkManager-openvpn]({{< ref "/f28/package/NetworkManager-openvpn.md" >}}) | 121 | 1049 | 11.5 | Assamese <fedora-trans-as@redhat.com> | 
- | [mate-applets]({{< ref "/f28/package/mate-applets.md" >}}) | 1883 | 16336 | 11.5 | Assamese (https://www.transifex.com/mate/teams/13566/as/) | 
- | [iagno]({{< ref "/f28/package/iagno.md" >}}) | 34 | 322 | 10.6 | Assamese <> | 
- | [dconf-editor]({{< ref "/f28/package/dconf-editor.md" >}}) | 131 | 1464 | 8.9 | Assamese <kde-i18n-doc@kde.org> | 
- | [NetworkManager-l2tp]({{< ref "/f28/package/NetworkManager-l2tp.md" >}}) | 79 | 906 | 8.7 | Assamese <> | 
- | [mate-notification-daemon]({{< ref "/f28/package/mate-notification-daemon.md" >}}) | 11 | 139 | 7.9 | Assamese (https://www.transifex.com/mate/teams/13566/as/) | 
- | [colord]({{< ref "/f28/package/colord.md" >}}) | 25 | 388 | 6.4 | LANGUAGE <LL@li.org> | 
- | [mingw-colord]({{< ref "/f28/package/mingw-colord.md" >}}) | 25 | 388 | 6.4 | LANGUAGE <LL@li.org> | 
- | [kate]({{< ref "/f28/package/kate.md" >}}) | 4 | 63 | 6.3 | Asturian <alministradores@softastur.org> | 
- | [gnome-sudoku]({{< ref "/f28/package/gnome-sudoku.md" >}}) | 23 | 399 | 5.8 | Assamese <> | 
- | [publican-fedora]({{< ref "/f28/package/publican-fedora.md" >}}) | 6 | 107 | 5.6 | Assamese | 
- | [libmatemixer]({{< ref "/f28/package/libmatemixer.md" >}}) | 12 | 242 | 5.0 | Assamese (https://www.transifex.com/mate/teams/13566/as/) | 
- | [publican-jboss]({{< ref "/f28/package/publican-jboss.md" >}}) | 9 | 232 | 3.9 | Assamese <> | 
- | [isomaster]({{< ref "/f28/package/isomaster.md" >}}) | 24 | 674 | 3.6 | http://littlesvr.ca/ostd/ | 
- | [mate-polkit]({{< ref "/f28/package/mate-polkit.md" >}}) | 4 | 122 | 3.3 | Assamese (https://www.transifex.com/mate/teams/13566/as/) | 
- | [asunder]({{< ref "/f28/package/asunder.md" >}}) | 16 | 495 | 3.2 | http://littlesvr.ca/ostd/ | 
- | [light-locker]({{< ref "/f28/package/light-locker.md" >}}) | 7 | 260 | 2.7 | Assamese (http://www.transifex.com/the_cavalry/light-locker/language/as/) | 
- | [libksysguard]({{< ref "/f28/package/libksysguard.md" >}}) | 73 | 2743 | 2.7 | Assamese <fedora-trans-as@redhat.com> | 
- | [NetworkManager-openconnect]({{< ref "/f28/package/NetworkManager-openconnect.md" >}}) | 54 | 3241 | 1.7 | Assamese <kde-i18n-doc@kde.org> | 
- | [powerdevil]({{< ref "/f28/package/powerdevil.md" >}}) | 6 | 399 | 1.5 | Assamese <fedora-trans-as@redhat.com> | 
- | [libgsf]({{< ref "/f28/package/libgsf.md" >}}) | 9 | 696 | 1.3 | Assamese <kde-i18n-doc@kde.org> | 
- | [mingw-libgsf]({{< ref "/f28/package/mingw-libgsf.md" >}}) | 9 | 696 | 1.3 | Assamese <kde-i18n-doc@kde.org> | 
- | [mate-sensors-applet]({{< ref "/f28/package/mate-sensors-applet.md" >}}) | 21 | 2215 | 0.9 | Assamese (https://www.transifex.com/mate/teams/13566/as/) | 
- | [python-meh]({{< ref "/f28/package/python-meh.md" >}}) | 1 | 109 | 0.9 | Assamese (http://www.transifex.com/projects/p/python-meh/language/as/) | 
- | [mate-user-guide]({{< ref "/f28/package/mate-user-guide.md" >}}) | 146 | 44681 | 0.3 | Assamese (https://www.transifex.com/mate/teams/13566/as/) | 
- | [shutter]({{< ref "/f28/package/shutter.md" >}}) | 1 | 2448 | 0.0 | Assamese <as@li.org> | 
- | [stellarium]({{< ref "/f28/package/stellarium.md" >}}) | 3 | 68196 | 0.0 | Assamese (https://www.transifex.com/stellarium/teams/80998/as/) | 
- | [appcenter]({{< ref "/f28/package/appcenter.md" >}}) | 0 | 765 | 0.0 | LANGUAGE <LL@li.org> | 
- | [audience]({{< ref "/f28/package/audience.md" >}}) | 0 | 106 | 0.0 |  | 
- | [blivet-gui]({{< ref "/f28/package/blivet-gui.md" >}}) | 0 | 815 | 0.0 | Assamese | 
- | [certmonger]({{< ref "/f28/package/certmonger.md" >}}) | 0 | 2831 | 0.0 | Assamese (http://www.transifex.com/projects/p/certmonger/language/as/) | 
- | [deepin-metacity]({{< ref "/f28/package/deepin-metacity.md" >}}) | 0 | 0 | 0.0 |  | 
- | [dippi]({{< ref "/f28/package/dippi.md" >}}) | 0 | 397 | 0.0 | none | 
- | [dnf-plugins-extras]({{< ref "/f28/package/dnf-plugins-extras.md" >}}) | 0 | 375 | 0.0 | Assamese | 
- | [docker-anaconda-addon]({{< ref "/f28/package/docker-anaconda-addon.md" >}}) | 0 | 27 | 0.0 | Assamese | 
- | [elementary-calculator]({{< ref "/f28/package/elementary-calculator.md" >}}) | 0 | 80 | 0.0 | LANGUAGE <LL@li.org> | 
- | [elementary-calendar]({{< ref "/f28/package/elementary-calendar.md" >}}) | 0 | 449 | 0.0 | LANGUAGE <LL@li.org> | 
- | [elementary-camera]({{< ref "/f28/package/elementary-camera.md" >}}) | 0 | 62 | 0.0 |  | 
- | [elementary-capnet-assist]({{< ref "/f28/package/elementary-capnet-assist.md" >}}) | 0 | 81 | 0.0 | none | 
- | [elementary-screenshot-tool]({{< ref "/f28/package/elementary-screenshot-tool.md" >}}) | 0 | 132 | 0.0 | LANGUAGE <LL@li.org> | 
- | [elementary-shortcut-overlay]({{< ref "/f28/package/elementary-shortcut-overlay.md" >}}) | 0 | 82 | 0.0 | none | 
- | [entangle]({{< ref "/f28/package/entangle.md" >}}) | 0 | 953 | 0.0 | Assamese | 
- | [fonts-tweak-tool]({{< ref "/f28/package/fonts-tweak-tool.md" >}}) | 0 | 195 | 0.0 | Assamese | 
- | [fprintd]({{< ref "/f28/package/fprintd.md" >}}) | 0 | 419 | 0.0 | Assamese (http://www.transifex.com/freedesktop/fprintd/language/as/) | 
- | [harvey]({{< ref "/f28/package/harvey.md" >}}) | 0 | 57 | 0.0 | none | 
- | [kf5-kauth]({{< ref "/f28/package/kf5-kauth.md" >}}) | 0 | 73 | 0.0 | Assamese <fedora-trans-as@redhat.com> | 
- | [kf5-kcodecs]({{< ref "/f28/package/kf5-kcodecs.md" >}}) | 0 | 348 | 0.0 | Assamese <fedora-trans-as@redhat.com> | 
- | [kf5-kcompletion]({{< ref "/f28/package/kf5-kcompletion.md" >}}) | 0 | 18 | 0.0 | Assamese <fedora-trans-as@redhat.com> | 
- | [kf5-kcoreaddons]({{< ref "/f28/package/kf5-kcoreaddons.md" >}}) | 0 | 333 | 0.0 | Assamese <fedora-trans-as@redhat.com> | 
- | [kf5-kdesignerplugin]({{< ref "/f28/package/kf5-kdesignerplugin.md" >}}) | 0 | 54 | 0.0 | Assamese <fedora-trans-as@redhat.com> | 
- | [kf5-kdnssd]({{< ref "/f28/package/kf5-kdnssd.md" >}}) | 0 | 3 | 0.0 | Assamese <fedora-trans-as@redhat.com> | 
- | [kf5-kglobalaccel]({{< ref "/f28/package/kf5-kglobalaccel.md" >}}) | 0 | 71 | 0.0 | Assamese <fedora-trans-as@redhat.com> | 
- | [kf5-kitemviews]({{< ref "/f28/package/kf5-kitemviews.md" >}}) | 0 | 7 | 0.0 | Assamese <fedora-trans-as@redhat.com> | 
- | [kf5-kjobwidgets]({{< ref "/f28/package/kf5-kjobwidgets.md" >}}) | 0 | 123 | 0.0 | Assamese <fedora-trans-as@redhat.com> | 
- | [kf5-knotifications]({{< ref "/f28/package/kf5-knotifications.md" >}}) | 0 | 18 | 0.0 | Assamese <fedora-trans-as@redhat.com> | 
- | [kf5-kwidgetsaddons]({{< ref "/f28/package/kf5-kwidgetsaddons.md" >}}) | 0 | 1319 | 0.0 | Assamese <fedora-trans-as@redhat.com> | 
- | [kf5-kwindowsystem]({{< ref "/f28/package/kf5-kwindowsystem.md" >}}) | 0 | 2 | 0.0 | Assamese <fedora-trans-as@redhat.com> | 
- | [kf5-sonnet]({{< ref "/f28/package/kf5-sonnet.md" >}}) | 0 | 667 | 0.0 | Assamese <fedora-trans-as@redhat.com> | 
- | [libbytesize]({{< ref "/f28/package/libbytesize.md" >}}) | 0 | 17 | 0.0 | Assamese | 
- | [libgxim]({{< ref "/f28/package/libgxim.md" >}}) | 0 | 124 | 0.0 | LANGUAGE <LL@li.org> | 
- | [libosinfo]({{< ref "/f28/package/libosinfo.md" >}}) | 0 | 662 | 0.0 | Assamese | 
- | [libvirt-glib]({{< ref "/f28/package/libvirt-glib.md" >}}) | 0 | 145 | 0.0 | Assamese (http://www.transifex.com/projects/p/libvirt-glib/language/as/) | 
- | [libvirt-sandbox]({{< ref "/f28/package/libvirt-sandbox.md" >}}) | 0 | 617 | 0.0 | Assamese (http://www.transifex.com/projects/p/fedora/language/as/) | 
- | [maya-calendar]({{< ref "/f28/package/maya-calendar.md" >}}) | 0 | 394 | 0.0 | LANGUAGE <LL@li.org> | 
- | [metacity]({{< ref "/f28/package/metacity.md" >}}) | 0 | 0 | 0.0 |  | 
- | [mingw-libosinfo]({{< ref "/f28/package/mingw-libosinfo.md" >}}) | 0 | 2049 | 0.0 | Assamese | 
- | [mingw-libvirt-glib]({{< ref "/f28/package/mingw-libvirt-glib.md" >}}) | 0 | 145 | 0.0 | Assamese (http://www.transifex.com/projects/p/libvirt-glib/language/as/) | 
- | [mingw-p11-kit]({{< ref "/f28/package/mingw-p11-kit.md" >}}) | 0 | 476 | 0.0 | Assamese (http://www.transifex.com/freedesktop/p11-kit/language/as/) | 
- | [noise]({{< ref "/f28/package/noise.md" >}}) | 0 | 1322 | 0.0 | LANGUAGE <LL@li.org> | 
- | [optimizer]({{< ref "/f28/package/optimizer.md" >}}) | 0 | 111 | 0.0 | none | 
- | [osinfo-db-tools]({{< ref "/f28/package/osinfo-db-tools.md" >}}) | 0 | 56 | 0.0 | Assamese | 
- | [p11-kit]({{< ref "/f28/package/p11-kit.md" >}}) | 0 | 476 | 0.0 | Assamese (http://www.transifex.com/freedesktop/p11-kit/language/as/) | 
- | [pantheon-agent-geoclue2]({{< ref "/f28/package/pantheon-agent-geoclue2.md" >}}) | 0 | 46 | 0.0 | LANGUAGE <LL@li.org> | 
- | [pantheon-agent-polkit]({{< ref "/f28/package/pantheon-agent-polkit.md" >}}) | 0 | 14 | 0.0 | LANGUAGE <LL@li.org> | 
- | [pantheon-calculator]({{< ref "/f28/package/pantheon-calculator.md" >}}) | 0 | 52 | 0.0 | LANGUAGE <LL@li.org> | 
- | [pantheon-files]({{< ref "/f28/package/pantheon-files.md" >}}) | 0 | 2487 | 0.0 | LANGUAGE <LL@li.org> | 
- | [python-fedora]({{< ref "/f28/package/python-fedora.md" >}}) | 0 | 214 | 0.0 | Assamese | 
- | [python-simpleline]({{< ref "/f28/package/python-simpleline.md" >}}) | 0 | 42 | 0.0 | Assamese | 
- | [realmd]({{< ref "/f28/package/realmd.md" >}}) | 0 | 789 | 0.0 | Assamese (http://www.transifex.com/freedesktop/realmd/language/as/) | 
- | [retrace-server]({{< ref "/f28/package/retrace-server.md" >}}) | 0 | 381 | 0.0 | Assamese | 
- | [scratch-text-editor]({{< ref "/f28/package/scratch-text-editor.md" >}}) | 0 | 681 | 0.0 | LANGUAGE <LL@li.org> | 
- | [screenshot-tool]({{< ref "/f28/package/screenshot-tool.md" >}}) | 0 | 146 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sequeler]({{< ref "/f28/package/sequeler.md" >}}) | 0 | 252 | 0.0 |  | 
- | [shared-mime-info]({{< ref "/f28/package/shared-mime-info.md" >}}) | 0 | 1959 | 0.0 | Assamese (http://www.transifex.com/freedesktop/shared-mime-info/language/as/) | 
- | [switchboard]({{< ref "/f28/package/switchboard.md" >}}) | 0 | 61 | 0.0 | LANGUAGE <LL@li.org> | 
- | [switchboard-plug-a11y]({{< ref "/f28/package/switchboard-plug-a11y.md" >}}) | 0 | 182 | 0.0 | LANGUAGE <LL@li.org> | 
- | [switchboard-plug-about]({{< ref "/f28/package/switchboard-plug-about.md" >}}) | 0 | 117 | 0.0 | LANGUAGE <LL@li.org> | 
- | [switchboard-plug-applications]({{< ref "/f28/package/switchboard-plug-applications.md" >}}) | 0 | 86 | 0.0 | none | 
- | [switchboard-plug-bluetooth]({{< ref "/f28/package/switchboard-plug-bluetooth.md" >}}) | 0 | 74 | 0.0 | none | 
- | [switchboard-plug-display]({{< ref "/f28/package/switchboard-plug-display.md" >}}) | 0 | 126 | 0.0 | LANGUAGE <LL@li.org> | 
- | [switchboard-plug-keyboard]({{< ref "/f28/package/switchboard-plug-keyboard.md" >}}) | 0 | 404 | 0.0 | none | 
- | [switchboard-plug-mouse-touchpad]({{< ref "/f28/package/switchboard-plug-mouse-touchpad.md" >}}) | 0 | 150 | 0.0 | none | 
- | [switchboard-plug-networking]({{< ref "/f28/package/switchboard-plug-networking.md" >}}) | 0 | 444 | 0.0 |  | 
- | [switchboard-plug-notifications]({{< ref "/f28/package/switchboard-plug-notifications.md" >}}) | 0 | 139 | 0.0 | none | 
- | [switchboard-plug-pantheon-shell]({{< ref "/f28/package/switchboard-plug-pantheon-shell.md" >}}) | 0 | 153 | 0.0 |  | 
- | [switchboard-plug-printers]({{< ref "/f28/package/switchboard-plug-printers.md" >}}) | 0 | 336 | 0.0 | LANGUAGE <LL@li.org> | 
- | [switchboard-plug-sharing]({{< ref "/f28/package/switchboard-plug-sharing.md" >}}) | 0 | 130 | 0.0 | none | 
- | [switchboard-plug-sound]({{< ref "/f28/package/switchboard-plug-sound.md" >}}) | 0 | 131 | 0.0 |  | 
- | [system-config-users-docs]({{< ref "/f28/package/system-config-users-docs.md" >}}) | 0 | 1061 | 0.0 | LANGUAGE <LL@li.org> | 
- | [udisks2]({{< ref "/f28/package/udisks2.md" >}}) | 0 | 1929 | 0.0 |  | 
- | [vocal]({{< ref "/f28/package/vocal.md" >}}) | 0 | 377 | 0.0 | Assamese <as@li.org> | 
- | [wingpanel]({{< ref "/f28/package/wingpanel.md" >}}) | 0 | 6 | 0.0 | none | 
- | [wingpanel-applications-menu]({{< ref "/f28/package/wingpanel-applications-menu.md" >}}) | 0 | 225 | 0.0 |  | 
- | [wingpanel-indicator-bluetooth]({{< ref "/f28/package/wingpanel-indicator-bluetooth.md" >}}) | 0 | 15 | 0.0 | none | 
- | [wingpanel-indicator-keyboard]({{< ref "/f28/package/wingpanel-indicator-keyboard.md" >}}) | 0 | 10 | 0.0 |  | 
- | [wingpanel-indicator-network]({{< ref "/f28/package/wingpanel-indicator-network.md" >}}) | 0 | 76 | 0.0 | none | 
- | [wingpanel-indicator-nightlight]({{< ref "/f28/package/wingpanel-indicator-nightlight.md" >}}) | 0 | 16 | 0.0 |  | 
- | [wingpanel-indicator-notifications]({{< ref "/f28/package/wingpanel-indicator-notifications.md" >}}) | 0 | 16 | 0.0 | none | 
- | [wingpanel-indicator-power]({{< ref "/f28/package/wingpanel-indicator-power.md" >}}) | 0 | 93 | 0.0 | none | 
- | [wingpanel-indicator-session]({{< ref "/f28/package/wingpanel-indicator-session.md" >}}) | 0 | 57 | 0.0 | none | 
- | [wingpanel-indicator-sound]({{< ref "/f28/package/wingpanel-indicator-sound.md" >}}) | 0 | 14 | 0.0 | none | 
+ | [sound-juicer](/f28/package/sound-juicer) | 1022 | 1022 | 100.0 | Assamese <> | 
+ | [sushi](/f28/package/sushi) | 24 | 24 | 100.0 | as_IN <kde-i18n-doc@kde.org> | 
+ | [switchdesk](/f28/package/switchdesk) | 139 | 139 | 100.0 | Assamese <fedora-trans-as@redhat.com> | 
+ | [system-config-bind](/f28/package/system-config-bind) | 9419 | 9419 | 100.0 | Assamese <fedora-trans-as@redhat.com> | 
+ | [system-config-httpd](/f28/package/system-config-httpd) | 877 | 877 | 100.0 | Assamese <> | 
+ | [system-config-keyboard](/f28/package/system-config-keyboard) | 187 | 187 | 100.0 | Assamese | 
+ | [system-config-kickstart](/f28/package/system-config-kickstart) | 1128 | 1128 | 100.0 | Assamese (http://www.transifex.com/projects/p/system-config-kickstart/language/as/) | 
+ | [system-config-rootpassword](/f28/package/system-config-rootpassword) | 116 | 116 | 100.0 | Assamese | 
+ | [system-switch-java](/f28/package/system-switch-java) | 81 | 81 | 100.0 | Assamese | 
+ | [system-switch-mail](/f28/package/system-switch-mail) | 158 | 158 | 100.0 | Assamese <fedora-trans-as@redhat.com> | 
+ | [tali](/f28/package/tali) | 421 | 421 | 100.0 | Assamese <kde-i18n-doc@kde.org> | 
+ | [tomboy](/f28/package/tomboy) | 3278 | 3278 | 100.0 | as_IN <kde-i18n-doc@kde.org> | 
+ | [totem](/f28/package/totem) | 1446 | 1446 | 100.0 | Assamese <kde-i18n-doc@kde.org> | 
+ | [totem-pl-parser](/f28/package/totem-pl-parser) | 29 | 29 | 100.0 | Assamese <kde-i18n-doc@kde.org> | 
+ | [vinagre](/f28/package/vinagre) | 1507 | 1507 | 100.0 | American English <kde-i18n-doc@kde.org> | 
+ | [vino](/f28/package/vino) | 1228 | 1228 | 100.0 | Assamese <kde-i18n-doc@kde.org> | 
+ | [virt-top](/f28/package/virt-top) | 361 | 361 | 100.0 | Assamese <None> | 
+ | [vte](/f28/package/vte) | 84 | 84 | 100.0 | Assamese <kde-i18n-doc@kde.org> | 
+ | [vte291](/f28/package/vte291) | 83 | 83 | 100.0 | Assamese <kde-i18n-doc@kde.org> | 
+ | [vte3](/f28/package/vte3) | 80 | 80 | 100.0 | Assamese <kde-i18n-doc@kde.org> | 
+ | [webkit2gtk3](/f28/package/webkit2gtk3) | 1543 | 1543 | 100.0 | Assamese <kde-i18n-doc@kde.org> | 
+ | [xdg-user-dirs](/f28/package/xdg-user-dirs) | 28 | 28 | 100.0 | Assamese <fedora-trans-as@redhat.com> | 
+ | [xdg-user-dirs-gtk](/f28/package/xdg-user-dirs-gtk) | 81 | 81 | 100.0 | Assamese <> | 
+ | [xfce4-hardware-monitor-plugin](/f28/package/xfce4-hardware-monitor-plugin) | 356 | 356 | 100.0 | Assamese | 
+ | [xplayer-plparser](/f28/package/xplayer-plparser) | 28 | 28 | 100.0 | as_IN <kde-i18n-doc@kde.org> | 
+ | [xviewer-plugins](/f28/package/xviewer-plugins) | 77 | 77 | 100.0 | Assamese <fedora-trans-as@redhat.com> | 
+ | [yelp](/f28/package/yelp) | 452 | 452 | 100.0 | Assamese <kde-i18n-doc@kde.org> | 
+ | [yelp-xsl](/f28/package/yelp-xsl) | 81 | 81 | 100.0 | Assamese <kde-i18n-doc@kde.org> | 
+ | [zenity](/f28/package/zenity) | 841 | 841 | 100.0 | Assamese <kde-i18n-doc@kde.org> | 
+ | [hamster-time-tracker](/f28/package/hamster-time-tracker) | 696 | 697 | 99.9 | as_IN <kde-i18n-doc@kde.org> | 
+ | [usermode](/f28/package/usermode) | 570 | 573 | 99.5 | Assamese (http://www.transifex.com/projects/p/fedora/language/as/) | 
+ | [gnome-mahjongg](/f28/package/gnome-mahjongg) | 8435 | 8518 | 99.0 | Assamese <> | 
+ | [gnome-tetravex](/f28/package/gnome-tetravex) | 8435 | 8518 | 99.0 | Assamese <> | 
+ | [quadrapassel](/f28/package/quadrapassel) | 8435 | 8518 | 99.0 | Assamese <> | 
+ | [clutter](/f28/package/clutter) | 3022 | 3057 | 98.9 | American English <kde-i18n-doc@kde.org> | 
+ | [system-config-kdump](/f28/package/system-config-kdump) | 866 | 877 | 98.7 | Assamese (http://www.transifex.com/projects/p/fedora/language/as/) | 
+ | [gnome-control-center](/f28/package/gnome-control-center) | 6169 | 6259 | 98.6 | Assamese <> | 
+ | [xviewer](/f28/package/xviewer) | 1651 | 1677 | 98.4 | Assamese <kde-i18n-doc@kde.org> | 
+ | [libmateweather](/f28/package/libmateweather) | 5970 | 6085 | 98.1 | Assamese (https://www.transifex.com/mate/teams/13566/as/) | 
+ | [xplayer](/f28/package/xplayer) | 1912 | 1952 | 98.0 | Assamese <kde-i18n-doc@kde.org> | 
+ | [hitori](/f28/package/hitori) | 170 | 174 | 97.7 | Assamese <kde-i18n-doc@kde.org> | 
+ | [volume_key](/f28/package/volume_key) | 745 | 763 | 97.6 | Assamese (http://www.transifex.com/projects/p/fedora/language/as/) | 
+ | [seahorse-caja](/f28/package/seahorse-caja) | 411 | 421 | 97.6 | Assamese <kde-i18n-doc@kde.org> | 
+ | [seahorse-nautilus](/f28/package/seahorse-nautilus) | 411 | 421 | 97.6 | Assamese <kde-i18n-doc@kde.org> | 
+ | [nemo-extensions](/f28/package/nemo-extensions) | 247 | 254 | 97.2 | Assamese <as@li.org> | 
+ | [gtk2](/f28/package/gtk2) | 13281 | 13704 | 96.9 | American English <> | 
+ | [mingw-gtk2](/f28/package/mingw-gtk2) | 13281 | 13704 | 96.9 | American English <> | 
+ | [cracklib](/f28/package/cracklib) | 93 | 96 | 96.9 | Assamese <> | 
+ | [imsettings](/f28/package/imsettings) | 440 | 456 | 96.5 | as_IN <kde-i18n-doc@kde.org> | 
+ | [pam](/f28/package/pam) | 575 | 597 | 96.3 | Assamese (http://www.transifex.com/projects/p/fedora/language/as/) | 
+ | [im-chooser](/f28/package/im-chooser) | 229 | 239 | 95.8 | as_IN <kde-i18n-doc@kde.org> | 
+ | [iso-codes](/f28/package/iso-codes) | 1778 | 1861 | 95.5 | Assamese <fedora-trans-as@redhat.com> | 
+ | [system-config-firewall](/f28/package/system-config-firewall) | 2686 | 2814 | 95.5 | American English <fedora-trans-as@redhat.com> | 
+ | [gdm](/f28/package/gdm) | 619 | 650 | 95.2 | American English <kde-i18n-doc@kde.org> | 
+ | [authconfig](/f28/package/authconfig) | 879 | 929 | 94.6 | Assamese (http://www.transifex.com/projects/p/authconfig/language/as/) | 
+ | [system-config-users](/f28/package/system-config-users) | 1436 | 1521 | 94.4 | Assamese (http://www.transifex.com/projects/p/fedora/language/as/) | 
+ | [cinnamon-control-center](/f28/package/cinnamon-control-center) | 1223 | 1313 | 93.1 | Assamese <> | 
+ | [setroubleshoot](/f28/package/setroubleshoot) | 577 | 633 | 91.2 | Assamese (http://www.transifex.com/projects/p/fedora/language/as/) | 
+ | [passwd](/f28/package/passwd) | 306 | 336 | 91.1 | Assamese (http://www.transifex.com/projects/p/fedora/language/as/) | 
+ | [chkconfig](/f28/package/chkconfig) | 503 | 555 | 90.6 | Assamese (http://www.transifex.com/projects/p/fedora/language/as/) | 
+ | [pidgin](/f28/package/pidgin) | 14184 | 15756 | 90.0 | Assamese (http://www.transifex.com/pidgin/pidgin/language/as/) | 
+ | [pantheon-photos](/f28/package/pantheon-photos) | 3553 | 3977 | 89.3 | Assamese (http://www.transifex.com/projects/p/shotwell/language/as/) | 
+ | [system-config-printer](/f28/package/system-config-printer) | 3046 | 3450 | 88.3 | Assamese (http://www.transifex.com/projects/p/system-config-printer/language/as/) | 
+ | [mingw-gtksourceview3](/f28/package/mingw-gtksourceview3) | 1019 | 1156 | 88.1 | Assamese <kde-i18n-doc@kde.org> | 
+ | [gnome-documents](/f28/package/gnome-documents) | 1312 | 1510 | 86.9 | Assamese <kde-i18n-doc@kde.org> | 
+ | [mate-screensaver](/f28/package/mate-screensaver) | 852 | 983 | 86.7 | Assamese (https://www.transifex.com/mate/teams/13566/as/) | 
+ | [kf5-kjsembed](/f28/package/kf5-kjsembed) | 212 | 248 | 85.5 | Assamese <fedora-trans-as@redhat.com> | 
+ | [kf5-kcmutils](/f28/package/kf5-kcmutils) | 471 | 563 | 83.7 | Assamese <fedora-trans-as@redhat.com> | 
+ | [pavucontrol](/f28/package/pavucontrol) | 198 | 237 | 83.5 | Assamese <fedora-trans-as@redhat.com> | 
+ | [gnucash](/f28/package/gnucash) | 27795 | 34158 | 81.4 | NONE | 
+ | [python-blivet1](/f28/package/python-blivet1) | 573 | 707 | 81.0 | Assamese | 
+ | [kf5-kross](/f28/package/kf5-kross) | 80 | 100 | 80.0 | Assamese <fedora-trans-as@redhat.com> | 
+ | [initscripts](/f28/package/initscripts) | 777 | 974 | 79.8 | Assamese (http://www.transifex.com/projects/p/fedora/language/as/) | 
+ | [subscription-manager](/f28/package/subscription-manager) | 4517 | 5722 | 78.9 | Assamese | 
+ | [marco](/f28/package/marco) | 3223 | 4148 | 77.7 | Assamese (https://www.transifex.com/mate/teams/13566/as/) | 
+ | [virt-manager](/f28/package/virt-manager) | 6411 | 8344 | 76.8 | Assamese (http://www.transifex.com/projects/p/virt-manager/language/as/) | 
+ | [mate-backgrounds](/f28/package/mate-backgrounds) | 23 | 30 | 76.7 | Assamese (http://www.transifex.com/mate/MATE/language/as/) | 
+ | [policycoreutils](/f28/package/policycoreutils) | 5868 | 7678 | 76.4 | Assamese (http://www.transifex.com/projects/p/fedora/language/as/) | 
+ | [gedit-plugins](/f28/package/gedit-plugins) | 890 | 1205 | 73.9 | Assamese <> | 
+ | [gnome-abrt](/f28/package/gnome-abrt) | 291 | 397 | 73.3 | Assamese (http://www.transifex.com/projects/p/gnome-abrt/language/as/) | 
+ | [kf5-kinit](/f28/package/kf5-kinit) | 96 | 134 | 71.6 | Assamese <fedora-trans-as@redhat.com> | 
+ | [anaconda](/f28/package/anaconda) | 5298 | 7551 | 70.2 | Assamese (http://www.transifex.com/projects/p/anaconda/language/as/) | 
+ | [mlocate](/f28/package/mlocate) | 406 | 581 | 69.9 | Assamese (http://www.transifex.com/projects/p/fedora/language/as/) | 
+ | [caja](/f28/package/caja) | 6520 | 9356 | 69.7 | Assamese (https://www.transifex.com/mate/teams/13566/as/) | 
+ | [libuser](/f28/package/libuser) | 996 | 1437 | 69.3 | Assamese (http://www.transifex.com/projects/p/fedora/language/as/) | 
+ | [plasma-desktop](/f28/package/plasma-desktop) | 384 | 558 | 68.8 | Assamese <fedora-trans-as@redhat.com> | 
+ | [PackageKit](/f28/package/PackageKit) | 878 | 1278 | 68.7 | Assamese (http://www.transifex.com/freedesktop/packagekit/language/as/) | 
+ | [libreoffice](/f28/package/libreoffice) | 67075 | 98080 | 68.4 | LANGUAGE <LL@li.org> | 
+ | [python-blivet](/f28/package/python-blivet) | 355 | 522 | 68.0 | Assamese (http://www.transifex.com/projects/p/blivet/language/as/) | 
+ | [firewalld](/f28/package/firewalld) | 1496 | 2217 | 67.5 | Assamese (http://www.transifex.com/projects/p/firewalld/language/as/) | 
+ | [gtksourceview3](/f28/package/gtksourceview3) | 213 | 322 | 66.1 | Assamese <kde-i18n-doc@kde.org> | 
+ | [libmatekbd](/f28/package/libmatekbd) | 164 | 251 | 65.3 | Assamese (https://www.transifex.com/mate/teams/13566/as/) | 
+ | [kf5-ktextwidgets](/f28/package/kf5-ktextwidgets) | 298 | 462 | 64.5 | Assamese <fedora-trans-as@redhat.com> | 
+ | [gnome-robots](/f28/package/gnome-robots) | 384 | 597 | 64.3 | Assamese <> | 
+ | [inkscape](/f28/package/inkscape) | 24394 | 38214 | 63.8 | Hindi <Indlinux> | 
+ | [xed](/f28/package/xed) | 2919 | 4613 | 63.3 | Assamese (http://www.transifex.com/projects/p/MATE/language/as/) | 
+ | [abrt](/f28/package/abrt) | 2488 | 3969 | 62.7 | Assamese (http://www.transifex.com/projects/p/fedora-abrt/language/as/) | 
+ | [rhn-client-tools](/f28/package/rhn-client-tools) | 2540 | 4057 | 62.6 | Assamese (http://www.transifex.com/projects/p/spacewalk/language/as/) | 
+ | [mate-session-manager](/f28/package/mate-session-manager) | 420 | 681 | 61.7 | Assamese (https://www.transifex.com/mate/teams/13566/as/) | 
+ | [pulseaudio](/f28/package/pulseaudio) | 2010 | 3304 | 60.8 | Assamese <> | 
+ | [rhnsd](/f28/package/rhnsd) | 20 | 33 | 60.6 | Assamese (http://www.transifex.com/projects/p/fedora/language/as/) | 
+ | [libvirt](/f28/package/libvirt) | 38039 | 63891 | 59.5 | Assamese (http://www.transifex.com/projects/p/libvirt/language/as/) | 
+ | [mingw-libvirt](/f28/package/mingw-libvirt) | 38039 | 63891 | 59.5 | Assamese (http://www.transifex.com/projects/p/libvirt/language/as/) | 
+ | [mate-panel](/f28/package/mate-panel) | 3857 | 6532 | 59.0 | Assamese (https://www.transifex.com/mate/teams/13566/as/) | 
+ | [gnome-chess](/f28/package/gnome-chess) | 809 | 1390 | 58.2 | Assamese <> | 
+ | [kf5-kparts](/f28/package/kf5-kparts) | 60 | 104 | 57.7 | Assamese <fedora-trans-as@redhat.com> | 
+ | [virt-viewer](/f28/package/virt-viewer) | 452 | 784 | 57.7 | Assamese (http://www.transifex.com/projects/p/virt-viewer/language/as/) | 
+ | [mate-media](/f28/package/mate-media) | 125 | 226 | 55.3 | Assamese (https://www.transifex.com/mate/teams/13566/as/) | 
+ | [mate-desktop](/f28/package/mate-desktop) | 1261 | 2305 | 54.7 | Assamese (https://www.transifex.com/mate/teams/13566/as/) | 
+ | [mate-settings-daemon](/f28/package/mate-settings-daemon) | 953 | 1764 | 54.0 | Assamese (https://www.transifex.com/mate/teams/13566/as/) | 
+ | [gnome-user-docs](/f28/package/gnome-user-docs) | 30614 | 58586 | 52.3 | Assamese <kde-i18n-doc@kde.org> | 
+ | [xreader](/f28/package/xreader) | 851 | 1641 | 51.9 | Assamese (http://www.transifex.com/mate/MATE/language/as/) | 
+ | [libreport](/f28/package/libreport) | 2507 | 4987 | 50.3 | Assamese (http://www.transifex.com/projects/p/libreport/language/as/) | 
+ | [ibus](/f28/package/ibus) | 996 | 1983 | 50.2 | Assamese <fedora-trans-as@redhat.com> | 
+ | [network-manager-applet](/f28/package/network-manager-applet) | 1975 | 4403 | 44.9 | Assamese <kde-i18n-doc@kde.org> | 
+ | [sos](/f28/package/sos) | 54 | 122 | 44.3 | Assamese | 
+ | [mate-terminal](/f28/package/mate-terminal) | 3616 | 8453 | 42.8 | Assamese (https://www.transifex.com/mate/teams/13566/as/) | 
+ | [four-in-a-row](/f28/package/four-in-a-row) | 109 | 256 | 42.6 | Assamese <> | 
+ | [setroubleshoot-plugins](/f28/package/setroubleshoot-plugins) | 2622 | 6224 | 42.1 | Assamese (http://www.transifex.com/projects/p/fedora/language/as/) | 
+ | [mate-calc](/f28/package/mate-calc) | 1199 | 2995 | 40.0 | Assamese (https://www.transifex.com/mate/teams/13566/as/) | 
+ | [paprefs](/f28/package/paprefs) | 51 | 131 | 38.9 | Assamese <fedora-trans-as@redhat.com> | 
+ | [kf5-khtml](/f28/package/kf5-khtml) | 657 | 1721 | 38.2 | Assamese <fedora-trans-as@redhat.com> | 
+ | [kf5-kconfigwidgets](/f28/package/kf5-kconfigwidgets) | 117 | 321 | 36.4 | Assamese <fedora-trans-as@redhat.com> | 
+ | [kf5-ki18n](/f28/package/kf5-ki18n) | 42 | 124 | 33.9 | Assamese <fedora-trans-as@redhat.com> | 
+ | [mate-utils](/f28/package/mate-utils) | 3280 | 10102 | 32.5 | Assamese (https://www.transifex.com/mate/teams/13566/as/) | 
+ | [publican](/f28/package/publican) | 1735 | 5443 | 31.9 | Assamese <> | 
+ | [system-config-language](/f28/package/system-config-language) | 61 | 197 | 31.0 | Assamese <> | 
+ | [pluma](/f28/package/pluma) | 3837 | 12740 | 30.1 | Assamese (https://www.transifex.com/mate/teams/13566/as/) | 
+ | [mate-power-manager](/f28/package/mate-power-manager) | 1550 | 5246 | 29.5 | Assamese (https://www.transifex.com/mate/teams/13566/as/) | 
+ | [kf5-kxmlgui](/f28/package/kf5-kxmlgui) | 458 | 1602 | 28.6 | Assamese <fedora-trans-as@redhat.com> | 
+ | [gnome-mines](/f28/package/gnome-mines) | 94 | 344 | 27.3 | Assamese <> | 
+ | [kf5-knotifyconfig](/f28/package/kf5-knotifyconfig) | 34 | 129 | 26.4 | Assamese <fedora-trans-as@redhat.com> | 
+ | [atril](/f28/package/atril) | 1008 | 3831 | 26.3 | Assamese (https://www.transifex.com/mate/teams/13566/as/) | 
+ | [mate-control-center](/f28/package/mate-control-center) | 2080 | 7915 | 26.3 | Assamese (https://www.transifex.com/mate/teams/13566/as/) | 
+ | [kf5-kservice](/f28/package/kf5-kservice) | 44 | 170 | 25.9 | Assamese <fedora-trans-as@redhat.com> | 
+ | [NetworkManager](/f28/package/NetworkManager) | 5153 | 21397 | 24.1 | Assamese <kde-i18n-doc@kde.org> | 
+ | [swell-foop](/f28/package/swell-foop) | 64 | 266 | 24.1 | Assamese <> | 
+ | [yum-rhn-plugin](/f28/package/yum-rhn-plugin) | 35 | 147 | 23.8 | Assamese (http://www.transifex.com/projects/p/fedora/language/as/) | 
+ | [cinnamon-translations](/f28/package/cinnamon-translations) | 2389 | 10053 | 23.8 | Assamese <as@li.org> | 
+ | [kwin](/f28/package/kwin) | 285 | 1383 | 20.6 | Assamese <fedora-trans-as@redhat.com> | 
+ | [pykickstart](/f28/package/pykickstart) | 308 | 1521 | 20.2 | Assamese (http://www.transifex.com/projects/p/pykickstart/language/as/) | 
+ | [eom](/f28/package/eom) | 1028 | 5121 | 20.1 | Assamese (https://www.transifex.com/mate/teams/13566/as/) | 
+ | [kf5-knewstuff](/f28/package/kf5-knewstuff) | 138 | 690 | 20.0 | Assamese <fedora-trans-as@redhat.com> | 
+ | [mate-menu](/f28/package/mate-menu) | 62 | 316 | 19.6 | Assamese (http://www.transifex.com/mate/MATE/language/as/) | 
+ | [ccsm](/f28/package/ccsm) | 103 | 579 | 17.8 | Assamese <as@li.org> | 
+ | [caja-extensions](/f28/package/caja-extensions) | 98 | 570 | 17.2 | Assamese (https://www.transifex.com/mate/teams/13566/as/) | 
+ | [compat-tracker1](/f28/package/compat-tracker1) | 561 | 3613 | 15.5 | Assamese <kde-i18n-doc@kde.org> | 
+ | [tracker](/f28/package/tracker) | 561 | 3613 | 15.5 | Assamese <kde-i18n-doc@kde.org> | 
+ | [tracker-miners](/f28/package/tracker-miners) | 561 | 3613 | 15.5 | Assamese <kde-i18n-doc@kde.org> | 
+ | [gsettings-desktop-schemas](/f28/package/gsettings-desktop-schemas) | 678 | 4585 | 14.8 | as_IN <kde-i18n-doc@kde.org> | 
+ | [engrampa](/f28/package/engrampa) | 1133 | 7819 | 14.5 | Assamese (https://www.transifex.com/mate/teams/13566/as/) | 
+ | [blueberry](/f28/package/blueberry) | 19 | 141 | 13.5 | Assamese <as@li.org> | 
+ | [NetworkManager-ssh](/f28/package/NetworkManager-ssh) | 37 | 286 | 12.9 | Assamese <fedora-trans-as@redhat.com> | 
+ | [kf5-kdeclarative](/f28/package/kf5-kdeclarative) | 14 | 109 | 12.8 | Assamese <fedora-trans-as@redhat.com> | 
+ | [mate-system-monitor](/f28/package/mate-system-monitor) | 556 | 4330 | 12.8 | Assamese (https://www.transifex.com/mate/teams/13566/as/) | 
+ | [NetworkManager-fortisslvpn](/f28/package/NetworkManager-fortisslvpn) | 22 | 174 | 12.6 | Assamese <> | 
+ | [kf5-kdelibs4support](/f28/package/kf5-kdelibs4support) | 575 | 4813 | 11.9 | Assamese <fedora-trans-as@redhat.com> | 
+ | [mate-themes](/f28/package/mate-themes) | 7 | 60 | 11.7 | Assamese (http://www.transifex.com/mate/MATE/language/as/) | 
+ | [NetworkManager-openvpn](/f28/package/NetworkManager-openvpn) | 121 | 1049 | 11.5 | Assamese <fedora-trans-as@redhat.com> | 
+ | [mate-applets](/f28/package/mate-applets) | 1883 | 16336 | 11.5 | Assamese (https://www.transifex.com/mate/teams/13566/as/) | 
+ | [iagno](/f28/package/iagno) | 34 | 322 | 10.6 | Assamese <> | 
+ | [dconf-editor](/f28/package/dconf-editor) | 131 | 1464 | 8.9 | Assamese <kde-i18n-doc@kde.org> | 
+ | [NetworkManager-l2tp](/f28/package/NetworkManager-l2tp) | 79 | 906 | 8.7 | Assamese <> | 
+ | [mate-notification-daemon](/f28/package/mate-notification-daemon) | 11 | 139 | 7.9 | Assamese (https://www.transifex.com/mate/teams/13566/as/) | 
+ | [colord](/f28/package/colord) | 25 | 388 | 6.4 | LANGUAGE <LL@li.org> | 
+ | [mingw-colord](/f28/package/mingw-colord) | 25 | 388 | 6.4 | LANGUAGE <LL@li.org> | 
+ | [kate](/f28/package/kate) | 4 | 63 | 6.3 | Asturian <alministradores@softastur.org> | 
+ | [gnome-sudoku](/f28/package/gnome-sudoku) | 23 | 399 | 5.8 | Assamese <> | 
+ | [publican-fedora](/f28/package/publican-fedora) | 6 | 107 | 5.6 | Assamese | 
+ | [libmatemixer](/f28/package/libmatemixer) | 12 | 242 | 5.0 | Assamese (https://www.transifex.com/mate/teams/13566/as/) | 
+ | [publican-jboss](/f28/package/publican-jboss) | 9 | 232 | 3.9 | Assamese <> | 
+ | [isomaster](/f28/package/isomaster) | 24 | 674 | 3.6 | http://littlesvr.ca/ostd/ | 
+ | [mate-polkit](/f28/package/mate-polkit) | 4 | 122 | 3.3 | Assamese (https://www.transifex.com/mate/teams/13566/as/) | 
+ | [asunder](/f28/package/asunder) | 16 | 495 | 3.2 | http://littlesvr.ca/ostd/ | 
+ | [light-locker](/f28/package/light-locker) | 7 | 260 | 2.7 | Assamese (http://www.transifex.com/the_cavalry/light-locker/language/as/) | 
+ | [libksysguard](/f28/package/libksysguard) | 73 | 2743 | 2.7 | Assamese <fedora-trans-as@redhat.com> | 
+ | [NetworkManager-openconnect](/f28/package/NetworkManager-openconnect) | 54 | 3241 | 1.7 | Assamese <kde-i18n-doc@kde.org> | 
+ | [powerdevil](/f28/package/powerdevil) | 6 | 399 | 1.5 | Assamese <fedora-trans-as@redhat.com> | 
+ | [libgsf](/f28/package/libgsf) | 9 | 696 | 1.3 | Assamese <kde-i18n-doc@kde.org> | 
+ | [mingw-libgsf](/f28/package/mingw-libgsf) | 9 | 696 | 1.3 | Assamese <kde-i18n-doc@kde.org> | 
+ | [mate-sensors-applet](/f28/package/mate-sensors-applet) | 21 | 2215 | 0.9 | Assamese (https://www.transifex.com/mate/teams/13566/as/) | 
+ | [python-meh](/f28/package/python-meh) | 1 | 109 | 0.9 | Assamese (http://www.transifex.com/projects/p/python-meh/language/as/) | 
+ | [mate-user-guide](/f28/package/mate-user-guide) | 146 | 44681 | 0.3 | Assamese (https://www.transifex.com/mate/teams/13566/as/) | 
+ | [shutter](/f28/package/shutter) | 1 | 2448 | 0.0 | Assamese <as@li.org> | 
+ | [stellarium](/f28/package/stellarium) | 3 | 68196 | 0.0 | Assamese (https://www.transifex.com/stellarium/teams/80998/as/) | 
+ | [appcenter](/f28/package/appcenter) | 0 | 765 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [audience](/f28/package/audience) | 0 | 106 | 0.0 |  | 
+ | [blivet-gui](/f28/package/blivet-gui) | 0 | 815 | 0.0 | Assamese | 
+ | [certmonger](/f28/package/certmonger) | 0 | 2831 | 0.0 | Assamese (http://www.transifex.com/projects/p/certmonger/language/as/) | 
+ | [deepin-metacity](/f28/package/deepin-metacity) | 0 | 0 | 0.0 |  | 
+ | [dippi](/f28/package/dippi) | 0 | 397 | 0.0 | none | 
+ | [dnf-plugins-extras](/f28/package/dnf-plugins-extras) | 0 | 375 | 0.0 | Assamese | 
+ | [docker-anaconda-addon](/f28/package/docker-anaconda-addon) | 0 | 27 | 0.0 | Assamese | 
+ | [elementary-calculator](/f28/package/elementary-calculator) | 0 | 80 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [elementary-calendar](/f28/package/elementary-calendar) | 0 | 449 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [elementary-camera](/f28/package/elementary-camera) | 0 | 62 | 0.0 |  | 
+ | [elementary-capnet-assist](/f28/package/elementary-capnet-assist) | 0 | 81 | 0.0 | none | 
+ | [elementary-screenshot-tool](/f28/package/elementary-screenshot-tool) | 0 | 132 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [elementary-shortcut-overlay](/f28/package/elementary-shortcut-overlay) | 0 | 82 | 0.0 | none | 
+ | [entangle](/f28/package/entangle) | 0 | 953 | 0.0 | Assamese | 
+ | [fonts-tweak-tool](/f28/package/fonts-tweak-tool) | 0 | 195 | 0.0 | Assamese | 
+ | [fprintd](/f28/package/fprintd) | 0 | 419 | 0.0 | Assamese (http://www.transifex.com/freedesktop/fprintd/language/as/) | 
+ | [harvey](/f28/package/harvey) | 0 | 57 | 0.0 | none | 
+ | [kf5-kauth](/f28/package/kf5-kauth) | 0 | 73 | 0.0 | Assamese <fedora-trans-as@redhat.com> | 
+ | [kf5-kcodecs](/f28/package/kf5-kcodecs) | 0 | 348 | 0.0 | Assamese <fedora-trans-as@redhat.com> | 
+ | [kf5-kcompletion](/f28/package/kf5-kcompletion) | 0 | 18 | 0.0 | Assamese <fedora-trans-as@redhat.com> | 
+ | [kf5-kcoreaddons](/f28/package/kf5-kcoreaddons) | 0 | 333 | 0.0 | Assamese <fedora-trans-as@redhat.com> | 
+ | [kf5-kdesignerplugin](/f28/package/kf5-kdesignerplugin) | 0 | 54 | 0.0 | Assamese <fedora-trans-as@redhat.com> | 
+ | [kf5-kdnssd](/f28/package/kf5-kdnssd) | 0 | 3 | 0.0 | Assamese <fedora-trans-as@redhat.com> | 
+ | [kf5-kglobalaccel](/f28/package/kf5-kglobalaccel) | 0 | 71 | 0.0 | Assamese <fedora-trans-as@redhat.com> | 
+ | [kf5-kitemviews](/f28/package/kf5-kitemviews) | 0 | 7 | 0.0 | Assamese <fedora-trans-as@redhat.com> | 
+ | [kf5-kjobwidgets](/f28/package/kf5-kjobwidgets) | 0 | 123 | 0.0 | Assamese <fedora-trans-as@redhat.com> | 
+ | [kf5-knotifications](/f28/package/kf5-knotifications) | 0 | 18 | 0.0 | Assamese <fedora-trans-as@redhat.com> | 
+ | [kf5-kwidgetsaddons](/f28/package/kf5-kwidgetsaddons) | 0 | 1319 | 0.0 | Assamese <fedora-trans-as@redhat.com> | 
+ | [kf5-kwindowsystem](/f28/package/kf5-kwindowsystem) | 0 | 2 | 0.0 | Assamese <fedora-trans-as@redhat.com> | 
+ | [kf5-sonnet](/f28/package/kf5-sonnet) | 0 | 667 | 0.0 | Assamese <fedora-trans-as@redhat.com> | 
+ | [libbytesize](/f28/package/libbytesize) | 0 | 17 | 0.0 | Assamese | 
+ | [libgxim](/f28/package/libgxim) | 0 | 124 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [libosinfo](/f28/package/libosinfo) | 0 | 662 | 0.0 | Assamese | 
+ | [libvirt-glib](/f28/package/libvirt-glib) | 0 | 145 | 0.0 | Assamese (http://www.transifex.com/projects/p/libvirt-glib/language/as/) | 
+ | [libvirt-sandbox](/f28/package/libvirt-sandbox) | 0 | 617 | 0.0 | Assamese (http://www.transifex.com/projects/p/fedora/language/as/) | 
+ | [maya-calendar](/f28/package/maya-calendar) | 0 | 394 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [metacity](/f28/package/metacity) | 0 | 0 | 0.0 |  | 
+ | [mingw-libosinfo](/f28/package/mingw-libosinfo) | 0 | 2049 | 0.0 | Assamese | 
+ | [mingw-libvirt-glib](/f28/package/mingw-libvirt-glib) | 0 | 145 | 0.0 | Assamese (http://www.transifex.com/projects/p/libvirt-glib/language/as/) | 
+ | [mingw-p11-kit](/f28/package/mingw-p11-kit) | 0 | 476 | 0.0 | Assamese (http://www.transifex.com/freedesktop/p11-kit/language/as/) | 
+ | [noise](/f28/package/noise) | 0 | 1322 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [optimizer](/f28/package/optimizer) | 0 | 111 | 0.0 | none | 
+ | [osinfo-db-tools](/f28/package/osinfo-db-tools) | 0 | 56 | 0.0 | Assamese | 
+ | [p11-kit](/f28/package/p11-kit) | 0 | 476 | 0.0 | Assamese (http://www.transifex.com/freedesktop/p11-kit/language/as/) | 
+ | [pantheon-agent-geoclue2](/f28/package/pantheon-agent-geoclue2) | 0 | 46 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [pantheon-agent-polkit](/f28/package/pantheon-agent-polkit) | 0 | 14 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [pantheon-calculator](/f28/package/pantheon-calculator) | 0 | 52 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [pantheon-files](/f28/package/pantheon-files) | 0 | 2487 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [python-fedora](/f28/package/python-fedora) | 0 | 214 | 0.0 | Assamese | 
+ | [python-simpleline](/f28/package/python-simpleline) | 0 | 42 | 0.0 | Assamese | 
+ | [realmd](/f28/package/realmd) | 0 | 789 | 0.0 | Assamese (http://www.transifex.com/freedesktop/realmd/language/as/) | 
+ | [retrace-server](/f28/package/retrace-server) | 0 | 381 | 0.0 | Assamese | 
+ | [scratch-text-editor](/f28/package/scratch-text-editor) | 0 | 681 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [screenshot-tool](/f28/package/screenshot-tool) | 0 | 146 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sequeler](/f28/package/sequeler) | 0 | 252 | 0.0 |  | 
+ | [shared-mime-info](/f28/package/shared-mime-info) | 0 | 1959 | 0.0 | Assamese (http://www.transifex.com/freedesktop/shared-mime-info/language/as/) | 
+ | [switchboard](/f28/package/switchboard) | 0 | 61 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [switchboard-plug-a11y](/f28/package/switchboard-plug-a11y) | 0 | 182 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [switchboard-plug-about](/f28/package/switchboard-plug-about) | 0 | 117 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [switchboard-plug-applications](/f28/package/switchboard-plug-applications) | 0 | 86 | 0.0 | none | 
+ | [switchboard-plug-bluetooth](/f28/package/switchboard-plug-bluetooth) | 0 | 74 | 0.0 | none | 
+ | [switchboard-plug-display](/f28/package/switchboard-plug-display) | 0 | 126 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [switchboard-plug-keyboard](/f28/package/switchboard-plug-keyboard) | 0 | 404 | 0.0 | none | 
+ | [switchboard-plug-mouse-touchpad](/f28/package/switchboard-plug-mouse-touchpad) | 0 | 150 | 0.0 | none | 
+ | [switchboard-plug-networking](/f28/package/switchboard-plug-networking) | 0 | 444 | 0.0 |  | 
+ | [switchboard-plug-notifications](/f28/package/switchboard-plug-notifications) | 0 | 139 | 0.0 | none | 
+ | [switchboard-plug-pantheon-shell](/f28/package/switchboard-plug-pantheon-shell) | 0 | 153 | 0.0 |  | 
+ | [switchboard-plug-printers](/f28/package/switchboard-plug-printers) | 0 | 336 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [switchboard-plug-sharing](/f28/package/switchboard-plug-sharing) | 0 | 130 | 0.0 | none | 
+ | [switchboard-plug-sound](/f28/package/switchboard-plug-sound) | 0 | 131 | 0.0 |  | 
+ | [system-config-users-docs](/f28/package/system-config-users-docs) | 0 | 1061 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [udisks2](/f28/package/udisks2) | 0 | 1929 | 0.0 |  | 
+ | [vocal](/f28/package/vocal) | 0 | 377 | 0.0 | Assamese <as@li.org> | 
+ | [wingpanel](/f28/package/wingpanel) | 0 | 6 | 0.0 | none | 
+ | [wingpanel-applications-menu](/f28/package/wingpanel-applications-menu) | 0 | 225 | 0.0 |  | 
+ | [wingpanel-indicator-bluetooth](/f28/package/wingpanel-indicator-bluetooth) | 0 | 15 | 0.0 | none | 
+ | [wingpanel-indicator-keyboard](/f28/package/wingpanel-indicator-keyboard) | 0 | 10 | 0.0 |  | 
+ | [wingpanel-indicator-network](/f28/package/wingpanel-indicator-network) | 0 | 76 | 0.0 | none | 
+ | [wingpanel-indicator-nightlight](/f28/package/wingpanel-indicator-nightlight) | 0 | 16 | 0.0 |  | 
+ | [wingpanel-indicator-notifications](/f28/package/wingpanel-indicator-notifications) | 0 | 16 | 0.0 | none | 
+ | [wingpanel-indicator-power](/f28/package/wingpanel-indicator-power) | 0 | 93 | 0.0 | none | 
+ | [wingpanel-indicator-session](/f28/package/wingpanel-indicator-session) | 0 | 57 | 0.0 | none | 
+ | [wingpanel-indicator-sound](/f28/package/wingpanel-indicator-sound) | 0 | 14 | 0.0 | none | 
 {.sortable}
 
 
@@ -476,8 +476,8 @@ We use the po metadata to get the language code and the team, but sometimes it f
 
 | Package | Lang from file path/name | polib error | Team |
 |---------|--------------------------|-------------|------|
- | [deepin-metacity]({{< ref "/f28/package/deepin-metacity.md" >}}) | /mnt/stockage/packages/f28/deepin-metacity/po/as.po | error-os |  | 
- | [metacity]({{< ref "/f28/package/metacity.md" >}}) | /mnt/stockage/packages/f28/metacity/po/as.po | error-os |  | 
+ | [deepin-metacity](/f28/package/deepin-metacity) | /mnt/stockage/packages/f28/deepin-metacity/po/as.po | error-os |  | 
+ | [metacity](/f28/package/metacity) | /mnt/stockage/packages/f28/metacity/po/as.po | error-os |  | 
 {.sortable}
 
 
@@ -488,8 +488,8 @@ We use the calcstats from translate toolkit to get the translation progress, but
 
 | Package | Lang from file path/name | Team |
 |---------|--------------------------|------|
- | [deepin-metacity]({{< ref "/f28/package/deepin-metacity.md" >}}) | /mnt/stockage/packages/f28/deepin-metacity/po/as.po |  | 
- | [metacity]({{< ref "/f28/package/metacity.md" >}}) | /mnt/stockage/packages/f28/metacity/po/as.po |  | 
+ | [deepin-metacity](/f28/package/deepin-metacity) | /mnt/stockage/packages/f28/deepin-metacity/po/as.po |  | 
+ | [metacity](/f28/package/metacity) | /mnt/stockage/packages/f28/metacity/po/as.po |  | 
 {.sortable}
 
 

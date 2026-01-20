@@ -18,38 +18,38 @@ The package kio-admin (version 23.08.5):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f38/language/ar.md" >}}) | 3 | 3 | 100.0 | /mnt/stockage/packages/f38/kio-admin/po/ar/kio5_admin.po | 
- | [be]({{< ref "/f38/language/be.md" >}}) | 3 | 3 | 100.0 | /mnt/stockage/packages/f38/kio-admin/po/be/kio5_admin.po | 
- | [ca]({{< ref "/f38/language/ca.md" >}}) | 3 | 3 | 100.0 | /mnt/stockage/packages/f38/kio-admin/po/ca/kio5_admin.po | 
- | [ca@valencia]({{< ref "/f38/language/ca@valencia.md" >}}) | 3 | 3 | 100.0 | /mnt/stockage/packages/f38/kio-admin/po/ca@valencia/kio5_admin.po | 
- | [cs]({{< ref "/f38/language/cs.md" >}}) | 3 | 3 | 100.0 | /mnt/stockage/packages/f38/kio-admin/po/cs/kio5_admin.po | 
- | [de]({{< ref "/f38/language/de.md" >}}) | 3 | 3 | 100.0 | /mnt/stockage/packages/f38/kio-admin/po/de/kio5_admin.po | 
- | [en_GB]({{< ref "/f38/language/en_GB.md" >}}) | 3 | 3 | 100.0 | /mnt/stockage/packages/f38/kio-admin/po/en_GB/kio5_admin.po | 
- | [eo]({{< ref "/f38/language/eo.md" >}}) | 3 | 3 | 100.0 | /mnt/stockage/packages/f38/kio-admin/po/eo/kio5_admin.po | 
- | [es]({{< ref "/f38/language/es.md" >}}) | 3 | 3 | 100.0 | /mnt/stockage/packages/f38/kio-admin/po/es/kio5_admin.po | 
- | [eu]({{< ref "/f38/language/eu.md" >}}) | 3 | 3 | 100.0 | /mnt/stockage/packages/f38/kio-admin/po/eu/kio5_admin.po | 
- | [fi]({{< ref "/f38/language/fi.md" >}}) | 3 | 3 | 100.0 | /mnt/stockage/packages/f38/kio-admin/po/fi/kio5_admin.po | 
- | [fr]({{< ref "/f38/language/fr.md" >}}) | 3 | 3 | 100.0 | /mnt/stockage/packages/f38/kio-admin/po/fr/kio5_admin.po | 
- | [gl]({{< ref "/f38/language/gl.md" >}}) | 3 | 3 | 100.0 | /mnt/stockage/packages/f38/kio-admin/po/gl/kio5_admin.po | 
- | [ie]({{< ref "/f38/language/ie.md" >}}) | 3 | 3 | 100.0 | /mnt/stockage/packages/f38/kio-admin/po/ie/kio5_admin.po | 
- | [it]({{< ref "/f38/language/it.md" >}}) | 3 | 3 | 100.0 | /mnt/stockage/packages/f38/kio-admin/po/it/kio5_admin.po | 
- | [ka]({{< ref "/f38/language/ka.md" >}}) | 3 | 3 | 100.0 | /mnt/stockage/packages/f38/kio-admin/po/ka/kio5_admin.po | 
- | [ko]({{< ref "/f38/language/ko.md" >}}) | 3 | 3 | 100.0 | /mnt/stockage/packages/f38/kio-admin/po/ko/kio5_admin.po | 
- | [nl]({{< ref "/f38/language/nl.md" >}}) | 3 | 3 | 100.0 | /mnt/stockage/packages/f38/kio-admin/po/nl/kio5_admin.po | 
- | [nn]({{< ref "/f38/language/nn.md" >}}) | 3 | 3 | 100.0 | /mnt/stockage/packages/f38/kio-admin/po/nn/kio5_admin.po | 
- | [pl]({{< ref "/f38/language/pl.md" >}}) | 3 | 3 | 100.0 | /mnt/stockage/packages/f38/kio-admin/po/pl/kio5_admin.po | 
- | [pt]({{< ref "/f38/language/pt.md" >}}) | 3 | 3 | 100.0 | /mnt/stockage/packages/f38/kio-admin/po/pt/kio5_admin.po | 
- | [pt_BR]({{< ref "/f38/language/pt_BR.md" >}}) | 3 | 3 | 100.0 | /mnt/stockage/packages/f38/kio-admin/po/pt_BR/kio5_admin.po | 
- | [ru]({{< ref "/f38/language/ru.md" >}}) | 3 | 3 | 100.0 | /mnt/stockage/packages/f38/kio-admin/po/ru/kio5_admin.po | 
- | [sk]({{< ref "/f38/language/sk.md" >}}) | 3 | 3 | 100.0 | /mnt/stockage/packages/f38/kio-admin/po/sk/kio5_admin.po | 
- | [sl]({{< ref "/f38/language/sl.md" >}}) | 3 | 3 | 100.0 | /mnt/stockage/packages/f38/kio-admin/po/sl/kio5_admin.po | 
- | [sv]({{< ref "/f38/language/sv.md" >}}) | 3 | 3 | 100.0 | /mnt/stockage/packages/f38/kio-admin/po/sv/kio5_admin.po | 
- | [tr]({{< ref "/f38/language/tr.md" >}}) | 3 | 3 | 100.0 | /mnt/stockage/packages/f38/kio-admin/po/tr/kio5_admin.po | 
- | [uk]({{< ref "/f38/language/uk.md" >}}) | 3 | 3 | 100.0 | /mnt/stockage/packages/f38/kio-admin/po/uk/kio5_admin.po | 
- | [zh_Hans]({{< ref "/f38/language/zh_Hans.md" >}}) | 3 | 3 | 100.0 | /mnt/stockage/packages/f38/kio-admin/po/zh_CN/kio5_admin.po | 
- | [zh_Hant]({{< ref "/f38/language/zh_Hant.md" >}}) | 3 | 3 | 100.0 | /mnt/stockage/packages/f38/kio-admin/po/zh_TW/kio5_admin.po | 
- | [ja]({{< ref "/f38/language/ja.md" >}}) | 0 | 3 | 0.0 | /mnt/stockage/packages/f38/kio-admin/po/ja/kio5_admin.po | 
- | [lt]({{< ref "/f38/language/lt.md" >}}) | 0 | 3 | 0.0 | /mnt/stockage/packages/f38/kio-admin/po/lt/kio5_admin.po | 
+ | [ar](/f38/language/ar) | 3 | 3 | 100.0 | /mnt/stockage/packages/f38/kio-admin/po/ar/kio5_admin.po | 
+ | [be](/f38/language/be) | 3 | 3 | 100.0 | /mnt/stockage/packages/f38/kio-admin/po/be/kio5_admin.po | 
+ | [ca](/f38/language/ca) | 3 | 3 | 100.0 | /mnt/stockage/packages/f38/kio-admin/po/ca/kio5_admin.po | 
+ | [ca@valencia](/f38/language/ca@valencia) | 3 | 3 | 100.0 | /mnt/stockage/packages/f38/kio-admin/po/ca@valencia/kio5_admin.po | 
+ | [cs](/f38/language/cs) | 3 | 3 | 100.0 | /mnt/stockage/packages/f38/kio-admin/po/cs/kio5_admin.po | 
+ | [de](/f38/language/de) | 3 | 3 | 100.0 | /mnt/stockage/packages/f38/kio-admin/po/de/kio5_admin.po | 
+ | [en_GB](/f38/language/en_GB) | 3 | 3 | 100.0 | /mnt/stockage/packages/f38/kio-admin/po/en_GB/kio5_admin.po | 
+ | [eo](/f38/language/eo) | 3 | 3 | 100.0 | /mnt/stockage/packages/f38/kio-admin/po/eo/kio5_admin.po | 
+ | [es](/f38/language/es) | 3 | 3 | 100.0 | /mnt/stockage/packages/f38/kio-admin/po/es/kio5_admin.po | 
+ | [eu](/f38/language/eu) | 3 | 3 | 100.0 | /mnt/stockage/packages/f38/kio-admin/po/eu/kio5_admin.po | 
+ | [fi](/f38/language/fi) | 3 | 3 | 100.0 | /mnt/stockage/packages/f38/kio-admin/po/fi/kio5_admin.po | 
+ | [fr](/f38/language/fr) | 3 | 3 | 100.0 | /mnt/stockage/packages/f38/kio-admin/po/fr/kio5_admin.po | 
+ | [gl](/f38/language/gl) | 3 | 3 | 100.0 | /mnt/stockage/packages/f38/kio-admin/po/gl/kio5_admin.po | 
+ | [ie](/f38/language/ie) | 3 | 3 | 100.0 | /mnt/stockage/packages/f38/kio-admin/po/ie/kio5_admin.po | 
+ | [it](/f38/language/it) | 3 | 3 | 100.0 | /mnt/stockage/packages/f38/kio-admin/po/it/kio5_admin.po | 
+ | [ka](/f38/language/ka) | 3 | 3 | 100.0 | /mnt/stockage/packages/f38/kio-admin/po/ka/kio5_admin.po | 
+ | [ko](/f38/language/ko) | 3 | 3 | 100.0 | /mnt/stockage/packages/f38/kio-admin/po/ko/kio5_admin.po | 
+ | [nl](/f38/language/nl) | 3 | 3 | 100.0 | /mnt/stockage/packages/f38/kio-admin/po/nl/kio5_admin.po | 
+ | [nn](/f38/language/nn) | 3 | 3 | 100.0 | /mnt/stockage/packages/f38/kio-admin/po/nn/kio5_admin.po | 
+ | [pl](/f38/language/pl) | 3 | 3 | 100.0 | /mnt/stockage/packages/f38/kio-admin/po/pl/kio5_admin.po | 
+ | [pt](/f38/language/pt) | 3 | 3 | 100.0 | /mnt/stockage/packages/f38/kio-admin/po/pt/kio5_admin.po | 
+ | [pt_BR](/f38/language/pt_BR) | 3 | 3 | 100.0 | /mnt/stockage/packages/f38/kio-admin/po/pt_BR/kio5_admin.po | 
+ | [ru](/f38/language/ru) | 3 | 3 | 100.0 | /mnt/stockage/packages/f38/kio-admin/po/ru/kio5_admin.po | 
+ | [sk](/f38/language/sk) | 3 | 3 | 100.0 | /mnt/stockage/packages/f38/kio-admin/po/sk/kio5_admin.po | 
+ | [sl](/f38/language/sl) | 3 | 3 | 100.0 | /mnt/stockage/packages/f38/kio-admin/po/sl/kio5_admin.po | 
+ | [sv](/f38/language/sv) | 3 | 3 | 100.0 | /mnt/stockage/packages/f38/kio-admin/po/sv/kio5_admin.po | 
+ | [tr](/f38/language/tr) | 3 | 3 | 100.0 | /mnt/stockage/packages/f38/kio-admin/po/tr/kio5_admin.po | 
+ | [uk](/f38/language/uk) | 3 | 3 | 100.0 | /mnt/stockage/packages/f38/kio-admin/po/uk/kio5_admin.po | 
+ | [zh_Hans](/f38/language/zh_Hans) | 3 | 3 | 100.0 | /mnt/stockage/packages/f38/kio-admin/po/zh_CN/kio5_admin.po | 
+ | [zh_Hant](/f38/language/zh_Hant) | 3 | 3 | 100.0 | /mnt/stockage/packages/f38/kio-admin/po/zh_TW/kio5_admin.po | 
+ | [ja](/f38/language/ja) | 0 | 3 | 0.0 | /mnt/stockage/packages/f38/kio-admin/po/ja/kio5_admin.po | 
+ | [lt](/f38/language/lt) | 0 | 3 | 0.0 | /mnt/stockage/packages/f38/kio-admin/po/lt/kio5_admin.po | 
 {.sortable}
 
 

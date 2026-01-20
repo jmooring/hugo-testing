@@ -18,12 +18,12 @@ The package loook (version 0.9.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f42/language/de.md" >}}) | 75 | 75 | 100.0 | /mnt/stockage/packages/f42/loook/loook.de.po | 
- | [en]({{< ref "/f42/language/en.md" >}}) | 150 | 150 | 100.0 | /mnt/stockage/packages/f42/loook/loook.fr.po/mnt/stockage/packages/f42/loook/loook.en.po | 
- | [es]({{< ref "/f42/language/es.md" >}}) | 75 | 75 | 100.0 | /mnt/stockage/packages/f42/loook/loook.es.po | 
- | [it]({{< ref "/f42/language/it.md" >}}) | 75 | 75 | 100.0 | /mnt/stockage/packages/f42/loook/loook.it.po | 
- | [nl]({{< ref "/f42/language/nl.md" >}}) | 75 | 75 | 100.0 | /mnt/stockage/packages/f42/loook/loook.nl.po | 
- | [cs]({{< ref "/f42/language/cs.md" >}}) | 63 | 75 | 84.0 | /mnt/stockage/packages/f42/loook/loook.cs.po | 
+ | [de](/f42/language/de) | 75 | 75 | 100.0 | /mnt/stockage/packages/f42/loook/loook.de.po | 
+ | [en](/f42/language/en) | 150 | 150 | 100.0 | /mnt/stockage/packages/f42/loook/loook.fr.po/mnt/stockage/packages/f42/loook/loook.en.po | 
+ | [es](/f42/language/es) | 75 | 75 | 100.0 | /mnt/stockage/packages/f42/loook/loook.es.po | 
+ | [it](/f42/language/it) | 75 | 75 | 100.0 | /mnt/stockage/packages/f42/loook/loook.it.po | 
+ | [nl](/f42/language/nl) | 75 | 75 | 100.0 | /mnt/stockage/packages/f42/loook/loook.nl.po | 
+ | [cs](/f42/language/cs) | 63 | 75 | 84.0 | /mnt/stockage/packages/f42/loook/loook.cs.po | 
 {.sortable}
 
 

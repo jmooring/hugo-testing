@@ -18,59 +18,59 @@ The package atomix (version 2.14.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [az]({{< ref "/f19/language/az.md" >}}) | 125 | 125 | 100.0 | /mnt/stockage/packages/f19/atomix/po/az.po | 
- | [be]({{< ref "/f19/language/be.md" >}}) | 146 | 146 | 100.0 | /mnt/stockage/packages/f19/atomix/po/be.po | 
- | [bg]({{< ref "/f19/language/bg.md" >}}) | 146 | 146 | 100.0 | /mnt/stockage/packages/f19/atomix/po/bg.po | 
- | [ca]({{< ref "/f19/language/ca.md" >}}) | 125 | 125 | 100.0 | /mnt/stockage/packages/f19/atomix/po/ca.po | 
- | [cs]({{< ref "/f19/language/cs.md" >}}) | 146 | 146 | 100.0 | /mnt/stockage/packages/f19/atomix/po/cs.po | 
- | [da]({{< ref "/f19/language/da.md" >}}) | 125 | 125 | 100.0 | /mnt/stockage/packages/f19/atomix/po/da.po | 
- | [de]({{< ref "/f19/language/de.md" >}}) | 146 | 146 | 100.0 | /mnt/stockage/packages/f19/atomix/po/de.po | 
- | [el]({{< ref "/f19/language/el.md" >}}) | 125 | 125 | 100.0 | /mnt/stockage/packages/f19/atomix/po/el.po | 
- | [en_CA]({{< ref "/f19/language/en_CA.md" >}}) | 146 | 146 | 100.0 | /mnt/stockage/packages/f19/atomix/po/en_CA.po | 
- | [en_GB]({{< ref "/f19/language/en_GB.md" >}}) | 125 | 125 | 100.0 | /mnt/stockage/packages/f19/atomix/po/en_GB.po | 
- | [error]({{< ref "/f19/language/error.md" >}}) | 146 | 146 | 100.0 | /mnt/stockage/packages/f19/atomix/po/sr@Latn.po | 
- | [es]({{< ref "/f19/language/es.md" >}}) | 147 | 147 | 100.0 | /mnt/stockage/packages/f19/atomix/po/es.po | 
- | [et]({{< ref "/f19/language/et.md" >}}) | 146 | 146 | 100.0 | /mnt/stockage/packages/f19/atomix/po/et.po | 
- | [fi]({{< ref "/f19/language/fi.md" >}}) | 146 | 146 | 100.0 | /mnt/stockage/packages/f19/atomix/po/fi.po | 
- | [fr]({{< ref "/f19/language/fr.md" >}}) | 125 | 125 | 100.0 | /mnt/stockage/packages/f19/atomix/po/fr.po | 
- | [gl]({{< ref "/f19/language/gl.md" >}}) | 146 | 146 | 100.0 | /mnt/stockage/packages/f19/atomix/po/gl.po | 
- | [gu]({{< ref "/f19/language/gu.md" >}}) | 146 | 146 | 100.0 | /mnt/stockage/packages/f19/atomix/po/gu.po | 
- | [he]({{< ref "/f19/language/he.md" >}}) | 125 | 125 | 100.0 | /mnt/stockage/packages/f19/atomix/po/he.po | 
- | [hi]({{< ref "/f19/language/hi.md" >}}) | 125 | 125 | 100.0 | /mnt/stockage/packages/f19/atomix/po/hi.po | 
- | [hu]({{< ref "/f19/language/hu.md" >}}) | 157 | 157 | 100.0 | /mnt/stockage/packages/f19/atomix/po/hu.po | 
- | [is]({{< ref "/f19/language/is.md" >}}) | 125 | 125 | 100.0 | /mnt/stockage/packages/f19/atomix/po/is.po | 
- | [it]({{< ref "/f19/language/it.md" >}}) | 125 | 125 | 100.0 | /mnt/stockage/packages/f19/atomix/po/it.po | 
- | [ja]({{< ref "/f19/language/ja.md" >}}) | 146 | 146 | 100.0 | /mnt/stockage/packages/f19/atomix/po/ja.po | 
- | [kn]({{< ref "/f19/language/kn.md" >}}) | 125 | 125 | 100.0 | /mnt/stockage/packages/f19/atomix/po/kn.po | 
- | [ko]({{< ref "/f19/language/ko.md" >}}) | 125 | 125 | 100.0 | /mnt/stockage/packages/f19/atomix/po/ko.po | 
- | [lt]({{< ref "/f19/language/lt.md" >}}) | 145 | 145 | 100.0 | /mnt/stockage/packages/f19/atomix/po/lt.po | 
- | [lv]({{< ref "/f19/language/lv.md" >}}) | 125 | 125 | 100.0 | /mnt/stockage/packages/f19/atomix/po/lv.po | 
- | [mk]({{< ref "/f19/language/mk.md" >}}) | 146 | 146 | 100.0 | /mnt/stockage/packages/f19/atomix/po/mk.po | 
- | [ms]({{< ref "/f19/language/ms.md" >}}) | 125 | 125 | 100.0 | /mnt/stockage/packages/f19/atomix/po/ms.po | 
- | [nb_NO]({{< ref "/f19/language/nb_NO.md" >}}) | 292 | 292 | 100.0 | /mnt/stockage/packages/f19/atomix/po/no.po/mnt/stockage/packages/f19/atomix/po/nb.po | 
- | [nl]({{< ref "/f19/language/nl.md" >}}) | 146 | 146 | 100.0 | /mnt/stockage/packages/f19/atomix/po/nl.po | 
- | [pa]({{< ref "/f19/language/pa.md" >}}) | 146 | 146 | 100.0 | /mnt/stockage/packages/f19/atomix/po/pa.po | 
- | [pl]({{< ref "/f19/language/pl.md" >}}) | 125 | 125 | 100.0 | /mnt/stockage/packages/f19/atomix/po/pl.po | 
- | [pt]({{< ref "/f19/language/pt.md" >}}) | 125 | 125 | 100.0 | /mnt/stockage/packages/f19/atomix/po/pt.po | 
- | [pt_BR]({{< ref "/f19/language/pt_BR.md" >}}) | 146 | 146 | 100.0 | /mnt/stockage/packages/f19/atomix/po/pt_BR.po | 
- | [ru]({{< ref "/f19/language/ru.md" >}}) | 146 | 146 | 100.0 | /mnt/stockage/packages/f19/atomix/po/ru.po | 
- | [sk]({{< ref "/f19/language/sk.md" >}}) | 146 | 146 | 100.0 | /mnt/stockage/packages/f19/atomix/po/sk.po | 
- | [sl]({{< ref "/f19/language/sl.md" >}}) | 125 | 125 | 100.0 | /mnt/stockage/packages/f19/atomix/po/sl.po | 
- | [sq]({{< ref "/f19/language/sq.md" >}}) | 146 | 146 | 100.0 | /mnt/stockage/packages/f19/atomix/po/sq.po | 
- | [sr]({{< ref "/f19/language/sr.md" >}}) | 146 | 146 | 100.0 | /mnt/stockage/packages/f19/atomix/po/sr.po | 
- | [sv]({{< ref "/f19/language/sv.md" >}}) | 145 | 145 | 100.0 | /mnt/stockage/packages/f19/atomix/po/sv.po | 
- | [tr]({{< ref "/f19/language/tr.md" >}}) | 125 | 125 | 100.0 | /mnt/stockage/packages/f19/atomix/po/tr.po | 
- | [uk]({{< ref "/f19/language/uk.md" >}}) | 125 | 125 | 100.0 | /mnt/stockage/packages/f19/atomix/po/uk.po | 
- | [vi]({{< ref "/f19/language/vi.md" >}}) | 146 | 146 | 100.0 | /mnt/stockage/packages/f19/atomix/po/vi.po | 
- | [wa]({{< ref "/f19/language/wa.md" >}}) | 125 | 125 | 100.0 | /mnt/stockage/packages/f19/atomix/po/wa.po | 
- | [zh_Hans]({{< ref "/f19/language/zh_Hans.md" >}}) | 125 | 125 | 100.0 | /mnt/stockage/packages/f19/atomix/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f19/language/zh_Hant.md" >}}) | 146 | 146 | 100.0 | /mnt/stockage/packages/f19/atomix/po/zh_TW.po | 
- | [zh_Hant_HK]({{< ref "/f19/language/zh_Hant_HK.md" >}}) | 146 | 146 | 100.0 | /mnt/stockage/packages/f19/atomix/po/zh_HK.po | 
- | [ta]({{< ref "/f19/language/ta.md" >}}) | 123 | 125 | 98.4 | /mnt/stockage/packages/f19/atomix/po/ta.po | 
- | [fa]({{< ref "/f19/language/fa.md" >}}) | 101 | 125 | 80.8 | /mnt/stockage/packages/f19/atomix/po/fa.po | 
- | [am]({{< ref "/f19/language/am.md" >}}) | 46 | 125 | 36.8 | /mnt/stockage/packages/f19/atomix/po/am.po | 
- | [ga]({{< ref "/f19/language/ga.md" >}}) | 29 | 125 | 23.2 | /mnt/stockage/packages/f19/atomix/po/ga.po | 
- | [ml]({{< ref "/f19/language/ml.md" >}}) | 18 | 125 | 14.4 | /mnt/stockage/packages/f19/atomix/po/ml.po | 
+ | [az](/f19/language/az) | 125 | 125 | 100.0 | /mnt/stockage/packages/f19/atomix/po/az.po | 
+ | [be](/f19/language/be) | 146 | 146 | 100.0 | /mnt/stockage/packages/f19/atomix/po/be.po | 
+ | [bg](/f19/language/bg) | 146 | 146 | 100.0 | /mnt/stockage/packages/f19/atomix/po/bg.po | 
+ | [ca](/f19/language/ca) | 125 | 125 | 100.0 | /mnt/stockage/packages/f19/atomix/po/ca.po | 
+ | [cs](/f19/language/cs) | 146 | 146 | 100.0 | /mnt/stockage/packages/f19/atomix/po/cs.po | 
+ | [da](/f19/language/da) | 125 | 125 | 100.0 | /mnt/stockage/packages/f19/atomix/po/da.po | 
+ | [de](/f19/language/de) | 146 | 146 | 100.0 | /mnt/stockage/packages/f19/atomix/po/de.po | 
+ | [el](/f19/language/el) | 125 | 125 | 100.0 | /mnt/stockage/packages/f19/atomix/po/el.po | 
+ | [en_CA](/f19/language/en_CA) | 146 | 146 | 100.0 | /mnt/stockage/packages/f19/atomix/po/en_CA.po | 
+ | [en_GB](/f19/language/en_GB) | 125 | 125 | 100.0 | /mnt/stockage/packages/f19/atomix/po/en_GB.po | 
+ | [error](/f19/language/error) | 146 | 146 | 100.0 | /mnt/stockage/packages/f19/atomix/po/sr@Latn.po | 
+ | [es](/f19/language/es) | 147 | 147 | 100.0 | /mnt/stockage/packages/f19/atomix/po/es.po | 
+ | [et](/f19/language/et) | 146 | 146 | 100.0 | /mnt/stockage/packages/f19/atomix/po/et.po | 
+ | [fi](/f19/language/fi) | 146 | 146 | 100.0 | /mnt/stockage/packages/f19/atomix/po/fi.po | 
+ | [fr](/f19/language/fr) | 125 | 125 | 100.0 | /mnt/stockage/packages/f19/atomix/po/fr.po | 
+ | [gl](/f19/language/gl) | 146 | 146 | 100.0 | /mnt/stockage/packages/f19/atomix/po/gl.po | 
+ | [gu](/f19/language/gu) | 146 | 146 | 100.0 | /mnt/stockage/packages/f19/atomix/po/gu.po | 
+ | [he](/f19/language/he) | 125 | 125 | 100.0 | /mnt/stockage/packages/f19/atomix/po/he.po | 
+ | [hi](/f19/language/hi) | 125 | 125 | 100.0 | /mnt/stockage/packages/f19/atomix/po/hi.po | 
+ | [hu](/f19/language/hu) | 157 | 157 | 100.0 | /mnt/stockage/packages/f19/atomix/po/hu.po | 
+ | [is](/f19/language/is) | 125 | 125 | 100.0 | /mnt/stockage/packages/f19/atomix/po/is.po | 
+ | [it](/f19/language/it) | 125 | 125 | 100.0 | /mnt/stockage/packages/f19/atomix/po/it.po | 
+ | [ja](/f19/language/ja) | 146 | 146 | 100.0 | /mnt/stockage/packages/f19/atomix/po/ja.po | 
+ | [kn](/f19/language/kn) | 125 | 125 | 100.0 | /mnt/stockage/packages/f19/atomix/po/kn.po | 
+ | [ko](/f19/language/ko) | 125 | 125 | 100.0 | /mnt/stockage/packages/f19/atomix/po/ko.po | 
+ | [lt](/f19/language/lt) | 145 | 145 | 100.0 | /mnt/stockage/packages/f19/atomix/po/lt.po | 
+ | [lv](/f19/language/lv) | 125 | 125 | 100.0 | /mnt/stockage/packages/f19/atomix/po/lv.po | 
+ | [mk](/f19/language/mk) | 146 | 146 | 100.0 | /mnt/stockage/packages/f19/atomix/po/mk.po | 
+ | [ms](/f19/language/ms) | 125 | 125 | 100.0 | /mnt/stockage/packages/f19/atomix/po/ms.po | 
+ | [nb_NO](/f19/language/nb_NO) | 292 | 292 | 100.0 | /mnt/stockage/packages/f19/atomix/po/no.po/mnt/stockage/packages/f19/atomix/po/nb.po | 
+ | [nl](/f19/language/nl) | 146 | 146 | 100.0 | /mnt/stockage/packages/f19/atomix/po/nl.po | 
+ | [pa](/f19/language/pa) | 146 | 146 | 100.0 | /mnt/stockage/packages/f19/atomix/po/pa.po | 
+ | [pl](/f19/language/pl) | 125 | 125 | 100.0 | /mnt/stockage/packages/f19/atomix/po/pl.po | 
+ | [pt](/f19/language/pt) | 125 | 125 | 100.0 | /mnt/stockage/packages/f19/atomix/po/pt.po | 
+ | [pt_BR](/f19/language/pt_BR) | 146 | 146 | 100.0 | /mnt/stockage/packages/f19/atomix/po/pt_BR.po | 
+ | [ru](/f19/language/ru) | 146 | 146 | 100.0 | /mnt/stockage/packages/f19/atomix/po/ru.po | 
+ | [sk](/f19/language/sk) | 146 | 146 | 100.0 | /mnt/stockage/packages/f19/atomix/po/sk.po | 
+ | [sl](/f19/language/sl) | 125 | 125 | 100.0 | /mnt/stockage/packages/f19/atomix/po/sl.po | 
+ | [sq](/f19/language/sq) | 146 | 146 | 100.0 | /mnt/stockage/packages/f19/atomix/po/sq.po | 
+ | [sr](/f19/language/sr) | 146 | 146 | 100.0 | /mnt/stockage/packages/f19/atomix/po/sr.po | 
+ | [sv](/f19/language/sv) | 145 | 145 | 100.0 | /mnt/stockage/packages/f19/atomix/po/sv.po | 
+ | [tr](/f19/language/tr) | 125 | 125 | 100.0 | /mnt/stockage/packages/f19/atomix/po/tr.po | 
+ | [uk](/f19/language/uk) | 125 | 125 | 100.0 | /mnt/stockage/packages/f19/atomix/po/uk.po | 
+ | [vi](/f19/language/vi) | 146 | 146 | 100.0 | /mnt/stockage/packages/f19/atomix/po/vi.po | 
+ | [wa](/f19/language/wa) | 125 | 125 | 100.0 | /mnt/stockage/packages/f19/atomix/po/wa.po | 
+ | [zh_Hans](/f19/language/zh_Hans) | 125 | 125 | 100.0 | /mnt/stockage/packages/f19/atomix/po/zh_CN.po | 
+ | [zh_Hant](/f19/language/zh_Hant) | 146 | 146 | 100.0 | /mnt/stockage/packages/f19/atomix/po/zh_TW.po | 
+ | [zh_Hant_HK](/f19/language/zh_Hant_HK) | 146 | 146 | 100.0 | /mnt/stockage/packages/f19/atomix/po/zh_HK.po | 
+ | [ta](/f19/language/ta) | 123 | 125 | 98.4 | /mnt/stockage/packages/f19/atomix/po/ta.po | 
+ | [fa](/f19/language/fa) | 101 | 125 | 80.8 | /mnt/stockage/packages/f19/atomix/po/fa.po | 
+ | [am](/f19/language/am) | 46 | 125 | 36.8 | /mnt/stockage/packages/f19/atomix/po/am.po | 
+ | [ga](/f19/language/ga) | 29 | 125 | 23.2 | /mnt/stockage/packages/f19/atomix/po/ga.po | 
+ | [ml](/f19/language/ml) | 18 | 125 | 14.4 | /mnt/stockage/packages/f19/atomix/po/ml.po | 
 {.sortable}
 
 

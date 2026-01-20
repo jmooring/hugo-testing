@@ -18,18 +18,18 @@ The package libextractor (version 1.6):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f25/language/de.md" >}}) | 1952 | 1978 | 98.7 | /mnt/stockage/packages/f25/libextractor/po/de.po | 
- | [fr]({{< ref "/f25/language/fr.md" >}}) | 1952 | 1978 | 98.7 | /mnt/stockage/packages/f25/libextractor/po/fr.po | 
- | [pl]({{< ref "/f25/language/pl.md" >}}) | 1952 | 1978 | 98.7 | /mnt/stockage/packages/f25/libextractor/po/pl.po | 
- | [sr]({{< ref "/f25/language/sr.md" >}}) | 1952 | 1978 | 98.7 | /mnt/stockage/packages/f25/libextractor/po/sr.po | 
- | [uk]({{< ref "/f25/language/uk.md" >}}) | 1952 | 1978 | 98.7 | /mnt/stockage/packages/f25/libextractor/po/uk.po | 
- | [nl]({{< ref "/f25/language/nl.md" >}}) | 1765 | 1978 | 89.2 | /mnt/stockage/packages/f25/libextractor/po/nl.po | 
- | [vi]({{< ref "/f25/language/vi.md" >}}) | 1460 | 1978 | 73.8 | /mnt/stockage/packages/f25/libextractor/po/vi.po | 
- | [it]({{< ref "/f25/language/it.md" >}}) | 442 | 1978 | 22.3 | /mnt/stockage/packages/f25/libextractor/po/it.po | 
- | [ga]({{< ref "/f25/language/ga.md" >}}) | 367 | 1978 | 18.6 | /mnt/stockage/packages/f25/libextractor/po/ga.po | 
- | [sv]({{< ref "/f25/language/sv.md" >}}) | 367 | 1978 | 18.6 | /mnt/stockage/packages/f25/libextractor/po/sv.po | 
- | [ro]({{< ref "/f25/language/ro.md" >}}) | 260 | 1978 | 13.1 | /mnt/stockage/packages/f25/libextractor/po/ro.po | 
- | [rw]({{< ref "/f25/language/rw.md" >}}) | 5 | 1978 | 0.3 | /mnt/stockage/packages/f25/libextractor/po/rw.po | 
+ | [de](/f25/language/de) | 1952 | 1978 | 98.7 | /mnt/stockage/packages/f25/libextractor/po/de.po | 
+ | [fr](/f25/language/fr) | 1952 | 1978 | 98.7 | /mnt/stockage/packages/f25/libextractor/po/fr.po | 
+ | [pl](/f25/language/pl) | 1952 | 1978 | 98.7 | /mnt/stockage/packages/f25/libextractor/po/pl.po | 
+ | [sr](/f25/language/sr) | 1952 | 1978 | 98.7 | /mnt/stockage/packages/f25/libextractor/po/sr.po | 
+ | [uk](/f25/language/uk) | 1952 | 1978 | 98.7 | /mnt/stockage/packages/f25/libextractor/po/uk.po | 
+ | [nl](/f25/language/nl) | 1765 | 1978 | 89.2 | /mnt/stockage/packages/f25/libextractor/po/nl.po | 
+ | [vi](/f25/language/vi) | 1460 | 1978 | 73.8 | /mnt/stockage/packages/f25/libextractor/po/vi.po | 
+ | [it](/f25/language/it) | 442 | 1978 | 22.3 | /mnt/stockage/packages/f25/libextractor/po/it.po | 
+ | [ga](/f25/language/ga) | 367 | 1978 | 18.6 | /mnt/stockage/packages/f25/libextractor/po/ga.po | 
+ | [sv](/f25/language/sv) | 367 | 1978 | 18.6 | /mnt/stockage/packages/f25/libextractor/po/sv.po | 
+ | [ro](/f25/language/ro) | 260 | 1978 | 13.1 | /mnt/stockage/packages/f25/libextractor/po/ro.po | 
+ | [rw](/f25/language/rw) | 5 | 1978 | 0.3 | /mnt/stockage/packages/f25/libextractor/po/rw.po | 
 {.sortable}
 
 

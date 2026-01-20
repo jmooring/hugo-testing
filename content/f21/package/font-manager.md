@@ -18,8 +18,8 @@ The package font-manager (version 0.7.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f21/language/de.md" >}}) | 423 | 570 | 74.2 | /mnt/stockage/packages/f21/font-manager/po/de_DE.po | 
- | [zh_Hans]({{< ref "/f21/language/zh_Hans.md" >}}) | 1149 | 1710 | 67.2 | /mnt/stockage/packages/f21/font-manager/po/zh_CN.po/mnt/stockage/packages/f21/font-manager/po/zh_HK.po/mnt/stockage/packages/f21/font-manager/po/zh_TW.po | 
+ | [de](/f21/language/de) | 423 | 570 | 74.2 | /mnt/stockage/packages/f21/font-manager/po/de_DE.po | 
+ | [zh_Hans](/f21/language/zh_Hans) | 1149 | 1710 | 67.2 | /mnt/stockage/packages/f21/font-manager/po/zh_CN.po/mnt/stockage/packages/f21/font-manager/po/zh_HK.po/mnt/stockage/packages/f21/font-manager/po/zh_TW.po | 
 {.sortable}
 
 

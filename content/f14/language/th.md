@@ -38,319 +38,319 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [GConf2]({{< ref "/f14/package/GConf2.md" >}}) | 4035 | 4035 | 100.0 | Thai <thai-l10n@googlegroups.com> | 
- | [NetworkManager-openswan]({{< ref "/f14/package/NetworkManager-openswan.md" >}}) | 328 | 328 | 100.0 | Thai <l10n@opentle.org> | 
- | [NetworkManager-openvpn]({{< ref "/f14/package/NetworkManager-openvpn.md" >}}) | 392 | 392 | 100.0 | Thai <l10n.opentle.org> | 
- | [NetworkManager-pptp]({{< ref "/f14/package/NetworkManager-pptp.md" >}}) | 584 | 584 | 100.0 | Thai <l10n@opentle.org> | 
- | [NetworkManager-vpnc]({{< ref "/f14/package/NetworkManager-vpnc.md" >}}) | 328 | 328 | 100.0 | Thai <l10n@opentle.org> | 
- | [alacarte]({{< ref "/f14/package/alacarte.md" >}}) | 42 | 42 | 100.0 | Thai <l10n@opentle.org> | 
- | [anerley]({{< ref "/f14/package/anerley.md" >}}) | 5 | 5 | 100.0 | Thai <thai-l10n@googlegroups.com> | 
- | [anjuta]({{< ref "/f14/package/anjuta.md" >}}) | 21858 | 21858 | 100.0 | Thai <thai-l10n@googlegroups.com> | 
- | [at-spi]({{< ref "/f14/package/at-spi.md" >}}) | 61 | 61 | 100.0 | Thai <thai-l10n@googlegroups.com> | 
- | [at-spi2-atk]({{< ref "/f14/package/at-spi2-atk.md" >}}) | 61 | 61 | 100.0 | Thai <thai-l10n@googlegroups.com> | 
- | [banshee]({{< ref "/f14/package/banshee.md" >}}) | 2409 | 2409 | 100.0 | Thai <l10n@opentle.org> | 
- | [bisho]({{< ref "/f14/package/bisho.md" >}}) | 131 | 131 | 100.0 | Thai <thai-l10n@googlegroups.com> | 
- | [bison]({{< ref "/f14/package/bison.md" >}}) | 52 | 52 | 100.0 | Thai <translation-team-th@lists.sourceforge.net> | 
- | [bognor-regis]({{< ref "/f14/package/bognor-regis.md" >}}) | 27 | 27 | 100.0 | Thai <thai-l10n@googlegroups.com> | 
- | [brasero]({{< ref "/f14/package/brasero.md" >}}) | 5425 | 5425 | 100.0 | Thai <thai-l10n@googlegroups.com> | 
- | [cheese]({{< ref "/f14/package/cheese.md" >}}) | 2927 | 2927 | 100.0 | Thai <thai-l10n@googlegroups.com> | 
- | [control-center]({{< ref "/f14/package/control-center.md" >}}) | 3420 | 3420 | 100.0 | Thai <thai-l10n@googlegroups.com> | 
- | [dasher]({{< ref "/f14/package/dasher.md" >}}) | 528 | 528 | 100.0 | Thai <thai-l10n@googlegroups.com> | 
- | [dates]({{< ref "/f14/package/dates.md" >}}) | 239 | 239 | 100.0 | Thai <thai-l10n@googlegroups.com> | 
- | [deskbar-applet]({{< ref "/f14/package/deskbar-applet.md" >}}) | 1670 | 1670 | 100.0 | Thai <thai-l10n@googlegroups.com> | 
- | [desktop-effects]({{< ref "/f14/package/desktop-effects.md" >}}) | 66 | 66 | 100.0 | Thai <thai-l10n@googlegroups.com> | 
- | [devhelp]({{< ref "/f14/package/devhelp.md" >}}) | 414 | 414 | 100.0 | Thai <thai-l10n@googlegroups.com> | 
- | [dialog]({{< ref "/f14/package/dialog.md" >}}) | 25 | 25 | 100.0 | Thai <seksan.poltree@gmail.com> | 
- | [empathy]({{< ref "/f14/package/empathy.md" >}}) | 3199 | 3199 | 100.0 | Thai <thai-l10n@googlegroups.com> | 
- | [epiphany]({{< ref "/f14/package/epiphany.md" >}}) | 3073 | 3073 | 100.0 | Thai <thai-l10n@googlegroups.com> | 
- | [epiphany-extensions]({{< ref "/f14/package/epiphany-extensions.md" >}}) | 1046 | 1046 | 100.0 | Thai <thai-l10n@googlegroups.com> | 
- | [evince]({{< ref "/f14/package/evince.md" >}}) | 1397 | 1397 | 100.0 | Thai <thai-l10n@googlegroups.com> | 
- | [evolution-exchange]({{< ref "/f14/package/evolution-exchange.md" >}}) | 1347 | 1347 | 100.0 | Thai <thai-l10n@googlegroups.com> | 
- | [evolution-mapi]({{< ref "/f14/package/evolution-mapi.md" >}}) | 341 | 341 | 100.0 | Thai <thai-l10n@googlegroups.com> | 
- | [evolution-rss]({{< ref "/f14/package/evolution-rss.md" >}}) | 674 | 674 | 100.0 | Thai <thai-l10n@googlegroups.com> | 
- | [file-roller]({{< ref "/f14/package/file-roller.md" >}}) | 1370 | 1370 | 100.0 | Thai <thai-l10n@googlegroups.com> | 
- | [fontaine]({{< ref "/f14/package/fontaine.md" >}}) | 15 | 15 | 100.0 | LANGUAGE | 
- | [gcalctool]({{< ref "/f14/package/gcalctool.md" >}}) | 1282 | 1282 | 100.0 | Thai <thai-l10n@googlegroups.com> | 
- | [gcompris]({{< ref "/f14/package/gcompris.md" >}}) | 10201 | 10201 | 100.0 | Thai <thai-l10n@googlegroups.com> | 
- | [gdm]({{< ref "/f14/package/gdm.md" >}}) | 1305 | 1305 | 100.0 | Thai <thai-l10n@googlegroups.com> | 
- | [gedit-plugins]({{< ref "/f14/package/gedit-plugins.md" >}}) | 198 | 198 | 100.0 | Thai <thai-l10n@googlegroups.com | 
- | [ggz-base-libs]({{< ref "/f14/package/ggz-base-libs.md" >}}) | 74 | 74 | 100.0 | Thai <thai-l10n@googlegroups.com> | 
- | [ggz-gtk-client]({{< ref "/f14/package/ggz-gtk-client.md" >}}) | 723 | 723 | 100.0 | Thai <thai-l10n@googlegroups.com> | 
- | [glade3]({{< ref "/f14/package/glade3.md" >}}) | 4613 | 4613 | 100.0 | Thai <thai-l10n@googlegroups.com> | 
- | [gnome-backgrounds]({{< ref "/f14/package/gnome-backgrounds.md" >}}) | 23 | 23 | 100.0 | Thai | 
- | [gnome-desktop]({{< ref "/f14/package/gnome-desktop.md" >}}) | 432 | 432 | 100.0 | Thai <thai-l10n@googlegroups.com> | 
- | [gnome-desktop3]({{< ref "/f14/package/gnome-desktop3.md" >}}) | 432 | 432 | 100.0 | Thai <thai-l10n@googlegroups.com> | 
- | [gnome-doc-utils]({{< ref "/f14/package/gnome-doc-utils.md" >}}) | 251 | 251 | 100.0 | Thai <thai-l10n@googlegroups.com> | 
- | [gnome-games]({{< ref "/f14/package/gnome-games.md" >}}) | 7107 | 7107 | 100.0 | Thai <thai-l10n@googlegroups.com> | 
- | [gnome-icon-theme]({{< ref "/f14/package/gnome-icon-theme.md" >}}) | 45 | 45 | 100.0 | Thai <thai-l10n@googlegroups.com> | 
- | [gnome-keyring]({{< ref "/f14/package/gnome-keyring.md" >}}) | 1246 | 1246 | 100.0 | Thai <thai-l10n@googlegroups.com> | 
- | [gnome-mag]({{< ref "/f14/package/gnome-mag.md" >}}) | 298 | 298 | 100.0 | Thai <thai-l10n@googlegroups.com> | 
- | [gnome-media]({{< ref "/f14/package/gnome-media.md" >}}) | 2073 | 2073 | 100.0 | Thai <thai-l10n@googlegroups.com> | 
- | [gnome-menus]({{< ref "/f14/package/gnome-menus.md" >}}) | 161 | 161 | 100.0 | Thai <thai-l10n@googlegroups.com> | 
- | [gnome-netstatus]({{< ref "/f14/package/gnome-netstatus.md" >}}) | 1207 | 1207 | 100.0 | Thai <thai-l10n@googlegroups.com> | 
- | [gnome-nettool]({{< ref "/f14/package/gnome-nettool.md" >}}) | 617 | 617 | 100.0 | Thai <thai-l10n@googlegroups.com> | 
- | [gnome-panel]({{< ref "/f14/package/gnome-panel.md" >}}) | 6240 | 6240 | 100.0 | Thai <thai-l10n@googlegroups.com> | 
- | [gnome-power-manager]({{< ref "/f14/package/gnome-power-manager.md" >}}) | 2727 | 2727 | 100.0 | Thai <thai-l10n@googlegroups.com> | 
- | [gnome-screensaver]({{< ref "/f14/package/gnome-screensaver.md" >}}) | 989 | 989 | 100.0 | Thai <thai-l10n@googlegroups.com> | 
- | [gnome-session]({{< ref "/f14/package/gnome-session.md" >}}) | 675 | 675 | 100.0 | Thai <thai-l10n@googlegroups.com> | 
- | [gnome-settings-daemon]({{< ref "/f14/package/gnome-settings-daemon.md" >}}) | 1722 | 1722 | 100.0 | Thai <thai-l10n@googlegroups.com> | 
- | [gnome-system-monitor]({{< ref "/f14/package/gnome-system-monitor.md" >}}) | 933 | 933 | 100.0 | Thai <thai-l10n@googlegroups.com> | 
- | [gnome-terminal]({{< ref "/f14/package/gnome-terminal.md" >}}) | 4204 | 4204 | 100.0 | Thai <thai-l10n@googlegroups.com> | 
- | [gnome-themes]({{< ref "/f14/package/gnome-themes.md" >}}) | 109 | 109 | 100.0 | Thai <thai-l10n@googlegroups.com> | 
- | [gnome-user-share]({{< ref "/f14/package/gnome-user-share.md" >}}) | 333 | 333 | 100.0 | Thai <thai-l10n@googlegroups.com> | 
- | [gnome-utils]({{< ref "/f14/package/gnome-utils.md" >}}) | 3921 | 3921 | 100.0 | Thai <thai-l10n@googlegroups.com> | 
- | [gnome-vfs2]({{< ref "/f14/package/gnome-vfs2.md" >}}) | 1519 | 1519 | 100.0 | Thai <thai-l10n@googlegroups.com> | 
- | [gnote]({{< ref "/f14/package/gnote.md" >}}) | 2283 | 2283 | 100.0 | Thai <thai-l10n@googlegroups.com> | 
- | [gparted]({{< ref "/f14/package/gparted.md" >}}) | 1534 | 1534 | 100.0 | Thai <thai-l10n@googlegroups.com> | 
- | [gtk2-engines]({{< ref "/f14/package/gtk2-engines.md" >}}) | 119 | 119 | 100.0 | Thai <thai-l10n@googlegroups.com> | 
- | [gtk3-engines]({{< ref "/f14/package/gtk3-engines.md" >}}) | 119 | 119 | 100.0 | Thai <thai-l10n@googlegroups.com> | 
- | [gtkhtml3]({{< ref "/f14/package/gtkhtml3.md" >}}) | 713 | 713 | 100.0 | Thai <thai-l10n@googlegroups.com> | 
- | [gtkspell]({{< ref "/f14/package/gtkspell.md" >}}) | 15 | 15 | 100.0 | Thai <translation-team-th@lists.sourceforge.net> | 
- | [gvfs]({{< ref "/f14/package/gvfs.md" >}}) | 1936 | 1936 | 100.0 | Thai <thai-l10n@googlegroups.com> | 
- | [gwget]({{< ref "/f14/package/gwget.md" >}}) | 553 | 553 | 100.0 | Thai <thai-l10n@googlegroups.com> | 
- | [hamster-applet]({{< ref "/f14/package/hamster-applet.md" >}}) | 250 | 250 | 100.0 | Thai <thai-l10n@googlegroups.com> | 
- | [iok]({{< ref "/f14/package/iok.md" >}}) | 142 | 142 | 100.0 | Thai <thai-l10n@googlegroups.com> | 
- | [kdevelop]({{< ref "/f14/package/kdevelop.md" >}}) | 14 | 14 | 100.0 | Thai <thai-l10n@googlegroups.com> | 
- | [kdevplatform]({{< ref "/f14/package/kdevplatform.md" >}}) | 250 | 250 | 100.0 | Thai <thai-l10n@googlegroups.com> | 
- | [libbonobo]({{< ref "/f14/package/libbonobo.md" >}}) | 543 | 543 | 100.0 | Thai <thai-l10n@googlegroups.com> | 
- | [libbonoboui]({{< ref "/f14/package/libbonoboui.md" >}}) | 368 | 368 | 100.0 | Thai <thai-l10n@googlegroups.com> | 
- | [libepc]({{< ref "/f14/package/libepc.md" >}}) | 146 | 146 | 100.0 | Thai <thai-l10n@googlegroups.com> | 
- | [libgdl]({{< ref "/f14/package/libgdl.md" >}}) | 611 | 611 | 100.0 | Thai <thai-l10n@googlegroups.com> | 
- | [libgnome]({{< ref "/f14/package/libgnome.md" >}}) | 1773 | 1773 | 100.0 | Thai <thai-l10n@googlegroups.com> | 
- | [libgnome-keyring]({{< ref "/f14/package/libgnome-keyring.md" >}}) | 44 | 44 | 100.0 | Thai <thai-l10n@googlegroups.com> | 
- | [libgnomecanvas]({{< ref "/f14/package/libgnomecanvas.md" >}}) | 378 | 378 | 100.0 | Thai <thai-l10n@googlegroups.com> | 
- | [libgnomecups]({{< ref "/f14/package/libgnomecups.md" >}}) | 11 | 11 | 100.0 | Thai <l10n@opentle.org> | 
- | [libgnomekbd]({{< ref "/f14/package/libgnomekbd.md" >}}) | 286 | 286 | 100.0 | Thai <thai-l10n@googlegroups.com> | 
- | [libgnomeprint22]({{< ref "/f14/package/libgnomeprint22.md" >}}) | 168 | 168 | 100.0 | Thai <L10n@opentle.org> | 
- | [libgnomeprintui22]({{< ref "/f14/package/libgnomeprintui22.md" >}}) | 481 | 481 | 100.0 | Thai <L10n@opentle.org> | 
- | [libgnomeui]({{< ref "/f14/package/libgnomeui.md" >}}) | 1309 | 1309 | 100.0 | Thai <thai-l10n@googlegroups.com> | 
- | [libgtop2]({{< ref "/f14/package/libgtop2.md" >}}) | 126 | 126 | 100.0 | Thai <l10n@opentle.org> | 
- | [libsocialweb]({{< ref "/f14/package/libsocialweb.md" >}}) | 148 | 148 | 100.0 | Thai <thai-l10n@googlegroups.com> | 
- | [libwnck]({{< ref "/f14/package/libwnck.md" >}}) | 1124 | 1124 | 100.0 | Thai <thai-l10n@googlegroups.com> | 
- | [liveusb-creator]({{< ref "/f14/package/liveusb-creator.md" >}}) | 480 | 480 | 100.0 | Thai <thai-l10n@googlegroups.com> | 
- | [lxmenu-data]({{< ref "/f14/package/lxmenu-data.md" >}}) | 97 | 97 | 100.0 | Thai <l10n@opentle.org> | 
- | [metacity]({{< ref "/f14/package/metacity.md" >}}) | 3798 | 3798 | 100.0 | Thai <thai-l10n@googlegroups.com> | 
- | [mingw32-gtkhtml3]({{< ref "/f14/package/mingw32-gtkhtml3.md" >}}) | 713 | 713 | 100.0 | Thai <thai-l10n@googlegroups.com> | 
- | [moblin-panel-applications]({{< ref "/f14/package/moblin-panel-applications.md" >}}) | 5 | 5 | 100.0 | Thai <thai-l10n@googlegroups.com> | 
- | [moblin-panel-media]({{< ref "/f14/package/moblin-panel-media.md" >}}) | 55 | 55 | 100.0 | Thai <thai-l10n@googlegroups.com> | 
- | [moblin-panel-myzone]({{< ref "/f14/package/moblin-panel-myzone.md" >}}) | 74 | 74 | 100.0 | Thai <thai-l10n@googlegroups.com> | 
- | [moblin-panel-people]({{< ref "/f14/package/moblin-panel-people.md" >}}) | 68 | 68 | 100.0 | Thai <thai-l10n@googlegroups.com> | 
- | [moblin-panel-status]({{< ref "/f14/package/moblin-panel-status.md" >}}) | 76 | 76 | 100.0 | Thai <thai-l10n@googlegroups.com> | 
- | [mousetweaks]({{< ref "/f14/package/mousetweaks.md" >}}) | 730 | 730 | 100.0 | Thai <thai-l10n@googlegroups.com> | 
- | [mutter]({{< ref "/f14/package/mutter.md" >}}) | 3864 | 3864 | 100.0 | Thai <thai-l10n@googlegroups.com> | 
- | [mutter-mbl]({{< ref "/f14/package/mutter-mbl.md" >}}) | 3864 | 3864 | 100.0 | Thai <thai-l10n@googlegroups.com> | 
- | [mutter-moblin]({{< ref "/f14/package/mutter-moblin.md" >}}) | 52 | 52 | 100.0 | Thai <thai-l10n@google.com> | 
- | [nautilus]({{< ref "/f14/package/nautilus.md" >}}) | 8869 | 8869 | 100.0 | Thai <thai-l10n@googlegroups.com> | 
- | [nautilus-open-terminal]({{< ref "/f14/package/nautilus-open-terminal.md" >}}) | 158 | 158 | 100.0 | Thai <thai-l10n@googlegroups.com> | 
- | [nautilus-sendto]({{< ref "/f14/package/nautilus-sendto.md" >}}) | 308 | 308 | 100.0 | Thai <thai-l10n@googlegroups.com> | 
- | [newt]({{< ref "/f14/package/newt.md" >}}) | 4 | 4 | 100.0 | Thai <l10n@opentle.org> | 
- | [pessulus]({{< ref "/f14/package/pessulus.md" >}}) | 130 | 130 | 100.0 | Thai <thai-l10n@googlegroups.com> | 
- | [pino]({{< ref "/f14/package/pino.md" >}}) | 352 | 352 | 100.0 | LANGUAGE <LL@li.org> | 
- | [polkit-gnome]({{< ref "/f14/package/polkit-gnome.md" >}}) | 311 | 311 | 100.0 | Thai <thai-l10n@googlegroups.com> | 
- | [redhat-menus]({{< ref "/f14/package/redhat-menus.md" >}}) | 261 | 261 | 100.0 | Thai <thai-l10n@googlegroups.com> | 
- | [rhythmbox]({{< ref "/f14/package/rhythmbox.md" >}}) | 4934 | 4934 | 100.0 | Thai <thai-l10n@googlegroups.com> | 
- | [sabayon]({{< ref "/f14/package/sabayon.md" >}}) | 743 | 743 | 100.0 | Thai <thai-l10n@googlegroups.com> | 
- | [scim-thai]({{< ref "/f14/package/scim-thai.md" >}}) | 78 | 78 | 100.0 | Thai <l10n@opentle.org> | 
- | [seahorse]({{< ref "/f14/package/seahorse.md" >}}) | 3061 | 3061 | 100.0 | Thai <thai-l10n@googlegroups.com> | 
- | [seahorse-plugins]({{< ref "/f14/package/seahorse-plugins.md" >}}) | 1163 | 1163 | 100.0 | Thai <thai-l10n@googlegroups.com> | 
- | [setuptool]({{< ref "/f14/package/setuptool.md" >}}) | 55 | 55 | 100.0 | Thai <thai-l10n@googlegroups.com> | 
- | [sound-juicer]({{< ref "/f14/package/sound-juicer.md" >}}) | 1022 | 1022 | 100.0 | Thai <thai-l10n@googlegroups.com> | 
- | [sugar-connect]({{< ref "/f14/package/sugar-connect.md" >}}) | 31 | 31 | 100.0 | LANGUAGE <LL@li.org> | 
- | [system-config-nfs]({{< ref "/f14/package/system-config-nfs.md" >}}) | 332 | 332 | 100.0 | Thai <thai-l10n@googlegroups.com> | 
- | [system-config-rootpassword]({{< ref "/f14/package/system-config-rootpassword.md" >}}) | 116 | 116 | 100.0 | Thai <thai-l10n@googlegroups.com> | 
- | [tasque]({{< ref "/f14/package/tasque.md" >}}) | 196 | 196 | 100.0 | Thai <thai-l10n@googlegroups.com> | 
- | [tomboy]({{< ref "/f14/package/tomboy.md" >}}) | 3104 | 3104 | 100.0 | Thai <thai-l10n@googlegroups.com> | 
- | [totem]({{< ref "/f14/package/totem.md" >}}) | 2611 | 2611 | 100.0 | Thai <thai-l10n@googlegroups.com> | 
- | [totem-pl-parser]({{< ref "/f14/package/totem-pl-parser.md" >}}) | 28 | 28 | 100.0 | Thai <thai-l10n@googlegroups.com> | 
- | [tracker]({{< ref "/f14/package/tracker.md" >}}) | 1391 | 1391 | 100.0 | Thai <thai-l10n@googlegroups.com> | 
- | [vinagre]({{< ref "/f14/package/vinagre.md" >}}) | 2703 | 2703 | 100.0 | Thai <thai-l10n@googlegroups.com> | 
- | [vino]({{< ref "/f14/package/vino.md" >}}) | 1215 | 1215 | 100.0 | Thai <thai-l10n@googlegroups.com> | 
- | [vte]({{< ref "/f14/package/vte.md" >}}) | 116 | 116 | 100.0 | Thai <l10n@opentle.org> | 
- | [xdg-user-dirs]({{< ref "/f14/package/xdg-user-dirs.md" >}}) | 28 | 28 | 100.0 | Thai <thai-l10n@googlegroups.com> | 
- | [yelp]({{< ref "/f14/package/yelp.md" >}}) | 1094 | 1094 | 100.0 | Thai <thai-l10n@googlegroups.com> | 
- | [yelp-xsl]({{< ref "/f14/package/yelp-xsl.md" >}}) | 249 | 249 | 100.0 | Thai <thai-l10n@googlegroups.com> | 
- | [zenity]({{< ref "/f14/package/zenity.md" >}}) | 612 | 612 | 100.0 | Thai <thai-l10n@googlegroups.com> | 
- | [evolution]({{< ref "/f14/package/evolution.md" >}}) | 21172 | 21174 | 100.0 | Thai <thai-l10n@googlegroups.com> | 
- | [ekiga]({{< ref "/f14/package/ekiga.md" >}}) | 4045 | 4048 | 99.9 | Thai <thai-l10n@googlegroups.com> | 
- | [orca]({{< ref "/f14/package/orca.md" >}}) | 3694 | 3704 | 99.7 | Thai <thai-l10n@googlegroups.com> | 
- | [kiconedit]({{< ref "/f14/package/kiconedit.md" >}}) | 724 | 726 | 99.7 | Thai <thai-l10n@googlegroups.com> | 
- | [contacts]({{< ref "/f14/package/contacts.md" >}}) | 284 | 285 | 99.6 | Thai <thai-l10n@googlegroups.com> | 
- | [evolution-data-server]({{< ref "/f14/package/evolution-data-server.md" >}}) | 4888 | 4910 | 99.6 | Thai <thai-l10n@googlegroups.com> | 
- | [gucharmap]({{< ref "/f14/package/gucharmap.md" >}}) | 858 | 863 | 99.4 | Thai <thai-l10n@googlegroups.com> | 
- | [gnome-bluetooth]({{< ref "/f14/package/gnome-bluetooth.md" >}}) | 2033 | 2045 | 99.4 | Thai <thai-l10n@googlegroups.com> | 
- | [gnome-applets]({{< ref "/f14/package/gnome-applets.md" >}}) | 3332 | 3352 | 99.4 | Thai <thai-10n@googlegroups.com> | 
- | [gtksourceview3]({{< ref "/f14/package/gtksourceview3.md" >}}) | 1416 | 1426 | 99.3 | Thai <thai-l10n@googlegroups.com> | 
- | [kerry]({{< ref "/f14/package/kerry.md" >}}) | 482 | 486 | 99.2 | Thai <l10n@opentle.org> | 
- | [gconf-editor]({{< ref "/f14/package/gconf-editor.md" >}}) | 2810 | 2834 | 99.2 | Thai <thai-l10n@googlegroups.com> | 
- | [xchat-gnome]({{< ref "/f14/package/xchat-gnome.md" >}}) | 6064 | 6116 | 99.1 | Thai <thai-l10n@googlegroups.com> | 
- | [virtaal]({{< ref "/f14/package/virtaal.md" >}}) | 1161 | 1171 | 99.1 | Thai <thai-l10n@googlegroups.com> | 
- | [publican-fedora]({{< ref "/f14/package/publican-fedora.md" >}}) | 106 | 107 | 99.1 | Thai <thai-l10n@googlegroups.com> | 
- | [gdk-pixbuf2]({{< ref "/f14/package/gdk-pixbuf2.md" >}}) | 1297 | 1313 | 98.8 | Thai <thai-l10n@googlegroups.com> | 
- | [mingw32-gdk-pixbuf]({{< ref "/f14/package/mingw32-gdk-pixbuf.md" >}}) | 1297 | 1313 | 98.8 | Thai <thai-l10n@googlegroups.com> | 
- | [grass]({{< ref "/f14/package/grass.md" >}}) | 41586 | 42167 | 98.6 | Thai <grass-translations@lists.osgeo.org> | 
- | [system-config-date-docs]({{< ref "/f14/package/system-config-date-docs.md" >}}) | 728 | 739 | 98.5 | Thai <thai-l10n@googlegroups.com> | 
- | [gtksourceview2]({{< ref "/f14/package/gtksourceview2.md" >}}) | 1103 | 1120 | 98.5 | Thai <thai-l10n@googlegroups.com> | 
- | [gnome-disk-utility]({{< ref "/f14/package/gnome-disk-utility.md" >}}) | 4472 | 4544 | 98.4 | Thai <thai-l10n@googlegroups.com> | 
- | [atk]({{< ref "/f14/package/atk.md" >}}) | 369 | 375 | 98.4 | Thai <thai-l10n@googlegroups.com> | 
- | [mingw32-atk]({{< ref "/f14/package/mingw32-atk.md" >}}) | 369 | 375 | 98.4 | Thai <thai-l10n@googlegroups.com> | 
- | [poedit]({{< ref "/f14/package/poedit.md" >}}) | 1143 | 1162 | 98.4 | LANGUAGE <LL@li.org> | 
- | [gnome-mime-data]({{< ref "/f14/package/gnome-mime-data.md" >}}) | 860 | 887 | 97.0 | Thai <L10n@opentle.org> | 
- | [kgrab]({{< ref "/f14/package/kgrab.md" >}}) | 358 | 370 | 96.8 | Thai <thai-l10n@googlegroups.com> | 
- | [grep]({{< ref "/f14/package/grep.md" >}}) | 914 | 950 | 96.2 | Thai <translation-team-th@lists.sourceforge.net> | 
- | [kaudiocreator]({{< ref "/f14/package/kaudiocreator.md" >}}) | 1091 | 1136 | 96.0 | Thai <thai-l10n@googlegroups.com> | 
- | [sugar-write]({{< ref "/f14/package/sugar-write.md" >}}) | 70 | 73 | 95.9 | LANGUAGE <LL@li.org> | 
- | [imp]({{< ref "/f14/package/imp.md" >}}) | 1754 | 1846 | 95.0 | i18n@lists.horde.org | 
- | [gok]({{< ref "/f14/package/gok.md" >}}) | 1781 | 1915 | 93.0 | Thai <thai-l10n@googlegroups.com> | 
- | [sugar-pippy]({{< ref "/f14/package/sugar-pippy.md" >}}) | 37 | 40 | 92.5 | LANGUAGE <LL@li.org> | 
- | [kwebkitpart]({{< ref "/f14/package/kwebkitpart.md" >}}) | 440 | 477 | 92.2 | Thai <thai-l10n@googlegroups.com> | 
- | [gtksourceview]({{< ref "/f14/package/gtksourceview.md" >}}) | 820 | 891 | 92.0 | Thai <l10n@opentle.org> | 
- | [konq-plugins]({{< ref "/f14/package/konq-plugins.md" >}}) | 1555 | 1692 | 91.9 | Thai <thai-l10n@googlegroups.com> | 
- | [xchat]({{< ref "/f14/package/xchat.md" >}}) | 4605 | 5027 | 91.6 | Thai <translation-team-th@lists.sourceforge.net> | 
- | [polkit-kde]({{< ref "/f14/package/polkit-kde.md" >}}) | 82 | 92 | 89.1 | Thai <thai-l10n@googlegroups.com> | 
- | [system-config-users]({{< ref "/f14/package/system-config-users.md" >}}) | 1285 | 1456 | 88.3 | LANGUAGE <LL@li.org> | 
- | [kdevelop-php]({{< ref "/f14/package/kdevelop-php.md" >}}) | 204 | 232 | 87.9 | Thai <thai-l10n@googlegroups.com> | 
- | [gthumb]({{< ref "/f14/package/gthumb.md" >}}) | 2320 | 2775 | 83.6 | Thai <thai-l10n@googlegroups.com> | 
- | [kipi-plugins]({{< ref "/f14/package/kipi-plugins.md" >}}) | 13329 | 16077 | 82.9 | Thai <thai-l10n@googlegroups.com> | 
- | [kcoloredit]({{< ref "/f14/package/kcoloredit.md" >}}) | 228 | 278 | 82.0 | Thai <thai-l10n@googlegroups.com> | 
- | [system-config-samba]({{< ref "/f14/package/system-config-samba.md" >}}) | 431 | 533 | 80.9 | LANGUAGE <LL@li.org> | 
- | [dpkg]({{< ref "/f14/package/dpkg.md" >}}) | 6144 | 7604 | 80.8 | Thai <thai-l10n@googlegroups.com> | 
- | [firstboot]({{< ref "/f14/package/firstboot.md" >}}) | 528 | 654 | 80.7 | Thai <l10n@opentle.org> | 
- | [Django]({{< ref "/f14/package/Django.md" >}}) | 3208 | 3975 | 80.7 | Thai <> | 
- | [system-config-printer]({{< ref "/f14/package/system-config-printer.md" >}}) | 2501 | 3120 | 80.2 | LANGUAGE <LL@li.org> | 
- | [sugar-read]({{< ref "/f14/package/sugar-read.md" >}}) | 21 | 27 | 77.8 | LANGUAGE <LL@li.org> | 
- | [sugar-chat]({{< ref "/f14/package/sugar-chat.md" >}}) | 16 | 21 | 76.2 | LANGUAGE <LL@li.org> | 
- | [xmms]({{< ref "/f14/package/xmms.md" >}}) | 2616 | 3443 | 76.0 | Thai <l10n@opentle.org> | 
- | [yakuake]({{< ref "/f14/package/yakuake.md" >}}) | 1091 | 1439 | 75.8 | Thai <thai-l10n@googlegroups.com> | 
- | [hello]({{< ref "/f14/package/hello.md" >}}) | 142 | 193 | 73.6 | Thai <translation-team-th@lists.sourceforge.net> | 
- | [clamtk]({{< ref "/f14/package/clamtk.md" >}}) | 589 | 805 | 73.2 | Thai <th@li.org> | 
- | [rekonq]({{< ref "/f14/package/rekonq.md" >}}) | 1182 | 1617 | 73.1 | Thai <thai-l10n@googlegroups.com> | 
- | [nautilus-actions]({{< ref "/f14/package/nautilus-actions.md" >}}) | 1132 | 1554 | 72.8 | Thai <l10n.opentle.org> | 
- | [digikam]({{< ref "/f14/package/digikam.md" >}}) | 17197 | 23653 | 72.7 | Thai <thai-l10n@googlegroups.com> | 
- | [bluedevil]({{< ref "/f14/package/bluedevil.md" >}}) | 419 | 604 | 69.4 | Thai <thai-l10n@googlegroups.com> | 
- | [sugar-surf]({{< ref "/f14/package/sugar-surf.md" >}}) | 36 | 52 | 69.2 | LANGUAGE <LL@li.org> | 
- | [gnome-applet-window-picker]({{< ref "/f14/package/gnome-applet-window-picker.md" >}}) | 20 | 29 | 69.0 | Thai | 
- | [glib2]({{< ref "/f14/package/glib2.md" >}}) | 2523 | 3690 | 68.4 | Thai <thai-l10n@googlegroups.com> | 
- | [mingw32-glib2]({{< ref "/f14/package/mingw32-glib2.md" >}}) | 2523 | 3690 | 68.4 | Thai <thai-l10n@googlegroups.com> | 
- | [anaconda]({{< ref "/f14/package/anaconda.md" >}}) | 6619 | 9741 | 67.9 | Thai <thai-l10n@googlegroups.com> | 
- | [shotwell]({{< ref "/f14/package/shotwell.md" >}}) | 2468 | 3707 | 66.6 | LANGUAGE <LL@li.org> | 
- | [akonadi-googledata]({{< ref "/f14/package/akonadi-googledata.md" >}}) | 57 | 86 | 66.3 | Thai <thai-l10n@googlegroups.com> | 
- | [sos]({{< ref "/f14/package/sos.md" >}}) | 174 | 267 | 65.2 | Thai <thai-l10n@googlegroups.com> | 
- | [gnome-shell]({{< ref "/f14/package/gnome-shell.md" >}}) | 132 | 204 | 64.7 | Thai <thai-l10n@googlegroups.com> | 
- | [pavucontrol]({{< ref "/f14/package/pavucontrol.md" >}}) | 151 | 237 | 63.7 | Thai <thai-l10n@googlegroups.com> | 
- | [libgweather]({{< ref "/f14/package/libgweather.md" >}}) | 3806 | 6051 | 62.9 | Thai <thai-10n@googlegroups.com> | 
- | [im-chooser]({{< ref "/f14/package/im-chooser.md" >}}) | 132 | 213 | 62.0 | Thai <thai-l10n@googlegroups.com> | 
- | [pykickstart]({{< ref "/f14/package/pykickstart.md" >}}) | 209 | 338 | 61.8 | Thai <thai-l10n@googlegroups.com> | 
- | [stellarium]({{< ref "/f14/package/stellarium.md" >}}) | 2076 | 3362 | 61.7 | MicKi Alone <Need24Get@msn.com> | 
- | [k3b]({{< ref "/f14/package/k3b.md" >}}) | 12333 | 20423 | 60.4 | Thai <thai-l10n@googlegroups.com> | 
- | [gimp]({{< ref "/f14/package/gimp.md" >}}) | 6379 | 10637 | 60.0 | Thai <l10n@opentle.org> | 
- | [f-spot]({{< ref "/f14/package/f-spot.md" >}}) | 2031 | 3402 | 59.7 | Thai <thai-l10n@googlegroups.com> | 
- | [kaffeine]({{< ref "/f14/package/kaffeine.md" >}}) | 352 | 590 | 59.7 | Thai <thai-l10n@googlegroups.com> | 
- | [kde-plasma-networkmanagement]({{< ref "/f14/package/kde-plasma-networkmanagement.md" >}}) | 1692 | 2870 | 59.0 | Thai <thai-l10n@googlegroups.com> | 
- | [gftp]({{< ref "/f14/package/gftp.md" >}}) | 1962 | 3375 | 58.1 | Thai <L10n@opentle.org> | 
- | [ejabberd]({{< ref "/f14/package/ejabberd.md" >}}) | 1012 | 1762 | 57.4 |  | 
- | [gedit]({{< ref "/f14/package/gedit.md" >}}) | 7008 | 12561 | 55.8 | Thai <thai-l10n@googlegroups.com> | 
- | [shutter]({{< ref "/f14/package/shutter.md" >}}) | 1576 | 2990 | 52.7 | Thai <th@li.org> | 
- | [gnome-user-docs]({{< ref "/f14/package/gnome-user-docs.md" >}}) | 20734 | 40632 | 51.0 | Thai <thai-l10n@googlegroups.com> | 
- | [tuxpaint-stamps]({{< ref "/f14/package/tuxpaint-stamps.md" >}}) | 1321 | 2617 | 50.5 | <l10n@opentle.org> | 
- | [beagle]({{< ref "/f14/package/beagle.md" >}}) | 440 | 881 | 49.9 | Thai <l10n.opentle.org> | 
- | [gwibber]({{< ref "/f14/package/gwibber.md" >}}) | 22 | 45 | 48.9 | Thai <th@li.org> | 
- | [eog]({{< ref "/f14/package/eog.md" >}}) | 2290 | 4794 | 47.8 | THAI <thai-l10n@googlegroups.com> | 
- | [meego-panel-zones]({{< ref "/f14/package/meego-panel-zones.md" >}}) | 26 | 55 | 47.3 | Thai <thai-l10n@google.com> | 
- | [gbrainy]({{< ref "/f14/package/gbrainy.md" >}}) | 2938 | 6435 | 45.7 | Thai <thai-l10n@googlegroups.com> | 
- | [sugar-browse]({{< ref "/f14/package/sugar-browse.md" >}}) | 26 | 57 | 45.6 | LANGUAGE <LL@li.org> | 
- | [deja-dup]({{< ref "/f14/package/deja-dup.md" >}}) | 1236 | 2759 | 44.8 | Thai <th@li.org> | 
- | [gnome-video-effects]({{< ref "/f14/package/gnome-video-effects.md" >}}) | 11 | 26 | 42.3 | Thai <thai-l10n@googlegroups.com> | 
- | [ario]({{< ref "/f14/package/ario.md" >}}) | 329 | 780 | 42.2 | Thai <th@li.org> | 
- | [Miro]({{< ref "/f14/package/Miro.md" >}}) | 1343 | 3336 | 40.3 | Thai <th@li.org> | 
- | [tuxpaint]({{< ref "/f14/package/tuxpaint.md" >}}) | 489 | 1247 | 39.2 |  | 
- | [paprefs]({{< ref "/f14/package/paprefs.md" >}}) | 51 | 131 | 38.9 | Thai <thai-l10n@googlegroups.com> | 
- | [transmission]({{< ref "/f14/package/transmission.md" >}}) | 573 | 1508 | 38.0 | Thai <l10n@opentle.org> | 
- | [system-config-keyboard]({{< ref "/f14/package/system-config-keyboard.md" >}}) | 70 | 187 | 37.4 | Thai <l10n@opentle.org> | 
- | [almanah]({{< ref "/f14/package/almanah.md" >}}) | 155 | 415 | 37.3 | Thai <thai-l10n@googlegroups.com> | 
- | [gtk2]({{< ref "/f14/package/gtk2.md" >}}) | 4741 | 13704 | 34.6 | Thai <thai-l10n@googlegroups.com> | 
- | [mingw32-gtk2]({{< ref "/f14/package/mingw32-gtk2.md" >}}) | 4741 | 13704 | 34.6 | Thai <thai-l10n@googlegroups.com> | 
- | [setroubleshoot]({{< ref "/f14/package/setroubleshoot.md" >}}) | 183 | 563 | 32.5 | Thai <thai-l10n@googlegroups.com> | 
- | [publican]({{< ref "/f14/package/publican.md" >}}) | 330 | 1094 | 30.2 | Thai <thai-l10n@googlegroups.com> | 
- | [gnome-do]({{< ref "/f14/package/gnome-do.md" >}}) | 183 | 612 | 29.9 | Thai <th@li.org> | 
- | [gtranslator]({{< ref "/f14/package/gtranslator.md" >}}) | 1288 | 4426 | 29.1 | THAI <thai-l10n@googlegroups.com> | 
- | [avogadro]({{< ref "/f14/package/avogadro.md" >}}) | 171 | 606 | 28.2 | Thai <th@li.org> | 
- | [gtk3]({{< ref "/f14/package/gtk3.md" >}}) | 3280 | 11998 | 27.3 | Thai <thai-l10n@googlegroups.com> | 
- | [dia]({{< ref "/f14/package/dia.md" >}}) | 1489 | 5711 | 26.1 | Thai <thai-l10n@googlegroups.com> | 
- | [terminator]({{< ref "/f14/package/terminator.md" >}}) | 83 | 339 | 24.5 | Thai <th@li.org> | 
- | [darktable]({{< ref "/f14/package/darktable.md" >}}) | 691 | 3180 | 21.7 | American English <> | 
- | [pootle]({{< ref "/f14/package/pootle.md" >}}) | 762 | 3543 | 21.5 | LANGUAGE <LL@li.org> | 
- | [iso-codes]({{< ref "/f14/package/iso-codes.md" >}}) | 3927 | 19696 | 19.9 | Thai | 
- | [vidalia]({{< ref "/f14/package/vidalia.md" >}}) | 2034 | 10375 | 19.6 | translations@vidalia-project.net | 
- | [koffice-kivio]({{< ref "/f14/package/koffice-kivio.md" >}}) | 1527 | 8417 | 18.1 | Thai <th@li.org> | 
- | [kmplayer]({{< ref "/f14/package/kmplayer.md" >}}) | 218 | 1248 | 17.5 | Thai <thai-l10n@googlegroups.com> | 
- | [xpad]({{< ref "/f14/package/xpad.md" >}}) | 62 | 363 | 17.1 | Thai <th@li.org> | 
- | [geeqie]({{< ref "/f14/package/geeqie.md" >}}) | 476 | 2909 | 16.4 | thai <th@li.org> | 
- | [pinta]({{< ref "/f14/package/pinta.md" >}}) | 151 | 978 | 15.4 | Thai <th@li.org> | 
- | [calibre]({{< ref "/f14/package/calibre.md" >}}) | 3043 | 19998 | 15.2 | Thai <th@li.org> | 
- | [homebank]({{< ref "/f14/package/homebank.md" >}}) | 222 | 1509 | 14.7 | Thai <th@li.org> | 
- | [system-config-language]({{< ref "/f14/package/system-config-language.md" >}}) | 47 | 323 | 14.6 | Thai <thai-l10n@googlegroups.com> | 
- | [NetworkManager]({{< ref "/f14/package/NetworkManager.md" >}}) | 242 | 1677 | 14.4 | Thai <thai-l10n@googlegroups.com> | 
- | [inkscape]({{< ref "/f14/package/inkscape.md" >}}) | 3495 | 26528 | 13.2 | Thai <l10n.opentle.org> | 
- | [nemiver]({{< ref "/f14/package/nemiver.md" >}}) | 116 | 902 | 12.9 | Thai <thai-l10n@googlegroups.com> | 
- | [bittorrent]({{< ref "/f14/package/bittorrent.md" >}}) | 487 | 3906 | 12.5 | LANGUAGE <LL@li.org> | 
- | [pidgin]({{< ref "/f14/package/pidgin.md" >}}) | 1972 | 18328 | 10.8 | Thai <l10n@opentle.org> | 
- | [PackageKit]({{< ref "/f14/package/PackageKit.md" >}}) | 168 | 1619 | 10.4 | LANGUAGE <LL@li.org> | 
- | [filezilla]({{< ref "/f14/package/filezilla.md" >}}) | 852 | 9102 | 9.4 | MyCOOL Application <LL@li.org> | 
- | [gourmet]({{< ref "/f14/package/gourmet.md" >}}) | 320 | 3647 | 8.8 | Thai <th@li.org> | 
- | [tasks]({{< ref "/f14/package/tasks.md" >}}) | 23 | 301 | 7.6 | Thai <thai-l10n@googlegroups.com> | 
- | [libmx]({{< ref "/f14/package/libmx.md" >}}) | 3 | 40 | 7.5 | Thai <thai-l10n@googlegroups.com> | 
- | [nbtk]({{< ref "/f14/package/nbtk.md" >}}) | 3 | 44 | 6.8 | Thai <thai-l10n@googlegroups.com> | 
- | [sugar-tamtam]({{< ref "/f14/package/sugar-tamtam.md" >}}) | 140 | 2070 | 6.8 | LANGUAGE <LL@li.org> | 
- | [libvirt]({{< ref "/f14/package/libvirt.md" >}}) | 1098 | 20546 | 5.3 | none | 
- | [backintime]({{< ref "/f14/package/backintime.md" >}}) | 46 | 919 | 5.0 | Thai <th@li.org> | 
- | [gnome-color-manager]({{< ref "/f14/package/gnome-color-manager.md" >}}) | 28 | 742 | 3.8 | Thai <thai-l10n@googlegroups.com> | 
- | [wine]({{< ref "/f14/package/wine.md" >}}) | 427 | 11786 | 3.6 | none | 
- | [manaworld]({{< ref "/f14/package/manaworld.md" >}}) | 57 | 2484 | 2.3 | Thai <th@li.org> | 
- | [bzr-explorer]({{< ref "/f14/package/bzr-explorer.md" >}}) | 33 | 1637 | 2.0 | Thai <th@li.org> | 
- | [aria2]({{< ref "/f14/package/aria2.md" >}}) | 80 | 4630 | 1.7 | Thai <th@li.org> | 
- | [sugar-turtleart]({{< ref "/f14/package/sugar-turtleart.md" >}}) | 13 | 1208 | 1.1 | LANGUAGE <walter@sugarlabs.org> | 
- | [gpredict]({{< ref "/f14/package/gpredict.md" >}}) | 53 | 6042 | 0.9 | Thai <th@li.org> | 
- | [qbzr]({{< ref "/f14/package/qbzr.md" >}}) | 7 | 1281 | 0.5 | Thai <th@li.org> | 
- | [gmpc]({{< ref "/f14/package/gmpc.md" >}}) | 6 | 1444 | 0.4 | Thai <th@li.org> | 
- | [awn-extras-applets]({{< ref "/f14/package/awn-extras-applets.md" >}}) | 27 | 7205 | 0.4 | Thai <th@li.org> | 
- | [onboard]({{< ref "/f14/package/onboard.md" >}}) | 1 | 368 | 0.3 | Thai <th@li.org> | 
- | [ailurus]({{< ref "/f14/package/ailurus.md" >}}) | 0 | 8446 | 0.0 | none | 
- | [avant-window-navigator]({{< ref "/f14/package/avant-window-navigator.md" >}}) | 0 | 1655 | 0.0 | Thai <th@li.org> | 
- | [etoys]({{< ref "/f14/package/etoys.md" >}}) | 0 | 29994 | 0.0 |  | 
- | [imsettings]({{< ref "/f14/package/imsettings.md" >}}) | 0 | 979 | 0.0 | none | 
- | [libfm]({{< ref "/f14/package/libfm.md" >}}) | 0 | 659 | 0.0 | LANGUAGE <LL@li.org> | 
- | [libgxim]({{< ref "/f14/package/libgxim.md" >}}) | 0 | 130 | 0.0 | none | 
- | [lxinput]({{< ref "/f14/package/lxinput.md" >}}) | 0 | 70 | 0.0 | LANGUAGE <LL@li.org> | 
- | [lxsession]({{< ref "/f14/package/lxsession.md" >}}) | 0 | 37 | 0.0 | LANGUAGE <LL@li.org> | 
- | [olpc-switch-desktop]({{< ref "/f14/package/olpc-switch-desktop.md" >}}) | 0 | 158 | 0.0 | LANGUAGE <LL@li.org> | 
- | [pcmanfm]({{< ref "/f14/package/pcmanfm.md" >}}) | 0 | 538 | 0.0 | LANGUAGE <LL@li.org> | 
- | [policycoreutils]({{< ref "/f14/package/policycoreutils.md" >}}) | 0 | 1470 | 0.0 | LANGUAGE <LL@li.org> | 
- | [rabbitvcs]({{< ref "/f14/package/rabbitvcs.md" >}}) | 0 | 1524 | 0.0 | Thai <th@li.org> | 
- | [setroubleshoot-plugins]({{< ref "/f14/package/setroubleshoot-plugins.md" >}}) | 0 | 7818 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar]({{< ref "/f14/package/sugar.md" >}}) | 0 | 234 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-base]({{< ref "/f14/package/sugar-base.md" >}}) | 0 | 5 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-calculator]({{< ref "/f14/package/sugar-calculator.md" >}}) | 0 | 593 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-clock]({{< ref "/f14/package/sugar-clock.md" >}}) | 0 | 38 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-finance]({{< ref "/f14/package/sugar-finance.md" >}}) | 0 | 142 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-imageviewer]({{< ref "/f14/package/sugar-imageviewer.md" >}}) | 0 | 17 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-infoslicer]({{< ref "/f14/package/sugar-infoslicer.md" >}}) | 0 | 177 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-jukebox]({{< ref "/f14/package/sugar-jukebox.md" >}}) | 0 | 10 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-log]({{< ref "/f14/package/sugar-log.md" >}}) | 0 | 100 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-memorize]({{< ref "/f14/package/sugar-memorize.md" >}}) | 0 | 52 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-moon]({{< ref "/f14/package/sugar-moon.md" >}}) | 0 | 90 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-physics]({{< ref "/f14/package/sugar-physics.md" >}}) | 0 | 22 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-playgo]({{< ref "/f14/package/sugar-playgo.md" >}}) | 0 | 85 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-terminal]({{< ref "/f14/package/sugar-terminal.md" >}}) | 0 | 6 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-toolkit]({{< ref "/f14/package/sugar-toolkit.md" >}}) | 0 | 59 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-view-slides]({{< ref "/f14/package/sugar-view-slides.md" >}}) | 0 | 7 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-visualmatch]({{< ref "/f14/package/sugar-visualmatch.md" >}}) | 0 | 58 | 0.0 | LANGUAGE <LL@li.org> | 
- | [syncevolution]({{< ref "/f14/package/syncevolution.md" >}}) | 0 | 505 | 0.0 | Thai <thai-l10n@googlegroups.com> | 
- | [system-config-date]({{< ref "/f14/package/system-config-date.md" >}}) | 0 | 466 | 0.0 | LANGUAGE <LL@li.org> | 
- | [system-config-kdump]({{< ref "/f14/package/system-config-kdump.md" >}}) | 0 | 807 | 0.0 | LANGUAGE <LL@li.org> | 
- | [system-config-nfs-docs]({{< ref "/f14/package/system-config-nfs-docs.md" >}}) | 0 | 1192 | 0.0 | LANGUAGE <LL@li.org> | 
- | [system-config-samba-docs]({{< ref "/f14/package/system-config-samba-docs.md" >}}) | 0 | 1195 | 0.0 | LANGUAGE <LL@li.org> | 
- | [system-config-services-docs]({{< ref "/f14/package/system-config-services-docs.md" >}}) | 0 | 638 | 0.0 | LANGUAGE <LL@li.org> | 
- | [system-config-users-docs]({{< ref "/f14/package/system-config-users-docs.md" >}}) | 0 | 1061 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [GConf2](/f14/package/GConf2) | 4035 | 4035 | 100.0 | Thai <thai-l10n@googlegroups.com> | 
+ | [NetworkManager-openswan](/f14/package/NetworkManager-openswan) | 328 | 328 | 100.0 | Thai <l10n@opentle.org> | 
+ | [NetworkManager-openvpn](/f14/package/NetworkManager-openvpn) | 392 | 392 | 100.0 | Thai <l10n.opentle.org> | 
+ | [NetworkManager-pptp](/f14/package/NetworkManager-pptp) | 584 | 584 | 100.0 | Thai <l10n@opentle.org> | 
+ | [NetworkManager-vpnc](/f14/package/NetworkManager-vpnc) | 328 | 328 | 100.0 | Thai <l10n@opentle.org> | 
+ | [alacarte](/f14/package/alacarte) | 42 | 42 | 100.0 | Thai <l10n@opentle.org> | 
+ | [anerley](/f14/package/anerley) | 5 | 5 | 100.0 | Thai <thai-l10n@googlegroups.com> | 
+ | [anjuta](/f14/package/anjuta) | 21858 | 21858 | 100.0 | Thai <thai-l10n@googlegroups.com> | 
+ | [at-spi](/f14/package/at-spi) | 61 | 61 | 100.0 | Thai <thai-l10n@googlegroups.com> | 
+ | [at-spi2-atk](/f14/package/at-spi2-atk) | 61 | 61 | 100.0 | Thai <thai-l10n@googlegroups.com> | 
+ | [banshee](/f14/package/banshee) | 2409 | 2409 | 100.0 | Thai <l10n@opentle.org> | 
+ | [bisho](/f14/package/bisho) | 131 | 131 | 100.0 | Thai <thai-l10n@googlegroups.com> | 
+ | [bison](/f14/package/bison) | 52 | 52 | 100.0 | Thai <translation-team-th@lists.sourceforge.net> | 
+ | [bognor-regis](/f14/package/bognor-regis) | 27 | 27 | 100.0 | Thai <thai-l10n@googlegroups.com> | 
+ | [brasero](/f14/package/brasero) | 5425 | 5425 | 100.0 | Thai <thai-l10n@googlegroups.com> | 
+ | [cheese](/f14/package/cheese) | 2927 | 2927 | 100.0 | Thai <thai-l10n@googlegroups.com> | 
+ | [control-center](/f14/package/control-center) | 3420 | 3420 | 100.0 | Thai <thai-l10n@googlegroups.com> | 
+ | [dasher](/f14/package/dasher) | 528 | 528 | 100.0 | Thai <thai-l10n@googlegroups.com> | 
+ | [dates](/f14/package/dates) | 239 | 239 | 100.0 | Thai <thai-l10n@googlegroups.com> | 
+ | [deskbar-applet](/f14/package/deskbar-applet) | 1670 | 1670 | 100.0 | Thai <thai-l10n@googlegroups.com> | 
+ | [desktop-effects](/f14/package/desktop-effects) | 66 | 66 | 100.0 | Thai <thai-l10n@googlegroups.com> | 
+ | [devhelp](/f14/package/devhelp) | 414 | 414 | 100.0 | Thai <thai-l10n@googlegroups.com> | 
+ | [dialog](/f14/package/dialog) | 25 | 25 | 100.0 | Thai <seksan.poltree@gmail.com> | 
+ | [empathy](/f14/package/empathy) | 3199 | 3199 | 100.0 | Thai <thai-l10n@googlegroups.com> | 
+ | [epiphany](/f14/package/epiphany) | 3073 | 3073 | 100.0 | Thai <thai-l10n@googlegroups.com> | 
+ | [epiphany-extensions](/f14/package/epiphany-extensions) | 1046 | 1046 | 100.0 | Thai <thai-l10n@googlegroups.com> | 
+ | [evince](/f14/package/evince) | 1397 | 1397 | 100.0 | Thai <thai-l10n@googlegroups.com> | 
+ | [evolution-exchange](/f14/package/evolution-exchange) | 1347 | 1347 | 100.0 | Thai <thai-l10n@googlegroups.com> | 
+ | [evolution-mapi](/f14/package/evolution-mapi) | 341 | 341 | 100.0 | Thai <thai-l10n@googlegroups.com> | 
+ | [evolution-rss](/f14/package/evolution-rss) | 674 | 674 | 100.0 | Thai <thai-l10n@googlegroups.com> | 
+ | [file-roller](/f14/package/file-roller) | 1370 | 1370 | 100.0 | Thai <thai-l10n@googlegroups.com> | 
+ | [fontaine](/f14/package/fontaine) | 15 | 15 | 100.0 | LANGUAGE | 
+ | [gcalctool](/f14/package/gcalctool) | 1282 | 1282 | 100.0 | Thai <thai-l10n@googlegroups.com> | 
+ | [gcompris](/f14/package/gcompris) | 10201 | 10201 | 100.0 | Thai <thai-l10n@googlegroups.com> | 
+ | [gdm](/f14/package/gdm) | 1305 | 1305 | 100.0 | Thai <thai-l10n@googlegroups.com> | 
+ | [gedit-plugins](/f14/package/gedit-plugins) | 198 | 198 | 100.0 | Thai <thai-l10n@googlegroups.com | 
+ | [ggz-base-libs](/f14/package/ggz-base-libs) | 74 | 74 | 100.0 | Thai <thai-l10n@googlegroups.com> | 
+ | [ggz-gtk-client](/f14/package/ggz-gtk-client) | 723 | 723 | 100.0 | Thai <thai-l10n@googlegroups.com> | 
+ | [glade3](/f14/package/glade3) | 4613 | 4613 | 100.0 | Thai <thai-l10n@googlegroups.com> | 
+ | [gnome-backgrounds](/f14/package/gnome-backgrounds) | 23 | 23 | 100.0 | Thai | 
+ | [gnome-desktop](/f14/package/gnome-desktop) | 432 | 432 | 100.0 | Thai <thai-l10n@googlegroups.com> | 
+ | [gnome-desktop3](/f14/package/gnome-desktop3) | 432 | 432 | 100.0 | Thai <thai-l10n@googlegroups.com> | 
+ | [gnome-doc-utils](/f14/package/gnome-doc-utils) | 251 | 251 | 100.0 | Thai <thai-l10n@googlegroups.com> | 
+ | [gnome-games](/f14/package/gnome-games) | 7107 | 7107 | 100.0 | Thai <thai-l10n@googlegroups.com> | 
+ | [gnome-icon-theme](/f14/package/gnome-icon-theme) | 45 | 45 | 100.0 | Thai <thai-l10n@googlegroups.com> | 
+ | [gnome-keyring](/f14/package/gnome-keyring) | 1246 | 1246 | 100.0 | Thai <thai-l10n@googlegroups.com> | 
+ | [gnome-mag](/f14/package/gnome-mag) | 298 | 298 | 100.0 | Thai <thai-l10n@googlegroups.com> | 
+ | [gnome-media](/f14/package/gnome-media) | 2073 | 2073 | 100.0 | Thai <thai-l10n@googlegroups.com> | 
+ | [gnome-menus](/f14/package/gnome-menus) | 161 | 161 | 100.0 | Thai <thai-l10n@googlegroups.com> | 
+ | [gnome-netstatus](/f14/package/gnome-netstatus) | 1207 | 1207 | 100.0 | Thai <thai-l10n@googlegroups.com> | 
+ | [gnome-nettool](/f14/package/gnome-nettool) | 617 | 617 | 100.0 | Thai <thai-l10n@googlegroups.com> | 
+ | [gnome-panel](/f14/package/gnome-panel) | 6240 | 6240 | 100.0 | Thai <thai-l10n@googlegroups.com> | 
+ | [gnome-power-manager](/f14/package/gnome-power-manager) | 2727 | 2727 | 100.0 | Thai <thai-l10n@googlegroups.com> | 
+ | [gnome-screensaver](/f14/package/gnome-screensaver) | 989 | 989 | 100.0 | Thai <thai-l10n@googlegroups.com> | 
+ | [gnome-session](/f14/package/gnome-session) | 675 | 675 | 100.0 | Thai <thai-l10n@googlegroups.com> | 
+ | [gnome-settings-daemon](/f14/package/gnome-settings-daemon) | 1722 | 1722 | 100.0 | Thai <thai-l10n@googlegroups.com> | 
+ | [gnome-system-monitor](/f14/package/gnome-system-monitor) | 933 | 933 | 100.0 | Thai <thai-l10n@googlegroups.com> | 
+ | [gnome-terminal](/f14/package/gnome-terminal) | 4204 | 4204 | 100.0 | Thai <thai-l10n@googlegroups.com> | 
+ | [gnome-themes](/f14/package/gnome-themes) | 109 | 109 | 100.0 | Thai <thai-l10n@googlegroups.com> | 
+ | [gnome-user-share](/f14/package/gnome-user-share) | 333 | 333 | 100.0 | Thai <thai-l10n@googlegroups.com> | 
+ | [gnome-utils](/f14/package/gnome-utils) | 3921 | 3921 | 100.0 | Thai <thai-l10n@googlegroups.com> | 
+ | [gnome-vfs2](/f14/package/gnome-vfs2) | 1519 | 1519 | 100.0 | Thai <thai-l10n@googlegroups.com> | 
+ | [gnote](/f14/package/gnote) | 2283 | 2283 | 100.0 | Thai <thai-l10n@googlegroups.com> | 
+ | [gparted](/f14/package/gparted) | 1534 | 1534 | 100.0 | Thai <thai-l10n@googlegroups.com> | 
+ | [gtk2-engines](/f14/package/gtk2-engines) | 119 | 119 | 100.0 | Thai <thai-l10n@googlegroups.com> | 
+ | [gtk3-engines](/f14/package/gtk3-engines) | 119 | 119 | 100.0 | Thai <thai-l10n@googlegroups.com> | 
+ | [gtkhtml3](/f14/package/gtkhtml3) | 713 | 713 | 100.0 | Thai <thai-l10n@googlegroups.com> | 
+ | [gtkspell](/f14/package/gtkspell) | 15 | 15 | 100.0 | Thai <translation-team-th@lists.sourceforge.net> | 
+ | [gvfs](/f14/package/gvfs) | 1936 | 1936 | 100.0 | Thai <thai-l10n@googlegroups.com> | 
+ | [gwget](/f14/package/gwget) | 553 | 553 | 100.0 | Thai <thai-l10n@googlegroups.com> | 
+ | [hamster-applet](/f14/package/hamster-applet) | 250 | 250 | 100.0 | Thai <thai-l10n@googlegroups.com> | 
+ | [iok](/f14/package/iok) | 142 | 142 | 100.0 | Thai <thai-l10n@googlegroups.com> | 
+ | [kdevelop](/f14/package/kdevelop) | 14 | 14 | 100.0 | Thai <thai-l10n@googlegroups.com> | 
+ | [kdevplatform](/f14/package/kdevplatform) | 250 | 250 | 100.0 | Thai <thai-l10n@googlegroups.com> | 
+ | [libbonobo](/f14/package/libbonobo) | 543 | 543 | 100.0 | Thai <thai-l10n@googlegroups.com> | 
+ | [libbonoboui](/f14/package/libbonoboui) | 368 | 368 | 100.0 | Thai <thai-l10n@googlegroups.com> | 
+ | [libepc](/f14/package/libepc) | 146 | 146 | 100.0 | Thai <thai-l10n@googlegroups.com> | 
+ | [libgdl](/f14/package/libgdl) | 611 | 611 | 100.0 | Thai <thai-l10n@googlegroups.com> | 
+ | [libgnome](/f14/package/libgnome) | 1773 | 1773 | 100.0 | Thai <thai-l10n@googlegroups.com> | 
+ | [libgnome-keyring](/f14/package/libgnome-keyring) | 44 | 44 | 100.0 | Thai <thai-l10n@googlegroups.com> | 
+ | [libgnomecanvas](/f14/package/libgnomecanvas) | 378 | 378 | 100.0 | Thai <thai-l10n@googlegroups.com> | 
+ | [libgnomecups](/f14/package/libgnomecups) | 11 | 11 | 100.0 | Thai <l10n@opentle.org> | 
+ | [libgnomekbd](/f14/package/libgnomekbd) | 286 | 286 | 100.0 | Thai <thai-l10n@googlegroups.com> | 
+ | [libgnomeprint22](/f14/package/libgnomeprint22) | 168 | 168 | 100.0 | Thai <L10n@opentle.org> | 
+ | [libgnomeprintui22](/f14/package/libgnomeprintui22) | 481 | 481 | 100.0 | Thai <L10n@opentle.org> | 
+ | [libgnomeui](/f14/package/libgnomeui) | 1309 | 1309 | 100.0 | Thai <thai-l10n@googlegroups.com> | 
+ | [libgtop2](/f14/package/libgtop2) | 126 | 126 | 100.0 | Thai <l10n@opentle.org> | 
+ | [libsocialweb](/f14/package/libsocialweb) | 148 | 148 | 100.0 | Thai <thai-l10n@googlegroups.com> | 
+ | [libwnck](/f14/package/libwnck) | 1124 | 1124 | 100.0 | Thai <thai-l10n@googlegroups.com> | 
+ | [liveusb-creator](/f14/package/liveusb-creator) | 480 | 480 | 100.0 | Thai <thai-l10n@googlegroups.com> | 
+ | [lxmenu-data](/f14/package/lxmenu-data) | 97 | 97 | 100.0 | Thai <l10n@opentle.org> | 
+ | [metacity](/f14/package/metacity) | 3798 | 3798 | 100.0 | Thai <thai-l10n@googlegroups.com> | 
+ | [mingw32-gtkhtml3](/f14/package/mingw32-gtkhtml3) | 713 | 713 | 100.0 | Thai <thai-l10n@googlegroups.com> | 
+ | [moblin-panel-applications](/f14/package/moblin-panel-applications) | 5 | 5 | 100.0 | Thai <thai-l10n@googlegroups.com> | 
+ | [moblin-panel-media](/f14/package/moblin-panel-media) | 55 | 55 | 100.0 | Thai <thai-l10n@googlegroups.com> | 
+ | [moblin-panel-myzone](/f14/package/moblin-panel-myzone) | 74 | 74 | 100.0 | Thai <thai-l10n@googlegroups.com> | 
+ | [moblin-panel-people](/f14/package/moblin-panel-people) | 68 | 68 | 100.0 | Thai <thai-l10n@googlegroups.com> | 
+ | [moblin-panel-status](/f14/package/moblin-panel-status) | 76 | 76 | 100.0 | Thai <thai-l10n@googlegroups.com> | 
+ | [mousetweaks](/f14/package/mousetweaks) | 730 | 730 | 100.0 | Thai <thai-l10n@googlegroups.com> | 
+ | [mutter](/f14/package/mutter) | 3864 | 3864 | 100.0 | Thai <thai-l10n@googlegroups.com> | 
+ | [mutter-mbl](/f14/package/mutter-mbl) | 3864 | 3864 | 100.0 | Thai <thai-l10n@googlegroups.com> | 
+ | [mutter-moblin](/f14/package/mutter-moblin) | 52 | 52 | 100.0 | Thai <thai-l10n@google.com> | 
+ | [nautilus](/f14/package/nautilus) | 8869 | 8869 | 100.0 | Thai <thai-l10n@googlegroups.com> | 
+ | [nautilus-open-terminal](/f14/package/nautilus-open-terminal) | 158 | 158 | 100.0 | Thai <thai-l10n@googlegroups.com> | 
+ | [nautilus-sendto](/f14/package/nautilus-sendto) | 308 | 308 | 100.0 | Thai <thai-l10n@googlegroups.com> | 
+ | [newt](/f14/package/newt) | 4 | 4 | 100.0 | Thai <l10n@opentle.org> | 
+ | [pessulus](/f14/package/pessulus) | 130 | 130 | 100.0 | Thai <thai-l10n@googlegroups.com> | 
+ | [pino](/f14/package/pino) | 352 | 352 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [polkit-gnome](/f14/package/polkit-gnome) | 311 | 311 | 100.0 | Thai <thai-l10n@googlegroups.com> | 
+ | [redhat-menus](/f14/package/redhat-menus) | 261 | 261 | 100.0 | Thai <thai-l10n@googlegroups.com> | 
+ | [rhythmbox](/f14/package/rhythmbox) | 4934 | 4934 | 100.0 | Thai <thai-l10n@googlegroups.com> | 
+ | [sabayon](/f14/package/sabayon) | 743 | 743 | 100.0 | Thai <thai-l10n@googlegroups.com> | 
+ | [scim-thai](/f14/package/scim-thai) | 78 | 78 | 100.0 | Thai <l10n@opentle.org> | 
+ | [seahorse](/f14/package/seahorse) | 3061 | 3061 | 100.0 | Thai <thai-l10n@googlegroups.com> | 
+ | [seahorse-plugins](/f14/package/seahorse-plugins) | 1163 | 1163 | 100.0 | Thai <thai-l10n@googlegroups.com> | 
+ | [setuptool](/f14/package/setuptool) | 55 | 55 | 100.0 | Thai <thai-l10n@googlegroups.com> | 
+ | [sound-juicer](/f14/package/sound-juicer) | 1022 | 1022 | 100.0 | Thai <thai-l10n@googlegroups.com> | 
+ | [sugar-connect](/f14/package/sugar-connect) | 31 | 31 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [system-config-nfs](/f14/package/system-config-nfs) | 332 | 332 | 100.0 | Thai <thai-l10n@googlegroups.com> | 
+ | [system-config-rootpassword](/f14/package/system-config-rootpassword) | 116 | 116 | 100.0 | Thai <thai-l10n@googlegroups.com> | 
+ | [tasque](/f14/package/tasque) | 196 | 196 | 100.0 | Thai <thai-l10n@googlegroups.com> | 
+ | [tomboy](/f14/package/tomboy) | 3104 | 3104 | 100.0 | Thai <thai-l10n@googlegroups.com> | 
+ | [totem](/f14/package/totem) | 2611 | 2611 | 100.0 | Thai <thai-l10n@googlegroups.com> | 
+ | [totem-pl-parser](/f14/package/totem-pl-parser) | 28 | 28 | 100.0 | Thai <thai-l10n@googlegroups.com> | 
+ | [tracker](/f14/package/tracker) | 1391 | 1391 | 100.0 | Thai <thai-l10n@googlegroups.com> | 
+ | [vinagre](/f14/package/vinagre) | 2703 | 2703 | 100.0 | Thai <thai-l10n@googlegroups.com> | 
+ | [vino](/f14/package/vino) | 1215 | 1215 | 100.0 | Thai <thai-l10n@googlegroups.com> | 
+ | [vte](/f14/package/vte) | 116 | 116 | 100.0 | Thai <l10n@opentle.org> | 
+ | [xdg-user-dirs](/f14/package/xdg-user-dirs) | 28 | 28 | 100.0 | Thai <thai-l10n@googlegroups.com> | 
+ | [yelp](/f14/package/yelp) | 1094 | 1094 | 100.0 | Thai <thai-l10n@googlegroups.com> | 
+ | [yelp-xsl](/f14/package/yelp-xsl) | 249 | 249 | 100.0 | Thai <thai-l10n@googlegroups.com> | 
+ | [zenity](/f14/package/zenity) | 612 | 612 | 100.0 | Thai <thai-l10n@googlegroups.com> | 
+ | [evolution](/f14/package/evolution) | 21172 | 21174 | 100.0 | Thai <thai-l10n@googlegroups.com> | 
+ | [ekiga](/f14/package/ekiga) | 4045 | 4048 | 99.9 | Thai <thai-l10n@googlegroups.com> | 
+ | [orca](/f14/package/orca) | 3694 | 3704 | 99.7 | Thai <thai-l10n@googlegroups.com> | 
+ | [kiconedit](/f14/package/kiconedit) | 724 | 726 | 99.7 | Thai <thai-l10n@googlegroups.com> | 
+ | [contacts](/f14/package/contacts) | 284 | 285 | 99.6 | Thai <thai-l10n@googlegroups.com> | 
+ | [evolution-data-server](/f14/package/evolution-data-server) | 4888 | 4910 | 99.6 | Thai <thai-l10n@googlegroups.com> | 
+ | [gucharmap](/f14/package/gucharmap) | 858 | 863 | 99.4 | Thai <thai-l10n@googlegroups.com> | 
+ | [gnome-bluetooth](/f14/package/gnome-bluetooth) | 2033 | 2045 | 99.4 | Thai <thai-l10n@googlegroups.com> | 
+ | [gnome-applets](/f14/package/gnome-applets) | 3332 | 3352 | 99.4 | Thai <thai-10n@googlegroups.com> | 
+ | [gtksourceview3](/f14/package/gtksourceview3) | 1416 | 1426 | 99.3 | Thai <thai-l10n@googlegroups.com> | 
+ | [kerry](/f14/package/kerry) | 482 | 486 | 99.2 | Thai <l10n@opentle.org> | 
+ | [gconf-editor](/f14/package/gconf-editor) | 2810 | 2834 | 99.2 | Thai <thai-l10n@googlegroups.com> | 
+ | [xchat-gnome](/f14/package/xchat-gnome) | 6064 | 6116 | 99.1 | Thai <thai-l10n@googlegroups.com> | 
+ | [virtaal](/f14/package/virtaal) | 1161 | 1171 | 99.1 | Thai <thai-l10n@googlegroups.com> | 
+ | [publican-fedora](/f14/package/publican-fedora) | 106 | 107 | 99.1 | Thai <thai-l10n@googlegroups.com> | 
+ | [gdk-pixbuf2](/f14/package/gdk-pixbuf2) | 1297 | 1313 | 98.8 | Thai <thai-l10n@googlegroups.com> | 
+ | [mingw32-gdk-pixbuf](/f14/package/mingw32-gdk-pixbuf) | 1297 | 1313 | 98.8 | Thai <thai-l10n@googlegroups.com> | 
+ | [grass](/f14/package/grass) | 41586 | 42167 | 98.6 | Thai <grass-translations@lists.osgeo.org> | 
+ | [system-config-date-docs](/f14/package/system-config-date-docs) | 728 | 739 | 98.5 | Thai <thai-l10n@googlegroups.com> | 
+ | [gtksourceview2](/f14/package/gtksourceview2) | 1103 | 1120 | 98.5 | Thai <thai-l10n@googlegroups.com> | 
+ | [gnome-disk-utility](/f14/package/gnome-disk-utility) | 4472 | 4544 | 98.4 | Thai <thai-l10n@googlegroups.com> | 
+ | [atk](/f14/package/atk) | 369 | 375 | 98.4 | Thai <thai-l10n@googlegroups.com> | 
+ | [mingw32-atk](/f14/package/mingw32-atk) | 369 | 375 | 98.4 | Thai <thai-l10n@googlegroups.com> | 
+ | [poedit](/f14/package/poedit) | 1143 | 1162 | 98.4 | LANGUAGE <LL@li.org> | 
+ | [gnome-mime-data](/f14/package/gnome-mime-data) | 860 | 887 | 97.0 | Thai <L10n@opentle.org> | 
+ | [kgrab](/f14/package/kgrab) | 358 | 370 | 96.8 | Thai <thai-l10n@googlegroups.com> | 
+ | [grep](/f14/package/grep) | 914 | 950 | 96.2 | Thai <translation-team-th@lists.sourceforge.net> | 
+ | [kaudiocreator](/f14/package/kaudiocreator) | 1091 | 1136 | 96.0 | Thai <thai-l10n@googlegroups.com> | 
+ | [sugar-write](/f14/package/sugar-write) | 70 | 73 | 95.9 | LANGUAGE <LL@li.org> | 
+ | [imp](/f14/package/imp) | 1754 | 1846 | 95.0 | i18n@lists.horde.org | 
+ | [gok](/f14/package/gok) | 1781 | 1915 | 93.0 | Thai <thai-l10n@googlegroups.com> | 
+ | [sugar-pippy](/f14/package/sugar-pippy) | 37 | 40 | 92.5 | LANGUAGE <LL@li.org> | 
+ | [kwebkitpart](/f14/package/kwebkitpart) | 440 | 477 | 92.2 | Thai <thai-l10n@googlegroups.com> | 
+ | [gtksourceview](/f14/package/gtksourceview) | 820 | 891 | 92.0 | Thai <l10n@opentle.org> | 
+ | [konq-plugins](/f14/package/konq-plugins) | 1555 | 1692 | 91.9 | Thai <thai-l10n@googlegroups.com> | 
+ | [xchat](/f14/package/xchat) | 4605 | 5027 | 91.6 | Thai <translation-team-th@lists.sourceforge.net> | 
+ | [polkit-kde](/f14/package/polkit-kde) | 82 | 92 | 89.1 | Thai <thai-l10n@googlegroups.com> | 
+ | [system-config-users](/f14/package/system-config-users) | 1285 | 1456 | 88.3 | LANGUAGE <LL@li.org> | 
+ | [kdevelop-php](/f14/package/kdevelop-php) | 204 | 232 | 87.9 | Thai <thai-l10n@googlegroups.com> | 
+ | [gthumb](/f14/package/gthumb) | 2320 | 2775 | 83.6 | Thai <thai-l10n@googlegroups.com> | 
+ | [kipi-plugins](/f14/package/kipi-plugins) | 13329 | 16077 | 82.9 | Thai <thai-l10n@googlegroups.com> | 
+ | [kcoloredit](/f14/package/kcoloredit) | 228 | 278 | 82.0 | Thai <thai-l10n@googlegroups.com> | 
+ | [system-config-samba](/f14/package/system-config-samba) | 431 | 533 | 80.9 | LANGUAGE <LL@li.org> | 
+ | [dpkg](/f14/package/dpkg) | 6144 | 7604 | 80.8 | Thai <thai-l10n@googlegroups.com> | 
+ | [firstboot](/f14/package/firstboot) | 528 | 654 | 80.7 | Thai <l10n@opentle.org> | 
+ | [Django](/f14/package/Django) | 3208 | 3975 | 80.7 | Thai <> | 
+ | [system-config-printer](/f14/package/system-config-printer) | 2501 | 3120 | 80.2 | LANGUAGE <LL@li.org> | 
+ | [sugar-read](/f14/package/sugar-read) | 21 | 27 | 77.8 | LANGUAGE <LL@li.org> | 
+ | [sugar-chat](/f14/package/sugar-chat) | 16 | 21 | 76.2 | LANGUAGE <LL@li.org> | 
+ | [xmms](/f14/package/xmms) | 2616 | 3443 | 76.0 | Thai <l10n@opentle.org> | 
+ | [yakuake](/f14/package/yakuake) | 1091 | 1439 | 75.8 | Thai <thai-l10n@googlegroups.com> | 
+ | [hello](/f14/package/hello) | 142 | 193 | 73.6 | Thai <translation-team-th@lists.sourceforge.net> | 
+ | [clamtk](/f14/package/clamtk) | 589 | 805 | 73.2 | Thai <th@li.org> | 
+ | [rekonq](/f14/package/rekonq) | 1182 | 1617 | 73.1 | Thai <thai-l10n@googlegroups.com> | 
+ | [nautilus-actions](/f14/package/nautilus-actions) | 1132 | 1554 | 72.8 | Thai <l10n.opentle.org> | 
+ | [digikam](/f14/package/digikam) | 17197 | 23653 | 72.7 | Thai <thai-l10n@googlegroups.com> | 
+ | [bluedevil](/f14/package/bluedevil) | 419 | 604 | 69.4 | Thai <thai-l10n@googlegroups.com> | 
+ | [sugar-surf](/f14/package/sugar-surf) | 36 | 52 | 69.2 | LANGUAGE <LL@li.org> | 
+ | [gnome-applet-window-picker](/f14/package/gnome-applet-window-picker) | 20 | 29 | 69.0 | Thai | 
+ | [glib2](/f14/package/glib2) | 2523 | 3690 | 68.4 | Thai <thai-l10n@googlegroups.com> | 
+ | [mingw32-glib2](/f14/package/mingw32-glib2) | 2523 | 3690 | 68.4 | Thai <thai-l10n@googlegroups.com> | 
+ | [anaconda](/f14/package/anaconda) | 6619 | 9741 | 67.9 | Thai <thai-l10n@googlegroups.com> | 
+ | [shotwell](/f14/package/shotwell) | 2468 | 3707 | 66.6 | LANGUAGE <LL@li.org> | 
+ | [akonadi-googledata](/f14/package/akonadi-googledata) | 57 | 86 | 66.3 | Thai <thai-l10n@googlegroups.com> | 
+ | [sos](/f14/package/sos) | 174 | 267 | 65.2 | Thai <thai-l10n@googlegroups.com> | 
+ | [gnome-shell](/f14/package/gnome-shell) | 132 | 204 | 64.7 | Thai <thai-l10n@googlegroups.com> | 
+ | [pavucontrol](/f14/package/pavucontrol) | 151 | 237 | 63.7 | Thai <thai-l10n@googlegroups.com> | 
+ | [libgweather](/f14/package/libgweather) | 3806 | 6051 | 62.9 | Thai <thai-10n@googlegroups.com> | 
+ | [im-chooser](/f14/package/im-chooser) | 132 | 213 | 62.0 | Thai <thai-l10n@googlegroups.com> | 
+ | [pykickstart](/f14/package/pykickstart) | 209 | 338 | 61.8 | Thai <thai-l10n@googlegroups.com> | 
+ | [stellarium](/f14/package/stellarium) | 2076 | 3362 | 61.7 | MicKi Alone <Need24Get@msn.com> | 
+ | [k3b](/f14/package/k3b) | 12333 | 20423 | 60.4 | Thai <thai-l10n@googlegroups.com> | 
+ | [gimp](/f14/package/gimp) | 6379 | 10637 | 60.0 | Thai <l10n@opentle.org> | 
+ | [f-spot](/f14/package/f-spot) | 2031 | 3402 | 59.7 | Thai <thai-l10n@googlegroups.com> | 
+ | [kaffeine](/f14/package/kaffeine) | 352 | 590 | 59.7 | Thai <thai-l10n@googlegroups.com> | 
+ | [kde-plasma-networkmanagement](/f14/package/kde-plasma-networkmanagement) | 1692 | 2870 | 59.0 | Thai <thai-l10n@googlegroups.com> | 
+ | [gftp](/f14/package/gftp) | 1962 | 3375 | 58.1 | Thai <L10n@opentle.org> | 
+ | [ejabberd](/f14/package/ejabberd) | 1012 | 1762 | 57.4 |  | 
+ | [gedit](/f14/package/gedit) | 7008 | 12561 | 55.8 | Thai <thai-l10n@googlegroups.com> | 
+ | [shutter](/f14/package/shutter) | 1576 | 2990 | 52.7 | Thai <th@li.org> | 
+ | [gnome-user-docs](/f14/package/gnome-user-docs) | 20734 | 40632 | 51.0 | Thai <thai-l10n@googlegroups.com> | 
+ | [tuxpaint-stamps](/f14/package/tuxpaint-stamps) | 1321 | 2617 | 50.5 | <l10n@opentle.org> | 
+ | [beagle](/f14/package/beagle) | 440 | 881 | 49.9 | Thai <l10n.opentle.org> | 
+ | [gwibber](/f14/package/gwibber) | 22 | 45 | 48.9 | Thai <th@li.org> | 
+ | [eog](/f14/package/eog) | 2290 | 4794 | 47.8 | THAI <thai-l10n@googlegroups.com> | 
+ | [meego-panel-zones](/f14/package/meego-panel-zones) | 26 | 55 | 47.3 | Thai <thai-l10n@google.com> | 
+ | [gbrainy](/f14/package/gbrainy) | 2938 | 6435 | 45.7 | Thai <thai-l10n@googlegroups.com> | 
+ | [sugar-browse](/f14/package/sugar-browse) | 26 | 57 | 45.6 | LANGUAGE <LL@li.org> | 
+ | [deja-dup](/f14/package/deja-dup) | 1236 | 2759 | 44.8 | Thai <th@li.org> | 
+ | [gnome-video-effects](/f14/package/gnome-video-effects) | 11 | 26 | 42.3 | Thai <thai-l10n@googlegroups.com> | 
+ | [ario](/f14/package/ario) | 329 | 780 | 42.2 | Thai <th@li.org> | 
+ | [Miro](/f14/package/Miro) | 1343 | 3336 | 40.3 | Thai <th@li.org> | 
+ | [tuxpaint](/f14/package/tuxpaint) | 489 | 1247 | 39.2 |  | 
+ | [paprefs](/f14/package/paprefs) | 51 | 131 | 38.9 | Thai <thai-l10n@googlegroups.com> | 
+ | [transmission](/f14/package/transmission) | 573 | 1508 | 38.0 | Thai <l10n@opentle.org> | 
+ | [system-config-keyboard](/f14/package/system-config-keyboard) | 70 | 187 | 37.4 | Thai <l10n@opentle.org> | 
+ | [almanah](/f14/package/almanah) | 155 | 415 | 37.3 | Thai <thai-l10n@googlegroups.com> | 
+ | [gtk2](/f14/package/gtk2) | 4741 | 13704 | 34.6 | Thai <thai-l10n@googlegroups.com> | 
+ | [mingw32-gtk2](/f14/package/mingw32-gtk2) | 4741 | 13704 | 34.6 | Thai <thai-l10n@googlegroups.com> | 
+ | [setroubleshoot](/f14/package/setroubleshoot) | 183 | 563 | 32.5 | Thai <thai-l10n@googlegroups.com> | 
+ | [publican](/f14/package/publican) | 330 | 1094 | 30.2 | Thai <thai-l10n@googlegroups.com> | 
+ | [gnome-do](/f14/package/gnome-do) | 183 | 612 | 29.9 | Thai <th@li.org> | 
+ | [gtranslator](/f14/package/gtranslator) | 1288 | 4426 | 29.1 | THAI <thai-l10n@googlegroups.com> | 
+ | [avogadro](/f14/package/avogadro) | 171 | 606 | 28.2 | Thai <th@li.org> | 
+ | [gtk3](/f14/package/gtk3) | 3280 | 11998 | 27.3 | Thai <thai-l10n@googlegroups.com> | 
+ | [dia](/f14/package/dia) | 1489 | 5711 | 26.1 | Thai <thai-l10n@googlegroups.com> | 
+ | [terminator](/f14/package/terminator) | 83 | 339 | 24.5 | Thai <th@li.org> | 
+ | [darktable](/f14/package/darktable) | 691 | 3180 | 21.7 | American English <> | 
+ | [pootle](/f14/package/pootle) | 762 | 3543 | 21.5 | LANGUAGE <LL@li.org> | 
+ | [iso-codes](/f14/package/iso-codes) | 3927 | 19696 | 19.9 | Thai | 
+ | [vidalia](/f14/package/vidalia) | 2034 | 10375 | 19.6 | translations@vidalia-project.net | 
+ | [koffice-kivio](/f14/package/koffice-kivio) | 1527 | 8417 | 18.1 | Thai <th@li.org> | 
+ | [kmplayer](/f14/package/kmplayer) | 218 | 1248 | 17.5 | Thai <thai-l10n@googlegroups.com> | 
+ | [xpad](/f14/package/xpad) | 62 | 363 | 17.1 | Thai <th@li.org> | 
+ | [geeqie](/f14/package/geeqie) | 476 | 2909 | 16.4 | thai <th@li.org> | 
+ | [pinta](/f14/package/pinta) | 151 | 978 | 15.4 | Thai <th@li.org> | 
+ | [calibre](/f14/package/calibre) | 3043 | 19998 | 15.2 | Thai <th@li.org> | 
+ | [homebank](/f14/package/homebank) | 222 | 1509 | 14.7 | Thai <th@li.org> | 
+ | [system-config-language](/f14/package/system-config-language) | 47 | 323 | 14.6 | Thai <thai-l10n@googlegroups.com> | 
+ | [NetworkManager](/f14/package/NetworkManager) | 242 | 1677 | 14.4 | Thai <thai-l10n@googlegroups.com> | 
+ | [inkscape](/f14/package/inkscape) | 3495 | 26528 | 13.2 | Thai <l10n.opentle.org> | 
+ | [nemiver](/f14/package/nemiver) | 116 | 902 | 12.9 | Thai <thai-l10n@googlegroups.com> | 
+ | [bittorrent](/f14/package/bittorrent) | 487 | 3906 | 12.5 | LANGUAGE <LL@li.org> | 
+ | [pidgin](/f14/package/pidgin) | 1972 | 18328 | 10.8 | Thai <l10n@opentle.org> | 
+ | [PackageKit](/f14/package/PackageKit) | 168 | 1619 | 10.4 | LANGUAGE <LL@li.org> | 
+ | [filezilla](/f14/package/filezilla) | 852 | 9102 | 9.4 | MyCOOL Application <LL@li.org> | 
+ | [gourmet](/f14/package/gourmet) | 320 | 3647 | 8.8 | Thai <th@li.org> | 
+ | [tasks](/f14/package/tasks) | 23 | 301 | 7.6 | Thai <thai-l10n@googlegroups.com> | 
+ | [libmx](/f14/package/libmx) | 3 | 40 | 7.5 | Thai <thai-l10n@googlegroups.com> | 
+ | [nbtk](/f14/package/nbtk) | 3 | 44 | 6.8 | Thai <thai-l10n@googlegroups.com> | 
+ | [sugar-tamtam](/f14/package/sugar-tamtam) | 140 | 2070 | 6.8 | LANGUAGE <LL@li.org> | 
+ | [libvirt](/f14/package/libvirt) | 1098 | 20546 | 5.3 | none | 
+ | [backintime](/f14/package/backintime) | 46 | 919 | 5.0 | Thai <th@li.org> | 
+ | [gnome-color-manager](/f14/package/gnome-color-manager) | 28 | 742 | 3.8 | Thai <thai-l10n@googlegroups.com> | 
+ | [wine](/f14/package/wine) | 427 | 11786 | 3.6 | none | 
+ | [manaworld](/f14/package/manaworld) | 57 | 2484 | 2.3 | Thai <th@li.org> | 
+ | [bzr-explorer](/f14/package/bzr-explorer) | 33 | 1637 | 2.0 | Thai <th@li.org> | 
+ | [aria2](/f14/package/aria2) | 80 | 4630 | 1.7 | Thai <th@li.org> | 
+ | [sugar-turtleart](/f14/package/sugar-turtleart) | 13 | 1208 | 1.1 | LANGUAGE <walter@sugarlabs.org> | 
+ | [gpredict](/f14/package/gpredict) | 53 | 6042 | 0.9 | Thai <th@li.org> | 
+ | [qbzr](/f14/package/qbzr) | 7 | 1281 | 0.5 | Thai <th@li.org> | 
+ | [gmpc](/f14/package/gmpc) | 6 | 1444 | 0.4 | Thai <th@li.org> | 
+ | [awn-extras-applets](/f14/package/awn-extras-applets) | 27 | 7205 | 0.4 | Thai <th@li.org> | 
+ | [onboard](/f14/package/onboard) | 1 | 368 | 0.3 | Thai <th@li.org> | 
+ | [ailurus](/f14/package/ailurus) | 0 | 8446 | 0.0 | none | 
+ | [avant-window-navigator](/f14/package/avant-window-navigator) | 0 | 1655 | 0.0 | Thai <th@li.org> | 
+ | [etoys](/f14/package/etoys) | 0 | 29994 | 0.0 |  | 
+ | [imsettings](/f14/package/imsettings) | 0 | 979 | 0.0 | none | 
+ | [libfm](/f14/package/libfm) | 0 | 659 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [libgxim](/f14/package/libgxim) | 0 | 130 | 0.0 | none | 
+ | [lxinput](/f14/package/lxinput) | 0 | 70 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [lxsession](/f14/package/lxsession) | 0 | 37 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [olpc-switch-desktop](/f14/package/olpc-switch-desktop) | 0 | 158 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [pcmanfm](/f14/package/pcmanfm) | 0 | 538 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [policycoreutils](/f14/package/policycoreutils) | 0 | 1470 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [rabbitvcs](/f14/package/rabbitvcs) | 0 | 1524 | 0.0 | Thai <th@li.org> | 
+ | [setroubleshoot-plugins](/f14/package/setroubleshoot-plugins) | 0 | 7818 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar](/f14/package/sugar) | 0 | 234 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-base](/f14/package/sugar-base) | 0 | 5 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-calculator](/f14/package/sugar-calculator) | 0 | 593 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-clock](/f14/package/sugar-clock) | 0 | 38 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-finance](/f14/package/sugar-finance) | 0 | 142 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-imageviewer](/f14/package/sugar-imageviewer) | 0 | 17 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-infoslicer](/f14/package/sugar-infoslicer) | 0 | 177 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-jukebox](/f14/package/sugar-jukebox) | 0 | 10 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-log](/f14/package/sugar-log) | 0 | 100 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-memorize](/f14/package/sugar-memorize) | 0 | 52 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-moon](/f14/package/sugar-moon) | 0 | 90 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-physics](/f14/package/sugar-physics) | 0 | 22 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-playgo](/f14/package/sugar-playgo) | 0 | 85 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-terminal](/f14/package/sugar-terminal) | 0 | 6 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-toolkit](/f14/package/sugar-toolkit) | 0 | 59 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-view-slides](/f14/package/sugar-view-slides) | 0 | 7 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-visualmatch](/f14/package/sugar-visualmatch) | 0 | 58 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [syncevolution](/f14/package/syncevolution) | 0 | 505 | 0.0 | Thai <thai-l10n@googlegroups.com> | 
+ | [system-config-date](/f14/package/system-config-date) | 0 | 466 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [system-config-kdump](/f14/package/system-config-kdump) | 0 | 807 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [system-config-nfs-docs](/f14/package/system-config-nfs-docs) | 0 | 1192 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [system-config-samba-docs](/f14/package/system-config-samba-docs) | 0 | 1195 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [system-config-services-docs](/f14/package/system-config-services-docs) | 0 | 638 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [system-config-users-docs](/f14/package/system-config-users-docs) | 0 | 1061 | 0.0 | LANGUAGE <LL@li.org> | 
 {.sortable}
 
 

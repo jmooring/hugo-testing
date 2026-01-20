@@ -18,17 +18,17 @@ The package libsmbios (version 2.4.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [en_US]({{< ref "/f34/language/en_US.md" >}}) | 178 | 178 | 100.0 | /mnt/stockage/packages/f34/libsmbios/po/en_US.po | 
- | [en]({{< ref "/f34/language/en.md" >}}) | 4462 | 6561 | 68.0 | /mnt/stockage/packages/f34/libsmbios/po/en@quot.po/mnt/stockage/packages/f34/libsmbios/po/en@boldquot.po/mnt/stockage/packages/f34/libsmbios/po/en.po | 
- | [es]({{< ref "/f34/language/es.md" >}}) | 1132 | 2187 | 51.8 | /mnt/stockage/packages/f34/libsmbios/po/es.po | 
- | [de]({{< ref "/f34/language/de.md" >}}) | 0 | 2187 | 0.0 | /mnt/stockage/packages/f34/libsmbios/po/de.po | 
- | [fr]({{< ref "/f34/language/fr.md" >}}) | 0 | 2187 | 0.0 | /mnt/stockage/packages/f34/libsmbios/po/fr.po | 
- | [it]({{< ref "/f34/language/it.md" >}}) | 0 | 2187 | 0.0 | /mnt/stockage/packages/f34/libsmbios/po/it.po | 
- | [ja]({{< ref "/f34/language/ja.md" >}}) | 0 | 2187 | 0.0 | /mnt/stockage/packages/f34/libsmbios/po/ja.po | 
- | [ko]({{< ref "/f34/language/ko.md" >}}) | 0 | 2187 | 0.0 | /mnt/stockage/packages/f34/libsmbios/po/ko.po | 
- | [nl]({{< ref "/f34/language/nl.md" >}}) | 0 | 2187 | 0.0 | /mnt/stockage/packages/f34/libsmbios/po/nl.po | 
- | [zh_Hans]({{< ref "/f34/language/zh_Hans.md" >}}) | 0 | 2187 | 0.0 | /mnt/stockage/packages/f34/libsmbios/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f34/language/zh_Hant.md" >}}) | 0 | 2187 | 0.0 | /mnt/stockage/packages/f34/libsmbios/po/zh_TW.po | 
+ | [en_US](/f34/language/en_US) | 178 | 178 | 100.0 | /mnt/stockage/packages/f34/libsmbios/po/en_US.po | 
+ | [en](/f34/language/en) | 4462 | 6561 | 68.0 | /mnt/stockage/packages/f34/libsmbios/po/en@quot.po/mnt/stockage/packages/f34/libsmbios/po/en@boldquot.po/mnt/stockage/packages/f34/libsmbios/po/en.po | 
+ | [es](/f34/language/es) | 1132 | 2187 | 51.8 | /mnt/stockage/packages/f34/libsmbios/po/es.po | 
+ | [de](/f34/language/de) | 0 | 2187 | 0.0 | /mnt/stockage/packages/f34/libsmbios/po/de.po | 
+ | [fr](/f34/language/fr) | 0 | 2187 | 0.0 | /mnt/stockage/packages/f34/libsmbios/po/fr.po | 
+ | [it](/f34/language/it) | 0 | 2187 | 0.0 | /mnt/stockage/packages/f34/libsmbios/po/it.po | 
+ | [ja](/f34/language/ja) | 0 | 2187 | 0.0 | /mnt/stockage/packages/f34/libsmbios/po/ja.po | 
+ | [ko](/f34/language/ko) | 0 | 2187 | 0.0 | /mnt/stockage/packages/f34/libsmbios/po/ko.po | 
+ | [nl](/f34/language/nl) | 0 | 2187 | 0.0 | /mnt/stockage/packages/f34/libsmbios/po/nl.po | 
+ | [zh_Hans](/f34/language/zh_Hans) | 0 | 2187 | 0.0 | /mnt/stockage/packages/f34/libsmbios/po/zh_CN.po | 
+ | [zh_Hant](/f34/language/zh_Hant) | 0 | 2187 | 0.0 | /mnt/stockage/packages/f34/libsmbios/po/zh_TW.po | 
 {.sortable}
 
 

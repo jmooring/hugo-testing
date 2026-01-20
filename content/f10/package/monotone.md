@@ -18,13 +18,13 @@ The package monotone (version 0.45):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f10/language/de.md" >}}) | 9893 | 9893 | 100.0 | /mnt/stockage/packages/f10/monotone/po/de.po | 
- | [es]({{< ref "/f10/language/es.md" >}}) | 9531 | 9531 | 100.0 | /mnt/stockage/packages/f10/monotone/po/es.po | 
- | [sv]({{< ref "/f10/language/sv.md" >}}) | 9531 | 9674 | 98.5 | /mnt/stockage/packages/f10/monotone/po/sv.po | 
- | [ja]({{< ref "/f10/language/ja.md" >}}) | 4904 | 5219 | 94.0 | /mnt/stockage/packages/f10/monotone/po/ja.po | 
- | [it]({{< ref "/f10/language/it.md" >}}) | 8672 | 9893 | 87.7 | /mnt/stockage/packages/f10/monotone/po/it.po | 
- | [pt_BR]({{< ref "/f10/language/pt_BR.md" >}}) | 5392 | 6902 | 78.1 | /mnt/stockage/packages/f10/monotone/po/pt_BR.po | 
- | [fr]({{< ref "/f10/language/fr.md" >}}) | 5360 | 8812 | 60.8 | /mnt/stockage/packages/f10/monotone/po/fr.po | 
+ | [de](/f10/language/de) | 9893 | 9893 | 100.0 | /mnt/stockage/packages/f10/monotone/po/de.po | 
+ | [es](/f10/language/es) | 9531 | 9531 | 100.0 | /mnt/stockage/packages/f10/monotone/po/es.po | 
+ | [sv](/f10/language/sv) | 9531 | 9674 | 98.5 | /mnt/stockage/packages/f10/monotone/po/sv.po | 
+ | [ja](/f10/language/ja) | 4904 | 5219 | 94.0 | /mnt/stockage/packages/f10/monotone/po/ja.po | 
+ | [it](/f10/language/it) | 8672 | 9893 | 87.7 | /mnt/stockage/packages/f10/monotone/po/it.po | 
+ | [pt_BR](/f10/language/pt_BR) | 5392 | 6902 | 78.1 | /mnt/stockage/packages/f10/monotone/po/pt_BR.po | 
+ | [fr](/f10/language/fr) | 5360 | 8812 | 60.8 | /mnt/stockage/packages/f10/monotone/po/fr.po | 
 {.sortable}
 
 

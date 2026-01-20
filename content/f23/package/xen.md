@@ -18,12 +18,12 @@ The package xen (version 4.5.5):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f23/language/de.md" >}}) | 22 | 22 | 100.0 | /mnt/stockage/packages/f23/xen/tools/qemu-xen/po/de_DE.po | 
- | [fr]({{< ref "/f23/language/fr.md" >}}) | 22 | 22 | 100.0 | /mnt/stockage/packages/f23/xen/tools/qemu-xen/po/fr_FR.po | 
- | [hu]({{< ref "/f23/language/hu.md" >}}) | 22 | 22 | 100.0 | /mnt/stockage/packages/f23/xen/tools/qemu-xen/po/hu.po | 
- | [tr]({{< ref "/f23/language/tr.md" >}}) | 22 | 22 | 100.0 | /mnt/stockage/packages/f23/xen/tools/qemu-xen/po/tr.po | 
- | [it]({{< ref "/f23/language/it.md" >}}) | 11 | 22 | 50.0 | /mnt/stockage/packages/f23/xen/tools/qemu-xen/po/it.po | 
- | [error]({{< ref "/f23/language/error.md" >}}) | 0 | 22 | 0.0 | /mnt/stockage/packages/f23/xen/tools/qemu-xen/po/messages.po | 
+ | [de](/f23/language/de) | 22 | 22 | 100.0 | /mnt/stockage/packages/f23/xen/tools/qemu-xen/po/de_DE.po | 
+ | [fr](/f23/language/fr) | 22 | 22 | 100.0 | /mnt/stockage/packages/f23/xen/tools/qemu-xen/po/fr_FR.po | 
+ | [hu](/f23/language/hu) | 22 | 22 | 100.0 | /mnt/stockage/packages/f23/xen/tools/qemu-xen/po/hu.po | 
+ | [tr](/f23/language/tr) | 22 | 22 | 100.0 | /mnt/stockage/packages/f23/xen/tools/qemu-xen/po/tr.po | 
+ | [it](/f23/language/it) | 11 | 22 | 50.0 | /mnt/stockage/packages/f23/xen/tools/qemu-xen/po/it.po | 
+ | [error](/f23/language/error) | 0 | 22 | 0.0 | /mnt/stockage/packages/f23/xen/tools/qemu-xen/po/messages.po | 
 {.sortable}
 
 

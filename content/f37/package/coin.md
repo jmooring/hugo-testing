@@ -18,200 +18,200 @@ The package coin (version 1.3.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [en_AU]({{< ref "/f37/language/en_AU.md" >}}) | 252 | 252 | 100.0 | /mnt/stockage/packages/f37/coin/po/en_AU.po/mnt/stockage/packages/f37/coin/po/extra/en_AU.po | 
- | [en_CA]({{< ref "/f37/language/en_CA.md" >}}) | 252 | 252 | 100.0 | /mnt/stockage/packages/f37/coin/po/en_CA.po/mnt/stockage/packages/f37/coin/po/extra/en_CA.po | 
- | [en_GB]({{< ref "/f37/language/en_GB.md" >}}) | 252 | 252 | 100.0 | /mnt/stockage/packages/f37/coin/po/en_GB.po/mnt/stockage/packages/f37/coin/po/extra/en_GB.po | 
- | [fr]({{< ref "/f37/language/fr.md" >}}) | 252 | 252 | 100.0 | /mnt/stockage/packages/f37/coin/po/fr.po/mnt/stockage/packages/f37/coin/po/extra/fr.po | 
- | [hu]({{< ref "/f37/language/hu.md" >}}) | 252 | 252 | 100.0 | /mnt/stockage/packages/f37/coin/po/hu.po/mnt/stockage/packages/f37/coin/po/extra/hu.po | 
- | [ca]({{< ref "/f37/language/ca.md" >}}) | 91 | 252 | 36.1 | /mnt/stockage/packages/f37/coin/po/ca.po/mnt/stockage/packages/f37/coin/po/extra/ca.po | 
- | [es]({{< ref "/f37/language/es.md" >}}) | 91 | 252 | 36.1 | /mnt/stockage/packages/f37/coin/po/es.po/mnt/stockage/packages/f37/coin/po/extra/es.po | 
- | [nl]({{< ref "/f37/language/nl.md" >}}) | 91 | 252 | 36.1 | /mnt/stockage/packages/f37/coin/po/nl.po/mnt/stockage/packages/f37/coin/po/extra/nl.po | 
- | [cs]({{< ref "/f37/language/cs.md" >}}) | 34 | 252 | 13.5 | /mnt/stockage/packages/f37/coin/po/cs.po/mnt/stockage/packages/f37/coin/po/extra/cs.po | 
- | [pt_BR]({{< ref "/f37/language/pt_BR.md" >}}) | 34 | 252 | 13.5 | /mnt/stockage/packages/f37/coin/po/pt_BR.po/mnt/stockage/packages/f37/coin/po/extra/pt_BR.po | 
- | [ja]({{< ref "/f37/language/ja.md" >}}) | 25 | 252 | 9.9 | /mnt/stockage/packages/f37/coin/po/ja.po/mnt/stockage/packages/f37/coin/po/extra/ja.po | 
- | [tr]({{< ref "/f37/language/tr.md" >}}) | 25 | 252 | 9.9 | /mnt/stockage/packages/f37/coin/po/tr.po/mnt/stockage/packages/f37/coin/po/extra/tr.po | 
- | [aa]({{< ref "/f37/language/aa.md" >}}) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/aa.po/mnt/stockage/packages/f37/coin/po/extra/aa.po | 
- | [ab]({{< ref "/f37/language/ab.md" >}}) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/ab.po/mnt/stockage/packages/f37/coin/po/extra/ab.po | 
- | [ae]({{< ref "/f37/language/ae.md" >}}) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/ae.po/mnt/stockage/packages/f37/coin/po/extra/ae.po | 
- | [af]({{< ref "/f37/language/af.md" >}}) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/af.po/mnt/stockage/packages/f37/coin/po/extra/af.po | 
- | [ak]({{< ref "/f37/language/ak.md" >}}) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/ak.po/mnt/stockage/packages/f37/coin/po/extra/ak.po | 
- | [am]({{< ref "/f37/language/am.md" >}}) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/am.po/mnt/stockage/packages/f37/coin/po/extra/am.po | 
- | [an]({{< ref "/f37/language/an.md" >}}) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/an.po/mnt/stockage/packages/f37/coin/po/extra/an.po | 
- | [ar]({{< ref "/f37/language/ar.md" >}}) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/ar.po/mnt/stockage/packages/f37/coin/po/extra/ar.po | 
- | [as]({{< ref "/f37/language/as.md" >}}) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/as.po/mnt/stockage/packages/f37/coin/po/extra/as.po | 
- | [ast]({{< ref "/f37/language/ast.md" >}}) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/ast.po/mnt/stockage/packages/f37/coin/po/extra/ast.po | 
- | [av]({{< ref "/f37/language/av.md" >}}) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/av.po/mnt/stockage/packages/f37/coin/po/extra/av.po | 
- | [ay]({{< ref "/f37/language/ay.md" >}}) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/ay.po/mnt/stockage/packages/f37/coin/po/extra/ay.po | 
- | [az]({{< ref "/f37/language/az.md" >}}) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/az.po/mnt/stockage/packages/f37/coin/po/extra/az.po | 
- | [ba]({{< ref "/f37/language/ba.md" >}}) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/ba.po/mnt/stockage/packages/f37/coin/po/extra/ba.po | 
- | [be]({{< ref "/f37/language/be.md" >}}) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/be.po/mnt/stockage/packages/f37/coin/po/extra/be.po | 
- | [bg]({{< ref "/f37/language/bg.md" >}}) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/bg.po/mnt/stockage/packages/f37/coin/po/extra/bg.po | 
- | [bh]({{< ref "/f37/language/bh.md" >}}) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/bh.po/mnt/stockage/packages/f37/coin/po/extra/bh.po | 
- | [bi]({{< ref "/f37/language/bi.md" >}}) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/bi.po/mnt/stockage/packages/f37/coin/po/extra/bi.po | 
- | [bm]({{< ref "/f37/language/bm.md" >}}) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/bm.po/mnt/stockage/packages/f37/coin/po/extra/bm.po | 
- | [bn]({{< ref "/f37/language/bn.md" >}}) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/bn.po/mnt/stockage/packages/f37/coin/po/extra/bn.po | 
- | [bo]({{< ref "/f37/language/bo.md" >}}) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/bo.po/mnt/stockage/packages/f37/coin/po/extra/bo.po | 
- | [br]({{< ref "/f37/language/br.md" >}}) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/br.po/mnt/stockage/packages/f37/coin/po/extra/br.po | 
- | [bs]({{< ref "/f37/language/bs.md" >}}) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/bs.po/mnt/stockage/packages/f37/coin/po/extra/bs.po | 
- | [ce]({{< ref "/f37/language/ce.md" >}}) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/ce.po/mnt/stockage/packages/f37/coin/po/extra/ce.po | 
- | [ch]({{< ref "/f37/language/ch.md" >}}) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/ch.po/mnt/stockage/packages/f37/coin/po/extra/ch.po | 
- | [ckb]({{< ref "/f37/language/ckb.md" >}}) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/ckb.po/mnt/stockage/packages/f37/coin/po/extra/ckb.po | 
- | [co]({{< ref "/f37/language/co.md" >}}) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/co.po/mnt/stockage/packages/f37/coin/po/extra/co.po | 
- | [cr]({{< ref "/f37/language/cr.md" >}}) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/cr.po/mnt/stockage/packages/f37/coin/po/extra/cr.po | 
- | [cu]({{< ref "/f37/language/cu.md" >}}) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/cu.po/mnt/stockage/packages/f37/coin/po/extra/cu.po | 
- | [cv]({{< ref "/f37/language/cv.md" >}}) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/cv.po/mnt/stockage/packages/f37/coin/po/extra/cv.po | 
- | [cy]({{< ref "/f37/language/cy.md" >}}) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/cy.po/mnt/stockage/packages/f37/coin/po/extra/cy.po | 
- | [da]({{< ref "/f37/language/da.md" >}}) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/da.po/mnt/stockage/packages/f37/coin/po/extra/da.po | 
- | [de]({{< ref "/f37/language/de.md" >}}) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/de.po/mnt/stockage/packages/f37/coin/po/extra/de.po | 
- | [dv]({{< ref "/f37/language/dv.md" >}}) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/dv.po/mnt/stockage/packages/f37/coin/po/extra/dv.po | 
- | [dz]({{< ref "/f37/language/dz.md" >}}) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/dz.po/mnt/stockage/packages/f37/coin/po/extra/dz.po | 
- | [ee]({{< ref "/f37/language/ee.md" >}}) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/ee.po/mnt/stockage/packages/f37/coin/po/extra/ee.po | 
- | [el]({{< ref "/f37/language/el.md" >}}) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/el.po/mnt/stockage/packages/f37/coin/po/extra/el.po | 
- | [eo]({{< ref "/f37/language/eo.md" >}}) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/eo.po/mnt/stockage/packages/f37/coin/po/extra/eo.po | 
- | [et]({{< ref "/f37/language/et.md" >}}) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/et.po/mnt/stockage/packages/f37/coin/po/extra/et.po | 
- | [eu]({{< ref "/f37/language/eu.md" >}}) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/eu.po/mnt/stockage/packages/f37/coin/po/extra/eu.po | 
- | [fa]({{< ref "/f37/language/fa.md" >}}) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/fa.po/mnt/stockage/packages/f37/coin/po/extra/fa.po | 
- | [ff]({{< ref "/f37/language/ff.md" >}}) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/ff.po/mnt/stockage/packages/f37/coin/po/extra/ff.po | 
- | [fi]({{< ref "/f37/language/fi.md" >}}) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/fi.po/mnt/stockage/packages/f37/coin/po/extra/fi.po | 
- | [fj]({{< ref "/f37/language/fj.md" >}}) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/fj.po/mnt/stockage/packages/f37/coin/po/extra/fj.po | 
- | [fo]({{< ref "/f37/language/fo.md" >}}) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/fo.po/mnt/stockage/packages/f37/coin/po/extra/fo.po | 
- | [fr_CA]({{< ref "/f37/language/fr_CA.md" >}}) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/fr_CA.po/mnt/stockage/packages/f37/coin/po/extra/fr_CA.po | 
- | [fy]({{< ref "/f37/language/fy.md" >}}) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/fy.po/mnt/stockage/packages/f37/coin/po/extra/fy.po | 
- | [ga]({{< ref "/f37/language/ga.md" >}}) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/ga.po/mnt/stockage/packages/f37/coin/po/extra/ga.po | 
- | [gd]({{< ref "/f37/language/gd.md" >}}) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/gd.po/mnt/stockage/packages/f37/coin/po/extra/gd.po | 
- | [gl]({{< ref "/f37/language/gl.md" >}}) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/gl.po/mnt/stockage/packages/f37/coin/po/extra/gl.po | 
- | [gn]({{< ref "/f37/language/gn.md" >}}) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/gn.po/mnt/stockage/packages/f37/coin/po/extra/gn.po | 
- | [gu]({{< ref "/f37/language/gu.md" >}}) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/gu.po/mnt/stockage/packages/f37/coin/po/extra/gu.po | 
- | [gv]({{< ref "/f37/language/gv.md" >}}) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/gv.po/mnt/stockage/packages/f37/coin/po/extra/gv.po | 
- | [ha]({{< ref "/f37/language/ha.md" >}}) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/ha.po/mnt/stockage/packages/f37/coin/po/extra/ha.po | 
- | [he]({{< ref "/f37/language/he.md" >}}) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/he.po/mnt/stockage/packages/f37/coin/po/extra/he.po | 
- | [hi]({{< ref "/f37/language/hi.md" >}}) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/hi.po/mnt/stockage/packages/f37/coin/po/extra/hi.po | 
- | [ho]({{< ref "/f37/language/ho.md" >}}) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/ho.po/mnt/stockage/packages/f37/coin/po/extra/ho.po | 
- | [hr]({{< ref "/f37/language/hr.md" >}}) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/hr.po/mnt/stockage/packages/f37/coin/po/extra/hr.po | 
- | [ht]({{< ref "/f37/language/ht.md" >}}) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/ht.po/mnt/stockage/packages/f37/coin/po/extra/ht.po | 
- | [hy]({{< ref "/f37/language/hy.md" >}}) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/hy.po/mnt/stockage/packages/f37/coin/po/extra/hy.po | 
- | [hz]({{< ref "/f37/language/hz.md" >}}) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/hz.po/mnt/stockage/packages/f37/coin/po/extra/hz.po | 
- | [ia]({{< ref "/f37/language/ia.md" >}}) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/ia.po/mnt/stockage/packages/f37/coin/po/extra/ia.po | 
- | [id]({{< ref "/f37/language/id.md" >}}) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/id.po/mnt/stockage/packages/f37/coin/po/extra/id.po | 
- | [ie]({{< ref "/f37/language/ie.md" >}}) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/ie.po/mnt/stockage/packages/f37/coin/po/extra/ie.po | 
- | [ig]({{< ref "/f37/language/ig.md" >}}) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/ig.po/mnt/stockage/packages/f37/coin/po/extra/ig.po | 
- | [ii]({{< ref "/f37/language/ii.md" >}}) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/ii.po/mnt/stockage/packages/f37/coin/po/extra/ii.po | 
- | [ik]({{< ref "/f37/language/ik.md" >}}) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/ik.po/mnt/stockage/packages/f37/coin/po/extra/ik.po | 
- | [io]({{< ref "/f37/language/io.md" >}}) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/io.po/mnt/stockage/packages/f37/coin/po/extra/io.po | 
- | [is]({{< ref "/f37/language/is.md" >}}) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/is.po/mnt/stockage/packages/f37/coin/po/extra/is.po | 
- | [it]({{< ref "/f37/language/it.md" >}}) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/it.po/mnt/stockage/packages/f37/coin/po/extra/it.po | 
- | [iu]({{< ref "/f37/language/iu.md" >}}) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/iu.po/mnt/stockage/packages/f37/coin/po/extra/iu.po | 
- | [jv]({{< ref "/f37/language/jv.md" >}}) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/jv.po/mnt/stockage/packages/f37/coin/po/extra/jv.po | 
- | [ka]({{< ref "/f37/language/ka.md" >}}) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/ka.po/mnt/stockage/packages/f37/coin/po/extra/ka.po | 
- | [kg]({{< ref "/f37/language/kg.md" >}}) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/kg.po/mnt/stockage/packages/f37/coin/po/extra/kg.po | 
- | [ki]({{< ref "/f37/language/ki.md" >}}) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/ki.po/mnt/stockage/packages/f37/coin/po/extra/ki.po | 
- | [kj]({{< ref "/f37/language/kj.md" >}}) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/kj.po/mnt/stockage/packages/f37/coin/po/extra/kj.po | 
- | [kk]({{< ref "/f37/language/kk.md" >}}) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/kk.po/mnt/stockage/packages/f37/coin/po/extra/kk.po | 
- | [kl]({{< ref "/f37/language/kl.md" >}}) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/kl.po/mnt/stockage/packages/f37/coin/po/extra/kl.po | 
- | [km]({{< ref "/f37/language/km.md" >}}) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/km.po/mnt/stockage/packages/f37/coin/po/extra/km.po | 
- | [kn]({{< ref "/f37/language/kn.md" >}}) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/kn.po/mnt/stockage/packages/f37/coin/po/extra/kn.po | 
- | [ko]({{< ref "/f37/language/ko.md" >}}) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/ko.po/mnt/stockage/packages/f37/coin/po/extra/ko.po | 
- | [kr]({{< ref "/f37/language/kr.md" >}}) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/kr.po/mnt/stockage/packages/f37/coin/po/extra/kr.po | 
- | [ks]({{< ref "/f37/language/ks.md" >}}) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/ks.po/mnt/stockage/packages/f37/coin/po/extra/ks.po | 
- | [ku]({{< ref "/f37/language/ku.md" >}}) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/ku.po/mnt/stockage/packages/f37/coin/po/extra/ku.po | 
- | [kv]({{< ref "/f37/language/kv.md" >}}) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/kv.po/mnt/stockage/packages/f37/coin/po/extra/kv.po | 
- | [kw]({{< ref "/f37/language/kw.md" >}}) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/kw.po/mnt/stockage/packages/f37/coin/po/extra/kw.po | 
- | [ky]({{< ref "/f37/language/ky.md" >}}) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/ky.po/mnt/stockage/packages/f37/coin/po/extra/ky.po | 
- | [la]({{< ref "/f37/language/la.md" >}}) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/la.po/mnt/stockage/packages/f37/coin/po/extra/la.po | 
- | [lb]({{< ref "/f37/language/lb.md" >}}) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/lb.po/mnt/stockage/packages/f37/coin/po/extra/lb.po | 
- | [lg]({{< ref "/f37/language/lg.md" >}}) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/lg.po/mnt/stockage/packages/f37/coin/po/extra/lg.po | 
- | [li]({{< ref "/f37/language/li.md" >}}) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/li.po/mnt/stockage/packages/f37/coin/po/extra/li.po | 
- | [ln]({{< ref "/f37/language/ln.md" >}}) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/ln.po/mnt/stockage/packages/f37/coin/po/extra/ln.po | 
- | [lo]({{< ref "/f37/language/lo.md" >}}) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/lo.po/mnt/stockage/packages/f37/coin/po/extra/lo.po | 
- | [lt]({{< ref "/f37/language/lt.md" >}}) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/lt.po/mnt/stockage/packages/f37/coin/po/extra/lt.po | 
- | [lu]({{< ref "/f37/language/lu.md" >}}) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/lu.po/mnt/stockage/packages/f37/coin/po/extra/lu.po | 
- | [lv]({{< ref "/f37/language/lv.md" >}}) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/lv.po/mnt/stockage/packages/f37/coin/po/extra/lv.po | 
- | [mg]({{< ref "/f37/language/mg.md" >}}) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/mg.po/mnt/stockage/packages/f37/coin/po/extra/mg.po | 
- | [mh]({{< ref "/f37/language/mh.md" >}}) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/mh.po/mnt/stockage/packages/f37/coin/po/extra/mh.po | 
- | [mi]({{< ref "/f37/language/mi.md" >}}) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/mi.po/mnt/stockage/packages/f37/coin/po/extra/mi.po | 
- | [mk]({{< ref "/f37/language/mk.md" >}}) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/mk.po/mnt/stockage/packages/f37/coin/po/extra/mk.po | 
- | [ml]({{< ref "/f37/language/ml.md" >}}) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/ml.po/mnt/stockage/packages/f37/coin/po/extra/ml.po | 
- | [mn]({{< ref "/f37/language/mn.md" >}}) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/mn.po/mnt/stockage/packages/f37/coin/po/extra/mn.po | 
- | [mr]({{< ref "/f37/language/mr.md" >}}) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/mr.po/mnt/stockage/packages/f37/coin/po/extra/mr.po | 
- | [ms]({{< ref "/f37/language/ms.md" >}}) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/ms.po/mnt/stockage/packages/f37/coin/po/extra/ms.po | 
- | [mt]({{< ref "/f37/language/mt.md" >}}) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/mt.po/mnt/stockage/packages/f37/coin/po/extra/mt.po | 
- | [my]({{< ref "/f37/language/my.md" >}}) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/my.po/mnt/stockage/packages/f37/coin/po/extra/my.po | 
- | [na]({{< ref "/f37/language/na.md" >}}) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/na.po/mnt/stockage/packages/f37/coin/po/extra/na.po | 
- | [nb_NO]({{< ref "/f37/language/nb_NO.md" >}}) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/nb.po/mnt/stockage/packages/f37/coin/po/extra/nb.po | 
- | [nd]({{< ref "/f37/language/nd.md" >}}) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/nd.po/mnt/stockage/packages/f37/coin/po/extra/nd.po | 
- | [ne]({{< ref "/f37/language/ne.md" >}}) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/ne.po/mnt/stockage/packages/f37/coin/po/extra/ne.po | 
- | [ng]({{< ref "/f37/language/ng.md" >}}) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/ng.po/mnt/stockage/packages/f37/coin/po/extra/ng.po | 
- | [nn]({{< ref "/f37/language/nn.md" >}}) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/nn.po/mnt/stockage/packages/f37/coin/po/extra/nn.po | 
- | [nr]({{< ref "/f37/language/nr.md" >}}) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/nr.po/mnt/stockage/packages/f37/coin/po/extra/nr.po | 
- | [nv]({{< ref "/f37/language/nv.md" >}}) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/nv.po/mnt/stockage/packages/f37/coin/po/extra/nv.po | 
- | [ny]({{< ref "/f37/language/ny.md" >}}) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/ny.po/mnt/stockage/packages/f37/coin/po/extra/ny.po | 
- | [oc]({{< ref "/f37/language/oc.md" >}}) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/oc.po/mnt/stockage/packages/f37/coin/po/extra/oc.po | 
- | [oj]({{< ref "/f37/language/oj.md" >}}) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/oj.po/mnt/stockage/packages/f37/coin/po/extra/oj.po | 
- | [om]({{< ref "/f37/language/om.md" >}}) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/om.po/mnt/stockage/packages/f37/coin/po/extra/om.po | 
- | [or]({{< ref "/f37/language/or.md" >}}) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/or.po/mnt/stockage/packages/f37/coin/po/extra/or.po | 
- | [os]({{< ref "/f37/language/os.md" >}}) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/os.po/mnt/stockage/packages/f37/coin/po/extra/os.po | 
- | [pa]({{< ref "/f37/language/pa.md" >}}) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/pa.po/mnt/stockage/packages/f37/coin/po/extra/pa.po | 
- | [pi]({{< ref "/f37/language/pi.md" >}}) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/pi.po/mnt/stockage/packages/f37/coin/po/extra/pi.po | 
- | [pl]({{< ref "/f37/language/pl.md" >}}) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/pl.po/mnt/stockage/packages/f37/coin/po/extra/pl.po | 
- | [ps]({{< ref "/f37/language/ps.md" >}}) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/ps.po/mnt/stockage/packages/f37/coin/po/extra/ps.po | 
- | [pt]({{< ref "/f37/language/pt.md" >}}) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/pt.po/mnt/stockage/packages/f37/coin/po/extra/pt.po | 
- | [qu]({{< ref "/f37/language/qu.md" >}}) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/qu.po/mnt/stockage/packages/f37/coin/po/extra/qu.po | 
- | [rm]({{< ref "/f37/language/rm.md" >}}) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/rm.po/mnt/stockage/packages/f37/coin/po/extra/rm.po | 
- | [rn]({{< ref "/f37/language/rn.md" >}}) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/rn.po/mnt/stockage/packages/f37/coin/po/extra/rn.po | 
- | [ro]({{< ref "/f37/language/ro.md" >}}) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/ro.po/mnt/stockage/packages/f37/coin/po/extra/ro.po | 
- | [ro_MD]({{< ref "/f37/language/ro_MD.md" >}}) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/mo.po/mnt/stockage/packages/f37/coin/po/extra/mo.po | 
- | [ru]({{< ref "/f37/language/ru.md" >}}) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/ru.po/mnt/stockage/packages/f37/coin/po/extra/ru.po | 
- | [rue]({{< ref "/f37/language/rue.md" >}}) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/rue.po/mnt/stockage/packages/f37/coin/po/extra/rue.po | 
- | [rw]({{< ref "/f37/language/rw.md" >}}) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/rw.po/mnt/stockage/packages/f37/coin/po/extra/rw.po | 
- | [sa]({{< ref "/f37/language/sa.md" >}}) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/sa.po/mnt/stockage/packages/f37/coin/po/extra/sa.po | 
- | [sc]({{< ref "/f37/language/sc.md" >}}) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/sc.po/mnt/stockage/packages/f37/coin/po/extra/sc.po | 
- | [sd]({{< ref "/f37/language/sd.md" >}}) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/sd.po/mnt/stockage/packages/f37/coin/po/extra/sd.po | 
- | [se]({{< ref "/f37/language/se.md" >}}) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/se.po/mnt/stockage/packages/f37/coin/po/extra/se.po | 
- | [sg]({{< ref "/f37/language/sg.md" >}}) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/sg.po/mnt/stockage/packages/f37/coin/po/extra/sg.po | 
- | [si]({{< ref "/f37/language/si.md" >}}) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/si.po/mnt/stockage/packages/f37/coin/po/extra/si.po | 
- | [sk]({{< ref "/f37/language/sk.md" >}}) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/sk.po/mnt/stockage/packages/f37/coin/po/extra/sk.po | 
- | [sl]({{< ref "/f37/language/sl.md" >}}) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/sl.po/mnt/stockage/packages/f37/coin/po/extra/sl.po | 
- | [sm]({{< ref "/f37/language/sm.md" >}}) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/sm.po/mnt/stockage/packages/f37/coin/po/extra/sm.po | 
- | [sma]({{< ref "/f37/language/sma.md" >}}) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/sma.po/mnt/stockage/packages/f37/coin/po/extra/sma.po | 
- | [sn]({{< ref "/f37/language/sn.md" >}}) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/sn.po/mnt/stockage/packages/f37/coin/po/extra/sn.po | 
- | [so]({{< ref "/f37/language/so.md" >}}) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/so.po/mnt/stockage/packages/f37/coin/po/extra/so.po | 
- | [sq]({{< ref "/f37/language/sq.md" >}}) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/sq.po/mnt/stockage/packages/f37/coin/po/extra/sq.po | 
- | [sr]({{< ref "/f37/language/sr.md" >}}) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/sr.po/mnt/stockage/packages/f37/coin/po/extra/sr.po | 
- | [ss]({{< ref "/f37/language/ss.md" >}}) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/ss.po/mnt/stockage/packages/f37/coin/po/extra/ss.po | 
- | [st]({{< ref "/f37/language/st.md" >}}) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/st.po/mnt/stockage/packages/f37/coin/po/extra/st.po | 
- | [su]({{< ref "/f37/language/su.md" >}}) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/su.po/mnt/stockage/packages/f37/coin/po/extra/su.po | 
- | [sv]({{< ref "/f37/language/sv.md" >}}) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/sv.po/mnt/stockage/packages/f37/coin/po/extra/sv.po | 
- | [sw]({{< ref "/f37/language/sw.md" >}}) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/sw.po/mnt/stockage/packages/f37/coin/po/extra/sw.po | 
- | [ta]({{< ref "/f37/language/ta.md" >}}) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/ta.po/mnt/stockage/packages/f37/coin/po/extra/ta.po | 
- | [te]({{< ref "/f37/language/te.md" >}}) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/te.po/mnt/stockage/packages/f37/coin/po/extra/te.po | 
- | [tg]({{< ref "/f37/language/tg.md" >}}) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/tg.po/mnt/stockage/packages/f37/coin/po/extra/tg.po | 
- | [th]({{< ref "/f37/language/th.md" >}}) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/th.po/mnt/stockage/packages/f37/coin/po/extra/th.po | 
- | [ti]({{< ref "/f37/language/ti.md" >}}) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/ti.po/mnt/stockage/packages/f37/coin/po/extra/ti.po | 
- | [tk]({{< ref "/f37/language/tk.md" >}}) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/tk.po/mnt/stockage/packages/f37/coin/po/extra/tk.po | 
- | [tl]({{< ref "/f37/language/tl.md" >}}) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/tl.po/mnt/stockage/packages/f37/coin/po/extra/tl.po | 
- | [tn]({{< ref "/f37/language/tn.md" >}}) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/tn.po/mnt/stockage/packages/f37/coin/po/extra/tn.po | 
- | [to]({{< ref "/f37/language/to.md" >}}) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/to.po/mnt/stockage/packages/f37/coin/po/extra/to.po | 
- | [ts]({{< ref "/f37/language/ts.md" >}}) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/ts.po/mnt/stockage/packages/f37/coin/po/extra/ts.po | 
- | [tt]({{< ref "/f37/language/tt.md" >}}) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/tt.po/mnt/stockage/packages/f37/coin/po/extra/tt.po | 
- | [tw]({{< ref "/f37/language/tw.md" >}}) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/tw.po/mnt/stockage/packages/f37/coin/po/extra/tw.po | 
- | [ty]({{< ref "/f37/language/ty.md" >}}) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/ty.po/mnt/stockage/packages/f37/coin/po/extra/ty.po | 
- | [ug]({{< ref "/f37/language/ug.md" >}}) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/ug.po/mnt/stockage/packages/f37/coin/po/extra/ug.po | 
- | [uk]({{< ref "/f37/language/uk.md" >}}) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/uk.po/mnt/stockage/packages/f37/coin/po/extra/uk.po | 
- | [ur]({{< ref "/f37/language/ur.md" >}}) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/ur.po/mnt/stockage/packages/f37/coin/po/extra/ur.po | 
- | [uz]({{< ref "/f37/language/uz.md" >}}) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/uz.po/mnt/stockage/packages/f37/coin/po/extra/uz.po | 
- | [ve]({{< ref "/f37/language/ve.md" >}}) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/ve.po/mnt/stockage/packages/f37/coin/po/extra/ve.po | 
- | [vi]({{< ref "/f37/language/vi.md" >}}) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/vi.po/mnt/stockage/packages/f37/coin/po/extra/vi.po | 
- | [vo]({{< ref "/f37/language/vo.md" >}}) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/vo.po/mnt/stockage/packages/f37/coin/po/extra/vo.po | 
- | [wa]({{< ref "/f37/language/wa.md" >}}) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/wa.po/mnt/stockage/packages/f37/coin/po/extra/wa.po | 
- | [wo]({{< ref "/f37/language/wo.md" >}}) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/wo.po/mnt/stockage/packages/f37/coin/po/extra/wo.po | 
- | [xh]({{< ref "/f37/language/xh.md" >}}) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/xh.po/mnt/stockage/packages/f37/coin/po/extra/xh.po | 
- | [yi]({{< ref "/f37/language/yi.md" >}}) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/yi.po/mnt/stockage/packages/f37/coin/po/extra/yi.po | 
- | [yo]({{< ref "/f37/language/yo.md" >}}) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/yo.po/mnt/stockage/packages/f37/coin/po/extra/yo.po | 
- | [za]({{< ref "/f37/language/za.md" >}}) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/za.po/mnt/stockage/packages/f37/coin/po/extra/za.po | 
- | [zh_Hans]({{< ref "/f37/language/zh_Hans.md" >}}) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/zh.po/mnt/stockage/packages/f37/coin/po/extra/zh.po | 
- | [zh_Hant]({{< ref "/f37/language/zh_Hant.md" >}}) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/zh_TW.po/mnt/stockage/packages/f37/coin/po/extra/zh_TW.po | 
- | [zh_Hant_HK]({{< ref "/f37/language/zh_Hant_HK.md" >}}) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/zh_HK.po/mnt/stockage/packages/f37/coin/po/extra/zh_HK.po | 
- | [zu]({{< ref "/f37/language/zu.md" >}}) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/zu.po/mnt/stockage/packages/f37/coin/po/extra/zu.po | 
+ | [en_AU](/f37/language/en_AU) | 252 | 252 | 100.0 | /mnt/stockage/packages/f37/coin/po/en_AU.po/mnt/stockage/packages/f37/coin/po/extra/en_AU.po | 
+ | [en_CA](/f37/language/en_CA) | 252 | 252 | 100.0 | /mnt/stockage/packages/f37/coin/po/en_CA.po/mnt/stockage/packages/f37/coin/po/extra/en_CA.po | 
+ | [en_GB](/f37/language/en_GB) | 252 | 252 | 100.0 | /mnt/stockage/packages/f37/coin/po/en_GB.po/mnt/stockage/packages/f37/coin/po/extra/en_GB.po | 
+ | [fr](/f37/language/fr) | 252 | 252 | 100.0 | /mnt/stockage/packages/f37/coin/po/fr.po/mnt/stockage/packages/f37/coin/po/extra/fr.po | 
+ | [hu](/f37/language/hu) | 252 | 252 | 100.0 | /mnt/stockage/packages/f37/coin/po/hu.po/mnt/stockage/packages/f37/coin/po/extra/hu.po | 
+ | [ca](/f37/language/ca) | 91 | 252 | 36.1 | /mnt/stockage/packages/f37/coin/po/ca.po/mnt/stockage/packages/f37/coin/po/extra/ca.po | 
+ | [es](/f37/language/es) | 91 | 252 | 36.1 | /mnt/stockage/packages/f37/coin/po/es.po/mnt/stockage/packages/f37/coin/po/extra/es.po | 
+ | [nl](/f37/language/nl) | 91 | 252 | 36.1 | /mnt/stockage/packages/f37/coin/po/nl.po/mnt/stockage/packages/f37/coin/po/extra/nl.po | 
+ | [cs](/f37/language/cs) | 34 | 252 | 13.5 | /mnt/stockage/packages/f37/coin/po/cs.po/mnt/stockage/packages/f37/coin/po/extra/cs.po | 
+ | [pt_BR](/f37/language/pt_BR) | 34 | 252 | 13.5 | /mnt/stockage/packages/f37/coin/po/pt_BR.po/mnt/stockage/packages/f37/coin/po/extra/pt_BR.po | 
+ | [ja](/f37/language/ja) | 25 | 252 | 9.9 | /mnt/stockage/packages/f37/coin/po/ja.po/mnt/stockage/packages/f37/coin/po/extra/ja.po | 
+ | [tr](/f37/language/tr) | 25 | 252 | 9.9 | /mnt/stockage/packages/f37/coin/po/tr.po/mnt/stockage/packages/f37/coin/po/extra/tr.po | 
+ | [aa](/f37/language/aa) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/aa.po/mnt/stockage/packages/f37/coin/po/extra/aa.po | 
+ | [ab](/f37/language/ab) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/ab.po/mnt/stockage/packages/f37/coin/po/extra/ab.po | 
+ | [ae](/f37/language/ae) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/ae.po/mnt/stockage/packages/f37/coin/po/extra/ae.po | 
+ | [af](/f37/language/af) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/af.po/mnt/stockage/packages/f37/coin/po/extra/af.po | 
+ | [ak](/f37/language/ak) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/ak.po/mnt/stockage/packages/f37/coin/po/extra/ak.po | 
+ | [am](/f37/language/am) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/am.po/mnt/stockage/packages/f37/coin/po/extra/am.po | 
+ | [an](/f37/language/an) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/an.po/mnt/stockage/packages/f37/coin/po/extra/an.po | 
+ | [ar](/f37/language/ar) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/ar.po/mnt/stockage/packages/f37/coin/po/extra/ar.po | 
+ | [as](/f37/language/as) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/as.po/mnt/stockage/packages/f37/coin/po/extra/as.po | 
+ | [ast](/f37/language/ast) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/ast.po/mnt/stockage/packages/f37/coin/po/extra/ast.po | 
+ | [av](/f37/language/av) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/av.po/mnt/stockage/packages/f37/coin/po/extra/av.po | 
+ | [ay](/f37/language/ay) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/ay.po/mnt/stockage/packages/f37/coin/po/extra/ay.po | 
+ | [az](/f37/language/az) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/az.po/mnt/stockage/packages/f37/coin/po/extra/az.po | 
+ | [ba](/f37/language/ba) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/ba.po/mnt/stockage/packages/f37/coin/po/extra/ba.po | 
+ | [be](/f37/language/be) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/be.po/mnt/stockage/packages/f37/coin/po/extra/be.po | 
+ | [bg](/f37/language/bg) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/bg.po/mnt/stockage/packages/f37/coin/po/extra/bg.po | 
+ | [bh](/f37/language/bh) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/bh.po/mnt/stockage/packages/f37/coin/po/extra/bh.po | 
+ | [bi](/f37/language/bi) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/bi.po/mnt/stockage/packages/f37/coin/po/extra/bi.po | 
+ | [bm](/f37/language/bm) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/bm.po/mnt/stockage/packages/f37/coin/po/extra/bm.po | 
+ | [bn](/f37/language/bn) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/bn.po/mnt/stockage/packages/f37/coin/po/extra/bn.po | 
+ | [bo](/f37/language/bo) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/bo.po/mnt/stockage/packages/f37/coin/po/extra/bo.po | 
+ | [br](/f37/language/br) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/br.po/mnt/stockage/packages/f37/coin/po/extra/br.po | 
+ | [bs](/f37/language/bs) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/bs.po/mnt/stockage/packages/f37/coin/po/extra/bs.po | 
+ | [ce](/f37/language/ce) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/ce.po/mnt/stockage/packages/f37/coin/po/extra/ce.po | 
+ | [ch](/f37/language/ch) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/ch.po/mnt/stockage/packages/f37/coin/po/extra/ch.po | 
+ | [ckb](/f37/language/ckb) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/ckb.po/mnt/stockage/packages/f37/coin/po/extra/ckb.po | 
+ | [co](/f37/language/co) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/co.po/mnt/stockage/packages/f37/coin/po/extra/co.po | 
+ | [cr](/f37/language/cr) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/cr.po/mnt/stockage/packages/f37/coin/po/extra/cr.po | 
+ | [cu](/f37/language/cu) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/cu.po/mnt/stockage/packages/f37/coin/po/extra/cu.po | 
+ | [cv](/f37/language/cv) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/cv.po/mnt/stockage/packages/f37/coin/po/extra/cv.po | 
+ | [cy](/f37/language/cy) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/cy.po/mnt/stockage/packages/f37/coin/po/extra/cy.po | 
+ | [da](/f37/language/da) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/da.po/mnt/stockage/packages/f37/coin/po/extra/da.po | 
+ | [de](/f37/language/de) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/de.po/mnt/stockage/packages/f37/coin/po/extra/de.po | 
+ | [dv](/f37/language/dv) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/dv.po/mnt/stockage/packages/f37/coin/po/extra/dv.po | 
+ | [dz](/f37/language/dz) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/dz.po/mnt/stockage/packages/f37/coin/po/extra/dz.po | 
+ | [ee](/f37/language/ee) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/ee.po/mnt/stockage/packages/f37/coin/po/extra/ee.po | 
+ | [el](/f37/language/el) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/el.po/mnt/stockage/packages/f37/coin/po/extra/el.po | 
+ | [eo](/f37/language/eo) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/eo.po/mnt/stockage/packages/f37/coin/po/extra/eo.po | 
+ | [et](/f37/language/et) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/et.po/mnt/stockage/packages/f37/coin/po/extra/et.po | 
+ | [eu](/f37/language/eu) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/eu.po/mnt/stockage/packages/f37/coin/po/extra/eu.po | 
+ | [fa](/f37/language/fa) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/fa.po/mnt/stockage/packages/f37/coin/po/extra/fa.po | 
+ | [ff](/f37/language/ff) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/ff.po/mnt/stockage/packages/f37/coin/po/extra/ff.po | 
+ | [fi](/f37/language/fi) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/fi.po/mnt/stockage/packages/f37/coin/po/extra/fi.po | 
+ | [fj](/f37/language/fj) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/fj.po/mnt/stockage/packages/f37/coin/po/extra/fj.po | 
+ | [fo](/f37/language/fo) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/fo.po/mnt/stockage/packages/f37/coin/po/extra/fo.po | 
+ | [fr_CA](/f37/language/fr_CA) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/fr_CA.po/mnt/stockage/packages/f37/coin/po/extra/fr_CA.po | 
+ | [fy](/f37/language/fy) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/fy.po/mnt/stockage/packages/f37/coin/po/extra/fy.po | 
+ | [ga](/f37/language/ga) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/ga.po/mnt/stockage/packages/f37/coin/po/extra/ga.po | 
+ | [gd](/f37/language/gd) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/gd.po/mnt/stockage/packages/f37/coin/po/extra/gd.po | 
+ | [gl](/f37/language/gl) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/gl.po/mnt/stockage/packages/f37/coin/po/extra/gl.po | 
+ | [gn](/f37/language/gn) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/gn.po/mnt/stockage/packages/f37/coin/po/extra/gn.po | 
+ | [gu](/f37/language/gu) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/gu.po/mnt/stockage/packages/f37/coin/po/extra/gu.po | 
+ | [gv](/f37/language/gv) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/gv.po/mnt/stockage/packages/f37/coin/po/extra/gv.po | 
+ | [ha](/f37/language/ha) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/ha.po/mnt/stockage/packages/f37/coin/po/extra/ha.po | 
+ | [he](/f37/language/he) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/he.po/mnt/stockage/packages/f37/coin/po/extra/he.po | 
+ | [hi](/f37/language/hi) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/hi.po/mnt/stockage/packages/f37/coin/po/extra/hi.po | 
+ | [ho](/f37/language/ho) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/ho.po/mnt/stockage/packages/f37/coin/po/extra/ho.po | 
+ | [hr](/f37/language/hr) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/hr.po/mnt/stockage/packages/f37/coin/po/extra/hr.po | 
+ | [ht](/f37/language/ht) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/ht.po/mnt/stockage/packages/f37/coin/po/extra/ht.po | 
+ | [hy](/f37/language/hy) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/hy.po/mnt/stockage/packages/f37/coin/po/extra/hy.po | 
+ | [hz](/f37/language/hz) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/hz.po/mnt/stockage/packages/f37/coin/po/extra/hz.po | 
+ | [ia](/f37/language/ia) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/ia.po/mnt/stockage/packages/f37/coin/po/extra/ia.po | 
+ | [id](/f37/language/id) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/id.po/mnt/stockage/packages/f37/coin/po/extra/id.po | 
+ | [ie](/f37/language/ie) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/ie.po/mnt/stockage/packages/f37/coin/po/extra/ie.po | 
+ | [ig](/f37/language/ig) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/ig.po/mnt/stockage/packages/f37/coin/po/extra/ig.po | 
+ | [ii](/f37/language/ii) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/ii.po/mnt/stockage/packages/f37/coin/po/extra/ii.po | 
+ | [ik](/f37/language/ik) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/ik.po/mnt/stockage/packages/f37/coin/po/extra/ik.po | 
+ | [io](/f37/language/io) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/io.po/mnt/stockage/packages/f37/coin/po/extra/io.po | 
+ | [is](/f37/language/is) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/is.po/mnt/stockage/packages/f37/coin/po/extra/is.po | 
+ | [it](/f37/language/it) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/it.po/mnt/stockage/packages/f37/coin/po/extra/it.po | 
+ | [iu](/f37/language/iu) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/iu.po/mnt/stockage/packages/f37/coin/po/extra/iu.po | 
+ | [jv](/f37/language/jv) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/jv.po/mnt/stockage/packages/f37/coin/po/extra/jv.po | 
+ | [ka](/f37/language/ka) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/ka.po/mnt/stockage/packages/f37/coin/po/extra/ka.po | 
+ | [kg](/f37/language/kg) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/kg.po/mnt/stockage/packages/f37/coin/po/extra/kg.po | 
+ | [ki](/f37/language/ki) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/ki.po/mnt/stockage/packages/f37/coin/po/extra/ki.po | 
+ | [kj](/f37/language/kj) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/kj.po/mnt/stockage/packages/f37/coin/po/extra/kj.po | 
+ | [kk](/f37/language/kk) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/kk.po/mnt/stockage/packages/f37/coin/po/extra/kk.po | 
+ | [kl](/f37/language/kl) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/kl.po/mnt/stockage/packages/f37/coin/po/extra/kl.po | 
+ | [km](/f37/language/km) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/km.po/mnt/stockage/packages/f37/coin/po/extra/km.po | 
+ | [kn](/f37/language/kn) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/kn.po/mnt/stockage/packages/f37/coin/po/extra/kn.po | 
+ | [ko](/f37/language/ko) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/ko.po/mnt/stockage/packages/f37/coin/po/extra/ko.po | 
+ | [kr](/f37/language/kr) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/kr.po/mnt/stockage/packages/f37/coin/po/extra/kr.po | 
+ | [ks](/f37/language/ks) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/ks.po/mnt/stockage/packages/f37/coin/po/extra/ks.po | 
+ | [ku](/f37/language/ku) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/ku.po/mnt/stockage/packages/f37/coin/po/extra/ku.po | 
+ | [kv](/f37/language/kv) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/kv.po/mnt/stockage/packages/f37/coin/po/extra/kv.po | 
+ | [kw](/f37/language/kw) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/kw.po/mnt/stockage/packages/f37/coin/po/extra/kw.po | 
+ | [ky](/f37/language/ky) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/ky.po/mnt/stockage/packages/f37/coin/po/extra/ky.po | 
+ | [la](/f37/language/la) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/la.po/mnt/stockage/packages/f37/coin/po/extra/la.po | 
+ | [lb](/f37/language/lb) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/lb.po/mnt/stockage/packages/f37/coin/po/extra/lb.po | 
+ | [lg](/f37/language/lg) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/lg.po/mnt/stockage/packages/f37/coin/po/extra/lg.po | 
+ | [li](/f37/language/li) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/li.po/mnt/stockage/packages/f37/coin/po/extra/li.po | 
+ | [ln](/f37/language/ln) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/ln.po/mnt/stockage/packages/f37/coin/po/extra/ln.po | 
+ | [lo](/f37/language/lo) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/lo.po/mnt/stockage/packages/f37/coin/po/extra/lo.po | 
+ | [lt](/f37/language/lt) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/lt.po/mnt/stockage/packages/f37/coin/po/extra/lt.po | 
+ | [lu](/f37/language/lu) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/lu.po/mnt/stockage/packages/f37/coin/po/extra/lu.po | 
+ | [lv](/f37/language/lv) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/lv.po/mnt/stockage/packages/f37/coin/po/extra/lv.po | 
+ | [mg](/f37/language/mg) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/mg.po/mnt/stockage/packages/f37/coin/po/extra/mg.po | 
+ | [mh](/f37/language/mh) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/mh.po/mnt/stockage/packages/f37/coin/po/extra/mh.po | 
+ | [mi](/f37/language/mi) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/mi.po/mnt/stockage/packages/f37/coin/po/extra/mi.po | 
+ | [mk](/f37/language/mk) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/mk.po/mnt/stockage/packages/f37/coin/po/extra/mk.po | 
+ | [ml](/f37/language/ml) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/ml.po/mnt/stockage/packages/f37/coin/po/extra/ml.po | 
+ | [mn](/f37/language/mn) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/mn.po/mnt/stockage/packages/f37/coin/po/extra/mn.po | 
+ | [mr](/f37/language/mr) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/mr.po/mnt/stockage/packages/f37/coin/po/extra/mr.po | 
+ | [ms](/f37/language/ms) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/ms.po/mnt/stockage/packages/f37/coin/po/extra/ms.po | 
+ | [mt](/f37/language/mt) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/mt.po/mnt/stockage/packages/f37/coin/po/extra/mt.po | 
+ | [my](/f37/language/my) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/my.po/mnt/stockage/packages/f37/coin/po/extra/my.po | 
+ | [na](/f37/language/na) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/na.po/mnt/stockage/packages/f37/coin/po/extra/na.po | 
+ | [nb_NO](/f37/language/nb_NO) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/nb.po/mnt/stockage/packages/f37/coin/po/extra/nb.po | 
+ | [nd](/f37/language/nd) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/nd.po/mnt/stockage/packages/f37/coin/po/extra/nd.po | 
+ | [ne](/f37/language/ne) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/ne.po/mnt/stockage/packages/f37/coin/po/extra/ne.po | 
+ | [ng](/f37/language/ng) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/ng.po/mnt/stockage/packages/f37/coin/po/extra/ng.po | 
+ | [nn](/f37/language/nn) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/nn.po/mnt/stockage/packages/f37/coin/po/extra/nn.po | 
+ | [nr](/f37/language/nr) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/nr.po/mnt/stockage/packages/f37/coin/po/extra/nr.po | 
+ | [nv](/f37/language/nv) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/nv.po/mnt/stockage/packages/f37/coin/po/extra/nv.po | 
+ | [ny](/f37/language/ny) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/ny.po/mnt/stockage/packages/f37/coin/po/extra/ny.po | 
+ | [oc](/f37/language/oc) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/oc.po/mnt/stockage/packages/f37/coin/po/extra/oc.po | 
+ | [oj](/f37/language/oj) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/oj.po/mnt/stockage/packages/f37/coin/po/extra/oj.po | 
+ | [om](/f37/language/om) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/om.po/mnt/stockage/packages/f37/coin/po/extra/om.po | 
+ | [or](/f37/language/or) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/or.po/mnt/stockage/packages/f37/coin/po/extra/or.po | 
+ | [os](/f37/language/os) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/os.po/mnt/stockage/packages/f37/coin/po/extra/os.po | 
+ | [pa](/f37/language/pa) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/pa.po/mnt/stockage/packages/f37/coin/po/extra/pa.po | 
+ | [pi](/f37/language/pi) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/pi.po/mnt/stockage/packages/f37/coin/po/extra/pi.po | 
+ | [pl](/f37/language/pl) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/pl.po/mnt/stockage/packages/f37/coin/po/extra/pl.po | 
+ | [ps](/f37/language/ps) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/ps.po/mnt/stockage/packages/f37/coin/po/extra/ps.po | 
+ | [pt](/f37/language/pt) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/pt.po/mnt/stockage/packages/f37/coin/po/extra/pt.po | 
+ | [qu](/f37/language/qu) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/qu.po/mnt/stockage/packages/f37/coin/po/extra/qu.po | 
+ | [rm](/f37/language/rm) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/rm.po/mnt/stockage/packages/f37/coin/po/extra/rm.po | 
+ | [rn](/f37/language/rn) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/rn.po/mnt/stockage/packages/f37/coin/po/extra/rn.po | 
+ | [ro](/f37/language/ro) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/ro.po/mnt/stockage/packages/f37/coin/po/extra/ro.po | 
+ | [ro_MD](/f37/language/ro_MD) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/mo.po/mnt/stockage/packages/f37/coin/po/extra/mo.po | 
+ | [ru](/f37/language/ru) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/ru.po/mnt/stockage/packages/f37/coin/po/extra/ru.po | 
+ | [rue](/f37/language/rue) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/rue.po/mnt/stockage/packages/f37/coin/po/extra/rue.po | 
+ | [rw](/f37/language/rw) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/rw.po/mnt/stockage/packages/f37/coin/po/extra/rw.po | 
+ | [sa](/f37/language/sa) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/sa.po/mnt/stockage/packages/f37/coin/po/extra/sa.po | 
+ | [sc](/f37/language/sc) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/sc.po/mnt/stockage/packages/f37/coin/po/extra/sc.po | 
+ | [sd](/f37/language/sd) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/sd.po/mnt/stockage/packages/f37/coin/po/extra/sd.po | 
+ | [se](/f37/language/se) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/se.po/mnt/stockage/packages/f37/coin/po/extra/se.po | 
+ | [sg](/f37/language/sg) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/sg.po/mnt/stockage/packages/f37/coin/po/extra/sg.po | 
+ | [si](/f37/language/si) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/si.po/mnt/stockage/packages/f37/coin/po/extra/si.po | 
+ | [sk](/f37/language/sk) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/sk.po/mnt/stockage/packages/f37/coin/po/extra/sk.po | 
+ | [sl](/f37/language/sl) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/sl.po/mnt/stockage/packages/f37/coin/po/extra/sl.po | 
+ | [sm](/f37/language/sm) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/sm.po/mnt/stockage/packages/f37/coin/po/extra/sm.po | 
+ | [sma](/f37/language/sma) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/sma.po/mnt/stockage/packages/f37/coin/po/extra/sma.po | 
+ | [sn](/f37/language/sn) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/sn.po/mnt/stockage/packages/f37/coin/po/extra/sn.po | 
+ | [so](/f37/language/so) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/so.po/mnt/stockage/packages/f37/coin/po/extra/so.po | 
+ | [sq](/f37/language/sq) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/sq.po/mnt/stockage/packages/f37/coin/po/extra/sq.po | 
+ | [sr](/f37/language/sr) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/sr.po/mnt/stockage/packages/f37/coin/po/extra/sr.po | 
+ | [ss](/f37/language/ss) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/ss.po/mnt/stockage/packages/f37/coin/po/extra/ss.po | 
+ | [st](/f37/language/st) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/st.po/mnt/stockage/packages/f37/coin/po/extra/st.po | 
+ | [su](/f37/language/su) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/su.po/mnt/stockage/packages/f37/coin/po/extra/su.po | 
+ | [sv](/f37/language/sv) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/sv.po/mnt/stockage/packages/f37/coin/po/extra/sv.po | 
+ | [sw](/f37/language/sw) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/sw.po/mnt/stockage/packages/f37/coin/po/extra/sw.po | 
+ | [ta](/f37/language/ta) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/ta.po/mnt/stockage/packages/f37/coin/po/extra/ta.po | 
+ | [te](/f37/language/te) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/te.po/mnt/stockage/packages/f37/coin/po/extra/te.po | 
+ | [tg](/f37/language/tg) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/tg.po/mnt/stockage/packages/f37/coin/po/extra/tg.po | 
+ | [th](/f37/language/th) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/th.po/mnt/stockage/packages/f37/coin/po/extra/th.po | 
+ | [ti](/f37/language/ti) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/ti.po/mnt/stockage/packages/f37/coin/po/extra/ti.po | 
+ | [tk](/f37/language/tk) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/tk.po/mnt/stockage/packages/f37/coin/po/extra/tk.po | 
+ | [tl](/f37/language/tl) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/tl.po/mnt/stockage/packages/f37/coin/po/extra/tl.po | 
+ | [tn](/f37/language/tn) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/tn.po/mnt/stockage/packages/f37/coin/po/extra/tn.po | 
+ | [to](/f37/language/to) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/to.po/mnt/stockage/packages/f37/coin/po/extra/to.po | 
+ | [ts](/f37/language/ts) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/ts.po/mnt/stockage/packages/f37/coin/po/extra/ts.po | 
+ | [tt](/f37/language/tt) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/tt.po/mnt/stockage/packages/f37/coin/po/extra/tt.po | 
+ | [tw](/f37/language/tw) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/tw.po/mnt/stockage/packages/f37/coin/po/extra/tw.po | 
+ | [ty](/f37/language/ty) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/ty.po/mnt/stockage/packages/f37/coin/po/extra/ty.po | 
+ | [ug](/f37/language/ug) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/ug.po/mnt/stockage/packages/f37/coin/po/extra/ug.po | 
+ | [uk](/f37/language/uk) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/uk.po/mnt/stockage/packages/f37/coin/po/extra/uk.po | 
+ | [ur](/f37/language/ur) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/ur.po/mnt/stockage/packages/f37/coin/po/extra/ur.po | 
+ | [uz](/f37/language/uz) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/uz.po/mnt/stockage/packages/f37/coin/po/extra/uz.po | 
+ | [ve](/f37/language/ve) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/ve.po/mnt/stockage/packages/f37/coin/po/extra/ve.po | 
+ | [vi](/f37/language/vi) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/vi.po/mnt/stockage/packages/f37/coin/po/extra/vi.po | 
+ | [vo](/f37/language/vo) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/vo.po/mnt/stockage/packages/f37/coin/po/extra/vo.po | 
+ | [wa](/f37/language/wa) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/wa.po/mnt/stockage/packages/f37/coin/po/extra/wa.po | 
+ | [wo](/f37/language/wo) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/wo.po/mnt/stockage/packages/f37/coin/po/extra/wo.po | 
+ | [xh](/f37/language/xh) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/xh.po/mnt/stockage/packages/f37/coin/po/extra/xh.po | 
+ | [yi](/f37/language/yi) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/yi.po/mnt/stockage/packages/f37/coin/po/extra/yi.po | 
+ | [yo](/f37/language/yo) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/yo.po/mnt/stockage/packages/f37/coin/po/extra/yo.po | 
+ | [za](/f37/language/za) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/za.po/mnt/stockage/packages/f37/coin/po/extra/za.po | 
+ | [zh_Hans](/f37/language/zh_Hans) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/zh.po/mnt/stockage/packages/f37/coin/po/extra/zh.po | 
+ | [zh_Hant](/f37/language/zh_Hant) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/zh_TW.po/mnt/stockage/packages/f37/coin/po/extra/zh_TW.po | 
+ | [zh_Hant_HK](/f37/language/zh_Hant_HK) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/zh_HK.po/mnt/stockage/packages/f37/coin/po/extra/zh_HK.po | 
+ | [zu](/f37/language/zu) | 0 | 252 | 0.0 | /mnt/stockage/packages/f37/coin/po/zu.po/mnt/stockage/packages/f37/coin/po/extra/zu.po | 
 {.sortable}
 
 

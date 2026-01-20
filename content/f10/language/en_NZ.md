@@ -38,8 +38,8 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [gxmessage]({{< ref "/f10/package/gxmessage.md" >}}) | 12 | 245 | 4.9 | LANGUAGE <LL@li.org> | 
- | [php-laconica]({{< ref "/f10/package/php-laconica.md" >}}) | 54 | 1692 | 3.2 |  | 
+ | [gxmessage](/f10/package/gxmessage) | 12 | 245 | 4.9 | LANGUAGE <LL@li.org> | 
+ | [php-laconica](/f10/package/php-laconica) | 54 | 1692 | 3.2 |  | 
 {.sortable}
 
 

@@ -18,11 +18,11 @@ The package drupal8 (version 8.9.11):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [af]({{< ref "/f33/language/af.md" >}}) | 18 | 18 | 100.0 | /mnt/stockage/packages/f33/drupal8/core/modules/locale/tests/test.af.po | 
- | [de]({{< ref "/f33/language/de.md" >}}) | 7 | 7 | 100.0 | /mnt/stockage/packages/f33/drupal8/core/modules/locale/tests/test.de.po/mnt/stockage/packages/f33/drupal8/core/tests/fixtures/files/translations/drupal-8.0.0.de.po | 
- | [error]({{< ref "/f33/language/error.md" >}}) | 21 | 21 | 100.0 | /mnt/stockage/packages/f33/drupal8/core/modules/locale/tests/test.xx.po | 
- | [nl]({{< ref "/f33/language/nl.md" >}}) | 8 | 8 | 100.0 | /mnt/stockage/packages/f33/drupal8/core/modules/locale/tests/test.nl.po | 
- | [hu]({{< ref "/f33/language/hu.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f33/drupal8/core/tests/fixtures/files/translations/drupal-8.0.0-beta2.hu.po | 
+ | [af](/f33/language/af) | 18 | 18 | 100.0 | /mnt/stockage/packages/f33/drupal8/core/modules/locale/tests/test.af.po | 
+ | [de](/f33/language/de) | 7 | 7 | 100.0 | /mnt/stockage/packages/f33/drupal8/core/modules/locale/tests/test.de.po/mnt/stockage/packages/f33/drupal8/core/tests/fixtures/files/translations/drupal-8.0.0.de.po | 
+ | [error](/f33/language/error) | 21 | 21 | 100.0 | /mnt/stockage/packages/f33/drupal8/core/modules/locale/tests/test.xx.po | 
+ | [nl](/f33/language/nl) | 8 | 8 | 100.0 | /mnt/stockage/packages/f33/drupal8/core/modules/locale/tests/test.nl.po | 
+ | [hu](/f33/language/hu) | 0 | 0 | 0.0 | /mnt/stockage/packages/f33/drupal8/core/tests/fixtures/files/translations/drupal-8.0.0-beta2.hu.po | 
 {.sortable}
 
 

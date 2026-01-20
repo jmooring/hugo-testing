@@ -18,25 +18,25 @@ The package terminology (version 1.7.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f32/language/de.md" >}}) | 990 | 990 | 100.0 | /mnt/stockage/packages/f32/terminology/po/de.po | 
- | [fr]({{< ref "/f32/language/fr.md" >}}) | 990 | 990 | 100.0 | /mnt/stockage/packages/f32/terminology/po/fr.po | 
- | [hr]({{< ref "/f32/language/hr.md" >}}) | 990 | 990 | 100.0 | /mnt/stockage/packages/f32/terminology/po/hr.po | 
- | [it]({{< ref "/f32/language/it.md" >}}) | 990 | 990 | 100.0 | /mnt/stockage/packages/f32/terminology/po/it.po | 
- | [pl]({{< ref "/f32/language/pl.md" >}}) | 855 | 990 | 86.4 | /mnt/stockage/packages/f32/terminology/po/pl.po | 
- | [nl]({{< ref "/f32/language/nl.md" >}}) | 845 | 990 | 85.4 | /mnt/stockage/packages/f32/terminology/po/nl.po | 
- | [da]({{< ref "/f32/language/da.md" >}}) | 842 | 990 | 85.1 | /mnt/stockage/packages/f32/terminology/po/da.po | 
- | [sr]({{< ref "/f32/language/sr.md" >}}) | 835 | 990 | 84.3 | /mnt/stockage/packages/f32/terminology/po/sr.po | 
- | [sl]({{< ref "/f32/language/sl.md" >}}) | 804 | 990 | 81.2 | /mnt/stockage/packages/f32/terminology/po/sl.po | 
- | [vi]({{< ref "/f32/language/vi.md" >}}) | 768 | 990 | 77.6 | /mnt/stockage/packages/f32/terminology/po/vi.po | 
- | [ca]({{< ref "/f32/language/ca.md" >}}) | 757 | 990 | 76.5 | /mnt/stockage/packages/f32/terminology/po/ca.po | 
- | [es]({{< ref "/f32/language/es.md" >}}) | 746 | 990 | 75.4 | /mnt/stockage/packages/f32/terminology/po/es.po | 
- | [fi]({{< ref "/f32/language/fi.md" >}}) | 687 | 990 | 69.4 | /mnt/stockage/packages/f32/terminology/po/fi.po | 
- | [el]({{< ref "/f32/language/el.md" >}}) | 640 | 990 | 64.6 | /mnt/stockage/packages/f32/terminology/po/el.po | 
- | [hi]({{< ref "/f32/language/hi.md" >}}) | 501 | 990 | 50.6 | /mnt/stockage/packages/f32/terminology/po/hi.po | 
- | [ms]({{< ref "/f32/language/ms.md" >}}) | 391 | 990 | 39.5 | /mnt/stockage/packages/f32/terminology/po/ms.po | 
- | [ko]({{< ref "/f32/language/ko.md" >}}) | 318 | 990 | 32.1 | /mnt/stockage/packages/f32/terminology/po/ko.po | 
- | [eo]({{< ref "/f32/language/eo.md" >}}) | 155 | 990 | 15.7 | /mnt/stockage/packages/f32/terminology/po/eo.po | 
- | [tr]({{< ref "/f32/language/tr.md" >}}) | 74 | 990 | 7.5 | /mnt/stockage/packages/f32/terminology/po/tr.po | 
+ | [de](/f32/language/de) | 990 | 990 | 100.0 | /mnt/stockage/packages/f32/terminology/po/de.po | 
+ | [fr](/f32/language/fr) | 990 | 990 | 100.0 | /mnt/stockage/packages/f32/terminology/po/fr.po | 
+ | [hr](/f32/language/hr) | 990 | 990 | 100.0 | /mnt/stockage/packages/f32/terminology/po/hr.po | 
+ | [it](/f32/language/it) | 990 | 990 | 100.0 | /mnt/stockage/packages/f32/terminology/po/it.po | 
+ | [pl](/f32/language/pl) | 855 | 990 | 86.4 | /mnt/stockage/packages/f32/terminology/po/pl.po | 
+ | [nl](/f32/language/nl) | 845 | 990 | 85.4 | /mnt/stockage/packages/f32/terminology/po/nl.po | 
+ | [da](/f32/language/da) | 842 | 990 | 85.1 | /mnt/stockage/packages/f32/terminology/po/da.po | 
+ | [sr](/f32/language/sr) | 835 | 990 | 84.3 | /mnt/stockage/packages/f32/terminology/po/sr.po | 
+ | [sl](/f32/language/sl) | 804 | 990 | 81.2 | /mnt/stockage/packages/f32/terminology/po/sl.po | 
+ | [vi](/f32/language/vi) | 768 | 990 | 77.6 | /mnt/stockage/packages/f32/terminology/po/vi.po | 
+ | [ca](/f32/language/ca) | 757 | 990 | 76.5 | /mnt/stockage/packages/f32/terminology/po/ca.po | 
+ | [es](/f32/language/es) | 746 | 990 | 75.4 | /mnt/stockage/packages/f32/terminology/po/es.po | 
+ | [fi](/f32/language/fi) | 687 | 990 | 69.4 | /mnt/stockage/packages/f32/terminology/po/fi.po | 
+ | [el](/f32/language/el) | 640 | 990 | 64.6 | /mnt/stockage/packages/f32/terminology/po/el.po | 
+ | [hi](/f32/language/hi) | 501 | 990 | 50.6 | /mnt/stockage/packages/f32/terminology/po/hi.po | 
+ | [ms](/f32/language/ms) | 391 | 990 | 39.5 | /mnt/stockage/packages/f32/terminology/po/ms.po | 
+ | [ko](/f32/language/ko) | 318 | 990 | 32.1 | /mnt/stockage/packages/f32/terminology/po/ko.po | 
+ | [eo](/f32/language/eo) | 155 | 990 | 15.7 | /mnt/stockage/packages/f32/terminology/po/eo.po | 
+ | [tr](/f32/language/tr) | 74 | 990 | 7.5 | /mnt/stockage/packages/f32/terminology/po/tr.po | 
 {.sortable}
 
 

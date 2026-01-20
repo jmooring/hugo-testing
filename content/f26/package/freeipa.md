@@ -18,27 +18,27 @@ The package freeipa (version 4.4.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [bn_IN]({{< ref "/f26/language/bn_IN.md" >}}) | 34 | 34 | 100.0 | /mnt/stockage/packages/f26/freeipa/install/po/bn_IN.po | 
- | [ca]({{< ref "/f26/language/ca.md" >}}) | 252 | 252 | 100.0 | /mnt/stockage/packages/f26/freeipa/install/po/ca.po | 
- | [cs]({{< ref "/f26/language/cs.md" >}}) | 133 | 133 | 100.0 | /mnt/stockage/packages/f26/freeipa/install/po/cs.po | 
- | [de]({{< ref "/f26/language/de.md" >}}) | 5063 | 5063 | 100.0 | /mnt/stockage/packages/f26/freeipa/install/po/de.po | 
- | [es]({{< ref "/f26/language/es.md" >}}) | 6596 | 6596 | 100.0 | /mnt/stockage/packages/f26/freeipa/install/po/es.po | 
- | [eu]({{< ref "/f26/language/eu.md" >}}) | 373 | 373 | 100.0 | /mnt/stockage/packages/f26/freeipa/install/po/eu.po | 
- | [fr]({{< ref "/f26/language/fr.md" >}}) | 30838 | 30838 | 100.0 | /mnt/stockage/packages/f26/freeipa/install/po/fr.po | 
- | [hi]({{< ref "/f26/language/hi.md" >}}) | 93 | 93 | 100.0 | /mnt/stockage/packages/f26/freeipa/install/po/hi.po | 
- | [hu]({{< ref "/f26/language/hu.md" >}}) | 141 | 141 | 100.0 | /mnt/stockage/packages/f26/freeipa/install/po/hu.po | 
- | [id]({{< ref "/f26/language/id.md" >}}) | 307 | 307 | 100.0 | /mnt/stockage/packages/f26/freeipa/install/po/id.po | 
- | [ja]({{< ref "/f26/language/ja.md" >}}) | 423 | 423 | 100.0 | /mnt/stockage/packages/f26/freeipa/install/po/ja.po | 
- | [kn]({{< ref "/f26/language/kn.md" >}}) | 712 | 712 | 100.0 | /mnt/stockage/packages/f26/freeipa/install/po/kn.po | 
- | [mr]({{< ref "/f26/language/mr.md" >}}) | 103 | 103 | 100.0 | /mnt/stockage/packages/f26/freeipa/install/po/mr.po | 
- | [nl]({{< ref "/f26/language/nl.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f26/freeipa/install/po/nl.po | 
- | [pl]({{< ref "/f26/language/pl.md" >}}) | 1816 | 1816 | 100.0 | /mnt/stockage/packages/f26/freeipa/install/po/pl.po | 
- | [pt_BR]({{< ref "/f26/language/pt_BR.md" >}}) | 44 | 44 | 100.0 | /mnt/stockage/packages/f26/freeipa/install/po/pt_BR.po | 
- | [ru]({{< ref "/f26/language/ru.md" >}}) | 1965 | 1965 | 100.0 | /mnt/stockage/packages/f26/freeipa/install/po/ru.po | 
- | [sk]({{< ref "/f26/language/sk.md" >}}) | 2841 | 2841 | 100.0 | /mnt/stockage/packages/f26/freeipa/install/po/sk.po | 
- | [tg]({{< ref "/f26/language/tg.md" >}}) | 150 | 150 | 100.0 | /mnt/stockage/packages/f26/freeipa/install/po/tg.po | 
- | [uk]({{< ref "/f26/language/uk.md" >}}) | 50656 | 50656 | 100.0 | /mnt/stockage/packages/f26/freeipa/install/po/uk.po | 
- | [zh_Hans]({{< ref "/f26/language/zh_Hans.md" >}}) | 18848 | 18848 | 100.0 | /mnt/stockage/packages/f26/freeipa/install/po/zh_CN.po | 
+ | [bn_IN](/f26/language/bn_IN) | 34 | 34 | 100.0 | /mnt/stockage/packages/f26/freeipa/install/po/bn_IN.po | 
+ | [ca](/f26/language/ca) | 252 | 252 | 100.0 | /mnt/stockage/packages/f26/freeipa/install/po/ca.po | 
+ | [cs](/f26/language/cs) | 133 | 133 | 100.0 | /mnt/stockage/packages/f26/freeipa/install/po/cs.po | 
+ | [de](/f26/language/de) | 5063 | 5063 | 100.0 | /mnt/stockage/packages/f26/freeipa/install/po/de.po | 
+ | [es](/f26/language/es) | 6596 | 6596 | 100.0 | /mnt/stockage/packages/f26/freeipa/install/po/es.po | 
+ | [eu](/f26/language/eu) | 373 | 373 | 100.0 | /mnt/stockage/packages/f26/freeipa/install/po/eu.po | 
+ | [fr](/f26/language/fr) | 30838 | 30838 | 100.0 | /mnt/stockage/packages/f26/freeipa/install/po/fr.po | 
+ | [hi](/f26/language/hi) | 93 | 93 | 100.0 | /mnt/stockage/packages/f26/freeipa/install/po/hi.po | 
+ | [hu](/f26/language/hu) | 141 | 141 | 100.0 | /mnt/stockage/packages/f26/freeipa/install/po/hu.po | 
+ | [id](/f26/language/id) | 307 | 307 | 100.0 | /mnt/stockage/packages/f26/freeipa/install/po/id.po | 
+ | [ja](/f26/language/ja) | 423 | 423 | 100.0 | /mnt/stockage/packages/f26/freeipa/install/po/ja.po | 
+ | [kn](/f26/language/kn) | 712 | 712 | 100.0 | /mnt/stockage/packages/f26/freeipa/install/po/kn.po | 
+ | [mr](/f26/language/mr) | 103 | 103 | 100.0 | /mnt/stockage/packages/f26/freeipa/install/po/mr.po | 
+ | [nl](/f26/language/nl) | 4 | 4 | 100.0 | /mnt/stockage/packages/f26/freeipa/install/po/nl.po | 
+ | [pl](/f26/language/pl) | 1816 | 1816 | 100.0 | /mnt/stockage/packages/f26/freeipa/install/po/pl.po | 
+ | [pt_BR](/f26/language/pt_BR) | 44 | 44 | 100.0 | /mnt/stockage/packages/f26/freeipa/install/po/pt_BR.po | 
+ | [ru](/f26/language/ru) | 1965 | 1965 | 100.0 | /mnt/stockage/packages/f26/freeipa/install/po/ru.po | 
+ | [sk](/f26/language/sk) | 2841 | 2841 | 100.0 | /mnt/stockage/packages/f26/freeipa/install/po/sk.po | 
+ | [tg](/f26/language/tg) | 150 | 150 | 100.0 | /mnt/stockage/packages/f26/freeipa/install/po/tg.po | 
+ | [uk](/f26/language/uk) | 50656 | 50656 | 100.0 | /mnt/stockage/packages/f26/freeipa/install/po/uk.po | 
+ | [zh_Hans](/f26/language/zh_Hans) | 18848 | 18848 | 100.0 | /mnt/stockage/packages/f26/freeipa/install/po/zh_CN.po | 
 {.sortable}
 
 

@@ -38,15 +38,15 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [dopewars]({{< ref "/f17/package/dopewars.md" >}}) | 5286 | 5286 | 100.0 | French | 
- | [wicd]({{< ref "/f17/package/wicd.md" >}}) | 1054 | 1058 | 99.6 | fr_CA <LL@li.org> | 
- | [soundconverter]({{< ref "/f17/package/soundconverter.md" >}}) | 459 | 462 | 99.4 | French (Canada) <fr_CA@li.org> | 
- | [cinnamon]({{< ref "/f17/package/cinnamon.md" >}}) | 1240 | 1696 | 73.1 | French (Canada) <fr_CA@li.org> | 
- | [jpoker]({{< ref "/f17/package/jpoker.md" >}}) | 256 | 357 | 71.7 | <pokersource-users@gna.org> | 
- | [picard]({{< ref "/f17/package/picard.md" >}}) | 157 | 1681 | 9.3 | French (Canada) (http://www.transifex.com/projects/p/musicbrainz/language/fr_CA/) | 
- | [supertuxkart]({{< ref "/f17/package/supertuxkart.md" >}}) | 55 | 1326 | 4.1 |  | 
- | [calibre]({{< ref "/f17/package/calibre.md" >}}) | 667 | 39559 | 1.7 | French (Canada) <fr_CA@li.org> | 
- | [olpc-switch-desktop]({{< ref "/f17/package/olpc-switch-desktop.md" >}}) | 0 | 158 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [dopewars](/f17/package/dopewars) | 5286 | 5286 | 100.0 | French | 
+ | [wicd](/f17/package/wicd) | 1054 | 1058 | 99.6 | fr_CA <LL@li.org> | 
+ | [soundconverter](/f17/package/soundconverter) | 459 | 462 | 99.4 | French (Canada) <fr_CA@li.org> | 
+ | [cinnamon](/f17/package/cinnamon) | 1240 | 1696 | 73.1 | French (Canada) <fr_CA@li.org> | 
+ | [jpoker](/f17/package/jpoker) | 256 | 357 | 71.7 | <pokersource-users@gna.org> | 
+ | [picard](/f17/package/picard) | 157 | 1681 | 9.3 | French (Canada) (http://www.transifex.com/projects/p/musicbrainz/language/fr_CA/) | 
+ | [supertuxkart](/f17/package/supertuxkart) | 55 | 1326 | 4.1 |  | 
+ | [calibre](/f17/package/calibre) | 667 | 39559 | 1.7 | French (Canada) <fr_CA@li.org> | 
+ | [olpc-switch-desktop](/f17/package/olpc-switch-desktop) | 0 | 158 | 0.0 | LANGUAGE <LL@li.org> | 
 {.sortable}
 
 

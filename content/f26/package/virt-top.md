@@ -18,26 +18,26 @@ The package virt-top (version 1.0.8):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [as]({{< ref "/f26/language/as.md" >}}) | 361 | 361 | 100.0 | /mnt/stockage/packages/f26/virt-top/po/as.po | 
- | [es]({{< ref "/f26/language/es.md" >}}) | 361 | 361 | 100.0 | /mnt/stockage/packages/f26/virt-top/po/es.po | 
- | [gu]({{< ref "/f26/language/gu.md" >}}) | 361 | 361 | 100.0 | /mnt/stockage/packages/f26/virt-top/po/gu.po | 
- | [ja]({{< ref "/f26/language/ja.md" >}}) | 361 | 361 | 100.0 | /mnt/stockage/packages/f26/virt-top/po/ja.po | 
- | [kn]({{< ref "/f26/language/kn.md" >}}) | 361 | 361 | 100.0 | /mnt/stockage/packages/f26/virt-top/po/kn.po | 
- | [mr]({{< ref "/f26/language/mr.md" >}}) | 361 | 361 | 100.0 | /mnt/stockage/packages/f26/virt-top/po/mr.po | 
- | [nl]({{< ref "/f26/language/nl.md" >}}) | 361 | 361 | 100.0 | /mnt/stockage/packages/f26/virt-top/po/nl.po | 
- | [or]({{< ref "/f26/language/or.md" >}}) | 361 | 361 | 100.0 | /mnt/stockage/packages/f26/virt-top/po/or.po | 
- | [pl]({{< ref "/f26/language/pl.md" >}}) | 361 | 361 | 100.0 | /mnt/stockage/packages/f26/virt-top/po/pl.po | 
- | [pt]({{< ref "/f26/language/pt.md" >}}) | 361 | 361 | 100.0 | /mnt/stockage/packages/f26/virt-top/po/pt.po | 
- | [pt_BR]({{< ref "/f26/language/pt_BR.md" >}}) | 361 | 361 | 100.0 | /mnt/stockage/packages/f26/virt-top/po/pt_BR.po | 
- | [ru]({{< ref "/f26/language/ru.md" >}}) | 361 | 361 | 100.0 | /mnt/stockage/packages/f26/virt-top/po/ru.po | 
- | [te]({{< ref "/f26/language/te.md" >}}) | 361 | 361 | 100.0 | /mnt/stockage/packages/f26/virt-top/po/te.po | 
- | [uk]({{< ref "/f26/language/uk.md" >}}) | 361 | 361 | 100.0 | /mnt/stockage/packages/f26/virt-top/po/uk.po | 
- | [zh_Hans]({{< ref "/f26/language/zh_Hans.md" >}}) | 361 | 361 | 100.0 | /mnt/stockage/packages/f26/virt-top/po/zh_CN.po | 
- | [it]({{< ref "/f26/language/it.md" >}}) | 344 | 361 | 95.3 | /mnt/stockage/packages/f26/virt-top/po/it.po | 
- | [ml]({{< ref "/f26/language/ml.md" >}}) | 344 | 361 | 95.3 | /mnt/stockage/packages/f26/virt-top/po/ml.po | 
- | [de]({{< ref "/f26/language/de.md" >}}) | 165 | 361 | 45.7 | /mnt/stockage/packages/f26/virt-top/po/de.po | 
- | [fr]({{< ref "/f26/language/fr.md" >}}) | 15 | 361 | 4.2 | /mnt/stockage/packages/f26/virt-top/po/fr.po | 
- | [zh_Hant]({{< ref "/f26/language/zh_Hant.md" >}}) | 5 | 361 | 1.4 | /mnt/stockage/packages/f26/virt-top/po/zh_TW.po | 
+ | [as](/f26/language/as) | 361 | 361 | 100.0 | /mnt/stockage/packages/f26/virt-top/po/as.po | 
+ | [es](/f26/language/es) | 361 | 361 | 100.0 | /mnt/stockage/packages/f26/virt-top/po/es.po | 
+ | [gu](/f26/language/gu) | 361 | 361 | 100.0 | /mnt/stockage/packages/f26/virt-top/po/gu.po | 
+ | [ja](/f26/language/ja) | 361 | 361 | 100.0 | /mnt/stockage/packages/f26/virt-top/po/ja.po | 
+ | [kn](/f26/language/kn) | 361 | 361 | 100.0 | /mnt/stockage/packages/f26/virt-top/po/kn.po | 
+ | [mr](/f26/language/mr) | 361 | 361 | 100.0 | /mnt/stockage/packages/f26/virt-top/po/mr.po | 
+ | [nl](/f26/language/nl) | 361 | 361 | 100.0 | /mnt/stockage/packages/f26/virt-top/po/nl.po | 
+ | [or](/f26/language/or) | 361 | 361 | 100.0 | /mnt/stockage/packages/f26/virt-top/po/or.po | 
+ | [pl](/f26/language/pl) | 361 | 361 | 100.0 | /mnt/stockage/packages/f26/virt-top/po/pl.po | 
+ | [pt](/f26/language/pt) | 361 | 361 | 100.0 | /mnt/stockage/packages/f26/virt-top/po/pt.po | 
+ | [pt_BR](/f26/language/pt_BR) | 361 | 361 | 100.0 | /mnt/stockage/packages/f26/virt-top/po/pt_BR.po | 
+ | [ru](/f26/language/ru) | 361 | 361 | 100.0 | /mnt/stockage/packages/f26/virt-top/po/ru.po | 
+ | [te](/f26/language/te) | 361 | 361 | 100.0 | /mnt/stockage/packages/f26/virt-top/po/te.po | 
+ | [uk](/f26/language/uk) | 361 | 361 | 100.0 | /mnt/stockage/packages/f26/virt-top/po/uk.po | 
+ | [zh_Hans](/f26/language/zh_Hans) | 361 | 361 | 100.0 | /mnt/stockage/packages/f26/virt-top/po/zh_CN.po | 
+ | [it](/f26/language/it) | 344 | 361 | 95.3 | /mnt/stockage/packages/f26/virt-top/po/it.po | 
+ | [ml](/f26/language/ml) | 344 | 361 | 95.3 | /mnt/stockage/packages/f26/virt-top/po/ml.po | 
+ | [de](/f26/language/de) | 165 | 361 | 45.7 | /mnt/stockage/packages/f26/virt-top/po/de.po | 
+ | [fr](/f26/language/fr) | 15 | 361 | 4.2 | /mnt/stockage/packages/f26/virt-top/po/fr.po | 
+ | [zh_Hant](/f26/language/zh_Hant) | 5 | 361 | 1.4 | /mnt/stockage/packages/f26/virt-top/po/zh_TW.po | 
 {.sortable}
 
 

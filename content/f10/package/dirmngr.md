@@ -18,7 +18,7 @@ The package dirmngr (version 1.0.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f10/language/de.md" >}}) | 2185 | 2185 | 100.0 | /mnt/stockage/packages/f10/dirmngr/po/de.po | 
+ | [de](/f10/language/de) | 2185 | 2185 | 100.0 | /mnt/stockage/packages/f10/dirmngr/po/de.po | 
 {.sortable}
 
 

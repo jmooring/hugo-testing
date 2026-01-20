@@ -18,13 +18,13 @@ The package fotoxx (version 8.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f12/language/de.md" >}}) | 827 | 827 | 100.0 | /mnt/stockage/packages/f12/fotoxx/locales/de/fotoxx.po/mnt/stockage/packages/f12/fotoxx/locales/de/zfuncs.po | 
- | [fr]({{< ref "/f12/language/fr.md" >}}) | 827 | 827 | 100.0 | /mnt/stockage/packages/f12/fotoxx/locales/fr/fotoxx.po/mnt/stockage/packages/f12/fotoxx/locales/fr/zfuncs.po | 
- | [zh_Hans]({{< ref "/f12/language/zh_Hans.md" >}}) | 827 | 827 | 100.0 | /mnt/stockage/packages/f12/fotoxx/locales/zh_CN/fotoxx.po/mnt/stockage/packages/f12/fotoxx/locales/zh_CN/zfuncs.po | 
- | [es]({{< ref "/f12/language/es.md" >}}) | 780 | 827 | 94.3 | /mnt/stockage/packages/f12/fotoxx/locales/es/fotoxx.po/mnt/stockage/packages/f12/fotoxx/locales/es/zfuncs.po | 
- | [gl]({{< ref "/f12/language/gl.md" >}}) | 780 | 827 | 94.3 | /mnt/stockage/packages/f12/fotoxx/locales/gl/fotoxx.po/mnt/stockage/packages/f12/fotoxx/locales/gl/zfuncs.po | 
- | [cs]({{< ref "/f12/language/cs.md" >}}) | 589 | 827 | 71.2 | /mnt/stockage/packages/f12/fotoxx/locales/cz/fotoxx.po/mnt/stockage/packages/f12/fotoxx/locales/cz/zfuncs.po | 
- | [el]({{< ref "/f12/language/el.md" >}}) | 392 | 827 | 47.4 | /mnt/stockage/packages/f12/fotoxx/locales/el/fotoxx.po/mnt/stockage/packages/f12/fotoxx/locales/el/zfuncs.po | 
+ | [de](/f12/language/de) | 827 | 827 | 100.0 | /mnt/stockage/packages/f12/fotoxx/locales/de/fotoxx.po/mnt/stockage/packages/f12/fotoxx/locales/de/zfuncs.po | 
+ | [fr](/f12/language/fr) | 827 | 827 | 100.0 | /mnt/stockage/packages/f12/fotoxx/locales/fr/fotoxx.po/mnt/stockage/packages/f12/fotoxx/locales/fr/zfuncs.po | 
+ | [zh_Hans](/f12/language/zh_Hans) | 827 | 827 | 100.0 | /mnt/stockage/packages/f12/fotoxx/locales/zh_CN/fotoxx.po/mnt/stockage/packages/f12/fotoxx/locales/zh_CN/zfuncs.po | 
+ | [es](/f12/language/es) | 780 | 827 | 94.3 | /mnt/stockage/packages/f12/fotoxx/locales/es/fotoxx.po/mnt/stockage/packages/f12/fotoxx/locales/es/zfuncs.po | 
+ | [gl](/f12/language/gl) | 780 | 827 | 94.3 | /mnt/stockage/packages/f12/fotoxx/locales/gl/fotoxx.po/mnt/stockage/packages/f12/fotoxx/locales/gl/zfuncs.po | 
+ | [cs](/f12/language/cs) | 589 | 827 | 71.2 | /mnt/stockage/packages/f12/fotoxx/locales/cz/fotoxx.po/mnt/stockage/packages/f12/fotoxx/locales/cz/zfuncs.po | 
+ | [el](/f12/language/el) | 392 | 827 | 47.4 | /mnt/stockage/packages/f12/fotoxx/locales/el/fotoxx.po/mnt/stockage/packages/f12/fotoxx/locales/el/zfuncs.po | 
 {.sortable}
 
 

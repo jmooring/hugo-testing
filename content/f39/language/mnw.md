@@ -39,9 +39,9 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [deja-dup]({{< ref "/f39/package/deja-dup.md" >}}) | 246 | 1623 | 15.2 | Mon <mnw@li.org> | 
- | [snapd]({{< ref "/f39/package/snapd.md" >}}) | 48 | 4307 | 1.1 | Mon <mnw@li.org> | 
- | [cinnamon-translations]({{< ref "/f39/package/cinnamon-translations.md" >}}) | 7 | 7238 | 0.1 | Mon <mnw@li.org> | 
+ | [deja-dup](/f39/package/deja-dup) | 246 | 1623 | 15.2 | Mon <mnw@li.org> | 
+ | [snapd](/f39/package/snapd) | 48 | 4307 | 1.1 | Mon <mnw@li.org> | 
+ | [cinnamon-translations](/f39/package/cinnamon-translations) | 7 | 7238 | 0.1 | Mon <mnw@li.org> | 
 {.sortable}
 
 

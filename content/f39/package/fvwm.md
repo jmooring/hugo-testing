@@ -18,15 +18,15 @@ The package fvwm (version 2.7.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [da]({{< ref "/f39/language/da.md" >}}) | 858 | 858 | 100.0 | /mnt/stockage/packages/f39/fvwm/po/fvwm.da.po/mnt/stockage/packages/f39/fvwm/po/FvwmScript.da.po | 
- | [de]({{< ref "/f39/language/de.md" >}}) | 858 | 858 | 100.0 | /mnt/stockage/packages/f39/fvwm/po/fvwm.de.po/mnt/stockage/packages/f39/fvwm/po/FvwmScript.de.po | 
- | [es]({{< ref "/f39/language/es.md" >}}) | 858 | 858 | 100.0 | /mnt/stockage/packages/f39/fvwm/po/fvwm.es.po/mnt/stockage/packages/f39/fvwm/po/FvwmScript.es.po | 
- | [fr]({{< ref "/f39/language/fr.md" >}}) | 859 | 859 | 100.0 | /mnt/stockage/packages/f39/fvwm/po/fvwm.fr.po/mnt/stockage/packages/f39/fvwm/po/FvwmScript.fr.po | 
- | [ru]({{< ref "/f39/language/ru.md" >}}) | 248 | 248 | 100.0 | /mnt/stockage/packages/f39/fvwm/po/fvwm.ru.po/mnt/stockage/packages/f39/fvwm/po/FvwmScript.ru.po | 
- | [sv]({{< ref "/f39/language/sv.md" >}}) | 248 | 248 | 100.0 | /mnt/stockage/packages/f39/fvwm/po/fvwm.sv_SE.po/mnt/stockage/packages/f39/fvwm/po/FvwmScript.sv_SE.po | 
- | [zh_Hant]({{< ref "/f39/language/zh_Hant.md" >}}) | 248 | 248 | 100.0 | /mnt/stockage/packages/f39/fvwm/po/fvwm.zh_TW.po/mnt/stockage/packages/f39/fvwm/po/FvwmScript.zh_TW.po | 
- | [zh_Hans]({{< ref "/f39/language/zh_Hans.md" >}}) | 228 | 858 | 26.6 | /mnt/stockage/packages/f39/fvwm/po/fvwm.zh_CN.po/mnt/stockage/packages/f39/fvwm/po/FvwmScript.zh_CN.po | 
- | [ar]({{< ref "/f39/language/ar.md" >}}) | 180 | 858 | 21.0 | /mnt/stockage/packages/f39/fvwm/po/fvwm.ar.po/mnt/stockage/packages/f39/fvwm/po/FvwmScript.ar.po | 
+ | [da](/f39/language/da) | 858 | 858 | 100.0 | /mnt/stockage/packages/f39/fvwm/po/fvwm.da.po/mnt/stockage/packages/f39/fvwm/po/FvwmScript.da.po | 
+ | [de](/f39/language/de) | 858 | 858 | 100.0 | /mnt/stockage/packages/f39/fvwm/po/fvwm.de.po/mnt/stockage/packages/f39/fvwm/po/FvwmScript.de.po | 
+ | [es](/f39/language/es) | 858 | 858 | 100.0 | /mnt/stockage/packages/f39/fvwm/po/fvwm.es.po/mnt/stockage/packages/f39/fvwm/po/FvwmScript.es.po | 
+ | [fr](/f39/language/fr) | 859 | 859 | 100.0 | /mnt/stockage/packages/f39/fvwm/po/fvwm.fr.po/mnt/stockage/packages/f39/fvwm/po/FvwmScript.fr.po | 
+ | [ru](/f39/language/ru) | 248 | 248 | 100.0 | /mnt/stockage/packages/f39/fvwm/po/fvwm.ru.po/mnt/stockage/packages/f39/fvwm/po/FvwmScript.ru.po | 
+ | [sv](/f39/language/sv) | 248 | 248 | 100.0 | /mnt/stockage/packages/f39/fvwm/po/fvwm.sv_SE.po/mnt/stockage/packages/f39/fvwm/po/FvwmScript.sv_SE.po | 
+ | [zh_Hant](/f39/language/zh_Hant) | 248 | 248 | 100.0 | /mnt/stockage/packages/f39/fvwm/po/fvwm.zh_TW.po/mnt/stockage/packages/f39/fvwm/po/FvwmScript.zh_TW.po | 
+ | [zh_Hans](/f39/language/zh_Hans) | 228 | 858 | 26.6 | /mnt/stockage/packages/f39/fvwm/po/fvwm.zh_CN.po/mnt/stockage/packages/f39/fvwm/po/FvwmScript.zh_CN.po | 
+ | [ar](/f39/language/ar) | 180 | 858 | 21.0 | /mnt/stockage/packages/f39/fvwm/po/fvwm.ar.po/mnt/stockage/packages/f39/fvwm/po/FvwmScript.ar.po | 
 {.sortable}
 
 

@@ -38,11 +38,11 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [minetest]({{< ref "/f25/package/minetest.md" >}}) | 1615 | 6406 | 25.2 | Serbian (cyrillic) <https://hosted.weblate.org/projects/minetest/minetest/sr_Cyrl/> | 
- | [publican]({{< ref "/f25/package/publican.md" >}}) | 1058 | 5443 | 19.4 | Serbian <trans-sr@lists.fedoraproject.org> | 
- | [wine]({{< ref "/f25/package/wine.md" >}}) | 2204 | 15462 | 14.3 | Serbian (Cyrillic) | 
- | [blivet-gui]({{< ref "/f25/package/blivet-gui.md" >}}) | 0 | 703 | 0.0 | Serbian (Cyrillic) | 
- | [fonts-tweak-tool]({{< ref "/f25/package/fonts-tweak-tool.md" >}}) | 0 | 164 | 0.0 | Serbian (Cyrillic) | 
+ | [minetest](/f25/package/minetest) | 1615 | 6406 | 25.2 | Serbian (cyrillic) <https://hosted.weblate.org/projects/minetest/minetest/sr_Cyrl/> | 
+ | [publican](/f25/package/publican) | 1058 | 5443 | 19.4 | Serbian <trans-sr@lists.fedoraproject.org> | 
+ | [wine](/f25/package/wine) | 2204 | 15462 | 14.3 | Serbian (Cyrillic) | 
+ | [blivet-gui](/f25/package/blivet-gui) | 0 | 703 | 0.0 | Serbian (Cyrillic) | 
+ | [fonts-tweak-tool](/f25/package/fonts-tweak-tool) | 0 | 164 | 0.0 | Serbian (Cyrillic) | 
 {.sortable}
 
 

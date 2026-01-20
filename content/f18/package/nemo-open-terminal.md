@@ -18,65 +18,65 @@ The package nemo-open-terminal (version 1.0.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [as]({{< ref "/f18/language/as.md" >}}) | 166 | 166 | 100.0 | /mnt/stockage/packages/f18/nemo-open-terminal/po/as.po | 
- | [be]({{< ref "/f18/language/be.md" >}}) | 166 | 166 | 100.0 | /mnt/stockage/packages/f18/nemo-open-terminal/po/be.po | 
- | [bg]({{< ref "/f18/language/bg.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f18/nemo-open-terminal/po/bg.po | 
- | [bn_IN]({{< ref "/f18/language/bn_IN.md" >}}) | 166 | 166 | 100.0 | /mnt/stockage/packages/f18/nemo-open-terminal/po/bn_IN.po | 
- | [ca]({{< ref "/f18/language/ca.md" >}}) | 166 | 166 | 100.0 | /mnt/stockage/packages/f18/nemo-open-terminal/po/ca.po | 
- | [ca@valencia]({{< ref "/f18/language/ca@valencia.md" >}}) | 166 | 166 | 100.0 | /mnt/stockage/packages/f18/nemo-open-terminal/po/ca@valencia.po | 
- | [cs]({{< ref "/f18/language/cs.md" >}}) | 166 | 166 | 100.0 | /mnt/stockage/packages/f18/nemo-open-terminal/po/cs.po | 
- | [da]({{< ref "/f18/language/da.md" >}}) | 166 | 166 | 100.0 | /mnt/stockage/packages/f18/nemo-open-terminal/po/da.po | 
- | [de]({{< ref "/f18/language/de.md" >}}) | 166 | 166 | 100.0 | /mnt/stockage/packages/f18/nemo-open-terminal/po/de.po | 
- | [dz]({{< ref "/f18/language/dz.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f18/nemo-open-terminal/po/dz.po | 
- | [el]({{< ref "/f18/language/el.md" >}}) | 166 | 166 | 100.0 | /mnt/stockage/packages/f18/nemo-open-terminal/po/el.po | 
- | [en_CA]({{< ref "/f18/language/en_CA.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f18/nemo-open-terminal/po/en_CA.po | 
- | [en_GB]({{< ref "/f18/language/en_GB.md" >}}) | 166 | 166 | 100.0 | /mnt/stockage/packages/f18/nemo-open-terminal/po/en_GB.po | 
- | [error]({{< ref "/f18/language/error.md" >}}) | 23 | 23 | 100.0 | /mnt/stockage/packages/f18/nemo-open-terminal/po/sr@Latn.po | 
- | [es]({{< ref "/f18/language/es.md" >}}) | 166 | 166 | 100.0 | /mnt/stockage/packages/f18/nemo-open-terminal/po/es.po | 
- | [et]({{< ref "/f18/language/et.md" >}}) | 166 | 166 | 100.0 | /mnt/stockage/packages/f18/nemo-open-terminal/po/et.po | 
- | [eu]({{< ref "/f18/language/eu.md" >}}) | 166 | 166 | 100.0 | /mnt/stockage/packages/f18/nemo-open-terminal/po/eu.po | 
- | [fi]({{< ref "/f18/language/fi.md" >}}) | 158 | 158 | 100.0 | /mnt/stockage/packages/f18/nemo-open-terminal/po/fi.po | 
- | [fr]({{< ref "/f18/language/fr.md" >}}) | 166 | 166 | 100.0 | /mnt/stockage/packages/f18/nemo-open-terminal/po/fr.po | 
- | [gl]({{< ref "/f18/language/gl.md" >}}) | 166 | 166 | 100.0 | /mnt/stockage/packages/f18/nemo-open-terminal/po/gl.po | 
- | [gu]({{< ref "/f18/language/gu.md" >}}) | 166 | 166 | 100.0 | /mnt/stockage/packages/f18/nemo-open-terminal/po/gu.po | 
- | [he]({{< ref "/f18/language/he.md" >}}) | 166 | 166 | 100.0 | /mnt/stockage/packages/f18/nemo-open-terminal/po/he.po | 
- | [hu]({{< ref "/f18/language/hu.md" >}}) | 166 | 166 | 100.0 | /mnt/stockage/packages/f18/nemo-open-terminal/po/hu.po | 
- | [id]({{< ref "/f18/language/id.md" >}}) | 166 | 166 | 100.0 | /mnt/stockage/packages/f18/nemo-open-terminal/po/id.po | 
- | [it]({{< ref "/f18/language/it.md" >}}) | 166 | 166 | 100.0 | /mnt/stockage/packages/f18/nemo-open-terminal/po/it.po | 
- | [ja]({{< ref "/f18/language/ja.md" >}}) | 166 | 166 | 100.0 | /mnt/stockage/packages/f18/nemo-open-terminal/po/ja.po | 
- | [ka]({{< ref "/f18/language/ka.md" >}}) | 82 | 82 | 100.0 | /mnt/stockage/packages/f18/nemo-open-terminal/po/ka.po | 
- | [kn]({{< ref "/f18/language/kn.md" >}}) | 166 | 166 | 100.0 | /mnt/stockage/packages/f18/nemo-open-terminal/po/kn.po | 
- | [ko]({{< ref "/f18/language/ko.md" >}}) | 166 | 166 | 100.0 | /mnt/stockage/packages/f18/nemo-open-terminal/po/ko.po | 
- | [lt]({{< ref "/f18/language/lt.md" >}}) | 166 | 166 | 100.0 | /mnt/stockage/packages/f18/nemo-open-terminal/po/lt.po | 
- | [mk]({{< ref "/f18/language/mk.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f18/nemo-open-terminal/po/mk.po | 
- | [ml]({{< ref "/f18/language/ml.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f18/nemo-open-terminal/po/ml.po | 
- | [mr]({{< ref "/f18/language/mr.md" >}}) | 166 | 166 | 100.0 | /mnt/stockage/packages/f18/nemo-open-terminal/po/mr.po | 
- | [ne]({{< ref "/f18/language/ne.md" >}}) | 82 | 82 | 100.0 | /mnt/stockage/packages/f18/nemo-open-terminal/po/ne.po | 
- | [nl]({{< ref "/f18/language/nl.md" >}}) | 166 | 166 | 100.0 | /mnt/stockage/packages/f18/nemo-open-terminal/po/nl.po | 
- | [or]({{< ref "/f18/language/or.md" >}}) | 166 | 166 | 100.0 | /mnt/stockage/packages/f18/nemo-open-terminal/po/or.po | 
- | [pa]({{< ref "/f18/language/pa.md" >}}) | 166 | 166 | 100.0 | /mnt/stockage/packages/f18/nemo-open-terminal/po/pa.po | 
- | [pl]({{< ref "/f18/language/pl.md" >}}) | 166 | 166 | 100.0 | /mnt/stockage/packages/f18/nemo-open-terminal/po/pl.po | 
- | [pt]({{< ref "/f18/language/pt.md" >}}) | 166 | 166 | 100.0 | /mnt/stockage/packages/f18/nemo-open-terminal/po/pt.po | 
- | [pt_BR]({{< ref "/f18/language/pt_BR.md" >}}) | 166 | 166 | 100.0 | /mnt/stockage/packages/f18/nemo-open-terminal/po/pt_BR.po | 
- | [ro]({{< ref "/f18/language/ro.md" >}}) | 166 | 166 | 100.0 | /mnt/stockage/packages/f18/nemo-open-terminal/po/ro.po | 
- | [ru]({{< ref "/f18/language/ru.md" >}}) | 166 | 166 | 100.0 | /mnt/stockage/packages/f18/nemo-open-terminal/po/ru.po | 
- | [sk]({{< ref "/f18/language/sk.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f18/nemo-open-terminal/po/sk.po | 
- | [sl]({{< ref "/f18/language/sl.md" >}}) | 166 | 166 | 100.0 | /mnt/stockage/packages/f18/nemo-open-terminal/po/sl.po | 
- | [sr]({{< ref "/f18/language/sr.md" >}}) | 23 | 23 | 100.0 | /mnt/stockage/packages/f18/nemo-open-terminal/po/sr.po | 
- | [sv]({{< ref "/f18/language/sv.md" >}}) | 166 | 166 | 100.0 | /mnt/stockage/packages/f18/nemo-open-terminal/po/sv.po | 
- | [ta]({{< ref "/f18/language/ta.md" >}}) | 166 | 166 | 100.0 | /mnt/stockage/packages/f18/nemo-open-terminal/po/ta.po | 
- | [te]({{< ref "/f18/language/te.md" >}}) | 166 | 166 | 100.0 | /mnt/stockage/packages/f18/nemo-open-terminal/po/te.po | 
- | [th]({{< ref "/f18/language/th.md" >}}) | 166 | 166 | 100.0 | /mnt/stockage/packages/f18/nemo-open-terminal/po/th.po | 
- | [tr]({{< ref "/f18/language/tr.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f18/nemo-open-terminal/po/tr.po | 
- | [uk]({{< ref "/f18/language/uk.md" >}}) | 166 | 166 | 100.0 | /mnt/stockage/packages/f18/nemo-open-terminal/po/uk.po | 
- | [vi]({{< ref "/f18/language/vi.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f18/nemo-open-terminal/po/vi.po | 
- | [zh_Hans]({{< ref "/f18/language/zh_Hans.md" >}}) | 166 | 166 | 100.0 | /mnt/stockage/packages/f18/nemo-open-terminal/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f18/language/zh_Hant.md" >}}) | 16 | 16 | 100.0 | /mnt/stockage/packages/f18/nemo-open-terminal/po/zh_TW.po | 
- | [be_Latn]({{< ref "/f18/language/be_Latn.md" >}}) | 129 | 158 | 81.6 | /mnt/stockage/packages/f18/nemo-open-terminal/po/be@latin.po | 
- | [ar]({{< ref "/f18/language/ar.md" >}}) | 70 | 166 | 42.2 | /mnt/stockage/packages/f18/nemo-open-terminal/po/ar.po | 
- | [nb_NO]({{< ref "/f18/language/nb_NO.md" >}}) | 70 | 166 | 42.2 | /mnt/stockage/packages/f18/nemo-open-terminal/po/nb.po | 
- | [oc]({{< ref "/f18/language/oc.md" >}}) | 31 | 158 | 19.6 | /mnt/stockage/packages/f18/nemo-open-terminal/po/oc.po | 
- | [rw]({{< ref "/f18/language/rw.md" >}}) | 0 | 16 | 0.0 | /mnt/stockage/packages/f18/nemo-open-terminal/po/rw.po | 
+ | [as](/f18/language/as) | 166 | 166 | 100.0 | /mnt/stockage/packages/f18/nemo-open-terminal/po/as.po | 
+ | [be](/f18/language/be) | 166 | 166 | 100.0 | /mnt/stockage/packages/f18/nemo-open-terminal/po/be.po | 
+ | [bg](/f18/language/bg) | 24 | 24 | 100.0 | /mnt/stockage/packages/f18/nemo-open-terminal/po/bg.po | 
+ | [bn_IN](/f18/language/bn_IN) | 166 | 166 | 100.0 | /mnt/stockage/packages/f18/nemo-open-terminal/po/bn_IN.po | 
+ | [ca](/f18/language/ca) | 166 | 166 | 100.0 | /mnt/stockage/packages/f18/nemo-open-terminal/po/ca.po | 
+ | [ca@valencia](/f18/language/ca@valencia) | 166 | 166 | 100.0 | /mnt/stockage/packages/f18/nemo-open-terminal/po/ca@valencia.po | 
+ | [cs](/f18/language/cs) | 166 | 166 | 100.0 | /mnt/stockage/packages/f18/nemo-open-terminal/po/cs.po | 
+ | [da](/f18/language/da) | 166 | 166 | 100.0 | /mnt/stockage/packages/f18/nemo-open-terminal/po/da.po | 
+ | [de](/f18/language/de) | 166 | 166 | 100.0 | /mnt/stockage/packages/f18/nemo-open-terminal/po/de.po | 
+ | [dz](/f18/language/dz) | 24 | 24 | 100.0 | /mnt/stockage/packages/f18/nemo-open-terminal/po/dz.po | 
+ | [el](/f18/language/el) | 166 | 166 | 100.0 | /mnt/stockage/packages/f18/nemo-open-terminal/po/el.po | 
+ | [en_CA](/f18/language/en_CA) | 24 | 24 | 100.0 | /mnt/stockage/packages/f18/nemo-open-terminal/po/en_CA.po | 
+ | [en_GB](/f18/language/en_GB) | 166 | 166 | 100.0 | /mnt/stockage/packages/f18/nemo-open-terminal/po/en_GB.po | 
+ | [error](/f18/language/error) | 23 | 23 | 100.0 | /mnt/stockage/packages/f18/nemo-open-terminal/po/sr@Latn.po | 
+ | [es](/f18/language/es) | 166 | 166 | 100.0 | /mnt/stockage/packages/f18/nemo-open-terminal/po/es.po | 
+ | [et](/f18/language/et) | 166 | 166 | 100.0 | /mnt/stockage/packages/f18/nemo-open-terminal/po/et.po | 
+ | [eu](/f18/language/eu) | 166 | 166 | 100.0 | /mnt/stockage/packages/f18/nemo-open-terminal/po/eu.po | 
+ | [fi](/f18/language/fi) | 158 | 158 | 100.0 | /mnt/stockage/packages/f18/nemo-open-terminal/po/fi.po | 
+ | [fr](/f18/language/fr) | 166 | 166 | 100.0 | /mnt/stockage/packages/f18/nemo-open-terminal/po/fr.po | 
+ | [gl](/f18/language/gl) | 166 | 166 | 100.0 | /mnt/stockage/packages/f18/nemo-open-terminal/po/gl.po | 
+ | [gu](/f18/language/gu) | 166 | 166 | 100.0 | /mnt/stockage/packages/f18/nemo-open-terminal/po/gu.po | 
+ | [he](/f18/language/he) | 166 | 166 | 100.0 | /mnt/stockage/packages/f18/nemo-open-terminal/po/he.po | 
+ | [hu](/f18/language/hu) | 166 | 166 | 100.0 | /mnt/stockage/packages/f18/nemo-open-terminal/po/hu.po | 
+ | [id](/f18/language/id) | 166 | 166 | 100.0 | /mnt/stockage/packages/f18/nemo-open-terminal/po/id.po | 
+ | [it](/f18/language/it) | 166 | 166 | 100.0 | /mnt/stockage/packages/f18/nemo-open-terminal/po/it.po | 
+ | [ja](/f18/language/ja) | 166 | 166 | 100.0 | /mnt/stockage/packages/f18/nemo-open-terminal/po/ja.po | 
+ | [ka](/f18/language/ka) | 82 | 82 | 100.0 | /mnt/stockage/packages/f18/nemo-open-terminal/po/ka.po | 
+ | [kn](/f18/language/kn) | 166 | 166 | 100.0 | /mnt/stockage/packages/f18/nemo-open-terminal/po/kn.po | 
+ | [ko](/f18/language/ko) | 166 | 166 | 100.0 | /mnt/stockage/packages/f18/nemo-open-terminal/po/ko.po | 
+ | [lt](/f18/language/lt) | 166 | 166 | 100.0 | /mnt/stockage/packages/f18/nemo-open-terminal/po/lt.po | 
+ | [mk](/f18/language/mk) | 24 | 24 | 100.0 | /mnt/stockage/packages/f18/nemo-open-terminal/po/mk.po | 
+ | [ml](/f18/language/ml) | 24 | 24 | 100.0 | /mnt/stockage/packages/f18/nemo-open-terminal/po/ml.po | 
+ | [mr](/f18/language/mr) | 166 | 166 | 100.0 | /mnt/stockage/packages/f18/nemo-open-terminal/po/mr.po | 
+ | [ne](/f18/language/ne) | 82 | 82 | 100.0 | /mnt/stockage/packages/f18/nemo-open-terminal/po/ne.po | 
+ | [nl](/f18/language/nl) | 166 | 166 | 100.0 | /mnt/stockage/packages/f18/nemo-open-terminal/po/nl.po | 
+ | [or](/f18/language/or) | 166 | 166 | 100.0 | /mnt/stockage/packages/f18/nemo-open-terminal/po/or.po | 
+ | [pa](/f18/language/pa) | 166 | 166 | 100.0 | /mnt/stockage/packages/f18/nemo-open-terminal/po/pa.po | 
+ | [pl](/f18/language/pl) | 166 | 166 | 100.0 | /mnt/stockage/packages/f18/nemo-open-terminal/po/pl.po | 
+ | [pt](/f18/language/pt) | 166 | 166 | 100.0 | /mnt/stockage/packages/f18/nemo-open-terminal/po/pt.po | 
+ | [pt_BR](/f18/language/pt_BR) | 166 | 166 | 100.0 | /mnt/stockage/packages/f18/nemo-open-terminal/po/pt_BR.po | 
+ | [ro](/f18/language/ro) | 166 | 166 | 100.0 | /mnt/stockage/packages/f18/nemo-open-terminal/po/ro.po | 
+ | [ru](/f18/language/ru) | 166 | 166 | 100.0 | /mnt/stockage/packages/f18/nemo-open-terminal/po/ru.po | 
+ | [sk](/f18/language/sk) | 24 | 24 | 100.0 | /mnt/stockage/packages/f18/nemo-open-terminal/po/sk.po | 
+ | [sl](/f18/language/sl) | 166 | 166 | 100.0 | /mnt/stockage/packages/f18/nemo-open-terminal/po/sl.po | 
+ | [sr](/f18/language/sr) | 23 | 23 | 100.0 | /mnt/stockage/packages/f18/nemo-open-terminal/po/sr.po | 
+ | [sv](/f18/language/sv) | 166 | 166 | 100.0 | /mnt/stockage/packages/f18/nemo-open-terminal/po/sv.po | 
+ | [ta](/f18/language/ta) | 166 | 166 | 100.0 | /mnt/stockage/packages/f18/nemo-open-terminal/po/ta.po | 
+ | [te](/f18/language/te) | 166 | 166 | 100.0 | /mnt/stockage/packages/f18/nemo-open-terminal/po/te.po | 
+ | [th](/f18/language/th) | 166 | 166 | 100.0 | /mnt/stockage/packages/f18/nemo-open-terminal/po/th.po | 
+ | [tr](/f18/language/tr) | 24 | 24 | 100.0 | /mnt/stockage/packages/f18/nemo-open-terminal/po/tr.po | 
+ | [uk](/f18/language/uk) | 166 | 166 | 100.0 | /mnt/stockage/packages/f18/nemo-open-terminal/po/uk.po | 
+ | [vi](/f18/language/vi) | 24 | 24 | 100.0 | /mnt/stockage/packages/f18/nemo-open-terminal/po/vi.po | 
+ | [zh_Hans](/f18/language/zh_Hans) | 166 | 166 | 100.0 | /mnt/stockage/packages/f18/nemo-open-terminal/po/zh_CN.po | 
+ | [zh_Hant](/f18/language/zh_Hant) | 16 | 16 | 100.0 | /mnt/stockage/packages/f18/nemo-open-terminal/po/zh_TW.po | 
+ | [be_Latn](/f18/language/be_Latn) | 129 | 158 | 81.6 | /mnt/stockage/packages/f18/nemo-open-terminal/po/be@latin.po | 
+ | [ar](/f18/language/ar) | 70 | 166 | 42.2 | /mnt/stockage/packages/f18/nemo-open-terminal/po/ar.po | 
+ | [nb_NO](/f18/language/nb_NO) | 70 | 166 | 42.2 | /mnt/stockage/packages/f18/nemo-open-terminal/po/nb.po | 
+ | [oc](/f18/language/oc) | 31 | 158 | 19.6 | /mnt/stockage/packages/f18/nemo-open-terminal/po/oc.po | 
+ | [rw](/f18/language/rw) | 0 | 16 | 0.0 | /mnt/stockage/packages/f18/nemo-open-terminal/po/rw.po | 
 {.sortable}
 
 

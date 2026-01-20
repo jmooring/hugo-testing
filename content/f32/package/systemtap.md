@@ -18,10 +18,10 @@ The package systemtap (version 4.5):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f32/language/cs.md" >}}) | 4423 | 9941 | 44.5 | /mnt/stockage/packages/f32/systemtap/po/cs.po | 
- | [fr]({{< ref "/f32/language/fr.md" >}}) | 839 | 9941 | 8.4 | /mnt/stockage/packages/f32/systemtap/po/fr.po | 
- | [en]({{< ref "/f32/language/en.md" >}}) | 224 | 9941 | 2.3 | /mnt/stockage/packages/f32/systemtap/po/en.po | 
- | [pl]({{< ref "/f32/language/pl.md" >}}) | 0 | 9941 | 0.0 | /mnt/stockage/packages/f32/systemtap/po/pl.po | 
+ | [cs](/f32/language/cs) | 4423 | 9941 | 44.5 | /mnt/stockage/packages/f32/systemtap/po/cs.po | 
+ | [fr](/f32/language/fr) | 839 | 9941 | 8.4 | /mnt/stockage/packages/f32/systemtap/po/fr.po | 
+ | [en](/f32/language/en) | 224 | 9941 | 2.3 | /mnt/stockage/packages/f32/systemtap/po/en.po | 
+ | [pl](/f32/language/pl) | 0 | 9941 | 0.0 | /mnt/stockage/packages/f32/systemtap/po/pl.po | 
 {.sortable}
 
 

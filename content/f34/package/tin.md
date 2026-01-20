@@ -18,17 +18,17 @@ The package tin (version 2.4.5):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [en_GB]({{< ref "/f34/language/en_GB.md" >}}) | 35165 | 35165 | 100.0 | /mnt/stockage/packages/f34/tin/doc/l10n/en_GB.po/mnt/stockage/packages/f34/tin/po/en_GB.po | 
- | [et]({{< ref "/f34/language/et.md" >}}) | 11227 | 11261 | 99.7 | /mnt/stockage/packages/f34/tin/po/et.po | 
- | [fr]({{< ref "/f34/language/fr.md" >}}) | 11227 | 11261 | 99.7 | /mnt/stockage/packages/f34/tin/po/fr.po | 
- | [tr]({{< ref "/f34/language/tr.md" >}}) | 10575 | 11261 | 93.9 | /mnt/stockage/packages/f34/tin/po/tr.po | 
- | [zh_Hans]({{< ref "/f34/language/zh_Hans.md" >}}) | 10327 | 11261 | 91.7 | /mnt/stockage/packages/f34/tin/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f34/language/zh_Hant.md" >}}) | 10327 | 11261 | 91.7 | /mnt/stockage/packages/f34/tin/po/zh_TW.po | 
- | [da]({{< ref "/f34/language/da.md" >}}) | 9436 | 11261 | 83.8 | /mnt/stockage/packages/f34/tin/po/da.po | 
- | [ru]({{< ref "/f34/language/ru.md" >}}) | 6721 | 11261 | 59.7 | /mnt/stockage/packages/f34/tin/po/ru.po | 
- | [de]({{< ref "/f34/language/de.md" >}}) | 20795 | 35165 | 59.1 | /mnt/stockage/packages/f34/tin/doc/l10n/de.po/mnt/stockage/packages/f34/tin/po/de.po | 
- | [sv]({{< ref "/f34/language/sv.md" >}}) | 1038 | 11261 | 9.2 | /mnt/stockage/packages/f34/tin/po/sv.po | 
- | [es]({{< ref "/f34/language/es.md" >}}) | 987 | 35165 | 2.8 | /mnt/stockage/packages/f34/tin/doc/l10n/es.po/mnt/stockage/packages/f34/tin/po/es.po | 
+ | [en_GB](/f34/language/en_GB) | 35165 | 35165 | 100.0 | /mnt/stockage/packages/f34/tin/doc/l10n/en_GB.po/mnt/stockage/packages/f34/tin/po/en_GB.po | 
+ | [et](/f34/language/et) | 11227 | 11261 | 99.7 | /mnt/stockage/packages/f34/tin/po/et.po | 
+ | [fr](/f34/language/fr) | 11227 | 11261 | 99.7 | /mnt/stockage/packages/f34/tin/po/fr.po | 
+ | [tr](/f34/language/tr) | 10575 | 11261 | 93.9 | /mnt/stockage/packages/f34/tin/po/tr.po | 
+ | [zh_Hans](/f34/language/zh_Hans) | 10327 | 11261 | 91.7 | /mnt/stockage/packages/f34/tin/po/zh_CN.po | 
+ | [zh_Hant](/f34/language/zh_Hant) | 10327 | 11261 | 91.7 | /mnt/stockage/packages/f34/tin/po/zh_TW.po | 
+ | [da](/f34/language/da) | 9436 | 11261 | 83.8 | /mnt/stockage/packages/f34/tin/po/da.po | 
+ | [ru](/f34/language/ru) | 6721 | 11261 | 59.7 | /mnt/stockage/packages/f34/tin/po/ru.po | 
+ | [de](/f34/language/de) | 20795 | 35165 | 59.1 | /mnt/stockage/packages/f34/tin/doc/l10n/de.po/mnt/stockage/packages/f34/tin/po/de.po | 
+ | [sv](/f34/language/sv) | 1038 | 11261 | 9.2 | /mnt/stockage/packages/f34/tin/po/sv.po | 
+ | [es](/f34/language/es) | 987 | 35165 | 2.8 | /mnt/stockage/packages/f34/tin/doc/l10n/es.po/mnt/stockage/packages/f34/tin/po/es.po | 
 {.sortable}
 
 

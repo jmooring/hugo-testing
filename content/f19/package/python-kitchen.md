@@ -18,9 +18,9 @@ The package python-kitchen (version 1.1.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [en_US]({{< ref "/f19/language/en_US.md" >}}) | 487 | 487 | 100.0 | /mnt/stockage/packages/f19/python-kitchen/po/en_US.po | 
- | [pt_BR]({{< ref "/f19/language/pt_BR.md" >}}) | 26 | 28 | 92.9 | /mnt/stockage/packages/f19/python-kitchen/tests/data/locale/pt_BR.po/mnt/stockage/packages/f19/python-kitchen/tests/data/locale-old/pt_BR.po | 
- | [de]({{< ref "/f19/language/de.md" >}}) | 22 | 487 | 4.5 | /mnt/stockage/packages/f19/python-kitchen/po/de.po | 
+ | [en_US](/f19/language/en_US) | 487 | 487 | 100.0 | /mnt/stockage/packages/f19/python-kitchen/po/en_US.po | 
+ | [pt_BR](/f19/language/pt_BR) | 26 | 28 | 92.9 | /mnt/stockage/packages/f19/python-kitchen/tests/data/locale/pt_BR.po/mnt/stockage/packages/f19/python-kitchen/tests/data/locale-old/pt_BR.po | 
+ | [de](/f19/language/de) | 22 | 487 | 4.5 | /mnt/stockage/packages/f19/python-kitchen/po/de.po | 
 {.sortable}
 
 

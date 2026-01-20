@@ -18,18 +18,18 @@ The package catfish (version 0.3.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f12/language/ca.md" >}}) | 76 | 76 | 100.0 | /mnt/stockage/packages/f12/catfish/po/ca.po | 
- | [cs]({{< ref "/f12/language/cs.md" >}}) | 76 | 76 | 100.0 | /mnt/stockage/packages/f12/catfish/po/cs.po | 
- | [de]({{< ref "/f12/language/de.md" >}}) | 76 | 76 | 100.0 | /mnt/stockage/packages/f12/catfish/po/de.po | 
- | [es]({{< ref "/f12/language/es.md" >}}) | 76 | 76 | 100.0 | /mnt/stockage/packages/f12/catfish/po/es.po | 
- | [fi]({{< ref "/f12/language/fi.md" >}}) | 76 | 76 | 100.0 | /mnt/stockage/packages/f12/catfish/po/fi.po | 
- | [fr]({{< ref "/f12/language/fr.md" >}}) | 76 | 76 | 100.0 | /mnt/stockage/packages/f12/catfish/po/fr.po | 
- | [pl]({{< ref "/f12/language/pl.md" >}}) | 76 | 76 | 100.0 | /mnt/stockage/packages/f12/catfish/po/pl.po | 
- | [ru]({{< ref "/f12/language/ru.md" >}}) | 76 | 76 | 100.0 | /mnt/stockage/packages/f12/catfish/po/ru.po | 
- | [zh_Hans]({{< ref "/f12/language/zh_Hans.md" >}}) | 76 | 76 | 100.0 | /mnt/stockage/packages/f12/catfish/po/zh_CN.po | 
- | [it]({{< ref "/f12/language/it.md" >}}) | 74 | 76 | 97.4 | /mnt/stockage/packages/f12/catfish/po/it.po | 
- | [sv]({{< ref "/f12/language/sv.md" >}}) | 74 | 76 | 97.4 | /mnt/stockage/packages/f12/catfish/po/sv.po | 
- | [da]({{< ref "/f12/language/da.md" >}}) | 17 | 76 | 22.4 | /mnt/stockage/packages/f12/catfish/po/da.po | 
+ | [ca](/f12/language/ca) | 76 | 76 | 100.0 | /mnt/stockage/packages/f12/catfish/po/ca.po | 
+ | [cs](/f12/language/cs) | 76 | 76 | 100.0 | /mnt/stockage/packages/f12/catfish/po/cs.po | 
+ | [de](/f12/language/de) | 76 | 76 | 100.0 | /mnt/stockage/packages/f12/catfish/po/de.po | 
+ | [es](/f12/language/es) | 76 | 76 | 100.0 | /mnt/stockage/packages/f12/catfish/po/es.po | 
+ | [fi](/f12/language/fi) | 76 | 76 | 100.0 | /mnt/stockage/packages/f12/catfish/po/fi.po | 
+ | [fr](/f12/language/fr) | 76 | 76 | 100.0 | /mnt/stockage/packages/f12/catfish/po/fr.po | 
+ | [pl](/f12/language/pl) | 76 | 76 | 100.0 | /mnt/stockage/packages/f12/catfish/po/pl.po | 
+ | [ru](/f12/language/ru) | 76 | 76 | 100.0 | /mnt/stockage/packages/f12/catfish/po/ru.po | 
+ | [zh_Hans](/f12/language/zh_Hans) | 76 | 76 | 100.0 | /mnt/stockage/packages/f12/catfish/po/zh_CN.po | 
+ | [it](/f12/language/it) | 74 | 76 | 97.4 | /mnt/stockage/packages/f12/catfish/po/it.po | 
+ | [sv](/f12/language/sv) | 74 | 76 | 97.4 | /mnt/stockage/packages/f12/catfish/po/sv.po | 
+ | [da](/f12/language/da) | 17 | 76 | 22.4 | /mnt/stockage/packages/f12/catfish/po/da.po | 
 {.sortable}
 
 

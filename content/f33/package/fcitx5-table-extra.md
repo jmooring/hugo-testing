@@ -18,16 +18,16 @@ The package fcitx5-table-extra (version 5.0.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [da]({{< ref "/f33/language/da.md" >}}) | 38 | 38 | 100.0 | /mnt/stockage/packages/f33/fcitx5-table-extra/po/da.po | 
- | [ja]({{< ref "/f33/language/ja.md" >}}) | 38 | 38 | 100.0 | /mnt/stockage/packages/f33/fcitx5-table-extra/po/ja.po | 
- | [zh_Hans]({{< ref "/f33/language/zh_Hans.md" >}}) | 38 | 38 | 100.0 | /mnt/stockage/packages/f33/fcitx5-table-extra/po/zh_CN.po | 
- | [ko]({{< ref "/f33/language/ko.md" >}}) | 18 | 38 | 47.4 | /mnt/stockage/packages/f33/fcitx5-table-extra/po/ko.po | 
- | [zh_Hant]({{< ref "/f33/language/zh_Hant.md" >}}) | 18 | 38 | 47.4 | /mnt/stockage/packages/f33/fcitx5-table-extra/po/zh_TW.po | 
- | [ca]({{< ref "/f33/language/ca.md" >}}) | 17 | 38 | 44.7 | /mnt/stockage/packages/f33/fcitx5-table-extra/po/ca.po | 
- | [de]({{< ref "/f33/language/de.md" >}}) | 17 | 38 | 44.7 | /mnt/stockage/packages/f33/fcitx5-table-extra/po/de.po | 
- | [ru]({{< ref "/f33/language/ru.md" >}}) | 17 | 38 | 44.7 | /mnt/stockage/packages/f33/fcitx5-table-extra/po/ru.po | 
- | [tr]({{< ref "/f33/language/tr.md" >}}) | 17 | 38 | 44.7 | /mnt/stockage/packages/f33/fcitx5-table-extra/po/tr.po | 
- | [he]({{< ref "/f33/language/he.md" >}}) | 1 | 38 | 2.6 | /mnt/stockage/packages/f33/fcitx5-table-extra/po/he.po | 
+ | [da](/f33/language/da) | 38 | 38 | 100.0 | /mnt/stockage/packages/f33/fcitx5-table-extra/po/da.po | 
+ | [ja](/f33/language/ja) | 38 | 38 | 100.0 | /mnt/stockage/packages/f33/fcitx5-table-extra/po/ja.po | 
+ | [zh_Hans](/f33/language/zh_Hans) | 38 | 38 | 100.0 | /mnt/stockage/packages/f33/fcitx5-table-extra/po/zh_CN.po | 
+ | [ko](/f33/language/ko) | 18 | 38 | 47.4 | /mnt/stockage/packages/f33/fcitx5-table-extra/po/ko.po | 
+ | [zh_Hant](/f33/language/zh_Hant) | 18 | 38 | 47.4 | /mnt/stockage/packages/f33/fcitx5-table-extra/po/zh_TW.po | 
+ | [ca](/f33/language/ca) | 17 | 38 | 44.7 | /mnt/stockage/packages/f33/fcitx5-table-extra/po/ca.po | 
+ | [de](/f33/language/de) | 17 | 38 | 44.7 | /mnt/stockage/packages/f33/fcitx5-table-extra/po/de.po | 
+ | [ru](/f33/language/ru) | 17 | 38 | 44.7 | /mnt/stockage/packages/f33/fcitx5-table-extra/po/ru.po | 
+ | [tr](/f33/language/tr) | 17 | 38 | 44.7 | /mnt/stockage/packages/f33/fcitx5-table-extra/po/tr.po | 
+ | [he](/f33/language/he) | 1 | 38 | 2.6 | /mnt/stockage/packages/f33/fcitx5-table-extra/po/he.po | 
 {.sortable}
 
 

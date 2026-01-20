@@ -18,13 +18,13 @@ The package wcd (version 5.2.7):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f23/language/de.md" >}}) | 8000 | 8000 | 100.0 | /mnt/stockage/packages/f23/wcd/src/man/de/man1/wcd.po/mnt/stockage/packages/f23/wcd/src/po/de.po | 
- | [fi]({{< ref "/f23/language/fi.md" >}}) | 1393 | 1393 | 100.0 | /mnt/stockage/packages/f23/wcd/src/po/fi.po | 
- | [nl]({{< ref "/f23/language/nl.md" >}}) | 8000 | 8000 | 100.0 | /mnt/stockage/packages/f23/wcd/src/man/nl/man1/wcd.po/mnt/stockage/packages/f23/wcd/src/po/nl.po | 
- | [uk]({{< ref "/f23/language/uk.md" >}}) | 8000 | 8000 | 100.0 | /mnt/stockage/packages/f23/wcd/src/man/uk/man1/wcd.po/mnt/stockage/packages/f23/wcd/src/po/uk.po | 
- | [vi]({{< ref "/f23/language/vi.md" >}}) | 1393 | 1393 | 100.0 | /mnt/stockage/packages/f23/wcd/src/po/vi.po | 
- | [eo]({{< ref "/f23/language/eo.md" >}}) | 1388 | 1393 | 99.6 | /mnt/stockage/packages/f23/wcd/src/po/eo.po | 
- | [es]({{< ref "/f23/language/es.md" >}}) | 1171 | 1393 | 84.1 | /mnt/stockage/packages/f23/wcd/src/po/es.po | 
+ | [de](/f23/language/de) | 8000 | 8000 | 100.0 | /mnt/stockage/packages/f23/wcd/src/man/de/man1/wcd.po/mnt/stockage/packages/f23/wcd/src/po/de.po | 
+ | [fi](/f23/language/fi) | 1393 | 1393 | 100.0 | /mnt/stockage/packages/f23/wcd/src/po/fi.po | 
+ | [nl](/f23/language/nl) | 8000 | 8000 | 100.0 | /mnt/stockage/packages/f23/wcd/src/man/nl/man1/wcd.po/mnt/stockage/packages/f23/wcd/src/po/nl.po | 
+ | [uk](/f23/language/uk) | 8000 | 8000 | 100.0 | /mnt/stockage/packages/f23/wcd/src/man/uk/man1/wcd.po/mnt/stockage/packages/f23/wcd/src/po/uk.po | 
+ | [vi](/f23/language/vi) | 1393 | 1393 | 100.0 | /mnt/stockage/packages/f23/wcd/src/po/vi.po | 
+ | [eo](/f23/language/eo) | 1388 | 1393 | 99.6 | /mnt/stockage/packages/f23/wcd/src/po/eo.po | 
+ | [es](/f23/language/es) | 1171 | 1393 | 84.1 | /mnt/stockage/packages/f23/wcd/src/po/es.po | 
 {.sortable}
 
 

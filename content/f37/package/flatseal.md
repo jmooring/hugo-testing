@@ -18,25 +18,25 @@ The package flatseal (version 1.8.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [bg]({{< ref "/f37/language/bg.md" >}}) | 443 | 443 | 100.0 | /mnt/stockage/packages/f37/flatseal/po/bg_BG.po | 
- | [ca]({{< ref "/f37/language/ca.md" >}}) | 443 | 443 | 100.0 | /mnt/stockage/packages/f37/flatseal/po/ca.po | 
- | [da]({{< ref "/f37/language/da.md" >}}) | 443 | 443 | 100.0 | /mnt/stockage/packages/f37/flatseal/po/da.po | 
- | [de]({{< ref "/f37/language/de.md" >}}) | 443 | 443 | 100.0 | /mnt/stockage/packages/f37/flatseal/po/de.po | 
- | [id]({{< ref "/f37/language/id.md" >}}) | 443 | 443 | 100.0 | /mnt/stockage/packages/f37/flatseal/po/id.po | 
- | [ru]({{< ref "/f37/language/ru.md" >}}) | 443 | 443 | 100.0 | /mnt/stockage/packages/f37/flatseal/po/ru.po | 
- | [sv]({{< ref "/f37/language/sv.md" >}}) | 443 | 443 | 100.0 | /mnt/stockage/packages/f37/flatseal/po/sv.po | 
- | [ta]({{< ref "/f37/language/ta.md" >}}) | 443 | 443 | 100.0 | /mnt/stockage/packages/f37/flatseal/po/ta.po | 
- | [tr]({{< ref "/f37/language/tr.md" >}}) | 443 | 443 | 100.0 | /mnt/stockage/packages/f37/flatseal/po/tr.po | 
- | [zh_Hans]({{< ref "/f37/language/zh_Hans.md" >}}) | 443 | 443 | 100.0 | /mnt/stockage/packages/f37/flatseal/po/zh_CN.po | 
- | [cs]({{< ref "/f37/language/cs.md" >}}) | 439 | 443 | 99.1 | /mnt/stockage/packages/f37/flatseal/po/cs.po | 
- | [fr]({{< ref "/f37/language/fr.md" >}}) | 439 | 443 | 99.1 | /mnt/stockage/packages/f37/flatseal/po/fr.po | 
- | [he]({{< ref "/f37/language/he.md" >}}) | 439 | 443 | 99.1 | /mnt/stockage/packages/f37/flatseal/po/he.po | 
- | [hu]({{< ref "/f37/language/hu.md" >}}) | 439 | 443 | 99.1 | /mnt/stockage/packages/f37/flatseal/po/hu.po | 
- | [nl]({{< ref "/f37/language/nl.md" >}}) | 439 | 443 | 99.1 | /mnt/stockage/packages/f37/flatseal/po/nl.po | 
- | [es]({{< ref "/f37/language/es.md" >}}) | 438 | 443 | 98.9 | /mnt/stockage/packages/f37/flatseal/po/es.po | 
- | [it]({{< ref "/f37/language/it.md" >}}) | 438 | 443 | 98.9 | /mnt/stockage/packages/f37/flatseal/po/it.po | 
- | [pl]({{< ref "/f37/language/pl.md" >}}) | 438 | 443 | 98.9 | /mnt/stockage/packages/f37/flatseal/po/pl.po | 
- | [pt_BR]({{< ref "/f37/language/pt_BR.md" >}}) | 438 | 443 | 98.9 | /mnt/stockage/packages/f37/flatseal/po/pt_BR.po | 
+ | [bg](/f37/language/bg) | 443 | 443 | 100.0 | /mnt/stockage/packages/f37/flatseal/po/bg_BG.po | 
+ | [ca](/f37/language/ca) | 443 | 443 | 100.0 | /mnt/stockage/packages/f37/flatseal/po/ca.po | 
+ | [da](/f37/language/da) | 443 | 443 | 100.0 | /mnt/stockage/packages/f37/flatseal/po/da.po | 
+ | [de](/f37/language/de) | 443 | 443 | 100.0 | /mnt/stockage/packages/f37/flatseal/po/de.po | 
+ | [id](/f37/language/id) | 443 | 443 | 100.0 | /mnt/stockage/packages/f37/flatseal/po/id.po | 
+ | [ru](/f37/language/ru) | 443 | 443 | 100.0 | /mnt/stockage/packages/f37/flatseal/po/ru.po | 
+ | [sv](/f37/language/sv) | 443 | 443 | 100.0 | /mnt/stockage/packages/f37/flatseal/po/sv.po | 
+ | [ta](/f37/language/ta) | 443 | 443 | 100.0 | /mnt/stockage/packages/f37/flatseal/po/ta.po | 
+ | [tr](/f37/language/tr) | 443 | 443 | 100.0 | /mnt/stockage/packages/f37/flatseal/po/tr.po | 
+ | [zh_Hans](/f37/language/zh_Hans) | 443 | 443 | 100.0 | /mnt/stockage/packages/f37/flatseal/po/zh_CN.po | 
+ | [cs](/f37/language/cs) | 439 | 443 | 99.1 | /mnt/stockage/packages/f37/flatseal/po/cs.po | 
+ | [fr](/f37/language/fr) | 439 | 443 | 99.1 | /mnt/stockage/packages/f37/flatseal/po/fr.po | 
+ | [he](/f37/language/he) | 439 | 443 | 99.1 | /mnt/stockage/packages/f37/flatseal/po/he.po | 
+ | [hu](/f37/language/hu) | 439 | 443 | 99.1 | /mnt/stockage/packages/f37/flatseal/po/hu.po | 
+ | [nl](/f37/language/nl) | 439 | 443 | 99.1 | /mnt/stockage/packages/f37/flatseal/po/nl.po | 
+ | [es](/f37/language/es) | 438 | 443 | 98.9 | /mnt/stockage/packages/f37/flatseal/po/es.po | 
+ | [it](/f37/language/it) | 438 | 443 | 98.9 | /mnt/stockage/packages/f37/flatseal/po/it.po | 
+ | [pl](/f37/language/pl) | 438 | 443 | 98.9 | /mnt/stockage/packages/f37/flatseal/po/pl.po | 
+ | [pt_BR](/f37/language/pt_BR) | 438 | 443 | 98.9 | /mnt/stockage/packages/f37/flatseal/po/pt_BR.po | 
 {.sortable}
 
 

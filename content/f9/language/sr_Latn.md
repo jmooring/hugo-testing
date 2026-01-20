@@ -38,51 +38,51 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [anaconda]({{< ref "/f9/package/anaconda.md" >}}) | 10040 | 10040 | 100.0 | Serbian (sr) <fedora-trans-sr@redhat.com> | 
- | [asunder]({{< ref "/f9/package/asunder.md" >}}) | 330 | 330 | 100.0 |  | 
- | [authconfig]({{< ref "/f9/package/authconfig.md" >}}) | 1292 | 1292 | 100.0 | Serbian (sr) <fedora-trans-sr@redhat.com> | 
- | [chkconfig]({{< ref "/f9/package/chkconfig.md" >}}) | 430 | 430 | 100.0 | Serbian (sr) <fedora@prevod.org> | 
- | [exaile]({{< ref "/f9/package/exaile.md" >}}) | 2355 | 2355 | 100.0 | Serbian <gnome@prevod.org> | 
- | [firstboot]({{< ref "/f9/package/firstboot.md" >}}) | 604 | 604 | 100.0 | Serbian (sr) <fedora-trans-sr@redhat.com> | 
- | [hwbrowser]({{< ref "/f9/package/hwbrowser.md" >}}) | 116 | 116 | 100.0 | Serbian (sr) <fedora-trans-sr@redhat.com> | 
- | [im-chooser]({{< ref "/f9/package/im-chooser.md" >}}) | 466 | 466 | 100.0 | Serbian (sr) <fedora-trans-sr@redhat.com> | 
- | [initscripts]({{< ref "/f9/package/initscripts.md" >}}) | 3806 | 3806 | 100.0 | Serbian (sr) <fedora-trans-sr@redhat.com> | 
- | [libuser]({{< ref "/f9/package/libuser.md" >}}) | 1064 | 1064 | 100.0 | Serbian (sr) <fedora-trans-sr@redhat.com> | 
- | [mlocate]({{< ref "/f9/package/mlocate.md" >}}) | 537 | 537 | 100.0 | Serbian (sr) <fedora-trans-sr@redhat.com> | 
- | [pam]({{< ref "/f9/package/pam.md" >}}) | 517 | 517 | 100.0 | Serbian (sr) <fedora-trans-sr@redhat.com> | 
- | [passwd]({{< ref "/f9/package/passwd.md" >}}) | 291 | 291 | 100.0 | Serbian (sr) <fedora@prevod.org> | 
- | [pykickstart]({{< ref "/f9/package/pykickstart.md" >}}) | 284 | 284 | 100.0 | Serbian (sr) <fedora-trans-sr@redhat.com> | 
- | [rhgb]({{< ref "/f9/package/rhgb.md" >}}) | 59 | 59 | 100.0 | Serbian (sr) <fedora@prevod.org> | 
- | [rhpl]({{< ref "/f9/package/rhpl.md" >}}) | 185 | 185 | 100.0 | Serbian (sr) <fedora@prevod.org> | 
- | [setuptool]({{< ref "/f9/package/setuptool.md" >}}) | 60 | 60 | 100.0 | Serbian (sr) <fedora@prevod.org> | 
- | [switchdesk]({{< ref "/f9/package/switchdesk.md" >}}) | 137 | 137 | 100.0 | Serbian (sr) <fedora@prevod.org> | 
- | [system-config-firewall]({{< ref "/f9/package/system-config-firewall.md" >}}) | 2350 | 2350 | 100.0 | Serbian <fedora-trans-sr@redhat.com> | 
- | [system-config-kdump]({{< ref "/f9/package/system-config-kdump.md" >}}) | 383 | 383 | 100.0 | Serbian (sr) <fedora-trans-sr@redhat.com> | 
- | [system-config-keyboard]({{< ref "/f9/package/system-config-keyboard.md" >}}) | 78 | 78 | 100.0 | Serbian (sr) <fedora@prevod.org> | 
- | [system-config-kickstart]({{< ref "/f9/package/system-config-kickstart.md" >}}) | 1054 | 1054 | 100.0 | Serbian (sr) <fedora-trans-sr@redhat.com> | 
- | [system-config-netboot]({{< ref "/f9/package/system-config-netboot.md" >}}) | 1103 | 1103 | 100.0 | Serbian (sr) <fedora-trans-sr@redhat.com> | 
- | [system-config-network]({{< ref "/f9/package/system-config-network.md" >}}) | 2856 | 2856 | 100.0 | Serbian <fedora-trans-sr@redhat.com> | 
- | [system-config-nfs]({{< ref "/f9/package/system-config-nfs.md" >}}) | 332 | 332 | 100.0 | Serbian <fedora-trans-sr@redhat.com> | 
- | [system-config-rootpassword]({{< ref "/f9/package/system-config-rootpassword.md" >}}) | 116 | 116 | 100.0 | Serbian <fedora-trans-sr@redhat.com> | 
- | [system-config-samba]({{< ref "/f9/package/system-config-samba.md" >}}) | 432 | 432 | 100.0 | Serbian <fedora-trans-sr@redhat.com> | 
- | [system-config-services]({{< ref "/f9/package/system-config-services.md" >}}) | 449 | 449 | 100.0 | Serbian <fedora-trans-sr@redhat.com> | 
- | [system-config-users]({{< ref "/f9/package/system-config-users.md" >}}) | 1337 | 1337 | 100.0 | Serbian <fedora-trans-sr@redhat.com> | 
- | [system-switch-mail]({{< ref "/f9/package/system-switch-mail.md" >}}) | 134 | 134 | 100.0 | Serbian (sr) <fedora@prevod.org> | 
- | [usermode]({{< ref "/f9/package/usermode.md" >}}) | 579 | 579 | 100.0 | Serbian (sr) <fedora-trans-sr@redhat.com> | 
- | [libvirt]({{< ref "/f9/package/libvirt.md" >}}) | 6284 | 6298 | 99.8 | serbian <en@li.org> | 
- | [system-config-date]({{< ref "/f9/package/system-config-date.md" >}}) | 1035 | 1038 | 99.7 | Serbian <fedora-trans-sr@redhat.com> | 
- | [pidgin]({{< ref "/f9/package/pidgin.md" >}}) | 15667 | 15731 | 99.6 | Serbian <gnome@prevod.org> | 
- | [PackageKit]({{< ref "/f9/package/PackageKit.md" >}}) | 503 | 507 | 99.2 |  | 
- | [system-config-bind]({{< ref "/f9/package/system-config-bind.md" >}}) | 9346 | 9427 | 99.1 | Serbian (sr) <fedora@prevod.org> | 
- | [isomaster]({{< ref "/f9/package/isomaster.md" >}}) | 654 | 672 | 97.3 |  | 
- | [smolt]({{< ref "/f9/package/smolt.md" >}}) | 744 | 803 | 92.7 | Serbian (sr) <fedora-trans-sr@redhat.com> | 
- | [inkscape]({{< ref "/f9/package/inkscape.md" >}}) | 15554 | 17173 | 90.6 | Serbian (sr) <gnome@prevod.org> | 
- | [rpm]({{< ref "/f9/package/rpm.md" >}}) | 2653 | 4690 | 56.6 | Serbian (sr) <fedora-trans-sr@redhat.com> | 
- | [setroubleshoot-plugins]({{< ref "/f9/package/setroubleshoot-plugins.md" >}}) | 4387 | 7900 | 55.5 | Serbian (sr) <fedora@prevod.org> | 
- | [wesnoth]({{< ref "/f9/package/wesnoth.md" >}}) | 90568 | 199809 | 45.3 | Serbian | 
- | [setroubleshoot]({{< ref "/f9/package/setroubleshoot.md" >}}) | 147 | 544 | 27.0 | Serbian (sr) <fedora@prevod.org> | 
- | [revisor]({{< ref "/f9/package/revisor.md" >}}) | 134 | 3891 | 3.4 | Serbian (sr) <fedora-trans-sr@redhat.com> | 
- | [sos]({{< ref "/f9/package/sos.md" >}}) | 0 | 283 | 0.0 | none | 
+ | [anaconda](/f9/package/anaconda) | 10040 | 10040 | 100.0 | Serbian (sr) <fedora-trans-sr@redhat.com> | 
+ | [asunder](/f9/package/asunder) | 330 | 330 | 100.0 |  | 
+ | [authconfig](/f9/package/authconfig) | 1292 | 1292 | 100.0 | Serbian (sr) <fedora-trans-sr@redhat.com> | 
+ | [chkconfig](/f9/package/chkconfig) | 430 | 430 | 100.0 | Serbian (sr) <fedora@prevod.org> | 
+ | [exaile](/f9/package/exaile) | 2355 | 2355 | 100.0 | Serbian <gnome@prevod.org> | 
+ | [firstboot](/f9/package/firstboot) | 604 | 604 | 100.0 | Serbian (sr) <fedora-trans-sr@redhat.com> | 
+ | [hwbrowser](/f9/package/hwbrowser) | 116 | 116 | 100.0 | Serbian (sr) <fedora-trans-sr@redhat.com> | 
+ | [im-chooser](/f9/package/im-chooser) | 466 | 466 | 100.0 | Serbian (sr) <fedora-trans-sr@redhat.com> | 
+ | [initscripts](/f9/package/initscripts) | 3806 | 3806 | 100.0 | Serbian (sr) <fedora-trans-sr@redhat.com> | 
+ | [libuser](/f9/package/libuser) | 1064 | 1064 | 100.0 | Serbian (sr) <fedora-trans-sr@redhat.com> | 
+ | [mlocate](/f9/package/mlocate) | 537 | 537 | 100.0 | Serbian (sr) <fedora-trans-sr@redhat.com> | 
+ | [pam](/f9/package/pam) | 517 | 517 | 100.0 | Serbian (sr) <fedora-trans-sr@redhat.com> | 
+ | [passwd](/f9/package/passwd) | 291 | 291 | 100.0 | Serbian (sr) <fedora@prevod.org> | 
+ | [pykickstart](/f9/package/pykickstart) | 284 | 284 | 100.0 | Serbian (sr) <fedora-trans-sr@redhat.com> | 
+ | [rhgb](/f9/package/rhgb) | 59 | 59 | 100.0 | Serbian (sr) <fedora@prevod.org> | 
+ | [rhpl](/f9/package/rhpl) | 185 | 185 | 100.0 | Serbian (sr) <fedora@prevod.org> | 
+ | [setuptool](/f9/package/setuptool) | 60 | 60 | 100.0 | Serbian (sr) <fedora@prevod.org> | 
+ | [switchdesk](/f9/package/switchdesk) | 137 | 137 | 100.0 | Serbian (sr) <fedora@prevod.org> | 
+ | [system-config-firewall](/f9/package/system-config-firewall) | 2350 | 2350 | 100.0 | Serbian <fedora-trans-sr@redhat.com> | 
+ | [system-config-kdump](/f9/package/system-config-kdump) | 383 | 383 | 100.0 | Serbian (sr) <fedora-trans-sr@redhat.com> | 
+ | [system-config-keyboard](/f9/package/system-config-keyboard) | 78 | 78 | 100.0 | Serbian (sr) <fedora@prevod.org> | 
+ | [system-config-kickstart](/f9/package/system-config-kickstart) | 1054 | 1054 | 100.0 | Serbian (sr) <fedora-trans-sr@redhat.com> | 
+ | [system-config-netboot](/f9/package/system-config-netboot) | 1103 | 1103 | 100.0 | Serbian (sr) <fedora-trans-sr@redhat.com> | 
+ | [system-config-network](/f9/package/system-config-network) | 2856 | 2856 | 100.0 | Serbian <fedora-trans-sr@redhat.com> | 
+ | [system-config-nfs](/f9/package/system-config-nfs) | 332 | 332 | 100.0 | Serbian <fedora-trans-sr@redhat.com> | 
+ | [system-config-rootpassword](/f9/package/system-config-rootpassword) | 116 | 116 | 100.0 | Serbian <fedora-trans-sr@redhat.com> | 
+ | [system-config-samba](/f9/package/system-config-samba) | 432 | 432 | 100.0 | Serbian <fedora-trans-sr@redhat.com> | 
+ | [system-config-services](/f9/package/system-config-services) | 449 | 449 | 100.0 | Serbian <fedora-trans-sr@redhat.com> | 
+ | [system-config-users](/f9/package/system-config-users) | 1337 | 1337 | 100.0 | Serbian <fedora-trans-sr@redhat.com> | 
+ | [system-switch-mail](/f9/package/system-switch-mail) | 134 | 134 | 100.0 | Serbian (sr) <fedora@prevod.org> | 
+ | [usermode](/f9/package/usermode) | 579 | 579 | 100.0 | Serbian (sr) <fedora-trans-sr@redhat.com> | 
+ | [libvirt](/f9/package/libvirt) | 6284 | 6298 | 99.8 | serbian <en@li.org> | 
+ | [system-config-date](/f9/package/system-config-date) | 1035 | 1038 | 99.7 | Serbian <fedora-trans-sr@redhat.com> | 
+ | [pidgin](/f9/package/pidgin) | 15667 | 15731 | 99.6 | Serbian <gnome@prevod.org> | 
+ | [PackageKit](/f9/package/PackageKit) | 503 | 507 | 99.2 |  | 
+ | [system-config-bind](/f9/package/system-config-bind) | 9346 | 9427 | 99.1 | Serbian (sr) <fedora@prevod.org> | 
+ | [isomaster](/f9/package/isomaster) | 654 | 672 | 97.3 |  | 
+ | [smolt](/f9/package/smolt) | 744 | 803 | 92.7 | Serbian (sr) <fedora-trans-sr@redhat.com> | 
+ | [inkscape](/f9/package/inkscape) | 15554 | 17173 | 90.6 | Serbian (sr) <gnome@prevod.org> | 
+ | [rpm](/f9/package/rpm) | 2653 | 4690 | 56.6 | Serbian (sr) <fedora-trans-sr@redhat.com> | 
+ | [setroubleshoot-plugins](/f9/package/setroubleshoot-plugins) | 4387 | 7900 | 55.5 | Serbian (sr) <fedora@prevod.org> | 
+ | [wesnoth](/f9/package/wesnoth) | 90568 | 199809 | 45.3 | Serbian | 
+ | [setroubleshoot](/f9/package/setroubleshoot) | 147 | 544 | 27.0 | Serbian (sr) <fedora@prevod.org> | 
+ | [revisor](/f9/package/revisor) | 134 | 3891 | 3.4 | Serbian (sr) <fedora-trans-sr@redhat.com> | 
+ | [sos](/f9/package/sos) | 0 | 283 | 0.0 | none | 
 {.sortable}
 
 
@@ -94,7 +94,7 @@ We use the po metadata to get the language code and the team, but sometimes it f
 
 | Package | Lang from file path/name | polib error | Team |
 |---------|--------------------------|-------------|------|
- | [PackageKit]({{< ref "/f9/package/PackageKit.md" >}}) | /mnt/stockage/packages/f9/PackageKit/po/sr@latin.po | error-os |  | 
+ | [PackageKit](/f9/package/PackageKit) | /mnt/stockage/packages/f9/PackageKit/po/sr@latin.po | error-os |  | 
 {.sortable}
 
 

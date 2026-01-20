@@ -18,14 +18,14 @@ The package rapid-photo-downloader (version 0.0.10):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f10/language/de.md" >}}) | 1345 | 1345 | 100.0 | /mnt/stockage/packages/f10/rapid-photo-downloader/po/de.po | 
- | [es]({{< ref "/f10/language/es.md" >}}) | 1345 | 1345 | 100.0 | /mnt/stockage/packages/f10/rapid-photo-downloader/po/es.po | 
- | [fi]({{< ref "/f10/language/fi.md" >}}) | 1345 | 1345 | 100.0 | /mnt/stockage/packages/f10/rapid-photo-downloader/po/fi.po | 
- | [it]({{< ref "/f10/language/it.md" >}}) | 1345 | 1345 | 100.0 | /mnt/stockage/packages/f10/rapid-photo-downloader/po/it.po | 
- | [pl]({{< ref "/f10/language/pl.md" >}}) | 1341 | 1345 | 99.7 | /mnt/stockage/packages/f10/rapid-photo-downloader/po/pl.po | 
- | [ru]({{< ref "/f10/language/ru.md" >}}) | 1341 | 1345 | 99.7 | /mnt/stockage/packages/f10/rapid-photo-downloader/po/ru.po | 
- | [en_AU]({{< ref "/f10/language/en_AU.md" >}}) | 10 | 1256 | 0.8 | /mnt/stockage/packages/f10/rapid-photo-downloader/po/en_AU.po | 
- | [en_GB]({{< ref "/f10/language/en_GB.md" >}}) | 10 | 1256 | 0.8 | /mnt/stockage/packages/f10/rapid-photo-downloader/po/en_GB.po | 
+ | [de](/f10/language/de) | 1345 | 1345 | 100.0 | /mnt/stockage/packages/f10/rapid-photo-downloader/po/de.po | 
+ | [es](/f10/language/es) | 1345 | 1345 | 100.0 | /mnt/stockage/packages/f10/rapid-photo-downloader/po/es.po | 
+ | [fi](/f10/language/fi) | 1345 | 1345 | 100.0 | /mnt/stockage/packages/f10/rapid-photo-downloader/po/fi.po | 
+ | [it](/f10/language/it) | 1345 | 1345 | 100.0 | /mnt/stockage/packages/f10/rapid-photo-downloader/po/it.po | 
+ | [pl](/f10/language/pl) | 1341 | 1345 | 99.7 | /mnt/stockage/packages/f10/rapid-photo-downloader/po/pl.po | 
+ | [ru](/f10/language/ru) | 1341 | 1345 | 99.7 | /mnt/stockage/packages/f10/rapid-photo-downloader/po/ru.po | 
+ | [en_AU](/f10/language/en_AU) | 10 | 1256 | 0.8 | /mnt/stockage/packages/f10/rapid-photo-downloader/po/en_AU.po | 
+ | [en_GB](/f10/language/en_GB) | 10 | 1256 | 0.8 | /mnt/stockage/packages/f10/rapid-photo-downloader/po/en_GB.po | 
 {.sortable}
 
 

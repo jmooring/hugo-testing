@@ -38,9 +38,9 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [stellarium]({{< ref "/f23/package/stellarium.md" >}}) | 1 | 17168 | 0.0 | Chechen <ce@li.org> | 
- | [deja-dup]({{< ref "/f23/package/deja-dup.md" >}}) | 0 | 2011 | 0.0 | Chechen <ce@li.org> | 
- | [simple-scan]({{< ref "/f23/package/simple-scan.md" >}}) | 0 | 639 | 0.0 | Chechen <ce@li.org> | 
+ | [stellarium](/f23/package/stellarium) | 1 | 17168 | 0.0 | Chechen <ce@li.org> | 
+ | [deja-dup](/f23/package/deja-dup) | 0 | 2011 | 0.0 | Chechen <ce@li.org> | 
+ | [simple-scan](/f23/package/simple-scan) | 0 | 639 | 0.0 | Chechen <ce@li.org> | 
 {.sortable}
 
 

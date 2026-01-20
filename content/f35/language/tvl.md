@@ -38,7 +38,7 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [sugar-write]({{< ref "/f35/package/sugar-write.md" >}}) | 20 | 121 | 16.5 | LANGUAGE <LL@li.org> | 
+ | [sugar-write](/f35/package/sugar-write) | 20 | 121 | 16.5 | LANGUAGE <LL@li.org> | 
 {.sortable}
 
 

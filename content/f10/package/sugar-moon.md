@@ -18,9 +18,9 @@ The package sugar-moon (version 8):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [es]({{< ref "/f10/language/es.md" >}}) | 90 | 90 | 100.0 | /mnt/stockage/packages/f10/sugar-moon/po/es.po | 
- | [fr]({{< ref "/f10/language/fr.md" >}}) | 90 | 90 | 100.0 | /mnt/stockage/packages/f10/sugar-moon/po/fr.po | 
- | [pt_BR]({{< ref "/f10/language/pt_BR.md" >}}) | 90 | 90 | 100.0 | /mnt/stockage/packages/f10/sugar-moon/po/pt_BR.po | 
+ | [es](/f10/language/es) | 90 | 90 | 100.0 | /mnt/stockage/packages/f10/sugar-moon/po/es.po | 
+ | [fr](/f10/language/fr) | 90 | 90 | 100.0 | /mnt/stockage/packages/f10/sugar-moon/po/fr.po | 
+ | [pt_BR](/f10/language/pt_BR) | 90 | 90 | 100.0 | /mnt/stockage/packages/f10/sugar-moon/po/pt_BR.po | 
 {.sortable}
 
 

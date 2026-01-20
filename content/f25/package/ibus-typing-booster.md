@@ -18,15 +18,15 @@ The package ibus-typing-booster (version 1.5.33):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f25/language/de.md" >}}) | 1003 | 1003 | 100.0 | /mnt/stockage/packages/f25/ibus-typing-booster/po/de.po | 
- | [es]({{< ref "/f25/language/es.md" >}}) | 1003 | 1003 | 100.0 | /mnt/stockage/packages/f25/ibus-typing-booster/po/es.po | 
- | [pl]({{< ref "/f25/language/pl.md" >}}) | 1003 | 1003 | 100.0 | /mnt/stockage/packages/f25/ibus-typing-booster/po/pl.po | 
- | [uk]({{< ref "/f25/language/uk.md" >}}) | 1003 | 1003 | 100.0 | /mnt/stockage/packages/f25/ibus-typing-booster/po/uk.po | 
- | [fr]({{< ref "/f25/language/fr.md" >}}) | 814 | 1003 | 81.2 | /mnt/stockage/packages/f25/ibus-typing-booster/po/fr.po | 
- | [ca]({{< ref "/f25/language/ca.md" >}}) | 148 | 1003 | 14.8 | /mnt/stockage/packages/f25/ibus-typing-booster/po/ca.po | 
- | [zh_Hans]({{< ref "/f25/language/zh_Hans.md" >}}) | 39 | 1003 | 3.9 | /mnt/stockage/packages/f25/ibus-typing-booster/po/zh_CN.po | 
- | [pt_BR]({{< ref "/f25/language/pt_BR.md" >}}) | 33 | 1003 | 3.3 | /mnt/stockage/packages/f25/ibus-typing-booster/po/pt_BR.po | 
- | [ja]({{< ref "/f25/language/ja.md" >}}) | 17 | 1003 | 1.7 | /mnt/stockage/packages/f25/ibus-typing-booster/po/ja.po | 
+ | [de](/f25/language/de) | 1003 | 1003 | 100.0 | /mnt/stockage/packages/f25/ibus-typing-booster/po/de.po | 
+ | [es](/f25/language/es) | 1003 | 1003 | 100.0 | /mnt/stockage/packages/f25/ibus-typing-booster/po/es.po | 
+ | [pl](/f25/language/pl) | 1003 | 1003 | 100.0 | /mnt/stockage/packages/f25/ibus-typing-booster/po/pl.po | 
+ | [uk](/f25/language/uk) | 1003 | 1003 | 100.0 | /mnt/stockage/packages/f25/ibus-typing-booster/po/uk.po | 
+ | [fr](/f25/language/fr) | 814 | 1003 | 81.2 | /mnt/stockage/packages/f25/ibus-typing-booster/po/fr.po | 
+ | [ca](/f25/language/ca) | 148 | 1003 | 14.8 | /mnt/stockage/packages/f25/ibus-typing-booster/po/ca.po | 
+ | [zh_Hans](/f25/language/zh_Hans) | 39 | 1003 | 3.9 | /mnt/stockage/packages/f25/ibus-typing-booster/po/zh_CN.po | 
+ | [pt_BR](/f25/language/pt_BR) | 33 | 1003 | 3.3 | /mnt/stockage/packages/f25/ibus-typing-booster/po/pt_BR.po | 
+ | [ja](/f25/language/ja) | 17 | 1003 | 1.7 | /mnt/stockage/packages/f25/ibus-typing-booster/po/ja.po | 
 {.sortable}
 
 

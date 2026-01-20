@@ -18,8 +18,8 @@ The package speech-dispatcher (version 0.8.5):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f23/language/cs.md" >}}) | 330 | 330 | 100.0 | /mnt/stockage/packages/f23/speech-dispatcher/po/cs.po | 
- | [hu]({{< ref "/f23/language/hu.md" >}}) | 330 | 330 | 100.0 | /mnt/stockage/packages/f23/speech-dispatcher/po/hu.po | 
+ | [cs](/f23/language/cs) | 330 | 330 | 100.0 | /mnt/stockage/packages/f23/speech-dispatcher/po/cs.po | 
+ | [hu](/f23/language/hu) | 330 | 330 | 100.0 | /mnt/stockage/packages/f23/speech-dispatcher/po/hu.po | 
 {.sortable}
 
 

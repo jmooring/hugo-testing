@@ -18,14 +18,14 @@ The package gnome-shell-extension-sound-output-device-chooser (version 39^1.8c90
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ta]({{< ref "/f33/language/ta.md" >}}) | 119 | 125 | 95.2 | /mnt/stockage/packages/f33/gnome-shell-extension-sound-output-device-chooser/sound-output-device-chooser@kgshank.net/locale/ta/LC_MESSAGES/sound-output-device-chooser.po | 
- | [sv]({{< ref "/f33/language/sv.md" >}}) | 72 | 125 | 57.6 | /mnt/stockage/packages/f33/gnome-shell-extension-sound-output-device-chooser/sound-output-device-chooser@kgshank.net/locale/sv/LC_MESSAGES/sound-output-device-chooser.po | 
- | [de]({{< ref "/f33/language/de.md" >}}) | 52 | 125 | 41.6 | /mnt/stockage/packages/f33/gnome-shell-extension-sound-output-device-chooser/sound-output-device-chooser@kgshank.net/locale/de_DE/LC_MESSAGES/sound-output-device-chooser.po | 
- | [it]({{< ref "/f33/language/it.md" >}}) | 52 | 125 | 41.6 | /mnt/stockage/packages/f33/gnome-shell-extension-sound-output-device-chooser/sound-output-device-chooser@kgshank.net/locale/it_IT/LC_MESSAGES/sound-output-device-chooser.po | 
- | [nl]({{< ref "/f33/language/nl.md" >}}) | 52 | 125 | 41.6 | /mnt/stockage/packages/f33/gnome-shell-extension-sound-output-device-chooser/sound-output-device-chooser@kgshank.net/locale/nl/LC_MESSAGES/sound-output-device-chooser.po | 
- | [pt_BR]({{< ref "/f33/language/pt_BR.md" >}}) | 52 | 125 | 41.6 | /mnt/stockage/packages/f33/gnome-shell-extension-sound-output-device-chooser/sound-output-device-chooser@kgshank.net/locale/pt_BR/LC_MESSAGES/sound-output-device-chooser.po | 
- | [pt_PT]({{< ref "/f33/language/pt_PT.md" >}}) | 52 | 125 | 41.6 | /mnt/stockage/packages/f33/gnome-shell-extension-sound-output-device-chooser/sound-output-device-chooser@kgshank.net/locale/pt_PT/LC_MESSAGES/sound-output-device-chooser.po | 
- | [sk]({{< ref "/f33/language/sk.md" >}}) | 52 | 125 | 41.6 | /mnt/stockage/packages/f33/gnome-shell-extension-sound-output-device-chooser/sound-output-device-chooser@kgshank.net/locale/sk/LC_MESSAGES/sound-output-device-chooser.po | 
+ | [ta](/f33/language/ta) | 119 | 125 | 95.2 | /mnt/stockage/packages/f33/gnome-shell-extension-sound-output-device-chooser/sound-output-device-chooser@kgshank.net/locale/ta/LC_MESSAGES/sound-output-device-chooser.po | 
+ | [sv](/f33/language/sv) | 72 | 125 | 57.6 | /mnt/stockage/packages/f33/gnome-shell-extension-sound-output-device-chooser/sound-output-device-chooser@kgshank.net/locale/sv/LC_MESSAGES/sound-output-device-chooser.po | 
+ | [de](/f33/language/de) | 52 | 125 | 41.6 | /mnt/stockage/packages/f33/gnome-shell-extension-sound-output-device-chooser/sound-output-device-chooser@kgshank.net/locale/de_DE/LC_MESSAGES/sound-output-device-chooser.po | 
+ | [it](/f33/language/it) | 52 | 125 | 41.6 | /mnt/stockage/packages/f33/gnome-shell-extension-sound-output-device-chooser/sound-output-device-chooser@kgshank.net/locale/it_IT/LC_MESSAGES/sound-output-device-chooser.po | 
+ | [nl](/f33/language/nl) | 52 | 125 | 41.6 | /mnt/stockage/packages/f33/gnome-shell-extension-sound-output-device-chooser/sound-output-device-chooser@kgshank.net/locale/nl/LC_MESSAGES/sound-output-device-chooser.po | 
+ | [pt_BR](/f33/language/pt_BR) | 52 | 125 | 41.6 | /mnt/stockage/packages/f33/gnome-shell-extension-sound-output-device-chooser/sound-output-device-chooser@kgshank.net/locale/pt_BR/LC_MESSAGES/sound-output-device-chooser.po | 
+ | [pt_PT](/f33/language/pt_PT) | 52 | 125 | 41.6 | /mnt/stockage/packages/f33/gnome-shell-extension-sound-output-device-chooser/sound-output-device-chooser@kgshank.net/locale/pt_PT/LC_MESSAGES/sound-output-device-chooser.po | 
+ | [sk](/f33/language/sk) | 52 | 125 | 41.6 | /mnt/stockage/packages/f33/gnome-shell-extension-sound-output-device-chooser/sound-output-device-chooser@kgshank.net/locale/sk/LC_MESSAGES/sound-output-device-chooser.po | 
 {.sortable}
 
 

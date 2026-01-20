@@ -18,71 +18,71 @@ The package libmatekeyring (version 1.6.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f17/language/ar.md" >}}) | 44 | 44 | 100.0 | /mnt/stockage/packages/f17/libmatekeyring/po/ar.po | 
- | [ast]({{< ref "/f17/language/ast.md" >}}) | 44 | 44 | 100.0 | /mnt/stockage/packages/f17/libmatekeyring/po/ast.po | 
- | [bg]({{< ref "/f17/language/bg.md" >}}) | 44 | 44 | 100.0 | /mnt/stockage/packages/f17/libmatekeyring/po/bg.po | 
- | [bn]({{< ref "/f17/language/bn.md" >}}) | 44 | 44 | 100.0 | /mnt/stockage/packages/f17/libmatekeyring/po/bn.po | 
- | [bn_IN]({{< ref "/f17/language/bn_IN.md" >}}) | 44 | 44 | 100.0 | /mnt/stockage/packages/f17/libmatekeyring/po/bn_IN.po | 
- | [ca]({{< ref "/f17/language/ca.md" >}}) | 44 | 44 | 100.0 | /mnt/stockage/packages/f17/libmatekeyring/po/ca.po | 
- | [ca@valencia]({{< ref "/f17/language/ca@valencia.md" >}}) | 44 | 44 | 100.0 | /mnt/stockage/packages/f17/libmatekeyring/po/ca@valencia.po | 
- | [cs]({{< ref "/f17/language/cs.md" >}}) | 44 | 44 | 100.0 | /mnt/stockage/packages/f17/libmatekeyring/po/cs.po | 
- | [da]({{< ref "/f17/language/da.md" >}}) | 44 | 44 | 100.0 | /mnt/stockage/packages/f17/libmatekeyring/po/da.po | 
- | [de]({{< ref "/f17/language/de.md" >}}) | 44 | 44 | 100.0 | /mnt/stockage/packages/f17/libmatekeyring/po/de.po | 
- | [el]({{< ref "/f17/language/el.md" >}}) | 44 | 44 | 100.0 | /mnt/stockage/packages/f17/libmatekeyring/po/el.po | 
- | [en_AU]({{< ref "/f17/language/en_AU.md" >}}) | 44 | 44 | 100.0 | /mnt/stockage/packages/f17/libmatekeyring/po/en_AU.po | 
- | [en_GB]({{< ref "/f17/language/en_GB.md" >}}) | 44 | 44 | 100.0 | /mnt/stockage/packages/f17/libmatekeyring/po/en_GB.po | 
- | [eo]({{< ref "/f17/language/eo.md" >}}) | 44 | 44 | 100.0 | /mnt/stockage/packages/f17/libmatekeyring/po/eo.po | 
- | [es]({{< ref "/f17/language/es.md" >}}) | 44 | 44 | 100.0 | /mnt/stockage/packages/f17/libmatekeyring/po/es.po | 
- | [es_CL]({{< ref "/f17/language/es_CL.md" >}}) | 44 | 44 | 100.0 | /mnt/stockage/packages/f17/libmatekeyring/po/es_CL.po | 
- | [et]({{< ref "/f17/language/et.md" >}}) | 44 | 44 | 100.0 | /mnt/stockage/packages/f17/libmatekeyring/po/et.po | 
- | [eu]({{< ref "/f17/language/eu.md" >}}) | 44 | 44 | 100.0 | /mnt/stockage/packages/f17/libmatekeyring/po/eu.po | 
- | [fa]({{< ref "/f17/language/fa.md" >}}) | 44 | 44 | 100.0 | /mnt/stockage/packages/f17/libmatekeyring/po/fa.po | 
- | [fi]({{< ref "/f17/language/fi.md" >}}) | 44 | 44 | 100.0 | /mnt/stockage/packages/f17/libmatekeyring/po/fi.po | 
- | [fr]({{< ref "/f17/language/fr.md" >}}) | 44 | 44 | 100.0 | /mnt/stockage/packages/f17/libmatekeyring/po/fr.po | 
- | [fy]({{< ref "/f17/language/fy.md" >}}) | 44 | 44 | 100.0 | /mnt/stockage/packages/f17/libmatekeyring/po/fy.po | 
- | [gl]({{< ref "/f17/language/gl.md" >}}) | 44 | 44 | 100.0 | /mnt/stockage/packages/f17/libmatekeyring/po/gl.po | 
- | [gu]({{< ref "/f17/language/gu.md" >}}) | 44 | 44 | 100.0 | /mnt/stockage/packages/f17/libmatekeyring/po/gu.po | 
- | [he]({{< ref "/f17/language/he.md" >}}) | 44 | 44 | 100.0 | /mnt/stockage/packages/f17/libmatekeyring/po/he.po | 
- | [hr]({{< ref "/f17/language/hr.md" >}}) | 44 | 44 | 100.0 | /mnt/stockage/packages/f17/libmatekeyring/po/hr.po | 
- | [hu]({{< ref "/f17/language/hu.md" >}}) | 44 | 44 | 100.0 | /mnt/stockage/packages/f17/libmatekeyring/po/hu.po | 
- | [id]({{< ref "/f17/language/id.md" >}}) | 44 | 44 | 100.0 | /mnt/stockage/packages/f17/libmatekeyring/po/id.po | 
- | [it]({{< ref "/f17/language/it.md" >}}) | 44 | 44 | 100.0 | /mnt/stockage/packages/f17/libmatekeyring/po/it.po | 
- | [ja]({{< ref "/f17/language/ja.md" >}}) | 44 | 44 | 100.0 | /mnt/stockage/packages/f17/libmatekeyring/po/ja.po | 
- | [kn]({{< ref "/f17/language/kn.md" >}}) | 44 | 44 | 100.0 | /mnt/stockage/packages/f17/libmatekeyring/po/kn.po | 
- | [ko]({{< ref "/f17/language/ko.md" >}}) | 44 | 44 | 100.0 | /mnt/stockage/packages/f17/libmatekeyring/po/ko.po | 
- | [lt]({{< ref "/f17/language/lt.md" >}}) | 44 | 44 | 100.0 | /mnt/stockage/packages/f17/libmatekeyring/po/lt.po | 
- | [lv]({{< ref "/f17/language/lv.md" >}}) | 44 | 44 | 100.0 | /mnt/stockage/packages/f17/libmatekeyring/po/lv.po | 
- | [ml]({{< ref "/f17/language/ml.md" >}}) | 44 | 44 | 100.0 | /mnt/stockage/packages/f17/libmatekeyring/po/ml.po | 
- | [mn]({{< ref "/f17/language/mn.md" >}}) | 44 | 44 | 100.0 | /mnt/stockage/packages/f17/libmatekeyring/po/mn.po | 
- | [ms]({{< ref "/f17/language/ms.md" >}}) | 44 | 44 | 100.0 | /mnt/stockage/packages/f17/libmatekeyring/po/ms.po | 
- | [nb_NO]({{< ref "/f17/language/nb_NO.md" >}}) | 44 | 44 | 100.0 | /mnt/stockage/packages/f17/libmatekeyring/po/nb.po | 
- | [nds]({{< ref "/f17/language/nds.md" >}}) | 44 | 44 | 100.0 | /mnt/stockage/packages/f17/libmatekeyring/po/nds.po | 
- | [nl]({{< ref "/f17/language/nl.md" >}}) | 44 | 44 | 100.0 | /mnt/stockage/packages/f17/libmatekeyring/po/nl.po | 
- | [nn]({{< ref "/f17/language/nn.md" >}}) | 44 | 44 | 100.0 | /mnt/stockage/packages/f17/libmatekeyring/po/nn.po | 
- | [or]({{< ref "/f17/language/or.md" >}}) | 44 | 44 | 100.0 | /mnt/stockage/packages/f17/libmatekeyring/po/or.po | 
- | [pa]({{< ref "/f17/language/pa.md" >}}) | 44 | 44 | 100.0 | /mnt/stockage/packages/f17/libmatekeyring/po/pa.po | 
- | [pl]({{< ref "/f17/language/pl.md" >}}) | 44 | 44 | 100.0 | /mnt/stockage/packages/f17/libmatekeyring/po/pl.po | 
- | [pt]({{< ref "/f17/language/pt.md" >}}) | 44 | 44 | 100.0 | /mnt/stockage/packages/f17/libmatekeyring/po/pt.po | 
- | [pt_BR]({{< ref "/f17/language/pt_BR.md" >}}) | 44 | 44 | 100.0 | /mnt/stockage/packages/f17/libmatekeyring/po/pt_BR.po | 
- | [ro]({{< ref "/f17/language/ro.md" >}}) | 44 | 44 | 100.0 | /mnt/stockage/packages/f17/libmatekeyring/po/ro.po | 
- | [ru]({{< ref "/f17/language/ru.md" >}}) | 44 | 44 | 100.0 | /mnt/stockage/packages/f17/libmatekeyring/po/ru.po | 
- | [sk]({{< ref "/f17/language/sk.md" >}}) | 44 | 44 | 100.0 | /mnt/stockage/packages/f17/libmatekeyring/po/sk.po | 
- | [sl]({{< ref "/f17/language/sl.md" >}}) | 44 | 44 | 100.0 | /mnt/stockage/packages/f17/libmatekeyring/po/sl.po | 
- | [sq]({{< ref "/f17/language/sq.md" >}}) | 44 | 44 | 100.0 | /mnt/stockage/packages/f17/libmatekeyring/po/sq.po | 
- | [sr]({{< ref "/f17/language/sr.md" >}}) | 44 | 44 | 100.0 | /mnt/stockage/packages/f17/libmatekeyring/po/sr.po | 
- | [sr_Latn]({{< ref "/f17/language/sr_Latn.md" >}}) | 44 | 44 | 100.0 | /mnt/stockage/packages/f17/libmatekeyring/po/sr@latin.po | 
- | [sv]({{< ref "/f17/language/sv.md" >}}) | 44 | 44 | 100.0 | /mnt/stockage/packages/f17/libmatekeyring/po/sv.po | 
- | [ta]({{< ref "/f17/language/ta.md" >}}) | 44 | 44 | 100.0 | /mnt/stockage/packages/f17/libmatekeyring/po/ta.po | 
- | [th]({{< ref "/f17/language/th.md" >}}) | 44 | 44 | 100.0 | /mnt/stockage/packages/f17/libmatekeyring/po/th.po | 
- | [tr]({{< ref "/f17/language/tr.md" >}}) | 44 | 44 | 100.0 | /mnt/stockage/packages/f17/libmatekeyring/po/tr.po | 
- | [ug]({{< ref "/f17/language/ug.md" >}}) | 44 | 44 | 100.0 | /mnt/stockage/packages/f17/libmatekeyring/po/ug.po | 
- | [uk]({{< ref "/f17/language/uk.md" >}}) | 44 | 44 | 100.0 | /mnt/stockage/packages/f17/libmatekeyring/po/uk.po | 
- | [vi]({{< ref "/f17/language/vi.md" >}}) | 44 | 44 | 100.0 | /mnt/stockage/packages/f17/libmatekeyring/po/vi.po | 
- | [zh_Hans]({{< ref "/f17/language/zh_Hans.md" >}}) | 44 | 44 | 100.0 | /mnt/stockage/packages/f17/libmatekeyring/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f17/language/zh_Hant.md" >}}) | 44 | 44 | 100.0 | /mnt/stockage/packages/f17/libmatekeyring/po/zh_TW.po | 
- | [zh_Hant_HK]({{< ref "/f17/language/zh_Hant_HK.md" >}}) | 44 | 44 | 100.0 | /mnt/stockage/packages/f17/libmatekeyring/po/zh_HK.po | 
- | [am]({{< ref "/f17/language/am.md" >}}) | 3 | 44 | 6.8 | /mnt/stockage/packages/f17/libmatekeyring/po/am.po | 
- | [ky]({{< ref "/f17/language/ky.md" >}}) | 3 | 44 | 6.8 | /mnt/stockage/packages/f17/libmatekeyring/po/ky.po | 
+ | [ar](/f17/language/ar) | 44 | 44 | 100.0 | /mnt/stockage/packages/f17/libmatekeyring/po/ar.po | 
+ | [ast](/f17/language/ast) | 44 | 44 | 100.0 | /mnt/stockage/packages/f17/libmatekeyring/po/ast.po | 
+ | [bg](/f17/language/bg) | 44 | 44 | 100.0 | /mnt/stockage/packages/f17/libmatekeyring/po/bg.po | 
+ | [bn](/f17/language/bn) | 44 | 44 | 100.0 | /mnt/stockage/packages/f17/libmatekeyring/po/bn.po | 
+ | [bn_IN](/f17/language/bn_IN) | 44 | 44 | 100.0 | /mnt/stockage/packages/f17/libmatekeyring/po/bn_IN.po | 
+ | [ca](/f17/language/ca) | 44 | 44 | 100.0 | /mnt/stockage/packages/f17/libmatekeyring/po/ca.po | 
+ | [ca@valencia](/f17/language/ca@valencia) | 44 | 44 | 100.0 | /mnt/stockage/packages/f17/libmatekeyring/po/ca@valencia.po | 
+ | [cs](/f17/language/cs) | 44 | 44 | 100.0 | /mnt/stockage/packages/f17/libmatekeyring/po/cs.po | 
+ | [da](/f17/language/da) | 44 | 44 | 100.0 | /mnt/stockage/packages/f17/libmatekeyring/po/da.po | 
+ | [de](/f17/language/de) | 44 | 44 | 100.0 | /mnt/stockage/packages/f17/libmatekeyring/po/de.po | 
+ | [el](/f17/language/el) | 44 | 44 | 100.0 | /mnt/stockage/packages/f17/libmatekeyring/po/el.po | 
+ | [en_AU](/f17/language/en_AU) | 44 | 44 | 100.0 | /mnt/stockage/packages/f17/libmatekeyring/po/en_AU.po | 
+ | [en_GB](/f17/language/en_GB) | 44 | 44 | 100.0 | /mnt/stockage/packages/f17/libmatekeyring/po/en_GB.po | 
+ | [eo](/f17/language/eo) | 44 | 44 | 100.0 | /mnt/stockage/packages/f17/libmatekeyring/po/eo.po | 
+ | [es](/f17/language/es) | 44 | 44 | 100.0 | /mnt/stockage/packages/f17/libmatekeyring/po/es.po | 
+ | [es_CL](/f17/language/es_CL) | 44 | 44 | 100.0 | /mnt/stockage/packages/f17/libmatekeyring/po/es_CL.po | 
+ | [et](/f17/language/et) | 44 | 44 | 100.0 | /mnt/stockage/packages/f17/libmatekeyring/po/et.po | 
+ | [eu](/f17/language/eu) | 44 | 44 | 100.0 | /mnt/stockage/packages/f17/libmatekeyring/po/eu.po | 
+ | [fa](/f17/language/fa) | 44 | 44 | 100.0 | /mnt/stockage/packages/f17/libmatekeyring/po/fa.po | 
+ | [fi](/f17/language/fi) | 44 | 44 | 100.0 | /mnt/stockage/packages/f17/libmatekeyring/po/fi.po | 
+ | [fr](/f17/language/fr) | 44 | 44 | 100.0 | /mnt/stockage/packages/f17/libmatekeyring/po/fr.po | 
+ | [fy](/f17/language/fy) | 44 | 44 | 100.0 | /mnt/stockage/packages/f17/libmatekeyring/po/fy.po | 
+ | [gl](/f17/language/gl) | 44 | 44 | 100.0 | /mnt/stockage/packages/f17/libmatekeyring/po/gl.po | 
+ | [gu](/f17/language/gu) | 44 | 44 | 100.0 | /mnt/stockage/packages/f17/libmatekeyring/po/gu.po | 
+ | [he](/f17/language/he) | 44 | 44 | 100.0 | /mnt/stockage/packages/f17/libmatekeyring/po/he.po | 
+ | [hr](/f17/language/hr) | 44 | 44 | 100.0 | /mnt/stockage/packages/f17/libmatekeyring/po/hr.po | 
+ | [hu](/f17/language/hu) | 44 | 44 | 100.0 | /mnt/stockage/packages/f17/libmatekeyring/po/hu.po | 
+ | [id](/f17/language/id) | 44 | 44 | 100.0 | /mnt/stockage/packages/f17/libmatekeyring/po/id.po | 
+ | [it](/f17/language/it) | 44 | 44 | 100.0 | /mnt/stockage/packages/f17/libmatekeyring/po/it.po | 
+ | [ja](/f17/language/ja) | 44 | 44 | 100.0 | /mnt/stockage/packages/f17/libmatekeyring/po/ja.po | 
+ | [kn](/f17/language/kn) | 44 | 44 | 100.0 | /mnt/stockage/packages/f17/libmatekeyring/po/kn.po | 
+ | [ko](/f17/language/ko) | 44 | 44 | 100.0 | /mnt/stockage/packages/f17/libmatekeyring/po/ko.po | 
+ | [lt](/f17/language/lt) | 44 | 44 | 100.0 | /mnt/stockage/packages/f17/libmatekeyring/po/lt.po | 
+ | [lv](/f17/language/lv) | 44 | 44 | 100.0 | /mnt/stockage/packages/f17/libmatekeyring/po/lv.po | 
+ | [ml](/f17/language/ml) | 44 | 44 | 100.0 | /mnt/stockage/packages/f17/libmatekeyring/po/ml.po | 
+ | [mn](/f17/language/mn) | 44 | 44 | 100.0 | /mnt/stockage/packages/f17/libmatekeyring/po/mn.po | 
+ | [ms](/f17/language/ms) | 44 | 44 | 100.0 | /mnt/stockage/packages/f17/libmatekeyring/po/ms.po | 
+ | [nb_NO](/f17/language/nb_NO) | 44 | 44 | 100.0 | /mnt/stockage/packages/f17/libmatekeyring/po/nb.po | 
+ | [nds](/f17/language/nds) | 44 | 44 | 100.0 | /mnt/stockage/packages/f17/libmatekeyring/po/nds.po | 
+ | [nl](/f17/language/nl) | 44 | 44 | 100.0 | /mnt/stockage/packages/f17/libmatekeyring/po/nl.po | 
+ | [nn](/f17/language/nn) | 44 | 44 | 100.0 | /mnt/stockage/packages/f17/libmatekeyring/po/nn.po | 
+ | [or](/f17/language/or) | 44 | 44 | 100.0 | /mnt/stockage/packages/f17/libmatekeyring/po/or.po | 
+ | [pa](/f17/language/pa) | 44 | 44 | 100.0 | /mnt/stockage/packages/f17/libmatekeyring/po/pa.po | 
+ | [pl](/f17/language/pl) | 44 | 44 | 100.0 | /mnt/stockage/packages/f17/libmatekeyring/po/pl.po | 
+ | [pt](/f17/language/pt) | 44 | 44 | 100.0 | /mnt/stockage/packages/f17/libmatekeyring/po/pt.po | 
+ | [pt_BR](/f17/language/pt_BR) | 44 | 44 | 100.0 | /mnt/stockage/packages/f17/libmatekeyring/po/pt_BR.po | 
+ | [ro](/f17/language/ro) | 44 | 44 | 100.0 | /mnt/stockage/packages/f17/libmatekeyring/po/ro.po | 
+ | [ru](/f17/language/ru) | 44 | 44 | 100.0 | /mnt/stockage/packages/f17/libmatekeyring/po/ru.po | 
+ | [sk](/f17/language/sk) | 44 | 44 | 100.0 | /mnt/stockage/packages/f17/libmatekeyring/po/sk.po | 
+ | [sl](/f17/language/sl) | 44 | 44 | 100.0 | /mnt/stockage/packages/f17/libmatekeyring/po/sl.po | 
+ | [sq](/f17/language/sq) | 44 | 44 | 100.0 | /mnt/stockage/packages/f17/libmatekeyring/po/sq.po | 
+ | [sr](/f17/language/sr) | 44 | 44 | 100.0 | /mnt/stockage/packages/f17/libmatekeyring/po/sr.po | 
+ | [sr_Latn](/f17/language/sr_Latn) | 44 | 44 | 100.0 | /mnt/stockage/packages/f17/libmatekeyring/po/sr@latin.po | 
+ | [sv](/f17/language/sv) | 44 | 44 | 100.0 | /mnt/stockage/packages/f17/libmatekeyring/po/sv.po | 
+ | [ta](/f17/language/ta) | 44 | 44 | 100.0 | /mnt/stockage/packages/f17/libmatekeyring/po/ta.po | 
+ | [th](/f17/language/th) | 44 | 44 | 100.0 | /mnt/stockage/packages/f17/libmatekeyring/po/th.po | 
+ | [tr](/f17/language/tr) | 44 | 44 | 100.0 | /mnt/stockage/packages/f17/libmatekeyring/po/tr.po | 
+ | [ug](/f17/language/ug) | 44 | 44 | 100.0 | /mnt/stockage/packages/f17/libmatekeyring/po/ug.po | 
+ | [uk](/f17/language/uk) | 44 | 44 | 100.0 | /mnt/stockage/packages/f17/libmatekeyring/po/uk.po | 
+ | [vi](/f17/language/vi) | 44 | 44 | 100.0 | /mnt/stockage/packages/f17/libmatekeyring/po/vi.po | 
+ | [zh_Hans](/f17/language/zh_Hans) | 44 | 44 | 100.0 | /mnt/stockage/packages/f17/libmatekeyring/po/zh_CN.po | 
+ | [zh_Hant](/f17/language/zh_Hant) | 44 | 44 | 100.0 | /mnt/stockage/packages/f17/libmatekeyring/po/zh_TW.po | 
+ | [zh_Hant_HK](/f17/language/zh_Hant_HK) | 44 | 44 | 100.0 | /mnt/stockage/packages/f17/libmatekeyring/po/zh_HK.po | 
+ | [am](/f17/language/am) | 3 | 44 | 6.8 | /mnt/stockage/packages/f17/libmatekeyring/po/am.po | 
+ | [ky](/f17/language/ky) | 3 | 44 | 6.8 | /mnt/stockage/packages/f17/libmatekeyring/po/ky.po | 
 {.sortable}
 
 

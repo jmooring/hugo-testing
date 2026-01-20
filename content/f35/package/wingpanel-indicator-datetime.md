@@ -18,204 +18,204 @@ The package wingpanel-indicator-datetime (version 2.4.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f35/language/ca.md" >}}) | 177 | 177 | 100.0 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/ca.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/ca.po | 
- | [en_GB]({{< ref "/f35/language/en_GB.md" >}}) | 177 | 177 | 100.0 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/en_GB.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/en_GB.po | 
- | [fr]({{< ref "/f35/language/fr.md" >}}) | 177 | 177 | 100.0 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/fr.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/fr.po | 
- | [ja]({{< ref "/f35/language/ja.md" >}}) | 177 | 177 | 100.0 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/ja.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/ja.po | 
- | [pl]({{< ref "/f35/language/pl.md" >}}) | 177 | 177 | 100.0 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/pl.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/pl.po | 
- | [ru]({{< ref "/f35/language/ru.md" >}}) | 177 | 177 | 100.0 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/ru.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/ru.po | 
- | [uk]({{< ref "/f35/language/uk.md" >}}) | 177 | 177 | 100.0 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/uk.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/uk.po | 
- | [de]({{< ref "/f35/language/de.md" >}}) | 160 | 177 | 90.4 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/de.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/de.po | 
- | [he]({{< ref "/f35/language/he.md" >}}) | 160 | 177 | 90.4 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/he.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/he.po | 
- | [sk]({{< ref "/f35/language/sk.md" >}}) | 147 | 177 | 83.1 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/sk.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/sk.po | 
- | [tr]({{< ref "/f35/language/tr.md" >}}) | 147 | 177 | 83.1 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/tr.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/tr.po | 
- | [ar]({{< ref "/f35/language/ar.md" >}}) | 126 | 177 | 71.2 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/ar.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/ar.po | 
- | [pt]({{< ref "/f35/language/pt.md" >}}) | 126 | 177 | 71.2 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/pt.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/pt.po | 
- | [es]({{< ref "/f35/language/es.md" >}}) | 122 | 177 | 68.9 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/es.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/es.po | 
- | [cs]({{< ref "/f35/language/cs.md" >}}) | 115 | 177 | 65.0 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/cs.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/cs.po | 
- | [it]({{< ref "/f35/language/it.md" >}}) | 115 | 177 | 65.0 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/it.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/it.po | 
- | [mr]({{< ref "/f35/language/mr.md" >}}) | 115 | 177 | 65.0 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/mr.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/mr.po | 
- | [nl]({{< ref "/f35/language/nl.md" >}}) | 115 | 177 | 65.0 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/nl.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/nl.po | 
- | [nn]({{< ref "/f35/language/nn.md" >}}) | 115 | 177 | 65.0 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/nn.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/nn.po | 
- | [sr]({{< ref "/f35/language/sr.md" >}}) | 115 | 177 | 65.0 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/sr.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/sr.po | 
- | [da]({{< ref "/f35/language/da.md" >}}) | 107 | 177 | 60.5 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/da.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/da.po | 
- | [pt_BR]({{< ref "/f35/language/pt_BR.md" >}}) | 107 | 177 | 60.5 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/pt_BR.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/pt_BR.po | 
- | [szl]({{< ref "/f35/language/szl.md" >}}) | 107 | 177 | 60.5 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/szl.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/szl.po | 
- | [eo]({{< ref "/f35/language/eo.md" >}}) | 76 | 177 | 42.9 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/eo.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/eo.po | 
- | [hu]({{< ref "/f35/language/hu.md" >}}) | 65 | 177 | 36.7 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/hu.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/hu.po | 
- | [fi]({{< ref "/f35/language/fi.md" >}}) | 62 | 177 | 35.0 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/fi.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/fi.po | 
- | [en_AU]({{< ref "/f35/language/en_AU.md" >}}) | 52 | 177 | 29.4 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/en_AU.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/en_AU.po | 
- | [en_CA]({{< ref "/f35/language/en_CA.md" >}}) | 52 | 177 | 29.4 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/en_CA.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/en_CA.po | 
- | [gl]({{< ref "/f35/language/gl.md" >}}) | 37 | 177 | 20.9 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/gl.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/gl.po | 
- | [sl]({{< ref "/f35/language/sl.md" >}}) | 31 | 177 | 17.5 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/sl.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/sl.po | 
- | [pa]({{< ref "/f35/language/pa.md" >}}) | 30 | 177 | 16.9 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/pa.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/pa.po | 
- | [oc]({{< ref "/f35/language/oc.md" >}}) | 29 | 177 | 16.4 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/oc.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/oc.po | 
- | [lt]({{< ref "/f35/language/lt.md" >}}) | 28 | 177 | 15.8 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/lt.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/lt.po | 
- | [zh_Hans]({{< ref "/f35/language/zh_Hans.md" >}}) | 56 | 354 | 15.8 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/zh_CN.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/zh.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/zh_CN.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/zh.po | 
- | [nb_NO]({{< ref "/f35/language/nb_NO.md" >}}) | 45 | 354 | 12.7 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/no.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/nb.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/no.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/nb.po | 
- | [si]({{< ref "/f35/language/si.md" >}}) | 14 | 177 | 7.9 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/si.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/si.po | 
- | [uz]({{< ref "/f35/language/uz.md" >}}) | 6 | 177 | 3.4 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/uz.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/uz.po | 
- | [ak]({{< ref "/f35/language/ak.md" >}}) | 4 | 177 | 2.3 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/ak.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/ak.po | 
- | [az]({{< ref "/f35/language/az.md" >}}) | 4 | 177 | 2.3 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/az.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/az.po | 
- | [bg]({{< ref "/f35/language/bg.md" >}}) | 4 | 177 | 2.3 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/bg.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/bg.po | 
- | [bn]({{< ref "/f35/language/bn.md" >}}) | 4 | 177 | 2.3 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/bn.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/bn.po | 
- | [bs]({{< ref "/f35/language/bs.md" >}}) | 4 | 177 | 2.3 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/bs.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/bs.po | 
- | [ckb]({{< ref "/f35/language/ckb.md" >}}) | 4 | 177 | 2.3 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/ckb.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/ckb.po | 
- | [el]({{< ref "/f35/language/el.md" >}}) | 4 | 177 | 2.3 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/el.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/el.po | 
- | [et]({{< ref "/f35/language/et.md" >}}) | 4 | 177 | 2.3 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/et.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/et.po | 
- | [fr_CA]({{< ref "/f35/language/fr_CA.md" >}}) | 4 | 177 | 2.3 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/fr_CA.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/fr_CA.po | 
- | [hi]({{< ref "/f35/language/hi.md" >}}) | 4 | 177 | 2.3 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/hi.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/hi.po | 
- | [hr]({{< ref "/f35/language/hr.md" >}}) | 4 | 177 | 2.3 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/hr.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/hr.po | 
- | [id]({{< ref "/f35/language/id.md" >}}) | 4 | 177 | 2.3 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/id.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/id.po | 
- | [ka]({{< ref "/f35/language/ka.md" >}}) | 4 | 177 | 2.3 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/ka.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/ka.po | 
- | [ko]({{< ref "/f35/language/ko.md" >}}) | 4 | 177 | 2.3 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/ko.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/ko.po | 
- | [ku]({{< ref "/f35/language/ku.md" >}}) | 4 | 177 | 2.3 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/ku.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/ku.po | 
- | [ms]({{< ref "/f35/language/ms.md" >}}) | 4 | 177 | 2.3 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/ms.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/ms.po | 
- | [my]({{< ref "/f35/language/my.md" >}}) | 4 | 177 | 2.3 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/my.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/my.po | 
- | [ro]({{< ref "/f35/language/ro.md" >}}) | 4 | 177 | 2.3 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/ro.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/ro.po | 
- | [sq]({{< ref "/f35/language/sq.md" >}}) | 4 | 177 | 2.3 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/sq.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/sq.po | 
- | [sv]({{< ref "/f35/language/sv.md" >}}) | 4 | 177 | 2.3 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/sv.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/sv.po | 
- | [sw]({{< ref "/f35/language/sw.md" >}}) | 4 | 177 | 2.3 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/sw.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/sw.po | 
- | [th]({{< ref "/f35/language/th.md" >}}) | 4 | 177 | 2.3 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/th.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/th.po | 
- | [tl]({{< ref "/f35/language/tl.md" >}}) | 4 | 177 | 2.3 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/tl.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/tl.po | 
- | [ug]({{< ref "/f35/language/ug.md" >}}) | 4 | 177 | 2.3 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/ug.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/ug.po | 
- | [vi]({{< ref "/f35/language/vi.md" >}}) | 4 | 177 | 2.3 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/vi.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/vi.po | 
- | [zh_Hant]({{< ref "/f35/language/zh_Hant.md" >}}) | 4 | 177 | 2.3 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/zh_TW.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/zh_TW.po | 
- | [aa]({{< ref "/f35/language/aa.md" >}}) | 0 | 177 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/aa.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/aa.po | 
- | [ab]({{< ref "/f35/language/ab.md" >}}) | 0 | 177 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/ab.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/ab.po | 
- | [ae]({{< ref "/f35/language/ae.md" >}}) | 0 | 177 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/ae.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/ae.po | 
- | [af]({{< ref "/f35/language/af.md" >}}) | 0 | 177 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/af.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/af.po | 
- | [am]({{< ref "/f35/language/am.md" >}}) | 0 | 177 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/am.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/am.po | 
- | [an]({{< ref "/f35/language/an.md" >}}) | 0 | 177 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/an.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/an.po | 
- | [as]({{< ref "/f35/language/as.md" >}}) | 0 | 177 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/as.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/as.po | 
- | [ast]({{< ref "/f35/language/ast.md" >}}) | 0 | 177 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/ast.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/ast.po | 
- | [av]({{< ref "/f35/language/av.md" >}}) | 0 | 177 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/av.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/av.po | 
- | [ay]({{< ref "/f35/language/ay.md" >}}) | 0 | 177 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/ay.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/ay.po | 
- | [ba]({{< ref "/f35/language/ba.md" >}}) | 0 | 177 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/ba.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/ba.po | 
- | [be]({{< ref "/f35/language/be.md" >}}) | 0 | 177 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/be.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/be.po | 
- | [bh]({{< ref "/f35/language/bh.md" >}}) | 0 | 177 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/bh.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/bh.po | 
- | [bi]({{< ref "/f35/language/bi.md" >}}) | 0 | 177 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/bi.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/bi.po | 
- | [bm]({{< ref "/f35/language/bm.md" >}}) | 0 | 177 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/bm.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/bm.po | 
- | [bo]({{< ref "/f35/language/bo.md" >}}) | 0 | 177 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/bo.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/bo.po | 
- | [br]({{< ref "/f35/language/br.md" >}}) | 0 | 177 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/br.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/br.po | 
- | [ca@valencia]({{< ref "/f35/language/ca@valencia.md" >}}) | 0 | 177 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/ca@valencia.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/ca@valencia.po | 
- | [ce]({{< ref "/f35/language/ce.md" >}}) | 0 | 177 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/ce.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/ce.po | 
- | [ch]({{< ref "/f35/language/ch.md" >}}) | 0 | 177 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/ch.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/ch.po | 
- | [co]({{< ref "/f35/language/co.md" >}}) | 0 | 177 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/co.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/co.po | 
- | [cr]({{< ref "/f35/language/cr.md" >}}) | 0 | 177 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/cr.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/cr.po | 
- | [cu]({{< ref "/f35/language/cu.md" >}}) | 0 | 177 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/cu.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/cu.po | 
- | [cv]({{< ref "/f35/language/cv.md" >}}) | 0 | 177 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/cv.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/cv.po | 
- | [cy]({{< ref "/f35/language/cy.md" >}}) | 0 | 177 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/cy.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/cy.po | 
- | [dv]({{< ref "/f35/language/dv.md" >}}) | 0 | 177 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/dv.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/dv.po | 
- | [dz]({{< ref "/f35/language/dz.md" >}}) | 0 | 177 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/dz.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/dz.po | 
- | [ee]({{< ref "/f35/language/ee.md" >}}) | 0 | 177 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/ee.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/ee.po | 
- | [eu]({{< ref "/f35/language/eu.md" >}}) | 0 | 177 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/eu.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/eu.po | 
- | [fa]({{< ref "/f35/language/fa.md" >}}) | 0 | 177 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/fa.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/fa.po | 
- | [ff]({{< ref "/f35/language/ff.md" >}}) | 0 | 177 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/ff.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/ff.po | 
- | [fil]({{< ref "/f35/language/fil.md" >}}) | 0 | 177 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/fil.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/fil.po | 
- | [fj]({{< ref "/f35/language/fj.md" >}}) | 0 | 177 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/fj.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/fj.po | 
- | [fo]({{< ref "/f35/language/fo.md" >}}) | 0 | 177 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/fo.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/fo.po | 
- | [fy]({{< ref "/f35/language/fy.md" >}}) | 0 | 177 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/fy.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/fy.po | 
- | [ga]({{< ref "/f35/language/ga.md" >}}) | 0 | 177 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/ga.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/ga.po | 
- | [gd]({{< ref "/f35/language/gd.md" >}}) | 0 | 177 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/gd.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/gd.po | 
- | [gn]({{< ref "/f35/language/gn.md" >}}) | 0 | 177 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/gn.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/gn.po | 
- | [gu]({{< ref "/f35/language/gu.md" >}}) | 0 | 177 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/gu.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/gu.po | 
- | [gv]({{< ref "/f35/language/gv.md" >}}) | 0 | 177 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/gv.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/gv.po | 
- | [ha]({{< ref "/f35/language/ha.md" >}}) | 0 | 177 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/ha.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/ha.po | 
- | [ho]({{< ref "/f35/language/ho.md" >}}) | 0 | 177 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/ho.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/ho.po | 
- | [ht]({{< ref "/f35/language/ht.md" >}}) | 0 | 177 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/ht.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/ht.po | 
- | [hy]({{< ref "/f35/language/hy.md" >}}) | 0 | 177 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/hy.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/hy.po | 
- | [hz]({{< ref "/f35/language/hz.md" >}}) | 0 | 177 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/hz.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/hz.po | 
- | [ia]({{< ref "/f35/language/ia.md" >}}) | 0 | 177 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/ia.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/ia.po | 
- | [ie]({{< ref "/f35/language/ie.md" >}}) | 0 | 177 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/ie.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/ie.po | 
- | [ig]({{< ref "/f35/language/ig.md" >}}) | 0 | 177 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/ig.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/ig.po | 
- | [ii]({{< ref "/f35/language/ii.md" >}}) | 0 | 177 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/ii.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/ii.po | 
- | [ik]({{< ref "/f35/language/ik.md" >}}) | 0 | 177 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/ik.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/ik.po | 
- | [io]({{< ref "/f35/language/io.md" >}}) | 0 | 177 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/io.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/io.po | 
- | [is]({{< ref "/f35/language/is.md" >}}) | 0 | 177 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/is.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/is.po | 
- | [iu]({{< ref "/f35/language/iu.md" >}}) | 0 | 177 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/iu.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/iu.po | 
- | [jv]({{< ref "/f35/language/jv.md" >}}) | 0 | 177 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/jv.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/jv.po | 
- | [kg]({{< ref "/f35/language/kg.md" >}}) | 0 | 177 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/kg.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/kg.po | 
- | [ki]({{< ref "/f35/language/ki.md" >}}) | 0 | 177 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/ki.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/ki.po | 
- | [kj]({{< ref "/f35/language/kj.md" >}}) | 0 | 177 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/kj.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/kj.po | 
- | [kk]({{< ref "/f35/language/kk.md" >}}) | 0 | 177 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/kk.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/kk.po | 
- | [kl]({{< ref "/f35/language/kl.md" >}}) | 0 | 177 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/kl.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/kl.po | 
- | [km]({{< ref "/f35/language/km.md" >}}) | 0 | 177 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/km.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/km.po | 
- | [kn]({{< ref "/f35/language/kn.md" >}}) | 0 | 177 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/kn.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/kn.po | 
- | [kr]({{< ref "/f35/language/kr.md" >}}) | 0 | 177 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/kr.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/kr.po | 
- | [ks]({{< ref "/f35/language/ks.md" >}}) | 0 | 177 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/ks.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/ks.po | 
- | [kv]({{< ref "/f35/language/kv.md" >}}) | 0 | 177 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/kv.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/kv.po | 
- | [kw]({{< ref "/f35/language/kw.md" >}}) | 0 | 177 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/kw.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/kw.po | 
- | [ky]({{< ref "/f35/language/ky.md" >}}) | 0 | 177 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/ky.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/ky.po | 
- | [la]({{< ref "/f35/language/la.md" >}}) | 0 | 177 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/la.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/la.po | 
- | [lb]({{< ref "/f35/language/lb.md" >}}) | 0 | 177 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/lb.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/lb.po | 
- | [lg]({{< ref "/f35/language/lg.md" >}}) | 0 | 177 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/lg.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/lg.po | 
- | [li]({{< ref "/f35/language/li.md" >}}) | 0 | 177 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/li.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/li.po | 
- | [ln]({{< ref "/f35/language/ln.md" >}}) | 0 | 177 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/ln.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/ln.po | 
- | [lo]({{< ref "/f35/language/lo.md" >}}) | 0 | 177 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/lo.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/lo.po | 
- | [lu]({{< ref "/f35/language/lu.md" >}}) | 0 | 177 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/lu.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/lu.po | 
- | [lv]({{< ref "/f35/language/lv.md" >}}) | 0 | 177 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/lv.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/lv.po | 
- | [mg]({{< ref "/f35/language/mg.md" >}}) | 0 | 177 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/mg.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/mg.po | 
- | [mh]({{< ref "/f35/language/mh.md" >}}) | 0 | 177 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/mh.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/mh.po | 
- | [mi]({{< ref "/f35/language/mi.md" >}}) | 0 | 177 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/mi.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/mi.po | 
- | [mk]({{< ref "/f35/language/mk.md" >}}) | 0 | 177 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/mk.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/mk.po | 
- | [ml]({{< ref "/f35/language/ml.md" >}}) | 0 | 177 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/ml.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/ml.po | 
- | [mn]({{< ref "/f35/language/mn.md" >}}) | 0 | 177 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/mn.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/mn.po | 
- | [mt]({{< ref "/f35/language/mt.md" >}}) | 0 | 177 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/mt.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/mt.po | 
- | [na]({{< ref "/f35/language/na.md" >}}) | 0 | 177 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/na.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/na.po | 
- | [nd]({{< ref "/f35/language/nd.md" >}}) | 0 | 177 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/nd.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/nd.po | 
- | [ne]({{< ref "/f35/language/ne.md" >}}) | 0 | 177 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/ne.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/ne.po | 
- | [ng]({{< ref "/f35/language/ng.md" >}}) | 0 | 177 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/ng.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/ng.po | 
- | [nr]({{< ref "/f35/language/nr.md" >}}) | 0 | 177 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/nr.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/nr.po | 
- | [nv]({{< ref "/f35/language/nv.md" >}}) | 0 | 177 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/nv.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/nv.po | 
- | [ny]({{< ref "/f35/language/ny.md" >}}) | 0 | 177 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/ny.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/ny.po | 
- | [oj]({{< ref "/f35/language/oj.md" >}}) | 0 | 177 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/oj.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/oj.po | 
- | [om]({{< ref "/f35/language/om.md" >}}) | 0 | 177 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/om.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/om.po | 
- | [or]({{< ref "/f35/language/or.md" >}}) | 0 | 177 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/or.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/or.po | 
- | [os]({{< ref "/f35/language/os.md" >}}) | 0 | 177 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/os.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/os.po | 
- | [pi]({{< ref "/f35/language/pi.md" >}}) | 0 | 177 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/pi.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/pi.po | 
- | [ps]({{< ref "/f35/language/ps.md" >}}) | 0 | 177 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/ps.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/ps.po | 
- | [qu]({{< ref "/f35/language/qu.md" >}}) | 0 | 177 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/qu.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/qu.po | 
- | [rm]({{< ref "/f35/language/rm.md" >}}) | 0 | 177 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/rm.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/rm.po | 
- | [rn]({{< ref "/f35/language/rn.md" >}}) | 0 | 177 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/rn.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/rn.po | 
- | [ro_MD]({{< ref "/f35/language/ro_MD.md" >}}) | 0 | 177 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/mo.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/mo.po | 
- | [rue]({{< ref "/f35/language/rue.md" >}}) | 0 | 177 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/rue.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/rue.po | 
- | [rw]({{< ref "/f35/language/rw.md" >}}) | 0 | 177 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/rw.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/rw.po | 
- | [sa]({{< ref "/f35/language/sa.md" >}}) | 0 | 177 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/sa.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/sa.po | 
- | [sc]({{< ref "/f35/language/sc.md" >}}) | 0 | 177 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/sc.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/sc.po | 
- | [sd]({{< ref "/f35/language/sd.md" >}}) | 0 | 177 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/sd.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/sd.po | 
- | [se]({{< ref "/f35/language/se.md" >}}) | 0 | 177 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/se.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/se.po | 
- | [sg]({{< ref "/f35/language/sg.md" >}}) | 0 | 177 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/sg.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/sg.po | 
- | [sm]({{< ref "/f35/language/sm.md" >}}) | 0 | 177 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/sm.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/sm.po | 
- | [sma]({{< ref "/f35/language/sma.md" >}}) | 0 | 177 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/sma.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/sma.po | 
- | [sn]({{< ref "/f35/language/sn.md" >}}) | 0 | 177 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/sn.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/sn.po | 
- | [so]({{< ref "/f35/language/so.md" >}}) | 0 | 177 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/so.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/so.po | 
- | [sr_Latn]({{< ref "/f35/language/sr_Latn.md" >}}) | 0 | 177 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/sr@latin.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/sr@latin.po | 
- | [ss]({{< ref "/f35/language/ss.md" >}}) | 0 | 177 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/ss.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/ss.po | 
- | [st]({{< ref "/f35/language/st.md" >}}) | 0 | 177 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/st.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/st.po | 
- | [su]({{< ref "/f35/language/su.md" >}}) | 0 | 177 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/su.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/su.po | 
- | [ta]({{< ref "/f35/language/ta.md" >}}) | 0 | 177 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/ta.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/ta.po | 
- | [te]({{< ref "/f35/language/te.md" >}}) | 0 | 177 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/te.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/te.po | 
- | [tg]({{< ref "/f35/language/tg.md" >}}) | 0 | 177 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/tg.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/tg.po | 
- | [ti]({{< ref "/f35/language/ti.md" >}}) | 0 | 177 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/ti.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/ti.po | 
- | [tk]({{< ref "/f35/language/tk.md" >}}) | 0 | 177 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/tk.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/tk.po | 
- | [tn]({{< ref "/f35/language/tn.md" >}}) | 0 | 177 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/tn.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/tn.po | 
- | [to]({{< ref "/f35/language/to.md" >}}) | 0 | 177 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/to.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/to.po | 
- | [ts]({{< ref "/f35/language/ts.md" >}}) | 0 | 177 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/ts.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/ts.po | 
- | [tt]({{< ref "/f35/language/tt.md" >}}) | 0 | 177 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/tt.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/tt.po | 
- | [tw]({{< ref "/f35/language/tw.md" >}}) | 0 | 177 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/tw.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/tw.po | 
- | [ty]({{< ref "/f35/language/ty.md" >}}) | 0 | 177 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/ty.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/ty.po | 
- | [ur]({{< ref "/f35/language/ur.md" >}}) | 0 | 177 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/ur.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/ur.po | 
- | [ve]({{< ref "/f35/language/ve.md" >}}) | 0 | 177 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/ve.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/ve.po | 
- | [vo]({{< ref "/f35/language/vo.md" >}}) | 0 | 177 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/vo.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/vo.po | 
- | [wa]({{< ref "/f35/language/wa.md" >}}) | 0 | 177 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/wa.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/wa.po | 
- | [wo]({{< ref "/f35/language/wo.md" >}}) | 0 | 177 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/wo.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/wo.po | 
- | [xh]({{< ref "/f35/language/xh.md" >}}) | 0 | 177 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/xh.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/xh.po | 
- | [yi]({{< ref "/f35/language/yi.md" >}}) | 0 | 177 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/yi.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/yi.po | 
- | [yo]({{< ref "/f35/language/yo.md" >}}) | 0 | 177 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/yo.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/yo.po | 
- | [za]({{< ref "/f35/language/za.md" >}}) | 0 | 177 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/za.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/za.po | 
- | [zh_Hant_HK]({{< ref "/f35/language/zh_Hant_HK.md" >}}) | 0 | 177 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/zh_HK.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/zh_HK.po | 
- | [zu]({{< ref "/f35/language/zu.md" >}}) | 0 | 177 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/zu.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/zu.po | 
+ | [ca](/f35/language/ca) | 177 | 177 | 100.0 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/ca.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/ca.po | 
+ | [en_GB](/f35/language/en_GB) | 177 | 177 | 100.0 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/en_GB.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/en_GB.po | 
+ | [fr](/f35/language/fr) | 177 | 177 | 100.0 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/fr.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/fr.po | 
+ | [ja](/f35/language/ja) | 177 | 177 | 100.0 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/ja.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/ja.po | 
+ | [pl](/f35/language/pl) | 177 | 177 | 100.0 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/pl.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/pl.po | 
+ | [ru](/f35/language/ru) | 177 | 177 | 100.0 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/ru.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/ru.po | 
+ | [uk](/f35/language/uk) | 177 | 177 | 100.0 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/uk.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/uk.po | 
+ | [de](/f35/language/de) | 160 | 177 | 90.4 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/de.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/de.po | 
+ | [he](/f35/language/he) | 160 | 177 | 90.4 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/he.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/he.po | 
+ | [sk](/f35/language/sk) | 147 | 177 | 83.1 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/sk.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/sk.po | 
+ | [tr](/f35/language/tr) | 147 | 177 | 83.1 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/tr.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/tr.po | 
+ | [ar](/f35/language/ar) | 126 | 177 | 71.2 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/ar.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/ar.po | 
+ | [pt](/f35/language/pt) | 126 | 177 | 71.2 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/pt.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/pt.po | 
+ | [es](/f35/language/es) | 122 | 177 | 68.9 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/es.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/es.po | 
+ | [cs](/f35/language/cs) | 115 | 177 | 65.0 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/cs.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/cs.po | 
+ | [it](/f35/language/it) | 115 | 177 | 65.0 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/it.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/it.po | 
+ | [mr](/f35/language/mr) | 115 | 177 | 65.0 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/mr.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/mr.po | 
+ | [nl](/f35/language/nl) | 115 | 177 | 65.0 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/nl.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/nl.po | 
+ | [nn](/f35/language/nn) | 115 | 177 | 65.0 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/nn.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/nn.po | 
+ | [sr](/f35/language/sr) | 115 | 177 | 65.0 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/sr.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/sr.po | 
+ | [da](/f35/language/da) | 107 | 177 | 60.5 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/da.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/da.po | 
+ | [pt_BR](/f35/language/pt_BR) | 107 | 177 | 60.5 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/pt_BR.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/pt_BR.po | 
+ | [szl](/f35/language/szl) | 107 | 177 | 60.5 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/szl.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/szl.po | 
+ | [eo](/f35/language/eo) | 76 | 177 | 42.9 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/eo.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/eo.po | 
+ | [hu](/f35/language/hu) | 65 | 177 | 36.7 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/hu.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/hu.po | 
+ | [fi](/f35/language/fi) | 62 | 177 | 35.0 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/fi.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/fi.po | 
+ | [en_AU](/f35/language/en_AU) | 52 | 177 | 29.4 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/en_AU.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/en_AU.po | 
+ | [en_CA](/f35/language/en_CA) | 52 | 177 | 29.4 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/en_CA.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/en_CA.po | 
+ | [gl](/f35/language/gl) | 37 | 177 | 20.9 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/gl.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/gl.po | 
+ | [sl](/f35/language/sl) | 31 | 177 | 17.5 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/sl.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/sl.po | 
+ | [pa](/f35/language/pa) | 30 | 177 | 16.9 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/pa.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/pa.po | 
+ | [oc](/f35/language/oc) | 29 | 177 | 16.4 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/oc.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/oc.po | 
+ | [lt](/f35/language/lt) | 28 | 177 | 15.8 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/lt.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/lt.po | 
+ | [zh_Hans](/f35/language/zh_Hans) | 56 | 354 | 15.8 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/zh_CN.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/zh.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/zh_CN.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/zh.po | 
+ | [nb_NO](/f35/language/nb_NO) | 45 | 354 | 12.7 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/no.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/nb.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/no.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/nb.po | 
+ | [si](/f35/language/si) | 14 | 177 | 7.9 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/si.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/si.po | 
+ | [uz](/f35/language/uz) | 6 | 177 | 3.4 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/uz.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/uz.po | 
+ | [ak](/f35/language/ak) | 4 | 177 | 2.3 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/ak.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/ak.po | 
+ | [az](/f35/language/az) | 4 | 177 | 2.3 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/az.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/az.po | 
+ | [bg](/f35/language/bg) | 4 | 177 | 2.3 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/bg.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/bg.po | 
+ | [bn](/f35/language/bn) | 4 | 177 | 2.3 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/bn.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/bn.po | 
+ | [bs](/f35/language/bs) | 4 | 177 | 2.3 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/bs.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/bs.po | 
+ | [ckb](/f35/language/ckb) | 4 | 177 | 2.3 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/ckb.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/ckb.po | 
+ | [el](/f35/language/el) | 4 | 177 | 2.3 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/el.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/el.po | 
+ | [et](/f35/language/et) | 4 | 177 | 2.3 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/et.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/et.po | 
+ | [fr_CA](/f35/language/fr_CA) | 4 | 177 | 2.3 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/fr_CA.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/fr_CA.po | 
+ | [hi](/f35/language/hi) | 4 | 177 | 2.3 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/hi.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/hi.po | 
+ | [hr](/f35/language/hr) | 4 | 177 | 2.3 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/hr.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/hr.po | 
+ | [id](/f35/language/id) | 4 | 177 | 2.3 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/id.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/id.po | 
+ | [ka](/f35/language/ka) | 4 | 177 | 2.3 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/ka.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/ka.po | 
+ | [ko](/f35/language/ko) | 4 | 177 | 2.3 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/ko.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/ko.po | 
+ | [ku](/f35/language/ku) | 4 | 177 | 2.3 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/ku.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/ku.po | 
+ | [ms](/f35/language/ms) | 4 | 177 | 2.3 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/ms.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/ms.po | 
+ | [my](/f35/language/my) | 4 | 177 | 2.3 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/my.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/my.po | 
+ | [ro](/f35/language/ro) | 4 | 177 | 2.3 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/ro.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/ro.po | 
+ | [sq](/f35/language/sq) | 4 | 177 | 2.3 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/sq.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/sq.po | 
+ | [sv](/f35/language/sv) | 4 | 177 | 2.3 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/sv.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/sv.po | 
+ | [sw](/f35/language/sw) | 4 | 177 | 2.3 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/sw.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/sw.po | 
+ | [th](/f35/language/th) | 4 | 177 | 2.3 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/th.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/th.po | 
+ | [tl](/f35/language/tl) | 4 | 177 | 2.3 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/tl.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/tl.po | 
+ | [ug](/f35/language/ug) | 4 | 177 | 2.3 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/ug.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/ug.po | 
+ | [vi](/f35/language/vi) | 4 | 177 | 2.3 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/vi.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/vi.po | 
+ | [zh_Hant](/f35/language/zh_Hant) | 4 | 177 | 2.3 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/zh_TW.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/zh_TW.po | 
+ | [aa](/f35/language/aa) | 0 | 177 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/aa.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/aa.po | 
+ | [ab](/f35/language/ab) | 0 | 177 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/ab.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/ab.po | 
+ | [ae](/f35/language/ae) | 0 | 177 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/ae.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/ae.po | 
+ | [af](/f35/language/af) | 0 | 177 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/af.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/af.po | 
+ | [am](/f35/language/am) | 0 | 177 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/am.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/am.po | 
+ | [an](/f35/language/an) | 0 | 177 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/an.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/an.po | 
+ | [as](/f35/language/as) | 0 | 177 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/as.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/as.po | 
+ | [ast](/f35/language/ast) | 0 | 177 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/ast.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/ast.po | 
+ | [av](/f35/language/av) | 0 | 177 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/av.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/av.po | 
+ | [ay](/f35/language/ay) | 0 | 177 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/ay.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/ay.po | 
+ | [ba](/f35/language/ba) | 0 | 177 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/ba.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/ba.po | 
+ | [be](/f35/language/be) | 0 | 177 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/be.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/be.po | 
+ | [bh](/f35/language/bh) | 0 | 177 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/bh.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/bh.po | 
+ | [bi](/f35/language/bi) | 0 | 177 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/bi.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/bi.po | 
+ | [bm](/f35/language/bm) | 0 | 177 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/bm.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/bm.po | 
+ | [bo](/f35/language/bo) | 0 | 177 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/bo.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/bo.po | 
+ | [br](/f35/language/br) | 0 | 177 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/br.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/br.po | 
+ | [ca@valencia](/f35/language/ca@valencia) | 0 | 177 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/ca@valencia.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/ca@valencia.po | 
+ | [ce](/f35/language/ce) | 0 | 177 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/ce.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/ce.po | 
+ | [ch](/f35/language/ch) | 0 | 177 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/ch.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/ch.po | 
+ | [co](/f35/language/co) | 0 | 177 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/co.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/co.po | 
+ | [cr](/f35/language/cr) | 0 | 177 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/cr.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/cr.po | 
+ | [cu](/f35/language/cu) | 0 | 177 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/cu.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/cu.po | 
+ | [cv](/f35/language/cv) | 0 | 177 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/cv.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/cv.po | 
+ | [cy](/f35/language/cy) | 0 | 177 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/cy.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/cy.po | 
+ | [dv](/f35/language/dv) | 0 | 177 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/dv.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/dv.po | 
+ | [dz](/f35/language/dz) | 0 | 177 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/dz.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/dz.po | 
+ | [ee](/f35/language/ee) | 0 | 177 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/ee.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/ee.po | 
+ | [eu](/f35/language/eu) | 0 | 177 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/eu.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/eu.po | 
+ | [fa](/f35/language/fa) | 0 | 177 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/fa.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/fa.po | 
+ | [ff](/f35/language/ff) | 0 | 177 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/ff.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/ff.po | 
+ | [fil](/f35/language/fil) | 0 | 177 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/fil.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/fil.po | 
+ | [fj](/f35/language/fj) | 0 | 177 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/fj.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/fj.po | 
+ | [fo](/f35/language/fo) | 0 | 177 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/fo.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/fo.po | 
+ | [fy](/f35/language/fy) | 0 | 177 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/fy.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/fy.po | 
+ | [ga](/f35/language/ga) | 0 | 177 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/ga.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/ga.po | 
+ | [gd](/f35/language/gd) | 0 | 177 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/gd.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/gd.po | 
+ | [gn](/f35/language/gn) | 0 | 177 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/gn.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/gn.po | 
+ | [gu](/f35/language/gu) | 0 | 177 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/gu.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/gu.po | 
+ | [gv](/f35/language/gv) | 0 | 177 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/gv.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/gv.po | 
+ | [ha](/f35/language/ha) | 0 | 177 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/ha.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/ha.po | 
+ | [ho](/f35/language/ho) | 0 | 177 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/ho.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/ho.po | 
+ | [ht](/f35/language/ht) | 0 | 177 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/ht.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/ht.po | 
+ | [hy](/f35/language/hy) | 0 | 177 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/hy.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/hy.po | 
+ | [hz](/f35/language/hz) | 0 | 177 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/hz.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/hz.po | 
+ | [ia](/f35/language/ia) | 0 | 177 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/ia.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/ia.po | 
+ | [ie](/f35/language/ie) | 0 | 177 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/ie.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/ie.po | 
+ | [ig](/f35/language/ig) | 0 | 177 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/ig.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/ig.po | 
+ | [ii](/f35/language/ii) | 0 | 177 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/ii.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/ii.po | 
+ | [ik](/f35/language/ik) | 0 | 177 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/ik.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/ik.po | 
+ | [io](/f35/language/io) | 0 | 177 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/io.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/io.po | 
+ | [is](/f35/language/is) | 0 | 177 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/is.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/is.po | 
+ | [iu](/f35/language/iu) | 0 | 177 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/iu.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/iu.po | 
+ | [jv](/f35/language/jv) | 0 | 177 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/jv.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/jv.po | 
+ | [kg](/f35/language/kg) | 0 | 177 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/kg.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/kg.po | 
+ | [ki](/f35/language/ki) | 0 | 177 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/ki.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/ki.po | 
+ | [kj](/f35/language/kj) | 0 | 177 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/kj.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/kj.po | 
+ | [kk](/f35/language/kk) | 0 | 177 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/kk.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/kk.po | 
+ | [kl](/f35/language/kl) | 0 | 177 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/kl.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/kl.po | 
+ | [km](/f35/language/km) | 0 | 177 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/km.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/km.po | 
+ | [kn](/f35/language/kn) | 0 | 177 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/kn.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/kn.po | 
+ | [kr](/f35/language/kr) | 0 | 177 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/kr.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/kr.po | 
+ | [ks](/f35/language/ks) | 0 | 177 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/ks.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/ks.po | 
+ | [kv](/f35/language/kv) | 0 | 177 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/kv.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/kv.po | 
+ | [kw](/f35/language/kw) | 0 | 177 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/kw.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/kw.po | 
+ | [ky](/f35/language/ky) | 0 | 177 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/ky.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/ky.po | 
+ | [la](/f35/language/la) | 0 | 177 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/la.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/la.po | 
+ | [lb](/f35/language/lb) | 0 | 177 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/lb.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/lb.po | 
+ | [lg](/f35/language/lg) | 0 | 177 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/lg.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/lg.po | 
+ | [li](/f35/language/li) | 0 | 177 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/li.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/li.po | 
+ | [ln](/f35/language/ln) | 0 | 177 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/ln.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/ln.po | 
+ | [lo](/f35/language/lo) | 0 | 177 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/lo.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/lo.po | 
+ | [lu](/f35/language/lu) | 0 | 177 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/lu.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/lu.po | 
+ | [lv](/f35/language/lv) | 0 | 177 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/lv.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/lv.po | 
+ | [mg](/f35/language/mg) | 0 | 177 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/mg.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/mg.po | 
+ | [mh](/f35/language/mh) | 0 | 177 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/mh.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/mh.po | 
+ | [mi](/f35/language/mi) | 0 | 177 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/mi.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/mi.po | 
+ | [mk](/f35/language/mk) | 0 | 177 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/mk.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/mk.po | 
+ | [ml](/f35/language/ml) | 0 | 177 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/ml.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/ml.po | 
+ | [mn](/f35/language/mn) | 0 | 177 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/mn.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/mn.po | 
+ | [mt](/f35/language/mt) | 0 | 177 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/mt.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/mt.po | 
+ | [na](/f35/language/na) | 0 | 177 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/na.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/na.po | 
+ | [nd](/f35/language/nd) | 0 | 177 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/nd.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/nd.po | 
+ | [ne](/f35/language/ne) | 0 | 177 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/ne.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/ne.po | 
+ | [ng](/f35/language/ng) | 0 | 177 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/ng.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/ng.po | 
+ | [nr](/f35/language/nr) | 0 | 177 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/nr.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/nr.po | 
+ | [nv](/f35/language/nv) | 0 | 177 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/nv.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/nv.po | 
+ | [ny](/f35/language/ny) | 0 | 177 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/ny.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/ny.po | 
+ | [oj](/f35/language/oj) | 0 | 177 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/oj.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/oj.po | 
+ | [om](/f35/language/om) | 0 | 177 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/om.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/om.po | 
+ | [or](/f35/language/or) | 0 | 177 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/or.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/or.po | 
+ | [os](/f35/language/os) | 0 | 177 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/os.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/os.po | 
+ | [pi](/f35/language/pi) | 0 | 177 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/pi.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/pi.po | 
+ | [ps](/f35/language/ps) | 0 | 177 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/ps.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/ps.po | 
+ | [qu](/f35/language/qu) | 0 | 177 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/qu.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/qu.po | 
+ | [rm](/f35/language/rm) | 0 | 177 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/rm.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/rm.po | 
+ | [rn](/f35/language/rn) | 0 | 177 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/rn.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/rn.po | 
+ | [ro_MD](/f35/language/ro_MD) | 0 | 177 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/mo.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/mo.po | 
+ | [rue](/f35/language/rue) | 0 | 177 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/rue.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/rue.po | 
+ | [rw](/f35/language/rw) | 0 | 177 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/rw.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/rw.po | 
+ | [sa](/f35/language/sa) | 0 | 177 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/sa.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/sa.po | 
+ | [sc](/f35/language/sc) | 0 | 177 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/sc.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/sc.po | 
+ | [sd](/f35/language/sd) | 0 | 177 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/sd.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/sd.po | 
+ | [se](/f35/language/se) | 0 | 177 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/se.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/se.po | 
+ | [sg](/f35/language/sg) | 0 | 177 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/sg.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/sg.po | 
+ | [sm](/f35/language/sm) | 0 | 177 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/sm.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/sm.po | 
+ | [sma](/f35/language/sma) | 0 | 177 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/sma.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/sma.po | 
+ | [sn](/f35/language/sn) | 0 | 177 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/sn.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/sn.po | 
+ | [so](/f35/language/so) | 0 | 177 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/so.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/so.po | 
+ | [sr_Latn](/f35/language/sr_Latn) | 0 | 177 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/sr@latin.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/sr@latin.po | 
+ | [ss](/f35/language/ss) | 0 | 177 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/ss.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/ss.po | 
+ | [st](/f35/language/st) | 0 | 177 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/st.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/st.po | 
+ | [su](/f35/language/su) | 0 | 177 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/su.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/su.po | 
+ | [ta](/f35/language/ta) | 0 | 177 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/ta.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/ta.po | 
+ | [te](/f35/language/te) | 0 | 177 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/te.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/te.po | 
+ | [tg](/f35/language/tg) | 0 | 177 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/tg.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/tg.po | 
+ | [ti](/f35/language/ti) | 0 | 177 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/ti.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/ti.po | 
+ | [tk](/f35/language/tk) | 0 | 177 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/tk.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/tk.po | 
+ | [tn](/f35/language/tn) | 0 | 177 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/tn.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/tn.po | 
+ | [to](/f35/language/to) | 0 | 177 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/to.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/to.po | 
+ | [ts](/f35/language/ts) | 0 | 177 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/ts.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/ts.po | 
+ | [tt](/f35/language/tt) | 0 | 177 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/tt.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/tt.po | 
+ | [tw](/f35/language/tw) | 0 | 177 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/tw.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/tw.po | 
+ | [ty](/f35/language/ty) | 0 | 177 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/ty.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/ty.po | 
+ | [ur](/f35/language/ur) | 0 | 177 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/ur.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/ur.po | 
+ | [ve](/f35/language/ve) | 0 | 177 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/ve.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/ve.po | 
+ | [vo](/f35/language/vo) | 0 | 177 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/vo.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/vo.po | 
+ | [wa](/f35/language/wa) | 0 | 177 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/wa.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/wa.po | 
+ | [wo](/f35/language/wo) | 0 | 177 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/wo.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/wo.po | 
+ | [xh](/f35/language/xh) | 0 | 177 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/xh.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/xh.po | 
+ | [yi](/f35/language/yi) | 0 | 177 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/yi.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/yi.po | 
+ | [yo](/f35/language/yo) | 0 | 177 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/yo.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/yo.po | 
+ | [za](/f35/language/za) | 0 | 177 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/za.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/za.po | 
+ | [zh_Hant_HK](/f35/language/zh_Hant_HK) | 0 | 177 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/zh_HK.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/zh_HK.po | 
+ | [zu](/f35/language/zu) | 0 | 177 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/zu.po/mnt/stockage/packages/f35/wingpanel-indicator-datetime/po/extra/zu.po | 
 {.sortable}
 
 

@@ -18,54 +18,54 @@ The package xfce4-places-plugin (version 1.4.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f17/language/cs.md" >}}) | 140 | 140 | 100.0 | /mnt/stockage/packages/f17/xfce4-places-plugin/po/cs.po | 
- | [da]({{< ref "/f17/language/da.md" >}}) | 140 | 140 | 100.0 | /mnt/stockage/packages/f17/xfce4-places-plugin/po/da.po | 
- | [de]({{< ref "/f17/language/de.md" >}}) | 140 | 140 | 100.0 | /mnt/stockage/packages/f17/xfce4-places-plugin/po/de.po | 
- | [el]({{< ref "/f17/language/el.md" >}}) | 140 | 140 | 100.0 | /mnt/stockage/packages/f17/xfce4-places-plugin/po/el.po | 
- | [en_GB]({{< ref "/f17/language/en_GB.md" >}}) | 140 | 140 | 100.0 | /mnt/stockage/packages/f17/xfce4-places-plugin/po/en_GB.po | 
- | [es]({{< ref "/f17/language/es.md" >}}) | 140 | 140 | 100.0 | /mnt/stockage/packages/f17/xfce4-places-plugin/po/es.po | 
- | [eu]({{< ref "/f17/language/eu.md" >}}) | 140 | 140 | 100.0 | /mnt/stockage/packages/f17/xfce4-places-plugin/po/eu.po | 
- | [fi]({{< ref "/f17/language/fi.md" >}}) | 140 | 140 | 100.0 | /mnt/stockage/packages/f17/xfce4-places-plugin/po/fi.po | 
- | [fr]({{< ref "/f17/language/fr.md" >}}) | 140 | 140 | 100.0 | /mnt/stockage/packages/f17/xfce4-places-plugin/po/fr.po | 
- | [gl]({{< ref "/f17/language/gl.md" >}}) | 140 | 140 | 100.0 | /mnt/stockage/packages/f17/xfce4-places-plugin/po/gl.po | 
- | [hu]({{< ref "/f17/language/hu.md" >}}) | 140 | 140 | 100.0 | /mnt/stockage/packages/f17/xfce4-places-plugin/po/hu.po | 
- | [id]({{< ref "/f17/language/id.md" >}}) | 140 | 140 | 100.0 | /mnt/stockage/packages/f17/xfce4-places-plugin/po/id.po | 
- | [is]({{< ref "/f17/language/is.md" >}}) | 140 | 140 | 100.0 | /mnt/stockage/packages/f17/xfce4-places-plugin/po/is.po | 
- | [it]({{< ref "/f17/language/it.md" >}}) | 140 | 140 | 100.0 | /mnt/stockage/packages/f17/xfce4-places-plugin/po/it.po | 
- | [ja]({{< ref "/f17/language/ja.md" >}}) | 140 | 140 | 100.0 | /mnt/stockage/packages/f17/xfce4-places-plugin/po/ja.po | 
- | [kk]({{< ref "/f17/language/kk.md" >}}) | 140 | 140 | 100.0 | /mnt/stockage/packages/f17/xfce4-places-plugin/po/kk.po | 
- | [ko]({{< ref "/f17/language/ko.md" >}}) | 140 | 140 | 100.0 | /mnt/stockage/packages/f17/xfce4-places-plugin/po/ko.po | 
- | [lt]({{< ref "/f17/language/lt.md" >}}) | 140 | 140 | 100.0 | /mnt/stockage/packages/f17/xfce4-places-plugin/po/lt.po | 
- | [nl]({{< ref "/f17/language/nl.md" >}}) | 140 | 140 | 100.0 | /mnt/stockage/packages/f17/xfce4-places-plugin/po/nl.po | 
- | [pt]({{< ref "/f17/language/pt.md" >}}) | 140 | 140 | 100.0 | /mnt/stockage/packages/f17/xfce4-places-plugin/po/pt.po | 
- | [pt_BR]({{< ref "/f17/language/pt_BR.md" >}}) | 140 | 140 | 100.0 | /mnt/stockage/packages/f17/xfce4-places-plugin/po/pt_BR.po | 
- | [ru]({{< ref "/f17/language/ru.md" >}}) | 140 | 140 | 100.0 | /mnt/stockage/packages/f17/xfce4-places-plugin/po/ru.po | 
- | [sk]({{< ref "/f17/language/sk.md" >}}) | 140 | 140 | 100.0 | /mnt/stockage/packages/f17/xfce4-places-plugin/po/sk.po | 
- | [sr]({{< ref "/f17/language/sr.md" >}}) | 140 | 140 | 100.0 | /mnt/stockage/packages/f17/xfce4-places-plugin/po/sr.po | 
- | [ug]({{< ref "/f17/language/ug.md" >}}) | 140 | 140 | 100.0 | /mnt/stockage/packages/f17/xfce4-places-plugin/po/ug.po | 
- | [uk]({{< ref "/f17/language/uk.md" >}}) | 140 | 140 | 100.0 | /mnt/stockage/packages/f17/xfce4-places-plugin/po/uk.po | 
- | [zh_Hans]({{< ref "/f17/language/zh_Hans.md" >}}) | 140 | 140 | 100.0 | /mnt/stockage/packages/f17/xfce4-places-plugin/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f17/language/zh_Hant.md" >}}) | 140 | 140 | 100.0 | /mnt/stockage/packages/f17/xfce4-places-plugin/po/zh_TW.po | 
- | [pl]({{< ref "/f17/language/pl.md" >}}) | 79 | 140 | 56.4 | /mnt/stockage/packages/f17/xfce4-places-plugin/po/pl.po | 
- | [ar]({{< ref "/f17/language/ar.md" >}}) | 75 | 140 | 53.6 | /mnt/stockage/packages/f17/xfce4-places-plugin/po/ar.po | 
- | [ca]({{< ref "/f17/language/ca.md" >}}) | 75 | 140 | 53.6 | /mnt/stockage/packages/f17/xfce4-places-plugin/po/ca.po | 
- | [he]({{< ref "/f17/language/he.md" >}}) | 75 | 140 | 53.6 | /mnt/stockage/packages/f17/xfce4-places-plugin/po/he.po | 
- | [hr]({{< ref "/f17/language/hr.md" >}}) | 75 | 140 | 53.6 | /mnt/stockage/packages/f17/xfce4-places-plugin/po/hr.po | 
- | [lv]({{< ref "/f17/language/lv.md" >}}) | 75 | 140 | 53.6 | /mnt/stockage/packages/f17/xfce4-places-plugin/po/lv.po | 
- | [nb_NO]({{< ref "/f17/language/nb_NO.md" >}}) | 75 | 140 | 53.6 | /mnt/stockage/packages/f17/xfce4-places-plugin/po/nb.po | 
- | [pa]({{< ref "/f17/language/pa.md" >}}) | 75 | 140 | 53.6 | /mnt/stockage/packages/f17/xfce4-places-plugin/po/pa.po | 
- | [ro]({{< ref "/f17/language/ro.md" >}}) | 75 | 140 | 53.6 | /mnt/stockage/packages/f17/xfce4-places-plugin/po/ro.po | 
- | [sq]({{< ref "/f17/language/sq.md" >}}) | 75 | 140 | 53.6 | /mnt/stockage/packages/f17/xfce4-places-plugin/po/sq.po | 
- | [sv]({{< ref "/f17/language/sv.md" >}}) | 75 | 140 | 53.6 | /mnt/stockage/packages/f17/xfce4-places-plugin/po/sv.po | 
- | [ur]({{< ref "/f17/language/ur.md" >}}) | 150 | 280 | 53.6 | /mnt/stockage/packages/f17/xfce4-places-plugin/po/ur.po/mnt/stockage/packages/f17/xfce4-places-plugin/po/ur_PK.po | 
- | [tr]({{< ref "/f17/language/tr.md" >}}) | 55 | 140 | 39.3 | /mnt/stockage/packages/f17/xfce4-places-plugin/po/tr.po | 
- | [ast]({{< ref "/f17/language/ast.md" >}}) | 43 | 140 | 30.7 | /mnt/stockage/packages/f17/xfce4-places-plugin/po/ast.po | 
- | [be]({{< ref "/f17/language/be.md" >}}) | 11 | 140 | 7.9 | /mnt/stockage/packages/f17/xfce4-places-plugin/po/be.po | 
- | [dz]({{< ref "/f17/language/dz.md" >}}) | 7 | 140 | 5.0 | /mnt/stockage/packages/f17/xfce4-places-plugin/po/dz.po | 
- | [mk]({{< ref "/f17/language/mk.md" >}}) | 7 | 140 | 5.0 | /mnt/stockage/packages/f17/xfce4-places-plugin/po/mk.po | 
- | [et]({{< ref "/f17/language/et.md" >}}) | 6 | 140 | 4.3 | /mnt/stockage/packages/f17/xfce4-places-plugin/po/et.po | 
- | [eo]({{< ref "/f17/language/eo.md" >}}) | 4 | 140 | 2.9 | /mnt/stockage/packages/f17/xfce4-places-plugin/po/eo.po | 
- | [ka]({{< ref "/f17/language/ka.md" >}}) | 4 | 140 | 2.9 | /mnt/stockage/packages/f17/xfce4-places-plugin/po/ka.po | 
+ | [cs](/f17/language/cs) | 140 | 140 | 100.0 | /mnt/stockage/packages/f17/xfce4-places-plugin/po/cs.po | 
+ | [da](/f17/language/da) | 140 | 140 | 100.0 | /mnt/stockage/packages/f17/xfce4-places-plugin/po/da.po | 
+ | [de](/f17/language/de) | 140 | 140 | 100.0 | /mnt/stockage/packages/f17/xfce4-places-plugin/po/de.po | 
+ | [el](/f17/language/el) | 140 | 140 | 100.0 | /mnt/stockage/packages/f17/xfce4-places-plugin/po/el.po | 
+ | [en_GB](/f17/language/en_GB) | 140 | 140 | 100.0 | /mnt/stockage/packages/f17/xfce4-places-plugin/po/en_GB.po | 
+ | [es](/f17/language/es) | 140 | 140 | 100.0 | /mnt/stockage/packages/f17/xfce4-places-plugin/po/es.po | 
+ | [eu](/f17/language/eu) | 140 | 140 | 100.0 | /mnt/stockage/packages/f17/xfce4-places-plugin/po/eu.po | 
+ | [fi](/f17/language/fi) | 140 | 140 | 100.0 | /mnt/stockage/packages/f17/xfce4-places-plugin/po/fi.po | 
+ | [fr](/f17/language/fr) | 140 | 140 | 100.0 | /mnt/stockage/packages/f17/xfce4-places-plugin/po/fr.po | 
+ | [gl](/f17/language/gl) | 140 | 140 | 100.0 | /mnt/stockage/packages/f17/xfce4-places-plugin/po/gl.po | 
+ | [hu](/f17/language/hu) | 140 | 140 | 100.0 | /mnt/stockage/packages/f17/xfce4-places-plugin/po/hu.po | 
+ | [id](/f17/language/id) | 140 | 140 | 100.0 | /mnt/stockage/packages/f17/xfce4-places-plugin/po/id.po | 
+ | [is](/f17/language/is) | 140 | 140 | 100.0 | /mnt/stockage/packages/f17/xfce4-places-plugin/po/is.po | 
+ | [it](/f17/language/it) | 140 | 140 | 100.0 | /mnt/stockage/packages/f17/xfce4-places-plugin/po/it.po | 
+ | [ja](/f17/language/ja) | 140 | 140 | 100.0 | /mnt/stockage/packages/f17/xfce4-places-plugin/po/ja.po | 
+ | [kk](/f17/language/kk) | 140 | 140 | 100.0 | /mnt/stockage/packages/f17/xfce4-places-plugin/po/kk.po | 
+ | [ko](/f17/language/ko) | 140 | 140 | 100.0 | /mnt/stockage/packages/f17/xfce4-places-plugin/po/ko.po | 
+ | [lt](/f17/language/lt) | 140 | 140 | 100.0 | /mnt/stockage/packages/f17/xfce4-places-plugin/po/lt.po | 
+ | [nl](/f17/language/nl) | 140 | 140 | 100.0 | /mnt/stockage/packages/f17/xfce4-places-plugin/po/nl.po | 
+ | [pt](/f17/language/pt) | 140 | 140 | 100.0 | /mnt/stockage/packages/f17/xfce4-places-plugin/po/pt.po | 
+ | [pt_BR](/f17/language/pt_BR) | 140 | 140 | 100.0 | /mnt/stockage/packages/f17/xfce4-places-plugin/po/pt_BR.po | 
+ | [ru](/f17/language/ru) | 140 | 140 | 100.0 | /mnt/stockage/packages/f17/xfce4-places-plugin/po/ru.po | 
+ | [sk](/f17/language/sk) | 140 | 140 | 100.0 | /mnt/stockage/packages/f17/xfce4-places-plugin/po/sk.po | 
+ | [sr](/f17/language/sr) | 140 | 140 | 100.0 | /mnt/stockage/packages/f17/xfce4-places-plugin/po/sr.po | 
+ | [ug](/f17/language/ug) | 140 | 140 | 100.0 | /mnt/stockage/packages/f17/xfce4-places-plugin/po/ug.po | 
+ | [uk](/f17/language/uk) | 140 | 140 | 100.0 | /mnt/stockage/packages/f17/xfce4-places-plugin/po/uk.po | 
+ | [zh_Hans](/f17/language/zh_Hans) | 140 | 140 | 100.0 | /mnt/stockage/packages/f17/xfce4-places-plugin/po/zh_CN.po | 
+ | [zh_Hant](/f17/language/zh_Hant) | 140 | 140 | 100.0 | /mnt/stockage/packages/f17/xfce4-places-plugin/po/zh_TW.po | 
+ | [pl](/f17/language/pl) | 79 | 140 | 56.4 | /mnt/stockage/packages/f17/xfce4-places-plugin/po/pl.po | 
+ | [ar](/f17/language/ar) | 75 | 140 | 53.6 | /mnt/stockage/packages/f17/xfce4-places-plugin/po/ar.po | 
+ | [ca](/f17/language/ca) | 75 | 140 | 53.6 | /mnt/stockage/packages/f17/xfce4-places-plugin/po/ca.po | 
+ | [he](/f17/language/he) | 75 | 140 | 53.6 | /mnt/stockage/packages/f17/xfce4-places-plugin/po/he.po | 
+ | [hr](/f17/language/hr) | 75 | 140 | 53.6 | /mnt/stockage/packages/f17/xfce4-places-plugin/po/hr.po | 
+ | [lv](/f17/language/lv) | 75 | 140 | 53.6 | /mnt/stockage/packages/f17/xfce4-places-plugin/po/lv.po | 
+ | [nb_NO](/f17/language/nb_NO) | 75 | 140 | 53.6 | /mnt/stockage/packages/f17/xfce4-places-plugin/po/nb.po | 
+ | [pa](/f17/language/pa) | 75 | 140 | 53.6 | /mnt/stockage/packages/f17/xfce4-places-plugin/po/pa.po | 
+ | [ro](/f17/language/ro) | 75 | 140 | 53.6 | /mnt/stockage/packages/f17/xfce4-places-plugin/po/ro.po | 
+ | [sq](/f17/language/sq) | 75 | 140 | 53.6 | /mnt/stockage/packages/f17/xfce4-places-plugin/po/sq.po | 
+ | [sv](/f17/language/sv) | 75 | 140 | 53.6 | /mnt/stockage/packages/f17/xfce4-places-plugin/po/sv.po | 
+ | [ur](/f17/language/ur) | 150 | 280 | 53.6 | /mnt/stockage/packages/f17/xfce4-places-plugin/po/ur.po/mnt/stockage/packages/f17/xfce4-places-plugin/po/ur_PK.po | 
+ | [tr](/f17/language/tr) | 55 | 140 | 39.3 | /mnt/stockage/packages/f17/xfce4-places-plugin/po/tr.po | 
+ | [ast](/f17/language/ast) | 43 | 140 | 30.7 | /mnt/stockage/packages/f17/xfce4-places-plugin/po/ast.po | 
+ | [be](/f17/language/be) | 11 | 140 | 7.9 | /mnt/stockage/packages/f17/xfce4-places-plugin/po/be.po | 
+ | [dz](/f17/language/dz) | 7 | 140 | 5.0 | /mnt/stockage/packages/f17/xfce4-places-plugin/po/dz.po | 
+ | [mk](/f17/language/mk) | 7 | 140 | 5.0 | /mnt/stockage/packages/f17/xfce4-places-plugin/po/mk.po | 
+ | [et](/f17/language/et) | 6 | 140 | 4.3 | /mnt/stockage/packages/f17/xfce4-places-plugin/po/et.po | 
+ | [eo](/f17/language/eo) | 4 | 140 | 2.9 | /mnt/stockage/packages/f17/xfce4-places-plugin/po/eo.po | 
+ | [ka](/f17/language/ka) | 4 | 140 | 2.9 | /mnt/stockage/packages/f17/xfce4-places-plugin/po/ka.po | 
 {.sortable}
 
 

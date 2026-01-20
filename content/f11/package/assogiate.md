@@ -18,8 +18,8 @@ The package assogiate (version 0.2.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [da]({{< ref "/f11/language/da.md" >}}) | 615 | 633 | 97.2 | /mnt/stockage/packages/f11/assogiate/po/da.po | 
- | [sv]({{< ref "/f11/language/sv.md" >}}) | 277 | 633 | 43.8 | /mnt/stockage/packages/f11/assogiate/po/sv.po | 
+ | [da](/f11/language/da) | 615 | 633 | 97.2 | /mnt/stockage/packages/f11/assogiate/po/da.po | 
+ | [sv](/f11/language/sv) | 277 | 633 | 43.8 | /mnt/stockage/packages/f11/assogiate/po/sv.po | 
 {.sortable}
 
 

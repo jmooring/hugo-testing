@@ -18,64 +18,64 @@ The package gnome-themes-standard (version 3.2.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [af]({{< ref "/f16/language/af.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f16/gnome-themes-standard/po/af.po | 
- | [an]({{< ref "/f16/language/an.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f16/gnome-themes-standard/po/an.po | 
- | [ar]({{< ref "/f16/language/ar.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f16/gnome-themes-standard/po/ar.po | 
- | [as]({{< ref "/f16/language/as.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f16/gnome-themes-standard/po/as.po | 
- | [be]({{< ref "/f16/language/be.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f16/gnome-themes-standard/po/be.po | 
- | [bg]({{< ref "/f16/language/bg.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f16/gnome-themes-standard/po/bg.po | 
- | [bn_IN]({{< ref "/f16/language/bn_IN.md" >}}) | 7 | 7 | 100.0 | /mnt/stockage/packages/f16/gnome-themes-standard/po/bn_IN.po | 
- | [ca]({{< ref "/f16/language/ca.md" >}}) | 48 | 48 | 100.0 | /mnt/stockage/packages/f16/gnome-themes-standard/po/ca.po/mnt/stockage/packages/f16/gnome-themes-standard/po/ca@valencia.po | 
- | [cs]({{< ref "/f16/language/cs.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f16/gnome-themes-standard/po/cs.po | 
- | [da]({{< ref "/f16/language/da.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f16/gnome-themes-standard/po/da.po | 
- | [de]({{< ref "/f16/language/de.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f16/gnome-themes-standard/po/de.po | 
- | [el]({{< ref "/f16/language/el.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f16/gnome-themes-standard/po/el.po | 
- | [en_CA]({{< ref "/f16/language/en_CA.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f16/gnome-themes-standard/po/en_CA.po | 
- | [en_GB]({{< ref "/f16/language/en_GB.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f16/gnome-themes-standard/po/en_GB.po | 
- | [eo]({{< ref "/f16/language/eo.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f16/gnome-themes-standard/po/eo.po | 
- | [es]({{< ref "/f16/language/es.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f16/gnome-themes-standard/po/es.po | 
- | [et]({{< ref "/f16/language/et.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f16/gnome-themes-standard/po/et.po | 
- | [eu]({{< ref "/f16/language/eu.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f16/gnome-themes-standard/po/eu.po | 
- | [fa]({{< ref "/f16/language/fa.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f16/gnome-themes-standard/po/fa.po | 
- | [fi]({{< ref "/f16/language/fi.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f16/gnome-themes-standard/po/fi.po | 
- | [fr]({{< ref "/f16/language/fr.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f16/gnome-themes-standard/po/fr.po | 
- | [fy]({{< ref "/f16/language/fy.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f16/gnome-themes-standard/po/fy.po | 
- | [gl]({{< ref "/f16/language/gl.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f16/gnome-themes-standard/po/gl.po | 
- | [gu]({{< ref "/f16/language/gu.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f16/gnome-themes-standard/po/gu.po | 
- | [he]({{< ref "/f16/language/he.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f16/gnome-themes-standard/po/he.po | 
- | [hu]({{< ref "/f16/language/hu.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f16/gnome-themes-standard/po/hu.po | 
- | [id]({{< ref "/f16/language/id.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f16/gnome-themes-standard/po/id.po | 
- | [it]({{< ref "/f16/language/it.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f16/gnome-themes-standard/po/it.po | 
- | [ja]({{< ref "/f16/language/ja.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f16/gnome-themes-standard/po/ja.po | 
- | [kn]({{< ref "/f16/language/kn.md" >}}) | 7 | 7 | 100.0 | /mnt/stockage/packages/f16/gnome-themes-standard/po/kn.po | 
- | [ko]({{< ref "/f16/language/ko.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f16/gnome-themes-standard/po/ko.po | 
- | [lt]({{< ref "/f16/language/lt.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f16/gnome-themes-standard/po/lt.po | 
- | [lv]({{< ref "/f16/language/lv.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f16/gnome-themes-standard/po/lv.po | 
- | [nb_NO]({{< ref "/f16/language/nb_NO.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f16/gnome-themes-standard/po/nb.po | 
- | [nl]({{< ref "/f16/language/nl.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f16/gnome-themes-standard/po/nl.po | 
- | [or]({{< ref "/f16/language/or.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f16/gnome-themes-standard/po/or.po | 
- | [pa]({{< ref "/f16/language/pa.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f16/gnome-themes-standard/po/pa.po | 
- | [pl]({{< ref "/f16/language/pl.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f16/gnome-themes-standard/po/pl.po | 
- | [pt]({{< ref "/f16/language/pt.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f16/gnome-themes-standard/po/pt.po | 
- | [pt_BR]({{< ref "/f16/language/pt_BR.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f16/gnome-themes-standard/po/pt_BR.po | 
- | [ro]({{< ref "/f16/language/ro.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f16/gnome-themes-standard/po/ro.po | 
- | [ru]({{< ref "/f16/language/ru.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f16/gnome-themes-standard/po/ru.po | 
- | [sk]({{< ref "/f16/language/sk.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f16/gnome-themes-standard/po/sk.po | 
- | [sl]({{< ref "/f16/language/sl.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f16/gnome-themes-standard/po/sl.po | 
- | [sr]({{< ref "/f16/language/sr.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f16/gnome-themes-standard/po/sr.po | 
- | [sr_Latn]({{< ref "/f16/language/sr_Latn.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f16/gnome-themes-standard/po/sr@latin.po | 
- | [sv]({{< ref "/f16/language/sv.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f16/gnome-themes-standard/po/sv.po | 
- | [ta]({{< ref "/f16/language/ta.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f16/gnome-themes-standard/po/ta.po | 
- | [te]({{< ref "/f16/language/te.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f16/gnome-themes-standard/po/te.po | 
- | [th]({{< ref "/f16/language/th.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f16/gnome-themes-standard/po/th.po | 
- | [tr]({{< ref "/f16/language/tr.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f16/gnome-themes-standard/po/tr.po | 
- | [ug]({{< ref "/f16/language/ug.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f16/gnome-themes-standard/po/ug.po | 
- | [uk]({{< ref "/f16/language/uk.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f16/gnome-themes-standard/po/uk.po | 
- | [vi]({{< ref "/f16/language/vi.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f16/gnome-themes-standard/po/vi.po | 
- | [zh_Hans]({{< ref "/f16/language/zh_Hans.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f16/gnome-themes-standard/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f16/language/zh_Hant.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f16/gnome-themes-standard/po/zh_TW.po | 
- | [zh_Hant_HK]({{< ref "/f16/language/zh_Hant_HK.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f16/gnome-themes-standard/po/zh_HK.po | 
- | [hi]({{< ref "/f16/language/hi.md" >}}) | 9 | 24 | 37.5 | /mnt/stockage/packages/f16/gnome-themes-standard/po/hi.po | 
+ | [af](/f16/language/af) | 24 | 24 | 100.0 | /mnt/stockage/packages/f16/gnome-themes-standard/po/af.po | 
+ | [an](/f16/language/an) | 24 | 24 | 100.0 | /mnt/stockage/packages/f16/gnome-themes-standard/po/an.po | 
+ | [ar](/f16/language/ar) | 24 | 24 | 100.0 | /mnt/stockage/packages/f16/gnome-themes-standard/po/ar.po | 
+ | [as](/f16/language/as) | 24 | 24 | 100.0 | /mnt/stockage/packages/f16/gnome-themes-standard/po/as.po | 
+ | [be](/f16/language/be) | 24 | 24 | 100.0 | /mnt/stockage/packages/f16/gnome-themes-standard/po/be.po | 
+ | [bg](/f16/language/bg) | 24 | 24 | 100.0 | /mnt/stockage/packages/f16/gnome-themes-standard/po/bg.po | 
+ | [bn_IN](/f16/language/bn_IN) | 7 | 7 | 100.0 | /mnt/stockage/packages/f16/gnome-themes-standard/po/bn_IN.po | 
+ | [ca](/f16/language/ca) | 48 | 48 | 100.0 | /mnt/stockage/packages/f16/gnome-themes-standard/po/ca.po/mnt/stockage/packages/f16/gnome-themes-standard/po/ca@valencia.po | 
+ | [cs](/f16/language/cs) | 24 | 24 | 100.0 | /mnt/stockage/packages/f16/gnome-themes-standard/po/cs.po | 
+ | [da](/f16/language/da) | 24 | 24 | 100.0 | /mnt/stockage/packages/f16/gnome-themes-standard/po/da.po | 
+ | [de](/f16/language/de) | 24 | 24 | 100.0 | /mnt/stockage/packages/f16/gnome-themes-standard/po/de.po | 
+ | [el](/f16/language/el) | 24 | 24 | 100.0 | /mnt/stockage/packages/f16/gnome-themes-standard/po/el.po | 
+ | [en_CA](/f16/language/en_CA) | 24 | 24 | 100.0 | /mnt/stockage/packages/f16/gnome-themes-standard/po/en_CA.po | 
+ | [en_GB](/f16/language/en_GB) | 24 | 24 | 100.0 | /mnt/stockage/packages/f16/gnome-themes-standard/po/en_GB.po | 
+ | [eo](/f16/language/eo) | 24 | 24 | 100.0 | /mnt/stockage/packages/f16/gnome-themes-standard/po/eo.po | 
+ | [es](/f16/language/es) | 24 | 24 | 100.0 | /mnt/stockage/packages/f16/gnome-themes-standard/po/es.po | 
+ | [et](/f16/language/et) | 24 | 24 | 100.0 | /mnt/stockage/packages/f16/gnome-themes-standard/po/et.po | 
+ | [eu](/f16/language/eu) | 24 | 24 | 100.0 | /mnt/stockage/packages/f16/gnome-themes-standard/po/eu.po | 
+ | [fa](/f16/language/fa) | 24 | 24 | 100.0 | /mnt/stockage/packages/f16/gnome-themes-standard/po/fa.po | 
+ | [fi](/f16/language/fi) | 24 | 24 | 100.0 | /mnt/stockage/packages/f16/gnome-themes-standard/po/fi.po | 
+ | [fr](/f16/language/fr) | 24 | 24 | 100.0 | /mnt/stockage/packages/f16/gnome-themes-standard/po/fr.po | 
+ | [fy](/f16/language/fy) | 24 | 24 | 100.0 | /mnt/stockage/packages/f16/gnome-themes-standard/po/fy.po | 
+ | [gl](/f16/language/gl) | 24 | 24 | 100.0 | /mnt/stockage/packages/f16/gnome-themes-standard/po/gl.po | 
+ | [gu](/f16/language/gu) | 24 | 24 | 100.0 | /mnt/stockage/packages/f16/gnome-themes-standard/po/gu.po | 
+ | [he](/f16/language/he) | 24 | 24 | 100.0 | /mnt/stockage/packages/f16/gnome-themes-standard/po/he.po | 
+ | [hu](/f16/language/hu) | 24 | 24 | 100.0 | /mnt/stockage/packages/f16/gnome-themes-standard/po/hu.po | 
+ | [id](/f16/language/id) | 24 | 24 | 100.0 | /mnt/stockage/packages/f16/gnome-themes-standard/po/id.po | 
+ | [it](/f16/language/it) | 24 | 24 | 100.0 | /mnt/stockage/packages/f16/gnome-themes-standard/po/it.po | 
+ | [ja](/f16/language/ja) | 24 | 24 | 100.0 | /mnt/stockage/packages/f16/gnome-themes-standard/po/ja.po | 
+ | [kn](/f16/language/kn) | 7 | 7 | 100.0 | /mnt/stockage/packages/f16/gnome-themes-standard/po/kn.po | 
+ | [ko](/f16/language/ko) | 24 | 24 | 100.0 | /mnt/stockage/packages/f16/gnome-themes-standard/po/ko.po | 
+ | [lt](/f16/language/lt) | 24 | 24 | 100.0 | /mnt/stockage/packages/f16/gnome-themes-standard/po/lt.po | 
+ | [lv](/f16/language/lv) | 24 | 24 | 100.0 | /mnt/stockage/packages/f16/gnome-themes-standard/po/lv.po | 
+ | [nb_NO](/f16/language/nb_NO) | 24 | 24 | 100.0 | /mnt/stockage/packages/f16/gnome-themes-standard/po/nb.po | 
+ | [nl](/f16/language/nl) | 24 | 24 | 100.0 | /mnt/stockage/packages/f16/gnome-themes-standard/po/nl.po | 
+ | [or](/f16/language/or) | 24 | 24 | 100.0 | /mnt/stockage/packages/f16/gnome-themes-standard/po/or.po | 
+ | [pa](/f16/language/pa) | 24 | 24 | 100.0 | /mnt/stockage/packages/f16/gnome-themes-standard/po/pa.po | 
+ | [pl](/f16/language/pl) | 24 | 24 | 100.0 | /mnt/stockage/packages/f16/gnome-themes-standard/po/pl.po | 
+ | [pt](/f16/language/pt) | 24 | 24 | 100.0 | /mnt/stockage/packages/f16/gnome-themes-standard/po/pt.po | 
+ | [pt_BR](/f16/language/pt_BR) | 24 | 24 | 100.0 | /mnt/stockage/packages/f16/gnome-themes-standard/po/pt_BR.po | 
+ | [ro](/f16/language/ro) | 24 | 24 | 100.0 | /mnt/stockage/packages/f16/gnome-themes-standard/po/ro.po | 
+ | [ru](/f16/language/ru) | 24 | 24 | 100.0 | /mnt/stockage/packages/f16/gnome-themes-standard/po/ru.po | 
+ | [sk](/f16/language/sk) | 24 | 24 | 100.0 | /mnt/stockage/packages/f16/gnome-themes-standard/po/sk.po | 
+ | [sl](/f16/language/sl) | 24 | 24 | 100.0 | /mnt/stockage/packages/f16/gnome-themes-standard/po/sl.po | 
+ | [sr](/f16/language/sr) | 24 | 24 | 100.0 | /mnt/stockage/packages/f16/gnome-themes-standard/po/sr.po | 
+ | [sr_Latn](/f16/language/sr_Latn) | 24 | 24 | 100.0 | /mnt/stockage/packages/f16/gnome-themes-standard/po/sr@latin.po | 
+ | [sv](/f16/language/sv) | 24 | 24 | 100.0 | /mnt/stockage/packages/f16/gnome-themes-standard/po/sv.po | 
+ | [ta](/f16/language/ta) | 24 | 24 | 100.0 | /mnt/stockage/packages/f16/gnome-themes-standard/po/ta.po | 
+ | [te](/f16/language/te) | 24 | 24 | 100.0 | /mnt/stockage/packages/f16/gnome-themes-standard/po/te.po | 
+ | [th](/f16/language/th) | 24 | 24 | 100.0 | /mnt/stockage/packages/f16/gnome-themes-standard/po/th.po | 
+ | [tr](/f16/language/tr) | 24 | 24 | 100.0 | /mnt/stockage/packages/f16/gnome-themes-standard/po/tr.po | 
+ | [ug](/f16/language/ug) | 24 | 24 | 100.0 | /mnt/stockage/packages/f16/gnome-themes-standard/po/ug.po | 
+ | [uk](/f16/language/uk) | 24 | 24 | 100.0 | /mnt/stockage/packages/f16/gnome-themes-standard/po/uk.po | 
+ | [vi](/f16/language/vi) | 24 | 24 | 100.0 | /mnt/stockage/packages/f16/gnome-themes-standard/po/vi.po | 
+ | [zh_Hans](/f16/language/zh_Hans) | 24 | 24 | 100.0 | /mnt/stockage/packages/f16/gnome-themes-standard/po/zh_CN.po | 
+ | [zh_Hant](/f16/language/zh_Hant) | 24 | 24 | 100.0 | /mnt/stockage/packages/f16/gnome-themes-standard/po/zh_TW.po | 
+ | [zh_Hant_HK](/f16/language/zh_Hant_HK) | 24 | 24 | 100.0 | /mnt/stockage/packages/f16/gnome-themes-standard/po/zh_HK.po | 
+ | [hi](/f16/language/hi) | 9 | 24 | 37.5 | /mnt/stockage/packages/f16/gnome-themes-standard/po/hi.po | 
 {.sortable}
 
 

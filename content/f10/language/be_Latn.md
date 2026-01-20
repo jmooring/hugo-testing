@@ -38,103 +38,103 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [NetworkManager-pptp]({{< ref "/f10/package/NetworkManager-pptp.md" >}}) | 114 | 114 | 100.0 | Belarusian Latin <i18n@mova.org> | 
- | [alacarte]({{< ref "/f10/package/alacarte.md" >}}) | 42 | 42 | 100.0 | Belarusian Latin <i18n@mova.org> | 
- | [at-spi]({{< ref "/f10/package/at-spi.md" >}}) | 4 | 4 | 100.0 | Belarusian Latin <i18n@mova.org> | 
- | [atk]({{< ref "/f10/package/atk.md" >}}) | 370 | 370 | 100.0 | i18n@mova.org <i18n@mova.org> | 
- | [bug-buddy]({{< ref "/f10/package/bug-buddy.md" >}}) | 936 | 936 | 100.0 | Belarusian Latin <be-latin.open-tran.eu> | 
- | [cheese]({{< ref "/f10/package/cheese.md" >}}) | 304 | 304 | 100.0 | Belarusian Latin <i18n@mova.org> | 
- | [dasher]({{< ref "/f10/package/dasher.md" >}}) | 460 | 460 | 100.0 | Belarusian Latin <be-latin.open-tran.eu> | 
- | [deskbar-applet]({{< ref "/f10/package/deskbar-applet.md" >}}) | 1520 | 1520 | 100.0 | Belarusian Latin <be-latin.open-tran.eu> | 
- | [devhelp]({{< ref "/f10/package/devhelp.md" >}}) | 360 | 360 | 100.0 | Belarusian Latin <i18n@mova.org> | 
- | [dialog]({{< ref "/f10/package/dialog.md" >}}) | 25 | 25 | 100.0 | Belarusian (Latin script) <translation-team-be-latin@lists.sourceforge.net> | 
- | [eog]({{< ref "/f10/package/eog.md" >}}) | 1198 | 1198 | 100.0 | Belarusian Latin <be-latin.open-tran.eu> | 
- | [epiphany]({{< ref "/f10/package/epiphany.md" >}}) | 4246 | 4246 | 100.0 | i18n@mova.org <i18n@mova.org> | 
- | [evince]({{< ref "/f10/package/evince.md" >}}) | 1048 | 1048 | 100.0 | Belarusian Latin <http://be-latin.open-tran.eu> | 
- | [evolution-webcal]({{< ref "/f10/package/evolution-webcal.md" >}}) | 184 | 184 | 100.0 | i18n@mova.org <i18n@mova.org> | 
- | [f-spot]({{< ref "/f10/package/f-spot.md" >}}) | 2871 | 2871 | 100.0 | i18n@mova.org <i18n@mova.org> | 
- | [file-roller]({{< ref "/f10/package/file-roller.md" >}}) | 1205 | 1205 | 100.0 | Belarusian Latin <i18n@mova.org> | 
- | [gconf-editor]({{< ref "/f10/package/gconf-editor.md" >}}) | 335 | 335 | 100.0 | Belarusian Latin <i18n@mova.org> | 
- | [gedit]({{< ref "/f10/package/gedit.md" >}}) | 4984 | 4984 | 100.0 | Belarusian Latin <i18n@mova.org> | 
- | [gedit-plugins]({{< ref "/f10/package/gedit-plugins.md" >}}) | 198 | 198 | 100.0 | Belarusian Latin <i18n@mova.org> | 
- | [gnome-applets]({{< ref "/f10/package/gnome-applets.md" >}}) | 3308 | 3308 | 100.0 | i18n@mova.org <i18n@mova.org> | 
- | [gnome-backgrounds]({{< ref "/f10/package/gnome-backgrounds.md" >}}) | 18 | 18 | 100.0 | Belarusian Latin <i18n@mova.org> | 
- | [gnome-desktop]({{< ref "/f10/package/gnome-desktop.md" >}}) | 288 | 288 | 100.0 | Belarusian Latin <i18n@mova.org> | 
- | [gnome-doc-utils]({{< ref "/f10/package/gnome-doc-utils.md" >}}) | 238 | 238 | 100.0 | Belarusian Latin <i18n@mova.org> | 
- | [gnome-icon-theme]({{< ref "/f10/package/gnome-icon-theme.md" >}}) | 43 | 43 | 100.0 | Belarusian Latin <i18n@mova.org> | 
- | [gnome-keyring]({{< ref "/f10/package/gnome-keyring.md" >}}) | 1717 | 1717 | 100.0 | Belarusian Latin <i18n@mova.org> | 
- | [gnome-keyring-manager]({{< ref "/f10/package/gnome-keyring-manager.md" >}}) | 284 | 284 | 100.0 | Belarusian Latin <i18n@mova.org> | 
- | [gnome-media]({{< ref "/f10/package/gnome-media.md" >}}) | 1923 | 1923 | 100.0 | Belarusian Latin <be-latin.open-tran.eu> | 
- | [gnome-menus]({{< ref "/f10/package/gnome-menus.md" >}}) | 165 | 165 | 100.0 | Belarusian Latin <i18n@mova.org> | 
- | [gnome-mount]({{< ref "/f10/package/gnome-mount.md" >}}) | 790 | 790 | 100.0 | i18n@mova.org <i18n@mova.org> | 
- | [gnome-netstatus]({{< ref "/f10/package/gnome-netstatus.md" >}}) | 417 | 417 | 100.0 | Belarusian Latin <be-latin.open-tran.eu> | 
- | [gnome-panel]({{< ref "/f10/package/gnome-panel.md" >}}) | 4547 | 4547 | 100.0 | i18n@mova.org <i18n@mova.org> | 
- | [gnome-screensaver]({{< ref "/f10/package/gnome-screensaver.md" >}}) | 966 | 966 | 100.0 | i18n@mova.org <i18n@mova.org> | 
- | [gnome-settings-daemon]({{< ref "/f10/package/gnome-settings-daemon.md" >}}) | 1034 | 1034 | 100.0 | Polish <pl@li.org> | 
- | [gnome-terminal]({{< ref "/f10/package/gnome-terminal.md" >}}) | 3820 | 3820 | 100.0 | Belarusian Latin <i18n@mova.org> | 
- | [gnome-themes]({{< ref "/f10/package/gnome-themes.md" >}}) | 85 | 85 | 100.0 | Belarusian Latin <be-latin.open-tran.eu> | 
- | [gnome-utils]({{< ref "/f10/package/gnome-utils.md" >}}) | 4174 | 4174 | 100.0 | Belarusian Latin <be-latin.open-tran.eu> | 
- | [gnome-volume-manager]({{< ref "/f10/package/gnome-volume-manager.md" >}}) | 1221 | 1221 | 100.0 | Belarusian Latin <be-latin.open-tran.eu> | 
- | [gtk2-engines]({{< ref "/f10/package/gtk2-engines.md" >}}) | 99 | 99 | 100.0 | Belarusian Latin <be-latin.open-tran.eu> | 
- | [gvfs]({{< ref "/f10/package/gvfs.md" >}}) | 1269 | 1269 | 100.0 | Belarusian Latin <i18n@mova.org> | 
- | [libgnomekbd]({{< ref "/f10/package/libgnomekbd.md" >}}) | 277 | 277 | 100.0 | Belarusian Latin <i18n@mova.org> | 
- | [libgnomeprint22]({{< ref "/f10/package/libgnomeprint22.md" >}}) | 168 | 168 | 100.0 | Belarusian Latin <be-latin.open-tran.eu> | 
- | [libgnomeprintui22]({{< ref "/f10/package/libgnomeprintui22.md" >}}) | 481 | 481 | 100.0 | Belarusian Latin <be-latin.open-tran.eu> | 
- | [libgnomeui]({{< ref "/f10/package/libgnomeui.md" >}}) | 1309 | 1309 | 100.0 | Belarusian Latin <i18n@mova.org> | 
- | [libgweather]({{< ref "/f10/package/libgweather.md" >}}) | 6734 | 6734 | 100.0 | i18n@mova.org <i18n@mova.org> | 
- | [libwnck]({{< ref "/f10/package/libwnck.md" >}}) | 1124 | 1124 | 100.0 | Belarusian Latin <i18n@mova.org> | 
- | [liferea]({{< ref "/f10/package/liferea.md" >}}) | 2494 | 2494 | 100.0 | Belarusian Latin | 
- | [lxmenu-data]({{< ref "/f10/package/lxmenu-data.md" >}}) | 97 | 97 | 100.0 | Belarusian Latin <i18n@mova.org> | 
- | [metacity]({{< ref "/f10/package/metacity.md" >}}) | 7924 | 7924 | 100.0 | i18n@mova.org <i18n@mova.org> | 
- | [nautilus]({{< ref "/f10/package/nautilus.md" >}}) | 7562 | 7562 | 100.0 | i18n@mova.org <i18n@mova.org> | 
- | [nautilus-cd-burner]({{< ref "/f10/package/nautilus-cd-burner.md" >}}) | 1315 | 1315 | 100.0 | Belarusian Latin <i18n@mova.org> | 
- | [nautilus-open-terminal]({{< ref "/f10/package/nautilus-open-terminal.md" >}}) | 82 | 82 | 100.0 | Belarusian Latin <i18n@mova.org> | 
- | [nautilus-sendto]({{< ref "/f10/package/nautilus-sendto.md" >}}) | 290 | 290 | 100.0 | Belarusian Latin <i18n@mova.org> | 
- | [pessulus]({{< ref "/f10/package/pessulus.md" >}}) | 88 | 88 | 100.0 | i18n@mova.org <i18n@mova.org> | 
- | [rhythmbox]({{< ref "/f10/package/rhythmbox.md" >}}) | 4019 | 4019 | 100.0 | Belarusian Latin <i18n@mova.org> | 
- | [sabayon]({{< ref "/f10/package/sabayon.md" >}}) | 1178 | 1178 | 100.0 | i18n@mova.org <i18n@mova.org> | 
- | [seahorse]({{< ref "/f10/package/seahorse.md" >}}) | 3645 | 3645 | 100.0 | Belarusian Latin <be-latin.open-tran.eu> | 
- | [seahorse-plugins]({{< ref "/f10/package/seahorse-plugins.md" >}}) | 3645 | 3645 | 100.0 | Belarusian Latin <be-latin.open-tran.eu> | 
- | [shared-mime-info]({{< ref "/f10/package/shared-mime-info.md" >}}) | 1388 | 1388 | 100.0 | Belarusian (Latin script) <translation-team-be-latin@lists.sourceforge.net> | 
- | [snownews]({{< ref "/f10/package/snownews.md" >}}) | 791 | 791 | 100.0 |  | 
- | [sound-juicer]({{< ref "/f10/package/sound-juicer.md" >}}) | 934 | 934 | 100.0 | Belarusian Latin <be-latin.open-tran.eu> | 
- | [swfdec-gnome]({{< ref "/f10/package/swfdec-gnome.md" >}}) | 101 | 101 | 100.0 | Belarusian <i18n@mova.org> | 
- | [tomboy]({{< ref "/f10/package/tomboy.md" >}}) | 2559 | 2559 | 100.0 | Belarusian Latin <be-latin.open-tran.eu> | 
- | [totem]({{< ref "/f10/package/totem.md" >}}) | 2218 | 2218 | 100.0 | Belarusian Latin <i18n@mova.org> | 
- | [totem-pl-parser]({{< ref "/f10/package/totem-pl-parser.md" >}}) | 1910 | 1910 | 100.0 | Belarusian Latin <i18n@mova.org> | 
- | [vte]({{< ref "/f10/package/vte.md" >}}) | 116 | 116 | 100.0 | Belarusian Latin <i18n@mova.org> | 
- | [xdg-user-dirs]({{< ref "/f10/package/xdg-user-dirs.md" >}}) | 26 | 26 | 100.0 | Belarusian Latin <i18n@mova.org> | 
- | [xdg-user-dirs-gtk]({{< ref "/f10/package/xdg-user-dirs-gtk.md" >}}) | 81 | 81 | 100.0 | Belarusian Latin <i18n@mova.org> | 
- | [zenity]({{< ref "/f10/package/zenity.md" >}}) | 582 | 582 | 100.0 | Belarusian Latin <i18n@mova.org> | 
- | [yelp]({{< ref "/f10/package/yelp.md" >}}) | 1032 | 1035 | 99.7 | Belarusian Latin <be-latin.open-tran.eu> | 
- | [control-center]({{< ref "/f10/package/control-center.md" >}}) | 2846 | 2858 | 99.6 | Polish <pl@li.org> | 
- | [mingw32-atk]({{< ref "/f10/package/mingw32-atk.md" >}}) | 370 | 375 | 98.7 | i18n@mova.org <i18n@mova.org> | 
- | [evolution]({{< ref "/f10/package/evolution.md" >}}) | 20488 | 20811 | 98.4 | Belarusian Latin <i18n@mova.org> | 
- | [NetworkManager]({{< ref "/f10/package/NetworkManager.md" >}}) | 1446 | 1471 | 98.3 | Belarusian Latin <i18n@mova.org> | 
- | [anjuta]({{< ref "/f10/package/anjuta.md" >}}) | 6575 | 6764 | 97.2 | Belarusian <i18n@mova.org> | 
- | [banshee]({{< ref "/f10/package/banshee.md" >}}) | 2035 | 2100 | 96.9 | Belarusian <i18n@mova.org> | 
- | [gtk2]({{< ref "/f10/package/gtk2.md" >}}) | 12295 | 12760 | 96.4 | Belarusian Latin <i18n@mova.org> | 
- | [glib2]({{< ref "/f10/package/glib2.md" >}}) | 2102 | 2197 | 95.7 | Belarusian Latin <i18n@mova.org> | 
- | [tracker]({{< ref "/f10/package/tracker.md" >}}) | 1153 | 1212 | 95.1 | Belarusian Latin <i18n@mova.org> | 
- | [poedit]({{< ref "/f10/package/poedit.md" >}}) | 1103 | 1162 | 94.9 | Polish <private> | 
- | [mingw32-gtk2]({{< ref "/f10/package/mingw32-gtk2.md" >}}) | 11289 | 12400 | 91.0 | Belarusian Latin <i18n@mova.org> | 
- | [mingw32-glib2]({{< ref "/f10/package/mingw32-glib2.md" >}}) | 2102 | 2325 | 90.4 | Belarusian Latin <i18n@mova.org> | 
- | [asunder]({{< ref "/f10/package/asunder.md" >}}) | 355 | 420 | 84.5 | i18n@mova.org <i18n@mova.org> | 
- | [gnome-power-manager]({{< ref "/f10/package/gnome-power-manager.md" >}}) | 2709 | 3326 | 81.4 | Belarusian Latin <i18n@mova.org> | 
- | [vinagre]({{< ref "/f10/package/vinagre.md" >}}) | 592 | 728 | 81.3 | Belarusian <i18n@mova.org> | 
- | [sonata]({{< ref "/f10/package/sonata.md" >}}) | 900 | 1136 | 79.2 | Belarusian (Latin script) <translation-team-be-latin@lists.sourceforge.net> | 
- | [pidgin]({{< ref "/f10/package/pidgin.md" >}}) | 13898 | 17989 | 77.3 | Belarusian Latin <be-latin.open-tran.eu> | 
- | [gnome-session]({{< ref "/f10/package/gnome-session.md" >}}) | 533 | 714 | 74.6 | Belarusian Latin <be-latin.open-tran.eu> | 
- | [isomaster]({{< ref "/f10/package/isomaster.md" >}}) | 495 | 672 | 73.7 | i18n@mova.org <i18n@mova.org> | 
- | [gucharmap]({{< ref "/f10/package/gucharmap.md" >}}) | 530 | 782 | 67.8 | Belarusian Latin <i18n@mova.org> | 
- | [gajim]({{< ref "/f10/package/gajim.md" >}}) | 6176 | 10146 | 60.9 | Belarusian Latin <i18n@mova.org> | 
- | [gnome-system-monitor]({{< ref "/f10/package/gnome-system-monitor.md" >}}) | 545 | 913 | 59.7 | Belarusian Latin <i18n@mova.org> | 
- | [gcalctool]({{< ref "/f10/package/gcalctool.md" >}}) | 564 | 1175 | 48.0 | Belarusian Latin <i18n@mova.org> | 
- | [vino]({{< ref "/f10/package/vino.md" >}}) | 474 | 1031 | 46.0 | Belarusian Latin <i18n@mova.org> | 
- | [gnome-mag]({{< ref "/f10/package/gnome-mag.md" >}}) | 87 | 298 | 29.2 | Belarusian Latin <i18n@mova.org> | 
- | [system-config-date-docs]({{< ref "/f10/package/system-config-date-docs.md" >}}) | 0 | 660 | 0.0 | LANGUAGE <LL@li.org> | 
- | [system-config-nfs]({{< ref "/f10/package/system-config-nfs.md" >}}) | 0 | 1185 | 0.0 | LANGUAGE <LL@li.org> | 
- | [system-config-users-docs]({{< ref "/f10/package/system-config-users-docs.md" >}}) | 0 | 1054 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [NetworkManager-pptp](/f10/package/NetworkManager-pptp) | 114 | 114 | 100.0 | Belarusian Latin <i18n@mova.org> | 
+ | [alacarte](/f10/package/alacarte) | 42 | 42 | 100.0 | Belarusian Latin <i18n@mova.org> | 
+ | [at-spi](/f10/package/at-spi) | 4 | 4 | 100.0 | Belarusian Latin <i18n@mova.org> | 
+ | [atk](/f10/package/atk) | 370 | 370 | 100.0 | i18n@mova.org <i18n@mova.org> | 
+ | [bug-buddy](/f10/package/bug-buddy) | 936 | 936 | 100.0 | Belarusian Latin <be-latin.open-tran.eu> | 
+ | [cheese](/f10/package/cheese) | 304 | 304 | 100.0 | Belarusian Latin <i18n@mova.org> | 
+ | [dasher](/f10/package/dasher) | 460 | 460 | 100.0 | Belarusian Latin <be-latin.open-tran.eu> | 
+ | [deskbar-applet](/f10/package/deskbar-applet) | 1520 | 1520 | 100.0 | Belarusian Latin <be-latin.open-tran.eu> | 
+ | [devhelp](/f10/package/devhelp) | 360 | 360 | 100.0 | Belarusian Latin <i18n@mova.org> | 
+ | [dialog](/f10/package/dialog) | 25 | 25 | 100.0 | Belarusian (Latin script) <translation-team-be-latin@lists.sourceforge.net> | 
+ | [eog](/f10/package/eog) | 1198 | 1198 | 100.0 | Belarusian Latin <be-latin.open-tran.eu> | 
+ | [epiphany](/f10/package/epiphany) | 4246 | 4246 | 100.0 | i18n@mova.org <i18n@mova.org> | 
+ | [evince](/f10/package/evince) | 1048 | 1048 | 100.0 | Belarusian Latin <http://be-latin.open-tran.eu> | 
+ | [evolution-webcal](/f10/package/evolution-webcal) | 184 | 184 | 100.0 | i18n@mova.org <i18n@mova.org> | 
+ | [f-spot](/f10/package/f-spot) | 2871 | 2871 | 100.0 | i18n@mova.org <i18n@mova.org> | 
+ | [file-roller](/f10/package/file-roller) | 1205 | 1205 | 100.0 | Belarusian Latin <i18n@mova.org> | 
+ | [gconf-editor](/f10/package/gconf-editor) | 335 | 335 | 100.0 | Belarusian Latin <i18n@mova.org> | 
+ | [gedit](/f10/package/gedit) | 4984 | 4984 | 100.0 | Belarusian Latin <i18n@mova.org> | 
+ | [gedit-plugins](/f10/package/gedit-plugins) | 198 | 198 | 100.0 | Belarusian Latin <i18n@mova.org> | 
+ | [gnome-applets](/f10/package/gnome-applets) | 3308 | 3308 | 100.0 | i18n@mova.org <i18n@mova.org> | 
+ | [gnome-backgrounds](/f10/package/gnome-backgrounds) | 18 | 18 | 100.0 | Belarusian Latin <i18n@mova.org> | 
+ | [gnome-desktop](/f10/package/gnome-desktop) | 288 | 288 | 100.0 | Belarusian Latin <i18n@mova.org> | 
+ | [gnome-doc-utils](/f10/package/gnome-doc-utils) | 238 | 238 | 100.0 | Belarusian Latin <i18n@mova.org> | 
+ | [gnome-icon-theme](/f10/package/gnome-icon-theme) | 43 | 43 | 100.0 | Belarusian Latin <i18n@mova.org> | 
+ | [gnome-keyring](/f10/package/gnome-keyring) | 1717 | 1717 | 100.0 | Belarusian Latin <i18n@mova.org> | 
+ | [gnome-keyring-manager](/f10/package/gnome-keyring-manager) | 284 | 284 | 100.0 | Belarusian Latin <i18n@mova.org> | 
+ | [gnome-media](/f10/package/gnome-media) | 1923 | 1923 | 100.0 | Belarusian Latin <be-latin.open-tran.eu> | 
+ | [gnome-menus](/f10/package/gnome-menus) | 165 | 165 | 100.0 | Belarusian Latin <i18n@mova.org> | 
+ | [gnome-mount](/f10/package/gnome-mount) | 790 | 790 | 100.0 | i18n@mova.org <i18n@mova.org> | 
+ | [gnome-netstatus](/f10/package/gnome-netstatus) | 417 | 417 | 100.0 | Belarusian Latin <be-latin.open-tran.eu> | 
+ | [gnome-panel](/f10/package/gnome-panel) | 4547 | 4547 | 100.0 | i18n@mova.org <i18n@mova.org> | 
+ | [gnome-screensaver](/f10/package/gnome-screensaver) | 966 | 966 | 100.0 | i18n@mova.org <i18n@mova.org> | 
+ | [gnome-settings-daemon](/f10/package/gnome-settings-daemon) | 1034 | 1034 | 100.0 | Polish <pl@li.org> | 
+ | [gnome-terminal](/f10/package/gnome-terminal) | 3820 | 3820 | 100.0 | Belarusian Latin <i18n@mova.org> | 
+ | [gnome-themes](/f10/package/gnome-themes) | 85 | 85 | 100.0 | Belarusian Latin <be-latin.open-tran.eu> | 
+ | [gnome-utils](/f10/package/gnome-utils) | 4174 | 4174 | 100.0 | Belarusian Latin <be-latin.open-tran.eu> | 
+ | [gnome-volume-manager](/f10/package/gnome-volume-manager) | 1221 | 1221 | 100.0 | Belarusian Latin <be-latin.open-tran.eu> | 
+ | [gtk2-engines](/f10/package/gtk2-engines) | 99 | 99 | 100.0 | Belarusian Latin <be-latin.open-tran.eu> | 
+ | [gvfs](/f10/package/gvfs) | 1269 | 1269 | 100.0 | Belarusian Latin <i18n@mova.org> | 
+ | [libgnomekbd](/f10/package/libgnomekbd) | 277 | 277 | 100.0 | Belarusian Latin <i18n@mova.org> | 
+ | [libgnomeprint22](/f10/package/libgnomeprint22) | 168 | 168 | 100.0 | Belarusian Latin <be-latin.open-tran.eu> | 
+ | [libgnomeprintui22](/f10/package/libgnomeprintui22) | 481 | 481 | 100.0 | Belarusian Latin <be-latin.open-tran.eu> | 
+ | [libgnomeui](/f10/package/libgnomeui) | 1309 | 1309 | 100.0 | Belarusian Latin <i18n@mova.org> | 
+ | [libgweather](/f10/package/libgweather) | 6734 | 6734 | 100.0 | i18n@mova.org <i18n@mova.org> | 
+ | [libwnck](/f10/package/libwnck) | 1124 | 1124 | 100.0 | Belarusian Latin <i18n@mova.org> | 
+ | [liferea](/f10/package/liferea) | 2494 | 2494 | 100.0 | Belarusian Latin | 
+ | [lxmenu-data](/f10/package/lxmenu-data) | 97 | 97 | 100.0 | Belarusian Latin <i18n@mova.org> | 
+ | [metacity](/f10/package/metacity) | 7924 | 7924 | 100.0 | i18n@mova.org <i18n@mova.org> | 
+ | [nautilus](/f10/package/nautilus) | 7562 | 7562 | 100.0 | i18n@mova.org <i18n@mova.org> | 
+ | [nautilus-cd-burner](/f10/package/nautilus-cd-burner) | 1315 | 1315 | 100.0 | Belarusian Latin <i18n@mova.org> | 
+ | [nautilus-open-terminal](/f10/package/nautilus-open-terminal) | 82 | 82 | 100.0 | Belarusian Latin <i18n@mova.org> | 
+ | [nautilus-sendto](/f10/package/nautilus-sendto) | 290 | 290 | 100.0 | Belarusian Latin <i18n@mova.org> | 
+ | [pessulus](/f10/package/pessulus) | 88 | 88 | 100.0 | i18n@mova.org <i18n@mova.org> | 
+ | [rhythmbox](/f10/package/rhythmbox) | 4019 | 4019 | 100.0 | Belarusian Latin <i18n@mova.org> | 
+ | [sabayon](/f10/package/sabayon) | 1178 | 1178 | 100.0 | i18n@mova.org <i18n@mova.org> | 
+ | [seahorse](/f10/package/seahorse) | 3645 | 3645 | 100.0 | Belarusian Latin <be-latin.open-tran.eu> | 
+ | [seahorse-plugins](/f10/package/seahorse-plugins) | 3645 | 3645 | 100.0 | Belarusian Latin <be-latin.open-tran.eu> | 
+ | [shared-mime-info](/f10/package/shared-mime-info) | 1388 | 1388 | 100.0 | Belarusian (Latin script) <translation-team-be-latin@lists.sourceforge.net> | 
+ | [snownews](/f10/package/snownews) | 791 | 791 | 100.0 |  | 
+ | [sound-juicer](/f10/package/sound-juicer) | 934 | 934 | 100.0 | Belarusian Latin <be-latin.open-tran.eu> | 
+ | [swfdec-gnome](/f10/package/swfdec-gnome) | 101 | 101 | 100.0 | Belarusian <i18n@mova.org> | 
+ | [tomboy](/f10/package/tomboy) | 2559 | 2559 | 100.0 | Belarusian Latin <be-latin.open-tran.eu> | 
+ | [totem](/f10/package/totem) | 2218 | 2218 | 100.0 | Belarusian Latin <i18n@mova.org> | 
+ | [totem-pl-parser](/f10/package/totem-pl-parser) | 1910 | 1910 | 100.0 | Belarusian Latin <i18n@mova.org> | 
+ | [vte](/f10/package/vte) | 116 | 116 | 100.0 | Belarusian Latin <i18n@mova.org> | 
+ | [xdg-user-dirs](/f10/package/xdg-user-dirs) | 26 | 26 | 100.0 | Belarusian Latin <i18n@mova.org> | 
+ | [xdg-user-dirs-gtk](/f10/package/xdg-user-dirs-gtk) | 81 | 81 | 100.0 | Belarusian Latin <i18n@mova.org> | 
+ | [zenity](/f10/package/zenity) | 582 | 582 | 100.0 | Belarusian Latin <i18n@mova.org> | 
+ | [yelp](/f10/package/yelp) | 1032 | 1035 | 99.7 | Belarusian Latin <be-latin.open-tran.eu> | 
+ | [control-center](/f10/package/control-center) | 2846 | 2858 | 99.6 | Polish <pl@li.org> | 
+ | [mingw32-atk](/f10/package/mingw32-atk) | 370 | 375 | 98.7 | i18n@mova.org <i18n@mova.org> | 
+ | [evolution](/f10/package/evolution) | 20488 | 20811 | 98.4 | Belarusian Latin <i18n@mova.org> | 
+ | [NetworkManager](/f10/package/NetworkManager) | 1446 | 1471 | 98.3 | Belarusian Latin <i18n@mova.org> | 
+ | [anjuta](/f10/package/anjuta) | 6575 | 6764 | 97.2 | Belarusian <i18n@mova.org> | 
+ | [banshee](/f10/package/banshee) | 2035 | 2100 | 96.9 | Belarusian <i18n@mova.org> | 
+ | [gtk2](/f10/package/gtk2) | 12295 | 12760 | 96.4 | Belarusian Latin <i18n@mova.org> | 
+ | [glib2](/f10/package/glib2) | 2102 | 2197 | 95.7 | Belarusian Latin <i18n@mova.org> | 
+ | [tracker](/f10/package/tracker) | 1153 | 1212 | 95.1 | Belarusian Latin <i18n@mova.org> | 
+ | [poedit](/f10/package/poedit) | 1103 | 1162 | 94.9 | Polish <private> | 
+ | [mingw32-gtk2](/f10/package/mingw32-gtk2) | 11289 | 12400 | 91.0 | Belarusian Latin <i18n@mova.org> | 
+ | [mingw32-glib2](/f10/package/mingw32-glib2) | 2102 | 2325 | 90.4 | Belarusian Latin <i18n@mova.org> | 
+ | [asunder](/f10/package/asunder) | 355 | 420 | 84.5 | i18n@mova.org <i18n@mova.org> | 
+ | [gnome-power-manager](/f10/package/gnome-power-manager) | 2709 | 3326 | 81.4 | Belarusian Latin <i18n@mova.org> | 
+ | [vinagre](/f10/package/vinagre) | 592 | 728 | 81.3 | Belarusian <i18n@mova.org> | 
+ | [sonata](/f10/package/sonata) | 900 | 1136 | 79.2 | Belarusian (Latin script) <translation-team-be-latin@lists.sourceforge.net> | 
+ | [pidgin](/f10/package/pidgin) | 13898 | 17989 | 77.3 | Belarusian Latin <be-latin.open-tran.eu> | 
+ | [gnome-session](/f10/package/gnome-session) | 533 | 714 | 74.6 | Belarusian Latin <be-latin.open-tran.eu> | 
+ | [isomaster](/f10/package/isomaster) | 495 | 672 | 73.7 | i18n@mova.org <i18n@mova.org> | 
+ | [gucharmap](/f10/package/gucharmap) | 530 | 782 | 67.8 | Belarusian Latin <i18n@mova.org> | 
+ | [gajim](/f10/package/gajim) | 6176 | 10146 | 60.9 | Belarusian Latin <i18n@mova.org> | 
+ | [gnome-system-monitor](/f10/package/gnome-system-monitor) | 545 | 913 | 59.7 | Belarusian Latin <i18n@mova.org> | 
+ | [gcalctool](/f10/package/gcalctool) | 564 | 1175 | 48.0 | Belarusian Latin <i18n@mova.org> | 
+ | [vino](/f10/package/vino) | 474 | 1031 | 46.0 | Belarusian Latin <i18n@mova.org> | 
+ | [gnome-mag](/f10/package/gnome-mag) | 87 | 298 | 29.2 | Belarusian Latin <i18n@mova.org> | 
+ | [system-config-date-docs](/f10/package/system-config-date-docs) | 0 | 660 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [system-config-nfs](/f10/package/system-config-nfs) | 0 | 1185 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [system-config-users-docs](/f10/package/system-config-users-docs) | 0 | 1054 | 0.0 | LANGUAGE <LL@li.org> | 
 {.sortable}
 
 
@@ -146,7 +146,7 @@ We use the po metadata to get the language code and the team, but sometimes it f
 
 | Package | Lang from file path/name | polib error | Team |
 |---------|--------------------------|-------------|------|
- | [snownews]({{< ref "/f10/package/snownews.md" >}}) | /mnt/stockage/packages/f10/snownews/po/._be@latin.po | error-os |  | 
+ | [snownews](/f10/package/snownews) | /mnt/stockage/packages/f10/snownews/po/._be@latin.po | error-os |  | 
 {.sortable}
 
 
@@ -157,7 +157,7 @@ We use the calcstats from translate toolkit to get the translation progress, but
 
 | Package | Lang from file path/name | Team |
 |---------|--------------------------|------|
- | [snownews]({{< ref "/f10/package/snownews.md" >}}) | /mnt/stockage/packages/f10/snownews/po/._be@latin.po |  | 
+ | [snownews](/f10/package/snownews) | /mnt/stockage/packages/f10/snownews/po/._be@latin.po |  | 
 {.sortable}
 
 

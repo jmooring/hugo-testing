@@ -18,14 +18,14 @@ The package hunspell (version 1.7.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f31/language/ca.md" >}}) | 613 | 613 | 100.0 | /mnt/stockage/packages/f31/hunspell/po/ca.po | 
- | [de]({{< ref "/f31/language/de.md" >}}) | 613 | 613 | 100.0 | /mnt/stockage/packages/f31/hunspell/po/de.po | 
- | [es]({{< ref "/f31/language/es.md" >}}) | 613 | 613 | 100.0 | /mnt/stockage/packages/f31/hunspell/po/es.po | 
- | [pl]({{< ref "/f31/language/pl.md" >}}) | 613 | 613 | 100.0 | /mnt/stockage/packages/f31/hunspell/po/pl.po | 
- | [pt_BR]({{< ref "/f31/language/pt_BR.md" >}}) | 613 | 613 | 100.0 | /mnt/stockage/packages/f31/hunspell/po/pt_BR.po | 
- | [tg]({{< ref "/f31/language/tg.md" >}}) | 613 | 613 | 100.0 | /mnt/stockage/packages/f31/hunspell/po/tg.po | 
- | [hu]({{< ref "/f31/language/hu.md" >}}) | 598 | 613 | 97.6 | /mnt/stockage/packages/f31/hunspell/po/hu.po | 
- | [it]({{< ref "/f31/language/it.md" >}}) | 496 | 613 | 80.9 | /mnt/stockage/packages/f31/hunspell/po/it.po | 
+ | [ca](/f31/language/ca) | 613 | 613 | 100.0 | /mnt/stockage/packages/f31/hunspell/po/ca.po | 
+ | [de](/f31/language/de) | 613 | 613 | 100.0 | /mnt/stockage/packages/f31/hunspell/po/de.po | 
+ | [es](/f31/language/es) | 613 | 613 | 100.0 | /mnt/stockage/packages/f31/hunspell/po/es.po | 
+ | [pl](/f31/language/pl) | 613 | 613 | 100.0 | /mnt/stockage/packages/f31/hunspell/po/pl.po | 
+ | [pt_BR](/f31/language/pt_BR) | 613 | 613 | 100.0 | /mnt/stockage/packages/f31/hunspell/po/pt_BR.po | 
+ | [tg](/f31/language/tg) | 613 | 613 | 100.0 | /mnt/stockage/packages/f31/hunspell/po/tg.po | 
+ | [hu](/f31/language/hu) | 598 | 613 | 97.6 | /mnt/stockage/packages/f31/hunspell/po/hu.po | 
+ | [it](/f31/language/it) | 496 | 613 | 80.9 | /mnt/stockage/packages/f31/hunspell/po/it.po | 
 {.sortable}
 
 

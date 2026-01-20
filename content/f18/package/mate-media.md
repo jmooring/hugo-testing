@@ -18,93 +18,93 @@ The package mate-media (version 1.6.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f18/language/ar.md" >}}) | 920 | 920 | 100.0 | /mnt/stockage/packages/f18/mate-media/po/ar.po | 
- | [bg]({{< ref "/f18/language/bg.md" >}}) | 920 | 920 | 100.0 | /mnt/stockage/packages/f18/mate-media/po/bg.po | 
- | [ca]({{< ref "/f18/language/ca.md" >}}) | 2867 | 2867 | 100.0 | /mnt/stockage/packages/f18/mate-media/gst-mixer-applet/docs/ca/ca.po/mnt/stockage/packages/f18/mate-media/gst-mixer/doc/ca/ca.po/mnt/stockage/packages/f18/mate-media/po/ca.po | 
- | [cs]({{< ref "/f18/language/cs.md" >}}) | 2867 | 2867 | 100.0 | /mnt/stockage/packages/f18/mate-media/gst-mixer-applet/docs/cs/cs.po/mnt/stockage/packages/f18/mate-media/gst-mixer/doc/cs/cs.po/mnt/stockage/packages/f18/mate-media/po/cs.po | 
- | [da]({{< ref "/f18/language/da.md" >}}) | 2865 | 2865 | 100.0 | /mnt/stockage/packages/f18/mate-media/gst-mixer-applet/docs/da/da.po/mnt/stockage/packages/f18/mate-media/gst-mixer/doc/da/da.po/mnt/stockage/packages/f18/mate-media/po/da.po | 
- | [de]({{< ref "/f18/language/de.md" >}}) | 2867 | 2867 | 100.0 | /mnt/stockage/packages/f18/mate-media/gst-mixer-applet/docs/de/de.po/mnt/stockage/packages/f18/mate-media/gst-mixer/doc/de/de.po/mnt/stockage/packages/f18/mate-media/po/de.po | 
- | [el]({{< ref "/f18/language/el.md" >}}) | 2867 | 2867 | 100.0 | /mnt/stockage/packages/f18/mate-media/gst-mixer-applet/docs/el/el.po/mnt/stockage/packages/f18/mate-media/gst-mixer/doc/el/el.po/mnt/stockage/packages/f18/mate-media/po/el.po | 
- | [en_GB]({{< ref "/f18/language/en_GB.md" >}}) | 2867 | 2867 | 100.0 | /mnt/stockage/packages/f18/mate-media/gst-mixer-applet/docs/en_GB/en_GB.po/mnt/stockage/packages/f18/mate-media/gst-mixer/doc/en_GB/en_GB.po/mnt/stockage/packages/f18/mate-media/po/en_GB.po | 
- | [error]({{< ref "/f18/language/error.md" >}}) | 744 | 744 | 100.0 | /mnt/stockage/packages/f18/mate-media/po/en@shaw.po | 
- | [es]({{< ref "/f18/language/es.md" >}}) | 2867 | 2867 | 100.0 | /mnt/stockage/packages/f18/mate-media/gst-mixer-applet/docs/es/es.po/mnt/stockage/packages/f18/mate-media/gst-mixer/doc/es/es.po/mnt/stockage/packages/f18/mate-media/po/es.po | 
- | [et]({{< ref "/f18/language/et.md" >}}) | 920 | 920 | 100.0 | /mnt/stockage/packages/f18/mate-media/po/et.po | 
- | [eu]({{< ref "/f18/language/eu.md" >}}) | 1754 | 1754 | 100.0 | /mnt/stockage/packages/f18/mate-media/gst-mixer-applet/docs/eu/eu.po/mnt/stockage/packages/f18/mate-media/po/eu.po | 
- | [fr]({{< ref "/f18/language/fr.md" >}}) | 2867 | 2867 | 100.0 | /mnt/stockage/packages/f18/mate-media/gst-mixer-applet/docs/fr/fr.po/mnt/stockage/packages/f18/mate-media/gst-mixer/doc/fr/fr.po/mnt/stockage/packages/f18/mate-media/po/fr.po | 
- | [gl]({{< ref "/f18/language/gl.md" >}}) | 920 | 920 | 100.0 | /mnt/stockage/packages/f18/mate-media/po/gl.po | 
- | [he]({{< ref "/f18/language/he.md" >}}) | 920 | 920 | 100.0 | /mnt/stockage/packages/f18/mate-media/po/he.po | 
- | [hu]({{< ref "/f18/language/hu.md" >}}) | 1754 | 1754 | 100.0 | /mnt/stockage/packages/f18/mate-media/gst-mixer-applet/docs/hu/hu.po/mnt/stockage/packages/f18/mate-media/po/hu.po | 
- | [id]({{< ref "/f18/language/id.md" >}}) | 920 | 920 | 100.0 | /mnt/stockage/packages/f18/mate-media/po/id.po | 
- | [it]({{< ref "/f18/language/it.md" >}}) | 2867 | 2867 | 100.0 | /mnt/stockage/packages/f18/mate-media/gst-mixer-applet/docs/it/it.po/mnt/stockage/packages/f18/mate-media/gst-mixer/doc/it/it.po/mnt/stockage/packages/f18/mate-media/po/it.po | 
- | [ja]({{< ref "/f18/language/ja.md" >}}) | 920 | 920 | 100.0 | /mnt/stockage/packages/f18/mate-media/po/ja.po | 
- | [ko]({{< ref "/f18/language/ko.md" >}}) | 1754 | 1754 | 100.0 | /mnt/stockage/packages/f18/mate-media/gst-mixer-applet/docs/ko/ko.po/mnt/stockage/packages/f18/mate-media/po/ko.po | 
- | [lt]({{< ref "/f18/language/lt.md" >}}) | 920 | 920 | 100.0 | /mnt/stockage/packages/f18/mate-media/po/lt.po | 
- | [nb_NO]({{< ref "/f18/language/nb_NO.md" >}}) | 920 | 920 | 100.0 | /mnt/stockage/packages/f18/mate-media/po/nb.po | 
- | [nl]({{< ref "/f18/language/nl.md" >}}) | 920 | 920 | 100.0 | /mnt/stockage/packages/f18/mate-media/po/nl.po | 
- | [pl]({{< ref "/f18/language/pl.md" >}}) | 920 | 920 | 100.0 | /mnt/stockage/packages/f18/mate-media/po/pl.po | 
- | [pt]({{< ref "/f18/language/pt.md" >}}) | 920 | 920 | 100.0 | /mnt/stockage/packages/f18/mate-media/po/pt.po | 
- | [pt_BR]({{< ref "/f18/language/pt_BR.md" >}}) | 1754 | 1754 | 100.0 | /mnt/stockage/packages/f18/mate-media/gst-mixer-applet/docs/pt_BR/pt_BR.po/mnt/stockage/packages/f18/mate-media/po/pt_BR.po | 
- | [ro]({{< ref "/f18/language/ro.md" >}}) | 920 | 920 | 100.0 | /mnt/stockage/packages/f18/mate-media/po/ro.po | 
- | [ru]({{< ref "/f18/language/ru.md" >}}) | 2865 | 2865 | 100.0 | /mnt/stockage/packages/f18/mate-media/gst-mixer-applet/docs/ru/ru.po/mnt/stockage/packages/f18/mate-media/gst-mixer/doc/ru/ru.po/mnt/stockage/packages/f18/mate-media/po/ru.po | 
- | [sl]({{< ref "/f18/language/sl.md" >}}) | 920 | 920 | 100.0 | /mnt/stockage/packages/f18/mate-media/po/sl.po | 
- | [sv]({{< ref "/f18/language/sv.md" >}}) | 2867 | 2867 | 100.0 | /mnt/stockage/packages/f18/mate-media/gst-mixer-applet/docs/sv/sv.po/mnt/stockage/packages/f18/mate-media/gst-mixer/doc/sv/sv.po/mnt/stockage/packages/f18/mate-media/po/sv.po | 
- | [tr]({{< ref "/f18/language/tr.md" >}}) | 920 | 920 | 100.0 | /mnt/stockage/packages/f18/mate-media/po/tr.po | 
- | [ug]({{< ref "/f18/language/ug.md" >}}) | 920 | 920 | 100.0 | /mnt/stockage/packages/f18/mate-media/po/ug.po | 
- | [zh_Hans]({{< ref "/f18/language/zh_Hans.md" >}}) | 2867 | 2867 | 100.0 | /mnt/stockage/packages/f18/mate-media/gst-mixer-applet/docs/zh_CN/zh_CN.po/mnt/stockage/packages/f18/mate-media/gst-mixer/doc/zh_CN/zh_CN.po/mnt/stockage/packages/f18/mate-media/po/zh_CN.po | 
- | [sr]({{< ref "/f18/language/sr.md" >}}) | 905 | 920 | 98.4 | /mnt/stockage/packages/f18/mate-media/po/sr.po | 
- | [sr_Latn]({{< ref "/f18/language/sr_Latn.md" >}}) | 905 | 920 | 98.4 | /mnt/stockage/packages/f18/mate-media/po/sr@latin.po | 
- | [zh_Hant]({{< ref "/f18/language/zh_Hant.md" >}}) | 905 | 920 | 98.4 | /mnt/stockage/packages/f18/mate-media/po/zh_TW.po | 
- | [zh_Hant_HK]({{< ref "/f18/language/zh_Hant_HK.md" >}}) | 905 | 920 | 98.4 | /mnt/stockage/packages/f18/mate-media/po/zh_HK.po | 
- | [be_Latn]({{< ref "/f18/language/be_Latn.md" >}}) | 2106 | 2149 | 98.0 | /mnt/stockage/packages/f18/mate-media/po/be@latin.po | 
- | [fi]({{< ref "/f18/language/fi.md" >}}) | 1665 | 1754 | 94.9 | /mnt/stockage/packages/f18/mate-media/gst-mixer-applet/docs/fi/fi.po/mnt/stockage/packages/f18/mate-media/po/fi.po | 
- | [uk]({{< ref "/f18/language/uk.md" >}}) | 1641 | 1754 | 93.6 | /mnt/stockage/packages/f18/mate-media/gst-mixer-applet/docs/uk/uk.po/mnt/stockage/packages/f18/mate-media/po/uk.po | 
- | [bn]({{< ref "/f18/language/bn.md" >}}) | 831 | 920 | 90.3 | /mnt/stockage/packages/f18/mate-media/po/bn.po | 
- | [bn_IN]({{< ref "/f18/language/bn_IN.md" >}}) | 831 | 920 | 90.3 | /mnt/stockage/packages/f18/mate-media/po/bn_IN.po | 
- | [ca@valencia]({{< ref "/f18/language/ca@valencia.md" >}}) | 831 | 920 | 90.3 | /mnt/stockage/packages/f18/mate-media/po/ca@valencia.po | 
- | [lv]({{< ref "/f18/language/lv.md" >}}) | 831 | 920 | 90.3 | /mnt/stockage/packages/f18/mate-media/po/lv.po | 
- | [mr]({{< ref "/f18/language/mr.md" >}}) | 831 | 920 | 90.3 | /mnt/stockage/packages/f18/mate-media/po/mr.po | 
- | [or]({{< ref "/f18/language/or.md" >}}) | 831 | 920 | 90.3 | /mnt/stockage/packages/f18/mate-media/po/or.po | 
- | [ta]({{< ref "/f18/language/ta.md" >}}) | 831 | 920 | 90.3 | /mnt/stockage/packages/f18/mate-media/po/ta.po | 
- | [te]({{< ref "/f18/language/te.md" >}}) | 831 | 920 | 90.3 | /mnt/stockage/packages/f18/mate-media/po/te.po | 
- | [th]({{< ref "/f18/language/th.md" >}}) | 831 | 920 | 90.3 | /mnt/stockage/packages/f18/mate-media/po/th.po | 
- | [ml]({{< ref "/f18/language/ml.md" >}}) | 817 | 920 | 88.8 | /mnt/stockage/packages/f18/mate-media/po/ml.po | 
- | [kn]({{< ref "/f18/language/kn.md" >}}) | 816 | 920 | 88.7 | /mnt/stockage/packages/f18/mate-media/po/kn.po | 
- | [as]({{< ref "/f18/language/as.md" >}}) | 811 | 920 | 88.2 | /mnt/stockage/packages/f18/mate-media/po/as.po | 
- | [ast]({{< ref "/f18/language/ast.md" >}}) | 811 | 920 | 88.2 | /mnt/stockage/packages/f18/mate-media/po/ast.po | 
- | [gu]({{< ref "/f18/language/gu.md" >}}) | 811 | 920 | 88.2 | /mnt/stockage/packages/f18/mate-media/po/gu.po | 
- | [hi]({{< ref "/f18/language/hi.md" >}}) | 811 | 920 | 88.2 | /mnt/stockage/packages/f18/mate-media/po/hi.po | 
- | [pa]({{< ref "/f18/language/pa.md" >}}) | 1523 | 1754 | 86.8 | /mnt/stockage/packages/f18/mate-media/gst-mixer-applet/docs/pa/pa.po/mnt/stockage/packages/f18/mate-media/po/pa.po | 
- | [nn]({{< ref "/f18/language/nn.md" >}}) | 782 | 920 | 85.0 | /mnt/stockage/packages/f18/mate-media/po/nn.po | 
- | [vi]({{< ref "/f18/language/vi.md" >}}) | 739 | 920 | 80.3 | /mnt/stockage/packages/f18/mate-media/po/vi.po | 
- | [sq]({{< ref "/f18/language/sq.md" >}}) | 569 | 920 | 61.8 | /mnt/stockage/packages/f18/mate-media/po/sq.po | 
- | [ne]({{< ref "/f18/language/ne.md" >}}) | 565 | 920 | 61.4 | /mnt/stockage/packages/f18/mate-media/po/ne.po | 
- | [sk]({{< ref "/f18/language/sk.md" >}}) | 565 | 920 | 61.4 | /mnt/stockage/packages/f18/mate-media/po/sk.po | 
- | [mk]({{< ref "/f18/language/mk.md" >}}) | 562 | 920 | 61.1 | /mnt/stockage/packages/f18/mate-media/po/mk.po | 
- | [be]({{< ref "/f18/language/be.md" >}}) | 558 | 920 | 60.7 | /mnt/stockage/packages/f18/mate-media/po/be.po | 
- | [dz]({{< ref "/f18/language/dz.md" >}}) | 558 | 920 | 60.7 | /mnt/stockage/packages/f18/mate-media/po/dz.po | 
- | [mai]({{< ref "/f18/language/mai.md" >}}) | 478 | 920 | 52.0 | /mnt/stockage/packages/f18/mate-media/po/mai.po | 
- | [af]({{< ref "/f18/language/af.md" >}}) | 454 | 920 | 49.3 | /mnt/stockage/packages/f18/mate-media/po/af.po | 
- | [en_CA]({{< ref "/f18/language/en_CA.md" >}}) | 417 | 920 | 45.3 | /mnt/stockage/packages/f18/mate-media/po/en_CA.po | 
- | [mn]({{< ref "/f18/language/mn.md" >}}) | 417 | 920 | 45.3 | /mnt/stockage/packages/f18/mate-media/po/mn.po | 
- | [mg]({{< ref "/f18/language/mg.md" >}}) | 416 | 920 | 45.2 | /mnt/stockage/packages/f18/mate-media/po/mg.po | 
- | [hr]({{< ref "/f18/language/hr.md" >}}) | 415 | 920 | 45.1 | /mnt/stockage/packages/f18/mate-media/po/hr.po | 
- | [cy]({{< ref "/f18/language/cy.md" >}}) | 410 | 920 | 44.6 | /mnt/stockage/packages/f18/mate-media/po/cy.po | 
- | [xh]({{< ref "/f18/language/xh.md" >}}) | 339 | 920 | 36.8 | /mnt/stockage/packages/f18/mate-media/po/xh.po | 
- | [fa]({{< ref "/f18/language/fa.md" >}}) | 314 | 920 | 34.1 | /mnt/stockage/packages/f18/mate-media/po/fa.po | 
- | [nds]({{< ref "/f18/language/nds.md" >}}) | 302 | 920 | 32.8 | /mnt/stockage/packages/f18/mate-media/po/nds.po | 
- | [br]({{< ref "/f18/language/br.md" >}}) | 300 | 920 | 32.6 | /mnt/stockage/packages/f18/mate-media/po/br.po | 
- | [ms]({{< ref "/f18/language/ms.md" >}}) | 267 | 920 | 29.0 | /mnt/stockage/packages/f18/mate-media/po/ms.po | 
- | [bs]({{< ref "/f18/language/bs.md" >}}) | 266 | 920 | 28.9 | /mnt/stockage/packages/f18/mate-media/po/bs.po | 
- | [az]({{< ref "/f18/language/az.md" >}}) | 259 | 920 | 28.2 | /mnt/stockage/packages/f18/mate-media/po/az.po | 
- | [tk]({{< ref "/f18/language/tk.md" >}}) | 470 | 1795 | 26.2 | /mnt/stockage/packages/f18/mate-media/po/tk.po | 
- | [ku]({{< ref "/f18/language/ku.md" >}}) | 228 | 920 | 24.8 | /mnt/stockage/packages/f18/mate-media/po/ku.po | 
- | [ga]({{< ref "/f18/language/ga.md" >}}) | 221 | 920 | 24.0 | /mnt/stockage/packages/f18/mate-media/po/ga.po | 
- | [am]({{< ref "/f18/language/am.md" >}}) | 354 | 1795 | 19.7 | /mnt/stockage/packages/f18/mate-media/po/am.po | 
- | [wa]({{< ref "/f18/language/wa.md" >}}) | 132 | 920 | 14.3 | /mnt/stockage/packages/f18/mate-media/po/wa.po | 
- | [si]({{< ref "/f18/language/si.md" >}}) | 87 | 920 | 9.5 | /mnt/stockage/packages/f18/mate-media/po/si.po | 
- | [oc]({{< ref "/f18/language/oc.md" >}}) | 206 | 2867 | 7.2 | /mnt/stockage/packages/f18/mate-media/gst-mixer-applet/docs/oc/oc.po/mnt/stockage/packages/f18/mate-media/gst-mixer/doc/oc/oc.po/mnt/stockage/packages/f18/mate-media/po/oc.po | 
- | [ka]({{< ref "/f18/language/ka.md" >}}) | 46 | 920 | 5.0 | /mnt/stockage/packages/f18/mate-media/po/ka.po | 
- | [rw]({{< ref "/f18/language/rw.md" >}}) | 50 | 1795 | 2.8 | /mnt/stockage/packages/f18/mate-media/po/rw.po | 
+ | [ar](/f18/language/ar) | 920 | 920 | 100.0 | /mnt/stockage/packages/f18/mate-media/po/ar.po | 
+ | [bg](/f18/language/bg) | 920 | 920 | 100.0 | /mnt/stockage/packages/f18/mate-media/po/bg.po | 
+ | [ca](/f18/language/ca) | 2867 | 2867 | 100.0 | /mnt/stockage/packages/f18/mate-media/gst-mixer-applet/docs/ca/ca.po/mnt/stockage/packages/f18/mate-media/gst-mixer/doc/ca/ca.po/mnt/stockage/packages/f18/mate-media/po/ca.po | 
+ | [cs](/f18/language/cs) | 2867 | 2867 | 100.0 | /mnt/stockage/packages/f18/mate-media/gst-mixer-applet/docs/cs/cs.po/mnt/stockage/packages/f18/mate-media/gst-mixer/doc/cs/cs.po/mnt/stockage/packages/f18/mate-media/po/cs.po | 
+ | [da](/f18/language/da) | 2865 | 2865 | 100.0 | /mnt/stockage/packages/f18/mate-media/gst-mixer-applet/docs/da/da.po/mnt/stockage/packages/f18/mate-media/gst-mixer/doc/da/da.po/mnt/stockage/packages/f18/mate-media/po/da.po | 
+ | [de](/f18/language/de) | 2867 | 2867 | 100.0 | /mnt/stockage/packages/f18/mate-media/gst-mixer-applet/docs/de/de.po/mnt/stockage/packages/f18/mate-media/gst-mixer/doc/de/de.po/mnt/stockage/packages/f18/mate-media/po/de.po | 
+ | [el](/f18/language/el) | 2867 | 2867 | 100.0 | /mnt/stockage/packages/f18/mate-media/gst-mixer-applet/docs/el/el.po/mnt/stockage/packages/f18/mate-media/gst-mixer/doc/el/el.po/mnt/stockage/packages/f18/mate-media/po/el.po | 
+ | [en_GB](/f18/language/en_GB) | 2867 | 2867 | 100.0 | /mnt/stockage/packages/f18/mate-media/gst-mixer-applet/docs/en_GB/en_GB.po/mnt/stockage/packages/f18/mate-media/gst-mixer/doc/en_GB/en_GB.po/mnt/stockage/packages/f18/mate-media/po/en_GB.po | 
+ | [error](/f18/language/error) | 744 | 744 | 100.0 | /mnt/stockage/packages/f18/mate-media/po/en@shaw.po | 
+ | [es](/f18/language/es) | 2867 | 2867 | 100.0 | /mnt/stockage/packages/f18/mate-media/gst-mixer-applet/docs/es/es.po/mnt/stockage/packages/f18/mate-media/gst-mixer/doc/es/es.po/mnt/stockage/packages/f18/mate-media/po/es.po | 
+ | [et](/f18/language/et) | 920 | 920 | 100.0 | /mnt/stockage/packages/f18/mate-media/po/et.po | 
+ | [eu](/f18/language/eu) | 1754 | 1754 | 100.0 | /mnt/stockage/packages/f18/mate-media/gst-mixer-applet/docs/eu/eu.po/mnt/stockage/packages/f18/mate-media/po/eu.po | 
+ | [fr](/f18/language/fr) | 2867 | 2867 | 100.0 | /mnt/stockage/packages/f18/mate-media/gst-mixer-applet/docs/fr/fr.po/mnt/stockage/packages/f18/mate-media/gst-mixer/doc/fr/fr.po/mnt/stockage/packages/f18/mate-media/po/fr.po | 
+ | [gl](/f18/language/gl) | 920 | 920 | 100.0 | /mnt/stockage/packages/f18/mate-media/po/gl.po | 
+ | [he](/f18/language/he) | 920 | 920 | 100.0 | /mnt/stockage/packages/f18/mate-media/po/he.po | 
+ | [hu](/f18/language/hu) | 1754 | 1754 | 100.0 | /mnt/stockage/packages/f18/mate-media/gst-mixer-applet/docs/hu/hu.po/mnt/stockage/packages/f18/mate-media/po/hu.po | 
+ | [id](/f18/language/id) | 920 | 920 | 100.0 | /mnt/stockage/packages/f18/mate-media/po/id.po | 
+ | [it](/f18/language/it) | 2867 | 2867 | 100.0 | /mnt/stockage/packages/f18/mate-media/gst-mixer-applet/docs/it/it.po/mnt/stockage/packages/f18/mate-media/gst-mixer/doc/it/it.po/mnt/stockage/packages/f18/mate-media/po/it.po | 
+ | [ja](/f18/language/ja) | 920 | 920 | 100.0 | /mnt/stockage/packages/f18/mate-media/po/ja.po | 
+ | [ko](/f18/language/ko) | 1754 | 1754 | 100.0 | /mnt/stockage/packages/f18/mate-media/gst-mixer-applet/docs/ko/ko.po/mnt/stockage/packages/f18/mate-media/po/ko.po | 
+ | [lt](/f18/language/lt) | 920 | 920 | 100.0 | /mnt/stockage/packages/f18/mate-media/po/lt.po | 
+ | [nb_NO](/f18/language/nb_NO) | 920 | 920 | 100.0 | /mnt/stockage/packages/f18/mate-media/po/nb.po | 
+ | [nl](/f18/language/nl) | 920 | 920 | 100.0 | /mnt/stockage/packages/f18/mate-media/po/nl.po | 
+ | [pl](/f18/language/pl) | 920 | 920 | 100.0 | /mnt/stockage/packages/f18/mate-media/po/pl.po | 
+ | [pt](/f18/language/pt) | 920 | 920 | 100.0 | /mnt/stockage/packages/f18/mate-media/po/pt.po | 
+ | [pt_BR](/f18/language/pt_BR) | 1754 | 1754 | 100.0 | /mnt/stockage/packages/f18/mate-media/gst-mixer-applet/docs/pt_BR/pt_BR.po/mnt/stockage/packages/f18/mate-media/po/pt_BR.po | 
+ | [ro](/f18/language/ro) | 920 | 920 | 100.0 | /mnt/stockage/packages/f18/mate-media/po/ro.po | 
+ | [ru](/f18/language/ru) | 2865 | 2865 | 100.0 | /mnt/stockage/packages/f18/mate-media/gst-mixer-applet/docs/ru/ru.po/mnt/stockage/packages/f18/mate-media/gst-mixer/doc/ru/ru.po/mnt/stockage/packages/f18/mate-media/po/ru.po | 
+ | [sl](/f18/language/sl) | 920 | 920 | 100.0 | /mnt/stockage/packages/f18/mate-media/po/sl.po | 
+ | [sv](/f18/language/sv) | 2867 | 2867 | 100.0 | /mnt/stockage/packages/f18/mate-media/gst-mixer-applet/docs/sv/sv.po/mnt/stockage/packages/f18/mate-media/gst-mixer/doc/sv/sv.po/mnt/stockage/packages/f18/mate-media/po/sv.po | 
+ | [tr](/f18/language/tr) | 920 | 920 | 100.0 | /mnt/stockage/packages/f18/mate-media/po/tr.po | 
+ | [ug](/f18/language/ug) | 920 | 920 | 100.0 | /mnt/stockage/packages/f18/mate-media/po/ug.po | 
+ | [zh_Hans](/f18/language/zh_Hans) | 2867 | 2867 | 100.0 | /mnt/stockage/packages/f18/mate-media/gst-mixer-applet/docs/zh_CN/zh_CN.po/mnt/stockage/packages/f18/mate-media/gst-mixer/doc/zh_CN/zh_CN.po/mnt/stockage/packages/f18/mate-media/po/zh_CN.po | 
+ | [sr](/f18/language/sr) | 905 | 920 | 98.4 | /mnt/stockage/packages/f18/mate-media/po/sr.po | 
+ | [sr_Latn](/f18/language/sr_Latn) | 905 | 920 | 98.4 | /mnt/stockage/packages/f18/mate-media/po/sr@latin.po | 
+ | [zh_Hant](/f18/language/zh_Hant) | 905 | 920 | 98.4 | /mnt/stockage/packages/f18/mate-media/po/zh_TW.po | 
+ | [zh_Hant_HK](/f18/language/zh_Hant_HK) | 905 | 920 | 98.4 | /mnt/stockage/packages/f18/mate-media/po/zh_HK.po | 
+ | [be_Latn](/f18/language/be_Latn) | 2106 | 2149 | 98.0 | /mnt/stockage/packages/f18/mate-media/po/be@latin.po | 
+ | [fi](/f18/language/fi) | 1665 | 1754 | 94.9 | /mnt/stockage/packages/f18/mate-media/gst-mixer-applet/docs/fi/fi.po/mnt/stockage/packages/f18/mate-media/po/fi.po | 
+ | [uk](/f18/language/uk) | 1641 | 1754 | 93.6 | /mnt/stockage/packages/f18/mate-media/gst-mixer-applet/docs/uk/uk.po/mnt/stockage/packages/f18/mate-media/po/uk.po | 
+ | [bn](/f18/language/bn) | 831 | 920 | 90.3 | /mnt/stockage/packages/f18/mate-media/po/bn.po | 
+ | [bn_IN](/f18/language/bn_IN) | 831 | 920 | 90.3 | /mnt/stockage/packages/f18/mate-media/po/bn_IN.po | 
+ | [ca@valencia](/f18/language/ca@valencia) | 831 | 920 | 90.3 | /mnt/stockage/packages/f18/mate-media/po/ca@valencia.po | 
+ | [lv](/f18/language/lv) | 831 | 920 | 90.3 | /mnt/stockage/packages/f18/mate-media/po/lv.po | 
+ | [mr](/f18/language/mr) | 831 | 920 | 90.3 | /mnt/stockage/packages/f18/mate-media/po/mr.po | 
+ | [or](/f18/language/or) | 831 | 920 | 90.3 | /mnt/stockage/packages/f18/mate-media/po/or.po | 
+ | [ta](/f18/language/ta) | 831 | 920 | 90.3 | /mnt/stockage/packages/f18/mate-media/po/ta.po | 
+ | [te](/f18/language/te) | 831 | 920 | 90.3 | /mnt/stockage/packages/f18/mate-media/po/te.po | 
+ | [th](/f18/language/th) | 831 | 920 | 90.3 | /mnt/stockage/packages/f18/mate-media/po/th.po | 
+ | [ml](/f18/language/ml) | 817 | 920 | 88.8 | /mnt/stockage/packages/f18/mate-media/po/ml.po | 
+ | [kn](/f18/language/kn) | 816 | 920 | 88.7 | /mnt/stockage/packages/f18/mate-media/po/kn.po | 
+ | [as](/f18/language/as) | 811 | 920 | 88.2 | /mnt/stockage/packages/f18/mate-media/po/as.po | 
+ | [ast](/f18/language/ast) | 811 | 920 | 88.2 | /mnt/stockage/packages/f18/mate-media/po/ast.po | 
+ | [gu](/f18/language/gu) | 811 | 920 | 88.2 | /mnt/stockage/packages/f18/mate-media/po/gu.po | 
+ | [hi](/f18/language/hi) | 811 | 920 | 88.2 | /mnt/stockage/packages/f18/mate-media/po/hi.po | 
+ | [pa](/f18/language/pa) | 1523 | 1754 | 86.8 | /mnt/stockage/packages/f18/mate-media/gst-mixer-applet/docs/pa/pa.po/mnt/stockage/packages/f18/mate-media/po/pa.po | 
+ | [nn](/f18/language/nn) | 782 | 920 | 85.0 | /mnt/stockage/packages/f18/mate-media/po/nn.po | 
+ | [vi](/f18/language/vi) | 739 | 920 | 80.3 | /mnt/stockage/packages/f18/mate-media/po/vi.po | 
+ | [sq](/f18/language/sq) | 569 | 920 | 61.8 | /mnt/stockage/packages/f18/mate-media/po/sq.po | 
+ | [ne](/f18/language/ne) | 565 | 920 | 61.4 | /mnt/stockage/packages/f18/mate-media/po/ne.po | 
+ | [sk](/f18/language/sk) | 565 | 920 | 61.4 | /mnt/stockage/packages/f18/mate-media/po/sk.po | 
+ | [mk](/f18/language/mk) | 562 | 920 | 61.1 | /mnt/stockage/packages/f18/mate-media/po/mk.po | 
+ | [be](/f18/language/be) | 558 | 920 | 60.7 | /mnt/stockage/packages/f18/mate-media/po/be.po | 
+ | [dz](/f18/language/dz) | 558 | 920 | 60.7 | /mnt/stockage/packages/f18/mate-media/po/dz.po | 
+ | [mai](/f18/language/mai) | 478 | 920 | 52.0 | /mnt/stockage/packages/f18/mate-media/po/mai.po | 
+ | [af](/f18/language/af) | 454 | 920 | 49.3 | /mnt/stockage/packages/f18/mate-media/po/af.po | 
+ | [en_CA](/f18/language/en_CA) | 417 | 920 | 45.3 | /mnt/stockage/packages/f18/mate-media/po/en_CA.po | 
+ | [mn](/f18/language/mn) | 417 | 920 | 45.3 | /mnt/stockage/packages/f18/mate-media/po/mn.po | 
+ | [mg](/f18/language/mg) | 416 | 920 | 45.2 | /mnt/stockage/packages/f18/mate-media/po/mg.po | 
+ | [hr](/f18/language/hr) | 415 | 920 | 45.1 | /mnt/stockage/packages/f18/mate-media/po/hr.po | 
+ | [cy](/f18/language/cy) | 410 | 920 | 44.6 | /mnt/stockage/packages/f18/mate-media/po/cy.po | 
+ | [xh](/f18/language/xh) | 339 | 920 | 36.8 | /mnt/stockage/packages/f18/mate-media/po/xh.po | 
+ | [fa](/f18/language/fa) | 314 | 920 | 34.1 | /mnt/stockage/packages/f18/mate-media/po/fa.po | 
+ | [nds](/f18/language/nds) | 302 | 920 | 32.8 | /mnt/stockage/packages/f18/mate-media/po/nds.po | 
+ | [br](/f18/language/br) | 300 | 920 | 32.6 | /mnt/stockage/packages/f18/mate-media/po/br.po | 
+ | [ms](/f18/language/ms) | 267 | 920 | 29.0 | /mnt/stockage/packages/f18/mate-media/po/ms.po | 
+ | [bs](/f18/language/bs) | 266 | 920 | 28.9 | /mnt/stockage/packages/f18/mate-media/po/bs.po | 
+ | [az](/f18/language/az) | 259 | 920 | 28.2 | /mnt/stockage/packages/f18/mate-media/po/az.po | 
+ | [tk](/f18/language/tk) | 470 | 1795 | 26.2 | /mnt/stockage/packages/f18/mate-media/po/tk.po | 
+ | [ku](/f18/language/ku) | 228 | 920 | 24.8 | /mnt/stockage/packages/f18/mate-media/po/ku.po | 
+ | [ga](/f18/language/ga) | 221 | 920 | 24.0 | /mnt/stockage/packages/f18/mate-media/po/ga.po | 
+ | [am](/f18/language/am) | 354 | 1795 | 19.7 | /mnt/stockage/packages/f18/mate-media/po/am.po | 
+ | [wa](/f18/language/wa) | 132 | 920 | 14.3 | /mnt/stockage/packages/f18/mate-media/po/wa.po | 
+ | [si](/f18/language/si) | 87 | 920 | 9.5 | /mnt/stockage/packages/f18/mate-media/po/si.po | 
+ | [oc](/f18/language/oc) | 206 | 2867 | 7.2 | /mnt/stockage/packages/f18/mate-media/gst-mixer-applet/docs/oc/oc.po/mnt/stockage/packages/f18/mate-media/gst-mixer/doc/oc/oc.po/mnt/stockage/packages/f18/mate-media/po/oc.po | 
+ | [ka](/f18/language/ka) | 46 | 920 | 5.0 | /mnt/stockage/packages/f18/mate-media/po/ka.po | 
+ | [rw](/f18/language/rw) | 50 | 1795 | 2.8 | /mnt/stockage/packages/f18/mate-media/po/rw.po | 
 {.sortable}
 
 

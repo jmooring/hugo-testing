@@ -44,7 +44,7 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [gnome-do]({{< ref "/f43/package/gnome-do.md" >}}) | 87 | 612 | 14.2 | Tetum <tet@li.org> | 
+ | [gnome-do](/f43/package/gnome-do) | 87 | 612 | 14.2 | Tetum <tet@li.org> | 
 {.sortable}
 
 

@@ -18,7 +18,7 @@ The package gnome-gmail-notifier (version 0.10.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [es]({{< ref "/f14/language/es.md" >}}) | 137 | 137 | 100.0 | /mnt/stockage/packages/f14/gnome-gmail-notifier/po/es.po | 
+ | [es](/f14/language/es) | 137 | 137 | 100.0 | /mnt/stockage/packages/f14/gnome-gmail-notifier/po/es.po | 
 {.sortable}
 
 

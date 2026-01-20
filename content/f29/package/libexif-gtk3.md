@@ -18,11 +18,11 @@ The package libexif-gtk3 (version 0.4.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f29/language/de.md" >}}) | 259 | 259 | 100.0 | /mnt/stockage/packages/f29/libexif-gtk3/po/de.po | 
- | [es]({{< ref "/f29/language/es.md" >}}) | 259 | 259 | 100.0 | /mnt/stockage/packages/f29/libexif-gtk3/po/es.po | 
- | [fr]({{< ref "/f29/language/fr.md" >}}) | 259 | 259 | 100.0 | /mnt/stockage/packages/f29/libexif-gtk3/po/fr.po | 
- | [pl]({{< ref "/f29/language/pl.md" >}}) | 259 | 259 | 100.0 | /mnt/stockage/packages/f29/libexif-gtk3/po/pl.po | 
- | [ru]({{< ref "/f29/language/ru.md" >}}) | 116 | 259 | 44.8 | /mnt/stockage/packages/f29/libexif-gtk3/po/ru.po | 
+ | [de](/f29/language/de) | 259 | 259 | 100.0 | /mnt/stockage/packages/f29/libexif-gtk3/po/de.po | 
+ | [es](/f29/language/es) | 259 | 259 | 100.0 | /mnt/stockage/packages/f29/libexif-gtk3/po/es.po | 
+ | [fr](/f29/language/fr) | 259 | 259 | 100.0 | /mnt/stockage/packages/f29/libexif-gtk3/po/fr.po | 
+ | [pl](/f29/language/pl) | 259 | 259 | 100.0 | /mnt/stockage/packages/f29/libexif-gtk3/po/pl.po | 
+ | [ru](/f29/language/ru) | 116 | 259 | 44.8 | /mnt/stockage/packages/f29/libexif-gtk3/po/ru.po | 
 {.sortable}
 
 

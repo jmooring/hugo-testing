@@ -18,48 +18,48 @@ The package php-horde-Horde-Prefs (version 2.9.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [da]({{< ref "/f34/language/da.md" >}}) | 30 | 30 | 100.0 | /mnt/stockage/packages/f34/php-horde-Horde-Prefs/Horde_Prefs-2.9.0/locale/da/LC_MESSAGES/Horde_Prefs.po | 
- | [de]({{< ref "/f34/language/de.md" >}}) | 30 | 30 | 100.0 | /mnt/stockage/packages/f34/php-horde-Horde-Prefs/Horde_Prefs-2.9.0/locale/de/LC_MESSAGES/Horde_Prefs.po | 
- | [el]({{< ref "/f34/language/el.md" >}}) | 30 | 30 | 100.0 | /mnt/stockage/packages/f34/php-horde-Horde-Prefs/Horde_Prefs-2.9.0/locale/el/LC_MESSAGES/Horde_Prefs.po | 
- | [es]({{< ref "/f34/language/es.md" >}}) | 30 | 30 | 100.0 | /mnt/stockage/packages/f34/php-horde-Horde-Prefs/Horde_Prefs-2.9.0/locale/es/LC_MESSAGES/Horde_Prefs.po | 
- | [eu]({{< ref "/f34/language/eu.md" >}}) | 30 | 30 | 100.0 | /mnt/stockage/packages/f34/php-horde-Horde-Prefs/Horde_Prefs-2.9.0/locale/eu/LC_MESSAGES/Horde_Prefs.po | 
- | [fi]({{< ref "/f34/language/fi.md" >}}) | 30 | 30 | 100.0 | /mnt/stockage/packages/f34/php-horde-Horde-Prefs/Horde_Prefs-2.9.0/locale/fi/LC_MESSAGES/Horde_Prefs.po | 
- | [fr]({{< ref "/f34/language/fr.md" >}}) | 30 | 30 | 100.0 | /mnt/stockage/packages/f34/php-horde-Horde-Prefs/Horde_Prefs-2.9.0/locale/fr/LC_MESSAGES/Horde_Prefs.po | 
- | [hr]({{< ref "/f34/language/hr.md" >}}) | 23 | 23 | 100.0 | /mnt/stockage/packages/f34/php-horde-Horde-Prefs/Horde_Prefs-2.9.0/locale/hr/LC_MESSAGES/Horde_Prefs.po | 
- | [hu]({{< ref "/f34/language/hu.md" >}}) | 30 | 30 | 100.0 | /mnt/stockage/packages/f34/php-horde-Horde-Prefs/Horde_Prefs-2.9.0/locale/hu/LC_MESSAGES/Horde_Prefs.po | 
- | [it]({{< ref "/f34/language/it.md" >}}) | 32 | 32 | 100.0 | /mnt/stockage/packages/f34/php-horde-Horde-Prefs/Horde_Prefs-2.9.0/locale/it/LC_MESSAGES/Horde_Prefs.po | 
- | [ja]({{< ref "/f34/language/ja.md" >}}) | 30 | 30 | 100.0 | /mnt/stockage/packages/f34/php-horde-Horde-Prefs/Horde_Prefs-2.9.0/locale/ja/LC_MESSAGES/Horde_Prefs.po | 
- | [lt]({{< ref "/f34/language/lt.md" >}}) | 23 | 23 | 100.0 | /mnt/stockage/packages/f34/php-horde-Horde-Prefs/Horde_Prefs-2.9.0/locale/lt/LC_MESSAGES/Horde_Prefs.po | 
- | [lv]({{< ref "/f34/language/lv.md" >}}) | 22 | 22 | 100.0 | /mnt/stockage/packages/f34/php-horde-Horde-Prefs/Horde_Prefs-2.9.0/locale/lv/LC_MESSAGES/Horde_Prefs.po | 
- | [nl]({{< ref "/f34/language/nl.md" >}}) | 30 | 30 | 100.0 | /mnt/stockage/packages/f34/php-horde-Horde-Prefs/Horde_Prefs-2.9.0/locale/nl/LC_MESSAGES/Horde_Prefs.po | 
- | [pt_BR]({{< ref "/f34/language/pt_BR.md" >}}) | 30 | 30 | 100.0 | /mnt/stockage/packages/f34/php-horde-Horde-Prefs/Horde_Prefs-2.9.0/locale/pt_BR/LC_MESSAGES/Horde_Prefs.po | 
- | [sk]({{< ref "/f34/language/sk.md" >}}) | 30 | 30 | 100.0 | /mnt/stockage/packages/f34/php-horde-Horde-Prefs/Horde_Prefs-2.9.0/locale/sk/LC_MESSAGES/Horde_Prefs.po | 
- | [tr]({{< ref "/f34/language/tr.md" >}}) | 32 | 32 | 100.0 | /mnt/stockage/packages/f34/php-horde-Horde-Prefs/Horde_Prefs-2.9.0/locale/tr/LC_MESSAGES/Horde_Prefs.po | 
- | [uk]({{< ref "/f34/language/uk.md" >}}) | 30 | 30 | 100.0 | /mnt/stockage/packages/f34/php-horde-Horde-Prefs/Horde_Prefs-2.9.0/locale/uk/LC_MESSAGES/Horde_Prefs.po | 
- | [zh_Hant]({{< ref "/f34/language/zh_Hant.md" >}}) | 32 | 32 | 100.0 | /mnt/stockage/packages/f34/php-horde-Horde-Prefs/Horde_Prefs-2.9.0/locale/zh_TW/LC_MESSAGES/Horde_Prefs.po | 
- | [ca]({{< ref "/f34/language/ca.md" >}}) | 22 | 32 | 68.8 | /mnt/stockage/packages/f34/php-horde-Horde-Prefs/Horde_Prefs-2.9.0/locale/ca/LC_MESSAGES/Horde_Prefs.po | 
- | [cs]({{< ref "/f34/language/cs.md" >}}) | 22 | 32 | 68.8 | /mnt/stockage/packages/f34/php-horde-Horde-Prefs/Horde_Prefs-2.9.0/locale/cs/LC_MESSAGES/Horde_Prefs.po | 
- | [et]({{< ref "/f34/language/et.md" >}}) | 22 | 32 | 68.8 | /mnt/stockage/packages/f34/php-horde-Horde-Prefs/Horde_Prefs-2.9.0/locale/et/LC_MESSAGES/Horde_Prefs.po | 
- | [fa]({{< ref "/f34/language/fa.md" >}}) | 22 | 32 | 68.8 | /mnt/stockage/packages/f34/php-horde-Horde-Prefs/Horde_Prefs-2.9.0/locale/fa/LC_MESSAGES/Horde_Prefs.po | 
- | [pt]({{< ref "/f34/language/pt.md" >}}) | 22 | 32 | 68.8 | /mnt/stockage/packages/f34/php-horde-Horde-Prefs/Horde_Prefs-2.9.0/locale/pt/LC_MESSAGES/Horde_Prefs.po | 
- | [sl]({{< ref "/f34/language/sl.md" >}}) | 22 | 32 | 68.8 | /mnt/stockage/packages/f34/php-horde-Horde-Prefs/Horde_Prefs-2.9.0/locale/sl/LC_MESSAGES/Horde_Prefs.po | 
- | [sv]({{< ref "/f34/language/sv.md" >}}) | 22 | 32 | 68.8 | /mnt/stockage/packages/f34/php-horde-Horde-Prefs/Horde_Prefs-2.9.0/locale/sv/LC_MESSAGES/Horde_Prefs.po | 
- | [zh_Hans]({{< ref "/f34/language/zh_Hans.md" >}}) | 22 | 32 | 68.8 | /mnt/stockage/packages/f34/php-horde-Horde-Prefs/Horde_Prefs-2.9.0/locale/zh_CN/LC_MESSAGES/Horde_Prefs.po | 
- | [pl]({{< ref "/f34/language/pl.md" >}}) | 15 | 32 | 46.9 | /mnt/stockage/packages/f34/php-horde-Horde-Prefs/Horde_Prefs-2.9.0/locale/pl/LC_MESSAGES/Horde_Prefs.po | 
- | [nb_NO]({{< ref "/f34/language/nb_NO.md" >}}) | 12 | 32 | 37.5 | /mnt/stockage/packages/f34/php-horde-Horde-Prefs/Horde_Prefs-2.9.0/locale/nb/LC_MESSAGES/Horde_Prefs.po | 
- | [bs]({{< ref "/f34/language/bs.md" >}}) | 6 | 32 | 18.8 | /mnt/stockage/packages/f34/php-horde-Horde-Prefs/Horde_Prefs-2.9.0/locale/bs/LC_MESSAGES/Horde_Prefs.po | 
- | [ru]({{< ref "/f34/language/ru.md" >}}) | 5 | 32 | 15.6 | /mnt/stockage/packages/f34/php-horde-Horde-Prefs/Horde_Prefs-2.9.0/locale/ru/LC_MESSAGES/Horde_Prefs.po | 
- | [id]({{< ref "/f34/language/id.md" >}}) | 3 | 32 | 9.4 | /mnt/stockage/packages/f34/php-horde-Horde-Prefs/Horde_Prefs-2.9.0/locale/id/LC_MESSAGES/Horde_Prefs.po | 
- | [is]({{< ref "/f34/language/is.md" >}}) | 3 | 32 | 9.4 | /mnt/stockage/packages/f34/php-horde-Horde-Prefs/Horde_Prefs-2.9.0/locale/is/LC_MESSAGES/Horde_Prefs.po | 
- | [ko]({{< ref "/f34/language/ko.md" >}}) | 3 | 32 | 9.4 | /mnt/stockage/packages/f34/php-horde-Horde-Prefs/Horde_Prefs-2.9.0/locale/ko/LC_MESSAGES/Horde_Prefs.po | 
- | [ar]({{< ref "/f34/language/ar.md" >}}) | 2 | 32 | 6.2 | /mnt/stockage/packages/f34/php-horde-Horde-Prefs/Horde_Prefs-2.9.0/locale/ar/LC_MESSAGES/Horde_Prefs.po | 
- | [bg]({{< ref "/f34/language/bg.md" >}}) | 2 | 32 | 6.2 | /mnt/stockage/packages/f34/php-horde-Horde-Prefs/Horde_Prefs-2.9.0/locale/bg/LC_MESSAGES/Horde_Prefs.po | 
- | [gl]({{< ref "/f34/language/gl.md" >}}) | 2 | 32 | 6.2 | /mnt/stockage/packages/f34/php-horde-Horde-Prefs/Horde_Prefs-2.9.0/locale/gl/LC_MESSAGES/Horde_Prefs.po | 
- | [km]({{< ref "/f34/language/km.md" >}}) | 2 | 32 | 6.2 | /mnt/stockage/packages/f34/php-horde-Horde-Prefs/Horde_Prefs-2.9.0/locale/km/LC_MESSAGES/Horde_Prefs.po | 
- | [mk]({{< ref "/f34/language/mk.md" >}}) | 2 | 32 | 6.2 | /mnt/stockage/packages/f34/php-horde-Horde-Prefs/Horde_Prefs-2.9.0/locale/mk/LC_MESSAGES/Horde_Prefs.po | 
- | [nn]({{< ref "/f34/language/nn.md" >}}) | 2 | 32 | 6.2 | /mnt/stockage/packages/f34/php-horde-Horde-Prefs/Horde_Prefs-2.9.0/locale/nn/LC_MESSAGES/Horde_Prefs.po | 
- | [ro]({{< ref "/f34/language/ro.md" >}}) | 2 | 32 | 6.2 | /mnt/stockage/packages/f34/php-horde-Horde-Prefs/Horde_Prefs-2.9.0/locale/ro/LC_MESSAGES/Horde_Prefs.po | 
- | [he]({{< ref "/f34/language/he.md" >}}) | 0 | 32 | 0.0 | /mnt/stockage/packages/f34/php-horde-Horde-Prefs/Horde_Prefs-2.9.0/locale/he/LC_MESSAGES/Horde_Prefs.po | 
+ | [da](/f34/language/da) | 30 | 30 | 100.0 | /mnt/stockage/packages/f34/php-horde-Horde-Prefs/Horde_Prefs-2.9.0/locale/da/LC_MESSAGES/Horde_Prefs.po | 
+ | [de](/f34/language/de) | 30 | 30 | 100.0 | /mnt/stockage/packages/f34/php-horde-Horde-Prefs/Horde_Prefs-2.9.0/locale/de/LC_MESSAGES/Horde_Prefs.po | 
+ | [el](/f34/language/el) | 30 | 30 | 100.0 | /mnt/stockage/packages/f34/php-horde-Horde-Prefs/Horde_Prefs-2.9.0/locale/el/LC_MESSAGES/Horde_Prefs.po | 
+ | [es](/f34/language/es) | 30 | 30 | 100.0 | /mnt/stockage/packages/f34/php-horde-Horde-Prefs/Horde_Prefs-2.9.0/locale/es/LC_MESSAGES/Horde_Prefs.po | 
+ | [eu](/f34/language/eu) | 30 | 30 | 100.0 | /mnt/stockage/packages/f34/php-horde-Horde-Prefs/Horde_Prefs-2.9.0/locale/eu/LC_MESSAGES/Horde_Prefs.po | 
+ | [fi](/f34/language/fi) | 30 | 30 | 100.0 | /mnt/stockage/packages/f34/php-horde-Horde-Prefs/Horde_Prefs-2.9.0/locale/fi/LC_MESSAGES/Horde_Prefs.po | 
+ | [fr](/f34/language/fr) | 30 | 30 | 100.0 | /mnt/stockage/packages/f34/php-horde-Horde-Prefs/Horde_Prefs-2.9.0/locale/fr/LC_MESSAGES/Horde_Prefs.po | 
+ | [hr](/f34/language/hr) | 23 | 23 | 100.0 | /mnt/stockage/packages/f34/php-horde-Horde-Prefs/Horde_Prefs-2.9.0/locale/hr/LC_MESSAGES/Horde_Prefs.po | 
+ | [hu](/f34/language/hu) | 30 | 30 | 100.0 | /mnt/stockage/packages/f34/php-horde-Horde-Prefs/Horde_Prefs-2.9.0/locale/hu/LC_MESSAGES/Horde_Prefs.po | 
+ | [it](/f34/language/it) | 32 | 32 | 100.0 | /mnt/stockage/packages/f34/php-horde-Horde-Prefs/Horde_Prefs-2.9.0/locale/it/LC_MESSAGES/Horde_Prefs.po | 
+ | [ja](/f34/language/ja) | 30 | 30 | 100.0 | /mnt/stockage/packages/f34/php-horde-Horde-Prefs/Horde_Prefs-2.9.0/locale/ja/LC_MESSAGES/Horde_Prefs.po | 
+ | [lt](/f34/language/lt) | 23 | 23 | 100.0 | /mnt/stockage/packages/f34/php-horde-Horde-Prefs/Horde_Prefs-2.9.0/locale/lt/LC_MESSAGES/Horde_Prefs.po | 
+ | [lv](/f34/language/lv) | 22 | 22 | 100.0 | /mnt/stockage/packages/f34/php-horde-Horde-Prefs/Horde_Prefs-2.9.0/locale/lv/LC_MESSAGES/Horde_Prefs.po | 
+ | [nl](/f34/language/nl) | 30 | 30 | 100.0 | /mnt/stockage/packages/f34/php-horde-Horde-Prefs/Horde_Prefs-2.9.0/locale/nl/LC_MESSAGES/Horde_Prefs.po | 
+ | [pt_BR](/f34/language/pt_BR) | 30 | 30 | 100.0 | /mnt/stockage/packages/f34/php-horde-Horde-Prefs/Horde_Prefs-2.9.0/locale/pt_BR/LC_MESSAGES/Horde_Prefs.po | 
+ | [sk](/f34/language/sk) | 30 | 30 | 100.0 | /mnt/stockage/packages/f34/php-horde-Horde-Prefs/Horde_Prefs-2.9.0/locale/sk/LC_MESSAGES/Horde_Prefs.po | 
+ | [tr](/f34/language/tr) | 32 | 32 | 100.0 | /mnt/stockage/packages/f34/php-horde-Horde-Prefs/Horde_Prefs-2.9.0/locale/tr/LC_MESSAGES/Horde_Prefs.po | 
+ | [uk](/f34/language/uk) | 30 | 30 | 100.0 | /mnt/stockage/packages/f34/php-horde-Horde-Prefs/Horde_Prefs-2.9.0/locale/uk/LC_MESSAGES/Horde_Prefs.po | 
+ | [zh_Hant](/f34/language/zh_Hant) | 32 | 32 | 100.0 | /mnt/stockage/packages/f34/php-horde-Horde-Prefs/Horde_Prefs-2.9.0/locale/zh_TW/LC_MESSAGES/Horde_Prefs.po | 
+ | [ca](/f34/language/ca) | 22 | 32 | 68.8 | /mnt/stockage/packages/f34/php-horde-Horde-Prefs/Horde_Prefs-2.9.0/locale/ca/LC_MESSAGES/Horde_Prefs.po | 
+ | [cs](/f34/language/cs) | 22 | 32 | 68.8 | /mnt/stockage/packages/f34/php-horde-Horde-Prefs/Horde_Prefs-2.9.0/locale/cs/LC_MESSAGES/Horde_Prefs.po | 
+ | [et](/f34/language/et) | 22 | 32 | 68.8 | /mnt/stockage/packages/f34/php-horde-Horde-Prefs/Horde_Prefs-2.9.0/locale/et/LC_MESSAGES/Horde_Prefs.po | 
+ | [fa](/f34/language/fa) | 22 | 32 | 68.8 | /mnt/stockage/packages/f34/php-horde-Horde-Prefs/Horde_Prefs-2.9.0/locale/fa/LC_MESSAGES/Horde_Prefs.po | 
+ | [pt](/f34/language/pt) | 22 | 32 | 68.8 | /mnt/stockage/packages/f34/php-horde-Horde-Prefs/Horde_Prefs-2.9.0/locale/pt/LC_MESSAGES/Horde_Prefs.po | 
+ | [sl](/f34/language/sl) | 22 | 32 | 68.8 | /mnt/stockage/packages/f34/php-horde-Horde-Prefs/Horde_Prefs-2.9.0/locale/sl/LC_MESSAGES/Horde_Prefs.po | 
+ | [sv](/f34/language/sv) | 22 | 32 | 68.8 | /mnt/stockage/packages/f34/php-horde-Horde-Prefs/Horde_Prefs-2.9.0/locale/sv/LC_MESSAGES/Horde_Prefs.po | 
+ | [zh_Hans](/f34/language/zh_Hans) | 22 | 32 | 68.8 | /mnt/stockage/packages/f34/php-horde-Horde-Prefs/Horde_Prefs-2.9.0/locale/zh_CN/LC_MESSAGES/Horde_Prefs.po | 
+ | [pl](/f34/language/pl) | 15 | 32 | 46.9 | /mnt/stockage/packages/f34/php-horde-Horde-Prefs/Horde_Prefs-2.9.0/locale/pl/LC_MESSAGES/Horde_Prefs.po | 
+ | [nb_NO](/f34/language/nb_NO) | 12 | 32 | 37.5 | /mnt/stockage/packages/f34/php-horde-Horde-Prefs/Horde_Prefs-2.9.0/locale/nb/LC_MESSAGES/Horde_Prefs.po | 
+ | [bs](/f34/language/bs) | 6 | 32 | 18.8 | /mnt/stockage/packages/f34/php-horde-Horde-Prefs/Horde_Prefs-2.9.0/locale/bs/LC_MESSAGES/Horde_Prefs.po | 
+ | [ru](/f34/language/ru) | 5 | 32 | 15.6 | /mnt/stockage/packages/f34/php-horde-Horde-Prefs/Horde_Prefs-2.9.0/locale/ru/LC_MESSAGES/Horde_Prefs.po | 
+ | [id](/f34/language/id) | 3 | 32 | 9.4 | /mnt/stockage/packages/f34/php-horde-Horde-Prefs/Horde_Prefs-2.9.0/locale/id/LC_MESSAGES/Horde_Prefs.po | 
+ | [is](/f34/language/is) | 3 | 32 | 9.4 | /mnt/stockage/packages/f34/php-horde-Horde-Prefs/Horde_Prefs-2.9.0/locale/is/LC_MESSAGES/Horde_Prefs.po | 
+ | [ko](/f34/language/ko) | 3 | 32 | 9.4 | /mnt/stockage/packages/f34/php-horde-Horde-Prefs/Horde_Prefs-2.9.0/locale/ko/LC_MESSAGES/Horde_Prefs.po | 
+ | [ar](/f34/language/ar) | 2 | 32 | 6.2 | /mnt/stockage/packages/f34/php-horde-Horde-Prefs/Horde_Prefs-2.9.0/locale/ar/LC_MESSAGES/Horde_Prefs.po | 
+ | [bg](/f34/language/bg) | 2 | 32 | 6.2 | /mnt/stockage/packages/f34/php-horde-Horde-Prefs/Horde_Prefs-2.9.0/locale/bg/LC_MESSAGES/Horde_Prefs.po | 
+ | [gl](/f34/language/gl) | 2 | 32 | 6.2 | /mnt/stockage/packages/f34/php-horde-Horde-Prefs/Horde_Prefs-2.9.0/locale/gl/LC_MESSAGES/Horde_Prefs.po | 
+ | [km](/f34/language/km) | 2 | 32 | 6.2 | /mnt/stockage/packages/f34/php-horde-Horde-Prefs/Horde_Prefs-2.9.0/locale/km/LC_MESSAGES/Horde_Prefs.po | 
+ | [mk](/f34/language/mk) | 2 | 32 | 6.2 | /mnt/stockage/packages/f34/php-horde-Horde-Prefs/Horde_Prefs-2.9.0/locale/mk/LC_MESSAGES/Horde_Prefs.po | 
+ | [nn](/f34/language/nn) | 2 | 32 | 6.2 | /mnt/stockage/packages/f34/php-horde-Horde-Prefs/Horde_Prefs-2.9.0/locale/nn/LC_MESSAGES/Horde_Prefs.po | 
+ | [ro](/f34/language/ro) | 2 | 32 | 6.2 | /mnt/stockage/packages/f34/php-horde-Horde-Prefs/Horde_Prefs-2.9.0/locale/ro/LC_MESSAGES/Horde_Prefs.po | 
+ | [he](/f34/language/he) | 0 | 32 | 0.0 | /mnt/stockage/packages/f34/php-horde-Horde-Prefs/Horde_Prefs-2.9.0/locale/he/LC_MESSAGES/Horde_Prefs.po | 
 {.sortable}
 
 

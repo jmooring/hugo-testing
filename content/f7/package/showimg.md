@@ -18,37 +18,37 @@ The package showimg (version 0.9.5):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [bg]({{< ref "/f7/language/bg.md" >}}) | 4305 | 4305 | 100.0 | /mnt/stockage/packages/f7/showimg/po/bg/showimg.po | 
- | [da]({{< ref "/f7/language/da.md" >}}) | 4305 | 4305 | 100.0 | /mnt/stockage/packages/f7/showimg/po/da/showimg.po | 
- | [el]({{< ref "/f7/language/el.md" >}}) | 4305 | 4305 | 100.0 | /mnt/stockage/packages/f7/showimg/po/el/showimg.po | 
- | [fr]({{< ref "/f7/language/fr.md" >}}) | 4305 | 4305 | 100.0 | /mnt/stockage/packages/f7/showimg/po/fr/showimg.po | 
- | [it]({{< ref "/f7/language/it.md" >}}) | 4305 | 4305 | 100.0 | /mnt/stockage/packages/f7/showimg/po/it/showimg.po | 
- | [ja]({{< ref "/f7/language/ja.md" >}}) | 4305 | 4305 | 100.0 | /mnt/stockage/packages/f7/showimg/po/ja/showimg.po | 
- | [pt]({{< ref "/f7/language/pt.md" >}}) | 4305 | 4305 | 100.0 | /mnt/stockage/packages/f7/showimg/po/pt/showimg.po | 
- | [sv]({{< ref "/f7/language/sv.md" >}}) | 4305 | 4305 | 100.0 | /mnt/stockage/packages/f7/showimg/po/sv/showimg.po | 
- | [cs]({{< ref "/f7/language/cs.md" >}}) | 3905 | 3906 | 100.0 | /mnt/stockage/packages/f7/showimg/po/cs/showimg.po | 
- | [nl]({{< ref "/f7/language/nl.md" >}}) | 3978 | 4305 | 92.4 | /mnt/stockage/packages/f7/showimg/po/nl/showimg.po | 
- | [de]({{< ref "/f7/language/de.md" >}}) | 3893 | 4305 | 90.4 | /mnt/stockage/packages/f7/showimg/po/de/showimg.po | 
- | [sr]({{< ref "/f7/language/sr.md" >}}) | 3893 | 4305 | 90.4 | /mnt/stockage/packages/f7/showimg/po/sr/showimg.po | 
- | [en_GB]({{< ref "/f7/language/en_GB.md" >}}) | 3034 | 4305 | 70.5 | /mnt/stockage/packages/f7/showimg/po/en_GB/showimg.po | 
- | [es]({{< ref "/f7/language/es.md" >}}) | 3034 | 4305 | 70.5 | /mnt/stockage/packages/f7/showimg/po/es/showimg.po | 
- | [et]({{< ref "/f7/language/et.md" >}}) | 3034 | 4305 | 70.5 | /mnt/stockage/packages/f7/showimg/po/et/showimg.po | 
- | [pl]({{< ref "/f7/language/pl.md" >}}) | 2721 | 4305 | 63.2 | /mnt/stockage/packages/f7/showimg/po/pl/showimg.po | 
- | [ca]({{< ref "/f7/language/ca.md" >}}) | 2682 | 4305 | 62.3 | /mnt/stockage/packages/f7/showimg/po/ca/showimg.po | 
- | [ru]({{< ref "/f7/language/ru.md" >}}) | 2669 | 4305 | 62.0 | /mnt/stockage/packages/f7/showimg/po/ru/showimg.po | 
- | [bs]({{< ref "/f7/language/bs.md" >}}) | 1928 | 4305 | 44.8 | /mnt/stockage/packages/f7/showimg/po/bs/showimg.po | 
- | [tr]({{< ref "/f7/language/tr.md" >}}) | 1698 | 4305 | 39.4 | /mnt/stockage/packages/f7/showimg/po/tr/showimg.po | 
- | [sk]({{< ref "/f7/language/sk.md" >}}) | 1452 | 4305 | 33.7 | /mnt/stockage/packages/f7/showimg/po/sk/showimg.po | 
- | [br]({{< ref "/f7/language/br.md" >}}) | 1332 | 4305 | 30.9 | /mnt/stockage/packages/f7/showimg/po/br/showimg.po | 
- | [hi]({{< ref "/f7/language/hi.md" >}}) | 1305 | 4305 | 30.3 | /mnt/stockage/packages/f7/showimg/po/hi/showimg.po | 
- | [pt_BR]({{< ref "/f7/language/pt_BR.md" >}}) | 1157 | 4305 | 26.9 | /mnt/stockage/packages/f7/showimg/po/pt_BR/showimg.po | 
- | [ta]({{< ref "/f7/language/ta.md" >}}) | 1104 | 4305 | 25.6 | /mnt/stockage/packages/f7/showimg/po/ta/showimg.po | 
- | [ga]({{< ref "/f7/language/ga.md" >}}) | 860 | 4305 | 20.0 | /mnt/stockage/packages/f7/showimg/po/ga/showimg.po | 
- | [hu]({{< ref "/f7/language/hu.md" >}}) | 692 | 4305 | 16.1 | /mnt/stockage/packages/f7/showimg/po/hu/showimg.po | 
- | [zh_Hans]({{< ref "/f7/language/zh_Hans.md" >}}) | 663 | 4305 | 15.4 | /mnt/stockage/packages/f7/showimg/po/zh_CN/showimg.po | 
- | [cy]({{< ref "/f7/language/cy.md" >}}) | 565 | 4305 | 13.1 | /mnt/stockage/packages/f7/showimg/po/cy/showimg.po | 
- | [lt]({{< ref "/f7/language/lt.md" >}}) | 135 | 4305 | 3.1 | /mnt/stockage/packages/f7/showimg/po/lt/showimg.po | 
- | [mt]({{< ref "/f7/language/mt.md" >}}) | 6 | 4305 | 0.1 | /mnt/stockage/packages/f7/showimg/po/mt/showimg.po | 
+ | [bg](/f7/language/bg) | 4305 | 4305 | 100.0 | /mnt/stockage/packages/f7/showimg/po/bg/showimg.po | 
+ | [da](/f7/language/da) | 4305 | 4305 | 100.0 | /mnt/stockage/packages/f7/showimg/po/da/showimg.po | 
+ | [el](/f7/language/el) | 4305 | 4305 | 100.0 | /mnt/stockage/packages/f7/showimg/po/el/showimg.po | 
+ | [fr](/f7/language/fr) | 4305 | 4305 | 100.0 | /mnt/stockage/packages/f7/showimg/po/fr/showimg.po | 
+ | [it](/f7/language/it) | 4305 | 4305 | 100.0 | /mnt/stockage/packages/f7/showimg/po/it/showimg.po | 
+ | [ja](/f7/language/ja) | 4305 | 4305 | 100.0 | /mnt/stockage/packages/f7/showimg/po/ja/showimg.po | 
+ | [pt](/f7/language/pt) | 4305 | 4305 | 100.0 | /mnt/stockage/packages/f7/showimg/po/pt/showimg.po | 
+ | [sv](/f7/language/sv) | 4305 | 4305 | 100.0 | /mnt/stockage/packages/f7/showimg/po/sv/showimg.po | 
+ | [cs](/f7/language/cs) | 3905 | 3906 | 100.0 | /mnt/stockage/packages/f7/showimg/po/cs/showimg.po | 
+ | [nl](/f7/language/nl) | 3978 | 4305 | 92.4 | /mnt/stockage/packages/f7/showimg/po/nl/showimg.po | 
+ | [de](/f7/language/de) | 3893 | 4305 | 90.4 | /mnt/stockage/packages/f7/showimg/po/de/showimg.po | 
+ | [sr](/f7/language/sr) | 3893 | 4305 | 90.4 | /mnt/stockage/packages/f7/showimg/po/sr/showimg.po | 
+ | [en_GB](/f7/language/en_GB) | 3034 | 4305 | 70.5 | /mnt/stockage/packages/f7/showimg/po/en_GB/showimg.po | 
+ | [es](/f7/language/es) | 3034 | 4305 | 70.5 | /mnt/stockage/packages/f7/showimg/po/es/showimg.po | 
+ | [et](/f7/language/et) | 3034 | 4305 | 70.5 | /mnt/stockage/packages/f7/showimg/po/et/showimg.po | 
+ | [pl](/f7/language/pl) | 2721 | 4305 | 63.2 | /mnt/stockage/packages/f7/showimg/po/pl/showimg.po | 
+ | [ca](/f7/language/ca) | 2682 | 4305 | 62.3 | /mnt/stockage/packages/f7/showimg/po/ca/showimg.po | 
+ | [ru](/f7/language/ru) | 2669 | 4305 | 62.0 | /mnt/stockage/packages/f7/showimg/po/ru/showimg.po | 
+ | [bs](/f7/language/bs) | 1928 | 4305 | 44.8 | /mnt/stockage/packages/f7/showimg/po/bs/showimg.po | 
+ | [tr](/f7/language/tr) | 1698 | 4305 | 39.4 | /mnt/stockage/packages/f7/showimg/po/tr/showimg.po | 
+ | [sk](/f7/language/sk) | 1452 | 4305 | 33.7 | /mnt/stockage/packages/f7/showimg/po/sk/showimg.po | 
+ | [br](/f7/language/br) | 1332 | 4305 | 30.9 | /mnt/stockage/packages/f7/showimg/po/br/showimg.po | 
+ | [hi](/f7/language/hi) | 1305 | 4305 | 30.3 | /mnt/stockage/packages/f7/showimg/po/hi/showimg.po | 
+ | [pt_BR](/f7/language/pt_BR) | 1157 | 4305 | 26.9 | /mnt/stockage/packages/f7/showimg/po/pt_BR/showimg.po | 
+ | [ta](/f7/language/ta) | 1104 | 4305 | 25.6 | /mnt/stockage/packages/f7/showimg/po/ta/showimg.po | 
+ | [ga](/f7/language/ga) | 860 | 4305 | 20.0 | /mnt/stockage/packages/f7/showimg/po/ga/showimg.po | 
+ | [hu](/f7/language/hu) | 692 | 4305 | 16.1 | /mnt/stockage/packages/f7/showimg/po/hu/showimg.po | 
+ | [zh_Hans](/f7/language/zh_Hans) | 663 | 4305 | 15.4 | /mnt/stockage/packages/f7/showimg/po/zh_CN/showimg.po | 
+ | [cy](/f7/language/cy) | 565 | 4305 | 13.1 | /mnt/stockage/packages/f7/showimg/po/cy/showimg.po | 
+ | [lt](/f7/language/lt) | 135 | 4305 | 3.1 | /mnt/stockage/packages/f7/showimg/po/lt/showimg.po | 
+ | [mt](/f7/language/mt) | 6 | 4305 | 0.1 | /mnt/stockage/packages/f7/showimg/po/mt/showimg.po | 
 {.sortable}
 
 

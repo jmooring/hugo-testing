@@ -18,15 +18,15 @@ The package input-pad (version 1.0.99.20210817):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [uk]({{< ref "/f38/language/uk.md" >}}) | 2270 | 2270 | 100.0 | /mnt/stockage/packages/f38/input-pad/po/uk.po | 
- | [ca]({{< ref "/f38/language/ca.md" >}}) | 1617 | 2270 | 71.2 | /mnt/stockage/packages/f38/input-pad/po/ca.po | 
- | [ja]({{< ref "/f38/language/ja.md" >}}) | 948 | 2270 | 41.8 | /mnt/stockage/packages/f38/input-pad/po/ja.po | 
- | [fr]({{< ref "/f38/language/fr.md" >}}) | 862 | 2270 | 38.0 | /mnt/stockage/packages/f38/input-pad/po/fr.po | 
- | [zh_Hant]({{< ref "/f38/language/zh_Hant.md" >}}) | 423 | 2270 | 18.6 | /mnt/stockage/packages/f38/input-pad/po/zh_TW.po | 
- | [zh_Hans]({{< ref "/f38/language/zh_Hans.md" >}}) | 196 | 2270 | 8.6 | /mnt/stockage/packages/f38/input-pad/po/zh_CN.po | 
- | [eu]({{< ref "/f38/language/eu.md" >}}) | 104 | 2270 | 4.6 | /mnt/stockage/packages/f38/input-pad/po/eu.po | 
- | [hu]({{< ref "/f38/language/hu.md" >}}) | 87 | 2270 | 3.8 | /mnt/stockage/packages/f38/input-pad/po/hu.po | 
- | [pt_BR]({{< ref "/f38/language/pt_BR.md" >}}) | 34 | 2270 | 1.5 | /mnt/stockage/packages/f38/input-pad/po/pt_BR.po | 
+ | [uk](/f38/language/uk) | 2270 | 2270 | 100.0 | /mnt/stockage/packages/f38/input-pad/po/uk.po | 
+ | [ca](/f38/language/ca) | 1617 | 2270 | 71.2 | /mnt/stockage/packages/f38/input-pad/po/ca.po | 
+ | [ja](/f38/language/ja) | 948 | 2270 | 41.8 | /mnt/stockage/packages/f38/input-pad/po/ja.po | 
+ | [fr](/f38/language/fr) | 862 | 2270 | 38.0 | /mnt/stockage/packages/f38/input-pad/po/fr.po | 
+ | [zh_Hant](/f38/language/zh_Hant) | 423 | 2270 | 18.6 | /mnt/stockage/packages/f38/input-pad/po/zh_TW.po | 
+ | [zh_Hans](/f38/language/zh_Hans) | 196 | 2270 | 8.6 | /mnt/stockage/packages/f38/input-pad/po/zh_CN.po | 
+ | [eu](/f38/language/eu) | 104 | 2270 | 4.6 | /mnt/stockage/packages/f38/input-pad/po/eu.po | 
+ | [hu](/f38/language/hu) | 87 | 2270 | 3.8 | /mnt/stockage/packages/f38/input-pad/po/hu.po | 
+ | [pt_BR](/f38/language/pt_BR) | 34 | 2270 | 1.5 | /mnt/stockage/packages/f38/input-pad/po/pt_BR.po | 
 {.sortable}
 
 

@@ -18,22 +18,22 @@ The package gnome-applet-remmina (version 0.7.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [bg]({{< ref "/f11/language/bg.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f11/gnome-applet-remmina/po/bg.po | 
- | [de]({{< ref "/f11/language/de.md" >}}) | 136 | 136 | 100.0 | /mnt/stockage/packages/f11/gnome-applet-remmina/po/de.po | 
- | [el]({{< ref "/f11/language/el.md" >}}) | 136 | 136 | 100.0 | /mnt/stockage/packages/f11/gnome-applet-remmina/po/el.po | 
- | [es]({{< ref "/f11/language/es.md" >}}) | 136 | 136 | 100.0 | /mnt/stockage/packages/f11/gnome-applet-remmina/po/es.po | 
- | [eu]({{< ref "/f11/language/eu.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f11/gnome-applet-remmina/po/eu.po | 
- | [id]({{< ref "/f11/language/id.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f11/gnome-applet-remmina/po/id.po | 
- | [it]({{< ref "/f11/language/it.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f11/gnome-applet-remmina/po/it.po | 
- | [lt]({{< ref "/f11/language/lt.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f11/gnome-applet-remmina/po/lt.po | 
- | [nl]({{< ref "/f11/language/nl.md" >}}) | 136 | 136 | 100.0 | /mnt/stockage/packages/f11/gnome-applet-remmina/po/nl.po | 
- | [pl]({{< ref "/f11/language/pl.md" >}}) | 136 | 136 | 100.0 | /mnt/stockage/packages/f11/gnome-applet-remmina/po/pl.po | 
- | [pt_BR]({{< ref "/f11/language/pt_BR.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f11/gnome-applet-remmina/po/pt_BR.po | 
- | [ru]({{< ref "/f11/language/ru.md" >}}) | 136 | 136 | 100.0 | /mnt/stockage/packages/f11/gnome-applet-remmina/po/ru.po | 
- | [tr]({{< ref "/f11/language/tr.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f11/gnome-applet-remmina/po/tr.po | 
- | [uk]({{< ref "/f11/language/uk.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f11/gnome-applet-remmina/po/uk.po | 
- | [zh_Hans]({{< ref "/f11/language/zh_Hans.md" >}}) | 136 | 136 | 100.0 | /mnt/stockage/packages/f11/gnome-applet-remmina/po/zh_CN.po | 
- | [fr]({{< ref "/f11/language/fr.md" >}}) | 16 | 24 | 66.7 | /mnt/stockage/packages/f11/gnome-applet-remmina/po/fr.po | 
+ | [bg](/f11/language/bg) | 24 | 24 | 100.0 | /mnt/stockage/packages/f11/gnome-applet-remmina/po/bg.po | 
+ | [de](/f11/language/de) | 136 | 136 | 100.0 | /mnt/stockage/packages/f11/gnome-applet-remmina/po/de.po | 
+ | [el](/f11/language/el) | 136 | 136 | 100.0 | /mnt/stockage/packages/f11/gnome-applet-remmina/po/el.po | 
+ | [es](/f11/language/es) | 136 | 136 | 100.0 | /mnt/stockage/packages/f11/gnome-applet-remmina/po/es.po | 
+ | [eu](/f11/language/eu) | 24 | 24 | 100.0 | /mnt/stockage/packages/f11/gnome-applet-remmina/po/eu.po | 
+ | [id](/f11/language/id) | 24 | 24 | 100.0 | /mnt/stockage/packages/f11/gnome-applet-remmina/po/id.po | 
+ | [it](/f11/language/it) | 24 | 24 | 100.0 | /mnt/stockage/packages/f11/gnome-applet-remmina/po/it.po | 
+ | [lt](/f11/language/lt) | 24 | 24 | 100.0 | /mnt/stockage/packages/f11/gnome-applet-remmina/po/lt.po | 
+ | [nl](/f11/language/nl) | 136 | 136 | 100.0 | /mnt/stockage/packages/f11/gnome-applet-remmina/po/nl.po | 
+ | [pl](/f11/language/pl) | 136 | 136 | 100.0 | /mnt/stockage/packages/f11/gnome-applet-remmina/po/pl.po | 
+ | [pt_BR](/f11/language/pt_BR) | 24 | 24 | 100.0 | /mnt/stockage/packages/f11/gnome-applet-remmina/po/pt_BR.po | 
+ | [ru](/f11/language/ru) | 136 | 136 | 100.0 | /mnt/stockage/packages/f11/gnome-applet-remmina/po/ru.po | 
+ | [tr](/f11/language/tr) | 24 | 24 | 100.0 | /mnt/stockage/packages/f11/gnome-applet-remmina/po/tr.po | 
+ | [uk](/f11/language/uk) | 24 | 24 | 100.0 | /mnt/stockage/packages/f11/gnome-applet-remmina/po/uk.po | 
+ | [zh_Hans](/f11/language/zh_Hans) | 136 | 136 | 100.0 | /mnt/stockage/packages/f11/gnome-applet-remmina/po/zh_CN.po | 
+ | [fr](/f11/language/fr) | 16 | 24 | 66.7 | /mnt/stockage/packages/f11/gnome-applet-remmina/po/fr.po | 
 {.sortable}
 
 

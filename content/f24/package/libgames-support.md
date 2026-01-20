@@ -18,39 +18,39 @@ The package libgames-support (version 1.0.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [bg]({{< ref "/f24/language/bg.md" >}}) | 35 | 35 | 100.0 | /mnt/stockage/packages/f24/libgames-support/po/bg.po | 
- | [ca]({{< ref "/f24/language/ca.md" >}}) | 35 | 35 | 100.0 | /mnt/stockage/packages/f24/libgames-support/po/ca.po | 
- | [cs]({{< ref "/f24/language/cs.md" >}}) | 43 | 43 | 100.0 | /mnt/stockage/packages/f24/libgames-support/po/cs.po | 
- | [da]({{< ref "/f24/language/da.md" >}}) | 43 | 43 | 100.0 | /mnt/stockage/packages/f24/libgames-support/po/da.po | 
- | [de]({{< ref "/f24/language/de.md" >}}) | 43 | 43 | 100.0 | /mnt/stockage/packages/f24/libgames-support/po/de.po | 
- | [el]({{< ref "/f24/language/el.md" >}}) | 43 | 43 | 100.0 | /mnt/stockage/packages/f24/libgames-support/po/el.po | 
- | [es]({{< ref "/f24/language/es.md" >}}) | 43 | 43 | 100.0 | /mnt/stockage/packages/f24/libgames-support/po/es.po | 
- | [eu]({{< ref "/f24/language/eu.md" >}}) | 43 | 43 | 100.0 | /mnt/stockage/packages/f24/libgames-support/po/eu.po | 
- | [fi]({{< ref "/f24/language/fi.md" >}}) | 43 | 43 | 100.0 | /mnt/stockage/packages/f24/libgames-support/po/fi.po | 
- | [fr]({{< ref "/f24/language/fr.md" >}}) | 43 | 43 | 100.0 | /mnt/stockage/packages/f24/libgames-support/po/fr.po | 
- | [fur]({{< ref "/f24/language/fur.md" >}}) | 43 | 43 | 100.0 | /mnt/stockage/packages/f24/libgames-support/po/fur.po | 
- | [gl]({{< ref "/f24/language/gl.md" >}}) | 43 | 43 | 100.0 | /mnt/stockage/packages/f24/libgames-support/po/gl.po | 
- | [he]({{< ref "/f24/language/he.md" >}}) | 43 | 43 | 100.0 | /mnt/stockage/packages/f24/libgames-support/po/he.po | 
- | [hu]({{< ref "/f24/language/hu.md" >}}) | 43 | 43 | 100.0 | /mnt/stockage/packages/f24/libgames-support/po/hu.po | 
- | [id]({{< ref "/f24/language/id.md" >}}) | 22 | 22 | 100.0 | /mnt/stockage/packages/f24/libgames-support/po/id.po | 
- | [it]({{< ref "/f24/language/it.md" >}}) | 43 | 43 | 100.0 | /mnt/stockage/packages/f24/libgames-support/po/it.po | 
- | [ko]({{< ref "/f24/language/ko.md" >}}) | 43 | 43 | 100.0 | /mnt/stockage/packages/f24/libgames-support/po/ko.po | 
- | [lt]({{< ref "/f24/language/lt.md" >}}) | 43 | 43 | 100.0 | /mnt/stockage/packages/f24/libgames-support/po/lt.po | 
- | [lv]({{< ref "/f24/language/lv.md" >}}) | 43 | 43 | 100.0 | /mnt/stockage/packages/f24/libgames-support/po/lv.po | 
- | [nb_NO]({{< ref "/f24/language/nb_NO.md" >}}) | 35 | 35 | 100.0 | /mnt/stockage/packages/f24/libgames-support/po/nb.po | 
- | [oc]({{< ref "/f24/language/oc.md" >}}) | 43 | 43 | 100.0 | /mnt/stockage/packages/f24/libgames-support/po/oc.po | 
- | [pl]({{< ref "/f24/language/pl.md" >}}) | 43 | 43 | 100.0 | /mnt/stockage/packages/f24/libgames-support/po/pl.po | 
- | [pt]({{< ref "/f24/language/pt.md" >}}) | 35 | 35 | 100.0 | /mnt/stockage/packages/f24/libgames-support/po/pt.po | 
- | [pt_BR]({{< ref "/f24/language/pt_BR.md" >}}) | 43 | 43 | 100.0 | /mnt/stockage/packages/f24/libgames-support/po/pt_BR.po | 
- | [ru]({{< ref "/f24/language/ru.md" >}}) | 43 | 43 | 100.0 | /mnt/stockage/packages/f24/libgames-support/po/ru.po | 
- | [sk]({{< ref "/f24/language/sk.md" >}}) | 43 | 43 | 100.0 | /mnt/stockage/packages/f24/libgames-support/po/sk.po | 
- | [sl]({{< ref "/f24/language/sl.md" >}}) | 43 | 43 | 100.0 | /mnt/stockage/packages/f24/libgames-support/po/sl.po | 
- | [sr]({{< ref "/f24/language/sr.md" >}}) | 86 | 86 | 100.0 | /mnt/stockage/packages/f24/libgames-support/po/sr@latin.po/mnt/stockage/packages/f24/libgames-support/po/sr.po | 
- | [sv]({{< ref "/f24/language/sv.md" >}}) | 43 | 43 | 100.0 | /mnt/stockage/packages/f24/libgames-support/po/sv.po | 
- | [tr]({{< ref "/f24/language/tr.md" >}}) | 35 | 35 | 100.0 | /mnt/stockage/packages/f24/libgames-support/po/tr.po | 
- | [uk]({{< ref "/f24/language/uk.md" >}}) | 43 | 43 | 100.0 | /mnt/stockage/packages/f24/libgames-support/po/uk.po | 
- | [zh_Hant]({{< ref "/f24/language/zh_Hant.md" >}}) | 35 | 35 | 100.0 | /mnt/stockage/packages/f24/libgames-support/po/zh_TW.po | 
- | [eo]({{< ref "/f24/language/eo.md" >}}) | 41 | 43 | 95.3 | /mnt/stockage/packages/f24/libgames-support/po/eo.po | 
+ | [bg](/f24/language/bg) | 35 | 35 | 100.0 | /mnt/stockage/packages/f24/libgames-support/po/bg.po | 
+ | [ca](/f24/language/ca) | 35 | 35 | 100.0 | /mnt/stockage/packages/f24/libgames-support/po/ca.po | 
+ | [cs](/f24/language/cs) | 43 | 43 | 100.0 | /mnt/stockage/packages/f24/libgames-support/po/cs.po | 
+ | [da](/f24/language/da) | 43 | 43 | 100.0 | /mnt/stockage/packages/f24/libgames-support/po/da.po | 
+ | [de](/f24/language/de) | 43 | 43 | 100.0 | /mnt/stockage/packages/f24/libgames-support/po/de.po | 
+ | [el](/f24/language/el) | 43 | 43 | 100.0 | /mnt/stockage/packages/f24/libgames-support/po/el.po | 
+ | [es](/f24/language/es) | 43 | 43 | 100.0 | /mnt/stockage/packages/f24/libgames-support/po/es.po | 
+ | [eu](/f24/language/eu) | 43 | 43 | 100.0 | /mnt/stockage/packages/f24/libgames-support/po/eu.po | 
+ | [fi](/f24/language/fi) | 43 | 43 | 100.0 | /mnt/stockage/packages/f24/libgames-support/po/fi.po | 
+ | [fr](/f24/language/fr) | 43 | 43 | 100.0 | /mnt/stockage/packages/f24/libgames-support/po/fr.po | 
+ | [fur](/f24/language/fur) | 43 | 43 | 100.0 | /mnt/stockage/packages/f24/libgames-support/po/fur.po | 
+ | [gl](/f24/language/gl) | 43 | 43 | 100.0 | /mnt/stockage/packages/f24/libgames-support/po/gl.po | 
+ | [he](/f24/language/he) | 43 | 43 | 100.0 | /mnt/stockage/packages/f24/libgames-support/po/he.po | 
+ | [hu](/f24/language/hu) | 43 | 43 | 100.0 | /mnt/stockage/packages/f24/libgames-support/po/hu.po | 
+ | [id](/f24/language/id) | 22 | 22 | 100.0 | /mnt/stockage/packages/f24/libgames-support/po/id.po | 
+ | [it](/f24/language/it) | 43 | 43 | 100.0 | /mnt/stockage/packages/f24/libgames-support/po/it.po | 
+ | [ko](/f24/language/ko) | 43 | 43 | 100.0 | /mnt/stockage/packages/f24/libgames-support/po/ko.po | 
+ | [lt](/f24/language/lt) | 43 | 43 | 100.0 | /mnt/stockage/packages/f24/libgames-support/po/lt.po | 
+ | [lv](/f24/language/lv) | 43 | 43 | 100.0 | /mnt/stockage/packages/f24/libgames-support/po/lv.po | 
+ | [nb_NO](/f24/language/nb_NO) | 35 | 35 | 100.0 | /mnt/stockage/packages/f24/libgames-support/po/nb.po | 
+ | [oc](/f24/language/oc) | 43 | 43 | 100.0 | /mnt/stockage/packages/f24/libgames-support/po/oc.po | 
+ | [pl](/f24/language/pl) | 43 | 43 | 100.0 | /mnt/stockage/packages/f24/libgames-support/po/pl.po | 
+ | [pt](/f24/language/pt) | 35 | 35 | 100.0 | /mnt/stockage/packages/f24/libgames-support/po/pt.po | 
+ | [pt_BR](/f24/language/pt_BR) | 43 | 43 | 100.0 | /mnt/stockage/packages/f24/libgames-support/po/pt_BR.po | 
+ | [ru](/f24/language/ru) | 43 | 43 | 100.0 | /mnt/stockage/packages/f24/libgames-support/po/ru.po | 
+ | [sk](/f24/language/sk) | 43 | 43 | 100.0 | /mnt/stockage/packages/f24/libgames-support/po/sk.po | 
+ | [sl](/f24/language/sl) | 43 | 43 | 100.0 | /mnt/stockage/packages/f24/libgames-support/po/sl.po | 
+ | [sr](/f24/language/sr) | 86 | 86 | 100.0 | /mnt/stockage/packages/f24/libgames-support/po/sr@latin.po/mnt/stockage/packages/f24/libgames-support/po/sr.po | 
+ | [sv](/f24/language/sv) | 43 | 43 | 100.0 | /mnt/stockage/packages/f24/libgames-support/po/sv.po | 
+ | [tr](/f24/language/tr) | 35 | 35 | 100.0 | /mnt/stockage/packages/f24/libgames-support/po/tr.po | 
+ | [uk](/f24/language/uk) | 43 | 43 | 100.0 | /mnt/stockage/packages/f24/libgames-support/po/uk.po | 
+ | [zh_Hant](/f24/language/zh_Hant) | 35 | 35 | 100.0 | /mnt/stockage/packages/f24/libgames-support/po/zh_TW.po | 
+ | [eo](/f24/language/eo) | 41 | 43 | 95.3 | /mnt/stockage/packages/f24/libgames-support/po/eo.po | 
 {.sortable}
 
 

@@ -18,12 +18,12 @@ The package wput (version 0.6.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ru]({{< ref "/f24/language/ru.md" >}}) | 1060 | 1063 | 99.7 | /mnt/stockage/packages/f24/wput/po/ru.po | 
- | [tr]({{< ref "/f24/language/tr.md" >}}) | 1060 | 1063 | 99.7 | /mnt/stockage/packages/f24/wput/po/tr.po | 
- | [zh_Hans]({{< ref "/f24/language/zh_Hans.md" >}}) | 1060 | 1063 | 99.7 | /mnt/stockage/packages/f24/wput/po/zh.po | 
- | [nl]({{< ref "/f24/language/nl.md" >}}) | 1021 | 1063 | 96.0 | /mnt/stockage/packages/f24/wput/po/nl.po | 
- | [de]({{< ref "/f24/language/de.md" >}}) | 1013 | 1063 | 95.3 | /mnt/stockage/packages/f24/wput/po/de.po | 
- | [it]({{< ref "/f24/language/it.md" >}}) | 1007 | 1063 | 94.7 | /mnt/stockage/packages/f24/wput/po/it.po | 
+ | [ru](/f24/language/ru) | 1060 | 1063 | 99.7 | /mnt/stockage/packages/f24/wput/po/ru.po | 
+ | [tr](/f24/language/tr) | 1060 | 1063 | 99.7 | /mnt/stockage/packages/f24/wput/po/tr.po | 
+ | [zh_Hans](/f24/language/zh_Hans) | 1060 | 1063 | 99.7 | /mnt/stockage/packages/f24/wput/po/zh.po | 
+ | [nl](/f24/language/nl) | 1021 | 1063 | 96.0 | /mnt/stockage/packages/f24/wput/po/nl.po | 
+ | [de](/f24/language/de) | 1013 | 1063 | 95.3 | /mnt/stockage/packages/f24/wput/po/de.po | 
+ | [it](/f24/language/it) | 1007 | 1063 | 94.7 | /mnt/stockage/packages/f24/wput/po/it.po | 
 {.sortable}
 
 

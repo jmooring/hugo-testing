@@ -18,11 +18,11 @@ The package photocollage (version 1.4.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [bg]({{< ref "/f29/language/bg.md" >}}) | 46 | 46 | 100.0 | /mnt/stockage/packages/f29/photocollage/po/bg.po | 
- | [cs]({{< ref "/f29/language/cs.md" >}}) | 46 | 46 | 100.0 | /mnt/stockage/packages/f29/photocollage/po/cs.po | 
- | [de]({{< ref "/f29/language/de.md" >}}) | 46 | 46 | 100.0 | /mnt/stockage/packages/f29/photocollage/po/de.po | 
- | [fr]({{< ref "/f29/language/fr.md" >}}) | 46 | 46 | 100.0 | /mnt/stockage/packages/f29/photocollage/po/fr.po | 
- | [it]({{< ref "/f29/language/it.md" >}}) | 46 | 46 | 100.0 | /mnt/stockage/packages/f29/photocollage/po/it.po | 
+ | [bg](/f29/language/bg) | 46 | 46 | 100.0 | /mnt/stockage/packages/f29/photocollage/po/bg.po | 
+ | [cs](/f29/language/cs) | 46 | 46 | 100.0 | /mnt/stockage/packages/f29/photocollage/po/cs.po | 
+ | [de](/f29/language/de) | 46 | 46 | 100.0 | /mnt/stockage/packages/f29/photocollage/po/de.po | 
+ | [fr](/f29/language/fr) | 46 | 46 | 100.0 | /mnt/stockage/packages/f29/photocollage/po/fr.po | 
+ | [it](/f29/language/it) | 46 | 46 | 100.0 | /mnt/stockage/packages/f29/photocollage/po/it.po | 
 {.sortable}
 
 

@@ -38,8 +38,8 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [kmplayer]({{< ref "/f7/package/kmplayer.md" >}}) | 973 | 1251 | 77.8 | Kashubian | 
- | [Miro]({{< ref "/f7/package/Miro.md" >}}) | 69 | 3616 | 1.9 | Kashubian <csb@li.org> | 
+ | [kmplayer](/f7/package/kmplayer) | 973 | 1251 | 77.8 | Kashubian | 
+ | [Miro](/f7/package/Miro) | 69 | 3616 | 1.9 | Kashubian <csb@li.org> | 
 {.sortable}
 
 

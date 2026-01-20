@@ -38,22 +38,22 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [dopewars]({{< ref "/f22/package/dopewars.md" >}}) | 5286 | 5286 | 100.0 | French | 
- | [nemo-extensions]({{< ref "/f22/package/nemo-extensions.md" >}}) | 1 | 1 | 100.0 | French (Canada) <fr_CA@li.org> | 
- | [soundconverter]({{< ref "/f22/package/soundconverter.md" >}}) | 388 | 388 | 100.0 | French (Canada) <fr_CA@li.org> | 
- | [scratch]({{< ref "/f22/package/scratch.md" >}}) | 1467 | 1470 | 99.8 | LANGUAGE <LL@li.org> | 
- | [wicd]({{< ref "/f22/package/wicd.md" >}}) | 1054 | 1138 | 92.6 | fr_CA <LL@li.org> | 
- | [deja-dup]({{< ref "/f22/package/deja-dup.md" >}}) | 1848 | 2011 | 91.9 | French (Canada) <fr_CA@li.org> | 
- | [mintmenu]({{< ref "/f22/package/mintmenu.md" >}}) | 5147 | 5999 | 85.8 | French (Canada) <fr_CA@li.org> | 
- | [cinnamon-translations]({{< ref "/f22/package/cinnamon-translations.md" >}}) | 4365 | 13313 | 32.8 | French (Canada) <fr_CA@li.org> | 
- | [picard]({{< ref "/f22/package/picard.md" >}}) | 157 | 1681 | 9.3 | French (Canada) (http://www.transifex.com/projects/p/musicbrainz/language/fr_CA/) | 
- | [calibre]({{< ref "/f22/package/calibre.md" >}}) | 657 | 147028 | 0.4 | French (Canada) (http://www.transifex.com/calibre/calibre/language/fr_CA/) | 
- | [openerp7]({{< ref "/f22/package/openerp7.md" >}}) | 19 | 22614 | 0.1 | French (Canada) <fr_CA@li.org> | 
- | [openerp]({{< ref "/f22/package/openerp.md" >}}) | 8 | 23203 | 0.0 | French (Canada) <fr_CA@li.org> | 
- | [feedreader]({{< ref "/f22/package/feedreader.md" >}}) | 0 | 0 | 0.0 |  | 
- | [mate-desktop]({{< ref "/f22/package/mate-desktop.md" >}}) | 0 | 2288 | 0.0 | French (Canada) (http://www.transifex.com/projects/p/MATE/language/fr_CA/) | 
- | [pidgin-sipe]({{< ref "/f22/package/pidgin-sipe.md" >}}) | 0 | 1010 | 0.0 | French (Canada) (http://www.transifex.com/stefanb/pidgin-sipe/language/fr_CA/) | 
- | [supertuxkart]({{< ref "/f22/package/supertuxkart.md" >}}) | 0 | 0 | 0.0 |  | 
+ | [dopewars](/f22/package/dopewars) | 5286 | 5286 | 100.0 | French | 
+ | [nemo-extensions](/f22/package/nemo-extensions) | 1 | 1 | 100.0 | French (Canada) <fr_CA@li.org> | 
+ | [soundconverter](/f22/package/soundconverter) | 388 | 388 | 100.0 | French (Canada) <fr_CA@li.org> | 
+ | [scratch](/f22/package/scratch) | 1467 | 1470 | 99.8 | LANGUAGE <LL@li.org> | 
+ | [wicd](/f22/package/wicd) | 1054 | 1138 | 92.6 | fr_CA <LL@li.org> | 
+ | [deja-dup](/f22/package/deja-dup) | 1848 | 2011 | 91.9 | French (Canada) <fr_CA@li.org> | 
+ | [mintmenu](/f22/package/mintmenu) | 5147 | 5999 | 85.8 | French (Canada) <fr_CA@li.org> | 
+ | [cinnamon-translations](/f22/package/cinnamon-translations) | 4365 | 13313 | 32.8 | French (Canada) <fr_CA@li.org> | 
+ | [picard](/f22/package/picard) | 157 | 1681 | 9.3 | French (Canada) (http://www.transifex.com/projects/p/musicbrainz/language/fr_CA/) | 
+ | [calibre](/f22/package/calibre) | 657 | 147028 | 0.4 | French (Canada) (http://www.transifex.com/calibre/calibre/language/fr_CA/) | 
+ | [openerp7](/f22/package/openerp7) | 19 | 22614 | 0.1 | French (Canada) <fr_CA@li.org> | 
+ | [openerp](/f22/package/openerp) | 8 | 23203 | 0.0 | French (Canada) <fr_CA@li.org> | 
+ | [feedreader](/f22/package/feedreader) | 0 | 0 | 0.0 |  | 
+ | [mate-desktop](/f22/package/mate-desktop) | 0 | 2288 | 0.0 | French (Canada) (http://www.transifex.com/projects/p/MATE/language/fr_CA/) | 
+ | [pidgin-sipe](/f22/package/pidgin-sipe) | 0 | 1010 | 0.0 | French (Canada) (http://www.transifex.com/stefanb/pidgin-sipe/language/fr_CA/) | 
+ | [supertuxkart](/f22/package/supertuxkart) | 0 | 0 | 0.0 |  | 
 {.sortable}
 
 
@@ -65,7 +65,7 @@ We use the po metadata to get the language code and the team, but sometimes it f
 
 | Package | Lang from file path/name | polib error | Team |
 |---------|--------------------------|-------------|------|
- | [supertuxkart]({{< ref "/f22/package/supertuxkart.md" >}}) | /mnt/stockage/packages/f22/supertuxkart/data/po/fr_CA.po | error-os |  | 
+ | [supertuxkart](/f22/package/supertuxkart) | /mnt/stockage/packages/f22/supertuxkart/data/po/fr_CA.po | error-os |  | 
 {.sortable}
 
 
@@ -76,7 +76,7 @@ We use the calcstats from translate toolkit to get the translation progress, but
 
 | Package | Lang from file path/name | Team |
 |---------|--------------------------|------|
- | [supertuxkart]({{< ref "/f22/package/supertuxkart.md" >}}) | /mnt/stockage/packages/f22/supertuxkart/data/po/fr_CA.po |  | 
+ | [supertuxkart](/f22/package/supertuxkart) | /mnt/stockage/packages/f22/supertuxkart/data/po/fr_CA.po |  | 
 {.sortable}
 
 

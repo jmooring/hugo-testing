@@ -18,10 +18,10 @@ The package gsequencer (version 6.10.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f38/language/fr.md" >}}) | 450 | 960 | 46.9 | /mnt/stockage/packages/f38/gsequencer/po/fr.po | 
- | [de]({{< ref "/f38/language/de.md" >}}) | 447 | 960 | 46.6 | /mnt/stockage/packages/f38/gsequencer/po/de.po | 
- | [pl]({{< ref "/f38/language/pl.md" >}}) | 434 | 960 | 45.2 | /mnt/stockage/packages/f38/gsequencer/po/pl.po | 
- | [it]({{< ref "/f38/language/it.md" >}}) | 0 | 960 | 0.0 | /mnt/stockage/packages/f38/gsequencer/po/it.po | 
+ | [fr](/f38/language/fr) | 450 | 960 | 46.9 | /mnt/stockage/packages/f38/gsequencer/po/fr.po | 
+ | [de](/f38/language/de) | 447 | 960 | 46.6 | /mnt/stockage/packages/f38/gsequencer/po/de.po | 
+ | [pl](/f38/language/pl) | 434 | 960 | 45.2 | /mnt/stockage/packages/f38/gsequencer/po/pl.po | 
+ | [it](/f38/language/it) | 0 | 960 | 0.0 | /mnt/stockage/packages/f38/gsequencer/po/it.po | 
 {.sortable}
 
 

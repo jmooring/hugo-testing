@@ -18,22 +18,22 @@ The package pidgin-libnotify (version 0.14):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [bg]({{< ref "/f14/language/bg.md" >}}) | 36 | 36 | 100.0 | /mnt/stockage/packages/f14/pidgin-libnotify/po/bg.po | 
- | [de]({{< ref "/f14/language/de.md" >}}) | 39 | 39 | 100.0 | /mnt/stockage/packages/f14/pidgin-libnotify/po/de.po | 
- | [pl]({{< ref "/f14/language/pl.md" >}}) | 36 | 36 | 100.0 | /mnt/stockage/packages/f14/pidgin-libnotify/po/pl.po | 
- | [pt]({{< ref "/f14/language/pt.md" >}}) | 39 | 39 | 100.0 | /mnt/stockage/packages/f14/pidgin-libnotify/po/pt.po | 
- | [ru]({{< ref "/f14/language/ru.md" >}}) | 36 | 36 | 100.0 | /mnt/stockage/packages/f14/pidgin-libnotify/po/ru.po | 
- | [sv]({{< ref "/f14/language/sv.md" >}}) | 36 | 36 | 100.0 | /mnt/stockage/packages/f14/pidgin-libnotify/po/sv.po | 
- | [gl]({{< ref "/f14/language/gl.md" >}}) | 31 | 36 | 86.1 | /mnt/stockage/packages/f14/pidgin-libnotify/po/gl.po | 
- | [hu]({{< ref "/f14/language/hu.md" >}}) | 31 | 36 | 86.1 | /mnt/stockage/packages/f14/pidgin-libnotify/po/hu.po | 
- | [pt_BR]({{< ref "/f14/language/pt_BR.md" >}}) | 31 | 36 | 86.1 | /mnt/stockage/packages/f14/pidgin-libnotify/po/pt_BR.po | 
- | [ro]({{< ref "/f14/language/ro.md" >}}) | 31 | 36 | 86.1 | /mnt/stockage/packages/f14/pidgin-libnotify/po/ro.po | 
- | [sl]({{< ref "/f14/language/sl.md" >}}) | 31 | 36 | 86.1 | /mnt/stockage/packages/f14/pidgin-libnotify/po/sl.po | 
- | [zh_Hans]({{< ref "/f14/language/zh_Hans.md" >}}) | 31 | 36 | 86.1 | /mnt/stockage/packages/f14/pidgin-libnotify/po/zh_CN.po | 
- | [fr]({{< ref "/f14/language/fr.md" >}}) | 25 | 36 | 69.4 | /mnt/stockage/packages/f14/pidgin-libnotify/po/fr.po | 
- | [nl]({{< ref "/f14/language/nl.md" >}}) | 21 | 36 | 58.3 | /mnt/stockage/packages/f14/pidgin-libnotify/po/nl.po | 
- | [it]({{< ref "/f14/language/it.md" >}}) | 20 | 36 | 55.6 | /mnt/stockage/packages/f14/pidgin-libnotify/po/it.po | 
- | [es]({{< ref "/f14/language/es.md" >}}) | 10 | 36 | 27.8 | /mnt/stockage/packages/f14/pidgin-libnotify/po/es.po | 
+ | [bg](/f14/language/bg) | 36 | 36 | 100.0 | /mnt/stockage/packages/f14/pidgin-libnotify/po/bg.po | 
+ | [de](/f14/language/de) | 39 | 39 | 100.0 | /mnt/stockage/packages/f14/pidgin-libnotify/po/de.po | 
+ | [pl](/f14/language/pl) | 36 | 36 | 100.0 | /mnt/stockage/packages/f14/pidgin-libnotify/po/pl.po | 
+ | [pt](/f14/language/pt) | 39 | 39 | 100.0 | /mnt/stockage/packages/f14/pidgin-libnotify/po/pt.po | 
+ | [ru](/f14/language/ru) | 36 | 36 | 100.0 | /mnt/stockage/packages/f14/pidgin-libnotify/po/ru.po | 
+ | [sv](/f14/language/sv) | 36 | 36 | 100.0 | /mnt/stockage/packages/f14/pidgin-libnotify/po/sv.po | 
+ | [gl](/f14/language/gl) | 31 | 36 | 86.1 | /mnt/stockage/packages/f14/pidgin-libnotify/po/gl.po | 
+ | [hu](/f14/language/hu) | 31 | 36 | 86.1 | /mnt/stockage/packages/f14/pidgin-libnotify/po/hu.po | 
+ | [pt_BR](/f14/language/pt_BR) | 31 | 36 | 86.1 | /mnt/stockage/packages/f14/pidgin-libnotify/po/pt_BR.po | 
+ | [ro](/f14/language/ro) | 31 | 36 | 86.1 | /mnt/stockage/packages/f14/pidgin-libnotify/po/ro.po | 
+ | [sl](/f14/language/sl) | 31 | 36 | 86.1 | /mnt/stockage/packages/f14/pidgin-libnotify/po/sl.po | 
+ | [zh_Hans](/f14/language/zh_Hans) | 31 | 36 | 86.1 | /mnt/stockage/packages/f14/pidgin-libnotify/po/zh_CN.po | 
+ | [fr](/f14/language/fr) | 25 | 36 | 69.4 | /mnt/stockage/packages/f14/pidgin-libnotify/po/fr.po | 
+ | [nl](/f14/language/nl) | 21 | 36 | 58.3 | /mnt/stockage/packages/f14/pidgin-libnotify/po/nl.po | 
+ | [it](/f14/language/it) | 20 | 36 | 55.6 | /mnt/stockage/packages/f14/pidgin-libnotify/po/it.po | 
+ | [es](/f14/language/es) | 10 | 36 | 27.8 | /mnt/stockage/packages/f14/pidgin-libnotify/po/es.po | 
 {.sortable}
 
 

@@ -18,24 +18,24 @@ The package ikona (version 1.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f33/language/ca.md" >}}) | 156 | 156 | 100.0 | /mnt/stockage/packages/f33/ikona/po/ca/ikona.po/mnt/stockage/packages/f33/ikona/po/ca/ikonacli.po | 
- | [ca@valencia]({{< ref "/f33/language/ca@valencia.md" >}}) | 156 | 156 | 100.0 | /mnt/stockage/packages/f33/ikona/po/ca@valencia/ikona.po/mnt/stockage/packages/f33/ikona/po/ca@valencia/ikonacli.po | 
- | [es]({{< ref "/f33/language/es.md" >}}) | 156 | 156 | 100.0 | /mnt/stockage/packages/f33/ikona/po/es/ikona.po/mnt/stockage/packages/f33/ikona/po/es/ikonacli.po | 
- | [et]({{< ref "/f33/language/et.md" >}}) | 156 | 156 | 100.0 | /mnt/stockage/packages/f33/ikona/po/et/ikona.po/mnt/stockage/packages/f33/ikona/po/et/ikonacli.po | 
- | [ia]({{< ref "/f33/language/ia.md" >}}) | 156 | 156 | 100.0 | /mnt/stockage/packages/f33/ikona/po/ia/ikona.po/mnt/stockage/packages/f33/ikona/po/ia/ikonacli.po | 
- | [it]({{< ref "/f33/language/it.md" >}}) | 156 | 156 | 100.0 | /mnt/stockage/packages/f33/ikona/po/it/ikona.po/mnt/stockage/packages/f33/ikona/po/it/ikonacli.po | 
- | [nl]({{< ref "/f33/language/nl.md" >}}) | 156 | 156 | 100.0 | /mnt/stockage/packages/f33/ikona/po/nl/ikona.po/mnt/stockage/packages/f33/ikona/po/nl/ikonacli.po | 
- | [nn]({{< ref "/f33/language/nn.md" >}}) | 40 | 40 | 100.0 | /mnt/stockage/packages/f33/ikona/po/nn/ikona.po | 
- | [pt]({{< ref "/f33/language/pt.md" >}}) | 156 | 156 | 100.0 | /mnt/stockage/packages/f33/ikona/po/pt/ikona.po/mnt/stockage/packages/f33/ikona/po/pt/ikonacli.po | 
- | [pt_BR]({{< ref "/f33/language/pt_BR.md" >}}) | 156 | 156 | 100.0 | /mnt/stockage/packages/f33/ikona/po/pt_BR/ikona.po/mnt/stockage/packages/f33/ikona/po/pt_BR/ikonacli.po | 
- | [sv]({{< ref "/f33/language/sv.md" >}}) | 156 | 156 | 100.0 | /mnt/stockage/packages/f33/ikona/po/sv/ikona.po/mnt/stockage/packages/f33/ikona/po/sv/ikonacli.po | 
- | [uk]({{< ref "/f33/language/uk.md" >}}) | 156 | 156 | 100.0 | /mnt/stockage/packages/f33/ikona/po/uk/ikona.po/mnt/stockage/packages/f33/ikona/po/uk/ikonacli.po | 
- | [zh_Hant]({{< ref "/f33/language/zh_Hant.md" >}}) | 135 | 156 | 86.5 | /mnt/stockage/packages/f33/ikona/po/zh_TW/ikona.po/mnt/stockage/packages/f33/ikona/po/zh_TW/ikonacli.po | 
- | [fi]({{< ref "/f33/language/fi.md" >}}) | 15 | 40 | 37.5 | /mnt/stockage/packages/f33/ikona/po/fi/ikona.po | 
- | [cs]({{< ref "/f33/language/cs.md" >}}) | 11 | 40 | 27.5 | /mnt/stockage/packages/f33/ikona/po/cs/ikona.po | 
- | [fr]({{< ref "/f33/language/fr.md" >}}) | 27 | 156 | 17.3 | /mnt/stockage/packages/f33/ikona/po/fr/ikona.po/mnt/stockage/packages/f33/ikona/po/fr/ikonacli.po | 
- | [sk]({{< ref "/f33/language/sk.md" >}}) | 14 | 156 | 9.0 | /mnt/stockage/packages/f33/ikona/po/sk/ikona.po/mnt/stockage/packages/f33/ikona/po/sk/ikonacli.po | 
- | [pl]({{< ref "/f33/language/pl.md" >}}) | 1 | 40 | 2.5 | /mnt/stockage/packages/f33/ikona/po/pl/ikona.po | 
+ | [ca](/f33/language/ca) | 156 | 156 | 100.0 | /mnt/stockage/packages/f33/ikona/po/ca/ikona.po/mnt/stockage/packages/f33/ikona/po/ca/ikonacli.po | 
+ | [ca@valencia](/f33/language/ca@valencia) | 156 | 156 | 100.0 | /mnt/stockage/packages/f33/ikona/po/ca@valencia/ikona.po/mnt/stockage/packages/f33/ikona/po/ca@valencia/ikonacli.po | 
+ | [es](/f33/language/es) | 156 | 156 | 100.0 | /mnt/stockage/packages/f33/ikona/po/es/ikona.po/mnt/stockage/packages/f33/ikona/po/es/ikonacli.po | 
+ | [et](/f33/language/et) | 156 | 156 | 100.0 | /mnt/stockage/packages/f33/ikona/po/et/ikona.po/mnt/stockage/packages/f33/ikona/po/et/ikonacli.po | 
+ | [ia](/f33/language/ia) | 156 | 156 | 100.0 | /mnt/stockage/packages/f33/ikona/po/ia/ikona.po/mnt/stockage/packages/f33/ikona/po/ia/ikonacli.po | 
+ | [it](/f33/language/it) | 156 | 156 | 100.0 | /mnt/stockage/packages/f33/ikona/po/it/ikona.po/mnt/stockage/packages/f33/ikona/po/it/ikonacli.po | 
+ | [nl](/f33/language/nl) | 156 | 156 | 100.0 | /mnt/stockage/packages/f33/ikona/po/nl/ikona.po/mnt/stockage/packages/f33/ikona/po/nl/ikonacli.po | 
+ | [nn](/f33/language/nn) | 40 | 40 | 100.0 | /mnt/stockage/packages/f33/ikona/po/nn/ikona.po | 
+ | [pt](/f33/language/pt) | 156 | 156 | 100.0 | /mnt/stockage/packages/f33/ikona/po/pt/ikona.po/mnt/stockage/packages/f33/ikona/po/pt/ikonacli.po | 
+ | [pt_BR](/f33/language/pt_BR) | 156 | 156 | 100.0 | /mnt/stockage/packages/f33/ikona/po/pt_BR/ikona.po/mnt/stockage/packages/f33/ikona/po/pt_BR/ikonacli.po | 
+ | [sv](/f33/language/sv) | 156 | 156 | 100.0 | /mnt/stockage/packages/f33/ikona/po/sv/ikona.po/mnt/stockage/packages/f33/ikona/po/sv/ikonacli.po | 
+ | [uk](/f33/language/uk) | 156 | 156 | 100.0 | /mnt/stockage/packages/f33/ikona/po/uk/ikona.po/mnt/stockage/packages/f33/ikona/po/uk/ikonacli.po | 
+ | [zh_Hant](/f33/language/zh_Hant) | 135 | 156 | 86.5 | /mnt/stockage/packages/f33/ikona/po/zh_TW/ikona.po/mnt/stockage/packages/f33/ikona/po/zh_TW/ikonacli.po | 
+ | [fi](/f33/language/fi) | 15 | 40 | 37.5 | /mnt/stockage/packages/f33/ikona/po/fi/ikona.po | 
+ | [cs](/f33/language/cs) | 11 | 40 | 27.5 | /mnt/stockage/packages/f33/ikona/po/cs/ikona.po | 
+ | [fr](/f33/language/fr) | 27 | 156 | 17.3 | /mnt/stockage/packages/f33/ikona/po/fr/ikona.po/mnt/stockage/packages/f33/ikona/po/fr/ikonacli.po | 
+ | [sk](/f33/language/sk) | 14 | 156 | 9.0 | /mnt/stockage/packages/f33/ikona/po/sk/ikona.po/mnt/stockage/packages/f33/ikona/po/sk/ikonacli.po | 
+ | [pl](/f33/language/pl) | 1 | 40 | 2.5 | /mnt/stockage/packages/f33/ikona/po/pl/ikona.po | 
 {.sortable}
 
 

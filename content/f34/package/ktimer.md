@@ -18,59 +18,59 @@ The package ktimer (version 20.12.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f34/language/ca.md" >}}) | 258 | 258 | 100.0 | /mnt/stockage/packages/f34/ktimer/po/ca/ktimer.po | 
- | [ca@valencia]({{< ref "/f34/language/ca@valencia.md" >}}) | 258 | 258 | 100.0 | /mnt/stockage/packages/f34/ktimer/po/ca@valencia/ktimer.po | 
- | [da]({{< ref "/f34/language/da.md" >}}) | 258 | 258 | 100.0 | /mnt/stockage/packages/f34/ktimer/po/da/ktimer.po | 
- | [de]({{< ref "/f34/language/de.md" >}}) | 258 | 258 | 100.0 | /mnt/stockage/packages/f34/ktimer/po/de/ktimer.po | 
- | [el]({{< ref "/f34/language/el.md" >}}) | 258 | 258 | 100.0 | /mnt/stockage/packages/f34/ktimer/po/el/ktimer.po | 
- | [en_GB]({{< ref "/f34/language/en_GB.md" >}}) | 258 | 258 | 100.0 | /mnt/stockage/packages/f34/ktimer/po/en_GB/ktimer.po | 
- | [es]({{< ref "/f34/language/es.md" >}}) | 258 | 258 | 100.0 | /mnt/stockage/packages/f34/ktimer/po/es/ktimer.po | 
- | [et]({{< ref "/f34/language/et.md" >}}) | 258 | 258 | 100.0 | /mnt/stockage/packages/f34/ktimer/po/et/ktimer.po | 
- | [eu]({{< ref "/f34/language/eu.md" >}}) | 258 | 258 | 100.0 | /mnt/stockage/packages/f34/ktimer/po/eu/ktimer.po | 
- | [fi]({{< ref "/f34/language/fi.md" >}}) | 258 | 258 | 100.0 | /mnt/stockage/packages/f34/ktimer/po/fi/ktimer.po | 
- | [fr]({{< ref "/f34/language/fr.md" >}}) | 258 | 258 | 100.0 | /mnt/stockage/packages/f34/ktimer/po/fr/ktimer.po | 
- | [gl]({{< ref "/f34/language/gl.md" >}}) | 258 | 258 | 100.0 | /mnt/stockage/packages/f34/ktimer/po/gl/ktimer.po | 
- | [ia]({{< ref "/f34/language/ia.md" >}}) | 258 | 258 | 100.0 | /mnt/stockage/packages/f34/ktimer/po/ia/ktimer.po | 
- | [id]({{< ref "/f34/language/id.md" >}}) | 258 | 258 | 100.0 | /mnt/stockage/packages/f34/ktimer/po/id/ktimer.po | 
- | [it]({{< ref "/f34/language/it.md" >}}) | 258 | 258 | 100.0 | /mnt/stockage/packages/f34/ktimer/po/it/ktimer.po | 
- | [ko]({{< ref "/f34/language/ko.md" >}}) | 258 | 258 | 100.0 | /mnt/stockage/packages/f34/ktimer/po/ko/ktimer.po | 
- | [nl]({{< ref "/f34/language/nl.md" >}}) | 258 | 258 | 100.0 | /mnt/stockage/packages/f34/ktimer/po/nl/ktimer.po | 
- | [nn]({{< ref "/f34/language/nn.md" >}}) | 258 | 258 | 100.0 | /mnt/stockage/packages/f34/ktimer/po/nn/ktimer.po | 
- | [pl]({{< ref "/f34/language/pl.md" >}}) | 258 | 258 | 100.0 | /mnt/stockage/packages/f34/ktimer/po/pl/ktimer.po | 
- | [pt]({{< ref "/f34/language/pt.md" >}}) | 258 | 258 | 100.0 | /mnt/stockage/packages/f34/ktimer/po/pt/ktimer.po | 
- | [pt_BR]({{< ref "/f34/language/pt_BR.md" >}}) | 258 | 258 | 100.0 | /mnt/stockage/packages/f34/ktimer/po/pt_BR/ktimer.po | 
- | [ru]({{< ref "/f34/language/ru.md" >}}) | 258 | 258 | 100.0 | /mnt/stockage/packages/f34/ktimer/po/ru/ktimer.po | 
- | [sk]({{< ref "/f34/language/sk.md" >}}) | 258 | 258 | 100.0 | /mnt/stockage/packages/f34/ktimer/po/sk/ktimer.po | 
- | [sl]({{< ref "/f34/language/sl.md" >}}) | 258 | 258 | 100.0 | /mnt/stockage/packages/f34/ktimer/po/sl/ktimer.po | 
- | [sv]({{< ref "/f34/language/sv.md" >}}) | 258 | 258 | 100.0 | /mnt/stockage/packages/f34/ktimer/po/sv/ktimer.po | 
- | [uk]({{< ref "/f34/language/uk.md" >}}) | 258 | 258 | 100.0 | /mnt/stockage/packages/f34/ktimer/po/uk/ktimer.po | 
- | [zh_Hans]({{< ref "/f34/language/zh_Hans.md" >}}) | 258 | 258 | 100.0 | /mnt/stockage/packages/f34/ktimer/po/zh_CN/ktimer.po | 
- | [zh_Hant]({{< ref "/f34/language/zh_Hant.md" >}}) | 258 | 258 | 100.0 | /mnt/stockage/packages/f34/ktimer/po/zh_TW/ktimer.po | 
- | [ar]({{< ref "/f34/language/ar.md" >}}) | 241 | 258 | 93.4 | /mnt/stockage/packages/f34/ktimer/po/ar/ktimer.po | 
- | [bs]({{< ref "/f34/language/bs.md" >}}) | 241 | 258 | 93.4 | /mnt/stockage/packages/f34/ktimer/po/bs/ktimer.po | 
- | [cs]({{< ref "/f34/language/cs.md" >}}) | 241 | 258 | 93.4 | /mnt/stockage/packages/f34/ktimer/po/cs/ktimer.po | 
- | [ga]({{< ref "/f34/language/ga.md" >}}) | 241 | 258 | 93.4 | /mnt/stockage/packages/f34/ktimer/po/ga/ktimer.po | 
- | [hu]({{< ref "/f34/language/hu.md" >}}) | 241 | 258 | 93.4 | /mnt/stockage/packages/f34/ktimer/po/hu/ktimer.po | 
- | [kk]({{< ref "/f34/language/kk.md" >}}) | 241 | 258 | 93.4 | /mnt/stockage/packages/f34/ktimer/po/kk/ktimer.po | 
- | [km]({{< ref "/f34/language/km.md" >}}) | 241 | 258 | 93.4 | /mnt/stockage/packages/f34/ktimer/po/km/ktimer.po | 
- | [nb_NO]({{< ref "/f34/language/nb_NO.md" >}}) | 241 | 258 | 93.4 | /mnt/stockage/packages/f34/ktimer/po/nb/ktimer.po | 
- | [nds]({{< ref "/f34/language/nds.md" >}}) | 241 | 258 | 93.4 | /mnt/stockage/packages/f34/ktimer/po/nds/ktimer.po | 
- | [sr]({{< ref "/f34/language/sr.md" >}}) | 241 | 258 | 93.4 | /mnt/stockage/packages/f34/ktimer/po/sr/ktimer.po | 
- | [tr]({{< ref "/f34/language/tr.md" >}}) | 241 | 258 | 93.4 | /mnt/stockage/packages/f34/ktimer/po/tr/ktimer.po | 
- | [lv]({{< ref "/f34/language/lv.md" >}}) | 207 | 258 | 80.2 | /mnt/stockage/packages/f34/ktimer/po/lv/ktimer.po | 
- | [bg]({{< ref "/f34/language/bg.md" >}}) | 186 | 258 | 72.1 | /mnt/stockage/packages/f34/ktimer/po/bg/ktimer.po | 
- | [ro]({{< ref "/f34/language/ro.md" >}}) | 86 | 258 | 33.3 | /mnt/stockage/packages/f34/ktimer/po/ro/ktimer.po | 
- | [ja]({{< ref "/f34/language/ja.md" >}}) | 80 | 258 | 31.0 | /mnt/stockage/packages/f34/ktimer/po/ja/ktimer.po | 
- | [lt]({{< ref "/f34/language/lt.md" >}}) | 53 | 258 | 20.5 | /mnt/stockage/packages/f34/ktimer/po/lt/ktimer.po | 
- | [he]({{< ref "/f34/language/he.md" >}}) | 48 | 258 | 18.6 | /mnt/stockage/packages/f34/ktimer/po/he/ktimer.po | 
- | [pa]({{< ref "/f34/language/pa.md" >}}) | 44 | 258 | 17.1 | /mnt/stockage/packages/f34/ktimer/po/pa/ktimer.po | 
- | [hi]({{< ref "/f34/language/hi.md" >}}) | 33 | 258 | 12.8 | /mnt/stockage/packages/f34/ktimer/po/hi/ktimer.po | 
- | [mr]({{< ref "/f34/language/mr.md" >}}) | 31 | 258 | 12.0 | /mnt/stockage/packages/f34/ktimer/po/mr/ktimer.po | 
- | [eo]({{< ref "/f34/language/eo.md" >}}) | 28 | 258 | 10.9 | /mnt/stockage/packages/f34/ktimer/po/eo/ktimer.po | 
- | [ug]({{< ref "/f34/language/ug.md" >}}) | 27 | 258 | 10.5 | /mnt/stockage/packages/f34/ktimer/po/ug/ktimer.po | 
- | [fa]({{< ref "/f34/language/fa.md" >}}) | 24 | 258 | 9.3 | /mnt/stockage/packages/f34/ktimer/po/fa/ktimer.po | 
- | [is]({{< ref "/f34/language/is.md" >}}) | 24 | 258 | 9.3 | /mnt/stockage/packages/f34/ktimer/po/is/ktimer.po | 
- | [hr]({{< ref "/f34/language/hr.md" >}}) | 16 | 258 | 6.2 | /mnt/stockage/packages/f34/ktimer/po/hr/ktimer.po | 
+ | [ca](/f34/language/ca) | 258 | 258 | 100.0 | /mnt/stockage/packages/f34/ktimer/po/ca/ktimer.po | 
+ | [ca@valencia](/f34/language/ca@valencia) | 258 | 258 | 100.0 | /mnt/stockage/packages/f34/ktimer/po/ca@valencia/ktimer.po | 
+ | [da](/f34/language/da) | 258 | 258 | 100.0 | /mnt/stockage/packages/f34/ktimer/po/da/ktimer.po | 
+ | [de](/f34/language/de) | 258 | 258 | 100.0 | /mnt/stockage/packages/f34/ktimer/po/de/ktimer.po | 
+ | [el](/f34/language/el) | 258 | 258 | 100.0 | /mnt/stockage/packages/f34/ktimer/po/el/ktimer.po | 
+ | [en_GB](/f34/language/en_GB) | 258 | 258 | 100.0 | /mnt/stockage/packages/f34/ktimer/po/en_GB/ktimer.po | 
+ | [es](/f34/language/es) | 258 | 258 | 100.0 | /mnt/stockage/packages/f34/ktimer/po/es/ktimer.po | 
+ | [et](/f34/language/et) | 258 | 258 | 100.0 | /mnt/stockage/packages/f34/ktimer/po/et/ktimer.po | 
+ | [eu](/f34/language/eu) | 258 | 258 | 100.0 | /mnt/stockage/packages/f34/ktimer/po/eu/ktimer.po | 
+ | [fi](/f34/language/fi) | 258 | 258 | 100.0 | /mnt/stockage/packages/f34/ktimer/po/fi/ktimer.po | 
+ | [fr](/f34/language/fr) | 258 | 258 | 100.0 | /mnt/stockage/packages/f34/ktimer/po/fr/ktimer.po | 
+ | [gl](/f34/language/gl) | 258 | 258 | 100.0 | /mnt/stockage/packages/f34/ktimer/po/gl/ktimer.po | 
+ | [ia](/f34/language/ia) | 258 | 258 | 100.0 | /mnt/stockage/packages/f34/ktimer/po/ia/ktimer.po | 
+ | [id](/f34/language/id) | 258 | 258 | 100.0 | /mnt/stockage/packages/f34/ktimer/po/id/ktimer.po | 
+ | [it](/f34/language/it) | 258 | 258 | 100.0 | /mnt/stockage/packages/f34/ktimer/po/it/ktimer.po | 
+ | [ko](/f34/language/ko) | 258 | 258 | 100.0 | /mnt/stockage/packages/f34/ktimer/po/ko/ktimer.po | 
+ | [nl](/f34/language/nl) | 258 | 258 | 100.0 | /mnt/stockage/packages/f34/ktimer/po/nl/ktimer.po | 
+ | [nn](/f34/language/nn) | 258 | 258 | 100.0 | /mnt/stockage/packages/f34/ktimer/po/nn/ktimer.po | 
+ | [pl](/f34/language/pl) | 258 | 258 | 100.0 | /mnt/stockage/packages/f34/ktimer/po/pl/ktimer.po | 
+ | [pt](/f34/language/pt) | 258 | 258 | 100.0 | /mnt/stockage/packages/f34/ktimer/po/pt/ktimer.po | 
+ | [pt_BR](/f34/language/pt_BR) | 258 | 258 | 100.0 | /mnt/stockage/packages/f34/ktimer/po/pt_BR/ktimer.po | 
+ | [ru](/f34/language/ru) | 258 | 258 | 100.0 | /mnt/stockage/packages/f34/ktimer/po/ru/ktimer.po | 
+ | [sk](/f34/language/sk) | 258 | 258 | 100.0 | /mnt/stockage/packages/f34/ktimer/po/sk/ktimer.po | 
+ | [sl](/f34/language/sl) | 258 | 258 | 100.0 | /mnt/stockage/packages/f34/ktimer/po/sl/ktimer.po | 
+ | [sv](/f34/language/sv) | 258 | 258 | 100.0 | /mnt/stockage/packages/f34/ktimer/po/sv/ktimer.po | 
+ | [uk](/f34/language/uk) | 258 | 258 | 100.0 | /mnt/stockage/packages/f34/ktimer/po/uk/ktimer.po | 
+ | [zh_Hans](/f34/language/zh_Hans) | 258 | 258 | 100.0 | /mnt/stockage/packages/f34/ktimer/po/zh_CN/ktimer.po | 
+ | [zh_Hant](/f34/language/zh_Hant) | 258 | 258 | 100.0 | /mnt/stockage/packages/f34/ktimer/po/zh_TW/ktimer.po | 
+ | [ar](/f34/language/ar) | 241 | 258 | 93.4 | /mnt/stockage/packages/f34/ktimer/po/ar/ktimer.po | 
+ | [bs](/f34/language/bs) | 241 | 258 | 93.4 | /mnt/stockage/packages/f34/ktimer/po/bs/ktimer.po | 
+ | [cs](/f34/language/cs) | 241 | 258 | 93.4 | /mnt/stockage/packages/f34/ktimer/po/cs/ktimer.po | 
+ | [ga](/f34/language/ga) | 241 | 258 | 93.4 | /mnt/stockage/packages/f34/ktimer/po/ga/ktimer.po | 
+ | [hu](/f34/language/hu) | 241 | 258 | 93.4 | /mnt/stockage/packages/f34/ktimer/po/hu/ktimer.po | 
+ | [kk](/f34/language/kk) | 241 | 258 | 93.4 | /mnt/stockage/packages/f34/ktimer/po/kk/ktimer.po | 
+ | [km](/f34/language/km) | 241 | 258 | 93.4 | /mnt/stockage/packages/f34/ktimer/po/km/ktimer.po | 
+ | [nb_NO](/f34/language/nb_NO) | 241 | 258 | 93.4 | /mnt/stockage/packages/f34/ktimer/po/nb/ktimer.po | 
+ | [nds](/f34/language/nds) | 241 | 258 | 93.4 | /mnt/stockage/packages/f34/ktimer/po/nds/ktimer.po | 
+ | [sr](/f34/language/sr) | 241 | 258 | 93.4 | /mnt/stockage/packages/f34/ktimer/po/sr/ktimer.po | 
+ | [tr](/f34/language/tr) | 241 | 258 | 93.4 | /mnt/stockage/packages/f34/ktimer/po/tr/ktimer.po | 
+ | [lv](/f34/language/lv) | 207 | 258 | 80.2 | /mnt/stockage/packages/f34/ktimer/po/lv/ktimer.po | 
+ | [bg](/f34/language/bg) | 186 | 258 | 72.1 | /mnt/stockage/packages/f34/ktimer/po/bg/ktimer.po | 
+ | [ro](/f34/language/ro) | 86 | 258 | 33.3 | /mnt/stockage/packages/f34/ktimer/po/ro/ktimer.po | 
+ | [ja](/f34/language/ja) | 80 | 258 | 31.0 | /mnt/stockage/packages/f34/ktimer/po/ja/ktimer.po | 
+ | [lt](/f34/language/lt) | 53 | 258 | 20.5 | /mnt/stockage/packages/f34/ktimer/po/lt/ktimer.po | 
+ | [he](/f34/language/he) | 48 | 258 | 18.6 | /mnt/stockage/packages/f34/ktimer/po/he/ktimer.po | 
+ | [pa](/f34/language/pa) | 44 | 258 | 17.1 | /mnt/stockage/packages/f34/ktimer/po/pa/ktimer.po | 
+ | [hi](/f34/language/hi) | 33 | 258 | 12.8 | /mnt/stockage/packages/f34/ktimer/po/hi/ktimer.po | 
+ | [mr](/f34/language/mr) | 31 | 258 | 12.0 | /mnt/stockage/packages/f34/ktimer/po/mr/ktimer.po | 
+ | [eo](/f34/language/eo) | 28 | 258 | 10.9 | /mnt/stockage/packages/f34/ktimer/po/eo/ktimer.po | 
+ | [ug](/f34/language/ug) | 27 | 258 | 10.5 | /mnt/stockage/packages/f34/ktimer/po/ug/ktimer.po | 
+ | [fa](/f34/language/fa) | 24 | 258 | 9.3 | /mnt/stockage/packages/f34/ktimer/po/fa/ktimer.po | 
+ | [is](/f34/language/is) | 24 | 258 | 9.3 | /mnt/stockage/packages/f34/ktimer/po/is/ktimer.po | 
+ | [hr](/f34/language/hr) | 16 | 258 | 6.2 | /mnt/stockage/packages/f34/ktimer/po/hr/ktimer.po | 
 {.sortable}
 
 

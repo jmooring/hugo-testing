@@ -18,14 +18,14 @@ The package vdradmin-am (version 3.6.9):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f17/language/de.md" >}}) | 4200 | 4200 | 100.0 | /mnt/stockage/packages/f17/vdradmin-am/po/de.po | 
- | [it]({{< ref "/f17/language/it.md" >}}) | 4150 | 4200 | 98.8 | /mnt/stockage/packages/f17/vdradmin-am/po/it.po | 
- | [nl]({{< ref "/f17/language/nl.md" >}}) | 4144 | 4200 | 98.7 | /mnt/stockage/packages/f17/vdradmin-am/po/nl.po | 
- | [es]({{< ref "/f17/language/es.md" >}}) | 4129 | 4200 | 98.3 | /mnt/stockage/packages/f17/vdradmin-am/po/es.po | 
- | [fr]({{< ref "/f17/language/fr.md" >}}) | 3974 | 4200 | 94.6 | /mnt/stockage/packages/f17/vdradmin-am/po/fr.po | 
- | [ru]({{< ref "/f17/language/ru.md" >}}) | 3618 | 4200 | 86.1 | /mnt/stockage/packages/f17/vdradmin-am/po/ru.po | 
- | [fi]({{< ref "/f17/language/fi.md" >}}) | 2288 | 4200 | 54.5 | /mnt/stockage/packages/f17/vdradmin-am/po/fi.po | 
- | [cs]({{< ref "/f17/language/cs.md" >}}) | 1647 | 4200 | 39.2 | /mnt/stockage/packages/f17/vdradmin-am/po/cs.po | 
+ | [de](/f17/language/de) | 4200 | 4200 | 100.0 | /mnt/stockage/packages/f17/vdradmin-am/po/de.po | 
+ | [it](/f17/language/it) | 4150 | 4200 | 98.8 | /mnt/stockage/packages/f17/vdradmin-am/po/it.po | 
+ | [nl](/f17/language/nl) | 4144 | 4200 | 98.7 | /mnt/stockage/packages/f17/vdradmin-am/po/nl.po | 
+ | [es](/f17/language/es) | 4129 | 4200 | 98.3 | /mnt/stockage/packages/f17/vdradmin-am/po/es.po | 
+ | [fr](/f17/language/fr) | 3974 | 4200 | 94.6 | /mnt/stockage/packages/f17/vdradmin-am/po/fr.po | 
+ | [ru](/f17/language/ru) | 3618 | 4200 | 86.1 | /mnt/stockage/packages/f17/vdradmin-am/po/ru.po | 
+ | [fi](/f17/language/fi) | 2288 | 4200 | 54.5 | /mnt/stockage/packages/f17/vdradmin-am/po/fi.po | 
+ | [cs](/f17/language/cs) | 1647 | 4200 | 39.2 | /mnt/stockage/packages/f17/vdradmin-am/po/cs.po | 
 {.sortable}
 
 

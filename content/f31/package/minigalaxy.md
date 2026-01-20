@@ -18,15 +18,15 @@ The package minigalaxy (version 0.9.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f31/language/fr.md" >}}) | 212 | 212 | 100.0 | /mnt/stockage/packages/f31/minigalaxy/data/po/fr.po | 
- | [nb_NO]({{< ref "/f31/language/nb_NO.md" >}}) | 424 | 424 | 100.0 | /mnt/stockage/packages/f31/minigalaxy/data/po/nn_NO.po/mnt/stockage/packages/f31/minigalaxy/data/po/nb_NO.po | 
- | [pl]({{< ref "/f31/language/pl.md" >}}) | 212 | 212 | 100.0 | /mnt/stockage/packages/f31/minigalaxy/data/po/pl.po | 
- | [pt_BR]({{< ref "/f31/language/pt_BR.md" >}}) | 212 | 212 | 100.0 | /mnt/stockage/packages/f31/minigalaxy/data/po/pt_BR.po | 
- | [ru]({{< ref "/f31/language/ru.md" >}}) | 212 | 212 | 100.0 | /mnt/stockage/packages/f31/minigalaxy/data/po/ru_RU.po | 
- | [tr]({{< ref "/f31/language/tr.md" >}}) | 212 | 212 | 100.0 | /mnt/stockage/packages/f31/minigalaxy/data/po/tr.po | 
- | [zh_Hant]({{< ref "/f31/language/zh_Hant.md" >}}) | 212 | 212 | 100.0 | /mnt/stockage/packages/f31/minigalaxy/data/po/zh_TW.po | 
- | [de]({{< ref "/f31/language/de.md" >}}) | 209 | 212 | 98.6 | /mnt/stockage/packages/f31/minigalaxy/data/po/de.po | 
- | [nl]({{< ref "/f31/language/nl.md" >}}) | 209 | 212 | 98.6 | /mnt/stockage/packages/f31/minigalaxy/data/po/nl.po | 
+ | [fr](/f31/language/fr) | 212 | 212 | 100.0 | /mnt/stockage/packages/f31/minigalaxy/data/po/fr.po | 
+ | [nb_NO](/f31/language/nb_NO) | 424 | 424 | 100.0 | /mnt/stockage/packages/f31/minigalaxy/data/po/nn_NO.po/mnt/stockage/packages/f31/minigalaxy/data/po/nb_NO.po | 
+ | [pl](/f31/language/pl) | 212 | 212 | 100.0 | /mnt/stockage/packages/f31/minigalaxy/data/po/pl.po | 
+ | [pt_BR](/f31/language/pt_BR) | 212 | 212 | 100.0 | /mnt/stockage/packages/f31/minigalaxy/data/po/pt_BR.po | 
+ | [ru](/f31/language/ru) | 212 | 212 | 100.0 | /mnt/stockage/packages/f31/minigalaxy/data/po/ru_RU.po | 
+ | [tr](/f31/language/tr) | 212 | 212 | 100.0 | /mnt/stockage/packages/f31/minigalaxy/data/po/tr.po | 
+ | [zh_Hant](/f31/language/zh_Hant) | 212 | 212 | 100.0 | /mnt/stockage/packages/f31/minigalaxy/data/po/zh_TW.po | 
+ | [de](/f31/language/de) | 209 | 212 | 98.6 | /mnt/stockage/packages/f31/minigalaxy/data/po/de.po | 
+ | [nl](/f31/language/nl) | 209 | 212 | 98.6 | /mnt/stockage/packages/f31/minigalaxy/data/po/nl.po | 
 {.sortable}
 
 

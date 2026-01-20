@@ -18,21 +18,21 @@ The package labyrinth (version 0.6):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f27/language/de.md" >}}) | 226 | 226 | 100.0 | /mnt/stockage/packages/f27/labyrinth/po/de.po/mnt/stockage/packages/f27/labyrinth/help/de/de.po | 
- | [pt_BR]({{< ref "/f27/language/pt_BR.md" >}}) | 226 | 226 | 100.0 | /mnt/stockage/packages/f27/labyrinth/po/pt_BR.po | 
- | [zh_Hans]({{< ref "/f27/language/zh_Hans.md" >}}) | 218 | 226 | 96.5 | /mnt/stockage/packages/f27/labyrinth/po/zh_CN.po | 
- | [it]({{< ref "/f27/language/it.md" >}}) | 215 | 226 | 95.1 | /mnt/stockage/packages/f27/labyrinth/po/it.po | 
- | [fr]({{< ref "/f27/language/fr.md" >}}) | 197 | 226 | 87.2 | /mnt/stockage/packages/f27/labyrinth/po/fr.po | 
- | [es]({{< ref "/f27/language/es.md" >}}) | 143 | 226 | 63.3 | /mnt/stockage/packages/f27/labyrinth/po/es.po | 
- | [ca]({{< ref "/f27/language/ca.md" >}}) | 94 | 226 | 41.6 | /mnt/stockage/packages/f27/labyrinth/po/ca.po | 
- | [cs]({{< ref "/f27/language/cs.md" >}}) | 94 | 226 | 41.6 | /mnt/stockage/packages/f27/labyrinth/po/cs.po | 
- | [eu]({{< ref "/f27/language/eu.md" >}}) | 94 | 226 | 41.6 | /mnt/stockage/packages/f27/labyrinth/po/eu.po | 
- | [fa]({{< ref "/f27/language/fa.md" >}}) | 94 | 226 | 41.6 | /mnt/stockage/packages/f27/labyrinth/po/fa.po | 
- | [ru]({{< ref "/f27/language/ru.md" >}}) | 94 | 226 | 41.6 | /mnt/stockage/packages/f27/labyrinth/po/ru.po | 
- | [sv]({{< ref "/f27/language/sv.md" >}}) | 94 | 226 | 41.6 | /mnt/stockage/packages/f27/labyrinth/po/sv.po | 
- | [nl]({{< ref "/f27/language/nl.md" >}}) | 89 | 226 | 39.4 | /mnt/stockage/packages/f27/labyrinth/po/nl.po | 
- | [pt_PT]({{< ref "/f27/language/pt_PT.md" >}}) | 84 | 226 | 37.2 | /mnt/stockage/packages/f27/labyrinth/po/pt_PT.po | 
- | [pl]({{< ref "/f27/language/pl.md" >}}) | 57 | 226 | 25.2 | /mnt/stockage/packages/f27/labyrinth/po/pl.po | 
+ | [de](/f27/language/de) | 226 | 226 | 100.0 | /mnt/stockage/packages/f27/labyrinth/po/de.po/mnt/stockage/packages/f27/labyrinth/help/de/de.po | 
+ | [pt_BR](/f27/language/pt_BR) | 226 | 226 | 100.0 | /mnt/stockage/packages/f27/labyrinth/po/pt_BR.po | 
+ | [zh_Hans](/f27/language/zh_Hans) | 218 | 226 | 96.5 | /mnt/stockage/packages/f27/labyrinth/po/zh_CN.po | 
+ | [it](/f27/language/it) | 215 | 226 | 95.1 | /mnt/stockage/packages/f27/labyrinth/po/it.po | 
+ | [fr](/f27/language/fr) | 197 | 226 | 87.2 | /mnt/stockage/packages/f27/labyrinth/po/fr.po | 
+ | [es](/f27/language/es) | 143 | 226 | 63.3 | /mnt/stockage/packages/f27/labyrinth/po/es.po | 
+ | [ca](/f27/language/ca) | 94 | 226 | 41.6 | /mnt/stockage/packages/f27/labyrinth/po/ca.po | 
+ | [cs](/f27/language/cs) | 94 | 226 | 41.6 | /mnt/stockage/packages/f27/labyrinth/po/cs.po | 
+ | [eu](/f27/language/eu) | 94 | 226 | 41.6 | /mnt/stockage/packages/f27/labyrinth/po/eu.po | 
+ | [fa](/f27/language/fa) | 94 | 226 | 41.6 | /mnt/stockage/packages/f27/labyrinth/po/fa.po | 
+ | [ru](/f27/language/ru) | 94 | 226 | 41.6 | /mnt/stockage/packages/f27/labyrinth/po/ru.po | 
+ | [sv](/f27/language/sv) | 94 | 226 | 41.6 | /mnt/stockage/packages/f27/labyrinth/po/sv.po | 
+ | [nl](/f27/language/nl) | 89 | 226 | 39.4 | /mnt/stockage/packages/f27/labyrinth/po/nl.po | 
+ | [pt_PT](/f27/language/pt_PT) | 84 | 226 | 37.2 | /mnt/stockage/packages/f27/labyrinth/po/pt_PT.po | 
+ | [pl](/f27/language/pl) | 57 | 226 | 25.2 | /mnt/stockage/packages/f27/labyrinth/po/pl.po | 
 {.sortable}
 
 

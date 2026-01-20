@@ -18,12 +18,12 @@ The package fcitx (version 4.2.8.6):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [zh_Hans]({{< ref "/f21/language/zh_Hans.md" >}}) | 3347 | 3347 | 100.0 | /mnt/stockage/packages/f21/fcitx/po/zh_CN.po | 
- | [de]({{< ref "/f21/language/de.md" >}}) | 3179 | 3347 | 95.0 | /mnt/stockage/packages/f21/fcitx/po/de.po | 
- | [ja]({{< ref "/f21/language/ja.md" >}}) | 2889 | 3347 | 86.3 | /mnt/stockage/packages/f21/fcitx/po/ja.po | 
- | [zh_Hant]({{< ref "/f21/language/zh_Hant.md" >}}) | 2585 | 3347 | 77.2 | /mnt/stockage/packages/f21/fcitx/po/zh_TW.po | 
- | [ko]({{< ref "/f21/language/ko.md" >}}) | 1225 | 3347 | 36.6 | /mnt/stockage/packages/f21/fcitx/po/ko.po | 
- | [es]({{< ref "/f21/language/es.md" >}}) | 188 | 3347 | 5.6 | /mnt/stockage/packages/f21/fcitx/po/es.po | 
+ | [zh_Hans](/f21/language/zh_Hans) | 3347 | 3347 | 100.0 | /mnt/stockage/packages/f21/fcitx/po/zh_CN.po | 
+ | [de](/f21/language/de) | 3179 | 3347 | 95.0 | /mnt/stockage/packages/f21/fcitx/po/de.po | 
+ | [ja](/f21/language/ja) | 2889 | 3347 | 86.3 | /mnt/stockage/packages/f21/fcitx/po/ja.po | 
+ | [zh_Hant](/f21/language/zh_Hant) | 2585 | 3347 | 77.2 | /mnt/stockage/packages/f21/fcitx/po/zh_TW.po | 
+ | [ko](/f21/language/ko) | 1225 | 3347 | 36.6 | /mnt/stockage/packages/f21/fcitx/po/ko.po | 
+ | [es](/f21/language/es) | 188 | 3347 | 5.6 | /mnt/stockage/packages/f21/fcitx/po/es.po | 
 {.sortable}
 
 

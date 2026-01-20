@@ -18,18 +18,18 @@ The package cryptsetup (version 1.6.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f19/language/cs.md" >}}) | 2346 | 2346 | 100.0 | /mnt/stockage/packages/f19/cryptsetup/po/cs.po | 
- | [de]({{< ref "/f19/language/de.md" >}}) | 2346 | 2346 | 100.0 | /mnt/stockage/packages/f19/cryptsetup/po/de.po | 
- | [fr]({{< ref "/f19/language/fr.md" >}}) | 2346 | 2346 | 100.0 | /mnt/stockage/packages/f19/cryptsetup/po/fr.po | 
- | [pl]({{< ref "/f19/language/pl.md" >}}) | 2346 | 2346 | 100.0 | /mnt/stockage/packages/f19/cryptsetup/po/pl.po | 
- | [uk]({{< ref "/f19/language/uk.md" >}}) | 2346 | 2346 | 100.0 | /mnt/stockage/packages/f19/cryptsetup/po/uk.po | 
- | [vi]({{< ref "/f19/language/vi.md" >}}) | 2346 | 2346 | 100.0 | /mnt/stockage/packages/f19/cryptsetup/po/vi.po | 
- | [es]({{< ref "/f19/language/es.md" >}}) | 2294 | 2346 | 97.8 | /mnt/stockage/packages/f19/cryptsetup/po/es.po | 
- | [fi]({{< ref "/f19/language/fi.md" >}}) | 2294 | 2346 | 97.8 | /mnt/stockage/packages/f19/cryptsetup/po/fi.po | 
- | [it]({{< ref "/f19/language/it.md" >}}) | 2294 | 2346 | 97.8 | /mnt/stockage/packages/f19/cryptsetup/po/it.po | 
- | [nl]({{< ref "/f19/language/nl.md" >}}) | 2294 | 2346 | 97.8 | /mnt/stockage/packages/f19/cryptsetup/po/nl.po | 
- | [id]({{< ref "/f19/language/id.md" >}}) | 703 | 2346 | 30.0 | /mnt/stockage/packages/f19/cryptsetup/po/id.po | 
- | [sv]({{< ref "/f19/language/sv.md" >}}) | 703 | 2346 | 30.0 | /mnt/stockage/packages/f19/cryptsetup/po/sv.po | 
+ | [cs](/f19/language/cs) | 2346 | 2346 | 100.0 | /mnt/stockage/packages/f19/cryptsetup/po/cs.po | 
+ | [de](/f19/language/de) | 2346 | 2346 | 100.0 | /mnt/stockage/packages/f19/cryptsetup/po/de.po | 
+ | [fr](/f19/language/fr) | 2346 | 2346 | 100.0 | /mnt/stockage/packages/f19/cryptsetup/po/fr.po | 
+ | [pl](/f19/language/pl) | 2346 | 2346 | 100.0 | /mnt/stockage/packages/f19/cryptsetup/po/pl.po | 
+ | [uk](/f19/language/uk) | 2346 | 2346 | 100.0 | /mnt/stockage/packages/f19/cryptsetup/po/uk.po | 
+ | [vi](/f19/language/vi) | 2346 | 2346 | 100.0 | /mnt/stockage/packages/f19/cryptsetup/po/vi.po | 
+ | [es](/f19/language/es) | 2294 | 2346 | 97.8 | /mnt/stockage/packages/f19/cryptsetup/po/es.po | 
+ | [fi](/f19/language/fi) | 2294 | 2346 | 97.8 | /mnt/stockage/packages/f19/cryptsetup/po/fi.po | 
+ | [it](/f19/language/it) | 2294 | 2346 | 97.8 | /mnt/stockage/packages/f19/cryptsetup/po/it.po | 
+ | [nl](/f19/language/nl) | 2294 | 2346 | 97.8 | /mnt/stockage/packages/f19/cryptsetup/po/nl.po | 
+ | [id](/f19/language/id) | 703 | 2346 | 30.0 | /mnt/stockage/packages/f19/cryptsetup/po/id.po | 
+ | [sv](/f19/language/sv) | 703 | 2346 | 30.0 | /mnt/stockage/packages/f19/cryptsetup/po/sv.po | 
 {.sortable}
 
 

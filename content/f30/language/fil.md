@@ -41,71 +41,71 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [olpc-switch-desktop]({{< ref "/f30/package/olpc-switch-desktop.md" >}}) | 158 | 158 | 100.0 | LANGUAGE <LL@li.org> | 
- | [sugar-toolkit]({{< ref "/f30/package/sugar-toolkit.md" >}}) | 70 | 73 | 95.9 | LANGUAGE <LL@li.org> | 
- | [arduino]({{< ref "/f30/package/arduino.md" >}}) | 1259 | 3093 | 40.7 | Filipino (http://www.transifex.com/mbanzi/arduino-ide-15/language/fil/) | 
- | [slick-greeter]({{< ref "/f30/package/slick-greeter.md" >}}) | 41 | 211 | 19.4 | Filipino <fil@li.org> | 
- | [blueberry]({{< ref "/f30/package/blueberry.md" >}}) | 24 | 148 | 16.2 | Filipino <fil@li.org> | 
- | [dnf]({{< ref "/f30/package/dnf.md" >}}) | 512 | 3887 | 13.2 | Filipino | 
- | [cinnamon-translations]({{< ref "/f30/package/cinnamon-translations.md" >}}) | 2203 | 17519 | 12.6 | Filipino <fil@li.org> | 
- | [nemo-extensions]({{< ref "/f30/package/nemo-extensions.md" >}}) | 1 | 8 | 12.5 | Filipino <fil@li.org> | 
- | [transmission]({{< ref "/f30/package/transmission.md" >}}) | 176 | 1809 | 9.7 | Filipino <fil@li.org> | 
- | [anaconda]({{< ref "/f30/package/anaconda.md" >}}) | 647 | 7811 | 8.3 | Filipino | 
- | [fragments]({{< ref "/f30/package/fragments.md" >}}) | 164 | 2006 | 8.2 | Filipino (https://www.transifex.com/transmissionbt/teams/33778/fil/) | 
- | [mate-panel]({{< ref "/f30/package/mate-panel.md" >}}) | 64 | 942 | 6.8 | Filipino (https://www.transifex.com/mate/teams/13566/fil/) | 
- | [mate-applets]({{< ref "/f30/package/mate-applets.md" >}}) | 191 | 2860 | 6.7 | Filipino (https://www.transifex.com/mate/teams/13566/fil/) | 
- | [pinta]({{< ref "/f30/package/pinta.md" >}}) | 100 | 1618 | 6.2 | Filipino <fil@li.org> | 
- | [sugar-record]({{< ref "/f30/package/sugar-record.md" >}}) | 3 | 62 | 4.8 | LANGUAGE <LL@li.org> | 
- | [mate-utils]({{< ref "/f30/package/mate-utils.md" >}}) | 64 | 1953 | 3.3 | Filipino (https://www.transifex.com/mate/teams/13566/fil/) | 
- | [sugar-fototoon]({{< ref "/f30/package/sugar-fototoon.md" >}}) | 3 | 121 | 2.5 | LANGUAGE <LL@li.org> | 
- | [calibre]({{< ref "/f30/package/calibre.md" >}}) | 3350 | 159002 | 2.1 | Filipino (http://www.transifex.com/calibre/calibre/language/fil/) | 
- | [sugar-pippy]({{< ref "/f30/package/sugar-pippy.md" >}}) | 5 | 274 | 1.8 | LANGUAGE <LL@li.org> | 
- | [sugar-speak]({{< ref "/f30/package/sugar-speak.md" >}}) | 3 | 227 | 1.3 | LANGUAGE <LL@li.org> | 
- | [deepin-terminal]({{< ref "/f30/package/deepin-terminal.md" >}}) | 5 | 427 | 1.2 | Filipino (https://www.transifex.com/linuxdeepin/teams/3976/fil/) | 
- | [mate-menus]({{< ref "/f30/package/mate-menus.md" >}}) | 1 | 97 | 1.0 | Filipino (https://www.transifex.com/mate/teams/13566/fil/) | 
- | [rpm-ostree]({{< ref "/f30/package/rpm-ostree.md" >}}) | 8 | 1023 | 0.8 | Filipino | 
- | [libdnf]({{< ref "/f30/package/libdnf.md" >}}) | 8 | 1124 | 0.7 | Filipino | 
- | [godot]({{< ref "/f30/package/godot.md" >}}) | 18 | 9616 | 0.2 | Filipino <https://hosted.weblate.org/projects/godot-engine/godot/fil/> | 
- | [policycoreutils]({{< ref "/f30/package/policycoreutils.md" >}}) | 6 | 4493 | 0.1 | Filipino | 
- | [onboard]({{< ref "/f30/package/onboard.md" >}}) | 2 | 2318 | 0.1 | Filipino <fil@li.org> | 
- | [elementary-greeter]({{< ref "/f30/package/elementary-greeter.md" >}}) | 0 | 76 | 0.0 | Filipino <fil@li.org> | 
- | [libmatekbd]({{< ref "/f30/package/libmatekbd.md" >}}) | 0 | 251 | 0.0 | Filipino (http://www.transifex.com/mate/MATE/language/fil/) | 
- | [libvirt]({{< ref "/f30/package/libvirt.md" >}}) | 0 | 64065 | 0.0 | Filipino | 
- | [mate-themes]({{< ref "/f30/package/mate-themes.md" >}}) | 0 | 70 | 0.0 | Filipino (http://www.transifex.com/mate/MATE/language/fil/) | 
- | [mingw-libvirt]({{< ref "/f30/package/mingw-libvirt.md" >}}) | 0 | 63828 | 0.0 | Filipino | 
- | [pyhoca-gui]({{< ref "/f30/package/pyhoca-gui.md" >}}) | 0 | 1865 | 0.0 | none | 
- | [sugar-abacus]({{< ref "/f30/package/sugar-abacus.md" >}}) | 0 | 28 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-calculator]({{< ref "/f30/package/sugar-calculator.md" >}}) | 0 | 871 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-deducto]({{< ref "/f30/package/sugar-deducto.md" >}}) | 0 | 109 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-distance]({{< ref "/f30/package/sugar-distance.md" >}}) | 0 | 99 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-finance]({{< ref "/f30/package/sugar-finance.md" >}}) | 0 | 258 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-fractionbounce]({{< ref "/f30/package/sugar-fractionbounce.md" >}}) | 0 | 68 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-imageviewer]({{< ref "/f30/package/sugar-imageviewer.md" >}}) | 0 | 58 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-implode]({{< ref "/f30/package/sugar-implode.md" >}}) | 0 | 77 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-infoslicer]({{< ref "/f30/package/sugar-infoslicer.md" >}}) | 0 | 236 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-jukebox]({{< ref "/f30/package/sugar-jukebox.md" >}}) | 0 | 69 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-labyrinth]({{< ref "/f30/package/sugar-labyrinth.md" >}}) | 0 | 281 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-maze]({{< ref "/f30/package/sugar-maze.md" >}}) | 0 | 7 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-memorize]({{< ref "/f30/package/sugar-memorize.md" >}}) | 0 | 142 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-paint]({{< ref "/f30/package/sugar-paint.md" >}}) | 0 | 106 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-physics]({{< ref "/f30/package/sugar-physics.md" >}}) | 0 | 48 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-ruler]({{< ref "/f30/package/sugar-ruler.md" >}}) | 0 | 29 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-stopwatch]({{< ref "/f30/package/sugar-stopwatch.md" >}}) | 0 | 5 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-typing-turtle]({{< ref "/f30/package/sugar-typing-turtle.md" >}}) | 0 | 599 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-visualmatch]({{< ref "/f30/package/sugar-visualmatch.md" >}}) | 0 | 158 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-words]({{< ref "/f30/package/sugar-words.md" >}}) | 0 | 3 | 0.0 | LANGUAGE <LL@li.org> | 
- | [visualboyadvance-m]({{< ref "/f30/package/visualboyadvance-m.md" >}}) | 0 | 2393 | 0.0 | Filipino (http://www.transifex.com/bgk/vba-m/language/fil/) | 
- | [wingpanel]({{< ref "/f30/package/wingpanel.md" >}}) | 0 | 19 | 0.0 | none | 
- | [wingpanel-applications-menu]({{< ref "/f30/package/wingpanel-applications-menu.md" >}}) | 0 | 261 | 0.0 | none | 
- | [wingpanel-indicator-bluetooth]({{< ref "/f30/package/wingpanel-indicator-bluetooth.md" >}}) | 0 | 27 | 0.0 | none | 
- | [wingpanel-indicator-datetime]({{< ref "/f30/package/wingpanel-indicator-datetime.md" >}}) | 0 | 101 | 0.0 | none | 
- | [wingpanel-indicator-keyboard]({{< ref "/f30/package/wingpanel-indicator-keyboard.md" >}}) | 0 | 24 | 0.0 | none | 
- | [wingpanel-indicator-network]({{< ref "/f30/package/wingpanel-indicator-network.md" >}}) | 0 | 97 | 0.0 | none | 
- | [wingpanel-indicator-nightlight]({{< ref "/f30/package/wingpanel-indicator-nightlight.md" >}}) | 0 | 30 | 0.0 | none | 
- | [wingpanel-indicator-notifications]({{< ref "/f30/package/wingpanel-indicator-notifications.md" >}}) | 0 | 38 | 0.0 | none | 
- | [wingpanel-indicator-power]({{< ref "/f30/package/wingpanel-indicator-power.md" >}}) | 0 | 112 | 0.0 | none | 
- | [wingpanel-indicator-session]({{< ref "/f30/package/wingpanel-indicator-session.md" >}}) | 0 | 81 | 0.0 | none | 
- | [wingpanel-indicator-sound]({{< ref "/f30/package/wingpanel-indicator-sound.md" >}}) | 0 | 44 | 0.0 | Filipino <fil@li.org> | 
+ | [olpc-switch-desktop](/f30/package/olpc-switch-desktop) | 158 | 158 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-toolkit](/f30/package/sugar-toolkit) | 70 | 73 | 95.9 | LANGUAGE <LL@li.org> | 
+ | [arduino](/f30/package/arduino) | 1259 | 3093 | 40.7 | Filipino (http://www.transifex.com/mbanzi/arduino-ide-15/language/fil/) | 
+ | [slick-greeter](/f30/package/slick-greeter) | 41 | 211 | 19.4 | Filipino <fil@li.org> | 
+ | [blueberry](/f30/package/blueberry) | 24 | 148 | 16.2 | Filipino <fil@li.org> | 
+ | [dnf](/f30/package/dnf) | 512 | 3887 | 13.2 | Filipino | 
+ | [cinnamon-translations](/f30/package/cinnamon-translations) | 2203 | 17519 | 12.6 | Filipino <fil@li.org> | 
+ | [nemo-extensions](/f30/package/nemo-extensions) | 1 | 8 | 12.5 | Filipino <fil@li.org> | 
+ | [transmission](/f30/package/transmission) | 176 | 1809 | 9.7 | Filipino <fil@li.org> | 
+ | [anaconda](/f30/package/anaconda) | 647 | 7811 | 8.3 | Filipino | 
+ | [fragments](/f30/package/fragments) | 164 | 2006 | 8.2 | Filipino (https://www.transifex.com/transmissionbt/teams/33778/fil/) | 
+ | [mate-panel](/f30/package/mate-panel) | 64 | 942 | 6.8 | Filipino (https://www.transifex.com/mate/teams/13566/fil/) | 
+ | [mate-applets](/f30/package/mate-applets) | 191 | 2860 | 6.7 | Filipino (https://www.transifex.com/mate/teams/13566/fil/) | 
+ | [pinta](/f30/package/pinta) | 100 | 1618 | 6.2 | Filipino <fil@li.org> | 
+ | [sugar-record](/f30/package/sugar-record) | 3 | 62 | 4.8 | LANGUAGE <LL@li.org> | 
+ | [mate-utils](/f30/package/mate-utils) | 64 | 1953 | 3.3 | Filipino (https://www.transifex.com/mate/teams/13566/fil/) | 
+ | [sugar-fototoon](/f30/package/sugar-fototoon) | 3 | 121 | 2.5 | LANGUAGE <LL@li.org> | 
+ | [calibre](/f30/package/calibre) | 3350 | 159002 | 2.1 | Filipino (http://www.transifex.com/calibre/calibre/language/fil/) | 
+ | [sugar-pippy](/f30/package/sugar-pippy) | 5 | 274 | 1.8 | LANGUAGE <LL@li.org> | 
+ | [sugar-speak](/f30/package/sugar-speak) | 3 | 227 | 1.3 | LANGUAGE <LL@li.org> | 
+ | [deepin-terminal](/f30/package/deepin-terminal) | 5 | 427 | 1.2 | Filipino (https://www.transifex.com/linuxdeepin/teams/3976/fil/) | 
+ | [mate-menus](/f30/package/mate-menus) | 1 | 97 | 1.0 | Filipino (https://www.transifex.com/mate/teams/13566/fil/) | 
+ | [rpm-ostree](/f30/package/rpm-ostree) | 8 | 1023 | 0.8 | Filipino | 
+ | [libdnf](/f30/package/libdnf) | 8 | 1124 | 0.7 | Filipino | 
+ | [godot](/f30/package/godot) | 18 | 9616 | 0.2 | Filipino <https://hosted.weblate.org/projects/godot-engine/godot/fil/> | 
+ | [policycoreutils](/f30/package/policycoreutils) | 6 | 4493 | 0.1 | Filipino | 
+ | [onboard](/f30/package/onboard) | 2 | 2318 | 0.1 | Filipino <fil@li.org> | 
+ | [elementary-greeter](/f30/package/elementary-greeter) | 0 | 76 | 0.0 | Filipino <fil@li.org> | 
+ | [libmatekbd](/f30/package/libmatekbd) | 0 | 251 | 0.0 | Filipino (http://www.transifex.com/mate/MATE/language/fil/) | 
+ | [libvirt](/f30/package/libvirt) | 0 | 64065 | 0.0 | Filipino | 
+ | [mate-themes](/f30/package/mate-themes) | 0 | 70 | 0.0 | Filipino (http://www.transifex.com/mate/MATE/language/fil/) | 
+ | [mingw-libvirt](/f30/package/mingw-libvirt) | 0 | 63828 | 0.0 | Filipino | 
+ | [pyhoca-gui](/f30/package/pyhoca-gui) | 0 | 1865 | 0.0 | none | 
+ | [sugar-abacus](/f30/package/sugar-abacus) | 0 | 28 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-calculator](/f30/package/sugar-calculator) | 0 | 871 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-deducto](/f30/package/sugar-deducto) | 0 | 109 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-distance](/f30/package/sugar-distance) | 0 | 99 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-finance](/f30/package/sugar-finance) | 0 | 258 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-fractionbounce](/f30/package/sugar-fractionbounce) | 0 | 68 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-imageviewer](/f30/package/sugar-imageviewer) | 0 | 58 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-implode](/f30/package/sugar-implode) | 0 | 77 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-infoslicer](/f30/package/sugar-infoslicer) | 0 | 236 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-jukebox](/f30/package/sugar-jukebox) | 0 | 69 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-labyrinth](/f30/package/sugar-labyrinth) | 0 | 281 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-maze](/f30/package/sugar-maze) | 0 | 7 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-memorize](/f30/package/sugar-memorize) | 0 | 142 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-paint](/f30/package/sugar-paint) | 0 | 106 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-physics](/f30/package/sugar-physics) | 0 | 48 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-ruler](/f30/package/sugar-ruler) | 0 | 29 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-stopwatch](/f30/package/sugar-stopwatch) | 0 | 5 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-typing-turtle](/f30/package/sugar-typing-turtle) | 0 | 599 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-visualmatch](/f30/package/sugar-visualmatch) | 0 | 158 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-words](/f30/package/sugar-words) | 0 | 3 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [visualboyadvance-m](/f30/package/visualboyadvance-m) | 0 | 2393 | 0.0 | Filipino (http://www.transifex.com/bgk/vba-m/language/fil/) | 
+ | [wingpanel](/f30/package/wingpanel) | 0 | 19 | 0.0 | none | 
+ | [wingpanel-applications-menu](/f30/package/wingpanel-applications-menu) | 0 | 261 | 0.0 | none | 
+ | [wingpanel-indicator-bluetooth](/f30/package/wingpanel-indicator-bluetooth) | 0 | 27 | 0.0 | none | 
+ | [wingpanel-indicator-datetime](/f30/package/wingpanel-indicator-datetime) | 0 | 101 | 0.0 | none | 
+ | [wingpanel-indicator-keyboard](/f30/package/wingpanel-indicator-keyboard) | 0 | 24 | 0.0 | none | 
+ | [wingpanel-indicator-network](/f30/package/wingpanel-indicator-network) | 0 | 97 | 0.0 | none | 
+ | [wingpanel-indicator-nightlight](/f30/package/wingpanel-indicator-nightlight) | 0 | 30 | 0.0 | none | 
+ | [wingpanel-indicator-notifications](/f30/package/wingpanel-indicator-notifications) | 0 | 38 | 0.0 | none | 
+ | [wingpanel-indicator-power](/f30/package/wingpanel-indicator-power) | 0 | 112 | 0.0 | none | 
+ | [wingpanel-indicator-session](/f30/package/wingpanel-indicator-session) | 0 | 81 | 0.0 | none | 
+ | [wingpanel-indicator-sound](/f30/package/wingpanel-indicator-sound) | 0 | 44 | 0.0 | Filipino <fil@li.org> | 
 {.sortable}
 
 

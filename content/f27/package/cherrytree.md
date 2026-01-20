@@ -18,22 +18,22 @@ The package cherrytree (version 0.38.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f27/language/cs.md" >}}) | 2909 | 2909 | 100.0 | /mnt/stockage/packages/f27/cherrytree/locale/cs.po | 
- | [de]({{< ref "/f27/language/de.md" >}}) | 2909 | 2909 | 100.0 | /mnt/stockage/packages/f27/cherrytree/locale/de.po | 
- | [el]({{< ref "/f27/language/el.md" >}}) | 2909 | 2909 | 100.0 | /mnt/stockage/packages/f27/cherrytree/locale/el.po | 
- | [es]({{< ref "/f27/language/es.md" >}}) | 2909 | 2909 | 100.0 | /mnt/stockage/packages/f27/cherrytree/locale/es.po | 
- | [fr]({{< ref "/f27/language/fr.md" >}}) | 2909 | 2909 | 100.0 | /mnt/stockage/packages/f27/cherrytree/locale/fr.po | 
- | [hy]({{< ref "/f27/language/hy.md" >}}) | 2909 | 2909 | 100.0 | /mnt/stockage/packages/f27/cherrytree/locale/hy.po | 
- | [it]({{< ref "/f27/language/it.md" >}}) | 2911 | 2911 | 100.0 | /mnt/stockage/packages/f27/cherrytree/future/po/it.po/mnt/stockage/packages/f27/cherrytree/locale/it.po | 
- | [ja]({{< ref "/f27/language/ja.md" >}}) | 2909 | 2909 | 100.0 | /mnt/stockage/packages/f27/cherrytree/locale/ja.po | 
- | [lt]({{< ref "/f27/language/lt.md" >}}) | 2745 | 2745 | 100.0 | /mnt/stockage/packages/f27/cherrytree/locale/lt.po | 
- | [nl]({{< ref "/f27/language/nl.md" >}}) | 2909 | 2909 | 100.0 | /mnt/stockage/packages/f27/cherrytree/locale/nl.po | 
- | [pl]({{< ref "/f27/language/pl.md" >}}) | 2909 | 2909 | 100.0 | /mnt/stockage/packages/f27/cherrytree/locale/pl.po | 
- | [pt_BR]({{< ref "/f27/language/pt_BR.md" >}}) | 2745 | 2745 | 100.0 | /mnt/stockage/packages/f27/cherrytree/locale/pt_BR.po | 
- | [ru]({{< ref "/f27/language/ru.md" >}}) | 5818 | 5818 | 100.0 | /mnt/stockage/packages/f27/cherrytree/locale/uk.po/mnt/stockage/packages/f27/cherrytree/locale/ru.po | 
- | [sl]({{< ref "/f27/language/sl.md" >}}) | 2909 | 2909 | 100.0 | /mnt/stockage/packages/f27/cherrytree/locale/sl.po | 
- | [zh_Hans]({{< ref "/f27/language/zh_Hans.md" >}}) | 2745 | 2745 | 100.0 | /mnt/stockage/packages/f27/cherrytree/locale/zh_CN.po | 
- | [tr]({{< ref "/f27/language/tr.md" >}}) | 2467 | 2745 | 89.9 | /mnt/stockage/packages/f27/cherrytree/locale/tr.po | 
+ | [cs](/f27/language/cs) | 2909 | 2909 | 100.0 | /mnt/stockage/packages/f27/cherrytree/locale/cs.po | 
+ | [de](/f27/language/de) | 2909 | 2909 | 100.0 | /mnt/stockage/packages/f27/cherrytree/locale/de.po | 
+ | [el](/f27/language/el) | 2909 | 2909 | 100.0 | /mnt/stockage/packages/f27/cherrytree/locale/el.po | 
+ | [es](/f27/language/es) | 2909 | 2909 | 100.0 | /mnt/stockage/packages/f27/cherrytree/locale/es.po | 
+ | [fr](/f27/language/fr) | 2909 | 2909 | 100.0 | /mnt/stockage/packages/f27/cherrytree/locale/fr.po | 
+ | [hy](/f27/language/hy) | 2909 | 2909 | 100.0 | /mnt/stockage/packages/f27/cherrytree/locale/hy.po | 
+ | [it](/f27/language/it) | 2911 | 2911 | 100.0 | /mnt/stockage/packages/f27/cherrytree/future/po/it.po/mnt/stockage/packages/f27/cherrytree/locale/it.po | 
+ | [ja](/f27/language/ja) | 2909 | 2909 | 100.0 | /mnt/stockage/packages/f27/cherrytree/locale/ja.po | 
+ | [lt](/f27/language/lt) | 2745 | 2745 | 100.0 | /mnt/stockage/packages/f27/cherrytree/locale/lt.po | 
+ | [nl](/f27/language/nl) | 2909 | 2909 | 100.0 | /mnt/stockage/packages/f27/cherrytree/locale/nl.po | 
+ | [pl](/f27/language/pl) | 2909 | 2909 | 100.0 | /mnt/stockage/packages/f27/cherrytree/locale/pl.po | 
+ | [pt_BR](/f27/language/pt_BR) | 2745 | 2745 | 100.0 | /mnt/stockage/packages/f27/cherrytree/locale/pt_BR.po | 
+ | [ru](/f27/language/ru) | 5818 | 5818 | 100.0 | /mnt/stockage/packages/f27/cherrytree/locale/uk.po/mnt/stockage/packages/f27/cherrytree/locale/ru.po | 
+ | [sl](/f27/language/sl) | 2909 | 2909 | 100.0 | /mnt/stockage/packages/f27/cherrytree/locale/sl.po | 
+ | [zh_Hans](/f27/language/zh_Hans) | 2745 | 2745 | 100.0 | /mnt/stockage/packages/f27/cherrytree/locale/zh_CN.po | 
+ | [tr](/f27/language/tr) | 2467 | 2745 | 89.9 | /mnt/stockage/packages/f27/cherrytree/locale/tr.po | 
 {.sortable}
 
 

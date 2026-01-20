@@ -18,7 +18,7 @@ The package ebview (version 0.3.6.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ja]({{< ref "/f24/language/ja.md" >}}) | 1025 | 1025 | 100.0 | /mnt/stockage/packages/f24/ebview/po/ja.po | 
+ | [ja](/f24/language/ja) | 1025 | 1025 | 100.0 | /mnt/stockage/packages/f24/ebview/po/ja.po | 
 {.sortable}
 
 

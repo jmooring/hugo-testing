@@ -18,9 +18,9 @@ The package ccgo (version 0.3.6.5):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [zh_Hans]({{< ref "/f36/language/zh_Hans.md" >}}) | 559 | 559 | 100.0 | /mnt/stockage/packages/f36/ccgo/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f36/language/zh_Hant.md" >}}) | 559 | 559 | 100.0 | /mnt/stockage/packages/f36/ccgo/po/zh_TW.po | 
- | [hu]({{< ref "/f36/language/hu.md" >}}) | 446 | 559 | 79.8 | /mnt/stockage/packages/f36/ccgo/po/hu_HU.po | 
+ | [zh_Hans](/f36/language/zh_Hans) | 559 | 559 | 100.0 | /mnt/stockage/packages/f36/ccgo/po/zh_CN.po | 
+ | [zh_Hant](/f36/language/zh_Hant) | 559 | 559 | 100.0 | /mnt/stockage/packages/f36/ccgo/po/zh_TW.po | 
+ | [hu](/f36/language/hu) | 446 | 559 | 79.8 | /mnt/stockage/packages/f36/ccgo/po/hu_HU.po | 
 {.sortable}
 
 

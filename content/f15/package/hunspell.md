@@ -18,8 +18,8 @@ The package hunspell (version 1.2.15):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [hu]({{< ref "/f15/language/hu.md" >}}) | 509 | 519 | 98.1 | /mnt/stockage/packages/f15/hunspell/po/hu.po | 
- | [it]({{< ref "/f15/language/it.md" >}}) | 499 | 519 | 96.1 | /mnt/stockage/packages/f15/hunspell/po/it.po | 
+ | [hu](/f15/language/hu) | 509 | 519 | 98.1 | /mnt/stockage/packages/f15/hunspell/po/hu.po | 
+ | [it](/f15/language/it) | 499 | 519 | 96.1 | /mnt/stockage/packages/f15/hunspell/po/it.po | 
 {.sortable}
 
 

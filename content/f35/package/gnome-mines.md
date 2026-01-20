@@ -18,96 +18,96 @@ The package gnome-mines (version 40.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [be]({{< ref "/f35/language/be.md" >}}) | 344 | 344 | 100.0 | /mnt/stockage/packages/f35/gnome-mines/po/be.po | 
- | [bg]({{< ref "/f35/language/bg.md" >}}) | 344 | 344 | 100.0 | /mnt/stockage/packages/f35/gnome-mines/po/bg.po | 
- | [bs]({{< ref "/f35/language/bs.md" >}}) | 334 | 334 | 100.0 | /mnt/stockage/packages/f35/gnome-mines/po/bs.po | 
- | [ca]({{< ref "/f35/language/ca.md" >}}) | 1444 | 1444 | 100.0 | /mnt/stockage/packages/f35/gnome-mines/help/ca/ca.po/mnt/stockage/packages/f35/gnome-mines/po/ca.po | 
- | [ca@valencia]({{< ref "/f35/language/ca@valencia.md" >}}) | 344 | 344 | 100.0 | /mnt/stockage/packages/f35/gnome-mines/po/ca@valencia.po | 
- | [cs]({{< ref "/f35/language/cs.md" >}}) | 1444 | 1444 | 100.0 | /mnt/stockage/packages/f35/gnome-mines/help/cs/cs.po/mnt/stockage/packages/f35/gnome-mines/po/cs.po | 
- | [da]({{< ref "/f35/language/da.md" >}}) | 1457 | 1457 | 100.0 | /mnt/stockage/packages/f35/gnome-mines/help/da/da.po/mnt/stockage/packages/f35/gnome-mines/po/da.po | 
- | [de]({{< ref "/f35/language/de.md" >}}) | 1444 | 1444 | 100.0 | /mnt/stockage/packages/f35/gnome-mines/help/de/de.po/mnt/stockage/packages/f35/gnome-mines/po/de.po | 
- | [el]({{< ref "/f35/language/el.md" >}}) | 1560 | 1560 | 100.0 | /mnt/stockage/packages/f35/gnome-mines/help/el/el.po/mnt/stockage/packages/f35/gnome-mines/po/el.po | 
- | [en_GB]({{< ref "/f35/language/en_GB.md" >}}) | 362 | 362 | 100.0 | /mnt/stockage/packages/f35/gnome-mines/po/en_GB.po | 
- | [es]({{< ref "/f35/language/es.md" >}}) | 1444 | 1444 | 100.0 | /mnt/stockage/packages/f35/gnome-mines/help/es/es.po/mnt/stockage/packages/f35/gnome-mines/po/es.po | 
- | [et]({{< ref "/f35/language/et.md" >}}) | 261 | 261 | 100.0 | /mnt/stockage/packages/f35/gnome-mines/po/et.po | 
- | [fa]({{< ref "/f35/language/fa.md" >}}) | 364 | 364 | 100.0 | /mnt/stockage/packages/f35/gnome-mines/po/fa.po | 
- | [fi]({{< ref "/f35/language/fi.md" >}}) | 364 | 364 | 100.0 | /mnt/stockage/packages/f35/gnome-mines/po/fi.po | 
- | [fr]({{< ref "/f35/language/fr.md" >}}) | 1444 | 1444 | 100.0 | /mnt/stockage/packages/f35/gnome-mines/help/fr/fr.po/mnt/stockage/packages/f35/gnome-mines/po/fr.po | 
- | [fur]({{< ref "/f35/language/fur.md" >}}) | 364 | 364 | 100.0 | /mnt/stockage/packages/f35/gnome-mines/po/fur.po | 
- | [he]({{< ref "/f35/language/he.md" >}}) | 362 | 362 | 100.0 | /mnt/stockage/packages/f35/gnome-mines/po/he.po | 
- | [hi]({{< ref "/f35/language/hi.md" >}}) | 261 | 261 | 100.0 | /mnt/stockage/packages/f35/gnome-mines/po/hi.po | 
- | [hr]({{< ref "/f35/language/hr.md" >}}) | 362 | 362 | 100.0 | /mnt/stockage/packages/f35/gnome-mines/po/hr.po | 
- | [hu]({{< ref "/f35/language/hu.md" >}}) | 1444 | 1444 | 100.0 | /mnt/stockage/packages/f35/gnome-mines/help/hu/hu.po/mnt/stockage/packages/f35/gnome-mines/po/hu.po | 
- | [id]({{< ref "/f35/language/id.md" >}}) | 364 | 364 | 100.0 | /mnt/stockage/packages/f35/gnome-mines/po/id.po | 
- | [is]({{< ref "/f35/language/is.md" >}}) | 390 | 390 | 100.0 | /mnt/stockage/packages/f35/gnome-mines/po/is.po | 
- | [it]({{< ref "/f35/language/it.md" >}}) | 364 | 364 | 100.0 | /mnt/stockage/packages/f35/gnome-mines/po/it.po | 
- | [kk]({{< ref "/f35/language/kk.md" >}}) | 362 | 362 | 100.0 | /mnt/stockage/packages/f35/gnome-mines/po/kk.po | 
- | [lt]({{< ref "/f35/language/lt.md" >}}) | 364 | 364 | 100.0 | /mnt/stockage/packages/f35/gnome-mines/po/lt.po | 
- | [lv]({{< ref "/f35/language/lv.md" >}}) | 364 | 364 | 100.0 | /mnt/stockage/packages/f35/gnome-mines/po/lv.po | 
- | [ms]({{< ref "/f35/language/ms.md" >}}) | 365 | 365 | 100.0 | /mnt/stockage/packages/f35/gnome-mines/po/ms.po | 
- | [nb_NO]({{< ref "/f35/language/nb_NO.md" >}}) | 365 | 365 | 100.0 | /mnt/stockage/packages/f35/gnome-mines/po/nb.po | 
- | [nl]({{< ref "/f35/language/nl.md" >}}) | 362 | 362 | 100.0 | /mnt/stockage/packages/f35/gnome-mines/po/nl.po | 
- | [pl]({{< ref "/f35/language/pl.md" >}}) | 1444 | 1444 | 100.0 | /mnt/stockage/packages/f35/gnome-mines/help/pl/pl.po/mnt/stockage/packages/f35/gnome-mines/po/pl.po | 
- | [pt]({{< ref "/f35/language/pt.md" >}}) | 364 | 364 | 100.0 | /mnt/stockage/packages/f35/gnome-mines/po/pt.po | 
- | [ro]({{< ref "/f35/language/ro.md" >}}) | 364 | 364 | 100.0 | /mnt/stockage/packages/f35/gnome-mines/po/ro.po | 
- | [ru]({{< ref "/f35/language/ru.md" >}}) | 365 | 365 | 100.0 | /mnt/stockage/packages/f35/gnome-mines/po/ru.po | 
- | [sk]({{< ref "/f35/language/sk.md" >}}) | 362 | 362 | 100.0 | /mnt/stockage/packages/f35/gnome-mines/po/sk.po | 
- | [sl]({{< ref "/f35/language/sl.md" >}}) | 1642 | 1642 | 100.0 | /mnt/stockage/packages/f35/gnome-mines/help/sl/sl.po/mnt/stockage/packages/f35/gnome-mines/po/sl.po | 
- | [sr]({{< ref "/f35/language/sr.md" >}}) | 708 | 708 | 100.0 | /mnt/stockage/packages/f35/gnome-mines/po/sr@latin.po/mnt/stockage/packages/f35/gnome-mines/po/sr.po | 
- | [sv]({{< ref "/f35/language/sv.md" >}}) | 1444 | 1444 | 100.0 | /mnt/stockage/packages/f35/gnome-mines/help/sv/sv.po/mnt/stockage/packages/f35/gnome-mines/po/sv.po | 
- | [ta]({{< ref "/f35/language/ta.md" >}}) | 261 | 261 | 100.0 | /mnt/stockage/packages/f35/gnome-mines/po/ta.po | 
- | [tr]({{< ref "/f35/language/tr.md" >}}) | 364 | 364 | 100.0 | /mnt/stockage/packages/f35/gnome-mines/po/tr.po | 
- | [ug]({{< ref "/f35/language/ug.md" >}}) | 261 | 261 | 100.0 | /mnt/stockage/packages/f35/gnome-mines/po/ug.po | 
- | [uk]({{< ref "/f35/language/uk.md" >}}) | 1444 | 1444 | 100.0 | /mnt/stockage/packages/f35/gnome-mines/help/uk/uk.po/mnt/stockage/packages/f35/gnome-mines/po/uk.po | 
- | [vi]({{< ref "/f35/language/vi.md" >}}) | 344 | 344 | 100.0 | /mnt/stockage/packages/f35/gnome-mines/po/vi.po | 
- | [zh_Hans]({{< ref "/f35/language/zh_Hans.md" >}}) | 362 | 362 | 100.0 | /mnt/stockage/packages/f35/gnome-mines/po/zh_CN.po | 
- | [ko]({{< ref "/f35/language/ko.md" >}}) | 1561 | 1563 | 99.9 | /mnt/stockage/packages/f35/gnome-mines/help/ko/ko.po/mnt/stockage/packages/f35/gnome-mines/po/ko.po | 
- | [zh_Hant_HK]({{< ref "/f35/language/zh_Hant_HK.md" >}}) | 304 | 308 | 98.7 | /mnt/stockage/packages/f35/gnome-mines/po/zh_HK.po | 
- | [oc]({{< ref "/f35/language/oc.md" >}}) | 332 | 340 | 97.6 | /mnt/stockage/packages/f35/gnome-mines/po/oc.po | 
- | [an]({{< ref "/f35/language/an.md" >}}) | 334 | 346 | 96.5 | /mnt/stockage/packages/f35/gnome-mines/po/an.po | 
- | [zh_Hant]({{< ref "/f35/language/zh_Hant.md" >}}) | 350 | 365 | 95.9 | /mnt/stockage/packages/f35/gnome-mines/po/zh_TW.po | 
- | [eo]({{< ref "/f35/language/eo.md" >}}) | 372 | 393 | 94.7 | /mnt/stockage/packages/f35/gnome-mines/po/eo.po | 
- | [ml]({{< ref "/f35/language/ml.md" >}}) | 245 | 344 | 71.2 | /mnt/stockage/packages/f35/gnome-mines/po/ml.po | 
- | [gl]({{< ref "/f35/language/gl.md" >}}) | 979 | 1445 | 67.8 | /mnt/stockage/packages/f35/gnome-mines/help/gl/gl.po/mnt/stockage/packages/f35/gnome-mines/po/gl.po | 
- | [eu]({{< ref "/f35/language/eu.md" >}}) | 977 | 1444 | 67.7 | /mnt/stockage/packages/f35/gnome-mines/help/eu/eu.po/mnt/stockage/packages/f35/gnome-mines/po/eu.po | 
- | [ckb]({{< ref "/f35/language/ckb.md" >}}) | 234 | 365 | 64.1 | /mnt/stockage/packages/f35/gnome-mines/po/ckb.po | 
- | [pt_BR]({{< ref "/f35/language/pt_BR.md" >}}) | 767 | 1687 | 45.5 | /mnt/stockage/packages/f35/gnome-mines/help/pt_BR/pt_BR.po/mnt/stockage/packages/f35/gnome-mines/po/pt_BR.po | 
- | [ne]({{< ref "/f35/language/ne.md" >}}) | 150 | 344 | 43.6 | /mnt/stockage/packages/f35/gnome-mines/po/ne.po | 
- | [pa]({{< ref "/f35/language/pa.md" >}}) | 146 | 344 | 42.4 | /mnt/stockage/packages/f35/gnome-mines/po/pa.po | 
- | [th]({{< ref "/f35/language/th.md" >}}) | 146 | 344 | 42.4 | /mnt/stockage/packages/f35/gnome-mines/po/th.po | 
- | [km]({{< ref "/f35/language/km.md" >}}) | 145 | 344 | 42.2 | /mnt/stockage/packages/f35/gnome-mines/po/km.po | 
- | [ar]({{< ref "/f35/language/ar.md" >}}) | 128 | 344 | 37.2 | /mnt/stockage/packages/f35/gnome-mines/po/ar.po | 
- | [ja]({{< ref "/f35/language/ja.md" >}}) | 595 | 1666 | 35.7 | /mnt/stockage/packages/f35/gnome-mines/help/ja/ja.po/mnt/stockage/packages/f35/gnome-mines/po/ja.po | 
- | [te]({{< ref "/f35/language/te.md" >}}) | 107 | 344 | 31.1 | /mnt/stockage/packages/f35/gnome-mines/po/te.po | 
- | [mk]({{< ref "/f35/language/mk.md" >}}) | 100 | 344 | 29.1 | /mnt/stockage/packages/f35/gnome-mines/po/mk.po | 
- | [en_CA]({{< ref "/f35/language/en_CA.md" >}}) | 98 | 344 | 28.5 | /mnt/stockage/packages/f35/gnome-mines/po/en_CA.po | 
- | [af]({{< ref "/f35/language/af.md" >}}) | 94 | 344 | 27.3 | /mnt/stockage/packages/f35/gnome-mines/po/af.po | 
- | [as]({{< ref "/f35/language/as.md" >}}) | 94 | 344 | 27.3 | /mnt/stockage/packages/f35/gnome-mines/po/as.po | 
- | [ast]({{< ref "/f35/language/ast.md" >}}) | 94 | 344 | 27.3 | /mnt/stockage/packages/f35/gnome-mines/po/ast.po | 
- | [bn]({{< ref "/f35/language/bn.md" >}}) | 94 | 344 | 27.3 | /mnt/stockage/packages/f35/gnome-mines/po/bn.po | 
- | [gu]({{< ref "/f35/language/gu.md" >}}) | 94 | 344 | 27.3 | /mnt/stockage/packages/f35/gnome-mines/po/gu.po | 
- | [kn]({{< ref "/f35/language/kn.md" >}}) | 94 | 344 | 27.3 | /mnt/stockage/packages/f35/gnome-mines/po/kn.po | 
- | [mr]({{< ref "/f35/language/mr.md" >}}) | 94 | 344 | 27.3 | /mnt/stockage/packages/f35/gnome-mines/po/mr.po | 
- | [nn]({{< ref "/f35/language/nn.md" >}}) | 94 | 344 | 27.3 | /mnt/stockage/packages/f35/gnome-mines/po/nn.po | 
- | [or]({{< ref "/f35/language/or.md" >}}) | 94 | 344 | 27.3 | /mnt/stockage/packages/f35/gnome-mines/po/or.po | 
- | [error]({{< ref "/f35/language/error.md" >}}) | 90 | 344 | 26.2 | /mnt/stockage/packages/f35/gnome-mines/po/en@shaw.po | 
- | [dz]({{< ref "/f35/language/dz.md" >}}) | 88 | 344 | 25.6 | /mnt/stockage/packages/f35/gnome-mines/po/dz.po | 
- | [mai]({{< ref "/f35/language/mai.md" >}}) | 86 | 344 | 25.0 | /mnt/stockage/packages/f35/gnome-mines/po/mai.po | 
- | [cy]({{< ref "/f35/language/cy.md" >}}) | 84 | 344 | 24.4 | /mnt/stockage/packages/f35/gnome-mines/po/cy.po | 
- | [bn_IN]({{< ref "/f35/language/bn_IN.md" >}}) | 62 | 344 | 18.0 | /mnt/stockage/packages/f35/gnome-mines/po/bn_IN.po | 
- | [si]({{< ref "/f35/language/si.md" >}}) | 36 | 344 | 10.5 | /mnt/stockage/packages/f35/gnome-mines/po/si.po | 
- | [sq]({{< ref "/f35/language/sq.md" >}}) | 36 | 344 | 10.5 | /mnt/stockage/packages/f35/gnome-mines/po/sq.po | 
- | [xh]({{< ref "/f35/language/xh.md" >}}) | 35 | 344 | 10.2 | /mnt/stockage/packages/f35/gnome-mines/po/xh.po | 
- | [az]({{< ref "/f35/language/az.md" >}}) | 23 | 344 | 6.7 | /mnt/stockage/packages/f35/gnome-mines/po/az.po | 
- | [tg]({{< ref "/f35/language/tg.md" >}}) | 16 | 261 | 6.1 | /mnt/stockage/packages/f35/gnome-mines/po/tg.po | 
- | [br]({{< ref "/f35/language/br.md" >}}) | 16 | 344 | 4.7 | /mnt/stockage/packages/f35/gnome-mines/po/br.po | 
- | [ga]({{< ref "/f35/language/ga.md" >}}) | 14 | 344 | 4.1 | /mnt/stockage/packages/f35/gnome-mines/po/ga.po | 
- | [mn]({{< ref "/f35/language/mn.md" >}}) | 11 | 344 | 3.2 | /mnt/stockage/packages/f35/gnome-mines/po/mn.po | 
- | [wa]({{< ref "/f35/language/wa.md" >}}) | 7 | 344 | 2.0 | /mnt/stockage/packages/f35/gnome-mines/po/wa.po | 
- | [ka]({{< ref "/f35/language/ka.md" >}}) | 6 | 344 | 1.7 | /mnt/stockage/packages/f35/gnome-mines/po/ka.po | 
- | [am]({{< ref "/f35/language/am.md" >}}) | 3 | 344 | 0.9 | /mnt/stockage/packages/f35/gnome-mines/po/am.po | 
- | [ku]({{< ref "/f35/language/ku.md" >}}) | 2 | 344 | 0.6 | /mnt/stockage/packages/f35/gnome-mines/po/ku.po | 
- | [rw]({{< ref "/f35/language/rw.md" >}}) | 1 | 344 | 0.3 | /mnt/stockage/packages/f35/gnome-mines/po/rw.po | 
+ | [be](/f35/language/be) | 344 | 344 | 100.0 | /mnt/stockage/packages/f35/gnome-mines/po/be.po | 
+ | [bg](/f35/language/bg) | 344 | 344 | 100.0 | /mnt/stockage/packages/f35/gnome-mines/po/bg.po | 
+ | [bs](/f35/language/bs) | 334 | 334 | 100.0 | /mnt/stockage/packages/f35/gnome-mines/po/bs.po | 
+ | [ca](/f35/language/ca) | 1444 | 1444 | 100.0 | /mnt/stockage/packages/f35/gnome-mines/help/ca/ca.po/mnt/stockage/packages/f35/gnome-mines/po/ca.po | 
+ | [ca@valencia](/f35/language/ca@valencia) | 344 | 344 | 100.0 | /mnt/stockage/packages/f35/gnome-mines/po/ca@valencia.po | 
+ | [cs](/f35/language/cs) | 1444 | 1444 | 100.0 | /mnt/stockage/packages/f35/gnome-mines/help/cs/cs.po/mnt/stockage/packages/f35/gnome-mines/po/cs.po | 
+ | [da](/f35/language/da) | 1457 | 1457 | 100.0 | /mnt/stockage/packages/f35/gnome-mines/help/da/da.po/mnt/stockage/packages/f35/gnome-mines/po/da.po | 
+ | [de](/f35/language/de) | 1444 | 1444 | 100.0 | /mnt/stockage/packages/f35/gnome-mines/help/de/de.po/mnt/stockage/packages/f35/gnome-mines/po/de.po | 
+ | [el](/f35/language/el) | 1560 | 1560 | 100.0 | /mnt/stockage/packages/f35/gnome-mines/help/el/el.po/mnt/stockage/packages/f35/gnome-mines/po/el.po | 
+ | [en_GB](/f35/language/en_GB) | 362 | 362 | 100.0 | /mnt/stockage/packages/f35/gnome-mines/po/en_GB.po | 
+ | [es](/f35/language/es) | 1444 | 1444 | 100.0 | /mnt/stockage/packages/f35/gnome-mines/help/es/es.po/mnt/stockage/packages/f35/gnome-mines/po/es.po | 
+ | [et](/f35/language/et) | 261 | 261 | 100.0 | /mnt/stockage/packages/f35/gnome-mines/po/et.po | 
+ | [fa](/f35/language/fa) | 364 | 364 | 100.0 | /mnt/stockage/packages/f35/gnome-mines/po/fa.po | 
+ | [fi](/f35/language/fi) | 364 | 364 | 100.0 | /mnt/stockage/packages/f35/gnome-mines/po/fi.po | 
+ | [fr](/f35/language/fr) | 1444 | 1444 | 100.0 | /mnt/stockage/packages/f35/gnome-mines/help/fr/fr.po/mnt/stockage/packages/f35/gnome-mines/po/fr.po | 
+ | [fur](/f35/language/fur) | 364 | 364 | 100.0 | /mnt/stockage/packages/f35/gnome-mines/po/fur.po | 
+ | [he](/f35/language/he) | 362 | 362 | 100.0 | /mnt/stockage/packages/f35/gnome-mines/po/he.po | 
+ | [hi](/f35/language/hi) | 261 | 261 | 100.0 | /mnt/stockage/packages/f35/gnome-mines/po/hi.po | 
+ | [hr](/f35/language/hr) | 362 | 362 | 100.0 | /mnt/stockage/packages/f35/gnome-mines/po/hr.po | 
+ | [hu](/f35/language/hu) | 1444 | 1444 | 100.0 | /mnt/stockage/packages/f35/gnome-mines/help/hu/hu.po/mnt/stockage/packages/f35/gnome-mines/po/hu.po | 
+ | [id](/f35/language/id) | 364 | 364 | 100.0 | /mnt/stockage/packages/f35/gnome-mines/po/id.po | 
+ | [is](/f35/language/is) | 390 | 390 | 100.0 | /mnt/stockage/packages/f35/gnome-mines/po/is.po | 
+ | [it](/f35/language/it) | 364 | 364 | 100.0 | /mnt/stockage/packages/f35/gnome-mines/po/it.po | 
+ | [kk](/f35/language/kk) | 362 | 362 | 100.0 | /mnt/stockage/packages/f35/gnome-mines/po/kk.po | 
+ | [lt](/f35/language/lt) | 364 | 364 | 100.0 | /mnt/stockage/packages/f35/gnome-mines/po/lt.po | 
+ | [lv](/f35/language/lv) | 364 | 364 | 100.0 | /mnt/stockage/packages/f35/gnome-mines/po/lv.po | 
+ | [ms](/f35/language/ms) | 365 | 365 | 100.0 | /mnt/stockage/packages/f35/gnome-mines/po/ms.po | 
+ | [nb_NO](/f35/language/nb_NO) | 365 | 365 | 100.0 | /mnt/stockage/packages/f35/gnome-mines/po/nb.po | 
+ | [nl](/f35/language/nl) | 362 | 362 | 100.0 | /mnt/stockage/packages/f35/gnome-mines/po/nl.po | 
+ | [pl](/f35/language/pl) | 1444 | 1444 | 100.0 | /mnt/stockage/packages/f35/gnome-mines/help/pl/pl.po/mnt/stockage/packages/f35/gnome-mines/po/pl.po | 
+ | [pt](/f35/language/pt) | 364 | 364 | 100.0 | /mnt/stockage/packages/f35/gnome-mines/po/pt.po | 
+ | [ro](/f35/language/ro) | 364 | 364 | 100.0 | /mnt/stockage/packages/f35/gnome-mines/po/ro.po | 
+ | [ru](/f35/language/ru) | 365 | 365 | 100.0 | /mnt/stockage/packages/f35/gnome-mines/po/ru.po | 
+ | [sk](/f35/language/sk) | 362 | 362 | 100.0 | /mnt/stockage/packages/f35/gnome-mines/po/sk.po | 
+ | [sl](/f35/language/sl) | 1642 | 1642 | 100.0 | /mnt/stockage/packages/f35/gnome-mines/help/sl/sl.po/mnt/stockage/packages/f35/gnome-mines/po/sl.po | 
+ | [sr](/f35/language/sr) | 708 | 708 | 100.0 | /mnt/stockage/packages/f35/gnome-mines/po/sr@latin.po/mnt/stockage/packages/f35/gnome-mines/po/sr.po | 
+ | [sv](/f35/language/sv) | 1444 | 1444 | 100.0 | /mnt/stockage/packages/f35/gnome-mines/help/sv/sv.po/mnt/stockage/packages/f35/gnome-mines/po/sv.po | 
+ | [ta](/f35/language/ta) | 261 | 261 | 100.0 | /mnt/stockage/packages/f35/gnome-mines/po/ta.po | 
+ | [tr](/f35/language/tr) | 364 | 364 | 100.0 | /mnt/stockage/packages/f35/gnome-mines/po/tr.po | 
+ | [ug](/f35/language/ug) | 261 | 261 | 100.0 | /mnt/stockage/packages/f35/gnome-mines/po/ug.po | 
+ | [uk](/f35/language/uk) | 1444 | 1444 | 100.0 | /mnt/stockage/packages/f35/gnome-mines/help/uk/uk.po/mnt/stockage/packages/f35/gnome-mines/po/uk.po | 
+ | [vi](/f35/language/vi) | 344 | 344 | 100.0 | /mnt/stockage/packages/f35/gnome-mines/po/vi.po | 
+ | [zh_Hans](/f35/language/zh_Hans) | 362 | 362 | 100.0 | /mnt/stockage/packages/f35/gnome-mines/po/zh_CN.po | 
+ | [ko](/f35/language/ko) | 1561 | 1563 | 99.9 | /mnt/stockage/packages/f35/gnome-mines/help/ko/ko.po/mnt/stockage/packages/f35/gnome-mines/po/ko.po | 
+ | [zh_Hant_HK](/f35/language/zh_Hant_HK) | 304 | 308 | 98.7 | /mnt/stockage/packages/f35/gnome-mines/po/zh_HK.po | 
+ | [oc](/f35/language/oc) | 332 | 340 | 97.6 | /mnt/stockage/packages/f35/gnome-mines/po/oc.po | 
+ | [an](/f35/language/an) | 334 | 346 | 96.5 | /mnt/stockage/packages/f35/gnome-mines/po/an.po | 
+ | [zh_Hant](/f35/language/zh_Hant) | 350 | 365 | 95.9 | /mnt/stockage/packages/f35/gnome-mines/po/zh_TW.po | 
+ | [eo](/f35/language/eo) | 372 | 393 | 94.7 | /mnt/stockage/packages/f35/gnome-mines/po/eo.po | 
+ | [ml](/f35/language/ml) | 245 | 344 | 71.2 | /mnt/stockage/packages/f35/gnome-mines/po/ml.po | 
+ | [gl](/f35/language/gl) | 979 | 1445 | 67.8 | /mnt/stockage/packages/f35/gnome-mines/help/gl/gl.po/mnt/stockage/packages/f35/gnome-mines/po/gl.po | 
+ | [eu](/f35/language/eu) | 977 | 1444 | 67.7 | /mnt/stockage/packages/f35/gnome-mines/help/eu/eu.po/mnt/stockage/packages/f35/gnome-mines/po/eu.po | 
+ | [ckb](/f35/language/ckb) | 234 | 365 | 64.1 | /mnt/stockage/packages/f35/gnome-mines/po/ckb.po | 
+ | [pt_BR](/f35/language/pt_BR) | 767 | 1687 | 45.5 | /mnt/stockage/packages/f35/gnome-mines/help/pt_BR/pt_BR.po/mnt/stockage/packages/f35/gnome-mines/po/pt_BR.po | 
+ | [ne](/f35/language/ne) | 150 | 344 | 43.6 | /mnt/stockage/packages/f35/gnome-mines/po/ne.po | 
+ | [pa](/f35/language/pa) | 146 | 344 | 42.4 | /mnt/stockage/packages/f35/gnome-mines/po/pa.po | 
+ | [th](/f35/language/th) | 146 | 344 | 42.4 | /mnt/stockage/packages/f35/gnome-mines/po/th.po | 
+ | [km](/f35/language/km) | 145 | 344 | 42.2 | /mnt/stockage/packages/f35/gnome-mines/po/km.po | 
+ | [ar](/f35/language/ar) | 128 | 344 | 37.2 | /mnt/stockage/packages/f35/gnome-mines/po/ar.po | 
+ | [ja](/f35/language/ja) | 595 | 1666 | 35.7 | /mnt/stockage/packages/f35/gnome-mines/help/ja/ja.po/mnt/stockage/packages/f35/gnome-mines/po/ja.po | 
+ | [te](/f35/language/te) | 107 | 344 | 31.1 | /mnt/stockage/packages/f35/gnome-mines/po/te.po | 
+ | [mk](/f35/language/mk) | 100 | 344 | 29.1 | /mnt/stockage/packages/f35/gnome-mines/po/mk.po | 
+ | [en_CA](/f35/language/en_CA) | 98 | 344 | 28.5 | /mnt/stockage/packages/f35/gnome-mines/po/en_CA.po | 
+ | [af](/f35/language/af) | 94 | 344 | 27.3 | /mnt/stockage/packages/f35/gnome-mines/po/af.po | 
+ | [as](/f35/language/as) | 94 | 344 | 27.3 | /mnt/stockage/packages/f35/gnome-mines/po/as.po | 
+ | [ast](/f35/language/ast) | 94 | 344 | 27.3 | /mnt/stockage/packages/f35/gnome-mines/po/ast.po | 
+ | [bn](/f35/language/bn) | 94 | 344 | 27.3 | /mnt/stockage/packages/f35/gnome-mines/po/bn.po | 
+ | [gu](/f35/language/gu) | 94 | 344 | 27.3 | /mnt/stockage/packages/f35/gnome-mines/po/gu.po | 
+ | [kn](/f35/language/kn) | 94 | 344 | 27.3 | /mnt/stockage/packages/f35/gnome-mines/po/kn.po | 
+ | [mr](/f35/language/mr) | 94 | 344 | 27.3 | /mnt/stockage/packages/f35/gnome-mines/po/mr.po | 
+ | [nn](/f35/language/nn) | 94 | 344 | 27.3 | /mnt/stockage/packages/f35/gnome-mines/po/nn.po | 
+ | [or](/f35/language/or) | 94 | 344 | 27.3 | /mnt/stockage/packages/f35/gnome-mines/po/or.po | 
+ | [error](/f35/language/error) | 90 | 344 | 26.2 | /mnt/stockage/packages/f35/gnome-mines/po/en@shaw.po | 
+ | [dz](/f35/language/dz) | 88 | 344 | 25.6 | /mnt/stockage/packages/f35/gnome-mines/po/dz.po | 
+ | [mai](/f35/language/mai) | 86 | 344 | 25.0 | /mnt/stockage/packages/f35/gnome-mines/po/mai.po | 
+ | [cy](/f35/language/cy) | 84 | 344 | 24.4 | /mnt/stockage/packages/f35/gnome-mines/po/cy.po | 
+ | [bn_IN](/f35/language/bn_IN) | 62 | 344 | 18.0 | /mnt/stockage/packages/f35/gnome-mines/po/bn_IN.po | 
+ | [si](/f35/language/si) | 36 | 344 | 10.5 | /mnt/stockage/packages/f35/gnome-mines/po/si.po | 
+ | [sq](/f35/language/sq) | 36 | 344 | 10.5 | /mnt/stockage/packages/f35/gnome-mines/po/sq.po | 
+ | [xh](/f35/language/xh) | 35 | 344 | 10.2 | /mnt/stockage/packages/f35/gnome-mines/po/xh.po | 
+ | [az](/f35/language/az) | 23 | 344 | 6.7 | /mnt/stockage/packages/f35/gnome-mines/po/az.po | 
+ | [tg](/f35/language/tg) | 16 | 261 | 6.1 | /mnt/stockage/packages/f35/gnome-mines/po/tg.po | 
+ | [br](/f35/language/br) | 16 | 344 | 4.7 | /mnt/stockage/packages/f35/gnome-mines/po/br.po | 
+ | [ga](/f35/language/ga) | 14 | 344 | 4.1 | /mnt/stockage/packages/f35/gnome-mines/po/ga.po | 
+ | [mn](/f35/language/mn) | 11 | 344 | 3.2 | /mnt/stockage/packages/f35/gnome-mines/po/mn.po | 
+ | [wa](/f35/language/wa) | 7 | 344 | 2.0 | /mnt/stockage/packages/f35/gnome-mines/po/wa.po | 
+ | [ka](/f35/language/ka) | 6 | 344 | 1.7 | /mnt/stockage/packages/f35/gnome-mines/po/ka.po | 
+ | [am](/f35/language/am) | 3 | 344 | 0.9 | /mnt/stockage/packages/f35/gnome-mines/po/am.po | 
+ | [ku](/f35/language/ku) | 2 | 344 | 0.6 | /mnt/stockage/packages/f35/gnome-mines/po/ku.po | 
+ | [rw](/f35/language/rw) | 1 | 344 | 0.3 | /mnt/stockage/packages/f35/gnome-mines/po/rw.po | 
 {.sortable}
 
 

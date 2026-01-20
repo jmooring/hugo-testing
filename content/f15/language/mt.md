@@ -38,24 +38,24 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [gettext]({{< ref "/f15/package/gettext.md" >}}) | 366 | 366 | 100.0 | Maltese <translation-team-mt@lists.sourceforge.net> | 
- | [sysstat]({{< ref "/f15/package/sysstat.md" >}}) | 412 | 412 | 100.0 | Maltese <translation-team-mt@lists.sourceforge.net> | 
- | [oggconvert]({{< ref "/f15/package/oggconvert.md" >}}) | 123 | 132 | 93.2 | Maltese <mt@li.org> | 
- | [libkexif]({{< ref "/f15/package/libkexif.md" >}}) | 21 | 25 | 84.0 | Maltese <mt@li.org> | 
- | [gstreamer-plugins-bad-free]({{< ref "/f15/package/gstreamer-plugins-bad-free.md" >}}) | 66 | 96 | 68.8 | Maltese <translation-team-mt@lists.sourceforge.net> | 
- | [gstreamer-plugins-good]({{< ref "/f15/package/gstreamer-plugins-good.md" >}}) | 473 | 814 | 58.1 | Maltese <translation-team-mt@lists.sourceforge.net> | 
- | [koffice-kivio]({{< ref "/f15/package/koffice-kivio.md" >}}) | 1910 | 8417 | 22.7 | Maltese <mt@li.org> | 
- | [gnome-do]({{< ref "/f15/package/gnome-do.md" >}}) | 62 | 612 | 10.1 | Maltese <mt@li.org> | 
- | [iso-codes]({{< ref "/f15/package/iso-codes.md" >}}) | 759 | 12371 | 6.1 | Maltese <mt@li.org> | 
- | [pootle]({{< ref "/f15/package/pootle.md" >}}) | 101 | 2424 | 4.2 | LANGUAGE <LL@li.org> | 
- | [stellarium]({{< ref "/f15/package/stellarium.md" >}}) | 183 | 4476 | 4.1 | Maltese <mt@li.org> | 
- | [transmission]({{< ref "/f15/package/transmission.md" >}}) | 19 | 1528 | 1.2 | Maltese <mt@li.org> | 
- | [Miro]({{< ref "/f15/package/Miro.md" >}}) | 10 | 3336 | 0.3 | Maltese <mt@li.org> | 
- | [kst]({{< ref "/f15/package/kst.md" >}}) | 2 | 7446 | 0.0 | Maltese <mt@li.org> | 
- | [kdetv]({{< ref "/f15/package/kdetv.md" >}}) | 0 | 2206 | 0.0 | <en@li.org> | 
- | [krecipes]({{< ref "/f15/package/krecipes.md" >}}) | 0 | 3087 | 0.0 | <en@li.org> | 
- | [olpc-switch-desktop]({{< ref "/f15/package/olpc-switch-desktop.md" >}}) | 0 | 158 | 0.0 | LANGUAGE <LL@li.org> | 
- | [vidalia]({{< ref "/f15/package/vidalia.md" >}}) | 0 | 10375 | 0.0 | translations@vidalia-project.net | 
+ | [gettext](/f15/package/gettext) | 366 | 366 | 100.0 | Maltese <translation-team-mt@lists.sourceforge.net> | 
+ | [sysstat](/f15/package/sysstat) | 412 | 412 | 100.0 | Maltese <translation-team-mt@lists.sourceforge.net> | 
+ | [oggconvert](/f15/package/oggconvert) | 123 | 132 | 93.2 | Maltese <mt@li.org> | 
+ | [libkexif](/f15/package/libkexif) | 21 | 25 | 84.0 | Maltese <mt@li.org> | 
+ | [gstreamer-plugins-bad-free](/f15/package/gstreamer-plugins-bad-free) | 66 | 96 | 68.8 | Maltese <translation-team-mt@lists.sourceforge.net> | 
+ | [gstreamer-plugins-good](/f15/package/gstreamer-plugins-good) | 473 | 814 | 58.1 | Maltese <translation-team-mt@lists.sourceforge.net> | 
+ | [koffice-kivio](/f15/package/koffice-kivio) | 1910 | 8417 | 22.7 | Maltese <mt@li.org> | 
+ | [gnome-do](/f15/package/gnome-do) | 62 | 612 | 10.1 | Maltese <mt@li.org> | 
+ | [iso-codes](/f15/package/iso-codes) | 759 | 12371 | 6.1 | Maltese <mt@li.org> | 
+ | [pootle](/f15/package/pootle) | 101 | 2424 | 4.2 | LANGUAGE <LL@li.org> | 
+ | [stellarium](/f15/package/stellarium) | 183 | 4476 | 4.1 | Maltese <mt@li.org> | 
+ | [transmission](/f15/package/transmission) | 19 | 1528 | 1.2 | Maltese <mt@li.org> | 
+ | [Miro](/f15/package/Miro) | 10 | 3336 | 0.3 | Maltese <mt@li.org> | 
+ | [kst](/f15/package/kst) | 2 | 7446 | 0.0 | Maltese <mt@li.org> | 
+ | [kdetv](/f15/package/kdetv) | 0 | 2206 | 0.0 | <en@li.org> | 
+ | [krecipes](/f15/package/krecipes) | 0 | 3087 | 0.0 | <en@li.org> | 
+ | [olpc-switch-desktop](/f15/package/olpc-switch-desktop) | 0 | 158 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [vidalia](/f15/package/vidalia) | 0 | 10375 | 0.0 | translations@vidalia-project.net | 
 {.sortable}
 
 

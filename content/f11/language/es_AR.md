@@ -38,22 +38,22 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [Django]({{< ref "/f11/package/Django.md" >}}) | 3236 | 3236 | 100.0 | Django-I18N <django-i18n@googlegroups.com> | 
- | [gedit-vala]({{< ref "/f11/package/gedit-vala.md" >}}) | 257 | 257 | 100.0 | LANGUAGE <LL@li.org> | 
- | [gnome-applets]({{< ref "/f11/package/gnome-applets.md" >}}) | 3858 | 3858 | 100.0 | Spanish <traductores@es.gnome.org> | 
- | [kmymoney2]({{< ref "/f11/package/kmymoney2.md" >}}) | 16796 | 16796 | 100.0 | Spanish <kde-i18n-doc@kde.org> | 
- | [mcrypt]({{< ref "/f11/package/mcrypt.md" >}}) | 956 | 965 | 99.1 | Argentinian <translation-es-AR@lists.sourceforge.net> | 
- | [libgweather]({{< ref "/f11/package/libgweather.md" >}}) | 447 | 460 | 97.2 | Spanish <traductores@es.gnome.org> | 
- | [gnomebaker]({{< ref "/f11/package/gnomebaker.md" >}}) | 1069 | 1186 | 90.1 | Spanish (Argentina) <es_AR@li.org> | 
- | [emerald]({{< ref "/f11/package/emerald.md" >}}) | 671 | 774 | 86.7 | Spanish <es@li.org> | 
- | [gallery2]({{< ref "/f11/package/gallery2.md" >}}) | 8899 | 11413 | 78.0 | Argentine Spanish <gallery-devel@lists.sourceforge.net> | 
- | [liblicense]({{< ref "/f11/package/liblicense.md" >}}) | 44 | 66 | 66.7 | LANGUAGE <LL@li.org> | 
- | [libvisual-plugins]({{< ref "/f11/package/libvisual-plugins.md" >}}) | 354 | 600 | 59.0 | Spanish <es@li.org> | 
- | [libvisual]({{< ref "/f11/package/libvisual.md" >}}) | 303 | 1055 | 28.7 | Spanish | 
- | [gimp-lqr-plugin]({{< ref "/f11/package/gimp-lqr-plugin.md" >}}) | 66 | 825 | 8.0 | Español | 
- | [speedcrunch]({{< ref "/f11/package/speedcrunch.md" >}}) | 1 | 18 | 5.6 | es_AR | 
- | [bazaar]({{< ref "/f11/package/bazaar.md" >}}) | 39 | 6524 | 0.6 | Spanish (Argentina) <es_AR@li.org> | 
- | [bacula]({{< ref "/f11/package/bacula.md" >}}) | 0 | 18155 | 0.0 | Spanish | 
+ | [Django](/f11/package/Django) | 3236 | 3236 | 100.0 | Django-I18N <django-i18n@googlegroups.com> | 
+ | [gedit-vala](/f11/package/gedit-vala) | 257 | 257 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [gnome-applets](/f11/package/gnome-applets) | 3858 | 3858 | 100.0 | Spanish <traductores@es.gnome.org> | 
+ | [kmymoney2](/f11/package/kmymoney2) | 16796 | 16796 | 100.0 | Spanish <kde-i18n-doc@kde.org> | 
+ | [mcrypt](/f11/package/mcrypt) | 956 | 965 | 99.1 | Argentinian <translation-es-AR@lists.sourceforge.net> | 
+ | [libgweather](/f11/package/libgweather) | 447 | 460 | 97.2 | Spanish <traductores@es.gnome.org> | 
+ | [gnomebaker](/f11/package/gnomebaker) | 1069 | 1186 | 90.1 | Spanish (Argentina) <es_AR@li.org> | 
+ | [emerald](/f11/package/emerald) | 671 | 774 | 86.7 | Spanish <es@li.org> | 
+ | [gallery2](/f11/package/gallery2) | 8899 | 11413 | 78.0 | Argentine Spanish <gallery-devel@lists.sourceforge.net> | 
+ | [liblicense](/f11/package/liblicense) | 44 | 66 | 66.7 | LANGUAGE <LL@li.org> | 
+ | [libvisual-plugins](/f11/package/libvisual-plugins) | 354 | 600 | 59.0 | Spanish <es@li.org> | 
+ | [libvisual](/f11/package/libvisual) | 303 | 1055 | 28.7 | Spanish | 
+ | [gimp-lqr-plugin](/f11/package/gimp-lqr-plugin) | 66 | 825 | 8.0 | Español | 
+ | [speedcrunch](/f11/package/speedcrunch) | 1 | 18 | 5.6 | es_AR | 
+ | [bazaar](/f11/package/bazaar) | 39 | 6524 | 0.6 | Spanish (Argentina) <es_AR@li.org> | 
+ | [bacula](/f11/package/bacula) | 0 | 18155 | 0.0 | Spanish | 
 {.sortable}
 
 

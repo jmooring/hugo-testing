@@ -18,29 +18,29 @@ The package gip (version 1.7.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [bg]({{< ref "/f31/language/bg.md" >}}) | 103 | 103 | 100.0 | /mnt/stockage/packages/f31/gip/po/bg.po | 
- | [da]({{< ref "/f31/language/da.md" >}}) | 103 | 103 | 100.0 | /mnt/stockage/packages/f31/gip/po/da.po | 
- | [de]({{< ref "/f31/language/de.md" >}}) | 103 | 103 | 100.0 | /mnt/stockage/packages/f31/gip/po/de.po | 
- | [es]({{< ref "/f31/language/es.md" >}}) | 108 | 108 | 100.0 | /mnt/stockage/packages/f31/gip/po/es.po | 
- | [eu]({{< ref "/f31/language/eu.md" >}}) | 103 | 103 | 100.0 | /mnt/stockage/packages/f31/gip/po/eu.po | 
- | [fi]({{< ref "/f31/language/fi.md" >}}) | 103 | 103 | 100.0 | /mnt/stockage/packages/f31/gip/po/fi.po | 
- | [fr]({{< ref "/f31/language/fr.md" >}}) | 103 | 103 | 100.0 | /mnt/stockage/packages/f31/gip/po/fr.po | 
- | [ga]({{< ref "/f31/language/ga.md" >}}) | 103 | 103 | 100.0 | /mnt/stockage/packages/f31/gip/po/ga.po | 
- | [id]({{< ref "/f31/language/id.md" >}}) | 103 | 103 | 100.0 | /mnt/stockage/packages/f31/gip/po/id.po | 
- | [ms]({{< ref "/f31/language/ms.md" >}}) | 103 | 103 | 100.0 | /mnt/stockage/packages/f31/gip/po/ms.po | 
- | [nl]({{< ref "/f31/language/nl.md" >}}) | 103 | 103 | 100.0 | /mnt/stockage/packages/f31/gip/po/nl.po | 
- | [pl]({{< ref "/f31/language/pl.md" >}}) | 103 | 103 | 100.0 | /mnt/stockage/packages/f31/gip/po/pl.po | 
- | [rm]({{< ref "/f31/language/rm.md" >}}) | 108 | 108 | 100.0 | /mnt/stockage/packages/f31/gip/po/rm.po | 
- | [ru]({{< ref "/f31/language/ru.md" >}}) | 103 | 103 | 100.0 | /mnt/stockage/packages/f31/gip/po/ru.po | 
- | [sk]({{< ref "/f31/language/sk.md" >}}) | 108 | 108 | 100.0 | /mnt/stockage/packages/f31/gip/po/sk.po | 
- | [sr]({{< ref "/f31/language/sr.md" >}}) | 103 | 103 | 100.0 | /mnt/stockage/packages/f31/gip/po/sr.po | 
- | [sv]({{< ref "/f31/language/sv.md" >}}) | 103 | 103 | 100.0 | /mnt/stockage/packages/f31/gip/po/sv.po | 
- | [tr]({{< ref "/f31/language/tr.md" >}}) | 100 | 100 | 100.0 | /mnt/stockage/packages/f31/gip/po/tr.po | 
- | [vi]({{< ref "/f31/language/vi.md" >}}) | 103 | 103 | 100.0 | /mnt/stockage/packages/f31/gip/po/vi.po | 
- | [zh_Hans]({{< ref "/f31/language/zh_Hans.md" >}}) | 103 | 103 | 100.0 | /mnt/stockage/packages/f31/gip/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f31/language/zh_Hant.md" >}}) | 103 | 103 | 100.0 | /mnt/stockage/packages/f31/gip/po/zh_TW.po | 
- | [pt]({{< ref "/f31/language/pt.md" >}}) | 92 | 93 | 98.9 | /mnt/stockage/packages/f31/gip/po/pt.po | 
- | [rw]({{< ref "/f31/language/rw.md" >}}) | 3 | 108 | 2.8 | /mnt/stockage/packages/f31/gip/po/rw.po | 
+ | [bg](/f31/language/bg) | 103 | 103 | 100.0 | /mnt/stockage/packages/f31/gip/po/bg.po | 
+ | [da](/f31/language/da) | 103 | 103 | 100.0 | /mnt/stockage/packages/f31/gip/po/da.po | 
+ | [de](/f31/language/de) | 103 | 103 | 100.0 | /mnt/stockage/packages/f31/gip/po/de.po | 
+ | [es](/f31/language/es) | 108 | 108 | 100.0 | /mnt/stockage/packages/f31/gip/po/es.po | 
+ | [eu](/f31/language/eu) | 103 | 103 | 100.0 | /mnt/stockage/packages/f31/gip/po/eu.po | 
+ | [fi](/f31/language/fi) | 103 | 103 | 100.0 | /mnt/stockage/packages/f31/gip/po/fi.po | 
+ | [fr](/f31/language/fr) | 103 | 103 | 100.0 | /mnt/stockage/packages/f31/gip/po/fr.po | 
+ | [ga](/f31/language/ga) | 103 | 103 | 100.0 | /mnt/stockage/packages/f31/gip/po/ga.po | 
+ | [id](/f31/language/id) | 103 | 103 | 100.0 | /mnt/stockage/packages/f31/gip/po/id.po | 
+ | [ms](/f31/language/ms) | 103 | 103 | 100.0 | /mnt/stockage/packages/f31/gip/po/ms.po | 
+ | [nl](/f31/language/nl) | 103 | 103 | 100.0 | /mnt/stockage/packages/f31/gip/po/nl.po | 
+ | [pl](/f31/language/pl) | 103 | 103 | 100.0 | /mnt/stockage/packages/f31/gip/po/pl.po | 
+ | [rm](/f31/language/rm) | 108 | 108 | 100.0 | /mnt/stockage/packages/f31/gip/po/rm.po | 
+ | [ru](/f31/language/ru) | 103 | 103 | 100.0 | /mnt/stockage/packages/f31/gip/po/ru.po | 
+ | [sk](/f31/language/sk) | 108 | 108 | 100.0 | /mnt/stockage/packages/f31/gip/po/sk.po | 
+ | [sr](/f31/language/sr) | 103 | 103 | 100.0 | /mnt/stockage/packages/f31/gip/po/sr.po | 
+ | [sv](/f31/language/sv) | 103 | 103 | 100.0 | /mnt/stockage/packages/f31/gip/po/sv.po | 
+ | [tr](/f31/language/tr) | 100 | 100 | 100.0 | /mnt/stockage/packages/f31/gip/po/tr.po | 
+ | [vi](/f31/language/vi) | 103 | 103 | 100.0 | /mnt/stockage/packages/f31/gip/po/vi.po | 
+ | [zh_Hans](/f31/language/zh_Hans) | 103 | 103 | 100.0 | /mnt/stockage/packages/f31/gip/po/zh_CN.po | 
+ | [zh_Hant](/f31/language/zh_Hant) | 103 | 103 | 100.0 | /mnt/stockage/packages/f31/gip/po/zh_TW.po | 
+ | [pt](/f31/language/pt) | 92 | 93 | 98.9 | /mnt/stockage/packages/f31/gip/po/pt.po | 
+ | [rw](/f31/language/rw) | 3 | 108 | 2.8 | /mnt/stockage/packages/f31/gip/po/rw.po | 
 {.sortable}
 
 

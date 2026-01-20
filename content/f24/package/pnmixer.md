@@ -18,8 +18,8 @@ The package pnmixer (version 0.5.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f24/language/de.md" >}}) | 469 | 469 | 100.0 | /mnt/stockage/packages/f24/pnmixer/po/de.po | 
- | [fr]({{< ref "/f24/language/fr.md" >}}) | 469 | 469 | 100.0 | /mnt/stockage/packages/f24/pnmixer/po/fr.po | 
+ | [de](/f24/language/de) | 469 | 469 | 100.0 | /mnt/stockage/packages/f24/pnmixer/po/de.po | 
+ | [fr](/f24/language/fr) | 469 | 469 | 100.0 | /mnt/stockage/packages/f24/pnmixer/po/fr.po | 
 {.sortable}
 
 

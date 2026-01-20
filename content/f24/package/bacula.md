@@ -18,16 +18,16 @@ The package bacula (version 7.4.7):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [es]({{< ref "/f24/language/es.md" >}}) | 434 | 624 | 69.6 | /mnt/stockage/packages/f24/bacula/po/es.po | 
- | [uk]({{< ref "/f24/language/uk.md" >}}) | 391 | 624 | 62.7 | /mnt/stockage/packages/f24/bacula/po/uk.po | 
- | [pl]({{< ref "/f24/language/pl.md" >}}) | 7995 | 21221 | 37.7 | /mnt/stockage/packages/f24/bacula/po/pl.po | 
- | [de]({{< ref "/f24/language/de.md" >}}) | 69 | 624 | 11.1 | /mnt/stockage/packages/f24/bacula/po/de.po | 
- | [fr]({{< ref "/f24/language/fr.md" >}}) | 69 | 624 | 11.1 | /mnt/stockage/packages/f24/bacula/po/fr.po | 
- | [nl]({{< ref "/f24/language/nl.md" >}}) | 30 | 624 | 4.8 | /mnt/stockage/packages/f24/bacula/po/nl.po | 
- | [es_AR]({{< ref "/f24/language/es_AR.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f24/bacula/po/es_AR.po | 
- | [fi]({{< ref "/f24/language/fi.md" >}}) | 0 | 20282 | 0.0 | /mnt/stockage/packages/f24/bacula/po/fi.po | 
- | [it]({{< ref "/f24/language/it.md" >}}) | 0 | 20037 | 0.0 | /mnt/stockage/packages/f24/bacula/po/it.po | 
- | [sv]({{< ref "/f24/language/sv.md" >}}) | 0 | 624 | 0.0 | /mnt/stockage/packages/f24/bacula/po/sv.po | 
+ | [es](/f24/language/es) | 434 | 624 | 69.6 | /mnt/stockage/packages/f24/bacula/po/es.po | 
+ | [uk](/f24/language/uk) | 391 | 624 | 62.7 | /mnt/stockage/packages/f24/bacula/po/uk.po | 
+ | [pl](/f24/language/pl) | 7995 | 21221 | 37.7 | /mnt/stockage/packages/f24/bacula/po/pl.po | 
+ | [de](/f24/language/de) | 69 | 624 | 11.1 | /mnt/stockage/packages/f24/bacula/po/de.po | 
+ | [fr](/f24/language/fr) | 69 | 624 | 11.1 | /mnt/stockage/packages/f24/bacula/po/fr.po | 
+ | [nl](/f24/language/nl) | 30 | 624 | 4.8 | /mnt/stockage/packages/f24/bacula/po/nl.po | 
+ | [es_AR](/f24/language/es_AR) | 0 | 0 | 0.0 | /mnt/stockage/packages/f24/bacula/po/es_AR.po | 
+ | [fi](/f24/language/fi) | 0 | 20282 | 0.0 | /mnt/stockage/packages/f24/bacula/po/fi.po | 
+ | [it](/f24/language/it) | 0 | 20037 | 0.0 | /mnt/stockage/packages/f24/bacula/po/it.po | 
+ | [sv](/f24/language/sv) | 0 | 624 | 0.0 | /mnt/stockage/packages/f24/bacula/po/sv.po | 
 {.sortable}
 
 

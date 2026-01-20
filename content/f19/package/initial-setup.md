@@ -18,7 +18,7 @@ The package initial-setup (version 0.3.6):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f19/language/cs.md" >}}) | 20 | 20 | 100.0 | /mnt/stockage/packages/f19/initial-setup/locale/cs_CZ/LC_MESSAGES/initial-setup.po | 
+ | [cs](/f19/language/cs) | 20 | 20 | 100.0 | /mnt/stockage/packages/f19/initial-setup/locale/cs_CZ/LC_MESSAGES/initial-setup.po | 
 {.sortable}
 
 

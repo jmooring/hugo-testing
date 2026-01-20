@@ -18,31 +18,31 @@ The package cataclysm-dda (version 0.F.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [es]({{< ref "/f36/language/es.md" >}}) | 565340 | 565340 | 100.0 | /mnt/stockage/packages/f36/cataclysm-dda/lang/po/es_ES.po | 
- | [es_AR]({{< ref "/f36/language/es_AR.md" >}}) | 565340 | 565340 | 100.0 | /mnt/stockage/packages/f36/cataclysm-dda/lang/po/es_AR.po | 
- | [ru]({{< ref "/f36/language/ru.md" >}}) | 565340 | 565340 | 100.0 | /mnt/stockage/packages/f36/cataclysm-dda/lang/po/ru.po | 
- | [zh_Hans]({{< ref "/f36/language/zh_Hans.md" >}}) | 565340 | 565340 | 100.0 | /mnt/stockage/packages/f36/cataclysm-dda/lang/po/zh_CN.po | 
- | [ja]({{< ref "/f36/language/ja.md" >}}) | 565328 | 565340 | 100.0 | /mnt/stockage/packages/f36/cataclysm-dda/lang/po/ja.po | 
- | [zh_Hant]({{< ref "/f36/language/zh_Hant.md" >}}) | 295831 | 565340 | 52.3 | /mnt/stockage/packages/f36/cataclysm-dda/lang/po/zh_TW.po | 
- | [pl]({{< ref "/f36/language/pl.md" >}}) | 238116 | 565340 | 42.1 | /mnt/stockage/packages/f36/cataclysm-dda/lang/po/pl.po | 
- | [de]({{< ref "/f36/language/de.md" >}}) | 187925 | 565340 | 33.2 | /mnt/stockage/packages/f36/cataclysm-dda/lang/po/de.po | 
- | [hu]({{< ref "/f36/language/hu.md" >}}) | 184761 | 565340 | 32.7 | /mnt/stockage/packages/f36/cataclysm-dda/lang/po/hu.po | 
- | [pt_BR]({{< ref "/f36/language/pt_BR.md" >}}) | 174392 | 565340 | 30.8 | /mnt/stockage/packages/f36/cataclysm-dda/lang/po/pt_BR.po | 
- | [ko]({{< ref "/f36/language/ko.md" >}}) | 137974 | 565340 | 24.4 | /mnt/stockage/packages/f36/cataclysm-dda/lang/po/ko.po | 
- | [fr]({{< ref "/f36/language/fr.md" >}}) | 87846 | 565340 | 15.5 | /mnt/stockage/packages/f36/cataclysm-dda/lang/po/fr.po | 
- | [it]({{< ref "/f36/language/it.md" >}}) | 48501 | 565340 | 8.6 | /mnt/stockage/packages/f36/cataclysm-dda/lang/po/it_IT.po | 
- | [nb_NO]({{< ref "/f36/language/nb_NO.md" >}}) | 21946 | 565340 | 3.9 | /mnt/stockage/packages/f36/cataclysm-dda/lang/po/nb.po | 
- | [cs]({{< ref "/f36/language/cs.md" >}}) | 10569 | 565340 | 1.9 | /mnt/stockage/packages/f36/cataclysm-dda/lang/po/cs.po | 
- | [uk]({{< ref "/f36/language/uk.md" >}}) | 8265 | 565340 | 1.5 | /mnt/stockage/packages/f36/cataclysm-dda/lang/po/uk_UA.po | 
- | [el]({{< ref "/f36/language/el.md" >}}) | 5958 | 565340 | 1.1 | /mnt/stockage/packages/f36/cataclysm-dda/lang/po/el.po | 
- | [nl]({{< ref "/f36/language/nl.md" >}}) | 2706 | 565340 | 0.5 | /mnt/stockage/packages/f36/cataclysm-dda/lang/po/nl.po | 
- | [id]({{< ref "/f36/language/id.md" >}}) | 2171 | 565340 | 0.4 | /mnt/stockage/packages/f36/cataclysm-dda/lang/po/id.po | 
- | [sr]({{< ref "/f36/language/sr.md" >}}) | 2110 | 565340 | 0.4 | /mnt/stockage/packages/f36/cataclysm-dda/lang/po/sr.po | 
- | [is]({{< ref "/f36/language/is.md" >}}) | 2062 | 565340 | 0.4 | /mnt/stockage/packages/f36/cataclysm-dda/lang/po/is.po | 
- | [tr]({{< ref "/f36/language/tr.md" >}}) | 1162 | 565340 | 0.2 | /mnt/stockage/packages/f36/cataclysm-dda/lang/po/tr.po | 
- | [error]({{< ref "/f36/language/error.md" >}}) | 264 | 565340 | 0.0 | /mnt/stockage/packages/f36/cataclysm-dda/lang/po/fil_PH.po | 
- | [da]({{< ref "/f36/language/da.md" >}}) | 257 | 565340 | 0.0 | /mnt/stockage/packages/f36/cataclysm-dda/lang/po/da.po | 
- | [ar]({{< ref "/f36/language/ar.md" >}}) | 13 | 565340 | 0.0 | /mnt/stockage/packages/f36/cataclysm-dda/lang/po/ar.po | 
+ | [es](/f36/language/es) | 565340 | 565340 | 100.0 | /mnt/stockage/packages/f36/cataclysm-dda/lang/po/es_ES.po | 
+ | [es_AR](/f36/language/es_AR) | 565340 | 565340 | 100.0 | /mnt/stockage/packages/f36/cataclysm-dda/lang/po/es_AR.po | 
+ | [ru](/f36/language/ru) | 565340 | 565340 | 100.0 | /mnt/stockage/packages/f36/cataclysm-dda/lang/po/ru.po | 
+ | [zh_Hans](/f36/language/zh_Hans) | 565340 | 565340 | 100.0 | /mnt/stockage/packages/f36/cataclysm-dda/lang/po/zh_CN.po | 
+ | [ja](/f36/language/ja) | 565328 | 565340 | 100.0 | /mnt/stockage/packages/f36/cataclysm-dda/lang/po/ja.po | 
+ | [zh_Hant](/f36/language/zh_Hant) | 295831 | 565340 | 52.3 | /mnt/stockage/packages/f36/cataclysm-dda/lang/po/zh_TW.po | 
+ | [pl](/f36/language/pl) | 238116 | 565340 | 42.1 | /mnt/stockage/packages/f36/cataclysm-dda/lang/po/pl.po | 
+ | [de](/f36/language/de) | 187925 | 565340 | 33.2 | /mnt/stockage/packages/f36/cataclysm-dda/lang/po/de.po | 
+ | [hu](/f36/language/hu) | 184761 | 565340 | 32.7 | /mnt/stockage/packages/f36/cataclysm-dda/lang/po/hu.po | 
+ | [pt_BR](/f36/language/pt_BR) | 174392 | 565340 | 30.8 | /mnt/stockage/packages/f36/cataclysm-dda/lang/po/pt_BR.po | 
+ | [ko](/f36/language/ko) | 137974 | 565340 | 24.4 | /mnt/stockage/packages/f36/cataclysm-dda/lang/po/ko.po | 
+ | [fr](/f36/language/fr) | 87846 | 565340 | 15.5 | /mnt/stockage/packages/f36/cataclysm-dda/lang/po/fr.po | 
+ | [it](/f36/language/it) | 48501 | 565340 | 8.6 | /mnt/stockage/packages/f36/cataclysm-dda/lang/po/it_IT.po | 
+ | [nb_NO](/f36/language/nb_NO) | 21946 | 565340 | 3.9 | /mnt/stockage/packages/f36/cataclysm-dda/lang/po/nb.po | 
+ | [cs](/f36/language/cs) | 10569 | 565340 | 1.9 | /mnt/stockage/packages/f36/cataclysm-dda/lang/po/cs.po | 
+ | [uk](/f36/language/uk) | 8265 | 565340 | 1.5 | /mnt/stockage/packages/f36/cataclysm-dda/lang/po/uk_UA.po | 
+ | [el](/f36/language/el) | 5958 | 565340 | 1.1 | /mnt/stockage/packages/f36/cataclysm-dda/lang/po/el.po | 
+ | [nl](/f36/language/nl) | 2706 | 565340 | 0.5 | /mnt/stockage/packages/f36/cataclysm-dda/lang/po/nl.po | 
+ | [id](/f36/language/id) | 2171 | 565340 | 0.4 | /mnt/stockage/packages/f36/cataclysm-dda/lang/po/id.po | 
+ | [sr](/f36/language/sr) | 2110 | 565340 | 0.4 | /mnt/stockage/packages/f36/cataclysm-dda/lang/po/sr.po | 
+ | [is](/f36/language/is) | 2062 | 565340 | 0.4 | /mnt/stockage/packages/f36/cataclysm-dda/lang/po/is.po | 
+ | [tr](/f36/language/tr) | 1162 | 565340 | 0.2 | /mnt/stockage/packages/f36/cataclysm-dda/lang/po/tr.po | 
+ | [error](/f36/language/error) | 264 | 565340 | 0.0 | /mnt/stockage/packages/f36/cataclysm-dda/lang/po/fil_PH.po | 
+ | [da](/f36/language/da) | 257 | 565340 | 0.0 | /mnt/stockage/packages/f36/cataclysm-dda/lang/po/da.po | 
+ | [ar](/f36/language/ar) | 13 | 565340 | 0.0 | /mnt/stockage/packages/f36/cataclysm-dda/lang/po/ar.po | 
 {.sortable}
 
 

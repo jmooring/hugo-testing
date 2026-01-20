@@ -18,8 +18,8 @@ The package lilyterm (version 0.9.6):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f12/language/de.md" >}}) | 482 | 482 | 100.0 | /mnt/stockage/packages/f12/lilyterm/po/de.po | 
- | [zh_Hant]({{< ref "/f12/language/zh_Hant.md" >}}) | 482 | 482 | 100.0 | /mnt/stockage/packages/f12/lilyterm/po/zh_TW.po | 
+ | [de](/f12/language/de) | 482 | 482 | 100.0 | /mnt/stockage/packages/f12/lilyterm/po/de.po | 
+ | [zh_Hant](/f12/language/zh_Hant) | 482 | 482 | 100.0 | /mnt/stockage/packages/f12/lilyterm/po/zh_TW.po | 
 {.sortable}
 
 

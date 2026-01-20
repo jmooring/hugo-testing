@@ -18,23 +18,23 @@ The package jpoker (version 1.0.16):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [da]({{< ref "/f15/language/da.md" >}}) | 256 | 357 | 71.7 | /mnt/stockage/packages/f15/jpoker/jpoker/l10n/jpoker-da.po | 
- | [de]({{< ref "/f15/language/de.md" >}}) | 256 | 357 | 71.7 | /mnt/stockage/packages/f15/jpoker/jpoker/l10n/jpoker-de.po | 
- | [en]({{< ref "/f15/language/en.md" >}}) | 256 | 357 | 71.7 | /mnt/stockage/packages/f15/jpoker/jpoker/l10n/jpoker-en.po | 
- | [en_CA]({{< ref "/f15/language/en_CA.md" >}}) | 256 | 357 | 71.7 | /mnt/stockage/packages/f15/jpoker/jpoker/l10n/jpoker-en_CA.po | 
- | [en_US]({{< ref "/f15/language/en_US.md" >}}) | 256 | 357 | 71.7 | /mnt/stockage/packages/f15/jpoker/jpoker/l10n/jpoker-en_US.po | 
- | [error]({{< ref "/f15/language/error.md" >}}) | 256 | 357 | 71.7 | /mnt/stockage/packages/f15/jpoker/jpoker/l10n/jpoker-fr_FX.po | 
- | [es]({{< ref "/f15/language/es.md" >}}) | 256 | 357 | 71.7 | /mnt/stockage/packages/f15/jpoker/jpoker/l10n/jpoker-es.po | 
- | [fi]({{< ref "/f15/language/fi.md" >}}) | 256 | 357 | 71.7 | /mnt/stockage/packages/f15/jpoker/jpoker/l10n/jpoker-fi.po | 
- | [fr]({{< ref "/f15/language/fr.md" >}}) | 256 | 357 | 71.7 | /mnt/stockage/packages/f15/jpoker/jpoker/l10n/jpoker-fr.po | 
- | [fr_BE]({{< ref "/f15/language/fr_BE.md" >}}) | 256 | 357 | 71.7 | /mnt/stockage/packages/f15/jpoker/jpoker/l10n/jpoker-fr_BE.po | 
- | [fr_CA]({{< ref "/f15/language/fr_CA.md" >}}) | 256 | 357 | 71.7 | /mnt/stockage/packages/f15/jpoker/jpoker/l10n/jpoker-fr_CA.po | 
- | [it]({{< ref "/f15/language/it.md" >}}) | 256 | 357 | 71.7 | /mnt/stockage/packages/f15/jpoker/jpoker/l10n/jpoker-it.po | 
- | [nb_NO]({{< ref "/f15/language/nb_NO.md" >}}) | 256 | 357 | 71.7 | /mnt/stockage/packages/f15/jpoker/jpoker/l10n/jpoker-nb.po | 
- | [nl]({{< ref "/f15/language/nl.md" >}}) | 256 | 357 | 71.7 | /mnt/stockage/packages/f15/jpoker/jpoker/l10n/jpoker-nl.po | 
- | [pt]({{< ref "/f15/language/pt.md" >}}) | 256 | 357 | 71.7 | /mnt/stockage/packages/f15/jpoker/jpoker/l10n/jpoker-pt.po | 
- | [sv]({{< ref "/f15/language/sv.md" >}}) | 256 | 357 | 71.7 | /mnt/stockage/packages/f15/jpoker/jpoker/l10n/jpoker-sv.po | 
- | [ja]({{< ref "/f15/language/ja.md" >}}) | 15 | 357 | 4.2 | /mnt/stockage/packages/f15/jpoker/jpoker/l10n/jpoker-ja.po | 
+ | [da](/f15/language/da) | 256 | 357 | 71.7 | /mnt/stockage/packages/f15/jpoker/jpoker/l10n/jpoker-da.po | 
+ | [de](/f15/language/de) | 256 | 357 | 71.7 | /mnt/stockage/packages/f15/jpoker/jpoker/l10n/jpoker-de.po | 
+ | [en](/f15/language/en) | 256 | 357 | 71.7 | /mnt/stockage/packages/f15/jpoker/jpoker/l10n/jpoker-en.po | 
+ | [en_CA](/f15/language/en_CA) | 256 | 357 | 71.7 | /mnt/stockage/packages/f15/jpoker/jpoker/l10n/jpoker-en_CA.po | 
+ | [en_US](/f15/language/en_US) | 256 | 357 | 71.7 | /mnt/stockage/packages/f15/jpoker/jpoker/l10n/jpoker-en_US.po | 
+ | [error](/f15/language/error) | 256 | 357 | 71.7 | /mnt/stockage/packages/f15/jpoker/jpoker/l10n/jpoker-fr_FX.po | 
+ | [es](/f15/language/es) | 256 | 357 | 71.7 | /mnt/stockage/packages/f15/jpoker/jpoker/l10n/jpoker-es.po | 
+ | [fi](/f15/language/fi) | 256 | 357 | 71.7 | /mnt/stockage/packages/f15/jpoker/jpoker/l10n/jpoker-fi.po | 
+ | [fr](/f15/language/fr) | 256 | 357 | 71.7 | /mnt/stockage/packages/f15/jpoker/jpoker/l10n/jpoker-fr.po | 
+ | [fr_BE](/f15/language/fr_BE) | 256 | 357 | 71.7 | /mnt/stockage/packages/f15/jpoker/jpoker/l10n/jpoker-fr_BE.po | 
+ | [fr_CA](/f15/language/fr_CA) | 256 | 357 | 71.7 | /mnt/stockage/packages/f15/jpoker/jpoker/l10n/jpoker-fr_CA.po | 
+ | [it](/f15/language/it) | 256 | 357 | 71.7 | /mnt/stockage/packages/f15/jpoker/jpoker/l10n/jpoker-it.po | 
+ | [nb_NO](/f15/language/nb_NO) | 256 | 357 | 71.7 | /mnt/stockage/packages/f15/jpoker/jpoker/l10n/jpoker-nb.po | 
+ | [nl](/f15/language/nl) | 256 | 357 | 71.7 | /mnt/stockage/packages/f15/jpoker/jpoker/l10n/jpoker-nl.po | 
+ | [pt](/f15/language/pt) | 256 | 357 | 71.7 | /mnt/stockage/packages/f15/jpoker/jpoker/l10n/jpoker-pt.po | 
+ | [sv](/f15/language/sv) | 256 | 357 | 71.7 | /mnt/stockage/packages/f15/jpoker/jpoker/l10n/jpoker-sv.po | 
+ | [ja](/f15/language/ja) | 15 | 357 | 4.2 | /mnt/stockage/packages/f15/jpoker/jpoker/l10n/jpoker-ja.po | 
 {.sortable}
 
 

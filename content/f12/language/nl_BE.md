@@ -38,12 +38,12 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [clamtk]({{< ref "/f12/package/clamtk.md" >}}) | 677 | 688 | 98.4 | LANGUAGE <LL@li.org> | 
- | [zarafa]({{< ref "/f12/package/zarafa.md" >}}) | 3306 | 3383 | 97.7 | nl_NL <nl@li.org> | 
- | [gourmet]({{< ref "/f12/package/gourmet.md" >}}) | 1213 | 3647 | 33.3 | Dutch (Belgium) <nl_BE@li.org> | 
- | [phpldapadmin]({{< ref "/f12/package/phpldapadmin.md" >}}) | 482 | 3441 | 14.0 | phpLDAPadmin <phpldapadmin-devel@lists.sourceforge.net> | 
- | [gnomebaker]({{< ref "/f12/package/gnomebaker.md" >}}) | 117 | 1186 | 9.9 | Dutch (Belgium) <nl_BE@li.org> | 
- | [bazaar]({{< ref "/f12/package/bazaar.md" >}}) | 125 | 6524 | 1.9 | Dutch (Belgium) <nl_BE@li.org> | 
+ | [clamtk](/f12/package/clamtk) | 677 | 688 | 98.4 | LANGUAGE <LL@li.org> | 
+ | [zarafa](/f12/package/zarafa) | 3306 | 3383 | 97.7 | nl_NL <nl@li.org> | 
+ | [gourmet](/f12/package/gourmet) | 1213 | 3647 | 33.3 | Dutch (Belgium) <nl_BE@li.org> | 
+ | [phpldapadmin](/f12/package/phpldapadmin) | 482 | 3441 | 14.0 | phpLDAPadmin <phpldapadmin-devel@lists.sourceforge.net> | 
+ | [gnomebaker](/f12/package/gnomebaker) | 117 | 1186 | 9.9 | Dutch (Belgium) <nl_BE@li.org> | 
+ | [bazaar](/f12/package/bazaar) | 125 | 6524 | 1.9 | Dutch (Belgium) <nl_BE@li.org> | 
 {.sortable}
 
 

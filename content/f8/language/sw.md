@@ -46,9 +46,9 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [tuxpaint]({{< ref "/f8/package/tuxpaint.md" >}}) | 359 | 591 | 60.7 | Swahili | 
- | [tuxpaint-stamps]({{< ref "/f8/package/tuxpaint-stamps.md" >}}) | 721 | 1908 | 37.8 | Swahili | 
- | [iso-codes]({{< ref "/f8/package/iso-codes.md" >}}) | 130 | 12174 | 1.1 | Swahili | 
+ | [tuxpaint](/f8/package/tuxpaint) | 359 | 591 | 60.7 | Swahili | 
+ | [tuxpaint-stamps](/f8/package/tuxpaint-stamps) | 721 | 1908 | 37.8 | Swahili | 
+ | [iso-codes](/f8/package/iso-codes) | 130 | 12174 | 1.1 | Swahili | 
 {.sortable}
 
 

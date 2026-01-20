@@ -18,11 +18,11 @@ The package driconf (version 0.9.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f25/language/de.md" >}}) | 512 | 512 | 100.0 | /mnt/stockage/packages/f25/driconf/de.po | 
- | [nl]({{< ref "/f25/language/nl.md" >}}) | 512 | 512 | 100.0 | /mnt/stockage/packages/f25/driconf/nl.po | 
- | [ru]({{< ref "/f25/language/ru.md" >}}) | 450 | 512 | 87.9 | /mnt/stockage/packages/f25/driconf/ru.po | 
- | [es]({{< ref "/f25/language/es.md" >}}) | 285 | 512 | 55.7 | /mnt/stockage/packages/f25/driconf/es.po | 
- | [it]({{< ref "/f25/language/it.md" >}}) | 279 | 512 | 54.5 | /mnt/stockage/packages/f25/driconf/it.po | 
+ | [de](/f25/language/de) | 512 | 512 | 100.0 | /mnt/stockage/packages/f25/driconf/de.po | 
+ | [nl](/f25/language/nl) | 512 | 512 | 100.0 | /mnt/stockage/packages/f25/driconf/nl.po | 
+ | [ru](/f25/language/ru) | 450 | 512 | 87.9 | /mnt/stockage/packages/f25/driconf/ru.po | 
+ | [es](/f25/language/es) | 285 | 512 | 55.7 | /mnt/stockage/packages/f25/driconf/es.po | 
+ | [it](/f25/language/it) | 279 | 512 | 54.5 | /mnt/stockage/packages/f25/driconf/it.po | 
 {.sortable}
 
 

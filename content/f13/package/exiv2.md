@@ -18,13 +18,13 @@ The package exiv2 (version 0.19):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f13/language/de.md" >}}) | 14262 | 22435 | 63.6 | /mnt/stockage/packages/f13/exiv2/po/de.po | 
- | [pl]({{< ref "/f13/language/pl.md" >}}) | 13447 | 22435 | 59.9 | /mnt/stockage/packages/f13/exiv2/po/pl.po | 
- | [sk]({{< ref "/f13/language/sk.md" >}}) | 9958 | 22435 | 44.4 | /mnt/stockage/packages/f13/exiv2/po/sk.po | 
- | [fr]({{< ref "/f13/language/fr.md" >}}) | 5097 | 22435 | 22.7 | /mnt/stockage/packages/f13/exiv2/po/fr.po | 
- | [ru]({{< ref "/f13/language/ru.md" >}}) | 3838 | 22435 | 17.1 | /mnt/stockage/packages/f13/exiv2/po/ru.po | 
- | [es]({{< ref "/f13/language/es.md" >}}) | 2214 | 22435 | 9.9 | /mnt/stockage/packages/f13/exiv2/po/es.po | 
- | [fi]({{< ref "/f13/language/fi.md" >}}) | 850 | 22435 | 3.8 | /mnt/stockage/packages/f13/exiv2/po/fi.po | 
+ | [de](/f13/language/de) | 14262 | 22435 | 63.6 | /mnt/stockage/packages/f13/exiv2/po/de.po | 
+ | [pl](/f13/language/pl) | 13447 | 22435 | 59.9 | /mnt/stockage/packages/f13/exiv2/po/pl.po | 
+ | [sk](/f13/language/sk) | 9958 | 22435 | 44.4 | /mnt/stockage/packages/f13/exiv2/po/sk.po | 
+ | [fr](/f13/language/fr) | 5097 | 22435 | 22.7 | /mnt/stockage/packages/f13/exiv2/po/fr.po | 
+ | [ru](/f13/language/ru) | 3838 | 22435 | 17.1 | /mnt/stockage/packages/f13/exiv2/po/ru.po | 
+ | [es](/f13/language/es) | 2214 | 22435 | 9.9 | /mnt/stockage/packages/f13/exiv2/po/es.po | 
+ | [fi](/f13/language/fi) | 850 | 22435 | 3.8 | /mnt/stockage/packages/f13/exiv2/po/fi.po | 
 {.sortable}
 
 

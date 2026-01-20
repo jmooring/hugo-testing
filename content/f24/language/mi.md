@@ -38,87 +38,87 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [sugar-implode]({{< ref "/f24/package/sugar-implode.md" >}}) | 77 | 77 | 100.0 | LANGUAGE <LL@li.org> | 
- | [sugar-maze]({{< ref "/f24/package/sugar-maze.md" >}}) | 7 | 7 | 100.0 | LANGUAGE <LL@li.org> | 
- | [sugar-measure]({{< ref "/f24/package/sugar-measure.md" >}}) | 155 | 155 | 100.0 | LANGUAGE <LL@li.org> | 
- | [sugar-pippy]({{< ref "/f24/package/sugar-pippy.md" >}}) | 109 | 109 | 100.0 | LANGUAGE <LL@li.org> | 
- | [sugar-story]({{< ref "/f24/package/sugar-story.md" >}}) | 24 | 24 | 100.0 | LANGUAGE <LL@li.org> | 
- | [sugar-toolkit-gtk3]({{< ref "/f24/package/sugar-toolkit-gtk3.md" >}}) | 76 | 76 | 100.0 | LANGUAGE <LL@li.org> | 
- | [sugar-visualmatch]({{< ref "/f24/package/sugar-visualmatch.md" >}}) | 158 | 158 | 100.0 | LANGUAGE <LL@li.org> | 
- | [sugar-words]({{< ref "/f24/package/sugar-words.md" >}}) | 3 | 3 | 100.0 | LANGUAGE <LL@li.org> | 
- | [sugar-calculator]({{< ref "/f24/package/sugar-calculator.md" >}}) | 844 | 871 | 96.9 | LANGUAGE <LL@li.org> | 
- | [sugar-typing-turtle]({{< ref "/f24/package/sugar-typing-turtle.md" >}}) | 575 | 599 | 96.0 | LANGUAGE <LL@li.org> | 
- | [sugar-turtleart]({{< ref "/f24/package/sugar-turtleart.md" >}}) | 1368 | 1459 | 93.8 | LANGUAGE <walter@sugarlabs.org> | 
- | [sugar]({{< ref "/f24/package/sugar.md" >}}) | 1573 | 1733 | 90.8 | LANGUAGE <LL@li.org> | 
- | [sugar-labyrinth]({{< ref "/f24/package/sugar-labyrinth.md" >}}) | 254 | 281 | 90.4 | LANGUAGE <LL@li.org> | 
- | [sugar-finance]({{< ref "/f24/package/sugar-finance.md" >}}) | 163 | 189 | 86.2 | LANGUAGE <LL@li.org> | 
- | [sugar-infoslicer]({{< ref "/f24/package/sugar-infoslicer.md" >}}) | 202 | 236 | 85.6 | LANGUAGE <LL@li.org> | 
- | [sugar-getiabooks]({{< ref "/f24/package/sugar-getiabooks.md" >}}) | 100 | 119 | 84.0 | LANGUAGE <LL@li.org> | 
- | [sugar-abacus]({{< ref "/f24/package/sugar-abacus.md" >}}) | 28 | 34 | 82.4 | LANGUAGE <LL@li.org> | 
- | [sugar-memorize]({{< ref "/f24/package/sugar-memorize.md" >}}) | 114 | 142 | 80.3 | LANGUAGE <LL@li.org> | 
- | [sugar-log]({{< ref "/f24/package/sugar-log.md" >}}) | 77 | 98 | 78.6 | LANGUAGE <LL@li.org> | 
- | [sugar-read]({{< ref "/f24/package/sugar-read.md" >}}) | 98 | 137 | 71.5 | LANGUAGE <LL@li.org> | 
- | [sugar-paint]({{< ref "/f24/package/sugar-paint.md" >}}) | 64 | 90 | 71.1 | LANGUAGE <LL@li.org> | 
- | [sugar-write]({{< ref "/f24/package/sugar-write.md" >}}) | 86 | 121 | 71.1 | LANGUAGE <LL@li.org> | 
- | [sugar-moon]({{< ref "/f24/package/sugar-moon.md" >}}) | 83 | 117 | 70.9 | LANGUAGE <LL@li.org> | 
- | [sugar-portfolio]({{< ref "/f24/package/sugar-portfolio.md" >}}) | 41 | 60 | 68.3 | LANGUAGE <LL@li.org> | 
- | [sugar-speak]({{< ref "/f24/package/sugar-speak.md" >}}) | 147 | 227 | 64.8 | LANGUAGE <LL@li.org> | 
- | [sugar-physics]({{< ref "/f24/package/sugar-physics.md" >}}) | 28 | 48 | 58.3 | LANGUAGE <LL@li.org> | 
- | [gdk-pixbuf2]({{< ref "/f24/package/gdk-pixbuf2.md" >}}) | 741 | 1348 | 55.0 | GNOME Māori Team <maori@nzlinux.org.nz> | 
- | [mingw-gdk-pixbuf]({{< ref "/f24/package/mingw-gdk-pixbuf.md" >}}) | 741 | 1348 | 55.0 | GNOME Māori Team <maori@nzlinux.org.nz> | 
- | [sugar-record]({{< ref "/f24/package/sugar-record.md" >}}) | 31 | 62 | 50.0 | LANGUAGE <LL@li.org> | 
- | [sugar-ruler]({{< ref "/f24/package/sugar-ruler.md" >}}) | 14 | 29 | 48.3 | LANGUAGE <LL@li.org> | 
- | [sugar-fototoon]({{< ref "/f24/package/sugar-fototoon.md" >}}) | 35 | 77 | 45.5 | LANGUAGE <LL@li.org> | 
- | [sugar-clock]({{< ref "/f24/package/sugar-clock.md" >}}) | 29 | 66 | 43.9 | LANGUAGE <LL@li.org> | 
- | [sugar-browse]({{< ref "/f24/package/sugar-browse.md" >}}) | 83 | 189 | 43.9 | LANGUAGE <LL@li.org> | 
- | [sugar-chat]({{< ref "/f24/package/sugar-chat.md" >}}) | 56 | 137 | 40.9 | LANGUAGE <LL@li.org> | 
- | [sugar-imageviewer]({{< ref "/f24/package/sugar-imageviewer.md" >}}) | 16 | 58 | 27.6 | LANGUAGE <LL@li.org> | 
- | [sugar-jukebox]({{< ref "/f24/package/sugar-jukebox.md" >}}) | 15 | 69 | 21.7 | LANGUAGE <LL@li.org> | 
- | [gtk2]({{< ref "/f24/package/gtk2.md" >}}) | 1019 | 13704 | 7.4 | GNOME Māori Team <maori@nzlinux.org.nz> | 
- | [mingw-gtk2]({{< ref "/f24/package/mingw-gtk2.md" >}}) | 1019 | 13704 | 7.4 | GNOME Māori Team <maori@nzlinux.org.nz> | 
- | [gnome-desktop]({{< ref "/f24/package/gnome-desktop.md" >}}) | 20 | 320 | 6.2 | Māori <maori@nzlinux.org.nz> | 
- | [gnome-desktop3]({{< ref "/f24/package/gnome-desktop3.md" >}}) | 20 | 320 | 6.2 | Māori <maori@nzlinux.org.nz> | 
- | [libgnomeui]({{< ref "/f24/package/libgnomeui.md" >}}) | 80 | 1419 | 5.6 | Māori <maori@nzlinux.org.nz> | 
- | [sugar-terminal]({{< ref "/f24/package/sugar-terminal.md" >}}) | 6 | 121 | 5.0 | LANGUAGE <LL@li.org> | 
- | [epiphany]({{< ref "/f24/package/epiphany.md" >}}) | 114 | 2732 | 4.2 | GNOME Māori Team <maori@nzlinux.org.nz> | 
- | [nautilus]({{< ref "/f24/package/nautilus.md" >}}) | 244 | 6976 | 3.5 | GNOME Māori Team <maori@nzlinux.org.nz> | 
- | [iso-codes]({{< ref "/f24/package/iso-codes.md" >}}) | 451 | 15707 | 2.9 | Sugar Labs | 
- | [onboard]({{< ref "/f24/package/onboard.md" >}}) | 51 | 2318 | 2.2 | Maori <mi@li.org> | 
- | [librfm]({{< ref "/f24/package/librfm.md" >}}) | 51 | 2397 | 2.1 | GNOME Māori Team <maori@nzlinux.org.nz> | 
- | [caja]({{< ref "/f24/package/caja.md" >}}) | 169 | 9198 | 1.8 | Maori (http://www.transifex.com/mate/MATE/language/mi/) | 
- | [gtk3]({{< ref "/f24/package/gtk3.md" >}}) | 212 | 11853 | 1.8 | GNOME Māori Team <maori@nzlinux.org.nz> | 
- | [mingw-gtk3]({{< ref "/f24/package/mingw-gtk3.md" >}}) | 212 | 11853 | 1.8 | GNOME Māori Team <maori@nzlinux.org.nz> | 
- | [stellarium]({{< ref "/f24/package/stellarium.md" >}}) | 381 | 23532 | 1.6 | Maori <mi@li.org> | 
- | [gedit]({{< ref "/f24/package/gedit.md" >}}) | 68 | 4206 | 1.6 | GNOME Māori Team <maori@nzlinux.org.nz> | 
- | [gnome-session]({{< ref "/f24/package/gnome-session.md" >}}) | 8 | 516 | 1.6 | Māori <maori@nzlinux.org.nz> | 
- | [isomaster]({{< ref "/f24/package/isomaster.md" >}}) | 8 | 674 | 1.2 | http://littlesvr.ca/ostd/ | 
- | [pluma]({{< ref "/f24/package/pluma.md" >}}) | 40 | 5058 | 0.8 | Maori (http://www.transifex.com/mate/MATE/language/mi/) | 
- | [xed]({{< ref "/f24/package/xed.md" >}}) | 34 | 4463 | 0.8 | MATE Māori Team <maori@nzlinux.org.nz> | 
- | [rodent]({{< ref "/f24/package/rodent.md" >}}) | 44 | 9634 | 0.5 | GNOME Māori Team <maori@nzlinux.org.nz> | 
- | [mate-desktop]({{< ref "/f24/package/mate-desktop.md" >}}) | 10 | 2401 | 0.4 | Maori (http://www.transifex.com/mate/MATE/language/mi/) | 
- | [mate-panel]({{< ref "/f24/package/mate-panel.md" >}}) | 5 | 4316 | 0.1 | Maori (http://www.transifex.com/mate/MATE/language/mi/) | 
- | [gedit-plugins]({{< ref "/f24/package/gedit-plugins.md" >}}) | 1 | 1205 | 0.1 | GNOME Māori Team <maori@nzlinux.org.nz> | 
- | [calibre]({{< ref "/f24/package/calibre.md" >}}) | 31 | 152264 | 0.0 | Maori (http://www.transifex.com/calibre/calibre/language/mi/) | 
- | [cinnamon-desktop]({{< ref "/f24/package/cinnamon-desktop.md" >}}) | 0 | 231 | 0.0 | Māori <maori@nzlinux.org.nz> | 
- | [cinnamon-session]({{< ref "/f24/package/cinnamon-session.md" >}}) | 0 | 401 | 0.0 | Māori <maori@nzlinux.org.nz> | 
- | [gdm]({{< ref "/f24/package/gdm.md" >}}) | 0 | 650 | 0.0 | Maori <maori@nzlinux.org.nz> | 
- | [gucharmap]({{< ref "/f24/package/gucharmap.md" >}}) | 0 | 507 | 0.0 | Maori <maori@nzlinux.org.nz> | 
- | [libgtop2]({{< ref "/f24/package/libgtop2.md" >}}) | 0 | 134 | 0.0 | Maori <maori@nzlinux.org.nz> | 
- | [libmatekbd]({{< ref "/f24/package/libmatekbd.md" >}}) | 0 | 251 | 0.0 | Maori (http://www.transifex.com/mate/MATE/language/mi/) | 
- | [libwnck]({{< ref "/f24/package/libwnck.md" >}}) | 0 | 73 | 0.0 | Maori <maori@nzlinux.org.nz> | 
- | [libwnck3]({{< ref "/f24/package/libwnck3.md" >}}) | 0 | 73 | 0.0 | Maori <maori@nzlinux.org.nz> | 
- | [lightdm]({{< ref "/f24/package/lightdm.md" >}}) | 0 | 79 | 0.0 | Maori <mi@li.org> | 
- | [mate-user-guide]({{< ref "/f24/package/mate-user-guide.md" >}}) | 0 | 5 | 0.0 | Maori (http://www.transifex.com/mate/MATE/language/mi/) | 
- | [olpc-switch-desktop]({{< ref "/f24/package/olpc-switch-desktop.md" >}}) | 0 | 158 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-deducto]({{< ref "/f24/package/sugar-deducto.md" >}}) | 0 | 109 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-fractionbounce]({{< ref "/f24/package/sugar-fractionbounce.md" >}}) | 0 | 68 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-starchart]({{< ref "/f24/package/sugar-starchart.md" >}}) | 0 | 311 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-toolkit]({{< ref "/f24/package/sugar-toolkit.md" >}}) | 0 | 73 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-yupana]({{< ref "/f24/package/sugar-yupana.md" >}}) | 0 | 30 | 0.0 | LANGUAGE <LL@li.org> | 
- | [vte]({{< ref "/f24/package/vte.md" >}}) | 0 | 96 | 0.0 | Maori <maori@nzlinux.org.nz> | 
- | [vte291]({{< ref "/f24/package/vte291.md" >}}) | 0 | 96 | 0.0 | Maori <maori@nzlinux.org.nz> | 
- | [vte3]({{< ref "/f24/package/vte3.md" >}}) | 0 | 96 | 0.0 | Maori <maori@nzlinux.org.nz> | 
- | [zenity]({{< ref "/f24/package/zenity.md" >}}) | 0 | 394 | 0.0 | Maori <maori@nzlinux.org.nz> | 
+ | [sugar-implode](/f24/package/sugar-implode) | 77 | 77 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-maze](/f24/package/sugar-maze) | 7 | 7 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-measure](/f24/package/sugar-measure) | 155 | 155 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-pippy](/f24/package/sugar-pippy) | 109 | 109 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-story](/f24/package/sugar-story) | 24 | 24 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-toolkit-gtk3](/f24/package/sugar-toolkit-gtk3) | 76 | 76 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-visualmatch](/f24/package/sugar-visualmatch) | 158 | 158 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-words](/f24/package/sugar-words) | 3 | 3 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-calculator](/f24/package/sugar-calculator) | 844 | 871 | 96.9 | LANGUAGE <LL@li.org> | 
+ | [sugar-typing-turtle](/f24/package/sugar-typing-turtle) | 575 | 599 | 96.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-turtleart](/f24/package/sugar-turtleart) | 1368 | 1459 | 93.8 | LANGUAGE <walter@sugarlabs.org> | 
+ | [sugar](/f24/package/sugar) | 1573 | 1733 | 90.8 | LANGUAGE <LL@li.org> | 
+ | [sugar-labyrinth](/f24/package/sugar-labyrinth) | 254 | 281 | 90.4 | LANGUAGE <LL@li.org> | 
+ | [sugar-finance](/f24/package/sugar-finance) | 163 | 189 | 86.2 | LANGUAGE <LL@li.org> | 
+ | [sugar-infoslicer](/f24/package/sugar-infoslicer) | 202 | 236 | 85.6 | LANGUAGE <LL@li.org> | 
+ | [sugar-getiabooks](/f24/package/sugar-getiabooks) | 100 | 119 | 84.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-abacus](/f24/package/sugar-abacus) | 28 | 34 | 82.4 | LANGUAGE <LL@li.org> | 
+ | [sugar-memorize](/f24/package/sugar-memorize) | 114 | 142 | 80.3 | LANGUAGE <LL@li.org> | 
+ | [sugar-log](/f24/package/sugar-log) | 77 | 98 | 78.6 | LANGUAGE <LL@li.org> | 
+ | [sugar-read](/f24/package/sugar-read) | 98 | 137 | 71.5 | LANGUAGE <LL@li.org> | 
+ | [sugar-paint](/f24/package/sugar-paint) | 64 | 90 | 71.1 | LANGUAGE <LL@li.org> | 
+ | [sugar-write](/f24/package/sugar-write) | 86 | 121 | 71.1 | LANGUAGE <LL@li.org> | 
+ | [sugar-moon](/f24/package/sugar-moon) | 83 | 117 | 70.9 | LANGUAGE <LL@li.org> | 
+ | [sugar-portfolio](/f24/package/sugar-portfolio) | 41 | 60 | 68.3 | LANGUAGE <LL@li.org> | 
+ | [sugar-speak](/f24/package/sugar-speak) | 147 | 227 | 64.8 | LANGUAGE <LL@li.org> | 
+ | [sugar-physics](/f24/package/sugar-physics) | 28 | 48 | 58.3 | LANGUAGE <LL@li.org> | 
+ | [gdk-pixbuf2](/f24/package/gdk-pixbuf2) | 741 | 1348 | 55.0 | GNOME Māori Team <maori@nzlinux.org.nz> | 
+ | [mingw-gdk-pixbuf](/f24/package/mingw-gdk-pixbuf) | 741 | 1348 | 55.0 | GNOME Māori Team <maori@nzlinux.org.nz> | 
+ | [sugar-record](/f24/package/sugar-record) | 31 | 62 | 50.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-ruler](/f24/package/sugar-ruler) | 14 | 29 | 48.3 | LANGUAGE <LL@li.org> | 
+ | [sugar-fototoon](/f24/package/sugar-fototoon) | 35 | 77 | 45.5 | LANGUAGE <LL@li.org> | 
+ | [sugar-clock](/f24/package/sugar-clock) | 29 | 66 | 43.9 | LANGUAGE <LL@li.org> | 
+ | [sugar-browse](/f24/package/sugar-browse) | 83 | 189 | 43.9 | LANGUAGE <LL@li.org> | 
+ | [sugar-chat](/f24/package/sugar-chat) | 56 | 137 | 40.9 | LANGUAGE <LL@li.org> | 
+ | [sugar-imageviewer](/f24/package/sugar-imageviewer) | 16 | 58 | 27.6 | LANGUAGE <LL@li.org> | 
+ | [sugar-jukebox](/f24/package/sugar-jukebox) | 15 | 69 | 21.7 | LANGUAGE <LL@li.org> | 
+ | [gtk2](/f24/package/gtk2) | 1019 | 13704 | 7.4 | GNOME Māori Team <maori@nzlinux.org.nz> | 
+ | [mingw-gtk2](/f24/package/mingw-gtk2) | 1019 | 13704 | 7.4 | GNOME Māori Team <maori@nzlinux.org.nz> | 
+ | [gnome-desktop](/f24/package/gnome-desktop) | 20 | 320 | 6.2 | Māori <maori@nzlinux.org.nz> | 
+ | [gnome-desktop3](/f24/package/gnome-desktop3) | 20 | 320 | 6.2 | Māori <maori@nzlinux.org.nz> | 
+ | [libgnomeui](/f24/package/libgnomeui) | 80 | 1419 | 5.6 | Māori <maori@nzlinux.org.nz> | 
+ | [sugar-terminal](/f24/package/sugar-terminal) | 6 | 121 | 5.0 | LANGUAGE <LL@li.org> | 
+ | [epiphany](/f24/package/epiphany) | 114 | 2732 | 4.2 | GNOME Māori Team <maori@nzlinux.org.nz> | 
+ | [nautilus](/f24/package/nautilus) | 244 | 6976 | 3.5 | GNOME Māori Team <maori@nzlinux.org.nz> | 
+ | [iso-codes](/f24/package/iso-codes) | 451 | 15707 | 2.9 | Sugar Labs | 
+ | [onboard](/f24/package/onboard) | 51 | 2318 | 2.2 | Maori <mi@li.org> | 
+ | [librfm](/f24/package/librfm) | 51 | 2397 | 2.1 | GNOME Māori Team <maori@nzlinux.org.nz> | 
+ | [caja](/f24/package/caja) | 169 | 9198 | 1.8 | Maori (http://www.transifex.com/mate/MATE/language/mi/) | 
+ | [gtk3](/f24/package/gtk3) | 212 | 11853 | 1.8 | GNOME Māori Team <maori@nzlinux.org.nz> | 
+ | [mingw-gtk3](/f24/package/mingw-gtk3) | 212 | 11853 | 1.8 | GNOME Māori Team <maori@nzlinux.org.nz> | 
+ | [stellarium](/f24/package/stellarium) | 381 | 23532 | 1.6 | Maori <mi@li.org> | 
+ | [gedit](/f24/package/gedit) | 68 | 4206 | 1.6 | GNOME Māori Team <maori@nzlinux.org.nz> | 
+ | [gnome-session](/f24/package/gnome-session) | 8 | 516 | 1.6 | Māori <maori@nzlinux.org.nz> | 
+ | [isomaster](/f24/package/isomaster) | 8 | 674 | 1.2 | http://littlesvr.ca/ostd/ | 
+ | [pluma](/f24/package/pluma) | 40 | 5058 | 0.8 | Maori (http://www.transifex.com/mate/MATE/language/mi/) | 
+ | [xed](/f24/package/xed) | 34 | 4463 | 0.8 | MATE Māori Team <maori@nzlinux.org.nz> | 
+ | [rodent](/f24/package/rodent) | 44 | 9634 | 0.5 | GNOME Māori Team <maori@nzlinux.org.nz> | 
+ | [mate-desktop](/f24/package/mate-desktop) | 10 | 2401 | 0.4 | Maori (http://www.transifex.com/mate/MATE/language/mi/) | 
+ | [mate-panel](/f24/package/mate-panel) | 5 | 4316 | 0.1 | Maori (http://www.transifex.com/mate/MATE/language/mi/) | 
+ | [gedit-plugins](/f24/package/gedit-plugins) | 1 | 1205 | 0.1 | GNOME Māori Team <maori@nzlinux.org.nz> | 
+ | [calibre](/f24/package/calibre) | 31 | 152264 | 0.0 | Maori (http://www.transifex.com/calibre/calibre/language/mi/) | 
+ | [cinnamon-desktop](/f24/package/cinnamon-desktop) | 0 | 231 | 0.0 | Māori <maori@nzlinux.org.nz> | 
+ | [cinnamon-session](/f24/package/cinnamon-session) | 0 | 401 | 0.0 | Māori <maori@nzlinux.org.nz> | 
+ | [gdm](/f24/package/gdm) | 0 | 650 | 0.0 | Maori <maori@nzlinux.org.nz> | 
+ | [gucharmap](/f24/package/gucharmap) | 0 | 507 | 0.0 | Maori <maori@nzlinux.org.nz> | 
+ | [libgtop2](/f24/package/libgtop2) | 0 | 134 | 0.0 | Maori <maori@nzlinux.org.nz> | 
+ | [libmatekbd](/f24/package/libmatekbd) | 0 | 251 | 0.0 | Maori (http://www.transifex.com/mate/MATE/language/mi/) | 
+ | [libwnck](/f24/package/libwnck) | 0 | 73 | 0.0 | Maori <maori@nzlinux.org.nz> | 
+ | [libwnck3](/f24/package/libwnck3) | 0 | 73 | 0.0 | Maori <maori@nzlinux.org.nz> | 
+ | [lightdm](/f24/package/lightdm) | 0 | 79 | 0.0 | Maori <mi@li.org> | 
+ | [mate-user-guide](/f24/package/mate-user-guide) | 0 | 5 | 0.0 | Maori (http://www.transifex.com/mate/MATE/language/mi/) | 
+ | [olpc-switch-desktop](/f24/package/olpc-switch-desktop) | 0 | 158 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-deducto](/f24/package/sugar-deducto) | 0 | 109 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-fractionbounce](/f24/package/sugar-fractionbounce) | 0 | 68 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-starchart](/f24/package/sugar-starchart) | 0 | 311 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-toolkit](/f24/package/sugar-toolkit) | 0 | 73 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-yupana](/f24/package/sugar-yupana) | 0 | 30 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [vte](/f24/package/vte) | 0 | 96 | 0.0 | Maori <maori@nzlinux.org.nz> | 
+ | [vte291](/f24/package/vte291) | 0 | 96 | 0.0 | Maori <maori@nzlinux.org.nz> | 
+ | [vte3](/f24/package/vte3) | 0 | 96 | 0.0 | Maori <maori@nzlinux.org.nz> | 
+ | [zenity](/f24/package/zenity) | 0 | 394 | 0.0 | Maori <maori@nzlinux.org.nz> | 
 {.sortable}
 
 

@@ -43,391 +43,391 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [GConf2]({{< ref "/f16/package/GConf2.md" >}}) | 4035 | 4035 | 100.0 | Hindi <hindi.sf.net> | 
- | [NetworkManager]({{< ref "/f16/package/NetworkManager.md" >}}) | 2615 | 2615 | 100.0 | Hindi <kde-i18n-doc@kde.org> | 
- | [alacarte]({{< ref "/f16/package/alacarte.md" >}}) | 42 | 42 | 100.0 | Hindi <hindi.sf.net> | 
- | [anerley]({{< ref "/f16/package/anerley.md" >}}) | 5 | 5 | 100.0 | HINDI | 
- | [at-spi]({{< ref "/f16/package/at-spi.md" >}}) | 24 | 24 | 100.0 | Hindi <hindi.sf.net> | 
- | [atk]({{< ref "/f16/package/atk.md" >}}) | 375 | 375 | 100.0 | Hindi <hindi.sf.net> | 
- | [atomix]({{< ref "/f16/package/atomix.md" >}}) | 125 | 125 | 100.0 | Gnome Hindi Team<indlinux-hindi-gnome@lists.sourceforge.net> | 
- | [audacity]({{< ref "/f16/package/audacity.md" >}}) | 10642 | 10642 | 100.0 | bashishtha narayan singh <bashishtha.singh@gmail.com> | 
- | [cheese]({{< ref "/f16/package/cheese.md" >}}) | 517 | 517 | 100.0 | Hindi <fedora-trans-hi@redhat.com> | 
- | [cracklib]({{< ref "/f16/package/cracklib.md" >}}) | 93 | 93 | 100.0 | Hindi <Red Hat> | 
- | [debconf]({{< ref "/f16/package/debconf.md" >}}) | 191 | 191 | 100.0 | American English <kde-i18n-doc@kde.org> | 
- | [dialog]({{< ref "/f16/package/dialog.md" >}}) | 25 | 25 | 100.0 | <elinks@knopper.net> | 
- | [ekiga]({{< ref "/f16/package/ekiga.md" >}}) | 4043 | 4043 | 100.0 | Hindi <hindi.sf.net> | 
- | [emerald]({{< ref "/f16/package/emerald.md" >}}) | 774 | 774 | 100.0 | gist bengali team <info.gist@cdac.in> | 
- | [epiphany]({{< ref "/f16/package/epiphany.md" >}}) | 3033 | 3033 | 100.0 | Hindi <hindi.sf.net> | 
- | [evince]({{< ref "/f16/package/evince.md" >}}) | 1155 | 1155 | 100.0 | Hindi <hindi.sf.net> | 
- | [evolution-rss]({{< ref "/f16/package/evolution-rss.md" >}}) | 704 | 704 | 100.0 | Hindi <hindi.sf.net> | 
- | [f-spot]({{< ref "/f16/package/f-spot.md" >}}) | 3557 | 3557 | 100.0 | Hindi <hindi.sf.net> | 
- | [firstboot]({{< ref "/f16/package/firstboot.md" >}}) | 596 | 596 | 100.0 | Hindi <indlinux-hindi@lists.sourceforge.net> | 
- | [gconf-editor]({{< ref "/f16/package/gconf-editor.md" >}}) | 336 | 336 | 100.0 | Hindi <hindi.sf.net> | 
- | [gdm]({{< ref "/f16/package/gdm.md" >}}) | 1090 | 1090 | 100.0 | Hindi <fedora-trans-hi@redhat.com> | 
- | [gedit]({{< ref "/f16/package/gedit.md" >}}) | 4323 | 4323 | 100.0 | Hindi <Indlinux> | 
- | [ggz-base-libs]({{< ref "/f16/package/ggz-base-libs.md" >}}) | 74 | 74 | 100.0 | Hindi <hindi.sf.net> | 
- | [ggz-gtk-client]({{< ref "/f16/package/ggz-gtk-client.md" >}}) | 773 | 773 | 100.0 | Hindi <hindi.sf.net> | 
- | [glib-networking]({{< ref "/f16/package/glib-networking.md" >}}) | 86 | 86 | 100.0 | indlinux-hindi@lists.sourceforge.net | 
- | [gnome-applets]({{< ref "/f16/package/gnome-applets.md" >}}) | 3367 | 3367 | 100.0 | Hindi <hindi.sf.net> | 
- | [gnome-backgrounds]({{< ref "/f16/package/gnome-backgrounds.md" >}}) | 23 | 23 | 100.0 | Hindi <hindi.sf.net> | 
- | [gnome-bluetooth]({{< ref "/f16/package/gnome-bluetooth.md" >}}) | 662 | 662 | 100.0 | Hindi <Indlinux> | 
- | [gnome-desktop]({{< ref "/f16/package/gnome-desktop.md" >}}) | 351 | 351 | 100.0 | Hindi <hindi.sf.net> | 
- | [gnome-desktop3]({{< ref "/f16/package/gnome-desktop3.md" >}}) | 379 | 379 | 100.0 | Hindi <hindi.sf.net> | 
- | [gnome-doc-utils]({{< ref "/f16/package/gnome-doc-utils.md" >}}) | 249 | 249 | 100.0 | Hindi <hindi.sf.net> | 
- | [gnome-icon-theme]({{< ref "/f16/package/gnome-icon-theme.md" >}}) | 20 | 20 | 100.0 | Hindi <hindi.sf.net> | 
- | [gnome-keyring]({{< ref "/f16/package/gnome-keyring.md" >}}) | 1823 | 1823 | 100.0 | Hindi <hindi.sf.net> | 
- | [gnome-mag]({{< ref "/f16/package/gnome-mag.md" >}}) | 298 | 298 | 100.0 | Hindi <hindi.sf.net> | 
- | [gnome-media]({{< ref "/f16/package/gnome-media.md" >}}) | 1190 | 1190 | 100.0 | Hindi <hindi.sf.net> | 
- | [gnome-menus]({{< ref "/f16/package/gnome-menus.md" >}}) | 161 | 161 | 100.0 | Hindi <hindi.sf.net> | 
- | [gnome-mime-data]({{< ref "/f16/package/gnome-mime-data.md" >}}) | 887 | 887 | 100.0 | Hindi <indlinux-hindi@lists.sourceforge.net> | 
- | [gnome-panel]({{< ref "/f16/package/gnome-panel.md" >}}) | 4279 | 4279 | 100.0 | Hindi <fedora-trans-hi@redhat.com> | 
- | [gnome-screensaver]({{< ref "/f16/package/gnome-screensaver.md" >}}) | 989 | 989 | 100.0 | Hindi <hindi.sf.net> | 
- | [gnome-session]({{< ref "/f16/package/gnome-session.md" >}}) | 638 | 638 | 100.0 | Hindi <hindi.sf.net> | 
- | [gnome-system-monitor]({{< ref "/f16/package/gnome-system-monitor.md" >}}) | 933 | 933 | 100.0 | Hindi <hindi.sf.net> | 
- | [gnome-terminal]({{< ref "/f16/package/gnome-terminal.md" >}}) | 3904 | 3904 | 100.0 | Hindi <hindi.sf.net> | 
- | [gnome-themes]({{< ref "/f16/package/gnome-themes.md" >}}) | 109 | 109 | 100.0 | Hindi <hindi.sf.net> | 
- | [gnome-user-share]({{< ref "/f16/package/gnome-user-share.md" >}}) | 288 | 288 | 100.0 | Hindi <hindi.sf.net> | 
- | [gnome-vfs2]({{< ref "/f16/package/gnome-vfs2.md" >}}) | 1508 | 1508 | 100.0 | Hindi <hindi.sf.net> | 
- | [gok]({{< ref "/f16/package/gok.md" >}}) | 1937 | 1937 | 100.0 | Hindi <hindi.sf.net> | 
- | [gtk2-engines]({{< ref "/f16/package/gtk2-engines.md" >}}) | 119 | 119 | 100.0 | Hindi <hindi.sf.net> | 
- | [gtksourceview]({{< ref "/f16/package/gtksourceview.md" >}}) | 849 | 849 | 100.0 | Hindi <fedora-trans-hi@redhat.com> | 
- | [gtksourceview2]({{< ref "/f16/package/gtksourceview2.md" >}}) | 1120 | 1120 | 100.0 | Hindi <hindi.sf.net> | 
- | [gucharmap]({{< ref "/f16/package/gucharmap.md" >}}) | 803 | 803 | 100.0 | Hindi <hindi.sf.net> | 
- | [gvfs]({{< ref "/f16/package/gvfs.md" >}}) | 1858 | 1858 | 100.0 | Hindi <hindi.sf.net> | 
- | [hamster-applet]({{< ref "/f16/package/hamster-applet.md" >}}) | 553 | 553 | 100.0 | Hindi <hindi.sf.net> | 
- | [hivex]({{< ref "/f16/package/hivex.md" >}}) | 270 | 270 | 100.0 | Hindi <indlinux-hindi@lists.sourceforge.net> | 
- | [ibus]({{< ref "/f16/package/ibus.md" >}}) | 610 | 610 | 100.0 | Hindi <fedora-trans-hi@redhat.com> | 
- | [imsettings]({{< ref "/f16/package/imsettings.md" >}}) | 404 | 404 | 100.0 | Hindi (http://www.transifex.net/projects/p/imsettings/team/hi/) | 
- | [initscripts]({{< ref "/f16/package/initscripts.md" >}}) | 4349 | 4349 | 100.0 | Maithili <bhashaghar@googlegroups.com> | 
- | [iok]({{< ref "/f16/package/iok.md" >}}) | 142 | 142 | 100.0 | Hindi <hindi.sf.net> | 
- | [istanbul]({{< ref "/f16/package/istanbul.md" >}}) | 89 | 89 | 100.0 | Hindi <indlinux-hindi@lists.sourceforge.net> | 
- | [kexec-tools]({{< ref "/f16/package/kexec-tools.md" >}}) | 206 | 206 | 100.0 | Hindi <hindi.sf.net> | 
- | [libbonobo]({{< ref "/f16/package/libbonobo.md" >}}) | 543 | 543 | 100.0 | Hindi <hindi.sf.net> | 
- | [libbonoboui]({{< ref "/f16/package/libbonoboui.md" >}}) | 368 | 368 | 100.0 | Hindi <hindi.sf.net> | 
- | [libcryptui]({{< ref "/f16/package/libcryptui.md" >}}) | 3042 | 3042 | 100.0 | Hindi <hindi.sf.net> | 
- | [libgnome]({{< ref "/f16/package/libgnome.md" >}}) | 1772 | 1772 | 100.0 | Hindi <hindi.sf.net> | 
- | [libgnome-keyring]({{< ref "/f16/package/libgnome-keyring.md" >}}) | 44 | 44 | 100.0 | Hindi <Indlinux> | 
- | [libgnomecanvas]({{< ref "/f16/package/libgnomecanvas.md" >}}) | 378 | 378 | 100.0 | Hindi <hindi.sf.net> | 
- | [libgnomecups]({{< ref "/f16/package/libgnomecups.md" >}}) | 11 | 11 | 100.0 | Hindi <fedora-trans-hi@redhat.com> | 
- | [libgnomekbd]({{< ref "/f16/package/libgnomekbd.md" >}}) | 246 | 246 | 100.0 | Hindi <hindi.sf.net> | 
- | [libgnomeprint22]({{< ref "/f16/package/libgnomeprint22.md" >}}) | 168 | 168 | 100.0 | Hindi <fedora-trans-hi@redhat.com> | 
- | [libgnomeprintui22]({{< ref "/f16/package/libgnomeprintui22.md" >}}) | 481 | 481 | 100.0 | Hindi <hindi.sf.net> | 
- | [libgnomeui]({{< ref "/f16/package/libgnomeui.md" >}}) | 1226 | 1226 | 100.0 | Hindi <hindi.sf.net> | 
- | [libgtop2]({{< ref "/f16/package/libgtop2.md" >}}) | 126 | 126 | 100.0 | Hindi <hindi.sf.net> | 
- | [libgweather]({{< ref "/f16/package/libgweather.md" >}}) | 6051 | 6051 | 100.0 | Hindi <hindi.sf.net> | 
- | [libmatecanvas]({{< ref "/f16/package/libmatecanvas.md" >}}) | 378 | 378 | 100.0 | Hindi (http://www.transifex.com/projects/p/MATE/language/hi/) | 
- | [libmatekbd]({{< ref "/f16/package/libmatekbd.md" >}}) | 246 | 246 | 100.0 | Hindi <hindi.sf.net> | 
- | [libmatewnck]({{< ref "/f16/package/libmatewnck.md" >}}) | 1124 | 1124 | 100.0 | Hindi <hindi.sf.net> | 
- | [libwnck]({{< ref "/f16/package/libwnck.md" >}}) | 1124 | 1124 | 100.0 | Hindi <hindi.sf.net> | 
- | [libwnck3]({{< ref "/f16/package/libwnck3.md" >}}) | 1124 | 1124 | 100.0 | Hindi <hindi.sf.net> | 
- | [lxmenu-data]({{< ref "/f16/package/lxmenu-data.md" >}}) | 97 | 97 | 100.0 | Hindi <hindi.sf.net> | 
- | [mate-control-center]({{< ref "/f16/package/mate-control-center.md" >}}) | 3245 | 3245 | 100.0 | Hindi <hindi.sf.net> | 
- | [mate-file-archiver]({{< ref "/f16/package/mate-file-archiver.md" >}}) | 1272 | 1272 | 100.0 | Hindi <hindi.sf.net> | 
- | [mate-file-manager-sendto]({{< ref "/f16/package/mate-file-manager-sendto.md" >}}) | 316 | 316 | 100.0 | Hindi <hindi.sf.net> | 
- | [mate-icon-theme]({{< ref "/f16/package/mate-icon-theme.md" >}}) | 20 | 20 | 100.0 | Hindi <hindi.sf.net> | 
- | [mate-menus]({{< ref "/f16/package/mate-menus.md" >}}) | 161 | 161 | 100.0 | Hindi <hindi.sf.net> | 
- | [mate-panel]({{< ref "/f16/package/mate-panel.md" >}}) | 4476 | 4476 | 100.0 | Hindi <fedora-trans-hi@redhat.com> | 
- | [mate-polkit]({{< ref "/f16/package/mate-polkit.md" >}}) | 311 | 311 | 100.0 | Hindi <indlinux> | 
- | [mate-power-manager]({{< ref "/f16/package/mate-power-manager.md" >}}) | 2786 | 2786 | 100.0 | Hindi <hindi.sf.net> | 
- | [mate-screensaver]({{< ref "/f16/package/mate-screensaver.md" >}}) | 989 | 989 | 100.0 | Hindi <hindi.sf.net> | 
- | [mate-session-manager]({{< ref "/f16/package/mate-session-manager.md" >}}) | 638 | 638 | 100.0 | Hindi <hindi.sf.net> | 
- | [mate-settings-daemon]({{< ref "/f16/package/mate-settings-daemon.md" >}}) | 1624 | 1624 | 100.0 | Hindi <hindi.sf.net> | 
- | [mate-system-monitor]({{< ref "/f16/package/mate-system-monitor.md" >}}) | 933 | 933 | 100.0 | Hindi <hindi.sf.net> | 
- | [mate-terminal]({{< ref "/f16/package/mate-terminal.md" >}}) | 3904 | 3904 | 100.0 | Hindi <hindi.sf.net> | 
- | [metacity]({{< ref "/f16/package/metacity.md" >}}) | 3821 | 3821 | 100.0 | Hindi <hindi.sf.net> | 
- | [mingw32-atk]({{< ref "/f16/package/mingw32-atk.md" >}}) | 375 | 375 | 100.0 | Hindi <hindi.sf.net> | 
- | [mingw32-glib-networking]({{< ref "/f16/package/mingw32-glib-networking.md" >}}) | 86 | 86 | 100.0 | indlinux-hindi@lists.sourceforge.net | 
- | [mingw32-gtkhtml3]({{< ref "/f16/package/mingw32-gtkhtml3.md" >}}) | 912 | 912 | 100.0 | Hindi <fedora-trans-hi@redhat.com> | 
- | [mousetweaks]({{< ref "/f16/package/mousetweaks.md" >}}) | 715 | 715 | 100.0 | Hindi <hindi.sf.net> | 
- | [muffin]({{< ref "/f16/package/muffin.md" >}}) | 3864 | 3864 | 100.0 | Hindi <hindi.sf.net> | 
- | [multimedia-menus]({{< ref "/f16/package/multimedia-menus.md" >}}) | 56 | 56 | 100.0 | Hindi <hindi.sf.net> | 
- | [mutter]({{< ref "/f16/package/mutter.md" >}}) | 3864 | 3864 | 100.0 | Hindi <hindi.sf.net> | 
- | [mutter-mbl]({{< ref "/f16/package/mutter-mbl.md" >}}) | 3864 | 3864 | 100.0 | Hindi <hindi.sf.net> | 
- | [nautilus]({{< ref "/f16/package/nautilus.md" >}}) | 8620 | 8620 | 100.0 | Hindi <hindi.sf.net> | 
- | [nautilus-sendto]({{< ref "/f16/package/nautilus-sendto.md" >}}) | 316 | 316 | 100.0 | Hindi <hindi.sf.net> | 
- | [newt]({{< ref "/f16/package/newt.md" >}}) | 4 | 4 | 100.0 | Ravishankar Shrivastava <raviratlami@yahoo.com> | 
- | [olpc-switch-desktop]({{< ref "/f16/package/olpc-switch-desktop.md" >}}) | 158 | 158 | 100.0 | LANGUAGE <LL@li.org> | 
- | [pam_krb5]({{< ref "/f16/package/pam_krb5.md" >}}) | 7 | 7 | 100.0 | Hindi <indlinux-hindi@lists.sourceforge.net> | 
- | [paprefs]({{< ref "/f16/package/paprefs.md" >}}) | 131 | 131 | 100.0 | Hindi <hindi.sf.net> | 
- | [passwd]({{< ref "/f16/package/passwd.md" >}}) | 299 | 299 | 100.0 | Hindi <hindi.sf.net> | 
- | [pessulus]({{< ref "/f16/package/pessulus.md" >}}) | 130 | 130 | 100.0 | Hindi <hindi.sf.net> | 
- | [polkit-gnome]({{< ref "/f16/package/polkit-gnome.md" >}}) | 311 | 311 | 100.0 | Hindi <indlinux> | 
- | [publican-ovirt]({{< ref "/f16/package/publican-ovirt.md" >}}) | 288 | 288 | 100.0 | Hindi <hindi.sf.net> | 
- | [publican-redhat]({{< ref "/f16/package/publican-redhat.md" >}}) | 220 | 220 | 100.0 | Hindi <fedora-trans-hi@redhat.com> | 
- | [python-meh]({{< ref "/f16/package/python-meh.md" >}}) | 269 | 269 | 100.0 | Hindi <hindi.sf.net> | 
- | [redhat-menus]({{< ref "/f16/package/redhat-menus.md" >}}) | 261 | 261 | 100.0 | Hindi <hindi.sf.net> | 
- | [rhnsd]({{< ref "/f16/package/rhnsd.md" >}}) | 20 | 20 | 100.0 | Hindi <fedora-trans-hi@redhat.com> | 
- | [rhythmbox]({{< ref "/f16/package/rhythmbox.md" >}}) | 4545 | 4545 | 100.0 | Hindi <indlinux-hindi@lists.sourceforge.net> | 
- | [scim]({{< ref "/f16/package/scim.md" >}}) | 1173 | 1173 | 100.0 | Hindi <hindi.sf.net> | 
- | [seahorse]({{< ref "/f16/package/seahorse.md" >}}) | 3042 | 3042 | 100.0 | Hindi <hindi.sf.net> | 
- | [seahorse-plugins]({{< ref "/f16/package/seahorse-plugins.md" >}}) | 1159 | 1159 | 100.0 | Hindi <hindi.sf.net> | 
- | [setroubleshoot]({{< ref "/f16/package/setroubleshoot.md" >}}) | 562 | 562 | 100.0 | Hindi <indlinux-hindi@lists.sourceforge.net> | 
- | [setuptool]({{< ref "/f16/package/setuptool.md" >}}) | 55 | 55 | 100.0 | Hindi <hindi.sf.net> | 
- | [smolt]({{< ref "/f16/package/smolt.md" >}}) | 1174 | 1174 | 100.0 | Hindi <hindi.sf.net> | 
- | [sound-juicer]({{< ref "/f16/package/sound-juicer.md" >}}) | 1022 | 1022 | 100.0 | Hindi <hindi.sf.net> | 
- | [sugar-chat]({{< ref "/f16/package/sugar-chat.md" >}}) | 50 | 50 | 100.0 | Hindi <indlinux-hindi@lists.sourceforge.net> | 
- | [sugar-finance]({{< ref "/f16/package/sugar-finance.md" >}}) | 143 | 143 | 100.0 | LANGUAGE <LL@li.org> | 
- | [sugar-imageviewer]({{< ref "/f16/package/sugar-imageviewer.md" >}}) | 24 | 24 | 100.0 | LANGUAGE <LL@li.org> | 
- | [sugar-jukebox]({{< ref "/f16/package/sugar-jukebox.md" >}}) | 7 | 7 | 100.0 | LANGUAGE <LL@li.org> | 
- | [sugar-log]({{< ref "/f16/package/sugar-log.md" >}}) | 77 | 77 | 100.0 | LANGUAGE <LL@li.org> | 
- | [sugar-physics]({{< ref "/f16/package/sugar-physics.md" >}}) | 28 | 28 | 100.0 | LANGUAGE <LL@li.org> | 
- | [sugar-pippy]({{< ref "/f16/package/sugar-pippy.md" >}}) | 109 | 109 | 100.0 | Hindi <indlinux-hindi@lists.sourceforge.net> | 
- | [sugar-surf]({{< ref "/f16/package/sugar-surf.md" >}}) | 53 | 53 | 100.0 | Hindi <indlinux-hindi@lists.sourceforge.net> | 
- | [sugar-terminal]({{< ref "/f16/package/sugar-terminal.md" >}}) | 13 | 13 | 100.0 | LANGUAGE <LL@li.org> | 
- | [sugar-toolkit]({{< ref "/f16/package/sugar-toolkit.md" >}}) | 78 | 78 | 100.0 | LANGUAGE <LL@li.org> | 
- | [switchdesk]({{< ref "/f16/package/switchdesk.md" >}}) | 139 | 139 | 100.0 | Hindi <hindi.sf.net> | 
- | [system-config-audit]({{< ref "/f16/package/system-config-audit.md" >}}) | 1241 | 1241 | 100.0 | Hindi <indlinux-hindi@lists.sourceforge.net> | 
- | [system-config-bind]({{< ref "/f16/package/system-config-bind.md" >}}) | 9434 | 9434 | 100.0 | Hindi <hindi.sf.net> | 
- | [system-config-boot]({{< ref "/f16/package/system-config-boot.md" >}}) | 119 | 119 | 100.0 | Hindi <hindi.sf.net> | 
- | [system-config-httpd]({{< ref "/f16/package/system-config-httpd.md" >}}) | 877 | 877 | 100.0 | Hindi <hindi.sf.net> | 
- | [system-config-keyboard]({{< ref "/f16/package/system-config-keyboard.md" >}}) | 187 | 187 | 100.0 | Hindi <hindi.sf.net> | 
- | [system-config-kickstart]({{< ref "/f16/package/system-config-kickstart.md" >}}) | 1104 | 1104 | 100.0 | Hindi <fedora-trans-hi@redhat.com> | 
- | [system-config-lvm]({{< ref "/f16/package/system-config-lvm.md" >}}) | 2246 | 2246 | 100.0 | Maithili <bhashaghar@googlegroups.com> | 
- | [system-config-netboot]({{< ref "/f16/package/system-config-netboot.md" >}}) | 1135 | 1135 | 100.0 | Hindi <hindi.sf.net> | 
- | [system-config-nfs]({{< ref "/f16/package/system-config-nfs.md" >}}) | 332 | 332 | 100.0 | Hindi <hindi.sf.net> | 
- | [system-config-rootpassword]({{< ref "/f16/package/system-config-rootpassword.md" >}}) | 116 | 116 | 100.0 | Hindi <hindi.sf.net> | 
- | [system-config-services-docs]({{< ref "/f16/package/system-config-services-docs.md" >}}) | 638 | 638 | 100.0 | Hindi <hindi.sf.net> | 
- | [system-config-users]({{< ref "/f16/package/system-config-users.md" >}}) | 1452 | 1452 | 100.0 | Hindi <indlinux-hindi@lists.sourceforge.net> | 
- | [system-switch-java]({{< ref "/f16/package/system-switch-java.md" >}}) | 81 | 81 | 100.0 | Hindi <hindi.sf.net> | 
- | [system-switch-mail]({{< ref "/f16/package/system-switch-mail.md" >}}) | 158 | 158 | 100.0 | Hindi <hindi.sf.net> | 
- | [tomboy]({{< ref "/f16/package/tomboy.md" >}}) | 2870 | 2870 | 100.0 | Hindi <hindi.sf.net> | 
- | [totem-pl-parser]({{< ref "/f16/package/totem-pl-parser.md" >}}) | 28 | 28 | 100.0 | Hindi <hindi.sf.net> | 
- | [vino]({{< ref "/f16/package/vino.md" >}}) | 1215 | 1215 | 100.0 | Hindi <hindi.sf.net> | 
- | [virt-viewer]({{< ref "/f16/package/virt-viewer.md" >}}) | 282 | 282 | 100.0 | Hindi <indlinux> | 
- | [vte]({{< ref "/f16/package/vte.md" >}}) | 84 | 84 | 100.0 | Hindi <hindi.sf.net> | 
- | [vte3]({{< ref "/f16/package/vte3.md" >}}) | 84 | 84 | 100.0 | Hindi <hindi.sf.net> | 
- | [xchat-gnome]({{< ref "/f16/package/xchat-gnome.md" >}}) | 4055 | 4055 | 100.0 | Hindi <hindi.sf.net> | 
- | [xdg-user-dirs]({{< ref "/f16/package/xdg-user-dirs.md" >}}) | 28 | 28 | 100.0 | Hindi <fedora-trans-hi@redhat.com> | 
- | [yelp-xsl]({{< ref "/f16/package/yelp-xsl.md" >}}) | 249 | 249 | 100.0 | Hindi <hindi.sf.net> | 
- | [yum-rhn-plugin]({{< ref "/f16/package/yum-rhn-plugin.md" >}}) | 104 | 104 | 100.0 | Hindi <fedora-trans-hi@redhat.com> | 
- | [zenity]({{< ref "/f16/package/zenity.md" >}}) | 579 | 579 | 100.0 | Hindi <hindi.sf.net> | 
- | [gcompris]({{< ref "/f16/package/gcompris.md" >}}) | 9980 | 9983 | 100.0 | Anand Kulkarni <LL@li.org> | 
- | [sugar-calculator]({{< ref "/f16/package/sugar-calculator.md" >}}) | 858 | 859 | 99.9 | Hindi <indlinux-hindi@lists.sourceforge.net> | 
- | [system-config-firewall]({{< ref "/f16/package/system-config-firewall.md" >}}) | 2807 | 2814 | 99.8 | Hindi <fedora-trans-hi@redhat.com> | 
- | [libmateweather]({{< ref "/f16/package/libmateweather.md" >}}) | 6035 | 6051 | 99.7 | Hindi (http://www.transifex.com/projects/p/MATE/language/hi/) | 
- | [system-config-network]({{< ref "/f16/package/system-config-network.md" >}}) | 3022 | 3032 | 99.7 | Maithili <bhashaghar@googlegroups.com> | 
- | [im-chooser]({{< ref "/f16/package/im-chooser.md" >}}) | 225 | 226 | 99.6 | Hindi (http://www.transifex.net/projects/p/im-chooser/team/hi/) | 
- | [pam]({{< ref "/f16/package/pam.md" >}}) | 599 | 602 | 99.5 | Hindi <hindi.sf.net> | 
- | [system-config-nfs-docs]({{< ref "/f16/package/system-config-nfs-docs.md" >}}) | 1185 | 1192 | 99.4 | Hindi <hindi.sf.net> | 
- | [mate-vfs]({{< ref "/f16/package/mate-vfs.md" >}}) | 1508 | 1519 | 99.3 | Hindi (http://www.transifex.com/projects/p/MATE/language/hi/) | 
- | [mate-doc-utils]({{< ref "/f16/package/mate-doc-utils.md" >}}) | 249 | 251 | 99.2 | Hindi (http://www.transifex.net/projects/p/MATE/language/hi/) | 
- | [publican-fedora]({{< ref "/f16/package/publican-fedora.md" >}}) | 106 | 107 | 99.1 | Hindi <hindi.sf.net> | 
- | [moin]({{< ref "/f16/package/moin.md" >}}) | 4974 | 5023 | 99.0 |  | 
- | [libuser]({{< ref "/f16/package/libuser.md" >}}) | 1134 | 1146 | 99.0 | Hindi <indlinux-hindi@lists.sourceforge.net> | 
- | [usermode]({{< ref "/f16/package/usermode.md" >}}) | 566 | 572 | 99.0 | Hindi <indlinux-hindi@lists.sourceforge.net> | 
- | [libmate]({{< ref "/f16/package/libmate.md" >}}) | 1754 | 1773 | 98.9 | Hindi (http://www.transifex.com/projects/p/MATE/language/hi/) | 
- | [sugar-moon]({{< ref "/f16/package/sugar-moon.md" >}}) | 90 | 91 | 98.9 | LANGUAGE <LL@li.org> | 
- | [libmatecomponent]({{< ref "/f16/package/libmatecomponent.md" >}}) | 537 | 543 | 98.9 | Hindi (http://www.transifex.net/projects/p/MATE/language/hi/) | 
- | [mate-conf]({{< ref "/f16/package/mate-conf.md" >}}) | 3985 | 4032 | 98.8 | Hindi (http://www.transifex.net/projects/p/MATE/language/hi/) | 
- | [pykickstart]({{< ref "/f16/package/pykickstart.md" >}}) | 338 | 342 | 98.8 | Hindi <indlinux-hindi@lists.sourceforge.net> | 
- | [system-config-date-docs]({{< ref "/f16/package/system-config-date-docs.md" >}}) | 728 | 739 | 98.5 | Hindi <hindi.sf.net> | 
- | [setroubleshoot-plugins]({{< ref "/f16/package/setroubleshoot-plugins.md" >}}) | 8162 | 8291 | 98.4 | Hindi <indlinux-hindi@lists.sourceforge.net> | 
- | [sugar-infoslicer]({{< ref "/f16/package/sugar-infoslicer.md" >}}) | 181 | 184 | 98.4 | LANGUAGE <LL@li.org> | 
- | [poedit]({{< ref "/f16/package/poedit.md" >}}) | 1143 | 1162 | 98.4 | हिन्दी (Hindi) <dysxhi@yahoo.co.in> | 
- | [phatch]({{< ref "/f16/package/phatch.md" >}}) | 2510 | 2553 | 98.3 | Hindi <hi@li.org> | 
- | [system-config-date]({{< ref "/f16/package/system-config-date.md" >}}) | 1816 | 1850 | 98.2 | Hindi <indlinux-hindi@lists.sourceforge.net> | 
- | [aisleriot]({{< ref "/f16/package/aisleriot.md" >}}) | 1950 | 1987 | 98.1 | Hindi <Indlinux> | 
- | [sugar-labyrinth]({{< ref "/f16/package/sugar-labyrinth.md" >}}) | 248 | 254 | 97.6 | LANGUAGE <LL@li.org> | 
- | [gnome-utils]({{< ref "/f16/package/gnome-utils.md" >}}) | 3468 | 3576 | 97.0 | Hindi <Indlinux> | 
- | [dexter]({{< ref "/f16/package/dexter.md" >}}) | 221 | 228 | 96.9 | Hindi <hi@li.org> | 
- | [gtk2]({{< ref "/f16/package/gtk2.md" >}}) | 13259 | 13704 | 96.8 | Hindi <hindi.sf.net> | 
- | [mingw32-gtk2]({{< ref "/f16/package/mingw32-gtk2.md" >}}) | 13259 | 13704 | 96.8 | Hindi <hindi.sf.net> | 
- | [virt-manager]({{< ref "/f16/package/virt-manager.md" >}}) | 4668 | 4829 | 96.7 | LANGUAGE <LL@li.org> | 
- | [volume_key]({{< ref "/f16/package/volume_key.md" >}}) | 720 | 745 | 96.6 | Hindi <indlinux-hindi@lists.sourceforge.net> | 
- | [authconfig]({{< ref "/f16/package/authconfig.md" >}}) | 1329 | 1379 | 96.4 | Hindi <indlinux-hindi@lists.sourceforge.net> | 
- | [etoys]({{< ref "/f16/package/etoys.md" >}}) | 28754 | 29994 | 95.9 |  | 
- | [pulseaudio]({{< ref "/f16/package/pulseaudio.md" >}}) | 2726 | 2849 | 95.7 | Hindi <hindi.sf.net> | 
- | [chkconfig]({{< ref "/f16/package/chkconfig.md" >}}) | 463 | 487 | 95.1 | Hindi <indlinux-hindi@lists.sourceforge.net> | 
- | [sugar-read]({{< ref "/f16/package/sugar-read.md" >}}) | 57 | 60 | 95.0 | Hindi <indlinux-hindi@lists.sourceforge.net> | 
- | [gnome-pilot]({{< ref "/f16/package/gnome-pilot.md" >}}) | 1686 | 1782 | 94.6 | Hindi <fedora-trans-hi@redhat.com> | 
- | [drgeo]({{< ref "/f16/package/drgeo.md" >}}) | 1870 | 1985 | 94.2 | Hindi | 
- | [gtkhtml3]({{< ref "/f16/package/gtkhtml3.md" >}}) | 458 | 488 | 93.9 | Hindi <fedora-trans-hi@redhat.com> | 
- | [libreport]({{< ref "/f16/package/libreport.md" >}}) | 1771 | 1889 | 93.8 | LANGUAGE <LL@li.org> | 
- | [sugar]({{< ref "/f16/package/sugar.md" >}}) | 915 | 976 | 93.8 | LANGUAGE <LL@li.org> | 
- | [evolution-exchange]({{< ref "/f16/package/evolution-exchange.md" >}}) | 1139 | 1217 | 93.6 | Hindi <fedora-trans-hi@redhat.com> | 
- | [totem]({{< ref "/f16/package/totem.md" >}}) | 2381 | 2548 | 93.4 | Hindi <fedora-trans-hi@redhat.com> | 
- | [gnome-games]({{< ref "/f16/package/gnome-games.md" >}}) | 5954 | 6373 | 93.4 | Hindi <Indlinux> | 
- | [sugar-write]({{< ref "/f16/package/sugar-write.md" >}}) | 75 | 81 | 92.6 | Hindi <indlinux-hindi@lists.sourceforge.net> | 
- | [pidgin]({{< ref "/f16/package/pidgin.md" >}}) | 16988 | 18356 | 92.5 | Hindi <Indlinux> | 
- | [pavucontrol]({{< ref "/f16/package/pavucontrol.md" >}}) | 219 | 237 | 92.4 | Hindi <hindi.sf.net> | 
- | [mate-window-manager]({{< ref "/f16/package/mate-window-manager.md" >}}) | 3500 | 3790 | 92.3 | Hindi (http://www.transifex.com/projects/p/MATE/language/hi/) | 
- | [gnote]({{< ref "/f16/package/gnote.md" >}}) | 2100 | 2283 | 92.0 | Hindi <Red Hat> | 
- | [gtksourceview3]({{< ref "/f16/package/gtksourceview3.md" >}}) | 1405 | 1532 | 91.7 | Hindi <Indlinux> | 
- | [mingw-gtksourceview3]({{< ref "/f16/package/mingw-gtksourceview3.md" >}}) | 1405 | 1532 | 91.7 | Hindi <Indlinux> | 
- | [anaconda]({{< ref "/f16/package/anaconda.md" >}}) | 8602 | 9408 | 91.4 | Hindi <indlinux-hindi@lists.sourceforge.net> | 
- | [PackageKit]({{< ref "/f16/package/PackageKit.md" >}}) | 1479 | 1620 | 91.3 | Hindi (http://www.transifex.net/projects/p/freedesktop/team/hi/) | 
- | [sugar-browse]({{< ref "/f16/package/sugar-browse.md" >}}) | 52 | 57 | 91.2 | Hindi <indlinux-hindi@lists.sourceforge.net> | 
- | [gtk3]({{< ref "/f16/package/gtk3.md" >}}) | 22208 | 24425 | 90.9 | Hindi <Indlinux> | 
- | [mingw-gtk3]({{< ref "/f16/package/mingw-gtk3.md" >}}) | 22208 | 24425 | 90.9 | Hindi <Indlinux> | 
- | [gdk-pixbuf2]({{< ref "/f16/package/gdk-pixbuf2.md" >}}) | 1192 | 1313 | 90.8 | Hindi <hindi.sf.net> | 
- | [mingw32-gdk-pixbuf]({{< ref "/f16/package/mingw32-gdk-pixbuf.md" >}}) | 1192 | 1313 | 90.8 | Hindi <hindi.sf.net> | 
- | [system-config-samba]({{< ref "/f16/package/system-config-samba.md" >}}) | 518 | 571 | 90.7 | Hindi <indlinux-hindi@lists.sourceforge.net> | 
- | [system-config-language]({{< ref "/f16/package/system-config-language.md" >}}) | 586 | 646 | 90.7 | Hindi <hindi.sf.net> | 
- | [ccsm]({{< ref "/f16/package/ccsm.md" >}}) | 498 | 549 | 90.7 | <en@li.org> | 
- | [sabayon]({{< ref "/f16/package/sabayon.md" >}}) | 656 | 736 | 89.1 | Hindi <hindi.sf.net> | 
- | [tuxtype2]({{< ref "/f16/package/tuxtype2.md" >}}) | 71 | 80 | 88.8 | Hindi <hindi.sf.net> | 
- | [gcalctool]({{< ref "/f16/package/gcalctool.md" >}}) | 1235 | 1399 | 88.3 | Hindi <hindi> | 
- | [mate-media]({{< ref "/f16/package/mate-media.md" >}}) | 811 | 920 | 88.2 | Hindi (http://www.transifex.com/projects/p/MATE/language/hi/) | 
- | [gnome-packagekit]({{< ref "/f16/package/gnome-packagekit.md" >}}) | 4739 | 5380 | 88.1 | Hindi <hindi.sf.net> | 
- | [mate-themes]({{< ref "/f16/package/mate-themes.md" >}}) | 96 | 109 | 88.1 | Hindi (http://www.transifex.com/projects/p/MATE/language/hi/) | 
- | [mate-file-manager]({{< ref "/f16/package/mate-file-manager.md" >}}) | 8221 | 9411 | 87.4 | Hindi (http://www.transifex.net/projects/p/MATE/language/hi/) | 
- | [dasher]({{< ref "/f16/package/dasher.md" >}}) | 471 | 542 | 86.9 | Hindi <hindi.sf.net> | 
- | [policycoreutils]({{< ref "/f16/package/policycoreutils.md" >}}) | 1266 | 1470 | 86.1 | Hindi <hindi.sf.net> | 
- | [sugar-abacus]({{< ref "/f16/package/sugar-abacus.md" >}}) | 20 | 24 | 83.3 | LANGUAGE <LL@li.org> | 
- | [mingw-wxWidgets]({{< ref "/f16/package/mingw-wxWidgets.md" >}}) | 5256 | 6391 | 82.2 | हिन्दी (Hindi) <dysxhi@yahoo.co.in> | 
- | [wxGTK]({{< ref "/f16/package/wxGTK.md" >}}) | 5256 | 6391 | 82.2 | हिन्दी (Hindi) <dysxhi@yahoo.co.in> | 
- | [wxPython]({{< ref "/f16/package/wxPython.md" >}}) | 5256 | 6391 | 82.2 | हिन्दी (Hindi) <dysxhi@yahoo.co.in> | 
- | [file-roller]({{< ref "/f16/package/file-roller.md" >}}) | 1244 | 1519 | 81.9 | Hindi <Indlinux> | 
- | [evolution-mapi]({{< ref "/f16/package/evolution-mapi.md" >}}) | 269 | 333 | 80.8 | Hindi <hindi.sf.net> | 
- | [libgnome-media-profiles]({{< ref "/f16/package/libgnome-media-profiles.md" >}}) | 740 | 920 | 80.4 | Hindi <hindi.sf.net> | 
- | [konq-plugins]({{< ref "/f16/package/konq-plugins.md" >}}) | 1278 | 1598 | 80.0 | Hindi <indlinux-hindi@lists.sourceforge.net> | 
- | [kiconedit]({{< ref "/f16/package/kiconedit.md" >}}) | 576 | 726 | 79.3 | Hindi <indlinux-hindi@lists.sourceforge.net> | 
- | [evolution-data-server]({{< ref "/f16/package/evolution-data-server.md" >}}) | 3666 | 4658 | 78.7 | Hindi <hindi.sf.net> | 
- | [publican]({{< ref "/f16/package/publican.md" >}}) | 858 | 1094 | 78.4 | Hindi <hindi.sf.net> | 
- | [gnome-do]({{< ref "/f16/package/gnome-do.md" >}}) | 473 | 612 | 77.3 | Hindi <hi@li.org> | 
- | [mate-backgrounds]({{< ref "/f16/package/mate-backgrounds.md" >}}) | 23 | 30 | 76.7 | Hindi (http://www.transifex.com/projects/p/MATE/language/hi/) | 
- | [system-config-services]({{< ref "/f16/package/system-config-services.md" >}}) | 397 | 518 | 76.6 | Hindi <fedora-trans-hi@redhat.com> | 
- | [control-center]({{< ref "/f16/package/control-center.md" >}}) | 2798 | 3665 | 76.3 | Hindi <hindi@hindi> | 
- | [orca]({{< ref "/f16/package/orca.md" >}}) | 2827 | 3704 | 76.3 | Hindi <hindi.sf.net> | 
- | [Django]({{< ref "/f16/package/Django.md" >}}) | 2992 | 3975 | 75.3 | Hindi <None> | 
- | [brasero]({{< ref "/f16/package/brasero.md" >}}) | 4050 | 5493 | 73.7 | Hindi <Indlinux> | 
- | [planner]({{< ref "/f16/package/planner.md" >}}) | 810 | 1110 | 73.0 | Gnome Hindi <indlinux-hindi-gnome@lists.sourceforge.net> | 
- | [mate-dialogs]({{< ref "/f16/package/mate-dialogs.md" >}}) | 458 | 631 | 72.6 | Hindi (http://www.transifex.com/projects/p/MATE/language/hi/) | 
- | [mate-keyring]({{< ref "/f16/package/mate-keyring.md" >}}) | 841 | 1173 | 71.7 | Hindi (http://www.transifex.com/projects/p/MATE/language/hi/) | 
- | [compiz-fusion]({{< ref "/f16/package/compiz-fusion.md" >}}) | 6332 | 8946 | 70.8 | <en@li.org> | 
- | [gbrainy]({{< ref "/f16/package/gbrainy.md" >}}) | 4235 | 6008 | 70.5 | Hindi <indlinux-hindi@lists.sourceforge.net> | 
- | [gnome-disk-utility]({{< ref "/f16/package/gnome-disk-utility.md" >}}) | 3165 | 4544 | 69.7 | Hindi <Indlinux> | 
- | [evolution]({{< ref "/f16/package/evolution.md" >}}) | 14822 | 21447 | 69.1 | Hindi <fedora-trans-hi@redhat.com> | 
- | [eog]({{< ref "/f16/package/eog.md" >}}) | 1078 | 1566 | 68.8 | Hindi <Indlinux> | 
- | [rhn-client-tools]({{< ref "/f16/package/rhn-client-tools.md" >}}) | 2997 | 4361 | 68.7 | Hindi <fedora-trans-hi@redhat.com> | 
- | [gnome-contacts]({{< ref "/f16/package/gnome-contacts.md" >}}) | 139 | 205 | 67.8 | Hindi <hindi> | 
- | [mate-image-viewer]({{< ref "/f16/package/mate-image-viewer.md" >}}) | 1089 | 1623 | 67.1 | Hindi (http://www.transifex.com/projects/p/MATE/language/hi/) | 
- | [vinagre]({{< ref "/f16/package/vinagre.md" >}}) | 1125 | 1686 | 66.7 | Hindi <Indlinux> | 
- | [drwright]({{< ref "/f16/package/drwright.md" >}}) | 125 | 191 | 65.4 | Hindi <hindi.sf.net> | 
- | [gedit-plugins]({{< ref "/f16/package/gedit-plugins.md" >}}) | 788 | 1205 | 65.4 | Hindi <hindi.sf.net> | 
- | [sos]({{< ref "/f16/package/sos.md" >}}) | 174 | 267 | 65.2 | Hindi <hindi.sf.net> | 
- | [lightdm]({{< ref "/f16/package/lightdm.md" >}}) | 51 | 79 | 64.6 | Hindi <hi@li.org> | 
- | [sugar-connect]({{< ref "/f16/package/sugar-connect.md" >}}) | 19 | 31 | 61.3 | Hindi <indlinux-hindi@lists.sourceforge.net> | 
- | [firewalld]({{< ref "/f16/package/firewalld.md" >}}) | 369 | 615 | 60.0 | Hindi <fedora-trans-hi@redhat.com> | 
- | [tuxmath]({{< ref "/f16/package/tuxmath.md" >}}) | 869 | 1454 | 59.8 | Gautam Gupta <admin@gaut.am> | 
- | [sugar-memorize]({{< ref "/f16/package/sugar-memorize.md" >}}) | 68 | 114 | 59.6 | LANGUAGE <LL@li.org> | 
- | [glib2]({{< ref "/f16/package/glib2.md" >}}) | 2808 | 4777 | 58.8 | Hindi <hindi> | 
- | [mingw32-glib2]({{< ref "/f16/package/mingw32-glib2.md" >}}) | 2808 | 4777 | 58.8 | Hindi <hindi> | 
- | [subscription-manager]({{< ref "/f16/package/subscription-manager.md" >}}) | 2162 | 3802 | 56.9 | Hindi | 
- | [sugar-turtleart]({{< ref "/f16/package/sugar-turtleart.md" >}}) | 1311 | 2467 | 53.1 | LANGUAGE <LL@li.org> | 
- | [hexchat]({{< ref "/f16/package/hexchat.md" >}}) | 2864 | 5481 | 52.3 | LANGUAGE <LL@li.org> | 
- | [at-spi2-atk]({{< ref "/f16/package/at-spi2-atk.md" >}}) | 50 | 96 | 52.1 | Hindi <Indlinux> | 
- | [publican-jboss]({{< ref "/f16/package/publican-jboss.md" >}}) | 120 | 232 | 51.7 | Hindi <fedora-trans-hi@redhat.com> | 
- | [gwibber]({{< ref "/f16/package/gwibber.md" >}}) | 22 | 45 | 48.9 | Hindi <hi@li.org> | 
- | [gimp]({{< ref "/f16/package/gimp.md" >}}) | 5915 | 12099 | 48.9 | <en@li.org> | 
- | [compiz]({{< ref "/f16/package/compiz.md" >}}) | 1587 | 3250 | 48.8 | <en@li.org> | 
- | [pootle]({{< ref "/f16/package/pootle.md" >}}) | 2252 | 4656 | 48.4 | LANGUAGE <LL@li.org> | 
- | [libgdata]({{< ref "/f16/package/libgdata.md" >}}) | 268 | 559 | 47.9 | indlinux-hindi@lists.sourceforge.net | 
- | [gnome-power-manager]({{< ref "/f16/package/gnome-power-manager.md" >}}) | 207 | 432 | 47.9 | Hindi <hindi.sf.net> | 
- | [gnome-settings-daemon]({{< ref "/f16/package/gnome-settings-daemon.md" >}}) | 1377 | 2916 | 47.2 | Hindi <Indlinux> | 
- | [empathy]({{< ref "/f16/package/empathy.md" >}}) | 2022 | 4304 | 47.0 | Hindi <Indlinux> | 
- | [gnome-applet-alarm-clock]({{< ref "/f16/package/gnome-applet-alarm-clock.md" >}}) | 191 | 417 | 45.8 | Hindi <hi@li.org> | 
- | [koffice-kivio]({{< ref "/f16/package/koffice-kivio.md" >}}) | 3853 | 8417 | 45.8 | indlinux-hindi <indlinux-hindi@lists.sourceforge.net> | 
- | [kaudiocreator]({{< ref "/f16/package/kaudiocreator.md" >}}) | 1026 | 2272 | 45.2 | Hindi <kde-i18n-doc@lists.kde.org> | 
- | [glade3]({{< ref "/f16/package/glade3.md" >}}) | 2618 | 5875 | 44.6 |  | 
- | [ayttm]({{< ref "/f16/package/ayttm.md" >}}) | 1242 | 2912 | 42.7 | आशीष जैन ( ASHISH JAIN ) <tensai_ashish@yahoo.com> | 
- | [cinnamon]({{< ref "/f16/package/cinnamon.md" >}}) | 524 | 1238 | 42.3 | Hindi <Indlinux> | 
- | [gnome-video-effects]({{< ref "/f16/package/gnome-video-effects.md" >}}) | 11 | 26 | 42.3 | Hindi <hindi.sf.net> | 
- | [gnome-shell]({{< ref "/f16/package/gnome-shell.md" >}}) | 525 | 1242 | 42.3 | Hindi <Indlinux> | 
- | [yelp]({{< ref "/f16/package/yelp.md" >}}) | 201 | 488 | 41.2 | Hindi <hindi> | 
- | [caribou]({{< ref "/f16/package/caribou.md" >}}) | 82 | 200 | 41.0 | Hindi <hindi> | 
- | [mate-desktop]({{< ref "/f16/package/mate-desktop.md" >}}) | 165 | 407 | 40.5 | LANGUAGE <LL@li.org> | 
- | [kgrab]({{< ref "/f16/package/kgrab.md" >}}) | 148 | 370 | 40.0 | Hindi <indlinux-hindi@lists.sourceforge.net> | 
- | [orage]({{< ref "/f16/package/orage.md" >}}) | 916 | 2392 | 38.3 | Hindi <indlinux-group@lists.sourceforge.net> | 
- | [gnome-themes-standard]({{< ref "/f16/package/gnome-themes-standard.md" >}}) | 9 | 24 | 37.5 | Hindi <Indlinux> | 
- | [kdiff3]({{< ref "/f16/package/kdiff3.md" >}}) | 2573 | 7034 | 36.6 | indlinux-hindi <indlinux-hindi@lists.sourceforge.net> | 
- | [balsa]({{< ref "/f16/package/balsa.md" >}}) | 1860 | 5348 | 34.8 | Gnome Hindi Team <indlinux-hindi-gnome@lists.sourceforge.net> | 
- | [mingw32-libvirt]({{< ref "/f16/package/mingw32-libvirt.md" >}}) | 9805 | 29427 | 33.3 | Hindi <hindi.sf.net> | 
- | [clutter]({{< ref "/f16/package/clutter.md" >}}) | 787 | 2371 | 33.2 | Hindi <hindi> | 
- | [libvirt]({{< ref "/f16/package/libvirt.md" >}}) | 9805 | 29566 | 33.2 | Hindi <hindi.sf.net> | 
- | [system-config-kdump]({{< ref "/f16/package/system-config-kdump.md" >}}) | 235 | 807 | 29.1 | Hindi <hindi.sf.net> | 
- | [libguestfs]({{< ref "/f16/package/libguestfs.md" >}}) | 1801 | 6330 | 28.5 | Hindi <indlinux-hindi@lists.sourceforge.net> | 
- | [rsibreak]({{< ref "/f16/package/rsibreak.md" >}}) | 370 | 1304 | 28.4 | Hindi <indlinux-hindi@lists.sourceforge.net> | 
- | [anjuta]({{< ref "/f16/package/anjuta.md" >}}) | 2171 | 8034 | 27.0 | Hindi <Indlinux> | 
- | [kphotoalbum]({{< ref "/f16/package/kphotoalbum.md" >}}) | 1690 | 6333 | 26.7 | Hindi <indlinux-hindi@lists.sourceforge.net> | 
- | [kile]({{< ref "/f16/package/kile.md" >}}) | 5627 | 22324 | 25.2 | Hindi <kde-i18n-doc@lists.kde.org> | 
- | [libreoffice]({{< ref "/f16/package/libreoffice.md" >}}) | 133561 | 533994 | 25.0 | LANGUAGE <LL@li.org> | 
- | [system-config-printer]({{< ref "/f16/package/system-config-printer.md" >}}) | 759 | 3057 | 24.8 | Hindi <fedora-trans-hi@redhat.com> | 
- | [tuxpaint]({{< ref "/f16/package/tuxpaint.md" >}}) | 307 | 1247 | 24.6 | Hindi | 
- | [libgdl]({{< ref "/f16/package/libgdl.md" >}}) | 141 | 613 | 23.0 | Hindi <hindi.sf.net> | 
- | [nautilus-actions]({{< ref "/f16/package/nautilus-actions.md" >}}) | 498 | 2195 | 22.7 | Hindi <hindi.sf.net> | 
- | [stellarium]({{< ref "/f16/package/stellarium.md" >}}) | 1616 | 7138 | 22.6 | Hindi <hi@li.org> | 
- | [k3b]({{< ref "/f16/package/k3b.md" >}}) | 4366 | 20423 | 21.4 | Hindi <indlinux-hindi@lists.sourceforge.net> | 
- | [lekhonee-gnome]({{< ref "/f16/package/lekhonee-gnome.md" >}}) | 21 | 112 | 18.8 | Hindi <hindi.sf.net> | 
- | [audacious]({{< ref "/f16/package/audacious.md" >}}) | 137 | 734 | 18.7 | Hindi, India <dysxhi@yahoo.co.in> | 
- | [sugar-clock]({{< ref "/f16/package/sugar-clock.md" >}}) | 7 | 38 | 18.4 | LANGUAGE <LL@li.org> | 
- | [abrt]({{< ref "/f16/package/abrt.md" >}}) | 233 | 1419 | 16.4 | Hindi <indlinux-hindi@lists.sourceforge.net> | 
- | [gthumb]({{< ref "/f16/package/gthumb.md" >}}) | 315 | 2595 | 12.1 | Hindi <fedora-trans-hi@redhat.com> | 
- | [sugar-tamtam]({{< ref "/f16/package/sugar-tamtam.md" >}}) | 235 | 2070 | 11.4 | Hindi <indlinux-hindi@lists.sourceforge.net> | 
- | [libpeas]({{< ref "/f16/package/libpeas.md" >}}) | 12 | 106 | 11.3 | Hindi <Indlinux> | 
- | [xfce4-eyes-plugin]({{< ref "/f16/package/xfce4-eyes-plugin.md" >}}) | 1 | 9 | 11.1 | Hindi <indlinux-group@lists.sourceforge.net> | 
- | [soundconverter]({{< ref "/f16/package/soundconverter.md" >}}) | 49 | 450 | 10.9 | Hindi <hi@li.org> | 
- | [iso-codes]({{< ref "/f16/package/iso-codes.md" >}}) | 1302 | 12366 | 10.5 | American English <kde-i18n-doc@lists.kde.org> | 
- | [devhelp]({{< ref "/f16/package/devhelp.md" >}}) | 21 | 209 | 10.0 | Gnome Hindi Team <indlinux-hindi-gnome@lists.sourceforge.net> | 
- | [digikam]({{< ref "/f16/package/digikam.md" >}}) | 3151 | 32788 | 9.6 | Hindi <indlinux-hindi@lists.sourceforge.net> | 
- | [camorama]({{< ref "/f16/package/camorama.md" >}}) | 51 | 559 | 9.1 | Hindi <indlinux-hindi-gnome@lists.sourceforge.net> | 
- | [sugar-measure]({{< ref "/f16/package/sugar-measure.md" >}}) | 14 | 155 | 9.0 | Hindi <indlinux-hindi@lists.sourceforge.net> | 
- | [pinta]({{< ref "/f16/package/pinta.md" >}}) | 89 | 1040 | 8.6 | Hindi <hi@li.org> | 
- | [shutter]({{< ref "/f16/package/shutter.md" >}}) | 258 | 3351 | 7.7 | Hindi <hi@li.org> | 
- | [picard]({{< ref "/f16/package/picard.md" >}}) | 118 | 1626 | 7.3 | LANGUAGE <LL@li.org> | 
- | [libktorrent]({{< ref "/f16/package/libktorrent.md" >}}) | 70 | 1038 | 6.7 | Hindi <indlinux-hindi@lists.sourceforge.net> | 
- | [gnome-user-docs]({{< ref "/f16/package/gnome-user-docs.md" >}}) | 3093 | 46797 | 6.6 | indlinux-hindi@lists.sourceforge.net | 
- | [colord]({{< ref "/f16/package/colord.md" >}}) | 25 | 388 | 6.4 | Hindi (http://www.transifex.net/projects/p/freedesktop/team/hi/) | 
- | [xfwm4]({{< ref "/f16/package/xfwm4.md" >}}) | 51 | 837 | 6.1 | Hindi <indlinux-group@lists.sourceforge.net> | 
- | [genius]({{< ref "/f16/package/genius.md" >}}) | 169 | 2781 | 6.1 | Hindi <indlinux-hindi-gnome@lists.sourceforge.net> | 
- | [libpwquality]({{< ref "/f16/package/libpwquality.md" >}}) | 18 | 324 | 5.6 | LANGUAGE <LL@li.org> | 
- | [terminator]({{< ref "/f16/package/terminator.md" >}}) | 18 | 339 | 5.3 | Hindi <hi@li.org> | 
- | [ktorrent]({{< ref "/f16/package/ktorrent.md" >}}) | 856 | 16286 | 5.3 | Hindi <indlinux-hindi@lists.sourceforge.net> | 
- | [system-config-users-docs]({{< ref "/f16/package/system-config-users-docs.md" >}}) | 50 | 1061 | 4.7 | Hindi <hindi.sf.net> | 
- | [vidalia]({{< ref "/f16/package/vidalia.md" >}}) | 480 | 10463 | 4.6 | translations@vidalia-project.net | 
- | [docky]({{< ref "/f16/package/docky.md" >}}) | 22 | 599 | 3.7 | Hindi <hi@li.org> | 
- | [gmpc]({{< ref "/f16/package/gmpc.md" >}}) | 52 | 1444 | 3.6 | Hindi <hi@li.org> | 
- | [exaile]({{< ref "/f16/package/exaile.md" >}}) | 121 | 3683 | 3.3 | Hindi <hi@li.org> | 
- | [system-config-samba-docs]({{< ref "/f16/package/system-config-samba-docs.md" >}}) | 39 | 1195 | 3.3 | Hindi <hindi.sf.net> | 
- | [avogadro]({{< ref "/f16/package/avogadro.md" >}}) | 119 | 3656 | 3.3 | Hindi <hi@li.org> | 
- | [kcoloredit]({{< ref "/f16/package/kcoloredit.md" >}}) | 9 | 278 | 3.2 | Hindi <indlinux-hindi@lists.sourceforge.net> | 
- | [kopete-cryptography]({{< ref "/f16/package/kopete-cryptography.md" >}}) | 11 | 408 | 2.7 | Hindi <indlinux-hindi@lists.sourceforge.net> | 
- | [openerp]({{< ref "/f16/package/openerp.md" >}}) | 381 | 16175 | 2.4 | Hindi <hi@li.org> | 
- | [pychess]({{< ref "/f16/package/pychess.md" >}}) | 60 | 3091 | 1.9 | Hindi <hi@li.org> | 
- | [xfce-utils]({{< ref "/f16/package/xfce-utils.md" >}}) | 8 | 492 | 1.6 | Hindi <indlinux-group@lists.sourceforge.net> | 
- | [specspo]({{< ref "/f16/package/specspo.md" >}}) | 4887 | 305294 | 1.6 | Hindi <fedora-trans-hi@redhat.com> | 
- | [pgadmin3]({{< ref "/f16/package/pgadmin3.md" >}}) | 210 | 14829 | 1.4 | The pgAdmin Development Team <pgadmin-hackers@postgresql.org> | 
- | [pidgin-sipe]({{< ref "/f16/package/pidgin-sipe.md" >}}) | 10 | 857 | 1.2 | English <LL@li.org> | 
- | [transmission]({{< ref "/f16/package/transmission.md" >}}) | 12 | 1528 | 0.8 | Hindi <hi@li.org> | 
- | [calibre]({{< ref "/f16/package/calibre.md" >}}) | 298 | 45192 | 0.7 | Hindi | 
- | [fuse-encfs]({{< ref "/f16/package/fuse-encfs.md" >}}) | 7 | 1315 | 0.5 | Hindi <hi@li.org> | 
- | [xfce4-panel]({{< ref "/f16/package/xfce4-panel.md" >}}) | 7 | 1504 | 0.5 | Hindi <indlinux-hindi-gnome@lists.sourceforge.net> | 
- | [clementine]({{< ref "/f16/package/clementine.md" >}}) | 18 | 3939 | 0.5 |  | 
- | [xfce4-session]({{< ref "/f16/package/xfce4-session.md" >}}) | 5 | 1132 | 0.4 | Hindi <indlinux-group@lists.sourceforge.net> | 
- | [xfdesktop]({{< ref "/f16/package/xfdesktop.md" >}}) | 3 | 835 | 0.4 | Hindi <indlinux-group@lists.sourceforge.net> | 
- | [avant-window-navigator]({{< ref "/f16/package/avant-window-navigator.md" >}}) | 4 | 1829 | 0.2 | Hindi <hi@li.org> | 
- | [wine]({{< ref "/f16/package/wine.md" >}}) | 13 | 14112 | 0.1 | none | 
- | [accountsservice]({{< ref "/f16/package/accountsservice.md" >}}) | 0 | 59 | 0.0 | Hindi (http://www.transifex.net/projects/p/freedesktop/team/hi/) | 
- | [ailurus]({{< ref "/f16/package/ailurus.md" >}}) | 0 | 8446 | 0.0 | none | 
- | [at-spi2-core]({{< ref "/f16/package/at-spi2-core.md" >}}) | 0 | 96 | 0.0 | Hindi <Indlinux> | 
- | [fprintd]({{< ref "/f16/package/fprintd.md" >}}) | 0 | 219 | 0.0 | Hindi <None> | 
- | [gdesklets]({{< ref "/f16/package/gdesklets.md" >}}) | 0 | 1528 | 0.0 | Hindi <hi@li.org> | 
- | [gnome-activity-journal]({{< ref "/f16/package/gnome-activity-journal.md" >}}) | 0 | 316 | 0.0 | Hindi <hi@li.org> | 
- | [grass]({{< ref "/f16/package/grass.md" >}}) | 0 | 55506 | 0.0 | Hindi <grass-translations@lists.osgeo.org> | 
- | [libgxim]({{< ref "/f16/package/libgxim.md" >}}) | 0 | 130 | 0.0 | none | 
- | [ntfs-config]({{< ref "/f16/package/ntfs-config.md" >}}) | 0 | 357 | 0.0 | Hindi <hi@li.org> | 
- | [openconnect]({{< ref "/f16/package/openconnect.md" >}}) | 0 | 5146 | 0.0 | Hindi (http://www.transifex.net/projects/p/meego/team/hi/) | 
- | [retrace-server]({{< ref "/f16/package/retrace-server.md" >}}) | 0 | 123 | 0.0 | Hindi | 
- | [revisor]({{< ref "/f16/package/revisor.md" >}}) | 0 | 4171 | 0.0 |  | 
- | [sawfish]({{< ref "/f16/package/sawfish.md" >}}) | 0 | 6617 | 0.0 | Hindi (India) (http://www.transifex.net/projects/p/sawfish-master/team/hi_IN/) | 
- | [shared-mime-info]({{< ref "/f16/package/shared-mime-info.md" >}}) | 0 | 1659 | 0.0 | Hindi (http://www.transifex.net/projects/p/freedesktop/team/hi/) | 
- | [sugar-base]({{< ref "/f16/package/sugar-base.md" >}}) | 0 | 5 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-playgo]({{< ref "/f16/package/sugar-playgo.md" >}}) | 0 | 85 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-ruler]({{< ref "/f16/package/sugar-ruler.md" >}}) | 0 | 5 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-view-slides]({{< ref "/f16/package/sugar-view-slides.md" >}}) | 0 | 7 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-visualmatch]({{< ref "/f16/package/sugar-visualmatch.md" >}}) | 0 | 58 | 0.0 | LANGUAGE <LL@li.org> | 
- | [tuxpaint-stamps]({{< ref "/f16/package/tuxpaint-stamps.md" >}}) | 0 | 2711 | 0.0 |  | 
- | [yum]({{< ref "/f16/package/yum.md" >}}) | 0 | 3069 | 0.0 | Hindi (http://www.transifex.net/projects/p/yum/team/hi/) | 
+ | [GConf2](/f16/package/GConf2) | 4035 | 4035 | 100.0 | Hindi <hindi.sf.net> | 
+ | [NetworkManager](/f16/package/NetworkManager) | 2615 | 2615 | 100.0 | Hindi <kde-i18n-doc@kde.org> | 
+ | [alacarte](/f16/package/alacarte) | 42 | 42 | 100.0 | Hindi <hindi.sf.net> | 
+ | [anerley](/f16/package/anerley) | 5 | 5 | 100.0 | HINDI | 
+ | [at-spi](/f16/package/at-spi) | 24 | 24 | 100.0 | Hindi <hindi.sf.net> | 
+ | [atk](/f16/package/atk) | 375 | 375 | 100.0 | Hindi <hindi.sf.net> | 
+ | [atomix](/f16/package/atomix) | 125 | 125 | 100.0 | Gnome Hindi Team<indlinux-hindi-gnome@lists.sourceforge.net> | 
+ | [audacity](/f16/package/audacity) | 10642 | 10642 | 100.0 | bashishtha narayan singh <bashishtha.singh@gmail.com> | 
+ | [cheese](/f16/package/cheese) | 517 | 517 | 100.0 | Hindi <fedora-trans-hi@redhat.com> | 
+ | [cracklib](/f16/package/cracklib) | 93 | 93 | 100.0 | Hindi <Red Hat> | 
+ | [debconf](/f16/package/debconf) | 191 | 191 | 100.0 | American English <kde-i18n-doc@kde.org> | 
+ | [dialog](/f16/package/dialog) | 25 | 25 | 100.0 | <elinks@knopper.net> | 
+ | [ekiga](/f16/package/ekiga) | 4043 | 4043 | 100.0 | Hindi <hindi.sf.net> | 
+ | [emerald](/f16/package/emerald) | 774 | 774 | 100.0 | gist bengali team <info.gist@cdac.in> | 
+ | [epiphany](/f16/package/epiphany) | 3033 | 3033 | 100.0 | Hindi <hindi.sf.net> | 
+ | [evince](/f16/package/evince) | 1155 | 1155 | 100.0 | Hindi <hindi.sf.net> | 
+ | [evolution-rss](/f16/package/evolution-rss) | 704 | 704 | 100.0 | Hindi <hindi.sf.net> | 
+ | [f-spot](/f16/package/f-spot) | 3557 | 3557 | 100.0 | Hindi <hindi.sf.net> | 
+ | [firstboot](/f16/package/firstboot) | 596 | 596 | 100.0 | Hindi <indlinux-hindi@lists.sourceforge.net> | 
+ | [gconf-editor](/f16/package/gconf-editor) | 336 | 336 | 100.0 | Hindi <hindi.sf.net> | 
+ | [gdm](/f16/package/gdm) | 1090 | 1090 | 100.0 | Hindi <fedora-trans-hi@redhat.com> | 
+ | [gedit](/f16/package/gedit) | 4323 | 4323 | 100.0 | Hindi <Indlinux> | 
+ | [ggz-base-libs](/f16/package/ggz-base-libs) | 74 | 74 | 100.0 | Hindi <hindi.sf.net> | 
+ | [ggz-gtk-client](/f16/package/ggz-gtk-client) | 773 | 773 | 100.0 | Hindi <hindi.sf.net> | 
+ | [glib-networking](/f16/package/glib-networking) | 86 | 86 | 100.0 | indlinux-hindi@lists.sourceforge.net | 
+ | [gnome-applets](/f16/package/gnome-applets) | 3367 | 3367 | 100.0 | Hindi <hindi.sf.net> | 
+ | [gnome-backgrounds](/f16/package/gnome-backgrounds) | 23 | 23 | 100.0 | Hindi <hindi.sf.net> | 
+ | [gnome-bluetooth](/f16/package/gnome-bluetooth) | 662 | 662 | 100.0 | Hindi <Indlinux> | 
+ | [gnome-desktop](/f16/package/gnome-desktop) | 351 | 351 | 100.0 | Hindi <hindi.sf.net> | 
+ | [gnome-desktop3](/f16/package/gnome-desktop3) | 379 | 379 | 100.0 | Hindi <hindi.sf.net> | 
+ | [gnome-doc-utils](/f16/package/gnome-doc-utils) | 249 | 249 | 100.0 | Hindi <hindi.sf.net> | 
+ | [gnome-icon-theme](/f16/package/gnome-icon-theme) | 20 | 20 | 100.0 | Hindi <hindi.sf.net> | 
+ | [gnome-keyring](/f16/package/gnome-keyring) | 1823 | 1823 | 100.0 | Hindi <hindi.sf.net> | 
+ | [gnome-mag](/f16/package/gnome-mag) | 298 | 298 | 100.0 | Hindi <hindi.sf.net> | 
+ | [gnome-media](/f16/package/gnome-media) | 1190 | 1190 | 100.0 | Hindi <hindi.sf.net> | 
+ | [gnome-menus](/f16/package/gnome-menus) | 161 | 161 | 100.0 | Hindi <hindi.sf.net> | 
+ | [gnome-mime-data](/f16/package/gnome-mime-data) | 887 | 887 | 100.0 | Hindi <indlinux-hindi@lists.sourceforge.net> | 
+ | [gnome-panel](/f16/package/gnome-panel) | 4279 | 4279 | 100.0 | Hindi <fedora-trans-hi@redhat.com> | 
+ | [gnome-screensaver](/f16/package/gnome-screensaver) | 989 | 989 | 100.0 | Hindi <hindi.sf.net> | 
+ | [gnome-session](/f16/package/gnome-session) | 638 | 638 | 100.0 | Hindi <hindi.sf.net> | 
+ | [gnome-system-monitor](/f16/package/gnome-system-monitor) | 933 | 933 | 100.0 | Hindi <hindi.sf.net> | 
+ | [gnome-terminal](/f16/package/gnome-terminal) | 3904 | 3904 | 100.0 | Hindi <hindi.sf.net> | 
+ | [gnome-themes](/f16/package/gnome-themes) | 109 | 109 | 100.0 | Hindi <hindi.sf.net> | 
+ | [gnome-user-share](/f16/package/gnome-user-share) | 288 | 288 | 100.0 | Hindi <hindi.sf.net> | 
+ | [gnome-vfs2](/f16/package/gnome-vfs2) | 1508 | 1508 | 100.0 | Hindi <hindi.sf.net> | 
+ | [gok](/f16/package/gok) | 1937 | 1937 | 100.0 | Hindi <hindi.sf.net> | 
+ | [gtk2-engines](/f16/package/gtk2-engines) | 119 | 119 | 100.0 | Hindi <hindi.sf.net> | 
+ | [gtksourceview](/f16/package/gtksourceview) | 849 | 849 | 100.0 | Hindi <fedora-trans-hi@redhat.com> | 
+ | [gtksourceview2](/f16/package/gtksourceview2) | 1120 | 1120 | 100.0 | Hindi <hindi.sf.net> | 
+ | [gucharmap](/f16/package/gucharmap) | 803 | 803 | 100.0 | Hindi <hindi.sf.net> | 
+ | [gvfs](/f16/package/gvfs) | 1858 | 1858 | 100.0 | Hindi <hindi.sf.net> | 
+ | [hamster-applet](/f16/package/hamster-applet) | 553 | 553 | 100.0 | Hindi <hindi.sf.net> | 
+ | [hivex](/f16/package/hivex) | 270 | 270 | 100.0 | Hindi <indlinux-hindi@lists.sourceforge.net> | 
+ | [ibus](/f16/package/ibus) | 610 | 610 | 100.0 | Hindi <fedora-trans-hi@redhat.com> | 
+ | [imsettings](/f16/package/imsettings) | 404 | 404 | 100.0 | Hindi (http://www.transifex.net/projects/p/imsettings/team/hi/) | 
+ | [initscripts](/f16/package/initscripts) | 4349 | 4349 | 100.0 | Maithili <bhashaghar@googlegroups.com> | 
+ | [iok](/f16/package/iok) | 142 | 142 | 100.0 | Hindi <hindi.sf.net> | 
+ | [istanbul](/f16/package/istanbul) | 89 | 89 | 100.0 | Hindi <indlinux-hindi@lists.sourceforge.net> | 
+ | [kexec-tools](/f16/package/kexec-tools) | 206 | 206 | 100.0 | Hindi <hindi.sf.net> | 
+ | [libbonobo](/f16/package/libbonobo) | 543 | 543 | 100.0 | Hindi <hindi.sf.net> | 
+ | [libbonoboui](/f16/package/libbonoboui) | 368 | 368 | 100.0 | Hindi <hindi.sf.net> | 
+ | [libcryptui](/f16/package/libcryptui) | 3042 | 3042 | 100.0 | Hindi <hindi.sf.net> | 
+ | [libgnome](/f16/package/libgnome) | 1772 | 1772 | 100.0 | Hindi <hindi.sf.net> | 
+ | [libgnome-keyring](/f16/package/libgnome-keyring) | 44 | 44 | 100.0 | Hindi <Indlinux> | 
+ | [libgnomecanvas](/f16/package/libgnomecanvas) | 378 | 378 | 100.0 | Hindi <hindi.sf.net> | 
+ | [libgnomecups](/f16/package/libgnomecups) | 11 | 11 | 100.0 | Hindi <fedora-trans-hi@redhat.com> | 
+ | [libgnomekbd](/f16/package/libgnomekbd) | 246 | 246 | 100.0 | Hindi <hindi.sf.net> | 
+ | [libgnomeprint22](/f16/package/libgnomeprint22) | 168 | 168 | 100.0 | Hindi <fedora-trans-hi@redhat.com> | 
+ | [libgnomeprintui22](/f16/package/libgnomeprintui22) | 481 | 481 | 100.0 | Hindi <hindi.sf.net> | 
+ | [libgnomeui](/f16/package/libgnomeui) | 1226 | 1226 | 100.0 | Hindi <hindi.sf.net> | 
+ | [libgtop2](/f16/package/libgtop2) | 126 | 126 | 100.0 | Hindi <hindi.sf.net> | 
+ | [libgweather](/f16/package/libgweather) | 6051 | 6051 | 100.0 | Hindi <hindi.sf.net> | 
+ | [libmatecanvas](/f16/package/libmatecanvas) | 378 | 378 | 100.0 | Hindi (http://www.transifex.com/projects/p/MATE/language/hi/) | 
+ | [libmatekbd](/f16/package/libmatekbd) | 246 | 246 | 100.0 | Hindi <hindi.sf.net> | 
+ | [libmatewnck](/f16/package/libmatewnck) | 1124 | 1124 | 100.0 | Hindi <hindi.sf.net> | 
+ | [libwnck](/f16/package/libwnck) | 1124 | 1124 | 100.0 | Hindi <hindi.sf.net> | 
+ | [libwnck3](/f16/package/libwnck3) | 1124 | 1124 | 100.0 | Hindi <hindi.sf.net> | 
+ | [lxmenu-data](/f16/package/lxmenu-data) | 97 | 97 | 100.0 | Hindi <hindi.sf.net> | 
+ | [mate-control-center](/f16/package/mate-control-center) | 3245 | 3245 | 100.0 | Hindi <hindi.sf.net> | 
+ | [mate-file-archiver](/f16/package/mate-file-archiver) | 1272 | 1272 | 100.0 | Hindi <hindi.sf.net> | 
+ | [mate-file-manager-sendto](/f16/package/mate-file-manager-sendto) | 316 | 316 | 100.0 | Hindi <hindi.sf.net> | 
+ | [mate-icon-theme](/f16/package/mate-icon-theme) | 20 | 20 | 100.0 | Hindi <hindi.sf.net> | 
+ | [mate-menus](/f16/package/mate-menus) | 161 | 161 | 100.0 | Hindi <hindi.sf.net> | 
+ | [mate-panel](/f16/package/mate-panel) | 4476 | 4476 | 100.0 | Hindi <fedora-trans-hi@redhat.com> | 
+ | [mate-polkit](/f16/package/mate-polkit) | 311 | 311 | 100.0 | Hindi <indlinux> | 
+ | [mate-power-manager](/f16/package/mate-power-manager) | 2786 | 2786 | 100.0 | Hindi <hindi.sf.net> | 
+ | [mate-screensaver](/f16/package/mate-screensaver) | 989 | 989 | 100.0 | Hindi <hindi.sf.net> | 
+ | [mate-session-manager](/f16/package/mate-session-manager) | 638 | 638 | 100.0 | Hindi <hindi.sf.net> | 
+ | [mate-settings-daemon](/f16/package/mate-settings-daemon) | 1624 | 1624 | 100.0 | Hindi <hindi.sf.net> | 
+ | [mate-system-monitor](/f16/package/mate-system-monitor) | 933 | 933 | 100.0 | Hindi <hindi.sf.net> | 
+ | [mate-terminal](/f16/package/mate-terminal) | 3904 | 3904 | 100.0 | Hindi <hindi.sf.net> | 
+ | [metacity](/f16/package/metacity) | 3821 | 3821 | 100.0 | Hindi <hindi.sf.net> | 
+ | [mingw32-atk](/f16/package/mingw32-atk) | 375 | 375 | 100.0 | Hindi <hindi.sf.net> | 
+ | [mingw32-glib-networking](/f16/package/mingw32-glib-networking) | 86 | 86 | 100.0 | indlinux-hindi@lists.sourceforge.net | 
+ | [mingw32-gtkhtml3](/f16/package/mingw32-gtkhtml3) | 912 | 912 | 100.0 | Hindi <fedora-trans-hi@redhat.com> | 
+ | [mousetweaks](/f16/package/mousetweaks) | 715 | 715 | 100.0 | Hindi <hindi.sf.net> | 
+ | [muffin](/f16/package/muffin) | 3864 | 3864 | 100.0 | Hindi <hindi.sf.net> | 
+ | [multimedia-menus](/f16/package/multimedia-menus) | 56 | 56 | 100.0 | Hindi <hindi.sf.net> | 
+ | [mutter](/f16/package/mutter) | 3864 | 3864 | 100.0 | Hindi <hindi.sf.net> | 
+ | [mutter-mbl](/f16/package/mutter-mbl) | 3864 | 3864 | 100.0 | Hindi <hindi.sf.net> | 
+ | [nautilus](/f16/package/nautilus) | 8620 | 8620 | 100.0 | Hindi <hindi.sf.net> | 
+ | [nautilus-sendto](/f16/package/nautilus-sendto) | 316 | 316 | 100.0 | Hindi <hindi.sf.net> | 
+ | [newt](/f16/package/newt) | 4 | 4 | 100.0 | Ravishankar Shrivastava <raviratlami@yahoo.com> | 
+ | [olpc-switch-desktop](/f16/package/olpc-switch-desktop) | 158 | 158 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [pam_krb5](/f16/package/pam_krb5) | 7 | 7 | 100.0 | Hindi <indlinux-hindi@lists.sourceforge.net> | 
+ | [paprefs](/f16/package/paprefs) | 131 | 131 | 100.0 | Hindi <hindi.sf.net> | 
+ | [passwd](/f16/package/passwd) | 299 | 299 | 100.0 | Hindi <hindi.sf.net> | 
+ | [pessulus](/f16/package/pessulus) | 130 | 130 | 100.0 | Hindi <hindi.sf.net> | 
+ | [polkit-gnome](/f16/package/polkit-gnome) | 311 | 311 | 100.0 | Hindi <indlinux> | 
+ | [publican-ovirt](/f16/package/publican-ovirt) | 288 | 288 | 100.0 | Hindi <hindi.sf.net> | 
+ | [publican-redhat](/f16/package/publican-redhat) | 220 | 220 | 100.0 | Hindi <fedora-trans-hi@redhat.com> | 
+ | [python-meh](/f16/package/python-meh) | 269 | 269 | 100.0 | Hindi <hindi.sf.net> | 
+ | [redhat-menus](/f16/package/redhat-menus) | 261 | 261 | 100.0 | Hindi <hindi.sf.net> | 
+ | [rhnsd](/f16/package/rhnsd) | 20 | 20 | 100.0 | Hindi <fedora-trans-hi@redhat.com> | 
+ | [rhythmbox](/f16/package/rhythmbox) | 4545 | 4545 | 100.0 | Hindi <indlinux-hindi@lists.sourceforge.net> | 
+ | [scim](/f16/package/scim) | 1173 | 1173 | 100.0 | Hindi <hindi.sf.net> | 
+ | [seahorse](/f16/package/seahorse) | 3042 | 3042 | 100.0 | Hindi <hindi.sf.net> | 
+ | [seahorse-plugins](/f16/package/seahorse-plugins) | 1159 | 1159 | 100.0 | Hindi <hindi.sf.net> | 
+ | [setroubleshoot](/f16/package/setroubleshoot) | 562 | 562 | 100.0 | Hindi <indlinux-hindi@lists.sourceforge.net> | 
+ | [setuptool](/f16/package/setuptool) | 55 | 55 | 100.0 | Hindi <hindi.sf.net> | 
+ | [smolt](/f16/package/smolt) | 1174 | 1174 | 100.0 | Hindi <hindi.sf.net> | 
+ | [sound-juicer](/f16/package/sound-juicer) | 1022 | 1022 | 100.0 | Hindi <hindi.sf.net> | 
+ | [sugar-chat](/f16/package/sugar-chat) | 50 | 50 | 100.0 | Hindi <indlinux-hindi@lists.sourceforge.net> | 
+ | [sugar-finance](/f16/package/sugar-finance) | 143 | 143 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-imageviewer](/f16/package/sugar-imageviewer) | 24 | 24 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-jukebox](/f16/package/sugar-jukebox) | 7 | 7 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-log](/f16/package/sugar-log) | 77 | 77 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-physics](/f16/package/sugar-physics) | 28 | 28 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-pippy](/f16/package/sugar-pippy) | 109 | 109 | 100.0 | Hindi <indlinux-hindi@lists.sourceforge.net> | 
+ | [sugar-surf](/f16/package/sugar-surf) | 53 | 53 | 100.0 | Hindi <indlinux-hindi@lists.sourceforge.net> | 
+ | [sugar-terminal](/f16/package/sugar-terminal) | 13 | 13 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-toolkit](/f16/package/sugar-toolkit) | 78 | 78 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [switchdesk](/f16/package/switchdesk) | 139 | 139 | 100.0 | Hindi <hindi.sf.net> | 
+ | [system-config-audit](/f16/package/system-config-audit) | 1241 | 1241 | 100.0 | Hindi <indlinux-hindi@lists.sourceforge.net> | 
+ | [system-config-bind](/f16/package/system-config-bind) | 9434 | 9434 | 100.0 | Hindi <hindi.sf.net> | 
+ | [system-config-boot](/f16/package/system-config-boot) | 119 | 119 | 100.0 | Hindi <hindi.sf.net> | 
+ | [system-config-httpd](/f16/package/system-config-httpd) | 877 | 877 | 100.0 | Hindi <hindi.sf.net> | 
+ | [system-config-keyboard](/f16/package/system-config-keyboard) | 187 | 187 | 100.0 | Hindi <hindi.sf.net> | 
+ | [system-config-kickstart](/f16/package/system-config-kickstart) | 1104 | 1104 | 100.0 | Hindi <fedora-trans-hi@redhat.com> | 
+ | [system-config-lvm](/f16/package/system-config-lvm) | 2246 | 2246 | 100.0 | Maithili <bhashaghar@googlegroups.com> | 
+ | [system-config-netboot](/f16/package/system-config-netboot) | 1135 | 1135 | 100.0 | Hindi <hindi.sf.net> | 
+ | [system-config-nfs](/f16/package/system-config-nfs) | 332 | 332 | 100.0 | Hindi <hindi.sf.net> | 
+ | [system-config-rootpassword](/f16/package/system-config-rootpassword) | 116 | 116 | 100.0 | Hindi <hindi.sf.net> | 
+ | [system-config-services-docs](/f16/package/system-config-services-docs) | 638 | 638 | 100.0 | Hindi <hindi.sf.net> | 
+ | [system-config-users](/f16/package/system-config-users) | 1452 | 1452 | 100.0 | Hindi <indlinux-hindi@lists.sourceforge.net> | 
+ | [system-switch-java](/f16/package/system-switch-java) | 81 | 81 | 100.0 | Hindi <hindi.sf.net> | 
+ | [system-switch-mail](/f16/package/system-switch-mail) | 158 | 158 | 100.0 | Hindi <hindi.sf.net> | 
+ | [tomboy](/f16/package/tomboy) | 2870 | 2870 | 100.0 | Hindi <hindi.sf.net> | 
+ | [totem-pl-parser](/f16/package/totem-pl-parser) | 28 | 28 | 100.0 | Hindi <hindi.sf.net> | 
+ | [vino](/f16/package/vino) | 1215 | 1215 | 100.0 | Hindi <hindi.sf.net> | 
+ | [virt-viewer](/f16/package/virt-viewer) | 282 | 282 | 100.0 | Hindi <indlinux> | 
+ | [vte](/f16/package/vte) | 84 | 84 | 100.0 | Hindi <hindi.sf.net> | 
+ | [vte3](/f16/package/vte3) | 84 | 84 | 100.0 | Hindi <hindi.sf.net> | 
+ | [xchat-gnome](/f16/package/xchat-gnome) | 4055 | 4055 | 100.0 | Hindi <hindi.sf.net> | 
+ | [xdg-user-dirs](/f16/package/xdg-user-dirs) | 28 | 28 | 100.0 | Hindi <fedora-trans-hi@redhat.com> | 
+ | [yelp-xsl](/f16/package/yelp-xsl) | 249 | 249 | 100.0 | Hindi <hindi.sf.net> | 
+ | [yum-rhn-plugin](/f16/package/yum-rhn-plugin) | 104 | 104 | 100.0 | Hindi <fedora-trans-hi@redhat.com> | 
+ | [zenity](/f16/package/zenity) | 579 | 579 | 100.0 | Hindi <hindi.sf.net> | 
+ | [gcompris](/f16/package/gcompris) | 9980 | 9983 | 100.0 | Anand Kulkarni <LL@li.org> | 
+ | [sugar-calculator](/f16/package/sugar-calculator) | 858 | 859 | 99.9 | Hindi <indlinux-hindi@lists.sourceforge.net> | 
+ | [system-config-firewall](/f16/package/system-config-firewall) | 2807 | 2814 | 99.8 | Hindi <fedora-trans-hi@redhat.com> | 
+ | [libmateweather](/f16/package/libmateweather) | 6035 | 6051 | 99.7 | Hindi (http://www.transifex.com/projects/p/MATE/language/hi/) | 
+ | [system-config-network](/f16/package/system-config-network) | 3022 | 3032 | 99.7 | Maithili <bhashaghar@googlegroups.com> | 
+ | [im-chooser](/f16/package/im-chooser) | 225 | 226 | 99.6 | Hindi (http://www.transifex.net/projects/p/im-chooser/team/hi/) | 
+ | [pam](/f16/package/pam) | 599 | 602 | 99.5 | Hindi <hindi.sf.net> | 
+ | [system-config-nfs-docs](/f16/package/system-config-nfs-docs) | 1185 | 1192 | 99.4 | Hindi <hindi.sf.net> | 
+ | [mate-vfs](/f16/package/mate-vfs) | 1508 | 1519 | 99.3 | Hindi (http://www.transifex.com/projects/p/MATE/language/hi/) | 
+ | [mate-doc-utils](/f16/package/mate-doc-utils) | 249 | 251 | 99.2 | Hindi (http://www.transifex.net/projects/p/MATE/language/hi/) | 
+ | [publican-fedora](/f16/package/publican-fedora) | 106 | 107 | 99.1 | Hindi <hindi.sf.net> | 
+ | [moin](/f16/package/moin) | 4974 | 5023 | 99.0 |  | 
+ | [libuser](/f16/package/libuser) | 1134 | 1146 | 99.0 | Hindi <indlinux-hindi@lists.sourceforge.net> | 
+ | [usermode](/f16/package/usermode) | 566 | 572 | 99.0 | Hindi <indlinux-hindi@lists.sourceforge.net> | 
+ | [libmate](/f16/package/libmate) | 1754 | 1773 | 98.9 | Hindi (http://www.transifex.com/projects/p/MATE/language/hi/) | 
+ | [sugar-moon](/f16/package/sugar-moon) | 90 | 91 | 98.9 | LANGUAGE <LL@li.org> | 
+ | [libmatecomponent](/f16/package/libmatecomponent) | 537 | 543 | 98.9 | Hindi (http://www.transifex.net/projects/p/MATE/language/hi/) | 
+ | [mate-conf](/f16/package/mate-conf) | 3985 | 4032 | 98.8 | Hindi (http://www.transifex.net/projects/p/MATE/language/hi/) | 
+ | [pykickstart](/f16/package/pykickstart) | 338 | 342 | 98.8 | Hindi <indlinux-hindi@lists.sourceforge.net> | 
+ | [system-config-date-docs](/f16/package/system-config-date-docs) | 728 | 739 | 98.5 | Hindi <hindi.sf.net> | 
+ | [setroubleshoot-plugins](/f16/package/setroubleshoot-plugins) | 8162 | 8291 | 98.4 | Hindi <indlinux-hindi@lists.sourceforge.net> | 
+ | [sugar-infoslicer](/f16/package/sugar-infoslicer) | 181 | 184 | 98.4 | LANGUAGE <LL@li.org> | 
+ | [poedit](/f16/package/poedit) | 1143 | 1162 | 98.4 | हिन्दी (Hindi) <dysxhi@yahoo.co.in> | 
+ | [phatch](/f16/package/phatch) | 2510 | 2553 | 98.3 | Hindi <hi@li.org> | 
+ | [system-config-date](/f16/package/system-config-date) | 1816 | 1850 | 98.2 | Hindi <indlinux-hindi@lists.sourceforge.net> | 
+ | [aisleriot](/f16/package/aisleriot) | 1950 | 1987 | 98.1 | Hindi <Indlinux> | 
+ | [sugar-labyrinth](/f16/package/sugar-labyrinth) | 248 | 254 | 97.6 | LANGUAGE <LL@li.org> | 
+ | [gnome-utils](/f16/package/gnome-utils) | 3468 | 3576 | 97.0 | Hindi <Indlinux> | 
+ | [dexter](/f16/package/dexter) | 221 | 228 | 96.9 | Hindi <hi@li.org> | 
+ | [gtk2](/f16/package/gtk2) | 13259 | 13704 | 96.8 | Hindi <hindi.sf.net> | 
+ | [mingw32-gtk2](/f16/package/mingw32-gtk2) | 13259 | 13704 | 96.8 | Hindi <hindi.sf.net> | 
+ | [virt-manager](/f16/package/virt-manager) | 4668 | 4829 | 96.7 | LANGUAGE <LL@li.org> | 
+ | [volume_key](/f16/package/volume_key) | 720 | 745 | 96.6 | Hindi <indlinux-hindi@lists.sourceforge.net> | 
+ | [authconfig](/f16/package/authconfig) | 1329 | 1379 | 96.4 | Hindi <indlinux-hindi@lists.sourceforge.net> | 
+ | [etoys](/f16/package/etoys) | 28754 | 29994 | 95.9 |  | 
+ | [pulseaudio](/f16/package/pulseaudio) | 2726 | 2849 | 95.7 | Hindi <hindi.sf.net> | 
+ | [chkconfig](/f16/package/chkconfig) | 463 | 487 | 95.1 | Hindi <indlinux-hindi@lists.sourceforge.net> | 
+ | [sugar-read](/f16/package/sugar-read) | 57 | 60 | 95.0 | Hindi <indlinux-hindi@lists.sourceforge.net> | 
+ | [gnome-pilot](/f16/package/gnome-pilot) | 1686 | 1782 | 94.6 | Hindi <fedora-trans-hi@redhat.com> | 
+ | [drgeo](/f16/package/drgeo) | 1870 | 1985 | 94.2 | Hindi | 
+ | [gtkhtml3](/f16/package/gtkhtml3) | 458 | 488 | 93.9 | Hindi <fedora-trans-hi@redhat.com> | 
+ | [libreport](/f16/package/libreport) | 1771 | 1889 | 93.8 | LANGUAGE <LL@li.org> | 
+ | [sugar](/f16/package/sugar) | 915 | 976 | 93.8 | LANGUAGE <LL@li.org> | 
+ | [evolution-exchange](/f16/package/evolution-exchange) | 1139 | 1217 | 93.6 | Hindi <fedora-trans-hi@redhat.com> | 
+ | [totem](/f16/package/totem) | 2381 | 2548 | 93.4 | Hindi <fedora-trans-hi@redhat.com> | 
+ | [gnome-games](/f16/package/gnome-games) | 5954 | 6373 | 93.4 | Hindi <Indlinux> | 
+ | [sugar-write](/f16/package/sugar-write) | 75 | 81 | 92.6 | Hindi <indlinux-hindi@lists.sourceforge.net> | 
+ | [pidgin](/f16/package/pidgin) | 16988 | 18356 | 92.5 | Hindi <Indlinux> | 
+ | [pavucontrol](/f16/package/pavucontrol) | 219 | 237 | 92.4 | Hindi <hindi.sf.net> | 
+ | [mate-window-manager](/f16/package/mate-window-manager) | 3500 | 3790 | 92.3 | Hindi (http://www.transifex.com/projects/p/MATE/language/hi/) | 
+ | [gnote](/f16/package/gnote) | 2100 | 2283 | 92.0 | Hindi <Red Hat> | 
+ | [gtksourceview3](/f16/package/gtksourceview3) | 1405 | 1532 | 91.7 | Hindi <Indlinux> | 
+ | [mingw-gtksourceview3](/f16/package/mingw-gtksourceview3) | 1405 | 1532 | 91.7 | Hindi <Indlinux> | 
+ | [anaconda](/f16/package/anaconda) | 8602 | 9408 | 91.4 | Hindi <indlinux-hindi@lists.sourceforge.net> | 
+ | [PackageKit](/f16/package/PackageKit) | 1479 | 1620 | 91.3 | Hindi (http://www.transifex.net/projects/p/freedesktop/team/hi/) | 
+ | [sugar-browse](/f16/package/sugar-browse) | 52 | 57 | 91.2 | Hindi <indlinux-hindi@lists.sourceforge.net> | 
+ | [gtk3](/f16/package/gtk3) | 22208 | 24425 | 90.9 | Hindi <Indlinux> | 
+ | [mingw-gtk3](/f16/package/mingw-gtk3) | 22208 | 24425 | 90.9 | Hindi <Indlinux> | 
+ | [gdk-pixbuf2](/f16/package/gdk-pixbuf2) | 1192 | 1313 | 90.8 | Hindi <hindi.sf.net> | 
+ | [mingw32-gdk-pixbuf](/f16/package/mingw32-gdk-pixbuf) | 1192 | 1313 | 90.8 | Hindi <hindi.sf.net> | 
+ | [system-config-samba](/f16/package/system-config-samba) | 518 | 571 | 90.7 | Hindi <indlinux-hindi@lists.sourceforge.net> | 
+ | [system-config-language](/f16/package/system-config-language) | 586 | 646 | 90.7 | Hindi <hindi.sf.net> | 
+ | [ccsm](/f16/package/ccsm) | 498 | 549 | 90.7 | <en@li.org> | 
+ | [sabayon](/f16/package/sabayon) | 656 | 736 | 89.1 | Hindi <hindi.sf.net> | 
+ | [tuxtype2](/f16/package/tuxtype2) | 71 | 80 | 88.8 | Hindi <hindi.sf.net> | 
+ | [gcalctool](/f16/package/gcalctool) | 1235 | 1399 | 88.3 | Hindi <hindi> | 
+ | [mate-media](/f16/package/mate-media) | 811 | 920 | 88.2 | Hindi (http://www.transifex.com/projects/p/MATE/language/hi/) | 
+ | [gnome-packagekit](/f16/package/gnome-packagekit) | 4739 | 5380 | 88.1 | Hindi <hindi.sf.net> | 
+ | [mate-themes](/f16/package/mate-themes) | 96 | 109 | 88.1 | Hindi (http://www.transifex.com/projects/p/MATE/language/hi/) | 
+ | [mate-file-manager](/f16/package/mate-file-manager) | 8221 | 9411 | 87.4 | Hindi (http://www.transifex.net/projects/p/MATE/language/hi/) | 
+ | [dasher](/f16/package/dasher) | 471 | 542 | 86.9 | Hindi <hindi.sf.net> | 
+ | [policycoreutils](/f16/package/policycoreutils) | 1266 | 1470 | 86.1 | Hindi <hindi.sf.net> | 
+ | [sugar-abacus](/f16/package/sugar-abacus) | 20 | 24 | 83.3 | LANGUAGE <LL@li.org> | 
+ | [mingw-wxWidgets](/f16/package/mingw-wxWidgets) | 5256 | 6391 | 82.2 | हिन्दी (Hindi) <dysxhi@yahoo.co.in> | 
+ | [wxGTK](/f16/package/wxGTK) | 5256 | 6391 | 82.2 | हिन्दी (Hindi) <dysxhi@yahoo.co.in> | 
+ | [wxPython](/f16/package/wxPython) | 5256 | 6391 | 82.2 | हिन्दी (Hindi) <dysxhi@yahoo.co.in> | 
+ | [file-roller](/f16/package/file-roller) | 1244 | 1519 | 81.9 | Hindi <Indlinux> | 
+ | [evolution-mapi](/f16/package/evolution-mapi) | 269 | 333 | 80.8 | Hindi <hindi.sf.net> | 
+ | [libgnome-media-profiles](/f16/package/libgnome-media-profiles) | 740 | 920 | 80.4 | Hindi <hindi.sf.net> | 
+ | [konq-plugins](/f16/package/konq-plugins) | 1278 | 1598 | 80.0 | Hindi <indlinux-hindi@lists.sourceforge.net> | 
+ | [kiconedit](/f16/package/kiconedit) | 576 | 726 | 79.3 | Hindi <indlinux-hindi@lists.sourceforge.net> | 
+ | [evolution-data-server](/f16/package/evolution-data-server) | 3666 | 4658 | 78.7 | Hindi <hindi.sf.net> | 
+ | [publican](/f16/package/publican) | 858 | 1094 | 78.4 | Hindi <hindi.sf.net> | 
+ | [gnome-do](/f16/package/gnome-do) | 473 | 612 | 77.3 | Hindi <hi@li.org> | 
+ | [mate-backgrounds](/f16/package/mate-backgrounds) | 23 | 30 | 76.7 | Hindi (http://www.transifex.com/projects/p/MATE/language/hi/) | 
+ | [system-config-services](/f16/package/system-config-services) | 397 | 518 | 76.6 | Hindi <fedora-trans-hi@redhat.com> | 
+ | [control-center](/f16/package/control-center) | 2798 | 3665 | 76.3 | Hindi <hindi@hindi> | 
+ | [orca](/f16/package/orca) | 2827 | 3704 | 76.3 | Hindi <hindi.sf.net> | 
+ | [Django](/f16/package/Django) | 2992 | 3975 | 75.3 | Hindi <None> | 
+ | [brasero](/f16/package/brasero) | 4050 | 5493 | 73.7 | Hindi <Indlinux> | 
+ | [planner](/f16/package/planner) | 810 | 1110 | 73.0 | Gnome Hindi <indlinux-hindi-gnome@lists.sourceforge.net> | 
+ | [mate-dialogs](/f16/package/mate-dialogs) | 458 | 631 | 72.6 | Hindi (http://www.transifex.com/projects/p/MATE/language/hi/) | 
+ | [mate-keyring](/f16/package/mate-keyring) | 841 | 1173 | 71.7 | Hindi (http://www.transifex.com/projects/p/MATE/language/hi/) | 
+ | [compiz-fusion](/f16/package/compiz-fusion) | 6332 | 8946 | 70.8 | <en@li.org> | 
+ | [gbrainy](/f16/package/gbrainy) | 4235 | 6008 | 70.5 | Hindi <indlinux-hindi@lists.sourceforge.net> | 
+ | [gnome-disk-utility](/f16/package/gnome-disk-utility) | 3165 | 4544 | 69.7 | Hindi <Indlinux> | 
+ | [evolution](/f16/package/evolution) | 14822 | 21447 | 69.1 | Hindi <fedora-trans-hi@redhat.com> | 
+ | [eog](/f16/package/eog) | 1078 | 1566 | 68.8 | Hindi <Indlinux> | 
+ | [rhn-client-tools](/f16/package/rhn-client-tools) | 2997 | 4361 | 68.7 | Hindi <fedora-trans-hi@redhat.com> | 
+ | [gnome-contacts](/f16/package/gnome-contacts) | 139 | 205 | 67.8 | Hindi <hindi> | 
+ | [mate-image-viewer](/f16/package/mate-image-viewer) | 1089 | 1623 | 67.1 | Hindi (http://www.transifex.com/projects/p/MATE/language/hi/) | 
+ | [vinagre](/f16/package/vinagre) | 1125 | 1686 | 66.7 | Hindi <Indlinux> | 
+ | [drwright](/f16/package/drwright) | 125 | 191 | 65.4 | Hindi <hindi.sf.net> | 
+ | [gedit-plugins](/f16/package/gedit-plugins) | 788 | 1205 | 65.4 | Hindi <hindi.sf.net> | 
+ | [sos](/f16/package/sos) | 174 | 267 | 65.2 | Hindi <hindi.sf.net> | 
+ | [lightdm](/f16/package/lightdm) | 51 | 79 | 64.6 | Hindi <hi@li.org> | 
+ | [sugar-connect](/f16/package/sugar-connect) | 19 | 31 | 61.3 | Hindi <indlinux-hindi@lists.sourceforge.net> | 
+ | [firewalld](/f16/package/firewalld) | 369 | 615 | 60.0 | Hindi <fedora-trans-hi@redhat.com> | 
+ | [tuxmath](/f16/package/tuxmath) | 869 | 1454 | 59.8 | Gautam Gupta <admin@gaut.am> | 
+ | [sugar-memorize](/f16/package/sugar-memorize) | 68 | 114 | 59.6 | LANGUAGE <LL@li.org> | 
+ | [glib2](/f16/package/glib2) | 2808 | 4777 | 58.8 | Hindi <hindi> | 
+ | [mingw32-glib2](/f16/package/mingw32-glib2) | 2808 | 4777 | 58.8 | Hindi <hindi> | 
+ | [subscription-manager](/f16/package/subscription-manager) | 2162 | 3802 | 56.9 | Hindi | 
+ | [sugar-turtleart](/f16/package/sugar-turtleart) | 1311 | 2467 | 53.1 | LANGUAGE <LL@li.org> | 
+ | [hexchat](/f16/package/hexchat) | 2864 | 5481 | 52.3 | LANGUAGE <LL@li.org> | 
+ | [at-spi2-atk](/f16/package/at-spi2-atk) | 50 | 96 | 52.1 | Hindi <Indlinux> | 
+ | [publican-jboss](/f16/package/publican-jboss) | 120 | 232 | 51.7 | Hindi <fedora-trans-hi@redhat.com> | 
+ | [gwibber](/f16/package/gwibber) | 22 | 45 | 48.9 | Hindi <hi@li.org> | 
+ | [gimp](/f16/package/gimp) | 5915 | 12099 | 48.9 | <en@li.org> | 
+ | [compiz](/f16/package/compiz) | 1587 | 3250 | 48.8 | <en@li.org> | 
+ | [pootle](/f16/package/pootle) | 2252 | 4656 | 48.4 | LANGUAGE <LL@li.org> | 
+ | [libgdata](/f16/package/libgdata) | 268 | 559 | 47.9 | indlinux-hindi@lists.sourceforge.net | 
+ | [gnome-power-manager](/f16/package/gnome-power-manager) | 207 | 432 | 47.9 | Hindi <hindi.sf.net> | 
+ | [gnome-settings-daemon](/f16/package/gnome-settings-daemon) | 1377 | 2916 | 47.2 | Hindi <Indlinux> | 
+ | [empathy](/f16/package/empathy) | 2022 | 4304 | 47.0 | Hindi <Indlinux> | 
+ | [gnome-applet-alarm-clock](/f16/package/gnome-applet-alarm-clock) | 191 | 417 | 45.8 | Hindi <hi@li.org> | 
+ | [koffice-kivio](/f16/package/koffice-kivio) | 3853 | 8417 | 45.8 | indlinux-hindi <indlinux-hindi@lists.sourceforge.net> | 
+ | [kaudiocreator](/f16/package/kaudiocreator) | 1026 | 2272 | 45.2 | Hindi <kde-i18n-doc@lists.kde.org> | 
+ | [glade3](/f16/package/glade3) | 2618 | 5875 | 44.6 |  | 
+ | [ayttm](/f16/package/ayttm) | 1242 | 2912 | 42.7 | आशीष जैन ( ASHISH JAIN ) <tensai_ashish@yahoo.com> | 
+ | [cinnamon](/f16/package/cinnamon) | 524 | 1238 | 42.3 | Hindi <Indlinux> | 
+ | [gnome-video-effects](/f16/package/gnome-video-effects) | 11 | 26 | 42.3 | Hindi <hindi.sf.net> | 
+ | [gnome-shell](/f16/package/gnome-shell) | 525 | 1242 | 42.3 | Hindi <Indlinux> | 
+ | [yelp](/f16/package/yelp) | 201 | 488 | 41.2 | Hindi <hindi> | 
+ | [caribou](/f16/package/caribou) | 82 | 200 | 41.0 | Hindi <hindi> | 
+ | [mate-desktop](/f16/package/mate-desktop) | 165 | 407 | 40.5 | LANGUAGE <LL@li.org> | 
+ | [kgrab](/f16/package/kgrab) | 148 | 370 | 40.0 | Hindi <indlinux-hindi@lists.sourceforge.net> | 
+ | [orage](/f16/package/orage) | 916 | 2392 | 38.3 | Hindi <indlinux-group@lists.sourceforge.net> | 
+ | [gnome-themes-standard](/f16/package/gnome-themes-standard) | 9 | 24 | 37.5 | Hindi <Indlinux> | 
+ | [kdiff3](/f16/package/kdiff3) | 2573 | 7034 | 36.6 | indlinux-hindi <indlinux-hindi@lists.sourceforge.net> | 
+ | [balsa](/f16/package/balsa) | 1860 | 5348 | 34.8 | Gnome Hindi Team <indlinux-hindi-gnome@lists.sourceforge.net> | 
+ | [mingw32-libvirt](/f16/package/mingw32-libvirt) | 9805 | 29427 | 33.3 | Hindi <hindi.sf.net> | 
+ | [clutter](/f16/package/clutter) | 787 | 2371 | 33.2 | Hindi <hindi> | 
+ | [libvirt](/f16/package/libvirt) | 9805 | 29566 | 33.2 | Hindi <hindi.sf.net> | 
+ | [system-config-kdump](/f16/package/system-config-kdump) | 235 | 807 | 29.1 | Hindi <hindi.sf.net> | 
+ | [libguestfs](/f16/package/libguestfs) | 1801 | 6330 | 28.5 | Hindi <indlinux-hindi@lists.sourceforge.net> | 
+ | [rsibreak](/f16/package/rsibreak) | 370 | 1304 | 28.4 | Hindi <indlinux-hindi@lists.sourceforge.net> | 
+ | [anjuta](/f16/package/anjuta) | 2171 | 8034 | 27.0 | Hindi <Indlinux> | 
+ | [kphotoalbum](/f16/package/kphotoalbum) | 1690 | 6333 | 26.7 | Hindi <indlinux-hindi@lists.sourceforge.net> | 
+ | [kile](/f16/package/kile) | 5627 | 22324 | 25.2 | Hindi <kde-i18n-doc@lists.kde.org> | 
+ | [libreoffice](/f16/package/libreoffice) | 133561 | 533994 | 25.0 | LANGUAGE <LL@li.org> | 
+ | [system-config-printer](/f16/package/system-config-printer) | 759 | 3057 | 24.8 | Hindi <fedora-trans-hi@redhat.com> | 
+ | [tuxpaint](/f16/package/tuxpaint) | 307 | 1247 | 24.6 | Hindi | 
+ | [libgdl](/f16/package/libgdl) | 141 | 613 | 23.0 | Hindi <hindi.sf.net> | 
+ | [nautilus-actions](/f16/package/nautilus-actions) | 498 | 2195 | 22.7 | Hindi <hindi.sf.net> | 
+ | [stellarium](/f16/package/stellarium) | 1616 | 7138 | 22.6 | Hindi <hi@li.org> | 
+ | [k3b](/f16/package/k3b) | 4366 | 20423 | 21.4 | Hindi <indlinux-hindi@lists.sourceforge.net> | 
+ | [lekhonee-gnome](/f16/package/lekhonee-gnome) | 21 | 112 | 18.8 | Hindi <hindi.sf.net> | 
+ | [audacious](/f16/package/audacious) | 137 | 734 | 18.7 | Hindi, India <dysxhi@yahoo.co.in> | 
+ | [sugar-clock](/f16/package/sugar-clock) | 7 | 38 | 18.4 | LANGUAGE <LL@li.org> | 
+ | [abrt](/f16/package/abrt) | 233 | 1419 | 16.4 | Hindi <indlinux-hindi@lists.sourceforge.net> | 
+ | [gthumb](/f16/package/gthumb) | 315 | 2595 | 12.1 | Hindi <fedora-trans-hi@redhat.com> | 
+ | [sugar-tamtam](/f16/package/sugar-tamtam) | 235 | 2070 | 11.4 | Hindi <indlinux-hindi@lists.sourceforge.net> | 
+ | [libpeas](/f16/package/libpeas) | 12 | 106 | 11.3 | Hindi <Indlinux> | 
+ | [xfce4-eyes-plugin](/f16/package/xfce4-eyes-plugin) | 1 | 9 | 11.1 | Hindi <indlinux-group@lists.sourceforge.net> | 
+ | [soundconverter](/f16/package/soundconverter) | 49 | 450 | 10.9 | Hindi <hi@li.org> | 
+ | [iso-codes](/f16/package/iso-codes) | 1302 | 12366 | 10.5 | American English <kde-i18n-doc@lists.kde.org> | 
+ | [devhelp](/f16/package/devhelp) | 21 | 209 | 10.0 | Gnome Hindi Team <indlinux-hindi-gnome@lists.sourceforge.net> | 
+ | [digikam](/f16/package/digikam) | 3151 | 32788 | 9.6 | Hindi <indlinux-hindi@lists.sourceforge.net> | 
+ | [camorama](/f16/package/camorama) | 51 | 559 | 9.1 | Hindi <indlinux-hindi-gnome@lists.sourceforge.net> | 
+ | [sugar-measure](/f16/package/sugar-measure) | 14 | 155 | 9.0 | Hindi <indlinux-hindi@lists.sourceforge.net> | 
+ | [pinta](/f16/package/pinta) | 89 | 1040 | 8.6 | Hindi <hi@li.org> | 
+ | [shutter](/f16/package/shutter) | 258 | 3351 | 7.7 | Hindi <hi@li.org> | 
+ | [picard](/f16/package/picard) | 118 | 1626 | 7.3 | LANGUAGE <LL@li.org> | 
+ | [libktorrent](/f16/package/libktorrent) | 70 | 1038 | 6.7 | Hindi <indlinux-hindi@lists.sourceforge.net> | 
+ | [gnome-user-docs](/f16/package/gnome-user-docs) | 3093 | 46797 | 6.6 | indlinux-hindi@lists.sourceforge.net | 
+ | [colord](/f16/package/colord) | 25 | 388 | 6.4 | Hindi (http://www.transifex.net/projects/p/freedesktop/team/hi/) | 
+ | [xfwm4](/f16/package/xfwm4) | 51 | 837 | 6.1 | Hindi <indlinux-group@lists.sourceforge.net> | 
+ | [genius](/f16/package/genius) | 169 | 2781 | 6.1 | Hindi <indlinux-hindi-gnome@lists.sourceforge.net> | 
+ | [libpwquality](/f16/package/libpwquality) | 18 | 324 | 5.6 | LANGUAGE <LL@li.org> | 
+ | [terminator](/f16/package/terminator) | 18 | 339 | 5.3 | Hindi <hi@li.org> | 
+ | [ktorrent](/f16/package/ktorrent) | 856 | 16286 | 5.3 | Hindi <indlinux-hindi@lists.sourceforge.net> | 
+ | [system-config-users-docs](/f16/package/system-config-users-docs) | 50 | 1061 | 4.7 | Hindi <hindi.sf.net> | 
+ | [vidalia](/f16/package/vidalia) | 480 | 10463 | 4.6 | translations@vidalia-project.net | 
+ | [docky](/f16/package/docky) | 22 | 599 | 3.7 | Hindi <hi@li.org> | 
+ | [gmpc](/f16/package/gmpc) | 52 | 1444 | 3.6 | Hindi <hi@li.org> | 
+ | [exaile](/f16/package/exaile) | 121 | 3683 | 3.3 | Hindi <hi@li.org> | 
+ | [system-config-samba-docs](/f16/package/system-config-samba-docs) | 39 | 1195 | 3.3 | Hindi <hindi.sf.net> | 
+ | [avogadro](/f16/package/avogadro) | 119 | 3656 | 3.3 | Hindi <hi@li.org> | 
+ | [kcoloredit](/f16/package/kcoloredit) | 9 | 278 | 3.2 | Hindi <indlinux-hindi@lists.sourceforge.net> | 
+ | [kopete-cryptography](/f16/package/kopete-cryptography) | 11 | 408 | 2.7 | Hindi <indlinux-hindi@lists.sourceforge.net> | 
+ | [openerp](/f16/package/openerp) | 381 | 16175 | 2.4 | Hindi <hi@li.org> | 
+ | [pychess](/f16/package/pychess) | 60 | 3091 | 1.9 | Hindi <hi@li.org> | 
+ | [xfce-utils](/f16/package/xfce-utils) | 8 | 492 | 1.6 | Hindi <indlinux-group@lists.sourceforge.net> | 
+ | [specspo](/f16/package/specspo) | 4887 | 305294 | 1.6 | Hindi <fedora-trans-hi@redhat.com> | 
+ | [pgadmin3](/f16/package/pgadmin3) | 210 | 14829 | 1.4 | The pgAdmin Development Team <pgadmin-hackers@postgresql.org> | 
+ | [pidgin-sipe](/f16/package/pidgin-sipe) | 10 | 857 | 1.2 | English <LL@li.org> | 
+ | [transmission](/f16/package/transmission) | 12 | 1528 | 0.8 | Hindi <hi@li.org> | 
+ | [calibre](/f16/package/calibre) | 298 | 45192 | 0.7 | Hindi | 
+ | [fuse-encfs](/f16/package/fuse-encfs) | 7 | 1315 | 0.5 | Hindi <hi@li.org> | 
+ | [xfce4-panel](/f16/package/xfce4-panel) | 7 | 1504 | 0.5 | Hindi <indlinux-hindi-gnome@lists.sourceforge.net> | 
+ | [clementine](/f16/package/clementine) | 18 | 3939 | 0.5 |  | 
+ | [xfce4-session](/f16/package/xfce4-session) | 5 | 1132 | 0.4 | Hindi <indlinux-group@lists.sourceforge.net> | 
+ | [xfdesktop](/f16/package/xfdesktop) | 3 | 835 | 0.4 | Hindi <indlinux-group@lists.sourceforge.net> | 
+ | [avant-window-navigator](/f16/package/avant-window-navigator) | 4 | 1829 | 0.2 | Hindi <hi@li.org> | 
+ | [wine](/f16/package/wine) | 13 | 14112 | 0.1 | none | 
+ | [accountsservice](/f16/package/accountsservice) | 0 | 59 | 0.0 | Hindi (http://www.transifex.net/projects/p/freedesktop/team/hi/) | 
+ | [ailurus](/f16/package/ailurus) | 0 | 8446 | 0.0 | none | 
+ | [at-spi2-core](/f16/package/at-spi2-core) | 0 | 96 | 0.0 | Hindi <Indlinux> | 
+ | [fprintd](/f16/package/fprintd) | 0 | 219 | 0.0 | Hindi <None> | 
+ | [gdesklets](/f16/package/gdesklets) | 0 | 1528 | 0.0 | Hindi <hi@li.org> | 
+ | [gnome-activity-journal](/f16/package/gnome-activity-journal) | 0 | 316 | 0.0 | Hindi <hi@li.org> | 
+ | [grass](/f16/package/grass) | 0 | 55506 | 0.0 | Hindi <grass-translations@lists.osgeo.org> | 
+ | [libgxim](/f16/package/libgxim) | 0 | 130 | 0.0 | none | 
+ | [ntfs-config](/f16/package/ntfs-config) | 0 | 357 | 0.0 | Hindi <hi@li.org> | 
+ | [openconnect](/f16/package/openconnect) | 0 | 5146 | 0.0 | Hindi (http://www.transifex.net/projects/p/meego/team/hi/) | 
+ | [retrace-server](/f16/package/retrace-server) | 0 | 123 | 0.0 | Hindi | 
+ | [revisor](/f16/package/revisor) | 0 | 4171 | 0.0 |  | 
+ | [sawfish](/f16/package/sawfish) | 0 | 6617 | 0.0 | Hindi (India) (http://www.transifex.net/projects/p/sawfish-master/team/hi_IN/) | 
+ | [shared-mime-info](/f16/package/shared-mime-info) | 0 | 1659 | 0.0 | Hindi (http://www.transifex.net/projects/p/freedesktop/team/hi/) | 
+ | [sugar-base](/f16/package/sugar-base) | 0 | 5 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-playgo](/f16/package/sugar-playgo) | 0 | 85 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-ruler](/f16/package/sugar-ruler) | 0 | 5 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-view-slides](/f16/package/sugar-view-slides) | 0 | 7 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-visualmatch](/f16/package/sugar-visualmatch) | 0 | 58 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [tuxpaint-stamps](/f16/package/tuxpaint-stamps) | 0 | 2711 | 0.0 |  | 
+ | [yum](/f16/package/yum) | 0 | 3069 | 0.0 | Hindi (http://www.transifex.net/projects/p/yum/team/hi/) | 
 {.sortable}
 
 
@@ -439,8 +439,8 @@ We use the po metadata to get the language code and the team, but sometimes it f
 
 | Package | Lang from file path/name | polib error | Team |
 |---------|--------------------------|-------------|------|
- | [glade3]({{< ref "/f16/package/glade3.md" >}}) | /mnt/stockage/packages/f16/glade3/help/hi/hi.po | error-os |  | 
- | [moin]({{< ref "/f16/package/moin.md" >}}) | /mnt/stockage/packages/f16/moin/MoinMoin/i18n/hi.MoinMoin.po | error-os |  | 
+ | [glade3](/f16/package/glade3) | /mnt/stockage/packages/f16/glade3/help/hi/hi.po | error-os |  | 
+ | [moin](/f16/package/moin) | /mnt/stockage/packages/f16/moin/MoinMoin/i18n/hi.MoinMoin.po | error-os |  | 
 {.sortable}
 
 

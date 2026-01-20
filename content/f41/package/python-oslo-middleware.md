@@ -18,8 +18,8 @@ The package python-oslo-middleware (version 6.0.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [en_GB]({{< ref "/f41/language/en_GB.md" >}}) | 275 | 275 | 100.0 | /mnt/stockage/packages/f41/python-oslo-middleware/oslo_middleware/locale/en_GB/LC_MESSAGES/oslo_middleware.po/mnt/stockage/packages/f41/python-oslo-middleware/releasenotes/source/locale/en_GB/LC_MESSAGES/releasenotes.po | 
- | [fr]({{< ref "/f41/language/fr.md" >}}) | 16 | 16 | 100.0 | /mnt/stockage/packages/f41/python-oslo-middleware/releasenotes/source/locale/fr/LC_MESSAGES/releasenotes.po | 
+ | [en_GB](/f41/language/en_GB) | 275 | 275 | 100.0 | /mnt/stockage/packages/f41/python-oslo-middleware/oslo_middleware/locale/en_GB/LC_MESSAGES/oslo_middleware.po/mnt/stockage/packages/f41/python-oslo-middleware/releasenotes/source/locale/en_GB/LC_MESSAGES/releasenotes.po | 
+ | [fr](/f41/language/fr) | 16 | 16 | 100.0 | /mnt/stockage/packages/f41/python-oslo-middleware/releasenotes/source/locale/fr/LC_MESSAGES/releasenotes.po | 
 {.sortable}
 
 

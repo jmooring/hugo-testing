@@ -18,20 +18,20 @@ The package darktable (version 2.6.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f29/language/ca.md" >}}) | 11962 | 11962 | 100.0 | /mnt/stockage/packages/f29/darktable/po/ca.po | 
- | [cs]({{< ref "/f29/language/cs.md" >}}) | 11618 | 11618 | 100.0 | /mnt/stockage/packages/f29/darktable/po/cs.po | 
- | [es]({{< ref "/f29/language/es.md" >}}) | 13984 | 13984 | 100.0 | /mnt/stockage/packages/f29/darktable/doc/man/po/es.po/mnt/stockage/packages/f29/darktable/po/es.po | 
- | [fi]({{< ref "/f29/language/fi.md" >}}) | 11907 | 11907 | 100.0 | /mnt/stockage/packages/f29/darktable/po/fi.po | 
- | [ja]({{< ref "/f29/language/ja.md" >}}) | 11298 | 11298 | 100.0 | /mnt/stockage/packages/f29/darktable/po/ja.po | 
- | [nb_NO]({{< ref "/f29/language/nb_NO.md" >}}) | 11872 | 11872 | 100.0 | /mnt/stockage/packages/f29/darktable/po/nb.po | 
- | [nl]({{< ref "/f29/language/nl.md" >}}) | 11970 | 11970 | 100.0 | /mnt/stockage/packages/f29/darktable/po/nl.po | 
- | [ru]({{< ref "/f29/language/ru.md" >}}) | 11962 | 11962 | 100.0 | /mnt/stockage/packages/f29/darktable/po/ru.po | 
- | [sl]({{< ref "/f29/language/sl.md" >}}) | 11869 | 11869 | 100.0 | /mnt/stockage/packages/f29/darktable/po/sl.po | 
- | [fr]({{< ref "/f29/language/fr.md" >}}) | 13714 | 13716 | 100.0 | /mnt/stockage/packages/f29/darktable/doc/man/po/fr.po/mnt/stockage/packages/f29/darktable/po/fr.po | 
- | [hu]({{< ref "/f29/language/hu.md" >}}) | 11287 | 11289 | 100.0 | /mnt/stockage/packages/f29/darktable/po/hu.po | 
- | [pl]({{< ref "/f29/language/pl.md" >}}) | 11852 | 11879 | 99.8 | /mnt/stockage/packages/f29/darktable/po/pl.po | 
- | [de]({{< ref "/f29/language/de.md" >}}) | 13918 | 13959 | 99.7 | /mnt/stockage/packages/f29/darktable/doc/man/po/de.po/mnt/stockage/packages/f29/darktable/po/de.po | 
- | [pt_BR]({{< ref "/f29/language/pt_BR.md" >}}) | 11162 | 11289 | 98.9 | /mnt/stockage/packages/f29/darktable/po/pt_BR.po | 
+ | [ca](/f29/language/ca) | 11962 | 11962 | 100.0 | /mnt/stockage/packages/f29/darktable/po/ca.po | 
+ | [cs](/f29/language/cs) | 11618 | 11618 | 100.0 | /mnt/stockage/packages/f29/darktable/po/cs.po | 
+ | [es](/f29/language/es) | 13984 | 13984 | 100.0 | /mnt/stockage/packages/f29/darktable/doc/man/po/es.po/mnt/stockage/packages/f29/darktable/po/es.po | 
+ | [fi](/f29/language/fi) | 11907 | 11907 | 100.0 | /mnt/stockage/packages/f29/darktable/po/fi.po | 
+ | [ja](/f29/language/ja) | 11298 | 11298 | 100.0 | /mnt/stockage/packages/f29/darktable/po/ja.po | 
+ | [nb_NO](/f29/language/nb_NO) | 11872 | 11872 | 100.0 | /mnt/stockage/packages/f29/darktable/po/nb.po | 
+ | [nl](/f29/language/nl) | 11970 | 11970 | 100.0 | /mnt/stockage/packages/f29/darktable/po/nl.po | 
+ | [ru](/f29/language/ru) | 11962 | 11962 | 100.0 | /mnt/stockage/packages/f29/darktable/po/ru.po | 
+ | [sl](/f29/language/sl) | 11869 | 11869 | 100.0 | /mnt/stockage/packages/f29/darktable/po/sl.po | 
+ | [fr](/f29/language/fr) | 13714 | 13716 | 100.0 | /mnt/stockage/packages/f29/darktable/doc/man/po/fr.po/mnt/stockage/packages/f29/darktable/po/fr.po | 
+ | [hu](/f29/language/hu) | 11287 | 11289 | 100.0 | /mnt/stockage/packages/f29/darktable/po/hu.po | 
+ | [pl](/f29/language/pl) | 11852 | 11879 | 99.8 | /mnt/stockage/packages/f29/darktable/po/pl.po | 
+ | [de](/f29/language/de) | 13918 | 13959 | 99.7 | /mnt/stockage/packages/f29/darktable/doc/man/po/de.po/mnt/stockage/packages/f29/darktable/po/de.po | 
+ | [pt_BR](/f29/language/pt_BR) | 11162 | 11289 | 98.9 | /mnt/stockage/packages/f29/darktable/po/pt_BR.po | 
 {.sortable}
 
 

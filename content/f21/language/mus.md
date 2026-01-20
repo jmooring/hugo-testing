@@ -38,8 +38,8 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [openteacher]({{< ref "/f21/package/openteacher.md" >}}) | 2 | 2 | 100.0 | Creek <mus@li.org> | 
- | [mintmenu]({{< ref "/f21/package/mintmenu.md" >}}) | 9 | 896 | 1.0 | Creek <mus@li.org> | 
+ | [openteacher](/f21/package/openteacher) | 2 | 2 | 100.0 | Creek <mus@li.org> | 
+ | [mintmenu](/f21/package/mintmenu) | 9 | 896 | 1.0 | Creek <mus@li.org> | 
 {.sortable}
 
 

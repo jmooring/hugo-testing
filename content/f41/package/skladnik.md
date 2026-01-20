@@ -18,48 +18,48 @@ The package skladnik (version 25.04.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f41/language/ar.md" >}}) | 154 | 154 | 100.0 | /mnt/stockage/packages/f41/skladnik/po/ar/skladnik.po | 
- | [ca]({{< ref "/f41/language/ca.md" >}}) | 154 | 154 | 100.0 | /mnt/stockage/packages/f41/skladnik/po/ca/skladnik.po | 
- | [ca@valencia]({{< ref "/f41/language/ca@valencia.md" >}}) | 154 | 154 | 100.0 | /mnt/stockage/packages/f41/skladnik/po/ca@valencia/skladnik.po | 
- | [es]({{< ref "/f41/language/es.md" >}}) | 154 | 154 | 100.0 | /mnt/stockage/packages/f41/skladnik/po/es/skladnik.po | 
- | [eu]({{< ref "/f41/language/eu.md" >}}) | 154 | 154 | 100.0 | /mnt/stockage/packages/f41/skladnik/po/eu/skladnik.po | 
- | [fi]({{< ref "/f41/language/fi.md" >}}) | 154 | 154 | 100.0 | /mnt/stockage/packages/f41/skladnik/po/fi/skladnik.po | 
- | [fr]({{< ref "/f41/language/fr.md" >}}) | 154 | 154 | 100.0 | /mnt/stockage/packages/f41/skladnik/po/fr/skladnik.po | 
- | [gl]({{< ref "/f41/language/gl.md" >}}) | 154 | 154 | 100.0 | /mnt/stockage/packages/f41/skladnik/po/gl/skladnik.po | 
- | [he]({{< ref "/f41/language/he.md" >}}) | 154 | 154 | 100.0 | /mnt/stockage/packages/f41/skladnik/po/he/skladnik.po | 
- | [hu]({{< ref "/f41/language/hu.md" >}}) | 154 | 154 | 100.0 | /mnt/stockage/packages/f41/skladnik/po/hu/skladnik.po | 
- | [it]({{< ref "/f41/language/it.md" >}}) | 154 | 154 | 100.0 | /mnt/stockage/packages/f41/skladnik/po/it/skladnik.po | 
- | [ka]({{< ref "/f41/language/ka.md" >}}) | 154 | 154 | 100.0 | /mnt/stockage/packages/f41/skladnik/po/ka/skladnik.po | 
- | [ko]({{< ref "/f41/language/ko.md" >}}) | 154 | 154 | 100.0 | /mnt/stockage/packages/f41/skladnik/po/ko/skladnik.po | 
- | [nl]({{< ref "/f41/language/nl.md" >}}) | 154 | 154 | 100.0 | /mnt/stockage/packages/f41/skladnik/po/nl/skladnik.po | 
- | [ru]({{< ref "/f41/language/ru.md" >}}) | 154 | 154 | 100.0 | /mnt/stockage/packages/f41/skladnik/po/ru/skladnik.po | 
- | [sl]({{< ref "/f41/language/sl.md" >}}) | 154 | 154 | 100.0 | /mnt/stockage/packages/f41/skladnik/po/sl/skladnik.po | 
- | [sv]({{< ref "/f41/language/sv.md" >}}) | 154 | 154 | 100.0 | /mnt/stockage/packages/f41/skladnik/po/sv/skladnik.po | 
- | [tr]({{< ref "/f41/language/tr.md" >}}) | 154 | 154 | 100.0 | /mnt/stockage/packages/f41/skladnik/po/tr/skladnik.po | 
- | [uk]({{< ref "/f41/language/uk.md" >}}) | 154 | 154 | 100.0 | /mnt/stockage/packages/f41/skladnik/po/uk/skladnik.po | 
- | [zh_Hant]({{< ref "/f41/language/zh_Hant.md" >}}) | 154 | 154 | 100.0 | /mnt/stockage/packages/f41/skladnik/po/zh_TW/skladnik.po | 
- | [de]({{< ref "/f41/language/de.md" >}}) | 152 | 154 | 98.7 | /mnt/stockage/packages/f41/skladnik/po/de/skladnik.po | 
- | [en_GB]({{< ref "/f41/language/en_GB.md" >}}) | 152 | 154 | 98.7 | /mnt/stockage/packages/f41/skladnik/po/en_GB/skladnik.po | 
- | [eo]({{< ref "/f41/language/eo.md" >}}) | 152 | 154 | 98.7 | /mnt/stockage/packages/f41/skladnik/po/eo/skladnik.po | 
- | [hi]({{< ref "/f41/language/hi.md" >}}) | 152 | 154 | 98.7 | /mnt/stockage/packages/f41/skladnik/po/hi/skladnik.po | 
- | [pl]({{< ref "/f41/language/pl.md" >}}) | 152 | 154 | 98.7 | /mnt/stockage/packages/f41/skladnik/po/pl/skladnik.po | 
- | [sa]({{< ref "/f41/language/sa.md" >}}) | 152 | 154 | 98.7 | /mnt/stockage/packages/f41/skladnik/po/sa/skladnik.po | 
- | [pt_BR]({{< ref "/f41/language/pt_BR.md" >}}) | 89 | 154 | 57.8 | /mnt/stockage/packages/f41/skladnik/po/pt_BR/skladnik.po | 
- | [nn]({{< ref "/f41/language/nn.md" >}}) | 88 | 154 | 57.1 | /mnt/stockage/packages/f41/skladnik/po/nn/skladnik.po | 
- | [pt]({{< ref "/f41/language/pt.md" >}}) | 88 | 154 | 57.1 | /mnt/stockage/packages/f41/skladnik/po/pt/skladnik.po | 
- | [cs]({{< ref "/f41/language/cs.md" >}}) | 84 | 154 | 54.5 | /mnt/stockage/packages/f41/skladnik/po/cs/skladnik.po | 
- | [sk]({{< ref "/f41/language/sk.md" >}}) | 83 | 154 | 53.9 | /mnt/stockage/packages/f41/skladnik/po/sk/skladnik.po | 
- | [et]({{< ref "/f41/language/et.md" >}}) | 78 | 154 | 50.6 | /mnt/stockage/packages/f41/skladnik/po/et/skladnik.po | 
- | [ia]({{< ref "/f41/language/ia.md" >}}) | 46 | 154 | 29.9 | /mnt/stockage/packages/f41/skladnik/po/ia/skladnik.po | 
- | [bs]({{< ref "/f41/language/bs.md" >}}) | 31 | 154 | 20.1 | /mnt/stockage/packages/f41/skladnik/po/bs/skladnik.po | 
- | [ga]({{< ref "/f41/language/ga.md" >}}) | 31 | 154 | 20.1 | /mnt/stockage/packages/f41/skladnik/po/ga/skladnik.po | 
- | [nb_NO]({{< ref "/f41/language/nb_NO.md" >}}) | 27 | 154 | 17.5 | /mnt/stockage/packages/f41/skladnik/po/nb/skladnik.po | 
- | [zh_Hans]({{< ref "/f41/language/zh_Hans.md" >}}) | 11 | 154 | 7.1 | /mnt/stockage/packages/f41/skladnik/po/zh_CN/skladnik.po | 
- | [ast]({{< ref "/f41/language/ast.md" >}}) | 4 | 154 | 2.6 | /mnt/stockage/packages/f41/skladnik/po/ast/skladnik.po | 
- | [mr]({{< ref "/f41/language/mr.md" >}}) | 4 | 154 | 2.6 | /mnt/stockage/packages/f41/skladnik/po/mr/skladnik.po | 
- | [ug]({{< ref "/f41/language/ug.md" >}}) | 4 | 154 | 2.6 | /mnt/stockage/packages/f41/skladnik/po/ug/skladnik.po | 
- | [ja]({{< ref "/f41/language/ja.md" >}}) | 0 | 154 | 0.0 | /mnt/stockage/packages/f41/skladnik/po/ja/skladnik.po | 
- | [lt]({{< ref "/f41/language/lt.md" >}}) | 0 | 154 | 0.0 | /mnt/stockage/packages/f41/skladnik/po/lt/skladnik.po | 
+ | [ar](/f41/language/ar) | 154 | 154 | 100.0 | /mnt/stockage/packages/f41/skladnik/po/ar/skladnik.po | 
+ | [ca](/f41/language/ca) | 154 | 154 | 100.0 | /mnt/stockage/packages/f41/skladnik/po/ca/skladnik.po | 
+ | [ca@valencia](/f41/language/ca@valencia) | 154 | 154 | 100.0 | /mnt/stockage/packages/f41/skladnik/po/ca@valencia/skladnik.po | 
+ | [es](/f41/language/es) | 154 | 154 | 100.0 | /mnt/stockage/packages/f41/skladnik/po/es/skladnik.po | 
+ | [eu](/f41/language/eu) | 154 | 154 | 100.0 | /mnt/stockage/packages/f41/skladnik/po/eu/skladnik.po | 
+ | [fi](/f41/language/fi) | 154 | 154 | 100.0 | /mnt/stockage/packages/f41/skladnik/po/fi/skladnik.po | 
+ | [fr](/f41/language/fr) | 154 | 154 | 100.0 | /mnt/stockage/packages/f41/skladnik/po/fr/skladnik.po | 
+ | [gl](/f41/language/gl) | 154 | 154 | 100.0 | /mnt/stockage/packages/f41/skladnik/po/gl/skladnik.po | 
+ | [he](/f41/language/he) | 154 | 154 | 100.0 | /mnt/stockage/packages/f41/skladnik/po/he/skladnik.po | 
+ | [hu](/f41/language/hu) | 154 | 154 | 100.0 | /mnt/stockage/packages/f41/skladnik/po/hu/skladnik.po | 
+ | [it](/f41/language/it) | 154 | 154 | 100.0 | /mnt/stockage/packages/f41/skladnik/po/it/skladnik.po | 
+ | [ka](/f41/language/ka) | 154 | 154 | 100.0 | /mnt/stockage/packages/f41/skladnik/po/ka/skladnik.po | 
+ | [ko](/f41/language/ko) | 154 | 154 | 100.0 | /mnt/stockage/packages/f41/skladnik/po/ko/skladnik.po | 
+ | [nl](/f41/language/nl) | 154 | 154 | 100.0 | /mnt/stockage/packages/f41/skladnik/po/nl/skladnik.po | 
+ | [ru](/f41/language/ru) | 154 | 154 | 100.0 | /mnt/stockage/packages/f41/skladnik/po/ru/skladnik.po | 
+ | [sl](/f41/language/sl) | 154 | 154 | 100.0 | /mnt/stockage/packages/f41/skladnik/po/sl/skladnik.po | 
+ | [sv](/f41/language/sv) | 154 | 154 | 100.0 | /mnt/stockage/packages/f41/skladnik/po/sv/skladnik.po | 
+ | [tr](/f41/language/tr) | 154 | 154 | 100.0 | /mnt/stockage/packages/f41/skladnik/po/tr/skladnik.po | 
+ | [uk](/f41/language/uk) | 154 | 154 | 100.0 | /mnt/stockage/packages/f41/skladnik/po/uk/skladnik.po | 
+ | [zh_Hant](/f41/language/zh_Hant) | 154 | 154 | 100.0 | /mnt/stockage/packages/f41/skladnik/po/zh_TW/skladnik.po | 
+ | [de](/f41/language/de) | 152 | 154 | 98.7 | /mnt/stockage/packages/f41/skladnik/po/de/skladnik.po | 
+ | [en_GB](/f41/language/en_GB) | 152 | 154 | 98.7 | /mnt/stockage/packages/f41/skladnik/po/en_GB/skladnik.po | 
+ | [eo](/f41/language/eo) | 152 | 154 | 98.7 | /mnt/stockage/packages/f41/skladnik/po/eo/skladnik.po | 
+ | [hi](/f41/language/hi) | 152 | 154 | 98.7 | /mnt/stockage/packages/f41/skladnik/po/hi/skladnik.po | 
+ | [pl](/f41/language/pl) | 152 | 154 | 98.7 | /mnt/stockage/packages/f41/skladnik/po/pl/skladnik.po | 
+ | [sa](/f41/language/sa) | 152 | 154 | 98.7 | /mnt/stockage/packages/f41/skladnik/po/sa/skladnik.po | 
+ | [pt_BR](/f41/language/pt_BR) | 89 | 154 | 57.8 | /mnt/stockage/packages/f41/skladnik/po/pt_BR/skladnik.po | 
+ | [nn](/f41/language/nn) | 88 | 154 | 57.1 | /mnt/stockage/packages/f41/skladnik/po/nn/skladnik.po | 
+ | [pt](/f41/language/pt) | 88 | 154 | 57.1 | /mnt/stockage/packages/f41/skladnik/po/pt/skladnik.po | 
+ | [cs](/f41/language/cs) | 84 | 154 | 54.5 | /mnt/stockage/packages/f41/skladnik/po/cs/skladnik.po | 
+ | [sk](/f41/language/sk) | 83 | 154 | 53.9 | /mnt/stockage/packages/f41/skladnik/po/sk/skladnik.po | 
+ | [et](/f41/language/et) | 78 | 154 | 50.6 | /mnt/stockage/packages/f41/skladnik/po/et/skladnik.po | 
+ | [ia](/f41/language/ia) | 46 | 154 | 29.9 | /mnt/stockage/packages/f41/skladnik/po/ia/skladnik.po | 
+ | [bs](/f41/language/bs) | 31 | 154 | 20.1 | /mnt/stockage/packages/f41/skladnik/po/bs/skladnik.po | 
+ | [ga](/f41/language/ga) | 31 | 154 | 20.1 | /mnt/stockage/packages/f41/skladnik/po/ga/skladnik.po | 
+ | [nb_NO](/f41/language/nb_NO) | 27 | 154 | 17.5 | /mnt/stockage/packages/f41/skladnik/po/nb/skladnik.po | 
+ | [zh_Hans](/f41/language/zh_Hans) | 11 | 154 | 7.1 | /mnt/stockage/packages/f41/skladnik/po/zh_CN/skladnik.po | 
+ | [ast](/f41/language/ast) | 4 | 154 | 2.6 | /mnt/stockage/packages/f41/skladnik/po/ast/skladnik.po | 
+ | [mr](/f41/language/mr) | 4 | 154 | 2.6 | /mnt/stockage/packages/f41/skladnik/po/mr/skladnik.po | 
+ | [ug](/f41/language/ug) | 4 | 154 | 2.6 | /mnt/stockage/packages/f41/skladnik/po/ug/skladnik.po | 
+ | [ja](/f41/language/ja) | 0 | 154 | 0.0 | /mnt/stockage/packages/f41/skladnik/po/ja/skladnik.po | 
+ | [lt](/f41/language/lt) | 0 | 154 | 0.0 | /mnt/stockage/packages/f41/skladnik/po/lt/skladnik.po | 
 {.sortable}
 
 

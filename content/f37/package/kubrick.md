@@ -18,59 +18,59 @@ The package kubrick (version 23.04.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f37/language/ca.md" >}}) | 1205 | 1205 | 100.0 | /mnt/stockage/packages/f37/kubrick/po/ca/kubrick.po | 
- | [ca@valencia]({{< ref "/f37/language/ca@valencia.md" >}}) | 1205 | 1205 | 100.0 | /mnt/stockage/packages/f37/kubrick/po/ca@valencia/kubrick.po | 
- | [cs]({{< ref "/f37/language/cs.md" >}}) | 1205 | 1205 | 100.0 | /mnt/stockage/packages/f37/kubrick/po/cs/kubrick.po | 
- | [da]({{< ref "/f37/language/da.md" >}}) | 1205 | 1205 | 100.0 | /mnt/stockage/packages/f37/kubrick/po/da/kubrick.po | 
- | [de]({{< ref "/f37/language/de.md" >}}) | 1205 | 1205 | 100.0 | /mnt/stockage/packages/f37/kubrick/po/de/kubrick.po | 
- | [el]({{< ref "/f37/language/el.md" >}}) | 1205 | 1205 | 100.0 | /mnt/stockage/packages/f37/kubrick/po/el/kubrick.po | 
- | [en_GB]({{< ref "/f37/language/en_GB.md" >}}) | 1205 | 1205 | 100.0 | /mnt/stockage/packages/f37/kubrick/po/en_GB/kubrick.po | 
- | [es]({{< ref "/f37/language/es.md" >}}) | 1205 | 1205 | 100.0 | /mnt/stockage/packages/f37/kubrick/po/es/kubrick.po | 
- | [eu]({{< ref "/f37/language/eu.md" >}}) | 1205 | 1205 | 100.0 | /mnt/stockage/packages/f37/kubrick/po/eu/kubrick.po | 
- | [fi]({{< ref "/f37/language/fi.md" >}}) | 1205 | 1205 | 100.0 | /mnt/stockage/packages/f37/kubrick/po/fi/kubrick.po | 
- | [fr]({{< ref "/f37/language/fr.md" >}}) | 1205 | 1205 | 100.0 | /mnt/stockage/packages/f37/kubrick/po/fr/kubrick.po | 
- | [gl]({{< ref "/f37/language/gl.md" >}}) | 1205 | 1205 | 100.0 | /mnt/stockage/packages/f37/kubrick/po/gl/kubrick.po | 
- | [it]({{< ref "/f37/language/it.md" >}}) | 1205 | 1205 | 100.0 | /mnt/stockage/packages/f37/kubrick/po/it/kubrick.po | 
- | [ko]({{< ref "/f37/language/ko.md" >}}) | 1205 | 1205 | 100.0 | /mnt/stockage/packages/f37/kubrick/po/ko/kubrick.po | 
- | [nl]({{< ref "/f37/language/nl.md" >}}) | 1205 | 1205 | 100.0 | /mnt/stockage/packages/f37/kubrick/po/nl/kubrick.po | 
- | [nn]({{< ref "/f37/language/nn.md" >}}) | 1205 | 1205 | 100.0 | /mnt/stockage/packages/f37/kubrick/po/nn/kubrick.po | 
- | [pl]({{< ref "/f37/language/pl.md" >}}) | 1205 | 1205 | 100.0 | /mnt/stockage/packages/f37/kubrick/po/pl/kubrick.po | 
- | [pt]({{< ref "/f37/language/pt.md" >}}) | 1205 | 1205 | 100.0 | /mnt/stockage/packages/f37/kubrick/po/pt/kubrick.po | 
- | [pt_BR]({{< ref "/f37/language/pt_BR.md" >}}) | 1205 | 1205 | 100.0 | /mnt/stockage/packages/f37/kubrick/po/pt_BR/kubrick.po | 
- | [ru]({{< ref "/f37/language/ru.md" >}}) | 1205 | 1205 | 100.0 | /mnt/stockage/packages/f37/kubrick/po/ru/kubrick.po | 
- | [sk]({{< ref "/f37/language/sk.md" >}}) | 1205 | 1205 | 100.0 | /mnt/stockage/packages/f37/kubrick/po/sk/kubrick.po | 
- | [sl]({{< ref "/f37/language/sl.md" >}}) | 1205 | 1205 | 100.0 | /mnt/stockage/packages/f37/kubrick/po/sl/kubrick.po | 
- | [sv]({{< ref "/f37/language/sv.md" >}}) | 1205 | 1205 | 100.0 | /mnt/stockage/packages/f37/kubrick/po/sv/kubrick.po | 
- | [tr]({{< ref "/f37/language/tr.md" >}}) | 1205 | 1205 | 100.0 | /mnt/stockage/packages/f37/kubrick/po/tr/kubrick.po | 
- | [uk]({{< ref "/f37/language/uk.md" >}}) | 1205 | 1205 | 100.0 | /mnt/stockage/packages/f37/kubrick/po/uk/kubrick.po | 
- | [sr]({{< ref "/f37/language/sr.md" >}}) | 1203 | 1205 | 99.8 | /mnt/stockage/packages/f37/kubrick/po/sr/kubrick.po | 
- | [sr@ijekavian]({{< ref "/f37/language/sr@ijekavian.md" >}}) | 1203 | 1205 | 99.8 | /mnt/stockage/packages/f37/kubrick/po/sr@ijekavian/kubrick.po | 
- | [sr@ijekavian_Latn]({{< ref "/f37/language/sr@ijekavian_Latn.md" >}}) | 1203 | 1205 | 99.8 | /mnt/stockage/packages/f37/kubrick/po/sr@ijekavianlatin/kubrick.po | 
- | [sr_Latn]({{< ref "/f37/language/sr_Latn.md" >}}) | 1203 | 1205 | 99.8 | /mnt/stockage/packages/f37/kubrick/po/sr@latin/kubrick.po | 
- | [et]({{< ref "/f37/language/et.md" >}}) | 1202 | 1205 | 99.8 | /mnt/stockage/packages/f37/kubrick/po/et/kubrick.po | 
- | [id]({{< ref "/f37/language/id.md" >}}) | 1202 | 1205 | 99.8 | /mnt/stockage/packages/f37/kubrick/po/id/kubrick.po | 
- | [zh_Hant]({{< ref "/f37/language/zh_Hant.md" >}}) | 1202 | 1205 | 99.8 | /mnt/stockage/packages/f37/kubrick/po/zh_TW/kubrick.po | 
- | [bs]({{< ref "/f37/language/bs.md" >}}) | 1183 | 1205 | 98.2 | /mnt/stockage/packages/f37/kubrick/po/bs/kubrick.po | 
- | [hu]({{< ref "/f37/language/hu.md" >}}) | 1183 | 1205 | 98.2 | /mnt/stockage/packages/f37/kubrick/po/hu/kubrick.po | 
- | [kk]({{< ref "/f37/language/kk.md" >}}) | 1183 | 1205 | 98.2 | /mnt/stockage/packages/f37/kubrick/po/kk/kubrick.po | 
- | [km]({{< ref "/f37/language/km.md" >}}) | 1183 | 1205 | 98.2 | /mnt/stockage/packages/f37/kubrick/po/km/kubrick.po | 
- | [nb_NO]({{< ref "/f37/language/nb_NO.md" >}}) | 1183 | 1205 | 98.2 | /mnt/stockage/packages/f37/kubrick/po/nb/kubrick.po | 
- | [nds]({{< ref "/f37/language/nds.md" >}}) | 1183 | 1205 | 98.2 | /mnt/stockage/packages/f37/kubrick/po/nds/kubrick.po | 
- | [lv]({{< ref "/f37/language/lv.md" >}}) | 1178 | 1205 | 97.8 | /mnt/stockage/packages/f37/kubrick/po/lv/kubrick.po | 
- | [zh_Hans]({{< ref "/f37/language/zh_Hans.md" >}}) | 1117 | 1205 | 92.7 | /mnt/stockage/packages/f37/kubrick/po/zh_CN/kubrick.po | 
- | [ja]({{< ref "/f37/language/ja.md" >}}) | 1069 | 1205 | 88.7 | /mnt/stockage/packages/f37/kubrick/po/ja/kubrick.po | 
- | [ga]({{< ref "/f37/language/ga.md" >}}) | 369 | 1205 | 30.6 | /mnt/stockage/packages/f37/kubrick/po/ga/kubrick.po | 
- | [ka]({{< ref "/f37/language/ka.md" >}}) | 302 | 1205 | 25.1 | /mnt/stockage/packages/f37/kubrick/po/ka/kubrick.po | 
- | [ro]({{< ref "/f37/language/ro.md" >}}) | 179 | 1205 | 14.9 | /mnt/stockage/packages/f37/kubrick/po/ro/kubrick.po | 
- | [eo]({{< ref "/f37/language/eo.md" >}}) | 32 | 1205 | 2.7 | /mnt/stockage/packages/f37/kubrick/po/eo/kubrick.po | 
- | [ug]({{< ref "/f37/language/ug.md" >}}) | 26 | 1205 | 2.2 | /mnt/stockage/packages/f37/kubrick/po/ug/kubrick.po | 
- | [mr]({{< ref "/f37/language/mr.md" >}}) | 21 | 1205 | 1.7 | /mnt/stockage/packages/f37/kubrick/po/mr/kubrick.po | 
- | [mai]({{< ref "/f37/language/mai.md" >}}) | 18 | 1205 | 1.5 | /mnt/stockage/packages/f37/kubrick/po/mai/kubrick.po | 
- | [lt]({{< ref "/f37/language/lt.md" >}}) | 10 | 1205 | 0.8 | /mnt/stockage/packages/f37/kubrick/po/lt/kubrick.po | 
- | [hr]({{< ref "/f37/language/hr.md" >}}) | 4 | 1205 | 0.3 | /mnt/stockage/packages/f37/kubrick/po/hr/kubrick.po | 
- | [ml]({{< ref "/f37/language/ml.md" >}}) | 2 | 1205 | 0.2 | /mnt/stockage/packages/f37/kubrick/po/ml/kubrick.po | 
- | [bg]({{< ref "/f37/language/bg.md" >}}) | 0 | 1205 | 0.0 | /mnt/stockage/packages/f37/kubrick/po/bg/kubrick.po | 
- | [is]({{< ref "/f37/language/is.md" >}}) | 0 | 1205 | 0.0 | /mnt/stockage/packages/f37/kubrick/po/is/kubrick.po | 
+ | [ca](/f37/language/ca) | 1205 | 1205 | 100.0 | /mnt/stockage/packages/f37/kubrick/po/ca/kubrick.po | 
+ | [ca@valencia](/f37/language/ca@valencia) | 1205 | 1205 | 100.0 | /mnt/stockage/packages/f37/kubrick/po/ca@valencia/kubrick.po | 
+ | [cs](/f37/language/cs) | 1205 | 1205 | 100.0 | /mnt/stockage/packages/f37/kubrick/po/cs/kubrick.po | 
+ | [da](/f37/language/da) | 1205 | 1205 | 100.0 | /mnt/stockage/packages/f37/kubrick/po/da/kubrick.po | 
+ | [de](/f37/language/de) | 1205 | 1205 | 100.0 | /mnt/stockage/packages/f37/kubrick/po/de/kubrick.po | 
+ | [el](/f37/language/el) | 1205 | 1205 | 100.0 | /mnt/stockage/packages/f37/kubrick/po/el/kubrick.po | 
+ | [en_GB](/f37/language/en_GB) | 1205 | 1205 | 100.0 | /mnt/stockage/packages/f37/kubrick/po/en_GB/kubrick.po | 
+ | [es](/f37/language/es) | 1205 | 1205 | 100.0 | /mnt/stockage/packages/f37/kubrick/po/es/kubrick.po | 
+ | [eu](/f37/language/eu) | 1205 | 1205 | 100.0 | /mnt/stockage/packages/f37/kubrick/po/eu/kubrick.po | 
+ | [fi](/f37/language/fi) | 1205 | 1205 | 100.0 | /mnt/stockage/packages/f37/kubrick/po/fi/kubrick.po | 
+ | [fr](/f37/language/fr) | 1205 | 1205 | 100.0 | /mnt/stockage/packages/f37/kubrick/po/fr/kubrick.po | 
+ | [gl](/f37/language/gl) | 1205 | 1205 | 100.0 | /mnt/stockage/packages/f37/kubrick/po/gl/kubrick.po | 
+ | [it](/f37/language/it) | 1205 | 1205 | 100.0 | /mnt/stockage/packages/f37/kubrick/po/it/kubrick.po | 
+ | [ko](/f37/language/ko) | 1205 | 1205 | 100.0 | /mnt/stockage/packages/f37/kubrick/po/ko/kubrick.po | 
+ | [nl](/f37/language/nl) | 1205 | 1205 | 100.0 | /mnt/stockage/packages/f37/kubrick/po/nl/kubrick.po | 
+ | [nn](/f37/language/nn) | 1205 | 1205 | 100.0 | /mnt/stockage/packages/f37/kubrick/po/nn/kubrick.po | 
+ | [pl](/f37/language/pl) | 1205 | 1205 | 100.0 | /mnt/stockage/packages/f37/kubrick/po/pl/kubrick.po | 
+ | [pt](/f37/language/pt) | 1205 | 1205 | 100.0 | /mnt/stockage/packages/f37/kubrick/po/pt/kubrick.po | 
+ | [pt_BR](/f37/language/pt_BR) | 1205 | 1205 | 100.0 | /mnt/stockage/packages/f37/kubrick/po/pt_BR/kubrick.po | 
+ | [ru](/f37/language/ru) | 1205 | 1205 | 100.0 | /mnt/stockage/packages/f37/kubrick/po/ru/kubrick.po | 
+ | [sk](/f37/language/sk) | 1205 | 1205 | 100.0 | /mnt/stockage/packages/f37/kubrick/po/sk/kubrick.po | 
+ | [sl](/f37/language/sl) | 1205 | 1205 | 100.0 | /mnt/stockage/packages/f37/kubrick/po/sl/kubrick.po | 
+ | [sv](/f37/language/sv) | 1205 | 1205 | 100.0 | /mnt/stockage/packages/f37/kubrick/po/sv/kubrick.po | 
+ | [tr](/f37/language/tr) | 1205 | 1205 | 100.0 | /mnt/stockage/packages/f37/kubrick/po/tr/kubrick.po | 
+ | [uk](/f37/language/uk) | 1205 | 1205 | 100.0 | /mnt/stockage/packages/f37/kubrick/po/uk/kubrick.po | 
+ | [sr](/f37/language/sr) | 1203 | 1205 | 99.8 | /mnt/stockage/packages/f37/kubrick/po/sr/kubrick.po | 
+ | [sr@ijekavian](/f37/language/sr@ijekavian) | 1203 | 1205 | 99.8 | /mnt/stockage/packages/f37/kubrick/po/sr@ijekavian/kubrick.po | 
+ | [sr@ijekavian_Latn](/f37/language/sr@ijekavian_Latn) | 1203 | 1205 | 99.8 | /mnt/stockage/packages/f37/kubrick/po/sr@ijekavianlatin/kubrick.po | 
+ | [sr_Latn](/f37/language/sr_Latn) | 1203 | 1205 | 99.8 | /mnt/stockage/packages/f37/kubrick/po/sr@latin/kubrick.po | 
+ | [et](/f37/language/et) | 1202 | 1205 | 99.8 | /mnt/stockage/packages/f37/kubrick/po/et/kubrick.po | 
+ | [id](/f37/language/id) | 1202 | 1205 | 99.8 | /mnt/stockage/packages/f37/kubrick/po/id/kubrick.po | 
+ | [zh_Hant](/f37/language/zh_Hant) | 1202 | 1205 | 99.8 | /mnt/stockage/packages/f37/kubrick/po/zh_TW/kubrick.po | 
+ | [bs](/f37/language/bs) | 1183 | 1205 | 98.2 | /mnt/stockage/packages/f37/kubrick/po/bs/kubrick.po | 
+ | [hu](/f37/language/hu) | 1183 | 1205 | 98.2 | /mnt/stockage/packages/f37/kubrick/po/hu/kubrick.po | 
+ | [kk](/f37/language/kk) | 1183 | 1205 | 98.2 | /mnt/stockage/packages/f37/kubrick/po/kk/kubrick.po | 
+ | [km](/f37/language/km) | 1183 | 1205 | 98.2 | /mnt/stockage/packages/f37/kubrick/po/km/kubrick.po | 
+ | [nb_NO](/f37/language/nb_NO) | 1183 | 1205 | 98.2 | /mnt/stockage/packages/f37/kubrick/po/nb/kubrick.po | 
+ | [nds](/f37/language/nds) | 1183 | 1205 | 98.2 | /mnt/stockage/packages/f37/kubrick/po/nds/kubrick.po | 
+ | [lv](/f37/language/lv) | 1178 | 1205 | 97.8 | /mnt/stockage/packages/f37/kubrick/po/lv/kubrick.po | 
+ | [zh_Hans](/f37/language/zh_Hans) | 1117 | 1205 | 92.7 | /mnt/stockage/packages/f37/kubrick/po/zh_CN/kubrick.po | 
+ | [ja](/f37/language/ja) | 1069 | 1205 | 88.7 | /mnt/stockage/packages/f37/kubrick/po/ja/kubrick.po | 
+ | [ga](/f37/language/ga) | 369 | 1205 | 30.6 | /mnt/stockage/packages/f37/kubrick/po/ga/kubrick.po | 
+ | [ka](/f37/language/ka) | 302 | 1205 | 25.1 | /mnt/stockage/packages/f37/kubrick/po/ka/kubrick.po | 
+ | [ro](/f37/language/ro) | 179 | 1205 | 14.9 | /mnt/stockage/packages/f37/kubrick/po/ro/kubrick.po | 
+ | [eo](/f37/language/eo) | 32 | 1205 | 2.7 | /mnt/stockage/packages/f37/kubrick/po/eo/kubrick.po | 
+ | [ug](/f37/language/ug) | 26 | 1205 | 2.2 | /mnt/stockage/packages/f37/kubrick/po/ug/kubrick.po | 
+ | [mr](/f37/language/mr) | 21 | 1205 | 1.7 | /mnt/stockage/packages/f37/kubrick/po/mr/kubrick.po | 
+ | [mai](/f37/language/mai) | 18 | 1205 | 1.5 | /mnt/stockage/packages/f37/kubrick/po/mai/kubrick.po | 
+ | [lt](/f37/language/lt) | 10 | 1205 | 0.8 | /mnt/stockage/packages/f37/kubrick/po/lt/kubrick.po | 
+ | [hr](/f37/language/hr) | 4 | 1205 | 0.3 | /mnt/stockage/packages/f37/kubrick/po/hr/kubrick.po | 
+ | [ml](/f37/language/ml) | 2 | 1205 | 0.2 | /mnt/stockage/packages/f37/kubrick/po/ml/kubrick.po | 
+ | [bg](/f37/language/bg) | 0 | 1205 | 0.0 | /mnt/stockage/packages/f37/kubrick/po/bg/kubrick.po | 
+ | [is](/f37/language/is) | 0 | 1205 | 0.0 | /mnt/stockage/packages/f37/kubrick/po/is/kubrick.po | 
 {.sortable}
 
 

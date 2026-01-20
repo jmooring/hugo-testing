@@ -18,48 +18,48 @@ The package focuswriter (version 1.8.13):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [af]({{< ref "/f43/language/af.md" >}}) | 129 | 129 | 100.0 | /mnt/stockage/packages/f43/focuswriter/resources/unix/po/af_ZA.po | 
- | [bs]({{< ref "/f43/language/bs.md" >}}) | 129 | 129 | 100.0 | /mnt/stockage/packages/f43/focuswriter/resources/unix/po/bs.po | 
- | [ca]({{< ref "/f43/language/ca.md" >}}) | 129 | 129 | 100.0 | /mnt/stockage/packages/f43/focuswriter/resources/unix/po/ca.po | 
- | [cs]({{< ref "/f43/language/cs.md" >}}) | 129 | 129 | 100.0 | /mnt/stockage/packages/f43/focuswriter/resources/unix/po/cs.po | 
- | [da]({{< ref "/f43/language/da.md" >}}) | 129 | 129 | 100.0 | /mnt/stockage/packages/f43/focuswriter/resources/unix/po/da.po | 
- | [de]({{< ref "/f43/language/de.md" >}}) | 129 | 129 | 100.0 | /mnt/stockage/packages/f43/focuswriter/resources/unix/po/de.po | 
- | [el]({{< ref "/f43/language/el.md" >}}) | 129 | 129 | 100.0 | /mnt/stockage/packages/f43/focuswriter/resources/unix/po/el.po | 
- | [eo]({{< ref "/f43/language/eo.md" >}}) | 129 | 129 | 100.0 | /mnt/stockage/packages/f43/focuswriter/resources/unix/po/eo.po | 
- | [es]({{< ref "/f43/language/es.md" >}}) | 129 | 129 | 100.0 | /mnt/stockage/packages/f43/focuswriter/resources/unix/po/es.po | 
- | [es_MX]({{< ref "/f43/language/es_MX.md" >}}) | 129 | 129 | 100.0 | /mnt/stockage/packages/f43/focuswriter/resources/unix/po/es_MX.po | 
- | [et]({{< ref "/f43/language/et.md" >}}) | 129 | 129 | 100.0 | /mnt/stockage/packages/f43/focuswriter/resources/unix/po/et.po | 
- | [fi]({{< ref "/f43/language/fi.md" >}}) | 129 | 129 | 100.0 | /mnt/stockage/packages/f43/focuswriter/resources/unix/po/fi.po | 
- | [fr]({{< ref "/f43/language/fr.md" >}}) | 129 | 129 | 100.0 | /mnt/stockage/packages/f43/focuswriter/resources/unix/po/fr.po | 
- | [fur]({{< ref "/f43/language/fur.md" >}}) | 129 | 129 | 100.0 | /mnt/stockage/packages/f43/focuswriter/resources/unix/po/fur.po | 
- | [he]({{< ref "/f43/language/he.md" >}}) | 129 | 129 | 100.0 | /mnt/stockage/packages/f43/focuswriter/resources/unix/po/he.po | 
- | [hu]({{< ref "/f43/language/hu.md" >}}) | 129 | 129 | 100.0 | /mnt/stockage/packages/f43/focuswriter/resources/unix/po/hu.po | 
- | [hy]({{< ref "/f43/language/hy.md" >}}) | 129 | 129 | 100.0 | /mnt/stockage/packages/f43/focuswriter/resources/unix/po/hy.po | 
- | [id]({{< ref "/f43/language/id.md" >}}) | 129 | 129 | 100.0 | /mnt/stockage/packages/f43/focuswriter/resources/unix/po/id.po | 
- | [it]({{< ref "/f43/language/it.md" >}}) | 129 | 129 | 100.0 | /mnt/stockage/packages/f43/focuswriter/resources/unix/po/it.po | 
- | [ja]({{< ref "/f43/language/ja.md" >}}) | 129 | 129 | 100.0 | /mnt/stockage/packages/f43/focuswriter/resources/unix/po/ja.po | 
- | [ko]({{< ref "/f43/language/ko.md" >}}) | 129 | 129 | 100.0 | /mnt/stockage/packages/f43/focuswriter/resources/unix/po/ko.po | 
- | [lt]({{< ref "/f43/language/lt.md" >}}) | 129 | 129 | 100.0 | /mnt/stockage/packages/f43/focuswriter/resources/unix/po/lt.po | 
- | [nb_NO]({{< ref "/f43/language/nb_NO.md" >}}) | 258 | 258 | 100.0 | /mnt/stockage/packages/f43/focuswriter/resources/unix/po/nb_NO.po/mnt/stockage/packages/f43/focuswriter/resources/unix/po/nb.po | 
- | [nl]({{< ref "/f43/language/nl.md" >}}) | 129 | 129 | 100.0 | /mnt/stockage/packages/f43/focuswriter/resources/unix/po/nl.po | 
- | [pl]({{< ref "/f43/language/pl.md" >}}) | 129 | 129 | 100.0 | /mnt/stockage/packages/f43/focuswriter/resources/unix/po/pl.po | 
- | [pt]({{< ref "/f43/language/pt.md" >}}) | 129 | 129 | 100.0 | /mnt/stockage/packages/f43/focuswriter/resources/unix/po/pt.po | 
- | [pt_BR]({{< ref "/f43/language/pt_BR.md" >}}) | 129 | 129 | 100.0 | /mnt/stockage/packages/f43/focuswriter/resources/unix/po/pt_BR.po | 
- | [ro]({{< ref "/f43/language/ro.md" >}}) | 129 | 129 | 100.0 | /mnt/stockage/packages/f43/focuswriter/resources/unix/po/ro.po | 
- | [ru]({{< ref "/f43/language/ru.md" >}}) | 129 | 129 | 100.0 | /mnt/stockage/packages/f43/focuswriter/resources/unix/po/ru.po | 
- | [sk]({{< ref "/f43/language/sk.md" >}}) | 129 | 129 | 100.0 | /mnt/stockage/packages/f43/focuswriter/resources/unix/po/sk.po | 
- | [sl]({{< ref "/f43/language/sl.md" >}}) | 129 | 129 | 100.0 | /mnt/stockage/packages/f43/focuswriter/resources/unix/po/sl.po | 
- | [sr]({{< ref "/f43/language/sr.md" >}}) | 129 | 129 | 100.0 | /mnt/stockage/packages/f43/focuswriter/resources/unix/po/sr.po | 
- | [sv]({{< ref "/f43/language/sv.md" >}}) | 129 | 129 | 100.0 | /mnt/stockage/packages/f43/focuswriter/resources/unix/po/sv.po | 
- | [tr]({{< ref "/f43/language/tr.md" >}}) | 129 | 129 | 100.0 | /mnt/stockage/packages/f43/focuswriter/resources/unix/po/tr.po | 
- | [uk]({{< ref "/f43/language/uk.md" >}}) | 129 | 129 | 100.0 | /mnt/stockage/packages/f43/focuswriter/resources/unix/po/uk.po | 
- | [zh_Hans]({{< ref "/f43/language/zh_Hans.md" >}}) | 129 | 129 | 100.0 | /mnt/stockage/packages/f43/focuswriter/resources/unix/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f43/language/zh_Hant.md" >}}) | 129 | 129 | 100.0 | /mnt/stockage/packages/f43/focuswriter/resources/unix/po/zh_TW.po | 
- | [gl]({{< ref "/f43/language/gl.md" >}}) | 10 | 129 | 7.8 | /mnt/stockage/packages/f43/focuswriter/resources/unix/po/gl.po | 
- | [mr]({{< ref "/f43/language/mr.md" >}}) | 10 | 129 | 7.8 | /mnt/stockage/packages/f43/focuswriter/resources/unix/po/mr.po | 
- | [en_GB]({{< ref "/f43/language/en_GB.md" >}}) | 7 | 129 | 5.4 | /mnt/stockage/packages/f43/focuswriter/resources/unix/po/en_GB.po | 
- | [vi]({{< ref "/f43/language/vi.md" >}}) | 7 | 129 | 5.4 | /mnt/stockage/packages/f43/focuswriter/resources/unix/po/vi.po | 
- | [ig]({{< ref "/f43/language/ig.md" >}}) | 1 | 129 | 0.8 | /mnt/stockage/packages/f43/focuswriter/resources/unix/po/ig.po | 
+ | [af](/f43/language/af) | 129 | 129 | 100.0 | /mnt/stockage/packages/f43/focuswriter/resources/unix/po/af_ZA.po | 
+ | [bs](/f43/language/bs) | 129 | 129 | 100.0 | /mnt/stockage/packages/f43/focuswriter/resources/unix/po/bs.po | 
+ | [ca](/f43/language/ca) | 129 | 129 | 100.0 | /mnt/stockage/packages/f43/focuswriter/resources/unix/po/ca.po | 
+ | [cs](/f43/language/cs) | 129 | 129 | 100.0 | /mnt/stockage/packages/f43/focuswriter/resources/unix/po/cs.po | 
+ | [da](/f43/language/da) | 129 | 129 | 100.0 | /mnt/stockage/packages/f43/focuswriter/resources/unix/po/da.po | 
+ | [de](/f43/language/de) | 129 | 129 | 100.0 | /mnt/stockage/packages/f43/focuswriter/resources/unix/po/de.po | 
+ | [el](/f43/language/el) | 129 | 129 | 100.0 | /mnt/stockage/packages/f43/focuswriter/resources/unix/po/el.po | 
+ | [eo](/f43/language/eo) | 129 | 129 | 100.0 | /mnt/stockage/packages/f43/focuswriter/resources/unix/po/eo.po | 
+ | [es](/f43/language/es) | 129 | 129 | 100.0 | /mnt/stockage/packages/f43/focuswriter/resources/unix/po/es.po | 
+ | [es_MX](/f43/language/es_MX) | 129 | 129 | 100.0 | /mnt/stockage/packages/f43/focuswriter/resources/unix/po/es_MX.po | 
+ | [et](/f43/language/et) | 129 | 129 | 100.0 | /mnt/stockage/packages/f43/focuswriter/resources/unix/po/et.po | 
+ | [fi](/f43/language/fi) | 129 | 129 | 100.0 | /mnt/stockage/packages/f43/focuswriter/resources/unix/po/fi.po | 
+ | [fr](/f43/language/fr) | 129 | 129 | 100.0 | /mnt/stockage/packages/f43/focuswriter/resources/unix/po/fr.po | 
+ | [fur](/f43/language/fur) | 129 | 129 | 100.0 | /mnt/stockage/packages/f43/focuswriter/resources/unix/po/fur.po | 
+ | [he](/f43/language/he) | 129 | 129 | 100.0 | /mnt/stockage/packages/f43/focuswriter/resources/unix/po/he.po | 
+ | [hu](/f43/language/hu) | 129 | 129 | 100.0 | /mnt/stockage/packages/f43/focuswriter/resources/unix/po/hu.po | 
+ | [hy](/f43/language/hy) | 129 | 129 | 100.0 | /mnt/stockage/packages/f43/focuswriter/resources/unix/po/hy.po | 
+ | [id](/f43/language/id) | 129 | 129 | 100.0 | /mnt/stockage/packages/f43/focuswriter/resources/unix/po/id.po | 
+ | [it](/f43/language/it) | 129 | 129 | 100.0 | /mnt/stockage/packages/f43/focuswriter/resources/unix/po/it.po | 
+ | [ja](/f43/language/ja) | 129 | 129 | 100.0 | /mnt/stockage/packages/f43/focuswriter/resources/unix/po/ja.po | 
+ | [ko](/f43/language/ko) | 129 | 129 | 100.0 | /mnt/stockage/packages/f43/focuswriter/resources/unix/po/ko.po | 
+ | [lt](/f43/language/lt) | 129 | 129 | 100.0 | /mnt/stockage/packages/f43/focuswriter/resources/unix/po/lt.po | 
+ | [nb_NO](/f43/language/nb_NO) | 258 | 258 | 100.0 | /mnt/stockage/packages/f43/focuswriter/resources/unix/po/nb_NO.po/mnt/stockage/packages/f43/focuswriter/resources/unix/po/nb.po | 
+ | [nl](/f43/language/nl) | 129 | 129 | 100.0 | /mnt/stockage/packages/f43/focuswriter/resources/unix/po/nl.po | 
+ | [pl](/f43/language/pl) | 129 | 129 | 100.0 | /mnt/stockage/packages/f43/focuswriter/resources/unix/po/pl.po | 
+ | [pt](/f43/language/pt) | 129 | 129 | 100.0 | /mnt/stockage/packages/f43/focuswriter/resources/unix/po/pt.po | 
+ | [pt_BR](/f43/language/pt_BR) | 129 | 129 | 100.0 | /mnt/stockage/packages/f43/focuswriter/resources/unix/po/pt_BR.po | 
+ | [ro](/f43/language/ro) | 129 | 129 | 100.0 | /mnt/stockage/packages/f43/focuswriter/resources/unix/po/ro.po | 
+ | [ru](/f43/language/ru) | 129 | 129 | 100.0 | /mnt/stockage/packages/f43/focuswriter/resources/unix/po/ru.po | 
+ | [sk](/f43/language/sk) | 129 | 129 | 100.0 | /mnt/stockage/packages/f43/focuswriter/resources/unix/po/sk.po | 
+ | [sl](/f43/language/sl) | 129 | 129 | 100.0 | /mnt/stockage/packages/f43/focuswriter/resources/unix/po/sl.po | 
+ | [sr](/f43/language/sr) | 129 | 129 | 100.0 | /mnt/stockage/packages/f43/focuswriter/resources/unix/po/sr.po | 
+ | [sv](/f43/language/sv) | 129 | 129 | 100.0 | /mnt/stockage/packages/f43/focuswriter/resources/unix/po/sv.po | 
+ | [tr](/f43/language/tr) | 129 | 129 | 100.0 | /mnt/stockage/packages/f43/focuswriter/resources/unix/po/tr.po | 
+ | [uk](/f43/language/uk) | 129 | 129 | 100.0 | /mnt/stockage/packages/f43/focuswriter/resources/unix/po/uk.po | 
+ | [zh_Hans](/f43/language/zh_Hans) | 129 | 129 | 100.0 | /mnt/stockage/packages/f43/focuswriter/resources/unix/po/zh_CN.po | 
+ | [zh_Hant](/f43/language/zh_Hant) | 129 | 129 | 100.0 | /mnt/stockage/packages/f43/focuswriter/resources/unix/po/zh_TW.po | 
+ | [gl](/f43/language/gl) | 10 | 129 | 7.8 | /mnt/stockage/packages/f43/focuswriter/resources/unix/po/gl.po | 
+ | [mr](/f43/language/mr) | 10 | 129 | 7.8 | /mnt/stockage/packages/f43/focuswriter/resources/unix/po/mr.po | 
+ | [en_GB](/f43/language/en_GB) | 7 | 129 | 5.4 | /mnt/stockage/packages/f43/focuswriter/resources/unix/po/en_GB.po | 
+ | [vi](/f43/language/vi) | 7 | 129 | 5.4 | /mnt/stockage/packages/f43/focuswriter/resources/unix/po/vi.po | 
+ | [ig](/f43/language/ig) | 1 | 129 | 0.8 | /mnt/stockage/packages/f43/focuswriter/resources/unix/po/ig.po | 
 {.sortable}
 
 

@@ -18,15 +18,15 @@ The package poweradmin (version 2.1.6):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f17/language/de.md" >}}) | 1922 | 1922 | 100.0 | /mnt/stockage/packages/f17/poweradmin/locale/de_DE/LC_MESSAGES/de.po | 
- | [en]({{< ref "/f17/language/en.md" >}}) | 1883 | 1883 | 100.0 | /mnt/stockage/packages/f17/poweradmin/locale/en_EN/LC_MESSAGES/en.po | 
- | [fr]({{< ref "/f17/language/fr.md" >}}) | 1390 | 1390 | 100.0 | /mnt/stockage/packages/f17/poweradmin/locale/fr_FR/LC_MESSAGES/fr.po/mnt/stockage/packages/f17/poweradmin/locale/fr_FR/LC_MESSAGES/fr_db.po | 
- | [ja]({{< ref "/f17/language/ja.md" >}}) | 1939 | 1939 | 100.0 | /mnt/stockage/packages/f17/poweradmin/locale/ja_JP/LC_MESSAGES/ja.po | 
- | [pl]({{< ref "/f17/language/pl.md" >}}) | 1378 | 1378 | 100.0 | /mnt/stockage/packages/f17/poweradmin/locale/pl_PL/LC_MESSAGES/pl.po | 
- | [ru]({{< ref "/f17/language/ru.md" >}}) | 2110 | 2110 | 100.0 | /mnt/stockage/packages/f17/poweradmin/locale/ru_RU/LC_MESSAGES/ru.po/mnt/stockage/packages/f17/poweradmin/locale/ru_RU/LC_MESSAGES/ru_db.po | 
- | [zh_Hans]({{< ref "/f17/language/zh_Hans.md" >}}) | 871 | 871 | 100.0 | /mnt/stockage/packages/f17/poweradmin/locale/zh_CN/LC_MESSAGES/zh.po | 
- | [nl]({{< ref "/f17/language/nl.md" >}}) | 1836 | 2093 | 87.7 | /mnt/stockage/packages/f17/poweradmin/locale/nl_NL/LC_MESSAGES/nl.po/mnt/stockage/packages/f17/poweradmin/locale/nl_NL/LC_MESSAGES/nl_db.po | 
- | [cs]({{< ref "/f17/language/cs.md" >}}) | 309 | 2093 | 14.8 | /mnt/stockage/packages/f17/poweradmin/locale/cs_CZ/LC_MESSAGES/cs.po/mnt/stockage/packages/f17/poweradmin/locale/cs_CZ/LC_MESSAGES/cs_db.po | 
+ | [de](/f17/language/de) | 1922 | 1922 | 100.0 | /mnt/stockage/packages/f17/poweradmin/locale/de_DE/LC_MESSAGES/de.po | 
+ | [en](/f17/language/en) | 1883 | 1883 | 100.0 | /mnt/stockage/packages/f17/poweradmin/locale/en_EN/LC_MESSAGES/en.po | 
+ | [fr](/f17/language/fr) | 1390 | 1390 | 100.0 | /mnt/stockage/packages/f17/poweradmin/locale/fr_FR/LC_MESSAGES/fr.po/mnt/stockage/packages/f17/poweradmin/locale/fr_FR/LC_MESSAGES/fr_db.po | 
+ | [ja](/f17/language/ja) | 1939 | 1939 | 100.0 | /mnt/stockage/packages/f17/poweradmin/locale/ja_JP/LC_MESSAGES/ja.po | 
+ | [pl](/f17/language/pl) | 1378 | 1378 | 100.0 | /mnt/stockage/packages/f17/poweradmin/locale/pl_PL/LC_MESSAGES/pl.po | 
+ | [ru](/f17/language/ru) | 2110 | 2110 | 100.0 | /mnt/stockage/packages/f17/poweradmin/locale/ru_RU/LC_MESSAGES/ru.po/mnt/stockage/packages/f17/poweradmin/locale/ru_RU/LC_MESSAGES/ru_db.po | 
+ | [zh_Hans](/f17/language/zh_Hans) | 871 | 871 | 100.0 | /mnt/stockage/packages/f17/poweradmin/locale/zh_CN/LC_MESSAGES/zh.po | 
+ | [nl](/f17/language/nl) | 1836 | 2093 | 87.7 | /mnt/stockage/packages/f17/poweradmin/locale/nl_NL/LC_MESSAGES/nl.po/mnt/stockage/packages/f17/poweradmin/locale/nl_NL/LC_MESSAGES/nl_db.po | 
+ | [cs](/f17/language/cs) | 309 | 2093 | 14.8 | /mnt/stockage/packages/f17/poweradmin/locale/cs_CZ/LC_MESSAGES/cs.po/mnt/stockage/packages/f17/poweradmin/locale/cs_CZ/LC_MESSAGES/cs_db.po | 
 {.sortable}
 
 

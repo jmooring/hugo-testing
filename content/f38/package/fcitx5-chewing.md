@@ -18,16 +18,16 @@ The package fcitx5-chewing (version 5.1.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ru]({{< ref "/f38/language/ru.md" >}}) | 79 | 79 | 100.0 | /mnt/stockage/packages/f38/fcitx5-chewing/po/ru.po | 
- | [zh_Hans]({{< ref "/f38/language/zh_Hans.md" >}}) | 79 | 79 | 100.0 | /mnt/stockage/packages/f38/fcitx5-chewing/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f38/language/zh_Hant.md" >}}) | 79 | 79 | 100.0 | /mnt/stockage/packages/f38/fcitx5-chewing/po/zh_TW.po | 
- | [ja]({{< ref "/f38/language/ja.md" >}}) | 76 | 79 | 96.2 | /mnt/stockage/packages/f38/fcitx5-chewing/po/ja.po | 
- | [ko]({{< ref "/f38/language/ko.md" >}}) | 76 | 79 | 96.2 | /mnt/stockage/packages/f38/fcitx5-chewing/po/ko.po | 
- | [da]({{< ref "/f38/language/da.md" >}}) | 67 | 79 | 84.8 | /mnt/stockage/packages/f38/fcitx5-chewing/po/da.po | 
- | [tr]({{< ref "/f38/language/tr.md" >}}) | 67 | 79 | 84.8 | /mnt/stockage/packages/f38/fcitx5-chewing/po/tr.po | 
- | [de]({{< ref "/f38/language/de.md" >}}) | 61 | 79 | 77.2 | /mnt/stockage/packages/f38/fcitx5-chewing/po/de.po | 
- | [ca]({{< ref "/f38/language/ca.md" >}}) | 55 | 79 | 69.6 | /mnt/stockage/packages/f38/fcitx5-chewing/po/ca.po | 
- | [he]({{< ref "/f38/language/he.md" >}}) | 6 | 79 | 7.6 | /mnt/stockage/packages/f38/fcitx5-chewing/po/he.po | 
+ | [ru](/f38/language/ru) | 79 | 79 | 100.0 | /mnt/stockage/packages/f38/fcitx5-chewing/po/ru.po | 
+ | [zh_Hans](/f38/language/zh_Hans) | 79 | 79 | 100.0 | /mnt/stockage/packages/f38/fcitx5-chewing/po/zh_CN.po | 
+ | [zh_Hant](/f38/language/zh_Hant) | 79 | 79 | 100.0 | /mnt/stockage/packages/f38/fcitx5-chewing/po/zh_TW.po | 
+ | [ja](/f38/language/ja) | 76 | 79 | 96.2 | /mnt/stockage/packages/f38/fcitx5-chewing/po/ja.po | 
+ | [ko](/f38/language/ko) | 76 | 79 | 96.2 | /mnt/stockage/packages/f38/fcitx5-chewing/po/ko.po | 
+ | [da](/f38/language/da) | 67 | 79 | 84.8 | /mnt/stockage/packages/f38/fcitx5-chewing/po/da.po | 
+ | [tr](/f38/language/tr) | 67 | 79 | 84.8 | /mnt/stockage/packages/f38/fcitx5-chewing/po/tr.po | 
+ | [de](/f38/language/de) | 61 | 79 | 77.2 | /mnt/stockage/packages/f38/fcitx5-chewing/po/de.po | 
+ | [ca](/f38/language/ca) | 55 | 79 | 69.6 | /mnt/stockage/packages/f38/fcitx5-chewing/po/ca.po | 
+ | [he](/f38/language/he) | 6 | 79 | 7.6 | /mnt/stockage/packages/f38/fcitx5-chewing/po/he.po | 
 {.sortable}
 
 

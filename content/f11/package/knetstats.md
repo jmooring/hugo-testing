@@ -18,28 +18,28 @@ The package knetstats (version 1.6.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [bg]({{< ref "/f11/language/bg.md" >}}) | 118 | 118 | 100.0 | /mnt/stockage/packages/f11/knetstats/translations/bg/messages/knetstats.po | 
- | [cs]({{< ref "/f11/language/cs.md" >}}) | 118 | 118 | 100.0 | /mnt/stockage/packages/f11/knetstats/translations/cs/messages/knetstats.po | 
- | [da]({{< ref "/f11/language/da.md" >}}) | 118 | 118 | 100.0 | /mnt/stockage/packages/f11/knetstats/translations/da/messages/knetstats.po | 
- | [de]({{< ref "/f11/language/de.md" >}}) | 118 | 118 | 100.0 | /mnt/stockage/packages/f11/knetstats/translations/de/messages/knetstats.po | 
- | [el]({{< ref "/f11/language/el.md" >}}) | 118 | 118 | 100.0 | /mnt/stockage/packages/f11/knetstats/translations/el/messages/knetstats.po | 
- | [es]({{< ref "/f11/language/es.md" >}}) | 118 | 118 | 100.0 | /mnt/stockage/packages/f11/knetstats/translations/es/messages/knetstats.po | 
- | [et]({{< ref "/f11/language/et.md" >}}) | 118 | 118 | 100.0 | /mnt/stockage/packages/f11/knetstats/translations/et/messages/knetstats.po | 
- | [fr]({{< ref "/f11/language/fr.md" >}}) | 118 | 118 | 100.0 | /mnt/stockage/packages/f11/knetstats/translations/fr/messages/knetstats.po | 
- | [ga]({{< ref "/f11/language/ga.md" >}}) | 118 | 118 | 100.0 | /mnt/stockage/packages/f11/knetstats/translations/ga/messages/knetstats.po | 
- | [gl]({{< ref "/f11/language/gl.md" >}}) | 118 | 118 | 100.0 | /mnt/stockage/packages/f11/knetstats/translations/gl/messages/knetstats.po | 
- | [it]({{< ref "/f11/language/it.md" >}}) | 118 | 118 | 100.0 | /mnt/stockage/packages/f11/knetstats/translations/it/messages/knetstats.po | 
- | [ja]({{< ref "/f11/language/ja.md" >}}) | 118 | 118 | 100.0 | /mnt/stockage/packages/f11/knetstats/translations/ja/messages/knetstats.po | 
- | [nl]({{< ref "/f11/language/nl.md" >}}) | 118 | 118 | 100.0 | /mnt/stockage/packages/f11/knetstats/translations/nl/messages/knetstats.po | 
- | [pl]({{< ref "/f11/language/pl.md" >}}) | 118 | 118 | 100.0 | /mnt/stockage/packages/f11/knetstats/translations/pl/messages/knetstats.po | 
- | [pt]({{< ref "/f11/language/pt.md" >}}) | 118 | 118 | 100.0 | /mnt/stockage/packages/f11/knetstats/translations/pt/messages/knetstats.po | 
- | [pt_BR]({{< ref "/f11/language/pt_BR.md" >}}) | 118 | 118 | 100.0 | /mnt/stockage/packages/f11/knetstats/translations/pt_BR/messages/knetstats.po | 
- | [ru]({{< ref "/f11/language/ru.md" >}}) | 99 | 99 | 100.0 | /mnt/stockage/packages/f11/knetstats/translations/ru/messages/knetstats.po | 
- | [sv]({{< ref "/f11/language/sv.md" >}}) | 118 | 118 | 100.0 | /mnt/stockage/packages/f11/knetstats/translations/sv/messages/knetstats.po | 
- | [tr]({{< ref "/f11/language/tr.md" >}}) | 108 | 118 | 91.5 | /mnt/stockage/packages/f11/knetstats/translations/tr/messages/knetstats.po | 
- | [br]({{< ref "/f11/language/br.md" >}}) | 61 | 118 | 51.7 | /mnt/stockage/packages/f11/knetstats/translations/br/messages/knetstats.po | 
- | [ka]({{< ref "/f11/language/ka.md" >}}) | 52 | 118 | 44.1 | /mnt/stockage/packages/f11/knetstats/translations/ka/messages/knetstats.po | 
- | [sk]({{< ref "/f11/language/sk.md" >}}) | 0 | 118 | 0.0 | /mnt/stockage/packages/f11/knetstats/translations/sk/messages/knetstats.po | 
+ | [bg](/f11/language/bg) | 118 | 118 | 100.0 | /mnt/stockage/packages/f11/knetstats/translations/bg/messages/knetstats.po | 
+ | [cs](/f11/language/cs) | 118 | 118 | 100.0 | /mnt/stockage/packages/f11/knetstats/translations/cs/messages/knetstats.po | 
+ | [da](/f11/language/da) | 118 | 118 | 100.0 | /mnt/stockage/packages/f11/knetstats/translations/da/messages/knetstats.po | 
+ | [de](/f11/language/de) | 118 | 118 | 100.0 | /mnt/stockage/packages/f11/knetstats/translations/de/messages/knetstats.po | 
+ | [el](/f11/language/el) | 118 | 118 | 100.0 | /mnt/stockage/packages/f11/knetstats/translations/el/messages/knetstats.po | 
+ | [es](/f11/language/es) | 118 | 118 | 100.0 | /mnt/stockage/packages/f11/knetstats/translations/es/messages/knetstats.po | 
+ | [et](/f11/language/et) | 118 | 118 | 100.0 | /mnt/stockage/packages/f11/knetstats/translations/et/messages/knetstats.po | 
+ | [fr](/f11/language/fr) | 118 | 118 | 100.0 | /mnt/stockage/packages/f11/knetstats/translations/fr/messages/knetstats.po | 
+ | [ga](/f11/language/ga) | 118 | 118 | 100.0 | /mnt/stockage/packages/f11/knetstats/translations/ga/messages/knetstats.po | 
+ | [gl](/f11/language/gl) | 118 | 118 | 100.0 | /mnt/stockage/packages/f11/knetstats/translations/gl/messages/knetstats.po | 
+ | [it](/f11/language/it) | 118 | 118 | 100.0 | /mnt/stockage/packages/f11/knetstats/translations/it/messages/knetstats.po | 
+ | [ja](/f11/language/ja) | 118 | 118 | 100.0 | /mnt/stockage/packages/f11/knetstats/translations/ja/messages/knetstats.po | 
+ | [nl](/f11/language/nl) | 118 | 118 | 100.0 | /mnt/stockage/packages/f11/knetstats/translations/nl/messages/knetstats.po | 
+ | [pl](/f11/language/pl) | 118 | 118 | 100.0 | /mnt/stockage/packages/f11/knetstats/translations/pl/messages/knetstats.po | 
+ | [pt](/f11/language/pt) | 118 | 118 | 100.0 | /mnt/stockage/packages/f11/knetstats/translations/pt/messages/knetstats.po | 
+ | [pt_BR](/f11/language/pt_BR) | 118 | 118 | 100.0 | /mnt/stockage/packages/f11/knetstats/translations/pt_BR/messages/knetstats.po | 
+ | [ru](/f11/language/ru) | 99 | 99 | 100.0 | /mnt/stockage/packages/f11/knetstats/translations/ru/messages/knetstats.po | 
+ | [sv](/f11/language/sv) | 118 | 118 | 100.0 | /mnt/stockage/packages/f11/knetstats/translations/sv/messages/knetstats.po | 
+ | [tr](/f11/language/tr) | 108 | 118 | 91.5 | /mnt/stockage/packages/f11/knetstats/translations/tr/messages/knetstats.po | 
+ | [br](/f11/language/br) | 61 | 118 | 51.7 | /mnt/stockage/packages/f11/knetstats/translations/br/messages/knetstats.po | 
+ | [ka](/f11/language/ka) | 52 | 118 | 44.1 | /mnt/stockage/packages/f11/knetstats/translations/ka/messages/knetstats.po | 
+ | [sk](/f11/language/sk) | 0 | 118 | 0.0 | /mnt/stockage/packages/f11/knetstats/translations/sk/messages/knetstats.po | 
 {.sortable}
 
 

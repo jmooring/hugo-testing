@@ -18,30 +18,30 @@ The package gamehub (version 0.16.0.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fi]({{< ref "/f31/language/fi.md" >}}) | 1115 | 1115 | 100.0 | /mnt/stockage/packages/f31/gamehub/po/fi.po | 
- | [fr]({{< ref "/f31/language/fr.md" >}}) | 1115 | 1115 | 100.0 | /mnt/stockage/packages/f31/gamehub/po/fr.po | 
- | [id]({{< ref "/f31/language/id.md" >}}) | 1115 | 1115 | 100.0 | /mnt/stockage/packages/f31/gamehub/po/id.po | 
- | [nl]({{< ref "/f31/language/nl.md" >}}) | 1115 | 1115 | 100.0 | /mnt/stockage/packages/f31/gamehub/po/nl.po | 
- | [pt_BR]({{< ref "/f31/language/pt_BR.md" >}}) | 1115 | 1115 | 100.0 | /mnt/stockage/packages/f31/gamehub/po/pt_BR.po | 
- | [tr]({{< ref "/f31/language/tr.md" >}}) | 1115 | 1115 | 100.0 | /mnt/stockage/packages/f31/gamehub/po/tr.po | 
- | [ru]({{< ref "/f31/language/ru.md" >}}) | 1113 | 1115 | 99.8 | /mnt/stockage/packages/f31/gamehub/po/ru.po | 
- | [zh_Hans]({{< ref "/f31/language/zh_Hans.md" >}}) | 1107 | 1115 | 99.3 | /mnt/stockage/packages/f31/gamehub/po/zh_CN.po | 
- | [ca]({{< ref "/f31/language/ca.md" >}}) | 1086 | 1115 | 97.4 | /mnt/stockage/packages/f31/gamehub/po/ca.po | 
- | [nb_NO]({{< ref "/f31/language/nb_NO.md" >}}) | 1047 | 1115 | 93.9 | /mnt/stockage/packages/f31/gamehub/po/nb_NO.po | 
- | [it]({{< ref "/f31/language/it.md" >}}) | 1041 | 1115 | 93.4 | /mnt/stockage/packages/f31/gamehub/po/it.po | 
- | [de]({{< ref "/f31/language/de.md" >}}) | 883 | 1115 | 79.2 | /mnt/stockage/packages/f31/gamehub/po/de.po | 
- | [es_MX]({{< ref "/f31/language/es_MX.md" >}}) | 652 | 1115 | 58.5 | /mnt/stockage/packages/f31/gamehub/po/es_MX.po | 
- | [pl]({{< ref "/f31/language/pl.md" >}}) | 593 | 1115 | 53.2 | /mnt/stockage/packages/f31/gamehub/po/pl.po | 
- | [pt_PT]({{< ref "/f31/language/pt_PT.md" >}}) | 583 | 1115 | 52.3 | /mnt/stockage/packages/f31/gamehub/po/pt_PT.po | 
- | [ar]({{< ref "/f31/language/ar.md" >}}) | 472 | 1115 | 42.3 | /mnt/stockage/packages/f31/gamehub/po/ar.po | 
- | [zh_Hant]({{< ref "/f31/language/zh_Hant.md" >}}) | 312 | 1115 | 28.0 | /mnt/stockage/packages/f31/gamehub/po/zh_TW.po | 
- | [zh_Hant_HK]({{< ref "/f31/language/zh_Hant_HK.md" >}}) | 312 | 1115 | 28.0 | /mnt/stockage/packages/f31/gamehub/po/zh_HK.po | 
- | [fa]({{< ref "/f31/language/fa.md" >}}) | 114 | 1115 | 10.2 | /mnt/stockage/packages/f31/gamehub/po/fa.po | 
- | [mr]({{< ref "/f31/language/mr.md" >}}) | 12 | 1115 | 1.1 | /mnt/stockage/packages/f31/gamehub/po/mr.po | 
- | [te]({{< ref "/f31/language/te.md" >}}) | 2 | 1115 | 0.2 | /mnt/stockage/packages/f31/gamehub/po/te.po | 
- | [el]({{< ref "/f31/language/el.md" >}}) | 0 | 1115 | 0.0 | /mnt/stockage/packages/f31/gamehub/po/el.po | 
- | [hi]({{< ref "/f31/language/hi.md" >}}) | 0 | 1115 | 0.0 | /mnt/stockage/packages/f31/gamehub/po/hi.po | 
- | [ko]({{< ref "/f31/language/ko.md" >}}) | 0 | 1115 | 0.0 | /mnt/stockage/packages/f31/gamehub/po/ko.po | 
+ | [fi](/f31/language/fi) | 1115 | 1115 | 100.0 | /mnt/stockage/packages/f31/gamehub/po/fi.po | 
+ | [fr](/f31/language/fr) | 1115 | 1115 | 100.0 | /mnt/stockage/packages/f31/gamehub/po/fr.po | 
+ | [id](/f31/language/id) | 1115 | 1115 | 100.0 | /mnt/stockage/packages/f31/gamehub/po/id.po | 
+ | [nl](/f31/language/nl) | 1115 | 1115 | 100.0 | /mnt/stockage/packages/f31/gamehub/po/nl.po | 
+ | [pt_BR](/f31/language/pt_BR) | 1115 | 1115 | 100.0 | /mnt/stockage/packages/f31/gamehub/po/pt_BR.po | 
+ | [tr](/f31/language/tr) | 1115 | 1115 | 100.0 | /mnt/stockage/packages/f31/gamehub/po/tr.po | 
+ | [ru](/f31/language/ru) | 1113 | 1115 | 99.8 | /mnt/stockage/packages/f31/gamehub/po/ru.po | 
+ | [zh_Hans](/f31/language/zh_Hans) | 1107 | 1115 | 99.3 | /mnt/stockage/packages/f31/gamehub/po/zh_CN.po | 
+ | [ca](/f31/language/ca) | 1086 | 1115 | 97.4 | /mnt/stockage/packages/f31/gamehub/po/ca.po | 
+ | [nb_NO](/f31/language/nb_NO) | 1047 | 1115 | 93.9 | /mnt/stockage/packages/f31/gamehub/po/nb_NO.po | 
+ | [it](/f31/language/it) | 1041 | 1115 | 93.4 | /mnt/stockage/packages/f31/gamehub/po/it.po | 
+ | [de](/f31/language/de) | 883 | 1115 | 79.2 | /mnt/stockage/packages/f31/gamehub/po/de.po | 
+ | [es_MX](/f31/language/es_MX) | 652 | 1115 | 58.5 | /mnt/stockage/packages/f31/gamehub/po/es_MX.po | 
+ | [pl](/f31/language/pl) | 593 | 1115 | 53.2 | /mnt/stockage/packages/f31/gamehub/po/pl.po | 
+ | [pt_PT](/f31/language/pt_PT) | 583 | 1115 | 52.3 | /mnt/stockage/packages/f31/gamehub/po/pt_PT.po | 
+ | [ar](/f31/language/ar) | 472 | 1115 | 42.3 | /mnt/stockage/packages/f31/gamehub/po/ar.po | 
+ | [zh_Hant](/f31/language/zh_Hant) | 312 | 1115 | 28.0 | /mnt/stockage/packages/f31/gamehub/po/zh_TW.po | 
+ | [zh_Hant_HK](/f31/language/zh_Hant_HK) | 312 | 1115 | 28.0 | /mnt/stockage/packages/f31/gamehub/po/zh_HK.po | 
+ | [fa](/f31/language/fa) | 114 | 1115 | 10.2 | /mnt/stockage/packages/f31/gamehub/po/fa.po | 
+ | [mr](/f31/language/mr) | 12 | 1115 | 1.1 | /mnt/stockage/packages/f31/gamehub/po/mr.po | 
+ | [te](/f31/language/te) | 2 | 1115 | 0.2 | /mnt/stockage/packages/f31/gamehub/po/te.po | 
+ | [el](/f31/language/el) | 0 | 1115 | 0.0 | /mnt/stockage/packages/f31/gamehub/po/el.po | 
+ | [hi](/f31/language/hi) | 0 | 1115 | 0.0 | /mnt/stockage/packages/f31/gamehub/po/hi.po | 
+ | [ko](/f31/language/ko) | 0 | 1115 | 0.0 | /mnt/stockage/packages/f31/gamehub/po/ko.po | 
 {.sortable}
 
 

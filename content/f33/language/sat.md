@@ -38,9 +38,9 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [tuxpaint]({{< ref "/f33/package/tuxpaint.md" >}}) | 1198 | 1662 | 72.1 | none | 
- | [libreoffice]({{< ref "/f33/package/libreoffice.md" >}}) | 56484 | 105517 | 53.5 | LANGUAGE <LL@li.org> | 
- | [inkscape]({{< ref "/f33/package/inkscape.md" >}}) | 18793 | 40929 | 45.9 | LANGUAGE <LL@li.org> | 
+ | [tuxpaint](/f33/package/tuxpaint) | 1198 | 1662 | 72.1 | none | 
+ | [libreoffice](/f33/package/libreoffice) | 56484 | 105517 | 53.5 | LANGUAGE <LL@li.org> | 
+ | [inkscape](/f33/package/inkscape) | 18793 | 40929 | 45.9 | LANGUAGE <LL@li.org> | 
 {.sortable}
 
 

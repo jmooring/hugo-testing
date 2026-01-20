@@ -18,19 +18,19 @@ The package cockpit-ostree (version 200):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [id]({{< ref "/f38/language/id.md" >}}) | 259 | 259 | 100.0 | /mnt/stockage/packages/f38/cockpit-ostree/po/id.po | 
- | [ka]({{< ref "/f38/language/ka.md" >}}) | 259 | 259 | 100.0 | /mnt/stockage/packages/f38/cockpit-ostree/po/ka.po | 
- | [ko]({{< ref "/f38/language/ko.md" >}}) | 259 | 259 | 100.0 | /mnt/stockage/packages/f38/cockpit-ostree/po/ko.po | 
- | [tr]({{< ref "/f38/language/tr.md" >}}) | 259 | 259 | 100.0 | /mnt/stockage/packages/f38/cockpit-ostree/po/tr.po | 
- | [zh_Hans]({{< ref "/f38/language/zh_Hans.md" >}}) | 259 | 259 | 100.0 | /mnt/stockage/packages/f38/cockpit-ostree/po/zh_CN.po | 
- | [cs]({{< ref "/f38/language/cs.md" >}}) | 170 | 259 | 65.6 | /mnt/stockage/packages/f38/cockpit-ostree/po/cs.po | 
- | [pl]({{< ref "/f38/language/pl.md" >}}) | 170 | 259 | 65.6 | /mnt/stockage/packages/f38/cockpit-ostree/po/pl.po | 
- | [uk]({{< ref "/f38/language/uk.md" >}}) | 170 | 259 | 65.6 | /mnt/stockage/packages/f38/cockpit-ostree/po/uk.po | 
- | [de]({{< ref "/f38/language/de.md" >}}) | 169 | 259 | 65.3 | /mnt/stockage/packages/f38/cockpit-ostree/po/de.po | 
- | [fi]({{< ref "/f38/language/fi.md" >}}) | 168 | 259 | 64.9 | /mnt/stockage/packages/f38/cockpit-ostree/po/fi.po | 
- | [fr]({{< ref "/f38/language/fr.md" >}}) | 164 | 259 | 63.3 | /mnt/stockage/packages/f38/cockpit-ostree/po/fr.po | 
- | [nl]({{< ref "/f38/language/nl.md" >}}) | 164 | 259 | 63.3 | /mnt/stockage/packages/f38/cockpit-ostree/po/nl.po | 
- | [es]({{< ref "/f38/language/es.md" >}}) | 123 | 259 | 47.5 | /mnt/stockage/packages/f38/cockpit-ostree/po/es.po | 
+ | [id](/f38/language/id) | 259 | 259 | 100.0 | /mnt/stockage/packages/f38/cockpit-ostree/po/id.po | 
+ | [ka](/f38/language/ka) | 259 | 259 | 100.0 | /mnt/stockage/packages/f38/cockpit-ostree/po/ka.po | 
+ | [ko](/f38/language/ko) | 259 | 259 | 100.0 | /mnt/stockage/packages/f38/cockpit-ostree/po/ko.po | 
+ | [tr](/f38/language/tr) | 259 | 259 | 100.0 | /mnt/stockage/packages/f38/cockpit-ostree/po/tr.po | 
+ | [zh_Hans](/f38/language/zh_Hans) | 259 | 259 | 100.0 | /mnt/stockage/packages/f38/cockpit-ostree/po/zh_CN.po | 
+ | [cs](/f38/language/cs) | 170 | 259 | 65.6 | /mnt/stockage/packages/f38/cockpit-ostree/po/cs.po | 
+ | [pl](/f38/language/pl) | 170 | 259 | 65.6 | /mnt/stockage/packages/f38/cockpit-ostree/po/pl.po | 
+ | [uk](/f38/language/uk) | 170 | 259 | 65.6 | /mnt/stockage/packages/f38/cockpit-ostree/po/uk.po | 
+ | [de](/f38/language/de) | 169 | 259 | 65.3 | /mnt/stockage/packages/f38/cockpit-ostree/po/de.po | 
+ | [fi](/f38/language/fi) | 168 | 259 | 64.9 | /mnt/stockage/packages/f38/cockpit-ostree/po/fi.po | 
+ | [fr](/f38/language/fr) | 164 | 259 | 63.3 | /mnt/stockage/packages/f38/cockpit-ostree/po/fr.po | 
+ | [nl](/f38/language/nl) | 164 | 259 | 63.3 | /mnt/stockage/packages/f38/cockpit-ostree/po/nl.po | 
+ | [es](/f38/language/es) | 123 | 259 | 47.5 | /mnt/stockage/packages/f38/cockpit-ostree/po/es.po | 
 {.sortable}
 
 

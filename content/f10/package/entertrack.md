@@ -18,11 +18,11 @@ The package entertrack (version 1.2.6):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [es_CR]({{< ref "/f10/language/es_CR.md" >}}) | 2847 | 2847 | 100.0 | /mnt/stockage/packages/f10/entertrack/locale/es_CR/LC_MESSAGES/messages.po | 
- | [es_MX]({{< ref "/f10/language/es_MX.md" >}}) | 2545 | 2545 | 100.0 | /mnt/stockage/packages/f10/entertrack/locale/es_MX/LC_MESSAGES/messages.po | 
- | [nb_NO]({{< ref "/f10/language/nb_NO.md" >}}) | 2240 | 2246 | 99.7 | /mnt/stockage/packages/f10/entertrack/locale/nb_NO/LC_MESSAGES/messages.po | 
- | [ca]({{< ref "/f10/language/ca.md" >}}) | 2219 | 2228 | 99.6 | /mnt/stockage/packages/f10/entertrack/locale/ca_ES/LC_MESSAGES/messages.po | 
- | [fr]({{< ref "/f10/language/fr.md" >}}) | 1993 | 2228 | 89.5 | /mnt/stockage/packages/f10/entertrack/locale/fr_FR/LC_MESSAGES/messages.po | 
+ | [es_CR](/f10/language/es_CR) | 2847 | 2847 | 100.0 | /mnt/stockage/packages/f10/entertrack/locale/es_CR/LC_MESSAGES/messages.po | 
+ | [es_MX](/f10/language/es_MX) | 2545 | 2545 | 100.0 | /mnt/stockage/packages/f10/entertrack/locale/es_MX/LC_MESSAGES/messages.po | 
+ | [nb_NO](/f10/language/nb_NO) | 2240 | 2246 | 99.7 | /mnt/stockage/packages/f10/entertrack/locale/nb_NO/LC_MESSAGES/messages.po | 
+ | [ca](/f10/language/ca) | 2219 | 2228 | 99.6 | /mnt/stockage/packages/f10/entertrack/locale/ca_ES/LC_MESSAGES/messages.po | 
+ | [fr](/f10/language/fr) | 1993 | 2228 | 89.5 | /mnt/stockage/packages/f10/entertrack/locale/fr_FR/LC_MESSAGES/messages.po | 
 {.sortable}
 
 

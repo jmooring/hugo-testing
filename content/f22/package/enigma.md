@@ -18,25 +18,25 @@ The package enigma (version 1.21):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [be]({{< ref "/f22/language/be.md" >}}) | 9145 | 9237 | 99.0 | /mnt/stockage/packages/f22/enigma/po/be.po | 
- | [cs]({{< ref "/f22/language/cs.md" >}}) | 9145 | 9237 | 99.0 | /mnt/stockage/packages/f22/enigma/po/cs.po | 
- | [de]({{< ref "/f22/language/de.md" >}}) | 9145 | 9237 | 99.0 | /mnt/stockage/packages/f22/enigma/po/de.po | 
- | [es]({{< ref "/f22/language/es.md" >}}) | 9145 | 9237 | 99.0 | /mnt/stockage/packages/f22/enigma/po/es.po | 
- | [gd]({{< ref "/f22/language/gd.md" >}}) | 9145 | 9237 | 99.0 | /mnt/stockage/packages/f22/enigma/po/gd.po | 
- | [nl]({{< ref "/f22/language/nl.md" >}}) | 9145 | 9237 | 99.0 | /mnt/stockage/packages/f22/enigma/po/nl.po | 
- | [pl]({{< ref "/f22/language/pl.md" >}}) | 9145 | 9237 | 99.0 | /mnt/stockage/packages/f22/enigma/po/pl.po | 
- | [ru]({{< ref "/f22/language/ru.md" >}}) | 9145 | 9237 | 99.0 | /mnt/stockage/packages/f22/enigma/po/ru.po | 
- | [sk]({{< ref "/f22/language/sk.md" >}}) | 9145 | 9237 | 99.0 | /mnt/stockage/packages/f22/enigma/po/sk.po | 
- | [fr]({{< ref "/f22/language/fr.md" >}}) | 7687 | 9237 | 83.2 | /mnt/stockage/packages/f22/enigma/po/fr.po | 
- | [uk]({{< ref "/f22/language/uk.md" >}}) | 7439 | 9237 | 80.5 | /mnt/stockage/packages/f22/enigma/po/uk.po | 
- | [el]({{< ref "/f22/language/el.md" >}}) | 5490 | 9237 | 59.4 | /mnt/stockage/packages/f22/enigma/po/el.po | 
- | [pt]({{< ref "/f22/language/pt.md" >}}) | 5001 | 9237 | 54.1 | /mnt/stockage/packages/f22/enigma/po/pt.po | 
- | [hu]({{< ref "/f22/language/hu.md" >}}) | 4913 | 9237 | 53.2 | /mnt/stockage/packages/f22/enigma/po/hu.po | 
- | [fi]({{< ref "/f22/language/fi.md" >}}) | 4088 | 9237 | 44.3 | /mnt/stockage/packages/f22/enigma/po/fi.po | 
- | [it]({{< ref "/f22/language/it.md" >}}) | 3469 | 9237 | 37.6 | /mnt/stockage/packages/f22/enigma/po/it.po | 
- | [da]({{< ref "/f22/language/da.md" >}}) | 3419 | 9237 | 37.0 | /mnt/stockage/packages/f22/enigma/po/da.po | 
- | [hr]({{< ref "/f22/language/hr.md" >}}) | 2064 | 9237 | 22.3 | /mnt/stockage/packages/f22/enigma/po/hr.po | 
- | [sv]({{< ref "/f22/language/sv.md" >}}) | 1873 | 9237 | 20.3 | /mnt/stockage/packages/f22/enigma/po/sv.po | 
+ | [be](/f22/language/be) | 9145 | 9237 | 99.0 | /mnt/stockage/packages/f22/enigma/po/be.po | 
+ | [cs](/f22/language/cs) | 9145 | 9237 | 99.0 | /mnt/stockage/packages/f22/enigma/po/cs.po | 
+ | [de](/f22/language/de) | 9145 | 9237 | 99.0 | /mnt/stockage/packages/f22/enigma/po/de.po | 
+ | [es](/f22/language/es) | 9145 | 9237 | 99.0 | /mnt/stockage/packages/f22/enigma/po/es.po | 
+ | [gd](/f22/language/gd) | 9145 | 9237 | 99.0 | /mnt/stockage/packages/f22/enigma/po/gd.po | 
+ | [nl](/f22/language/nl) | 9145 | 9237 | 99.0 | /mnt/stockage/packages/f22/enigma/po/nl.po | 
+ | [pl](/f22/language/pl) | 9145 | 9237 | 99.0 | /mnt/stockage/packages/f22/enigma/po/pl.po | 
+ | [ru](/f22/language/ru) | 9145 | 9237 | 99.0 | /mnt/stockage/packages/f22/enigma/po/ru.po | 
+ | [sk](/f22/language/sk) | 9145 | 9237 | 99.0 | /mnt/stockage/packages/f22/enigma/po/sk.po | 
+ | [fr](/f22/language/fr) | 7687 | 9237 | 83.2 | /mnt/stockage/packages/f22/enigma/po/fr.po | 
+ | [uk](/f22/language/uk) | 7439 | 9237 | 80.5 | /mnt/stockage/packages/f22/enigma/po/uk.po | 
+ | [el](/f22/language/el) | 5490 | 9237 | 59.4 | /mnt/stockage/packages/f22/enigma/po/el.po | 
+ | [pt](/f22/language/pt) | 5001 | 9237 | 54.1 | /mnt/stockage/packages/f22/enigma/po/pt.po | 
+ | [hu](/f22/language/hu) | 4913 | 9237 | 53.2 | /mnt/stockage/packages/f22/enigma/po/hu.po | 
+ | [fi](/f22/language/fi) | 4088 | 9237 | 44.3 | /mnt/stockage/packages/f22/enigma/po/fi.po | 
+ | [it](/f22/language/it) | 3469 | 9237 | 37.6 | /mnt/stockage/packages/f22/enigma/po/it.po | 
+ | [da](/f22/language/da) | 3419 | 9237 | 37.0 | /mnt/stockage/packages/f22/enigma/po/da.po | 
+ | [hr](/f22/language/hr) | 2064 | 9237 | 22.3 | /mnt/stockage/packages/f22/enigma/po/hr.po | 
+ | [sv](/f22/language/sv) | 1873 | 9237 | 20.3 | /mnt/stockage/packages/f22/enigma/po/sv.po | 
 {.sortable}
 
 

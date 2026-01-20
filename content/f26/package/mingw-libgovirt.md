@@ -18,13 +18,13 @@ The package mingw-libgovirt (version 0.3.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f26/language/cs.md" >}}) | 102 | 102 | 100.0 | /mnt/stockage/packages/f26/mingw-libgovirt/po/cs.po | 
- | [de]({{< ref "/f26/language/de.md" >}}) | 102 | 102 | 100.0 | /mnt/stockage/packages/f26/mingw-libgovirt/po/de.po | 
- | [es]({{< ref "/f26/language/es.md" >}}) | 102 | 102 | 100.0 | /mnt/stockage/packages/f26/mingw-libgovirt/po/es.po | 
- | [id]({{< ref "/f26/language/id.md" >}}) | 102 | 102 | 100.0 | /mnt/stockage/packages/f26/mingw-libgovirt/po/id.po | 
- | [pl]({{< ref "/f26/language/pl.md" >}}) | 102 | 102 | 100.0 | /mnt/stockage/packages/f26/mingw-libgovirt/po/pl.po | 
- | [sr]({{< ref "/f26/language/sr.md" >}}) | 204 | 204 | 100.0 | /mnt/stockage/packages/f26/mingw-libgovirt/po/sr.po/mnt/stockage/packages/f26/mingw-libgovirt/po/sr@latin.po | 
- | [sl]({{< ref "/f26/language/sl.md" >}}) | 2 | 102 | 2.0 | /mnt/stockage/packages/f26/mingw-libgovirt/po/sl.po | 
+ | [cs](/f26/language/cs) | 102 | 102 | 100.0 | /mnt/stockage/packages/f26/mingw-libgovirt/po/cs.po | 
+ | [de](/f26/language/de) | 102 | 102 | 100.0 | /mnt/stockage/packages/f26/mingw-libgovirt/po/de.po | 
+ | [es](/f26/language/es) | 102 | 102 | 100.0 | /mnt/stockage/packages/f26/mingw-libgovirt/po/es.po | 
+ | [id](/f26/language/id) | 102 | 102 | 100.0 | /mnt/stockage/packages/f26/mingw-libgovirt/po/id.po | 
+ | [pl](/f26/language/pl) | 102 | 102 | 100.0 | /mnt/stockage/packages/f26/mingw-libgovirt/po/pl.po | 
+ | [sr](/f26/language/sr) | 204 | 204 | 100.0 | /mnt/stockage/packages/f26/mingw-libgovirt/po/sr.po/mnt/stockage/packages/f26/mingw-libgovirt/po/sr@latin.po | 
+ | [sl](/f26/language/sl) | 2 | 102 | 2.0 | /mnt/stockage/packages/f26/mingw-libgovirt/po/sl.po | 
 {.sortable}
 
 

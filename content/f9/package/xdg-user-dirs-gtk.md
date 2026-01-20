@@ -18,35 +18,35 @@ The package xdg-user-dirs-gtk (version 0.7):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f9/language/ar.md" >}}) | 81 | 81 | 100.0 | /mnt/stockage/packages/f9/xdg-user-dirs-gtk/po/ar.po | 
- | [be_Latn]({{< ref "/f9/language/be_Latn.md" >}}) | 81 | 81 | 100.0 | /mnt/stockage/packages/f9/xdg-user-dirs-gtk/po/be@latin.po | 
- | [ca]({{< ref "/f9/language/ca.md" >}}) | 81 | 81 | 100.0 | /mnt/stockage/packages/f9/xdg-user-dirs-gtk/po/ca.po | 
- | [cs]({{< ref "/f9/language/cs.md" >}}) | 81 | 81 | 100.0 | /mnt/stockage/packages/f9/xdg-user-dirs-gtk/po/cs.po | 
- | [de]({{< ref "/f9/language/de.md" >}}) | 52 | 52 | 100.0 | /mnt/stockage/packages/f9/xdg-user-dirs-gtk/po/de.po | 
- | [dz]({{< ref "/f9/language/dz.md" >}}) | 52 | 52 | 100.0 | /mnt/stockage/packages/f9/xdg-user-dirs-gtk/po/dz.po | 
- | [en_GB]({{< ref "/f9/language/en_GB.md" >}}) | 52 | 52 | 100.0 | /mnt/stockage/packages/f9/xdg-user-dirs-gtk/po/en_GB.po | 
- | [es]({{< ref "/f9/language/es.md" >}}) | 81 | 81 | 100.0 | /mnt/stockage/packages/f9/xdg-user-dirs-gtk/po/es.po | 
- | [eu]({{< ref "/f9/language/eu.md" >}}) | 52 | 52 | 100.0 | /mnt/stockage/packages/f9/xdg-user-dirs-gtk/po/eu.po | 
- | [fi]({{< ref "/f9/language/fi.md" >}}) | 73 | 73 | 100.0 | /mnt/stockage/packages/f9/xdg-user-dirs-gtk/po/fi.po | 
- | [fr]({{< ref "/f9/language/fr.md" >}}) | 81 | 81 | 100.0 | /mnt/stockage/packages/f9/xdg-user-dirs-gtk/po/fr.po | 
- | [hu]({{< ref "/f9/language/hu.md" >}}) | 81 | 81 | 100.0 | /mnt/stockage/packages/f9/xdg-user-dirs-gtk/po/hu.po | 
- | [it]({{< ref "/f9/language/it.md" >}}) | 81 | 81 | 100.0 | /mnt/stockage/packages/f9/xdg-user-dirs-gtk/po/it.po | 
- | [ja]({{< ref "/f9/language/ja.md" >}}) | 52 | 52 | 100.0 | /mnt/stockage/packages/f9/xdg-user-dirs-gtk/po/ja.po | 
- | [ka]({{< ref "/f9/language/ka.md" >}}) | 73 | 73 | 100.0 | /mnt/stockage/packages/f9/xdg-user-dirs-gtk/po/ka.po | 
- | [ko]({{< ref "/f9/language/ko.md" >}}) | 81 | 81 | 100.0 | /mnt/stockage/packages/f9/xdg-user-dirs-gtk/po/ko.po | 
- | [lt]({{< ref "/f9/language/lt.md" >}}) | 52 | 52 | 100.0 | /mnt/stockage/packages/f9/xdg-user-dirs-gtk/po/lt.po | 
- | [nb_NO]({{< ref "/f9/language/nb_NO.md" >}}) | 81 | 81 | 100.0 | /mnt/stockage/packages/f9/xdg-user-dirs-gtk/po/nb.po | 
- | [nl]({{< ref "/f9/language/nl.md" >}}) | 52 | 52 | 100.0 | /mnt/stockage/packages/f9/xdg-user-dirs-gtk/po/nl.po | 
- | [nn]({{< ref "/f9/language/nn.md" >}}) | 52 | 52 | 100.0 | /mnt/stockage/packages/f9/xdg-user-dirs-gtk/po/nn.po | 
- | [pl]({{< ref "/f9/language/pl.md" >}}) | 81 | 81 | 100.0 | /mnt/stockage/packages/f9/xdg-user-dirs-gtk/po/pl.po | 
- | [pt]({{< ref "/f9/language/pt.md" >}}) | 81 | 81 | 100.0 | /mnt/stockage/packages/f9/xdg-user-dirs-gtk/po/pt.po | 
- | [pt_BR]({{< ref "/f9/language/pt_BR.md" >}}) | 81 | 81 | 100.0 | /mnt/stockage/packages/f9/xdg-user-dirs-gtk/po/pt_BR.po | 
- | [sk]({{< ref "/f9/language/sk.md" >}}) | 81 | 81 | 100.0 | /mnt/stockage/packages/f9/xdg-user-dirs-gtk/po/sk.po | 
- | [sl]({{< ref "/f9/language/sl.md" >}}) | 52 | 52 | 100.0 | /mnt/stockage/packages/f9/xdg-user-dirs-gtk/po/sl.po | 
- | [sq]({{< ref "/f9/language/sq.md" >}}) | 81 | 81 | 100.0 | /mnt/stockage/packages/f9/xdg-user-dirs-gtk/po/sq.po | 
- | [sv]({{< ref "/f9/language/sv.md" >}}) | 81 | 81 | 100.0 | /mnt/stockage/packages/f9/xdg-user-dirs-gtk/po/sv.po | 
- | [af]({{< ref "/f9/language/af.md" >}}) | 78 | 81 | 96.3 | /mnt/stockage/packages/f9/xdg-user-dirs-gtk/po/af.po | 
- | [oc]({{< ref "/f9/language/oc.md" >}}) | 20 | 81 | 24.7 | /mnt/stockage/packages/f9/xdg-user-dirs-gtk/po/oc.po | 
+ | [ar](/f9/language/ar) | 81 | 81 | 100.0 | /mnt/stockage/packages/f9/xdg-user-dirs-gtk/po/ar.po | 
+ | [be_Latn](/f9/language/be_Latn) | 81 | 81 | 100.0 | /mnt/stockage/packages/f9/xdg-user-dirs-gtk/po/be@latin.po | 
+ | [ca](/f9/language/ca) | 81 | 81 | 100.0 | /mnt/stockage/packages/f9/xdg-user-dirs-gtk/po/ca.po | 
+ | [cs](/f9/language/cs) | 81 | 81 | 100.0 | /mnt/stockage/packages/f9/xdg-user-dirs-gtk/po/cs.po | 
+ | [de](/f9/language/de) | 52 | 52 | 100.0 | /mnt/stockage/packages/f9/xdg-user-dirs-gtk/po/de.po | 
+ | [dz](/f9/language/dz) | 52 | 52 | 100.0 | /mnt/stockage/packages/f9/xdg-user-dirs-gtk/po/dz.po | 
+ | [en_GB](/f9/language/en_GB) | 52 | 52 | 100.0 | /mnt/stockage/packages/f9/xdg-user-dirs-gtk/po/en_GB.po | 
+ | [es](/f9/language/es) | 81 | 81 | 100.0 | /mnt/stockage/packages/f9/xdg-user-dirs-gtk/po/es.po | 
+ | [eu](/f9/language/eu) | 52 | 52 | 100.0 | /mnt/stockage/packages/f9/xdg-user-dirs-gtk/po/eu.po | 
+ | [fi](/f9/language/fi) | 73 | 73 | 100.0 | /mnt/stockage/packages/f9/xdg-user-dirs-gtk/po/fi.po | 
+ | [fr](/f9/language/fr) | 81 | 81 | 100.0 | /mnt/stockage/packages/f9/xdg-user-dirs-gtk/po/fr.po | 
+ | [hu](/f9/language/hu) | 81 | 81 | 100.0 | /mnt/stockage/packages/f9/xdg-user-dirs-gtk/po/hu.po | 
+ | [it](/f9/language/it) | 81 | 81 | 100.0 | /mnt/stockage/packages/f9/xdg-user-dirs-gtk/po/it.po | 
+ | [ja](/f9/language/ja) | 52 | 52 | 100.0 | /mnt/stockage/packages/f9/xdg-user-dirs-gtk/po/ja.po | 
+ | [ka](/f9/language/ka) | 73 | 73 | 100.0 | /mnt/stockage/packages/f9/xdg-user-dirs-gtk/po/ka.po | 
+ | [ko](/f9/language/ko) | 81 | 81 | 100.0 | /mnt/stockage/packages/f9/xdg-user-dirs-gtk/po/ko.po | 
+ | [lt](/f9/language/lt) | 52 | 52 | 100.0 | /mnt/stockage/packages/f9/xdg-user-dirs-gtk/po/lt.po | 
+ | [nb_NO](/f9/language/nb_NO) | 81 | 81 | 100.0 | /mnt/stockage/packages/f9/xdg-user-dirs-gtk/po/nb.po | 
+ | [nl](/f9/language/nl) | 52 | 52 | 100.0 | /mnt/stockage/packages/f9/xdg-user-dirs-gtk/po/nl.po | 
+ | [nn](/f9/language/nn) | 52 | 52 | 100.0 | /mnt/stockage/packages/f9/xdg-user-dirs-gtk/po/nn.po | 
+ | [pl](/f9/language/pl) | 81 | 81 | 100.0 | /mnt/stockage/packages/f9/xdg-user-dirs-gtk/po/pl.po | 
+ | [pt](/f9/language/pt) | 81 | 81 | 100.0 | /mnt/stockage/packages/f9/xdg-user-dirs-gtk/po/pt.po | 
+ | [pt_BR](/f9/language/pt_BR) | 81 | 81 | 100.0 | /mnt/stockage/packages/f9/xdg-user-dirs-gtk/po/pt_BR.po | 
+ | [sk](/f9/language/sk) | 81 | 81 | 100.0 | /mnt/stockage/packages/f9/xdg-user-dirs-gtk/po/sk.po | 
+ | [sl](/f9/language/sl) | 52 | 52 | 100.0 | /mnt/stockage/packages/f9/xdg-user-dirs-gtk/po/sl.po | 
+ | [sq](/f9/language/sq) | 81 | 81 | 100.0 | /mnt/stockage/packages/f9/xdg-user-dirs-gtk/po/sq.po | 
+ | [sv](/f9/language/sv) | 81 | 81 | 100.0 | /mnt/stockage/packages/f9/xdg-user-dirs-gtk/po/sv.po | 
+ | [af](/f9/language/af) | 78 | 81 | 96.3 | /mnt/stockage/packages/f9/xdg-user-dirs-gtk/po/af.po | 
+ | [oc](/f9/language/oc) | 20 | 81 | 24.7 | /mnt/stockage/packages/f9/xdg-user-dirs-gtk/po/oc.po | 
 {.sortable}
 
 

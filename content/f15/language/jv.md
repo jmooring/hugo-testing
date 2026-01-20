@@ -39,15 +39,15 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [terminator]({{< ref "/f15/package/terminator.md" >}}) | 270 | 339 | 79.6 | Javanese <jv@li.org> | 
- | [gnome-do]({{< ref "/f15/package/gnome-do.md" >}}) | 29 | 612 | 4.7 | Javanese <jv@li.org> | 
- | [pychess]({{< ref "/f15/package/pychess.md" >}}) | 89 | 3091 | 2.9 | Javanese <jv@li.org> | 
- | [gmpc]({{< ref "/f15/package/gmpc.md" >}}) | 29 | 1444 | 2.0 | Javanese <jv@li.org> | 
- | [backintime]({{< ref "/f15/package/backintime.md" >}}) | 15 | 919 | 1.6 | Javanese <jv@li.org> | 
- | [avant-window-navigator]({{< ref "/f15/package/avant-window-navigator.md" >}}) | 5 | 1829 | 0.3 | Javanese <jv@li.org> | 
- | [ailurus]({{< ref "/f15/package/ailurus.md" >}}) | 0 | 8446 | 0.0 | none | 
- | [vidalia]({{< ref "/f15/package/vidalia.md" >}}) | 0 | 9310 | 0.0 | LANGUAGE <LL@li.org> | 
- | [viking]({{< ref "/f15/package/viking.md" >}}) | 0 | 2049 | 0.0 | Javanese <jv@li.org> | 
+ | [terminator](/f15/package/terminator) | 270 | 339 | 79.6 | Javanese <jv@li.org> | 
+ | [gnome-do](/f15/package/gnome-do) | 29 | 612 | 4.7 | Javanese <jv@li.org> | 
+ | [pychess](/f15/package/pychess) | 89 | 3091 | 2.9 | Javanese <jv@li.org> | 
+ | [gmpc](/f15/package/gmpc) | 29 | 1444 | 2.0 | Javanese <jv@li.org> | 
+ | [backintime](/f15/package/backintime) | 15 | 919 | 1.6 | Javanese <jv@li.org> | 
+ | [avant-window-navigator](/f15/package/avant-window-navigator) | 5 | 1829 | 0.3 | Javanese <jv@li.org> | 
+ | [ailurus](/f15/package/ailurus) | 0 | 8446 | 0.0 | none | 
+ | [vidalia](/f15/package/vidalia) | 0 | 9310 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [viking](/f15/package/viking) | 0 | 2049 | 0.0 | Javanese <jv@li.org> | 
 {.sortable}
 
 

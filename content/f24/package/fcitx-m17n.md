@@ -18,10 +18,10 @@ The package fcitx-m17n (version 0.2.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f24/language/de.md" >}}) | 45 | 45 | 100.0 | /mnt/stockage/packages/f24/fcitx-m17n/po/de.po | 
- | [zh_Hans]({{< ref "/f24/language/zh_Hans.md" >}}) | 45 | 45 | 100.0 | /mnt/stockage/packages/f24/fcitx-m17n/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f24/language/zh_Hant.md" >}}) | 45 | 45 | 100.0 | /mnt/stockage/packages/f24/fcitx-m17n/po/zh_TW.po | 
- | [ja]({{< ref "/f24/language/ja.md" >}}) | 43 | 45 | 95.6 | /mnt/stockage/packages/f24/fcitx-m17n/po/ja.po | 
+ | [de](/f24/language/de) | 45 | 45 | 100.0 | /mnt/stockage/packages/f24/fcitx-m17n/po/de.po | 
+ | [zh_Hans](/f24/language/zh_Hans) | 45 | 45 | 100.0 | /mnt/stockage/packages/f24/fcitx-m17n/po/zh_CN.po | 
+ | [zh_Hant](/f24/language/zh_Hant) | 45 | 45 | 100.0 | /mnt/stockage/packages/f24/fcitx-m17n/po/zh_TW.po | 
+ | [ja](/f24/language/ja) | 43 | 45 | 95.6 | /mnt/stockage/packages/f24/fcitx-m17n/po/ja.po | 
 {.sortable}
 
 

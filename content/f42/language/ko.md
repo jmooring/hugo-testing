@@ -44,1399 +44,1399 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [GConf2]({{< ref "/f42/package/GConf2.md" >}}) | 4088 | 4088 | 100.0 | GNOME Korea <gnome-kr@googlegroups.com> | 
- | [PackageKit]({{< ref "/f42/package/PackageKit.md" >}}) | 1296 | 1296 | 100.0 | Korean (http://app.transifex.com/freedesktop/packagekit/language/ko/) | 
- | [R-reshape2]({{< ref "/f42/package/R-reshape2.md" >}}) | 46 | 46 | 100.0 | R Development Translation Teams (Korean) <gnustats@korea.gnu.org> | 
- | [abattis-cantarell-fonts]({{< ref "/f42/package/abattis-cantarell-fonts.md" >}}) | 27 | 27 | 100.0 | Korean <gnome-kr@googlegroups.com> | 
- | [abrt]({{< ref "/f42/package/abrt.md" >}}) | 3676 | 3676 | 100.0 | Korean <https://translate.fedoraproject.org/projects/abrt/abrt/ko/> | 
- | [accerciser]({{< ref "/f42/package/accerciser.md" >}}) | 658 | 658 | 100.0 | Korean <gnome-kr@googlegroups.com> | 
- | [accessibility-inspector]({{< ref "/f42/package/accessibility-inspector.md" >}}) | 197 | 197 | 100.0 | Korean <kde-kr@kde.org> | 
- | [accountsservice]({{< ref "/f42/package/accountsservice.md" >}}) | 59 | 59 | 100.0 | Korean (http://www.transifex.com/freedesktop/accountsservice/language/ko/) | 
- | [aegisub]({{< ref "/f42/package/aegisub.md" >}}) | 4994 | 4994 | 100.0 | None | 
- | [aisleriot]({{< ref "/f42/package/aisleriot.md" >}}) | 2982 | 2982 | 100.0 | GNOME Korea <gnome-kr@googlegroups.com> | 
- | [akonadi-calendar]({{< ref "/f42/package/akonadi-calendar.md" >}}) | 2380 | 2380 | 100.0 | Korean <kde-kr@kde.org> | 
- | [akonadi-calendar-tools]({{< ref "/f42/package/akonadi-calendar-tools.md" >}}) | 760 | 760 | 100.0 | Korean <kde-kr@kde.org> | 
- | [akonadi-import-wizard]({{< ref "/f42/package/akonadi-import-wizard.md" >}}) | 394 | 394 | 100.0 | Korean <kde-kr@kde.org> | 
- | [akonadi-mime]({{< ref "/f42/package/akonadi-mime.md" >}}) | 581 | 581 | 100.0 | Korean <kde-kr@kde.org> | 
- | [akonadi-notes]({{< ref "/f42/package/akonadi-notes.md" >}}) | 2 | 2 | 100.0 | Korean <kde-kr@kde.org> | 
- | [akonadi-search]({{< ref "/f42/package/akonadi-search.md" >}}) | 67 | 67 | 100.0 | Korean <kde-kr@kde.org> | 
- | [akonadi-server]({{< ref "/f42/package/akonadi-server.md" >}}) | 3062 | 3062 | 100.0 | Korean <kde-kr@kde.org> | 
- | [akonadiconsole]({{< ref "/f42/package/akonadiconsole.md" >}}) | 777 | 777 | 100.0 | Korean <kde-kr@kde.org> | 
- | [akregator]({{< ref "/f42/package/akregator.md" >}}) | 1893 | 1893 | 100.0 | Korean <kde-kr@kde.org> | 
- | [alacarte]({{< ref "/f42/package/alacarte.md" >}}) | 42 | 42 | 100.0 | Korean <gnome-kr@googlegroups.com> | 
- | [anaconda]({{< ref "/f42/package/anaconda.md" >}}) | 8244 | 8244 | 100.0 | Korean <https://translate.fedoraproject.org/projects/anaconda/f42/ko/> | 
- | [anaconda-webui]({{< ref "/f42/package/anaconda-webui.md" >}}) | 1345 | 1345 | 100.0 | Korean <https://translate.fedoraproject.org/projects/anaconda-webui/anaconda-webui/ko/> | 
- | [analitza]({{< ref "/f42/package/analitza.md" >}}) | 999 | 999 | 100.0 | Korean <kde-kr@kde.org> | 
- | [android-tools]({{< ref "/f42/package/android-tools.md" >}}) | 6272 | 6272 | 100.0 | Korean <https://translate.fedoraproject.org/projects/selinux/gui/ko/> | 
- | [anjuta]({{< ref "/f42/package/anjuta.md" >}}) | 8398 | 8398 | 100.0 | GNOME Korea <gnome-kr@googlegroups.com> | 
- | [ansible-collection-awx-awx]({{< ref "/f42/package/ansible-collection-awx-awx.md" >}}) | 10098 | 10098 | 100.0 | LANGUAGE <LL@li.org> | 
- | [arandr]({{< ref "/f42/package/arandr.md" >}}) | 173 | 173 | 100.0 | Korean <https://hosted.weblate.org/projects/arandr/translations/ko/> | 
- | [arianna]({{< ref "/f42/package/arianna.md" >}}) | 175 | 175 | 100.0 | Korean <kde-kr@kde.org> | 
- | [ark]({{< ref "/f42/package/ark.md" >}}) | 1982 | 1982 | 100.0 | Korean <kde-kr@kde.org> | 
- | [artikulate]({{< ref "/f42/package/artikulate.md" >}}) | 313 | 313 | 100.0 | Korean <kde-kr@kde.org> | 
- | [at-spi2-core]({{< ref "/f42/package/at-spi2-core.md" >}}) | 465 | 465 | 100.0 | GNOME Korea <gnome-kr@googlegroups.com> | 
- | [atomix]({{< ref "/f42/package/atomix.md" >}}) | 125 | 125 | 100.0 | Korean <gnome-kr-translation@lists.sourceforge.net> | 
- | [audacious]({{< ref "/f42/package/audacious.md" >}}) | 911 | 911 | 100.0 | Korean (http://app.transifex.com/audacious/audacious/language/ko/) | 
- | [audacious-plugins]({{< ref "/f42/package/audacious-plugins.md" >}}) | 4425 | 4425 | 100.0 | Korean (http://app.transifex.com/audacious/audacious/language/ko/) | 
- | [audacity]({{< ref "/f42/package/audacity.md" >}}) | 19527 | 19527 | 100.0 | Korean (https://app.transifex.com/audacity/teams/164520/ko/) | 
- | [audex]({{< ref "/f42/package/audex.md" >}}) | 2542 | 2542 | 100.0 | Korean <kde-kr@kde.org> | 
- | [audiocd-kio]({{< ref "/f42/package/audiocd-kio.md" >}}) | 905 | 905 | 100.0 | Korean <kde-kr@kde.org> | 
- | [audiotube]({{< ref "/f42/package/audiotube.md" >}}) | 236 | 236 | 100.0 | Korean <kde-kr@kde.org> | 
- | [aurorae]({{< ref "/f42/package/aurorae.md" >}}) | 72 | 72 | 100.0 | Korean <kde-kr@kde.org> | 
- | [authselect]({{< ref "/f42/package/authselect.md" >}}) | 5583 | 5583 | 100.0 | Korean <https://translate.fedoraproject.org/projects/authselect/master-application/ko/> | 
- | [avahi]({{< ref "/f42/package/avahi.md" >}}) | 868 | 868 | 100.0 | Korean <https://translate.fedoraproject.org/projects/avahi/master/ko/> | 
- | [backintime]({{< ref "/f42/package/backintime.md" >}}) | 2780 | 2780 | 100.0 | Korean <https://translate.codeberg.org/projects/backintime/common/ko/> | 
- | [baobab]({{< ref "/f42/package/baobab.md" >}}) | 1395 | 1395 | 100.0 | GNOME Korea <gnome-kr@googlegroups.com> | 
- | [bash]({{< ref "/f42/package/bash.md" >}}) | 11740 | 11740 | 100.0 | Korean <translation-team-ko@googlegroups.com> | 
- | [blender]({{< ref "/f42/package/blender.md" >}}) | 87794 | 87794 | 100.0 | Korean <https://translate.blender.org/projects/blender-ui/ui/ko/> | 
- | [blinken]({{< ref "/f42/package/blinken.md" >}}) | 134 | 134 | 100.0 | Korean <kde-kr@kde.org> | 
- | [blivet-gui]({{< ref "/f42/package/blivet-gui.md" >}}) | 1111 | 1111 | 100.0 | Korean <https://translate.fedoraproject.org/projects/blivet/blivet-gui/ko/> | 
- | [blogilo]({{< ref "/f42/package/blogilo.md" >}}) | 204 | 204 | 100.0 | Korean <kde@peremen.name> | 
- | [bluedevil]({{< ref "/f42/package/bluedevil.md" >}}) | 636 | 636 | 100.0 | Korean <kde-kr@kde.org> | 
- | [bomber]({{< ref "/f42/package/bomber.md" >}}) | 110 | 110 | 100.0 | Korean <kde-kr@kde.org> | 
- | [bovo]({{< ref "/f42/package/bovo.md" >}}) | 82 | 82 | 100.0 | Korean <kde-kr@kde.org> | 
- | [brasero]({{< ref "/f42/package/brasero.md" >}}) | 7751 | 7751 | 100.0 | GNOME Korea <gnome-kr@googlegroups.com> | 
- | [budgie-desktop-view]({{< ref "/f42/package/budgie-desktop-view.md" >}}) | 17 | 17 | 100.0 | Korean (https://www.transifex.com/buddiesofbudgie/teams/129844/ko/) | 
- | [budgie-screensaver]({{< ref "/f42/package/budgie-screensaver.md" >}}) | 291 | 291 | 100.0 | GNOME Korea <gnome-kr@googlegroups.com> | 
- | [budgie-session]({{< ref "/f42/package/budgie-session.md" >}}) | 435 | 435 | 100.0 | GNOME Korea <gnome-kr@googlegroups.com> | 
- | [calamares]({{< ref "/f42/package/calamares.md" >}}) | 478 | 478 | 100.0 | Korean (https://app.transifex.com/calamares/teams/20061/ko/) | 
- | [calendarsupport]({{< ref "/f42/package/calendarsupport.md" >}}) | 2759 | 2759 | 100.0 | Korean <kde-kr@kde.org> | 
- | [calindori]({{< ref "/f42/package/calindori.md" >}}) | 550 | 550 | 100.0 | Korean <kde-kr@kde.org> | 
- | [calligraplan]({{< ref "/f42/package/calligraplan.md" >}}) | 322 | 322 | 100.0 | Korean <kde-kr@kde.org> | 
- | [calls]({{< ref "/f42/package/calls.md" >}}) | 473 | 473 | 100.0 | Korean <gnome-kr@googlegroups.com> | 
- | [cantor]({{< ref "/f42/package/cantor.md" >}}) | 3987 | 3987 | 100.0 | Korean <kde-kr@kde.org> | 
- | [caribou]({{< ref "/f42/package/caribou.md" >}}) | 169 | 169 | 100.0 | Korean <gnome-kr@googlegroups.com> | 
- | [certmonger]({{< ref "/f42/package/certmonger.md" >}}) | 2831 | 2831 | 100.0 | Korean <https://translate.fedoraproject.org/projects/certmonger/master/ko/> | 
- | [cervisia]({{< ref "/f42/package/cervisia.md" >}}) | 1615 | 1615 | 100.0 | Korean <kde-kr@kde.org> | 
- | [cgit]({{< ref "/f42/package/cgit.md" >}}) | 24346 | 24346 | 100.0 | Git Korean translation <http://github.com/changwoo/git-l10n-ko> | 
- | [chatty]({{< ref "/f42/package/chatty.md" >}}) | 535 | 535 | 100.0 | Korean <gnome-kr@googlegroups.com> | 
- | [cheese]({{< ref "/f42/package/cheese.md" >}}) | 2170 | 2170 | 100.0 | Korean <gnome-kr@googlegroups.com> | 
- | [chkconfig]({{< ref "/f42/package/chkconfig.md" >}}) | 597 | 597 | 100.0 | Korean <https://translate.fedoraproject.org/projects/fedora-sysv/chkconfig/ko/> | 
- | [cinnamon-desktop]({{< ref "/f42/package/cinnamon-desktop.md" >}}) | 234 | 234 | 100.0 | GNOME Korea <gnome-kr@googlegroups.com> | 
- | [clamtk]({{< ref "/f42/package/clamtk.md" >}}) | 464 | 464 | 100.0 | Korean <oopslee@haansoft.com> | 
- | [clementine]({{< ref "/f42/package/clementine.md" >}}) | 3803 | 3803 | 100.0 | Korean (http://app.transifex.com/davidsansome/clementine/language/ko/) | 
- | [cockpit]({{< ref "/f42/package/cockpit.md" >}}) | 9415 | 9415 | 100.0 | Korean <https://translate.fedoraproject.org/projects/cockpit/cockpit/ko/> | 
- | [cockpit-files]({{< ref "/f42/package/cockpit-files.md" >}}) | 557 | 557 | 100.0 | Korean <https://translate.fedoraproject.org/projects/cockpit/cockpit-files/ko/> | 
- | [cockpit-machines]({{< ref "/f42/package/cockpit-machines.md" >}}) | 3428 | 3428 | 100.0 | Korean <https://translate.fedoraproject.org/projects/cockpit/cockpit-machines/ko/> | 
- | [cockpit-ostree]({{< ref "/f42/package/cockpit-ostree.md" >}}) | 246 | 246 | 100.0 | Korean <https://translate.fedoraproject.org/projects/cockpit-ostree/main/ko/> | 
- | [cockpit-podman]({{< ref "/f42/package/cockpit-podman.md" >}}) | 1121 | 1121 | 100.0 | Korean <https://translate.fedoraproject.org/projects/cockpit/cockpit-podman/ko/> | 
- | [cogl]({{< ref "/f42/package/cogl.md" >}}) | 393 | 393 | 100.0 | Korean <gnome-kr@googlegroups.com> | 
- | [colord-kde]({{< ref "/f42/package/colord-kde.md" >}}) | 282 | 282 | 100.0 | Korean <kde-kr@kde.org> | 
- | [coreutils]({{< ref "/f42/package/coreutils.md" >}}) | 22041 | 22041 | 100.0 | Korean <translation-team-ko@googlegroups.com> | 
- | [cosmic-store]({{< ref "/f42/package/cosmic-store.md" >}}) | 1296 | 1296 | 100.0 | Korean (http://app.transifex.com/freedesktop/packagekit/language/ko/) | 
- | [cpeditor]({{< ref "/f42/package/cpeditor.md" >}}) | 647 | 647 | 100.0 | Korean <kde-kr@kde.org> | 
- | [cracklib]({{< ref "/f42/package/cracklib.md" >}}) | 90 | 90 | 100.0 | Korean <https://translate.fedoraproject.org/projects/cracklib/master/ko/> | 
- | [cups-pk-helper]({{< ref "/f42/package/cups-pk-helper.md" >}}) | 149 | 149 | 100.0 | Korean (http://www.transifex.com/freedesktop/cups-pk-helper/language/ko/) | 
- | [d-spy]({{< ref "/f42/package/d-spy.md" >}}) | 123 | 123 | 100.0 | Korean <gnome-kr@googlegroups.com> | 
- | [darktable]({{< ref "/f42/package/darktable.md" >}}) | 31497 | 31497 | 100.0 | Ajou Univ.(함도혁,윤하윤,정채영,김민채,김윤중) | 
- | [dasher]({{< ref "/f42/package/dasher.md" >}}) | 634 | 634 | 100.0 | GNOME Korea <gnome-kr@googlegroups.com> | 
- | [dconf-editor]({{< ref "/f42/package/dconf-editor.md" >}}) | 2955 | 2955 | 100.0 | Korean <gnome-kr@googlegroups.com> | 
- | [decibels]({{< ref "/f42/package/decibels.md" >}}) | 223 | 223 | 100.0 | GNOME Korea <gnome-kr@googlegroups.com> | 
- | [deepin-pw-check]({{< ref "/f42/package/deepin-pw-check.md" >}}) | 59 | 59 | 100.0 | Korean (https://www.transifex.com/linuxdeepin/teams/3617/ko/) | 
- | [devhelp]({{< ref "/f42/package/devhelp.md" >}}) | 413 | 413 | 100.0 | GNOME Korea <gnome-kr@googlegroups.com> | 
- | [dia]({{< ref "/f42/package/dia.md" >}}) | 6605 | 6605 | 100.0 | Korean <Dokdo@korea.land> | 
- | [dnf]({{< ref "/f42/package/dnf.md" >}}) | 4718 | 4718 | 100.0 | Korean <https://translate.fedoraproject.org/projects/dnf/dnf-master/ko/> | 
- | [dnf-plugins-core]({{< ref "/f42/package/dnf-plugins-core.md" >}}) | 2137 | 2137 | 100.0 | Korean <https://translate.fedoraproject.org/projects/dnf/dnf-plugins-core-l10n-master/ko/> | 
- | [dnf-plugins-extras]({{< ref "/f42/package/dnf-plugins-extras.md" >}}) | 121 | 121 | 100.0 | Korean <https://translate.fedoraproject.org/projects/dnf/dnf-plugins-extras/ko/> | 
- | [dnf5]({{< ref "/f42/package/dnf5.md" >}}) | 6433 | 6433 | 100.0 | Korean <https://translate.fedoraproject.org/projects/dnf5/dnf5-plugin-builddep/ko/> | 
- | [dnfdragora]({{< ref "/f42/package/dnfdragora.md" >}}) | 39 | 39 | 100.0 | Korean (https://www.transifex.com/MageiaLinux/teams/9361/ko/) | 
- | [dolphin-plugins]({{< ref "/f42/package/dolphin-plugins.md" >}}) | 1607 | 1607 | 100.0 | Korean <kde-kr@kde.org> | 
- | [dos2unix]({{< ref "/f42/package/dos2unix.md" >}}) | 5532 | 5532 | 100.0 | Korean <translation-team-ko@googlegroups.com> | 
- | [doublecmd]({{< ref "/f42/package/doublecmd.md" >}}) | 12604 | 12604 | 100.0 | 비너스걸: https://venusgirls.tistory.com/ | 
- | [easytag]({{< ref "/f42/package/easytag.md" >}}) | 5264 | 5264 | 100.0 | Korean <gnome-kr@googlegroups.com> | 
- | [elisa-player]({{< ref "/f42/package/elisa-player.md" >}}) | 822 | 822 | 100.0 | Korean <kde-kr@kde.org> | 
- | [eog]({{< ref "/f42/package/eog.md" >}}) | 6128 | 6128 | 100.0 | GNOME Korea <gnome-kr@googlegroups.com> | 
- | [eog-plugins]({{< ref "/f42/package/eog-plugins.md" >}}) | 403 | 403 | 100.0 | GNOME Korea <gnome-kr@googlegroups.com> | 
- | [epiphany]({{< ref "/f42/package/epiphany.md" >}}) | 7503 | 7503 | 100.0 | Korean <gnome-kr@googlegroups.com> | 
- | [evince]({{< ref "/f42/package/evince.md" >}}) | 8627 | 8627 | 100.0 | GNOME Korea <gnome-kr@googlegroups.com> | 
- | [evolution]({{< ref "/f42/package/evolution.md" >}}) | 30047 | 30047 | 100.0 | GNOME Korea <gnome-kr@googlegroups.com> | 
- | [evolution-data-server]({{< ref "/f42/package/evolution-data-server.md" >}}) | 8336 | 8336 | 100.0 | GNOME Korea <gnome-kr@googlegroups.com> | 
- | [evolution-mapi]({{< ref "/f42/package/evolution-mapi.md" >}}) | 516 | 516 | 100.0 | GNOME Korea <gnome-kr@googlegroups.com> | 
- | [exif]({{< ref "/f42/package/exif.md" >}}) | 296 | 296 | 100.0 | Korean <translation-team-ko@googlegroups.com> | 
- | [fcitx]({{< ref "/f42/package/fcitx.md" >}}) | 3308 | 3308 | 100.0 | Korean (http://www.transifex.com/fcitx/fcitx/language/ko/) | 
- | [fcitx-anthy]({{< ref "/f42/package/fcitx-anthy.md" >}}) | 365 | 365 | 100.0 | Korean (http://www.transifex.com/fcitx/fcitx/language/ko/) | 
- | [fcitx-chewing]({{< ref "/f42/package/fcitx-chewing.md" >}}) | 55 | 55 | 100.0 | Korean (http://www.transifex.com/fcitx/fcitx/language/ko/) | 
- | [fcitx-cloudpinyin]({{< ref "/f42/package/fcitx-cloudpinyin.md" >}}) | 63 | 63 | 100.0 | Korean (http://www.transifex.com/fcitx/fcitx/language/ko/) | 
- | [fcitx-configtool]({{< ref "/f42/package/fcitx-configtool.md" >}}) | 106 | 106 | 100.0 | Korean (http://www.transifex.com/fcitx/fcitx/language/ko/) | 
- | [fcitx-hangul]({{< ref "/f42/package/fcitx-hangul.md" >}}) | 37 | 37 | 100.0 | Korean (http://www.transifex.com/fcitx/fcitx/language/ko/) | 
- | [fcitx-kkc]({{< ref "/f42/package/fcitx-kkc.md" >}}) | 118 | 118 | 100.0 | Korean (http://www.transifex.com/fcitx/fcitx/language/ko/) | 
- | [fcitx-libpinyin]({{< ref "/f42/package/fcitx-libpinyin.md" >}}) | 261 | 261 | 100.0 | Korean (http://www.transifex.com/fcitx/fcitx/language/ko/) | 
- | [fcitx-m17n]({{< ref "/f42/package/fcitx-m17n.md" >}}) | 45 | 45 | 100.0 | Korean (http://www.transifex.com/fcitx/fcitx/language/ko/) | 
- | [fcitx-qt5]({{< ref "/f42/package/fcitx-qt5.md" >}}) | 99 | 99 | 100.0 | Korean (https://www.transifex.com/fcitx/teams/12005/ko/) | 
- | [fcitx-skk]({{< ref "/f42/package/fcitx-skk.md" >}}) | 84 | 84 | 100.0 | Korean (http://www.transifex.com/fcitx/fcitx/language/ko/) | 
- | [fcitx-sunpinyin]({{< ref "/f42/package/fcitx-sunpinyin.md" >}}) | 104 | 104 | 100.0 | Korean (http://www.transifex.com/fcitx/fcitx/language/ko/) | 
- | [fcitx-table-extra]({{< ref "/f42/package/fcitx-table-extra.md" >}}) | 24 | 24 | 100.0 | Korean (http://www.transifex.com/fcitx/fcitx/language/ko/) | 
- | [fcitx-table-other]({{< ref "/f42/package/fcitx-table-other.md" >}}) | 24 | 24 | 100.0 | Korean (http://www.transifex.com/fcitx/fcitx/language/ko/) | 
- | [fcitx-unikey]({{< ref "/f42/package/fcitx-unikey.md" >}}) | 96 | 96 | 100.0 | Korean (http://www.transifex.com/fcitx/fcitx/language/ko/) | 
- | [file-roller]({{< ref "/f42/package/file-roller.md" >}}) | 3044 | 3044 | 100.0 | GNOME Korea <gnome-kr@googlegroups.com> | 
- | [filelight]({{< ref "/f42/package/filelight.md" >}}) | 284 | 284 | 100.0 | Korean <kde-kr@kde.org> | 
- | [filezilla]({{< ref "/f42/package/filezilla.md" >}}) | 10726 | 10726 | 100.0 | Korean (Republic of Korea) | 
- | [five-or-more]({{< ref "/f42/package/five-or-more.md" >}}) | 1604 | 1604 | 100.0 | Korean <gnome-kr@googlegroups.com> | 
- | [flare]({{< ref "/f42/package/flare.md" >}}) | 5818 | 5818 | 100.0 | Korean (https://www.transifex.com/flareorg/teams/84925/ko/) | 
- | [flatpak-kcm]({{< ref "/f42/package/flatpak-kcm.md" >}}) | 361 | 361 | 100.0 | Korean <kde-kr@kde.org> | 
- | [focuswriter]({{< ref "/f42/package/focuswriter.md" >}}) | 129 | 129 | 100.0 | Korean (http://www.transifex.com/gottcode/focuswriter/language/ko/) | 
- | [folder-color-switcher]({{< ref "/f42/package/folder-color-switcher.md" >}}) | 65 | 65 | 100.0 | Korean <ko@li.org> | 
- | [foliate]({{< ref "/f42/package/foliate.md" >}}) | 741 | 741 | 100.0 | 이정희 <daemul72@gmail.com> | 
- | [folks]({{< ref "/f42/package/folks.md" >}}) | 1056 | 1056 | 100.0 | Korean <gnome-kr@googlegroups.com> | 
- | [fontforge]({{< ref "/f42/package/fontforge.md" >}}) | 42598 | 42598 | 100.0 | Korean | 
- | [four-in-a-row]({{< ref "/f42/package/four-in-a-row.md" >}}) | 1398 | 1398 | 100.0 | Korean <gnome-kr@googlegroups.com> | 
- | [fprintd]({{< ref "/f42/package/fprintd.md" >}}) | 433 | 433 | 100.0 | Korean <https://translate.fedoraproject.org/projects/fprintd/fprintd/ko/> | 
- | [fragments]({{< ref "/f42/package/fragments.md" >}}) | 717 | 717 | 100.0 | Korean <gnome-kr@googlegroups.com> | 
- | [francis]({{< ref "/f42/package/francis.md" >}}) | 78 | 78 | 100.0 | Korean <kde-kr@kde.org> | 
- | [freeipa]({{< ref "/f42/package/freeipa.md" >}}) | 8886 | 8886 | 100.0 | Korean <https://translate.fedoraproject.org/projects/freeipa/master/ko/> | 
- | [fwupd]({{< ref "/f42/package/fwupd.md" >}}) | 3725 | 3725 | 100.0 | Korean <https://hosted.weblate.org/projects/fwupd/fwupd/ko/> | 
- | [garcon]({{< ref "/f42/package/garcon.md" >}}) | 125 | 125 | 100.0 | Korean (http://app.transifex.com/xfce/garcon/language/ko/) | 
- | [gawk]({{< ref "/f42/package/gawk.md" >}}) | 5096 | 5096 | 100.0 | Korean <translation-team-ko@googlegroups.com> | 
- | [gconf-editor]({{< ref "/f42/package/gconf-editor.md" >}}) | 336 | 336 | 100.0 | GNOME Korea <gnome-kr@googlegroups.com> | 
- | [gcr]({{< ref "/f42/package/gcr.md" >}}) | 538 | 538 | 100.0 | GNOME Korea <gnome-kr@googlegroups.com> | 
- | [gcr3]({{< ref "/f42/package/gcr3.md" >}}) | 795 | 795 | 100.0 | GNOME Korea <gnome-kr@googlegroups.com> | 
- | [gdk-pixbuf2]({{< ref "/f42/package/gdk-pixbuf2.md" >}}) | 1325 | 1325 | 100.0 | Gnome Korea <gnome-kr@googlegroups.com> | 
- | [gdk-pixbuf2-modules-extra]({{< ref "/f42/package/gdk-pixbuf2-modules-extra.md" >}}) | 1325 | 1325 | 100.0 | Gnome Korea <gnome-kr@googlegroups.com> | 
- | [gedit]({{< ref "/f42/package/gedit.md" >}}) | 11582 | 11582 | 100.0 | GNOME Korea <gnome-kr@googlegroups.com> | 
- | [gedit-latex]({{< ref "/f42/package/gedit-latex.md" >}}) | 466 | 466 | 100.0 | Korean <gnome-kr@googlegroups.com> | 
- | [gedit-plugins]({{< ref "/f42/package/gedit-plugins.md" >}}) | 8829 | 8829 | 100.0 | GNOME Korea <gnome-kr@googlegroups.com> | 
- | [ggz-base-libs]({{< ref "/f42/package/ggz-base-libs.md" >}}) | 72 | 72 | 100.0 | GNOME Korea <gnome-kr-hackers@lists.kldp.net> | 
- | [ghex]({{< ref "/f42/package/ghex.md" >}}) | 3265 | 3265 | 100.0 | Korean <gnome-kr@googlegroups.com> | 
- | [ghostwriter]({{< ref "/f42/package/ghostwriter.md" >}}) | 1326 | 1326 | 100.0 | Korean <kde-kr@kde.org> | 
- | [gigolo]({{< ref "/f42/package/gigolo.md" >}}) | 541 | 541 | 100.0 | Korean (http://app.transifex.com/xfce/xfce-apps/language/ko/) | 
- | [git]({{< ref "/f42/package/git.md" >}}) | 24346 | 24346 | 100.0 | Git Korean translation <http://github.com/changwoo/git-l10n-ko> | 
- | [git-cinnabar]({{< ref "/f42/package/git-cinnabar.md" >}}) | 24346 | 24346 | 100.0 | Git Korean translation <http://github.com/changwoo/git-l10n-ko> | 
- | [gitg]({{< ref "/f42/package/gitg.md" >}}) | 2687 | 2687 | 100.0 | 한국어 <gnome-kr@googlegroups.com> | 
- | [glib-networking]({{< ref "/f42/package/glib-networking.md" >}}) | 460 | 460 | 100.0 | Korean <gnome-kr@googlegroups.com> | 
- | [glib2]({{< ref "/f42/package/glib2.md" >}}) | 7889 | 7889 | 100.0 | GNOME Korea <gnome-kr@googlegroups.com> | 
- | [glibc]({{< ref "/f42/package/glibc.md" >}}) | 7959 | 7959 | 100.0 | Korean <translation-team-ko@googlegroups.com> | 
- | [gnome-abrt]({{< ref "/f42/package/gnome-abrt.md" >}}) | 221 | 221 | 100.0 | Korean <https://translate.fedoraproject.org/projects/abrt/gnome-abrt/ko/> | 
- | [gnome-bluetooth]({{< ref "/f42/package/gnome-bluetooth.md" >}}) | 316 | 316 | 100.0 | GNOME Korea <gnome-kr@googlegroups.com> | 
- | [gnome-bluetooth3.34]({{< ref "/f42/package/gnome-bluetooth3.34.md" >}}) | 373 | 373 | 100.0 | GNOME Korea <gnome-kr@googlegroups.com> | 
- | [gnome-boxes]({{< ref "/f42/package/gnome-boxes.md" >}}) | 4047 | 4047 | 100.0 | Korean <gnome-kr@googlegroups.com> | 
- | [gnome-builder]({{< ref "/f42/package/gnome-builder.md" >}}) | 5882 | 5882 | 100.0 | GNOME Korea <gnome-kr@googlegroups.com> | 
- | [gnome-calculator]({{< ref "/f42/package/gnome-calculator.md" >}}) | 3724 | 3724 | 100.0 | GNOME Korea <gnome-kr@googlegroups.com> | 
- | [gnome-calendar]({{< ref "/f42/package/gnome-calendar.md" >}}) | 1135 | 1135 | 100.0 | GNOME Korea <gnome-kr@googlegroups.com> | 
- | [gnome-characters]({{< ref "/f42/package/gnome-characters.md" >}}) | 161 | 161 | 100.0 | Korean <gnome-kr@googlegroups.com> | 
- | [gnome-chess]({{< ref "/f42/package/gnome-chess.md" >}}) | 2555 | 2555 | 100.0 | Korean <gnome-kr@googlegroups.com> | 
- | [gnome-clocks]({{< ref "/f42/package/gnome-clocks.md" >}}) | 1352 | 1352 | 100.0 | GNOME Korea <gnome-kr@googlegroups.com> | 
- | [gnome-color-manager]({{< ref "/f42/package/gnome-color-manager.md" >}}) | 2330 | 2330 | 100.0 | GNOME Korea <gnome-kr@googlegroups.com> | 
- | [gnome-connections]({{< ref "/f42/package/gnome-connections.md" >}}) | 672 | 672 | 100.0 | Korean <gnome-kr@googlegroups.com> | 
- | [gnome-console]({{< ref "/f42/package/gnome-console.md" >}}) | 344 | 344 | 100.0 | Korean <gnome-kr@googlegroups.com> | 
- | [gnome-contacts]({{< ref "/f42/package/gnome-contacts.md" >}}) | 757 | 757 | 100.0 | Korean <gnome-kr@googlegroups.com> | 
- | [gnome-control-center]({{< ref "/f42/package/gnome-control-center.md" >}}) | 9704 | 9704 | 100.0 | <ko@li.org> | 
- | [gnome-desktop3]({{< ref "/f42/package/gnome-desktop3.md" >}}) | 9777 | 9777 | 100.0 | GNOME Korea <gnome-kr@googlegroups.com> | 
- | [gnome-dictionary]({{< ref "/f42/package/gnome-dictionary.md" >}}) | 2107 | 2107 | 100.0 | GNOME Korea <gnome-kr@googlegroups.com> | 
- | [gnome-disk-utility]({{< ref "/f42/package/gnome-disk-utility.md" >}}) | 4091 | 4091 | 100.0 | GNOME Korea <gnome-kr@googlegroups.com> | 
- | [gnome-doc-utils]({{< ref "/f42/package/gnome-doc-utils.md" >}}) | 251 | 251 | 100.0 | GNOME Korea <gnome-kr@googlegroups.com> | 
- | [gnome-extensions-app]({{< ref "/f42/package/gnome-extensions-app.md" >}}) | 3516 | 3516 | 100.0 | GNOME Korea <gnome-kr@googlegroups.com> | 
- | [gnome-feeds]({{< ref "/f42/package/gnome-feeds.md" >}}) | 540 | 540 | 100.0 | Korean <translation-team-ko@googlegroups.com> | 
- | [gnome-font-viewer]({{< ref "/f42/package/gnome-font-viewer.md" >}}) | 539 | 539 | 100.0 | GNOME Korea <gnome-kr@googlegroups.com> | 
- | [gnome-icon-theme]({{< ref "/f42/package/gnome-icon-theme.md" >}}) | 43 | 43 | 100.0 | GTP Korean <gnome-kr-translation@gnome.or.kr> | 
- | [gnome-initial-setup]({{< ref "/f42/package/gnome-initial-setup.md" >}}) | 915 | 915 | 100.0 | 한국어 <gnome-kr@googlegroups.com> | 
- | [gnome-keyring]({{< ref "/f42/package/gnome-keyring.md" >}}) | 473 | 473 | 100.0 | GNOME Korea <gnome-kr@googlegroups.com> | 
- | [gnome-klotski]({{< ref "/f42/package/gnome-klotski.md" >}}) | 275 | 275 | 100.0 | GNOME Korea <gnome-kr@googlegroups.com> | 
- | [gnome-logs]({{< ref "/f42/package/gnome-logs.md" >}}) | 672 | 672 | 100.0 | GNOME Korea <gnome-kr@googlegroups.com> | 
- | [gnome-mahjongg]({{< ref "/f42/package/gnome-mahjongg.md" >}}) | 1615 | 1615 | 100.0 | Korean <gnome-kr@googlegroups.com> | 
- | [gnome-maps]({{< ref "/f42/package/gnome-maps.md" >}}) | 1355 | 1355 | 100.0 | GNOME Korea <gnome-kr@googlegroups.com> | 
- | [gnome-menus]({{< ref "/f42/package/gnome-menus.md" >}}) | 81 | 81 | 100.0 | GNOME Korea <gnome-kr@googlegroups.com> | 
- | [gnome-mime-data]({{< ref "/f42/package/gnome-mime-data.md" >}}) | 887 | 887 | 100.0 | GNOME Korea <gnome-kr-hackers@lists.kldp.net> | 
- | [gnome-mines]({{< ref "/f42/package/gnome-mines.md" >}}) | 1429 | 1429 | 100.0 | Korean <gnome-kr@googlegroups.com> | 
- | [gnome-music]({{< ref "/f42/package/gnome-music.md" >}}) | 890 | 890 | 100.0 | Korean <gnome-kr@googlegroups.com> | 
- | [gnome-nettool]({{< ref "/f42/package/gnome-nettool.md" >}}) | 664 | 664 | 100.0 | GNOME Korea <gnome-kr@googlegroups.com> | 
- | [gnome-nibbles]({{< ref "/f42/package/gnome-nibbles.md" >}}) | 1641 | 1641 | 100.0 | Korean <gnome-kr@googlegroups.com> | 
- | [gnome-online-accounts]({{< ref "/f42/package/gnome-online-accounts.md" >}}) | 805 | 805 | 100.0 | 한국어 <gnome-kr@googlegroups.com> | 
- | [gnome-packagekit]({{< ref "/f42/package/gnome-packagekit.md" >}}) | 3593 | 3593 | 100.0 | GNOME Korea <gnome-kr@googlegroups.com> | 
- | [gnome-photos]({{< ref "/f42/package/gnome-photos.md" >}}) | 1029 | 1029 | 100.0 | Korean <gnome-kr@googlegroups.com> | 
- | [gnome-pomodoro]({{< ref "/f42/package/gnome-pomodoro.md" >}}) | 358 | 358 | 100.0 | Korean | 
- | [gnome-power-manager]({{< ref "/f42/package/gnome-power-manager.md" >}}) | 433 | 433 | 100.0 | GNOME Korea <gnome-kr@googlegroups.com> | 
- | [gnome-remote-desktop]({{< ref "/f42/package/gnome-remote-desktop.md" >}}) | 853 | 853 | 100.0 | Korean <gnome-kr@googlegroups.com> | 
- | [gnome-robots]({{< ref "/f42/package/gnome-robots.md" >}}) | 1666 | 1666 | 100.0 | Korean <gnome-kr@googlegroups.com> | 
- | [gnome-screenshot]({{< ref "/f42/package/gnome-screenshot.md" >}}) | 417 | 417 | 100.0 | GNOME Korea <gnome-kr@googlegroups.com> | 
- | [gnome-session]({{< ref "/f42/package/gnome-session.md" >}}) | 429 | 429 | 100.0 | GNOME Korea <gnome-kr@googlegroups.com> | 
- | [gnome-settings-daemon]({{< ref "/f42/package/gnome-settings-daemon.md" >}}) | 3923 | 3923 | 100.0 | GNOME Korea <gnome-kr@googlegroups.com> | 
- | [gnome-shell]({{< ref "/f42/package/gnome-shell.md" >}}) | 3516 | 3516 | 100.0 | GNOME Korea <gnome-kr@googlegroups.com> | 
- | [gnome-shell-extension-appindicator]({{< ref "/f42/package/gnome-shell-extension-appindicator.md" >}}) | 95 | 95 | 100.0 | 이정희 <daemul72@gmail.com> | 
- | [gnome-shell-extension-dash-to-dock]({{< ref "/f42/package/gnome-shell-extension-dash-to-dock.md" >}}) | 654 | 654 | 100.0 |  | 
- | [gnome-shell-extension-freon]({{< ref "/f42/package/gnome-shell-extension-freon.md" >}}) | 104 | 104 | 100.0 |  | 
- | [gnome-shell-extensions]({{< ref "/f42/package/gnome-shell-extensions.md" >}}) | 324 | 324 | 100.0 | Korean <gnome-kr@googlegroups.com> | 
- | [gnome-shell-frippery]({{< ref "/f42/package/gnome-shell-frippery.md" >}}) | 20 | 20 | 100.0 |  | 
- | [gnome-software]({{< ref "/f42/package/gnome-software.md" >}}) | 6077 | 6077 | 100.0 | GNOME Korea <gnome-kr@googlegroups.com> | 
- | [gnome-sound-recorder]({{< ref "/f42/package/gnome-sound-recorder.md" >}}) | 302 | 302 | 100.0 | Korean <gnome-kr@googlegroups.com> | 
- | [gnome-sudoku]({{< ref "/f42/package/gnome-sudoku.md" >}}) | 1941 | 1941 | 100.0 | Korean <gnome-kr@googlegroups.com> | 
- | [gnome-system-monitor]({{< ref "/f42/package/gnome-system-monitor.md" >}}) | 6275 | 6275 | 100.0 | GNOME Korea <gnome-kr@googlegroups.com> | 
- | [gnome-taquin]({{< ref "/f42/package/gnome-taquin.md" >}}) | 431 | 431 | 100.0 | GNOME Korea <gnome-kr@googlegroups.com> | 
- | [gnome-terminal]({{< ref "/f42/package/gnome-terminal.md" >}}) | 8104 | 8104 | 100.0 | GNOME Korea <gnome-kr@googlegroups.com> | 
- | [gnome-tetravex]({{< ref "/f42/package/gnome-tetravex.md" >}}) | 1718 | 1718 | 100.0 | Korean <gnome-kr@googlegroups.com> | 
- | [gnome-text-editor]({{< ref "/f42/package/gnome-text-editor.md" >}}) | 1754 | 1754 | 100.0 | Korean <gnome-kr@googlegroups.com> | 
- | [gnome-themes-extra]({{< ref "/f42/package/gnome-themes-extra.md" >}}) | 15 | 15 | 100.0 | Korean <gnome-kr@googlegroups.com> | 
- | [gnome-todo]({{< ref "/f42/package/gnome-todo.md" >}}) | 1716 | 1716 | 100.0 | Korean <gnome-kr@googlegroups.com> | 
- | [gnome-tour]({{< ref "/f42/package/gnome-tour.md" >}}) | 138 | 138 | 100.0 | Korean <gnome-kr@googlegroups.com> | 
- | [gnome-tweaks]({{< ref "/f42/package/gnome-tweaks.md" >}}) | 468 | 468 | 100.0 | 한국어 <gnome-kr@googlegroups.com> | 
- | [gnome-usage]({{< ref "/f42/package/gnome-usage.md" >}}) | 165 | 165 | 100.0 | Korean <gnome-kr@googlegroups.com> | 
- | [gnome-user-share]({{< ref "/f42/package/gnome-user-share.md" >}}) | 39 | 39 | 100.0 | GNOME Korea <gnome-kr@googlegroups.com> | 
- | [gnome-vfs2]({{< ref "/f42/package/gnome-vfs2.md" >}}) | 1519 | 1519 | 100.0 | GNOME Korea <gnome-kr@googlegroups.com> | 
- | [gnome-video-effects]({{< ref "/f42/package/gnome-video-effects.md" >}}) | 256 | 256 | 100.0 | GNOME Korea <gnome-kr@googlegroups.com> | 
- | [gnome-weather]({{< ref "/f42/package/gnome-weather.md" >}}) | 236 | 236 | 100.0 | Korean <gnome-kr@googlegroups.com> | 
- | [gnote]({{< ref "/f42/package/gnote.md" >}}) | 2291 | 2291 | 100.0 | GNOME Korea <gnome-kr@googlegroups.com> | 
- | [godot]({{< ref "/f42/package/godot.md" >}}) | 84424 | 84424 | 100.0 | Korean <https://hosted.weblate.org/projects/godot-engine/godot-class-reference/ko/> | 
- | [gparted]({{< ref "/f42/package/gparted.md" >}}) | 3057 | 3057 | 100.0 | GNOME Korea <gnome-kr@googlegroups.com> | 
- | [granatier]({{< ref "/f42/package/granatier.md" >}}) | 243 | 243 | 100.0 | Korean <kde-kr@kde.org> | 
- | [grantlee-editor]({{< ref "/f42/package/grantlee-editor.md" >}}) | 532 | 532 | 100.0 | Korean <kde-kr@kde.org> | 
- | [grantleetheme]({{< ref "/f42/package/grantleetheme.md" >}}) | 14 | 14 | 100.0 | Korean <kde-kr@kde.org> | 
- | [grep]({{< ref "/f42/package/grep.md" >}}) | 933 | 933 | 100.0 | Korean <translation-team-ko@googlegroups.com> | 
- | [grilo]({{< ref "/f42/package/grilo.md" >}}) | 191 | 191 | 100.0 | GNOME Korea <gnome-kr@googlegroups.com> | 
- | [grilo-plugins]({{< ref "/f42/package/grilo-plugins.md" >}}) | 731 | 731 | 100.0 | GNOME Korea <gnome-kr@googlegroups.com> | 
- | [grip]({{< ref "/f42/package/grip.md" >}}) | 1097 | 1097 | 100.0 | Korean <translation-team-ko@googlegroups.com> | 
- | [gspell]({{< ref "/f42/package/gspell.md" >}}) | 78 | 78 | 100.0 | GNOME Korea <gnome-kr@googlegroups.com> | 
- | [gssntlmssp]({{< ref "/f42/package/gssntlmssp.md" >}}) | 125 | 125 | 100.0 | Korean <https://translate.fedoraproject.org/projects/gss-ntlmssp/master/ko/> | 
- | [gtk+]({{< ref "/f42/package/gtk+.md" >}}) | 404 | 404 | 100.0 | Korean <ko@li.org> | 
- | [gtk-vnc]({{< ref "/f42/package/gtk-vnc.md" >}}) | 8 | 8 | 100.0 | Korean <gnome-kr@googlegroups.com> | 
- | [gtk2]({{< ref "/f42/package/gtk2.md" >}}) | 12381 | 12381 | 100.0 | Gnome Korea <gnome-kr@googlegroups.com> | 
- | [gtk2-engines]({{< ref "/f42/package/gtk2-engines.md" >}}) | 119 | 119 | 100.0 | GNOME Korea <gnome-kr-hackers@lists.kldp.net> | 
- | [gtk3]({{< ref "/f42/package/gtk3.md" >}}) | 16737 | 16737 | 100.0 | Gnome Korea <gnome-kr@googlegroups.com> | 
- | [gtk4]({{< ref "/f42/package/gtk4.md" >}}) | 5119 | 5119 | 100.0 | Gnome Korea <gnome-kr@googlegroups.com> | 
- | [gtksourceview2]({{< ref "/f42/package/gtksourceview2.md" >}}) | 1120 | 1120 | 100.0 | GNOME Korean <gnome-kr-hackers@lists.kldp.net> | 
- | [gtksourceview4]({{< ref "/f42/package/gtksourceview4.md" >}}) | 308 | 308 | 100.0 | GNOME Korean <gnome-kr@googlegroups.com> | 
- | [gtksourceview5]({{< ref "/f42/package/gtksourceview5.md" >}}) | 367 | 367 | 100.0 | GNOME Korean <gnome-kr@googlegroups.com> | 
- | [gtranslator]({{< ref "/f42/package/gtranslator.md" >}}) | 1344 | 1344 | 100.0 | GNOME Korea <gnome-kr@googlegroups.com> | 
- | [gvfs]({{< ref "/f42/package/gvfs.md" >}}) | 2270 | 2270 | 100.0 | GNOME Korea <gnome-kr@googlegroups.com> | 
- | [gwenview]({{< ref "/f42/package/gwenview.md" >}}) | 2091 | 2091 | 100.0 | Korean <kde-kr@kde.org> | 
- | [hash-o-matic]({{< ref "/f42/package/hash-o-matic.md" >}}) | 223 | 223 | 100.0 | Korean <kde-kr@kde.org> | 
- | [helm]({{< ref "/f42/package/helm.md" >}}) | 43 | 43 | 100.0 |  | 
- | [hexchat]({{< ref "/f42/package/hexchat.md" >}}) | 5971 | 5971 | 100.0 | Korean (http://www.transifex.com/hexchat/hexchat/language/ko/) | 
- | [hitori]({{< ref "/f42/package/hitori.md" >}}) | 929 | 929 | 100.0 | Korean <gnome-kr@googlegroups.com> | 
- | [iagno]({{< ref "/f42/package/iagno.md" >}}) | 801 | 801 | 100.0 | GNOME Korea <gnome-kr@googlegroups.com> | 
- | [ibus]({{< ref "/f42/package/ibus.md" >}}) | 2654 | 2654 | 100.0 | Korean <https://translate.fedoraproject.org/projects/ibus/ibus/ko/> | 
- | [ibus-anthy]({{< ref "/f42/package/ibus-anthy.md" >}}) | 705 | 705 | 100.0 | Korean <https://translate.fedoraproject.org/projects/ibus/ibus-anthy/ko/> | 
- | [ibus-chewing]({{< ref "/f42/package/ibus-chewing.md" >}}) | 304 | 304 | 100.0 | Korean <https://translate.fedoraproject.org/projects/ibus-chewing/master/ko/> | 
- | [ibus-hangul]({{< ref "/f42/package/ibus-hangul.md" >}}) | 129 | 129 | 100.0 | Choe Hwanjin <choe.hwanjin@gmail.com> | 
- | [ibus-input-pad]({{< ref "/f42/package/ibus-input-pad.md" >}}) | 103 | 103 | 100.0 | Korean <https://translate.fedoraproject.org/projects/ibus-input-pad/master/ko/> | 
- | [ibus-typing-booster]({{< ref "/f42/package/ibus-typing-booster.md" >}}) | 2576 | 2576 | 100.0 | Korean <https://translate.fedoraproject.org/projects/ibus-typing-booster/app/ko/> | 
- | [incidenceeditor]({{< ref "/f42/package/incidenceeditor.md" >}}) | 2280 | 2280 | 100.0 | Korean <kde-kr@kde.org> | 
- | [initial-setup]({{< ref "/f42/package/initial-setup.md" >}}) | 106 | 106 | 100.0 | Korean <https://translate.fedoraproject.org/projects/initial-setup/master/ko/> | 
- | [initscripts]({{< ref "/f42/package/initscripts.md" >}}) | 1162 | 1162 | 100.0 | Korean <https://translate.fedoraproject.org/projects/fedora-sysv/initscripts/ko/> | 
- | [iputils]({{< ref "/f42/package/iputils.md" >}}) | 1433 | 1433 | 100.0 | Korean <https://translate.fedoraproject.org/projects/iputils/iputils/ko/> | 
- | [isoimagewriter]({{< ref "/f42/package/isoimagewriter.md" >}}) | 456 | 456 | 100.0 | Korean <kde-kr@kde.org> | 
- | [json-glib]({{< ref "/f42/package/json-glib.md" >}}) | 313 | 313 | 100.0 | Korean <gnome-kr@googlegroups.com> | 
- | [juk]({{< ref "/f42/package/juk.md" >}}) | 1452 | 1452 | 100.0 | Korean <kde-kr@kde.org> | 
- | [k3b]({{< ref "/f42/package/k3b.md" >}}) | 20145 | 20145 | 100.0 | Korean <kde-kr@kde.org> | 
- | [k9s]({{< ref "/f42/package/k9s.md" >}}) | 43 | 43 | 100.0 |  | 
- | [kaccounts-integration]({{< ref "/f42/package/kaccounts-integration.md" >}}) | 150 | 150 | 100.0 | Korean <kde-kr@kde.org> | 
- | [kaccounts-providers]({{< ref "/f42/package/kaccounts-providers.md" >}}) | 77 | 77 | 100.0 | Korean <kde-kr@kde.org> | 
- | [kactivitymanagerd]({{< ref "/f42/package/kactivitymanagerd.md" >}}) | 15 | 15 | 100.0 | Korean <kde-kr@kde.org> | 
- | [kaddressbook]({{< ref "/f42/package/kaddressbook.md" >}}) | 1148 | 1148 | 100.0 | Korean <kde-kr@kde.org> | 
- | [kaffeine]({{< ref "/f42/package/kaffeine.md" >}}) | 1425 | 1425 | 100.0 | Korean <kde-kr@kde.org> | 
- | [kalgebra]({{< ref "/f42/package/kalgebra.md" >}}) | 276 | 276 | 100.0 | Korean <kde-kr@kde.org> | 
- | [kalk]({{< ref "/f42/package/kalk.md" >}}) | 68 | 68 | 100.0 | Korean <kde-kr@kde.org> | 
- | [kamera]({{< ref "/f42/package/kamera.md" >}}) | 272 | 272 | 100.0 | Korean <kde-kr@kde.org> | 
- | [kamoso]({{< ref "/f42/package/kamoso.md" >}}) | 145 | 145 | 100.0 | Korean <kde-kr@kde.org> | 
- | [kanagram]({{< ref "/f42/package/kanagram.md" >}}) | 527 | 527 | 100.0 | Korean <kde-kr@kde.org> | 
- | [kapman]({{< ref "/f42/package/kapman.md" >}}) | 115 | 115 | 100.0 | Korean <kde-kr@kde.org> | 
- | [kapptemplate]({{< ref "/f42/package/kapptemplate.md" >}}) | 226 | 226 | 100.0 | Korean <kde-kr@kde.org> | 
- | [kasts]({{< ref "/f42/package/kasts.md" >}}) | 1362 | 1362 | 100.0 | Korean <kde-kr@kde.org> | 
- | [katomic]({{< ref "/f42/package/katomic.md" >}}) | 184 | 184 | 100.0 | Korean <kde-kr@kde.org> | 
- | [kbackup]({{< ref "/f42/package/kbackup.md" >}}) | 694 | 694 | 100.0 | Korean <kde-kr@kde.org> | 
- | [kblackbox]({{< ref "/f42/package/kblackbox.md" >}}) | 1364 | 1364 | 100.0 | Korean <kde-kr@kde.org> | 
- | [kblocks]({{< ref "/f42/package/kblocks.md" >}}) | 157 | 157 | 100.0 | Korean <kde-kr@kde.org> | 
- | [kbounce]({{< ref "/f42/package/kbounce.md" >}}) | 156 | 156 | 100.0 | Korean <kde-kr@kde.org> | 
- | [kbrickbuster]({{< ref "/f42/package/kbrickbuster.md" >}}) | 158 | 158 | 100.0 | Korean <kde-kr@kde.org> | 
- | [kbruch]({{< ref "/f42/package/kbruch.md" >}}) | 1347 | 1347 | 100.0 | Korean <kde-kr@kde.org> | 
- | [kcachegrind]({{< ref "/f42/package/kcachegrind.md" >}}) | 4060 | 4060 | 100.0 | Korean <kde-kr@kde.org> | 
- | [kcalc]({{< ref "/f42/package/kcalc.md" >}}) | 1115 | 1115 | 100.0 | Korean <kde-kr@kde.org> | 
- | [kcalutils]({{< ref "/f42/package/kcalutils.md" >}}) | 1439 | 1439 | 100.0 | Korean <kde-kr@kde.org> | 
- | [kcharselect]({{< ref "/f42/package/kcharselect.md" >}}) | 92 | 92 | 100.0 | Korean <kde-kr@kde.org> | 
- | [kcm_wacomtablet]({{< ref "/f42/package/kcm_wacomtablet.md" >}}) | 1049 | 1049 | 100.0 | Korean <kde-kr@kde.org> | 
- | [kcolorchooser]({{< ref "/f42/package/kcolorchooser.md" >}}) | 29 | 29 | 100.0 | Korean <kde-kr@kde.org> | 
- | [kcron]({{< ref "/f42/package/kcron.md" >}}) | 436 | 436 | 100.0 | Korean <kde-kr@kde.org> | 
- | [kdb]({{< ref "/f42/package/kdb.md" >}}) | 1502 | 1502 | 100.0 |  | 
- | [kde-cli-tools]({{< ref "/f42/package/kde-cli-tools.md" >}}) | 1755 | 1755 | 100.0 | Korean <kde-kr@kde.org> | 
- | [kde-dev-utils]({{< ref "/f42/package/kde-dev-utils.md" >}}) | 96 | 96 | 100.0 | Korean <kde-kr@kde.org> | 
- | [kde-inotify-survey]({{< ref "/f42/package/kde-inotify-survey.md" >}}) | 190 | 190 | 100.0 | Korean <kde-kr@kde.org> | 
- | [kde-partitionmanager]({{< ref "/f42/package/kde-partitionmanager.md" >}}) | 2302 | 2302 | 100.0 | Korean <kde-kr@kde.org> | 
- | [kde-style-breeze]({{< ref "/f42/package/kde-style-breeze.md" >}}) | 266 | 266 | 100.0 | Korean <kde-kr@kde.org> | 
- | [kdebugsettings]({{< ref "/f42/package/kdebugsettings.md" >}}) | 302 | 302 | 100.0 | Korean <kde-kr@kde.org> | 
- | [kdecoration]({{< ref "/f42/package/kdecoration.md" >}}) | 36 | 36 | 100.0 | Korean <kde-kr@kde.org> | 
- | [kdecoration5]({{< ref "/f42/package/kdecoration5.md" >}}) | 39 | 39 | 100.0 | Korean <kde-kr@kde.org> | 
- | [kdenetwork-filesharing]({{< ref "/f42/package/kdenetwork-filesharing.md" >}}) | 927 | 927 | 100.0 | Korean <kde-kr@kde.org> | 
- | [kdepim-addons]({{< ref "/f42/package/kdepim-addons.md" >}}) | 3992 | 3992 | 100.0 | Korean <kde-kr@kde.org> | 
- | [kdepim-runtime]({{< ref "/f42/package/kdepim-runtime.md" >}}) | 7536 | 7536 | 100.0 | Korean <kde-kr@kde.org> | 
- | [kdesdk-kioslaves]({{< ref "/f42/package/kdesdk-kioslaves.md" >}}) | 84 | 84 | 100.0 | Korean <kde-kr@kde.org> | 
- | [kdevelop-php]({{< ref "/f42/package/kdevelop-php.md" >}}) | 535 | 535 | 100.0 | Korean <kde-kr@kde.org> | 
- | [kdf]({{< ref "/f42/package/kdf.md" >}}) | 177 | 177 | 100.0 | Korean <kde-kr@kde.org> | 
- | [kdiagram]({{< ref "/f42/package/kdiagram.md" >}}) | 66 | 66 | 100.0 | Korean <kde-kr@kde.org> | 
- | [kdiagram2]({{< ref "/f42/package/kdiagram2.md" >}}) | 66 | 66 | 100.0 | Korean <kde-kr@kde.org> | 
- | [kdialog]({{< ref "/f42/package/kdialog.md" >}}) | 403 | 403 | 100.0 | Korean <kde-kr@kde.org> | 
- | [kdiamond]({{< ref "/f42/package/kdiamond.md" >}}) | 124 | 124 | 100.0 | Korean <kde-kr@kde.org> | 
- | [kdiff3]({{< ref "/f42/package/kdiff3.md" >}}) | 3473 | 3473 | 100.0 | Korean <kde-kr@kde.org> | 
- | [kdump-anaconda-addon]({{< ref "/f42/package/kdump-anaconda-addon.md" >}}) | 194 | 194 | 100.0 | Korean <ko@li.org> | 
- | [keditbookmarks]({{< ref "/f42/package/keditbookmarks.md" >}}) | 470 | 470 | 100.0 | Korean <kde-kr@kde.org> | 
- | [keepsecret]({{< ref "/f42/package/keepsecret.md" >}}) | 169 | 169 | 100.0 | Korean <kde-kr@kde.org> | 
- | [keysmith]({{< ref "/f42/package/keysmith.md" >}}) | 304 | 304 | 100.0 | Korean <kde-kr@kde.org> | 
- | [kf5-akonadi-calendar]({{< ref "/f42/package/kf5-akonadi-calendar.md" >}}) | 2222 | 2222 | 100.0 | Korean <kde-kr@kde.org> | 
- | [kf5-akonadi-contacts]({{< ref "/f42/package/kf5-akonadi-contacts.md" >}}) | 1116 | 1116 | 100.0 | Korean <kde-kr@kde.org> | 
- | [kf5-akonadi-mime]({{< ref "/f42/package/kf5-akonadi-mime.md" >}}) | 580 | 580 | 100.0 | Korean <kde-kr@kde.org> | 
- | [kf5-akonadi-notes]({{< ref "/f42/package/kf5-akonadi-notes.md" >}}) | 2 | 2 | 100.0 | Korean <kde-kr@kde.org> | 
- | [kf5-akonadi-search]({{< ref "/f42/package/kf5-akonadi-search.md" >}}) | 67 | 67 | 100.0 | Korean <kde-kr@kde.org> | 
- | [kf5-akonadi-server]({{< ref "/f42/package/kf5-akonadi-server.md" >}}) | 2596 | 2596 | 100.0 | Korean <kde-kr@kde.org> | 
- | [kf5-baloo]({{< ref "/f42/package/kf5-baloo.md" >}}) | 860 | 860 | 100.0 | Korean <kde-kr@kde.org> | 
- | [kf5-calendarsupport]({{< ref "/f42/package/kf5-calendarsupport.md" >}}) | 2779 | 2779 | 100.0 | Korean <kde-kr@kde.org> | 
- | [kf5-eventviews]({{< ref "/f42/package/kf5-eventviews.md" >}}) | 2949 | 2949 | 100.0 | Korean <kde-kr@kde.org> | 
- | [kf5-grantleetheme]({{< ref "/f42/package/kf5-grantleetheme.md" >}}) | 14 | 14 | 100.0 | Korean <kde-kr@kde.org> | 
- | [kf5-incidenceeditor]({{< ref "/f42/package/kf5-incidenceeditor.md" >}}) | 2208 | 2208 | 100.0 | Korean <kde-kr@kde.org> | 
- | [kf5-karchive]({{< ref "/f42/package/kf5-karchive.md" >}}) | 488 | 488 | 100.0 | Korean <kde-kr@kde.org> | 
- | [kf5-kauth]({{< ref "/f42/package/kf5-kauth.md" >}}) | 73 | 73 | 100.0 | Korean <kde-kr@kde.org> | 
- | [kf5-kblog]({{< ref "/f42/package/kf5-kblog.md" >}}) | 243 | 243 | 100.0 | Korean <kde-kr@kde.org> | 
- | [kf5-kbookmarks]({{< ref "/f42/package/kf5-kbookmarks.md" >}}) | 230 | 230 | 100.0 | Korean <kde-kr@kde.org> | 
- | [kf5-kcalendarutils]({{< ref "/f42/package/kf5-kcalendarutils.md" >}}) | 1437 | 1437 | 100.0 | Korean <kde-kr@kde.org> | 
- | [kf5-kcmutils]({{< ref "/f42/package/kf5-kcmutils.md" >}}) | 266 | 266 | 100.0 | Korean <kde-kr@kde.org> | 
- | [kf5-kcodecs]({{< ref "/f42/package/kf5-kcodecs.md" >}}) | 370 | 370 | 100.0 | Korean <kde-kr@kde.org> | 
- | [kf5-kcompletion]({{< ref "/f42/package/kf5-kcompletion.md" >}}) | 18 | 18 | 100.0 | Korean <kde-kr@kde.org> | 
- | [kf5-kconfig]({{< ref "/f42/package/kf5-kconfig.md" >}}) | 289 | 289 | 100.0 | Korean <kde-kr@kde.org> | 
- | [kf5-kconfigwidgets]({{< ref "/f42/package/kf5-kconfigwidgets.md" >}}) | 342 | 342 | 100.0 | Korean <kde-kr@kde.org> | 
- | [kf5-kcoreaddons]({{< ref "/f42/package/kf5-kcoreaddons.md" >}}) | 382 | 382 | 100.0 | Korean <kde-kr@kde.org> | 
- | [kf5-kdav]({{< ref "/f42/package/kf5-kdav.md" >}}) | 185 | 185 | 100.0 | Korean <kde-kr@kde.org> | 
- | [kf5-kdbusaddons]({{< ref "/f42/package/kf5-kdbusaddons.md" >}}) | 48 | 48 | 100.0 | Korean <kde-kr@kde.org> | 
- | [kf5-kdeclarative]({{< ref "/f42/package/kf5-kdeclarative.md" >}}) | 161 | 161 | 100.0 | Korean <kde-i18n-doc@kde.org> | 
- | [kf5-kdesignerplugin]({{< ref "/f42/package/kf5-kdesignerplugin.md" >}}) | 54 | 54 | 100.0 | Korean <kde-kr@kde.org> | 
- | [kf5-kdesu]({{< ref "/f42/package/kf5-kdesu.md" >}}) | 19 | 19 | 100.0 | Korean <kde-kr@kde.org> | 
- | [kf5-kdnssd]({{< ref "/f42/package/kf5-kdnssd.md" >}}) | 3 | 3 | 100.0 | Korean <kde-kr@kde.org> | 
- | [kf5-kdoctools]({{< ref "/f42/package/kf5-kdoctools.md" >}}) | 8 | 8 | 100.0 | Korean <kde-kr@kde.org> | 
- | [kf5-kfilemetadata]({{< ref "/f42/package/kf5-kfilemetadata.md" >}}) | 299 | 299 | 100.0 | Korean <kde-kr@kde.org> | 
- | [kf5-kglobalaccel]({{< ref "/f42/package/kf5-kglobalaccel.md" >}}) | 71 | 71 | 100.0 | Korean <kde-kr@kde.org> | 
- | [kf5-kholidays]({{< ref "/f42/package/kf5-kholidays.md" >}}) | 150 | 150 | 100.0 | Korean <kde-i18n-doc@kde.org> | 
- | [kf5-khtml]({{< ref "/f42/package/kf5-khtml.md" >}}) | 1667 | 1667 | 100.0 | Korean <kde-kr@kde.org> | 
- | [kf5-ki18n]({{< ref "/f42/package/kf5-ki18n.md" >}}) | 124 | 124 | 100.0 | Korean <kde-kr@kde.org> | 
- | [kf5-kiconthemes]({{< ref "/f42/package/kf5-kiconthemes.md" >}}) | 41 | 41 | 100.0 | Korean <kde-kr@kde.org> | 
- | [kf5-kidentitymanagement]({{< ref "/f42/package/kf5-kidentitymanagement.md" >}}) | 182 | 182 | 100.0 | Korean <kde-kr@kde.org> | 
- | [kf5-kimap]({{< ref "/f42/package/kf5-kimap.md" >}}) | 118 | 118 | 100.0 | Korean <kde-kr@kde.org> | 
- | [kf5-kinit]({{< ref "/f42/package/kf5-kinit.md" >}}) | 116 | 116 | 100.0 | Korean <kde-kr@kde.org> | 
- | [kf5-kio]({{< ref "/f42/package/kf5-kio.md" >}}) | 12037 | 12037 | 100.0 | Korean <kde-kr@kde.org> | 
- | [kf5-kipi-plugins]({{< ref "/f42/package/kf5-kipi-plugins.md" >}}) | 4675 | 4675 | 100.0 | Korean <kde-kr@kde.org> | 
- | [kf5-kirigami2]({{< ref "/f42/package/kf5-kirigami2.md" >}}) | 112 | 112 | 100.0 | Korean <kde-kr@kde.org> | 
- | [kf5-kitemviews]({{< ref "/f42/package/kf5-kitemviews.md" >}}) | 7 | 7 | 100.0 | Korean <kde-kr@kde.org> | 
- | [kf5-kjobwidgets]({{< ref "/f42/package/kf5-kjobwidgets.md" >}}) | 133 | 133 | 100.0 | Korean <kde-kr@kde.org> | 
- | [kf5-kjsembed]({{< ref "/f42/package/kf5-kjsembed.md" >}}) | 248 | 248 | 100.0 | Korean <kde-kr@kde.org> | 
- | [kf5-kldap]({{< ref "/f42/package/kf5-kldap.md" >}}) | 227 | 227 | 100.0 | Korean <kde-kr@kde.org> | 
- | [kf5-kmailtransport]({{< ref "/f42/package/kf5-kmailtransport.md" >}}) | 663 | 663 | 100.0 | Korean <kde-kr@kde.org> | 
- | [kf5-kmime]({{< ref "/f42/package/kf5-kmime.md" >}}) | 159 | 159 | 100.0 | Korean <kde-kr@kde.org> | 
- | [kf5-knewstuff]({{< ref "/f42/package/kf5-knewstuff.md" >}}) | 1631 | 1631 | 100.0 | Korean <kde-kr@kde.org> | 
- | [kf5-knotifications]({{< ref "/f42/package/kf5-knotifications.md" >}}) | 21 | 21 | 100.0 | Korean <kde-kr@kde.org> | 
- | [kf5-knotifyconfig]({{< ref "/f42/package/kf5-knotifyconfig.md" >}}) | 129 | 129 | 100.0 | Korean <kde-kr@kde.org> | 
- | [kf5-kontactinterface]({{< ref "/f42/package/kf5-kontactinterface.md" >}}) | 4 | 4 | 100.0 | Korean <kde-kr@kde.org> | 
- | [kf5-kpackage]({{< ref "/f42/package/kf5-kpackage.md" >}}) | 452 | 452 | 100.0 | Korean <kde-kr@kde.org> | 
- | [kf5-kparts]({{< ref "/f42/package/kf5-kparts.md" >}}) | 138 | 138 | 100.0 | Korean <kde-kr@kde.org> | 
- | [kf5-kpeople]({{< ref "/f42/package/kf5-kpeople.md" >}}) | 13 | 13 | 100.0 | Korean <kde-kr@kde.org> | 
- | [kf5-kpimtextedit]({{< ref "/f42/package/kf5-kpimtextedit.md" >}}) | 382 | 382 | 100.0 | Korean <kde-kr@kde.org> | 
- | [kf5-kpty]({{< ref "/f42/package/kf5-kpty.md" >}}) | 15 | 15 | 100.0 | Korean <kde-kr@kde.org> | 
- | [kf5-kross]({{< ref "/f42/package/kf5-kross.md" >}}) | 100 | 100 | 100.0 | Korean <kde-kr@kde.org> | 
- | [kf5-kservice]({{< ref "/f42/package/kf5-kservice.md" >}}) | 173 | 173 | 100.0 | Korean <kde-kr@kde.org> | 
- | [kf5-ksmtp]({{< ref "/f42/package/kf5-ksmtp.md" >}}) | 86 | 86 | 100.0 | Korean <kde-kr@kde.org> | 
- | [kf5-ktexteditor]({{< ref "/f42/package/kf5-ktexteditor.md" >}}) | 9233 | 9233 | 100.0 | Korean <kde-kr@kde.org> | 
- | [kf5-ktextwidgets]({{< ref "/f42/package/kf5-ktextwidgets.md" >}}) | 473 | 473 | 100.0 | Korean <kde-kr@kde.org> | 
- | [kf5-ktnef]({{< ref "/f42/package/kf5-ktnef.md" >}}) | 355 | 355 | 100.0 | Korean <kde-kr@kde.org> | 
- | [kf5-kunitconversion]({{< ref "/f42/package/kf5-kunitconversion.md" >}}) | 5757 | 5757 | 100.0 | Korean <kde-kr@kde.org> | 
- | [kf5-kwallet]({{< ref "/f42/package/kf5-kwallet.md" >}}) | 1460 | 1460 | 100.0 | Korean <kde-kr@kde.org> | 
- | [kf5-kwidgetsaddons]({{< ref "/f42/package/kf5-kwidgetsaddons.md" >}}) | 1293 | 1293 | 100.0 | Korean <kde-kr@kde.org> | 
- | [kf5-kwindowsystem]({{< ref "/f42/package/kf5-kwindowsystem.md" >}}) | 2 | 2 | 100.0 | Korean <kde-kr@kde.org> | 
- | [kf5-kxmlgui]({{< ref "/f42/package/kf5-kxmlgui.md" >}}) | 1574 | 1574 | 100.0 | Korean <kde-kr@kde.org> | 
- | [kf5-kxmlrpcclient]({{< ref "/f42/package/kf5-kxmlrpcclient.md" >}}) | 13 | 13 | 100.0 | Korean <kde-kr@kde.org> | 
- | [kf5-libgravatar]({{< ref "/f42/package/kf5-libgravatar.md" >}}) | 23 | 23 | 100.0 | Korean <kde-kr@kde.org> | 
- | [kf5-libkcddb]({{< ref "/f42/package/kf5-libkcddb.md" >}}) | 400 | 400 | 100.0 | Korean <kde-kr@kde.org> | 
- | [kf5-libkdepim]({{< ref "/f42/package/kf5-libkdepim.md" >}}) | 35 | 35 | 100.0 | Korean <kde-kr@kde.org> | 
- | [kf5-libkgapi]({{< ref "/f42/package/kf5-libkgapi.md" >}}) | 378 | 378 | 100.0 | Korean <kde-kr@kde.org> | 
- | [kf5-libkleo]({{< ref "/f42/package/kf5-libkleo.md" >}}) | 2423 | 2423 | 100.0 | Korean <kde-kr@kde.org> | 
- | [kf5-libksieve]({{< ref "/f42/package/kf5-libksieve.md" >}}) | 3122 | 3122 | 100.0 | Korean <kde-kr@kde.org> | 
- | [kf5-libktorrent]({{< ref "/f42/package/kf5-libktorrent.md" >}}) | 465 | 465 | 100.0 | Korean <kde-kr@kde.org> | 
- | [kf5-mailcommon]({{< ref "/f42/package/kf5-mailcommon.md" >}}) | 2755 | 2755 | 100.0 | Korean <kde-kr@kde.org> | 
- | [kf5-mailimporter]({{< ref "/f42/package/kf5-mailimporter.md" >}}) | 1408 | 1408 | 100.0 | Korean <kde-kr@kde.org> | 
- | [kf5-messagelib]({{< ref "/f42/package/kf5-messagelib.md" >}}) | 7833 | 7833 | 100.0 | Korean <kde-kr@kde.org> | 
- | [kf5-pimcommon]({{< ref "/f42/package/kf5-pimcommon.md" >}}) | 830 | 830 | 100.0 | Korean <kde-kr@kde.org> | 
- | [kf5-plasma]({{< ref "/f42/package/kf5-plasma.md" >}}) | 362 | 362 | 100.0 | Korean <kde-kr@kde.org> | 
- | [kf5-purpose]({{< ref "/f42/package/kf5-purpose.md" >}}) | 323 | 323 | 100.0 | Korean <kde-kr@kde.org> | 
- | [kf5-solid]({{< ref "/f42/package/kf5-solid.md" >}}) | 588 | 588 | 100.0 | Korean <kde-kr@kde.org> | 
- | [kf5-sonnet]({{< ref "/f42/package/kf5-sonnet.md" >}}) | 683 | 683 | 100.0 | Korean <kde-kr@kde.org> | 
- | [kf5-syntax-highlighting]({{< ref "/f42/package/kf5-syntax-highlighting.md" >}}) | 647 | 647 | 100.0 | Korean <kde-kr@kde.org> | 
- | [kf6-baloo]({{< ref "/f42/package/kf6-baloo.md" >}}) | 869 | 869 | 100.0 | Korean <kde-kr@kde.org> | 
- | [kf6-karchive]({{< ref "/f42/package/kf6-karchive.md" >}}) | 540 | 540 | 100.0 | Korean <kde-kr@kde.org> | 
- | [kf6-kauth]({{< ref "/f42/package/kf6-kauth.md" >}}) | 73 | 73 | 100.0 | Korean <kde-kr@kde.org> | 
- | [kf6-kbookmarks]({{< ref "/f42/package/kf6-kbookmarks.md" >}}) | 179 | 179 | 100.0 | Korean <kde-kr@kde.org> | 
- | [kf6-kcmutils]({{< ref "/f42/package/kf6-kcmutils.md" >}}) | 200 | 200 | 100.0 | Korean <kde-kr@kde.org> | 
- | [kf6-kcodecs]({{< ref "/f42/package/kf6-kcodecs.md" >}}) | 370 | 370 | 100.0 | Korean <kde-kr@kde.org> | 
- | [kf6-kcolorscheme]({{< ref "/f42/package/kf6-kcolorscheme.md" >}}) | 1 | 1 | 100.0 | Korean <kde-kr@kde.org> | 
- | [kf6-kcompletion]({{< ref "/f42/package/kf6-kcompletion.md" >}}) | 18 | 18 | 100.0 | Korean <kde-kr@kde.org> | 
- | [kf6-kconfig]({{< ref "/f42/package/kf6-kconfig.md" >}}) | 550 | 550 | 100.0 | Korean <kde-kr@kde.org> | 
- | [kf6-kconfigwidgets]({{< ref "/f42/package/kf6-kconfigwidgets.md" >}}) | 312 | 312 | 100.0 | Korean <kde-kr@kde.org> | 
- | [kf6-kcoreaddons]({{< ref "/f42/package/kf6-kcoreaddons.md" >}}) | 485 | 485 | 100.0 | Korean <kde-kr@kde.org> | 
- | [kf6-kdav]({{< ref "/f42/package/kf6-kdav.md" >}}) | 185 | 185 | 100.0 | Korean <kde-kr@kde.org> | 
- | [kf6-kdbusaddons]({{< ref "/f42/package/kf6-kdbusaddons.md" >}}) | 48 | 48 | 100.0 | Korean <kde-kr@kde.org> | 
- | [kf6-kdeclarative]({{< ref "/f42/package/kf6-kdeclarative.md" >}}) | 169 | 169 | 100.0 | Korean <kde-kr@kde.org> | 
- | [kf6-kdesu]({{< ref "/f42/package/kf6-kdesu.md" >}}) | 19 | 19 | 100.0 | Korean <kde-kr@kde.org> | 
- | [kf6-kdnssd]({{< ref "/f42/package/kf6-kdnssd.md" >}}) | 3 | 3 | 100.0 | Korean <kde-kr@kde.org> | 
- | [kf6-kdoctools]({{< ref "/f42/package/kf6-kdoctools.md" >}}) | 8 | 8 | 100.0 | Korean <kde-kr@kde.org> | 
- | [kf6-kfilemetadata]({{< ref "/f42/package/kf6-kfilemetadata.md" >}}) | 309 | 309 | 100.0 | Korean <kde-kr@kde.org> | 
- | [kf6-kglobalaccel]({{< ref "/f42/package/kf6-kglobalaccel.md" >}}) | 34 | 34 | 100.0 | Korean <kde-kr@kde.org> | 
- | [kf6-kholidays]({{< ref "/f42/package/kf6-kholidays.md" >}}) | 150 | 150 | 100.0 | Korean <kde-i18n-doc@kde.org> | 
- | [kf6-ki18n]({{< ref "/f42/package/kf6-ki18n.md" >}}) | 124 | 124 | 100.0 | Korean <kde-kr@kde.org> | 
- | [kf6-kiconthemes]({{< ref "/f42/package/kf6-kiconthemes.md" >}}) | 46 | 46 | 100.0 | Korean <kde-kr@kde.org> | 
- | [kf6-kirigami-addons]({{< ref "/f42/package/kf6-kirigami-addons.md" >}}) | 693 | 693 | 100.0 | Korean <kde-kr@kde.org> | 
- | [kf6-kitemviews]({{< ref "/f42/package/kf6-kitemviews.md" >}}) | 6 | 6 | 100.0 | Korean <kde-kr@kde.org> | 
- | [kf6-kjobwidgets]({{< ref "/f42/package/kf6-kjobwidgets.md" >}}) | 139 | 139 | 100.0 | Korean <kde-kr@kde.org> | 
- | [kf6-knewstuff]({{< ref "/f42/package/kf6-knewstuff.md" >}}) | 1034 | 1034 | 100.0 | Korean <kde-kr@kde.org> | 
- | [kf6-knotifyconfig]({{< ref "/f42/package/kf6-knotifyconfig.md" >}}) | 19 | 19 | 100.0 | Korean <kde-kr@kde.org> | 
- | [kf6-kpackage]({{< ref "/f42/package/kf6-kpackage.md" >}}) | 338 | 338 | 100.0 | Korean <kde-kr@kde.org> | 
- | [kf6-kparts]({{< ref "/f42/package/kf6-kparts.md" >}}) | 57 | 57 | 100.0 | Korean <kde-kr@kde.org> | 
- | [kf6-kpeople]({{< ref "/f42/package/kf6-kpeople.md" >}}) | 15 | 15 | 100.0 | Korean <kde-kr@kde.org> | 
- | [kf6-kpty]({{< ref "/f42/package/kf6-kpty.md" >}}) | 15 | 15 | 100.0 | Korean <kde-kr@kde.org> | 
- | [kf6-kservice]({{< ref "/f42/package/kf6-kservice.md" >}}) | 45 | 45 | 100.0 | Korean <kde-kr@kde.org> | 
- | [kf6-kstatusnotifieritem]({{< ref "/f42/package/kf6-kstatusnotifieritem.md" >}}) | 3 | 3 | 100.0 | Korean <kde-kr@kde.org> | 
- | [kf6-ksvg]({{< ref "/f42/package/kf6-ksvg.md" >}}) | 4 | 4 | 100.0 | Korean <kde-kr@kde.org> | 
- | [kf6-ktexteditor]({{< ref "/f42/package/kf6-ktexteditor.md" >}}) | 9463 | 9463 | 100.0 | Korean <kde-kr@kde.org> | 
- | [kf6-ktextwidgets]({{< ref "/f42/package/kf6-ktextwidgets.md" >}}) | 473 | 473 | 100.0 | Korean <kde-kr@kde.org> | 
- | [kf6-kunitconversion]({{< ref "/f42/package/kf6-kunitconversion.md" >}}) | 5894 | 5894 | 100.0 | Korean <kde-kr@kde.org> | 
- | [kf6-kuserfeedback]({{< ref "/f42/package/kf6-kuserfeedback.md" >}}) | 1157 | 1157 | 100.0 | Korean <kde-kr@kde.org> | 
- | [kf6-kwallet]({{< ref "/f42/package/kf6-kwallet.md" >}}) | 1185 | 1185 | 100.0 | Korean <kde-kr@kde.org> | 
- | [kf6-kwidgetsaddons]({{< ref "/f42/package/kf6-kwidgetsaddons.md" >}}) | 1277 | 1277 | 100.0 | Korean <kde-kr@kde.org> | 
- | [kf6-kwindowsystem]({{< ref "/f42/package/kf6-kwindowsystem.md" >}}) | 2 | 2 | 100.0 | Korean <kde-kr@kde.org> | 
- | [kf6-kxmlgui]({{< ref "/f42/package/kf6-kxmlgui.md" >}}) | 1289 | 1289 | 100.0 | Korean <kde-kr@kde.org> | 
- | [kf6-purpose]({{< ref "/f42/package/kf6-purpose.md" >}}) | 319 | 319 | 100.0 | Korean <kde-kr@kde.org> | 
- | [kf6-qqc2-desktop-style]({{< ref "/f42/package/kf6-qqc2-desktop-style.md" >}}) | 22 | 22 | 100.0 | Korean <kde-kr@kde.org> | 
- | [kf6-solid]({{< ref "/f42/package/kf6-solid.md" >}}) | 605 | 605 | 100.0 | Korean <kde-kr@kde.org> | 
- | [kf6-sonnet]({{< ref "/f42/package/kf6-sonnet.md" >}}) | 684 | 684 | 100.0 | Korean <kde-kr@kde.org> | 
- | [kfind]({{< ref "/f42/package/kfind.md" >}}) | 517 | 517 | 100.0 | Korean <kde-kr@kde.org> | 
- | [kfloppy]({{< ref "/f42/package/kfloppy.md" >}}) | 641 | 641 | 100.0 | Korean <kde-kr@kde.org> | 
- | [kfourinline]({{< ref "/f42/package/kfourinline.md" >}}) | 384 | 384 | 100.0 | Korean <kde-kr@kde.org> | 
- | [kgamma]({{< ref "/f42/package/kgamma.md" >}}) | 38 | 38 | 100.0 | Korean <kde-kr@kde.org> | 
- | [kget]({{< ref "/f42/package/kget.md" >}}) | 2767 | 2767 | 100.0 | Korean <kde-kr@kde.org> | 
- | [kgpg]({{< ref "/f42/package/kgpg.md" >}}) | 4912 | 4912 | 100.0 | Korean <kde-kr@kde.org> | 
- | [kgraphviewer]({{< ref "/f42/package/kgraphviewer.md" >}}) | 1193 | 1193 | 100.0 | Korean <kde-kr@kde.org> | 
- | [khelpcenter]({{< ref "/f42/package/khelpcenter.md" >}}) | 221 | 221 | 100.0 | Korean <kde-kr@kde.org> | 
- | [kid3]({{< ref "/f42/package/kid3.md" >}}) | 3194 | 3194 | 100.0 | Korean <kde-kr@kde.org> | 
- | [kidentitymanagement]({{< ref "/f42/package/kidentitymanagement.md" >}}) | 260 | 260 | 100.0 | Korean <kde-kr@kde.org> | 
- | [kigo]({{< ref "/f42/package/kigo.md" >}}) | 508 | 508 | 100.0 | Korean <kde-kr@kde.org> | 
- | [kile]({{< ref "/f42/package/kile.md" >}}) | 12868 | 12868 | 100.0 | Korean <kde-kr@kde.org> | 
- | [killbots]({{< ref "/f42/package/killbots.md" >}}) | 637 | 637 | 100.0 | Korean <kde-kr@kde.org> | 
- | [kimagemapeditor]({{< ref "/f42/package/kimagemapeditor.md" >}}) | 620 | 620 | 100.0 | Korean <kde-kr@kde.org> | 
- | [kimap]({{< ref "/f42/package/kimap.md" >}}) | 118 | 118 | 100.0 | Korean <kde-kr@kde.org> | 
- | [kinfocenter]({{< ref "/f42/package/kinfocenter.md" >}}) | 527 | 527 | 100.0 | Korean <kde-kr@kde.org> | 
- | [kio-admin]({{< ref "/f42/package/kio-admin.md" >}}) | 3 | 3 | 100.0 | Korean <kde-kr@kde.org> | 
- | [kio-extras]({{< ref "/f42/package/kio-extras.md" >}}) | 2928 | 2928 | 100.0 | Korean <kde-kr@kde.org> | 
- | [kio-extras-kf5]({{< ref "/f42/package/kio-extras-kf5.md" >}}) | 1130 | 1130 | 100.0 | Korean <kde-kr@kde.org> | 
- | [kio-gdrive]({{< ref "/f42/package/kio-gdrive.md" >}}) | 78 | 78 | 100.0 | Korean <kde-kr@kde.org> | 
- | [kio_gopher]({{< ref "/f42/package/kio_gopher.md" >}}) | 17 | 17 | 100.0 | Korean <kde@peremen.name> | 
- | [kio_mtp]({{< ref "/f42/package/kio_mtp.md" >}}) | 17 | 17 | 100.0 | Korean <kde@peremen.name> | 
- | [kirigami-gallery]({{< ref "/f42/package/kirigami-gallery.md" >}}) | 982 | 982 | 100.0 | Korean <kde-kr@kde.org> | 
- | [kiriki]({{< ref "/f42/package/kiriki.md" >}}) | 145 | 145 | 100.0 | Korean <kde-kr@kde.org> | 
- | [kiten]({{< ref "/f42/package/kiten.md" >}}) | 651 | 651 | 100.0 | Korean <kde-kr@kde.org> | 
- | [kitinerary]({{< ref "/f42/package/kitinerary.md" >}}) | 108 | 108 | 100.0 | Korean <kde-kr@kde.org> | 
- | [kjournald]({{< ref "/f42/package/kjournald.md" >}}) | 130 | 130 | 100.0 | Korean <kde-kr@kde.org> | 
- | [kjumpingcube]({{< ref "/f42/package/kjumpingcube.md" >}}) | 413 | 413 | 100.0 | Korean <kde-kr@kde.org> | 
- | [kldap]({{< ref "/f42/package/kldap.md" >}}) | 215 | 215 | 100.0 | Korean <kde-kr@kde.org> | 
- | [klettres]({{< ref "/f42/package/klettres.md" >}}) | 440 | 440 | 100.0 | Korean <kde-kr@kde.org> | 
- | [klevernotes]({{< ref "/f42/package/klevernotes.md" >}}) | 962 | 962 | 100.0 | Korean <kde-kr@kde.org> | 
- | [klickety]({{< ref "/f42/package/klickety.md" >}}) | 178 | 178 | 100.0 | Korean <kde-kr@kde.org> | 
- | [klines]({{< ref "/f42/package/klines.md" >}}) | 99 | 99 | 100.0 | Korean <kde-kr@kde.org> | 
- | [kmag]({{< ref "/f42/package/kmag.md" >}}) | 432 | 432 | 100.0 | Korean <kde-kr@kde.org> | 
- | [kmail-account-wizard]({{< ref "/f42/package/kmail-account-wizard.md" >}}) | 281 | 281 | 100.0 | Korean <kde-kr@kde.org> | 
- | [kmailtransport]({{< ref "/f42/package/kmailtransport.md" >}}) | 669 | 669 | 100.0 | Korean <kde-kr@kde.org> | 
- | [kmenuedit]({{< ref "/f42/package/kmenuedit.md" >}}) | 314 | 314 | 100.0 | Korean <kde-kr@kde.org> | 
- | [kmime]({{< ref "/f42/package/kmime.md" >}}) | 152 | 152 | 100.0 | Korean <kde-kr@kde.org> | 
- | [kmines]({{< ref "/f42/package/kmines.md" >}}) | 164 | 164 | 100.0 | Korean <kde-kr@kde.org> | 
- | [kmix]({{< ref "/f42/package/kmix.md" >}}) | 1159 | 1159 | 100.0 | Korean <kde-kr@kde.org> | 
- | [kmousetool]({{< ref "/f42/package/kmousetool.md" >}}) | 147 | 147 | 100.0 | Korean <kde-kr@kde.org> | 
- | [kmouth]({{< ref "/f42/package/kmouth.md" >}}) | 1474 | 1474 | 100.0 | Korean <kde-kr@kde.org> | 
- | [kmplot]({{< ref "/f42/package/kmplot.md" >}}) | 2501 | 2501 | 100.0 | Korean <kde-kr@kde.org> | 
- | [knavalbattle]({{< ref "/f42/package/knavalbattle.md" >}}) | 401 | 401 | 100.0 | Korean <kde-kr@kde.org> | 
- | [knetwalk]({{< ref "/f42/package/knetwalk.md" >}}) | 236 | 236 | 100.0 | Korean <kde-kr@kde.org> | 
- | [knights]({{< ref "/f42/package/knights.md" >}}) | 797 | 797 | 100.0 | Korean <kde-kr@kde.org> | 
- | [knotes]({{< ref "/f42/package/knotes.md" >}}) | 787 | 787 | 100.0 | Korean <kde-kr@kde.org> | 
- | [kolf]({{< ref "/f42/package/kolf.md" >}}) | 405 | 405 | 100.0 | Korean <kde-kr@kde.org> | 
- | [kollision]({{< ref "/f42/package/kollision.md" >}}) | 109 | 109 | 100.0 | Korean <kde-kr@kde.org> | 
- | [kolorfill]({{< ref "/f42/package/kolorfill.md" >}}) | 60 | 60 | 100.0 | Korean <kde-kr@kde.org> | 
- | [kolourpaint]({{< ref "/f42/package/kolourpaint.md" >}}) | 2661 | 2661 | 100.0 | Korean <kde-kr@kde.org> | 
- | [kompare]({{< ref "/f42/package/kompare.md" >}}) | 1413 | 1413 | 100.0 | Korean <kde-kr@kde.org> | 
- | [kongress]({{< ref "/f42/package/kongress.md" >}}) | 176 | 176 | 100.0 | Korean <kde-kr@kde.org> | 
- | [konquest]({{< ref "/f42/package/konquest.md" >}}) | 248 | 248 | 100.0 | Korean <kde-kr@kde.org> | 
- | [konsole]({{< ref "/f42/package/konsole.md" >}}) | 4282 | 4282 | 100.0 | Korean <kde-kr@kde.org> | 
- | [konsole5]({{< ref "/f42/package/konsole5.md" >}}) | 3996 | 3996 | 100.0 | Korean <kde-kr@kde.org> | 
- | [kontactinterface]({{< ref "/f42/package/kontactinterface.md" >}}) | 4 | 4 | 100.0 | Korean <kde-kr@kde.org> | 
- | [kontrast]({{< ref "/f42/package/kontrast.md" >}}) | 327 | 327 | 100.0 | Korean <kde-kr@kde.org> | 
- | [kopeninghours]({{< ref "/f42/package/kopeninghours.md" >}}) | 160 | 160 | 100.0 | Korean <kde-kr@kde.org> | 
- | [kopete]({{< ref "/f42/package/kopete.md" >}}) | 17175 | 17175 | 100.0 | Korean <kde-kr@kde.org> | 
- | [kosmindoormap]({{< ref "/f42/package/kosmindoormap.md" >}}) | 623 | 623 | 100.0 | Korean <kde-kr@kde.org> | 
- | [kpat]({{< ref "/f42/package/kpat.md" >}}) | 589 | 589 | 100.0 | Korean <kde-kr@kde.org> | 
- | [kpimtextedit]({{< ref "/f42/package/kpimtextedit.md" >}}) | 274 | 274 | 100.0 | Korean <kde-kr@kde.org> | 
- | [kpipewire]({{< ref "/f42/package/kpipewire.md" >}}) | 26 | 26 | 100.0 | Korean <kde-kr@kde.org> | 
- | [kpmcore]({{< ref "/f42/package/kpmcore.md" >}}) | 3297 | 3297 | 100.0 | Korean <kde-kr@kde.org> | 
- | [kproperty]({{< ref "/f42/package/kproperty.md" >}}) | 145 | 145 | 100.0 | Korean <kde@peremen.name> | 
- | [krdc]({{< ref "/f42/package/krdc.md" >}}) | 1205 | 1205 | 100.0 | Korean <kde-kr@kde.org> | 
- | [krdp]({{< ref "/f42/package/krdp.md" >}}) | 322 | 322 | 100.0 | Korean <kde-kr@kde.org> | 
- | [krecorder]({{< ref "/f42/package/krecorder.md" >}}) | 128 | 128 | 100.0 | Korean <kde-kr@kde.org> | 
- | [krename]({{< ref "/f42/package/krename.md" >}}) | 2142 | 2142 | 100.0 | Korean <kde-kr@kde.org> | 
- | [kreport]({{< ref "/f42/package/kreport.md" >}}) | 455 | 455 | 100.0 | Korean <kde@peremen.name> | 
- | [kreversi]({{< ref "/f42/package/kreversi.md" >}}) | 404 | 404 | 100.0 | Korean <kde-kr@kde.org> | 
- | [krfb]({{< ref "/f42/package/krfb.md" >}}) | 734 | 734 | 100.0 | Korean <kde-kr@kde.org> | 
- | [kronometer]({{< ref "/f42/package/kronometer.md" >}}) | 233 | 233 | 100.0 | Korean <kde-kr@kde.org> | 
- | [kruler]({{< ref "/f42/package/kruler.md" >}}) | 158 | 158 | 100.0 | Korean <kde-kr@kde.org> | 
- | [krusader]({{< ref "/f42/package/krusader.md" >}}) | 8096 | 8096 | 100.0 | Korean <kde-kr@kde.org> | 
- | [ksanecore]({{< ref "/f42/package/ksanecore.md" >}}) | 59 | 59 | 100.0 | Korean <kde-kr@kde.org> | 
- | [kscreen]({{< ref "/f42/package/kscreen.md" >}}) | 948 | 948 | 100.0 | Korean <kde-kr@kde.org> | 
- | [kscreenlocker]({{< ref "/f42/package/kscreenlocker.md" >}}) | 320 | 320 | 100.0 | Korean <kde-kr@kde.org> | 
- | [kshisen]({{< ref "/f42/package/kshisen.md" >}}) | 667 | 667 | 100.0 | Korean <kde-kr@kde.org> | 
- | [ksig]({{< ref "/f42/package/ksig.md" >}}) | 85 | 85 | 100.0 | Korean <cho.sungjae@gmail.com> | 
- | [ksmtp]({{< ref "/f42/package/ksmtp.md" >}}) | 86 | 86 | 100.0 | Korean <kde-kr@kde.org> | 
- | [ksnakeduel]({{< ref "/f42/package/ksnakeduel.md" >}}) | 243 | 243 | 100.0 | Korean <kde-kr@kde.org> | 
- | [kspaceduel]({{< ref "/f42/package/kspaceduel.md" >}}) | 165 | 165 | 100.0 | Korean <kde-kr@kde.org> | 
- | [ksquares]({{< ref "/f42/package/ksquares.md" >}}) | 293 | 293 | 100.0 | Korean <kde-kr@kde.org> | 
- | [ksshaskpass]({{< ref "/f42/package/ksshaskpass.md" >}}) | 55 | 55 | 100.0 | Korean <kde-kr@kde.org> | 
- | [ksudoku]({{< ref "/f42/package/ksudoku.md" >}}) | 1849 | 1849 | 100.0 | Korean <kde-kr@kde.org> | 
- | [ksystemlog]({{< ref "/f42/package/ksystemlog.md" >}}) | 3101 | 3101 | 100.0 | Korean <kde-kr@kde.org> | 
- | [ksystemstats]({{< ref "/f42/package/ksystemstats.md" >}}) | 949 | 949 | 100.0 | Korean <kde-kr@kde.org> | 
- | [kteatime]({{< ref "/f42/package/kteatime.md" >}}) | 203 | 203 | 100.0 | Korean <kde-kr@kde.org> | 
- | [ktextaddons-qt5]({{< ref "/f42/package/ktextaddons-qt5.md" >}}) | 954 | 954 | 100.0 | Korean <kde-kr@kde.org> | 
- | [ktimer]({{< ref "/f42/package/ktimer.md" >}}) | 258 | 258 | 100.0 | Korean <kde-kr@kde.org> | 
- | [ktnef]({{< ref "/f42/package/ktnef.md" >}}) | 355 | 355 | 100.0 | Korean <kde-kr@kde.org> | 
- | [ktouch]({{< ref "/f42/package/ktouch.md" >}}) | 964 | 964 | 100.0 | Korean <kde-kr@kde.org> | 
- | [ktp-desktop-applets]({{< ref "/f42/package/ktp-desktop-applets.md" >}}) | 75 | 75 | 100.0 | Korean <kde-kr@kde.org> | 
- | [ktrip]({{< ref "/f42/package/ktrip.md" >}}) | 144 | 144 | 100.0 | Korean <kde-kr@kde.org> | 
- | [kturtle]({{< ref "/f42/package/kturtle.md" >}}) | 1538 | 1538 | 100.0 | Korean <kde-kr@kde.org> | 
- | [kubernetes1.29]({{< ref "/f42/package/kubernetes1.29.md" >}}) | 43 | 43 | 100.0 |  | 
- | [kubernetes1.30]({{< ref "/f42/package/kubernetes1.30.md" >}}) | 43 | 43 | 100.0 |  | 
- | [kubernetes1.31]({{< ref "/f42/package/kubernetes1.31.md" >}}) | 43 | 43 | 100.0 |  | 
- | [kubrick]({{< ref "/f42/package/kubrick.md" >}}) | 1213 | 1213 | 100.0 | Korean <kde-kr@kde.org> | 
- | [kunifiedpush]({{< ref "/f42/package/kunifiedpush.md" >}}) | 180 | 180 | 100.0 | Korean <kde-kr@kde.org> | 
- | [kuserfeedback]({{< ref "/f42/package/kuserfeedback.md" >}}) | 1157 | 1157 | 100.0 | Korean <kde-kr@kde.org> | 
- | [kwalletmanager5]({{< ref "/f42/package/kwalletmanager5.md" >}}) | 828 | 828 | 100.0 | Korean <kde-kr@kde.org> | 
- | [kwave]({{< ref "/f42/package/kwave.md" >}}) | 5821 | 5821 | 100.0 | Korean <kde-kr@kde.org> | 
- | [kweather]({{< ref "/f42/package/kweather.md" >}}) | 215 | 215 | 100.0 | Korean <kde-kr@kde.org> | 
- | [kweathercore]({{< ref "/f42/package/kweathercore.md" >}}) | 122 | 122 | 100.0 | Korean <kde-kr@kde.org> | 
- | [kwebkitpart]({{< ref "/f42/package/kwebkitpart.md" >}}) | 669 | 669 | 100.0 | Korean <kde@peremen.name> | 
- | [kwin]({{< ref "/f42/package/kwin.md" >}}) | 6359 | 6359 | 100.0 | Korean <kde-kr@kde.org> | 
- | [kwin-x11]({{< ref "/f42/package/kwin-x11.md" >}}) | 5886 | 5886 | 100.0 | Korean <kde-kr@kde.org> | 
- | [kwordquiz]({{< ref "/f42/package/kwordquiz.md" >}}) | 258 | 258 | 100.0 | Korean <kde-kr@kde.org> | 
- | [labwc]({{< ref "/f42/package/labwc.md" >}}) | 24 | 24 | 100.0 | Korean <https://translate.lxqt-project.org/projects/labwc/labwc/ko/> | 
- | [libadwaita]({{< ref "/f42/package/libadwaita.md" >}}) | 417 | 417 | 100.0 | Korean <gnome-kr@googlegroups.com> | 
- | [libalkimia]({{< ref "/f42/package/libalkimia.md" >}}) | 1066 | 1066 | 100.0 | Korean <kde-kr@kde.org> | 
- | [libbonobo]({{< ref "/f42/package/libbonobo.md" >}}) | 547 | 547 | 100.0 | Korean <gnome-kr-translation@lists.sourceforge.net> | 
- | [libbonoboui]({{< ref "/f42/package/libbonoboui.md" >}}) | 368 | 368 | 100.0 | GNOME Korea <gnome-kr-hackers@lists.kldp.net> | 
- | [libbytesize]({{< ref "/f42/package/libbytesize.md" >}}) | 17 | 17 | 100.0 | Korean <https://translate.fedoraproject.org/projects/blivet/libbytesize/ko/> | 
- | [libcryptui]({{< ref "/f42/package/libcryptui.md" >}}) | 3012 | 3012 | 100.0 | Korean <gnome-kr@googlegroups.com> | 
- | [libdnf]({{< ref "/f42/package/libdnf.md" >}}) | 1664 | 1664 | 100.0 | Korean <https://translate.fedoraproject.org/projects/dnf/libdnf-dnf-4-master/ko/> | 
- | [libfilezilla]({{< ref "/f42/package/libfilezilla.md" >}}) | 308 | 308 | 100.0 | Korean (Republic of Korea) | 
- | [libgdata]({{< ref "/f42/package/libgdata.md" >}}) | 694 | 694 | 100.0 | Korean <gnome-kr@googlegroups.com> | 
- | [libgdl]({{< ref "/f42/package/libgdl.md" >}}) | 604 | 604 | 100.0 | GNOME Korean <gnome-kr@googlegroups.com> | 
- | [libgnome]({{< ref "/f42/package/libgnome.md" >}}) | 1773 | 1773 | 100.0 | GNOME Korea <gnome-kr@googlegroups.com> | 
- | [libgnome-games-support]({{< ref "/f42/package/libgnome-games-support.md" >}}) | 43 | 43 | 100.0 | Korean <gnome-kr@googlegroups.com> | 
- | [libgnome-games-support1]({{< ref "/f42/package/libgnome-games-support1.md" >}}) | 43 | 43 | 100.0 | Korean <gnome-kr@googlegroups.com> | 
- | [libgnome-keyring]({{< ref "/f42/package/libgnome-keyring.md" >}}) | 44 | 44 | 100.0 | GNOME Korea <gnome-kr@googlegroups.com> | 
- | [libgnomecanvas]({{< ref "/f42/package/libgnomecanvas.md" >}}) | 378 | 378 | 100.0 | GNOME Korea <gnome-kr-hackers@lists.kldp.net> | 
- | [libgnomekbd]({{< ref "/f42/package/libgnomekbd.md" >}}) | 242 | 242 | 100.0 | GNOME Korea <gnome-kr@googlegroups.com> | 
- | [libgnomeui]({{< ref "/f42/package/libgnomeui.md" >}}) | 1309 | 1309 | 100.0 | GNOME Korea <gnome-kr-hackers@lists.kldp.net> | 
- | [libgravatar]({{< ref "/f42/package/libgravatar.md" >}}) | 25 | 25 | 100.0 | Korean <kde-kr@kde.org> | 
- | [libgsf]({{< ref "/f42/package/libgsf.md" >}}) | 696 | 696 | 100.0 | Korean <gnome-kr@googlegroups.com> | 
- | [libgtop2]({{< ref "/f42/package/libgtop2.md" >}}) | 126 | 126 | 100.0 | GNOME Korea <gnome-kr@googlegroups.com> | 
- | [libhandy]({{< ref "/f42/package/libhandy.md" >}}) | 1408 | 1408 | 100.0 | Korean <gnome-kr@googlegroups.com> | 
- | [libidn2]({{< ref "/f42/package/libidn2.md" >}}) | 322 | 322 | 100.0 | Korean <translation-team-ko@googlegroups.com> | 
- | [libkcddb]({{< ref "/f42/package/libkcddb.md" >}}) | 374 | 374 | 100.0 | Korean <kde-kr@kde.org> | 
- | [libkcompactdisc]({{< ref "/f42/package/libkcompactdisc.md" >}}) | 15 | 15 | 100.0 | Korean <kde-kr@kde.org> | 
- | [libkdegames]({{< ref "/f42/package/libkdegames.md" >}}) | 316 | 316 | 100.0 | Korean <kde-kr@kde.org> | 
- | [libkdepim]({{< ref "/f42/package/libkdepim.md" >}}) | 36 | 36 | 100.0 | Korean <kde-kr@kde.org> | 
- | [libkeduvocdocument]({{< ref "/f42/package/libkeduvocdocument.md" >}}) | 171 | 171 | 100.0 | Korean <kde-kr@kde.org> | 
- | [libkgapi]({{< ref "/f42/package/libkgapi.md" >}}) | 378 | 378 | 100.0 | Korean <kde-kr@kde.org> | 
- | [libkmahjongg]({{< ref "/f42/package/libkmahjongg.md" >}}) | 11 | 11 | 100.0 | Korean <kde-kr@kde.org> | 
- | [libkomparediff2]({{< ref "/f42/package/libkomparediff2.md" >}}) | 143 | 143 | 100.0 | Korean <kde-kr@kde.org> | 
- | [libksane]({{< ref "/f42/package/libksane.md" >}}) | 284 | 284 | 100.0 | Korean <kde-kr@kde.org> | 
- | [libkscreen]({{< ref "/f42/package/libkscreen.md" >}}) | 24 | 24 | 100.0 | Korean <kde-kr@kde.org> | 
- | [libkscreen-qt5]({{< ref "/f42/package/libkscreen-qt5.md" >}}) | 24 | 24 | 100.0 | Korean <kde-kr@kde.org> | 
- | [libksieve]({{< ref "/f42/package/libksieve.md" >}}) | 3134 | 3134 | 100.0 | Korean <kde-kr@kde.org> | 
- | [libksysguard]({{< ref "/f42/package/libksysguard.md" >}}) | 1109 | 1109 | 100.0 | Korean <kde-kr@kde.org> | 
- | [libktorrent]({{< ref "/f42/package/libktorrent.md" >}}) | 465 | 465 | 100.0 | Korean <kde-kr@kde.org> | 
- | [libmypaint]({{< ref "/f42/package/libmypaint.md" >}}) | 2303 | 2303 | 100.0 | Korean <https://hosted.weblate.org/projects/mypaint/libmypaint/ko/> | 
- | [libosinfo]({{< ref "/f42/package/libosinfo.md" >}}) | 817 | 817 | 100.0 | Korean <https://translate.fedoraproject.org/projects/libosinfo/libosinfo/ko/> | 
- | [libpanel]({{< ref "/f42/package/libpanel.md" >}}) | 107 | 107 | 100.0 | Korean <gnome-kr@googlegroups.com> | 
- | [libpeas]({{< ref "/f42/package/libpeas.md" >}}) | 103 | 103 | 100.0 | Korean <gnome-kr@googlegroups.com> | 
- | [libpeas1]({{< ref "/f42/package/libpeas1.md" >}}) | 103 | 103 | 100.0 | Korean <gnome-kr@googlegroups.com> | 
- | [libplasma]({{< ref "/f42/package/libplasma.md" >}}) | 227 | 227 | 100.0 | Korean <kde-kr@kde.org> | 
- | [libpwquality]({{< ref "/f42/package/libpwquality.md" >}}) | 345 | 345 | 100.0 | Korean <https://translate.fedoraproject.org/projects/libpwquality/app/ko/> | 
- | [libreport]({{< ref "/f42/package/libreport.md" >}}) | 4928 | 4928 | 100.0 | Korean <https://translate.fedoraproject.org/projects/abrt/libreport/ko/> | 
- | [libsecret]({{< ref "/f42/package/libsecret.md" >}}) | 64 | 64 | 100.0 | GNOME Korea <gnome-kr@googlegroups.com> | 
- | [libshumate]({{< ref "/f42/package/libshumate.md" >}}) | 22 | 22 | 100.0 | Korean <gnome-kr@googlegroups.com> | 
- | [libsoup]({{< ref "/f42/package/libsoup.md" >}}) | 183 | 183 | 100.0 | Korean <gnome-kr@googlegroups.com> | 
- | [libsoup3]({{< ref "/f42/package/libsoup3.md" >}}) | 180 | 180 | 100.0 | Korean <gnome-kr@googlegroups.com> | 
- | [libspelling]({{< ref "/f42/package/libspelling.md" >}}) | 7 | 7 | 100.0 | Korean <gnome-kr@googlegroups.com> | 
- | [libvirt-glib]({{< ref "/f42/package/libvirt-glib.md" >}}) | 158 | 158 | 100.0 | Korean <https://translate.fedoraproject.org/projects/libvirt/libvirt-glib/ko/> | 
- | [libwnck]({{< ref "/f42/package/libwnck.md" >}}) | 1124 | 1124 | 100.0 | GNOME Korea <gnome-kr-hackers@lists.kldp.net> | 
- | [libwnck3]({{< ref "/f42/package/libwnck3.md" >}}) | 1084 | 1084 | 100.0 | GNOME Korea <gnome-kr@googlegroups.com> | 
- | [libxfce4ui]({{< ref "/f42/package/libxfce4ui.md" >}}) | 1017 | 1017 | 100.0 | Korean (https://app.transifex.com/xfce/teams/16840/ko/) | 
- | [libxfce4util]({{< ref "/f42/package/libxfce4util.md" >}}) | 424 | 424 | 100.0 | Korean (http://www.transifex.com/xfce/libxfce4util/language/ko/) | 
- | [libxfce4windowing]({{< ref "/f42/package/libxfce4windowing.md" >}}) | 63 | 63 | 100.0 | Korean (https://www.transifex.com/xfce/teams/16840/ko/) | 
- | [lightdm-settings]({{< ref "/f42/package/lightdm-settings.md" >}}) | 355 | 355 | 100.0 | Korean <ko@li.org> | 
- | [lightsoff]({{< ref "/f42/package/lightsoff.md" >}}) | 1152 | 1152 | 100.0 | Korean <gnome-kr@googlegroups.com> | 
- | [localsearch]({{< ref "/f42/package/localsearch.md" >}}) | 1854 | 1854 | 100.0 | Gnome Korea <gnome-kr@googlegroups.com> | 
- | [lokalize]({{< ref "/f42/package/lokalize.md" >}}) | 4086 | 4086 | 100.0 | Korean <kde-kr@kde.org> | 
- | [loupe]({{< ref "/f42/package/loupe.md" >}}) | 1306 | 1306 | 100.0 | Korean <gnome-kr@googlegroups.com> | 
- | [lskat]({{< ref "/f42/package/lskat.md" >}}) | 266 | 266 | 100.0 | Korean <kde-kr@kde.org> | 
- | [lxdm]({{< ref "/f42/package/lxdm.md" >}}) | 48 | 48 | 100.0 | Seong-ho Cho <darkcircle.0426@gmail.com> | 
- | [m4]({{< ref "/f42/package/m4.md" >}}) | 1171 | 1171 | 100.0 | Korean <translation-team-ko@googlegroups.com> | 
- | [magpie]({{< ref "/f42/package/magpie.md" >}}) | 1301 | 1301 | 100.0 | GNOME Korea <gnome-kr@googlegroups.com> | 
- | [mailcommon]({{< ref "/f42/package/mailcommon.md" >}}) | 2803 | 2803 | 100.0 | Korean <kde-kr@kde.org> | 
- | [mailimporter]({{< ref "/f42/package/mailimporter.md" >}}) | 1405 | 1405 | 100.0 | Korean <kde-kr@kde.org> | 
- | [make]({{< ref "/f42/package/make.md" >}}) | 2593 | 2593 | 100.0 | Korean <translation-team-ko@googlegroups.com> | 
- | [markdownpart]({{< ref "/f42/package/markdownpart.md" >}}) | 23 | 23 | 100.0 | Korean <kde-kr@kde.org> | 
- | [massif-visualizer]({{< ref "/f42/package/massif-visualizer.md" >}}) | 360 | 360 | 100.0 | Korean <kde-kr@kde.org> | 
- | [mate-backgrounds]({{< ref "/f42/package/mate-backgrounds.md" >}}) | 55 | 55 | 100.0 | Korean (https://app.transifex.com/mate/teams/13566/ko/) | 
- | [mate-icon-theme]({{< ref "/f42/package/mate-icon-theme.md" >}}) | 4 | 4 | 100.0 | Korean (https://app.transifex.com/mate/teams/13566/ko/) | 
- | [mate-menu]({{< ref "/f42/package/mate-menu.md" >}}) | 308 | 308 | 100.0 | Korean (http://www.transifex.com/mate/MATE/language/ko/) | 
- | [mate-polkit]({{< ref "/f42/package/mate-polkit.md" >}}) | 123 | 123 | 100.0 | Korean (https://app.transifex.com/mate/teams/13566/ko/) | 
- | [mate-themes]({{< ref "/f42/package/mate-themes.md" >}}) | 74 | 74 | 100.0 | Korean (http://app.transifex.com/mate/MATE/language/ko/) | 
- | [maui-mauikit]({{< ref "/f42/package/maui-mauikit.md" >}}) | 92 | 92 | 100.0 | Korean <kde-kr@kde.org> | 
- | [maui-mauikit-accounts]({{< ref "/f42/package/maui-mauikit-accounts.md" >}}) | 43 | 43 | 100.0 | Korean <kde-kr@kde.org> | 
- | [maui-mauikit-calendar]({{< ref "/f42/package/maui-mauikit-calendar.md" >}}) | 63 | 63 | 100.0 | Korean <kde-kr@kde.org> | 
- | [maui-mauikit-filebrowsing]({{< ref "/f42/package/maui-mauikit-filebrowsing.md" >}}) | 618 | 618 | 100.0 | Korean <kde-kr@kde.org> | 
- | [maui-mauikit-imagetools]({{< ref "/f42/package/maui-mauikit-imagetools.md" >}}) | 61 | 61 | 100.0 | Korean <kde-kr@kde.org> | 
- | [maui-mauikit-index-fm]({{< ref "/f42/package/maui-mauikit-index-fm.md" >}}) | 384 | 384 | 100.0 | Korean <kde-kr@kde.org> | 
- | [maui-mauikit-pix]({{< ref "/f42/package/maui-mauikit-pix.md" >}}) | 325 | 325 | 100.0 | Korean <kde-kr@kde.org> | 
- | [maui-mauikit-station]({{< ref "/f42/package/maui-mauikit-station.md" >}}) | 326 | 326 | 100.0 | Korean <kde-kr@kde.org> | 
- | [maui-mauikit-terminal]({{< ref "/f42/package/maui-mauikit-terminal.md" >}}) | 21 | 21 | 100.0 | Korean <kde-kr@kde.org> | 
- | [maui-mauikit-texteditor]({{< ref "/f42/package/maui-mauikit-texteditor.md" >}}) | 111 | 111 | 100.0 | Korean <kde-kr@kde.org> | 
- | [mbox-importer]({{< ref "/f42/package/mbox-importer.md" >}}) | 40 | 40 | 100.0 | Korean <kde-kr@kde.org> | 
- | [mediawriter]({{< ref "/f42/package/mediawriter.md" >}}) | 836 | 836 | 100.0 | Korean <https://translate.fedoraproject.org/projects/fedora-media-writer/mediawriter/ko/> | 
- | [meld]({{< ref "/f42/package/meld.md" >}}) | 865 | 865 | 100.0 | GNOME Korean <Gnome-kr-hackers@lists.kldp.net> | 
- | [merkuro]({{< ref "/f42/package/merkuro.md" >}}) | 1956 | 1956 | 100.0 | Korean <kde-kr@kde.org> | 
- | [messagelib]({{< ref "/f42/package/messagelib.md" >}}) | 7634 | 7634 | 100.0 | Korean <kde-kr@kde.org> | 
- | [metacity]({{< ref "/f42/package/metacity.md" >}}) | 2040 | 2040 | 100.0 | GNOME Korea <gnome-kr@googlegroups.com> | 
- | [mimetreeparser]({{< ref "/f42/package/mimetreeparser.md" >}}) | 283 | 283 | 100.0 | Korean <kde-kr@kde.org> | 
- | [mingw-GConf2]({{< ref "/f42/package/mingw-GConf2.md" >}}) | 4088 | 4088 | 100.0 | GNOME Korea <gnome-kr@googlegroups.com> | 
- | [mingw-atk]({{< ref "/f42/package/mingw-atk.md" >}}) | 440 | 440 | 100.0 | GNOME Korea <gnome-kr@googlegroups.com> | 
- | [mingw-gdk-pixbuf]({{< ref "/f42/package/mingw-gdk-pixbuf.md" >}}) | 1325 | 1325 | 100.0 | Gnome Korea <gnome-kr@googlegroups.com> | 
- | [mingw-glib-networking]({{< ref "/f42/package/mingw-glib-networking.md" >}}) | 460 | 460 | 100.0 | Korean <gnome-kr@googlegroups.com> | 
- | [mingw-glib2]({{< ref "/f42/package/mingw-glib2.md" >}}) | 7889 | 7889 | 100.0 | GNOME Korea <gnome-kr@googlegroups.com> | 
- | [mingw-gtk2]({{< ref "/f42/package/mingw-gtk2.md" >}}) | 12381 | 12381 | 100.0 | Gnome Korea <gnome-kr@googlegroups.com> | 
- | [mingw-gtk3]({{< ref "/f42/package/mingw-gtk3.md" >}}) | 16737 | 16737 | 100.0 | Gnome Korea <gnome-kr@googlegroups.com> | 
- | [mingw-gtk4]({{< ref "/f42/package/mingw-gtk4.md" >}}) | 4764 | 4764 | 100.0 | Gnome Korea <gnome-kr@googlegroups.com> | 
- | [mingw-json-glib]({{< ref "/f42/package/mingw-json-glib.md" >}}) | 307 | 307 | 100.0 | Korean <gnome-kr@googlegroups.com> | 
- | [mingw-libcharset]({{< ref "/f42/package/mingw-libcharset.md" >}}) | 342 | 342 | 100.0 | Korean <translation-team-ko@googlegroups.com> | 
- | [mingw-libidn2]({{< ref "/f42/package/mingw-libidn2.md" >}}) | 322 | 322 | 100.0 | Korean <translation-team-ko@googlegroups.com> | 
- | [mingw-libsoup]({{< ref "/f42/package/mingw-libsoup.md" >}}) | 183 | 183 | 100.0 | Korean <gnome-kr@googlegroups.com> | 
- | [minicom]({{< ref "/f42/package/minicom.md" >}}) | 1958 | 1958 | 100.0 | Korean <translation-team-ko@googlegroups.com> | 
- | [minidlna]({{< ref "/f42/package/minidlna.md" >}}) | 40 | 40 | 100.0 | Korean | 
- | [moserial]({{< ref "/f42/package/moserial.md" >}}) | 757 | 757 | 100.0 | Korean <gnome-kr-translation@lists.sourceforge.net> | 
- | [mousepad]({{< ref "/f42/package/mousepad.md" >}}) | 1700 | 1700 | 100.0 | Korean (http://app.transifex.com/xfce/xfce-apps/language/ko/) | 
- | [mousetweaks]({{< ref "/f42/package/mousetweaks.md" >}}) | 114 | 114 | 100.0 | GNOME Korea <gnome-kr@googlegroups.com> | 
- | [mozo]({{< ref "/f42/package/mozo.md" >}}) | 46 | 46 | 100.0 | Korean (https://app.transifex.com/mate/teams/13566/ko/) | 
- | [msitools]({{< ref "/f42/package/msitools.md" >}}) | 85 | 85 | 100.0 | Korean <gnome-kr@googlegroups.com> | 
- | [muffin]({{< ref "/f42/package/muffin.md" >}}) | 1219 | 1219 | 100.0 | GNOME Korea <gnome-kr@googlegroups.com> | 
- | [multimedia-menus]({{< ref "/f42/package/multimedia-menus.md" >}}) | 56 | 56 | 100.0 | Korean <ko@li.org> | 
- | [mutter]({{< ref "/f42/package/mutter.md" >}}) | 1440 | 1440 | 100.0 | GNOME Korea <gnome-kr@googlegroups.com> | 
- | [mypaint]({{< ref "/f42/package/mypaint.md" >}}) | 6381 | 6381 | 100.0 | Korean <https://hosted.weblate.org/projects/mypaint/mypaint/ko/> | 
- | [nano]({{< ref "/f42/package/nano.md" >}}) | 3555 | 3555 | 100.0 | Korean <translation-team-ko@googlegroups.com> | 
- | [nautilus]({{< ref "/f42/package/nautilus.md" >}}) | 5483 | 5483 | 100.0 | GNOME Korea <gnome-kr@googlegroups.com> | 
- | [ncmpc]({{< ref "/f42/package/ncmpc.md" >}}) | 731 | 731 | 100.0 | Korean <https://hosted.weblate.org/projects/ncmpc/translations/ko/> | 
- | [nemiver]({{< ref "/f42/package/nemiver.md" >}}) | 1341 | 1341 | 100.0 | Korean <gnome-kr@googlegroups.com> | 
- | [newt]({{< ref "/f42/package/newt.md" >}}) | 4 | 4 | 100.0 | Korean <cwryu@debian.org> | 
- | [noggin]({{< ref "/f42/package/noggin.md" >}}) | 1798 | 1798 | 100.0 | Korean <https://translate.fedoraproject.org/projects/fedora-infra/noggin/ko/> | 
- | [notification-daemon]({{< ref "/f42/package/notification-daemon.md" >}}) | 17 | 17 | 100.0 | GNOME Korea <gnome-kr@googlegroups.com> | 
- | [novnc]({{< ref "/f42/package/novnc.md" >}}) | 131 | 131 | 100.0 | Korean | 
- | [okteta]({{< ref "/f42/package/okteta.md" >}}) | 2538 | 2538 | 100.0 | Korean <kde-kr@kde.org> | 
- | [optiimage]({{< ref "/f42/package/optiimage.md" >}}) | 145 | 145 | 100.0 | Korean <kde-kr@kde.org> | 
- | [osinfo-db-tools]({{< ref "/f42/package/osinfo-db-tools.md" >}}) | 222 | 222 | 100.0 | Korean <https://translate.fedoraproject.org/projects/libosinfo/osinfo-db-tools/ko/> | 
- | [palapeli]({{< ref "/f42/package/palapeli.md" >}}) | 1525 | 1525 | 100.0 | Korean <kde-kr@kde.org> | 
- | [pam]({{< ref "/f42/package/pam.md" >}}) | 544 | 544 | 100.0 | Korean <https://translate.fedoraproject.org/projects/linux-pam/master/ko/> | 
- | [papers]({{< ref "/f42/package/papers.md" >}}) | 8302 | 8302 | 100.0 | GNOME Korea <gnome-kr@googlegroups.com> | 
- | [paprefs]({{< ref "/f42/package/paprefs.md" >}}) | 137 | 137 | 100.0 | Korean <https://translate.fedoraproject.org/projects/pulseaudio/paprefs/ko/> | 
- | [parole]({{< ref "/f42/package/parole.md" >}}) | 810 | 810 | 100.0 | Korean (http://app.transifex.com/xfce/xfce-apps/language/ko/) | 
- | [phonon]({{< ref "/f42/package/phonon.md" >}}) | 327 | 327 | 100.0 | Korean <kde-kr@kde.org> | 
- | [phonon-backend-gstreamer]({{< ref "/f42/package/phonon-backend-gstreamer.md" >}}) | 104 | 104 | 100.0 | Korean <kde-kr@kde.org> | 
- | [phonon-backend-vlc]({{< ref "/f42/package/phonon-backend-vlc.md" >}}) | 27 | 27 | 100.0 | Korean <kde-kr@kde.org> | 
- | [phonon-qt4]({{< ref "/f42/package/phonon-qt4.md" >}}) | 116 | 116 | 100.0 | Korean <kde-kr@kde.org> | 
- | [phonon-qt4-backend-gstreamer]({{< ref "/f42/package/phonon-qt4-backend-gstreamer.md" >}}) | 104 | 104 | 100.0 | Korean <kde-kr@kde.org> | 
- | [phosh]({{< ref "/f42/package/phosh.md" >}}) | 111 | 111 | 100.0 | Korean <gnome-kr@googlegroups.com> | 
- | [picmi]({{< ref "/f42/package/picmi.md" >}}) | 202 | 202 | 100.0 | Korean <kde-kr@kde.org> | 
- | [pim-data-exporter]({{< ref "/f42/package/pim-data-exporter.md" >}}) | 794 | 794 | 100.0 | Korean <kde-kr@kde.org> | 
- | [pim-sieve-editor]({{< ref "/f42/package/pim-sieve-editor.md" >}}) | 470 | 470 | 100.0 | Korean <kde-kr@kde.org> | 
- | [pimcommon]({{< ref "/f42/package/pimcommon.md" >}}) | 884 | 884 | 100.0 | Korean <kde-kr@kde.org> | 
- | [plank]({{< ref "/f42/package/plank.md" >}}) | 189 | 189 | 100.0 | Korean <ko@li.org> | 
- | [plasma-bigscreen]({{< ref "/f42/package/plasma-bigscreen.md" >}}) | 460 | 460 | 100.0 | Korean <kde-kr@kde.org> | 
- | [plasma-breeze]({{< ref "/f42/package/plasma-breeze.md" >}}) | 262 | 262 | 100.0 | Korean <kde-kr@kde.org> | 
- | [plasma-browser-integration]({{< ref "/f42/package/plasma-browser-integration.md" >}}) | 127 | 127 | 100.0 | Korean <kde-kr@kde.org> | 
- | [plasma-dialer]({{< ref "/f42/package/plasma-dialer.md" >}}) | 151 | 151 | 100.0 | Korean <kde-kr@kde.org> | 
- | [plasma-disks]({{< ref "/f42/package/plasma-disks.md" >}}) | 205 | 205 | 100.0 | Korean <kde-kr@kde.org> | 
- | [plasma-drkonqi]({{< ref "/f42/package/plasma-drkonqi.md" >}}) | 1981 | 1981 | 100.0 | Korean <kde-kr@kde.org> | 
- | [plasma-firewall]({{< ref "/f42/package/plasma-firewall.md" >}}) | 393 | 393 | 100.0 | Korean <kde-kr@kde.org> | 
- | [plasma-integration]({{< ref "/f42/package/plasma-integration.md" >}}) | 72 | 72 | 100.0 | Korean <kde-kr@kde.org> | 
- | [plasma-mediacenter]({{< ref "/f42/package/plasma-mediacenter.md" >}}) | 172 | 172 | 100.0 | Korean <kde@peremen.name> | 
- | [plasma-milou]({{< ref "/f42/package/plasma-milou.md" >}}) | 10 | 10 | 100.0 | Korean <kde-kr@kde.org> | 
- | [plasma-mobile]({{< ref "/f42/package/plasma-mobile.md" >}}) | 1848 | 1848 | 100.0 | Korean <kde-kr@kde.org> | 
- | [plasma-nano]({{< ref "/f42/package/plasma-nano.md" >}}) | 36 | 36 | 100.0 | Korean <kde-kr@kde.org> | 
- | [plasma-oxygen]({{< ref "/f42/package/plasma-oxygen.md" >}}) | 794 | 794 | 100.0 | Korean <kde-kr@kde.org> | 
- | [plasma-pa]({{< ref "/f42/package/plasma-pa.md" >}}) | 423 | 423 | 100.0 | Korean <kde-kr@kde.org> | 
- | [plasma-pass]({{< ref "/f42/package/plasma-pass.md" >}}) | 22 | 22 | 100.0 | Korean <kde-kr@kde.org> | 
- | [plasma-phonebook]({{< ref "/f42/package/plasma-phonebook.md" >}}) | 73 | 73 | 100.0 | Korean <kde-kr@kde.org> | 
- | [plasma-print-manager]({{< ref "/f42/package/plasma-print-manager.md" >}}) | 1199 | 1199 | 100.0 | Korean <kde-kr@kde.org> | 
- | [plasma-sdk]({{< ref "/f42/package/plasma-sdk.md" >}}) | 945 | 945 | 100.0 | Korean <kde-kr@kde.org> | 
- | [plasma-settings]({{< ref "/f42/package/plasma-settings.md" >}}) | 88 | 88 | 100.0 | Korean <kde-kr@kde.org> | 
- | [plasma-systemmonitor]({{< ref "/f42/package/plasma-systemmonitor.md" >}}) | 689 | 689 | 100.0 | Korean <kde-kr@kde.org> | 
- | [plasma-systemsettings]({{< ref "/f42/package/plasma-systemsettings.md" >}}) | 133 | 133 | 100.0 | Korean <kde-kr@kde.org> | 
- | [plasma-thunderbolt]({{< ref "/f42/package/plasma-thunderbolt.md" >}}) | 174 | 174 | 100.0 | Korean <kde-kr@kde.org> | 
- | [plasma-vault]({{< ref "/f42/package/plasma-vault.md" >}}) | 628 | 628 | 100.0 | Korean <kde-kr@kde.org> | 
- | [plasma-welcome]({{< ref "/f42/package/plasma-welcome.md" >}}) | 1742 | 1742 | 100.0 | Korean <kde-kr@kde.org> | 
- | [plasma-welcome-fedora]({{< ref "/f42/package/plasma-welcome-fedora.md" >}}) | 108 | 108 | 100.0 | Korean <https://translate.fedoraproject.org/projects/fedora-kde/plasma-welcome-fedora/ko/> | 
- | [plasma5support]({{< ref "/f42/package/plasma5support.md" >}}) | 3174 | 3174 | 100.0 | Korean <kde-kr@kde.org> | 
- | [plasmatube]({{< ref "/f42/package/plasmatube.md" >}}) | 517 | 517 | 100.0 | Korean <kde-kr@kde.org> | 
- | [plymouth-kcm]({{< ref "/f42/package/plymouth-kcm.md" >}}) | 93 | 93 | 100.0 | Korean <kde-kr@kde.org> | 
- | [poedit]({{< ref "/f42/package/poedit.md" >}}) | 3331 | 3331 | 100.0 | Korean | 
- | [policycoreutils]({{< ref "/f42/package/policycoreutils.md" >}}) | 6361 | 6361 | 100.0 | Korean <https://translate.fedoraproject.org/projects/selinux/gui/ko/> | 
- | [polkit-kde]({{< ref "/f42/package/polkit-kde.md" >}}) | 59 | 59 | 100.0 | Korean <kde-kr@kde.org> | 
- | [postgresql17]({{< ref "/f42/package/postgresql17.md" >}}) | 84139 | 84139 | 100.0 | Korean Team <kr@postgresql.org> | 
- | [powerdevil]({{< ref "/f42/package/powerdevil.md" >}}) | 1825 | 1825 | 100.0 | Korean <kde-kr@kde.org> | 
- | [procps-ng]({{< ref "/f42/package/procps-ng.md" >}}) | 5178 | 5178 | 100.0 | Korean <translation-team-ko@googlegroups.com> | 
- | [proftpd]({{< ref "/f42/package/proftpd.md" >}}) | 823 | 823 | 100.0 | Korean User Group | 
- | [psmisc]({{< ref "/f42/package/psmisc.md" >}}) | 3674 | 3674 | 100.0 | Korean <translation-team-ko@googlegroups.com> | 
- | [ptyxis]({{< ref "/f42/package/ptyxis.md" >}}) | 1644 | 1644 | 100.0 | Korean <Korean> | 
- | [pulseaudio]({{< ref "/f42/package/pulseaudio.md" >}}) | 3786 | 3786 | 100.0 | Korean <https://translate.fedoraproject.org/projects/pulseaudio/pulseaudio/ko/> | 
- | [pychess]({{< ref "/f42/package/pychess.md" >}}) | 7592 | 7592 | 100.0 | Korean (http://www.transifex.com/gbtami/pychess/language/ko/) | 
- | [python-blivet]({{< ref "/f42/package/python-blivet.md" >}}) | 605 | 605 | 100.0 | Korean <https://translate.fedoraproject.org/projects/blivet/blivet-master/ko/> | 
- | [python-caja]({{< ref "/f42/package/python-caja.md" >}}) | 6 | 6 | 100.0 | Korean (https://www.transifex.com/mate/teams/13566/ko/) | 
- | [python-django-contrib-comments]({{< ref "/f42/package/python-django-contrib-comments.md" >}}) | 250 | 250 | 100.0 | Korean (http://www.transifex.com/django/django-contrib-comments/language/ko/) | 
- | [python-django-formtools]({{< ref "/f42/package/python-django-formtools.md" >}}) | 32 | 32 | 100.0 | Korean (http://www.transifex.com/django/django-formtools/language/ko/) | 
- | [python-django5]({{< ref "/f42/package/python-django5.md" >}}) | 3922 | 3922 | 100.0 | Korean (http://app.transifex.com/django/django/language/ko/) | 
- | [python-meh]({{< ref "/f42/package/python-meh.md" >}}) | 109 | 109 | 100.0 | Korean <https://translate.fedoraproject.org/projects/python-meh/master/ko/> | 
- | [python-nikola]({{< ref "/f42/package/python-nikola.md" >}}) | 94 | 94 | 100.0 | Korean (http://app.transifex.com/ralsina/nikola/language/ko/) | 
- | [python-oslo-i18n]({{< ref "/f42/package/python-oslo-i18n.md" >}}) | 30 | 30 | 100.0 | Korean (South Korea) | 
- | [python-simpleline]({{< ref "/f42/package/python-simpleline.md" >}}) | 42 | 42 | 100.0 | Korean <https://translate.fedoraproject.org/projects/python-simpleline/master/ko/> | 
- | [python-sphinxcontrib-htmlhelp]({{< ref "/f42/package/python-sphinxcontrib-htmlhelp.md" >}}) | 25 | 25 | 100.0 | Korean (https://www.transifex.com/sphinx-doc/teams/36659/ko/) | 
- | [python-sphinxcontrib-serializinghtml]({{< ref "/f42/package/python-sphinxcontrib-serializinghtml.md" >}}) | 18 | 18 | 100.0 | Korean (https://www.transifex.com/sphinx-doc/teams/36659/ko/) | 
- | [python-uranium]({{< ref "/f42/package/python-uranium.md" >}}) | 706 | 706 | 100.0 | LANGUAGE <LL@li.org> | 
- | [python-ytmusicapi]({{< ref "/f42/package/python-ytmusicapi.md" >}}) | 19 | 19 | 100.0 | LANGUAGE <LL@li.org> | 
- | [qmlkonsole]({{< ref "/f42/package/qmlkonsole.md" >}}) | 166 | 166 | 100.0 | Korean <kde-kr@kde.org> | 
- | [qrca]({{< ref "/f42/package/qrca.md" >}}) | 138 | 138 | 100.0 | Korean <kde-kr@kde.org> | 
- | [qt3]({{< ref "/f42/package/qt3.md" >}}) | 483 | 483 | 100.0 |  | 
- | [quadrapassel]({{< ref "/f42/package/quadrapassel.md" >}}) | 460 | 460 | 100.0 | GNOME Korea <gnome-kr@googlegroups.com> | 
- | [quearcode]({{< ref "/f42/package/quearcode.md" >}}) | 80 | 80 | 100.0 |  | 
- | [redhat-menus]({{< ref "/f42/package/redhat-menus.md" >}}) | 261 | 261 | 100.0 | Korean <ko@li.org> | 
- | [retrace-server]({{< ref "/f42/package/retrace-server.md" >}}) | 433 | 433 | 100.0 | Korean <https://translate.fedoraproject.org/projects/abrt/retrace-server/ko/> | 
- | [rhythmbox]({{< ref "/f42/package/rhythmbox.md" >}}) | 3734 | 3734 | 100.0 | GNOME Korea <gnome-kr@googlegroups.com> | 
- | [ristretto]({{< ref "/f42/package/ristretto.md" >}}) | 655 | 655 | 100.0 | Korean (http://app.transifex.com/xfce/xfce-apps/language/ko/) | 
- | [rizin]({{< ref "/f42/package/rizin.md" >}}) | 1379 | 1379 | 100.0 | Korean <translation-team-ko@googlegroups.com> | 
- | [rocs]({{< ref "/f42/package/rocs.md" >}}) | 1448 | 1448 | 100.0 | Korean <kde-kr@kde.org> | 
- | [rpm]({{< ref "/f42/package/rpm.md" >}}) | 4732 | 4732 | 100.0 | Korean <https://translate.fedoraproject.org/projects/rpm/rpm-l10n/ko/> | 
- | [rpm-ostree]({{< ref "/f42/package/rpm-ostree.md" >}}) | 1664 | 1664 | 100.0 | Korean <https://translate.fedoraproject.org/projects/dnf/libdnf-dnf-4-master/ko/> | 
- | [rygel]({{< ref "/f42/package/rygel.md" >}}) | 1632 | 1632 | 100.0 | GNOME Korea <gnome-kr@googlegroups.com> | 
- | [scim-hangul]({{< ref "/f42/package/scim-hangul.md" >}}) | 186 | 186 | 100.0 | Korean | 
- | [scons]({{< ref "/f42/package/scons.md" >}}) | 48 | 48 | 100.0 |  | 
- | [scummvm]({{< ref "/f42/package/scummvm.md" >}}) | 15601 | 15601 | 100.0 | Korean <https://translations.scummvm.org/projects/scummvm/scummvm/ko/> | 
- | [sddm-kcm]({{< ref "/f42/package/sddm-kcm.md" >}}) | 215 | 215 | 100.0 | Korean <kde-kr@kde.org> | 
- | [seahorse]({{< ref "/f42/package/seahorse.md" >}}) | 2378 | 2378 | 100.0 | Korean <gnome-kr@googlegroups.com> | 
- | [seahorse-caja]({{< ref "/f42/package/seahorse-caja.md" >}}) | 421 | 421 | 100.0 | GNOME Korea <gnome-kr@googlegroups.com> | 
- | [seahorse-nautilus]({{< ref "/f42/package/seahorse-nautilus.md" >}}) | 421 | 421 | 100.0 | GNOME Korea <gnome-kr@googlegroups.com> | 
- | [secrets]({{< ref "/f42/package/secrets.md" >}}) | 1170 | 1170 | 100.0 | Korean <gnome-kr@googlegroups.com> | 
- | [sed]({{< ref "/f42/package/sed.md" >}}) | 817 | 817 | 100.0 | Korean <translation-team-ko@googlegroups.com> | 
- | [setroubleshoot]({{< ref "/f42/package/setroubleshoot.md" >}}) | 640 | 640 | 100.0 | Korean <https://translate.fedoraproject.org/projects/setroubleshoot/setroubleshoot/ko/> | 
- | [setroubleshoot-plugins]({{< ref "/f42/package/setroubleshoot-plugins.md" >}}) | 6248 | 6248 | 100.0 | Korean <https://translate.fedoraproject.org/projects/setroubleshoot/plugins/ko/> | 
- | [setuptool]({{< ref "/f42/package/setuptool.md" >}}) | 55 | 55 | 100.0 | Korean <ko@li.org> | 
- | [shotwell]({{< ref "/f42/package/shotwell.md" >}}) | 6861 | 6861 | 100.0 | Korean (http://www.transifex.com/projects/p/shotwell/language/ko/) | 
- | [showtime]({{< ref "/f42/package/showtime.md" >}}) | 210 | 210 | 100.0 | GNOME Korea <gnome-kr@googlegroups.com> | 
- | [simple-scan]({{< ref "/f42/package/simple-scan.md" >}}) | 948 | 948 | 100.0 | GNOME Korea <gnome-kr@googlegroups.com> | 
- | [skanlite]({{< ref "/f42/package/skanlite.md" >}}) | 186 | 186 | 100.0 | Korean <kde-kr@kde.org> | 
- | [skanpage]({{< ref "/f42/package/skanpage.md" >}}) | 378 | 378 | 100.0 | Korean <kde-kr@kde.org> | 
- | [skladnik]({{< ref "/f42/package/skladnik.md" >}}) | 154 | 154 | 100.0 | Korean <kde-kr@kde.org> | 
- | [slick-greeter]({{< ref "/f42/package/slick-greeter.md" >}}) | 216 | 216 | 100.0 | Korean <ko@li.org> | 
- | [smb4k]({{< ref "/f42/package/smb4k.md" >}}) | 6077 | 6077 | 100.0 | Korean <kde-kr@kde.org> | 
- | [snapshot]({{< ref "/f42/package/snapshot.md" >}}) | 267 | 267 | 100.0 | Korean <gnome-kr@googlegroups.com> | 
- | [sound-juicer]({{< ref "/f42/package/sound-juicer.md" >}}) | 1273 | 1273 | 100.0 | GNOME Korea <gnome-kr@googlegroups.com> | 
- | [spacebar]({{< ref "/f42/package/spacebar.md" >}}) | 278 | 278 | 100.0 | Korean <kde-kr@kde.org> | 
- | [spectacle]({{< ref "/f42/package/spectacle.md" >}}) | 1911 | 1911 | 100.0 | Korean <kde-kr@kde.org> | 
- | [squeekboard]({{< ref "/f42/package/squeekboard.md" >}}) | 13 | 13 | 100.0 |  | 
- | [subscription-manager]({{< ref "/f42/package/subscription-manager.md" >}}) | 3445 | 3445 | 100.0 | Korean <https://translate.fedoraproject.org/projects/subscription-manager/subscription-manager-main/ko/> | 
- | [subscription-manager-cockpit]({{< ref "/f42/package/subscription-manager-cockpit.md" >}}) | 511 | 511 | 100.0 | Korean <https://translate.fedoraproject.org/projects/subscription-manager/cockpit-main/ko/> | 
- | [sudo]({{< ref "/f42/package/sudo.md" >}}) | 6294 | 6294 | 100.0 | Korean <translation-team-ko@googlegroups.com> | 
- | [sugar-abacus]({{< ref "/f42/package/sugar-abacus.md" >}}) | 28 | 28 | 100.0 | LANGUAGE <LL@li.org> | 
- | [sushi]({{< ref "/f42/package/sushi.md" >}}) | 54 | 54 | 100.0 | Korean <gnome-kr@googlegroups.com> | 
- | [svgpart]({{< ref "/f42/package/svgpart.md" >}}) | 3 | 3 | 100.0 | Korean <kde-kr@kde.org> | 
- | [sweeper]({{< ref "/f42/package/sweeper.md" >}}) | 228 | 228 | 100.0 | Korean <kde-kr@kde.org> | 
- | [swell-foop]({{< ref "/f42/package/swell-foop.md" >}}) | 991 | 991 | 100.0 | Korean <gnome-kr@googlegroups.com> | 
- | [syncevolution]({{< ref "/f42/package/syncevolution.md" >}}) | 1132 | 1132 | 100.0 | Korean (http://www.transifex.net/projects/p/meego/team/ko/) | 
- | [sysprof]({{< ref "/f42/package/sysprof.md" >}}) | 1954 | 1954 | 100.0 | Korean <gnome-kr@googlegroups.com> | 
- | [sysstat]({{< ref "/f42/package/sysstat.md" >}}) | 851 | 851 | 100.0 | Korean <translation-team-ko@googlegroups.com> | 
- | [system-config-rootpassword]({{< ref "/f42/package/system-config-rootpassword.md" >}}) | 116 | 116 | 100.0 | Korean <ko@li.org> | 
- | [system-switch-java]({{< ref "/f42/package/system-switch-java.md" >}}) | 81 | 81 | 100.0 | Korean <ko@li.org> | 
- | [systemd]({{< ref "/f42/package/systemd.md" >}}) | 1971 | 1971 | 100.0 | Korean <https://translate.fedoraproject.org/projects/systemd/main/ko/> | 
- | [tali]({{< ref "/f42/package/tali.md" >}}) | 2427 | 2427 | 100.0 | Korean <gnome-kr@googlegroups.com> | 
- | [tecla]({{< ref "/f42/package/tecla.md" >}}) | 16 | 16 | 100.0 | Korean <gnome-kr@googlegroups.com> | 
- | [tellico]({{< ref "/f42/package/tellico.md" >}}) | 5423 | 5423 | 100.0 | Korean <kde-kr@kde.org> | 
- | [thunar-archive-plugin]({{< ref "/f42/package/thunar-archive-plugin.md" >}}) | 88 | 88 | 100.0 | Korean (http://app.transifex.com/xfce/thunar-plugins/language/ko/) | 
- | [thunar-media-tags-plugin]({{< ref "/f42/package/thunar-media-tags-plugin.md" >}}) | 158 | 158 | 100.0 | Korean (http://www.transifex.com/xfce/thunar-plugins/language/ko/) | 
- | [thunar-vcs-plugin]({{< ref "/f42/package/thunar-vcs-plugin.md" >}}) | 614 | 614 | 100.0 | Korean (http://www.transifex.com/xfce/thunar-plugins/language/ko/) | 
- | [thunar-volman]({{< ref "/f42/package/thunar-volman.md" >}}) | 484 | 484 | 100.0 | Korean (http://www.transifex.com/xfce/thunar-volman/language/ko/) | 
- | [tigervnc]({{< ref "/f42/package/tigervnc.md" >}}) | 1047 | 1047 | 100.0 | Korean <translation-team-ko@googlegroups.com> | 
- | [timeshift]({{< ref "/f42/package/timeshift.md" >}}) | 2870 | 2870 | 100.0 | Korean <ko@li.org> | 
- | [tinysparql]({{< ref "/f42/package/tinysparql.md" >}}) | 522 | 522 | 100.0 | Gnome Korea <gnome-kr@googlegroups.com> | 
- | [tumbler]({{< ref "/f42/package/tumbler.md" >}}) | 148 | 148 | 100.0 | Korean (http://www.transifex.com/xfce/tumbler/language/ko/) | 
- | [vakzination]({{< ref "/f42/package/vakzination.md" >}}) | 147 | 147 | 100.0 | Korean <kde-kr@kde.org> | 
- | [vim]({{< ref "/f42/package/vim.md" >}}) | 9448 | 9448 | 100.0 |  | 
- | [vinagre]({{< ref "/f42/package/vinagre.md" >}}) | 1510 | 1510 | 100.0 | GNOME Korea <gnome-kr@googlegroups.com> | 
- | [virt-manager]({{< ref "/f42/package/virt-manager.md" >}}) | 7355 | 7355 | 100.0 | Korean <https://translate.fedoraproject.org/projects/virt-manager/virt-manager/ko/> | 
- | [vte]({{< ref "/f42/package/vte.md" >}}) | 80 | 80 | 100.0 | GNOME Korea <gnome-kr@googlegroups.com> | 
- | [vte291]({{< ref "/f42/package/vte291.md" >}}) | 46 | 46 | 100.0 | GNOME Korea <gnome-kr@googlegroups.com> | 
- | [webkit2gtk4.0]({{< ref "/f42/package/webkit2gtk4.0.md" >}}) | 2623 | 2623 | 100.0 | GNOME Korea <gnome-kr@googlegroups.com> | 
- | [webkitgtk]({{< ref "/f42/package/webkitgtk.md" >}}) | 2623 | 2623 | 100.0 | GNOME Korea <gnome-kr@googlegroups.com> | 
- | [wingpanel-indicator-keyboard]({{< ref "/f42/package/wingpanel-indicator-keyboard.md" >}}) | 56 | 56 | 100.0 | Korean <https://l10n.elementary.io/projects/wingpanel/wingpanel-indicator-keyboard/ko/> | 
- | [wireplumber]({{< ref "/f42/package/wireplumber.md" >}}) | 3 | 3 | 100.0 | Korean | 
- | [xapps]({{< ref "/f42/package/xapps.md" >}}) | 73 | 73 | 100.0 | Korean <ko@li.org> | 
- | [xdg-desktop-portal-gnome]({{< ref "/f42/package/xdg-desktop-portal-gnome.md" >}}) | 249 | 249 | 100.0 | Korean <gnome-kr@googlegroups.com> | 
- | [xdg-desktop-portal-kde]({{< ref "/f42/package/xdg-desktop-portal-kde.md" >}}) | 608 | 608 | 100.0 | Korean <kde-kr@kde.org> | 
- | [xdg-desktop-portal-xapp]({{< ref "/f42/package/xdg-desktop-portal-xapp.md" >}}) | 225 | 225 | 100.0 | Korean <gnome-kr@googlegroups.com> | 
- | [xdg-user-dirs]({{< ref "/f42/package/xdg-user-dirs.md" >}}) | 28 | 28 | 100.0 | Korean <translation-team-ko@lists.sourceforge.net> | 
- | [xdg-user-dirs-gtk]({{< ref "/f42/package/xdg-user-dirs-gtk.md" >}}) | 81 | 81 | 100.0 | GNOME Korea <gnome-kr-hackers@lists.kldp.net> | 
- | [xed]({{< ref "/f42/package/xed.md" >}}) | 11513 | 11513 | 100.0 | MATE Korea <mate-kr@googlegroups.com> | 
- | [xfburn]({{< ref "/f42/package/xfburn.md" >}}) | 1566 | 1566 | 100.0 | Korean (http://app.transifex.com/xfce/xfce-apps/language/ko/) | 
- | [xfce4-battery-plugin]({{< ref "/f42/package/xfce4-battery-plugin.md" >}}) | 145 | 145 | 100.0 | Korean (http://app.transifex.com/xfce/xfce-panel-plugins/language/ko/) | 
- | [xfce4-calculator-plugin]({{< ref "/f42/package/xfce4-calculator-plugin.md" >}}) | 39 | 39 | 100.0 | Korean (https://app.transifex.com/xfce/teams/16840/ko/) | 
- | [xfce4-clipman-plugin]({{< ref "/f42/package/xfce4-clipman-plugin.md" >}}) | 550 | 550 | 100.0 | Korean (http://app.transifex.com/xfce/xfce-panel-plugins/language/ko/) | 
- | [xfce4-cpufreq-plugin]({{< ref "/f42/package/xfce4-cpufreq-plugin.md" >}}) | 171 | 171 | 100.0 | Korean (http://app.transifex.com/xfce/xfce-panel-plugins/language/ko/) | 
- | [xfce4-cpugraph-plugin]({{< ref "/f42/package/xfce4-cpugraph-plugin.md" >}}) | 188 | 188 | 100.0 | Korean (http://app.transifex.com/xfce/xfce-panel-plugins/language/ko/) | 
- | [xfce4-datetime-plugin]({{< ref "/f42/package/xfce4-datetime-plugin.md" >}}) | 52 | 52 | 100.0 | Korean (http://www.transifex.com/xfce/xfce-panel-plugins/language/ko/) | 
- | [xfce4-dict]({{< ref "/f42/package/xfce4-dict.md" >}}) | 531 | 531 | 100.0 | Korean (http://app.transifex.com/xfce/xfce-apps/language/ko/) | 
- | [xfce4-diskperf-plugin]({{< ref "/f42/package/xfce4-diskperf-plugin.md" >}}) | 176 | 176 | 100.0 | Korean (http://app.transifex.com/xfce/xfce-panel-plugins/language/ko/) | 
- | [xfce4-docklike-plugin]({{< ref "/f42/package/xfce4-docklike-plugin.md" >}}) | 151 | 151 | 100.0 | Korean (https://app.transifex.com/xfce/teams/16840/ko/) | 
- | [xfce4-eyes-plugin]({{< ref "/f42/package/xfce4-eyes-plugin.md" >}}) | 16 | 16 | 100.0 | Korean (http://app.transifex.com/xfce/xfce-panel-plugins/language/ko/) | 
- | [xfce4-fsguard-plugin]({{< ref "/f42/package/xfce4-fsguard-plugin.md" >}}) | 72 | 72 | 100.0 | Korean (http://app.transifex.com/xfce/xfce-panel-plugins/language/ko/) | 
- | [xfce4-genmon-plugin]({{< ref "/f42/package/xfce4-genmon-plugin.md" >}}) | 104 | 104 | 100.0 | Korean (http://app.transifex.com/xfce/xfce-panel-plugins/language/ko/) | 
- | [xfce4-mailwatch-plugin]({{< ref "/f42/package/xfce4-mailwatch-plugin.md" >}}) | 667 | 667 | 100.0 | Korean (http://app.transifex.com/xfce/xfce-panel-plugins/language/ko/) | 
- | [xfce4-mount-plugin]({{< ref "/f42/package/xfce4-mount-plugin.md" >}}) | 381 | 381 | 100.0 | Korean (http://app.transifex.com/xfce/xfce-panel-plugins/language/ko/) | 
- | [xfce4-mpc-plugin]({{< ref "/f42/package/xfce4-mpc-plugin.md" >}}) | 101 | 101 | 100.0 | Korean (http://app.transifex.com/xfce/xfce-panel-plugins/language/ko/) | 
- | [xfce4-netload-plugin]({{< ref "/f42/package/xfce4-netload-plugin.md" >}}) | 106 | 106 | 100.0 | Korean (http://app.transifex.com/xfce/xfce-panel-plugins/language/ko/) | 
- | [xfce4-notes-plugin]({{< ref "/f42/package/xfce4-notes-plugin.md" >}}) | 156 | 156 | 100.0 | Korean (http://app.transifex.com/xfce/xfce-panel-plugins/language/ko/) | 
- | [xfce4-panel-profiles]({{< ref "/f42/package/xfce4-panel-profiles.md" >}}) | 144 | 144 | 100.0 | Korean (https://app.transifex.com/xfce/teams/16840/ko/) | 
- | [xfce4-places-plugin]({{< ref "/f42/package/xfce4-places-plugin.md" >}}) | 164 | 164 | 100.0 | Korean (http://app.transifex.com/xfce/xfce-panel-plugins/language/ko/) | 
- | [xfce4-power-manager]({{< ref "/f42/package/xfce4-power-manager.md" >}}) | 976 | 976 | 100.0 | Korean (http://app.transifex.com/xfce/xfce4-power-manager/language/ko/) | 
- | [xfce4-pulseaudio-plugin]({{< ref "/f42/package/xfce4-pulseaudio-plugin.md" >}}) | 195 | 195 | 100.0 | Korean (http://app.transifex.com/xfce/xfce-panel-plugins/language/ko/) | 
- | [xfce4-sensors-plugin]({{< ref "/f42/package/xfce4-sensors-plugin.md" >}}) | 430 | 430 | 100.0 | Korean (http://app.transifex.com/xfce/xfce-panel-plugins/language/ko/) | 
- | [xfce4-session]({{< ref "/f42/package/xfce4-session.md" >}}) | 780 | 780 | 100.0 | Korean (http://app.transifex.com/xfce/xfce4-session/language/ko/) | 
- | [xfce4-settings]({{< ref "/f42/package/xfce4-settings.md" >}}) | 2644 | 2644 | 100.0 | Korean (https://app.transifex.com/xfce/teams/16840/ko/) | 
- | [xfce4-smartbookmark-plugin]({{< ref "/f42/package/xfce4-smartbookmark-plugin.md" >}}) | 23 | 23 | 100.0 | Korean (http://app.transifex.com/xfce/xfce-panel-plugins/language/ko/) | 
- | [xfce4-statusnotifier-plugin]({{< ref "/f42/package/xfce4-statusnotifier-plugin.md" >}}) | 129 | 129 | 100.0 | Korean (https://www.transifex.com/xfce/teams/16840/ko/) | 
- | [xfce4-systemload-plugin]({{< ref "/f42/package/xfce4-systemload-plugin.md" >}}) | 102 | 102 | 100.0 | Korean (http://app.transifex.com/xfce/xfce-panel-plugins/language/ko/) | 
- | [xfce4-taskmanager]({{< ref "/f42/package/xfce4-taskmanager.md" >}}) | 241 | 241 | 100.0 | Korean (http://app.transifex.com/xfce/xfce-apps/language/ko/) | 
- | [xfce4-time-out-plugin]({{< ref "/f42/package/xfce4-time-out-plugin.md" >}}) | 115 | 115 | 100.0 | Korean (http://app.transifex.com/xfce/xfce-panel-plugins/language/ko/) | 
- | [xfce4-timer-plugin]({{< ref "/f42/package/xfce4-timer-plugin.md" >}}) | 138 | 138 | 100.0 | Korean (http://app.transifex.com/xfce/xfce-panel-plugins/language/ko/) | 
- | [xfce4-verve-plugin]({{< ref "/f42/package/xfce4-verve-plugin.md" >}}) | 88 | 88 | 100.0 | Korean (http://app.transifex.com/xfce/xfce-panel-plugins/language/ko/) | 
- | [xfce4-wavelan-plugin]({{< ref "/f42/package/xfce4-wavelan-plugin.md" >}}) | 81 | 81 | 100.0 | Korean (http://app.transifex.com/xfce/xfce-panel-plugins/language/ko/) | 
- | [xfce4-weather-plugin]({{< ref "/f42/package/xfce4-weather-plugin.md" >}}) | 3598 | 3598 | 100.0 | Korean (http://app.transifex.com/xfce/xfce-panel-plugins/language/ko/) | 
- | [xfce4-whiskermenu-plugin]({{< ref "/f42/package/xfce4-whiskermenu-plugin.md" >}}) | 439 | 439 | 100.0 | Korean (http://app.transifex.com/gottcode/xfce4-whiskermenu-plugin/language/ko/) | 
- | [xfconf]({{< ref "/f42/package/xfconf.md" >}}) | 458 | 458 | 100.0 | Korean (http://app.transifex.com/xfce/xfconf/language/ko/) | 
- | [xfmpc]({{< ref "/f42/package/xfmpc.md" >}}) | 175 | 175 | 100.0 | Korean (http://app.transifex.com/xfce/xfce-apps/language/ko/) | 
- | [xfwm4]({{< ref "/f42/package/xfwm4.md" >}}) | 670 | 670 | 100.0 | Korean (http://app.transifex.com/xfce/xfwm4/language/ko/) | 
- | [xkeyboard-config]({{< ref "/f42/package/xkeyboard-config.md" >}}) | 4253 | 4253 | 100.0 | Korean <translation-team-ko@googlegroups.com> | 
- | [xreader]({{< ref "/f42/package/xreader.md" >}}) | 1625 | 1625 | 100.0 | Korean (http://www.transifex.com/mate/MATE/language/ko/) | 
- | [xwaylandvideobridge]({{< ref "/f42/package/xwaylandvideobridge.md" >}}) | 28 | 28 | 100.0 | Korean <kde-kr@kde.org> | 
- | [xz]({{< ref "/f42/package/xz.md" >}}) | 13813 | 13813 | 100.0 | Korean <translation-team-ko@googlegroups.com> | 
- | [yakuake]({{< ref "/f42/package/yakuake.md" >}}) | 1671 | 1671 | 100.0 | Korean <kde-kr@kde.org> | 
- | [yelp]({{< ref "/f42/package/yelp.md" >}}) | 351 | 351 | 100.0 | GNOME Korea <gnome-kr@googlegroups.com> | 
- | [yelp-xsl]({{< ref "/f42/package/yelp-xsl.md" >}}) | 85 | 85 | 100.0 | GNOME Korea <gnome-kr@googlegroups.com> | 
- | [zanshin]({{< ref "/f42/package/zanshin.md" >}}) | 495 | 495 | 100.0 | Korean <kde-kr@kde.org> | 
- | [zenity]({{< ref "/f42/package/zenity.md" >}}) | 896 | 896 | 100.0 | GNOME Korea <gnome-kr@googlegroups.com> | 
- | [ktorrent]({{< ref "/f42/package/ktorrent.md" >}}) | 7524 | 7525 | 100.0 | Korean <kde-kr@kde.org> | 
- | [plasma-nm]({{< ref "/f42/package/plasma-nm.md" >}}) | 6453 | 6454 | 100.0 | Korean <kde-kr@kde.org> | 
- | [budgie-control-center]({{< ref "/f42/package/budgie-control-center.md" >}}) | 7910 | 7914 | 99.9 | Korean (https://app.transifex.com/buddiesofbudgie/teams/129844/ko/) | 
- | [gnome-user-docs]({{< ref "/f42/package/gnome-user-docs.md" >}}) | 67772 | 67812 | 99.9 | Korean <gnome-kr@googlegroups.com> | 
- | [konversation]({{< ref "/f42/package/konversation.md" >}}) | 10398 | 10405 | 99.9 | Korean <kde-kr@kde.org> | 
- | [akonadi-contacts]({{< ref "/f42/package/akonadi-contacts.md" >}}) | 1128 | 1129 | 99.9 | Korean <kde-kr@kde.org> | 
- | [plasma-workspace]({{< ref "/f42/package/plasma-workspace.md" >}}) | 10488 | 10498 | 99.9 | Korean <kde-kr@kde.org> | 
- | [plasma-workspace-x11]({{< ref "/f42/package/plasma-workspace-x11.md" >}}) | 10488 | 10498 | 99.9 | Korean <kde-kr@kde.org> | 
- | [bibletime]({{< ref "/f42/package/bibletime.md" >}}) | 9585 | 9595 | 99.9 | Korean (http://app.transifex.com/bibletime/bibletime/language/ko/) | 
- | [ardour6]({{< ref "/f42/package/ardour6.md" >}}) | 23789 | 23814 | 99.9 | Korean <kde-i18n-doc@kde.org> | 
- | [plasma-desktop]({{< ref "/f42/package/plasma-desktop.md" >}}) | 7729 | 7738 | 99.9 | Korean <kde-kr@kde.org> | 
- | [cura]({{< ref "/f42/package/cura.md" >}}) | 23478 | 23506 | 99.9 | LANGUAGE <LL@li.org> | 
- | [ardour7]({{< ref "/f42/package/ardour7.md" >}}) | 26609 | 26642 | 99.9 | Korean <kde-i18n-doc@kde.org> | 
- | [gucharmap]({{< ref "/f42/package/gucharmap.md" >}}) | 3189 | 3193 | 99.9 | GNOME Korea <gnome-kr@googlegroups.com> | 
- | [angelfish]({{< ref "/f42/package/angelfish.md" >}}) | 768 | 769 | 99.9 | Korean <kde-kr@kde.org> | 
- | [falkon]({{< ref "/f42/package/falkon.md" >}}) | 4846 | 4853 | 99.9 | Korean <kde-kr@kde.org> | 
- | [xfce4-panel]({{< ref "/f42/package/xfce4-panel.md" >}}) | 2042 | 2045 | 99.9 | Korean (https://app.transifex.com/xfce/teams/16840/ko/) | 
- | [kbibtex]({{< ref "/f42/package/kbibtex.md" >}}) | 2472 | 2476 | 99.8 | Korean <kde-kr@kde.org> | 
- | [kdesvn]({{< ref "/f42/package/kdesvn.md" >}}) | 4929 | 4937 | 99.8 | Korean <kde-kr@kde.org> | 
- | [system-config-printer]({{< ref "/f42/package/system-config-printer.md" >}}) | 3508 | 3514 | 99.8 | Korean <https://translate.fedoraproject.org/projects/system-config-printer/master/ko/> | 
- | [dolphin]({{< ref "/f42/package/dolphin.md" >}}) | 6931 | 6943 | 99.8 | Korean <kde-kr@kde.org> | 
- | [kleopatra]({{< ref "/f42/package/kleopatra.md" >}}) | 13192 | 13218 | 99.8 | Korean <kde-kr@kde.org> | 
- | [tilix]({{< ref "/f42/package/tilix.md" >}}) | 2804 | 2810 | 99.8 | Korean <https://hosted.weblate.org/projects/tilix/manpage/ko/> | 
- | [kmail]({{< ref "/f42/package/kmail.md" >}}) | 9120 | 9140 | 99.8 | Korean <kde-kr@kde.org> | 
- | [polari]({{< ref "/f42/package/polari.md" >}}) | 849 | 851 | 99.8 | Korean <gnome-kr@googlegroups.com> | 
- | [konqueror]({{< ref "/f42/package/konqueror.md" >}}) | 9208 | 9230 | 99.8 | Korean <kde-kr@kde.org> | 
- | [libidn]({{< ref "/f42/package/libidn.md" >}}) | 415 | 416 | 99.8 | Korean <translation-team-ko@googlegroups.com> | 
- | [mingw-libidn]({{< ref "/f42/package/mingw-libidn.md" >}}) | 415 | 416 | 99.8 | Korean <translation-team-ko@googlegroups.com> | 
- | [kvirc]({{< ref "/f42/package/kvirc.md" >}}) | 30969 | 31044 | 99.8 | Korean (http://app.transifex.com/kvirc/KVIrc/language/ko/) | 
- | [snownews]({{< ref "/f42/package/snownews.md" >}}) | 802 | 804 | 99.8 | Korean <orchidiii@gmail.com> | 
- | [virt-viewer]({{< ref "/f42/package/virt-viewer.md" >}}) | 744 | 746 | 99.7 | Korean <https://translate.fedoraproject.org/projects/virt-viewer/virt-viewer/ko/> | 
- | [gnome-devel-docs]({{< ref "/f42/package/gnome-devel-docs.md" >}}) | 146042 | 146458 | 99.7 | GNOME Korea <gnome-kr@googlegroups.com> | 
- | [kate]({{< ref "/f42/package/kate.md" >}}) | 8832 | 8858 | 99.7 | Korean <kde-kr@kde.org> | 
- | [kde-connect]({{< ref "/f42/package/kde-connect.md" >}}) | 1357 | 1361 | 99.7 | Korean <kde-kr@kde.org> | 
- | [plasma-discover]({{< ref "/f42/package/plasma-discover.md" >}}) | 3699 | 3710 | 99.7 | Korean <kde-kr@kde.org> | 
- | [orage]({{< ref "/f42/package/orage.md" >}}) | 2308 | 2315 | 99.7 | Korean (https://app.transifex.com/xfce/teams/16840/ko/) | 
- | [vlc]({{< ref "/f42/package/vlc.md" >}}) | 34703 | 34814 | 99.7 | Korean (https://app.transifex.com/yaron/teams/16553/ko/) | 
- | [kdevelop]({{< ref "/f42/package/kdevelop.md" >}}) | 15865 | 15918 | 99.7 | Korean <kde-kr@kde.org> | 
- | [qtwebkit]({{< ref "/f42/package/qtwebkit.md" >}}) | 1431 | 1436 | 99.7 | GNOME Korea <gnome-kr@googlegroups.com> | 
- | [lollypop]({{< ref "/f42/package/lollypop.md" >}}) | 1423 | 1428 | 99.6 | Korean <https://hosted.weblate.org/projects/gnumdk/lollypop/ko/> | 
- | [okular]({{< ref "/f42/package/okular.md" >}}) | 5896 | 5919 | 99.6 | Korean <kde-kr@kde.org> | 
- | [ardour8]({{< ref "/f42/package/ardour8.md" >}}) | 27955 | 28090 | 99.5 | Korean <kde-i18n-doc@kde.org> | 
- | [usermode]({{< ref "/f42/package/usermode.md" >}}) | 570 | 573 | 99.5 | Korean (http://www.transifex.com/projects/p/fedora/language/ko/) | 
- | [postgresql-jdbc]({{< ref "/f42/package/postgresql-jdbc.md" >}}) | 2839 | 2854 | 99.5 | PostgreSQL Translators<pgsql-translators@postgresql.org> | 
- | [alligator]({{< ref "/f42/package/alligator.md" >}}) | 189 | 190 | 99.5 | Korean <kde-kr@kde.org> | 
- | [libkleo]({{< ref "/f42/package/libkleo.md" >}}) | 3018 | 3034 | 99.5 | Korean <kde-kr@kde.org> | 
- | [xfce4-notifyd]({{< ref "/f42/package/xfce4-notifyd.md" >}}) | 563 | 566 | 99.5 | Korean (http://app.transifex.com/xfce/xfce-apps/language/ko/) | 
- | [pacman]({{< ref "/f42/package/pacman.md" >}}) | 5333 | 5362 | 99.5 | Korean (http://app.transifex.com/toofishes/archlinux-pacman/language/ko/) | 
- | [python-flask-admin]({{< ref "/f42/package/python-flask-admin.md" >}}) | 365 | 367 | 99.5 | Korean | 
- | [kiconedit]({{< ref "/f42/package/kiconedit.md" >}}) | 722 | 726 | 99.4 | Korean <cho.sungjae@gmail.com> | 
- | [grub2]({{< ref "/f42/package/grub2.md" >}}) | 8248 | 8295 | 99.4 | Korean <translation-team-ko@googlegroups.com> | 
- | [scratch]({{< ref "/f42/package/scratch.md" >}}) | 1461 | 1470 | 99.4 |  | 
- | [ufw-kde]({{< ref "/f42/package/ufw-kde.md" >}}) | 810 | 815 | 99.4 | Korean <kde@peremen.name> | 
- | [gtksourceview3]({{< ref "/f42/package/gtksourceview3.md" >}}) | 320 | 322 | 99.4 | GNOME Korean <gnome-kr@googlegroups.com> | 
- | [mingw-gtksourceview3]({{< ref "/f42/package/mingw-gtksourceview3.md" >}}) | 320 | 322 | 99.4 | GNOME Korean <gnome-kr@googlegroups.com> | 
- | [flare-engine]({{< ref "/f42/package/flare-engine.md" >}}) | 1911 | 1923 | 99.4 | Korean (https://www.transifex.com/flareorg/teams/84925/ko/) | 
- | [kf6-syntax-highlighting]({{< ref "/f42/package/kf6-syntax-highlighting.md" >}}) | 730 | 735 | 99.3 | Korean <kde-kr@kde.org> | 
- | [libecpg]({{< ref "/f42/package/libecpg.md" >}}) | 77131 | 77689 | 99.3 | Korean Team <kr@postgresql.org> | 
- | [libpq]({{< ref "/f42/package/libpq.md" >}}) | 77131 | 77689 | 99.3 | Korean Team <kr@postgresql.org> | 
- | [mingw-postgresql]({{< ref "/f42/package/mingw-postgresql.md" >}}) | 77131 | 77689 | 99.3 | Korean Team <kr@postgresql.org> | 
- | [postgresql16]({{< ref "/f42/package/postgresql16.md" >}}) | 77131 | 77689 | 99.3 | Korean Team <kr@postgresql.org> | 
- | [bijiben]({{< ref "/f42/package/bijiben.md" >}}) | 1266 | 1277 | 99.1 | GNOME Korea <gnome-kr@googlegroups.com> | 
- | [kf6-kio]({{< ref "/f42/package/kf6-kio.md" >}}) | 8532 | 8607 | 99.1 | Korean <kde-kr@kde.org> | 
- | [kalarm]({{< ref "/f42/package/kalarm.md" >}}) | 8463 | 8539 | 99.1 | Korean <kde-kr@kde.org> | 
- | [tuxpaint-stamps]({{< ref "/f42/package/tuxpaint-stamps.md" >}}) | 3220 | 3249 | 99.1 | <none> | 
- | [pykickstart]({{< ref "/f42/package/pykickstart.md" >}}) | 1628 | 1643 | 99.1 | Korean <https://translate.fedoraproject.org/projects/pykickstart/master/ko/> | 
- | [gftp]({{< ref "/f42/package/gftp.md" >}}) | 3339 | 3370 | 99.1 | GNOME Korean <Gnome-kr-hackers@lists.kldp.net> | 
- | [parted]({{< ref "/f42/package/parted.md" >}}) | 4585 | 4628 | 99.1 | Korean <translation-team-ko@googlegroups.com> | 
- | [kdeplasma-addons]({{< ref "/f42/package/kdeplasma-addons.md" >}}) | 2410 | 2434 | 99.0 | Korean <kde-kr@kde.org> | 
- | [rpi-imager]({{< ref "/f42/package/rpi-imager.md" >}}) | 13345 | 13480 | 99.0 | Korean <translation-team-ko@googlegroups.com> | 
- | [kpublictransport]({{< ref "/f42/package/kpublictransport.md" >}}) | 191 | 193 | 99.0 | Korean <kde-kr@kde.org> | 
- | [itinerary]({{< ref "/f42/package/itinerary.md" >}}) | 2791 | 2821 | 98.9 | Korean <kde-kr@kde.org> | 
- | [libvirt]({{< ref "/f42/package/libvirt.md" >}}) | 70517 | 71291 | 98.9 | Korean <https://translate.fedoraproject.org/projects/libvirt/libvirt/ko/> | 
- | [glade]({{< ref "/f42/package/glade.md" >}}) | 8528 | 8633 | 98.8 | GNOME Korea <gnome-kr@googlegroups.com> | 
- | [python-django4.2]({{< ref "/f42/package/python-django4.2.md" >}}) | 3791 | 3839 | 98.7 | Korean (http://www.transifex.com/django/django/language/ko/) | 
- | [boinc-client]({{< ref "/f42/package/boinc-client.md" >}}) | 21061 | 21342 | 98.7 | Korean (http://app.transifex.com/boinc/boinc/language/ko/) | 
- | [cpio]({{< ref "/f42/package/cpio.md" >}}) | 1910 | 1936 | 98.7 | Korean <translation-team-ko@googlegroups.com> | 
- | [pragha]({{< ref "/f42/package/pragha.md" >}}) | 878 | 890 | 98.7 | Korean (Korea) (http://www.transifex.com/p/Pragha/language/ko_KR/) | 
- | [gnome-panel]({{< ref "/f42/package/gnome-panel.md" >}}) | 5183 | 5256 | 98.6 | GNOME Korea <gnome-kr-hackers@lists.kldp.net> | 
- | [R-pkgdown]({{< ref "/f42/package/R-pkgdown.md" >}}) | 126 | 128 | 98.4 | @mrchypark | 
- | [gnome-shell-extension-system-monitor-applet]({{< ref "/f42/package/gnome-shell-extension-system-monitor-applet.md" >}}) | 188 | 191 | 98.4 |  | 
- | [cinnamon-translations]({{< ref "/f42/package/cinnamon-translations.md" >}}) | 23621 | 24004 | 98.4 | Korean <ko@li.org> | 
- | [dolphin-emu]({{< ref "/f42/package/dolphin-emu.md" >}}) | 19063 | 19374 | 98.4 | Korean (http://app.transifex.com/dolphinemu/dolphin-emu/language/ko/) | 
- | [xfce4-terminal]({{< ref "/f42/package/xfce4-terminal.md" >}}) | 1618 | 1645 | 98.4 | Korean (http://app.transifex.com/xfce/xfce-apps/language/ko/) | 
- | [python-formencode]({{< ref "/f42/package/python-formencode.md" >}}) | 811 | 825 | 98.3 | Hong Minhee <minhee@dahlia.kr> | 
- | [compiz-plugins-main]({{< ref "/f42/package/compiz-plugins-main.md" >}}) | 4145 | 4218 | 98.3 | Korean <ko@li.org> | 
- | [xfce4-screensaver]({{< ref "/f42/package/xfce4-screensaver.md" >}}) | 668 | 680 | 98.2 | Korean (https://app.transifex.com/xfce/teams/16840/ko/) | 
- | [inkscape]({{< ref "/f42/package/inkscape.md" >}}) | 50571 | 51528 | 98.1 | 이정희 <daemul72@gmail.com> | 
- | [NetworkManager-libreswan]({{< ref "/f42/package/NetworkManager-libreswan.md" >}}) | 456 | 465 | 98.1 | GNOME Korea <gnome-kr-hackers@lists.kldp.net> | 
- | [rabbitvcs]({{< ref "/f42/package/rabbitvcs.md" >}}) | 1797 | 1833 | 98.0 | Korean | 
- | [wine]({{< ref "/f42/package/wine.md" >}}) | 19238 | 19628 | 98.0 | Korean | 
- | [exo]({{< ref "/f42/package/exo.md" >}}) | 738 | 753 | 98.0 | Korean (http://app.transifex.com/xfce/exo/language/ko/) | 
- | [elementary-photos]({{< ref "/f42/package/elementary-photos.md" >}}) | 2803 | 2862 | 97.9 | Korean <https://l10n.elementary.io/projects/photos/photos/ko/> | 
- | [man-db]({{< ref "/f42/package/man-db.md" >}}) | 9635 | 9841 | 97.9 | Korean <translation-team-ko@lists.sourceforge.net> | 
- | [gnome-do]({{< ref "/f42/package/gnome-do.md" >}}) | 599 | 612 | 97.9 | Korean <ko@li.org> | 
- | [firewalld]({{< ref "/f42/package/firewalld.md" >}}) | 2036 | 2083 | 97.7 | Korean <https://translate.fedoraproject.org/projects/firewalld/master/ko/> | 
- | [volume_key]({{< ref "/f42/package/volume_key.md" >}}) | 745 | 763 | 97.6 | Korean (http://www.transifex.com/projects/p/fedora/language/ko/) | 
- | [sakura]({{< ref "/f42/package/sakura.md" >}}) | 203 | 208 | 97.6 | Korean <ko@li.org> | 
- | [wget2]({{< ref "/f42/package/wget2.md" >}}) | 2709 | 2777 | 97.6 | Korean <translation-team-ko@googlegroups.com> | 
- | [supertuxkart]({{< ref "/f42/package/supertuxkart.md" >}}) | 5957 | 6107 | 97.5 | Korean (http://app.transifex.com/supertuxkart/supertuxkart/language/ko/) | 
- | [ktechlab]({{< ref "/f42/package/ktechlab.md" >}}) | 3612 | 3704 | 97.5 | Korean <kde-kr@kde.org> | 
- | [amarok]({{< ref "/f42/package/amarok.md" >}}) | 13950 | 14307 | 97.5 | Korean <kde-kr@kde.org> | 
- | [xfce4-xkb-plugin]({{< ref "/f42/package/xfce4-xkb-plugin.md" >}}) | 116 | 119 | 97.5 | Korean (http://app.transifex.com/xfce/xfce-panel-plugins/language/ko/) | 
- | [xpad]({{< ref "/f42/package/xpad.md" >}}) | 425 | 436 | 97.5 | Korean <translation-team-ko@lists.sourceforge.net> | 
- | [video-downloader]({{< ref "/f42/package/video-downloader.md" >}}) | 151 | 155 | 97.4 | Korean <https://hosted.weblate.org/projects/video-downloader/gui/ko/> | 
- | [kjots]({{< ref "/f42/package/kjots.md" >}}) | 633 | 651 | 97.2 | Korean <kde-kr@kde.org> | 
- | [remmina]({{< ref "/f42/package/remmina.md" >}}) | 5257 | 5407 | 97.2 | Korean <https://hosted.weblate.org/projects/remmina/remmina/ko/> | 
- | [kde-l10n]({{< ref "/f42/package/kde-l10n.md" >}}) | 94329 | 97063 | 97.2 | Korean <cho.sungjae@gmail.com> | 
- | [heaptrack]({{< ref "/f42/package/heaptrack.md" >}}) | 1365 | 1405 | 97.2 | Korean <kde-kr@kde.org> | 
- | [baloo-widgets]({{< ref "/f42/package/baloo-widgets.md" >}}) | 68 | 70 | 97.1 | Korean <kde-kr@kde.org> | 
- | [python-django-allauth]({{< ref "/f42/package/python-django-allauth.md" >}}) | 1759 | 1811 | 97.1 | Korean <https://hosted.weblate.org/projects/allauth/django-allauth/ko/> | 
- | [maui-mauikit-documents]({{< ref "/f42/package/maui-mauikit-documents.md" >}}) | 67 | 69 | 97.1 | Korean <kde-kr@kde.org> | 
- | [bottles]({{< ref "/f42/package/bottles.md" >}}) | 3350 | 3451 | 97.1 | Korean <https://hosted.weblate.org/projects/bottles/bottles/ko/> | 
- | [kclock]({{< ref "/f42/package/kclock.md" >}}) | 493 | 509 | 96.9 | Korean <kde-kr@kde.org> | 
- | [findutils]({{< ref "/f42/package/findutils.md" >}}) | 2426 | 2509 | 96.7 | Korean <translation-team-ko@googlegroups.com> | 
- | [kf5-kcontacts]({{< ref "/f42/package/kf5-kcontacts.md" >}}) | 171 | 177 | 96.6 | Korean <kde-kr@kde.org> | 
- | [catfish]({{< ref "/f42/package/catfish.md" >}}) | 541 | 560 | 96.6 | Korean (https://app.transifex.com/xfce/teams/16840/ko/) | 
- | [im-chooser]({{< ref "/f42/package/im-chooser.md" >}}) | 253 | 262 | 96.6 | Korean <https://translate.fedoraproject.org/projects/im-chooser/master/ko/> | 
- | [mate-session-manager]({{< ref "/f42/package/mate-session-manager.md" >}}) | 691 | 717 | 96.4 | Korean (https://app.transifex.com/mate/teams/13566/ko/) | 
- | [rhythmbox-alternative-toolbar]({{< ref "/f42/package/rhythmbox-alternative-toolbar.md" >}}) | 341 | 354 | 96.3 | Korean <ko@li.org> | 
- | [korganizer]({{< ref "/f42/package/korganizer.md" >}}) | 7755 | 8057 | 96.3 | Korean <kde-kr@kde.org> | 
- | [WindowMaker]({{< ref "/f42/package/WindowMaker.md" >}}) | 4239 | 4412 | 96.1 | Korean | 
- | [kicad]({{< ref "/f42/package/kicad.md" >}}) | 52020 | 54151 | 96.1 | Korean <https://hosted.weblate.org/projects/kicad/v9/ko/> | 
- | [mc]({{< ref "/f42/package/mc.md" >}}) | 4252 | 4435 | 95.9 | Korean (http://app.transifex.com/mc/mc/language/ko/) | 
- | [zabbix]({{< ref "/f42/package/zabbix.md" >}}) | 23718 | 24748 | 95.8 | Zabbix <info@zabbix.com> | 
- | [tar]({{< ref "/f42/package/tar.md" >}}) | 3519 | 3677 | 95.7 | Korean <translation-team-ko@googlegroups.com> | 
- | [neochat]({{< ref "/f42/package/neochat.md" >}}) | 4608 | 4815 | 95.7 | Korean <kde-kr@kde.org> | 
- | [lxinput]({{< ref "/f42/package/lxinput.md" >}}) | 81 | 85 | 95.3 | LANGUAGE <LL@li.org> | 
- | [xfce4-appfinder]({{< ref "/f42/package/xfce4-appfinder.md" >}}) | 480 | 504 | 95.2 | Korean (http://app.transifex.com/xfce/xfce4-appfinder/language/ko/) | 
- | [wget1]({{< ref "/f42/package/wget1.md" >}}) | 3903 | 4100 | 95.2 | Korean <translation-team-ko@lists.sourceforge.net> | 
- | [mate-menus]({{< ref "/f42/package/mate-menus.md" >}}) | 98 | 103 | 95.1 | Korean (https://app.transifex.com/mate/teams/13566/ko/) | 
- | [fielding]({{< ref "/f42/package/fielding.md" >}}) | 39 | 41 | 95.1 | Korean <kde-kr@kde.org> | 
- | [dialect]({{< ref "/f42/package/dialect.md" >}}) | 1081 | 1138 | 95.0 |  | 
- | [kf5-kirigami2-addons]({{< ref "/f42/package/kf5-kirigami2-addons.md" >}}) | 366 | 386 | 94.8 | Korean <kde-kr@kde.org> | 
- | [plasma-camera]({{< ref "/f42/package/plasma-camera.md" >}}) | 126 | 133 | 94.7 | Korean <kde-kr@kde.org> | 
- | [realmd]({{< ref "/f42/package/realmd.md" >}}) | 789 | 833 | 94.7 | Korean (http://www.transifex.com/freedesktop/realmd/language/ko/) | 
- | [kf6-kirigami]({{< ref "/f42/package/kf6-kirigami.md" >}}) | 89 | 94 | 94.7 | Korean <kde-kr@kde.org> | 
- | [mate-media]({{< ref "/f42/package/mate-media.md" >}}) | 231 | 244 | 94.7 | Korean (https://app.transifex.com/mate/teams/13566/ko/) | 
- | [console-setup]({{< ref "/f42/package/console-setup.md" >}}) | 939 | 992 | 94.7 | Korean <debian-l10n-korean@lists.debian.org> | 
- | [eventviews]({{< ref "/f42/package/eventviews.md" >}}) | 3373 | 3564 | 94.6 | Korean <kde-kr@kde.org> | 
- | [ccsm]({{< ref "/f42/package/ccsm.md" >}}) | 558 | 591 | 94.4 | Korean <ko@li.org> | 
- | [libgedit-gtksourceview]({{< ref "/f42/package/libgedit-gtksourceview.md" >}}) | 301 | 319 | 94.4 | GNOME Korean <gnome-kr@googlegroups.com> | 
- | [kf6-kcontacts]({{< ref "/f42/package/kf6-kcontacts.md" >}}) | 162 | 172 | 94.2 | Korean <kde-kr@kde.org> | 
- | [calligra]({{< ref "/f42/package/calligra.md" >}}) | 28397 | 30189 | 94.1 | Korean <kde-kr@kde.org> | 
- | [sssd]({{< ref "/f42/package/sssd.md" >}}) | 4581 | 4893 | 93.6 | Korean <https://translate.fedoraproject.org/projects/sssd/sssd-master/ko/> | 
- | [emerald]({{< ref "/f42/package/emerald.md" >}}) | 651 | 696 | 93.5 | Korean <ko@li.org> | 
- | [bleachbit]({{< ref "/f42/package/bleachbit.md" >}}) | 1798 | 1923 | 93.5 |  | 
- | [diffutils]({{< ref "/f42/package/diffutils.md" >}}) | 1759 | 1883 | 93.4 | Korean <translation-team-ko@googlegroups.com> | 
- | [popt]({{< ref "/f42/package/popt.md" >}}) | 84 | 90 | 93.3 | Korean <https://translate.fedoraproject.org/projects/popt/master/ko/> | 
- | [supertux]({{< ref "/f42/package/supertux.md" >}}) | 3268 | 3505 | 93.2 | Korean (http://www.transifex.com/arctic-games/supertux/language/ko/) | 
- | [kmymoney]({{< ref "/f42/package/kmymoney.md" >}}) | 20751 | 22270 | 93.2 | Korean <kde-kr@kde.org> | 
- | [xiphos]({{< ref "/f42/package/xiphos.md" >}}) | 4654 | 4995 | 93.2 | Seong-ho Cho <shcho@gnome.org> | 
- | [kgeotag]({{< ref "/f42/package/kgeotag.md" >}}) | 1805 | 1954 | 92.4 | Korean <kde-kr@kde.org> | 
- | [caja]({{< ref "/f42/package/caja.md" >}}) | 9379 | 10156 | 92.3 | Korean (https://app.transifex.com/mate/teams/13566/ko/) | 
- | [fcitx5-mozc]({{< ref "/f42/package/fcitx5-mozc.md" >}}) | 102 | 111 | 91.9 | Korean (http://www.transifex.com/fcitx/fcitx/language/ko/) | 
- | [mate-screensaver]({{< ref "/f42/package/mate-screensaver.md" >}}) | 1011 | 1101 | 91.8 | Korean (https://app.transifex.com/mate/teams/13566/ko/) | 
- | [metadata-cleaner]({{< ref "/f42/package/metadata-cleaner.md" >}}) | 658 | 718 | 91.6 | Korean <https://hosted.weblate.org/projects/metadata-cleaner/application/ko/> | 
- | [system-config-language]({{< ref "/f42/package/system-config-language.md" >}}) | 197 | 215 | 91.6 | Korean <ko@li.org> | 
- | [libappstream-glib]({{< ref "/f42/package/libappstream-glib.md" >}}) | 927 | 1013 | 91.5 | Korean (http://www.transifex.com/freedesktop/appstream-glib/language/ko/) | 
- | [python-hyperkitty]({{< ref "/f42/package/python-hyperkitty.md" >}}) | 851 | 937 | 90.8 | Korean <https://hosted.weblate.org/projects/gnu-mailman/hyperkitty/ko/> | 
- | [koko]({{< ref "/f42/package/koko.md" >}}) | 524 | 577 | 90.8 | Korean <kde-kr@kde.org> | 
- | [a2ps]({{< ref "/f42/package/a2ps.md" >}}) | 1388 | 1532 | 90.6 | Korean <translation-team-ko@googlegroups.com> | 
- | [mate-settings-daemon]({{< ref "/f42/package/mate-settings-daemon.md" >}}) | 1995 | 2203 | 90.6 | Korean (https://app.transifex.com/mate/teams/13566/ko/) | 
- | [synapse]({{< ref "/f42/package/synapse.md" >}}) | 775 | 856 | 90.5 | Kim Boram <Boramism@gmail.com> | 
- | [caja-extensions]({{< ref "/f42/package/caja-extensions.md" >}}) | 764 | 845 | 90.4 | Korean (https://app.transifex.com/mate/teams/13566/ko/) | 
- | [compiz-plugins-extra]({{< ref "/f42/package/compiz-plugins-extra.md" >}}) | 3408 | 3773 | 90.3 | Korean <ko@li.org> | 
- | [synfigstudio]({{< ref "/f42/package/synfigstudio.md" >}}) | 6647 | 7371 | 90.2 | Korean (Korea) (http://www.transifex.com/morevnaproject/synfig/language/ko_KR/) | 
- | [kf5-kdelibs4support]({{< ref "/f42/package/kf5-kdelibs4support.md" >}}) | 4825 | 5353 | 90.1 | Korean <kde-kr@kde.org> | 
- | [xfce4-screenshooter]({{< ref "/f42/package/xfce4-screenshooter.md" >}}) | 515 | 573 | 89.9 | Korean (http://app.transifex.com/xfce/xfce-apps/language/ko/) | 
- | [help2man]({{< ref "/f42/package/help2man.md" >}}) | 510 | 570 | 89.5 | Korean <translation-team-ko@googlegroups.com> | 
- | [khangman]({{< ref "/f42/package/khangman.md" >}}) | 402 | 450 | 89.3 | Korean <kde-kr@kde.org> | 
- | [synfig]({{< ref "/f42/package/synfig.md" >}}) | 4353 | 4879 | 89.2 | Korean (Korea) (http://www.transifex.com/morevnaproject/synfig/language/ko_KR/) | 
- | [pgadmin4]({{< ref "/f42/package/pgadmin4.md" >}}) | 14901 | 16739 | 89.0 |  | 
- | [mate-desktop]({{< ref "/f42/package/mate-desktop.md" >}}) | 2146 | 2412 | 89.0 | Korean (https://app.transifex.com/mate/teams/13566/ko/) | 
- | [marker]({{< ref "/f42/package/marker.md" >}}) | 178 | 202 | 88.1 |  | 
- | [budgie-desktop]({{< ref "/f42/package/budgie-desktop.md" >}}) | 1638 | 1859 | 88.1 | Korean (https://app.transifex.com/buddiesofbudgie/teams/129844/ko/) | 
- | [marco]({{< ref "/f42/package/marco.md" >}}) | 3671 | 4171 | 88.0 | Korean (https://app.transifex.com/mate/teams/13566/ko/) | 
- | [imsettings]({{< ref "/f42/package/imsettings.md" >}}) | 440 | 500 | 88.0 | LANGUAGE <LL@li.org> | 
- | [zypper]({{< ref "/f42/package/zypper.md" >}}) | 8944 | 10164 | 88.0 | Korean <https://l10n.opensuse.org/projects/zypper/master/ko/> | 
- | [haruna]({{< ref "/f42/package/haruna.md" >}}) | 2063 | 2345 | 88.0 | Korean <kde-kr@kde.org> | 
- | [python-wtforms]({{< ref "/f42/package/python-wtforms.md" >}}) | 166 | 189 | 87.8 | ko_KR <6566gun@gmail.com> | 
- | [kontact]({{< ref "/f42/package/kontact.md" >}}) | 434 | 495 | 87.7 | Korean <kde-kr@kde.org> | 
- | [wingpanel-indicator-bluetooth]({{< ref "/f42/package/wingpanel-indicator-bluetooth.md" >}}) | 70 | 80 | 87.5 | Korean <https://l10n.elementary.io/projects/wingpanel/wingpanel-indicator-bluetooth/ko/> | 
- | [elementary-camera]({{< ref "/f42/package/elementary-camera.md" >}}) | 123 | 141 | 87.2 | Korean <https://l10n.elementary.io/projects/camera/camera/ko/> | 
- | [avogadro2-libs]({{< ref "/f42/package/avogadro2-libs.md" >}}) | 4937 | 5676 | 87.0 | Korean <https://hosted.weblate.org/projects/avogadro/avogadrolibs/ko/> | 
- | [avogadro2]({{< ref "/f42/package/avogadro2.md" >}}) | 400 | 461 | 86.8 | Korean <https://hosted.weblate.org/projects/avogadro/avogadroapp/ko/> | 
- | [gnome-2048]({{< ref "/f42/package/gnome-2048.md" >}}) | 331 | 382 | 86.6 | GNOME Korea <gnome-kr@googlegroups.com> | 
- | [gnome-shell-extension-blur-my-shell]({{< ref "/f42/package/gnome-shell-extension-blur-my-shell.md" >}}) | 863 | 996 | 86.6 | Korean <https://hosted.weblate.org/projects/blur-my-shell/blur-my-shell/ko/> | 
- | [gnome-shell-extension-dash-to-panel]({{< ref "/f42/package/gnome-shell-extension-dash-to-panel.md" >}}) | 1033 | 1198 | 86.2 | 이정희 <daemul72@gmail.com> | 
- | [gnome-shell-extension-gsconnect]({{< ref "/f42/package/gnome-shell-extension-gsconnect.md" >}}) | 776 | 902 | 86.0 | Korean | 
- | [xfdesktop]({{< ref "/f42/package/xfdesktop.md" >}}) | 1045 | 1215 | 86.0 | Korean (http://app.transifex.com/xfce/xfdesktop/language/ko/) | 
- | [xfdashboard]({{< ref "/f42/package/xfdashboard.md" >}}) | 928 | 1084 | 85.6 | Korean (https://www.transifex.com/xfce/teams/16840/ko/) | 
- | [mkvtoolnix]({{< ref "/f42/package/mkvtoolnix.md" >}}) | 38277 | 44732 | 85.6 | Korean (http://www.transifex.com/moritz-bunkus/mkvtoolnix/language/ko/) | 
- | [debconf]({{< ref "/f42/package/debconf.md" >}}) | 737 | 862 | 85.5 | Korean <debian-l10n-korean@lists.debian.org> | 
- | [Thunar]({{< ref "/f42/package/Thunar.md" >}}) | 4990 | 5847 | 85.3 | Korean (https://app.transifex.com/xfce/teams/16840/ko/) | 
- | [shared-mime-info]({{< ref "/f42/package/shared-mime-info.md" >}}) | 1929 | 2266 | 85.1 | Korean (http://app.transifex.com/freedesktop/shared-mime-info/language/ko/) | 
- | [slrn]({{< ref "/f42/package/slrn.md" >}}) | 4509 | 5351 | 84.3 | Korean - Im Eunjea <eunjea@kldp.org> | 
- | [kmahjongg]({{< ref "/f42/package/kmahjongg.md" >}}) | 302 | 359 | 84.1 | Korean <kde-kr@kde.org> | 
- | [mate-user-admin]({{< ref "/f42/package/mate-user-admin.md" >}}) | 508 | 605 | 84.0 | Korean (https://www.transifex.com/mate/teams/13566/ko/) | 
- | [deepin-daemon]({{< ref "/f42/package/deepin-daemon.md" >}}) | 1034 | 1235 | 83.7 | Korean (https://app.transifex.com/linuxdeepin/teams/3617/ko/) | 
- | [thonny]({{< ref "/f42/package/thonny.md" >}}) | 1597 | 1910 | 83.6 |  | 
- | [yudit]({{< ref "/f42/package/yudit.md" >}}) | 250 | 299 | 83.6 | Jungshik Shin <jshin@jshin.net> | 
- | [switchdesk]({{< ref "/f42/package/switchdesk.md" >}}) | 102 | 122 | 83.6 | Korean <ko@li.org> | 
- | [NetworkManager]({{< ref "/f42/package/NetworkManager.md" >}}) | 24077 | 29194 | 82.5 | GNOME Korea <gnome-kr@googlegroups.com> | 
- | [kBuild]({{< ref "/f42/package/kBuild.md" >}}) | 1808 | 2207 | 81.9 | Korean <translation-team-ko@googlegroups.com> | 
- | [kdnssd]({{< ref "/f42/package/kdnssd.md" >}}) | 27 | 33 | 81.8 | Korean <kde-kr@kde.org> | 
- | [gnome-commander]({{< ref "/f42/package/gnome-commander.md" >}}) | 6944 | 8491 | 81.8 | <> | 
- | [kaichat]({{< ref "/f42/package/kaichat.md" >}}) | 98 | 120 | 81.7 | Korean <kde-kr@kde.org> | 
- | [dragon]({{< ref "/f42/package/dragon.md" >}}) | 138 | 170 | 81.2 | Korean <kde-kr@kde.org> | 
- | [kommit]({{< ref "/f42/package/kommit.md" >}}) | 1260 | 1558 | 80.9 | Korean <kde-kr@kde.org> | 
- | [celluloid]({{< ref "/f42/package/celluloid.md" >}}) | 1526 | 1888 | 80.8 | Korean <https://hosted.weblate.org/projects/celluloid/celluloid/ko/> | 
- | [shutter]({{< ref "/f42/package/shutter.md" >}}) | 2495 | 3093 | 80.7 | Korean <ko@li.org> | 
- | [cpu-x]({{< ref "/f42/package/cpu-x.md" >}}) | 1378 | 1711 | 80.5 | Korean <https://hosted.weblate.org/projects/cpu-x/translations/ko/> | 
- | [gthumb]({{< ref "/f42/package/gthumb.md" >}}) | 2101 | 2610 | 80.5 | GNOME Korea <gnome-kr-hackers@lists.kldp.net> | 
- | [geeqie]({{< ref "/f42/package/geeqie.md" >}}) | 5151 | 6401 | 80.5 | Korean (https://www.transifex.com/marong/teams/140301/ko/) | 
- | [elementary-screenshot]({{< ref "/f42/package/elementary-screenshot.md" >}}) | 103 | 128 | 80.5 | Korean <https://l10n.elementary.io/projects/screenshot/screenshot/ko/> | 
- | [python-sphinx]({{< ref "/f42/package/python-sphinx.md" >}}) | 4543 | 5669 | 80.1 | Korean (http://app.transifex.com/sphinx-doc/sphinx-1/language/ko/) | 
- | [monodevelop]({{< ref "/f42/package/monodevelop.md" >}}) | 18628 | 23298 | 80.0 | Junil Um <powerumc@gmail.com> | 
- | [gnome-applets]({{< ref "/f42/package/gnome-applets.md" >}}) | 11769 | 14823 | 79.4 | GNOME Korea <gnome-kr-hackers@lists.kldp.net> | 
- | [python-django-rest-framework]({{< ref "/f42/package/python-django-rest-framework.md" >}}) | 555 | 702 | 79.1 | Korean (Korea) (http://www.transifex.com/django-rest-framework-1/django-rest-framework/language/ko_KR/) | 
- | [crow-translate]({{< ref "/f42/package/crow-translate.md" >}}) | 1244 | 1574 | 79.0 |  | 
- | [mate-panel]({{< ref "/f42/package/mate-panel.md" >}}) | 5327 | 6753 | 78.9 | Korean (https://app.transifex.com/mate/teams/13566/ko/) | 
- | [goaccess]({{< ref "/f42/package/goaccess.md" >}}) | 991 | 1269 | 78.1 | Korean <dcyang@users.noreply.github.com> | 
- | [elementary-files]({{< ref "/f42/package/elementary-files.md" >}}) | 2066 | 2656 | 77.8 | Korean <https://l10n.elementary.io/projects/files/files/ko/> | 
- | [krita]({{< ref "/f42/package/krita.md" >}}) | 27758 | 36174 | 76.7 | Korean <kde-kr@kde.org> | 
- | [appstream]({{< ref "/f42/package/appstream.md" >}}) | 5389 | 7085 | 76.1 | Korean <https://hosted.weblate.org/projects/appstream/translations/ko/> | 
- | [python-django-mailman3]({{< ref "/f42/package/python-django-mailman3.md" >}}) | 355 | 467 | 76.0 | Korean <https://hosted.weblate.org/projects/gnu-mailman/django-mailman3/ko/> | 
- | [libzypp]({{< ref "/f42/package/libzypp.md" >}}) | 2218 | 2926 | 75.8 | Korean <https://l10n.opensuse.org/projects/libzypp/master/ko/> | 
- | [phd2]({{< ref "/f42/package/phd2.md" >}}) | 5799 | 7682 | 75.5 | Korean <Korean> | 
- | [warzone2100]({{< ref "/f42/package/warzone2100.md" >}}) | 12990 | 17218 | 75.4 | Korean | 
- | [mate-notification-daemon]({{< ref "/f42/package/mate-notification-daemon.md" >}}) | 140 | 186 | 75.3 | Korean (https://app.transifex.com/mate/teams/13566/ko/) | 
- | [leafpad]({{< ref "/f42/package/leafpad.md" >}}) | 94 | 125 | 75.2 | Korean | 
- | [mingw-wxWidgets3]({{< ref "/f42/package/mingw-wxWidgets3.md" >}}) | 5770 | 7695 | 75.0 | Korean <Korean> | 
- | [elementary-calculator]({{< ref "/f42/package/elementary-calculator.md" >}}) | 130 | 174 | 74.7 | Korean <https://l10n.elementary.io/projects/calculator/calculator/ko/> | 
- | [dino]({{< ref "/f42/package/dino.md" >}}) | 607 | 813 | 74.7 | none | 
- | [elementary-calendar]({{< ref "/f42/package/elementary-calendar.md" >}}) | 500 | 670 | 74.6 | Korean <https://l10n.elementary.io/projects/calendar/calendar/ko/> | 
- | [visualboyadvance-m]({{< ref "/f42/package/visualboyadvance-m.md" >}}) | 4765 | 6459 | 73.8 | Korean (Korea) (http://app.transifex.com/bgk/vba-m/language/ko_KR/) | 
- | [compiz]({{< ref "/f42/package/compiz.md" >}}) | 3140 | 4385 | 71.6 | Korean <ko@li.org> | 
- | [atlantik]({{< ref "/f42/package/atlantik.md" >}}) | 405 | 566 | 71.6 | Korean <kde-kr@kde.org> | 
- | [l3afpad]({{< ref "/f42/package/l3afpad.md" >}}) | 93 | 130 | 71.5 | Korean | 
- | [sugar-maze]({{< ref "/f42/package/sugar-maze.md" >}}) | 5 | 7 | 71.4 | LANGUAGE <LL@li.org> | 
- | [gimp]({{< ref "/f42/package/gimp.md" >}}) | 29129 | 40824 | 71.4 |  | 
- | [hardinfo2]({{< ref "/f42/package/hardinfo2.md" >}}) | 3187 | 4476 | 71.2 |  | 
- | [pitivi]({{< ref "/f42/package/pitivi.md" >}}) | 1086 | 1527 | 71.1 | Ubuntu Korean Translators <ubuntu-ko@lists.ubuntu.com> | 
- | [mailman3]({{< ref "/f42/package/mailman3.md" >}}) | 3432 | 4830 | 71.1 | Korean <https://hosted.weblate.org/projects/gnu-mailman/mailman/ko/> | 
- | [libuser]({{< ref "/f42/package/libuser.md" >}}) | 1020 | 1437 | 71.0 | Korean (http://www.transifex.com/projects/p/fedora/language/ko/) | 
- | [alsa-utils]({{< ref "/f42/package/alsa-utils.md" >}}) | 1367 | 1928 | 70.9 | Librezale <librezale@librezale.eus> | 
- | [ktuberling]({{< ref "/f42/package/ktuberling.md" >}}) | 111 | 158 | 70.3 | Korean <kde-kr@kde.org> | 
- | [widelands]({{< ref "/f42/package/widelands.md" >}}) | 67600 | 96708 | 69.9 | Korean (http://app.transifex.com/widelands/widelands/language/ko/) | 
- | [udisks2]({{< ref "/f42/package/udisks2.md" >}}) | 1517 | 2187 | 69.4 | Korean | 
- | [python-postorius]({{< ref "/f42/package/python-postorius.md" >}}) | 3579 | 5165 | 69.3 | Korean <https://hosted.weblate.org/projects/gnu-mailman/postorius/ko/> | 
- | [libnma]({{< ref "/f42/package/libnma.md" >}}) | 558 | 807 | 69.1 | GNOME Korea <gnome-kr@googlegroups.com> | 
- | [sugar-toolkit-gtk3]({{< ref "/f42/package/sugar-toolkit-gtk3.md" >}}) | 146 | 213 | 68.5 | LANGUAGE <LL@li.org> | 
- | [terminator]({{< ref "/f42/package/terminator.md" >}}) | 1042 | 1522 | 68.5 | Korean (https://www.transifex.com/terminator/teams/109338/ko/) | 
- | [R]({{< ref "/f42/package/R.md" >}}) | 28291 | 41499 | 68.2 |  | 
- | [kexi]({{< ref "/f42/package/kexi.md" >}}) | 17 | 25 | 68.0 | Korean <kde@peremen.name> | 
- | [python-wxpython4]({{< ref "/f42/package/python-wxpython4.md" >}}) | 5324 | 7837 | 67.9 | Korean <Korean> | 
- | [wxGTK]({{< ref "/f42/package/wxGTK.md" >}}) | 5324 | 7837 | 67.9 | Korean <Korean> | 
- | [rednotebook]({{< ref "/f42/package/rednotebook.md" >}}) | 864 | 1280 | 67.5 | Korean <https://hosted.weblate.org/projects/rednotebook/desktop-app/ko/> | 
- | [icewm]({{< ref "/f42/package/icewm.md" >}}) | 1681 | 2500 | 67.2 | Korean <https://l10n.opensuse.org/projects/icewm/icewm-1-4-branch/ko/> | 
- | [abiword]({{< ref "/f42/package/abiword.md" >}}) | 3684 | 5510 | 66.9 | Korean | 
- | [python-humanize]({{< ref "/f42/package/python-humanize.md" >}}) | 88 | 132 | 66.7 | ko_KR <LL@li.org> | 
- | [Zim]({{< ref "/f42/package/Zim.md" >}}) | 2345 | 3529 | 66.4 | Korean <https://hosted.weblate.org/projects/zim/develop/ko/> | 
- | [gettext]({{< ref "/f42/package/gettext.md" >}}) | 8415 | 12669 | 66.4 | Korean <translation-team-ko@googlegroups.com> | 
- | [mingw-gettext]({{< ref "/f42/package/mingw-gettext.md" >}}) | 8415 | 12669 | 66.4 | Korean <translation-team-ko@googlegroups.com> | 
- | [variety]({{< ref "/f42/package/variety.md" >}}) | 1866 | 2811 | 66.4 | Korean (https://www.transifex.com/variety/teams/123174/ko/) | 
- | [minuet]({{< ref "/f42/package/minuet.md" >}}) | 350 | 534 | 65.5 | Korean <kde-kr@kde.org> | 
- | [gbrainy]({{< ref "/f42/package/gbrainy.md" >}}) | 3675 | 5680 | 64.7 | Korean <ko@li.org> | 
- | [p11-kit]({{< ref "/f42/package/p11-kit.md" >}}) | 1133 | 1764 | 64.2 | Korean (http://www.transifex.com/freedesktop/p11-kit/language/ko/) | 
- | [wingpanel-indicator-a11y]({{< ref "/f42/package/wingpanel-indicator-a11y.md" >}}) | 35 | 55 | 63.6 | Korean <https://l10n.elementary.io/projects/wingpanel/indicator-a11y/ko/> | 
- | [mate-power-manager]({{< ref "/f42/package/mate-power-manager.md" >}}) | 3259 | 5123 | 63.6 | Korean (https://app.transifex.com/mate/teams/13566/ko/) | 
- | [workrave]({{< ref "/f42/package/workrave.md" >}}) | 951 | 1499 | 63.4 | Korean <freeware@softwant.com> | 
- | [pdfarranger]({{< ref "/f42/package/pdfarranger.md" >}}) | 357 | 563 | 63.4 |  | 
- | [pidgin]({{< ref "/f42/package/pidgin.md" >}}) | 8769 | 13994 | 62.7 | Korean (http://app.transifex.com/pidgin/pidgin/language/ko/) | 
- | [furnace]({{< ref "/f42/package/furnace.md" >}}) | 32229 | 52053 | 61.9 | none | 
- | [drawing]({{< ref "/f42/package/drawing.md" >}}) | 1175 | 1906 | 61.6 | Korean | 
- | [mate-user-guide]({{< ref "/f42/package/mate-user-guide.md" >}}) | 26332 | 42973 | 61.3 | Korean (https://app.transifex.com/mate/teams/13566/ko/) | 
- | [tvtime]({{< ref "/f42/package/tvtime.md" >}}) | 746 | 1222 | 61.0 | Korean Translation Team <translation-team-ko@lists.sourceforge.net> | 
- | [pavucontrol]({{< ref "/f42/package/pavucontrol.md" >}}) | 526 | 866 | 60.7 | Korean <https://translate.fedoraproject.org/projects/pulseaudio/pavucontrol/ko/> | 
- | [gpodder]({{< ref "/f42/package/gpodder.md" >}}) | 1583 | 2636 | 60.1 |  | 
- | [pipewire-media-session]({{< ref "/f42/package/pipewire-media-session.md" >}}) | 3 | 5 | 60.0 | Korean | 
- | [mate-utils]({{< ref "/f42/package/mate-utils.md" >}}) | 5912 | 9901 | 59.7 | Korean (https://app.transifex.com/mate/teams/13566/ko/) | 
- | [kalzium]({{< ref "/f42/package/kalzium.md" >}}) | 5413 | 9087 | 59.6 | Korean <kde-kr@kde.org> | 
- | [lxmenu-data]({{< ref "/f42/package/lxmenu-data.md" >}}) | 59 | 100 | 59.0 | GNOME Korea <gnome-kr-hackers@lists.kldp.net> | 
- | [mate-terminal]({{< ref "/f42/package/mate-terminal.md" >}}) | 4851 | 8238 | 58.9 | Korean (https://app.transifex.com/mate/teams/13566/ko/) | 
- | [agenda]({{< ref "/f42/package/agenda.md" >}}) | 10 | 17 | 58.8 | Korean <ko@li.org> | 
- | [mate-applets]({{< ref "/f42/package/mate-applets.md" >}}) | 9404 | 16106 | 58.4 | Korean (https://app.transifex.com/mate/teams/13566/ko/) | 
- | [lazarus]({{< ref "/f42/package/lazarus.md" >}}) | 980 | 1690 | 58.0 | 비너스걸: https://venusgirls.tistory.com/ | 
- | [e16]({{< ref "/f42/package/e16.md" >}}) | 1498 | 2616 | 57.3 | Korean <translation-team-ko@lists.sourceforge.net> | 
- | [geany]({{< ref "/f42/package/geany.md" >}}) | 3629 | 6352 | 57.1 | Korean | 
- | [apt]({{< ref "/f42/package/apt.md" >}}) | 3176 | 5566 | 57.1 | Korean <debian-l10n-korean@lists.debian.org> | 
- | [kgeography]({{< ref "/f42/package/kgeography.md" >}}) | 5635 | 10043 | 56.1 | Korean <kde-kr@kde.org> | 
- | [pinta]({{< ref "/f42/package/pinta.md" >}}) | 976 | 1746 | 55.9 | Korean <ko@li.org> | 
- | [snapper]({{< ref "/f42/package/snapper.md" >}}) | 590 | 1068 | 55.2 | Korean <https://l10n.opensuse.org/projects/snapper/master/ko/> | 
- | [glabels]({{< ref "/f42/package/glabels.md" >}}) | 1144 | 2138 | 53.5 | none | 
- | [deja-dup]({{< ref "/f42/package/deja-dup.md" >}}) | 1977 | 3728 | 53.0 | Korean <ko@li.org> | 
- | [guake]({{< ref "/f42/package/guake.md" >}}) | 870 | 1643 | 53.0 |  | 
- | [enlightenment]({{< ref "/f42/package/enlightenment.md" >}}) | 4613 | 8725 | 52.9 | Korean <KO@li.org> | 
- | [gnome-shell-extension-caffeine]({{< ref "/f42/package/gnome-shell-extension-caffeine.md" >}}) | 186 | 352 | 52.8 |  | 
- | [prusa-slicer]({{< ref "/f42/package/prusa-slicer.md" >}}) | 68539 | 131005 | 52.3 |  | 
- | [sugar-write]({{< ref "/f42/package/sugar-write.md" >}}) | 63 | 121 | 52.1 | LANGUAGE <LL@li.org> | 
- | [mutt]({{< ref "/f42/package/mutt.md" >}}) | 3464 | 6729 | 51.5 | Im Eunjea <eunjea@kldp.org> | 
- | [wingpanel-indicator-datetime]({{< ref "/f42/package/wingpanel-indicator-datetime.md" >}}) | 53 | 103 | 51.5 | Korean <https://l10n.elementary.io/projects/wingpanel/wingpanel-indicator-datetime/ko/> | 
- | [step]({{< ref "/f42/package/step.md" >}}) | 1079 | 2102 | 51.3 | Korean <kde-kr@kde.org> | 
- | [jpilot]({{< ref "/f42/package/jpilot.md" >}}) | 1571 | 3074 | 51.1 | Korean <translation-team-ko@lists.sourceforge.net> | 
- | [efl]({{< ref "/f42/package/efl.md" >}}) | 155 | 312 | 49.7 | General | 
- | [libreoffice]({{< ref "/f42/package/libreoffice.md" >}}) | 381916 | 773628 | 49.4 | Korean <https://translations.documentfoundation.org/projects/libo_ui-master/accessibilitymessages/ko/> | 
- | [bluefish]({{< ref "/f42/package/bluefish.md" >}}) | 2490 | 5098 | 48.8 |  | 
- | [libgweather]({{< ref "/f42/package/libgweather.md" >}}) | 3167 | 6524 | 48.5 | GNOME Korea <gnome-kr@googlegroups.com> | 
- | [soundconverter]({{< ref "/f42/package/soundconverter.md" >}}) | 180 | 377 | 47.7 | Korean <ko@li.org> | 
- | [mate-calc]({{< ref "/f42/package/mate-calc.md" >}}) | 1568 | 3327 | 47.1 | Korean (https://app.transifex.com/mate/teams/13566/ko/) | 
- | [flex]({{< ref "/f42/package/flex.md" >}}) | 531 | 1131 | 46.9 | Korean <ko@li.org> | 
- | [dpkg]({{< ref "/f42/package/dpkg.md" >}}) | 5508 | 11962 | 46.0 | Korean <debian-l10n-korean@lists.debian.org> | 
- | [maliit-keyboard]({{< ref "/f42/package/maliit-keyboard.md" >}}) | 37 | 81 | 45.7 | Korean <ko@li.org> | 
- | [gimagereader]({{< ref "/f42/package/gimagereader.md" >}}) | 818 | 1817 | 45.0 | Korean <https://hosted.weblate.org/projects/gimagereader/translations/ko/> | 
- | [pluma]({{< ref "/f42/package/pluma.md" >}}) | 5898 | 13113 | 45.0 | Korean (https://app.transifex.com/mate/teams/13566/ko/) | 
- | [gnucash]({{< ref "/f42/package/gnucash.md" >}}) | 17663 | 39578 | 44.6 |  | 
- | [sos]({{< ref "/f42/package/sos.md" >}}) | 54 | 123 | 43.9 | <ko@li.org> | 
- | [quodlibet]({{< ref "/f42/package/quodlibet.md" >}}) | 3492 | 7955 | 43.9 | Korean <https://hosted.weblate.org/projects/quodlibet/quodlibet/ko/> | 
- | [mate-control-center]({{< ref "/f42/package/mate-control-center.md" >}}) | 3593 | 8260 | 43.5 | Korean (https://app.transifex.com/mate/teams/13566/ko/) | 
- | [eom]({{< ref "/f42/package/eom.md" >}}) | 2155 | 4958 | 43.5 | Korean (https://app.transifex.com/mate/teams/13566/ko/) | 
- | [sylpheed]({{< ref "/f42/package/sylpheed.md" >}}) | 3134 | 7214 | 43.4 | Korean <gnome-kr-translation@lists.sourceforge.net> | 
- | [postgis]({{< ref "/f42/package/postgis.md" >}}) | 43243 | 99771 | 43.3 | Korean <https://weblate.osgeo.org/projects/postgis/postgis-manual/ko/> | 
- | [compiz-plugins-experimental]({{< ref "/f42/package/compiz-plugins-experimental.md" >}}) | 1930 | 4473 | 43.1 | Korean <ko@li.org> | 
- | [elementary-mail]({{< ref "/f42/package/elementary-mail.md" >}}) | 371 | 861 | 43.1 | Korean <https://l10n.elementary.io/projects/mail/mail/ko/> | 
- | [blueman]({{< ref "/f42/package/blueman.md" >}}) | 1018 | 2365 | 43.0 | Korean <https://hosted.weblate.org/projects/blueman/blueman/ko/> | 
- | [mate-system-monitor]({{< ref "/f42/package/mate-system-monitor.md" >}}) | 2058 | 4894 | 42.1 | Korean (https://app.transifex.com/mate/teams/13566/ko/) | 
- | [cataclysm-dda]({{< ref "/f42/package/cataclysm-dda.md" >}}) | 470172 | 1125660 | 41.8 | Korean (https://app.transifex.com/cataclysm-dda-translators/teams/2217/ko/) | 
- | [elementary-onboarding]({{< ref "/f42/package/elementary-onboarding.md" >}}) | 131 | 317 | 41.3 | Korean <https://l10n.elementary.io/projects/installer/onboarding/ko/> | 
- | [sugar-stopwatch]({{< ref "/f42/package/sugar-stopwatch.md" >}}) | 2 | 5 | 40.0 | LANGUAGE <LL@li.org> | 
- | [elementary-music]({{< ref "/f42/package/elementary-music.md" >}}) | 92 | 231 | 39.8 | Korean <https://l10n.elementary.io/projects/music/music/ko/> | 
- | [cairo-dock]({{< ref "/f42/package/cairo-dock.md" >}}) | 2927 | 7555 | 38.7 | Korean <ko@li.org> | 
- | [orca]({{< ref "/f42/package/orca.md" >}}) | 1433 | 3707 | 38.7 | GNOME Korea <gnome-kr-hackers@lists.kldp.net> | 
- | [mame]({{< ref "/f42/package/mame.md" >}}) | 1405 | 3685 | 38.1 | MAME Language Team | 
- | [exaile]({{< ref "/f42/package/exaile.md" >}}) | 1771 | 4690 | 37.8 | Korean <https://hosted.weblate.org/projects/exaile/master/ko/> | 
- | [sugar-log]({{< ref "/f42/package/sugar-log.md" >}}) | 37 | 98 | 37.8 | LANGUAGE <LL@li.org> | 
- | [mate-sensors-applet]({{< ref "/f42/package/mate-sensors-applet.md" >}}) | 813 | 2160 | 37.6 | Korean (https://app.transifex.com/mate/teams/13566/ko/) | 
- | [tuxpaint]({{< ref "/f42/package/tuxpaint.md" >}}) | 2005 | 5355 | 37.4 | N/A | 
- | [skrooge]({{< ref "/f42/package/skrooge.md" >}}) | 4575 | 12330 | 37.1 | Korean <kde-kr@kde.org> | 
- | [simple-ccsm]({{< ref "/f42/package/simple-ccsm.md" >}}) | 59 | 162 | 36.4 | Korean <ko@li.org> | 
- | [lftp]({{< ref "/f42/package/lftp.md" >}}) | 1453 | 4033 | 36.0 |  | 
- | [subversion]({{< ref "/f42/package/subversion.md" >}}) | 12644 | 35290 | 35.8 | Korean <dev@subversion.tigris.org> | 
- | [samba]({{< ref "/f42/package/samba.md" >}}) | 187 | 524 | 35.7 | Novell Language <language@novell.com> | 
- | [neomutt]({{< ref "/f42/package/neomutt.md" >}}) | 2882 | 8123 | 35.5 | Im Eunjea <eunjea@kldp.org> | 
- | [wingpanel]({{< ref "/f42/package/wingpanel.md" >}}) | 20 | 57 | 35.1 | Korean <https://l10n.elementary.io/projects/wingpanel/wingpanel/ko/> | 
- | [xournalpp]({{< ref "/f42/package/xournalpp.md" >}}) | 1886 | 5538 | 34.1 | Korean | 
- | [kdenlive]({{< ref "/f42/package/kdenlive.md" >}}) | 11307 | 33775 | 33.5 | Korean <kde-kr@kde.org> | 
- | [digikam]({{< ref "/f42/package/digikam.md" >}}) | 21125 | 63466 | 33.3 | Korean <kde-kr@kde.org> | 
- | [deluge]({{< ref "/f42/package/deluge.md" >}}) | 1457 | 4390 | 33.2 | Korean <ko@li.org> | 
- | [minetest]({{< ref "/f42/package/minetest.md" >}}) | 3442 | 10452 | 32.9 | Korean <https://hosted.weblate.org/projects/minetest/minetest/ko/> | 
- | [gala]({{< ref "/f42/package/gala.md" >}}) | 105 | 319 | 32.9 | Korean <https://l10n.elementary.io/projects/desktop/gala/ko/> | 
- | [network-manager-applet]({{< ref "/f42/package/network-manager-applet.md" >}}) | 1447 | 4439 | 32.6 | GNOME Korea <gnome-kr@googlegroups.com> | 
- | [lightdm-gtk]({{< ref "/f42/package/lightdm-gtk.md" >}}) | 29 | 89 | 32.6 | Korean <ko@li.org> | 
- | [umbrello]({{< ref "/f42/package/umbrello.md" >}}) | 1997 | 6160 | 32.4 | Korean <kde-kr@kde.org> | 
- | [scim-pinyin]({{< ref "/f42/package/scim-pinyin.md" >}}) | 204 | 634 | 32.2 | Korean | 
- | [publican]({{< ref "/f42/package/publican.md" >}}) | 1751 | 5443 | 32.2 | Korean <ko@li.org> | 
- | [shadow-utils]({{< ref "/f42/package/shadow-utils.md" >}}) | 1503 | 4790 | 31.4 | Korean <debian-l10n-korean@lists.debian.org> | 
- | [util-linux]({{< ref "/f42/package/util-linux.md" >}}) | 39724 | 127832 | 31.1 | Korean <translation-team-ko@googlegroups.com> | 
- | [gstreamer1]({{< ref "/f42/package/gstreamer1.md" >}}) | 672 | 2223 | 30.2 | Korean <translation-team-ko@googlegroups.com> | 
- | [mingw-gstreamer1]({{< ref "/f42/package/mingw-gstreamer1.md" >}}) | 672 | 2223 | 30.2 | Korean <translation-team-ko@googlegroups.com> | 
- | [calibre]({{< ref "/f42/package/calibre.md" >}}) | 55147 | 184463 | 29.9 | Korean (http://app.transifex.com/calibre/calibre/language/ko/) | 
- | [homebank]({{< ref "/f42/package/homebank.md" >}}) | 984 | 3298 | 29.8 | Korean <ko@li.org> | 
- | [sugar-physics]({{< ref "/f42/package/sugar-physics.md" >}}) | 14 | 48 | 29.2 | LANGUAGE <LL@li.org> | 
- | [sawfish]({{< ref "/f42/package/sawfish.md" >}}) | 2178 | 7478 | 29.1 | Korean <ko@li.org> | 
- | [terminology]({{< ref "/f42/package/terminology.md" >}}) | 283 | 982 | 28.8 | Korean | 
- | [electrum]({{< ref "/f42/package/electrum.md" >}}) | 3722 | 13041 | 28.5 | Korean | 
- | [picard]({{< ref "/f42/package/picard.md" >}}) | 3046 | 10784 | 28.2 | Korean <https://translations.metabrainz.org/projects/picard/2/app/ko/> | 
- | [engrampa]({{< ref "/f42/package/engrampa.md" >}}) | 2190 | 7815 | 28.0 | Korean (https://app.transifex.com/mate/teams/13566/ko/) | 
- | [gnome-system-log]({{< ref "/f42/package/gnome-system-log.md" >}}) | 460 | 1660 | 27.7 | GNOME Korea <gnome-kr-hackers@lists.kldp.net> | 
- | [sugar-imageviewer]({{< ref "/f42/package/sugar-imageviewer.md" >}}) | 16 | 58 | 27.6 | LANGUAGE <LL@li.org> | 
- | [python-apt]({{< ref "/f42/package/python-apt.md" >}}) | 150 | 544 | 27.6 | Korean <ko@li.org> | 
- | [quassel]({{< ref "/f42/package/quassel.md" >}}) | 2278 | 8362 | 27.2 | Korean (http://www.transifex.com/quassel/quassel/language/ko/) | 
- | [pipewire]({{< ref "/f42/package/pipewire.md" >}}) | 174 | 647 | 26.9 | Korean | 
- | [folio]({{< ref "/f42/package/folio.md" >}}) | 251 | 954 | 26.3 |  | 
- | [plasma-keyboard]({{< ref "/f42/package/plasma-keyboard.md" >}}) | 15 | 58 | 25.9 | Korean <kde-kr@kde.org> | 
- | [atril]({{< ref "/f42/package/atril.md" >}}) | 2013 | 7825 | 25.7 | Korean (https://app.transifex.com/mate/teams/13566/ko/) | 
- | [bison]({{< ref "/f42/package/bison.md" >}}) | 47 | 183 | 25.7 | Korean <translation-team-ko@lists.sourceforge.net> | 
- | [eiciel]({{< ref "/f42/package/eiciel.md" >}}) | 85 | 331 | 25.7 | Korean <https://l10n.opensuse.org/projects/eiciel/master/ko/> | 
- | [pogo]({{< ref "/f42/package/pogo.md" >}}) | 144 | 576 | 25.0 | Korean <ko@li.org> | 
- | [ktextaddons]({{< ref "/f42/package/ktextaddons.md" >}}) | 1091 | 4452 | 24.5 | Korean <kde-kr@kde.org> | 
- | [liferea]({{< ref "/f42/package/liferea.md" >}}) | 497 | 2066 | 24.1 | GNOME Korea <gnome-kr-hackers@lists.kldp.net> | 
- | [stellarium]({{< ref "/f42/package/stellarium.md" >}}) | 48565 | 202022 | 24.0 | Korean (https://app.transifex.com/stellarium/teams/80998/ko/) | 
- | [sympa]({{< ref "/f42/package/sympa.md" >}}) | 8346 | 36542 | 22.8 | 한국어 <ko_KR@li.org> | 
- | [granite]({{< ref "/f42/package/granite.md" >}}) | 113 | 498 | 22.7 | Korean <https://l10n.elementary.io/projects/desktop/granite/ko/> | 
- | [gscan2pdf]({{< ref "/f42/package/gscan2pdf.md" >}}) | 414 | 1840 | 22.5 | Korean <ko@li.org> | 
- | [lutris]({{< ref "/f42/package/lutris.md" >}}) | 1698 | 7618 | 22.3 | Korean | 
- | [sugar-dimensions]({{< ref "/f42/package/sugar-dimensions.md" >}}) | 39 | 176 | 22.2 | LANGUAGE <LL@li.org> | 
- | [colord]({{< ref "/f42/package/colord.md" >}}) | 430 | 1966 | 21.9 | Korean (https://app.transifex.com/freedesktop/teams/12151/ko/) | 
- | [mingw-colord]({{< ref "/f42/package/mingw-colord.md" >}}) | 386 | 1885 | 20.5 | Korean (http://www.transifex.com/projects/p/colord/language/ko/) | 
- | [elementary-code]({{< ref "/f42/package/elementary-code.md" >}}) | 455 | 2228 | 20.4 | Korean <https://l10n.elementary.io/projects/code/code/ko/> | 
- | [NetworkManager-l2tp]({{< ref "/f42/package/NetworkManager-l2tp.md" >}}) | 256 | 1299 | 19.7 | GNOME Korea <gnome-kr@googlegroups.com> | 
- | [indent]({{< ref "/f42/package/indent.md" >}}) | 51 | 261 | 19.5 | Korean <ko@li.org> | 
- | [sugar-speak]({{< ref "/f42/package/sugar-speak.md" >}}) | 44 | 227 | 19.4 | LANGUAGE <LL@li.org> | 
- | [gamehub]({{< ref "/f42/package/gamehub.md" >}}) | 213 | 1115 | 19.1 | Korean <https://hosted.weblate.org/projects/gamehub/translations/ko/> | 
- | [kstars]({{< ref "/f42/package/kstars.md" >}}) | 12230 | 64693 | 18.9 | Korean <kde-kr@kde.org> | 
- | [man-pages-l10n]({{< ref "/f42/package/man-pages-l10n.md" >}}) | 115954 | 642166 | 18.1 | Korean <translation-team-ko@googlegroups.com> | 
- | [NetworkManager-pptp]({{< ref "/f42/package/NetworkManager-pptp.md" >}}) | 95 | 529 | 18.0 | GNOME Korea <gnome-kr@googlegroups.com> | 
- | [sugar-chat]({{< ref "/f42/package/sugar-chat.md" >}}) | 24 | 137 | 17.5 | LANGUAGE <LL@li.org> | 
- | [sugar-read]({{< ref "/f42/package/sugar-read.md" >}}) | 24 | 137 | 17.5 | LANGUAGE <LL@li.org> | 
- | [kaidan]({{< ref "/f42/package/kaidan.md" >}}) | 490 | 2798 | 17.5 | Korean <kde-kr@kde.org> | 
- | [freeciv]({{< ref "/f42/package/freeciv.md" >}}) | 19727 | 120107 | 16.4 | Korean language team | 
- | [playonlinux]({{< ref "/f42/package/playonlinux.md" >}}) | 448 | 2728 | 16.4 | Korean <ko@li.org> | 
- | [marble]({{< ref "/f42/package/marble.md" >}}) | 1787 | 11457 | 15.6 | Korean <kde-kr@kde.org> | 
- | [easyeffects]({{< ref "/f42/package/easyeffects.md" >}}) | 784 | 5197 | 15.1 | Korean <https://hosted.weblate.org/projects/easyeffects/main/ko/> | 
- | [pluma-plugins]({{< ref "/f42/package/pluma-plugins.md" >}}) | 206 | 1405 | 14.7 | Korean (https://app.transifex.com/mate/teams/13566/ko/) | 
- | [sugar-pippy]({{< ref "/f42/package/sugar-pippy.md" >}}) | 40 | 274 | 14.6 | LANGUAGE <LL@li.org> | 
- | [marknote]({{< ref "/f42/package/marknote.md" >}}) | 46 | 317 | 14.5 | Korean <kde-kr@kde.org> | 
- | [goffice]({{< ref "/f42/package/goffice.md" >}}) | 888 | 6201 | 14.3 | GTP Korean <gnome-kr-translation@gnome.or.kr> | 
- | [wesnoth]({{< ref "/f42/package/wesnoth.md" >}}) | 61462 | 429810 | 14.3 | none | 
- | [uim]({{< ref "/f42/package/uim.md" >}}) | 861 | 6176 | 13.9 | Korean <LL@li.org> | 
- | [lightdm]({{< ref "/f42/package/lightdm.md" >}}) | 22 | 163 | 13.5 | Korean <ko@li.org> | 
- | [iso-codes]({{< ref "/f42/package/iso-codes.md" >}}) | 2872 | 23551 | 12.2 | Korean <https://hosted.weblate.org/projects/iso-codes/iso-15924/ko/> | 
- | [granite-7]({{< ref "/f42/package/granite-7.md" >}}) | 71 | 596 | 11.9 | Korean <https://l10n.elementary.io/projects/desktop/granite/ko/> | 
- | [elementary-notifications]({{< ref "/f42/package/elementary-notifications.md" >}}) | 5 | 42 | 11.9 | Korean <https://l10n.elementary.io/projects/desktop/notifications-extra/ko/> | 
- | [sugar-record]({{< ref "/f42/package/sugar-record.md" >}}) | 7 | 62 | 11.3 | LANGUAGE <LL@li.org> | 
- | [libhangul]({{< ref "/f42/package/libhangul.md" >}}) | 16 | 147 | 10.9 | Choe Hwanjin <choe.hwanjin@gmail.com> | 
- | [NetworkManager-vpnc]({{< ref "/f42/package/NetworkManager-vpnc.md" >}}) | 70 | 663 | 10.6 | GNOME Korea <gnome-kr@googlegroups.com> | 
- | [golang-github-chai2010-gettext]({{< ref "/f42/package/golang-github-chai2010-gettext.md" >}}) | 493 | 4747 | 10.4 | Korean <ko@li.org> | 
- | [NetworkManager-sstp]({{< ref "/f42/package/NetworkManager-sstp.md" >}}) | 90 | 878 | 10.3 | GNOME Korea <gnome-kr@googlegroups.com> | 
- | [grass]({{< ref "/f42/package/grass.md" >}}) | 13159 | 128967 | 10.2 | Korean <https://weblate.osgeo.org/projects/grass-gis/grasslibs/ko/> | 
- | [gpaste]({{< ref "/f42/package/gpaste.md" >}}) | 150 | 1481 | 10.1 | Korean <https://hosted.weblate.org/projects/gpaste/gpaste/ko/> | 
- | [duplicity]({{< ref "/f42/package/duplicity.md" >}}) | 238 | 2377 | 10.0 | Korean | 
- | [cairo-dock-plug-ins]({{< ref "/f42/package/cairo-dock-plug-ins.md" >}}) | 964 | 10186 | 9.5 | Korean <ko@li.org> | 
- | [NetworkManager-ssh]({{< ref "/f42/package/NetworkManager-ssh.md" >}}) | 27 | 286 | 9.4 | GNOME Korea <gnome-kr@googlegroups.com> | 
- | [python-sphinxcontrib-qthelp]({{< ref "/f42/package/python-sphinxcontrib-qthelp.md" >}}) | 3 | 33 | 9.1 | Korean (https://www.transifex.com/sphinx-doc/teams/36659/ko/) | 
- | [system-switch-mail]({{< ref "/f42/package/system-switch-mail.md" >}}) | 9 | 101 | 8.9 | Korean <ko@li.org> | 
- | [peek]({{< ref "/f42/package/peek.md" >}}) | 50 | 564 | 8.9 | Korean <https://hosted.weblate.org/projects/peek/translations/ko/> | 
- | [gramps]({{< ref "/f42/package/gramps.md" >}}) | 3605 | 41201 | 8.7 | Korean <https://hosted.weblate.org/projects/gramps-project/gramps/ko/> | 
- | [po4a]({{< ref "/f42/package/po4a.md" >}}) | 274 | 3317 | 8.3 | Korean <debian-l10n-korean@lists.debian.org> | 
- | [sugar-finance]({{< ref "/f42/package/sugar-finance.md" >}}) | 21 | 258 | 8.1 | LANGUAGE <LL@li.org> | 
- | [sugar-browse]({{< ref "/f42/package/sugar-browse.md" >}}) | 27 | 334 | 8.1 | LANGUAGE <LL@li.org> | 
- | [gnulib-l10n]({{< ref "/f42/package/gnulib-l10n.md" >}}) | 109 | 1371 | 8.0 | Korean <translation-team-ko@lists.sourceforge.net> | 
- | [kgoldrunner]({{< ref "/f42/package/kgoldrunner.md" >}}) | 2213 | 28047 | 7.9 | Korean <kde-kr@kde.org> | 
- | [neverball]({{< ref "/f42/package/neverball.md" >}}) | 214 | 2735 | 7.8 | Korean (http://www.transifex.com/projects/p/neverball/language/ko/) | 
- | [gimp-help]({{< ref "/f42/package/gimp-help.md" >}}) | 18990 | 262250 | 7.2 | Korean <gnome-kr@googlegroups.com> | 
- | [freedink]({{< ref "/f42/package/freedink.md" >}}) | 5 | 70 | 7.1 | Korean <translation-team-ko@lists.sourceforge.net> | 
- | [hello]({{< ref "/f42/package/hello.md" >}}) | 17 | 244 | 7.0 | Korean <translation-team-ko@lists.sourceforge.net> | 
- | [godot3]({{< ref "/f42/package/godot3.md" >}}) | 19766 | 285145 | 6.9 | Korean <https://hosted.weblate.org/projects/godot-engine/godot-class-reference/ko/> | 
- | [fuse-encfs]({{< ref "/f42/package/fuse-encfs.md" >}}) | 89 | 1289 | 6.9 | Korean <ko@li.org> | 
- | [isomaster]({{< ref "/f42/package/isomaster.md" >}}) | 46 | 674 | 6.8 | http://littlesvr.ca/ostd/ | 
- | [sugar-view-slides]({{< ref "/f42/package/sugar-view-slides.md" >}}) | 4 | 60 | 6.7 | LANGUAGE <LL@li.org> | 
- | [tuba]({{< ref "/f42/package/tuba.md" >}}) | 167 | 2579 | 6.5 | Korean <https://hosted.weblate.org/projects/tuba/tuba/ko/> | 
- | [gegl04]({{< ref "/f42/package/gegl04.md" >}}) | 345 | 5397 | 6.4 | Korean <gnome-kr@googlegroups.com> | 
- | [gnumeric]({{< ref "/f42/package/gnumeric.md" >}}) | 2041 | 35046 | 5.8 | GTP Korean <gnome-kr-translation@gnome.or.kr> | 
- | [gambas3]({{< ref "/f42/package/gambas3.md" >}}) | 392 | 6931 | 5.7 | LANGUAGE <LL@li.org> | 
- | [gammu]({{< ref "/f42/package/gammu.md" >}}) | 217 | 4017 | 5.4 | none | 
- | [pidgin-sipe]({{< ref "/f42/package/pidgin-sipe.md" >}}) | 59 | 1119 | 5.3 | Korean (http://www.transifex.com/stefanb/pidgin-sipe/language/ko/) | 
- | [kalm]({{< ref "/f42/package/kalm.md" >}}) | 29 | 555 | 5.2 | Korean <kde-kr@kde.org> | 
- | [sugar-turtleart]({{< ref "/f42/package/sugar-turtleart.md" >}}) | 74 | 1445 | 5.1 | LANGUAGE <walter@sugarlabs.org> | 
- | [gdm]({{< ref "/f42/package/gdm.md" >}}) | 1538 | 30293 | 5.1 | GNOME Korea <gnome-kr-hackers@lists.kldp.net> | 
- | [sugar-terminal]({{< ref "/f42/package/sugar-terminal.md" >}}) | 6 | 121 | 5.0 | LANGUAGE <LL@li.org> | 
- | [caja-actions]({{< ref "/f42/package/caja-actions.md" >}}) | 334 | 7079 | 4.7 | Korean (https://app.transifex.com/mate/teams/13566/ko/) | 
- | [pmount]({{< ref "/f42/package/pmount.md" >}}) | 34 | 723 | 4.7 | Korean <ko@li.org> | 
- | [elementary-settings-daemon]({{< ref "/f42/package/elementary-settings-daemon.md" >}}) | 14 | 303 | 4.6 | Korean <https://l10n.elementary.io/projects/desktop/settings-daemon/ko/> | 
- | [wdiff]({{< ref "/f42/package/wdiff.md" >}}) | 5 | 120 | 4.2 | Korean <translation-team-ko@lists.sourceforge.net> | 
- | [asunder]({{< ref "/f42/package/asunder.md" >}}) | 20 | 493 | 4.1 | http://littlesvr.ca/ostd/ | 
- | [menulibre]({{< ref "/f42/package/menulibre.md" >}}) | 34 | 873 | 3.9 | Korean <ko@li.org> | 
- | [spacefm]({{< ref "/f42/package/spacefm.md" >}}) | 324 | 8722 | 3.7 | Korean (http://www.transifex.com/projects/p/spacefm/language/ko/) | 
- | [sugar-memorize]({{< ref "/f42/package/sugar-memorize.md" >}}) | 5 | 142 | 3.5 | LANGUAGE <LL@li.org> | 
- | [sugar-calculator]({{< ref "/f42/package/sugar-calculator.md" >}}) | 30 | 866 | 3.5 | LANGUAGE <LL@li.org> | 
- | [renameutils]({{< ref "/f42/package/renameutils.md" >}}) | 9 | 265 | 3.4 | Korean <translation-team-ko@lists.sourceforge.net> | 
- | [naev-data]({{< ref "/f42/package/naev-data.md" >}}) | 10925 | 337863 | 3.2 | Korean <https://hosted.weblate.org/projects/naev/naev/ko/> | 
- | [breezy]({{< ref "/f42/package/breezy.md" >}}) | 1108 | 36640 | 3.0 | Korean <ko@li.org> | 
- | [sugar]({{< ref "/f42/package/sugar.md" >}}) | 66 | 2305 | 2.9 | LANGUAGE <LL@li.org> | 
- | [xscreensaver]({{< ref "/f42/package/xscreensaver.md" >}}) | 354 | 12812 | 2.8 | Korean <ko@li.org> | 
- | [light-locker]({{< ref "/f42/package/light-locker.md" >}}) | 7 | 260 | 2.7 | Korean (http://www.transifex.com/the_cavalry/light-locker/language/ko/) | 
- | [powertop]({{< ref "/f42/package/powertop.md" >}}) | 17 | 698 | 2.4 | Korean (http://www.transifex.com/projects/p/PowerTOP/language/ko/) | 
- | [siril]({{< ref "/f42/package/siril.md" >}}) | 1483 | 62275 | 2.4 | Korean <https://weblate.pixls.us/projects/siril/siril-application/ko/> | 
- | [pgrouting]({{< ref "/f42/package/pgrouting.md" >}}) | 843 | 40340 | 2.1 | Korean <https://weblate.osgeo.org/projects/pgrouting/index/ko/> | 
- | [NetworkManager-openvpn]({{< ref "/f42/package/NetworkManager-openvpn.md" >}}) | 43 | 2225 | 1.9 | GNOME Korea <gnome-kr@googlegroups.com> | 
- | [NetworkManager-fortisslvpn]({{< ref "/f42/package/NetworkManager-fortisslvpn.md" >}}) | 6 | 321 | 1.9 | GNOME Korea <gnome-kr@googlegroups.com> | 
- | [NetworkManager-openconnect]({{< ref "/f42/package/NetworkManager-openconnect.md" >}}) | 54 | 3241 | 1.7 | GNOME Korea <gnome-kr@googlegroups.com> | 
- | [clutter]({{< ref "/f42/package/clutter.md" >}}) | 50 | 3057 | 1.6 | Korean <gnome-kr@googlegroups.org> | 
- | [aria2]({{< ref "/f42/package/aria2.md" >}}) | 119 | 7496 | 1.6 | Korean <ko@li.org> | 
- | [manafirewall]({{< ref "/f42/package/manafirewall.md" >}}) | 15 | 1097 | 1.4 | Korean (https://www.transifex.com/MageiaLinux/teams/9361/ko/) | 
- | [snapd]({{< ref "/f42/package/snapd.md" >}}) | 40 | 4307 | 0.9 | Korean <ko@li.org> | 
- | [malcontent]({{< ref "/f42/package/malcontent.md" >}}) | 3 | 584 | 0.5 | none | 
- | [libgda]({{< ref "/f42/package/libgda.md" >}}) | 37 | 11142 | 0.3 | Korean <gnome-kr-translation@lists.sourceforge.net> | 
- | [libgda5]({{< ref "/f42/package/libgda5.md" >}}) | 37 | 11142 | 0.3 | Korean <gnome-kr-translation@lists.sourceforge.net> | 
- | [genius]({{< ref "/f42/package/genius.md" >}}) | 6 | 8610 | 0.1 | Korean <ko@li.org> | 
- | [viking]({{< ref "/f42/package/viking.md" >}}) | 4 | 6243 | 0.1 | Korean <ko@li.org> | 
- | [edgar]({{< ref "/f42/package/edgar.md" >}}) | 1 | 11474 | 0.0 | Korean <ko@li.org> | 
- | [bookworm]({{< ref "/f42/package/bookworm.md" >}}) | 0 | 795 | 0.0 |  | 
- | [clapper]({{< ref "/f42/package/clapper.md" >}}) | 0 | 393 | 0.0 | Korean | 
- | [cmake-fedora]({{< ref "/f42/package/cmake-fedora.md" >}}) | 0 | 0 | 0.0 |  | 
- | [dippi]({{< ref "/f42/package/dippi.md" >}}) | 0 | 1537 | 0.0 | none | 
- | [elementary-icon-theme]({{< ref "/f42/package/elementary-icon-theme.md" >}}) | 0 | 349 | 0.0 | Korean <https://l10n.elementary.io/projects/desktop/icons-extra/ko/> | 
- | [fonts-tweak-tool]({{< ref "/f42/package/fonts-tweak-tool.md" >}}) | 0 | 195 | 0.0 | Korean | 
- | [gajim]({{< ref "/f42/package/gajim.md" >}}) | 0 | 6349 | 0.0 | none | 
- | [gnome-online-accounts-gtk]({{< ref "/f42/package/gnome-online-accounts-gtk.md" >}}) | 0 | 36 | 0.0 | Korean <ko@li.org> | 
- | [kf6-knotifications]({{< ref "/f42/package/kf6-knotifications.md" >}}) | 0 | 0 | 0.0 | Korean <kde-kr@kde.org> | 
- | [kubernetes1.33]({{< ref "/f42/package/kubernetes1.33.md" >}}) | 0 | 0 | 0.0 |  | 
- | [kubernetes1.34]({{< ref "/f42/package/kubernetes1.34.md" >}}) | 0 | 0 | 0.0 |  | 
- | [libgxim]({{< ref "/f42/package/libgxim.md" >}}) | 0 | 124 | 0.0 | LANGUAGE <LL@li.org> | 
- | [libsmbios]({{< ref "/f42/package/libsmbios.md" >}}) | 0 | 2187 | 0.0 | Korean | 
- | [libvirt-sandbox]({{< ref "/f42/package/libvirt-sandbox.md" >}}) | 0 | 617 | 0.0 | Korean (http://www.transifex.com/projects/p/fedora/language/ko/) | 
- | [lxshortcut]({{< ref "/f42/package/lxshortcut.md" >}}) | 0 | 43 | 0.0 | LANGUAGE <LL@li.org> | 
- | [pyhoca-gui]({{< ref "/f42/package/pyhoca-gui.md" >}}) | 0 | 1865 | 0.0 | none | 
- | [python-sphinxcontrib-devhelp]({{< ref "/f42/package/python-sphinxcontrib-devhelp.md" >}}) | 0 | 18 | 0.0 | Korean (https://www.transifex.com/sphinx-doc/teams/36659/ko/) | 
- | [ravada]({{< ref "/f42/package/ravada.md" >}}) | 0 | 1075 | 0.0 |  | 
- | [regextester]({{< ref "/f42/package/regextester.md" >}}) | 0 | 104 | 0.0 | none | 
- | [speedcrunch]({{< ref "/f42/package/speedcrunch.md" >}}) | 0 | 93 | 0.0 | Korean (http://www.transifex.com/heldercorreia/speedcrunch/language/ko/) | 
- | [sugar-clock]({{< ref "/f42/package/sugar-clock.md" >}}) | 0 | 66 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-implode]({{< ref "/f42/package/sugar-implode.md" >}}) | 0 | 77 | 0.0 | LANGUAGE <LL@li.org> | 
- | [ufw]({{< ref "/f42/package/ufw.md" >}}) | 0 | 879 | 0.0 | Korean <ko@li.org> | 
- | [wireshark]({{< ref "/f42/package/wireshark.md" >}}) | 0 | 398 | 0.0 | Korean (https://app.transifex.com/wireshark/teams/36457/ko/) | 
+ | [GConf2](/f42/package/GConf2) | 4088 | 4088 | 100.0 | GNOME Korea <gnome-kr@googlegroups.com> | 
+ | [PackageKit](/f42/package/PackageKit) | 1296 | 1296 | 100.0 | Korean (http://app.transifex.com/freedesktop/packagekit/language/ko/) | 
+ | [R-reshape2](/f42/package/R-reshape2) | 46 | 46 | 100.0 | R Development Translation Teams (Korean) <gnustats@korea.gnu.org> | 
+ | [abattis-cantarell-fonts](/f42/package/abattis-cantarell-fonts) | 27 | 27 | 100.0 | Korean <gnome-kr@googlegroups.com> | 
+ | [abrt](/f42/package/abrt) | 3676 | 3676 | 100.0 | Korean <https://translate.fedoraproject.org/projects/abrt/abrt/ko/> | 
+ | [accerciser](/f42/package/accerciser) | 658 | 658 | 100.0 | Korean <gnome-kr@googlegroups.com> | 
+ | [accessibility-inspector](/f42/package/accessibility-inspector) | 197 | 197 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [accountsservice](/f42/package/accountsservice) | 59 | 59 | 100.0 | Korean (http://www.transifex.com/freedesktop/accountsservice/language/ko/) | 
+ | [aegisub](/f42/package/aegisub) | 4994 | 4994 | 100.0 | None | 
+ | [aisleriot](/f42/package/aisleriot) | 2982 | 2982 | 100.0 | GNOME Korea <gnome-kr@googlegroups.com> | 
+ | [akonadi-calendar](/f42/package/akonadi-calendar) | 2380 | 2380 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [akonadi-calendar-tools](/f42/package/akonadi-calendar-tools) | 760 | 760 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [akonadi-import-wizard](/f42/package/akonadi-import-wizard) | 394 | 394 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [akonadi-mime](/f42/package/akonadi-mime) | 581 | 581 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [akonadi-notes](/f42/package/akonadi-notes) | 2 | 2 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [akonadi-search](/f42/package/akonadi-search) | 67 | 67 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [akonadi-server](/f42/package/akonadi-server) | 3062 | 3062 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [akonadiconsole](/f42/package/akonadiconsole) | 777 | 777 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [akregator](/f42/package/akregator) | 1893 | 1893 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [alacarte](/f42/package/alacarte) | 42 | 42 | 100.0 | Korean <gnome-kr@googlegroups.com> | 
+ | [anaconda](/f42/package/anaconda) | 8244 | 8244 | 100.0 | Korean <https://translate.fedoraproject.org/projects/anaconda/f42/ko/> | 
+ | [anaconda-webui](/f42/package/anaconda-webui) | 1345 | 1345 | 100.0 | Korean <https://translate.fedoraproject.org/projects/anaconda-webui/anaconda-webui/ko/> | 
+ | [analitza](/f42/package/analitza) | 999 | 999 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [android-tools](/f42/package/android-tools) | 6272 | 6272 | 100.0 | Korean <https://translate.fedoraproject.org/projects/selinux/gui/ko/> | 
+ | [anjuta](/f42/package/anjuta) | 8398 | 8398 | 100.0 | GNOME Korea <gnome-kr@googlegroups.com> | 
+ | [ansible-collection-awx-awx](/f42/package/ansible-collection-awx-awx) | 10098 | 10098 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [arandr](/f42/package/arandr) | 173 | 173 | 100.0 | Korean <https://hosted.weblate.org/projects/arandr/translations/ko/> | 
+ | [arianna](/f42/package/arianna) | 175 | 175 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [ark](/f42/package/ark) | 1982 | 1982 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [artikulate](/f42/package/artikulate) | 313 | 313 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [at-spi2-core](/f42/package/at-spi2-core) | 465 | 465 | 100.0 | GNOME Korea <gnome-kr@googlegroups.com> | 
+ | [atomix](/f42/package/atomix) | 125 | 125 | 100.0 | Korean <gnome-kr-translation@lists.sourceforge.net> | 
+ | [audacious](/f42/package/audacious) | 911 | 911 | 100.0 | Korean (http://app.transifex.com/audacious/audacious/language/ko/) | 
+ | [audacious-plugins](/f42/package/audacious-plugins) | 4425 | 4425 | 100.0 | Korean (http://app.transifex.com/audacious/audacious/language/ko/) | 
+ | [audacity](/f42/package/audacity) | 19527 | 19527 | 100.0 | Korean (https://app.transifex.com/audacity/teams/164520/ko/) | 
+ | [audex](/f42/package/audex) | 2542 | 2542 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [audiocd-kio](/f42/package/audiocd-kio) | 905 | 905 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [audiotube](/f42/package/audiotube) | 236 | 236 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [aurorae](/f42/package/aurorae) | 72 | 72 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [authselect](/f42/package/authselect) | 5583 | 5583 | 100.0 | Korean <https://translate.fedoraproject.org/projects/authselect/master-application/ko/> | 
+ | [avahi](/f42/package/avahi) | 868 | 868 | 100.0 | Korean <https://translate.fedoraproject.org/projects/avahi/master/ko/> | 
+ | [backintime](/f42/package/backintime) | 2780 | 2780 | 100.0 | Korean <https://translate.codeberg.org/projects/backintime/common/ko/> | 
+ | [baobab](/f42/package/baobab) | 1395 | 1395 | 100.0 | GNOME Korea <gnome-kr@googlegroups.com> | 
+ | [bash](/f42/package/bash) | 11740 | 11740 | 100.0 | Korean <translation-team-ko@googlegroups.com> | 
+ | [blender](/f42/package/blender) | 87794 | 87794 | 100.0 | Korean <https://translate.blender.org/projects/blender-ui/ui/ko/> | 
+ | [blinken](/f42/package/blinken) | 134 | 134 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [blivet-gui](/f42/package/blivet-gui) | 1111 | 1111 | 100.0 | Korean <https://translate.fedoraproject.org/projects/blivet/blivet-gui/ko/> | 
+ | [blogilo](/f42/package/blogilo) | 204 | 204 | 100.0 | Korean <kde@peremen.name> | 
+ | [bluedevil](/f42/package/bluedevil) | 636 | 636 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [bomber](/f42/package/bomber) | 110 | 110 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [bovo](/f42/package/bovo) | 82 | 82 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [brasero](/f42/package/brasero) | 7751 | 7751 | 100.0 | GNOME Korea <gnome-kr@googlegroups.com> | 
+ | [budgie-desktop-view](/f42/package/budgie-desktop-view) | 17 | 17 | 100.0 | Korean (https://www.transifex.com/buddiesofbudgie/teams/129844/ko/) | 
+ | [budgie-screensaver](/f42/package/budgie-screensaver) | 291 | 291 | 100.0 | GNOME Korea <gnome-kr@googlegroups.com> | 
+ | [budgie-session](/f42/package/budgie-session) | 435 | 435 | 100.0 | GNOME Korea <gnome-kr@googlegroups.com> | 
+ | [calamares](/f42/package/calamares) | 478 | 478 | 100.0 | Korean (https://app.transifex.com/calamares/teams/20061/ko/) | 
+ | [calendarsupport](/f42/package/calendarsupport) | 2759 | 2759 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [calindori](/f42/package/calindori) | 550 | 550 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [calligraplan](/f42/package/calligraplan) | 322 | 322 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [calls](/f42/package/calls) | 473 | 473 | 100.0 | Korean <gnome-kr@googlegroups.com> | 
+ | [cantor](/f42/package/cantor) | 3987 | 3987 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [caribou](/f42/package/caribou) | 169 | 169 | 100.0 | Korean <gnome-kr@googlegroups.com> | 
+ | [certmonger](/f42/package/certmonger) | 2831 | 2831 | 100.0 | Korean <https://translate.fedoraproject.org/projects/certmonger/master/ko/> | 
+ | [cervisia](/f42/package/cervisia) | 1615 | 1615 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [cgit](/f42/package/cgit) | 24346 | 24346 | 100.0 | Git Korean translation <http://github.com/changwoo/git-l10n-ko> | 
+ | [chatty](/f42/package/chatty) | 535 | 535 | 100.0 | Korean <gnome-kr@googlegroups.com> | 
+ | [cheese](/f42/package/cheese) | 2170 | 2170 | 100.0 | Korean <gnome-kr@googlegroups.com> | 
+ | [chkconfig](/f42/package/chkconfig) | 597 | 597 | 100.0 | Korean <https://translate.fedoraproject.org/projects/fedora-sysv/chkconfig/ko/> | 
+ | [cinnamon-desktop](/f42/package/cinnamon-desktop) | 234 | 234 | 100.0 | GNOME Korea <gnome-kr@googlegroups.com> | 
+ | [clamtk](/f42/package/clamtk) | 464 | 464 | 100.0 | Korean <oopslee@haansoft.com> | 
+ | [clementine](/f42/package/clementine) | 3803 | 3803 | 100.0 | Korean (http://app.transifex.com/davidsansome/clementine/language/ko/) | 
+ | [cockpit](/f42/package/cockpit) | 9415 | 9415 | 100.0 | Korean <https://translate.fedoraproject.org/projects/cockpit/cockpit/ko/> | 
+ | [cockpit-files](/f42/package/cockpit-files) | 557 | 557 | 100.0 | Korean <https://translate.fedoraproject.org/projects/cockpit/cockpit-files/ko/> | 
+ | [cockpit-machines](/f42/package/cockpit-machines) | 3428 | 3428 | 100.0 | Korean <https://translate.fedoraproject.org/projects/cockpit/cockpit-machines/ko/> | 
+ | [cockpit-ostree](/f42/package/cockpit-ostree) | 246 | 246 | 100.0 | Korean <https://translate.fedoraproject.org/projects/cockpit-ostree/main/ko/> | 
+ | [cockpit-podman](/f42/package/cockpit-podman) | 1121 | 1121 | 100.0 | Korean <https://translate.fedoraproject.org/projects/cockpit/cockpit-podman/ko/> | 
+ | [cogl](/f42/package/cogl) | 393 | 393 | 100.0 | Korean <gnome-kr@googlegroups.com> | 
+ | [colord-kde](/f42/package/colord-kde) | 282 | 282 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [coreutils](/f42/package/coreutils) | 22041 | 22041 | 100.0 | Korean <translation-team-ko@googlegroups.com> | 
+ | [cosmic-store](/f42/package/cosmic-store) | 1296 | 1296 | 100.0 | Korean (http://app.transifex.com/freedesktop/packagekit/language/ko/) | 
+ | [cpeditor](/f42/package/cpeditor) | 647 | 647 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [cracklib](/f42/package/cracklib) | 90 | 90 | 100.0 | Korean <https://translate.fedoraproject.org/projects/cracklib/master/ko/> | 
+ | [cups-pk-helper](/f42/package/cups-pk-helper) | 149 | 149 | 100.0 | Korean (http://www.transifex.com/freedesktop/cups-pk-helper/language/ko/) | 
+ | [d-spy](/f42/package/d-spy) | 123 | 123 | 100.0 | Korean <gnome-kr@googlegroups.com> | 
+ | [darktable](/f42/package/darktable) | 31497 | 31497 | 100.0 | Ajou Univ.(함도혁,윤하윤,정채영,김민채,김윤중) | 
+ | [dasher](/f42/package/dasher) | 634 | 634 | 100.0 | GNOME Korea <gnome-kr@googlegroups.com> | 
+ | [dconf-editor](/f42/package/dconf-editor) | 2955 | 2955 | 100.0 | Korean <gnome-kr@googlegroups.com> | 
+ | [decibels](/f42/package/decibels) | 223 | 223 | 100.0 | GNOME Korea <gnome-kr@googlegroups.com> | 
+ | [deepin-pw-check](/f42/package/deepin-pw-check) | 59 | 59 | 100.0 | Korean (https://www.transifex.com/linuxdeepin/teams/3617/ko/) | 
+ | [devhelp](/f42/package/devhelp) | 413 | 413 | 100.0 | GNOME Korea <gnome-kr@googlegroups.com> | 
+ | [dia](/f42/package/dia) | 6605 | 6605 | 100.0 | Korean <Dokdo@korea.land> | 
+ | [dnf](/f42/package/dnf) | 4718 | 4718 | 100.0 | Korean <https://translate.fedoraproject.org/projects/dnf/dnf-master/ko/> | 
+ | [dnf-plugins-core](/f42/package/dnf-plugins-core) | 2137 | 2137 | 100.0 | Korean <https://translate.fedoraproject.org/projects/dnf/dnf-plugins-core-l10n-master/ko/> | 
+ | [dnf-plugins-extras](/f42/package/dnf-plugins-extras) | 121 | 121 | 100.0 | Korean <https://translate.fedoraproject.org/projects/dnf/dnf-plugins-extras/ko/> | 
+ | [dnf5](/f42/package/dnf5) | 6433 | 6433 | 100.0 | Korean <https://translate.fedoraproject.org/projects/dnf5/dnf5-plugin-builddep/ko/> | 
+ | [dnfdragora](/f42/package/dnfdragora) | 39 | 39 | 100.0 | Korean (https://www.transifex.com/MageiaLinux/teams/9361/ko/) | 
+ | [dolphin-plugins](/f42/package/dolphin-plugins) | 1607 | 1607 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [dos2unix](/f42/package/dos2unix) | 5532 | 5532 | 100.0 | Korean <translation-team-ko@googlegroups.com> | 
+ | [doublecmd](/f42/package/doublecmd) | 12604 | 12604 | 100.0 | 비너스걸: https://venusgirls.tistory.com/ | 
+ | [easytag](/f42/package/easytag) | 5264 | 5264 | 100.0 | Korean <gnome-kr@googlegroups.com> | 
+ | [elisa-player](/f42/package/elisa-player) | 822 | 822 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [eog](/f42/package/eog) | 6128 | 6128 | 100.0 | GNOME Korea <gnome-kr@googlegroups.com> | 
+ | [eog-plugins](/f42/package/eog-plugins) | 403 | 403 | 100.0 | GNOME Korea <gnome-kr@googlegroups.com> | 
+ | [epiphany](/f42/package/epiphany) | 7503 | 7503 | 100.0 | Korean <gnome-kr@googlegroups.com> | 
+ | [evince](/f42/package/evince) | 8627 | 8627 | 100.0 | GNOME Korea <gnome-kr@googlegroups.com> | 
+ | [evolution](/f42/package/evolution) | 30047 | 30047 | 100.0 | GNOME Korea <gnome-kr@googlegroups.com> | 
+ | [evolution-data-server](/f42/package/evolution-data-server) | 8336 | 8336 | 100.0 | GNOME Korea <gnome-kr@googlegroups.com> | 
+ | [evolution-mapi](/f42/package/evolution-mapi) | 516 | 516 | 100.0 | GNOME Korea <gnome-kr@googlegroups.com> | 
+ | [exif](/f42/package/exif) | 296 | 296 | 100.0 | Korean <translation-team-ko@googlegroups.com> | 
+ | [fcitx](/f42/package/fcitx) | 3308 | 3308 | 100.0 | Korean (http://www.transifex.com/fcitx/fcitx/language/ko/) | 
+ | [fcitx-anthy](/f42/package/fcitx-anthy) | 365 | 365 | 100.0 | Korean (http://www.transifex.com/fcitx/fcitx/language/ko/) | 
+ | [fcitx-chewing](/f42/package/fcitx-chewing) | 55 | 55 | 100.0 | Korean (http://www.transifex.com/fcitx/fcitx/language/ko/) | 
+ | [fcitx-cloudpinyin](/f42/package/fcitx-cloudpinyin) | 63 | 63 | 100.0 | Korean (http://www.transifex.com/fcitx/fcitx/language/ko/) | 
+ | [fcitx-configtool](/f42/package/fcitx-configtool) | 106 | 106 | 100.0 | Korean (http://www.transifex.com/fcitx/fcitx/language/ko/) | 
+ | [fcitx-hangul](/f42/package/fcitx-hangul) | 37 | 37 | 100.0 | Korean (http://www.transifex.com/fcitx/fcitx/language/ko/) | 
+ | [fcitx-kkc](/f42/package/fcitx-kkc) | 118 | 118 | 100.0 | Korean (http://www.transifex.com/fcitx/fcitx/language/ko/) | 
+ | [fcitx-libpinyin](/f42/package/fcitx-libpinyin) | 261 | 261 | 100.0 | Korean (http://www.transifex.com/fcitx/fcitx/language/ko/) | 
+ | [fcitx-m17n](/f42/package/fcitx-m17n) | 45 | 45 | 100.0 | Korean (http://www.transifex.com/fcitx/fcitx/language/ko/) | 
+ | [fcitx-qt5](/f42/package/fcitx-qt5) | 99 | 99 | 100.0 | Korean (https://www.transifex.com/fcitx/teams/12005/ko/) | 
+ | [fcitx-skk](/f42/package/fcitx-skk) | 84 | 84 | 100.0 | Korean (http://www.transifex.com/fcitx/fcitx/language/ko/) | 
+ | [fcitx-sunpinyin](/f42/package/fcitx-sunpinyin) | 104 | 104 | 100.0 | Korean (http://www.transifex.com/fcitx/fcitx/language/ko/) | 
+ | [fcitx-table-extra](/f42/package/fcitx-table-extra) | 24 | 24 | 100.0 | Korean (http://www.transifex.com/fcitx/fcitx/language/ko/) | 
+ | [fcitx-table-other](/f42/package/fcitx-table-other) | 24 | 24 | 100.0 | Korean (http://www.transifex.com/fcitx/fcitx/language/ko/) | 
+ | [fcitx-unikey](/f42/package/fcitx-unikey) | 96 | 96 | 100.0 | Korean (http://www.transifex.com/fcitx/fcitx/language/ko/) | 
+ | [file-roller](/f42/package/file-roller) | 3044 | 3044 | 100.0 | GNOME Korea <gnome-kr@googlegroups.com> | 
+ | [filelight](/f42/package/filelight) | 284 | 284 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [filezilla](/f42/package/filezilla) | 10726 | 10726 | 100.0 | Korean (Republic of Korea) | 
+ | [five-or-more](/f42/package/five-or-more) | 1604 | 1604 | 100.0 | Korean <gnome-kr@googlegroups.com> | 
+ | [flare](/f42/package/flare) | 5818 | 5818 | 100.0 | Korean (https://www.transifex.com/flareorg/teams/84925/ko/) | 
+ | [flatpak-kcm](/f42/package/flatpak-kcm) | 361 | 361 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [focuswriter](/f42/package/focuswriter) | 129 | 129 | 100.0 | Korean (http://www.transifex.com/gottcode/focuswriter/language/ko/) | 
+ | [folder-color-switcher](/f42/package/folder-color-switcher) | 65 | 65 | 100.0 | Korean <ko@li.org> | 
+ | [foliate](/f42/package/foliate) | 741 | 741 | 100.0 | 이정희 <daemul72@gmail.com> | 
+ | [folks](/f42/package/folks) | 1056 | 1056 | 100.0 | Korean <gnome-kr@googlegroups.com> | 
+ | [fontforge](/f42/package/fontforge) | 42598 | 42598 | 100.0 | Korean | 
+ | [four-in-a-row](/f42/package/four-in-a-row) | 1398 | 1398 | 100.0 | Korean <gnome-kr@googlegroups.com> | 
+ | [fprintd](/f42/package/fprintd) | 433 | 433 | 100.0 | Korean <https://translate.fedoraproject.org/projects/fprintd/fprintd/ko/> | 
+ | [fragments](/f42/package/fragments) | 717 | 717 | 100.0 | Korean <gnome-kr@googlegroups.com> | 
+ | [francis](/f42/package/francis) | 78 | 78 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [freeipa](/f42/package/freeipa) | 8886 | 8886 | 100.0 | Korean <https://translate.fedoraproject.org/projects/freeipa/master/ko/> | 
+ | [fwupd](/f42/package/fwupd) | 3725 | 3725 | 100.0 | Korean <https://hosted.weblate.org/projects/fwupd/fwupd/ko/> | 
+ | [garcon](/f42/package/garcon) | 125 | 125 | 100.0 | Korean (http://app.transifex.com/xfce/garcon/language/ko/) | 
+ | [gawk](/f42/package/gawk) | 5096 | 5096 | 100.0 | Korean <translation-team-ko@googlegroups.com> | 
+ | [gconf-editor](/f42/package/gconf-editor) | 336 | 336 | 100.0 | GNOME Korea <gnome-kr@googlegroups.com> | 
+ | [gcr](/f42/package/gcr) | 538 | 538 | 100.0 | GNOME Korea <gnome-kr@googlegroups.com> | 
+ | [gcr3](/f42/package/gcr3) | 795 | 795 | 100.0 | GNOME Korea <gnome-kr@googlegroups.com> | 
+ | [gdk-pixbuf2](/f42/package/gdk-pixbuf2) | 1325 | 1325 | 100.0 | Gnome Korea <gnome-kr@googlegroups.com> | 
+ | [gdk-pixbuf2-modules-extra](/f42/package/gdk-pixbuf2-modules-extra) | 1325 | 1325 | 100.0 | Gnome Korea <gnome-kr@googlegroups.com> | 
+ | [gedit](/f42/package/gedit) | 11582 | 11582 | 100.0 | GNOME Korea <gnome-kr@googlegroups.com> | 
+ | [gedit-latex](/f42/package/gedit-latex) | 466 | 466 | 100.0 | Korean <gnome-kr@googlegroups.com> | 
+ | [gedit-plugins](/f42/package/gedit-plugins) | 8829 | 8829 | 100.0 | GNOME Korea <gnome-kr@googlegroups.com> | 
+ | [ggz-base-libs](/f42/package/ggz-base-libs) | 72 | 72 | 100.0 | GNOME Korea <gnome-kr-hackers@lists.kldp.net> | 
+ | [ghex](/f42/package/ghex) | 3265 | 3265 | 100.0 | Korean <gnome-kr@googlegroups.com> | 
+ | [ghostwriter](/f42/package/ghostwriter) | 1326 | 1326 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [gigolo](/f42/package/gigolo) | 541 | 541 | 100.0 | Korean (http://app.transifex.com/xfce/xfce-apps/language/ko/) | 
+ | [git](/f42/package/git) | 24346 | 24346 | 100.0 | Git Korean translation <http://github.com/changwoo/git-l10n-ko> | 
+ | [git-cinnabar](/f42/package/git-cinnabar) | 24346 | 24346 | 100.0 | Git Korean translation <http://github.com/changwoo/git-l10n-ko> | 
+ | [gitg](/f42/package/gitg) | 2687 | 2687 | 100.0 | 한국어 <gnome-kr@googlegroups.com> | 
+ | [glib-networking](/f42/package/glib-networking) | 460 | 460 | 100.0 | Korean <gnome-kr@googlegroups.com> | 
+ | [glib2](/f42/package/glib2) | 7889 | 7889 | 100.0 | GNOME Korea <gnome-kr@googlegroups.com> | 
+ | [glibc](/f42/package/glibc) | 7959 | 7959 | 100.0 | Korean <translation-team-ko@googlegroups.com> | 
+ | [gnome-abrt](/f42/package/gnome-abrt) | 221 | 221 | 100.0 | Korean <https://translate.fedoraproject.org/projects/abrt/gnome-abrt/ko/> | 
+ | [gnome-bluetooth](/f42/package/gnome-bluetooth) | 316 | 316 | 100.0 | GNOME Korea <gnome-kr@googlegroups.com> | 
+ | [gnome-bluetooth3.34](/f42/package/gnome-bluetooth3.34) | 373 | 373 | 100.0 | GNOME Korea <gnome-kr@googlegroups.com> | 
+ | [gnome-boxes](/f42/package/gnome-boxes) | 4047 | 4047 | 100.0 | Korean <gnome-kr@googlegroups.com> | 
+ | [gnome-builder](/f42/package/gnome-builder) | 5882 | 5882 | 100.0 | GNOME Korea <gnome-kr@googlegroups.com> | 
+ | [gnome-calculator](/f42/package/gnome-calculator) | 3724 | 3724 | 100.0 | GNOME Korea <gnome-kr@googlegroups.com> | 
+ | [gnome-calendar](/f42/package/gnome-calendar) | 1135 | 1135 | 100.0 | GNOME Korea <gnome-kr@googlegroups.com> | 
+ | [gnome-characters](/f42/package/gnome-characters) | 161 | 161 | 100.0 | Korean <gnome-kr@googlegroups.com> | 
+ | [gnome-chess](/f42/package/gnome-chess) | 2555 | 2555 | 100.0 | Korean <gnome-kr@googlegroups.com> | 
+ | [gnome-clocks](/f42/package/gnome-clocks) | 1352 | 1352 | 100.0 | GNOME Korea <gnome-kr@googlegroups.com> | 
+ | [gnome-color-manager](/f42/package/gnome-color-manager) | 2330 | 2330 | 100.0 | GNOME Korea <gnome-kr@googlegroups.com> | 
+ | [gnome-connections](/f42/package/gnome-connections) | 672 | 672 | 100.0 | Korean <gnome-kr@googlegroups.com> | 
+ | [gnome-console](/f42/package/gnome-console) | 344 | 344 | 100.0 | Korean <gnome-kr@googlegroups.com> | 
+ | [gnome-contacts](/f42/package/gnome-contacts) | 757 | 757 | 100.0 | Korean <gnome-kr@googlegroups.com> | 
+ | [gnome-control-center](/f42/package/gnome-control-center) | 9704 | 9704 | 100.0 | <ko@li.org> | 
+ | [gnome-desktop3](/f42/package/gnome-desktop3) | 9777 | 9777 | 100.0 | GNOME Korea <gnome-kr@googlegroups.com> | 
+ | [gnome-dictionary](/f42/package/gnome-dictionary) | 2107 | 2107 | 100.0 | GNOME Korea <gnome-kr@googlegroups.com> | 
+ | [gnome-disk-utility](/f42/package/gnome-disk-utility) | 4091 | 4091 | 100.0 | GNOME Korea <gnome-kr@googlegroups.com> | 
+ | [gnome-doc-utils](/f42/package/gnome-doc-utils) | 251 | 251 | 100.0 | GNOME Korea <gnome-kr@googlegroups.com> | 
+ | [gnome-extensions-app](/f42/package/gnome-extensions-app) | 3516 | 3516 | 100.0 | GNOME Korea <gnome-kr@googlegroups.com> | 
+ | [gnome-feeds](/f42/package/gnome-feeds) | 540 | 540 | 100.0 | Korean <translation-team-ko@googlegroups.com> | 
+ | [gnome-font-viewer](/f42/package/gnome-font-viewer) | 539 | 539 | 100.0 | GNOME Korea <gnome-kr@googlegroups.com> | 
+ | [gnome-icon-theme](/f42/package/gnome-icon-theme) | 43 | 43 | 100.0 | GTP Korean <gnome-kr-translation@gnome.or.kr> | 
+ | [gnome-initial-setup](/f42/package/gnome-initial-setup) | 915 | 915 | 100.0 | 한국어 <gnome-kr@googlegroups.com> | 
+ | [gnome-keyring](/f42/package/gnome-keyring) | 473 | 473 | 100.0 | GNOME Korea <gnome-kr@googlegroups.com> | 
+ | [gnome-klotski](/f42/package/gnome-klotski) | 275 | 275 | 100.0 | GNOME Korea <gnome-kr@googlegroups.com> | 
+ | [gnome-logs](/f42/package/gnome-logs) | 672 | 672 | 100.0 | GNOME Korea <gnome-kr@googlegroups.com> | 
+ | [gnome-mahjongg](/f42/package/gnome-mahjongg) | 1615 | 1615 | 100.0 | Korean <gnome-kr@googlegroups.com> | 
+ | [gnome-maps](/f42/package/gnome-maps) | 1355 | 1355 | 100.0 | GNOME Korea <gnome-kr@googlegroups.com> | 
+ | [gnome-menus](/f42/package/gnome-menus) | 81 | 81 | 100.0 | GNOME Korea <gnome-kr@googlegroups.com> | 
+ | [gnome-mime-data](/f42/package/gnome-mime-data) | 887 | 887 | 100.0 | GNOME Korea <gnome-kr-hackers@lists.kldp.net> | 
+ | [gnome-mines](/f42/package/gnome-mines) | 1429 | 1429 | 100.0 | Korean <gnome-kr@googlegroups.com> | 
+ | [gnome-music](/f42/package/gnome-music) | 890 | 890 | 100.0 | Korean <gnome-kr@googlegroups.com> | 
+ | [gnome-nettool](/f42/package/gnome-nettool) | 664 | 664 | 100.0 | GNOME Korea <gnome-kr@googlegroups.com> | 
+ | [gnome-nibbles](/f42/package/gnome-nibbles) | 1641 | 1641 | 100.0 | Korean <gnome-kr@googlegroups.com> | 
+ | [gnome-online-accounts](/f42/package/gnome-online-accounts) | 805 | 805 | 100.0 | 한국어 <gnome-kr@googlegroups.com> | 
+ | [gnome-packagekit](/f42/package/gnome-packagekit) | 3593 | 3593 | 100.0 | GNOME Korea <gnome-kr@googlegroups.com> | 
+ | [gnome-photos](/f42/package/gnome-photos) | 1029 | 1029 | 100.0 | Korean <gnome-kr@googlegroups.com> | 
+ | [gnome-pomodoro](/f42/package/gnome-pomodoro) | 358 | 358 | 100.0 | Korean | 
+ | [gnome-power-manager](/f42/package/gnome-power-manager) | 433 | 433 | 100.0 | GNOME Korea <gnome-kr@googlegroups.com> | 
+ | [gnome-remote-desktop](/f42/package/gnome-remote-desktop) | 853 | 853 | 100.0 | Korean <gnome-kr@googlegroups.com> | 
+ | [gnome-robots](/f42/package/gnome-robots) | 1666 | 1666 | 100.0 | Korean <gnome-kr@googlegroups.com> | 
+ | [gnome-screenshot](/f42/package/gnome-screenshot) | 417 | 417 | 100.0 | GNOME Korea <gnome-kr@googlegroups.com> | 
+ | [gnome-session](/f42/package/gnome-session) | 429 | 429 | 100.0 | GNOME Korea <gnome-kr@googlegroups.com> | 
+ | [gnome-settings-daemon](/f42/package/gnome-settings-daemon) | 3923 | 3923 | 100.0 | GNOME Korea <gnome-kr@googlegroups.com> | 
+ | [gnome-shell](/f42/package/gnome-shell) | 3516 | 3516 | 100.0 | GNOME Korea <gnome-kr@googlegroups.com> | 
+ | [gnome-shell-extension-appindicator](/f42/package/gnome-shell-extension-appindicator) | 95 | 95 | 100.0 | 이정희 <daemul72@gmail.com> | 
+ | [gnome-shell-extension-dash-to-dock](/f42/package/gnome-shell-extension-dash-to-dock) | 654 | 654 | 100.0 |  | 
+ | [gnome-shell-extension-freon](/f42/package/gnome-shell-extension-freon) | 104 | 104 | 100.0 |  | 
+ | [gnome-shell-extensions](/f42/package/gnome-shell-extensions) | 324 | 324 | 100.0 | Korean <gnome-kr@googlegroups.com> | 
+ | [gnome-shell-frippery](/f42/package/gnome-shell-frippery) | 20 | 20 | 100.0 |  | 
+ | [gnome-software](/f42/package/gnome-software) | 6077 | 6077 | 100.0 | GNOME Korea <gnome-kr@googlegroups.com> | 
+ | [gnome-sound-recorder](/f42/package/gnome-sound-recorder) | 302 | 302 | 100.0 | Korean <gnome-kr@googlegroups.com> | 
+ | [gnome-sudoku](/f42/package/gnome-sudoku) | 1941 | 1941 | 100.0 | Korean <gnome-kr@googlegroups.com> | 
+ | [gnome-system-monitor](/f42/package/gnome-system-monitor) | 6275 | 6275 | 100.0 | GNOME Korea <gnome-kr@googlegroups.com> | 
+ | [gnome-taquin](/f42/package/gnome-taquin) | 431 | 431 | 100.0 | GNOME Korea <gnome-kr@googlegroups.com> | 
+ | [gnome-terminal](/f42/package/gnome-terminal) | 8104 | 8104 | 100.0 | GNOME Korea <gnome-kr@googlegroups.com> | 
+ | [gnome-tetravex](/f42/package/gnome-tetravex) | 1718 | 1718 | 100.0 | Korean <gnome-kr@googlegroups.com> | 
+ | [gnome-text-editor](/f42/package/gnome-text-editor) | 1754 | 1754 | 100.0 | Korean <gnome-kr@googlegroups.com> | 
+ | [gnome-themes-extra](/f42/package/gnome-themes-extra) | 15 | 15 | 100.0 | Korean <gnome-kr@googlegroups.com> | 
+ | [gnome-todo](/f42/package/gnome-todo) | 1716 | 1716 | 100.0 | Korean <gnome-kr@googlegroups.com> | 
+ | [gnome-tour](/f42/package/gnome-tour) | 138 | 138 | 100.0 | Korean <gnome-kr@googlegroups.com> | 
+ | [gnome-tweaks](/f42/package/gnome-tweaks) | 468 | 468 | 100.0 | 한국어 <gnome-kr@googlegroups.com> | 
+ | [gnome-usage](/f42/package/gnome-usage) | 165 | 165 | 100.0 | Korean <gnome-kr@googlegroups.com> | 
+ | [gnome-user-share](/f42/package/gnome-user-share) | 39 | 39 | 100.0 | GNOME Korea <gnome-kr@googlegroups.com> | 
+ | [gnome-vfs2](/f42/package/gnome-vfs2) | 1519 | 1519 | 100.0 | GNOME Korea <gnome-kr@googlegroups.com> | 
+ | [gnome-video-effects](/f42/package/gnome-video-effects) | 256 | 256 | 100.0 | GNOME Korea <gnome-kr@googlegroups.com> | 
+ | [gnome-weather](/f42/package/gnome-weather) | 236 | 236 | 100.0 | Korean <gnome-kr@googlegroups.com> | 
+ | [gnote](/f42/package/gnote) | 2291 | 2291 | 100.0 | GNOME Korea <gnome-kr@googlegroups.com> | 
+ | [godot](/f42/package/godot) | 84424 | 84424 | 100.0 | Korean <https://hosted.weblate.org/projects/godot-engine/godot-class-reference/ko/> | 
+ | [gparted](/f42/package/gparted) | 3057 | 3057 | 100.0 | GNOME Korea <gnome-kr@googlegroups.com> | 
+ | [granatier](/f42/package/granatier) | 243 | 243 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [grantlee-editor](/f42/package/grantlee-editor) | 532 | 532 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [grantleetheme](/f42/package/grantleetheme) | 14 | 14 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [grep](/f42/package/grep) | 933 | 933 | 100.0 | Korean <translation-team-ko@googlegroups.com> | 
+ | [grilo](/f42/package/grilo) | 191 | 191 | 100.0 | GNOME Korea <gnome-kr@googlegroups.com> | 
+ | [grilo-plugins](/f42/package/grilo-plugins) | 731 | 731 | 100.0 | GNOME Korea <gnome-kr@googlegroups.com> | 
+ | [grip](/f42/package/grip) | 1097 | 1097 | 100.0 | Korean <translation-team-ko@googlegroups.com> | 
+ | [gspell](/f42/package/gspell) | 78 | 78 | 100.0 | GNOME Korea <gnome-kr@googlegroups.com> | 
+ | [gssntlmssp](/f42/package/gssntlmssp) | 125 | 125 | 100.0 | Korean <https://translate.fedoraproject.org/projects/gss-ntlmssp/master/ko/> | 
+ | [gtk+](/f42/package/gtk+) | 404 | 404 | 100.0 | Korean <ko@li.org> | 
+ | [gtk-vnc](/f42/package/gtk-vnc) | 8 | 8 | 100.0 | Korean <gnome-kr@googlegroups.com> | 
+ | [gtk2](/f42/package/gtk2) | 12381 | 12381 | 100.0 | Gnome Korea <gnome-kr@googlegroups.com> | 
+ | [gtk2-engines](/f42/package/gtk2-engines) | 119 | 119 | 100.0 | GNOME Korea <gnome-kr-hackers@lists.kldp.net> | 
+ | [gtk3](/f42/package/gtk3) | 16737 | 16737 | 100.0 | Gnome Korea <gnome-kr@googlegroups.com> | 
+ | [gtk4](/f42/package/gtk4) | 5119 | 5119 | 100.0 | Gnome Korea <gnome-kr@googlegroups.com> | 
+ | [gtksourceview2](/f42/package/gtksourceview2) | 1120 | 1120 | 100.0 | GNOME Korean <gnome-kr-hackers@lists.kldp.net> | 
+ | [gtksourceview4](/f42/package/gtksourceview4) | 308 | 308 | 100.0 | GNOME Korean <gnome-kr@googlegroups.com> | 
+ | [gtksourceview5](/f42/package/gtksourceview5) | 367 | 367 | 100.0 | GNOME Korean <gnome-kr@googlegroups.com> | 
+ | [gtranslator](/f42/package/gtranslator) | 1344 | 1344 | 100.0 | GNOME Korea <gnome-kr@googlegroups.com> | 
+ | [gvfs](/f42/package/gvfs) | 2270 | 2270 | 100.0 | GNOME Korea <gnome-kr@googlegroups.com> | 
+ | [gwenview](/f42/package/gwenview) | 2091 | 2091 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [hash-o-matic](/f42/package/hash-o-matic) | 223 | 223 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [helm](/f42/package/helm) | 43 | 43 | 100.0 |  | 
+ | [hexchat](/f42/package/hexchat) | 5971 | 5971 | 100.0 | Korean (http://www.transifex.com/hexchat/hexchat/language/ko/) | 
+ | [hitori](/f42/package/hitori) | 929 | 929 | 100.0 | Korean <gnome-kr@googlegroups.com> | 
+ | [iagno](/f42/package/iagno) | 801 | 801 | 100.0 | GNOME Korea <gnome-kr@googlegroups.com> | 
+ | [ibus](/f42/package/ibus) | 2654 | 2654 | 100.0 | Korean <https://translate.fedoraproject.org/projects/ibus/ibus/ko/> | 
+ | [ibus-anthy](/f42/package/ibus-anthy) | 705 | 705 | 100.0 | Korean <https://translate.fedoraproject.org/projects/ibus/ibus-anthy/ko/> | 
+ | [ibus-chewing](/f42/package/ibus-chewing) | 304 | 304 | 100.0 | Korean <https://translate.fedoraproject.org/projects/ibus-chewing/master/ko/> | 
+ | [ibus-hangul](/f42/package/ibus-hangul) | 129 | 129 | 100.0 | Choe Hwanjin <choe.hwanjin@gmail.com> | 
+ | [ibus-input-pad](/f42/package/ibus-input-pad) | 103 | 103 | 100.0 | Korean <https://translate.fedoraproject.org/projects/ibus-input-pad/master/ko/> | 
+ | [ibus-typing-booster](/f42/package/ibus-typing-booster) | 2576 | 2576 | 100.0 | Korean <https://translate.fedoraproject.org/projects/ibus-typing-booster/app/ko/> | 
+ | [incidenceeditor](/f42/package/incidenceeditor) | 2280 | 2280 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [initial-setup](/f42/package/initial-setup) | 106 | 106 | 100.0 | Korean <https://translate.fedoraproject.org/projects/initial-setup/master/ko/> | 
+ | [initscripts](/f42/package/initscripts) | 1162 | 1162 | 100.0 | Korean <https://translate.fedoraproject.org/projects/fedora-sysv/initscripts/ko/> | 
+ | [iputils](/f42/package/iputils) | 1433 | 1433 | 100.0 | Korean <https://translate.fedoraproject.org/projects/iputils/iputils/ko/> | 
+ | [isoimagewriter](/f42/package/isoimagewriter) | 456 | 456 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [json-glib](/f42/package/json-glib) | 313 | 313 | 100.0 | Korean <gnome-kr@googlegroups.com> | 
+ | [juk](/f42/package/juk) | 1452 | 1452 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [k3b](/f42/package/k3b) | 20145 | 20145 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [k9s](/f42/package/k9s) | 43 | 43 | 100.0 |  | 
+ | [kaccounts-integration](/f42/package/kaccounts-integration) | 150 | 150 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [kaccounts-providers](/f42/package/kaccounts-providers) | 77 | 77 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [kactivitymanagerd](/f42/package/kactivitymanagerd) | 15 | 15 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [kaddressbook](/f42/package/kaddressbook) | 1148 | 1148 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [kaffeine](/f42/package/kaffeine) | 1425 | 1425 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [kalgebra](/f42/package/kalgebra) | 276 | 276 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [kalk](/f42/package/kalk) | 68 | 68 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [kamera](/f42/package/kamera) | 272 | 272 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [kamoso](/f42/package/kamoso) | 145 | 145 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [kanagram](/f42/package/kanagram) | 527 | 527 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [kapman](/f42/package/kapman) | 115 | 115 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [kapptemplate](/f42/package/kapptemplate) | 226 | 226 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [kasts](/f42/package/kasts) | 1362 | 1362 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [katomic](/f42/package/katomic) | 184 | 184 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [kbackup](/f42/package/kbackup) | 694 | 694 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [kblackbox](/f42/package/kblackbox) | 1364 | 1364 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [kblocks](/f42/package/kblocks) | 157 | 157 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [kbounce](/f42/package/kbounce) | 156 | 156 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [kbrickbuster](/f42/package/kbrickbuster) | 158 | 158 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [kbruch](/f42/package/kbruch) | 1347 | 1347 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [kcachegrind](/f42/package/kcachegrind) | 4060 | 4060 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [kcalc](/f42/package/kcalc) | 1115 | 1115 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [kcalutils](/f42/package/kcalutils) | 1439 | 1439 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [kcharselect](/f42/package/kcharselect) | 92 | 92 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [kcm_wacomtablet](/f42/package/kcm_wacomtablet) | 1049 | 1049 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [kcolorchooser](/f42/package/kcolorchooser) | 29 | 29 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [kcron](/f42/package/kcron) | 436 | 436 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [kdb](/f42/package/kdb) | 1502 | 1502 | 100.0 |  | 
+ | [kde-cli-tools](/f42/package/kde-cli-tools) | 1755 | 1755 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [kde-dev-utils](/f42/package/kde-dev-utils) | 96 | 96 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [kde-inotify-survey](/f42/package/kde-inotify-survey) | 190 | 190 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [kde-partitionmanager](/f42/package/kde-partitionmanager) | 2302 | 2302 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [kde-style-breeze](/f42/package/kde-style-breeze) | 266 | 266 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [kdebugsettings](/f42/package/kdebugsettings) | 302 | 302 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [kdecoration](/f42/package/kdecoration) | 36 | 36 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [kdecoration5](/f42/package/kdecoration5) | 39 | 39 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [kdenetwork-filesharing](/f42/package/kdenetwork-filesharing) | 927 | 927 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [kdepim-addons](/f42/package/kdepim-addons) | 3992 | 3992 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [kdepim-runtime](/f42/package/kdepim-runtime) | 7536 | 7536 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [kdesdk-kioslaves](/f42/package/kdesdk-kioslaves) | 84 | 84 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [kdevelop-php](/f42/package/kdevelop-php) | 535 | 535 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [kdf](/f42/package/kdf) | 177 | 177 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [kdiagram](/f42/package/kdiagram) | 66 | 66 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [kdiagram2](/f42/package/kdiagram2) | 66 | 66 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [kdialog](/f42/package/kdialog) | 403 | 403 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [kdiamond](/f42/package/kdiamond) | 124 | 124 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [kdiff3](/f42/package/kdiff3) | 3473 | 3473 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [kdump-anaconda-addon](/f42/package/kdump-anaconda-addon) | 194 | 194 | 100.0 | Korean <ko@li.org> | 
+ | [keditbookmarks](/f42/package/keditbookmarks) | 470 | 470 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [keepsecret](/f42/package/keepsecret) | 169 | 169 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [keysmith](/f42/package/keysmith) | 304 | 304 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [kf5-akonadi-calendar](/f42/package/kf5-akonadi-calendar) | 2222 | 2222 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [kf5-akonadi-contacts](/f42/package/kf5-akonadi-contacts) | 1116 | 1116 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [kf5-akonadi-mime](/f42/package/kf5-akonadi-mime) | 580 | 580 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [kf5-akonadi-notes](/f42/package/kf5-akonadi-notes) | 2 | 2 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [kf5-akonadi-search](/f42/package/kf5-akonadi-search) | 67 | 67 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [kf5-akonadi-server](/f42/package/kf5-akonadi-server) | 2596 | 2596 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [kf5-baloo](/f42/package/kf5-baloo) | 860 | 860 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [kf5-calendarsupport](/f42/package/kf5-calendarsupport) | 2779 | 2779 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [kf5-eventviews](/f42/package/kf5-eventviews) | 2949 | 2949 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [kf5-grantleetheme](/f42/package/kf5-grantleetheme) | 14 | 14 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [kf5-incidenceeditor](/f42/package/kf5-incidenceeditor) | 2208 | 2208 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [kf5-karchive](/f42/package/kf5-karchive) | 488 | 488 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [kf5-kauth](/f42/package/kf5-kauth) | 73 | 73 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [kf5-kblog](/f42/package/kf5-kblog) | 243 | 243 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [kf5-kbookmarks](/f42/package/kf5-kbookmarks) | 230 | 230 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [kf5-kcalendarutils](/f42/package/kf5-kcalendarutils) | 1437 | 1437 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [kf5-kcmutils](/f42/package/kf5-kcmutils) | 266 | 266 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [kf5-kcodecs](/f42/package/kf5-kcodecs) | 370 | 370 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [kf5-kcompletion](/f42/package/kf5-kcompletion) | 18 | 18 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [kf5-kconfig](/f42/package/kf5-kconfig) | 289 | 289 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [kf5-kconfigwidgets](/f42/package/kf5-kconfigwidgets) | 342 | 342 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [kf5-kcoreaddons](/f42/package/kf5-kcoreaddons) | 382 | 382 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [kf5-kdav](/f42/package/kf5-kdav) | 185 | 185 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [kf5-kdbusaddons](/f42/package/kf5-kdbusaddons) | 48 | 48 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [kf5-kdeclarative](/f42/package/kf5-kdeclarative) | 161 | 161 | 100.0 | Korean <kde-i18n-doc@kde.org> | 
+ | [kf5-kdesignerplugin](/f42/package/kf5-kdesignerplugin) | 54 | 54 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [kf5-kdesu](/f42/package/kf5-kdesu) | 19 | 19 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [kf5-kdnssd](/f42/package/kf5-kdnssd) | 3 | 3 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [kf5-kdoctools](/f42/package/kf5-kdoctools) | 8 | 8 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [kf5-kfilemetadata](/f42/package/kf5-kfilemetadata) | 299 | 299 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [kf5-kglobalaccel](/f42/package/kf5-kglobalaccel) | 71 | 71 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [kf5-kholidays](/f42/package/kf5-kholidays) | 150 | 150 | 100.0 | Korean <kde-i18n-doc@kde.org> | 
+ | [kf5-khtml](/f42/package/kf5-khtml) | 1667 | 1667 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [kf5-ki18n](/f42/package/kf5-ki18n) | 124 | 124 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [kf5-kiconthemes](/f42/package/kf5-kiconthemes) | 41 | 41 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [kf5-kidentitymanagement](/f42/package/kf5-kidentitymanagement) | 182 | 182 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [kf5-kimap](/f42/package/kf5-kimap) | 118 | 118 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [kf5-kinit](/f42/package/kf5-kinit) | 116 | 116 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [kf5-kio](/f42/package/kf5-kio) | 12037 | 12037 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [kf5-kipi-plugins](/f42/package/kf5-kipi-plugins) | 4675 | 4675 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [kf5-kirigami2](/f42/package/kf5-kirigami2) | 112 | 112 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [kf5-kitemviews](/f42/package/kf5-kitemviews) | 7 | 7 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [kf5-kjobwidgets](/f42/package/kf5-kjobwidgets) | 133 | 133 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [kf5-kjsembed](/f42/package/kf5-kjsembed) | 248 | 248 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [kf5-kldap](/f42/package/kf5-kldap) | 227 | 227 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [kf5-kmailtransport](/f42/package/kf5-kmailtransport) | 663 | 663 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [kf5-kmime](/f42/package/kf5-kmime) | 159 | 159 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [kf5-knewstuff](/f42/package/kf5-knewstuff) | 1631 | 1631 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [kf5-knotifications](/f42/package/kf5-knotifications) | 21 | 21 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [kf5-knotifyconfig](/f42/package/kf5-knotifyconfig) | 129 | 129 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [kf5-kontactinterface](/f42/package/kf5-kontactinterface) | 4 | 4 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [kf5-kpackage](/f42/package/kf5-kpackage) | 452 | 452 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [kf5-kparts](/f42/package/kf5-kparts) | 138 | 138 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [kf5-kpeople](/f42/package/kf5-kpeople) | 13 | 13 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [kf5-kpimtextedit](/f42/package/kf5-kpimtextedit) | 382 | 382 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [kf5-kpty](/f42/package/kf5-kpty) | 15 | 15 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [kf5-kross](/f42/package/kf5-kross) | 100 | 100 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [kf5-kservice](/f42/package/kf5-kservice) | 173 | 173 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [kf5-ksmtp](/f42/package/kf5-ksmtp) | 86 | 86 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [kf5-ktexteditor](/f42/package/kf5-ktexteditor) | 9233 | 9233 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [kf5-ktextwidgets](/f42/package/kf5-ktextwidgets) | 473 | 473 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [kf5-ktnef](/f42/package/kf5-ktnef) | 355 | 355 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [kf5-kunitconversion](/f42/package/kf5-kunitconversion) | 5757 | 5757 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [kf5-kwallet](/f42/package/kf5-kwallet) | 1460 | 1460 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [kf5-kwidgetsaddons](/f42/package/kf5-kwidgetsaddons) | 1293 | 1293 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [kf5-kwindowsystem](/f42/package/kf5-kwindowsystem) | 2 | 2 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [kf5-kxmlgui](/f42/package/kf5-kxmlgui) | 1574 | 1574 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [kf5-kxmlrpcclient](/f42/package/kf5-kxmlrpcclient) | 13 | 13 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [kf5-libgravatar](/f42/package/kf5-libgravatar) | 23 | 23 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [kf5-libkcddb](/f42/package/kf5-libkcddb) | 400 | 400 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [kf5-libkdepim](/f42/package/kf5-libkdepim) | 35 | 35 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [kf5-libkgapi](/f42/package/kf5-libkgapi) | 378 | 378 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [kf5-libkleo](/f42/package/kf5-libkleo) | 2423 | 2423 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [kf5-libksieve](/f42/package/kf5-libksieve) | 3122 | 3122 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [kf5-libktorrent](/f42/package/kf5-libktorrent) | 465 | 465 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [kf5-mailcommon](/f42/package/kf5-mailcommon) | 2755 | 2755 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [kf5-mailimporter](/f42/package/kf5-mailimporter) | 1408 | 1408 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [kf5-messagelib](/f42/package/kf5-messagelib) | 7833 | 7833 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [kf5-pimcommon](/f42/package/kf5-pimcommon) | 830 | 830 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [kf5-plasma](/f42/package/kf5-plasma) | 362 | 362 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [kf5-purpose](/f42/package/kf5-purpose) | 323 | 323 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [kf5-solid](/f42/package/kf5-solid) | 588 | 588 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [kf5-sonnet](/f42/package/kf5-sonnet) | 683 | 683 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [kf5-syntax-highlighting](/f42/package/kf5-syntax-highlighting) | 647 | 647 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [kf6-baloo](/f42/package/kf6-baloo) | 869 | 869 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [kf6-karchive](/f42/package/kf6-karchive) | 540 | 540 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [kf6-kauth](/f42/package/kf6-kauth) | 73 | 73 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [kf6-kbookmarks](/f42/package/kf6-kbookmarks) | 179 | 179 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [kf6-kcmutils](/f42/package/kf6-kcmutils) | 200 | 200 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [kf6-kcodecs](/f42/package/kf6-kcodecs) | 370 | 370 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [kf6-kcolorscheme](/f42/package/kf6-kcolorscheme) | 1 | 1 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [kf6-kcompletion](/f42/package/kf6-kcompletion) | 18 | 18 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [kf6-kconfig](/f42/package/kf6-kconfig) | 550 | 550 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [kf6-kconfigwidgets](/f42/package/kf6-kconfigwidgets) | 312 | 312 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [kf6-kcoreaddons](/f42/package/kf6-kcoreaddons) | 485 | 485 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [kf6-kdav](/f42/package/kf6-kdav) | 185 | 185 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [kf6-kdbusaddons](/f42/package/kf6-kdbusaddons) | 48 | 48 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [kf6-kdeclarative](/f42/package/kf6-kdeclarative) | 169 | 169 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [kf6-kdesu](/f42/package/kf6-kdesu) | 19 | 19 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [kf6-kdnssd](/f42/package/kf6-kdnssd) | 3 | 3 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [kf6-kdoctools](/f42/package/kf6-kdoctools) | 8 | 8 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [kf6-kfilemetadata](/f42/package/kf6-kfilemetadata) | 309 | 309 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [kf6-kglobalaccel](/f42/package/kf6-kglobalaccel) | 34 | 34 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [kf6-kholidays](/f42/package/kf6-kholidays) | 150 | 150 | 100.0 | Korean <kde-i18n-doc@kde.org> | 
+ | [kf6-ki18n](/f42/package/kf6-ki18n) | 124 | 124 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [kf6-kiconthemes](/f42/package/kf6-kiconthemes) | 46 | 46 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [kf6-kirigami-addons](/f42/package/kf6-kirigami-addons) | 693 | 693 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [kf6-kitemviews](/f42/package/kf6-kitemviews) | 6 | 6 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [kf6-kjobwidgets](/f42/package/kf6-kjobwidgets) | 139 | 139 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [kf6-knewstuff](/f42/package/kf6-knewstuff) | 1034 | 1034 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [kf6-knotifyconfig](/f42/package/kf6-knotifyconfig) | 19 | 19 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [kf6-kpackage](/f42/package/kf6-kpackage) | 338 | 338 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [kf6-kparts](/f42/package/kf6-kparts) | 57 | 57 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [kf6-kpeople](/f42/package/kf6-kpeople) | 15 | 15 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [kf6-kpty](/f42/package/kf6-kpty) | 15 | 15 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [kf6-kservice](/f42/package/kf6-kservice) | 45 | 45 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [kf6-kstatusnotifieritem](/f42/package/kf6-kstatusnotifieritem) | 3 | 3 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [kf6-ksvg](/f42/package/kf6-ksvg) | 4 | 4 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [kf6-ktexteditor](/f42/package/kf6-ktexteditor) | 9463 | 9463 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [kf6-ktextwidgets](/f42/package/kf6-ktextwidgets) | 473 | 473 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [kf6-kunitconversion](/f42/package/kf6-kunitconversion) | 5894 | 5894 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [kf6-kuserfeedback](/f42/package/kf6-kuserfeedback) | 1157 | 1157 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [kf6-kwallet](/f42/package/kf6-kwallet) | 1185 | 1185 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [kf6-kwidgetsaddons](/f42/package/kf6-kwidgetsaddons) | 1277 | 1277 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [kf6-kwindowsystem](/f42/package/kf6-kwindowsystem) | 2 | 2 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [kf6-kxmlgui](/f42/package/kf6-kxmlgui) | 1289 | 1289 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [kf6-purpose](/f42/package/kf6-purpose) | 319 | 319 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [kf6-qqc2-desktop-style](/f42/package/kf6-qqc2-desktop-style) | 22 | 22 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [kf6-solid](/f42/package/kf6-solid) | 605 | 605 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [kf6-sonnet](/f42/package/kf6-sonnet) | 684 | 684 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [kfind](/f42/package/kfind) | 517 | 517 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [kfloppy](/f42/package/kfloppy) | 641 | 641 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [kfourinline](/f42/package/kfourinline) | 384 | 384 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [kgamma](/f42/package/kgamma) | 38 | 38 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [kget](/f42/package/kget) | 2767 | 2767 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [kgpg](/f42/package/kgpg) | 4912 | 4912 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [kgraphviewer](/f42/package/kgraphviewer) | 1193 | 1193 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [khelpcenter](/f42/package/khelpcenter) | 221 | 221 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [kid3](/f42/package/kid3) | 3194 | 3194 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [kidentitymanagement](/f42/package/kidentitymanagement) | 260 | 260 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [kigo](/f42/package/kigo) | 508 | 508 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [kile](/f42/package/kile) | 12868 | 12868 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [killbots](/f42/package/killbots) | 637 | 637 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [kimagemapeditor](/f42/package/kimagemapeditor) | 620 | 620 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [kimap](/f42/package/kimap) | 118 | 118 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [kinfocenter](/f42/package/kinfocenter) | 527 | 527 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [kio-admin](/f42/package/kio-admin) | 3 | 3 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [kio-extras](/f42/package/kio-extras) | 2928 | 2928 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [kio-extras-kf5](/f42/package/kio-extras-kf5) | 1130 | 1130 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [kio-gdrive](/f42/package/kio-gdrive) | 78 | 78 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [kio_gopher](/f42/package/kio_gopher) | 17 | 17 | 100.0 | Korean <kde@peremen.name> | 
+ | [kio_mtp](/f42/package/kio_mtp) | 17 | 17 | 100.0 | Korean <kde@peremen.name> | 
+ | [kirigami-gallery](/f42/package/kirigami-gallery) | 982 | 982 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [kiriki](/f42/package/kiriki) | 145 | 145 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [kiten](/f42/package/kiten) | 651 | 651 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [kitinerary](/f42/package/kitinerary) | 108 | 108 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [kjournald](/f42/package/kjournald) | 130 | 130 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [kjumpingcube](/f42/package/kjumpingcube) | 413 | 413 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [kldap](/f42/package/kldap) | 215 | 215 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [klettres](/f42/package/klettres) | 440 | 440 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [klevernotes](/f42/package/klevernotes) | 962 | 962 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [klickety](/f42/package/klickety) | 178 | 178 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [klines](/f42/package/klines) | 99 | 99 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [kmag](/f42/package/kmag) | 432 | 432 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [kmail-account-wizard](/f42/package/kmail-account-wizard) | 281 | 281 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [kmailtransport](/f42/package/kmailtransport) | 669 | 669 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [kmenuedit](/f42/package/kmenuedit) | 314 | 314 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [kmime](/f42/package/kmime) | 152 | 152 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [kmines](/f42/package/kmines) | 164 | 164 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [kmix](/f42/package/kmix) | 1159 | 1159 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [kmousetool](/f42/package/kmousetool) | 147 | 147 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [kmouth](/f42/package/kmouth) | 1474 | 1474 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [kmplot](/f42/package/kmplot) | 2501 | 2501 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [knavalbattle](/f42/package/knavalbattle) | 401 | 401 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [knetwalk](/f42/package/knetwalk) | 236 | 236 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [knights](/f42/package/knights) | 797 | 797 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [knotes](/f42/package/knotes) | 787 | 787 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [kolf](/f42/package/kolf) | 405 | 405 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [kollision](/f42/package/kollision) | 109 | 109 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [kolorfill](/f42/package/kolorfill) | 60 | 60 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [kolourpaint](/f42/package/kolourpaint) | 2661 | 2661 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [kompare](/f42/package/kompare) | 1413 | 1413 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [kongress](/f42/package/kongress) | 176 | 176 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [konquest](/f42/package/konquest) | 248 | 248 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [konsole](/f42/package/konsole) | 4282 | 4282 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [konsole5](/f42/package/konsole5) | 3996 | 3996 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [kontactinterface](/f42/package/kontactinterface) | 4 | 4 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [kontrast](/f42/package/kontrast) | 327 | 327 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [kopeninghours](/f42/package/kopeninghours) | 160 | 160 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [kopete](/f42/package/kopete) | 17175 | 17175 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [kosmindoormap](/f42/package/kosmindoormap) | 623 | 623 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [kpat](/f42/package/kpat) | 589 | 589 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [kpimtextedit](/f42/package/kpimtextedit) | 274 | 274 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [kpipewire](/f42/package/kpipewire) | 26 | 26 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [kpmcore](/f42/package/kpmcore) | 3297 | 3297 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [kproperty](/f42/package/kproperty) | 145 | 145 | 100.0 | Korean <kde@peremen.name> | 
+ | [krdc](/f42/package/krdc) | 1205 | 1205 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [krdp](/f42/package/krdp) | 322 | 322 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [krecorder](/f42/package/krecorder) | 128 | 128 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [krename](/f42/package/krename) | 2142 | 2142 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [kreport](/f42/package/kreport) | 455 | 455 | 100.0 | Korean <kde@peremen.name> | 
+ | [kreversi](/f42/package/kreversi) | 404 | 404 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [krfb](/f42/package/krfb) | 734 | 734 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [kronometer](/f42/package/kronometer) | 233 | 233 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [kruler](/f42/package/kruler) | 158 | 158 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [krusader](/f42/package/krusader) | 8096 | 8096 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [ksanecore](/f42/package/ksanecore) | 59 | 59 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [kscreen](/f42/package/kscreen) | 948 | 948 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [kscreenlocker](/f42/package/kscreenlocker) | 320 | 320 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [kshisen](/f42/package/kshisen) | 667 | 667 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [ksig](/f42/package/ksig) | 85 | 85 | 100.0 | Korean <cho.sungjae@gmail.com> | 
+ | [ksmtp](/f42/package/ksmtp) | 86 | 86 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [ksnakeduel](/f42/package/ksnakeduel) | 243 | 243 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [kspaceduel](/f42/package/kspaceduel) | 165 | 165 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [ksquares](/f42/package/ksquares) | 293 | 293 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [ksshaskpass](/f42/package/ksshaskpass) | 55 | 55 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [ksudoku](/f42/package/ksudoku) | 1849 | 1849 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [ksystemlog](/f42/package/ksystemlog) | 3101 | 3101 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [ksystemstats](/f42/package/ksystemstats) | 949 | 949 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [kteatime](/f42/package/kteatime) | 203 | 203 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [ktextaddons-qt5](/f42/package/ktextaddons-qt5) | 954 | 954 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [ktimer](/f42/package/ktimer) | 258 | 258 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [ktnef](/f42/package/ktnef) | 355 | 355 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [ktouch](/f42/package/ktouch) | 964 | 964 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [ktp-desktop-applets](/f42/package/ktp-desktop-applets) | 75 | 75 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [ktrip](/f42/package/ktrip) | 144 | 144 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [kturtle](/f42/package/kturtle) | 1538 | 1538 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [kubernetes1.29](/f42/package/kubernetes1.29) | 43 | 43 | 100.0 |  | 
+ | [kubernetes1.30](/f42/package/kubernetes1.30) | 43 | 43 | 100.0 |  | 
+ | [kubernetes1.31](/f42/package/kubernetes1.31) | 43 | 43 | 100.0 |  | 
+ | [kubrick](/f42/package/kubrick) | 1213 | 1213 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [kunifiedpush](/f42/package/kunifiedpush) | 180 | 180 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [kuserfeedback](/f42/package/kuserfeedback) | 1157 | 1157 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [kwalletmanager5](/f42/package/kwalletmanager5) | 828 | 828 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [kwave](/f42/package/kwave) | 5821 | 5821 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [kweather](/f42/package/kweather) | 215 | 215 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [kweathercore](/f42/package/kweathercore) | 122 | 122 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [kwebkitpart](/f42/package/kwebkitpart) | 669 | 669 | 100.0 | Korean <kde@peremen.name> | 
+ | [kwin](/f42/package/kwin) | 6359 | 6359 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [kwin-x11](/f42/package/kwin-x11) | 5886 | 5886 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [kwordquiz](/f42/package/kwordquiz) | 258 | 258 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [labwc](/f42/package/labwc) | 24 | 24 | 100.0 | Korean <https://translate.lxqt-project.org/projects/labwc/labwc/ko/> | 
+ | [libadwaita](/f42/package/libadwaita) | 417 | 417 | 100.0 | Korean <gnome-kr@googlegroups.com> | 
+ | [libalkimia](/f42/package/libalkimia) | 1066 | 1066 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [libbonobo](/f42/package/libbonobo) | 547 | 547 | 100.0 | Korean <gnome-kr-translation@lists.sourceforge.net> | 
+ | [libbonoboui](/f42/package/libbonoboui) | 368 | 368 | 100.0 | GNOME Korea <gnome-kr-hackers@lists.kldp.net> | 
+ | [libbytesize](/f42/package/libbytesize) | 17 | 17 | 100.0 | Korean <https://translate.fedoraproject.org/projects/blivet/libbytesize/ko/> | 
+ | [libcryptui](/f42/package/libcryptui) | 3012 | 3012 | 100.0 | Korean <gnome-kr@googlegroups.com> | 
+ | [libdnf](/f42/package/libdnf) | 1664 | 1664 | 100.0 | Korean <https://translate.fedoraproject.org/projects/dnf/libdnf-dnf-4-master/ko/> | 
+ | [libfilezilla](/f42/package/libfilezilla) | 308 | 308 | 100.0 | Korean (Republic of Korea) | 
+ | [libgdata](/f42/package/libgdata) | 694 | 694 | 100.0 | Korean <gnome-kr@googlegroups.com> | 
+ | [libgdl](/f42/package/libgdl) | 604 | 604 | 100.0 | GNOME Korean <gnome-kr@googlegroups.com> | 
+ | [libgnome](/f42/package/libgnome) | 1773 | 1773 | 100.0 | GNOME Korea <gnome-kr@googlegroups.com> | 
+ | [libgnome-games-support](/f42/package/libgnome-games-support) | 43 | 43 | 100.0 | Korean <gnome-kr@googlegroups.com> | 
+ | [libgnome-games-support1](/f42/package/libgnome-games-support1) | 43 | 43 | 100.0 | Korean <gnome-kr@googlegroups.com> | 
+ | [libgnome-keyring](/f42/package/libgnome-keyring) | 44 | 44 | 100.0 | GNOME Korea <gnome-kr@googlegroups.com> | 
+ | [libgnomecanvas](/f42/package/libgnomecanvas) | 378 | 378 | 100.0 | GNOME Korea <gnome-kr-hackers@lists.kldp.net> | 
+ | [libgnomekbd](/f42/package/libgnomekbd) | 242 | 242 | 100.0 | GNOME Korea <gnome-kr@googlegroups.com> | 
+ | [libgnomeui](/f42/package/libgnomeui) | 1309 | 1309 | 100.0 | GNOME Korea <gnome-kr-hackers@lists.kldp.net> | 
+ | [libgravatar](/f42/package/libgravatar) | 25 | 25 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [libgsf](/f42/package/libgsf) | 696 | 696 | 100.0 | Korean <gnome-kr@googlegroups.com> | 
+ | [libgtop2](/f42/package/libgtop2) | 126 | 126 | 100.0 | GNOME Korea <gnome-kr@googlegroups.com> | 
+ | [libhandy](/f42/package/libhandy) | 1408 | 1408 | 100.0 | Korean <gnome-kr@googlegroups.com> | 
+ | [libidn2](/f42/package/libidn2) | 322 | 322 | 100.0 | Korean <translation-team-ko@googlegroups.com> | 
+ | [libkcddb](/f42/package/libkcddb) | 374 | 374 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [libkcompactdisc](/f42/package/libkcompactdisc) | 15 | 15 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [libkdegames](/f42/package/libkdegames) | 316 | 316 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [libkdepim](/f42/package/libkdepim) | 36 | 36 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [libkeduvocdocument](/f42/package/libkeduvocdocument) | 171 | 171 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [libkgapi](/f42/package/libkgapi) | 378 | 378 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [libkmahjongg](/f42/package/libkmahjongg) | 11 | 11 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [libkomparediff2](/f42/package/libkomparediff2) | 143 | 143 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [libksane](/f42/package/libksane) | 284 | 284 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [libkscreen](/f42/package/libkscreen) | 24 | 24 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [libkscreen-qt5](/f42/package/libkscreen-qt5) | 24 | 24 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [libksieve](/f42/package/libksieve) | 3134 | 3134 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [libksysguard](/f42/package/libksysguard) | 1109 | 1109 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [libktorrent](/f42/package/libktorrent) | 465 | 465 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [libmypaint](/f42/package/libmypaint) | 2303 | 2303 | 100.0 | Korean <https://hosted.weblate.org/projects/mypaint/libmypaint/ko/> | 
+ | [libosinfo](/f42/package/libosinfo) | 817 | 817 | 100.0 | Korean <https://translate.fedoraproject.org/projects/libosinfo/libosinfo/ko/> | 
+ | [libpanel](/f42/package/libpanel) | 107 | 107 | 100.0 | Korean <gnome-kr@googlegroups.com> | 
+ | [libpeas](/f42/package/libpeas) | 103 | 103 | 100.0 | Korean <gnome-kr@googlegroups.com> | 
+ | [libpeas1](/f42/package/libpeas1) | 103 | 103 | 100.0 | Korean <gnome-kr@googlegroups.com> | 
+ | [libplasma](/f42/package/libplasma) | 227 | 227 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [libpwquality](/f42/package/libpwquality) | 345 | 345 | 100.0 | Korean <https://translate.fedoraproject.org/projects/libpwquality/app/ko/> | 
+ | [libreport](/f42/package/libreport) | 4928 | 4928 | 100.0 | Korean <https://translate.fedoraproject.org/projects/abrt/libreport/ko/> | 
+ | [libsecret](/f42/package/libsecret) | 64 | 64 | 100.0 | GNOME Korea <gnome-kr@googlegroups.com> | 
+ | [libshumate](/f42/package/libshumate) | 22 | 22 | 100.0 | Korean <gnome-kr@googlegroups.com> | 
+ | [libsoup](/f42/package/libsoup) | 183 | 183 | 100.0 | Korean <gnome-kr@googlegroups.com> | 
+ | [libsoup3](/f42/package/libsoup3) | 180 | 180 | 100.0 | Korean <gnome-kr@googlegroups.com> | 
+ | [libspelling](/f42/package/libspelling) | 7 | 7 | 100.0 | Korean <gnome-kr@googlegroups.com> | 
+ | [libvirt-glib](/f42/package/libvirt-glib) | 158 | 158 | 100.0 | Korean <https://translate.fedoraproject.org/projects/libvirt/libvirt-glib/ko/> | 
+ | [libwnck](/f42/package/libwnck) | 1124 | 1124 | 100.0 | GNOME Korea <gnome-kr-hackers@lists.kldp.net> | 
+ | [libwnck3](/f42/package/libwnck3) | 1084 | 1084 | 100.0 | GNOME Korea <gnome-kr@googlegroups.com> | 
+ | [libxfce4ui](/f42/package/libxfce4ui) | 1017 | 1017 | 100.0 | Korean (https://app.transifex.com/xfce/teams/16840/ko/) | 
+ | [libxfce4util](/f42/package/libxfce4util) | 424 | 424 | 100.0 | Korean (http://www.transifex.com/xfce/libxfce4util/language/ko/) | 
+ | [libxfce4windowing](/f42/package/libxfce4windowing) | 63 | 63 | 100.0 | Korean (https://www.transifex.com/xfce/teams/16840/ko/) | 
+ | [lightdm-settings](/f42/package/lightdm-settings) | 355 | 355 | 100.0 | Korean <ko@li.org> | 
+ | [lightsoff](/f42/package/lightsoff) | 1152 | 1152 | 100.0 | Korean <gnome-kr@googlegroups.com> | 
+ | [localsearch](/f42/package/localsearch) | 1854 | 1854 | 100.0 | Gnome Korea <gnome-kr@googlegroups.com> | 
+ | [lokalize](/f42/package/lokalize) | 4086 | 4086 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [loupe](/f42/package/loupe) | 1306 | 1306 | 100.0 | Korean <gnome-kr@googlegroups.com> | 
+ | [lskat](/f42/package/lskat) | 266 | 266 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [lxdm](/f42/package/lxdm) | 48 | 48 | 100.0 | Seong-ho Cho <darkcircle.0426@gmail.com> | 
+ | [m4](/f42/package/m4) | 1171 | 1171 | 100.0 | Korean <translation-team-ko@googlegroups.com> | 
+ | [magpie](/f42/package/magpie) | 1301 | 1301 | 100.0 | GNOME Korea <gnome-kr@googlegroups.com> | 
+ | [mailcommon](/f42/package/mailcommon) | 2803 | 2803 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [mailimporter](/f42/package/mailimporter) | 1405 | 1405 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [make](/f42/package/make) | 2593 | 2593 | 100.0 | Korean <translation-team-ko@googlegroups.com> | 
+ | [markdownpart](/f42/package/markdownpart) | 23 | 23 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [massif-visualizer](/f42/package/massif-visualizer) | 360 | 360 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [mate-backgrounds](/f42/package/mate-backgrounds) | 55 | 55 | 100.0 | Korean (https://app.transifex.com/mate/teams/13566/ko/) | 
+ | [mate-icon-theme](/f42/package/mate-icon-theme) | 4 | 4 | 100.0 | Korean (https://app.transifex.com/mate/teams/13566/ko/) | 
+ | [mate-menu](/f42/package/mate-menu) | 308 | 308 | 100.0 | Korean (http://www.transifex.com/mate/MATE/language/ko/) | 
+ | [mate-polkit](/f42/package/mate-polkit) | 123 | 123 | 100.0 | Korean (https://app.transifex.com/mate/teams/13566/ko/) | 
+ | [mate-themes](/f42/package/mate-themes) | 74 | 74 | 100.0 | Korean (http://app.transifex.com/mate/MATE/language/ko/) | 
+ | [maui-mauikit](/f42/package/maui-mauikit) | 92 | 92 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [maui-mauikit-accounts](/f42/package/maui-mauikit-accounts) | 43 | 43 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [maui-mauikit-calendar](/f42/package/maui-mauikit-calendar) | 63 | 63 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [maui-mauikit-filebrowsing](/f42/package/maui-mauikit-filebrowsing) | 618 | 618 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [maui-mauikit-imagetools](/f42/package/maui-mauikit-imagetools) | 61 | 61 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [maui-mauikit-index-fm](/f42/package/maui-mauikit-index-fm) | 384 | 384 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [maui-mauikit-pix](/f42/package/maui-mauikit-pix) | 325 | 325 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [maui-mauikit-station](/f42/package/maui-mauikit-station) | 326 | 326 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [maui-mauikit-terminal](/f42/package/maui-mauikit-terminal) | 21 | 21 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [maui-mauikit-texteditor](/f42/package/maui-mauikit-texteditor) | 111 | 111 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [mbox-importer](/f42/package/mbox-importer) | 40 | 40 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [mediawriter](/f42/package/mediawriter) | 836 | 836 | 100.0 | Korean <https://translate.fedoraproject.org/projects/fedora-media-writer/mediawriter/ko/> | 
+ | [meld](/f42/package/meld) | 865 | 865 | 100.0 | GNOME Korean <Gnome-kr-hackers@lists.kldp.net> | 
+ | [merkuro](/f42/package/merkuro) | 1956 | 1956 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [messagelib](/f42/package/messagelib) | 7634 | 7634 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [metacity](/f42/package/metacity) | 2040 | 2040 | 100.0 | GNOME Korea <gnome-kr@googlegroups.com> | 
+ | [mimetreeparser](/f42/package/mimetreeparser) | 283 | 283 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [mingw-GConf2](/f42/package/mingw-GConf2) | 4088 | 4088 | 100.0 | GNOME Korea <gnome-kr@googlegroups.com> | 
+ | [mingw-atk](/f42/package/mingw-atk) | 440 | 440 | 100.0 | GNOME Korea <gnome-kr@googlegroups.com> | 
+ | [mingw-gdk-pixbuf](/f42/package/mingw-gdk-pixbuf) | 1325 | 1325 | 100.0 | Gnome Korea <gnome-kr@googlegroups.com> | 
+ | [mingw-glib-networking](/f42/package/mingw-glib-networking) | 460 | 460 | 100.0 | Korean <gnome-kr@googlegroups.com> | 
+ | [mingw-glib2](/f42/package/mingw-glib2) | 7889 | 7889 | 100.0 | GNOME Korea <gnome-kr@googlegroups.com> | 
+ | [mingw-gtk2](/f42/package/mingw-gtk2) | 12381 | 12381 | 100.0 | Gnome Korea <gnome-kr@googlegroups.com> | 
+ | [mingw-gtk3](/f42/package/mingw-gtk3) | 16737 | 16737 | 100.0 | Gnome Korea <gnome-kr@googlegroups.com> | 
+ | [mingw-gtk4](/f42/package/mingw-gtk4) | 4764 | 4764 | 100.0 | Gnome Korea <gnome-kr@googlegroups.com> | 
+ | [mingw-json-glib](/f42/package/mingw-json-glib) | 307 | 307 | 100.0 | Korean <gnome-kr@googlegroups.com> | 
+ | [mingw-libcharset](/f42/package/mingw-libcharset) | 342 | 342 | 100.0 | Korean <translation-team-ko@googlegroups.com> | 
+ | [mingw-libidn2](/f42/package/mingw-libidn2) | 322 | 322 | 100.0 | Korean <translation-team-ko@googlegroups.com> | 
+ | [mingw-libsoup](/f42/package/mingw-libsoup) | 183 | 183 | 100.0 | Korean <gnome-kr@googlegroups.com> | 
+ | [minicom](/f42/package/minicom) | 1958 | 1958 | 100.0 | Korean <translation-team-ko@googlegroups.com> | 
+ | [minidlna](/f42/package/minidlna) | 40 | 40 | 100.0 | Korean | 
+ | [moserial](/f42/package/moserial) | 757 | 757 | 100.0 | Korean <gnome-kr-translation@lists.sourceforge.net> | 
+ | [mousepad](/f42/package/mousepad) | 1700 | 1700 | 100.0 | Korean (http://app.transifex.com/xfce/xfce-apps/language/ko/) | 
+ | [mousetweaks](/f42/package/mousetweaks) | 114 | 114 | 100.0 | GNOME Korea <gnome-kr@googlegroups.com> | 
+ | [mozo](/f42/package/mozo) | 46 | 46 | 100.0 | Korean (https://app.transifex.com/mate/teams/13566/ko/) | 
+ | [msitools](/f42/package/msitools) | 85 | 85 | 100.0 | Korean <gnome-kr@googlegroups.com> | 
+ | [muffin](/f42/package/muffin) | 1219 | 1219 | 100.0 | GNOME Korea <gnome-kr@googlegroups.com> | 
+ | [multimedia-menus](/f42/package/multimedia-menus) | 56 | 56 | 100.0 | Korean <ko@li.org> | 
+ | [mutter](/f42/package/mutter) | 1440 | 1440 | 100.0 | GNOME Korea <gnome-kr@googlegroups.com> | 
+ | [mypaint](/f42/package/mypaint) | 6381 | 6381 | 100.0 | Korean <https://hosted.weblate.org/projects/mypaint/mypaint/ko/> | 
+ | [nano](/f42/package/nano) | 3555 | 3555 | 100.0 | Korean <translation-team-ko@googlegroups.com> | 
+ | [nautilus](/f42/package/nautilus) | 5483 | 5483 | 100.0 | GNOME Korea <gnome-kr@googlegroups.com> | 
+ | [ncmpc](/f42/package/ncmpc) | 731 | 731 | 100.0 | Korean <https://hosted.weblate.org/projects/ncmpc/translations/ko/> | 
+ | [nemiver](/f42/package/nemiver) | 1341 | 1341 | 100.0 | Korean <gnome-kr@googlegroups.com> | 
+ | [newt](/f42/package/newt) | 4 | 4 | 100.0 | Korean <cwryu@debian.org> | 
+ | [noggin](/f42/package/noggin) | 1798 | 1798 | 100.0 | Korean <https://translate.fedoraproject.org/projects/fedora-infra/noggin/ko/> | 
+ | [notification-daemon](/f42/package/notification-daemon) | 17 | 17 | 100.0 | GNOME Korea <gnome-kr@googlegroups.com> | 
+ | [novnc](/f42/package/novnc) | 131 | 131 | 100.0 | Korean | 
+ | [okteta](/f42/package/okteta) | 2538 | 2538 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [optiimage](/f42/package/optiimage) | 145 | 145 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [osinfo-db-tools](/f42/package/osinfo-db-tools) | 222 | 222 | 100.0 | Korean <https://translate.fedoraproject.org/projects/libosinfo/osinfo-db-tools/ko/> | 
+ | [palapeli](/f42/package/palapeli) | 1525 | 1525 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [pam](/f42/package/pam) | 544 | 544 | 100.0 | Korean <https://translate.fedoraproject.org/projects/linux-pam/master/ko/> | 
+ | [papers](/f42/package/papers) | 8302 | 8302 | 100.0 | GNOME Korea <gnome-kr@googlegroups.com> | 
+ | [paprefs](/f42/package/paprefs) | 137 | 137 | 100.0 | Korean <https://translate.fedoraproject.org/projects/pulseaudio/paprefs/ko/> | 
+ | [parole](/f42/package/parole) | 810 | 810 | 100.0 | Korean (http://app.transifex.com/xfce/xfce-apps/language/ko/) | 
+ | [phonon](/f42/package/phonon) | 327 | 327 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [phonon-backend-gstreamer](/f42/package/phonon-backend-gstreamer) | 104 | 104 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [phonon-backend-vlc](/f42/package/phonon-backend-vlc) | 27 | 27 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [phonon-qt4](/f42/package/phonon-qt4) | 116 | 116 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [phonon-qt4-backend-gstreamer](/f42/package/phonon-qt4-backend-gstreamer) | 104 | 104 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [phosh](/f42/package/phosh) | 111 | 111 | 100.0 | Korean <gnome-kr@googlegroups.com> | 
+ | [picmi](/f42/package/picmi) | 202 | 202 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [pim-data-exporter](/f42/package/pim-data-exporter) | 794 | 794 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [pim-sieve-editor](/f42/package/pim-sieve-editor) | 470 | 470 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [pimcommon](/f42/package/pimcommon) | 884 | 884 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [plank](/f42/package/plank) | 189 | 189 | 100.0 | Korean <ko@li.org> | 
+ | [plasma-bigscreen](/f42/package/plasma-bigscreen) | 460 | 460 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [plasma-breeze](/f42/package/plasma-breeze) | 262 | 262 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [plasma-browser-integration](/f42/package/plasma-browser-integration) | 127 | 127 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [plasma-dialer](/f42/package/plasma-dialer) | 151 | 151 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [plasma-disks](/f42/package/plasma-disks) | 205 | 205 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [plasma-drkonqi](/f42/package/plasma-drkonqi) | 1981 | 1981 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [plasma-firewall](/f42/package/plasma-firewall) | 393 | 393 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [plasma-integration](/f42/package/plasma-integration) | 72 | 72 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [plasma-mediacenter](/f42/package/plasma-mediacenter) | 172 | 172 | 100.0 | Korean <kde@peremen.name> | 
+ | [plasma-milou](/f42/package/plasma-milou) | 10 | 10 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [plasma-mobile](/f42/package/plasma-mobile) | 1848 | 1848 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [plasma-nano](/f42/package/plasma-nano) | 36 | 36 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [plasma-oxygen](/f42/package/plasma-oxygen) | 794 | 794 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [plasma-pa](/f42/package/plasma-pa) | 423 | 423 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [plasma-pass](/f42/package/plasma-pass) | 22 | 22 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [plasma-phonebook](/f42/package/plasma-phonebook) | 73 | 73 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [plasma-print-manager](/f42/package/plasma-print-manager) | 1199 | 1199 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [plasma-sdk](/f42/package/plasma-sdk) | 945 | 945 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [plasma-settings](/f42/package/plasma-settings) | 88 | 88 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [plasma-systemmonitor](/f42/package/plasma-systemmonitor) | 689 | 689 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [plasma-systemsettings](/f42/package/plasma-systemsettings) | 133 | 133 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [plasma-thunderbolt](/f42/package/plasma-thunderbolt) | 174 | 174 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [plasma-vault](/f42/package/plasma-vault) | 628 | 628 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [plasma-welcome](/f42/package/plasma-welcome) | 1742 | 1742 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [plasma-welcome-fedora](/f42/package/plasma-welcome-fedora) | 108 | 108 | 100.0 | Korean <https://translate.fedoraproject.org/projects/fedora-kde/plasma-welcome-fedora/ko/> | 
+ | [plasma5support](/f42/package/plasma5support) | 3174 | 3174 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [plasmatube](/f42/package/plasmatube) | 517 | 517 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [plymouth-kcm](/f42/package/plymouth-kcm) | 93 | 93 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [poedit](/f42/package/poedit) | 3331 | 3331 | 100.0 | Korean | 
+ | [policycoreutils](/f42/package/policycoreutils) | 6361 | 6361 | 100.0 | Korean <https://translate.fedoraproject.org/projects/selinux/gui/ko/> | 
+ | [polkit-kde](/f42/package/polkit-kde) | 59 | 59 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [postgresql17](/f42/package/postgresql17) | 84139 | 84139 | 100.0 | Korean Team <kr@postgresql.org> | 
+ | [powerdevil](/f42/package/powerdevil) | 1825 | 1825 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [procps-ng](/f42/package/procps-ng) | 5178 | 5178 | 100.0 | Korean <translation-team-ko@googlegroups.com> | 
+ | [proftpd](/f42/package/proftpd) | 823 | 823 | 100.0 | Korean User Group | 
+ | [psmisc](/f42/package/psmisc) | 3674 | 3674 | 100.0 | Korean <translation-team-ko@googlegroups.com> | 
+ | [ptyxis](/f42/package/ptyxis) | 1644 | 1644 | 100.0 | Korean <Korean> | 
+ | [pulseaudio](/f42/package/pulseaudio) | 3786 | 3786 | 100.0 | Korean <https://translate.fedoraproject.org/projects/pulseaudio/pulseaudio/ko/> | 
+ | [pychess](/f42/package/pychess) | 7592 | 7592 | 100.0 | Korean (http://www.transifex.com/gbtami/pychess/language/ko/) | 
+ | [python-blivet](/f42/package/python-blivet) | 605 | 605 | 100.0 | Korean <https://translate.fedoraproject.org/projects/blivet/blivet-master/ko/> | 
+ | [python-caja](/f42/package/python-caja) | 6 | 6 | 100.0 | Korean (https://www.transifex.com/mate/teams/13566/ko/) | 
+ | [python-django-contrib-comments](/f42/package/python-django-contrib-comments) | 250 | 250 | 100.0 | Korean (http://www.transifex.com/django/django-contrib-comments/language/ko/) | 
+ | [python-django-formtools](/f42/package/python-django-formtools) | 32 | 32 | 100.0 | Korean (http://www.transifex.com/django/django-formtools/language/ko/) | 
+ | [python-django5](/f42/package/python-django5) | 3922 | 3922 | 100.0 | Korean (http://app.transifex.com/django/django/language/ko/) | 
+ | [python-meh](/f42/package/python-meh) | 109 | 109 | 100.0 | Korean <https://translate.fedoraproject.org/projects/python-meh/master/ko/> | 
+ | [python-nikola](/f42/package/python-nikola) | 94 | 94 | 100.0 | Korean (http://app.transifex.com/ralsina/nikola/language/ko/) | 
+ | [python-oslo-i18n](/f42/package/python-oslo-i18n) | 30 | 30 | 100.0 | Korean (South Korea) | 
+ | [python-simpleline](/f42/package/python-simpleline) | 42 | 42 | 100.0 | Korean <https://translate.fedoraproject.org/projects/python-simpleline/master/ko/> | 
+ | [python-sphinxcontrib-htmlhelp](/f42/package/python-sphinxcontrib-htmlhelp) | 25 | 25 | 100.0 | Korean (https://www.transifex.com/sphinx-doc/teams/36659/ko/) | 
+ | [python-sphinxcontrib-serializinghtml](/f42/package/python-sphinxcontrib-serializinghtml) | 18 | 18 | 100.0 | Korean (https://www.transifex.com/sphinx-doc/teams/36659/ko/) | 
+ | [python-uranium](/f42/package/python-uranium) | 706 | 706 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [python-ytmusicapi](/f42/package/python-ytmusicapi) | 19 | 19 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [qmlkonsole](/f42/package/qmlkonsole) | 166 | 166 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [qrca](/f42/package/qrca) | 138 | 138 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [qt3](/f42/package/qt3) | 483 | 483 | 100.0 |  | 
+ | [quadrapassel](/f42/package/quadrapassel) | 460 | 460 | 100.0 | GNOME Korea <gnome-kr@googlegroups.com> | 
+ | [quearcode](/f42/package/quearcode) | 80 | 80 | 100.0 |  | 
+ | [redhat-menus](/f42/package/redhat-menus) | 261 | 261 | 100.0 | Korean <ko@li.org> | 
+ | [retrace-server](/f42/package/retrace-server) | 433 | 433 | 100.0 | Korean <https://translate.fedoraproject.org/projects/abrt/retrace-server/ko/> | 
+ | [rhythmbox](/f42/package/rhythmbox) | 3734 | 3734 | 100.0 | GNOME Korea <gnome-kr@googlegroups.com> | 
+ | [ristretto](/f42/package/ristretto) | 655 | 655 | 100.0 | Korean (http://app.transifex.com/xfce/xfce-apps/language/ko/) | 
+ | [rizin](/f42/package/rizin) | 1379 | 1379 | 100.0 | Korean <translation-team-ko@googlegroups.com> | 
+ | [rocs](/f42/package/rocs) | 1448 | 1448 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [rpm](/f42/package/rpm) | 4732 | 4732 | 100.0 | Korean <https://translate.fedoraproject.org/projects/rpm/rpm-l10n/ko/> | 
+ | [rpm-ostree](/f42/package/rpm-ostree) | 1664 | 1664 | 100.0 | Korean <https://translate.fedoraproject.org/projects/dnf/libdnf-dnf-4-master/ko/> | 
+ | [rygel](/f42/package/rygel) | 1632 | 1632 | 100.0 | GNOME Korea <gnome-kr@googlegroups.com> | 
+ | [scim-hangul](/f42/package/scim-hangul) | 186 | 186 | 100.0 | Korean | 
+ | [scons](/f42/package/scons) | 48 | 48 | 100.0 |  | 
+ | [scummvm](/f42/package/scummvm) | 15601 | 15601 | 100.0 | Korean <https://translations.scummvm.org/projects/scummvm/scummvm/ko/> | 
+ | [sddm-kcm](/f42/package/sddm-kcm) | 215 | 215 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [seahorse](/f42/package/seahorse) | 2378 | 2378 | 100.0 | Korean <gnome-kr@googlegroups.com> | 
+ | [seahorse-caja](/f42/package/seahorse-caja) | 421 | 421 | 100.0 | GNOME Korea <gnome-kr@googlegroups.com> | 
+ | [seahorse-nautilus](/f42/package/seahorse-nautilus) | 421 | 421 | 100.0 | GNOME Korea <gnome-kr@googlegroups.com> | 
+ | [secrets](/f42/package/secrets) | 1170 | 1170 | 100.0 | Korean <gnome-kr@googlegroups.com> | 
+ | [sed](/f42/package/sed) | 817 | 817 | 100.0 | Korean <translation-team-ko@googlegroups.com> | 
+ | [setroubleshoot](/f42/package/setroubleshoot) | 640 | 640 | 100.0 | Korean <https://translate.fedoraproject.org/projects/setroubleshoot/setroubleshoot/ko/> | 
+ | [setroubleshoot-plugins](/f42/package/setroubleshoot-plugins) | 6248 | 6248 | 100.0 | Korean <https://translate.fedoraproject.org/projects/setroubleshoot/plugins/ko/> | 
+ | [setuptool](/f42/package/setuptool) | 55 | 55 | 100.0 | Korean <ko@li.org> | 
+ | [shotwell](/f42/package/shotwell) | 6861 | 6861 | 100.0 | Korean (http://www.transifex.com/projects/p/shotwell/language/ko/) | 
+ | [showtime](/f42/package/showtime) | 210 | 210 | 100.0 | GNOME Korea <gnome-kr@googlegroups.com> | 
+ | [simple-scan](/f42/package/simple-scan) | 948 | 948 | 100.0 | GNOME Korea <gnome-kr@googlegroups.com> | 
+ | [skanlite](/f42/package/skanlite) | 186 | 186 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [skanpage](/f42/package/skanpage) | 378 | 378 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [skladnik](/f42/package/skladnik) | 154 | 154 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [slick-greeter](/f42/package/slick-greeter) | 216 | 216 | 100.0 | Korean <ko@li.org> | 
+ | [smb4k](/f42/package/smb4k) | 6077 | 6077 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [snapshot](/f42/package/snapshot) | 267 | 267 | 100.0 | Korean <gnome-kr@googlegroups.com> | 
+ | [sound-juicer](/f42/package/sound-juicer) | 1273 | 1273 | 100.0 | GNOME Korea <gnome-kr@googlegroups.com> | 
+ | [spacebar](/f42/package/spacebar) | 278 | 278 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [spectacle](/f42/package/spectacle) | 1911 | 1911 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [squeekboard](/f42/package/squeekboard) | 13 | 13 | 100.0 |  | 
+ | [subscription-manager](/f42/package/subscription-manager) | 3445 | 3445 | 100.0 | Korean <https://translate.fedoraproject.org/projects/subscription-manager/subscription-manager-main/ko/> | 
+ | [subscription-manager-cockpit](/f42/package/subscription-manager-cockpit) | 511 | 511 | 100.0 | Korean <https://translate.fedoraproject.org/projects/subscription-manager/cockpit-main/ko/> | 
+ | [sudo](/f42/package/sudo) | 6294 | 6294 | 100.0 | Korean <translation-team-ko@googlegroups.com> | 
+ | [sugar-abacus](/f42/package/sugar-abacus) | 28 | 28 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sushi](/f42/package/sushi) | 54 | 54 | 100.0 | Korean <gnome-kr@googlegroups.com> | 
+ | [svgpart](/f42/package/svgpart) | 3 | 3 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [sweeper](/f42/package/sweeper) | 228 | 228 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [swell-foop](/f42/package/swell-foop) | 991 | 991 | 100.0 | Korean <gnome-kr@googlegroups.com> | 
+ | [syncevolution](/f42/package/syncevolution) | 1132 | 1132 | 100.0 | Korean (http://www.transifex.net/projects/p/meego/team/ko/) | 
+ | [sysprof](/f42/package/sysprof) | 1954 | 1954 | 100.0 | Korean <gnome-kr@googlegroups.com> | 
+ | [sysstat](/f42/package/sysstat) | 851 | 851 | 100.0 | Korean <translation-team-ko@googlegroups.com> | 
+ | [system-config-rootpassword](/f42/package/system-config-rootpassword) | 116 | 116 | 100.0 | Korean <ko@li.org> | 
+ | [system-switch-java](/f42/package/system-switch-java) | 81 | 81 | 100.0 | Korean <ko@li.org> | 
+ | [systemd](/f42/package/systemd) | 1971 | 1971 | 100.0 | Korean <https://translate.fedoraproject.org/projects/systemd/main/ko/> | 
+ | [tali](/f42/package/tali) | 2427 | 2427 | 100.0 | Korean <gnome-kr@googlegroups.com> | 
+ | [tecla](/f42/package/tecla) | 16 | 16 | 100.0 | Korean <gnome-kr@googlegroups.com> | 
+ | [tellico](/f42/package/tellico) | 5423 | 5423 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [thunar-archive-plugin](/f42/package/thunar-archive-plugin) | 88 | 88 | 100.0 | Korean (http://app.transifex.com/xfce/thunar-plugins/language/ko/) | 
+ | [thunar-media-tags-plugin](/f42/package/thunar-media-tags-plugin) | 158 | 158 | 100.0 | Korean (http://www.transifex.com/xfce/thunar-plugins/language/ko/) | 
+ | [thunar-vcs-plugin](/f42/package/thunar-vcs-plugin) | 614 | 614 | 100.0 | Korean (http://www.transifex.com/xfce/thunar-plugins/language/ko/) | 
+ | [thunar-volman](/f42/package/thunar-volman) | 484 | 484 | 100.0 | Korean (http://www.transifex.com/xfce/thunar-volman/language/ko/) | 
+ | [tigervnc](/f42/package/tigervnc) | 1047 | 1047 | 100.0 | Korean <translation-team-ko@googlegroups.com> | 
+ | [timeshift](/f42/package/timeshift) | 2870 | 2870 | 100.0 | Korean <ko@li.org> | 
+ | [tinysparql](/f42/package/tinysparql) | 522 | 522 | 100.0 | Gnome Korea <gnome-kr@googlegroups.com> | 
+ | [tumbler](/f42/package/tumbler) | 148 | 148 | 100.0 | Korean (http://www.transifex.com/xfce/tumbler/language/ko/) | 
+ | [vakzination](/f42/package/vakzination) | 147 | 147 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [vim](/f42/package/vim) | 9448 | 9448 | 100.0 |  | 
+ | [vinagre](/f42/package/vinagre) | 1510 | 1510 | 100.0 | GNOME Korea <gnome-kr@googlegroups.com> | 
+ | [virt-manager](/f42/package/virt-manager) | 7355 | 7355 | 100.0 | Korean <https://translate.fedoraproject.org/projects/virt-manager/virt-manager/ko/> | 
+ | [vte](/f42/package/vte) | 80 | 80 | 100.0 | GNOME Korea <gnome-kr@googlegroups.com> | 
+ | [vte291](/f42/package/vte291) | 46 | 46 | 100.0 | GNOME Korea <gnome-kr@googlegroups.com> | 
+ | [webkit2gtk4.0](/f42/package/webkit2gtk4.0) | 2623 | 2623 | 100.0 | GNOME Korea <gnome-kr@googlegroups.com> | 
+ | [webkitgtk](/f42/package/webkitgtk) | 2623 | 2623 | 100.0 | GNOME Korea <gnome-kr@googlegroups.com> | 
+ | [wingpanel-indicator-keyboard](/f42/package/wingpanel-indicator-keyboard) | 56 | 56 | 100.0 | Korean <https://l10n.elementary.io/projects/wingpanel/wingpanel-indicator-keyboard/ko/> | 
+ | [wireplumber](/f42/package/wireplumber) | 3 | 3 | 100.0 | Korean | 
+ | [xapps](/f42/package/xapps) | 73 | 73 | 100.0 | Korean <ko@li.org> | 
+ | [xdg-desktop-portal-gnome](/f42/package/xdg-desktop-portal-gnome) | 249 | 249 | 100.0 | Korean <gnome-kr@googlegroups.com> | 
+ | [xdg-desktop-portal-kde](/f42/package/xdg-desktop-portal-kde) | 608 | 608 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [xdg-desktop-portal-xapp](/f42/package/xdg-desktop-portal-xapp) | 225 | 225 | 100.0 | Korean <gnome-kr@googlegroups.com> | 
+ | [xdg-user-dirs](/f42/package/xdg-user-dirs) | 28 | 28 | 100.0 | Korean <translation-team-ko@lists.sourceforge.net> | 
+ | [xdg-user-dirs-gtk](/f42/package/xdg-user-dirs-gtk) | 81 | 81 | 100.0 | GNOME Korea <gnome-kr-hackers@lists.kldp.net> | 
+ | [xed](/f42/package/xed) | 11513 | 11513 | 100.0 | MATE Korea <mate-kr@googlegroups.com> | 
+ | [xfburn](/f42/package/xfburn) | 1566 | 1566 | 100.0 | Korean (http://app.transifex.com/xfce/xfce-apps/language/ko/) | 
+ | [xfce4-battery-plugin](/f42/package/xfce4-battery-plugin) | 145 | 145 | 100.0 | Korean (http://app.transifex.com/xfce/xfce-panel-plugins/language/ko/) | 
+ | [xfce4-calculator-plugin](/f42/package/xfce4-calculator-plugin) | 39 | 39 | 100.0 | Korean (https://app.transifex.com/xfce/teams/16840/ko/) | 
+ | [xfce4-clipman-plugin](/f42/package/xfce4-clipman-plugin) | 550 | 550 | 100.0 | Korean (http://app.transifex.com/xfce/xfce-panel-plugins/language/ko/) | 
+ | [xfce4-cpufreq-plugin](/f42/package/xfce4-cpufreq-plugin) | 171 | 171 | 100.0 | Korean (http://app.transifex.com/xfce/xfce-panel-plugins/language/ko/) | 
+ | [xfce4-cpugraph-plugin](/f42/package/xfce4-cpugraph-plugin) | 188 | 188 | 100.0 | Korean (http://app.transifex.com/xfce/xfce-panel-plugins/language/ko/) | 
+ | [xfce4-datetime-plugin](/f42/package/xfce4-datetime-plugin) | 52 | 52 | 100.0 | Korean (http://www.transifex.com/xfce/xfce-panel-plugins/language/ko/) | 
+ | [xfce4-dict](/f42/package/xfce4-dict) | 531 | 531 | 100.0 | Korean (http://app.transifex.com/xfce/xfce-apps/language/ko/) | 
+ | [xfce4-diskperf-plugin](/f42/package/xfce4-diskperf-plugin) | 176 | 176 | 100.0 | Korean (http://app.transifex.com/xfce/xfce-panel-plugins/language/ko/) | 
+ | [xfce4-docklike-plugin](/f42/package/xfce4-docklike-plugin) | 151 | 151 | 100.0 | Korean (https://app.transifex.com/xfce/teams/16840/ko/) | 
+ | [xfce4-eyes-plugin](/f42/package/xfce4-eyes-plugin) | 16 | 16 | 100.0 | Korean (http://app.transifex.com/xfce/xfce-panel-plugins/language/ko/) | 
+ | [xfce4-fsguard-plugin](/f42/package/xfce4-fsguard-plugin) | 72 | 72 | 100.0 | Korean (http://app.transifex.com/xfce/xfce-panel-plugins/language/ko/) | 
+ | [xfce4-genmon-plugin](/f42/package/xfce4-genmon-plugin) | 104 | 104 | 100.0 | Korean (http://app.transifex.com/xfce/xfce-panel-plugins/language/ko/) | 
+ | [xfce4-mailwatch-plugin](/f42/package/xfce4-mailwatch-plugin) | 667 | 667 | 100.0 | Korean (http://app.transifex.com/xfce/xfce-panel-plugins/language/ko/) | 
+ | [xfce4-mount-plugin](/f42/package/xfce4-mount-plugin) | 381 | 381 | 100.0 | Korean (http://app.transifex.com/xfce/xfce-panel-plugins/language/ko/) | 
+ | [xfce4-mpc-plugin](/f42/package/xfce4-mpc-plugin) | 101 | 101 | 100.0 | Korean (http://app.transifex.com/xfce/xfce-panel-plugins/language/ko/) | 
+ | [xfce4-netload-plugin](/f42/package/xfce4-netload-plugin) | 106 | 106 | 100.0 | Korean (http://app.transifex.com/xfce/xfce-panel-plugins/language/ko/) | 
+ | [xfce4-notes-plugin](/f42/package/xfce4-notes-plugin) | 156 | 156 | 100.0 | Korean (http://app.transifex.com/xfce/xfce-panel-plugins/language/ko/) | 
+ | [xfce4-panel-profiles](/f42/package/xfce4-panel-profiles) | 144 | 144 | 100.0 | Korean (https://app.transifex.com/xfce/teams/16840/ko/) | 
+ | [xfce4-places-plugin](/f42/package/xfce4-places-plugin) | 164 | 164 | 100.0 | Korean (http://app.transifex.com/xfce/xfce-panel-plugins/language/ko/) | 
+ | [xfce4-power-manager](/f42/package/xfce4-power-manager) | 976 | 976 | 100.0 | Korean (http://app.transifex.com/xfce/xfce4-power-manager/language/ko/) | 
+ | [xfce4-pulseaudio-plugin](/f42/package/xfce4-pulseaudio-plugin) | 195 | 195 | 100.0 | Korean (http://app.transifex.com/xfce/xfce-panel-plugins/language/ko/) | 
+ | [xfce4-sensors-plugin](/f42/package/xfce4-sensors-plugin) | 430 | 430 | 100.0 | Korean (http://app.transifex.com/xfce/xfce-panel-plugins/language/ko/) | 
+ | [xfce4-session](/f42/package/xfce4-session) | 780 | 780 | 100.0 | Korean (http://app.transifex.com/xfce/xfce4-session/language/ko/) | 
+ | [xfce4-settings](/f42/package/xfce4-settings) | 2644 | 2644 | 100.0 | Korean (https://app.transifex.com/xfce/teams/16840/ko/) | 
+ | [xfce4-smartbookmark-plugin](/f42/package/xfce4-smartbookmark-plugin) | 23 | 23 | 100.0 | Korean (http://app.transifex.com/xfce/xfce-panel-plugins/language/ko/) | 
+ | [xfce4-statusnotifier-plugin](/f42/package/xfce4-statusnotifier-plugin) | 129 | 129 | 100.0 | Korean (https://www.transifex.com/xfce/teams/16840/ko/) | 
+ | [xfce4-systemload-plugin](/f42/package/xfce4-systemload-plugin) | 102 | 102 | 100.0 | Korean (http://app.transifex.com/xfce/xfce-panel-plugins/language/ko/) | 
+ | [xfce4-taskmanager](/f42/package/xfce4-taskmanager) | 241 | 241 | 100.0 | Korean (http://app.transifex.com/xfce/xfce-apps/language/ko/) | 
+ | [xfce4-time-out-plugin](/f42/package/xfce4-time-out-plugin) | 115 | 115 | 100.0 | Korean (http://app.transifex.com/xfce/xfce-panel-plugins/language/ko/) | 
+ | [xfce4-timer-plugin](/f42/package/xfce4-timer-plugin) | 138 | 138 | 100.0 | Korean (http://app.transifex.com/xfce/xfce-panel-plugins/language/ko/) | 
+ | [xfce4-verve-plugin](/f42/package/xfce4-verve-plugin) | 88 | 88 | 100.0 | Korean (http://app.transifex.com/xfce/xfce-panel-plugins/language/ko/) | 
+ | [xfce4-wavelan-plugin](/f42/package/xfce4-wavelan-plugin) | 81 | 81 | 100.0 | Korean (http://app.transifex.com/xfce/xfce-panel-plugins/language/ko/) | 
+ | [xfce4-weather-plugin](/f42/package/xfce4-weather-plugin) | 3598 | 3598 | 100.0 | Korean (http://app.transifex.com/xfce/xfce-panel-plugins/language/ko/) | 
+ | [xfce4-whiskermenu-plugin](/f42/package/xfce4-whiskermenu-plugin) | 439 | 439 | 100.0 | Korean (http://app.transifex.com/gottcode/xfce4-whiskermenu-plugin/language/ko/) | 
+ | [xfconf](/f42/package/xfconf) | 458 | 458 | 100.0 | Korean (http://app.transifex.com/xfce/xfconf/language/ko/) | 
+ | [xfmpc](/f42/package/xfmpc) | 175 | 175 | 100.0 | Korean (http://app.transifex.com/xfce/xfce-apps/language/ko/) | 
+ | [xfwm4](/f42/package/xfwm4) | 670 | 670 | 100.0 | Korean (http://app.transifex.com/xfce/xfwm4/language/ko/) | 
+ | [xkeyboard-config](/f42/package/xkeyboard-config) | 4253 | 4253 | 100.0 | Korean <translation-team-ko@googlegroups.com> | 
+ | [xreader](/f42/package/xreader) | 1625 | 1625 | 100.0 | Korean (http://www.transifex.com/mate/MATE/language/ko/) | 
+ | [xwaylandvideobridge](/f42/package/xwaylandvideobridge) | 28 | 28 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [xz](/f42/package/xz) | 13813 | 13813 | 100.0 | Korean <translation-team-ko@googlegroups.com> | 
+ | [yakuake](/f42/package/yakuake) | 1671 | 1671 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [yelp](/f42/package/yelp) | 351 | 351 | 100.0 | GNOME Korea <gnome-kr@googlegroups.com> | 
+ | [yelp-xsl](/f42/package/yelp-xsl) | 85 | 85 | 100.0 | GNOME Korea <gnome-kr@googlegroups.com> | 
+ | [zanshin](/f42/package/zanshin) | 495 | 495 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [zenity](/f42/package/zenity) | 896 | 896 | 100.0 | GNOME Korea <gnome-kr@googlegroups.com> | 
+ | [ktorrent](/f42/package/ktorrent) | 7524 | 7525 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [plasma-nm](/f42/package/plasma-nm) | 6453 | 6454 | 100.0 | Korean <kde-kr@kde.org> | 
+ | [budgie-control-center](/f42/package/budgie-control-center) | 7910 | 7914 | 99.9 | Korean (https://app.transifex.com/buddiesofbudgie/teams/129844/ko/) | 
+ | [gnome-user-docs](/f42/package/gnome-user-docs) | 67772 | 67812 | 99.9 | Korean <gnome-kr@googlegroups.com> | 
+ | [konversation](/f42/package/konversation) | 10398 | 10405 | 99.9 | Korean <kde-kr@kde.org> | 
+ | [akonadi-contacts](/f42/package/akonadi-contacts) | 1128 | 1129 | 99.9 | Korean <kde-kr@kde.org> | 
+ | [plasma-workspace](/f42/package/plasma-workspace) | 10488 | 10498 | 99.9 | Korean <kde-kr@kde.org> | 
+ | [plasma-workspace-x11](/f42/package/plasma-workspace-x11) | 10488 | 10498 | 99.9 | Korean <kde-kr@kde.org> | 
+ | [bibletime](/f42/package/bibletime) | 9585 | 9595 | 99.9 | Korean (http://app.transifex.com/bibletime/bibletime/language/ko/) | 
+ | [ardour6](/f42/package/ardour6) | 23789 | 23814 | 99.9 | Korean <kde-i18n-doc@kde.org> | 
+ | [plasma-desktop](/f42/package/plasma-desktop) | 7729 | 7738 | 99.9 | Korean <kde-kr@kde.org> | 
+ | [cura](/f42/package/cura) | 23478 | 23506 | 99.9 | LANGUAGE <LL@li.org> | 
+ | [ardour7](/f42/package/ardour7) | 26609 | 26642 | 99.9 | Korean <kde-i18n-doc@kde.org> | 
+ | [gucharmap](/f42/package/gucharmap) | 3189 | 3193 | 99.9 | GNOME Korea <gnome-kr@googlegroups.com> | 
+ | [angelfish](/f42/package/angelfish) | 768 | 769 | 99.9 | Korean <kde-kr@kde.org> | 
+ | [falkon](/f42/package/falkon) | 4846 | 4853 | 99.9 | Korean <kde-kr@kde.org> | 
+ | [xfce4-panel](/f42/package/xfce4-panel) | 2042 | 2045 | 99.9 | Korean (https://app.transifex.com/xfce/teams/16840/ko/) | 
+ | [kbibtex](/f42/package/kbibtex) | 2472 | 2476 | 99.8 | Korean <kde-kr@kde.org> | 
+ | [kdesvn](/f42/package/kdesvn) | 4929 | 4937 | 99.8 | Korean <kde-kr@kde.org> | 
+ | [system-config-printer](/f42/package/system-config-printer) | 3508 | 3514 | 99.8 | Korean <https://translate.fedoraproject.org/projects/system-config-printer/master/ko/> | 
+ | [dolphin](/f42/package/dolphin) | 6931 | 6943 | 99.8 | Korean <kde-kr@kde.org> | 
+ | [kleopatra](/f42/package/kleopatra) | 13192 | 13218 | 99.8 | Korean <kde-kr@kde.org> | 
+ | [tilix](/f42/package/tilix) | 2804 | 2810 | 99.8 | Korean <https://hosted.weblate.org/projects/tilix/manpage/ko/> | 
+ | [kmail](/f42/package/kmail) | 9120 | 9140 | 99.8 | Korean <kde-kr@kde.org> | 
+ | [polari](/f42/package/polari) | 849 | 851 | 99.8 | Korean <gnome-kr@googlegroups.com> | 
+ | [konqueror](/f42/package/konqueror) | 9208 | 9230 | 99.8 | Korean <kde-kr@kde.org> | 
+ | [libidn](/f42/package/libidn) | 415 | 416 | 99.8 | Korean <translation-team-ko@googlegroups.com> | 
+ | [mingw-libidn](/f42/package/mingw-libidn) | 415 | 416 | 99.8 | Korean <translation-team-ko@googlegroups.com> | 
+ | [kvirc](/f42/package/kvirc) | 30969 | 31044 | 99.8 | Korean (http://app.transifex.com/kvirc/KVIrc/language/ko/) | 
+ | [snownews](/f42/package/snownews) | 802 | 804 | 99.8 | Korean <orchidiii@gmail.com> | 
+ | [virt-viewer](/f42/package/virt-viewer) | 744 | 746 | 99.7 | Korean <https://translate.fedoraproject.org/projects/virt-viewer/virt-viewer/ko/> | 
+ | [gnome-devel-docs](/f42/package/gnome-devel-docs) | 146042 | 146458 | 99.7 | GNOME Korea <gnome-kr@googlegroups.com> | 
+ | [kate](/f42/package/kate) | 8832 | 8858 | 99.7 | Korean <kde-kr@kde.org> | 
+ | [kde-connect](/f42/package/kde-connect) | 1357 | 1361 | 99.7 | Korean <kde-kr@kde.org> | 
+ | [plasma-discover](/f42/package/plasma-discover) | 3699 | 3710 | 99.7 | Korean <kde-kr@kde.org> | 
+ | [orage](/f42/package/orage) | 2308 | 2315 | 99.7 | Korean (https://app.transifex.com/xfce/teams/16840/ko/) | 
+ | [vlc](/f42/package/vlc) | 34703 | 34814 | 99.7 | Korean (https://app.transifex.com/yaron/teams/16553/ko/) | 
+ | [kdevelop](/f42/package/kdevelop) | 15865 | 15918 | 99.7 | Korean <kde-kr@kde.org> | 
+ | [qtwebkit](/f42/package/qtwebkit) | 1431 | 1436 | 99.7 | GNOME Korea <gnome-kr@googlegroups.com> | 
+ | [lollypop](/f42/package/lollypop) | 1423 | 1428 | 99.6 | Korean <https://hosted.weblate.org/projects/gnumdk/lollypop/ko/> | 
+ | [okular](/f42/package/okular) | 5896 | 5919 | 99.6 | Korean <kde-kr@kde.org> | 
+ | [ardour8](/f42/package/ardour8) | 27955 | 28090 | 99.5 | Korean <kde-i18n-doc@kde.org> | 
+ | [usermode](/f42/package/usermode) | 570 | 573 | 99.5 | Korean (http://www.transifex.com/projects/p/fedora/language/ko/) | 
+ | [postgresql-jdbc](/f42/package/postgresql-jdbc) | 2839 | 2854 | 99.5 | PostgreSQL Translators<pgsql-translators@postgresql.org> | 
+ | [alligator](/f42/package/alligator) | 189 | 190 | 99.5 | Korean <kde-kr@kde.org> | 
+ | [libkleo](/f42/package/libkleo) | 3018 | 3034 | 99.5 | Korean <kde-kr@kde.org> | 
+ | [xfce4-notifyd](/f42/package/xfce4-notifyd) | 563 | 566 | 99.5 | Korean (http://app.transifex.com/xfce/xfce-apps/language/ko/) | 
+ | [pacman](/f42/package/pacman) | 5333 | 5362 | 99.5 | Korean (http://app.transifex.com/toofishes/archlinux-pacman/language/ko/) | 
+ | [python-flask-admin](/f42/package/python-flask-admin) | 365 | 367 | 99.5 | Korean | 
+ | [kiconedit](/f42/package/kiconedit) | 722 | 726 | 99.4 | Korean <cho.sungjae@gmail.com> | 
+ | [grub2](/f42/package/grub2) | 8248 | 8295 | 99.4 | Korean <translation-team-ko@googlegroups.com> | 
+ | [scratch](/f42/package/scratch) | 1461 | 1470 | 99.4 |  | 
+ | [ufw-kde](/f42/package/ufw-kde) | 810 | 815 | 99.4 | Korean <kde@peremen.name> | 
+ | [gtksourceview3](/f42/package/gtksourceview3) | 320 | 322 | 99.4 | GNOME Korean <gnome-kr@googlegroups.com> | 
+ | [mingw-gtksourceview3](/f42/package/mingw-gtksourceview3) | 320 | 322 | 99.4 | GNOME Korean <gnome-kr@googlegroups.com> | 
+ | [flare-engine](/f42/package/flare-engine) | 1911 | 1923 | 99.4 | Korean (https://www.transifex.com/flareorg/teams/84925/ko/) | 
+ | [kf6-syntax-highlighting](/f42/package/kf6-syntax-highlighting) | 730 | 735 | 99.3 | Korean <kde-kr@kde.org> | 
+ | [libecpg](/f42/package/libecpg) | 77131 | 77689 | 99.3 | Korean Team <kr@postgresql.org> | 
+ | [libpq](/f42/package/libpq) | 77131 | 77689 | 99.3 | Korean Team <kr@postgresql.org> | 
+ | [mingw-postgresql](/f42/package/mingw-postgresql) | 77131 | 77689 | 99.3 | Korean Team <kr@postgresql.org> | 
+ | [postgresql16](/f42/package/postgresql16) | 77131 | 77689 | 99.3 | Korean Team <kr@postgresql.org> | 
+ | [bijiben](/f42/package/bijiben) | 1266 | 1277 | 99.1 | GNOME Korea <gnome-kr@googlegroups.com> | 
+ | [kf6-kio](/f42/package/kf6-kio) | 8532 | 8607 | 99.1 | Korean <kde-kr@kde.org> | 
+ | [kalarm](/f42/package/kalarm) | 8463 | 8539 | 99.1 | Korean <kde-kr@kde.org> | 
+ | [tuxpaint-stamps](/f42/package/tuxpaint-stamps) | 3220 | 3249 | 99.1 | <none> | 
+ | [pykickstart](/f42/package/pykickstart) | 1628 | 1643 | 99.1 | Korean <https://translate.fedoraproject.org/projects/pykickstart/master/ko/> | 
+ | [gftp](/f42/package/gftp) | 3339 | 3370 | 99.1 | GNOME Korean <Gnome-kr-hackers@lists.kldp.net> | 
+ | [parted](/f42/package/parted) | 4585 | 4628 | 99.1 | Korean <translation-team-ko@googlegroups.com> | 
+ | [kdeplasma-addons](/f42/package/kdeplasma-addons) | 2410 | 2434 | 99.0 | Korean <kde-kr@kde.org> | 
+ | [rpi-imager](/f42/package/rpi-imager) | 13345 | 13480 | 99.0 | Korean <translation-team-ko@googlegroups.com> | 
+ | [kpublictransport](/f42/package/kpublictransport) | 191 | 193 | 99.0 | Korean <kde-kr@kde.org> | 
+ | [itinerary](/f42/package/itinerary) | 2791 | 2821 | 98.9 | Korean <kde-kr@kde.org> | 
+ | [libvirt](/f42/package/libvirt) | 70517 | 71291 | 98.9 | Korean <https://translate.fedoraproject.org/projects/libvirt/libvirt/ko/> | 
+ | [glade](/f42/package/glade) | 8528 | 8633 | 98.8 | GNOME Korea <gnome-kr@googlegroups.com> | 
+ | [python-django4.2](/f42/package/python-django4.2) | 3791 | 3839 | 98.7 | Korean (http://www.transifex.com/django/django/language/ko/) | 
+ | [boinc-client](/f42/package/boinc-client) | 21061 | 21342 | 98.7 | Korean (http://app.transifex.com/boinc/boinc/language/ko/) | 
+ | [cpio](/f42/package/cpio) | 1910 | 1936 | 98.7 | Korean <translation-team-ko@googlegroups.com> | 
+ | [pragha](/f42/package/pragha) | 878 | 890 | 98.7 | Korean (Korea) (http://www.transifex.com/p/Pragha/language/ko_KR/) | 
+ | [gnome-panel](/f42/package/gnome-panel) | 5183 | 5256 | 98.6 | GNOME Korea <gnome-kr-hackers@lists.kldp.net> | 
+ | [R-pkgdown](/f42/package/R-pkgdown) | 126 | 128 | 98.4 | @mrchypark | 
+ | [gnome-shell-extension-system-monitor-applet](/f42/package/gnome-shell-extension-system-monitor-applet) | 188 | 191 | 98.4 |  | 
+ | [cinnamon-translations](/f42/package/cinnamon-translations) | 23621 | 24004 | 98.4 | Korean <ko@li.org> | 
+ | [dolphin-emu](/f42/package/dolphin-emu) | 19063 | 19374 | 98.4 | Korean (http://app.transifex.com/dolphinemu/dolphin-emu/language/ko/) | 
+ | [xfce4-terminal](/f42/package/xfce4-terminal) | 1618 | 1645 | 98.4 | Korean (http://app.transifex.com/xfce/xfce-apps/language/ko/) | 
+ | [python-formencode](/f42/package/python-formencode) | 811 | 825 | 98.3 | Hong Minhee <minhee@dahlia.kr> | 
+ | [compiz-plugins-main](/f42/package/compiz-plugins-main) | 4145 | 4218 | 98.3 | Korean <ko@li.org> | 
+ | [xfce4-screensaver](/f42/package/xfce4-screensaver) | 668 | 680 | 98.2 | Korean (https://app.transifex.com/xfce/teams/16840/ko/) | 
+ | [inkscape](/f42/package/inkscape) | 50571 | 51528 | 98.1 | 이정희 <daemul72@gmail.com> | 
+ | [NetworkManager-libreswan](/f42/package/NetworkManager-libreswan) | 456 | 465 | 98.1 | GNOME Korea <gnome-kr-hackers@lists.kldp.net> | 
+ | [rabbitvcs](/f42/package/rabbitvcs) | 1797 | 1833 | 98.0 | Korean | 
+ | [wine](/f42/package/wine) | 19238 | 19628 | 98.0 | Korean | 
+ | [exo](/f42/package/exo) | 738 | 753 | 98.0 | Korean (http://app.transifex.com/xfce/exo/language/ko/) | 
+ | [elementary-photos](/f42/package/elementary-photos) | 2803 | 2862 | 97.9 | Korean <https://l10n.elementary.io/projects/photos/photos/ko/> | 
+ | [man-db](/f42/package/man-db) | 9635 | 9841 | 97.9 | Korean <translation-team-ko@lists.sourceforge.net> | 
+ | [gnome-do](/f42/package/gnome-do) | 599 | 612 | 97.9 | Korean <ko@li.org> | 
+ | [firewalld](/f42/package/firewalld) | 2036 | 2083 | 97.7 | Korean <https://translate.fedoraproject.org/projects/firewalld/master/ko/> | 
+ | [volume_key](/f42/package/volume_key) | 745 | 763 | 97.6 | Korean (http://www.transifex.com/projects/p/fedora/language/ko/) | 
+ | [sakura](/f42/package/sakura) | 203 | 208 | 97.6 | Korean <ko@li.org> | 
+ | [wget2](/f42/package/wget2) | 2709 | 2777 | 97.6 | Korean <translation-team-ko@googlegroups.com> | 
+ | [supertuxkart](/f42/package/supertuxkart) | 5957 | 6107 | 97.5 | Korean (http://app.transifex.com/supertuxkart/supertuxkart/language/ko/) | 
+ | [ktechlab](/f42/package/ktechlab) | 3612 | 3704 | 97.5 | Korean <kde-kr@kde.org> | 
+ | [amarok](/f42/package/amarok) | 13950 | 14307 | 97.5 | Korean <kde-kr@kde.org> | 
+ | [xfce4-xkb-plugin](/f42/package/xfce4-xkb-plugin) | 116 | 119 | 97.5 | Korean (http://app.transifex.com/xfce/xfce-panel-plugins/language/ko/) | 
+ | [xpad](/f42/package/xpad) | 425 | 436 | 97.5 | Korean <translation-team-ko@lists.sourceforge.net> | 
+ | [video-downloader](/f42/package/video-downloader) | 151 | 155 | 97.4 | Korean <https://hosted.weblate.org/projects/video-downloader/gui/ko/> | 
+ | [kjots](/f42/package/kjots) | 633 | 651 | 97.2 | Korean <kde-kr@kde.org> | 
+ | [remmina](/f42/package/remmina) | 5257 | 5407 | 97.2 | Korean <https://hosted.weblate.org/projects/remmina/remmina/ko/> | 
+ | [kde-l10n](/f42/package/kde-l10n) | 94329 | 97063 | 97.2 | Korean <cho.sungjae@gmail.com> | 
+ | [heaptrack](/f42/package/heaptrack) | 1365 | 1405 | 97.2 | Korean <kde-kr@kde.org> | 
+ | [baloo-widgets](/f42/package/baloo-widgets) | 68 | 70 | 97.1 | Korean <kde-kr@kde.org> | 
+ | [python-django-allauth](/f42/package/python-django-allauth) | 1759 | 1811 | 97.1 | Korean <https://hosted.weblate.org/projects/allauth/django-allauth/ko/> | 
+ | [maui-mauikit-documents](/f42/package/maui-mauikit-documents) | 67 | 69 | 97.1 | Korean <kde-kr@kde.org> | 
+ | [bottles](/f42/package/bottles) | 3350 | 3451 | 97.1 | Korean <https://hosted.weblate.org/projects/bottles/bottles/ko/> | 
+ | [kclock](/f42/package/kclock) | 493 | 509 | 96.9 | Korean <kde-kr@kde.org> | 
+ | [findutils](/f42/package/findutils) | 2426 | 2509 | 96.7 | Korean <translation-team-ko@googlegroups.com> | 
+ | [kf5-kcontacts](/f42/package/kf5-kcontacts) | 171 | 177 | 96.6 | Korean <kde-kr@kde.org> | 
+ | [catfish](/f42/package/catfish) | 541 | 560 | 96.6 | Korean (https://app.transifex.com/xfce/teams/16840/ko/) | 
+ | [im-chooser](/f42/package/im-chooser) | 253 | 262 | 96.6 | Korean <https://translate.fedoraproject.org/projects/im-chooser/master/ko/> | 
+ | [mate-session-manager](/f42/package/mate-session-manager) | 691 | 717 | 96.4 | Korean (https://app.transifex.com/mate/teams/13566/ko/) | 
+ | [rhythmbox-alternative-toolbar](/f42/package/rhythmbox-alternative-toolbar) | 341 | 354 | 96.3 | Korean <ko@li.org> | 
+ | [korganizer](/f42/package/korganizer) | 7755 | 8057 | 96.3 | Korean <kde-kr@kde.org> | 
+ | [WindowMaker](/f42/package/WindowMaker) | 4239 | 4412 | 96.1 | Korean | 
+ | [kicad](/f42/package/kicad) | 52020 | 54151 | 96.1 | Korean <https://hosted.weblate.org/projects/kicad/v9/ko/> | 
+ | [mc](/f42/package/mc) | 4252 | 4435 | 95.9 | Korean (http://app.transifex.com/mc/mc/language/ko/) | 
+ | [zabbix](/f42/package/zabbix) | 23718 | 24748 | 95.8 | Zabbix <info@zabbix.com> | 
+ | [tar](/f42/package/tar) | 3519 | 3677 | 95.7 | Korean <translation-team-ko@googlegroups.com> | 
+ | [neochat](/f42/package/neochat) | 4608 | 4815 | 95.7 | Korean <kde-kr@kde.org> | 
+ | [lxinput](/f42/package/lxinput) | 81 | 85 | 95.3 | LANGUAGE <LL@li.org> | 
+ | [xfce4-appfinder](/f42/package/xfce4-appfinder) | 480 | 504 | 95.2 | Korean (http://app.transifex.com/xfce/xfce4-appfinder/language/ko/) | 
+ | [wget1](/f42/package/wget1) | 3903 | 4100 | 95.2 | Korean <translation-team-ko@lists.sourceforge.net> | 
+ | [mate-menus](/f42/package/mate-menus) | 98 | 103 | 95.1 | Korean (https://app.transifex.com/mate/teams/13566/ko/) | 
+ | [fielding](/f42/package/fielding) | 39 | 41 | 95.1 | Korean <kde-kr@kde.org> | 
+ | [dialect](/f42/package/dialect) | 1081 | 1138 | 95.0 |  | 
+ | [kf5-kirigami2-addons](/f42/package/kf5-kirigami2-addons) | 366 | 386 | 94.8 | Korean <kde-kr@kde.org> | 
+ | [plasma-camera](/f42/package/plasma-camera) | 126 | 133 | 94.7 | Korean <kde-kr@kde.org> | 
+ | [realmd](/f42/package/realmd) | 789 | 833 | 94.7 | Korean (http://www.transifex.com/freedesktop/realmd/language/ko/) | 
+ | [kf6-kirigami](/f42/package/kf6-kirigami) | 89 | 94 | 94.7 | Korean <kde-kr@kde.org> | 
+ | [mate-media](/f42/package/mate-media) | 231 | 244 | 94.7 | Korean (https://app.transifex.com/mate/teams/13566/ko/) | 
+ | [console-setup](/f42/package/console-setup) | 939 | 992 | 94.7 | Korean <debian-l10n-korean@lists.debian.org> | 
+ | [eventviews](/f42/package/eventviews) | 3373 | 3564 | 94.6 | Korean <kde-kr@kde.org> | 
+ | [ccsm](/f42/package/ccsm) | 558 | 591 | 94.4 | Korean <ko@li.org> | 
+ | [libgedit-gtksourceview](/f42/package/libgedit-gtksourceview) | 301 | 319 | 94.4 | GNOME Korean <gnome-kr@googlegroups.com> | 
+ | [kf6-kcontacts](/f42/package/kf6-kcontacts) | 162 | 172 | 94.2 | Korean <kde-kr@kde.org> | 
+ | [calligra](/f42/package/calligra) | 28397 | 30189 | 94.1 | Korean <kde-kr@kde.org> | 
+ | [sssd](/f42/package/sssd) | 4581 | 4893 | 93.6 | Korean <https://translate.fedoraproject.org/projects/sssd/sssd-master/ko/> | 
+ | [emerald](/f42/package/emerald) | 651 | 696 | 93.5 | Korean <ko@li.org> | 
+ | [bleachbit](/f42/package/bleachbit) | 1798 | 1923 | 93.5 |  | 
+ | [diffutils](/f42/package/diffutils) | 1759 | 1883 | 93.4 | Korean <translation-team-ko@googlegroups.com> | 
+ | [popt](/f42/package/popt) | 84 | 90 | 93.3 | Korean <https://translate.fedoraproject.org/projects/popt/master/ko/> | 
+ | [supertux](/f42/package/supertux) | 3268 | 3505 | 93.2 | Korean (http://www.transifex.com/arctic-games/supertux/language/ko/) | 
+ | [kmymoney](/f42/package/kmymoney) | 20751 | 22270 | 93.2 | Korean <kde-kr@kde.org> | 
+ | [xiphos](/f42/package/xiphos) | 4654 | 4995 | 93.2 | Seong-ho Cho <shcho@gnome.org> | 
+ | [kgeotag](/f42/package/kgeotag) | 1805 | 1954 | 92.4 | Korean <kde-kr@kde.org> | 
+ | [caja](/f42/package/caja) | 9379 | 10156 | 92.3 | Korean (https://app.transifex.com/mate/teams/13566/ko/) | 
+ | [fcitx5-mozc](/f42/package/fcitx5-mozc) | 102 | 111 | 91.9 | Korean (http://www.transifex.com/fcitx/fcitx/language/ko/) | 
+ | [mate-screensaver](/f42/package/mate-screensaver) | 1011 | 1101 | 91.8 | Korean (https://app.transifex.com/mate/teams/13566/ko/) | 
+ | [metadata-cleaner](/f42/package/metadata-cleaner) | 658 | 718 | 91.6 | Korean <https://hosted.weblate.org/projects/metadata-cleaner/application/ko/> | 
+ | [system-config-language](/f42/package/system-config-language) | 197 | 215 | 91.6 | Korean <ko@li.org> | 
+ | [libappstream-glib](/f42/package/libappstream-glib) | 927 | 1013 | 91.5 | Korean (http://www.transifex.com/freedesktop/appstream-glib/language/ko/) | 
+ | [python-hyperkitty](/f42/package/python-hyperkitty) | 851 | 937 | 90.8 | Korean <https://hosted.weblate.org/projects/gnu-mailman/hyperkitty/ko/> | 
+ | [koko](/f42/package/koko) | 524 | 577 | 90.8 | Korean <kde-kr@kde.org> | 
+ | [a2ps](/f42/package/a2ps) | 1388 | 1532 | 90.6 | Korean <translation-team-ko@googlegroups.com> | 
+ | [mate-settings-daemon](/f42/package/mate-settings-daemon) | 1995 | 2203 | 90.6 | Korean (https://app.transifex.com/mate/teams/13566/ko/) | 
+ | [synapse](/f42/package/synapse) | 775 | 856 | 90.5 | Kim Boram <Boramism@gmail.com> | 
+ | [caja-extensions](/f42/package/caja-extensions) | 764 | 845 | 90.4 | Korean (https://app.transifex.com/mate/teams/13566/ko/) | 
+ | [compiz-plugins-extra](/f42/package/compiz-plugins-extra) | 3408 | 3773 | 90.3 | Korean <ko@li.org> | 
+ | [synfigstudio](/f42/package/synfigstudio) | 6647 | 7371 | 90.2 | Korean (Korea) (http://www.transifex.com/morevnaproject/synfig/language/ko_KR/) | 
+ | [kf5-kdelibs4support](/f42/package/kf5-kdelibs4support) | 4825 | 5353 | 90.1 | Korean <kde-kr@kde.org> | 
+ | [xfce4-screenshooter](/f42/package/xfce4-screenshooter) | 515 | 573 | 89.9 | Korean (http://app.transifex.com/xfce/xfce-apps/language/ko/) | 
+ | [help2man](/f42/package/help2man) | 510 | 570 | 89.5 | Korean <translation-team-ko@googlegroups.com> | 
+ | [khangman](/f42/package/khangman) | 402 | 450 | 89.3 | Korean <kde-kr@kde.org> | 
+ | [synfig](/f42/package/synfig) | 4353 | 4879 | 89.2 | Korean (Korea) (http://www.transifex.com/morevnaproject/synfig/language/ko_KR/) | 
+ | [pgadmin4](/f42/package/pgadmin4) | 14901 | 16739 | 89.0 |  | 
+ | [mate-desktop](/f42/package/mate-desktop) | 2146 | 2412 | 89.0 | Korean (https://app.transifex.com/mate/teams/13566/ko/) | 
+ | [marker](/f42/package/marker) | 178 | 202 | 88.1 |  | 
+ | [budgie-desktop](/f42/package/budgie-desktop) | 1638 | 1859 | 88.1 | Korean (https://app.transifex.com/buddiesofbudgie/teams/129844/ko/) | 
+ | [marco](/f42/package/marco) | 3671 | 4171 | 88.0 | Korean (https://app.transifex.com/mate/teams/13566/ko/) | 
+ | [imsettings](/f42/package/imsettings) | 440 | 500 | 88.0 | LANGUAGE <LL@li.org> | 
+ | [zypper](/f42/package/zypper) | 8944 | 10164 | 88.0 | Korean <https://l10n.opensuse.org/projects/zypper/master/ko/> | 
+ | [haruna](/f42/package/haruna) | 2063 | 2345 | 88.0 | Korean <kde-kr@kde.org> | 
+ | [python-wtforms](/f42/package/python-wtforms) | 166 | 189 | 87.8 | ko_KR <6566gun@gmail.com> | 
+ | [kontact](/f42/package/kontact) | 434 | 495 | 87.7 | Korean <kde-kr@kde.org> | 
+ | [wingpanel-indicator-bluetooth](/f42/package/wingpanel-indicator-bluetooth) | 70 | 80 | 87.5 | Korean <https://l10n.elementary.io/projects/wingpanel/wingpanel-indicator-bluetooth/ko/> | 
+ | [elementary-camera](/f42/package/elementary-camera) | 123 | 141 | 87.2 | Korean <https://l10n.elementary.io/projects/camera/camera/ko/> | 
+ | [avogadro2-libs](/f42/package/avogadro2-libs) | 4937 | 5676 | 87.0 | Korean <https://hosted.weblate.org/projects/avogadro/avogadrolibs/ko/> | 
+ | [avogadro2](/f42/package/avogadro2) | 400 | 461 | 86.8 | Korean <https://hosted.weblate.org/projects/avogadro/avogadroapp/ko/> | 
+ | [gnome-2048](/f42/package/gnome-2048) | 331 | 382 | 86.6 | GNOME Korea <gnome-kr@googlegroups.com> | 
+ | [gnome-shell-extension-blur-my-shell](/f42/package/gnome-shell-extension-blur-my-shell) | 863 | 996 | 86.6 | Korean <https://hosted.weblate.org/projects/blur-my-shell/blur-my-shell/ko/> | 
+ | [gnome-shell-extension-dash-to-panel](/f42/package/gnome-shell-extension-dash-to-panel) | 1033 | 1198 | 86.2 | 이정희 <daemul72@gmail.com> | 
+ | [gnome-shell-extension-gsconnect](/f42/package/gnome-shell-extension-gsconnect) | 776 | 902 | 86.0 | Korean | 
+ | [xfdesktop](/f42/package/xfdesktop) | 1045 | 1215 | 86.0 | Korean (http://app.transifex.com/xfce/xfdesktop/language/ko/) | 
+ | [xfdashboard](/f42/package/xfdashboard) | 928 | 1084 | 85.6 | Korean (https://www.transifex.com/xfce/teams/16840/ko/) | 
+ | [mkvtoolnix](/f42/package/mkvtoolnix) | 38277 | 44732 | 85.6 | Korean (http://www.transifex.com/moritz-bunkus/mkvtoolnix/language/ko/) | 
+ | [debconf](/f42/package/debconf) | 737 | 862 | 85.5 | Korean <debian-l10n-korean@lists.debian.org> | 
+ | [Thunar](/f42/package/Thunar) | 4990 | 5847 | 85.3 | Korean (https://app.transifex.com/xfce/teams/16840/ko/) | 
+ | [shared-mime-info](/f42/package/shared-mime-info) | 1929 | 2266 | 85.1 | Korean (http://app.transifex.com/freedesktop/shared-mime-info/language/ko/) | 
+ | [slrn](/f42/package/slrn) | 4509 | 5351 | 84.3 | Korean - Im Eunjea <eunjea@kldp.org> | 
+ | [kmahjongg](/f42/package/kmahjongg) | 302 | 359 | 84.1 | Korean <kde-kr@kde.org> | 
+ | [mate-user-admin](/f42/package/mate-user-admin) | 508 | 605 | 84.0 | Korean (https://www.transifex.com/mate/teams/13566/ko/) | 
+ | [deepin-daemon](/f42/package/deepin-daemon) | 1034 | 1235 | 83.7 | Korean (https://app.transifex.com/linuxdeepin/teams/3617/ko/) | 
+ | [thonny](/f42/package/thonny) | 1597 | 1910 | 83.6 |  | 
+ | [yudit](/f42/package/yudit) | 250 | 299 | 83.6 | Jungshik Shin <jshin@jshin.net> | 
+ | [switchdesk](/f42/package/switchdesk) | 102 | 122 | 83.6 | Korean <ko@li.org> | 
+ | [NetworkManager](/f42/package/NetworkManager) | 24077 | 29194 | 82.5 | GNOME Korea <gnome-kr@googlegroups.com> | 
+ | [kBuild](/f42/package/kBuild) | 1808 | 2207 | 81.9 | Korean <translation-team-ko@googlegroups.com> | 
+ | [kdnssd](/f42/package/kdnssd) | 27 | 33 | 81.8 | Korean <kde-kr@kde.org> | 
+ | [gnome-commander](/f42/package/gnome-commander) | 6944 | 8491 | 81.8 | <> | 
+ | [kaichat](/f42/package/kaichat) | 98 | 120 | 81.7 | Korean <kde-kr@kde.org> | 
+ | [dragon](/f42/package/dragon) | 138 | 170 | 81.2 | Korean <kde-kr@kde.org> | 
+ | [kommit](/f42/package/kommit) | 1260 | 1558 | 80.9 | Korean <kde-kr@kde.org> | 
+ | [celluloid](/f42/package/celluloid) | 1526 | 1888 | 80.8 | Korean <https://hosted.weblate.org/projects/celluloid/celluloid/ko/> | 
+ | [shutter](/f42/package/shutter) | 2495 | 3093 | 80.7 | Korean <ko@li.org> | 
+ | [cpu-x](/f42/package/cpu-x) | 1378 | 1711 | 80.5 | Korean <https://hosted.weblate.org/projects/cpu-x/translations/ko/> | 
+ | [gthumb](/f42/package/gthumb) | 2101 | 2610 | 80.5 | GNOME Korea <gnome-kr-hackers@lists.kldp.net> | 
+ | [geeqie](/f42/package/geeqie) | 5151 | 6401 | 80.5 | Korean (https://www.transifex.com/marong/teams/140301/ko/) | 
+ | [elementary-screenshot](/f42/package/elementary-screenshot) | 103 | 128 | 80.5 | Korean <https://l10n.elementary.io/projects/screenshot/screenshot/ko/> | 
+ | [python-sphinx](/f42/package/python-sphinx) | 4543 | 5669 | 80.1 | Korean (http://app.transifex.com/sphinx-doc/sphinx-1/language/ko/) | 
+ | [monodevelop](/f42/package/monodevelop) | 18628 | 23298 | 80.0 | Junil Um <powerumc@gmail.com> | 
+ | [gnome-applets](/f42/package/gnome-applets) | 11769 | 14823 | 79.4 | GNOME Korea <gnome-kr-hackers@lists.kldp.net> | 
+ | [python-django-rest-framework](/f42/package/python-django-rest-framework) | 555 | 702 | 79.1 | Korean (Korea) (http://www.transifex.com/django-rest-framework-1/django-rest-framework/language/ko_KR/) | 
+ | [crow-translate](/f42/package/crow-translate) | 1244 | 1574 | 79.0 |  | 
+ | [mate-panel](/f42/package/mate-panel) | 5327 | 6753 | 78.9 | Korean (https://app.transifex.com/mate/teams/13566/ko/) | 
+ | [goaccess](/f42/package/goaccess) | 991 | 1269 | 78.1 | Korean <dcyang@users.noreply.github.com> | 
+ | [elementary-files](/f42/package/elementary-files) | 2066 | 2656 | 77.8 | Korean <https://l10n.elementary.io/projects/files/files/ko/> | 
+ | [krita](/f42/package/krita) | 27758 | 36174 | 76.7 | Korean <kde-kr@kde.org> | 
+ | [appstream](/f42/package/appstream) | 5389 | 7085 | 76.1 | Korean <https://hosted.weblate.org/projects/appstream/translations/ko/> | 
+ | [python-django-mailman3](/f42/package/python-django-mailman3) | 355 | 467 | 76.0 | Korean <https://hosted.weblate.org/projects/gnu-mailman/django-mailman3/ko/> | 
+ | [libzypp](/f42/package/libzypp) | 2218 | 2926 | 75.8 | Korean <https://l10n.opensuse.org/projects/libzypp/master/ko/> | 
+ | [phd2](/f42/package/phd2) | 5799 | 7682 | 75.5 | Korean <Korean> | 
+ | [warzone2100](/f42/package/warzone2100) | 12990 | 17218 | 75.4 | Korean | 
+ | [mate-notification-daemon](/f42/package/mate-notification-daemon) | 140 | 186 | 75.3 | Korean (https://app.transifex.com/mate/teams/13566/ko/) | 
+ | [leafpad](/f42/package/leafpad) | 94 | 125 | 75.2 | Korean | 
+ | [mingw-wxWidgets3](/f42/package/mingw-wxWidgets3) | 5770 | 7695 | 75.0 | Korean <Korean> | 
+ | [elementary-calculator](/f42/package/elementary-calculator) | 130 | 174 | 74.7 | Korean <https://l10n.elementary.io/projects/calculator/calculator/ko/> | 
+ | [dino](/f42/package/dino) | 607 | 813 | 74.7 | none | 
+ | [elementary-calendar](/f42/package/elementary-calendar) | 500 | 670 | 74.6 | Korean <https://l10n.elementary.io/projects/calendar/calendar/ko/> | 
+ | [visualboyadvance-m](/f42/package/visualboyadvance-m) | 4765 | 6459 | 73.8 | Korean (Korea) (http://app.transifex.com/bgk/vba-m/language/ko_KR/) | 
+ | [compiz](/f42/package/compiz) | 3140 | 4385 | 71.6 | Korean <ko@li.org> | 
+ | [atlantik](/f42/package/atlantik) | 405 | 566 | 71.6 | Korean <kde-kr@kde.org> | 
+ | [l3afpad](/f42/package/l3afpad) | 93 | 130 | 71.5 | Korean | 
+ | [sugar-maze](/f42/package/sugar-maze) | 5 | 7 | 71.4 | LANGUAGE <LL@li.org> | 
+ | [gimp](/f42/package/gimp) | 29129 | 40824 | 71.4 |  | 
+ | [hardinfo2](/f42/package/hardinfo2) | 3187 | 4476 | 71.2 |  | 
+ | [pitivi](/f42/package/pitivi) | 1086 | 1527 | 71.1 | Ubuntu Korean Translators <ubuntu-ko@lists.ubuntu.com> | 
+ | [mailman3](/f42/package/mailman3) | 3432 | 4830 | 71.1 | Korean <https://hosted.weblate.org/projects/gnu-mailman/mailman/ko/> | 
+ | [libuser](/f42/package/libuser) | 1020 | 1437 | 71.0 | Korean (http://www.transifex.com/projects/p/fedora/language/ko/) | 
+ | [alsa-utils](/f42/package/alsa-utils) | 1367 | 1928 | 70.9 | Librezale <librezale@librezale.eus> | 
+ | [ktuberling](/f42/package/ktuberling) | 111 | 158 | 70.3 | Korean <kde-kr@kde.org> | 
+ | [widelands](/f42/package/widelands) | 67600 | 96708 | 69.9 | Korean (http://app.transifex.com/widelands/widelands/language/ko/) | 
+ | [udisks2](/f42/package/udisks2) | 1517 | 2187 | 69.4 | Korean | 
+ | [python-postorius](/f42/package/python-postorius) | 3579 | 5165 | 69.3 | Korean <https://hosted.weblate.org/projects/gnu-mailman/postorius/ko/> | 
+ | [libnma](/f42/package/libnma) | 558 | 807 | 69.1 | GNOME Korea <gnome-kr@googlegroups.com> | 
+ | [sugar-toolkit-gtk3](/f42/package/sugar-toolkit-gtk3) | 146 | 213 | 68.5 | LANGUAGE <LL@li.org> | 
+ | [terminator](/f42/package/terminator) | 1042 | 1522 | 68.5 | Korean (https://www.transifex.com/terminator/teams/109338/ko/) | 
+ | [R](/f42/package/R) | 28291 | 41499 | 68.2 |  | 
+ | [kexi](/f42/package/kexi) | 17 | 25 | 68.0 | Korean <kde@peremen.name> | 
+ | [python-wxpython4](/f42/package/python-wxpython4) | 5324 | 7837 | 67.9 | Korean <Korean> | 
+ | [wxGTK](/f42/package/wxGTK) | 5324 | 7837 | 67.9 | Korean <Korean> | 
+ | [rednotebook](/f42/package/rednotebook) | 864 | 1280 | 67.5 | Korean <https://hosted.weblate.org/projects/rednotebook/desktop-app/ko/> | 
+ | [icewm](/f42/package/icewm) | 1681 | 2500 | 67.2 | Korean <https://l10n.opensuse.org/projects/icewm/icewm-1-4-branch/ko/> | 
+ | [abiword](/f42/package/abiword) | 3684 | 5510 | 66.9 | Korean | 
+ | [python-humanize](/f42/package/python-humanize) | 88 | 132 | 66.7 | ko_KR <LL@li.org> | 
+ | [Zim](/f42/package/Zim) | 2345 | 3529 | 66.4 | Korean <https://hosted.weblate.org/projects/zim/develop/ko/> | 
+ | [gettext](/f42/package/gettext) | 8415 | 12669 | 66.4 | Korean <translation-team-ko@googlegroups.com> | 
+ | [mingw-gettext](/f42/package/mingw-gettext) | 8415 | 12669 | 66.4 | Korean <translation-team-ko@googlegroups.com> | 
+ | [variety](/f42/package/variety) | 1866 | 2811 | 66.4 | Korean (https://www.transifex.com/variety/teams/123174/ko/) | 
+ | [minuet](/f42/package/minuet) | 350 | 534 | 65.5 | Korean <kde-kr@kde.org> | 
+ | [gbrainy](/f42/package/gbrainy) | 3675 | 5680 | 64.7 | Korean <ko@li.org> | 
+ | [p11-kit](/f42/package/p11-kit) | 1133 | 1764 | 64.2 | Korean (http://www.transifex.com/freedesktop/p11-kit/language/ko/) | 
+ | [wingpanel-indicator-a11y](/f42/package/wingpanel-indicator-a11y) | 35 | 55 | 63.6 | Korean <https://l10n.elementary.io/projects/wingpanel/indicator-a11y/ko/> | 
+ | [mate-power-manager](/f42/package/mate-power-manager) | 3259 | 5123 | 63.6 | Korean (https://app.transifex.com/mate/teams/13566/ko/) | 
+ | [workrave](/f42/package/workrave) | 951 | 1499 | 63.4 | Korean <freeware@softwant.com> | 
+ | [pdfarranger](/f42/package/pdfarranger) | 357 | 563 | 63.4 |  | 
+ | [pidgin](/f42/package/pidgin) | 8769 | 13994 | 62.7 | Korean (http://app.transifex.com/pidgin/pidgin/language/ko/) | 
+ | [furnace](/f42/package/furnace) | 32229 | 52053 | 61.9 | none | 
+ | [drawing](/f42/package/drawing) | 1175 | 1906 | 61.6 | Korean | 
+ | [mate-user-guide](/f42/package/mate-user-guide) | 26332 | 42973 | 61.3 | Korean (https://app.transifex.com/mate/teams/13566/ko/) | 
+ | [tvtime](/f42/package/tvtime) | 746 | 1222 | 61.0 | Korean Translation Team <translation-team-ko@lists.sourceforge.net> | 
+ | [pavucontrol](/f42/package/pavucontrol) | 526 | 866 | 60.7 | Korean <https://translate.fedoraproject.org/projects/pulseaudio/pavucontrol/ko/> | 
+ | [gpodder](/f42/package/gpodder) | 1583 | 2636 | 60.1 |  | 
+ | [pipewire-media-session](/f42/package/pipewire-media-session) | 3 | 5 | 60.0 | Korean | 
+ | [mate-utils](/f42/package/mate-utils) | 5912 | 9901 | 59.7 | Korean (https://app.transifex.com/mate/teams/13566/ko/) | 
+ | [kalzium](/f42/package/kalzium) | 5413 | 9087 | 59.6 | Korean <kde-kr@kde.org> | 
+ | [lxmenu-data](/f42/package/lxmenu-data) | 59 | 100 | 59.0 | GNOME Korea <gnome-kr-hackers@lists.kldp.net> | 
+ | [mate-terminal](/f42/package/mate-terminal) | 4851 | 8238 | 58.9 | Korean (https://app.transifex.com/mate/teams/13566/ko/) | 
+ | [agenda](/f42/package/agenda) | 10 | 17 | 58.8 | Korean <ko@li.org> | 
+ | [mate-applets](/f42/package/mate-applets) | 9404 | 16106 | 58.4 | Korean (https://app.transifex.com/mate/teams/13566/ko/) | 
+ | [lazarus](/f42/package/lazarus) | 980 | 1690 | 58.0 | 비너스걸: https://venusgirls.tistory.com/ | 
+ | [e16](/f42/package/e16) | 1498 | 2616 | 57.3 | Korean <translation-team-ko@lists.sourceforge.net> | 
+ | [geany](/f42/package/geany) | 3629 | 6352 | 57.1 | Korean | 
+ | [apt](/f42/package/apt) | 3176 | 5566 | 57.1 | Korean <debian-l10n-korean@lists.debian.org> | 
+ | [kgeography](/f42/package/kgeography) | 5635 | 10043 | 56.1 | Korean <kde-kr@kde.org> | 
+ | [pinta](/f42/package/pinta) | 976 | 1746 | 55.9 | Korean <ko@li.org> | 
+ | [snapper](/f42/package/snapper) | 590 | 1068 | 55.2 | Korean <https://l10n.opensuse.org/projects/snapper/master/ko/> | 
+ | [glabels](/f42/package/glabels) | 1144 | 2138 | 53.5 | none | 
+ | [deja-dup](/f42/package/deja-dup) | 1977 | 3728 | 53.0 | Korean <ko@li.org> | 
+ | [guake](/f42/package/guake) | 870 | 1643 | 53.0 |  | 
+ | [enlightenment](/f42/package/enlightenment) | 4613 | 8725 | 52.9 | Korean <KO@li.org> | 
+ | [gnome-shell-extension-caffeine](/f42/package/gnome-shell-extension-caffeine) | 186 | 352 | 52.8 |  | 
+ | [prusa-slicer](/f42/package/prusa-slicer) | 68539 | 131005 | 52.3 |  | 
+ | [sugar-write](/f42/package/sugar-write) | 63 | 121 | 52.1 | LANGUAGE <LL@li.org> | 
+ | [mutt](/f42/package/mutt) | 3464 | 6729 | 51.5 | Im Eunjea <eunjea@kldp.org> | 
+ | [wingpanel-indicator-datetime](/f42/package/wingpanel-indicator-datetime) | 53 | 103 | 51.5 | Korean <https://l10n.elementary.io/projects/wingpanel/wingpanel-indicator-datetime/ko/> | 
+ | [step](/f42/package/step) | 1079 | 2102 | 51.3 | Korean <kde-kr@kde.org> | 
+ | [jpilot](/f42/package/jpilot) | 1571 | 3074 | 51.1 | Korean <translation-team-ko@lists.sourceforge.net> | 
+ | [efl](/f42/package/efl) | 155 | 312 | 49.7 | General | 
+ | [libreoffice](/f42/package/libreoffice) | 381916 | 773628 | 49.4 | Korean <https://translations.documentfoundation.org/projects/libo_ui-master/accessibilitymessages/ko/> | 
+ | [bluefish](/f42/package/bluefish) | 2490 | 5098 | 48.8 |  | 
+ | [libgweather](/f42/package/libgweather) | 3167 | 6524 | 48.5 | GNOME Korea <gnome-kr@googlegroups.com> | 
+ | [soundconverter](/f42/package/soundconverter) | 180 | 377 | 47.7 | Korean <ko@li.org> | 
+ | [mate-calc](/f42/package/mate-calc) | 1568 | 3327 | 47.1 | Korean (https://app.transifex.com/mate/teams/13566/ko/) | 
+ | [flex](/f42/package/flex) | 531 | 1131 | 46.9 | Korean <ko@li.org> | 
+ | [dpkg](/f42/package/dpkg) | 5508 | 11962 | 46.0 | Korean <debian-l10n-korean@lists.debian.org> | 
+ | [maliit-keyboard](/f42/package/maliit-keyboard) | 37 | 81 | 45.7 | Korean <ko@li.org> | 
+ | [gimagereader](/f42/package/gimagereader) | 818 | 1817 | 45.0 | Korean <https://hosted.weblate.org/projects/gimagereader/translations/ko/> | 
+ | [pluma](/f42/package/pluma) | 5898 | 13113 | 45.0 | Korean (https://app.transifex.com/mate/teams/13566/ko/) | 
+ | [gnucash](/f42/package/gnucash) | 17663 | 39578 | 44.6 |  | 
+ | [sos](/f42/package/sos) | 54 | 123 | 43.9 | <ko@li.org> | 
+ | [quodlibet](/f42/package/quodlibet) | 3492 | 7955 | 43.9 | Korean <https://hosted.weblate.org/projects/quodlibet/quodlibet/ko/> | 
+ | [mate-control-center](/f42/package/mate-control-center) | 3593 | 8260 | 43.5 | Korean (https://app.transifex.com/mate/teams/13566/ko/) | 
+ | [eom](/f42/package/eom) | 2155 | 4958 | 43.5 | Korean (https://app.transifex.com/mate/teams/13566/ko/) | 
+ | [sylpheed](/f42/package/sylpheed) | 3134 | 7214 | 43.4 | Korean <gnome-kr-translation@lists.sourceforge.net> | 
+ | [postgis](/f42/package/postgis) | 43243 | 99771 | 43.3 | Korean <https://weblate.osgeo.org/projects/postgis/postgis-manual/ko/> | 
+ | [compiz-plugins-experimental](/f42/package/compiz-plugins-experimental) | 1930 | 4473 | 43.1 | Korean <ko@li.org> | 
+ | [elementary-mail](/f42/package/elementary-mail) | 371 | 861 | 43.1 | Korean <https://l10n.elementary.io/projects/mail/mail/ko/> | 
+ | [blueman](/f42/package/blueman) | 1018 | 2365 | 43.0 | Korean <https://hosted.weblate.org/projects/blueman/blueman/ko/> | 
+ | [mate-system-monitor](/f42/package/mate-system-monitor) | 2058 | 4894 | 42.1 | Korean (https://app.transifex.com/mate/teams/13566/ko/) | 
+ | [cataclysm-dda](/f42/package/cataclysm-dda) | 470172 | 1125660 | 41.8 | Korean (https://app.transifex.com/cataclysm-dda-translators/teams/2217/ko/) | 
+ | [elementary-onboarding](/f42/package/elementary-onboarding) | 131 | 317 | 41.3 | Korean <https://l10n.elementary.io/projects/installer/onboarding/ko/> | 
+ | [sugar-stopwatch](/f42/package/sugar-stopwatch) | 2 | 5 | 40.0 | LANGUAGE <LL@li.org> | 
+ | [elementary-music](/f42/package/elementary-music) | 92 | 231 | 39.8 | Korean <https://l10n.elementary.io/projects/music/music/ko/> | 
+ | [cairo-dock](/f42/package/cairo-dock) | 2927 | 7555 | 38.7 | Korean <ko@li.org> | 
+ | [orca](/f42/package/orca) | 1433 | 3707 | 38.7 | GNOME Korea <gnome-kr-hackers@lists.kldp.net> | 
+ | [mame](/f42/package/mame) | 1405 | 3685 | 38.1 | MAME Language Team | 
+ | [exaile](/f42/package/exaile) | 1771 | 4690 | 37.8 | Korean <https://hosted.weblate.org/projects/exaile/master/ko/> | 
+ | [sugar-log](/f42/package/sugar-log) | 37 | 98 | 37.8 | LANGUAGE <LL@li.org> | 
+ | [mate-sensors-applet](/f42/package/mate-sensors-applet) | 813 | 2160 | 37.6 | Korean (https://app.transifex.com/mate/teams/13566/ko/) | 
+ | [tuxpaint](/f42/package/tuxpaint) | 2005 | 5355 | 37.4 | N/A | 
+ | [skrooge](/f42/package/skrooge) | 4575 | 12330 | 37.1 | Korean <kde-kr@kde.org> | 
+ | [simple-ccsm](/f42/package/simple-ccsm) | 59 | 162 | 36.4 | Korean <ko@li.org> | 
+ | [lftp](/f42/package/lftp) | 1453 | 4033 | 36.0 |  | 
+ | [subversion](/f42/package/subversion) | 12644 | 35290 | 35.8 | Korean <dev@subversion.tigris.org> | 
+ | [samba](/f42/package/samba) | 187 | 524 | 35.7 | Novell Language <language@novell.com> | 
+ | [neomutt](/f42/package/neomutt) | 2882 | 8123 | 35.5 | Im Eunjea <eunjea@kldp.org> | 
+ | [wingpanel](/f42/package/wingpanel) | 20 | 57 | 35.1 | Korean <https://l10n.elementary.io/projects/wingpanel/wingpanel/ko/> | 
+ | [xournalpp](/f42/package/xournalpp) | 1886 | 5538 | 34.1 | Korean | 
+ | [kdenlive](/f42/package/kdenlive) | 11307 | 33775 | 33.5 | Korean <kde-kr@kde.org> | 
+ | [digikam](/f42/package/digikam) | 21125 | 63466 | 33.3 | Korean <kde-kr@kde.org> | 
+ | [deluge](/f42/package/deluge) | 1457 | 4390 | 33.2 | Korean <ko@li.org> | 
+ | [minetest](/f42/package/minetest) | 3442 | 10452 | 32.9 | Korean <https://hosted.weblate.org/projects/minetest/minetest/ko/> | 
+ | [gala](/f42/package/gala) | 105 | 319 | 32.9 | Korean <https://l10n.elementary.io/projects/desktop/gala/ko/> | 
+ | [network-manager-applet](/f42/package/network-manager-applet) | 1447 | 4439 | 32.6 | GNOME Korea <gnome-kr@googlegroups.com> | 
+ | [lightdm-gtk](/f42/package/lightdm-gtk) | 29 | 89 | 32.6 | Korean <ko@li.org> | 
+ | [umbrello](/f42/package/umbrello) | 1997 | 6160 | 32.4 | Korean <kde-kr@kde.org> | 
+ | [scim-pinyin](/f42/package/scim-pinyin) | 204 | 634 | 32.2 | Korean | 
+ | [publican](/f42/package/publican) | 1751 | 5443 | 32.2 | Korean <ko@li.org> | 
+ | [shadow-utils](/f42/package/shadow-utils) | 1503 | 4790 | 31.4 | Korean <debian-l10n-korean@lists.debian.org> | 
+ | [util-linux](/f42/package/util-linux) | 39724 | 127832 | 31.1 | Korean <translation-team-ko@googlegroups.com> | 
+ | [gstreamer1](/f42/package/gstreamer1) | 672 | 2223 | 30.2 | Korean <translation-team-ko@googlegroups.com> | 
+ | [mingw-gstreamer1](/f42/package/mingw-gstreamer1) | 672 | 2223 | 30.2 | Korean <translation-team-ko@googlegroups.com> | 
+ | [calibre](/f42/package/calibre) | 55147 | 184463 | 29.9 | Korean (http://app.transifex.com/calibre/calibre/language/ko/) | 
+ | [homebank](/f42/package/homebank) | 984 | 3298 | 29.8 | Korean <ko@li.org> | 
+ | [sugar-physics](/f42/package/sugar-physics) | 14 | 48 | 29.2 | LANGUAGE <LL@li.org> | 
+ | [sawfish](/f42/package/sawfish) | 2178 | 7478 | 29.1 | Korean <ko@li.org> | 
+ | [terminology](/f42/package/terminology) | 283 | 982 | 28.8 | Korean | 
+ | [electrum](/f42/package/electrum) | 3722 | 13041 | 28.5 | Korean | 
+ | [picard](/f42/package/picard) | 3046 | 10784 | 28.2 | Korean <https://translations.metabrainz.org/projects/picard/2/app/ko/> | 
+ | [engrampa](/f42/package/engrampa) | 2190 | 7815 | 28.0 | Korean (https://app.transifex.com/mate/teams/13566/ko/) | 
+ | [gnome-system-log](/f42/package/gnome-system-log) | 460 | 1660 | 27.7 | GNOME Korea <gnome-kr-hackers@lists.kldp.net> | 
+ | [sugar-imageviewer](/f42/package/sugar-imageviewer) | 16 | 58 | 27.6 | LANGUAGE <LL@li.org> | 
+ | [python-apt](/f42/package/python-apt) | 150 | 544 | 27.6 | Korean <ko@li.org> | 
+ | [quassel](/f42/package/quassel) | 2278 | 8362 | 27.2 | Korean (http://www.transifex.com/quassel/quassel/language/ko/) | 
+ | [pipewire](/f42/package/pipewire) | 174 | 647 | 26.9 | Korean | 
+ | [folio](/f42/package/folio) | 251 | 954 | 26.3 |  | 
+ | [plasma-keyboard](/f42/package/plasma-keyboard) | 15 | 58 | 25.9 | Korean <kde-kr@kde.org> | 
+ | [atril](/f42/package/atril) | 2013 | 7825 | 25.7 | Korean (https://app.transifex.com/mate/teams/13566/ko/) | 
+ | [bison](/f42/package/bison) | 47 | 183 | 25.7 | Korean <translation-team-ko@lists.sourceforge.net> | 
+ | [eiciel](/f42/package/eiciel) | 85 | 331 | 25.7 | Korean <https://l10n.opensuse.org/projects/eiciel/master/ko/> | 
+ | [pogo](/f42/package/pogo) | 144 | 576 | 25.0 | Korean <ko@li.org> | 
+ | [ktextaddons](/f42/package/ktextaddons) | 1091 | 4452 | 24.5 | Korean <kde-kr@kde.org> | 
+ | [liferea](/f42/package/liferea) | 497 | 2066 | 24.1 | GNOME Korea <gnome-kr-hackers@lists.kldp.net> | 
+ | [stellarium](/f42/package/stellarium) | 48565 | 202022 | 24.0 | Korean (https://app.transifex.com/stellarium/teams/80998/ko/) | 
+ | [sympa](/f42/package/sympa) | 8346 | 36542 | 22.8 | 한국어 <ko_KR@li.org> | 
+ | [granite](/f42/package/granite) | 113 | 498 | 22.7 | Korean <https://l10n.elementary.io/projects/desktop/granite/ko/> | 
+ | [gscan2pdf](/f42/package/gscan2pdf) | 414 | 1840 | 22.5 | Korean <ko@li.org> | 
+ | [lutris](/f42/package/lutris) | 1698 | 7618 | 22.3 | Korean | 
+ | [sugar-dimensions](/f42/package/sugar-dimensions) | 39 | 176 | 22.2 | LANGUAGE <LL@li.org> | 
+ | [colord](/f42/package/colord) | 430 | 1966 | 21.9 | Korean (https://app.transifex.com/freedesktop/teams/12151/ko/) | 
+ | [mingw-colord](/f42/package/mingw-colord) | 386 | 1885 | 20.5 | Korean (http://www.transifex.com/projects/p/colord/language/ko/) | 
+ | [elementary-code](/f42/package/elementary-code) | 455 | 2228 | 20.4 | Korean <https://l10n.elementary.io/projects/code/code/ko/> | 
+ | [NetworkManager-l2tp](/f42/package/NetworkManager-l2tp) | 256 | 1299 | 19.7 | GNOME Korea <gnome-kr@googlegroups.com> | 
+ | [indent](/f42/package/indent) | 51 | 261 | 19.5 | Korean <ko@li.org> | 
+ | [sugar-speak](/f42/package/sugar-speak) | 44 | 227 | 19.4 | LANGUAGE <LL@li.org> | 
+ | [gamehub](/f42/package/gamehub) | 213 | 1115 | 19.1 | Korean <https://hosted.weblate.org/projects/gamehub/translations/ko/> | 
+ | [kstars](/f42/package/kstars) | 12230 | 64693 | 18.9 | Korean <kde-kr@kde.org> | 
+ | [man-pages-l10n](/f42/package/man-pages-l10n) | 115954 | 642166 | 18.1 | Korean <translation-team-ko@googlegroups.com> | 
+ | [NetworkManager-pptp](/f42/package/NetworkManager-pptp) | 95 | 529 | 18.0 | GNOME Korea <gnome-kr@googlegroups.com> | 
+ | [sugar-chat](/f42/package/sugar-chat) | 24 | 137 | 17.5 | LANGUAGE <LL@li.org> | 
+ | [sugar-read](/f42/package/sugar-read) | 24 | 137 | 17.5 | LANGUAGE <LL@li.org> | 
+ | [kaidan](/f42/package/kaidan) | 490 | 2798 | 17.5 | Korean <kde-kr@kde.org> | 
+ | [freeciv](/f42/package/freeciv) | 19727 | 120107 | 16.4 | Korean language team | 
+ | [playonlinux](/f42/package/playonlinux) | 448 | 2728 | 16.4 | Korean <ko@li.org> | 
+ | [marble](/f42/package/marble) | 1787 | 11457 | 15.6 | Korean <kde-kr@kde.org> | 
+ | [easyeffects](/f42/package/easyeffects) | 784 | 5197 | 15.1 | Korean <https://hosted.weblate.org/projects/easyeffects/main/ko/> | 
+ | [pluma-plugins](/f42/package/pluma-plugins) | 206 | 1405 | 14.7 | Korean (https://app.transifex.com/mate/teams/13566/ko/) | 
+ | [sugar-pippy](/f42/package/sugar-pippy) | 40 | 274 | 14.6 | LANGUAGE <LL@li.org> | 
+ | [marknote](/f42/package/marknote) | 46 | 317 | 14.5 | Korean <kde-kr@kde.org> | 
+ | [goffice](/f42/package/goffice) | 888 | 6201 | 14.3 | GTP Korean <gnome-kr-translation@gnome.or.kr> | 
+ | [wesnoth](/f42/package/wesnoth) | 61462 | 429810 | 14.3 | none | 
+ | [uim](/f42/package/uim) | 861 | 6176 | 13.9 | Korean <LL@li.org> | 
+ | [lightdm](/f42/package/lightdm) | 22 | 163 | 13.5 | Korean <ko@li.org> | 
+ | [iso-codes](/f42/package/iso-codes) | 2872 | 23551 | 12.2 | Korean <https://hosted.weblate.org/projects/iso-codes/iso-15924/ko/> | 
+ | [granite-7](/f42/package/granite-7) | 71 | 596 | 11.9 | Korean <https://l10n.elementary.io/projects/desktop/granite/ko/> | 
+ | [elementary-notifications](/f42/package/elementary-notifications) | 5 | 42 | 11.9 | Korean <https://l10n.elementary.io/projects/desktop/notifications-extra/ko/> | 
+ | [sugar-record](/f42/package/sugar-record) | 7 | 62 | 11.3 | LANGUAGE <LL@li.org> | 
+ | [libhangul](/f42/package/libhangul) | 16 | 147 | 10.9 | Choe Hwanjin <choe.hwanjin@gmail.com> | 
+ | [NetworkManager-vpnc](/f42/package/NetworkManager-vpnc) | 70 | 663 | 10.6 | GNOME Korea <gnome-kr@googlegroups.com> | 
+ | [golang-github-chai2010-gettext](/f42/package/golang-github-chai2010-gettext) | 493 | 4747 | 10.4 | Korean <ko@li.org> | 
+ | [NetworkManager-sstp](/f42/package/NetworkManager-sstp) | 90 | 878 | 10.3 | GNOME Korea <gnome-kr@googlegroups.com> | 
+ | [grass](/f42/package/grass) | 13159 | 128967 | 10.2 | Korean <https://weblate.osgeo.org/projects/grass-gis/grasslibs/ko/> | 
+ | [gpaste](/f42/package/gpaste) | 150 | 1481 | 10.1 | Korean <https://hosted.weblate.org/projects/gpaste/gpaste/ko/> | 
+ | [duplicity](/f42/package/duplicity) | 238 | 2377 | 10.0 | Korean | 
+ | [cairo-dock-plug-ins](/f42/package/cairo-dock-plug-ins) | 964 | 10186 | 9.5 | Korean <ko@li.org> | 
+ | [NetworkManager-ssh](/f42/package/NetworkManager-ssh) | 27 | 286 | 9.4 | GNOME Korea <gnome-kr@googlegroups.com> | 
+ | [python-sphinxcontrib-qthelp](/f42/package/python-sphinxcontrib-qthelp) | 3 | 33 | 9.1 | Korean (https://www.transifex.com/sphinx-doc/teams/36659/ko/) | 
+ | [system-switch-mail](/f42/package/system-switch-mail) | 9 | 101 | 8.9 | Korean <ko@li.org> | 
+ | [peek](/f42/package/peek) | 50 | 564 | 8.9 | Korean <https://hosted.weblate.org/projects/peek/translations/ko/> | 
+ | [gramps](/f42/package/gramps) | 3605 | 41201 | 8.7 | Korean <https://hosted.weblate.org/projects/gramps-project/gramps/ko/> | 
+ | [po4a](/f42/package/po4a) | 274 | 3317 | 8.3 | Korean <debian-l10n-korean@lists.debian.org> | 
+ | [sugar-finance](/f42/package/sugar-finance) | 21 | 258 | 8.1 | LANGUAGE <LL@li.org> | 
+ | [sugar-browse](/f42/package/sugar-browse) | 27 | 334 | 8.1 | LANGUAGE <LL@li.org> | 
+ | [gnulib-l10n](/f42/package/gnulib-l10n) | 109 | 1371 | 8.0 | Korean <translation-team-ko@lists.sourceforge.net> | 
+ | [kgoldrunner](/f42/package/kgoldrunner) | 2213 | 28047 | 7.9 | Korean <kde-kr@kde.org> | 
+ | [neverball](/f42/package/neverball) | 214 | 2735 | 7.8 | Korean (http://www.transifex.com/projects/p/neverball/language/ko/) | 
+ | [gimp-help](/f42/package/gimp-help) | 18990 | 262250 | 7.2 | Korean <gnome-kr@googlegroups.com> | 
+ | [freedink](/f42/package/freedink) | 5 | 70 | 7.1 | Korean <translation-team-ko@lists.sourceforge.net> | 
+ | [hello](/f42/package/hello) | 17 | 244 | 7.0 | Korean <translation-team-ko@lists.sourceforge.net> | 
+ | [godot3](/f42/package/godot3) | 19766 | 285145 | 6.9 | Korean <https://hosted.weblate.org/projects/godot-engine/godot-class-reference/ko/> | 
+ | [fuse-encfs](/f42/package/fuse-encfs) | 89 | 1289 | 6.9 | Korean <ko@li.org> | 
+ | [isomaster](/f42/package/isomaster) | 46 | 674 | 6.8 | http://littlesvr.ca/ostd/ | 
+ | [sugar-view-slides](/f42/package/sugar-view-slides) | 4 | 60 | 6.7 | LANGUAGE <LL@li.org> | 
+ | [tuba](/f42/package/tuba) | 167 | 2579 | 6.5 | Korean <https://hosted.weblate.org/projects/tuba/tuba/ko/> | 
+ | [gegl04](/f42/package/gegl04) | 345 | 5397 | 6.4 | Korean <gnome-kr@googlegroups.com> | 
+ | [gnumeric](/f42/package/gnumeric) | 2041 | 35046 | 5.8 | GTP Korean <gnome-kr-translation@gnome.or.kr> | 
+ | [gambas3](/f42/package/gambas3) | 392 | 6931 | 5.7 | LANGUAGE <LL@li.org> | 
+ | [gammu](/f42/package/gammu) | 217 | 4017 | 5.4 | none | 
+ | [pidgin-sipe](/f42/package/pidgin-sipe) | 59 | 1119 | 5.3 | Korean (http://www.transifex.com/stefanb/pidgin-sipe/language/ko/) | 
+ | [kalm](/f42/package/kalm) | 29 | 555 | 5.2 | Korean <kde-kr@kde.org> | 
+ | [sugar-turtleart](/f42/package/sugar-turtleart) | 74 | 1445 | 5.1 | LANGUAGE <walter@sugarlabs.org> | 
+ | [gdm](/f42/package/gdm) | 1538 | 30293 | 5.1 | GNOME Korea <gnome-kr-hackers@lists.kldp.net> | 
+ | [sugar-terminal](/f42/package/sugar-terminal) | 6 | 121 | 5.0 | LANGUAGE <LL@li.org> | 
+ | [caja-actions](/f42/package/caja-actions) | 334 | 7079 | 4.7 | Korean (https://app.transifex.com/mate/teams/13566/ko/) | 
+ | [pmount](/f42/package/pmount) | 34 | 723 | 4.7 | Korean <ko@li.org> | 
+ | [elementary-settings-daemon](/f42/package/elementary-settings-daemon) | 14 | 303 | 4.6 | Korean <https://l10n.elementary.io/projects/desktop/settings-daemon/ko/> | 
+ | [wdiff](/f42/package/wdiff) | 5 | 120 | 4.2 | Korean <translation-team-ko@lists.sourceforge.net> | 
+ | [asunder](/f42/package/asunder) | 20 | 493 | 4.1 | http://littlesvr.ca/ostd/ | 
+ | [menulibre](/f42/package/menulibre) | 34 | 873 | 3.9 | Korean <ko@li.org> | 
+ | [spacefm](/f42/package/spacefm) | 324 | 8722 | 3.7 | Korean (http://www.transifex.com/projects/p/spacefm/language/ko/) | 
+ | [sugar-memorize](/f42/package/sugar-memorize) | 5 | 142 | 3.5 | LANGUAGE <LL@li.org> | 
+ | [sugar-calculator](/f42/package/sugar-calculator) | 30 | 866 | 3.5 | LANGUAGE <LL@li.org> | 
+ | [renameutils](/f42/package/renameutils) | 9 | 265 | 3.4 | Korean <translation-team-ko@lists.sourceforge.net> | 
+ | [naev-data](/f42/package/naev-data) | 10925 | 337863 | 3.2 | Korean <https://hosted.weblate.org/projects/naev/naev/ko/> | 
+ | [breezy](/f42/package/breezy) | 1108 | 36640 | 3.0 | Korean <ko@li.org> | 
+ | [sugar](/f42/package/sugar) | 66 | 2305 | 2.9 | LANGUAGE <LL@li.org> | 
+ | [xscreensaver](/f42/package/xscreensaver) | 354 | 12812 | 2.8 | Korean <ko@li.org> | 
+ | [light-locker](/f42/package/light-locker) | 7 | 260 | 2.7 | Korean (http://www.transifex.com/the_cavalry/light-locker/language/ko/) | 
+ | [powertop](/f42/package/powertop) | 17 | 698 | 2.4 | Korean (http://www.transifex.com/projects/p/PowerTOP/language/ko/) | 
+ | [siril](/f42/package/siril) | 1483 | 62275 | 2.4 | Korean <https://weblate.pixls.us/projects/siril/siril-application/ko/> | 
+ | [pgrouting](/f42/package/pgrouting) | 843 | 40340 | 2.1 | Korean <https://weblate.osgeo.org/projects/pgrouting/index/ko/> | 
+ | [NetworkManager-openvpn](/f42/package/NetworkManager-openvpn) | 43 | 2225 | 1.9 | GNOME Korea <gnome-kr@googlegroups.com> | 
+ | [NetworkManager-fortisslvpn](/f42/package/NetworkManager-fortisslvpn) | 6 | 321 | 1.9 | GNOME Korea <gnome-kr@googlegroups.com> | 
+ | [NetworkManager-openconnect](/f42/package/NetworkManager-openconnect) | 54 | 3241 | 1.7 | GNOME Korea <gnome-kr@googlegroups.com> | 
+ | [clutter](/f42/package/clutter) | 50 | 3057 | 1.6 | Korean <gnome-kr@googlegroups.org> | 
+ | [aria2](/f42/package/aria2) | 119 | 7496 | 1.6 | Korean <ko@li.org> | 
+ | [manafirewall](/f42/package/manafirewall) | 15 | 1097 | 1.4 | Korean (https://www.transifex.com/MageiaLinux/teams/9361/ko/) | 
+ | [snapd](/f42/package/snapd) | 40 | 4307 | 0.9 | Korean <ko@li.org> | 
+ | [malcontent](/f42/package/malcontent) | 3 | 584 | 0.5 | none | 
+ | [libgda](/f42/package/libgda) | 37 | 11142 | 0.3 | Korean <gnome-kr-translation@lists.sourceforge.net> | 
+ | [libgda5](/f42/package/libgda5) | 37 | 11142 | 0.3 | Korean <gnome-kr-translation@lists.sourceforge.net> | 
+ | [genius](/f42/package/genius) | 6 | 8610 | 0.1 | Korean <ko@li.org> | 
+ | [viking](/f42/package/viking) | 4 | 6243 | 0.1 | Korean <ko@li.org> | 
+ | [edgar](/f42/package/edgar) | 1 | 11474 | 0.0 | Korean <ko@li.org> | 
+ | [bookworm](/f42/package/bookworm) | 0 | 795 | 0.0 |  | 
+ | [clapper](/f42/package/clapper) | 0 | 393 | 0.0 | Korean | 
+ | [cmake-fedora](/f42/package/cmake-fedora) | 0 | 0 | 0.0 |  | 
+ | [dippi](/f42/package/dippi) | 0 | 1537 | 0.0 | none | 
+ | [elementary-icon-theme](/f42/package/elementary-icon-theme) | 0 | 349 | 0.0 | Korean <https://l10n.elementary.io/projects/desktop/icons-extra/ko/> | 
+ | [fonts-tweak-tool](/f42/package/fonts-tweak-tool) | 0 | 195 | 0.0 | Korean | 
+ | [gajim](/f42/package/gajim) | 0 | 6349 | 0.0 | none | 
+ | [gnome-online-accounts-gtk](/f42/package/gnome-online-accounts-gtk) | 0 | 36 | 0.0 | Korean <ko@li.org> | 
+ | [kf6-knotifications](/f42/package/kf6-knotifications) | 0 | 0 | 0.0 | Korean <kde-kr@kde.org> | 
+ | [kubernetes1.33](/f42/package/kubernetes1.33) | 0 | 0 | 0.0 |  | 
+ | [kubernetes1.34](/f42/package/kubernetes1.34) | 0 | 0 | 0.0 |  | 
+ | [libgxim](/f42/package/libgxim) | 0 | 124 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [libsmbios](/f42/package/libsmbios) | 0 | 2187 | 0.0 | Korean | 
+ | [libvirt-sandbox](/f42/package/libvirt-sandbox) | 0 | 617 | 0.0 | Korean (http://www.transifex.com/projects/p/fedora/language/ko/) | 
+ | [lxshortcut](/f42/package/lxshortcut) | 0 | 43 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [pyhoca-gui](/f42/package/pyhoca-gui) | 0 | 1865 | 0.0 | none | 
+ | [python-sphinxcontrib-devhelp](/f42/package/python-sphinxcontrib-devhelp) | 0 | 18 | 0.0 | Korean (https://www.transifex.com/sphinx-doc/teams/36659/ko/) | 
+ | [ravada](/f42/package/ravada) | 0 | 1075 | 0.0 |  | 
+ | [regextester](/f42/package/regextester) | 0 | 104 | 0.0 | none | 
+ | [speedcrunch](/f42/package/speedcrunch) | 0 | 93 | 0.0 | Korean (http://www.transifex.com/heldercorreia/speedcrunch/language/ko/) | 
+ | [sugar-clock](/f42/package/sugar-clock) | 0 | 66 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-implode](/f42/package/sugar-implode) | 0 | 77 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [ufw](/f42/package/ufw) | 0 | 879 | 0.0 | Korean <ko@li.org> | 
+ | [wireshark](/f42/package/wireshark) | 0 | 398 | 0.0 | Korean (https://app.transifex.com/wireshark/teams/36457/ko/) | 
 {.sortable}
 
 
@@ -1448,23 +1448,23 @@ We use the po metadata to get the language code and the team, but sometimes it f
 
 | Package | Lang from file path/name | polib error | Team |
 |---------|--------------------------|-------------|------|
- | [R]({{< ref "/f42/package/R.md" >}}) | /mnt/stockage/packages/f42/R/R-4.5.2/src/library/base/po/._ko.po | error-unicode |  | 
- | [R]({{< ref "/f42/package/R.md" >}}) | /mnt/stockage/packages/f42/R/R-4.5.2/src/library/compiler/po/._R-ko.po | error-unicode |  | 
- | [R]({{< ref "/f42/package/R.md" >}}) | /mnt/stockage/packages/f42/R/R-4.5.2/src/library/graphics/po/._ko.po | error-unicode |  | 
- | [R]({{< ref "/f42/package/R.md" >}}) | /mnt/stockage/packages/f42/R/R-4.5.2/src/library/grDevices/po/._ko.po | error-unicode |  | 
- | [R]({{< ref "/f42/package/R.md" >}}) | /mnt/stockage/packages/f42/R/R-4.5.2/src/library/grid/po/._ko.po | error-unicode |  | 
- | [R]({{< ref "/f42/package/R.md" >}}) | /mnt/stockage/packages/f42/R/R-4.5.2/src/library/methods/po/._ko.po | error-unicode |  | 
- | [R]({{< ref "/f42/package/R.md" >}}) | /mnt/stockage/packages/f42/R/R-4.5.2/src/library/parallel/po/._ko.po | error-unicode |  | 
- | [R]({{< ref "/f42/package/R.md" >}}) | /mnt/stockage/packages/f42/R/R-4.5.2/src/library/splines/po/._ko.po | error-unicode |  | 
- | [R]({{< ref "/f42/package/R.md" >}}) | /mnt/stockage/packages/f42/R/R-4.5.2/src/library/stats/po/._ko.po | error-unicode |  | 
- | [R]({{< ref "/f42/package/R.md" >}}) | /mnt/stockage/packages/f42/R/R-4.5.2/src/library/stats4/po/._R-ko.po | error-unicode |  | 
- | [R]({{< ref "/f42/package/R.md" >}}) | /mnt/stockage/packages/f42/R/R-4.5.2/src/library/tcltk/po/._ko.po | error-unicode |  | 
- | [R]({{< ref "/f42/package/R.md" >}}) | /mnt/stockage/packages/f42/R/R-4.5.2/src/library/tools/po/._ko.po | error-unicode |  | 
- | [R]({{< ref "/f42/package/R.md" >}}) | /mnt/stockage/packages/f42/R/R-4.5.2/src/library/utils/po/._ko.po | error-unicode |  | 
- | [bleachbit]({{< ref "/f42/package/bleachbit.md" >}}) | /mnt/stockage/packages/f42/bleachbit/po/ko.po | error-os |  | 
- | [gnucash]({{< ref "/f42/package/gnucash.md" >}}) | /mnt/stockage/packages/f42/gnucash/gnucash-5.14/po/._ko.po | error-unicode |  | 
- | [gnucash]({{< ref "/f42/package/gnucash.md" >}}) | /mnt/stockage/packages/f42/gnucash/gnucash-5.14/po/glossary/._ko.po | error-unicode |  | 
- | [vim]({{< ref "/f42/package/vim.md" >}}) | /mnt/stockage/packages/f42/vim/src/po/ko.po | error-os |  | 
+ | [R](/f42/package/R) | /mnt/stockage/packages/f42/R/R-4.5.2/src/library/base/po/._ko.po | error-unicode |  | 
+ | [R](/f42/package/R) | /mnt/stockage/packages/f42/R/R-4.5.2/src/library/compiler/po/._R-ko.po | error-unicode |  | 
+ | [R](/f42/package/R) | /mnt/stockage/packages/f42/R/R-4.5.2/src/library/graphics/po/._ko.po | error-unicode |  | 
+ | [R](/f42/package/R) | /mnt/stockage/packages/f42/R/R-4.5.2/src/library/grDevices/po/._ko.po | error-unicode |  | 
+ | [R](/f42/package/R) | /mnt/stockage/packages/f42/R/R-4.5.2/src/library/grid/po/._ko.po | error-unicode |  | 
+ | [R](/f42/package/R) | /mnt/stockage/packages/f42/R/R-4.5.2/src/library/methods/po/._ko.po | error-unicode |  | 
+ | [R](/f42/package/R) | /mnt/stockage/packages/f42/R/R-4.5.2/src/library/parallel/po/._ko.po | error-unicode |  | 
+ | [R](/f42/package/R) | /mnt/stockage/packages/f42/R/R-4.5.2/src/library/splines/po/._ko.po | error-unicode |  | 
+ | [R](/f42/package/R) | /mnt/stockage/packages/f42/R/R-4.5.2/src/library/stats/po/._ko.po | error-unicode |  | 
+ | [R](/f42/package/R) | /mnt/stockage/packages/f42/R/R-4.5.2/src/library/stats4/po/._R-ko.po | error-unicode |  | 
+ | [R](/f42/package/R) | /mnt/stockage/packages/f42/R/R-4.5.2/src/library/tcltk/po/._ko.po | error-unicode |  | 
+ | [R](/f42/package/R) | /mnt/stockage/packages/f42/R/R-4.5.2/src/library/tools/po/._ko.po | error-unicode |  | 
+ | [R](/f42/package/R) | /mnt/stockage/packages/f42/R/R-4.5.2/src/library/utils/po/._ko.po | error-unicode |  | 
+ | [bleachbit](/f42/package/bleachbit) | /mnt/stockage/packages/f42/bleachbit/po/ko.po | error-os |  | 
+ | [gnucash](/f42/package/gnucash) | /mnt/stockage/packages/f42/gnucash/gnucash-5.14/po/._ko.po | error-unicode |  | 
+ | [gnucash](/f42/package/gnucash) | /mnt/stockage/packages/f42/gnucash/gnucash-5.14/po/glossary/._ko.po | error-unicode |  | 
+ | [vim](/f42/package/vim) | /mnt/stockage/packages/f42/vim/src/po/ko.po | error-os |  | 
 {.sortable}
 
 
@@ -1475,21 +1475,21 @@ We use the calcstats from translate toolkit to get the translation progress, but
 
 | Package | Lang from file path/name | Team |
 |---------|--------------------------|------|
- | [R]({{< ref "/f42/package/R.md" >}}) | /mnt/stockage/packages/f42/R/R-4.5.2/src/library/base/po/._ko.po |  | 
- | [R]({{< ref "/f42/package/R.md" >}}) | /mnt/stockage/packages/f42/R/R-4.5.2/src/library/compiler/po/._R-ko.po |  | 
- | [R]({{< ref "/f42/package/R.md" >}}) | /mnt/stockage/packages/f42/R/R-4.5.2/src/library/graphics/po/._ko.po |  | 
- | [R]({{< ref "/f42/package/R.md" >}}) | /mnt/stockage/packages/f42/R/R-4.5.2/src/library/grDevices/po/._ko.po |  | 
- | [R]({{< ref "/f42/package/R.md" >}}) | /mnt/stockage/packages/f42/R/R-4.5.2/src/library/grid/po/._ko.po |  | 
- | [R]({{< ref "/f42/package/R.md" >}}) | /mnt/stockage/packages/f42/R/R-4.5.2/src/library/methods/po/._ko.po |  | 
- | [R]({{< ref "/f42/package/R.md" >}}) | /mnt/stockage/packages/f42/R/R-4.5.2/src/library/parallel/po/._ko.po |  | 
- | [R]({{< ref "/f42/package/R.md" >}}) | /mnt/stockage/packages/f42/R/R-4.5.2/src/library/splines/po/._ko.po |  | 
- | [R]({{< ref "/f42/package/R.md" >}}) | /mnt/stockage/packages/f42/R/R-4.5.2/src/library/stats/po/._ko.po |  | 
- | [R]({{< ref "/f42/package/R.md" >}}) | /mnt/stockage/packages/f42/R/R-4.5.2/src/library/stats4/po/._R-ko.po |  | 
- | [R]({{< ref "/f42/package/R.md" >}}) | /mnt/stockage/packages/f42/R/R-4.5.2/src/library/tcltk/po/._ko.po |  | 
- | [R]({{< ref "/f42/package/R.md" >}}) | /mnt/stockage/packages/f42/R/R-4.5.2/src/library/tools/po/._ko.po |  | 
- | [R]({{< ref "/f42/package/R.md" >}}) | /mnt/stockage/packages/f42/R/R-4.5.2/src/library/utils/po/._ko.po |  | 
- | [gnucash]({{< ref "/f42/package/gnucash.md" >}}) | /mnt/stockage/packages/f42/gnucash/gnucash-5.14/po/._ko.po |  | 
- | [gnucash]({{< ref "/f42/package/gnucash.md" >}}) | /mnt/stockage/packages/f42/gnucash/gnucash-5.14/po/glossary/._ko.po |  | 
+ | [R](/f42/package/R) | /mnt/stockage/packages/f42/R/R-4.5.2/src/library/base/po/._ko.po |  | 
+ | [R](/f42/package/R) | /mnt/stockage/packages/f42/R/R-4.5.2/src/library/compiler/po/._R-ko.po |  | 
+ | [R](/f42/package/R) | /mnt/stockage/packages/f42/R/R-4.5.2/src/library/graphics/po/._ko.po |  | 
+ | [R](/f42/package/R) | /mnt/stockage/packages/f42/R/R-4.5.2/src/library/grDevices/po/._ko.po |  | 
+ | [R](/f42/package/R) | /mnt/stockage/packages/f42/R/R-4.5.2/src/library/grid/po/._ko.po |  | 
+ | [R](/f42/package/R) | /mnt/stockage/packages/f42/R/R-4.5.2/src/library/methods/po/._ko.po |  | 
+ | [R](/f42/package/R) | /mnt/stockage/packages/f42/R/R-4.5.2/src/library/parallel/po/._ko.po |  | 
+ | [R](/f42/package/R) | /mnt/stockage/packages/f42/R/R-4.5.2/src/library/splines/po/._ko.po |  | 
+ | [R](/f42/package/R) | /mnt/stockage/packages/f42/R/R-4.5.2/src/library/stats/po/._ko.po |  | 
+ | [R](/f42/package/R) | /mnt/stockage/packages/f42/R/R-4.5.2/src/library/stats4/po/._R-ko.po |  | 
+ | [R](/f42/package/R) | /mnt/stockage/packages/f42/R/R-4.5.2/src/library/tcltk/po/._ko.po |  | 
+ | [R](/f42/package/R) | /mnt/stockage/packages/f42/R/R-4.5.2/src/library/tools/po/._ko.po |  | 
+ | [R](/f42/package/R) | /mnt/stockage/packages/f42/R/R-4.5.2/src/library/utils/po/._ko.po |  | 
+ | [gnucash](/f42/package/gnucash) | /mnt/stockage/packages/f42/gnucash/gnucash-5.14/po/._ko.po |  | 
+ | [gnucash](/f42/package/gnucash) | /mnt/stockage/packages/f42/gnucash/gnucash-5.14/po/glossary/._ko.po |  | 
 {.sortable}
 
 

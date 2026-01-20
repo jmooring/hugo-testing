@@ -38,7 +38,7 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [transmission]({{< ref "/f15/package/transmission.md" >}}) | 15 | 1528 | 1.0 | Cebuano <ceb@li.org> | 
+ | [transmission](/f15/package/transmission) | 15 | 1528 | 1.0 | Cebuano <ceb@li.org> | 
 {.sortable}
 
 

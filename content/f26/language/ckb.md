@@ -39,54 +39,54 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [wingpanel-indicator-sound]({{< ref "/f26/package/wingpanel-indicator-sound.md" >}}) | 15 | 15 | 100.0 | LANGUAGE <LL@li.org> | 
- | [pantheon-terminal]({{< ref "/f26/package/pantheon-terminal.md" >}}) | 177 | 188 | 94.1 | Kurdish (Sorani) <ckb@li.org> | 
- | [wingpanel-indicator-datetime]({{< ref "/f26/package/wingpanel-indicator-datetime.md" >}}) | 12 | 20 | 60.0 | LANGUAGE <LL@li.org> | 
- | [wingpanel-indicator-notifications]({{< ref "/f26/package/wingpanel-indicator-notifications.md" >}}) | 17 | 29 | 58.6 | LANGUAGE <LL@li.org> | 
- | [scratch-text-editor]({{< ref "/f26/package/scratch-text-editor.md" >}}) | 379 | 681 | 55.7 | LANGUAGE <LL@li.org> | 
- | [switchboard-plug-display]({{< ref "/f26/package/switchboard-plug-display.md" >}}) | 18 | 33 | 54.5 | Kurdish (Sorani) <ckb@li.org> | 
- | [pantheon-calculator]({{< ref "/f26/package/pantheon-calculator.md" >}}) | 29 | 78 | 37.2 | LANGUAGE <LL@li.org> | 
- | [granite]({{< ref "/f26/package/granite.md" >}}) | 53 | 156 | 34.0 | Kurdish (Sorani) <ckb@li.org> | 
- | [wingpanel-indicator-power]({{< ref "/f26/package/wingpanel-indicator-power.md" >}}) | 17 | 89 | 19.1 | LANGUAGE <LL@li.org> | 
- | [screenshot-tool]({{< ref "/f26/package/screenshot-tool.md" >}}) | 26 | 146 | 17.8 | LANGUAGE <LL@li.org> | 
- | [transmission]({{< ref "/f26/package/transmission.md" >}}) | 251 | 1809 | 13.9 | Kurdish (Sorani) <ckb@li.org> | 
- | [appstream]({{< ref "/f26/package/appstream.md" >}}) | 98 | 857 | 11.4 | Kurdish Sorani <https://hosted.weblate.org/projects/appstream/translations/ckb/> | 
- | [slick-greeter]({{< ref "/f26/package/slick-greeter.md" >}}) | 22 | 211 | 10.4 | Kurdish (Sorani) <ckb@li.org> | 
- | [appcenter]({{< ref "/f26/package/appcenter.md" >}}) | 67 | 681 | 9.8 |  | 
- | [midori]({{< ref "/f26/package/midori.md" >}}) | 289 | 3541 | 8.2 | Kurdish (Sorani) <ckb@li.org> | 
- | [noise]({{< ref "/f26/package/noise.md" >}}) | 99 | 1322 | 7.5 | Kurdish (Sorani) <ckb@li.org> | 
- | [snap-photobooth]({{< ref "/f26/package/snap-photobooth.md" >}}) | 1 | 25 | 4.0 | LANGUAGE <LL@li.org> | 
- | [mintmenu]({{< ref "/f26/package/mintmenu.md" >}}) | 20 | 1192 | 1.7 | Kurdish (Sorani) <ckb@li.org> | 
- | [mate-menu]({{< ref "/f26/package/mate-menu.md" >}}) | 5 | 300 | 1.7 | Kurdish (Sorani) <ckb@li.org> | 
- | [cinnamon-translations]({{< ref "/f26/package/cinnamon-translations.md" >}}) | 20 | 1205 | 1.7 | Kurdish (Sorani) <ckb@li.org> | 
- | [stellarium]({{< ref "/f26/package/stellarium.md" >}}) | 67 | 25796 | 0.3 | Kurdish (Sorani) <ckb@li.org> | 
- | [pantheon-photos]({{< ref "/f26/package/pantheon-photos.md" >}}) | 10 | 4114 | 0.2 | LANGUAGE <LL@li.org> | 
- | [terminator]({{< ref "/f26/package/terminator.md" >}}) | 3 | 1410 | 0.2 | Kurdish (Sorani) <ckb@li.org> | 
- | [dippi]({{< ref "/f26/package/dippi.md" >}}) | 0 | 397 | 0.0 | none | 
- | [feedreader]({{< ref "/f26/package/feedreader.md" >}}) | 0 | 926 | 0.0 |  | 
- | [gala]({{< ref "/f26/package/gala.md" >}}) | 0 | 683 | 0.0 | Kurdish (Sorani) <ckb@li.org> | 
- | [harvey]({{< ref "/f26/package/harvey.md" >}}) | 0 | 57 | 0.0 | none | 
- | [lightdm]({{< ref "/f26/package/lightdm.md" >}}) | 0 | 163 | 0.0 | Kurdish (Sorani) <ckb@li.org> | 
- | [pantheon-agent-polkit]({{< ref "/f26/package/pantheon-agent-polkit.md" >}}) | 0 | 15 | 0.0 | LANGUAGE <LL@li.org> | 
- | [pantheon-files]({{< ref "/f26/package/pantheon-files.md" >}}) | 0 | 2487 | 0.0 | LANGUAGE <LL@li.org> | 
- | [pantheon-greeter]({{< ref "/f26/package/pantheon-greeter.md" >}}) | 0 | 29 | 0.0 | LANGUAGE <LL@li.org> | 
- | [php-phpmyadmin-sql-parser]({{< ref "/f26/package/php-phpmyadmin-sql-parser.md" >}}) | 0 | 227 | 0.0 | Kurdish Sorani <https://hosted.weblate.org/projects/phpmyadmin/master/ckb/> | 
- | [slingshot-launcher]({{< ref "/f26/package/slingshot-launcher.md" >}}) | 0 | 217 | 0.0 | LANGUAGE <LL@li.org> | 
- | [switchboard]({{< ref "/f26/package/switchboard.md" >}}) | 0 | 41 | 0.0 | LANGUAGE <LL@li.org> | 
- | [switchboard-plug-a11y]({{< ref "/f26/package/switchboard-plug-a11y.md" >}}) | 0 | 210 | 0.0 | LANGUAGE <LL@li.org> | 
- | [switchboard-plug-about]({{< ref "/f26/package/switchboard-plug-about.md" >}}) | 0 | 72 | 0.0 | LANGUAGE <LL@li.org> | 
- | [switchboard-plug-applications]({{< ref "/f26/package/switchboard-plug-applications.md" >}}) | 0 | 85 | 0.0 | LANGUAGE <LL@li.org> | 
- | [switchboard-plug-bluetooth]({{< ref "/f26/package/switchboard-plug-bluetooth.md" >}}) | 0 | 39 | 0.0 | Kurdish (Sorani) <ckb@li.org> | 
- | [switchboard-plug-keyboard]({{< ref "/f26/package/switchboard-plug-keyboard.md" >}}) | 0 | 0 | 0.0 |  | 
- | [switchboard-plug-notifications]({{< ref "/f26/package/switchboard-plug-notifications.md" >}}) | 0 | 131 | 0.0 | LANGUAGE <LL@li.org> | 
- | [switchboard-plug-onlineaccounts]({{< ref "/f26/package/switchboard-plug-onlineaccounts.md" >}}) | 0 | 161 | 0.0 | LANGUAGE <LL@li.org> | 
- | [switchboard-plug-printers]({{< ref "/f26/package/switchboard-plug-printers.md" >}}) | 0 | 288 | 0.0 | LANGUAGE <LL@li.org> | 
- | [vocal]({{< ref "/f26/package/vocal.md" >}}) | 0 | 377 | 0.0 | Kurdish (Sorani) <ckb@li.org> | 
- | [wingpanel]({{< ref "/f26/package/wingpanel.md" >}}) | 0 | 8 | 0.0 | LANGUAGE <LL@li.org> | 
- | [wingpanel-indicator-bluetooth]({{< ref "/f26/package/wingpanel-indicator-bluetooth.md" >}}) | 0 | 17 | 0.0 | LANGUAGE <LL@li.org> | 
- | [wingpanel-indicator-keyboard]({{< ref "/f26/package/wingpanel-indicator-keyboard.md" >}}) | 0 | 7 | 0.0 | LANGUAGE <LL@li.org> | 
- | [wingpanel-indicator-network]({{< ref "/f26/package/wingpanel-indicator-network.md" >}}) | 0 | 101 | 0.0 | LANGUAGE <LL@li.org> | 
- | [wingpanel-indicator-session]({{< ref "/f26/package/wingpanel-indicator-session.md" >}}) | 0 | 54 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [wingpanel-indicator-sound](/f26/package/wingpanel-indicator-sound) | 15 | 15 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [pantheon-terminal](/f26/package/pantheon-terminal) | 177 | 188 | 94.1 | Kurdish (Sorani) <ckb@li.org> | 
+ | [wingpanel-indicator-datetime](/f26/package/wingpanel-indicator-datetime) | 12 | 20 | 60.0 | LANGUAGE <LL@li.org> | 
+ | [wingpanel-indicator-notifications](/f26/package/wingpanel-indicator-notifications) | 17 | 29 | 58.6 | LANGUAGE <LL@li.org> | 
+ | [scratch-text-editor](/f26/package/scratch-text-editor) | 379 | 681 | 55.7 | LANGUAGE <LL@li.org> | 
+ | [switchboard-plug-display](/f26/package/switchboard-plug-display) | 18 | 33 | 54.5 | Kurdish (Sorani) <ckb@li.org> | 
+ | [pantheon-calculator](/f26/package/pantheon-calculator) | 29 | 78 | 37.2 | LANGUAGE <LL@li.org> | 
+ | [granite](/f26/package/granite) | 53 | 156 | 34.0 | Kurdish (Sorani) <ckb@li.org> | 
+ | [wingpanel-indicator-power](/f26/package/wingpanel-indicator-power) | 17 | 89 | 19.1 | LANGUAGE <LL@li.org> | 
+ | [screenshot-tool](/f26/package/screenshot-tool) | 26 | 146 | 17.8 | LANGUAGE <LL@li.org> | 
+ | [transmission](/f26/package/transmission) | 251 | 1809 | 13.9 | Kurdish (Sorani) <ckb@li.org> | 
+ | [appstream](/f26/package/appstream) | 98 | 857 | 11.4 | Kurdish Sorani <https://hosted.weblate.org/projects/appstream/translations/ckb/> | 
+ | [slick-greeter](/f26/package/slick-greeter) | 22 | 211 | 10.4 | Kurdish (Sorani) <ckb@li.org> | 
+ | [appcenter](/f26/package/appcenter) | 67 | 681 | 9.8 |  | 
+ | [midori](/f26/package/midori) | 289 | 3541 | 8.2 | Kurdish (Sorani) <ckb@li.org> | 
+ | [noise](/f26/package/noise) | 99 | 1322 | 7.5 | Kurdish (Sorani) <ckb@li.org> | 
+ | [snap-photobooth](/f26/package/snap-photobooth) | 1 | 25 | 4.0 | LANGUAGE <LL@li.org> | 
+ | [mintmenu](/f26/package/mintmenu) | 20 | 1192 | 1.7 | Kurdish (Sorani) <ckb@li.org> | 
+ | [mate-menu](/f26/package/mate-menu) | 5 | 300 | 1.7 | Kurdish (Sorani) <ckb@li.org> | 
+ | [cinnamon-translations](/f26/package/cinnamon-translations) | 20 | 1205 | 1.7 | Kurdish (Sorani) <ckb@li.org> | 
+ | [stellarium](/f26/package/stellarium) | 67 | 25796 | 0.3 | Kurdish (Sorani) <ckb@li.org> | 
+ | [pantheon-photos](/f26/package/pantheon-photos) | 10 | 4114 | 0.2 | LANGUAGE <LL@li.org> | 
+ | [terminator](/f26/package/terminator) | 3 | 1410 | 0.2 | Kurdish (Sorani) <ckb@li.org> | 
+ | [dippi](/f26/package/dippi) | 0 | 397 | 0.0 | none | 
+ | [feedreader](/f26/package/feedreader) | 0 | 926 | 0.0 |  | 
+ | [gala](/f26/package/gala) | 0 | 683 | 0.0 | Kurdish (Sorani) <ckb@li.org> | 
+ | [harvey](/f26/package/harvey) | 0 | 57 | 0.0 | none | 
+ | [lightdm](/f26/package/lightdm) | 0 | 163 | 0.0 | Kurdish (Sorani) <ckb@li.org> | 
+ | [pantheon-agent-polkit](/f26/package/pantheon-agent-polkit) | 0 | 15 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [pantheon-files](/f26/package/pantheon-files) | 0 | 2487 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [pantheon-greeter](/f26/package/pantheon-greeter) | 0 | 29 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [php-phpmyadmin-sql-parser](/f26/package/php-phpmyadmin-sql-parser) | 0 | 227 | 0.0 | Kurdish Sorani <https://hosted.weblate.org/projects/phpmyadmin/master/ckb/> | 
+ | [slingshot-launcher](/f26/package/slingshot-launcher) | 0 | 217 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [switchboard](/f26/package/switchboard) | 0 | 41 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [switchboard-plug-a11y](/f26/package/switchboard-plug-a11y) | 0 | 210 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [switchboard-plug-about](/f26/package/switchboard-plug-about) | 0 | 72 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [switchboard-plug-applications](/f26/package/switchboard-plug-applications) | 0 | 85 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [switchboard-plug-bluetooth](/f26/package/switchboard-plug-bluetooth) | 0 | 39 | 0.0 | Kurdish (Sorani) <ckb@li.org> | 
+ | [switchboard-plug-keyboard](/f26/package/switchboard-plug-keyboard) | 0 | 0 | 0.0 |  | 
+ | [switchboard-plug-notifications](/f26/package/switchboard-plug-notifications) | 0 | 131 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [switchboard-plug-onlineaccounts](/f26/package/switchboard-plug-onlineaccounts) | 0 | 161 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [switchboard-plug-printers](/f26/package/switchboard-plug-printers) | 0 | 288 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [vocal](/f26/package/vocal) | 0 | 377 | 0.0 | Kurdish (Sorani) <ckb@li.org> | 
+ | [wingpanel](/f26/package/wingpanel) | 0 | 8 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [wingpanel-indicator-bluetooth](/f26/package/wingpanel-indicator-bluetooth) | 0 | 17 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [wingpanel-indicator-keyboard](/f26/package/wingpanel-indicator-keyboard) | 0 | 7 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [wingpanel-indicator-network](/f26/package/wingpanel-indicator-network) | 0 | 101 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [wingpanel-indicator-session](/f26/package/wingpanel-indicator-session) | 0 | 54 | 0.0 | LANGUAGE <LL@li.org> | 
 {.sortable}
 
 

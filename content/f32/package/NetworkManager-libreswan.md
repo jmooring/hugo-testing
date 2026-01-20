@@ -18,55 +18,55 @@ The package NetworkManager-libreswan (version 1.2.12):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f32/language/cs.md" >}}) | 465 | 465 | 100.0 | /mnt/stockage/packages/f32/NetworkManager-libreswan/po/cs.po | 
- | [da]({{< ref "/f32/language/da.md" >}}) | 465 | 465 | 100.0 | /mnt/stockage/packages/f32/NetworkManager-libreswan/po/da.po | 
- | [es]({{< ref "/f32/language/es.md" >}}) | 465 | 465 | 100.0 | /mnt/stockage/packages/f32/NetworkManager-libreswan/po/es.po | 
- | [fr]({{< ref "/f32/language/fr.md" >}}) | 465 | 465 | 100.0 | /mnt/stockage/packages/f32/NetworkManager-libreswan/po/fr.po | 
- | [hu]({{< ref "/f32/language/hu.md" >}}) | 465 | 465 | 100.0 | /mnt/stockage/packages/f32/NetworkManager-libreswan/po/hu.po | 
- | [it]({{< ref "/f32/language/it.md" >}}) | 465 | 465 | 100.0 | /mnt/stockage/packages/f32/NetworkManager-libreswan/po/it.po | 
- | [ja]({{< ref "/f32/language/ja.md" >}}) | 465 | 465 | 100.0 | /mnt/stockage/packages/f32/NetworkManager-libreswan/po/ja.po | 
- | [lt]({{< ref "/f32/language/lt.md" >}}) | 465 | 465 | 100.0 | /mnt/stockage/packages/f32/NetworkManager-libreswan/po/lt.po | 
- | [nl]({{< ref "/f32/language/nl.md" >}}) | 465 | 465 | 100.0 | /mnt/stockage/packages/f32/NetworkManager-libreswan/po/nl.po | 
- | [pl]({{< ref "/f32/language/pl.md" >}}) | 465 | 465 | 100.0 | /mnt/stockage/packages/f32/NetworkManager-libreswan/po/pl.po | 
- | [pt_BR]({{< ref "/f32/language/pt_BR.md" >}}) | 465 | 465 | 100.0 | /mnt/stockage/packages/f32/NetworkManager-libreswan/po/pt_BR.po | 
- | [zh_Hans]({{< ref "/f32/language/zh_Hans.md" >}}) | 465 | 465 | 100.0 | /mnt/stockage/packages/f32/NetworkManager-libreswan/po/zh_CN.po | 
- | [de]({{< ref "/f32/language/de.md" >}}) | 458 | 465 | 98.5 | /mnt/stockage/packages/f32/NetworkManager-libreswan/po/de.po | 
- | [ru]({{< ref "/f32/language/ru.md" >}}) | 457 | 465 | 98.3 | /mnt/stockage/packages/f32/NetworkManager-libreswan/po/ru.po | 
- | [zh_Hant]({{< ref "/f32/language/zh_Hant.md" >}}) | 457 | 465 | 98.3 | /mnt/stockage/packages/f32/NetworkManager-libreswan/po/zh_TW.po | 
- | [ko]({{< ref "/f32/language/ko.md" >}}) | 456 | 465 | 98.1 | /mnt/stockage/packages/f32/NetworkManager-libreswan/po/ko.po | 
- | [id]({{< ref "/f32/language/id.md" >}}) | 256 | 465 | 55.1 | /mnt/stockage/packages/f32/NetworkManager-libreswan/po/id.po | 
- | [sv]({{< ref "/f32/language/sv.md" >}}) | 256 | 465 | 55.1 | /mnt/stockage/packages/f32/NetworkManager-libreswan/po/sv.po | 
- | [ca]({{< ref "/f32/language/ca.md" >}}) | 240 | 465 | 51.6 | /mnt/stockage/packages/f32/NetworkManager-libreswan/po/ca.po | 
- | [lv]({{< ref "/f32/language/lv.md" >}}) | 240 | 465 | 51.6 | /mnt/stockage/packages/f32/NetworkManager-libreswan/po/lv.po | 
- | [sr]({{< ref "/f32/language/sr.md" >}}) | 480 | 930 | 51.6 | /mnt/stockage/packages/f32/NetworkManager-libreswan/po/sr.po/mnt/stockage/packages/f32/NetworkManager-libreswan/po/sr@latin.po | 
- | [fur]({{< ref "/f32/language/fur.md" >}}) | 234 | 465 | 50.3 | /mnt/stockage/packages/f32/NetworkManager-libreswan/po/fur.po | 
- | [fi]({{< ref "/f32/language/fi.md" >}}) | 84 | 465 | 18.1 | /mnt/stockage/packages/f32/NetworkManager-libreswan/po/fi.po | 
- | [el]({{< ref "/f32/language/el.md" >}}) | 70 | 465 | 15.1 | /mnt/stockage/packages/f32/NetworkManager-libreswan/po/el.po | 
- | [pt]({{< ref "/f32/language/pt.md" >}}) | 69 | 465 | 14.8 | /mnt/stockage/packages/f32/NetworkManager-libreswan/po/pt.po | 
- | [bs]({{< ref "/f32/language/bs.md" >}}) | 62 | 465 | 13.3 | /mnt/stockage/packages/f32/NetworkManager-libreswan/po/bs.po | 
- | [eu]({{< ref "/f32/language/eu.md" >}}) | 62 | 465 | 13.3 | /mnt/stockage/packages/f32/NetworkManager-libreswan/po/eu.po | 
- | [tr]({{< ref "/f32/language/tr.md" >}}) | 62 | 465 | 13.3 | /mnt/stockage/packages/f32/NetworkManager-libreswan/po/tr.po | 
- | [gl]({{< ref "/f32/language/gl.md" >}}) | 31 | 465 | 6.7 | /mnt/stockage/packages/f32/NetworkManager-libreswan/po/gl.po | 
- | [sl]({{< ref "/f32/language/sl.md" >}}) | 31 | 465 | 6.7 | /mnt/stockage/packages/f32/NetworkManager-libreswan/po/sl.po | 
- | [oc]({{< ref "/f32/language/oc.md" >}}) | 25 | 465 | 5.4 | /mnt/stockage/packages/f32/NetworkManager-libreswan/po/oc.po | 
- | [et]({{< ref "/f32/language/et.md" >}}) | 14 | 465 | 3.0 | /mnt/stockage/packages/f32/NetworkManager-libreswan/po/et.po | 
- | [gu]({{< ref "/f32/language/gu.md" >}}) | 14 | 465 | 3.0 | /mnt/stockage/packages/f32/NetworkManager-libreswan/po/gu.po | 
- | [mr]({{< ref "/f32/language/mr.md" >}}) | 14 | 465 | 3.0 | /mnt/stockage/packages/f32/NetworkManager-libreswan/po/mr.po | 
- | [or]({{< ref "/f32/language/or.md" >}}) | 14 | 465 | 3.0 | /mnt/stockage/packages/f32/NetworkManager-libreswan/po/or.po | 
- | [pa]({{< ref "/f32/language/pa.md" >}}) | 14 | 465 | 3.0 | /mnt/stockage/packages/f32/NetworkManager-libreswan/po/pa.po | 
- | [ta]({{< ref "/f32/language/ta.md" >}}) | 14 | 465 | 3.0 | /mnt/stockage/packages/f32/NetworkManager-libreswan/po/ta.po | 
- | [te]({{< ref "/f32/language/te.md" >}}) | 14 | 465 | 3.0 | /mnt/stockage/packages/f32/NetworkManager-libreswan/po/te.po | 
- | [zh_Hant_HK]({{< ref "/f32/language/zh_Hant_HK.md" >}}) | 14 | 465 | 3.0 | /mnt/stockage/packages/f32/NetworkManager-libreswan/po/zh_HK.po | 
- | [bg]({{< ref "/f32/language/bg.md" >}}) | 8 | 465 | 1.7 | /mnt/stockage/packages/f32/NetworkManager-libreswan/po/bg.po | 
- | [mk]({{< ref "/f32/language/mk.md" >}}) | 8 | 465 | 1.7 | /mnt/stockage/packages/f32/NetworkManager-libreswan/po/mk.po | 
- | [en_GB]({{< ref "/f32/language/en_GB.md" >}}) | 7 | 465 | 1.5 | /mnt/stockage/packages/f32/NetworkManager-libreswan/po/en_GB.po | 
- | [nb_NO]({{< ref "/f32/language/nb_NO.md" >}}) | 7 | 465 | 1.5 | /mnt/stockage/packages/f32/NetworkManager-libreswan/po/nb.po | 
- | [vi]({{< ref "/f32/language/vi.md" >}}) | 7 | 465 | 1.5 | /mnt/stockage/packages/f32/NetworkManager-libreswan/po/vi.po | 
- | [ar]({{< ref "/f32/language/ar.md" >}}) | 5 | 465 | 1.1 | /mnt/stockage/packages/f32/NetworkManager-libreswan/po/ar.po | 
- | [dz]({{< ref "/f32/language/dz.md" >}}) | 5 | 465 | 1.1 | /mnt/stockage/packages/f32/NetworkManager-libreswan/po/dz.po | 
- | [ka]({{< ref "/f32/language/ka.md" >}}) | 5 | 465 | 1.1 | /mnt/stockage/packages/f32/NetworkManager-libreswan/po/ka.po | 
- | [th]({{< ref "/f32/language/th.md" >}}) | 5 | 465 | 1.1 | /mnt/stockage/packages/f32/NetworkManager-libreswan/po/th.po | 
- | [uk]({{< ref "/f32/language/uk.md" >}}) | 5 | 465 | 1.1 | /mnt/stockage/packages/f32/NetworkManager-libreswan/po/uk.po | 
+ | [cs](/f32/language/cs) | 465 | 465 | 100.0 | /mnt/stockage/packages/f32/NetworkManager-libreswan/po/cs.po | 
+ | [da](/f32/language/da) | 465 | 465 | 100.0 | /mnt/stockage/packages/f32/NetworkManager-libreswan/po/da.po | 
+ | [es](/f32/language/es) | 465 | 465 | 100.0 | /mnt/stockage/packages/f32/NetworkManager-libreswan/po/es.po | 
+ | [fr](/f32/language/fr) | 465 | 465 | 100.0 | /mnt/stockage/packages/f32/NetworkManager-libreswan/po/fr.po | 
+ | [hu](/f32/language/hu) | 465 | 465 | 100.0 | /mnt/stockage/packages/f32/NetworkManager-libreswan/po/hu.po | 
+ | [it](/f32/language/it) | 465 | 465 | 100.0 | /mnt/stockage/packages/f32/NetworkManager-libreswan/po/it.po | 
+ | [ja](/f32/language/ja) | 465 | 465 | 100.0 | /mnt/stockage/packages/f32/NetworkManager-libreswan/po/ja.po | 
+ | [lt](/f32/language/lt) | 465 | 465 | 100.0 | /mnt/stockage/packages/f32/NetworkManager-libreswan/po/lt.po | 
+ | [nl](/f32/language/nl) | 465 | 465 | 100.0 | /mnt/stockage/packages/f32/NetworkManager-libreswan/po/nl.po | 
+ | [pl](/f32/language/pl) | 465 | 465 | 100.0 | /mnt/stockage/packages/f32/NetworkManager-libreswan/po/pl.po | 
+ | [pt_BR](/f32/language/pt_BR) | 465 | 465 | 100.0 | /mnt/stockage/packages/f32/NetworkManager-libreswan/po/pt_BR.po | 
+ | [zh_Hans](/f32/language/zh_Hans) | 465 | 465 | 100.0 | /mnt/stockage/packages/f32/NetworkManager-libreswan/po/zh_CN.po | 
+ | [de](/f32/language/de) | 458 | 465 | 98.5 | /mnt/stockage/packages/f32/NetworkManager-libreswan/po/de.po | 
+ | [ru](/f32/language/ru) | 457 | 465 | 98.3 | /mnt/stockage/packages/f32/NetworkManager-libreswan/po/ru.po | 
+ | [zh_Hant](/f32/language/zh_Hant) | 457 | 465 | 98.3 | /mnt/stockage/packages/f32/NetworkManager-libreswan/po/zh_TW.po | 
+ | [ko](/f32/language/ko) | 456 | 465 | 98.1 | /mnt/stockage/packages/f32/NetworkManager-libreswan/po/ko.po | 
+ | [id](/f32/language/id) | 256 | 465 | 55.1 | /mnt/stockage/packages/f32/NetworkManager-libreswan/po/id.po | 
+ | [sv](/f32/language/sv) | 256 | 465 | 55.1 | /mnt/stockage/packages/f32/NetworkManager-libreswan/po/sv.po | 
+ | [ca](/f32/language/ca) | 240 | 465 | 51.6 | /mnt/stockage/packages/f32/NetworkManager-libreswan/po/ca.po | 
+ | [lv](/f32/language/lv) | 240 | 465 | 51.6 | /mnt/stockage/packages/f32/NetworkManager-libreswan/po/lv.po | 
+ | [sr](/f32/language/sr) | 480 | 930 | 51.6 | /mnt/stockage/packages/f32/NetworkManager-libreswan/po/sr.po/mnt/stockage/packages/f32/NetworkManager-libreswan/po/sr@latin.po | 
+ | [fur](/f32/language/fur) | 234 | 465 | 50.3 | /mnt/stockage/packages/f32/NetworkManager-libreswan/po/fur.po | 
+ | [fi](/f32/language/fi) | 84 | 465 | 18.1 | /mnt/stockage/packages/f32/NetworkManager-libreswan/po/fi.po | 
+ | [el](/f32/language/el) | 70 | 465 | 15.1 | /mnt/stockage/packages/f32/NetworkManager-libreswan/po/el.po | 
+ | [pt](/f32/language/pt) | 69 | 465 | 14.8 | /mnt/stockage/packages/f32/NetworkManager-libreswan/po/pt.po | 
+ | [bs](/f32/language/bs) | 62 | 465 | 13.3 | /mnt/stockage/packages/f32/NetworkManager-libreswan/po/bs.po | 
+ | [eu](/f32/language/eu) | 62 | 465 | 13.3 | /mnt/stockage/packages/f32/NetworkManager-libreswan/po/eu.po | 
+ | [tr](/f32/language/tr) | 62 | 465 | 13.3 | /mnt/stockage/packages/f32/NetworkManager-libreswan/po/tr.po | 
+ | [gl](/f32/language/gl) | 31 | 465 | 6.7 | /mnt/stockage/packages/f32/NetworkManager-libreswan/po/gl.po | 
+ | [sl](/f32/language/sl) | 31 | 465 | 6.7 | /mnt/stockage/packages/f32/NetworkManager-libreswan/po/sl.po | 
+ | [oc](/f32/language/oc) | 25 | 465 | 5.4 | /mnt/stockage/packages/f32/NetworkManager-libreswan/po/oc.po | 
+ | [et](/f32/language/et) | 14 | 465 | 3.0 | /mnt/stockage/packages/f32/NetworkManager-libreswan/po/et.po | 
+ | [gu](/f32/language/gu) | 14 | 465 | 3.0 | /mnt/stockage/packages/f32/NetworkManager-libreswan/po/gu.po | 
+ | [mr](/f32/language/mr) | 14 | 465 | 3.0 | /mnt/stockage/packages/f32/NetworkManager-libreswan/po/mr.po | 
+ | [or](/f32/language/or) | 14 | 465 | 3.0 | /mnt/stockage/packages/f32/NetworkManager-libreswan/po/or.po | 
+ | [pa](/f32/language/pa) | 14 | 465 | 3.0 | /mnt/stockage/packages/f32/NetworkManager-libreswan/po/pa.po | 
+ | [ta](/f32/language/ta) | 14 | 465 | 3.0 | /mnt/stockage/packages/f32/NetworkManager-libreswan/po/ta.po | 
+ | [te](/f32/language/te) | 14 | 465 | 3.0 | /mnt/stockage/packages/f32/NetworkManager-libreswan/po/te.po | 
+ | [zh_Hant_HK](/f32/language/zh_Hant_HK) | 14 | 465 | 3.0 | /mnt/stockage/packages/f32/NetworkManager-libreswan/po/zh_HK.po | 
+ | [bg](/f32/language/bg) | 8 | 465 | 1.7 | /mnt/stockage/packages/f32/NetworkManager-libreswan/po/bg.po | 
+ | [mk](/f32/language/mk) | 8 | 465 | 1.7 | /mnt/stockage/packages/f32/NetworkManager-libreswan/po/mk.po | 
+ | [en_GB](/f32/language/en_GB) | 7 | 465 | 1.5 | /mnt/stockage/packages/f32/NetworkManager-libreswan/po/en_GB.po | 
+ | [nb_NO](/f32/language/nb_NO) | 7 | 465 | 1.5 | /mnt/stockage/packages/f32/NetworkManager-libreswan/po/nb.po | 
+ | [vi](/f32/language/vi) | 7 | 465 | 1.5 | /mnt/stockage/packages/f32/NetworkManager-libreswan/po/vi.po | 
+ | [ar](/f32/language/ar) | 5 | 465 | 1.1 | /mnt/stockage/packages/f32/NetworkManager-libreswan/po/ar.po | 
+ | [dz](/f32/language/dz) | 5 | 465 | 1.1 | /mnt/stockage/packages/f32/NetworkManager-libreswan/po/dz.po | 
+ | [ka](/f32/language/ka) | 5 | 465 | 1.1 | /mnt/stockage/packages/f32/NetworkManager-libreswan/po/ka.po | 
+ | [th](/f32/language/th) | 5 | 465 | 1.1 | /mnt/stockage/packages/f32/NetworkManager-libreswan/po/th.po | 
+ | [uk](/f32/language/uk) | 5 | 465 | 1.1 | /mnt/stockage/packages/f32/NetworkManager-libreswan/po/uk.po | 
 {.sortable}
 
 

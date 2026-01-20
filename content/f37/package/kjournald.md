@@ -18,33 +18,33 @@ The package kjournald (version 23.04.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f37/language/ca.md" >}}) | 116 | 116 | 100.0 | /mnt/stockage/packages/f37/kjournald/po/ca/kjournald.po | 
- | [ca@valencia]({{< ref "/f37/language/ca@valencia.md" >}}) | 116 | 116 | 100.0 | /mnt/stockage/packages/f37/kjournald/po/ca@valencia/kjournald.po | 
- | [de]({{< ref "/f37/language/de.md" >}}) | 116 | 116 | 100.0 | /mnt/stockage/packages/f37/kjournald/po/de/kjournald.po | 
- | [en_GB]({{< ref "/f37/language/en_GB.md" >}}) | 116 | 116 | 100.0 | /mnt/stockage/packages/f37/kjournald/po/en_GB/kjournald.po | 
- | [es]({{< ref "/f37/language/es.md" >}}) | 116 | 116 | 100.0 | /mnt/stockage/packages/f37/kjournald/po/es/kjournald.po | 
- | [eu]({{< ref "/f37/language/eu.md" >}}) | 116 | 116 | 100.0 | /mnt/stockage/packages/f37/kjournald/po/eu/kjournald.po | 
- | [fi]({{< ref "/f37/language/fi.md" >}}) | 116 | 116 | 100.0 | /mnt/stockage/packages/f37/kjournald/po/fi/kjournald.po | 
- | [fr]({{< ref "/f37/language/fr.md" >}}) | 116 | 116 | 100.0 | /mnt/stockage/packages/f37/kjournald/po/fr/kjournald.po | 
- | [gl]({{< ref "/f37/language/gl.md" >}}) | 116 | 116 | 100.0 | /mnt/stockage/packages/f37/kjournald/po/gl/kjournald.po | 
- | [it]({{< ref "/f37/language/it.md" >}}) | 116 | 116 | 100.0 | /mnt/stockage/packages/f37/kjournald/po/it/kjournald.po | 
- | [ka]({{< ref "/f37/language/ka.md" >}}) | 116 | 116 | 100.0 | /mnt/stockage/packages/f37/kjournald/po/ka/kjournald.po | 
- | [ko]({{< ref "/f37/language/ko.md" >}}) | 116 | 116 | 100.0 | /mnt/stockage/packages/f37/kjournald/po/ko/kjournald.po | 
- | [nl]({{< ref "/f37/language/nl.md" >}}) | 116 | 116 | 100.0 | /mnt/stockage/packages/f37/kjournald/po/nl/kjournald.po | 
- | [pl]({{< ref "/f37/language/pl.md" >}}) | 116 | 116 | 100.0 | /mnt/stockage/packages/f37/kjournald/po/pl/kjournald.po | 
- | [pt]({{< ref "/f37/language/pt.md" >}}) | 116 | 116 | 100.0 | /mnt/stockage/packages/f37/kjournald/po/pt/kjournald.po | 
- | [ru]({{< ref "/f37/language/ru.md" >}}) | 116 | 116 | 100.0 | /mnt/stockage/packages/f37/kjournald/po/ru/kjournald.po | 
- | [sl]({{< ref "/f37/language/sl.md" >}}) | 116 | 116 | 100.0 | /mnt/stockage/packages/f37/kjournald/po/sl/kjournald.po | 
- | [tr]({{< ref "/f37/language/tr.md" >}}) | 116 | 116 | 100.0 | /mnt/stockage/packages/f37/kjournald/po/tr/kjournald.po | 
- | [uk]({{< ref "/f37/language/uk.md" >}}) | 116 | 116 | 100.0 | /mnt/stockage/packages/f37/kjournald/po/uk/kjournald.po | 
- | [ie]({{< ref "/f37/language/ie.md" >}}) | 113 | 116 | 97.4 | /mnt/stockage/packages/f37/kjournald/po/ie/kjournald.po | 
- | [sv]({{< ref "/f37/language/sv.md" >}}) | 99 | 116 | 85.3 | /mnt/stockage/packages/f37/kjournald/po/sv/kjournald.po | 
- | [zh_Hans]({{< ref "/f37/language/zh_Hans.md" >}}) | 99 | 116 | 85.3 | /mnt/stockage/packages/f37/kjournald/po/zh_CN/kjournald.po | 
- | [cs]({{< ref "/f37/language/cs.md" >}}) | 73 | 116 | 62.9 | /mnt/stockage/packages/f37/kjournald/po/cs/kjournald.po | 
- | [sk]({{< ref "/f37/language/sk.md" >}}) | 26 | 116 | 22.4 | /mnt/stockage/packages/f37/kjournald/po/sk/kjournald.po | 
- | [ja]({{< ref "/f37/language/ja.md" >}}) | 0 | 116 | 0.0 | /mnt/stockage/packages/f37/kjournald/po/ja/kjournald.po | 
- | [lt]({{< ref "/f37/language/lt.md" >}}) | 0 | 116 | 0.0 | /mnt/stockage/packages/f37/kjournald/po/lt/kjournald.po | 
- | [zh_Hant]({{< ref "/f37/language/zh_Hant.md" >}}) | 0 | 116 | 0.0 | /mnt/stockage/packages/f37/kjournald/po/zh_TW/kjournald.po | 
+ | [ca](/f37/language/ca) | 116 | 116 | 100.0 | /mnt/stockage/packages/f37/kjournald/po/ca/kjournald.po | 
+ | [ca@valencia](/f37/language/ca@valencia) | 116 | 116 | 100.0 | /mnt/stockage/packages/f37/kjournald/po/ca@valencia/kjournald.po | 
+ | [de](/f37/language/de) | 116 | 116 | 100.0 | /mnt/stockage/packages/f37/kjournald/po/de/kjournald.po | 
+ | [en_GB](/f37/language/en_GB) | 116 | 116 | 100.0 | /mnt/stockage/packages/f37/kjournald/po/en_GB/kjournald.po | 
+ | [es](/f37/language/es) | 116 | 116 | 100.0 | /mnt/stockage/packages/f37/kjournald/po/es/kjournald.po | 
+ | [eu](/f37/language/eu) | 116 | 116 | 100.0 | /mnt/stockage/packages/f37/kjournald/po/eu/kjournald.po | 
+ | [fi](/f37/language/fi) | 116 | 116 | 100.0 | /mnt/stockage/packages/f37/kjournald/po/fi/kjournald.po | 
+ | [fr](/f37/language/fr) | 116 | 116 | 100.0 | /mnt/stockage/packages/f37/kjournald/po/fr/kjournald.po | 
+ | [gl](/f37/language/gl) | 116 | 116 | 100.0 | /mnt/stockage/packages/f37/kjournald/po/gl/kjournald.po | 
+ | [it](/f37/language/it) | 116 | 116 | 100.0 | /mnt/stockage/packages/f37/kjournald/po/it/kjournald.po | 
+ | [ka](/f37/language/ka) | 116 | 116 | 100.0 | /mnt/stockage/packages/f37/kjournald/po/ka/kjournald.po | 
+ | [ko](/f37/language/ko) | 116 | 116 | 100.0 | /mnt/stockage/packages/f37/kjournald/po/ko/kjournald.po | 
+ | [nl](/f37/language/nl) | 116 | 116 | 100.0 | /mnt/stockage/packages/f37/kjournald/po/nl/kjournald.po | 
+ | [pl](/f37/language/pl) | 116 | 116 | 100.0 | /mnt/stockage/packages/f37/kjournald/po/pl/kjournald.po | 
+ | [pt](/f37/language/pt) | 116 | 116 | 100.0 | /mnt/stockage/packages/f37/kjournald/po/pt/kjournald.po | 
+ | [ru](/f37/language/ru) | 116 | 116 | 100.0 | /mnt/stockage/packages/f37/kjournald/po/ru/kjournald.po | 
+ | [sl](/f37/language/sl) | 116 | 116 | 100.0 | /mnt/stockage/packages/f37/kjournald/po/sl/kjournald.po | 
+ | [tr](/f37/language/tr) | 116 | 116 | 100.0 | /mnt/stockage/packages/f37/kjournald/po/tr/kjournald.po | 
+ | [uk](/f37/language/uk) | 116 | 116 | 100.0 | /mnt/stockage/packages/f37/kjournald/po/uk/kjournald.po | 
+ | [ie](/f37/language/ie) | 113 | 116 | 97.4 | /mnt/stockage/packages/f37/kjournald/po/ie/kjournald.po | 
+ | [sv](/f37/language/sv) | 99 | 116 | 85.3 | /mnt/stockage/packages/f37/kjournald/po/sv/kjournald.po | 
+ | [zh_Hans](/f37/language/zh_Hans) | 99 | 116 | 85.3 | /mnt/stockage/packages/f37/kjournald/po/zh_CN/kjournald.po | 
+ | [cs](/f37/language/cs) | 73 | 116 | 62.9 | /mnt/stockage/packages/f37/kjournald/po/cs/kjournald.po | 
+ | [sk](/f37/language/sk) | 26 | 116 | 22.4 | /mnt/stockage/packages/f37/kjournald/po/sk/kjournald.po | 
+ | [ja](/f37/language/ja) | 0 | 116 | 0.0 | /mnt/stockage/packages/f37/kjournald/po/ja/kjournald.po | 
+ | [lt](/f37/language/lt) | 0 | 116 | 0.0 | /mnt/stockage/packages/f37/kjournald/po/lt/kjournald.po | 
+ | [zh_Hant](/f37/language/zh_Hant) | 0 | 116 | 0.0 | /mnt/stockage/packages/f37/kjournald/po/zh_TW/kjournald.po | 
 {.sortable}
 
 

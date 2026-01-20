@@ -18,35 +18,35 @@ The package warzone2100 (version 2.3.9):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [nl]({{< ref "/f15/language/nl.md" >}}) | 12817 | 12822 | 100.0 | /mnt/stockage/packages/f15/warzone2100/po/nl.po | 
- | [pt_BR]({{< ref "/f15/language/pt_BR.md" >}}) | 12817 | 12822 | 100.0 | /mnt/stockage/packages/f15/warzone2100/po/pt_BR.po | 
- | [tr]({{< ref "/f15/language/tr.md" >}}) | 12817 | 12822 | 100.0 | /mnt/stockage/packages/f15/warzone2100/po/tr.po | 
- | [de]({{< ref "/f15/language/de.md" >}}) | 12798 | 12822 | 99.8 | /mnt/stockage/packages/f15/warzone2100/po/de.po | 
- | [es]({{< ref "/f15/language/es.md" >}}) | 12797 | 12822 | 99.8 | /mnt/stockage/packages/f15/warzone2100/po/es.po | 
- | [it]({{< ref "/f15/language/it.md" >}}) | 12756 | 12822 | 99.5 | /mnt/stockage/packages/f15/warzone2100/po/it.po | 
- | [pl]({{< ref "/f15/language/pl.md" >}}) | 12754 | 12822 | 99.5 | /mnt/stockage/packages/f15/warzone2100/po/pl.po | 
- | [ru]({{< ref "/f15/language/ru.md" >}}) | 12751 | 12822 | 99.4 | /mnt/stockage/packages/f15/warzone2100/po/ru.po | 
- | [ko]({{< ref "/f15/language/ko.md" >}}) | 12744 | 12822 | 99.4 | /mnt/stockage/packages/f15/warzone2100/po/ko.po | 
- | [ca]({{< ref "/f15/language/ca.md" >}}) | 12651 | 12822 | 98.7 | /mnt/stockage/packages/f15/warzone2100/po/ca_ES.po | 
- | [hu]({{< ref "/f15/language/hu.md" >}}) | 12525 | 12822 | 97.7 | /mnt/stockage/packages/f15/warzone2100/po/hu.po | 
- | [pt]({{< ref "/f15/language/pt.md" >}}) | 11259 | 12822 | 87.8 | /mnt/stockage/packages/f15/warzone2100/po/pt.po | 
- | [et]({{< ref "/f15/language/et.md" >}}) | 10796 | 12822 | 84.2 | /mnt/stockage/packages/f15/warzone2100/po/et_EE.po | 
- | [uk]({{< ref "/f15/language/uk.md" >}}) | 10041 | 12822 | 78.3 | /mnt/stockage/packages/f15/warzone2100/po/uk_UA.po | 
- | [fr]({{< ref "/f15/language/fr.md" >}}) | 9738 | 12822 | 75.9 | /mnt/stockage/packages/f15/warzone2100/po/fr.po | 
- | [ro]({{< ref "/f15/language/ro.md" >}}) | 9566 | 12822 | 74.6 | /mnt/stockage/packages/f15/warzone2100/po/ro.po | 
- | [sl]({{< ref "/f15/language/sl.md" >}}) | 9323 | 12822 | 72.7 | /mnt/stockage/packages/f15/warzone2100/po/sl.po | 
- | [zh_Hans]({{< ref "/f15/language/zh_Hans.md" >}}) | 9231 | 12822 | 72.0 | /mnt/stockage/packages/f15/warzone2100/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f15/language/zh_Hant.md" >}}) | 9004 | 12822 | 70.2 | /mnt/stockage/packages/f15/warzone2100/po/zh_TW.po | 
- | [en_GB]({{< ref "/f15/language/en_GB.md" >}}) | 8397 | 12822 | 65.5 | /mnt/stockage/packages/f15/warzone2100/po/en_GB.po | 
- | [hr]({{< ref "/f15/language/hr.md" >}}) | 5694 | 12822 | 44.4 | /mnt/stockage/packages/f15/warzone2100/po/hr.po | 
- | [da]({{< ref "/f15/language/da.md" >}}) | 2532 | 12822 | 19.7 | /mnt/stockage/packages/f15/warzone2100/po/da.po | 
- | [cs]({{< ref "/f15/language/cs.md" >}}) | 2719 | 25644 | 10.6 | /mnt/stockage/packages/f15/warzone2100/po/cs.po/mnt/stockage/packages/f15/warzone2100/po/sk.po | 
- | [fy]({{< ref "/f15/language/fy.md" >}}) | 542 | 12822 | 4.2 | /mnt/stockage/packages/f15/warzone2100/po/fy.po | 
- | [nb_NO]({{< ref "/f15/language/nb_NO.md" >}}) | 372 | 12822 | 2.9 | /mnt/stockage/packages/f15/warzone2100/po/nb.po | 
- | [fi]({{< ref "/f15/language/fi.md" >}}) | 329 | 12822 | 2.6 | /mnt/stockage/packages/f15/warzone2100/po/fi.po | 
- | [lt]({{< ref "/f15/language/lt.md" >}}) | 182 | 12822 | 1.4 | /mnt/stockage/packages/f15/warzone2100/po/lt.po | 
- | [ga]({{< ref "/f15/language/ga.md" >}}) | 100 | 12822 | 0.8 | /mnt/stockage/packages/f15/warzone2100/po/ga.po | 
- | [la]({{< ref "/f15/language/la.md" >}}) | 9 | 12822 | 0.1 | /mnt/stockage/packages/f15/warzone2100/po/la.po | 
+ | [nl](/f15/language/nl) | 12817 | 12822 | 100.0 | /mnt/stockage/packages/f15/warzone2100/po/nl.po | 
+ | [pt_BR](/f15/language/pt_BR) | 12817 | 12822 | 100.0 | /mnt/stockage/packages/f15/warzone2100/po/pt_BR.po | 
+ | [tr](/f15/language/tr) | 12817 | 12822 | 100.0 | /mnt/stockage/packages/f15/warzone2100/po/tr.po | 
+ | [de](/f15/language/de) | 12798 | 12822 | 99.8 | /mnt/stockage/packages/f15/warzone2100/po/de.po | 
+ | [es](/f15/language/es) | 12797 | 12822 | 99.8 | /mnt/stockage/packages/f15/warzone2100/po/es.po | 
+ | [it](/f15/language/it) | 12756 | 12822 | 99.5 | /mnt/stockage/packages/f15/warzone2100/po/it.po | 
+ | [pl](/f15/language/pl) | 12754 | 12822 | 99.5 | /mnt/stockage/packages/f15/warzone2100/po/pl.po | 
+ | [ru](/f15/language/ru) | 12751 | 12822 | 99.4 | /mnt/stockage/packages/f15/warzone2100/po/ru.po | 
+ | [ko](/f15/language/ko) | 12744 | 12822 | 99.4 | /mnt/stockage/packages/f15/warzone2100/po/ko.po | 
+ | [ca](/f15/language/ca) | 12651 | 12822 | 98.7 | /mnt/stockage/packages/f15/warzone2100/po/ca_ES.po | 
+ | [hu](/f15/language/hu) | 12525 | 12822 | 97.7 | /mnt/stockage/packages/f15/warzone2100/po/hu.po | 
+ | [pt](/f15/language/pt) | 11259 | 12822 | 87.8 | /mnt/stockage/packages/f15/warzone2100/po/pt.po | 
+ | [et](/f15/language/et) | 10796 | 12822 | 84.2 | /mnt/stockage/packages/f15/warzone2100/po/et_EE.po | 
+ | [uk](/f15/language/uk) | 10041 | 12822 | 78.3 | /mnt/stockage/packages/f15/warzone2100/po/uk_UA.po | 
+ | [fr](/f15/language/fr) | 9738 | 12822 | 75.9 | /mnt/stockage/packages/f15/warzone2100/po/fr.po | 
+ | [ro](/f15/language/ro) | 9566 | 12822 | 74.6 | /mnt/stockage/packages/f15/warzone2100/po/ro.po | 
+ | [sl](/f15/language/sl) | 9323 | 12822 | 72.7 | /mnt/stockage/packages/f15/warzone2100/po/sl.po | 
+ | [zh_Hans](/f15/language/zh_Hans) | 9231 | 12822 | 72.0 | /mnt/stockage/packages/f15/warzone2100/po/zh_CN.po | 
+ | [zh_Hant](/f15/language/zh_Hant) | 9004 | 12822 | 70.2 | /mnt/stockage/packages/f15/warzone2100/po/zh_TW.po | 
+ | [en_GB](/f15/language/en_GB) | 8397 | 12822 | 65.5 | /mnt/stockage/packages/f15/warzone2100/po/en_GB.po | 
+ | [hr](/f15/language/hr) | 5694 | 12822 | 44.4 | /mnt/stockage/packages/f15/warzone2100/po/hr.po | 
+ | [da](/f15/language/da) | 2532 | 12822 | 19.7 | /mnt/stockage/packages/f15/warzone2100/po/da.po | 
+ | [cs](/f15/language/cs) | 2719 | 25644 | 10.6 | /mnt/stockage/packages/f15/warzone2100/po/cs.po/mnt/stockage/packages/f15/warzone2100/po/sk.po | 
+ | [fy](/f15/language/fy) | 542 | 12822 | 4.2 | /mnt/stockage/packages/f15/warzone2100/po/fy.po | 
+ | [nb_NO](/f15/language/nb_NO) | 372 | 12822 | 2.9 | /mnt/stockage/packages/f15/warzone2100/po/nb.po | 
+ | [fi](/f15/language/fi) | 329 | 12822 | 2.6 | /mnt/stockage/packages/f15/warzone2100/po/fi.po | 
+ | [lt](/f15/language/lt) | 182 | 12822 | 1.4 | /mnt/stockage/packages/f15/warzone2100/po/lt.po | 
+ | [ga](/f15/language/ga) | 100 | 12822 | 0.8 | /mnt/stockage/packages/f15/warzone2100/po/ga.po | 
+ | [la](/f15/language/la) | 9 | 12822 | 0.1 | /mnt/stockage/packages/f15/warzone2100/po/la.po | 
 {.sortable}
 
 

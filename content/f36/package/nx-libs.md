@@ -18,10 +18,10 @@ The package nx-libs (version 3.5.99.26):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f36/language/de.md" >}}) | 258 | 258 | 100.0 | /mnt/stockage/packages/f36/nx-libs/nx-X11/extras/Mesa_6.4.2/src/mesa/drivers/dri/common/xmlpool/de.po | 
- | [es]({{< ref "/f36/language/es.md" >}}) | 258 | 258 | 100.0 | /mnt/stockage/packages/f36/nx-libs/nx-X11/extras/Mesa_6.4.2/src/mesa/drivers/dri/common/xmlpool/es.po | 
- | [fr]({{< ref "/f36/language/fr.md" >}}) | 258 | 258 | 100.0 | /mnt/stockage/packages/f36/nx-libs/nx-X11/extras/Mesa_6.4.2/src/mesa/drivers/dri/common/xmlpool/fr.po | 
- | [nl]({{< ref "/f36/language/nl.md" >}}) | 258 | 258 | 100.0 | /mnt/stockage/packages/f36/nx-libs/nx-X11/extras/Mesa_6.4.2/src/mesa/drivers/dri/common/xmlpool/nl.po | 
+ | [de](/f36/language/de) | 258 | 258 | 100.0 | /mnt/stockage/packages/f36/nx-libs/nx-X11/extras/Mesa_6.4.2/src/mesa/drivers/dri/common/xmlpool/de.po | 
+ | [es](/f36/language/es) | 258 | 258 | 100.0 | /mnt/stockage/packages/f36/nx-libs/nx-X11/extras/Mesa_6.4.2/src/mesa/drivers/dri/common/xmlpool/es.po | 
+ | [fr](/f36/language/fr) | 258 | 258 | 100.0 | /mnt/stockage/packages/f36/nx-libs/nx-X11/extras/Mesa_6.4.2/src/mesa/drivers/dri/common/xmlpool/fr.po | 
+ | [nl](/f36/language/nl) | 258 | 258 | 100.0 | /mnt/stockage/packages/f36/nx-libs/nx-X11/extras/Mesa_6.4.2/src/mesa/drivers/dri/common/xmlpool/nl.po | 
 {.sortable}
 
 

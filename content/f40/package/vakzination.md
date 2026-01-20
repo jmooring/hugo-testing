@@ -18,42 +18,42 @@ The package vakzination (version 23.01.0^git20241228.851a9fb):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f40/language/ca.md" >}}) | 147 | 147 | 100.0 | /mnt/stockage/packages/f40/vakzination/po/ca/vakzination.po | 
- | [ca@valencia]({{< ref "/f40/language/ca@valencia.md" >}}) | 147 | 147 | 100.0 | /mnt/stockage/packages/f40/vakzination/po/ca@valencia/vakzination.po | 
- | [cs]({{< ref "/f40/language/cs.md" >}}) | 147 | 147 | 100.0 | /mnt/stockage/packages/f40/vakzination/po/cs/vakzination.po | 
- | [de]({{< ref "/f40/language/de.md" >}}) | 147 | 147 | 100.0 | /mnt/stockage/packages/f40/vakzination/po/de/vakzination.po | 
- | [en_GB]({{< ref "/f40/language/en_GB.md" >}}) | 147 | 147 | 100.0 | /mnt/stockage/packages/f40/vakzination/po/en_GB/vakzination.po | 
- | [eo]({{< ref "/f40/language/eo.md" >}}) | 147 | 147 | 100.0 | /mnt/stockage/packages/f40/vakzination/po/eo/vakzination.po | 
- | [es]({{< ref "/f40/language/es.md" >}}) | 147 | 147 | 100.0 | /mnt/stockage/packages/f40/vakzination/po/es/vakzination.po | 
- | [eu]({{< ref "/f40/language/eu.md" >}}) | 147 | 147 | 100.0 | /mnt/stockage/packages/f40/vakzination/po/eu/vakzination.po | 
- | [fr]({{< ref "/f40/language/fr.md" >}}) | 147 | 147 | 100.0 | /mnt/stockage/packages/f40/vakzination/po/fr/vakzination.po | 
- | [gl]({{< ref "/f40/language/gl.md" >}}) | 147 | 147 | 100.0 | /mnt/stockage/packages/f40/vakzination/po/gl/vakzination.po | 
- | [he]({{< ref "/f40/language/he.md" >}}) | 147 | 147 | 100.0 | /mnt/stockage/packages/f40/vakzination/po/he/vakzination.po | 
- | [hi]({{< ref "/f40/language/hi.md" >}}) | 147 | 147 | 100.0 | /mnt/stockage/packages/f40/vakzination/po/hi/vakzination.po | 
- | [hu]({{< ref "/f40/language/hu.md" >}}) | 147 | 147 | 100.0 | /mnt/stockage/packages/f40/vakzination/po/hu/vakzination.po | 
- | [ia]({{< ref "/f40/language/ia.md" >}}) | 147 | 147 | 100.0 | /mnt/stockage/packages/f40/vakzination/po/ia/vakzination.po | 
- | [it]({{< ref "/f40/language/it.md" >}}) | 147 | 147 | 100.0 | /mnt/stockage/packages/f40/vakzination/po/it/vakzination.po | 
- | [ka]({{< ref "/f40/language/ka.md" >}}) | 147 | 147 | 100.0 | /mnt/stockage/packages/f40/vakzination/po/ka/vakzination.po | 
- | [ko]({{< ref "/f40/language/ko.md" >}}) | 147 | 147 | 100.0 | /mnt/stockage/packages/f40/vakzination/po/ko/vakzination.po | 
- | [lv]({{< ref "/f40/language/lv.md" >}}) | 147 | 147 | 100.0 | /mnt/stockage/packages/f40/vakzination/po/lv/vakzination.po | 
- | [nl]({{< ref "/f40/language/nl.md" >}}) | 147 | 147 | 100.0 | /mnt/stockage/packages/f40/vakzination/po/nl/vakzination.po | 
- | [pl]({{< ref "/f40/language/pl.md" >}}) | 147 | 147 | 100.0 | /mnt/stockage/packages/f40/vakzination/po/pl/vakzination.po | 
- | [pt]({{< ref "/f40/language/pt.md" >}}) | 147 | 147 | 100.0 | /mnt/stockage/packages/f40/vakzination/po/pt/vakzination.po | 
- | [pt_BR]({{< ref "/f40/language/pt_BR.md" >}}) | 147 | 147 | 100.0 | /mnt/stockage/packages/f40/vakzination/po/pt_BR/vakzination.po | 
- | [ro]({{< ref "/f40/language/ro.md" >}}) | 147 | 147 | 100.0 | /mnt/stockage/packages/f40/vakzination/po/ro/vakzination.po | 
- | [sa]({{< ref "/f40/language/sa.md" >}}) | 147 | 147 | 100.0 | /mnt/stockage/packages/f40/vakzination/po/sa/vakzination.po | 
- | [sl]({{< ref "/f40/language/sl.md" >}}) | 147 | 147 | 100.0 | /mnt/stockage/packages/f40/vakzination/po/sl/vakzination.po | 
- | [sv]({{< ref "/f40/language/sv.md" >}}) | 147 | 147 | 100.0 | /mnt/stockage/packages/f40/vakzination/po/sv/vakzination.po | 
- | [tr]({{< ref "/f40/language/tr.md" >}}) | 147 | 147 | 100.0 | /mnt/stockage/packages/f40/vakzination/po/tr/vakzination.po | 
- | [uk]({{< ref "/f40/language/uk.md" >}}) | 147 | 147 | 100.0 | /mnt/stockage/packages/f40/vakzination/po/uk/vakzination.po | 
- | [zh_Hant]({{< ref "/f40/language/zh_Hant.md" >}}) | 147 | 147 | 100.0 | /mnt/stockage/packages/f40/vakzination/po/zh_TW/vakzination.po | 
- | [el]({{< ref "/f40/language/el.md" >}}) | 89 | 147 | 60.5 | /mnt/stockage/packages/f40/vakzination/po/el/vakzination.po | 
- | [zh_Hans]({{< ref "/f40/language/zh_Hans.md" >}}) | 87 | 147 | 59.2 | /mnt/stockage/packages/f40/vakzination/po/zh_CN/vakzination.po | 
- | [sk]({{< ref "/f40/language/sk.md" >}}) | 79 | 147 | 53.7 | /mnt/stockage/packages/f40/vakzination/po/sk/vakzination.po | 
- | [pa]({{< ref "/f40/language/pa.md" >}}) | 76 | 147 | 51.7 | /mnt/stockage/packages/f40/vakzination/po/pa/vakzination.po | 
- | [ast]({{< ref "/f40/language/ast.md" >}}) | 1 | 147 | 0.7 | /mnt/stockage/packages/f40/vakzination/po/ast/vakzination.po | 
- | [ja]({{< ref "/f40/language/ja.md" >}}) | 0 | 147 | 0.0 | /mnt/stockage/packages/f40/vakzination/po/ja/vakzination.po | 
- | [lt]({{< ref "/f40/language/lt.md" >}}) | 0 | 147 | 0.0 | /mnt/stockage/packages/f40/vakzination/po/lt/vakzination.po | 
+ | [ca](/f40/language/ca) | 147 | 147 | 100.0 | /mnt/stockage/packages/f40/vakzination/po/ca/vakzination.po | 
+ | [ca@valencia](/f40/language/ca@valencia) | 147 | 147 | 100.0 | /mnt/stockage/packages/f40/vakzination/po/ca@valencia/vakzination.po | 
+ | [cs](/f40/language/cs) | 147 | 147 | 100.0 | /mnt/stockage/packages/f40/vakzination/po/cs/vakzination.po | 
+ | [de](/f40/language/de) | 147 | 147 | 100.0 | /mnt/stockage/packages/f40/vakzination/po/de/vakzination.po | 
+ | [en_GB](/f40/language/en_GB) | 147 | 147 | 100.0 | /mnt/stockage/packages/f40/vakzination/po/en_GB/vakzination.po | 
+ | [eo](/f40/language/eo) | 147 | 147 | 100.0 | /mnt/stockage/packages/f40/vakzination/po/eo/vakzination.po | 
+ | [es](/f40/language/es) | 147 | 147 | 100.0 | /mnt/stockage/packages/f40/vakzination/po/es/vakzination.po | 
+ | [eu](/f40/language/eu) | 147 | 147 | 100.0 | /mnt/stockage/packages/f40/vakzination/po/eu/vakzination.po | 
+ | [fr](/f40/language/fr) | 147 | 147 | 100.0 | /mnt/stockage/packages/f40/vakzination/po/fr/vakzination.po | 
+ | [gl](/f40/language/gl) | 147 | 147 | 100.0 | /mnt/stockage/packages/f40/vakzination/po/gl/vakzination.po | 
+ | [he](/f40/language/he) | 147 | 147 | 100.0 | /mnt/stockage/packages/f40/vakzination/po/he/vakzination.po | 
+ | [hi](/f40/language/hi) | 147 | 147 | 100.0 | /mnt/stockage/packages/f40/vakzination/po/hi/vakzination.po | 
+ | [hu](/f40/language/hu) | 147 | 147 | 100.0 | /mnt/stockage/packages/f40/vakzination/po/hu/vakzination.po | 
+ | [ia](/f40/language/ia) | 147 | 147 | 100.0 | /mnt/stockage/packages/f40/vakzination/po/ia/vakzination.po | 
+ | [it](/f40/language/it) | 147 | 147 | 100.0 | /mnt/stockage/packages/f40/vakzination/po/it/vakzination.po | 
+ | [ka](/f40/language/ka) | 147 | 147 | 100.0 | /mnt/stockage/packages/f40/vakzination/po/ka/vakzination.po | 
+ | [ko](/f40/language/ko) | 147 | 147 | 100.0 | /mnt/stockage/packages/f40/vakzination/po/ko/vakzination.po | 
+ | [lv](/f40/language/lv) | 147 | 147 | 100.0 | /mnt/stockage/packages/f40/vakzination/po/lv/vakzination.po | 
+ | [nl](/f40/language/nl) | 147 | 147 | 100.0 | /mnt/stockage/packages/f40/vakzination/po/nl/vakzination.po | 
+ | [pl](/f40/language/pl) | 147 | 147 | 100.0 | /mnt/stockage/packages/f40/vakzination/po/pl/vakzination.po | 
+ | [pt](/f40/language/pt) | 147 | 147 | 100.0 | /mnt/stockage/packages/f40/vakzination/po/pt/vakzination.po | 
+ | [pt_BR](/f40/language/pt_BR) | 147 | 147 | 100.0 | /mnt/stockage/packages/f40/vakzination/po/pt_BR/vakzination.po | 
+ | [ro](/f40/language/ro) | 147 | 147 | 100.0 | /mnt/stockage/packages/f40/vakzination/po/ro/vakzination.po | 
+ | [sa](/f40/language/sa) | 147 | 147 | 100.0 | /mnt/stockage/packages/f40/vakzination/po/sa/vakzination.po | 
+ | [sl](/f40/language/sl) | 147 | 147 | 100.0 | /mnt/stockage/packages/f40/vakzination/po/sl/vakzination.po | 
+ | [sv](/f40/language/sv) | 147 | 147 | 100.0 | /mnt/stockage/packages/f40/vakzination/po/sv/vakzination.po | 
+ | [tr](/f40/language/tr) | 147 | 147 | 100.0 | /mnt/stockage/packages/f40/vakzination/po/tr/vakzination.po | 
+ | [uk](/f40/language/uk) | 147 | 147 | 100.0 | /mnt/stockage/packages/f40/vakzination/po/uk/vakzination.po | 
+ | [zh_Hant](/f40/language/zh_Hant) | 147 | 147 | 100.0 | /mnt/stockage/packages/f40/vakzination/po/zh_TW/vakzination.po | 
+ | [el](/f40/language/el) | 89 | 147 | 60.5 | /mnt/stockage/packages/f40/vakzination/po/el/vakzination.po | 
+ | [zh_Hans](/f40/language/zh_Hans) | 87 | 147 | 59.2 | /mnt/stockage/packages/f40/vakzination/po/zh_CN/vakzination.po | 
+ | [sk](/f40/language/sk) | 79 | 147 | 53.7 | /mnt/stockage/packages/f40/vakzination/po/sk/vakzination.po | 
+ | [pa](/f40/language/pa) | 76 | 147 | 51.7 | /mnt/stockage/packages/f40/vakzination/po/pa/vakzination.po | 
+ | [ast](/f40/language/ast) | 1 | 147 | 0.7 | /mnt/stockage/packages/f40/vakzination/po/ast/vakzination.po | 
+ | [ja](/f40/language/ja) | 0 | 147 | 0.0 | /mnt/stockage/packages/f40/vakzination/po/ja/vakzination.po | 
+ | [lt](/f40/language/lt) | 0 | 147 | 0.0 | /mnt/stockage/packages/f40/vakzination/po/lt/vakzination.po | 
 {.sortable}
 
 

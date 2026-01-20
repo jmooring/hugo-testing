@@ -18,19 +18,19 @@ The package libgdata (version 0.4.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f11/language/ca.md" >}}) | 357 | 357 | 100.0 | /mnt/stockage/packages/f11/libgdata/po/ca.po | 
- | [de]({{< ref "/f11/language/de.md" >}}) | 371 | 371 | 100.0 | /mnt/stockage/packages/f11/libgdata/po/de.po | 
- | [el]({{< ref "/f11/language/el.md" >}}) | 357 | 357 | 100.0 | /mnt/stockage/packages/f11/libgdata/po/el.po | 
- | [en_GB]({{< ref "/f11/language/en_GB.md" >}}) | 420 | 420 | 100.0 | /mnt/stockage/packages/f11/libgdata/po/en_GB.po | 
- | [es]({{< ref "/f11/language/es.md" >}}) | 371 | 371 | 100.0 | /mnt/stockage/packages/f11/libgdata/po/es.po | 
- | [fr]({{< ref "/f11/language/fr.md" >}}) | 344 | 344 | 100.0 | /mnt/stockage/packages/f11/libgdata/po/fr.po | 
- | [gl]({{< ref "/f11/language/gl.md" >}}) | 344 | 344 | 100.0 | /mnt/stockage/packages/f11/libgdata/po/gl.po | 
- | [sv]({{< ref "/f11/language/sv.md" >}}) | 371 | 371 | 100.0 | /mnt/stockage/packages/f11/libgdata/po/sv.po | 
- | [uk]({{< ref "/f11/language/uk.md" >}}) | 371 | 371 | 100.0 | /mnt/stockage/packages/f11/libgdata/po/uk.po | 
- | [zh_Hant]({{< ref "/f11/language/zh_Hant.md" >}}) | 238 | 371 | 64.2 | /mnt/stockage/packages/f11/libgdata/po/zh_TW.po | 
- | [zh_Hant_HK]({{< ref "/f11/language/zh_Hant_HK.md" >}}) | 238 | 371 | 64.2 | /mnt/stockage/packages/f11/libgdata/po/zh_HK.po | 
- | [pa]({{< ref "/f11/language/pa.md" >}}) | 172 | 357 | 48.2 | /mnt/stockage/packages/f11/libgdata/po/pa.po | 
- | [nb_NO]({{< ref "/f11/language/nb_NO.md" >}}) | 34 | 337 | 10.1 | /mnt/stockage/packages/f11/libgdata/po/nb.po | 
+ | [ca](/f11/language/ca) | 357 | 357 | 100.0 | /mnt/stockage/packages/f11/libgdata/po/ca.po | 
+ | [de](/f11/language/de) | 371 | 371 | 100.0 | /mnt/stockage/packages/f11/libgdata/po/de.po | 
+ | [el](/f11/language/el) | 357 | 357 | 100.0 | /mnt/stockage/packages/f11/libgdata/po/el.po | 
+ | [en_GB](/f11/language/en_GB) | 420 | 420 | 100.0 | /mnt/stockage/packages/f11/libgdata/po/en_GB.po | 
+ | [es](/f11/language/es) | 371 | 371 | 100.0 | /mnt/stockage/packages/f11/libgdata/po/es.po | 
+ | [fr](/f11/language/fr) | 344 | 344 | 100.0 | /mnt/stockage/packages/f11/libgdata/po/fr.po | 
+ | [gl](/f11/language/gl) | 344 | 344 | 100.0 | /mnt/stockage/packages/f11/libgdata/po/gl.po | 
+ | [sv](/f11/language/sv) | 371 | 371 | 100.0 | /mnt/stockage/packages/f11/libgdata/po/sv.po | 
+ | [uk](/f11/language/uk) | 371 | 371 | 100.0 | /mnt/stockage/packages/f11/libgdata/po/uk.po | 
+ | [zh_Hant](/f11/language/zh_Hant) | 238 | 371 | 64.2 | /mnt/stockage/packages/f11/libgdata/po/zh_TW.po | 
+ | [zh_Hant_HK](/f11/language/zh_Hant_HK) | 238 | 371 | 64.2 | /mnt/stockage/packages/f11/libgdata/po/zh_HK.po | 
+ | [pa](/f11/language/pa) | 172 | 357 | 48.2 | /mnt/stockage/packages/f11/libgdata/po/pa.po | 
+ | [nb_NO](/f11/language/nb_NO) | 34 | 337 | 10.1 | /mnt/stockage/packages/f11/libgdata/po/nb.po | 
 {.sortable}
 
 

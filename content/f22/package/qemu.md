@@ -18,13 +18,13 @@ The package qemu (version 2.3.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f22/language/de.md" >}}) | 32 | 32 | 100.0 | /mnt/stockage/packages/f22/qemu/po/de_DE.po | 
- | [fr]({{< ref "/f22/language/fr.md" >}}) | 32 | 32 | 100.0 | /mnt/stockage/packages/f22/qemu/po/fr_FR.po | 
- | [hu]({{< ref "/f22/language/hu.md" >}}) | 22 | 22 | 100.0 | /mnt/stockage/packages/f22/qemu/po/hu.po | 
- | [it]({{< ref "/f22/language/it.md" >}}) | 31 | 31 | 100.0 | /mnt/stockage/packages/f22/qemu/po/it.po | 
- | [tr]({{< ref "/f22/language/tr.md" >}}) | 22 | 22 | 100.0 | /mnt/stockage/packages/f22/qemu/po/tr.po | 
- | [zh_Hans]({{< ref "/f22/language/zh_Hans.md" >}}) | 32 | 32 | 100.0 | /mnt/stockage/packages/f22/qemu/po/zh_CN.po | 
- | [error]({{< ref "/f22/language/error.md" >}}) | 0 | 22 | 0.0 | /mnt/stockage/packages/f22/qemu/po/messages.po | 
+ | [de](/f22/language/de) | 32 | 32 | 100.0 | /mnt/stockage/packages/f22/qemu/po/de_DE.po | 
+ | [fr](/f22/language/fr) | 32 | 32 | 100.0 | /mnt/stockage/packages/f22/qemu/po/fr_FR.po | 
+ | [hu](/f22/language/hu) | 22 | 22 | 100.0 | /mnt/stockage/packages/f22/qemu/po/hu.po | 
+ | [it](/f22/language/it) | 31 | 31 | 100.0 | /mnt/stockage/packages/f22/qemu/po/it.po | 
+ | [tr](/f22/language/tr) | 22 | 22 | 100.0 | /mnt/stockage/packages/f22/qemu/po/tr.po | 
+ | [zh_Hans](/f22/language/zh_Hans) | 32 | 32 | 100.0 | /mnt/stockage/packages/f22/qemu/po/zh_CN.po | 
+ | [error](/f22/language/error) | 0 | 22 | 0.0 | /mnt/stockage/packages/f22/qemu/po/messages.po | 
 {.sortable}
 
 

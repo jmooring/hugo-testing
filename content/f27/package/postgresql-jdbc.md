@@ -18,21 +18,21 @@ The package postgresql-jdbc (version 9.4.1212):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ja]({{< ref "/f27/language/ja.md" >}}) | 1966 | 2256 | 87.1 | /mnt/stockage/packages/f27/postgresql-jdbc/pgjdbc/src/main/java/org/postgresql/translation/ja.po | 
- | [bg]({{< ref "/f27/language/bg.md" >}}) | 1768 | 2256 | 78.4 | /mnt/stockage/packages/f27/postgresql-jdbc/pgjdbc/src/main/java/org/postgresql/translation/bg.po | 
- | [pt_BR]({{< ref "/f27/language/pt_BR.md" >}}) | 1580 | 2256 | 70.0 | /mnt/stockage/packages/f27/postgresql-jdbc/pgjdbc/src/main/java/org/postgresql/translation/pt_BR.po | 
- | [sr]({{< ref "/f27/language/sr.md" >}}) | 1577 | 2256 | 69.9 | /mnt/stockage/packages/f27/postgresql-jdbc/pgjdbc/src/main/java/org/postgresql/translation/sr.po | 
- | [tr]({{< ref "/f27/language/tr.md" >}}) | 1577 | 2256 | 69.9 | /mnt/stockage/packages/f27/postgresql-jdbc/pgjdbc/src/main/java/org/postgresql/translation/tr.po | 
- | [de]({{< ref "/f27/language/de.md" >}}) | 1442 | 2256 | 63.9 | /mnt/stockage/packages/f27/postgresql-jdbc/pgjdbc/src/main/java/org/postgresql/translation/de.po | 
- | [fr]({{< ref "/f27/language/fr.md" >}}) | 1421 | 2256 | 63.0 | /mnt/stockage/packages/f27/postgresql-jdbc/pgjdbc/src/main/java/org/postgresql/translation/fr.po | 
- | [it]({{< ref "/f27/language/it.md" >}}) | 1353 | 2256 | 60.0 | /mnt/stockage/packages/f27/postgresql-jdbc/pgjdbc/src/main/java/org/postgresql/translation/it.po | 
- | [zh_Hans]({{< ref "/f27/language/zh_Hans.md" >}}) | 1054 | 2256 | 46.7 | /mnt/stockage/packages/f27/postgresql-jdbc/pgjdbc/src/main/java/org/postgresql/translation/zh_CN.po | 
- | [zh_Hant]({{< ref "/f27/language/zh_Hant.md" >}}) | 1054 | 2256 | 46.7 | /mnt/stockage/packages/f27/postgresql-jdbc/pgjdbc/src/main/java/org/postgresql/translation/zh_TW.po | 
- | [cs]({{< ref "/f27/language/cs.md" >}}) | 777 | 2256 | 34.4 | /mnt/stockage/packages/f27/postgresql-jdbc/pgjdbc/src/main/java/org/postgresql/translation/cs.po | 
- | [ru]({{< ref "/f27/language/ru.md" >}}) | 741 | 2256 | 32.8 | /mnt/stockage/packages/f27/postgresql-jdbc/pgjdbc/src/main/java/org/postgresql/translation/ru.po | 
- | [pl]({{< ref "/f27/language/pl.md" >}}) | 628 | 2256 | 27.8 | /mnt/stockage/packages/f27/postgresql-jdbc/pgjdbc/src/main/java/org/postgresql/translation/pl.po | 
- | [es]({{< ref "/f27/language/es.md" >}}) | 151 | 2256 | 6.7 | /mnt/stockage/packages/f27/postgresql-jdbc/pgjdbc/src/main/java/org/postgresql/translation/es.po | 
- | [nl]({{< ref "/f27/language/nl.md" >}}) | 68 | 2256 | 3.0 | /mnt/stockage/packages/f27/postgresql-jdbc/pgjdbc/src/main/java/org/postgresql/translation/nl.po | 
+ | [ja](/f27/language/ja) | 1966 | 2256 | 87.1 | /mnt/stockage/packages/f27/postgresql-jdbc/pgjdbc/src/main/java/org/postgresql/translation/ja.po | 
+ | [bg](/f27/language/bg) | 1768 | 2256 | 78.4 | /mnt/stockage/packages/f27/postgresql-jdbc/pgjdbc/src/main/java/org/postgresql/translation/bg.po | 
+ | [pt_BR](/f27/language/pt_BR) | 1580 | 2256 | 70.0 | /mnt/stockage/packages/f27/postgresql-jdbc/pgjdbc/src/main/java/org/postgresql/translation/pt_BR.po | 
+ | [sr](/f27/language/sr) | 1577 | 2256 | 69.9 | /mnt/stockage/packages/f27/postgresql-jdbc/pgjdbc/src/main/java/org/postgresql/translation/sr.po | 
+ | [tr](/f27/language/tr) | 1577 | 2256 | 69.9 | /mnt/stockage/packages/f27/postgresql-jdbc/pgjdbc/src/main/java/org/postgresql/translation/tr.po | 
+ | [de](/f27/language/de) | 1442 | 2256 | 63.9 | /mnt/stockage/packages/f27/postgresql-jdbc/pgjdbc/src/main/java/org/postgresql/translation/de.po | 
+ | [fr](/f27/language/fr) | 1421 | 2256 | 63.0 | /mnt/stockage/packages/f27/postgresql-jdbc/pgjdbc/src/main/java/org/postgresql/translation/fr.po | 
+ | [it](/f27/language/it) | 1353 | 2256 | 60.0 | /mnt/stockage/packages/f27/postgresql-jdbc/pgjdbc/src/main/java/org/postgresql/translation/it.po | 
+ | [zh_Hans](/f27/language/zh_Hans) | 1054 | 2256 | 46.7 | /mnt/stockage/packages/f27/postgresql-jdbc/pgjdbc/src/main/java/org/postgresql/translation/zh_CN.po | 
+ | [zh_Hant](/f27/language/zh_Hant) | 1054 | 2256 | 46.7 | /mnt/stockage/packages/f27/postgresql-jdbc/pgjdbc/src/main/java/org/postgresql/translation/zh_TW.po | 
+ | [cs](/f27/language/cs) | 777 | 2256 | 34.4 | /mnt/stockage/packages/f27/postgresql-jdbc/pgjdbc/src/main/java/org/postgresql/translation/cs.po | 
+ | [ru](/f27/language/ru) | 741 | 2256 | 32.8 | /mnt/stockage/packages/f27/postgresql-jdbc/pgjdbc/src/main/java/org/postgresql/translation/ru.po | 
+ | [pl](/f27/language/pl) | 628 | 2256 | 27.8 | /mnt/stockage/packages/f27/postgresql-jdbc/pgjdbc/src/main/java/org/postgresql/translation/pl.po | 
+ | [es](/f27/language/es) | 151 | 2256 | 6.7 | /mnt/stockage/packages/f27/postgresql-jdbc/pgjdbc/src/main/java/org/postgresql/translation/es.po | 
+ | [nl](/f27/language/nl) | 68 | 2256 | 3.0 | /mnt/stockage/packages/f27/postgresql-jdbc/pgjdbc/src/main/java/org/postgresql/translation/nl.po | 
 {.sortable}
 
 

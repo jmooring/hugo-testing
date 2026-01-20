@@ -18,10 +18,10 @@ The package nmap (version 5.00):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [hr]({{< ref "/f10/language/hr.md" >}}) | 1390 | 1669 | 83.3 | /mnt/stockage/packages/f10/nmap/zenmap/share/zenmap/locale/hr.po | 
- | [fr]({{< ref "/f10/language/fr.md" >}}) | 1259 | 1669 | 75.4 | /mnt/stockage/packages/f10/nmap/zenmap/share/zenmap/locale/fr.po | 
- | [de]({{< ref "/f10/language/de.md" >}}) | 1036 | 1669 | 62.1 | /mnt/stockage/packages/f10/nmap/zenmap/share/zenmap/locale/de.po | 
- | [pt_BR]({{< ref "/f10/language/pt_BR.md" >}}) | 201 | 1669 | 12.0 | /mnt/stockage/packages/f10/nmap/zenmap/share/zenmap/locale/pt_BR.po | 
+ | [hr](/f10/language/hr) | 1390 | 1669 | 83.3 | /mnt/stockage/packages/f10/nmap/zenmap/share/zenmap/locale/hr.po | 
+ | [fr](/f10/language/fr) | 1259 | 1669 | 75.4 | /mnt/stockage/packages/f10/nmap/zenmap/share/zenmap/locale/fr.po | 
+ | [de](/f10/language/de) | 1036 | 1669 | 62.1 | /mnt/stockage/packages/f10/nmap/zenmap/share/zenmap/locale/de.po | 
+ | [pt_BR](/f10/language/pt_BR) | 201 | 1669 | 12.0 | /mnt/stockage/packages/f10/nmap/zenmap/share/zenmap/locale/pt_BR.po | 
 {.sortable}
 
 

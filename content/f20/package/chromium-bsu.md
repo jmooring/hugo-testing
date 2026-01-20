@@ -18,16 +18,16 @@ The package chromium-bsu (version 0.9.15.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [bg]({{< ref "/f20/language/bg.md" >}}) | 1034 | 1072 | 96.5 | /mnt/stockage/packages/f20/chromium-bsu/po/bg.po | 
- | [de]({{< ref "/f20/language/de.md" >}}) | 1034 | 1072 | 96.5 | /mnt/stockage/packages/f20/chromium-bsu/po/de.po | 
- | [es]({{< ref "/f20/language/es.md" >}}) | 1034 | 1072 | 96.5 | /mnt/stockage/packages/f20/chromium-bsu/po/es.po | 
- | [fr]({{< ref "/f20/language/fr.md" >}}) | 1034 | 1072 | 96.5 | /mnt/stockage/packages/f20/chromium-bsu/po/fr.po | 
- | [zh_Hans]({{< ref "/f20/language/zh_Hans.md" >}}) | 1033 | 1072 | 96.4 | /mnt/stockage/packages/f20/chromium-bsu/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f20/language/zh_Hant.md" >}}) | 1020 | 1072 | 95.1 | /mnt/stockage/packages/f20/chromium-bsu/po/zh_TW.po | 
- | [it]({{< ref "/f20/language/it.md" >}}) | 966 | 1072 | 90.1 | /mnt/stockage/packages/f20/chromium-bsu/po/it.po | 
- | [ru]({{< ref "/f20/language/ru.md" >}}) | 926 | 1072 | 86.4 | /mnt/stockage/packages/f20/chromium-bsu/po/ru.po | 
- | [sv]({{< ref "/f20/language/sv.md" >}}) | 926 | 1072 | 86.4 | /mnt/stockage/packages/f20/chromium-bsu/po/sv.po | 
- | [tr]({{< ref "/f20/language/tr.md" >}}) | 5 | 1072 | 0.5 | /mnt/stockage/packages/f20/chromium-bsu/po/tr.po | 
+ | [bg](/f20/language/bg) | 1034 | 1072 | 96.5 | /mnt/stockage/packages/f20/chromium-bsu/po/bg.po | 
+ | [de](/f20/language/de) | 1034 | 1072 | 96.5 | /mnt/stockage/packages/f20/chromium-bsu/po/de.po | 
+ | [es](/f20/language/es) | 1034 | 1072 | 96.5 | /mnt/stockage/packages/f20/chromium-bsu/po/es.po | 
+ | [fr](/f20/language/fr) | 1034 | 1072 | 96.5 | /mnt/stockage/packages/f20/chromium-bsu/po/fr.po | 
+ | [zh_Hans](/f20/language/zh_Hans) | 1033 | 1072 | 96.4 | /mnt/stockage/packages/f20/chromium-bsu/po/zh_CN.po | 
+ | [zh_Hant](/f20/language/zh_Hant) | 1020 | 1072 | 95.1 | /mnt/stockage/packages/f20/chromium-bsu/po/zh_TW.po | 
+ | [it](/f20/language/it) | 966 | 1072 | 90.1 | /mnt/stockage/packages/f20/chromium-bsu/po/it.po | 
+ | [ru](/f20/language/ru) | 926 | 1072 | 86.4 | /mnt/stockage/packages/f20/chromium-bsu/po/ru.po | 
+ | [sv](/f20/language/sv) | 926 | 1072 | 86.4 | /mnt/stockage/packages/f20/chromium-bsu/po/sv.po | 
+ | [tr](/f20/language/tr) | 5 | 1072 | 0.5 | /mnt/stockage/packages/f20/chromium-bsu/po/tr.po | 
 {.sortable}
 
 

@@ -18,8 +18,8 @@ The package roxterm (version 1.15.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [en]({{< ref "/f11/language/en.md" >}}) | 1724 | 2206 | 78.2 | /mnt/stockage/packages/f11/roxterm/po/en.po | 
- | [en_GB]({{< ref "/f11/language/en_GB.md" >}}) | 1724 | 2206 | 78.2 | /mnt/stockage/packages/f11/roxterm/po/en_GB.po | 
+ | [en](/f11/language/en) | 1724 | 2206 | 78.2 | /mnt/stockage/packages/f11/roxterm/po/en.po | 
+ | [en_GB](/f11/language/en_GB) | 1724 | 2206 | 78.2 | /mnt/stockage/packages/f11/roxterm/po/en_GB.po | 
 {.sortable}
 
 

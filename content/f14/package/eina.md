@@ -18,27 +18,27 @@ The package eina (version 0.9.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [es]({{< ref "/f14/language/es.md" >}}) | 298 | 1008 | 29.6 | /mnt/stockage/packages/f14/eina/po/es.po | 
- | [zh_Hans]({{< ref "/f14/language/zh_Hans.md" >}}) | 298 | 1008 | 29.6 | /mnt/stockage/packages/f14/eina/po/zh_CN.po | 
- | [cs]({{< ref "/f14/language/cs.md" >}}) | 257 | 1008 | 25.5 | /mnt/stockage/packages/f14/eina/po/cs.po | 
- | [tr]({{< ref "/f14/language/tr.md" >}}) | 166 | 1008 | 16.5 | /mnt/stockage/packages/f14/eina/po/tr.po | 
- | [lv]({{< ref "/f14/language/lv.md" >}}) | 145 | 1008 | 14.4 | /mnt/stockage/packages/f14/eina/po/lv.po | 
- | [fr]({{< ref "/f14/language/fr.md" >}}) | 101 | 1008 | 10.0 | /mnt/stockage/packages/f14/eina/po/fr.po | 
- | [ru]({{< ref "/f14/language/ru.md" >}}) | 99 | 1008 | 9.8 | /mnt/stockage/packages/f14/eina/po/ru.po | 
- | [pl]({{< ref "/f14/language/pl.md" >}}) | 87 | 1008 | 8.6 | /mnt/stockage/packages/f14/eina/po/pl.po | 
- | [sr]({{< ref "/f14/language/sr.md" >}}) | 85 | 1008 | 8.4 | /mnt/stockage/packages/f14/eina/po/sr.po | 
- | [uk]({{< ref "/f14/language/uk.md" >}}) | 78 | 1008 | 7.7 | /mnt/stockage/packages/f14/eina/po/uk.po | 
- | [hu]({{< ref "/f14/language/hu.md" >}}) | 76 | 1008 | 7.5 | /mnt/stockage/packages/f14/eina/po/hu.po | 
- | [bg]({{< ref "/f14/language/bg.md" >}}) | 64 | 1008 | 6.3 | /mnt/stockage/packages/f14/eina/po/bg.po | 
- | [it]({{< ref "/f14/language/it.md" >}}) | 61 | 1008 | 6.1 | /mnt/stockage/packages/f14/eina/po/it.po | 
- | [ms]({{< ref "/f14/language/ms.md" >}}) | 49 | 1008 | 4.9 | /mnt/stockage/packages/f14/eina/po/ms.po | 
- | [sv]({{< ref "/f14/language/sv.md" >}}) | 32 | 1008 | 3.2 | /mnt/stockage/packages/f14/eina/po/sv.po | 
- | [br]({{< ref "/f14/language/br.md" >}}) | 13 | 1008 | 1.3 | /mnt/stockage/packages/f14/eina/po/br.po | 
- | [de]({{< ref "/f14/language/de.md" >}}) | 12 | 1008 | 1.2 | /mnt/stockage/packages/f14/eina/po/de.po | 
- | [id]({{< ref "/f14/language/id.md" >}}) | 4 | 1008 | 0.4 | /mnt/stockage/packages/f14/eina/po/id.po | 
- | [eo]({{< ref "/f14/language/eo.md" >}}) | 2 | 1008 | 0.2 | /mnt/stockage/packages/f14/eina/po/eo.po | 
- | [ca]({{< ref "/f14/language/ca.md" >}}) | 0 | 1008 | 0.0 | /mnt/stockage/packages/f14/eina/po/ca.po | 
- | [pt]({{< ref "/f14/language/pt.md" >}}) | 0 | 1008 | 0.0 | /mnt/stockage/packages/f14/eina/po/pt.po | 
+ | [es](/f14/language/es) | 298 | 1008 | 29.6 | /mnt/stockage/packages/f14/eina/po/es.po | 
+ | [zh_Hans](/f14/language/zh_Hans) | 298 | 1008 | 29.6 | /mnt/stockage/packages/f14/eina/po/zh_CN.po | 
+ | [cs](/f14/language/cs) | 257 | 1008 | 25.5 | /mnt/stockage/packages/f14/eina/po/cs.po | 
+ | [tr](/f14/language/tr) | 166 | 1008 | 16.5 | /mnt/stockage/packages/f14/eina/po/tr.po | 
+ | [lv](/f14/language/lv) | 145 | 1008 | 14.4 | /mnt/stockage/packages/f14/eina/po/lv.po | 
+ | [fr](/f14/language/fr) | 101 | 1008 | 10.0 | /mnt/stockage/packages/f14/eina/po/fr.po | 
+ | [ru](/f14/language/ru) | 99 | 1008 | 9.8 | /mnt/stockage/packages/f14/eina/po/ru.po | 
+ | [pl](/f14/language/pl) | 87 | 1008 | 8.6 | /mnt/stockage/packages/f14/eina/po/pl.po | 
+ | [sr](/f14/language/sr) | 85 | 1008 | 8.4 | /mnt/stockage/packages/f14/eina/po/sr.po | 
+ | [uk](/f14/language/uk) | 78 | 1008 | 7.7 | /mnt/stockage/packages/f14/eina/po/uk.po | 
+ | [hu](/f14/language/hu) | 76 | 1008 | 7.5 | /mnt/stockage/packages/f14/eina/po/hu.po | 
+ | [bg](/f14/language/bg) | 64 | 1008 | 6.3 | /mnt/stockage/packages/f14/eina/po/bg.po | 
+ | [it](/f14/language/it) | 61 | 1008 | 6.1 | /mnt/stockage/packages/f14/eina/po/it.po | 
+ | [ms](/f14/language/ms) | 49 | 1008 | 4.9 | /mnt/stockage/packages/f14/eina/po/ms.po | 
+ | [sv](/f14/language/sv) | 32 | 1008 | 3.2 | /mnt/stockage/packages/f14/eina/po/sv.po | 
+ | [br](/f14/language/br) | 13 | 1008 | 1.3 | /mnt/stockage/packages/f14/eina/po/br.po | 
+ | [de](/f14/language/de) | 12 | 1008 | 1.2 | /mnt/stockage/packages/f14/eina/po/de.po | 
+ | [id](/f14/language/id) | 4 | 1008 | 0.4 | /mnt/stockage/packages/f14/eina/po/id.po | 
+ | [eo](/f14/language/eo) | 2 | 1008 | 0.2 | /mnt/stockage/packages/f14/eina/po/eo.po | 
+ | [ca](/f14/language/ca) | 0 | 1008 | 0.0 | /mnt/stockage/packages/f14/eina/po/ca.po | 
+ | [pt](/f14/language/pt) | 0 | 1008 | 0.0 | /mnt/stockage/packages/f14/eina/po/pt.po | 
 {.sortable}
 
 

@@ -18,11 +18,11 @@ The package mate-applet-softupd (version 0.2.11):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [bg]({{< ref "/f19/language/bg.md" >}}) | 34 | 38 | 89.5 | /mnt/stockage/packages/f19/mate-applet-softupd/po/bg_BG.po | 
- | [en_GB]({{< ref "/f19/language/en_GB.md" >}}) | 34 | 38 | 89.5 | /mnt/stockage/packages/f19/mate-applet-softupd/po/en_GB.po | 
- | [en_US]({{< ref "/f19/language/en_US.md" >}}) | 34 | 38 | 89.5 | /mnt/stockage/packages/f19/mate-applet-softupd/po/en_US.po | 
- | [fr]({{< ref "/f19/language/fr.md" >}}) | 34 | 38 | 89.5 | /mnt/stockage/packages/f19/mate-applet-softupd/po/fr_FR.po | 
- | [ru]({{< ref "/f19/language/ru.md" >}}) | 34 | 38 | 89.5 | /mnt/stockage/packages/f19/mate-applet-softupd/po/ru_RU.po | 
+ | [bg](/f19/language/bg) | 34 | 38 | 89.5 | /mnt/stockage/packages/f19/mate-applet-softupd/po/bg_BG.po | 
+ | [en_GB](/f19/language/en_GB) | 34 | 38 | 89.5 | /mnt/stockage/packages/f19/mate-applet-softupd/po/en_GB.po | 
+ | [en_US](/f19/language/en_US) | 34 | 38 | 89.5 | /mnt/stockage/packages/f19/mate-applet-softupd/po/en_US.po | 
+ | [fr](/f19/language/fr) | 34 | 38 | 89.5 | /mnt/stockage/packages/f19/mate-applet-softupd/po/fr_FR.po | 
+ | [ru](/f19/language/ru) | 34 | 38 | 89.5 | /mnt/stockage/packages/f19/mate-applet-softupd/po/ru_RU.po | 
 {.sortable}
 
 

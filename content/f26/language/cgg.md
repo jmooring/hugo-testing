@@ -38,8 +38,8 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [tuxpaint]({{< ref "/f26/package/tuxpaint.md" >}}) | 1501 | 1591 | 94.3 | none | 
- | [virtaal]({{< ref "/f26/package/virtaal.md" >}}) | 1395 | 1653 | 84.4 | LANGUAGE <LL@li.org> | 
+ | [tuxpaint](/f26/package/tuxpaint) | 1501 | 1591 | 94.3 | none | 
+ | [virtaal](/f26/package/virtaal) | 1395 | 1653 | 84.4 | LANGUAGE <LL@li.org> | 
 {.sortable}
 
 

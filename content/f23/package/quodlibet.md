@@ -18,36 +18,36 @@ The package quodlibet (version 3.5.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [pl]({{< ref "/f23/language/pl.md" >}}) | 5174 | 5174 | 100.0 | /mnt/stockage/packages/f23/quodlibet/po/pl.po | 
- | [el]({{< ref "/f23/language/el.md" >}}) | 5126 | 5174 | 99.1 | /mnt/stockage/packages/f23/quodlibet/po/el.po | 
- | [nl]({{< ref "/f23/language/nl.md" >}}) | 5022 | 5174 | 97.1 | /mnt/stockage/packages/f23/quodlibet/po/nl.po | 
- | [ru]({{< ref "/f23/language/ru.md" >}}) | 3698 | 5174 | 71.5 | /mnt/stockage/packages/f23/quodlibet/po/ru.po | 
- | [de]({{< ref "/f23/language/de.md" >}}) | 2337 | 5174 | 45.2 | /mnt/stockage/packages/f23/quodlibet/po/de.po | 
- | [sv]({{< ref "/f23/language/sv.md" >}}) | 1986 | 5174 | 38.4 | /mnt/stockage/packages/f23/quodlibet/po/sv.po | 
- | [es]({{< ref "/f23/language/es.md" >}}) | 1841 | 5174 | 35.6 | /mnt/stockage/packages/f23/quodlibet/po/es.po | 
- | [lt]({{< ref "/f23/language/lt.md" >}}) | 1837 | 5174 | 35.5 | /mnt/stockage/packages/f23/quodlibet/po/lt.po | 
- | [eu]({{< ref "/f23/language/eu.md" >}}) | 1835 | 5174 | 35.5 | /mnt/stockage/packages/f23/quodlibet/po/eu.po | 
- | [gl]({{< ref "/f23/language/gl.md" >}}) | 3659 | 10348 | 35.4 | /mnt/stockage/packages/f23/quodlibet/po/gl.po/mnt/stockage/packages/f23/quodlibet/po/gl_ES.po | 
- | [cs]({{< ref "/f23/language/cs.md" >}}) | 1822 | 5174 | 35.2 | /mnt/stockage/packages/f23/quodlibet/po/cs_CZ.po | 
- | [it]({{< ref "/f23/language/it.md" >}}) | 1532 | 5174 | 29.6 | /mnt/stockage/packages/f23/quodlibet/po/it.po | 
- | [fr]({{< ref "/f23/language/fr.md" >}}) | 1508 | 5174 | 29.1 | /mnt/stockage/packages/f23/quodlibet/po/fr.po | 
- | [pt_BR]({{< ref "/f23/language/pt_BR.md" >}}) | 1476 | 5174 | 28.5 | /mnt/stockage/packages/f23/quodlibet/po/pt.po | 
- | [lv]({{< ref "/f23/language/lv.md" >}}) | 1437 | 5174 | 27.8 | /mnt/stockage/packages/f23/quodlibet/po/lv.po | 
- | [tr]({{< ref "/f23/language/tr.md" >}}) | 1358 | 5174 | 26.2 | /mnt/stockage/packages/f23/quodlibet/po/tr.po | 
- | [en_GB]({{< ref "/f23/language/en_GB.md" >}}) | 1327 | 5174 | 25.6 | /mnt/stockage/packages/f23/quodlibet/po/en_GB.po | 
- | [en_CA]({{< ref "/f23/language/en_CA.md" >}}) | 1254 | 5174 | 24.2 | /mnt/stockage/packages/f23/quodlibet/po/en_CA.po | 
- | [nb_NO]({{< ref "/f23/language/nb_NO.md" >}}) | 1248 | 5174 | 24.1 | /mnt/stockage/packages/f23/quodlibet/po/nb.po | 
- | [fi]({{< ref "/f23/language/fi.md" >}}) | 1226 | 5174 | 23.7 | /mnt/stockage/packages/f23/quodlibet/po/fi.po | 
- | [uk]({{< ref "/f23/language/uk.md" >}}) | 1226 | 5174 | 23.7 | /mnt/stockage/packages/f23/quodlibet/po/uk.po | 
- | [ro]({{< ref "/f23/language/ro.md" >}}) | 1221 | 5174 | 23.6 | /mnt/stockage/packages/f23/quodlibet/po/ro.po | 
- | [zh_Hant]({{< ref "/f23/language/zh_Hant.md" >}}) | 1217 | 5174 | 23.5 | /mnt/stockage/packages/f23/quodlibet/po/zh_TW.po | 
- | [hu]({{< ref "/f23/language/hu.md" >}}) | 1200 | 5174 | 23.2 | /mnt/stockage/packages/f23/quodlibet/po/hu.po | 
- | [ja]({{< ref "/f23/language/ja.md" >}}) | 1141 | 5174 | 22.1 | /mnt/stockage/packages/f23/quodlibet/po/ja.po | 
- | [ko]({{< ref "/f23/language/ko.md" >}}) | 1138 | 5174 | 22.0 | /mnt/stockage/packages/f23/quodlibet/po/ko.po | 
- | [sk]({{< ref "/f23/language/sk.md" >}}) | 1116 | 5174 | 21.6 | /mnt/stockage/packages/f23/quodlibet/po/sk.po | 
- | [he]({{< ref "/f23/language/he.md" >}}) | 1086 | 5174 | 21.0 | /mnt/stockage/packages/f23/quodlibet/po/he.po | 
- | [bg]({{< ref "/f23/language/bg.md" >}}) | 1065 | 5174 | 20.6 | /mnt/stockage/packages/f23/quodlibet/po/bg.po | 
- | [zh_Hans]({{< ref "/f23/language/zh_Hans.md" >}}) | 787 | 5174 | 15.2 | /mnt/stockage/packages/f23/quodlibet/po/zh_CN.po | 
+ | [pl](/f23/language/pl) | 5174 | 5174 | 100.0 | /mnt/stockage/packages/f23/quodlibet/po/pl.po | 
+ | [el](/f23/language/el) | 5126 | 5174 | 99.1 | /mnt/stockage/packages/f23/quodlibet/po/el.po | 
+ | [nl](/f23/language/nl) | 5022 | 5174 | 97.1 | /mnt/stockage/packages/f23/quodlibet/po/nl.po | 
+ | [ru](/f23/language/ru) | 3698 | 5174 | 71.5 | /mnt/stockage/packages/f23/quodlibet/po/ru.po | 
+ | [de](/f23/language/de) | 2337 | 5174 | 45.2 | /mnt/stockage/packages/f23/quodlibet/po/de.po | 
+ | [sv](/f23/language/sv) | 1986 | 5174 | 38.4 | /mnt/stockage/packages/f23/quodlibet/po/sv.po | 
+ | [es](/f23/language/es) | 1841 | 5174 | 35.6 | /mnt/stockage/packages/f23/quodlibet/po/es.po | 
+ | [lt](/f23/language/lt) | 1837 | 5174 | 35.5 | /mnt/stockage/packages/f23/quodlibet/po/lt.po | 
+ | [eu](/f23/language/eu) | 1835 | 5174 | 35.5 | /mnt/stockage/packages/f23/quodlibet/po/eu.po | 
+ | [gl](/f23/language/gl) | 3659 | 10348 | 35.4 | /mnt/stockage/packages/f23/quodlibet/po/gl.po/mnt/stockage/packages/f23/quodlibet/po/gl_ES.po | 
+ | [cs](/f23/language/cs) | 1822 | 5174 | 35.2 | /mnt/stockage/packages/f23/quodlibet/po/cs_CZ.po | 
+ | [it](/f23/language/it) | 1532 | 5174 | 29.6 | /mnt/stockage/packages/f23/quodlibet/po/it.po | 
+ | [fr](/f23/language/fr) | 1508 | 5174 | 29.1 | /mnt/stockage/packages/f23/quodlibet/po/fr.po | 
+ | [pt_BR](/f23/language/pt_BR) | 1476 | 5174 | 28.5 | /mnt/stockage/packages/f23/quodlibet/po/pt.po | 
+ | [lv](/f23/language/lv) | 1437 | 5174 | 27.8 | /mnt/stockage/packages/f23/quodlibet/po/lv.po | 
+ | [tr](/f23/language/tr) | 1358 | 5174 | 26.2 | /mnt/stockage/packages/f23/quodlibet/po/tr.po | 
+ | [en_GB](/f23/language/en_GB) | 1327 | 5174 | 25.6 | /mnt/stockage/packages/f23/quodlibet/po/en_GB.po | 
+ | [en_CA](/f23/language/en_CA) | 1254 | 5174 | 24.2 | /mnt/stockage/packages/f23/quodlibet/po/en_CA.po | 
+ | [nb_NO](/f23/language/nb_NO) | 1248 | 5174 | 24.1 | /mnt/stockage/packages/f23/quodlibet/po/nb.po | 
+ | [fi](/f23/language/fi) | 1226 | 5174 | 23.7 | /mnt/stockage/packages/f23/quodlibet/po/fi.po | 
+ | [uk](/f23/language/uk) | 1226 | 5174 | 23.7 | /mnt/stockage/packages/f23/quodlibet/po/uk.po | 
+ | [ro](/f23/language/ro) | 1221 | 5174 | 23.6 | /mnt/stockage/packages/f23/quodlibet/po/ro.po | 
+ | [zh_Hant](/f23/language/zh_Hant) | 1217 | 5174 | 23.5 | /mnt/stockage/packages/f23/quodlibet/po/zh_TW.po | 
+ | [hu](/f23/language/hu) | 1200 | 5174 | 23.2 | /mnt/stockage/packages/f23/quodlibet/po/hu.po | 
+ | [ja](/f23/language/ja) | 1141 | 5174 | 22.1 | /mnt/stockage/packages/f23/quodlibet/po/ja.po | 
+ | [ko](/f23/language/ko) | 1138 | 5174 | 22.0 | /mnt/stockage/packages/f23/quodlibet/po/ko.po | 
+ | [sk](/f23/language/sk) | 1116 | 5174 | 21.6 | /mnt/stockage/packages/f23/quodlibet/po/sk.po | 
+ | [he](/f23/language/he) | 1086 | 5174 | 21.0 | /mnt/stockage/packages/f23/quodlibet/po/he.po | 
+ | [bg](/f23/language/bg) | 1065 | 5174 | 20.6 | /mnt/stockage/packages/f23/quodlibet/po/bg.po | 
+ | [zh_Hans](/f23/language/zh_Hans) | 787 | 5174 | 15.2 | /mnt/stockage/packages/f23/quodlibet/po/zh_CN.po | 
 {.sortable}
 
 

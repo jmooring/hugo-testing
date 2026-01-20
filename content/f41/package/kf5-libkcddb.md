@@ -18,77 +18,77 @@ The package kf5-libkcddb (version 23.08.5):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f41/language/ar.md" >}}) | 400 | 400 | 100.0 | /mnt/stockage/packages/f41/kf5-libkcddb/po/ar/kcmcddb.po/mnt/stockage/packages/f41/kf5-libkcddb/po/ar/libkcddb.po | 
- | [bg]({{< ref "/f41/language/bg.md" >}}) | 400 | 400 | 100.0 | /mnt/stockage/packages/f41/kf5-libkcddb/po/bg/kcmcddb.po/mnt/stockage/packages/f41/kf5-libkcddb/po/bg/libkcddb.po | 
- | [ca]({{< ref "/f41/language/ca.md" >}}) | 400 | 400 | 100.0 | /mnt/stockage/packages/f41/kf5-libkcddb/po/ca/kcmcddb.po/mnt/stockage/packages/f41/kf5-libkcddb/po/ca/libkcddb.po | 
- | [ca@valencia]({{< ref "/f41/language/ca@valencia.md" >}}) | 400 | 400 | 100.0 | /mnt/stockage/packages/f41/kf5-libkcddb/po/ca@valencia/kcmcddb.po/mnt/stockage/packages/f41/kf5-libkcddb/po/ca@valencia/libkcddb.po | 
- | [cs]({{< ref "/f41/language/cs.md" >}}) | 400 | 400 | 100.0 | /mnt/stockage/packages/f41/kf5-libkcddb/po/cs/kcmcddb.po/mnt/stockage/packages/f41/kf5-libkcddb/po/cs/libkcddb.po | 
- | [da]({{< ref "/f41/language/da.md" >}}) | 400 | 400 | 100.0 | /mnt/stockage/packages/f41/kf5-libkcddb/po/da/kcmcddb.po/mnt/stockage/packages/f41/kf5-libkcddb/po/da/libkcddb.po | 
- | [de]({{< ref "/f41/language/de.md" >}}) | 400 | 400 | 100.0 | /mnt/stockage/packages/f41/kf5-libkcddb/po/de/kcmcddb.po/mnt/stockage/packages/f41/kf5-libkcddb/po/de/libkcddb.po | 
- | [el]({{< ref "/f41/language/el.md" >}}) | 400 | 400 | 100.0 | /mnt/stockage/packages/f41/kf5-libkcddb/po/el/kcmcddb.po/mnt/stockage/packages/f41/kf5-libkcddb/po/el/libkcddb.po | 
- | [en_GB]({{< ref "/f41/language/en_GB.md" >}}) | 400 | 400 | 100.0 | /mnt/stockage/packages/f41/kf5-libkcddb/po/en_GB/kcmcddb.po/mnt/stockage/packages/f41/kf5-libkcddb/po/en_GB/libkcddb.po | 
- | [eo]({{< ref "/f41/language/eo.md" >}}) | 400 | 400 | 100.0 | /mnt/stockage/packages/f41/kf5-libkcddb/po/eo/kcmcddb.po/mnt/stockage/packages/f41/kf5-libkcddb/po/eo/libkcddb.po | 
- | [es]({{< ref "/f41/language/es.md" >}}) | 400 | 400 | 100.0 | /mnt/stockage/packages/f41/kf5-libkcddb/po/es/kcmcddb.po/mnt/stockage/packages/f41/kf5-libkcddb/po/es/libkcddb.po | 
- | [et]({{< ref "/f41/language/et.md" >}}) | 400 | 400 | 100.0 | /mnt/stockage/packages/f41/kf5-libkcddb/po/et/kcmcddb.po/mnt/stockage/packages/f41/kf5-libkcddb/po/et/libkcddb.po | 
- | [eu]({{< ref "/f41/language/eu.md" >}}) | 400 | 400 | 100.0 | /mnt/stockage/packages/f41/kf5-libkcddb/po/eu/kcmcddb.po/mnt/stockage/packages/f41/kf5-libkcddb/po/eu/libkcddb.po | 
- | [fi]({{< ref "/f41/language/fi.md" >}}) | 400 | 400 | 100.0 | /mnt/stockage/packages/f41/kf5-libkcddb/po/fi/kcmcddb.po/mnt/stockage/packages/f41/kf5-libkcddb/po/fi/libkcddb.po | 
- | [fr]({{< ref "/f41/language/fr.md" >}}) | 400 | 400 | 100.0 | /mnt/stockage/packages/f41/kf5-libkcddb/po/fr/kcmcddb.po/mnt/stockage/packages/f41/kf5-libkcddb/po/fr/libkcddb.po | 
- | [gl]({{< ref "/f41/language/gl.md" >}}) | 400 | 400 | 100.0 | /mnt/stockage/packages/f41/kf5-libkcddb/po/gl/kcmcddb.po/mnt/stockage/packages/f41/kf5-libkcddb/po/gl/libkcddb.po | 
- | [hu]({{< ref "/f41/language/hu.md" >}}) | 400 | 400 | 100.0 | /mnt/stockage/packages/f41/kf5-libkcddb/po/hu/kcmcddb.po/mnt/stockage/packages/f41/kf5-libkcddb/po/hu/libkcddb.po | 
- | [ia]({{< ref "/f41/language/ia.md" >}}) | 400 | 400 | 100.0 | /mnt/stockage/packages/f41/kf5-libkcddb/po/ia/kcmcddb.po/mnt/stockage/packages/f41/kf5-libkcddb/po/ia/libkcddb.po | 
- | [is]({{< ref "/f41/language/is.md" >}}) | 400 | 400 | 100.0 | /mnt/stockage/packages/f41/kf5-libkcddb/po/is/kcmcddb.po/mnt/stockage/packages/f41/kf5-libkcddb/po/is/libkcddb.po | 
- | [it]({{< ref "/f41/language/it.md" >}}) | 400 | 400 | 100.0 | /mnt/stockage/packages/f41/kf5-libkcddb/po/it/kcmcddb.po/mnt/stockage/packages/f41/kf5-libkcddb/po/it/libkcddb.po | 
- | [ka]({{< ref "/f41/language/ka.md" >}}) | 400 | 400 | 100.0 | /mnt/stockage/packages/f41/kf5-libkcddb/po/ka/kcmcddb.po/mnt/stockage/packages/f41/kf5-libkcddb/po/ka/libkcddb.po | 
- | [ko]({{< ref "/f41/language/ko.md" >}}) | 400 | 400 | 100.0 | /mnt/stockage/packages/f41/kf5-libkcddb/po/ko/kcmcddb.po/mnt/stockage/packages/f41/kf5-libkcddb/po/ko/libkcddb.po | 
- | [nl]({{< ref "/f41/language/nl.md" >}}) | 400 | 400 | 100.0 | /mnt/stockage/packages/f41/kf5-libkcddb/po/nl/kcmcddb.po/mnt/stockage/packages/f41/kf5-libkcddb/po/nl/libkcddb.po | 
- | [nn]({{< ref "/f41/language/nn.md" >}}) | 400 | 400 | 100.0 | /mnt/stockage/packages/f41/kf5-libkcddb/po/nn/kcmcddb.po/mnt/stockage/packages/f41/kf5-libkcddb/po/nn/libkcddb.po | 
- | [pl]({{< ref "/f41/language/pl.md" >}}) | 400 | 400 | 100.0 | /mnt/stockage/packages/f41/kf5-libkcddb/po/pl/kcmcddb.po/mnt/stockage/packages/f41/kf5-libkcddb/po/pl/libkcddb.po | 
- | [pt]({{< ref "/f41/language/pt.md" >}}) | 400 | 400 | 100.0 | /mnt/stockage/packages/f41/kf5-libkcddb/po/pt/kcmcddb.po/mnt/stockage/packages/f41/kf5-libkcddb/po/pt/libkcddb.po | 
- | [pt_BR]({{< ref "/f41/language/pt_BR.md" >}}) | 400 | 400 | 100.0 | /mnt/stockage/packages/f41/kf5-libkcddb/po/pt_BR/kcmcddb.po/mnt/stockage/packages/f41/kf5-libkcddb/po/pt_BR/libkcddb.po | 
- | [ru]({{< ref "/f41/language/ru.md" >}}) | 400 | 400 | 100.0 | /mnt/stockage/packages/f41/kf5-libkcddb/po/ru/kcmcddb.po/mnt/stockage/packages/f41/kf5-libkcddb/po/ru/libkcddb.po | 
- | [sk]({{< ref "/f41/language/sk.md" >}}) | 400 | 400 | 100.0 | /mnt/stockage/packages/f41/kf5-libkcddb/po/sk/kcmcddb.po/mnt/stockage/packages/f41/kf5-libkcddb/po/sk/libkcddb.po | 
- | [sl]({{< ref "/f41/language/sl.md" >}}) | 400 | 400 | 100.0 | /mnt/stockage/packages/f41/kf5-libkcddb/po/sl/kcmcddb.po/mnt/stockage/packages/f41/kf5-libkcddb/po/sl/libkcddb.po | 
- | [sv]({{< ref "/f41/language/sv.md" >}}) | 400 | 400 | 100.0 | /mnt/stockage/packages/f41/kf5-libkcddb/po/sv/kcmcddb.po/mnt/stockage/packages/f41/kf5-libkcddb/po/sv/libkcddb.po | 
- | [tr]({{< ref "/f41/language/tr.md" >}}) | 400 | 400 | 100.0 | /mnt/stockage/packages/f41/kf5-libkcddb/po/tr/kcmcddb.po/mnt/stockage/packages/f41/kf5-libkcddb/po/tr/libkcddb.po | 
- | [uk]({{< ref "/f41/language/uk.md" >}}) | 400 | 400 | 100.0 | /mnt/stockage/packages/f41/kf5-libkcddb/po/uk/kcmcddb.po/mnt/stockage/packages/f41/kf5-libkcddb/po/uk/libkcddb.po | 
- | [zh_Hans]({{< ref "/f41/language/zh_Hans.md" >}}) | 400 | 400 | 100.0 | /mnt/stockage/packages/f41/kf5-libkcddb/po/zh_CN/kcmcddb.po/mnt/stockage/packages/f41/kf5-libkcddb/po/zh_CN/libkcddb.po | 
- | [zh_Hant]({{< ref "/f41/language/zh_Hant.md" >}}) | 400 | 400 | 100.0 | /mnt/stockage/packages/f41/kf5-libkcddb/po/zh_TW/kcmcddb.po/mnt/stockage/packages/f41/kf5-libkcddb/po/zh_TW/libkcddb.po | 
- | [sr]({{< ref "/f41/language/sr.md" >}}) | 470 | 476 | 98.7 | /mnt/stockage/packages/f41/kf5-libkcddb/po/sr/kcmcddb.po/mnt/stockage/packages/f41/kf5-libkcddb/po/sr/libkcddb.po | 
- | [sr@ijekavian]({{< ref "/f41/language/sr@ijekavian.md" >}}) | 470 | 476 | 98.7 | /mnt/stockage/packages/f41/kf5-libkcddb/po/sr@ijekavian/kcmcddb.po/mnt/stockage/packages/f41/kf5-libkcddb/po/sr@ijekavian/libkcddb.po | 
- | [sr@ijekavian_Latn]({{< ref "/f41/language/sr@ijekavian_Latn.md" >}}) | 470 | 476 | 98.7 | /mnt/stockage/packages/f41/kf5-libkcddb/po/sr@ijekavianlatin/kcmcddb.po/mnt/stockage/packages/f41/kf5-libkcddb/po/sr@ijekavianlatin/libkcddb.po | 
- | [sr_Latn]({{< ref "/f41/language/sr_Latn.md" >}}) | 470 | 476 | 98.7 | /mnt/stockage/packages/f41/kf5-libkcddb/po/sr@latin/kcmcddb.po/mnt/stockage/packages/f41/kf5-libkcddb/po/sr@latin/libkcddb.po | 
- | [bs]({{< ref "/f41/language/bs.md" >}}) | 394 | 400 | 98.5 | /mnt/stockage/packages/f41/kf5-libkcddb/po/bs/kcmcddb.po/mnt/stockage/packages/f41/kf5-libkcddb/po/bs/libkcddb.po | 
- | [ga]({{< ref "/f41/language/ga.md" >}}) | 394 | 400 | 98.5 | /mnt/stockage/packages/f41/kf5-libkcddb/po/ga/kcmcddb.po/mnt/stockage/packages/f41/kf5-libkcddb/po/ga/libkcddb.po | 
- | [kk]({{< ref "/f41/language/kk.md" >}}) | 394 | 400 | 98.5 | /mnt/stockage/packages/f41/kf5-libkcddb/po/kk/kcmcddb.po/mnt/stockage/packages/f41/kf5-libkcddb/po/kk/libkcddb.po | 
- | [km]({{< ref "/f41/language/km.md" >}}) | 394 | 400 | 98.5 | /mnt/stockage/packages/f41/kf5-libkcddb/po/km/kcmcddb.po/mnt/stockage/packages/f41/kf5-libkcddb/po/km/libkcddb.po | 
- | [mr]({{< ref "/f41/language/mr.md" >}}) | 394 | 400 | 98.5 | /mnt/stockage/packages/f41/kf5-libkcddb/po/mr/kcmcddb.po/mnt/stockage/packages/f41/kf5-libkcddb/po/mr/libkcddb.po | 
- | [nb_NO]({{< ref "/f41/language/nb_NO.md" >}}) | 394 | 400 | 98.5 | /mnt/stockage/packages/f41/kf5-libkcddb/po/nb/kcmcddb.po/mnt/stockage/packages/f41/kf5-libkcddb/po/nb/libkcddb.po | 
- | [nds]({{< ref "/f41/language/nds.md" >}}) | 394 | 400 | 98.5 | /mnt/stockage/packages/f41/kf5-libkcddb/po/nds/kcmcddb.po/mnt/stockage/packages/f41/kf5-libkcddb/po/nds/libkcddb.po | 
- | [ug]({{< ref "/f41/language/ug.md" >}}) | 377 | 400 | 94.2 | /mnt/stockage/packages/f41/kf5-libkcddb/po/ug/kcmcddb.po/mnt/stockage/packages/f41/kf5-libkcddb/po/ug/libkcddb.po | 
- | [zh_Hant_HK]({{< ref "/f41/language/zh_Hant_HK.md" >}}) | 77 | 90 | 85.6 | /mnt/stockage/packages/f41/kf5-libkcddb/po/zh_HK/kcmcddb.po | 
- | [lt]({{< ref "/f41/language/lt.md" >}}) | 304 | 400 | 76.0 | /mnt/stockage/packages/f41/kf5-libkcddb/po/lt/kcmcddb.po/mnt/stockage/packages/f41/kf5-libkcddb/po/lt/libkcddb.po | 
- | [lv]({{< ref "/f41/language/lv.md" >}}) | 304 | 400 | 76.0 | /mnt/stockage/packages/f41/kf5-libkcddb/po/lv/kcmcddb.po/mnt/stockage/packages/f41/kf5-libkcddb/po/lv/libkcddb.po | 
- | [th]({{< ref "/f41/language/th.md" >}}) | 304 | 400 | 76.0 | /mnt/stockage/packages/f41/kf5-libkcddb/po/th/kcmcddb.po/mnt/stockage/packages/f41/kf5-libkcddb/po/th/libkcddb.po | 
- | [hi]({{< ref "/f41/language/hi.md" >}}) | 302 | 400 | 75.5 | /mnt/stockage/packages/f41/kf5-libkcddb/po/hi/kcmcddb.po/mnt/stockage/packages/f41/kf5-libkcddb/po/hi/libkcddb.po | 
- | [hne]({{< ref "/f41/language/hne.md" >}}) | 302 | 400 | 75.5 | /mnt/stockage/packages/f41/kf5-libkcddb/po/hne/kcmcddb.po/mnt/stockage/packages/f41/kf5-libkcddb/po/hne/libkcddb.po | 
- | [ms]({{< ref "/f41/language/ms.md" >}}) | 300 | 400 | 75.0 | /mnt/stockage/packages/f41/kf5-libkcddb/po/ms/kcmcddb.po/mnt/stockage/packages/f41/kf5-libkcddb/po/ms/libkcddb.po | 
- | [ne]({{< ref "/f41/language/ne.md" >}}) | 293 | 400 | 73.2 | /mnt/stockage/packages/f41/kf5-libkcddb/po/ne/kcmcddb.po/mnt/stockage/packages/f41/kf5-libkcddb/po/ne/libkcddb.po | 
- | [ja]({{< ref "/f41/language/ja.md" >}}) | 292 | 400 | 73.0 | /mnt/stockage/packages/f41/kf5-libkcddb/po/ja/kcmcddb.po/mnt/stockage/packages/f41/kf5-libkcddb/po/ja/libkcddb.po | 
- | [he]({{< ref "/f41/language/he.md" >}}) | 290 | 400 | 72.5 | /mnt/stockage/packages/f41/kf5-libkcddb/po/he/kcmcddb.po/mnt/stockage/packages/f41/kf5-libkcddb/po/he/libkcddb.po | 
- | [fa]({{< ref "/f41/language/fa.md" >}}) | 285 | 400 | 71.2 | /mnt/stockage/packages/f41/kf5-libkcddb/po/fa/kcmcddb.po/mnt/stockage/packages/f41/kf5-libkcddb/po/fa/libkcddb.po | 
- | [ro]({{< ref "/f41/language/ro.md" >}}) | 271 | 400 | 67.8 | /mnt/stockage/packages/f41/kf5-libkcddb/po/ro/kcmcddb.po/mnt/stockage/packages/f41/kf5-libkcddb/po/ro/libkcddb.po | 
- | [pa]({{< ref "/f41/language/pa.md" >}}) | 254 | 400 | 63.5 | /mnt/stockage/packages/f41/kf5-libkcddb/po/pa/kcmcddb.po/mnt/stockage/packages/f41/kf5-libkcddb/po/pa/libkcddb.po | 
- | [mk]({{< ref "/f41/language/mk.md" >}}) | 246 | 400 | 61.5 | /mnt/stockage/packages/f41/kf5-libkcddb/po/mk/kcmcddb.po/mnt/stockage/packages/f41/kf5-libkcddb/po/mk/libkcddb.po | 
- | [sq]({{< ref "/f41/language/sq.md" >}}) | 237 | 400 | 59.2 | /mnt/stockage/packages/f41/kf5-libkcddb/po/sq/kcmcddb.po/mnt/stockage/packages/f41/kf5-libkcddb/po/sq/libkcddb.po | 
- | [br]({{< ref "/f41/language/br.md" >}}) | 166 | 400 | 41.5 | /mnt/stockage/packages/f41/kf5-libkcddb/po/br/kcmcddb.po/mnt/stockage/packages/f41/kf5-libkcddb/po/br/libkcddb.po | 
- | [xh]({{< ref "/f41/language/xh.md" >}}) | 37 | 90 | 41.1 | /mnt/stockage/packages/f41/kf5-libkcddb/po/xh/kcmcddb.po | 
- | [oc]({{< ref "/f41/language/oc.md" >}}) | 123 | 400 | 30.8 | /mnt/stockage/packages/f41/kf5-libkcddb/po/oc/kcmcddb.po/mnt/stockage/packages/f41/kf5-libkcddb/po/oc/libkcddb.po | 
- | [ta]({{< ref "/f41/language/ta.md" >}}) | 89 | 400 | 22.2 | /mnt/stockage/packages/f41/kf5-libkcddb/po/ta/kcmcddb.po/mnt/stockage/packages/f41/kf5-libkcddb/po/ta/libkcddb.po | 
- | [tg]({{< ref "/f41/language/tg.md" >}}) | 70 | 400 | 17.5 | /mnt/stockage/packages/f41/kf5-libkcddb/po/tg/kcmcddb.po/mnt/stockage/packages/f41/kf5-libkcddb/po/tg/libkcddb.po | 
- | [cy]({{< ref "/f41/language/cy.md" >}}) | 25 | 400 | 6.2 | /mnt/stockage/packages/f41/kf5-libkcddb/po/cy/kcmcddb.po/mnt/stockage/packages/f41/kf5-libkcddb/po/cy/libkcddb.po | 
- | [be]({{< ref "/f41/language/be.md" >}}) | 21 | 400 | 5.2 | /mnt/stockage/packages/f41/kf5-libkcddb/po/be/kcmcddb.po/mnt/stockage/packages/f41/kf5-libkcddb/po/be/libkcddb.po | 
- | [se]({{< ref "/f41/language/se.md" >}}) | 20 | 400 | 5.0 | /mnt/stockage/packages/f41/kf5-libkcddb/po/se/kcmcddb.po/mnt/stockage/packages/f41/kf5-libkcddb/po/se/libkcddb.po | 
- | [hr]({{< ref "/f41/language/hr.md" >}}) | 4 | 400 | 1.0 | /mnt/stockage/packages/f41/kf5-libkcddb/po/hr/kcmcddb.po/mnt/stockage/packages/f41/kf5-libkcddb/po/hr/libkcddb.po | 
+ | [ar](/f41/language/ar) | 400 | 400 | 100.0 | /mnt/stockage/packages/f41/kf5-libkcddb/po/ar/kcmcddb.po/mnt/stockage/packages/f41/kf5-libkcddb/po/ar/libkcddb.po | 
+ | [bg](/f41/language/bg) | 400 | 400 | 100.0 | /mnt/stockage/packages/f41/kf5-libkcddb/po/bg/kcmcddb.po/mnt/stockage/packages/f41/kf5-libkcddb/po/bg/libkcddb.po | 
+ | [ca](/f41/language/ca) | 400 | 400 | 100.0 | /mnt/stockage/packages/f41/kf5-libkcddb/po/ca/kcmcddb.po/mnt/stockage/packages/f41/kf5-libkcddb/po/ca/libkcddb.po | 
+ | [ca@valencia](/f41/language/ca@valencia) | 400 | 400 | 100.0 | /mnt/stockage/packages/f41/kf5-libkcddb/po/ca@valencia/kcmcddb.po/mnt/stockage/packages/f41/kf5-libkcddb/po/ca@valencia/libkcddb.po | 
+ | [cs](/f41/language/cs) | 400 | 400 | 100.0 | /mnt/stockage/packages/f41/kf5-libkcddb/po/cs/kcmcddb.po/mnt/stockage/packages/f41/kf5-libkcddb/po/cs/libkcddb.po | 
+ | [da](/f41/language/da) | 400 | 400 | 100.0 | /mnt/stockage/packages/f41/kf5-libkcddb/po/da/kcmcddb.po/mnt/stockage/packages/f41/kf5-libkcddb/po/da/libkcddb.po | 
+ | [de](/f41/language/de) | 400 | 400 | 100.0 | /mnt/stockage/packages/f41/kf5-libkcddb/po/de/kcmcddb.po/mnt/stockage/packages/f41/kf5-libkcddb/po/de/libkcddb.po | 
+ | [el](/f41/language/el) | 400 | 400 | 100.0 | /mnt/stockage/packages/f41/kf5-libkcddb/po/el/kcmcddb.po/mnt/stockage/packages/f41/kf5-libkcddb/po/el/libkcddb.po | 
+ | [en_GB](/f41/language/en_GB) | 400 | 400 | 100.0 | /mnt/stockage/packages/f41/kf5-libkcddb/po/en_GB/kcmcddb.po/mnt/stockage/packages/f41/kf5-libkcddb/po/en_GB/libkcddb.po | 
+ | [eo](/f41/language/eo) | 400 | 400 | 100.0 | /mnt/stockage/packages/f41/kf5-libkcddb/po/eo/kcmcddb.po/mnt/stockage/packages/f41/kf5-libkcddb/po/eo/libkcddb.po | 
+ | [es](/f41/language/es) | 400 | 400 | 100.0 | /mnt/stockage/packages/f41/kf5-libkcddb/po/es/kcmcddb.po/mnt/stockage/packages/f41/kf5-libkcddb/po/es/libkcddb.po | 
+ | [et](/f41/language/et) | 400 | 400 | 100.0 | /mnt/stockage/packages/f41/kf5-libkcddb/po/et/kcmcddb.po/mnt/stockage/packages/f41/kf5-libkcddb/po/et/libkcddb.po | 
+ | [eu](/f41/language/eu) | 400 | 400 | 100.0 | /mnt/stockage/packages/f41/kf5-libkcddb/po/eu/kcmcddb.po/mnt/stockage/packages/f41/kf5-libkcddb/po/eu/libkcddb.po | 
+ | [fi](/f41/language/fi) | 400 | 400 | 100.0 | /mnt/stockage/packages/f41/kf5-libkcddb/po/fi/kcmcddb.po/mnt/stockage/packages/f41/kf5-libkcddb/po/fi/libkcddb.po | 
+ | [fr](/f41/language/fr) | 400 | 400 | 100.0 | /mnt/stockage/packages/f41/kf5-libkcddb/po/fr/kcmcddb.po/mnt/stockage/packages/f41/kf5-libkcddb/po/fr/libkcddb.po | 
+ | [gl](/f41/language/gl) | 400 | 400 | 100.0 | /mnt/stockage/packages/f41/kf5-libkcddb/po/gl/kcmcddb.po/mnt/stockage/packages/f41/kf5-libkcddb/po/gl/libkcddb.po | 
+ | [hu](/f41/language/hu) | 400 | 400 | 100.0 | /mnt/stockage/packages/f41/kf5-libkcddb/po/hu/kcmcddb.po/mnt/stockage/packages/f41/kf5-libkcddb/po/hu/libkcddb.po | 
+ | [ia](/f41/language/ia) | 400 | 400 | 100.0 | /mnt/stockage/packages/f41/kf5-libkcddb/po/ia/kcmcddb.po/mnt/stockage/packages/f41/kf5-libkcddb/po/ia/libkcddb.po | 
+ | [is](/f41/language/is) | 400 | 400 | 100.0 | /mnt/stockage/packages/f41/kf5-libkcddb/po/is/kcmcddb.po/mnt/stockage/packages/f41/kf5-libkcddb/po/is/libkcddb.po | 
+ | [it](/f41/language/it) | 400 | 400 | 100.0 | /mnt/stockage/packages/f41/kf5-libkcddb/po/it/kcmcddb.po/mnt/stockage/packages/f41/kf5-libkcddb/po/it/libkcddb.po | 
+ | [ka](/f41/language/ka) | 400 | 400 | 100.0 | /mnt/stockage/packages/f41/kf5-libkcddb/po/ka/kcmcddb.po/mnt/stockage/packages/f41/kf5-libkcddb/po/ka/libkcddb.po | 
+ | [ko](/f41/language/ko) | 400 | 400 | 100.0 | /mnt/stockage/packages/f41/kf5-libkcddb/po/ko/kcmcddb.po/mnt/stockage/packages/f41/kf5-libkcddb/po/ko/libkcddb.po | 
+ | [nl](/f41/language/nl) | 400 | 400 | 100.0 | /mnt/stockage/packages/f41/kf5-libkcddb/po/nl/kcmcddb.po/mnt/stockage/packages/f41/kf5-libkcddb/po/nl/libkcddb.po | 
+ | [nn](/f41/language/nn) | 400 | 400 | 100.0 | /mnt/stockage/packages/f41/kf5-libkcddb/po/nn/kcmcddb.po/mnt/stockage/packages/f41/kf5-libkcddb/po/nn/libkcddb.po | 
+ | [pl](/f41/language/pl) | 400 | 400 | 100.0 | /mnt/stockage/packages/f41/kf5-libkcddb/po/pl/kcmcddb.po/mnt/stockage/packages/f41/kf5-libkcddb/po/pl/libkcddb.po | 
+ | [pt](/f41/language/pt) | 400 | 400 | 100.0 | /mnt/stockage/packages/f41/kf5-libkcddb/po/pt/kcmcddb.po/mnt/stockage/packages/f41/kf5-libkcddb/po/pt/libkcddb.po | 
+ | [pt_BR](/f41/language/pt_BR) | 400 | 400 | 100.0 | /mnt/stockage/packages/f41/kf5-libkcddb/po/pt_BR/kcmcddb.po/mnt/stockage/packages/f41/kf5-libkcddb/po/pt_BR/libkcddb.po | 
+ | [ru](/f41/language/ru) | 400 | 400 | 100.0 | /mnt/stockage/packages/f41/kf5-libkcddb/po/ru/kcmcddb.po/mnt/stockage/packages/f41/kf5-libkcddb/po/ru/libkcddb.po | 
+ | [sk](/f41/language/sk) | 400 | 400 | 100.0 | /mnt/stockage/packages/f41/kf5-libkcddb/po/sk/kcmcddb.po/mnt/stockage/packages/f41/kf5-libkcddb/po/sk/libkcddb.po | 
+ | [sl](/f41/language/sl) | 400 | 400 | 100.0 | /mnt/stockage/packages/f41/kf5-libkcddb/po/sl/kcmcddb.po/mnt/stockage/packages/f41/kf5-libkcddb/po/sl/libkcddb.po | 
+ | [sv](/f41/language/sv) | 400 | 400 | 100.0 | /mnt/stockage/packages/f41/kf5-libkcddb/po/sv/kcmcddb.po/mnt/stockage/packages/f41/kf5-libkcddb/po/sv/libkcddb.po | 
+ | [tr](/f41/language/tr) | 400 | 400 | 100.0 | /mnt/stockage/packages/f41/kf5-libkcddb/po/tr/kcmcddb.po/mnt/stockage/packages/f41/kf5-libkcddb/po/tr/libkcddb.po | 
+ | [uk](/f41/language/uk) | 400 | 400 | 100.0 | /mnt/stockage/packages/f41/kf5-libkcddb/po/uk/kcmcddb.po/mnt/stockage/packages/f41/kf5-libkcddb/po/uk/libkcddb.po | 
+ | [zh_Hans](/f41/language/zh_Hans) | 400 | 400 | 100.0 | /mnt/stockage/packages/f41/kf5-libkcddb/po/zh_CN/kcmcddb.po/mnt/stockage/packages/f41/kf5-libkcddb/po/zh_CN/libkcddb.po | 
+ | [zh_Hant](/f41/language/zh_Hant) | 400 | 400 | 100.0 | /mnt/stockage/packages/f41/kf5-libkcddb/po/zh_TW/kcmcddb.po/mnt/stockage/packages/f41/kf5-libkcddb/po/zh_TW/libkcddb.po | 
+ | [sr](/f41/language/sr) | 470 | 476 | 98.7 | /mnt/stockage/packages/f41/kf5-libkcddb/po/sr/kcmcddb.po/mnt/stockage/packages/f41/kf5-libkcddb/po/sr/libkcddb.po | 
+ | [sr@ijekavian](/f41/language/sr@ijekavian) | 470 | 476 | 98.7 | /mnt/stockage/packages/f41/kf5-libkcddb/po/sr@ijekavian/kcmcddb.po/mnt/stockage/packages/f41/kf5-libkcddb/po/sr@ijekavian/libkcddb.po | 
+ | [sr@ijekavian_Latn](/f41/language/sr@ijekavian_Latn) | 470 | 476 | 98.7 | /mnt/stockage/packages/f41/kf5-libkcddb/po/sr@ijekavianlatin/kcmcddb.po/mnt/stockage/packages/f41/kf5-libkcddb/po/sr@ijekavianlatin/libkcddb.po | 
+ | [sr_Latn](/f41/language/sr_Latn) | 470 | 476 | 98.7 | /mnt/stockage/packages/f41/kf5-libkcddb/po/sr@latin/kcmcddb.po/mnt/stockage/packages/f41/kf5-libkcddb/po/sr@latin/libkcddb.po | 
+ | [bs](/f41/language/bs) | 394 | 400 | 98.5 | /mnt/stockage/packages/f41/kf5-libkcddb/po/bs/kcmcddb.po/mnt/stockage/packages/f41/kf5-libkcddb/po/bs/libkcddb.po | 
+ | [ga](/f41/language/ga) | 394 | 400 | 98.5 | /mnt/stockage/packages/f41/kf5-libkcddb/po/ga/kcmcddb.po/mnt/stockage/packages/f41/kf5-libkcddb/po/ga/libkcddb.po | 
+ | [kk](/f41/language/kk) | 394 | 400 | 98.5 | /mnt/stockage/packages/f41/kf5-libkcddb/po/kk/kcmcddb.po/mnt/stockage/packages/f41/kf5-libkcddb/po/kk/libkcddb.po | 
+ | [km](/f41/language/km) | 394 | 400 | 98.5 | /mnt/stockage/packages/f41/kf5-libkcddb/po/km/kcmcddb.po/mnt/stockage/packages/f41/kf5-libkcddb/po/km/libkcddb.po | 
+ | [mr](/f41/language/mr) | 394 | 400 | 98.5 | /mnt/stockage/packages/f41/kf5-libkcddb/po/mr/kcmcddb.po/mnt/stockage/packages/f41/kf5-libkcddb/po/mr/libkcddb.po | 
+ | [nb_NO](/f41/language/nb_NO) | 394 | 400 | 98.5 | /mnt/stockage/packages/f41/kf5-libkcddb/po/nb/kcmcddb.po/mnt/stockage/packages/f41/kf5-libkcddb/po/nb/libkcddb.po | 
+ | [nds](/f41/language/nds) | 394 | 400 | 98.5 | /mnt/stockage/packages/f41/kf5-libkcddb/po/nds/kcmcddb.po/mnt/stockage/packages/f41/kf5-libkcddb/po/nds/libkcddb.po | 
+ | [ug](/f41/language/ug) | 377 | 400 | 94.2 | /mnt/stockage/packages/f41/kf5-libkcddb/po/ug/kcmcddb.po/mnt/stockage/packages/f41/kf5-libkcddb/po/ug/libkcddb.po | 
+ | [zh_Hant_HK](/f41/language/zh_Hant_HK) | 77 | 90 | 85.6 | /mnt/stockage/packages/f41/kf5-libkcddb/po/zh_HK/kcmcddb.po | 
+ | [lt](/f41/language/lt) | 304 | 400 | 76.0 | /mnt/stockage/packages/f41/kf5-libkcddb/po/lt/kcmcddb.po/mnt/stockage/packages/f41/kf5-libkcddb/po/lt/libkcddb.po | 
+ | [lv](/f41/language/lv) | 304 | 400 | 76.0 | /mnt/stockage/packages/f41/kf5-libkcddb/po/lv/kcmcddb.po/mnt/stockage/packages/f41/kf5-libkcddb/po/lv/libkcddb.po | 
+ | [th](/f41/language/th) | 304 | 400 | 76.0 | /mnt/stockage/packages/f41/kf5-libkcddb/po/th/kcmcddb.po/mnt/stockage/packages/f41/kf5-libkcddb/po/th/libkcddb.po | 
+ | [hi](/f41/language/hi) | 302 | 400 | 75.5 | /mnt/stockage/packages/f41/kf5-libkcddb/po/hi/kcmcddb.po/mnt/stockage/packages/f41/kf5-libkcddb/po/hi/libkcddb.po | 
+ | [hne](/f41/language/hne) | 302 | 400 | 75.5 | /mnt/stockage/packages/f41/kf5-libkcddb/po/hne/kcmcddb.po/mnt/stockage/packages/f41/kf5-libkcddb/po/hne/libkcddb.po | 
+ | [ms](/f41/language/ms) | 300 | 400 | 75.0 | /mnt/stockage/packages/f41/kf5-libkcddb/po/ms/kcmcddb.po/mnt/stockage/packages/f41/kf5-libkcddb/po/ms/libkcddb.po | 
+ | [ne](/f41/language/ne) | 293 | 400 | 73.2 | /mnt/stockage/packages/f41/kf5-libkcddb/po/ne/kcmcddb.po/mnt/stockage/packages/f41/kf5-libkcddb/po/ne/libkcddb.po | 
+ | [ja](/f41/language/ja) | 292 | 400 | 73.0 | /mnt/stockage/packages/f41/kf5-libkcddb/po/ja/kcmcddb.po/mnt/stockage/packages/f41/kf5-libkcddb/po/ja/libkcddb.po | 
+ | [he](/f41/language/he) | 290 | 400 | 72.5 | /mnt/stockage/packages/f41/kf5-libkcddb/po/he/kcmcddb.po/mnt/stockage/packages/f41/kf5-libkcddb/po/he/libkcddb.po | 
+ | [fa](/f41/language/fa) | 285 | 400 | 71.2 | /mnt/stockage/packages/f41/kf5-libkcddb/po/fa/kcmcddb.po/mnt/stockage/packages/f41/kf5-libkcddb/po/fa/libkcddb.po | 
+ | [ro](/f41/language/ro) | 271 | 400 | 67.8 | /mnt/stockage/packages/f41/kf5-libkcddb/po/ro/kcmcddb.po/mnt/stockage/packages/f41/kf5-libkcddb/po/ro/libkcddb.po | 
+ | [pa](/f41/language/pa) | 254 | 400 | 63.5 | /mnt/stockage/packages/f41/kf5-libkcddb/po/pa/kcmcddb.po/mnt/stockage/packages/f41/kf5-libkcddb/po/pa/libkcddb.po | 
+ | [mk](/f41/language/mk) | 246 | 400 | 61.5 | /mnt/stockage/packages/f41/kf5-libkcddb/po/mk/kcmcddb.po/mnt/stockage/packages/f41/kf5-libkcddb/po/mk/libkcddb.po | 
+ | [sq](/f41/language/sq) | 237 | 400 | 59.2 | /mnt/stockage/packages/f41/kf5-libkcddb/po/sq/kcmcddb.po/mnt/stockage/packages/f41/kf5-libkcddb/po/sq/libkcddb.po | 
+ | [br](/f41/language/br) | 166 | 400 | 41.5 | /mnt/stockage/packages/f41/kf5-libkcddb/po/br/kcmcddb.po/mnt/stockage/packages/f41/kf5-libkcddb/po/br/libkcddb.po | 
+ | [xh](/f41/language/xh) | 37 | 90 | 41.1 | /mnt/stockage/packages/f41/kf5-libkcddb/po/xh/kcmcddb.po | 
+ | [oc](/f41/language/oc) | 123 | 400 | 30.8 | /mnt/stockage/packages/f41/kf5-libkcddb/po/oc/kcmcddb.po/mnt/stockage/packages/f41/kf5-libkcddb/po/oc/libkcddb.po | 
+ | [ta](/f41/language/ta) | 89 | 400 | 22.2 | /mnt/stockage/packages/f41/kf5-libkcddb/po/ta/kcmcddb.po/mnt/stockage/packages/f41/kf5-libkcddb/po/ta/libkcddb.po | 
+ | [tg](/f41/language/tg) | 70 | 400 | 17.5 | /mnt/stockage/packages/f41/kf5-libkcddb/po/tg/kcmcddb.po/mnt/stockage/packages/f41/kf5-libkcddb/po/tg/libkcddb.po | 
+ | [cy](/f41/language/cy) | 25 | 400 | 6.2 | /mnt/stockage/packages/f41/kf5-libkcddb/po/cy/kcmcddb.po/mnt/stockage/packages/f41/kf5-libkcddb/po/cy/libkcddb.po | 
+ | [be](/f41/language/be) | 21 | 400 | 5.2 | /mnt/stockage/packages/f41/kf5-libkcddb/po/be/kcmcddb.po/mnt/stockage/packages/f41/kf5-libkcddb/po/be/libkcddb.po | 
+ | [se](/f41/language/se) | 20 | 400 | 5.0 | /mnt/stockage/packages/f41/kf5-libkcddb/po/se/kcmcddb.po/mnt/stockage/packages/f41/kf5-libkcddb/po/se/libkcddb.po | 
+ | [hr](/f41/language/hr) | 4 | 400 | 1.0 | /mnt/stockage/packages/f41/kf5-libkcddb/po/hr/kcmcddb.po/mnt/stockage/packages/f41/kf5-libkcddb/po/hr/libkcddb.po | 
 {.sortable}
 
 

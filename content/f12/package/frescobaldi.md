@@ -18,16 +18,16 @@ The package frescobaldi (version 1.0.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [nl]({{< ref "/f12/language/nl.md" >}}) | 2823 | 2825 | 99.9 | /mnt/stockage/packages/f12/frescobaldi/po/nl.po | 
- | [gl]({{< ref "/f12/language/gl.md" >}}) | 2820 | 2825 | 99.8 | /mnt/stockage/packages/f12/frescobaldi/po/gl.po | 
- | [cs]({{< ref "/f12/language/cs.md" >}}) | 2802 | 2825 | 99.2 | /mnt/stockage/packages/f12/frescobaldi/po/cs.po | 
- | [de]({{< ref "/f12/language/de.md" >}}) | 2802 | 2825 | 99.2 | /mnt/stockage/packages/f12/frescobaldi/po/de.po | 
- | [es]({{< ref "/f12/language/es.md" >}}) | 2802 | 2825 | 99.2 | /mnt/stockage/packages/f12/frescobaldi/po/es.po | 
- | [it]({{< ref "/f12/language/it.md" >}}) | 2802 | 2825 | 99.2 | /mnt/stockage/packages/f12/frescobaldi/po/it.po | 
- | [fr]({{< ref "/f12/language/fr.md" >}}) | 2796 | 2825 | 99.0 | /mnt/stockage/packages/f12/frescobaldi/po/fr.po | 
- | [tr]({{< ref "/f12/language/tr.md" >}}) | 2796 | 2825 | 99.0 | /mnt/stockage/packages/f12/frescobaldi/po/tr.po | 
- | [pl]({{< ref "/f12/language/pl.md" >}}) | 2783 | 2825 | 98.5 | /mnt/stockage/packages/f12/frescobaldi/po/pl.po | 
- | [ru]({{< ref "/f12/language/ru.md" >}}) | 2262 | 2825 | 80.1 | /mnt/stockage/packages/f12/frescobaldi/po/ru.po | 
+ | [nl](/f12/language/nl) | 2823 | 2825 | 99.9 | /mnt/stockage/packages/f12/frescobaldi/po/nl.po | 
+ | [gl](/f12/language/gl) | 2820 | 2825 | 99.8 | /mnt/stockage/packages/f12/frescobaldi/po/gl.po | 
+ | [cs](/f12/language/cs) | 2802 | 2825 | 99.2 | /mnt/stockage/packages/f12/frescobaldi/po/cs.po | 
+ | [de](/f12/language/de) | 2802 | 2825 | 99.2 | /mnt/stockage/packages/f12/frescobaldi/po/de.po | 
+ | [es](/f12/language/es) | 2802 | 2825 | 99.2 | /mnt/stockage/packages/f12/frescobaldi/po/es.po | 
+ | [it](/f12/language/it) | 2802 | 2825 | 99.2 | /mnt/stockage/packages/f12/frescobaldi/po/it.po | 
+ | [fr](/f12/language/fr) | 2796 | 2825 | 99.0 | /mnt/stockage/packages/f12/frescobaldi/po/fr.po | 
+ | [tr](/f12/language/tr) | 2796 | 2825 | 99.0 | /mnt/stockage/packages/f12/frescobaldi/po/tr.po | 
+ | [pl](/f12/language/pl) | 2783 | 2825 | 98.5 | /mnt/stockage/packages/f12/frescobaldi/po/pl.po | 
+ | [ru](/f12/language/ru) | 2262 | 2825 | 80.1 | /mnt/stockage/packages/f12/frescobaldi/po/ru.po | 
 {.sortable}
 
 

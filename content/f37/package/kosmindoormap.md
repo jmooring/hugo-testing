@@ -18,31 +18,31 @@ The package kosmindoormap (version 23.08.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f37/language/ca.md" >}}) | 457 | 457 | 100.0 | /mnt/stockage/packages/f37/kosmindoormap/po/ca/kosmindoormap.po | 
- | [ca@valencia]({{< ref "/f37/language/ca@valencia.md" >}}) | 457 | 457 | 100.0 | /mnt/stockage/packages/f37/kosmindoormap/po/ca@valencia/kosmindoormap.po | 
- | [es]({{< ref "/f37/language/es.md" >}}) | 457 | 457 | 100.0 | /mnt/stockage/packages/f37/kosmindoormap/po/es/kosmindoormap.po | 
- | [fr]({{< ref "/f37/language/fr.md" >}}) | 457 | 457 | 100.0 | /mnt/stockage/packages/f37/kosmindoormap/po/fr/kosmindoormap.po | 
- | [it]({{< ref "/f37/language/it.md" >}}) | 457 | 457 | 100.0 | /mnt/stockage/packages/f37/kosmindoormap/po/it/kosmindoormap.po | 
- | [ka]({{< ref "/f37/language/ka.md" >}}) | 457 | 457 | 100.0 | /mnt/stockage/packages/f37/kosmindoormap/po/ka/kosmindoormap.po | 
- | [ko]({{< ref "/f37/language/ko.md" >}}) | 457 | 457 | 100.0 | /mnt/stockage/packages/f37/kosmindoormap/po/ko/kosmindoormap.po | 
- | [nl]({{< ref "/f37/language/nl.md" >}}) | 457 | 457 | 100.0 | /mnt/stockage/packages/f37/kosmindoormap/po/nl/kosmindoormap.po | 
- | [pl]({{< ref "/f37/language/pl.md" >}}) | 457 | 457 | 100.0 | /mnt/stockage/packages/f37/kosmindoormap/po/pl/kosmindoormap.po | 
- | [pt]({{< ref "/f37/language/pt.md" >}}) | 457 | 457 | 100.0 | /mnt/stockage/packages/f37/kosmindoormap/po/pt/kosmindoormap.po | 
- | [sl]({{< ref "/f37/language/sl.md" >}}) | 457 | 457 | 100.0 | /mnt/stockage/packages/f37/kosmindoormap/po/sl/kosmindoormap.po | 
- | [sv]({{< ref "/f37/language/sv.md" >}}) | 457 | 457 | 100.0 | /mnt/stockage/packages/f37/kosmindoormap/po/sv/kosmindoormap.po | 
- | [tr]({{< ref "/f37/language/tr.md" >}}) | 457 | 457 | 100.0 | /mnt/stockage/packages/f37/kosmindoormap/po/tr/kosmindoormap.po | 
- | [uk]({{< ref "/f37/language/uk.md" >}}) | 457 | 457 | 100.0 | /mnt/stockage/packages/f37/kosmindoormap/po/uk/kosmindoormap.po | 
- | [en_GB]({{< ref "/f37/language/en_GB.md" >}}) | 455 | 457 | 99.6 | /mnt/stockage/packages/f37/kosmindoormap/po/en_GB/kosmindoormap.po | 
- | [ru]({{< ref "/f37/language/ru.md" >}}) | 455 | 457 | 99.6 | /mnt/stockage/packages/f37/kosmindoormap/po/ru/kosmindoormap.po | 
- | [fi]({{< ref "/f37/language/fi.md" >}}) | 423 | 457 | 92.6 | /mnt/stockage/packages/f37/kosmindoormap/po/fi/kosmindoormap.po | 
- | [de]({{< ref "/f37/language/de.md" >}}) | 385 | 457 | 84.2 | /mnt/stockage/packages/f37/kosmindoormap/po/de/kosmindoormap.po | 
- | [cs]({{< ref "/f37/language/cs.md" >}}) | 335 | 457 | 73.3 | /mnt/stockage/packages/f37/kosmindoormap/po/cs/kosmindoormap.po | 
- | [pt_BR]({{< ref "/f37/language/pt_BR.md" >}}) | 287 | 457 | 62.8 | /mnt/stockage/packages/f37/kosmindoormap/po/pt_BR/kosmindoormap.po | 
- | [sk]({{< ref "/f37/language/sk.md" >}}) | 190 | 457 | 41.6 | /mnt/stockage/packages/f37/kosmindoormap/po/sk/kosmindoormap.po | 
- | [zh_Hans]({{< ref "/f37/language/zh_Hans.md" >}}) | 168 | 457 | 36.8 | /mnt/stockage/packages/f37/kosmindoormap/po/zh_CN/kosmindoormap.po | 
- | [ja]({{< ref "/f37/language/ja.md" >}}) | 0 | 457 | 0.0 | /mnt/stockage/packages/f37/kosmindoormap/po/ja/kosmindoormap.po | 
- | [lt]({{< ref "/f37/language/lt.md" >}}) | 0 | 457 | 0.0 | /mnt/stockage/packages/f37/kosmindoormap/po/lt/kosmindoormap.po | 
- | [zh_Hant]({{< ref "/f37/language/zh_Hant.md" >}}) | 0 | 457 | 0.0 | /mnt/stockage/packages/f37/kosmindoormap/po/zh_TW/kosmindoormap.po | 
+ | [ca](/f37/language/ca) | 457 | 457 | 100.0 | /mnt/stockage/packages/f37/kosmindoormap/po/ca/kosmindoormap.po | 
+ | [ca@valencia](/f37/language/ca@valencia) | 457 | 457 | 100.0 | /mnt/stockage/packages/f37/kosmindoormap/po/ca@valencia/kosmindoormap.po | 
+ | [es](/f37/language/es) | 457 | 457 | 100.0 | /mnt/stockage/packages/f37/kosmindoormap/po/es/kosmindoormap.po | 
+ | [fr](/f37/language/fr) | 457 | 457 | 100.0 | /mnt/stockage/packages/f37/kosmindoormap/po/fr/kosmindoormap.po | 
+ | [it](/f37/language/it) | 457 | 457 | 100.0 | /mnt/stockage/packages/f37/kosmindoormap/po/it/kosmindoormap.po | 
+ | [ka](/f37/language/ka) | 457 | 457 | 100.0 | /mnt/stockage/packages/f37/kosmindoormap/po/ka/kosmindoormap.po | 
+ | [ko](/f37/language/ko) | 457 | 457 | 100.0 | /mnt/stockage/packages/f37/kosmindoormap/po/ko/kosmindoormap.po | 
+ | [nl](/f37/language/nl) | 457 | 457 | 100.0 | /mnt/stockage/packages/f37/kosmindoormap/po/nl/kosmindoormap.po | 
+ | [pl](/f37/language/pl) | 457 | 457 | 100.0 | /mnt/stockage/packages/f37/kosmindoormap/po/pl/kosmindoormap.po | 
+ | [pt](/f37/language/pt) | 457 | 457 | 100.0 | /mnt/stockage/packages/f37/kosmindoormap/po/pt/kosmindoormap.po | 
+ | [sl](/f37/language/sl) | 457 | 457 | 100.0 | /mnt/stockage/packages/f37/kosmindoormap/po/sl/kosmindoormap.po | 
+ | [sv](/f37/language/sv) | 457 | 457 | 100.0 | /mnt/stockage/packages/f37/kosmindoormap/po/sv/kosmindoormap.po | 
+ | [tr](/f37/language/tr) | 457 | 457 | 100.0 | /mnt/stockage/packages/f37/kosmindoormap/po/tr/kosmindoormap.po | 
+ | [uk](/f37/language/uk) | 457 | 457 | 100.0 | /mnt/stockage/packages/f37/kosmindoormap/po/uk/kosmindoormap.po | 
+ | [en_GB](/f37/language/en_GB) | 455 | 457 | 99.6 | /mnt/stockage/packages/f37/kosmindoormap/po/en_GB/kosmindoormap.po | 
+ | [ru](/f37/language/ru) | 455 | 457 | 99.6 | /mnt/stockage/packages/f37/kosmindoormap/po/ru/kosmindoormap.po | 
+ | [fi](/f37/language/fi) | 423 | 457 | 92.6 | /mnt/stockage/packages/f37/kosmindoormap/po/fi/kosmindoormap.po | 
+ | [de](/f37/language/de) | 385 | 457 | 84.2 | /mnt/stockage/packages/f37/kosmindoormap/po/de/kosmindoormap.po | 
+ | [cs](/f37/language/cs) | 335 | 457 | 73.3 | /mnt/stockage/packages/f37/kosmindoormap/po/cs/kosmindoormap.po | 
+ | [pt_BR](/f37/language/pt_BR) | 287 | 457 | 62.8 | /mnt/stockage/packages/f37/kosmindoormap/po/pt_BR/kosmindoormap.po | 
+ | [sk](/f37/language/sk) | 190 | 457 | 41.6 | /mnt/stockage/packages/f37/kosmindoormap/po/sk/kosmindoormap.po | 
+ | [zh_Hans](/f37/language/zh_Hans) | 168 | 457 | 36.8 | /mnt/stockage/packages/f37/kosmindoormap/po/zh_CN/kosmindoormap.po | 
+ | [ja](/f37/language/ja) | 0 | 457 | 0.0 | /mnt/stockage/packages/f37/kosmindoormap/po/ja/kosmindoormap.po | 
+ | [lt](/f37/language/lt) | 0 | 457 | 0.0 | /mnt/stockage/packages/f37/kosmindoormap/po/lt/kosmindoormap.po | 
+ | [zh_Hant](/f37/language/zh_Hant) | 0 | 457 | 0.0 | /mnt/stockage/packages/f37/kosmindoormap/po/zh_TW/kosmindoormap.po | 
 {.sortable}
 
 

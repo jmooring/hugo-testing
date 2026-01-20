@@ -18,37 +18,37 @@ The package gnome-subtitles (version 1.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [bg]({{< ref "/f28/language/bg.md" >}}) | 718 | 718 | 100.0 | /mnt/stockage/packages/f28/gnome-subtitles/po/bg.po | 
- | [ca]({{< ref "/f28/language/ca.md" >}}) | 2714 | 2714 | 100.0 | /mnt/stockage/packages/f28/gnome-subtitles/help/ca/ca.po/mnt/stockage/packages/f28/gnome-subtitles/po/ca.po | 
- | [cs]({{< ref "/f28/language/cs.md" >}}) | 2907 | 2907 | 100.0 | /mnt/stockage/packages/f28/gnome-subtitles/help/cs/cs.po/mnt/stockage/packages/f28/gnome-subtitles/po/cs.po | 
- | [da]({{< ref "/f28/language/da.md" >}}) | 2868 | 2868 | 100.0 | /mnt/stockage/packages/f28/gnome-subtitles/help/da/da.po/mnt/stockage/packages/f28/gnome-subtitles/po/da.po | 
- | [de]({{< ref "/f28/language/de.md" >}}) | 2921 | 2921 | 100.0 | /mnt/stockage/packages/f28/gnome-subtitles/help/de/de.po/mnt/stockage/packages/f28/gnome-subtitles/po/de.po | 
- | [dz]({{< ref "/f28/language/dz.md" >}}) | 504 | 504 | 100.0 | /mnt/stockage/packages/f28/gnome-subtitles/po/dz.po | 
- | [en_GB]({{< ref "/f28/language/en_GB.md" >}}) | 611 | 611 | 100.0 | /mnt/stockage/packages/f28/gnome-subtitles/po/en_GB.po | 
- | [es]({{< ref "/f28/language/es.md" >}}) | 2854 | 2854 | 100.0 | /mnt/stockage/packages/f28/gnome-subtitles/help/es/es.po/mnt/stockage/packages/f28/gnome-subtitles/po/es.po | 
- | [fi]({{< ref "/f28/language/fi.md" >}}) | 637 | 637 | 100.0 | /mnt/stockage/packages/f28/gnome-subtitles/po/fi.po | 
- | [fr]({{< ref "/f28/language/fr.md" >}}) | 2854 | 2854 | 100.0 | /mnt/stockage/packages/f28/gnome-subtitles/help/fr/fr.po/mnt/stockage/packages/f28/gnome-subtitles/po/fr.po | 
- | [gl]({{< ref "/f28/language/gl.md" >}}) | 1030 | 1030 | 100.0 | /mnt/stockage/packages/f28/gnome-subtitles/po/gl.po | 
- | [he]({{< ref "/f28/language/he.md" >}}) | 1030 | 1030 | 100.0 | /mnt/stockage/packages/f28/gnome-subtitles/po/he.po | 
- | [hu]({{< ref "/f28/language/hu.md" >}}) | 1030 | 1030 | 100.0 | /mnt/stockage/packages/f28/gnome-subtitles/po/hu.po | 
- | [it]({{< ref "/f28/language/it.md" >}}) | 910 | 910 | 100.0 | /mnt/stockage/packages/f28/gnome-subtitles/po/it.po | 
- | [pl]({{< ref "/f28/language/pl.md" >}}) | 1030 | 1030 | 100.0 | /mnt/stockage/packages/f28/gnome-subtitles/po/pl.po | 
- | [pt_BR]({{< ref "/f28/language/pt_BR.md" >}}) | 1030 | 1030 | 100.0 | /mnt/stockage/packages/f28/gnome-subtitles/po/pt_BR.po | 
- | [ro]({{< ref "/f28/language/ro.md" >}}) | 2719 | 2719 | 100.0 | /mnt/stockage/packages/f28/gnome-subtitles/help/ro/ro.po/mnt/stockage/packages/f28/gnome-subtitles/po/ro.po | 
- | [ru]({{< ref "/f28/language/ru.md" >}}) | 1044 | 1044 | 100.0 | /mnt/stockage/packages/f28/gnome-subtitles/po/ru.po | 
- | [sr]({{< ref "/f28/language/sr.md" >}}) | 2060 | 2060 | 100.0 | /mnt/stockage/packages/f28/gnome-subtitles/po/sr@latin.po/mnt/stockage/packages/f28/gnome-subtitles/po/sr.po | 
- | [tr]({{< ref "/f28/language/tr.md" >}}) | 893 | 893 | 100.0 | /mnt/stockage/packages/f28/gnome-subtitles/po/tr.po | 
- | [zh_Hans]({{< ref "/f28/language/zh_Hans.md" >}}) | 902 | 910 | 99.1 | /mnt/stockage/packages/f28/gnome-subtitles/po/zh_CN.po | 
- | [pt]({{< ref "/f28/language/pt.md" >}}) | 893 | 910 | 98.1 | /mnt/stockage/packages/f28/gnome-subtitles/po/pt.po | 
- | [sl]({{< ref "/f28/language/sl.md" >}}) | 2613 | 2849 | 91.7 | /mnt/stockage/packages/f28/gnome-subtitles/help/sl/sl.po/mnt/stockage/packages/f28/gnome-subtitles/po/sl.po | 
- | [el]({{< ref "/f28/language/el.md" >}}) | 2594 | 2907 | 89.2 | /mnt/stockage/packages/f28/gnome-subtitles/help/el/el.po/mnt/stockage/packages/f28/gnome-subtitles/po/el.po | 
- | [zh_Hant]({{< ref "/f28/language/zh_Hant.md" >}}) | 1728 | 2088 | 82.8 | /mnt/stockage/packages/f28/gnome-subtitles/po/zh_TW.po/mnt/stockage/packages/f28/gnome-subtitles/po/zh_HK.po | 
- | [ca@valencia]({{< ref "/f28/language/ca@valencia.md" >}}) | 705 | 895 | 78.8 | /mnt/stockage/packages/f28/gnome-subtitles/po/ca@valencia.po | 
- | [sv]({{< ref "/f28/language/sv.md" >}}) | 1748 | 2729 | 64.1 | /mnt/stockage/packages/f28/gnome-subtitles/help/sv/sv.po/mnt/stockage/packages/f28/gnome-subtitles/po/sv.po | 
- | [pa]({{< ref "/f28/language/pa.md" >}}) | 489 | 895 | 54.6 | /mnt/stockage/packages/f28/gnome-subtitles/po/pa.po | 
- | [ar]({{< ref "/f28/language/ar.md" >}}) | 238 | 634 | 37.5 | /mnt/stockage/packages/f28/gnome-subtitles/po/ar.po | 
- | [oc]({{< ref "/f28/language/oc.md" >}}) | 161 | 2456 | 6.6 | /mnt/stockage/packages/f28/gnome-subtitles/help/oc/oc.po/mnt/stockage/packages/f28/gnome-subtitles/po/oc.po | 
- | [nb_NO]({{< ref "/f28/language/nb_NO.md" >}}) | 23 | 637 | 3.6 | /mnt/stockage/packages/f28/gnome-subtitles/po/nb.po | 
+ | [bg](/f28/language/bg) | 718 | 718 | 100.0 | /mnt/stockage/packages/f28/gnome-subtitles/po/bg.po | 
+ | [ca](/f28/language/ca) | 2714 | 2714 | 100.0 | /mnt/stockage/packages/f28/gnome-subtitles/help/ca/ca.po/mnt/stockage/packages/f28/gnome-subtitles/po/ca.po | 
+ | [cs](/f28/language/cs) | 2907 | 2907 | 100.0 | /mnt/stockage/packages/f28/gnome-subtitles/help/cs/cs.po/mnt/stockage/packages/f28/gnome-subtitles/po/cs.po | 
+ | [da](/f28/language/da) | 2868 | 2868 | 100.0 | /mnt/stockage/packages/f28/gnome-subtitles/help/da/da.po/mnt/stockage/packages/f28/gnome-subtitles/po/da.po | 
+ | [de](/f28/language/de) | 2921 | 2921 | 100.0 | /mnt/stockage/packages/f28/gnome-subtitles/help/de/de.po/mnt/stockage/packages/f28/gnome-subtitles/po/de.po | 
+ | [dz](/f28/language/dz) | 504 | 504 | 100.0 | /mnt/stockage/packages/f28/gnome-subtitles/po/dz.po | 
+ | [en_GB](/f28/language/en_GB) | 611 | 611 | 100.0 | /mnt/stockage/packages/f28/gnome-subtitles/po/en_GB.po | 
+ | [es](/f28/language/es) | 2854 | 2854 | 100.0 | /mnt/stockage/packages/f28/gnome-subtitles/help/es/es.po/mnt/stockage/packages/f28/gnome-subtitles/po/es.po | 
+ | [fi](/f28/language/fi) | 637 | 637 | 100.0 | /mnt/stockage/packages/f28/gnome-subtitles/po/fi.po | 
+ | [fr](/f28/language/fr) | 2854 | 2854 | 100.0 | /mnt/stockage/packages/f28/gnome-subtitles/help/fr/fr.po/mnt/stockage/packages/f28/gnome-subtitles/po/fr.po | 
+ | [gl](/f28/language/gl) | 1030 | 1030 | 100.0 | /mnt/stockage/packages/f28/gnome-subtitles/po/gl.po | 
+ | [he](/f28/language/he) | 1030 | 1030 | 100.0 | /mnt/stockage/packages/f28/gnome-subtitles/po/he.po | 
+ | [hu](/f28/language/hu) | 1030 | 1030 | 100.0 | /mnt/stockage/packages/f28/gnome-subtitles/po/hu.po | 
+ | [it](/f28/language/it) | 910 | 910 | 100.0 | /mnt/stockage/packages/f28/gnome-subtitles/po/it.po | 
+ | [pl](/f28/language/pl) | 1030 | 1030 | 100.0 | /mnt/stockage/packages/f28/gnome-subtitles/po/pl.po | 
+ | [pt_BR](/f28/language/pt_BR) | 1030 | 1030 | 100.0 | /mnt/stockage/packages/f28/gnome-subtitles/po/pt_BR.po | 
+ | [ro](/f28/language/ro) | 2719 | 2719 | 100.0 | /mnt/stockage/packages/f28/gnome-subtitles/help/ro/ro.po/mnt/stockage/packages/f28/gnome-subtitles/po/ro.po | 
+ | [ru](/f28/language/ru) | 1044 | 1044 | 100.0 | /mnt/stockage/packages/f28/gnome-subtitles/po/ru.po | 
+ | [sr](/f28/language/sr) | 2060 | 2060 | 100.0 | /mnt/stockage/packages/f28/gnome-subtitles/po/sr@latin.po/mnt/stockage/packages/f28/gnome-subtitles/po/sr.po | 
+ | [tr](/f28/language/tr) | 893 | 893 | 100.0 | /mnt/stockage/packages/f28/gnome-subtitles/po/tr.po | 
+ | [zh_Hans](/f28/language/zh_Hans) | 902 | 910 | 99.1 | /mnt/stockage/packages/f28/gnome-subtitles/po/zh_CN.po | 
+ | [pt](/f28/language/pt) | 893 | 910 | 98.1 | /mnt/stockage/packages/f28/gnome-subtitles/po/pt.po | 
+ | [sl](/f28/language/sl) | 2613 | 2849 | 91.7 | /mnt/stockage/packages/f28/gnome-subtitles/help/sl/sl.po/mnt/stockage/packages/f28/gnome-subtitles/po/sl.po | 
+ | [el](/f28/language/el) | 2594 | 2907 | 89.2 | /mnt/stockage/packages/f28/gnome-subtitles/help/el/el.po/mnt/stockage/packages/f28/gnome-subtitles/po/el.po | 
+ | [zh_Hant](/f28/language/zh_Hant) | 1728 | 2088 | 82.8 | /mnt/stockage/packages/f28/gnome-subtitles/po/zh_TW.po/mnt/stockage/packages/f28/gnome-subtitles/po/zh_HK.po | 
+ | [ca@valencia](/f28/language/ca@valencia) | 705 | 895 | 78.8 | /mnt/stockage/packages/f28/gnome-subtitles/po/ca@valencia.po | 
+ | [sv](/f28/language/sv) | 1748 | 2729 | 64.1 | /mnt/stockage/packages/f28/gnome-subtitles/help/sv/sv.po/mnt/stockage/packages/f28/gnome-subtitles/po/sv.po | 
+ | [pa](/f28/language/pa) | 489 | 895 | 54.6 | /mnt/stockage/packages/f28/gnome-subtitles/po/pa.po | 
+ | [ar](/f28/language/ar) | 238 | 634 | 37.5 | /mnt/stockage/packages/f28/gnome-subtitles/po/ar.po | 
+ | [oc](/f28/language/oc) | 161 | 2456 | 6.6 | /mnt/stockage/packages/f28/gnome-subtitles/help/oc/oc.po/mnt/stockage/packages/f28/gnome-subtitles/po/oc.po | 
+ | [nb_NO](/f28/language/nb_NO) | 23 | 637 | 3.6 | /mnt/stockage/packages/f28/gnome-subtitles/po/nb.po | 
 {.sortable}
 
 

@@ -18,26 +18,26 @@ The package trytond-timesheet (version 4.0.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f25/language/ca.md" >}}) | 278 | 278 | 100.0 | /mnt/stockage/packages/f25/trytond-timesheet/locale/ca_ES.po | 
- | [de]({{< ref "/f25/language/de.md" >}}) | 278 | 278 | 100.0 | /mnt/stockage/packages/f25/trytond-timesheet/locale/de_DE.po | 
- | [es]({{< ref "/f25/language/es.md" >}}) | 278 | 278 | 100.0 | /mnt/stockage/packages/f25/trytond-timesheet/locale/es_ES.po | 
- | [es_AR]({{< ref "/f25/language/es_AR.md" >}}) | 278 | 278 | 100.0 | /mnt/stockage/packages/f25/trytond-timesheet/locale/es_AR.po | 
- | [es_CO]({{< ref "/f25/language/es_CO.md" >}}) | 278 | 278 | 100.0 | /mnt/stockage/packages/f25/trytond-timesheet/locale/es_CO.po | 
- | [es_EC]({{< ref "/f25/language/es_EC.md" >}}) | 278 | 278 | 100.0 | /mnt/stockage/packages/f25/trytond-timesheet/locale/es_EC.po | 
- | [fr]({{< ref "/f25/language/fr.md" >}}) | 278 | 278 | 100.0 | /mnt/stockage/packages/f25/trytond-timesheet/locale/fr_FR.po | 
- | [lo]({{< ref "/f25/language/lo.md" >}}) | 278 | 278 | 100.0 | /mnt/stockage/packages/f25/trytond-timesheet/locale/lo_LA.po | 
- | [sl]({{< ref "/f25/language/sl.md" >}}) | 278 | 278 | 100.0 | /mnt/stockage/packages/f25/trytond-timesheet/locale/sl_SI.po | 
- | [hu]({{< ref "/f25/language/hu.md" >}}) | 261 | 278 | 93.9 | /mnt/stockage/packages/f25/trytond-timesheet/locale/hu_HU.po | 
- | [pt_BR]({{< ref "/f25/language/pt_BR.md" >}}) | 261 | 278 | 93.9 | /mnt/stockage/packages/f25/trytond-timesheet/locale/pt_BR.po | 
- | [ru]({{< ref "/f25/language/ru.md" >}}) | 227 | 278 | 81.7 | /mnt/stockage/packages/f25/trytond-timesheet/locale/ru_RU.po | 
- | [bg]({{< ref "/f25/language/bg.md" >}}) | 217 | 278 | 78.1 | /mnt/stockage/packages/f25/trytond-timesheet/locale/bg_BG.po | 
- | [es_MX]({{< ref "/f25/language/es_MX.md" >}}) | 217 | 278 | 78.1 | /mnt/stockage/packages/f25/trytond-timesheet/locale/es_MX.po | 
- | [nl]({{< ref "/f25/language/nl.md" >}}) | 111 | 278 | 39.9 | /mnt/stockage/packages/f25/trytond-timesheet/locale/nl_NL.po | 
- | [cs]({{< ref "/f25/language/cs.md" >}}) | 0 | 278 | 0.0 | /mnt/stockage/packages/f25/trytond-timesheet/locale/cs_CZ.po | 
- | [it]({{< ref "/f25/language/it.md" >}}) | 0 | 278 | 0.0 | /mnt/stockage/packages/f25/trytond-timesheet/locale/it_IT.po | 
- | [ja]({{< ref "/f25/language/ja.md" >}}) | 0 | 278 | 0.0 | /mnt/stockage/packages/f25/trytond-timesheet/locale/ja_JP.po | 
- | [lt]({{< ref "/f25/language/lt.md" >}}) | 0 | 278 | 0.0 | /mnt/stockage/packages/f25/trytond-timesheet/locale/lt_LT.po | 
- | [zh_Hans]({{< ref "/f25/language/zh_Hans.md" >}}) | 0 | 278 | 0.0 | /mnt/stockage/packages/f25/trytond-timesheet/locale/zh_CN.po | 
+ | [ca](/f25/language/ca) | 278 | 278 | 100.0 | /mnt/stockage/packages/f25/trytond-timesheet/locale/ca_ES.po | 
+ | [de](/f25/language/de) | 278 | 278 | 100.0 | /mnt/stockage/packages/f25/trytond-timesheet/locale/de_DE.po | 
+ | [es](/f25/language/es) | 278 | 278 | 100.0 | /mnt/stockage/packages/f25/trytond-timesheet/locale/es_ES.po | 
+ | [es_AR](/f25/language/es_AR) | 278 | 278 | 100.0 | /mnt/stockage/packages/f25/trytond-timesheet/locale/es_AR.po | 
+ | [es_CO](/f25/language/es_CO) | 278 | 278 | 100.0 | /mnt/stockage/packages/f25/trytond-timesheet/locale/es_CO.po | 
+ | [es_EC](/f25/language/es_EC) | 278 | 278 | 100.0 | /mnt/stockage/packages/f25/trytond-timesheet/locale/es_EC.po | 
+ | [fr](/f25/language/fr) | 278 | 278 | 100.0 | /mnt/stockage/packages/f25/trytond-timesheet/locale/fr_FR.po | 
+ | [lo](/f25/language/lo) | 278 | 278 | 100.0 | /mnt/stockage/packages/f25/trytond-timesheet/locale/lo_LA.po | 
+ | [sl](/f25/language/sl) | 278 | 278 | 100.0 | /mnt/stockage/packages/f25/trytond-timesheet/locale/sl_SI.po | 
+ | [hu](/f25/language/hu) | 261 | 278 | 93.9 | /mnt/stockage/packages/f25/trytond-timesheet/locale/hu_HU.po | 
+ | [pt_BR](/f25/language/pt_BR) | 261 | 278 | 93.9 | /mnt/stockage/packages/f25/trytond-timesheet/locale/pt_BR.po | 
+ | [ru](/f25/language/ru) | 227 | 278 | 81.7 | /mnt/stockage/packages/f25/trytond-timesheet/locale/ru_RU.po | 
+ | [bg](/f25/language/bg) | 217 | 278 | 78.1 | /mnt/stockage/packages/f25/trytond-timesheet/locale/bg_BG.po | 
+ | [es_MX](/f25/language/es_MX) | 217 | 278 | 78.1 | /mnt/stockage/packages/f25/trytond-timesheet/locale/es_MX.po | 
+ | [nl](/f25/language/nl) | 111 | 278 | 39.9 | /mnt/stockage/packages/f25/trytond-timesheet/locale/nl_NL.po | 
+ | [cs](/f25/language/cs) | 0 | 278 | 0.0 | /mnt/stockage/packages/f25/trytond-timesheet/locale/cs_CZ.po | 
+ | [it](/f25/language/it) | 0 | 278 | 0.0 | /mnt/stockage/packages/f25/trytond-timesheet/locale/it_IT.po | 
+ | [ja](/f25/language/ja) | 0 | 278 | 0.0 | /mnt/stockage/packages/f25/trytond-timesheet/locale/ja_JP.po | 
+ | [lt](/f25/language/lt) | 0 | 278 | 0.0 | /mnt/stockage/packages/f25/trytond-timesheet/locale/lt_LT.po | 
+ | [zh_Hans](/f25/language/zh_Hans) | 0 | 278 | 0.0 | /mnt/stockage/packages/f25/trytond-timesheet/locale/zh_CN.po | 
 {.sortable}
 
 

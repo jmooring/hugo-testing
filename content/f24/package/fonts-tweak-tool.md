@@ -18,84 +18,84 @@ The package fonts-tweak-tool (version 0.3.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [pl]({{< ref "/f24/language/pl.md" >}}) | 21 | 164 | 12.8 | /mnt/stockage/packages/f24/fonts-tweak-tool/po/pl.po | 
- | [pt_BR]({{< ref "/f24/language/pt_BR.md" >}}) | 21 | 164 | 12.8 | /mnt/stockage/packages/f24/fonts-tweak-tool/po/pt_BR.po | 
- | [zh_Hans]({{< ref "/f24/language/zh_Hans.md" >}}) | 21 | 164 | 12.8 | /mnt/stockage/packages/f24/fonts-tweak-tool/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f24/language/zh_Hant.md" >}}) | 21 | 164 | 12.8 | /mnt/stockage/packages/f24/fonts-tweak-tool/po/zh_TW.po | 
- | [af]({{< ref "/f24/language/af.md" >}}) | 0 | 164 | 0.0 | /mnt/stockage/packages/f24/fonts-tweak-tool/po/af.po | 
- | [am]({{< ref "/f24/language/am.md" >}}) | 0 | 164 | 0.0 | /mnt/stockage/packages/f24/fonts-tweak-tool/po/am.po | 
- | [ar]({{< ref "/f24/language/ar.md" >}}) | 0 | 164 | 0.0 | /mnt/stockage/packages/f24/fonts-tweak-tool/po/ar.po | 
- | [as]({{< ref "/f24/language/as.md" >}}) | 0 | 164 | 0.0 | /mnt/stockage/packages/f24/fonts-tweak-tool/po/as.po | 
- | [ast]({{< ref "/f24/language/ast.md" >}}) | 0 | 164 | 0.0 | /mnt/stockage/packages/f24/fonts-tweak-tool/po/ast.po | 
- | [az]({{< ref "/f24/language/az.md" >}}) | 0 | 164 | 0.0 | /mnt/stockage/packages/f24/fonts-tweak-tool/po/az.po | 
- | [bg]({{< ref "/f24/language/bg.md" >}}) | 0 | 164 | 0.0 | /mnt/stockage/packages/f24/fonts-tweak-tool/po/bg.po | 
- | [bn_BD]({{< ref "/f24/language/bn_BD.md" >}}) | 0 | 164 | 0.0 | /mnt/stockage/packages/f24/fonts-tweak-tool/po/bn.po | 
- | [bn_IN]({{< ref "/f24/language/bn_IN.md" >}}) | 0 | 164 | 0.0 | /mnt/stockage/packages/f24/fonts-tweak-tool/po/bn_IN.po | 
- | [brx]({{< ref "/f24/language/brx.md" >}}) | 0 | 164 | 0.0 | /mnt/stockage/packages/f24/fonts-tweak-tool/po/brx.po | 
- | [bs]({{< ref "/f24/language/bs.md" >}}) | 0 | 164 | 0.0 | /mnt/stockage/packages/f24/fonts-tweak-tool/po/bs.po | 
- | [ca]({{< ref "/f24/language/ca.md" >}}) | 0 | 164 | 0.0 | /mnt/stockage/packages/f24/fonts-tweak-tool/po/ca.po | 
- | [cs]({{< ref "/f24/language/cs.md" >}}) | 0 | 164 | 0.0 | /mnt/stockage/packages/f24/fonts-tweak-tool/po/cs.po | 
- | [cy]({{< ref "/f24/language/cy.md" >}}) | 0 | 164 | 0.0 | /mnt/stockage/packages/f24/fonts-tweak-tool/po/cy.po | 
- | [da]({{< ref "/f24/language/da.md" >}}) | 0 | 164 | 0.0 | /mnt/stockage/packages/f24/fonts-tweak-tool/po/da.po | 
- | [de]({{< ref "/f24/language/de.md" >}}) | 0 | 164 | 0.0 | /mnt/stockage/packages/f24/fonts-tweak-tool/po/de.po | 
- | [de_CH]({{< ref "/f24/language/de_CH.md" >}}) | 0 | 164 | 0.0 | /mnt/stockage/packages/f24/fonts-tweak-tool/po/de_CH.po | 
- | [el]({{< ref "/f24/language/el.md" >}}) | 0 | 164 | 0.0 | /mnt/stockage/packages/f24/fonts-tweak-tool/po/el.po | 
- | [en_GB]({{< ref "/f24/language/en_GB.md" >}}) | 0 | 164 | 0.0 | /mnt/stockage/packages/f24/fonts-tweak-tool/po/en_GB.po | 
- | [eo]({{< ref "/f24/language/eo.md" >}}) | 0 | 164 | 0.0 | /mnt/stockage/packages/f24/fonts-tweak-tool/po/eo.po | 
- | [es]({{< ref "/f24/language/es.md" >}}) | 0 | 164 | 0.0 | /mnt/stockage/packages/f24/fonts-tweak-tool/po/es.po | 
- | [es_MX]({{< ref "/f24/language/es_MX.md" >}}) | 0 | 164 | 0.0 | /mnt/stockage/packages/f24/fonts-tweak-tool/po/es_MX.po | 
- | [et]({{< ref "/f24/language/et.md" >}}) | 0 | 164 | 0.0 | /mnt/stockage/packages/f24/fonts-tweak-tool/po/et.po | 
- | [eu]({{< ref "/f24/language/eu.md" >}}) | 0 | 164 | 0.0 | /mnt/stockage/packages/f24/fonts-tweak-tool/po/eu_ES.po | 
- | [fa]({{< ref "/f24/language/fa.md" >}}) | 0 | 164 | 0.0 | /mnt/stockage/packages/f24/fonts-tweak-tool/po/fa.po | 
- | [fi]({{< ref "/f24/language/fi.md" >}}) | 0 | 164 | 0.0 | /mnt/stockage/packages/f24/fonts-tweak-tool/po/fi.po | 
- | [fr]({{< ref "/f24/language/fr.md" >}}) | 0 | 164 | 0.0 | /mnt/stockage/packages/f24/fonts-tweak-tool/po/fr.po | 
- | [ga]({{< ref "/f24/language/ga.md" >}}) | 0 | 164 | 0.0 | /mnt/stockage/packages/f24/fonts-tweak-tool/po/ga.po | 
- | [gl]({{< ref "/f24/language/gl.md" >}}) | 0 | 164 | 0.0 | /mnt/stockage/packages/f24/fonts-tweak-tool/po/gl.po | 
- | [gu]({{< ref "/f24/language/gu.md" >}}) | 0 | 164 | 0.0 | /mnt/stockage/packages/f24/fonts-tweak-tool/po/gu.po | 
- | [he]({{< ref "/f24/language/he.md" >}}) | 0 | 164 | 0.0 | /mnt/stockage/packages/f24/fonts-tweak-tool/po/he.po | 
- | [hi]({{< ref "/f24/language/hi.md" >}}) | 0 | 164 | 0.0 | /mnt/stockage/packages/f24/fonts-tweak-tool/po/hi.po | 
- | [hr]({{< ref "/f24/language/hr.md" >}}) | 0 | 164 | 0.0 | /mnt/stockage/packages/f24/fonts-tweak-tool/po/hr.po | 
- | [hu]({{< ref "/f24/language/hu.md" >}}) | 0 | 164 | 0.0 | /mnt/stockage/packages/f24/fonts-tweak-tool/po/hu.po | 
- | [id]({{< ref "/f24/language/id.md" >}}) | 0 | 164 | 0.0 | /mnt/stockage/packages/f24/fonts-tweak-tool/po/id.po | 
- | [is]({{< ref "/f24/language/is.md" >}}) | 0 | 164 | 0.0 | /mnt/stockage/packages/f24/fonts-tweak-tool/po/is.po | 
- | [it]({{< ref "/f24/language/it.md" >}}) | 0 | 164 | 0.0 | /mnt/stockage/packages/f24/fonts-tweak-tool/po/it.po | 
- | [ja]({{< ref "/f24/language/ja.md" >}}) | 0 | 164 | 0.0 | /mnt/stockage/packages/f24/fonts-tweak-tool/po/ja.po | 
- | [ka]({{< ref "/f24/language/ka.md" >}}) | 0 | 164 | 0.0 | /mnt/stockage/packages/f24/fonts-tweak-tool/po/ka.po | 
- | [kn]({{< ref "/f24/language/kn.md" >}}) | 0 | 164 | 0.0 | /mnt/stockage/packages/f24/fonts-tweak-tool/po/kn.po | 
- | [ko]({{< ref "/f24/language/ko.md" >}}) | 0 | 164 | 0.0 | /mnt/stockage/packages/f24/fonts-tweak-tool/po/ko.po | 
- | [ky]({{< ref "/f24/language/ky.md" >}}) | 0 | 164 | 0.0 | /mnt/stockage/packages/f24/fonts-tweak-tool/po/ky.po | 
- | [la]({{< ref "/f24/language/la.md" >}}) | 0 | 164 | 0.0 | /mnt/stockage/packages/f24/fonts-tweak-tool/po/la.po | 
- | [lt]({{< ref "/f24/language/lt.md" >}}) | 0 | 164 | 0.0 | /mnt/stockage/packages/f24/fonts-tweak-tool/po/lt.po | 
- | [lv]({{< ref "/f24/language/lv.md" >}}) | 0 | 164 | 0.0 | /mnt/stockage/packages/f24/fonts-tweak-tool/po/lv.po | 
- | [mai]({{< ref "/f24/language/mai.md" >}}) | 0 | 164 | 0.0 | /mnt/stockage/packages/f24/fonts-tweak-tool/po/mai.po | 
- | [ml]({{< ref "/f24/language/ml.md" >}}) | 0 | 164 | 0.0 | /mnt/stockage/packages/f24/fonts-tweak-tool/po/ml.po | 
- | [mn]({{< ref "/f24/language/mn.md" >}}) | 0 | 164 | 0.0 | /mnt/stockage/packages/f24/fonts-tweak-tool/po/mn.po | 
- | [mr]({{< ref "/f24/language/mr.md" >}}) | 0 | 164 | 0.0 | /mnt/stockage/packages/f24/fonts-tweak-tool/po/mr.po | 
- | [ms]({{< ref "/f24/language/ms.md" >}}) | 0 | 164 | 0.0 | /mnt/stockage/packages/f24/fonts-tweak-tool/po/ms.po | 
- | [nb_NO]({{< ref "/f24/language/nb_NO.md" >}}) | 0 | 164 | 0.0 | /mnt/stockage/packages/f24/fonts-tweak-tool/po/nb.po | 
- | [nds]({{< ref "/f24/language/nds.md" >}}) | 0 | 164 | 0.0 | /mnt/stockage/packages/f24/fonts-tweak-tool/po/nds.po | 
- | [nl]({{< ref "/f24/language/nl.md" >}}) | 0 | 164 | 0.0 | /mnt/stockage/packages/f24/fonts-tweak-tool/po/nl.po | 
- | [nn]({{< ref "/f24/language/nn.md" >}}) | 0 | 164 | 0.0 | /mnt/stockage/packages/f24/fonts-tweak-tool/po/nn.po | 
- | [or]({{< ref "/f24/language/or.md" >}}) | 0 | 164 | 0.0 | /mnt/stockage/packages/f24/fonts-tweak-tool/po/or.po | 
- | [pa]({{< ref "/f24/language/pa.md" >}}) | 0 | 164 | 0.0 | /mnt/stockage/packages/f24/fonts-tweak-tool/po/pa.po | 
- | [pt_PT]({{< ref "/f24/language/pt_PT.md" >}}) | 0 | 164 | 0.0 | /mnt/stockage/packages/f24/fonts-tweak-tool/po/pt.po | 
- | [ro]({{< ref "/f24/language/ro.md" >}}) | 0 | 164 | 0.0 | /mnt/stockage/packages/f24/fonts-tweak-tool/po/ro.po | 
- | [ru]({{< ref "/f24/language/ru.md" >}}) | 0 | 164 | 0.0 | /mnt/stockage/packages/f24/fonts-tweak-tool/po/ru.po | 
- | [si]({{< ref "/f24/language/si.md" >}}) | 0 | 164 | 0.0 | /mnt/stockage/packages/f24/fonts-tweak-tool/po/si.po | 
- | [sk]({{< ref "/f24/language/sk.md" >}}) | 0 | 164 | 0.0 | /mnt/stockage/packages/f24/fonts-tweak-tool/po/sk.po | 
- | [sl]({{< ref "/f24/language/sl.md" >}}) | 0 | 164 | 0.0 | /mnt/stockage/packages/f24/fonts-tweak-tool/po/sl.po | 
- | [sq]({{< ref "/f24/language/sq.md" >}}) | 0 | 164 | 0.0 | /mnt/stockage/packages/f24/fonts-tweak-tool/po/sq.po | 
- | [sr_Cyrl]({{< ref "/f24/language/sr_Cyrl.md" >}}) | 0 | 164 | 0.0 | /mnt/stockage/packages/f24/fonts-tweak-tool/po/sr.po | 
- | [sr_Latn]({{< ref "/f24/language/sr_Latn.md" >}}) | 0 | 164 | 0.0 | /mnt/stockage/packages/f24/fonts-tweak-tool/po/sr@latin.po | 
- | [sv]({{< ref "/f24/language/sv.md" >}}) | 0 | 164 | 0.0 | /mnt/stockage/packages/f24/fonts-tweak-tool/po/sv.po | 
- | [ta]({{< ref "/f24/language/ta.md" >}}) | 0 | 164 | 0.0 | /mnt/stockage/packages/f24/fonts-tweak-tool/po/ta.po | 
- | [te]({{< ref "/f24/language/te.md" >}}) | 0 | 164 | 0.0 | /mnt/stockage/packages/f24/fonts-tweak-tool/po/te.po | 
- | [th]({{< ref "/f24/language/th.md" >}}) | 0 | 164 | 0.0 | /mnt/stockage/packages/f24/fonts-tweak-tool/po/th.po | 
- | [tl]({{< ref "/f24/language/tl.md" >}}) | 0 | 164 | 0.0 | /mnt/stockage/packages/f24/fonts-tweak-tool/po/tl.po | 
- | [tr]({{< ref "/f24/language/tr.md" >}}) | 0 | 164 | 0.0 | /mnt/stockage/packages/f24/fonts-tweak-tool/po/tr.po | 
- | [uk]({{< ref "/f24/language/uk.md" >}}) | 0 | 164 | 0.0 | /mnt/stockage/packages/f24/fonts-tweak-tool/po/uk.po | 
- | [vi]({{< ref "/f24/language/vi.md" >}}) | 0 | 164 | 0.0 | /mnt/stockage/packages/f24/fonts-tweak-tool/po/vi.po | 
- | [xh]({{< ref "/f24/language/xh.md" >}}) | 0 | 164 | 0.0 | /mnt/stockage/packages/f24/fonts-tweak-tool/po/xh.po | 
+ | [pl](/f24/language/pl) | 21 | 164 | 12.8 | /mnt/stockage/packages/f24/fonts-tweak-tool/po/pl.po | 
+ | [pt_BR](/f24/language/pt_BR) | 21 | 164 | 12.8 | /mnt/stockage/packages/f24/fonts-tweak-tool/po/pt_BR.po | 
+ | [zh_Hans](/f24/language/zh_Hans) | 21 | 164 | 12.8 | /mnt/stockage/packages/f24/fonts-tweak-tool/po/zh_CN.po | 
+ | [zh_Hant](/f24/language/zh_Hant) | 21 | 164 | 12.8 | /mnt/stockage/packages/f24/fonts-tweak-tool/po/zh_TW.po | 
+ | [af](/f24/language/af) | 0 | 164 | 0.0 | /mnt/stockage/packages/f24/fonts-tweak-tool/po/af.po | 
+ | [am](/f24/language/am) | 0 | 164 | 0.0 | /mnt/stockage/packages/f24/fonts-tweak-tool/po/am.po | 
+ | [ar](/f24/language/ar) | 0 | 164 | 0.0 | /mnt/stockage/packages/f24/fonts-tweak-tool/po/ar.po | 
+ | [as](/f24/language/as) | 0 | 164 | 0.0 | /mnt/stockage/packages/f24/fonts-tweak-tool/po/as.po | 
+ | [ast](/f24/language/ast) | 0 | 164 | 0.0 | /mnt/stockage/packages/f24/fonts-tweak-tool/po/ast.po | 
+ | [az](/f24/language/az) | 0 | 164 | 0.0 | /mnt/stockage/packages/f24/fonts-tweak-tool/po/az.po | 
+ | [bg](/f24/language/bg) | 0 | 164 | 0.0 | /mnt/stockage/packages/f24/fonts-tweak-tool/po/bg.po | 
+ | [bn_BD](/f24/language/bn_BD) | 0 | 164 | 0.0 | /mnt/stockage/packages/f24/fonts-tweak-tool/po/bn.po | 
+ | [bn_IN](/f24/language/bn_IN) | 0 | 164 | 0.0 | /mnt/stockage/packages/f24/fonts-tweak-tool/po/bn_IN.po | 
+ | [brx](/f24/language/brx) | 0 | 164 | 0.0 | /mnt/stockage/packages/f24/fonts-tweak-tool/po/brx.po | 
+ | [bs](/f24/language/bs) | 0 | 164 | 0.0 | /mnt/stockage/packages/f24/fonts-tweak-tool/po/bs.po | 
+ | [ca](/f24/language/ca) | 0 | 164 | 0.0 | /mnt/stockage/packages/f24/fonts-tweak-tool/po/ca.po | 
+ | [cs](/f24/language/cs) | 0 | 164 | 0.0 | /mnt/stockage/packages/f24/fonts-tweak-tool/po/cs.po | 
+ | [cy](/f24/language/cy) | 0 | 164 | 0.0 | /mnt/stockage/packages/f24/fonts-tweak-tool/po/cy.po | 
+ | [da](/f24/language/da) | 0 | 164 | 0.0 | /mnt/stockage/packages/f24/fonts-tweak-tool/po/da.po | 
+ | [de](/f24/language/de) | 0 | 164 | 0.0 | /mnt/stockage/packages/f24/fonts-tweak-tool/po/de.po | 
+ | [de_CH](/f24/language/de_CH) | 0 | 164 | 0.0 | /mnt/stockage/packages/f24/fonts-tweak-tool/po/de_CH.po | 
+ | [el](/f24/language/el) | 0 | 164 | 0.0 | /mnt/stockage/packages/f24/fonts-tweak-tool/po/el.po | 
+ | [en_GB](/f24/language/en_GB) | 0 | 164 | 0.0 | /mnt/stockage/packages/f24/fonts-tweak-tool/po/en_GB.po | 
+ | [eo](/f24/language/eo) | 0 | 164 | 0.0 | /mnt/stockage/packages/f24/fonts-tweak-tool/po/eo.po | 
+ | [es](/f24/language/es) | 0 | 164 | 0.0 | /mnt/stockage/packages/f24/fonts-tweak-tool/po/es.po | 
+ | [es_MX](/f24/language/es_MX) | 0 | 164 | 0.0 | /mnt/stockage/packages/f24/fonts-tweak-tool/po/es_MX.po | 
+ | [et](/f24/language/et) | 0 | 164 | 0.0 | /mnt/stockage/packages/f24/fonts-tweak-tool/po/et.po | 
+ | [eu](/f24/language/eu) | 0 | 164 | 0.0 | /mnt/stockage/packages/f24/fonts-tweak-tool/po/eu_ES.po | 
+ | [fa](/f24/language/fa) | 0 | 164 | 0.0 | /mnt/stockage/packages/f24/fonts-tweak-tool/po/fa.po | 
+ | [fi](/f24/language/fi) | 0 | 164 | 0.0 | /mnt/stockage/packages/f24/fonts-tweak-tool/po/fi.po | 
+ | [fr](/f24/language/fr) | 0 | 164 | 0.0 | /mnt/stockage/packages/f24/fonts-tweak-tool/po/fr.po | 
+ | [ga](/f24/language/ga) | 0 | 164 | 0.0 | /mnt/stockage/packages/f24/fonts-tweak-tool/po/ga.po | 
+ | [gl](/f24/language/gl) | 0 | 164 | 0.0 | /mnt/stockage/packages/f24/fonts-tweak-tool/po/gl.po | 
+ | [gu](/f24/language/gu) | 0 | 164 | 0.0 | /mnt/stockage/packages/f24/fonts-tweak-tool/po/gu.po | 
+ | [he](/f24/language/he) | 0 | 164 | 0.0 | /mnt/stockage/packages/f24/fonts-tweak-tool/po/he.po | 
+ | [hi](/f24/language/hi) | 0 | 164 | 0.0 | /mnt/stockage/packages/f24/fonts-tweak-tool/po/hi.po | 
+ | [hr](/f24/language/hr) | 0 | 164 | 0.0 | /mnt/stockage/packages/f24/fonts-tweak-tool/po/hr.po | 
+ | [hu](/f24/language/hu) | 0 | 164 | 0.0 | /mnt/stockage/packages/f24/fonts-tweak-tool/po/hu.po | 
+ | [id](/f24/language/id) | 0 | 164 | 0.0 | /mnt/stockage/packages/f24/fonts-tweak-tool/po/id.po | 
+ | [is](/f24/language/is) | 0 | 164 | 0.0 | /mnt/stockage/packages/f24/fonts-tweak-tool/po/is.po | 
+ | [it](/f24/language/it) | 0 | 164 | 0.0 | /mnt/stockage/packages/f24/fonts-tweak-tool/po/it.po | 
+ | [ja](/f24/language/ja) | 0 | 164 | 0.0 | /mnt/stockage/packages/f24/fonts-tweak-tool/po/ja.po | 
+ | [ka](/f24/language/ka) | 0 | 164 | 0.0 | /mnt/stockage/packages/f24/fonts-tweak-tool/po/ka.po | 
+ | [kn](/f24/language/kn) | 0 | 164 | 0.0 | /mnt/stockage/packages/f24/fonts-tweak-tool/po/kn.po | 
+ | [ko](/f24/language/ko) | 0 | 164 | 0.0 | /mnt/stockage/packages/f24/fonts-tweak-tool/po/ko.po | 
+ | [ky](/f24/language/ky) | 0 | 164 | 0.0 | /mnt/stockage/packages/f24/fonts-tweak-tool/po/ky.po | 
+ | [la](/f24/language/la) | 0 | 164 | 0.0 | /mnt/stockage/packages/f24/fonts-tweak-tool/po/la.po | 
+ | [lt](/f24/language/lt) | 0 | 164 | 0.0 | /mnt/stockage/packages/f24/fonts-tweak-tool/po/lt.po | 
+ | [lv](/f24/language/lv) | 0 | 164 | 0.0 | /mnt/stockage/packages/f24/fonts-tweak-tool/po/lv.po | 
+ | [mai](/f24/language/mai) | 0 | 164 | 0.0 | /mnt/stockage/packages/f24/fonts-tweak-tool/po/mai.po | 
+ | [ml](/f24/language/ml) | 0 | 164 | 0.0 | /mnt/stockage/packages/f24/fonts-tweak-tool/po/ml.po | 
+ | [mn](/f24/language/mn) | 0 | 164 | 0.0 | /mnt/stockage/packages/f24/fonts-tweak-tool/po/mn.po | 
+ | [mr](/f24/language/mr) | 0 | 164 | 0.0 | /mnt/stockage/packages/f24/fonts-tweak-tool/po/mr.po | 
+ | [ms](/f24/language/ms) | 0 | 164 | 0.0 | /mnt/stockage/packages/f24/fonts-tweak-tool/po/ms.po | 
+ | [nb_NO](/f24/language/nb_NO) | 0 | 164 | 0.0 | /mnt/stockage/packages/f24/fonts-tweak-tool/po/nb.po | 
+ | [nds](/f24/language/nds) | 0 | 164 | 0.0 | /mnt/stockage/packages/f24/fonts-tweak-tool/po/nds.po | 
+ | [nl](/f24/language/nl) | 0 | 164 | 0.0 | /mnt/stockage/packages/f24/fonts-tweak-tool/po/nl.po | 
+ | [nn](/f24/language/nn) | 0 | 164 | 0.0 | /mnt/stockage/packages/f24/fonts-tweak-tool/po/nn.po | 
+ | [or](/f24/language/or) | 0 | 164 | 0.0 | /mnt/stockage/packages/f24/fonts-tweak-tool/po/or.po | 
+ | [pa](/f24/language/pa) | 0 | 164 | 0.0 | /mnt/stockage/packages/f24/fonts-tweak-tool/po/pa.po | 
+ | [pt_PT](/f24/language/pt_PT) | 0 | 164 | 0.0 | /mnt/stockage/packages/f24/fonts-tweak-tool/po/pt.po | 
+ | [ro](/f24/language/ro) | 0 | 164 | 0.0 | /mnt/stockage/packages/f24/fonts-tweak-tool/po/ro.po | 
+ | [ru](/f24/language/ru) | 0 | 164 | 0.0 | /mnt/stockage/packages/f24/fonts-tweak-tool/po/ru.po | 
+ | [si](/f24/language/si) | 0 | 164 | 0.0 | /mnt/stockage/packages/f24/fonts-tweak-tool/po/si.po | 
+ | [sk](/f24/language/sk) | 0 | 164 | 0.0 | /mnt/stockage/packages/f24/fonts-tweak-tool/po/sk.po | 
+ | [sl](/f24/language/sl) | 0 | 164 | 0.0 | /mnt/stockage/packages/f24/fonts-tweak-tool/po/sl.po | 
+ | [sq](/f24/language/sq) | 0 | 164 | 0.0 | /mnt/stockage/packages/f24/fonts-tweak-tool/po/sq.po | 
+ | [sr_Cyrl](/f24/language/sr_Cyrl) | 0 | 164 | 0.0 | /mnt/stockage/packages/f24/fonts-tweak-tool/po/sr.po | 
+ | [sr_Latn](/f24/language/sr_Latn) | 0 | 164 | 0.0 | /mnt/stockage/packages/f24/fonts-tweak-tool/po/sr@latin.po | 
+ | [sv](/f24/language/sv) | 0 | 164 | 0.0 | /mnt/stockage/packages/f24/fonts-tweak-tool/po/sv.po | 
+ | [ta](/f24/language/ta) | 0 | 164 | 0.0 | /mnt/stockage/packages/f24/fonts-tweak-tool/po/ta.po | 
+ | [te](/f24/language/te) | 0 | 164 | 0.0 | /mnt/stockage/packages/f24/fonts-tweak-tool/po/te.po | 
+ | [th](/f24/language/th) | 0 | 164 | 0.0 | /mnt/stockage/packages/f24/fonts-tweak-tool/po/th.po | 
+ | [tl](/f24/language/tl) | 0 | 164 | 0.0 | /mnt/stockage/packages/f24/fonts-tweak-tool/po/tl.po | 
+ | [tr](/f24/language/tr) | 0 | 164 | 0.0 | /mnt/stockage/packages/f24/fonts-tweak-tool/po/tr.po | 
+ | [uk](/f24/language/uk) | 0 | 164 | 0.0 | /mnt/stockage/packages/f24/fonts-tweak-tool/po/uk.po | 
+ | [vi](/f24/language/vi) | 0 | 164 | 0.0 | /mnt/stockage/packages/f24/fonts-tweak-tool/po/vi.po | 
+ | [xh](/f24/language/xh) | 0 | 164 | 0.0 | /mnt/stockage/packages/f24/fonts-tweak-tool/po/xh.po | 
 {.sortable}
 
 

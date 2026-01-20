@@ -18,42 +18,42 @@ The package pastebinit (version 1.3.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ast]({{< ref "/f23/language/ast.md" >}}) | 183 | 183 | 100.0 | /mnt/stockage/packages/f23/pastebinit/po/ast.po | 
- | [bs]({{< ref "/f23/language/bs.md" >}}) | 183 | 183 | 100.0 | /mnt/stockage/packages/f23/pastebinit/po/bs.po | 
- | [de]({{< ref "/f23/language/de.md" >}}) | 183 | 183 | 100.0 | /mnt/stockage/packages/f23/pastebinit/po/de.po | 
- | [el]({{< ref "/f23/language/el.md" >}}) | 183 | 183 | 100.0 | /mnt/stockage/packages/f23/pastebinit/po/el.po | 
- | [en_AU]({{< ref "/f23/language/en_AU.md" >}}) | 183 | 183 | 100.0 | /mnt/stockage/packages/f23/pastebinit/po/en_AU.po | 
- | [en_GB]({{< ref "/f23/language/en_GB.md" >}}) | 183 | 183 | 100.0 | /mnt/stockage/packages/f23/pastebinit/po/en_GB.po | 
- | [es]({{< ref "/f23/language/es.md" >}}) | 183 | 183 | 100.0 | /mnt/stockage/packages/f23/pastebinit/po/es.po | 
- | [fr]({{< ref "/f23/language/fr.md" >}}) | 183 | 183 | 100.0 | /mnt/stockage/packages/f23/pastebinit/po/fr.po | 
- | [gl]({{< ref "/f23/language/gl.md" >}}) | 183 | 183 | 100.0 | /mnt/stockage/packages/f23/pastebinit/po/gl.po | 
- | [it]({{< ref "/f23/language/it.md" >}}) | 183 | 183 | 100.0 | /mnt/stockage/packages/f23/pastebinit/po/it.po | 
- | [nl]({{< ref "/f23/language/nl.md" >}}) | 183 | 183 | 100.0 | /mnt/stockage/packages/f23/pastebinit/po/nl.po | 
- | [ru]({{< ref "/f23/language/ru.md" >}}) | 183 | 183 | 100.0 | /mnt/stockage/packages/f23/pastebinit/po/ru.po | 
- | [sl]({{< ref "/f23/language/sl.md" >}}) | 183 | 183 | 100.0 | /mnt/stockage/packages/f23/pastebinit/po/sl.po | 
- | [sv]({{< ref "/f23/language/sv.md" >}}) | 183 | 183 | 100.0 | /mnt/stockage/packages/f23/pastebinit/po/sv.po | 
- | [uk]({{< ref "/f23/language/uk.md" >}}) | 183 | 183 | 100.0 | /mnt/stockage/packages/f23/pastebinit/po/uk.po | 
- | [ja]({{< ref "/f23/language/ja.md" >}}) | 171 | 183 | 93.4 | /mnt/stockage/packages/f23/pastebinit/po/ja.po | 
- | [pt_BR]({{< ref "/f23/language/pt_BR.md" >}}) | 171 | 183 | 93.4 | /mnt/stockage/packages/f23/pastebinit/po/pt_BR.po | 
- | [pt]({{< ref "/f23/language/pt.md" >}}) | 160 | 183 | 87.4 | /mnt/stockage/packages/f23/pastebinit/po/pt.po | 
- | [ca]({{< ref "/f23/language/ca.md" >}}) | 158 | 183 | 86.3 | /mnt/stockage/packages/f23/pastebinit/po/ca.po | 
- | [pl]({{< ref "/f23/language/pl.md" >}}) | 137 | 183 | 74.9 | /mnt/stockage/packages/f23/pastebinit/po/pl.po | 
- | [nb_NO]({{< ref "/f23/language/nb_NO.md" >}}) | 127 | 183 | 69.4 | /mnt/stockage/packages/f23/pastebinit/po/nb.po | 
- | [tr]({{< ref "/f23/language/tr.md" >}}) | 127 | 183 | 69.4 | /mnt/stockage/packages/f23/pastebinit/po/tr.po | 
- | [zh_Hant]({{< ref "/f23/language/zh_Hant.md" >}}) | 127 | 183 | 69.4 | /mnt/stockage/packages/f23/pastebinit/po/zh_TW.po | 
- | [sk]({{< ref "/f23/language/sk.md" >}}) | 125 | 183 | 68.3 | /mnt/stockage/packages/f23/pastebinit/po/sk.po | 
- | [af]({{< ref "/f23/language/af.md" >}}) | 118 | 183 | 64.5 | /mnt/stockage/packages/f23/pastebinit/po/af.po | 
- | [fi]({{< ref "/f23/language/fi.md" >}}) | 114 | 183 | 62.3 | /mnt/stockage/packages/f23/pastebinit/po/fi.po | 
- | [ug]({{< ref "/f23/language/ug.md" >}}) | 103 | 183 | 56.3 | /mnt/stockage/packages/f23/pastebinit/po/ug.po | 
- | [oc]({{< ref "/f23/language/oc.md" >}}) | 65 | 183 | 35.5 | /mnt/stockage/packages/f23/pastebinit/po/oc.po | 
- | [cs]({{< ref "/f23/language/cs.md" >}}) | 58 | 183 | 31.7 | /mnt/stockage/packages/f23/pastebinit/po/cs.po | 
- | [id]({{< ref "/f23/language/id.md" >}}) | 9 | 183 | 4.9 | /mnt/stockage/packages/f23/pastebinit/po/id.po | 
- | [et]({{< ref "/f23/language/et.md" >}}) | 4 | 183 | 2.2 | /mnt/stockage/packages/f23/pastebinit/po/et.po | 
- | [ms]({{< ref "/f23/language/ms.md" >}}) | 4 | 183 | 2.2 | /mnt/stockage/packages/f23/pastebinit/po/ms.po | 
- | [cy]({{< ref "/f23/language/cy.md" >}}) | 0 | 183 | 0.0 | /mnt/stockage/packages/f23/pastebinit/po/cy.po | 
- | [eo]({{< ref "/f23/language/eo.md" >}}) | 0 | 183 | 0.0 | /mnt/stockage/packages/f23/pastebinit/po/eo.po | 
- | [ro]({{< ref "/f23/language/ro.md" >}}) | 0 | 183 | 0.0 | /mnt/stockage/packages/f23/pastebinit/po/ro.po | 
- | [zh_Hans]({{< ref "/f23/language/zh_Hans.md" >}}) | 0 | 183 | 0.0 | /mnt/stockage/packages/f23/pastebinit/po/zh_CN.po | 
+ | [ast](/f23/language/ast) | 183 | 183 | 100.0 | /mnt/stockage/packages/f23/pastebinit/po/ast.po | 
+ | [bs](/f23/language/bs) | 183 | 183 | 100.0 | /mnt/stockage/packages/f23/pastebinit/po/bs.po | 
+ | [de](/f23/language/de) | 183 | 183 | 100.0 | /mnt/stockage/packages/f23/pastebinit/po/de.po | 
+ | [el](/f23/language/el) | 183 | 183 | 100.0 | /mnt/stockage/packages/f23/pastebinit/po/el.po | 
+ | [en_AU](/f23/language/en_AU) | 183 | 183 | 100.0 | /mnt/stockage/packages/f23/pastebinit/po/en_AU.po | 
+ | [en_GB](/f23/language/en_GB) | 183 | 183 | 100.0 | /mnt/stockage/packages/f23/pastebinit/po/en_GB.po | 
+ | [es](/f23/language/es) | 183 | 183 | 100.0 | /mnt/stockage/packages/f23/pastebinit/po/es.po | 
+ | [fr](/f23/language/fr) | 183 | 183 | 100.0 | /mnt/stockage/packages/f23/pastebinit/po/fr.po | 
+ | [gl](/f23/language/gl) | 183 | 183 | 100.0 | /mnt/stockage/packages/f23/pastebinit/po/gl.po | 
+ | [it](/f23/language/it) | 183 | 183 | 100.0 | /mnt/stockage/packages/f23/pastebinit/po/it.po | 
+ | [nl](/f23/language/nl) | 183 | 183 | 100.0 | /mnt/stockage/packages/f23/pastebinit/po/nl.po | 
+ | [ru](/f23/language/ru) | 183 | 183 | 100.0 | /mnt/stockage/packages/f23/pastebinit/po/ru.po | 
+ | [sl](/f23/language/sl) | 183 | 183 | 100.0 | /mnt/stockage/packages/f23/pastebinit/po/sl.po | 
+ | [sv](/f23/language/sv) | 183 | 183 | 100.0 | /mnt/stockage/packages/f23/pastebinit/po/sv.po | 
+ | [uk](/f23/language/uk) | 183 | 183 | 100.0 | /mnt/stockage/packages/f23/pastebinit/po/uk.po | 
+ | [ja](/f23/language/ja) | 171 | 183 | 93.4 | /mnt/stockage/packages/f23/pastebinit/po/ja.po | 
+ | [pt_BR](/f23/language/pt_BR) | 171 | 183 | 93.4 | /mnt/stockage/packages/f23/pastebinit/po/pt_BR.po | 
+ | [pt](/f23/language/pt) | 160 | 183 | 87.4 | /mnt/stockage/packages/f23/pastebinit/po/pt.po | 
+ | [ca](/f23/language/ca) | 158 | 183 | 86.3 | /mnt/stockage/packages/f23/pastebinit/po/ca.po | 
+ | [pl](/f23/language/pl) | 137 | 183 | 74.9 | /mnt/stockage/packages/f23/pastebinit/po/pl.po | 
+ | [nb_NO](/f23/language/nb_NO) | 127 | 183 | 69.4 | /mnt/stockage/packages/f23/pastebinit/po/nb.po | 
+ | [tr](/f23/language/tr) | 127 | 183 | 69.4 | /mnt/stockage/packages/f23/pastebinit/po/tr.po | 
+ | [zh_Hant](/f23/language/zh_Hant) | 127 | 183 | 69.4 | /mnt/stockage/packages/f23/pastebinit/po/zh_TW.po | 
+ | [sk](/f23/language/sk) | 125 | 183 | 68.3 | /mnt/stockage/packages/f23/pastebinit/po/sk.po | 
+ | [af](/f23/language/af) | 118 | 183 | 64.5 | /mnt/stockage/packages/f23/pastebinit/po/af.po | 
+ | [fi](/f23/language/fi) | 114 | 183 | 62.3 | /mnt/stockage/packages/f23/pastebinit/po/fi.po | 
+ | [ug](/f23/language/ug) | 103 | 183 | 56.3 | /mnt/stockage/packages/f23/pastebinit/po/ug.po | 
+ | [oc](/f23/language/oc) | 65 | 183 | 35.5 | /mnt/stockage/packages/f23/pastebinit/po/oc.po | 
+ | [cs](/f23/language/cs) | 58 | 183 | 31.7 | /mnt/stockage/packages/f23/pastebinit/po/cs.po | 
+ | [id](/f23/language/id) | 9 | 183 | 4.9 | /mnt/stockage/packages/f23/pastebinit/po/id.po | 
+ | [et](/f23/language/et) | 4 | 183 | 2.2 | /mnt/stockage/packages/f23/pastebinit/po/et.po | 
+ | [ms](/f23/language/ms) | 4 | 183 | 2.2 | /mnt/stockage/packages/f23/pastebinit/po/ms.po | 
+ | [cy](/f23/language/cy) | 0 | 183 | 0.0 | /mnt/stockage/packages/f23/pastebinit/po/cy.po | 
+ | [eo](/f23/language/eo) | 0 | 183 | 0.0 | /mnt/stockage/packages/f23/pastebinit/po/eo.po | 
+ | [ro](/f23/language/ro) | 0 | 183 | 0.0 | /mnt/stockage/packages/f23/pastebinit/po/ro.po | 
+ | [zh_Hans](/f23/language/zh_Hans) | 0 | 183 | 0.0 | /mnt/stockage/packages/f23/pastebinit/po/zh_CN.po | 
 {.sortable}
 
 

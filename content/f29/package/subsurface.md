@@ -18,7 +18,7 @@ The package subsurface (version 4.6.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f29/language/fr.md" >}}) | 3732 | 41580 | 9.0 | /mnt/stockage/packages/f29/subsurface/Documentation/fr/po/subsurface-mobile-manual.fr.po/mnt/stockage/packages/f29/subsurface/Documentation/fr/po/subsurface-user-manual.fr.po | 
+ | [fr](/f29/language/fr) | 3732 | 41580 | 9.0 | /mnt/stockage/packages/f29/subsurface/Documentation/fr/po/subsurface-mobile-manual.fr.po/mnt/stockage/packages/f29/subsurface/Documentation/fr/po/subsurface-user-manual.fr.po | 
 {.sortable}
 
 

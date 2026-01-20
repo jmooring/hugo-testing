@@ -18,47 +18,47 @@ The package audiotube (version 25.12.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f42/language/ar.md" >}}) | 236 | 236 | 100.0 | /mnt/stockage/packages/f42/audiotube/po/ar/audiotube.po | 
- | [ca]({{< ref "/f42/language/ca.md" >}}) | 236 | 236 | 100.0 | /mnt/stockage/packages/f42/audiotube/po/ca/audiotube.po | 
- | [ca@valencia]({{< ref "/f42/language/ca@valencia.md" >}}) | 236 | 236 | 100.0 | /mnt/stockage/packages/f42/audiotube/po/ca@valencia/audiotube.po | 
- | [cs]({{< ref "/f42/language/cs.md" >}}) | 236 | 236 | 100.0 | /mnt/stockage/packages/f42/audiotube/po/cs/audiotube.po | 
- | [de]({{< ref "/f42/language/de.md" >}}) | 236 | 236 | 100.0 | /mnt/stockage/packages/f42/audiotube/po/de/audiotube.po | 
- | [es]({{< ref "/f42/language/es.md" >}}) | 236 | 236 | 100.0 | /mnt/stockage/packages/f42/audiotube/po/es/audiotube.po | 
- | [eu]({{< ref "/f42/language/eu.md" >}}) | 236 | 236 | 100.0 | /mnt/stockage/packages/f42/audiotube/po/eu/audiotube.po | 
- | [fi]({{< ref "/f42/language/fi.md" >}}) | 236 | 236 | 100.0 | /mnt/stockage/packages/f42/audiotube/po/fi/audiotube.po | 
- | [fr]({{< ref "/f42/language/fr.md" >}}) | 236 | 236 | 100.0 | /mnt/stockage/packages/f42/audiotube/po/fr/audiotube.po | 
- | [he]({{< ref "/f42/language/he.md" >}}) | 236 | 236 | 100.0 | /mnt/stockage/packages/f42/audiotube/po/he/audiotube.po | 
- | [hu]({{< ref "/f42/language/hu.md" >}}) | 236 | 236 | 100.0 | /mnt/stockage/packages/f42/audiotube/po/hu/audiotube.po | 
- | [ia]({{< ref "/f42/language/ia.md" >}}) | 236 | 236 | 100.0 | /mnt/stockage/packages/f42/audiotube/po/ia/audiotube.po | 
- | [it]({{< ref "/f42/language/it.md" >}}) | 236 | 236 | 100.0 | /mnt/stockage/packages/f42/audiotube/po/it/audiotube.po | 
- | [ka]({{< ref "/f42/language/ka.md" >}}) | 236 | 236 | 100.0 | /mnt/stockage/packages/f42/audiotube/po/ka/audiotube.po | 
- | [ko]({{< ref "/f42/language/ko.md" >}}) | 236 | 236 | 100.0 | /mnt/stockage/packages/f42/audiotube/po/ko/audiotube.po | 
- | [lt]({{< ref "/f42/language/lt.md" >}}) | 236 | 236 | 100.0 | /mnt/stockage/packages/f42/audiotube/po/lt/audiotube.po | 
- | [lv]({{< ref "/f42/language/lv.md" >}}) | 236 | 236 | 100.0 | /mnt/stockage/packages/f42/audiotube/po/lv/audiotube.po | 
- | [nl]({{< ref "/f42/language/nl.md" >}}) | 236 | 236 | 100.0 | /mnt/stockage/packages/f42/audiotube/po/nl/audiotube.po | 
- | [nn]({{< ref "/f42/language/nn.md" >}}) | 236 | 236 | 100.0 | /mnt/stockage/packages/f42/audiotube/po/nn/audiotube.po | 
- | [pt_BR]({{< ref "/f42/language/pt_BR.md" >}}) | 236 | 236 | 100.0 | /mnt/stockage/packages/f42/audiotube/po/pt_BR/audiotube.po | 
- | [sl]({{< ref "/f42/language/sl.md" >}}) | 236 | 236 | 100.0 | /mnt/stockage/packages/f42/audiotube/po/sl/audiotube.po | 
- | [sv]({{< ref "/f42/language/sv.md" >}}) | 236 | 236 | 100.0 | /mnt/stockage/packages/f42/audiotube/po/sv/audiotube.po | 
- | [tr]({{< ref "/f42/language/tr.md" >}}) | 236 | 236 | 100.0 | /mnt/stockage/packages/f42/audiotube/po/tr/audiotube.po | 
- | [uk]({{< ref "/f42/language/uk.md" >}}) | 236 | 236 | 100.0 | /mnt/stockage/packages/f42/audiotube/po/uk/audiotube.po | 
- | [zh_Hant]({{< ref "/f42/language/zh_Hant.md" >}}) | 236 | 236 | 100.0 | /mnt/stockage/packages/f42/audiotube/po/zh_TW/audiotube.po | 
- | [en_GB]({{< ref "/f42/language/en_GB.md" >}}) | 222 | 236 | 94.1 | /mnt/stockage/packages/f42/audiotube/po/en_GB/audiotube.po | 
- | [eo]({{< ref "/f42/language/eo.md" >}}) | 222 | 236 | 94.1 | /mnt/stockage/packages/f42/audiotube/po/eo/audiotube.po | 
- | [gl]({{< ref "/f42/language/gl.md" >}}) | 222 | 236 | 94.1 | /mnt/stockage/packages/f42/audiotube/po/gl/audiotube.po | 
- | [pl]({{< ref "/f42/language/pl.md" >}}) | 222 | 236 | 94.1 | /mnt/stockage/packages/f42/audiotube/po/pl/audiotube.po | 
- | [ru]({{< ref "/f42/language/ru.md" >}}) | 222 | 236 | 94.1 | /mnt/stockage/packages/f42/audiotube/po/ru/audiotube.po | 
- | [sa]({{< ref "/f42/language/sa.md" >}}) | 222 | 236 | 94.1 | /mnt/stockage/packages/f42/audiotube/po/sa/audiotube.po | 
- | [ja]({{< ref "/f42/language/ja.md" >}}) | 207 | 236 | 87.7 | /mnt/stockage/packages/f42/audiotube/po/ja/audiotube.po | 
- | [pt]({{< ref "/f42/language/pt.md" >}}) | 206 | 236 | 87.3 | /mnt/stockage/packages/f42/audiotube/po/pt/audiotube.po | 
- | [zh_Hans]({{< ref "/f42/language/zh_Hans.md" >}}) | 185 | 236 | 78.4 | /mnt/stockage/packages/f42/audiotube/po/zh_CN/audiotube.po | 
- | [id]({{< ref "/f42/language/id.md" >}}) | 174 | 236 | 73.7 | /mnt/stockage/packages/f42/audiotube/po/id/audiotube.po | 
- | [az]({{< ref "/f42/language/az.md" >}}) | 55 | 236 | 23.3 | /mnt/stockage/packages/f42/audiotube/po/az/audiotube.po | 
- | [pa]({{< ref "/f42/language/pa.md" >}}) | 41 | 236 | 17.4 | /mnt/stockage/packages/f42/audiotube/po/pa/audiotube.po | 
- | [hi]({{< ref "/f42/language/hi.md" >}}) | 39 | 236 | 16.5 | /mnt/stockage/packages/f42/audiotube/po/hi/audiotube.po | 
- | [sk]({{< ref "/f42/language/sk.md" >}}) | 20 | 236 | 8.5 | /mnt/stockage/packages/f42/audiotube/po/sk/audiotube.po | 
- | [ast]({{< ref "/f42/language/ast.md" >}}) | 1 | 236 | 0.4 | /mnt/stockage/packages/f42/audiotube/po/ast/audiotube.po | 
- | [ga]({{< ref "/f42/language/ga.md" >}}) | 0 | 236 | 0.0 | /mnt/stockage/packages/f42/audiotube/po/ga/audiotube.po | 
+ | [ar](/f42/language/ar) | 236 | 236 | 100.0 | /mnt/stockage/packages/f42/audiotube/po/ar/audiotube.po | 
+ | [ca](/f42/language/ca) | 236 | 236 | 100.0 | /mnt/stockage/packages/f42/audiotube/po/ca/audiotube.po | 
+ | [ca@valencia](/f42/language/ca@valencia) | 236 | 236 | 100.0 | /mnt/stockage/packages/f42/audiotube/po/ca@valencia/audiotube.po | 
+ | [cs](/f42/language/cs) | 236 | 236 | 100.0 | /mnt/stockage/packages/f42/audiotube/po/cs/audiotube.po | 
+ | [de](/f42/language/de) | 236 | 236 | 100.0 | /mnt/stockage/packages/f42/audiotube/po/de/audiotube.po | 
+ | [es](/f42/language/es) | 236 | 236 | 100.0 | /mnt/stockage/packages/f42/audiotube/po/es/audiotube.po | 
+ | [eu](/f42/language/eu) | 236 | 236 | 100.0 | /mnt/stockage/packages/f42/audiotube/po/eu/audiotube.po | 
+ | [fi](/f42/language/fi) | 236 | 236 | 100.0 | /mnt/stockage/packages/f42/audiotube/po/fi/audiotube.po | 
+ | [fr](/f42/language/fr) | 236 | 236 | 100.0 | /mnt/stockage/packages/f42/audiotube/po/fr/audiotube.po | 
+ | [he](/f42/language/he) | 236 | 236 | 100.0 | /mnt/stockage/packages/f42/audiotube/po/he/audiotube.po | 
+ | [hu](/f42/language/hu) | 236 | 236 | 100.0 | /mnt/stockage/packages/f42/audiotube/po/hu/audiotube.po | 
+ | [ia](/f42/language/ia) | 236 | 236 | 100.0 | /mnt/stockage/packages/f42/audiotube/po/ia/audiotube.po | 
+ | [it](/f42/language/it) | 236 | 236 | 100.0 | /mnt/stockage/packages/f42/audiotube/po/it/audiotube.po | 
+ | [ka](/f42/language/ka) | 236 | 236 | 100.0 | /mnt/stockage/packages/f42/audiotube/po/ka/audiotube.po | 
+ | [ko](/f42/language/ko) | 236 | 236 | 100.0 | /mnt/stockage/packages/f42/audiotube/po/ko/audiotube.po | 
+ | [lt](/f42/language/lt) | 236 | 236 | 100.0 | /mnt/stockage/packages/f42/audiotube/po/lt/audiotube.po | 
+ | [lv](/f42/language/lv) | 236 | 236 | 100.0 | /mnt/stockage/packages/f42/audiotube/po/lv/audiotube.po | 
+ | [nl](/f42/language/nl) | 236 | 236 | 100.0 | /mnt/stockage/packages/f42/audiotube/po/nl/audiotube.po | 
+ | [nn](/f42/language/nn) | 236 | 236 | 100.0 | /mnt/stockage/packages/f42/audiotube/po/nn/audiotube.po | 
+ | [pt_BR](/f42/language/pt_BR) | 236 | 236 | 100.0 | /mnt/stockage/packages/f42/audiotube/po/pt_BR/audiotube.po | 
+ | [sl](/f42/language/sl) | 236 | 236 | 100.0 | /mnt/stockage/packages/f42/audiotube/po/sl/audiotube.po | 
+ | [sv](/f42/language/sv) | 236 | 236 | 100.0 | /mnt/stockage/packages/f42/audiotube/po/sv/audiotube.po | 
+ | [tr](/f42/language/tr) | 236 | 236 | 100.0 | /mnt/stockage/packages/f42/audiotube/po/tr/audiotube.po | 
+ | [uk](/f42/language/uk) | 236 | 236 | 100.0 | /mnt/stockage/packages/f42/audiotube/po/uk/audiotube.po | 
+ | [zh_Hant](/f42/language/zh_Hant) | 236 | 236 | 100.0 | /mnt/stockage/packages/f42/audiotube/po/zh_TW/audiotube.po | 
+ | [en_GB](/f42/language/en_GB) | 222 | 236 | 94.1 | /mnt/stockage/packages/f42/audiotube/po/en_GB/audiotube.po | 
+ | [eo](/f42/language/eo) | 222 | 236 | 94.1 | /mnt/stockage/packages/f42/audiotube/po/eo/audiotube.po | 
+ | [gl](/f42/language/gl) | 222 | 236 | 94.1 | /mnt/stockage/packages/f42/audiotube/po/gl/audiotube.po | 
+ | [pl](/f42/language/pl) | 222 | 236 | 94.1 | /mnt/stockage/packages/f42/audiotube/po/pl/audiotube.po | 
+ | [ru](/f42/language/ru) | 222 | 236 | 94.1 | /mnt/stockage/packages/f42/audiotube/po/ru/audiotube.po | 
+ | [sa](/f42/language/sa) | 222 | 236 | 94.1 | /mnt/stockage/packages/f42/audiotube/po/sa/audiotube.po | 
+ | [ja](/f42/language/ja) | 207 | 236 | 87.7 | /mnt/stockage/packages/f42/audiotube/po/ja/audiotube.po | 
+ | [pt](/f42/language/pt) | 206 | 236 | 87.3 | /mnt/stockage/packages/f42/audiotube/po/pt/audiotube.po | 
+ | [zh_Hans](/f42/language/zh_Hans) | 185 | 236 | 78.4 | /mnt/stockage/packages/f42/audiotube/po/zh_CN/audiotube.po | 
+ | [id](/f42/language/id) | 174 | 236 | 73.7 | /mnt/stockage/packages/f42/audiotube/po/id/audiotube.po | 
+ | [az](/f42/language/az) | 55 | 236 | 23.3 | /mnt/stockage/packages/f42/audiotube/po/az/audiotube.po | 
+ | [pa](/f42/language/pa) | 41 | 236 | 17.4 | /mnt/stockage/packages/f42/audiotube/po/pa/audiotube.po | 
+ | [hi](/f42/language/hi) | 39 | 236 | 16.5 | /mnt/stockage/packages/f42/audiotube/po/hi/audiotube.po | 
+ | [sk](/f42/language/sk) | 20 | 236 | 8.5 | /mnt/stockage/packages/f42/audiotube/po/sk/audiotube.po | 
+ | [ast](/f42/language/ast) | 1 | 236 | 0.4 | /mnt/stockage/packages/f42/audiotube/po/ast/audiotube.po | 
+ | [ga](/f42/language/ga) | 0 | 236 | 0.0 | /mnt/stockage/packages/f42/audiotube/po/ga/audiotube.po | 
 {.sortable}
 
 

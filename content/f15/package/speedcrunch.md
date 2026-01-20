@@ -18,31 +18,31 @@ The package speedcrunch (version 0.11):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f15/language/ca.md" >}}) | 18 | 18 | 100.0 | /mnt/stockage/packages/f15/speedcrunch/src/books/locale/books.ca.po | 
- | [de]({{< ref "/f15/language/de.md" >}}) | 18 | 18 | 100.0 | /mnt/stockage/packages/f15/speedcrunch/src/books/locale/books.de.po | 
- | [es]({{< ref "/f15/language/es.md" >}}) | 18 | 18 | 100.0 | /mnt/stockage/packages/f15/speedcrunch/src/books/locale/books.es.po | 
- | [eu]({{< ref "/f15/language/eu.md" >}}) | 18 | 18 | 100.0 | /mnt/stockage/packages/f15/speedcrunch/src/books/locale/books.eu.po | 
- | [fi]({{< ref "/f15/language/fi.md" >}}) | 18 | 18 | 100.0 | /mnt/stockage/packages/f15/speedcrunch/src/books/locale/books.fi.po | 
- | [fr]({{< ref "/f15/language/fr.md" >}}) | 18 | 18 | 100.0 | /mnt/stockage/packages/f15/speedcrunch/src/books/locale/books.fr.po | 
- | [he]({{< ref "/f15/language/he.md" >}}) | 18 | 18 | 100.0 | /mnt/stockage/packages/f15/speedcrunch/src/books/locale/books.he.po | 
- | [hu]({{< ref "/f15/language/hu.md" >}}) | 18 | 18 | 100.0 | /mnt/stockage/packages/f15/speedcrunch/src/books/locale/books.hu.po | 
- | [it]({{< ref "/f15/language/it.md" >}}) | 18 | 18 | 100.0 | /mnt/stockage/packages/f15/speedcrunch/src/books/locale/books.it.po | 
- | [ja]({{< ref "/f15/language/ja.md" >}}) | 18 | 18 | 100.0 | /mnt/stockage/packages/f15/speedcrunch/src/books/locale/books.ja.po | 
- | [nb_NO]({{< ref "/f15/language/nb_NO.md" >}}) | 18 | 18 | 100.0 | /mnt/stockage/packages/f15/speedcrunch/src/books/locale/books.nb.po | 
- | [nl]({{< ref "/f15/language/nl.md" >}}) | 18 | 18 | 100.0 | /mnt/stockage/packages/f15/speedcrunch/src/books/locale/books.nl.po | 
- | [pl]({{< ref "/f15/language/pl.md" >}}) | 18 | 18 | 100.0 | /mnt/stockage/packages/f15/speedcrunch/src/books/locale/books.pl.po | 
- | [pt]({{< ref "/f15/language/pt.md" >}}) | 18 | 18 | 100.0 | /mnt/stockage/packages/f15/speedcrunch/src/books/locale/books.pt.po | 
- | [pt_BR]({{< ref "/f15/language/pt_BR.md" >}}) | 18 | 18 | 100.0 | /mnt/stockage/packages/f15/speedcrunch/src/books/locale/books.pt_BR.po | 
- | [ru]({{< ref "/f15/language/ru.md" >}}) | 18 | 18 | 100.0 | /mnt/stockage/packages/f15/speedcrunch/src/books/locale/books.ru.po | 
- | [sv]({{< ref "/f15/language/sv.md" >}}) | 18 | 18 | 100.0 | /mnt/stockage/packages/f15/speedcrunch/src/books/locale/books.sv.po | 
- | [zh_Hans]({{< ref "/f15/language/zh_Hans.md" >}}) | 18 | 18 | 100.0 | /mnt/stockage/packages/f15/speedcrunch/src/books/locale/books.zh_CN.po | 
- | [ar]({{< ref "/f15/language/ar.md" >}}) | 1 | 18 | 5.6 | /mnt/stockage/packages/f15/speedcrunch/src/books/locale/books.ar.po | 
- | [cs]({{< ref "/f15/language/cs.md" >}}) | 1 | 18 | 5.6 | /mnt/stockage/packages/f15/speedcrunch/src/books/locale/books.cs.po | 
- | [es_AR]({{< ref "/f15/language/es_AR.md" >}}) | 1 | 18 | 5.6 | /mnt/stockage/packages/f15/speedcrunch/src/books/locale/books.es_AR.po | 
- | [id]({{< ref "/f15/language/id.md" >}}) | 1 | 18 | 5.6 | /mnt/stockage/packages/f15/speedcrunch/src/books/locale/books.id.po | 
- | [ro]({{< ref "/f15/language/ro.md" >}}) | 1 | 18 | 5.6 | /mnt/stockage/packages/f15/speedcrunch/src/books/locale/books.ro.po | 
- | [tr]({{< ref "/f15/language/tr.md" >}}) | 1 | 18 | 5.6 | /mnt/stockage/packages/f15/speedcrunch/src/books/locale/books.tr.po | 
- | [en]({{< ref "/f15/language/en.md" >}}) | 0 | 18 | 0.0 | /mnt/stockage/packages/f15/speedcrunch/src/books/locale/books.en.po | 
+ | [ca](/f15/language/ca) | 18 | 18 | 100.0 | /mnt/stockage/packages/f15/speedcrunch/src/books/locale/books.ca.po | 
+ | [de](/f15/language/de) | 18 | 18 | 100.0 | /mnt/stockage/packages/f15/speedcrunch/src/books/locale/books.de.po | 
+ | [es](/f15/language/es) | 18 | 18 | 100.0 | /mnt/stockage/packages/f15/speedcrunch/src/books/locale/books.es.po | 
+ | [eu](/f15/language/eu) | 18 | 18 | 100.0 | /mnt/stockage/packages/f15/speedcrunch/src/books/locale/books.eu.po | 
+ | [fi](/f15/language/fi) | 18 | 18 | 100.0 | /mnt/stockage/packages/f15/speedcrunch/src/books/locale/books.fi.po | 
+ | [fr](/f15/language/fr) | 18 | 18 | 100.0 | /mnt/stockage/packages/f15/speedcrunch/src/books/locale/books.fr.po | 
+ | [he](/f15/language/he) | 18 | 18 | 100.0 | /mnt/stockage/packages/f15/speedcrunch/src/books/locale/books.he.po | 
+ | [hu](/f15/language/hu) | 18 | 18 | 100.0 | /mnt/stockage/packages/f15/speedcrunch/src/books/locale/books.hu.po | 
+ | [it](/f15/language/it) | 18 | 18 | 100.0 | /mnt/stockage/packages/f15/speedcrunch/src/books/locale/books.it.po | 
+ | [ja](/f15/language/ja) | 18 | 18 | 100.0 | /mnt/stockage/packages/f15/speedcrunch/src/books/locale/books.ja.po | 
+ | [nb_NO](/f15/language/nb_NO) | 18 | 18 | 100.0 | /mnt/stockage/packages/f15/speedcrunch/src/books/locale/books.nb.po | 
+ | [nl](/f15/language/nl) | 18 | 18 | 100.0 | /mnt/stockage/packages/f15/speedcrunch/src/books/locale/books.nl.po | 
+ | [pl](/f15/language/pl) | 18 | 18 | 100.0 | /mnt/stockage/packages/f15/speedcrunch/src/books/locale/books.pl.po | 
+ | [pt](/f15/language/pt) | 18 | 18 | 100.0 | /mnt/stockage/packages/f15/speedcrunch/src/books/locale/books.pt.po | 
+ | [pt_BR](/f15/language/pt_BR) | 18 | 18 | 100.0 | /mnt/stockage/packages/f15/speedcrunch/src/books/locale/books.pt_BR.po | 
+ | [ru](/f15/language/ru) | 18 | 18 | 100.0 | /mnt/stockage/packages/f15/speedcrunch/src/books/locale/books.ru.po | 
+ | [sv](/f15/language/sv) | 18 | 18 | 100.0 | /mnt/stockage/packages/f15/speedcrunch/src/books/locale/books.sv.po | 
+ | [zh_Hans](/f15/language/zh_Hans) | 18 | 18 | 100.0 | /mnt/stockage/packages/f15/speedcrunch/src/books/locale/books.zh_CN.po | 
+ | [ar](/f15/language/ar) | 1 | 18 | 5.6 | /mnt/stockage/packages/f15/speedcrunch/src/books/locale/books.ar.po | 
+ | [cs](/f15/language/cs) | 1 | 18 | 5.6 | /mnt/stockage/packages/f15/speedcrunch/src/books/locale/books.cs.po | 
+ | [es_AR](/f15/language/es_AR) | 1 | 18 | 5.6 | /mnt/stockage/packages/f15/speedcrunch/src/books/locale/books.es_AR.po | 
+ | [id](/f15/language/id) | 1 | 18 | 5.6 | /mnt/stockage/packages/f15/speedcrunch/src/books/locale/books.id.po | 
+ | [ro](/f15/language/ro) | 1 | 18 | 5.6 | /mnt/stockage/packages/f15/speedcrunch/src/books/locale/books.ro.po | 
+ | [tr](/f15/language/tr) | 1 | 18 | 5.6 | /mnt/stockage/packages/f15/speedcrunch/src/books/locale/books.tr.po | 
+ | [en](/f15/language/en) | 0 | 18 | 0.0 | /mnt/stockage/packages/f15/speedcrunch/src/books/locale/books.en.po | 
 {.sortable}
 
 

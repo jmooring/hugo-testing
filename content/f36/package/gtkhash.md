@@ -18,39 +18,39 @@ The package gtkhash (version 1.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f36/language/ca.md" >}}) | 213 | 213 | 100.0 | /mnt/stockage/packages/f36/gtkhash/po/ca.po | 
- | [da]({{< ref "/f36/language/da.md" >}}) | 213 | 213 | 100.0 | /mnt/stockage/packages/f36/gtkhash/po/da.po | 
- | [de]({{< ref "/f36/language/de.md" >}}) | 213 | 213 | 100.0 | /mnt/stockage/packages/f36/gtkhash/po/de.po | 
- | [en_GB]({{< ref "/f36/language/en_GB.md" >}}) | 213 | 213 | 100.0 | /mnt/stockage/packages/f36/gtkhash/po/en_GB.po | 
- | [en_US]({{< ref "/f36/language/en_US.md" >}}) | 213 | 213 | 100.0 | /mnt/stockage/packages/f36/gtkhash/po/en_US.po | 
- | [es]({{< ref "/f36/language/es.md" >}}) | 213 | 213 | 100.0 | /mnt/stockage/packages/f36/gtkhash/po/es.po | 
- | [fr]({{< ref "/f36/language/fr.md" >}}) | 213 | 213 | 100.0 | /mnt/stockage/packages/f36/gtkhash/po/fr.po | 
- | [hr]({{< ref "/f36/language/hr.md" >}}) | 213 | 213 | 100.0 | /mnt/stockage/packages/f36/gtkhash/po/hr.po | 
- | [ja]({{< ref "/f36/language/ja.md" >}}) | 213 | 213 | 100.0 | /mnt/stockage/packages/f36/gtkhash/po/ja.po | 
- | [lt]({{< ref "/f36/language/lt.md" >}}) | 213 | 213 | 100.0 | /mnt/stockage/packages/f36/gtkhash/po/lt.po | 
- | [pl]({{< ref "/f36/language/pl.md" >}}) | 213 | 213 | 100.0 | /mnt/stockage/packages/f36/gtkhash/po/pl.po | 
- | [tr]({{< ref "/f36/language/tr.md" >}}) | 213 | 213 | 100.0 | /mnt/stockage/packages/f36/gtkhash/po/tr.po | 
- | [he]({{< ref "/f36/language/he.md" >}}) | 201 | 213 | 94.4 | /mnt/stockage/packages/f36/gtkhash/po/he.po | 
- | [bn_BD]({{< ref "/f36/language/bn_BD.md" >}}) | 197 | 213 | 92.5 | /mnt/stockage/packages/f36/gtkhash/po/bn_BD.po | 
- | [el]({{< ref "/f36/language/el.md" >}}) | 197 | 213 | 92.5 | /mnt/stockage/packages/f36/gtkhash/po/el.po | 
- | [ie]({{< ref "/f36/language/ie.md" >}}) | 197 | 213 | 92.5 | /mnt/stockage/packages/f36/gtkhash/po/ie.po | 
- | [nl]({{< ref "/f36/language/nl.md" >}}) | 197 | 213 | 92.5 | /mnt/stockage/packages/f36/gtkhash/po/nl.po | 
- | [nl_BE]({{< ref "/f36/language/nl_BE.md" >}}) | 197 | 213 | 92.5 | /mnt/stockage/packages/f36/gtkhash/po/nl_BE.po | 
- | [pt]({{< ref "/f36/language/pt.md" >}}) | 197 | 213 | 92.5 | /mnt/stockage/packages/f36/gtkhash/po/pt.po | 
- | [pt_BR]({{< ref "/f36/language/pt_BR.md" >}}) | 197 | 213 | 92.5 | /mnt/stockage/packages/f36/gtkhash/po/pt_BR.po | 
- | [ru]({{< ref "/f36/language/ru.md" >}}) | 197 | 213 | 92.5 | /mnt/stockage/packages/f36/gtkhash/po/ru.po | 
- | [it]({{< ref "/f36/language/it.md" >}}) | 166 | 213 | 77.9 | /mnt/stockage/packages/f36/gtkhash/po/it.po | 
- | [nb_NO]({{< ref "/f36/language/nb_NO.md" >}}) | 157 | 213 | 73.7 | /mnt/stockage/packages/f36/gtkhash/po/nb_NO.po | 
- | [sv]({{< ref "/f36/language/sv.md" >}}) | 125 | 213 | 58.7 | /mnt/stockage/packages/f36/gtkhash/po/sv.po | 
- | [zh_Hans]({{< ref "/f36/language/zh_Hans.md" >}}) | 125 | 213 | 58.7 | /mnt/stockage/packages/f36/gtkhash/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f36/language/zh_Hant.md" >}}) | 60 | 213 | 28.2 | /mnt/stockage/packages/f36/gtkhash/po/zh_TW.po | 
- | [ar]({{< ref "/f36/language/ar.md" >}}) | 56 | 213 | 26.3 | /mnt/stockage/packages/f36/gtkhash/po/ar.po | 
- | [cs]({{< ref "/f36/language/cs.md" >}}) | 47 | 213 | 22.1 | /mnt/stockage/packages/f36/gtkhash/po/cs.po | 
- | [sr]({{< ref "/f36/language/sr.md" >}}) | 47 | 213 | 22.1 | /mnt/stockage/packages/f36/gtkhash/po/sr.po | 
- | [hu]({{< ref "/f36/language/hu.md" >}}) | 37 | 213 | 17.4 | /mnt/stockage/packages/f36/gtkhash/po/hu.po | 
- | [gl]({{< ref "/f36/language/gl.md" >}}) | 29 | 213 | 13.6 | /mnt/stockage/packages/f36/gtkhash/po/gl.po | 
- | [eo]({{< ref "/f36/language/eo.md" >}}) | 8 | 213 | 3.8 | /mnt/stockage/packages/f36/gtkhash/po/eo.po | 
- | [id]({{< ref "/f36/language/id.md" >}}) | 3 | 213 | 1.4 | /mnt/stockage/packages/f36/gtkhash/po/id.po | 
+ | [ca](/f36/language/ca) | 213 | 213 | 100.0 | /mnt/stockage/packages/f36/gtkhash/po/ca.po | 
+ | [da](/f36/language/da) | 213 | 213 | 100.0 | /mnt/stockage/packages/f36/gtkhash/po/da.po | 
+ | [de](/f36/language/de) | 213 | 213 | 100.0 | /mnt/stockage/packages/f36/gtkhash/po/de.po | 
+ | [en_GB](/f36/language/en_GB) | 213 | 213 | 100.0 | /mnt/stockage/packages/f36/gtkhash/po/en_GB.po | 
+ | [en_US](/f36/language/en_US) | 213 | 213 | 100.0 | /mnt/stockage/packages/f36/gtkhash/po/en_US.po | 
+ | [es](/f36/language/es) | 213 | 213 | 100.0 | /mnt/stockage/packages/f36/gtkhash/po/es.po | 
+ | [fr](/f36/language/fr) | 213 | 213 | 100.0 | /mnt/stockage/packages/f36/gtkhash/po/fr.po | 
+ | [hr](/f36/language/hr) | 213 | 213 | 100.0 | /mnt/stockage/packages/f36/gtkhash/po/hr.po | 
+ | [ja](/f36/language/ja) | 213 | 213 | 100.0 | /mnt/stockage/packages/f36/gtkhash/po/ja.po | 
+ | [lt](/f36/language/lt) | 213 | 213 | 100.0 | /mnt/stockage/packages/f36/gtkhash/po/lt.po | 
+ | [pl](/f36/language/pl) | 213 | 213 | 100.0 | /mnt/stockage/packages/f36/gtkhash/po/pl.po | 
+ | [tr](/f36/language/tr) | 213 | 213 | 100.0 | /mnt/stockage/packages/f36/gtkhash/po/tr.po | 
+ | [he](/f36/language/he) | 201 | 213 | 94.4 | /mnt/stockage/packages/f36/gtkhash/po/he.po | 
+ | [bn_BD](/f36/language/bn_BD) | 197 | 213 | 92.5 | /mnt/stockage/packages/f36/gtkhash/po/bn_BD.po | 
+ | [el](/f36/language/el) | 197 | 213 | 92.5 | /mnt/stockage/packages/f36/gtkhash/po/el.po | 
+ | [ie](/f36/language/ie) | 197 | 213 | 92.5 | /mnt/stockage/packages/f36/gtkhash/po/ie.po | 
+ | [nl](/f36/language/nl) | 197 | 213 | 92.5 | /mnt/stockage/packages/f36/gtkhash/po/nl.po | 
+ | [nl_BE](/f36/language/nl_BE) | 197 | 213 | 92.5 | /mnt/stockage/packages/f36/gtkhash/po/nl_BE.po | 
+ | [pt](/f36/language/pt) | 197 | 213 | 92.5 | /mnt/stockage/packages/f36/gtkhash/po/pt.po | 
+ | [pt_BR](/f36/language/pt_BR) | 197 | 213 | 92.5 | /mnt/stockage/packages/f36/gtkhash/po/pt_BR.po | 
+ | [ru](/f36/language/ru) | 197 | 213 | 92.5 | /mnt/stockage/packages/f36/gtkhash/po/ru.po | 
+ | [it](/f36/language/it) | 166 | 213 | 77.9 | /mnt/stockage/packages/f36/gtkhash/po/it.po | 
+ | [nb_NO](/f36/language/nb_NO) | 157 | 213 | 73.7 | /mnt/stockage/packages/f36/gtkhash/po/nb_NO.po | 
+ | [sv](/f36/language/sv) | 125 | 213 | 58.7 | /mnt/stockage/packages/f36/gtkhash/po/sv.po | 
+ | [zh_Hans](/f36/language/zh_Hans) | 125 | 213 | 58.7 | /mnt/stockage/packages/f36/gtkhash/po/zh_CN.po | 
+ | [zh_Hant](/f36/language/zh_Hant) | 60 | 213 | 28.2 | /mnt/stockage/packages/f36/gtkhash/po/zh_TW.po | 
+ | [ar](/f36/language/ar) | 56 | 213 | 26.3 | /mnt/stockage/packages/f36/gtkhash/po/ar.po | 
+ | [cs](/f36/language/cs) | 47 | 213 | 22.1 | /mnt/stockage/packages/f36/gtkhash/po/cs.po | 
+ | [sr](/f36/language/sr) | 47 | 213 | 22.1 | /mnt/stockage/packages/f36/gtkhash/po/sr.po | 
+ | [hu](/f36/language/hu) | 37 | 213 | 17.4 | /mnt/stockage/packages/f36/gtkhash/po/hu.po | 
+ | [gl](/f36/language/gl) | 29 | 213 | 13.6 | /mnt/stockage/packages/f36/gtkhash/po/gl.po | 
+ | [eo](/f36/language/eo) | 8 | 213 | 3.8 | /mnt/stockage/packages/f36/gtkhash/po/eo.po | 
+ | [id](/f36/language/id) | 3 | 213 | 1.4 | /mnt/stockage/packages/f36/gtkhash/po/id.po | 
 {.sortable}
 
 

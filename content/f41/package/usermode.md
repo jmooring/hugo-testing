@@ -18,70 +18,70 @@ The package usermode (version 1.114):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [bn_IN]({{< ref "/f41/language/bn_IN.md" >}}) | 573 | 573 | 100.0 | /mnt/stockage/packages/f41/usermode/po/bn_IN.po | 
- | [ca]({{< ref "/f41/language/ca.md" >}}) | 573 | 573 | 100.0 | /mnt/stockage/packages/f41/usermode/po/ca.po | 
- | [cs]({{< ref "/f41/language/cs.md" >}}) | 573 | 573 | 100.0 | /mnt/stockage/packages/f41/usermode/po/cs.po | 
- | [da]({{< ref "/f41/language/da.md" >}}) | 573 | 573 | 100.0 | /mnt/stockage/packages/f41/usermode/po/da.po | 
- | [de]({{< ref "/f41/language/de.md" >}}) | 573 | 573 | 100.0 | /mnt/stockage/packages/f41/usermode/po/de.po | 
- | [el]({{< ref "/f41/language/el.md" >}}) | 573 | 573 | 100.0 | /mnt/stockage/packages/f41/usermode/po/el.po | 
- | [es]({{< ref "/f41/language/es.md" >}}) | 573 | 573 | 100.0 | /mnt/stockage/packages/f41/usermode/po/es.po | 
- | [fi]({{< ref "/f41/language/fi.md" >}}) | 573 | 573 | 100.0 | /mnt/stockage/packages/f41/usermode/po/fi.po | 
- | [fr]({{< ref "/f41/language/fr.md" >}}) | 573 | 573 | 100.0 | /mnt/stockage/packages/f41/usermode/po/fr.po | 
- | [hu]({{< ref "/f41/language/hu.md" >}}) | 573 | 573 | 100.0 | /mnt/stockage/packages/f41/usermode/po/hu.po | 
- | [id]({{< ref "/f41/language/id.md" >}}) | 573 | 573 | 100.0 | /mnt/stockage/packages/f41/usermode/po/id.po | 
- | [it]({{< ref "/f41/language/it.md" >}}) | 573 | 573 | 100.0 | /mnt/stockage/packages/f41/usermode/po/it.po | 
- | [ja]({{< ref "/f41/language/ja.md" >}}) | 573 | 573 | 100.0 | /mnt/stockage/packages/f41/usermode/po/ja.po | 
- | [nl]({{< ref "/f41/language/nl.md" >}}) | 573 | 573 | 100.0 | /mnt/stockage/packages/f41/usermode/po/nl.po | 
- | [pa]({{< ref "/f41/language/pa.md" >}}) | 573 | 573 | 100.0 | /mnt/stockage/packages/f41/usermode/po/pa.po | 
- | [pl]({{< ref "/f41/language/pl.md" >}}) | 573 | 573 | 100.0 | /mnt/stockage/packages/f41/usermode/po/pl.po | 
- | [pt]({{< ref "/f41/language/pt.md" >}}) | 573 | 573 | 100.0 | /mnt/stockage/packages/f41/usermode/po/pt.po | 
- | [pt_BR]({{< ref "/f41/language/pt_BR.md" >}}) | 573 | 573 | 100.0 | /mnt/stockage/packages/f41/usermode/po/pt_BR.po | 
- | [ru]({{< ref "/f41/language/ru.md" >}}) | 573 | 573 | 100.0 | /mnt/stockage/packages/f41/usermode/po/ru.po | 
- | [sk]({{< ref "/f41/language/sk.md" >}}) | 573 | 573 | 100.0 | /mnt/stockage/packages/f41/usermode/po/sk.po | 
- | [sr]({{< ref "/f41/language/sr.md" >}}) | 573 | 573 | 100.0 | /mnt/stockage/packages/f41/usermode/po/sr.po | 
- | [sv]({{< ref "/f41/language/sv.md" >}}) | 573 | 573 | 100.0 | /mnt/stockage/packages/f41/usermode/po/sv.po | 
- | [tr]({{< ref "/f41/language/tr.md" >}}) | 573 | 573 | 100.0 | /mnt/stockage/packages/f41/usermode/po/tr.po | 
- | [uk]({{< ref "/f41/language/uk.md" >}}) | 573 | 573 | 100.0 | /mnt/stockage/packages/f41/usermode/po/uk.po | 
- | [zh_Hans]({{< ref "/f41/language/zh_Hans.md" >}}) | 573 | 573 | 100.0 | /mnt/stockage/packages/f41/usermode/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f41/language/zh_Hant.md" >}}) | 573 | 573 | 100.0 | /mnt/stockage/packages/f41/usermode/po/zh_TW.po | 
- | [ar]({{< ref "/f41/language/ar.md" >}}) | 570 | 573 | 99.5 | /mnt/stockage/packages/f41/usermode/po/ar.po | 
- | [as]({{< ref "/f41/language/as.md" >}}) | 570 | 573 | 99.5 | /mnt/stockage/packages/f41/usermode/po/as.po | 
- | [bg]({{< ref "/f41/language/bg.md" >}}) | 570 | 573 | 99.5 | /mnt/stockage/packages/f41/usermode/po/bg.po | 
- | [bn]({{< ref "/f41/language/bn.md" >}}) | 570 | 573 | 99.5 | /mnt/stockage/packages/f41/usermode/po/bn.po | 
- | [et]({{< ref "/f41/language/et.md" >}}) | 570 | 573 | 99.5 | /mnt/stockage/packages/f41/usermode/po/et.po | 
- | [fa]({{< ref "/f41/language/fa.md" >}}) | 570 | 573 | 99.5 | /mnt/stockage/packages/f41/usermode/po/fa.po | 
- | [he]({{< ref "/f41/language/he.md" >}}) | 570 | 573 | 99.5 | /mnt/stockage/packages/f41/usermode/po/he.po | 
- | [is]({{< ref "/f41/language/is.md" >}}) | 570 | 573 | 99.5 | /mnt/stockage/packages/f41/usermode/po/is.po | 
- | [kn]({{< ref "/f41/language/kn.md" >}}) | 570 | 573 | 99.5 | /mnt/stockage/packages/f41/usermode/po/kn.po | 
- | [ko]({{< ref "/f41/language/ko.md" >}}) | 570 | 573 | 99.5 | /mnt/stockage/packages/f41/usermode/po/ko.po | 
- | [lv]({{< ref "/f41/language/lv.md" >}}) | 570 | 573 | 99.5 | /mnt/stockage/packages/f41/usermode/po/lv.po | 
- | [nb_NO]({{< ref "/f41/language/nb_NO.md" >}}) | 570 | 573 | 99.5 | /mnt/stockage/packages/f41/usermode/po/nb.po | 
- | [ro]({{< ref "/f41/language/ro.md" >}}) | 570 | 573 | 99.5 | /mnt/stockage/packages/f41/usermode/po/ro.po | 
- | [ta]({{< ref "/f41/language/ta.md" >}}) | 570 | 573 | 99.5 | /mnt/stockage/packages/f41/usermode/po/ta.po | 
- | [te]({{< ref "/f41/language/te.md" >}}) | 570 | 573 | 99.5 | /mnt/stockage/packages/f41/usermode/po/te.po | 
- | [bs]({{< ref "/f41/language/bs.md" >}}) | 564 | 573 | 98.4 | /mnt/stockage/packages/f41/usermode/po/bs.po | 
- | [gu]({{< ref "/f41/language/gu.md" >}}) | 564 | 573 | 98.4 | /mnt/stockage/packages/f41/usermode/po/gu.po | 
- | [hi]({{< ref "/f41/language/hi.md" >}}) | 564 | 573 | 98.4 | /mnt/stockage/packages/f41/usermode/po/hi.po | 
- | [ml]({{< ref "/f41/language/ml.md" >}}) | 564 | 573 | 98.4 | /mnt/stockage/packages/f41/usermode/po/ml.po | 
- | [mr]({{< ref "/f41/language/mr.md" >}}) | 564 | 573 | 98.4 | /mnt/stockage/packages/f41/usermode/po/mr.po | 
- | [or]({{< ref "/f41/language/or.md" >}}) | 564 | 573 | 98.4 | /mnt/stockage/packages/f41/usermode/po/or.po | 
- | [sr_Latn]({{< ref "/f41/language/sr_Latn.md" >}}) | 564 | 573 | 98.4 | /mnt/stockage/packages/f41/usermode/po/sr@latin.po | 
- | [ast]({{< ref "/f41/language/ast.md" >}}) | 551 | 573 | 96.2 | /mnt/stockage/packages/f41/usermode/po/ast.po | 
- | [de_CH]({{< ref "/f41/language/de_CH.md" >}}) | 551 | 573 | 96.2 | /mnt/stockage/packages/f41/usermode/po/de_CH.po | 
- | [mai]({{< ref "/f41/language/mai.md" >}}) | 551 | 573 | 96.2 | /mnt/stockage/packages/f41/usermode/po/mai.po | 
- | [hr]({{< ref "/f41/language/hr.md" >}}) | 542 | 573 | 94.6 | /mnt/stockage/packages/f41/usermode/po/hr.po | 
- | [mk]({{< ref "/f41/language/mk.md" >}}) | 542 | 573 | 94.6 | /mnt/stockage/packages/f41/usermode/po/mk.po | 
- | [ms]({{< ref "/f41/language/ms.md" >}}) | 542 | 573 | 94.6 | /mnt/stockage/packages/f41/usermode/po/ms.po | 
- | [en_GB]({{< ref "/f41/language/en_GB.md" >}}) | 524 | 573 | 91.4 | /mnt/stockage/packages/f41/usermode/po/en_GB.po | 
- | [cy]({{< ref "/f41/language/cy.md" >}}) | 521 | 573 | 90.9 | /mnt/stockage/packages/f41/usermode/po/cy.po | 
- | [be]({{< ref "/f41/language/be.md" >}}) | 451 | 573 | 78.7 | /mnt/stockage/packages/f41/usermode/po/be.po | 
- | [sl]({{< ref "/f41/language/sl.md" >}}) | 442 | 573 | 77.1 | /mnt/stockage/packages/f41/usermode/po/sl.po | 
- | [gl]({{< ref "/f41/language/gl.md" >}}) | 320 | 573 | 55.8 | /mnt/stockage/packages/f41/usermode/po/gl.po | 
- | [vi]({{< ref "/f41/language/vi.md" >}}) | 252 | 573 | 44.0 | /mnt/stockage/packages/f41/usermode/po/vi.po | 
- | [tg]({{< ref "/f41/language/tg.md" >}}) | 177 | 573 | 30.9 | /mnt/stockage/packages/f41/usermode/po/tg.po | 
- | [nds]({{< ref "/f41/language/nds.md" >}}) | 74 | 573 | 12.9 | /mnt/stockage/packages/f41/usermode/po/nds.po | 
- | [ka]({{< ref "/f41/language/ka.md" >}}) | 60 | 573 | 10.5 | /mnt/stockage/packages/f41/usermode/po/ka.po | 
- | [si]({{< ref "/f41/language/si.md" >}}) | 31 | 573 | 5.4 | /mnt/stockage/packages/f41/usermode/po/si.po | 
+ | [bn_IN](/f41/language/bn_IN) | 573 | 573 | 100.0 | /mnt/stockage/packages/f41/usermode/po/bn_IN.po | 
+ | [ca](/f41/language/ca) | 573 | 573 | 100.0 | /mnt/stockage/packages/f41/usermode/po/ca.po | 
+ | [cs](/f41/language/cs) | 573 | 573 | 100.0 | /mnt/stockage/packages/f41/usermode/po/cs.po | 
+ | [da](/f41/language/da) | 573 | 573 | 100.0 | /mnt/stockage/packages/f41/usermode/po/da.po | 
+ | [de](/f41/language/de) | 573 | 573 | 100.0 | /mnt/stockage/packages/f41/usermode/po/de.po | 
+ | [el](/f41/language/el) | 573 | 573 | 100.0 | /mnt/stockage/packages/f41/usermode/po/el.po | 
+ | [es](/f41/language/es) | 573 | 573 | 100.0 | /mnt/stockage/packages/f41/usermode/po/es.po | 
+ | [fi](/f41/language/fi) | 573 | 573 | 100.0 | /mnt/stockage/packages/f41/usermode/po/fi.po | 
+ | [fr](/f41/language/fr) | 573 | 573 | 100.0 | /mnt/stockage/packages/f41/usermode/po/fr.po | 
+ | [hu](/f41/language/hu) | 573 | 573 | 100.0 | /mnt/stockage/packages/f41/usermode/po/hu.po | 
+ | [id](/f41/language/id) | 573 | 573 | 100.0 | /mnt/stockage/packages/f41/usermode/po/id.po | 
+ | [it](/f41/language/it) | 573 | 573 | 100.0 | /mnt/stockage/packages/f41/usermode/po/it.po | 
+ | [ja](/f41/language/ja) | 573 | 573 | 100.0 | /mnt/stockage/packages/f41/usermode/po/ja.po | 
+ | [nl](/f41/language/nl) | 573 | 573 | 100.0 | /mnt/stockage/packages/f41/usermode/po/nl.po | 
+ | [pa](/f41/language/pa) | 573 | 573 | 100.0 | /mnt/stockage/packages/f41/usermode/po/pa.po | 
+ | [pl](/f41/language/pl) | 573 | 573 | 100.0 | /mnt/stockage/packages/f41/usermode/po/pl.po | 
+ | [pt](/f41/language/pt) | 573 | 573 | 100.0 | /mnt/stockage/packages/f41/usermode/po/pt.po | 
+ | [pt_BR](/f41/language/pt_BR) | 573 | 573 | 100.0 | /mnt/stockage/packages/f41/usermode/po/pt_BR.po | 
+ | [ru](/f41/language/ru) | 573 | 573 | 100.0 | /mnt/stockage/packages/f41/usermode/po/ru.po | 
+ | [sk](/f41/language/sk) | 573 | 573 | 100.0 | /mnt/stockage/packages/f41/usermode/po/sk.po | 
+ | [sr](/f41/language/sr) | 573 | 573 | 100.0 | /mnt/stockage/packages/f41/usermode/po/sr.po | 
+ | [sv](/f41/language/sv) | 573 | 573 | 100.0 | /mnt/stockage/packages/f41/usermode/po/sv.po | 
+ | [tr](/f41/language/tr) | 573 | 573 | 100.0 | /mnt/stockage/packages/f41/usermode/po/tr.po | 
+ | [uk](/f41/language/uk) | 573 | 573 | 100.0 | /mnt/stockage/packages/f41/usermode/po/uk.po | 
+ | [zh_Hans](/f41/language/zh_Hans) | 573 | 573 | 100.0 | /mnt/stockage/packages/f41/usermode/po/zh_CN.po | 
+ | [zh_Hant](/f41/language/zh_Hant) | 573 | 573 | 100.0 | /mnt/stockage/packages/f41/usermode/po/zh_TW.po | 
+ | [ar](/f41/language/ar) | 570 | 573 | 99.5 | /mnt/stockage/packages/f41/usermode/po/ar.po | 
+ | [as](/f41/language/as) | 570 | 573 | 99.5 | /mnt/stockage/packages/f41/usermode/po/as.po | 
+ | [bg](/f41/language/bg) | 570 | 573 | 99.5 | /mnt/stockage/packages/f41/usermode/po/bg.po | 
+ | [bn](/f41/language/bn) | 570 | 573 | 99.5 | /mnt/stockage/packages/f41/usermode/po/bn.po | 
+ | [et](/f41/language/et) | 570 | 573 | 99.5 | /mnt/stockage/packages/f41/usermode/po/et.po | 
+ | [fa](/f41/language/fa) | 570 | 573 | 99.5 | /mnt/stockage/packages/f41/usermode/po/fa.po | 
+ | [he](/f41/language/he) | 570 | 573 | 99.5 | /mnt/stockage/packages/f41/usermode/po/he.po | 
+ | [is](/f41/language/is) | 570 | 573 | 99.5 | /mnt/stockage/packages/f41/usermode/po/is.po | 
+ | [kn](/f41/language/kn) | 570 | 573 | 99.5 | /mnt/stockage/packages/f41/usermode/po/kn.po | 
+ | [ko](/f41/language/ko) | 570 | 573 | 99.5 | /mnt/stockage/packages/f41/usermode/po/ko.po | 
+ | [lv](/f41/language/lv) | 570 | 573 | 99.5 | /mnt/stockage/packages/f41/usermode/po/lv.po | 
+ | [nb_NO](/f41/language/nb_NO) | 570 | 573 | 99.5 | /mnt/stockage/packages/f41/usermode/po/nb.po | 
+ | [ro](/f41/language/ro) | 570 | 573 | 99.5 | /mnt/stockage/packages/f41/usermode/po/ro.po | 
+ | [ta](/f41/language/ta) | 570 | 573 | 99.5 | /mnt/stockage/packages/f41/usermode/po/ta.po | 
+ | [te](/f41/language/te) | 570 | 573 | 99.5 | /mnt/stockage/packages/f41/usermode/po/te.po | 
+ | [bs](/f41/language/bs) | 564 | 573 | 98.4 | /mnt/stockage/packages/f41/usermode/po/bs.po | 
+ | [gu](/f41/language/gu) | 564 | 573 | 98.4 | /mnt/stockage/packages/f41/usermode/po/gu.po | 
+ | [hi](/f41/language/hi) | 564 | 573 | 98.4 | /mnt/stockage/packages/f41/usermode/po/hi.po | 
+ | [ml](/f41/language/ml) | 564 | 573 | 98.4 | /mnt/stockage/packages/f41/usermode/po/ml.po | 
+ | [mr](/f41/language/mr) | 564 | 573 | 98.4 | /mnt/stockage/packages/f41/usermode/po/mr.po | 
+ | [or](/f41/language/or) | 564 | 573 | 98.4 | /mnt/stockage/packages/f41/usermode/po/or.po | 
+ | [sr_Latn](/f41/language/sr_Latn) | 564 | 573 | 98.4 | /mnt/stockage/packages/f41/usermode/po/sr@latin.po | 
+ | [ast](/f41/language/ast) | 551 | 573 | 96.2 | /mnt/stockage/packages/f41/usermode/po/ast.po | 
+ | [de_CH](/f41/language/de_CH) | 551 | 573 | 96.2 | /mnt/stockage/packages/f41/usermode/po/de_CH.po | 
+ | [mai](/f41/language/mai) | 551 | 573 | 96.2 | /mnt/stockage/packages/f41/usermode/po/mai.po | 
+ | [hr](/f41/language/hr) | 542 | 573 | 94.6 | /mnt/stockage/packages/f41/usermode/po/hr.po | 
+ | [mk](/f41/language/mk) | 542 | 573 | 94.6 | /mnt/stockage/packages/f41/usermode/po/mk.po | 
+ | [ms](/f41/language/ms) | 542 | 573 | 94.6 | /mnt/stockage/packages/f41/usermode/po/ms.po | 
+ | [en_GB](/f41/language/en_GB) | 524 | 573 | 91.4 | /mnt/stockage/packages/f41/usermode/po/en_GB.po | 
+ | [cy](/f41/language/cy) | 521 | 573 | 90.9 | /mnt/stockage/packages/f41/usermode/po/cy.po | 
+ | [be](/f41/language/be) | 451 | 573 | 78.7 | /mnt/stockage/packages/f41/usermode/po/be.po | 
+ | [sl](/f41/language/sl) | 442 | 573 | 77.1 | /mnt/stockage/packages/f41/usermode/po/sl.po | 
+ | [gl](/f41/language/gl) | 320 | 573 | 55.8 | /mnt/stockage/packages/f41/usermode/po/gl.po | 
+ | [vi](/f41/language/vi) | 252 | 573 | 44.0 | /mnt/stockage/packages/f41/usermode/po/vi.po | 
+ | [tg](/f41/language/tg) | 177 | 573 | 30.9 | /mnt/stockage/packages/f41/usermode/po/tg.po | 
+ | [nds](/f41/language/nds) | 74 | 573 | 12.9 | /mnt/stockage/packages/f41/usermode/po/nds.po | 
+ | [ka](/f41/language/ka) | 60 | 573 | 10.5 | /mnt/stockage/packages/f41/usermode/po/ka.po | 
+ | [si](/f41/language/si) | 31 | 573 | 5.4 | /mnt/stockage/packages/f41/usermode/po/si.po | 
 {.sortable}
 
 

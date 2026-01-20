@@ -18,33 +18,33 @@ The package tasque (version 0.1.9):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f14/language/cs.md" >}}) | 196 | 196 | 100.0 | /mnt/stockage/packages/f14/tasque/po/cs.po | 
- | [de]({{< ref "/f14/language/de.md" >}}) | 245 | 245 | 100.0 | /mnt/stockage/packages/f14/tasque/po/de.po | 
- | [en_GB]({{< ref "/f14/language/en_GB.md" >}}) | 196 | 196 | 100.0 | /mnt/stockage/packages/f14/tasque/po/en_GB.po | 
- | [eo]({{< ref "/f14/language/eo.md" >}}) | 196 | 196 | 100.0 | /mnt/stockage/packages/f14/tasque/po/eo.po | 
- | [es]({{< ref "/f14/language/es.md" >}}) | 245 | 245 | 100.0 | /mnt/stockage/packages/f14/tasque/po/es.po | 
- | [et]({{< ref "/f14/language/et.md" >}}) | 245 | 245 | 100.0 | /mnt/stockage/packages/f14/tasque/po/et.po | 
- | [fr]({{< ref "/f14/language/fr.md" >}}) | 142 | 142 | 100.0 | /mnt/stockage/packages/f14/tasque/po/fr.po | 
- | [gl]({{< ref "/f14/language/gl.md" >}}) | 245 | 245 | 100.0 | /mnt/stockage/packages/f14/tasque/po/gl.po | 
- | [hu]({{< ref "/f14/language/hu.md" >}}) | 245 | 245 | 100.0 | /mnt/stockage/packages/f14/tasque/po/hu.po | 
- | [it]({{< ref "/f14/language/it.md" >}}) | 196 | 196 | 100.0 | /mnt/stockage/packages/f14/tasque/po/it.po | 
- | [ja]({{< ref "/f14/language/ja.md" >}}) | 196 | 196 | 100.0 | /mnt/stockage/packages/f14/tasque/po/ja.po | 
- | [nds]({{< ref "/f14/language/nds.md" >}}) | 245 | 245 | 100.0 | /mnt/stockage/packages/f14/tasque/po/nds.po | 
- | [nl]({{< ref "/f14/language/nl.md" >}}) | 17 | 17 | 100.0 | /mnt/stockage/packages/f14/tasque/po/nl.po | 
- | [pl]({{< ref "/f14/language/pl.md" >}}) | 196 | 196 | 100.0 | /mnt/stockage/packages/f14/tasque/po/pl.po | 
- | [pt]({{< ref "/f14/language/pt.md" >}}) | 245 | 245 | 100.0 | /mnt/stockage/packages/f14/tasque/po/pt.po | 
- | [pt_BR]({{< ref "/f14/language/pt_BR.md" >}}) | 245 | 245 | 100.0 | /mnt/stockage/packages/f14/tasque/po/pt_BR.po | 
- | [ru]({{< ref "/f14/language/ru.md" >}}) | 135 | 135 | 100.0 | /mnt/stockage/packages/f14/tasque/po/ru.po | 
- | [sl]({{< ref "/f14/language/sl.md" >}}) | 245 | 245 | 100.0 | /mnt/stockage/packages/f14/tasque/po/sl.po | 
- | [sv]({{< ref "/f14/language/sv.md" >}}) | 245 | 245 | 100.0 | /mnt/stockage/packages/f14/tasque/po/sv.po | 
- | [th]({{< ref "/f14/language/th.md" >}}) | 196 | 196 | 100.0 | /mnt/stockage/packages/f14/tasque/po/th.po | 
- | [tr]({{< ref "/f14/language/tr.md" >}}) | 142 | 142 | 100.0 | /mnt/stockage/packages/f14/tasque/po/tr.po | 
- | [zh_Hans]({{< ref "/f14/language/zh_Hans.md" >}}) | 245 | 245 | 100.0 | /mnt/stockage/packages/f14/tasque/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f14/language/zh_Hant.md" >}}) | 142 | 142 | 100.0 | /mnt/stockage/packages/f14/tasque/po/zh_TW.po | 
- | [da]({{< ref "/f14/language/da.md" >}}) | 193 | 196 | 98.5 | /mnt/stockage/packages/f14/tasque/po/da.po | 
- | [id]({{< ref "/f14/language/id.md" >}}) | 188 | 245 | 76.7 | /mnt/stockage/packages/f14/tasque/po/id.po | 
- | [el]({{< ref "/f14/language/el.md" >}}) | 5 | 196 | 2.6 | /mnt/stockage/packages/f14/tasque/po/el.po | 
- | [fi]({{< ref "/f14/language/fi.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f14/tasque/po/fi.po | 
+ | [cs](/f14/language/cs) | 196 | 196 | 100.0 | /mnt/stockage/packages/f14/tasque/po/cs.po | 
+ | [de](/f14/language/de) | 245 | 245 | 100.0 | /mnt/stockage/packages/f14/tasque/po/de.po | 
+ | [en_GB](/f14/language/en_GB) | 196 | 196 | 100.0 | /mnt/stockage/packages/f14/tasque/po/en_GB.po | 
+ | [eo](/f14/language/eo) | 196 | 196 | 100.0 | /mnt/stockage/packages/f14/tasque/po/eo.po | 
+ | [es](/f14/language/es) | 245 | 245 | 100.0 | /mnt/stockage/packages/f14/tasque/po/es.po | 
+ | [et](/f14/language/et) | 245 | 245 | 100.0 | /mnt/stockage/packages/f14/tasque/po/et.po | 
+ | [fr](/f14/language/fr) | 142 | 142 | 100.0 | /mnt/stockage/packages/f14/tasque/po/fr.po | 
+ | [gl](/f14/language/gl) | 245 | 245 | 100.0 | /mnt/stockage/packages/f14/tasque/po/gl.po | 
+ | [hu](/f14/language/hu) | 245 | 245 | 100.0 | /mnt/stockage/packages/f14/tasque/po/hu.po | 
+ | [it](/f14/language/it) | 196 | 196 | 100.0 | /mnt/stockage/packages/f14/tasque/po/it.po | 
+ | [ja](/f14/language/ja) | 196 | 196 | 100.0 | /mnt/stockage/packages/f14/tasque/po/ja.po | 
+ | [nds](/f14/language/nds) | 245 | 245 | 100.0 | /mnt/stockage/packages/f14/tasque/po/nds.po | 
+ | [nl](/f14/language/nl) | 17 | 17 | 100.0 | /mnt/stockage/packages/f14/tasque/po/nl.po | 
+ | [pl](/f14/language/pl) | 196 | 196 | 100.0 | /mnt/stockage/packages/f14/tasque/po/pl.po | 
+ | [pt](/f14/language/pt) | 245 | 245 | 100.0 | /mnt/stockage/packages/f14/tasque/po/pt.po | 
+ | [pt_BR](/f14/language/pt_BR) | 245 | 245 | 100.0 | /mnt/stockage/packages/f14/tasque/po/pt_BR.po | 
+ | [ru](/f14/language/ru) | 135 | 135 | 100.0 | /mnt/stockage/packages/f14/tasque/po/ru.po | 
+ | [sl](/f14/language/sl) | 245 | 245 | 100.0 | /mnt/stockage/packages/f14/tasque/po/sl.po | 
+ | [sv](/f14/language/sv) | 245 | 245 | 100.0 | /mnt/stockage/packages/f14/tasque/po/sv.po | 
+ | [th](/f14/language/th) | 196 | 196 | 100.0 | /mnt/stockage/packages/f14/tasque/po/th.po | 
+ | [tr](/f14/language/tr) | 142 | 142 | 100.0 | /mnt/stockage/packages/f14/tasque/po/tr.po | 
+ | [zh_Hans](/f14/language/zh_Hans) | 245 | 245 | 100.0 | /mnt/stockage/packages/f14/tasque/po/zh_CN.po | 
+ | [zh_Hant](/f14/language/zh_Hant) | 142 | 142 | 100.0 | /mnt/stockage/packages/f14/tasque/po/zh_TW.po | 
+ | [da](/f14/language/da) | 193 | 196 | 98.5 | /mnt/stockage/packages/f14/tasque/po/da.po | 
+ | [id](/f14/language/id) | 188 | 245 | 76.7 | /mnt/stockage/packages/f14/tasque/po/id.po | 
+ | [el](/f14/language/el) | 5 | 196 | 2.6 | /mnt/stockage/packages/f14/tasque/po/el.po | 
+ | [fi](/f14/language/fi) | 0 | 0 | 0.0 | /mnt/stockage/packages/f14/tasque/po/fi.po | 
 {.sortable}
 
 

@@ -18,16 +18,16 @@ The package gnubg (version 0.9.0.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [it]({{< ref "/f10/language/it.md" >}}) | 16575 | 16575 | 100.0 | /mnt/stockage/packages/f10/gnubg/po/it.po | 
- | [cs]({{< ref "/f10/language/cs.md" >}}) | 14962 | 16575 | 90.3 | /mnt/stockage/packages/f10/gnubg/po/cs.po | 
- | [de]({{< ref "/f10/language/de.md" >}}) | 14125 | 16575 | 85.2 | /mnt/stockage/packages/f10/gnubg/po/de.po | 
- | [en_US]({{< ref "/f10/language/en_US.md" >}}) | 10382 | 16575 | 62.6 | /mnt/stockage/packages/f10/gnubg/po/en_US.po | 
- | [fr]({{< ref "/f10/language/fr.md" >}}) | 6758 | 16575 | 40.8 | /mnt/stockage/packages/f10/gnubg/po/fr.po | 
- | [ja]({{< ref "/f10/language/ja.md" >}}) | 5891 | 16575 | 35.5 | /mnt/stockage/packages/f10/gnubg/po/ja.po | 
- | [is]({{< ref "/f10/language/is.md" >}}) | 2114 | 16575 | 12.8 | /mnt/stockage/packages/f10/gnubg/po/is.po | 
- | [tr]({{< ref "/f10/language/tr.md" >}}) | 1985 | 16575 | 12.0 | /mnt/stockage/packages/f10/gnubg/po/tr.po | 
- | [ru]({{< ref "/f10/language/ru.md" >}}) | 1825 | 16575 | 11.0 | /mnt/stockage/packages/f10/gnubg/po/ru.po | 
- | [da]({{< ref "/f10/language/da.md" >}}) | 641 | 16575 | 3.9 | /mnt/stockage/packages/f10/gnubg/po/da.po | 
+ | [it](/f10/language/it) | 16575 | 16575 | 100.0 | /mnt/stockage/packages/f10/gnubg/po/it.po | 
+ | [cs](/f10/language/cs) | 14962 | 16575 | 90.3 | /mnt/stockage/packages/f10/gnubg/po/cs.po | 
+ | [de](/f10/language/de) | 14125 | 16575 | 85.2 | /mnt/stockage/packages/f10/gnubg/po/de.po | 
+ | [en_US](/f10/language/en_US) | 10382 | 16575 | 62.6 | /mnt/stockage/packages/f10/gnubg/po/en_US.po | 
+ | [fr](/f10/language/fr) | 6758 | 16575 | 40.8 | /mnt/stockage/packages/f10/gnubg/po/fr.po | 
+ | [ja](/f10/language/ja) | 5891 | 16575 | 35.5 | /mnt/stockage/packages/f10/gnubg/po/ja.po | 
+ | [is](/f10/language/is) | 2114 | 16575 | 12.8 | /mnt/stockage/packages/f10/gnubg/po/is.po | 
+ | [tr](/f10/language/tr) | 1985 | 16575 | 12.0 | /mnt/stockage/packages/f10/gnubg/po/tr.po | 
+ | [ru](/f10/language/ru) | 1825 | 16575 | 11.0 | /mnt/stockage/packages/f10/gnubg/po/ru.po | 
+ | [da](/f10/language/da) | 641 | 16575 | 3.9 | /mnt/stockage/packages/f10/gnubg/po/da.po | 
 {.sortable}
 
 

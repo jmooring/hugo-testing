@@ -18,8 +18,8 @@ The package proxyknife (version 1.7):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [error]({{< ref "/f16/language/error.md" >}}) | 508 | 508 | 100.0 | /mnt/stockage/packages/f16/proxyknife/po/en@quot.po/mnt/stockage/packages/f16/proxyknife/po/en@boldquot.po | 
- | [zh_Hans]({{< ref "/f16/language/zh_Hans.md" >}}) | 252 | 254 | 99.2 | /mnt/stockage/packages/f16/proxyknife/po/zh_CN.po | 
+ | [error](/f16/language/error) | 508 | 508 | 100.0 | /mnt/stockage/packages/f16/proxyknife/po/en@quot.po/mnt/stockage/packages/f16/proxyknife/po/en@boldquot.po | 
+ | [zh_Hans](/f16/language/zh_Hans) | 252 | 254 | 99.2 | /mnt/stockage/packages/f16/proxyknife/po/zh_CN.po | 
 {.sortable}
 
 

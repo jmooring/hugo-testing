@@ -18,13 +18,13 @@ The package gnome-shell-extension-windowoverlay-icons (version 33):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f28/language/cs.md" >}}) | 11 | 11 | 100.0 | /mnt/stockage/packages/f28/gnome-shell-extension-windowoverlay-icons/po/cs.po | 
- | [de]({{< ref "/f28/language/de.md" >}}) | 11 | 11 | 100.0 | /mnt/stockage/packages/f28/gnome-shell-extension-windowoverlay-icons/po/de.po | 
- | [fr]({{< ref "/f28/language/fr.md" >}}) | 11 | 11 | 100.0 | /mnt/stockage/packages/f28/gnome-shell-extension-windowoverlay-icons/po/fr.po | 
- | [it]({{< ref "/f28/language/it.md" >}}) | 11 | 11 | 100.0 | /mnt/stockage/packages/f28/gnome-shell-extension-windowoverlay-icons/po/it.po | 
- | [ja]({{< ref "/f28/language/ja.md" >}}) | 11 | 11 | 100.0 | /mnt/stockage/packages/f28/gnome-shell-extension-windowoverlay-icons/po/ja.po | 
- | [pt_BR]({{< ref "/f28/language/pt_BR.md" >}}) | 11 | 11 | 100.0 | /mnt/stockage/packages/f28/gnome-shell-extension-windowoverlay-icons/po/pt_BR.po | 
- | [en]({{< ref "/f28/language/en.md" >}}) | 0 | 11 | 0.0 | /mnt/stockage/packages/f28/gnome-shell-extension-windowoverlay-icons/po/en.po | 
+ | [cs](/f28/language/cs) | 11 | 11 | 100.0 | /mnt/stockage/packages/f28/gnome-shell-extension-windowoverlay-icons/po/cs.po | 
+ | [de](/f28/language/de) | 11 | 11 | 100.0 | /mnt/stockage/packages/f28/gnome-shell-extension-windowoverlay-icons/po/de.po | 
+ | [fr](/f28/language/fr) | 11 | 11 | 100.0 | /mnt/stockage/packages/f28/gnome-shell-extension-windowoverlay-icons/po/fr.po | 
+ | [it](/f28/language/it) | 11 | 11 | 100.0 | /mnt/stockage/packages/f28/gnome-shell-extension-windowoverlay-icons/po/it.po | 
+ | [ja](/f28/language/ja) | 11 | 11 | 100.0 | /mnt/stockage/packages/f28/gnome-shell-extension-windowoverlay-icons/po/ja.po | 
+ | [pt_BR](/f28/language/pt_BR) | 11 | 11 | 100.0 | /mnt/stockage/packages/f28/gnome-shell-extension-windowoverlay-icons/po/pt_BR.po | 
+ | [en](/f28/language/en) | 0 | 11 | 0.0 | /mnt/stockage/packages/f28/gnome-shell-extension-windowoverlay-icons/po/en.po | 
 {.sortable}
 
 

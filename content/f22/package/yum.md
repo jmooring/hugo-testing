@@ -18,39 +18,39 @@ The package yum (version 3.4.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [en_GB]({{< ref "/f22/language/en_GB.md" >}}) | 3063 | 3069 | 99.8 | /mnt/stockage/packages/f22/yum/po/en_GB.po | 
- | [es]({{< ref "/f22/language/es.md" >}}) | 3063 | 3069 | 99.8 | /mnt/stockage/packages/f22/yum/po/es.po | 
- | [fr]({{< ref "/f22/language/fr.md" >}}) | 3063 | 3069 | 99.8 | /mnt/stockage/packages/f22/yum/po/fr.po | 
- | [lt]({{< ref "/f22/language/lt.md" >}}) | 3063 | 3069 | 99.8 | /mnt/stockage/packages/f22/yum/po/lt_LT.po | 
- | [pl]({{< ref "/f22/language/pl.md" >}}) | 3063 | 3069 | 99.8 | /mnt/stockage/packages/f22/yum/po/pl.po | 
- | [ru]({{< ref "/f22/language/ru.md" >}}) | 3063 | 3069 | 99.8 | /mnt/stockage/packages/f22/yum/po/ru.po | 
- | [sv]({{< ref "/f22/language/sv.md" >}}) | 3063 | 3069 | 99.8 | /mnt/stockage/packages/f22/yum/po/sv.po | 
- | [uk]({{< ref "/f22/language/uk.md" >}}) | 3063 | 3069 | 99.8 | /mnt/stockage/packages/f22/yum/po/uk.po | 
- | [eu]({{< ref "/f22/language/eu.md" >}}) | 3057 | 3069 | 99.6 | /mnt/stockage/packages/f22/yum/po/eu.po | 
- | [hu]({{< ref "/f22/language/hu.md" >}}) | 2787 | 3069 | 90.8 | /mnt/stockage/packages/f22/yum/po/hu.po | 
- | [cs]({{< ref "/f22/language/cs.md" >}}) | 2730 | 3069 | 89.0 | /mnt/stockage/packages/f22/yum/po/cs.po | 
- | [da]({{< ref "/f22/language/da.md" >}}) | 2730 | 3069 | 89.0 | /mnt/stockage/packages/f22/yum/po/da.po | 
- | [fi]({{< ref "/f22/language/fi.md" >}}) | 2730 | 3069 | 89.0 | /mnt/stockage/packages/f22/yum/po/fi.po | 
- | [it]({{< ref "/f22/language/it.md" >}}) | 2730 | 3069 | 89.0 | /mnt/stockage/packages/f22/yum/po/it.po | 
- | [pt_BR]({{< ref "/f22/language/pt_BR.md" >}}) | 2730 | 3069 | 89.0 | /mnt/stockage/packages/f22/yum/po/pt_BR.po | 
- | [zh_Hans]({{< ref "/f22/language/zh_Hans.md" >}}) | 2730 | 3069 | 89.0 | /mnt/stockage/packages/f22/yum/po/zh_CN.po | 
- | [de]({{< ref "/f22/language/de.md" >}}) | 2570 | 3069 | 83.7 | /mnt/stockage/packages/f22/yum/po/de.po | 
- | [ja]({{< ref "/f22/language/ja.md" >}}) | 2450 | 3069 | 79.8 | /mnt/stockage/packages/f22/yum/po/ja.po | 
- | [ca]({{< ref "/f22/language/ca.md" >}}) | 2138 | 3069 | 69.7 | /mnt/stockage/packages/f22/yum/po/ca.po | 
- | [nb_NO]({{< ref "/f22/language/nb_NO.md" >}}) | 2095 | 3069 | 68.3 | /mnt/stockage/packages/f22/yum/po/nb.po | 
- | [sr]({{< ref "/f22/language/sr.md" >}}) | 2015 | 3069 | 65.7 | /mnt/stockage/packages/f22/yum/po/sr.po | 
- | [sr_Latn]({{< ref "/f22/language/sr_Latn.md" >}}) | 2015 | 3069 | 65.7 | /mnt/stockage/packages/f22/yum/po/sr@latin.po | 
- | [pa]({{< ref "/f22/language/pa.md" >}}) | 1917 | 3069 | 62.5 | /mnt/stockage/packages/f22/yum/po/pa.po | 
- | [gu]({{< ref "/f22/language/gu.md" >}}) | 812 | 3069 | 26.5 | /mnt/stockage/packages/f22/yum/po/gu.po | 
- | [id]({{< ref "/f22/language/id.md" >}}) | 760 | 6138 | 12.4 | /mnt/stockage/packages/f22/yum/po/id_ID.po/mnt/stockage/packages/f22/yum/po/id.po | 
- | [ms]({{< ref "/f22/language/ms.md" >}}) | 91 | 3069 | 3.0 | /mnt/stockage/packages/f22/yum/po/ms.po | 
- | [pt]({{< ref "/f22/language/pt.md" >}}) | 61 | 3069 | 2.0 | /mnt/stockage/packages/f22/yum/po/pt.po | 
- | [el]({{< ref "/f22/language/el.md" >}}) | 9 | 3069 | 0.3 | /mnt/stockage/packages/f22/yum/po/el.po | 
- | [bn_IN]({{< ref "/f22/language/bn_IN.md" >}}) | 0 | 3069 | 0.0 | /mnt/stockage/packages/f22/yum/po/bn_IN.po | 
- | [hi]({{< ref "/f22/language/hi.md" >}}) | 0 | 3069 | 0.0 | /mnt/stockage/packages/f22/yum/po/hi.po | 
- | [mr]({{< ref "/f22/language/mr.md" >}}) | 0 | 3069 | 0.0 | /mnt/stockage/packages/f22/yum/po/mr.po | 
- | [ur]({{< ref "/f22/language/ur.md" >}}) | 0 | 3069 | 0.0 | /mnt/stockage/packages/f22/yum/po/ur.po | 
- | [zh_Hant]({{< ref "/f22/language/zh_Hant.md" >}}) | 0 | 3069 | 0.0 | /mnt/stockage/packages/f22/yum/po/zh_TW.po | 
+ | [en_GB](/f22/language/en_GB) | 3063 | 3069 | 99.8 | /mnt/stockage/packages/f22/yum/po/en_GB.po | 
+ | [es](/f22/language/es) | 3063 | 3069 | 99.8 | /mnt/stockage/packages/f22/yum/po/es.po | 
+ | [fr](/f22/language/fr) | 3063 | 3069 | 99.8 | /mnt/stockage/packages/f22/yum/po/fr.po | 
+ | [lt](/f22/language/lt) | 3063 | 3069 | 99.8 | /mnt/stockage/packages/f22/yum/po/lt_LT.po | 
+ | [pl](/f22/language/pl) | 3063 | 3069 | 99.8 | /mnt/stockage/packages/f22/yum/po/pl.po | 
+ | [ru](/f22/language/ru) | 3063 | 3069 | 99.8 | /mnt/stockage/packages/f22/yum/po/ru.po | 
+ | [sv](/f22/language/sv) | 3063 | 3069 | 99.8 | /mnt/stockage/packages/f22/yum/po/sv.po | 
+ | [uk](/f22/language/uk) | 3063 | 3069 | 99.8 | /mnt/stockage/packages/f22/yum/po/uk.po | 
+ | [eu](/f22/language/eu) | 3057 | 3069 | 99.6 | /mnt/stockage/packages/f22/yum/po/eu.po | 
+ | [hu](/f22/language/hu) | 2787 | 3069 | 90.8 | /mnt/stockage/packages/f22/yum/po/hu.po | 
+ | [cs](/f22/language/cs) | 2730 | 3069 | 89.0 | /mnt/stockage/packages/f22/yum/po/cs.po | 
+ | [da](/f22/language/da) | 2730 | 3069 | 89.0 | /mnt/stockage/packages/f22/yum/po/da.po | 
+ | [fi](/f22/language/fi) | 2730 | 3069 | 89.0 | /mnt/stockage/packages/f22/yum/po/fi.po | 
+ | [it](/f22/language/it) | 2730 | 3069 | 89.0 | /mnt/stockage/packages/f22/yum/po/it.po | 
+ | [pt_BR](/f22/language/pt_BR) | 2730 | 3069 | 89.0 | /mnt/stockage/packages/f22/yum/po/pt_BR.po | 
+ | [zh_Hans](/f22/language/zh_Hans) | 2730 | 3069 | 89.0 | /mnt/stockage/packages/f22/yum/po/zh_CN.po | 
+ | [de](/f22/language/de) | 2570 | 3069 | 83.7 | /mnt/stockage/packages/f22/yum/po/de.po | 
+ | [ja](/f22/language/ja) | 2450 | 3069 | 79.8 | /mnt/stockage/packages/f22/yum/po/ja.po | 
+ | [ca](/f22/language/ca) | 2138 | 3069 | 69.7 | /mnt/stockage/packages/f22/yum/po/ca.po | 
+ | [nb_NO](/f22/language/nb_NO) | 2095 | 3069 | 68.3 | /mnt/stockage/packages/f22/yum/po/nb.po | 
+ | [sr](/f22/language/sr) | 2015 | 3069 | 65.7 | /mnt/stockage/packages/f22/yum/po/sr.po | 
+ | [sr_Latn](/f22/language/sr_Latn) | 2015 | 3069 | 65.7 | /mnt/stockage/packages/f22/yum/po/sr@latin.po | 
+ | [pa](/f22/language/pa) | 1917 | 3069 | 62.5 | /mnt/stockage/packages/f22/yum/po/pa.po | 
+ | [gu](/f22/language/gu) | 812 | 3069 | 26.5 | /mnt/stockage/packages/f22/yum/po/gu.po | 
+ | [id](/f22/language/id) | 760 | 6138 | 12.4 | /mnt/stockage/packages/f22/yum/po/id_ID.po/mnt/stockage/packages/f22/yum/po/id.po | 
+ | [ms](/f22/language/ms) | 91 | 3069 | 3.0 | /mnt/stockage/packages/f22/yum/po/ms.po | 
+ | [pt](/f22/language/pt) | 61 | 3069 | 2.0 | /mnt/stockage/packages/f22/yum/po/pt.po | 
+ | [el](/f22/language/el) | 9 | 3069 | 0.3 | /mnt/stockage/packages/f22/yum/po/el.po | 
+ | [bn_IN](/f22/language/bn_IN) | 0 | 3069 | 0.0 | /mnt/stockage/packages/f22/yum/po/bn_IN.po | 
+ | [hi](/f22/language/hi) | 0 | 3069 | 0.0 | /mnt/stockage/packages/f22/yum/po/hi.po | 
+ | [mr](/f22/language/mr) | 0 | 3069 | 0.0 | /mnt/stockage/packages/f22/yum/po/mr.po | 
+ | [ur](/f22/language/ur) | 0 | 3069 | 0.0 | /mnt/stockage/packages/f22/yum/po/ur.po | 
+ | [zh_Hant](/f22/language/zh_Hant) | 0 | 3069 | 0.0 | /mnt/stockage/packages/f22/yum/po/zh_TW.po | 
 {.sortable}
 
 

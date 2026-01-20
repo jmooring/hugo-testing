@@ -18,7 +18,7 @@ The package m17n-contrib (version 1.1.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [eo]({{< ref "/f8/language/eo.md" >}}) | 44 | 149 | 29.5 | /mnt/stockage/packages/f8/m17n-contrib/po/eo.po | 
+ | [eo](/f8/language/eo) | 44 | 149 | 29.5 | /mnt/stockage/packages/f8/m17n-contrib/po/eo.po | 
 {.sortable}
 
 

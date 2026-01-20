@@ -18,16 +18,16 @@ The package systemd (version 219):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f22/language/de.md" >}}) | 675 | 675 | 100.0 | /mnt/stockage/packages/f22/systemd/po/de.po | 
- | [el]({{< ref "/f22/language/el.md" >}}) | 619 | 619 | 100.0 | /mnt/stockage/packages/f22/systemd/po/el.po | 
- | [fr]({{< ref "/f22/language/fr.md" >}}) | 675 | 675 | 100.0 | /mnt/stockage/packages/f22/systemd/po/fr.po | 
- | [hu]({{< ref "/f22/language/hu.md" >}}) | 659 | 659 | 100.0 | /mnt/stockage/packages/f22/systemd/po/hu.po | 
- | [it]({{< ref "/f22/language/it.md" >}}) | 659 | 659 | 100.0 | /mnt/stockage/packages/f22/systemd/po/it.po | 
- | [pl]({{< ref "/f22/language/pl.md" >}}) | 675 | 675 | 100.0 | /mnt/stockage/packages/f22/systemd/po/pl.po | 
- | [pt_BR]({{< ref "/f22/language/pt_BR.md" >}}) | 659 | 659 | 100.0 | /mnt/stockage/packages/f22/systemd/po/pt_BR.po | 
- | [ru]({{< ref "/f22/language/ru.md" >}}) | 675 | 675 | 100.0 | /mnt/stockage/packages/f22/systemd/po/ru.po | 
- | [sv]({{< ref "/f22/language/sv.md" >}}) | 659 | 659 | 100.0 | /mnt/stockage/packages/f22/systemd/po/sv.po | 
- | [uk]({{< ref "/f22/language/uk.md" >}}) | 619 | 619 | 100.0 | /mnt/stockage/packages/f22/systemd/po/uk.po | 
+ | [de](/f22/language/de) | 675 | 675 | 100.0 | /mnt/stockage/packages/f22/systemd/po/de.po | 
+ | [el](/f22/language/el) | 619 | 619 | 100.0 | /mnt/stockage/packages/f22/systemd/po/el.po | 
+ | [fr](/f22/language/fr) | 675 | 675 | 100.0 | /mnt/stockage/packages/f22/systemd/po/fr.po | 
+ | [hu](/f22/language/hu) | 659 | 659 | 100.0 | /mnt/stockage/packages/f22/systemd/po/hu.po | 
+ | [it](/f22/language/it) | 659 | 659 | 100.0 | /mnt/stockage/packages/f22/systemd/po/it.po | 
+ | [pl](/f22/language/pl) | 675 | 675 | 100.0 | /mnt/stockage/packages/f22/systemd/po/pl.po | 
+ | [pt_BR](/f22/language/pt_BR) | 659 | 659 | 100.0 | /mnt/stockage/packages/f22/systemd/po/pt_BR.po | 
+ | [ru](/f22/language/ru) | 675 | 675 | 100.0 | /mnt/stockage/packages/f22/systemd/po/ru.po | 
+ | [sv](/f22/language/sv) | 659 | 659 | 100.0 | /mnt/stockage/packages/f22/systemd/po/sv.po | 
+ | [uk](/f22/language/uk) | 619 | 619 | 100.0 | /mnt/stockage/packages/f22/systemd/po/uk.po | 
 {.sortable}
 
 

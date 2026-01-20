@@ -18,55 +18,55 @@ The package NetworkManager-libreswan (version 1.2.10):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [bg]({{< ref "/f30/language/bg.md" >}}) | 133 | 133 | 100.0 | /mnt/stockage/packages/f30/NetworkManager-libreswan/po/bg.po | 
- | [bs]({{< ref "/f30/language/bs.md" >}}) | 97 | 97 | 100.0 | /mnt/stockage/packages/f30/NetworkManager-libreswan/po/bs.po | 
- | [ca]({{< ref "/f30/language/ca.md" >}}) | 246 | 246 | 100.0 | /mnt/stockage/packages/f30/NetworkManager-libreswan/po/ca.po | 
- | [cs]({{< ref "/f30/language/cs.md" >}}) | 458 | 458 | 100.0 | /mnt/stockage/packages/f30/NetworkManager-libreswan/po/cs.po | 
- | [da]({{< ref "/f30/language/da.md" >}}) | 246 | 246 | 100.0 | /mnt/stockage/packages/f30/NetworkManager-libreswan/po/da.po | 
- | [de]({{< ref "/f30/language/de.md" >}}) | 458 | 458 | 100.0 | /mnt/stockage/packages/f30/NetworkManager-libreswan/po/de.po | 
- | [dz]({{< ref "/f30/language/dz.md" >}}) | 328 | 328 | 100.0 | /mnt/stockage/packages/f30/NetworkManager-libreswan/po/dz.po | 
- | [el]({{< ref "/f30/language/el.md" >}}) | 103 | 103 | 100.0 | /mnt/stockage/packages/f30/NetworkManager-libreswan/po/el.po | 
- | [en_GB]({{< ref "/f30/language/en_GB.md" >}}) | 303 | 303 | 100.0 | /mnt/stockage/packages/f30/NetworkManager-libreswan/po/en_GB.po | 
- | [es]({{< ref "/f30/language/es.md" >}}) | 246 | 246 | 100.0 | /mnt/stockage/packages/f30/NetworkManager-libreswan/po/es.po | 
- | [et]({{< ref "/f30/language/et.md" >}}) | 139 | 139 | 100.0 | /mnt/stockage/packages/f30/NetworkManager-libreswan/po/et.po | 
- | [eu]({{< ref "/f30/language/eu.md" >}}) | 97 | 97 | 100.0 | /mnt/stockage/packages/f30/NetworkManager-libreswan/po/eu.po | 
- | [fr]({{< ref "/f30/language/fr.md" >}}) | 139 | 139 | 100.0 | /mnt/stockage/packages/f30/NetworkManager-libreswan/po/fr.po | 
- | [fur]({{< ref "/f30/language/fur.md" >}}) | 240 | 240 | 100.0 | /mnt/stockage/packages/f30/NetworkManager-libreswan/po/fur.po | 
- | [gl]({{< ref "/f30/language/gl.md" >}}) | 82 | 82 | 100.0 | /mnt/stockage/packages/f30/NetworkManager-libreswan/po/gl.po | 
- | [gu]({{< ref "/f30/language/gu.md" >}}) | 139 | 139 | 100.0 | /mnt/stockage/packages/f30/NetworkManager-libreswan/po/gu.po | 
- | [hu]({{< ref "/f30/language/hu.md" >}}) | 246 | 246 | 100.0 | /mnt/stockage/packages/f30/NetworkManager-libreswan/po/hu.po | 
- | [id]({{< ref "/f30/language/id.md" >}}) | 257 | 257 | 100.0 | /mnt/stockage/packages/f30/NetworkManager-libreswan/po/id.po | 
- | [it]({{< ref "/f30/language/it.md" >}}) | 257 | 257 | 100.0 | /mnt/stockage/packages/f30/NetworkManager-libreswan/po/it.po | 
- | [ja]({{< ref "/f30/language/ja.md" >}}) | 240 | 240 | 100.0 | /mnt/stockage/packages/f30/NetworkManager-libreswan/po/ja.po | 
- | [ka]({{< ref "/f30/language/ka.md" >}}) | 328 | 328 | 100.0 | /mnt/stockage/packages/f30/NetworkManager-libreswan/po/ka.po | 
- | [ko]({{< ref "/f30/language/ko.md" >}}) | 376 | 376 | 100.0 | /mnt/stockage/packages/f30/NetworkManager-libreswan/po/ko.po | 
- | [lt]({{< ref "/f30/language/lt.md" >}}) | 246 | 246 | 100.0 | /mnt/stockage/packages/f30/NetworkManager-libreswan/po/lt.po | 
- | [lv]({{< ref "/f30/language/lv.md" >}}) | 246 | 246 | 100.0 | /mnt/stockage/packages/f30/NetworkManager-libreswan/po/lv.po | 
- | [mr]({{< ref "/f30/language/mr.md" >}}) | 139 | 139 | 100.0 | /mnt/stockage/packages/f30/NetworkManager-libreswan/po/mr.po | 
- | [nb_NO]({{< ref "/f30/language/nb_NO.md" >}}) | 303 | 303 | 100.0 | /mnt/stockage/packages/f30/NetworkManager-libreswan/po/nb.po | 
- | [nl]({{< ref "/f30/language/nl.md" >}}) | 246 | 246 | 100.0 | /mnt/stockage/packages/f30/NetworkManager-libreswan/po/nl.po | 
- | [or]({{< ref "/f30/language/or.md" >}}) | 139 | 139 | 100.0 | /mnt/stockage/packages/f30/NetworkManager-libreswan/po/or.po | 
- | [pa]({{< ref "/f30/language/pa.md" >}}) | 139 | 139 | 100.0 | /mnt/stockage/packages/f30/NetworkManager-libreswan/po/pa.po | 
- | [pl]({{< ref "/f30/language/pl.md" >}}) | 458 | 458 | 100.0 | /mnt/stockage/packages/f30/NetworkManager-libreswan/po/pl.po | 
- | [pt]({{< ref "/f30/language/pt.md" >}}) | 109 | 109 | 100.0 | /mnt/stockage/packages/f30/NetworkManager-libreswan/po/pt.po | 
- | [pt_BR]({{< ref "/f30/language/pt_BR.md" >}}) | 458 | 458 | 100.0 | /mnt/stockage/packages/f30/NetworkManager-libreswan/po/pt_BR.po | 
- | [ru]({{< ref "/f30/language/ru.md" >}}) | 139 | 139 | 100.0 | /mnt/stockage/packages/f30/NetworkManager-libreswan/po/ru.po | 
- | [sl]({{< ref "/f30/language/sl.md" >}}) | 86 | 86 | 100.0 | /mnt/stockage/packages/f30/NetworkManager-libreswan/po/sl.po | 
- | [sr]({{< ref "/f30/language/sr.md" >}}) | 492 | 492 | 100.0 | /mnt/stockage/packages/f30/NetworkManager-libreswan/po/sr.po/mnt/stockage/packages/f30/NetworkManager-libreswan/po/sr@latin.po | 
- | [sv]({{< ref "/f30/language/sv.md" >}}) | 257 | 257 | 100.0 | /mnt/stockage/packages/f30/NetworkManager-libreswan/po/sv.po | 
- | [ta]({{< ref "/f30/language/ta.md" >}}) | 139 | 139 | 100.0 | /mnt/stockage/packages/f30/NetworkManager-libreswan/po/ta.po | 
- | [te]({{< ref "/f30/language/te.md" >}}) | 139 | 139 | 100.0 | /mnt/stockage/packages/f30/NetworkManager-libreswan/po/te.po | 
- | [th]({{< ref "/f30/language/th.md" >}}) | 328 | 328 | 100.0 | /mnt/stockage/packages/f30/NetworkManager-libreswan/po/th.po | 
- | [tr]({{< ref "/f30/language/tr.md" >}}) | 97 | 97 | 100.0 | /mnt/stockage/packages/f30/NetworkManager-libreswan/po/tr.po | 
- | [uk]({{< ref "/f30/language/uk.md" >}}) | 304 | 304 | 100.0 | /mnt/stockage/packages/f30/NetworkManager-libreswan/po/uk.po | 
- | [vi]({{< ref "/f30/language/vi.md" >}}) | 303 | 303 | 100.0 | /mnt/stockage/packages/f30/NetworkManager-libreswan/po/vi.po | 
- | [zh_Hans]({{< ref "/f30/language/zh_Hans.md" >}}) | 139 | 139 | 100.0 | /mnt/stockage/packages/f30/NetworkManager-libreswan/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f30/language/zh_Hant.md" >}}) | 137 | 139 | 98.6 | /mnt/stockage/packages/f30/NetworkManager-libreswan/po/zh_TW.po | 
- | [zh_Hant_HK]({{< ref "/f30/language/zh_Hant_HK.md" >}}) | 137 | 139 | 98.6 | /mnt/stockage/packages/f30/NetworkManager-libreswan/po/zh_HK.po | 
- | [mk]({{< ref "/f30/language/mk.md" >}}) | 129 | 133 | 97.0 | /mnt/stockage/packages/f30/NetworkManager-libreswan/po/mk.po | 
- | [ar]({{< ref "/f30/language/ar.md" >}}) | 89 | 133 | 66.9 | /mnt/stockage/packages/f30/NetworkManager-libreswan/po/ar.po | 
- | [oc]({{< ref "/f30/language/oc.md" >}}) | 39 | 103 | 37.9 | /mnt/stockage/packages/f30/NetworkManager-libreswan/po/oc.po | 
- | [fi]({{< ref "/f30/language/fi.md" >}}) | 90 | 240 | 37.5 | /mnt/stockage/packages/f30/NetworkManager-libreswan/po/fi.po | 
+ | [bg](/f30/language/bg) | 133 | 133 | 100.0 | /mnt/stockage/packages/f30/NetworkManager-libreswan/po/bg.po | 
+ | [bs](/f30/language/bs) | 97 | 97 | 100.0 | /mnt/stockage/packages/f30/NetworkManager-libreswan/po/bs.po | 
+ | [ca](/f30/language/ca) | 246 | 246 | 100.0 | /mnt/stockage/packages/f30/NetworkManager-libreswan/po/ca.po | 
+ | [cs](/f30/language/cs) | 458 | 458 | 100.0 | /mnt/stockage/packages/f30/NetworkManager-libreswan/po/cs.po | 
+ | [da](/f30/language/da) | 246 | 246 | 100.0 | /mnt/stockage/packages/f30/NetworkManager-libreswan/po/da.po | 
+ | [de](/f30/language/de) | 458 | 458 | 100.0 | /mnt/stockage/packages/f30/NetworkManager-libreswan/po/de.po | 
+ | [dz](/f30/language/dz) | 328 | 328 | 100.0 | /mnt/stockage/packages/f30/NetworkManager-libreswan/po/dz.po | 
+ | [el](/f30/language/el) | 103 | 103 | 100.0 | /mnt/stockage/packages/f30/NetworkManager-libreswan/po/el.po | 
+ | [en_GB](/f30/language/en_GB) | 303 | 303 | 100.0 | /mnt/stockage/packages/f30/NetworkManager-libreswan/po/en_GB.po | 
+ | [es](/f30/language/es) | 246 | 246 | 100.0 | /mnt/stockage/packages/f30/NetworkManager-libreswan/po/es.po | 
+ | [et](/f30/language/et) | 139 | 139 | 100.0 | /mnt/stockage/packages/f30/NetworkManager-libreswan/po/et.po | 
+ | [eu](/f30/language/eu) | 97 | 97 | 100.0 | /mnt/stockage/packages/f30/NetworkManager-libreswan/po/eu.po | 
+ | [fr](/f30/language/fr) | 139 | 139 | 100.0 | /mnt/stockage/packages/f30/NetworkManager-libreswan/po/fr.po | 
+ | [fur](/f30/language/fur) | 240 | 240 | 100.0 | /mnt/stockage/packages/f30/NetworkManager-libreswan/po/fur.po | 
+ | [gl](/f30/language/gl) | 82 | 82 | 100.0 | /mnt/stockage/packages/f30/NetworkManager-libreswan/po/gl.po | 
+ | [gu](/f30/language/gu) | 139 | 139 | 100.0 | /mnt/stockage/packages/f30/NetworkManager-libreswan/po/gu.po | 
+ | [hu](/f30/language/hu) | 246 | 246 | 100.0 | /mnt/stockage/packages/f30/NetworkManager-libreswan/po/hu.po | 
+ | [id](/f30/language/id) | 257 | 257 | 100.0 | /mnt/stockage/packages/f30/NetworkManager-libreswan/po/id.po | 
+ | [it](/f30/language/it) | 257 | 257 | 100.0 | /mnt/stockage/packages/f30/NetworkManager-libreswan/po/it.po | 
+ | [ja](/f30/language/ja) | 240 | 240 | 100.0 | /mnt/stockage/packages/f30/NetworkManager-libreswan/po/ja.po | 
+ | [ka](/f30/language/ka) | 328 | 328 | 100.0 | /mnt/stockage/packages/f30/NetworkManager-libreswan/po/ka.po | 
+ | [ko](/f30/language/ko) | 376 | 376 | 100.0 | /mnt/stockage/packages/f30/NetworkManager-libreswan/po/ko.po | 
+ | [lt](/f30/language/lt) | 246 | 246 | 100.0 | /mnt/stockage/packages/f30/NetworkManager-libreswan/po/lt.po | 
+ | [lv](/f30/language/lv) | 246 | 246 | 100.0 | /mnt/stockage/packages/f30/NetworkManager-libreswan/po/lv.po | 
+ | [mr](/f30/language/mr) | 139 | 139 | 100.0 | /mnt/stockage/packages/f30/NetworkManager-libreswan/po/mr.po | 
+ | [nb_NO](/f30/language/nb_NO) | 303 | 303 | 100.0 | /mnt/stockage/packages/f30/NetworkManager-libreswan/po/nb.po | 
+ | [nl](/f30/language/nl) | 246 | 246 | 100.0 | /mnt/stockage/packages/f30/NetworkManager-libreswan/po/nl.po | 
+ | [or](/f30/language/or) | 139 | 139 | 100.0 | /mnt/stockage/packages/f30/NetworkManager-libreswan/po/or.po | 
+ | [pa](/f30/language/pa) | 139 | 139 | 100.0 | /mnt/stockage/packages/f30/NetworkManager-libreswan/po/pa.po | 
+ | [pl](/f30/language/pl) | 458 | 458 | 100.0 | /mnt/stockage/packages/f30/NetworkManager-libreswan/po/pl.po | 
+ | [pt](/f30/language/pt) | 109 | 109 | 100.0 | /mnt/stockage/packages/f30/NetworkManager-libreswan/po/pt.po | 
+ | [pt_BR](/f30/language/pt_BR) | 458 | 458 | 100.0 | /mnt/stockage/packages/f30/NetworkManager-libreswan/po/pt_BR.po | 
+ | [ru](/f30/language/ru) | 139 | 139 | 100.0 | /mnt/stockage/packages/f30/NetworkManager-libreswan/po/ru.po | 
+ | [sl](/f30/language/sl) | 86 | 86 | 100.0 | /mnt/stockage/packages/f30/NetworkManager-libreswan/po/sl.po | 
+ | [sr](/f30/language/sr) | 492 | 492 | 100.0 | /mnt/stockage/packages/f30/NetworkManager-libreswan/po/sr.po/mnt/stockage/packages/f30/NetworkManager-libreswan/po/sr@latin.po | 
+ | [sv](/f30/language/sv) | 257 | 257 | 100.0 | /mnt/stockage/packages/f30/NetworkManager-libreswan/po/sv.po | 
+ | [ta](/f30/language/ta) | 139 | 139 | 100.0 | /mnt/stockage/packages/f30/NetworkManager-libreswan/po/ta.po | 
+ | [te](/f30/language/te) | 139 | 139 | 100.0 | /mnt/stockage/packages/f30/NetworkManager-libreswan/po/te.po | 
+ | [th](/f30/language/th) | 328 | 328 | 100.0 | /mnt/stockage/packages/f30/NetworkManager-libreswan/po/th.po | 
+ | [tr](/f30/language/tr) | 97 | 97 | 100.0 | /mnt/stockage/packages/f30/NetworkManager-libreswan/po/tr.po | 
+ | [uk](/f30/language/uk) | 304 | 304 | 100.0 | /mnt/stockage/packages/f30/NetworkManager-libreswan/po/uk.po | 
+ | [vi](/f30/language/vi) | 303 | 303 | 100.0 | /mnt/stockage/packages/f30/NetworkManager-libreswan/po/vi.po | 
+ | [zh_Hans](/f30/language/zh_Hans) | 139 | 139 | 100.0 | /mnt/stockage/packages/f30/NetworkManager-libreswan/po/zh_CN.po | 
+ | [zh_Hant](/f30/language/zh_Hant) | 137 | 139 | 98.6 | /mnt/stockage/packages/f30/NetworkManager-libreswan/po/zh_TW.po | 
+ | [zh_Hant_HK](/f30/language/zh_Hant_HK) | 137 | 139 | 98.6 | /mnt/stockage/packages/f30/NetworkManager-libreswan/po/zh_HK.po | 
+ | [mk](/f30/language/mk) | 129 | 133 | 97.0 | /mnt/stockage/packages/f30/NetworkManager-libreswan/po/mk.po | 
+ | [ar](/f30/language/ar) | 89 | 133 | 66.9 | /mnt/stockage/packages/f30/NetworkManager-libreswan/po/ar.po | 
+ | [oc](/f30/language/oc) | 39 | 103 | 37.9 | /mnt/stockage/packages/f30/NetworkManager-libreswan/po/oc.po | 
+ | [fi](/f30/language/fi) | 90 | 240 | 37.5 | /mnt/stockage/packages/f30/NetworkManager-libreswan/po/fi.po | 
 {.sortable}
 
 

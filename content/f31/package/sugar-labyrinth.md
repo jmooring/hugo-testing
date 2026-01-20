@@ -18,107 +18,107 @@ The package sugar-labyrinth (version 16):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ayc]({{< ref "/f31/language/ayc.md" >}}) | 281 | 281 | 100.0 | /mnt/stockage/packages/f31/sugar-labyrinth/po/ayc.po | 
- | [da]({{< ref "/f31/language/da.md" >}}) | 281 | 281 | 100.0 | /mnt/stockage/packages/f31/sugar-labyrinth/po/da.po | 
- | [en]({{< ref "/f31/language/en.md" >}}) | 298 | 298 | 100.0 | /mnt/stockage/packages/f31/sugar-labyrinth/po/en.po | 
- | [en_GB]({{< ref "/f31/language/en_GB.md" >}}) | 298 | 298 | 100.0 | /mnt/stockage/packages/f31/sugar-labyrinth/po/en_GB.po | 
- | [en_US]({{< ref "/f31/language/en_US.md" >}}) | 298 | 298 | 100.0 | /mnt/stockage/packages/f31/sugar-labyrinth/po/en_US.po | 
- | [es]({{< ref "/f31/language/es.md" >}}) | 298 | 298 | 100.0 | /mnt/stockage/packages/f31/sugar-labyrinth/po/es.po | 
- | [nl]({{< ref "/f31/language/nl.md" >}}) | 281 | 281 | 100.0 | /mnt/stockage/packages/f31/sugar-labyrinth/po/nl.po | 
- | [pl]({{< ref "/f31/language/pl.md" >}}) | 281 | 281 | 100.0 | /mnt/stockage/packages/f31/sugar-labyrinth/po/pl.po | 
- | [zh_Hans]({{< ref "/f31/language/zh_Hans.md" >}}) | 281 | 281 | 100.0 | /mnt/stockage/packages/f31/sugar-labyrinth/po/zh_CN.po | 
- | [hy]({{< ref "/f31/language/hy.md" >}}) | 279 | 298 | 93.6 | /mnt/stockage/packages/f31/sugar-labyrinth/po/hy.po | 
- | [cs]({{< ref "/f31/language/cs.md" >}}) | 254 | 281 | 90.4 | /mnt/stockage/packages/f31/sugar-labyrinth/po/cs.po | 
- | [de]({{< ref "/f31/language/de.md" >}}) | 254 | 281 | 90.4 | /mnt/stockage/packages/f31/sugar-labyrinth/po/de.po | 
- | [el]({{< ref "/f31/language/el.md" >}}) | 254 | 281 | 90.4 | /mnt/stockage/packages/f31/sugar-labyrinth/po/el.po | 
- | [fr]({{< ref "/f31/language/fr.md" >}}) | 254 | 281 | 90.4 | /mnt/stockage/packages/f31/sugar-labyrinth/po/fr.po | 
- | [hus]({{< ref "/f31/language/hus.md" >}}) | 254 | 281 | 90.4 | /mnt/stockage/packages/f31/sugar-labyrinth/po/hus.po | 
- | [mi]({{< ref "/f31/language/mi.md" >}}) | 254 | 281 | 90.4 | /mnt/stockage/packages/f31/sugar-labyrinth/po/mi.po | 
- | [ne]({{< ref "/f31/language/ne.md" >}}) | 254 | 281 | 90.4 | /mnt/stockage/packages/f31/sugar-labyrinth/po/ne.po | 
- | [qu]({{< ref "/f31/language/qu.md" >}}) | 254 | 281 | 90.4 | /mnt/stockage/packages/f31/sugar-labyrinth/po/quz.po | 
- | [ta]({{< ref "/f31/language/ta.md" >}}) | 254 | 281 | 90.4 | /mnt/stockage/packages/f31/sugar-labyrinth/po/ta.po | 
- | [th]({{< ref "/f31/language/th.md" >}}) | 254 | 281 | 90.4 | /mnt/stockage/packages/f31/sugar-labyrinth/po/th.po | 
- | [zh_Hant]({{< ref "/f31/language/zh_Hant.md" >}}) | 254 | 281 | 90.4 | /mnt/stockage/packages/f31/sugar-labyrinth/po/zh_TW.po | 
- | [si]({{< ref "/f31/language/si.md" >}}) | 251 | 281 | 89.3 | /mnt/stockage/packages/f31/sugar-labyrinth/po/si.po | 
- | [pt]({{< ref "/f31/language/pt.md" >}}) | 250 | 281 | 89.0 | /mnt/stockage/packages/f31/sugar-labyrinth/po/pt.po | 
- | [hi]({{< ref "/f31/language/hi.md" >}}) | 248 | 281 | 88.3 | /mnt/stockage/packages/f31/sugar-labyrinth/po/hi.po | 
- | [it]({{< ref "/f31/language/it.md" >}}) | 248 | 281 | 88.3 | /mnt/stockage/packages/f31/sugar-labyrinth/po/it.po | 
- | [pap]({{< ref "/f31/language/pap.md" >}}) | 248 | 281 | 88.3 | /mnt/stockage/packages/f31/sugar-labyrinth/po/pap.po | 
- | [sv]({{< ref "/f31/language/sv.md" >}}) | 246 | 281 | 87.5 | /mnt/stockage/packages/f31/sugar-labyrinth/po/sv.po | 
- | [pt_BR]({{< ref "/f31/language/pt_BR.md" >}}) | 245 | 281 | 87.2 | /mnt/stockage/packages/f31/sugar-labyrinth/po/pt_BR.po | 
- | [vi]({{< ref "/f31/language/vi.md" >}}) | 245 | 281 | 87.2 | /mnt/stockage/packages/f31/sugar-labyrinth/po/vi.po | 
- | [sq]({{< ref "/f31/language/sq.md" >}}) | 241 | 281 | 85.8 | /mnt/stockage/packages/f31/sugar-labyrinth/po/sq.po | 
- | [ja]({{< ref "/f31/language/ja.md" >}}) | 236 | 281 | 84.0 | /mnt/stockage/packages/f31/sugar-labyrinth/po/ja.po | 
- | [ht]({{< ref "/f31/language/ht.md" >}}) | 231 | 281 | 82.2 | /mnt/stockage/packages/f31/sugar-labyrinth/po/ht.po | 
- | [ps]({{< ref "/f31/language/ps.md" >}}) | 216 | 281 | 76.9 | /mnt/stockage/packages/f31/sugar-labyrinth/po/ps.po | 
- | [prs]({{< ref "/f31/language/prs.md" >}}) | 208 | 281 | 74.0 | /mnt/stockage/packages/f31/sugar-labyrinth/po/fa_AF.po | 
- | [ca]({{< ref "/f31/language/ca.md" >}}) | 85 | 281 | 30.2 | /mnt/stockage/packages/f31/sugar-labyrinth/po/ca.po | 
- | [km]({{< ref "/f31/language/km.md" >}}) | 82 | 281 | 29.2 | /mnt/stockage/packages/f31/sugar-labyrinth/po/km.po | 
- | [bn]({{< ref "/f31/language/bn.md" >}}) | 49 | 281 | 17.4 | /mnt/stockage/packages/f31/sugar-labyrinth/po/bn.po | 
- | [son]({{< ref "/f31/language/son.md" >}}) | 44 | 281 | 15.7 | /mnt/stockage/packages/f31/sugar-labyrinth/po/son.po | 
- | [sm]({{< ref "/f31/language/sm.md" >}}) | 27 | 281 | 9.6 | /mnt/stockage/packages/f31/sugar-labyrinth/po/sm.po | 
- | [ay]({{< ref "/f31/language/ay.md" >}}) | 26 | 281 | 9.3 | /mnt/stockage/packages/f31/sugar-labyrinth/po/aym.po | 
- | [am]({{< ref "/f31/language/am.md" >}}) | 20 | 281 | 7.1 | /mnt/stockage/packages/f31/sugar-labyrinth/po/am.po | 
- | [mg]({{< ref "/f31/language/mg.md" >}}) | 19 | 281 | 6.8 | /mnt/stockage/packages/f31/sugar-labyrinth/po/mg.po | 
- | [sk]({{< ref "/f31/language/sk.md" >}}) | 14 | 281 | 5.0 | /mnt/stockage/packages/f31/sugar-labyrinth/po/sk.po | 
- | [af]({{< ref "/f31/language/af.md" >}}) | 10 | 281 | 3.6 | /mnt/stockage/packages/f31/sugar-labyrinth/po/af.po | 
- | [hu]({{< ref "/f31/language/hu.md" >}}) | 10 | 281 | 3.6 | /mnt/stockage/packages/f31/sugar-labyrinth/po/hu.po | 
- | [tzm]({{< ref "/f31/language/tzm.md" >}}) | 10 | 281 | 3.6 | /mnt/stockage/packages/f31/sugar-labyrinth/po/tzm.po | 
- | [fa]({{< ref "/f31/language/fa.md" >}}) | 9 | 281 | 3.2 | /mnt/stockage/packages/f31/sugar-labyrinth/po/fa.po | 
- | [rw]({{< ref "/f31/language/rw.md" >}}) | 9 | 281 | 3.2 | /mnt/stockage/packages/f31/sugar-labyrinth/po/rw.po | 
- | [is]({{< ref "/f31/language/is.md" >}}) | 4 | 281 | 1.4 | /mnt/stockage/packages/f31/sugar-labyrinth/po/is.po | 
- | [kos]({{< ref "/f31/language/kos.md" >}}) | 3 | 281 | 1.1 | /mnt/stockage/packages/f31/sugar-labyrinth/po/kos.po | 
- | [lt]({{< ref "/f31/language/lt.md" >}}) | 3 | 281 | 1.1 | /mnt/stockage/packages/f31/sugar-labyrinth/po/lt.po | 
- | [nb_NO]({{< ref "/f31/language/nb_NO.md" >}}) | 2 | 281 | 0.7 | /mnt/stockage/packages/f31/sugar-labyrinth/po/nb.po | 
- | [sw]({{< ref "/f31/language/sw.md" >}}) | 2 | 281 | 0.7 | /mnt/stockage/packages/f31/sugar-labyrinth/po/sw.po | 
- | [id]({{< ref "/f31/language/id.md" >}}) | 1 | 281 | 0.4 | /mnt/stockage/packages/f31/sugar-labyrinth/po/id.po | 
- | [ak]({{< ref "/f31/language/ak.md" >}}) | 0 | 281 | 0.0 | /mnt/stockage/packages/f31/sugar-labyrinth/po/ak.po | 
- | [ar]({{< ref "/f31/language/ar.md" >}}) | 0 | 281 | 0.0 | /mnt/stockage/packages/f31/sugar-labyrinth/po/ar.po | 
- | [bg]({{< ref "/f31/language/bg.md" >}}) | 0 | 281 | 0.0 | /mnt/stockage/packages/f31/sugar-labyrinth/po/bg.po | 
- | [bi]({{< ref "/f31/language/bi.md" >}}) | 0 | 254 | 0.0 | /mnt/stockage/packages/f31/sugar-labyrinth/po/bi.po | 
- | [bn_IN]({{< ref "/f31/language/bn_IN.md" >}}) | 0 | 281 | 0.0 | /mnt/stockage/packages/f31/sugar-labyrinth/po/bn_IN.po | 
- | [bs]({{< ref "/f31/language/bs.md" >}}) | 0 | 281 | 0.0 | /mnt/stockage/packages/f31/sugar-labyrinth/po/bs.po | 
- | [cpp]({{< ref "/f31/language/cpp.md" >}}) | 0 | 281 | 0.0 | /mnt/stockage/packages/f31/sugar-labyrinth/po/cpp.po | 
- | [dz]({{< ref "/f31/language/dz.md" >}}) | 0 | 281 | 0.0 | /mnt/stockage/packages/f31/sugar-labyrinth/po/dz.po | 
- | [error]({{< ref "/f31/language/error.md" >}}) | 0 | 1124 | 0.0 | /mnt/stockage/packages/f31/sugar-labyrinth/po/tzo.po/mnt/stockage/packages/f31/sugar-labyrinth/po/quy.po/mnt/stockage/packages/f31/sugar-labyrinth/po/pbs.po/mnt/stockage/packages/f31/sugar-labyrinth/po/mvo.po | 
- | [ff]({{< ref "/f31/language/ff.md" >}}) | 0 | 281 | 0.0 | /mnt/stockage/packages/f31/sugar-labyrinth/po/ff.po | 
- | [fi]({{< ref "/f31/language/fi.md" >}}) | 0 | 281 | 0.0 | /mnt/stockage/packages/f31/sugar-labyrinth/po/fi.po | 
- | [fil]({{< ref "/f31/language/fil.md" >}}) | 0 | 281 | 0.0 | /mnt/stockage/packages/f31/sugar-labyrinth/po/fil.po | 
- | [gn]({{< ref "/f31/language/gn.md" >}}) | 0 | 281 | 0.0 | /mnt/stockage/packages/f31/sugar-labyrinth/po/gn.po | 
- | [gu]({{< ref "/f31/language/gu.md" >}}) | 0 | 281 | 0.0 | /mnt/stockage/packages/f31/sugar-labyrinth/po/gu.po | 
- | [ha]({{< ref "/f31/language/ha.md" >}}) | 0 | 281 | 0.0 | /mnt/stockage/packages/f31/sugar-labyrinth/po/ha.po | 
- | [he]({{< ref "/f31/language/he.md" >}}) | 0 | 281 | 0.0 | /mnt/stockage/packages/f31/sugar-labyrinth/po/he.po | 
- | [ig]({{< ref "/f31/language/ig.md" >}}) | 0 | 281 | 0.0 | /mnt/stockage/packages/f31/sugar-labyrinth/po/ig.po | 
- | [kn]({{< ref "/f31/language/kn.md" >}}) | 0 | 281 | 0.0 | /mnt/stockage/packages/f31/sugar-labyrinth/po/kn.po | 
- | [ko]({{< ref "/f31/language/ko.md" >}}) | 0 | 281 | 0.0 | /mnt/stockage/packages/f31/sugar-labyrinth/po/ko.po | 
- | [ku]({{< ref "/f31/language/ku.md" >}}) | 0 | 281 | 0.0 | /mnt/stockage/packages/f31/sugar-labyrinth/po/ku.po | 
- | [lv]({{< ref "/f31/language/lv.md" >}}) | 0 | 281 | 0.0 | /mnt/stockage/packages/f31/sugar-labyrinth/po/lv.po | 
- | [mk]({{< ref "/f31/language/mk.md" >}}) | 0 | 281 | 0.0 | /mnt/stockage/packages/f31/sugar-labyrinth/po/mk.po | 
- | [ml]({{< ref "/f31/language/ml.md" >}}) | 0 | 281 | 0.0 | /mnt/stockage/packages/f31/sugar-labyrinth/po/ml.po | 
- | [mn]({{< ref "/f31/language/mn.md" >}}) | 0 | 281 | 0.0 | /mnt/stockage/packages/f31/sugar-labyrinth/po/mn.po | 
- | [mr]({{< ref "/f31/language/mr.md" >}}) | 0 | 281 | 0.0 | /mnt/stockage/packages/f31/sugar-labyrinth/po/mr.po | 
- | [ms]({{< ref "/f31/language/ms.md" >}}) | 0 | 281 | 0.0 | /mnt/stockage/packages/f31/sugar-labyrinth/po/ms.po | 
- | [na]({{< ref "/f31/language/na.md" >}}) | 0 | 281 | 0.0 | /mnt/stockage/packages/f31/sugar-labyrinth/po/na.po | 
- | [nah]({{< ref "/f31/language/nah.md" >}}) | 0 | 281 | 0.0 | /mnt/stockage/packages/f31/sugar-labyrinth/po/nah.po | 
- | [nn]({{< ref "/f31/language/nn.md" >}}) | 0 | 281 | 0.0 | /mnt/stockage/packages/f31/sugar-labyrinth/po/nn.po | 
- | [pa]({{< ref "/f31/language/pa.md" >}}) | 0 | 281 | 0.0 | /mnt/stockage/packages/f31/sugar-labyrinth/po/pa.po | 
- | [ro]({{< ref "/f31/language/ro.md" >}}) | 0 | 281 | 0.0 | /mnt/stockage/packages/f31/sugar-labyrinth/po/ro.po | 
- | [ru]({{< ref "/f31/language/ru.md" >}}) | 0 | 281 | 0.0 | /mnt/stockage/packages/f31/sugar-labyrinth/po/ru.po | 
- | [sd]({{< ref "/f31/language/sd.md" >}}) | 0 | 281 | 0.0 | /mnt/stockage/packages/f31/sugar-labyrinth/po/sd.po | 
- | [sl]({{< ref "/f31/language/sl.md" >}}) | 0 | 281 | 0.0 | /mnt/stockage/packages/f31/sugar-labyrinth/po/sl.po | 
- | [sr]({{< ref "/f31/language/sr.md" >}}) | 0 | 281 | 0.0 | /mnt/stockage/packages/f31/sugar-labyrinth/po/sr.po | 
- | [st]({{< ref "/f31/language/st.md" >}}) | 0 | 281 | 0.0 | /mnt/stockage/packages/f31/sugar-labyrinth/po/st.po | 
- | [te]({{< ref "/f31/language/te.md" >}}) | 0 | 281 | 0.0 | /mnt/stockage/packages/f31/sugar-labyrinth/po/te.po | 
- | [to]({{< ref "/f31/language/to.md" >}}) | 0 | 281 | 0.0 | /mnt/stockage/packages/f31/sugar-labyrinth/po/to.po | 
- | [tr]({{< ref "/f31/language/tr.md" >}}) | 0 | 281 | 0.0 | /mnt/stockage/packages/f31/sugar-labyrinth/po/tr.po | 
- | [tvl]({{< ref "/f31/language/tvl.md" >}}) | 0 | 281 | 0.0 | /mnt/stockage/packages/f31/sugar-labyrinth/po/tvl.po | 
- | [tyv]({{< ref "/f31/language/tyv.md" >}}) | 0 | 281 | 0.0 | /mnt/stockage/packages/f31/sugar-labyrinth/po/tyv.po | 
- | [ug]({{< ref "/f31/language/ug.md" >}}) | 0 | 281 | 0.0 | /mnt/stockage/packages/f31/sugar-labyrinth/po/ug.po | 
- | [uk]({{< ref "/f31/language/uk.md" >}}) | 0 | 281 | 0.0 | /mnt/stockage/packages/f31/sugar-labyrinth/po/uk.po | 
- | [ur]({{< ref "/f31/language/ur.md" >}}) | 0 | 281 | 0.0 | /mnt/stockage/packages/f31/sugar-labyrinth/po/ur.po | 
- | [wa]({{< ref "/f31/language/wa.md" >}}) | 0 | 281 | 0.0 | /mnt/stockage/packages/f31/sugar-labyrinth/po/wa.po | 
- | [yo]({{< ref "/f31/language/yo.md" >}}) | 0 | 281 | 0.0 | /mnt/stockage/packages/f31/sugar-labyrinth/po/yo.po | 
- | [zh_Hant_HK]({{< ref "/f31/language/zh_Hant_HK.md" >}}) | 0 | 281 | 0.0 | /mnt/stockage/packages/f31/sugar-labyrinth/po/zh_HK.po | 
+ | [ayc](/f31/language/ayc) | 281 | 281 | 100.0 | /mnt/stockage/packages/f31/sugar-labyrinth/po/ayc.po | 
+ | [da](/f31/language/da) | 281 | 281 | 100.0 | /mnt/stockage/packages/f31/sugar-labyrinth/po/da.po | 
+ | [en](/f31/language/en) | 298 | 298 | 100.0 | /mnt/stockage/packages/f31/sugar-labyrinth/po/en.po | 
+ | [en_GB](/f31/language/en_GB) | 298 | 298 | 100.0 | /mnt/stockage/packages/f31/sugar-labyrinth/po/en_GB.po | 
+ | [en_US](/f31/language/en_US) | 298 | 298 | 100.0 | /mnt/stockage/packages/f31/sugar-labyrinth/po/en_US.po | 
+ | [es](/f31/language/es) | 298 | 298 | 100.0 | /mnt/stockage/packages/f31/sugar-labyrinth/po/es.po | 
+ | [nl](/f31/language/nl) | 281 | 281 | 100.0 | /mnt/stockage/packages/f31/sugar-labyrinth/po/nl.po | 
+ | [pl](/f31/language/pl) | 281 | 281 | 100.0 | /mnt/stockage/packages/f31/sugar-labyrinth/po/pl.po | 
+ | [zh_Hans](/f31/language/zh_Hans) | 281 | 281 | 100.0 | /mnt/stockage/packages/f31/sugar-labyrinth/po/zh_CN.po | 
+ | [hy](/f31/language/hy) | 279 | 298 | 93.6 | /mnt/stockage/packages/f31/sugar-labyrinth/po/hy.po | 
+ | [cs](/f31/language/cs) | 254 | 281 | 90.4 | /mnt/stockage/packages/f31/sugar-labyrinth/po/cs.po | 
+ | [de](/f31/language/de) | 254 | 281 | 90.4 | /mnt/stockage/packages/f31/sugar-labyrinth/po/de.po | 
+ | [el](/f31/language/el) | 254 | 281 | 90.4 | /mnt/stockage/packages/f31/sugar-labyrinth/po/el.po | 
+ | [fr](/f31/language/fr) | 254 | 281 | 90.4 | /mnt/stockage/packages/f31/sugar-labyrinth/po/fr.po | 
+ | [hus](/f31/language/hus) | 254 | 281 | 90.4 | /mnt/stockage/packages/f31/sugar-labyrinth/po/hus.po | 
+ | [mi](/f31/language/mi) | 254 | 281 | 90.4 | /mnt/stockage/packages/f31/sugar-labyrinth/po/mi.po | 
+ | [ne](/f31/language/ne) | 254 | 281 | 90.4 | /mnt/stockage/packages/f31/sugar-labyrinth/po/ne.po | 
+ | [qu](/f31/language/qu) | 254 | 281 | 90.4 | /mnt/stockage/packages/f31/sugar-labyrinth/po/quz.po | 
+ | [ta](/f31/language/ta) | 254 | 281 | 90.4 | /mnt/stockage/packages/f31/sugar-labyrinth/po/ta.po | 
+ | [th](/f31/language/th) | 254 | 281 | 90.4 | /mnt/stockage/packages/f31/sugar-labyrinth/po/th.po | 
+ | [zh_Hant](/f31/language/zh_Hant) | 254 | 281 | 90.4 | /mnt/stockage/packages/f31/sugar-labyrinth/po/zh_TW.po | 
+ | [si](/f31/language/si) | 251 | 281 | 89.3 | /mnt/stockage/packages/f31/sugar-labyrinth/po/si.po | 
+ | [pt](/f31/language/pt) | 250 | 281 | 89.0 | /mnt/stockage/packages/f31/sugar-labyrinth/po/pt.po | 
+ | [hi](/f31/language/hi) | 248 | 281 | 88.3 | /mnt/stockage/packages/f31/sugar-labyrinth/po/hi.po | 
+ | [it](/f31/language/it) | 248 | 281 | 88.3 | /mnt/stockage/packages/f31/sugar-labyrinth/po/it.po | 
+ | [pap](/f31/language/pap) | 248 | 281 | 88.3 | /mnt/stockage/packages/f31/sugar-labyrinth/po/pap.po | 
+ | [sv](/f31/language/sv) | 246 | 281 | 87.5 | /mnt/stockage/packages/f31/sugar-labyrinth/po/sv.po | 
+ | [pt_BR](/f31/language/pt_BR) | 245 | 281 | 87.2 | /mnt/stockage/packages/f31/sugar-labyrinth/po/pt_BR.po | 
+ | [vi](/f31/language/vi) | 245 | 281 | 87.2 | /mnt/stockage/packages/f31/sugar-labyrinth/po/vi.po | 
+ | [sq](/f31/language/sq) | 241 | 281 | 85.8 | /mnt/stockage/packages/f31/sugar-labyrinth/po/sq.po | 
+ | [ja](/f31/language/ja) | 236 | 281 | 84.0 | /mnt/stockage/packages/f31/sugar-labyrinth/po/ja.po | 
+ | [ht](/f31/language/ht) | 231 | 281 | 82.2 | /mnt/stockage/packages/f31/sugar-labyrinth/po/ht.po | 
+ | [ps](/f31/language/ps) | 216 | 281 | 76.9 | /mnt/stockage/packages/f31/sugar-labyrinth/po/ps.po | 
+ | [prs](/f31/language/prs) | 208 | 281 | 74.0 | /mnt/stockage/packages/f31/sugar-labyrinth/po/fa_AF.po | 
+ | [ca](/f31/language/ca) | 85 | 281 | 30.2 | /mnt/stockage/packages/f31/sugar-labyrinth/po/ca.po | 
+ | [km](/f31/language/km) | 82 | 281 | 29.2 | /mnt/stockage/packages/f31/sugar-labyrinth/po/km.po | 
+ | [bn](/f31/language/bn) | 49 | 281 | 17.4 | /mnt/stockage/packages/f31/sugar-labyrinth/po/bn.po | 
+ | [son](/f31/language/son) | 44 | 281 | 15.7 | /mnt/stockage/packages/f31/sugar-labyrinth/po/son.po | 
+ | [sm](/f31/language/sm) | 27 | 281 | 9.6 | /mnt/stockage/packages/f31/sugar-labyrinth/po/sm.po | 
+ | [ay](/f31/language/ay) | 26 | 281 | 9.3 | /mnt/stockage/packages/f31/sugar-labyrinth/po/aym.po | 
+ | [am](/f31/language/am) | 20 | 281 | 7.1 | /mnt/stockage/packages/f31/sugar-labyrinth/po/am.po | 
+ | [mg](/f31/language/mg) | 19 | 281 | 6.8 | /mnt/stockage/packages/f31/sugar-labyrinth/po/mg.po | 
+ | [sk](/f31/language/sk) | 14 | 281 | 5.0 | /mnt/stockage/packages/f31/sugar-labyrinth/po/sk.po | 
+ | [af](/f31/language/af) | 10 | 281 | 3.6 | /mnt/stockage/packages/f31/sugar-labyrinth/po/af.po | 
+ | [hu](/f31/language/hu) | 10 | 281 | 3.6 | /mnt/stockage/packages/f31/sugar-labyrinth/po/hu.po | 
+ | [tzm](/f31/language/tzm) | 10 | 281 | 3.6 | /mnt/stockage/packages/f31/sugar-labyrinth/po/tzm.po | 
+ | [fa](/f31/language/fa) | 9 | 281 | 3.2 | /mnt/stockage/packages/f31/sugar-labyrinth/po/fa.po | 
+ | [rw](/f31/language/rw) | 9 | 281 | 3.2 | /mnt/stockage/packages/f31/sugar-labyrinth/po/rw.po | 
+ | [is](/f31/language/is) | 4 | 281 | 1.4 | /mnt/stockage/packages/f31/sugar-labyrinth/po/is.po | 
+ | [kos](/f31/language/kos) | 3 | 281 | 1.1 | /mnt/stockage/packages/f31/sugar-labyrinth/po/kos.po | 
+ | [lt](/f31/language/lt) | 3 | 281 | 1.1 | /mnt/stockage/packages/f31/sugar-labyrinth/po/lt.po | 
+ | [nb_NO](/f31/language/nb_NO) | 2 | 281 | 0.7 | /mnt/stockage/packages/f31/sugar-labyrinth/po/nb.po | 
+ | [sw](/f31/language/sw) | 2 | 281 | 0.7 | /mnt/stockage/packages/f31/sugar-labyrinth/po/sw.po | 
+ | [id](/f31/language/id) | 1 | 281 | 0.4 | /mnt/stockage/packages/f31/sugar-labyrinth/po/id.po | 
+ | [ak](/f31/language/ak) | 0 | 281 | 0.0 | /mnt/stockage/packages/f31/sugar-labyrinth/po/ak.po | 
+ | [ar](/f31/language/ar) | 0 | 281 | 0.0 | /mnt/stockage/packages/f31/sugar-labyrinth/po/ar.po | 
+ | [bg](/f31/language/bg) | 0 | 281 | 0.0 | /mnt/stockage/packages/f31/sugar-labyrinth/po/bg.po | 
+ | [bi](/f31/language/bi) | 0 | 254 | 0.0 | /mnt/stockage/packages/f31/sugar-labyrinth/po/bi.po | 
+ | [bn_IN](/f31/language/bn_IN) | 0 | 281 | 0.0 | /mnt/stockage/packages/f31/sugar-labyrinth/po/bn_IN.po | 
+ | [bs](/f31/language/bs) | 0 | 281 | 0.0 | /mnt/stockage/packages/f31/sugar-labyrinth/po/bs.po | 
+ | [cpp](/f31/language/cpp) | 0 | 281 | 0.0 | /mnt/stockage/packages/f31/sugar-labyrinth/po/cpp.po | 
+ | [dz](/f31/language/dz) | 0 | 281 | 0.0 | /mnt/stockage/packages/f31/sugar-labyrinth/po/dz.po | 
+ | [error](/f31/language/error) | 0 | 1124 | 0.0 | /mnt/stockage/packages/f31/sugar-labyrinth/po/tzo.po/mnt/stockage/packages/f31/sugar-labyrinth/po/quy.po/mnt/stockage/packages/f31/sugar-labyrinth/po/pbs.po/mnt/stockage/packages/f31/sugar-labyrinth/po/mvo.po | 
+ | [ff](/f31/language/ff) | 0 | 281 | 0.0 | /mnt/stockage/packages/f31/sugar-labyrinth/po/ff.po | 
+ | [fi](/f31/language/fi) | 0 | 281 | 0.0 | /mnt/stockage/packages/f31/sugar-labyrinth/po/fi.po | 
+ | [fil](/f31/language/fil) | 0 | 281 | 0.0 | /mnt/stockage/packages/f31/sugar-labyrinth/po/fil.po | 
+ | [gn](/f31/language/gn) | 0 | 281 | 0.0 | /mnt/stockage/packages/f31/sugar-labyrinth/po/gn.po | 
+ | [gu](/f31/language/gu) | 0 | 281 | 0.0 | /mnt/stockage/packages/f31/sugar-labyrinth/po/gu.po | 
+ | [ha](/f31/language/ha) | 0 | 281 | 0.0 | /mnt/stockage/packages/f31/sugar-labyrinth/po/ha.po | 
+ | [he](/f31/language/he) | 0 | 281 | 0.0 | /mnt/stockage/packages/f31/sugar-labyrinth/po/he.po | 
+ | [ig](/f31/language/ig) | 0 | 281 | 0.0 | /mnt/stockage/packages/f31/sugar-labyrinth/po/ig.po | 
+ | [kn](/f31/language/kn) | 0 | 281 | 0.0 | /mnt/stockage/packages/f31/sugar-labyrinth/po/kn.po | 
+ | [ko](/f31/language/ko) | 0 | 281 | 0.0 | /mnt/stockage/packages/f31/sugar-labyrinth/po/ko.po | 
+ | [ku](/f31/language/ku) | 0 | 281 | 0.0 | /mnt/stockage/packages/f31/sugar-labyrinth/po/ku.po | 
+ | [lv](/f31/language/lv) | 0 | 281 | 0.0 | /mnt/stockage/packages/f31/sugar-labyrinth/po/lv.po | 
+ | [mk](/f31/language/mk) | 0 | 281 | 0.0 | /mnt/stockage/packages/f31/sugar-labyrinth/po/mk.po | 
+ | [ml](/f31/language/ml) | 0 | 281 | 0.0 | /mnt/stockage/packages/f31/sugar-labyrinth/po/ml.po | 
+ | [mn](/f31/language/mn) | 0 | 281 | 0.0 | /mnt/stockage/packages/f31/sugar-labyrinth/po/mn.po | 
+ | [mr](/f31/language/mr) | 0 | 281 | 0.0 | /mnt/stockage/packages/f31/sugar-labyrinth/po/mr.po | 
+ | [ms](/f31/language/ms) | 0 | 281 | 0.0 | /mnt/stockage/packages/f31/sugar-labyrinth/po/ms.po | 
+ | [na](/f31/language/na) | 0 | 281 | 0.0 | /mnt/stockage/packages/f31/sugar-labyrinth/po/na.po | 
+ | [nah](/f31/language/nah) | 0 | 281 | 0.0 | /mnt/stockage/packages/f31/sugar-labyrinth/po/nah.po | 
+ | [nn](/f31/language/nn) | 0 | 281 | 0.0 | /mnt/stockage/packages/f31/sugar-labyrinth/po/nn.po | 
+ | [pa](/f31/language/pa) | 0 | 281 | 0.0 | /mnt/stockage/packages/f31/sugar-labyrinth/po/pa.po | 
+ | [ro](/f31/language/ro) | 0 | 281 | 0.0 | /mnt/stockage/packages/f31/sugar-labyrinth/po/ro.po | 
+ | [ru](/f31/language/ru) | 0 | 281 | 0.0 | /mnt/stockage/packages/f31/sugar-labyrinth/po/ru.po | 
+ | [sd](/f31/language/sd) | 0 | 281 | 0.0 | /mnt/stockage/packages/f31/sugar-labyrinth/po/sd.po | 
+ | [sl](/f31/language/sl) | 0 | 281 | 0.0 | /mnt/stockage/packages/f31/sugar-labyrinth/po/sl.po | 
+ | [sr](/f31/language/sr) | 0 | 281 | 0.0 | /mnt/stockage/packages/f31/sugar-labyrinth/po/sr.po | 
+ | [st](/f31/language/st) | 0 | 281 | 0.0 | /mnt/stockage/packages/f31/sugar-labyrinth/po/st.po | 
+ | [te](/f31/language/te) | 0 | 281 | 0.0 | /mnt/stockage/packages/f31/sugar-labyrinth/po/te.po | 
+ | [to](/f31/language/to) | 0 | 281 | 0.0 | /mnt/stockage/packages/f31/sugar-labyrinth/po/to.po | 
+ | [tr](/f31/language/tr) | 0 | 281 | 0.0 | /mnt/stockage/packages/f31/sugar-labyrinth/po/tr.po | 
+ | [tvl](/f31/language/tvl) | 0 | 281 | 0.0 | /mnt/stockage/packages/f31/sugar-labyrinth/po/tvl.po | 
+ | [tyv](/f31/language/tyv) | 0 | 281 | 0.0 | /mnt/stockage/packages/f31/sugar-labyrinth/po/tyv.po | 
+ | [ug](/f31/language/ug) | 0 | 281 | 0.0 | /mnt/stockage/packages/f31/sugar-labyrinth/po/ug.po | 
+ | [uk](/f31/language/uk) | 0 | 281 | 0.0 | /mnt/stockage/packages/f31/sugar-labyrinth/po/uk.po | 
+ | [ur](/f31/language/ur) | 0 | 281 | 0.0 | /mnt/stockage/packages/f31/sugar-labyrinth/po/ur.po | 
+ | [wa](/f31/language/wa) | 0 | 281 | 0.0 | /mnt/stockage/packages/f31/sugar-labyrinth/po/wa.po | 
+ | [yo](/f31/language/yo) | 0 | 281 | 0.0 | /mnt/stockage/packages/f31/sugar-labyrinth/po/yo.po | 
+ | [zh_Hant_HK](/f31/language/zh_Hant_HK) | 0 | 281 | 0.0 | /mnt/stockage/packages/f31/sugar-labyrinth/po/zh_HK.po | 
 {.sortable}
 
 

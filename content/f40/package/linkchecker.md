@@ -18,10 +18,10 @@ The package linkchecker (version 10.3.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [nl]({{< ref "/f40/language/nl.md" >}}) | 2667 | 2826 | 94.4 | /mnt/stockage/packages/f40/linkchecker/po/nl_NL.po | 
- | [de]({{< ref "/f40/language/de.md" >}}) | 4561 | 7357 | 62.0 | /mnt/stockage/packages/f40/linkchecker/doc/i18n/locales/de/LC_MESSAGES/index.po/mnt/stockage/packages/f40/linkchecker/doc/i18n/locales/de/LC_MESSAGES/man.po/mnt/stockage/packages/f40/linkchecker/po/de.po | 
- | [es]({{< ref "/f40/language/es.md" >}}) | 230 | 2826 | 8.1 | /mnt/stockage/packages/f40/linkchecker/po/es.po | 
- | [fr]({{< ref "/f40/language/fr.md" >}}) | 276 | 6798 | 4.1 | /mnt/stockage/packages/f40/linkchecker/doc/i18n/locales/fr/LC_MESSAGES/man.po/mnt/stockage/packages/f40/linkchecker/po/fr.po | 
+ | [nl](/f40/language/nl) | 2667 | 2826 | 94.4 | /mnt/stockage/packages/f40/linkchecker/po/nl_NL.po | 
+ | [de](/f40/language/de) | 4561 | 7357 | 62.0 | /mnt/stockage/packages/f40/linkchecker/doc/i18n/locales/de/LC_MESSAGES/index.po/mnt/stockage/packages/f40/linkchecker/doc/i18n/locales/de/LC_MESSAGES/man.po/mnt/stockage/packages/f40/linkchecker/po/de.po | 
+ | [es](/f40/language/es) | 230 | 2826 | 8.1 | /mnt/stockage/packages/f40/linkchecker/po/es.po | 
+ | [fr](/f40/language/fr) | 276 | 6798 | 4.1 | /mnt/stockage/packages/f40/linkchecker/doc/i18n/locales/fr/LC_MESSAGES/man.po/mnt/stockage/packages/f40/linkchecker/po/fr.po | 
 {.sortable}
 
 

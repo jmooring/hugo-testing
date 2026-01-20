@@ -18,10 +18,10 @@ The package libqalculate (version 0.9.7):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [zh_Hans]({{< ref "/f18/language/zh_Hans.md" >}}) | 6525 | 6749 | 96.7 | /mnt/stockage/packages/f18/libqalculate/po/zh_CN.po/mnt/stockage/packages/f18/libqalculate/po-defs/zh_CN.po | 
- | [nl]({{< ref "/f18/language/nl.md" >}}) | 6428 | 6764 | 95.0 | /mnt/stockage/packages/f18/libqalculate/po/nl.po/mnt/stockage/packages/f18/libqalculate/po-defs/nl.po | 
- | [fr]({{< ref "/f18/language/fr.md" >}}) | 1576 | 1686 | 93.5 | /mnt/stockage/packages/f18/libqalculate/po/fr.po | 
- | [sv]({{< ref "/f18/language/sv.md" >}}) | 5409 | 6764 | 80.0 | /mnt/stockage/packages/f18/libqalculate/po/sv.po/mnt/stockage/packages/f18/libqalculate/po-defs/sv.po | 
+ | [zh_Hans](/f18/language/zh_Hans) | 6525 | 6749 | 96.7 | /mnt/stockage/packages/f18/libqalculate/po/zh_CN.po/mnt/stockage/packages/f18/libqalculate/po-defs/zh_CN.po | 
+ | [nl](/f18/language/nl) | 6428 | 6764 | 95.0 | /mnt/stockage/packages/f18/libqalculate/po/nl.po/mnt/stockage/packages/f18/libqalculate/po-defs/nl.po | 
+ | [fr](/f18/language/fr) | 1576 | 1686 | 93.5 | /mnt/stockage/packages/f18/libqalculate/po/fr.po | 
+ | [sv](/f18/language/sv) | 5409 | 6764 | 80.0 | /mnt/stockage/packages/f18/libqalculate/po/sv.po/mnt/stockage/packages/f18/libqalculate/po-defs/sv.po | 
 {.sortable}
 
 

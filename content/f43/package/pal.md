@@ -18,11 +18,11 @@ The package pal (version 0.4.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f43/language/de.md" >}}) | 1215 | 1215 | 100.0 | /mnt/stockage/packages/f43/pal/po/de.po | 
- | [es]({{< ref "/f43/language/es.md" >}}) | 1151 | 1151 | 100.0 | /mnt/stockage/packages/f43/pal/po/es.po | 
- | [sv]({{< ref "/f43/language/sv.md" >}}) | 1151 | 1151 | 100.0 | /mnt/stockage/packages/f43/pal/po/sv.po | 
- | [pl]({{< ref "/f43/language/pl.md" >}}) | 1133 | 1151 | 98.4 | /mnt/stockage/packages/f43/pal/po/pl.po | 
- | [tr]({{< ref "/f43/language/tr.md" >}}) | 138 | 1151 | 12.0 | /mnt/stockage/packages/f43/pal/po/tr.po | 
+ | [de](/f43/language/de) | 1215 | 1215 | 100.0 | /mnt/stockage/packages/f43/pal/po/de.po | 
+ | [es](/f43/language/es) | 1151 | 1151 | 100.0 | /mnt/stockage/packages/f43/pal/po/es.po | 
+ | [sv](/f43/language/sv) | 1151 | 1151 | 100.0 | /mnt/stockage/packages/f43/pal/po/sv.po | 
+ | [pl](/f43/language/pl) | 1133 | 1151 | 98.4 | /mnt/stockage/packages/f43/pal/po/pl.po | 
+ | [tr](/f43/language/tr) | 138 | 1151 | 12.0 | /mnt/stockage/packages/f43/pal/po/tr.po | 
 {.sortable}
 
 

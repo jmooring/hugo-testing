@@ -18,11 +18,11 @@ The package mcrypt (version 2.6.8):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [el]({{< ref "/f40/language/el.md" >}}) | 956 | 965 | 99.1 | /mnt/stockage/packages/f40/mcrypt/po/el.po | 
- | [es_AR]({{< ref "/f40/language/es_AR.md" >}}) | 956 | 965 | 99.1 | /mnt/stockage/packages/f40/mcrypt/po/es_AR.po | 
- | [de]({{< ref "/f40/language/de.md" >}}) | 735 | 965 | 76.2 | /mnt/stockage/packages/f40/mcrypt/po/de.po | 
- | [cs]({{< ref "/f40/language/cs.md" >}}) | 308 | 965 | 31.9 | /mnt/stockage/packages/f40/mcrypt/po/cs.po | 
- | [pl]({{< ref "/f40/language/pl.md" >}}) | 162 | 965 | 16.8 | /mnt/stockage/packages/f40/mcrypt/po/pl.po | 
+ | [el](/f40/language/el) | 956 | 965 | 99.1 | /mnt/stockage/packages/f40/mcrypt/po/el.po | 
+ | [es_AR](/f40/language/es_AR) | 956 | 965 | 99.1 | /mnt/stockage/packages/f40/mcrypt/po/es_AR.po | 
+ | [de](/f40/language/de) | 735 | 965 | 76.2 | /mnt/stockage/packages/f40/mcrypt/po/de.po | 
+ | [cs](/f40/language/cs) | 308 | 965 | 31.9 | /mnt/stockage/packages/f40/mcrypt/po/cs.po | 
+ | [pl](/f40/language/pl) | 162 | 965 | 16.8 | /mnt/stockage/packages/f40/mcrypt/po/pl.po | 
 {.sortable}
 
 

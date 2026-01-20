@@ -18,20 +18,20 @@ The package siril (version 0.99.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f33/language/fr.md" >}}) | 17455 | 17455 | 100.0 | /mnt/stockage/packages/f33/siril/po/fr.po | 
- | [de]({{< ref "/f33/language/de.md" >}}) | 16953 | 17455 | 97.1 | /mnt/stockage/packages/f33/siril/po/de.po | 
- | [el]({{< ref "/f33/language/el.md" >}}) | 15894 | 17455 | 91.1 | /mnt/stockage/packages/f33/siril/po/el.po | 
- | [es]({{< ref "/f33/language/es.md" >}}) | 13063 | 17455 | 74.8 | /mnt/stockage/packages/f33/siril/po/es_ES.po | 
- | [it]({{< ref "/f33/language/it.md" >}}) | 13057 | 17455 | 74.8 | /mnt/stockage/packages/f33/siril/po/it_IT.po | 
- | [nl_BE]({{< ref "/f33/language/nl_BE.md" >}}) | 13057 | 17455 | 74.8 | /mnt/stockage/packages/f33/siril/po/nl_BE.po | 
- | [ar_DZ]({{< ref "/f33/language/ar_DZ.md" >}}) | 7664 | 11214 | 68.3 | /mnt/stockage/packages/f33/siril/po/ar_DZ.po | 
- | [zh_Hans]({{< ref "/f33/language/zh_Hans.md" >}}) | 11137 | 17455 | 63.8 | /mnt/stockage/packages/f33/siril/po/zh_CN.po | 
- | [uk]({{< ref "/f33/language/uk.md" >}}) | 5540 | 11214 | 49.4 | /mnt/stockage/packages/f33/siril/po/uk.po | 
- | [pl]({{< ref "/f33/language/pl.md" >}}) | 5386 | 17455 | 30.9 | /mnt/stockage/packages/f33/siril/po/pl_PL.po | 
- | [pt_PT]({{< ref "/f33/language/pt_PT.md" >}}) | 2553 | 8291 | 30.8 | /mnt/stockage/packages/f33/siril/po/pt_PT.po | 
- | [ja]({{< ref "/f33/language/ja.md" >}}) | 2211 | 17455 | 12.7 | /mnt/stockage/packages/f33/siril/po/ja_JP.po | 
- | [ru]({{< ref "/f33/language/ru.md" >}}) | 1932 | 17455 | 11.1 | /mnt/stockage/packages/f33/siril/po/ru.po | 
- | [tl]({{< ref "/f33/language/tl.md" >}}) | 547 | 8802 | 6.2 | /mnt/stockage/packages/f33/siril/po/tl_PH.po | 
+ | [fr](/f33/language/fr) | 17455 | 17455 | 100.0 | /mnt/stockage/packages/f33/siril/po/fr.po | 
+ | [de](/f33/language/de) | 16953 | 17455 | 97.1 | /mnt/stockage/packages/f33/siril/po/de.po | 
+ | [el](/f33/language/el) | 15894 | 17455 | 91.1 | /mnt/stockage/packages/f33/siril/po/el.po | 
+ | [es](/f33/language/es) | 13063 | 17455 | 74.8 | /mnt/stockage/packages/f33/siril/po/es_ES.po | 
+ | [it](/f33/language/it) | 13057 | 17455 | 74.8 | /mnt/stockage/packages/f33/siril/po/it_IT.po | 
+ | [nl_BE](/f33/language/nl_BE) | 13057 | 17455 | 74.8 | /mnt/stockage/packages/f33/siril/po/nl_BE.po | 
+ | [ar_DZ](/f33/language/ar_DZ) | 7664 | 11214 | 68.3 | /mnt/stockage/packages/f33/siril/po/ar_DZ.po | 
+ | [zh_Hans](/f33/language/zh_Hans) | 11137 | 17455 | 63.8 | /mnt/stockage/packages/f33/siril/po/zh_CN.po | 
+ | [uk](/f33/language/uk) | 5540 | 11214 | 49.4 | /mnt/stockage/packages/f33/siril/po/uk.po | 
+ | [pl](/f33/language/pl) | 5386 | 17455 | 30.9 | /mnt/stockage/packages/f33/siril/po/pl_PL.po | 
+ | [pt_PT](/f33/language/pt_PT) | 2553 | 8291 | 30.8 | /mnt/stockage/packages/f33/siril/po/pt_PT.po | 
+ | [ja](/f33/language/ja) | 2211 | 17455 | 12.7 | /mnt/stockage/packages/f33/siril/po/ja_JP.po | 
+ | [ru](/f33/language/ru) | 1932 | 17455 | 11.1 | /mnt/stockage/packages/f33/siril/po/ru.po | 
+ | [tl](/f33/language/tl) | 547 | 8802 | 6.2 | /mnt/stockage/packages/f33/siril/po/tl_PH.po | 
 {.sortable}
 
 

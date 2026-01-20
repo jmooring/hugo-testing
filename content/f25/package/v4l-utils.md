@@ -18,7 +18,7 @@ The package v4l-utils (version 1.10.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [pt_BR]({{< ref "/f25/language/pt_BR.md" >}}) | 1749 | 1749 | 100.0 | /mnt/stockage/packages/f25/v4l-utils/libdvbv5-po/pt_BR.po/mnt/stockage/packages/f25/v4l-utils/v4l-utils-po/pt_BR.po | 
+ | [pt_BR](/f25/language/pt_BR) | 1749 | 1749 | 100.0 | /mnt/stockage/packages/f25/v4l-utils/libdvbv5-po/pt_BR.po/mnt/stockage/packages/f25/v4l-utils/v4l-utils-po/pt_BR.po | 
 {.sortable}
 
 

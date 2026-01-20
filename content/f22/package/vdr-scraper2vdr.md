@@ -18,7 +18,7 @@ The package vdr-scraper2vdr (version 0.1.6):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f22/language/de.md" >}}) | 77 | 77 | 100.0 | /mnt/stockage/packages/f22/vdr-scraper2vdr/po/de_DE.po | 
+ | [de](/f22/language/de) | 77 | 77 | 100.0 | /mnt/stockage/packages/f22/vdr-scraper2vdr/po/de_DE.po | 
 {.sortable}
 
 

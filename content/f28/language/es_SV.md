@@ -38,25 +38,25 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [libgweather]({{< ref "/f28/package/libgweather.md" >}}) | 662 | 662 | 100.0 | Spanish <gnome-es-list@gnome.org> | 
- | [libmateweather]({{< ref "/f28/package/libmateweather.md" >}}) | 362 | 499 | 72.5 | Spanish (El Salvador) (https://www.transifex.com/mate/teams/13566/es_SV/) | 
- | [mate-applets]({{< ref "/f28/package/mate-applets.md" >}}) | 1648 | 12188 | 13.5 | Spanish (El Salvador) (https://www.transifex.com/mate/teams/13566/es_SV/) | 
- | [mate-sensors-applet]({{< ref "/f28/package/mate-sensors-applet.md" >}}) | 9 | 306 | 2.9 | Spanish (El Salvador) (https://www.transifex.com/mate/teams/13566/es_SV/) | 
- | [mate-settings-daemon]({{< ref "/f28/package/mate-settings-daemon.md" >}}) | 43 | 1764 | 2.4 | Spanish (El Salvador) (https://www.transifex.com/mate/teams/13566/es_SV/) | 
- | [mate-media]({{< ref "/f28/package/mate-media.md" >}}) | 4 | 226 | 1.8 | Spanish (El Salvador) (https://www.transifex.com/mate/teams/13566/es_SV/) | 
- | [mate-system-monitor]({{< ref "/f28/package/mate-system-monitor.md" >}}) | 14 | 1333 | 1.1 | Spanish (El Salvador) (https://www.transifex.com/mate/teams/13566/es_SV/) | 
- | [eom]({{< ref "/f28/package/eom.md" >}}) | 14 | 1723 | 0.8 | Spanish (El Salvador) (https://www.transifex.com/mate/teams/13566/es_SV/) | 
- | [mate-control-center]({{< ref "/f28/package/mate-control-center.md" >}}) | 17 | 2658 | 0.6 | Spanish (El Salvador) (https://www.transifex.com/mate/teams/13566/es_SV/) | 
- | [mate-panel]({{< ref "/f28/package/mate-panel.md" >}}) | 36 | 6532 | 0.6 | Spanish (El Salvador) (https://www.transifex.com/mate/teams/13566/es_SV/) | 
- | [atril]({{< ref "/f28/package/atril.md" >}}) | 8 | 1792 | 0.4 | Spanish (El Salvador) (https://www.transifex.com/mate/teams/13566/es_SV/) | 
- | [mate-session-manager]({{< ref "/f28/package/mate-session-manager.md" >}}) | 3 | 681 | 0.4 | Spanish (El Salvador) (https://www.transifex.com/mate/teams/13566/es_SV/) | 
- | [libmatekbd]({{< ref "/f28/package/libmatekbd.md" >}}) | 1 | 251 | 0.4 | Spanish (El Salvador) (https://www.transifex.com/mate/teams/13566/es_SV/) | 
- | [mate-power-manager]({{< ref "/f28/package/mate-power-manager.md" >}}) | 10 | 2724 | 0.4 | Spanish (El Salvador) (https://www.transifex.com/mate/teams/13566/es_SV/) | 
- | [engrampa]({{< ref "/f28/package/engrampa.md" >}}) | 6 | 1946 | 0.3 | Spanish (El Salvador) (https://www.transifex.com/mate/teams/13566/es_SV/) | 
- | [mate-utils]({{< ref "/f28/package/mate-utils.md" >}}) | 6 | 2528 | 0.2 | Spanish (El Salvador) (https://www.transifex.com/mate/teams/13566/es_SV/) | 
- | [mate-menu]({{< ref "/f28/package/mate-menu.md" >}}) | 0 | 316 | 0.0 | Spanish (El Salvador) (http://www.transifex.com/projects/p/MATE/language/es_SV/) | 
- | [mate-themes]({{< ref "/f28/package/mate-themes.md" >}}) | 0 | 60 | 0.0 | Spanish (El Salvador) (http://www.transifex.com/mate/MATE/language/es_SV/) | 
- | [vocal]({{< ref "/f28/package/vocal.md" >}}) | 0 | 834 | 0.0 | Spanish (El Salvador) (http://www.transifex.com/needle-and-thread/vocal/language/es_SV/) | 
+ | [libgweather](/f28/package/libgweather) | 662 | 662 | 100.0 | Spanish <gnome-es-list@gnome.org> | 
+ | [libmateweather](/f28/package/libmateweather) | 362 | 499 | 72.5 | Spanish (El Salvador) (https://www.transifex.com/mate/teams/13566/es_SV/) | 
+ | [mate-applets](/f28/package/mate-applets) | 1648 | 12188 | 13.5 | Spanish (El Salvador) (https://www.transifex.com/mate/teams/13566/es_SV/) | 
+ | [mate-sensors-applet](/f28/package/mate-sensors-applet) | 9 | 306 | 2.9 | Spanish (El Salvador) (https://www.transifex.com/mate/teams/13566/es_SV/) | 
+ | [mate-settings-daemon](/f28/package/mate-settings-daemon) | 43 | 1764 | 2.4 | Spanish (El Salvador) (https://www.transifex.com/mate/teams/13566/es_SV/) | 
+ | [mate-media](/f28/package/mate-media) | 4 | 226 | 1.8 | Spanish (El Salvador) (https://www.transifex.com/mate/teams/13566/es_SV/) | 
+ | [mate-system-monitor](/f28/package/mate-system-monitor) | 14 | 1333 | 1.1 | Spanish (El Salvador) (https://www.transifex.com/mate/teams/13566/es_SV/) | 
+ | [eom](/f28/package/eom) | 14 | 1723 | 0.8 | Spanish (El Salvador) (https://www.transifex.com/mate/teams/13566/es_SV/) | 
+ | [mate-control-center](/f28/package/mate-control-center) | 17 | 2658 | 0.6 | Spanish (El Salvador) (https://www.transifex.com/mate/teams/13566/es_SV/) | 
+ | [mate-panel](/f28/package/mate-panel) | 36 | 6532 | 0.6 | Spanish (El Salvador) (https://www.transifex.com/mate/teams/13566/es_SV/) | 
+ | [atril](/f28/package/atril) | 8 | 1792 | 0.4 | Spanish (El Salvador) (https://www.transifex.com/mate/teams/13566/es_SV/) | 
+ | [mate-session-manager](/f28/package/mate-session-manager) | 3 | 681 | 0.4 | Spanish (El Salvador) (https://www.transifex.com/mate/teams/13566/es_SV/) | 
+ | [libmatekbd](/f28/package/libmatekbd) | 1 | 251 | 0.4 | Spanish (El Salvador) (https://www.transifex.com/mate/teams/13566/es_SV/) | 
+ | [mate-power-manager](/f28/package/mate-power-manager) | 10 | 2724 | 0.4 | Spanish (El Salvador) (https://www.transifex.com/mate/teams/13566/es_SV/) | 
+ | [engrampa](/f28/package/engrampa) | 6 | 1946 | 0.3 | Spanish (El Salvador) (https://www.transifex.com/mate/teams/13566/es_SV/) | 
+ | [mate-utils](/f28/package/mate-utils) | 6 | 2528 | 0.2 | Spanish (El Salvador) (https://www.transifex.com/mate/teams/13566/es_SV/) | 
+ | [mate-menu](/f28/package/mate-menu) | 0 | 316 | 0.0 | Spanish (El Salvador) (http://www.transifex.com/projects/p/MATE/language/es_SV/) | 
+ | [mate-themes](/f28/package/mate-themes) | 0 | 60 | 0.0 | Spanish (El Salvador) (http://www.transifex.com/mate/MATE/language/es_SV/) | 
+ | [vocal](/f28/package/vocal) | 0 | 834 | 0.0 | Spanish (El Salvador) (http://www.transifex.com/needle-and-thread/vocal/language/es_SV/) | 
 {.sortable}
 
 

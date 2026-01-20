@@ -18,10 +18,10 @@ The package miredo (version 1.2.6):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f25/language/fr.md" >}}) | 588 | 588 | 100.0 | /mnt/stockage/packages/f25/miredo/po/fr.po | 
- | [zh_Hans]({{< ref "/f25/language/zh_Hans.md" >}}) | 588 | 588 | 100.0 | /mnt/stockage/packages/f25/miredo/po/zh_CN.po | 
- | [en_GB]({{< ref "/f25/language/en_GB.md" >}}) | 334 | 588 | 56.8 | /mnt/stockage/packages/f25/miredo/po/en_GB.po | 
- | [en]({{< ref "/f25/language/en.md" >}}) | 138 | 588 | 23.5 | /mnt/stockage/packages/f25/miredo/po/en.po | 
+ | [fr](/f25/language/fr) | 588 | 588 | 100.0 | /mnt/stockage/packages/f25/miredo/po/fr.po | 
+ | [zh_Hans](/f25/language/zh_Hans) | 588 | 588 | 100.0 | /mnt/stockage/packages/f25/miredo/po/zh_CN.po | 
+ | [en_GB](/f25/language/en_GB) | 334 | 588 | 56.8 | /mnt/stockage/packages/f25/miredo/po/en_GB.po | 
+ | [en](/f25/language/en) | 138 | 588 | 23.5 | /mnt/stockage/packages/f25/miredo/po/en.po | 
 {.sortable}
 
 

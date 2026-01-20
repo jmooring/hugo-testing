@@ -38,9 +38,9 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [gnucash]({{< ref "/f20/package/gnucash.md" >}}) | 26327 | 26327 | 100.0 | Dogri (doi) Chandrakant Dhutadmal <chandrakantd@cdac.in> | 
- | [iok]({{< ref "/f20/package/iok.md" >}}) | 137 | 206 | 66.5 | Dogri <LL@li.org> | 
- | [libreoffice]({{< ref "/f20/package/libreoffice.md" >}}) | 47016 | 97431 | 48.3 | LANGUAGE <LL@li.org> | 
+ | [gnucash](/f20/package/gnucash) | 26327 | 26327 | 100.0 | Dogri (doi) Chandrakant Dhutadmal <chandrakantd@cdac.in> | 
+ | [iok](/f20/package/iok) | 137 | 206 | 66.5 | Dogri <LL@li.org> | 
+ | [libreoffice](/f20/package/libreoffice) | 47016 | 97431 | 48.3 | LANGUAGE <LL@li.org> | 
 {.sortable}
 
 

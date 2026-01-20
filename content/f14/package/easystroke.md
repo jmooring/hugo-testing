@@ -18,17 +18,17 @@ The package easystroke (version 0.5.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f14/language/cs.md" >}}) | 515 | 515 | 100.0 | /mnt/stockage/packages/f14/easystroke/po/cs.po | 
- | [de]({{< ref "/f14/language/de.md" >}}) | 515 | 515 | 100.0 | /mnt/stockage/packages/f14/easystroke/po/de.po | 
- | [el]({{< ref "/f14/language/el.md" >}}) | 511 | 511 | 100.0 | /mnt/stockage/packages/f14/easystroke/po/el.po | 
- | [es]({{< ref "/f14/language/es.md" >}}) | 515 | 515 | 100.0 | /mnt/stockage/packages/f14/easystroke/po/es.po | 
- | [fr]({{< ref "/f14/language/fr.md" >}}) | 511 | 511 | 100.0 | /mnt/stockage/packages/f14/easystroke/po/fr.po | 
- | [it]({{< ref "/f14/language/it.md" >}}) | 515 | 515 | 100.0 | /mnt/stockage/packages/f14/easystroke/po/it.po | 
- | [pl]({{< ref "/f14/language/pl.md" >}}) | 515 | 515 | 100.0 | /mnt/stockage/packages/f14/easystroke/po/pl.po | 
- | [zh_Hans]({{< ref "/f14/language/zh_Hans.md" >}}) | 515 | 515 | 100.0 | /mnt/stockage/packages/f14/easystroke/po/zh.po | 
- | [ru]({{< ref "/f14/language/ru.md" >}}) | 495 | 497 | 99.6 | /mnt/stockage/packages/f14/easystroke/po/ru.po | 
- | [ja]({{< ref "/f14/language/ja.md" >}}) | 473 | 511 | 92.6 | /mnt/stockage/packages/f14/easystroke/po/ja.po | 
- | [he]({{< ref "/f14/language/he.md" >}}) | 460 | 515 | 89.3 | /mnt/stockage/packages/f14/easystroke/po/he.po | 
+ | [cs](/f14/language/cs) | 515 | 515 | 100.0 | /mnt/stockage/packages/f14/easystroke/po/cs.po | 
+ | [de](/f14/language/de) | 515 | 515 | 100.0 | /mnt/stockage/packages/f14/easystroke/po/de.po | 
+ | [el](/f14/language/el) | 511 | 511 | 100.0 | /mnt/stockage/packages/f14/easystroke/po/el.po | 
+ | [es](/f14/language/es) | 515 | 515 | 100.0 | /mnt/stockage/packages/f14/easystroke/po/es.po | 
+ | [fr](/f14/language/fr) | 511 | 511 | 100.0 | /mnt/stockage/packages/f14/easystroke/po/fr.po | 
+ | [it](/f14/language/it) | 515 | 515 | 100.0 | /mnt/stockage/packages/f14/easystroke/po/it.po | 
+ | [pl](/f14/language/pl) | 515 | 515 | 100.0 | /mnt/stockage/packages/f14/easystroke/po/pl.po | 
+ | [zh_Hans](/f14/language/zh_Hans) | 515 | 515 | 100.0 | /mnt/stockage/packages/f14/easystroke/po/zh.po | 
+ | [ru](/f14/language/ru) | 495 | 497 | 99.6 | /mnt/stockage/packages/f14/easystroke/po/ru.po | 
+ | [ja](/f14/language/ja) | 473 | 511 | 92.6 | /mnt/stockage/packages/f14/easystroke/po/ja.po | 
+ | [he](/f14/language/he) | 460 | 515 | 89.3 | /mnt/stockage/packages/f14/easystroke/po/he.po | 
 {.sortable}
 
 

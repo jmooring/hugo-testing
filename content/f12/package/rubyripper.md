@@ -18,14 +18,14 @@ The package rubyripper (version 0.5.7):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f12/language/de.md" >}}) | 1520 | 1520 | 100.0 | /mnt/stockage/packages/f12/rubyripper/locale/po/de/rubyripper.po | 
- | [nl]({{< ref "/f12/language/nl.md" >}}) | 1520 | 1520 | 100.0 | /mnt/stockage/packages/f12/rubyripper/locale/po/nl/rubyripper.po | 
- | [fr]({{< ref "/f12/language/fr.md" >}}) | 1504 | 1520 | 98.9 | /mnt/stockage/packages/f12/rubyripper/locale/po/fr/rubyripper.po | 
- | [es]({{< ref "/f12/language/es.md" >}}) | 1449 | 1520 | 95.3 | /mnt/stockage/packages/f12/rubyripper/locale/po/es/rubyripper.po | 
- | [hu]({{< ref "/f12/language/hu.md" >}}) | 1449 | 1520 | 95.3 | /mnt/stockage/packages/f12/rubyripper/locale/po/hu/rubyripper.po | 
- | [bg]({{< ref "/f12/language/bg.md" >}}) | 1434 | 1520 | 94.3 | /mnt/stockage/packages/f12/rubyripper/locale/po/bg/rubyripper.po | 
- | [ru]({{< ref "/f12/language/ru.md" >}}) | 1434 | 1520 | 94.3 | /mnt/stockage/packages/f12/rubyripper/locale/po/ru/rubyripper.po | 
- | [se]({{< ref "/f12/language/se.md" >}}) | 1385 | 1520 | 91.1 | /mnt/stockage/packages/f12/rubyripper/locale/po/se/rubyripper.po | 
+ | [de](/f12/language/de) | 1520 | 1520 | 100.0 | /mnt/stockage/packages/f12/rubyripper/locale/po/de/rubyripper.po | 
+ | [nl](/f12/language/nl) | 1520 | 1520 | 100.0 | /mnt/stockage/packages/f12/rubyripper/locale/po/nl/rubyripper.po | 
+ | [fr](/f12/language/fr) | 1504 | 1520 | 98.9 | /mnt/stockage/packages/f12/rubyripper/locale/po/fr/rubyripper.po | 
+ | [es](/f12/language/es) | 1449 | 1520 | 95.3 | /mnt/stockage/packages/f12/rubyripper/locale/po/es/rubyripper.po | 
+ | [hu](/f12/language/hu) | 1449 | 1520 | 95.3 | /mnt/stockage/packages/f12/rubyripper/locale/po/hu/rubyripper.po | 
+ | [bg](/f12/language/bg) | 1434 | 1520 | 94.3 | /mnt/stockage/packages/f12/rubyripper/locale/po/bg/rubyripper.po | 
+ | [ru](/f12/language/ru) | 1434 | 1520 | 94.3 | /mnt/stockage/packages/f12/rubyripper/locale/po/ru/rubyripper.po | 
+ | [se](/f12/language/se) | 1385 | 1520 | 91.1 | /mnt/stockage/packages/f12/rubyripper/locale/po/se/rubyripper.po | 
 {.sortable}
 
 

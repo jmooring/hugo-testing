@@ -18,13 +18,13 @@ The package clisp (version 2.43):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [en]({{< ref "/f9/language/en.md" >}}) | 14442 | 14442 | 100.0 | /mnt/stockage/packages/f9/clisp/src/po/clisplow_en.po/mnt/stockage/packages/f9/clisp/src/po/en.po | 
- | [da]({{< ref "/f9/language/da.md" >}}) | 13417 | 14442 | 92.9 | /mnt/stockage/packages/f9/clisp/src/po/clisplow_da.po/mnt/stockage/packages/f9/clisp/src/po/da.po | 
- | [de]({{< ref "/f9/language/de.md" >}}) | 10044 | 14442 | 69.5 | /mnt/stockage/packages/f9/clisp/src/po/clisplow_de.po/mnt/stockage/packages/f9/clisp/src/po/de.po | 
- | [ru]({{< ref "/f9/language/ru.md" >}}) | 9011 | 14442 | 62.4 | /mnt/stockage/packages/f9/clisp/src/po/clisplow_ru.po/mnt/stockage/packages/f9/clisp/src/po/ru.po | 
- | [nl]({{< ref "/f9/language/nl.md" >}}) | 7574 | 14442 | 52.4 | /mnt/stockage/packages/f9/clisp/src/po/clisplow_nl.po/mnt/stockage/packages/f9/clisp/src/po/nl.po | 
- | [fr]({{< ref "/f9/language/fr.md" >}}) | 6673 | 14442 | 46.2 | /mnt/stockage/packages/f9/clisp/src/po/clisplow_fr.po/mnt/stockage/packages/f9/clisp/src/po/fr.po | 
- | [es]({{< ref "/f9/language/es.md" >}}) | 6140 | 14442 | 42.5 | /mnt/stockage/packages/f9/clisp/src/po/clisplow_es.po/mnt/stockage/packages/f9/clisp/src/po/es.po | 
+ | [en](/f9/language/en) | 14442 | 14442 | 100.0 | /mnt/stockage/packages/f9/clisp/src/po/clisplow_en.po/mnt/stockage/packages/f9/clisp/src/po/en.po | 
+ | [da](/f9/language/da) | 13417 | 14442 | 92.9 | /mnt/stockage/packages/f9/clisp/src/po/clisplow_da.po/mnt/stockage/packages/f9/clisp/src/po/da.po | 
+ | [de](/f9/language/de) | 10044 | 14442 | 69.5 | /mnt/stockage/packages/f9/clisp/src/po/clisplow_de.po/mnt/stockage/packages/f9/clisp/src/po/de.po | 
+ | [ru](/f9/language/ru) | 9011 | 14442 | 62.4 | /mnt/stockage/packages/f9/clisp/src/po/clisplow_ru.po/mnt/stockage/packages/f9/clisp/src/po/ru.po | 
+ | [nl](/f9/language/nl) | 7574 | 14442 | 52.4 | /mnt/stockage/packages/f9/clisp/src/po/clisplow_nl.po/mnt/stockage/packages/f9/clisp/src/po/nl.po | 
+ | [fr](/f9/language/fr) | 6673 | 14442 | 46.2 | /mnt/stockage/packages/f9/clisp/src/po/clisplow_fr.po/mnt/stockage/packages/f9/clisp/src/po/fr.po | 
+ | [es](/f9/language/es) | 6140 | 14442 | 42.5 | /mnt/stockage/packages/f9/clisp/src/po/clisplow_es.po/mnt/stockage/packages/f9/clisp/src/po/es.po | 
 {.sortable}
 
 

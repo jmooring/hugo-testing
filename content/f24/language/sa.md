@@ -38,11 +38,11 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [tuxpaint]({{< ref "/f24/package/tuxpaint.md" >}}) | 1515 | 1515 | 100.0 |  | 
- | [libreoffice]({{< ref "/f24/package/libreoffice.md" >}}) | 64494 | 101008 | 63.9 | LANGUAGE <LL@li.org> | 
- | [onboard]({{< ref "/f24/package/onboard.md" >}}) | 7 | 2318 | 0.3 | Sanskrit <sa@li.org> | 
- | [cinnamon-translations]({{< ref "/f24/package/cinnamon-translations.md" >}}) | 0 | 5655 | 0.0 | Sanskrit <sa@li.org> | 
- | [iok]({{< ref "/f24/package/iok.md" >}}) | 0 | 206 | 0.0 | Sanskrit <LL@li.org> | 
+ | [tuxpaint](/f24/package/tuxpaint) | 1515 | 1515 | 100.0 |  | 
+ | [libreoffice](/f24/package/libreoffice) | 64494 | 101008 | 63.9 | LANGUAGE <LL@li.org> | 
+ | [onboard](/f24/package/onboard) | 7 | 2318 | 0.3 | Sanskrit <sa@li.org> | 
+ | [cinnamon-translations](/f24/package/cinnamon-translations) | 0 | 5655 | 0.0 | Sanskrit <sa@li.org> | 
+ | [iok](/f24/package/iok) | 0 | 206 | 0.0 | Sanskrit <LL@li.org> | 
 {.sortable}
 
 

@@ -18,25 +18,25 @@ The package sysstat (version 8.0.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [af]({{< ref "/f10/language/af.md" >}}) | 234 | 234 | 100.0 | /mnt/stockage/packages/f10/sysstat/nls/af.po | 
- | [da]({{< ref "/f10/language/da.md" >}}) | 234 | 234 | 100.0 | /mnt/stockage/packages/f10/sysstat/nls/da.po | 
- | [de]({{< ref "/f10/language/de.md" >}}) | 234 | 234 | 100.0 | /mnt/stockage/packages/f10/sysstat/nls/de.po | 
- | [es]({{< ref "/f10/language/es.md" >}}) | 234 | 234 | 100.0 | /mnt/stockage/packages/f10/sysstat/nls/es.po | 
- | [fr]({{< ref "/f10/language/fr.md" >}}) | 234 | 234 | 100.0 | /mnt/stockage/packages/f10/sysstat/nls/fr.po | 
- | [it]({{< ref "/f10/language/it.md" >}}) | 234 | 234 | 100.0 | /mnt/stockage/packages/f10/sysstat/nls/it.po | 
- | [ja]({{< ref "/f10/language/ja.md" >}}) | 234 | 234 | 100.0 | /mnt/stockage/packages/f10/sysstat/nls/ja.po | 
- | [nb_NO]({{< ref "/f10/language/nb_NO.md" >}}) | 234 | 234 | 100.0 | /mnt/stockage/packages/f10/sysstat/nls/nb.po | 
- | [nl]({{< ref "/f10/language/nl.md" >}}) | 234 | 234 | 100.0 | /mnt/stockage/packages/f10/sysstat/nls/nl.po | 
- | [nn]({{< ref "/f10/language/nn.md" >}}) | 234 | 234 | 100.0 | /mnt/stockage/packages/f10/sysstat/nls/nn.po | 
- | [pl]({{< ref "/f10/language/pl.md" >}}) | 234 | 234 | 100.0 | /mnt/stockage/packages/f10/sysstat/nls/pl.po | 
- | [pt]({{< ref "/f10/language/pt.md" >}}) | 234 | 234 | 100.0 | /mnt/stockage/packages/f10/sysstat/nls/pt.po | 
- | [pt_BR]({{< ref "/f10/language/pt_BR.md" >}}) | 234 | 234 | 100.0 | /mnt/stockage/packages/f10/sysstat/nls/pt_BR.po | 
- | [ro]({{< ref "/f10/language/ro.md" >}}) | 234 | 234 | 100.0 | /mnt/stockage/packages/f10/sysstat/nls/ro.po | 
- | [ru]({{< ref "/f10/language/ru.md" >}}) | 234 | 234 | 100.0 | /mnt/stockage/packages/f10/sysstat/nls/ru.po | 
- | [sk]({{< ref "/f10/language/sk.md" >}}) | 234 | 234 | 100.0 | /mnt/stockage/packages/f10/sysstat/nls/sk.po | 
- | [sv]({{< ref "/f10/language/sv.md" >}}) | 234 | 234 | 100.0 | /mnt/stockage/packages/f10/sysstat/nls/sv.po | 
- | [vi]({{< ref "/f10/language/vi.md" >}}) | 234 | 234 | 100.0 | /mnt/stockage/packages/f10/sysstat/nls/vi.po | 
- | [ky]({{< ref "/f10/language/ky.md" >}}) | 222 | 234 | 94.9 | /mnt/stockage/packages/f10/sysstat/nls/ky.po | 
+ | [af](/f10/language/af) | 234 | 234 | 100.0 | /mnt/stockage/packages/f10/sysstat/nls/af.po | 
+ | [da](/f10/language/da) | 234 | 234 | 100.0 | /mnt/stockage/packages/f10/sysstat/nls/da.po | 
+ | [de](/f10/language/de) | 234 | 234 | 100.0 | /mnt/stockage/packages/f10/sysstat/nls/de.po | 
+ | [es](/f10/language/es) | 234 | 234 | 100.0 | /mnt/stockage/packages/f10/sysstat/nls/es.po | 
+ | [fr](/f10/language/fr) | 234 | 234 | 100.0 | /mnt/stockage/packages/f10/sysstat/nls/fr.po | 
+ | [it](/f10/language/it) | 234 | 234 | 100.0 | /mnt/stockage/packages/f10/sysstat/nls/it.po | 
+ | [ja](/f10/language/ja) | 234 | 234 | 100.0 | /mnt/stockage/packages/f10/sysstat/nls/ja.po | 
+ | [nb_NO](/f10/language/nb_NO) | 234 | 234 | 100.0 | /mnt/stockage/packages/f10/sysstat/nls/nb.po | 
+ | [nl](/f10/language/nl) | 234 | 234 | 100.0 | /mnt/stockage/packages/f10/sysstat/nls/nl.po | 
+ | [nn](/f10/language/nn) | 234 | 234 | 100.0 | /mnt/stockage/packages/f10/sysstat/nls/nn.po | 
+ | [pl](/f10/language/pl) | 234 | 234 | 100.0 | /mnt/stockage/packages/f10/sysstat/nls/pl.po | 
+ | [pt](/f10/language/pt) | 234 | 234 | 100.0 | /mnt/stockage/packages/f10/sysstat/nls/pt.po | 
+ | [pt_BR](/f10/language/pt_BR) | 234 | 234 | 100.0 | /mnt/stockage/packages/f10/sysstat/nls/pt_BR.po | 
+ | [ro](/f10/language/ro) | 234 | 234 | 100.0 | /mnt/stockage/packages/f10/sysstat/nls/ro.po | 
+ | [ru](/f10/language/ru) | 234 | 234 | 100.0 | /mnt/stockage/packages/f10/sysstat/nls/ru.po | 
+ | [sk](/f10/language/sk) | 234 | 234 | 100.0 | /mnt/stockage/packages/f10/sysstat/nls/sk.po | 
+ | [sv](/f10/language/sv) | 234 | 234 | 100.0 | /mnt/stockage/packages/f10/sysstat/nls/sv.po | 
+ | [vi](/f10/language/vi) | 234 | 234 | 100.0 | /mnt/stockage/packages/f10/sysstat/nls/vi.po | 
+ | [ky](/f10/language/ky) | 222 | 234 | 94.9 | /mnt/stockage/packages/f10/sysstat/nls/ky.po | 
 {.sortable}
 
 

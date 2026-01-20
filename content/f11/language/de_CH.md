@@ -38,21 +38,21 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [anaconda]({{< ref "/f11/package/anaconda.md" >}}) | 8997 | 8997 | 100.0 | German <fedora-trans-de@redhat.com> | 
- | [iok]({{< ref "/f11/package/iok.md" >}}) | 134 | 134 | 100.0 | German <fedora-trans-de@redhat.com> | 
- | [php-gettext]({{< ref "/f11/package/php-gettext.md" >}}) | 18 | 18 | 100.0 |  | 
- | [publican-fedora]({{< ref "/f11/package/publican-fedora.md" >}}) | 107 | 107 | 100.0 | <de@li.org> | 
- | [pykickstart]({{< ref "/f11/package/pykickstart.md" >}}) | 284 | 284 | 100.0 | German <fedora-trans-de@redhat.com> | 
- | [sectool]({{< ref "/f11/package/sectool.md" >}}) | 2411 | 2411 | 100.0 | German <fedora-trans-de@redhat.com> | 
- | [system-config-samba]({{< ref "/f11/package/system-config-samba.md" >}}) | 415 | 422 | 98.3 | German <fedora-trans-de@redhat.com> | 
- | [nfoview]({{< ref "/f11/package/nfoview.md" >}}) | 97 | 109 | 89.0 | German <fedora-trans-de@redhat.com> | 
- | [liblicense]({{< ref "/f11/package/liblicense.md" >}}) | 45 | 66 | 68.2 | LANGUAGE <LL@li.org> | 
- | [sos]({{< ref "/f11/package/sos.md" >}}) | 174 | 267 | 65.2 | German <fedora-trans-de@redhat.com> | 
- | [publican]({{< ref "/f11/package/publican.md" >}}) | 370 | 851 | 43.5 | <fedora-trans-de@redhat.com> | 
- | [pgadmin3]({{< ref "/f11/package/pgadmin3.md" >}}) | 2152 | 9006 | 23.9 | pgAdmin Developers <pgadmin-hackers@postgresql.org> | 
- | [gnomebaker]({{< ref "/f11/package/gnomebaker.md" >}}) | 271 | 1186 | 22.8 | German (Switzerland) <de_CH@li.org> | 
- | [fuse-encfs]({{< ref "/f11/package/fuse-encfs.md" >}}) | 265 | 1311 | 20.2 | German (Switzerland) <de_CH@li.org> | 
- | [vidalia]({{< ref "/f11/package/vidalia.md" >}}) | 0 | 2730 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [anaconda](/f11/package/anaconda) | 8997 | 8997 | 100.0 | German <fedora-trans-de@redhat.com> | 
+ | [iok](/f11/package/iok) | 134 | 134 | 100.0 | German <fedora-trans-de@redhat.com> | 
+ | [php-gettext](/f11/package/php-gettext) | 18 | 18 | 100.0 |  | 
+ | [publican-fedora](/f11/package/publican-fedora) | 107 | 107 | 100.0 | <de@li.org> | 
+ | [pykickstart](/f11/package/pykickstart) | 284 | 284 | 100.0 | German <fedora-trans-de@redhat.com> | 
+ | [sectool](/f11/package/sectool) | 2411 | 2411 | 100.0 | German <fedora-trans-de@redhat.com> | 
+ | [system-config-samba](/f11/package/system-config-samba) | 415 | 422 | 98.3 | German <fedora-trans-de@redhat.com> | 
+ | [nfoview](/f11/package/nfoview) | 97 | 109 | 89.0 | German <fedora-trans-de@redhat.com> | 
+ | [liblicense](/f11/package/liblicense) | 45 | 66 | 68.2 | LANGUAGE <LL@li.org> | 
+ | [sos](/f11/package/sos) | 174 | 267 | 65.2 | German <fedora-trans-de@redhat.com> | 
+ | [publican](/f11/package/publican) | 370 | 851 | 43.5 | <fedora-trans-de@redhat.com> | 
+ | [pgadmin3](/f11/package/pgadmin3) | 2152 | 9006 | 23.9 | pgAdmin Developers <pgadmin-hackers@postgresql.org> | 
+ | [gnomebaker](/f11/package/gnomebaker) | 271 | 1186 | 22.8 | German (Switzerland) <de_CH@li.org> | 
+ | [fuse-encfs](/f11/package/fuse-encfs) | 265 | 1311 | 20.2 | German (Switzerland) <de_CH@li.org> | 
+ | [vidalia](/f11/package/vidalia) | 0 | 2730 | 0.0 | LANGUAGE <LL@li.org> | 
 {.sortable}
 
 
@@ -64,7 +64,7 @@ We use the po metadata to get the language code and the team, but sometimes it f
 
 | Package | Lang from file path/name | polib error | Team |
 |---------|--------------------------|-------------|------|
- | [php-gettext]({{< ref "/f11/package/php-gettext.md" >}}) | /mnt/stockage/packages/f11/php-gettext/examples/locale/de_CH/LC_MESSAGES/messages.po | error-os |  | 
+ | [php-gettext](/f11/package/php-gettext) | /mnt/stockage/packages/f11/php-gettext/examples/locale/de_CH/LC_MESSAGES/messages.po | error-os |  | 
 {.sortable}
 
 

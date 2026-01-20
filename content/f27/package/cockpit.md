@@ -18,27 +18,27 @@ The package cockpit (version 166):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [pl]({{< ref "/f27/language/pl.md" >}}) | 7468 | 7647 | 97.7 | /mnt/stockage/packages/f27/cockpit/po/pl.po | 
- | [uk]({{< ref "/f27/language/uk.md" >}}) | 7468 | 7647 | 97.7 | /mnt/stockage/packages/f27/cockpit/po/uk.po | 
- | [ja]({{< ref "/f27/language/ja.md" >}}) | 7318 | 7647 | 95.7 | /mnt/stockage/packages/f27/cockpit/po/ja.po | 
- | [es]({{< ref "/f27/language/es.md" >}}) | 6691 | 7647 | 87.5 | /mnt/stockage/packages/f27/cockpit/po/es.po | 
- | [zh_Hans]({{< ref "/f27/language/zh_Hans.md" >}}) | 6616 | 7648 | 86.5 | /mnt/stockage/packages/f27/cockpit/po/zh_CN.po/mnt/stockage/packages/f27/cockpit/src/common/mock-locale/zh_CN/LC_MESSAGES/test.po | 
- | [pt_BR]({{< ref "/f27/language/pt_BR.md" >}}) | 5876 | 7647 | 76.8 | /mnt/stockage/packages/f27/cockpit/po/pt_BR.po | 
- | [ca]({{< ref "/f27/language/ca.md" >}}) | 5788 | 7647 | 75.7 | /mnt/stockage/packages/f27/cockpit/po/ca.po | 
- | [fi]({{< ref "/f27/language/fi.md" >}}) | 3769 | 7647 | 49.3 | /mnt/stockage/packages/f27/cockpit/po/fi.po | 
- | [de]({{< ref "/f27/language/de.md" >}}) | 2906 | 7652 | 38.0 | /mnt/stockage/packages/f27/cockpit/dist/playground/extra.de.po/mnt/stockage/packages/f27/cockpit/pkg/playground/extra.de.po/mnt/stockage/packages/f27/cockpit/po/de.po/mnt/stockage/packages/f27/cockpit/src/common/mock-locale/de_DE/LC_MESSAGES/test.po | 
- | [cs]({{< ref "/f27/language/cs.md" >}}) | 1582 | 7647 | 20.7 | /mnt/stockage/packages/f27/cockpit/po/cs.po | 
- | [fr]({{< ref "/f27/language/fr.md" >}}) | 1570 | 7647 | 20.5 | /mnt/stockage/packages/f27/cockpit/po/fr.po | 
- | [tr]({{< ref "/f27/language/tr.md" >}}) | 870 | 7647 | 11.4 | /mnt/stockage/packages/f27/cockpit/po/tr.po | 
- | [ko]({{< ref "/f27/language/ko.md" >}}) | 648 | 7647 | 8.5 | /mnt/stockage/packages/f27/cockpit/po/ko.po | 
- | [hr]({{< ref "/f27/language/hr.md" >}}) | 521 | 7647 | 6.8 | /mnt/stockage/packages/f27/cockpit/po/hr.po | 
- | [pa]({{< ref "/f27/language/pa.md" >}}) | 462 | 7647 | 6.0 | /mnt/stockage/packages/f27/cockpit/po/pa.po | 
- | [nl]({{< ref "/f27/language/nl.md" >}}) | 391 | 7647 | 5.1 | /mnt/stockage/packages/f27/cockpit/po/nl.po | 
- | [hu]({{< ref "/f27/language/hu.md" >}}) | 210 | 7647 | 2.7 | /mnt/stockage/packages/f27/cockpit/po/hu.po | 
- | [pt]({{< ref "/f27/language/pt.md" >}}) | 171 | 7647 | 2.2 | /mnt/stockage/packages/f27/cockpit/po/pt.po | 
- | [my]({{< ref "/f27/language/my.md" >}}) | 132 | 7647 | 1.7 | /mnt/stockage/packages/f27/cockpit/po/my.po | 
- | [eu]({{< ref "/f27/language/eu.md" >}}) | 49 | 7647 | 0.6 | /mnt/stockage/packages/f27/cockpit/po/eu.po | 
- | [da]({{< ref "/f27/language/da.md" >}}) | 6 | 5733 | 0.1 | /mnt/stockage/packages/f27/cockpit/po/da.po | 
+ | [pl](/f27/language/pl) | 7468 | 7647 | 97.7 | /mnt/stockage/packages/f27/cockpit/po/pl.po | 
+ | [uk](/f27/language/uk) | 7468 | 7647 | 97.7 | /mnt/stockage/packages/f27/cockpit/po/uk.po | 
+ | [ja](/f27/language/ja) | 7318 | 7647 | 95.7 | /mnt/stockage/packages/f27/cockpit/po/ja.po | 
+ | [es](/f27/language/es) | 6691 | 7647 | 87.5 | /mnt/stockage/packages/f27/cockpit/po/es.po | 
+ | [zh_Hans](/f27/language/zh_Hans) | 6616 | 7648 | 86.5 | /mnt/stockage/packages/f27/cockpit/po/zh_CN.po/mnt/stockage/packages/f27/cockpit/src/common/mock-locale/zh_CN/LC_MESSAGES/test.po | 
+ | [pt_BR](/f27/language/pt_BR) | 5876 | 7647 | 76.8 | /mnt/stockage/packages/f27/cockpit/po/pt_BR.po | 
+ | [ca](/f27/language/ca) | 5788 | 7647 | 75.7 | /mnt/stockage/packages/f27/cockpit/po/ca.po | 
+ | [fi](/f27/language/fi) | 3769 | 7647 | 49.3 | /mnt/stockage/packages/f27/cockpit/po/fi.po | 
+ | [de](/f27/language/de) | 2906 | 7652 | 38.0 | /mnt/stockage/packages/f27/cockpit/dist/playground/extra.de.po/mnt/stockage/packages/f27/cockpit/pkg/playground/extra.de.po/mnt/stockage/packages/f27/cockpit/po/de.po/mnt/stockage/packages/f27/cockpit/src/common/mock-locale/de_DE/LC_MESSAGES/test.po | 
+ | [cs](/f27/language/cs) | 1582 | 7647 | 20.7 | /mnt/stockage/packages/f27/cockpit/po/cs.po | 
+ | [fr](/f27/language/fr) | 1570 | 7647 | 20.5 | /mnt/stockage/packages/f27/cockpit/po/fr.po | 
+ | [tr](/f27/language/tr) | 870 | 7647 | 11.4 | /mnt/stockage/packages/f27/cockpit/po/tr.po | 
+ | [ko](/f27/language/ko) | 648 | 7647 | 8.5 | /mnt/stockage/packages/f27/cockpit/po/ko.po | 
+ | [hr](/f27/language/hr) | 521 | 7647 | 6.8 | /mnt/stockage/packages/f27/cockpit/po/hr.po | 
+ | [pa](/f27/language/pa) | 462 | 7647 | 6.0 | /mnt/stockage/packages/f27/cockpit/po/pa.po | 
+ | [nl](/f27/language/nl) | 391 | 7647 | 5.1 | /mnt/stockage/packages/f27/cockpit/po/nl.po | 
+ | [hu](/f27/language/hu) | 210 | 7647 | 2.7 | /mnt/stockage/packages/f27/cockpit/po/hu.po | 
+ | [pt](/f27/language/pt) | 171 | 7647 | 2.2 | /mnt/stockage/packages/f27/cockpit/po/pt.po | 
+ | [my](/f27/language/my) | 132 | 7647 | 1.7 | /mnt/stockage/packages/f27/cockpit/po/my.po | 
+ | [eu](/f27/language/eu) | 49 | 7647 | 0.6 | /mnt/stockage/packages/f27/cockpit/po/eu.po | 
+ | [da](/f27/language/da) | 6 | 5733 | 0.1 | /mnt/stockage/packages/f27/cockpit/po/da.po | 
 {.sortable}
 
 

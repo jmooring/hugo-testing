@@ -18,15 +18,15 @@ The package vdr-osdteletext (version 0.9.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f15/language/de.md" >}}) | 44 | 44 | 100.0 | /mnt/stockage/packages/f15/vdr-osdteletext/po/de_DE.po | 
- | [fi]({{< ref "/f15/language/fi.md" >}}) | 44 | 44 | 100.0 | /mnt/stockage/packages/f15/vdr-osdteletext/po/fi_FI.po | 
- | [fr]({{< ref "/f15/language/fr.md" >}}) | 41 | 44 | 93.2 | /mnt/stockage/packages/f15/vdr-osdteletext/po/fr_FR.po | 
- | [it]({{< ref "/f15/language/it.md" >}}) | 41 | 44 | 93.2 | /mnt/stockage/packages/f15/vdr-osdteletext/po/it_IT.po | 
- | [pt]({{< ref "/f15/language/pt.md" >}}) | 41 | 44 | 93.2 | /mnt/stockage/packages/f15/vdr-osdteletext/po/pt_PT.po | 
- | [uk]({{< ref "/f15/language/uk.md" >}}) | 41 | 44 | 93.2 | /mnt/stockage/packages/f15/vdr-osdteletext/po/uk_UA.po | 
- | [ru]({{< ref "/f15/language/ru.md" >}}) | 40 | 44 | 90.9 | /mnt/stockage/packages/f15/vdr-osdteletext/po/ru_RU.po | 
- | [ca]({{< ref "/f15/language/ca.md" >}}) | 33 | 44 | 75.0 | /mnt/stockage/packages/f15/vdr-osdteletext/po/ca_ES.po | 
- | [es]({{< ref "/f15/language/es.md" >}}) | 31 | 44 | 70.5 | /mnt/stockage/packages/f15/vdr-osdteletext/po/es_ES.po | 
+ | [de](/f15/language/de) | 44 | 44 | 100.0 | /mnt/stockage/packages/f15/vdr-osdteletext/po/de_DE.po | 
+ | [fi](/f15/language/fi) | 44 | 44 | 100.0 | /mnt/stockage/packages/f15/vdr-osdteletext/po/fi_FI.po | 
+ | [fr](/f15/language/fr) | 41 | 44 | 93.2 | /mnt/stockage/packages/f15/vdr-osdteletext/po/fr_FR.po | 
+ | [it](/f15/language/it) | 41 | 44 | 93.2 | /mnt/stockage/packages/f15/vdr-osdteletext/po/it_IT.po | 
+ | [pt](/f15/language/pt) | 41 | 44 | 93.2 | /mnt/stockage/packages/f15/vdr-osdteletext/po/pt_PT.po | 
+ | [uk](/f15/language/uk) | 41 | 44 | 93.2 | /mnt/stockage/packages/f15/vdr-osdteletext/po/uk_UA.po | 
+ | [ru](/f15/language/ru) | 40 | 44 | 90.9 | /mnt/stockage/packages/f15/vdr-osdteletext/po/ru_RU.po | 
+ | [ca](/f15/language/ca) | 33 | 44 | 75.0 | /mnt/stockage/packages/f15/vdr-osdteletext/po/ca_ES.po | 
+ | [es](/f15/language/es) | 31 | 44 | 70.5 | /mnt/stockage/packages/f15/vdr-osdteletext/po/es_ES.po | 
 {.sortable}
 
 

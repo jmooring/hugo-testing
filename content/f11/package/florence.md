@@ -18,7 +18,7 @@ The package florence (version 0.4.6):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f11/language/fr.md" >}}) | 4800 | 4800 | 100.0 | /mnt/stockage/packages/f11/florence/docs/fr/fr.po/mnt/stockage/packages/f11/florence/po/fr.po | 
+ | [fr](/f11/language/fr) | 4800 | 4800 | 100.0 | /mnt/stockage/packages/f11/florence/docs/fr/fr.po/mnt/stockage/packages/f11/florence/po/fr.po | 
 {.sortable}
 
 

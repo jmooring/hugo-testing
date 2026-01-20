@@ -18,20 +18,20 @@ The package gcl (version 2.6.12):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f27/language/cs.md" >}}) | 177 | 177 | 100.0 | /mnt/stockage/packages/f27/gcl/debian/po/cs.po | 
- | [da]({{< ref "/f27/language/da.md" >}}) | 177 | 177 | 100.0 | /mnt/stockage/packages/f27/gcl/debian/po/da.po | 
- | [de]({{< ref "/f27/language/de.md" >}}) | 177 | 177 | 100.0 | /mnt/stockage/packages/f27/gcl/debian/po/de.po | 
- | [es]({{< ref "/f27/language/es.md" >}}) | 177 | 177 | 100.0 | /mnt/stockage/packages/f27/gcl/debian/po/es.po | 
- | [fi]({{< ref "/f27/language/fi.md" >}}) | 177 | 177 | 100.0 | /mnt/stockage/packages/f27/gcl/debian/po/fi.po | 
- | [fr]({{< ref "/f27/language/fr.md" >}}) | 177 | 177 | 100.0 | /mnt/stockage/packages/f27/gcl/debian/po/fr.po | 
- | [gl]({{< ref "/f27/language/gl.md" >}}) | 177 | 177 | 100.0 | /mnt/stockage/packages/f27/gcl/debian/po/gl.po | 
- | [it]({{< ref "/f27/language/it.md" >}}) | 177 | 177 | 100.0 | /mnt/stockage/packages/f27/gcl/debian/po/it.po | 
- | [ja]({{< ref "/f27/language/ja.md" >}}) | 177 | 177 | 100.0 | /mnt/stockage/packages/f27/gcl/debian/po/ja.po | 
- | [nl]({{< ref "/f27/language/nl.md" >}}) | 177 | 177 | 100.0 | /mnt/stockage/packages/f27/gcl/debian/po/nl.po | 
- | [pt]({{< ref "/f27/language/pt.md" >}}) | 177 | 177 | 100.0 | /mnt/stockage/packages/f27/gcl/debian/po/pt.po | 
- | [ru]({{< ref "/f27/language/ru.md" >}}) | 177 | 177 | 100.0 | /mnt/stockage/packages/f27/gcl/debian/po/ru.po | 
- | [sv]({{< ref "/f27/language/sv.md" >}}) | 177 | 177 | 100.0 | /mnt/stockage/packages/f27/gcl/debian/po/sv.po | 
- | [vi]({{< ref "/f27/language/vi.md" >}}) | 177 | 177 | 100.0 | /mnt/stockage/packages/f27/gcl/debian/po/vi.po | 
+ | [cs](/f27/language/cs) | 177 | 177 | 100.0 | /mnt/stockage/packages/f27/gcl/debian/po/cs.po | 
+ | [da](/f27/language/da) | 177 | 177 | 100.0 | /mnt/stockage/packages/f27/gcl/debian/po/da.po | 
+ | [de](/f27/language/de) | 177 | 177 | 100.0 | /mnt/stockage/packages/f27/gcl/debian/po/de.po | 
+ | [es](/f27/language/es) | 177 | 177 | 100.0 | /mnt/stockage/packages/f27/gcl/debian/po/es.po | 
+ | [fi](/f27/language/fi) | 177 | 177 | 100.0 | /mnt/stockage/packages/f27/gcl/debian/po/fi.po | 
+ | [fr](/f27/language/fr) | 177 | 177 | 100.0 | /mnt/stockage/packages/f27/gcl/debian/po/fr.po | 
+ | [gl](/f27/language/gl) | 177 | 177 | 100.0 | /mnt/stockage/packages/f27/gcl/debian/po/gl.po | 
+ | [it](/f27/language/it) | 177 | 177 | 100.0 | /mnt/stockage/packages/f27/gcl/debian/po/it.po | 
+ | [ja](/f27/language/ja) | 177 | 177 | 100.0 | /mnt/stockage/packages/f27/gcl/debian/po/ja.po | 
+ | [nl](/f27/language/nl) | 177 | 177 | 100.0 | /mnt/stockage/packages/f27/gcl/debian/po/nl.po | 
+ | [pt](/f27/language/pt) | 177 | 177 | 100.0 | /mnt/stockage/packages/f27/gcl/debian/po/pt.po | 
+ | [ru](/f27/language/ru) | 177 | 177 | 100.0 | /mnt/stockage/packages/f27/gcl/debian/po/ru.po | 
+ | [sv](/f27/language/sv) | 177 | 177 | 100.0 | /mnt/stockage/packages/f27/gcl/debian/po/sv.po | 
+ | [vi](/f27/language/vi) | 177 | 177 | 100.0 | /mnt/stockage/packages/f27/gcl/debian/po/vi.po | 
 {.sortable}
 
 

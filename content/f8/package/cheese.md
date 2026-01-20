@@ -18,17 +18,17 @@ The package cheese (version 0.2.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f8/language/cs.md" >}}) | 98 | 98 | 100.0 | /mnt/stockage/packages/f8/cheese/po/cs.po | 
- | [da]({{< ref "/f8/language/da.md" >}}) | 98 | 98 | 100.0 | /mnt/stockage/packages/f8/cheese/po/da.po | 
- | [de]({{< ref "/f8/language/de.md" >}}) | 98 | 98 | 100.0 | /mnt/stockage/packages/f8/cheese/po/de.po | 
- | [es]({{< ref "/f8/language/es.md" >}}) | 98 | 98 | 100.0 | /mnt/stockage/packages/f8/cheese/po/es.po | 
- | [fr]({{< ref "/f8/language/fr.md" >}}) | 98 | 98 | 100.0 | /mnt/stockage/packages/f8/cheese/po/fr.po | 
- | [gl]({{< ref "/f8/language/gl.md" >}}) | 98 | 98 | 100.0 | /mnt/stockage/packages/f8/cheese/po/gl.po | 
- | [it]({{< ref "/f8/language/it.md" >}}) | 98 | 98 | 100.0 | /mnt/stockage/packages/f8/cheese/po/it.po | 
- | [ja]({{< ref "/f8/language/ja.md" >}}) | 98 | 98 | 100.0 | /mnt/stockage/packages/f8/cheese/po/ja.po | 
- | [nl]({{< ref "/f8/language/nl.md" >}}) | 98 | 98 | 100.0 | /mnt/stockage/packages/f8/cheese/po/nl.po | 
- | [pl]({{< ref "/f8/language/pl.md" >}}) | 98 | 98 | 100.0 | /mnt/stockage/packages/f8/cheese/po/pl.po | 
- | [pt]({{< ref "/f8/language/pt.md" >}}) | 98 | 98 | 100.0 | /mnt/stockage/packages/f8/cheese/po/pt.po | 
+ | [cs](/f8/language/cs) | 98 | 98 | 100.0 | /mnt/stockage/packages/f8/cheese/po/cs.po | 
+ | [da](/f8/language/da) | 98 | 98 | 100.0 | /mnt/stockage/packages/f8/cheese/po/da.po | 
+ | [de](/f8/language/de) | 98 | 98 | 100.0 | /mnt/stockage/packages/f8/cheese/po/de.po | 
+ | [es](/f8/language/es) | 98 | 98 | 100.0 | /mnt/stockage/packages/f8/cheese/po/es.po | 
+ | [fr](/f8/language/fr) | 98 | 98 | 100.0 | /mnt/stockage/packages/f8/cheese/po/fr.po | 
+ | [gl](/f8/language/gl) | 98 | 98 | 100.0 | /mnt/stockage/packages/f8/cheese/po/gl.po | 
+ | [it](/f8/language/it) | 98 | 98 | 100.0 | /mnt/stockage/packages/f8/cheese/po/it.po | 
+ | [ja](/f8/language/ja) | 98 | 98 | 100.0 | /mnt/stockage/packages/f8/cheese/po/ja.po | 
+ | [nl](/f8/language/nl) | 98 | 98 | 100.0 | /mnt/stockage/packages/f8/cheese/po/nl.po | 
+ | [pl](/f8/language/pl) | 98 | 98 | 100.0 | /mnt/stockage/packages/f8/cheese/po/pl.po | 
+ | [pt](/f8/language/pt) | 98 | 98 | 100.0 | /mnt/stockage/packages/f8/cheese/po/pt.po | 
 {.sortable}
 
 

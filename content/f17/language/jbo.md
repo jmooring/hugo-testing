@@ -38,8 +38,8 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [gtg]({{< ref "/f17/package/gtg.md" >}}) | 2 | 1780 | 0.1 | Lojban <jbo@li.org> | 
- | [pychess]({{< ref "/f17/package/pychess.md" >}}) | 2 | 3091 | 0.1 | Lojban <jbo@li.org> | 
+ | [gtg](/f17/package/gtg) | 2 | 1780 | 0.1 | Lojban <jbo@li.org> | 
+ | [pychess](/f17/package/pychess) | 2 | 3091 | 0.1 | Lojban <jbo@li.org> | 
 {.sortable}
 
 

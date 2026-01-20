@@ -18,13 +18,13 @@ The package exiv2 (version 0.23):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f19/language/de.md" >}}) | 14239 | 27158 | 52.4 | /mnt/stockage/packages/f19/exiv2/po/de.po | 
- | [pl]({{< ref "/f19/language/pl.md" >}}) | 13412 | 27158 | 49.4 | /mnt/stockage/packages/f19/exiv2/po/pl.po | 
- | [sk]({{< ref "/f19/language/sk.md" >}}) | 9923 | 27158 | 36.5 | /mnt/stockage/packages/f19/exiv2/po/sk.po | 
- | [fr]({{< ref "/f19/language/fr.md" >}}) | 5071 | 27158 | 18.7 | /mnt/stockage/packages/f19/exiv2/po/fr.po | 
- | [es]({{< ref "/f19/language/es.md" >}}) | 3936 | 27158 | 14.5 | /mnt/stockage/packages/f19/exiv2/po/es.po | 
- | [ru]({{< ref "/f19/language/ru.md" >}}) | 3836 | 27158 | 14.1 | /mnt/stockage/packages/f19/exiv2/po/ru.po | 
- | [fi]({{< ref "/f19/language/fi.md" >}}) | 850 | 27158 | 3.1 | /mnt/stockage/packages/f19/exiv2/po/fi.po | 
+ | [de](/f19/language/de) | 14239 | 27158 | 52.4 | /mnt/stockage/packages/f19/exiv2/po/de.po | 
+ | [pl](/f19/language/pl) | 13412 | 27158 | 49.4 | /mnt/stockage/packages/f19/exiv2/po/pl.po | 
+ | [sk](/f19/language/sk) | 9923 | 27158 | 36.5 | /mnt/stockage/packages/f19/exiv2/po/sk.po | 
+ | [fr](/f19/language/fr) | 5071 | 27158 | 18.7 | /mnt/stockage/packages/f19/exiv2/po/fr.po | 
+ | [es](/f19/language/es) | 3936 | 27158 | 14.5 | /mnt/stockage/packages/f19/exiv2/po/es.po | 
+ | [ru](/f19/language/ru) | 3836 | 27158 | 14.1 | /mnt/stockage/packages/f19/exiv2/po/ru.po | 
+ | [fi](/f19/language/fi) | 850 | 27158 | 3.1 | /mnt/stockage/packages/f19/exiv2/po/fi.po | 
 {.sortable}
 
 

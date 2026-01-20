@@ -18,8 +18,8 @@ The package Pencil2D (version 0.7.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f41/language/cs.md" >}}) | 7 | 7 | 100.0 | /mnt/stockage/packages/f41/Pencil2D/app/translations/mui_cs.po | 
- | [de]({{< ref "/f41/language/de.md" >}}) | 7 | 7 | 100.0 | /mnt/stockage/packages/f41/Pencil2D/app/translations/mui_de.po | 
+ | [cs](/f41/language/cs) | 7 | 7 | 100.0 | /mnt/stockage/packages/f41/Pencil2D/app/translations/mui_cs.po | 
+ | [de](/f41/language/de) | 7 | 7 | 100.0 | /mnt/stockage/packages/f41/Pencil2D/app/translations/mui_de.po | 
 {.sortable}
 
 

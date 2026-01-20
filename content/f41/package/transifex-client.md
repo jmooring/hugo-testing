@@ -18,10 +18,10 @@ The package transifex-client (version 1.6.17):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [el]({{< ref "/f41/language/el.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f41/transifex-client/examples/exampleconf/locale/el/ui.po | 
- | [fr]({{< ref "/f41/language/fr.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f41/transifex-client/examples/exampleconf/locale/fr/ui.po | 
- | [fr_CA]({{< ref "/f41/language/fr_CA.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f41/transifex-client/examples/exampleconf/locale/other/fr_ca/ui.po | 
- | [pt_PT]({{< ref "/f41/language/pt_PT.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f41/transifex-client/examples/exampleconf/locale/other/pt_PT/ui.po | 
+ | [el](/f41/language/el) | 0 | 0 | 0.0 | /mnt/stockage/packages/f41/transifex-client/examples/exampleconf/locale/el/ui.po | 
+ | [fr](/f41/language/fr) | 0 | 0 | 0.0 | /mnt/stockage/packages/f41/transifex-client/examples/exampleconf/locale/fr/ui.po | 
+ | [fr_CA](/f41/language/fr_CA) | 0 | 0 | 0.0 | /mnt/stockage/packages/f41/transifex-client/examples/exampleconf/locale/other/fr_ca/ui.po | 
+ | [pt_PT](/f41/language/pt_PT) | 0 | 0 | 0.0 | /mnt/stockage/packages/f41/transifex-client/examples/exampleconf/locale/other/pt_PT/ui.po | 
 {.sortable}
 
 

@@ -38,7 +38,7 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [transmission]({{< ref "/f13/package/transmission.md" >}}) | 259 | 1642 | 15.8 | Aragonese <an@li.org> | 
+ | [transmission](/f13/package/transmission) | 259 | 1642 | 15.8 | Aragonese <an@li.org> | 
 {.sortable}
 
 

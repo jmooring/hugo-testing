@@ -18,35 +18,35 @@ The package tsclient (version 0.150):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [es]({{< ref "/f8/language/es.md" >}}) | 528 | 528 | 100.0 | /mnt/stockage/packages/f8/tsclient/po/es.po | 
- | [fr]({{< ref "/f8/language/fr.md" >}}) | 528 | 528 | 100.0 | /mnt/stockage/packages/f8/tsclient/po/fr.po | 
- | [he]({{< ref "/f8/language/he.md" >}}) | 486 | 486 | 100.0 | /mnt/stockage/packages/f8/tsclient/po/he.po | 
- | [hu]({{< ref "/f8/language/hu.md" >}}) | 528 | 528 | 100.0 | /mnt/stockage/packages/f8/tsclient/po/hu.po | 
- | [nb_NO]({{< ref "/f8/language/nb_NO.md" >}}) | 528 | 528 | 100.0 | /mnt/stockage/packages/f8/tsclient/po/nb.po | 
- | [pt_BR]({{< ref "/f8/language/pt_BR.md" >}}) | 528 | 528 | 100.0 | /mnt/stockage/packages/f8/tsclient/po/pt_BR.po | 
- | [sv]({{< ref "/f8/language/sv.md" >}}) | 487 | 487 | 100.0 | /mnt/stockage/packages/f8/tsclient/po/sv.po | 
- | [zh_Hant_HK]({{< ref "/f8/language/zh_Hant_HK.md" >}}) | 487 | 487 | 100.0 | /mnt/stockage/packages/f8/tsclient/po/zh_HK.po | 
- | [cs]({{< ref "/f8/language/cs.md" >}}) | 486 | 487 | 99.8 | /mnt/stockage/packages/f8/tsclient/po/cs.po | 
- | [pa]({{< ref "/f8/language/pa.md" >}}) | 486 | 487 | 99.8 | /mnt/stockage/packages/f8/tsclient/po/pa.po | 
- | [tr]({{< ref "/f8/language/tr.md" >}}) | 486 | 487 | 99.8 | /mnt/stockage/packages/f8/tsclient/po/tr.po | 
- | [da]({{< ref "/f8/language/da.md" >}}) | 512 | 528 | 97.0 | /mnt/stockage/packages/f8/tsclient/po/da.po | 
- | [ja]({{< ref "/f8/language/ja.md" >}}) | 470 | 487 | 96.5 | /mnt/stockage/packages/f8/tsclient/po/ja.po | 
- | [mk]({{< ref "/f8/language/mk.md" >}}) | 470 | 487 | 96.5 | /mnt/stockage/packages/f8/tsclient/po/mk.po | 
- | [zh_Hant]({{< ref "/f8/language/zh_Hant.md" >}}) | 470 | 487 | 96.5 | /mnt/stockage/packages/f8/tsclient/po/zh_TW.po | 
- | [ca]({{< ref "/f8/language/ca.md" >}}) | 468 | 487 | 96.1 | /mnt/stockage/packages/f8/tsclient/po/ca.po | 
- | [de]({{< ref "/f8/language/de.md" >}}) | 440 | 487 | 90.3 | /mnt/stockage/packages/f8/tsclient/po/de.po | 
- | [it]({{< ref "/f8/language/it.md" >}}) | 440 | 487 | 90.3 | /mnt/stockage/packages/f8/tsclient/po/it.po | 
- | [ms]({{< ref "/f8/language/ms.md" >}}) | 440 | 487 | 90.3 | /mnt/stockage/packages/f8/tsclient/po/ms.po | 
- | [ru]({{< ref "/f8/language/ru.md" >}}) | 440 | 487 | 90.3 | /mnt/stockage/packages/f8/tsclient/po/ru.po | 
- | [xh]({{< ref "/f8/language/xh.md" >}}) | 440 | 487 | 90.3 | /mnt/stockage/packages/f8/tsclient/po/xh.po | 
- | [id]({{< ref "/f8/language/id.md" >}}) | 421 | 487 | 86.4 | /mnt/stockage/packages/f8/tsclient/po/id.po | 
- | [pl]({{< ref "/f8/language/pl.md" >}}) | 414 | 487 | 85.0 | /mnt/stockage/packages/f8/tsclient/po/pl_PL.po | 
- | [pt_PT]({{< ref "/f8/language/pt_PT.md" >}}) | 408 | 487 | 83.8 | /mnt/stockage/packages/f8/tsclient/po/pt_PT.po | 
- | [zh_Hans]({{< ref "/f8/language/zh_Hans.md" >}}) | 390 | 487 | 80.1 | /mnt/stockage/packages/f8/tsclient/po/zh_CN.po | 
- | [el]({{< ref "/f8/language/el.md" >}}) | 752 | 974 | 77.2 | /mnt/stockage/packages/f8/tsclient/po/gr.po/mnt/stockage/packages/f8/tsclient/po/el.po | 
- | [ar]({{< ref "/f8/language/ar.md" >}}) | 274 | 487 | 56.3 | /mnt/stockage/packages/f8/tsclient/po/ar.po | 
- | [fi]({{< ref "/f8/language/fi.md" >}}) | 240 | 487 | 49.3 | /mnt/stockage/packages/f8/tsclient/po/fi.po | 
- | [nl]({{< ref "/f8/language/nl.md" >}}) | 240 | 487 | 49.3 | /mnt/stockage/packages/f8/tsclient/po/nl_NL.po | 
+ | [es](/f8/language/es) | 528 | 528 | 100.0 | /mnt/stockage/packages/f8/tsclient/po/es.po | 
+ | [fr](/f8/language/fr) | 528 | 528 | 100.0 | /mnt/stockage/packages/f8/tsclient/po/fr.po | 
+ | [he](/f8/language/he) | 486 | 486 | 100.0 | /mnt/stockage/packages/f8/tsclient/po/he.po | 
+ | [hu](/f8/language/hu) | 528 | 528 | 100.0 | /mnt/stockage/packages/f8/tsclient/po/hu.po | 
+ | [nb_NO](/f8/language/nb_NO) | 528 | 528 | 100.0 | /mnt/stockage/packages/f8/tsclient/po/nb.po | 
+ | [pt_BR](/f8/language/pt_BR) | 528 | 528 | 100.0 | /mnt/stockage/packages/f8/tsclient/po/pt_BR.po | 
+ | [sv](/f8/language/sv) | 487 | 487 | 100.0 | /mnt/stockage/packages/f8/tsclient/po/sv.po | 
+ | [zh_Hant_HK](/f8/language/zh_Hant_HK) | 487 | 487 | 100.0 | /mnt/stockage/packages/f8/tsclient/po/zh_HK.po | 
+ | [cs](/f8/language/cs) | 486 | 487 | 99.8 | /mnt/stockage/packages/f8/tsclient/po/cs.po | 
+ | [pa](/f8/language/pa) | 486 | 487 | 99.8 | /mnt/stockage/packages/f8/tsclient/po/pa.po | 
+ | [tr](/f8/language/tr) | 486 | 487 | 99.8 | /mnt/stockage/packages/f8/tsclient/po/tr.po | 
+ | [da](/f8/language/da) | 512 | 528 | 97.0 | /mnt/stockage/packages/f8/tsclient/po/da.po | 
+ | [ja](/f8/language/ja) | 470 | 487 | 96.5 | /mnt/stockage/packages/f8/tsclient/po/ja.po | 
+ | [mk](/f8/language/mk) | 470 | 487 | 96.5 | /mnt/stockage/packages/f8/tsclient/po/mk.po | 
+ | [zh_Hant](/f8/language/zh_Hant) | 470 | 487 | 96.5 | /mnt/stockage/packages/f8/tsclient/po/zh_TW.po | 
+ | [ca](/f8/language/ca) | 468 | 487 | 96.1 | /mnt/stockage/packages/f8/tsclient/po/ca.po | 
+ | [de](/f8/language/de) | 440 | 487 | 90.3 | /mnt/stockage/packages/f8/tsclient/po/de.po | 
+ | [it](/f8/language/it) | 440 | 487 | 90.3 | /mnt/stockage/packages/f8/tsclient/po/it.po | 
+ | [ms](/f8/language/ms) | 440 | 487 | 90.3 | /mnt/stockage/packages/f8/tsclient/po/ms.po | 
+ | [ru](/f8/language/ru) | 440 | 487 | 90.3 | /mnt/stockage/packages/f8/tsclient/po/ru.po | 
+ | [xh](/f8/language/xh) | 440 | 487 | 90.3 | /mnt/stockage/packages/f8/tsclient/po/xh.po | 
+ | [id](/f8/language/id) | 421 | 487 | 86.4 | /mnt/stockage/packages/f8/tsclient/po/id.po | 
+ | [pl](/f8/language/pl) | 414 | 487 | 85.0 | /mnt/stockage/packages/f8/tsclient/po/pl_PL.po | 
+ | [pt_PT](/f8/language/pt_PT) | 408 | 487 | 83.8 | /mnt/stockage/packages/f8/tsclient/po/pt_PT.po | 
+ | [zh_Hans](/f8/language/zh_Hans) | 390 | 487 | 80.1 | /mnt/stockage/packages/f8/tsclient/po/zh_CN.po | 
+ | [el](/f8/language/el) | 752 | 974 | 77.2 | /mnt/stockage/packages/f8/tsclient/po/gr.po/mnt/stockage/packages/f8/tsclient/po/el.po | 
+ | [ar](/f8/language/ar) | 274 | 487 | 56.3 | /mnt/stockage/packages/f8/tsclient/po/ar.po | 
+ | [fi](/f8/language/fi) | 240 | 487 | 49.3 | /mnt/stockage/packages/f8/tsclient/po/fi.po | 
+ | [nl](/f8/language/nl) | 240 | 487 | 49.3 | /mnt/stockage/packages/f8/tsclient/po/nl_NL.po | 
 {.sortable}
 
 

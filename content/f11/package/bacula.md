@@ -18,13 +18,13 @@ The package bacula (version 2.4.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f11/language/fr.md" >}}) | 6066 | 20292 | 29.9 | /mnt/stockage/packages/f11/bacula/po/fr.po | 
- | [de]({{< ref "/f11/language/de.md" >}}) | 2391 | 20292 | 11.8 | /mnt/stockage/packages/f11/bacula/po/de.po | 
- | [es]({{< ref "/f11/language/es.md" >}}) | 0 | 20287 | 0.0 | /mnt/stockage/packages/f11/bacula/po/es.po | 
- | [es_AR]({{< ref "/f11/language/es_AR.md" >}}) | 0 | 18155 | 0.0 | /mnt/stockage/packages/f11/bacula/po/es_AR.po | 
- | [fi]({{< ref "/f11/language/fi.md" >}}) | 0 | 20287 | 0.0 | /mnt/stockage/packages/f11/bacula/po/fi.po | 
- | [it]({{< ref "/f11/language/it.md" >}}) | 0 | 20287 | 0.0 | /mnt/stockage/packages/f11/bacula/po/it.po | 
- | [sv]({{< ref "/f11/language/sv.md" >}}) | 0 | 20287 | 0.0 | /mnt/stockage/packages/f11/bacula/po/sv.po | 
+ | [fr](/f11/language/fr) | 6066 | 20292 | 29.9 | /mnt/stockage/packages/f11/bacula/po/fr.po | 
+ | [de](/f11/language/de) | 2391 | 20292 | 11.8 | /mnt/stockage/packages/f11/bacula/po/de.po | 
+ | [es](/f11/language/es) | 0 | 20287 | 0.0 | /mnt/stockage/packages/f11/bacula/po/es.po | 
+ | [es_AR](/f11/language/es_AR) | 0 | 18155 | 0.0 | /mnt/stockage/packages/f11/bacula/po/es_AR.po | 
+ | [fi](/f11/language/fi) | 0 | 20287 | 0.0 | /mnt/stockage/packages/f11/bacula/po/fi.po | 
+ | [it](/f11/language/it) | 0 | 20287 | 0.0 | /mnt/stockage/packages/f11/bacula/po/it.po | 
+ | [sv](/f11/language/sv) | 0 | 20287 | 0.0 | /mnt/stockage/packages/f11/bacula/po/sv.po | 
 {.sortable}
 
 

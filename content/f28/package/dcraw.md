@@ -18,24 +18,24 @@ The package dcraw (version 9.28.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f28/language/ca.md" >}}) | 583 | 583 | 100.0 | /mnt/stockage/packages/f28/dcraw/dcraw_ca.po | 
- | [cs]({{< ref "/f28/language/cs.md" >}}) | 597 | 597 | 100.0 | /mnt/stockage/packages/f28/dcraw/dcraw_cs.po | 
- | [da]({{< ref "/f28/language/da.md" >}}) | 552 | 552 | 100.0 | /mnt/stockage/packages/f28/dcraw/dcraw_da.po | 
- | [de]({{< ref "/f28/language/de.md" >}}) | 624 | 624 | 100.0 | /mnt/stockage/packages/f28/dcraw/dcraw_de.po | 
- | [eo]({{< ref "/f28/language/eo.md" >}}) | 552 | 552 | 100.0 | /mnt/stockage/packages/f28/dcraw/dcraw_eo.po | 
- | [es]({{< ref "/f28/language/es.md" >}}) | 624 | 624 | 100.0 | /mnt/stockage/packages/f28/dcraw/dcraw_es.po | 
- | [fr]({{< ref "/f28/language/fr.md" >}}) | 552 | 552 | 100.0 | /mnt/stockage/packages/f28/dcraw/dcraw_fr.po | 
- | [hu]({{< ref "/f28/language/hu.md" >}}) | 524 | 524 | 100.0 | /mnt/stockage/packages/f28/dcraw/dcraw_hu.po | 
- | [it]({{< ref "/f28/language/it.md" >}}) | 624 | 624 | 100.0 | /mnt/stockage/packages/f28/dcraw/dcraw_it.po | 
- | [ja]({{< ref "/f28/language/ja.md" >}}) | 552 | 552 | 100.0 | /mnt/stockage/packages/f28/dcraw/dcraw_ja.po | 
- | [nl]({{< ref "/f28/language/nl.md" >}}) | 634 | 634 | 100.0 | /mnt/stockage/packages/f28/dcraw/dcraw_nl.po | 
- | [pl]({{< ref "/f28/language/pl.md" >}}) | 603 | 603 | 100.0 | /mnt/stockage/packages/f28/dcraw/dcraw_pl.po | 
- | [pt]({{< ref "/f28/language/pt.md" >}}) | 624 | 624 | 100.0 | /mnt/stockage/packages/f28/dcraw/dcraw_pt.po | 
- | [ro]({{< ref "/f28/language/ro.md" >}}) | 560 | 560 | 100.0 | /mnt/stockage/packages/f28/dcraw/dcraw_ro.po | 
- | [ru]({{< ref "/f28/language/ru.md" >}}) | 631 | 631 | 100.0 | /mnt/stockage/packages/f28/dcraw/dcraw_ru.po | 
- | [sv]({{< ref "/f28/language/sv.md" >}}) | 553 | 553 | 100.0 | /mnt/stockage/packages/f28/dcraw/dcraw_sv.po | 
- | [zh_Hans]({{< ref "/f28/language/zh_Hans.md" >}}) | 603 | 603 | 100.0 | /mnt/stockage/packages/f28/dcraw/dcraw_zh_CN.po | 
- | [zh_Hant]({{< ref "/f28/language/zh_Hant.md" >}}) | 603 | 603 | 100.0 | /mnt/stockage/packages/f28/dcraw/dcraw_zh_TW.po | 
+ | [ca](/f28/language/ca) | 583 | 583 | 100.0 | /mnt/stockage/packages/f28/dcraw/dcraw_ca.po | 
+ | [cs](/f28/language/cs) | 597 | 597 | 100.0 | /mnt/stockage/packages/f28/dcraw/dcraw_cs.po | 
+ | [da](/f28/language/da) | 552 | 552 | 100.0 | /mnt/stockage/packages/f28/dcraw/dcraw_da.po | 
+ | [de](/f28/language/de) | 624 | 624 | 100.0 | /mnt/stockage/packages/f28/dcraw/dcraw_de.po | 
+ | [eo](/f28/language/eo) | 552 | 552 | 100.0 | /mnt/stockage/packages/f28/dcraw/dcraw_eo.po | 
+ | [es](/f28/language/es) | 624 | 624 | 100.0 | /mnt/stockage/packages/f28/dcraw/dcraw_es.po | 
+ | [fr](/f28/language/fr) | 552 | 552 | 100.0 | /mnt/stockage/packages/f28/dcraw/dcraw_fr.po | 
+ | [hu](/f28/language/hu) | 524 | 524 | 100.0 | /mnt/stockage/packages/f28/dcraw/dcraw_hu.po | 
+ | [it](/f28/language/it) | 624 | 624 | 100.0 | /mnt/stockage/packages/f28/dcraw/dcraw_it.po | 
+ | [ja](/f28/language/ja) | 552 | 552 | 100.0 | /mnt/stockage/packages/f28/dcraw/dcraw_ja.po | 
+ | [nl](/f28/language/nl) | 634 | 634 | 100.0 | /mnt/stockage/packages/f28/dcraw/dcraw_nl.po | 
+ | [pl](/f28/language/pl) | 603 | 603 | 100.0 | /mnt/stockage/packages/f28/dcraw/dcraw_pl.po | 
+ | [pt](/f28/language/pt) | 624 | 624 | 100.0 | /mnt/stockage/packages/f28/dcraw/dcraw_pt.po | 
+ | [ro](/f28/language/ro) | 560 | 560 | 100.0 | /mnt/stockage/packages/f28/dcraw/dcraw_ro.po | 
+ | [ru](/f28/language/ru) | 631 | 631 | 100.0 | /mnt/stockage/packages/f28/dcraw/dcraw_ru.po | 
+ | [sv](/f28/language/sv) | 553 | 553 | 100.0 | /mnt/stockage/packages/f28/dcraw/dcraw_sv.po | 
+ | [zh_Hans](/f28/language/zh_Hans) | 603 | 603 | 100.0 | /mnt/stockage/packages/f28/dcraw/dcraw_zh_CN.po | 
+ | [zh_Hant](/f28/language/zh_Hant) | 603 | 603 | 100.0 | /mnt/stockage/packages/f28/dcraw/dcraw_zh_TW.po | 
 {.sortable}
 
 

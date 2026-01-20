@@ -18,16 +18,16 @@ The package kchildlock (version 0.90.4.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f17/language/cs.md" >}}) | 806 | 806 | 100.0 | /mnt/stockage/packages/f17/kchildlock/po/cs.po | 
- | [de]({{< ref "/f17/language/de.md" >}}) | 806 | 806 | 100.0 | /mnt/stockage/packages/f17/kchildlock/po/de.po | 
- | [el]({{< ref "/f17/language/el.md" >}}) | 806 | 806 | 100.0 | /mnt/stockage/packages/f17/kchildlock/po/el.po | 
- | [fr]({{< ref "/f17/language/fr.md" >}}) | 806 | 806 | 100.0 | /mnt/stockage/packages/f17/kchildlock/po/fr.po | 
- | [pt_BR]({{< ref "/f17/language/pt_BR.md" >}}) | 806 | 806 | 100.0 | /mnt/stockage/packages/f17/kchildlock/po/pt_BR.po | 
- | [ru]({{< ref "/f17/language/ru.md" >}}) | 806 | 806 | 100.0 | /mnt/stockage/packages/f17/kchildlock/po/ru.po | 
- | [sk]({{< ref "/f17/language/sk.md" >}}) | 806 | 806 | 100.0 | /mnt/stockage/packages/f17/kchildlock/po/sk.po | 
- | [uk]({{< ref "/f17/language/uk.md" >}}) | 806 | 806 | 100.0 | /mnt/stockage/packages/f17/kchildlock/po/uk.po | 
- | [bg]({{< ref "/f17/language/bg.md" >}}) | 682 | 806 | 84.6 | /mnt/stockage/packages/f17/kchildlock/po/bg.po | 
- | [es]({{< ref "/f17/language/es.md" >}}) | 682 | 806 | 84.6 | /mnt/stockage/packages/f17/kchildlock/po/es.po | 
+ | [cs](/f17/language/cs) | 806 | 806 | 100.0 | /mnt/stockage/packages/f17/kchildlock/po/cs.po | 
+ | [de](/f17/language/de) | 806 | 806 | 100.0 | /mnt/stockage/packages/f17/kchildlock/po/de.po | 
+ | [el](/f17/language/el) | 806 | 806 | 100.0 | /mnt/stockage/packages/f17/kchildlock/po/el.po | 
+ | [fr](/f17/language/fr) | 806 | 806 | 100.0 | /mnt/stockage/packages/f17/kchildlock/po/fr.po | 
+ | [pt_BR](/f17/language/pt_BR) | 806 | 806 | 100.0 | /mnt/stockage/packages/f17/kchildlock/po/pt_BR.po | 
+ | [ru](/f17/language/ru) | 806 | 806 | 100.0 | /mnt/stockage/packages/f17/kchildlock/po/ru.po | 
+ | [sk](/f17/language/sk) | 806 | 806 | 100.0 | /mnt/stockage/packages/f17/kchildlock/po/sk.po | 
+ | [uk](/f17/language/uk) | 806 | 806 | 100.0 | /mnt/stockage/packages/f17/kchildlock/po/uk.po | 
+ | [bg](/f17/language/bg) | 682 | 806 | 84.6 | /mnt/stockage/packages/f17/kchildlock/po/bg.po | 
+ | [es](/f17/language/es) | 682 | 806 | 84.6 | /mnt/stockage/packages/f17/kchildlock/po/es.po | 
 {.sortable}
 
 

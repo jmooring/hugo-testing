@@ -38,16 +38,16 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [gnome-applets]({{< ref "/f14/package/gnome-applets.md" >}}) | 3858 | 3858 | 100.0 | Spanish <traductores@es.gnome.org> | 
- | [lxdm]({{< ref "/f14/package/lxdm.md" >}}) | 13 | 13 | 100.0 | LANGUAGE <LL@li.org> | 
- | [lxpanel]({{< ref "/f14/package/lxpanel.md" >}}) | 892 | 892 | 100.0 | Spanish <daniel@tunki.org> | 
- | [lxsession]({{< ref "/f14/package/lxsession.md" >}}) | 37 | 37 | 100.0 | Spanish <es@li.org> | 
- | [lxtask]({{< ref "/f14/package/lxtask.md" >}}) | 122 | 122 | 100.0 | Spanish <es@li.org> | 
- | [libgweather]({{< ref "/f14/package/libgweather.md" >}}) | 447 | 460 | 97.2 | Spanish <traductores@es.gnome.org> | 
- | [lxmusic]({{< ref "/f14/package/lxmusic.md" >}}) | 196 | 203 | 96.6 | pcman.tw@gmail.com | 
- | [lxinput]({{< ref "/f14/package/lxinput.md" >}}) | 60 | 70 | 85.7 | LANGUAGE <LL@li.org> | 
- | [lxterminal]({{< ref "/f14/package/lxterminal.md" >}}) | 90 | 144 | 62.5 | Spanish <es@li.org> | 
- | [libfm]({{< ref "/f14/package/libfm.md" >}}) | 0 | 659 | 0.0 |  | 
+ | [gnome-applets](/f14/package/gnome-applets) | 3858 | 3858 | 100.0 | Spanish <traductores@es.gnome.org> | 
+ | [lxdm](/f14/package/lxdm) | 13 | 13 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [lxpanel](/f14/package/lxpanel) | 892 | 892 | 100.0 | Spanish <daniel@tunki.org> | 
+ | [lxsession](/f14/package/lxsession) | 37 | 37 | 100.0 | Spanish <es@li.org> | 
+ | [lxtask](/f14/package/lxtask) | 122 | 122 | 100.0 | Spanish <es@li.org> | 
+ | [libgweather](/f14/package/libgweather) | 447 | 460 | 97.2 | Spanish <traductores@es.gnome.org> | 
+ | [lxmusic](/f14/package/lxmusic) | 196 | 203 | 96.6 | pcman.tw@gmail.com | 
+ | [lxinput](/f14/package/lxinput) | 60 | 70 | 85.7 | LANGUAGE <LL@li.org> | 
+ | [lxterminal](/f14/package/lxterminal) | 90 | 144 | 62.5 | Spanish <es@li.org> | 
+ | [libfm](/f14/package/libfm) | 0 | 659 | 0.0 |  | 
 {.sortable}
 
 

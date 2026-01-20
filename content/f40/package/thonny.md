@@ -18,43 +18,43 @@ The package thonny (version 4.1.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f40/language/ar.md" >}}) | 1813 | 1813 | 100.0 | /mnt/stockage/packages/f40/thonny/thonny/locale/ar_AR/LC_MESSAGES/thonny.po | 
- | [ca]({{< ref "/f40/language/ca.md" >}}) | 2091 | 2091 | 100.0 | /mnt/stockage/packages/f40/thonny/thonny/locale/ca_ES/LC_MESSAGES/thonny.po | 
- | [de]({{< ref "/f40/language/de.md" >}}) | 2091 | 2091 | 100.0 | /mnt/stockage/packages/f40/thonny/thonny/locale/de_DE/LC_MESSAGES/thonny.po | 
- | [en_GB]({{< ref "/f40/language/en_GB.md" >}}) | 2091 | 2091 | 100.0 | /mnt/stockage/packages/f40/thonny/thonny/locale/en_GB/LC_MESSAGES/thonny.po | 
- | [et]({{< ref "/f40/language/et.md" >}}) | 2091 | 2091 | 100.0 | /mnt/stockage/packages/f40/thonny/thonny/locale/et_EE/LC_MESSAGES/thonny.po | 
- | [fa]({{< ref "/f40/language/fa.md" >}}) | 2091 | 2091 | 100.0 | /mnt/stockage/packages/f40/thonny/thonny/locale/fa_IR/LC_MESSAGES/thonny.po | 
- | [hy]({{< ref "/f40/language/hy.md" >}}) | 1813 | 1813 | 100.0 | /mnt/stockage/packages/f40/thonny/thonny/locale/hy_AM/LC_MESSAGES/thonny.po | 
- | [ja]({{< ref "/f40/language/ja.md" >}}) | 2091 | 2091 | 100.0 | /mnt/stockage/packages/f40/thonny/thonny/locale/ja_JP/LC_MESSAGES/thonny.po | 
- | [lt]({{< ref "/f40/language/lt.md" >}}) | 1490 | 1490 | 100.0 | /mnt/stockage/packages/f40/thonny/thonny/locale/lt_LT/LC_MESSAGES/thonny.po | 
- | [pt]({{< ref "/f40/language/pt.md" >}}) | 2091 | 2091 | 100.0 | /mnt/stockage/packages/f40/thonny/thonny/locale/pt_PT/LC_MESSAGES/thonny.po | 
- | [pt_BR]({{< ref "/f40/language/pt_BR.md" >}}) | 2091 | 2091 | 100.0 | /mnt/stockage/packages/f40/thonny/thonny/locale/pt_BR/LC_MESSAGES/thonny.po | 
- | [ro]({{< ref "/f40/language/ro.md" >}}) | 2091 | 2091 | 100.0 | /mnt/stockage/packages/f40/thonny/thonny/locale/ro_RO/LC_MESSAGES/thonny.po | 
- | [tr]({{< ref "/f40/language/tr.md" >}}) | 1490 | 1490 | 100.0 | /mnt/stockage/packages/f40/thonny/thonny/locale/tr_TR/LC_MESSAGES/thonny.po | 
- | [uk]({{< ref "/f40/language/uk.md" >}}) | 1490 | 1490 | 100.0 | /mnt/stockage/packages/f40/thonny/thonny/locale/uk_UA/LC_MESSAGES/thonny.po | 
- | [zh_Hans]({{< ref "/f40/language/zh_Hans.md" >}}) | 2091 | 2091 | 100.0 | /mnt/stockage/packages/f40/thonny/thonny/locale/zh_CN/LC_MESSAGES/thonny.po | 
- | [zh_Hant]({{< ref "/f40/language/zh_Hant.md" >}}) | 2091 | 2091 | 100.0 | /mnt/stockage/packages/f40/thonny/thonny/locale/zh_TW/LC_MESSAGES/thonny.po | 
- | [it]({{< ref "/f40/language/it.md" >}}) | 2090 | 2091 | 100.0 | /mnt/stockage/packages/f40/thonny/thonny/locale/it_IT/LC_MESSAGES/thonny.po | 
- | [fr]({{< ref "/f40/language/fr.md" >}}) | 2089 | 2091 | 99.9 | /mnt/stockage/packages/f40/thonny/thonny/locale/fr_FR/LC_MESSAGES/thonny.po | 
- | [th]({{< ref "/f40/language/th.md" >}}) | 1907 | 1910 | 99.8 | /mnt/stockage/packages/f40/thonny/thonny/locale/th_TH/LC_MESSAGES/thonny.po | 
- | [ru]({{< ref "/f40/language/ru.md" >}}) | 2077 | 2091 | 99.3 | /mnt/stockage/packages/f40/thonny/thonny/locale/ru_RU/LC_MESSAGES/thonny.po | 
- | [el]({{< ref "/f40/language/el.md" >}}) | 1795 | 1813 | 99.0 | /mnt/stockage/packages/f40/thonny/thonny/locale/el_GR/LC_MESSAGES/thonny.po | 
- | [sq]({{< ref "/f40/language/sq.md" >}}) | 1885 | 1910 | 98.7 | /mnt/stockage/packages/f40/thonny/thonny/locale/sq_AL/LC_MESSAGES/thonny.po | 
- | [sk]({{< ref "/f40/language/sk.md" >}}) | 1922 | 1996 | 96.3 | /mnt/stockage/packages/f40/thonny/thonny/locale/sk_SK/LC_MESSAGES/thonny.po | 
- | [ta]({{< ref "/f40/language/ta.md" >}}) | 1824 | 1910 | 95.5 | /mnt/stockage/packages/f40/thonny/thonny/locale/ta_IN/LC_MESSAGES/thonny.po | 
- | [es]({{< ref "/f40/language/es.md" >}}) | 1955 | 2091 | 93.5 | /mnt/stockage/packages/f40/thonny/thonny/locale/es_ES/LC_MESSAGES/thonny.po | 
- | [pl]({{< ref "/f40/language/pl.md" >}}) | 1921 | 2091 | 91.9 | /mnt/stockage/packages/f40/thonny/thonny/locale/pl_PL/LC_MESSAGES/thonny.po | 
- | [vi]({{< ref "/f40/language/vi.md" >}}) | 1884 | 2091 | 90.1 | /mnt/stockage/packages/f40/thonny/thonny/locale/vi_VN/LC_MESSAGES/thonny.po | 
- | [sl]({{< ref "/f40/language/sl.md" >}}) | 1726 | 1987 | 86.9 | /mnt/stockage/packages/f40/thonny/thonny/locale/sl_SI/LC_MESSAGES/thonny.po | 
- | [nl]({{< ref "/f40/language/nl.md" >}}) | 1529 | 1813 | 84.3 | /mnt/stockage/packages/f40/thonny/thonny/locale/nl_NL/LC_MESSAGES/thonny.po | 
- | [ko]({{< ref "/f40/language/ko.md" >}}) | 1597 | 1910 | 83.6 | /mnt/stockage/packages/f40/thonny/thonny/locale/ko_KR/LC_MESSAGES/thonny.po | 
- | [cs]({{< ref "/f40/language/cs.md" >}}) | 1648 | 1987 | 82.9 | /mnt/stockage/packages/f40/thonny/thonny/locale/cs_CZ/LC_MESSAGES/thonny.po | 
- | [hu]({{< ref "/f40/language/hu.md" >}}) | 1595 | 1987 | 80.3 | /mnt/stockage/packages/f40/thonny/thonny/locale/hu_HU/LC_MESSAGES/thonny.po | 
- | [fi]({{< ref "/f40/language/fi.md" >}}) | 1472 | 1996 | 73.7 | /mnt/stockage/packages/f40/thonny/thonny/locale/fi_FI/LC_MESSAGES/thonny.po | 
- | [nb_NO]({{< ref "/f40/language/nb_NO.md" >}}) | 1349 | 1996 | 67.6 | /mnt/stockage/packages/f40/thonny/thonny/locale/nb_NO/LC_MESSAGES/thonny.po | 
- | [nn]({{< ref "/f40/language/nn.md" >}}) | 1255 | 1996 | 62.9 | /mnt/stockage/packages/f40/thonny/thonny/locale/nn_NO/LC_MESSAGES/thonny.po | 
- | [sv]({{< ref "/f40/language/sv.md" >}}) | 530 | 1490 | 35.6 | /mnt/stockage/packages/f40/thonny/thonny/locale/sv_SE/LC_MESSAGES/thonny.po | 
- | [en_US]({{< ref "/f40/language/en_US.md" >}}) | 18 | 1490 | 1.2 | /mnt/stockage/packages/f40/thonny/thonny/locale/en_US/LC_MESSAGES/thonny.po | 
+ | [ar](/f40/language/ar) | 1813 | 1813 | 100.0 | /mnt/stockage/packages/f40/thonny/thonny/locale/ar_AR/LC_MESSAGES/thonny.po | 
+ | [ca](/f40/language/ca) | 2091 | 2091 | 100.0 | /mnt/stockage/packages/f40/thonny/thonny/locale/ca_ES/LC_MESSAGES/thonny.po | 
+ | [de](/f40/language/de) | 2091 | 2091 | 100.0 | /mnt/stockage/packages/f40/thonny/thonny/locale/de_DE/LC_MESSAGES/thonny.po | 
+ | [en_GB](/f40/language/en_GB) | 2091 | 2091 | 100.0 | /mnt/stockage/packages/f40/thonny/thonny/locale/en_GB/LC_MESSAGES/thonny.po | 
+ | [et](/f40/language/et) | 2091 | 2091 | 100.0 | /mnt/stockage/packages/f40/thonny/thonny/locale/et_EE/LC_MESSAGES/thonny.po | 
+ | [fa](/f40/language/fa) | 2091 | 2091 | 100.0 | /mnt/stockage/packages/f40/thonny/thonny/locale/fa_IR/LC_MESSAGES/thonny.po | 
+ | [hy](/f40/language/hy) | 1813 | 1813 | 100.0 | /mnt/stockage/packages/f40/thonny/thonny/locale/hy_AM/LC_MESSAGES/thonny.po | 
+ | [ja](/f40/language/ja) | 2091 | 2091 | 100.0 | /mnt/stockage/packages/f40/thonny/thonny/locale/ja_JP/LC_MESSAGES/thonny.po | 
+ | [lt](/f40/language/lt) | 1490 | 1490 | 100.0 | /mnt/stockage/packages/f40/thonny/thonny/locale/lt_LT/LC_MESSAGES/thonny.po | 
+ | [pt](/f40/language/pt) | 2091 | 2091 | 100.0 | /mnt/stockage/packages/f40/thonny/thonny/locale/pt_PT/LC_MESSAGES/thonny.po | 
+ | [pt_BR](/f40/language/pt_BR) | 2091 | 2091 | 100.0 | /mnt/stockage/packages/f40/thonny/thonny/locale/pt_BR/LC_MESSAGES/thonny.po | 
+ | [ro](/f40/language/ro) | 2091 | 2091 | 100.0 | /mnt/stockage/packages/f40/thonny/thonny/locale/ro_RO/LC_MESSAGES/thonny.po | 
+ | [tr](/f40/language/tr) | 1490 | 1490 | 100.0 | /mnt/stockage/packages/f40/thonny/thonny/locale/tr_TR/LC_MESSAGES/thonny.po | 
+ | [uk](/f40/language/uk) | 1490 | 1490 | 100.0 | /mnt/stockage/packages/f40/thonny/thonny/locale/uk_UA/LC_MESSAGES/thonny.po | 
+ | [zh_Hans](/f40/language/zh_Hans) | 2091 | 2091 | 100.0 | /mnt/stockage/packages/f40/thonny/thonny/locale/zh_CN/LC_MESSAGES/thonny.po | 
+ | [zh_Hant](/f40/language/zh_Hant) | 2091 | 2091 | 100.0 | /mnt/stockage/packages/f40/thonny/thonny/locale/zh_TW/LC_MESSAGES/thonny.po | 
+ | [it](/f40/language/it) | 2090 | 2091 | 100.0 | /mnt/stockage/packages/f40/thonny/thonny/locale/it_IT/LC_MESSAGES/thonny.po | 
+ | [fr](/f40/language/fr) | 2089 | 2091 | 99.9 | /mnt/stockage/packages/f40/thonny/thonny/locale/fr_FR/LC_MESSAGES/thonny.po | 
+ | [th](/f40/language/th) | 1907 | 1910 | 99.8 | /mnt/stockage/packages/f40/thonny/thonny/locale/th_TH/LC_MESSAGES/thonny.po | 
+ | [ru](/f40/language/ru) | 2077 | 2091 | 99.3 | /mnt/stockage/packages/f40/thonny/thonny/locale/ru_RU/LC_MESSAGES/thonny.po | 
+ | [el](/f40/language/el) | 1795 | 1813 | 99.0 | /mnt/stockage/packages/f40/thonny/thonny/locale/el_GR/LC_MESSAGES/thonny.po | 
+ | [sq](/f40/language/sq) | 1885 | 1910 | 98.7 | /mnt/stockage/packages/f40/thonny/thonny/locale/sq_AL/LC_MESSAGES/thonny.po | 
+ | [sk](/f40/language/sk) | 1922 | 1996 | 96.3 | /mnt/stockage/packages/f40/thonny/thonny/locale/sk_SK/LC_MESSAGES/thonny.po | 
+ | [ta](/f40/language/ta) | 1824 | 1910 | 95.5 | /mnt/stockage/packages/f40/thonny/thonny/locale/ta_IN/LC_MESSAGES/thonny.po | 
+ | [es](/f40/language/es) | 1955 | 2091 | 93.5 | /mnt/stockage/packages/f40/thonny/thonny/locale/es_ES/LC_MESSAGES/thonny.po | 
+ | [pl](/f40/language/pl) | 1921 | 2091 | 91.9 | /mnt/stockage/packages/f40/thonny/thonny/locale/pl_PL/LC_MESSAGES/thonny.po | 
+ | [vi](/f40/language/vi) | 1884 | 2091 | 90.1 | /mnt/stockage/packages/f40/thonny/thonny/locale/vi_VN/LC_MESSAGES/thonny.po | 
+ | [sl](/f40/language/sl) | 1726 | 1987 | 86.9 | /mnt/stockage/packages/f40/thonny/thonny/locale/sl_SI/LC_MESSAGES/thonny.po | 
+ | [nl](/f40/language/nl) | 1529 | 1813 | 84.3 | /mnt/stockage/packages/f40/thonny/thonny/locale/nl_NL/LC_MESSAGES/thonny.po | 
+ | [ko](/f40/language/ko) | 1597 | 1910 | 83.6 | /mnt/stockage/packages/f40/thonny/thonny/locale/ko_KR/LC_MESSAGES/thonny.po | 
+ | [cs](/f40/language/cs) | 1648 | 1987 | 82.9 | /mnt/stockage/packages/f40/thonny/thonny/locale/cs_CZ/LC_MESSAGES/thonny.po | 
+ | [hu](/f40/language/hu) | 1595 | 1987 | 80.3 | /mnt/stockage/packages/f40/thonny/thonny/locale/hu_HU/LC_MESSAGES/thonny.po | 
+ | [fi](/f40/language/fi) | 1472 | 1996 | 73.7 | /mnt/stockage/packages/f40/thonny/thonny/locale/fi_FI/LC_MESSAGES/thonny.po | 
+ | [nb_NO](/f40/language/nb_NO) | 1349 | 1996 | 67.6 | /mnt/stockage/packages/f40/thonny/thonny/locale/nb_NO/LC_MESSAGES/thonny.po | 
+ | [nn](/f40/language/nn) | 1255 | 1996 | 62.9 | /mnt/stockage/packages/f40/thonny/thonny/locale/nn_NO/LC_MESSAGES/thonny.po | 
+ | [sv](/f40/language/sv) | 530 | 1490 | 35.6 | /mnt/stockage/packages/f40/thonny/thonny/locale/sv_SE/LC_MESSAGES/thonny.po | 
+ | [en_US](/f40/language/en_US) | 18 | 1490 | 1.2 | /mnt/stockage/packages/f40/thonny/thonny/locale/en_US/LC_MESSAGES/thonny.po | 
 {.sortable}
 
 

@@ -18,8 +18,8 @@ The package input-pad (version 0.1.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ja]({{< ref "/f12/language/ja.md" >}}) | 857 | 857 | 100.0 | /mnt/stockage/packages/f12/input-pad/po/ja.po | 
- | [fr]({{< ref "/f12/language/fr.md" >}}) | 0 | 857 | 0.0 | /mnt/stockage/packages/f12/input-pad/po/fr.po | 
+ | [ja](/f12/language/ja) | 857 | 857 | 100.0 | /mnt/stockage/packages/f12/input-pad/po/ja.po | 
+ | [fr](/f12/language/fr) | 0 | 857 | 0.0 | /mnt/stockage/packages/f12/input-pad/po/fr.po | 
 {.sortable}
 
 

@@ -18,83 +18,83 @@ The package libgnomeprintui22 (version 2.18.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f8/language/ar.md" >}}) | 481 | 481 | 100.0 | /mnt/stockage/packages/f8/libgnomeprintui22/po/ar.po | 
- | [be]({{< ref "/f8/language/be.md" >}}) | 472 | 472 | 100.0 | /mnt/stockage/packages/f8/libgnomeprintui22/po/be.po | 
- | [bg]({{< ref "/f8/language/bg.md" >}}) | 481 | 481 | 100.0 | /mnt/stockage/packages/f8/libgnomeprintui22/po/bg.po | 
- | [bn]({{< ref "/f8/language/bn.md" >}}) | 472 | 472 | 100.0 | /mnt/stockage/packages/f8/libgnomeprintui22/po/bn.po | 
- | [bn_IN]({{< ref "/f8/language/bn_IN.md" >}}) | 481 | 481 | 100.0 | /mnt/stockage/packages/f8/libgnomeprintui22/po/bn_IN.po | 
- | [ca]({{< ref "/f8/language/ca.md" >}}) | 481 | 481 | 100.0 | /mnt/stockage/packages/f8/libgnomeprintui22/po/ca.po | 
- | [cy]({{< ref "/f8/language/cy.md" >}}) | 472 | 472 | 100.0 | /mnt/stockage/packages/f8/libgnomeprintui22/po/cy.po | 
- | [da]({{< ref "/f8/language/da.md" >}}) | 481 | 481 | 100.0 | /mnt/stockage/packages/f8/libgnomeprintui22/po/da.po | 
- | [de]({{< ref "/f8/language/de.md" >}}) | 481 | 481 | 100.0 | /mnt/stockage/packages/f8/libgnomeprintui22/po/de.po | 
- | [el]({{< ref "/f8/language/el.md" >}}) | 472 | 472 | 100.0 | /mnt/stockage/packages/f8/libgnomeprintui22/po/el.po | 
- | [en_CA]({{< ref "/f8/language/en_CA.md" >}}) | 481 | 481 | 100.0 | /mnt/stockage/packages/f8/libgnomeprintui22/po/en_CA.po | 
- | [en_GB]({{< ref "/f8/language/en_GB.md" >}}) | 481 | 481 | 100.0 | /mnt/stockage/packages/f8/libgnomeprintui22/po/en_GB.po | 
- | [error]({{< ref "/f8/language/error.md" >}}) | 481 | 481 | 100.0 | /mnt/stockage/packages/f8/libgnomeprintui22/po/sr@Latn.po | 
- | [es]({{< ref "/f8/language/es.md" >}}) | 481 | 481 | 100.0 | /mnt/stockage/packages/f8/libgnomeprintui22/po/es.po | 
- | [et]({{< ref "/f8/language/et.md" >}}) | 481 | 481 | 100.0 | /mnt/stockage/packages/f8/libgnomeprintui22/po/et.po | 
- | [eu]({{< ref "/f8/language/eu.md" >}}) | 481 | 481 | 100.0 | /mnt/stockage/packages/f8/libgnomeprintui22/po/eu.po | 
- | [fi]({{< ref "/f8/language/fi.md" >}}) | 481 | 481 | 100.0 | /mnt/stockage/packages/f8/libgnomeprintui22/po/fi.po | 
- | [fr]({{< ref "/f8/language/fr.md" >}}) | 481 | 481 | 100.0 | /mnt/stockage/packages/f8/libgnomeprintui22/po/fr.po | 
- | [gl]({{< ref "/f8/language/gl.md" >}}) | 427 | 427 | 100.0 | /mnt/stockage/packages/f8/libgnomeprintui22/po/gl.po | 
- | [gu]({{< ref "/f8/language/gu.md" >}}) | 481 | 481 | 100.0 | /mnt/stockage/packages/f8/libgnomeprintui22/po/gu.po | 
- | [he]({{< ref "/f8/language/he.md" >}}) | 472 | 472 | 100.0 | /mnt/stockage/packages/f8/libgnomeprintui22/po/he.po | 
- | [hi]({{< ref "/f8/language/hi.md" >}}) | 472 | 472 | 100.0 | /mnt/stockage/packages/f8/libgnomeprintui22/po/hi.po | 
- | [hu]({{< ref "/f8/language/hu.md" >}}) | 481 | 481 | 100.0 | /mnt/stockage/packages/f8/libgnomeprintui22/po/hu.po | 
- | [it]({{< ref "/f8/language/it.md" >}}) | 481 | 481 | 100.0 | /mnt/stockage/packages/f8/libgnomeprintui22/po/it.po | 
- | [ja]({{< ref "/f8/language/ja.md" >}}) | 481 | 481 | 100.0 | /mnt/stockage/packages/f8/libgnomeprintui22/po/ja.po | 
- | [ka]({{< ref "/f8/language/ka.md" >}}) | 472 | 472 | 100.0 | /mnt/stockage/packages/f8/libgnomeprintui22/po/ka.po | 
- | [ko]({{< ref "/f8/language/ko.md" >}}) | 477 | 477 | 100.0 | /mnt/stockage/packages/f8/libgnomeprintui22/po/ko.po | 
- | [lt]({{< ref "/f8/language/lt.md" >}}) | 481 | 481 | 100.0 | /mnt/stockage/packages/f8/libgnomeprintui22/po/lt.po | 
- | [lv]({{< ref "/f8/language/lv.md" >}}) | 472 | 472 | 100.0 | /mnt/stockage/packages/f8/libgnomeprintui22/po/lv.po | 
- | [mk]({{< ref "/f8/language/mk.md" >}}) | 481 | 481 | 100.0 | /mnt/stockage/packages/f8/libgnomeprintui22/po/mk.po | 
- | [nb_NO]({{< ref "/f8/language/nb_NO.md" >}}) | 481 | 481 | 100.0 | /mnt/stockage/packages/f8/libgnomeprintui22/po/nb.po | 
- | [ne]({{< ref "/f8/language/ne.md" >}}) | 472 | 472 | 100.0 | /mnt/stockage/packages/f8/libgnomeprintui22/po/ne.po | 
- | [nl]({{< ref "/f8/language/nl.md" >}}) | 481 | 481 | 100.0 | /mnt/stockage/packages/f8/libgnomeprintui22/po/nl.po | 
- | [nn]({{< ref "/f8/language/nn.md" >}}) | 472 | 472 | 100.0 | /mnt/stockage/packages/f8/libgnomeprintui22/po/nn.po | 
- | [or]({{< ref "/f8/language/or.md" >}}) | 472 | 472 | 100.0 | /mnt/stockage/packages/f8/libgnomeprintui22/po/or.po | 
- | [pa]({{< ref "/f8/language/pa.md" >}}) | 477 | 477 | 100.0 | /mnt/stockage/packages/f8/libgnomeprintui22/po/pa.po | 
- | [pl]({{< ref "/f8/language/pl.md" >}}) | 481 | 481 | 100.0 | /mnt/stockage/packages/f8/libgnomeprintui22/po/pl.po | 
- | [pt]({{< ref "/f8/language/pt.md" >}}) | 481 | 481 | 100.0 | /mnt/stockage/packages/f8/libgnomeprintui22/po/pt.po | 
- | [pt_BR]({{< ref "/f8/language/pt_BR.md" >}}) | 481 | 481 | 100.0 | /mnt/stockage/packages/f8/libgnomeprintui22/po/pt_BR.po | 
- | [ro]({{< ref "/f8/language/ro.md" >}}) | 481 | 481 | 100.0 | /mnt/stockage/packages/f8/libgnomeprintui22/po/ro.po | 
- | [ru]({{< ref "/f8/language/ru.md" >}}) | 481 | 481 | 100.0 | /mnt/stockage/packages/f8/libgnomeprintui22/po/ru.po | 
- | [sk]({{< ref "/f8/language/sk.md" >}}) | 472 | 472 | 100.0 | /mnt/stockage/packages/f8/libgnomeprintui22/po/sk.po | 
- | [sl]({{< ref "/f8/language/sl.md" >}}) | 472 | 472 | 100.0 | /mnt/stockage/packages/f8/libgnomeprintui22/po/sl.po | 
- | [sq]({{< ref "/f8/language/sq.md" >}}) | 477 | 477 | 100.0 | /mnt/stockage/packages/f8/libgnomeprintui22/po/sq.po | 
- | [sr]({{< ref "/f8/language/sr.md" >}}) | 481 | 481 | 100.0 | /mnt/stockage/packages/f8/libgnomeprintui22/po/sr.po | 
- | [sv]({{< ref "/f8/language/sv.md" >}}) | 481 | 481 | 100.0 | /mnt/stockage/packages/f8/libgnomeprintui22/po/sv.po | 
- | [ta]({{< ref "/f8/language/ta.md" >}}) | 481 | 481 | 100.0 | /mnt/stockage/packages/f8/libgnomeprintui22/po/ta.po | 
- | [th]({{< ref "/f8/language/th.md" >}}) | 481 | 481 | 100.0 | /mnt/stockage/packages/f8/libgnomeprintui22/po/th.po | 
- | [uk]({{< ref "/f8/language/uk.md" >}}) | 481 | 481 | 100.0 | /mnt/stockage/packages/f8/libgnomeprintui22/po/uk.po | 
- | [vi]({{< ref "/f8/language/vi.md" >}}) | 481 | 481 | 100.0 | /mnt/stockage/packages/f8/libgnomeprintui22/po/vi.po | 
- | [zh_Hans]({{< ref "/f8/language/zh_Hans.md" >}}) | 481 | 481 | 100.0 | /mnt/stockage/packages/f8/libgnomeprintui22/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f8/language/zh_Hant.md" >}}) | 477 | 477 | 100.0 | /mnt/stockage/packages/f8/libgnomeprintui22/po/zh_TW.po | 
- | [zh_Hant_HK]({{< ref "/f8/language/zh_Hant_HK.md" >}}) | 477 | 477 | 100.0 | /mnt/stockage/packages/f8/libgnomeprintui22/po/zh_HK.po | 
- | [cs]({{< ref "/f8/language/cs.md" >}}) | 471 | 472 | 99.8 | /mnt/stockage/packages/f8/libgnomeprintui22/po/cs.po | 
- | [mr]({{< ref "/f8/language/mr.md" >}}) | 471 | 472 | 99.8 | /mnt/stockage/packages/f8/libgnomeprintui22/po/mr.po | 
- | [dz]({{< ref "/f8/language/dz.md" >}}) | 477 | 481 | 99.2 | /mnt/stockage/packages/f8/libgnomeprintui22/po/dz.po | 
- | [id]({{< ref "/f8/language/id.md" >}}) | 463 | 472 | 98.1 | /mnt/stockage/packages/f8/libgnomeprintui22/po/id.po | 
- | [fa]({{< ref "/f8/language/fa.md" >}}) | 410 | 427 | 96.0 | /mnt/stockage/packages/f8/libgnomeprintui22/po/fa.po | 
- | [te]({{< ref "/f8/language/te.md" >}}) | 410 | 427 | 96.0 | /mnt/stockage/packages/f8/libgnomeprintui22/po/te.po | 
- | [tr]({{< ref "/f8/language/tr.md" >}}) | 410 | 427 | 96.0 | /mnt/stockage/packages/f8/libgnomeprintui22/po/tr.po | 
- | [wa]({{< ref "/f8/language/wa.md" >}}) | 410 | 427 | 96.0 | /mnt/stockage/packages/f8/libgnomeprintui22/po/wa.po | 
- | [xh]({{< ref "/f8/language/xh.md" >}}) | 410 | 427 | 96.0 | /mnt/stockage/packages/f8/libgnomeprintui22/po/xh.po | 
- | [si]({{< ref "/f8/language/si.md" >}}) | 448 | 481 | 93.1 | /mnt/stockage/packages/f8/libgnomeprintui22/po/si.po | 
- | [az]({{< ref "/f8/language/az.md" >}}) | 370 | 427 | 86.7 | /mnt/stockage/packages/f8/libgnomeprintui22/po/az.po | 
- | [bs]({{< ref "/f8/language/bs.md" >}}) | 370 | 427 | 86.7 | /mnt/stockage/packages/f8/libgnomeprintui22/po/bs.po | 
- | [af]({{< ref "/f8/language/af.md" >}}) | 367 | 427 | 85.9 | /mnt/stockage/packages/f8/libgnomeprintui22/po/af.po | 
- | [hr]({{< ref "/f8/language/hr.md" >}}) | 367 | 427 | 85.9 | /mnt/stockage/packages/f8/libgnomeprintui22/po/hr.po | 
- | [mn]({{< ref "/f8/language/mn.md" >}}) | 367 | 427 | 85.9 | /mnt/stockage/packages/f8/libgnomeprintui22/po/mn.po | 
- | [ms]({{< ref "/f8/language/ms.md" >}}) | 366 | 427 | 85.7 | /mnt/stockage/packages/f8/libgnomeprintui22/po/ms.po | 
- | [ml]({{< ref "/f8/language/ml.md" >}}) | 395 | 472 | 83.7 | /mnt/stockage/packages/f8/libgnomeprintui22/po/ml.po | 
- | [is]({{< ref "/f8/language/is.md" >}}) | 273 | 427 | 63.9 | /mnt/stockage/packages/f8/libgnomeprintui22/po/is.po | 
- | [li]({{< ref "/f8/language/li.md" >}}) | 259 | 427 | 60.7 | /mnt/stockage/packages/f8/libgnomeprintui22/po/li.po | 
- | [am]({{< ref "/f8/language/am.md" >}}) | 242 | 427 | 56.7 | /mnt/stockage/packages/f8/libgnomeprintui22/po/am.po | 
- | [ga]({{< ref "/f8/language/ga.md" >}}) | 137 | 427 | 32.1 | /mnt/stockage/packages/f8/libgnomeprintui22/po/ga.po | 
- | [oc]({{< ref "/f8/language/oc.md" >}}) | 120 | 481 | 24.9 | /mnt/stockage/packages/f8/libgnomeprintui22/po/oc.po | 
- | [rw]({{< ref "/f8/language/rw.md" >}}) | 43 | 427 | 10.1 | /mnt/stockage/packages/f8/libgnomeprintui22/po/rw.po | 
- | [kn]({{< ref "/f8/language/kn.md" >}}) | 41 | 427 | 9.6 | /mnt/stockage/packages/f8/libgnomeprintui22/po/kn.po | 
+ | [ar](/f8/language/ar) | 481 | 481 | 100.0 | /mnt/stockage/packages/f8/libgnomeprintui22/po/ar.po | 
+ | [be](/f8/language/be) | 472 | 472 | 100.0 | /mnt/stockage/packages/f8/libgnomeprintui22/po/be.po | 
+ | [bg](/f8/language/bg) | 481 | 481 | 100.0 | /mnt/stockage/packages/f8/libgnomeprintui22/po/bg.po | 
+ | [bn](/f8/language/bn) | 472 | 472 | 100.0 | /mnt/stockage/packages/f8/libgnomeprintui22/po/bn.po | 
+ | [bn_IN](/f8/language/bn_IN) | 481 | 481 | 100.0 | /mnt/stockage/packages/f8/libgnomeprintui22/po/bn_IN.po | 
+ | [ca](/f8/language/ca) | 481 | 481 | 100.0 | /mnt/stockage/packages/f8/libgnomeprintui22/po/ca.po | 
+ | [cy](/f8/language/cy) | 472 | 472 | 100.0 | /mnt/stockage/packages/f8/libgnomeprintui22/po/cy.po | 
+ | [da](/f8/language/da) | 481 | 481 | 100.0 | /mnt/stockage/packages/f8/libgnomeprintui22/po/da.po | 
+ | [de](/f8/language/de) | 481 | 481 | 100.0 | /mnt/stockage/packages/f8/libgnomeprintui22/po/de.po | 
+ | [el](/f8/language/el) | 472 | 472 | 100.0 | /mnt/stockage/packages/f8/libgnomeprintui22/po/el.po | 
+ | [en_CA](/f8/language/en_CA) | 481 | 481 | 100.0 | /mnt/stockage/packages/f8/libgnomeprintui22/po/en_CA.po | 
+ | [en_GB](/f8/language/en_GB) | 481 | 481 | 100.0 | /mnt/stockage/packages/f8/libgnomeprintui22/po/en_GB.po | 
+ | [error](/f8/language/error) | 481 | 481 | 100.0 | /mnt/stockage/packages/f8/libgnomeprintui22/po/sr@Latn.po | 
+ | [es](/f8/language/es) | 481 | 481 | 100.0 | /mnt/stockage/packages/f8/libgnomeprintui22/po/es.po | 
+ | [et](/f8/language/et) | 481 | 481 | 100.0 | /mnt/stockage/packages/f8/libgnomeprintui22/po/et.po | 
+ | [eu](/f8/language/eu) | 481 | 481 | 100.0 | /mnt/stockage/packages/f8/libgnomeprintui22/po/eu.po | 
+ | [fi](/f8/language/fi) | 481 | 481 | 100.0 | /mnt/stockage/packages/f8/libgnomeprintui22/po/fi.po | 
+ | [fr](/f8/language/fr) | 481 | 481 | 100.0 | /mnt/stockage/packages/f8/libgnomeprintui22/po/fr.po | 
+ | [gl](/f8/language/gl) | 427 | 427 | 100.0 | /mnt/stockage/packages/f8/libgnomeprintui22/po/gl.po | 
+ | [gu](/f8/language/gu) | 481 | 481 | 100.0 | /mnt/stockage/packages/f8/libgnomeprintui22/po/gu.po | 
+ | [he](/f8/language/he) | 472 | 472 | 100.0 | /mnt/stockage/packages/f8/libgnomeprintui22/po/he.po | 
+ | [hi](/f8/language/hi) | 472 | 472 | 100.0 | /mnt/stockage/packages/f8/libgnomeprintui22/po/hi.po | 
+ | [hu](/f8/language/hu) | 481 | 481 | 100.0 | /mnt/stockage/packages/f8/libgnomeprintui22/po/hu.po | 
+ | [it](/f8/language/it) | 481 | 481 | 100.0 | /mnt/stockage/packages/f8/libgnomeprintui22/po/it.po | 
+ | [ja](/f8/language/ja) | 481 | 481 | 100.0 | /mnt/stockage/packages/f8/libgnomeprintui22/po/ja.po | 
+ | [ka](/f8/language/ka) | 472 | 472 | 100.0 | /mnt/stockage/packages/f8/libgnomeprintui22/po/ka.po | 
+ | [ko](/f8/language/ko) | 477 | 477 | 100.0 | /mnt/stockage/packages/f8/libgnomeprintui22/po/ko.po | 
+ | [lt](/f8/language/lt) | 481 | 481 | 100.0 | /mnt/stockage/packages/f8/libgnomeprintui22/po/lt.po | 
+ | [lv](/f8/language/lv) | 472 | 472 | 100.0 | /mnt/stockage/packages/f8/libgnomeprintui22/po/lv.po | 
+ | [mk](/f8/language/mk) | 481 | 481 | 100.0 | /mnt/stockage/packages/f8/libgnomeprintui22/po/mk.po | 
+ | [nb_NO](/f8/language/nb_NO) | 481 | 481 | 100.0 | /mnt/stockage/packages/f8/libgnomeprintui22/po/nb.po | 
+ | [ne](/f8/language/ne) | 472 | 472 | 100.0 | /mnt/stockage/packages/f8/libgnomeprintui22/po/ne.po | 
+ | [nl](/f8/language/nl) | 481 | 481 | 100.0 | /mnt/stockage/packages/f8/libgnomeprintui22/po/nl.po | 
+ | [nn](/f8/language/nn) | 472 | 472 | 100.0 | /mnt/stockage/packages/f8/libgnomeprintui22/po/nn.po | 
+ | [or](/f8/language/or) | 472 | 472 | 100.0 | /mnt/stockage/packages/f8/libgnomeprintui22/po/or.po | 
+ | [pa](/f8/language/pa) | 477 | 477 | 100.0 | /mnt/stockage/packages/f8/libgnomeprintui22/po/pa.po | 
+ | [pl](/f8/language/pl) | 481 | 481 | 100.0 | /mnt/stockage/packages/f8/libgnomeprintui22/po/pl.po | 
+ | [pt](/f8/language/pt) | 481 | 481 | 100.0 | /mnt/stockage/packages/f8/libgnomeprintui22/po/pt.po | 
+ | [pt_BR](/f8/language/pt_BR) | 481 | 481 | 100.0 | /mnt/stockage/packages/f8/libgnomeprintui22/po/pt_BR.po | 
+ | [ro](/f8/language/ro) | 481 | 481 | 100.0 | /mnt/stockage/packages/f8/libgnomeprintui22/po/ro.po | 
+ | [ru](/f8/language/ru) | 481 | 481 | 100.0 | /mnt/stockage/packages/f8/libgnomeprintui22/po/ru.po | 
+ | [sk](/f8/language/sk) | 472 | 472 | 100.0 | /mnt/stockage/packages/f8/libgnomeprintui22/po/sk.po | 
+ | [sl](/f8/language/sl) | 472 | 472 | 100.0 | /mnt/stockage/packages/f8/libgnomeprintui22/po/sl.po | 
+ | [sq](/f8/language/sq) | 477 | 477 | 100.0 | /mnt/stockage/packages/f8/libgnomeprintui22/po/sq.po | 
+ | [sr](/f8/language/sr) | 481 | 481 | 100.0 | /mnt/stockage/packages/f8/libgnomeprintui22/po/sr.po | 
+ | [sv](/f8/language/sv) | 481 | 481 | 100.0 | /mnt/stockage/packages/f8/libgnomeprintui22/po/sv.po | 
+ | [ta](/f8/language/ta) | 481 | 481 | 100.0 | /mnt/stockage/packages/f8/libgnomeprintui22/po/ta.po | 
+ | [th](/f8/language/th) | 481 | 481 | 100.0 | /mnt/stockage/packages/f8/libgnomeprintui22/po/th.po | 
+ | [uk](/f8/language/uk) | 481 | 481 | 100.0 | /mnt/stockage/packages/f8/libgnomeprintui22/po/uk.po | 
+ | [vi](/f8/language/vi) | 481 | 481 | 100.0 | /mnt/stockage/packages/f8/libgnomeprintui22/po/vi.po | 
+ | [zh_Hans](/f8/language/zh_Hans) | 481 | 481 | 100.0 | /mnt/stockage/packages/f8/libgnomeprintui22/po/zh_CN.po | 
+ | [zh_Hant](/f8/language/zh_Hant) | 477 | 477 | 100.0 | /mnt/stockage/packages/f8/libgnomeprintui22/po/zh_TW.po | 
+ | [zh_Hant_HK](/f8/language/zh_Hant_HK) | 477 | 477 | 100.0 | /mnt/stockage/packages/f8/libgnomeprintui22/po/zh_HK.po | 
+ | [cs](/f8/language/cs) | 471 | 472 | 99.8 | /mnt/stockage/packages/f8/libgnomeprintui22/po/cs.po | 
+ | [mr](/f8/language/mr) | 471 | 472 | 99.8 | /mnt/stockage/packages/f8/libgnomeprintui22/po/mr.po | 
+ | [dz](/f8/language/dz) | 477 | 481 | 99.2 | /mnt/stockage/packages/f8/libgnomeprintui22/po/dz.po | 
+ | [id](/f8/language/id) | 463 | 472 | 98.1 | /mnt/stockage/packages/f8/libgnomeprintui22/po/id.po | 
+ | [fa](/f8/language/fa) | 410 | 427 | 96.0 | /mnt/stockage/packages/f8/libgnomeprintui22/po/fa.po | 
+ | [te](/f8/language/te) | 410 | 427 | 96.0 | /mnt/stockage/packages/f8/libgnomeprintui22/po/te.po | 
+ | [tr](/f8/language/tr) | 410 | 427 | 96.0 | /mnt/stockage/packages/f8/libgnomeprintui22/po/tr.po | 
+ | [wa](/f8/language/wa) | 410 | 427 | 96.0 | /mnt/stockage/packages/f8/libgnomeprintui22/po/wa.po | 
+ | [xh](/f8/language/xh) | 410 | 427 | 96.0 | /mnt/stockage/packages/f8/libgnomeprintui22/po/xh.po | 
+ | [si](/f8/language/si) | 448 | 481 | 93.1 | /mnt/stockage/packages/f8/libgnomeprintui22/po/si.po | 
+ | [az](/f8/language/az) | 370 | 427 | 86.7 | /mnt/stockage/packages/f8/libgnomeprintui22/po/az.po | 
+ | [bs](/f8/language/bs) | 370 | 427 | 86.7 | /mnt/stockage/packages/f8/libgnomeprintui22/po/bs.po | 
+ | [af](/f8/language/af) | 367 | 427 | 85.9 | /mnt/stockage/packages/f8/libgnomeprintui22/po/af.po | 
+ | [hr](/f8/language/hr) | 367 | 427 | 85.9 | /mnt/stockage/packages/f8/libgnomeprintui22/po/hr.po | 
+ | [mn](/f8/language/mn) | 367 | 427 | 85.9 | /mnt/stockage/packages/f8/libgnomeprintui22/po/mn.po | 
+ | [ms](/f8/language/ms) | 366 | 427 | 85.7 | /mnt/stockage/packages/f8/libgnomeprintui22/po/ms.po | 
+ | [ml](/f8/language/ml) | 395 | 472 | 83.7 | /mnt/stockage/packages/f8/libgnomeprintui22/po/ml.po | 
+ | [is](/f8/language/is) | 273 | 427 | 63.9 | /mnt/stockage/packages/f8/libgnomeprintui22/po/is.po | 
+ | [li](/f8/language/li) | 259 | 427 | 60.7 | /mnt/stockage/packages/f8/libgnomeprintui22/po/li.po | 
+ | [am](/f8/language/am) | 242 | 427 | 56.7 | /mnt/stockage/packages/f8/libgnomeprintui22/po/am.po | 
+ | [ga](/f8/language/ga) | 137 | 427 | 32.1 | /mnt/stockage/packages/f8/libgnomeprintui22/po/ga.po | 
+ | [oc](/f8/language/oc) | 120 | 481 | 24.9 | /mnt/stockage/packages/f8/libgnomeprintui22/po/oc.po | 
+ | [rw](/f8/language/rw) | 43 | 427 | 10.1 | /mnt/stockage/packages/f8/libgnomeprintui22/po/rw.po | 
+ | [kn](/f8/language/kn) | 41 | 427 | 9.6 | /mnt/stockage/packages/f8/libgnomeprintui22/po/kn.po | 
 {.sortable}
 
 

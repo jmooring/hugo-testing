@@ -18,12 +18,12 @@ The package acl (version 2.2.47):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f9/language/de.md" >}}) | 484 | 484 | 100.0 | /mnt/stockage/packages/f9/acl/po/de.po | 
- | [es]({{< ref "/f9/language/es.md" >}}) | 484 | 484 | 100.0 | /mnt/stockage/packages/f9/acl/po/es.po | 
- | [fr]({{< ref "/f9/language/fr.md" >}}) | 484 | 484 | 100.0 | /mnt/stockage/packages/f9/acl/po/fr.po | 
- | [gl]({{< ref "/f9/language/gl.md" >}}) | 484 | 484 | 100.0 | /mnt/stockage/packages/f9/acl/po/gl.po | 
- | [pl]({{< ref "/f9/language/pl.md" >}}) | 484 | 484 | 100.0 | /mnt/stockage/packages/f9/acl/po/pl.po | 
- | [sv]({{< ref "/f9/language/sv.md" >}}) | 484 | 484 | 100.0 | /mnt/stockage/packages/f9/acl/po/sv.po | 
+ | [de](/f9/language/de) | 484 | 484 | 100.0 | /mnt/stockage/packages/f9/acl/po/de.po | 
+ | [es](/f9/language/es) | 484 | 484 | 100.0 | /mnt/stockage/packages/f9/acl/po/es.po | 
+ | [fr](/f9/language/fr) | 484 | 484 | 100.0 | /mnt/stockage/packages/f9/acl/po/fr.po | 
+ | [gl](/f9/language/gl) | 484 | 484 | 100.0 | /mnt/stockage/packages/f9/acl/po/gl.po | 
+ | [pl](/f9/language/pl) | 484 | 484 | 100.0 | /mnt/stockage/packages/f9/acl/po/pl.po | 
+ | [sv](/f9/language/sv) | 484 | 484 | 100.0 | /mnt/stockage/packages/f9/acl/po/sv.po | 
 {.sortable}
 
 

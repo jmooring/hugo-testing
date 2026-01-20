@@ -18,7 +18,7 @@ The package blokkal (version 0.1.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f15/language/de.md" >}}) | 1003 | 1026 | 97.8 | /mnt/stockage/packages/f15/blokkal/po/de.po | 
+ | [de](/f15/language/de) | 1003 | 1026 | 97.8 | /mnt/stockage/packages/f15/blokkal/po/de.po | 
 {.sortable}
 
 

@@ -18,53 +18,53 @@ The package kf5-kidentitymanagement (version 20.08.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f33/language/ca.md" >}}) | 181 | 181 | 100.0 | /mnt/stockage/packages/f33/kf5-kidentitymanagement/po/ca/libkpimidentities5.po | 
- | [ca@valencia]({{< ref "/f33/language/ca@valencia.md" >}}) | 181 | 181 | 100.0 | /mnt/stockage/packages/f33/kf5-kidentitymanagement/po/ca@valencia/libkpimidentities5.po | 
- | [da]({{< ref "/f33/language/da.md" >}}) | 181 | 181 | 100.0 | /mnt/stockage/packages/f33/kf5-kidentitymanagement/po/da/libkpimidentities5.po | 
- | [de]({{< ref "/f33/language/de.md" >}}) | 181 | 181 | 100.0 | /mnt/stockage/packages/f33/kf5-kidentitymanagement/po/de/libkpimidentities5.po | 
- | [el]({{< ref "/f33/language/el.md" >}}) | 181 | 181 | 100.0 | /mnt/stockage/packages/f33/kf5-kidentitymanagement/po/el/libkpimidentities5.po | 
- | [en_GB]({{< ref "/f33/language/en_GB.md" >}}) | 181 | 181 | 100.0 | /mnt/stockage/packages/f33/kf5-kidentitymanagement/po/en_GB/libkpimidentities5.po | 
- | [es]({{< ref "/f33/language/es.md" >}}) | 181 | 181 | 100.0 | /mnt/stockage/packages/f33/kf5-kidentitymanagement/po/es/libkpimidentities5.po | 
- | [et]({{< ref "/f33/language/et.md" >}}) | 181 | 181 | 100.0 | /mnt/stockage/packages/f33/kf5-kidentitymanagement/po/et/libkpimidentities5.po | 
- | [eu]({{< ref "/f33/language/eu.md" >}}) | 181 | 181 | 100.0 | /mnt/stockage/packages/f33/kf5-kidentitymanagement/po/eu/libkpimidentities5.po | 
- | [fi]({{< ref "/f33/language/fi.md" >}}) | 181 | 181 | 100.0 | /mnt/stockage/packages/f33/kf5-kidentitymanagement/po/fi/libkpimidentities5.po | 
- | [fr]({{< ref "/f33/language/fr.md" >}}) | 181 | 181 | 100.0 | /mnt/stockage/packages/f33/kf5-kidentitymanagement/po/fr/libkpimidentities5.po | 
- | [gl]({{< ref "/f33/language/gl.md" >}}) | 181 | 181 | 100.0 | /mnt/stockage/packages/f33/kf5-kidentitymanagement/po/gl/libkpimidentities5.po | 
- | [ia]({{< ref "/f33/language/ia.md" >}}) | 181 | 181 | 100.0 | /mnt/stockage/packages/f33/kf5-kidentitymanagement/po/ia/libkpimidentities5.po | 
- | [it]({{< ref "/f33/language/it.md" >}}) | 181 | 181 | 100.0 | /mnt/stockage/packages/f33/kf5-kidentitymanagement/po/it/libkpimidentities5.po | 
- | [ko]({{< ref "/f33/language/ko.md" >}}) | 181 | 181 | 100.0 | /mnt/stockage/packages/f33/kf5-kidentitymanagement/po/ko/libkpimidentities5.po | 
- | [nl]({{< ref "/f33/language/nl.md" >}}) | 181 | 181 | 100.0 | /mnt/stockage/packages/f33/kf5-kidentitymanagement/po/nl/libkpimidentities5.po | 
- | [nn]({{< ref "/f33/language/nn.md" >}}) | 181 | 181 | 100.0 | /mnt/stockage/packages/f33/kf5-kidentitymanagement/po/nn/libkpimidentities5.po | 
- | [pl]({{< ref "/f33/language/pl.md" >}}) | 181 | 181 | 100.0 | /mnt/stockage/packages/f33/kf5-kidentitymanagement/po/pl/libkpimidentities5.po | 
- | [pt]({{< ref "/f33/language/pt.md" >}}) | 181 | 181 | 100.0 | /mnt/stockage/packages/f33/kf5-kidentitymanagement/po/pt/libkpimidentities5.po | 
- | [pt_BR]({{< ref "/f33/language/pt_BR.md" >}}) | 181 | 181 | 100.0 | /mnt/stockage/packages/f33/kf5-kidentitymanagement/po/pt_BR/libkpimidentities5.po | 
- | [ru]({{< ref "/f33/language/ru.md" >}}) | 181 | 181 | 100.0 | /mnt/stockage/packages/f33/kf5-kidentitymanagement/po/ru/libkpimidentities5.po | 
- | [sl]({{< ref "/f33/language/sl.md" >}}) | 181 | 181 | 100.0 | /mnt/stockage/packages/f33/kf5-kidentitymanagement/po/sl/libkpimidentities5.po | 
- | [sv]({{< ref "/f33/language/sv.md" >}}) | 181 | 181 | 100.0 | /mnt/stockage/packages/f33/kf5-kidentitymanagement/po/sv/libkpimidentities5.po | 
- | [uk]({{< ref "/f33/language/uk.md" >}}) | 181 | 181 | 100.0 | /mnt/stockage/packages/f33/kf5-kidentitymanagement/po/uk/libkpimidentities5.po | 
- | [zh_Hant]({{< ref "/f33/language/zh_Hant.md" >}}) | 181 | 181 | 100.0 | /mnt/stockage/packages/f33/kf5-kidentitymanagement/po/zh_TW/libkpimidentities5.po | 
- | [cs]({{< ref "/f33/language/cs.md" >}}) | 175 | 181 | 96.7 | /mnt/stockage/packages/f33/kf5-kidentitymanagement/po/cs/libkpimidentities5.po | 
- | [zh_Hans]({{< ref "/f33/language/zh_Hans.md" >}}) | 172 | 181 | 95.0 | /mnt/stockage/packages/f33/kf5-kidentitymanagement/po/zh_CN/libkpimidentities5.po | 
- | [sk]({{< ref "/f33/language/sk.md" >}}) | 119 | 181 | 65.7 | /mnt/stockage/packages/f33/kf5-kidentitymanagement/po/sk/libkpimidentities5.po | 
- | [ar]({{< ref "/f33/language/ar.md" >}}) | 110 | 181 | 60.8 | /mnt/stockage/packages/f33/kf5-kidentitymanagement/po/ar/libkpimidentities5.po | 
- | [bs]({{< ref "/f33/language/bs.md" >}}) | 110 | 181 | 60.8 | /mnt/stockage/packages/f33/kf5-kidentitymanagement/po/bs/libkpimidentities5.po | 
- | [ga]({{< ref "/f33/language/ga.md" >}}) | 110 | 181 | 60.8 | /mnt/stockage/packages/f33/kf5-kidentitymanagement/po/ga/libkpimidentities5.po | 
- | [hu]({{< ref "/f33/language/hu.md" >}}) | 110 | 181 | 60.8 | /mnt/stockage/packages/f33/kf5-kidentitymanagement/po/hu/libkpimidentities5.po | 
- | [ja]({{< ref "/f33/language/ja.md" >}}) | 110 | 181 | 60.8 | /mnt/stockage/packages/f33/kf5-kidentitymanagement/po/ja/libkpimidentities5.po | 
- | [kk]({{< ref "/f33/language/kk.md" >}}) | 110 | 181 | 60.8 | /mnt/stockage/packages/f33/kf5-kidentitymanagement/po/kk/libkpimidentities5.po | 
- | [km]({{< ref "/f33/language/km.md" >}}) | 110 | 181 | 60.8 | /mnt/stockage/packages/f33/kf5-kidentitymanagement/po/km/libkpimidentities5.po | 
- | [lt]({{< ref "/f33/language/lt.md" >}}) | 110 | 181 | 60.8 | /mnt/stockage/packages/f33/kf5-kidentitymanagement/po/lt/libkpimidentities5.po | 
- | [lv]({{< ref "/f33/language/lv.md" >}}) | 110 | 181 | 60.8 | /mnt/stockage/packages/f33/kf5-kidentitymanagement/po/lv/libkpimidentities5.po | 
- | [nb_NO]({{< ref "/f33/language/nb_NO.md" >}}) | 110 | 181 | 60.8 | /mnt/stockage/packages/f33/kf5-kidentitymanagement/po/nb/libkpimidentities5.po | 
- | [nds]({{< ref "/f33/language/nds.md" >}}) | 110 | 181 | 60.8 | /mnt/stockage/packages/f33/kf5-kidentitymanagement/po/nds/libkpimidentities5.po | 
- | [sr]({{< ref "/f33/language/sr.md" >}}) | 110 | 181 | 60.8 | /mnt/stockage/packages/f33/kf5-kidentitymanagement/po/sr/libkpimidentities5.po | 
- | [tr]({{< ref "/f33/language/tr.md" >}}) | 110 | 181 | 60.8 | /mnt/stockage/packages/f33/kf5-kidentitymanagement/po/tr/libkpimidentities5.po | 
- | [eo]({{< ref "/f33/language/eo.md" >}}) | 95 | 181 | 52.5 | /mnt/stockage/packages/f33/kf5-kidentitymanagement/po/eo/libkpimidentities5.po | 
- | [ro]({{< ref "/f33/language/ro.md" >}}) | 64 | 181 | 35.4 | /mnt/stockage/packages/f33/kf5-kidentitymanagement/po/ro/libkpimidentities5.po | 
- | [pa]({{< ref "/f33/language/pa.md" >}}) | 20 | 181 | 11.0 | /mnt/stockage/packages/f33/kf5-kidentitymanagement/po/pa/libkpimidentities5.po | 
- | [mr]({{< ref "/f33/language/mr.md" >}}) | 19 | 181 | 10.5 | /mnt/stockage/packages/f33/kf5-kidentitymanagement/po/mr/libkpimidentities5.po | 
- | [ug]({{< ref "/f33/language/ug.md" >}}) | 9 | 181 | 5.0 | /mnt/stockage/packages/f33/kf5-kidentitymanagement/po/ug/libkpimidentities5.po | 
- | [hi]({{< ref "/f33/language/hi.md" >}}) | 1 | 181 | 0.6 | /mnt/stockage/packages/f33/kf5-kidentitymanagement/po/hi/libkpimidentities5.po | 
+ | [ca](/f33/language/ca) | 181 | 181 | 100.0 | /mnt/stockage/packages/f33/kf5-kidentitymanagement/po/ca/libkpimidentities5.po | 
+ | [ca@valencia](/f33/language/ca@valencia) | 181 | 181 | 100.0 | /mnt/stockage/packages/f33/kf5-kidentitymanagement/po/ca@valencia/libkpimidentities5.po | 
+ | [da](/f33/language/da) | 181 | 181 | 100.0 | /mnt/stockage/packages/f33/kf5-kidentitymanagement/po/da/libkpimidentities5.po | 
+ | [de](/f33/language/de) | 181 | 181 | 100.0 | /mnt/stockage/packages/f33/kf5-kidentitymanagement/po/de/libkpimidentities5.po | 
+ | [el](/f33/language/el) | 181 | 181 | 100.0 | /mnt/stockage/packages/f33/kf5-kidentitymanagement/po/el/libkpimidentities5.po | 
+ | [en_GB](/f33/language/en_GB) | 181 | 181 | 100.0 | /mnt/stockage/packages/f33/kf5-kidentitymanagement/po/en_GB/libkpimidentities5.po | 
+ | [es](/f33/language/es) | 181 | 181 | 100.0 | /mnt/stockage/packages/f33/kf5-kidentitymanagement/po/es/libkpimidentities5.po | 
+ | [et](/f33/language/et) | 181 | 181 | 100.0 | /mnt/stockage/packages/f33/kf5-kidentitymanagement/po/et/libkpimidentities5.po | 
+ | [eu](/f33/language/eu) | 181 | 181 | 100.0 | /mnt/stockage/packages/f33/kf5-kidentitymanagement/po/eu/libkpimidentities5.po | 
+ | [fi](/f33/language/fi) | 181 | 181 | 100.0 | /mnt/stockage/packages/f33/kf5-kidentitymanagement/po/fi/libkpimidentities5.po | 
+ | [fr](/f33/language/fr) | 181 | 181 | 100.0 | /mnt/stockage/packages/f33/kf5-kidentitymanagement/po/fr/libkpimidentities5.po | 
+ | [gl](/f33/language/gl) | 181 | 181 | 100.0 | /mnt/stockage/packages/f33/kf5-kidentitymanagement/po/gl/libkpimidentities5.po | 
+ | [ia](/f33/language/ia) | 181 | 181 | 100.0 | /mnt/stockage/packages/f33/kf5-kidentitymanagement/po/ia/libkpimidentities5.po | 
+ | [it](/f33/language/it) | 181 | 181 | 100.0 | /mnt/stockage/packages/f33/kf5-kidentitymanagement/po/it/libkpimidentities5.po | 
+ | [ko](/f33/language/ko) | 181 | 181 | 100.0 | /mnt/stockage/packages/f33/kf5-kidentitymanagement/po/ko/libkpimidentities5.po | 
+ | [nl](/f33/language/nl) | 181 | 181 | 100.0 | /mnt/stockage/packages/f33/kf5-kidentitymanagement/po/nl/libkpimidentities5.po | 
+ | [nn](/f33/language/nn) | 181 | 181 | 100.0 | /mnt/stockage/packages/f33/kf5-kidentitymanagement/po/nn/libkpimidentities5.po | 
+ | [pl](/f33/language/pl) | 181 | 181 | 100.0 | /mnt/stockage/packages/f33/kf5-kidentitymanagement/po/pl/libkpimidentities5.po | 
+ | [pt](/f33/language/pt) | 181 | 181 | 100.0 | /mnt/stockage/packages/f33/kf5-kidentitymanagement/po/pt/libkpimidentities5.po | 
+ | [pt_BR](/f33/language/pt_BR) | 181 | 181 | 100.0 | /mnt/stockage/packages/f33/kf5-kidentitymanagement/po/pt_BR/libkpimidentities5.po | 
+ | [ru](/f33/language/ru) | 181 | 181 | 100.0 | /mnt/stockage/packages/f33/kf5-kidentitymanagement/po/ru/libkpimidentities5.po | 
+ | [sl](/f33/language/sl) | 181 | 181 | 100.0 | /mnt/stockage/packages/f33/kf5-kidentitymanagement/po/sl/libkpimidentities5.po | 
+ | [sv](/f33/language/sv) | 181 | 181 | 100.0 | /mnt/stockage/packages/f33/kf5-kidentitymanagement/po/sv/libkpimidentities5.po | 
+ | [uk](/f33/language/uk) | 181 | 181 | 100.0 | /mnt/stockage/packages/f33/kf5-kidentitymanagement/po/uk/libkpimidentities5.po | 
+ | [zh_Hant](/f33/language/zh_Hant) | 181 | 181 | 100.0 | /mnt/stockage/packages/f33/kf5-kidentitymanagement/po/zh_TW/libkpimidentities5.po | 
+ | [cs](/f33/language/cs) | 175 | 181 | 96.7 | /mnt/stockage/packages/f33/kf5-kidentitymanagement/po/cs/libkpimidentities5.po | 
+ | [zh_Hans](/f33/language/zh_Hans) | 172 | 181 | 95.0 | /mnt/stockage/packages/f33/kf5-kidentitymanagement/po/zh_CN/libkpimidentities5.po | 
+ | [sk](/f33/language/sk) | 119 | 181 | 65.7 | /mnt/stockage/packages/f33/kf5-kidentitymanagement/po/sk/libkpimidentities5.po | 
+ | [ar](/f33/language/ar) | 110 | 181 | 60.8 | /mnt/stockage/packages/f33/kf5-kidentitymanagement/po/ar/libkpimidentities5.po | 
+ | [bs](/f33/language/bs) | 110 | 181 | 60.8 | /mnt/stockage/packages/f33/kf5-kidentitymanagement/po/bs/libkpimidentities5.po | 
+ | [ga](/f33/language/ga) | 110 | 181 | 60.8 | /mnt/stockage/packages/f33/kf5-kidentitymanagement/po/ga/libkpimidentities5.po | 
+ | [hu](/f33/language/hu) | 110 | 181 | 60.8 | /mnt/stockage/packages/f33/kf5-kidentitymanagement/po/hu/libkpimidentities5.po | 
+ | [ja](/f33/language/ja) | 110 | 181 | 60.8 | /mnt/stockage/packages/f33/kf5-kidentitymanagement/po/ja/libkpimidentities5.po | 
+ | [kk](/f33/language/kk) | 110 | 181 | 60.8 | /mnt/stockage/packages/f33/kf5-kidentitymanagement/po/kk/libkpimidentities5.po | 
+ | [km](/f33/language/km) | 110 | 181 | 60.8 | /mnt/stockage/packages/f33/kf5-kidentitymanagement/po/km/libkpimidentities5.po | 
+ | [lt](/f33/language/lt) | 110 | 181 | 60.8 | /mnt/stockage/packages/f33/kf5-kidentitymanagement/po/lt/libkpimidentities5.po | 
+ | [lv](/f33/language/lv) | 110 | 181 | 60.8 | /mnt/stockage/packages/f33/kf5-kidentitymanagement/po/lv/libkpimidentities5.po | 
+ | [nb_NO](/f33/language/nb_NO) | 110 | 181 | 60.8 | /mnt/stockage/packages/f33/kf5-kidentitymanagement/po/nb/libkpimidentities5.po | 
+ | [nds](/f33/language/nds) | 110 | 181 | 60.8 | /mnt/stockage/packages/f33/kf5-kidentitymanagement/po/nds/libkpimidentities5.po | 
+ | [sr](/f33/language/sr) | 110 | 181 | 60.8 | /mnt/stockage/packages/f33/kf5-kidentitymanagement/po/sr/libkpimidentities5.po | 
+ | [tr](/f33/language/tr) | 110 | 181 | 60.8 | /mnt/stockage/packages/f33/kf5-kidentitymanagement/po/tr/libkpimidentities5.po | 
+ | [eo](/f33/language/eo) | 95 | 181 | 52.5 | /mnt/stockage/packages/f33/kf5-kidentitymanagement/po/eo/libkpimidentities5.po | 
+ | [ro](/f33/language/ro) | 64 | 181 | 35.4 | /mnt/stockage/packages/f33/kf5-kidentitymanagement/po/ro/libkpimidentities5.po | 
+ | [pa](/f33/language/pa) | 20 | 181 | 11.0 | /mnt/stockage/packages/f33/kf5-kidentitymanagement/po/pa/libkpimidentities5.po | 
+ | [mr](/f33/language/mr) | 19 | 181 | 10.5 | /mnt/stockage/packages/f33/kf5-kidentitymanagement/po/mr/libkpimidentities5.po | 
+ | [ug](/f33/language/ug) | 9 | 181 | 5.0 | /mnt/stockage/packages/f33/kf5-kidentitymanagement/po/ug/libkpimidentities5.po | 
+ | [hi](/f33/language/hi) | 1 | 181 | 0.6 | /mnt/stockage/packages/f33/kf5-kidentitymanagement/po/hi/libkpimidentities5.po | 
 {.sortable}
 
 

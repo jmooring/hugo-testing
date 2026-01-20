@@ -18,28 +18,28 @@ The package gcc (version 11.3.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f35/language/de.md" >}}) | 120025 | 120025 | 100.0 | /mnt/stockage/packages/f35/gcc/gcc/po/de.po/mnt/stockage/packages/f35/gcc/libcpp/po/de.po/mnt/stockage/packages/f35/gcc/libstdc++-v3/po/de.po | 
- | [eo]({{< ref "/f35/language/eo.md" >}}) | 1447 | 1447 | 100.0 | /mnt/stockage/packages/f35/gcc/libcpp/po/eo.po | 
- | [fr]({{< ref "/f35/language/fr.md" >}}) | 120025 | 120025 | 100.0 | /mnt/stockage/packages/f35/gcc/gcc/po/fr.po/mnt/stockage/packages/f35/gcc/libcpp/po/fr.po/mnt/stockage/packages/f35/gcc/libstdc++-v3/po/fr.po | 
- | [pt_BR]({{< ref "/f35/language/pt_BR.md" >}}) | 1447 | 1447 | 100.0 | /mnt/stockage/packages/f35/gcc/libcpp/po/pt_BR.po | 
- | [sv]({{< ref "/f35/language/sv.md" >}}) | 120020 | 120020 | 100.0 | /mnt/stockage/packages/f35/gcc/gcc/po/sv.po/mnt/stockage/packages/f35/gcc/libcpp/po/sv.po | 
- | [ru]({{< ref "/f35/language/ru.md" >}}) | 79347 | 120020 | 66.1 | /mnt/stockage/packages/f35/gcc/gcc/po/ru.po/mnt/stockage/packages/f35/gcc/libcpp/po/ru.po | 
- | [ca]({{< ref "/f35/language/ca.md" >}}) | 920 | 1447 | 63.6 | /mnt/stockage/packages/f35/gcc/libcpp/po/ca.po | 
- | [es]({{< ref "/f35/language/es.md" >}}) | 66016 | 120020 | 55.0 | /mnt/stockage/packages/f35/gcc/gcc/po/es.po/mnt/stockage/packages/f35/gcc/libcpp/po/es.po | 
- | [zh_Hans]({{< ref "/f35/language/zh_Hans.md" >}}) | 29432 | 120020 | 24.5 | /mnt/stockage/packages/f35/gcc/gcc/po/zh_CN.po/mnt/stockage/packages/f35/gcc/libcpp/po/zh_CN.po | 
- | [vi]({{< ref "/f35/language/vi.md" >}}) | 26457 | 119923 | 22.1 | /mnt/stockage/packages/f35/gcc/gcc/po/vi.po/mnt/stockage/packages/f35/gcc/libcpp/po/vi.po | 
- | [id]({{< ref "/f35/language/id.md" >}}) | 20634 | 120020 | 17.2 | /mnt/stockage/packages/f35/gcc/gcc/po/id.po/mnt/stockage/packages/f35/gcc/libcpp/po/id.po | 
- | [sr]({{< ref "/f35/language/sr.md" >}}) | 17638 | 120020 | 14.7 | /mnt/stockage/packages/f35/gcc/gcc/po/sr.po/mnt/stockage/packages/f35/gcc/libcpp/po/sr.po | 
- | [tr]({{< ref "/f35/language/tr.md" >}}) | 15749 | 119923 | 13.1 | /mnt/stockage/packages/f35/gcc/gcc/po/tr.po/mnt/stockage/packages/f35/gcc/libcpp/po/tr.po | 
- | [zh_Hant]({{< ref "/f35/language/zh_Hant.md" >}}) | 15250 | 120020 | 12.7 | /mnt/stockage/packages/f35/gcc/gcc/po/zh_TW.po/mnt/stockage/packages/f35/gcc/libcpp/po/zh_TW.po | 
- | [fi]({{< ref "/f35/language/fi.md" >}}) | 15134 | 120020 | 12.6 | /mnt/stockage/packages/f35/gcc/gcc/po/fi.po/mnt/stockage/packages/f35/gcc/libcpp/po/fi.po | 
- | [ja]({{< ref "/f35/language/ja.md" >}}) | 14546 | 120020 | 12.1 | /mnt/stockage/packages/f35/gcc/gcc/po/ja.po/mnt/stockage/packages/f35/gcc/libcpp/po/ja.po | 
- | [da]({{< ref "/f35/language/da.md" >}}) | 11571 | 120020 | 9.6 | /mnt/stockage/packages/f35/gcc/gcc/po/da.po/mnt/stockage/packages/f35/gcc/libcpp/po/da.po | 
- | [uk]({{< ref "/f35/language/uk.md" >}}) | 9442 | 119923 | 7.9 | /mnt/stockage/packages/f35/gcc/gcc/po/uk.po/mnt/stockage/packages/f35/gcc/libcpp/po/uk.po | 
- | [nl]({{< ref "/f35/language/nl.md" >}}) | 5196 | 120020 | 4.3 | /mnt/stockage/packages/f35/gcc/gcc/po/nl.po/mnt/stockage/packages/f35/gcc/libcpp/po/nl.po | 
- | [hr]({{< ref "/f35/language/hr.md" >}}) | 458 | 118573 | 0.4 | /mnt/stockage/packages/f35/gcc/gcc/po/hr.po | 
- | [be]({{< ref "/f35/language/be.md" >}}) | 218 | 120020 | 0.2 | /mnt/stockage/packages/f35/gcc/gcc/po/be.po/mnt/stockage/packages/f35/gcc/libcpp/po/be.po | 
- | [el]({{< ref "/f35/language/el.md" >}}) | 179 | 120020 | 0.1 | /mnt/stockage/packages/f35/gcc/gcc/po/el.po/mnt/stockage/packages/f35/gcc/libcpp/po/el.po | 
+ | [de](/f35/language/de) | 120025 | 120025 | 100.0 | /mnt/stockage/packages/f35/gcc/gcc/po/de.po/mnt/stockage/packages/f35/gcc/libcpp/po/de.po/mnt/stockage/packages/f35/gcc/libstdc++-v3/po/de.po | 
+ | [eo](/f35/language/eo) | 1447 | 1447 | 100.0 | /mnt/stockage/packages/f35/gcc/libcpp/po/eo.po | 
+ | [fr](/f35/language/fr) | 120025 | 120025 | 100.0 | /mnt/stockage/packages/f35/gcc/gcc/po/fr.po/mnt/stockage/packages/f35/gcc/libcpp/po/fr.po/mnt/stockage/packages/f35/gcc/libstdc++-v3/po/fr.po | 
+ | [pt_BR](/f35/language/pt_BR) | 1447 | 1447 | 100.0 | /mnt/stockage/packages/f35/gcc/libcpp/po/pt_BR.po | 
+ | [sv](/f35/language/sv) | 120020 | 120020 | 100.0 | /mnt/stockage/packages/f35/gcc/gcc/po/sv.po/mnt/stockage/packages/f35/gcc/libcpp/po/sv.po | 
+ | [ru](/f35/language/ru) | 79347 | 120020 | 66.1 | /mnt/stockage/packages/f35/gcc/gcc/po/ru.po/mnt/stockage/packages/f35/gcc/libcpp/po/ru.po | 
+ | [ca](/f35/language/ca) | 920 | 1447 | 63.6 | /mnt/stockage/packages/f35/gcc/libcpp/po/ca.po | 
+ | [es](/f35/language/es) | 66016 | 120020 | 55.0 | /mnt/stockage/packages/f35/gcc/gcc/po/es.po/mnt/stockage/packages/f35/gcc/libcpp/po/es.po | 
+ | [zh_Hans](/f35/language/zh_Hans) | 29432 | 120020 | 24.5 | /mnt/stockage/packages/f35/gcc/gcc/po/zh_CN.po/mnt/stockage/packages/f35/gcc/libcpp/po/zh_CN.po | 
+ | [vi](/f35/language/vi) | 26457 | 119923 | 22.1 | /mnt/stockage/packages/f35/gcc/gcc/po/vi.po/mnt/stockage/packages/f35/gcc/libcpp/po/vi.po | 
+ | [id](/f35/language/id) | 20634 | 120020 | 17.2 | /mnt/stockage/packages/f35/gcc/gcc/po/id.po/mnt/stockage/packages/f35/gcc/libcpp/po/id.po | 
+ | [sr](/f35/language/sr) | 17638 | 120020 | 14.7 | /mnt/stockage/packages/f35/gcc/gcc/po/sr.po/mnt/stockage/packages/f35/gcc/libcpp/po/sr.po | 
+ | [tr](/f35/language/tr) | 15749 | 119923 | 13.1 | /mnt/stockage/packages/f35/gcc/gcc/po/tr.po/mnt/stockage/packages/f35/gcc/libcpp/po/tr.po | 
+ | [zh_Hant](/f35/language/zh_Hant) | 15250 | 120020 | 12.7 | /mnt/stockage/packages/f35/gcc/gcc/po/zh_TW.po/mnt/stockage/packages/f35/gcc/libcpp/po/zh_TW.po | 
+ | [fi](/f35/language/fi) | 15134 | 120020 | 12.6 | /mnt/stockage/packages/f35/gcc/gcc/po/fi.po/mnt/stockage/packages/f35/gcc/libcpp/po/fi.po | 
+ | [ja](/f35/language/ja) | 14546 | 120020 | 12.1 | /mnt/stockage/packages/f35/gcc/gcc/po/ja.po/mnt/stockage/packages/f35/gcc/libcpp/po/ja.po | 
+ | [da](/f35/language/da) | 11571 | 120020 | 9.6 | /mnt/stockage/packages/f35/gcc/gcc/po/da.po/mnt/stockage/packages/f35/gcc/libcpp/po/da.po | 
+ | [uk](/f35/language/uk) | 9442 | 119923 | 7.9 | /mnt/stockage/packages/f35/gcc/gcc/po/uk.po/mnt/stockage/packages/f35/gcc/libcpp/po/uk.po | 
+ | [nl](/f35/language/nl) | 5196 | 120020 | 4.3 | /mnt/stockage/packages/f35/gcc/gcc/po/nl.po/mnt/stockage/packages/f35/gcc/libcpp/po/nl.po | 
+ | [hr](/f35/language/hr) | 458 | 118573 | 0.4 | /mnt/stockage/packages/f35/gcc/gcc/po/hr.po | 
+ | [be](/f35/language/be) | 218 | 120020 | 0.2 | /mnt/stockage/packages/f35/gcc/gcc/po/be.po/mnt/stockage/packages/f35/gcc/libcpp/po/be.po | 
+ | [el](/f35/language/el) | 179 | 120020 | 0.1 | /mnt/stockage/packages/f35/gcc/gcc/po/el.po/mnt/stockage/packages/f35/gcc/libcpp/po/el.po | 
 {.sortable}
 
 

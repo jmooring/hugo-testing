@@ -18,18 +18,18 @@ The package gedit-latex (version 3.2.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [da]({{< ref "/f16/language/da.md" >}}) | 276 | 276 | 100.0 | /mnt/stockage/packages/f16/gedit-latex/po/da.po | 
- | [de]({{< ref "/f16/language/de.md" >}}) | 298 | 298 | 100.0 | /mnt/stockage/packages/f16/gedit-latex/po/de.po | 
- | [es]({{< ref "/f16/language/es.md" >}}) | 298 | 298 | 100.0 | /mnt/stockage/packages/f16/gedit-latex/po/es.po | 
- | [fr]({{< ref "/f16/language/fr.md" >}}) | 276 | 276 | 100.0 | /mnt/stockage/packages/f16/gedit-latex/po/fr.po | 
- | [gl]({{< ref "/f16/language/gl.md" >}}) | 298 | 298 | 100.0 | /mnt/stockage/packages/f16/gedit-latex/po/gl.po | 
- | [sl]({{< ref "/f16/language/sl.md" >}}) | 298 | 298 | 100.0 | /mnt/stockage/packages/f16/gedit-latex/po/sl.po | 
- | [th]({{< ref "/f16/language/th.md" >}}) | 298 | 298 | 100.0 | /mnt/stockage/packages/f16/gedit-latex/po/th.po | 
- | [cs]({{< ref "/f16/language/cs.md" >}}) | 280 | 298 | 94.0 | /mnt/stockage/packages/f16/gedit-latex/po/cs.po | 
- | [zh_Hans]({{< ref "/f16/language/zh_Hans.md" >}}) | 236 | 276 | 85.5 | /mnt/stockage/packages/f16/gedit-latex/po/zh_CN.po | 
- | [ru]({{< ref "/f16/language/ru.md" >}}) | 251 | 298 | 84.2 | /mnt/stockage/packages/f16/gedit-latex/po/ru.po | 
- | [sv]({{< ref "/f16/language/sv.md" >}}) | 146 | 298 | 49.0 | /mnt/stockage/packages/f16/gedit-latex/po/sv.po | 
- | [nb_NO]({{< ref "/f16/language/nb_NO.md" >}}) | 85 | 298 | 28.5 | /mnt/stockage/packages/f16/gedit-latex/po/nb.po | 
+ | [da](/f16/language/da) | 276 | 276 | 100.0 | /mnt/stockage/packages/f16/gedit-latex/po/da.po | 
+ | [de](/f16/language/de) | 298 | 298 | 100.0 | /mnt/stockage/packages/f16/gedit-latex/po/de.po | 
+ | [es](/f16/language/es) | 298 | 298 | 100.0 | /mnt/stockage/packages/f16/gedit-latex/po/es.po | 
+ | [fr](/f16/language/fr) | 276 | 276 | 100.0 | /mnt/stockage/packages/f16/gedit-latex/po/fr.po | 
+ | [gl](/f16/language/gl) | 298 | 298 | 100.0 | /mnt/stockage/packages/f16/gedit-latex/po/gl.po | 
+ | [sl](/f16/language/sl) | 298 | 298 | 100.0 | /mnt/stockage/packages/f16/gedit-latex/po/sl.po | 
+ | [th](/f16/language/th) | 298 | 298 | 100.0 | /mnt/stockage/packages/f16/gedit-latex/po/th.po | 
+ | [cs](/f16/language/cs) | 280 | 298 | 94.0 | /mnt/stockage/packages/f16/gedit-latex/po/cs.po | 
+ | [zh_Hans](/f16/language/zh_Hans) | 236 | 276 | 85.5 | /mnt/stockage/packages/f16/gedit-latex/po/zh_CN.po | 
+ | [ru](/f16/language/ru) | 251 | 298 | 84.2 | /mnt/stockage/packages/f16/gedit-latex/po/ru.po | 
+ | [sv](/f16/language/sv) | 146 | 298 | 49.0 | /mnt/stockage/packages/f16/gedit-latex/po/sv.po | 
+ | [nb_NO](/f16/language/nb_NO) | 85 | 298 | 28.5 | /mnt/stockage/packages/f16/gedit-latex/po/nb.po | 
 {.sortable}
 
 

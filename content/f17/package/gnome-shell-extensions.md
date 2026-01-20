@@ -18,42 +18,42 @@ The package gnome-shell-extensions (version 3.4.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f17/language/ca.md" >}}) | 421 | 421 | 100.0 | /mnt/stockage/packages/f17/gnome-shell-extensions/po/ca.po | 
- | [cs]({{< ref "/f17/language/cs.md" >}}) | 414 | 414 | 100.0 | /mnt/stockage/packages/f17/gnome-shell-extensions/po/cs.po | 
- | [de]({{< ref "/f17/language/de.md" >}}) | 414 | 414 | 100.0 | /mnt/stockage/packages/f17/gnome-shell-extensions/po/de.po | 
- | [el]({{< ref "/f17/language/el.md" >}}) | 420 | 420 | 100.0 | /mnt/stockage/packages/f17/gnome-shell-extensions/po/el.po | 
- | [en_GB]({{< ref "/f17/language/en_GB.md" >}}) | 422 | 422 | 100.0 | /mnt/stockage/packages/f17/gnome-shell-extensions/po/en_GB.po | 
- | [es]({{< ref "/f17/language/es.md" >}}) | 414 | 414 | 100.0 | /mnt/stockage/packages/f17/gnome-shell-extensions/po/es.po | 
- | [fa]({{< ref "/f17/language/fa.md" >}}) | 89 | 89 | 100.0 | /mnt/stockage/packages/f17/gnome-shell-extensions/po/fa.po | 
- | [fr]({{< ref "/f17/language/fr.md" >}}) | 414 | 414 | 100.0 | /mnt/stockage/packages/f17/gnome-shell-extensions/po/fr.po | 
- | [gl]({{< ref "/f17/language/gl.md" >}}) | 414 | 414 | 100.0 | /mnt/stockage/packages/f17/gnome-shell-extensions/po/gl.po | 
- | [he]({{< ref "/f17/language/he.md" >}}) | 198 | 198 | 100.0 | /mnt/stockage/packages/f17/gnome-shell-extensions/po/he.po | 
- | [hu]({{< ref "/f17/language/hu.md" >}}) | 414 | 414 | 100.0 | /mnt/stockage/packages/f17/gnome-shell-extensions/po/hu.po | 
- | [it]({{< ref "/f17/language/it.md" >}}) | 414 | 414 | 100.0 | /mnt/stockage/packages/f17/gnome-shell-extensions/po/it.po | 
- | [lt]({{< ref "/f17/language/lt.md" >}}) | 383 | 383 | 100.0 | /mnt/stockage/packages/f17/gnome-shell-extensions/po/lt.po | 
- | [lv]({{< ref "/f17/language/lv.md" >}}) | 414 | 414 | 100.0 | /mnt/stockage/packages/f17/gnome-shell-extensions/po/lv.po | 
- | [pl]({{< ref "/f17/language/pl.md" >}}) | 414 | 414 | 100.0 | /mnt/stockage/packages/f17/gnome-shell-extensions/po/pl.po | 
- | [pt]({{< ref "/f17/language/pt.md" >}}) | 73 | 73 | 100.0 | /mnt/stockage/packages/f17/gnome-shell-extensions/po/pt.po | 
- | [pt_BR]({{< ref "/f17/language/pt_BR.md" >}}) | 414 | 414 | 100.0 | /mnt/stockage/packages/f17/gnome-shell-extensions/po/pt_BR.po | 
- | [ru]({{< ref "/f17/language/ru.md" >}}) | 420 | 420 | 100.0 | /mnt/stockage/packages/f17/gnome-shell-extensions/po/ru.po | 
- | [sl]({{< ref "/f17/language/sl.md" >}}) | 414 | 414 | 100.0 | /mnt/stockage/packages/f17/gnome-shell-extensions/po/sl.po | 
- | [sr]({{< ref "/f17/language/sr.md" >}}) | 828 | 828 | 100.0 | /mnt/stockage/packages/f17/gnome-shell-extensions/po/sr@latin.po/mnt/stockage/packages/f17/gnome-shell-extensions/po/sr.po | 
- | [uk]({{< ref "/f17/language/uk.md" >}}) | 424 | 424 | 100.0 | /mnt/stockage/packages/f17/gnome-shell-extensions/po/uk.po | 
- | [zh_Hant]({{< ref "/f17/language/zh_Hant.md" >}}) | 414 | 414 | 100.0 | /mnt/stockage/packages/f17/gnome-shell-extensions/po/zh_TW.po | 
- | [zh_Hant_HK]({{< ref "/f17/language/zh_Hant_HK.md" >}}) | 414 | 414 | 100.0 | /mnt/stockage/packages/f17/gnome-shell-extensions/po/zh_HK.po | 
- | [vi]({{< ref "/f17/language/vi.md" >}}) | 319 | 420 | 76.0 | /mnt/stockage/packages/f17/gnome-shell-extensions/po/vi.po | 
- | [sk]({{< ref "/f17/language/sk.md" >}}) | 292 | 424 | 68.9 | /mnt/stockage/packages/f17/gnome-shell-extensions/po/sk.po | 
- | [da]({{< ref "/f17/language/da.md" >}}) | 219 | 383 | 57.2 | /mnt/stockage/packages/f17/gnome-shell-extensions/po/da.po | 
- | [ja]({{< ref "/f17/language/ja.md" >}}) | 224 | 420 | 53.3 | /mnt/stockage/packages/f17/gnome-shell-extensions/po/ja.po | 
- | [zh_Hans]({{< ref "/f17/language/zh_Hans.md" >}}) | 221 | 424 | 52.1 | /mnt/stockage/packages/f17/gnome-shell-extensions/po/zh_CN.po | 
- | [pa]({{< ref "/f17/language/pa.md" >}}) | 209 | 414 | 50.5 | /mnt/stockage/packages/f17/gnome-shell-extensions/po/pa.po | 
- | [ar]({{< ref "/f17/language/ar.md" >}}) | 183 | 414 | 44.2 | /mnt/stockage/packages/f17/gnome-shell-extensions/po/ar.po | 
- | [nb_NO]({{< ref "/f17/language/nb_NO.md" >}}) | 108 | 414 | 26.1 | /mnt/stockage/packages/f17/gnome-shell-extensions/po/nb.po | 
- | [sv]({{< ref "/f17/language/sv.md" >}}) | 108 | 414 | 26.1 | /mnt/stockage/packages/f17/gnome-shell-extensions/po/sv.po | 
- | [te]({{< ref "/f17/language/te.md" >}}) | 95 | 420 | 22.6 | /mnt/stockage/packages/f17/gnome-shell-extensions/po/te.po | 
- | [fi]({{< ref "/f17/language/fi.md" >}}) | 87 | 414 | 21.0 | /mnt/stockage/packages/f17/gnome-shell-extensions/po/fi.po | 
- | [eu]({{< ref "/f17/language/eu.md" >}}) | 85 | 420 | 20.2 | /mnt/stockage/packages/f17/gnome-shell-extensions/po/eu.po | 
- | [eo]({{< ref "/f17/language/eo.md" >}}) | 42 | 383 | 11.0 | /mnt/stockage/packages/f17/gnome-shell-extensions/po/eo.po | 
+ | [ca](/f17/language/ca) | 421 | 421 | 100.0 | /mnt/stockage/packages/f17/gnome-shell-extensions/po/ca.po | 
+ | [cs](/f17/language/cs) | 414 | 414 | 100.0 | /mnt/stockage/packages/f17/gnome-shell-extensions/po/cs.po | 
+ | [de](/f17/language/de) | 414 | 414 | 100.0 | /mnt/stockage/packages/f17/gnome-shell-extensions/po/de.po | 
+ | [el](/f17/language/el) | 420 | 420 | 100.0 | /mnt/stockage/packages/f17/gnome-shell-extensions/po/el.po | 
+ | [en_GB](/f17/language/en_GB) | 422 | 422 | 100.0 | /mnt/stockage/packages/f17/gnome-shell-extensions/po/en_GB.po | 
+ | [es](/f17/language/es) | 414 | 414 | 100.0 | /mnt/stockage/packages/f17/gnome-shell-extensions/po/es.po | 
+ | [fa](/f17/language/fa) | 89 | 89 | 100.0 | /mnt/stockage/packages/f17/gnome-shell-extensions/po/fa.po | 
+ | [fr](/f17/language/fr) | 414 | 414 | 100.0 | /mnt/stockage/packages/f17/gnome-shell-extensions/po/fr.po | 
+ | [gl](/f17/language/gl) | 414 | 414 | 100.0 | /mnt/stockage/packages/f17/gnome-shell-extensions/po/gl.po | 
+ | [he](/f17/language/he) | 198 | 198 | 100.0 | /mnt/stockage/packages/f17/gnome-shell-extensions/po/he.po | 
+ | [hu](/f17/language/hu) | 414 | 414 | 100.0 | /mnt/stockage/packages/f17/gnome-shell-extensions/po/hu.po | 
+ | [it](/f17/language/it) | 414 | 414 | 100.0 | /mnt/stockage/packages/f17/gnome-shell-extensions/po/it.po | 
+ | [lt](/f17/language/lt) | 383 | 383 | 100.0 | /mnt/stockage/packages/f17/gnome-shell-extensions/po/lt.po | 
+ | [lv](/f17/language/lv) | 414 | 414 | 100.0 | /mnt/stockage/packages/f17/gnome-shell-extensions/po/lv.po | 
+ | [pl](/f17/language/pl) | 414 | 414 | 100.0 | /mnt/stockage/packages/f17/gnome-shell-extensions/po/pl.po | 
+ | [pt](/f17/language/pt) | 73 | 73 | 100.0 | /mnt/stockage/packages/f17/gnome-shell-extensions/po/pt.po | 
+ | [pt_BR](/f17/language/pt_BR) | 414 | 414 | 100.0 | /mnt/stockage/packages/f17/gnome-shell-extensions/po/pt_BR.po | 
+ | [ru](/f17/language/ru) | 420 | 420 | 100.0 | /mnt/stockage/packages/f17/gnome-shell-extensions/po/ru.po | 
+ | [sl](/f17/language/sl) | 414 | 414 | 100.0 | /mnt/stockage/packages/f17/gnome-shell-extensions/po/sl.po | 
+ | [sr](/f17/language/sr) | 828 | 828 | 100.0 | /mnt/stockage/packages/f17/gnome-shell-extensions/po/sr@latin.po/mnt/stockage/packages/f17/gnome-shell-extensions/po/sr.po | 
+ | [uk](/f17/language/uk) | 424 | 424 | 100.0 | /mnt/stockage/packages/f17/gnome-shell-extensions/po/uk.po | 
+ | [zh_Hant](/f17/language/zh_Hant) | 414 | 414 | 100.0 | /mnt/stockage/packages/f17/gnome-shell-extensions/po/zh_TW.po | 
+ | [zh_Hant_HK](/f17/language/zh_Hant_HK) | 414 | 414 | 100.0 | /mnt/stockage/packages/f17/gnome-shell-extensions/po/zh_HK.po | 
+ | [vi](/f17/language/vi) | 319 | 420 | 76.0 | /mnt/stockage/packages/f17/gnome-shell-extensions/po/vi.po | 
+ | [sk](/f17/language/sk) | 292 | 424 | 68.9 | /mnt/stockage/packages/f17/gnome-shell-extensions/po/sk.po | 
+ | [da](/f17/language/da) | 219 | 383 | 57.2 | /mnt/stockage/packages/f17/gnome-shell-extensions/po/da.po | 
+ | [ja](/f17/language/ja) | 224 | 420 | 53.3 | /mnt/stockage/packages/f17/gnome-shell-extensions/po/ja.po | 
+ | [zh_Hans](/f17/language/zh_Hans) | 221 | 424 | 52.1 | /mnt/stockage/packages/f17/gnome-shell-extensions/po/zh_CN.po | 
+ | [pa](/f17/language/pa) | 209 | 414 | 50.5 | /mnt/stockage/packages/f17/gnome-shell-extensions/po/pa.po | 
+ | [ar](/f17/language/ar) | 183 | 414 | 44.2 | /mnt/stockage/packages/f17/gnome-shell-extensions/po/ar.po | 
+ | [nb_NO](/f17/language/nb_NO) | 108 | 414 | 26.1 | /mnt/stockage/packages/f17/gnome-shell-extensions/po/nb.po | 
+ | [sv](/f17/language/sv) | 108 | 414 | 26.1 | /mnt/stockage/packages/f17/gnome-shell-extensions/po/sv.po | 
+ | [te](/f17/language/te) | 95 | 420 | 22.6 | /mnt/stockage/packages/f17/gnome-shell-extensions/po/te.po | 
+ | [fi](/f17/language/fi) | 87 | 414 | 21.0 | /mnt/stockage/packages/f17/gnome-shell-extensions/po/fi.po | 
+ | [eu](/f17/language/eu) | 85 | 420 | 20.2 | /mnt/stockage/packages/f17/gnome-shell-extensions/po/eu.po | 
+ | [eo](/f17/language/eo) | 42 | 383 | 11.0 | /mnt/stockage/packages/f17/gnome-shell-extensions/po/eo.po | 
 {.sortable}
 
 

@@ -18,86 +18,86 @@ The package gnome-power-manager (version 3.30.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [as]({{< ref "/f29/language/as.md" >}}) | 480 | 480 | 100.0 | /mnt/stockage/packages/f29/gnome-power-manager/po/as.po | 
- | [ast]({{< ref "/f29/language/ast.md" >}}) | 432 | 432 | 100.0 | /mnt/stockage/packages/f29/gnome-power-manager/po/ast.po | 
- | [be]({{< ref "/f29/language/be.md" >}}) | 432 | 432 | 100.0 | /mnt/stockage/packages/f29/gnome-power-manager/po/be.po | 
- | [bg]({{< ref "/f29/language/bg.md" >}}) | 432 | 432 | 100.0 | /mnt/stockage/packages/f29/gnome-power-manager/po/bg.po | 
- | [bn_IN]({{< ref "/f29/language/bn_IN.md" >}}) | 480 | 480 | 100.0 | /mnt/stockage/packages/f29/gnome-power-manager/po/bn_IN.po | 
- | [bs]({{< ref "/f29/language/bs.md" >}}) | 483 | 483 | 100.0 | /mnt/stockage/packages/f29/gnome-power-manager/po/bs.po | 
- | [ca]({{< ref "/f29/language/ca.md" >}}) | 865 | 865 | 100.0 | /mnt/stockage/packages/f29/gnome-power-manager/po/ca.po/mnt/stockage/packages/f29/gnome-power-manager/po/ca@valencia.po | 
- | [cs]({{< ref "/f29/language/cs.md" >}}) | 489 | 489 | 100.0 | /mnt/stockage/packages/f29/gnome-power-manager/po/cs.po | 
- | [da]({{< ref "/f29/language/da.md" >}}) | 489 | 489 | 100.0 | /mnt/stockage/packages/f29/gnome-power-manager/po/da.po | 
- | [de]({{< ref "/f29/language/de.md" >}}) | 489 | 489 | 100.0 | /mnt/stockage/packages/f29/gnome-power-manager/po/de.po | 
- | [el]({{< ref "/f29/language/el.md" >}}) | 483 | 483 | 100.0 | /mnt/stockage/packages/f29/gnome-power-manager/po/el.po | 
- | [en_GB]({{< ref "/f29/language/en_GB.md" >}}) | 432 | 432 | 100.0 | /mnt/stockage/packages/f29/gnome-power-manager/po/en_GB.po | 
- | [en_US]({{< ref "/f29/language/en_US.md" >}}) | 480 | 480 | 100.0 | /mnt/stockage/packages/f29/gnome-power-manager/po/ta.po | 
- | [es]({{< ref "/f29/language/es.md" >}}) | 489 | 489 | 100.0 | /mnt/stockage/packages/f29/gnome-power-manager/po/es.po | 
- | [et]({{< ref "/f29/language/et.md" >}}) | 432 | 432 | 100.0 | /mnt/stockage/packages/f29/gnome-power-manager/po/et.po | 
- | [eu]({{< ref "/f29/language/eu.md" >}}) | 480 | 480 | 100.0 | /mnt/stockage/packages/f29/gnome-power-manager/po/eu.po | 
- | [fa]({{< ref "/f29/language/fa.md" >}}) | 433 | 433 | 100.0 | /mnt/stockage/packages/f29/gnome-power-manager/po/fa.po | 
- | [fi]({{< ref "/f29/language/fi.md" >}}) | 489 | 489 | 100.0 | /mnt/stockage/packages/f29/gnome-power-manager/po/fi.po | 
- | [fr]({{< ref "/f29/language/fr.md" >}}) | 486 | 486 | 100.0 | /mnt/stockage/packages/f29/gnome-power-manager/po/fr.po | 
- | [fur]({{< ref "/f29/language/fur.md" >}}) | 489 | 489 | 100.0 | /mnt/stockage/packages/f29/gnome-power-manager/po/fur.po | 
- | [gd]({{< ref "/f29/language/gd.md" >}}) | 489 | 489 | 100.0 | /mnt/stockage/packages/f29/gnome-power-manager/po/gd.po | 
- | [gl]({{< ref "/f29/language/gl.md" >}}) | 433 | 433 | 100.0 | /mnt/stockage/packages/f29/gnome-power-manager/po/gl.po | 
- | [gu]({{< ref "/f29/language/gu.md" >}}) | 480 | 480 | 100.0 | /mnt/stockage/packages/f29/gnome-power-manager/po/gu.po | 
- | [he]({{< ref "/f29/language/he.md" >}}) | 433 | 433 | 100.0 | /mnt/stockage/packages/f29/gnome-power-manager/po/he.po | 
- | [hi]({{< ref "/f29/language/hi.md" >}}) | 480 | 480 | 100.0 | /mnt/stockage/packages/f29/gnome-power-manager/po/hi.po | 
- | [hr]({{< ref "/f29/language/hr.md" >}}) | 489 | 489 | 100.0 | /mnt/stockage/packages/f29/gnome-power-manager/po/hr.po | 
- | [hu]({{< ref "/f29/language/hu.md" >}}) | 489 | 489 | 100.0 | /mnt/stockage/packages/f29/gnome-power-manager/po/hu.po | 
- | [id]({{< ref "/f29/language/id.md" >}}) | 489 | 489 | 100.0 | /mnt/stockage/packages/f29/gnome-power-manager/po/id.po | 
- | [it]({{< ref "/f29/language/it.md" >}}) | 489 | 489 | 100.0 | /mnt/stockage/packages/f29/gnome-power-manager/po/it.po | 
- | [ja]({{< ref "/f29/language/ja.md" >}}) | 432 | 432 | 100.0 | /mnt/stockage/packages/f29/gnome-power-manager/po/ja.po | 
- | [km]({{< ref "/f29/language/km.md" >}}) | 432 | 432 | 100.0 | /mnt/stockage/packages/f29/gnome-power-manager/po/km.po | 
- | [kn]({{< ref "/f29/language/kn.md" >}}) | 480 | 480 | 100.0 | /mnt/stockage/packages/f29/gnome-power-manager/po/kn.po | 
- | [ko]({{< ref "/f29/language/ko.md" >}}) | 433 | 433 | 100.0 | /mnt/stockage/packages/f29/gnome-power-manager/po/ko.po | 
- | [lt]({{< ref "/f29/language/lt.md" >}}) | 489 | 489 | 100.0 | /mnt/stockage/packages/f29/gnome-power-manager/po/lt.po | 
- | [lv]({{< ref "/f29/language/lv.md" >}}) | 433 | 433 | 100.0 | /mnt/stockage/packages/f29/gnome-power-manager/po/lv.po | 
- | [mk]({{< ref "/f29/language/mk.md" >}}) | 432 | 432 | 100.0 | /mnt/stockage/packages/f29/gnome-power-manager/po/mk.po | 
- | [ml]({{< ref "/f29/language/ml.md" >}}) | 433 | 433 | 100.0 | /mnt/stockage/packages/f29/gnome-power-manager/po/ml.po | 
- | [mr]({{< ref "/f29/language/mr.md" >}}) | 480 | 480 | 100.0 | /mnt/stockage/packages/f29/gnome-power-manager/po/mr.po | 
- | [nb_NO]({{< ref "/f29/language/nb_NO.md" >}}) | 433 | 433 | 100.0 | /mnt/stockage/packages/f29/gnome-power-manager/po/nb.po | 
- | [nl]({{< ref "/f29/language/nl.md" >}}) | 489 | 489 | 100.0 | /mnt/stockage/packages/f29/gnome-power-manager/po/nl.po | 
- | [or]({{< ref "/f29/language/or.md" >}}) | 480 | 480 | 100.0 | /mnt/stockage/packages/f29/gnome-power-manager/po/or.po | 
- | [pa]({{< ref "/f29/language/pa.md" >}}) | 432 | 432 | 100.0 | /mnt/stockage/packages/f29/gnome-power-manager/po/pa.po | 
- | [pl]({{< ref "/f29/language/pl.md" >}}) | 489 | 489 | 100.0 | /mnt/stockage/packages/f29/gnome-power-manager/po/pl.po | 
- | [pt]({{< ref "/f29/language/pt.md" >}}) | 483 | 483 | 100.0 | /mnt/stockage/packages/f29/gnome-power-manager/po/pt.po | 
- | [pt_BR]({{< ref "/f29/language/pt_BR.md" >}}) | 489 | 489 | 100.0 | /mnt/stockage/packages/f29/gnome-power-manager/po/pt_BR.po | 
- | [ru]({{< ref "/f29/language/ru.md" >}}) | 489 | 489 | 100.0 | /mnt/stockage/packages/f29/gnome-power-manager/po/ru.po | 
- | [sl]({{< ref "/f29/language/sl.md" >}}) | 489 | 489 | 100.0 | /mnt/stockage/packages/f29/gnome-power-manager/po/sl.po | 
- | [sr]({{< ref "/f29/language/sr.md" >}}) | 978 | 978 | 100.0 | /mnt/stockage/packages/f29/gnome-power-manager/po/sr.po/mnt/stockage/packages/f29/gnome-power-manager/po/sr@latin.po | 
- | [sv]({{< ref "/f29/language/sv.md" >}}) | 489 | 489 | 100.0 | /mnt/stockage/packages/f29/gnome-power-manager/po/sv.po | 
- | [te]({{< ref "/f29/language/te.md" >}}) | 480 | 480 | 100.0 | /mnt/stockage/packages/f29/gnome-power-manager/po/te.po | 
- | [th]({{< ref "/f29/language/th.md" >}}) | 432 | 432 | 100.0 | /mnt/stockage/packages/f29/gnome-power-manager/po/th.po | 
- | [tr]({{< ref "/f29/language/tr.md" >}}) | 489 | 489 | 100.0 | /mnt/stockage/packages/f29/gnome-power-manager/po/tr.po | 
- | [uk]({{< ref "/f29/language/uk.md" >}}) | 433 | 433 | 100.0 | /mnt/stockage/packages/f29/gnome-power-manager/po/uk.po | 
- | [vi]({{< ref "/f29/language/vi.md" >}}) | 483 | 483 | 100.0 | /mnt/stockage/packages/f29/gnome-power-manager/po/vi.po | 
- | [zh_Hans]({{< ref "/f29/language/zh_Hans.md" >}}) | 489 | 489 | 100.0 | /mnt/stockage/packages/f29/gnome-power-manager/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f29/language/zh_Hant.md" >}}) | 489 | 489 | 100.0 | /mnt/stockage/packages/f29/gnome-power-manager/po/zh_TW.po | 
- | [zh_Hant_HK]({{< ref "/f29/language/zh_Hant_HK.md" >}}) | 480 | 480 | 100.0 | /mnt/stockage/packages/f29/gnome-power-manager/po/zh_HK.po | 
- | [ug]({{< ref "/f29/language/ug.md" >}}) | 432 | 433 | 99.8 | /mnt/stockage/packages/f29/gnome-power-manager/po/ug.po | 
- | [sk]({{< ref "/f29/language/sk.md" >}}) | 450 | 486 | 92.6 | /mnt/stockage/packages/f29/gnome-power-manager/po/sk.po | 
- | [eo]({{< ref "/f29/language/eo.md" >}}) | 442 | 489 | 90.4 | /mnt/stockage/packages/f29/gnome-power-manager/po/eo.po | 
- | [oc]({{< ref "/f29/language/oc.md" >}}) | 436 | 483 | 90.3 | /mnt/stockage/packages/f29/gnome-power-manager/po/oc.po | 
- | [ro]({{< ref "/f29/language/ro.md" >}}) | 432 | 483 | 89.4 | /mnt/stockage/packages/f29/gnome-power-manager/po/ro.po | 
- | [bn]({{< ref "/f29/language/bn.md" >}}) | 379 | 432 | 87.7 | /mnt/stockage/packages/f29/gnome-power-manager/po/bn.po | 
- | [ar]({{< ref "/f29/language/ar.md" >}}) | 250 | 432 | 57.9 | /mnt/stockage/packages/f29/gnome-power-manager/po/ar.po | 
- | [error]({{< ref "/f29/language/error.md" >}}) | 229 | 432 | 53.0 | /mnt/stockage/packages/f29/gnome-power-manager/po/en@shaw.po | 
- | [af]({{< ref "/f29/language/af.md" >}}) | 218 | 432 | 50.5 | /mnt/stockage/packages/f29/gnome-power-manager/po/af.po | 
- | [ga]({{< ref "/f29/language/ga.md" >}}) | 207 | 432 | 47.9 | /mnt/stockage/packages/f29/gnome-power-manager/po/ga.po | 
- | [be_Latn]({{< ref "/f29/language/be_Latn.md" >}}) | 186 | 432 | 43.1 | /mnt/stockage/packages/f29/gnome-power-manager/po/be@latin.po | 
- | [cy]({{< ref "/f29/language/cy.md" >}}) | 154 | 432 | 35.6 | /mnt/stockage/packages/f29/gnome-power-manager/po/cy.po | 
- | [nn]({{< ref "/f29/language/nn.md" >}}) | 99 | 432 | 22.9 | /mnt/stockage/packages/f29/gnome-power-manager/po/nn.po | 
- | [tg]({{< ref "/f29/language/tg.md" >}}) | 70 | 433 | 16.2 | /mnt/stockage/packages/f29/gnome-power-manager/po/tg.po | 
- | [mai]({{< ref "/f29/language/mai.md" >}}) | 58 | 432 | 13.4 | /mnt/stockage/packages/f29/gnome-power-manager/po/mai.po | 
- | [dz]({{< ref "/f29/language/dz.md" >}}) | 32 | 432 | 7.4 | /mnt/stockage/packages/f29/gnome-power-manager/po/dz.po | 
- | [en_CA]({{< ref "/f29/language/en_CA.md" >}}) | 18 | 432 | 4.2 | /mnt/stockage/packages/f29/gnome-power-manager/po/en_CA.po | 
- | [ku]({{< ref "/f29/language/ku.md" >}}) | 13 | 432 | 3.0 | /mnt/stockage/packages/f29/gnome-power-manager/po/ku.po | 
- | [si]({{< ref "/f29/language/si.md" >}}) | 9 | 432 | 2.1 | /mnt/stockage/packages/f29/gnome-power-manager/po/si.po | 
- | [my]({{< ref "/f29/language/my.md" >}}) | 56 | 2852 | 2.0 | /mnt/stockage/packages/f29/gnome-power-manager/po/my.po | 
- | [mg]({{< ref "/f29/language/mg.md" >}}) | 8 | 432 | 1.9 | /mnt/stockage/packages/f29/gnome-power-manager/po/mg.po | 
- | [is]({{< ref "/f29/language/is.md" >}}) | 7 | 432 | 1.6 | /mnt/stockage/packages/f29/gnome-power-manager/po/is.po | 
- | [ka]({{< ref "/f29/language/ka.md" >}}) | 0 | 432 | 0.0 | /mnt/stockage/packages/f29/gnome-power-manager/po/ka.po | 
+ | [as](/f29/language/as) | 480 | 480 | 100.0 | /mnt/stockage/packages/f29/gnome-power-manager/po/as.po | 
+ | [ast](/f29/language/ast) | 432 | 432 | 100.0 | /mnt/stockage/packages/f29/gnome-power-manager/po/ast.po | 
+ | [be](/f29/language/be) | 432 | 432 | 100.0 | /mnt/stockage/packages/f29/gnome-power-manager/po/be.po | 
+ | [bg](/f29/language/bg) | 432 | 432 | 100.0 | /mnt/stockage/packages/f29/gnome-power-manager/po/bg.po | 
+ | [bn_IN](/f29/language/bn_IN) | 480 | 480 | 100.0 | /mnt/stockage/packages/f29/gnome-power-manager/po/bn_IN.po | 
+ | [bs](/f29/language/bs) | 483 | 483 | 100.0 | /mnt/stockage/packages/f29/gnome-power-manager/po/bs.po | 
+ | [ca](/f29/language/ca) | 865 | 865 | 100.0 | /mnt/stockage/packages/f29/gnome-power-manager/po/ca.po/mnt/stockage/packages/f29/gnome-power-manager/po/ca@valencia.po | 
+ | [cs](/f29/language/cs) | 489 | 489 | 100.0 | /mnt/stockage/packages/f29/gnome-power-manager/po/cs.po | 
+ | [da](/f29/language/da) | 489 | 489 | 100.0 | /mnt/stockage/packages/f29/gnome-power-manager/po/da.po | 
+ | [de](/f29/language/de) | 489 | 489 | 100.0 | /mnt/stockage/packages/f29/gnome-power-manager/po/de.po | 
+ | [el](/f29/language/el) | 483 | 483 | 100.0 | /mnt/stockage/packages/f29/gnome-power-manager/po/el.po | 
+ | [en_GB](/f29/language/en_GB) | 432 | 432 | 100.0 | /mnt/stockage/packages/f29/gnome-power-manager/po/en_GB.po | 
+ | [en_US](/f29/language/en_US) | 480 | 480 | 100.0 | /mnt/stockage/packages/f29/gnome-power-manager/po/ta.po | 
+ | [es](/f29/language/es) | 489 | 489 | 100.0 | /mnt/stockage/packages/f29/gnome-power-manager/po/es.po | 
+ | [et](/f29/language/et) | 432 | 432 | 100.0 | /mnt/stockage/packages/f29/gnome-power-manager/po/et.po | 
+ | [eu](/f29/language/eu) | 480 | 480 | 100.0 | /mnt/stockage/packages/f29/gnome-power-manager/po/eu.po | 
+ | [fa](/f29/language/fa) | 433 | 433 | 100.0 | /mnt/stockage/packages/f29/gnome-power-manager/po/fa.po | 
+ | [fi](/f29/language/fi) | 489 | 489 | 100.0 | /mnt/stockage/packages/f29/gnome-power-manager/po/fi.po | 
+ | [fr](/f29/language/fr) | 486 | 486 | 100.0 | /mnt/stockage/packages/f29/gnome-power-manager/po/fr.po | 
+ | [fur](/f29/language/fur) | 489 | 489 | 100.0 | /mnt/stockage/packages/f29/gnome-power-manager/po/fur.po | 
+ | [gd](/f29/language/gd) | 489 | 489 | 100.0 | /mnt/stockage/packages/f29/gnome-power-manager/po/gd.po | 
+ | [gl](/f29/language/gl) | 433 | 433 | 100.0 | /mnt/stockage/packages/f29/gnome-power-manager/po/gl.po | 
+ | [gu](/f29/language/gu) | 480 | 480 | 100.0 | /mnt/stockage/packages/f29/gnome-power-manager/po/gu.po | 
+ | [he](/f29/language/he) | 433 | 433 | 100.0 | /mnt/stockage/packages/f29/gnome-power-manager/po/he.po | 
+ | [hi](/f29/language/hi) | 480 | 480 | 100.0 | /mnt/stockage/packages/f29/gnome-power-manager/po/hi.po | 
+ | [hr](/f29/language/hr) | 489 | 489 | 100.0 | /mnt/stockage/packages/f29/gnome-power-manager/po/hr.po | 
+ | [hu](/f29/language/hu) | 489 | 489 | 100.0 | /mnt/stockage/packages/f29/gnome-power-manager/po/hu.po | 
+ | [id](/f29/language/id) | 489 | 489 | 100.0 | /mnt/stockage/packages/f29/gnome-power-manager/po/id.po | 
+ | [it](/f29/language/it) | 489 | 489 | 100.0 | /mnt/stockage/packages/f29/gnome-power-manager/po/it.po | 
+ | [ja](/f29/language/ja) | 432 | 432 | 100.0 | /mnt/stockage/packages/f29/gnome-power-manager/po/ja.po | 
+ | [km](/f29/language/km) | 432 | 432 | 100.0 | /mnt/stockage/packages/f29/gnome-power-manager/po/km.po | 
+ | [kn](/f29/language/kn) | 480 | 480 | 100.0 | /mnt/stockage/packages/f29/gnome-power-manager/po/kn.po | 
+ | [ko](/f29/language/ko) | 433 | 433 | 100.0 | /mnt/stockage/packages/f29/gnome-power-manager/po/ko.po | 
+ | [lt](/f29/language/lt) | 489 | 489 | 100.0 | /mnt/stockage/packages/f29/gnome-power-manager/po/lt.po | 
+ | [lv](/f29/language/lv) | 433 | 433 | 100.0 | /mnt/stockage/packages/f29/gnome-power-manager/po/lv.po | 
+ | [mk](/f29/language/mk) | 432 | 432 | 100.0 | /mnt/stockage/packages/f29/gnome-power-manager/po/mk.po | 
+ | [ml](/f29/language/ml) | 433 | 433 | 100.0 | /mnt/stockage/packages/f29/gnome-power-manager/po/ml.po | 
+ | [mr](/f29/language/mr) | 480 | 480 | 100.0 | /mnt/stockage/packages/f29/gnome-power-manager/po/mr.po | 
+ | [nb_NO](/f29/language/nb_NO) | 433 | 433 | 100.0 | /mnt/stockage/packages/f29/gnome-power-manager/po/nb.po | 
+ | [nl](/f29/language/nl) | 489 | 489 | 100.0 | /mnt/stockage/packages/f29/gnome-power-manager/po/nl.po | 
+ | [or](/f29/language/or) | 480 | 480 | 100.0 | /mnt/stockage/packages/f29/gnome-power-manager/po/or.po | 
+ | [pa](/f29/language/pa) | 432 | 432 | 100.0 | /mnt/stockage/packages/f29/gnome-power-manager/po/pa.po | 
+ | [pl](/f29/language/pl) | 489 | 489 | 100.0 | /mnt/stockage/packages/f29/gnome-power-manager/po/pl.po | 
+ | [pt](/f29/language/pt) | 483 | 483 | 100.0 | /mnt/stockage/packages/f29/gnome-power-manager/po/pt.po | 
+ | [pt_BR](/f29/language/pt_BR) | 489 | 489 | 100.0 | /mnt/stockage/packages/f29/gnome-power-manager/po/pt_BR.po | 
+ | [ru](/f29/language/ru) | 489 | 489 | 100.0 | /mnt/stockage/packages/f29/gnome-power-manager/po/ru.po | 
+ | [sl](/f29/language/sl) | 489 | 489 | 100.0 | /mnt/stockage/packages/f29/gnome-power-manager/po/sl.po | 
+ | [sr](/f29/language/sr) | 978 | 978 | 100.0 | /mnt/stockage/packages/f29/gnome-power-manager/po/sr.po/mnt/stockage/packages/f29/gnome-power-manager/po/sr@latin.po | 
+ | [sv](/f29/language/sv) | 489 | 489 | 100.0 | /mnt/stockage/packages/f29/gnome-power-manager/po/sv.po | 
+ | [te](/f29/language/te) | 480 | 480 | 100.0 | /mnt/stockage/packages/f29/gnome-power-manager/po/te.po | 
+ | [th](/f29/language/th) | 432 | 432 | 100.0 | /mnt/stockage/packages/f29/gnome-power-manager/po/th.po | 
+ | [tr](/f29/language/tr) | 489 | 489 | 100.0 | /mnt/stockage/packages/f29/gnome-power-manager/po/tr.po | 
+ | [uk](/f29/language/uk) | 433 | 433 | 100.0 | /mnt/stockage/packages/f29/gnome-power-manager/po/uk.po | 
+ | [vi](/f29/language/vi) | 483 | 483 | 100.0 | /mnt/stockage/packages/f29/gnome-power-manager/po/vi.po | 
+ | [zh_Hans](/f29/language/zh_Hans) | 489 | 489 | 100.0 | /mnt/stockage/packages/f29/gnome-power-manager/po/zh_CN.po | 
+ | [zh_Hant](/f29/language/zh_Hant) | 489 | 489 | 100.0 | /mnt/stockage/packages/f29/gnome-power-manager/po/zh_TW.po | 
+ | [zh_Hant_HK](/f29/language/zh_Hant_HK) | 480 | 480 | 100.0 | /mnt/stockage/packages/f29/gnome-power-manager/po/zh_HK.po | 
+ | [ug](/f29/language/ug) | 432 | 433 | 99.8 | /mnt/stockage/packages/f29/gnome-power-manager/po/ug.po | 
+ | [sk](/f29/language/sk) | 450 | 486 | 92.6 | /mnt/stockage/packages/f29/gnome-power-manager/po/sk.po | 
+ | [eo](/f29/language/eo) | 442 | 489 | 90.4 | /mnt/stockage/packages/f29/gnome-power-manager/po/eo.po | 
+ | [oc](/f29/language/oc) | 436 | 483 | 90.3 | /mnt/stockage/packages/f29/gnome-power-manager/po/oc.po | 
+ | [ro](/f29/language/ro) | 432 | 483 | 89.4 | /mnt/stockage/packages/f29/gnome-power-manager/po/ro.po | 
+ | [bn](/f29/language/bn) | 379 | 432 | 87.7 | /mnt/stockage/packages/f29/gnome-power-manager/po/bn.po | 
+ | [ar](/f29/language/ar) | 250 | 432 | 57.9 | /mnt/stockage/packages/f29/gnome-power-manager/po/ar.po | 
+ | [error](/f29/language/error) | 229 | 432 | 53.0 | /mnt/stockage/packages/f29/gnome-power-manager/po/en@shaw.po | 
+ | [af](/f29/language/af) | 218 | 432 | 50.5 | /mnt/stockage/packages/f29/gnome-power-manager/po/af.po | 
+ | [ga](/f29/language/ga) | 207 | 432 | 47.9 | /mnt/stockage/packages/f29/gnome-power-manager/po/ga.po | 
+ | [be_Latn](/f29/language/be_Latn) | 186 | 432 | 43.1 | /mnt/stockage/packages/f29/gnome-power-manager/po/be@latin.po | 
+ | [cy](/f29/language/cy) | 154 | 432 | 35.6 | /mnt/stockage/packages/f29/gnome-power-manager/po/cy.po | 
+ | [nn](/f29/language/nn) | 99 | 432 | 22.9 | /mnt/stockage/packages/f29/gnome-power-manager/po/nn.po | 
+ | [tg](/f29/language/tg) | 70 | 433 | 16.2 | /mnt/stockage/packages/f29/gnome-power-manager/po/tg.po | 
+ | [mai](/f29/language/mai) | 58 | 432 | 13.4 | /mnt/stockage/packages/f29/gnome-power-manager/po/mai.po | 
+ | [dz](/f29/language/dz) | 32 | 432 | 7.4 | /mnt/stockage/packages/f29/gnome-power-manager/po/dz.po | 
+ | [en_CA](/f29/language/en_CA) | 18 | 432 | 4.2 | /mnt/stockage/packages/f29/gnome-power-manager/po/en_CA.po | 
+ | [ku](/f29/language/ku) | 13 | 432 | 3.0 | /mnt/stockage/packages/f29/gnome-power-manager/po/ku.po | 
+ | [si](/f29/language/si) | 9 | 432 | 2.1 | /mnt/stockage/packages/f29/gnome-power-manager/po/si.po | 
+ | [my](/f29/language/my) | 56 | 2852 | 2.0 | /mnt/stockage/packages/f29/gnome-power-manager/po/my.po | 
+ | [mg](/f29/language/mg) | 8 | 432 | 1.9 | /mnt/stockage/packages/f29/gnome-power-manager/po/mg.po | 
+ | [is](/f29/language/is) | 7 | 432 | 1.6 | /mnt/stockage/packages/f29/gnome-power-manager/po/is.po | 
+ | [ka](/f29/language/ka) | 0 | 432 | 0.0 | /mnt/stockage/packages/f29/gnome-power-manager/po/ka.po | 
 {.sortable}
 
 

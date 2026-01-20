@@ -18,9 +18,9 @@ The package gnome-shell-extension-suspend-button (version 19):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f36/language/de.md" >}}) | 70 | 70 | 100.0 | /mnt/stockage/packages/f36/gnome-shell-extension-suspend-button/locale/de_CH/LC_MESSAGES/gnome-shell-extension-suspend-button.po/mnt/stockage/packages/f36/gnome-shell-extension-suspend-button/locale/de/LC_MESSAGES/gnome-shell-extension-suspend-button.po | 
- | [pl]({{< ref "/f36/language/pl.md" >}}) | 35 | 35 | 100.0 | /mnt/stockage/packages/f36/gnome-shell-extension-suspend-button/locale/pl/LC_MESSAGES/gnome-shell-extension-suspend-button.po | 
- | [zh_Hans]({{< ref "/f36/language/zh_Hans.md" >}}) | 35 | 35 | 100.0 | /mnt/stockage/packages/f36/gnome-shell-extension-suspend-button/locale/zh_CN/LC_MESSAGES/gnome-shell-extension-suspend-button.po | 
+ | [de](/f36/language/de) | 70 | 70 | 100.0 | /mnt/stockage/packages/f36/gnome-shell-extension-suspend-button/locale/de_CH/LC_MESSAGES/gnome-shell-extension-suspend-button.po/mnt/stockage/packages/f36/gnome-shell-extension-suspend-button/locale/de/LC_MESSAGES/gnome-shell-extension-suspend-button.po | 
+ | [pl](/f36/language/pl) | 35 | 35 | 100.0 | /mnt/stockage/packages/f36/gnome-shell-extension-suspend-button/locale/pl/LC_MESSAGES/gnome-shell-extension-suspend-button.po | 
+ | [zh_Hans](/f36/language/zh_Hans) | 35 | 35 | 100.0 | /mnt/stockage/packages/f36/gnome-shell-extension-suspend-button/locale/zh_CN/LC_MESSAGES/gnome-shell-extension-suspend-button.po | 
 {.sortable}
 
 

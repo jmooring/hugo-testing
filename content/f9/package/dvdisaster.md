@@ -18,11 +18,11 @@ The package dvdisaster (version 0.70.5):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f9/language/de.md" >}}) | 4230 | 4245 | 99.6 | /mnt/stockage/packages/f9/dvdisaster/locale/de.po | 
- | [ru]({{< ref "/f9/language/ru.md" >}}) | 4230 | 4245 | 99.6 | /mnt/stockage/packages/f9/dvdisaster/locale/ru.po | 
- | [sv]({{< ref "/f9/language/sv.md" >}}) | 3623 | 4245 | 85.3 | /mnt/stockage/packages/f9/dvdisaster/locale/sv.po | 
- | [cs]({{< ref "/f9/language/cs.md" >}}) | 3170 | 4245 | 74.7 | /mnt/stockage/packages/f9/dvdisaster/locale/cs.po | 
- | [it]({{< ref "/f9/language/it.md" >}}) | 2977 | 4245 | 70.1 | /mnt/stockage/packages/f9/dvdisaster/locale/it.po | 
+ | [de](/f9/language/de) | 4230 | 4245 | 99.6 | /mnt/stockage/packages/f9/dvdisaster/locale/de.po | 
+ | [ru](/f9/language/ru) | 4230 | 4245 | 99.6 | /mnt/stockage/packages/f9/dvdisaster/locale/ru.po | 
+ | [sv](/f9/language/sv) | 3623 | 4245 | 85.3 | /mnt/stockage/packages/f9/dvdisaster/locale/sv.po | 
+ | [cs](/f9/language/cs) | 3170 | 4245 | 74.7 | /mnt/stockage/packages/f9/dvdisaster/locale/cs.po | 
+ | [it](/f9/language/it) | 2977 | 4245 | 70.1 | /mnt/stockage/packages/f9/dvdisaster/locale/it.po | 
 {.sortable}
 
 

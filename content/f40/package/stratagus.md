@@ -18,14 +18,14 @@ The package stratagus (version 3.3.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [es]({{< ref "/f40/language/es.md" >}}) | 253 | 253 | 100.0 | /mnt/stockage/packages/f40/stratagus/po/es.po | 
- | [it]({{< ref "/f40/language/it.md" >}}) | 253 | 253 | 100.0 | /mnt/stockage/packages/f40/stratagus/po/it.po | 
- | [sv]({{< ref "/f40/language/sv.md" >}}) | 245 | 245 | 100.0 | /mnt/stockage/packages/f40/stratagus/po/sv.po | 
- | [fr]({{< ref "/f40/language/fr.md" >}}) | 237 | 245 | 96.7 | /mnt/stockage/packages/f40/stratagus/po/fr.po | 
- | [bg]({{< ref "/f40/language/bg.md" >}}) | 211 | 245 | 86.1 | /mnt/stockage/packages/f40/stratagus/po/bg.po | 
- | [fi]({{< ref "/f40/language/fi.md" >}}) | 211 | 245 | 86.1 | /mnt/stockage/packages/f40/stratagus/po/fi.po | 
- | [pl]({{< ref "/f40/language/pl.md" >}}) | 211 | 245 | 86.1 | /mnt/stockage/packages/f40/stratagus/po/pl.po | 
- | [de]({{< ref "/f40/language/de.md" >}}) | 164 | 245 | 66.9 | /mnt/stockage/packages/f40/stratagus/po/de.po | 
+ | [es](/f40/language/es) | 253 | 253 | 100.0 | /mnt/stockage/packages/f40/stratagus/po/es.po | 
+ | [it](/f40/language/it) | 253 | 253 | 100.0 | /mnt/stockage/packages/f40/stratagus/po/it.po | 
+ | [sv](/f40/language/sv) | 245 | 245 | 100.0 | /mnt/stockage/packages/f40/stratagus/po/sv.po | 
+ | [fr](/f40/language/fr) | 237 | 245 | 96.7 | /mnt/stockage/packages/f40/stratagus/po/fr.po | 
+ | [bg](/f40/language/bg) | 211 | 245 | 86.1 | /mnt/stockage/packages/f40/stratagus/po/bg.po | 
+ | [fi](/f40/language/fi) | 211 | 245 | 86.1 | /mnt/stockage/packages/f40/stratagus/po/fi.po | 
+ | [pl](/f40/language/pl) | 211 | 245 | 86.1 | /mnt/stockage/packages/f40/stratagus/po/pl.po | 
+ | [de](/f40/language/de) | 164 | 245 | 66.9 | /mnt/stockage/packages/f40/stratagus/po/de.po | 
 {.sortable}
 
 

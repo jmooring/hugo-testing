@@ -18,8 +18,8 @@ The package 389-ds-base (version 2.4.6):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f39/language/de.md" >}}) | 19 | 19 | 100.0 | /mnt/stockage/packages/f39/389-ds-base/src/cockpit/389-console/po/de.po | 
- | [ja]({{< ref "/f39/language/ja.md" >}}) | 18053 | 18053 | 100.0 | /mnt/stockage/packages/f39/389-ds-base/src/cockpit/389-console/po/ja.po | 
+ | [de](/f39/language/de) | 19 | 19 | 100.0 | /mnt/stockage/packages/f39/389-ds-base/src/cockpit/389-console/po/de.po | 
+ | [ja](/f39/language/ja) | 18053 | 18053 | 100.0 | /mnt/stockage/packages/f39/389-ds-base/src/cockpit/389-console/po/ja.po | 
 {.sortable}
 
 

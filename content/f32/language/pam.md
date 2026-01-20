@@ -38,8 +38,8 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [deepin-terminal]({{< ref "/f32/package/deepin-terminal.md" >}}) | 37 | 427 | 8.7 | Kapampangan (https://www.transifex.com/linuxdeepin/teams/3976/pam/) | 
- | [deepin-daemon]({{< ref "/f32/package/deepin-daemon.md" >}}) | 95 | 1482 | 6.4 | Kapampangan (http://www.transifex.com/linuxdeepin/deepin-desktop-environment/language/pam/) | 
+ | [deepin-terminal](/f32/package/deepin-terminal) | 37 | 427 | 8.7 | Kapampangan (https://www.transifex.com/linuxdeepin/teams/3976/pam/) | 
+ | [deepin-daemon](/f32/package/deepin-daemon) | 95 | 1482 | 6.4 | Kapampangan (http://www.transifex.com/linuxdeepin/deepin-desktop-environment/language/pam/) | 
 {.sortable}
 
 

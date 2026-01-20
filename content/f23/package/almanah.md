@@ -18,36 +18,36 @@ The package almanah (version 0.11.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f23/language/ca.md" >}}) | 772 | 772 | 100.0 | /mnt/stockage/packages/f23/almanah/po/ca.po | 
- | [cs]({{< ref "/f23/language/cs.md" >}}) | 828 | 828 | 100.0 | /mnt/stockage/packages/f23/almanah/po/cs.po | 
- | [da]({{< ref "/f23/language/da.md" >}}) | 786 | 786 | 100.0 | /mnt/stockage/packages/f23/almanah/po/da.po | 
- | [de]({{< ref "/f23/language/de.md" >}}) | 828 | 828 | 100.0 | /mnt/stockage/packages/f23/almanah/po/de.po | 
- | [el]({{< ref "/f23/language/el.md" >}}) | 828 | 828 | 100.0 | /mnt/stockage/packages/f23/almanah/po/el.po | 
- | [en_GB]({{< ref "/f23/language/en_GB.md" >}}) | 727 | 727 | 100.0 | /mnt/stockage/packages/f23/almanah/po/en_GB.po | 
- | [es]({{< ref "/f23/language/es.md" >}}) | 828 | 828 | 100.0 | /mnt/stockage/packages/f23/almanah/po/es.po | 
- | [fr]({{< ref "/f23/language/fr.md" >}}) | 828 | 828 | 100.0 | /mnt/stockage/packages/f23/almanah/po/fr.po | 
- | [gl]({{< ref "/f23/language/gl.md" >}}) | 786 | 786 | 100.0 | /mnt/stockage/packages/f23/almanah/po/gl.po | 
- | [hu]({{< ref "/f23/language/hu.md" >}}) | 828 | 828 | 100.0 | /mnt/stockage/packages/f23/almanah/po/hu.po | 
- | [id]({{< ref "/f23/language/id.md" >}}) | 828 | 828 | 100.0 | /mnt/stockage/packages/f23/almanah/po/id.po | 
- | [lv]({{< ref "/f23/language/lv.md" >}}) | 786 | 786 | 100.0 | /mnt/stockage/packages/f23/almanah/po/lv.po | 
- | [nl]({{< ref "/f23/language/nl.md" >}}) | 785 | 785 | 100.0 | /mnt/stockage/packages/f23/almanah/po/nl.po | 
- | [pl]({{< ref "/f23/language/pl.md" >}}) | 828 | 828 | 100.0 | /mnt/stockage/packages/f23/almanah/po/pl.po | 
- | [pt_BR]({{< ref "/f23/language/pt_BR.md" >}}) | 828 | 828 | 100.0 | /mnt/stockage/packages/f23/almanah/po/pt_BR.po | 
- | [ro]({{< ref "/f23/language/ro.md" >}}) | 772 | 772 | 100.0 | /mnt/stockage/packages/f23/almanah/po/ro.po | 
- | [ru]({{< ref "/f23/language/ru.md" >}}) | 720 | 720 | 100.0 | /mnt/stockage/packages/f23/almanah/po/ru.po | 
- | [sl]({{< ref "/f23/language/sl.md" >}}) | 828 | 828 | 100.0 | /mnt/stockage/packages/f23/almanah/po/sl.po | 
- | [sr]({{< ref "/f23/language/sr.md" >}}) | 1656 | 1656 | 100.0 | /mnt/stockage/packages/f23/almanah/po/sr.po/mnt/stockage/packages/f23/almanah/po/sr@latin.po | 
- | [sv]({{< ref "/f23/language/sv.md" >}}) | 772 | 772 | 100.0 | /mnt/stockage/packages/f23/almanah/po/sv.po | 
- | [uk]({{< ref "/f23/language/uk.md" >}}) | 722 | 722 | 100.0 | /mnt/stockage/packages/f23/almanah/po/uk.po | 
- | [zh_Hans]({{< ref "/f23/language/zh_Hans.md" >}}) | 772 | 772 | 100.0 | /mnt/stockage/packages/f23/almanah/po/zh_CN.po | 
- | [eu]({{< ref "/f23/language/eu.md" >}}) | 578 | 679 | 85.1 | /mnt/stockage/packages/f23/almanah/po/eu.po | 
- | [tr]({{< ref "/f23/language/tr.md" >}}) | 621 | 828 | 75.0 | /mnt/stockage/packages/f23/almanah/po/tr.po | 
- | [fi]({{< ref "/f23/language/fi.md" >}}) | 241 | 415 | 58.1 | /mnt/stockage/packages/f23/almanah/po/fi.po | 
- | [th]({{< ref "/f23/language/th.md" >}}) | 155 | 415 | 37.3 | /mnt/stockage/packages/f23/almanah/po/th.po | 
- | [eo]({{< ref "/f23/language/eo.md" >}}) | 167 | 692 | 24.1 | /mnt/stockage/packages/f23/almanah/po/eo.po | 
- | [ar]({{< ref "/f23/language/ar.md" >}}) | 43 | 403 | 10.7 | /mnt/stockage/packages/f23/almanah/po/ar.po | 
- | [nb_NO]({{< ref "/f23/language/nb_NO.md" >}}) | 33 | 415 | 8.0 | /mnt/stockage/packages/f23/almanah/po/nb.po | 
- | [oc]({{< ref "/f23/language/oc.md" >}}) | 17 | 333 | 5.1 | /mnt/stockage/packages/f23/almanah/po/oc.po | 
+ | [ca](/f23/language/ca) | 772 | 772 | 100.0 | /mnt/stockage/packages/f23/almanah/po/ca.po | 
+ | [cs](/f23/language/cs) | 828 | 828 | 100.0 | /mnt/stockage/packages/f23/almanah/po/cs.po | 
+ | [da](/f23/language/da) | 786 | 786 | 100.0 | /mnt/stockage/packages/f23/almanah/po/da.po | 
+ | [de](/f23/language/de) | 828 | 828 | 100.0 | /mnt/stockage/packages/f23/almanah/po/de.po | 
+ | [el](/f23/language/el) | 828 | 828 | 100.0 | /mnt/stockage/packages/f23/almanah/po/el.po | 
+ | [en_GB](/f23/language/en_GB) | 727 | 727 | 100.0 | /mnt/stockage/packages/f23/almanah/po/en_GB.po | 
+ | [es](/f23/language/es) | 828 | 828 | 100.0 | /mnt/stockage/packages/f23/almanah/po/es.po | 
+ | [fr](/f23/language/fr) | 828 | 828 | 100.0 | /mnt/stockage/packages/f23/almanah/po/fr.po | 
+ | [gl](/f23/language/gl) | 786 | 786 | 100.0 | /mnt/stockage/packages/f23/almanah/po/gl.po | 
+ | [hu](/f23/language/hu) | 828 | 828 | 100.0 | /mnt/stockage/packages/f23/almanah/po/hu.po | 
+ | [id](/f23/language/id) | 828 | 828 | 100.0 | /mnt/stockage/packages/f23/almanah/po/id.po | 
+ | [lv](/f23/language/lv) | 786 | 786 | 100.0 | /mnt/stockage/packages/f23/almanah/po/lv.po | 
+ | [nl](/f23/language/nl) | 785 | 785 | 100.0 | /mnt/stockage/packages/f23/almanah/po/nl.po | 
+ | [pl](/f23/language/pl) | 828 | 828 | 100.0 | /mnt/stockage/packages/f23/almanah/po/pl.po | 
+ | [pt_BR](/f23/language/pt_BR) | 828 | 828 | 100.0 | /mnt/stockage/packages/f23/almanah/po/pt_BR.po | 
+ | [ro](/f23/language/ro) | 772 | 772 | 100.0 | /mnt/stockage/packages/f23/almanah/po/ro.po | 
+ | [ru](/f23/language/ru) | 720 | 720 | 100.0 | /mnt/stockage/packages/f23/almanah/po/ru.po | 
+ | [sl](/f23/language/sl) | 828 | 828 | 100.0 | /mnt/stockage/packages/f23/almanah/po/sl.po | 
+ | [sr](/f23/language/sr) | 1656 | 1656 | 100.0 | /mnt/stockage/packages/f23/almanah/po/sr.po/mnt/stockage/packages/f23/almanah/po/sr@latin.po | 
+ | [sv](/f23/language/sv) | 772 | 772 | 100.0 | /mnt/stockage/packages/f23/almanah/po/sv.po | 
+ | [uk](/f23/language/uk) | 722 | 722 | 100.0 | /mnt/stockage/packages/f23/almanah/po/uk.po | 
+ | [zh_Hans](/f23/language/zh_Hans) | 772 | 772 | 100.0 | /mnt/stockage/packages/f23/almanah/po/zh_CN.po | 
+ | [eu](/f23/language/eu) | 578 | 679 | 85.1 | /mnt/stockage/packages/f23/almanah/po/eu.po | 
+ | [tr](/f23/language/tr) | 621 | 828 | 75.0 | /mnt/stockage/packages/f23/almanah/po/tr.po | 
+ | [fi](/f23/language/fi) | 241 | 415 | 58.1 | /mnt/stockage/packages/f23/almanah/po/fi.po | 
+ | [th](/f23/language/th) | 155 | 415 | 37.3 | /mnt/stockage/packages/f23/almanah/po/th.po | 
+ | [eo](/f23/language/eo) | 167 | 692 | 24.1 | /mnt/stockage/packages/f23/almanah/po/eo.po | 
+ | [ar](/f23/language/ar) | 43 | 403 | 10.7 | /mnt/stockage/packages/f23/almanah/po/ar.po | 
+ | [nb_NO](/f23/language/nb_NO) | 33 | 415 | 8.0 | /mnt/stockage/packages/f23/almanah/po/nb.po | 
+ | [oc](/f23/language/oc) | 17 | 333 | 5.1 | /mnt/stockage/packages/f23/almanah/po/oc.po | 
 {.sortable}
 
 

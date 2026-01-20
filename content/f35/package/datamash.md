@@ -18,18 +18,18 @@ The package datamash (version 1.7):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f35/language/de.md" >}}) | 876 | 1322 | 66.3 | /mnt/stockage/packages/f35/datamash/po/de.po | 
- | [eo]({{< ref "/f35/language/eo.md" >}}) | 876 | 1322 | 66.3 | /mnt/stockage/packages/f35/datamash/po/eo.po | 
- | [fr]({{< ref "/f35/language/fr.md" >}}) | 876 | 1322 | 66.3 | /mnt/stockage/packages/f35/datamash/po/fr.po | 
- | [nb_NO]({{< ref "/f35/language/nb_NO.md" >}}) | 876 | 1322 | 66.3 | /mnt/stockage/packages/f35/datamash/po/nb.po | 
- | [nl]({{< ref "/f35/language/nl.md" >}}) | 876 | 1322 | 66.3 | /mnt/stockage/packages/f35/datamash/po/nl.po | 
- | [pt_BR]({{< ref "/f35/language/pt_BR.md" >}}) | 876 | 1322 | 66.3 | /mnt/stockage/packages/f35/datamash/po/pt_BR.po | 
- | [sr]({{< ref "/f35/language/sr.md" >}}) | 876 | 1322 | 66.3 | /mnt/stockage/packages/f35/datamash/po/sr.po | 
- | [uk]({{< ref "/f35/language/uk.md" >}}) | 876 | 1322 | 66.3 | /mnt/stockage/packages/f35/datamash/po/uk.po | 
- | [da]({{< ref "/f35/language/da.md" >}}) | 735 | 1322 | 55.6 | /mnt/stockage/packages/f35/datamash/po/da.po | 
- | [es]({{< ref "/f35/language/es.md" >}}) | 735 | 1322 | 55.6 | /mnt/stockage/packages/f35/datamash/po/es.po | 
- | [sv]({{< ref "/f35/language/sv.md" >}}) | 735 | 1322 | 55.6 | /mnt/stockage/packages/f35/datamash/po/sv.po | 
- | [vi]({{< ref "/f35/language/vi.md" >}}) | 429 | 1322 | 32.5 | /mnt/stockage/packages/f35/datamash/po/vi.po | 
+ | [de](/f35/language/de) | 876 | 1322 | 66.3 | /mnt/stockage/packages/f35/datamash/po/de.po | 
+ | [eo](/f35/language/eo) | 876 | 1322 | 66.3 | /mnt/stockage/packages/f35/datamash/po/eo.po | 
+ | [fr](/f35/language/fr) | 876 | 1322 | 66.3 | /mnt/stockage/packages/f35/datamash/po/fr.po | 
+ | [nb_NO](/f35/language/nb_NO) | 876 | 1322 | 66.3 | /mnt/stockage/packages/f35/datamash/po/nb.po | 
+ | [nl](/f35/language/nl) | 876 | 1322 | 66.3 | /mnt/stockage/packages/f35/datamash/po/nl.po | 
+ | [pt_BR](/f35/language/pt_BR) | 876 | 1322 | 66.3 | /mnt/stockage/packages/f35/datamash/po/pt_BR.po | 
+ | [sr](/f35/language/sr) | 876 | 1322 | 66.3 | /mnt/stockage/packages/f35/datamash/po/sr.po | 
+ | [uk](/f35/language/uk) | 876 | 1322 | 66.3 | /mnt/stockage/packages/f35/datamash/po/uk.po | 
+ | [da](/f35/language/da) | 735 | 1322 | 55.6 | /mnt/stockage/packages/f35/datamash/po/da.po | 
+ | [es](/f35/language/es) | 735 | 1322 | 55.6 | /mnt/stockage/packages/f35/datamash/po/es.po | 
+ | [sv](/f35/language/sv) | 735 | 1322 | 55.6 | /mnt/stockage/packages/f35/datamash/po/sv.po | 
+ | [vi](/f35/language/vi) | 429 | 1322 | 32.5 | /mnt/stockage/packages/f35/datamash/po/vi.po | 
 {.sortable}
 
 

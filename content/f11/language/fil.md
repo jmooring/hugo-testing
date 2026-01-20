@@ -41,14 +41,14 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [olpc-switch-desktop]({{< ref "/f11/package/olpc-switch-desktop.md" >}}) | 153 | 158 | 96.8 | LANGUAGE <LL@li.org> | 
- | [phatch]({{< ref "/f11/package/phatch.md" >}}) | 1404 | 2553 | 55.0 | Filipino <fil@li.org> | 
- | [stellarium]({{< ref "/f11/package/stellarium.md" >}}) | 466 | 2439 | 19.1 | Filipino <fil@li.org> | 
- | [Miro]({{< ref "/f11/package/Miro.md" >}}) | 78 | 2774 | 2.8 | Filipino <fil@li.org> | 
- | [transmission]({{< ref "/f11/package/transmission.md" >}}) | 1 | 1642 | 0.1 | Filipino <fil@li.org> | 
- | [sugar-physics]({{< ref "/f11/package/sugar-physics.md" >}}) | 0 | 22 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-update-control]({{< ref "/f11/package/sugar-update-control.md" >}}) | 0 | 159 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-visualmatch]({{< ref "/f11/package/sugar-visualmatch.md" >}}) | 0 | 58 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [olpc-switch-desktop](/f11/package/olpc-switch-desktop) | 153 | 158 | 96.8 | LANGUAGE <LL@li.org> | 
+ | [phatch](/f11/package/phatch) | 1404 | 2553 | 55.0 | Filipino <fil@li.org> | 
+ | [stellarium](/f11/package/stellarium) | 466 | 2439 | 19.1 | Filipino <fil@li.org> | 
+ | [Miro](/f11/package/Miro) | 78 | 2774 | 2.8 | Filipino <fil@li.org> | 
+ | [transmission](/f11/package/transmission) | 1 | 1642 | 0.1 | Filipino <fil@li.org> | 
+ | [sugar-physics](/f11/package/sugar-physics) | 0 | 22 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-update-control](/f11/package/sugar-update-control) | 0 | 159 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-visualmatch](/f11/package/sugar-visualmatch) | 0 | 58 | 0.0 | LANGUAGE <LL@li.org> | 
 {.sortable}
 
 

@@ -18,11 +18,11 @@ The package xfce4-diskperf-plugin (version 2.1.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f7/language/ca.md" >}}) | 185 | 185 | 100.0 | /mnt/stockage/packages/f7/xfce4-diskperf-plugin/po/ca.po | 
- | [cs]({{< ref "/f7/language/cs.md" >}}) | 185 | 185 | 100.0 | /mnt/stockage/packages/f7/xfce4-diskperf-plugin/po/cs.po | 
- | [eu]({{< ref "/f7/language/eu.md" >}}) | 185 | 185 | 100.0 | /mnt/stockage/packages/f7/xfce4-diskperf-plugin/po/eu.po | 
- | [fr]({{< ref "/f7/language/fr.md" >}}) | 185 | 185 | 100.0 | /mnt/stockage/packages/f7/xfce4-diskperf-plugin/po/fr.po | 
- | [pl]({{< ref "/f7/language/pl.md" >}}) | 185 | 185 | 100.0 | /mnt/stockage/packages/f7/xfce4-diskperf-plugin/po/pl.po | 
+ | [ca](/f7/language/ca) | 185 | 185 | 100.0 | /mnt/stockage/packages/f7/xfce4-diskperf-plugin/po/ca.po | 
+ | [cs](/f7/language/cs) | 185 | 185 | 100.0 | /mnt/stockage/packages/f7/xfce4-diskperf-plugin/po/cs.po | 
+ | [eu](/f7/language/eu) | 185 | 185 | 100.0 | /mnt/stockage/packages/f7/xfce4-diskperf-plugin/po/eu.po | 
+ | [fr](/f7/language/fr) | 185 | 185 | 100.0 | /mnt/stockage/packages/f7/xfce4-diskperf-plugin/po/fr.po | 
+ | [pl](/f7/language/pl) | 185 | 185 | 100.0 | /mnt/stockage/packages/f7/xfce4-diskperf-plugin/po/pl.po | 
 {.sortable}
 
 

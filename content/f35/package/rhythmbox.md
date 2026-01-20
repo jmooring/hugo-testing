@@ -18,87 +18,87 @@ The package rhythmbox (version 3.4.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [as]({{< ref "/f35/language/as.md" >}}) | 4505 | 4505 | 100.0 | /mnt/stockage/packages/f35/rhythmbox/po/as.po | 
- | [az]({{< ref "/f35/language/az.md" >}}) | 1233 | 1233 | 100.0 | /mnt/stockage/packages/f35/rhythmbox/po/az.po | 
- | [be]({{< ref "/f35/language/be.md" >}}) | 4072 | 4072 | 100.0 | /mnt/stockage/packages/f35/rhythmbox/po/be.po | 
- | [be_Latn]({{< ref "/f35/language/be_Latn.md" >}}) | 4372 | 4372 | 100.0 | /mnt/stockage/packages/f35/rhythmbox/po/be@latin.po | 
- | [bg]({{< ref "/f35/language/bg.md" >}}) | 4089 | 4089 | 100.0 | /mnt/stockage/packages/f35/rhythmbox/po/bg.po | 
- | [bs]({{< ref "/f35/language/bs.md" >}}) | 3719 | 3719 | 100.0 | /mnt/stockage/packages/f35/rhythmbox/po/bs.po | 
- | [cs]({{< ref "/f35/language/cs.md" >}}) | 8373 | 8373 | 100.0 | /mnt/stockage/packages/f35/rhythmbox/help/cs/cs.po/mnt/stockage/packages/f35/rhythmbox/po/cs.po | 
- | [de]({{< ref "/f35/language/de.md" >}}) | 11266 | 11266 | 100.0 | /mnt/stockage/packages/f35/rhythmbox/help/de/de.po/mnt/stockage/packages/f35/rhythmbox/po/de.po | 
- | [dz]({{< ref "/f35/language/dz.md" >}}) | 3813 | 3813 | 100.0 | /mnt/stockage/packages/f35/rhythmbox/po/dz.po | 
- | [el]({{< ref "/f35/language/el.md" >}}) | 11623 | 11623 | 100.0 | /mnt/stockage/packages/f35/rhythmbox/help/el/el.po/mnt/stockage/packages/f35/rhythmbox/po/el.po | 
- | [en_CA]({{< ref "/f35/language/en_CA.md" >}}) | 3889 | 3889 | 100.0 | /mnt/stockage/packages/f35/rhythmbox/po/en_CA.po | 
- | [en_GB]({{< ref "/f35/language/en_GB.md" >}}) | 3777 | 3777 | 100.0 | /mnt/stockage/packages/f35/rhythmbox/po/en_GB.po | 
- | [es]({{< ref "/f35/language/es.md" >}}) | 8373 | 8373 | 100.0 | /mnt/stockage/packages/f35/rhythmbox/help/es/es.po/mnt/stockage/packages/f35/rhythmbox/po/es.po | 
- | [eu]({{< ref "/f35/language/eu.md" >}}) | 8812 | 8812 | 100.0 | /mnt/stockage/packages/f35/rhythmbox/help/eu/eu.po/mnt/stockage/packages/f35/rhythmbox/po/eu.po | 
- | [gd]({{< ref "/f35/language/gd.md" >}}) | 3769 | 3769 | 100.0 | /mnt/stockage/packages/f35/rhythmbox/po/gd.po | 
- | [hi]({{< ref "/f35/language/hi.md" >}}) | 4545 | 4545 | 100.0 | /mnt/stockage/packages/f35/rhythmbox/po/hi.po | 
- | [hr]({{< ref "/f35/language/hr.md" >}}) | 3773 | 3773 | 100.0 | /mnt/stockage/packages/f35/rhythmbox/po/hr.po | 
- | [hu]({{< ref "/f35/language/hu.md" >}}) | 3773 | 3773 | 100.0 | /mnt/stockage/packages/f35/rhythmbox/po/hu.po | 
- | [id]({{< ref "/f35/language/id.md" >}}) | 3777 | 3777 | 100.0 | /mnt/stockage/packages/f35/rhythmbox/po/id.po | 
- | [it]({{< ref "/f35/language/it.md" >}}) | 8791 | 8791 | 100.0 | /mnt/stockage/packages/f35/rhythmbox/help/it/it.po/mnt/stockage/packages/f35/rhythmbox/po/it.po | 
- | [kn]({{< ref "/f35/language/kn.md" >}}) | 4545 | 4545 | 100.0 | /mnt/stockage/packages/f35/rhythmbox/po/kn.po | 
- | [ko]({{< ref "/f35/language/ko.md" >}}) | 3734 | 3734 | 100.0 | /mnt/stockage/packages/f35/rhythmbox/po/ko.po | 
- | [lt]({{< ref "/f35/language/lt.md" >}}) | 3777 | 3777 | 100.0 | /mnt/stockage/packages/f35/rhythmbox/po/lt.po | 
- | [lv]({{< ref "/f35/language/lv.md" >}}) | 3756 | 3756 | 100.0 | /mnt/stockage/packages/f35/rhythmbox/po/lv.po | 
- | [mk]({{< ref "/f35/language/mk.md" >}}) | 4142 | 4142 | 100.0 | /mnt/stockage/packages/f35/rhythmbox/po/mk.po | 
- | [mr]({{< ref "/f35/language/mr.md" >}}) | 4517 | 4517 | 100.0 | /mnt/stockage/packages/f35/rhythmbox/po/mr.po | 
- | [ms]({{< ref "/f35/language/ms.md" >}}) | 1021 | 1021 | 100.0 | /mnt/stockage/packages/f35/rhythmbox/po/ms.po | 
- | [nb_NO]({{< ref "/f35/language/nb_NO.md" >}}) | 3746 | 3746 | 100.0 | /mnt/stockage/packages/f35/rhythmbox/po/nb.po | 
- | [ne]({{< ref "/f35/language/ne.md" >}}) | 3936 | 3936 | 100.0 | /mnt/stockage/packages/f35/rhythmbox/po/ne.po | 
- | [nl]({{< ref "/f35/language/nl.md" >}}) | 3756 | 3756 | 100.0 | /mnt/stockage/packages/f35/rhythmbox/po/nl.po | 
- | [nn]({{< ref "/f35/language/nn.md" >}}) | 4962 | 4962 | 100.0 | /mnt/stockage/packages/f35/rhythmbox/po/nn.po | 
- | [pl]({{< ref "/f35/language/pl.md" >}}) | 3777 | 3777 | 100.0 | /mnt/stockage/packages/f35/rhythmbox/po/pl.po | 
- | [ru]({{< ref "/f35/language/ru.md" >}}) | 8748 | 8748 | 100.0 | /mnt/stockage/packages/f35/rhythmbox/help/ru/ru.po/mnt/stockage/packages/f35/rhythmbox/po/ru.po | 
- | [sk]({{< ref "/f35/language/sk.md" >}}) | 3746 | 3746 | 100.0 | /mnt/stockage/packages/f35/rhythmbox/po/sk.po | 
- | [sr]({{< ref "/f35/language/sr.md" >}}) | 7519 | 7519 | 100.0 | /mnt/stockage/packages/f35/rhythmbox/po/sr.po/mnt/stockage/packages/f35/rhythmbox/po/sr@latin.po | 
- | [sv]({{< ref "/f35/language/sv.md" >}}) | 8378 | 8378 | 100.0 | /mnt/stockage/packages/f35/rhythmbox/help/sv/sv.po/mnt/stockage/packages/f35/rhythmbox/po/sv.po | 
- | [ta]({{< ref "/f35/language/ta.md" >}}) | 4545 | 4545 | 100.0 | /mnt/stockage/packages/f35/rhythmbox/po/ta.po | 
- | [th]({{< ref "/f35/language/th.md" >}}) | 3532 | 3532 | 100.0 | /mnt/stockage/packages/f35/rhythmbox/po/th.po | 
- | [tr]({{< ref "/f35/language/tr.md" >}}) | 3773 | 3773 | 100.0 | /mnt/stockage/packages/f35/rhythmbox/po/tr.po | 
- | [uk]({{< ref "/f35/language/uk.md" >}}) | 9086 | 9086 | 100.0 | /mnt/stockage/packages/f35/rhythmbox/help/uk/uk.po/mnt/stockage/packages/f35/rhythmbox/po/uk.po | 
- | [vi]({{< ref "/f35/language/vi.md" >}}) | 3777 | 3777 | 100.0 | /mnt/stockage/packages/f35/rhythmbox/po/vi.po | 
- | [zh_Hans]({{< ref "/f35/language/zh_Hans.md" >}}) | 8783 | 8783 | 100.0 | /mnt/stockage/packages/f35/rhythmbox/help/zh_CN/zh_CN.po/mnt/stockage/packages/f35/rhythmbox/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f35/language/zh_Hant.md" >}}) | 3756 | 3756 | 100.0 | /mnt/stockage/packages/f35/rhythmbox/po/zh_TW.po | 
- | [zh_Hant_HK]({{< ref "/f35/language/zh_Hant_HK.md" >}}) | 3569 | 3569 | 100.0 | /mnt/stockage/packages/f35/rhythmbox/po/zh_HK.po | 
- | [gl]({{< ref "/f35/language/gl.md" >}}) | 3814 | 3815 | 100.0 | /mnt/stockage/packages/f35/rhythmbox/help/gl/gl.po/mnt/stockage/packages/f35/rhythmbox/po/gl.po | 
- | [si]({{< ref "/f35/language/si.md" >}}) | 3575 | 3586 | 99.7 | /mnt/stockage/packages/f35/rhythmbox/po/si.po | 
- | [cy]({{< ref "/f35/language/cy.md" >}}) | 1249 | 1253 | 99.7 | /mnt/stockage/packages/f35/rhythmbox/po/cy.po | 
- | [pt]({{< ref "/f35/language/pt.md" >}}) | 8746 | 8798 | 99.4 | /mnt/stockage/packages/f35/rhythmbox/help/pt/pt.po/mnt/stockage/packages/f35/rhythmbox/po/pt.po | 
- | [gu]({{< ref "/f35/language/gu.md" >}}) | 4503 | 4537 | 99.3 | /mnt/stockage/packages/f35/rhythmbox/po/gu.po | 
- | [ja]({{< ref "/f35/language/ja.md" >}}) | 8723 | 8810 | 99.0 | /mnt/stockage/packages/f35/rhythmbox/help/ja/ja.po/mnt/stockage/packages/f35/rhythmbox/po/ja.po | 
- | [eo]({{< ref "/f35/language/eo.md" >}}) | 3697 | 3756 | 98.4 | /mnt/stockage/packages/f35/rhythmbox/po/eo.po | 
- | [et]({{< ref "/f35/language/et.md" >}}) | 5003 | 5108 | 97.9 | /mnt/stockage/packages/f35/rhythmbox/po/et.po | 
- | [fi]({{< ref "/f35/language/fi.md" >}}) | 3695 | 3777 | 97.8 | /mnt/stockage/packages/f35/rhythmbox/po/fi.po | 
- | [ar]({{< ref "/f35/language/ar.md" >}}) | 3436 | 3532 | 97.3 | /mnt/stockage/packages/f35/rhythmbox/po/ar.po | 
- | [pa]({{< ref "/f35/language/pa.md" >}}) | 3393 | 3576 | 94.9 | /mnt/stockage/packages/f35/rhythmbox/po/pa.po | 
- | [sl]({{< ref "/f35/language/sl.md" >}}) | 8130 | 8791 | 92.5 | /mnt/stockage/packages/f35/rhythmbox/help/sl/sl.po/mnt/stockage/packages/f35/rhythmbox/po/sl.po | 
- | [br]({{< ref "/f35/language/br.md" >}}) | 4371 | 4797 | 91.1 | /mnt/stockage/packages/f35/rhythmbox/po/br.po | 
- | [is]({{< ref "/f35/language/is.md" >}}) | 1099 | 1223 | 89.9 | /mnt/stockage/packages/f35/rhythmbox/po/is.po | 
- | [te]({{< ref "/f35/language/te.md" >}}) | 3505 | 4072 | 86.1 | /mnt/stockage/packages/f35/rhythmbox/po/te.po | 
- | [ro]({{< ref "/f35/language/ro.md" >}}) | 9495 | 11778 | 80.6 | /mnt/stockage/packages/f35/rhythmbox/help/ro/ro.po/mnt/stockage/packages/f35/rhythmbox/po/ro.po | 
- | [af]({{< ref "/f35/language/af.md" >}}) | 3821 | 4802 | 79.6 | /mnt/stockage/packages/f35/rhythmbox/po/af.po | 
- | [ca@valencia]({{< ref "/f35/language/ca@valencia.md" >}}) | 3940 | 5042 | 78.1 | /mnt/stockage/packages/f35/rhythmbox/po/ca@valencia.po | 
- | [fr]({{< ref "/f35/language/fr.md" >}}) | 8941 | 11804 | 75.7 | /mnt/stockage/packages/f35/rhythmbox/help/fr/fr.po/mnt/stockage/packages/f35/rhythmbox/po/fr.po | 
- | [da]({{< ref "/f35/language/da.md" >}}) | 8748 | 11688 | 74.8 | /mnt/stockage/packages/f35/rhythmbox/help/da/da.po/mnt/stockage/packages/f35/rhythmbox/po/da.po | 
- | [he]({{< ref "/f35/language/he.md" >}}) | 2988 | 4506 | 66.3 | /mnt/stockage/packages/f35/rhythmbox/po/he.po | 
- | [fa]({{< ref "/f35/language/fa.md" >}}) | 2269 | 4089 | 55.5 | /mnt/stockage/packages/f35/rhythmbox/po/fa.po | 
- | [bn_IN]({{< ref "/f35/language/bn_IN.md" >}}) | 2502 | 4545 | 55.0 | /mnt/stockage/packages/f35/rhythmbox/po/bn_IN.po | 
- | [pt_BR]({{< ref "/f35/language/pt_BR.md" >}}) | 5457 | 11804 | 46.2 | /mnt/stockage/packages/f35/rhythmbox/help/pt_BR/pt_BR.po/mnt/stockage/packages/f35/rhythmbox/po/pt_BR.po | 
- | [oc]({{< ref "/f35/language/oc.md" >}}) | 3953 | 8764 | 45.1 | /mnt/stockage/packages/f35/rhythmbox/help/oc/oc.po/mnt/stockage/packages/f35/rhythmbox/po/oc.po | 
- | [mn]({{< ref "/f35/language/mn.md" >}}) | 453 | 1122 | 40.4 | /mnt/stockage/packages/f35/rhythmbox/po/mn.po | 
- | [ca]({{< ref "/f35/language/ca.md" >}}) | 3995 | 11815 | 33.8 | /mnt/stockage/packages/f35/rhythmbox/help/ca/ca.po/mnt/stockage/packages/f35/rhythmbox/po/ca.po | 
- | [ps]({{< ref "/f35/language/ps.md" >}}) | 1298 | 4019 | 32.3 | /mnt/stockage/packages/f35/rhythmbox/po/ps.po | 
- | [mjw]({{< ref "/f35/language/mjw.md" >}}) | 683 | 3756 | 18.2 | /mnt/stockage/packages/f35/rhythmbox/po/mjw.po | 
- | [fur]({{< ref "/f35/language/fur.md" >}}) | 655 | 3756 | 17.4 | /mnt/stockage/packages/f35/rhythmbox/po/fur.po | 
- | [am]({{< ref "/f35/language/am.md" >}}) | 136 | 849 | 16.0 | /mnt/stockage/packages/f35/rhythmbox/po/am.po | 
- | [or]({{< ref "/f35/language/or.md" >}}) | 705 | 4545 | 15.5 | /mnt/stockage/packages/f35/rhythmbox/po/or.po | 
- | [kk]({{< ref "/f35/language/kk.md" >}}) | 563 | 3719 | 15.1 | /mnt/stockage/packages/f35/rhythmbox/po/kk.po | 
- | [ga]({{< ref "/f35/language/ga.md" >}}) | 596 | 4007 | 14.9 | /mnt/stockage/packages/f35/rhythmbox/po/ga.po | 
- | [ml]({{< ref "/f35/language/ml.md" >}}) | 75 | 743 | 10.1 | /mnt/stockage/packages/f35/rhythmbox/po/ml.po | 
- | [nds]({{< ref "/f35/language/nds.md" >}}) | 234 | 4645 | 5.0 | /mnt/stockage/packages/f35/rhythmbox/po/nds.po | 
- | [rw]({{< ref "/f35/language/rw.md" >}}) | 35 | 1618 | 2.2 | /mnt/stockage/packages/f35/rhythmbox/po/rw.po | 
+ | [as](/f35/language/as) | 4505 | 4505 | 100.0 | /mnt/stockage/packages/f35/rhythmbox/po/as.po | 
+ | [az](/f35/language/az) | 1233 | 1233 | 100.0 | /mnt/stockage/packages/f35/rhythmbox/po/az.po | 
+ | [be](/f35/language/be) | 4072 | 4072 | 100.0 | /mnt/stockage/packages/f35/rhythmbox/po/be.po | 
+ | [be_Latn](/f35/language/be_Latn) | 4372 | 4372 | 100.0 | /mnt/stockage/packages/f35/rhythmbox/po/be@latin.po | 
+ | [bg](/f35/language/bg) | 4089 | 4089 | 100.0 | /mnt/stockage/packages/f35/rhythmbox/po/bg.po | 
+ | [bs](/f35/language/bs) | 3719 | 3719 | 100.0 | /mnt/stockage/packages/f35/rhythmbox/po/bs.po | 
+ | [cs](/f35/language/cs) | 8373 | 8373 | 100.0 | /mnt/stockage/packages/f35/rhythmbox/help/cs/cs.po/mnt/stockage/packages/f35/rhythmbox/po/cs.po | 
+ | [de](/f35/language/de) | 11266 | 11266 | 100.0 | /mnt/stockage/packages/f35/rhythmbox/help/de/de.po/mnt/stockage/packages/f35/rhythmbox/po/de.po | 
+ | [dz](/f35/language/dz) | 3813 | 3813 | 100.0 | /mnt/stockage/packages/f35/rhythmbox/po/dz.po | 
+ | [el](/f35/language/el) | 11623 | 11623 | 100.0 | /mnt/stockage/packages/f35/rhythmbox/help/el/el.po/mnt/stockage/packages/f35/rhythmbox/po/el.po | 
+ | [en_CA](/f35/language/en_CA) | 3889 | 3889 | 100.0 | /mnt/stockage/packages/f35/rhythmbox/po/en_CA.po | 
+ | [en_GB](/f35/language/en_GB) | 3777 | 3777 | 100.0 | /mnt/stockage/packages/f35/rhythmbox/po/en_GB.po | 
+ | [es](/f35/language/es) | 8373 | 8373 | 100.0 | /mnt/stockage/packages/f35/rhythmbox/help/es/es.po/mnt/stockage/packages/f35/rhythmbox/po/es.po | 
+ | [eu](/f35/language/eu) | 8812 | 8812 | 100.0 | /mnt/stockage/packages/f35/rhythmbox/help/eu/eu.po/mnt/stockage/packages/f35/rhythmbox/po/eu.po | 
+ | [gd](/f35/language/gd) | 3769 | 3769 | 100.0 | /mnt/stockage/packages/f35/rhythmbox/po/gd.po | 
+ | [hi](/f35/language/hi) | 4545 | 4545 | 100.0 | /mnt/stockage/packages/f35/rhythmbox/po/hi.po | 
+ | [hr](/f35/language/hr) | 3773 | 3773 | 100.0 | /mnt/stockage/packages/f35/rhythmbox/po/hr.po | 
+ | [hu](/f35/language/hu) | 3773 | 3773 | 100.0 | /mnt/stockage/packages/f35/rhythmbox/po/hu.po | 
+ | [id](/f35/language/id) | 3777 | 3777 | 100.0 | /mnt/stockage/packages/f35/rhythmbox/po/id.po | 
+ | [it](/f35/language/it) | 8791 | 8791 | 100.0 | /mnt/stockage/packages/f35/rhythmbox/help/it/it.po/mnt/stockage/packages/f35/rhythmbox/po/it.po | 
+ | [kn](/f35/language/kn) | 4545 | 4545 | 100.0 | /mnt/stockage/packages/f35/rhythmbox/po/kn.po | 
+ | [ko](/f35/language/ko) | 3734 | 3734 | 100.0 | /mnt/stockage/packages/f35/rhythmbox/po/ko.po | 
+ | [lt](/f35/language/lt) | 3777 | 3777 | 100.0 | /mnt/stockage/packages/f35/rhythmbox/po/lt.po | 
+ | [lv](/f35/language/lv) | 3756 | 3756 | 100.0 | /mnt/stockage/packages/f35/rhythmbox/po/lv.po | 
+ | [mk](/f35/language/mk) | 4142 | 4142 | 100.0 | /mnt/stockage/packages/f35/rhythmbox/po/mk.po | 
+ | [mr](/f35/language/mr) | 4517 | 4517 | 100.0 | /mnt/stockage/packages/f35/rhythmbox/po/mr.po | 
+ | [ms](/f35/language/ms) | 1021 | 1021 | 100.0 | /mnt/stockage/packages/f35/rhythmbox/po/ms.po | 
+ | [nb_NO](/f35/language/nb_NO) | 3746 | 3746 | 100.0 | /mnt/stockage/packages/f35/rhythmbox/po/nb.po | 
+ | [ne](/f35/language/ne) | 3936 | 3936 | 100.0 | /mnt/stockage/packages/f35/rhythmbox/po/ne.po | 
+ | [nl](/f35/language/nl) | 3756 | 3756 | 100.0 | /mnt/stockage/packages/f35/rhythmbox/po/nl.po | 
+ | [nn](/f35/language/nn) | 4962 | 4962 | 100.0 | /mnt/stockage/packages/f35/rhythmbox/po/nn.po | 
+ | [pl](/f35/language/pl) | 3777 | 3777 | 100.0 | /mnt/stockage/packages/f35/rhythmbox/po/pl.po | 
+ | [ru](/f35/language/ru) | 8748 | 8748 | 100.0 | /mnt/stockage/packages/f35/rhythmbox/help/ru/ru.po/mnt/stockage/packages/f35/rhythmbox/po/ru.po | 
+ | [sk](/f35/language/sk) | 3746 | 3746 | 100.0 | /mnt/stockage/packages/f35/rhythmbox/po/sk.po | 
+ | [sr](/f35/language/sr) | 7519 | 7519 | 100.0 | /mnt/stockage/packages/f35/rhythmbox/po/sr.po/mnt/stockage/packages/f35/rhythmbox/po/sr@latin.po | 
+ | [sv](/f35/language/sv) | 8378 | 8378 | 100.0 | /mnt/stockage/packages/f35/rhythmbox/help/sv/sv.po/mnt/stockage/packages/f35/rhythmbox/po/sv.po | 
+ | [ta](/f35/language/ta) | 4545 | 4545 | 100.0 | /mnt/stockage/packages/f35/rhythmbox/po/ta.po | 
+ | [th](/f35/language/th) | 3532 | 3532 | 100.0 | /mnt/stockage/packages/f35/rhythmbox/po/th.po | 
+ | [tr](/f35/language/tr) | 3773 | 3773 | 100.0 | /mnt/stockage/packages/f35/rhythmbox/po/tr.po | 
+ | [uk](/f35/language/uk) | 9086 | 9086 | 100.0 | /mnt/stockage/packages/f35/rhythmbox/help/uk/uk.po/mnt/stockage/packages/f35/rhythmbox/po/uk.po | 
+ | [vi](/f35/language/vi) | 3777 | 3777 | 100.0 | /mnt/stockage/packages/f35/rhythmbox/po/vi.po | 
+ | [zh_Hans](/f35/language/zh_Hans) | 8783 | 8783 | 100.0 | /mnt/stockage/packages/f35/rhythmbox/help/zh_CN/zh_CN.po/mnt/stockage/packages/f35/rhythmbox/po/zh_CN.po | 
+ | [zh_Hant](/f35/language/zh_Hant) | 3756 | 3756 | 100.0 | /mnt/stockage/packages/f35/rhythmbox/po/zh_TW.po | 
+ | [zh_Hant_HK](/f35/language/zh_Hant_HK) | 3569 | 3569 | 100.0 | /mnt/stockage/packages/f35/rhythmbox/po/zh_HK.po | 
+ | [gl](/f35/language/gl) | 3814 | 3815 | 100.0 | /mnt/stockage/packages/f35/rhythmbox/help/gl/gl.po/mnt/stockage/packages/f35/rhythmbox/po/gl.po | 
+ | [si](/f35/language/si) | 3575 | 3586 | 99.7 | /mnt/stockage/packages/f35/rhythmbox/po/si.po | 
+ | [cy](/f35/language/cy) | 1249 | 1253 | 99.7 | /mnt/stockage/packages/f35/rhythmbox/po/cy.po | 
+ | [pt](/f35/language/pt) | 8746 | 8798 | 99.4 | /mnt/stockage/packages/f35/rhythmbox/help/pt/pt.po/mnt/stockage/packages/f35/rhythmbox/po/pt.po | 
+ | [gu](/f35/language/gu) | 4503 | 4537 | 99.3 | /mnt/stockage/packages/f35/rhythmbox/po/gu.po | 
+ | [ja](/f35/language/ja) | 8723 | 8810 | 99.0 | /mnt/stockage/packages/f35/rhythmbox/help/ja/ja.po/mnt/stockage/packages/f35/rhythmbox/po/ja.po | 
+ | [eo](/f35/language/eo) | 3697 | 3756 | 98.4 | /mnt/stockage/packages/f35/rhythmbox/po/eo.po | 
+ | [et](/f35/language/et) | 5003 | 5108 | 97.9 | /mnt/stockage/packages/f35/rhythmbox/po/et.po | 
+ | [fi](/f35/language/fi) | 3695 | 3777 | 97.8 | /mnt/stockage/packages/f35/rhythmbox/po/fi.po | 
+ | [ar](/f35/language/ar) | 3436 | 3532 | 97.3 | /mnt/stockage/packages/f35/rhythmbox/po/ar.po | 
+ | [pa](/f35/language/pa) | 3393 | 3576 | 94.9 | /mnt/stockage/packages/f35/rhythmbox/po/pa.po | 
+ | [sl](/f35/language/sl) | 8130 | 8791 | 92.5 | /mnt/stockage/packages/f35/rhythmbox/help/sl/sl.po/mnt/stockage/packages/f35/rhythmbox/po/sl.po | 
+ | [br](/f35/language/br) | 4371 | 4797 | 91.1 | /mnt/stockage/packages/f35/rhythmbox/po/br.po | 
+ | [is](/f35/language/is) | 1099 | 1223 | 89.9 | /mnt/stockage/packages/f35/rhythmbox/po/is.po | 
+ | [te](/f35/language/te) | 3505 | 4072 | 86.1 | /mnt/stockage/packages/f35/rhythmbox/po/te.po | 
+ | [ro](/f35/language/ro) | 9495 | 11778 | 80.6 | /mnt/stockage/packages/f35/rhythmbox/help/ro/ro.po/mnt/stockage/packages/f35/rhythmbox/po/ro.po | 
+ | [af](/f35/language/af) | 3821 | 4802 | 79.6 | /mnt/stockage/packages/f35/rhythmbox/po/af.po | 
+ | [ca@valencia](/f35/language/ca@valencia) | 3940 | 5042 | 78.1 | /mnt/stockage/packages/f35/rhythmbox/po/ca@valencia.po | 
+ | [fr](/f35/language/fr) | 8941 | 11804 | 75.7 | /mnt/stockage/packages/f35/rhythmbox/help/fr/fr.po/mnt/stockage/packages/f35/rhythmbox/po/fr.po | 
+ | [da](/f35/language/da) | 8748 | 11688 | 74.8 | /mnt/stockage/packages/f35/rhythmbox/help/da/da.po/mnt/stockage/packages/f35/rhythmbox/po/da.po | 
+ | [he](/f35/language/he) | 2988 | 4506 | 66.3 | /mnt/stockage/packages/f35/rhythmbox/po/he.po | 
+ | [fa](/f35/language/fa) | 2269 | 4089 | 55.5 | /mnt/stockage/packages/f35/rhythmbox/po/fa.po | 
+ | [bn_IN](/f35/language/bn_IN) | 2502 | 4545 | 55.0 | /mnt/stockage/packages/f35/rhythmbox/po/bn_IN.po | 
+ | [pt_BR](/f35/language/pt_BR) | 5457 | 11804 | 46.2 | /mnt/stockage/packages/f35/rhythmbox/help/pt_BR/pt_BR.po/mnt/stockage/packages/f35/rhythmbox/po/pt_BR.po | 
+ | [oc](/f35/language/oc) | 3953 | 8764 | 45.1 | /mnt/stockage/packages/f35/rhythmbox/help/oc/oc.po/mnt/stockage/packages/f35/rhythmbox/po/oc.po | 
+ | [mn](/f35/language/mn) | 453 | 1122 | 40.4 | /mnt/stockage/packages/f35/rhythmbox/po/mn.po | 
+ | [ca](/f35/language/ca) | 3995 | 11815 | 33.8 | /mnt/stockage/packages/f35/rhythmbox/help/ca/ca.po/mnt/stockage/packages/f35/rhythmbox/po/ca.po | 
+ | [ps](/f35/language/ps) | 1298 | 4019 | 32.3 | /mnt/stockage/packages/f35/rhythmbox/po/ps.po | 
+ | [mjw](/f35/language/mjw) | 683 | 3756 | 18.2 | /mnt/stockage/packages/f35/rhythmbox/po/mjw.po | 
+ | [fur](/f35/language/fur) | 655 | 3756 | 17.4 | /mnt/stockage/packages/f35/rhythmbox/po/fur.po | 
+ | [am](/f35/language/am) | 136 | 849 | 16.0 | /mnt/stockage/packages/f35/rhythmbox/po/am.po | 
+ | [or](/f35/language/or) | 705 | 4545 | 15.5 | /mnt/stockage/packages/f35/rhythmbox/po/or.po | 
+ | [kk](/f35/language/kk) | 563 | 3719 | 15.1 | /mnt/stockage/packages/f35/rhythmbox/po/kk.po | 
+ | [ga](/f35/language/ga) | 596 | 4007 | 14.9 | /mnt/stockage/packages/f35/rhythmbox/po/ga.po | 
+ | [ml](/f35/language/ml) | 75 | 743 | 10.1 | /mnt/stockage/packages/f35/rhythmbox/po/ml.po | 
+ | [nds](/f35/language/nds) | 234 | 4645 | 5.0 | /mnt/stockage/packages/f35/rhythmbox/po/nds.po | 
+ | [rw](/f35/language/rw) | 35 | 1618 | 2.2 | /mnt/stockage/packages/f35/rhythmbox/po/rw.po | 
 {.sortable}
 
 

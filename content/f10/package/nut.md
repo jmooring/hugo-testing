@@ -18,13 +18,13 @@ The package nut (version 2.2.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f10/language/de.md" >}}) | 124 | 124 | 100.0 | /mnt/stockage/packages/f10/nut/packaging/debian/po/de.po | 
- | [fr]({{< ref "/f10/language/fr.md" >}}) | 124 | 124 | 100.0 | /mnt/stockage/packages/f10/nut/packaging/debian/po/fr.po | 
- | [pt]({{< ref "/f10/language/pt.md" >}}) | 124 | 124 | 100.0 | /mnt/stockage/packages/f10/nut/packaging/debian/po/pt.po | 
- | [pt_BR]({{< ref "/f10/language/pt_BR.md" >}}) | 124 | 124 | 100.0 | /mnt/stockage/packages/f10/nut/packaging/debian/po/pt_BR.po | 
- | [ca]({{< ref "/f10/language/ca.md" >}}) | 60 | 124 | 48.4 | /mnt/stockage/packages/f10/nut/packaging/debian/po/ca.po | 
- | [cs]({{< ref "/f10/language/cs.md" >}}) | 60 | 124 | 48.4 | /mnt/stockage/packages/f10/nut/packaging/debian/po/cs.po | 
- | [vi]({{< ref "/f10/language/vi.md" >}}) | 60 | 124 | 48.4 | /mnt/stockage/packages/f10/nut/packaging/debian/po/vi.po | 
+ | [de](/f10/language/de) | 124 | 124 | 100.0 | /mnt/stockage/packages/f10/nut/packaging/debian/po/de.po | 
+ | [fr](/f10/language/fr) | 124 | 124 | 100.0 | /mnt/stockage/packages/f10/nut/packaging/debian/po/fr.po | 
+ | [pt](/f10/language/pt) | 124 | 124 | 100.0 | /mnt/stockage/packages/f10/nut/packaging/debian/po/pt.po | 
+ | [pt_BR](/f10/language/pt_BR) | 124 | 124 | 100.0 | /mnt/stockage/packages/f10/nut/packaging/debian/po/pt_BR.po | 
+ | [ca](/f10/language/ca) | 60 | 124 | 48.4 | /mnt/stockage/packages/f10/nut/packaging/debian/po/ca.po | 
+ | [cs](/f10/language/cs) | 60 | 124 | 48.4 | /mnt/stockage/packages/f10/nut/packaging/debian/po/cs.po | 
+ | [vi](/f10/language/vi) | 60 | 124 | 48.4 | /mnt/stockage/packages/f10/nut/packaging/debian/po/vi.po | 
 {.sortable}
 
 

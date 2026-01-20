@@ -18,27 +18,27 @@ The package calls (version 0.3.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f34/language/ca.md" >}}) | 104 | 104 | 100.0 | /mnt/stockage/packages/f34/calls/po/ca.po | 
- | [da]({{< ref "/f34/language/da.md" >}}) | 105 | 105 | 100.0 | /mnt/stockage/packages/f34/calls/po/da.po | 
- | [de]({{< ref "/f34/language/de.md" >}}) | 104 | 104 | 100.0 | /mnt/stockage/packages/f34/calls/po/de.po | 
- | [en_GB]({{< ref "/f34/language/en_GB.md" >}}) | 271 | 271 | 100.0 | /mnt/stockage/packages/f34/calls/po/en_GB.po | 
- | [es]({{< ref "/f34/language/es.md" >}}) | 104 | 104 | 100.0 | /mnt/stockage/packages/f34/calls/po/es.po | 
- | [fr]({{< ref "/f34/language/fr.md" >}}) | 104 | 104 | 100.0 | /mnt/stockage/packages/f34/calls/po/fr.po | 
- | [fur]({{< ref "/f34/language/fur.md" >}}) | 102 | 102 | 100.0 | /mnt/stockage/packages/f34/calls/po/fur.po | 
- | [hu]({{< ref "/f34/language/hu.md" >}}) | 104 | 104 | 100.0 | /mnt/stockage/packages/f34/calls/po/hu.po | 
- | [id]({{< ref "/f34/language/id.md" >}}) | 139 | 139 | 100.0 | /mnt/stockage/packages/f34/calls/po/id.po | 
- | [it]({{< ref "/f34/language/it.md" >}}) | 271 | 271 | 100.0 | /mnt/stockage/packages/f34/calls/po/it.po | 
- | [ja]({{< ref "/f34/language/ja.md" >}}) | 102 | 102 | 100.0 | /mnt/stockage/packages/f34/calls/po/ja.po | 
- | [pt]({{< ref "/f34/language/pt.md" >}}) | 102 | 102 | 100.0 | /mnt/stockage/packages/f34/calls/po/pt.po | 
- | [pt_BR]({{< ref "/f34/language/pt_BR.md" >}}) | 102 | 102 | 100.0 | /mnt/stockage/packages/f34/calls/po/pt_BR.po | 
- | [ro]({{< ref "/f34/language/ro.md" >}}) | 104 | 104 | 100.0 | /mnt/stockage/packages/f34/calls/po/ro.po | 
- | [sr]({{< ref "/f34/language/sr.md" >}}) | 105 | 105 | 100.0 | /mnt/stockage/packages/f34/calls/po/sr.po | 
- | [sv]({{< ref "/f34/language/sv.md" >}}) | 139 | 139 | 100.0 | /mnt/stockage/packages/f34/calls/po/sv.po | 
- | [tr]({{< ref "/f34/language/tr.md" >}}) | 104 | 104 | 100.0 | /mnt/stockage/packages/f34/calls/po/tr.po | 
- | [uk]({{< ref "/f34/language/uk.md" >}}) | 153 | 153 | 100.0 | /mnt/stockage/packages/f34/calls/po/uk.po | 
- | [el]({{< ref "/f34/language/el.md" >}}) | 101 | 104 | 97.1 | /mnt/stockage/packages/f34/calls/po/el.po | 
- | [fa]({{< ref "/f34/language/fa.md" >}}) | 255 | 271 | 94.1 | /mnt/stockage/packages/f34/calls/po/fa.po | 
- | [fi]({{< ref "/f34/language/fi.md" >}}) | 118 | 139 | 84.9 | /mnt/stockage/packages/f34/calls/po/fi.po | 
+ | [ca](/f34/language/ca) | 104 | 104 | 100.0 | /mnt/stockage/packages/f34/calls/po/ca.po | 
+ | [da](/f34/language/da) | 105 | 105 | 100.0 | /mnt/stockage/packages/f34/calls/po/da.po | 
+ | [de](/f34/language/de) | 104 | 104 | 100.0 | /mnt/stockage/packages/f34/calls/po/de.po | 
+ | [en_GB](/f34/language/en_GB) | 271 | 271 | 100.0 | /mnt/stockage/packages/f34/calls/po/en_GB.po | 
+ | [es](/f34/language/es) | 104 | 104 | 100.0 | /mnt/stockage/packages/f34/calls/po/es.po | 
+ | [fr](/f34/language/fr) | 104 | 104 | 100.0 | /mnt/stockage/packages/f34/calls/po/fr.po | 
+ | [fur](/f34/language/fur) | 102 | 102 | 100.0 | /mnt/stockage/packages/f34/calls/po/fur.po | 
+ | [hu](/f34/language/hu) | 104 | 104 | 100.0 | /mnt/stockage/packages/f34/calls/po/hu.po | 
+ | [id](/f34/language/id) | 139 | 139 | 100.0 | /mnt/stockage/packages/f34/calls/po/id.po | 
+ | [it](/f34/language/it) | 271 | 271 | 100.0 | /mnt/stockage/packages/f34/calls/po/it.po | 
+ | [ja](/f34/language/ja) | 102 | 102 | 100.0 | /mnt/stockage/packages/f34/calls/po/ja.po | 
+ | [pt](/f34/language/pt) | 102 | 102 | 100.0 | /mnt/stockage/packages/f34/calls/po/pt.po | 
+ | [pt_BR](/f34/language/pt_BR) | 102 | 102 | 100.0 | /mnt/stockage/packages/f34/calls/po/pt_BR.po | 
+ | [ro](/f34/language/ro) | 104 | 104 | 100.0 | /mnt/stockage/packages/f34/calls/po/ro.po | 
+ | [sr](/f34/language/sr) | 105 | 105 | 100.0 | /mnt/stockage/packages/f34/calls/po/sr.po | 
+ | [sv](/f34/language/sv) | 139 | 139 | 100.0 | /mnt/stockage/packages/f34/calls/po/sv.po | 
+ | [tr](/f34/language/tr) | 104 | 104 | 100.0 | /mnt/stockage/packages/f34/calls/po/tr.po | 
+ | [uk](/f34/language/uk) | 153 | 153 | 100.0 | /mnt/stockage/packages/f34/calls/po/uk.po | 
+ | [el](/f34/language/el) | 101 | 104 | 97.1 | /mnt/stockage/packages/f34/calls/po/el.po | 
+ | [fa](/f34/language/fa) | 255 | 271 | 94.1 | /mnt/stockage/packages/f34/calls/po/fa.po | 
+ | [fi](/f34/language/fi) | 118 | 139 | 84.9 | /mnt/stockage/packages/f34/calls/po/fi.po | 
 {.sortable}
 
 

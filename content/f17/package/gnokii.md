@@ -18,19 +18,19 @@ The package gnokii (version 0.6.30):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [it]({{< ref "/f17/language/it.md" >}}) | 5575 | 5575 | 100.0 | /mnt/stockage/packages/f17/gnokii/po/it.po | 
- | [pl]({{< ref "/f17/language/pl.md" >}}) | 5575 | 5575 | 100.0 | /mnt/stockage/packages/f17/gnokii/po/pl.po | 
- | [sv]({{< ref "/f17/language/sv.md" >}}) | 3974 | 5575 | 71.3 | /mnt/stockage/packages/f17/gnokii/po/sv.po | 
- | [fr]({{< ref "/f17/language/fr.md" >}}) | 3630 | 5575 | 65.1 | /mnt/stockage/packages/f17/gnokii/po/fr.po | 
- | [de]({{< ref "/f17/language/de.md" >}}) | 3595 | 5575 | 64.5 | /mnt/stockage/packages/f17/gnokii/po/de.po | 
- | [fi]({{< ref "/f17/language/fi.md" >}}) | 1923 | 5575 | 34.5 | /mnt/stockage/packages/f17/gnokii/po/fi.po | 
- | [et]({{< ref "/f17/language/et.md" >}}) | 1519 | 5575 | 27.2 | /mnt/stockage/packages/f17/gnokii/po/et.po | 
- | [sl]({{< ref "/f17/language/sl.md" >}}) | 1268 | 5575 | 22.7 | /mnt/stockage/packages/f17/gnokii/po/sl.po | 
- | [pt]({{< ref "/f17/language/pt.md" >}}) | 925 | 5575 | 16.6 | /mnt/stockage/packages/f17/gnokii/po/pt.po | 
- | [sk]({{< ref "/f17/language/sk.md" >}}) | 709 | 5575 | 12.7 | /mnt/stockage/packages/f17/gnokii/po/sk.po | 
- | [zh_Hans]({{< ref "/f17/language/zh_Hans.md" >}}) | 437 | 5575 | 7.8 | /mnt/stockage/packages/f17/gnokii/po/zh_CN.po | 
- | [nl]({{< ref "/f17/language/nl.md" >}}) | 39 | 5575 | 0.7 | /mnt/stockage/packages/f17/gnokii/po/nl.po | 
- | [cs]({{< ref "/f17/language/cs.md" >}}) | 31 | 5575 | 0.6 | /mnt/stockage/packages/f17/gnokii/po/cs.po | 
+ | [it](/f17/language/it) | 5575 | 5575 | 100.0 | /mnt/stockage/packages/f17/gnokii/po/it.po | 
+ | [pl](/f17/language/pl) | 5575 | 5575 | 100.0 | /mnt/stockage/packages/f17/gnokii/po/pl.po | 
+ | [sv](/f17/language/sv) | 3974 | 5575 | 71.3 | /mnt/stockage/packages/f17/gnokii/po/sv.po | 
+ | [fr](/f17/language/fr) | 3630 | 5575 | 65.1 | /mnt/stockage/packages/f17/gnokii/po/fr.po | 
+ | [de](/f17/language/de) | 3595 | 5575 | 64.5 | /mnt/stockage/packages/f17/gnokii/po/de.po | 
+ | [fi](/f17/language/fi) | 1923 | 5575 | 34.5 | /mnt/stockage/packages/f17/gnokii/po/fi.po | 
+ | [et](/f17/language/et) | 1519 | 5575 | 27.2 | /mnt/stockage/packages/f17/gnokii/po/et.po | 
+ | [sl](/f17/language/sl) | 1268 | 5575 | 22.7 | /mnt/stockage/packages/f17/gnokii/po/sl.po | 
+ | [pt](/f17/language/pt) | 925 | 5575 | 16.6 | /mnt/stockage/packages/f17/gnokii/po/pt.po | 
+ | [sk](/f17/language/sk) | 709 | 5575 | 12.7 | /mnt/stockage/packages/f17/gnokii/po/sk.po | 
+ | [zh_Hans](/f17/language/zh_Hans) | 437 | 5575 | 7.8 | /mnt/stockage/packages/f17/gnokii/po/zh_CN.po | 
+ | [nl](/f17/language/nl) | 39 | 5575 | 0.7 | /mnt/stockage/packages/f17/gnokii/po/nl.po | 
+ | [cs](/f17/language/cs) | 31 | 5575 | 0.6 | /mnt/stockage/packages/f17/gnokii/po/cs.po | 
 {.sortable}
 
 

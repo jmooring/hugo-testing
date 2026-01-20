@@ -18,7 +18,7 @@ The package python-heatclient (version 1.5.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [zh_Hans]({{< ref "/f26/language/zh_Hans.md" >}}) | 69 | 69 | 100.0 | /mnt/stockage/packages/f26/python-heatclient/heatclient/locale/zh_CN/LC_MESSAGES/heatclient-log-error.po/mnt/stockage/packages/f26/python-heatclient/heatclient/locale/zh_CN/LC_MESSAGES/heatclient-log-info.po/mnt/stockage/packages/f26/python-heatclient/heatclient/locale/zh_CN/LC_MESSAGES/heatclient-log-warning.po | 
+ | [zh_Hans](/f26/language/zh_Hans) | 69 | 69 | 100.0 | /mnt/stockage/packages/f26/python-heatclient/heatclient/locale/zh_CN/LC_MESSAGES/heatclient-log-error.po/mnt/stockage/packages/f26/python-heatclient/heatclient/locale/zh_CN/LC_MESSAGES/heatclient-log-info.po/mnt/stockage/packages/f26/python-heatclient/heatclient/locale/zh_CN/LC_MESSAGES/heatclient-log-warning.po | 
 {.sortable}
 
 

@@ -38,10 +38,10 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [poedit]({{< ref "/f8/package/poedit.md" >}}) | 1076 | 1134 | 94.9 | Softastur | 
- | [glunarclock]({{< ref "/f8/package/glunarclock.md" >}}) | 138 | 231 | 59.7 | Ricardo Mones Lastra <mones@aic.uniovi.es> | 
- | [abiword]({{< ref "/f8/package/abiword.md" >}}) | 2356 | 4644 | 50.7 | Softastur | 
- | [deluge]({{< ref "/f8/package/deluge.md" >}}) | 61 | 2269 | 2.7 | Asturian <ast@li.org> | 
+ | [poedit](/f8/package/poedit) | 1076 | 1134 | 94.9 | Softastur | 
+ | [glunarclock](/f8/package/glunarclock) | 138 | 231 | 59.7 | Ricardo Mones Lastra <mones@aic.uniovi.es> | 
+ | [abiword](/f8/package/abiword) | 2356 | 4644 | 50.7 | Softastur | 
+ | [deluge](/f8/package/deluge) | 61 | 2269 | 2.7 | Asturian <ast@li.org> | 
 {.sortable}
 
 

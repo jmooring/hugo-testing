@@ -38,16 +38,16 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [mate-panel]({{< ref "/f19/package/mate-panel.md" >}}) | 4272 | 4504 | 94.8 | Manx <gv@li.org> | 
- | [epiphany]({{< ref "/f19/package/epiphany.md" >}}) | 2764 | 3044 | 90.8 | Manx <reuben03@live.com> | 
- | [mate-file-manager]({{< ref "/f19/package/mate-file-manager.md" >}}) | 7500 | 8884 | 84.4 | Manx <gv@li.org> | 
- | [nautilus]({{< ref "/f19/package/nautilus.md" >}}) | 7500 | 8884 | 84.4 | Manx <gv@li.org> | 
- | [totem]({{< ref "/f19/package/totem.md" >}}) | 2169 | 2585 | 83.9 | Manx <gv@li.org> | 
- | [gnome-menus]({{< ref "/f19/package/gnome-menus.md" >}}) | 84 | 125 | 67.2 | Manx <gv@li.org> | 
- | [mate-menus]({{< ref "/f19/package/mate-menus.md" >}}) | 84 | 125 | 67.2 | Manx <gv@li.org> | 
- | [gdm]({{< ref "/f19/package/gdm.md" >}}) | 807 | 1306 | 61.8 | Manx <gv@li.org> | 
- | [transmission]({{< ref "/f19/package/transmission.md" >}}) | 27 | 1809 | 1.5 | Manx <gv@li.org> | 
- | [stellarium]({{< ref "/f19/package/stellarium.md" >}}) | 9 | 8257 | 0.1 | Manx <gv@li.org> | 
+ | [mate-panel](/f19/package/mate-panel) | 4272 | 4504 | 94.8 | Manx <gv@li.org> | 
+ | [epiphany](/f19/package/epiphany) | 2764 | 3044 | 90.8 | Manx <reuben03@live.com> | 
+ | [mate-file-manager](/f19/package/mate-file-manager) | 7500 | 8884 | 84.4 | Manx <gv@li.org> | 
+ | [nautilus](/f19/package/nautilus) | 7500 | 8884 | 84.4 | Manx <gv@li.org> | 
+ | [totem](/f19/package/totem) | 2169 | 2585 | 83.9 | Manx <gv@li.org> | 
+ | [gnome-menus](/f19/package/gnome-menus) | 84 | 125 | 67.2 | Manx <gv@li.org> | 
+ | [mate-menus](/f19/package/mate-menus) | 84 | 125 | 67.2 | Manx <gv@li.org> | 
+ | [gdm](/f19/package/gdm) | 807 | 1306 | 61.8 | Manx <gv@li.org> | 
+ | [transmission](/f19/package/transmission) | 27 | 1809 | 1.5 | Manx <gv@li.org> | 
+ | [stellarium](/f19/package/stellarium) | 9 | 8257 | 0.1 | Manx <gv@li.org> | 
 {.sortable}
 
 

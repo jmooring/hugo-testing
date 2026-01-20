@@ -18,7 +18,7 @@ The package leatherman (version 1.12.13):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f42/language/fr.md" >}}) | 47 | 47 | 100.0 | /mnt/stockage/packages/f42/leatherman/locale/locales/fr.po/mnt/stockage/packages/f42/leatherman/logging/locales/fr.po | 
+ | [fr](/f42/language/fr) | 47 | 47 | 100.0 | /mnt/stockage/packages/f42/leatherman/locale/locales/fr.po/mnt/stockage/packages/f42/leatherman/logging/locales/fr.po | 
 {.sortable}
 
 

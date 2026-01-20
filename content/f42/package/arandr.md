@@ -18,44 +18,44 @@ The package arandr (version 0.1.11):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f42/language/ar.md" >}}) | 173 | 173 | 100.0 | /mnt/stockage/packages/f42/arandr/data/po/ar.po | 
- | [br]({{< ref "/f42/language/br.md" >}}) | 173 | 173 | 100.0 | /mnt/stockage/packages/f42/arandr/data/po/br.po | 
- | [ca]({{< ref "/f42/language/ca.md" >}}) | 173 | 173 | 100.0 | /mnt/stockage/packages/f42/arandr/data/po/ca.po | 
- | [cs]({{< ref "/f42/language/cs.md" >}}) | 173 | 173 | 100.0 | /mnt/stockage/packages/f42/arandr/data/po/cs.po | 
- | [da]({{< ref "/f42/language/da.md" >}}) | 173 | 173 | 100.0 | /mnt/stockage/packages/f42/arandr/data/po/da.po | 
- | [de]({{< ref "/f42/language/de.md" >}}) | 173 | 173 | 100.0 | /mnt/stockage/packages/f42/arandr/data/po/de.po | 
- | [es]({{< ref "/f42/language/es.md" >}}) | 173 | 173 | 100.0 | /mnt/stockage/packages/f42/arandr/data/po/es.po | 
- | [et]({{< ref "/f42/language/et.md" >}}) | 173 | 173 | 100.0 | /mnt/stockage/packages/f42/arandr/data/po/et.po | 
- | [fa]({{< ref "/f42/language/fa.md" >}}) | 173 | 173 | 100.0 | /mnt/stockage/packages/f42/arandr/data/po/fa.po | 
- | [fi]({{< ref "/f42/language/fi.md" >}}) | 173 | 173 | 100.0 | /mnt/stockage/packages/f42/arandr/data/po/fi.po | 
- | [fr]({{< ref "/f42/language/fr.md" >}}) | 173 | 173 | 100.0 | /mnt/stockage/packages/f42/arandr/data/po/fr.po | 
- | [gl]({{< ref "/f42/language/gl.md" >}}) | 173 | 173 | 100.0 | /mnt/stockage/packages/f42/arandr/data/po/gl.po | 
- | [he]({{< ref "/f42/language/he.md" >}}) | 173 | 173 | 100.0 | /mnt/stockage/packages/f42/arandr/data/po/he.po | 
- | [id]({{< ref "/f42/language/id.md" >}}) | 173 | 173 | 100.0 | /mnt/stockage/packages/f42/arandr/data/po/id.po | 
- | [it]({{< ref "/f42/language/it.md" >}}) | 173 | 173 | 100.0 | /mnt/stockage/packages/f42/arandr/data/po/it.po | 
- | [ja]({{< ref "/f42/language/ja.md" >}}) | 173 | 173 | 100.0 | /mnt/stockage/packages/f42/arandr/data/po/ja.po | 
- | [ko]({{< ref "/f42/language/ko.md" >}}) | 173 | 173 | 100.0 | /mnt/stockage/packages/f42/arandr/data/po/ko_KR.po | 
- | [lt]({{< ref "/f42/language/lt.md" >}}) | 173 | 173 | 100.0 | /mnt/stockage/packages/f42/arandr/data/po/lt.po | 
- | [nb_NO]({{< ref "/f42/language/nb_NO.md" >}}) | 173 | 173 | 100.0 | /mnt/stockage/packages/f42/arandr/data/po/nb_NO.po | 
- | [nl]({{< ref "/f42/language/nl.md" >}}) | 173 | 173 | 100.0 | /mnt/stockage/packages/f42/arandr/data/po/nl.po | 
- | [pl]({{< ref "/f42/language/pl.md" >}}) | 173 | 173 | 100.0 | /mnt/stockage/packages/f42/arandr/data/po/pl.po | 
- | [pt_BR]({{< ref "/f42/language/pt_BR.md" >}}) | 173 | 173 | 100.0 | /mnt/stockage/packages/f42/arandr/data/po/pt_BR.po | 
- | [ro]({{< ref "/f42/language/ro.md" >}}) | 173 | 173 | 100.0 | /mnt/stockage/packages/f42/arandr/data/po/ro.po | 
- | [ru]({{< ref "/f42/language/ru.md" >}}) | 173 | 173 | 100.0 | /mnt/stockage/packages/f42/arandr/data/po/ru.po | 
- | [sc]({{< ref "/f42/language/sc.md" >}}) | 173 | 173 | 100.0 | /mnt/stockage/packages/f42/arandr/data/po/sc.po | 
- | [sk]({{< ref "/f42/language/sk.md" >}}) | 173 | 173 | 100.0 | /mnt/stockage/packages/f42/arandr/data/po/sk.po | 
- | [sq]({{< ref "/f42/language/sq.md" >}}) | 173 | 173 | 100.0 | /mnt/stockage/packages/f42/arandr/data/po/sq.po | 
- | [sr]({{< ref "/f42/language/sr.md" >}}) | 173 | 173 | 100.0 | /mnt/stockage/packages/f42/arandr/data/po/sr.po | 
- | [sv]({{< ref "/f42/language/sv.md" >}}) | 173 | 173 | 100.0 | /mnt/stockage/packages/f42/arandr/data/po/sv.po | 
- | [tr]({{< ref "/f42/language/tr.md" >}}) | 173 | 173 | 100.0 | /mnt/stockage/packages/f42/arandr/data/po/tr.po | 
- | [uk]({{< ref "/f42/language/uk.md" >}}) | 173 | 173 | 100.0 | /mnt/stockage/packages/f42/arandr/data/po/uk.po | 
- | [zh_Hans]({{< ref "/f42/language/zh_Hans.md" >}}) | 173 | 173 | 100.0 | /mnt/stockage/packages/f42/arandr/data/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f42/language/zh_Hant.md" >}}) | 173 | 173 | 100.0 | /mnt/stockage/packages/f42/arandr/data/po/zh_Hant.po | 
- | [bs]({{< ref "/f42/language/bs.md" >}}) | 172 | 173 | 99.4 | /mnt/stockage/packages/f42/arandr/data/po/bs.po | 
- | [hu]({{< ref "/f42/language/hu.md" >}}) | 172 | 173 | 99.4 | /mnt/stockage/packages/f42/arandr/data/po/hu.po | 
- | [kn]({{< ref "/f42/language/kn.md" >}}) | 171 | 173 | 98.8 | /mnt/stockage/packages/f42/arandr/data/po/kn.po | 
- | [el]({{< ref "/f42/language/el.md" >}}) | 33 | 173 | 19.1 | /mnt/stockage/packages/f42/arandr/data/po/el.po | 
- | [ckb]({{< ref "/f42/language/ckb.md" >}}) | 10 | 173 | 5.8 | /mnt/stockage/packages/f42/arandr/data/po/ckb.po | 
+ | [ar](/f42/language/ar) | 173 | 173 | 100.0 | /mnt/stockage/packages/f42/arandr/data/po/ar.po | 
+ | [br](/f42/language/br) | 173 | 173 | 100.0 | /mnt/stockage/packages/f42/arandr/data/po/br.po | 
+ | [ca](/f42/language/ca) | 173 | 173 | 100.0 | /mnt/stockage/packages/f42/arandr/data/po/ca.po | 
+ | [cs](/f42/language/cs) | 173 | 173 | 100.0 | /mnt/stockage/packages/f42/arandr/data/po/cs.po | 
+ | [da](/f42/language/da) | 173 | 173 | 100.0 | /mnt/stockage/packages/f42/arandr/data/po/da.po | 
+ | [de](/f42/language/de) | 173 | 173 | 100.0 | /mnt/stockage/packages/f42/arandr/data/po/de.po | 
+ | [es](/f42/language/es) | 173 | 173 | 100.0 | /mnt/stockage/packages/f42/arandr/data/po/es.po | 
+ | [et](/f42/language/et) | 173 | 173 | 100.0 | /mnt/stockage/packages/f42/arandr/data/po/et.po | 
+ | [fa](/f42/language/fa) | 173 | 173 | 100.0 | /mnt/stockage/packages/f42/arandr/data/po/fa.po | 
+ | [fi](/f42/language/fi) | 173 | 173 | 100.0 | /mnt/stockage/packages/f42/arandr/data/po/fi.po | 
+ | [fr](/f42/language/fr) | 173 | 173 | 100.0 | /mnt/stockage/packages/f42/arandr/data/po/fr.po | 
+ | [gl](/f42/language/gl) | 173 | 173 | 100.0 | /mnt/stockage/packages/f42/arandr/data/po/gl.po | 
+ | [he](/f42/language/he) | 173 | 173 | 100.0 | /mnt/stockage/packages/f42/arandr/data/po/he.po | 
+ | [id](/f42/language/id) | 173 | 173 | 100.0 | /mnt/stockage/packages/f42/arandr/data/po/id.po | 
+ | [it](/f42/language/it) | 173 | 173 | 100.0 | /mnt/stockage/packages/f42/arandr/data/po/it.po | 
+ | [ja](/f42/language/ja) | 173 | 173 | 100.0 | /mnt/stockage/packages/f42/arandr/data/po/ja.po | 
+ | [ko](/f42/language/ko) | 173 | 173 | 100.0 | /mnt/stockage/packages/f42/arandr/data/po/ko_KR.po | 
+ | [lt](/f42/language/lt) | 173 | 173 | 100.0 | /mnt/stockage/packages/f42/arandr/data/po/lt.po | 
+ | [nb_NO](/f42/language/nb_NO) | 173 | 173 | 100.0 | /mnt/stockage/packages/f42/arandr/data/po/nb_NO.po | 
+ | [nl](/f42/language/nl) | 173 | 173 | 100.0 | /mnt/stockage/packages/f42/arandr/data/po/nl.po | 
+ | [pl](/f42/language/pl) | 173 | 173 | 100.0 | /mnt/stockage/packages/f42/arandr/data/po/pl.po | 
+ | [pt_BR](/f42/language/pt_BR) | 173 | 173 | 100.0 | /mnt/stockage/packages/f42/arandr/data/po/pt_BR.po | 
+ | [ro](/f42/language/ro) | 173 | 173 | 100.0 | /mnt/stockage/packages/f42/arandr/data/po/ro.po | 
+ | [ru](/f42/language/ru) | 173 | 173 | 100.0 | /mnt/stockage/packages/f42/arandr/data/po/ru.po | 
+ | [sc](/f42/language/sc) | 173 | 173 | 100.0 | /mnt/stockage/packages/f42/arandr/data/po/sc.po | 
+ | [sk](/f42/language/sk) | 173 | 173 | 100.0 | /mnt/stockage/packages/f42/arandr/data/po/sk.po | 
+ | [sq](/f42/language/sq) | 173 | 173 | 100.0 | /mnt/stockage/packages/f42/arandr/data/po/sq.po | 
+ | [sr](/f42/language/sr) | 173 | 173 | 100.0 | /mnt/stockage/packages/f42/arandr/data/po/sr.po | 
+ | [sv](/f42/language/sv) | 173 | 173 | 100.0 | /mnt/stockage/packages/f42/arandr/data/po/sv.po | 
+ | [tr](/f42/language/tr) | 173 | 173 | 100.0 | /mnt/stockage/packages/f42/arandr/data/po/tr.po | 
+ | [uk](/f42/language/uk) | 173 | 173 | 100.0 | /mnt/stockage/packages/f42/arandr/data/po/uk.po | 
+ | [zh_Hans](/f42/language/zh_Hans) | 173 | 173 | 100.0 | /mnt/stockage/packages/f42/arandr/data/po/zh_CN.po | 
+ | [zh_Hant](/f42/language/zh_Hant) | 173 | 173 | 100.0 | /mnt/stockage/packages/f42/arandr/data/po/zh_Hant.po | 
+ | [bs](/f42/language/bs) | 172 | 173 | 99.4 | /mnt/stockage/packages/f42/arandr/data/po/bs.po | 
+ | [hu](/f42/language/hu) | 172 | 173 | 99.4 | /mnt/stockage/packages/f42/arandr/data/po/hu.po | 
+ | [kn](/f42/language/kn) | 171 | 173 | 98.8 | /mnt/stockage/packages/f42/arandr/data/po/kn.po | 
+ | [el](/f42/language/el) | 33 | 173 | 19.1 | /mnt/stockage/packages/f42/arandr/data/po/el.po | 
+ | [ckb](/f42/language/ckb) | 10 | 173 | 5.8 | /mnt/stockage/packages/f42/arandr/data/po/ckb.po | 
 {.sortable}
 
 

@@ -18,7 +18,7 @@ The package preupgrade (version 1.1.5):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [pt_BR]({{< ref "/f11/language/pt_BR.md" >}}) | 58 | 801 | 7.2 | /mnt/stockage/packages/f11/preupgrade/po/pt_BR.po | 
+ | [pt_BR](/f11/language/pt_BR) | 58 | 801 | 7.2 | /mnt/stockage/packages/f11/preupgrade/po/pt_BR.po | 
 {.sortable}
 
 

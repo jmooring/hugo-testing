@@ -18,31 +18,31 @@ The package subscription-manager-cockpit (version 12):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f42/language/cs.md" >}}) | 511 | 511 | 100.0 | /mnt/stockage/packages/f42/subscription-manager-cockpit/po/cs.po | 
- | [es]({{< ref "/f42/language/es.md" >}}) | 511 | 511 | 100.0 | /mnt/stockage/packages/f42/subscription-manager-cockpit/po/es.po | 
- | [fi]({{< ref "/f42/language/fi.md" >}}) | 511 | 511 | 100.0 | /mnt/stockage/packages/f42/subscription-manager-cockpit/po/fi.po | 
- | [fr]({{< ref "/f42/language/fr.md" >}}) | 511 | 511 | 100.0 | /mnt/stockage/packages/f42/subscription-manager-cockpit/po/fr.po | 
- | [ja]({{< ref "/f42/language/ja.md" >}}) | 511 | 511 | 100.0 | /mnt/stockage/packages/f42/subscription-manager-cockpit/po/ja.po | 
- | [ko]({{< ref "/f42/language/ko.md" >}}) | 511 | 511 | 100.0 | /mnt/stockage/packages/f42/subscription-manager-cockpit/po/ko.po | 
- | [ru]({{< ref "/f42/language/ru.md" >}}) | 511 | 511 | 100.0 | /mnt/stockage/packages/f42/subscription-manager-cockpit/po/ru.po | 
- | [zh_Hans]({{< ref "/f42/language/zh_Hans.md" >}}) | 511 | 511 | 100.0 | /mnt/stockage/packages/f42/subscription-manager-cockpit/po/zh_CN.po | 
- | [it]({{< ref "/f42/language/it.md" >}}) | 485 | 511 | 94.9 | /mnt/stockage/packages/f42/subscription-manager-cockpit/po/it.po | 
- | [de]({{< ref "/f42/language/de.md" >}}) | 310 | 511 | 60.7 | /mnt/stockage/packages/f42/subscription-manager-cockpit/po/de.po | 
- | [zh_Hant]({{< ref "/f42/language/zh_Hant.md" >}}) | 233 | 511 | 45.6 | /mnt/stockage/packages/f42/subscription-manager-cockpit/po/zh_TW.po | 
- | [ka]({{< ref "/f42/language/ka.md" >}}) | 232 | 511 | 45.4 | /mnt/stockage/packages/f42/subscription-manager-cockpit/po/ka.po | 
- | [pt_BR]({{< ref "/f42/language/pt_BR.md" >}}) | 49 | 511 | 9.6 | /mnt/stockage/packages/f42/subscription-manager-cockpit/po/pt_BR.po | 
- | [as]({{< ref "/f42/language/as.md" >}}) | 21 | 511 | 4.1 | /mnt/stockage/packages/f42/subscription-manager-cockpit/po/as.po | 
- | [bn_IN]({{< ref "/f42/language/bn_IN.md" >}}) | 21 | 511 | 4.1 | /mnt/stockage/packages/f42/subscription-manager-cockpit/po/bn_IN.po | 
- | [gu]({{< ref "/f42/language/gu.md" >}}) | 21 | 511 | 4.1 | /mnt/stockage/packages/f42/subscription-manager-cockpit/po/gu.po | 
- | [hi]({{< ref "/f42/language/hi.md" >}}) | 21 | 511 | 4.1 | /mnt/stockage/packages/f42/subscription-manager-cockpit/po/hi.po | 
- | [ml]({{< ref "/f42/language/ml.md" >}}) | 21 | 511 | 4.1 | /mnt/stockage/packages/f42/subscription-manager-cockpit/po/ml.po | 
- | [mr]({{< ref "/f42/language/mr.md" >}}) | 21 | 511 | 4.1 | /mnt/stockage/packages/f42/subscription-manager-cockpit/po/mr.po | 
- | [or]({{< ref "/f42/language/or.md" >}}) | 21 | 511 | 4.1 | /mnt/stockage/packages/f42/subscription-manager-cockpit/po/or.po | 
- | [pa]({{< ref "/f42/language/pa.md" >}}) | 21 | 511 | 4.1 | /mnt/stockage/packages/f42/subscription-manager-cockpit/po/pa.po | 
- | [ta]({{< ref "/f42/language/ta.md" >}}) | 21 | 511 | 4.1 | /mnt/stockage/packages/f42/subscription-manager-cockpit/po/ta_IN.po | 
- | [te]({{< ref "/f42/language/te.md" >}}) | 21 | 511 | 4.1 | /mnt/stockage/packages/f42/subscription-manager-cockpit/po/te.po | 
- | [kn]({{< ref "/f42/language/kn.md" >}}) | 20 | 511 | 3.9 | /mnt/stockage/packages/f42/subscription-manager-cockpit/po/kn.po | 
- | [si]({{< ref "/f42/language/si.md" >}}) | 1 | 511 | 0.2 | /mnt/stockage/packages/f42/subscription-manager-cockpit/po/si.po | 
+ | [cs](/f42/language/cs) | 511 | 511 | 100.0 | /mnt/stockage/packages/f42/subscription-manager-cockpit/po/cs.po | 
+ | [es](/f42/language/es) | 511 | 511 | 100.0 | /mnt/stockage/packages/f42/subscription-manager-cockpit/po/es.po | 
+ | [fi](/f42/language/fi) | 511 | 511 | 100.0 | /mnt/stockage/packages/f42/subscription-manager-cockpit/po/fi.po | 
+ | [fr](/f42/language/fr) | 511 | 511 | 100.0 | /mnt/stockage/packages/f42/subscription-manager-cockpit/po/fr.po | 
+ | [ja](/f42/language/ja) | 511 | 511 | 100.0 | /mnt/stockage/packages/f42/subscription-manager-cockpit/po/ja.po | 
+ | [ko](/f42/language/ko) | 511 | 511 | 100.0 | /mnt/stockage/packages/f42/subscription-manager-cockpit/po/ko.po | 
+ | [ru](/f42/language/ru) | 511 | 511 | 100.0 | /mnt/stockage/packages/f42/subscription-manager-cockpit/po/ru.po | 
+ | [zh_Hans](/f42/language/zh_Hans) | 511 | 511 | 100.0 | /mnt/stockage/packages/f42/subscription-manager-cockpit/po/zh_CN.po | 
+ | [it](/f42/language/it) | 485 | 511 | 94.9 | /mnt/stockage/packages/f42/subscription-manager-cockpit/po/it.po | 
+ | [de](/f42/language/de) | 310 | 511 | 60.7 | /mnt/stockage/packages/f42/subscription-manager-cockpit/po/de.po | 
+ | [zh_Hant](/f42/language/zh_Hant) | 233 | 511 | 45.6 | /mnt/stockage/packages/f42/subscription-manager-cockpit/po/zh_TW.po | 
+ | [ka](/f42/language/ka) | 232 | 511 | 45.4 | /mnt/stockage/packages/f42/subscription-manager-cockpit/po/ka.po | 
+ | [pt_BR](/f42/language/pt_BR) | 49 | 511 | 9.6 | /mnt/stockage/packages/f42/subscription-manager-cockpit/po/pt_BR.po | 
+ | [as](/f42/language/as) | 21 | 511 | 4.1 | /mnt/stockage/packages/f42/subscription-manager-cockpit/po/as.po | 
+ | [bn_IN](/f42/language/bn_IN) | 21 | 511 | 4.1 | /mnt/stockage/packages/f42/subscription-manager-cockpit/po/bn_IN.po | 
+ | [gu](/f42/language/gu) | 21 | 511 | 4.1 | /mnt/stockage/packages/f42/subscription-manager-cockpit/po/gu.po | 
+ | [hi](/f42/language/hi) | 21 | 511 | 4.1 | /mnt/stockage/packages/f42/subscription-manager-cockpit/po/hi.po | 
+ | [ml](/f42/language/ml) | 21 | 511 | 4.1 | /mnt/stockage/packages/f42/subscription-manager-cockpit/po/ml.po | 
+ | [mr](/f42/language/mr) | 21 | 511 | 4.1 | /mnt/stockage/packages/f42/subscription-manager-cockpit/po/mr.po | 
+ | [or](/f42/language/or) | 21 | 511 | 4.1 | /mnt/stockage/packages/f42/subscription-manager-cockpit/po/or.po | 
+ | [pa](/f42/language/pa) | 21 | 511 | 4.1 | /mnt/stockage/packages/f42/subscription-manager-cockpit/po/pa.po | 
+ | [ta](/f42/language/ta) | 21 | 511 | 4.1 | /mnt/stockage/packages/f42/subscription-manager-cockpit/po/ta_IN.po | 
+ | [te](/f42/language/te) | 21 | 511 | 4.1 | /mnt/stockage/packages/f42/subscription-manager-cockpit/po/te.po | 
+ | [kn](/f42/language/kn) | 20 | 511 | 3.9 | /mnt/stockage/packages/f42/subscription-manager-cockpit/po/kn.po | 
+ | [si](/f42/language/si) | 1 | 511 | 0.2 | /mnt/stockage/packages/f42/subscription-manager-cockpit/po/si.po | 
 {.sortable}
 
 

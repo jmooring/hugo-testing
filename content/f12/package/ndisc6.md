@@ -18,9 +18,9 @@ The package ndisc6 (version 0.9.9):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f12/language/cs.md" >}}) | 972 | 974 | 99.8 | /mnt/stockage/packages/f12/ndisc6/po/cs.po | 
- | [fr]({{< ref "/f12/language/fr.md" >}}) | 972 | 974 | 99.8 | /mnt/stockage/packages/f12/ndisc6/po/fr.po | 
- | [en]({{< ref "/f12/language/en.md" >}}) | 519 | 974 | 53.3 | /mnt/stockage/packages/f12/ndisc6/po/en.po | 
+ | [cs](/f12/language/cs) | 972 | 974 | 99.8 | /mnt/stockage/packages/f12/ndisc6/po/cs.po | 
+ | [fr](/f12/language/fr) | 972 | 974 | 99.8 | /mnt/stockage/packages/f12/ndisc6/po/fr.po | 
+ | [en](/f12/language/en) | 519 | 974 | 53.3 | /mnt/stockage/packages/f12/ndisc6/po/en.po | 
 {.sortable}
 
 

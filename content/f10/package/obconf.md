@@ -18,15 +18,15 @@ The package obconf (version 2.0.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [error]({{< ref "/f10/language/error.md" >}}) | 1282 | 1282 | 100.0 | /mnt/stockage/packages/f10/obconf/po/en@boldquot.po/mnt/stockage/packages/f10/obconf/po/en@quot.po | 
- | [zh_Hant]({{< ref "/f10/language/zh_Hant.md" >}}) | 580 | 641 | 90.5 | /mnt/stockage/packages/f10/obconf/po/zh_TW.po | 
- | [cs]({{< ref "/f10/language/cs.md" >}}) | 566 | 641 | 88.3 | /mnt/stockage/packages/f10/obconf/po/cs.po | 
- | [sv]({{< ref "/f10/language/sv.md" >}}) | 552 | 641 | 86.1 | /mnt/stockage/packages/f10/obconf/po/sv.po | 
- | [it]({{< ref "/f10/language/it.md" >}}) | 498 | 641 | 77.7 | /mnt/stockage/packages/f10/obconf/po/it.po | 
- | [nb_NO]({{< ref "/f10/language/nb_NO.md" >}}) | 493 | 641 | 76.9 | /mnt/stockage/packages/f10/obconf/po/no.po | 
- | [es]({{< ref "/f10/language/es.md" >}}) | 467 | 641 | 72.9 | /mnt/stockage/packages/f10/obconf/po/es.po | 
- | [fr]({{< ref "/f10/language/fr.md" >}}) | 467 | 641 | 72.9 | /mnt/stockage/packages/f10/obconf/po/fr.po | 
- | [tr]({{< ref "/f10/language/tr.md" >}}) | 440 | 641 | 68.6 | /mnt/stockage/packages/f10/obconf/po/tr.po | 
+ | [error](/f10/language/error) | 1282 | 1282 | 100.0 | /mnt/stockage/packages/f10/obconf/po/en@boldquot.po/mnt/stockage/packages/f10/obconf/po/en@quot.po | 
+ | [zh_Hant](/f10/language/zh_Hant) | 580 | 641 | 90.5 | /mnt/stockage/packages/f10/obconf/po/zh_TW.po | 
+ | [cs](/f10/language/cs) | 566 | 641 | 88.3 | /mnt/stockage/packages/f10/obconf/po/cs.po | 
+ | [sv](/f10/language/sv) | 552 | 641 | 86.1 | /mnt/stockage/packages/f10/obconf/po/sv.po | 
+ | [it](/f10/language/it) | 498 | 641 | 77.7 | /mnt/stockage/packages/f10/obconf/po/it.po | 
+ | [nb_NO](/f10/language/nb_NO) | 493 | 641 | 76.9 | /mnt/stockage/packages/f10/obconf/po/no.po | 
+ | [es](/f10/language/es) | 467 | 641 | 72.9 | /mnt/stockage/packages/f10/obconf/po/es.po | 
+ | [fr](/f10/language/fr) | 467 | 641 | 72.9 | /mnt/stockage/packages/f10/obconf/po/fr.po | 
+ | [tr](/f10/language/tr) | 440 | 641 | 68.6 | /mnt/stockage/packages/f10/obconf/po/tr.po | 
 {.sortable}
 
 

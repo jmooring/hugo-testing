@@ -18,11 +18,11 @@ The package printrun (version 2.0.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f30/language/fr.md" >}}) | 2231 | 2659 | 83.9 | /mnt/stockage/packages/f30/printrun/locale/fr/LC_MESSAGES/plater.po/mnt/stockage/packages/f30/printrun/locale/fr/LC_MESSAGES/pronterface.po | 
- | [de]({{< ref "/f30/language/de.md" >}}) | 408 | 2656 | 15.4 | /mnt/stockage/packages/f30/printrun/locale/de/LC_MESSAGES/plater.po/mnt/stockage/packages/f30/printrun/locale/de/LC_MESSAGES/pronterface.po | 
- | [it]({{< ref "/f30/language/it.md" >}}) | 408 | 2656 | 15.4 | /mnt/stockage/packages/f30/printrun/locale/it/LC_MESSAGES/plater.po/mnt/stockage/packages/f30/printrun/locale/it/LC_MESSAGES/pronterface.po | 
- | [nl]({{< ref "/f30/language/nl.md" >}}) | 293 | 2594 | 11.3 | /mnt/stockage/packages/f30/printrun/locale/nl/LC_MESSAGES/pronterface.po | 
- | [ar]({{< ref "/f30/language/ar.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f30/printrun/locale/ar/LC_MESSAGES/plater.po | 
+ | [fr](/f30/language/fr) | 2231 | 2659 | 83.9 | /mnt/stockage/packages/f30/printrun/locale/fr/LC_MESSAGES/plater.po/mnt/stockage/packages/f30/printrun/locale/fr/LC_MESSAGES/pronterface.po | 
+ | [de](/f30/language/de) | 408 | 2656 | 15.4 | /mnt/stockage/packages/f30/printrun/locale/de/LC_MESSAGES/plater.po/mnt/stockage/packages/f30/printrun/locale/de/LC_MESSAGES/pronterface.po | 
+ | [it](/f30/language/it) | 408 | 2656 | 15.4 | /mnt/stockage/packages/f30/printrun/locale/it/LC_MESSAGES/plater.po/mnt/stockage/packages/f30/printrun/locale/it/LC_MESSAGES/pronterface.po | 
+ | [nl](/f30/language/nl) | 293 | 2594 | 11.3 | /mnt/stockage/packages/f30/printrun/locale/nl/LC_MESSAGES/pronterface.po | 
+ | [ar](/f30/language/ar) | 0 | 0 | 0.0 | /mnt/stockage/packages/f30/printrun/locale/ar/LC_MESSAGES/plater.po | 
 {.sortable}
 
 

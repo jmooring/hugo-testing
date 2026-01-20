@@ -18,17 +18,17 @@ The package notejot (version 1.5.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f29/language/fr.md" >}}) | 34 | 34 | 100.0 | /mnt/stockage/packages/f29/notejot/po/extra/fr.po | 
- | [ja]({{< ref "/f29/language/ja.md" >}}) | 50 | 50 | 100.0 | /mnt/stockage/packages/f29/notejot/po/ja.po/mnt/stockage/packages/f29/notejot/po/extra/ja.po | 
- | [ru]({{< ref "/f29/language/ru.md" >}}) | 50 | 50 | 100.0 | /mnt/stockage/packages/f29/notejot/po/ru.po/mnt/stockage/packages/f29/notejot/po/extra/ru.po | 
- | [es]({{< ref "/f29/language/es.md" >}}) | 30 | 64 | 46.9 | /mnt/stockage/packages/f29/notejot/po/fr.po/mnt/stockage/packages/f29/notejot/po/es.po/mnt/stockage/packages/f29/notejot/po/extra/es.po | 
- | [cs]({{< ref "/f29/language/cs.md" >}}) | 19 | 48 | 39.6 | /mnt/stockage/packages/f29/notejot/po/cs.po/mnt/stockage/packages/f29/notejot/po/extra/cs.po | 
- | [lt]({{< ref "/f29/language/lt.md" >}}) | 17 | 48 | 35.4 | /mnt/stockage/packages/f29/notejot/po/lt.po/mnt/stockage/packages/f29/notejot/po/extra/lt.po | 
- | [pl]({{< ref "/f29/language/pl.md" >}}) | 17 | 48 | 35.4 | /mnt/stockage/packages/f29/notejot/po/pl.po/mnt/stockage/packages/f29/notejot/po/extra/pl.po | 
- | [ca]({{< ref "/f29/language/ca.md" >}}) | 14 | 48 | 29.2 | /mnt/stockage/packages/f29/notejot/po/ca.po/mnt/stockage/packages/f29/notejot/po/extra/ca.po | 
- | [nl]({{< ref "/f29/language/nl.md" >}}) | 14 | 48 | 29.2 | /mnt/stockage/packages/f29/notejot/po/nl_NL.po/mnt/stockage/packages/f29/notejot/po/extra/nl_NL.po | 
- | [tr]({{< ref "/f29/language/tr.md" >}}) | 14 | 48 | 29.2 | /mnt/stockage/packages/f29/notejot/po/tr_TR.po/mnt/stockage/packages/f29/notejot/po/extra/tr_TR.po | 
- | [pt_BR]({{< ref "/f29/language/pt_BR.md" >}}) | 8 | 48 | 16.7 | /mnt/stockage/packages/f29/notejot/po/pt_BR.po/mnt/stockage/packages/f29/notejot/po/extra/pt_BR.po | 
+ | [fr](/f29/language/fr) | 34 | 34 | 100.0 | /mnt/stockage/packages/f29/notejot/po/extra/fr.po | 
+ | [ja](/f29/language/ja) | 50 | 50 | 100.0 | /mnt/stockage/packages/f29/notejot/po/ja.po/mnt/stockage/packages/f29/notejot/po/extra/ja.po | 
+ | [ru](/f29/language/ru) | 50 | 50 | 100.0 | /mnt/stockage/packages/f29/notejot/po/ru.po/mnt/stockage/packages/f29/notejot/po/extra/ru.po | 
+ | [es](/f29/language/es) | 30 | 64 | 46.9 | /mnt/stockage/packages/f29/notejot/po/fr.po/mnt/stockage/packages/f29/notejot/po/es.po/mnt/stockage/packages/f29/notejot/po/extra/es.po | 
+ | [cs](/f29/language/cs) | 19 | 48 | 39.6 | /mnt/stockage/packages/f29/notejot/po/cs.po/mnt/stockage/packages/f29/notejot/po/extra/cs.po | 
+ | [lt](/f29/language/lt) | 17 | 48 | 35.4 | /mnt/stockage/packages/f29/notejot/po/lt.po/mnt/stockage/packages/f29/notejot/po/extra/lt.po | 
+ | [pl](/f29/language/pl) | 17 | 48 | 35.4 | /mnt/stockage/packages/f29/notejot/po/pl.po/mnt/stockage/packages/f29/notejot/po/extra/pl.po | 
+ | [ca](/f29/language/ca) | 14 | 48 | 29.2 | /mnt/stockage/packages/f29/notejot/po/ca.po/mnt/stockage/packages/f29/notejot/po/extra/ca.po | 
+ | [nl](/f29/language/nl) | 14 | 48 | 29.2 | /mnt/stockage/packages/f29/notejot/po/nl_NL.po/mnt/stockage/packages/f29/notejot/po/extra/nl_NL.po | 
+ | [tr](/f29/language/tr) | 14 | 48 | 29.2 | /mnt/stockage/packages/f29/notejot/po/tr_TR.po/mnt/stockage/packages/f29/notejot/po/extra/tr_TR.po | 
+ | [pt_BR](/f29/language/pt_BR) | 8 | 48 | 16.7 | /mnt/stockage/packages/f29/notejot/po/pt_BR.po/mnt/stockage/packages/f29/notejot/po/extra/pt_BR.po | 
 {.sortable}
 
 

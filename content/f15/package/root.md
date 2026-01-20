@@ -18,7 +18,7 @@ The package root (version 5.28.00h):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [da]({{< ref "/f15/language/da.md" >}}) | 214 | 223 | 96.0 | /mnt/stockage/packages/f15/root/build/package/debian/po/da.po | 
+ | [da](/f15/language/da) | 214 | 223 | 96.0 | /mnt/stockage/packages/f15/root/build/package/debian/po/da.po | 
 {.sortable}
 
 

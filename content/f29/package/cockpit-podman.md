@@ -18,7 +18,7 @@ The package cockpit-podman (version 4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f29/language/de.md" >}}) | 8 | 8 | 100.0 | /mnt/stockage/packages/f29/cockpit-podman/po/de.po | 
+ | [de](/f29/language/de) | 8 | 8 | 100.0 | /mnt/stockage/packages/f29/cockpit-podman/po/de.po | 
 {.sortable}
 
 

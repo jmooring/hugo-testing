@@ -18,18 +18,18 @@ The package xournal (version 0.4.8):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f28/language/cs.md" >}}) | 1016 | 1016 | 100.0 | /mnt/stockage/packages/f28/xournal/po/cs.po | 
- | [it]({{< ref "/f28/language/it.md" >}}) | 1016 | 1016 | 100.0 | /mnt/stockage/packages/f28/xournal/po/it.po | 
- | [pt_BR]({{< ref "/f28/language/pt_BR.md" >}}) | 1018 | 1018 | 100.0 | /mnt/stockage/packages/f28/xournal/po/pt_BR.po | 
- | [zh_Hans]({{< ref "/f28/language/zh_Hans.md" >}}) | 1026 | 1026 | 100.0 | /mnt/stockage/packages/f28/xournal/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f28/language/zh_Hant.md" >}}) | 1016 | 1016 | 100.0 | /mnt/stockage/packages/f28/xournal/po/zh_TW.po | 
- | [es]({{< ref "/f28/language/es.md" >}}) | 1015 | 1016 | 99.9 | /mnt/stockage/packages/f28/xournal/po/es.po | 
- | [ja]({{< ref "/f28/language/ja.md" >}}) | 1042 | 1063 | 98.0 | /mnt/stockage/packages/f28/xournal/po/ja.po | 
- | [fr]({{< ref "/f28/language/fr.md" >}}) | 1178 | 1211 | 97.3 | /mnt/stockage/packages/f28/xournal/po/fr.po | 
- | [de]({{< ref "/f28/language/de.md" >}}) | 1004 | 1041 | 96.4 | /mnt/stockage/packages/f28/xournal/po/de.po | 
- | [pl]({{< ref "/f28/language/pl.md" >}}) | 823 | 1025 | 80.3 | /mnt/stockage/packages/f28/xournal/po/pl.po | 
- | [nl]({{< ref "/f28/language/nl.md" >}}) | 440 | 1016 | 43.3 | /mnt/stockage/packages/f28/xournal/po/nl.po | 
- | [ca]({{< ref "/f28/language/ca.md" >}}) | 373 | 1016 | 36.7 | /mnt/stockage/packages/f28/xournal/po/ca.po | 
+ | [cs](/f28/language/cs) | 1016 | 1016 | 100.0 | /mnt/stockage/packages/f28/xournal/po/cs.po | 
+ | [it](/f28/language/it) | 1016 | 1016 | 100.0 | /mnt/stockage/packages/f28/xournal/po/it.po | 
+ | [pt_BR](/f28/language/pt_BR) | 1018 | 1018 | 100.0 | /mnt/stockage/packages/f28/xournal/po/pt_BR.po | 
+ | [zh_Hans](/f28/language/zh_Hans) | 1026 | 1026 | 100.0 | /mnt/stockage/packages/f28/xournal/po/zh_CN.po | 
+ | [zh_Hant](/f28/language/zh_Hant) | 1016 | 1016 | 100.0 | /mnt/stockage/packages/f28/xournal/po/zh_TW.po | 
+ | [es](/f28/language/es) | 1015 | 1016 | 99.9 | /mnt/stockage/packages/f28/xournal/po/es.po | 
+ | [ja](/f28/language/ja) | 1042 | 1063 | 98.0 | /mnt/stockage/packages/f28/xournal/po/ja.po | 
+ | [fr](/f28/language/fr) | 1178 | 1211 | 97.3 | /mnt/stockage/packages/f28/xournal/po/fr.po | 
+ | [de](/f28/language/de) | 1004 | 1041 | 96.4 | /mnt/stockage/packages/f28/xournal/po/de.po | 
+ | [pl](/f28/language/pl) | 823 | 1025 | 80.3 | /mnt/stockage/packages/f28/xournal/po/pl.po | 
+ | [nl](/f28/language/nl) | 440 | 1016 | 43.3 | /mnt/stockage/packages/f28/xournal/po/nl.po | 
+ | [ca](/f28/language/ca) | 373 | 1016 | 36.7 | /mnt/stockage/packages/f28/xournal/po/ca.po | 
 {.sortable}
 
 

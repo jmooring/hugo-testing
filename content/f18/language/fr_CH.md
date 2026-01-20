@@ -38,8 +38,8 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [openerp]({{< ref "/f18/package/openerp.md" >}}) | 5 | 5 | 100.0 |  | 
- | [gnomebaker]({{< ref "/f18/package/gnomebaker.md" >}}) | 41 | 1186 | 3.5 | French (Switzerland) <fr_CH@li.org> | 
+ | [openerp](/f18/package/openerp) | 5 | 5 | 100.0 |  | 
+ | [gnomebaker](/f18/package/gnomebaker) | 41 | 1186 | 3.5 | French (Switzerland) <fr_CH@li.org> | 
 {.sortable}
 
 

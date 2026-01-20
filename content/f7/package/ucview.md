@@ -18,8 +18,8 @@ The package ucview (version 0.20.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f7/language/de.md" >}}) | 153 | 153 | 100.0 | /mnt/stockage/packages/f7/ucview/po/de.po | 
- | [fr]({{< ref "/f7/language/fr.md" >}}) | 152 | 152 | 100.0 | /mnt/stockage/packages/f7/ucview/po/fr.po | 
+ | [de](/f7/language/de) | 153 | 153 | 100.0 | /mnt/stockage/packages/f7/ucview/po/de.po | 
+ | [fr](/f7/language/fr) | 152 | 152 | 100.0 | /mnt/stockage/packages/f7/ucview/po/fr.po | 
 {.sortable}
 
 

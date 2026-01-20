@@ -18,22 +18,22 @@ The package jwm (version 2.4.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [pl]({{< ref "/f38/language/pl.md" >}}) | 397 | 397 | 100.0 | /mnt/stockage/packages/f38/jwm/po/pl.po | 
- | [pt]({{< ref "/f38/language/pt.md" >}}) | 397 | 397 | 100.0 | /mnt/stockage/packages/f38/jwm/po/pt.po | 
- | [uk]({{< ref "/f38/language/uk.md" >}}) | 397 | 397 | 100.0 | /mnt/stockage/packages/f38/jwm/po/uk.po | 
- | [pt_BR]({{< ref "/f38/language/pt_BR.md" >}}) | 370 | 397 | 93.2 | /mnt/stockage/packages/f38/jwm/po/pt_BR.po | 
- | [da]({{< ref "/f38/language/da.md" >}}) | 352 | 397 | 88.7 | /mnt/stockage/packages/f38/jwm/po/da.po | 
- | [es]({{< ref "/f38/language/es.md" >}}) | 352 | 397 | 88.7 | /mnt/stockage/packages/f38/jwm/po/es.po | 
- | [fr]({{< ref "/f38/language/fr.md" >}}) | 352 | 397 | 88.7 | /mnt/stockage/packages/f38/jwm/po/fr.po | 
- | [lt]({{< ref "/f38/language/lt.md" >}}) | 352 | 397 | 88.7 | /mnt/stockage/packages/f38/jwm/po/lt.po | 
- | [tr]({{< ref "/f38/language/tr.md" >}}) | 352 | 397 | 88.7 | /mnt/stockage/packages/f38/jwm/po/tr.po | 
- | [zh_Hant]({{< ref "/f38/language/zh_Hant.md" >}}) | 336 | 397 | 84.6 | /mnt/stockage/packages/f38/jwm/po/zh_TW.po | 
- | [it]({{< ref "/f38/language/it.md" >}}) | 271 | 397 | 68.3 | /mnt/stockage/packages/f38/jwm/po/it.po | 
- | [hu]({{< ref "/f38/language/hu.md" >}}) | 265 | 397 | 66.8 | /mnt/stockage/packages/f38/jwm/po/hu.po | 
- | [ru]({{< ref "/f38/language/ru.md" >}}) | 251 | 397 | 63.2 | /mnt/stockage/packages/f38/jwm/po/ru.po | 
- | [nl]({{< ref "/f38/language/nl.md" >}}) | 239 | 397 | 60.2 | /mnt/stockage/packages/f38/jwm/po/nl.po | 
- | [zh_Hans]({{< ref "/f38/language/zh_Hans.md" >}}) | 230 | 397 | 57.9 | /mnt/stockage/packages/f38/jwm/po/zh_CN.po | 
- | [de]({{< ref "/f38/language/de.md" >}}) | 125 | 397 | 31.5 | /mnt/stockage/packages/f38/jwm/po/de.po | 
+ | [pl](/f38/language/pl) | 397 | 397 | 100.0 | /mnt/stockage/packages/f38/jwm/po/pl.po | 
+ | [pt](/f38/language/pt) | 397 | 397 | 100.0 | /mnt/stockage/packages/f38/jwm/po/pt.po | 
+ | [uk](/f38/language/uk) | 397 | 397 | 100.0 | /mnt/stockage/packages/f38/jwm/po/uk.po | 
+ | [pt_BR](/f38/language/pt_BR) | 370 | 397 | 93.2 | /mnt/stockage/packages/f38/jwm/po/pt_BR.po | 
+ | [da](/f38/language/da) | 352 | 397 | 88.7 | /mnt/stockage/packages/f38/jwm/po/da.po | 
+ | [es](/f38/language/es) | 352 | 397 | 88.7 | /mnt/stockage/packages/f38/jwm/po/es.po | 
+ | [fr](/f38/language/fr) | 352 | 397 | 88.7 | /mnt/stockage/packages/f38/jwm/po/fr.po | 
+ | [lt](/f38/language/lt) | 352 | 397 | 88.7 | /mnt/stockage/packages/f38/jwm/po/lt.po | 
+ | [tr](/f38/language/tr) | 352 | 397 | 88.7 | /mnt/stockage/packages/f38/jwm/po/tr.po | 
+ | [zh_Hant](/f38/language/zh_Hant) | 336 | 397 | 84.6 | /mnt/stockage/packages/f38/jwm/po/zh_TW.po | 
+ | [it](/f38/language/it) | 271 | 397 | 68.3 | /mnt/stockage/packages/f38/jwm/po/it.po | 
+ | [hu](/f38/language/hu) | 265 | 397 | 66.8 | /mnt/stockage/packages/f38/jwm/po/hu.po | 
+ | [ru](/f38/language/ru) | 251 | 397 | 63.2 | /mnt/stockage/packages/f38/jwm/po/ru.po | 
+ | [nl](/f38/language/nl) | 239 | 397 | 60.2 | /mnt/stockage/packages/f38/jwm/po/nl.po | 
+ | [zh_Hans](/f38/language/zh_Hans) | 230 | 397 | 57.9 | /mnt/stockage/packages/f38/jwm/po/zh_CN.po | 
+ | [de](/f38/language/de) | 125 | 397 | 31.5 | /mnt/stockage/packages/f38/jwm/po/de.po | 
 {.sortable}
 
 

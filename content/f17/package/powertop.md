@@ -18,16 +18,16 @@ The package powertop (version 2.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f17/language/cs.md" >}}) | 426 | 445 | 95.7 | /mnt/stockage/packages/f17/powertop/po/cs_CZ.po | 
- | [hu]({{< ref "/f17/language/hu.md" >}}) | 426 | 445 | 95.7 | /mnt/stockage/packages/f17/powertop/po/hu_HU.po | 
- | [id]({{< ref "/f17/language/id.md" >}}) | 426 | 445 | 95.7 | /mnt/stockage/packages/f17/powertop/po/id_ID.po | 
- | [zh_Hant]({{< ref "/f17/language/zh_Hant.md" >}}) | 426 | 445 | 95.7 | /mnt/stockage/packages/f17/powertop/po/zh_TW.po | 
- | [ca]({{< ref "/f17/language/ca.md" >}}) | 284 | 445 | 63.8 | /mnt/stockage/packages/f17/powertop/po/ca.po | 
- | [en_US]({{< ref "/f17/language/en_US.md" >}}) | 260 | 445 | 58.4 | /mnt/stockage/packages/f17/powertop/po/en_US.po | 
- | [es]({{< ref "/f17/language/es.md" >}}) | 260 | 445 | 58.4 | /mnt/stockage/packages/f17/powertop/po/es_ES.po | 
- | [en_GB]({{< ref "/f17/language/en_GB.md" >}}) | 91 | 445 | 20.4 | /mnt/stockage/packages/f17/powertop/po/en_GB.po | 
- | [nl]({{< ref "/f17/language/nl.md" >}}) | 74 | 445 | 16.6 | /mnt/stockage/packages/f17/powertop/po/nl_NL.po | 
- | [de]({{< ref "/f17/language/de.md" >}}) | 68 | 445 | 15.3 | /mnt/stockage/packages/f17/powertop/po/de_DE.po | 
+ | [cs](/f17/language/cs) | 426 | 445 | 95.7 | /mnt/stockage/packages/f17/powertop/po/cs_CZ.po | 
+ | [hu](/f17/language/hu) | 426 | 445 | 95.7 | /mnt/stockage/packages/f17/powertop/po/hu_HU.po | 
+ | [id](/f17/language/id) | 426 | 445 | 95.7 | /mnt/stockage/packages/f17/powertop/po/id_ID.po | 
+ | [zh_Hant](/f17/language/zh_Hant) | 426 | 445 | 95.7 | /mnt/stockage/packages/f17/powertop/po/zh_TW.po | 
+ | [ca](/f17/language/ca) | 284 | 445 | 63.8 | /mnt/stockage/packages/f17/powertop/po/ca.po | 
+ | [en_US](/f17/language/en_US) | 260 | 445 | 58.4 | /mnt/stockage/packages/f17/powertop/po/en_US.po | 
+ | [es](/f17/language/es) | 260 | 445 | 58.4 | /mnt/stockage/packages/f17/powertop/po/es_ES.po | 
+ | [en_GB](/f17/language/en_GB) | 91 | 445 | 20.4 | /mnt/stockage/packages/f17/powertop/po/en_GB.po | 
+ | [nl](/f17/language/nl) | 74 | 445 | 16.6 | /mnt/stockage/packages/f17/powertop/po/nl_NL.po | 
+ | [de](/f17/language/de) | 68 | 445 | 15.3 | /mnt/stockage/packages/f17/powertop/po/de_DE.po | 
 {.sortable}
 
 

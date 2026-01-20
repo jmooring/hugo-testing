@@ -18,48 +18,48 @@ The package tellico (version 3.2.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f30/language/ca.md" >}}) | 5726 | 5726 | 100.0 | /mnt/stockage/packages/f30/tellico/po/ca/tellico.po | 
- | [de]({{< ref "/f30/language/de.md" >}}) | 5726 | 5726 | 100.0 | /mnt/stockage/packages/f30/tellico/po/de/tellico.po | 
- | [en_GB]({{< ref "/f30/language/en_GB.md" >}}) | 5726 | 5726 | 100.0 | /mnt/stockage/packages/f30/tellico/po/en_GB/tellico.po | 
- | [es]({{< ref "/f30/language/es.md" >}}) | 5726 | 5726 | 100.0 | /mnt/stockage/packages/f30/tellico/po/es/tellico.po | 
- | [fr]({{< ref "/f30/language/fr.md" >}}) | 5726 | 5726 | 100.0 | /mnt/stockage/packages/f30/tellico/po/fr/tellico.po | 
- | [gl]({{< ref "/f30/language/gl.md" >}}) | 5726 | 5726 | 100.0 | /mnt/stockage/packages/f30/tellico/po/gl/tellico.po | 
- | [it]({{< ref "/f30/language/it.md" >}}) | 5726 | 5726 | 100.0 | /mnt/stockage/packages/f30/tellico/po/it/tellico.po | 
- | [nl]({{< ref "/f30/language/nl.md" >}}) | 5726 | 5726 | 100.0 | /mnt/stockage/packages/f30/tellico/po/nl/tellico.po | 
- | [pl]({{< ref "/f30/language/pl.md" >}}) | 5726 | 5726 | 100.0 | /mnt/stockage/packages/f30/tellico/po/pl/tellico.po | 
- | [pt]({{< ref "/f30/language/pt.md" >}}) | 5726 | 5726 | 100.0 | /mnt/stockage/packages/f30/tellico/po/pt/tellico.po | 
- | [pt_BR]({{< ref "/f30/language/pt_BR.md" >}}) | 5726 | 5726 | 100.0 | /mnt/stockage/packages/f30/tellico/po/pt_BR/tellico.po | 
- | [sv]({{< ref "/f30/language/sv.md" >}}) | 5726 | 5726 | 100.0 | /mnt/stockage/packages/f30/tellico/po/sv/tellico.po | 
- | [uk]({{< ref "/f30/language/uk.md" >}}) | 5726 | 5726 | 100.0 | /mnt/stockage/packages/f30/tellico/po/uk/tellico.po | 
- | [ca@valencia]({{< ref "/f30/language/ca@valencia.md" >}}) | 5700 | 5726 | 99.5 | /mnt/stockage/packages/f30/tellico/po/ca@valencia/tellico.po | 
- | [nn]({{< ref "/f30/language/nn.md" >}}) | 5699 | 5726 | 99.5 | /mnt/stockage/packages/f30/tellico/po/nn/tellico.po | 
- | [ko]({{< ref "/f30/language/ko.md" >}}) | 5693 | 5726 | 99.4 | /mnt/stockage/packages/f30/tellico/po/ko/tellico.po | 
- | [sl]({{< ref "/f30/language/sl.md" >}}) | 5612 | 5726 | 98.0 | /mnt/stockage/packages/f30/tellico/po/sl/tellico.po | 
- | [sk]({{< ref "/f30/language/sk.md" >}}) | 5604 | 5726 | 97.9 | /mnt/stockage/packages/f30/tellico/po/sk/tellico.po | 
- | [el]({{< ref "/f30/language/el.md" >}}) | 5586 | 5726 | 97.6 | /mnt/stockage/packages/f30/tellico/po/el/tellico.po | 
- | [tr]({{< ref "/f30/language/tr.md" >}}) | 5586 | 5726 | 97.6 | /mnt/stockage/packages/f30/tellico/po/tr/tellico.po | 
- | [fi]({{< ref "/f30/language/fi.md" >}}) | 5534 | 5726 | 96.6 | /mnt/stockage/packages/f30/tellico/po/fi/tellico.po | 
- | [cs]({{< ref "/f30/language/cs.md" >}}) | 5485 | 5726 | 95.8 | /mnt/stockage/packages/f30/tellico/po/cs/tellico.po | 
- | [bs]({{< ref "/f30/language/bs.md" >}}) | 5484 | 5726 | 95.8 | /mnt/stockage/packages/f30/tellico/po/bs/tellico.po | 
- | [da]({{< ref "/f30/language/da.md" >}}) | 5484 | 5726 | 95.8 | /mnt/stockage/packages/f30/tellico/po/da/tellico.po | 
- | [ia]({{< ref "/f30/language/ia.md" >}}) | 5484 | 5726 | 95.8 | /mnt/stockage/packages/f30/tellico/po/ia/tellico.po | 
- | [et]({{< ref "/f30/language/et.md" >}}) | 5441 | 5726 | 95.0 | /mnt/stockage/packages/f30/tellico/po/et/tellico.po | 
- | [hu]({{< ref "/f30/language/hu.md" >}}) | 5441 | 5726 | 95.0 | /mnt/stockage/packages/f30/tellico/po/hu/tellico.po | 
- | [zh_Hant]({{< ref "/f30/language/zh_Hant.md" >}}) | 5362 | 5726 | 93.6 | /mnt/stockage/packages/f30/tellico/po/zh_TW/tellico.po | 
- | [ru]({{< ref "/f30/language/ru.md" >}}) | 5359 | 5726 | 93.6 | /mnt/stockage/packages/f30/tellico/po/ru/tellico.po | 
- | [kk]({{< ref "/f30/language/kk.md" >}}) | 5342 | 5726 | 93.3 | /mnt/stockage/packages/f30/tellico/po/kk/tellico.po | 
- | [nb_NO]({{< ref "/f30/language/nb_NO.md" >}}) | 5321 | 5726 | 92.9 | /mnt/stockage/packages/f30/tellico/po/nb/tellico.po | 
- | [nds]({{< ref "/f30/language/nds.md" >}}) | 5312 | 5726 | 92.8 | /mnt/stockage/packages/f30/tellico/po/nds/tellico.po | 
- | [zh_Hans]({{< ref "/f30/language/zh_Hans.md" >}}) | 2832 | 5726 | 49.5 | /mnt/stockage/packages/f30/tellico/po/zh_CN/tellico.po | 
- | [ga]({{< ref "/f30/language/ga.md" >}}) | 659 | 5726 | 11.5 | /mnt/stockage/packages/f30/tellico/po/ga/tellico.po | 
- | [bg]({{< ref "/f30/language/bg.md" >}}) | 548 | 5726 | 9.6 | /mnt/stockage/packages/f30/tellico/po/bg/tellico.po | 
- | [ug]({{< ref "/f30/language/ug.md" >}}) | 477 | 5726 | 8.3 | /mnt/stockage/packages/f30/tellico/po/ug/tellico.po | 
- | [lt]({{< ref "/f30/language/lt.md" >}}) | 453 | 5726 | 7.9 | /mnt/stockage/packages/f30/tellico/po/lt/tellico.po | 
- | [eo]({{< ref "/f30/language/eo.md" >}}) | 353 | 5726 | 6.2 | /mnt/stockage/packages/f30/tellico/po/eo/tellico.po | 
- | [mr]({{< ref "/f30/language/mr.md" >}}) | 186 | 5726 | 3.2 | /mnt/stockage/packages/f30/tellico/po/mr/tellico.po | 
- | [eu]({{< ref "/f30/language/eu.md" >}}) | 176 | 5726 | 3.1 | /mnt/stockage/packages/f30/tellico/po/eu/tellico.po | 
- | [ro]({{< ref "/f30/language/ro.md" >}}) | 130 | 5726 | 2.3 | /mnt/stockage/packages/f30/tellico/po/ro/tellico.po | 
- | [ms]({{< ref "/f30/language/ms.md" >}}) | 38 | 5726 | 0.7 | /mnt/stockage/packages/f30/tellico/po/ms/tellico.po | 
+ | [ca](/f30/language/ca) | 5726 | 5726 | 100.0 | /mnt/stockage/packages/f30/tellico/po/ca/tellico.po | 
+ | [de](/f30/language/de) | 5726 | 5726 | 100.0 | /mnt/stockage/packages/f30/tellico/po/de/tellico.po | 
+ | [en_GB](/f30/language/en_GB) | 5726 | 5726 | 100.0 | /mnt/stockage/packages/f30/tellico/po/en_GB/tellico.po | 
+ | [es](/f30/language/es) | 5726 | 5726 | 100.0 | /mnt/stockage/packages/f30/tellico/po/es/tellico.po | 
+ | [fr](/f30/language/fr) | 5726 | 5726 | 100.0 | /mnt/stockage/packages/f30/tellico/po/fr/tellico.po | 
+ | [gl](/f30/language/gl) | 5726 | 5726 | 100.0 | /mnt/stockage/packages/f30/tellico/po/gl/tellico.po | 
+ | [it](/f30/language/it) | 5726 | 5726 | 100.0 | /mnt/stockage/packages/f30/tellico/po/it/tellico.po | 
+ | [nl](/f30/language/nl) | 5726 | 5726 | 100.0 | /mnt/stockage/packages/f30/tellico/po/nl/tellico.po | 
+ | [pl](/f30/language/pl) | 5726 | 5726 | 100.0 | /mnt/stockage/packages/f30/tellico/po/pl/tellico.po | 
+ | [pt](/f30/language/pt) | 5726 | 5726 | 100.0 | /mnt/stockage/packages/f30/tellico/po/pt/tellico.po | 
+ | [pt_BR](/f30/language/pt_BR) | 5726 | 5726 | 100.0 | /mnt/stockage/packages/f30/tellico/po/pt_BR/tellico.po | 
+ | [sv](/f30/language/sv) | 5726 | 5726 | 100.0 | /mnt/stockage/packages/f30/tellico/po/sv/tellico.po | 
+ | [uk](/f30/language/uk) | 5726 | 5726 | 100.0 | /mnt/stockage/packages/f30/tellico/po/uk/tellico.po | 
+ | [ca@valencia](/f30/language/ca@valencia) | 5700 | 5726 | 99.5 | /mnt/stockage/packages/f30/tellico/po/ca@valencia/tellico.po | 
+ | [nn](/f30/language/nn) | 5699 | 5726 | 99.5 | /mnt/stockage/packages/f30/tellico/po/nn/tellico.po | 
+ | [ko](/f30/language/ko) | 5693 | 5726 | 99.4 | /mnt/stockage/packages/f30/tellico/po/ko/tellico.po | 
+ | [sl](/f30/language/sl) | 5612 | 5726 | 98.0 | /mnt/stockage/packages/f30/tellico/po/sl/tellico.po | 
+ | [sk](/f30/language/sk) | 5604 | 5726 | 97.9 | /mnt/stockage/packages/f30/tellico/po/sk/tellico.po | 
+ | [el](/f30/language/el) | 5586 | 5726 | 97.6 | /mnt/stockage/packages/f30/tellico/po/el/tellico.po | 
+ | [tr](/f30/language/tr) | 5586 | 5726 | 97.6 | /mnt/stockage/packages/f30/tellico/po/tr/tellico.po | 
+ | [fi](/f30/language/fi) | 5534 | 5726 | 96.6 | /mnt/stockage/packages/f30/tellico/po/fi/tellico.po | 
+ | [cs](/f30/language/cs) | 5485 | 5726 | 95.8 | /mnt/stockage/packages/f30/tellico/po/cs/tellico.po | 
+ | [bs](/f30/language/bs) | 5484 | 5726 | 95.8 | /mnt/stockage/packages/f30/tellico/po/bs/tellico.po | 
+ | [da](/f30/language/da) | 5484 | 5726 | 95.8 | /mnt/stockage/packages/f30/tellico/po/da/tellico.po | 
+ | [ia](/f30/language/ia) | 5484 | 5726 | 95.8 | /mnt/stockage/packages/f30/tellico/po/ia/tellico.po | 
+ | [et](/f30/language/et) | 5441 | 5726 | 95.0 | /mnt/stockage/packages/f30/tellico/po/et/tellico.po | 
+ | [hu](/f30/language/hu) | 5441 | 5726 | 95.0 | /mnt/stockage/packages/f30/tellico/po/hu/tellico.po | 
+ | [zh_Hant](/f30/language/zh_Hant) | 5362 | 5726 | 93.6 | /mnt/stockage/packages/f30/tellico/po/zh_TW/tellico.po | 
+ | [ru](/f30/language/ru) | 5359 | 5726 | 93.6 | /mnt/stockage/packages/f30/tellico/po/ru/tellico.po | 
+ | [kk](/f30/language/kk) | 5342 | 5726 | 93.3 | /mnt/stockage/packages/f30/tellico/po/kk/tellico.po | 
+ | [nb_NO](/f30/language/nb_NO) | 5321 | 5726 | 92.9 | /mnt/stockage/packages/f30/tellico/po/nb/tellico.po | 
+ | [nds](/f30/language/nds) | 5312 | 5726 | 92.8 | /mnt/stockage/packages/f30/tellico/po/nds/tellico.po | 
+ | [zh_Hans](/f30/language/zh_Hans) | 2832 | 5726 | 49.5 | /mnt/stockage/packages/f30/tellico/po/zh_CN/tellico.po | 
+ | [ga](/f30/language/ga) | 659 | 5726 | 11.5 | /mnt/stockage/packages/f30/tellico/po/ga/tellico.po | 
+ | [bg](/f30/language/bg) | 548 | 5726 | 9.6 | /mnt/stockage/packages/f30/tellico/po/bg/tellico.po | 
+ | [ug](/f30/language/ug) | 477 | 5726 | 8.3 | /mnt/stockage/packages/f30/tellico/po/ug/tellico.po | 
+ | [lt](/f30/language/lt) | 453 | 5726 | 7.9 | /mnt/stockage/packages/f30/tellico/po/lt/tellico.po | 
+ | [eo](/f30/language/eo) | 353 | 5726 | 6.2 | /mnt/stockage/packages/f30/tellico/po/eo/tellico.po | 
+ | [mr](/f30/language/mr) | 186 | 5726 | 3.2 | /mnt/stockage/packages/f30/tellico/po/mr/tellico.po | 
+ | [eu](/f30/language/eu) | 176 | 5726 | 3.1 | /mnt/stockage/packages/f30/tellico/po/eu/tellico.po | 
+ | [ro](/f30/language/ro) | 130 | 5726 | 2.3 | /mnt/stockage/packages/f30/tellico/po/ro/tellico.po | 
+ | [ms](/f30/language/ms) | 38 | 5726 | 0.7 | /mnt/stockage/packages/f30/tellico/po/ms/tellico.po | 
 {.sortable}
 
 

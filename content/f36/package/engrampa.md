@@ -18,139 +18,139 @@ The package engrampa (version 1.26.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [id]({{< ref "/f36/language/id.md" >}}) | 7838 | 7838 | 100.0 | /mnt/stockage/packages/f36/engrampa/help/id/id.po/mnt/stockage/packages/f36/engrampa/po/id.po | 
- | [it]({{< ref "/f36/language/it.md" >}}) | 7838 | 7838 | 100.0 | /mnt/stockage/packages/f36/engrampa/help/it/it.po/mnt/stockage/packages/f36/engrampa/po/it.po | 
- | [ja]({{< ref "/f36/language/ja.md" >}}) | 7838 | 7838 | 100.0 | /mnt/stockage/packages/f36/engrampa/help/ja/ja.po/mnt/stockage/packages/f36/engrampa/po/ja.po | 
- | [sr]({{< ref "/f36/language/sr.md" >}}) | 7838 | 7838 | 100.0 | /mnt/stockage/packages/f36/engrampa/help/sr/sr.po/mnt/stockage/packages/f36/engrampa/po/sr.po | 
- | [da]({{< ref "/f36/language/da.md" >}}) | 7768 | 7838 | 99.1 | /mnt/stockage/packages/f36/engrampa/help/da/da.po/mnt/stockage/packages/f36/engrampa/po/da.po | 
- | [ms]({{< ref "/f36/language/ms.md" >}}) | 7768 | 7838 | 99.1 | /mnt/stockage/packages/f36/engrampa/help/ms/ms.po/mnt/stockage/packages/f36/engrampa/po/ms.po | 
- | [uk]({{< ref "/f36/language/uk.md" >}}) | 7762 | 7838 | 99.0 | /mnt/stockage/packages/f36/engrampa/help/uk/uk.po/mnt/stockage/packages/f36/engrampa/po/uk.po | 
- | [ru]({{< ref "/f36/language/ru.md" >}}) | 7725 | 7838 | 98.6 | /mnt/stockage/packages/f36/engrampa/help/ru/ru.po/mnt/stockage/packages/f36/engrampa/po/ru.po | 
- | [ie]({{< ref "/f36/language/ie.md" >}}) | 1487 | 2049 | 72.6 | /mnt/stockage/packages/f36/engrampa/po/ie.po | 
- | [ca]({{< ref "/f36/language/ca.md" >}}) | 4048 | 7838 | 51.6 | /mnt/stockage/packages/f36/engrampa/help/ca/ca.po/mnt/stockage/packages/f36/engrampa/po/ca.po | 
- | [ps]({{< ref "/f36/language/ps.md" >}}) | 995 | 2049 | 48.6 | /mnt/stockage/packages/f36/engrampa/po/ps.po | 
- | [fur]({{< ref "/f36/language/fur.md" >}}) | 909 | 2049 | 44.4 | /mnt/stockage/packages/f36/engrampa/po/fur.po | 
- | [ur_PK]({{< ref "/f36/language/ur_PK.md" >}}) | 863 | 2049 | 42.1 | /mnt/stockage/packages/f36/engrampa/po/ur_PK.po | 
- | [pl]({{< ref "/f36/language/pl.md" >}}) | 3029 | 7838 | 38.6 | /mnt/stockage/packages/f36/engrampa/help/pl/pl.po/mnt/stockage/packages/f36/engrampa/po/pl.po | 
- | [fr]({{< ref "/f36/language/fr.md" >}}) | 2844 | 7838 | 36.3 | /mnt/stockage/packages/f36/engrampa/help/fr/fr.po/mnt/stockage/packages/f36/engrampa/po/fr.po | 
- | [gl]({{< ref "/f36/language/gl.md" >}}) | 2721 | 7838 | 34.7 | /mnt/stockage/packages/f36/engrampa/help/gl/gl.po/mnt/stockage/packages/f36/engrampa/po/gl.po | 
- | [oc]({{< ref "/f36/language/oc.md" >}}) | 2624 | 7838 | 33.5 | /mnt/stockage/packages/f36/engrampa/help/oc/oc.po/mnt/stockage/packages/f36/engrampa/po/oc.po | 
- | [tr]({{< ref "/f36/language/tr.md" >}}) | 2620 | 7838 | 33.4 | /mnt/stockage/packages/f36/engrampa/help/tr/tr.po/mnt/stockage/packages/f36/engrampa/po/tr.po | 
- | [en_GB]({{< ref "/f36/language/en_GB.md" >}}) | 2608 | 7838 | 33.3 | /mnt/stockage/packages/f36/engrampa/help/en_GB/en_GB.po/mnt/stockage/packages/f36/engrampa/po/en_GB.po | 
- | [nl]({{< ref "/f36/language/nl.md" >}}) | 2563 | 7838 | 32.7 | /mnt/stockage/packages/f36/engrampa/help/nl/nl.po/mnt/stockage/packages/f36/engrampa/po/nl.po | 
- | [pt]({{< ref "/f36/language/pt.md" >}}) | 2519 | 7838 | 32.1 | /mnt/stockage/packages/f36/engrampa/help/pt/pt.po/mnt/stockage/packages/f36/engrampa/po/pt.po | 
- | [es]({{< ref "/f36/language/es.md" >}}) | 3162 | 9887 | 32.0 | /mnt/stockage/packages/f36/engrampa/help/es/es.po/mnt/stockage/packages/f36/engrampa/po/es.po/mnt/stockage/packages/f36/engrampa/po/es_ES.po | 
- | [pt_BR]({{< ref "/f36/language/pt_BR.md" >}}) | 2465 | 7838 | 31.4 | /mnt/stockage/packages/f36/engrampa/help/pt_BR/pt_BR.po/mnt/stockage/packages/f36/engrampa/po/pt_BR.po | 
- | [de]({{< ref "/f36/language/de.md" >}}) | 2404 | 7838 | 30.7 | /mnt/stockage/packages/f36/engrampa/help/de/de.po/mnt/stockage/packages/f36/engrampa/po/de.po | 
- | [lt]({{< ref "/f36/language/lt.md" >}}) | 2377 | 7838 | 30.3 | /mnt/stockage/packages/f36/engrampa/help/lt/lt.po/mnt/stockage/packages/f36/engrampa/po/lt.po | 
- | [cs]({{< ref "/f36/language/cs.md" >}}) | 2357 | 7838 | 30.1 | /mnt/stockage/packages/f36/engrampa/help/cs/cs.po/mnt/stockage/packages/f36/engrampa/po/cs.po | 
- | [sv]({{< ref "/f36/language/sv.md" >}}) | 2336 | 7838 | 29.8 | /mnt/stockage/packages/f36/engrampa/help/sv/sv.po/mnt/stockage/packages/f36/engrampa/po/sv.po | 
- | [sk]({{< ref "/f36/language/sk.md" >}}) | 2270 | 7838 | 29.0 | /mnt/stockage/packages/f36/engrampa/help/sk/sk.po/mnt/stockage/packages/f36/engrampa/po/sk.po | 
- | [uz]({{< ref "/f36/language/uz.md" >}}) | 592 | 2049 | 28.9 | /mnt/stockage/packages/f36/engrampa/po/uz.po | 
- | [ko]({{< ref "/f36/language/ko.md" >}}) | 2247 | 7838 | 28.7 | /mnt/stockage/packages/f36/engrampa/help/ko/ko.po/mnt/stockage/packages/f36/engrampa/po/ko.po | 
- | [nb_NO]({{< ref "/f36/language/nb_NO.md" >}}) | 2243 | 7838 | 28.6 | /mnt/stockage/packages/f36/engrampa/help/nb/nb.po/mnt/stockage/packages/f36/engrampa/po/nb.po | 
- | [zh_Hant]({{< ref "/f36/language/zh_Hant.md" >}}) | 2015 | 7838 | 25.7 | /mnt/stockage/packages/f36/engrampa/help/zh_TW/zh_TW.po/mnt/stockage/packages/f36/engrampa/po/zh_TW.po | 
- | [hu]({{< ref "/f36/language/hu.md" >}}) | 2002 | 7838 | 25.5 | /mnt/stockage/packages/f36/engrampa/help/hu/hu.po/mnt/stockage/packages/f36/engrampa/po/hu.po | 
- | [el]({{< ref "/f36/language/el.md" >}}) | 1981 | 7838 | 25.3 | /mnt/stockage/packages/f36/engrampa/help/el/el.po/mnt/stockage/packages/f36/engrampa/po/el.po | 
- | [ca@valencia]({{< ref "/f36/language/ca@valencia.md" >}}) | 1930 | 7838 | 24.6 | /mnt/stockage/packages/f36/engrampa/help/ca@valencia/ca@valencia.po/mnt/stockage/packages/f36/engrampa/po/ca@valencia.po | 
- | [eu]({{< ref "/f36/language/eu.md" >}}) | 1929 | 7838 | 24.6 | /mnt/stockage/packages/f36/engrampa/help/eu/eu.po/mnt/stockage/packages/f36/engrampa/po/eu.po | 
- | [zh_Hans]({{< ref "/f36/language/zh_Hans.md" >}}) | 3768 | 15676 | 24.0 | /mnt/stockage/packages/f36/engrampa/help/cmn/cmn.po/mnt/stockage/packages/f36/engrampa/help/zh_CN/zh_CN.po/mnt/stockage/packages/f36/engrampa/po/zh_CN.po/mnt/stockage/packages/f36/engrampa/po/cmn.po | 
- | [th]({{< ref "/f36/language/th.md" >}}) | 1749 | 7838 | 22.3 | /mnt/stockage/packages/f36/engrampa/help/th/th.po/mnt/stockage/packages/f36/engrampa/po/th.po | 
- | [sl]({{< ref "/f36/language/sl.md" >}}) | 1676 | 7838 | 21.4 | /mnt/stockage/packages/f36/engrampa/help/sl/sl.po/mnt/stockage/packages/f36/engrampa/po/sl.po | 
- | [bg]({{< ref "/f36/language/bg.md" >}}) | 1592 | 7838 | 20.3 | /mnt/stockage/packages/f36/engrampa/help/bg/bg.po/mnt/stockage/packages/f36/engrampa/po/bg.po | 
- | [fy]({{< ref "/f36/language/fy.md" >}}) | 415 | 2049 | 20.3 | /mnt/stockage/packages/f36/engrampa/po/fy.po | 
- | [ro]({{< ref "/f36/language/ro.md" >}}) | 1578 | 7838 | 20.1 | /mnt/stockage/packages/f36/engrampa/help/ro/ro.po/mnt/stockage/packages/f36/engrampa/po/ro.po | 
- | [fi]({{< ref "/f36/language/fi.md" >}}) | 1576 | 7838 | 20.1 | /mnt/stockage/packages/f36/engrampa/help/fi/fi.po/mnt/stockage/packages/f36/engrampa/po/fi.po | 
- | [hr]({{< ref "/f36/language/hr.md" >}}) | 1565 | 7838 | 20.0 | /mnt/stockage/packages/f36/engrampa/help/hr/hr.po/mnt/stockage/packages/f36/engrampa/po/hr.po | 
- | [en_AU]({{< ref "/f36/language/en_AU.md" >}}) | 1554 | 7838 | 19.8 | /mnt/stockage/packages/f36/engrampa/help/en_AU/en_AU.po/mnt/stockage/packages/f36/engrampa/po/en_AU.po | 
- | [pa]({{< ref "/f36/language/pa.md" >}}) | 1544 | 7838 | 19.7 | /mnt/stockage/packages/f36/engrampa/help/pa/pa.po/mnt/stockage/packages/f36/engrampa/po/pa.po | 
- | [hy]({{< ref "/f36/language/hy.md" >}}) | 1542 | 7838 | 19.7 | /mnt/stockage/packages/f36/engrampa/help/hy/hy.po/mnt/stockage/packages/f36/engrampa/po/hy.po | 
- | [br]({{< ref "/f36/language/br.md" >}}) | 1551 | 7922 | 19.6 | /mnt/stockage/packages/f36/engrampa/help/br/br.po/mnt/stockage/packages/f36/engrampa/po/br.po | 
- | [et]({{< ref "/f36/language/et.md" >}}) | 1499 | 7838 | 19.1 | /mnt/stockage/packages/f36/engrampa/help/et/et.po/mnt/stockage/packages/f36/engrampa/po/et.po | 
- | [ar]({{< ref "/f36/language/ar.md" >}}) | 1477 | 7838 | 18.8 | /mnt/stockage/packages/f36/engrampa/help/ar/ar.po/mnt/stockage/packages/f36/engrampa/po/ar.po | 
- | [nds]({{< ref "/f36/language/nds.md" >}}) | 386 | 2049 | 18.8 | /mnt/stockage/packages/f36/engrampa/po/nds.po | 
- | [am]({{< ref "/f36/language/am.md" >}}) | 1446 | 7838 | 18.4 | /mnt/stockage/packages/f36/engrampa/help/am/am.po/mnt/stockage/packages/f36/engrampa/po/am.po | 
- | [be]({{< ref "/f36/language/be.md" >}}) | 1425 | 7838 | 18.2 | /mnt/stockage/packages/f36/engrampa/help/be/be.po/mnt/stockage/packages/f36/engrampa/po/be.po | 
- | [ast]({{< ref "/f36/language/ast.md" >}}) | 1380 | 7922 | 17.4 | /mnt/stockage/packages/f36/engrampa/help/ast/ast.po/mnt/stockage/packages/f36/engrampa/po/ast.po | 
- | [kk]({{< ref "/f36/language/kk.md" >}}) | 1365 | 7838 | 17.4 | /mnt/stockage/packages/f36/engrampa/help/kk/kk.po/mnt/stockage/packages/f36/engrampa/po/kk.po | 
- | [eo]({{< ref "/f36/language/eo.md" >}}) | 1299 | 7838 | 16.6 | /mnt/stockage/packages/f36/engrampa/help/eo/eo.po/mnt/stockage/packages/f36/engrampa/po/eo.po | 
- | [he]({{< ref "/f36/language/he.md" >}}) | 1292 | 7838 | 16.5 | /mnt/stockage/packages/f36/engrampa/help/he/he.po/mnt/stockage/packages/f36/engrampa/po/he.po | 
- | [lv]({{< ref "/f36/language/lv.md" >}}) | 1208 | 7838 | 15.4 | /mnt/stockage/packages/f36/engrampa/help/lv/lv.po/mnt/stockage/packages/f36/engrampa/po/lv.po | 
- | [vi]({{< ref "/f36/language/vi.md" >}}) | 1206 | 7838 | 15.4 | /mnt/stockage/packages/f36/engrampa/help/vi/vi.po/mnt/stockage/packages/f36/engrampa/po/vi.po | 
- | [sr_Latn]({{< ref "/f36/language/sr_Latn.md" >}}) | 1187 | 7838 | 15.1 | /mnt/stockage/packages/f36/engrampa/help/sr@latin/sr@latin.po/mnt/stockage/packages/f36/engrampa/po/sr@latin.po | 
- | [ta]({{< ref "/f36/language/ta.md" >}}) | 1187 | 7838 | 15.1 | /mnt/stockage/packages/f36/engrampa/help/ta/ta.po/mnt/stockage/packages/f36/engrampa/po/ta.po | 
- | [nn]({{< ref "/f36/language/nn.md" >}}) | 1183 | 7838 | 15.1 | /mnt/stockage/packages/f36/engrampa/help/nn/nn.po/mnt/stockage/packages/f36/engrampa/po/nn.po | 
- | [ky]({{< ref "/f36/language/ky.md" >}}) | 1175 | 7838 | 15.0 | /mnt/stockage/packages/f36/engrampa/help/ky/ky.po/mnt/stockage/packages/f36/engrampa/po/ky.po | 
- | [bn]({{< ref "/f36/language/bn.md" >}}) | 1172 | 7838 | 15.0 | /mnt/stockage/packages/f36/engrampa/help/bn/bn.po/mnt/stockage/packages/f36/engrampa/po/bn.po | 
- | [mr]({{< ref "/f36/language/mr.md" >}}) | 1182 | 7922 | 14.9 | /mnt/stockage/packages/f36/engrampa/help/mr/mr.po/mnt/stockage/packages/f36/engrampa/po/mr.po | 
- | [zh_Hant_HK]({{< ref "/f36/language/zh_Hant_HK.md" >}}) | 1179 | 7922 | 14.9 | /mnt/stockage/packages/f36/engrampa/help/zh_HK/zh_HK.po/mnt/stockage/packages/f36/engrampa/po/zh_HK.po | 
- | [ur]({{< ref "/f36/language/ur.md" >}}) | 1176 | 7922 | 14.8 | /mnt/stockage/packages/f36/engrampa/help/ur/ur.po/mnt/stockage/packages/f36/engrampa/po/ur.po | 
- | [bn_IN]({{< ref "/f36/language/bn_IN.md" >}}) | 1164 | 7922 | 14.7 | /mnt/stockage/packages/f36/engrampa/help/bn_IN/bn_IN.po/mnt/stockage/packages/f36/engrampa/po/bn_IN.po | 
- | [ug]({{< ref "/f36/language/ug.md" >}}) | 1161 | 7922 | 14.7 | /mnt/stockage/packages/f36/engrampa/help/ug/ug.po/mnt/stockage/packages/f36/engrampa/po/ug.po | 
- | [sq]({{< ref "/f36/language/sq.md" >}}) | 1116 | 7838 | 14.2 | /mnt/stockage/packages/f36/engrampa/help/sq/sq.po/mnt/stockage/packages/f36/engrampa/po/sq.po | 
- | [hi]({{< ref "/f36/language/hi.md" >}}) | 1084 | 7838 | 13.8 | /mnt/stockage/packages/f36/engrampa/help/hi/hi.po/mnt/stockage/packages/f36/engrampa/po/hi.po | 
- | [gu]({{< ref "/f36/language/gu.md" >}}) | 1081 | 7838 | 13.8 | /mnt/stockage/packages/f36/engrampa/help/gu/gu.po/mnt/stockage/packages/f36/engrampa/po/gu.po | 
- | [kn]({{< ref "/f36/language/kn.md" >}}) | 1077 | 7922 | 13.6 | /mnt/stockage/packages/f36/engrampa/help/kn/kn.po/mnt/stockage/packages/f36/engrampa/po/kn.po | 
- | [as]({{< ref "/f36/language/as.md" >}}) | 1063 | 7922 | 13.4 | /mnt/stockage/packages/f36/engrampa/help/as/as.po/mnt/stockage/packages/f36/engrampa/po/as.po | 
- | [ml]({{< ref "/f36/language/ml.md" >}}) | 1063 | 7922 | 13.4 | /mnt/stockage/packages/f36/engrampa/help/ml/ml.po/mnt/stockage/packages/f36/engrampa/po/ml.po | 
- | [or]({{< ref "/f36/language/or.md" >}}) | 1063 | 7922 | 13.4 | /mnt/stockage/packages/f36/engrampa/help/or/or.po/mnt/stockage/packages/f36/engrampa/po/or.po | 
- | [te]({{< ref "/f36/language/te.md" >}}) | 1063 | 7922 | 13.4 | /mnt/stockage/packages/f36/engrampa/help/te/te.po/mnt/stockage/packages/f36/engrampa/po/te.po | 
- | [mk]({{< ref "/f36/language/mk.md" >}}) | 1041 | 7838 | 13.3 | /mnt/stockage/packages/f36/engrampa/help/mk/mk.po/mnt/stockage/packages/f36/engrampa/po/mk.po | 
- | [af]({{< ref "/f36/language/af.md" >}}) | 1026 | 7838 | 13.1 | /mnt/stockage/packages/f36/engrampa/help/af/af.po/mnt/stockage/packages/f36/engrampa/po/af.po | 
- | [ne]({{< ref "/f36/language/ne.md" >}}) | 939 | 7838 | 12.0 | /mnt/stockage/packages/f36/engrampa/help/ne/ne.po/mnt/stockage/packages/f36/engrampa/po/ne.po | 
- | [en_CA]({{< ref "/f36/language/en_CA.md" >}}) | 922 | 7838 | 11.8 | /mnt/stockage/packages/f36/engrampa/help/en_CA/en_CA.po/mnt/stockage/packages/f36/engrampa/po/en_CA.po | 
- | [dz]({{< ref "/f36/language/dz.md" >}}) | 929 | 7922 | 11.7 | /mnt/stockage/packages/f36/engrampa/help/dz/dz.po/mnt/stockage/packages/f36/engrampa/po/dz.po | 
- | [ka]({{< ref "/f36/language/ka.md" >}}) | 845 | 7922 | 10.7 | /mnt/stockage/packages/f36/engrampa/help/ka/ka.po/mnt/stockage/packages/f36/engrampa/po/ka.po | 
- | [fa]({{< ref "/f36/language/fa.md" >}}) | 817 | 7838 | 10.4 | /mnt/stockage/packages/f36/engrampa/help/fa/fa.po/mnt/stockage/packages/f36/engrampa/po/fa.po | 
- | [cy]({{< ref "/f36/language/cy.md" >}}) | 808 | 7838 | 10.3 | /mnt/stockage/packages/f36/engrampa/help/cy/cy.po/mnt/stockage/packages/f36/engrampa/po/cy.po | 
- | [mg]({{< ref "/f36/language/mg.md" >}}) | 779 | 7922 | 9.8 | /mnt/stockage/packages/f36/engrampa/help/mg/mg.po/mnt/stockage/packages/f36/engrampa/po/mg.po | 
- | [mai]({{< ref "/f36/language/mai.md" >}}) | 777 | 7922 | 9.8 | /mnt/stockage/packages/f36/engrampa/help/mai/mai.po/mnt/stockage/packages/f36/engrampa/po/mai.po | 
- | [bs]({{< ref "/f36/language/bs.md" >}}) | 743 | 7838 | 9.5 | /mnt/stockage/packages/f36/engrampa/help/bs/bs.po/mnt/stockage/packages/f36/engrampa/po/bs.po | 
- | [xh]({{< ref "/f36/language/xh.md" >}}) | 741 | 7838 | 9.5 | /mnt/stockage/packages/f36/engrampa/help/xh/xh.po/mnt/stockage/packages/f36/engrampa/po/xh.po | 
- | [ku]({{< ref "/f36/language/ku.md" >}}) | 738 | 7922 | 9.3 | /mnt/stockage/packages/f36/engrampa/help/ku/ku.po/mnt/stockage/packages/f36/engrampa/po/ku.po | 
- | [az]({{< ref "/f36/language/az.md" >}}) | 706 | 7838 | 9.0 | /mnt/stockage/packages/f36/engrampa/help/az/az.po/mnt/stockage/packages/f36/engrampa/po/az.po | 
- | [mn]({{< ref "/f36/language/mn.md" >}}) | 706 | 7838 | 9.0 | /mnt/stockage/packages/f36/engrampa/help/mn/mn.po/mnt/stockage/packages/f36/engrampa/po/mn.po | 
- | [is]({{< ref "/f36/language/is.md" >}}) | 694 | 7838 | 8.9 | /mnt/stockage/packages/f36/engrampa/help/is/is.po/mnt/stockage/packages/f36/engrampa/po/is.po | 
- | [es_CO]({{< ref "/f36/language/es_CO.md" >}}) | 164 | 2049 | 8.0 | /mnt/stockage/packages/f36/engrampa/po/es_CO.po | 
- | [kmr]({{< ref "/f36/language/kmr.md" >}}) | 152 | 2049 | 7.4 | /mnt/stockage/packages/f36/engrampa/po/ku_IQ.po | 
- | [ga]({{< ref "/f36/language/ga.md" >}}) | 579 | 7838 | 7.4 | /mnt/stockage/packages/f36/engrampa/help/ga/ga.po/mnt/stockage/packages/f36/engrampa/po/ga.po | 
- | [tk]({{< ref "/f36/language/tk.md" >}}) | 576 | 7922 | 7.3 | /mnt/stockage/packages/f36/engrampa/help/tk/tk.po/mnt/stockage/packages/f36/engrampa/po/tk.po | 
- | [si]({{< ref "/f36/language/si.md" >}}) | 488 | 7922 | 6.2 | /mnt/stockage/packages/f36/engrampa/help/si/si.po/mnt/stockage/packages/f36/engrampa/po/si.po | 
- | [es_MX]({{< ref "/f36/language/es_MX.md" >}}) | 87 | 2049 | 4.2 | /mnt/stockage/packages/f36/engrampa/po/es_MX.po | 
- | [en_US]({{< ref "/f36/language/en_US.md" >}}) | 80 | 2049 | 3.9 | /mnt/stockage/packages/f36/engrampa/po/en_US.po | 
- | [es_AR]({{< ref "/f36/language/es_AR.md" >}}) | 76 | 2049 | 3.7 | /mnt/stockage/packages/f36/engrampa/po/es_AR.po | 
- | [sc]({{< ref "/f36/language/sc.md" >}}) | 75 | 2049 | 3.7 | /mnt/stockage/packages/f36/engrampa/po/sc.po | 
- | [kab]({{< ref "/f36/language/kab.md" >}}) | 61 | 2049 | 3.0 | /mnt/stockage/packages/f36/engrampa/po/kab.po | 
- | [ig]({{< ref "/f36/language/ig.md" >}}) | 51 | 2049 | 2.5 | /mnt/stockage/packages/f36/engrampa/po/ig.po | 
- | [yo]({{< ref "/f36/language/yo.md" >}}) | 51 | 2049 | 2.5 | /mnt/stockage/packages/f36/engrampa/po/yo.po | 
- | [ha]({{< ref "/f36/language/ha.md" >}}) | 45 | 2049 | 2.2 | /mnt/stockage/packages/f36/engrampa/po/ha.po | 
- | [crh]({{< ref "/f36/language/crh.md" >}}) | 167 | 7922 | 2.1 | /mnt/stockage/packages/f36/engrampa/help/crh/crh.po/mnt/stockage/packages/f36/engrampa/po/crh.po | 
- | [frp]({{< ref "/f36/language/frp.md" >}}) | 43 | 2049 | 2.1 | /mnt/stockage/packages/f36/engrampa/po/frp.po | 
- | [mi]({{< ref "/f36/language/mi.md" >}}) | 35 | 2049 | 1.7 | /mnt/stockage/packages/f36/engrampa/po/mi.po | 
- | [ia]({{< ref "/f36/language/ia.md" >}}) | 30 | 2049 | 1.5 | /mnt/stockage/packages/f36/engrampa/po/ia.po | 
- | [gd]({{< ref "/f36/language/gd.md" >}}) | 29 | 2049 | 1.4 | /mnt/stockage/packages/f36/engrampa/po/gd.po | 
- | [nso]({{< ref "/f36/language/nso.md" >}}) | 104 | 7838 | 1.3 | /mnt/stockage/packages/f36/engrampa/help/nso/nso.po/mnt/stockage/packages/f36/engrampa/po/nso.po | 
- | [zu]({{< ref "/f36/language/zu.md" >}}) | 104 | 7838 | 1.3 | /mnt/stockage/packages/f36/engrampa/help/zu/zu.po/mnt/stockage/packages/f36/engrampa/po/zu.po | 
- | [wa]({{< ref "/f36/language/wa.md" >}}) | 99 | 7838 | 1.3 | /mnt/stockage/packages/f36/engrampa/help/wa/wa.po/mnt/stockage/packages/f36/engrampa/po/wa.po | 
- | [tt]({{< ref "/f36/language/tt.md" >}}) | 24 | 2049 | 1.2 | /mnt/stockage/packages/f36/engrampa/po/tt.po | 
- | [li]({{< ref "/f36/language/li.md" >}}) | 91 | 7922 | 1.1 | /mnt/stockage/packages/f36/engrampa/help/li/li.po/mnt/stockage/packages/f36/engrampa/po/li.po | 
- | [rw]({{< ref "/f36/language/rw.md" >}}) | 20 | 2049 | 1.0 | /mnt/stockage/packages/f36/engrampa/po/rw.po | 
- | [yi]({{< ref "/f36/language/yi.md" >}}) | 17 | 2049 | 0.8 | /mnt/stockage/packages/f36/engrampa/po/yi.po | 
- | [pms]({{< ref "/f36/language/pms.md" >}}) | 16 | 2049 | 0.8 | /mnt/stockage/packages/f36/engrampa/po/pms.po | 
- | [ks]({{< ref "/f36/language/ks.md" >}}) | 15 | 2049 | 0.7 | /mnt/stockage/packages/f36/engrampa/po/ks.po | 
- | [es_CL]({{< ref "/f36/language/es_CL.md" >}}) | 12 | 2049 | 0.6 | /mnt/stockage/packages/f36/engrampa/po/es_CL.po | 
- | [es_PR]({{< ref "/f36/language/es_PR.md" >}}) | 12 | 2049 | 0.6 | /mnt/stockage/packages/f36/engrampa/po/es_PR.po | 
- | [jv]({{< ref "/f36/language/jv.md" >}}) | 12 | 2049 | 0.6 | /mnt/stockage/packages/f36/engrampa/po/jv.po | 
- | [fr_CA]({{< ref "/f36/language/fr_CA.md" >}}) | 11 | 2049 | 0.5 | /mnt/stockage/packages/f36/engrampa/po/fr_CA.po | 
- | [es_VE]({{< ref "/f36/language/es_VE.md" >}}) | 10 | 2049 | 0.5 | /mnt/stockage/packages/f36/engrampa/po/es_VE.po | 
- | [es_CR]({{< ref "/f36/language/es_CR.md" >}}) | 9 | 2049 | 0.4 | /mnt/stockage/packages/f36/engrampa/po/es_CR.po | 
- | [es_DO]({{< ref "/f36/language/es_DO.md" >}}) | 9 | 2049 | 0.4 | /mnt/stockage/packages/f36/engrampa/po/es_DO.po | 
- | [es_EC]({{< ref "/f36/language/es_EC.md" >}}) | 9 | 2049 | 0.4 | /mnt/stockage/packages/f36/engrampa/po/es_EC.po | 
- | [es_NI]({{< ref "/f36/language/es_NI.md" >}}) | 9 | 2049 | 0.4 | /mnt/stockage/packages/f36/engrampa/po/es_NI.po | 
- | [es_PA]({{< ref "/f36/language/es_PA.md" >}}) | 9 | 2049 | 0.4 | /mnt/stockage/packages/f36/engrampa/po/es_PA.po | 
- | [es_PE]({{< ref "/f36/language/es_PE.md" >}}) | 9 | 2049 | 0.4 | /mnt/stockage/packages/f36/engrampa/po/es_PE.po | 
- | [es_SV]({{< ref "/f36/language/es_SV.md" >}}) | 9 | 2049 | 0.4 | /mnt/stockage/packages/f36/engrampa/po/es_SV.po | 
- | [es_UY]({{< ref "/f36/language/es_UY.md" >}}) | 9 | 2049 | 0.4 | /mnt/stockage/packages/f36/engrampa/po/es_UY.po | 
+ | [id](/f36/language/id) | 7838 | 7838 | 100.0 | /mnt/stockage/packages/f36/engrampa/help/id/id.po/mnt/stockage/packages/f36/engrampa/po/id.po | 
+ | [it](/f36/language/it) | 7838 | 7838 | 100.0 | /mnt/stockage/packages/f36/engrampa/help/it/it.po/mnt/stockage/packages/f36/engrampa/po/it.po | 
+ | [ja](/f36/language/ja) | 7838 | 7838 | 100.0 | /mnt/stockage/packages/f36/engrampa/help/ja/ja.po/mnt/stockage/packages/f36/engrampa/po/ja.po | 
+ | [sr](/f36/language/sr) | 7838 | 7838 | 100.0 | /mnt/stockage/packages/f36/engrampa/help/sr/sr.po/mnt/stockage/packages/f36/engrampa/po/sr.po | 
+ | [da](/f36/language/da) | 7768 | 7838 | 99.1 | /mnt/stockage/packages/f36/engrampa/help/da/da.po/mnt/stockage/packages/f36/engrampa/po/da.po | 
+ | [ms](/f36/language/ms) | 7768 | 7838 | 99.1 | /mnt/stockage/packages/f36/engrampa/help/ms/ms.po/mnt/stockage/packages/f36/engrampa/po/ms.po | 
+ | [uk](/f36/language/uk) | 7762 | 7838 | 99.0 | /mnt/stockage/packages/f36/engrampa/help/uk/uk.po/mnt/stockage/packages/f36/engrampa/po/uk.po | 
+ | [ru](/f36/language/ru) | 7725 | 7838 | 98.6 | /mnt/stockage/packages/f36/engrampa/help/ru/ru.po/mnt/stockage/packages/f36/engrampa/po/ru.po | 
+ | [ie](/f36/language/ie) | 1487 | 2049 | 72.6 | /mnt/stockage/packages/f36/engrampa/po/ie.po | 
+ | [ca](/f36/language/ca) | 4048 | 7838 | 51.6 | /mnt/stockage/packages/f36/engrampa/help/ca/ca.po/mnt/stockage/packages/f36/engrampa/po/ca.po | 
+ | [ps](/f36/language/ps) | 995 | 2049 | 48.6 | /mnt/stockage/packages/f36/engrampa/po/ps.po | 
+ | [fur](/f36/language/fur) | 909 | 2049 | 44.4 | /mnt/stockage/packages/f36/engrampa/po/fur.po | 
+ | [ur_PK](/f36/language/ur_PK) | 863 | 2049 | 42.1 | /mnt/stockage/packages/f36/engrampa/po/ur_PK.po | 
+ | [pl](/f36/language/pl) | 3029 | 7838 | 38.6 | /mnt/stockage/packages/f36/engrampa/help/pl/pl.po/mnt/stockage/packages/f36/engrampa/po/pl.po | 
+ | [fr](/f36/language/fr) | 2844 | 7838 | 36.3 | /mnt/stockage/packages/f36/engrampa/help/fr/fr.po/mnt/stockage/packages/f36/engrampa/po/fr.po | 
+ | [gl](/f36/language/gl) | 2721 | 7838 | 34.7 | /mnt/stockage/packages/f36/engrampa/help/gl/gl.po/mnt/stockage/packages/f36/engrampa/po/gl.po | 
+ | [oc](/f36/language/oc) | 2624 | 7838 | 33.5 | /mnt/stockage/packages/f36/engrampa/help/oc/oc.po/mnt/stockage/packages/f36/engrampa/po/oc.po | 
+ | [tr](/f36/language/tr) | 2620 | 7838 | 33.4 | /mnt/stockage/packages/f36/engrampa/help/tr/tr.po/mnt/stockage/packages/f36/engrampa/po/tr.po | 
+ | [en_GB](/f36/language/en_GB) | 2608 | 7838 | 33.3 | /mnt/stockage/packages/f36/engrampa/help/en_GB/en_GB.po/mnt/stockage/packages/f36/engrampa/po/en_GB.po | 
+ | [nl](/f36/language/nl) | 2563 | 7838 | 32.7 | /mnt/stockage/packages/f36/engrampa/help/nl/nl.po/mnt/stockage/packages/f36/engrampa/po/nl.po | 
+ | [pt](/f36/language/pt) | 2519 | 7838 | 32.1 | /mnt/stockage/packages/f36/engrampa/help/pt/pt.po/mnt/stockage/packages/f36/engrampa/po/pt.po | 
+ | [es](/f36/language/es) | 3162 | 9887 | 32.0 | /mnt/stockage/packages/f36/engrampa/help/es/es.po/mnt/stockage/packages/f36/engrampa/po/es.po/mnt/stockage/packages/f36/engrampa/po/es_ES.po | 
+ | [pt_BR](/f36/language/pt_BR) | 2465 | 7838 | 31.4 | /mnt/stockage/packages/f36/engrampa/help/pt_BR/pt_BR.po/mnt/stockage/packages/f36/engrampa/po/pt_BR.po | 
+ | [de](/f36/language/de) | 2404 | 7838 | 30.7 | /mnt/stockage/packages/f36/engrampa/help/de/de.po/mnt/stockage/packages/f36/engrampa/po/de.po | 
+ | [lt](/f36/language/lt) | 2377 | 7838 | 30.3 | /mnt/stockage/packages/f36/engrampa/help/lt/lt.po/mnt/stockage/packages/f36/engrampa/po/lt.po | 
+ | [cs](/f36/language/cs) | 2357 | 7838 | 30.1 | /mnt/stockage/packages/f36/engrampa/help/cs/cs.po/mnt/stockage/packages/f36/engrampa/po/cs.po | 
+ | [sv](/f36/language/sv) | 2336 | 7838 | 29.8 | /mnt/stockage/packages/f36/engrampa/help/sv/sv.po/mnt/stockage/packages/f36/engrampa/po/sv.po | 
+ | [sk](/f36/language/sk) | 2270 | 7838 | 29.0 | /mnt/stockage/packages/f36/engrampa/help/sk/sk.po/mnt/stockage/packages/f36/engrampa/po/sk.po | 
+ | [uz](/f36/language/uz) | 592 | 2049 | 28.9 | /mnt/stockage/packages/f36/engrampa/po/uz.po | 
+ | [ko](/f36/language/ko) | 2247 | 7838 | 28.7 | /mnt/stockage/packages/f36/engrampa/help/ko/ko.po/mnt/stockage/packages/f36/engrampa/po/ko.po | 
+ | [nb_NO](/f36/language/nb_NO) | 2243 | 7838 | 28.6 | /mnt/stockage/packages/f36/engrampa/help/nb/nb.po/mnt/stockage/packages/f36/engrampa/po/nb.po | 
+ | [zh_Hant](/f36/language/zh_Hant) | 2015 | 7838 | 25.7 | /mnt/stockage/packages/f36/engrampa/help/zh_TW/zh_TW.po/mnt/stockage/packages/f36/engrampa/po/zh_TW.po | 
+ | [hu](/f36/language/hu) | 2002 | 7838 | 25.5 | /mnt/stockage/packages/f36/engrampa/help/hu/hu.po/mnt/stockage/packages/f36/engrampa/po/hu.po | 
+ | [el](/f36/language/el) | 1981 | 7838 | 25.3 | /mnt/stockage/packages/f36/engrampa/help/el/el.po/mnt/stockage/packages/f36/engrampa/po/el.po | 
+ | [ca@valencia](/f36/language/ca@valencia) | 1930 | 7838 | 24.6 | /mnt/stockage/packages/f36/engrampa/help/ca@valencia/ca@valencia.po/mnt/stockage/packages/f36/engrampa/po/ca@valencia.po | 
+ | [eu](/f36/language/eu) | 1929 | 7838 | 24.6 | /mnt/stockage/packages/f36/engrampa/help/eu/eu.po/mnt/stockage/packages/f36/engrampa/po/eu.po | 
+ | [zh_Hans](/f36/language/zh_Hans) | 3768 | 15676 | 24.0 | /mnt/stockage/packages/f36/engrampa/help/cmn/cmn.po/mnt/stockage/packages/f36/engrampa/help/zh_CN/zh_CN.po/mnt/stockage/packages/f36/engrampa/po/zh_CN.po/mnt/stockage/packages/f36/engrampa/po/cmn.po | 
+ | [th](/f36/language/th) | 1749 | 7838 | 22.3 | /mnt/stockage/packages/f36/engrampa/help/th/th.po/mnt/stockage/packages/f36/engrampa/po/th.po | 
+ | [sl](/f36/language/sl) | 1676 | 7838 | 21.4 | /mnt/stockage/packages/f36/engrampa/help/sl/sl.po/mnt/stockage/packages/f36/engrampa/po/sl.po | 
+ | [bg](/f36/language/bg) | 1592 | 7838 | 20.3 | /mnt/stockage/packages/f36/engrampa/help/bg/bg.po/mnt/stockage/packages/f36/engrampa/po/bg.po | 
+ | [fy](/f36/language/fy) | 415 | 2049 | 20.3 | /mnt/stockage/packages/f36/engrampa/po/fy.po | 
+ | [ro](/f36/language/ro) | 1578 | 7838 | 20.1 | /mnt/stockage/packages/f36/engrampa/help/ro/ro.po/mnt/stockage/packages/f36/engrampa/po/ro.po | 
+ | [fi](/f36/language/fi) | 1576 | 7838 | 20.1 | /mnt/stockage/packages/f36/engrampa/help/fi/fi.po/mnt/stockage/packages/f36/engrampa/po/fi.po | 
+ | [hr](/f36/language/hr) | 1565 | 7838 | 20.0 | /mnt/stockage/packages/f36/engrampa/help/hr/hr.po/mnt/stockage/packages/f36/engrampa/po/hr.po | 
+ | [en_AU](/f36/language/en_AU) | 1554 | 7838 | 19.8 | /mnt/stockage/packages/f36/engrampa/help/en_AU/en_AU.po/mnt/stockage/packages/f36/engrampa/po/en_AU.po | 
+ | [pa](/f36/language/pa) | 1544 | 7838 | 19.7 | /mnt/stockage/packages/f36/engrampa/help/pa/pa.po/mnt/stockage/packages/f36/engrampa/po/pa.po | 
+ | [hy](/f36/language/hy) | 1542 | 7838 | 19.7 | /mnt/stockage/packages/f36/engrampa/help/hy/hy.po/mnt/stockage/packages/f36/engrampa/po/hy.po | 
+ | [br](/f36/language/br) | 1551 | 7922 | 19.6 | /mnt/stockage/packages/f36/engrampa/help/br/br.po/mnt/stockage/packages/f36/engrampa/po/br.po | 
+ | [et](/f36/language/et) | 1499 | 7838 | 19.1 | /mnt/stockage/packages/f36/engrampa/help/et/et.po/mnt/stockage/packages/f36/engrampa/po/et.po | 
+ | [ar](/f36/language/ar) | 1477 | 7838 | 18.8 | /mnt/stockage/packages/f36/engrampa/help/ar/ar.po/mnt/stockage/packages/f36/engrampa/po/ar.po | 
+ | [nds](/f36/language/nds) | 386 | 2049 | 18.8 | /mnt/stockage/packages/f36/engrampa/po/nds.po | 
+ | [am](/f36/language/am) | 1446 | 7838 | 18.4 | /mnt/stockage/packages/f36/engrampa/help/am/am.po/mnt/stockage/packages/f36/engrampa/po/am.po | 
+ | [be](/f36/language/be) | 1425 | 7838 | 18.2 | /mnt/stockage/packages/f36/engrampa/help/be/be.po/mnt/stockage/packages/f36/engrampa/po/be.po | 
+ | [ast](/f36/language/ast) | 1380 | 7922 | 17.4 | /mnt/stockage/packages/f36/engrampa/help/ast/ast.po/mnt/stockage/packages/f36/engrampa/po/ast.po | 
+ | [kk](/f36/language/kk) | 1365 | 7838 | 17.4 | /mnt/stockage/packages/f36/engrampa/help/kk/kk.po/mnt/stockage/packages/f36/engrampa/po/kk.po | 
+ | [eo](/f36/language/eo) | 1299 | 7838 | 16.6 | /mnt/stockage/packages/f36/engrampa/help/eo/eo.po/mnt/stockage/packages/f36/engrampa/po/eo.po | 
+ | [he](/f36/language/he) | 1292 | 7838 | 16.5 | /mnt/stockage/packages/f36/engrampa/help/he/he.po/mnt/stockage/packages/f36/engrampa/po/he.po | 
+ | [lv](/f36/language/lv) | 1208 | 7838 | 15.4 | /mnt/stockage/packages/f36/engrampa/help/lv/lv.po/mnt/stockage/packages/f36/engrampa/po/lv.po | 
+ | [vi](/f36/language/vi) | 1206 | 7838 | 15.4 | /mnt/stockage/packages/f36/engrampa/help/vi/vi.po/mnt/stockage/packages/f36/engrampa/po/vi.po | 
+ | [sr_Latn](/f36/language/sr_Latn) | 1187 | 7838 | 15.1 | /mnt/stockage/packages/f36/engrampa/help/sr@latin/sr@latin.po/mnt/stockage/packages/f36/engrampa/po/sr@latin.po | 
+ | [ta](/f36/language/ta) | 1187 | 7838 | 15.1 | /mnt/stockage/packages/f36/engrampa/help/ta/ta.po/mnt/stockage/packages/f36/engrampa/po/ta.po | 
+ | [nn](/f36/language/nn) | 1183 | 7838 | 15.1 | /mnt/stockage/packages/f36/engrampa/help/nn/nn.po/mnt/stockage/packages/f36/engrampa/po/nn.po | 
+ | [ky](/f36/language/ky) | 1175 | 7838 | 15.0 | /mnt/stockage/packages/f36/engrampa/help/ky/ky.po/mnt/stockage/packages/f36/engrampa/po/ky.po | 
+ | [bn](/f36/language/bn) | 1172 | 7838 | 15.0 | /mnt/stockage/packages/f36/engrampa/help/bn/bn.po/mnt/stockage/packages/f36/engrampa/po/bn.po | 
+ | [mr](/f36/language/mr) | 1182 | 7922 | 14.9 | /mnt/stockage/packages/f36/engrampa/help/mr/mr.po/mnt/stockage/packages/f36/engrampa/po/mr.po | 
+ | [zh_Hant_HK](/f36/language/zh_Hant_HK) | 1179 | 7922 | 14.9 | /mnt/stockage/packages/f36/engrampa/help/zh_HK/zh_HK.po/mnt/stockage/packages/f36/engrampa/po/zh_HK.po | 
+ | [ur](/f36/language/ur) | 1176 | 7922 | 14.8 | /mnt/stockage/packages/f36/engrampa/help/ur/ur.po/mnt/stockage/packages/f36/engrampa/po/ur.po | 
+ | [bn_IN](/f36/language/bn_IN) | 1164 | 7922 | 14.7 | /mnt/stockage/packages/f36/engrampa/help/bn_IN/bn_IN.po/mnt/stockage/packages/f36/engrampa/po/bn_IN.po | 
+ | [ug](/f36/language/ug) | 1161 | 7922 | 14.7 | /mnt/stockage/packages/f36/engrampa/help/ug/ug.po/mnt/stockage/packages/f36/engrampa/po/ug.po | 
+ | [sq](/f36/language/sq) | 1116 | 7838 | 14.2 | /mnt/stockage/packages/f36/engrampa/help/sq/sq.po/mnt/stockage/packages/f36/engrampa/po/sq.po | 
+ | [hi](/f36/language/hi) | 1084 | 7838 | 13.8 | /mnt/stockage/packages/f36/engrampa/help/hi/hi.po/mnt/stockage/packages/f36/engrampa/po/hi.po | 
+ | [gu](/f36/language/gu) | 1081 | 7838 | 13.8 | /mnt/stockage/packages/f36/engrampa/help/gu/gu.po/mnt/stockage/packages/f36/engrampa/po/gu.po | 
+ | [kn](/f36/language/kn) | 1077 | 7922 | 13.6 | /mnt/stockage/packages/f36/engrampa/help/kn/kn.po/mnt/stockage/packages/f36/engrampa/po/kn.po | 
+ | [as](/f36/language/as) | 1063 | 7922 | 13.4 | /mnt/stockage/packages/f36/engrampa/help/as/as.po/mnt/stockage/packages/f36/engrampa/po/as.po | 
+ | [ml](/f36/language/ml) | 1063 | 7922 | 13.4 | /mnt/stockage/packages/f36/engrampa/help/ml/ml.po/mnt/stockage/packages/f36/engrampa/po/ml.po | 
+ | [or](/f36/language/or) | 1063 | 7922 | 13.4 | /mnt/stockage/packages/f36/engrampa/help/or/or.po/mnt/stockage/packages/f36/engrampa/po/or.po | 
+ | [te](/f36/language/te) | 1063 | 7922 | 13.4 | /mnt/stockage/packages/f36/engrampa/help/te/te.po/mnt/stockage/packages/f36/engrampa/po/te.po | 
+ | [mk](/f36/language/mk) | 1041 | 7838 | 13.3 | /mnt/stockage/packages/f36/engrampa/help/mk/mk.po/mnt/stockage/packages/f36/engrampa/po/mk.po | 
+ | [af](/f36/language/af) | 1026 | 7838 | 13.1 | /mnt/stockage/packages/f36/engrampa/help/af/af.po/mnt/stockage/packages/f36/engrampa/po/af.po | 
+ | [ne](/f36/language/ne) | 939 | 7838 | 12.0 | /mnt/stockage/packages/f36/engrampa/help/ne/ne.po/mnt/stockage/packages/f36/engrampa/po/ne.po | 
+ | [en_CA](/f36/language/en_CA) | 922 | 7838 | 11.8 | /mnt/stockage/packages/f36/engrampa/help/en_CA/en_CA.po/mnt/stockage/packages/f36/engrampa/po/en_CA.po | 
+ | [dz](/f36/language/dz) | 929 | 7922 | 11.7 | /mnt/stockage/packages/f36/engrampa/help/dz/dz.po/mnt/stockage/packages/f36/engrampa/po/dz.po | 
+ | [ka](/f36/language/ka) | 845 | 7922 | 10.7 | /mnt/stockage/packages/f36/engrampa/help/ka/ka.po/mnt/stockage/packages/f36/engrampa/po/ka.po | 
+ | [fa](/f36/language/fa) | 817 | 7838 | 10.4 | /mnt/stockage/packages/f36/engrampa/help/fa/fa.po/mnt/stockage/packages/f36/engrampa/po/fa.po | 
+ | [cy](/f36/language/cy) | 808 | 7838 | 10.3 | /mnt/stockage/packages/f36/engrampa/help/cy/cy.po/mnt/stockage/packages/f36/engrampa/po/cy.po | 
+ | [mg](/f36/language/mg) | 779 | 7922 | 9.8 | /mnt/stockage/packages/f36/engrampa/help/mg/mg.po/mnt/stockage/packages/f36/engrampa/po/mg.po | 
+ | [mai](/f36/language/mai) | 777 | 7922 | 9.8 | /mnt/stockage/packages/f36/engrampa/help/mai/mai.po/mnt/stockage/packages/f36/engrampa/po/mai.po | 
+ | [bs](/f36/language/bs) | 743 | 7838 | 9.5 | /mnt/stockage/packages/f36/engrampa/help/bs/bs.po/mnt/stockage/packages/f36/engrampa/po/bs.po | 
+ | [xh](/f36/language/xh) | 741 | 7838 | 9.5 | /mnt/stockage/packages/f36/engrampa/help/xh/xh.po/mnt/stockage/packages/f36/engrampa/po/xh.po | 
+ | [ku](/f36/language/ku) | 738 | 7922 | 9.3 | /mnt/stockage/packages/f36/engrampa/help/ku/ku.po/mnt/stockage/packages/f36/engrampa/po/ku.po | 
+ | [az](/f36/language/az) | 706 | 7838 | 9.0 | /mnt/stockage/packages/f36/engrampa/help/az/az.po/mnt/stockage/packages/f36/engrampa/po/az.po | 
+ | [mn](/f36/language/mn) | 706 | 7838 | 9.0 | /mnt/stockage/packages/f36/engrampa/help/mn/mn.po/mnt/stockage/packages/f36/engrampa/po/mn.po | 
+ | [is](/f36/language/is) | 694 | 7838 | 8.9 | /mnt/stockage/packages/f36/engrampa/help/is/is.po/mnt/stockage/packages/f36/engrampa/po/is.po | 
+ | [es_CO](/f36/language/es_CO) | 164 | 2049 | 8.0 | /mnt/stockage/packages/f36/engrampa/po/es_CO.po | 
+ | [kmr](/f36/language/kmr) | 152 | 2049 | 7.4 | /mnt/stockage/packages/f36/engrampa/po/ku_IQ.po | 
+ | [ga](/f36/language/ga) | 579 | 7838 | 7.4 | /mnt/stockage/packages/f36/engrampa/help/ga/ga.po/mnt/stockage/packages/f36/engrampa/po/ga.po | 
+ | [tk](/f36/language/tk) | 576 | 7922 | 7.3 | /mnt/stockage/packages/f36/engrampa/help/tk/tk.po/mnt/stockage/packages/f36/engrampa/po/tk.po | 
+ | [si](/f36/language/si) | 488 | 7922 | 6.2 | /mnt/stockage/packages/f36/engrampa/help/si/si.po/mnt/stockage/packages/f36/engrampa/po/si.po | 
+ | [es_MX](/f36/language/es_MX) | 87 | 2049 | 4.2 | /mnt/stockage/packages/f36/engrampa/po/es_MX.po | 
+ | [en_US](/f36/language/en_US) | 80 | 2049 | 3.9 | /mnt/stockage/packages/f36/engrampa/po/en_US.po | 
+ | [es_AR](/f36/language/es_AR) | 76 | 2049 | 3.7 | /mnt/stockage/packages/f36/engrampa/po/es_AR.po | 
+ | [sc](/f36/language/sc) | 75 | 2049 | 3.7 | /mnt/stockage/packages/f36/engrampa/po/sc.po | 
+ | [kab](/f36/language/kab) | 61 | 2049 | 3.0 | /mnt/stockage/packages/f36/engrampa/po/kab.po | 
+ | [ig](/f36/language/ig) | 51 | 2049 | 2.5 | /mnt/stockage/packages/f36/engrampa/po/ig.po | 
+ | [yo](/f36/language/yo) | 51 | 2049 | 2.5 | /mnt/stockage/packages/f36/engrampa/po/yo.po | 
+ | [ha](/f36/language/ha) | 45 | 2049 | 2.2 | /mnt/stockage/packages/f36/engrampa/po/ha.po | 
+ | [crh](/f36/language/crh) | 167 | 7922 | 2.1 | /mnt/stockage/packages/f36/engrampa/help/crh/crh.po/mnt/stockage/packages/f36/engrampa/po/crh.po | 
+ | [frp](/f36/language/frp) | 43 | 2049 | 2.1 | /mnt/stockage/packages/f36/engrampa/po/frp.po | 
+ | [mi](/f36/language/mi) | 35 | 2049 | 1.7 | /mnt/stockage/packages/f36/engrampa/po/mi.po | 
+ | [ia](/f36/language/ia) | 30 | 2049 | 1.5 | /mnt/stockage/packages/f36/engrampa/po/ia.po | 
+ | [gd](/f36/language/gd) | 29 | 2049 | 1.4 | /mnt/stockage/packages/f36/engrampa/po/gd.po | 
+ | [nso](/f36/language/nso) | 104 | 7838 | 1.3 | /mnt/stockage/packages/f36/engrampa/help/nso/nso.po/mnt/stockage/packages/f36/engrampa/po/nso.po | 
+ | [zu](/f36/language/zu) | 104 | 7838 | 1.3 | /mnt/stockage/packages/f36/engrampa/help/zu/zu.po/mnt/stockage/packages/f36/engrampa/po/zu.po | 
+ | [wa](/f36/language/wa) | 99 | 7838 | 1.3 | /mnt/stockage/packages/f36/engrampa/help/wa/wa.po/mnt/stockage/packages/f36/engrampa/po/wa.po | 
+ | [tt](/f36/language/tt) | 24 | 2049 | 1.2 | /mnt/stockage/packages/f36/engrampa/po/tt.po | 
+ | [li](/f36/language/li) | 91 | 7922 | 1.1 | /mnt/stockage/packages/f36/engrampa/help/li/li.po/mnt/stockage/packages/f36/engrampa/po/li.po | 
+ | [rw](/f36/language/rw) | 20 | 2049 | 1.0 | /mnt/stockage/packages/f36/engrampa/po/rw.po | 
+ | [yi](/f36/language/yi) | 17 | 2049 | 0.8 | /mnt/stockage/packages/f36/engrampa/po/yi.po | 
+ | [pms](/f36/language/pms) | 16 | 2049 | 0.8 | /mnt/stockage/packages/f36/engrampa/po/pms.po | 
+ | [ks](/f36/language/ks) | 15 | 2049 | 0.7 | /mnt/stockage/packages/f36/engrampa/po/ks.po | 
+ | [es_CL](/f36/language/es_CL) | 12 | 2049 | 0.6 | /mnt/stockage/packages/f36/engrampa/po/es_CL.po | 
+ | [es_PR](/f36/language/es_PR) | 12 | 2049 | 0.6 | /mnt/stockage/packages/f36/engrampa/po/es_PR.po | 
+ | [jv](/f36/language/jv) | 12 | 2049 | 0.6 | /mnt/stockage/packages/f36/engrampa/po/jv.po | 
+ | [fr_CA](/f36/language/fr_CA) | 11 | 2049 | 0.5 | /mnt/stockage/packages/f36/engrampa/po/fr_CA.po | 
+ | [es_VE](/f36/language/es_VE) | 10 | 2049 | 0.5 | /mnt/stockage/packages/f36/engrampa/po/es_VE.po | 
+ | [es_CR](/f36/language/es_CR) | 9 | 2049 | 0.4 | /mnt/stockage/packages/f36/engrampa/po/es_CR.po | 
+ | [es_DO](/f36/language/es_DO) | 9 | 2049 | 0.4 | /mnt/stockage/packages/f36/engrampa/po/es_DO.po | 
+ | [es_EC](/f36/language/es_EC) | 9 | 2049 | 0.4 | /mnt/stockage/packages/f36/engrampa/po/es_EC.po | 
+ | [es_NI](/f36/language/es_NI) | 9 | 2049 | 0.4 | /mnt/stockage/packages/f36/engrampa/po/es_NI.po | 
+ | [es_PA](/f36/language/es_PA) | 9 | 2049 | 0.4 | /mnt/stockage/packages/f36/engrampa/po/es_PA.po | 
+ | [es_PE](/f36/language/es_PE) | 9 | 2049 | 0.4 | /mnt/stockage/packages/f36/engrampa/po/es_PE.po | 
+ | [es_SV](/f36/language/es_SV) | 9 | 2049 | 0.4 | /mnt/stockage/packages/f36/engrampa/po/es_SV.po | 
+ | [es_UY](/f36/language/es_UY) | 9 | 2049 | 0.4 | /mnt/stockage/packages/f36/engrampa/po/es_UY.po | 
 {.sortable}
 
 

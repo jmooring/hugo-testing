@@ -18,54 +18,54 @@ The package grilo (version 0.3.7):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [as]({{< ref "/f29/language/as.md" >}}) | 187 | 187 | 100.0 | /mnt/stockage/packages/f29/grilo/po/as.po | 
- | [bg]({{< ref "/f29/language/bg.md" >}}) | 194 | 194 | 100.0 | /mnt/stockage/packages/f29/grilo/po/bg.po | 
- | [bs]({{< ref "/f29/language/bs.md" >}}) | 187 | 187 | 100.0 | /mnt/stockage/packages/f29/grilo/po/bs.po | 
- | [ca]({{< ref "/f29/language/ca.md" >}}) | 191 | 191 | 100.0 | /mnt/stockage/packages/f29/grilo/po/ca.po | 
- | [ca@valencia]({{< ref "/f29/language/ca@valencia.md" >}}) | 191 | 191 | 100.0 | /mnt/stockage/packages/f29/grilo/po/ca@valencia.po | 
- | [cs]({{< ref "/f29/language/cs.md" >}}) | 191 | 191 | 100.0 | /mnt/stockage/packages/f29/grilo/po/cs.po | 
- | [da]({{< ref "/f29/language/da.md" >}}) | 191 | 191 | 100.0 | /mnt/stockage/packages/f29/grilo/po/da.po | 
- | [de]({{< ref "/f29/language/de.md" >}}) | 191 | 191 | 100.0 | /mnt/stockage/packages/f29/grilo/po/de.po | 
- | [el]({{< ref "/f29/language/el.md" >}}) | 194 | 194 | 100.0 | /mnt/stockage/packages/f29/grilo/po/el.po | 
- | [en_GB]({{< ref "/f29/language/en_GB.md" >}}) | 194 | 194 | 100.0 | /mnt/stockage/packages/f29/grilo/po/en_GB.po | 
- | [eo]({{< ref "/f29/language/eo.md" >}}) | 191 | 191 | 100.0 | /mnt/stockage/packages/f29/grilo/po/eo.po | 
- | [es]({{< ref "/f29/language/es.md" >}}) | 191 | 191 | 100.0 | /mnt/stockage/packages/f29/grilo/po/es.po | 
- | [eu]({{< ref "/f29/language/eu.md" >}}) | 194 | 194 | 100.0 | /mnt/stockage/packages/f29/grilo/po/eu.po | 
- | [fr]({{< ref "/f29/language/fr.md" >}}) | 191 | 191 | 100.0 | /mnt/stockage/packages/f29/grilo/po/fr.po | 
- | [fur]({{< ref "/f29/language/fur.md" >}}) | 191 | 191 | 100.0 | /mnt/stockage/packages/f29/grilo/po/fur.po | 
- | [gl]({{< ref "/f29/language/gl.md" >}}) | 191 | 191 | 100.0 | /mnt/stockage/packages/f29/grilo/po/gl.po | 
- | [he]({{< ref "/f29/language/he.md" >}}) | 194 | 194 | 100.0 | /mnt/stockage/packages/f29/grilo/po/he.po | 
- | [hr]({{< ref "/f29/language/hr.md" >}}) | 191 | 191 | 100.0 | /mnt/stockage/packages/f29/grilo/po/hr.po | 
- | [hu]({{< ref "/f29/language/hu.md" >}}) | 191 | 191 | 100.0 | /mnt/stockage/packages/f29/grilo/po/hu.po | 
- | [id]({{< ref "/f29/language/id.md" >}}) | 191 | 191 | 100.0 | /mnt/stockage/packages/f29/grilo/po/id.po | 
- | [it]({{< ref "/f29/language/it.md" >}}) | 191 | 191 | 100.0 | /mnt/stockage/packages/f29/grilo/po/it.po | 
- | [ja]({{< ref "/f29/language/ja.md" >}}) | 184 | 184 | 100.0 | /mnt/stockage/packages/f29/grilo/po/ja.po | 
- | [ko]({{< ref "/f29/language/ko.md" >}}) | 191 | 191 | 100.0 | /mnt/stockage/packages/f29/grilo/po/ko.po | 
- | [lt]({{< ref "/f29/language/lt.md" >}}) | 191 | 191 | 100.0 | /mnt/stockage/packages/f29/grilo/po/lt.po | 
- | [lv]({{< ref "/f29/language/lv.md" >}}) | 191 | 191 | 100.0 | /mnt/stockage/packages/f29/grilo/po/lv.po | 
- | [ml]({{< ref "/f29/language/ml.md" >}}) | 191 | 191 | 100.0 | /mnt/stockage/packages/f29/grilo/po/ml.po | 
- | [nb_NO]({{< ref "/f29/language/nb_NO.md" >}}) | 194 | 194 | 100.0 | /mnt/stockage/packages/f29/grilo/po/nb.po | 
- | [nl]({{< ref "/f29/language/nl.md" >}}) | 194 | 194 | 100.0 | /mnt/stockage/packages/f29/grilo/po/nl.po | 
- | [oc]({{< ref "/f29/language/oc.md" >}}) | 191 | 191 | 100.0 | /mnt/stockage/packages/f29/grilo/po/oc.po | 
- | [pa]({{< ref "/f29/language/pa.md" >}}) | 187 | 187 | 100.0 | /mnt/stockage/packages/f29/grilo/po/pa.po | 
- | [pl]({{< ref "/f29/language/pl.md" >}}) | 191 | 191 | 100.0 | /mnt/stockage/packages/f29/grilo/po/pl.po | 
- | [pt]({{< ref "/f29/language/pt.md" >}}) | 194 | 194 | 100.0 | /mnt/stockage/packages/f29/grilo/po/pt.po | 
- | [pt_BR]({{< ref "/f29/language/pt_BR.md" >}}) | 191 | 191 | 100.0 | /mnt/stockage/packages/f29/grilo/po/pt_BR.po | 
- | [ro]({{< ref "/f29/language/ro.md" >}}) | 191 | 191 | 100.0 | /mnt/stockage/packages/f29/grilo/po/ro.po | 
- | [ru]({{< ref "/f29/language/ru.md" >}}) | 194 | 194 | 100.0 | /mnt/stockage/packages/f29/grilo/po/ru.po | 
- | [sk]({{< ref "/f29/language/sk.md" >}}) | 191 | 191 | 100.0 | /mnt/stockage/packages/f29/grilo/po/sk.po | 
- | [sl]({{< ref "/f29/language/sl.md" >}}) | 191 | 191 | 100.0 | /mnt/stockage/packages/f29/grilo/po/sl.po | 
- | [sr]({{< ref "/f29/language/sr.md" >}}) | 191 | 191 | 100.0 | /mnt/stockage/packages/f29/grilo/po/sr.po | 
- | [sr_Latn]({{< ref "/f29/language/sr_Latn.md" >}}) | 194 | 194 | 100.0 | /mnt/stockage/packages/f29/grilo/po/sr@latin.po | 
- | [sv]({{< ref "/f29/language/sv.md" >}}) | 191 | 191 | 100.0 | /mnt/stockage/packages/f29/grilo/po/sv.po | 
- | [tg]({{< ref "/f29/language/tg.md" >}}) | 187 | 187 | 100.0 | /mnt/stockage/packages/f29/grilo/po/tg.po | 
- | [tr]({{< ref "/f29/language/tr.md" >}}) | 191 | 191 | 100.0 | /mnt/stockage/packages/f29/grilo/po/tr.po | 
- | [uk]({{< ref "/f29/language/uk.md" >}}) | 187 | 187 | 100.0 | /mnt/stockage/packages/f29/grilo/po/uk.po | 
- | [zh_Hans]({{< ref "/f29/language/zh_Hans.md" >}}) | 191 | 191 | 100.0 | /mnt/stockage/packages/f29/grilo/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f29/language/zh_Hant.md" >}}) | 191 | 191 | 100.0 | /mnt/stockage/packages/f29/grilo/po/zh_TW.po | 
- | [zh_Hant_HK]({{< ref "/f29/language/zh_Hant_HK.md" >}}) | 187 | 187 | 100.0 | /mnt/stockage/packages/f29/grilo/po/zh_HK.po | 
- | [ne]({{< ref "/f29/language/ne.md" >}}) | 96 | 191 | 50.3 | /mnt/stockage/packages/f29/grilo/po/ne.po | 
- | [fi]({{< ref "/f29/language/fi.md" >}}) | 85 | 191 | 44.5 | /mnt/stockage/packages/f29/grilo/po/fi.po | 
+ | [as](/f29/language/as) | 187 | 187 | 100.0 | /mnt/stockage/packages/f29/grilo/po/as.po | 
+ | [bg](/f29/language/bg) | 194 | 194 | 100.0 | /mnt/stockage/packages/f29/grilo/po/bg.po | 
+ | [bs](/f29/language/bs) | 187 | 187 | 100.0 | /mnt/stockage/packages/f29/grilo/po/bs.po | 
+ | [ca](/f29/language/ca) | 191 | 191 | 100.0 | /mnt/stockage/packages/f29/grilo/po/ca.po | 
+ | [ca@valencia](/f29/language/ca@valencia) | 191 | 191 | 100.0 | /mnt/stockage/packages/f29/grilo/po/ca@valencia.po | 
+ | [cs](/f29/language/cs) | 191 | 191 | 100.0 | /mnt/stockage/packages/f29/grilo/po/cs.po | 
+ | [da](/f29/language/da) | 191 | 191 | 100.0 | /mnt/stockage/packages/f29/grilo/po/da.po | 
+ | [de](/f29/language/de) | 191 | 191 | 100.0 | /mnt/stockage/packages/f29/grilo/po/de.po | 
+ | [el](/f29/language/el) | 194 | 194 | 100.0 | /mnt/stockage/packages/f29/grilo/po/el.po | 
+ | [en_GB](/f29/language/en_GB) | 194 | 194 | 100.0 | /mnt/stockage/packages/f29/grilo/po/en_GB.po | 
+ | [eo](/f29/language/eo) | 191 | 191 | 100.0 | /mnt/stockage/packages/f29/grilo/po/eo.po | 
+ | [es](/f29/language/es) | 191 | 191 | 100.0 | /mnt/stockage/packages/f29/grilo/po/es.po | 
+ | [eu](/f29/language/eu) | 194 | 194 | 100.0 | /mnt/stockage/packages/f29/grilo/po/eu.po | 
+ | [fr](/f29/language/fr) | 191 | 191 | 100.0 | /mnt/stockage/packages/f29/grilo/po/fr.po | 
+ | [fur](/f29/language/fur) | 191 | 191 | 100.0 | /mnt/stockage/packages/f29/grilo/po/fur.po | 
+ | [gl](/f29/language/gl) | 191 | 191 | 100.0 | /mnt/stockage/packages/f29/grilo/po/gl.po | 
+ | [he](/f29/language/he) | 194 | 194 | 100.0 | /mnt/stockage/packages/f29/grilo/po/he.po | 
+ | [hr](/f29/language/hr) | 191 | 191 | 100.0 | /mnt/stockage/packages/f29/grilo/po/hr.po | 
+ | [hu](/f29/language/hu) | 191 | 191 | 100.0 | /mnt/stockage/packages/f29/grilo/po/hu.po | 
+ | [id](/f29/language/id) | 191 | 191 | 100.0 | /mnt/stockage/packages/f29/grilo/po/id.po | 
+ | [it](/f29/language/it) | 191 | 191 | 100.0 | /mnt/stockage/packages/f29/grilo/po/it.po | 
+ | [ja](/f29/language/ja) | 184 | 184 | 100.0 | /mnt/stockage/packages/f29/grilo/po/ja.po | 
+ | [ko](/f29/language/ko) | 191 | 191 | 100.0 | /mnt/stockage/packages/f29/grilo/po/ko.po | 
+ | [lt](/f29/language/lt) | 191 | 191 | 100.0 | /mnt/stockage/packages/f29/grilo/po/lt.po | 
+ | [lv](/f29/language/lv) | 191 | 191 | 100.0 | /mnt/stockage/packages/f29/grilo/po/lv.po | 
+ | [ml](/f29/language/ml) | 191 | 191 | 100.0 | /mnt/stockage/packages/f29/grilo/po/ml.po | 
+ | [nb_NO](/f29/language/nb_NO) | 194 | 194 | 100.0 | /mnt/stockage/packages/f29/grilo/po/nb.po | 
+ | [nl](/f29/language/nl) | 194 | 194 | 100.0 | /mnt/stockage/packages/f29/grilo/po/nl.po | 
+ | [oc](/f29/language/oc) | 191 | 191 | 100.0 | /mnt/stockage/packages/f29/grilo/po/oc.po | 
+ | [pa](/f29/language/pa) | 187 | 187 | 100.0 | /mnt/stockage/packages/f29/grilo/po/pa.po | 
+ | [pl](/f29/language/pl) | 191 | 191 | 100.0 | /mnt/stockage/packages/f29/grilo/po/pl.po | 
+ | [pt](/f29/language/pt) | 194 | 194 | 100.0 | /mnt/stockage/packages/f29/grilo/po/pt.po | 
+ | [pt_BR](/f29/language/pt_BR) | 191 | 191 | 100.0 | /mnt/stockage/packages/f29/grilo/po/pt_BR.po | 
+ | [ro](/f29/language/ro) | 191 | 191 | 100.0 | /mnt/stockage/packages/f29/grilo/po/ro.po | 
+ | [ru](/f29/language/ru) | 194 | 194 | 100.0 | /mnt/stockage/packages/f29/grilo/po/ru.po | 
+ | [sk](/f29/language/sk) | 191 | 191 | 100.0 | /mnt/stockage/packages/f29/grilo/po/sk.po | 
+ | [sl](/f29/language/sl) | 191 | 191 | 100.0 | /mnt/stockage/packages/f29/grilo/po/sl.po | 
+ | [sr](/f29/language/sr) | 191 | 191 | 100.0 | /mnt/stockage/packages/f29/grilo/po/sr.po | 
+ | [sr_Latn](/f29/language/sr_Latn) | 194 | 194 | 100.0 | /mnt/stockage/packages/f29/grilo/po/sr@latin.po | 
+ | [sv](/f29/language/sv) | 191 | 191 | 100.0 | /mnt/stockage/packages/f29/grilo/po/sv.po | 
+ | [tg](/f29/language/tg) | 187 | 187 | 100.0 | /mnt/stockage/packages/f29/grilo/po/tg.po | 
+ | [tr](/f29/language/tr) | 191 | 191 | 100.0 | /mnt/stockage/packages/f29/grilo/po/tr.po | 
+ | [uk](/f29/language/uk) | 187 | 187 | 100.0 | /mnt/stockage/packages/f29/grilo/po/uk.po | 
+ | [zh_Hans](/f29/language/zh_Hans) | 191 | 191 | 100.0 | /mnt/stockage/packages/f29/grilo/po/zh_CN.po | 
+ | [zh_Hant](/f29/language/zh_Hant) | 191 | 191 | 100.0 | /mnt/stockage/packages/f29/grilo/po/zh_TW.po | 
+ | [zh_Hant_HK](/f29/language/zh_Hant_HK) | 187 | 187 | 100.0 | /mnt/stockage/packages/f29/grilo/po/zh_HK.po | 
+ | [ne](/f29/language/ne) | 96 | 191 | 50.3 | /mnt/stockage/packages/f29/grilo/po/ne.po | 
+ | [fi](/f29/language/fi) | 85 | 191 | 44.5 | /mnt/stockage/packages/f29/grilo/po/fi.po | 
 {.sortable}
 
 

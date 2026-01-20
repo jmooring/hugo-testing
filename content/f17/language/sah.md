@@ -38,7 +38,7 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [stellarium]({{< ref "/f17/package/stellarium.md" >}}) | 8 | 9286 | 0.1 | Yakut <sah@li.org> | 
+ | [stellarium](/f17/package/stellarium) | 8 | 9286 | 0.1 | Yakut <sah@li.org> | 
 {.sortable}
 
 

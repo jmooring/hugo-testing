@@ -18,13 +18,13 @@ The package tidy (version 5.8.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [pt_BR]({{< ref "/f36/language/pt_BR.md" >}}) | 7288 | 7339 | 99.3 | /mnt/stockage/packages/f36/tidy/localize/translations/language_pt_br.po | 
- | [fr]({{< ref "/f36/language/fr.md" >}}) | 6740 | 7339 | 91.8 | /mnt/stockage/packages/f36/tidy/localize/translations/language_fr.po | 
- | [en_GB]({{< ref "/f36/language/en_GB.md" >}}) | 569 | 7339 | 7.8 | /mnt/stockage/packages/f36/tidy/localize/translations/language_en_gb.po | 
- | [es]({{< ref "/f36/language/es.md" >}}) | 284 | 7339 | 3.9 | /mnt/stockage/packages/f36/tidy/localize/translations/language_es.po | 
- | [es_MX]({{< ref "/f36/language/es_MX.md" >}}) | 28 | 7339 | 0.4 | /mnt/stockage/packages/f36/tidy/localize/translations/language_es_mx.po | 
- | [zh_Hans]({{< ref "/f36/language/zh_Hans.md" >}}) | 22 | 7339 | 0.3 | /mnt/stockage/packages/f36/tidy/localize/translations/language_zh_cn.po | 
- | [de]({{< ref "/f36/language/de.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f36/tidy/localize/translations/language_de.po | 
+ | [pt_BR](/f36/language/pt_BR) | 7288 | 7339 | 99.3 | /mnt/stockage/packages/f36/tidy/localize/translations/language_pt_br.po | 
+ | [fr](/f36/language/fr) | 6740 | 7339 | 91.8 | /mnt/stockage/packages/f36/tidy/localize/translations/language_fr.po | 
+ | [en_GB](/f36/language/en_GB) | 569 | 7339 | 7.8 | /mnt/stockage/packages/f36/tidy/localize/translations/language_en_gb.po | 
+ | [es](/f36/language/es) | 284 | 7339 | 3.9 | /mnt/stockage/packages/f36/tidy/localize/translations/language_es.po | 
+ | [es_MX](/f36/language/es_MX) | 28 | 7339 | 0.4 | /mnt/stockage/packages/f36/tidy/localize/translations/language_es_mx.po | 
+ | [zh_Hans](/f36/language/zh_Hans) | 22 | 7339 | 0.3 | /mnt/stockage/packages/f36/tidy/localize/translations/language_zh_cn.po | 
+ | [de](/f36/language/de) | 0 | 0 | 0.0 | /mnt/stockage/packages/f36/tidy/localize/translations/language_de.po | 
 {.sortable}
 
 

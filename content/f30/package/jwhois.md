@@ -18,21 +18,21 @@ The package jwhois (version 4.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [es]({{< ref "/f30/language/es.md" >}}) | 440 | 440 | 100.0 | /mnt/stockage/packages/f30/jwhois/po/es.po | 
- | [it]({{< ref "/f30/language/it.md" >}}) | 440 | 440 | 100.0 | /mnt/stockage/packages/f30/jwhois/po/it.po | 
- | [sv]({{< ref "/f30/language/sv.md" >}}) | 440 | 440 | 100.0 | /mnt/stockage/packages/f30/jwhois/po/sv.po | 
- | [vi]({{< ref "/f30/language/vi.md" >}}) | 440 | 440 | 100.0 | /mnt/stockage/packages/f30/jwhois/po/vi.po | 
- | [fr]({{< ref "/f30/language/fr.md" >}}) | 401 | 440 | 91.1 | /mnt/stockage/packages/f30/jwhois/po/fr.po | 
- | [hu]({{< ref "/f30/language/hu.md" >}}) | 401 | 440 | 91.1 | /mnt/stockage/packages/f30/jwhois/po/hu.po | 
- | [id]({{< ref "/f30/language/id.md" >}}) | 401 | 440 | 91.1 | /mnt/stockage/packages/f30/jwhois/po/id.po | 
- | [nl]({{< ref "/f30/language/nl.md" >}}) | 401 | 440 | 91.1 | /mnt/stockage/packages/f30/jwhois/po/nl.po | 
- | [pl]({{< ref "/f30/language/pl.md" >}}) | 401 | 440 | 91.1 | /mnt/stockage/packages/f30/jwhois/po/pl.po | 
- | [pt_BR]({{< ref "/f30/language/pt_BR.md" >}}) | 401 | 440 | 91.1 | /mnt/stockage/packages/f30/jwhois/po/pt_BR.po | 
- | [ro]({{< ref "/f30/language/ro.md" >}}) | 401 | 440 | 91.1 | /mnt/stockage/packages/f30/jwhois/po/ro.po | 
- | [zh_Hant]({{< ref "/f30/language/zh_Hant.md" >}}) | 396 | 440 | 90.0 | /mnt/stockage/packages/f30/jwhois/po/zh_TW.po | 
- | [tr]({{< ref "/f30/language/tr.md" >}}) | 395 | 440 | 89.8 | /mnt/stockage/packages/f30/jwhois/po/tr.po | 
- | [ru]({{< ref "/f30/language/ru.md" >}}) | 83 | 440 | 18.9 | /mnt/stockage/packages/f30/jwhois/po/ru.po | 
- | [rw]({{< ref "/f30/language/rw.md" >}}) | 2 | 440 | 0.5 | /mnt/stockage/packages/f30/jwhois/po/rw.po | 
+ | [es](/f30/language/es) | 440 | 440 | 100.0 | /mnt/stockage/packages/f30/jwhois/po/es.po | 
+ | [it](/f30/language/it) | 440 | 440 | 100.0 | /mnt/stockage/packages/f30/jwhois/po/it.po | 
+ | [sv](/f30/language/sv) | 440 | 440 | 100.0 | /mnt/stockage/packages/f30/jwhois/po/sv.po | 
+ | [vi](/f30/language/vi) | 440 | 440 | 100.0 | /mnt/stockage/packages/f30/jwhois/po/vi.po | 
+ | [fr](/f30/language/fr) | 401 | 440 | 91.1 | /mnt/stockage/packages/f30/jwhois/po/fr.po | 
+ | [hu](/f30/language/hu) | 401 | 440 | 91.1 | /mnt/stockage/packages/f30/jwhois/po/hu.po | 
+ | [id](/f30/language/id) | 401 | 440 | 91.1 | /mnt/stockage/packages/f30/jwhois/po/id.po | 
+ | [nl](/f30/language/nl) | 401 | 440 | 91.1 | /mnt/stockage/packages/f30/jwhois/po/nl.po | 
+ | [pl](/f30/language/pl) | 401 | 440 | 91.1 | /mnt/stockage/packages/f30/jwhois/po/pl.po | 
+ | [pt_BR](/f30/language/pt_BR) | 401 | 440 | 91.1 | /mnt/stockage/packages/f30/jwhois/po/pt_BR.po | 
+ | [ro](/f30/language/ro) | 401 | 440 | 91.1 | /mnt/stockage/packages/f30/jwhois/po/ro.po | 
+ | [zh_Hant](/f30/language/zh_Hant) | 396 | 440 | 90.0 | /mnt/stockage/packages/f30/jwhois/po/zh_TW.po | 
+ | [tr](/f30/language/tr) | 395 | 440 | 89.8 | /mnt/stockage/packages/f30/jwhois/po/tr.po | 
+ | [ru](/f30/language/ru) | 83 | 440 | 18.9 | /mnt/stockage/packages/f30/jwhois/po/ru.po | 
+ | [rw](/f30/language/rw) | 2 | 440 | 0.5 | /mnt/stockage/packages/f30/jwhois/po/rw.po | 
 {.sortable}
 
 

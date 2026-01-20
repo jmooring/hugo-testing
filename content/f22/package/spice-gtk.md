@@ -18,7 +18,7 @@ The package spice-gtk (version 0.30):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f22/language/fr.md" >}}) | 140 | 140 | 100.0 | /mnt/stockage/packages/f22/spice-gtk/po/fr.po | 
+ | [fr](/f22/language/fr) | 140 | 140 | 100.0 | /mnt/stockage/packages/f22/spice-gtk/po/fr.po | 
 {.sortable}
 
 

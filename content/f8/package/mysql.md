@@ -18,24 +18,24 @@ The package mysql (version 5.0.45):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f8/language/cs.md" >}}) | 302 | 302 | 100.0 | /mnt/stockage/packages/f8/mysql/debian/po/cs.po | 
- | [da]({{< ref "/f8/language/da.md" >}}) | 302 | 302 | 100.0 | /mnt/stockage/packages/f8/mysql/debian/po/da.po | 
- | [de]({{< ref "/f8/language/de.md" >}}) | 302 | 302 | 100.0 | /mnt/stockage/packages/f8/mysql/debian/po/de.po | 
- | [es]({{< ref "/f8/language/es.md" >}}) | 302 | 302 | 100.0 | /mnt/stockage/packages/f8/mysql/debian/po/es.po | 
- | [eu]({{< ref "/f8/language/eu.md" >}}) | 302 | 302 | 100.0 | /mnt/stockage/packages/f8/mysql/debian/po/eu.po | 
- | [fr]({{< ref "/f8/language/fr.md" >}}) | 302 | 302 | 100.0 | /mnt/stockage/packages/f8/mysql/debian/po/fr.po | 
- | [gl]({{< ref "/f8/language/gl.md" >}}) | 302 | 302 | 100.0 | /mnt/stockage/packages/f8/mysql/debian/po/gl.po | 
- | [it]({{< ref "/f8/language/it.md" >}}) | 302 | 302 | 100.0 | /mnt/stockage/packages/f8/mysql/debian/po/it.po | 
- | [ja]({{< ref "/f8/language/ja.md" >}}) | 302 | 302 | 100.0 | /mnt/stockage/packages/f8/mysql/debian/po/ja.po | 
- | [nb_NO]({{< ref "/f8/language/nb_NO.md" >}}) | 302 | 302 | 100.0 | /mnt/stockage/packages/f8/mysql/debian/po/nb.po | 
- | [nl]({{< ref "/f8/language/nl.md" >}}) | 302 | 302 | 100.0 | /mnt/stockage/packages/f8/mysql/debian/po/nl.po | 
- | [pt]({{< ref "/f8/language/pt.md" >}}) | 302 | 302 | 100.0 | /mnt/stockage/packages/f8/mysql/debian/po/pt.po | 
- | [pt_BR]({{< ref "/f8/language/pt_BR.md" >}}) | 302 | 302 | 100.0 | /mnt/stockage/packages/f8/mysql/debian/po/pt_BR.po | 
- | [ro]({{< ref "/f8/language/ro.md" >}}) | 302 | 302 | 100.0 | /mnt/stockage/packages/f8/mysql/debian/po/ro.po | 
- | [ru]({{< ref "/f8/language/ru.md" >}}) | 302 | 302 | 100.0 | /mnt/stockage/packages/f8/mysql/debian/po/ru.po | 
- | [sv]({{< ref "/f8/language/sv.md" >}}) | 302 | 302 | 100.0 | /mnt/stockage/packages/f8/mysql/debian/po/sv.po | 
- | [tr]({{< ref "/f8/language/tr.md" >}}) | 47 | 302 | 15.6 | /mnt/stockage/packages/f8/mysql/debian/po/tr.po | 
- | [ca]({{< ref "/f8/language/ca.md" >}}) | 19 | 302 | 6.3 | /mnt/stockage/packages/f8/mysql/debian/po/ca.po | 
+ | [cs](/f8/language/cs) | 302 | 302 | 100.0 | /mnt/stockage/packages/f8/mysql/debian/po/cs.po | 
+ | [da](/f8/language/da) | 302 | 302 | 100.0 | /mnt/stockage/packages/f8/mysql/debian/po/da.po | 
+ | [de](/f8/language/de) | 302 | 302 | 100.0 | /mnt/stockage/packages/f8/mysql/debian/po/de.po | 
+ | [es](/f8/language/es) | 302 | 302 | 100.0 | /mnt/stockage/packages/f8/mysql/debian/po/es.po | 
+ | [eu](/f8/language/eu) | 302 | 302 | 100.0 | /mnt/stockage/packages/f8/mysql/debian/po/eu.po | 
+ | [fr](/f8/language/fr) | 302 | 302 | 100.0 | /mnt/stockage/packages/f8/mysql/debian/po/fr.po | 
+ | [gl](/f8/language/gl) | 302 | 302 | 100.0 | /mnt/stockage/packages/f8/mysql/debian/po/gl.po | 
+ | [it](/f8/language/it) | 302 | 302 | 100.0 | /mnt/stockage/packages/f8/mysql/debian/po/it.po | 
+ | [ja](/f8/language/ja) | 302 | 302 | 100.0 | /mnt/stockage/packages/f8/mysql/debian/po/ja.po | 
+ | [nb_NO](/f8/language/nb_NO) | 302 | 302 | 100.0 | /mnt/stockage/packages/f8/mysql/debian/po/nb.po | 
+ | [nl](/f8/language/nl) | 302 | 302 | 100.0 | /mnt/stockage/packages/f8/mysql/debian/po/nl.po | 
+ | [pt](/f8/language/pt) | 302 | 302 | 100.0 | /mnt/stockage/packages/f8/mysql/debian/po/pt.po | 
+ | [pt_BR](/f8/language/pt_BR) | 302 | 302 | 100.0 | /mnt/stockage/packages/f8/mysql/debian/po/pt_BR.po | 
+ | [ro](/f8/language/ro) | 302 | 302 | 100.0 | /mnt/stockage/packages/f8/mysql/debian/po/ro.po | 
+ | [ru](/f8/language/ru) | 302 | 302 | 100.0 | /mnt/stockage/packages/f8/mysql/debian/po/ru.po | 
+ | [sv](/f8/language/sv) | 302 | 302 | 100.0 | /mnt/stockage/packages/f8/mysql/debian/po/sv.po | 
+ | [tr](/f8/language/tr) | 47 | 302 | 15.6 | /mnt/stockage/packages/f8/mysql/debian/po/tr.po | 
+ | [ca](/f8/language/ca) | 19 | 302 | 6.3 | /mnt/stockage/packages/f8/mysql/debian/po/ca.po | 
 {.sortable}
 
 

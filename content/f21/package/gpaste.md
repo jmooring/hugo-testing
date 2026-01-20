@@ -18,11 +18,11 @@ The package gpaste (version 3.14.4.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f21/language/fr.md" >}}) | 903 | 903 | 100.0 | /mnt/stockage/packages/f21/gpaste/po/fr.po | 
- | [pt_BR]({{< ref "/f21/language/pt_BR.md" >}}) | 783 | 903 | 86.7 | /mnt/stockage/packages/f21/gpaste/po/pt_BR.po | 
- | [de]({{< ref "/f21/language/de.md" >}}) | 726 | 903 | 80.4 | /mnt/stockage/packages/f21/gpaste/po/de.po | 
- | [es]({{< ref "/f21/language/es.md" >}}) | 503 | 903 | 55.7 | /mnt/stockage/packages/f21/gpaste/po/es.po | 
- | [fi]({{< ref "/f21/language/fi.md" >}}) | 479 | 903 | 53.0 | /mnt/stockage/packages/f21/gpaste/po/fi.po | 
+ | [fr](/f21/language/fr) | 903 | 903 | 100.0 | /mnt/stockage/packages/f21/gpaste/po/fr.po | 
+ | [pt_BR](/f21/language/pt_BR) | 783 | 903 | 86.7 | /mnt/stockage/packages/f21/gpaste/po/pt_BR.po | 
+ | [de](/f21/language/de) | 726 | 903 | 80.4 | /mnt/stockage/packages/f21/gpaste/po/de.po | 
+ | [es](/f21/language/es) | 503 | 903 | 55.7 | /mnt/stockage/packages/f21/gpaste/po/es.po | 
+ | [fi](/f21/language/fi) | 479 | 903 | 53.0 | /mnt/stockage/packages/f21/gpaste/po/fi.po | 
 {.sortable}
 
 

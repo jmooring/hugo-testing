@@ -18,7 +18,7 @@ The package jumpnbump (version 1.61):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f32/language/fr.md" >}}) | 67 | 67 | 100.0 | /mnt/stockage/packages/f32/jumpnbump/menu/po/fr.po | 
+ | [fr](/f32/language/fr) | 67 | 67 | 100.0 | /mnt/stockage/packages/f32/jumpnbump/menu/po/fr.po | 
 {.sortable}
 
 

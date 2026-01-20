@@ -18,11 +18,11 @@ The package mu (version 1.0.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [es]({{< ref "/f29/language/es.md" >}}) | 1943 | 1943 | 100.0 | /mnt/stockage/packages/f29/mu/mu/locale/es/LC_MESSAGES/mu.po | 
- | [fr]({{< ref "/f29/language/fr.md" >}}) | 2143 | 2143 | 100.0 | /mnt/stockage/packages/f29/mu/mu/locale/fr/LC_MESSAGES/mu.po | 
- | [pt_PT]({{< ref "/f29/language/pt_PT.md" >}}) | 1943 | 1943 | 100.0 | /mnt/stockage/packages/f29/mu/mu/locale/pt_PT/LC_MESSAGES/mu.po | 
- | [zh_Hans]({{< ref "/f29/language/zh_Hans.md" >}}) | 1101 | 1101 | 100.0 | /mnt/stockage/packages/f29/mu/mu/locale/zh_CN/LC_MESSAGES/mu.po | 
- | [ja]({{< ref "/f29/language/ja.md" >}}) | 1927 | 1943 | 99.2 | /mnt/stockage/packages/f29/mu/mu/locale/ja/LC_MESSAGES/mu.po | 
+ | [es](/f29/language/es) | 1943 | 1943 | 100.0 | /mnt/stockage/packages/f29/mu/mu/locale/es/LC_MESSAGES/mu.po | 
+ | [fr](/f29/language/fr) | 2143 | 2143 | 100.0 | /mnt/stockage/packages/f29/mu/mu/locale/fr/LC_MESSAGES/mu.po | 
+ | [pt_PT](/f29/language/pt_PT) | 1943 | 1943 | 100.0 | /mnt/stockage/packages/f29/mu/mu/locale/pt_PT/LC_MESSAGES/mu.po | 
+ | [zh_Hans](/f29/language/zh_Hans) | 1101 | 1101 | 100.0 | /mnt/stockage/packages/f29/mu/mu/locale/zh_CN/LC_MESSAGES/mu.po | 
+ | [ja](/f29/language/ja) | 1927 | 1943 | 99.2 | /mnt/stockage/packages/f29/mu/mu/locale/ja/LC_MESSAGES/mu.po | 
 {.sortable}
 
 

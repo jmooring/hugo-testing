@@ -18,13 +18,13 @@ The package whatip (version 1.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f38/language/de.md" >}}) | 316 | 316 | 100.0 | /mnt/stockage/packages/f38/whatip/po/de.po | 
- | [es]({{< ref "/f38/language/es.md" >}}) | 303 | 303 | 100.0 | /mnt/stockage/packages/f38/whatip/po/es.po | 
- | [nl]({{< ref "/f38/language/nl.md" >}}) | 239 | 239 | 100.0 | /mnt/stockage/packages/f38/whatip/po/nl.po | 
- | [pt_BR]({{< ref "/f38/language/pt_BR.md" >}}) | 316 | 316 | 100.0 | /mnt/stockage/packages/f38/whatip/po/pt_BR.po | 
- | [sk]({{< ref "/f38/language/sk.md" >}}) | 253 | 253 | 100.0 | /mnt/stockage/packages/f38/whatip/po/sk.po | 
- | [sv]({{< ref "/f38/language/sv.md" >}}) | 222 | 222 | 100.0 | /mnt/stockage/packages/f38/whatip/po/sv.po | 
- | [it]({{< ref "/f38/language/it.md" >}}) | 281 | 305 | 92.1 | /mnt/stockage/packages/f38/whatip/po/it.po | 
+ | [de](/f38/language/de) | 316 | 316 | 100.0 | /mnt/stockage/packages/f38/whatip/po/de.po | 
+ | [es](/f38/language/es) | 303 | 303 | 100.0 | /mnt/stockage/packages/f38/whatip/po/es.po | 
+ | [nl](/f38/language/nl) | 239 | 239 | 100.0 | /mnt/stockage/packages/f38/whatip/po/nl.po | 
+ | [pt_BR](/f38/language/pt_BR) | 316 | 316 | 100.0 | /mnt/stockage/packages/f38/whatip/po/pt_BR.po | 
+ | [sk](/f38/language/sk) | 253 | 253 | 100.0 | /mnt/stockage/packages/f38/whatip/po/sk.po | 
+ | [sv](/f38/language/sv) | 222 | 222 | 100.0 | /mnt/stockage/packages/f38/whatip/po/sv.po | 
+ | [it](/f38/language/it) | 281 | 305 | 92.1 | /mnt/stockage/packages/f38/whatip/po/it.po | 
 {.sortable}
 
 

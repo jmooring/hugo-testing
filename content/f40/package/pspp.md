@@ -18,26 +18,26 @@ The package pspp (version 2.0.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f40/language/ar.md" >}}) | 15005 | 15039 | 99.8 | /mnt/stockage/packages/f40/pspp/po/ar.po | 
- | [ca]({{< ref "/f40/language/ca.md" >}}) | 15005 | 15039 | 99.8 | /mnt/stockage/packages/f40/pspp/po/ca.po | 
- | [de]({{< ref "/f40/language/de.md" >}}) | 15005 | 15039 | 99.8 | /mnt/stockage/packages/f40/pspp/po/de.po | 
- | [hu]({{< ref "/f40/language/hu.md" >}}) | 15005 | 15039 | 99.8 | /mnt/stockage/packages/f40/pspp/po/hu.po | 
- | [nl]({{< ref "/f40/language/nl.md" >}}) | 15005 | 15039 | 99.8 | /mnt/stockage/packages/f40/pspp/po/nl.po | 
- | [uk]({{< ref "/f40/language/uk.md" >}}) | 15005 | 15039 | 99.8 | /mnt/stockage/packages/f40/pspp/po/uk.po | 
- | [ta]({{< ref "/f40/language/ta.md" >}}) | 14719 | 15039 | 97.9 | /mnt/stockage/packages/f40/pspp/po/ta.po | 
- | [es]({{< ref "/f40/language/es.md" >}}) | 11997 | 15039 | 79.8 | /mnt/stockage/packages/f40/pspp/po/es.po | 
- | [ru]({{< ref "/f40/language/ru.md" >}}) | 11997 | 15039 | 79.8 | /mnt/stockage/packages/f40/pspp/po/ru.po | 
- | [fr]({{< ref "/f40/language/fr.md" >}}) | 10059 | 15039 | 66.9 | /mnt/stockage/packages/f40/pspp/po/fr.po | 
- | [lt]({{< ref "/f40/language/lt.md" >}}) | 9414 | 15039 | 62.6 | /mnt/stockage/packages/f40/pspp/po/lt.po | 
- | [el]({{< ref "/f40/language/el.md" >}}) | 8701 | 15039 | 57.9 | /mnt/stockage/packages/f40/pspp/po/el.po | 
- | [zh_Hans]({{< ref "/f40/language/zh_Hans.md" >}}) | 7564 | 15039 | 50.3 | /mnt/stockage/packages/f40/pspp/po/zh_CN.po | 
- | [ja]({{< ref "/f40/language/ja.md" >}}) | 7397 | 15039 | 49.2 | /mnt/stockage/packages/f40/pspp/po/ja.po | 
- | [sl]({{< ref "/f40/language/sl.md" >}}) | 7142 | 15039 | 47.5 | /mnt/stockage/packages/f40/pspp/po/sl.po | 
- | [gl]({{< ref "/f40/language/gl.md" >}}) | 6723 | 15039 | 44.7 | /mnt/stockage/packages/f40/pspp/po/gl.po | 
- | [pl]({{< ref "/f40/language/pl.md" >}}) | 6723 | 15039 | 44.7 | /mnt/stockage/packages/f40/pspp/po/pl.po | 
- | [tr]({{< ref "/f40/language/tr.md" >}}) | 4375 | 15039 | 29.1 | /mnt/stockage/packages/f40/pspp/po/tr.po | 
- | [pt_BR]({{< ref "/f40/language/pt_BR.md" >}}) | 1957 | 15039 | 13.0 | /mnt/stockage/packages/f40/pspp/po/pt_BR.po | 
- | [cs]({{< ref "/f40/language/cs.md" >}}) | 11 | 15039 | 0.1 | /mnt/stockage/packages/f40/pspp/po/cs.po | 
+ | [ar](/f40/language/ar) | 15005 | 15039 | 99.8 | /mnt/stockage/packages/f40/pspp/po/ar.po | 
+ | [ca](/f40/language/ca) | 15005 | 15039 | 99.8 | /mnt/stockage/packages/f40/pspp/po/ca.po | 
+ | [de](/f40/language/de) | 15005 | 15039 | 99.8 | /mnt/stockage/packages/f40/pspp/po/de.po | 
+ | [hu](/f40/language/hu) | 15005 | 15039 | 99.8 | /mnt/stockage/packages/f40/pspp/po/hu.po | 
+ | [nl](/f40/language/nl) | 15005 | 15039 | 99.8 | /mnt/stockage/packages/f40/pspp/po/nl.po | 
+ | [uk](/f40/language/uk) | 15005 | 15039 | 99.8 | /mnt/stockage/packages/f40/pspp/po/uk.po | 
+ | [ta](/f40/language/ta) | 14719 | 15039 | 97.9 | /mnt/stockage/packages/f40/pspp/po/ta.po | 
+ | [es](/f40/language/es) | 11997 | 15039 | 79.8 | /mnt/stockage/packages/f40/pspp/po/es.po | 
+ | [ru](/f40/language/ru) | 11997 | 15039 | 79.8 | /mnt/stockage/packages/f40/pspp/po/ru.po | 
+ | [fr](/f40/language/fr) | 10059 | 15039 | 66.9 | /mnt/stockage/packages/f40/pspp/po/fr.po | 
+ | [lt](/f40/language/lt) | 9414 | 15039 | 62.6 | /mnt/stockage/packages/f40/pspp/po/lt.po | 
+ | [el](/f40/language/el) | 8701 | 15039 | 57.9 | /mnt/stockage/packages/f40/pspp/po/el.po | 
+ | [zh_Hans](/f40/language/zh_Hans) | 7564 | 15039 | 50.3 | /mnt/stockage/packages/f40/pspp/po/zh_CN.po | 
+ | [ja](/f40/language/ja) | 7397 | 15039 | 49.2 | /mnt/stockage/packages/f40/pspp/po/ja.po | 
+ | [sl](/f40/language/sl) | 7142 | 15039 | 47.5 | /mnt/stockage/packages/f40/pspp/po/sl.po | 
+ | [gl](/f40/language/gl) | 6723 | 15039 | 44.7 | /mnt/stockage/packages/f40/pspp/po/gl.po | 
+ | [pl](/f40/language/pl) | 6723 | 15039 | 44.7 | /mnt/stockage/packages/f40/pspp/po/pl.po | 
+ | [tr](/f40/language/tr) | 4375 | 15039 | 29.1 | /mnt/stockage/packages/f40/pspp/po/tr.po | 
+ | [pt_BR](/f40/language/pt_BR) | 1957 | 15039 | 13.0 | /mnt/stockage/packages/f40/pspp/po/pt_BR.po | 
+ | [cs](/f40/language/cs) | 11 | 15039 | 0.1 | /mnt/stockage/packages/f40/pspp/po/cs.po | 
 {.sortable}
 
 

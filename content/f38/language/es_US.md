@@ -38,11 +38,11 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [budgie-desktop]({{< ref "/f38/package/budgie-desktop.md" >}}) | 1201 | 1220 | 98.4 | Spanish (American) <http://translate.getsol.us/projects/budgie-desktop/translations/es_US/> | 
- | [duplicity]({{< ref "/f38/package/duplicity.md" >}}) | 1852 | 2317 | 79.9 | Spanish, United States | 
- | [libmatekbd]({{< ref "/f38/package/libmatekbd.md" >}}) | 0 | 308 | 0.0 | Spanish (United States) (http://www.transifex.com/mate/MATE/language/es_US/) | 
- | [mate-menu]({{< ref "/f38/package/mate-menu.md" >}}) | 0 | 308 | 0.0 | Spanish (United States) (http://www.transifex.com/mate/MATE/language/es_US/) | 
- | [mate-themes]({{< ref "/f38/package/mate-themes.md" >}}) | 0 | 74 | 0.0 | Spanish (United States) (http://app.transifex.com/mate/MATE/language/es_US/) | 
+ | [budgie-desktop](/f38/package/budgie-desktop) | 1201 | 1220 | 98.4 | Spanish (American) <http://translate.getsol.us/projects/budgie-desktop/translations/es_US/> | 
+ | [duplicity](/f38/package/duplicity) | 1852 | 2317 | 79.9 | Spanish, United States | 
+ | [libmatekbd](/f38/package/libmatekbd) | 0 | 308 | 0.0 | Spanish (United States) (http://www.transifex.com/mate/MATE/language/es_US/) | 
+ | [mate-menu](/f38/package/mate-menu) | 0 | 308 | 0.0 | Spanish (United States) (http://www.transifex.com/mate/MATE/language/es_US/) | 
+ | [mate-themes](/f38/package/mate-themes) | 0 | 74 | 0.0 | Spanish (United States) (http://app.transifex.com/mate/MATE/language/es_US/) | 
 {.sortable}
 
 

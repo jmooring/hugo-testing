@@ -18,29 +18,29 @@ The package plasma-keyboard (version 1.0~20250824.094649.6bf37e5):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f42/language/ar.md" >}}) | 58 | 58 | 100.0 | /mnt/stockage/packages/f42/plasma-keyboard/po/ar/kcm_plasmakeyboard.po | 
- | [ca]({{< ref "/f42/language/ca.md" >}}) | 58 | 58 | 100.0 | /mnt/stockage/packages/f42/plasma-keyboard/po/ca/kcm_plasmakeyboard.po | 
- | [ca@valencia]({{< ref "/f42/language/ca@valencia.md" >}}) | 58 | 58 | 100.0 | /mnt/stockage/packages/f42/plasma-keyboard/po/ca@valencia/kcm_plasmakeyboard.po | 
- | [es]({{< ref "/f42/language/es.md" >}}) | 58 | 58 | 100.0 | /mnt/stockage/packages/f42/plasma-keyboard/po/es/kcm_plasmakeyboard.po | 
- | [eu]({{< ref "/f42/language/eu.md" >}}) | 58 | 58 | 100.0 | /mnt/stockage/packages/f42/plasma-keyboard/po/eu/kcm_plasmakeyboard.po | 
- | [he]({{< ref "/f42/language/he.md" >}}) | 58 | 58 | 100.0 | /mnt/stockage/packages/f42/plasma-keyboard/po/he/kcm_plasmakeyboard.po | 
- | [it]({{< ref "/f42/language/it.md" >}}) | 58 | 58 | 100.0 | /mnt/stockage/packages/f42/plasma-keyboard/po/it/kcm_plasmakeyboard.po | 
- | [ka]({{< ref "/f42/language/ka.md" >}}) | 58 | 58 | 100.0 | /mnt/stockage/packages/f42/plasma-keyboard/po/ka/kcm_plasmakeyboard.po | 
- | [lv]({{< ref "/f42/language/lv.md" >}}) | 58 | 58 | 100.0 | /mnt/stockage/packages/f42/plasma-keyboard/po/lv/kcm_plasmakeyboard.po | 
- | [nl]({{< ref "/f42/language/nl.md" >}}) | 58 | 58 | 100.0 | /mnt/stockage/packages/f42/plasma-keyboard/po/nl/kcm_plasmakeyboard.po | 
- | [pl]({{< ref "/f42/language/pl.md" >}}) | 58 | 58 | 100.0 | /mnt/stockage/packages/f42/plasma-keyboard/po/pl/kcm_plasmakeyboard.po | 
- | [pt_BR]({{< ref "/f42/language/pt_BR.md" >}}) | 58 | 58 | 100.0 | /mnt/stockage/packages/f42/plasma-keyboard/po/pt_BR/kcm_plasmakeyboard.po | 
- | [sl]({{< ref "/f42/language/sl.md" >}}) | 58 | 58 | 100.0 | /mnt/stockage/packages/f42/plasma-keyboard/po/sl/kcm_plasmakeyboard.po | 
- | [sv]({{< ref "/f42/language/sv.md" >}}) | 58 | 58 | 100.0 | /mnt/stockage/packages/f42/plasma-keyboard/po/sv/kcm_plasmakeyboard.po | 
- | [tr]({{< ref "/f42/language/tr.md" >}}) | 58 | 58 | 100.0 | /mnt/stockage/packages/f42/plasma-keyboard/po/tr/kcm_plasmakeyboard.po | 
- | [uk]({{< ref "/f42/language/uk.md" >}}) | 58 | 58 | 100.0 | /mnt/stockage/packages/f42/plasma-keyboard/po/uk/kcm_plasmakeyboard.po | 
- | [zh_Hans]({{< ref "/f42/language/zh_Hans.md" >}}) | 58 | 58 | 100.0 | /mnt/stockage/packages/f42/plasma-keyboard/po/zh_CN/kcm_plasmakeyboard.po | 
- | [zh_Hant]({{< ref "/f42/language/zh_Hant.md" >}}) | 58 | 58 | 100.0 | /mnt/stockage/packages/f42/plasma-keyboard/po/zh_TW/kcm_plasmakeyboard.po | 
- | [fi]({{< ref "/f42/language/fi.md" >}}) | 15 | 58 | 25.9 | /mnt/stockage/packages/f42/plasma-keyboard/po/fi/kcm_plasmakeyboard.po | 
- | [fr]({{< ref "/f42/language/fr.md" >}}) | 15 | 58 | 25.9 | /mnt/stockage/packages/f42/plasma-keyboard/po/fr/kcm_plasmakeyboard.po | 
- | [ko]({{< ref "/f42/language/ko.md" >}}) | 15 | 58 | 25.9 | /mnt/stockage/packages/f42/plasma-keyboard/po/ko/kcm_plasmakeyboard.po | 
- | [ru]({{< ref "/f42/language/ru.md" >}}) | 15 | 58 | 25.9 | /mnt/stockage/packages/f42/plasma-keyboard/po/ru/kcm_plasmakeyboard.po | 
- | [de]({{< ref "/f42/language/de.md" >}}) | 0 | 58 | 0.0 | /mnt/stockage/packages/f42/plasma-keyboard/po/de/kcm_plasmakeyboard.po | 
+ | [ar](/f42/language/ar) | 58 | 58 | 100.0 | /mnt/stockage/packages/f42/plasma-keyboard/po/ar/kcm_plasmakeyboard.po | 
+ | [ca](/f42/language/ca) | 58 | 58 | 100.0 | /mnt/stockage/packages/f42/plasma-keyboard/po/ca/kcm_plasmakeyboard.po | 
+ | [ca@valencia](/f42/language/ca@valencia) | 58 | 58 | 100.0 | /mnt/stockage/packages/f42/plasma-keyboard/po/ca@valencia/kcm_plasmakeyboard.po | 
+ | [es](/f42/language/es) | 58 | 58 | 100.0 | /mnt/stockage/packages/f42/plasma-keyboard/po/es/kcm_plasmakeyboard.po | 
+ | [eu](/f42/language/eu) | 58 | 58 | 100.0 | /mnt/stockage/packages/f42/plasma-keyboard/po/eu/kcm_plasmakeyboard.po | 
+ | [he](/f42/language/he) | 58 | 58 | 100.0 | /mnt/stockage/packages/f42/plasma-keyboard/po/he/kcm_plasmakeyboard.po | 
+ | [it](/f42/language/it) | 58 | 58 | 100.0 | /mnt/stockage/packages/f42/plasma-keyboard/po/it/kcm_plasmakeyboard.po | 
+ | [ka](/f42/language/ka) | 58 | 58 | 100.0 | /mnt/stockage/packages/f42/plasma-keyboard/po/ka/kcm_plasmakeyboard.po | 
+ | [lv](/f42/language/lv) | 58 | 58 | 100.0 | /mnt/stockage/packages/f42/plasma-keyboard/po/lv/kcm_plasmakeyboard.po | 
+ | [nl](/f42/language/nl) | 58 | 58 | 100.0 | /mnt/stockage/packages/f42/plasma-keyboard/po/nl/kcm_plasmakeyboard.po | 
+ | [pl](/f42/language/pl) | 58 | 58 | 100.0 | /mnt/stockage/packages/f42/plasma-keyboard/po/pl/kcm_plasmakeyboard.po | 
+ | [pt_BR](/f42/language/pt_BR) | 58 | 58 | 100.0 | /mnt/stockage/packages/f42/plasma-keyboard/po/pt_BR/kcm_plasmakeyboard.po | 
+ | [sl](/f42/language/sl) | 58 | 58 | 100.0 | /mnt/stockage/packages/f42/plasma-keyboard/po/sl/kcm_plasmakeyboard.po | 
+ | [sv](/f42/language/sv) | 58 | 58 | 100.0 | /mnt/stockage/packages/f42/plasma-keyboard/po/sv/kcm_plasmakeyboard.po | 
+ | [tr](/f42/language/tr) | 58 | 58 | 100.0 | /mnt/stockage/packages/f42/plasma-keyboard/po/tr/kcm_plasmakeyboard.po | 
+ | [uk](/f42/language/uk) | 58 | 58 | 100.0 | /mnt/stockage/packages/f42/plasma-keyboard/po/uk/kcm_plasmakeyboard.po | 
+ | [zh_Hans](/f42/language/zh_Hans) | 58 | 58 | 100.0 | /mnt/stockage/packages/f42/plasma-keyboard/po/zh_CN/kcm_plasmakeyboard.po | 
+ | [zh_Hant](/f42/language/zh_Hant) | 58 | 58 | 100.0 | /mnt/stockage/packages/f42/plasma-keyboard/po/zh_TW/kcm_plasmakeyboard.po | 
+ | [fi](/f42/language/fi) | 15 | 58 | 25.9 | /mnt/stockage/packages/f42/plasma-keyboard/po/fi/kcm_plasmakeyboard.po | 
+ | [fr](/f42/language/fr) | 15 | 58 | 25.9 | /mnt/stockage/packages/f42/plasma-keyboard/po/fr/kcm_plasmakeyboard.po | 
+ | [ko](/f42/language/ko) | 15 | 58 | 25.9 | /mnt/stockage/packages/f42/plasma-keyboard/po/ko/kcm_plasmakeyboard.po | 
+ | [ru](/f42/language/ru) | 15 | 58 | 25.9 | /mnt/stockage/packages/f42/plasma-keyboard/po/ru/kcm_plasmakeyboard.po | 
+ | [de](/f42/language/de) | 0 | 58 | 0.0 | /mnt/stockage/packages/f42/plasma-keyboard/po/de/kcm_plasmakeyboard.po | 
 {.sortable}
 
 

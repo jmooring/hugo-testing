@@ -38,11 +38,11 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [poedit]({{< ref "/f21/package/poedit.md" >}}) | 2461 | 2461 | 100.0 | Kabyle | 
- | [filezilla]({{< ref "/f21/package/filezilla.md" >}}) | 4082 | 9512 | 42.9 | Yacine Bouklif  <yacine2953-asuqqel@yahoo.fr> | 
- | [mintmenu]({{< ref "/f21/package/mintmenu.md" >}}) | 17 | 1431 | 1.2 | Kabyle <kab@li.org> | 
- | [openerp]({{< ref "/f21/package/openerp.md" >}}) | 6 | 10716 | 0.1 | Kabyle <kab@li.org> | 
- | [openerp7]({{< ref "/f21/package/openerp7.md" >}}) | 5 | 10657 | 0.0 | Kabyle <kab@li.org> | 
+ | [poedit](/f21/package/poedit) | 2461 | 2461 | 100.0 | Kabyle | 
+ | [filezilla](/f21/package/filezilla) | 4082 | 9512 | 42.9 | Yacine Bouklif  <yacine2953-asuqqel@yahoo.fr> | 
+ | [mintmenu](/f21/package/mintmenu) | 17 | 1431 | 1.2 | Kabyle <kab@li.org> | 
+ | [openerp](/f21/package/openerp) | 6 | 10716 | 0.1 | Kabyle <kab@li.org> | 
+ | [openerp7](/f21/package/openerp7) | 5 | 10657 | 0.0 | Kabyle <kab@li.org> | 
 {.sortable}
 
 

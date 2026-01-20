@@ -39,65 +39,65 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [gimp]({{< ref "/f14/package/gimp.md" >}}) | 25667 | 26056 | 98.5 | Burmese <burmait@burmait.net> | 
- | [gtk2]({{< ref "/f14/package/gtk2.md" >}}) | 13010 | 13704 | 94.9 | Burmese <my@li.org> | 
- | [mingw32-gtk2]({{< ref "/f14/package/mingw32-gtk2.md" >}}) | 13010 | 13704 | 94.9 | Burmese <my@li.org> | 
- | [gtk3]({{< ref "/f14/package/gtk3.md" >}}) | 11346 | 11998 | 94.6 | Burmese <my@li.org> | 
- | [gdk-pixbuf2]({{< ref "/f14/package/gdk-pixbuf2.md" >}}) | 1198 | 1313 | 91.2 | Burmese <my@li.org> | 
- | [mingw32-gdk-pixbuf]({{< ref "/f14/package/mingw32-gdk-pixbuf.md" >}}) | 1198 | 1313 | 91.2 | Burmese <my@li.org> | 
- | [audacity]({{< ref "/f14/package/audacity.md" >}}) | 8378 | 9628 | 87.0 | Burmese <my@li.org> | 
- | [vidalia]({{< ref "/f14/package/vidalia.md" >}}) | 8193 | 10375 | 79.0 | translations@vidalia-project.net | 
- | [pootle]({{< ref "/f14/package/pootle.md" >}}) | 1318 | 2424 | 54.4 | LANGUAGE <LL@li.org> | 
- | [sahana]({{< ref "/f14/package/sahana.md" >}}) | 15009 | 29306 | 51.2 | NovaSteps L10N Team <ravi.chhabra@gmail.com> | 
- | [pidgin]({{< ref "/f14/package/pidgin.md" >}}) | 6201 | 18328 | 33.8 |  | 
- | [gnome-do]({{< ref "/f14/package/gnome-do.md" >}}) | 69 | 612 | 11.3 | Burmese <my@li.org> | 
- | [libvirt]({{< ref "/f14/package/libvirt.md" >}}) | 1098 | 20546 | 5.3 | none | 
- | [anaconda]({{< ref "/f14/package/anaconda.md" >}}) | 0 | 9741 | 0.0 | none | 
- | [authconfig]({{< ref "/f14/package/authconfig.md" >}}) | 0 | 1342 | 0.0 | none | 
- | [chkconfig]({{< ref "/f14/package/chkconfig.md" >}}) | 0 | 448 | 0.0 | none | 
- | [firstboot]({{< ref "/f14/package/firstboot.md" >}}) | 0 | 654 | 0.0 | none | 
- | [im-chooser]({{< ref "/f14/package/im-chooser.md" >}}) | 0 | 213 | 0.0 | none | 
- | [imsettings]({{< ref "/f14/package/imsettings.md" >}}) | 0 | 979 | 0.0 | none | 
- | [initscripts]({{< ref "/f14/package/initscripts.md" >}}) | 0 | 4349 | 0.0 | none | 
- | [kexec-tools]({{< ref "/f14/package/kexec-tools.md" >}}) | 0 | 132 | 0.0 | LANGUAGE <LL@li.org> | 
- | [libgxim]({{< ref "/f14/package/libgxim.md" >}}) | 0 | 130 | 0.0 | none | 
- | [passwd]({{< ref "/f14/package/passwd.md" >}}) | 0 | 299 | 0.0 | none | 
- | [policycoreutils]({{< ref "/f14/package/policycoreutils.md" >}}) | 0 | 1470 | 0.0 | LANGUAGE <LL@li.org> | 
- | [pykickstart]({{< ref "/f14/package/pykickstart.md" >}}) | 0 | 338 | 0.0 | LANGUAGE <LL@li.org> | 
- | [redhat-menus]({{< ref "/f14/package/redhat-menus.md" >}}) | 0 | 261 | 0.0 | none | 
- | [rhn-client-tools]({{< ref "/f14/package/rhn-client-tools.md" >}}) | 0 | 4820 | 0.0 | LANGUAGE <LL@li.org> | 
- | [rhnsd]({{< ref "/f14/package/rhnsd.md" >}}) | 0 | 42 | 0.0 | LANGUAGE <LL@li.org> | 
- | [setroubleshoot]({{< ref "/f14/package/setroubleshoot.md" >}}) | 0 | 563 | 0.0 | LANGUAGE <LL@li.org> | 
- | [setroubleshoot-plugins]({{< ref "/f14/package/setroubleshoot-plugins.md" >}}) | 0 | 7818 | 0.0 | LANGUAGE <LL@li.org> | 
- | [setuptool]({{< ref "/f14/package/setuptool.md" >}}) | 0 | 55 | 0.0 | none | 
- | [sos]({{< ref "/f14/package/sos.md" >}}) | 0 | 267 | 0.0 | none | 
- | [specspo]({{< ref "/f14/package/specspo.md" >}}) | 0 | 305294 | 0.0 | none | 
- | [switchdesk]({{< ref "/f14/package/switchdesk.md" >}}) | 0 | 137 | 0.0 | none | 
- | [system-config-bind]({{< ref "/f14/package/system-config-bind.md" >}}) | 0 | 9419 | 0.0 | none | 
- | [system-config-boot]({{< ref "/f14/package/system-config-boot.md" >}}) | 0 | 119 | 0.0 | none | 
- | [system-config-date]({{< ref "/f14/package/system-config-date.md" >}}) | 0 | 466 | 0.0 | LANGUAGE <LL@li.org> | 
- | [system-config-date-docs]({{< ref "/f14/package/system-config-date-docs.md" >}}) | 0 | 739 | 0.0 | LANGUAGE <LL@li.org> | 
- | [system-config-firewall]({{< ref "/f14/package/system-config-firewall.md" >}}) | 0 | 2807 | 0.0 | none | 
- | [system-config-httpd]({{< ref "/f14/package/system-config-httpd.md" >}}) | 0 | 858 | 0.0 | none | 
- | [system-config-kdump]({{< ref "/f14/package/system-config-kdump.md" >}}) | 0 | 807 | 0.0 | LANGUAGE <LL@li.org> | 
- | [system-config-keyboard]({{< ref "/f14/package/system-config-keyboard.md" >}}) | 0 | 187 | 0.0 | none | 
- | [system-config-kickstart]({{< ref "/f14/package/system-config-kickstart.md" >}}) | 0 | 1104 | 0.0 | none | 
- | [system-config-language]({{< ref "/f14/package/system-config-language.md" >}}) | 0 | 323 | 0.0 | none | 
- | [system-config-lvm]({{< ref "/f14/package/system-config-lvm.md" >}}) | 0 | 2142 | 0.0 | none | 
- | [system-config-netboot]({{< ref "/f14/package/system-config-netboot.md" >}}) | 0 | 1103 | 0.0 | none | 
- | [system-config-network]({{< ref "/f14/package/system-config-network.md" >}}) | 0 | 3022 | 0.0 | none | 
- | [system-config-nfs]({{< ref "/f14/package/system-config-nfs.md" >}}) | 0 | 332 | 0.0 | none | 
- | [system-config-nfs-docs]({{< ref "/f14/package/system-config-nfs-docs.md" >}}) | 0 | 1192 | 0.0 | LANGUAGE <LL@li.org> | 
- | [system-config-printer]({{< ref "/f14/package/system-config-printer.md" >}}) | 0 | 3120 | 0.0 | LANGUAGE <LL@li.org> | 
- | [system-config-rootpassword]({{< ref "/f14/package/system-config-rootpassword.md" >}}) | 0 | 116 | 0.0 | none | 
- | [system-config-samba]({{< ref "/f14/package/system-config-samba.md" >}}) | 0 | 533 | 0.0 | LANGUAGE <LL@li.org> | 
- | [system-config-samba-docs]({{< ref "/f14/package/system-config-samba-docs.md" >}}) | 0 | 1195 | 0.0 | LANGUAGE <LL@li.org> | 
- | [system-config-services]({{< ref "/f14/package/system-config-services.md" >}}) | 0 | 404 | 0.0 | none | 
- | [system-config-services-docs]({{< ref "/f14/package/system-config-services-docs.md" >}}) | 0 | 638 | 0.0 | LANGUAGE <LL@li.org> | 
- | [system-config-users]({{< ref "/f14/package/system-config-users.md" >}}) | 0 | 1456 | 0.0 | LANGUAGE <LL@li.org> | 
- | [system-config-users-docs]({{< ref "/f14/package/system-config-users-docs.md" >}}) | 0 | 1061 | 0.0 | LANGUAGE <LL@li.org> | 
- | [system-switch-mail]({{< ref "/f14/package/system-switch-mail.md" >}}) | 0 | 134 | 0.0 | none | 
- | [yum-rhn-plugin]({{< ref "/f14/package/yum-rhn-plugin.md" >}}) | 0 | 107 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [gimp](/f14/package/gimp) | 25667 | 26056 | 98.5 | Burmese <burmait@burmait.net> | 
+ | [gtk2](/f14/package/gtk2) | 13010 | 13704 | 94.9 | Burmese <my@li.org> | 
+ | [mingw32-gtk2](/f14/package/mingw32-gtk2) | 13010 | 13704 | 94.9 | Burmese <my@li.org> | 
+ | [gtk3](/f14/package/gtk3) | 11346 | 11998 | 94.6 | Burmese <my@li.org> | 
+ | [gdk-pixbuf2](/f14/package/gdk-pixbuf2) | 1198 | 1313 | 91.2 | Burmese <my@li.org> | 
+ | [mingw32-gdk-pixbuf](/f14/package/mingw32-gdk-pixbuf) | 1198 | 1313 | 91.2 | Burmese <my@li.org> | 
+ | [audacity](/f14/package/audacity) | 8378 | 9628 | 87.0 | Burmese <my@li.org> | 
+ | [vidalia](/f14/package/vidalia) | 8193 | 10375 | 79.0 | translations@vidalia-project.net | 
+ | [pootle](/f14/package/pootle) | 1318 | 2424 | 54.4 | LANGUAGE <LL@li.org> | 
+ | [sahana](/f14/package/sahana) | 15009 | 29306 | 51.2 | NovaSteps L10N Team <ravi.chhabra@gmail.com> | 
+ | [pidgin](/f14/package/pidgin) | 6201 | 18328 | 33.8 |  | 
+ | [gnome-do](/f14/package/gnome-do) | 69 | 612 | 11.3 | Burmese <my@li.org> | 
+ | [libvirt](/f14/package/libvirt) | 1098 | 20546 | 5.3 | none | 
+ | [anaconda](/f14/package/anaconda) | 0 | 9741 | 0.0 | none | 
+ | [authconfig](/f14/package/authconfig) | 0 | 1342 | 0.0 | none | 
+ | [chkconfig](/f14/package/chkconfig) | 0 | 448 | 0.0 | none | 
+ | [firstboot](/f14/package/firstboot) | 0 | 654 | 0.0 | none | 
+ | [im-chooser](/f14/package/im-chooser) | 0 | 213 | 0.0 | none | 
+ | [imsettings](/f14/package/imsettings) | 0 | 979 | 0.0 | none | 
+ | [initscripts](/f14/package/initscripts) | 0 | 4349 | 0.0 | none | 
+ | [kexec-tools](/f14/package/kexec-tools) | 0 | 132 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [libgxim](/f14/package/libgxim) | 0 | 130 | 0.0 | none | 
+ | [passwd](/f14/package/passwd) | 0 | 299 | 0.0 | none | 
+ | [policycoreutils](/f14/package/policycoreutils) | 0 | 1470 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [pykickstart](/f14/package/pykickstart) | 0 | 338 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [redhat-menus](/f14/package/redhat-menus) | 0 | 261 | 0.0 | none | 
+ | [rhn-client-tools](/f14/package/rhn-client-tools) | 0 | 4820 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [rhnsd](/f14/package/rhnsd) | 0 | 42 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [setroubleshoot](/f14/package/setroubleshoot) | 0 | 563 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [setroubleshoot-plugins](/f14/package/setroubleshoot-plugins) | 0 | 7818 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [setuptool](/f14/package/setuptool) | 0 | 55 | 0.0 | none | 
+ | [sos](/f14/package/sos) | 0 | 267 | 0.0 | none | 
+ | [specspo](/f14/package/specspo) | 0 | 305294 | 0.0 | none | 
+ | [switchdesk](/f14/package/switchdesk) | 0 | 137 | 0.0 | none | 
+ | [system-config-bind](/f14/package/system-config-bind) | 0 | 9419 | 0.0 | none | 
+ | [system-config-boot](/f14/package/system-config-boot) | 0 | 119 | 0.0 | none | 
+ | [system-config-date](/f14/package/system-config-date) | 0 | 466 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [system-config-date-docs](/f14/package/system-config-date-docs) | 0 | 739 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [system-config-firewall](/f14/package/system-config-firewall) | 0 | 2807 | 0.0 | none | 
+ | [system-config-httpd](/f14/package/system-config-httpd) | 0 | 858 | 0.0 | none | 
+ | [system-config-kdump](/f14/package/system-config-kdump) | 0 | 807 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [system-config-keyboard](/f14/package/system-config-keyboard) | 0 | 187 | 0.0 | none | 
+ | [system-config-kickstart](/f14/package/system-config-kickstart) | 0 | 1104 | 0.0 | none | 
+ | [system-config-language](/f14/package/system-config-language) | 0 | 323 | 0.0 | none | 
+ | [system-config-lvm](/f14/package/system-config-lvm) | 0 | 2142 | 0.0 | none | 
+ | [system-config-netboot](/f14/package/system-config-netboot) | 0 | 1103 | 0.0 | none | 
+ | [system-config-network](/f14/package/system-config-network) | 0 | 3022 | 0.0 | none | 
+ | [system-config-nfs](/f14/package/system-config-nfs) | 0 | 332 | 0.0 | none | 
+ | [system-config-nfs-docs](/f14/package/system-config-nfs-docs) | 0 | 1192 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [system-config-printer](/f14/package/system-config-printer) | 0 | 3120 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [system-config-rootpassword](/f14/package/system-config-rootpassword) | 0 | 116 | 0.0 | none | 
+ | [system-config-samba](/f14/package/system-config-samba) | 0 | 533 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [system-config-samba-docs](/f14/package/system-config-samba-docs) | 0 | 1195 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [system-config-services](/f14/package/system-config-services) | 0 | 404 | 0.0 | none | 
+ | [system-config-services-docs](/f14/package/system-config-services-docs) | 0 | 638 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [system-config-users](/f14/package/system-config-users) | 0 | 1456 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [system-config-users-docs](/f14/package/system-config-users-docs) | 0 | 1061 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [system-switch-mail](/f14/package/system-switch-mail) | 0 | 134 | 0.0 | none | 
+ | [yum-rhn-plugin](/f14/package/yum-rhn-plugin) | 0 | 107 | 0.0 | LANGUAGE <LL@li.org> | 
 {.sortable}
 
 

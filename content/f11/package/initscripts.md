@@ -18,74 +18,74 @@ The package initscripts (version 8.95.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [as]({{< ref "/f11/language/as.md" >}}) | 4169 | 4169 | 100.0 | /mnt/stockage/packages/f11/initscripts/po/as.po | 
- | [bn_IN]({{< ref "/f11/language/bn_IN.md" >}}) | 4169 | 4169 | 100.0 | /mnt/stockage/packages/f11/initscripts/po/bn_IN.po | 
- | [de]({{< ref "/f11/language/de.md" >}}) | 4169 | 4169 | 100.0 | /mnt/stockage/packages/f11/initscripts/po/de.po | 
- | [es]({{< ref "/f11/language/es.md" >}}) | 4169 | 4169 | 100.0 | /mnt/stockage/packages/f11/initscripts/po/es.po | 
- | [fr]({{< ref "/f11/language/fr.md" >}}) | 4169 | 4169 | 100.0 | /mnt/stockage/packages/f11/initscripts/po/fr.po | 
- | [gu]({{< ref "/f11/language/gu.md" >}}) | 4169 | 4169 | 100.0 | /mnt/stockage/packages/f11/initscripts/po/gu.po | 
- | [hi]({{< ref "/f11/language/hi.md" >}}) | 4169 | 4169 | 100.0 | /mnt/stockage/packages/f11/initscripts/po/hi.po | 
- | [hu]({{< ref "/f11/language/hu.md" >}}) | 4169 | 4169 | 100.0 | /mnt/stockage/packages/f11/initscripts/po/hu.po | 
- | [it]({{< ref "/f11/language/it.md" >}}) | 4169 | 4169 | 100.0 | /mnt/stockage/packages/f11/initscripts/po/it.po | 
- | [ja]({{< ref "/f11/language/ja.md" >}}) | 4169 | 4169 | 100.0 | /mnt/stockage/packages/f11/initscripts/po/ja.po | 
- | [kn]({{< ref "/f11/language/kn.md" >}}) | 4169 | 4169 | 100.0 | /mnt/stockage/packages/f11/initscripts/po/kn.po | 
- | [ko]({{< ref "/f11/language/ko.md" >}}) | 4169 | 4169 | 100.0 | /mnt/stockage/packages/f11/initscripts/po/ko.po | 
- | [ml]({{< ref "/f11/language/ml.md" >}}) | 4169 | 4169 | 100.0 | /mnt/stockage/packages/f11/initscripts/po/ml.po | 
- | [mr]({{< ref "/f11/language/mr.md" >}}) | 4169 | 4169 | 100.0 | /mnt/stockage/packages/f11/initscripts/po/mr.po | 
- | [nl]({{< ref "/f11/language/nl.md" >}}) | 4169 | 4169 | 100.0 | /mnt/stockage/packages/f11/initscripts/po/nl.po | 
- | [or]({{< ref "/f11/language/or.md" >}}) | 4169 | 4169 | 100.0 | /mnt/stockage/packages/f11/initscripts/po/or.po | 
- | [pa]({{< ref "/f11/language/pa.md" >}}) | 4169 | 4169 | 100.0 | /mnt/stockage/packages/f11/initscripts/po/pa.po | 
- | [pl]({{< ref "/f11/language/pl.md" >}}) | 4169 | 4169 | 100.0 | /mnt/stockage/packages/f11/initscripts/po/pl.po | 
- | [pt]({{< ref "/f11/language/pt.md" >}}) | 4169 | 4169 | 100.0 | /mnt/stockage/packages/f11/initscripts/po/pt.po | 
- | [pt_BR]({{< ref "/f11/language/pt_BR.md" >}}) | 4169 | 4169 | 100.0 | /mnt/stockage/packages/f11/initscripts/po/pt_BR.po | 
- | [ru]({{< ref "/f11/language/ru.md" >}}) | 4168 | 4168 | 100.0 | /mnt/stockage/packages/f11/initscripts/po/ru.po | 
- | [sk]({{< ref "/f11/language/sk.md" >}}) | 4169 | 4169 | 100.0 | /mnt/stockage/packages/f11/initscripts/po/sk.po | 
- | [sr]({{< ref "/f11/language/sr.md" >}}) | 4169 | 4169 | 100.0 | /mnt/stockage/packages/f11/initscripts/po/sr.po | 
- | [sr_Latn]({{< ref "/f11/language/sr_Latn.md" >}}) | 4169 | 4169 | 100.0 | /mnt/stockage/packages/f11/initscripts/po/sr@latin.po | 
- | [sv]({{< ref "/f11/language/sv.md" >}}) | 4169 | 4169 | 100.0 | /mnt/stockage/packages/f11/initscripts/po/sv.po | 
- | [ta]({{< ref "/f11/language/ta.md" >}}) | 4169 | 4169 | 100.0 | /mnt/stockage/packages/f11/initscripts/po/ta.po | 
- | [te]({{< ref "/f11/language/te.md" >}}) | 4169 | 4169 | 100.0 | /mnt/stockage/packages/f11/initscripts/po/te.po | 
- | [zh_Hans]({{< ref "/f11/language/zh_Hans.md" >}}) | 4169 | 4169 | 100.0 | /mnt/stockage/packages/f11/initscripts/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f11/language/zh_Hant.md" >}}) | 4169 | 4169 | 100.0 | /mnt/stockage/packages/f11/initscripts/po/zh_TW.po | 
- | [ca]({{< ref "/f11/language/ca.md" >}}) | 4159 | 4169 | 99.8 | /mnt/stockage/packages/f11/initscripts/po/ca.po | 
- | [fi]({{< ref "/f11/language/fi.md" >}}) | 4041 | 4169 | 96.9 | /mnt/stockage/packages/f11/initscripts/po/fi.po | 
- | [cs]({{< ref "/f11/language/cs.md" >}}) | 3899 | 4169 | 93.5 | /mnt/stockage/packages/f11/initscripts/po/cs.po | 
- | [mai]({{< ref "/f11/language/mai.md" >}}) | 3728 | 4169 | 89.4 | /mnt/stockage/packages/f11/initscripts/po/mai.po | 
- | [nb_NO]({{< ref "/f11/language/nb_NO.md" >}}) | 3728 | 4169 | 89.4 | /mnt/stockage/packages/f11/initscripts/po/nb.po | 
- | [hr]({{< ref "/f11/language/hr.md" >}}) | 3276 | 4169 | 78.6 | /mnt/stockage/packages/f11/initscripts/po/hr.po | 
- | [bg]({{< ref "/f11/language/bg.md" >}}) | 3266 | 4169 | 78.3 | /mnt/stockage/packages/f11/initscripts/po/bg.po | 
- | [sl]({{< ref "/f11/language/sl.md" >}}) | 3266 | 4169 | 78.3 | /mnt/stockage/packages/f11/initscripts/po/sl.po | 
- | [el]({{< ref "/f11/language/el.md" >}}) | 3152 | 4169 | 75.6 | /mnt/stockage/packages/f11/initscripts/po/el.po | 
- | [uk]({{< ref "/f11/language/uk.md" >}}) | 2899 | 4169 | 69.5 | /mnt/stockage/packages/f11/initscripts/po/uk.po | 
- | [da]({{< ref "/f11/language/da.md" >}}) | 2884 | 4169 | 69.2 | /mnt/stockage/packages/f11/initscripts/po/da.po | 
- | [en_GB]({{< ref "/f11/language/en_GB.md" >}}) | 2884 | 4169 | 69.2 | /mnt/stockage/packages/f11/initscripts/po/en_GB.po | 
- | [mk]({{< ref "/f11/language/mk.md" >}}) | 2884 | 4169 | 69.2 | /mnt/stockage/packages/f11/initscripts/po/mk.po | 
- | [is]({{< ref "/f11/language/is.md" >}}) | 2789 | 4169 | 66.9 | /mnt/stockage/packages/f11/initscripts/po/is.po | 
- | [bs]({{< ref "/f11/language/bs.md" >}}) | 2624 | 4169 | 62.9 | /mnt/stockage/packages/f11/initscripts/po/bs.po | 
- | [lv]({{< ref "/f11/language/lv.md" >}}) | 2391 | 4169 | 57.4 | /mnt/stockage/packages/f11/initscripts/po/lv.po | 
- | [bn]({{< ref "/f11/language/bn.md" >}}) | 2297 | 4169 | 55.1 | /mnt/stockage/packages/f11/initscripts/po/bn.po | 
- | [cy]({{< ref "/f11/language/cy.md" >}}) | 2230 | 4169 | 53.5 | /mnt/stockage/packages/f11/initscripts/po/cy.po | 
- | [ro]({{< ref "/f11/language/ro.md" >}}) | 2218 | 4169 | 53.2 | /mnt/stockage/packages/f11/initscripts/po/ro.po | 
- | [ms]({{< ref "/f11/language/ms.md" >}}) | 2096 | 4169 | 50.3 | /mnt/stockage/packages/f11/initscripts/po/ms.po | 
- | [tr]({{< ref "/f11/language/tr.md" >}}) | 2030 | 4169 | 48.7 | /mnt/stockage/packages/f11/initscripts/po/tr.po | 
- | [et]({{< ref "/f11/language/et.md" >}}) | 1880 | 4169 | 45.1 | /mnt/stockage/packages/f11/initscripts/po/et.po | 
- | [id]({{< ref "/f11/language/id.md" >}}) | 1835 | 4169 | 44.0 | /mnt/stockage/packages/f11/initscripts/po/id.po | 
- | [ar]({{< ref "/f11/language/ar.md" >}}) | 1803 | 4169 | 43.2 | /mnt/stockage/packages/f11/initscripts/po/ar.po | 
- | [lt]({{< ref "/f11/language/lt.md" >}}) | 1136 | 4169 | 27.2 | /mnt/stockage/packages/f11/initscripts/po/lt.po | 
- | [vi]({{< ref "/f11/language/vi.md" >}}) | 1115 | 4169 | 26.7 | /mnt/stockage/packages/f11/initscripts/po/vi.po | 
- | [gl]({{< ref "/f11/language/gl.md" >}}) | 744 | 4169 | 17.8 | /mnt/stockage/packages/f11/initscripts/po/gl.po | 
- | [ka]({{< ref "/f11/language/ka.md" >}}) | 210 | 4169 | 5.0 | /mnt/stockage/packages/f11/initscripts/po/ka.po | 
- | [nn]({{< ref "/f11/language/nn.md" >}}) | 45 | 4169 | 1.1 | /mnt/stockage/packages/f11/initscripts/po/nn.po | 
- | [eu]({{< ref "/f11/language/eu.md" >}}) | 0 | 4169 | 0.0 | /mnt/stockage/packages/f11/initscripts/po/eu_ES.po | 
- | [he]({{< ref "/f11/language/he.md" >}}) | 0 | 4169 | 0.0 | /mnt/stockage/packages/f11/initscripts/po/he.po | 
- | [hy]({{< ref "/f11/language/hy.md" >}}) | 0 | 4169 | 0.0 | /mnt/stockage/packages/f11/initscripts/po/hy.po | 
- | [ku]({{< ref "/f11/language/ku.md" >}}) | 0 | 4169 | 0.0 | /mnt/stockage/packages/f11/initscripts/po/ku.po | 
- | [lo]({{< ref "/f11/language/lo.md" >}}) | 0 | 4169 | 0.0 | /mnt/stockage/packages/f11/initscripts/po/lo.po | 
- | [my]({{< ref "/f11/language/my.md" >}}) | 0 | 4169 | 0.0 | /mnt/stockage/packages/f11/initscripts/po/my.po | 
- | [si]({{< ref "/f11/language/si.md" >}}) | 0 | 4169 | 0.0 | /mnt/stockage/packages/f11/initscripts/po/si.po | 
- | [sq]({{< ref "/f11/language/sq.md" >}}) | 0 | 4169 | 0.0 | /mnt/stockage/packages/f11/initscripts/po/sq.po | 
- | [ur]({{< ref "/f11/language/ur.md" >}}) | 0 | 4169 | 0.0 | /mnt/stockage/packages/f11/initscripts/po/ur.po | 
- | [wa]({{< ref "/f11/language/wa.md" >}}) | 0 | 4169 | 0.0 | /mnt/stockage/packages/f11/initscripts/po/wa.po | 
+ | [as](/f11/language/as) | 4169 | 4169 | 100.0 | /mnt/stockage/packages/f11/initscripts/po/as.po | 
+ | [bn_IN](/f11/language/bn_IN) | 4169 | 4169 | 100.0 | /mnt/stockage/packages/f11/initscripts/po/bn_IN.po | 
+ | [de](/f11/language/de) | 4169 | 4169 | 100.0 | /mnt/stockage/packages/f11/initscripts/po/de.po | 
+ | [es](/f11/language/es) | 4169 | 4169 | 100.0 | /mnt/stockage/packages/f11/initscripts/po/es.po | 
+ | [fr](/f11/language/fr) | 4169 | 4169 | 100.0 | /mnt/stockage/packages/f11/initscripts/po/fr.po | 
+ | [gu](/f11/language/gu) | 4169 | 4169 | 100.0 | /mnt/stockage/packages/f11/initscripts/po/gu.po | 
+ | [hi](/f11/language/hi) | 4169 | 4169 | 100.0 | /mnt/stockage/packages/f11/initscripts/po/hi.po | 
+ | [hu](/f11/language/hu) | 4169 | 4169 | 100.0 | /mnt/stockage/packages/f11/initscripts/po/hu.po | 
+ | [it](/f11/language/it) | 4169 | 4169 | 100.0 | /mnt/stockage/packages/f11/initscripts/po/it.po | 
+ | [ja](/f11/language/ja) | 4169 | 4169 | 100.0 | /mnt/stockage/packages/f11/initscripts/po/ja.po | 
+ | [kn](/f11/language/kn) | 4169 | 4169 | 100.0 | /mnt/stockage/packages/f11/initscripts/po/kn.po | 
+ | [ko](/f11/language/ko) | 4169 | 4169 | 100.0 | /mnt/stockage/packages/f11/initscripts/po/ko.po | 
+ | [ml](/f11/language/ml) | 4169 | 4169 | 100.0 | /mnt/stockage/packages/f11/initscripts/po/ml.po | 
+ | [mr](/f11/language/mr) | 4169 | 4169 | 100.0 | /mnt/stockage/packages/f11/initscripts/po/mr.po | 
+ | [nl](/f11/language/nl) | 4169 | 4169 | 100.0 | /mnt/stockage/packages/f11/initscripts/po/nl.po | 
+ | [or](/f11/language/or) | 4169 | 4169 | 100.0 | /mnt/stockage/packages/f11/initscripts/po/or.po | 
+ | [pa](/f11/language/pa) | 4169 | 4169 | 100.0 | /mnt/stockage/packages/f11/initscripts/po/pa.po | 
+ | [pl](/f11/language/pl) | 4169 | 4169 | 100.0 | /mnt/stockage/packages/f11/initscripts/po/pl.po | 
+ | [pt](/f11/language/pt) | 4169 | 4169 | 100.0 | /mnt/stockage/packages/f11/initscripts/po/pt.po | 
+ | [pt_BR](/f11/language/pt_BR) | 4169 | 4169 | 100.0 | /mnt/stockage/packages/f11/initscripts/po/pt_BR.po | 
+ | [ru](/f11/language/ru) | 4168 | 4168 | 100.0 | /mnt/stockage/packages/f11/initscripts/po/ru.po | 
+ | [sk](/f11/language/sk) | 4169 | 4169 | 100.0 | /mnt/stockage/packages/f11/initscripts/po/sk.po | 
+ | [sr](/f11/language/sr) | 4169 | 4169 | 100.0 | /mnt/stockage/packages/f11/initscripts/po/sr.po | 
+ | [sr_Latn](/f11/language/sr_Latn) | 4169 | 4169 | 100.0 | /mnt/stockage/packages/f11/initscripts/po/sr@latin.po | 
+ | [sv](/f11/language/sv) | 4169 | 4169 | 100.0 | /mnt/stockage/packages/f11/initscripts/po/sv.po | 
+ | [ta](/f11/language/ta) | 4169 | 4169 | 100.0 | /mnt/stockage/packages/f11/initscripts/po/ta.po | 
+ | [te](/f11/language/te) | 4169 | 4169 | 100.0 | /mnt/stockage/packages/f11/initscripts/po/te.po | 
+ | [zh_Hans](/f11/language/zh_Hans) | 4169 | 4169 | 100.0 | /mnt/stockage/packages/f11/initscripts/po/zh_CN.po | 
+ | [zh_Hant](/f11/language/zh_Hant) | 4169 | 4169 | 100.0 | /mnt/stockage/packages/f11/initscripts/po/zh_TW.po | 
+ | [ca](/f11/language/ca) | 4159 | 4169 | 99.8 | /mnt/stockage/packages/f11/initscripts/po/ca.po | 
+ | [fi](/f11/language/fi) | 4041 | 4169 | 96.9 | /mnt/stockage/packages/f11/initscripts/po/fi.po | 
+ | [cs](/f11/language/cs) | 3899 | 4169 | 93.5 | /mnt/stockage/packages/f11/initscripts/po/cs.po | 
+ | [mai](/f11/language/mai) | 3728 | 4169 | 89.4 | /mnt/stockage/packages/f11/initscripts/po/mai.po | 
+ | [nb_NO](/f11/language/nb_NO) | 3728 | 4169 | 89.4 | /mnt/stockage/packages/f11/initscripts/po/nb.po | 
+ | [hr](/f11/language/hr) | 3276 | 4169 | 78.6 | /mnt/stockage/packages/f11/initscripts/po/hr.po | 
+ | [bg](/f11/language/bg) | 3266 | 4169 | 78.3 | /mnt/stockage/packages/f11/initscripts/po/bg.po | 
+ | [sl](/f11/language/sl) | 3266 | 4169 | 78.3 | /mnt/stockage/packages/f11/initscripts/po/sl.po | 
+ | [el](/f11/language/el) | 3152 | 4169 | 75.6 | /mnt/stockage/packages/f11/initscripts/po/el.po | 
+ | [uk](/f11/language/uk) | 2899 | 4169 | 69.5 | /mnt/stockage/packages/f11/initscripts/po/uk.po | 
+ | [da](/f11/language/da) | 2884 | 4169 | 69.2 | /mnt/stockage/packages/f11/initscripts/po/da.po | 
+ | [en_GB](/f11/language/en_GB) | 2884 | 4169 | 69.2 | /mnt/stockage/packages/f11/initscripts/po/en_GB.po | 
+ | [mk](/f11/language/mk) | 2884 | 4169 | 69.2 | /mnt/stockage/packages/f11/initscripts/po/mk.po | 
+ | [is](/f11/language/is) | 2789 | 4169 | 66.9 | /mnt/stockage/packages/f11/initscripts/po/is.po | 
+ | [bs](/f11/language/bs) | 2624 | 4169 | 62.9 | /mnt/stockage/packages/f11/initscripts/po/bs.po | 
+ | [lv](/f11/language/lv) | 2391 | 4169 | 57.4 | /mnt/stockage/packages/f11/initscripts/po/lv.po | 
+ | [bn](/f11/language/bn) | 2297 | 4169 | 55.1 | /mnt/stockage/packages/f11/initscripts/po/bn.po | 
+ | [cy](/f11/language/cy) | 2230 | 4169 | 53.5 | /mnt/stockage/packages/f11/initscripts/po/cy.po | 
+ | [ro](/f11/language/ro) | 2218 | 4169 | 53.2 | /mnt/stockage/packages/f11/initscripts/po/ro.po | 
+ | [ms](/f11/language/ms) | 2096 | 4169 | 50.3 | /mnt/stockage/packages/f11/initscripts/po/ms.po | 
+ | [tr](/f11/language/tr) | 2030 | 4169 | 48.7 | /mnt/stockage/packages/f11/initscripts/po/tr.po | 
+ | [et](/f11/language/et) | 1880 | 4169 | 45.1 | /mnt/stockage/packages/f11/initscripts/po/et.po | 
+ | [id](/f11/language/id) | 1835 | 4169 | 44.0 | /mnt/stockage/packages/f11/initscripts/po/id.po | 
+ | [ar](/f11/language/ar) | 1803 | 4169 | 43.2 | /mnt/stockage/packages/f11/initscripts/po/ar.po | 
+ | [lt](/f11/language/lt) | 1136 | 4169 | 27.2 | /mnt/stockage/packages/f11/initscripts/po/lt.po | 
+ | [vi](/f11/language/vi) | 1115 | 4169 | 26.7 | /mnt/stockage/packages/f11/initscripts/po/vi.po | 
+ | [gl](/f11/language/gl) | 744 | 4169 | 17.8 | /mnt/stockage/packages/f11/initscripts/po/gl.po | 
+ | [ka](/f11/language/ka) | 210 | 4169 | 5.0 | /mnt/stockage/packages/f11/initscripts/po/ka.po | 
+ | [nn](/f11/language/nn) | 45 | 4169 | 1.1 | /mnt/stockage/packages/f11/initscripts/po/nn.po | 
+ | [eu](/f11/language/eu) | 0 | 4169 | 0.0 | /mnt/stockage/packages/f11/initscripts/po/eu_ES.po | 
+ | [he](/f11/language/he) | 0 | 4169 | 0.0 | /mnt/stockage/packages/f11/initscripts/po/he.po | 
+ | [hy](/f11/language/hy) | 0 | 4169 | 0.0 | /mnt/stockage/packages/f11/initscripts/po/hy.po | 
+ | [ku](/f11/language/ku) | 0 | 4169 | 0.0 | /mnt/stockage/packages/f11/initscripts/po/ku.po | 
+ | [lo](/f11/language/lo) | 0 | 4169 | 0.0 | /mnt/stockage/packages/f11/initscripts/po/lo.po | 
+ | [my](/f11/language/my) | 0 | 4169 | 0.0 | /mnt/stockage/packages/f11/initscripts/po/my.po | 
+ | [si](/f11/language/si) | 0 | 4169 | 0.0 | /mnt/stockage/packages/f11/initscripts/po/si.po | 
+ | [sq](/f11/language/sq) | 0 | 4169 | 0.0 | /mnt/stockage/packages/f11/initscripts/po/sq.po | 
+ | [ur](/f11/language/ur) | 0 | 4169 | 0.0 | /mnt/stockage/packages/f11/initscripts/po/ur.po | 
+ | [wa](/f11/language/wa) | 0 | 4169 | 0.0 | /mnt/stockage/packages/f11/initscripts/po/wa.po | 
 {.sortable}
 
 

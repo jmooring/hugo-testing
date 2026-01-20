@@ -18,10 +18,10 @@ The package mingw-spice-gtk (version 0.37):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f33/language/cs.md" >}}) | 336 | 336 | 100.0 | /mnt/stockage/packages/f33/mingw-spice-gtk/po/cs.po | 
- | [de]({{< ref "/f33/language/de.md" >}}) | 265 | 336 | 78.9 | /mnt/stockage/packages/f33/mingw-spice-gtk/po/de.po | 
- | [it]({{< ref "/f33/language/it.md" >}}) | 248 | 336 | 73.8 | /mnt/stockage/packages/f33/mingw-spice-gtk/po/it.po | 
- | [fr]({{< ref "/f33/language/fr.md" >}}) | 2 | 336 | 0.6 | /mnt/stockage/packages/f33/mingw-spice-gtk/po/fr.po | 
+ | [cs](/f33/language/cs) | 336 | 336 | 100.0 | /mnt/stockage/packages/f33/mingw-spice-gtk/po/cs.po | 
+ | [de](/f33/language/de) | 265 | 336 | 78.9 | /mnt/stockage/packages/f33/mingw-spice-gtk/po/de.po | 
+ | [it](/f33/language/it) | 248 | 336 | 73.8 | /mnt/stockage/packages/f33/mingw-spice-gtk/po/it.po | 
+ | [fr](/f33/language/fr) | 2 | 336 | 0.6 | /mnt/stockage/packages/f33/mingw-spice-gtk/po/fr.po | 
 {.sortable}
 
 

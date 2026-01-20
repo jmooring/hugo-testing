@@ -38,7 +38,7 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [liblicense]({{< ref "/f10/package/liblicense.md" >}}) | 45 | 66 | 68.2 | LANGUAGE <LL@li.org> | 
+ | [liblicense](/f10/package/liblicense) | 45 | 66 | 68.2 | LANGUAGE <LL@li.org> | 
 {.sortable}
 
 

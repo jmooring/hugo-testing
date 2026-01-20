@@ -18,94 +18,94 @@ The package mate-calc (version 1.5.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [as]({{< ref "/f17/language/as.md" >}}) | 1404 | 1404 | 100.0 | /mnt/stockage/packages/f17/mate-calc/po/as.po | 
- | [ast]({{< ref "/f17/language/ast.md" >}}) | 1399 | 1399 | 100.0 | /mnt/stockage/packages/f17/mate-calc/po/ast.po | 
- | [bn]({{< ref "/f17/language/bn.md" >}}) | 1327 | 1327 | 100.0 | /mnt/stockage/packages/f17/mate-calc/po/bn.po | 
- | [ca]({{< ref "/f17/language/ca.md" >}}) | 2979 | 2979 | 100.0 | /mnt/stockage/packages/f17/mate-calc/help/ca/ca.po/mnt/stockage/packages/f17/mate-calc/po/ca.po | 
- | [ca@valencia]({{< ref "/f17/language/ca@valencia.md" >}}) | 1404 | 1404 | 100.0 | /mnt/stockage/packages/f17/mate-calc/po/ca@valencia.po | 
- | [cs]({{< ref "/f17/language/cs.md" >}}) | 2983 | 2983 | 100.0 | /mnt/stockage/packages/f17/mate-calc/help/cs/cs.po/mnt/stockage/packages/f17/mate-calc/po/cs.po | 
- | [cy]({{< ref "/f17/language/cy.md" >}}) | 895 | 895 | 100.0 | /mnt/stockage/packages/f17/mate-calc/po/cy.po | 
- | [da]({{< ref "/f17/language/da.md" >}}) | 1404 | 1404 | 100.0 | /mnt/stockage/packages/f17/mate-calc/po/da.po | 
- | [de]({{< ref "/f17/language/de.md" >}}) | 3020 | 3020 | 100.0 | /mnt/stockage/packages/f17/mate-calc/help/de/de.po/mnt/stockage/packages/f17/mate-calc/po/de.po | 
- | [dz]({{< ref "/f17/language/dz.md" >}}) | 1175 | 1175 | 100.0 | /mnt/stockage/packages/f17/mate-calc/po/dz.po | 
- | [el]({{< ref "/f17/language/el.md" >}}) | 3020 | 3020 | 100.0 | /mnt/stockage/packages/f17/mate-calc/help/el/el.po/mnt/stockage/packages/f17/mate-calc/po/el.po | 
- | [en_CA]({{< ref "/f17/language/en_CA.md" >}}) | 1399 | 1399 | 100.0 | /mnt/stockage/packages/f17/mate-calc/po/en_CA.po | 
- | [en_GB]({{< ref "/f17/language/en_GB.md" >}}) | 1404 | 1404 | 100.0 | /mnt/stockage/packages/f17/mate-calc/po/en_GB.po | 
- | [es]({{< ref "/f17/language/es.md" >}}) | 3020 | 3020 | 100.0 | /mnt/stockage/packages/f17/mate-calc/help/es/es.po/mnt/stockage/packages/f17/mate-calc/po/es.po | 
- | [et]({{< ref "/f17/language/et.md" >}}) | 1404 | 1404 | 100.0 | /mnt/stockage/packages/f17/mate-calc/po/et.po | 
- | [eu]({{< ref "/f17/language/eu.md" >}}) | 7410 | 7410 | 100.0 | /mnt/stockage/packages/f17/mate-calc/help/eu/eu.po/mnt/stockage/packages/f17/mate-calc/po/eu.po | 
- | [fr]({{< ref "/f17/language/fr.md" >}}) | 3020 | 3020 | 100.0 | /mnt/stockage/packages/f17/mate-calc/help/fr/fr.po/mnt/stockage/packages/f17/mate-calc/po/fr.po | 
- | [gu]({{< ref "/f17/language/gu.md" >}}) | 1404 | 1404 | 100.0 | /mnt/stockage/packages/f17/mate-calc/po/gu.po | 
- | [he]({{< ref "/f17/language/he.md" >}}) | 1404 | 1404 | 100.0 | /mnt/stockage/packages/f17/mate-calc/po/he.po | 
- | [hi]({{< ref "/f17/language/hi.md" >}}) | 1399 | 1399 | 100.0 | /mnt/stockage/packages/f17/mate-calc/po/hi.po | 
- | [hu]({{< ref "/f17/language/hu.md" >}}) | 3015 | 3015 | 100.0 | /mnt/stockage/packages/f17/mate-calc/help/hu/hu.po/mnt/stockage/packages/f17/mate-calc/po/hu.po | 
- | [id]({{< ref "/f17/language/id.md" >}}) | 1404 | 1404 | 100.0 | /mnt/stockage/packages/f17/mate-calc/po/id.po | 
- | [ka]({{< ref "/f17/language/ka.md" >}}) | 1044 | 1044 | 100.0 | /mnt/stockage/packages/f17/mate-calc/po/ka.po | 
- | [km]({{< ref "/f17/language/km.md" >}}) | 1399 | 1399 | 100.0 | /mnt/stockage/packages/f17/mate-calc/po/km.po | 
- | [ko]({{< ref "/f17/language/ko.md" >}}) | 7895 | 7895 | 100.0 | /mnt/stockage/packages/f17/mate-calc/help/ko/ko.po/mnt/stockage/packages/f17/mate-calc/po/ko.po | 
- | [lt]({{< ref "/f17/language/lt.md" >}}) | 1404 | 1404 | 100.0 | /mnt/stockage/packages/f17/mate-calc/po/lt.po | 
- | [lv]({{< ref "/f17/language/lv.md" >}}) | 3020 | 3020 | 100.0 | /mnt/stockage/packages/f17/mate-calc/help/lv/lv.po/mnt/stockage/packages/f17/mate-calc/po/lv.po | 
- | [mk]({{< ref "/f17/language/mk.md" >}}) | 1399 | 1399 | 100.0 | /mnt/stockage/packages/f17/mate-calc/po/mk.po | 
- | [ml]({{< ref "/f17/language/ml.md" >}}) | 1388 | 1388 | 100.0 | /mnt/stockage/packages/f17/mate-calc/po/ml.po | 
- | [mr]({{< ref "/f17/language/mr.md" >}}) | 1404 | 1404 | 100.0 | /mnt/stockage/packages/f17/mate-calc/po/mr.po | 
- | [ne]({{< ref "/f17/language/ne.md" >}}) | 1049 | 1049 | 100.0 | /mnt/stockage/packages/f17/mate-calc/po/ne.po | 
- | [nl]({{< ref "/f17/language/nl.md" >}}) | 1399 | 1399 | 100.0 | /mnt/stockage/packages/f17/mate-calc/po/nl.po | 
- | [pa]({{< ref "/f17/language/pa.md" >}}) | 1404 | 1404 | 100.0 | /mnt/stockage/packages/f17/mate-calc/po/pa.po | 
- | [pl]({{< ref "/f17/language/pl.md" >}}) | 1404 | 1404 | 100.0 | /mnt/stockage/packages/f17/mate-calc/po/pl.po | 
- | [pt]({{< ref "/f17/language/pt.md" >}}) | 1399 | 1399 | 100.0 | /mnt/stockage/packages/f17/mate-calc/po/pt.po | 
- | [pt_BR]({{< ref "/f17/language/pt_BR.md" >}}) | 6993 | 6993 | 100.0 | /mnt/stockage/packages/f17/mate-calc/help/pt_BR/pt_BR.po/mnt/stockage/packages/f17/mate-calc/po/pt_BR.po | 
- | [sl]({{< ref "/f17/language/sl.md" >}}) | 3020 | 3020 | 100.0 | /mnt/stockage/packages/f17/mate-calc/help/sl/sl.po/mnt/stockage/packages/f17/mate-calc/po/sl.po | 
- | [sq]({{< ref "/f17/language/sq.md" >}}) | 1128 | 1128 | 100.0 | /mnt/stockage/packages/f17/mate-calc/po/sq.po | 
- | [sr]({{< ref "/f17/language/sr.md" >}}) | 2808 | 2808 | 100.0 | /mnt/stockage/packages/f17/mate-calc/po/sr@latin.po/mnt/stockage/packages/f17/mate-calc/po/sr.po | 
- | [ta]({{< ref "/f17/language/ta.md" >}}) | 1399 | 1399 | 100.0 | /mnt/stockage/packages/f17/mate-calc/po/ta.po | 
- | [th]({{< ref "/f17/language/th.md" >}}) | 1404 | 1404 | 100.0 | /mnt/stockage/packages/f17/mate-calc/po/th.po | 
- | [tr]({{< ref "/f17/language/tr.md" >}}) | 1399 | 1399 | 100.0 | /mnt/stockage/packages/f17/mate-calc/po/tr.po | 
- | [uk]({{< ref "/f17/language/uk.md" >}}) | 1399 | 1399 | 100.0 | /mnt/stockage/packages/f17/mate-calc/po/uk.po | 
- | [zh_Hans]({{< ref "/f17/language/zh_Hans.md" >}}) | 2979 | 2979 | 100.0 | /mnt/stockage/packages/f17/mate-calc/help/zh_CN/zh_CN.po/mnt/stockage/packages/f17/mate-calc/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f17/language/zh_Hant.md" >}}) | 2978 | 2978 | 100.0 | /mnt/stockage/packages/f17/mate-calc/help/zh_TW/zh_TW.po/mnt/stockage/packages/f17/mate-calc/po/zh_TW.po | 
- | [zh_Hant_HK]({{< ref "/f17/language/zh_Hant_HK.md" >}}) | 2978 | 2978 | 100.0 | /mnt/stockage/packages/f17/mate-calc/help/zh_HK/zh_HK.po/mnt/stockage/packages/f17/mate-calc/po/zh_HK.po | 
- | [sk]({{< ref "/f17/language/sk.md" >}}) | 1396 | 1399 | 99.8 | /mnt/stockage/packages/f17/mate-calc/po/sk.po | 
- | [mg]({{< ref "/f17/language/mg.md" >}}) | 992 | 1015 | 97.7 | /mnt/stockage/packages/f17/mate-calc/po/mg.po | 
- | [en_US]({{< ref "/f17/language/en_US.md" >}}) | 2241 | 2314 | 96.8 | /mnt/stockage/packages/f17/mate-calc/po/en_US.po/mnt/stockage/packages/f17/mate-calc/po/kn.po | 
- | [bg]({{< ref "/f17/language/bg.md" >}}) | 6958 | 7185 | 96.8 | /mnt/stockage/packages/f17/mate-calc/help/bg/bg.po/mnt/stockage/packages/f17/mate-calc/po/bg.po | 
- | [eo]({{< ref "/f17/language/eo.md" >}}) | 1345 | 1399 | 96.1 | /mnt/stockage/packages/f17/mate-calc/po/eo.po | 
- | [xh]({{< ref "/f17/language/xh.md" >}}) | 851 | 915 | 93.0 | /mnt/stockage/packages/f17/mate-calc/po/xh.po | 
- | [or]({{< ref "/f17/language/or.md" >}}) | 1258 | 1383 | 91.0 | /mnt/stockage/packages/f17/mate-calc/po/or.po | 
- | [error]({{< ref "/f17/language/error.md" >}}) | 1172 | 1301 | 90.1 | /mnt/stockage/packages/f17/mate-calc/po/en@shaw.po | 
- | [fi]({{< ref "/f17/language/fi.md" >}}) | 2659 | 3019 | 88.1 | /mnt/stockage/packages/f17/mate-calc/help/fi/fi.po/mnt/stockage/packages/f17/mate-calc/po/fi.po | 
- | [ro]({{< ref "/f17/language/ro.md" >}}) | 2620 | 2995 | 87.5 | /mnt/stockage/packages/f17/mate-calc/help/ro/ro.po/mnt/stockage/packages/f17/mate-calc/po/ro.po | 
- | [ms]({{< ref "/f17/language/ms.md" >}}) | 768 | 915 | 83.9 | /mnt/stockage/packages/f17/mate-calc/po/ms.po | 
- | [it]({{< ref "/f17/language/it.md" >}}) | 2421 | 2979 | 81.3 | /mnt/stockage/packages/f17/mate-calc/help/it/it.po/mnt/stockage/packages/f17/mate-calc/po/it.po | 
- | [fa]({{< ref "/f17/language/fa.md" >}}) | 1096 | 1397 | 78.5 | /mnt/stockage/packages/f17/mate-calc/po/fa.po | 
- | [nb_NO]({{< ref "/f17/language/nb_NO.md" >}}) | 1094 | 1400 | 78.1 | /mnt/stockage/packages/f17/mate-calc/po/nb.po | 
- | [vi]({{< ref "/f17/language/vi.md" >}}) | 1078 | 1399 | 77.1 | /mnt/stockage/packages/f17/mate-calc/po/vi.po | 
- | [bn_IN]({{< ref "/f17/language/bn_IN.md" >}}) | 1008 | 1327 | 76.0 | /mnt/stockage/packages/f17/mate-calc/po/bn_IN.po | 
- | [af]({{< ref "/f17/language/af.md" >}}) | 1044 | 1379 | 75.7 | /mnt/stockage/packages/f17/mate-calc/po/af.po | 
- | [gl]({{< ref "/f17/language/gl.md" >}}) | 2235 | 2983 | 74.9 | /mnt/stockage/packages/f17/mate-calc/help/gl/gl.po/mnt/stockage/packages/f17/mate-calc/po/gl.po | 
- | [be]({{< ref "/f17/language/be.md" >}}) | 1045 | 1404 | 74.4 | /mnt/stockage/packages/f17/mate-calc/po/be.po | 
- | [ug]({{< ref "/f17/language/ug.md" >}}) | 1003 | 1404 | 71.4 | /mnt/stockage/packages/f17/mate-calc/po/ug.po | 
- | [nn]({{< ref "/f17/language/nn.md" >}}) | 770 | 1318 | 58.4 | /mnt/stockage/packages/f17/mate-calc/po/nn.po | 
- | [bs]({{< ref "/f17/language/bs.md" >}}) | 503 | 915 | 55.0 | /mnt/stockage/packages/f17/mate-calc/po/bs.po | 
- | [si]({{< ref "/f17/language/si.md" >}}) | 853 | 1692 | 50.4 | /mnt/stockage/packages/f17/mate-calc/po/si.po | 
- | [te]({{< ref "/f17/language/te.md" >}}) | 1510 | 3019 | 50.0 | /mnt/stockage/packages/f17/mate-calc/help/te/te.po/mnt/stockage/packages/f17/mate-calc/po/te.po | 
- | [be_Latn]({{< ref "/f17/language/be_Latn.md" >}}) | 564 | 1175 | 48.0 | /mnt/stockage/packages/f17/mate-calc/po/be@latin.po | 
- | [ja]({{< ref "/f17/language/ja.md" >}}) | 1326 | 2978 | 44.5 | /mnt/stockage/packages/f17/mate-calc/help/ja/ja.po/mnt/stockage/packages/f17/mate-calc/po/ja.po | 
- | [az]({{< ref "/f17/language/az.md" >}}) | 392 | 915 | 42.8 | /mnt/stockage/packages/f17/mate-calc/po/az.po | 
- | [mn]({{< ref "/f17/language/mn.md" >}}) | 392 | 915 | 42.8 | /mnt/stockage/packages/f17/mate-calc/po/mn.po | 
- | [ar]({{< ref "/f17/language/ar.md" >}}) | 565 | 1384 | 40.8 | /mnt/stockage/packages/f17/mate-calc/po/ar.po | 
- | [mai]({{< ref "/f17/language/mai.md" >}}) | 536 | 1365 | 39.3 | /mnt/stockage/packages/f17/mate-calc/po/mai.po | 
- | [hr]({{< ref "/f17/language/hr.md" >}}) | 442 | 1128 | 39.2 | /mnt/stockage/packages/f17/mate-calc/po/hr.po | 
- | [ru]({{< ref "/f17/language/ru.md" >}}) | 2703 | 7895 | 34.2 | /mnt/stockage/packages/f17/mate-calc/help/ru/ru.po/mnt/stockage/packages/f17/mate-calc/po/ru.po | 
- | [tk]({{< ref "/f17/language/tk.md" >}}) | 294 | 915 | 32.1 | /mnt/stockage/packages/f17/mate-calc/po/tk.po | 
- | [hy]({{< ref "/f17/language/hy.md" >}}) | 361 | 1128 | 32.0 | /mnt/stockage/packages/f17/mate-calc/po/hy.po | 
- | [sv]({{< ref "/f17/language/sv.md" >}}) | 2491 | 7928 | 31.4 | /mnt/stockage/packages/f17/mate-calc/help/sv/sv.po/mnt/stockage/packages/f17/mate-calc/po/sv.po | 
- | [my]({{< ref "/f17/language/my.md" >}}) | 352 | 1141 | 30.9 | /mnt/stockage/packages/f17/mate-calc/po/my.po | 
- | [ga]({{< ref "/f17/language/ga.md" >}}) | 392 | 1677 | 23.4 | /mnt/stockage/packages/f17/mate-calc/po/ga.po | 
- | [kk]({{< ref "/f17/language/kk.md" >}}) | 224 | 1128 | 19.9 | /mnt/stockage/packages/f17/mate-calc/po/kk.po | 
- | [ku]({{< ref "/f17/language/ku.md" >}}) | 117 | 895 | 13.1 | /mnt/stockage/packages/f17/mate-calc/po/ku.po | 
- | [am]({{< ref "/f17/language/am.md" >}}) | 78 | 915 | 8.5 | /mnt/stockage/packages/f17/mate-calc/po/am.po | 
- | [oc]({{< ref "/f17/language/oc.md" >}}) | 624 | 7666 | 8.1 | /mnt/stockage/packages/f17/mate-calc/help/oc/oc.po/mnt/stockage/packages/f17/mate-calc/po/oc.po | 
- | [rw]({{< ref "/f17/language/rw.md" >}}) | 53 | 915 | 5.8 | /mnt/stockage/packages/f17/mate-calc/po/rw.po | 
+ | [as](/f17/language/as) | 1404 | 1404 | 100.0 | /mnt/stockage/packages/f17/mate-calc/po/as.po | 
+ | [ast](/f17/language/ast) | 1399 | 1399 | 100.0 | /mnt/stockage/packages/f17/mate-calc/po/ast.po | 
+ | [bn](/f17/language/bn) | 1327 | 1327 | 100.0 | /mnt/stockage/packages/f17/mate-calc/po/bn.po | 
+ | [ca](/f17/language/ca) | 2979 | 2979 | 100.0 | /mnt/stockage/packages/f17/mate-calc/help/ca/ca.po/mnt/stockage/packages/f17/mate-calc/po/ca.po | 
+ | [ca@valencia](/f17/language/ca@valencia) | 1404 | 1404 | 100.0 | /mnt/stockage/packages/f17/mate-calc/po/ca@valencia.po | 
+ | [cs](/f17/language/cs) | 2983 | 2983 | 100.0 | /mnt/stockage/packages/f17/mate-calc/help/cs/cs.po/mnt/stockage/packages/f17/mate-calc/po/cs.po | 
+ | [cy](/f17/language/cy) | 895 | 895 | 100.0 | /mnt/stockage/packages/f17/mate-calc/po/cy.po | 
+ | [da](/f17/language/da) | 1404 | 1404 | 100.0 | /mnt/stockage/packages/f17/mate-calc/po/da.po | 
+ | [de](/f17/language/de) | 3020 | 3020 | 100.0 | /mnt/stockage/packages/f17/mate-calc/help/de/de.po/mnt/stockage/packages/f17/mate-calc/po/de.po | 
+ | [dz](/f17/language/dz) | 1175 | 1175 | 100.0 | /mnt/stockage/packages/f17/mate-calc/po/dz.po | 
+ | [el](/f17/language/el) | 3020 | 3020 | 100.0 | /mnt/stockage/packages/f17/mate-calc/help/el/el.po/mnt/stockage/packages/f17/mate-calc/po/el.po | 
+ | [en_CA](/f17/language/en_CA) | 1399 | 1399 | 100.0 | /mnt/stockage/packages/f17/mate-calc/po/en_CA.po | 
+ | [en_GB](/f17/language/en_GB) | 1404 | 1404 | 100.0 | /mnt/stockage/packages/f17/mate-calc/po/en_GB.po | 
+ | [es](/f17/language/es) | 3020 | 3020 | 100.0 | /mnt/stockage/packages/f17/mate-calc/help/es/es.po/mnt/stockage/packages/f17/mate-calc/po/es.po | 
+ | [et](/f17/language/et) | 1404 | 1404 | 100.0 | /mnt/stockage/packages/f17/mate-calc/po/et.po | 
+ | [eu](/f17/language/eu) | 7410 | 7410 | 100.0 | /mnt/stockage/packages/f17/mate-calc/help/eu/eu.po/mnt/stockage/packages/f17/mate-calc/po/eu.po | 
+ | [fr](/f17/language/fr) | 3020 | 3020 | 100.0 | /mnt/stockage/packages/f17/mate-calc/help/fr/fr.po/mnt/stockage/packages/f17/mate-calc/po/fr.po | 
+ | [gu](/f17/language/gu) | 1404 | 1404 | 100.0 | /mnt/stockage/packages/f17/mate-calc/po/gu.po | 
+ | [he](/f17/language/he) | 1404 | 1404 | 100.0 | /mnt/stockage/packages/f17/mate-calc/po/he.po | 
+ | [hi](/f17/language/hi) | 1399 | 1399 | 100.0 | /mnt/stockage/packages/f17/mate-calc/po/hi.po | 
+ | [hu](/f17/language/hu) | 3015 | 3015 | 100.0 | /mnt/stockage/packages/f17/mate-calc/help/hu/hu.po/mnt/stockage/packages/f17/mate-calc/po/hu.po | 
+ | [id](/f17/language/id) | 1404 | 1404 | 100.0 | /mnt/stockage/packages/f17/mate-calc/po/id.po | 
+ | [ka](/f17/language/ka) | 1044 | 1044 | 100.0 | /mnt/stockage/packages/f17/mate-calc/po/ka.po | 
+ | [km](/f17/language/km) | 1399 | 1399 | 100.0 | /mnt/stockage/packages/f17/mate-calc/po/km.po | 
+ | [ko](/f17/language/ko) | 7895 | 7895 | 100.0 | /mnt/stockage/packages/f17/mate-calc/help/ko/ko.po/mnt/stockage/packages/f17/mate-calc/po/ko.po | 
+ | [lt](/f17/language/lt) | 1404 | 1404 | 100.0 | /mnt/stockage/packages/f17/mate-calc/po/lt.po | 
+ | [lv](/f17/language/lv) | 3020 | 3020 | 100.0 | /mnt/stockage/packages/f17/mate-calc/help/lv/lv.po/mnt/stockage/packages/f17/mate-calc/po/lv.po | 
+ | [mk](/f17/language/mk) | 1399 | 1399 | 100.0 | /mnt/stockage/packages/f17/mate-calc/po/mk.po | 
+ | [ml](/f17/language/ml) | 1388 | 1388 | 100.0 | /mnt/stockage/packages/f17/mate-calc/po/ml.po | 
+ | [mr](/f17/language/mr) | 1404 | 1404 | 100.0 | /mnt/stockage/packages/f17/mate-calc/po/mr.po | 
+ | [ne](/f17/language/ne) | 1049 | 1049 | 100.0 | /mnt/stockage/packages/f17/mate-calc/po/ne.po | 
+ | [nl](/f17/language/nl) | 1399 | 1399 | 100.0 | /mnt/stockage/packages/f17/mate-calc/po/nl.po | 
+ | [pa](/f17/language/pa) | 1404 | 1404 | 100.0 | /mnt/stockage/packages/f17/mate-calc/po/pa.po | 
+ | [pl](/f17/language/pl) | 1404 | 1404 | 100.0 | /mnt/stockage/packages/f17/mate-calc/po/pl.po | 
+ | [pt](/f17/language/pt) | 1399 | 1399 | 100.0 | /mnt/stockage/packages/f17/mate-calc/po/pt.po | 
+ | [pt_BR](/f17/language/pt_BR) | 6993 | 6993 | 100.0 | /mnt/stockage/packages/f17/mate-calc/help/pt_BR/pt_BR.po/mnt/stockage/packages/f17/mate-calc/po/pt_BR.po | 
+ | [sl](/f17/language/sl) | 3020 | 3020 | 100.0 | /mnt/stockage/packages/f17/mate-calc/help/sl/sl.po/mnt/stockage/packages/f17/mate-calc/po/sl.po | 
+ | [sq](/f17/language/sq) | 1128 | 1128 | 100.0 | /mnt/stockage/packages/f17/mate-calc/po/sq.po | 
+ | [sr](/f17/language/sr) | 2808 | 2808 | 100.0 | /mnt/stockage/packages/f17/mate-calc/po/sr@latin.po/mnt/stockage/packages/f17/mate-calc/po/sr.po | 
+ | [ta](/f17/language/ta) | 1399 | 1399 | 100.0 | /mnt/stockage/packages/f17/mate-calc/po/ta.po | 
+ | [th](/f17/language/th) | 1404 | 1404 | 100.0 | /mnt/stockage/packages/f17/mate-calc/po/th.po | 
+ | [tr](/f17/language/tr) | 1399 | 1399 | 100.0 | /mnt/stockage/packages/f17/mate-calc/po/tr.po | 
+ | [uk](/f17/language/uk) | 1399 | 1399 | 100.0 | /mnt/stockage/packages/f17/mate-calc/po/uk.po | 
+ | [zh_Hans](/f17/language/zh_Hans) | 2979 | 2979 | 100.0 | /mnt/stockage/packages/f17/mate-calc/help/zh_CN/zh_CN.po/mnt/stockage/packages/f17/mate-calc/po/zh_CN.po | 
+ | [zh_Hant](/f17/language/zh_Hant) | 2978 | 2978 | 100.0 | /mnt/stockage/packages/f17/mate-calc/help/zh_TW/zh_TW.po/mnt/stockage/packages/f17/mate-calc/po/zh_TW.po | 
+ | [zh_Hant_HK](/f17/language/zh_Hant_HK) | 2978 | 2978 | 100.0 | /mnt/stockage/packages/f17/mate-calc/help/zh_HK/zh_HK.po/mnt/stockage/packages/f17/mate-calc/po/zh_HK.po | 
+ | [sk](/f17/language/sk) | 1396 | 1399 | 99.8 | /mnt/stockage/packages/f17/mate-calc/po/sk.po | 
+ | [mg](/f17/language/mg) | 992 | 1015 | 97.7 | /mnt/stockage/packages/f17/mate-calc/po/mg.po | 
+ | [en_US](/f17/language/en_US) | 2241 | 2314 | 96.8 | /mnt/stockage/packages/f17/mate-calc/po/en_US.po/mnt/stockage/packages/f17/mate-calc/po/kn.po | 
+ | [bg](/f17/language/bg) | 6958 | 7185 | 96.8 | /mnt/stockage/packages/f17/mate-calc/help/bg/bg.po/mnt/stockage/packages/f17/mate-calc/po/bg.po | 
+ | [eo](/f17/language/eo) | 1345 | 1399 | 96.1 | /mnt/stockage/packages/f17/mate-calc/po/eo.po | 
+ | [xh](/f17/language/xh) | 851 | 915 | 93.0 | /mnt/stockage/packages/f17/mate-calc/po/xh.po | 
+ | [or](/f17/language/or) | 1258 | 1383 | 91.0 | /mnt/stockage/packages/f17/mate-calc/po/or.po | 
+ | [error](/f17/language/error) | 1172 | 1301 | 90.1 | /mnt/stockage/packages/f17/mate-calc/po/en@shaw.po | 
+ | [fi](/f17/language/fi) | 2659 | 3019 | 88.1 | /mnt/stockage/packages/f17/mate-calc/help/fi/fi.po/mnt/stockage/packages/f17/mate-calc/po/fi.po | 
+ | [ro](/f17/language/ro) | 2620 | 2995 | 87.5 | /mnt/stockage/packages/f17/mate-calc/help/ro/ro.po/mnt/stockage/packages/f17/mate-calc/po/ro.po | 
+ | [ms](/f17/language/ms) | 768 | 915 | 83.9 | /mnt/stockage/packages/f17/mate-calc/po/ms.po | 
+ | [it](/f17/language/it) | 2421 | 2979 | 81.3 | /mnt/stockage/packages/f17/mate-calc/help/it/it.po/mnt/stockage/packages/f17/mate-calc/po/it.po | 
+ | [fa](/f17/language/fa) | 1096 | 1397 | 78.5 | /mnt/stockage/packages/f17/mate-calc/po/fa.po | 
+ | [nb_NO](/f17/language/nb_NO) | 1094 | 1400 | 78.1 | /mnt/stockage/packages/f17/mate-calc/po/nb.po | 
+ | [vi](/f17/language/vi) | 1078 | 1399 | 77.1 | /mnt/stockage/packages/f17/mate-calc/po/vi.po | 
+ | [bn_IN](/f17/language/bn_IN) | 1008 | 1327 | 76.0 | /mnt/stockage/packages/f17/mate-calc/po/bn_IN.po | 
+ | [af](/f17/language/af) | 1044 | 1379 | 75.7 | /mnt/stockage/packages/f17/mate-calc/po/af.po | 
+ | [gl](/f17/language/gl) | 2235 | 2983 | 74.9 | /mnt/stockage/packages/f17/mate-calc/help/gl/gl.po/mnt/stockage/packages/f17/mate-calc/po/gl.po | 
+ | [be](/f17/language/be) | 1045 | 1404 | 74.4 | /mnt/stockage/packages/f17/mate-calc/po/be.po | 
+ | [ug](/f17/language/ug) | 1003 | 1404 | 71.4 | /mnt/stockage/packages/f17/mate-calc/po/ug.po | 
+ | [nn](/f17/language/nn) | 770 | 1318 | 58.4 | /mnt/stockage/packages/f17/mate-calc/po/nn.po | 
+ | [bs](/f17/language/bs) | 503 | 915 | 55.0 | /mnt/stockage/packages/f17/mate-calc/po/bs.po | 
+ | [si](/f17/language/si) | 853 | 1692 | 50.4 | /mnt/stockage/packages/f17/mate-calc/po/si.po | 
+ | [te](/f17/language/te) | 1510 | 3019 | 50.0 | /mnt/stockage/packages/f17/mate-calc/help/te/te.po/mnt/stockage/packages/f17/mate-calc/po/te.po | 
+ | [be_Latn](/f17/language/be_Latn) | 564 | 1175 | 48.0 | /mnt/stockage/packages/f17/mate-calc/po/be@latin.po | 
+ | [ja](/f17/language/ja) | 1326 | 2978 | 44.5 | /mnt/stockage/packages/f17/mate-calc/help/ja/ja.po/mnt/stockage/packages/f17/mate-calc/po/ja.po | 
+ | [az](/f17/language/az) | 392 | 915 | 42.8 | /mnt/stockage/packages/f17/mate-calc/po/az.po | 
+ | [mn](/f17/language/mn) | 392 | 915 | 42.8 | /mnt/stockage/packages/f17/mate-calc/po/mn.po | 
+ | [ar](/f17/language/ar) | 565 | 1384 | 40.8 | /mnt/stockage/packages/f17/mate-calc/po/ar.po | 
+ | [mai](/f17/language/mai) | 536 | 1365 | 39.3 | /mnt/stockage/packages/f17/mate-calc/po/mai.po | 
+ | [hr](/f17/language/hr) | 442 | 1128 | 39.2 | /mnt/stockage/packages/f17/mate-calc/po/hr.po | 
+ | [ru](/f17/language/ru) | 2703 | 7895 | 34.2 | /mnt/stockage/packages/f17/mate-calc/help/ru/ru.po/mnt/stockage/packages/f17/mate-calc/po/ru.po | 
+ | [tk](/f17/language/tk) | 294 | 915 | 32.1 | /mnt/stockage/packages/f17/mate-calc/po/tk.po | 
+ | [hy](/f17/language/hy) | 361 | 1128 | 32.0 | /mnt/stockage/packages/f17/mate-calc/po/hy.po | 
+ | [sv](/f17/language/sv) | 2491 | 7928 | 31.4 | /mnt/stockage/packages/f17/mate-calc/help/sv/sv.po/mnt/stockage/packages/f17/mate-calc/po/sv.po | 
+ | [my](/f17/language/my) | 352 | 1141 | 30.9 | /mnt/stockage/packages/f17/mate-calc/po/my.po | 
+ | [ga](/f17/language/ga) | 392 | 1677 | 23.4 | /mnt/stockage/packages/f17/mate-calc/po/ga.po | 
+ | [kk](/f17/language/kk) | 224 | 1128 | 19.9 | /mnt/stockage/packages/f17/mate-calc/po/kk.po | 
+ | [ku](/f17/language/ku) | 117 | 895 | 13.1 | /mnt/stockage/packages/f17/mate-calc/po/ku.po | 
+ | [am](/f17/language/am) | 78 | 915 | 8.5 | /mnt/stockage/packages/f17/mate-calc/po/am.po | 
+ | [oc](/f17/language/oc) | 624 | 7666 | 8.1 | /mnt/stockage/packages/f17/mate-calc/help/oc/oc.po/mnt/stockage/packages/f17/mate-calc/po/oc.po | 
+ | [rw](/f17/language/rw) | 53 | 915 | 5.8 | /mnt/stockage/packages/f17/mate-calc/po/rw.po | 
 {.sortable}
 
 

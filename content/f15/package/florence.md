@@ -18,7 +18,7 @@ The package florence (version 0.5.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f15/language/fr.md" >}}) | 6398 | 6398 | 100.0 | /mnt/stockage/packages/f15/florence/docs/fr/fr.po/mnt/stockage/packages/f15/florence/po/fr.po | 
+ | [fr](/f15/language/fr) | 6398 | 6398 | 100.0 | /mnt/stockage/packages/f15/florence/docs/fr/fr.po/mnt/stockage/packages/f15/florence/po/fr.po | 
 {.sortable}
 
 

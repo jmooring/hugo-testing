@@ -39,10 +39,10 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [gnome-menus]({{< ref "/f19/package/gnome-menus.md" >}}) | 157 | 157 | 100.0 | Divehi <dv@li.org> | 
- | [mate-menus]({{< ref "/f19/package/mate-menus.md" >}}) | 157 | 157 | 100.0 | Divehi <dv@li.org> | 
- | [gnome-do]({{< ref "/f19/package/gnome-do.md" >}}) | 162 | 612 | 26.5 | Divehi <dv@li.org> | 
- | [stellarium]({{< ref "/f19/package/stellarium.md" >}}) | 17 | 11181 | 0.2 | Divehi <dv@li.org> | 
+ | [gnome-menus](/f19/package/gnome-menus) | 157 | 157 | 100.0 | Divehi <dv@li.org> | 
+ | [mate-menus](/f19/package/mate-menus) | 157 | 157 | 100.0 | Divehi <dv@li.org> | 
+ | [gnome-do](/f19/package/gnome-do) | 162 | 612 | 26.5 | Divehi <dv@li.org> | 
+ | [stellarium](/f19/package/stellarium) | 17 | 11181 | 0.2 | Divehi <dv@li.org> | 
 {.sortable}
 
 

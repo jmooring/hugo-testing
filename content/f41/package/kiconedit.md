@@ -18,70 +18,70 @@ The package kiconedit (version 4.4.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [bg]({{< ref "/f41/language/bg.md" >}}) | 726 | 726 | 100.0 | /mnt/stockage/packages/f41/kiconedit/po/bg/kiconedit.po | 
- | [ca]({{< ref "/f41/language/ca.md" >}}) | 726 | 726 | 100.0 | /mnt/stockage/packages/f41/kiconedit/po/ca/kiconedit.po | 
- | [ca@valencia]({{< ref "/f41/language/ca@valencia.md" >}}) | 726 | 726 | 100.0 | /mnt/stockage/packages/f41/kiconedit/po/ca@valencia/kiconedit.po | 
- | [da]({{< ref "/f41/language/da.md" >}}) | 726 | 726 | 100.0 | /mnt/stockage/packages/f41/kiconedit/po/da/kiconedit.po | 
- | [de]({{< ref "/f41/language/de.md" >}}) | 726 | 726 | 100.0 | /mnt/stockage/packages/f41/kiconedit/po/de/kiconedit.po | 
- | [el]({{< ref "/f41/language/el.md" >}}) | 726 | 726 | 100.0 | /mnt/stockage/packages/f41/kiconedit/po/el/kiconedit.po | 
- | [en_GB]({{< ref "/f41/language/en_GB.md" >}}) | 726 | 726 | 100.0 | /mnt/stockage/packages/f41/kiconedit/po/en_GB/kiconedit.po | 
- | [es]({{< ref "/f41/language/es.md" >}}) | 726 | 726 | 100.0 | /mnt/stockage/packages/f41/kiconedit/po/es/kiconedit.po | 
- | [et]({{< ref "/f41/language/et.md" >}}) | 726 | 726 | 100.0 | /mnt/stockage/packages/f41/kiconedit/po/et/kiconedit.po | 
- | [fi]({{< ref "/f41/language/fi.md" >}}) | 726 | 726 | 100.0 | /mnt/stockage/packages/f41/kiconedit/po/fi/kiconedit.po | 
- | [gl]({{< ref "/f41/language/gl.md" >}}) | 726 | 726 | 100.0 | /mnt/stockage/packages/f41/kiconedit/po/gl/kiconedit.po | 
- | [hr]({{< ref "/f41/language/hr.md" >}}) | 726 | 726 | 100.0 | /mnt/stockage/packages/f41/kiconedit/po/hr/kiconedit.po | 
- | [is]({{< ref "/f41/language/is.md" >}}) | 726 | 726 | 100.0 | /mnt/stockage/packages/f41/kiconedit/po/is/kiconedit.po | 
- | [it]({{< ref "/f41/language/it.md" >}}) | 726 | 726 | 100.0 | /mnt/stockage/packages/f41/kiconedit/po/it/kiconedit.po | 
- | [km]({{< ref "/f41/language/km.md" >}}) | 726 | 726 | 100.0 | /mnt/stockage/packages/f41/kiconedit/po/km/kiconedit.po | 
- | [nb_NO]({{< ref "/f41/language/nb_NO.md" >}}) | 726 | 726 | 100.0 | /mnt/stockage/packages/f41/kiconedit/po/nb/kiconedit.po | 
- | [nds]({{< ref "/f41/language/nds.md" >}}) | 726 | 726 | 100.0 | /mnt/stockage/packages/f41/kiconedit/po/nds/kiconedit.po | 
- | [nl]({{< ref "/f41/language/nl.md" >}}) | 726 | 726 | 100.0 | /mnt/stockage/packages/f41/kiconedit/po/nl/kiconedit.po | 
- | [pt]({{< ref "/f41/language/pt.md" >}}) | 726 | 726 | 100.0 | /mnt/stockage/packages/f41/kiconedit/po/pt/kiconedit.po | 
- | [pt_BR]({{< ref "/f41/language/pt_BR.md" >}}) | 726 | 726 | 100.0 | /mnt/stockage/packages/f41/kiconedit/po/pt_BR/kiconedit.po | 
- | [ro]({{< ref "/f41/language/ro.md" >}}) | 726 | 726 | 100.0 | /mnt/stockage/packages/f41/kiconedit/po/ro/kiconedit.po | 
- | [sk]({{< ref "/f41/language/sk.md" >}}) | 726 | 726 | 100.0 | /mnt/stockage/packages/f41/kiconedit/po/sk/kiconedit.po | 
- | [sv]({{< ref "/f41/language/sv.md" >}}) | 726 | 726 | 100.0 | /mnt/stockage/packages/f41/kiconedit/po/sv/kiconedit.po | 
- | [tr]({{< ref "/f41/language/tr.md" >}}) | 726 | 726 | 100.0 | /mnt/stockage/packages/f41/kiconedit/po/tr/kiconedit.po | 
- | [uk]({{< ref "/f41/language/uk.md" >}}) | 726 | 726 | 100.0 | /mnt/stockage/packages/f41/kiconedit/po/uk/kiconedit.po | 
- | [zh_Hans]({{< ref "/f41/language/zh_Hans.md" >}}) | 726 | 726 | 100.0 | /mnt/stockage/packages/f41/kiconedit/po/zh_CN/kiconedit.po | 
- | [zh_Hant]({{< ref "/f41/language/zh_Hant.md" >}}) | 726 | 726 | 100.0 | /mnt/stockage/packages/f41/kiconedit/po/zh_TW/kiconedit.po | 
- | [fr]({{< ref "/f41/language/fr.md" >}}) | 724 | 726 | 99.7 | /mnt/stockage/packages/f41/kiconedit/po/fr/kiconedit.po | 
- | [hu]({{< ref "/f41/language/hu.md" >}}) | 724 | 726 | 99.7 | /mnt/stockage/packages/f41/kiconedit/po/hu/kiconedit.po | 
- | [ja]({{< ref "/f41/language/ja.md" >}}) | 724 | 726 | 99.7 | /mnt/stockage/packages/f41/kiconedit/po/ja/kiconedit.po | 
- | [pl]({{< ref "/f41/language/pl.md" >}}) | 724 | 726 | 99.7 | /mnt/stockage/packages/f41/kiconedit/po/pl/kiconedit.po | 
- | [ta]({{< ref "/f41/language/ta.md" >}}) | 724 | 726 | 99.7 | /mnt/stockage/packages/f41/kiconedit/po/ta/kiconedit.po | 
- | [th]({{< ref "/f41/language/th.md" >}}) | 724 | 726 | 99.7 | /mnt/stockage/packages/f41/kiconedit/po/th/kiconedit.po | 
- | [vi]({{< ref "/f41/language/vi.md" >}}) | 724 | 726 | 99.7 | /mnt/stockage/packages/f41/kiconedit/po/vi/kiconedit.po | 
- | [ko]({{< ref "/f41/language/ko.md" >}}) | 722 | 726 | 99.4 | /mnt/stockage/packages/f41/kiconedit/po/ko/kiconedit.po | 
- | [cs]({{< ref "/f41/language/cs.md" >}}) | 709 | 726 | 97.7 | /mnt/stockage/packages/f41/kiconedit/po/cs/kiconedit.po | 
- | [fa]({{< ref "/f41/language/fa.md" >}}) | 694 | 726 | 95.6 | /mnt/stockage/packages/f41/kiconedit/po/fa/kiconedit.po | 
- | [ru]({{< ref "/f41/language/ru.md" >}}) | 686 | 726 | 94.5 | /mnt/stockage/packages/f41/kiconedit/po/ru/kiconedit.po | 
- | [ne]({{< ref "/f41/language/ne.md" >}}) | 684 | 726 | 94.2 | /mnt/stockage/packages/f41/kiconedit/po/ne/kiconedit.po | 
- | [eu]({{< ref "/f41/language/eu.md" >}}) | 682 | 726 | 93.9 | /mnt/stockage/packages/f41/kiconedit/po/eu/kiconedit.po | 
- | [he]({{< ref "/f41/language/he.md" >}}) | 682 | 726 | 93.9 | /mnt/stockage/packages/f41/kiconedit/po/he/kiconedit.po | 
- | [mk]({{< ref "/f41/language/mk.md" >}}) | 682 | 726 | 93.9 | /mnt/stockage/packages/f41/kiconedit/po/mk/kiconedit.po | 
- | [sl]({{< ref "/f41/language/sl.md" >}}) | 682 | 726 | 93.9 | /mnt/stockage/packages/f41/kiconedit/po/sl/kiconedit.po | 
- | [ar]({{< ref "/f41/language/ar.md" >}}) | 678 | 726 | 93.4 | /mnt/stockage/packages/f41/kiconedit/po/ar/kiconedit.po | 
- | [tg]({{< ref "/f41/language/tg.md" >}}) | 678 | 726 | 93.4 | /mnt/stockage/packages/f41/kiconedit/po/tg/kiconedit.po | 
- | [ms]({{< ref "/f41/language/ms.md" >}}) | 675 | 726 | 93.0 | /mnt/stockage/packages/f41/kiconedit/po/ms/kiconedit.po | 
- | [wa]({{< ref "/f41/language/wa.md" >}}) | 666 | 726 | 91.7 | /mnt/stockage/packages/f41/kiconedit/po/wa/kiconedit.po | 
- | [br]({{< ref "/f41/language/br.md" >}}) | 642 | 726 | 88.4 | /mnt/stockage/packages/f41/kiconedit/po/br/kiconedit.po | 
- | [zh_Hant_HK]({{< ref "/f41/language/zh_Hant_HK.md" >}}) | 629 | 726 | 86.6 | /mnt/stockage/packages/f41/kiconedit/po/zh_HK/kiconedit.po | 
- | [hne]({{< ref "/f41/language/hne.md" >}}) | 585 | 726 | 80.6 | /mnt/stockage/packages/f41/kiconedit/po/hne/kiconedit.po | 
- | [hi]({{< ref "/f41/language/hi.md" >}}) | 576 | 726 | 79.3 | /mnt/stockage/packages/f41/kiconedit/po/hi/kiconedit.po | 
- | [lt]({{< ref "/f41/language/lt.md" >}}) | 548 | 726 | 75.5 | /mnt/stockage/packages/f41/kiconedit/po/lt/kiconedit.po | 
- | [eo]({{< ref "/f41/language/eo.md" >}}) | 506 | 726 | 69.7 | /mnt/stockage/packages/f41/kiconedit/po/eo/kiconedit.po | 
- | [af]({{< ref "/f41/language/af.md" >}}) | 493 | 726 | 67.9 | /mnt/stockage/packages/f41/kiconedit/po/af/kiconedit.po | 
- | [xh]({{< ref "/f41/language/xh.md" >}}) | 493 | 726 | 67.9 | /mnt/stockage/packages/f41/kiconedit/po/xh/kiconedit.po | 
- | [ga]({{< ref "/f41/language/ga.md" >}}) | 186 | 726 | 25.6 | /mnt/stockage/packages/f41/kiconedit/po/ga/kiconedit.po | 
- | [pa]({{< ref "/f41/language/pa.md" >}}) | 131 | 726 | 18.0 | /mnt/stockage/packages/f41/kiconedit/po/pa/kiconedit.po | 
- | [cy]({{< ref "/f41/language/cy.md" >}}) | 76 | 726 | 10.5 | /mnt/stockage/packages/f41/kiconedit/po/cy/kiconedit.po | 
- | [mai]({{< ref "/f41/language/mai.md" >}}) | 55 | 726 | 7.6 | /mnt/stockage/packages/f41/kiconedit/po/mai/kiconedit.po | 
- | [se]({{< ref "/f41/language/se.md" >}}) | 54 | 726 | 7.4 | /mnt/stockage/packages/f41/kiconedit/po/se/kiconedit.po | 
- | [be]({{< ref "/f41/language/be.md" >}}) | 53 | 726 | 7.3 | /mnt/stockage/packages/f41/kiconedit/po/be/kiconedit.po | 
- | [oc]({{< ref "/f41/language/oc.md" >}}) | 51 | 726 | 7.0 | /mnt/stockage/packages/f41/kiconedit/po/oc/kiconedit.po | 
- | [lv]({{< ref "/f41/language/lv.md" >}}) | 49 | 726 | 6.7 | /mnt/stockage/packages/f41/kiconedit/po/lv/kiconedit.po | 
- | [nn]({{< ref "/f41/language/nn.md" >}}) | 0 | 726 | 0.0 | /mnt/stockage/packages/f41/kiconedit/po/nn/kiconedit.po | 
+ | [bg](/f41/language/bg) | 726 | 726 | 100.0 | /mnt/stockage/packages/f41/kiconedit/po/bg/kiconedit.po | 
+ | [ca](/f41/language/ca) | 726 | 726 | 100.0 | /mnt/stockage/packages/f41/kiconedit/po/ca/kiconedit.po | 
+ | [ca@valencia](/f41/language/ca@valencia) | 726 | 726 | 100.0 | /mnt/stockage/packages/f41/kiconedit/po/ca@valencia/kiconedit.po | 
+ | [da](/f41/language/da) | 726 | 726 | 100.0 | /mnt/stockage/packages/f41/kiconedit/po/da/kiconedit.po | 
+ | [de](/f41/language/de) | 726 | 726 | 100.0 | /mnt/stockage/packages/f41/kiconedit/po/de/kiconedit.po | 
+ | [el](/f41/language/el) | 726 | 726 | 100.0 | /mnt/stockage/packages/f41/kiconedit/po/el/kiconedit.po | 
+ | [en_GB](/f41/language/en_GB) | 726 | 726 | 100.0 | /mnt/stockage/packages/f41/kiconedit/po/en_GB/kiconedit.po | 
+ | [es](/f41/language/es) | 726 | 726 | 100.0 | /mnt/stockage/packages/f41/kiconedit/po/es/kiconedit.po | 
+ | [et](/f41/language/et) | 726 | 726 | 100.0 | /mnt/stockage/packages/f41/kiconedit/po/et/kiconedit.po | 
+ | [fi](/f41/language/fi) | 726 | 726 | 100.0 | /mnt/stockage/packages/f41/kiconedit/po/fi/kiconedit.po | 
+ | [gl](/f41/language/gl) | 726 | 726 | 100.0 | /mnt/stockage/packages/f41/kiconedit/po/gl/kiconedit.po | 
+ | [hr](/f41/language/hr) | 726 | 726 | 100.0 | /mnt/stockage/packages/f41/kiconedit/po/hr/kiconedit.po | 
+ | [is](/f41/language/is) | 726 | 726 | 100.0 | /mnt/stockage/packages/f41/kiconedit/po/is/kiconedit.po | 
+ | [it](/f41/language/it) | 726 | 726 | 100.0 | /mnt/stockage/packages/f41/kiconedit/po/it/kiconedit.po | 
+ | [km](/f41/language/km) | 726 | 726 | 100.0 | /mnt/stockage/packages/f41/kiconedit/po/km/kiconedit.po | 
+ | [nb_NO](/f41/language/nb_NO) | 726 | 726 | 100.0 | /mnt/stockage/packages/f41/kiconedit/po/nb/kiconedit.po | 
+ | [nds](/f41/language/nds) | 726 | 726 | 100.0 | /mnt/stockage/packages/f41/kiconedit/po/nds/kiconedit.po | 
+ | [nl](/f41/language/nl) | 726 | 726 | 100.0 | /mnt/stockage/packages/f41/kiconedit/po/nl/kiconedit.po | 
+ | [pt](/f41/language/pt) | 726 | 726 | 100.0 | /mnt/stockage/packages/f41/kiconedit/po/pt/kiconedit.po | 
+ | [pt_BR](/f41/language/pt_BR) | 726 | 726 | 100.0 | /mnt/stockage/packages/f41/kiconedit/po/pt_BR/kiconedit.po | 
+ | [ro](/f41/language/ro) | 726 | 726 | 100.0 | /mnt/stockage/packages/f41/kiconedit/po/ro/kiconedit.po | 
+ | [sk](/f41/language/sk) | 726 | 726 | 100.0 | /mnt/stockage/packages/f41/kiconedit/po/sk/kiconedit.po | 
+ | [sv](/f41/language/sv) | 726 | 726 | 100.0 | /mnt/stockage/packages/f41/kiconedit/po/sv/kiconedit.po | 
+ | [tr](/f41/language/tr) | 726 | 726 | 100.0 | /mnt/stockage/packages/f41/kiconedit/po/tr/kiconedit.po | 
+ | [uk](/f41/language/uk) | 726 | 726 | 100.0 | /mnt/stockage/packages/f41/kiconedit/po/uk/kiconedit.po | 
+ | [zh_Hans](/f41/language/zh_Hans) | 726 | 726 | 100.0 | /mnt/stockage/packages/f41/kiconedit/po/zh_CN/kiconedit.po | 
+ | [zh_Hant](/f41/language/zh_Hant) | 726 | 726 | 100.0 | /mnt/stockage/packages/f41/kiconedit/po/zh_TW/kiconedit.po | 
+ | [fr](/f41/language/fr) | 724 | 726 | 99.7 | /mnt/stockage/packages/f41/kiconedit/po/fr/kiconedit.po | 
+ | [hu](/f41/language/hu) | 724 | 726 | 99.7 | /mnt/stockage/packages/f41/kiconedit/po/hu/kiconedit.po | 
+ | [ja](/f41/language/ja) | 724 | 726 | 99.7 | /mnt/stockage/packages/f41/kiconedit/po/ja/kiconedit.po | 
+ | [pl](/f41/language/pl) | 724 | 726 | 99.7 | /mnt/stockage/packages/f41/kiconedit/po/pl/kiconedit.po | 
+ | [ta](/f41/language/ta) | 724 | 726 | 99.7 | /mnt/stockage/packages/f41/kiconedit/po/ta/kiconedit.po | 
+ | [th](/f41/language/th) | 724 | 726 | 99.7 | /mnt/stockage/packages/f41/kiconedit/po/th/kiconedit.po | 
+ | [vi](/f41/language/vi) | 724 | 726 | 99.7 | /mnt/stockage/packages/f41/kiconedit/po/vi/kiconedit.po | 
+ | [ko](/f41/language/ko) | 722 | 726 | 99.4 | /mnt/stockage/packages/f41/kiconedit/po/ko/kiconedit.po | 
+ | [cs](/f41/language/cs) | 709 | 726 | 97.7 | /mnt/stockage/packages/f41/kiconedit/po/cs/kiconedit.po | 
+ | [fa](/f41/language/fa) | 694 | 726 | 95.6 | /mnt/stockage/packages/f41/kiconedit/po/fa/kiconedit.po | 
+ | [ru](/f41/language/ru) | 686 | 726 | 94.5 | /mnt/stockage/packages/f41/kiconedit/po/ru/kiconedit.po | 
+ | [ne](/f41/language/ne) | 684 | 726 | 94.2 | /mnt/stockage/packages/f41/kiconedit/po/ne/kiconedit.po | 
+ | [eu](/f41/language/eu) | 682 | 726 | 93.9 | /mnt/stockage/packages/f41/kiconedit/po/eu/kiconedit.po | 
+ | [he](/f41/language/he) | 682 | 726 | 93.9 | /mnt/stockage/packages/f41/kiconedit/po/he/kiconedit.po | 
+ | [mk](/f41/language/mk) | 682 | 726 | 93.9 | /mnt/stockage/packages/f41/kiconedit/po/mk/kiconedit.po | 
+ | [sl](/f41/language/sl) | 682 | 726 | 93.9 | /mnt/stockage/packages/f41/kiconedit/po/sl/kiconedit.po | 
+ | [ar](/f41/language/ar) | 678 | 726 | 93.4 | /mnt/stockage/packages/f41/kiconedit/po/ar/kiconedit.po | 
+ | [tg](/f41/language/tg) | 678 | 726 | 93.4 | /mnt/stockage/packages/f41/kiconedit/po/tg/kiconedit.po | 
+ | [ms](/f41/language/ms) | 675 | 726 | 93.0 | /mnt/stockage/packages/f41/kiconedit/po/ms/kiconedit.po | 
+ | [wa](/f41/language/wa) | 666 | 726 | 91.7 | /mnt/stockage/packages/f41/kiconedit/po/wa/kiconedit.po | 
+ | [br](/f41/language/br) | 642 | 726 | 88.4 | /mnt/stockage/packages/f41/kiconedit/po/br/kiconedit.po | 
+ | [zh_Hant_HK](/f41/language/zh_Hant_HK) | 629 | 726 | 86.6 | /mnt/stockage/packages/f41/kiconedit/po/zh_HK/kiconedit.po | 
+ | [hne](/f41/language/hne) | 585 | 726 | 80.6 | /mnt/stockage/packages/f41/kiconedit/po/hne/kiconedit.po | 
+ | [hi](/f41/language/hi) | 576 | 726 | 79.3 | /mnt/stockage/packages/f41/kiconedit/po/hi/kiconedit.po | 
+ | [lt](/f41/language/lt) | 548 | 726 | 75.5 | /mnt/stockage/packages/f41/kiconedit/po/lt/kiconedit.po | 
+ | [eo](/f41/language/eo) | 506 | 726 | 69.7 | /mnt/stockage/packages/f41/kiconedit/po/eo/kiconedit.po | 
+ | [af](/f41/language/af) | 493 | 726 | 67.9 | /mnt/stockage/packages/f41/kiconedit/po/af/kiconedit.po | 
+ | [xh](/f41/language/xh) | 493 | 726 | 67.9 | /mnt/stockage/packages/f41/kiconedit/po/xh/kiconedit.po | 
+ | [ga](/f41/language/ga) | 186 | 726 | 25.6 | /mnt/stockage/packages/f41/kiconedit/po/ga/kiconedit.po | 
+ | [pa](/f41/language/pa) | 131 | 726 | 18.0 | /mnt/stockage/packages/f41/kiconedit/po/pa/kiconedit.po | 
+ | [cy](/f41/language/cy) | 76 | 726 | 10.5 | /mnt/stockage/packages/f41/kiconedit/po/cy/kiconedit.po | 
+ | [mai](/f41/language/mai) | 55 | 726 | 7.6 | /mnt/stockage/packages/f41/kiconedit/po/mai/kiconedit.po | 
+ | [se](/f41/language/se) | 54 | 726 | 7.4 | /mnt/stockage/packages/f41/kiconedit/po/se/kiconedit.po | 
+ | [be](/f41/language/be) | 53 | 726 | 7.3 | /mnt/stockage/packages/f41/kiconedit/po/be/kiconedit.po | 
+ | [oc](/f41/language/oc) | 51 | 726 | 7.0 | /mnt/stockage/packages/f41/kiconedit/po/oc/kiconedit.po | 
+ | [lv](/f41/language/lv) | 49 | 726 | 6.7 | /mnt/stockage/packages/f41/kiconedit/po/lv/kiconedit.po | 
+ | [nn](/f41/language/nn) | 0 | 726 | 0.0 | /mnt/stockage/packages/f41/kiconedit/po/nn/kiconedit.po | 
 {.sortable}
 
 

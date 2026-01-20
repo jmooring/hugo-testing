@@ -18,9 +18,9 @@ The package mpop (version 1.0.21):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f12/language/de.md" >}}) | 1724 | 1724 | 100.0 | /mnt/stockage/packages/f12/mpop/po/de.po | 
- | [pt_BR]({{< ref "/f12/language/pt_BR.md" >}}) | 1709 | 1724 | 99.1 | /mnt/stockage/packages/f12/mpop/po/pt_BR.po | 
- | [es]({{< ref "/f12/language/es.md" >}}) | 1367 | 1724 | 79.3 | /mnt/stockage/packages/f12/mpop/po/es.po | 
+ | [de](/f12/language/de) | 1724 | 1724 | 100.0 | /mnt/stockage/packages/f12/mpop/po/de.po | 
+ | [pt_BR](/f12/language/pt_BR) | 1709 | 1724 | 99.1 | /mnt/stockage/packages/f12/mpop/po/pt_BR.po | 
+ | [es](/f12/language/es) | 1367 | 1724 | 79.3 | /mnt/stockage/packages/f12/mpop/po/es.po | 
 {.sortable}
 
 

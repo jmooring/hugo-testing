@@ -18,70 +18,70 @@ The package lxsession (version 0.5.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f26/language/cs.md" >}}) | 755 | 755 | 100.0 | /mnt/stockage/packages/f26/lxsession/po/cs.po | 
- | [el]({{< ref "/f26/language/el.md" >}}) | 755 | 755 | 100.0 | /mnt/stockage/packages/f26/lxsession/po/el.po | 
- | [fr]({{< ref "/f26/language/fr.md" >}}) | 755 | 755 | 100.0 | /mnt/stockage/packages/f26/lxsession/po/fr.po | 
- | [gl]({{< ref "/f26/language/gl.md" >}}) | 755 | 755 | 100.0 | /mnt/stockage/packages/f26/lxsession/po/gl.po | 
- | [ja]({{< ref "/f26/language/ja.md" >}}) | 755 | 755 | 100.0 | /mnt/stockage/packages/f26/lxsession/po/ja.po | 
- | [ko]({{< ref "/f26/language/ko.md" >}}) | 755 | 755 | 100.0 | /mnt/stockage/packages/f26/lxsession/po/ko.po | 
- | [nl]({{< ref "/f26/language/nl.md" >}}) | 755 | 755 | 100.0 | /mnt/stockage/packages/f26/lxsession/po/nl.po | 
- | [pl]({{< ref "/f26/language/pl.md" >}}) | 755 | 755 | 100.0 | /mnt/stockage/packages/f26/lxsession/po/pl.po | 
- | [pt]({{< ref "/f26/language/pt.md" >}}) | 755 | 755 | 100.0 | /mnt/stockage/packages/f26/lxsession/po/pt.po | 
- | [pt_BR]({{< ref "/f26/language/pt_BR.md" >}}) | 755 | 755 | 100.0 | /mnt/stockage/packages/f26/lxsession/po/pt_BR.po | 
- | [ru]({{< ref "/f26/language/ru.md" >}}) | 755 | 755 | 100.0 | /mnt/stockage/packages/f26/lxsession/po/ru.po | 
- | [sr]({{< ref "/f26/language/sr.md" >}}) | 755 | 755 | 100.0 | /mnt/stockage/packages/f26/lxsession/po/sr.po | 
- | [tr]({{< ref "/f26/language/tr.md" >}}) | 755 | 755 | 100.0 | /mnt/stockage/packages/f26/lxsession/po/tr.po | 
- | [zh_Hans]({{< ref "/f26/language/zh_Hans.md" >}}) | 755 | 755 | 100.0 | /mnt/stockage/packages/f26/lxsession/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f26/language/zh_Hant.md" >}}) | 680 | 755 | 90.1 | /mnt/stockage/packages/f26/lxsession/po/zh_TW.po | 
- | [es]({{< ref "/f26/language/es.md" >}}) | 651 | 755 | 86.2 | /mnt/stockage/packages/f26/lxsession/po/es.po | 
- | [ar]({{< ref "/f26/language/ar.md" >}}) | 490 | 755 | 64.9 | /mnt/stockage/packages/f26/lxsession/po/ar.po | 
- | [eu]({{< ref "/f26/language/eu.md" >}}) | 421 | 755 | 55.8 | /mnt/stockage/packages/f26/lxsession/po/eu.po | 
- | [is]({{< ref "/f26/language/is.md" >}}) | 343 | 755 | 45.4 | /mnt/stockage/packages/f26/lxsession/po/is.po | 
- | [hr]({{< ref "/f26/language/hr.md" >}}) | 313 | 755 | 41.5 | /mnt/stockage/packages/f26/lxsession/po/hr.po | 
- | [lg]({{< ref "/f26/language/lg.md" >}}) | 295 | 755 | 39.1 | /mnt/stockage/packages/f26/lxsession/po/lg.po | 
- | [fi]({{< ref "/f26/language/fi.md" >}}) | 232 | 755 | 30.7 | /mnt/stockage/packages/f26/lxsession/po/fi.po | 
- | [te]({{< ref "/f26/language/te.md" >}}) | 198 | 755 | 26.2 | /mnt/stockage/packages/f26/lxsession/po/te.po | 
- | [uk]({{< ref "/f26/language/uk.md" >}}) | 190 | 755 | 25.2 | /mnt/stockage/packages/f26/lxsession/po/uk.po | 
- | [et]({{< ref "/f26/language/et.md" >}}) | 184 | 755 | 24.4 | /mnt/stockage/packages/f26/lxsession/po/et.po | 
- | [sr_Latn]({{< ref "/f26/language/sr_Latn.md" >}}) | 184 | 755 | 24.4 | /mnt/stockage/packages/f26/lxsession/po/sr@latin.po | 
- | [sv]({{< ref "/f26/language/sv.md" >}}) | 148 | 755 | 19.6 | /mnt/stockage/packages/f26/lxsession/po/sv.po | 
- | [bg]({{< ref "/f26/language/bg.md" >}}) | 145 | 755 | 19.2 | /mnt/stockage/packages/f26/lxsession/po/bg.po | 
- | [id]({{< ref "/f26/language/id.md" >}}) | 145 | 755 | 19.2 | /mnt/stockage/packages/f26/lxsession/po/id.po | 
- | [kk]({{< ref "/f26/language/kk.md" >}}) | 145 | 755 | 19.2 | /mnt/stockage/packages/f26/lxsession/po/kk.po | 
- | [lt]({{< ref "/f26/language/lt.md" >}}) | 145 | 755 | 19.2 | /mnt/stockage/packages/f26/lxsession/po/lt.po | 
- | [it]({{< ref "/f26/language/it.md" >}}) | 142 | 755 | 18.8 | /mnt/stockage/packages/f26/lxsession/po/it.po | 
- | [he]({{< ref "/f26/language/he.md" >}}) | 141 | 755 | 18.7 | /mnt/stockage/packages/f26/lxsession/po/he.po | 
- | [sl]({{< ref "/f26/language/sl.md" >}}) | 131 | 812 | 16.1 | /mnt/stockage/packages/f26/lxsession/po/sl.po | 
- | [de]({{< ref "/f26/language/de.md" >}}) | 114 | 755 | 15.1 | /mnt/stockage/packages/f26/lxsession/po/de.po | 
- | [hu]({{< ref "/f26/language/hu.md" >}}) | 106 | 755 | 14.0 | /mnt/stockage/packages/f26/lxsession/po/hu.po | 
- | [be]({{< ref "/f26/language/be.md" >}}) | 97 | 755 | 12.8 | /mnt/stockage/packages/f26/lxsession/po/be.po | 
- | [en_GB]({{< ref "/f26/language/en_GB.md" >}}) | 97 | 755 | 12.8 | /mnt/stockage/packages/f26/lxsession/po/en_GB.po | 
- | [ro]({{< ref "/f26/language/ro.md" >}}) | 97 | 755 | 12.8 | /mnt/stockage/packages/f26/lxsession/po/ro.po | 
- | [ug]({{< ref "/f26/language/ug.md" >}}) | 97 | 755 | 12.8 | /mnt/stockage/packages/f26/lxsession/po/ug.po | 
- | [vi]({{< ref "/f26/language/vi.md" >}}) | 97 | 755 | 12.8 | /mnt/stockage/packages/f26/lxsession/po/vi.po | 
- | [da]({{< ref "/f26/language/da.md" >}}) | 85 | 755 | 11.3 | /mnt/stockage/packages/f26/lxsession/po/da.po | 
- | [ca]({{< ref "/f26/language/ca.md" >}}) | 36 | 755 | 4.8 | /mnt/stockage/packages/f26/lxsession/po/ca.po | 
- | [ast]({{< ref "/f26/language/ast.md" >}}) | 29 | 755 | 3.8 | /mnt/stockage/packages/f26/lxsession/po/ast.po | 
- | [bn]({{< ref "/f26/language/bn.md" >}}) | 29 | 755 | 3.8 | /mnt/stockage/packages/f26/lxsession/po/bn.po | 
- | [eo]({{< ref "/f26/language/eo.md" >}}) | 29 | 755 | 3.8 | /mnt/stockage/packages/f26/lxsession/po/eo.po | 
- | [fa]({{< ref "/f26/language/fa.md" >}}) | 29 | 755 | 3.8 | /mnt/stockage/packages/f26/lxsession/po/fa.po | 
- | [fo]({{< ref "/f26/language/fo.md" >}}) | 29 | 755 | 3.8 | /mnt/stockage/packages/f26/lxsession/po/fo.po | 
- | [ms]({{< ref "/f26/language/ms.md" >}}) | 29 | 755 | 3.8 | /mnt/stockage/packages/f26/lxsession/po/ms.po | 
- | [nb_NO]({{< ref "/f26/language/nb_NO.md" >}}) | 29 | 755 | 3.8 | /mnt/stockage/packages/f26/lxsession/po/nb.po | 
- | [nn]({{< ref "/f26/language/nn.md" >}}) | 29 | 755 | 3.8 | /mnt/stockage/packages/f26/lxsession/po/nn.po | 
- | [pa]({{< ref "/f26/language/pa.md" >}}) | 29 | 755 | 3.8 | /mnt/stockage/packages/f26/lxsession/po/pa.po | 
- | [si]({{< ref "/f26/language/si.md" >}}) | 29 | 755 | 3.8 | /mnt/stockage/packages/f26/lxsession/po/si.po | 
- | [sk]({{< ref "/f26/language/sk.md" >}}) | 29 | 755 | 3.8 | /mnt/stockage/packages/f26/lxsession/po/sk.po | 
- | [tt]({{< ref "/f26/language/tt.md" >}}) | 29 | 755 | 3.8 | /mnt/stockage/packages/f26/lxsession/po/tt_RU.po | 
- | [ur]({{< ref "/f26/language/ur.md" >}}) | 29 | 755 | 3.8 | /mnt/stockage/packages/f26/lxsession/po/ur.po | 
- | [ur_PK]({{< ref "/f26/language/ur_PK.md" >}}) | 29 | 755 | 3.8 | /mnt/stockage/packages/f26/lxsession/po/ur_PK.po | 
- | [af]({{< ref "/f26/language/af.md" >}}) | 28 | 755 | 3.7 | /mnt/stockage/packages/f26/lxsession/po/af.po | 
- | [bn_IN]({{< ref "/f26/language/bn_IN.md" >}}) | 28 | 755 | 3.7 | /mnt/stockage/packages/f26/lxsession/po/bn_IN.po | 
- | [frp]({{< ref "/f26/language/frp.md" >}}) | 16 | 755 | 2.1 | /mnt/stockage/packages/f26/lxsession/po/frp.po | 
- | [am]({{< ref "/f26/language/am.md" >}}) | 5 | 755 | 0.7 | /mnt/stockage/packages/f26/lxsession/po/am.po | 
- | [ml]({{< ref "/f26/language/ml.md" >}}) | 0 | 755 | 0.0 | /mnt/stockage/packages/f26/lxsession/po/ml.po | 
- | [ps]({{< ref "/f26/language/ps.md" >}}) | 0 | 755 | 0.0 | /mnt/stockage/packages/f26/lxsession/po/ps.po | 
- | [th]({{< ref "/f26/language/th.md" >}}) | 0 | 755 | 0.0 | /mnt/stockage/packages/f26/lxsession/po/th.po | 
+ | [cs](/f26/language/cs) | 755 | 755 | 100.0 | /mnt/stockage/packages/f26/lxsession/po/cs.po | 
+ | [el](/f26/language/el) | 755 | 755 | 100.0 | /mnt/stockage/packages/f26/lxsession/po/el.po | 
+ | [fr](/f26/language/fr) | 755 | 755 | 100.0 | /mnt/stockage/packages/f26/lxsession/po/fr.po | 
+ | [gl](/f26/language/gl) | 755 | 755 | 100.0 | /mnt/stockage/packages/f26/lxsession/po/gl.po | 
+ | [ja](/f26/language/ja) | 755 | 755 | 100.0 | /mnt/stockage/packages/f26/lxsession/po/ja.po | 
+ | [ko](/f26/language/ko) | 755 | 755 | 100.0 | /mnt/stockage/packages/f26/lxsession/po/ko.po | 
+ | [nl](/f26/language/nl) | 755 | 755 | 100.0 | /mnt/stockage/packages/f26/lxsession/po/nl.po | 
+ | [pl](/f26/language/pl) | 755 | 755 | 100.0 | /mnt/stockage/packages/f26/lxsession/po/pl.po | 
+ | [pt](/f26/language/pt) | 755 | 755 | 100.0 | /mnt/stockage/packages/f26/lxsession/po/pt.po | 
+ | [pt_BR](/f26/language/pt_BR) | 755 | 755 | 100.0 | /mnt/stockage/packages/f26/lxsession/po/pt_BR.po | 
+ | [ru](/f26/language/ru) | 755 | 755 | 100.0 | /mnt/stockage/packages/f26/lxsession/po/ru.po | 
+ | [sr](/f26/language/sr) | 755 | 755 | 100.0 | /mnt/stockage/packages/f26/lxsession/po/sr.po | 
+ | [tr](/f26/language/tr) | 755 | 755 | 100.0 | /mnt/stockage/packages/f26/lxsession/po/tr.po | 
+ | [zh_Hans](/f26/language/zh_Hans) | 755 | 755 | 100.0 | /mnt/stockage/packages/f26/lxsession/po/zh_CN.po | 
+ | [zh_Hant](/f26/language/zh_Hant) | 680 | 755 | 90.1 | /mnt/stockage/packages/f26/lxsession/po/zh_TW.po | 
+ | [es](/f26/language/es) | 651 | 755 | 86.2 | /mnt/stockage/packages/f26/lxsession/po/es.po | 
+ | [ar](/f26/language/ar) | 490 | 755 | 64.9 | /mnt/stockage/packages/f26/lxsession/po/ar.po | 
+ | [eu](/f26/language/eu) | 421 | 755 | 55.8 | /mnt/stockage/packages/f26/lxsession/po/eu.po | 
+ | [is](/f26/language/is) | 343 | 755 | 45.4 | /mnt/stockage/packages/f26/lxsession/po/is.po | 
+ | [hr](/f26/language/hr) | 313 | 755 | 41.5 | /mnt/stockage/packages/f26/lxsession/po/hr.po | 
+ | [lg](/f26/language/lg) | 295 | 755 | 39.1 | /mnt/stockage/packages/f26/lxsession/po/lg.po | 
+ | [fi](/f26/language/fi) | 232 | 755 | 30.7 | /mnt/stockage/packages/f26/lxsession/po/fi.po | 
+ | [te](/f26/language/te) | 198 | 755 | 26.2 | /mnt/stockage/packages/f26/lxsession/po/te.po | 
+ | [uk](/f26/language/uk) | 190 | 755 | 25.2 | /mnt/stockage/packages/f26/lxsession/po/uk.po | 
+ | [et](/f26/language/et) | 184 | 755 | 24.4 | /mnt/stockage/packages/f26/lxsession/po/et.po | 
+ | [sr_Latn](/f26/language/sr_Latn) | 184 | 755 | 24.4 | /mnt/stockage/packages/f26/lxsession/po/sr@latin.po | 
+ | [sv](/f26/language/sv) | 148 | 755 | 19.6 | /mnt/stockage/packages/f26/lxsession/po/sv.po | 
+ | [bg](/f26/language/bg) | 145 | 755 | 19.2 | /mnt/stockage/packages/f26/lxsession/po/bg.po | 
+ | [id](/f26/language/id) | 145 | 755 | 19.2 | /mnt/stockage/packages/f26/lxsession/po/id.po | 
+ | [kk](/f26/language/kk) | 145 | 755 | 19.2 | /mnt/stockage/packages/f26/lxsession/po/kk.po | 
+ | [lt](/f26/language/lt) | 145 | 755 | 19.2 | /mnt/stockage/packages/f26/lxsession/po/lt.po | 
+ | [it](/f26/language/it) | 142 | 755 | 18.8 | /mnt/stockage/packages/f26/lxsession/po/it.po | 
+ | [he](/f26/language/he) | 141 | 755 | 18.7 | /mnt/stockage/packages/f26/lxsession/po/he.po | 
+ | [sl](/f26/language/sl) | 131 | 812 | 16.1 | /mnt/stockage/packages/f26/lxsession/po/sl.po | 
+ | [de](/f26/language/de) | 114 | 755 | 15.1 | /mnt/stockage/packages/f26/lxsession/po/de.po | 
+ | [hu](/f26/language/hu) | 106 | 755 | 14.0 | /mnt/stockage/packages/f26/lxsession/po/hu.po | 
+ | [be](/f26/language/be) | 97 | 755 | 12.8 | /mnt/stockage/packages/f26/lxsession/po/be.po | 
+ | [en_GB](/f26/language/en_GB) | 97 | 755 | 12.8 | /mnt/stockage/packages/f26/lxsession/po/en_GB.po | 
+ | [ro](/f26/language/ro) | 97 | 755 | 12.8 | /mnt/stockage/packages/f26/lxsession/po/ro.po | 
+ | [ug](/f26/language/ug) | 97 | 755 | 12.8 | /mnt/stockage/packages/f26/lxsession/po/ug.po | 
+ | [vi](/f26/language/vi) | 97 | 755 | 12.8 | /mnt/stockage/packages/f26/lxsession/po/vi.po | 
+ | [da](/f26/language/da) | 85 | 755 | 11.3 | /mnt/stockage/packages/f26/lxsession/po/da.po | 
+ | [ca](/f26/language/ca) | 36 | 755 | 4.8 | /mnt/stockage/packages/f26/lxsession/po/ca.po | 
+ | [ast](/f26/language/ast) | 29 | 755 | 3.8 | /mnt/stockage/packages/f26/lxsession/po/ast.po | 
+ | [bn](/f26/language/bn) | 29 | 755 | 3.8 | /mnt/stockage/packages/f26/lxsession/po/bn.po | 
+ | [eo](/f26/language/eo) | 29 | 755 | 3.8 | /mnt/stockage/packages/f26/lxsession/po/eo.po | 
+ | [fa](/f26/language/fa) | 29 | 755 | 3.8 | /mnt/stockage/packages/f26/lxsession/po/fa.po | 
+ | [fo](/f26/language/fo) | 29 | 755 | 3.8 | /mnt/stockage/packages/f26/lxsession/po/fo.po | 
+ | [ms](/f26/language/ms) | 29 | 755 | 3.8 | /mnt/stockage/packages/f26/lxsession/po/ms.po | 
+ | [nb_NO](/f26/language/nb_NO) | 29 | 755 | 3.8 | /mnt/stockage/packages/f26/lxsession/po/nb.po | 
+ | [nn](/f26/language/nn) | 29 | 755 | 3.8 | /mnt/stockage/packages/f26/lxsession/po/nn.po | 
+ | [pa](/f26/language/pa) | 29 | 755 | 3.8 | /mnt/stockage/packages/f26/lxsession/po/pa.po | 
+ | [si](/f26/language/si) | 29 | 755 | 3.8 | /mnt/stockage/packages/f26/lxsession/po/si.po | 
+ | [sk](/f26/language/sk) | 29 | 755 | 3.8 | /mnt/stockage/packages/f26/lxsession/po/sk.po | 
+ | [tt](/f26/language/tt) | 29 | 755 | 3.8 | /mnt/stockage/packages/f26/lxsession/po/tt_RU.po | 
+ | [ur](/f26/language/ur) | 29 | 755 | 3.8 | /mnt/stockage/packages/f26/lxsession/po/ur.po | 
+ | [ur_PK](/f26/language/ur_PK) | 29 | 755 | 3.8 | /mnt/stockage/packages/f26/lxsession/po/ur_PK.po | 
+ | [af](/f26/language/af) | 28 | 755 | 3.7 | /mnt/stockage/packages/f26/lxsession/po/af.po | 
+ | [bn_IN](/f26/language/bn_IN) | 28 | 755 | 3.7 | /mnt/stockage/packages/f26/lxsession/po/bn_IN.po | 
+ | [frp](/f26/language/frp) | 16 | 755 | 2.1 | /mnt/stockage/packages/f26/lxsession/po/frp.po | 
+ | [am](/f26/language/am) | 5 | 755 | 0.7 | /mnt/stockage/packages/f26/lxsession/po/am.po | 
+ | [ml](/f26/language/ml) | 0 | 755 | 0.0 | /mnt/stockage/packages/f26/lxsession/po/ml.po | 
+ | [ps](/f26/language/ps) | 0 | 755 | 0.0 | /mnt/stockage/packages/f26/lxsession/po/ps.po | 
+ | [th](/f26/language/th) | 0 | 755 | 0.0 | /mnt/stockage/packages/f26/lxsession/po/th.po | 
 {.sortable}
 
 

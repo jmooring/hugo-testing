@@ -18,7 +18,7 @@ The package libticables2 (version 1.3.5):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f35/language/fr.md" >}}) | 1055 | 1055 | 100.0 | /mnt/stockage/packages/f35/libticables2/po/fr.po | 
+ | [fr](/f35/language/fr) | 1055 | 1055 | 100.0 | /mnt/stockage/packages/f35/libticables2/po/fr.po | 
 {.sortable}
 
 

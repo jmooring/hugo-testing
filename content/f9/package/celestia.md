@@ -18,25 +18,25 @@ The package celestia (version 1.5.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [en]({{< ref "/f9/language/en.md" >}}) | 102 | 102 | 100.0 | /mnt/stockage/packages/f9/celestia/po2/en.po | 
- | [fr]({{< ref "/f9/language/fr.md" >}}) | 1965 | 1971 | 99.7 | /mnt/stockage/packages/f9/celestia/po/fr.po/mnt/stockage/packages/f9/celestia/po2/fr.po | 
- | [nl]({{< ref "/f9/language/nl.md" >}}) | 1950 | 1971 | 98.9 | /mnt/stockage/packages/f9/celestia/po/nl.po/mnt/stockage/packages/f9/celestia/po2/nl.po | 
- | [ru]({{< ref "/f9/language/ru.md" >}}) | 1950 | 1971 | 98.9 | /mnt/stockage/packages/f9/celestia/po/ru.po/mnt/stockage/packages/f9/celestia/po2/ru.po | 
- | [it]({{< ref "/f9/language/it.md" >}}) | 1948 | 1971 | 98.8 | /mnt/stockage/packages/f9/celestia/po/it.po/mnt/stockage/packages/f9/celestia/po2/it.po | 
- | [de]({{< ref "/f9/language/de.md" >}}) | 1905 | 1971 | 96.7 | /mnt/stockage/packages/f9/celestia/po/de.po/mnt/stockage/packages/f9/celestia/po2/de.po | 
- | [hu]({{< ref "/f9/language/hu.md" >}}) | 1878 | 1971 | 95.3 | /mnt/stockage/packages/f9/celestia/po/hu.po/mnt/stockage/packages/f9/celestia/po2/hu.po | 
- | [bg]({{< ref "/f9/language/bg.md" >}}) | 1864 | 1971 | 94.6 | /mnt/stockage/packages/f9/celestia/po/bg.po/mnt/stockage/packages/f9/celestia/po2/bg.po | 
- | [zh_Hans]({{< ref "/f9/language/zh_Hans.md" >}}) | 1855 | 1971 | 94.1 | /mnt/stockage/packages/f9/celestia/po/zh_CN.po/mnt/stockage/packages/f9/celestia/po2/zh_CN.po | 
- | [lv]({{< ref "/f9/language/lv.md" >}}) | 1845 | 1971 | 93.6 | /mnt/stockage/packages/f9/celestia/po/lv.po/mnt/stockage/packages/f9/celestia/po2/lv.po | 
- | [pt]({{< ref "/f9/language/pt.md" >}}) | 1845 | 1971 | 93.6 | /mnt/stockage/packages/f9/celestia/po/pt.po/mnt/stockage/packages/f9/celestia/po2/pt.po | 
- | [sv]({{< ref "/f9/language/sv.md" >}}) | 1845 | 1971 | 93.6 | /mnt/stockage/packages/f9/celestia/po/sv.po/mnt/stockage/packages/f9/celestia/po2/sv.po | 
- | [ja]({{< ref "/f9/language/ja.md" >}}) | 1717 | 1971 | 87.1 | /mnt/stockage/packages/f9/celestia/po/ja.po/mnt/stockage/packages/f9/celestia/po2/ja.po | 
- | [es]({{< ref "/f9/language/es.md" >}}) | 1629 | 1971 | 82.6 | /mnt/stockage/packages/f9/celestia/po/es.po/mnt/stockage/packages/f9/celestia/po2/es.po | 
- | [ar]({{< ref "/f9/language/ar.md" >}}) | 1628 | 1971 | 82.6 | /mnt/stockage/packages/f9/celestia/po/ar.po/mnt/stockage/packages/f9/celestia/po2/ar.po | 
- | [ko]({{< ref "/f9/language/ko.md" >}}) | 1528 | 1971 | 77.5 | /mnt/stockage/packages/f9/celestia/po/ko.po/mnt/stockage/packages/f9/celestia/po2/ko.po | 
- | [el]({{< ref "/f9/language/el.md" >}}) | 952 | 1869 | 50.9 | /mnt/stockage/packages/f9/celestia/po/el.po | 
- | [uk]({{< ref "/f9/language/uk.md" >}}) | 640 | 1971 | 32.5 | /mnt/stockage/packages/f9/celestia/po/uk.po/mnt/stockage/packages/f9/celestia/po2/uk.po | 
- | [pt_BR]({{< ref "/f9/language/pt_BR.md" >}}) | 442 | 1869 | 23.6 | /mnt/stockage/packages/f9/celestia/po/pt_BR.po | 
+ | [en](/f9/language/en) | 102 | 102 | 100.0 | /mnt/stockage/packages/f9/celestia/po2/en.po | 
+ | [fr](/f9/language/fr) | 1965 | 1971 | 99.7 | /mnt/stockage/packages/f9/celestia/po/fr.po/mnt/stockage/packages/f9/celestia/po2/fr.po | 
+ | [nl](/f9/language/nl) | 1950 | 1971 | 98.9 | /mnt/stockage/packages/f9/celestia/po/nl.po/mnt/stockage/packages/f9/celestia/po2/nl.po | 
+ | [ru](/f9/language/ru) | 1950 | 1971 | 98.9 | /mnt/stockage/packages/f9/celestia/po/ru.po/mnt/stockage/packages/f9/celestia/po2/ru.po | 
+ | [it](/f9/language/it) | 1948 | 1971 | 98.8 | /mnt/stockage/packages/f9/celestia/po/it.po/mnt/stockage/packages/f9/celestia/po2/it.po | 
+ | [de](/f9/language/de) | 1905 | 1971 | 96.7 | /mnt/stockage/packages/f9/celestia/po/de.po/mnt/stockage/packages/f9/celestia/po2/de.po | 
+ | [hu](/f9/language/hu) | 1878 | 1971 | 95.3 | /mnt/stockage/packages/f9/celestia/po/hu.po/mnt/stockage/packages/f9/celestia/po2/hu.po | 
+ | [bg](/f9/language/bg) | 1864 | 1971 | 94.6 | /mnt/stockage/packages/f9/celestia/po/bg.po/mnt/stockage/packages/f9/celestia/po2/bg.po | 
+ | [zh_Hans](/f9/language/zh_Hans) | 1855 | 1971 | 94.1 | /mnt/stockage/packages/f9/celestia/po/zh_CN.po/mnt/stockage/packages/f9/celestia/po2/zh_CN.po | 
+ | [lv](/f9/language/lv) | 1845 | 1971 | 93.6 | /mnt/stockage/packages/f9/celestia/po/lv.po/mnt/stockage/packages/f9/celestia/po2/lv.po | 
+ | [pt](/f9/language/pt) | 1845 | 1971 | 93.6 | /mnt/stockage/packages/f9/celestia/po/pt.po/mnt/stockage/packages/f9/celestia/po2/pt.po | 
+ | [sv](/f9/language/sv) | 1845 | 1971 | 93.6 | /mnt/stockage/packages/f9/celestia/po/sv.po/mnt/stockage/packages/f9/celestia/po2/sv.po | 
+ | [ja](/f9/language/ja) | 1717 | 1971 | 87.1 | /mnt/stockage/packages/f9/celestia/po/ja.po/mnt/stockage/packages/f9/celestia/po2/ja.po | 
+ | [es](/f9/language/es) | 1629 | 1971 | 82.6 | /mnt/stockage/packages/f9/celestia/po/es.po/mnt/stockage/packages/f9/celestia/po2/es.po | 
+ | [ar](/f9/language/ar) | 1628 | 1971 | 82.6 | /mnt/stockage/packages/f9/celestia/po/ar.po/mnt/stockage/packages/f9/celestia/po2/ar.po | 
+ | [ko](/f9/language/ko) | 1528 | 1971 | 77.5 | /mnt/stockage/packages/f9/celestia/po/ko.po/mnt/stockage/packages/f9/celestia/po2/ko.po | 
+ | [el](/f9/language/el) | 952 | 1869 | 50.9 | /mnt/stockage/packages/f9/celestia/po/el.po | 
+ | [uk](/f9/language/uk) | 640 | 1971 | 32.5 | /mnt/stockage/packages/f9/celestia/po/uk.po/mnt/stockage/packages/f9/celestia/po2/uk.po | 
+ | [pt_BR](/f9/language/pt_BR) | 442 | 1869 | 23.6 | /mnt/stockage/packages/f9/celestia/po/pt_BR.po | 
 {.sortable}
 
 

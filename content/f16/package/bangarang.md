@@ -18,20 +18,20 @@ The package bangarang (version 2.0.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [el]({{< ref "/f16/language/el.md" >}}) | 1088 | 1088 | 100.0 | /mnt/stockage/packages/f16/bangarang/po/el/bangarang.po | 
- | [it]({{< ref "/f16/language/it.md" >}}) | 955 | 955 | 100.0 | /mnt/stockage/packages/f16/bangarang/po/it/bangarang.po | 
- | [nl]({{< ref "/f16/language/nl.md" >}}) | 1088 | 1088 | 100.0 | /mnt/stockage/packages/f16/bangarang/po/nl/bangarang.po | 
- | [pt_BR]({{< ref "/f16/language/pt_BR.md" >}}) | 1088 | 1088 | 100.0 | /mnt/stockage/packages/f16/bangarang/po/pt_BR/bangarang.po | 
- | [uk]({{< ref "/f16/language/uk.md" >}}) | 1088 | 1088 | 100.0 | /mnt/stockage/packages/f16/bangarang/po/uk/bangarang.po | 
- | [de]({{< ref "/f16/language/de.md" >}}) | 1080 | 1088 | 99.3 | /mnt/stockage/packages/f16/bangarang/po/de/bangarang.po | 
- | [lt]({{< ref "/f16/language/lt.md" >}}) | 1071 | 1088 | 98.4 | /mnt/stockage/packages/f16/bangarang/po/lt/bangarang.po | 
- | [fr]({{< ref "/f16/language/fr.md" >}}) | 1067 | 1088 | 98.1 | /mnt/stockage/packages/f16/bangarang/po/fr/bangarang.po | 
- | [es]({{< ref "/f16/language/es.md" >}}) | 1060 | 1088 | 97.4 | /mnt/stockage/packages/f16/bangarang/po/es/bangarang.po | 
- | [cs]({{< ref "/f16/language/cs.md" >}}) | 1027 | 1088 | 94.4 | /mnt/stockage/packages/f16/bangarang/po/cs/bangarang.po | 
- | [fi]({{< ref "/f16/language/fi.md" >}}) | 1013 | 1088 | 93.1 | /mnt/stockage/packages/f16/bangarang/po/fi/bangarang.po | 
- | [zh_Hans]({{< ref "/f16/language/zh_Hans.md" >}}) | 1012 | 1088 | 93.0 | /mnt/stockage/packages/f16/bangarang/po/zh_CN/bangarang.po | 
- | [pl]({{< ref "/f16/language/pl.md" >}}) | 442 | 1088 | 40.6 | /mnt/stockage/packages/f16/bangarang/po/pl/bangarang.po | 
- | [da]({{< ref "/f16/language/da.md" >}}) | 424 | 1088 | 39.0 | /mnt/stockage/packages/f16/bangarang/po/da/bangarang.po | 
+ | [el](/f16/language/el) | 1088 | 1088 | 100.0 | /mnt/stockage/packages/f16/bangarang/po/el/bangarang.po | 
+ | [it](/f16/language/it) | 955 | 955 | 100.0 | /mnt/stockage/packages/f16/bangarang/po/it/bangarang.po | 
+ | [nl](/f16/language/nl) | 1088 | 1088 | 100.0 | /mnt/stockage/packages/f16/bangarang/po/nl/bangarang.po | 
+ | [pt_BR](/f16/language/pt_BR) | 1088 | 1088 | 100.0 | /mnt/stockage/packages/f16/bangarang/po/pt_BR/bangarang.po | 
+ | [uk](/f16/language/uk) | 1088 | 1088 | 100.0 | /mnt/stockage/packages/f16/bangarang/po/uk/bangarang.po | 
+ | [de](/f16/language/de) | 1080 | 1088 | 99.3 | /mnt/stockage/packages/f16/bangarang/po/de/bangarang.po | 
+ | [lt](/f16/language/lt) | 1071 | 1088 | 98.4 | /mnt/stockage/packages/f16/bangarang/po/lt/bangarang.po | 
+ | [fr](/f16/language/fr) | 1067 | 1088 | 98.1 | /mnt/stockage/packages/f16/bangarang/po/fr/bangarang.po | 
+ | [es](/f16/language/es) | 1060 | 1088 | 97.4 | /mnt/stockage/packages/f16/bangarang/po/es/bangarang.po | 
+ | [cs](/f16/language/cs) | 1027 | 1088 | 94.4 | /mnt/stockage/packages/f16/bangarang/po/cs/bangarang.po | 
+ | [fi](/f16/language/fi) | 1013 | 1088 | 93.1 | /mnt/stockage/packages/f16/bangarang/po/fi/bangarang.po | 
+ | [zh_Hans](/f16/language/zh_Hans) | 1012 | 1088 | 93.0 | /mnt/stockage/packages/f16/bangarang/po/zh_CN/bangarang.po | 
+ | [pl](/f16/language/pl) | 442 | 1088 | 40.6 | /mnt/stockage/packages/f16/bangarang/po/pl/bangarang.po | 
+ | [da](/f16/language/da) | 424 | 1088 | 39.0 | /mnt/stockage/packages/f16/bangarang/po/da/bangarang.po | 
 {.sortable}
 
 

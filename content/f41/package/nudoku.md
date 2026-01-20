@@ -18,12 +18,12 @@ The package nudoku (version 4.0.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f41/language/de.md" >}}) | 95 | 95 | 100.0 | /mnt/stockage/packages/f41/nudoku/po/de.po | 
- | [es]({{< ref "/f41/language/es.md" >}}) | 124 | 124 | 100.0 | /mnt/stockage/packages/f41/nudoku/po/es.po | 
- | [fr]({{< ref "/f41/language/fr.md" >}}) | 95 | 95 | 100.0 | /mnt/stockage/packages/f41/nudoku/po/fr.po | 
- | [ja]({{< ref "/f41/language/ja.md" >}}) | 124 | 124 | 100.0 | /mnt/stockage/packages/f41/nudoku/po/ja.po | 
- | [ru]({{< ref "/f41/language/ru.md" >}}) | 94 | 94 | 100.0 | /mnt/stockage/packages/f41/nudoku/po/ru.po | 
- | [tr]({{< ref "/f41/language/tr.md" >}}) | 124 | 124 | 100.0 | /mnt/stockage/packages/f41/nudoku/po/tr.po | 
+ | [de](/f41/language/de) | 95 | 95 | 100.0 | /mnt/stockage/packages/f41/nudoku/po/de.po | 
+ | [es](/f41/language/es) | 124 | 124 | 100.0 | /mnt/stockage/packages/f41/nudoku/po/es.po | 
+ | [fr](/f41/language/fr) | 95 | 95 | 100.0 | /mnt/stockage/packages/f41/nudoku/po/fr.po | 
+ | [ja](/f41/language/ja) | 124 | 124 | 100.0 | /mnt/stockage/packages/f41/nudoku/po/ja.po | 
+ | [ru](/f41/language/ru) | 94 | 94 | 100.0 | /mnt/stockage/packages/f41/nudoku/po/ru.po | 
+ | [tr](/f41/language/tr) | 124 | 124 | 100.0 | /mnt/stockage/packages/f41/nudoku/po/tr.po | 
 {.sortable}
 
 

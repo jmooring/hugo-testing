@@ -18,18 +18,18 @@ The package rust-coreos-installer (version 0.25.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f43/language/de.md" >}}) | 11865 | 11865 | 100.0 | /mnt/stockage/packages/f43/rust-coreos-installer/vendor/lzma-sys/xz-5.2/po/de.po/mnt/stockage/packages/f43/rust-coreos-installer/vendor/lzma-sys/xz-5.2/po4a/de.po | 
- | [fi]({{< ref "/f43/language/fi.md" >}}) | 1392 | 1392 | 100.0 | /mnt/stockage/packages/f43/rust-coreos-installer/vendor/lzma-sys/xz-5.2/po/fi.po | 
- | [fr]({{< ref "/f43/language/fr.md" >}}) | 1392 | 1392 | 100.0 | /mnt/stockage/packages/f43/rust-coreos-installer/vendor/lzma-sys/xz-5.2/po/fr.po | 
- | [hu]({{< ref "/f43/language/hu.md" >}}) | 1392 | 1392 | 100.0 | /mnt/stockage/packages/f43/rust-coreos-installer/vendor/lzma-sys/xz-5.2/po/hu.po | 
- | [it]({{< ref "/f43/language/it.md" >}}) | 1392 | 1392 | 100.0 | /mnt/stockage/packages/f43/rust-coreos-installer/vendor/lzma-sys/xz-5.2/po/it.po | 
- | [pl]({{< ref "/f43/language/pl.md" >}}) | 1392 | 1392 | 100.0 | /mnt/stockage/packages/f43/rust-coreos-installer/vendor/lzma-sys/xz-5.2/po/pl.po | 
- | [pt_BR]({{< ref "/f43/language/pt_BR.md" >}}) | 1392 | 1392 | 100.0 | /mnt/stockage/packages/f43/rust-coreos-installer/vendor/lzma-sys/xz-5.2/po/pt_BR.po | 
- | [zh_Hans]({{< ref "/f43/language/zh_Hans.md" >}}) | 1392 | 1392 | 100.0 | /mnt/stockage/packages/f43/rust-coreos-installer/vendor/lzma-sys/xz-5.2/po/zh_CN.po | 
- | [vi]({{< ref "/f43/language/vi.md" >}}) | 1360 | 1392 | 97.7 | /mnt/stockage/packages/f43/rust-coreos-installer/vendor/lzma-sys/xz-5.2/po/vi.po | 
- | [zh_Hant]({{< ref "/f43/language/zh_Hant.md" >}}) | 1333 | 1392 | 95.8 | /mnt/stockage/packages/f43/rust-coreos-installer/vendor/lzma-sys/xz-5.2/po/zh_TW.po | 
- | [cs]({{< ref "/f43/language/cs.md" >}}) | 1130 | 1379 | 81.9 | /mnt/stockage/packages/f43/rust-coreos-installer/vendor/lzma-sys/xz-5.2/po/cs.po | 
- | [da]({{< ref "/f43/language/da.md" >}}) | 795 | 1392 | 57.1 | /mnt/stockage/packages/f43/rust-coreos-installer/vendor/lzma-sys/xz-5.2/po/da.po | 
+ | [de](/f43/language/de) | 11865 | 11865 | 100.0 | /mnt/stockage/packages/f43/rust-coreos-installer/vendor/lzma-sys/xz-5.2/po/de.po/mnt/stockage/packages/f43/rust-coreos-installer/vendor/lzma-sys/xz-5.2/po4a/de.po | 
+ | [fi](/f43/language/fi) | 1392 | 1392 | 100.0 | /mnt/stockage/packages/f43/rust-coreos-installer/vendor/lzma-sys/xz-5.2/po/fi.po | 
+ | [fr](/f43/language/fr) | 1392 | 1392 | 100.0 | /mnt/stockage/packages/f43/rust-coreos-installer/vendor/lzma-sys/xz-5.2/po/fr.po | 
+ | [hu](/f43/language/hu) | 1392 | 1392 | 100.0 | /mnt/stockage/packages/f43/rust-coreos-installer/vendor/lzma-sys/xz-5.2/po/hu.po | 
+ | [it](/f43/language/it) | 1392 | 1392 | 100.0 | /mnt/stockage/packages/f43/rust-coreos-installer/vendor/lzma-sys/xz-5.2/po/it.po | 
+ | [pl](/f43/language/pl) | 1392 | 1392 | 100.0 | /mnt/stockage/packages/f43/rust-coreos-installer/vendor/lzma-sys/xz-5.2/po/pl.po | 
+ | [pt_BR](/f43/language/pt_BR) | 1392 | 1392 | 100.0 | /mnt/stockage/packages/f43/rust-coreos-installer/vendor/lzma-sys/xz-5.2/po/pt_BR.po | 
+ | [zh_Hans](/f43/language/zh_Hans) | 1392 | 1392 | 100.0 | /mnt/stockage/packages/f43/rust-coreos-installer/vendor/lzma-sys/xz-5.2/po/zh_CN.po | 
+ | [vi](/f43/language/vi) | 1360 | 1392 | 97.7 | /mnt/stockage/packages/f43/rust-coreos-installer/vendor/lzma-sys/xz-5.2/po/vi.po | 
+ | [zh_Hant](/f43/language/zh_Hant) | 1333 | 1392 | 95.8 | /mnt/stockage/packages/f43/rust-coreos-installer/vendor/lzma-sys/xz-5.2/po/zh_TW.po | 
+ | [cs](/f43/language/cs) | 1130 | 1379 | 81.9 | /mnt/stockage/packages/f43/rust-coreos-installer/vendor/lzma-sys/xz-5.2/po/cs.po | 
+ | [da](/f43/language/da) | 795 | 1392 | 57.1 | /mnt/stockage/packages/f43/rust-coreos-installer/vendor/lzma-sys/xz-5.2/po/da.po | 
 {.sortable}
 
 

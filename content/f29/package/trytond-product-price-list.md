@@ -18,26 +18,26 @@ The package trytond-product-price-list (version 4.0.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f29/language/ca.md" >}}) | 74 | 74 | 100.0 | /mnt/stockage/packages/f29/trytond-product-price-list/locale/ca_ES.po | 
- | [de]({{< ref "/f29/language/de.md" >}}) | 74 | 74 | 100.0 | /mnt/stockage/packages/f29/trytond-product-price-list/locale/de_DE.po | 
- | [es]({{< ref "/f29/language/es.md" >}}) | 74 | 74 | 100.0 | /mnt/stockage/packages/f29/trytond-product-price-list/locale/es_ES.po | 
- | [es_AR]({{< ref "/f29/language/es_AR.md" >}}) | 74 | 74 | 100.0 | /mnt/stockage/packages/f29/trytond-product-price-list/locale/es_AR.po | 
- | [es_CO]({{< ref "/f29/language/es_CO.md" >}}) | 74 | 74 | 100.0 | /mnt/stockage/packages/f29/trytond-product-price-list/locale/es_CO.po | 
- | [es_EC]({{< ref "/f29/language/es_EC.md" >}}) | 74 | 74 | 100.0 | /mnt/stockage/packages/f29/trytond-product-price-list/locale/es_EC.po | 
- | [fr]({{< ref "/f29/language/fr.md" >}}) | 74 | 74 | 100.0 | /mnt/stockage/packages/f29/trytond-product-price-list/locale/fr_FR.po | 
- | [pt_BR]({{< ref "/f29/language/pt_BR.md" >}}) | 74 | 74 | 100.0 | /mnt/stockage/packages/f29/trytond-product-price-list/locale/pt_BR.po | 
- | [sl]({{< ref "/f29/language/sl.md" >}}) | 74 | 74 | 100.0 | /mnt/stockage/packages/f29/trytond-product-price-list/locale/sl_SI.po | 
- | [hu]({{< ref "/f29/language/hu.md" >}}) | 69 | 74 | 93.2 | /mnt/stockage/packages/f29/trytond-product-price-list/locale/hu_HU.po | 
- | [es_MX]({{< ref "/f29/language/es_MX.md" >}}) | 64 | 74 | 86.5 | /mnt/stockage/packages/f29/trytond-product-price-list/locale/es_MX.po | 
- | [bg]({{< ref "/f29/language/bg.md" >}}) | 61 | 74 | 82.4 | /mnt/stockage/packages/f29/trytond-product-price-list/locale/bg_BG.po | 
- | [cs]({{< ref "/f29/language/cs.md" >}}) | 0 | 74 | 0.0 | /mnt/stockage/packages/f29/trytond-product-price-list/locale/cs_CZ.po | 
- | [it]({{< ref "/f29/language/it.md" >}}) | 0 | 74 | 0.0 | /mnt/stockage/packages/f29/trytond-product-price-list/locale/it_IT.po | 
- | [ja]({{< ref "/f29/language/ja.md" >}}) | 0 | 74 | 0.0 | /mnt/stockage/packages/f29/trytond-product-price-list/locale/ja_JP.po | 
- | [lo]({{< ref "/f29/language/lo.md" >}}) | 0 | 74 | 0.0 | /mnt/stockage/packages/f29/trytond-product-price-list/locale/lo_LA.po | 
- | [lt]({{< ref "/f29/language/lt.md" >}}) | 0 | 74 | 0.0 | /mnt/stockage/packages/f29/trytond-product-price-list/locale/lt_LT.po | 
- | [nl]({{< ref "/f29/language/nl.md" >}}) | 0 | 74 | 0.0 | /mnt/stockage/packages/f29/trytond-product-price-list/locale/nl_NL.po | 
- | [ru]({{< ref "/f29/language/ru.md" >}}) | 0 | 74 | 0.0 | /mnt/stockage/packages/f29/trytond-product-price-list/locale/ru_RU.po | 
- | [zh_Hans]({{< ref "/f29/language/zh_Hans.md" >}}) | 0 | 74 | 0.0 | /mnt/stockage/packages/f29/trytond-product-price-list/locale/zh_CN.po | 
+ | [ca](/f29/language/ca) | 74 | 74 | 100.0 | /mnt/stockage/packages/f29/trytond-product-price-list/locale/ca_ES.po | 
+ | [de](/f29/language/de) | 74 | 74 | 100.0 | /mnt/stockage/packages/f29/trytond-product-price-list/locale/de_DE.po | 
+ | [es](/f29/language/es) | 74 | 74 | 100.0 | /mnt/stockage/packages/f29/trytond-product-price-list/locale/es_ES.po | 
+ | [es_AR](/f29/language/es_AR) | 74 | 74 | 100.0 | /mnt/stockage/packages/f29/trytond-product-price-list/locale/es_AR.po | 
+ | [es_CO](/f29/language/es_CO) | 74 | 74 | 100.0 | /mnt/stockage/packages/f29/trytond-product-price-list/locale/es_CO.po | 
+ | [es_EC](/f29/language/es_EC) | 74 | 74 | 100.0 | /mnt/stockage/packages/f29/trytond-product-price-list/locale/es_EC.po | 
+ | [fr](/f29/language/fr) | 74 | 74 | 100.0 | /mnt/stockage/packages/f29/trytond-product-price-list/locale/fr_FR.po | 
+ | [pt_BR](/f29/language/pt_BR) | 74 | 74 | 100.0 | /mnt/stockage/packages/f29/trytond-product-price-list/locale/pt_BR.po | 
+ | [sl](/f29/language/sl) | 74 | 74 | 100.0 | /mnt/stockage/packages/f29/trytond-product-price-list/locale/sl_SI.po | 
+ | [hu](/f29/language/hu) | 69 | 74 | 93.2 | /mnt/stockage/packages/f29/trytond-product-price-list/locale/hu_HU.po | 
+ | [es_MX](/f29/language/es_MX) | 64 | 74 | 86.5 | /mnt/stockage/packages/f29/trytond-product-price-list/locale/es_MX.po | 
+ | [bg](/f29/language/bg) | 61 | 74 | 82.4 | /mnt/stockage/packages/f29/trytond-product-price-list/locale/bg_BG.po | 
+ | [cs](/f29/language/cs) | 0 | 74 | 0.0 | /mnt/stockage/packages/f29/trytond-product-price-list/locale/cs_CZ.po | 
+ | [it](/f29/language/it) | 0 | 74 | 0.0 | /mnt/stockage/packages/f29/trytond-product-price-list/locale/it_IT.po | 
+ | [ja](/f29/language/ja) | 0 | 74 | 0.0 | /mnt/stockage/packages/f29/trytond-product-price-list/locale/ja_JP.po | 
+ | [lo](/f29/language/lo) | 0 | 74 | 0.0 | /mnt/stockage/packages/f29/trytond-product-price-list/locale/lo_LA.po | 
+ | [lt](/f29/language/lt) | 0 | 74 | 0.0 | /mnt/stockage/packages/f29/trytond-product-price-list/locale/lt_LT.po | 
+ | [nl](/f29/language/nl) | 0 | 74 | 0.0 | /mnt/stockage/packages/f29/trytond-product-price-list/locale/nl_NL.po | 
+ | [ru](/f29/language/ru) | 0 | 74 | 0.0 | /mnt/stockage/packages/f29/trytond-product-price-list/locale/ru_RU.po | 
+ | [zh_Hans](/f29/language/zh_Hans) | 0 | 74 | 0.0 | /mnt/stockage/packages/f29/trytond-product-price-list/locale/zh_CN.po | 
 {.sortable}
 
 

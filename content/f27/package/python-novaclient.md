@@ -18,7 +18,7 @@ The package python-novaclient (version 9.1.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f27/language/fr.md" >}}) | 116 | 116 | 100.0 | /mnt/stockage/packages/f27/python-novaclient/releasenotes/source/locale/fr/LC_MESSAGES/releasenotes.po | 
+ | [fr](/f27/language/fr) | 116 | 116 | 100.0 | /mnt/stockage/packages/f27/python-novaclient/releasenotes/source/locale/fr/LC_MESSAGES/releasenotes.po | 
 {.sortable}
 
 

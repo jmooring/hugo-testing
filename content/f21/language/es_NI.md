@@ -38,11 +38,11 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [libgweather]({{< ref "/f21/package/libgweather.md" >}}) | 447 | 460 | 97.2 | Spanish <traductores@es.gnome.org> | 
- | [mate-applets]({{< ref "/f21/package/mate-applets.md" >}}) | 1814 | 2283 | 79.5 | Spanish (Nicaragua) (http://www.transifex.com/projects/p/MATE/language/es_NI/) | 
- | [libmateweather]({{< ref "/f21/package/libmateweather.md" >}}) | 361 | 487 | 74.1 | Spanish (Nicaragua) (http://www.transifex.com/projects/p/MATE/language/es_NI/) | 
- | [wicd]({{< ref "/f21/package/wicd.md" >}}) | 11 | 1138 | 1.0 | es_NI <LL@li.org> | 
- | [mate-desktop]({{< ref "/f21/package/mate-desktop.md" >}}) | 0 | 2288 | 0.0 | Spanish (Nicaragua) (http://www.transifex.com/projects/p/MATE/language/es_NI/) | 
+ | [libgweather](/f21/package/libgweather) | 447 | 460 | 97.2 | Spanish <traductores@es.gnome.org> | 
+ | [mate-applets](/f21/package/mate-applets) | 1814 | 2283 | 79.5 | Spanish (Nicaragua) (http://www.transifex.com/projects/p/MATE/language/es_NI/) | 
+ | [libmateweather](/f21/package/libmateweather) | 361 | 487 | 74.1 | Spanish (Nicaragua) (http://www.transifex.com/projects/p/MATE/language/es_NI/) | 
+ | [wicd](/f21/package/wicd) | 11 | 1138 | 1.0 | es_NI <LL@li.org> | 
+ | [mate-desktop](/f21/package/mate-desktop) | 0 | 2288 | 0.0 | Spanish (Nicaragua) (http://www.transifex.com/projects/p/MATE/language/es_NI/) | 
 {.sortable}
 
 

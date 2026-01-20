@@ -38,10 +38,10 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [geany]({{< ref "/f14/package/geany.md" >}}) | 4521 | 5586 | 80.9 | Letzebuergesch | 
- | [gnome-do]({{< ref "/f14/package/gnome-do.md" >}}) | 473 | 612 | 77.3 | Luxembourgish <lb@li.org> | 
- | [Miro]({{< ref "/f14/package/Miro.md" >}}) | 174 | 3336 | 5.2 | Luxembourgish <lb@li.org> | 
- | [vidalia]({{< ref "/f14/package/vidalia.md" >}}) | 0 | 10375 | 0.0 | translations@vidalia-project.net | 
+ | [geany](/f14/package/geany) | 4521 | 5586 | 80.9 | Letzebuergesch | 
+ | [gnome-do](/f14/package/gnome-do) | 473 | 612 | 77.3 | Luxembourgish <lb@li.org> | 
+ | [Miro](/f14/package/Miro) | 174 | 3336 | 5.2 | Luxembourgish <lb@li.org> | 
+ | [vidalia](/f14/package/vidalia) | 0 | 10375 | 0.0 | translations@vidalia-project.net | 
 {.sortable}
 
 

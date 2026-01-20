@@ -18,8 +18,8 @@ The package xfce4-time-out-plugin (version 0.1.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f12/language/de.md" >}}) | 201 | 201 | 100.0 | /mnt/stockage/packages/f12/xfce4-time-out-plugin/po/de.po | 
- | [hu]({{< ref "/f12/language/hu.md" >}}) | 187 | 201 | 93.0 | /mnt/stockage/packages/f12/xfce4-time-out-plugin/po/hu.po | 
+ | [de](/f12/language/de) | 201 | 201 | 100.0 | /mnt/stockage/packages/f12/xfce4-time-out-plugin/po/de.po | 
+ | [hu](/f12/language/hu) | 187 | 201 | 93.0 | /mnt/stockage/packages/f12/xfce4-time-out-plugin/po/hu.po | 
 {.sortable}
 
 

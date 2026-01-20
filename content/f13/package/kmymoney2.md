@@ -18,28 +18,28 @@ The package kmymoney2 (version 1.0.5):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f13/language/de.md" >}}) | 16796 | 16796 | 100.0 | /mnt/stockage/packages/f13/kmymoney2/po/de.po | 
- | [en_GB]({{< ref "/f13/language/en_GB.md" >}}) | 16796 | 16796 | 100.0 | /mnt/stockage/packages/f13/kmymoney2/po/en_GB.po | 
- | [es]({{< ref "/f13/language/es.md" >}}) | 16796 | 16796 | 100.0 | /mnt/stockage/packages/f13/kmymoney2/po/es.po | 
- | [es_AR]({{< ref "/f13/language/es_AR.md" >}}) | 16796 | 16796 | 100.0 | /mnt/stockage/packages/f13/kmymoney2/po/es_AR.po | 
- | [fi]({{< ref "/f13/language/fi.md" >}}) | 16796 | 16796 | 100.0 | /mnt/stockage/packages/f13/kmymoney2/po/fi.po | 
- | [fr]({{< ref "/f13/language/fr.md" >}}) | 16796 | 16796 | 100.0 | /mnt/stockage/packages/f13/kmymoney2/po/fr.po | 
- | [nl]({{< ref "/f13/language/nl.md" >}}) | 16796 | 16796 | 100.0 | /mnt/stockage/packages/f13/kmymoney2/po/nl.po | 
- | [pt_BR]({{< ref "/f13/language/pt_BR.md" >}}) | 16796 | 16796 | 100.0 | /mnt/stockage/packages/f13/kmymoney2/po/pt_BR.po | 
- | [ro]({{< ref "/f13/language/ro.md" >}}) | 16796 | 16796 | 100.0 | /mnt/stockage/packages/f13/kmymoney2/po/ro.po | 
- | [ru]({{< ref "/f13/language/ru.md" >}}) | 16796 | 16796 | 100.0 | /mnt/stockage/packages/f13/kmymoney2/po/ru.po | 
- | [gl]({{< ref "/f13/language/gl.md" >}}) | 16764 | 16796 | 99.8 | /mnt/stockage/packages/f13/kmymoney2/po/gl.po | 
- | [pt]({{< ref "/f13/language/pt.md" >}}) | 15724 | 16796 | 93.6 | /mnt/stockage/packages/f13/kmymoney2/po/pt.po | 
- | [zh_Hans]({{< ref "/f13/language/zh_Hans.md" >}}) | 15212 | 16796 | 90.6 | /mnt/stockage/packages/f13/kmymoney2/po/zh_CN.po | 
- | [it]({{< ref "/f13/language/it.md" >}}) | 14630 | 16796 | 87.1 | /mnt/stockage/packages/f13/kmymoney2/po/it.po | 
- | [pl]({{< ref "/f13/language/pl.md" >}}) | 7451 | 16796 | 44.4 | /mnt/stockage/packages/f13/kmymoney2/po/pl.po | 
- | [cs]({{< ref "/f13/language/cs.md" >}}) | 5121 | 16796 | 30.5 | /mnt/stockage/packages/f13/kmymoney2/po/cs.po | 
- | [tr]({{< ref "/f13/language/tr.md" >}}) | 3500 | 16796 | 20.8 | /mnt/stockage/packages/f13/kmymoney2/po/tr.po | 
- | [ca]({{< ref "/f13/language/ca.md" >}}) | 2645 | 16796 | 15.7 | /mnt/stockage/packages/f13/kmymoney2/po/ca.po | 
- | [sk]({{< ref "/f13/language/sk.md" >}}) | 1845 | 16796 | 11.0 | /mnt/stockage/packages/f13/kmymoney2/po/sk.po | 
- | [da]({{< ref "/f13/language/da.md" >}}) | 1499 | 16796 | 8.9 | /mnt/stockage/packages/f13/kmymoney2/po/da.po | 
- | [sv]({{< ref "/f13/language/sv.md" >}}) | 1173 | 16796 | 7.0 | /mnt/stockage/packages/f13/kmymoney2/po/sv.po | 
- | [lt]({{< ref "/f13/language/lt.md" >}}) | 1170 | 16796 | 7.0 | /mnt/stockage/packages/f13/kmymoney2/po/lt.po | 
+ | [de](/f13/language/de) | 16796 | 16796 | 100.0 | /mnt/stockage/packages/f13/kmymoney2/po/de.po | 
+ | [en_GB](/f13/language/en_GB) | 16796 | 16796 | 100.0 | /mnt/stockage/packages/f13/kmymoney2/po/en_GB.po | 
+ | [es](/f13/language/es) | 16796 | 16796 | 100.0 | /mnt/stockage/packages/f13/kmymoney2/po/es.po | 
+ | [es_AR](/f13/language/es_AR) | 16796 | 16796 | 100.0 | /mnt/stockage/packages/f13/kmymoney2/po/es_AR.po | 
+ | [fi](/f13/language/fi) | 16796 | 16796 | 100.0 | /mnt/stockage/packages/f13/kmymoney2/po/fi.po | 
+ | [fr](/f13/language/fr) | 16796 | 16796 | 100.0 | /mnt/stockage/packages/f13/kmymoney2/po/fr.po | 
+ | [nl](/f13/language/nl) | 16796 | 16796 | 100.0 | /mnt/stockage/packages/f13/kmymoney2/po/nl.po | 
+ | [pt_BR](/f13/language/pt_BR) | 16796 | 16796 | 100.0 | /mnt/stockage/packages/f13/kmymoney2/po/pt_BR.po | 
+ | [ro](/f13/language/ro) | 16796 | 16796 | 100.0 | /mnt/stockage/packages/f13/kmymoney2/po/ro.po | 
+ | [ru](/f13/language/ru) | 16796 | 16796 | 100.0 | /mnt/stockage/packages/f13/kmymoney2/po/ru.po | 
+ | [gl](/f13/language/gl) | 16764 | 16796 | 99.8 | /mnt/stockage/packages/f13/kmymoney2/po/gl.po | 
+ | [pt](/f13/language/pt) | 15724 | 16796 | 93.6 | /mnt/stockage/packages/f13/kmymoney2/po/pt.po | 
+ | [zh_Hans](/f13/language/zh_Hans) | 15212 | 16796 | 90.6 | /mnt/stockage/packages/f13/kmymoney2/po/zh_CN.po | 
+ | [it](/f13/language/it) | 14630 | 16796 | 87.1 | /mnt/stockage/packages/f13/kmymoney2/po/it.po | 
+ | [pl](/f13/language/pl) | 7451 | 16796 | 44.4 | /mnt/stockage/packages/f13/kmymoney2/po/pl.po | 
+ | [cs](/f13/language/cs) | 5121 | 16796 | 30.5 | /mnt/stockage/packages/f13/kmymoney2/po/cs.po | 
+ | [tr](/f13/language/tr) | 3500 | 16796 | 20.8 | /mnt/stockage/packages/f13/kmymoney2/po/tr.po | 
+ | [ca](/f13/language/ca) | 2645 | 16796 | 15.7 | /mnt/stockage/packages/f13/kmymoney2/po/ca.po | 
+ | [sk](/f13/language/sk) | 1845 | 16796 | 11.0 | /mnt/stockage/packages/f13/kmymoney2/po/sk.po | 
+ | [da](/f13/language/da) | 1499 | 16796 | 8.9 | /mnt/stockage/packages/f13/kmymoney2/po/da.po | 
+ | [sv](/f13/language/sv) | 1173 | 16796 | 7.0 | /mnt/stockage/packages/f13/kmymoney2/po/sv.po | 
+ | [lt](/f13/language/lt) | 1170 | 16796 | 7.0 | /mnt/stockage/packages/f13/kmymoney2/po/lt.po | 
 {.sortable}
 
 

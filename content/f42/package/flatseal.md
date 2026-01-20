@@ -18,31 +18,31 @@ The package flatseal (version 2.3.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f42/language/ar.md" >}}) | 480 | 480 | 100.0 | /mnt/stockage/packages/f42/flatseal/po/ar.po | 
- | [bg]({{< ref "/f42/language/bg.md" >}}) | 480 | 480 | 100.0 | /mnt/stockage/packages/f42/flatseal/po/bg_BG.po | 
- | [de]({{< ref "/f42/language/de.md" >}}) | 480 | 480 | 100.0 | /mnt/stockage/packages/f42/flatseal/po/de.po | 
- | [fa]({{< ref "/f42/language/fa.md" >}}) | 480 | 480 | 100.0 | /mnt/stockage/packages/f42/flatseal/po/fa.po | 
- | [he]({{< ref "/f42/language/he.md" >}}) | 480 | 480 | 100.0 | /mnt/stockage/packages/f42/flatseal/po/he.po | 
- | [ru]({{< ref "/f42/language/ru.md" >}}) | 480 | 480 | 100.0 | /mnt/stockage/packages/f42/flatseal/po/ru.po | 
- | [sv]({{< ref "/f42/language/sv.md" >}}) | 480 | 480 | 100.0 | /mnt/stockage/packages/f42/flatseal/po/sv.po | 
- | [ta]({{< ref "/f42/language/ta.md" >}}) | 480 | 480 | 100.0 | /mnt/stockage/packages/f42/flatseal/po/ta.po | 
- | [zh_Hans]({{< ref "/f42/language/zh_Hans.md" >}}) | 479 | 480 | 99.8 | /mnt/stockage/packages/f42/flatseal/po/zh_CN.po | 
- | [el]({{< ref "/f42/language/el.md" >}}) | 477 | 480 | 99.4 | /mnt/stockage/packages/f42/flatseal/po/el.po | 
- | [hi]({{< ref "/f42/language/hi.md" >}}) | 477 | 480 | 99.4 | /mnt/stockage/packages/f42/flatseal/po/hi.po | 
- | [tr]({{< ref "/f42/language/tr.md" >}}) | 477 | 480 | 99.4 | /mnt/stockage/packages/f42/flatseal/po/tr.po | 
- | [cs]({{< ref "/f42/language/cs.md" >}}) | 476 | 480 | 99.2 | /mnt/stockage/packages/f42/flatseal/po/cs.po | 
- | [hu]({{< ref "/f42/language/hu.md" >}}) | 476 | 480 | 99.2 | /mnt/stockage/packages/f42/flatseal/po/hu.po | 
- | [nb_NO]({{< ref "/f42/language/nb_NO.md" >}}) | 476 | 480 | 99.2 | /mnt/stockage/packages/f42/flatseal/po/nb.po | 
- | [nl]({{< ref "/f42/language/nl.md" >}}) | 476 | 480 | 99.2 | /mnt/stockage/packages/f42/flatseal/po/nl.po | 
- | [pl]({{< ref "/f42/language/pl.md" >}}) | 476 | 480 | 99.2 | /mnt/stockage/packages/f42/flatseal/po/pl.po | 
- | [es]({{< ref "/f42/language/es.md" >}}) | 475 | 480 | 99.0 | /mnt/stockage/packages/f42/flatseal/po/es.po | 
- | [pt_BR]({{< ref "/f42/language/pt_BR.md" >}}) | 475 | 480 | 99.0 | /mnt/stockage/packages/f42/flatseal/po/pt_BR.po | 
- | [uk]({{< ref "/f42/language/uk.md" >}}) | 475 | 480 | 99.0 | /mnt/stockage/packages/f42/flatseal/po/uk.po | 
- | [ca]({{< ref "/f42/language/ca.md" >}}) | 464 | 480 | 96.7 | /mnt/stockage/packages/f42/flatseal/po/ca.po | 
- | [da]({{< ref "/f42/language/da.md" >}}) | 464 | 480 | 96.7 | /mnt/stockage/packages/f42/flatseal/po/da.po | 
- | [id]({{< ref "/f42/language/id.md" >}}) | 464 | 480 | 96.7 | /mnt/stockage/packages/f42/flatseal/po/id.po | 
- | [fr]({{< ref "/f42/language/fr.md" >}}) | 460 | 480 | 95.8 | /mnt/stockage/packages/f42/flatseal/po/fr.po | 
- | [it]({{< ref "/f42/language/it.md" >}}) | 460 | 480 | 95.8 | /mnt/stockage/packages/f42/flatseal/po/it.po | 
+ | [ar](/f42/language/ar) | 480 | 480 | 100.0 | /mnt/stockage/packages/f42/flatseal/po/ar.po | 
+ | [bg](/f42/language/bg) | 480 | 480 | 100.0 | /mnt/stockage/packages/f42/flatseal/po/bg_BG.po | 
+ | [de](/f42/language/de) | 480 | 480 | 100.0 | /mnt/stockage/packages/f42/flatseal/po/de.po | 
+ | [fa](/f42/language/fa) | 480 | 480 | 100.0 | /mnt/stockage/packages/f42/flatseal/po/fa.po | 
+ | [he](/f42/language/he) | 480 | 480 | 100.0 | /mnt/stockage/packages/f42/flatseal/po/he.po | 
+ | [ru](/f42/language/ru) | 480 | 480 | 100.0 | /mnt/stockage/packages/f42/flatseal/po/ru.po | 
+ | [sv](/f42/language/sv) | 480 | 480 | 100.0 | /mnt/stockage/packages/f42/flatseal/po/sv.po | 
+ | [ta](/f42/language/ta) | 480 | 480 | 100.0 | /mnt/stockage/packages/f42/flatseal/po/ta.po | 
+ | [zh_Hans](/f42/language/zh_Hans) | 479 | 480 | 99.8 | /mnt/stockage/packages/f42/flatseal/po/zh_CN.po | 
+ | [el](/f42/language/el) | 477 | 480 | 99.4 | /mnt/stockage/packages/f42/flatseal/po/el.po | 
+ | [hi](/f42/language/hi) | 477 | 480 | 99.4 | /mnt/stockage/packages/f42/flatseal/po/hi.po | 
+ | [tr](/f42/language/tr) | 477 | 480 | 99.4 | /mnt/stockage/packages/f42/flatseal/po/tr.po | 
+ | [cs](/f42/language/cs) | 476 | 480 | 99.2 | /mnt/stockage/packages/f42/flatseal/po/cs.po | 
+ | [hu](/f42/language/hu) | 476 | 480 | 99.2 | /mnt/stockage/packages/f42/flatseal/po/hu.po | 
+ | [nb_NO](/f42/language/nb_NO) | 476 | 480 | 99.2 | /mnt/stockage/packages/f42/flatseal/po/nb.po | 
+ | [nl](/f42/language/nl) | 476 | 480 | 99.2 | /mnt/stockage/packages/f42/flatseal/po/nl.po | 
+ | [pl](/f42/language/pl) | 476 | 480 | 99.2 | /mnt/stockage/packages/f42/flatseal/po/pl.po | 
+ | [es](/f42/language/es) | 475 | 480 | 99.0 | /mnt/stockage/packages/f42/flatseal/po/es.po | 
+ | [pt_BR](/f42/language/pt_BR) | 475 | 480 | 99.0 | /mnt/stockage/packages/f42/flatseal/po/pt_BR.po | 
+ | [uk](/f42/language/uk) | 475 | 480 | 99.0 | /mnt/stockage/packages/f42/flatseal/po/uk.po | 
+ | [ca](/f42/language/ca) | 464 | 480 | 96.7 | /mnt/stockage/packages/f42/flatseal/po/ca.po | 
+ | [da](/f42/language/da) | 464 | 480 | 96.7 | /mnt/stockage/packages/f42/flatseal/po/da.po | 
+ | [id](/f42/language/id) | 464 | 480 | 96.7 | /mnt/stockage/packages/f42/flatseal/po/id.po | 
+ | [fr](/f42/language/fr) | 460 | 480 | 95.8 | /mnt/stockage/packages/f42/flatseal/po/fr.po | 
+ | [it](/f42/language/it) | 460 | 480 | 95.8 | /mnt/stockage/packages/f42/flatseal/po/it.po | 
 {.sortable}
 
 

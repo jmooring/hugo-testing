@@ -18,18 +18,18 @@ The package mlocate (version 0.21.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f10/language/cs.md" >}}) | 563 | 563 | 100.0 | /mnt/stockage/packages/f10/mlocate/po/cs.po | 
- | [de]({{< ref "/f10/language/de.md" >}}) | 563 | 563 | 100.0 | /mnt/stockage/packages/f10/mlocate/po/de.po | 
- | [it]({{< ref "/f10/language/it.md" >}}) | 563 | 563 | 100.0 | /mnt/stockage/packages/f10/mlocate/po/it.po | 
- | [pl]({{< ref "/f10/language/pl.md" >}}) | 563 | 563 | 100.0 | /mnt/stockage/packages/f10/mlocate/po/pl.po | 
- | [pt_BR]({{< ref "/f10/language/pt_BR.md" >}}) | 563 | 563 | 100.0 | /mnt/stockage/packages/f10/mlocate/po/pt_BR.po | 
- | [sr]({{< ref "/f10/language/sr.md" >}}) | 563 | 563 | 100.0 | /mnt/stockage/packages/f10/mlocate/po/sr.po | 
- | [sr_Latn]({{< ref "/f10/language/sr_Latn.md" >}}) | 563 | 563 | 100.0 | /mnt/stockage/packages/f10/mlocate/po/sr@latin.po | 
- | [ca]({{< ref "/f10/language/ca.md" >}}) | 441 | 563 | 78.3 | /mnt/stockage/packages/f10/mlocate/po/ca.po | 
- | [fr]({{< ref "/f10/language/fr.md" >}}) | 441 | 563 | 78.3 | /mnt/stockage/packages/f10/mlocate/po/fr.po | 
- | [hu]({{< ref "/f10/language/hu.md" >}}) | 381 | 563 | 67.7 | /mnt/stockage/packages/f10/mlocate/po/hu.po | 
- | [bg]({{< ref "/f10/language/bg.md" >}}) | 275 | 563 | 48.8 | /mnt/stockage/packages/f10/mlocate/po/bg.po | 
- | [ms]({{< ref "/f10/language/ms.md" >}}) | 165 | 563 | 29.3 | /mnt/stockage/packages/f10/mlocate/po/ms.po | 
+ | [cs](/f10/language/cs) | 563 | 563 | 100.0 | /mnt/stockage/packages/f10/mlocate/po/cs.po | 
+ | [de](/f10/language/de) | 563 | 563 | 100.0 | /mnt/stockage/packages/f10/mlocate/po/de.po | 
+ | [it](/f10/language/it) | 563 | 563 | 100.0 | /mnt/stockage/packages/f10/mlocate/po/it.po | 
+ | [pl](/f10/language/pl) | 563 | 563 | 100.0 | /mnt/stockage/packages/f10/mlocate/po/pl.po | 
+ | [pt_BR](/f10/language/pt_BR) | 563 | 563 | 100.0 | /mnt/stockage/packages/f10/mlocate/po/pt_BR.po | 
+ | [sr](/f10/language/sr) | 563 | 563 | 100.0 | /mnt/stockage/packages/f10/mlocate/po/sr.po | 
+ | [sr_Latn](/f10/language/sr_Latn) | 563 | 563 | 100.0 | /mnt/stockage/packages/f10/mlocate/po/sr@latin.po | 
+ | [ca](/f10/language/ca) | 441 | 563 | 78.3 | /mnt/stockage/packages/f10/mlocate/po/ca.po | 
+ | [fr](/f10/language/fr) | 441 | 563 | 78.3 | /mnt/stockage/packages/f10/mlocate/po/fr.po | 
+ | [hu](/f10/language/hu) | 381 | 563 | 67.7 | /mnt/stockage/packages/f10/mlocate/po/hu.po | 
+ | [bg](/f10/language/bg) | 275 | 563 | 48.8 | /mnt/stockage/packages/f10/mlocate/po/bg.po | 
+ | [ms](/f10/language/ms) | 165 | 563 | 29.3 | /mnt/stockage/packages/f10/mlocate/po/ms.po | 
 {.sortable}
 
 

@@ -18,13 +18,13 @@ The package etherape (version 0.9.15):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [it]({{< ref "/f25/language/it.md" >}}) | 917 | 1171 | 78.3 | /mnt/stockage/packages/f25/etherape/po/it.po | 
- | [de]({{< ref "/f25/language/de.md" >}}) | 812 | 1171 | 69.3 | /mnt/stockage/packages/f25/etherape/po/de.po | 
- | [es]({{< ref "/f25/language/es.md" >}}) | 811 | 1171 | 69.3 | /mnt/stockage/packages/f25/etherape/po/es.po | 
- | [sv]({{< ref "/f25/language/sv.md" >}}) | 321 | 1171 | 27.4 | /mnt/stockage/packages/f25/etherape/po/sv.po | 
- | [nl]({{< ref "/f25/language/nl.md" >}}) | 307 | 1171 | 26.2 | /mnt/stockage/packages/f25/etherape/po/nl.po | 
- | [tr]({{< ref "/f25/language/tr.md" >}}) | 136 | 1171 | 11.6 | /mnt/stockage/packages/f25/etherape/po/tr.po | 
- | [fr]({{< ref "/f25/language/fr.md" >}}) | 109 | 1171 | 9.3 | /mnt/stockage/packages/f25/etherape/po/fr.po | 
+ | [it](/f25/language/it) | 917 | 1171 | 78.3 | /mnt/stockage/packages/f25/etherape/po/it.po | 
+ | [de](/f25/language/de) | 812 | 1171 | 69.3 | /mnt/stockage/packages/f25/etherape/po/de.po | 
+ | [es](/f25/language/es) | 811 | 1171 | 69.3 | /mnt/stockage/packages/f25/etherape/po/es.po | 
+ | [sv](/f25/language/sv) | 321 | 1171 | 27.4 | /mnt/stockage/packages/f25/etherape/po/sv.po | 
+ | [nl](/f25/language/nl) | 307 | 1171 | 26.2 | /mnt/stockage/packages/f25/etherape/po/nl.po | 
+ | [tr](/f25/language/tr) | 136 | 1171 | 11.6 | /mnt/stockage/packages/f25/etherape/po/tr.po | 
+ | [fr](/f25/language/fr) | 109 | 1171 | 9.3 | /mnt/stockage/packages/f25/etherape/po/fr.po | 
 {.sortable}
 
 

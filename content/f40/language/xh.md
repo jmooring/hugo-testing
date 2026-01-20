@@ -39,331 +39,331 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [gconf-editor]({{< ref "/f40/package/gconf-editor.md" >}}) | 334 | 334 | 100.0 | Xhosa <xh-translate@ubuntu.com> | 
- | [gnome-font-viewer]({{< ref "/f40/package/gnome-font-viewer.md" >}}) | 32 | 32 | 100.0 | translate-discuss-xh@lists.sourceforge.net | 
- | [gnome-icon-theme]({{< ref "/f40/package/gnome-icon-theme.md" >}}) | 53 | 53 | 100.0 | Xhosa <xh-translate@ubuntu.com> | 
- | [gnome-mime-data]({{< ref "/f40/package/gnome-mime-data.md" >}}) | 887 | 887 | 100.0 | Xhosa <xh-translate@ubuntu.com> | 
- | [gnome-shell-frippery]({{< ref "/f40/package/gnome-shell-frippery.md" >}}) | 17 | 17 | 100.0 |  | 
- | [gnome-vfs2]({{< ref "/f40/package/gnome-vfs2.md" >}}) | 1281 | 1281 | 100.0 | Xhosa <xh-translate@ubuntu.com> | 
- | [gthumb]({{< ref "/f40/package/gthumb.md" >}}) | 2610 | 2610 | 100.0 | Xhosa <xh-translate@ubuntu.com> | 
- | [gtkhtml3]({{< ref "/f40/package/gtkhtml3.md" >}}) | 949 | 949 | 100.0 | Xhosa <xh-translate@ubuntu.com> | 
- | [gtksourceview2]({{< ref "/f40/package/gtksourceview2.md" >}}) | 725 | 725 | 100.0 | Xhosa <xh-translate@ubuntu.com> | 
- | [gtksourceview4]({{< ref "/f40/package/gtksourceview4.md" >}}) | 725 | 725 | 100.0 | Xhosa <xh-translate@ubuntu.com> | 
- | [gtksourceview5]({{< ref "/f40/package/gtksourceview5.md" >}}) | 725 | 725 | 100.0 | Xhosa <xh-translate@ubuntu.com> | 
- | [gucharmap]({{< ref "/f40/package/gucharmap.md" >}}) | 507 | 507 | 100.0 | Xhosa <xh-translate@ubuntu.com> | 
- | [libgnome]({{< ref "/f40/package/libgnome.md" >}}) | 1407 | 1407 | 100.0 | Xhosa <xh-translate@ubuntu.com> | 
- | [libgnomecanvas]({{< ref "/f40/package/libgnomecanvas.md" >}}) | 357 | 357 | 100.0 | Xhosa <xh-translate@ubuntu.com> | 
- | [libgtop2]({{< ref "/f40/package/libgtop2.md" >}}) | 134 | 134 | 100.0 | Xhosa <xh-translate@ubuntu.com> | 
- | [libwnck]({{< ref "/f40/package/libwnck.md" >}}) | 73 | 73 | 100.0 | Xhosa <xh-translate@ubuntu.com> | 
- | [libwnck3]({{< ref "/f40/package/libwnck3.md" >}}) | 73 | 73 | 100.0 | Xhosa <xh-translate@ubuntu.com> | 
- | [mate-icon-theme]({{< ref "/f40/package/mate-icon-theme.md" >}}) | 4 | 4 | 100.0 | Xhosa (https://app.transifex.com/mate/teams/13566/xh/) | 
- | [newt]({{< ref "/f40/package/newt.md" >}}) | 4 | 4 | 100.0 | Xhosa <xh-translate@ubuntu.com> | 
- | [vte]({{< ref "/f40/package/vte.md" >}}) | 96 | 96 | 100.0 | Xhosa <xh-translate@ubuntu.com> | 
- | [vte291]({{< ref "/f40/package/vte291.md" >}}) | 96 | 96 | 100.0 | Xhosa <xh-translate@ubuntu.com> | 
- | [yelp]({{< ref "/f40/package/yelp.md" >}}) | 597 | 597 | 100.0 | Xhosa <xh-translate@ubuntu.com> | 
- | [magpie]({{< ref "/f40/package/magpie.md" >}}) | 6893 | 6919 | 99.6 | Xhosa <xh-translate@ubuntu.com> | 
- | [metacity]({{< ref "/f40/package/metacity.md" >}}) | 6893 | 6919 | 99.6 | Xhosa <xh-translate@ubuntu.com> | 
- | [muffin]({{< ref "/f40/package/muffin.md" >}}) | 6893 | 6919 | 99.6 | Xhosa <xh-translate@ubuntu.com> | 
- | [mutter]({{< ref "/f40/package/mutter.md" >}}) | 6893 | 6919 | 99.6 | Xhosa <xh-translate@ubuntu.com> | 
- | [gnome-bluetooth]({{< ref "/f40/package/gnome-bluetooth.md" >}}) | 596 | 599 | 99.5 | andiswamva@gmail.com | 
- | [gnome-bluetooth3.34]({{< ref "/f40/package/gnome-bluetooth3.34.md" >}}) | 596 | 599 | 99.5 | andiswamva@gmail.com | 
- | [libbonoboui]({{< ref "/f40/package/libbonoboui.md" >}}) | 358 | 360 | 99.4 | Xhosa <xh-translate@ubuntu.com> | 
- | [gnome-terminal]({{< ref "/f40/package/gnome-terminal.md" >}}) | 4397 | 4422 | 99.4 | Xhosa <xh-translate@ubuntu.com> | 
- | [evolution-data-server]({{< ref "/f40/package/evolution-data-server.md" >}}) | 4657 | 4692 | 99.3 | Xhosa <xh-translate@ubuntu.com> | 
- | [gedit]({{< ref "/f40/package/gedit.md" >}}) | 4120 | 4205 | 98.0 | Xhosa <xh-translate@ubuntu.com> | 
- | [sound-juicer]({{< ref "/f40/package/sound-juicer.md" >}}) | 683 | 699 | 97.7 | Xhosa <xh-translate@ubuntu.com> | 
- | [GConf2]({{< ref "/f40/package/GConf2.md" >}}) | 3832 | 3954 | 96.9 | Xhosa <xh-translate@ubuntu.com> | 
- | [mingw-GConf2]({{< ref "/f40/package/mingw-GConf2.md" >}}) | 3832 | 3954 | 96.9 | Xhosa <xh-translate@ubuntu.com> | 
- | [nautilus]({{< ref "/f40/package/nautilus.md" >}}) | 6945 | 7210 | 96.3 | Xhosa <xh-translate@ubuntu.com> | 
- | [gnome-applets]({{< ref "/f40/package/gnome-applets.md" >}}) | 3815 | 3978 | 95.9 | Xhosa <xh-translate@ubuntu.com> | 
- | [at-spi2-core]({{< ref "/f40/package/at-spi2-core.md" >}}) | 359 | 375 | 95.7 | Xhosa <xh-translate@ubuntu.com> | 
- | [mingw-atk]({{< ref "/f40/package/mingw-atk.md" >}}) | 359 | 375 | 95.7 | Xhosa <xh-translate@ubuntu.com> | 
- | [file-roller]({{< ref "/f40/package/file-roller.md" >}}) | 928 | 971 | 95.6 | Xhosa Team <xhosa@ubuntu.com> | 
- | [budgie-screensaver]({{< ref "/f40/package/budgie-screensaver.md" >}}) | 272 | 286 | 95.1 | translate-discuss-xh@lists.sourceforge.net | 
- | [gnome-nettool]({{< ref "/f40/package/gnome-nettool.md" >}}) | 487 | 520 | 93.7 | Xhosa <xh-translate@ubuntu.com> | 
- | [budgie-session]({{< ref "/f40/package/budgie-session.md" >}}) | 498 | 533 | 93.4 | Xhosa <xh-translate@ubuntu.com> | 
- | [gnome-session]({{< ref "/f40/package/gnome-session.md" >}}) | 498 | 533 | 93.4 | Xhosa <xh-translate@ubuntu.com> | 
- | [gnome-calculator]({{< ref "/f40/package/gnome-calculator.md" >}}) | 851 | 915 | 93.0 | Xhosa <xh-translate@ubuntu.com> | 
- | [libbonobo]({{< ref "/f40/package/libbonobo.md" >}}) | 485 | 524 | 92.6 | Xhosa <xh-translate@ubuntu.com> | 
- | [zenity]({{< ref "/f40/package/zenity.md" >}}) | 359 | 394 | 91.1 | Xhosa <xh-translate@ubuntu.com> | 
- | [libgnomeui]({{< ref "/f40/package/libgnomeui.md" >}}) | 1266 | 1419 | 89.2 | Xhosa <xh-translate@ubuntu.com> | 
- | [gnome-screenshot]({{< ref "/f40/package/gnome-screenshot.md" >}}) | 241 | 284 | 84.9 | translate-discuss-xh@lists.sourceforge.net | 
- | [gnome-menus]({{< ref "/f40/package/gnome-menus.md" >}}) | 80 | 95 | 84.2 | translate-discuss-xh@lists.sourceforge.net | 
- | [gnome-control-center]({{< ref "/f40/package/gnome-control-center.md" >}}) | 2834 | 3385 | 83.7 | Xhosa <xh-translate@ubuntu.com> | 
- | [libgweather]({{< ref "/f40/package/libgweather.md" >}}) | 355 | 460 | 77.2 | Xhosa <xh-translate@ubuntu.com> | 
- | [evolution]({{< ref "/f40/package/evolution.md" >}}) | 12845 | 17202 | 74.7 | Xhosa <xh-translate@ubuntu.com> | 
- | [gdk-pixbuf2]({{< ref "/f40/package/gdk-pixbuf2.md" >}}) | 987 | 1348 | 73.2 | Xhosa <xh-translate@ubuntu.com> | 
- | [mingw-gdk-pixbuf]({{< ref "/f40/package/mingw-gdk-pixbuf.md" >}}) | 987 | 1348 | 73.2 | Xhosa <xh-translate@ubuntu.com> | 
- | [eog]({{< ref "/f40/package/eog.md" >}}) | 1140 | 1589 | 71.7 | translate-discuss-xh@lists.sourceforge.net | 
- | [kiconedit]({{< ref "/f40/package/kiconedit.md" >}}) | 493 | 726 | 67.9 | Xhosa <xhosa@translate.org.za> | 
- | [libmateweather]({{< ref "/f40/package/libmateweather.md" >}}) | 317 | 500 | 63.4 | Xhosa (https://app.transifex.com/mate/teams/13566/xh/) | 
- | [ksig]({{< ref "/f40/package/ksig.md" >}}) | 52 | 85 | 61.2 | Xhosa <xhosa@translate.org.za> | 
- | [gnome-desktop3]({{< ref "/f40/package/gnome-desktop3.md" >}}) | 139 | 235 | 59.1 | translate-discuss-xh@lists.sourceforge.net | 
- | [cervisia]({{< ref "/f40/package/cervisia.md" >}}) | 908 | 1550 | 58.6 | Xhosa <xhosa@translate.org.za> | 
- | [gtk2]({{< ref "/f40/package/gtk2.md" >}}) | 7884 | 13704 | 57.5 | Xhosa <xh-translate@ubuntu.com> | 
- | [mingw-gtk2]({{< ref "/f40/package/mingw-gtk2.md" >}}) | 7884 | 13704 | 57.5 | Xhosa <xh-translate@ubuntu.com> | 
- | [gedit-plugins]({{< ref "/f40/package/gedit-plugins.md" >}}) | 682 | 1205 | 56.6 | Xhosa <xh-translate@ubuntu.com> | 
- | [kspaceduel]({{< ref "/f40/package/kspaceduel.md" >}}) | 93 | 165 | 56.4 | Xhosa <xhosa@translate.org.za> | 
- | [gnome-panel]({{< ref "/f40/package/gnome-panel.md" >}}) | 1976 | 3520 | 56.1 | Xhosa <xh-translate@ubuntu.com> | 
- | [cinnamon-desktop]({{< ref "/f40/package/cinnamon-desktop.md" >}}) | 127 | 234 | 54.3 | translate-discuss-xh@lists.sourceforge.net | 
- | [kamera]({{< ref "/f40/package/kamera.md" >}}) | 143 | 267 | 53.6 | Xhosa <xhosa@translate.org.za> | 
- | [lxmenu-data]({{< ref "/f40/package/lxmenu-data.md" >}}) | 51 | 97 | 52.6 | Xhosa <xh-translate@ubuntu.com> | 
- | [gtk3]({{< ref "/f40/package/gtk3.md" >}}) | 6156 | 11853 | 51.9 | Xhosa <xh-translate@ubuntu.com> | 
- | [mingw-gtk3]({{< ref "/f40/package/mingw-gtk3.md" >}}) | 6156 | 11853 | 51.9 | Xhosa <xh-translate@ubuntu.com> | 
- | [mate-menus]({{< ref "/f40/package/mate-menus.md" >}}) | 53 | 103 | 51.5 | Xhosa (https://app.transifex.com/mate/teams/13566/xh/) | 
- | [aisleriot]({{< ref "/f40/package/aisleriot.md" >}}) | 966 | 1987 | 48.6 | Xhosa <xh-translate@ubuntu.com> | 
- | [marco]({{< ref "/f40/package/marco.md" >}}) | 1927 | 4171 | 46.2 | Xhosa (https://app.transifex.com/mate/teams/13566/xh/) | 
- | [kdf]({{< ref "/f40/package/kdf.md" >}}) | 78 | 177 | 44.1 | Xhosa <xhosa@translate.org.za> | 
- | [libzypp]({{< ref "/f40/package/libzypp.md" >}}) | 1163 | 2750 | 42.3 | Novell Language <language@novell.com> | 
- | [gnome-robots]({{< ref "/f40/package/gnome-robots.md" >}}) | 250 | 597 | 41.9 | Xhosa <xh-translate@ubuntu.com> | 
- | [tali]({{< ref "/f40/package/tali.md" >}}) | 174 | 421 | 41.3 | Xhosa <xh-translate@ubuntu.com> | 
- | [kf5-libkcddb]({{< ref "/f40/package/kf5-libkcddb.md" >}}) | 37 | 90 | 41.1 | Xhosa <xhosa@translate.org.za> | 
- | [libkcddb]({{< ref "/f40/package/libkcddb.md" >}}) | 37 | 90 | 41.1 | Xhosa <xhosa@translate.org.za> | 
- | [libkdegames]({{< ref "/f40/package/libkdegames.md" >}}) | 126 | 316 | 39.9 | Xhosa <xhosa@translate.org.za> | 
- | [quadrapassel]({{< ref "/f40/package/quadrapassel.md" >}}) | 170 | 428 | 39.7 | Xhosa <xh-translate@ubuntu.com> | 
- | [cheese]({{< ref "/f40/package/cheese.md" >}}) | 193 | 504 | 38.3 | translate-discuss-xh@lists.sourceforge.net | 
- | [kolf]({{< ref "/f40/package/kolf.md" >}}) | 152 | 405 | 37.5 | Xhosa <xhosa@translate.org.za> | 
- | [xed]({{< ref "/f40/package/xed.md" >}}) | 1363 | 3775 | 36.1 | Xhosa (http://www.transifex.com/projects/p/MATE/language/xh/) | 
- | [four-in-a-row]({{< ref "/f40/package/four-in-a-row.md" >}}) | 92 | 256 | 35.9 | Xhosa <xh-translate@ubuntu.com> | 
- | [pidgin]({{< ref "/f40/package/pidgin.md" >}}) | 4831 | 13994 | 34.5 | Xhosa (http://app.transifex.com/pidgin/pidgin/language/xh/) | 
- | [mate-panel]({{< ref "/f40/package/mate-panel.md" >}}) | 2267 | 6753 | 33.6 | Xhosa (https://app.transifex.com/mate/teams/13566/xh/) | 
- | [gimp]({{< ref "/f40/package/gimp.md" >}}) | 8152 | 24516 | 33.3 | Xhosa <xh-translate@ubuntu.com> | 
- | [gimp3]({{< ref "/f40/package/gimp3.md" >}}) | 8152 | 24516 | 33.3 | Xhosa <xh-translate@ubuntu.com> | 
- | [mate-terminal]({{< ref "/f40/package/mate-terminal.md" >}}) | 2720 | 8238 | 33.0 | Xhosa (https://app.transifex.com/mate/teams/13566/xh/) | 
- | [kde-cli-tools]({{< ref "/f40/package/kde-cli-tools.md" >}}) | 401 | 1217 | 32.9 | Xhosa <xhosa@translate.org.za> | 
- | [five-or-more]({{< ref "/f40/package/five-or-more.md" >}}) | 91 | 282 | 32.3 | Xhosa <xh-translate@ubuntu.com> | 
- | [caja]({{< ref "/f40/package/caja.md" >}}) | 3175 | 10156 | 31.3 | Xhosa (https://app.transifex.com/mate/teams/13566/xh/) | 
- | [gnome-settings-daemon]({{< ref "/f40/package/gnome-settings-daemon.md" >}}) | 313 | 1034 | 30.3 | Xhosa <xh-translate@ubuntu.com> | 
- | [kcharselect]({{< ref "/f40/package/kcharselect.md" >}}) | 27 | 92 | 29.3 | xhosa <fundile@translate.org.za> | 
- | [kf5-kconfigwidgets]({{< ref "/f40/package/kf5-kconfigwidgets.md" >}}) | 98 | 342 | 28.7 | Xhosa <xhosa@translate.org.za> | 
- | [kf6-kio]({{< ref "/f40/package/kf6-kio.md" >}}) | 2381 | 8540 | 27.9 | Xhosa <xhosa@translate.org.za> | 
- | [gnome-klotski]({{< ref "/f40/package/gnome-klotski.md" >}}) | 54 | 194 | 27.8 | Xhosa <xh-translate@ubuntu.com> | 
- | [mozo]({{< ref "/f40/package/mozo.md" >}}) | 12 | 46 | 26.1 | Xhosa (https://app.transifex.com/mate/teams/13566/xh/) | 
- | [klines]({{< ref "/f40/package/klines.md" >}}) | 25 | 99 | 25.3 | Xhosa <xhosa@translate.org.za> | 
- | [konquest]({{< ref "/f40/package/konquest.md" >}}) | 62 | 248 | 25.0 | Xhosa <xhosa@translate.org.za> | 
- | [gtk4]({{< ref "/f40/package/gtk4.md" >}}) | 597 | 2432 | 24.5 | Xhosa <xh-translate@ubuntu.com> | 
- | [mingw-gtk4]({{< ref "/f40/package/mingw-gtk4.md" >}}) | 597 | 2432 | 24.5 | Xhosa <xh-translate@ubuntu.com> | 
- | [gnome-nibbles]({{< ref "/f40/package/gnome-nibbles.md" >}}) | 105 | 447 | 23.5 | Xhosa <xh-translate@ubuntu.com> | 
- | [koffice-kivio]({{< ref "/f40/package/koffice-kivio.md" >}}) | 1954 | 8417 | 23.2 | Xhosa <xhosa@translate.org.za> | 
- | [lskat]({{< ref "/f40/package/lskat.md" >}}) | 60 | 266 | 22.6 | Xhosa <xhosa@translate.org.za> | 
- | [ktuberling]({{< ref "/f40/package/ktuberling.md" >}}) | 34 | 158 | 21.5 | Xhosa <xhosa@translate.org.za> | 
- | [kmahjongg]({{< ref "/f40/package/kmahjongg.md" >}}) | 76 | 359 | 21.2 | Xhosa <xhosa@translate.org.za> | 
- | [calligra]({{< ref "/f40/package/calligra.md" >}}) | 5416 | 25990 | 20.8 | Xhosa <xhosa@translate.org.za> | 
- | [kf6-kconfigwidgets]({{< ref "/f40/package/kf6-kconfigwidgets.md" >}}) | 64 | 312 | 20.5 | Xhosa <xhosa@translate.org.za> | 
- | [kdialog]({{< ref "/f40/package/kdialog.md" >}}) | 81 | 403 | 20.1 | Xhosa <xhosa@translate.org.za> | 
- | [kf5-ktextwidgets]({{< ref "/f40/package/kf5-ktextwidgets.md" >}}) | 94 | 473 | 19.9 | Xhosa <xhosa@translate.org.za> | 
- | [kf6-ktextwidgets]({{< ref "/f40/package/kf6-ktextwidgets.md" >}}) | 93 | 473 | 19.7 | Xhosa <xhosa@translate.org.za> | 
- | [mate-desktop]({{< ref "/f40/package/mate-desktop.md" >}}) | 471 | 2412 | 19.5 | Xhosa (https://app.transifex.com/mate/teams/13566/xh/) | 
- | [glib2]({{< ref "/f40/package/glib2.md" >}}) | 902 | 4777 | 18.9 | Xhosa <xh-translate@ubuntu.com> | 
- | [mingw-glib2]({{< ref "/f40/package/mingw-glib2.md" >}}) | 902 | 4777 | 18.9 | Xhosa <xh-translate@ubuntu.com> | 
- | [konqueror]({{< ref "/f40/package/konqueror.md" >}}) | 1185 | 6323 | 18.7 | Xhosa <xhosa@translate.org.za> | 
- | [kbounce]({{< ref "/f40/package/kbounce.md" >}}) | 29 | 156 | 18.6 | Xhosa <xhosa@translate.org.za> | 
- | [kmix]({{< ref "/f40/package/kmix.md" >}}) | 208 | 1159 | 17.9 | Xhosa <xhosa@translate.org.za> | 
- | [kcron]({{< ref "/f40/package/kcron.md" >}}) | 74 | 436 | 17.0 | Xhosa <xhosa@translate.org.za> | 
- | [libreoffice]({{< ref "/f40/package/libreoffice.md" >}}) | 28873 | 171085 | 16.9 | LANGUAGE <LL@li.org> | 
- | [khelpcenter]({{< ref "/f40/package/khelpcenter.md" >}}) | 37 | 221 | 16.7 | Xhosa <xhosa@translate.org.za> | 
- | [eom]({{< ref "/f40/package/eom.md" >}}) | 276 | 1779 | 15.5 | Xhosa (https://app.transifex.com/mate/teams/13566/xh/) | 
- | [kf6-kiconthemes]({{< ref "/f40/package/kf6-kiconthemes.md" >}}) | 7 | 46 | 15.2 | Xhosa <xhosa@translate.org.za> | 
- | [pluma]({{< ref "/f40/package/pluma.md" >}}) | 1880 | 13113 | 14.3 | Xhosa (https://app.transifex.com/mate/teams/13566/xh/) | 
- | [krfb]({{< ref "/f40/package/krfb.md" >}}) | 103 | 734 | 14.0 | Xhosa <xhosa@translate.org.za> | 
- | [kfourinline]({{< ref "/f40/package/kfourinline.md" >}}) | 53 | 384 | 13.8 | Xhosa <xhosa@translate.org.za> | 
- | [kfloppy]({{< ref "/f40/package/kfloppy.md" >}}) | 85 | 641 | 13.3 | Xhosa <xhosa@translate.org.za> | 
- | [gnome-system-log]({{< ref "/f40/package/gnome-system-log.md" >}}) | 67 | 522 | 12.8 | Xhosa <xh-translate@ubuntu.com> | 
- | [kiten]({{< ref "/f40/package/kiten.md" >}}) | 82 | 651 | 12.6 | Xhosa <xhosa@translate.org.za> | 
- | [kmenuedit]({{< ref "/f40/package/kmenuedit.md" >}}) | 35 | 278 | 12.6 | Xhosa <xhosa@translate.org.za> | 
- | [mate-session-manager]({{< ref "/f40/package/mate-session-manager.md" >}}) | 90 | 717 | 12.6 | Xhosa (https://app.transifex.com/mate/teams/13566/xh/) | 
- | [kate]({{< ref "/f40/package/kate.md" >}}) | 365 | 2994 | 12.2 | Xhosa <xhosa@translate.org.za> | 
- | [mate-themes]({{< ref "/f40/package/mate-themes.md" >}}) | 9 | 74 | 12.2 | Xhosa (http://app.transifex.com/mate/MATE/language/xh/) | 
- | [kompare]({{< ref "/f40/package/kompare.md" >}}) | 169 | 1413 | 12.0 | Xhosa <xhosa@translate.org.za> | 
- | [kteatime]({{< ref "/f40/package/kteatime.md" >}}) | 24 | 203 | 11.8 | Xhosa <xhosa@translate.org.za> | 
- | [kf5-kxmlgui]({{< ref "/f40/package/kf5-kxmlgui.md" >}}) | 185 | 1574 | 11.8 | Xhosa <xhosa@translate.org.za> | 
- | [kinfocenter]({{< ref "/f40/package/kinfocenter.md" >}}) | 19 | 162 | 11.7 | Xhosa <xhosa@translate.org.za> | 
- | [kfind]({{< ref "/f40/package/kfind.md" >}}) | 60 | 517 | 11.6 | Xhosa <xhosa@translate.org.za> | 
- | [kf5-kparts]({{< ref "/f40/package/kf5-kparts.md" >}}) | 16 | 138 | 11.6 | Xhosa <xhosa@translate.org.za> | 
- | [mate-utils]({{< ref "/f40/package/mate-utils.md" >}}) | 1120 | 9901 | 11.3 | Xhosa (https://app.transifex.com/mate/teams/13566/xh/) | 
- | [mate-settings-daemon]({{< ref "/f40/package/mate-settings-daemon.md" >}}) | 249 | 2203 | 11.3 | Xhosa (https://app.transifex.com/mate/teams/13566/xh/) | 
- | [gnome-mahjongg]({{< ref "/f40/package/gnome-mahjongg.md" >}}) | 33 | 304 | 10.9 | Xhosa <xh-translate@ubuntu.com> | 
- | [kf5-kdelibs4support]({{< ref "/f40/package/kf5-kdelibs4support.md" >}}) | 568 | 5353 | 10.6 | Xhosa <xhosa@translate.org.za> | 
- | [kf6-kxmlgui]({{< ref "/f40/package/kf6-kxmlgui.md" >}}) | 132 | 1274 | 10.4 | Xhosa <xhosa@translate.org.za> | 
- | [gnome-mines]({{< ref "/f40/package/gnome-mines.md" >}}) | 35 | 344 | 10.2 | Xhosa <xh-translate@ubuntu.com> | 
- | [gnome-tetravex]({{< ref "/f40/package/gnome-tetravex.md" >}}) | 22 | 220 | 10.0 | Xhosa <xh-translate@ubuntu.com> | 
- | [pluma-plugins]({{< ref "/f40/package/pluma-plugins.md" >}}) | 136 | 1405 | 9.7 | Xhosa (https://app.transifex.com/mate/teams/13566/xh/) | 
- | [knotes]({{< ref "/f40/package/knotes.md" >}}) | 58 | 601 | 9.7 | Xhosa <xhosa@translate.org.za> | 
- | [ktimer]({{< ref "/f40/package/ktimer.md" >}}) | 24 | 258 | 9.3 | Xhosa <xhosa@translate.org.za> | 
- | [engrampa]({{< ref "/f40/package/engrampa.md" >}}) | 692 | 7815 | 8.9 | Xhosa (https://app.transifex.com/mate/teams/13566/xh/) | 
- | [kmines]({{< ref "/f40/package/kmines.md" >}}) | 14 | 164 | 8.5 | Xhosa <xhosa@translate.org.za> | 
- | [kf5-messagelib]({{< ref "/f40/package/kf5-messagelib.md" >}}) | 314 | 3692 | 8.5 | Xhosa <xhosa@translate.org.za> | 
- | [mate-applets]({{< ref "/f40/package/mate-applets.md" >}}) | 1368 | 16106 | 8.5 | Xhosa (https://app.transifex.com/mate/teams/13566/xh/) | 
- | [swell-foop]({{< ref "/f40/package/swell-foop.md" >}}) | 22 | 266 | 8.3 | Xhosa <xh-translate@ubuntu.com> | 
- | [kf5-ktexteditor]({{< ref "/f40/package/kf5-ktexteditor.md" >}}) | 759 | 9233 | 8.2 | Xhosa <xhosa@translate.org.za> | 
- | [mate-menu]({{< ref "/f40/package/mate-menu.md" >}}) | 25 | 308 | 8.1 | Xhosa (http://www.transifex.com/mate/MATE/language/xh/) | 
- | [kf6-ktexteditor]({{< ref "/f40/package/kf6-ktexteditor.md" >}}) | 753 | 9463 | 8.0 | Xhosa <xhosa@translate.org.za> | 
- | [kruler]({{< ref "/f40/package/kruler.md" >}}) | 12 | 158 | 7.6 | Xhosa <xhosa@translate.org.za> | 
- | [kpilot]({{< ref "/f40/package/kpilot.md" >}}) | 521 | 7156 | 7.3 | Xhosa <xhosa@translate.org.za> | 
- | [kjumpingcube]({{< ref "/f40/package/kjumpingcube.md" >}}) | 30 | 413 | 7.3 | Xhosa <xhosa@translate.org.za> | 
- | [mate-media]({{< ref "/f40/package/mate-media.md" >}}) | 17 | 244 | 7.0 | Xhosa (https://app.transifex.com/mate/teams/13566/xh/) | 
- | [iagno]({{< ref "/f40/package/iagno.md" >}}) | 22 | 322 | 6.8 | Xhosa <xh-translate@ubuntu.com> | 
- | [kwin]({{< ref "/f40/package/kwin.md" >}}) | 315 | 4620 | 6.8 | Xhosa <xhosa@translate.org.za> | 
- | [kwin-x11]({{< ref "/f40/package/kwin-x11.md" >}}) | 315 | 4620 | 6.8 | Xhosa <xhosa@translate.org.za> | 
- | [libkomparediff2]({{< ref "/f40/package/libkomparediff2.md" >}}) | 9 | 143 | 6.3 | Xhosa <xhosa@translate.org.za> | 
- | [mate-control-center]({{< ref "/f40/package/mate-control-center.md" >}}) | 502 | 8260 | 6.1 | Xhosa (https://app.transifex.com/mate/teams/13566/xh/) | 
- | [kcalc]({{< ref "/f40/package/kcalc.md" >}}) | 66 | 1111 | 5.9 | Xhosa <xhosa@translate.org.za> | 
- | [knavalbattle]({{< ref "/f40/package/knavalbattle.md" >}}) | 21 | 401 | 5.2 | Xhosa <xhosa@translate.org.za> | 
- | [messagelib]({{< ref "/f40/package/messagelib.md" >}}) | 185 | 3620 | 5.1 | Xhosa <xhosa@translate.org.za> | 
- | [kaddressbook]({{< ref "/f40/package/kaddressbook.md" >}}) | 58 | 1150 | 5.0 | Xhosa <xhosa@translate.org.za> | 
- | [kf5-kross]({{< ref "/f40/package/kf5-kross.md" >}}) | 5 | 100 | 5.0 | Xhosa <xhosa@translate.org.za> | 
- | [katomic]({{< ref "/f40/package/katomic.md" >}}) | 9 | 184 | 4.9 | Xhosa <xhosa@translate.org.za> | 
- | [kio-extras]({{< ref "/f40/package/kio-extras.md" >}}) | 117 | 2571 | 4.6 | Xhosa <xhosa@translate.org.za> | 
- | [kmail]({{< ref "/f40/package/kmail.md" >}}) | 375 | 8488 | 4.4 | Xhosa <xhosa@translate.org.za> | 
- | [baobab]({{< ref "/f40/package/baobab.md" >}}) | 23 | 540 | 4.3 | Xhosa <xh-translate@ubuntu.com> | 
- | [kio-extras-kf5]({{< ref "/f40/package/kio-extras-kf5.md" >}}) | 32 | 842 | 3.8 | Xhosa <xhosa@translate.org.za> | 
- | [kpat]({{< ref "/f40/package/kpat.md" >}}) | 22 | 589 | 3.7 | Xhosa <xhosa@translate.org.za> | 
- | [parley]({{< ref "/f40/package/parley.md" >}}) | 126 | 3433 | 3.7 | Xhosa <xhosa@translate.org.za> | 
- | [isomaster]({{< ref "/f40/package/isomaster.md" >}}) | 24 | 674 | 3.6 | http://littlesvr.ca/ostd/ | 
- | [gnome-keyring]({{< ref "/f40/package/gnome-keyring.md" >}}) | 17 | 490 | 3.5 | Xhosa <xh-translate@ubuntu.com> | 
- | [caja-extensions]({{< ref "/f40/package/caja-extensions.md" >}}) | 29 | 845 | 3.4 | Xhosa (https://app.transifex.com/mate/teams/13566/xh/) | 
- | [gdm]({{< ref "/f40/package/gdm.md" >}}) | 21 | 650 | 3.2 | Xhosa <xh-translate@ubuntu.com> | 
- | [mate-notification-daemon]({{< ref "/f40/package/mate-notification-daemon.md" >}}) | 6 | 186 | 3.2 | Xhosa (https://app.transifex.com/mate/teams/13566/xh/) | 
- | [kf5-kdeclarative]({{< ref "/f40/package/kf5-kdeclarative.md" >}}) | 5 | 161 | 3.1 | Xhosa <xhosa@translate.org.za> | 
- | [kf6-kdeclarative]({{< ref "/f40/package/kf6-kdeclarative.md" >}}) | 5 | 169 | 3.0 | Xhosa <xhosa@translate.org.za> | 
- | [kcoloredit]({{< ref "/f40/package/kcoloredit.md" >}}) | 8 | 278 | 2.9 | Xhosa <xhosa@translate.org.za> | 
- | [audiocd-kio]({{< ref "/f40/package/audiocd-kio.md" >}}) | 9 | 334 | 2.7 | Xhosa <xhosa@translate.org.za> | 
- | [light-locker]({{< ref "/f40/package/light-locker.md" >}}) | 7 | 260 | 2.7 | Xhosa (http://www.transifex.com/the_cavalry/light-locker/language/xh/) | 
- | [libmatekbd]({{< ref "/f40/package/libmatekbd.md" >}}) | 8 | 308 | 2.6 | Xhosa (https://app.transifex.com/mate/teams/13566/xh/) | 
- | [asunder]({{< ref "/f40/package/asunder.md" >}}) | 12 | 493 | 2.4 | http://littlesvr.ca/ostd/ | 
- | [krdc]({{< ref "/f40/package/krdc.md" >}}) | 28 | 1192 | 2.3 | Xhosa <xhosa@translate.org.za> | 
- | [atril]({{< ref "/f40/package/atril.md" >}}) | 102 | 4364 | 2.3 | Xhosa (https://www.transifex.com/mate/teams/13566/xh/) | 
- | [gnome-dictionary]({{< ref "/f40/package/gnome-dictionary.md" >}}) | 19 | 833 | 2.3 | Xhosa <xh-translate@ubuntu.com> | 
- | [klettres]({{< ref "/f40/package/klettres.md" >}}) | 10 | 440 | 2.3 | Xhosa <xhosa@translate.org.za> | 
- | [plasma-desktop]({{< ref "/f40/package/plasma-desktop.md" >}}) | 69 | 3039 | 2.3 | Xhosa <xhosa@translate.org.za> | 
- | [kshisen]({{< ref "/f40/package/kshisen.md" >}}) | 15 | 667 | 2.2 | Xhosa <xhosa@translate.org.za> | 
- | [debconf]({{< ref "/f40/package/debconf.md" >}}) | 4 | 191 | 2.1 | Xhosa <xh-translate@ubuntu.com> | 
- | [lightsoff]({{< ref "/f40/package/lightsoff.md" >}}) | 2 | 97 | 2.1 | Xhosa <xh-translate@ubuntu.com> | 
- | [mate-calc]({{< ref "/f40/package/mate-calc.md" >}}) | 66 | 3327 | 2.0 | Xhosa (https://app.transifex.com/mate/teams/13566/xh/) | 
- | [kf6-kparts]({{< ref "/f40/package/kf6-kparts.md" >}}) | 1 | 57 | 1.8 | Xhosa <xhosa@translate.org.za> | 
- | [mailimporter]({{< ref "/f40/package/mailimporter.md" >}}) | 21 | 1405 | 1.5 | Xhosa <xhosa@translate.org.za> | 
- | [kf5-mailimporter]({{< ref "/f40/package/kf5-mailimporter.md" >}}) | 21 | 1408 | 1.5 | Xhosa <xhosa@translate.org.za> | 
- | [cinnamon-translations]({{< ref "/f40/package/cinnamon-translations.md" >}}) | 158 | 10690 | 1.5 | Xhosa <xh@li.org> | 
- | [kalzium]({{< ref "/f40/package/kalzium.md" >}}) | 125 | 9093 | 1.4 | Xhosa <xhosa@translate.org.za> | 
- | [mate-screensaver]({{< ref "/f40/package/mate-screensaver.md" >}}) | 14 | 1101 | 1.3 | Xhosa (https://app.transifex.com/mate/teams/13566/xh/) | 
- | [libgedit-gtksourceview]({{< ref "/f40/package/libgedit-gtksourceview.md" >}}) | 4 | 319 | 1.3 | Xhosa <xh-translate@ubuntu.com> | 
- | [rednotebook]({{< ref "/f40/package/rednotebook.md" >}}) | 16 | 1278 | 1.3 | Xhosa <xh@li.org> | 
- | [mate-system-monitor]({{< ref "/f40/package/mate-system-monitor.md" >}}) | 61 | 4894 | 1.2 | Xhosa (https://app.transifex.com/mate/teams/13566/xh/) | 
- | [gtksourceview3]({{< ref "/f40/package/gtksourceview3.md" >}}) | 4 | 322 | 1.2 | Xhosa <xh-translate@ubuntu.com> | 
- | [mingw-gtksourceview3]({{< ref "/f40/package/mingw-gtksourceview3.md" >}}) | 4 | 322 | 1.2 | Xhosa <xh-translate@ubuntu.com> | 
- | [libmatemixer]({{< ref "/f40/package/libmatemixer.md" >}}) | 3 | 242 | 1.2 | Xhosa (https://app.transifex.com/mate/teams/13566/xh/) | 
- | [kreversi]({{< ref "/f40/package/kreversi.md" >}}) | 5 | 404 | 1.2 | Xhosa <xhosa@translate.org.za> | 
- | [gnome-chess]({{< ref "/f40/package/gnome-chess.md" >}}) | 17 | 1390 | 1.2 | Xhosa <xh-translate@ubuntu.com> | 
- | [konsole5]({{< ref "/f40/package/konsole5.md" >}}) | 45 | 3996 | 1.1 | Xhosa <xhosa@translate.org.za> | 
- | [khangman]({{< ref "/f40/package/khangman.md" >}}) | 5 | 449 | 1.1 | Xhosa <xhosa@translate.org.za> | 
- | [kjots]({{< ref "/f40/package/kjots.md" >}}) | 7 | 651 | 1.1 | Xhosa <xhosa@translate.org.za> | 
- | [iso-codes]({{< ref "/f40/package/iso-codes.md" >}}) | 169 | 15908 | 1.1 | Xhosa <xhosa@translate.org.za> | 
- | [konsole]({{< ref "/f40/package/konsole.md" >}}) | 45 | 4299 | 1.0 | Xhosa <xhosa@translate.org.za> | 
- | [korganizer]({{< ref "/f40/package/korganizer.md" >}}) | 74 | 7140 | 1.0 | Xhosa <xhosa@translate.org.za> | 
- | [kblackbox]({{< ref "/f40/package/kblackbox.md" >}}) | 14 | 1364 | 1.0 | Xhosa <xhosa@translate.org.za> | 
- | [kstars]({{< ref "/f40/package/kstars.md" >}}) | 596 | 58759 | 1.0 | Xhosa <xhosa@translate.org.za> | 
- | [gnome-sudoku]({{< ref "/f40/package/gnome-sudoku.md" >}}) | 4 | 399 | 1.0 | Xhosa <xh-translate@ubuntu.com> | 
- | [mate-user-admin]({{< ref "/f40/package/mate-user-admin.md" >}}) | 6 | 605 | 1.0 | Xhosa (https://www.transifex.com/mate/teams/13566/xh/) | 
- | [kalarm]({{< ref "/f40/package/kalarm.md" >}}) | 79 | 8562 | 0.9 | Xhosa <xhosa@translate.org.za> | 
- | [akonadi-calendar-tools]({{< ref "/f40/package/akonadi-calendar-tools.md" >}}) | 4 | 458 | 0.9 | Xhosa <xhosa@translate.org.za> | 
- | [plasma-workspace]({{< ref "/f40/package/plasma-workspace.md" >}}) | 40 | 4625 | 0.9 | Xhosa <xhosa@translate.org.za> | 
- | [plasma-workspace-x11]({{< ref "/f40/package/plasma-workspace-x11.md" >}}) | 40 | 4625 | 0.9 | Xhosa <xhosa@translate.org.za> | 
- | [kf6-kcmutils]({{< ref "/f40/package/kf6-kcmutils.md" >}}) | 1 | 123 | 0.8 | Xhosa <xhosa@translate.org.za> | 
- | [mate-polkit]({{< ref "/f40/package/mate-polkit.md" >}}) | 1 | 123 | 0.8 | Xhosa (https://app.transifex.com/mate/teams/13566/xh/) | 
- | [kmplot]({{< ref "/f40/package/kmplot.md" >}}) | 20 | 2501 | 0.8 | Xhosa <xhosa@translate.org.za> | 
- | [mate-sensors-applet]({{< ref "/f40/package/mate-sensors-applet.md" >}}) | 17 | 2160 | 0.8 | Xhosa (https://app.transifex.com/mate/teams/13566/xh/) | 
- | [ktouch]({{< ref "/f40/package/ktouch.md" >}}) | 6 | 964 | 0.6 | Xhosa <xhosa@translate.org.za> | 
- | [kget]({{< ref "/f40/package/kget.md" >}}) | 17 | 2767 | 0.6 | Xhosa <xhosa@translate.org.za> | 
- | [zypper]({{< ref "/f40/package/zypper.md" >}}) | 57 | 9878 | 0.6 | Novell Language <language@novell.com> | 
- | [calendarsupport]({{< ref "/f40/package/calendarsupport.md" >}}) | 13 | 2759 | 0.5 | Xhosa <xhosa@translate.org.za> | 
- | [mate-power-manager]({{< ref "/f40/package/mate-power-manager.md" >}}) | 24 | 5123 | 0.5 | Xhosa (https://app.transifex.com/mate/teams/13566/xh/) | 
- | [kf5-calendarsupport]({{< ref "/f40/package/kf5-calendarsupport.md" >}}) | 13 | 2779 | 0.5 | Xhosa <xhosa@translate.org.za> | 
- | [ark]({{< ref "/f40/package/ark.md" >}}) | 8 | 1983 | 0.4 | xhosa <fundile@translate.org.za> | 
- | [caja-actions]({{< ref "/f40/package/caja-actions.md" >}}) | 73 | 18812 | 0.4 | Xhosa (https://app.transifex.com/mate/teams/13566/xh/) | 
- | [kf5-kcmutils]({{< ref "/f40/package/kf5-kcmutils.md" >}}) | 1 | 266 | 0.4 | Xhosa <xhosa@translate.org.za> | 
- | [kbruch]({{< ref "/f40/package/kbruch.md" >}}) | 5 | 1347 | 0.4 | Xhosa <xhosa@translate.org.za> | 
- | [kopete]({{< ref "/f40/package/kopete.md" >}}) | 63 | 17151 | 0.4 | <xh@li.org> | 
- | [snapper]({{< ref "/f40/package/snapper.md" >}}) | 3 | 1092 | 0.3 | Novell Language <language@novell.com> | 
- | [krita]({{< ref "/f40/package/krita.md" >}}) | 98 | 35986 | 0.3 | Xhosa <xhosa@translate.org.za> | 
- | [plasma-drkonqi]({{< ref "/f40/package/plasma-drkonqi.md" >}}) | 4 | 1925 | 0.2 | Xhosa <xhosa@translate.org.za> | 
- | [manafirewall]({{< ref "/f40/package/manafirewall.md" >}}) | 2 | 1097 | 0.2 | Xhosa (https://www.transifex.com/MageiaLinux/teams/9361/xh/) | 
- | [mate-user-guide]({{< ref "/f40/package/mate-user-guide.md" >}}) | 69 | 40822 | 0.2 | Xhosa (https://www.transifex.com/mate/teams/13566/xh/) | 
- | [okular]({{< ref "/f40/package/okular.md" >}}) | 5 | 4135 | 0.1 | Xhosa <xhosa@translate.org.za> | 
- | [kleopatra]({{< ref "/f40/package/kleopatra.md" >}}) | 14 | 13501 | 0.1 | Xhosa <xhosa@translate.org.za> | 
- | [calibre]({{< ref "/f40/package/calibre.md" >}}) | 51 | 170967 | 0.0 | Xhosa (http://www.transifex.com/calibre/calibre/language/xh/) | 
- | [kig]({{< ref "/f40/package/kig.md" >}}) | 1 | 7457 | 0.0 | <xh@li.org> | 
- | [android-tools]({{< ref "/f40/package/android-tools.md" >}}) | 0 | 7678 | 0.0 | Xhosa (http://www.transifex.com/projects/p/fedora/language/xh/) | 
- | [bookworm]({{< ref "/f40/package/bookworm.md" >}}) | 0 | 795 | 0.0 |  | 
- | [coin]({{< ref "/f40/package/coin.md" >}}) | 0 | 252 | 0.0 | none | 
- | [cpeditor]({{< ref "/f40/package/cpeditor.md" >}}) | 0 | 647 | 0.0 | Xhosa <xhosa@translate.org.za> | 
- | [dippi]({{< ref "/f40/package/dippi.md" >}}) | 0 | 1537 | 0.0 | none | 
- | [elementary-code]({{< ref "/f40/package/elementary-code.md" >}}) | 0 | 1572 | 0.0 | LANGUAGE <LL@li.org> | 
- | [elementary-files]({{< ref "/f40/package/elementary-files.md" >}}) | 0 | 2538 | 0.0 | LANGUAGE <LL@li.org> | 
- | [elementary-icon-theme]({{< ref "/f40/package/elementary-icon-theme.md" >}}) | 0 | 349 | 0.0 | none | 
- | [elementary-mail]({{< ref "/f40/package/elementary-mail.md" >}}) | 0 | 861 | 0.0 |  | 
- | [elementary-music]({{< ref "/f40/package/elementary-music.md" >}}) | 0 | 207 | 0.0 | LANGUAGE <LL@li.org> | 
- | [elementary-notifications]({{< ref "/f40/package/elementary-notifications.md" >}}) | 0 | 40 | 0.0 | none | 
- | [elementary-onboarding]({{< ref "/f40/package/elementary-onboarding.md" >}}) | 0 | 317 | 0.0 | none | 
- | [fonts-tweak-tool]({{< ref "/f40/package/fonts-tweak-tool.md" >}}) | 0 | 195 | 0.0 | Xhosa | 
- | [gala]({{< ref "/f40/package/gala.md" >}}) | 0 | 281 | 0.0 | none | 
- | [gcr]({{< ref "/f40/package/gcr.md" >}}) | 0 | 622 | 0.0 | Xhosa <xh-translate@ubuntu.com> | 
- | [gcr3]({{< ref "/f40/package/gcr3.md" >}}) | 0 | 622 | 0.0 | Xhosa <xh-translate@ubuntu.com> | 
- | [granite]({{< ref "/f40/package/granite.md" >}}) | 0 | 498 | 0.0 |  | 
- | [granite-7]({{< ref "/f40/package/granite-7.md" >}}) | 0 | 369 | 0.0 |  | 
- | [harvey]({{< ref "/f40/package/harvey.md" >}}) | 0 | 182 | 0.0 | none | 
- | [imsettings]({{< ref "/f40/package/imsettings.md" >}}) | 0 | 500 | 0.0 | LANGUAGE <LL@li.org> | 
- | [initial-setup]({{< ref "/f40/package/initial-setup.md" >}}) | 0 | 33 | 0.0 | Xhosa (http://www.transifex.com/projects/p/initial-setup/language/xh/) | 
- | [kdepim-addons]({{< ref "/f40/package/kdepim-addons.md" >}}) | 0 | 881 | 0.0 | Xhosa <xhosa@translate.org.za> | 
- | [kdevelop]({{< ref "/f40/package/kdevelop.md" >}}) | 0 | 696 | 0.0 | Xhosa <xhosa@translate.org.za> | 
- | [kexi]({{< ref "/f40/package/kexi.md" >}}) | 0 | 7340 | 0.0 | Xhosa <xhosa@translate.org.za> | 
- | [kf5-kauth]({{< ref "/f40/package/kf5-kauth.md" >}}) | 0 | 73 | 0.0 | Xhosa <xhosa@translate.org.za> | 
- | [kf5-kbookmarks]({{< ref "/f40/package/kf5-kbookmarks.md" >}}) | 0 | 230 | 0.0 | Xhosa <xhosa@translate.org.za> | 
- | [kf5-kcodecs]({{< ref "/f40/package/kf5-kcodecs.md" >}}) | 0 | 370 | 0.0 | Xhosa <xhosa@translate.org.za> | 
- | [kf5-kcompletion]({{< ref "/f40/package/kf5-kcompletion.md" >}}) | 0 | 18 | 0.0 | Xhosa <xhosa@translate.org.za> | 
- | [kf5-kconfig]({{< ref "/f40/package/kf5-kconfig.md" >}}) | 0 | 289 | 0.0 | Xhosa <xhosa@translate.org.za> | 
- | [kf5-kcoreaddons]({{< ref "/f40/package/kf5-kcoreaddons.md" >}}) | 0 | 382 | 0.0 | Xhosa <xhosa@translate.org.za> | 
- | [kf5-knotifications]({{< ref "/f40/package/kf5-knotifications.md" >}}) | 0 | 21 | 0.0 | Xhosa <xhosa@translate.org.za> | 
- | [kf5-knotifyconfig]({{< ref "/f40/package/kf5-knotifyconfig.md" >}}) | 0 | 129 | 0.0 | Xhosa <xhosa@translate.org.za> | 
- | [kf5-kpty]({{< ref "/f40/package/kf5-kpty.md" >}}) | 0 | 15 | 0.0 | Xhosa <xhosa@translate.org.za> | 
- | [kf5-kservice]({{< ref "/f40/package/kf5-kservice.md" >}}) | 0 | 173 | 0.0 | Xhosa <xhosa@translate.org.za> | 
- | [kf5-kwidgetsaddons]({{< ref "/f40/package/kf5-kwidgetsaddons.md" >}}) | 0 | 1293 | 0.0 | Xhosa <xhosa@translate.org.za> | 
- | [kf5-kwindowsystem]({{< ref "/f40/package/kf5-kwindowsystem.md" >}}) | 0 | 2 | 0.0 | Xhosa <xhosa@translate.org.za> | 
- | [kf5-libkdepim]({{< ref "/f40/package/kf5-libkdepim.md" >}}) | 0 | 35 | 0.0 | Xhosa <xhosa@translate.org.za> | 
- | [kf5-sonnet]({{< ref "/f40/package/kf5-sonnet.md" >}}) | 0 | 683 | 0.0 | Xhosa <xhosa@translate.org.za> | 
- | [kf5-syntax-highlighting]({{< ref "/f40/package/kf5-syntax-highlighting.md" >}}) | 0 | 647 | 0.0 | Xhosa <xhosa@translate.org.za> | 
- | [kf6-kauth]({{< ref "/f40/package/kf6-kauth.md" >}}) | 0 | 73 | 0.0 | Xhosa <xhosa@translate.org.za> | 
- | [kf6-kbookmarks]({{< ref "/f40/package/kf6-kbookmarks.md" >}}) | 0 | 179 | 0.0 | Xhosa <xhosa@translate.org.za> | 
- | [kf6-kcodecs]({{< ref "/f40/package/kf6-kcodecs.md" >}}) | 0 | 370 | 0.0 | Xhosa <xhosa@translate.org.za> | 
- | [kf6-kcompletion]({{< ref "/f40/package/kf6-kcompletion.md" >}}) | 0 | 18 | 0.0 | Xhosa <xhosa@translate.org.za> | 
- | [kf6-kconfig]({{< ref "/f40/package/kf6-kconfig.md" >}}) | 0 | 550 | 0.0 | Xhosa <xhosa@translate.org.za> | 
- | [kf6-kcoreaddons]({{< ref "/f40/package/kf6-kcoreaddons.md" >}}) | 0 | 452 | 0.0 | Xhosa <xhosa@translate.org.za> | 
- | [kf6-kdnssd]({{< ref "/f40/package/kf6-kdnssd.md" >}}) | 0 | 3 | 0.0 | Xhosa <xhosa@translate.org.za> | 
- | [kf6-kglobalaccel]({{< ref "/f40/package/kf6-kglobalaccel.md" >}}) | 0 | 34 | 0.0 | Xhosa <xhosa@translate.org.za> | 
- | [kf6-ki18n]({{< ref "/f40/package/kf6-ki18n.md" >}}) | 0 | 124 | 0.0 | Xhosa <xhosa@translate.org.za> | 
- | [kf6-kitemviews]({{< ref "/f40/package/kf6-kitemviews.md" >}}) | 0 | 6 | 0.0 | Xhosa <xhosa@translate.org.za> | 
- | [kf6-kjobwidgets]({{< ref "/f40/package/kf6-kjobwidgets.md" >}}) | 0 | 136 | 0.0 | Xhosa <xhosa@translate.org.za> | 
- | [kf6-knewstuff]({{< ref "/f40/package/kf6-knewstuff.md" >}}) | 0 | 1038 | 0.0 | Xhosa <xhosa@translate.org.za> | 
- | [kf6-knotifications]({{< ref "/f40/package/kf6-knotifications.md" >}}) | 0 | 0 | 0.0 | Xhosa <xhosa@translate.org.za> | 
- | [kf6-knotifyconfig]({{< ref "/f40/package/kf6-knotifyconfig.md" >}}) | 0 | 19 | 0.0 | Xhosa <xhosa@translate.org.za> | 
- | [kf6-kpty]({{< ref "/f40/package/kf6-kpty.md" >}}) | 0 | 15 | 0.0 | Xhosa <xhosa@translate.org.za> | 
- | [kf6-kservice]({{< ref "/f40/package/kf6-kservice.md" >}}) | 0 | 45 | 0.0 | Xhosa <xhosa@translate.org.za> | 
- | [kf6-kwidgetsaddons]({{< ref "/f40/package/kf6-kwidgetsaddons.md" >}}) | 0 | 1277 | 0.0 | Xhosa <xhosa@translate.org.za> | 
- | [kf6-kwindowsystem]({{< ref "/f40/package/kf6-kwindowsystem.md" >}}) | 0 | 2 | 0.0 | Xhosa <xhosa@translate.org.za> | 
- | [kf6-sonnet]({{< ref "/f40/package/kf6-sonnet.md" >}}) | 0 | 684 | 0.0 | Xhosa <xhosa@translate.org.za> | 
- | [kf6-syntax-highlighting]({{< ref "/f40/package/kf6-syntax-highlighting.md" >}}) | 0 | 702 | 0.0 | Xhosa <xhosa@translate.org.za> | 
- | [kreport]({{< ref "/f40/package/kreport.md" >}}) | 0 | 411 | 0.0 | Xhosa <xhosa@translate.org.za> | 
- | [libkdepim]({{< ref "/f40/package/libkdepim.md" >}}) | 0 | 36 | 0.0 | Xhosa <xhosa@translate.org.za> | 
- | [nutty]({{< ref "/f40/package/nutty.md" >}}) | 0 | 608 | 0.0 |  | 
- | [obs-cef]({{< ref "/f40/package/obs-cef.md" >}}) | 0 | 0 | 0.0 |  | 
- | [optimizer]({{< ref "/f40/package/optimizer.md" >}}) | 0 | 282 | 0.0 | none | 
- | [policycoreutils]({{< ref "/f40/package/policycoreutils.md" >}}) | 0 | 7678 | 0.0 | Xhosa (http://www.transifex.com/projects/p/fedora/language/xh/) | 
- | [python-meh]({{< ref "/f40/package/python-meh.md" >}}) | 0 | 109 | 0.0 | Xhosa (http://www.transifex.com/projects/p/python-meh/language/xh/) | 
- | [regextester]({{< ref "/f40/package/regextester.md" >}}) | 0 | 104 | 0.0 | none | 
- | [wingpanel]({{< ref "/f40/package/wingpanel.md" >}}) | 0 | 57 | 0.0 | none | 
- | [wingpanel-indicator-a11y]({{< ref "/f40/package/wingpanel-indicator-a11y.md" >}}) | 0 | 55 | 0.0 | none | 
- | [wingpanel-indicator-bluetooth]({{< ref "/f40/package/wingpanel-indicator-bluetooth.md" >}}) | 0 | 80 | 0.0 | none | 
- | [wingpanel-indicator-datetime]({{< ref "/f40/package/wingpanel-indicator-datetime.md" >}}) | 0 | 103 | 0.0 |  | 
- | [wingpanel-indicator-keyboard]({{< ref "/f40/package/wingpanel-indicator-keyboard.md" >}}) | 0 | 56 | 0.0 |  | 
+ | [gconf-editor](/f40/package/gconf-editor) | 334 | 334 | 100.0 | Xhosa <xh-translate@ubuntu.com> | 
+ | [gnome-font-viewer](/f40/package/gnome-font-viewer) | 32 | 32 | 100.0 | translate-discuss-xh@lists.sourceforge.net | 
+ | [gnome-icon-theme](/f40/package/gnome-icon-theme) | 53 | 53 | 100.0 | Xhosa <xh-translate@ubuntu.com> | 
+ | [gnome-mime-data](/f40/package/gnome-mime-data) | 887 | 887 | 100.0 | Xhosa <xh-translate@ubuntu.com> | 
+ | [gnome-shell-frippery](/f40/package/gnome-shell-frippery) | 17 | 17 | 100.0 |  | 
+ | [gnome-vfs2](/f40/package/gnome-vfs2) | 1281 | 1281 | 100.0 | Xhosa <xh-translate@ubuntu.com> | 
+ | [gthumb](/f40/package/gthumb) | 2610 | 2610 | 100.0 | Xhosa <xh-translate@ubuntu.com> | 
+ | [gtkhtml3](/f40/package/gtkhtml3) | 949 | 949 | 100.0 | Xhosa <xh-translate@ubuntu.com> | 
+ | [gtksourceview2](/f40/package/gtksourceview2) | 725 | 725 | 100.0 | Xhosa <xh-translate@ubuntu.com> | 
+ | [gtksourceview4](/f40/package/gtksourceview4) | 725 | 725 | 100.0 | Xhosa <xh-translate@ubuntu.com> | 
+ | [gtksourceview5](/f40/package/gtksourceview5) | 725 | 725 | 100.0 | Xhosa <xh-translate@ubuntu.com> | 
+ | [gucharmap](/f40/package/gucharmap) | 507 | 507 | 100.0 | Xhosa <xh-translate@ubuntu.com> | 
+ | [libgnome](/f40/package/libgnome) | 1407 | 1407 | 100.0 | Xhosa <xh-translate@ubuntu.com> | 
+ | [libgnomecanvas](/f40/package/libgnomecanvas) | 357 | 357 | 100.0 | Xhosa <xh-translate@ubuntu.com> | 
+ | [libgtop2](/f40/package/libgtop2) | 134 | 134 | 100.0 | Xhosa <xh-translate@ubuntu.com> | 
+ | [libwnck](/f40/package/libwnck) | 73 | 73 | 100.0 | Xhosa <xh-translate@ubuntu.com> | 
+ | [libwnck3](/f40/package/libwnck3) | 73 | 73 | 100.0 | Xhosa <xh-translate@ubuntu.com> | 
+ | [mate-icon-theme](/f40/package/mate-icon-theme) | 4 | 4 | 100.0 | Xhosa (https://app.transifex.com/mate/teams/13566/xh/) | 
+ | [newt](/f40/package/newt) | 4 | 4 | 100.0 | Xhosa <xh-translate@ubuntu.com> | 
+ | [vte](/f40/package/vte) | 96 | 96 | 100.0 | Xhosa <xh-translate@ubuntu.com> | 
+ | [vte291](/f40/package/vte291) | 96 | 96 | 100.0 | Xhosa <xh-translate@ubuntu.com> | 
+ | [yelp](/f40/package/yelp) | 597 | 597 | 100.0 | Xhosa <xh-translate@ubuntu.com> | 
+ | [magpie](/f40/package/magpie) | 6893 | 6919 | 99.6 | Xhosa <xh-translate@ubuntu.com> | 
+ | [metacity](/f40/package/metacity) | 6893 | 6919 | 99.6 | Xhosa <xh-translate@ubuntu.com> | 
+ | [muffin](/f40/package/muffin) | 6893 | 6919 | 99.6 | Xhosa <xh-translate@ubuntu.com> | 
+ | [mutter](/f40/package/mutter) | 6893 | 6919 | 99.6 | Xhosa <xh-translate@ubuntu.com> | 
+ | [gnome-bluetooth](/f40/package/gnome-bluetooth) | 596 | 599 | 99.5 | andiswamva@gmail.com | 
+ | [gnome-bluetooth3.34](/f40/package/gnome-bluetooth3.34) | 596 | 599 | 99.5 | andiswamva@gmail.com | 
+ | [libbonoboui](/f40/package/libbonoboui) | 358 | 360 | 99.4 | Xhosa <xh-translate@ubuntu.com> | 
+ | [gnome-terminal](/f40/package/gnome-terminal) | 4397 | 4422 | 99.4 | Xhosa <xh-translate@ubuntu.com> | 
+ | [evolution-data-server](/f40/package/evolution-data-server) | 4657 | 4692 | 99.3 | Xhosa <xh-translate@ubuntu.com> | 
+ | [gedit](/f40/package/gedit) | 4120 | 4205 | 98.0 | Xhosa <xh-translate@ubuntu.com> | 
+ | [sound-juicer](/f40/package/sound-juicer) | 683 | 699 | 97.7 | Xhosa <xh-translate@ubuntu.com> | 
+ | [GConf2](/f40/package/GConf2) | 3832 | 3954 | 96.9 | Xhosa <xh-translate@ubuntu.com> | 
+ | [mingw-GConf2](/f40/package/mingw-GConf2) | 3832 | 3954 | 96.9 | Xhosa <xh-translate@ubuntu.com> | 
+ | [nautilus](/f40/package/nautilus) | 6945 | 7210 | 96.3 | Xhosa <xh-translate@ubuntu.com> | 
+ | [gnome-applets](/f40/package/gnome-applets) | 3815 | 3978 | 95.9 | Xhosa <xh-translate@ubuntu.com> | 
+ | [at-spi2-core](/f40/package/at-spi2-core) | 359 | 375 | 95.7 | Xhosa <xh-translate@ubuntu.com> | 
+ | [mingw-atk](/f40/package/mingw-atk) | 359 | 375 | 95.7 | Xhosa <xh-translate@ubuntu.com> | 
+ | [file-roller](/f40/package/file-roller) | 928 | 971 | 95.6 | Xhosa Team <xhosa@ubuntu.com> | 
+ | [budgie-screensaver](/f40/package/budgie-screensaver) | 272 | 286 | 95.1 | translate-discuss-xh@lists.sourceforge.net | 
+ | [gnome-nettool](/f40/package/gnome-nettool) | 487 | 520 | 93.7 | Xhosa <xh-translate@ubuntu.com> | 
+ | [budgie-session](/f40/package/budgie-session) | 498 | 533 | 93.4 | Xhosa <xh-translate@ubuntu.com> | 
+ | [gnome-session](/f40/package/gnome-session) | 498 | 533 | 93.4 | Xhosa <xh-translate@ubuntu.com> | 
+ | [gnome-calculator](/f40/package/gnome-calculator) | 851 | 915 | 93.0 | Xhosa <xh-translate@ubuntu.com> | 
+ | [libbonobo](/f40/package/libbonobo) | 485 | 524 | 92.6 | Xhosa <xh-translate@ubuntu.com> | 
+ | [zenity](/f40/package/zenity) | 359 | 394 | 91.1 | Xhosa <xh-translate@ubuntu.com> | 
+ | [libgnomeui](/f40/package/libgnomeui) | 1266 | 1419 | 89.2 | Xhosa <xh-translate@ubuntu.com> | 
+ | [gnome-screenshot](/f40/package/gnome-screenshot) | 241 | 284 | 84.9 | translate-discuss-xh@lists.sourceforge.net | 
+ | [gnome-menus](/f40/package/gnome-menus) | 80 | 95 | 84.2 | translate-discuss-xh@lists.sourceforge.net | 
+ | [gnome-control-center](/f40/package/gnome-control-center) | 2834 | 3385 | 83.7 | Xhosa <xh-translate@ubuntu.com> | 
+ | [libgweather](/f40/package/libgweather) | 355 | 460 | 77.2 | Xhosa <xh-translate@ubuntu.com> | 
+ | [evolution](/f40/package/evolution) | 12845 | 17202 | 74.7 | Xhosa <xh-translate@ubuntu.com> | 
+ | [gdk-pixbuf2](/f40/package/gdk-pixbuf2) | 987 | 1348 | 73.2 | Xhosa <xh-translate@ubuntu.com> | 
+ | [mingw-gdk-pixbuf](/f40/package/mingw-gdk-pixbuf) | 987 | 1348 | 73.2 | Xhosa <xh-translate@ubuntu.com> | 
+ | [eog](/f40/package/eog) | 1140 | 1589 | 71.7 | translate-discuss-xh@lists.sourceforge.net | 
+ | [kiconedit](/f40/package/kiconedit) | 493 | 726 | 67.9 | Xhosa <xhosa@translate.org.za> | 
+ | [libmateweather](/f40/package/libmateweather) | 317 | 500 | 63.4 | Xhosa (https://app.transifex.com/mate/teams/13566/xh/) | 
+ | [ksig](/f40/package/ksig) | 52 | 85 | 61.2 | Xhosa <xhosa@translate.org.za> | 
+ | [gnome-desktop3](/f40/package/gnome-desktop3) | 139 | 235 | 59.1 | translate-discuss-xh@lists.sourceforge.net | 
+ | [cervisia](/f40/package/cervisia) | 908 | 1550 | 58.6 | Xhosa <xhosa@translate.org.za> | 
+ | [gtk2](/f40/package/gtk2) | 7884 | 13704 | 57.5 | Xhosa <xh-translate@ubuntu.com> | 
+ | [mingw-gtk2](/f40/package/mingw-gtk2) | 7884 | 13704 | 57.5 | Xhosa <xh-translate@ubuntu.com> | 
+ | [gedit-plugins](/f40/package/gedit-plugins) | 682 | 1205 | 56.6 | Xhosa <xh-translate@ubuntu.com> | 
+ | [kspaceduel](/f40/package/kspaceduel) | 93 | 165 | 56.4 | Xhosa <xhosa@translate.org.za> | 
+ | [gnome-panel](/f40/package/gnome-panel) | 1976 | 3520 | 56.1 | Xhosa <xh-translate@ubuntu.com> | 
+ | [cinnamon-desktop](/f40/package/cinnamon-desktop) | 127 | 234 | 54.3 | translate-discuss-xh@lists.sourceforge.net | 
+ | [kamera](/f40/package/kamera) | 143 | 267 | 53.6 | Xhosa <xhosa@translate.org.za> | 
+ | [lxmenu-data](/f40/package/lxmenu-data) | 51 | 97 | 52.6 | Xhosa <xh-translate@ubuntu.com> | 
+ | [gtk3](/f40/package/gtk3) | 6156 | 11853 | 51.9 | Xhosa <xh-translate@ubuntu.com> | 
+ | [mingw-gtk3](/f40/package/mingw-gtk3) | 6156 | 11853 | 51.9 | Xhosa <xh-translate@ubuntu.com> | 
+ | [mate-menus](/f40/package/mate-menus) | 53 | 103 | 51.5 | Xhosa (https://app.transifex.com/mate/teams/13566/xh/) | 
+ | [aisleriot](/f40/package/aisleriot) | 966 | 1987 | 48.6 | Xhosa <xh-translate@ubuntu.com> | 
+ | [marco](/f40/package/marco) | 1927 | 4171 | 46.2 | Xhosa (https://app.transifex.com/mate/teams/13566/xh/) | 
+ | [kdf](/f40/package/kdf) | 78 | 177 | 44.1 | Xhosa <xhosa@translate.org.za> | 
+ | [libzypp](/f40/package/libzypp) | 1163 | 2750 | 42.3 | Novell Language <language@novell.com> | 
+ | [gnome-robots](/f40/package/gnome-robots) | 250 | 597 | 41.9 | Xhosa <xh-translate@ubuntu.com> | 
+ | [tali](/f40/package/tali) | 174 | 421 | 41.3 | Xhosa <xh-translate@ubuntu.com> | 
+ | [kf5-libkcddb](/f40/package/kf5-libkcddb) | 37 | 90 | 41.1 | Xhosa <xhosa@translate.org.za> | 
+ | [libkcddb](/f40/package/libkcddb) | 37 | 90 | 41.1 | Xhosa <xhosa@translate.org.za> | 
+ | [libkdegames](/f40/package/libkdegames) | 126 | 316 | 39.9 | Xhosa <xhosa@translate.org.za> | 
+ | [quadrapassel](/f40/package/quadrapassel) | 170 | 428 | 39.7 | Xhosa <xh-translate@ubuntu.com> | 
+ | [cheese](/f40/package/cheese) | 193 | 504 | 38.3 | translate-discuss-xh@lists.sourceforge.net | 
+ | [kolf](/f40/package/kolf) | 152 | 405 | 37.5 | Xhosa <xhosa@translate.org.za> | 
+ | [xed](/f40/package/xed) | 1363 | 3775 | 36.1 | Xhosa (http://www.transifex.com/projects/p/MATE/language/xh/) | 
+ | [four-in-a-row](/f40/package/four-in-a-row) | 92 | 256 | 35.9 | Xhosa <xh-translate@ubuntu.com> | 
+ | [pidgin](/f40/package/pidgin) | 4831 | 13994 | 34.5 | Xhosa (http://app.transifex.com/pidgin/pidgin/language/xh/) | 
+ | [mate-panel](/f40/package/mate-panel) | 2267 | 6753 | 33.6 | Xhosa (https://app.transifex.com/mate/teams/13566/xh/) | 
+ | [gimp](/f40/package/gimp) | 8152 | 24516 | 33.3 | Xhosa <xh-translate@ubuntu.com> | 
+ | [gimp3](/f40/package/gimp3) | 8152 | 24516 | 33.3 | Xhosa <xh-translate@ubuntu.com> | 
+ | [mate-terminal](/f40/package/mate-terminal) | 2720 | 8238 | 33.0 | Xhosa (https://app.transifex.com/mate/teams/13566/xh/) | 
+ | [kde-cli-tools](/f40/package/kde-cli-tools) | 401 | 1217 | 32.9 | Xhosa <xhosa@translate.org.za> | 
+ | [five-or-more](/f40/package/five-or-more) | 91 | 282 | 32.3 | Xhosa <xh-translate@ubuntu.com> | 
+ | [caja](/f40/package/caja) | 3175 | 10156 | 31.3 | Xhosa (https://app.transifex.com/mate/teams/13566/xh/) | 
+ | [gnome-settings-daemon](/f40/package/gnome-settings-daemon) | 313 | 1034 | 30.3 | Xhosa <xh-translate@ubuntu.com> | 
+ | [kcharselect](/f40/package/kcharselect) | 27 | 92 | 29.3 | xhosa <fundile@translate.org.za> | 
+ | [kf5-kconfigwidgets](/f40/package/kf5-kconfigwidgets) | 98 | 342 | 28.7 | Xhosa <xhosa@translate.org.za> | 
+ | [kf6-kio](/f40/package/kf6-kio) | 2381 | 8540 | 27.9 | Xhosa <xhosa@translate.org.za> | 
+ | [gnome-klotski](/f40/package/gnome-klotski) | 54 | 194 | 27.8 | Xhosa <xh-translate@ubuntu.com> | 
+ | [mozo](/f40/package/mozo) | 12 | 46 | 26.1 | Xhosa (https://app.transifex.com/mate/teams/13566/xh/) | 
+ | [klines](/f40/package/klines) | 25 | 99 | 25.3 | Xhosa <xhosa@translate.org.za> | 
+ | [konquest](/f40/package/konquest) | 62 | 248 | 25.0 | Xhosa <xhosa@translate.org.za> | 
+ | [gtk4](/f40/package/gtk4) | 597 | 2432 | 24.5 | Xhosa <xh-translate@ubuntu.com> | 
+ | [mingw-gtk4](/f40/package/mingw-gtk4) | 597 | 2432 | 24.5 | Xhosa <xh-translate@ubuntu.com> | 
+ | [gnome-nibbles](/f40/package/gnome-nibbles) | 105 | 447 | 23.5 | Xhosa <xh-translate@ubuntu.com> | 
+ | [koffice-kivio](/f40/package/koffice-kivio) | 1954 | 8417 | 23.2 | Xhosa <xhosa@translate.org.za> | 
+ | [lskat](/f40/package/lskat) | 60 | 266 | 22.6 | Xhosa <xhosa@translate.org.za> | 
+ | [ktuberling](/f40/package/ktuberling) | 34 | 158 | 21.5 | Xhosa <xhosa@translate.org.za> | 
+ | [kmahjongg](/f40/package/kmahjongg) | 76 | 359 | 21.2 | Xhosa <xhosa@translate.org.za> | 
+ | [calligra](/f40/package/calligra) | 5416 | 25990 | 20.8 | Xhosa <xhosa@translate.org.za> | 
+ | [kf6-kconfigwidgets](/f40/package/kf6-kconfigwidgets) | 64 | 312 | 20.5 | Xhosa <xhosa@translate.org.za> | 
+ | [kdialog](/f40/package/kdialog) | 81 | 403 | 20.1 | Xhosa <xhosa@translate.org.za> | 
+ | [kf5-ktextwidgets](/f40/package/kf5-ktextwidgets) | 94 | 473 | 19.9 | Xhosa <xhosa@translate.org.za> | 
+ | [kf6-ktextwidgets](/f40/package/kf6-ktextwidgets) | 93 | 473 | 19.7 | Xhosa <xhosa@translate.org.za> | 
+ | [mate-desktop](/f40/package/mate-desktop) | 471 | 2412 | 19.5 | Xhosa (https://app.transifex.com/mate/teams/13566/xh/) | 
+ | [glib2](/f40/package/glib2) | 902 | 4777 | 18.9 | Xhosa <xh-translate@ubuntu.com> | 
+ | [mingw-glib2](/f40/package/mingw-glib2) | 902 | 4777 | 18.9 | Xhosa <xh-translate@ubuntu.com> | 
+ | [konqueror](/f40/package/konqueror) | 1185 | 6323 | 18.7 | Xhosa <xhosa@translate.org.za> | 
+ | [kbounce](/f40/package/kbounce) | 29 | 156 | 18.6 | Xhosa <xhosa@translate.org.za> | 
+ | [kmix](/f40/package/kmix) | 208 | 1159 | 17.9 | Xhosa <xhosa@translate.org.za> | 
+ | [kcron](/f40/package/kcron) | 74 | 436 | 17.0 | Xhosa <xhosa@translate.org.za> | 
+ | [libreoffice](/f40/package/libreoffice) | 28873 | 171085 | 16.9 | LANGUAGE <LL@li.org> | 
+ | [khelpcenter](/f40/package/khelpcenter) | 37 | 221 | 16.7 | Xhosa <xhosa@translate.org.za> | 
+ | [eom](/f40/package/eom) | 276 | 1779 | 15.5 | Xhosa (https://app.transifex.com/mate/teams/13566/xh/) | 
+ | [kf6-kiconthemes](/f40/package/kf6-kiconthemes) | 7 | 46 | 15.2 | Xhosa <xhosa@translate.org.za> | 
+ | [pluma](/f40/package/pluma) | 1880 | 13113 | 14.3 | Xhosa (https://app.transifex.com/mate/teams/13566/xh/) | 
+ | [krfb](/f40/package/krfb) | 103 | 734 | 14.0 | Xhosa <xhosa@translate.org.za> | 
+ | [kfourinline](/f40/package/kfourinline) | 53 | 384 | 13.8 | Xhosa <xhosa@translate.org.za> | 
+ | [kfloppy](/f40/package/kfloppy) | 85 | 641 | 13.3 | Xhosa <xhosa@translate.org.za> | 
+ | [gnome-system-log](/f40/package/gnome-system-log) | 67 | 522 | 12.8 | Xhosa <xh-translate@ubuntu.com> | 
+ | [kiten](/f40/package/kiten) | 82 | 651 | 12.6 | Xhosa <xhosa@translate.org.za> | 
+ | [kmenuedit](/f40/package/kmenuedit) | 35 | 278 | 12.6 | Xhosa <xhosa@translate.org.za> | 
+ | [mate-session-manager](/f40/package/mate-session-manager) | 90 | 717 | 12.6 | Xhosa (https://app.transifex.com/mate/teams/13566/xh/) | 
+ | [kate](/f40/package/kate) | 365 | 2994 | 12.2 | Xhosa <xhosa@translate.org.za> | 
+ | [mate-themes](/f40/package/mate-themes) | 9 | 74 | 12.2 | Xhosa (http://app.transifex.com/mate/MATE/language/xh/) | 
+ | [kompare](/f40/package/kompare) | 169 | 1413 | 12.0 | Xhosa <xhosa@translate.org.za> | 
+ | [kteatime](/f40/package/kteatime) | 24 | 203 | 11.8 | Xhosa <xhosa@translate.org.za> | 
+ | [kf5-kxmlgui](/f40/package/kf5-kxmlgui) | 185 | 1574 | 11.8 | Xhosa <xhosa@translate.org.za> | 
+ | [kinfocenter](/f40/package/kinfocenter) | 19 | 162 | 11.7 | Xhosa <xhosa@translate.org.za> | 
+ | [kfind](/f40/package/kfind) | 60 | 517 | 11.6 | Xhosa <xhosa@translate.org.za> | 
+ | [kf5-kparts](/f40/package/kf5-kparts) | 16 | 138 | 11.6 | Xhosa <xhosa@translate.org.za> | 
+ | [mate-utils](/f40/package/mate-utils) | 1120 | 9901 | 11.3 | Xhosa (https://app.transifex.com/mate/teams/13566/xh/) | 
+ | [mate-settings-daemon](/f40/package/mate-settings-daemon) | 249 | 2203 | 11.3 | Xhosa (https://app.transifex.com/mate/teams/13566/xh/) | 
+ | [gnome-mahjongg](/f40/package/gnome-mahjongg) | 33 | 304 | 10.9 | Xhosa <xh-translate@ubuntu.com> | 
+ | [kf5-kdelibs4support](/f40/package/kf5-kdelibs4support) | 568 | 5353 | 10.6 | Xhosa <xhosa@translate.org.za> | 
+ | [kf6-kxmlgui](/f40/package/kf6-kxmlgui) | 132 | 1274 | 10.4 | Xhosa <xhosa@translate.org.za> | 
+ | [gnome-mines](/f40/package/gnome-mines) | 35 | 344 | 10.2 | Xhosa <xh-translate@ubuntu.com> | 
+ | [gnome-tetravex](/f40/package/gnome-tetravex) | 22 | 220 | 10.0 | Xhosa <xh-translate@ubuntu.com> | 
+ | [pluma-plugins](/f40/package/pluma-plugins) | 136 | 1405 | 9.7 | Xhosa (https://app.transifex.com/mate/teams/13566/xh/) | 
+ | [knotes](/f40/package/knotes) | 58 | 601 | 9.7 | Xhosa <xhosa@translate.org.za> | 
+ | [ktimer](/f40/package/ktimer) | 24 | 258 | 9.3 | Xhosa <xhosa@translate.org.za> | 
+ | [engrampa](/f40/package/engrampa) | 692 | 7815 | 8.9 | Xhosa (https://app.transifex.com/mate/teams/13566/xh/) | 
+ | [kmines](/f40/package/kmines) | 14 | 164 | 8.5 | Xhosa <xhosa@translate.org.za> | 
+ | [kf5-messagelib](/f40/package/kf5-messagelib) | 314 | 3692 | 8.5 | Xhosa <xhosa@translate.org.za> | 
+ | [mate-applets](/f40/package/mate-applets) | 1368 | 16106 | 8.5 | Xhosa (https://app.transifex.com/mate/teams/13566/xh/) | 
+ | [swell-foop](/f40/package/swell-foop) | 22 | 266 | 8.3 | Xhosa <xh-translate@ubuntu.com> | 
+ | [kf5-ktexteditor](/f40/package/kf5-ktexteditor) | 759 | 9233 | 8.2 | Xhosa <xhosa@translate.org.za> | 
+ | [mate-menu](/f40/package/mate-menu) | 25 | 308 | 8.1 | Xhosa (http://www.transifex.com/mate/MATE/language/xh/) | 
+ | [kf6-ktexteditor](/f40/package/kf6-ktexteditor) | 753 | 9463 | 8.0 | Xhosa <xhosa@translate.org.za> | 
+ | [kruler](/f40/package/kruler) | 12 | 158 | 7.6 | Xhosa <xhosa@translate.org.za> | 
+ | [kpilot](/f40/package/kpilot) | 521 | 7156 | 7.3 | Xhosa <xhosa@translate.org.za> | 
+ | [kjumpingcube](/f40/package/kjumpingcube) | 30 | 413 | 7.3 | Xhosa <xhosa@translate.org.za> | 
+ | [mate-media](/f40/package/mate-media) | 17 | 244 | 7.0 | Xhosa (https://app.transifex.com/mate/teams/13566/xh/) | 
+ | [iagno](/f40/package/iagno) | 22 | 322 | 6.8 | Xhosa <xh-translate@ubuntu.com> | 
+ | [kwin](/f40/package/kwin) | 315 | 4620 | 6.8 | Xhosa <xhosa@translate.org.za> | 
+ | [kwin-x11](/f40/package/kwin-x11) | 315 | 4620 | 6.8 | Xhosa <xhosa@translate.org.za> | 
+ | [libkomparediff2](/f40/package/libkomparediff2) | 9 | 143 | 6.3 | Xhosa <xhosa@translate.org.za> | 
+ | [mate-control-center](/f40/package/mate-control-center) | 502 | 8260 | 6.1 | Xhosa (https://app.transifex.com/mate/teams/13566/xh/) | 
+ | [kcalc](/f40/package/kcalc) | 66 | 1111 | 5.9 | Xhosa <xhosa@translate.org.za> | 
+ | [knavalbattle](/f40/package/knavalbattle) | 21 | 401 | 5.2 | Xhosa <xhosa@translate.org.za> | 
+ | [messagelib](/f40/package/messagelib) | 185 | 3620 | 5.1 | Xhosa <xhosa@translate.org.za> | 
+ | [kaddressbook](/f40/package/kaddressbook) | 58 | 1150 | 5.0 | Xhosa <xhosa@translate.org.za> | 
+ | [kf5-kross](/f40/package/kf5-kross) | 5 | 100 | 5.0 | Xhosa <xhosa@translate.org.za> | 
+ | [katomic](/f40/package/katomic) | 9 | 184 | 4.9 | Xhosa <xhosa@translate.org.za> | 
+ | [kio-extras](/f40/package/kio-extras) | 117 | 2571 | 4.6 | Xhosa <xhosa@translate.org.za> | 
+ | [kmail](/f40/package/kmail) | 375 | 8488 | 4.4 | Xhosa <xhosa@translate.org.za> | 
+ | [baobab](/f40/package/baobab) | 23 | 540 | 4.3 | Xhosa <xh-translate@ubuntu.com> | 
+ | [kio-extras-kf5](/f40/package/kio-extras-kf5) | 32 | 842 | 3.8 | Xhosa <xhosa@translate.org.za> | 
+ | [kpat](/f40/package/kpat) | 22 | 589 | 3.7 | Xhosa <xhosa@translate.org.za> | 
+ | [parley](/f40/package/parley) | 126 | 3433 | 3.7 | Xhosa <xhosa@translate.org.za> | 
+ | [isomaster](/f40/package/isomaster) | 24 | 674 | 3.6 | http://littlesvr.ca/ostd/ | 
+ | [gnome-keyring](/f40/package/gnome-keyring) | 17 | 490 | 3.5 | Xhosa <xh-translate@ubuntu.com> | 
+ | [caja-extensions](/f40/package/caja-extensions) | 29 | 845 | 3.4 | Xhosa (https://app.transifex.com/mate/teams/13566/xh/) | 
+ | [gdm](/f40/package/gdm) | 21 | 650 | 3.2 | Xhosa <xh-translate@ubuntu.com> | 
+ | [mate-notification-daemon](/f40/package/mate-notification-daemon) | 6 | 186 | 3.2 | Xhosa (https://app.transifex.com/mate/teams/13566/xh/) | 
+ | [kf5-kdeclarative](/f40/package/kf5-kdeclarative) | 5 | 161 | 3.1 | Xhosa <xhosa@translate.org.za> | 
+ | [kf6-kdeclarative](/f40/package/kf6-kdeclarative) | 5 | 169 | 3.0 | Xhosa <xhosa@translate.org.za> | 
+ | [kcoloredit](/f40/package/kcoloredit) | 8 | 278 | 2.9 | Xhosa <xhosa@translate.org.za> | 
+ | [audiocd-kio](/f40/package/audiocd-kio) | 9 | 334 | 2.7 | Xhosa <xhosa@translate.org.za> | 
+ | [light-locker](/f40/package/light-locker) | 7 | 260 | 2.7 | Xhosa (http://www.transifex.com/the_cavalry/light-locker/language/xh/) | 
+ | [libmatekbd](/f40/package/libmatekbd) | 8 | 308 | 2.6 | Xhosa (https://app.transifex.com/mate/teams/13566/xh/) | 
+ | [asunder](/f40/package/asunder) | 12 | 493 | 2.4 | http://littlesvr.ca/ostd/ | 
+ | [krdc](/f40/package/krdc) | 28 | 1192 | 2.3 | Xhosa <xhosa@translate.org.za> | 
+ | [atril](/f40/package/atril) | 102 | 4364 | 2.3 | Xhosa (https://www.transifex.com/mate/teams/13566/xh/) | 
+ | [gnome-dictionary](/f40/package/gnome-dictionary) | 19 | 833 | 2.3 | Xhosa <xh-translate@ubuntu.com> | 
+ | [klettres](/f40/package/klettres) | 10 | 440 | 2.3 | Xhosa <xhosa@translate.org.za> | 
+ | [plasma-desktop](/f40/package/plasma-desktop) | 69 | 3039 | 2.3 | Xhosa <xhosa@translate.org.za> | 
+ | [kshisen](/f40/package/kshisen) | 15 | 667 | 2.2 | Xhosa <xhosa@translate.org.za> | 
+ | [debconf](/f40/package/debconf) | 4 | 191 | 2.1 | Xhosa <xh-translate@ubuntu.com> | 
+ | [lightsoff](/f40/package/lightsoff) | 2 | 97 | 2.1 | Xhosa <xh-translate@ubuntu.com> | 
+ | [mate-calc](/f40/package/mate-calc) | 66 | 3327 | 2.0 | Xhosa (https://app.transifex.com/mate/teams/13566/xh/) | 
+ | [kf6-kparts](/f40/package/kf6-kparts) | 1 | 57 | 1.8 | Xhosa <xhosa@translate.org.za> | 
+ | [mailimporter](/f40/package/mailimporter) | 21 | 1405 | 1.5 | Xhosa <xhosa@translate.org.za> | 
+ | [kf5-mailimporter](/f40/package/kf5-mailimporter) | 21 | 1408 | 1.5 | Xhosa <xhosa@translate.org.za> | 
+ | [cinnamon-translations](/f40/package/cinnamon-translations) | 158 | 10690 | 1.5 | Xhosa <xh@li.org> | 
+ | [kalzium](/f40/package/kalzium) | 125 | 9093 | 1.4 | Xhosa <xhosa@translate.org.za> | 
+ | [mate-screensaver](/f40/package/mate-screensaver) | 14 | 1101 | 1.3 | Xhosa (https://app.transifex.com/mate/teams/13566/xh/) | 
+ | [libgedit-gtksourceview](/f40/package/libgedit-gtksourceview) | 4 | 319 | 1.3 | Xhosa <xh-translate@ubuntu.com> | 
+ | [rednotebook](/f40/package/rednotebook) | 16 | 1278 | 1.3 | Xhosa <xh@li.org> | 
+ | [mate-system-monitor](/f40/package/mate-system-monitor) | 61 | 4894 | 1.2 | Xhosa (https://app.transifex.com/mate/teams/13566/xh/) | 
+ | [gtksourceview3](/f40/package/gtksourceview3) | 4 | 322 | 1.2 | Xhosa <xh-translate@ubuntu.com> | 
+ | [mingw-gtksourceview3](/f40/package/mingw-gtksourceview3) | 4 | 322 | 1.2 | Xhosa <xh-translate@ubuntu.com> | 
+ | [libmatemixer](/f40/package/libmatemixer) | 3 | 242 | 1.2 | Xhosa (https://app.transifex.com/mate/teams/13566/xh/) | 
+ | [kreversi](/f40/package/kreversi) | 5 | 404 | 1.2 | Xhosa <xhosa@translate.org.za> | 
+ | [gnome-chess](/f40/package/gnome-chess) | 17 | 1390 | 1.2 | Xhosa <xh-translate@ubuntu.com> | 
+ | [konsole5](/f40/package/konsole5) | 45 | 3996 | 1.1 | Xhosa <xhosa@translate.org.za> | 
+ | [khangman](/f40/package/khangman) | 5 | 449 | 1.1 | Xhosa <xhosa@translate.org.za> | 
+ | [kjots](/f40/package/kjots) | 7 | 651 | 1.1 | Xhosa <xhosa@translate.org.za> | 
+ | [iso-codes](/f40/package/iso-codes) | 169 | 15908 | 1.1 | Xhosa <xhosa@translate.org.za> | 
+ | [konsole](/f40/package/konsole) | 45 | 4299 | 1.0 | Xhosa <xhosa@translate.org.za> | 
+ | [korganizer](/f40/package/korganizer) | 74 | 7140 | 1.0 | Xhosa <xhosa@translate.org.za> | 
+ | [kblackbox](/f40/package/kblackbox) | 14 | 1364 | 1.0 | Xhosa <xhosa@translate.org.za> | 
+ | [kstars](/f40/package/kstars) | 596 | 58759 | 1.0 | Xhosa <xhosa@translate.org.za> | 
+ | [gnome-sudoku](/f40/package/gnome-sudoku) | 4 | 399 | 1.0 | Xhosa <xh-translate@ubuntu.com> | 
+ | [mate-user-admin](/f40/package/mate-user-admin) | 6 | 605 | 1.0 | Xhosa (https://www.transifex.com/mate/teams/13566/xh/) | 
+ | [kalarm](/f40/package/kalarm) | 79 | 8562 | 0.9 | Xhosa <xhosa@translate.org.za> | 
+ | [akonadi-calendar-tools](/f40/package/akonadi-calendar-tools) | 4 | 458 | 0.9 | Xhosa <xhosa@translate.org.za> | 
+ | [plasma-workspace](/f40/package/plasma-workspace) | 40 | 4625 | 0.9 | Xhosa <xhosa@translate.org.za> | 
+ | [plasma-workspace-x11](/f40/package/plasma-workspace-x11) | 40 | 4625 | 0.9 | Xhosa <xhosa@translate.org.za> | 
+ | [kf6-kcmutils](/f40/package/kf6-kcmutils) | 1 | 123 | 0.8 | Xhosa <xhosa@translate.org.za> | 
+ | [mate-polkit](/f40/package/mate-polkit) | 1 | 123 | 0.8 | Xhosa (https://app.transifex.com/mate/teams/13566/xh/) | 
+ | [kmplot](/f40/package/kmplot) | 20 | 2501 | 0.8 | Xhosa <xhosa@translate.org.za> | 
+ | [mate-sensors-applet](/f40/package/mate-sensors-applet) | 17 | 2160 | 0.8 | Xhosa (https://app.transifex.com/mate/teams/13566/xh/) | 
+ | [ktouch](/f40/package/ktouch) | 6 | 964 | 0.6 | Xhosa <xhosa@translate.org.za> | 
+ | [kget](/f40/package/kget) | 17 | 2767 | 0.6 | Xhosa <xhosa@translate.org.za> | 
+ | [zypper](/f40/package/zypper) | 57 | 9878 | 0.6 | Novell Language <language@novell.com> | 
+ | [calendarsupport](/f40/package/calendarsupport) | 13 | 2759 | 0.5 | Xhosa <xhosa@translate.org.za> | 
+ | [mate-power-manager](/f40/package/mate-power-manager) | 24 | 5123 | 0.5 | Xhosa (https://app.transifex.com/mate/teams/13566/xh/) | 
+ | [kf5-calendarsupport](/f40/package/kf5-calendarsupport) | 13 | 2779 | 0.5 | Xhosa <xhosa@translate.org.za> | 
+ | [ark](/f40/package/ark) | 8 | 1983 | 0.4 | xhosa <fundile@translate.org.za> | 
+ | [caja-actions](/f40/package/caja-actions) | 73 | 18812 | 0.4 | Xhosa (https://app.transifex.com/mate/teams/13566/xh/) | 
+ | [kf5-kcmutils](/f40/package/kf5-kcmutils) | 1 | 266 | 0.4 | Xhosa <xhosa@translate.org.za> | 
+ | [kbruch](/f40/package/kbruch) | 5 | 1347 | 0.4 | Xhosa <xhosa@translate.org.za> | 
+ | [kopete](/f40/package/kopete) | 63 | 17151 | 0.4 | <xh@li.org> | 
+ | [snapper](/f40/package/snapper) | 3 | 1092 | 0.3 | Novell Language <language@novell.com> | 
+ | [krita](/f40/package/krita) | 98 | 35986 | 0.3 | Xhosa <xhosa@translate.org.za> | 
+ | [plasma-drkonqi](/f40/package/plasma-drkonqi) | 4 | 1925 | 0.2 | Xhosa <xhosa@translate.org.za> | 
+ | [manafirewall](/f40/package/manafirewall) | 2 | 1097 | 0.2 | Xhosa (https://www.transifex.com/MageiaLinux/teams/9361/xh/) | 
+ | [mate-user-guide](/f40/package/mate-user-guide) | 69 | 40822 | 0.2 | Xhosa (https://www.transifex.com/mate/teams/13566/xh/) | 
+ | [okular](/f40/package/okular) | 5 | 4135 | 0.1 | Xhosa <xhosa@translate.org.za> | 
+ | [kleopatra](/f40/package/kleopatra) | 14 | 13501 | 0.1 | Xhosa <xhosa@translate.org.za> | 
+ | [calibre](/f40/package/calibre) | 51 | 170967 | 0.0 | Xhosa (http://www.transifex.com/calibre/calibre/language/xh/) | 
+ | [kig](/f40/package/kig) | 1 | 7457 | 0.0 | <xh@li.org> | 
+ | [android-tools](/f40/package/android-tools) | 0 | 7678 | 0.0 | Xhosa (http://www.transifex.com/projects/p/fedora/language/xh/) | 
+ | [bookworm](/f40/package/bookworm) | 0 | 795 | 0.0 |  | 
+ | [coin](/f40/package/coin) | 0 | 252 | 0.0 | none | 
+ | [cpeditor](/f40/package/cpeditor) | 0 | 647 | 0.0 | Xhosa <xhosa@translate.org.za> | 
+ | [dippi](/f40/package/dippi) | 0 | 1537 | 0.0 | none | 
+ | [elementary-code](/f40/package/elementary-code) | 0 | 1572 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [elementary-files](/f40/package/elementary-files) | 0 | 2538 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [elementary-icon-theme](/f40/package/elementary-icon-theme) | 0 | 349 | 0.0 | none | 
+ | [elementary-mail](/f40/package/elementary-mail) | 0 | 861 | 0.0 |  | 
+ | [elementary-music](/f40/package/elementary-music) | 0 | 207 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [elementary-notifications](/f40/package/elementary-notifications) | 0 | 40 | 0.0 | none | 
+ | [elementary-onboarding](/f40/package/elementary-onboarding) | 0 | 317 | 0.0 | none | 
+ | [fonts-tweak-tool](/f40/package/fonts-tweak-tool) | 0 | 195 | 0.0 | Xhosa | 
+ | [gala](/f40/package/gala) | 0 | 281 | 0.0 | none | 
+ | [gcr](/f40/package/gcr) | 0 | 622 | 0.0 | Xhosa <xh-translate@ubuntu.com> | 
+ | [gcr3](/f40/package/gcr3) | 0 | 622 | 0.0 | Xhosa <xh-translate@ubuntu.com> | 
+ | [granite](/f40/package/granite) | 0 | 498 | 0.0 |  | 
+ | [granite-7](/f40/package/granite-7) | 0 | 369 | 0.0 |  | 
+ | [harvey](/f40/package/harvey) | 0 | 182 | 0.0 | none | 
+ | [imsettings](/f40/package/imsettings) | 0 | 500 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [initial-setup](/f40/package/initial-setup) | 0 | 33 | 0.0 | Xhosa (http://www.transifex.com/projects/p/initial-setup/language/xh/) | 
+ | [kdepim-addons](/f40/package/kdepim-addons) | 0 | 881 | 0.0 | Xhosa <xhosa@translate.org.za> | 
+ | [kdevelop](/f40/package/kdevelop) | 0 | 696 | 0.0 | Xhosa <xhosa@translate.org.za> | 
+ | [kexi](/f40/package/kexi) | 0 | 7340 | 0.0 | Xhosa <xhosa@translate.org.za> | 
+ | [kf5-kauth](/f40/package/kf5-kauth) | 0 | 73 | 0.0 | Xhosa <xhosa@translate.org.za> | 
+ | [kf5-kbookmarks](/f40/package/kf5-kbookmarks) | 0 | 230 | 0.0 | Xhosa <xhosa@translate.org.za> | 
+ | [kf5-kcodecs](/f40/package/kf5-kcodecs) | 0 | 370 | 0.0 | Xhosa <xhosa@translate.org.za> | 
+ | [kf5-kcompletion](/f40/package/kf5-kcompletion) | 0 | 18 | 0.0 | Xhosa <xhosa@translate.org.za> | 
+ | [kf5-kconfig](/f40/package/kf5-kconfig) | 0 | 289 | 0.0 | Xhosa <xhosa@translate.org.za> | 
+ | [kf5-kcoreaddons](/f40/package/kf5-kcoreaddons) | 0 | 382 | 0.0 | Xhosa <xhosa@translate.org.za> | 
+ | [kf5-knotifications](/f40/package/kf5-knotifications) | 0 | 21 | 0.0 | Xhosa <xhosa@translate.org.za> | 
+ | [kf5-knotifyconfig](/f40/package/kf5-knotifyconfig) | 0 | 129 | 0.0 | Xhosa <xhosa@translate.org.za> | 
+ | [kf5-kpty](/f40/package/kf5-kpty) | 0 | 15 | 0.0 | Xhosa <xhosa@translate.org.za> | 
+ | [kf5-kservice](/f40/package/kf5-kservice) | 0 | 173 | 0.0 | Xhosa <xhosa@translate.org.za> | 
+ | [kf5-kwidgetsaddons](/f40/package/kf5-kwidgetsaddons) | 0 | 1293 | 0.0 | Xhosa <xhosa@translate.org.za> | 
+ | [kf5-kwindowsystem](/f40/package/kf5-kwindowsystem) | 0 | 2 | 0.0 | Xhosa <xhosa@translate.org.za> | 
+ | [kf5-libkdepim](/f40/package/kf5-libkdepim) | 0 | 35 | 0.0 | Xhosa <xhosa@translate.org.za> | 
+ | [kf5-sonnet](/f40/package/kf5-sonnet) | 0 | 683 | 0.0 | Xhosa <xhosa@translate.org.za> | 
+ | [kf5-syntax-highlighting](/f40/package/kf5-syntax-highlighting) | 0 | 647 | 0.0 | Xhosa <xhosa@translate.org.za> | 
+ | [kf6-kauth](/f40/package/kf6-kauth) | 0 | 73 | 0.0 | Xhosa <xhosa@translate.org.za> | 
+ | [kf6-kbookmarks](/f40/package/kf6-kbookmarks) | 0 | 179 | 0.0 | Xhosa <xhosa@translate.org.za> | 
+ | [kf6-kcodecs](/f40/package/kf6-kcodecs) | 0 | 370 | 0.0 | Xhosa <xhosa@translate.org.za> | 
+ | [kf6-kcompletion](/f40/package/kf6-kcompletion) | 0 | 18 | 0.0 | Xhosa <xhosa@translate.org.za> | 
+ | [kf6-kconfig](/f40/package/kf6-kconfig) | 0 | 550 | 0.0 | Xhosa <xhosa@translate.org.za> | 
+ | [kf6-kcoreaddons](/f40/package/kf6-kcoreaddons) | 0 | 452 | 0.0 | Xhosa <xhosa@translate.org.za> | 
+ | [kf6-kdnssd](/f40/package/kf6-kdnssd) | 0 | 3 | 0.0 | Xhosa <xhosa@translate.org.za> | 
+ | [kf6-kglobalaccel](/f40/package/kf6-kglobalaccel) | 0 | 34 | 0.0 | Xhosa <xhosa@translate.org.za> | 
+ | [kf6-ki18n](/f40/package/kf6-ki18n) | 0 | 124 | 0.0 | Xhosa <xhosa@translate.org.za> | 
+ | [kf6-kitemviews](/f40/package/kf6-kitemviews) | 0 | 6 | 0.0 | Xhosa <xhosa@translate.org.za> | 
+ | [kf6-kjobwidgets](/f40/package/kf6-kjobwidgets) | 0 | 136 | 0.0 | Xhosa <xhosa@translate.org.za> | 
+ | [kf6-knewstuff](/f40/package/kf6-knewstuff) | 0 | 1038 | 0.0 | Xhosa <xhosa@translate.org.za> | 
+ | [kf6-knotifications](/f40/package/kf6-knotifications) | 0 | 0 | 0.0 | Xhosa <xhosa@translate.org.za> | 
+ | [kf6-knotifyconfig](/f40/package/kf6-knotifyconfig) | 0 | 19 | 0.0 | Xhosa <xhosa@translate.org.za> | 
+ | [kf6-kpty](/f40/package/kf6-kpty) | 0 | 15 | 0.0 | Xhosa <xhosa@translate.org.za> | 
+ | [kf6-kservice](/f40/package/kf6-kservice) | 0 | 45 | 0.0 | Xhosa <xhosa@translate.org.za> | 
+ | [kf6-kwidgetsaddons](/f40/package/kf6-kwidgetsaddons) | 0 | 1277 | 0.0 | Xhosa <xhosa@translate.org.za> | 
+ | [kf6-kwindowsystem](/f40/package/kf6-kwindowsystem) | 0 | 2 | 0.0 | Xhosa <xhosa@translate.org.za> | 
+ | [kf6-sonnet](/f40/package/kf6-sonnet) | 0 | 684 | 0.0 | Xhosa <xhosa@translate.org.za> | 
+ | [kf6-syntax-highlighting](/f40/package/kf6-syntax-highlighting) | 0 | 702 | 0.0 | Xhosa <xhosa@translate.org.za> | 
+ | [kreport](/f40/package/kreport) | 0 | 411 | 0.0 | Xhosa <xhosa@translate.org.za> | 
+ | [libkdepim](/f40/package/libkdepim) | 0 | 36 | 0.0 | Xhosa <xhosa@translate.org.za> | 
+ | [nutty](/f40/package/nutty) | 0 | 608 | 0.0 |  | 
+ | [obs-cef](/f40/package/obs-cef) | 0 | 0 | 0.0 |  | 
+ | [optimizer](/f40/package/optimizer) | 0 | 282 | 0.0 | none | 
+ | [policycoreutils](/f40/package/policycoreutils) | 0 | 7678 | 0.0 | Xhosa (http://www.transifex.com/projects/p/fedora/language/xh/) | 
+ | [python-meh](/f40/package/python-meh) | 0 | 109 | 0.0 | Xhosa (http://www.transifex.com/projects/p/python-meh/language/xh/) | 
+ | [regextester](/f40/package/regextester) | 0 | 104 | 0.0 | none | 
+ | [wingpanel](/f40/package/wingpanel) | 0 | 57 | 0.0 | none | 
+ | [wingpanel-indicator-a11y](/f40/package/wingpanel-indicator-a11y) | 0 | 55 | 0.0 | none | 
+ | [wingpanel-indicator-bluetooth](/f40/package/wingpanel-indicator-bluetooth) | 0 | 80 | 0.0 | none | 
+ | [wingpanel-indicator-datetime](/f40/package/wingpanel-indicator-datetime) | 0 | 103 | 0.0 |  | 
+ | [wingpanel-indicator-keyboard](/f40/package/wingpanel-indicator-keyboard) | 0 | 56 | 0.0 |  | 
 {.sortable}
 
 

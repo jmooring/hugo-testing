@@ -18,51 +18,51 @@ The package caja-extensions (version 1.12.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [be]({{< ref "/f22/language/be.md" >}}) | 556 | 556 | 100.0 | /mnt/stockage/packages/f22/caja-extensions/po/be.po | 
- | [da]({{< ref "/f22/language/da.md" >}}) | 556 | 556 | 100.0 | /mnt/stockage/packages/f22/caja-extensions/po/da.po | 
- | [de]({{< ref "/f22/language/de.md" >}}) | 556 | 556 | 100.0 | /mnt/stockage/packages/f22/caja-extensions/po/de.po | 
- | [en_AU]({{< ref "/f22/language/en_AU.md" >}}) | 556 | 556 | 100.0 | /mnt/stockage/packages/f22/caja-extensions/po/en_AU.po | 
- | [en_GB]({{< ref "/f22/language/en_GB.md" >}}) | 556 | 556 | 100.0 | /mnt/stockage/packages/f22/caja-extensions/po/en_GB.po | 
- | [es]({{< ref "/f22/language/es.md" >}}) | 556 | 556 | 100.0 | /mnt/stockage/packages/f22/caja-extensions/po/es.po | 
- | [fr]({{< ref "/f22/language/fr.md" >}}) | 556 | 556 | 100.0 | /mnt/stockage/packages/f22/caja-extensions/po/fr.po | 
- | [hu]({{< ref "/f22/language/hu.md" >}}) | 556 | 556 | 100.0 | /mnt/stockage/packages/f22/caja-extensions/po/hu.po | 
- | [id]({{< ref "/f22/language/id.md" >}}) | 556 | 556 | 100.0 | /mnt/stockage/packages/f22/caja-extensions/po/id.po | 
- | [it]({{< ref "/f22/language/it.md" >}}) | 556 | 556 | 100.0 | /mnt/stockage/packages/f22/caja-extensions/po/it.po | 
- | [ja]({{< ref "/f22/language/ja.md" >}}) | 556 | 556 | 100.0 | /mnt/stockage/packages/f22/caja-extensions/po/ja.po | 
- | [ko]({{< ref "/f22/language/ko.md" >}}) | 556 | 556 | 100.0 | /mnt/stockage/packages/f22/caja-extensions/po/ko.po | 
- | [lt]({{< ref "/f22/language/lt.md" >}}) | 556 | 556 | 100.0 | /mnt/stockage/packages/f22/caja-extensions/po/lt.po | 
- | [ms]({{< ref "/f22/language/ms.md" >}}) | 556 | 556 | 100.0 | /mnt/stockage/packages/f22/caja-extensions/po/ms.po | 
- | [nl]({{< ref "/f22/language/nl.md" >}}) | 556 | 556 | 100.0 | /mnt/stockage/packages/f22/caja-extensions/po/nl.po | 
- | [pt]({{< ref "/f22/language/pt.md" >}}) | 556 | 556 | 100.0 | /mnt/stockage/packages/f22/caja-extensions/po/pt.po | 
- | [ru]({{< ref "/f22/language/ru.md" >}}) | 556 | 556 | 100.0 | /mnt/stockage/packages/f22/caja-extensions/po/ru.po | 
- | [tr]({{< ref "/f22/language/tr.md" >}}) | 556 | 556 | 100.0 | /mnt/stockage/packages/f22/caja-extensions/po/tr.po | 
- | [uk]({{< ref "/f22/language/uk.md" >}}) | 556 | 556 | 100.0 | /mnt/stockage/packages/f22/caja-extensions/po/uk.po | 
- | [zh_Hant]({{< ref "/f22/language/zh_Hant.md" >}}) | 556 | 556 | 100.0 | /mnt/stockage/packages/f22/caja-extensions/po/zh_TW.po | 
- | [pt_BR]({{< ref "/f22/language/pt_BR.md" >}}) | 551 | 556 | 99.1 | /mnt/stockage/packages/f22/caja-extensions/po/pt_BR.po | 
- | [cs]({{< ref "/f22/language/cs.md" >}}) | 536 | 556 | 96.4 | /mnt/stockage/packages/f22/caja-extensions/po/cs.po | 
- | [el]({{< ref "/f22/language/el.md" >}}) | 536 | 556 | 96.4 | /mnt/stockage/packages/f22/caja-extensions/po/el.po | 
- | [gl]({{< ref "/f22/language/gl.md" >}}) | 536 | 556 | 96.4 | /mnt/stockage/packages/f22/caja-extensions/po/gl.po | 
- | [hr]({{< ref "/f22/language/hr.md" >}}) | 536 | 556 | 96.4 | /mnt/stockage/packages/f22/caja-extensions/po/hr.po | 
- | [pl]({{< ref "/f22/language/pl.md" >}}) | 536 | 556 | 96.4 | /mnt/stockage/packages/f22/caja-extensions/po/pl.po | 
- | [sk]({{< ref "/f22/language/sk.md" >}}) | 536 | 556 | 96.4 | /mnt/stockage/packages/f22/caja-extensions/po/sk.po | 
- | [sl]({{< ref "/f22/language/sl.md" >}}) | 536 | 556 | 96.4 | /mnt/stockage/packages/f22/caja-extensions/po/sl.po | 
- | [sr]({{< ref "/f22/language/sr.md" >}}) | 536 | 556 | 96.4 | /mnt/stockage/packages/f22/caja-extensions/po/sr.po | 
- | [zh_Hans]({{< ref "/f22/language/zh_Hans.md" >}}) | 1063 | 1112 | 95.6 | /mnt/stockage/packages/f22/caja-extensions/po/zh_CN.po/mnt/stockage/packages/f22/caja-extensions/po/cmn.po | 
- | [ar]({{< ref "/f22/language/ar.md" >}}) | 521 | 556 | 93.7 | /mnt/stockage/packages/f22/caja-extensions/po/ar.po | 
- | [mr]({{< ref "/f22/language/mr.md" >}}) | 458 | 556 | 82.4 | /mnt/stockage/packages/f22/caja-extensions/po/mr.po | 
- | [et]({{< ref "/f22/language/et.md" >}}) | 456 | 556 | 82.0 | /mnt/stockage/packages/f22/caja-extensions/po/et.po | 
- | [sv]({{< ref "/f22/language/sv.md" >}}) | 450 | 556 | 80.9 | /mnt/stockage/packages/f22/caja-extensions/po/sv.po | 
- | [am]({{< ref "/f22/language/am.md" >}}) | 423 | 556 | 76.1 | /mnt/stockage/packages/f22/caja-extensions/po/am.po | 
- | [mk]({{< ref "/f22/language/mk.md" >}}) | 414 | 556 | 74.5 | /mnt/stockage/packages/f22/caja-extensions/po/mk.po | 
- | [eu]({{< ref "/f22/language/eu.md" >}}) | 405 | 556 | 72.8 | /mnt/stockage/packages/f22/caja-extensions/po/eu.po | 
- | [ro]({{< ref "/f22/language/ro.md" >}}) | 347 | 556 | 62.4 | /mnt/stockage/packages/f22/caja-extensions/po/ro.po | 
- | [bg]({{< ref "/f22/language/bg.md" >}}) | 263 | 556 | 47.3 | /mnt/stockage/packages/f22/caja-extensions/po/bg.po | 
- | [hi]({{< ref "/f22/language/hi.md" >}}) | 77 | 556 | 13.8 | /mnt/stockage/packages/f22/caja-extensions/po/hi.po | 
- | [hy]({{< ref "/f22/language/hy.md" >}}) | 67 | 556 | 12.1 | /mnt/stockage/packages/f22/caja-extensions/po/hy.po | 
- | [vi]({{< ref "/f22/language/vi.md" >}}) | 57 | 556 | 10.3 | /mnt/stockage/packages/f22/caja-extensions/po/vi.po | 
- | [sq]({{< ref "/f22/language/sq.md" >}}) | 35 | 539 | 6.5 | /mnt/stockage/packages/f22/caja-extensions/po/sq.po | 
- | [kk]({{< ref "/f22/language/kk.md" >}}) | 17 | 556 | 3.1 | /mnt/stockage/packages/f22/caja-extensions/po/kk.po | 
- | [fi]({{< ref "/f22/language/fi.md" >}}) | 7 | 556 | 1.3 | /mnt/stockage/packages/f22/caja-extensions/po/fi.po | 
+ | [be](/f22/language/be) | 556 | 556 | 100.0 | /mnt/stockage/packages/f22/caja-extensions/po/be.po | 
+ | [da](/f22/language/da) | 556 | 556 | 100.0 | /mnt/stockage/packages/f22/caja-extensions/po/da.po | 
+ | [de](/f22/language/de) | 556 | 556 | 100.0 | /mnt/stockage/packages/f22/caja-extensions/po/de.po | 
+ | [en_AU](/f22/language/en_AU) | 556 | 556 | 100.0 | /mnt/stockage/packages/f22/caja-extensions/po/en_AU.po | 
+ | [en_GB](/f22/language/en_GB) | 556 | 556 | 100.0 | /mnt/stockage/packages/f22/caja-extensions/po/en_GB.po | 
+ | [es](/f22/language/es) | 556 | 556 | 100.0 | /mnt/stockage/packages/f22/caja-extensions/po/es.po | 
+ | [fr](/f22/language/fr) | 556 | 556 | 100.0 | /mnt/stockage/packages/f22/caja-extensions/po/fr.po | 
+ | [hu](/f22/language/hu) | 556 | 556 | 100.0 | /mnt/stockage/packages/f22/caja-extensions/po/hu.po | 
+ | [id](/f22/language/id) | 556 | 556 | 100.0 | /mnt/stockage/packages/f22/caja-extensions/po/id.po | 
+ | [it](/f22/language/it) | 556 | 556 | 100.0 | /mnt/stockage/packages/f22/caja-extensions/po/it.po | 
+ | [ja](/f22/language/ja) | 556 | 556 | 100.0 | /mnt/stockage/packages/f22/caja-extensions/po/ja.po | 
+ | [ko](/f22/language/ko) | 556 | 556 | 100.0 | /mnt/stockage/packages/f22/caja-extensions/po/ko.po | 
+ | [lt](/f22/language/lt) | 556 | 556 | 100.0 | /mnt/stockage/packages/f22/caja-extensions/po/lt.po | 
+ | [ms](/f22/language/ms) | 556 | 556 | 100.0 | /mnt/stockage/packages/f22/caja-extensions/po/ms.po | 
+ | [nl](/f22/language/nl) | 556 | 556 | 100.0 | /mnt/stockage/packages/f22/caja-extensions/po/nl.po | 
+ | [pt](/f22/language/pt) | 556 | 556 | 100.0 | /mnt/stockage/packages/f22/caja-extensions/po/pt.po | 
+ | [ru](/f22/language/ru) | 556 | 556 | 100.0 | /mnt/stockage/packages/f22/caja-extensions/po/ru.po | 
+ | [tr](/f22/language/tr) | 556 | 556 | 100.0 | /mnt/stockage/packages/f22/caja-extensions/po/tr.po | 
+ | [uk](/f22/language/uk) | 556 | 556 | 100.0 | /mnt/stockage/packages/f22/caja-extensions/po/uk.po | 
+ | [zh_Hant](/f22/language/zh_Hant) | 556 | 556 | 100.0 | /mnt/stockage/packages/f22/caja-extensions/po/zh_TW.po | 
+ | [pt_BR](/f22/language/pt_BR) | 551 | 556 | 99.1 | /mnt/stockage/packages/f22/caja-extensions/po/pt_BR.po | 
+ | [cs](/f22/language/cs) | 536 | 556 | 96.4 | /mnt/stockage/packages/f22/caja-extensions/po/cs.po | 
+ | [el](/f22/language/el) | 536 | 556 | 96.4 | /mnt/stockage/packages/f22/caja-extensions/po/el.po | 
+ | [gl](/f22/language/gl) | 536 | 556 | 96.4 | /mnt/stockage/packages/f22/caja-extensions/po/gl.po | 
+ | [hr](/f22/language/hr) | 536 | 556 | 96.4 | /mnt/stockage/packages/f22/caja-extensions/po/hr.po | 
+ | [pl](/f22/language/pl) | 536 | 556 | 96.4 | /mnt/stockage/packages/f22/caja-extensions/po/pl.po | 
+ | [sk](/f22/language/sk) | 536 | 556 | 96.4 | /mnt/stockage/packages/f22/caja-extensions/po/sk.po | 
+ | [sl](/f22/language/sl) | 536 | 556 | 96.4 | /mnt/stockage/packages/f22/caja-extensions/po/sl.po | 
+ | [sr](/f22/language/sr) | 536 | 556 | 96.4 | /mnt/stockage/packages/f22/caja-extensions/po/sr.po | 
+ | [zh_Hans](/f22/language/zh_Hans) | 1063 | 1112 | 95.6 | /mnt/stockage/packages/f22/caja-extensions/po/zh_CN.po/mnt/stockage/packages/f22/caja-extensions/po/cmn.po | 
+ | [ar](/f22/language/ar) | 521 | 556 | 93.7 | /mnt/stockage/packages/f22/caja-extensions/po/ar.po | 
+ | [mr](/f22/language/mr) | 458 | 556 | 82.4 | /mnt/stockage/packages/f22/caja-extensions/po/mr.po | 
+ | [et](/f22/language/et) | 456 | 556 | 82.0 | /mnt/stockage/packages/f22/caja-extensions/po/et.po | 
+ | [sv](/f22/language/sv) | 450 | 556 | 80.9 | /mnt/stockage/packages/f22/caja-extensions/po/sv.po | 
+ | [am](/f22/language/am) | 423 | 556 | 76.1 | /mnt/stockage/packages/f22/caja-extensions/po/am.po | 
+ | [mk](/f22/language/mk) | 414 | 556 | 74.5 | /mnt/stockage/packages/f22/caja-extensions/po/mk.po | 
+ | [eu](/f22/language/eu) | 405 | 556 | 72.8 | /mnt/stockage/packages/f22/caja-extensions/po/eu.po | 
+ | [ro](/f22/language/ro) | 347 | 556 | 62.4 | /mnt/stockage/packages/f22/caja-extensions/po/ro.po | 
+ | [bg](/f22/language/bg) | 263 | 556 | 47.3 | /mnt/stockage/packages/f22/caja-extensions/po/bg.po | 
+ | [hi](/f22/language/hi) | 77 | 556 | 13.8 | /mnt/stockage/packages/f22/caja-extensions/po/hi.po | 
+ | [hy](/f22/language/hy) | 67 | 556 | 12.1 | /mnt/stockage/packages/f22/caja-extensions/po/hy.po | 
+ | [vi](/f22/language/vi) | 57 | 556 | 10.3 | /mnt/stockage/packages/f22/caja-extensions/po/vi.po | 
+ | [sq](/f22/language/sq) | 35 | 539 | 6.5 | /mnt/stockage/packages/f22/caja-extensions/po/sq.po | 
+ | [kk](/f22/language/kk) | 17 | 556 | 3.1 | /mnt/stockage/packages/f22/caja-extensions/po/kk.po | 
+ | [fi](/f22/language/fi) | 7 | 556 | 1.3 | /mnt/stockage/packages/f22/caja-extensions/po/fi.po | 
 {.sortable}
 
 

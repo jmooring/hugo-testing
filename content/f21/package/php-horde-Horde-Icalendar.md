@@ -18,48 +18,48 @@ The package php-horde-Horde-Icalendar (version 2.1.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [da]({{< ref "/f21/language/da.md" >}}) | 3 | 3 | 100.0 | /mnt/stockage/packages/f21/php-horde-Horde-Icalendar/Horde_Icalendar-2.1.1/locale/da/LC_MESSAGES/Horde_Icalendar.po | 
- | [de]({{< ref "/f21/language/de.md" >}}) | 3 | 3 | 100.0 | /mnt/stockage/packages/f21/php-horde-Horde-Icalendar/Horde_Icalendar-2.1.1/locale/de/LC_MESSAGES/Horde_Icalendar.po | 
- | [es]({{< ref "/f21/language/es.md" >}}) | 3 | 3 | 100.0 | /mnt/stockage/packages/f21/php-horde-Horde-Icalendar/Horde_Icalendar-2.1.1/locale/es/LC_MESSAGES/Horde_Icalendar.po | 
- | [et]({{< ref "/f21/language/et.md" >}}) | 3 | 3 | 100.0 | /mnt/stockage/packages/f21/php-horde-Horde-Icalendar/Horde_Icalendar-2.1.1/locale/et/LC_MESSAGES/Horde_Icalendar.po | 
- | [eu]({{< ref "/f21/language/eu.md" >}}) | 3 | 3 | 100.0 | /mnt/stockage/packages/f21/php-horde-Horde-Icalendar/Horde_Icalendar-2.1.1/locale/eu/LC_MESSAGES/Horde_Icalendar.po | 
- | [fi]({{< ref "/f21/language/fi.md" >}}) | 3 | 3 | 100.0 | /mnt/stockage/packages/f21/php-horde-Horde-Icalendar/Horde_Icalendar-2.1.1/locale/fi/LC_MESSAGES/Horde_Icalendar.po | 
- | [fr]({{< ref "/f21/language/fr.md" >}}) | 3 | 3 | 100.0 | /mnt/stockage/packages/f21/php-horde-Horde-Icalendar/Horde_Icalendar-2.1.1/locale/fr/LC_MESSAGES/Horde_Icalendar.po | 
- | [hr]({{< ref "/f21/language/hr.md" >}}) | 3 | 3 | 100.0 | /mnt/stockage/packages/f21/php-horde-Horde-Icalendar/Horde_Icalendar-2.1.1/locale/hr/LC_MESSAGES/Horde_Icalendar.po | 
- | [hu]({{< ref "/f21/language/hu.md" >}}) | 3 | 3 | 100.0 | /mnt/stockage/packages/f21/php-horde-Horde-Icalendar/Horde_Icalendar-2.1.1/locale/hu/LC_MESSAGES/Horde_Icalendar.po | 
- | [it]({{< ref "/f21/language/it.md" >}}) | 3 | 3 | 100.0 | /mnt/stockage/packages/f21/php-horde-Horde-Icalendar/Horde_Icalendar-2.1.1/locale/it/LC_MESSAGES/Horde_Icalendar.po | 
- | [ja]({{< ref "/f21/language/ja.md" >}}) | 3 | 3 | 100.0 | /mnt/stockage/packages/f21/php-horde-Horde-Icalendar/Horde_Icalendar-2.1.1/locale/ja/LC_MESSAGES/Horde_Icalendar.po | 
- | [lt]({{< ref "/f21/language/lt.md" >}}) | 3 | 3 | 100.0 | /mnt/stockage/packages/f21/php-horde-Horde-Icalendar/Horde_Icalendar-2.1.1/locale/lt/LC_MESSAGES/Horde_Icalendar.po | 
- | [lv]({{< ref "/f21/language/lv.md" >}}) | 3 | 3 | 100.0 | /mnt/stockage/packages/f21/php-horde-Horde-Icalendar/Horde_Icalendar-2.1.1/locale/lv/LC_MESSAGES/Horde_Icalendar.po | 
- | [nl]({{< ref "/f21/language/nl.md" >}}) | 3 | 3 | 100.0 | /mnt/stockage/packages/f21/php-horde-Horde-Icalendar/Horde_Icalendar-2.1.1/locale/nl/LC_MESSAGES/Horde_Icalendar.po | 
- | [pt_BR]({{< ref "/f21/language/pt_BR.md" >}}) | 3 | 3 | 100.0 | /mnt/stockage/packages/f21/php-horde-Horde-Icalendar/Horde_Icalendar-2.1.1/locale/pt_BR/LC_MESSAGES/Horde_Icalendar.po | 
- | [ru]({{< ref "/f21/language/ru.md" >}}) | 3 | 3 | 100.0 | /mnt/stockage/packages/f21/php-horde-Horde-Icalendar/Horde_Icalendar-2.1.1/locale/ru/LC_MESSAGES/Horde_Icalendar.po | 
- | [sk]({{< ref "/f21/language/sk.md" >}}) | 3 | 3 | 100.0 | /mnt/stockage/packages/f21/php-horde-Horde-Icalendar/Horde_Icalendar-2.1.1/locale/sk/LC_MESSAGES/Horde_Icalendar.po | 
- | [tr]({{< ref "/f21/language/tr.md" >}}) | 3 | 3 | 100.0 | /mnt/stockage/packages/f21/php-horde-Horde-Icalendar/Horde_Icalendar-2.1.1/locale/tr/LC_MESSAGES/Horde_Icalendar.po | 
- | [uk]({{< ref "/f21/language/uk.md" >}}) | 3 | 3 | 100.0 | /mnt/stockage/packages/f21/php-horde-Horde-Icalendar/Horde_Icalendar-2.1.1/locale/uk/LC_MESSAGES/Horde_Icalendar.po | 
- | [zh_Hant]({{< ref "/f21/language/zh_Hant.md" >}}) | 3 | 3 | 100.0 | /mnt/stockage/packages/f21/php-horde-Horde-Icalendar/Horde_Icalendar-2.1.1/locale/zh_TW/LC_MESSAGES/Horde_Icalendar.po | 
- | [ar]({{< ref "/f21/language/ar.md" >}}) | 0 | 3 | 0.0 | /mnt/stockage/packages/f21/php-horde-Horde-Icalendar/Horde_Icalendar-2.1.1/locale/ar/LC_MESSAGES/Horde_Icalendar.po | 
- | [bg]({{< ref "/f21/language/bg.md" >}}) | 0 | 3 | 0.0 | /mnt/stockage/packages/f21/php-horde-Horde-Icalendar/Horde_Icalendar-2.1.1/locale/bg/LC_MESSAGES/Horde_Icalendar.po | 
- | [bs]({{< ref "/f21/language/bs.md" >}}) | 0 | 3 | 0.0 | /mnt/stockage/packages/f21/php-horde-Horde-Icalendar/Horde_Icalendar-2.1.1/locale/bs/LC_MESSAGES/Horde_Icalendar.po | 
- | [ca]({{< ref "/f21/language/ca.md" >}}) | 0 | 3 | 0.0 | /mnt/stockage/packages/f21/php-horde-Horde-Icalendar/Horde_Icalendar-2.1.1/locale/ca/LC_MESSAGES/Horde_Icalendar.po | 
- | [cs]({{< ref "/f21/language/cs.md" >}}) | 0 | 3 | 0.0 | /mnt/stockage/packages/f21/php-horde-Horde-Icalendar/Horde_Icalendar-2.1.1/locale/cs/LC_MESSAGES/Horde_Icalendar.po | 
- | [el]({{< ref "/f21/language/el.md" >}}) | 0 | 3 | 0.0 | /mnt/stockage/packages/f21/php-horde-Horde-Icalendar/Horde_Icalendar-2.1.1/locale/el/LC_MESSAGES/Horde_Icalendar.po | 
- | [fa]({{< ref "/f21/language/fa.md" >}}) | 0 | 3 | 0.0 | /mnt/stockage/packages/f21/php-horde-Horde-Icalendar/Horde_Icalendar-2.1.1/locale/fa/LC_MESSAGES/Horde_Icalendar.po | 
- | [gl]({{< ref "/f21/language/gl.md" >}}) | 0 | 3 | 0.0 | /mnt/stockage/packages/f21/php-horde-Horde-Icalendar/Horde_Icalendar-2.1.1/locale/gl/LC_MESSAGES/Horde_Icalendar.po | 
- | [he]({{< ref "/f21/language/he.md" >}}) | 0 | 3 | 0.0 | /mnt/stockage/packages/f21/php-horde-Horde-Icalendar/Horde_Icalendar-2.1.1/locale/he/LC_MESSAGES/Horde_Icalendar.po | 
- | [id]({{< ref "/f21/language/id.md" >}}) | 0 | 3 | 0.0 | /mnt/stockage/packages/f21/php-horde-Horde-Icalendar/Horde_Icalendar-2.1.1/locale/id/LC_MESSAGES/Horde_Icalendar.po | 
- | [is]({{< ref "/f21/language/is.md" >}}) | 0 | 3 | 0.0 | /mnt/stockage/packages/f21/php-horde-Horde-Icalendar/Horde_Icalendar-2.1.1/locale/is/LC_MESSAGES/Horde_Icalendar.po | 
- | [km]({{< ref "/f21/language/km.md" >}}) | 0 | 3 | 0.0 | /mnt/stockage/packages/f21/php-horde-Horde-Icalendar/Horde_Icalendar-2.1.1/locale/km/LC_MESSAGES/Horde_Icalendar.po | 
- | [ko]({{< ref "/f21/language/ko.md" >}}) | 0 | 3 | 0.0 | /mnt/stockage/packages/f21/php-horde-Horde-Icalendar/Horde_Icalendar-2.1.1/locale/ko/LC_MESSAGES/Horde_Icalendar.po | 
- | [mk]({{< ref "/f21/language/mk.md" >}}) | 0 | 3 | 0.0 | /mnt/stockage/packages/f21/php-horde-Horde-Icalendar/Horde_Icalendar-2.1.1/locale/mk/LC_MESSAGES/Horde_Icalendar.po | 
- | [nb_NO]({{< ref "/f21/language/nb_NO.md" >}}) | 0 | 3 | 0.0 | /mnt/stockage/packages/f21/php-horde-Horde-Icalendar/Horde_Icalendar-2.1.1/locale/nb/LC_MESSAGES/Horde_Icalendar.po | 
- | [nn]({{< ref "/f21/language/nn.md" >}}) | 0 | 3 | 0.0 | /mnt/stockage/packages/f21/php-horde-Horde-Icalendar/Horde_Icalendar-2.1.1/locale/nn/LC_MESSAGES/Horde_Icalendar.po | 
- | [pl]({{< ref "/f21/language/pl.md" >}}) | 0 | 3 | 0.0 | /mnt/stockage/packages/f21/php-horde-Horde-Icalendar/Horde_Icalendar-2.1.1/locale/pl/LC_MESSAGES/Horde_Icalendar.po | 
- | [pt]({{< ref "/f21/language/pt.md" >}}) | 0 | 3 | 0.0 | /mnt/stockage/packages/f21/php-horde-Horde-Icalendar/Horde_Icalendar-2.1.1/locale/pt/LC_MESSAGES/Horde_Icalendar.po | 
- | [ro]({{< ref "/f21/language/ro.md" >}}) | 0 | 3 | 0.0 | /mnt/stockage/packages/f21/php-horde-Horde-Icalendar/Horde_Icalendar-2.1.1/locale/ro/LC_MESSAGES/Horde_Icalendar.po | 
- | [sl]({{< ref "/f21/language/sl.md" >}}) | 0 | 3 | 0.0 | /mnt/stockage/packages/f21/php-horde-Horde-Icalendar/Horde_Icalendar-2.1.1/locale/sl/LC_MESSAGES/Horde_Icalendar.po | 
- | [sv]({{< ref "/f21/language/sv.md" >}}) | 0 | 3 | 0.0 | /mnt/stockage/packages/f21/php-horde-Horde-Icalendar/Horde_Icalendar-2.1.1/locale/sv/LC_MESSAGES/Horde_Icalendar.po | 
- | [zh_Hans]({{< ref "/f21/language/zh_Hans.md" >}}) | 0 | 3 | 0.0 | /mnt/stockage/packages/f21/php-horde-Horde-Icalendar/Horde_Icalendar-2.1.1/locale/zh_CN/LC_MESSAGES/Horde_Icalendar.po | 
+ | [da](/f21/language/da) | 3 | 3 | 100.0 | /mnt/stockage/packages/f21/php-horde-Horde-Icalendar/Horde_Icalendar-2.1.1/locale/da/LC_MESSAGES/Horde_Icalendar.po | 
+ | [de](/f21/language/de) | 3 | 3 | 100.0 | /mnt/stockage/packages/f21/php-horde-Horde-Icalendar/Horde_Icalendar-2.1.1/locale/de/LC_MESSAGES/Horde_Icalendar.po | 
+ | [es](/f21/language/es) | 3 | 3 | 100.0 | /mnt/stockage/packages/f21/php-horde-Horde-Icalendar/Horde_Icalendar-2.1.1/locale/es/LC_MESSAGES/Horde_Icalendar.po | 
+ | [et](/f21/language/et) | 3 | 3 | 100.0 | /mnt/stockage/packages/f21/php-horde-Horde-Icalendar/Horde_Icalendar-2.1.1/locale/et/LC_MESSAGES/Horde_Icalendar.po | 
+ | [eu](/f21/language/eu) | 3 | 3 | 100.0 | /mnt/stockage/packages/f21/php-horde-Horde-Icalendar/Horde_Icalendar-2.1.1/locale/eu/LC_MESSAGES/Horde_Icalendar.po | 
+ | [fi](/f21/language/fi) | 3 | 3 | 100.0 | /mnt/stockage/packages/f21/php-horde-Horde-Icalendar/Horde_Icalendar-2.1.1/locale/fi/LC_MESSAGES/Horde_Icalendar.po | 
+ | [fr](/f21/language/fr) | 3 | 3 | 100.0 | /mnt/stockage/packages/f21/php-horde-Horde-Icalendar/Horde_Icalendar-2.1.1/locale/fr/LC_MESSAGES/Horde_Icalendar.po | 
+ | [hr](/f21/language/hr) | 3 | 3 | 100.0 | /mnt/stockage/packages/f21/php-horde-Horde-Icalendar/Horde_Icalendar-2.1.1/locale/hr/LC_MESSAGES/Horde_Icalendar.po | 
+ | [hu](/f21/language/hu) | 3 | 3 | 100.0 | /mnt/stockage/packages/f21/php-horde-Horde-Icalendar/Horde_Icalendar-2.1.1/locale/hu/LC_MESSAGES/Horde_Icalendar.po | 
+ | [it](/f21/language/it) | 3 | 3 | 100.0 | /mnt/stockage/packages/f21/php-horde-Horde-Icalendar/Horde_Icalendar-2.1.1/locale/it/LC_MESSAGES/Horde_Icalendar.po | 
+ | [ja](/f21/language/ja) | 3 | 3 | 100.0 | /mnt/stockage/packages/f21/php-horde-Horde-Icalendar/Horde_Icalendar-2.1.1/locale/ja/LC_MESSAGES/Horde_Icalendar.po | 
+ | [lt](/f21/language/lt) | 3 | 3 | 100.0 | /mnt/stockage/packages/f21/php-horde-Horde-Icalendar/Horde_Icalendar-2.1.1/locale/lt/LC_MESSAGES/Horde_Icalendar.po | 
+ | [lv](/f21/language/lv) | 3 | 3 | 100.0 | /mnt/stockage/packages/f21/php-horde-Horde-Icalendar/Horde_Icalendar-2.1.1/locale/lv/LC_MESSAGES/Horde_Icalendar.po | 
+ | [nl](/f21/language/nl) | 3 | 3 | 100.0 | /mnt/stockage/packages/f21/php-horde-Horde-Icalendar/Horde_Icalendar-2.1.1/locale/nl/LC_MESSAGES/Horde_Icalendar.po | 
+ | [pt_BR](/f21/language/pt_BR) | 3 | 3 | 100.0 | /mnt/stockage/packages/f21/php-horde-Horde-Icalendar/Horde_Icalendar-2.1.1/locale/pt_BR/LC_MESSAGES/Horde_Icalendar.po | 
+ | [ru](/f21/language/ru) | 3 | 3 | 100.0 | /mnt/stockage/packages/f21/php-horde-Horde-Icalendar/Horde_Icalendar-2.1.1/locale/ru/LC_MESSAGES/Horde_Icalendar.po | 
+ | [sk](/f21/language/sk) | 3 | 3 | 100.0 | /mnt/stockage/packages/f21/php-horde-Horde-Icalendar/Horde_Icalendar-2.1.1/locale/sk/LC_MESSAGES/Horde_Icalendar.po | 
+ | [tr](/f21/language/tr) | 3 | 3 | 100.0 | /mnt/stockage/packages/f21/php-horde-Horde-Icalendar/Horde_Icalendar-2.1.1/locale/tr/LC_MESSAGES/Horde_Icalendar.po | 
+ | [uk](/f21/language/uk) | 3 | 3 | 100.0 | /mnt/stockage/packages/f21/php-horde-Horde-Icalendar/Horde_Icalendar-2.1.1/locale/uk/LC_MESSAGES/Horde_Icalendar.po | 
+ | [zh_Hant](/f21/language/zh_Hant) | 3 | 3 | 100.0 | /mnt/stockage/packages/f21/php-horde-Horde-Icalendar/Horde_Icalendar-2.1.1/locale/zh_TW/LC_MESSAGES/Horde_Icalendar.po | 
+ | [ar](/f21/language/ar) | 0 | 3 | 0.0 | /mnt/stockage/packages/f21/php-horde-Horde-Icalendar/Horde_Icalendar-2.1.1/locale/ar/LC_MESSAGES/Horde_Icalendar.po | 
+ | [bg](/f21/language/bg) | 0 | 3 | 0.0 | /mnt/stockage/packages/f21/php-horde-Horde-Icalendar/Horde_Icalendar-2.1.1/locale/bg/LC_MESSAGES/Horde_Icalendar.po | 
+ | [bs](/f21/language/bs) | 0 | 3 | 0.0 | /mnt/stockage/packages/f21/php-horde-Horde-Icalendar/Horde_Icalendar-2.1.1/locale/bs/LC_MESSAGES/Horde_Icalendar.po | 
+ | [ca](/f21/language/ca) | 0 | 3 | 0.0 | /mnt/stockage/packages/f21/php-horde-Horde-Icalendar/Horde_Icalendar-2.1.1/locale/ca/LC_MESSAGES/Horde_Icalendar.po | 
+ | [cs](/f21/language/cs) | 0 | 3 | 0.0 | /mnt/stockage/packages/f21/php-horde-Horde-Icalendar/Horde_Icalendar-2.1.1/locale/cs/LC_MESSAGES/Horde_Icalendar.po | 
+ | [el](/f21/language/el) | 0 | 3 | 0.0 | /mnt/stockage/packages/f21/php-horde-Horde-Icalendar/Horde_Icalendar-2.1.1/locale/el/LC_MESSAGES/Horde_Icalendar.po | 
+ | [fa](/f21/language/fa) | 0 | 3 | 0.0 | /mnt/stockage/packages/f21/php-horde-Horde-Icalendar/Horde_Icalendar-2.1.1/locale/fa/LC_MESSAGES/Horde_Icalendar.po | 
+ | [gl](/f21/language/gl) | 0 | 3 | 0.0 | /mnt/stockage/packages/f21/php-horde-Horde-Icalendar/Horde_Icalendar-2.1.1/locale/gl/LC_MESSAGES/Horde_Icalendar.po | 
+ | [he](/f21/language/he) | 0 | 3 | 0.0 | /mnt/stockage/packages/f21/php-horde-Horde-Icalendar/Horde_Icalendar-2.1.1/locale/he/LC_MESSAGES/Horde_Icalendar.po | 
+ | [id](/f21/language/id) | 0 | 3 | 0.0 | /mnt/stockage/packages/f21/php-horde-Horde-Icalendar/Horde_Icalendar-2.1.1/locale/id/LC_MESSAGES/Horde_Icalendar.po | 
+ | [is](/f21/language/is) | 0 | 3 | 0.0 | /mnt/stockage/packages/f21/php-horde-Horde-Icalendar/Horde_Icalendar-2.1.1/locale/is/LC_MESSAGES/Horde_Icalendar.po | 
+ | [km](/f21/language/km) | 0 | 3 | 0.0 | /mnt/stockage/packages/f21/php-horde-Horde-Icalendar/Horde_Icalendar-2.1.1/locale/km/LC_MESSAGES/Horde_Icalendar.po | 
+ | [ko](/f21/language/ko) | 0 | 3 | 0.0 | /mnt/stockage/packages/f21/php-horde-Horde-Icalendar/Horde_Icalendar-2.1.1/locale/ko/LC_MESSAGES/Horde_Icalendar.po | 
+ | [mk](/f21/language/mk) | 0 | 3 | 0.0 | /mnt/stockage/packages/f21/php-horde-Horde-Icalendar/Horde_Icalendar-2.1.1/locale/mk/LC_MESSAGES/Horde_Icalendar.po | 
+ | [nb_NO](/f21/language/nb_NO) | 0 | 3 | 0.0 | /mnt/stockage/packages/f21/php-horde-Horde-Icalendar/Horde_Icalendar-2.1.1/locale/nb/LC_MESSAGES/Horde_Icalendar.po | 
+ | [nn](/f21/language/nn) | 0 | 3 | 0.0 | /mnt/stockage/packages/f21/php-horde-Horde-Icalendar/Horde_Icalendar-2.1.1/locale/nn/LC_MESSAGES/Horde_Icalendar.po | 
+ | [pl](/f21/language/pl) | 0 | 3 | 0.0 | /mnt/stockage/packages/f21/php-horde-Horde-Icalendar/Horde_Icalendar-2.1.1/locale/pl/LC_MESSAGES/Horde_Icalendar.po | 
+ | [pt](/f21/language/pt) | 0 | 3 | 0.0 | /mnt/stockage/packages/f21/php-horde-Horde-Icalendar/Horde_Icalendar-2.1.1/locale/pt/LC_MESSAGES/Horde_Icalendar.po | 
+ | [ro](/f21/language/ro) | 0 | 3 | 0.0 | /mnt/stockage/packages/f21/php-horde-Horde-Icalendar/Horde_Icalendar-2.1.1/locale/ro/LC_MESSAGES/Horde_Icalendar.po | 
+ | [sl](/f21/language/sl) | 0 | 3 | 0.0 | /mnt/stockage/packages/f21/php-horde-Horde-Icalendar/Horde_Icalendar-2.1.1/locale/sl/LC_MESSAGES/Horde_Icalendar.po | 
+ | [sv](/f21/language/sv) | 0 | 3 | 0.0 | /mnt/stockage/packages/f21/php-horde-Horde-Icalendar/Horde_Icalendar-2.1.1/locale/sv/LC_MESSAGES/Horde_Icalendar.po | 
+ | [zh_Hans](/f21/language/zh_Hans) | 0 | 3 | 0.0 | /mnt/stockage/packages/f21/php-horde-Horde-Icalendar/Horde_Icalendar-2.1.1/locale/zh_CN/LC_MESSAGES/Horde_Icalendar.po | 
 {.sortable}
 
 

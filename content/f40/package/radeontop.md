@@ -18,16 +18,16 @@ The package radeontop (version 1.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f40/language/cs.md" >}}) | 202 | 202 | 100.0 | /mnt/stockage/packages/f40/radeontop/translations/cs.po | 
- | [de]({{< ref "/f40/language/de.md" >}}) | 202 | 202 | 100.0 | /mnt/stockage/packages/f40/radeontop/translations/de.po | 
- | [ru]({{< ref "/f40/language/ru.md" >}}) | 202 | 202 | 100.0 | /mnt/stockage/packages/f40/radeontop/translations/ru.po | 
- | [el]({{< ref "/f40/language/el.md" >}}) | 152 | 202 | 75.2 | /mnt/stockage/packages/f40/radeontop/translations/el.po | 
- | [es]({{< ref "/f40/language/es.md" >}}) | 132 | 202 | 65.3 | /mnt/stockage/packages/f40/radeontop/translations/es.po | 
- | [fr]({{< ref "/f40/language/fr.md" >}}) | 90 | 202 | 44.6 | /mnt/stockage/packages/f40/radeontop/translations/fr.po | 
- | [zh_Hans]({{< ref "/f40/language/zh_Hans.md" >}}) | 55 | 202 | 27.2 | /mnt/stockage/packages/f40/radeontop/translations/zh_CN.po | 
- | [tr]({{< ref "/f40/language/tr.md" >}}) | 42 | 202 | 20.8 | /mnt/stockage/packages/f40/radeontop/translations/tr.po | 
- | [sl]({{< ref "/f40/language/sl.md" >}}) | 10 | 202 | 5.0 | /mnt/stockage/packages/f40/radeontop/translations/sl.po | 
- | [fi]({{< ref "/f40/language/fi.md" >}}) | 4 | 202 | 2.0 | /mnt/stockage/packages/f40/radeontop/translations/fi.po | 
+ | [cs](/f40/language/cs) | 202 | 202 | 100.0 | /mnt/stockage/packages/f40/radeontop/translations/cs.po | 
+ | [de](/f40/language/de) | 202 | 202 | 100.0 | /mnt/stockage/packages/f40/radeontop/translations/de.po | 
+ | [ru](/f40/language/ru) | 202 | 202 | 100.0 | /mnt/stockage/packages/f40/radeontop/translations/ru.po | 
+ | [el](/f40/language/el) | 152 | 202 | 75.2 | /mnt/stockage/packages/f40/radeontop/translations/el.po | 
+ | [es](/f40/language/es) | 132 | 202 | 65.3 | /mnt/stockage/packages/f40/radeontop/translations/es.po | 
+ | [fr](/f40/language/fr) | 90 | 202 | 44.6 | /mnt/stockage/packages/f40/radeontop/translations/fr.po | 
+ | [zh_Hans](/f40/language/zh_Hans) | 55 | 202 | 27.2 | /mnt/stockage/packages/f40/radeontop/translations/zh_CN.po | 
+ | [tr](/f40/language/tr) | 42 | 202 | 20.8 | /mnt/stockage/packages/f40/radeontop/translations/tr.po | 
+ | [sl](/f40/language/sl) | 10 | 202 | 5.0 | /mnt/stockage/packages/f40/radeontop/translations/sl.po | 
+ | [fi](/f40/language/fi) | 4 | 202 | 2.0 | /mnt/stockage/packages/f40/radeontop/translations/fi.po | 
 {.sortable}
 
 

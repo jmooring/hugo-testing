@@ -18,11 +18,11 @@ The package python-ase (version 3.12.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [da]({{< ref "/f23/language/da.md" >}}) | 3261 | 3261 | 100.0 | /mnt/stockage/packages/f23/python-ase/ase/gui/po/da/LC_MESSAGES/ag.po | 
- | [en_GB]({{< ref "/f23/language/en_GB.md" >}}) | 3261 | 3261 | 100.0 | /mnt/stockage/packages/f23/python-ase/ase/gui/po/en_GB/LC_MESSAGES/ag.po | 
- | [es]({{< ref "/f23/language/es.md" >}}) | 3261 | 3261 | 100.0 | /mnt/stockage/packages/f23/python-ase/ase/gui/po/es/LC_MESSAGES/ag.po | 
- | [zh_Hans]({{< ref "/f23/language/zh_Hans.md" >}}) | 2598 | 3260 | 79.7 | /mnt/stockage/packages/f23/python-ase/ase/gui/po/zh_CN/LC_MESSAGES/ag.po | 
- | [gl]({{< ref "/f23/language/gl.md" >}}) | 2109 | 3260 | 64.7 | /mnt/stockage/packages/f23/python-ase/ase/gui/po/gl/LC_MESSAGES/ag.po | 
+ | [da](/f23/language/da) | 3261 | 3261 | 100.0 | /mnt/stockage/packages/f23/python-ase/ase/gui/po/da/LC_MESSAGES/ag.po | 
+ | [en_GB](/f23/language/en_GB) | 3261 | 3261 | 100.0 | /mnt/stockage/packages/f23/python-ase/ase/gui/po/en_GB/LC_MESSAGES/ag.po | 
+ | [es](/f23/language/es) | 3261 | 3261 | 100.0 | /mnt/stockage/packages/f23/python-ase/ase/gui/po/es/LC_MESSAGES/ag.po | 
+ | [zh_Hans](/f23/language/zh_Hans) | 2598 | 3260 | 79.7 | /mnt/stockage/packages/f23/python-ase/ase/gui/po/zh_CN/LC_MESSAGES/ag.po | 
+ | [gl](/f23/language/gl) | 2109 | 3260 | 64.7 | /mnt/stockage/packages/f23/python-ase/ase/gui/po/gl/LC_MESSAGES/ag.po | 
 {.sortable}
 
 

@@ -18,28 +18,28 @@ The package expendable (version 0.0.10):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f28/language/ca.md" >}}) | 227 | 227 | 100.0 | /mnt/stockage/packages/f28/expendable/po/ca.po | 
- | [de]({{< ref "/f28/language/de.md" >}}) | 227 | 227 | 100.0 | /mnt/stockage/packages/f28/expendable/po/de.po | 
- | [en_GB]({{< ref "/f28/language/en_GB.md" >}}) | 227 | 227 | 100.0 | /mnt/stockage/packages/f28/expendable/po/en_GB.po | 
- | [es]({{< ref "/f28/language/es.md" >}}) | 227 | 227 | 100.0 | /mnt/stockage/packages/f28/expendable/po/es.po | 
- | [fr]({{< ref "/f28/language/fr.md" >}}) | 227 | 227 | 100.0 | /mnt/stockage/packages/f28/expendable/po/fr.po | 
- | [ja]({{< ref "/f28/language/ja.md" >}}) | 227 | 227 | 100.0 | /mnt/stockage/packages/f28/expendable/po/ja.po | 
- | [nl]({{< ref "/f28/language/nl.md" >}}) | 227 | 227 | 100.0 | /mnt/stockage/packages/f28/expendable/po/nl.po | 
- | [pl]({{< ref "/f28/language/pl.md" >}}) | 227 | 227 | 100.0 | /mnt/stockage/packages/f28/expendable/po/pl.po | 
- | [pt_BR]({{< ref "/f28/language/pt_BR.md" >}}) | 227 | 227 | 100.0 | /mnt/stockage/packages/f28/expendable/po/pt_BR.po | 
- | [sv]({{< ref "/f28/language/sv.md" >}}) | 227 | 227 | 100.0 | /mnt/stockage/packages/f28/expendable/po/sv.po | 
- | [uk]({{< ref "/f28/language/uk.md" >}}) | 227 | 227 | 100.0 | /mnt/stockage/packages/f28/expendable/po/uk.po | 
- | [zh_Hans]({{< ref "/f28/language/zh_Hans.md" >}}) | 227 | 227 | 100.0 | /mnt/stockage/packages/f28/expendable/po/zh_CN.po | 
- | [it]({{< ref "/f28/language/it.md" >}}) | 226 | 227 | 99.6 | /mnt/stockage/packages/f28/expendable/po/it.po | 
- | [hu]({{< ref "/f28/language/hu.md" >}}) | 137 | 227 | 60.4 | /mnt/stockage/packages/f28/expendable/po/hu.po | 
- | [da]({{< ref "/f28/language/da.md" >}}) | 134 | 227 | 59.0 | /mnt/stockage/packages/f28/expendable/po/da.po | 
- | [ru]({{< ref "/f28/language/ru.md" >}}) | 91 | 227 | 40.1 | /mnt/stockage/packages/f28/expendable/po/ru.po | 
- | [pa]({{< ref "/f28/language/pa.md" >}}) | 63 | 227 | 27.8 | /mnt/stockage/packages/f28/expendable/po/pa.po | 
- | [zh_Hant]({{< ref "/f28/language/zh_Hant.md" >}}) | 56 | 227 | 24.7 | /mnt/stockage/packages/f28/expendable/po/zh_TW.po | 
- | [gu]({{< ref "/f28/language/gu.md" >}}) | 41 | 227 | 18.1 | /mnt/stockage/packages/f28/expendable/po/gu.po | 
- | [tg]({{< ref "/f28/language/tg.md" >}}) | 40 | 227 | 17.6 | /mnt/stockage/packages/f28/expendable/po/tg.po | 
- | [eu]({{< ref "/f28/language/eu.md" >}}) | 19 | 227 | 8.4 | /mnt/stockage/packages/f28/expendable/po/eu.po | 
- | [ms]({{< ref "/f28/language/ms.md" >}}) | 15 | 227 | 6.6 | /mnt/stockage/packages/f28/expendable/po/ms.po | 
+ | [ca](/f28/language/ca) | 227 | 227 | 100.0 | /mnt/stockage/packages/f28/expendable/po/ca.po | 
+ | [de](/f28/language/de) | 227 | 227 | 100.0 | /mnt/stockage/packages/f28/expendable/po/de.po | 
+ | [en_GB](/f28/language/en_GB) | 227 | 227 | 100.0 | /mnt/stockage/packages/f28/expendable/po/en_GB.po | 
+ | [es](/f28/language/es) | 227 | 227 | 100.0 | /mnt/stockage/packages/f28/expendable/po/es.po | 
+ | [fr](/f28/language/fr) | 227 | 227 | 100.0 | /mnt/stockage/packages/f28/expendable/po/fr.po | 
+ | [ja](/f28/language/ja) | 227 | 227 | 100.0 | /mnt/stockage/packages/f28/expendable/po/ja.po | 
+ | [nl](/f28/language/nl) | 227 | 227 | 100.0 | /mnt/stockage/packages/f28/expendable/po/nl.po | 
+ | [pl](/f28/language/pl) | 227 | 227 | 100.0 | /mnt/stockage/packages/f28/expendable/po/pl.po | 
+ | [pt_BR](/f28/language/pt_BR) | 227 | 227 | 100.0 | /mnt/stockage/packages/f28/expendable/po/pt_BR.po | 
+ | [sv](/f28/language/sv) | 227 | 227 | 100.0 | /mnt/stockage/packages/f28/expendable/po/sv.po | 
+ | [uk](/f28/language/uk) | 227 | 227 | 100.0 | /mnt/stockage/packages/f28/expendable/po/uk.po | 
+ | [zh_Hans](/f28/language/zh_Hans) | 227 | 227 | 100.0 | /mnt/stockage/packages/f28/expendable/po/zh_CN.po | 
+ | [it](/f28/language/it) | 226 | 227 | 99.6 | /mnt/stockage/packages/f28/expendable/po/it.po | 
+ | [hu](/f28/language/hu) | 137 | 227 | 60.4 | /mnt/stockage/packages/f28/expendable/po/hu.po | 
+ | [da](/f28/language/da) | 134 | 227 | 59.0 | /mnt/stockage/packages/f28/expendable/po/da.po | 
+ | [ru](/f28/language/ru) | 91 | 227 | 40.1 | /mnt/stockage/packages/f28/expendable/po/ru.po | 
+ | [pa](/f28/language/pa) | 63 | 227 | 27.8 | /mnt/stockage/packages/f28/expendable/po/pa.po | 
+ | [zh_Hant](/f28/language/zh_Hant) | 56 | 227 | 24.7 | /mnt/stockage/packages/f28/expendable/po/zh_TW.po | 
+ | [gu](/f28/language/gu) | 41 | 227 | 18.1 | /mnt/stockage/packages/f28/expendable/po/gu.po | 
+ | [tg](/f28/language/tg) | 40 | 227 | 17.6 | /mnt/stockage/packages/f28/expendable/po/tg.po | 
+ | [eu](/f28/language/eu) | 19 | 227 | 8.4 | /mnt/stockage/packages/f28/expendable/po/eu.po | 
+ | [ms](/f28/language/ms) | 15 | 227 | 6.6 | /mnt/stockage/packages/f28/expendable/po/ms.po | 
 {.sortable}
 
 

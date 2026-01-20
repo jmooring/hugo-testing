@@ -44,8 +44,8 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [mate-menu]({{< ref "/f43/package/mate-menu.md" >}}) | 0 | 308 | 0.0 | Lingua Franca Nova (http://www.transifex.com/mate/MATE/language/lfn/) | 
- | [mate-themes]({{< ref "/f43/package/mate-themes.md" >}}) | 0 | 74 | 0.0 | Lingua Franca Nova (http://app.transifex.com/mate/MATE/language/lfn/) | 
+ | [mate-menu](/f43/package/mate-menu) | 0 | 308 | 0.0 | Lingua Franca Nova (http://www.transifex.com/mate/MATE/language/lfn/) | 
+ | [mate-themes](/f43/package/mate-themes) | 0 | 74 | 0.0 | Lingua Franca Nova (http://app.transifex.com/mate/MATE/language/lfn/) | 
 {.sortable}
 
 

@@ -18,11 +18,11 @@ The package xneur (version 0.20.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ru]({{< ref "/f28/language/ru.md" >}}) | 1970 | 1970 | 100.0 | /mnt/stockage/packages/f28/xneur/po/ru.po | 
- | [uk]({{< ref "/f28/language/uk.md" >}}) | 349 | 1970 | 17.7 | /mnt/stockage/packages/f28/xneur/po/uk.po | 
- | [be]({{< ref "/f28/language/be.md" >}}) | 197 | 1970 | 10.0 | /mnt/stockage/packages/f28/xneur/po/be.po | 
- | [ro]({{< ref "/f28/language/ro.md" >}}) | 16 | 1970 | 0.8 | /mnt/stockage/packages/f28/xneur/po/ro.po | 
- | [de]({{< ref "/f28/language/de.md" >}}) | 3 | 1970 | 0.2 | /mnt/stockage/packages/f28/xneur/po/de.po | 
+ | [ru](/f28/language/ru) | 1970 | 1970 | 100.0 | /mnt/stockage/packages/f28/xneur/po/ru.po | 
+ | [uk](/f28/language/uk) | 349 | 1970 | 17.7 | /mnt/stockage/packages/f28/xneur/po/uk.po | 
+ | [be](/f28/language/be) | 197 | 1970 | 10.0 | /mnt/stockage/packages/f28/xneur/po/be.po | 
+ | [ro](/f28/language/ro) | 16 | 1970 | 0.8 | /mnt/stockage/packages/f28/xneur/po/ro.po | 
+ | [de](/f28/language/de) | 3 | 1970 | 0.2 | /mnt/stockage/packages/f28/xneur/po/de.po | 
 {.sortable}
 
 

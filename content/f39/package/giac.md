@@ -18,14 +18,14 @@ The package giac (version 1.9.0.99):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f39/language/fr.md" >}}) | 8195 | 9125 | 89.8 | /mnt/stockage/packages/f39/giac/po/fr.po | 
- | [es]({{< ref "/f39/language/es.md" >}}) | 5365 | 9125 | 58.8 | /mnt/stockage/packages/f39/giac/po/es.po | 
- | [de]({{< ref "/f39/language/de.md" >}}) | 4660 | 9125 | 51.1 | /mnt/stockage/packages/f39/giac/po/de.po | 
- | [pt]({{< ref "/f39/language/pt.md" >}}) | 4184 | 9125 | 45.9 | /mnt/stockage/packages/f39/giac/po/pt.po | 
- | [zh_Hans]({{< ref "/f39/language/zh_Hans.md" >}}) | 4184 | 9125 | 45.9 | /mnt/stockage/packages/f39/giac/po/zh.po | 
- | [el]({{< ref "/f39/language/el.md" >}}) | 3217 | 9125 | 35.3 | /mnt/stockage/packages/f39/giac/po/el.po | 
- | [en]({{< ref "/f39/language/en.md" >}}) | 2858 | 9125 | 31.3 | /mnt/stockage/packages/f39/giac/po/en.po | 
- | [it]({{< ref "/f39/language/it.md" >}}) | 0 | 9125 | 0.0 | /mnt/stockage/packages/f39/giac/po/it.po | 
+ | [fr](/f39/language/fr) | 8195 | 9125 | 89.8 | /mnt/stockage/packages/f39/giac/po/fr.po | 
+ | [es](/f39/language/es) | 5365 | 9125 | 58.8 | /mnt/stockage/packages/f39/giac/po/es.po | 
+ | [de](/f39/language/de) | 4660 | 9125 | 51.1 | /mnt/stockage/packages/f39/giac/po/de.po | 
+ | [pt](/f39/language/pt) | 4184 | 9125 | 45.9 | /mnt/stockage/packages/f39/giac/po/pt.po | 
+ | [zh_Hans](/f39/language/zh_Hans) | 4184 | 9125 | 45.9 | /mnt/stockage/packages/f39/giac/po/zh.po | 
+ | [el](/f39/language/el) | 3217 | 9125 | 35.3 | /mnt/stockage/packages/f39/giac/po/el.po | 
+ | [en](/f39/language/en) | 2858 | 9125 | 31.3 | /mnt/stockage/packages/f39/giac/po/en.po | 
+ | [it](/f39/language/it) | 0 | 9125 | 0.0 | /mnt/stockage/packages/f39/giac/po/it.po | 
 {.sortable}
 
 

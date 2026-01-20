@@ -18,14 +18,14 @@ The package kanatest (version 0.4.8):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [pl]({{< ref "/f25/language/pl.md" >}}) | 406 | 406 | 100.0 | /mnt/stockage/packages/f25/kanatest/po/pl.po | 
- | [ru]({{< ref "/f25/language/ru.md" >}}) | 403 | 406 | 99.3 | /mnt/stockage/packages/f25/kanatest/po/ru.po | 
- | [de]({{< ref "/f25/language/de.md" >}}) | 401 | 406 | 98.8 | /mnt/stockage/packages/f25/kanatest/po/de.po | 
- | [es]({{< ref "/f25/language/es.md" >}}) | 401 | 406 | 98.8 | /mnt/stockage/packages/f25/kanatest/po/es.po | 
- | [fr]({{< ref "/f25/language/fr.md" >}}) | 401 | 406 | 98.8 | /mnt/stockage/packages/f25/kanatest/po/fr.po | 
- | [hu]({{< ref "/f25/language/hu.md" >}}) | 401 | 406 | 98.8 | /mnt/stockage/packages/f25/kanatest/po/hu.po | 
- | [it]({{< ref "/f25/language/it.md" >}}) | 395 | 406 | 97.3 | /mnt/stockage/packages/f25/kanatest/po/it.po | 
- | [pt]({{< ref "/f25/language/pt.md" >}}) | 326 | 406 | 80.3 | /mnt/stockage/packages/f25/kanatest/po/pt.po | 
+ | [pl](/f25/language/pl) | 406 | 406 | 100.0 | /mnt/stockage/packages/f25/kanatest/po/pl.po | 
+ | [ru](/f25/language/ru) | 403 | 406 | 99.3 | /mnt/stockage/packages/f25/kanatest/po/ru.po | 
+ | [de](/f25/language/de) | 401 | 406 | 98.8 | /mnt/stockage/packages/f25/kanatest/po/de.po | 
+ | [es](/f25/language/es) | 401 | 406 | 98.8 | /mnt/stockage/packages/f25/kanatest/po/es.po | 
+ | [fr](/f25/language/fr) | 401 | 406 | 98.8 | /mnt/stockage/packages/f25/kanatest/po/fr.po | 
+ | [hu](/f25/language/hu) | 401 | 406 | 98.8 | /mnt/stockage/packages/f25/kanatest/po/hu.po | 
+ | [it](/f25/language/it) | 395 | 406 | 97.3 | /mnt/stockage/packages/f25/kanatest/po/it.po | 
+ | [pt](/f25/language/pt) | 326 | 406 | 80.3 | /mnt/stockage/packages/f25/kanatest/po/pt.po | 
 {.sortable}
 
 

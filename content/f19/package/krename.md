@@ -18,25 +18,25 @@ The package krename (version 4.0.9):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f19/language/cs.md" >}}) | 2058 | 2058 | 100.0 | /mnt/stockage/packages/f19/krename/po/cs.po | 
- | [hu]({{< ref "/f19/language/hu.md" >}}) | 2058 | 2058 | 100.0 | /mnt/stockage/packages/f19/krename/po/hu.po | 
- | [uk]({{< ref "/f19/language/uk.md" >}}) | 2039 | 2058 | 99.1 | /mnt/stockage/packages/f19/krename/po/uk.po | 
- | [lt]({{< ref "/f19/language/lt.md" >}}) | 1996 | 2058 | 97.0 | /mnt/stockage/packages/f19/krename/po/lt.po | 
- | [de]({{< ref "/f19/language/de.md" >}}) | 1949 | 2058 | 94.7 | /mnt/stockage/packages/f19/krename/po/de.po | 
- | [sv]({{< ref "/f19/language/sv.md" >}}) | 1907 | 2058 | 92.7 | /mnt/stockage/packages/f19/krename/po/sv.po | 
- | [pt]({{< ref "/f19/language/pt.md" >}}) | 1872 | 2058 | 91.0 | /mnt/stockage/packages/f19/krename/po/pt.po | 
- | [el]({{< ref "/f19/language/el.md" >}}) | 1794 | 2058 | 87.2 | /mnt/stockage/packages/f19/krename/po/el.po | 
- | [it]({{< ref "/f19/language/it.md" >}}) | 1302 | 2058 | 63.3 | /mnt/stockage/packages/f19/krename/po/it.po | 
- | [pl]({{< ref "/f19/language/pl.md" >}}) | 1125 | 2058 | 54.7 | /mnt/stockage/packages/f19/krename/po/pl.po | 
- | [es]({{< ref "/f19/language/es.md" >}}) | 739 | 2058 | 35.9 | /mnt/stockage/packages/f19/krename/po/es.po | 
- | [fr]({{< ref "/f19/language/fr.md" >}}) | 739 | 2058 | 35.9 | /mnt/stockage/packages/f19/krename/po/fr.po | 
- | [sl]({{< ref "/f19/language/sl.md" >}}) | 739 | 2058 | 35.9 | /mnt/stockage/packages/f19/krename/po/sl.po | 
- | [tr]({{< ref "/f19/language/tr.md" >}}) | 739 | 2058 | 35.9 | /mnt/stockage/packages/f19/krename/po/tr.po | 
- | [zh_Hans]({{< ref "/f19/language/zh_Hans.md" >}}) | 739 | 2058 | 35.9 | /mnt/stockage/packages/f19/krename/po/zh_CN.po | 
- | [ru]({{< ref "/f19/language/ru.md" >}}) | 734 | 2058 | 35.7 | /mnt/stockage/packages/f19/krename/po/ru.po | 
- | [nl]({{< ref "/f19/language/nl.md" >}}) | 697 | 2058 | 33.9 | /mnt/stockage/packages/f19/krename/po/nl.po | 
- | [ja]({{< ref "/f19/language/ja.md" >}}) | 659 | 2058 | 32.0 | /mnt/stockage/packages/f19/krename/po/ja.po | 
- | [bs]({{< ref "/f19/language/bs.md" >}}) | 548 | 2058 | 26.6 | /mnt/stockage/packages/f19/krename/po/bs.po | 
+ | [cs](/f19/language/cs) | 2058 | 2058 | 100.0 | /mnt/stockage/packages/f19/krename/po/cs.po | 
+ | [hu](/f19/language/hu) | 2058 | 2058 | 100.0 | /mnt/stockage/packages/f19/krename/po/hu.po | 
+ | [uk](/f19/language/uk) | 2039 | 2058 | 99.1 | /mnt/stockage/packages/f19/krename/po/uk.po | 
+ | [lt](/f19/language/lt) | 1996 | 2058 | 97.0 | /mnt/stockage/packages/f19/krename/po/lt.po | 
+ | [de](/f19/language/de) | 1949 | 2058 | 94.7 | /mnt/stockage/packages/f19/krename/po/de.po | 
+ | [sv](/f19/language/sv) | 1907 | 2058 | 92.7 | /mnt/stockage/packages/f19/krename/po/sv.po | 
+ | [pt](/f19/language/pt) | 1872 | 2058 | 91.0 | /mnt/stockage/packages/f19/krename/po/pt.po | 
+ | [el](/f19/language/el) | 1794 | 2058 | 87.2 | /mnt/stockage/packages/f19/krename/po/el.po | 
+ | [it](/f19/language/it) | 1302 | 2058 | 63.3 | /mnt/stockage/packages/f19/krename/po/it.po | 
+ | [pl](/f19/language/pl) | 1125 | 2058 | 54.7 | /mnt/stockage/packages/f19/krename/po/pl.po | 
+ | [es](/f19/language/es) | 739 | 2058 | 35.9 | /mnt/stockage/packages/f19/krename/po/es.po | 
+ | [fr](/f19/language/fr) | 739 | 2058 | 35.9 | /mnt/stockage/packages/f19/krename/po/fr.po | 
+ | [sl](/f19/language/sl) | 739 | 2058 | 35.9 | /mnt/stockage/packages/f19/krename/po/sl.po | 
+ | [tr](/f19/language/tr) | 739 | 2058 | 35.9 | /mnt/stockage/packages/f19/krename/po/tr.po | 
+ | [zh_Hans](/f19/language/zh_Hans) | 739 | 2058 | 35.9 | /mnt/stockage/packages/f19/krename/po/zh_CN.po | 
+ | [ru](/f19/language/ru) | 734 | 2058 | 35.7 | /mnt/stockage/packages/f19/krename/po/ru.po | 
+ | [nl](/f19/language/nl) | 697 | 2058 | 33.9 | /mnt/stockage/packages/f19/krename/po/nl.po | 
+ | [ja](/f19/language/ja) | 659 | 2058 | 32.0 | /mnt/stockage/packages/f19/krename/po/ja.po | 
+ | [bs](/f19/language/bs) | 548 | 2058 | 26.6 | /mnt/stockage/packages/f19/krename/po/bs.po | 
 {.sortable}
 
 

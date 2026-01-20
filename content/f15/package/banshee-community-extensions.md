@@ -18,16 +18,16 @@ The package banshee-community-extensions (version 2.0.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f15/language/fr.md" >}}) | 1156 | 1156 | 100.0 | /mnt/stockage/packages/f15/banshee-community-extensions/po/fr.po | 
- | [it]({{< ref "/f15/language/it.md" >}}) | 1156 | 1156 | 100.0 | /mnt/stockage/packages/f15/banshee-community-extensions/po/it.po | 
- | [uk]({{< ref "/f15/language/uk.md" >}}) | 1156 | 1156 | 100.0 | /mnt/stockage/packages/f15/banshee-community-extensions/po/uk_UA.po | 
- | [de]({{< ref "/f15/language/de.md" >}}) | 1137 | 1156 | 98.4 | /mnt/stockage/packages/f15/banshee-community-extensions/po/de.po | 
- | [pt]({{< ref "/f15/language/pt.md" >}}) | 1137 | 1156 | 98.4 | /mnt/stockage/packages/f15/banshee-community-extensions/po/pt.po | 
- | [es]({{< ref "/f15/language/es.md" >}}) | 948 | 1156 | 82.0 | /mnt/stockage/packages/f15/banshee-community-extensions/po/es.po | 
- | [sk]({{< ref "/f15/language/sk.md" >}}) | 164 | 1156 | 14.2 | /mnt/stockage/packages/f15/banshee-community-extensions/po/sk.po | 
- | [fi]({{< ref "/f15/language/fi.md" >}}) | 117 | 1156 | 10.1 | /mnt/stockage/packages/f15/banshee-community-extensions/po/fi.po | 
- | [ru]({{< ref "/f15/language/ru.md" >}}) | 90 | 1156 | 7.8 | /mnt/stockage/packages/f15/banshee-community-extensions/po/ru_RU.po | 
- | [el]({{< ref "/f15/language/el.md" >}}) | 42 | 1156 | 3.6 | /mnt/stockage/packages/f15/banshee-community-extensions/po/el.po | 
+ | [fr](/f15/language/fr) | 1156 | 1156 | 100.0 | /mnt/stockage/packages/f15/banshee-community-extensions/po/fr.po | 
+ | [it](/f15/language/it) | 1156 | 1156 | 100.0 | /mnt/stockage/packages/f15/banshee-community-extensions/po/it.po | 
+ | [uk](/f15/language/uk) | 1156 | 1156 | 100.0 | /mnt/stockage/packages/f15/banshee-community-extensions/po/uk_UA.po | 
+ | [de](/f15/language/de) | 1137 | 1156 | 98.4 | /mnt/stockage/packages/f15/banshee-community-extensions/po/de.po | 
+ | [pt](/f15/language/pt) | 1137 | 1156 | 98.4 | /mnt/stockage/packages/f15/banshee-community-extensions/po/pt.po | 
+ | [es](/f15/language/es) | 948 | 1156 | 82.0 | /mnt/stockage/packages/f15/banshee-community-extensions/po/es.po | 
+ | [sk](/f15/language/sk) | 164 | 1156 | 14.2 | /mnt/stockage/packages/f15/banshee-community-extensions/po/sk.po | 
+ | [fi](/f15/language/fi) | 117 | 1156 | 10.1 | /mnt/stockage/packages/f15/banshee-community-extensions/po/fi.po | 
+ | [ru](/f15/language/ru) | 90 | 1156 | 7.8 | /mnt/stockage/packages/f15/banshee-community-extensions/po/ru_RU.po | 
+ | [el](/f15/language/el) | 42 | 1156 | 3.6 | /mnt/stockage/packages/f15/banshee-community-extensions/po/el.po | 
 {.sortable}
 
 

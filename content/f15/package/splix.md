@@ -18,10 +18,10 @@ The package splix (version 2.0.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f15/language/de.md" >}}) | 310 | 310 | 100.0 | /mnt/stockage/packages/f15/splix/ppd/po/de.po | 
- | [fr]({{< ref "/f15/language/fr.md" >}}) | 316 | 316 | 100.0 | /mnt/stockage/packages/f15/splix/ppd/po/fr.po | 
- | [pt]({{< ref "/f15/language/pt.md" >}}) | 318 | 318 | 100.0 | /mnt/stockage/packages/f15/splix/ppd/po/pt.po | 
- | [it]({{< ref "/f15/language/it.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f15/splix/ppd/po/it.po | 
+ | [de](/f15/language/de) | 310 | 310 | 100.0 | /mnt/stockage/packages/f15/splix/ppd/po/de.po | 
+ | [fr](/f15/language/fr) | 316 | 316 | 100.0 | /mnt/stockage/packages/f15/splix/ppd/po/fr.po | 
+ | [pt](/f15/language/pt) | 318 | 318 | 100.0 | /mnt/stockage/packages/f15/splix/ppd/po/pt.po | 
+ | [it](/f15/language/it) | 0 | 0 | 0.0 | /mnt/stockage/packages/f15/splix/ppd/po/it.po | 
 {.sortable}
 
 

@@ -18,14 +18,14 @@ The package obby (version 0.4.7):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f14/language/ca.md" >}}) | 159 | 159 | 100.0 | /mnt/stockage/packages/f14/obby/po/ca.po | 
- | [de]({{< ref "/f14/language/de.md" >}}) | 159 | 159 | 100.0 | /mnt/stockage/packages/f14/obby/po/de.po | 
- | [es]({{< ref "/f14/language/es.md" >}}) | 159 | 159 | 100.0 | /mnt/stockage/packages/f14/obby/po/es.po | 
- | [fr]({{< ref "/f14/language/fr.md" >}}) | 159 | 159 | 100.0 | /mnt/stockage/packages/f14/obby/po/fr.po | 
- | [it]({{< ref "/f14/language/it.md" >}}) | 159 | 159 | 100.0 | /mnt/stockage/packages/f14/obby/po/it.po | 
- | [sv]({{< ref "/f14/language/sv.md" >}}) | 159 | 159 | 100.0 | /mnt/stockage/packages/f14/obby/po/sv.po | 
- | [oc]({{< ref "/f14/language/oc.md" >}}) | 150 | 159 | 94.3 | /mnt/stockage/packages/f14/obby/po/oc.po | 
- | [nl]({{< ref "/f14/language/nl.md" >}}) | 89 | 159 | 56.0 | /mnt/stockage/packages/f14/obby/po/nl.po | 
+ | [ca](/f14/language/ca) | 159 | 159 | 100.0 | /mnt/stockage/packages/f14/obby/po/ca.po | 
+ | [de](/f14/language/de) | 159 | 159 | 100.0 | /mnt/stockage/packages/f14/obby/po/de.po | 
+ | [es](/f14/language/es) | 159 | 159 | 100.0 | /mnt/stockage/packages/f14/obby/po/es.po | 
+ | [fr](/f14/language/fr) | 159 | 159 | 100.0 | /mnt/stockage/packages/f14/obby/po/fr.po | 
+ | [it](/f14/language/it) | 159 | 159 | 100.0 | /mnt/stockage/packages/f14/obby/po/it.po | 
+ | [sv](/f14/language/sv) | 159 | 159 | 100.0 | /mnt/stockage/packages/f14/obby/po/sv.po | 
+ | [oc](/f14/language/oc) | 150 | 159 | 94.3 | /mnt/stockage/packages/f14/obby/po/oc.po | 
+ | [nl](/f14/language/nl) | 89 | 159 | 56.0 | /mnt/stockage/packages/f14/obby/po/nl.po | 
 {.sortable}
 
 

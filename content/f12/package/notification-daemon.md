@@ -18,14 +18,14 @@ The package notification-daemon (version 0.4.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f12/language/ar.md" >}}) | 31 | 31 | 100.0 | /mnt/stockage/packages/f12/notification-daemon/po/ar.po | 
- | [it]({{< ref "/f12/language/it.md" >}}) | 101 | 101 | 100.0 | /mnt/stockage/packages/f12/notification-daemon/po/it.po | 
- | [ja]({{< ref "/f12/language/ja.md" >}}) | 108 | 108 | 100.0 | /mnt/stockage/packages/f12/notification-daemon/po/ja.po | 
- | [pl]({{< ref "/f12/language/pl.md" >}}) | 31 | 31 | 100.0 | /mnt/stockage/packages/f12/notification-daemon/po/pl.po | 
- | [ru]({{< ref "/f12/language/ru.md" >}}) | 108 | 108 | 100.0 | /mnt/stockage/packages/f12/notification-daemon/po/ru.po | 
- | [sv]({{< ref "/f12/language/sv.md" >}}) | 31 | 31 | 100.0 | /mnt/stockage/packages/f12/notification-daemon/po/sv.po | 
- | [de]({{< ref "/f12/language/de.md" >}}) | 17 | 31 | 54.8 | /mnt/stockage/packages/f12/notification-daemon/po/de.po | 
- | [nl]({{< ref "/f12/language/nl.md" >}}) | 8 | 31 | 25.8 | /mnt/stockage/packages/f12/notification-daemon/po/nl.po | 
+ | [ar](/f12/language/ar) | 31 | 31 | 100.0 | /mnt/stockage/packages/f12/notification-daemon/po/ar.po | 
+ | [it](/f12/language/it) | 101 | 101 | 100.0 | /mnt/stockage/packages/f12/notification-daemon/po/it.po | 
+ | [ja](/f12/language/ja) | 108 | 108 | 100.0 | /mnt/stockage/packages/f12/notification-daemon/po/ja.po | 
+ | [pl](/f12/language/pl) | 31 | 31 | 100.0 | /mnt/stockage/packages/f12/notification-daemon/po/pl.po | 
+ | [ru](/f12/language/ru) | 108 | 108 | 100.0 | /mnt/stockage/packages/f12/notification-daemon/po/ru.po | 
+ | [sv](/f12/language/sv) | 31 | 31 | 100.0 | /mnt/stockage/packages/f12/notification-daemon/po/sv.po | 
+ | [de](/f12/language/de) | 17 | 31 | 54.8 | /mnt/stockage/packages/f12/notification-daemon/po/de.po | 
+ | [nl](/f12/language/nl) | 8 | 31 | 25.8 | /mnt/stockage/packages/f12/notification-daemon/po/nl.po | 
 {.sortable}
 
 

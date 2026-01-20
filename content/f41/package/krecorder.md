@@ -18,46 +18,46 @@ The package krecorder (version 25.04.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f41/language/ar.md" >}}) | 130 | 130 | 100.0 | /mnt/stockage/packages/f41/krecorder/po/ar/krecorder.po | 
- | [ca]({{< ref "/f41/language/ca.md" >}}) | 130 | 130 | 100.0 | /mnt/stockage/packages/f41/krecorder/po/ca/krecorder.po | 
- | [ca@valencia]({{< ref "/f41/language/ca@valencia.md" >}}) | 130 | 130 | 100.0 | /mnt/stockage/packages/f41/krecorder/po/ca@valencia/krecorder.po | 
- | [en_GB]({{< ref "/f41/language/en_GB.md" >}}) | 130 | 130 | 100.0 | /mnt/stockage/packages/f41/krecorder/po/en_GB/krecorder.po | 
- | [eo]({{< ref "/f41/language/eo.md" >}}) | 130 | 130 | 100.0 | /mnt/stockage/packages/f41/krecorder/po/eo/krecorder.po | 
- | [es]({{< ref "/f41/language/es.md" >}}) | 130 | 130 | 100.0 | /mnt/stockage/packages/f41/krecorder/po/es/krecorder.po | 
- | [eu]({{< ref "/f41/language/eu.md" >}}) | 130 | 130 | 100.0 | /mnt/stockage/packages/f41/krecorder/po/eu/krecorder.po | 
- | [fi]({{< ref "/f41/language/fi.md" >}}) | 130 | 130 | 100.0 | /mnt/stockage/packages/f41/krecorder/po/fi/krecorder.po | 
- | [fr]({{< ref "/f41/language/fr.md" >}}) | 130 | 130 | 100.0 | /mnt/stockage/packages/f41/krecorder/po/fr/krecorder.po | 
- | [gl]({{< ref "/f41/language/gl.md" >}}) | 130 | 130 | 100.0 | /mnt/stockage/packages/f41/krecorder/po/gl/krecorder.po | 
- | [he]({{< ref "/f41/language/he.md" >}}) | 130 | 130 | 100.0 | /mnt/stockage/packages/f41/krecorder/po/he/krecorder.po | 
- | [hi]({{< ref "/f41/language/hi.md" >}}) | 130 | 130 | 100.0 | /mnt/stockage/packages/f41/krecorder/po/hi/krecorder.po | 
- | [hu]({{< ref "/f41/language/hu.md" >}}) | 130 | 130 | 100.0 | /mnt/stockage/packages/f41/krecorder/po/hu/krecorder.po | 
- | [ia]({{< ref "/f41/language/ia.md" >}}) | 130 | 130 | 100.0 | /mnt/stockage/packages/f41/krecorder/po/ia/krecorder.po | 
- | [it]({{< ref "/f41/language/it.md" >}}) | 130 | 130 | 100.0 | /mnt/stockage/packages/f41/krecorder/po/it/krecorder.po | 
- | [ka]({{< ref "/f41/language/ka.md" >}}) | 130 | 130 | 100.0 | /mnt/stockage/packages/f41/krecorder/po/ka/krecorder.po | 
- | [ko]({{< ref "/f41/language/ko.md" >}}) | 130 | 130 | 100.0 | /mnt/stockage/packages/f41/krecorder/po/ko/krecorder.po | 
- | [lv]({{< ref "/f41/language/lv.md" >}}) | 130 | 130 | 100.0 | /mnt/stockage/packages/f41/krecorder/po/lv/krecorder.po | 
- | [nl]({{< ref "/f41/language/nl.md" >}}) | 130 | 130 | 100.0 | /mnt/stockage/packages/f41/krecorder/po/nl/krecorder.po | 
- | [pl]({{< ref "/f41/language/pl.md" >}}) | 130 | 130 | 100.0 | /mnt/stockage/packages/f41/krecorder/po/pl/krecorder.po | 
- | [pt_BR]({{< ref "/f41/language/pt_BR.md" >}}) | 130 | 130 | 100.0 | /mnt/stockage/packages/f41/krecorder/po/pt_BR/krecorder.po | 
- | [ro]({{< ref "/f41/language/ro.md" >}}) | 130 | 130 | 100.0 | /mnt/stockage/packages/f41/krecorder/po/ro/krecorder.po | 
- | [ru]({{< ref "/f41/language/ru.md" >}}) | 130 | 130 | 100.0 | /mnt/stockage/packages/f41/krecorder/po/ru/krecorder.po | 
- | [sa]({{< ref "/f41/language/sa.md" >}}) | 130 | 130 | 100.0 | /mnt/stockage/packages/f41/krecorder/po/sa/krecorder.po | 
- | [sl]({{< ref "/f41/language/sl.md" >}}) | 130 | 130 | 100.0 | /mnt/stockage/packages/f41/krecorder/po/sl/krecorder.po | 
- | [sv]({{< ref "/f41/language/sv.md" >}}) | 130 | 130 | 100.0 | /mnt/stockage/packages/f41/krecorder/po/sv/krecorder.po | 
- | [tr]({{< ref "/f41/language/tr.md" >}}) | 130 | 130 | 100.0 | /mnt/stockage/packages/f41/krecorder/po/tr/krecorder.po | 
- | [uk]({{< ref "/f41/language/uk.md" >}}) | 130 | 130 | 100.0 | /mnt/stockage/packages/f41/krecorder/po/uk/krecorder.po | 
- | [zh_Hans]({{< ref "/f41/language/zh_Hans.md" >}}) | 130 | 130 | 100.0 | /mnt/stockage/packages/f41/krecorder/po/zh_CN/krecorder.po | 
- | [zh_Hant]({{< ref "/f41/language/zh_Hant.md" >}}) | 130 | 130 | 100.0 | /mnt/stockage/packages/f41/krecorder/po/zh_TW/krecorder.po | 
- | [pt]({{< ref "/f41/language/pt.md" >}}) | 119 | 130 | 91.5 | /mnt/stockage/packages/f41/krecorder/po/pt/krecorder.po | 
- | [cs]({{< ref "/f41/language/cs.md" >}}) | 87 | 130 | 66.9 | /mnt/stockage/packages/f41/krecorder/po/cs/krecorder.po | 
- | [de]({{< ref "/f41/language/de.md" >}}) | 76 | 130 | 58.5 | /mnt/stockage/packages/f41/krecorder/po/de/krecorder.po | 
- | [el]({{< ref "/f41/language/el.md" >}}) | 32 | 130 | 24.6 | /mnt/stockage/packages/f41/krecorder/po/el/krecorder.po | 
- | [nn]({{< ref "/f41/language/nn.md" >}}) | 23 | 130 | 17.7 | /mnt/stockage/packages/f41/krecorder/po/nn/krecorder.po | 
- | [sk]({{< ref "/f41/language/sk.md" >}}) | 21 | 130 | 16.2 | /mnt/stockage/packages/f41/krecorder/po/sk/krecorder.po | 
- | [pa]({{< ref "/f41/language/pa.md" >}}) | 16 | 130 | 12.3 | /mnt/stockage/packages/f41/krecorder/po/pa/krecorder.po | 
- | [ast]({{< ref "/f41/language/ast.md" >}}) | 4 | 130 | 3.1 | /mnt/stockage/packages/f41/krecorder/po/ast/krecorder.po | 
- | [ja]({{< ref "/f41/language/ja.md" >}}) | 0 | 130 | 0.0 | /mnt/stockage/packages/f41/krecorder/po/ja/krecorder.po | 
- | [lt]({{< ref "/f41/language/lt.md" >}}) | 0 | 130 | 0.0 | /mnt/stockage/packages/f41/krecorder/po/lt/krecorder.po | 
+ | [ar](/f41/language/ar) | 130 | 130 | 100.0 | /mnt/stockage/packages/f41/krecorder/po/ar/krecorder.po | 
+ | [ca](/f41/language/ca) | 130 | 130 | 100.0 | /mnt/stockage/packages/f41/krecorder/po/ca/krecorder.po | 
+ | [ca@valencia](/f41/language/ca@valencia) | 130 | 130 | 100.0 | /mnt/stockage/packages/f41/krecorder/po/ca@valencia/krecorder.po | 
+ | [en_GB](/f41/language/en_GB) | 130 | 130 | 100.0 | /mnt/stockage/packages/f41/krecorder/po/en_GB/krecorder.po | 
+ | [eo](/f41/language/eo) | 130 | 130 | 100.0 | /mnt/stockage/packages/f41/krecorder/po/eo/krecorder.po | 
+ | [es](/f41/language/es) | 130 | 130 | 100.0 | /mnt/stockage/packages/f41/krecorder/po/es/krecorder.po | 
+ | [eu](/f41/language/eu) | 130 | 130 | 100.0 | /mnt/stockage/packages/f41/krecorder/po/eu/krecorder.po | 
+ | [fi](/f41/language/fi) | 130 | 130 | 100.0 | /mnt/stockage/packages/f41/krecorder/po/fi/krecorder.po | 
+ | [fr](/f41/language/fr) | 130 | 130 | 100.0 | /mnt/stockage/packages/f41/krecorder/po/fr/krecorder.po | 
+ | [gl](/f41/language/gl) | 130 | 130 | 100.0 | /mnt/stockage/packages/f41/krecorder/po/gl/krecorder.po | 
+ | [he](/f41/language/he) | 130 | 130 | 100.0 | /mnt/stockage/packages/f41/krecorder/po/he/krecorder.po | 
+ | [hi](/f41/language/hi) | 130 | 130 | 100.0 | /mnt/stockage/packages/f41/krecorder/po/hi/krecorder.po | 
+ | [hu](/f41/language/hu) | 130 | 130 | 100.0 | /mnt/stockage/packages/f41/krecorder/po/hu/krecorder.po | 
+ | [ia](/f41/language/ia) | 130 | 130 | 100.0 | /mnt/stockage/packages/f41/krecorder/po/ia/krecorder.po | 
+ | [it](/f41/language/it) | 130 | 130 | 100.0 | /mnt/stockage/packages/f41/krecorder/po/it/krecorder.po | 
+ | [ka](/f41/language/ka) | 130 | 130 | 100.0 | /mnt/stockage/packages/f41/krecorder/po/ka/krecorder.po | 
+ | [ko](/f41/language/ko) | 130 | 130 | 100.0 | /mnt/stockage/packages/f41/krecorder/po/ko/krecorder.po | 
+ | [lv](/f41/language/lv) | 130 | 130 | 100.0 | /mnt/stockage/packages/f41/krecorder/po/lv/krecorder.po | 
+ | [nl](/f41/language/nl) | 130 | 130 | 100.0 | /mnt/stockage/packages/f41/krecorder/po/nl/krecorder.po | 
+ | [pl](/f41/language/pl) | 130 | 130 | 100.0 | /mnt/stockage/packages/f41/krecorder/po/pl/krecorder.po | 
+ | [pt_BR](/f41/language/pt_BR) | 130 | 130 | 100.0 | /mnt/stockage/packages/f41/krecorder/po/pt_BR/krecorder.po | 
+ | [ro](/f41/language/ro) | 130 | 130 | 100.0 | /mnt/stockage/packages/f41/krecorder/po/ro/krecorder.po | 
+ | [ru](/f41/language/ru) | 130 | 130 | 100.0 | /mnt/stockage/packages/f41/krecorder/po/ru/krecorder.po | 
+ | [sa](/f41/language/sa) | 130 | 130 | 100.0 | /mnt/stockage/packages/f41/krecorder/po/sa/krecorder.po | 
+ | [sl](/f41/language/sl) | 130 | 130 | 100.0 | /mnt/stockage/packages/f41/krecorder/po/sl/krecorder.po | 
+ | [sv](/f41/language/sv) | 130 | 130 | 100.0 | /mnt/stockage/packages/f41/krecorder/po/sv/krecorder.po | 
+ | [tr](/f41/language/tr) | 130 | 130 | 100.0 | /mnt/stockage/packages/f41/krecorder/po/tr/krecorder.po | 
+ | [uk](/f41/language/uk) | 130 | 130 | 100.0 | /mnt/stockage/packages/f41/krecorder/po/uk/krecorder.po | 
+ | [zh_Hans](/f41/language/zh_Hans) | 130 | 130 | 100.0 | /mnt/stockage/packages/f41/krecorder/po/zh_CN/krecorder.po | 
+ | [zh_Hant](/f41/language/zh_Hant) | 130 | 130 | 100.0 | /mnt/stockage/packages/f41/krecorder/po/zh_TW/krecorder.po | 
+ | [pt](/f41/language/pt) | 119 | 130 | 91.5 | /mnt/stockage/packages/f41/krecorder/po/pt/krecorder.po | 
+ | [cs](/f41/language/cs) | 87 | 130 | 66.9 | /mnt/stockage/packages/f41/krecorder/po/cs/krecorder.po | 
+ | [de](/f41/language/de) | 76 | 130 | 58.5 | /mnt/stockage/packages/f41/krecorder/po/de/krecorder.po | 
+ | [el](/f41/language/el) | 32 | 130 | 24.6 | /mnt/stockage/packages/f41/krecorder/po/el/krecorder.po | 
+ | [nn](/f41/language/nn) | 23 | 130 | 17.7 | /mnt/stockage/packages/f41/krecorder/po/nn/krecorder.po | 
+ | [sk](/f41/language/sk) | 21 | 130 | 16.2 | /mnt/stockage/packages/f41/krecorder/po/sk/krecorder.po | 
+ | [pa](/f41/language/pa) | 16 | 130 | 12.3 | /mnt/stockage/packages/f41/krecorder/po/pa/krecorder.po | 
+ | [ast](/f41/language/ast) | 4 | 130 | 3.1 | /mnt/stockage/packages/f41/krecorder/po/ast/krecorder.po | 
+ | [ja](/f41/language/ja) | 0 | 130 | 0.0 | /mnt/stockage/packages/f41/krecorder/po/ja/krecorder.po | 
+ | [lt](/f41/language/lt) | 0 | 130 | 0.0 | /mnt/stockage/packages/f41/krecorder/po/lt/krecorder.po | 
 {.sortable}
 
 

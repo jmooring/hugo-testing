@@ -38,62 +38,62 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [elementary-terminal]({{< ref "/f34/package/elementary-terminal.md" >}}) | 44 | 643 | 6.8 | Rusyn <rue@li.org> | 
- | [elementary-code]({{< ref "/f34/package/elementary-code.md" >}}) | 88 | 1608 | 5.5 | Rusyn <rue@li.org> | 
- | [switchboard-plug-pantheon-shell]({{< ref "/f34/package/switchboard-plug-pantheon-shell.md" >}}) | 17 | 336 | 5.1 | Rusyn <https://l10n.elementary.io/projects/switchboard/switchboard-plug-pantheon-shell/rue/> | 
- | [switchboard]({{< ref "/f34/package/switchboard.md" >}}) | 4 | 124 | 3.2 | Rusyn <rue@li.org> | 
- | [cinnamon-translations]({{< ref "/f34/package/cinnamon-translations.md" >}}) | 93 | 7016 | 1.3 | Rusyn <rue@li.org> | 
- | [switchboard-plug-display]({{< ref "/f34/package/switchboard-plug-display.md" >}}) | 2 | 182 | 1.1 | Rusyn <https://l10n.elementary.io/projects/switchboard/switchboard-plug-display/rue/> | 
- | [switchboard-plug-about]({{< ref "/f34/package/switchboard-plug-about.md" >}}) | 4 | 383 | 1.0 | Rusyn <https://l10n.elementary.io/projects/switchboard/switchboard-plug-about/rue/> | 
- | [granite]({{< ref "/f34/package/granite.md" >}}) | 5 | 498 | 1.0 | Rusyn <rue@li.org> | 
- | [switchboard-plug-mouse-touchpad]({{< ref "/f34/package/switchboard-plug-mouse-touchpad.md" >}}) | 1 | 282 | 0.4 | Rusyn <https://l10n.elementary.io/projects/switchboard/switchboard-plug-mouse-touchpad/rue/> | 
- | [bookworm]({{< ref "/f34/package/bookworm.md" >}}) | 0 | 795 | 0.0 |  | 
- | [coin]({{< ref "/f34/package/coin.md" >}}) | 0 | 252 | 0.0 | none | 
- | [dippi]({{< ref "/f34/package/dippi.md" >}}) | 0 | 397 | 0.0 | none | 
- | [elementary-capnet-assist]({{< ref "/f34/package/elementary-capnet-assist.md" >}}) | 0 | 81 | 0.0 | none | 
- | [elementary-files]({{< ref "/f34/package/elementary-files.md" >}}) | 0 | 3513 | 0.0 | LANGUAGE <LL@li.org> | 
- | [elementary-greeter]({{< ref "/f34/package/elementary-greeter.md" >}}) | 0 | 200 | 0.0 | Rusyn <rue@li.org> | 
- | [elementary-icon-theme]({{< ref "/f34/package/elementary-icon-theme.md" >}}) | 0 | 263 | 0.0 | none | 
- | [elementary-mail]({{< ref "/f34/package/elementary-mail.md" >}}) | 0 | 658 | 0.0 |  | 
- | [elementary-music]({{< ref "/f34/package/elementary-music.md" >}}) | 0 | 1205 | 0.0 | LANGUAGE <LL@li.org> | 
- | [elementary-notifications]({{< ref "/f34/package/elementary-notifications.md" >}}) | 0 | 36 | 0.0 | none | 
- | [elementary-photos]({{< ref "/f34/package/elementary-photos.md" >}}) | 0 | 4011 | 0.0 | LANGUAGE <LL@li.org> | 
- | [elementary-screenshot-tool]({{< ref "/f34/package/elementary-screenshot-tool.md" >}}) | 0 | 248 | 0.0 | LANGUAGE <LL@li.org> | 
- | [elementary-settings-daemon]({{< ref "/f34/package/elementary-settings-daemon.md" >}}) | 0 | 26 | 0.0 | none | 
- | [elementary-shortcut-overlay]({{< ref "/f34/package/elementary-shortcut-overlay.md" >}}) | 0 | 130 | 0.0 | none | 
- | [elementary-sideload]({{< ref "/f34/package/elementary-sideload.md" >}}) | 0 | 319 | 0.0 | none | 
- | [elementary-tasks]({{< ref "/f34/package/elementary-tasks.md" >}}) | 0 | 364 | 0.0 | none | 
- | [elementary-theme]({{< ref "/f34/package/elementary-theme.md" >}}) | 0 | 63 | 0.0 | none | 
- | [elementary-videos]({{< ref "/f34/package/elementary-videos.md" >}}) | 0 | 391 | 0.0 |  | 
- | [feedreader]({{< ref "/f34/package/feedreader.md" >}}) | 0 | 1374 | 0.0 |  | 
- | [gala]({{< ref "/f34/package/gala.md" >}}) | 0 | 358 | 0.0 | none | 
- | [harvey]({{< ref "/f34/package/harvey.md" >}}) | 0 | 182 | 0.0 | none | 
- | [nutty]({{< ref "/f34/package/nutty.md" >}}) | 0 | 608 | 0.0 |  | 
- | [optimizer]({{< ref "/f34/package/optimizer.md" >}}) | 0 | 282 | 0.0 | none | 
- | [pantheon-agent-geoclue2]({{< ref "/f34/package/pantheon-agent-geoclue2.md" >}}) | 0 | 101 | 0.0 | LANGUAGE <LL@li.org> | 
- | [pantheon-agent-polkit]({{< ref "/f34/package/pantheon-agent-polkit.md" >}}) | 0 | 56 | 0.0 | LANGUAGE <LL@li.org> | 
- | [switchboard-plug-a11y]({{< ref "/f34/package/switchboard-plug-a11y.md" >}}) | 0 | 180 | 0.0 | LANGUAGE <LL@li.org> | 
- | [switchboard-plug-applications]({{< ref "/f34/package/switchboard-plug-applications.md" >}}) | 0 | 227 | 0.0 | LANGUAGE <LL@li.org> | 
- | [switchboard-plug-bluetooth]({{< ref "/f34/package/switchboard-plug-bluetooth.md" >}}) | 0 | 206 | 0.0 | Rusyn <rue@li.org> | 
- | [switchboard-plug-keyboard]({{< ref "/f34/package/switchboard-plug-keyboard.md" >}}) | 0 | 636 | 0.0 |  | 
- | [switchboard-plug-networking]({{< ref "/f34/package/switchboard-plug-networking.md" >}}) | 0 | 522 | 0.0 |  | 
- | [switchboard-plug-notifications]({{< ref "/f34/package/switchboard-plug-notifications.md" >}}) | 0 | 142 | 0.0 | LANGUAGE <LL@li.org> | 
- | [switchboard-plug-onlineaccounts]({{< ref "/f34/package/switchboard-plug-onlineaccounts.md" >}}) | 0 | 322 | 0.0 | LANGUAGE <LL@li.org> | 
- | [switchboard-plug-printers]({{< ref "/f34/package/switchboard-plug-printers.md" >}}) | 0 | 362 | 0.0 | LANGUAGE <LL@li.org> | 
- | [switchboard-plug-sharing]({{< ref "/f34/package/switchboard-plug-sharing.md" >}}) | 0 | 141 | 0.0 | none | 
- | [switchboard-plug-sound]({{< ref "/f34/package/switchboard-plug-sound.md" >}}) | 0 | 193 | 0.0 | Rusyn <rue@li.org> | 
- | [taxi]({{< ref "/f34/package/taxi.md" >}}) | 0 | 62 | 0.0 | LANGUAGE <LL@li.org> | 
- | [wingpanel]({{< ref "/f34/package/wingpanel.md" >}}) | 0 | 19 | 0.0 | LANGUAGE <LL@li.org> | 
- | [wingpanel-applications-menu]({{< ref "/f34/package/wingpanel-applications-menu.md" >}}) | 0 | 415 | 0.0 | Rusyn <rue@li.org> | 
- | [wingpanel-indicator-bluetooth]({{< ref "/f34/package/wingpanel-indicator-bluetooth.md" >}}) | 0 | 78 | 0.0 | LANGUAGE <LL@li.org> | 
- | [wingpanel-indicator-datetime]({{< ref "/f34/package/wingpanel-indicator-datetime.md" >}}) | 0 | 177 | 0.0 | LANGUAGE <LL@li.org> | 
- | [wingpanel-indicator-keyboard]({{< ref "/f34/package/wingpanel-indicator-keyboard.md" >}}) | 0 | 53 | 0.0 | LANGUAGE <LL@li.org> | 
- | [wingpanel-indicator-network]({{< ref "/f34/package/wingpanel-indicator-network.md" >}}) | 0 | 131 | 0.0 | LANGUAGE <LL@li.org> | 
- | [wingpanel-indicator-nightlight]({{< ref "/f34/package/wingpanel-indicator-nightlight.md" >}}) | 0 | 45 | 0.0 |  | 
- | [wingpanel-indicator-notifications]({{< ref "/f34/package/wingpanel-indicator-notifications.md" >}}) | 0 | 101 | 0.0 | LANGUAGE <LL@li.org> | 
- | [wingpanel-indicator-power]({{< ref "/f34/package/wingpanel-indicator-power.md" >}}) | 0 | 191 | 0.0 | LANGUAGE <LL@li.org> | 
- | [wingpanel-indicator-session]({{< ref "/f34/package/wingpanel-indicator-session.md" >}}) | 0 | 108 | 0.0 | LANGUAGE <LL@li.org> | 
- | [wingpanel-indicator-sound]({{< ref "/f34/package/wingpanel-indicator-sound.md" >}}) | 0 | 96 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [elementary-terminal](/f34/package/elementary-terminal) | 44 | 643 | 6.8 | Rusyn <rue@li.org> | 
+ | [elementary-code](/f34/package/elementary-code) | 88 | 1608 | 5.5 | Rusyn <rue@li.org> | 
+ | [switchboard-plug-pantheon-shell](/f34/package/switchboard-plug-pantheon-shell) | 17 | 336 | 5.1 | Rusyn <https://l10n.elementary.io/projects/switchboard/switchboard-plug-pantheon-shell/rue/> | 
+ | [switchboard](/f34/package/switchboard) | 4 | 124 | 3.2 | Rusyn <rue@li.org> | 
+ | [cinnamon-translations](/f34/package/cinnamon-translations) | 93 | 7016 | 1.3 | Rusyn <rue@li.org> | 
+ | [switchboard-plug-display](/f34/package/switchboard-plug-display) | 2 | 182 | 1.1 | Rusyn <https://l10n.elementary.io/projects/switchboard/switchboard-plug-display/rue/> | 
+ | [switchboard-plug-about](/f34/package/switchboard-plug-about) | 4 | 383 | 1.0 | Rusyn <https://l10n.elementary.io/projects/switchboard/switchboard-plug-about/rue/> | 
+ | [granite](/f34/package/granite) | 5 | 498 | 1.0 | Rusyn <rue@li.org> | 
+ | [switchboard-plug-mouse-touchpad](/f34/package/switchboard-plug-mouse-touchpad) | 1 | 282 | 0.4 | Rusyn <https://l10n.elementary.io/projects/switchboard/switchboard-plug-mouse-touchpad/rue/> | 
+ | [bookworm](/f34/package/bookworm) | 0 | 795 | 0.0 |  | 
+ | [coin](/f34/package/coin) | 0 | 252 | 0.0 | none | 
+ | [dippi](/f34/package/dippi) | 0 | 397 | 0.0 | none | 
+ | [elementary-capnet-assist](/f34/package/elementary-capnet-assist) | 0 | 81 | 0.0 | none | 
+ | [elementary-files](/f34/package/elementary-files) | 0 | 3513 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [elementary-greeter](/f34/package/elementary-greeter) | 0 | 200 | 0.0 | Rusyn <rue@li.org> | 
+ | [elementary-icon-theme](/f34/package/elementary-icon-theme) | 0 | 263 | 0.0 | none | 
+ | [elementary-mail](/f34/package/elementary-mail) | 0 | 658 | 0.0 |  | 
+ | [elementary-music](/f34/package/elementary-music) | 0 | 1205 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [elementary-notifications](/f34/package/elementary-notifications) | 0 | 36 | 0.0 | none | 
+ | [elementary-photos](/f34/package/elementary-photos) | 0 | 4011 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [elementary-screenshot-tool](/f34/package/elementary-screenshot-tool) | 0 | 248 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [elementary-settings-daemon](/f34/package/elementary-settings-daemon) | 0 | 26 | 0.0 | none | 
+ | [elementary-shortcut-overlay](/f34/package/elementary-shortcut-overlay) | 0 | 130 | 0.0 | none | 
+ | [elementary-sideload](/f34/package/elementary-sideload) | 0 | 319 | 0.0 | none | 
+ | [elementary-tasks](/f34/package/elementary-tasks) | 0 | 364 | 0.0 | none | 
+ | [elementary-theme](/f34/package/elementary-theme) | 0 | 63 | 0.0 | none | 
+ | [elementary-videos](/f34/package/elementary-videos) | 0 | 391 | 0.0 |  | 
+ | [feedreader](/f34/package/feedreader) | 0 | 1374 | 0.0 |  | 
+ | [gala](/f34/package/gala) | 0 | 358 | 0.0 | none | 
+ | [harvey](/f34/package/harvey) | 0 | 182 | 0.0 | none | 
+ | [nutty](/f34/package/nutty) | 0 | 608 | 0.0 |  | 
+ | [optimizer](/f34/package/optimizer) | 0 | 282 | 0.0 | none | 
+ | [pantheon-agent-geoclue2](/f34/package/pantheon-agent-geoclue2) | 0 | 101 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [pantheon-agent-polkit](/f34/package/pantheon-agent-polkit) | 0 | 56 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [switchboard-plug-a11y](/f34/package/switchboard-plug-a11y) | 0 | 180 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [switchboard-plug-applications](/f34/package/switchboard-plug-applications) | 0 | 227 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [switchboard-plug-bluetooth](/f34/package/switchboard-plug-bluetooth) | 0 | 206 | 0.0 | Rusyn <rue@li.org> | 
+ | [switchboard-plug-keyboard](/f34/package/switchboard-plug-keyboard) | 0 | 636 | 0.0 |  | 
+ | [switchboard-plug-networking](/f34/package/switchboard-plug-networking) | 0 | 522 | 0.0 |  | 
+ | [switchboard-plug-notifications](/f34/package/switchboard-plug-notifications) | 0 | 142 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [switchboard-plug-onlineaccounts](/f34/package/switchboard-plug-onlineaccounts) | 0 | 322 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [switchboard-plug-printers](/f34/package/switchboard-plug-printers) | 0 | 362 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [switchboard-plug-sharing](/f34/package/switchboard-plug-sharing) | 0 | 141 | 0.0 | none | 
+ | [switchboard-plug-sound](/f34/package/switchboard-plug-sound) | 0 | 193 | 0.0 | Rusyn <rue@li.org> | 
+ | [taxi](/f34/package/taxi) | 0 | 62 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [wingpanel](/f34/package/wingpanel) | 0 | 19 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [wingpanel-applications-menu](/f34/package/wingpanel-applications-menu) | 0 | 415 | 0.0 | Rusyn <rue@li.org> | 
+ | [wingpanel-indicator-bluetooth](/f34/package/wingpanel-indicator-bluetooth) | 0 | 78 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [wingpanel-indicator-datetime](/f34/package/wingpanel-indicator-datetime) | 0 | 177 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [wingpanel-indicator-keyboard](/f34/package/wingpanel-indicator-keyboard) | 0 | 53 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [wingpanel-indicator-network](/f34/package/wingpanel-indicator-network) | 0 | 131 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [wingpanel-indicator-nightlight](/f34/package/wingpanel-indicator-nightlight) | 0 | 45 | 0.0 |  | 
+ | [wingpanel-indicator-notifications](/f34/package/wingpanel-indicator-notifications) | 0 | 101 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [wingpanel-indicator-power](/f34/package/wingpanel-indicator-power) | 0 | 191 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [wingpanel-indicator-session](/f34/package/wingpanel-indicator-session) | 0 | 108 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [wingpanel-indicator-sound](/f34/package/wingpanel-indicator-sound) | 0 | 96 | 0.0 | LANGUAGE <LL@li.org> | 
 {.sortable}
 
 

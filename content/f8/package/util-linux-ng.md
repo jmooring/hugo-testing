@@ -18,25 +18,25 @@ The package util-linux-ng (version 2.13):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f8/language/cs.md" >}}) | 11659 | 11736 | 99.3 | /mnt/stockage/packages/f8/util-linux-ng/po/cs.po | 
- | [nl]({{< ref "/f8/language/nl.md" >}}) | 11659 | 11736 | 99.3 | /mnt/stockage/packages/f8/util-linux-ng/po/nl.po | 
- | [sv]({{< ref "/f8/language/sv.md" >}}) | 11659 | 11736 | 99.3 | /mnt/stockage/packages/f8/util-linux-ng/po/sv.po | 
- | [vi]({{< ref "/f8/language/vi.md" >}}) | 11659 | 11736 | 99.3 | /mnt/stockage/packages/f8/util-linux-ng/po/vi.po | 
- | [de]({{< ref "/f8/language/de.md" >}}) | 10605 | 11736 | 90.4 | /mnt/stockage/packages/f8/util-linux-ng/po/de.po | 
- | [ca]({{< ref "/f8/language/ca.md" >}}) | 10335 | 11736 | 88.1 | /mnt/stockage/packages/f8/util-linux-ng/po/ca.po | 
- | [da]({{< ref "/f8/language/da.md" >}}) | 10335 | 11736 | 88.1 | /mnt/stockage/packages/f8/util-linux-ng/po/da.po | 
- | [fr]({{< ref "/f8/language/fr.md" >}}) | 10335 | 11736 | 88.1 | /mnt/stockage/packages/f8/util-linux-ng/po/fr.po | 
- | [ru]({{< ref "/f8/language/ru.md" >}}) | 10335 | 11736 | 88.1 | /mnt/stockage/packages/f8/util-linux-ng/po/ru.po | 
- | [tr]({{< ref "/f8/language/tr.md" >}}) | 10335 | 11736 | 88.1 | /mnt/stockage/packages/f8/util-linux-ng/po/tr.po | 
- | [uk]({{< ref "/f8/language/uk.md" >}}) | 10335 | 11736 | 88.1 | /mnt/stockage/packages/f8/util-linux-ng/po/uk.po | 
- | [fi]({{< ref "/f8/language/fi.md" >}}) | 10328 | 11736 | 88.0 | /mnt/stockage/packages/f8/util-linux-ng/po/fi.po | 
- | [id]({{< ref "/f8/language/id.md" >}}) | 10328 | 11736 | 88.0 | /mnt/stockage/packages/f8/util-linux-ng/po/id.po | 
- | [es]({{< ref "/f8/language/es.md" >}}) | 10235 | 11736 | 87.2 | /mnt/stockage/packages/f8/util-linux-ng/po/es.po | 
- | [sl]({{< ref "/f8/language/sl.md" >}}) | 10118 | 11736 | 86.2 | /mnt/stockage/packages/f8/util-linux-ng/po/sl.po | 
- | [it]({{< ref "/f8/language/it.md" >}}) | 9596 | 11736 | 81.8 | /mnt/stockage/packages/f8/util-linux-ng/po/it.po | 
- | [ja]({{< ref "/f8/language/ja.md" >}}) | 8946 | 11736 | 76.2 | /mnt/stockage/packages/f8/util-linux-ng/po/ja.po | 
- | [pt_BR]({{< ref "/f8/language/pt_BR.md" >}}) | 8239 | 11736 | 70.2 | /mnt/stockage/packages/f8/util-linux-ng/po/pt_BR.po | 
- | [et]({{< ref "/f8/language/et.md" >}}) | 6186 | 11736 | 52.7 | /mnt/stockage/packages/f8/util-linux-ng/po/et.po | 
+ | [cs](/f8/language/cs) | 11659 | 11736 | 99.3 | /mnt/stockage/packages/f8/util-linux-ng/po/cs.po | 
+ | [nl](/f8/language/nl) | 11659 | 11736 | 99.3 | /mnt/stockage/packages/f8/util-linux-ng/po/nl.po | 
+ | [sv](/f8/language/sv) | 11659 | 11736 | 99.3 | /mnt/stockage/packages/f8/util-linux-ng/po/sv.po | 
+ | [vi](/f8/language/vi) | 11659 | 11736 | 99.3 | /mnt/stockage/packages/f8/util-linux-ng/po/vi.po | 
+ | [de](/f8/language/de) | 10605 | 11736 | 90.4 | /mnt/stockage/packages/f8/util-linux-ng/po/de.po | 
+ | [ca](/f8/language/ca) | 10335 | 11736 | 88.1 | /mnt/stockage/packages/f8/util-linux-ng/po/ca.po | 
+ | [da](/f8/language/da) | 10335 | 11736 | 88.1 | /mnt/stockage/packages/f8/util-linux-ng/po/da.po | 
+ | [fr](/f8/language/fr) | 10335 | 11736 | 88.1 | /mnt/stockage/packages/f8/util-linux-ng/po/fr.po | 
+ | [ru](/f8/language/ru) | 10335 | 11736 | 88.1 | /mnt/stockage/packages/f8/util-linux-ng/po/ru.po | 
+ | [tr](/f8/language/tr) | 10335 | 11736 | 88.1 | /mnt/stockage/packages/f8/util-linux-ng/po/tr.po | 
+ | [uk](/f8/language/uk) | 10335 | 11736 | 88.1 | /mnt/stockage/packages/f8/util-linux-ng/po/uk.po | 
+ | [fi](/f8/language/fi) | 10328 | 11736 | 88.0 | /mnt/stockage/packages/f8/util-linux-ng/po/fi.po | 
+ | [id](/f8/language/id) | 10328 | 11736 | 88.0 | /mnt/stockage/packages/f8/util-linux-ng/po/id.po | 
+ | [es](/f8/language/es) | 10235 | 11736 | 87.2 | /mnt/stockage/packages/f8/util-linux-ng/po/es.po | 
+ | [sl](/f8/language/sl) | 10118 | 11736 | 86.2 | /mnt/stockage/packages/f8/util-linux-ng/po/sl.po | 
+ | [it](/f8/language/it) | 9596 | 11736 | 81.8 | /mnt/stockage/packages/f8/util-linux-ng/po/it.po | 
+ | [ja](/f8/language/ja) | 8946 | 11736 | 76.2 | /mnt/stockage/packages/f8/util-linux-ng/po/ja.po | 
+ | [pt_BR](/f8/language/pt_BR) | 8239 | 11736 | 70.2 | /mnt/stockage/packages/f8/util-linux-ng/po/pt_BR.po | 
+ | [et](/f8/language/et) | 6186 | 11736 | 52.7 | /mnt/stockage/packages/f8/util-linux-ng/po/et.po | 
 {.sortable}
 
 

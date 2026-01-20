@@ -38,14 +38,14 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [dopewars]({{< ref "/f15/package/dopewars.md" >}}) | 5286 | 5286 | 100.0 | French | 
- | [gnubiff]({{< ref "/f15/package/gnubiff.md" >}}) | 1032 | 1181 | 87.4 | Français <fr@li.org> | 
- | [jpoker]({{< ref "/f15/package/jpoker.md" >}}) | 256 | 357 | 71.7 | <pokersource-users@gna.org> | 
- | [liblicense]({{< ref "/f15/package/liblicense.md" >}}) | 45 | 66 | 68.2 | LANGUAGE <LL@li.org> | 
- | [notecase]({{< ref "/f15/package/notecase.md" >}}) | 410 | 1156 | 35.5 | Catherine Beauchemin <cbeau@users.sourceforge.net> | 
- | [supertuxkart]({{< ref "/f15/package/supertuxkart.md" >}}) | 55 | 1326 | 4.1 |  | 
- | [picard]({{< ref "/f15/package/picard.md" >}}) | 2 | 2370 | 0.1 | French (Canada) <fr_CA@li.org> | 
- | [olpc-switch-desktop]({{< ref "/f15/package/olpc-switch-desktop.md" >}}) | 0 | 158 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [dopewars](/f15/package/dopewars) | 5286 | 5286 | 100.0 | French | 
+ | [gnubiff](/f15/package/gnubiff) | 1032 | 1181 | 87.4 | Français <fr@li.org> | 
+ | [jpoker](/f15/package/jpoker) | 256 | 357 | 71.7 | <pokersource-users@gna.org> | 
+ | [liblicense](/f15/package/liblicense) | 45 | 66 | 68.2 | LANGUAGE <LL@li.org> | 
+ | [notecase](/f15/package/notecase) | 410 | 1156 | 35.5 | Catherine Beauchemin <cbeau@users.sourceforge.net> | 
+ | [supertuxkart](/f15/package/supertuxkart) | 55 | 1326 | 4.1 |  | 
+ | [picard](/f15/package/picard) | 2 | 2370 | 0.1 | French (Canada) <fr_CA@li.org> | 
+ | [olpc-switch-desktop](/f15/package/olpc-switch-desktop) | 0 | 158 | 0.0 | LANGUAGE <LL@li.org> | 
 {.sortable}
 
 

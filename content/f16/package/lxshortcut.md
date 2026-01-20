@@ -18,65 +18,65 @@ The package lxshortcut (version 0.1.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f16/language/ar.md" >}}) | 43 | 43 | 100.0 | /mnt/stockage/packages/f16/lxshortcut/po/ar.po | 
- | [ast]({{< ref "/f16/language/ast.md" >}}) | 43 | 43 | 100.0 | /mnt/stockage/packages/f16/lxshortcut/po/ast.po | 
- | [be]({{< ref "/f16/language/be.md" >}}) | 43 | 43 | 100.0 | /mnt/stockage/packages/f16/lxshortcut/po/be.po | 
- | [bg]({{< ref "/f16/language/bg.md" >}}) | 43 | 43 | 100.0 | /mnt/stockage/packages/f16/lxshortcut/po/bg.po | 
- | [bn]({{< ref "/f16/language/bn.md" >}}) | 43 | 43 | 100.0 | /mnt/stockage/packages/f16/lxshortcut/po/bn.po | 
- | [bn_IN]({{< ref "/f16/language/bn_IN.md" >}}) | 43 | 43 | 100.0 | /mnt/stockage/packages/f16/lxshortcut/po/bn_IN.po | 
- | [ca]({{< ref "/f16/language/ca.md" >}}) | 43 | 43 | 100.0 | /mnt/stockage/packages/f16/lxshortcut/po/ca.po | 
- | [cs]({{< ref "/f16/language/cs.md" >}}) | 43 | 43 | 100.0 | /mnt/stockage/packages/f16/lxshortcut/po/cs.po | 
- | [da]({{< ref "/f16/language/da.md" >}}) | 43 | 43 | 100.0 | /mnt/stockage/packages/f16/lxshortcut/po/da.po | 
- | [de]({{< ref "/f16/language/de.md" >}}) | 43 | 43 | 100.0 | /mnt/stockage/packages/f16/lxshortcut/po/de.po | 
- | [el]({{< ref "/f16/language/el.md" >}}) | 43 | 43 | 100.0 | /mnt/stockage/packages/f16/lxshortcut/po/el.po | 
- | [en_GB]({{< ref "/f16/language/en_GB.md" >}}) | 43 | 43 | 100.0 | /mnt/stockage/packages/f16/lxshortcut/po/en_GB.po | 
- | [es]({{< ref "/f16/language/es.md" >}}) | 86 | 86 | 100.0 | /mnt/stockage/packages/f16/lxshortcut/po/es_VE.po/mnt/stockage/packages/f16/lxshortcut/po/es.po | 
- | [et]({{< ref "/f16/language/et.md" >}}) | 43 | 43 | 100.0 | /mnt/stockage/packages/f16/lxshortcut/po/et.po | 
- | [fa]({{< ref "/f16/language/fa.md" >}}) | 43 | 43 | 100.0 | /mnt/stockage/packages/f16/lxshortcut/po/fa.po | 
- | [fi]({{< ref "/f16/language/fi.md" >}}) | 43 | 43 | 100.0 | /mnt/stockage/packages/f16/lxshortcut/po/fi.po | 
- | [fo]({{< ref "/f16/language/fo.md" >}}) | 43 | 43 | 100.0 | /mnt/stockage/packages/f16/lxshortcut/po/fo.po | 
- | [fr]({{< ref "/f16/language/fr.md" >}}) | 43 | 43 | 100.0 | /mnt/stockage/packages/f16/lxshortcut/po/fr.po | 
- | [gl]({{< ref "/f16/language/gl.md" >}}) | 43 | 43 | 100.0 | /mnt/stockage/packages/f16/lxshortcut/po/gl.po | 
- | [he]({{< ref "/f16/language/he.md" >}}) | 43 | 43 | 100.0 | /mnt/stockage/packages/f16/lxshortcut/po/he.po | 
- | [hr]({{< ref "/f16/language/hr.md" >}}) | 43 | 43 | 100.0 | /mnt/stockage/packages/f16/lxshortcut/po/hr.po | 
- | [hu]({{< ref "/f16/language/hu.md" >}}) | 43 | 43 | 100.0 | /mnt/stockage/packages/f16/lxshortcut/po/hu.po | 
- | [id]({{< ref "/f16/language/id.md" >}}) | 43 | 43 | 100.0 | /mnt/stockage/packages/f16/lxshortcut/po/id.po | 
- | [it]({{< ref "/f16/language/it.md" >}}) | 43 | 43 | 100.0 | /mnt/stockage/packages/f16/lxshortcut/po/it.po | 
- | [ja]({{< ref "/f16/language/ja.md" >}}) | 43 | 43 | 100.0 | /mnt/stockage/packages/f16/lxshortcut/po/ja.po | 
- | [lg]({{< ref "/f16/language/lg.md" >}}) | 43 | 43 | 100.0 | /mnt/stockage/packages/f16/lxshortcut/po/lg.po | 
- | [lt]({{< ref "/f16/language/lt.md" >}}) | 43 | 43 | 100.0 | /mnt/stockage/packages/f16/lxshortcut/po/lt.po | 
- | [ms]({{< ref "/f16/language/ms.md" >}}) | 43 | 43 | 100.0 | /mnt/stockage/packages/f16/lxshortcut/po/ms.po | 
- | [nb_NO]({{< ref "/f16/language/nb_NO.md" >}}) | 43 | 43 | 100.0 | /mnt/stockage/packages/f16/lxshortcut/po/nb.po | 
- | [nl]({{< ref "/f16/language/nl.md" >}}) | 43 | 43 | 100.0 | /mnt/stockage/packages/f16/lxshortcut/po/nl.po | 
- | [nn]({{< ref "/f16/language/nn.md" >}}) | 43 | 43 | 100.0 | /mnt/stockage/packages/f16/lxshortcut/po/nn.po | 
- | [pl]({{< ref "/f16/language/pl.md" >}}) | 43 | 43 | 100.0 | /mnt/stockage/packages/f16/lxshortcut/po/pl.po | 
- | [pt]({{< ref "/f16/language/pt.md" >}}) | 43 | 43 | 100.0 | /mnt/stockage/packages/f16/lxshortcut/po/pt.po | 
- | [pt_BR]({{< ref "/f16/language/pt_BR.md" >}}) | 43 | 43 | 100.0 | /mnt/stockage/packages/f16/lxshortcut/po/pt_BR.po | 
- | [ro]({{< ref "/f16/language/ro.md" >}}) | 43 | 43 | 100.0 | /mnt/stockage/packages/f16/lxshortcut/po/ro.po | 
- | [ru]({{< ref "/f16/language/ru.md" >}}) | 43 | 43 | 100.0 | /mnt/stockage/packages/f16/lxshortcut/po/ru.po | 
- | [si]({{< ref "/f16/language/si.md" >}}) | 43 | 43 | 100.0 | /mnt/stockage/packages/f16/lxshortcut/po/si.po | 
- | [sk]({{< ref "/f16/language/sk.md" >}}) | 43 | 43 | 100.0 | /mnt/stockage/packages/f16/lxshortcut/po/sk.po | 
- | [sl]({{< ref "/f16/language/sl.md" >}}) | 43 | 43 | 100.0 | /mnt/stockage/packages/f16/lxshortcut/po/sl.po | 
- | [sr]({{< ref "/f16/language/sr.md" >}}) | 43 | 43 | 100.0 | /mnt/stockage/packages/f16/lxshortcut/po/sr.po | 
- | [sr_Latn]({{< ref "/f16/language/sr_Latn.md" >}}) | 43 | 43 | 100.0 | /mnt/stockage/packages/f16/lxshortcut/po/sr@latin.po | 
- | [sv]({{< ref "/f16/language/sv.md" >}}) | 43 | 43 | 100.0 | /mnt/stockage/packages/f16/lxshortcut/po/sv.po | 
- | [te]({{< ref "/f16/language/te.md" >}}) | 43 | 43 | 100.0 | /mnt/stockage/packages/f16/lxshortcut/po/te.po | 
- | [tr]({{< ref "/f16/language/tr.md" >}}) | 43 | 43 | 100.0 | /mnt/stockage/packages/f16/lxshortcut/po/tr.po | 
- | [tt]({{< ref "/f16/language/tt.md" >}}) | 43 | 43 | 100.0 | /mnt/stockage/packages/f16/lxshortcut/po/tt_RU.po | 
- | [uk]({{< ref "/f16/language/uk.md" >}}) | 43 | 43 | 100.0 | /mnt/stockage/packages/f16/lxshortcut/po/uk.po | 
- | [ur]({{< ref "/f16/language/ur.md" >}}) | 86 | 86 | 100.0 | /mnt/stockage/packages/f16/lxshortcut/po/ur_PK.po/mnt/stockage/packages/f16/lxshortcut/po/ur.po | 
- | [vi]({{< ref "/f16/language/vi.md" >}}) | 43 | 43 | 100.0 | /mnt/stockage/packages/f16/lxshortcut/po/vi.po | 
- | [zh_Hans]({{< ref "/f16/language/zh_Hans.md" >}}) | 43 | 43 | 100.0 | /mnt/stockage/packages/f16/lxshortcut/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f16/language/zh_Hant.md" >}}) | 43 | 43 | 100.0 | /mnt/stockage/packages/f16/lxshortcut/po/zh_TW.po | 
- | [af]({{< ref "/f16/language/af.md" >}}) | 38 | 43 | 88.4 | /mnt/stockage/packages/f16/lxshortcut/po/af.po | 
- | [km]({{< ref "/f16/language/km.md" >}}) | 25 | 43 | 58.1 | /mnt/stockage/packages/f16/lxshortcut/po/km.po | 
- | [frp]({{< ref "/f16/language/frp.md" >}}) | 23 | 43 | 53.5 | /mnt/stockage/packages/f16/lxshortcut/po/frp.po | 
- | [am]({{< ref "/f16/language/am.md" >}}) | 13 | 43 | 30.2 | /mnt/stockage/packages/f16/lxshortcut/po/am.po | 
- | [eu]({{< ref "/f16/language/eu.md" >}}) | 0 | 43 | 0.0 | /mnt/stockage/packages/f16/lxshortcut/po/eu.po | 
- | [ko]({{< ref "/f16/language/ko.md" >}}) | 0 | 43 | 0.0 | /mnt/stockage/packages/f16/lxshortcut/po/ko.po | 
- | [ml]({{< ref "/f16/language/ml.md" >}}) | 0 | 43 | 0.0 | /mnt/stockage/packages/f16/lxshortcut/po/ml.po | 
- | [ps]({{< ref "/f16/language/ps.md" >}}) | 0 | 43 | 0.0 | /mnt/stockage/packages/f16/lxshortcut/po/ps.po | 
- | [th]({{< ref "/f16/language/th.md" >}}) | 0 | 43 | 0.0 | /mnt/stockage/packages/f16/lxshortcut/po/th.po | 
+ | [ar](/f16/language/ar) | 43 | 43 | 100.0 | /mnt/stockage/packages/f16/lxshortcut/po/ar.po | 
+ | [ast](/f16/language/ast) | 43 | 43 | 100.0 | /mnt/stockage/packages/f16/lxshortcut/po/ast.po | 
+ | [be](/f16/language/be) | 43 | 43 | 100.0 | /mnt/stockage/packages/f16/lxshortcut/po/be.po | 
+ | [bg](/f16/language/bg) | 43 | 43 | 100.0 | /mnt/stockage/packages/f16/lxshortcut/po/bg.po | 
+ | [bn](/f16/language/bn) | 43 | 43 | 100.0 | /mnt/stockage/packages/f16/lxshortcut/po/bn.po | 
+ | [bn_IN](/f16/language/bn_IN) | 43 | 43 | 100.0 | /mnt/stockage/packages/f16/lxshortcut/po/bn_IN.po | 
+ | [ca](/f16/language/ca) | 43 | 43 | 100.0 | /mnt/stockage/packages/f16/lxshortcut/po/ca.po | 
+ | [cs](/f16/language/cs) | 43 | 43 | 100.0 | /mnt/stockage/packages/f16/lxshortcut/po/cs.po | 
+ | [da](/f16/language/da) | 43 | 43 | 100.0 | /mnt/stockage/packages/f16/lxshortcut/po/da.po | 
+ | [de](/f16/language/de) | 43 | 43 | 100.0 | /mnt/stockage/packages/f16/lxshortcut/po/de.po | 
+ | [el](/f16/language/el) | 43 | 43 | 100.0 | /mnt/stockage/packages/f16/lxshortcut/po/el.po | 
+ | [en_GB](/f16/language/en_GB) | 43 | 43 | 100.0 | /mnt/stockage/packages/f16/lxshortcut/po/en_GB.po | 
+ | [es](/f16/language/es) | 86 | 86 | 100.0 | /mnt/stockage/packages/f16/lxshortcut/po/es_VE.po/mnt/stockage/packages/f16/lxshortcut/po/es.po | 
+ | [et](/f16/language/et) | 43 | 43 | 100.0 | /mnt/stockage/packages/f16/lxshortcut/po/et.po | 
+ | [fa](/f16/language/fa) | 43 | 43 | 100.0 | /mnt/stockage/packages/f16/lxshortcut/po/fa.po | 
+ | [fi](/f16/language/fi) | 43 | 43 | 100.0 | /mnt/stockage/packages/f16/lxshortcut/po/fi.po | 
+ | [fo](/f16/language/fo) | 43 | 43 | 100.0 | /mnt/stockage/packages/f16/lxshortcut/po/fo.po | 
+ | [fr](/f16/language/fr) | 43 | 43 | 100.0 | /mnt/stockage/packages/f16/lxshortcut/po/fr.po | 
+ | [gl](/f16/language/gl) | 43 | 43 | 100.0 | /mnt/stockage/packages/f16/lxshortcut/po/gl.po | 
+ | [he](/f16/language/he) | 43 | 43 | 100.0 | /mnt/stockage/packages/f16/lxshortcut/po/he.po | 
+ | [hr](/f16/language/hr) | 43 | 43 | 100.0 | /mnt/stockage/packages/f16/lxshortcut/po/hr.po | 
+ | [hu](/f16/language/hu) | 43 | 43 | 100.0 | /mnt/stockage/packages/f16/lxshortcut/po/hu.po | 
+ | [id](/f16/language/id) | 43 | 43 | 100.0 | /mnt/stockage/packages/f16/lxshortcut/po/id.po | 
+ | [it](/f16/language/it) | 43 | 43 | 100.0 | /mnt/stockage/packages/f16/lxshortcut/po/it.po | 
+ | [ja](/f16/language/ja) | 43 | 43 | 100.0 | /mnt/stockage/packages/f16/lxshortcut/po/ja.po | 
+ | [lg](/f16/language/lg) | 43 | 43 | 100.0 | /mnt/stockage/packages/f16/lxshortcut/po/lg.po | 
+ | [lt](/f16/language/lt) | 43 | 43 | 100.0 | /mnt/stockage/packages/f16/lxshortcut/po/lt.po | 
+ | [ms](/f16/language/ms) | 43 | 43 | 100.0 | /mnt/stockage/packages/f16/lxshortcut/po/ms.po | 
+ | [nb_NO](/f16/language/nb_NO) | 43 | 43 | 100.0 | /mnt/stockage/packages/f16/lxshortcut/po/nb.po | 
+ | [nl](/f16/language/nl) | 43 | 43 | 100.0 | /mnt/stockage/packages/f16/lxshortcut/po/nl.po | 
+ | [nn](/f16/language/nn) | 43 | 43 | 100.0 | /mnt/stockage/packages/f16/lxshortcut/po/nn.po | 
+ | [pl](/f16/language/pl) | 43 | 43 | 100.0 | /mnt/stockage/packages/f16/lxshortcut/po/pl.po | 
+ | [pt](/f16/language/pt) | 43 | 43 | 100.0 | /mnt/stockage/packages/f16/lxshortcut/po/pt.po | 
+ | [pt_BR](/f16/language/pt_BR) | 43 | 43 | 100.0 | /mnt/stockage/packages/f16/lxshortcut/po/pt_BR.po | 
+ | [ro](/f16/language/ro) | 43 | 43 | 100.0 | /mnt/stockage/packages/f16/lxshortcut/po/ro.po | 
+ | [ru](/f16/language/ru) | 43 | 43 | 100.0 | /mnt/stockage/packages/f16/lxshortcut/po/ru.po | 
+ | [si](/f16/language/si) | 43 | 43 | 100.0 | /mnt/stockage/packages/f16/lxshortcut/po/si.po | 
+ | [sk](/f16/language/sk) | 43 | 43 | 100.0 | /mnt/stockage/packages/f16/lxshortcut/po/sk.po | 
+ | [sl](/f16/language/sl) | 43 | 43 | 100.0 | /mnt/stockage/packages/f16/lxshortcut/po/sl.po | 
+ | [sr](/f16/language/sr) | 43 | 43 | 100.0 | /mnt/stockage/packages/f16/lxshortcut/po/sr.po | 
+ | [sr_Latn](/f16/language/sr_Latn) | 43 | 43 | 100.0 | /mnt/stockage/packages/f16/lxshortcut/po/sr@latin.po | 
+ | [sv](/f16/language/sv) | 43 | 43 | 100.0 | /mnt/stockage/packages/f16/lxshortcut/po/sv.po | 
+ | [te](/f16/language/te) | 43 | 43 | 100.0 | /mnt/stockage/packages/f16/lxshortcut/po/te.po | 
+ | [tr](/f16/language/tr) | 43 | 43 | 100.0 | /mnt/stockage/packages/f16/lxshortcut/po/tr.po | 
+ | [tt](/f16/language/tt) | 43 | 43 | 100.0 | /mnt/stockage/packages/f16/lxshortcut/po/tt_RU.po | 
+ | [uk](/f16/language/uk) | 43 | 43 | 100.0 | /mnt/stockage/packages/f16/lxshortcut/po/uk.po | 
+ | [ur](/f16/language/ur) | 86 | 86 | 100.0 | /mnt/stockage/packages/f16/lxshortcut/po/ur_PK.po/mnt/stockage/packages/f16/lxshortcut/po/ur.po | 
+ | [vi](/f16/language/vi) | 43 | 43 | 100.0 | /mnt/stockage/packages/f16/lxshortcut/po/vi.po | 
+ | [zh_Hans](/f16/language/zh_Hans) | 43 | 43 | 100.0 | /mnt/stockage/packages/f16/lxshortcut/po/zh_CN.po | 
+ | [zh_Hant](/f16/language/zh_Hant) | 43 | 43 | 100.0 | /mnt/stockage/packages/f16/lxshortcut/po/zh_TW.po | 
+ | [af](/f16/language/af) | 38 | 43 | 88.4 | /mnt/stockage/packages/f16/lxshortcut/po/af.po | 
+ | [km](/f16/language/km) | 25 | 43 | 58.1 | /mnt/stockage/packages/f16/lxshortcut/po/km.po | 
+ | [frp](/f16/language/frp) | 23 | 43 | 53.5 | /mnt/stockage/packages/f16/lxshortcut/po/frp.po | 
+ | [am](/f16/language/am) | 13 | 43 | 30.2 | /mnt/stockage/packages/f16/lxshortcut/po/am.po | 
+ | [eu](/f16/language/eu) | 0 | 43 | 0.0 | /mnt/stockage/packages/f16/lxshortcut/po/eu.po | 
+ | [ko](/f16/language/ko) | 0 | 43 | 0.0 | /mnt/stockage/packages/f16/lxshortcut/po/ko.po | 
+ | [ml](/f16/language/ml) | 0 | 43 | 0.0 | /mnt/stockage/packages/f16/lxshortcut/po/ml.po | 
+ | [ps](/f16/language/ps) | 0 | 43 | 0.0 | /mnt/stockage/packages/f16/lxshortcut/po/ps.po | 
+ | [th](/f16/language/th) | 0 | 43 | 0.0 | /mnt/stockage/packages/f16/lxshortcut/po/th.po | 
 {.sortable}
 
 

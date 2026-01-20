@@ -18,8 +18,8 @@ The package dgit (version 9.14):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [nl]({{< ref "/f33/language/nl.md" >}}) | 5664 | 5664 | 100.0 | /mnt/stockage/packages/f33/dgit/po/nl.po/mnt/stockage/packages/f33/dgit/po4a/dgit-user_7.nl.po | 
- | [en_US]({{< ref "/f33/language/en_US.md" >}}) | 10 | 3812 | 0.3 | /mnt/stockage/packages/f33/dgit/po/en_US.po | 
+ | [nl](/f33/language/nl) | 5664 | 5664 | 100.0 | /mnt/stockage/packages/f33/dgit/po/nl.po/mnt/stockage/packages/f33/dgit/po4a/dgit-user_7.nl.po | 
+ | [en_US](/f33/language/en_US) | 10 | 3812 | 0.3 | /mnt/stockage/packages/f33/dgit/po/en_US.po | 
 {.sortable}
 
 

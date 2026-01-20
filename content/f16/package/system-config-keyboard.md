@@ -18,76 +18,76 @@ The package system-config-keyboard (version 1.3.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [as]({{< ref "/f16/language/as.md" >}}) | 187 | 187 | 100.0 | /mnt/stockage/packages/f16/system-config-keyboard/po/as.po | 
- | [bn_IN]({{< ref "/f16/language/bn_IN.md" >}}) | 187 | 187 | 100.0 | /mnt/stockage/packages/f16/system-config-keyboard/po/bn_IN.po | 
- | [ca]({{< ref "/f16/language/ca.md" >}}) | 187 | 187 | 100.0 | /mnt/stockage/packages/f16/system-config-keyboard/po/ca.po | 
- | [cs]({{< ref "/f16/language/cs.md" >}}) | 187 | 187 | 100.0 | /mnt/stockage/packages/f16/system-config-keyboard/po/cs.po | 
- | [da]({{< ref "/f16/language/da.md" >}}) | 187 | 187 | 100.0 | /mnt/stockage/packages/f16/system-config-keyboard/po/da.po | 
- | [de]({{< ref "/f16/language/de.md" >}}) | 187 | 187 | 100.0 | /mnt/stockage/packages/f16/system-config-keyboard/po/de.po | 
- | [es]({{< ref "/f16/language/es.md" >}}) | 187 | 187 | 100.0 | /mnt/stockage/packages/f16/system-config-keyboard/po/es.po | 
- | [fi]({{< ref "/f16/language/fi.md" >}}) | 187 | 187 | 100.0 | /mnt/stockage/packages/f16/system-config-keyboard/po/fi.po | 
- | [fr]({{< ref "/f16/language/fr.md" >}}) | 187 | 187 | 100.0 | /mnt/stockage/packages/f16/system-config-keyboard/po/fr.po | 
- | [gu]({{< ref "/f16/language/gu.md" >}}) | 187 | 187 | 100.0 | /mnt/stockage/packages/f16/system-config-keyboard/po/gu.po | 
- | [hi]({{< ref "/f16/language/hi.md" >}}) | 187 | 187 | 100.0 | /mnt/stockage/packages/f16/system-config-keyboard/po/hi.po | 
- | [hu]({{< ref "/f16/language/hu.md" >}}) | 187 | 187 | 100.0 | /mnt/stockage/packages/f16/system-config-keyboard/po/hu.po | 
- | [is]({{< ref "/f16/language/is.md" >}}) | 187 | 187 | 100.0 | /mnt/stockage/packages/f16/system-config-keyboard/po/is.po | 
- | [it]({{< ref "/f16/language/it.md" >}}) | 187 | 187 | 100.0 | /mnt/stockage/packages/f16/system-config-keyboard/po/it.po | 
- | [ja]({{< ref "/f16/language/ja.md" >}}) | 187 | 187 | 100.0 | /mnt/stockage/packages/f16/system-config-keyboard/po/ja.po | 
- | [kn]({{< ref "/f16/language/kn.md" >}}) | 187 | 187 | 100.0 | /mnt/stockage/packages/f16/system-config-keyboard/po/kn.po | 
- | [ko]({{< ref "/f16/language/ko.md" >}}) | 187 | 187 | 100.0 | /mnt/stockage/packages/f16/system-config-keyboard/po/ko.po | 
- | [ml]({{< ref "/f16/language/ml.md" >}}) | 187 | 187 | 100.0 | /mnt/stockage/packages/f16/system-config-keyboard/po/ml.po | 
- | [mr]({{< ref "/f16/language/mr.md" >}}) | 187 | 187 | 100.0 | /mnt/stockage/packages/f16/system-config-keyboard/po/mr.po | 
- | [nb_NO]({{< ref "/f16/language/nb_NO.md" >}}) | 187 | 187 | 100.0 | /mnt/stockage/packages/f16/system-config-keyboard/po/nb.po | 
- | [nl]({{< ref "/f16/language/nl.md" >}}) | 187 | 187 | 100.0 | /mnt/stockage/packages/f16/system-config-keyboard/po/nl.po | 
- | [or]({{< ref "/f16/language/or.md" >}}) | 187 | 187 | 100.0 | /mnt/stockage/packages/f16/system-config-keyboard/po/or.po | 
- | [pa]({{< ref "/f16/language/pa.md" >}}) | 187 | 187 | 100.0 | /mnt/stockage/packages/f16/system-config-keyboard/po/pa.po | 
- | [pl]({{< ref "/f16/language/pl.md" >}}) | 187 | 187 | 100.0 | /mnt/stockage/packages/f16/system-config-keyboard/po/pl.po | 
- | [pt]({{< ref "/f16/language/pt.md" >}}) | 187 | 187 | 100.0 | /mnt/stockage/packages/f16/system-config-keyboard/po/pt.po | 
- | [pt_BR]({{< ref "/f16/language/pt_BR.md" >}}) | 187 | 187 | 100.0 | /mnt/stockage/packages/f16/system-config-keyboard/po/pt_BR.po | 
- | [ru]({{< ref "/f16/language/ru.md" >}}) | 187 | 187 | 100.0 | /mnt/stockage/packages/f16/system-config-keyboard/po/ru.po | 
- | [sk]({{< ref "/f16/language/sk.md" >}}) | 187 | 187 | 100.0 | /mnt/stockage/packages/f16/system-config-keyboard/po/sk.po | 
- | [sr]({{< ref "/f16/language/sr.md" >}}) | 187 | 187 | 100.0 | /mnt/stockage/packages/f16/system-config-keyboard/po/sr.po | 
- | [sr_Latn]({{< ref "/f16/language/sr_Latn.md" >}}) | 187 | 187 | 100.0 | /mnt/stockage/packages/f16/system-config-keyboard/po/sr@latin.po | 
- | [ta]({{< ref "/f16/language/ta.md" >}}) | 187 | 187 | 100.0 | /mnt/stockage/packages/f16/system-config-keyboard/po/ta.po | 
- | [te]({{< ref "/f16/language/te.md" >}}) | 187 | 187 | 100.0 | /mnt/stockage/packages/f16/system-config-keyboard/po/te.po | 
- | [zh_Hans]({{< ref "/f16/language/zh_Hans.md" >}}) | 187 | 187 | 100.0 | /mnt/stockage/packages/f16/system-config-keyboard/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f16/language/zh_Hant.md" >}}) | 187 | 187 | 100.0 | /mnt/stockage/packages/f16/system-config-keyboard/po/zh_TW.po | 
- | [bg]({{< ref "/f16/language/bg.md" >}}) | 169 | 187 | 90.4 | /mnt/stockage/packages/f16/system-config-keyboard/po/bg.po | 
- | [bn]({{< ref "/f16/language/bn.md" >}}) | 169 | 187 | 90.4 | /mnt/stockage/packages/f16/system-config-keyboard/po/bn.po | 
- | [bs]({{< ref "/f16/language/bs.md" >}}) | 169 | 187 | 90.4 | /mnt/stockage/packages/f16/system-config-keyboard/po/bs.po | 
- | [cy]({{< ref "/f16/language/cy.md" >}}) | 169 | 187 | 90.4 | /mnt/stockage/packages/f16/system-config-keyboard/po/cy.po | 
- | [el]({{< ref "/f16/language/el.md" >}}) | 169 | 187 | 90.4 | /mnt/stockage/packages/f16/system-config-keyboard/po/el.po | 
- | [en_GB]({{< ref "/f16/language/en_GB.md" >}}) | 169 | 187 | 90.4 | /mnt/stockage/packages/f16/system-config-keyboard/po/en_GB.po | 
- | [hr]({{< ref "/f16/language/hr.md" >}}) | 169 | 187 | 90.4 | /mnt/stockage/packages/f16/system-config-keyboard/po/hr.po | 
- | [id]({{< ref "/f16/language/id.md" >}}) | 169 | 187 | 90.4 | /mnt/stockage/packages/f16/system-config-keyboard/po/id.po | 
- | [lv]({{< ref "/f16/language/lv.md" >}}) | 169 | 187 | 90.4 | /mnt/stockage/packages/f16/system-config-keyboard/po/lv.po | 
- | [mai]({{< ref "/f16/language/mai.md" >}}) | 169 | 187 | 90.4 | /mnt/stockage/packages/f16/system-config-keyboard/po/mai.po | 
- | [mk]({{< ref "/f16/language/mk.md" >}}) | 169 | 187 | 90.4 | /mnt/stockage/packages/f16/system-config-keyboard/po/mk.po | 
- | [ms]({{< ref "/f16/language/ms.md" >}}) | 169 | 187 | 90.4 | /mnt/stockage/packages/f16/system-config-keyboard/po/ms.po | 
- | [si]({{< ref "/f16/language/si.md" >}}) | 169 | 187 | 90.4 | /mnt/stockage/packages/f16/system-config-keyboard/po/si.po | 
- | [sl]({{< ref "/f16/language/sl.md" >}}) | 169 | 187 | 90.4 | /mnt/stockage/packages/f16/system-config-keyboard/po/sl.po | 
- | [sv]({{< ref "/f16/language/sv.md" >}}) | 169 | 187 | 90.4 | /mnt/stockage/packages/f16/system-config-keyboard/po/sv.po | 
- | [tr]({{< ref "/f16/language/tr.md" >}}) | 169 | 187 | 90.4 | /mnt/stockage/packages/f16/system-config-keyboard/po/tr.po | 
- | [uk]({{< ref "/f16/language/uk.md" >}}) | 169 | 187 | 90.4 | /mnt/stockage/packages/f16/system-config-keyboard/po/uk.po | 
- | [et]({{< ref "/f16/language/et.md" >}}) | 168 | 187 | 89.8 | /mnt/stockage/packages/f16/system-config-keyboard/po/et.po | 
- | [ar]({{< ref "/f16/language/ar.md" >}}) | 166 | 187 | 88.8 | /mnt/stockage/packages/f16/system-config-keyboard/po/ar.po | 
- | [zu]({{< ref "/f16/language/zu.md" >}}) | 141 | 187 | 75.4 | /mnt/stockage/packages/f16/system-config-keyboard/po/zu.po | 
- | [gl]({{< ref "/f16/language/gl.md" >}}) | 135 | 187 | 72.2 | /mnt/stockage/packages/f16/system-config-keyboard/po/gl.po | 
- | [be]({{< ref "/f16/language/be.md" >}}) | 70 | 187 | 37.4 | /mnt/stockage/packages/f16/system-config-keyboard/po/be.po | 
- | [fa]({{< ref "/f16/language/fa.md" >}}) | 70 | 187 | 37.4 | /mnt/stockage/packages/f16/system-config-keyboard/po/fa.po | 
- | [ka]({{< ref "/f16/language/ka.md" >}}) | 70 | 187 | 37.4 | /mnt/stockage/packages/f16/system-config-keyboard/po/ka.po | 
- | [lt]({{< ref "/f16/language/lt.md" >}}) | 70 | 187 | 37.4 | /mnt/stockage/packages/f16/system-config-keyboard/po/lt.po | 
- | [ro]({{< ref "/f16/language/ro.md" >}}) | 70 | 187 | 37.4 | /mnt/stockage/packages/f16/system-config-keyboard/po/ro.po | 
- | [sq]({{< ref "/f16/language/sq.md" >}}) | 70 | 187 | 37.4 | /mnt/stockage/packages/f16/system-config-keyboard/po/sq.po | 
- | [th]({{< ref "/f16/language/th.md" >}}) | 70 | 187 | 37.4 | /mnt/stockage/packages/f16/system-config-keyboard/po/th.po | 
- | [ur]({{< ref "/f16/language/ur.md" >}}) | 70 | 187 | 37.4 | /mnt/stockage/packages/f16/system-config-keyboard/po/ur.po | 
- | [he]({{< ref "/f16/language/he.md" >}}) | 48 | 187 | 25.7 | /mnt/stockage/packages/f16/system-config-keyboard/po/he.po | 
- | [mn]({{< ref "/f16/language/mn.md" >}}) | 25 | 187 | 13.4 | /mnt/stockage/packages/f16/system-config-keyboard/po/mn.po | 
- | [vi]({{< ref "/f16/language/vi.md" >}}) | 25 | 187 | 13.4 | /mnt/stockage/packages/f16/system-config-keyboard/po/vi.po | 
- | [hy]({{< ref "/f16/language/hy.md" >}}) | 0 | 187 | 0.0 | /mnt/stockage/packages/f16/system-config-keyboard/po/hy.po | 
- | [ku]({{< ref "/f16/language/ku.md" >}}) | 0 | 187 | 0.0 | /mnt/stockage/packages/f16/system-config-keyboard/po/ku.po | 
- | [lo]({{< ref "/f16/language/lo.md" >}}) | 0 | 187 | 0.0 | /mnt/stockage/packages/f16/system-config-keyboard/po/lo.po | 
- | [my]({{< ref "/f16/language/my.md" >}}) | 0 | 187 | 0.0 | /mnt/stockage/packages/f16/system-config-keyboard/po/my.po | 
+ | [as](/f16/language/as) | 187 | 187 | 100.0 | /mnt/stockage/packages/f16/system-config-keyboard/po/as.po | 
+ | [bn_IN](/f16/language/bn_IN) | 187 | 187 | 100.0 | /mnt/stockage/packages/f16/system-config-keyboard/po/bn_IN.po | 
+ | [ca](/f16/language/ca) | 187 | 187 | 100.0 | /mnt/stockage/packages/f16/system-config-keyboard/po/ca.po | 
+ | [cs](/f16/language/cs) | 187 | 187 | 100.0 | /mnt/stockage/packages/f16/system-config-keyboard/po/cs.po | 
+ | [da](/f16/language/da) | 187 | 187 | 100.0 | /mnt/stockage/packages/f16/system-config-keyboard/po/da.po | 
+ | [de](/f16/language/de) | 187 | 187 | 100.0 | /mnt/stockage/packages/f16/system-config-keyboard/po/de.po | 
+ | [es](/f16/language/es) | 187 | 187 | 100.0 | /mnt/stockage/packages/f16/system-config-keyboard/po/es.po | 
+ | [fi](/f16/language/fi) | 187 | 187 | 100.0 | /mnt/stockage/packages/f16/system-config-keyboard/po/fi.po | 
+ | [fr](/f16/language/fr) | 187 | 187 | 100.0 | /mnt/stockage/packages/f16/system-config-keyboard/po/fr.po | 
+ | [gu](/f16/language/gu) | 187 | 187 | 100.0 | /mnt/stockage/packages/f16/system-config-keyboard/po/gu.po | 
+ | [hi](/f16/language/hi) | 187 | 187 | 100.0 | /mnt/stockage/packages/f16/system-config-keyboard/po/hi.po | 
+ | [hu](/f16/language/hu) | 187 | 187 | 100.0 | /mnt/stockage/packages/f16/system-config-keyboard/po/hu.po | 
+ | [is](/f16/language/is) | 187 | 187 | 100.0 | /mnt/stockage/packages/f16/system-config-keyboard/po/is.po | 
+ | [it](/f16/language/it) | 187 | 187 | 100.0 | /mnt/stockage/packages/f16/system-config-keyboard/po/it.po | 
+ | [ja](/f16/language/ja) | 187 | 187 | 100.0 | /mnt/stockage/packages/f16/system-config-keyboard/po/ja.po | 
+ | [kn](/f16/language/kn) | 187 | 187 | 100.0 | /mnt/stockage/packages/f16/system-config-keyboard/po/kn.po | 
+ | [ko](/f16/language/ko) | 187 | 187 | 100.0 | /mnt/stockage/packages/f16/system-config-keyboard/po/ko.po | 
+ | [ml](/f16/language/ml) | 187 | 187 | 100.0 | /mnt/stockage/packages/f16/system-config-keyboard/po/ml.po | 
+ | [mr](/f16/language/mr) | 187 | 187 | 100.0 | /mnt/stockage/packages/f16/system-config-keyboard/po/mr.po | 
+ | [nb_NO](/f16/language/nb_NO) | 187 | 187 | 100.0 | /mnt/stockage/packages/f16/system-config-keyboard/po/nb.po | 
+ | [nl](/f16/language/nl) | 187 | 187 | 100.0 | /mnt/stockage/packages/f16/system-config-keyboard/po/nl.po | 
+ | [or](/f16/language/or) | 187 | 187 | 100.0 | /mnt/stockage/packages/f16/system-config-keyboard/po/or.po | 
+ | [pa](/f16/language/pa) | 187 | 187 | 100.0 | /mnt/stockage/packages/f16/system-config-keyboard/po/pa.po | 
+ | [pl](/f16/language/pl) | 187 | 187 | 100.0 | /mnt/stockage/packages/f16/system-config-keyboard/po/pl.po | 
+ | [pt](/f16/language/pt) | 187 | 187 | 100.0 | /mnt/stockage/packages/f16/system-config-keyboard/po/pt.po | 
+ | [pt_BR](/f16/language/pt_BR) | 187 | 187 | 100.0 | /mnt/stockage/packages/f16/system-config-keyboard/po/pt_BR.po | 
+ | [ru](/f16/language/ru) | 187 | 187 | 100.0 | /mnt/stockage/packages/f16/system-config-keyboard/po/ru.po | 
+ | [sk](/f16/language/sk) | 187 | 187 | 100.0 | /mnt/stockage/packages/f16/system-config-keyboard/po/sk.po | 
+ | [sr](/f16/language/sr) | 187 | 187 | 100.0 | /mnt/stockage/packages/f16/system-config-keyboard/po/sr.po | 
+ | [sr_Latn](/f16/language/sr_Latn) | 187 | 187 | 100.0 | /mnt/stockage/packages/f16/system-config-keyboard/po/sr@latin.po | 
+ | [ta](/f16/language/ta) | 187 | 187 | 100.0 | /mnt/stockage/packages/f16/system-config-keyboard/po/ta.po | 
+ | [te](/f16/language/te) | 187 | 187 | 100.0 | /mnt/stockage/packages/f16/system-config-keyboard/po/te.po | 
+ | [zh_Hans](/f16/language/zh_Hans) | 187 | 187 | 100.0 | /mnt/stockage/packages/f16/system-config-keyboard/po/zh_CN.po | 
+ | [zh_Hant](/f16/language/zh_Hant) | 187 | 187 | 100.0 | /mnt/stockage/packages/f16/system-config-keyboard/po/zh_TW.po | 
+ | [bg](/f16/language/bg) | 169 | 187 | 90.4 | /mnt/stockage/packages/f16/system-config-keyboard/po/bg.po | 
+ | [bn](/f16/language/bn) | 169 | 187 | 90.4 | /mnt/stockage/packages/f16/system-config-keyboard/po/bn.po | 
+ | [bs](/f16/language/bs) | 169 | 187 | 90.4 | /mnt/stockage/packages/f16/system-config-keyboard/po/bs.po | 
+ | [cy](/f16/language/cy) | 169 | 187 | 90.4 | /mnt/stockage/packages/f16/system-config-keyboard/po/cy.po | 
+ | [el](/f16/language/el) | 169 | 187 | 90.4 | /mnt/stockage/packages/f16/system-config-keyboard/po/el.po | 
+ | [en_GB](/f16/language/en_GB) | 169 | 187 | 90.4 | /mnt/stockage/packages/f16/system-config-keyboard/po/en_GB.po | 
+ | [hr](/f16/language/hr) | 169 | 187 | 90.4 | /mnt/stockage/packages/f16/system-config-keyboard/po/hr.po | 
+ | [id](/f16/language/id) | 169 | 187 | 90.4 | /mnt/stockage/packages/f16/system-config-keyboard/po/id.po | 
+ | [lv](/f16/language/lv) | 169 | 187 | 90.4 | /mnt/stockage/packages/f16/system-config-keyboard/po/lv.po | 
+ | [mai](/f16/language/mai) | 169 | 187 | 90.4 | /mnt/stockage/packages/f16/system-config-keyboard/po/mai.po | 
+ | [mk](/f16/language/mk) | 169 | 187 | 90.4 | /mnt/stockage/packages/f16/system-config-keyboard/po/mk.po | 
+ | [ms](/f16/language/ms) | 169 | 187 | 90.4 | /mnt/stockage/packages/f16/system-config-keyboard/po/ms.po | 
+ | [si](/f16/language/si) | 169 | 187 | 90.4 | /mnt/stockage/packages/f16/system-config-keyboard/po/si.po | 
+ | [sl](/f16/language/sl) | 169 | 187 | 90.4 | /mnt/stockage/packages/f16/system-config-keyboard/po/sl.po | 
+ | [sv](/f16/language/sv) | 169 | 187 | 90.4 | /mnt/stockage/packages/f16/system-config-keyboard/po/sv.po | 
+ | [tr](/f16/language/tr) | 169 | 187 | 90.4 | /mnt/stockage/packages/f16/system-config-keyboard/po/tr.po | 
+ | [uk](/f16/language/uk) | 169 | 187 | 90.4 | /mnt/stockage/packages/f16/system-config-keyboard/po/uk.po | 
+ | [et](/f16/language/et) | 168 | 187 | 89.8 | /mnt/stockage/packages/f16/system-config-keyboard/po/et.po | 
+ | [ar](/f16/language/ar) | 166 | 187 | 88.8 | /mnt/stockage/packages/f16/system-config-keyboard/po/ar.po | 
+ | [zu](/f16/language/zu) | 141 | 187 | 75.4 | /mnt/stockage/packages/f16/system-config-keyboard/po/zu.po | 
+ | [gl](/f16/language/gl) | 135 | 187 | 72.2 | /mnt/stockage/packages/f16/system-config-keyboard/po/gl.po | 
+ | [be](/f16/language/be) | 70 | 187 | 37.4 | /mnt/stockage/packages/f16/system-config-keyboard/po/be.po | 
+ | [fa](/f16/language/fa) | 70 | 187 | 37.4 | /mnt/stockage/packages/f16/system-config-keyboard/po/fa.po | 
+ | [ka](/f16/language/ka) | 70 | 187 | 37.4 | /mnt/stockage/packages/f16/system-config-keyboard/po/ka.po | 
+ | [lt](/f16/language/lt) | 70 | 187 | 37.4 | /mnt/stockage/packages/f16/system-config-keyboard/po/lt.po | 
+ | [ro](/f16/language/ro) | 70 | 187 | 37.4 | /mnt/stockage/packages/f16/system-config-keyboard/po/ro.po | 
+ | [sq](/f16/language/sq) | 70 | 187 | 37.4 | /mnt/stockage/packages/f16/system-config-keyboard/po/sq.po | 
+ | [th](/f16/language/th) | 70 | 187 | 37.4 | /mnt/stockage/packages/f16/system-config-keyboard/po/th.po | 
+ | [ur](/f16/language/ur) | 70 | 187 | 37.4 | /mnt/stockage/packages/f16/system-config-keyboard/po/ur.po | 
+ | [he](/f16/language/he) | 48 | 187 | 25.7 | /mnt/stockage/packages/f16/system-config-keyboard/po/he.po | 
+ | [mn](/f16/language/mn) | 25 | 187 | 13.4 | /mnt/stockage/packages/f16/system-config-keyboard/po/mn.po | 
+ | [vi](/f16/language/vi) | 25 | 187 | 13.4 | /mnt/stockage/packages/f16/system-config-keyboard/po/vi.po | 
+ | [hy](/f16/language/hy) | 0 | 187 | 0.0 | /mnt/stockage/packages/f16/system-config-keyboard/po/hy.po | 
+ | [ku](/f16/language/ku) | 0 | 187 | 0.0 | /mnt/stockage/packages/f16/system-config-keyboard/po/ku.po | 
+ | [lo](/f16/language/lo) | 0 | 187 | 0.0 | /mnt/stockage/packages/f16/system-config-keyboard/po/lo.po | 
+ | [my](/f16/language/my) | 0 | 187 | 0.0 | /mnt/stockage/packages/f16/system-config-keyboard/po/my.po | 
 {.sortable}
 
 

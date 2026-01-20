@@ -18,38 +18,38 @@ The package recode (version 3.7.7):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f33/language/cs.md" >}}) | 605 | 761 | 79.5 | /mnt/stockage/packages/f33/recode/po/cs.po | 
- | [de]({{< ref "/f33/language/de.md" >}}) | 605 | 761 | 79.5 | /mnt/stockage/packages/f33/recode/po/de.po | 
- | [eo]({{< ref "/f33/language/eo.md" >}}) | 605 | 761 | 79.5 | /mnt/stockage/packages/f33/recode/po/eo.po | 
- | [fi]({{< ref "/f33/language/fi.md" >}}) | 605 | 761 | 79.5 | /mnt/stockage/packages/f33/recode/po/fi.po | 
- | [fr]({{< ref "/f33/language/fr.md" >}}) | 605 | 761 | 79.5 | /mnt/stockage/packages/f33/recode/po/fr.po | 
- | [nb_NO]({{< ref "/f33/language/nb_NO.md" >}}) | 605 | 761 | 79.5 | /mnt/stockage/packages/f33/recode/po/nb.po | 
- | [nl]({{< ref "/f33/language/nl.md" >}}) | 605 | 761 | 79.5 | /mnt/stockage/packages/f33/recode/po/nl.po | 
- | [pl]({{< ref "/f33/language/pl.md" >}}) | 605 | 761 | 79.5 | /mnt/stockage/packages/f33/recode/po/pl.po | 
- | [pt]({{< ref "/f33/language/pt.md" >}}) | 605 | 761 | 79.5 | /mnt/stockage/packages/f33/recode/po/pt.po | 
- | [sv]({{< ref "/f33/language/sv.md" >}}) | 605 | 761 | 79.5 | /mnt/stockage/packages/f33/recode/po/sv.po | 
- | [uk]({{< ref "/f33/language/uk.md" >}}) | 605 | 761 | 79.5 | /mnt/stockage/packages/f33/recode/po/uk.po | 
- | [be]({{< ref "/f33/language/be.md" >}}) | 423 | 761 | 55.6 | /mnt/stockage/packages/f33/recode/po/be.po | 
- | [ca]({{< ref "/f33/language/ca.md" >}}) | 423 | 761 | 55.6 | /mnt/stockage/packages/f33/recode/po/ca.po | 
- | [da]({{< ref "/f33/language/da.md" >}}) | 423 | 761 | 55.6 | /mnt/stockage/packages/f33/recode/po/da.po | 
- | [es]({{< ref "/f33/language/es.md" >}}) | 423 | 761 | 55.6 | /mnt/stockage/packages/f33/recode/po/es.po | 
- | [ga]({{< ref "/f33/language/ga.md" >}}) | 423 | 761 | 55.6 | /mnt/stockage/packages/f33/recode/po/ga.po | 
- | [gl]({{< ref "/f33/language/gl.md" >}}) | 423 | 761 | 55.6 | /mnt/stockage/packages/f33/recode/po/gl.po | 
- | [he]({{< ref "/f33/language/he.md" >}}) | 423 | 761 | 55.6 | /mnt/stockage/packages/f33/recode/po/he.po | 
- | [hr]({{< ref "/f33/language/hr.md" >}}) | 423 | 761 | 55.6 | /mnt/stockage/packages/f33/recode/po/hr.po | 
- | [hu]({{< ref "/f33/language/hu.md" >}}) | 423 | 761 | 55.6 | /mnt/stockage/packages/f33/recode/po/hu.po | 
- | [id]({{< ref "/f33/language/id.md" >}}) | 423 | 761 | 55.6 | /mnt/stockage/packages/f33/recode/po/id.po | 
- | [it]({{< ref "/f33/language/it.md" >}}) | 423 | 761 | 55.6 | /mnt/stockage/packages/f33/recode/po/it.po | 
- | [pt_BR]({{< ref "/f33/language/pt_BR.md" >}}) | 423 | 761 | 55.6 | /mnt/stockage/packages/f33/recode/po/pt_BR.po | 
- | [ro]({{< ref "/f33/language/ro.md" >}}) | 423 | 761 | 55.6 | /mnt/stockage/packages/f33/recode/po/ro.po | 
- | [ru]({{< ref "/f33/language/ru.md" >}}) | 423 | 761 | 55.6 | /mnt/stockage/packages/f33/recode/po/ru.po | 
- | [sk]({{< ref "/f33/language/sk.md" >}}) | 423 | 761 | 55.6 | /mnt/stockage/packages/f33/recode/po/sk.po | 
- | [sl]({{< ref "/f33/language/sl.md" >}}) | 423 | 761 | 55.6 | /mnt/stockage/packages/f33/recode/po/sl.po | 
- | [sr]({{< ref "/f33/language/sr.md" >}}) | 423 | 761 | 55.6 | /mnt/stockage/packages/f33/recode/po/sr.po | 
- | [tr]({{< ref "/f33/language/tr.md" >}}) | 423 | 761 | 55.6 | /mnt/stockage/packages/f33/recode/po/tr.po | 
- | [vi]({{< ref "/f33/language/vi.md" >}}) | 423 | 761 | 55.6 | /mnt/stockage/packages/f33/recode/po/vi.po | 
- | [zh_Hans]({{< ref "/f33/language/zh_Hans.md" >}}) | 423 | 761 | 55.6 | /mnt/stockage/packages/f33/recode/po/zh_CN.po | 
- | [el]({{< ref "/f33/language/el.md" >}}) | 342 | 761 | 44.9 | /mnt/stockage/packages/f33/recode/po/el.po | 
+ | [cs](/f33/language/cs) | 605 | 761 | 79.5 | /mnt/stockage/packages/f33/recode/po/cs.po | 
+ | [de](/f33/language/de) | 605 | 761 | 79.5 | /mnt/stockage/packages/f33/recode/po/de.po | 
+ | [eo](/f33/language/eo) | 605 | 761 | 79.5 | /mnt/stockage/packages/f33/recode/po/eo.po | 
+ | [fi](/f33/language/fi) | 605 | 761 | 79.5 | /mnt/stockage/packages/f33/recode/po/fi.po | 
+ | [fr](/f33/language/fr) | 605 | 761 | 79.5 | /mnt/stockage/packages/f33/recode/po/fr.po | 
+ | [nb_NO](/f33/language/nb_NO) | 605 | 761 | 79.5 | /mnt/stockage/packages/f33/recode/po/nb.po | 
+ | [nl](/f33/language/nl) | 605 | 761 | 79.5 | /mnt/stockage/packages/f33/recode/po/nl.po | 
+ | [pl](/f33/language/pl) | 605 | 761 | 79.5 | /mnt/stockage/packages/f33/recode/po/pl.po | 
+ | [pt](/f33/language/pt) | 605 | 761 | 79.5 | /mnt/stockage/packages/f33/recode/po/pt.po | 
+ | [sv](/f33/language/sv) | 605 | 761 | 79.5 | /mnt/stockage/packages/f33/recode/po/sv.po | 
+ | [uk](/f33/language/uk) | 605 | 761 | 79.5 | /mnt/stockage/packages/f33/recode/po/uk.po | 
+ | [be](/f33/language/be) | 423 | 761 | 55.6 | /mnt/stockage/packages/f33/recode/po/be.po | 
+ | [ca](/f33/language/ca) | 423 | 761 | 55.6 | /mnt/stockage/packages/f33/recode/po/ca.po | 
+ | [da](/f33/language/da) | 423 | 761 | 55.6 | /mnt/stockage/packages/f33/recode/po/da.po | 
+ | [es](/f33/language/es) | 423 | 761 | 55.6 | /mnt/stockage/packages/f33/recode/po/es.po | 
+ | [ga](/f33/language/ga) | 423 | 761 | 55.6 | /mnt/stockage/packages/f33/recode/po/ga.po | 
+ | [gl](/f33/language/gl) | 423 | 761 | 55.6 | /mnt/stockage/packages/f33/recode/po/gl.po | 
+ | [he](/f33/language/he) | 423 | 761 | 55.6 | /mnt/stockage/packages/f33/recode/po/he.po | 
+ | [hr](/f33/language/hr) | 423 | 761 | 55.6 | /mnt/stockage/packages/f33/recode/po/hr.po | 
+ | [hu](/f33/language/hu) | 423 | 761 | 55.6 | /mnt/stockage/packages/f33/recode/po/hu.po | 
+ | [id](/f33/language/id) | 423 | 761 | 55.6 | /mnt/stockage/packages/f33/recode/po/id.po | 
+ | [it](/f33/language/it) | 423 | 761 | 55.6 | /mnt/stockage/packages/f33/recode/po/it.po | 
+ | [pt_BR](/f33/language/pt_BR) | 423 | 761 | 55.6 | /mnt/stockage/packages/f33/recode/po/pt_BR.po | 
+ | [ro](/f33/language/ro) | 423 | 761 | 55.6 | /mnt/stockage/packages/f33/recode/po/ro.po | 
+ | [ru](/f33/language/ru) | 423 | 761 | 55.6 | /mnt/stockage/packages/f33/recode/po/ru.po | 
+ | [sk](/f33/language/sk) | 423 | 761 | 55.6 | /mnt/stockage/packages/f33/recode/po/sk.po | 
+ | [sl](/f33/language/sl) | 423 | 761 | 55.6 | /mnt/stockage/packages/f33/recode/po/sl.po | 
+ | [sr](/f33/language/sr) | 423 | 761 | 55.6 | /mnt/stockage/packages/f33/recode/po/sr.po | 
+ | [tr](/f33/language/tr) | 423 | 761 | 55.6 | /mnt/stockage/packages/f33/recode/po/tr.po | 
+ | [vi](/f33/language/vi) | 423 | 761 | 55.6 | /mnt/stockage/packages/f33/recode/po/vi.po | 
+ | [zh_Hans](/f33/language/zh_Hans) | 423 | 761 | 55.6 | /mnt/stockage/packages/f33/recode/po/zh_CN.po | 
+ | [el](/f33/language/el) | 342 | 761 | 44.9 | /mnt/stockage/packages/f33/recode/po/el.po | 
 {.sortable}
 
 

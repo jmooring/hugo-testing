@@ -18,14 +18,14 @@ The package fgrun (version 3.4.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f23/language/fr.md" >}}) | 972 | 995 | 97.7 | /mnt/stockage/packages/f23/fgrun/po/fr.po | 
- | [pt]({{< ref "/f23/language/pt.md" >}}) | 940 | 995 | 94.5 | /mnt/stockage/packages/f23/fgrun/po/pt.po | 
- | [ja]({{< ref "/f23/language/ja.md" >}}) | 914 | 995 | 91.9 | /mnt/stockage/packages/f23/fgrun/po/ja.po | 
- | [de]({{< ref "/f23/language/de.md" >}}) | 911 | 995 | 91.6 | /mnt/stockage/packages/f23/fgrun/po/de.po | 
- | [pl]({{< ref "/f23/language/pl.md" >}}) | 865 | 995 | 86.9 | /mnt/stockage/packages/f23/fgrun/po/pl.po | 
- | [nl]({{< ref "/f23/language/nl.md" >}}) | 855 | 995 | 85.9 | /mnt/stockage/packages/f23/fgrun/po/nl.po | 
- | [es]({{< ref "/f23/language/es.md" >}}) | 794 | 995 | 79.8 | /mnt/stockage/packages/f23/fgrun/po/es.po | 
- | [it]({{< ref "/f23/language/it.md" >}}) | 697 | 995 | 70.1 | /mnt/stockage/packages/f23/fgrun/po/it.po | 
+ | [fr](/f23/language/fr) | 972 | 995 | 97.7 | /mnt/stockage/packages/f23/fgrun/po/fr.po | 
+ | [pt](/f23/language/pt) | 940 | 995 | 94.5 | /mnt/stockage/packages/f23/fgrun/po/pt.po | 
+ | [ja](/f23/language/ja) | 914 | 995 | 91.9 | /mnt/stockage/packages/f23/fgrun/po/ja.po | 
+ | [de](/f23/language/de) | 911 | 995 | 91.6 | /mnt/stockage/packages/f23/fgrun/po/de.po | 
+ | [pl](/f23/language/pl) | 865 | 995 | 86.9 | /mnt/stockage/packages/f23/fgrun/po/pl.po | 
+ | [nl](/f23/language/nl) | 855 | 995 | 85.9 | /mnt/stockage/packages/f23/fgrun/po/nl.po | 
+ | [es](/f23/language/es) | 794 | 995 | 79.8 | /mnt/stockage/packages/f23/fgrun/po/es.po | 
+ | [it](/f23/language/it) | 697 | 995 | 70.1 | /mnt/stockage/packages/f23/fgrun/po/it.po | 
 {.sortable}
 
 

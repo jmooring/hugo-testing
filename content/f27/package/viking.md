@@ -18,38 +18,38 @@ The package viking (version 1.6.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [eu]({{< ref "/f27/language/eu.md" >}}) | 4135 | 4135 | 100.0 | /mnt/stockage/packages/f27/viking/po/eu.po | 
- | [cs]({{< ref "/f27/language/cs.md" >}}) | 4035 | 4135 | 97.6 | /mnt/stockage/packages/f27/viking/po/cs.po | 
- | [ru]({{< ref "/f27/language/ru.md" >}}) | 3448 | 4135 | 83.4 | /mnt/stockage/packages/f27/viking/po/ru.po | 
- | [de]({{< ref "/f27/language/de.md" >}}) | 3358 | 4135 | 81.2 | /mnt/stockage/packages/f27/viking/po/de.po | 
- | [fr]({{< ref "/f27/language/fr.md" >}}) | 3020 | 4135 | 73.0 | /mnt/stockage/packages/f27/viking/po/fr.po | 
- | [it]({{< ref "/f27/language/it.md" >}}) | 2507 | 4135 | 60.6 | /mnt/stockage/packages/f27/viking/po/it.po | 
- | [fi]({{< ref "/f27/language/fi.md" >}}) | 2451 | 4135 | 59.3 | /mnt/stockage/packages/f27/viking/po/fi.po | 
- | [es]({{< ref "/f27/language/es.md" >}}) | 1856 | 4135 | 44.9 | /mnt/stockage/packages/f27/viking/po/es.po | 
- | [hu]({{< ref "/f27/language/hu.md" >}}) | 1823 | 4135 | 44.1 | /mnt/stockage/packages/f27/viking/po/hu.po | 
- | [pt_BR]({{< ref "/f27/language/pt_BR.md" >}}) | 1743 | 4135 | 42.2 | /mnt/stockage/packages/f27/viking/po/pt_BR.po | 
- | [lt]({{< ref "/f27/language/lt.md" >}}) | 1400 | 4135 | 33.9 | /mnt/stockage/packages/f27/viking/po/lt.po | 
- | [ast]({{< ref "/f27/language/ast.md" >}}) | 861 | 4135 | 20.8 | /mnt/stockage/packages/f27/viking/po/ast.po | 
- | [sv]({{< ref "/f27/language/sv.md" >}}) | 857 | 4135 | 20.7 | /mnt/stockage/packages/f27/viking/po/sv.po | 
- | [pl]({{< ref "/f27/language/pl.md" >}}) | 747 | 4135 | 18.1 | /mnt/stockage/packages/f27/viking/po/pl.po | 
- | [nl]({{< ref "/f27/language/nl.md" >}}) | 675 | 4135 | 16.3 | /mnt/stockage/packages/f27/viking/po/nl.po | 
- | [tr]({{< ref "/f27/language/tr.md" >}}) | 659 | 4135 | 15.9 | /mnt/stockage/packages/f27/viking/po/tr.po | 
- | [sl]({{< ref "/f27/language/sl.md" >}}) | 642 | 4135 | 15.5 | /mnt/stockage/packages/f27/viking/po/sl.po | 
- | [zh_Hant]({{< ref "/f27/language/zh_Hant.md" >}}) | 579 | 4135 | 14.0 | /mnt/stockage/packages/f27/viking/po/zh_TW.po | 
- | [zh_Hans]({{< ref "/f27/language/zh_Hans.md" >}}) | 567 | 4135 | 13.7 | /mnt/stockage/packages/f27/viking/po/zh_CN.po | 
- | [nb_NO]({{< ref "/f27/language/nb_NO.md" >}}) | 541 | 4135 | 13.1 | /mnt/stockage/packages/f27/viking/po/nb.po | 
- | [id]({{< ref "/f27/language/id.md" >}}) | 503 | 4135 | 12.2 | /mnt/stockage/packages/f27/viking/po/id.po | 
- | [da]({{< ref "/f27/language/da.md" >}}) | 430 | 4135 | 10.4 | /mnt/stockage/packages/f27/viking/po/da.po | 
- | [el]({{< ref "/f27/language/el.md" >}}) | 250 | 4135 | 6.0 | /mnt/stockage/packages/f27/viking/po/el.po | 
- | [sk]({{< ref "/f27/language/sk.md" >}}) | 235 | 4135 | 5.7 | /mnt/stockage/packages/f27/viking/po/sk.po | 
- | [ca]({{< ref "/f27/language/ca.md" >}}) | 113 | 4135 | 2.7 | /mnt/stockage/packages/f27/viking/po/ca.po | 
- | [en_GB]({{< ref "/f27/language/en_GB.md" >}}) | 89 | 4135 | 2.2 | /mnt/stockage/packages/f27/viking/po/en_GB.po | 
- | [ja]({{< ref "/f27/language/ja.md" >}}) | 52 | 4135 | 1.3 | /mnt/stockage/packages/f27/viking/po/ja.po | 
- | [uk]({{< ref "/f27/language/uk.md" >}}) | 37 | 4135 | 0.9 | /mnt/stockage/packages/f27/viking/po/uk.po | 
- | [lv]({{< ref "/f27/language/lv.md" >}}) | 21 | 4135 | 0.5 | /mnt/stockage/packages/f27/viking/po/lv.po | 
- | [ko]({{< ref "/f27/language/ko.md" >}}) | 4 | 4135 | 0.1 | /mnt/stockage/packages/f27/viking/po/ko.po | 
- | [he]({{< ref "/f27/language/he.md" >}}) | 1 | 4135 | 0.0 | /mnt/stockage/packages/f27/viking/po/he.po | 
- | [jv]({{< ref "/f27/language/jv.md" >}}) | 0 | 4135 | 0.0 | /mnt/stockage/packages/f27/viking/po/jv.po | 
+ | [eu](/f27/language/eu) | 4135 | 4135 | 100.0 | /mnt/stockage/packages/f27/viking/po/eu.po | 
+ | [cs](/f27/language/cs) | 4035 | 4135 | 97.6 | /mnt/stockage/packages/f27/viking/po/cs.po | 
+ | [ru](/f27/language/ru) | 3448 | 4135 | 83.4 | /mnt/stockage/packages/f27/viking/po/ru.po | 
+ | [de](/f27/language/de) | 3358 | 4135 | 81.2 | /mnt/stockage/packages/f27/viking/po/de.po | 
+ | [fr](/f27/language/fr) | 3020 | 4135 | 73.0 | /mnt/stockage/packages/f27/viking/po/fr.po | 
+ | [it](/f27/language/it) | 2507 | 4135 | 60.6 | /mnt/stockage/packages/f27/viking/po/it.po | 
+ | [fi](/f27/language/fi) | 2451 | 4135 | 59.3 | /mnt/stockage/packages/f27/viking/po/fi.po | 
+ | [es](/f27/language/es) | 1856 | 4135 | 44.9 | /mnt/stockage/packages/f27/viking/po/es.po | 
+ | [hu](/f27/language/hu) | 1823 | 4135 | 44.1 | /mnt/stockage/packages/f27/viking/po/hu.po | 
+ | [pt_BR](/f27/language/pt_BR) | 1743 | 4135 | 42.2 | /mnt/stockage/packages/f27/viking/po/pt_BR.po | 
+ | [lt](/f27/language/lt) | 1400 | 4135 | 33.9 | /mnt/stockage/packages/f27/viking/po/lt.po | 
+ | [ast](/f27/language/ast) | 861 | 4135 | 20.8 | /mnt/stockage/packages/f27/viking/po/ast.po | 
+ | [sv](/f27/language/sv) | 857 | 4135 | 20.7 | /mnt/stockage/packages/f27/viking/po/sv.po | 
+ | [pl](/f27/language/pl) | 747 | 4135 | 18.1 | /mnt/stockage/packages/f27/viking/po/pl.po | 
+ | [nl](/f27/language/nl) | 675 | 4135 | 16.3 | /mnt/stockage/packages/f27/viking/po/nl.po | 
+ | [tr](/f27/language/tr) | 659 | 4135 | 15.9 | /mnt/stockage/packages/f27/viking/po/tr.po | 
+ | [sl](/f27/language/sl) | 642 | 4135 | 15.5 | /mnt/stockage/packages/f27/viking/po/sl.po | 
+ | [zh_Hant](/f27/language/zh_Hant) | 579 | 4135 | 14.0 | /mnt/stockage/packages/f27/viking/po/zh_TW.po | 
+ | [zh_Hans](/f27/language/zh_Hans) | 567 | 4135 | 13.7 | /mnt/stockage/packages/f27/viking/po/zh_CN.po | 
+ | [nb_NO](/f27/language/nb_NO) | 541 | 4135 | 13.1 | /mnt/stockage/packages/f27/viking/po/nb.po | 
+ | [id](/f27/language/id) | 503 | 4135 | 12.2 | /mnt/stockage/packages/f27/viking/po/id.po | 
+ | [da](/f27/language/da) | 430 | 4135 | 10.4 | /mnt/stockage/packages/f27/viking/po/da.po | 
+ | [el](/f27/language/el) | 250 | 4135 | 6.0 | /mnt/stockage/packages/f27/viking/po/el.po | 
+ | [sk](/f27/language/sk) | 235 | 4135 | 5.7 | /mnt/stockage/packages/f27/viking/po/sk.po | 
+ | [ca](/f27/language/ca) | 113 | 4135 | 2.7 | /mnt/stockage/packages/f27/viking/po/ca.po | 
+ | [en_GB](/f27/language/en_GB) | 89 | 4135 | 2.2 | /mnt/stockage/packages/f27/viking/po/en_GB.po | 
+ | [ja](/f27/language/ja) | 52 | 4135 | 1.3 | /mnt/stockage/packages/f27/viking/po/ja.po | 
+ | [uk](/f27/language/uk) | 37 | 4135 | 0.9 | /mnt/stockage/packages/f27/viking/po/uk.po | 
+ | [lv](/f27/language/lv) | 21 | 4135 | 0.5 | /mnt/stockage/packages/f27/viking/po/lv.po | 
+ | [ko](/f27/language/ko) | 4 | 4135 | 0.1 | /mnt/stockage/packages/f27/viking/po/ko.po | 
+ | [he](/f27/language/he) | 1 | 4135 | 0.0 | /mnt/stockage/packages/f27/viking/po/he.po | 
+ | [jv](/f27/language/jv) | 0 | 4135 | 0.0 | /mnt/stockage/packages/f27/viking/po/jv.po | 
 {.sortable}
 
 

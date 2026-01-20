@@ -18,22 +18,22 @@ The package referencer (version 1.1.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [da]({{< ref "/f9/language/da.md" >}}) | 827 | 827 | 100.0 | /mnt/stockage/packages/f9/referencer/po/da.po | 
- | [de]({{< ref "/f9/language/de.md" >}}) | 827 | 827 | 100.0 | /mnt/stockage/packages/f9/referencer/po/de.po | 
- | [fr]({{< ref "/f9/language/fr.md" >}}) | 827 | 827 | 100.0 | /mnt/stockage/packages/f9/referencer/po/fr.po | 
- | [zh_Hans]({{< ref "/f9/language/zh_Hans.md" >}}) | 827 | 827 | 100.0 | /mnt/stockage/packages/f9/referencer/po/zh_CN.po | 
- | [ru]({{< ref "/f9/language/ru.md" >}}) | 822 | 827 | 99.4 | /mnt/stockage/packages/f9/referencer/po/ru.po | 
- | [it]({{< ref "/f9/language/it.md" >}}) | 662 | 827 | 80.0 | /mnt/stockage/packages/f9/referencer/po/it.po | 
- | [fi]({{< ref "/f9/language/fi.md" >}}) | 608 | 827 | 73.5 | /mnt/stockage/packages/f9/referencer/po/fi.po | 
- | [es]({{< ref "/f9/language/es.md" >}}) | 551 | 827 | 66.6 | /mnt/stockage/packages/f9/referencer/po/es.po | 
- | [pt]({{< ref "/f9/language/pt.md" >}}) | 288 | 827 | 34.8 | /mnt/stockage/packages/f9/referencer/po/pt.po | 
- | [sv]({{< ref "/f9/language/sv.md" >}}) | 264 | 827 | 31.9 | /mnt/stockage/packages/f9/referencer/po/sv.po | 
- | [ca]({{< ref "/f9/language/ca.md" >}}) | 106 | 827 | 12.8 | /mnt/stockage/packages/f9/referencer/po/ca.po | 
- | [pt_BR]({{< ref "/f9/language/pt_BR.md" >}}) | 106 | 827 | 12.8 | /mnt/stockage/packages/f9/referencer/po/pt_BR.po | 
- | [gl]({{< ref "/f9/language/gl.md" >}}) | 92 | 827 | 11.1 | /mnt/stockage/packages/f9/referencer/po/gl.po | 
- | [sr]({{< ref "/f9/language/sr.md" >}}) | 61 | 827 | 7.4 | /mnt/stockage/packages/f9/referencer/po/sr.po | 
- | [nb_NO]({{< ref "/f9/language/nb_NO.md" >}}) | 34 | 827 | 4.1 | /mnt/stockage/packages/f9/referencer/po/nb.po | 
- | [nl]({{< ref "/f9/language/nl.md" >}}) | 1 | 827 | 0.1 | /mnt/stockage/packages/f9/referencer/po/nl.po | 
+ | [da](/f9/language/da) | 827 | 827 | 100.0 | /mnt/stockage/packages/f9/referencer/po/da.po | 
+ | [de](/f9/language/de) | 827 | 827 | 100.0 | /mnt/stockage/packages/f9/referencer/po/de.po | 
+ | [fr](/f9/language/fr) | 827 | 827 | 100.0 | /mnt/stockage/packages/f9/referencer/po/fr.po | 
+ | [zh_Hans](/f9/language/zh_Hans) | 827 | 827 | 100.0 | /mnt/stockage/packages/f9/referencer/po/zh_CN.po | 
+ | [ru](/f9/language/ru) | 822 | 827 | 99.4 | /mnt/stockage/packages/f9/referencer/po/ru.po | 
+ | [it](/f9/language/it) | 662 | 827 | 80.0 | /mnt/stockage/packages/f9/referencer/po/it.po | 
+ | [fi](/f9/language/fi) | 608 | 827 | 73.5 | /mnt/stockage/packages/f9/referencer/po/fi.po | 
+ | [es](/f9/language/es) | 551 | 827 | 66.6 | /mnt/stockage/packages/f9/referencer/po/es.po | 
+ | [pt](/f9/language/pt) | 288 | 827 | 34.8 | /mnt/stockage/packages/f9/referencer/po/pt.po | 
+ | [sv](/f9/language/sv) | 264 | 827 | 31.9 | /mnt/stockage/packages/f9/referencer/po/sv.po | 
+ | [ca](/f9/language/ca) | 106 | 827 | 12.8 | /mnt/stockage/packages/f9/referencer/po/ca.po | 
+ | [pt_BR](/f9/language/pt_BR) | 106 | 827 | 12.8 | /mnt/stockage/packages/f9/referencer/po/pt_BR.po | 
+ | [gl](/f9/language/gl) | 92 | 827 | 11.1 | /mnt/stockage/packages/f9/referencer/po/gl.po | 
+ | [sr](/f9/language/sr) | 61 | 827 | 7.4 | /mnt/stockage/packages/f9/referencer/po/sr.po | 
+ | [nb_NO](/f9/language/nb_NO) | 34 | 827 | 4.1 | /mnt/stockage/packages/f9/referencer/po/nb.po | 
+ | [nl](/f9/language/nl) | 1 | 827 | 0.1 | /mnt/stockage/packages/f9/referencer/po/nl.po | 
 {.sortable}
 
 

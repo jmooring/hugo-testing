@@ -18,9 +18,9 @@ The package compat-gcc-296 (version 2.96):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f25/language/de.md" >}}) | 2470 | 2550 | 96.9 | /mnt/stockage/packages/f25/compat-gcc-296/texinfo/po/de.po | 
- | [en_GB]({{< ref "/f25/language/en_GB.md" >}}) | 337 | 5767 | 5.8 | /mnt/stockage/packages/f25/compat-gcc-296/gcc/po/en_GB.po | 
- | [fr]({{< ref "/f25/language/fr.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f25/compat-gcc-296/texinfo/po/fr.po | 
+ | [de](/f25/language/de) | 2470 | 2550 | 96.9 | /mnt/stockage/packages/f25/compat-gcc-296/texinfo/po/de.po | 
+ | [en_GB](/f25/language/en_GB) | 337 | 5767 | 5.8 | /mnt/stockage/packages/f25/compat-gcc-296/gcc/po/en_GB.po | 
+ | [fr](/f25/language/fr) | 0 | 0 | 0.0 | /mnt/stockage/packages/f25/compat-gcc-296/texinfo/po/fr.po | 
 {.sortable}
 
 

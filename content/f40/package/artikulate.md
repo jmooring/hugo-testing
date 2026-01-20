@@ -18,49 +18,49 @@ The package artikulate (version 25.04.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f40/language/ar.md" >}}) | 329 | 329 | 100.0 | /mnt/stockage/packages/f40/artikulate/po/ar/artikulate.po | 
- | [az]({{< ref "/f40/language/az.md" >}}) | 329 | 329 | 100.0 | /mnt/stockage/packages/f40/artikulate/po/az/artikulate.po | 
- | [ca]({{< ref "/f40/language/ca.md" >}}) | 329 | 329 | 100.0 | /mnt/stockage/packages/f40/artikulate/po/ca/artikulate.po | 
- | [ca@valencia]({{< ref "/f40/language/ca@valencia.md" >}}) | 329 | 329 | 100.0 | /mnt/stockage/packages/f40/artikulate/po/ca@valencia/artikulate.po | 
- | [de]({{< ref "/f40/language/de.md" >}}) | 329 | 329 | 100.0 | /mnt/stockage/packages/f40/artikulate/po/de/artikulate.po | 
- | [el]({{< ref "/f40/language/el.md" >}}) | 329 | 329 | 100.0 | /mnt/stockage/packages/f40/artikulate/po/el/artikulate.po | 
- | [en_GB]({{< ref "/f40/language/en_GB.md" >}}) | 329 | 329 | 100.0 | /mnt/stockage/packages/f40/artikulate/po/en_GB/artikulate.po | 
- | [eo]({{< ref "/f40/language/eo.md" >}}) | 329 | 329 | 100.0 | /mnt/stockage/packages/f40/artikulate/po/eo/artikulate.po | 
- | [es]({{< ref "/f40/language/es.md" >}}) | 329 | 329 | 100.0 | /mnt/stockage/packages/f40/artikulate/po/es/artikulate.po | 
- | [eu]({{< ref "/f40/language/eu.md" >}}) | 329 | 329 | 100.0 | /mnt/stockage/packages/f40/artikulate/po/eu/artikulate.po | 
- | [fi]({{< ref "/f40/language/fi.md" >}}) | 329 | 329 | 100.0 | /mnt/stockage/packages/f40/artikulate/po/fi/artikulate.po | 
- | [fr]({{< ref "/f40/language/fr.md" >}}) | 329 | 329 | 100.0 | /mnt/stockage/packages/f40/artikulate/po/fr/artikulate.po | 
- | [gl]({{< ref "/f40/language/gl.md" >}}) | 329 | 329 | 100.0 | /mnt/stockage/packages/f40/artikulate/po/gl/artikulate.po | 
- | [ia]({{< ref "/f40/language/ia.md" >}}) | 329 | 329 | 100.0 | /mnt/stockage/packages/f40/artikulate/po/ia/artikulate.po | 
- | [it]({{< ref "/f40/language/it.md" >}}) | 329 | 329 | 100.0 | /mnt/stockage/packages/f40/artikulate/po/it/artikulate.po | 
- | [ka]({{< ref "/f40/language/ka.md" >}}) | 329 | 329 | 100.0 | /mnt/stockage/packages/f40/artikulate/po/ka/artikulate.po | 
- | [ko]({{< ref "/f40/language/ko.md" >}}) | 329 | 329 | 100.0 | /mnt/stockage/packages/f40/artikulate/po/ko/artikulate.po | 
- | [nl]({{< ref "/f40/language/nl.md" >}}) | 329 | 329 | 100.0 | /mnt/stockage/packages/f40/artikulate/po/nl/artikulate.po | 
- | [nn]({{< ref "/f40/language/nn.md" >}}) | 329 | 329 | 100.0 | /mnt/stockage/packages/f40/artikulate/po/nn/artikulate.po | 
- | [pl]({{< ref "/f40/language/pl.md" >}}) | 329 | 329 | 100.0 | /mnt/stockage/packages/f40/artikulate/po/pl/artikulate.po | 
- | [pt]({{< ref "/f40/language/pt.md" >}}) | 329 | 329 | 100.0 | /mnt/stockage/packages/f40/artikulate/po/pt/artikulate.po | 
- | [pt_BR]({{< ref "/f40/language/pt_BR.md" >}}) | 329 | 329 | 100.0 | /mnt/stockage/packages/f40/artikulate/po/pt_BR/artikulate.po | 
- | [ru]({{< ref "/f40/language/ru.md" >}}) | 329 | 329 | 100.0 | /mnt/stockage/packages/f40/artikulate/po/ru/artikulate.po | 
- | [sl]({{< ref "/f40/language/sl.md" >}}) | 329 | 329 | 100.0 | /mnt/stockage/packages/f40/artikulate/po/sl/artikulate.po | 
- | [sv]({{< ref "/f40/language/sv.md" >}}) | 329 | 329 | 100.0 | /mnt/stockage/packages/f40/artikulate/po/sv/artikulate.po | 
- | [tr]({{< ref "/f40/language/tr.md" >}}) | 329 | 329 | 100.0 | /mnt/stockage/packages/f40/artikulate/po/tr/artikulate.po | 
- | [uk]({{< ref "/f40/language/uk.md" >}}) | 329 | 329 | 100.0 | /mnt/stockage/packages/f40/artikulate/po/uk/artikulate.po | 
- | [zh_Hans]({{< ref "/f40/language/zh_Hans.md" >}}) | 329 | 329 | 100.0 | /mnt/stockage/packages/f40/artikulate/po/zh_CN/artikulate.po | 
- | [zh_Hant]({{< ref "/f40/language/zh_Hant.md" >}}) | 329 | 329 | 100.0 | /mnt/stockage/packages/f40/artikulate/po/zh_TW/artikulate.po | 
- | [et]({{< ref "/f40/language/et.md" >}}) | 321 | 329 | 97.6 | /mnt/stockage/packages/f40/artikulate/po/et/artikulate.po | 
- | [sk]({{< ref "/f40/language/sk.md" >}}) | 321 | 329 | 97.6 | /mnt/stockage/packages/f40/artikulate/po/sk/artikulate.po | 
- | [cs]({{< ref "/f40/language/cs.md" >}}) | 215 | 329 | 65.3 | /mnt/stockage/packages/f40/artikulate/po/cs/artikulate.po | 
- | [hu]({{< ref "/f40/language/hu.md" >}}) | 199 | 329 | 60.5 | /mnt/stockage/packages/f40/artikulate/po/hu/artikulate.po | 
- | [da]({{< ref "/f40/language/da.md" >}}) | 143 | 329 | 43.5 | /mnt/stockage/packages/f40/artikulate/po/da/artikulate.po | 
- | [bs]({{< ref "/f40/language/bs.md" >}}) | 132 | 329 | 40.1 | /mnt/stockage/packages/f40/artikulate/po/bs/artikulate.po | 
- | [nds]({{< ref "/f40/language/nds.md" >}}) | 132 | 329 | 40.1 | /mnt/stockage/packages/f40/artikulate/po/nds/artikulate.po | 
- | [ml]({{< ref "/f40/language/ml.md" >}}) | 65 | 329 | 19.8 | /mnt/stockage/packages/f40/artikulate/po/ml/artikulate.po | 
- | [ro]({{< ref "/f40/language/ro.md" >}}) | 61 | 329 | 18.5 | /mnt/stockage/packages/f40/artikulate/po/ro/artikulate.po | 
- | [ug]({{< ref "/f40/language/ug.md" >}}) | 31 | 329 | 9.4 | /mnt/stockage/packages/f40/artikulate/po/ug/artikulate.po | 
- | [hi]({{< ref "/f40/language/hi.md" >}}) | 15 | 329 | 4.6 | /mnt/stockage/packages/f40/artikulate/po/hi/artikulate.po | 
- | [mr]({{< ref "/f40/language/mr.md" >}}) | 12 | 329 | 3.6 | /mnt/stockage/packages/f40/artikulate/po/mr/artikulate.po | 
- | [ja]({{< ref "/f40/language/ja.md" >}}) | 0 | 329 | 0.0 | /mnt/stockage/packages/f40/artikulate/po/ja/artikulate.po | 
- | [lt]({{< ref "/f40/language/lt.md" >}}) | 0 | 329 | 0.0 | /mnt/stockage/packages/f40/artikulate/po/lt/artikulate.po | 
+ | [ar](/f40/language/ar) | 329 | 329 | 100.0 | /mnt/stockage/packages/f40/artikulate/po/ar/artikulate.po | 
+ | [az](/f40/language/az) | 329 | 329 | 100.0 | /mnt/stockage/packages/f40/artikulate/po/az/artikulate.po | 
+ | [ca](/f40/language/ca) | 329 | 329 | 100.0 | /mnt/stockage/packages/f40/artikulate/po/ca/artikulate.po | 
+ | [ca@valencia](/f40/language/ca@valencia) | 329 | 329 | 100.0 | /mnt/stockage/packages/f40/artikulate/po/ca@valencia/artikulate.po | 
+ | [de](/f40/language/de) | 329 | 329 | 100.0 | /mnt/stockage/packages/f40/artikulate/po/de/artikulate.po | 
+ | [el](/f40/language/el) | 329 | 329 | 100.0 | /mnt/stockage/packages/f40/artikulate/po/el/artikulate.po | 
+ | [en_GB](/f40/language/en_GB) | 329 | 329 | 100.0 | /mnt/stockage/packages/f40/artikulate/po/en_GB/artikulate.po | 
+ | [eo](/f40/language/eo) | 329 | 329 | 100.0 | /mnt/stockage/packages/f40/artikulate/po/eo/artikulate.po | 
+ | [es](/f40/language/es) | 329 | 329 | 100.0 | /mnt/stockage/packages/f40/artikulate/po/es/artikulate.po | 
+ | [eu](/f40/language/eu) | 329 | 329 | 100.0 | /mnt/stockage/packages/f40/artikulate/po/eu/artikulate.po | 
+ | [fi](/f40/language/fi) | 329 | 329 | 100.0 | /mnt/stockage/packages/f40/artikulate/po/fi/artikulate.po | 
+ | [fr](/f40/language/fr) | 329 | 329 | 100.0 | /mnt/stockage/packages/f40/artikulate/po/fr/artikulate.po | 
+ | [gl](/f40/language/gl) | 329 | 329 | 100.0 | /mnt/stockage/packages/f40/artikulate/po/gl/artikulate.po | 
+ | [ia](/f40/language/ia) | 329 | 329 | 100.0 | /mnt/stockage/packages/f40/artikulate/po/ia/artikulate.po | 
+ | [it](/f40/language/it) | 329 | 329 | 100.0 | /mnt/stockage/packages/f40/artikulate/po/it/artikulate.po | 
+ | [ka](/f40/language/ka) | 329 | 329 | 100.0 | /mnt/stockage/packages/f40/artikulate/po/ka/artikulate.po | 
+ | [ko](/f40/language/ko) | 329 | 329 | 100.0 | /mnt/stockage/packages/f40/artikulate/po/ko/artikulate.po | 
+ | [nl](/f40/language/nl) | 329 | 329 | 100.0 | /mnt/stockage/packages/f40/artikulate/po/nl/artikulate.po | 
+ | [nn](/f40/language/nn) | 329 | 329 | 100.0 | /mnt/stockage/packages/f40/artikulate/po/nn/artikulate.po | 
+ | [pl](/f40/language/pl) | 329 | 329 | 100.0 | /mnt/stockage/packages/f40/artikulate/po/pl/artikulate.po | 
+ | [pt](/f40/language/pt) | 329 | 329 | 100.0 | /mnt/stockage/packages/f40/artikulate/po/pt/artikulate.po | 
+ | [pt_BR](/f40/language/pt_BR) | 329 | 329 | 100.0 | /mnt/stockage/packages/f40/artikulate/po/pt_BR/artikulate.po | 
+ | [ru](/f40/language/ru) | 329 | 329 | 100.0 | /mnt/stockage/packages/f40/artikulate/po/ru/artikulate.po | 
+ | [sl](/f40/language/sl) | 329 | 329 | 100.0 | /mnt/stockage/packages/f40/artikulate/po/sl/artikulate.po | 
+ | [sv](/f40/language/sv) | 329 | 329 | 100.0 | /mnt/stockage/packages/f40/artikulate/po/sv/artikulate.po | 
+ | [tr](/f40/language/tr) | 329 | 329 | 100.0 | /mnt/stockage/packages/f40/artikulate/po/tr/artikulate.po | 
+ | [uk](/f40/language/uk) | 329 | 329 | 100.0 | /mnt/stockage/packages/f40/artikulate/po/uk/artikulate.po | 
+ | [zh_Hans](/f40/language/zh_Hans) | 329 | 329 | 100.0 | /mnt/stockage/packages/f40/artikulate/po/zh_CN/artikulate.po | 
+ | [zh_Hant](/f40/language/zh_Hant) | 329 | 329 | 100.0 | /mnt/stockage/packages/f40/artikulate/po/zh_TW/artikulate.po | 
+ | [et](/f40/language/et) | 321 | 329 | 97.6 | /mnt/stockage/packages/f40/artikulate/po/et/artikulate.po | 
+ | [sk](/f40/language/sk) | 321 | 329 | 97.6 | /mnt/stockage/packages/f40/artikulate/po/sk/artikulate.po | 
+ | [cs](/f40/language/cs) | 215 | 329 | 65.3 | /mnt/stockage/packages/f40/artikulate/po/cs/artikulate.po | 
+ | [hu](/f40/language/hu) | 199 | 329 | 60.5 | /mnt/stockage/packages/f40/artikulate/po/hu/artikulate.po | 
+ | [da](/f40/language/da) | 143 | 329 | 43.5 | /mnt/stockage/packages/f40/artikulate/po/da/artikulate.po | 
+ | [bs](/f40/language/bs) | 132 | 329 | 40.1 | /mnt/stockage/packages/f40/artikulate/po/bs/artikulate.po | 
+ | [nds](/f40/language/nds) | 132 | 329 | 40.1 | /mnt/stockage/packages/f40/artikulate/po/nds/artikulate.po | 
+ | [ml](/f40/language/ml) | 65 | 329 | 19.8 | /mnt/stockage/packages/f40/artikulate/po/ml/artikulate.po | 
+ | [ro](/f40/language/ro) | 61 | 329 | 18.5 | /mnt/stockage/packages/f40/artikulate/po/ro/artikulate.po | 
+ | [ug](/f40/language/ug) | 31 | 329 | 9.4 | /mnt/stockage/packages/f40/artikulate/po/ug/artikulate.po | 
+ | [hi](/f40/language/hi) | 15 | 329 | 4.6 | /mnt/stockage/packages/f40/artikulate/po/hi/artikulate.po | 
+ | [mr](/f40/language/mr) | 12 | 329 | 3.6 | /mnt/stockage/packages/f40/artikulate/po/mr/artikulate.po | 
+ | [ja](/f40/language/ja) | 0 | 329 | 0.0 | /mnt/stockage/packages/f40/artikulate/po/ja/artikulate.po | 
+ | [lt](/f40/language/lt) | 0 | 329 | 0.0 | /mnt/stockage/packages/f40/artikulate/po/lt/artikulate.po | 
 {.sortable}
 
 

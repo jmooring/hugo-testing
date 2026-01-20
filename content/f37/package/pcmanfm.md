@@ -18,60 +18,60 @@ The package pcmanfm (version 1.3.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f37/language/ca.md" >}}) | 1215 | 1215 | 100.0 | /mnt/stockage/packages/f37/pcmanfm/po/ca.po | 
- | [da]({{< ref "/f37/language/da.md" >}}) | 1215 | 1215 | 100.0 | /mnt/stockage/packages/f37/pcmanfm/po/da.po | 
- | [et]({{< ref "/f37/language/et.md" >}}) | 1215 | 1215 | 100.0 | /mnt/stockage/packages/f37/pcmanfm/po/et.po | 
- | [gl]({{< ref "/f37/language/gl.md" >}}) | 1215 | 1215 | 100.0 | /mnt/stockage/packages/f37/pcmanfm/po/gl.po | 
- | [kk]({{< ref "/f37/language/kk.md" >}}) | 1215 | 1215 | 100.0 | /mnt/stockage/packages/f37/pcmanfm/po/kk.po | 
- | [lt]({{< ref "/f37/language/lt.md" >}}) | 1215 | 1215 | 100.0 | /mnt/stockage/packages/f37/pcmanfm/po/lt.po | 
- | [nl]({{< ref "/f37/language/nl.md" >}}) | 1215 | 1215 | 100.0 | /mnt/stockage/packages/f37/pcmanfm/po/nl.po | 
- | [pl]({{< ref "/f37/language/pl.md" >}}) | 1215 | 1215 | 100.0 | /mnt/stockage/packages/f37/pcmanfm/po/pl.po | 
- | [ru]({{< ref "/f37/language/ru.md" >}}) | 1215 | 1215 | 100.0 | /mnt/stockage/packages/f37/pcmanfm/po/ru.po | 
- | [sr]({{< ref "/f37/language/sr.md" >}}) | 1215 | 1215 | 100.0 | /mnt/stockage/packages/f37/pcmanfm/po/sr.po | 
- | [tr]({{< ref "/f37/language/tr.md" >}}) | 1215 | 1215 | 100.0 | /mnt/stockage/packages/f37/pcmanfm/po/tr.po | 
- | [uk]({{< ref "/f37/language/uk.md" >}}) | 1215 | 1215 | 100.0 | /mnt/stockage/packages/f37/pcmanfm/po/uk.po | 
- | [bg]({{< ref "/f37/language/bg.md" >}}) | 1210 | 1215 | 99.6 | /mnt/stockage/packages/f37/pcmanfm/po/bg.po | 
- | [el]({{< ref "/f37/language/el.md" >}}) | 1210 | 1215 | 99.6 | /mnt/stockage/packages/f37/pcmanfm/po/el.po | 
- | [eu]({{< ref "/f37/language/eu.md" >}}) | 1210 | 1215 | 99.6 | /mnt/stockage/packages/f37/pcmanfm/po/eu.po | 
- | [id]({{< ref "/f37/language/id.md" >}}) | 1210 | 1215 | 99.6 | /mnt/stockage/packages/f37/pcmanfm/po/id.po | 
- | [pt]({{< ref "/f37/language/pt.md" >}}) | 1210 | 1215 | 99.6 | /mnt/stockage/packages/f37/pcmanfm/po/pt.po | 
- | [sr_Latn]({{< ref "/f37/language/sr_Latn.md" >}}) | 1210 | 1215 | 99.6 | /mnt/stockage/packages/f37/pcmanfm/po/sr@latin.po | 
- | [sv]({{< ref "/f37/language/sv.md" >}}) | 1210 | 1215 | 99.6 | /mnt/stockage/packages/f37/pcmanfm/po/sv.po | 
- | [zh_Hans]({{< ref "/f37/language/zh_Hans.md" >}}) | 1210 | 1215 | 99.6 | /mnt/stockage/packages/f37/pcmanfm/po/zh_CN.po | 
- | [lg]({{< ref "/f37/language/lg.md" >}}) | 1209 | 1215 | 99.5 | /mnt/stockage/packages/f37/pcmanfm/po/lg.po | 
- | [cs]({{< ref "/f37/language/cs.md" >}}) | 1206 | 1215 | 99.3 | /mnt/stockage/packages/f37/pcmanfm/po/cs.po | 
- | [es]({{< ref "/f37/language/es.md" >}}) | 1206 | 1215 | 99.3 | /mnt/stockage/packages/f37/pcmanfm/po/es.po | 
- | [fi]({{< ref "/f37/language/fi.md" >}}) | 1206 | 1215 | 99.3 | /mnt/stockage/packages/f37/pcmanfm/po/fi.po | 
- | [fr]({{< ref "/f37/language/fr.md" >}}) | 1206 | 1215 | 99.3 | /mnt/stockage/packages/f37/pcmanfm/po/fr.po | 
- | [it]({{< ref "/f37/language/it.md" >}}) | 1206 | 1215 | 99.3 | /mnt/stockage/packages/f37/pcmanfm/po/it.po | 
- | [ja]({{< ref "/f37/language/ja.md" >}}) | 1206 | 1215 | 99.3 | /mnt/stockage/packages/f37/pcmanfm/po/ja.po | 
- | [ko]({{< ref "/f37/language/ko.md" >}}) | 1206 | 1215 | 99.3 | /mnt/stockage/packages/f37/pcmanfm/po/ko.po | 
- | [pt_BR]({{< ref "/f37/language/pt_BR.md" >}}) | 1206 | 1215 | 99.3 | /mnt/stockage/packages/f37/pcmanfm/po/pt_BR.po | 
- | [ar]({{< ref "/f37/language/ar.md" >}}) | 1184 | 1215 | 97.4 | /mnt/stockage/packages/f37/pcmanfm/po/ar.po | 
- | [zh_Hant]({{< ref "/f37/language/zh_Hant.md" >}}) | 1100 | 1215 | 90.5 | /mnt/stockage/packages/f37/pcmanfm/po/zh_TW.po | 
- | [sl]({{< ref "/f37/language/sl.md" >}}) | 865 | 1215 | 71.2 | /mnt/stockage/packages/f37/pcmanfm/po/sl.po | 
- | [he]({{< ref "/f37/language/he.md" >}}) | 859 | 1215 | 70.7 | /mnt/stockage/packages/f37/pcmanfm/po/he.po | 
- | [hr]({{< ref "/f37/language/hr.md" >}}) | 839 | 1215 | 69.1 | /mnt/stockage/packages/f37/pcmanfm/po/hr.po | 
- | [sk]({{< ref "/f37/language/sk.md" >}}) | 787 | 1215 | 64.8 | /mnt/stockage/packages/f37/pcmanfm/po/sk.po | 
- | [is]({{< ref "/f37/language/is.md" >}}) | 623 | 1215 | 51.3 | /mnt/stockage/packages/f37/pcmanfm/po/is.po | 
- | [ug]({{< ref "/f37/language/ug.md" >}}) | 604 | 1215 | 49.7 | /mnt/stockage/packages/f37/pcmanfm/po/ug.po | 
- | [en_GB]({{< ref "/f37/language/en_GB.md" >}}) | 582 | 1215 | 47.9 | /mnt/stockage/packages/f37/pcmanfm/po/en_GB.po | 
- | [ro]({{< ref "/f37/language/ro.md" >}}) | 582 | 1215 | 47.9 | /mnt/stockage/packages/f37/pcmanfm/po/ro.po | 
- | [be]({{< ref "/f37/language/be.md" >}}) | 580 | 1215 | 47.7 | /mnt/stockage/packages/f37/pcmanfm/po/be.po | 
- | [vi]({{< ref "/f37/language/vi.md" >}}) | 580 | 1215 | 47.7 | /mnt/stockage/packages/f37/pcmanfm/po/vi.po | 
- | [fa]({{< ref "/f37/language/fa.md" >}}) | 578 | 1215 | 47.6 | /mnt/stockage/packages/f37/pcmanfm/po/fa.po | 
- | [hu]({{< ref "/f37/language/hu.md" >}}) | 516 | 1215 | 42.5 | /mnt/stockage/packages/f37/pcmanfm/po/hu.po | 
- | [te]({{< ref "/f37/language/te.md" >}}) | 237 | 1215 | 19.5 | /mnt/stockage/packages/f37/pcmanfm/po/te.po | 
- | [tt]({{< ref "/f37/language/tt.md" >}}) | 190 | 1215 | 15.6 | /mnt/stockage/packages/f37/pcmanfm/po/tt_RU.po | 
- | [lv]({{< ref "/f37/language/lv.md" >}}) | 173 | 1215 | 14.2 | /mnt/stockage/packages/f37/pcmanfm/po/lv.po | 
- | [fo]({{< ref "/f37/language/fo.md" >}}) | 163 | 1215 | 13.4 | /mnt/stockage/packages/f37/pcmanfm/po/fo.po | 
- | [pa]({{< ref "/f37/language/pa.md" >}}) | 161 | 1215 | 13.3 | /mnt/stockage/packages/f37/pcmanfm/po/pa.po | 
- | [bn]({{< ref "/f37/language/bn.md" >}}) | 159 | 1215 | 13.1 | /mnt/stockage/packages/f37/pcmanfm/po/bn.po | 
- | [si]({{< ref "/f37/language/si.md" >}}) | 26 | 1215 | 2.1 | /mnt/stockage/packages/f37/pcmanfm/po/si.po | 
- | [km]({{< ref "/f37/language/km.md" >}}) | 21 | 1215 | 1.7 | /mnt/stockage/packages/f37/pcmanfm/po/km.po | 
- | [ms]({{< ref "/f37/language/ms.md" >}}) | 18 | 1215 | 1.5 | /mnt/stockage/packages/f37/pcmanfm/po/ms.po | 
- | [de]({{< ref "/f37/language/de.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f37/pcmanfm/po/de.po | 
- | [th]({{< ref "/f37/language/th.md" >}}) | 0 | 1215 | 0.0 | /mnt/stockage/packages/f37/pcmanfm/po/th.po | 
+ | [ca](/f37/language/ca) | 1215 | 1215 | 100.0 | /mnt/stockage/packages/f37/pcmanfm/po/ca.po | 
+ | [da](/f37/language/da) | 1215 | 1215 | 100.0 | /mnt/stockage/packages/f37/pcmanfm/po/da.po | 
+ | [et](/f37/language/et) | 1215 | 1215 | 100.0 | /mnt/stockage/packages/f37/pcmanfm/po/et.po | 
+ | [gl](/f37/language/gl) | 1215 | 1215 | 100.0 | /mnt/stockage/packages/f37/pcmanfm/po/gl.po | 
+ | [kk](/f37/language/kk) | 1215 | 1215 | 100.0 | /mnt/stockage/packages/f37/pcmanfm/po/kk.po | 
+ | [lt](/f37/language/lt) | 1215 | 1215 | 100.0 | /mnt/stockage/packages/f37/pcmanfm/po/lt.po | 
+ | [nl](/f37/language/nl) | 1215 | 1215 | 100.0 | /mnt/stockage/packages/f37/pcmanfm/po/nl.po | 
+ | [pl](/f37/language/pl) | 1215 | 1215 | 100.0 | /mnt/stockage/packages/f37/pcmanfm/po/pl.po | 
+ | [ru](/f37/language/ru) | 1215 | 1215 | 100.0 | /mnt/stockage/packages/f37/pcmanfm/po/ru.po | 
+ | [sr](/f37/language/sr) | 1215 | 1215 | 100.0 | /mnt/stockage/packages/f37/pcmanfm/po/sr.po | 
+ | [tr](/f37/language/tr) | 1215 | 1215 | 100.0 | /mnt/stockage/packages/f37/pcmanfm/po/tr.po | 
+ | [uk](/f37/language/uk) | 1215 | 1215 | 100.0 | /mnt/stockage/packages/f37/pcmanfm/po/uk.po | 
+ | [bg](/f37/language/bg) | 1210 | 1215 | 99.6 | /mnt/stockage/packages/f37/pcmanfm/po/bg.po | 
+ | [el](/f37/language/el) | 1210 | 1215 | 99.6 | /mnt/stockage/packages/f37/pcmanfm/po/el.po | 
+ | [eu](/f37/language/eu) | 1210 | 1215 | 99.6 | /mnt/stockage/packages/f37/pcmanfm/po/eu.po | 
+ | [id](/f37/language/id) | 1210 | 1215 | 99.6 | /mnt/stockage/packages/f37/pcmanfm/po/id.po | 
+ | [pt](/f37/language/pt) | 1210 | 1215 | 99.6 | /mnt/stockage/packages/f37/pcmanfm/po/pt.po | 
+ | [sr_Latn](/f37/language/sr_Latn) | 1210 | 1215 | 99.6 | /mnt/stockage/packages/f37/pcmanfm/po/sr@latin.po | 
+ | [sv](/f37/language/sv) | 1210 | 1215 | 99.6 | /mnt/stockage/packages/f37/pcmanfm/po/sv.po | 
+ | [zh_Hans](/f37/language/zh_Hans) | 1210 | 1215 | 99.6 | /mnt/stockage/packages/f37/pcmanfm/po/zh_CN.po | 
+ | [lg](/f37/language/lg) | 1209 | 1215 | 99.5 | /mnt/stockage/packages/f37/pcmanfm/po/lg.po | 
+ | [cs](/f37/language/cs) | 1206 | 1215 | 99.3 | /mnt/stockage/packages/f37/pcmanfm/po/cs.po | 
+ | [es](/f37/language/es) | 1206 | 1215 | 99.3 | /mnt/stockage/packages/f37/pcmanfm/po/es.po | 
+ | [fi](/f37/language/fi) | 1206 | 1215 | 99.3 | /mnt/stockage/packages/f37/pcmanfm/po/fi.po | 
+ | [fr](/f37/language/fr) | 1206 | 1215 | 99.3 | /mnt/stockage/packages/f37/pcmanfm/po/fr.po | 
+ | [it](/f37/language/it) | 1206 | 1215 | 99.3 | /mnt/stockage/packages/f37/pcmanfm/po/it.po | 
+ | [ja](/f37/language/ja) | 1206 | 1215 | 99.3 | /mnt/stockage/packages/f37/pcmanfm/po/ja.po | 
+ | [ko](/f37/language/ko) | 1206 | 1215 | 99.3 | /mnt/stockage/packages/f37/pcmanfm/po/ko.po | 
+ | [pt_BR](/f37/language/pt_BR) | 1206 | 1215 | 99.3 | /mnt/stockage/packages/f37/pcmanfm/po/pt_BR.po | 
+ | [ar](/f37/language/ar) | 1184 | 1215 | 97.4 | /mnt/stockage/packages/f37/pcmanfm/po/ar.po | 
+ | [zh_Hant](/f37/language/zh_Hant) | 1100 | 1215 | 90.5 | /mnt/stockage/packages/f37/pcmanfm/po/zh_TW.po | 
+ | [sl](/f37/language/sl) | 865 | 1215 | 71.2 | /mnt/stockage/packages/f37/pcmanfm/po/sl.po | 
+ | [he](/f37/language/he) | 859 | 1215 | 70.7 | /mnt/stockage/packages/f37/pcmanfm/po/he.po | 
+ | [hr](/f37/language/hr) | 839 | 1215 | 69.1 | /mnt/stockage/packages/f37/pcmanfm/po/hr.po | 
+ | [sk](/f37/language/sk) | 787 | 1215 | 64.8 | /mnt/stockage/packages/f37/pcmanfm/po/sk.po | 
+ | [is](/f37/language/is) | 623 | 1215 | 51.3 | /mnt/stockage/packages/f37/pcmanfm/po/is.po | 
+ | [ug](/f37/language/ug) | 604 | 1215 | 49.7 | /mnt/stockage/packages/f37/pcmanfm/po/ug.po | 
+ | [en_GB](/f37/language/en_GB) | 582 | 1215 | 47.9 | /mnt/stockage/packages/f37/pcmanfm/po/en_GB.po | 
+ | [ro](/f37/language/ro) | 582 | 1215 | 47.9 | /mnt/stockage/packages/f37/pcmanfm/po/ro.po | 
+ | [be](/f37/language/be) | 580 | 1215 | 47.7 | /mnt/stockage/packages/f37/pcmanfm/po/be.po | 
+ | [vi](/f37/language/vi) | 580 | 1215 | 47.7 | /mnt/stockage/packages/f37/pcmanfm/po/vi.po | 
+ | [fa](/f37/language/fa) | 578 | 1215 | 47.6 | /mnt/stockage/packages/f37/pcmanfm/po/fa.po | 
+ | [hu](/f37/language/hu) | 516 | 1215 | 42.5 | /mnt/stockage/packages/f37/pcmanfm/po/hu.po | 
+ | [te](/f37/language/te) | 237 | 1215 | 19.5 | /mnt/stockage/packages/f37/pcmanfm/po/te.po | 
+ | [tt](/f37/language/tt) | 190 | 1215 | 15.6 | /mnt/stockage/packages/f37/pcmanfm/po/tt_RU.po | 
+ | [lv](/f37/language/lv) | 173 | 1215 | 14.2 | /mnt/stockage/packages/f37/pcmanfm/po/lv.po | 
+ | [fo](/f37/language/fo) | 163 | 1215 | 13.4 | /mnt/stockage/packages/f37/pcmanfm/po/fo.po | 
+ | [pa](/f37/language/pa) | 161 | 1215 | 13.3 | /mnt/stockage/packages/f37/pcmanfm/po/pa.po | 
+ | [bn](/f37/language/bn) | 159 | 1215 | 13.1 | /mnt/stockage/packages/f37/pcmanfm/po/bn.po | 
+ | [si](/f37/language/si) | 26 | 1215 | 2.1 | /mnt/stockage/packages/f37/pcmanfm/po/si.po | 
+ | [km](/f37/language/km) | 21 | 1215 | 1.7 | /mnt/stockage/packages/f37/pcmanfm/po/km.po | 
+ | [ms](/f37/language/ms) | 18 | 1215 | 1.5 | /mnt/stockage/packages/f37/pcmanfm/po/ms.po | 
+ | [de](/f37/language/de) | 0 | 0 | 0.0 | /mnt/stockage/packages/f37/pcmanfm/po/de.po | 
+ | [th](/f37/language/th) | 0 | 1215 | 0.0 | /mnt/stockage/packages/f37/pcmanfm/po/th.po | 
 {.sortable}
 
 

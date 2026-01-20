@@ -18,25 +18,25 @@ The package jpilot (version 0.99.9):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ja]({{< ref "/f7/language/ja.md" >}}) | 2237 | 2237 | 100.0 | /mnt/stockage/packages/f7/jpilot/po/ja.po | 
- | [ko]({{< ref "/f7/language/ko.md" >}}) | 2227 | 2237 | 99.6 | /mnt/stockage/packages/f7/jpilot/po/ko.po | 
- | [fr]({{< ref "/f7/language/fr.md" >}}) | 2214 | 2237 | 99.0 | /mnt/stockage/packages/f7/jpilot/po/fr.po | 
- | [es]({{< ref "/f7/language/es.md" >}}) | 2157 | 2237 | 96.4 | /mnt/stockage/packages/f7/jpilot/po/es.po | 
- | [tr]({{< ref "/f7/language/tr.md" >}}) | 2157 | 2237 | 96.4 | /mnt/stockage/packages/f7/jpilot/po/tr.po | 
- | [uk]({{< ref "/f7/language/uk.md" >}}) | 2157 | 2237 | 96.4 | /mnt/stockage/packages/f7/jpilot/po/uk.po | 
- | [zh_Hans]({{< ref "/f7/language/zh_Hans.md" >}}) | 2157 | 2237 | 96.4 | /mnt/stockage/packages/f7/jpilot/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f7/language/zh_Hant.md" >}}) | 2015 | 2237 | 90.1 | /mnt/stockage/packages/f7/jpilot/po/zh_TW.po | 
- | [cs]({{< ref "/f7/language/cs.md" >}}) | 1975 | 2237 | 88.3 | /mnt/stockage/packages/f7/jpilot/po/cs.po | 
- | [it]({{< ref "/f7/language/it.md" >}}) | 1816 | 2237 | 81.2 | /mnt/stockage/packages/f7/jpilot/po/it.po | 
- | [ru]({{< ref "/f7/language/ru.md" >}}) | 1224 | 2237 | 54.7 | /mnt/stockage/packages/f7/jpilot/po/ru.po | 
- | [de]({{< ref "/f7/language/de.md" >}}) | 1188 | 2237 | 53.1 | /mnt/stockage/packages/f7/jpilot/po/de.po | 
- | [nl]({{< ref "/f7/language/nl.md" >}}) | 1061 | 2237 | 47.4 | /mnt/stockage/packages/f7/jpilot/po/nl.po | 
- | [da]({{< ref "/f7/language/da.md" >}}) | 933 | 2237 | 41.7 | /mnt/stockage/packages/f7/jpilot/po/da.po | 
- | [vi]({{< ref "/f7/language/vi.md" >}}) | 830 | 2237 | 37.1 | /mnt/stockage/packages/f7/jpilot/po/vi.po | 
- | [sv]({{< ref "/f7/language/sv.md" >}}) | 815 | 2237 | 36.4 | /mnt/stockage/packages/f7/jpilot/po/sv.po | 
- | [ca]({{< ref "/f7/language/ca.md" >}}) | 713 | 2237 | 31.9 | /mnt/stockage/packages/f7/jpilot/po/ca.po | 
- | [nb_NO]({{< ref "/f7/language/nb_NO.md" >}}) | 395 | 2237 | 17.7 | /mnt/stockage/packages/f7/jpilot/po/no.po | 
- | [rw]({{< ref "/f7/language/rw.md" >}}) | 122 | 2237 | 5.5 | /mnt/stockage/packages/f7/jpilot/po/rw.po | 
+ | [ja](/f7/language/ja) | 2237 | 2237 | 100.0 | /mnt/stockage/packages/f7/jpilot/po/ja.po | 
+ | [ko](/f7/language/ko) | 2227 | 2237 | 99.6 | /mnt/stockage/packages/f7/jpilot/po/ko.po | 
+ | [fr](/f7/language/fr) | 2214 | 2237 | 99.0 | /mnt/stockage/packages/f7/jpilot/po/fr.po | 
+ | [es](/f7/language/es) | 2157 | 2237 | 96.4 | /mnt/stockage/packages/f7/jpilot/po/es.po | 
+ | [tr](/f7/language/tr) | 2157 | 2237 | 96.4 | /mnt/stockage/packages/f7/jpilot/po/tr.po | 
+ | [uk](/f7/language/uk) | 2157 | 2237 | 96.4 | /mnt/stockage/packages/f7/jpilot/po/uk.po | 
+ | [zh_Hans](/f7/language/zh_Hans) | 2157 | 2237 | 96.4 | /mnt/stockage/packages/f7/jpilot/po/zh_CN.po | 
+ | [zh_Hant](/f7/language/zh_Hant) | 2015 | 2237 | 90.1 | /mnt/stockage/packages/f7/jpilot/po/zh_TW.po | 
+ | [cs](/f7/language/cs) | 1975 | 2237 | 88.3 | /mnt/stockage/packages/f7/jpilot/po/cs.po | 
+ | [it](/f7/language/it) | 1816 | 2237 | 81.2 | /mnt/stockage/packages/f7/jpilot/po/it.po | 
+ | [ru](/f7/language/ru) | 1224 | 2237 | 54.7 | /mnt/stockage/packages/f7/jpilot/po/ru.po | 
+ | [de](/f7/language/de) | 1188 | 2237 | 53.1 | /mnt/stockage/packages/f7/jpilot/po/de.po | 
+ | [nl](/f7/language/nl) | 1061 | 2237 | 47.4 | /mnt/stockage/packages/f7/jpilot/po/nl.po | 
+ | [da](/f7/language/da) | 933 | 2237 | 41.7 | /mnt/stockage/packages/f7/jpilot/po/da.po | 
+ | [vi](/f7/language/vi) | 830 | 2237 | 37.1 | /mnt/stockage/packages/f7/jpilot/po/vi.po | 
+ | [sv](/f7/language/sv) | 815 | 2237 | 36.4 | /mnt/stockage/packages/f7/jpilot/po/sv.po | 
+ | [ca](/f7/language/ca) | 713 | 2237 | 31.9 | /mnt/stockage/packages/f7/jpilot/po/ca.po | 
+ | [nb_NO](/f7/language/nb_NO) | 395 | 2237 | 17.7 | /mnt/stockage/packages/f7/jpilot/po/no.po | 
+ | [rw](/f7/language/rw) | 122 | 2237 | 5.5 | /mnt/stockage/packages/f7/jpilot/po/rw.po | 
 {.sortable}
 
 

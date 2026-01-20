@@ -18,31 +18,31 @@ The package gnome-directory-thumbnailer (version 0.1.11):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [bs]({{< ref "/f37/language/bs.md" >}}) | 85 | 85 | 100.0 | /mnt/stockage/packages/f37/gnome-directory-thumbnailer/po/bs.po | 
- | [cs]({{< ref "/f37/language/cs.md" >}}) | 85 | 85 | 100.0 | /mnt/stockage/packages/f37/gnome-directory-thumbnailer/po/cs.po | 
- | [da]({{< ref "/f37/language/da.md" >}}) | 85 | 85 | 100.0 | /mnt/stockage/packages/f37/gnome-directory-thumbnailer/po/da.po | 
- | [de]({{< ref "/f37/language/de.md" >}}) | 85 | 85 | 100.0 | /mnt/stockage/packages/f37/gnome-directory-thumbnailer/po/de.po | 
- | [el]({{< ref "/f37/language/el.md" >}}) | 85 | 85 | 100.0 | /mnt/stockage/packages/f37/gnome-directory-thumbnailer/po/el.po | 
- | [es]({{< ref "/f37/language/es.md" >}}) | 85 | 85 | 100.0 | /mnt/stockage/packages/f37/gnome-directory-thumbnailer/po/es.po | 
- | [fr]({{< ref "/f37/language/fr.md" >}}) | 85 | 85 | 100.0 | /mnt/stockage/packages/f37/gnome-directory-thumbnailer/po/fr.po | 
- | [fur]({{< ref "/f37/language/fur.md" >}}) | 85 | 85 | 100.0 | /mnt/stockage/packages/f37/gnome-directory-thumbnailer/po/fur.po | 
- | [hr]({{< ref "/f37/language/hr.md" >}}) | 85 | 85 | 100.0 | /mnt/stockage/packages/f37/gnome-directory-thumbnailer/po/hr.po | 
- | [hu]({{< ref "/f37/language/hu.md" >}}) | 85 | 85 | 100.0 | /mnt/stockage/packages/f37/gnome-directory-thumbnailer/po/hu.po | 
- | [id]({{< ref "/f37/language/id.md" >}}) | 85 | 85 | 100.0 | /mnt/stockage/packages/f37/gnome-directory-thumbnailer/po/id.po | 
- | [it]({{< ref "/f37/language/it.md" >}}) | 85 | 85 | 100.0 | /mnt/stockage/packages/f37/gnome-directory-thumbnailer/po/it.po | 
- | [lt]({{< ref "/f37/language/lt.md" >}}) | 85 | 85 | 100.0 | /mnt/stockage/packages/f37/gnome-directory-thumbnailer/po/lt.po | 
- | [nl]({{< ref "/f37/language/nl.md" >}}) | 85 | 85 | 100.0 | /mnt/stockage/packages/f37/gnome-directory-thumbnailer/po/nl.po | 
- | [oc]({{< ref "/f37/language/oc.md" >}}) | 85 | 85 | 100.0 | /mnt/stockage/packages/f37/gnome-directory-thumbnailer/po/oc.po | 
- | [pl]({{< ref "/f37/language/pl.md" >}}) | 85 | 85 | 100.0 | /mnt/stockage/packages/f37/gnome-directory-thumbnailer/po/pl.po | 
- | [pt]({{< ref "/f37/language/pt.md" >}}) | 85 | 85 | 100.0 | /mnt/stockage/packages/f37/gnome-directory-thumbnailer/po/pt.po | 
- | [pt_BR]({{< ref "/f37/language/pt_BR.md" >}}) | 85 | 85 | 100.0 | /mnt/stockage/packages/f37/gnome-directory-thumbnailer/po/pt_BR.po | 
- | [ru]({{< ref "/f37/language/ru.md" >}}) | 85 | 85 | 100.0 | /mnt/stockage/packages/f37/gnome-directory-thumbnailer/po/ru.po | 
- | [sk]({{< ref "/f37/language/sk.md" >}}) | 85 | 85 | 100.0 | /mnt/stockage/packages/f37/gnome-directory-thumbnailer/po/sk.po | 
- | [sl]({{< ref "/f37/language/sl.md" >}}) | 85 | 85 | 100.0 | /mnt/stockage/packages/f37/gnome-directory-thumbnailer/po/sl.po | 
- | [sr]({{< ref "/f37/language/sr.md" >}}) | 170 | 170 | 100.0 | /mnt/stockage/packages/f37/gnome-directory-thumbnailer/po/sr.po/mnt/stockage/packages/f37/gnome-directory-thumbnailer/po/sr@latin.po | 
- | [sv]({{< ref "/f37/language/sv.md" >}}) | 85 | 85 | 100.0 | /mnt/stockage/packages/f37/gnome-directory-thumbnailer/po/sv.po | 
- | [tr]({{< ref "/f37/language/tr.md" >}}) | 85 | 85 | 100.0 | /mnt/stockage/packages/f37/gnome-directory-thumbnailer/po/tr.po | 
- | [nb_NO]({{< ref "/f37/language/nb_NO.md" >}}) | 18 | 85 | 21.2 | /mnt/stockage/packages/f37/gnome-directory-thumbnailer/po/nb.po | 
+ | [bs](/f37/language/bs) | 85 | 85 | 100.0 | /mnt/stockage/packages/f37/gnome-directory-thumbnailer/po/bs.po | 
+ | [cs](/f37/language/cs) | 85 | 85 | 100.0 | /mnt/stockage/packages/f37/gnome-directory-thumbnailer/po/cs.po | 
+ | [da](/f37/language/da) | 85 | 85 | 100.0 | /mnt/stockage/packages/f37/gnome-directory-thumbnailer/po/da.po | 
+ | [de](/f37/language/de) | 85 | 85 | 100.0 | /mnt/stockage/packages/f37/gnome-directory-thumbnailer/po/de.po | 
+ | [el](/f37/language/el) | 85 | 85 | 100.0 | /mnt/stockage/packages/f37/gnome-directory-thumbnailer/po/el.po | 
+ | [es](/f37/language/es) | 85 | 85 | 100.0 | /mnt/stockage/packages/f37/gnome-directory-thumbnailer/po/es.po | 
+ | [fr](/f37/language/fr) | 85 | 85 | 100.0 | /mnt/stockage/packages/f37/gnome-directory-thumbnailer/po/fr.po | 
+ | [fur](/f37/language/fur) | 85 | 85 | 100.0 | /mnt/stockage/packages/f37/gnome-directory-thumbnailer/po/fur.po | 
+ | [hr](/f37/language/hr) | 85 | 85 | 100.0 | /mnt/stockage/packages/f37/gnome-directory-thumbnailer/po/hr.po | 
+ | [hu](/f37/language/hu) | 85 | 85 | 100.0 | /mnt/stockage/packages/f37/gnome-directory-thumbnailer/po/hu.po | 
+ | [id](/f37/language/id) | 85 | 85 | 100.0 | /mnt/stockage/packages/f37/gnome-directory-thumbnailer/po/id.po | 
+ | [it](/f37/language/it) | 85 | 85 | 100.0 | /mnt/stockage/packages/f37/gnome-directory-thumbnailer/po/it.po | 
+ | [lt](/f37/language/lt) | 85 | 85 | 100.0 | /mnt/stockage/packages/f37/gnome-directory-thumbnailer/po/lt.po | 
+ | [nl](/f37/language/nl) | 85 | 85 | 100.0 | /mnt/stockage/packages/f37/gnome-directory-thumbnailer/po/nl.po | 
+ | [oc](/f37/language/oc) | 85 | 85 | 100.0 | /mnt/stockage/packages/f37/gnome-directory-thumbnailer/po/oc.po | 
+ | [pl](/f37/language/pl) | 85 | 85 | 100.0 | /mnt/stockage/packages/f37/gnome-directory-thumbnailer/po/pl.po | 
+ | [pt](/f37/language/pt) | 85 | 85 | 100.0 | /mnt/stockage/packages/f37/gnome-directory-thumbnailer/po/pt.po | 
+ | [pt_BR](/f37/language/pt_BR) | 85 | 85 | 100.0 | /mnt/stockage/packages/f37/gnome-directory-thumbnailer/po/pt_BR.po | 
+ | [ru](/f37/language/ru) | 85 | 85 | 100.0 | /mnt/stockage/packages/f37/gnome-directory-thumbnailer/po/ru.po | 
+ | [sk](/f37/language/sk) | 85 | 85 | 100.0 | /mnt/stockage/packages/f37/gnome-directory-thumbnailer/po/sk.po | 
+ | [sl](/f37/language/sl) | 85 | 85 | 100.0 | /mnt/stockage/packages/f37/gnome-directory-thumbnailer/po/sl.po | 
+ | [sr](/f37/language/sr) | 170 | 170 | 100.0 | /mnt/stockage/packages/f37/gnome-directory-thumbnailer/po/sr.po/mnt/stockage/packages/f37/gnome-directory-thumbnailer/po/sr@latin.po | 
+ | [sv](/f37/language/sv) | 85 | 85 | 100.0 | /mnt/stockage/packages/f37/gnome-directory-thumbnailer/po/sv.po | 
+ | [tr](/f37/language/tr) | 85 | 85 | 100.0 | /mnt/stockage/packages/f37/gnome-directory-thumbnailer/po/tr.po | 
+ | [nb_NO](/f37/language/nb_NO) | 18 | 85 | 21.2 | /mnt/stockage/packages/f37/gnome-directory-thumbnailer/po/nb.po | 
 {.sortable}
 
 

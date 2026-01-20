@@ -18,8 +18,8 @@ The package quota (version 3.16):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f10/language/fr.md" >}}) | 2766 | 2766 | 100.0 | /mnt/stockage/packages/f10/quota/po/fr.po | 
- | [pl]({{< ref "/f10/language/pl.md" >}}) | 3958 | 3958 | 100.0 | /mnt/stockage/packages/f10/quota/po/pl.po | 
+ | [fr](/f10/language/fr) | 2766 | 2766 | 100.0 | /mnt/stockage/packages/f10/quota/po/fr.po | 
+ | [pl](/f10/language/pl) | 3958 | 3958 | 100.0 | /mnt/stockage/packages/f10/quota/po/pl.po | 
 {.sortable}
 
 

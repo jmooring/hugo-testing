@@ -38,19 +38,19 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [epiphany]({{< ref "/f23/package/epiphany.md" >}}) | 2764 | 3044 | 90.8 | Manx <reuben03@live.com> | 
- | [nautilus]({{< ref "/f23/package/nautilus.md" >}}) | 7500 | 8884 | 84.4 | Manx <gv@li.org> | 
- | [totem]({{< ref "/f23/package/totem.md" >}}) | 2169 | 2585 | 83.9 | Manx <gv@li.org> | 
- | [gnome-menus]({{< ref "/f23/package/gnome-menus.md" >}}) | 84 | 125 | 67.2 | Manx <gv@li.org> | 
- | [mate-menus]({{< ref "/f23/package/mate-menus.md" >}}) | 84 | 125 | 67.2 | Manx <gv@li.org> | 
- | [gdm]({{< ref "/f23/package/gdm.md" >}}) | 807 | 1306 | 61.8 | Manx <gv@li.org> | 
- | [gobby]({{< ref "/f23/package/gobby.md" >}}) | 529 | 900 | 58.8 | Manx <gv@li.org> | 
- | [mintmenu]({{< ref "/f23/package/mintmenu.md" >}}) | 1570 | 4097 | 38.3 | Manx <gv@li.org> | 
- | [librfm]({{< ref "/f23/package/librfm.md" >}}) | 168 | 2397 | 7.0 | Manx <reuben03@live.com> | 
- | [rodent]({{< ref "/f23/package/rodent.md" >}}) | 145 | 9634 | 1.5 | Manx <reuben03@live.com> | 
- | [transmission]({{< ref "/f23/package/transmission.md" >}}) | 27 | 1809 | 1.5 | Manx <gv@li.org> | 
- | [isomaster]({{< ref "/f23/package/isomaster.md" >}}) | 9 | 674 | 1.3 | http://littlesvr.ca/ostd/ | 
- | [stellarium]({{< ref "/f23/package/stellarium.md" >}}) | 13 | 17168 | 0.1 | Manx <gv@li.org> | 
+ | [epiphany](/f23/package/epiphany) | 2764 | 3044 | 90.8 | Manx <reuben03@live.com> | 
+ | [nautilus](/f23/package/nautilus) | 7500 | 8884 | 84.4 | Manx <gv@li.org> | 
+ | [totem](/f23/package/totem) | 2169 | 2585 | 83.9 | Manx <gv@li.org> | 
+ | [gnome-menus](/f23/package/gnome-menus) | 84 | 125 | 67.2 | Manx <gv@li.org> | 
+ | [mate-menus](/f23/package/mate-menus) | 84 | 125 | 67.2 | Manx <gv@li.org> | 
+ | [gdm](/f23/package/gdm) | 807 | 1306 | 61.8 | Manx <gv@li.org> | 
+ | [gobby](/f23/package/gobby) | 529 | 900 | 58.8 | Manx <gv@li.org> | 
+ | [mintmenu](/f23/package/mintmenu) | 1570 | 4097 | 38.3 | Manx <gv@li.org> | 
+ | [librfm](/f23/package/librfm) | 168 | 2397 | 7.0 | Manx <reuben03@live.com> | 
+ | [rodent](/f23/package/rodent) | 145 | 9634 | 1.5 | Manx <reuben03@live.com> | 
+ | [transmission](/f23/package/transmission) | 27 | 1809 | 1.5 | Manx <gv@li.org> | 
+ | [isomaster](/f23/package/isomaster) | 9 | 674 | 1.3 | http://littlesvr.ca/ostd/ | 
+ | [stellarium](/f23/package/stellarium) | 13 | 17168 | 0.1 | Manx <gv@li.org> | 
 {.sortable}
 
 

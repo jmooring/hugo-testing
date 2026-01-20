@@ -18,33 +18,33 @@ The package gnupg2 (version 2.2.12):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [en]({{< ref "/f28/language/en.md" >}}) | 26858 | 26858 | 100.0 | /mnt/stockage/packages/f28/gnupg2/po/en@boldquot.po/mnt/stockage/packages/f28/gnupg2/po/en@quot.po | 
- | [cs]({{< ref "/f28/language/cs.md" >}}) | 13425 | 13429 | 100.0 | /mnt/stockage/packages/f28/gnupg2/po/cs.po | 
- | [ja]({{< ref "/f28/language/ja.md" >}}) | 13425 | 13429 | 100.0 | /mnt/stockage/packages/f28/gnupg2/po/ja.po | 
- | [ru]({{< ref "/f28/language/ru.md" >}}) | 13425 | 13429 | 100.0 | /mnt/stockage/packages/f28/gnupg2/po/ru.po | 
- | [es]({{< ref "/f28/language/es.md" >}}) | 13349 | 13429 | 99.4 | /mnt/stockage/packages/f28/gnupg2/po/es.po | 
- | [nb_NO]({{< ref "/f28/language/nb_NO.md" >}}) | 13258 | 13429 | 98.7 | /mnt/stockage/packages/f28/gnupg2/po/nb.po | 
- | [zh_Hans]({{< ref "/f28/language/zh_Hans.md" >}}) | 13256 | 13429 | 98.7 | /mnt/stockage/packages/f28/gnupg2/po/zh_CN.po | 
- | [de]({{< ref "/f28/language/de.md" >}}) | 13095 | 13429 | 97.5 | /mnt/stockage/packages/f28/gnupg2/po/de.po | 
- | [uk]({{< ref "/f28/language/uk.md" >}}) | 13054 | 13429 | 97.2 | /mnt/stockage/packages/f28/gnupg2/po/uk.po | 
- | [fr]({{< ref "/f28/language/fr.md" >}}) | 11456 | 13429 | 85.3 | /mnt/stockage/packages/f28/gnupg2/po/fr.po | 
- | [zh_Hant]({{< ref "/f28/language/zh_Hant.md" >}}) | 11437 | 13429 | 85.2 | /mnt/stockage/packages/f28/gnupg2/po/zh_TW.po | 
- | [pl]({{< ref "/f28/language/pl.md" >}}) | 8127 | 13429 | 60.5 | /mnt/stockage/packages/f28/gnupg2/po/pl.po | 
- | [da]({{< ref "/f28/language/da.md" >}}) | 8111 | 13429 | 60.4 | /mnt/stockage/packages/f28/gnupg2/po/da.po | 
- | [sv]({{< ref "/f28/language/sv.md" >}}) | 7982 | 13429 | 59.4 | /mnt/stockage/packages/f28/gnupg2/po/sv.po | 
- | [tr]({{< ref "/f28/language/tr.md" >}}) | 7635 | 13429 | 56.9 | /mnt/stockage/packages/f28/gnupg2/po/tr.po | 
- | [ro]({{< ref "/f28/language/ro.md" >}}) | 4864 | 13429 | 36.2 | /mnt/stockage/packages/f28/gnupg2/po/ro.po | 
- | [el]({{< ref "/f28/language/el.md" >}}) | 2524 | 13429 | 18.8 | /mnt/stockage/packages/f28/gnupg2/po/el.po | 
- | [et]({{< ref "/f28/language/et.md" >}}) | 2524 | 13429 | 18.8 | /mnt/stockage/packages/f28/gnupg2/po/et.po | 
- | [fi]({{< ref "/f28/language/fi.md" >}}) | 2524 | 13429 | 18.8 | /mnt/stockage/packages/f28/gnupg2/po/fi.po | 
- | [hu]({{< ref "/f28/language/hu.md" >}}) | 2524 | 13429 | 18.8 | /mnt/stockage/packages/f28/gnupg2/po/hu.po | 
- | [id]({{< ref "/f28/language/id.md" >}}) | 2524 | 13429 | 18.8 | /mnt/stockage/packages/f28/gnupg2/po/id.po | 
- | [it]({{< ref "/f28/language/it.md" >}}) | 2524 | 13429 | 18.8 | /mnt/stockage/packages/f28/gnupg2/po/it.po | 
- | [sk]({{< ref "/f28/language/sk.md" >}}) | 2519 | 13429 | 18.8 | /mnt/stockage/packages/f28/gnupg2/po/sk.po | 
- | [ca]({{< ref "/f28/language/ca.md" >}}) | 2505 | 13429 | 18.7 | /mnt/stockage/packages/f28/gnupg2/po/ca.po | 
- | [gl]({{< ref "/f28/language/gl.md" >}}) | 2496 | 13429 | 18.6 | /mnt/stockage/packages/f28/gnupg2/po/gl.po | 
- | [pt]({{< ref "/f28/language/pt.md" >}}) | 2083 | 13429 | 15.5 | /mnt/stockage/packages/f28/gnupg2/po/pt.po | 
- | [eo]({{< ref "/f28/language/eo.md" >}}) | 1664 | 13429 | 12.4 | /mnt/stockage/packages/f28/gnupg2/po/eo.po | 
+ | [en](/f28/language/en) | 26858 | 26858 | 100.0 | /mnt/stockage/packages/f28/gnupg2/po/en@boldquot.po/mnt/stockage/packages/f28/gnupg2/po/en@quot.po | 
+ | [cs](/f28/language/cs) | 13425 | 13429 | 100.0 | /mnt/stockage/packages/f28/gnupg2/po/cs.po | 
+ | [ja](/f28/language/ja) | 13425 | 13429 | 100.0 | /mnt/stockage/packages/f28/gnupg2/po/ja.po | 
+ | [ru](/f28/language/ru) | 13425 | 13429 | 100.0 | /mnt/stockage/packages/f28/gnupg2/po/ru.po | 
+ | [es](/f28/language/es) | 13349 | 13429 | 99.4 | /mnt/stockage/packages/f28/gnupg2/po/es.po | 
+ | [nb_NO](/f28/language/nb_NO) | 13258 | 13429 | 98.7 | /mnt/stockage/packages/f28/gnupg2/po/nb.po | 
+ | [zh_Hans](/f28/language/zh_Hans) | 13256 | 13429 | 98.7 | /mnt/stockage/packages/f28/gnupg2/po/zh_CN.po | 
+ | [de](/f28/language/de) | 13095 | 13429 | 97.5 | /mnt/stockage/packages/f28/gnupg2/po/de.po | 
+ | [uk](/f28/language/uk) | 13054 | 13429 | 97.2 | /mnt/stockage/packages/f28/gnupg2/po/uk.po | 
+ | [fr](/f28/language/fr) | 11456 | 13429 | 85.3 | /mnt/stockage/packages/f28/gnupg2/po/fr.po | 
+ | [zh_Hant](/f28/language/zh_Hant) | 11437 | 13429 | 85.2 | /mnt/stockage/packages/f28/gnupg2/po/zh_TW.po | 
+ | [pl](/f28/language/pl) | 8127 | 13429 | 60.5 | /mnt/stockage/packages/f28/gnupg2/po/pl.po | 
+ | [da](/f28/language/da) | 8111 | 13429 | 60.4 | /mnt/stockage/packages/f28/gnupg2/po/da.po | 
+ | [sv](/f28/language/sv) | 7982 | 13429 | 59.4 | /mnt/stockage/packages/f28/gnupg2/po/sv.po | 
+ | [tr](/f28/language/tr) | 7635 | 13429 | 56.9 | /mnt/stockage/packages/f28/gnupg2/po/tr.po | 
+ | [ro](/f28/language/ro) | 4864 | 13429 | 36.2 | /mnt/stockage/packages/f28/gnupg2/po/ro.po | 
+ | [el](/f28/language/el) | 2524 | 13429 | 18.8 | /mnt/stockage/packages/f28/gnupg2/po/el.po | 
+ | [et](/f28/language/et) | 2524 | 13429 | 18.8 | /mnt/stockage/packages/f28/gnupg2/po/et.po | 
+ | [fi](/f28/language/fi) | 2524 | 13429 | 18.8 | /mnt/stockage/packages/f28/gnupg2/po/fi.po | 
+ | [hu](/f28/language/hu) | 2524 | 13429 | 18.8 | /mnt/stockage/packages/f28/gnupg2/po/hu.po | 
+ | [id](/f28/language/id) | 2524 | 13429 | 18.8 | /mnt/stockage/packages/f28/gnupg2/po/id.po | 
+ | [it](/f28/language/it) | 2524 | 13429 | 18.8 | /mnt/stockage/packages/f28/gnupg2/po/it.po | 
+ | [sk](/f28/language/sk) | 2519 | 13429 | 18.8 | /mnt/stockage/packages/f28/gnupg2/po/sk.po | 
+ | [ca](/f28/language/ca) | 2505 | 13429 | 18.7 | /mnt/stockage/packages/f28/gnupg2/po/ca.po | 
+ | [gl](/f28/language/gl) | 2496 | 13429 | 18.6 | /mnt/stockage/packages/f28/gnupg2/po/gl.po | 
+ | [pt](/f28/language/pt) | 2083 | 13429 | 15.5 | /mnt/stockage/packages/f28/gnupg2/po/pt.po | 
+ | [eo](/f28/language/eo) | 1664 | 13429 | 12.4 | /mnt/stockage/packages/f28/gnupg2/po/eo.po | 
 {.sortable}
 
 

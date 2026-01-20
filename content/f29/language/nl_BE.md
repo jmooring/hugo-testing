@@ -38,15 +38,15 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [siril]({{< ref "/f29/package/siril.md" >}}) | 13048 | 13048 | 100.0 | Dutch <antoine.hoeffelman[-at-]gmail.com> | 
- | [clamtk]({{< ref "/f29/package/clamtk.md" >}}) | 677 | 688 | 98.4 | LANGUAGE <LL@li.org> | 
- | [dino]({{< ref "/f29/package/dino.md" >}}) | 773 | 797 | 97.0 | Flemish <https://hosted.weblate.org/projects/dino/translations/nl_BE/> | 
- | [lollypop]({{< ref "/f29/package/lollypop.md" >}}) | 1222 | 1273 | 96.0 | Flemish <https://hosted.weblate.org/projects/gnumdk/lollypop/nl_BE/> | 
- | [gnome-shell-extension-gsconnect]({{< ref "/f29/package/gnome-shell-extension-gsconnect.md" >}}) | 364 | 530 | 68.7 | Dutch <vistausss@outlook.com> | 
- | [manaplus]({{< ref "/f29/package/manaplus.md" >}}) | 2922 | 6208 | 47.1 | Dutch (Belgium) (http://www.transifex.com/projects/p/manaplus/language/nl_BE/) | 
- | [gourmet]({{< ref "/f29/package/gourmet.md" >}}) | 660 | 3939 | 16.8 | Dutch (Belgium) <nl_BE@li.org> | 
- | [openerp]({{< ref "/f29/package/openerp.md" >}}) | 5259 | 40627 | 12.9 | Dutch (Belgium) <nl_BE@li.org> | 
- | [gnomebaker]({{< ref "/f29/package/gnomebaker.md" >}}) | 117 | 1186 | 9.9 | Dutch (Belgium) <nl_BE@li.org> | 
+ | [siril](/f29/package/siril) | 13048 | 13048 | 100.0 | Dutch <antoine.hoeffelman[-at-]gmail.com> | 
+ | [clamtk](/f29/package/clamtk) | 677 | 688 | 98.4 | LANGUAGE <LL@li.org> | 
+ | [dino](/f29/package/dino) | 773 | 797 | 97.0 | Flemish <https://hosted.weblate.org/projects/dino/translations/nl_BE/> | 
+ | [lollypop](/f29/package/lollypop) | 1222 | 1273 | 96.0 | Flemish <https://hosted.weblate.org/projects/gnumdk/lollypop/nl_BE/> | 
+ | [gnome-shell-extension-gsconnect](/f29/package/gnome-shell-extension-gsconnect) | 364 | 530 | 68.7 | Dutch <vistausss@outlook.com> | 
+ | [manaplus](/f29/package/manaplus) | 2922 | 6208 | 47.1 | Dutch (Belgium) (http://www.transifex.com/projects/p/manaplus/language/nl_BE/) | 
+ | [gourmet](/f29/package/gourmet) | 660 | 3939 | 16.8 | Dutch (Belgium) <nl_BE@li.org> | 
+ | [openerp](/f29/package/openerp) | 5259 | 40627 | 12.9 | Dutch (Belgium) <nl_BE@li.org> | 
+ | [gnomebaker](/f29/package/gnomebaker) | 117 | 1186 | 9.9 | Dutch (Belgium) <nl_BE@li.org> | 
 {.sortable}
 
 

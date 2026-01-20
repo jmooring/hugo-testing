@@ -18,16 +18,16 @@ The package trytond-product (version 2.4.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f18/language/de.md" >}}) | 339 | 339 | 100.0 | /mnt/stockage/packages/f18/trytond-product/locale/de_DE.po | 
- | [es]({{< ref "/f18/language/es.md" >}}) | 322 | 322 | 100.0 | /mnt/stockage/packages/f18/trytond-product/locale/es_ES.po | 
- | [es_AR]({{< ref "/f18/language/es_AR.md" >}}) | 322 | 322 | 100.0 | /mnt/stockage/packages/f18/trytond-product/locale/es_AR.po | 
- | [fr]({{< ref "/f18/language/fr.md" >}}) | 421 | 421 | 100.0 | /mnt/stockage/packages/f18/trytond-product/locale/fr_FR.po | 
- | [bg]({{< ref "/f18/language/bg.md" >}}) | 313 | 318 | 98.4 | /mnt/stockage/packages/f18/trytond-product/locale/bg_BG.po | 
- | [es_CO]({{< ref "/f18/language/es_CO.md" >}}) | 279 | 338 | 82.5 | /mnt/stockage/packages/f18/trytond-product/locale/es_CO.po | 
- | [ca]({{< ref "/f18/language/ca.md" >}}) | 258 | 322 | 80.1 | /mnt/stockage/packages/f18/trytond-product/locale/ca_ES.po | 
- | [nl]({{< ref "/f18/language/nl.md" >}}) | 339 | 434 | 78.1 | /mnt/stockage/packages/f18/trytond-product/locale/nl_NL.po | 
- | [ru]({{< ref "/f18/language/ru.md" >}}) | 205 | 318 | 64.5 | /mnt/stockage/packages/f18/trytond-product/locale/ru_RU.po | 
- | [cs]({{< ref "/f18/language/cs.md" >}}) | 0 | 318 | 0.0 | /mnt/stockage/packages/f18/trytond-product/locale/cs_CZ.po | 
+ | [de](/f18/language/de) | 339 | 339 | 100.0 | /mnt/stockage/packages/f18/trytond-product/locale/de_DE.po | 
+ | [es](/f18/language/es) | 322 | 322 | 100.0 | /mnt/stockage/packages/f18/trytond-product/locale/es_ES.po | 
+ | [es_AR](/f18/language/es_AR) | 322 | 322 | 100.0 | /mnt/stockage/packages/f18/trytond-product/locale/es_AR.po | 
+ | [fr](/f18/language/fr) | 421 | 421 | 100.0 | /mnt/stockage/packages/f18/trytond-product/locale/fr_FR.po | 
+ | [bg](/f18/language/bg) | 313 | 318 | 98.4 | /mnt/stockage/packages/f18/trytond-product/locale/bg_BG.po | 
+ | [es_CO](/f18/language/es_CO) | 279 | 338 | 82.5 | /mnt/stockage/packages/f18/trytond-product/locale/es_CO.po | 
+ | [ca](/f18/language/ca) | 258 | 322 | 80.1 | /mnt/stockage/packages/f18/trytond-product/locale/ca_ES.po | 
+ | [nl](/f18/language/nl) | 339 | 434 | 78.1 | /mnt/stockage/packages/f18/trytond-product/locale/nl_NL.po | 
+ | [ru](/f18/language/ru) | 205 | 318 | 64.5 | /mnt/stockage/packages/f18/trytond-product/locale/ru_RU.po | 
+ | [cs](/f18/language/cs) | 0 | 318 | 0.0 | /mnt/stockage/packages/f18/trytond-product/locale/cs_CZ.po | 
 {.sortable}
 
 

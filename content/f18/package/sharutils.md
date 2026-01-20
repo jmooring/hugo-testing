@@ -18,36 +18,36 @@ The package sharutils (version 4.11.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f18/language/ca.md" >}}) | 1055 | 1055 | 100.0 | /mnt/stockage/packages/f18/sharutils/po/ca.po | 
- | [cs]({{< ref "/f18/language/cs.md" >}}) | 1055 | 1055 | 100.0 | /mnt/stockage/packages/f18/sharutils/po/cs.po | 
- | [da]({{< ref "/f18/language/da.md" >}}) | 1055 | 1055 | 100.0 | /mnt/stockage/packages/f18/sharutils/po/da.po | 
- | [et]({{< ref "/f18/language/et.md" >}}) | 1055 | 1055 | 100.0 | /mnt/stockage/packages/f18/sharutils/po/et.po | 
- | [fi]({{< ref "/f18/language/fi.md" >}}) | 1055 | 1055 | 100.0 | /mnt/stockage/packages/f18/sharutils/po/fi.po | 
- | [fr]({{< ref "/f18/language/fr.md" >}}) | 1055 | 1055 | 100.0 | /mnt/stockage/packages/f18/sharutils/po/fr.po | 
- | [ja]({{< ref "/f18/language/ja.md" >}}) | 1055 | 1055 | 100.0 | /mnt/stockage/packages/f18/sharutils/po/ja.po | 
- | [nl]({{< ref "/f18/language/nl.md" >}}) | 1055 | 1055 | 100.0 | /mnt/stockage/packages/f18/sharutils/po/nl.po | 
- | [pl]({{< ref "/f18/language/pl.md" >}}) | 1055 | 1055 | 100.0 | /mnt/stockage/packages/f18/sharutils/po/pl.po | 
- | [sv]({{< ref "/f18/language/sv.md" >}}) | 1055 | 1055 | 100.0 | /mnt/stockage/packages/f18/sharutils/po/sv.po | 
- | [tr]({{< ref "/f18/language/tr.md" >}}) | 1055 | 1055 | 100.0 | /mnt/stockage/packages/f18/sharutils/po/tr.po | 
- | [uk]({{< ref "/f18/language/uk.md" >}}) | 1055 | 1055 | 100.0 | /mnt/stockage/packages/f18/sharutils/po/uk.po | 
- | [zh_Hans]({{< ref "/f18/language/zh_Hans.md" >}}) | 1055 | 1055 | 100.0 | /mnt/stockage/packages/f18/sharutils/po/zh_CN.po | 
- | [es]({{< ref "/f18/language/es.md" >}}) | 1042 | 1055 | 98.8 | /mnt/stockage/packages/f18/sharutils/po/es.po | 
- | [it]({{< ref "/f18/language/it.md" >}}) | 1042 | 1055 | 98.8 | /mnt/stockage/packages/f18/sharutils/po/it.po | 
- | [vi]({{< ref "/f18/language/vi.md" >}}) | 1042 | 1055 | 98.8 | /mnt/stockage/packages/f18/sharutils/po/vi.po | 
- | [id]({{< ref "/f18/language/id.md" >}}) | 744 | 1055 | 70.5 | /mnt/stockage/packages/f18/sharutils/po/id.po | 
- | [bg]({{< ref "/f18/language/bg.md" >}}) | 652 | 1055 | 61.8 | /mnt/stockage/packages/f18/sharutils/po/bg.po | 
- | [ga]({{< ref "/f18/language/ga.md" >}}) | 652 | 1055 | 61.8 | /mnt/stockage/packages/f18/sharutils/po/ga.po | 
- | [ru]({{< ref "/f18/language/ru.md" >}}) | 652 | 1055 | 61.8 | /mnt/stockage/packages/f18/sharutils/po/ru.po | 
- | [sr]({{< ref "/f18/language/sr.md" >}}) | 601 | 1055 | 57.0 | /mnt/stockage/packages/f18/sharutils/po/sr.po | 
- | [de]({{< ref "/f18/language/de.md" >}}) | 568 | 1055 | 53.8 | /mnt/stockage/packages/f18/sharutils/po/de.po | 
- | [hu]({{< ref "/f18/language/hu.md" >}}) | 524 | 1055 | 49.7 | /mnt/stockage/packages/f18/sharutils/po/hu.po | 
- | [zh_Hant]({{< ref "/f18/language/zh_Hant.md" >}}) | 514 | 1055 | 48.7 | /mnt/stockage/packages/f18/sharutils/po/zh_TW.po | 
- | [el]({{< ref "/f18/language/el.md" >}}) | 470 | 1055 | 44.5 | /mnt/stockage/packages/f18/sharutils/po/el.po | 
- | [gl]({{< ref "/f18/language/gl.md" >}}) | 462 | 1055 | 43.8 | /mnt/stockage/packages/f18/sharutils/po/gl.po | 
- | [pt]({{< ref "/f18/language/pt.md" >}}) | 178 | 1055 | 16.9 | /mnt/stockage/packages/f18/sharutils/po/pt.po | 
- | [nb_NO]({{< ref "/f18/language/nb_NO.md" >}}) | 5 | 1055 | 0.5 | /mnt/stockage/packages/f18/sharutils/po/nb.po | 
- | [rw]({{< ref "/f18/language/rw.md" >}}) | 3 | 1055 | 0.3 | /mnt/stockage/packages/f18/sharutils/po/rw.po | 
- | [nn]({{< ref "/f18/language/nn.md" >}}) | 0 | 1055 | 0.0 | /mnt/stockage/packages/f18/sharutils/po/nn.po | 
+ | [ca](/f18/language/ca) | 1055 | 1055 | 100.0 | /mnt/stockage/packages/f18/sharutils/po/ca.po | 
+ | [cs](/f18/language/cs) | 1055 | 1055 | 100.0 | /mnt/stockage/packages/f18/sharutils/po/cs.po | 
+ | [da](/f18/language/da) | 1055 | 1055 | 100.0 | /mnt/stockage/packages/f18/sharutils/po/da.po | 
+ | [et](/f18/language/et) | 1055 | 1055 | 100.0 | /mnt/stockage/packages/f18/sharutils/po/et.po | 
+ | [fi](/f18/language/fi) | 1055 | 1055 | 100.0 | /mnt/stockage/packages/f18/sharutils/po/fi.po | 
+ | [fr](/f18/language/fr) | 1055 | 1055 | 100.0 | /mnt/stockage/packages/f18/sharutils/po/fr.po | 
+ | [ja](/f18/language/ja) | 1055 | 1055 | 100.0 | /mnt/stockage/packages/f18/sharutils/po/ja.po | 
+ | [nl](/f18/language/nl) | 1055 | 1055 | 100.0 | /mnt/stockage/packages/f18/sharutils/po/nl.po | 
+ | [pl](/f18/language/pl) | 1055 | 1055 | 100.0 | /mnt/stockage/packages/f18/sharutils/po/pl.po | 
+ | [sv](/f18/language/sv) | 1055 | 1055 | 100.0 | /mnt/stockage/packages/f18/sharutils/po/sv.po | 
+ | [tr](/f18/language/tr) | 1055 | 1055 | 100.0 | /mnt/stockage/packages/f18/sharutils/po/tr.po | 
+ | [uk](/f18/language/uk) | 1055 | 1055 | 100.0 | /mnt/stockage/packages/f18/sharutils/po/uk.po | 
+ | [zh_Hans](/f18/language/zh_Hans) | 1055 | 1055 | 100.0 | /mnt/stockage/packages/f18/sharutils/po/zh_CN.po | 
+ | [es](/f18/language/es) | 1042 | 1055 | 98.8 | /mnt/stockage/packages/f18/sharutils/po/es.po | 
+ | [it](/f18/language/it) | 1042 | 1055 | 98.8 | /mnt/stockage/packages/f18/sharutils/po/it.po | 
+ | [vi](/f18/language/vi) | 1042 | 1055 | 98.8 | /mnt/stockage/packages/f18/sharutils/po/vi.po | 
+ | [id](/f18/language/id) | 744 | 1055 | 70.5 | /mnt/stockage/packages/f18/sharutils/po/id.po | 
+ | [bg](/f18/language/bg) | 652 | 1055 | 61.8 | /mnt/stockage/packages/f18/sharutils/po/bg.po | 
+ | [ga](/f18/language/ga) | 652 | 1055 | 61.8 | /mnt/stockage/packages/f18/sharutils/po/ga.po | 
+ | [ru](/f18/language/ru) | 652 | 1055 | 61.8 | /mnt/stockage/packages/f18/sharutils/po/ru.po | 
+ | [sr](/f18/language/sr) | 601 | 1055 | 57.0 | /mnt/stockage/packages/f18/sharutils/po/sr.po | 
+ | [de](/f18/language/de) | 568 | 1055 | 53.8 | /mnt/stockage/packages/f18/sharutils/po/de.po | 
+ | [hu](/f18/language/hu) | 524 | 1055 | 49.7 | /mnt/stockage/packages/f18/sharutils/po/hu.po | 
+ | [zh_Hant](/f18/language/zh_Hant) | 514 | 1055 | 48.7 | /mnt/stockage/packages/f18/sharutils/po/zh_TW.po | 
+ | [el](/f18/language/el) | 470 | 1055 | 44.5 | /mnt/stockage/packages/f18/sharutils/po/el.po | 
+ | [gl](/f18/language/gl) | 462 | 1055 | 43.8 | /mnt/stockage/packages/f18/sharutils/po/gl.po | 
+ | [pt](/f18/language/pt) | 178 | 1055 | 16.9 | /mnt/stockage/packages/f18/sharutils/po/pt.po | 
+ | [nb_NO](/f18/language/nb_NO) | 5 | 1055 | 0.5 | /mnt/stockage/packages/f18/sharutils/po/nb.po | 
+ | [rw](/f18/language/rw) | 3 | 1055 | 0.3 | /mnt/stockage/packages/f18/sharutils/po/rw.po | 
+ | [nn](/f18/language/nn) | 0 | 1055 | 0.0 | /mnt/stockage/packages/f18/sharutils/po/nn.po | 
 {.sortable}
 
 

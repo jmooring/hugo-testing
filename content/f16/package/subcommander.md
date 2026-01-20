@@ -18,8 +18,8 @@ The package subcommander (version 2.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f16/language/de.md" >}}) | 2152 | 2152 | 100.0 | /mnt/stockage/packages/f16/subcommander/po/de.po | 
- | [zh_Hans]({{< ref "/f16/language/zh_Hans.md" >}}) | 2174 | 2174 | 100.0 | /mnt/stockage/packages/f16/subcommander/po/zh_CN.po | 
+ | [de](/f16/language/de) | 2152 | 2152 | 100.0 | /mnt/stockage/packages/f16/subcommander/po/de.po | 
+ | [zh_Hans](/f16/language/zh_Hans) | 2174 | 2174 | 100.0 | /mnt/stockage/packages/f16/subcommander/po/zh_CN.po | 
 {.sortable}
 
 

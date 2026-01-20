@@ -18,7 +18,7 @@ The package ibus-unikey (version 0.7.0~beta1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [vi]({{< ref "/f41/language/vi.md" >}}) | 140 | 140 | 100.0 | /mnt/stockage/packages/f41/ibus-unikey/po/vi.po | 
+ | [vi](/f41/language/vi) | 140 | 140 | 100.0 | /mnt/stockage/packages/f41/ibus-unikey/po/vi.po | 
 {.sortable}
 
 

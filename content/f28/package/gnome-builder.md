@@ -18,47 +18,47 @@ The package gnome-builder (version 3.28.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [bs]({{< ref "/f28/language/bs.md" >}}) | 1857 | 1857 | 100.0 | /mnt/stockage/packages/f28/gnome-builder/po/bs.po | 
- | [ca]({{< ref "/f28/language/ca.md" >}}) | 4093 | 4093 | 100.0 | /mnt/stockage/packages/f28/gnome-builder/po/ca.po | 
- | [cs]({{< ref "/f28/language/cs.md" >}}) | 4176 | 4176 | 100.0 | /mnt/stockage/packages/f28/gnome-builder/po/cs.po | 
- | [da]({{< ref "/f28/language/da.md" >}}) | 4134 | 4134 | 100.0 | /mnt/stockage/packages/f28/gnome-builder/po/da.po | 
- | [de]({{< ref "/f28/language/de.md" >}}) | 4202 | 4202 | 100.0 | /mnt/stockage/packages/f28/gnome-builder/po/de.po | 
- | [en_GB]({{< ref "/f28/language/en_GB.md" >}}) | 4139 | 4139 | 100.0 | /mnt/stockage/packages/f28/gnome-builder/po/en_GB.po | 
- | [es]({{< ref "/f28/language/es.md" >}}) | 4134 | 4134 | 100.0 | /mnt/stockage/packages/f28/gnome-builder/po/es.po | 
- | [gl]({{< ref "/f28/language/gl.md" >}}) | 4134 | 4134 | 100.0 | /mnt/stockage/packages/f28/gnome-builder/po/gl.po | 
- | [hu]({{< ref "/f28/language/hu.md" >}}) | 4176 | 4176 | 100.0 | /mnt/stockage/packages/f28/gnome-builder/po/hu.po | 
- | [id]({{< ref "/f28/language/id.md" >}}) | 4176 | 4176 | 100.0 | /mnt/stockage/packages/f28/gnome-builder/po/id.po | 
- | [it]({{< ref "/f28/language/it.md" >}}) | 4176 | 4176 | 100.0 | /mnt/stockage/packages/f28/gnome-builder/po/it.po | 
- | [ko]({{< ref "/f28/language/ko.md" >}}) | 4134 | 4134 | 100.0 | /mnt/stockage/packages/f28/gnome-builder/po/ko.po | 
- | [lt]({{< ref "/f28/language/lt.md" >}}) | 4161 | 4161 | 100.0 | /mnt/stockage/packages/f28/gnome-builder/po/lt.po | 
- | [lv]({{< ref "/f28/language/lv.md" >}}) | 4139 | 4139 | 100.0 | /mnt/stockage/packages/f28/gnome-builder/po/lv.po | 
- | [nl]({{< ref "/f28/language/nl.md" >}}) | 4139 | 4139 | 100.0 | /mnt/stockage/packages/f28/gnome-builder/po/nl.po | 
- | [pl]({{< ref "/f28/language/pl.md" >}}) | 4220 | 4220 | 100.0 | /mnt/stockage/packages/f28/gnome-builder/po/pl.po | 
- | [pt_BR]({{< ref "/f28/language/pt_BR.md" >}}) | 4202 | 4202 | 100.0 | /mnt/stockage/packages/f28/gnome-builder/po/pt_BR.po | 
- | [ro]({{< ref "/f28/language/ro.md" >}}) | 4161 | 4161 | 100.0 | /mnt/stockage/packages/f28/gnome-builder/po/ro.po | 
- | [ru]({{< ref "/f28/language/ru.md" >}}) | 3326 | 3326 | 100.0 | /mnt/stockage/packages/f28/gnome-builder/po/ru.po | 
- | [sr]({{< ref "/f28/language/sr.md" >}}) | 8268 | 8268 | 100.0 | /mnt/stockage/packages/f28/gnome-builder/po/sr.po/mnt/stockage/packages/f28/gnome-builder/po/sr@latin.po | 
- | [sv]({{< ref "/f28/language/sv.md" >}}) | 4176 | 4176 | 100.0 | /mnt/stockage/packages/f28/gnome-builder/po/sv.po | 
- | [tr]({{< ref "/f28/language/tr.md" >}}) | 4161 | 4161 | 100.0 | /mnt/stockage/packages/f28/gnome-builder/po/tr.po | 
- | [uk]({{< ref "/f28/language/uk.md" >}}) | 2003 | 2003 | 100.0 | /mnt/stockage/packages/f28/gnome-builder/po/uk.po | 
- | [zh_Hans]({{< ref "/f28/language/zh_Hans.md" >}}) | 3105 | 3105 | 100.0 | /mnt/stockage/packages/f28/gnome-builder/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f28/language/zh_Hant.md" >}}) | 3157 | 3211 | 98.3 | /mnt/stockage/packages/f28/gnome-builder/po/zh_TW.po | 
- | [fr]({{< ref "/f28/language/fr.md" >}}) | 4062 | 4134 | 98.3 | /mnt/stockage/packages/f28/gnome-builder/po/fr.po | 
- | [sl]({{< ref "/f28/language/sl.md" >}}) | 3897 | 4139 | 94.2 | /mnt/stockage/packages/f28/gnome-builder/po/sl.po | 
- | [he]({{< ref "/f28/language/he.md" >}}) | 2920 | 3123 | 93.5 | /mnt/stockage/packages/f28/gnome-builder/po/he.po | 
- | [oc]({{< ref "/f28/language/oc.md" >}}) | 3782 | 4098 | 92.3 | /mnt/stockage/packages/f28/gnome-builder/po/oc.po | 
- | [sk]({{< ref "/f28/language/sk.md" >}}) | 2702 | 3682 | 73.4 | /mnt/stockage/packages/f28/gnome-builder/po/sk.po | 
- | [pt]({{< ref "/f28/language/pt.md" >}}) | 2034 | 3486 | 58.3 | /mnt/stockage/packages/f28/gnome-builder/po/pt.po | 
- | [el]({{< ref "/f28/language/el.md" >}}) | 2108 | 4093 | 51.5 | /mnt/stockage/packages/f28/gnome-builder/po/el.po | 
- | [kk]({{< ref "/f28/language/kk.md" >}}) | 2083 | 4134 | 50.4 | /mnt/stockage/packages/f28/gnome-builder/po/kk.po | 
- | [ne]({{< ref "/f28/language/ne.md" >}}) | 1226 | 3662 | 33.5 | /mnt/stockage/packages/f28/gnome-builder/po/ne.po | 
- | [nb_NO]({{< ref "/f28/language/nb_NO.md" >}}) | 879 | 3099 | 28.4 | /mnt/stockage/packages/f28/gnome-builder/po/nb.po | 
- | [fur]({{< ref "/f28/language/fur.md" >}}) | 1069 | 4093 | 26.1 | /mnt/stockage/packages/f28/gnome-builder/po/fur.po | 
- | [ja]({{< ref "/f28/language/ja.md" >}}) | 836 | 3662 | 22.8 | /mnt/stockage/packages/f28/gnome-builder/po/ja.po | 
- | [fi]({{< ref "/f28/language/fi.md" >}}) | 761 | 4066 | 18.7 | /mnt/stockage/packages/f28/gnome-builder/po/fi.po | 
- | [eo]({{< ref "/f28/language/eo.md" >}}) | 388 | 3170 | 12.2 | /mnt/stockage/packages/f28/gnome-builder/po/eo.po | 
- | [ca@valencia]({{< ref "/f28/language/ca@valencia.md" >}}) | 410 | 3682 | 11.1 | /mnt/stockage/packages/f28/gnome-builder/po/ca@valencia.po | 
- | [ml]({{< ref "/f28/language/ml.md" >}}) | 346 | 3486 | 9.9 | /mnt/stockage/packages/f28/gnome-builder/po/ml.po | 
+ | [bs](/f28/language/bs) | 1857 | 1857 | 100.0 | /mnt/stockage/packages/f28/gnome-builder/po/bs.po | 
+ | [ca](/f28/language/ca) | 4093 | 4093 | 100.0 | /mnt/stockage/packages/f28/gnome-builder/po/ca.po | 
+ | [cs](/f28/language/cs) | 4176 | 4176 | 100.0 | /mnt/stockage/packages/f28/gnome-builder/po/cs.po | 
+ | [da](/f28/language/da) | 4134 | 4134 | 100.0 | /mnt/stockage/packages/f28/gnome-builder/po/da.po | 
+ | [de](/f28/language/de) | 4202 | 4202 | 100.0 | /mnt/stockage/packages/f28/gnome-builder/po/de.po | 
+ | [en_GB](/f28/language/en_GB) | 4139 | 4139 | 100.0 | /mnt/stockage/packages/f28/gnome-builder/po/en_GB.po | 
+ | [es](/f28/language/es) | 4134 | 4134 | 100.0 | /mnt/stockage/packages/f28/gnome-builder/po/es.po | 
+ | [gl](/f28/language/gl) | 4134 | 4134 | 100.0 | /mnt/stockage/packages/f28/gnome-builder/po/gl.po | 
+ | [hu](/f28/language/hu) | 4176 | 4176 | 100.0 | /mnt/stockage/packages/f28/gnome-builder/po/hu.po | 
+ | [id](/f28/language/id) | 4176 | 4176 | 100.0 | /mnt/stockage/packages/f28/gnome-builder/po/id.po | 
+ | [it](/f28/language/it) | 4176 | 4176 | 100.0 | /mnt/stockage/packages/f28/gnome-builder/po/it.po | 
+ | [ko](/f28/language/ko) | 4134 | 4134 | 100.0 | /mnt/stockage/packages/f28/gnome-builder/po/ko.po | 
+ | [lt](/f28/language/lt) | 4161 | 4161 | 100.0 | /mnt/stockage/packages/f28/gnome-builder/po/lt.po | 
+ | [lv](/f28/language/lv) | 4139 | 4139 | 100.0 | /mnt/stockage/packages/f28/gnome-builder/po/lv.po | 
+ | [nl](/f28/language/nl) | 4139 | 4139 | 100.0 | /mnt/stockage/packages/f28/gnome-builder/po/nl.po | 
+ | [pl](/f28/language/pl) | 4220 | 4220 | 100.0 | /mnt/stockage/packages/f28/gnome-builder/po/pl.po | 
+ | [pt_BR](/f28/language/pt_BR) | 4202 | 4202 | 100.0 | /mnt/stockage/packages/f28/gnome-builder/po/pt_BR.po | 
+ | [ro](/f28/language/ro) | 4161 | 4161 | 100.0 | /mnt/stockage/packages/f28/gnome-builder/po/ro.po | 
+ | [ru](/f28/language/ru) | 3326 | 3326 | 100.0 | /mnt/stockage/packages/f28/gnome-builder/po/ru.po | 
+ | [sr](/f28/language/sr) | 8268 | 8268 | 100.0 | /mnt/stockage/packages/f28/gnome-builder/po/sr.po/mnt/stockage/packages/f28/gnome-builder/po/sr@latin.po | 
+ | [sv](/f28/language/sv) | 4176 | 4176 | 100.0 | /mnt/stockage/packages/f28/gnome-builder/po/sv.po | 
+ | [tr](/f28/language/tr) | 4161 | 4161 | 100.0 | /mnt/stockage/packages/f28/gnome-builder/po/tr.po | 
+ | [uk](/f28/language/uk) | 2003 | 2003 | 100.0 | /mnt/stockage/packages/f28/gnome-builder/po/uk.po | 
+ | [zh_Hans](/f28/language/zh_Hans) | 3105 | 3105 | 100.0 | /mnt/stockage/packages/f28/gnome-builder/po/zh_CN.po | 
+ | [zh_Hant](/f28/language/zh_Hant) | 3157 | 3211 | 98.3 | /mnt/stockage/packages/f28/gnome-builder/po/zh_TW.po | 
+ | [fr](/f28/language/fr) | 4062 | 4134 | 98.3 | /mnt/stockage/packages/f28/gnome-builder/po/fr.po | 
+ | [sl](/f28/language/sl) | 3897 | 4139 | 94.2 | /mnt/stockage/packages/f28/gnome-builder/po/sl.po | 
+ | [he](/f28/language/he) | 2920 | 3123 | 93.5 | /mnt/stockage/packages/f28/gnome-builder/po/he.po | 
+ | [oc](/f28/language/oc) | 3782 | 4098 | 92.3 | /mnt/stockage/packages/f28/gnome-builder/po/oc.po | 
+ | [sk](/f28/language/sk) | 2702 | 3682 | 73.4 | /mnt/stockage/packages/f28/gnome-builder/po/sk.po | 
+ | [pt](/f28/language/pt) | 2034 | 3486 | 58.3 | /mnt/stockage/packages/f28/gnome-builder/po/pt.po | 
+ | [el](/f28/language/el) | 2108 | 4093 | 51.5 | /mnt/stockage/packages/f28/gnome-builder/po/el.po | 
+ | [kk](/f28/language/kk) | 2083 | 4134 | 50.4 | /mnt/stockage/packages/f28/gnome-builder/po/kk.po | 
+ | [ne](/f28/language/ne) | 1226 | 3662 | 33.5 | /mnt/stockage/packages/f28/gnome-builder/po/ne.po | 
+ | [nb_NO](/f28/language/nb_NO) | 879 | 3099 | 28.4 | /mnt/stockage/packages/f28/gnome-builder/po/nb.po | 
+ | [fur](/f28/language/fur) | 1069 | 4093 | 26.1 | /mnt/stockage/packages/f28/gnome-builder/po/fur.po | 
+ | [ja](/f28/language/ja) | 836 | 3662 | 22.8 | /mnt/stockage/packages/f28/gnome-builder/po/ja.po | 
+ | [fi](/f28/language/fi) | 761 | 4066 | 18.7 | /mnt/stockage/packages/f28/gnome-builder/po/fi.po | 
+ | [eo](/f28/language/eo) | 388 | 3170 | 12.2 | /mnt/stockage/packages/f28/gnome-builder/po/eo.po | 
+ | [ca@valencia](/f28/language/ca@valencia) | 410 | 3682 | 11.1 | /mnt/stockage/packages/f28/gnome-builder/po/ca@valencia.po | 
+ | [ml](/f28/language/ml) | 346 | 3486 | 9.9 | /mnt/stockage/packages/f28/gnome-builder/po/ml.po | 
 {.sortable}
 
 

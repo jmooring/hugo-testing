@@ -18,8 +18,8 @@ The package fcitx-sunpinyin (version 0.4.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [zh_Hans]({{< ref "/f19/language/zh_Hans.md" >}}) | 104 | 104 | 100.0 | /mnt/stockage/packages/f19/fcitx-sunpinyin/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f19/language/zh_Hant.md" >}}) | 104 | 104 | 100.0 | /mnt/stockage/packages/f19/fcitx-sunpinyin/po/zh_TW.po | 
+ | [zh_Hans](/f19/language/zh_Hans) | 104 | 104 | 100.0 | /mnt/stockage/packages/f19/fcitx-sunpinyin/po/zh_CN.po | 
+ | [zh_Hant](/f19/language/zh_Hant) | 104 | 104 | 100.0 | /mnt/stockage/packages/f19/fcitx-sunpinyin/po/zh_TW.po | 
 {.sortable}
 
 

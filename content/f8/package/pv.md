@@ -18,10 +18,10 @@ The package pv (version 1.1.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f8/language/fr.md" >}}) | 125 | 279 | 44.8 | /mnt/stockage/packages/f8/pv/src/nls/fr.po | 
- | [de]({{< ref "/f8/language/de.md" >}}) | 121 | 279 | 43.4 | /mnt/stockage/packages/f8/pv/src/nls/de.po | 
- | [pt]({{< ref "/f8/language/pt.md" >}}) | 121 | 279 | 43.4 | /mnt/stockage/packages/f8/pv/src/nls/pt.po | 
- | [pl]({{< ref "/f8/language/pl.md" >}}) | 96 | 279 | 34.4 | /mnt/stockage/packages/f8/pv/src/nls/pl.po | 
+ | [fr](/f8/language/fr) | 125 | 279 | 44.8 | /mnt/stockage/packages/f8/pv/src/nls/fr.po | 
+ | [de](/f8/language/de) | 121 | 279 | 43.4 | /mnt/stockage/packages/f8/pv/src/nls/de.po | 
+ | [pt](/f8/language/pt) | 121 | 279 | 43.4 | /mnt/stockage/packages/f8/pv/src/nls/pt.po | 
+ | [pl](/f8/language/pl) | 96 | 279 | 34.4 | /mnt/stockage/packages/f8/pv/src/nls/pl.po | 
 {.sortable}
 
 

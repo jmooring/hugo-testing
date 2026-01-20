@@ -18,31 +18,31 @@ The package bognor-regis (version 0.5.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f12/language/ca.md" >}}) | 27 | 27 | 100.0 | /mnt/stockage/packages/f12/bognor-regis/po/ca.po | 
- | [da]({{< ref "/f12/language/da.md" >}}) | 1 | 1 | 100.0 | /mnt/stockage/packages/f12/bognor-regis/po/da.po | 
- | [de]({{< ref "/f12/language/de.md" >}}) | 27 | 27 | 100.0 | /mnt/stockage/packages/f12/bognor-regis/po/de.po | 
- | [es]({{< ref "/f12/language/es.md" >}}) | 27 | 27 | 100.0 | /mnt/stockage/packages/f12/bognor-regis/po/es.po | 
- | [eu]({{< ref "/f12/language/eu.md" >}}) | 27 | 27 | 100.0 | /mnt/stockage/packages/f12/bognor-regis/po/eu.po | 
- | [fi]({{< ref "/f12/language/fi.md" >}}) | 27 | 27 | 100.0 | /mnt/stockage/packages/f12/bognor-regis/po/fi.po | 
- | [fr]({{< ref "/f12/language/fr.md" >}}) | 27 | 27 | 100.0 | /mnt/stockage/packages/f12/bognor-regis/po/fr.po | 
- | [gl]({{< ref "/f12/language/gl.md" >}}) | 27 | 27 | 100.0 | /mnt/stockage/packages/f12/bognor-regis/po/gl.po | 
- | [id]({{< ref "/f12/language/id.md" >}}) | 27 | 27 | 100.0 | /mnt/stockage/packages/f12/bognor-regis/po/id.po | 
- | [it]({{< ref "/f12/language/it.md" >}}) | 27 | 27 | 100.0 | /mnt/stockage/packages/f12/bognor-regis/po/it.po | 
- | [ja]({{< ref "/f12/language/ja.md" >}}) | 27 | 27 | 100.0 | /mnt/stockage/packages/f12/bognor-regis/po/ja.po | 
- | [ko]({{< ref "/f12/language/ko.md" >}}) | 27 | 27 | 100.0 | /mnt/stockage/packages/f12/bognor-regis/po/ko.po | 
- | [nl]({{< ref "/f12/language/nl.md" >}}) | 27 | 27 | 100.0 | /mnt/stockage/packages/f12/bognor-regis/po/nl.po | 
- | [pa]({{< ref "/f12/language/pa.md" >}}) | 27 | 27 | 100.0 | /mnt/stockage/packages/f12/bognor-regis/po/pa.po | 
- | [pl]({{< ref "/f12/language/pl.md" >}}) | 27 | 27 | 100.0 | /mnt/stockage/packages/f12/bognor-regis/po/pl.po | 
- | [pt_BR]({{< ref "/f12/language/pt_BR.md" >}}) | 27 | 27 | 100.0 | /mnt/stockage/packages/f12/bognor-regis/po/pt_BR.po | 
- | [ro]({{< ref "/f12/language/ro.md" >}}) | 27 | 27 | 100.0 | /mnt/stockage/packages/f12/bognor-regis/po/ro.po | 
- | [sv]({{< ref "/f12/language/sv.md" >}}) | 27 | 27 | 100.0 | /mnt/stockage/packages/f12/bognor-regis/po/sv.po | 
- | [tr]({{< ref "/f12/language/tr.md" >}}) | 27 | 27 | 100.0 | /mnt/stockage/packages/f12/bognor-regis/po/tr.po | 
- | [uk]({{< ref "/f12/language/uk.md" >}}) | 27 | 27 | 100.0 | /mnt/stockage/packages/f12/bognor-regis/po/uk.po | 
- | [wa]({{< ref "/f12/language/wa.md" >}}) | 27 | 27 | 100.0 | /mnt/stockage/packages/f12/bognor-regis/po/wa.po | 
- | [zh_Hans]({{< ref "/f12/language/zh_Hans.md" >}}) | 27 | 27 | 100.0 | /mnt/stockage/packages/f12/bognor-regis/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f12/language/zh_Hant.md" >}}) | 27 | 27 | 100.0 | /mnt/stockage/packages/f12/bognor-regis/po/zh_TW.po | 
- | [ms]({{< ref "/f12/language/ms.md" >}}) | 1 | 27 | 3.7 | /mnt/stockage/packages/f12/bognor-regis/po/ms.po | 
- | [th]({{< ref "/f12/language/th.md" >}}) | 1 | 27 | 3.7 | /mnt/stockage/packages/f12/bognor-regis/po/th.po | 
+ | [ca](/f12/language/ca) | 27 | 27 | 100.0 | /mnt/stockage/packages/f12/bognor-regis/po/ca.po | 
+ | [da](/f12/language/da) | 1 | 1 | 100.0 | /mnt/stockage/packages/f12/bognor-regis/po/da.po | 
+ | [de](/f12/language/de) | 27 | 27 | 100.0 | /mnt/stockage/packages/f12/bognor-regis/po/de.po | 
+ | [es](/f12/language/es) | 27 | 27 | 100.0 | /mnt/stockage/packages/f12/bognor-regis/po/es.po | 
+ | [eu](/f12/language/eu) | 27 | 27 | 100.0 | /mnt/stockage/packages/f12/bognor-regis/po/eu.po | 
+ | [fi](/f12/language/fi) | 27 | 27 | 100.0 | /mnt/stockage/packages/f12/bognor-regis/po/fi.po | 
+ | [fr](/f12/language/fr) | 27 | 27 | 100.0 | /mnt/stockage/packages/f12/bognor-regis/po/fr.po | 
+ | [gl](/f12/language/gl) | 27 | 27 | 100.0 | /mnt/stockage/packages/f12/bognor-regis/po/gl.po | 
+ | [id](/f12/language/id) | 27 | 27 | 100.0 | /mnt/stockage/packages/f12/bognor-regis/po/id.po | 
+ | [it](/f12/language/it) | 27 | 27 | 100.0 | /mnt/stockage/packages/f12/bognor-regis/po/it.po | 
+ | [ja](/f12/language/ja) | 27 | 27 | 100.0 | /mnt/stockage/packages/f12/bognor-regis/po/ja.po | 
+ | [ko](/f12/language/ko) | 27 | 27 | 100.0 | /mnt/stockage/packages/f12/bognor-regis/po/ko.po | 
+ | [nl](/f12/language/nl) | 27 | 27 | 100.0 | /mnt/stockage/packages/f12/bognor-regis/po/nl.po | 
+ | [pa](/f12/language/pa) | 27 | 27 | 100.0 | /mnt/stockage/packages/f12/bognor-regis/po/pa.po | 
+ | [pl](/f12/language/pl) | 27 | 27 | 100.0 | /mnt/stockage/packages/f12/bognor-regis/po/pl.po | 
+ | [pt_BR](/f12/language/pt_BR) | 27 | 27 | 100.0 | /mnt/stockage/packages/f12/bognor-regis/po/pt_BR.po | 
+ | [ro](/f12/language/ro) | 27 | 27 | 100.0 | /mnt/stockage/packages/f12/bognor-regis/po/ro.po | 
+ | [sv](/f12/language/sv) | 27 | 27 | 100.0 | /mnt/stockage/packages/f12/bognor-regis/po/sv.po | 
+ | [tr](/f12/language/tr) | 27 | 27 | 100.0 | /mnt/stockage/packages/f12/bognor-regis/po/tr.po | 
+ | [uk](/f12/language/uk) | 27 | 27 | 100.0 | /mnt/stockage/packages/f12/bognor-regis/po/uk.po | 
+ | [wa](/f12/language/wa) | 27 | 27 | 100.0 | /mnt/stockage/packages/f12/bognor-regis/po/wa.po | 
+ | [zh_Hans](/f12/language/zh_Hans) | 27 | 27 | 100.0 | /mnt/stockage/packages/f12/bognor-regis/po/zh_CN.po | 
+ | [zh_Hant](/f12/language/zh_Hant) | 27 | 27 | 100.0 | /mnt/stockage/packages/f12/bognor-regis/po/zh_TW.po | 
+ | [ms](/f12/language/ms) | 1 | 27 | 3.7 | /mnt/stockage/packages/f12/bognor-regis/po/ms.po | 
+ | [th](/f12/language/th) | 1 | 27 | 3.7 | /mnt/stockage/packages/f12/bognor-regis/po/th.po | 
 {.sortable}
 
 

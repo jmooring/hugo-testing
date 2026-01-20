@@ -18,37 +18,37 @@ The package pulseaudio (version 0.9.21):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f12/language/cs.md" >}}) | 2849 | 2849 | 100.0 | /mnt/stockage/packages/f12/pulseaudio/po/cs.po | 
- | [es]({{< ref "/f12/language/es.md" >}}) | 2849 | 2849 | 100.0 | /mnt/stockage/packages/f12/pulseaudio/po/es.po | 
- | [it]({{< ref "/f12/language/it.md" >}}) | 2849 | 2849 | 100.0 | /mnt/stockage/packages/f12/pulseaudio/po/it.po | 
- | [nl]({{< ref "/f12/language/nl.md" >}}) | 2849 | 2849 | 100.0 | /mnt/stockage/packages/f12/pulseaudio/po/nl.po | 
- | [pl]({{< ref "/f12/language/pl.md" >}}) | 2849 | 2849 | 100.0 | /mnt/stockage/packages/f12/pulseaudio/po/pl.po | 
- | [pt_BR]({{< ref "/f12/language/pt_BR.md" >}}) | 2849 | 2849 | 100.0 | /mnt/stockage/packages/f12/pulseaudio/po/pt_BR.po | 
- | [sr]({{< ref "/f12/language/sr.md" >}}) | 2849 | 2849 | 100.0 | /mnt/stockage/packages/f12/pulseaudio/po/sr.po | 
- | [sr_Latn]({{< ref "/f12/language/sr_Latn.md" >}}) | 2849 | 2849 | 100.0 | /mnt/stockage/packages/f12/pulseaudio/po/sr@latin.po | 
- | [uk]({{< ref "/f12/language/uk.md" >}}) | 2849 | 2849 | 100.0 | /mnt/stockage/packages/f12/pulseaudio/po/uk.po | 
- | [fi]({{< ref "/f12/language/fi.md" >}}) | 2836 | 2849 | 99.5 | /mnt/stockage/packages/f12/pulseaudio/po/fi.po | 
- | [ca]({{< ref "/f12/language/ca.md" >}}) | 2759 | 2849 | 96.8 | /mnt/stockage/packages/f12/pulseaudio/po/ca.po | 
- | [pt]({{< ref "/f12/language/pt.md" >}}) | 2756 | 2849 | 96.7 | /mnt/stockage/packages/f12/pulseaudio/po/pt.po | 
- | [gu]({{< ref "/f12/language/gu.md" >}}) | 2726 | 2849 | 95.7 | /mnt/stockage/packages/f12/pulseaudio/po/gu.po | 
- | [hi]({{< ref "/f12/language/hi.md" >}}) | 2726 | 2849 | 95.7 | /mnt/stockage/packages/f12/pulseaudio/po/hi.po | 
- | [kn]({{< ref "/f12/language/kn.md" >}}) | 2726 | 2849 | 95.7 | /mnt/stockage/packages/f12/pulseaudio/po/kn.po | 
- | [ml]({{< ref "/f12/language/ml.md" >}}) | 2726 | 2849 | 95.7 | /mnt/stockage/packages/f12/pulseaudio/po/ml.po | 
- | [mr]({{< ref "/f12/language/mr.md" >}}) | 2726 | 2849 | 95.7 | /mnt/stockage/packages/f12/pulseaudio/po/mr.po | 
- | [or]({{< ref "/f12/language/or.md" >}}) | 2726 | 2849 | 95.7 | /mnt/stockage/packages/f12/pulseaudio/po/or.po | 
- | [pa]({{< ref "/f12/language/pa.md" >}}) | 2726 | 2849 | 95.7 | /mnt/stockage/packages/f12/pulseaudio/po/pa.po | 
- | [ta]({{< ref "/f12/language/ta.md" >}}) | 2726 | 2849 | 95.7 | /mnt/stockage/packages/f12/pulseaudio/po/ta.po | 
- | [te]({{< ref "/f12/language/te.md" >}}) | 2726 | 2849 | 95.7 | /mnt/stockage/packages/f12/pulseaudio/po/te.po | 
- | [bn_IN]({{< ref "/f12/language/bn_IN.md" >}}) | 2720 | 2849 | 95.5 | /mnt/stockage/packages/f12/pulseaudio/po/bn_IN.po | 
- | [as]({{< ref "/f12/language/as.md" >}}) | 2694 | 2849 | 94.6 | /mnt/stockage/packages/f12/pulseaudio/po/as.po | 
- | [hu]({{< ref "/f12/language/hu.md" >}}) | 2582 | 2849 | 90.6 | /mnt/stockage/packages/f12/pulseaudio/po/hu.po | 
- | [de]({{< ref "/f12/language/de.md" >}}) | 2091 | 2849 | 73.4 | /mnt/stockage/packages/f12/pulseaudio/po/de.po | 
- | [de_CH]({{< ref "/f12/language/de_CH.md" >}}) | 2041 | 2849 | 71.6 | /mnt/stockage/packages/f12/pulseaudio/po/de_CH.po | 
- | [fr]({{< ref "/f12/language/fr.md" >}}) | 1721 | 2849 | 60.4 | /mnt/stockage/packages/f12/pulseaudio/po/fr.po | 
- | [zh_Hans]({{< ref "/f12/language/zh_Hans.md" >}}) | 1721 | 2849 | 60.4 | /mnt/stockage/packages/f12/pulseaudio/po/zh_CN.po | 
- | [sv]({{< ref "/f12/language/sv.md" >}}) | 248 | 2849 | 8.7 | /mnt/stockage/packages/f12/pulseaudio/po/sv.po | 
- | [el]({{< ref "/f12/language/el.md" >}}) | 223 | 2849 | 7.8 | /mnt/stockage/packages/f12/pulseaudio/po/el.po | 
- | [ja]({{< ref "/f12/language/ja.md" >}}) | 11 | 2849 | 0.4 | /mnt/stockage/packages/f12/pulseaudio/po/ja.po | 
+ | [cs](/f12/language/cs) | 2849 | 2849 | 100.0 | /mnt/stockage/packages/f12/pulseaudio/po/cs.po | 
+ | [es](/f12/language/es) | 2849 | 2849 | 100.0 | /mnt/stockage/packages/f12/pulseaudio/po/es.po | 
+ | [it](/f12/language/it) | 2849 | 2849 | 100.0 | /mnt/stockage/packages/f12/pulseaudio/po/it.po | 
+ | [nl](/f12/language/nl) | 2849 | 2849 | 100.0 | /mnt/stockage/packages/f12/pulseaudio/po/nl.po | 
+ | [pl](/f12/language/pl) | 2849 | 2849 | 100.0 | /mnt/stockage/packages/f12/pulseaudio/po/pl.po | 
+ | [pt_BR](/f12/language/pt_BR) | 2849 | 2849 | 100.0 | /mnt/stockage/packages/f12/pulseaudio/po/pt_BR.po | 
+ | [sr](/f12/language/sr) | 2849 | 2849 | 100.0 | /mnt/stockage/packages/f12/pulseaudio/po/sr.po | 
+ | [sr_Latn](/f12/language/sr_Latn) | 2849 | 2849 | 100.0 | /mnt/stockage/packages/f12/pulseaudio/po/sr@latin.po | 
+ | [uk](/f12/language/uk) | 2849 | 2849 | 100.0 | /mnt/stockage/packages/f12/pulseaudio/po/uk.po | 
+ | [fi](/f12/language/fi) | 2836 | 2849 | 99.5 | /mnt/stockage/packages/f12/pulseaudio/po/fi.po | 
+ | [ca](/f12/language/ca) | 2759 | 2849 | 96.8 | /mnt/stockage/packages/f12/pulseaudio/po/ca.po | 
+ | [pt](/f12/language/pt) | 2756 | 2849 | 96.7 | /mnt/stockage/packages/f12/pulseaudio/po/pt.po | 
+ | [gu](/f12/language/gu) | 2726 | 2849 | 95.7 | /mnt/stockage/packages/f12/pulseaudio/po/gu.po | 
+ | [hi](/f12/language/hi) | 2726 | 2849 | 95.7 | /mnt/stockage/packages/f12/pulseaudio/po/hi.po | 
+ | [kn](/f12/language/kn) | 2726 | 2849 | 95.7 | /mnt/stockage/packages/f12/pulseaudio/po/kn.po | 
+ | [ml](/f12/language/ml) | 2726 | 2849 | 95.7 | /mnt/stockage/packages/f12/pulseaudio/po/ml.po | 
+ | [mr](/f12/language/mr) | 2726 | 2849 | 95.7 | /mnt/stockage/packages/f12/pulseaudio/po/mr.po | 
+ | [or](/f12/language/or) | 2726 | 2849 | 95.7 | /mnt/stockage/packages/f12/pulseaudio/po/or.po | 
+ | [pa](/f12/language/pa) | 2726 | 2849 | 95.7 | /mnt/stockage/packages/f12/pulseaudio/po/pa.po | 
+ | [ta](/f12/language/ta) | 2726 | 2849 | 95.7 | /mnt/stockage/packages/f12/pulseaudio/po/ta.po | 
+ | [te](/f12/language/te) | 2726 | 2849 | 95.7 | /mnt/stockage/packages/f12/pulseaudio/po/te.po | 
+ | [bn_IN](/f12/language/bn_IN) | 2720 | 2849 | 95.5 | /mnt/stockage/packages/f12/pulseaudio/po/bn_IN.po | 
+ | [as](/f12/language/as) | 2694 | 2849 | 94.6 | /mnt/stockage/packages/f12/pulseaudio/po/as.po | 
+ | [hu](/f12/language/hu) | 2582 | 2849 | 90.6 | /mnt/stockage/packages/f12/pulseaudio/po/hu.po | 
+ | [de](/f12/language/de) | 2091 | 2849 | 73.4 | /mnt/stockage/packages/f12/pulseaudio/po/de.po | 
+ | [de_CH](/f12/language/de_CH) | 2041 | 2849 | 71.6 | /mnt/stockage/packages/f12/pulseaudio/po/de_CH.po | 
+ | [fr](/f12/language/fr) | 1721 | 2849 | 60.4 | /mnt/stockage/packages/f12/pulseaudio/po/fr.po | 
+ | [zh_Hans](/f12/language/zh_Hans) | 1721 | 2849 | 60.4 | /mnt/stockage/packages/f12/pulseaudio/po/zh_CN.po | 
+ | [sv](/f12/language/sv) | 248 | 2849 | 8.7 | /mnt/stockage/packages/f12/pulseaudio/po/sv.po | 
+ | [el](/f12/language/el) | 223 | 2849 | 7.8 | /mnt/stockage/packages/f12/pulseaudio/po/el.po | 
+ | [ja](/f12/language/ja) | 11 | 2849 | 0.4 | /mnt/stockage/packages/f12/pulseaudio/po/ja.po | 
 {.sortable}
 
 

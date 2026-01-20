@@ -18,8 +18,8 @@ The package boost (version 1.53.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [he_IL]({{< ref "/f19/language/he_IL.md" >}}) | 1 | 1 | 100.0 | /mnt/stockage/packages/f19/boost/libs/locale/test/he_IL/LC_MESSAGES/full.po | 
- | [he]({{< ref "/f19/language/he.md" >}}) | 17 | 19 | 89.5 | /mnt/stockage/packages/f19/boost/libs/locale/test/he/LC_MESSAGES/default.po/mnt/stockage/packages/f19/boost/libs/locale/test/he/LC_MESSAGES/fall.po/mnt/stockage/packages/f19/boost/libs/locale/test/he/LC_MESSAGES/simple.po | 
+ | [he_IL](/f19/language/he_IL) | 1 | 1 | 100.0 | /mnt/stockage/packages/f19/boost/libs/locale/test/he_IL/LC_MESSAGES/full.po | 
+ | [he](/f19/language/he) | 17 | 19 | 89.5 | /mnt/stockage/packages/f19/boost/libs/locale/test/he/LC_MESSAGES/default.po/mnt/stockage/packages/f19/boost/libs/locale/test/he/LC_MESSAGES/fall.po/mnt/stockage/packages/f19/boost/libs/locale/test/he/LC_MESSAGES/simple.po | 
 {.sortable}
 
 

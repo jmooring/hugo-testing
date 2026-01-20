@@ -18,26 +18,26 @@ The package virtaal (version 0.4.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [af]({{< ref "/f10/language/af.md" >}}) | 1011 | 1011 | 100.0 | /mnt/stockage/packages/f10/virtaal/po/af.po | 
- | [ar]({{< ref "/f10/language/ar.md" >}}) | 1011 | 1011 | 100.0 | /mnt/stockage/packages/f10/virtaal/po/ar.po | 
- | [bn_IN]({{< ref "/f10/language/bn_IN.md" >}}) | 1011 | 1011 | 100.0 | /mnt/stockage/packages/f10/virtaal/po/bn_IN.po | 
- | [ca]({{< ref "/f10/language/ca.md" >}}) | 1011 | 1011 | 100.0 | /mnt/stockage/packages/f10/virtaal/po/ca.po | 
- | [ca@valencia]({{< ref "/f10/language/ca@valencia.md" >}}) | 1011 | 1011 | 100.0 | /mnt/stockage/packages/f10/virtaal/po/ca@valencia.po | 
- | [es]({{< ref "/f10/language/es.md" >}}) | 1011 | 1011 | 100.0 | /mnt/stockage/packages/f10/virtaal/po/es.po | 
- | [eu]({{< ref "/f10/language/eu.md" >}}) | 1011 | 1011 | 100.0 | /mnt/stockage/packages/f10/virtaal/po/eu.po | 
- | [fr]({{< ref "/f10/language/fr.md" >}}) | 1011 | 1011 | 100.0 | /mnt/stockage/packages/f10/virtaal/po/fr.po | 
- | [gl]({{< ref "/f10/language/gl.md" >}}) | 1011 | 1011 | 100.0 | /mnt/stockage/packages/f10/virtaal/po/gl.po | 
- | [it]({{< ref "/f10/language/it.md" >}}) | 1011 | 1011 | 100.0 | /mnt/stockage/packages/f10/virtaal/po/it.po | 
- | [ne]({{< ref "/f10/language/ne.md" >}}) | 675 | 675 | 100.0 | /mnt/stockage/packages/f10/virtaal/po/ne.po | 
- | [nl]({{< ref "/f10/language/nl.md" >}}) | 1011 | 1011 | 100.0 | /mnt/stockage/packages/f10/virtaal/po/nl.po | 
- | [pt_BR]({{< ref "/f10/language/pt_BR.md" >}}) | 1011 | 1011 | 100.0 | /mnt/stockage/packages/f10/virtaal/po/pt_BR.po | 
- | [ru]({{< ref "/f10/language/ru.md" >}}) | 1011 | 1011 | 100.0 | /mnt/stockage/packages/f10/virtaal/po/ru.po | 
- | [sv]({{< ref "/f10/language/sv.md" >}}) | 675 | 675 | 100.0 | /mnt/stockage/packages/f10/virtaal/po/sv.po | 
- | [de]({{< ref "/f10/language/de.md" >}}) | 1009 | 1011 | 99.8 | /mnt/stockage/packages/f10/virtaal/po/de.po | 
- | [zu]({{< ref "/f10/language/zu.md" >}}) | 356 | 1193 | 29.8 | /mnt/stockage/packages/f10/virtaal/po/zu.po/mnt/stockage/packages/f10/virtaal/po/zu/gtk20.po/mnt/stockage/packages/f10/virtaal/po/zu/gtkspell.po/mnt/stockage/packages/f10/virtaal/po/zu/iso_639.po | 
- | [sw]({{< ref "/f10/language/sw.md" >}}) | 155 | 675 | 23.0 | /mnt/stockage/packages/f10/virtaal/po/sw.po | 
- | [en_GB]({{< ref "/f10/language/en_GB.md" >}}) | 37 | 1011 | 3.7 | /mnt/stockage/packages/f10/virtaal/po/en_GB.po | 
- | [en_ZA]({{< ref "/f10/language/en_ZA.md" >}}) | 37 | 1011 | 3.7 | /mnt/stockage/packages/f10/virtaal/po/en_ZA.po | 
+ | [af](/f10/language/af) | 1011 | 1011 | 100.0 | /mnt/stockage/packages/f10/virtaal/po/af.po | 
+ | [ar](/f10/language/ar) | 1011 | 1011 | 100.0 | /mnt/stockage/packages/f10/virtaal/po/ar.po | 
+ | [bn_IN](/f10/language/bn_IN) | 1011 | 1011 | 100.0 | /mnt/stockage/packages/f10/virtaal/po/bn_IN.po | 
+ | [ca](/f10/language/ca) | 1011 | 1011 | 100.0 | /mnt/stockage/packages/f10/virtaal/po/ca.po | 
+ | [ca@valencia](/f10/language/ca@valencia) | 1011 | 1011 | 100.0 | /mnt/stockage/packages/f10/virtaal/po/ca@valencia.po | 
+ | [es](/f10/language/es) | 1011 | 1011 | 100.0 | /mnt/stockage/packages/f10/virtaal/po/es.po | 
+ | [eu](/f10/language/eu) | 1011 | 1011 | 100.0 | /mnt/stockage/packages/f10/virtaal/po/eu.po | 
+ | [fr](/f10/language/fr) | 1011 | 1011 | 100.0 | /mnt/stockage/packages/f10/virtaal/po/fr.po | 
+ | [gl](/f10/language/gl) | 1011 | 1011 | 100.0 | /mnt/stockage/packages/f10/virtaal/po/gl.po | 
+ | [it](/f10/language/it) | 1011 | 1011 | 100.0 | /mnt/stockage/packages/f10/virtaal/po/it.po | 
+ | [ne](/f10/language/ne) | 675 | 675 | 100.0 | /mnt/stockage/packages/f10/virtaal/po/ne.po | 
+ | [nl](/f10/language/nl) | 1011 | 1011 | 100.0 | /mnt/stockage/packages/f10/virtaal/po/nl.po | 
+ | [pt_BR](/f10/language/pt_BR) | 1011 | 1011 | 100.0 | /mnt/stockage/packages/f10/virtaal/po/pt_BR.po | 
+ | [ru](/f10/language/ru) | 1011 | 1011 | 100.0 | /mnt/stockage/packages/f10/virtaal/po/ru.po | 
+ | [sv](/f10/language/sv) | 675 | 675 | 100.0 | /mnt/stockage/packages/f10/virtaal/po/sv.po | 
+ | [de](/f10/language/de) | 1009 | 1011 | 99.8 | /mnt/stockage/packages/f10/virtaal/po/de.po | 
+ | [zu](/f10/language/zu) | 356 | 1193 | 29.8 | /mnt/stockage/packages/f10/virtaal/po/zu.po/mnt/stockage/packages/f10/virtaal/po/zu/gtk20.po/mnt/stockage/packages/f10/virtaal/po/zu/gtkspell.po/mnt/stockage/packages/f10/virtaal/po/zu/iso_639.po | 
+ | [sw](/f10/language/sw) | 155 | 675 | 23.0 | /mnt/stockage/packages/f10/virtaal/po/sw.po | 
+ | [en_GB](/f10/language/en_GB) | 37 | 1011 | 3.7 | /mnt/stockage/packages/f10/virtaal/po/en_GB.po | 
+ | [en_ZA](/f10/language/en_ZA) | 37 | 1011 | 3.7 | /mnt/stockage/packages/f10/virtaal/po/en_ZA.po | 
 {.sortable}
 
 

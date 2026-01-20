@@ -18,14 +18,14 @@ The package pv (version 1.9.34):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f42/language/de.md" >}}) | 597 | 597 | 100.0 | /mnt/stockage/packages/f42/pv/po/de.po | 
- | [fr]({{< ref "/f42/language/fr.md" >}}) | 597 | 597 | 100.0 | /mnt/stockage/packages/f42/pv/po/fr.po | 
- | [pl]({{< ref "/f42/language/pl.md" >}}) | 597 | 597 | 100.0 | /mnt/stockage/packages/f42/pv/po/pl.po | 
- | [cs]({{< ref "/f42/language/cs.md" >}}) | 577 | 597 | 96.6 | /mnt/stockage/packages/f42/pv/po/cs.po | 
- | [tr]({{< ref "/f42/language/tr.md" >}}) | 577 | 597 | 96.6 | /mnt/stockage/packages/f42/pv/po/tr.po | 
- | [ru]({{< ref "/f42/language/ru.md" >}}) | 529 | 597 | 88.6 | /mnt/stockage/packages/f42/pv/po/ru.po | 
- | [pt]({{< ref "/f42/language/pt.md" >}}) | 377 | 597 | 63.1 | /mnt/stockage/packages/f42/pv/po/pt.po | 
- | [es]({{< ref "/f42/language/es.md" >}}) | 0 | 597 | 0.0 | /mnt/stockage/packages/f42/pv/po/es.po | 
+ | [de](/f42/language/de) | 597 | 597 | 100.0 | /mnt/stockage/packages/f42/pv/po/de.po | 
+ | [fr](/f42/language/fr) | 597 | 597 | 100.0 | /mnt/stockage/packages/f42/pv/po/fr.po | 
+ | [pl](/f42/language/pl) | 597 | 597 | 100.0 | /mnt/stockage/packages/f42/pv/po/pl.po | 
+ | [cs](/f42/language/cs) | 577 | 597 | 96.6 | /mnt/stockage/packages/f42/pv/po/cs.po | 
+ | [tr](/f42/language/tr) | 577 | 597 | 96.6 | /mnt/stockage/packages/f42/pv/po/tr.po | 
+ | [ru](/f42/language/ru) | 529 | 597 | 88.6 | /mnt/stockage/packages/f42/pv/po/ru.po | 
+ | [pt](/f42/language/pt) | 377 | 597 | 63.1 | /mnt/stockage/packages/f42/pv/po/pt.po | 
+ | [es](/f42/language/es) | 0 | 597 | 0.0 | /mnt/stockage/packages/f42/pv/po/es.po | 
 {.sortable}
 
 

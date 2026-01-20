@@ -18,7 +18,7 @@ The package git-lfs (version 3.5.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [es]({{< ref "/f39/language/es.md" >}}) | 10 | 10 | 100.0 | /mnt/stockage/packages/f39/git-lfs/po/es.po | 
+ | [es](/f39/language/es) | 10 | 10 | 100.0 | /mnt/stockage/packages/f39/git-lfs/po/es.po | 
 {.sortable}
 
 

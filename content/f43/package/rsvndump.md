@@ -18,7 +18,7 @@ The package rsvndump (version 0.6.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f43/language/de.md" >}}) | 367 | 367 | 100.0 | /mnt/stockage/packages/f43/rsvndump/po/de.po | 
+ | [de](/f43/language/de) | 367 | 367 | 100.0 | /mnt/stockage/packages/f43/rsvndump/po/de.po | 
 {.sortable}
 
 

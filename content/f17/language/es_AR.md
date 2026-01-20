@@ -38,28 +38,28 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [audacious]({{< ref "/f17/package/audacious.md" >}}) | 716 | 716 | 100.0 | Spanish (Argentinian) | 
- | [audacious-plugins]({{< ref "/f17/package/audacious-plugins.md" >}}) | 3092 | 3092 | 100.0 | Spanish (Argentinian) | 
- | [django-registration]({{< ref "/f17/package/django-registration.md" >}}) | 81 | 81 | 100.0 | LANGUAGE <LL@li.org> | 
- | [gambas3]({{< ref "/f17/package/gambas3.md" >}}) | 433 | 433 | 100.0 | LANGUAGE <LL@li.org> | 
- | [gnome-applets]({{< ref "/f17/package/gnome-applets.md" >}}) | 3858 | 3858 | 100.0 | Spanish <traductores@es.gnome.org> | 
- | [trac]({{< ref "/f17/package/trac.md" >}}) | 5685 | 5685 | 100.0 | es_AR <LL@li.org> | 
- | [Django]({{< ref "/f17/package/Django.md" >}}) | 5069 | 5089 | 99.6 | Spanish (Argentina) (http://www.transifex.net/projects/p/django/language/es_AR/) | 
- | [mcrypt]({{< ref "/f17/package/mcrypt.md" >}}) | 956 | 965 | 99.1 | Argentinian <translation-es-AR@lists.sourceforge.net> | 
- | [libgweather]({{< ref "/f17/package/libgweather.md" >}}) | 447 | 460 | 97.2 | Spanish <traductores@es.gnome.org> | 
- | [gnomebaker]({{< ref "/f17/package/gnomebaker.md" >}}) | 1069 | 1186 | 90.1 | Spanish (Argentina) <es_AR@li.org> | 
- | [x-tile]({{< ref "/f17/package/x-tile.md" >}}) | 652 | 732 | 89.1 | Spanish <MeloPixel> | 
- | [emerald]({{< ref "/f17/package/emerald.md" >}}) | 671 | 774 | 86.7 | Spanish <es@li.org> | 
- | [libmateweather]({{< ref "/f17/package/libmateweather.md" >}}) | 395 | 465 | 84.9 | LANGUAGE <LL@li.org> | 
- | [gallery2]({{< ref "/f17/package/gallery2.md" >}}) | 8899 | 11413 | 78.0 | Argentine Spanish <gallery-devel@lists.sourceforge.net> | 
- | [mate-applets]({{< ref "/f17/package/mate-applets.md" >}}) | 2555 | 3299 | 77.4 | LANGUAGE <LL@li.org> | 
- | [wicd]({{< ref "/f17/package/wicd.md" >}}) | 761 | 1058 | 71.9 | es_AR <LL@li.org> | 
- | [libvisual]({{< ref "/f17/package/libvisual.md" >}}) | 303 | 1055 | 28.7 | Spanish | 
- | [openerp]({{< ref "/f17/package/openerp.md" >}}) | 7834 | 47118 | 16.6 | Spanish (Argentina) <es_AR@li.org> | 
- | [gimp-lqr-plugin]({{< ref "/f17/package/gimp-lqr-plugin.md" >}}) | 56 | 928 | 6.0 | Español | 
- | [speedcrunch]({{< ref "/f17/package/speedcrunch.md" >}}) | 1 | 18 | 5.6 | es_AR | 
- | [bacula]({{< ref "/f17/package/bacula.md" >}}) | 0 | 18150 | 0.0 | Spanish | 
- | [bacula2]({{< ref "/f17/package/bacula2.md" >}}) | 0 | 18155 | 0.0 | Spanish | 
+ | [audacious](/f17/package/audacious) | 716 | 716 | 100.0 | Spanish (Argentinian) | 
+ | [audacious-plugins](/f17/package/audacious-plugins) | 3092 | 3092 | 100.0 | Spanish (Argentinian) | 
+ | [django-registration](/f17/package/django-registration) | 81 | 81 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [gambas3](/f17/package/gambas3) | 433 | 433 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [gnome-applets](/f17/package/gnome-applets) | 3858 | 3858 | 100.0 | Spanish <traductores@es.gnome.org> | 
+ | [trac](/f17/package/trac) | 5685 | 5685 | 100.0 | es_AR <LL@li.org> | 
+ | [Django](/f17/package/Django) | 5069 | 5089 | 99.6 | Spanish (Argentina) (http://www.transifex.net/projects/p/django/language/es_AR/) | 
+ | [mcrypt](/f17/package/mcrypt) | 956 | 965 | 99.1 | Argentinian <translation-es-AR@lists.sourceforge.net> | 
+ | [libgweather](/f17/package/libgweather) | 447 | 460 | 97.2 | Spanish <traductores@es.gnome.org> | 
+ | [gnomebaker](/f17/package/gnomebaker) | 1069 | 1186 | 90.1 | Spanish (Argentina) <es_AR@li.org> | 
+ | [x-tile](/f17/package/x-tile) | 652 | 732 | 89.1 | Spanish <MeloPixel> | 
+ | [emerald](/f17/package/emerald) | 671 | 774 | 86.7 | Spanish <es@li.org> | 
+ | [libmateweather](/f17/package/libmateweather) | 395 | 465 | 84.9 | LANGUAGE <LL@li.org> | 
+ | [gallery2](/f17/package/gallery2) | 8899 | 11413 | 78.0 | Argentine Spanish <gallery-devel@lists.sourceforge.net> | 
+ | [mate-applets](/f17/package/mate-applets) | 2555 | 3299 | 77.4 | LANGUAGE <LL@li.org> | 
+ | [wicd](/f17/package/wicd) | 761 | 1058 | 71.9 | es_AR <LL@li.org> | 
+ | [libvisual](/f17/package/libvisual) | 303 | 1055 | 28.7 | Spanish | 
+ | [openerp](/f17/package/openerp) | 7834 | 47118 | 16.6 | Spanish (Argentina) <es_AR@li.org> | 
+ | [gimp-lqr-plugin](/f17/package/gimp-lqr-plugin) | 56 | 928 | 6.0 | Español | 
+ | [speedcrunch](/f17/package/speedcrunch) | 1 | 18 | 5.6 | es_AR | 
+ | [bacula](/f17/package/bacula) | 0 | 18150 | 0.0 | Spanish | 
+ | [bacula2](/f17/package/bacula2) | 0 | 18155 | 0.0 | Spanish | 
 {.sortable}
 
 

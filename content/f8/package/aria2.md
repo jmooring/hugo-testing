@@ -18,10 +18,10 @@ The package aria2 (version 0.11.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ja]({{< ref "/f8/language/ja.md" >}}) | 2273 | 2273 | 100.0 | /mnt/stockage/packages/f8/aria2/po/ja.po | 
- | [fr]({{< ref "/f8/language/fr.md" >}}) | 1874 | 2273 | 82.4 | /mnt/stockage/packages/f8/aria2/po/fr.po | 
- | [ru]({{< ref "/f8/language/ru.md" >}}) | 537 | 2273 | 23.6 | /mnt/stockage/packages/f8/aria2/po/ru.po | 
- | [de]({{< ref "/f8/language/de.md" >}}) | 520 | 2273 | 22.9 | /mnt/stockage/packages/f8/aria2/po/de.po | 
+ | [ja](/f8/language/ja) | 2273 | 2273 | 100.0 | /mnt/stockage/packages/f8/aria2/po/ja.po | 
+ | [fr](/f8/language/fr) | 1874 | 2273 | 82.4 | /mnt/stockage/packages/f8/aria2/po/fr.po | 
+ | [ru](/f8/language/ru) | 537 | 2273 | 23.6 | /mnt/stockage/packages/f8/aria2/po/ru.po | 
+ | [de](/f8/language/de) | 520 | 2273 | 22.9 | /mnt/stockage/packages/f8/aria2/po/de.po | 
 {.sortable}
 
 

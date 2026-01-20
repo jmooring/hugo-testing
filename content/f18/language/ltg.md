@@ -38,8 +38,8 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [gnome-do]({{< ref "/f18/package/gnome-do.md" >}}) | 19 | 612 | 3.1 | Latgalian <ltg@li.org> | 
- | [calibre]({{< ref "/f18/package/calibre.md" >}}) | 6 | 44338 | 0.0 | Latgalian <ltg@li.org> | 
+ | [gnome-do](/f18/package/gnome-do) | 19 | 612 | 3.1 | Latgalian <ltg@li.org> | 
+ | [calibre](/f18/package/calibre) | 6 | 44338 | 0.0 | Latgalian <ltg@li.org> | 
 {.sortable}
 
 

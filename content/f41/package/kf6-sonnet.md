@@ -18,107 +18,107 @@ The package kf6-sonnet (version 6.18.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f41/language/ar.md" >}}) | 684 | 684 | 100.0 | /mnt/stockage/packages/f41/kf6-sonnet/poqm/ar/sonnet6_qt.po | 
- | [be]({{< ref "/f41/language/be.md" >}}) | 684 | 684 | 100.0 | /mnt/stockage/packages/f41/kf6-sonnet/poqm/be/sonnet6_qt.po | 
- | [bg]({{< ref "/f41/language/bg.md" >}}) | 684 | 684 | 100.0 | /mnt/stockage/packages/f41/kf6-sonnet/poqm/bg/sonnet6_qt.po | 
- | [ca]({{< ref "/f41/language/ca.md" >}}) | 684 | 684 | 100.0 | /mnt/stockage/packages/f41/kf6-sonnet/poqm/ca/sonnet6_qt.po | 
- | [ca@valencia]({{< ref "/f41/language/ca@valencia.md" >}}) | 684 | 684 | 100.0 | /mnt/stockage/packages/f41/kf6-sonnet/poqm/ca@valencia/sonnet6_qt.po | 
- | [cs]({{< ref "/f41/language/cs.md" >}}) | 684 | 684 | 100.0 | /mnt/stockage/packages/f41/kf6-sonnet/poqm/cs/sonnet6_qt.po | 
- | [de]({{< ref "/f41/language/de.md" >}}) | 684 | 684 | 100.0 | /mnt/stockage/packages/f41/kf6-sonnet/poqm/de/sonnet6_qt.po | 
- | [en_GB]({{< ref "/f41/language/en_GB.md" >}}) | 684 | 684 | 100.0 | /mnt/stockage/packages/f41/kf6-sonnet/poqm/en_GB/sonnet6_qt.po | 
- | [eo]({{< ref "/f41/language/eo.md" >}}) | 684 | 684 | 100.0 | /mnt/stockage/packages/f41/kf6-sonnet/poqm/eo/sonnet6_qt.po | 
- | [es]({{< ref "/f41/language/es.md" >}}) | 684 | 684 | 100.0 | /mnt/stockage/packages/f41/kf6-sonnet/poqm/es/sonnet6_qt.po | 
- | [eu]({{< ref "/f41/language/eu.md" >}}) | 684 | 684 | 100.0 | /mnt/stockage/packages/f41/kf6-sonnet/poqm/eu/sonnet6_qt.po | 
- | [fi]({{< ref "/f41/language/fi.md" >}}) | 684 | 684 | 100.0 | /mnt/stockage/packages/f41/kf6-sonnet/poqm/fi/sonnet6_qt.po | 
- | [fr]({{< ref "/f41/language/fr.md" >}}) | 684 | 684 | 100.0 | /mnt/stockage/packages/f41/kf6-sonnet/poqm/fr/sonnet6_qt.po | 
- | [gl]({{< ref "/f41/language/gl.md" >}}) | 684 | 684 | 100.0 | /mnt/stockage/packages/f41/kf6-sonnet/poqm/gl/sonnet6_qt.po | 
- | [he]({{< ref "/f41/language/he.md" >}}) | 684 | 684 | 100.0 | /mnt/stockage/packages/f41/kf6-sonnet/poqm/he/sonnet6_qt.po | 
- | [hu]({{< ref "/f41/language/hu.md" >}}) | 684 | 684 | 100.0 | /mnt/stockage/packages/f41/kf6-sonnet/poqm/hu/sonnet6_qt.po | 
- | [ia]({{< ref "/f41/language/ia.md" >}}) | 684 | 684 | 100.0 | /mnt/stockage/packages/f41/kf6-sonnet/poqm/ia/sonnet6_qt.po | 
- | [is]({{< ref "/f41/language/is.md" >}}) | 684 | 684 | 100.0 | /mnt/stockage/packages/f41/kf6-sonnet/poqm/is/sonnet6_qt.po | 
- | [it]({{< ref "/f41/language/it.md" >}}) | 684 | 684 | 100.0 | /mnt/stockage/packages/f41/kf6-sonnet/poqm/it/sonnet6_qt.po | 
- | [ja]({{< ref "/f41/language/ja.md" >}}) | 684 | 684 | 100.0 | /mnt/stockage/packages/f41/kf6-sonnet/poqm/ja/sonnet6_qt.po | 
- | [ka]({{< ref "/f41/language/ka.md" >}}) | 684 | 684 | 100.0 | /mnt/stockage/packages/f41/kf6-sonnet/poqm/ka/sonnet6_qt.po | 
- | [ko]({{< ref "/f41/language/ko.md" >}}) | 684 | 684 | 100.0 | /mnt/stockage/packages/f41/kf6-sonnet/poqm/ko/sonnet6_qt.po | 
- | [lv]({{< ref "/f41/language/lv.md" >}}) | 684 | 684 | 100.0 | /mnt/stockage/packages/f41/kf6-sonnet/poqm/lv/sonnet6_qt.po | 
- | [nl]({{< ref "/f41/language/nl.md" >}}) | 684 | 684 | 100.0 | /mnt/stockage/packages/f41/kf6-sonnet/poqm/nl/sonnet6_qt.po | 
- | [nn]({{< ref "/f41/language/nn.md" >}}) | 684 | 684 | 100.0 | /mnt/stockage/packages/f41/kf6-sonnet/poqm/nn/sonnet6_qt.po | 
- | [pl]({{< ref "/f41/language/pl.md" >}}) | 684 | 684 | 100.0 | /mnt/stockage/packages/f41/kf6-sonnet/poqm/pl/sonnet6_qt.po | 
- | [pt_BR]({{< ref "/f41/language/pt_BR.md" >}}) | 684 | 684 | 100.0 | /mnt/stockage/packages/f41/kf6-sonnet/poqm/pt_BR/sonnet6_qt.po | 
- | [ro]({{< ref "/f41/language/ro.md" >}}) | 684 | 684 | 100.0 | /mnt/stockage/packages/f41/kf6-sonnet/poqm/ro/sonnet6_qt.po | 
- | [ru]({{< ref "/f41/language/ru.md" >}}) | 684 | 684 | 100.0 | /mnt/stockage/packages/f41/kf6-sonnet/poqm/ru/sonnet6_qt.po | 
- | [sa]({{< ref "/f41/language/sa.md" >}}) | 684 | 684 | 100.0 | /mnt/stockage/packages/f41/kf6-sonnet/poqm/sa/sonnet6_qt.po | 
- | [sl]({{< ref "/f41/language/sl.md" >}}) | 684 | 684 | 100.0 | /mnt/stockage/packages/f41/kf6-sonnet/poqm/sl/sonnet6_qt.po | 
- | [sv]({{< ref "/f41/language/sv.md" >}}) | 684 | 684 | 100.0 | /mnt/stockage/packages/f41/kf6-sonnet/poqm/sv/sonnet6_qt.po | 
- | [tr]({{< ref "/f41/language/tr.md" >}}) | 684 | 684 | 100.0 | /mnt/stockage/packages/f41/kf6-sonnet/poqm/tr/sonnet6_qt.po | 
- | [uk]({{< ref "/f41/language/uk.md" >}}) | 684 | 684 | 100.0 | /mnt/stockage/packages/f41/kf6-sonnet/poqm/uk/sonnet6_qt.po | 
- | [zh_Hans]({{< ref "/f41/language/zh_Hans.md" >}}) | 684 | 684 | 100.0 | /mnt/stockage/packages/f41/kf6-sonnet/poqm/zh_CN/sonnet6_qt.po | 
- | [zh_Hant]({{< ref "/f41/language/zh_Hant.md" >}}) | 684 | 684 | 100.0 | /mnt/stockage/packages/f41/kf6-sonnet/poqm/zh_TW/sonnet6_qt.po | 
- | [el]({{< ref "/f41/language/el.md" >}}) | 682 | 684 | 99.7 | /mnt/stockage/packages/f41/kf6-sonnet/poqm/el/sonnet6_qt.po | 
- | [sk]({{< ref "/f41/language/sk.md" >}}) | 676 | 684 | 98.8 | /mnt/stockage/packages/f41/kf6-sonnet/poqm/sk/sonnet6_qt.po | 
- | [az]({{< ref "/f41/language/az.md" >}}) | 671 | 684 | 98.1 | /mnt/stockage/packages/f41/kf6-sonnet/poqm/az/sonnet6_qt.po | 
- | [pt]({{< ref "/f41/language/pt.md" >}}) | 671 | 684 | 98.1 | /mnt/stockage/packages/f41/kf6-sonnet/poqm/pt/sonnet6_qt.po | 
- | [vi]({{< ref "/f41/language/vi.md" >}}) | 671 | 684 | 98.1 | /mnt/stockage/packages/f41/kf6-sonnet/poqm/vi/sonnet6_qt.po | 
- | [pa]({{< ref "/f41/language/pa.md" >}}) | 662 | 684 | 96.8 | /mnt/stockage/packages/f41/kf6-sonnet/poqm/pa/sonnet6_qt.po | 
- | [da]({{< ref "/f41/language/da.md" >}}) | 655 | 684 | 95.8 | /mnt/stockage/packages/f41/kf6-sonnet/poqm/da/sonnet6_qt.po | 
- | [et]({{< ref "/f41/language/et.md" >}}) | 655 | 684 | 95.8 | /mnt/stockage/packages/f41/kf6-sonnet/poqm/et/sonnet6_qt.po | 
- | [hi]({{< ref "/f41/language/hi.md" >}}) | 655 | 684 | 95.8 | /mnt/stockage/packages/f41/kf6-sonnet/poqm/hi/sonnet6_qt.po | 
- | [id]({{< ref "/f41/language/id.md" >}}) | 655 | 684 | 95.8 | /mnt/stockage/packages/f41/kf6-sonnet/poqm/id/sonnet6_qt.po | 
- | [tg]({{< ref "/f41/language/tg.md" >}}) | 655 | 684 | 95.8 | /mnt/stockage/packages/f41/kf6-sonnet/poqm/tg/sonnet6_qt.po | 
- | [bs]({{< ref "/f41/language/bs.md" >}}) | 651 | 684 | 95.2 | /mnt/stockage/packages/f41/kf6-sonnet/poqm/bs/sonnet6_qt.po | 
- | [gd]({{< ref "/f41/language/gd.md" >}}) | 651 | 684 | 95.2 | /mnt/stockage/packages/f41/kf6-sonnet/poqm/gd/sonnet6_qt.po | 
- | [nb_NO]({{< ref "/f41/language/nb_NO.md" >}}) | 651 | 684 | 95.2 | /mnt/stockage/packages/f41/kf6-sonnet/poqm/nb/sonnet6_qt.po | 
- | [nds]({{< ref "/f41/language/nds.md" >}}) | 651 | 684 | 95.2 | /mnt/stockage/packages/f41/kf6-sonnet/poqm/nds/sonnet6_qt.po | 
- | [sr]({{< ref "/f41/language/sr.md" >}}) | 651 | 684 | 95.2 | /mnt/stockage/packages/f41/kf6-sonnet/poqm/sr/sonnet6_qt.po | 
- | [sr@ijekavian]({{< ref "/f41/language/sr@ijekavian.md" >}}) | 651 | 684 | 95.2 | /mnt/stockage/packages/f41/kf6-sonnet/poqm/sr@ijekavian/sonnet6_qt.po | 
- | [sr@ijekavian_Latn]({{< ref "/f41/language/sr@ijekavian_Latn.md" >}}) | 651 | 684 | 95.2 | /mnt/stockage/packages/f41/kf6-sonnet/poqm/sr@ijekavianlatin/sonnet6_qt.po | 
- | [sr_Latn]({{< ref "/f41/language/sr_Latn.md" >}}) | 651 | 684 | 95.2 | /mnt/stockage/packages/f41/kf6-sonnet/poqm/sr@latin/sonnet6_qt.po | 
- | [lt]({{< ref "/f41/language/lt.md" >}}) | 633 | 684 | 92.5 | /mnt/stockage/packages/f41/kf6-sonnet/poqm/lt/sonnet6_qt.po | 
- | [mr]({{< ref "/f41/language/mr.md" >}}) | 213 | 684 | 31.1 | /mnt/stockage/packages/f41/kf6-sonnet/poqm/mr/sonnet6_qt.po | 
- | [ta]({{< ref "/f41/language/ta.md" >}}) | 204 | 684 | 29.8 | /mnt/stockage/packages/f41/kf6-sonnet/poqm/ta/sonnet6_qt.po | 
- | [ast]({{< ref "/f41/language/ast.md" >}}) | 63 | 684 | 9.2 | /mnt/stockage/packages/f41/kf6-sonnet/poqm/ast/sonnet6_qt.po | 
- | [af]({{< ref "/f41/language/af.md" >}}) | 0 | 684 | 0.0 | /mnt/stockage/packages/f41/kf6-sonnet/poqm/af/sonnet6_qt.po | 
- | [as]({{< ref "/f41/language/as.md" >}}) | 0 | 684 | 0.0 | /mnt/stockage/packages/f41/kf6-sonnet/poqm/as/sonnet6_qt.po | 
- | [be_Latn]({{< ref "/f41/language/be_Latn.md" >}}) | 0 | 684 | 0.0 | /mnt/stockage/packages/f41/kf6-sonnet/poqm/be@latin/sonnet6_qt.po | 
- | [bn]({{< ref "/f41/language/bn.md" >}}) | 0 | 684 | 0.0 | /mnt/stockage/packages/f41/kf6-sonnet/poqm/bn/sonnet6_qt.po | 
- | [bn_IN]({{< ref "/f41/language/bn_IN.md" >}}) | 0 | 684 | 0.0 | /mnt/stockage/packages/f41/kf6-sonnet/poqm/bn_IN/sonnet6_qt.po | 
- | [br]({{< ref "/f41/language/br.md" >}}) | 0 | 684 | 0.0 | /mnt/stockage/packages/f41/kf6-sonnet/poqm/br/sonnet6_qt.po | 
- | [crh]({{< ref "/f41/language/crh.md" >}}) | 0 | 684 | 0.0 | /mnt/stockage/packages/f41/kf6-sonnet/poqm/crh/sonnet6_qt.po | 
- | [csb]({{< ref "/f41/language/csb.md" >}}) | 0 | 684 | 0.0 | /mnt/stockage/packages/f41/kf6-sonnet/poqm/csb/sonnet6_qt.po | 
- | [cy]({{< ref "/f41/language/cy.md" >}}) | 0 | 684 | 0.0 | /mnt/stockage/packages/f41/kf6-sonnet/poqm/cy/sonnet6_qt.po | 
- | [fa]({{< ref "/f41/language/fa.md" >}}) | 0 | 684 | 0.0 | /mnt/stockage/packages/f41/kf6-sonnet/poqm/fa/sonnet6_qt.po | 
- | [fy]({{< ref "/f41/language/fy.md" >}}) | 0 | 684 | 0.0 | /mnt/stockage/packages/f41/kf6-sonnet/poqm/fy/sonnet6_qt.po | 
- | [ga]({{< ref "/f41/language/ga.md" >}}) | 0 | 684 | 0.0 | /mnt/stockage/packages/f41/kf6-sonnet/poqm/ga/sonnet6_qt.po | 
- | [gu]({{< ref "/f41/language/gu.md" >}}) | 0 | 684 | 0.0 | /mnt/stockage/packages/f41/kf6-sonnet/poqm/gu/sonnet6_qt.po | 
- | [ha]({{< ref "/f41/language/ha.md" >}}) | 0 | 684 | 0.0 | /mnt/stockage/packages/f41/kf6-sonnet/poqm/ha/sonnet6_qt.po | 
- | [hne]({{< ref "/f41/language/hne.md" >}}) | 0 | 684 | 0.0 | /mnt/stockage/packages/f41/kf6-sonnet/poqm/hne/sonnet6_qt.po | 
- | [hr]({{< ref "/f41/language/hr.md" >}}) | 0 | 684 | 0.0 | /mnt/stockage/packages/f41/kf6-sonnet/poqm/hr/sonnet6_qt.po | 
- | [hsb]({{< ref "/f41/language/hsb.md" >}}) | 0 | 684 | 0.0 | /mnt/stockage/packages/f41/kf6-sonnet/poqm/hsb/sonnet6_qt.po | 
- | [hy]({{< ref "/f41/language/hy.md" >}}) | 0 | 684 | 0.0 | /mnt/stockage/packages/f41/kf6-sonnet/poqm/hy/sonnet6_qt.po | 
- | [kk]({{< ref "/f41/language/kk.md" >}}) | 0 | 684 | 0.0 | /mnt/stockage/packages/f41/kf6-sonnet/poqm/kk/sonnet6_qt.po | 
- | [km]({{< ref "/f41/language/km.md" >}}) | 0 | 684 | 0.0 | /mnt/stockage/packages/f41/kf6-sonnet/poqm/km/sonnet6_qt.po | 
- | [kn]({{< ref "/f41/language/kn.md" >}}) | 0 | 684 | 0.0 | /mnt/stockage/packages/f41/kf6-sonnet/poqm/kn/sonnet6_qt.po | 
- | [ku]({{< ref "/f41/language/ku.md" >}}) | 0 | 684 | 0.0 | /mnt/stockage/packages/f41/kf6-sonnet/poqm/ku/sonnet6_qt.po | 
- | [lb]({{< ref "/f41/language/lb.md" >}}) | 0 | 684 | 0.0 | /mnt/stockage/packages/f41/kf6-sonnet/poqm/lb/sonnet6_qt.po | 
- | [mai]({{< ref "/f41/language/mai.md" >}}) | 0 | 684 | 0.0 | /mnt/stockage/packages/f41/kf6-sonnet/poqm/mai/sonnet6_qt.po | 
- | [mk]({{< ref "/f41/language/mk.md" >}}) | 0 | 684 | 0.0 | /mnt/stockage/packages/f41/kf6-sonnet/poqm/mk/sonnet6_qt.po | 
- | [ml]({{< ref "/f41/language/ml.md" >}}) | 0 | 684 | 0.0 | /mnt/stockage/packages/f41/kf6-sonnet/poqm/ml/sonnet6_qt.po | 
- | [ms]({{< ref "/f41/language/ms.md" >}}) | 0 | 684 | 0.0 | /mnt/stockage/packages/f41/kf6-sonnet/poqm/ms/sonnet6_qt.po | 
- | [ne]({{< ref "/f41/language/ne.md" >}}) | 0 | 684 | 0.0 | /mnt/stockage/packages/f41/kf6-sonnet/poqm/ne/sonnet6_qt.po | 
- | [oc]({{< ref "/f41/language/oc.md" >}}) | 0 | 684 | 0.0 | /mnt/stockage/packages/f41/kf6-sonnet/poqm/oc/sonnet6_qt.po | 
- | [or]({{< ref "/f41/language/or.md" >}}) | 0 | 684 | 0.0 | /mnt/stockage/packages/f41/kf6-sonnet/poqm/or/sonnet6_qt.po | 
- | [ps]({{< ref "/f41/language/ps.md" >}}) | 0 | 684 | 0.0 | /mnt/stockage/packages/f41/kf6-sonnet/poqm/ps/sonnet6_qt.po | 
- | [se]({{< ref "/f41/language/se.md" >}}) | 0 | 684 | 0.0 | /mnt/stockage/packages/f41/kf6-sonnet/poqm/se/sonnet6_qt.po | 
- | [si]({{< ref "/f41/language/si.md" >}}) | 0 | 684 | 0.0 | /mnt/stockage/packages/f41/kf6-sonnet/poqm/si/sonnet6_qt.po | 
- | [sq]({{< ref "/f41/language/sq.md" >}}) | 0 | 684 | 0.0 | /mnt/stockage/packages/f41/kf6-sonnet/poqm/sq/sonnet6_qt.po | 
- | [te]({{< ref "/f41/language/te.md" >}}) | 0 | 684 | 0.0 | /mnt/stockage/packages/f41/kf6-sonnet/poqm/te/sonnet6_qt.po | 
- | [th]({{< ref "/f41/language/th.md" >}}) | 0 | 684 | 0.0 | /mnt/stockage/packages/f41/kf6-sonnet/poqm/th/sonnet6_qt.po | 
- | [tt]({{< ref "/f41/language/tt.md" >}}) | 0 | 684 | 0.0 | /mnt/stockage/packages/f41/kf6-sonnet/poqm/tt/sonnet6_qt.po | 
- | [ug]({{< ref "/f41/language/ug.md" >}}) | 0 | 684 | 0.0 | /mnt/stockage/packages/f41/kf6-sonnet/poqm/ug/sonnet6_qt.po | 
- | [uz]({{< ref "/f41/language/uz.md" >}}) | 0 | 1368 | 0.0 | /mnt/stockage/packages/f41/kf6-sonnet/poqm/uz@cyrillic/sonnet6_qt.po/mnt/stockage/packages/f41/kf6-sonnet/poqm/uz/sonnet6_qt.po | 
- | [wa]({{< ref "/f41/language/wa.md" >}}) | 0 | 684 | 0.0 | /mnt/stockage/packages/f41/kf6-sonnet/poqm/wa/sonnet6_qt.po | 
- | [xh]({{< ref "/f41/language/xh.md" >}}) | 0 | 684 | 0.0 | /mnt/stockage/packages/f41/kf6-sonnet/poqm/xh/sonnet6_qt.po | 
- | [zh_Hant_HK]({{< ref "/f41/language/zh_Hant_HK.md" >}}) | 0 | 684 | 0.0 | /mnt/stockage/packages/f41/kf6-sonnet/poqm/zh_HK/sonnet6_qt.po | 
+ | [ar](/f41/language/ar) | 684 | 684 | 100.0 | /mnt/stockage/packages/f41/kf6-sonnet/poqm/ar/sonnet6_qt.po | 
+ | [be](/f41/language/be) | 684 | 684 | 100.0 | /mnt/stockage/packages/f41/kf6-sonnet/poqm/be/sonnet6_qt.po | 
+ | [bg](/f41/language/bg) | 684 | 684 | 100.0 | /mnt/stockage/packages/f41/kf6-sonnet/poqm/bg/sonnet6_qt.po | 
+ | [ca](/f41/language/ca) | 684 | 684 | 100.0 | /mnt/stockage/packages/f41/kf6-sonnet/poqm/ca/sonnet6_qt.po | 
+ | [ca@valencia](/f41/language/ca@valencia) | 684 | 684 | 100.0 | /mnt/stockage/packages/f41/kf6-sonnet/poqm/ca@valencia/sonnet6_qt.po | 
+ | [cs](/f41/language/cs) | 684 | 684 | 100.0 | /mnt/stockage/packages/f41/kf6-sonnet/poqm/cs/sonnet6_qt.po | 
+ | [de](/f41/language/de) | 684 | 684 | 100.0 | /mnt/stockage/packages/f41/kf6-sonnet/poqm/de/sonnet6_qt.po | 
+ | [en_GB](/f41/language/en_GB) | 684 | 684 | 100.0 | /mnt/stockage/packages/f41/kf6-sonnet/poqm/en_GB/sonnet6_qt.po | 
+ | [eo](/f41/language/eo) | 684 | 684 | 100.0 | /mnt/stockage/packages/f41/kf6-sonnet/poqm/eo/sonnet6_qt.po | 
+ | [es](/f41/language/es) | 684 | 684 | 100.0 | /mnt/stockage/packages/f41/kf6-sonnet/poqm/es/sonnet6_qt.po | 
+ | [eu](/f41/language/eu) | 684 | 684 | 100.0 | /mnt/stockage/packages/f41/kf6-sonnet/poqm/eu/sonnet6_qt.po | 
+ | [fi](/f41/language/fi) | 684 | 684 | 100.0 | /mnt/stockage/packages/f41/kf6-sonnet/poqm/fi/sonnet6_qt.po | 
+ | [fr](/f41/language/fr) | 684 | 684 | 100.0 | /mnt/stockage/packages/f41/kf6-sonnet/poqm/fr/sonnet6_qt.po | 
+ | [gl](/f41/language/gl) | 684 | 684 | 100.0 | /mnt/stockage/packages/f41/kf6-sonnet/poqm/gl/sonnet6_qt.po | 
+ | [he](/f41/language/he) | 684 | 684 | 100.0 | /mnt/stockage/packages/f41/kf6-sonnet/poqm/he/sonnet6_qt.po | 
+ | [hu](/f41/language/hu) | 684 | 684 | 100.0 | /mnt/stockage/packages/f41/kf6-sonnet/poqm/hu/sonnet6_qt.po | 
+ | [ia](/f41/language/ia) | 684 | 684 | 100.0 | /mnt/stockage/packages/f41/kf6-sonnet/poqm/ia/sonnet6_qt.po | 
+ | [is](/f41/language/is) | 684 | 684 | 100.0 | /mnt/stockage/packages/f41/kf6-sonnet/poqm/is/sonnet6_qt.po | 
+ | [it](/f41/language/it) | 684 | 684 | 100.0 | /mnt/stockage/packages/f41/kf6-sonnet/poqm/it/sonnet6_qt.po | 
+ | [ja](/f41/language/ja) | 684 | 684 | 100.0 | /mnt/stockage/packages/f41/kf6-sonnet/poqm/ja/sonnet6_qt.po | 
+ | [ka](/f41/language/ka) | 684 | 684 | 100.0 | /mnt/stockage/packages/f41/kf6-sonnet/poqm/ka/sonnet6_qt.po | 
+ | [ko](/f41/language/ko) | 684 | 684 | 100.0 | /mnt/stockage/packages/f41/kf6-sonnet/poqm/ko/sonnet6_qt.po | 
+ | [lv](/f41/language/lv) | 684 | 684 | 100.0 | /mnt/stockage/packages/f41/kf6-sonnet/poqm/lv/sonnet6_qt.po | 
+ | [nl](/f41/language/nl) | 684 | 684 | 100.0 | /mnt/stockage/packages/f41/kf6-sonnet/poqm/nl/sonnet6_qt.po | 
+ | [nn](/f41/language/nn) | 684 | 684 | 100.0 | /mnt/stockage/packages/f41/kf6-sonnet/poqm/nn/sonnet6_qt.po | 
+ | [pl](/f41/language/pl) | 684 | 684 | 100.0 | /mnt/stockage/packages/f41/kf6-sonnet/poqm/pl/sonnet6_qt.po | 
+ | [pt_BR](/f41/language/pt_BR) | 684 | 684 | 100.0 | /mnt/stockage/packages/f41/kf6-sonnet/poqm/pt_BR/sonnet6_qt.po | 
+ | [ro](/f41/language/ro) | 684 | 684 | 100.0 | /mnt/stockage/packages/f41/kf6-sonnet/poqm/ro/sonnet6_qt.po | 
+ | [ru](/f41/language/ru) | 684 | 684 | 100.0 | /mnt/stockage/packages/f41/kf6-sonnet/poqm/ru/sonnet6_qt.po | 
+ | [sa](/f41/language/sa) | 684 | 684 | 100.0 | /mnt/stockage/packages/f41/kf6-sonnet/poqm/sa/sonnet6_qt.po | 
+ | [sl](/f41/language/sl) | 684 | 684 | 100.0 | /mnt/stockage/packages/f41/kf6-sonnet/poqm/sl/sonnet6_qt.po | 
+ | [sv](/f41/language/sv) | 684 | 684 | 100.0 | /mnt/stockage/packages/f41/kf6-sonnet/poqm/sv/sonnet6_qt.po | 
+ | [tr](/f41/language/tr) | 684 | 684 | 100.0 | /mnt/stockage/packages/f41/kf6-sonnet/poqm/tr/sonnet6_qt.po | 
+ | [uk](/f41/language/uk) | 684 | 684 | 100.0 | /mnt/stockage/packages/f41/kf6-sonnet/poqm/uk/sonnet6_qt.po | 
+ | [zh_Hans](/f41/language/zh_Hans) | 684 | 684 | 100.0 | /mnt/stockage/packages/f41/kf6-sonnet/poqm/zh_CN/sonnet6_qt.po | 
+ | [zh_Hant](/f41/language/zh_Hant) | 684 | 684 | 100.0 | /mnt/stockage/packages/f41/kf6-sonnet/poqm/zh_TW/sonnet6_qt.po | 
+ | [el](/f41/language/el) | 682 | 684 | 99.7 | /mnt/stockage/packages/f41/kf6-sonnet/poqm/el/sonnet6_qt.po | 
+ | [sk](/f41/language/sk) | 676 | 684 | 98.8 | /mnt/stockage/packages/f41/kf6-sonnet/poqm/sk/sonnet6_qt.po | 
+ | [az](/f41/language/az) | 671 | 684 | 98.1 | /mnt/stockage/packages/f41/kf6-sonnet/poqm/az/sonnet6_qt.po | 
+ | [pt](/f41/language/pt) | 671 | 684 | 98.1 | /mnt/stockage/packages/f41/kf6-sonnet/poqm/pt/sonnet6_qt.po | 
+ | [vi](/f41/language/vi) | 671 | 684 | 98.1 | /mnt/stockage/packages/f41/kf6-sonnet/poqm/vi/sonnet6_qt.po | 
+ | [pa](/f41/language/pa) | 662 | 684 | 96.8 | /mnt/stockage/packages/f41/kf6-sonnet/poqm/pa/sonnet6_qt.po | 
+ | [da](/f41/language/da) | 655 | 684 | 95.8 | /mnt/stockage/packages/f41/kf6-sonnet/poqm/da/sonnet6_qt.po | 
+ | [et](/f41/language/et) | 655 | 684 | 95.8 | /mnt/stockage/packages/f41/kf6-sonnet/poqm/et/sonnet6_qt.po | 
+ | [hi](/f41/language/hi) | 655 | 684 | 95.8 | /mnt/stockage/packages/f41/kf6-sonnet/poqm/hi/sonnet6_qt.po | 
+ | [id](/f41/language/id) | 655 | 684 | 95.8 | /mnt/stockage/packages/f41/kf6-sonnet/poqm/id/sonnet6_qt.po | 
+ | [tg](/f41/language/tg) | 655 | 684 | 95.8 | /mnt/stockage/packages/f41/kf6-sonnet/poqm/tg/sonnet6_qt.po | 
+ | [bs](/f41/language/bs) | 651 | 684 | 95.2 | /mnt/stockage/packages/f41/kf6-sonnet/poqm/bs/sonnet6_qt.po | 
+ | [gd](/f41/language/gd) | 651 | 684 | 95.2 | /mnt/stockage/packages/f41/kf6-sonnet/poqm/gd/sonnet6_qt.po | 
+ | [nb_NO](/f41/language/nb_NO) | 651 | 684 | 95.2 | /mnt/stockage/packages/f41/kf6-sonnet/poqm/nb/sonnet6_qt.po | 
+ | [nds](/f41/language/nds) | 651 | 684 | 95.2 | /mnt/stockage/packages/f41/kf6-sonnet/poqm/nds/sonnet6_qt.po | 
+ | [sr](/f41/language/sr) | 651 | 684 | 95.2 | /mnt/stockage/packages/f41/kf6-sonnet/poqm/sr/sonnet6_qt.po | 
+ | [sr@ijekavian](/f41/language/sr@ijekavian) | 651 | 684 | 95.2 | /mnt/stockage/packages/f41/kf6-sonnet/poqm/sr@ijekavian/sonnet6_qt.po | 
+ | [sr@ijekavian_Latn](/f41/language/sr@ijekavian_Latn) | 651 | 684 | 95.2 | /mnt/stockage/packages/f41/kf6-sonnet/poqm/sr@ijekavianlatin/sonnet6_qt.po | 
+ | [sr_Latn](/f41/language/sr_Latn) | 651 | 684 | 95.2 | /mnt/stockage/packages/f41/kf6-sonnet/poqm/sr@latin/sonnet6_qt.po | 
+ | [lt](/f41/language/lt) | 633 | 684 | 92.5 | /mnt/stockage/packages/f41/kf6-sonnet/poqm/lt/sonnet6_qt.po | 
+ | [mr](/f41/language/mr) | 213 | 684 | 31.1 | /mnt/stockage/packages/f41/kf6-sonnet/poqm/mr/sonnet6_qt.po | 
+ | [ta](/f41/language/ta) | 204 | 684 | 29.8 | /mnt/stockage/packages/f41/kf6-sonnet/poqm/ta/sonnet6_qt.po | 
+ | [ast](/f41/language/ast) | 63 | 684 | 9.2 | /mnt/stockage/packages/f41/kf6-sonnet/poqm/ast/sonnet6_qt.po | 
+ | [af](/f41/language/af) | 0 | 684 | 0.0 | /mnt/stockage/packages/f41/kf6-sonnet/poqm/af/sonnet6_qt.po | 
+ | [as](/f41/language/as) | 0 | 684 | 0.0 | /mnt/stockage/packages/f41/kf6-sonnet/poqm/as/sonnet6_qt.po | 
+ | [be_Latn](/f41/language/be_Latn) | 0 | 684 | 0.0 | /mnt/stockage/packages/f41/kf6-sonnet/poqm/be@latin/sonnet6_qt.po | 
+ | [bn](/f41/language/bn) | 0 | 684 | 0.0 | /mnt/stockage/packages/f41/kf6-sonnet/poqm/bn/sonnet6_qt.po | 
+ | [bn_IN](/f41/language/bn_IN) | 0 | 684 | 0.0 | /mnt/stockage/packages/f41/kf6-sonnet/poqm/bn_IN/sonnet6_qt.po | 
+ | [br](/f41/language/br) | 0 | 684 | 0.0 | /mnt/stockage/packages/f41/kf6-sonnet/poqm/br/sonnet6_qt.po | 
+ | [crh](/f41/language/crh) | 0 | 684 | 0.0 | /mnt/stockage/packages/f41/kf6-sonnet/poqm/crh/sonnet6_qt.po | 
+ | [csb](/f41/language/csb) | 0 | 684 | 0.0 | /mnt/stockage/packages/f41/kf6-sonnet/poqm/csb/sonnet6_qt.po | 
+ | [cy](/f41/language/cy) | 0 | 684 | 0.0 | /mnt/stockage/packages/f41/kf6-sonnet/poqm/cy/sonnet6_qt.po | 
+ | [fa](/f41/language/fa) | 0 | 684 | 0.0 | /mnt/stockage/packages/f41/kf6-sonnet/poqm/fa/sonnet6_qt.po | 
+ | [fy](/f41/language/fy) | 0 | 684 | 0.0 | /mnt/stockage/packages/f41/kf6-sonnet/poqm/fy/sonnet6_qt.po | 
+ | [ga](/f41/language/ga) | 0 | 684 | 0.0 | /mnt/stockage/packages/f41/kf6-sonnet/poqm/ga/sonnet6_qt.po | 
+ | [gu](/f41/language/gu) | 0 | 684 | 0.0 | /mnt/stockage/packages/f41/kf6-sonnet/poqm/gu/sonnet6_qt.po | 
+ | [ha](/f41/language/ha) | 0 | 684 | 0.0 | /mnt/stockage/packages/f41/kf6-sonnet/poqm/ha/sonnet6_qt.po | 
+ | [hne](/f41/language/hne) | 0 | 684 | 0.0 | /mnt/stockage/packages/f41/kf6-sonnet/poqm/hne/sonnet6_qt.po | 
+ | [hr](/f41/language/hr) | 0 | 684 | 0.0 | /mnt/stockage/packages/f41/kf6-sonnet/poqm/hr/sonnet6_qt.po | 
+ | [hsb](/f41/language/hsb) | 0 | 684 | 0.0 | /mnt/stockage/packages/f41/kf6-sonnet/poqm/hsb/sonnet6_qt.po | 
+ | [hy](/f41/language/hy) | 0 | 684 | 0.0 | /mnt/stockage/packages/f41/kf6-sonnet/poqm/hy/sonnet6_qt.po | 
+ | [kk](/f41/language/kk) | 0 | 684 | 0.0 | /mnt/stockage/packages/f41/kf6-sonnet/poqm/kk/sonnet6_qt.po | 
+ | [km](/f41/language/km) | 0 | 684 | 0.0 | /mnt/stockage/packages/f41/kf6-sonnet/poqm/km/sonnet6_qt.po | 
+ | [kn](/f41/language/kn) | 0 | 684 | 0.0 | /mnt/stockage/packages/f41/kf6-sonnet/poqm/kn/sonnet6_qt.po | 
+ | [ku](/f41/language/ku) | 0 | 684 | 0.0 | /mnt/stockage/packages/f41/kf6-sonnet/poqm/ku/sonnet6_qt.po | 
+ | [lb](/f41/language/lb) | 0 | 684 | 0.0 | /mnt/stockage/packages/f41/kf6-sonnet/poqm/lb/sonnet6_qt.po | 
+ | [mai](/f41/language/mai) | 0 | 684 | 0.0 | /mnt/stockage/packages/f41/kf6-sonnet/poqm/mai/sonnet6_qt.po | 
+ | [mk](/f41/language/mk) | 0 | 684 | 0.0 | /mnt/stockage/packages/f41/kf6-sonnet/poqm/mk/sonnet6_qt.po | 
+ | [ml](/f41/language/ml) | 0 | 684 | 0.0 | /mnt/stockage/packages/f41/kf6-sonnet/poqm/ml/sonnet6_qt.po | 
+ | [ms](/f41/language/ms) | 0 | 684 | 0.0 | /mnt/stockage/packages/f41/kf6-sonnet/poqm/ms/sonnet6_qt.po | 
+ | [ne](/f41/language/ne) | 0 | 684 | 0.0 | /mnt/stockage/packages/f41/kf6-sonnet/poqm/ne/sonnet6_qt.po | 
+ | [oc](/f41/language/oc) | 0 | 684 | 0.0 | /mnt/stockage/packages/f41/kf6-sonnet/poqm/oc/sonnet6_qt.po | 
+ | [or](/f41/language/or) | 0 | 684 | 0.0 | /mnt/stockage/packages/f41/kf6-sonnet/poqm/or/sonnet6_qt.po | 
+ | [ps](/f41/language/ps) | 0 | 684 | 0.0 | /mnt/stockage/packages/f41/kf6-sonnet/poqm/ps/sonnet6_qt.po | 
+ | [se](/f41/language/se) | 0 | 684 | 0.0 | /mnt/stockage/packages/f41/kf6-sonnet/poqm/se/sonnet6_qt.po | 
+ | [si](/f41/language/si) | 0 | 684 | 0.0 | /mnt/stockage/packages/f41/kf6-sonnet/poqm/si/sonnet6_qt.po | 
+ | [sq](/f41/language/sq) | 0 | 684 | 0.0 | /mnt/stockage/packages/f41/kf6-sonnet/poqm/sq/sonnet6_qt.po | 
+ | [te](/f41/language/te) | 0 | 684 | 0.0 | /mnt/stockage/packages/f41/kf6-sonnet/poqm/te/sonnet6_qt.po | 
+ | [th](/f41/language/th) | 0 | 684 | 0.0 | /mnt/stockage/packages/f41/kf6-sonnet/poqm/th/sonnet6_qt.po | 
+ | [tt](/f41/language/tt) | 0 | 684 | 0.0 | /mnt/stockage/packages/f41/kf6-sonnet/poqm/tt/sonnet6_qt.po | 
+ | [ug](/f41/language/ug) | 0 | 684 | 0.0 | /mnt/stockage/packages/f41/kf6-sonnet/poqm/ug/sonnet6_qt.po | 
+ | [uz](/f41/language/uz) | 0 | 1368 | 0.0 | /mnt/stockage/packages/f41/kf6-sonnet/poqm/uz@cyrillic/sonnet6_qt.po/mnt/stockage/packages/f41/kf6-sonnet/poqm/uz/sonnet6_qt.po | 
+ | [wa](/f41/language/wa) | 0 | 684 | 0.0 | /mnt/stockage/packages/f41/kf6-sonnet/poqm/wa/sonnet6_qt.po | 
+ | [xh](/f41/language/xh) | 0 | 684 | 0.0 | /mnt/stockage/packages/f41/kf6-sonnet/poqm/xh/sonnet6_qt.po | 
+ | [zh_Hant_HK](/f41/language/zh_Hant_HK) | 0 | 684 | 0.0 | /mnt/stockage/packages/f41/kf6-sonnet/poqm/zh_HK/sonnet6_qt.po | 
 {.sortable}
 
 

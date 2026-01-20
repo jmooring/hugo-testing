@@ -18,40 +18,40 @@ The package ktp-presence-applet (version 0.5.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [bs]({{< ref "/f18/language/bs.md" >}}) | 19 | 19 | 100.0 | /mnt/stockage/packages/f18/ktp-presence-applet/po/bs/plasma_applet_ktp_presence.po | 
- | [ca]({{< ref "/f18/language/ca.md" >}}) | 19 | 19 | 100.0 | /mnt/stockage/packages/f18/ktp-presence-applet/po/ca/plasma_applet_ktp_presence.po | 
- | [cs]({{< ref "/f18/language/cs.md" >}}) | 19 | 19 | 100.0 | /mnt/stockage/packages/f18/ktp-presence-applet/po/cs/plasma_applet_ktp_presence.po | 
- | [da]({{< ref "/f18/language/da.md" >}}) | 19 | 19 | 100.0 | /mnt/stockage/packages/f18/ktp-presence-applet/po/da/plasma_applet_ktp_presence.po | 
- | [de]({{< ref "/f18/language/de.md" >}}) | 19 | 19 | 100.0 | /mnt/stockage/packages/f18/ktp-presence-applet/po/de/plasma_applet_ktp_presence.po | 
- | [el]({{< ref "/f18/language/el.md" >}}) | 19 | 19 | 100.0 | /mnt/stockage/packages/f18/ktp-presence-applet/po/el/plasma_applet_ktp_presence.po | 
- | [es]({{< ref "/f18/language/es.md" >}}) | 19 | 19 | 100.0 | /mnt/stockage/packages/f18/ktp-presence-applet/po/es/plasma_applet_ktp_presence.po | 
- | [et]({{< ref "/f18/language/et.md" >}}) | 19 | 19 | 100.0 | /mnt/stockage/packages/f18/ktp-presence-applet/po/et/plasma_applet_ktp_presence.po | 
- | [fi]({{< ref "/f18/language/fi.md" >}}) | 19 | 19 | 100.0 | /mnt/stockage/packages/f18/ktp-presence-applet/po/fi/plasma_applet_ktp_presence.po | 
- | [ga]({{< ref "/f18/language/ga.md" >}}) | 19 | 19 | 100.0 | /mnt/stockage/packages/f18/ktp-presence-applet/po/ga/plasma_applet_ktp_presence.po | 
- | [gl]({{< ref "/f18/language/gl.md" >}}) | 19 | 19 | 100.0 | /mnt/stockage/packages/f18/ktp-presence-applet/po/gl/plasma_applet_ktp_presence.po | 
- | [hu]({{< ref "/f18/language/hu.md" >}}) | 19 | 19 | 100.0 | /mnt/stockage/packages/f18/ktp-presence-applet/po/hu/plasma_applet_ktp_presence.po | 
- | [it]({{< ref "/f18/language/it.md" >}}) | 19 | 19 | 100.0 | /mnt/stockage/packages/f18/ktp-presence-applet/po/it/plasma_applet_ktp_presence.po | 
- | [nb_NO]({{< ref "/f18/language/nb_NO.md" >}}) | 19 | 19 | 100.0 | /mnt/stockage/packages/f18/ktp-presence-applet/po/nb/plasma_applet_ktp_presence.po | 
- | [nl]({{< ref "/f18/language/nl.md" >}}) | 19 | 19 | 100.0 | /mnt/stockage/packages/f18/ktp-presence-applet/po/nl/plasma_applet_ktp_presence.po | 
- | [pl]({{< ref "/f18/language/pl.md" >}}) | 19 | 19 | 100.0 | /mnt/stockage/packages/f18/ktp-presence-applet/po/pl/plasma_applet_ktp_presence.po | 
- | [pt]({{< ref "/f18/language/pt.md" >}}) | 19 | 19 | 100.0 | /mnt/stockage/packages/f18/ktp-presence-applet/po/pt/plasma_applet_ktp_presence.po | 
- | [pt_BR]({{< ref "/f18/language/pt_BR.md" >}}) | 19 | 19 | 100.0 | /mnt/stockage/packages/f18/ktp-presence-applet/po/pt_BR/plasma_applet_ktp_presence.po | 
- | [ro]({{< ref "/f18/language/ro.md" >}}) | 19 | 19 | 100.0 | /mnt/stockage/packages/f18/ktp-presence-applet/po/ro/plasma_applet_ktp_presence.po | 
- | [sk]({{< ref "/f18/language/sk.md" >}}) | 19 | 19 | 100.0 | /mnt/stockage/packages/f18/ktp-presence-applet/po/sk/plasma_applet_ktp_presence.po | 
- | [sl]({{< ref "/f18/language/sl.md" >}}) | 19 | 19 | 100.0 | /mnt/stockage/packages/f18/ktp-presence-applet/po/sl/plasma_applet_ktp_presence.po | 
- | [sr]({{< ref "/f18/language/sr.md" >}}) | 19 | 19 | 100.0 | /mnt/stockage/packages/f18/ktp-presence-applet/po/sr/plasma_applet_ktp_presence.po | 
- | [sr@ijekavian]({{< ref "/f18/language/sr@ijekavian.md" >}}) | 19 | 19 | 100.0 | /mnt/stockage/packages/f18/ktp-presence-applet/po/sr@ijekavian/plasma_applet_ktp_presence.po | 
- | [sr@ijekavian_Latn]({{< ref "/f18/language/sr@ijekavian_Latn.md" >}}) | 19 | 19 | 100.0 | /mnt/stockage/packages/f18/ktp-presence-applet/po/sr@ijekavianlatin/plasma_applet_ktp_presence.po | 
- | [sr_Latn]({{< ref "/f18/language/sr_Latn.md" >}}) | 19 | 19 | 100.0 | /mnt/stockage/packages/f18/ktp-presence-applet/po/sr@latin/plasma_applet_ktp_presence.po | 
- | [sv]({{< ref "/f18/language/sv.md" >}}) | 19 | 19 | 100.0 | /mnt/stockage/packages/f18/ktp-presence-applet/po/sv/plasma_applet_ktp_presence.po | 
- | [uk]({{< ref "/f18/language/uk.md" >}}) | 19 | 19 | 100.0 | /mnt/stockage/packages/f18/ktp-presence-applet/po/uk/plasma_applet_ktp_presence.po | 
- | [zh_Hans]({{< ref "/f18/language/zh_Hans.md" >}}) | 19 | 19 | 100.0 | /mnt/stockage/packages/f18/ktp-presence-applet/po/zh_CN/plasma_applet_ktp_presence.po | 
- | [zh_Hant]({{< ref "/f18/language/zh_Hant.md" >}}) | 19 | 19 | 100.0 | /mnt/stockage/packages/f18/ktp-presence-applet/po/zh_TW/plasma_applet_ktp_presence.po | 
- | [lt]({{< ref "/f18/language/lt.md" >}}) | 16 | 19 | 84.2 | /mnt/stockage/packages/f18/ktp-presence-applet/po/lt/plasma_applet_ktp_presence.po | 
- | [fr]({{< ref "/f18/language/fr.md" >}}) | 9 | 19 | 47.4 | /mnt/stockage/packages/f18/ktp-presence-applet/po/fr/plasma_applet_ktp_presence.po | 
- | [ru]({{< ref "/f18/language/ru.md" >}}) | 9 | 19 | 47.4 | /mnt/stockage/packages/f18/ktp-presence-applet/po/ru/plasma_applet_ktp_presence.po | 
- | [nds]({{< ref "/f18/language/nds.md" >}}) | 7 | 19 | 36.8 | /mnt/stockage/packages/f18/ktp-presence-applet/po/nds/plasma_applet_ktp_presence.po | 
- | [ja]({{< ref "/f18/language/ja.md" >}}) | 0 | 19 | 0.0 | /mnt/stockage/packages/f18/ktp-presence-applet/po/ja/plasma_applet_ktp_presence.po | 
+ | [bs](/f18/language/bs) | 19 | 19 | 100.0 | /mnt/stockage/packages/f18/ktp-presence-applet/po/bs/plasma_applet_ktp_presence.po | 
+ | [ca](/f18/language/ca) | 19 | 19 | 100.0 | /mnt/stockage/packages/f18/ktp-presence-applet/po/ca/plasma_applet_ktp_presence.po | 
+ | [cs](/f18/language/cs) | 19 | 19 | 100.0 | /mnt/stockage/packages/f18/ktp-presence-applet/po/cs/plasma_applet_ktp_presence.po | 
+ | [da](/f18/language/da) | 19 | 19 | 100.0 | /mnt/stockage/packages/f18/ktp-presence-applet/po/da/plasma_applet_ktp_presence.po | 
+ | [de](/f18/language/de) | 19 | 19 | 100.0 | /mnt/stockage/packages/f18/ktp-presence-applet/po/de/plasma_applet_ktp_presence.po | 
+ | [el](/f18/language/el) | 19 | 19 | 100.0 | /mnt/stockage/packages/f18/ktp-presence-applet/po/el/plasma_applet_ktp_presence.po | 
+ | [es](/f18/language/es) | 19 | 19 | 100.0 | /mnt/stockage/packages/f18/ktp-presence-applet/po/es/plasma_applet_ktp_presence.po | 
+ | [et](/f18/language/et) | 19 | 19 | 100.0 | /mnt/stockage/packages/f18/ktp-presence-applet/po/et/plasma_applet_ktp_presence.po | 
+ | [fi](/f18/language/fi) | 19 | 19 | 100.0 | /mnt/stockage/packages/f18/ktp-presence-applet/po/fi/plasma_applet_ktp_presence.po | 
+ | [ga](/f18/language/ga) | 19 | 19 | 100.0 | /mnt/stockage/packages/f18/ktp-presence-applet/po/ga/plasma_applet_ktp_presence.po | 
+ | [gl](/f18/language/gl) | 19 | 19 | 100.0 | /mnt/stockage/packages/f18/ktp-presence-applet/po/gl/plasma_applet_ktp_presence.po | 
+ | [hu](/f18/language/hu) | 19 | 19 | 100.0 | /mnt/stockage/packages/f18/ktp-presence-applet/po/hu/plasma_applet_ktp_presence.po | 
+ | [it](/f18/language/it) | 19 | 19 | 100.0 | /mnt/stockage/packages/f18/ktp-presence-applet/po/it/plasma_applet_ktp_presence.po | 
+ | [nb_NO](/f18/language/nb_NO) | 19 | 19 | 100.0 | /mnt/stockage/packages/f18/ktp-presence-applet/po/nb/plasma_applet_ktp_presence.po | 
+ | [nl](/f18/language/nl) | 19 | 19 | 100.0 | /mnt/stockage/packages/f18/ktp-presence-applet/po/nl/plasma_applet_ktp_presence.po | 
+ | [pl](/f18/language/pl) | 19 | 19 | 100.0 | /mnt/stockage/packages/f18/ktp-presence-applet/po/pl/plasma_applet_ktp_presence.po | 
+ | [pt](/f18/language/pt) | 19 | 19 | 100.0 | /mnt/stockage/packages/f18/ktp-presence-applet/po/pt/plasma_applet_ktp_presence.po | 
+ | [pt_BR](/f18/language/pt_BR) | 19 | 19 | 100.0 | /mnt/stockage/packages/f18/ktp-presence-applet/po/pt_BR/plasma_applet_ktp_presence.po | 
+ | [ro](/f18/language/ro) | 19 | 19 | 100.0 | /mnt/stockage/packages/f18/ktp-presence-applet/po/ro/plasma_applet_ktp_presence.po | 
+ | [sk](/f18/language/sk) | 19 | 19 | 100.0 | /mnt/stockage/packages/f18/ktp-presence-applet/po/sk/plasma_applet_ktp_presence.po | 
+ | [sl](/f18/language/sl) | 19 | 19 | 100.0 | /mnt/stockage/packages/f18/ktp-presence-applet/po/sl/plasma_applet_ktp_presence.po | 
+ | [sr](/f18/language/sr) | 19 | 19 | 100.0 | /mnt/stockage/packages/f18/ktp-presence-applet/po/sr/plasma_applet_ktp_presence.po | 
+ | [sr@ijekavian](/f18/language/sr@ijekavian) | 19 | 19 | 100.0 | /mnt/stockage/packages/f18/ktp-presence-applet/po/sr@ijekavian/plasma_applet_ktp_presence.po | 
+ | [sr@ijekavian_Latn](/f18/language/sr@ijekavian_Latn) | 19 | 19 | 100.0 | /mnt/stockage/packages/f18/ktp-presence-applet/po/sr@ijekavianlatin/plasma_applet_ktp_presence.po | 
+ | [sr_Latn](/f18/language/sr_Latn) | 19 | 19 | 100.0 | /mnt/stockage/packages/f18/ktp-presence-applet/po/sr@latin/plasma_applet_ktp_presence.po | 
+ | [sv](/f18/language/sv) | 19 | 19 | 100.0 | /mnt/stockage/packages/f18/ktp-presence-applet/po/sv/plasma_applet_ktp_presence.po | 
+ | [uk](/f18/language/uk) | 19 | 19 | 100.0 | /mnt/stockage/packages/f18/ktp-presence-applet/po/uk/plasma_applet_ktp_presence.po | 
+ | [zh_Hans](/f18/language/zh_Hans) | 19 | 19 | 100.0 | /mnt/stockage/packages/f18/ktp-presence-applet/po/zh_CN/plasma_applet_ktp_presence.po | 
+ | [zh_Hant](/f18/language/zh_Hant) | 19 | 19 | 100.0 | /mnt/stockage/packages/f18/ktp-presence-applet/po/zh_TW/plasma_applet_ktp_presence.po | 
+ | [lt](/f18/language/lt) | 16 | 19 | 84.2 | /mnt/stockage/packages/f18/ktp-presence-applet/po/lt/plasma_applet_ktp_presence.po | 
+ | [fr](/f18/language/fr) | 9 | 19 | 47.4 | /mnt/stockage/packages/f18/ktp-presence-applet/po/fr/plasma_applet_ktp_presence.po | 
+ | [ru](/f18/language/ru) | 9 | 19 | 47.4 | /mnt/stockage/packages/f18/ktp-presence-applet/po/ru/plasma_applet_ktp_presence.po | 
+ | [nds](/f18/language/nds) | 7 | 19 | 36.8 | /mnt/stockage/packages/f18/ktp-presence-applet/po/nds/plasma_applet_ktp_presence.po | 
+ | [ja](/f18/language/ja) | 0 | 19 | 0.0 | /mnt/stockage/packages/f18/ktp-presence-applet/po/ja/plasma_applet_ktp_presence.po | 
 {.sortable}
 
 

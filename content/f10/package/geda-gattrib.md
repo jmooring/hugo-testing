@@ -18,9 +18,9 @@ The package geda-gattrib (version 20081231):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f10/language/de.md" >}}) | 8 | 8 | 100.0 | /mnt/stockage/packages/f10/geda-gattrib/po/de_DE.po | 
- | [es]({{< ref "/f10/language/es.md" >}}) | 8 | 8 | 100.0 | /mnt/stockage/packages/f10/geda-gattrib/po/es_ES.po | 
- | [nl]({{< ref "/f10/language/nl.md" >}}) | 8 | 8 | 100.0 | /mnt/stockage/packages/f10/geda-gattrib/po/nl_NL.po | 
+ | [de](/f10/language/de) | 8 | 8 | 100.0 | /mnt/stockage/packages/f10/geda-gattrib/po/de_DE.po | 
+ | [es](/f10/language/es) | 8 | 8 | 100.0 | /mnt/stockage/packages/f10/geda-gattrib/po/es_ES.po | 
+ | [nl](/f10/language/nl) | 8 | 8 | 100.0 | /mnt/stockage/packages/f10/geda-gattrib/po/nl_NL.po | 
 {.sortable}
 
 

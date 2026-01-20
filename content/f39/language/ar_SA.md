@@ -38,19 +38,19 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [clapper]({{< ref "/f39/package/clapper.md" >}}) | 253 | 253 | 100.0 | Arabic | 
- | [gnome-shell-extension-gsconnect]({{< ref "/f39/package/gnome-shell-extension-gsconnect.md" >}}) | 834 | 834 | 100.0 | Arabic | 
- | [xournalpp]({{< ref "/f39/package/xournalpp.md" >}}) | 4711 | 4711 | 100.0 | Arabic | 
- | [poedit]({{< ref "/f39/package/poedit.md" >}}) | 2964 | 3168 | 93.6 | Arabic | 
- | [python-flask-admin]({{< ref "/f39/package/python-flask-admin.md" >}}) | 320 | 367 | 87.2 | Arabic | 
- | [gimagereader]({{< ref "/f39/package/gimagereader.md" >}}) | 1544 | 1817 | 85.0 | Arabic (Saudi Arabia) <https://hosted.weblate.org/projects/gimagereader/translations/ar_SA/> | 
- | [warzone2100]({{< ref "/f39/package/warzone2100.md" >}}) | 12961 | 15773 | 82.2 | Arabic | 
- | [texi2html]({{< ref "/f39/package/texi2html.md" >}}) | 12 | 19 | 63.2 | Arabic <guido@imperia.net> | 
- | [electrum]({{< ref "/f39/package/electrum.md" >}}) | 1642 | 13041 | 12.6 | Arabic | 
- | [pidgin]({{< ref "/f39/package/pidgin.md" >}}) | 85 | 13994 | 0.6 | Arabic (Saudi Arabia) (http://www.transifex.com/pidgin/pidgin/language/ar_SA/) | 
- | [cacti]({{< ref "/f39/package/cacti.md" >}}) | 0 | 0 | 0.0 | Arabic (Saudi Arabia) <http://translate.cacti.net/projects/cacti/core-v1-2-x/ar_SA/> | 
- | [duplicity]({{< ref "/f39/package/duplicity.md" >}}) | 0 | 2433 | 0.0 | Arabic | 
- | [mate-themes]({{< ref "/f39/package/mate-themes.md" >}}) | 0 | 74 | 0.0 | Arabic (Saudi Arabia) (http://www.transifex.com/mate/MATE/language/ar_SA/) | 
+ | [clapper](/f39/package/clapper) | 253 | 253 | 100.0 | Arabic | 
+ | [gnome-shell-extension-gsconnect](/f39/package/gnome-shell-extension-gsconnect) | 834 | 834 | 100.0 | Arabic | 
+ | [xournalpp](/f39/package/xournalpp) | 4711 | 4711 | 100.0 | Arabic | 
+ | [poedit](/f39/package/poedit) | 2964 | 3168 | 93.6 | Arabic | 
+ | [python-flask-admin](/f39/package/python-flask-admin) | 320 | 367 | 87.2 | Arabic | 
+ | [gimagereader](/f39/package/gimagereader) | 1544 | 1817 | 85.0 | Arabic (Saudi Arabia) <https://hosted.weblate.org/projects/gimagereader/translations/ar_SA/> | 
+ | [warzone2100](/f39/package/warzone2100) | 12961 | 15773 | 82.2 | Arabic | 
+ | [texi2html](/f39/package/texi2html) | 12 | 19 | 63.2 | Arabic <guido@imperia.net> | 
+ | [electrum](/f39/package/electrum) | 1642 | 13041 | 12.6 | Arabic | 
+ | [pidgin](/f39/package/pidgin) | 85 | 13994 | 0.6 | Arabic (Saudi Arabia) (http://www.transifex.com/pidgin/pidgin/language/ar_SA/) | 
+ | [cacti](/f39/package/cacti) | 0 | 0 | 0.0 | Arabic (Saudi Arabia) <http://translate.cacti.net/projects/cacti/core-v1-2-x/ar_SA/> | 
+ | [duplicity](/f39/package/duplicity) | 0 | 2433 | 0.0 | Arabic | 
+ | [mate-themes](/f39/package/mate-themes) | 0 | 74 | 0.0 | Arabic (Saudi Arabia) (http://www.transifex.com/mate/MATE/language/ar_SA/) | 
 {.sortable}
 
 
@@ -65,7 +65,7 @@ We use the calcstats from translate toolkit to get the translation progress, but
 
 | Package | Lang from file path/name | Team |
 |---------|--------------------------|------|
- | [cacti]({{< ref "/f39/package/cacti.md" >}}) | /mnt/stockage/packages/f39/cacti/locales/po/ar-SA.po | Arabic (Saudi Arabia) <http://translate.cacti.net/projects/cacti/core-v1-2-x/ar_SA/> | 
+ | [cacti](/f39/package/cacti) | /mnt/stockage/packages/f39/cacti/locales/po/ar-SA.po | Arabic (Saudi Arabia) <http://translate.cacti.net/projects/cacti/core-v1-2-x/ar_SA/> | 
 {.sortable}
 
 

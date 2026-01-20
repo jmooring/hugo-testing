@@ -18,23 +18,23 @@ The package nss-ldapd (version 0.6.11):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f12/language/cs.md" >}}) | 438 | 438 | 100.0 | /mnt/stockage/packages/f12/nss-ldapd/debian/po/cs.po | 
- | [es]({{< ref "/f12/language/es.md" >}}) | 438 | 438 | 100.0 | /mnt/stockage/packages/f12/nss-ldapd/debian/po/es.po | 
- | [fi]({{< ref "/f12/language/fi.md" >}}) | 438 | 438 | 100.0 | /mnt/stockage/packages/f12/nss-ldapd/debian/po/fi.po | 
- | [fr]({{< ref "/f12/language/fr.md" >}}) | 438 | 438 | 100.0 | /mnt/stockage/packages/f12/nss-ldapd/debian/po/fr.po | 
- | [ja]({{< ref "/f12/language/ja.md" >}}) | 438 | 438 | 100.0 | /mnt/stockage/packages/f12/nss-ldapd/debian/po/ja.po | 
- | [pt]({{< ref "/f12/language/pt.md" >}}) | 438 | 438 | 100.0 | /mnt/stockage/packages/f12/nss-ldapd/debian/po/pt.po | 
- | [ru]({{< ref "/f12/language/ru.md" >}}) | 438 | 438 | 100.0 | /mnt/stockage/packages/f12/nss-ldapd/debian/po/ru.po | 
- | [sv]({{< ref "/f12/language/sv.md" >}}) | 438 | 438 | 100.0 | /mnt/stockage/packages/f12/nss-ldapd/debian/po/sv.po | 
- | [zh_Hans]({{< ref "/f12/language/zh_Hans.md" >}}) | 430 | 438 | 98.2 | /mnt/stockage/packages/f12/nss-ldapd/debian/po/zh_CN.po | 
- | [da]({{< ref "/f12/language/da.md" >}}) | 185 | 438 | 42.2 | /mnt/stockage/packages/f12/nss-ldapd/debian/po/da.po | 
- | [gl]({{< ref "/f12/language/gl.md" >}}) | 185 | 438 | 42.2 | /mnt/stockage/packages/f12/nss-ldapd/debian/po/gl.po | 
- | [it]({{< ref "/f12/language/it.md" >}}) | 185 | 438 | 42.2 | /mnt/stockage/packages/f12/nss-ldapd/debian/po/it.po | 
- | [de]({{< ref "/f12/language/de.md" >}}) | 105 | 438 | 24.0 | /mnt/stockage/packages/f12/nss-ldapd/debian/po/de.po | 
- | [nl]({{< ref "/f12/language/nl.md" >}}) | 105 | 438 | 24.0 | /mnt/stockage/packages/f12/nss-ldapd/debian/po/nl.po | 
- | [ca]({{< ref "/f12/language/ca.md" >}}) | 53 | 438 | 12.1 | /mnt/stockage/packages/f12/nss-ldapd/debian/po/ca.po | 
- | [pt_BR]({{< ref "/f12/language/pt_BR.md" >}}) | 53 | 438 | 12.1 | /mnt/stockage/packages/f12/nss-ldapd/debian/po/pt_BR.po | 
- | [vi]({{< ref "/f12/language/vi.md" >}}) | 53 | 438 | 12.1 | /mnt/stockage/packages/f12/nss-ldapd/debian/po/vi.po | 
+ | [cs](/f12/language/cs) | 438 | 438 | 100.0 | /mnt/stockage/packages/f12/nss-ldapd/debian/po/cs.po | 
+ | [es](/f12/language/es) | 438 | 438 | 100.0 | /mnt/stockage/packages/f12/nss-ldapd/debian/po/es.po | 
+ | [fi](/f12/language/fi) | 438 | 438 | 100.0 | /mnt/stockage/packages/f12/nss-ldapd/debian/po/fi.po | 
+ | [fr](/f12/language/fr) | 438 | 438 | 100.0 | /mnt/stockage/packages/f12/nss-ldapd/debian/po/fr.po | 
+ | [ja](/f12/language/ja) | 438 | 438 | 100.0 | /mnt/stockage/packages/f12/nss-ldapd/debian/po/ja.po | 
+ | [pt](/f12/language/pt) | 438 | 438 | 100.0 | /mnt/stockage/packages/f12/nss-ldapd/debian/po/pt.po | 
+ | [ru](/f12/language/ru) | 438 | 438 | 100.0 | /mnt/stockage/packages/f12/nss-ldapd/debian/po/ru.po | 
+ | [sv](/f12/language/sv) | 438 | 438 | 100.0 | /mnt/stockage/packages/f12/nss-ldapd/debian/po/sv.po | 
+ | [zh_Hans](/f12/language/zh_Hans) | 430 | 438 | 98.2 | /mnt/stockage/packages/f12/nss-ldapd/debian/po/zh_CN.po | 
+ | [da](/f12/language/da) | 185 | 438 | 42.2 | /mnt/stockage/packages/f12/nss-ldapd/debian/po/da.po | 
+ | [gl](/f12/language/gl) | 185 | 438 | 42.2 | /mnt/stockage/packages/f12/nss-ldapd/debian/po/gl.po | 
+ | [it](/f12/language/it) | 185 | 438 | 42.2 | /mnt/stockage/packages/f12/nss-ldapd/debian/po/it.po | 
+ | [de](/f12/language/de) | 105 | 438 | 24.0 | /mnt/stockage/packages/f12/nss-ldapd/debian/po/de.po | 
+ | [nl](/f12/language/nl) | 105 | 438 | 24.0 | /mnt/stockage/packages/f12/nss-ldapd/debian/po/nl.po | 
+ | [ca](/f12/language/ca) | 53 | 438 | 12.1 | /mnt/stockage/packages/f12/nss-ldapd/debian/po/ca.po | 
+ | [pt_BR](/f12/language/pt_BR) | 53 | 438 | 12.1 | /mnt/stockage/packages/f12/nss-ldapd/debian/po/pt_BR.po | 
+ | [vi](/f12/language/vi) | 53 | 438 | 12.1 | /mnt/stockage/packages/f12/nss-ldapd/debian/po/vi.po | 
 {.sortable}
 
 

@@ -18,18 +18,18 @@ The package xfce4-weather-plugin (version 0.6.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f8/language/cs.md" >}}) | 483 | 483 | 100.0 | /mnt/stockage/packages/f8/xfce4-weather-plugin/po/cs.po | 
- | [fr]({{< ref "/f8/language/fr.md" >}}) | 483 | 483 | 100.0 | /mnt/stockage/packages/f8/xfce4-weather-plugin/po/fr.po | 
- | [fi]({{< ref "/f8/language/fi.md" >}}) | 476 | 483 | 98.6 | /mnt/stockage/packages/f8/xfce4-weather-plugin/po/fi.po | 
- | [hu]({{< ref "/f8/language/hu.md" >}}) | 459 | 483 | 95.0 | /mnt/stockage/packages/f8/xfce4-weather-plugin/po/hu.po | 
- | [de]({{< ref "/f8/language/de.md" >}}) | 349 | 483 | 72.3 | /mnt/stockage/packages/f8/xfce4-weather-plugin/po/de.po | 
- | [zh_Hant]({{< ref "/f8/language/zh_Hant.md" >}}) | 339 | 483 | 70.2 | /mnt/stockage/packages/f8/xfce4-weather-plugin/po/zh_TW.po | 
- | [nl]({{< ref "/f8/language/nl.md" >}}) | 334 | 483 | 69.2 | /mnt/stockage/packages/f8/xfce4-weather-plugin/po/nl.po | 
- | [eu]({{< ref "/f8/language/eu.md" >}}) | 328 | 483 | 67.9 | /mnt/stockage/packages/f8/xfce4-weather-plugin/po/eu.po | 
- | [lt]({{< ref "/f8/language/lt.md" >}}) | 304 | 483 | 62.9 | /mnt/stockage/packages/f8/xfce4-weather-plugin/po/lt.po | 
- | [sk]({{< ref "/f8/language/sk.md" >}}) | 252 | 483 | 52.2 | /mnt/stockage/packages/f8/xfce4-weather-plugin/po/sk.po | 
- | [ca]({{< ref "/f8/language/ca.md" >}}) | 60 | 483 | 12.4 | /mnt/stockage/packages/f8/xfce4-weather-plugin/po/ca.po | 
- | [gl]({{< ref "/f8/language/gl.md" >}}) | 20 | 483 | 4.1 | /mnt/stockage/packages/f8/xfce4-weather-plugin/po/gl.po | 
+ | [cs](/f8/language/cs) | 483 | 483 | 100.0 | /mnt/stockage/packages/f8/xfce4-weather-plugin/po/cs.po | 
+ | [fr](/f8/language/fr) | 483 | 483 | 100.0 | /mnt/stockage/packages/f8/xfce4-weather-plugin/po/fr.po | 
+ | [fi](/f8/language/fi) | 476 | 483 | 98.6 | /mnt/stockage/packages/f8/xfce4-weather-plugin/po/fi.po | 
+ | [hu](/f8/language/hu) | 459 | 483 | 95.0 | /mnt/stockage/packages/f8/xfce4-weather-plugin/po/hu.po | 
+ | [de](/f8/language/de) | 349 | 483 | 72.3 | /mnt/stockage/packages/f8/xfce4-weather-plugin/po/de.po | 
+ | [zh_Hant](/f8/language/zh_Hant) | 339 | 483 | 70.2 | /mnt/stockage/packages/f8/xfce4-weather-plugin/po/zh_TW.po | 
+ | [nl](/f8/language/nl) | 334 | 483 | 69.2 | /mnt/stockage/packages/f8/xfce4-weather-plugin/po/nl.po | 
+ | [eu](/f8/language/eu) | 328 | 483 | 67.9 | /mnt/stockage/packages/f8/xfce4-weather-plugin/po/eu.po | 
+ | [lt](/f8/language/lt) | 304 | 483 | 62.9 | /mnt/stockage/packages/f8/xfce4-weather-plugin/po/lt.po | 
+ | [sk](/f8/language/sk) | 252 | 483 | 52.2 | /mnt/stockage/packages/f8/xfce4-weather-plugin/po/sk.po | 
+ | [ca](/f8/language/ca) | 60 | 483 | 12.4 | /mnt/stockage/packages/f8/xfce4-weather-plugin/po/ca.po | 
+ | [gl](/f8/language/gl) | 20 | 483 | 4.1 | /mnt/stockage/packages/f8/xfce4-weather-plugin/po/gl.po | 
 {.sortable}
 
 

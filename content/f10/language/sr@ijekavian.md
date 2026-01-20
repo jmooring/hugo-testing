@@ -45,22 +45,22 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [at-spi]({{< ref "/f10/package/at-spi.md" >}}) | 15 | 15 | 100.0 | Serbian (sr) <serbiangnome-lista@nongnu.org> | 
- | [gnome-mime-data]({{< ref "/f10/package/gnome-mime-data.md" >}}) | 887 | 887 | 100.0 | Serbian (sr) <serbiangnome-lista@nongnu.org> | 
- | [libgnome]({{< ref "/f10/package/libgnome.md" >}}) | 1407 | 1407 | 100.0 | Serbian (sr) <gnom@prevod.org> | 
- | [libgnomecanvas]({{< ref "/f10/package/libgnomecanvas.md" >}}) | 357 | 357 | 100.0 | Serbian (sr) <serbiagnome-lista@nongnu.org> | 
- | [atk]({{< ref "/f10/package/atk.md" >}}) | 359 | 370 | 97.0 | Serbian (sr) <gnom@prevod.org> | 
- | [mingw32-atk]({{< ref "/f10/package/mingw32-atk.md" >}}) | 359 | 375 | 95.7 | Serbian (sr) <gnom@prevod.org> | 
- | [libgnomeui]({{< ref "/f10/package/libgnomeui.md" >}}) | 1270 | 1419 | 89.5 | Serbian (sr) <gnom@prevod.org> | 
- | [nautilus]({{< ref "/f10/package/nautilus.md" >}}) | 6241 | 6976 | 89.5 | Serbian (sr) <serbiangnome-lista@nongnu.org> | 
- | [libbonoboui]({{< ref "/f10/package/libbonoboui.md" >}}) | 314 | 360 | 87.2 | Serbian (sr) <serbiangnome-lista@nongnu.org> | 
- | [gnome-panel]({{< ref "/f10/package/gnome-panel.md" >}}) | 3423 | 3937 | 86.9 | Serbian (sr) <serbiagnome-lista@nongnu.org> | 
- | [file-roller]({{< ref "/f10/package/file-roller.md" >}}) | 799 | 971 | 82.3 | Serbian (sr) <serbiangnome-lista@nongnu.org> | 
- | [gnome-vfs2]({{< ref "/f10/package/gnome-vfs2.md" >}}) | 747 | 1282 | 58.3 | Serbian (sr) <serbiangnome-lista@nongnu.org> | 
- | [mingw32-gtk2]({{< ref "/f10/package/mingw32-gtk2.md" >}}) | 6926 | 12400 | 55.9 | Serbian (sr) <serbiangnome-lista@nongnu.org> | 
- | [gtk2]({{< ref "/f10/package/gtk2.md" >}}) | 7002 | 12760 | 54.9 | Serbian (sr) <serbiangnome-lista@nongnu.org> | 
- | [glib2]({{< ref "/f10/package/glib2.md" >}}) | 731 | 2197 | 33.3 | Serbian (sr) <serbiagnome-lista@nongnu.org> | 
- | [mingw32-glib2]({{< ref "/f10/package/mingw32-glib2.md" >}}) | 731 | 2325 | 31.4 | Serbian (sr) <serbiagnome-lista@nongnu.org> | 
+ | [at-spi](/f10/package/at-spi) | 15 | 15 | 100.0 | Serbian (sr) <serbiangnome-lista@nongnu.org> | 
+ | [gnome-mime-data](/f10/package/gnome-mime-data) | 887 | 887 | 100.0 | Serbian (sr) <serbiangnome-lista@nongnu.org> | 
+ | [libgnome](/f10/package/libgnome) | 1407 | 1407 | 100.0 | Serbian (sr) <gnom@prevod.org> | 
+ | [libgnomecanvas](/f10/package/libgnomecanvas) | 357 | 357 | 100.0 | Serbian (sr) <serbiagnome-lista@nongnu.org> | 
+ | [atk](/f10/package/atk) | 359 | 370 | 97.0 | Serbian (sr) <gnom@prevod.org> | 
+ | [mingw32-atk](/f10/package/mingw32-atk) | 359 | 375 | 95.7 | Serbian (sr) <gnom@prevod.org> | 
+ | [libgnomeui](/f10/package/libgnomeui) | 1270 | 1419 | 89.5 | Serbian (sr) <gnom@prevod.org> | 
+ | [nautilus](/f10/package/nautilus) | 6241 | 6976 | 89.5 | Serbian (sr) <serbiangnome-lista@nongnu.org> | 
+ | [libbonoboui](/f10/package/libbonoboui) | 314 | 360 | 87.2 | Serbian (sr) <serbiangnome-lista@nongnu.org> | 
+ | [gnome-panel](/f10/package/gnome-panel) | 3423 | 3937 | 86.9 | Serbian (sr) <serbiagnome-lista@nongnu.org> | 
+ | [file-roller](/f10/package/file-roller) | 799 | 971 | 82.3 | Serbian (sr) <serbiangnome-lista@nongnu.org> | 
+ | [gnome-vfs2](/f10/package/gnome-vfs2) | 747 | 1282 | 58.3 | Serbian (sr) <serbiangnome-lista@nongnu.org> | 
+ | [mingw32-gtk2](/f10/package/mingw32-gtk2) | 6926 | 12400 | 55.9 | Serbian (sr) <serbiangnome-lista@nongnu.org> | 
+ | [gtk2](/f10/package/gtk2) | 7002 | 12760 | 54.9 | Serbian (sr) <serbiangnome-lista@nongnu.org> | 
+ | [glib2](/f10/package/glib2) | 731 | 2197 | 33.3 | Serbian (sr) <serbiagnome-lista@nongnu.org> | 
+ | [mingw32-glib2](/f10/package/mingw32-glib2) | 731 | 2325 | 31.4 | Serbian (sr) <serbiagnome-lista@nongnu.org> | 
 {.sortable}
 
 

@@ -18,30 +18,30 @@ The package xsane (version 0.999):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f35/language/ca.md" >}}) | 3224 | 3224 | 100.0 | /mnt/stockage/packages/f35/xsane/po/ca.po | 
- | [da]({{< ref "/f35/language/da.md" >}}) | 3224 | 3224 | 100.0 | /mnt/stockage/packages/f35/xsane/po/da.po | 
- | [pa]({{< ref "/f35/language/pa.md" >}}) | 3224 | 3224 | 100.0 | /mnt/stockage/packages/f35/xsane/po/pa.po | 
- | [de]({{< ref "/f35/language/de.md" >}}) | 3219 | 3224 | 99.8 | /mnt/stockage/packages/f35/xsane/backend-po/umax.de.po/mnt/stockage/packages/f35/xsane/po/de.po | 
- | [sr]({{< ref "/f35/language/sr.md" >}}) | 3906 | 3913 | 99.8 | /mnt/stockage/packages/f35/xsane/backend-po/umax1220u.sr.po/mnt/stockage/packages/f35/xsane/po/sr.po | 
- | [it]({{< ref "/f35/language/it.md" >}}) | 3215 | 3224 | 99.7 | /mnt/stockage/packages/f35/xsane/po/it.po | 
- | [sk]({{< ref "/f35/language/sk.md" >}}) | 3147 | 3224 | 97.6 | /mnt/stockage/packages/f35/xsane/po/sk.po | 
- | [cs]({{< ref "/f35/language/cs.md" >}}) | 2358 | 3224 | 73.1 | /mnt/stockage/packages/f35/xsane/po/cs.po | 
- | [hu]({{< ref "/f35/language/hu.md" >}}) | 2358 | 3224 | 73.1 | /mnt/stockage/packages/f35/xsane/po/hu.po | 
- | [ru]({{< ref "/f35/language/ru.md" >}}) | 2358 | 3224 | 73.1 | /mnt/stockage/packages/f35/xsane/po/ru.po | 
- | [sl]({{< ref "/f35/language/sl.md" >}}) | 2358 | 3224 | 73.1 | /mnt/stockage/packages/f35/xsane/po/sl.po | 
- | [nl]({{< ref "/f35/language/nl.md" >}}) | 2325 | 3224 | 72.1 | /mnt/stockage/packages/f35/xsane/po/nl.po | 
- | [tr]({{< ref "/f35/language/tr.md" >}}) | 2325 | 3224 | 72.1 | /mnt/stockage/packages/f35/xsane/po/tr.po | 
- | [pl]({{< ref "/f35/language/pl.md" >}}) | 2323 | 3224 | 72.1 | /mnt/stockage/packages/f35/xsane/po/pl.po | 
- | [es]({{< ref "/f35/language/es.md" >}}) | 2037 | 3224 | 63.2 | /mnt/stockage/packages/f35/xsane/po/es.po | 
- | [ja]({{< ref "/f35/language/ja.md" >}}) | 2037 | 3224 | 63.2 | /mnt/stockage/packages/f35/xsane/backend-po/umax.ja.po/mnt/stockage/packages/f35/xsane/po/ja.po | 
- | [ro]({{< ref "/f35/language/ro.md" >}}) | 2037 | 3224 | 63.2 | /mnt/stockage/packages/f35/xsane/po/ro.po | 
- | [vi]({{< ref "/f35/language/vi.md" >}}) | 2037 | 3224 | 63.2 | /mnt/stockage/packages/f35/xsane/po/vi.po | 
- | [fr]({{< ref "/f35/language/fr.md" >}}) | 2009 | 3224 | 62.3 | /mnt/stockage/packages/f35/xsane/po/fr.po | 
- | [pt]({{< ref "/f35/language/pt.md" >}}) | 2008 | 3224 | 62.3 | /mnt/stockage/packages/f35/xsane/po/pt.po | 
- | [pt_BR]({{< ref "/f35/language/pt_BR.md" >}}) | 2008 | 3224 | 62.3 | /mnt/stockage/packages/f35/xsane/po/pt_BR.po | 
- | [sv]({{< ref "/f35/language/sv.md" >}}) | 1938 | 3224 | 60.1 | /mnt/stockage/packages/f35/xsane/po/sv.po | 
- | [fi]({{< ref "/f35/language/fi.md" >}}) | 1297 | 3224 | 40.2 | /mnt/stockage/packages/f35/xsane/po/fi.po | 
- | [zh_Hans]({{< ref "/f35/language/zh_Hans.md" >}}) | 2340 | 6448 | 36.3 | /mnt/stockage/packages/f35/xsane/po/zh.po/mnt/stockage/packages/f35/xsane/po/zh_CN.po | 
+ | [ca](/f35/language/ca) | 3224 | 3224 | 100.0 | /mnt/stockage/packages/f35/xsane/po/ca.po | 
+ | [da](/f35/language/da) | 3224 | 3224 | 100.0 | /mnt/stockage/packages/f35/xsane/po/da.po | 
+ | [pa](/f35/language/pa) | 3224 | 3224 | 100.0 | /mnt/stockage/packages/f35/xsane/po/pa.po | 
+ | [de](/f35/language/de) | 3219 | 3224 | 99.8 | /mnt/stockage/packages/f35/xsane/backend-po/umax.de.po/mnt/stockage/packages/f35/xsane/po/de.po | 
+ | [sr](/f35/language/sr) | 3906 | 3913 | 99.8 | /mnt/stockage/packages/f35/xsane/backend-po/umax1220u.sr.po/mnt/stockage/packages/f35/xsane/po/sr.po | 
+ | [it](/f35/language/it) | 3215 | 3224 | 99.7 | /mnt/stockage/packages/f35/xsane/po/it.po | 
+ | [sk](/f35/language/sk) | 3147 | 3224 | 97.6 | /mnt/stockage/packages/f35/xsane/po/sk.po | 
+ | [cs](/f35/language/cs) | 2358 | 3224 | 73.1 | /mnt/stockage/packages/f35/xsane/po/cs.po | 
+ | [hu](/f35/language/hu) | 2358 | 3224 | 73.1 | /mnt/stockage/packages/f35/xsane/po/hu.po | 
+ | [ru](/f35/language/ru) | 2358 | 3224 | 73.1 | /mnt/stockage/packages/f35/xsane/po/ru.po | 
+ | [sl](/f35/language/sl) | 2358 | 3224 | 73.1 | /mnt/stockage/packages/f35/xsane/po/sl.po | 
+ | [nl](/f35/language/nl) | 2325 | 3224 | 72.1 | /mnt/stockage/packages/f35/xsane/po/nl.po | 
+ | [tr](/f35/language/tr) | 2325 | 3224 | 72.1 | /mnt/stockage/packages/f35/xsane/po/tr.po | 
+ | [pl](/f35/language/pl) | 2323 | 3224 | 72.1 | /mnt/stockage/packages/f35/xsane/po/pl.po | 
+ | [es](/f35/language/es) | 2037 | 3224 | 63.2 | /mnt/stockage/packages/f35/xsane/po/es.po | 
+ | [ja](/f35/language/ja) | 2037 | 3224 | 63.2 | /mnt/stockage/packages/f35/xsane/backend-po/umax.ja.po/mnt/stockage/packages/f35/xsane/po/ja.po | 
+ | [ro](/f35/language/ro) | 2037 | 3224 | 63.2 | /mnt/stockage/packages/f35/xsane/po/ro.po | 
+ | [vi](/f35/language/vi) | 2037 | 3224 | 63.2 | /mnt/stockage/packages/f35/xsane/po/vi.po | 
+ | [fr](/f35/language/fr) | 2009 | 3224 | 62.3 | /mnt/stockage/packages/f35/xsane/po/fr.po | 
+ | [pt](/f35/language/pt) | 2008 | 3224 | 62.3 | /mnt/stockage/packages/f35/xsane/po/pt.po | 
+ | [pt_BR](/f35/language/pt_BR) | 2008 | 3224 | 62.3 | /mnt/stockage/packages/f35/xsane/po/pt_BR.po | 
+ | [sv](/f35/language/sv) | 1938 | 3224 | 60.1 | /mnt/stockage/packages/f35/xsane/po/sv.po | 
+ | [fi](/f35/language/fi) | 1297 | 3224 | 40.2 | /mnt/stockage/packages/f35/xsane/po/fi.po | 
+ | [zh_Hans](/f35/language/zh_Hans) | 2340 | 6448 | 36.3 | /mnt/stockage/packages/f35/xsane/po/zh.po/mnt/stockage/packages/f35/xsane/po/zh_CN.po | 
 {.sortable}
 
 

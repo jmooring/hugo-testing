@@ -38,22 +38,22 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [alacarte]({{< ref "/f19/package/alacarte.md" >}}) | 42 | 42 | 100.0 | Ido <gnome-ido@lists.mterry.name> | 
- | [mate-menu-editor]({{< ref "/f19/package/mate-menu-editor.md" >}}) | 42 | 42 | 100.0 | Ido <mate-ido@lists.mterry.name> | 
- | [lxmenu-data]({{< ref "/f19/package/lxmenu-data.md" >}}) | 52 | 97 | 53.6 | Ido <gnome-ido@lists.mterry.name> | 
- | [gnome-menus]({{< ref "/f19/package/gnome-menus.md" >}}) | 86 | 165 | 52.1 | Ido <gnome-ido@lists.mterry.name> | 
- | [mate-menus]({{< ref "/f19/package/mate-menus.md" >}}) | 86 | 165 | 52.1 | Ido <mate-ido@lists.mterry.name> | 
- | [gwibber]({{< ref "/f19/package/gwibber.md" >}}) | 175 | 769 | 22.8 | Ido <io@li.org> | 
- | [gdk-pixbuf2]({{< ref "/f19/package/gdk-pixbuf2.md" >}}) | 296 | 1360 | 21.8 | Ido <gnome-ido@lists.mterry.name> | 
- | [mingw-gdk-pixbuf]({{< ref "/f19/package/mingw-gdk-pixbuf.md" >}}) | 296 | 1360 | 21.8 | Ido <gnome-ido@lists.mterry.name> | 
- | [mate-file-manager]({{< ref "/f19/package/mate-file-manager.md" >}}) | 1293 | 7454 | 17.3 | Ido <mate-ido@lists.mterry.name> | 
- | [nautilus]({{< ref "/f19/package/nautilus.md" >}}) | 1293 | 7454 | 17.3 | Ido <gnome-ido@lists.mterry.name> | 
- | [gtk2]({{< ref "/f19/package/gtk2.md" >}}) | 1168 | 13704 | 8.5 | Ido <gnome-ido@lists.mterry.name> | 
- | [mingw-gtk2]({{< ref "/f19/package/mingw-gtk2.md" >}}) | 1168 | 13704 | 8.5 | Ido <gnome-ido@lists.mterry.name> | 
- | [gtk3]({{< ref "/f19/package/gtk3.md" >}}) | 782 | 11853 | 6.6 | Ido <gnome-ido@lists.mterry.name> | 
- | [mingw-gtk3]({{< ref "/f19/package/mingw-gtk3.md" >}}) | 782 | 11853 | 6.6 | Ido <gnome-ido@lists.mterry.name> | 
- | [deja-dup]({{< ref "/f19/package/deja-dup.md" >}}) | 38 | 1756 | 2.2 | Ido <io@li.org> | 
- | [duplicity]({{< ref "/f19/package/duplicity.md" >}}) | 68 | 3402 | 2.0 | Ido | 
+ | [alacarte](/f19/package/alacarte) | 42 | 42 | 100.0 | Ido <gnome-ido@lists.mterry.name> | 
+ | [mate-menu-editor](/f19/package/mate-menu-editor) | 42 | 42 | 100.0 | Ido <mate-ido@lists.mterry.name> | 
+ | [lxmenu-data](/f19/package/lxmenu-data) | 52 | 97 | 53.6 | Ido <gnome-ido@lists.mterry.name> | 
+ | [gnome-menus](/f19/package/gnome-menus) | 86 | 165 | 52.1 | Ido <gnome-ido@lists.mterry.name> | 
+ | [mate-menus](/f19/package/mate-menus) | 86 | 165 | 52.1 | Ido <mate-ido@lists.mterry.name> | 
+ | [gwibber](/f19/package/gwibber) | 175 | 769 | 22.8 | Ido <io@li.org> | 
+ | [gdk-pixbuf2](/f19/package/gdk-pixbuf2) | 296 | 1360 | 21.8 | Ido <gnome-ido@lists.mterry.name> | 
+ | [mingw-gdk-pixbuf](/f19/package/mingw-gdk-pixbuf) | 296 | 1360 | 21.8 | Ido <gnome-ido@lists.mterry.name> | 
+ | [mate-file-manager](/f19/package/mate-file-manager) | 1293 | 7454 | 17.3 | Ido <mate-ido@lists.mterry.name> | 
+ | [nautilus](/f19/package/nautilus) | 1293 | 7454 | 17.3 | Ido <gnome-ido@lists.mterry.name> | 
+ | [gtk2](/f19/package/gtk2) | 1168 | 13704 | 8.5 | Ido <gnome-ido@lists.mterry.name> | 
+ | [mingw-gtk2](/f19/package/mingw-gtk2) | 1168 | 13704 | 8.5 | Ido <gnome-ido@lists.mterry.name> | 
+ | [gtk3](/f19/package/gtk3) | 782 | 11853 | 6.6 | Ido <gnome-ido@lists.mterry.name> | 
+ | [mingw-gtk3](/f19/package/mingw-gtk3) | 782 | 11853 | 6.6 | Ido <gnome-ido@lists.mterry.name> | 
+ | [deja-dup](/f19/package/deja-dup) | 38 | 1756 | 2.2 | Ido <io@li.org> | 
+ | [duplicity](/f19/package/duplicity) | 68 | 3402 | 2.0 | Ido | 
 {.sortable}
 
 

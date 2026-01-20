@@ -18,20 +18,20 @@ The package nicotine+ (version 3.1.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [it]({{< ref "/f33/language/it.md" >}}) | 5465 | 5465 | 100.0 | /mnt/stockage/packages/f33/nicotine+/po/it.po | 
- | [pl]({{< ref "/f33/language/pl.md" >}}) | 5116 | 5541 | 92.3 | /mnt/stockage/packages/f33/nicotine+/po/pl.po | 
- | [hu]({{< ref "/f33/language/hu.md" >}}) | 2795 | 4576 | 61.1 | /mnt/stockage/packages/f33/nicotine+/po/hu.po | 
- | [fr]({{< ref "/f33/language/fr.md" >}}) | 3133 | 5473 | 57.2 | /mnt/stockage/packages/f33/nicotine+/po/fr.po | 
- | [nl]({{< ref "/f33/language/nl.md" >}}) | 2098 | 4576 | 45.8 | /mnt/stockage/packages/f33/nicotine+/po/nl.po | 
- | [de]({{< ref "/f33/language/de.md" >}}) | 1939 | 4576 | 42.4 | /mnt/stockage/packages/f33/nicotine+/po/de.po | 
- | [sk]({{< ref "/f33/language/sk.md" >}}) | 1856 | 4576 | 40.6 | /mnt/stockage/packages/f33/nicotine+/po/sk.po | 
- | [eu]({{< ref "/f33/language/eu.md" >}}) | 1499 | 4576 | 32.8 | /mnt/stockage/packages/f33/nicotine+/po/eu.po | 
- | [es]({{< ref "/f33/language/es.md" >}}) | 1403 | 4576 | 30.7 | /mnt/stockage/packages/f33/nicotine+/po/es.po | 
- | [fi]({{< ref "/f33/language/fi.md" >}}) | 1383 | 4576 | 30.2 | /mnt/stockage/packages/f33/nicotine+/po/fi.po | 
- | [pt_BR]({{< ref "/f33/language/pt_BR.md" >}}) | 1146 | 4576 | 25.0 | /mnt/stockage/packages/f33/nicotine+/po/pt_BR.po | 
- | [lt]({{< ref "/f33/language/lt.md" >}}) | 1379 | 5595 | 24.6 | /mnt/stockage/packages/f33/nicotine+/po/lt.po | 
- | [da]({{< ref "/f33/language/da.md" >}}) | 898 | 4576 | 19.6 | /mnt/stockage/packages/f33/nicotine+/po/da.po | 
- | [sv]({{< ref "/f33/language/sv.md" >}}) | 537 | 5473 | 9.8 | /mnt/stockage/packages/f33/nicotine+/po/sv.po | 
+ | [it](/f33/language/it) | 5465 | 5465 | 100.0 | /mnt/stockage/packages/f33/nicotine+/po/it.po | 
+ | [pl](/f33/language/pl) | 5116 | 5541 | 92.3 | /mnt/stockage/packages/f33/nicotine+/po/pl.po | 
+ | [hu](/f33/language/hu) | 2795 | 4576 | 61.1 | /mnt/stockage/packages/f33/nicotine+/po/hu.po | 
+ | [fr](/f33/language/fr) | 3133 | 5473 | 57.2 | /mnt/stockage/packages/f33/nicotine+/po/fr.po | 
+ | [nl](/f33/language/nl) | 2098 | 4576 | 45.8 | /mnt/stockage/packages/f33/nicotine+/po/nl.po | 
+ | [de](/f33/language/de) | 1939 | 4576 | 42.4 | /mnt/stockage/packages/f33/nicotine+/po/de.po | 
+ | [sk](/f33/language/sk) | 1856 | 4576 | 40.6 | /mnt/stockage/packages/f33/nicotine+/po/sk.po | 
+ | [eu](/f33/language/eu) | 1499 | 4576 | 32.8 | /mnt/stockage/packages/f33/nicotine+/po/eu.po | 
+ | [es](/f33/language/es) | 1403 | 4576 | 30.7 | /mnt/stockage/packages/f33/nicotine+/po/es.po | 
+ | [fi](/f33/language/fi) | 1383 | 4576 | 30.2 | /mnt/stockage/packages/f33/nicotine+/po/fi.po | 
+ | [pt_BR](/f33/language/pt_BR) | 1146 | 4576 | 25.0 | /mnt/stockage/packages/f33/nicotine+/po/pt_BR.po | 
+ | [lt](/f33/language/lt) | 1379 | 5595 | 24.6 | /mnt/stockage/packages/f33/nicotine+/po/lt.po | 
+ | [da](/f33/language/da) | 898 | 4576 | 19.6 | /mnt/stockage/packages/f33/nicotine+/po/da.po | 
+ | [sv](/f33/language/sv) | 537 | 5473 | 9.8 | /mnt/stockage/packages/f33/nicotine+/po/sv.po | 
 {.sortable}
 
 

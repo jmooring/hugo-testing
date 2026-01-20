@@ -18,24 +18,24 @@ The package claws-mail (version 3.13.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f23/language/cs.md" >}}) | 19808 | 19808 | 100.0 | /mnt/stockage/packages/f23/claws-mail/po/cs.po | 
- | [de]({{< ref "/f23/language/de.md" >}}) | 19808 | 19808 | 100.0 | /mnt/stockage/packages/f23/claws-mail/po/de.po | 
- | [es]({{< ref "/f23/language/es.md" >}}) | 19808 | 19808 | 100.0 | /mnt/stockage/packages/f23/claws-mail/po/es.po | 
- | [fi]({{< ref "/f23/language/fi.md" >}}) | 19808 | 19808 | 100.0 | /mnt/stockage/packages/f23/claws-mail/po/fi.po | 
- | [fr]({{< ref "/f23/language/fr.md" >}}) | 19808 | 19808 | 100.0 | /mnt/stockage/packages/f23/claws-mail/po/fr.po | 
- | [it]({{< ref "/f23/language/it.md" >}}) | 19808 | 19808 | 100.0 | /mnt/stockage/packages/f23/claws-mail/po/it.po | 
- | [nb_NO]({{< ref "/f23/language/nb_NO.md" >}}) | 19808 | 19808 | 100.0 | /mnt/stockage/packages/f23/claws-mail/po/nb.po | 
- | [nl]({{< ref "/f23/language/nl.md" >}}) | 19808 | 19808 | 100.0 | /mnt/stockage/packages/f23/claws-mail/po/nl.po | 
- | [ru]({{< ref "/f23/language/ru.md" >}}) | 19808 | 19808 | 100.0 | /mnt/stockage/packages/f23/claws-mail/po/ru.po | 
- | [sk]({{< ref "/f23/language/sk.md" >}}) | 19808 | 19808 | 100.0 | /mnt/stockage/packages/f23/claws-mail/po/sk.po | 
- | [sv]({{< ref "/f23/language/sv.md" >}}) | 19808 | 19808 | 100.0 | /mnt/stockage/packages/f23/claws-mail/po/sv.po | 
- | [zh_Hant]({{< ref "/f23/language/zh_Hant.md" >}}) | 19808 | 19808 | 100.0 | /mnt/stockage/packages/f23/claws-mail/po/zh_TW.po | 
- | [he]({{< ref "/f23/language/he.md" >}}) | 19395 | 19808 | 97.9 | /mnt/stockage/packages/f23/claws-mail/po/he.po | 
- | [hu]({{< ref "/f23/language/hu.md" >}}) | 19224 | 19808 | 97.1 | /mnt/stockage/packages/f23/claws-mail/po/hu.po | 
- | [ca]({{< ref "/f23/language/ca.md" >}}) | 19148 | 19808 | 96.7 | /mnt/stockage/packages/f23/claws-mail/po/ca.po | 
- | [pt_BR]({{< ref "/f23/language/pt_BR.md" >}}) | 18912 | 19808 | 95.5 | /mnt/stockage/packages/f23/claws-mail/po/pt_BR.po | 
- | [lt]({{< ref "/f23/language/lt.md" >}}) | 15014 | 19808 | 75.8 | /mnt/stockage/packages/f23/claws-mail/po/lt.po | 
- | [en_GB]({{< ref "/f23/language/en_GB.md" >}}) | 514 | 19808 | 2.6 | /mnt/stockage/packages/f23/claws-mail/po/en_GB.po | 
+ | [cs](/f23/language/cs) | 19808 | 19808 | 100.0 | /mnt/stockage/packages/f23/claws-mail/po/cs.po | 
+ | [de](/f23/language/de) | 19808 | 19808 | 100.0 | /mnt/stockage/packages/f23/claws-mail/po/de.po | 
+ | [es](/f23/language/es) | 19808 | 19808 | 100.0 | /mnt/stockage/packages/f23/claws-mail/po/es.po | 
+ | [fi](/f23/language/fi) | 19808 | 19808 | 100.0 | /mnt/stockage/packages/f23/claws-mail/po/fi.po | 
+ | [fr](/f23/language/fr) | 19808 | 19808 | 100.0 | /mnt/stockage/packages/f23/claws-mail/po/fr.po | 
+ | [it](/f23/language/it) | 19808 | 19808 | 100.0 | /mnt/stockage/packages/f23/claws-mail/po/it.po | 
+ | [nb_NO](/f23/language/nb_NO) | 19808 | 19808 | 100.0 | /mnt/stockage/packages/f23/claws-mail/po/nb.po | 
+ | [nl](/f23/language/nl) | 19808 | 19808 | 100.0 | /mnt/stockage/packages/f23/claws-mail/po/nl.po | 
+ | [ru](/f23/language/ru) | 19808 | 19808 | 100.0 | /mnt/stockage/packages/f23/claws-mail/po/ru.po | 
+ | [sk](/f23/language/sk) | 19808 | 19808 | 100.0 | /mnt/stockage/packages/f23/claws-mail/po/sk.po | 
+ | [sv](/f23/language/sv) | 19808 | 19808 | 100.0 | /mnt/stockage/packages/f23/claws-mail/po/sv.po | 
+ | [zh_Hant](/f23/language/zh_Hant) | 19808 | 19808 | 100.0 | /mnt/stockage/packages/f23/claws-mail/po/zh_TW.po | 
+ | [he](/f23/language/he) | 19395 | 19808 | 97.9 | /mnt/stockage/packages/f23/claws-mail/po/he.po | 
+ | [hu](/f23/language/hu) | 19224 | 19808 | 97.1 | /mnt/stockage/packages/f23/claws-mail/po/hu.po | 
+ | [ca](/f23/language/ca) | 19148 | 19808 | 96.7 | /mnt/stockage/packages/f23/claws-mail/po/ca.po | 
+ | [pt_BR](/f23/language/pt_BR) | 18912 | 19808 | 95.5 | /mnt/stockage/packages/f23/claws-mail/po/pt_BR.po | 
+ | [lt](/f23/language/lt) | 15014 | 19808 | 75.8 | /mnt/stockage/packages/f23/claws-mail/po/lt.po | 
+ | [en_GB](/f23/language/en_GB) | 514 | 19808 | 2.6 | /mnt/stockage/packages/f23/claws-mail/po/en_GB.po | 
 {.sortable}
 
 

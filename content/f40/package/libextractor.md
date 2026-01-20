@@ -18,21 +18,21 @@ The package libextractor (version 1.13):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [da]({{< ref "/f40/language/da.md" >}}) | 1978 | 1978 | 100.0 | /mnt/stockage/packages/f40/libextractor/po/da.po | 
- | [de]({{< ref "/f40/language/de.md" >}}) | 1978 | 1978 | 100.0 | /mnt/stockage/packages/f40/libextractor/po/de.po | 
- | [fr]({{< ref "/f40/language/fr.md" >}}) | 1978 | 1978 | 100.0 | /mnt/stockage/packages/f40/libextractor/po/fr.po | 
- | [pl]({{< ref "/f40/language/pl.md" >}}) | 1978 | 1978 | 100.0 | /mnt/stockage/packages/f40/libextractor/po/pl.po | 
- | [pt_BR]({{< ref "/f40/language/pt_BR.md" >}}) | 1978 | 1978 | 100.0 | /mnt/stockage/packages/f40/libextractor/po/pt_BR.po | 
- | [ro]({{< ref "/f40/language/ro.md" >}}) | 1978 | 1978 | 100.0 | /mnt/stockage/packages/f40/libextractor/po/ro.po | 
- | [sr]({{< ref "/f40/language/sr.md" >}}) | 1978 | 1978 | 100.0 | /mnt/stockage/packages/f40/libextractor/po/sr.po | 
- | [uk]({{< ref "/f40/language/uk.md" >}}) | 1978 | 1978 | 100.0 | /mnt/stockage/packages/f40/libextractor/po/uk.po | 
- | [nl]({{< ref "/f40/language/nl.md" >}}) | 1765 | 1978 | 89.2 | /mnt/stockage/packages/f40/libextractor/po/nl.po | 
- | [es]({{< ref "/f40/language/es.md" >}}) | 1553 | 1978 | 78.5 | /mnt/stockage/packages/f40/libextractor/po/es.po | 
- | [vi]({{< ref "/f40/language/vi.md" >}}) | 1460 | 1978 | 73.8 | /mnt/stockage/packages/f40/libextractor/po/vi.po | 
- | [it]({{< ref "/f40/language/it.md" >}}) | 442 | 1978 | 22.3 | /mnt/stockage/packages/f40/libextractor/po/it.po | 
- | [ga]({{< ref "/f40/language/ga.md" >}}) | 367 | 1978 | 18.6 | /mnt/stockage/packages/f40/libextractor/po/ga.po | 
- | [sv]({{< ref "/f40/language/sv.md" >}}) | 367 | 1978 | 18.6 | /mnt/stockage/packages/f40/libextractor/po/sv.po | 
- | [rw]({{< ref "/f40/language/rw.md" >}}) | 5 | 1978 | 0.3 | /mnt/stockage/packages/f40/libextractor/po/rw.po | 
+ | [da](/f40/language/da) | 1978 | 1978 | 100.0 | /mnt/stockage/packages/f40/libextractor/po/da.po | 
+ | [de](/f40/language/de) | 1978 | 1978 | 100.0 | /mnt/stockage/packages/f40/libextractor/po/de.po | 
+ | [fr](/f40/language/fr) | 1978 | 1978 | 100.0 | /mnt/stockage/packages/f40/libextractor/po/fr.po | 
+ | [pl](/f40/language/pl) | 1978 | 1978 | 100.0 | /mnt/stockage/packages/f40/libextractor/po/pl.po | 
+ | [pt_BR](/f40/language/pt_BR) | 1978 | 1978 | 100.0 | /mnt/stockage/packages/f40/libextractor/po/pt_BR.po | 
+ | [ro](/f40/language/ro) | 1978 | 1978 | 100.0 | /mnt/stockage/packages/f40/libextractor/po/ro.po | 
+ | [sr](/f40/language/sr) | 1978 | 1978 | 100.0 | /mnt/stockage/packages/f40/libextractor/po/sr.po | 
+ | [uk](/f40/language/uk) | 1978 | 1978 | 100.0 | /mnt/stockage/packages/f40/libextractor/po/uk.po | 
+ | [nl](/f40/language/nl) | 1765 | 1978 | 89.2 | /mnt/stockage/packages/f40/libextractor/po/nl.po | 
+ | [es](/f40/language/es) | 1553 | 1978 | 78.5 | /mnt/stockage/packages/f40/libextractor/po/es.po | 
+ | [vi](/f40/language/vi) | 1460 | 1978 | 73.8 | /mnt/stockage/packages/f40/libextractor/po/vi.po | 
+ | [it](/f40/language/it) | 442 | 1978 | 22.3 | /mnt/stockage/packages/f40/libextractor/po/it.po | 
+ | [ga](/f40/language/ga) | 367 | 1978 | 18.6 | /mnt/stockage/packages/f40/libextractor/po/ga.po | 
+ | [sv](/f40/language/sv) | 367 | 1978 | 18.6 | /mnt/stockage/packages/f40/libextractor/po/sv.po | 
+ | [rw](/f40/language/rw) | 5 | 1978 | 0.3 | /mnt/stockage/packages/f40/libextractor/po/rw.po | 
 {.sortable}
 
 

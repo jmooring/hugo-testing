@@ -18,16 +18,16 @@ The package dnsmasq (version 2.79):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f27/language/de.md" >}}) | 2805 | 2918 | 96.1 | /mnt/stockage/packages/f27/dnsmasq/po/de.po | 
- | [pl]({{< ref "/f27/language/pl.md" >}}) | 2805 | 2918 | 96.1 | /mnt/stockage/packages/f27/dnsmasq/po/pl.po | 
- | [fr]({{< ref "/f27/language/fr.md" >}}) | 2284 | 2918 | 78.3 | /mnt/stockage/packages/f27/dnsmasq/po/fr.po | 
- | [es]({{< ref "/f27/language/es.md" >}}) | 1430 | 2918 | 49.0 | /mnt/stockage/packages/f27/dnsmasq/po/es.po | 
- | [nb_NO]({{< ref "/f27/language/nb_NO.md" >}}) | 757 | 2918 | 25.9 | /mnt/stockage/packages/f27/dnsmasq/po/no.po | 
- | [ro]({{< ref "/f27/language/ro.md" >}}) | 757 | 2918 | 25.9 | /mnt/stockage/packages/f27/dnsmasq/po/ro.po | 
- | [id]({{< ref "/f27/language/id.md" >}}) | 745 | 2918 | 25.5 | /mnt/stockage/packages/f27/dnsmasq/po/id.po | 
- | [fi]({{< ref "/f27/language/fi.md" >}}) | 0 | 2918 | 0.0 | /mnt/stockage/packages/f27/dnsmasq/po/fi.po | 
- | [it]({{< ref "/f27/language/it.md" >}}) | 0 | 2918 | 0.0 | /mnt/stockage/packages/f27/dnsmasq/po/it.po | 
- | [pt]({{< ref "/f27/language/pt.md" >}}) | 0 | 2918 | 0.0 | /mnt/stockage/packages/f27/dnsmasq/po/pt_BR.po | 
+ | [de](/f27/language/de) | 2805 | 2918 | 96.1 | /mnt/stockage/packages/f27/dnsmasq/po/de.po | 
+ | [pl](/f27/language/pl) | 2805 | 2918 | 96.1 | /mnt/stockage/packages/f27/dnsmasq/po/pl.po | 
+ | [fr](/f27/language/fr) | 2284 | 2918 | 78.3 | /mnt/stockage/packages/f27/dnsmasq/po/fr.po | 
+ | [es](/f27/language/es) | 1430 | 2918 | 49.0 | /mnt/stockage/packages/f27/dnsmasq/po/es.po | 
+ | [nb_NO](/f27/language/nb_NO) | 757 | 2918 | 25.9 | /mnt/stockage/packages/f27/dnsmasq/po/no.po | 
+ | [ro](/f27/language/ro) | 757 | 2918 | 25.9 | /mnt/stockage/packages/f27/dnsmasq/po/ro.po | 
+ | [id](/f27/language/id) | 745 | 2918 | 25.5 | /mnt/stockage/packages/f27/dnsmasq/po/id.po | 
+ | [fi](/f27/language/fi) | 0 | 2918 | 0.0 | /mnt/stockage/packages/f27/dnsmasq/po/fi.po | 
+ | [it](/f27/language/it) | 0 | 2918 | 0.0 | /mnt/stockage/packages/f27/dnsmasq/po/it.po | 
+ | [pt](/f27/language/pt) | 0 | 2918 | 0.0 | /mnt/stockage/packages/f27/dnsmasq/po/pt_BR.po | 
 {.sortable}
 
 

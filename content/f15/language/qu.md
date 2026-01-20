@@ -40,37 +40,37 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [sugar-labyrinth]({{< ref "/f15/package/sugar-labyrinth.md" >}}) | 254 | 316 | 80.4 | LANGUAGE <LL@li.org> | 
- | [sugar-portfolio]({{< ref "/f15/package/sugar-portfolio.md" >}}) | 34 | 64 | 53.1 | Voluntarios quechuas Sugar Camp Lima | 
- | [sugar-chat]({{< ref "/f15/package/sugar-chat.md" >}}) | 50 | 100 | 50.0 | LANGUAGE <LL@li.org> | 
- | [sugar-pippy]({{< ref "/f15/package/sugar-pippy.md" >}}) | 56 | 171 | 32.7 | LANGUAGE <LL@li.org> | 
- | [sugar-visualmatch]({{< ref "/f15/package/sugar-visualmatch.md" >}}) | 8 | 199 | 4.0 | LANGUAGE <LL@li.org> | 
- | [sugar-measure]({{< ref "/f15/package/sugar-measure.md" >}}) | 6 | 164 | 3.7 | LANGUAGE <LL@li.org> | 
- | [sugar-turtleart]({{< ref "/f15/package/sugar-turtleart.md" >}}) | 75 | 3146 | 2.4 | LANGUAGE <LL@li.org> | 
- | [olpc-switch-desktop]({{< ref "/f15/package/olpc-switch-desktop.md" >}}) | 0 | 158 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar]({{< ref "/f15/package/sugar.md" >}}) | 0 | 234 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-abacus]({{< ref "/f15/package/sugar-abacus.md" >}}) | 0 | 24 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-base]({{< ref "/f15/package/sugar-base.md" >}}) | 0 | 5 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-browse]({{< ref "/f15/package/sugar-browse.md" >}}) | 0 | 57 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-calculator]({{< ref "/f15/package/sugar-calculator.md" >}}) | 0 | 593 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-clock]({{< ref "/f15/package/sugar-clock.md" >}}) | 0 | 38 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-connect]({{< ref "/f15/package/sugar-connect.md" >}}) | 0 | 31 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-finance]({{< ref "/f15/package/sugar-finance.md" >}}) | 0 | 142 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-imageviewer]({{< ref "/f15/package/sugar-imageviewer.md" >}}) | 0 | 24 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-infoslicer]({{< ref "/f15/package/sugar-infoslicer.md" >}}) | 0 | 185 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-jukebox]({{< ref "/f15/package/sugar-jukebox.md" >}}) | 0 | 7 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-log]({{< ref "/f15/package/sugar-log.md" >}}) | 0 | 99 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-memorize]({{< ref "/f15/package/sugar-memorize.md" >}}) | 0 | 52 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-physics]({{< ref "/f15/package/sugar-physics.md" >}}) | 0 | 22 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-playgo]({{< ref "/f15/package/sugar-playgo.md" >}}) | 0 | 85 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-read]({{< ref "/f15/package/sugar-read.md" >}}) | 0 | 27 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-ruler]({{< ref "/f15/package/sugar-ruler.md" >}}) | 0 | 5 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-surf]({{< ref "/f15/package/sugar-surf.md" >}}) | 0 | 52 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-tamtam]({{< ref "/f15/package/sugar-tamtam.md" >}}) | 0 | 2070 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-terminal]({{< ref "/f15/package/sugar-terminal.md" >}}) | 0 | 13 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-toolkit]({{< ref "/f15/package/sugar-toolkit.md" >}}) | 0 | 59 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-view-slides]({{< ref "/f15/package/sugar-view-slides.md" >}}) | 0 | 7 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-write]({{< ref "/f15/package/sugar-write.md" >}}) | 0 | 81 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-labyrinth](/f15/package/sugar-labyrinth) | 254 | 316 | 80.4 | LANGUAGE <LL@li.org> | 
+ | [sugar-portfolio](/f15/package/sugar-portfolio) | 34 | 64 | 53.1 | Voluntarios quechuas Sugar Camp Lima | 
+ | [sugar-chat](/f15/package/sugar-chat) | 50 | 100 | 50.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-pippy](/f15/package/sugar-pippy) | 56 | 171 | 32.7 | LANGUAGE <LL@li.org> | 
+ | [sugar-visualmatch](/f15/package/sugar-visualmatch) | 8 | 199 | 4.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-measure](/f15/package/sugar-measure) | 6 | 164 | 3.7 | LANGUAGE <LL@li.org> | 
+ | [sugar-turtleart](/f15/package/sugar-turtleart) | 75 | 3146 | 2.4 | LANGUAGE <LL@li.org> | 
+ | [olpc-switch-desktop](/f15/package/olpc-switch-desktop) | 0 | 158 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar](/f15/package/sugar) | 0 | 234 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-abacus](/f15/package/sugar-abacus) | 0 | 24 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-base](/f15/package/sugar-base) | 0 | 5 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-browse](/f15/package/sugar-browse) | 0 | 57 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-calculator](/f15/package/sugar-calculator) | 0 | 593 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-clock](/f15/package/sugar-clock) | 0 | 38 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-connect](/f15/package/sugar-connect) | 0 | 31 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-finance](/f15/package/sugar-finance) | 0 | 142 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-imageviewer](/f15/package/sugar-imageviewer) | 0 | 24 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-infoslicer](/f15/package/sugar-infoslicer) | 0 | 185 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-jukebox](/f15/package/sugar-jukebox) | 0 | 7 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-log](/f15/package/sugar-log) | 0 | 99 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-memorize](/f15/package/sugar-memorize) | 0 | 52 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-physics](/f15/package/sugar-physics) | 0 | 22 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-playgo](/f15/package/sugar-playgo) | 0 | 85 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-read](/f15/package/sugar-read) | 0 | 27 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-ruler](/f15/package/sugar-ruler) | 0 | 5 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-surf](/f15/package/sugar-surf) | 0 | 52 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-tamtam](/f15/package/sugar-tamtam) | 0 | 2070 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-terminal](/f15/package/sugar-terminal) | 0 | 13 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-toolkit](/f15/package/sugar-toolkit) | 0 | 59 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-view-slides](/f15/package/sugar-view-slides) | 0 | 7 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-write](/f15/package/sugar-write) | 0 | 81 | 0.0 | LANGUAGE <LL@li.org> | 
 {.sortable}
 
 

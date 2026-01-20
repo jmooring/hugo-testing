@@ -38,357 +38,357 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [NetworkManager]({{< ref "/f16/package/NetworkManager.md" >}}) | 2527 | 2527 | 100.0 | Esperanto <ubuntu-l10n-eo@lists.launchpad.net> | 
- | [accountsservice]({{< ref "/f16/package/accountsservice.md" >}}) | 59 | 59 | 100.0 | Esperanto (http://www.transifex.net/projects/p/freedesktop/team/eo/) | 
- | [aisleriot]({{< ref "/f16/package/aisleriot.md" >}}) | 1899 | 1899 | 100.0 | Esperanto <ubuntu-l10n-eo@lists.launchpad.net> | 
- | [alacarte]({{< ref "/f16/package/alacarte.md" >}}) | 42 | 42 | 100.0 | Esperanto <ubuntu-l10n-eo@lists.launchpad.net> | 
- | [ario]({{< ref "/f16/package/ario.md" >}}) | 780 | 780 | 100.0 | Esperanto <eo@li.org> | 
- | [at-spi2-atk]({{< ref "/f16/package/at-spi2-atk.md" >}}) | 7 | 7 | 100.0 | Esperanto <ubuntu-l10n-eo@lists.launchpad.net> | 
- | [at-spi2-core]({{< ref "/f16/package/at-spi2-core.md" >}}) | 5 | 5 | 100.0 | Esperanto <ubuntu-l10n-eo@lists.launchpad.net> | 
- | [atk]({{< ref "/f16/package/atk.md" >}}) | 375 | 375 | 100.0 | Esperanto <ubuntu-l10n-eo@lists.launchpad.net> | 
- | [banshee]({{< ref "/f16/package/banshee.md" >}}) | 5712 | 5712 | 100.0 | Esperanto <ubuntu-l10n-eo@lists.launchpad.net> | 
- | [binutils]({{< ref "/f16/package/binutils.md" >}}) | 525 | 525 | 100.0 | Esperanto <translation-team-eo@lists.sourceforge.net> | 
- | [bison]({{< ref "/f16/package/bison.md" >}}) | 52 | 52 | 100.0 | Esperanto <translation-team-eo@lists.sourceforge.net> | 
- | [cheese]({{< ref "/f16/package/cheese.md" >}}) | 294 | 294 | 100.0 | Esperanto <ubuntu-l10n-eo@lists.launchpad.net> | 
- | [cogl]({{< ref "/f16/package/cogl.md" >}}) | 15 | 15 | 100.0 | Esperanto <ubuntu-l10n-eo@lists.launchpad.net> | 
- | [console-setup]({{< ref "/f16/package/console-setup.md" >}}) | 979 | 979 | 100.0 | Esperanto <debian-l10n-esperanto@lists.debian.org> | 
- | [cross-binutils]({{< ref "/f16/package/cross-binutils.md" >}}) | 525 | 525 | 100.0 | Esperanto <translation-team-eo@lists.sourceforge.net> | 
- | [cups-pk-helper]({{< ref "/f16/package/cups-pk-helper.md" >}}) | 149 | 149 | 100.0 | Esperanto (http://www.transifex.net/projects/p/freedesktop/team/eo/) | 
- | [dcraw]({{< ref "/f16/package/dcraw.md" >}}) | 560 | 560 | 100.0 |  | 
- | [debconf]({{< ref "/f16/package/debconf.md" >}}) | 805 | 805 | 100.0 | Esperanto <debian-l10n-esperanto@lists.debian.org> | 
- | [deja-dup]({{< ref "/f16/package/deja-dup.md" >}}) | 1667 | 1667 | 100.0 | Esperanto | 
- | [devhelp]({{< ref "/f16/package/devhelp.md" >}}) | 456 | 456 | 100.0 | Esperanto <ubuntu-l10n-eo@lists.launchpad.net> | 
- | [dialog]({{< ref "/f16/package/dialog.md" >}}) | 25 | 25 | 100.0 | Esperanto <translation-team-eo@lists.sourceforge.net> | 
- | [evince]({{< ref "/f16/package/evince.md" >}}) | 1437 | 1437 | 100.0 | Esperanto | 
- | [evolution-couchdb]({{< ref "/f16/package/evolution-couchdb.md" >}}) | 42 | 42 | 100.0 | Esperanto <ubuntu-l10n-eo@lists.launchpad.net> | 
- | [gconf-editor]({{< ref "/f16/package/gconf-editor.md" >}}) | 336 | 336 | 100.0 | Esperanto <ubuntu-l10n-eo@lists.launchpad.net> | 
- | [gdk-pixbuf2]({{< ref "/f16/package/gdk-pixbuf2.md" >}}) | 1313 | 1313 | 100.0 | Esperanto <ubuntu-l10n-eo@lists.launchpad.net> | 
- | [glib2]({{< ref "/f16/package/glib2.md" >}}) | 4777 | 4777 | 100.0 | Esperanto | 
- | [gnome-backgrounds]({{< ref "/f16/package/gnome-backgrounds.md" >}}) | 29 | 29 | 100.0 | Esperanto <ubuntu-l10n-eo@lists.launchpad.net> | 
- | [gnome-contacts]({{< ref "/f16/package/gnome-contacts.md" >}}) | 210 | 210 | 100.0 | Esperanto <ubuntu-l10n-eo@lists.launchpad.net> | 
- | [gnome-desktop3]({{< ref "/f16/package/gnome-desktop3.md" >}}) | 235 | 235 | 100.0 | Esperanto <ubuntu-l10n-eo@lists.launchpad.net> | 
- | [gnome-doc-utils]({{< ref "/f16/package/gnome-doc-utils.md" >}}) | 251 | 251 | 100.0 | Esperanto <ubuntu-l10n-eo@lists.launchpad.net> | 
- | [gnome-games]({{< ref "/f16/package/gnome-games.md" >}}) | 4683 | 4683 | 100.0 | Esperanto <ubuntu-l10n-eo@lists.launchpad.net> | 
- | [gnome-icon-theme]({{< ref "/f16/package/gnome-icon-theme.md" >}}) | 4 | 4 | 100.0 | Esperanto <ubuntu-l10n-eo@lists.launchpad.net> | 
- | [gnome-menus]({{< ref "/f16/package/gnome-menus.md" >}}) | 125 | 125 | 100.0 | Esperanto <ubuntu-l10n-eo@lists.launchpad.net> | 
- | [gnome-panel]({{< ref "/f16/package/gnome-panel.md" >}}) | 4273 | 4273 | 100.0 | Esperanto <ubuntu-l10n-eo@lists.launchpad.net> | 
- | [gnome-screensaver]({{< ref "/f16/package/gnome-screensaver.md" >}}) | 291 | 291 | 100.0 | Esperanto <ubuntu-l10n-eo@lists.launchpad.net> | 
- | [gnome-session]({{< ref "/f16/package/gnome-session.md" >}}) | 489 | 489 | 100.0 | Esperanto <ubuntu-l10n-eo@lists.launchpad.net> | 
- | [gnome-themes-standard]({{< ref "/f16/package/gnome-themes-standard.md" >}}) | 24 | 24 | 100.0 | Esperanto <ubuntu-l10n-eo@lists.launchpad.net> | 
- | [gnome-user-share]({{< ref "/f16/package/gnome-user-share.md" >}}) | 326 | 326 | 100.0 | Esperanto <ubuntu-l10n-eo@lists.launchpad.net> | 
- | [gnubik]({{< ref "/f16/package/gnubik.md" >}}) | 278 | 278 | 100.0 | Esperanto <translation-team-eo@lists.sourceforge.net> | 
- | [gtkspell]({{< ref "/f16/package/gtkspell.md" >}}) | 15 | 15 | 100.0 | Esperanto <translation-team-eo@lists.sourceforge.net> | 
- | [hello]({{< ref "/f16/package/hello.md" >}}) | 193 | 193 | 100.0 | Esperanto <translation-team-eo@lists.sourceforge.net> | 
- | [help2man]({{< ref "/f16/package/help2man.md" >}}) | 524 | 524 | 100.0 | Esperanto <translation-team-eo@lists.sourceforge.net> | 
- | [kio_gopher]({{< ref "/f16/package/kio_gopher.md" >}}) | 17 | 17 | 100.0 | esperanto <kde-i18n-eo@kde.org> | 
- | [klavaro]({{< ref "/f16/package/klavaro.md" >}}) | 1913 | 1913 | 100.0 | Esperanto <translation-team-eo@lists.sourceforge.net> | 
- | [leafpad]({{< ref "/f16/package/leafpad.md" >}}) | 125 | 125 | 100.0 | Esperanto <translation-team-eo@lists.sourceforge.net> | 
- | [libbonobo]({{< ref "/f16/package/libbonobo.md" >}}) | 543 | 543 | 100.0 | Esperanto <ubuntu-l10n-eo@lists.launchpad.net> | 
- | [libgnome]({{< ref "/f16/package/libgnome.md" >}}) | 1773 | 1773 | 100.0 | Esperanto <ubuntu-l10n-eo@lists.launchpad.net> | 
- | [libgnome-keyring]({{< ref "/f16/package/libgnome-keyring.md" >}}) | 44 | 44 | 100.0 | Esperanto <ubuntu-l10n-eo@lists.launchpad.net> | 
- | [libgnomecanvas]({{< ref "/f16/package/libgnomecanvas.md" >}}) | 378 | 378 | 100.0 | Esperanto <ubuntu-l10n-eo@lists.launchpad.net> | 
- | [libgnomekbd]({{< ref "/f16/package/libgnomekbd.md" >}}) | 242 | 242 | 100.0 | Esperanto <ubuntu-l10n-eo@lists.launchpad.net> | 
- | [libgnomeui]({{< ref "/f16/package/libgnomeui.md" >}}) | 1226 | 1226 | 100.0 | Esperanto <ubuntu-l10n-eo@lists.launchpad.net> | 
- | [libgtop2]({{< ref "/f16/package/libgtop2.md" >}}) | 126 | 126 | 100.0 | Esperanto <ubuntu-l10n-eo@lists.launchpad.net> | 
- | [libgweather]({{< ref "/f16/package/libgweather.md" >}}) | 6090 | 6090 | 100.0 | Esperanto <ubuntu-l10n-eo@lists.launchpad.net> | 
- | [libmate]({{< ref "/f16/package/libmate.md" >}}) | 1773 | 1773 | 100.0 | Esperanto (http://www.transifex.com/projects/p/MATE/language/eo/) | 
- | [libmatecanvas]({{< ref "/f16/package/libmatecanvas.md" >}}) | 378 | 378 | 100.0 | Esperanto (http://www.transifex.com/projects/p/MATE/language/eo/) | 
- | [libmatecomponent]({{< ref "/f16/package/libmatecomponent.md" >}}) | 543 | 543 | 100.0 | Esperanto (http://www.transifex.net/projects/p/MATE/language/eo/) | 
- | [libmatekbd]({{< ref "/f16/package/libmatekbd.md" >}}) | 292 | 292 | 100.0 | Esperanto <ubuntu-l10n-eo@lists.launchpad.net> | 
- | [libmatekeyring]({{< ref "/f16/package/libmatekeyring.md" >}}) | 44 | 44 | 100.0 | Esperanto (http://www.transifex.com/projects/p/MATE/language/eo/) | 
- | [libmatewnck]({{< ref "/f16/package/libmatewnck.md" >}}) | 88 | 88 | 100.0 | Eo-Tradukado <eo-tradukado@lists.tuxfamily.org> | 
- | [libmx]({{< ref "/f16/package/libmx.md" >}}) | 40 | 40 | 100.0 | Esperanto <translation-team-eo@lists.sourceforge.net> | 
- | [libpeas]({{< ref "/f16/package/libpeas.md" >}}) | 103 | 103 | 100.0 | Esperanto <ubuntu-l10n-eo@lists.launchpad.net> | 
- | [libwnck]({{< ref "/f16/package/libwnck.md" >}}) | 88 | 88 | 100.0 | Eo-Tradukado <eo-tradukado@lists.tuxfamily.org> | 
- | [lightdm]({{< ref "/f16/package/lightdm.md" >}}) | 79 | 79 | 100.0 | Esperanto <eo@li.org> | 
- | [lightdm-gtk]({{< ref "/f16/package/lightdm-gtk.md" >}}) | 56 | 56 | 100.0 | Esperanto <eo@li.org> | 
- | [mate-file-archiver]({{< ref "/f16/package/mate-file-archiver.md" >}}) | 1377 | 1377 | 100.0 | Esperanto <ubuntu-l10n-eo@lists.launchpad.net> | 
- | [mate-icon-theme]({{< ref "/f16/package/mate-icon-theme.md" >}}) | 4 | 4 | 100.0 | Esperanto <ubuntu-l10n-eo@lists.launchpad.net> | 
- | [mate-menus]({{< ref "/f16/package/mate-menus.md" >}}) | 125 | 125 | 100.0 | Esperanto <ubuntu-l10n-eo@lists.launchpad.net> | 
- | [mate-panel]({{< ref "/f16/package/mate-panel.md" >}}) | 4492 | 4492 | 100.0 | Esperanto (http://www.transifex.com/projects/p/MATE/language/eo/) | 
- | [mate-session-manager]({{< ref "/f16/package/mate-session-manager.md" >}}) | 638 | 638 | 100.0 | Esperanto <ubuntu-l10n-eo@lists.launchpad.net> | 
- | [mc]({{< ref "/f16/package/mc.md" >}}) | 3990 | 3990 | 100.0 | Esperanto (http://www.transifex.com/projects/p/mc/language/eo/) | 
- | [meego-panel-applications]({{< ref "/f16/package/meego-panel-applications.md" >}}) | 5 | 5 | 100.0 | Esperanto <translation-team-eo@lists.sourceforge.net> | 
- | [mingw32-atk]({{< ref "/f16/package/mingw32-atk.md" >}}) | 375 | 375 | 100.0 | Esperanto <ubuntu-l10n-eo@lists.launchpad.net> | 
- | [mingw32-glib2]({{< ref "/f16/package/mingw32-glib2.md" >}}) | 4777 | 4777 | 100.0 | Esperanto | 
- | [nano]({{< ref "/f16/package/nano.md" >}}) | 2689 | 2689 | 100.0 | Esperanto <translation-team-eo@lists.sourceforge.net> | 
- | [newt]({{< ref "/f16/package/newt.md" >}}) | 4 | 4 | 100.0 | Esperanto <debian-l10n-esperanto@lists.debian.org> | 
- | [notification-daemon]({{< ref "/f16/package/notification-daemon.md" >}}) | 13 | 13 | 100.0 | Esperanto <ubuntu-l10n-eo@lists.launchpad.net> | 
- | [openteacher]({{< ref "/f16/package/openteacher.md" >}}) | 59 | 59 | 100.0 | Esperanto <eo@li.org> | 
- | [po4a]({{< ref "/f16/package/po4a.md" >}}) | 1901 | 1901 | 100.0 | Esperanto <debian-l10n-esperanto@lists.debian.org> | 
- | [solfege]({{< ref "/f16/package/solfege.md" >}}) | 9814 | 9814 | 100.0 | Esperanto <translation-team-eo@lists.sourceforge.net> | 
- | [subtitleeditor]({{< ref "/f16/package/subtitleeditor.md" >}}) | 3318 | 3318 | 100.0 | Esperanto <eo@li.org> | 
- | [sudo]({{< ref "/f16/package/sudo.md" >}}) | 2996 | 2996 | 100.0 | Esperanto <translation-team-eo@lists.sourceforge.net> | 
- | [sushi]({{< ref "/f16/package/sushi.md" >}}) | 15 | 15 | 100.0 | Esperanto <ubuntu-l10n-eo@lists.launchpad.net> | 
- | [sysstat]({{< ref "/f16/package/sysstat.md" >}}) | 536 | 536 | 100.0 | Esperanto <translation-team-eo@lists.sourceforge.net> | 
- | [tasque]({{< ref "/f16/package/tasque.md" >}}) | 196 | 196 | 100.0 | Esperanto <cad@cad.cx> | 
- | [totem-pl-parser]({{< ref "/f16/package/totem-pl-parser.md" >}}) | 28 | 28 | 100.0 | Esperanto <ubuntu-l10n-eo@lists.launchpad.net> | 
- | [trac]({{< ref "/f16/package/trac.md" >}}) | 5667 | 5667 | 100.0 | eo <LL@li.org> | 
- | [vim]({{< ref "/f16/package/vim.md" >}}) | 8758 | 8758 | 100.0 |  | 
- | [vte]({{< ref "/f16/package/vte.md" >}}) | 80 | 80 | 100.0 | Esperanto <ubuntu-l10n-eo@lists.launchpad.net> | 
- | [vte3]({{< ref "/f16/package/vte3.md" >}}) | 80 | 80 | 100.0 | Esperanto <ubuntu-l10n-eo@lists.launchpad.net> | 
- | [xdg-user-dirs]({{< ref "/f16/package/xdg-user-dirs.md" >}}) | 28 | 28 | 100.0 | Esperanto <translation-team-eo@lists.sourceforge.net> | 
- | [xfce4-eyes-plugin]({{< ref "/f16/package/xfce4-eyes-plugin.md" >}}) | 1 | 1 | 100.0 | Debian-l10n-esperanto <debian-l10n-esperanto@lists.debian.org> | 
- | [xfce4-icon-theme]({{< ref "/f16/package/xfce4-icon-theme.md" >}}) | 8 | 8 | 100.0 | Debian-l10n-esperanto <debian-l10n-esperanto@lists.debian.org> | 
- | [xfce4-verve-plugin]({{< ref "/f16/package/xfce4-verve-plugin.md" >}}) | 47 | 47 | 100.0 | Debian-l10n-esperanto <xfce-i18n@xfce.org> | 
- | [xkeyboard-config]({{< ref "/f16/package/xkeyboard-config.md" >}}) | 3155 | 3155 | 100.0 | Esperanto <translation-team-eo@lists.sourceforge.net> | 
- | [yelp]({{< ref "/f16/package/yelp.md" >}}) | 979 | 979 | 100.0 | British English <en@li.org> | 
- | [yelp-xsl]({{< ref "/f16/package/yelp-xsl.md" >}}) | 70 | 70 | 100.0 | Esperanto <ubuntu-l10n-eo@lists.launchpad.net> | 
- | [gnome-mime-data]({{< ref "/f16/package/gnome-mime-data.md" >}}) | 851 | 854 | 99.6 | Esperanto <LL@li.org> | 
- | [gdm]({{< ref "/f16/package/gdm.md" >}}) | 1090 | 1094 | 99.6 | Esperanto <ubuntu-l10n-eo@lists.launchpad.net> | 
- | [xfce4-netload-plugin]({{< ref "/f16/package/xfce4-netload-plugin.md" >}}) | 67 | 68 | 98.5 | Esperanto <debian-l10n-esperanto@lists.debian.org> | 
- | [ejabberd]({{< ref "/f16/package/ejabberd.md" >}}) | 1799 | 1826 | 98.5 |  | 
- | [gedit]({{< ref "/f16/package/gedit.md" >}}) | 4262 | 4329 | 98.5 | Esperanto <ubuntu-l10n-eo@lists.launchpad.net> | 
- | [xine-ui]({{< ref "/f16/package/xine-ui.md" >}}) | 2885 | 2942 | 98.1 | Esperanto | 
- | [mingw32-gdk-pixbuf]({{< ref "/f16/package/mingw32-gdk-pixbuf.md" >}}) | 1286 | 1313 | 97.9 | Esperanto <ubuntu-l10n-eo@lists.launchpad.net> | 
- | [gnome-applets]({{< ref "/f16/package/gnome-applets.md" >}}) | 3333 | 3420 | 97.5 | Esperanto <ubuntu-l10n-eo@lists.launchpad.net> | 
- | [girara]({{< ref "/f16/package/girara.md" >}}) | 191 | 197 | 97.0 | LANGUAGE <LL@li.org> | 
- | [dpkg]({{< ref "/f16/package/dpkg.md" >}}) | 7227 | 7604 | 95.0 | Esperanto <debian-l10n-esperanto@lists.debian.org> | 
- | [pinta]({{< ref "/f16/package/pinta.md" >}}) | 988 | 1040 | 95.0 | Esperanto <eo@li.org> | 
- | [indent]({{< ref "/f16/package/indent.md" >}}) | 258 | 272 | 94.9 | Esperanto <translation-team-eo@lists.sourceforge.net> | 
- | [gucharmap]({{< ref "/f16/package/gucharmap.md" >}}) | 846 | 896 | 94.4 | Esperanto <ubuntu-l10n-eo@lists.launchpad.net> | 
- | [poedit]({{< ref "/f16/package/poedit.md" >}}) | 1089 | 1162 | 93.7 | Tedehur <eo@tedehur.net> | 
- | [mingw32-libidn]({{< ref "/f16/package/mingw32-libidn.md" >}}) | 386 | 413 | 93.5 | Esperanto <translation-team-eo@lists.sourceforge.net> | 
- | [gettext]({{< ref "/f16/package/gettext.md" >}}) | 810 | 874 | 92.7 | Esperanto <translation-team-eo@lists.sourceforge.net> | 
- | [mingw32-gettext]({{< ref "/f16/package/mingw32-gettext.md" >}}) | 810 | 874 | 92.7 | Esperanto <translation-team-eo@lists.sourceforge.net> | 
- | [mutt]({{< ref "/f16/package/mutt.md" >}}) | 4940 | 5377 | 91.9 | eo <eo@li.org> | 
- | [empathy]({{< ref "/f16/package/empathy.md" >}}) | 3933 | 4312 | 91.2 | Esperanto <ubuntu-l10n-eo@lists.launchpad.net> | 
- | [pessulus]({{< ref "/f16/package/pessulus.md" >}}) | 118 | 130 | 90.8 | Esperanto <ubuntu-l10n-eo@lists.launchpad.net> | 
- | [mingw32-iconv]({{< ref "/f16/package/mingw32-iconv.md" >}}) | 303 | 336 | 90.2 | Esperanto <translation-team-eo@lists.sourceforge.net> | 
- | [mousepad]({{< ref "/f16/package/mousepad.md" >}}) | 121 | 135 | 89.6 | debian-l10n-esperanto@lists.debian.org | 
- | [nautilus]({{< ref "/f16/package/nautilus.md" >}}) | 6298 | 7077 | 89.0 | Esperanto <ubuntu-l10n-eo@lists.launchpad.net> | 
- | [gnome-documents]({{< ref "/f16/package/gnome-documents.md" >}}) | 60 | 68 | 88.2 | Esperanto <ubuntu-l10n-eo@lists.launchpad.net> | 
- | [mod_cluster]({{< ref "/f16/package/mod_cluster.md" >}}) | 287 | 327 | 87.8 | Esperanto <translation-team-eo@lists.sourceforge.net> | 
- | [rhythmbox]({{< ref "/f16/package/rhythmbox.md" >}}) | 4107 | 4694 | 87.5 | Esperanto <ubuntu-l10n-eo@lists.launchpad.net> | 
- | [file-roller]({{< ref "/f16/package/file-roller.md" >}}) | 1315 | 1519 | 86.6 | Esperanto <ubuntu-l10n-eo@lists.launchpad.net> | 
- | [thunar-archive-plugin]({{< ref "/f16/package/thunar-archive-plugin.md" >}}) | 74 | 86 | 86.0 | Esperanto <xfce-i18n@xfce.org> | 
- | [sed]({{< ref "/f16/package/sed.md" >}}) | 490 | 581 | 84.3 | Esperanto <translation-team-eo@lists.sourceforge.net> | 
- | [glib-networking]({{< ref "/f16/package/glib-networking.md" >}}) | 72 | 86 | 83.7 | Esperanto <ubuntu-l10n-eo@lists.launchpad.net> | 
- | [mingw32-glib-networking]({{< ref "/f16/package/mingw32-glib-networking.md" >}}) | 72 | 86 | 83.7 | Esperanto <ubuntu-l10n-eo@lists.launchpad.net> | 
- | [sane-backends]({{< ref "/f16/package/sane-backends.md" >}}) | 3975 | 4751 | 83.7 | <it@li.org> | 
- | [cinnamon]({{< ref "/f16/package/cinnamon.md" >}}) | 1084 | 1296 | 83.6 | Esperanto <ubuntu-l10n-eo@lists.launchpad.net> | 
- | [gnome-shell]({{< ref "/f16/package/gnome-shell.md" >}}) | 1086 | 1300 | 83.5 | Esperanto <ubuntu-l10n-eo@lists.launchpad.net> | 
- | [texlive]({{< ref "/f16/package/texlive.md" >}}) | 3634 | 4382 | 82.9 | Esperanto <translation-team-eo@lists.sourceforge.net> | 
- | [Thunar]({{< ref "/f16/package/Thunar.md" >}}) | 3203 | 3886 | 82.4 | Esperanto <debian-l10n-esperanto@lists.debian.org> | 
- | [libgdl]({{< ref "/f16/package/libgdl.md" >}}) | 497 | 604 | 82.3 | Esperanto <ubuntu-l10n-eo@lists.launchpad.net> | 
- | [transmission]({{< ref "/f16/package/transmission.md" >}}) | 1254 | 1528 | 82.1 | Esperanto <eo@li.org> | 
- | [libidn]({{< ref "/f16/package/libidn.md" >}}) | 339 | 414 | 81.9 | Esperanto <translation-team-eo@lists.sourceforge.net> | 
- | [frozen-bubble]({{< ref "/f16/package/frozen-bubble.md" >}}) | 567 | 698 | 81.2 | Esperanto | 
- | [thunar-vfs]({{< ref "/f16/package/thunar-vfs.md" >}}) | 313 | 387 | 80.9 | Esperanto <debian-l10n-esperanto@lists.debian.org> | 
- | [nautilus-sendto]({{< ref "/f16/package/nautilus-sendto.md" >}}) | 240 | 297 | 80.8 | Esperanto <ubuntu-l10n-eo@lists.launchpad.net> | 
- | [gnome-desktop]({{< ref "/f16/package/gnome-desktop.md" >}}) | 331 | 438 | 75.6 | Esperanto <ubuntu-l10n-eo@lists.launchpad.net> | 
- | [psmisc]({{< ref "/f16/package/psmisc.md" >}}) | 691 | 920 | 75.1 | Esperanto <translation-team-eo@lists.sourceforge.net> | 
- | [eog]({{< ref "/f16/package/eog.md" >}}) | 1174 | 1589 | 73.9 | Esperanto <ubuntu-l10n-eo@lists.launchpad.net> | 
- | [gcompris]({{< ref "/f16/package/gcompris.md" >}}) | 9330 | 12659 | 73.7 | Esperanto <ubuntu-l10n-eo@lists.launchpad.net> | 
- | [bash]({{< ref "/f16/package/bash.md" >}}) | 7877 | 10861 | 72.5 | Esperanto <translation-team-eo@lists.sourceforge.net> | 
- | [Terminal]({{< ref "/f16/package/Terminal.md" >}}) | 855 | 1191 | 71.8 | Debian-l10n-esperanto <debian-l10n-esperanto@lists.debian.org> | 
- | [zathura]({{< ref "/f16/package/zathura.md" >}}) | 249 | 349 | 71.3 | Esperanto (http://www.transifex.com/projects/p/zathura/language/eo/) | 
- | [mate-file-manager]({{< ref "/f16/package/mate-file-manager.md" >}}) | 6601 | 9411 | 70.1 | Esperanto (http://www.transifex.net/projects/p/MATE/language/eo/) | 
- | [mate-backgrounds]({{< ref "/f16/package/mate-backgrounds.md" >}}) | 21 | 30 | 70.0 | Esperanto (http://www.transifex.com/projects/p/MATE/language/eo/) | 
- | [kiconedit]({{< ref "/f16/package/kiconedit.md" >}}) | 506 | 726 | 69.7 | Esperanto <eo@li.org> | 
- | [gedit-plugins]({{< ref "/f16/package/gedit-plugins.md" >}}) | 836 | 1205 | 69.4 | Esperanto <ubuntu-l10n-eo@lists.launchpad.net> | 
- | [wormux]({{< ref "/f16/package/wormux.md" >}}) | 1314 | 1916 | 68.6 | esperanto <kde-i18n-eo@kde.org> | 
- | [dos2unix]({{< ref "/f16/package/dos2unix.md" >}}) | 850 | 1274 | 66.7 | Esperanto <translation-team-eo@lists.sourceforge.net> | 
- | [gtkhtml3]({{< ref "/f16/package/gtkhtml3.md" >}}) | 323 | 485 | 66.6 | Esperanto <ubuntu-l10n-eo@lists.launchpad.net> | 
- | [gimp]({{< ref "/f16/package/gimp.md" >}}) | 16455 | 25061 | 65.7 | eo-tradukado.tuxfamily.org | 
- | [drwright]({{< ref "/f16/package/drwright.md" >}}) | 74 | 116 | 63.8 | Esperanto <ubuntu-l10n-eo@lists.launchpad.net> | 
- | [libgdata]({{< ref "/f16/package/libgdata.md" >}}) | 370 | 597 | 62.0 | Esperanto <ubuntu-l10n-eo@lists.launchpad.net> | 
- | [lxmenu-data]({{< ref "/f16/package/lxmenu-data.md" >}}) | 60 | 97 | 61.9 | Esperanto <eo@li.org> | 
- | [vorbis-tools]({{< ref "/f16/package/vorbis-tools.md" >}}) | 2495 | 4109 | 60.7 | Esperanto <translation-team-eo@lists.sourceforge.net> | 
- | [control-center]({{< ref "/f16/package/control-center.md" >}}) | 1557 | 2569 | 60.6 | Esperanto <ubuntu-l10n-eo@lists.launchpad.net> | 
- | [shared-mime-info]({{< ref "/f16/package/shared-mime-info.md" >}}) | 994 | 1659 | 59.9 | Esperanto (http://www.transifex.net/projects/p/freedesktop/team/eo/) | 
- | [geeqie]({{< ref "/f16/package/geeqie.md" >}}) | 1737 | 2909 | 59.7 |  | 
- | [gnome-bluetooth]({{< ref "/f16/package/gnome-bluetooth.md" >}}) | 388 | 662 | 58.6 | Esperanto <ubuntu-l10n-eo@lists.launchpad.net> | 
- | [inkscape]({{< ref "/f16/package/inkscape.md" >}}) | 15536 | 26528 | 58.6 | <it@li.org> | 
- | [libxfcegui4]({{< ref "/f16/package/libxfcegui4.md" >}}) | 81 | 139 | 58.3 | Esperanto <translation-team-eo@lists.sourceforge.net> | 
- | [gnome-system-monitor]({{< ref "/f16/package/gnome-system-monitor.md" >}}) | 534 | 945 | 56.5 | Esperanto <ubuntu-l10n-eo@lists.launchpad.net> | 
- | [pondus]({{< ref "/f16/package/pondus.md" >}}) | 174 | 324 | 53.7 | LANGUAGE <LL@li.org> | 
- | [totem]({{< ref "/f16/package/totem.md" >}}) | 1448 | 2744 | 52.8 | Esperanto <ubuntu-l10n-eo@lists.launchpad.net> | 
- | [tuxpaint]({{< ref "/f16/package/tuxpaint.md" >}}) | 654 | 1247 | 52.4 | Esperanto <translation-team-eo@lists.sourceforge.net> | 
- | [epiphany]({{< ref "/f16/package/epiphany.md" >}}) | 1210 | 2363 | 51.2 | Esperanto <ubuntu-l10n-eo@lists.launchpad.net> | 
- | [glabels]({{< ref "/f16/package/glabels.md" >}}) | 1093 | 2138 | 51.1 | Esperanto <eo@li.org> | 
- | [gwibber]({{< ref "/f16/package/gwibber.md" >}}) | 22 | 45 | 48.9 | Esperanto <eo@li.org> | 
- | [gnome-keyring]({{< ref "/f16/package/gnome-keyring.md" >}}) | 561 | 1174 | 47.8 | Esperanto <ubuntu-l10n-eo@lists.launchpad.net> | 
- | [gsettings-desktop-schemas]({{< ref "/f16/package/gsettings-desktop-schemas.md" >}}) | 1246 | 2641 | 47.2 | Esperanto <ubuntu-l10n-eo@lists.launchpad.net> | 
- | [gajim]({{< ref "/f16/package/gajim.md" >}}) | 5317 | 11642 | 45.7 | Esperanto <translation-team-eo@lists.sourceforge.net> | 
- | [at-spi]({{< ref "/f16/package/at-spi.md" >}}) | 27 | 61 | 44.3 | Esperanto <ubuntu-l10n-eo@lists.launchpad.net> | 
- | [mate-system-monitor]({{< ref "/f16/package/mate-system-monitor.md" >}}) | 409 | 933 | 43.8 | Esperanto <ubuntu-l10n-eo@lists.launchpad.net> | 
- | [gnome-power-manager]({{< ref "/f16/package/gnome-power-manager.md" >}}) | 187 | 432 | 43.3 | Esperanto <ubuntu-l10n-eo@lists.launchpad.net> | 
- | [xine-lib]({{< ref "/f16/package/xine-lib.md" >}}) | 5030 | 11956 | 42.1 | <it@li.org> | 
- | [gnusim8085]({{< ref "/f16/package/gnusim8085.md" >}}) | 238 | 568 | 41.9 | Esperanto <eo@li.org> | 
- | [purple-msn-pecan]({{< ref "/f16/package/purple-msn-pecan.md" >}}) | 402 | 960 | 41.9 | Esperanto <eo@li.org> | 
- | [clutter]({{< ref "/f16/package/clutter.md" >}}) | 992 | 2371 | 41.8 | Esperanto <ubuntu-l10n-eo@lists.launchpad.net> | 
- | [k3b]({{< ref "/f16/package/k3b.md" >}}) | 8337 | 20423 | 40.8 | esperanto <kde-i18n-eo@kde.org> | 
- | [libreoffice]({{< ref "/f16/package/libreoffice.md" >}}) | 217674 | 533994 | 40.8 | LANGUAGE <LL@li.org> | 
- | [kBuild]({{< ref "/f16/package/kBuild.md" >}}) | 204 | 505 | 40.4 | Esperanto <translation-team-eo@lists.sourceforge.net> | 
- | [gtranslator]({{< ref "/f16/package/gtranslator.md" >}}) | 671 | 1668 | 40.2 | Esperanto <ubuntu-l10n-eo@lists.launchpad.net> | 
- | [koffice-kivio]({{< ref "/f16/package/koffice-kivio.md" >}}) | 3362 | 8417 | 39.9 | Esperanto <kde-i18n-eo@kde.org> | 
- | [xmms]({{< ref "/f16/package/xmms.md" >}}) | 1370 | 3443 | 39.8 | Esperanto <eo@li.org> | 
- | [mate-desktop]({{< ref "/f16/package/mate-desktop.md" >}}) | 160 | 407 | 39.3 | Esperanto (http://www.transifex.net/projects/p/MATE/language/eo/) | 
- | [pidgin]({{< ref "/f16/package/pidgin.md" >}}) | 7196 | 18356 | 39.2 | Esperanto <kde-i18n-eo@kde.org> | 
- | [kgrab]({{< ref "/f16/package/kgrab.md" >}}) | 144 | 370 | 38.9 | esperanto <kde-i18n-eo@kde.org> | 
- | [gnupg]({{< ref "/f16/package/gnupg.md" >}}) | 3340 | 8584 | 38.9 | Esperanto <translation-team-eo@lists.sourceforge.net> | 
- | [ekiga]({{< ref "/f16/package/ekiga.md" >}}) | 1652 | 4260 | 38.8 | Esperanto <ubuntu-l10n-eo@lists.launchpad.net> | 
- | [zenity]({{< ref "/f16/package/zenity.md" >}}) | 259 | 674 | 38.4 | Esperanto <ubuntu-l10n-eo@lists.launchpad.net> | 
- | [caribou]({{< ref "/f16/package/caribou.md" >}}) | 76 | 200 | 38.0 | Esperanto <translation-team-eo@lists.sourceforge.net> | 
- | [mousetweaks]({{< ref "/f16/package/mousetweaks.md" >}}) | 88 | 237 | 37.1 | Esperanto <ubuntu-l10n-eo@lists.launchpad.net> | 
- | [gtk3]({{< ref "/f16/package/gtk3.md" >}}) | 4523 | 12542 | 36.1 | Esperanto <ubuntu-l10n-eo@lists.launchpad.net> | 
- | [mingw-gtk3]({{< ref "/f16/package/mingw-gtk3.md" >}}) | 4523 | 12542 | 36.1 | Esperanto <ubuntu-l10n-eo@lists.launchpad.net> | 
- | [vino]({{< ref "/f16/package/vino.md" >}}) | 429 | 1194 | 35.9 | Esperanto <ubuntu-l10n-eo@lists.launchpad.net> | 
- | [konq-plugins]({{< ref "/f16/package/konq-plugins.md" >}}) | 604 | 1692 | 35.7 | Esperanto <eo@li.org> | 
- | [libwnck3]({{< ref "/f16/package/libwnck3.md" >}}) | 384 | 1082 | 35.5 | Esperanto <ubuntu-l10n-eo@lists.launchpad.net> | 
- | [pootle]({{< ref "/f16/package/pootle.md" >}}) | 1240 | 3543 | 35.0 | LANGUAGE <LL@li.org> | 
- | [xfce4-session]({{< ref "/f16/package/xfce4-session.md" >}}) | 390 | 1132 | 34.5 | Esperanto <debian-l10n-esperanto@lists.debian.org> | 
- | [grep]({{< ref "/f16/package/grep.md" >}}) | 324 | 955 | 33.9 | Esperanto <translation-team-eo@lists.sourceforge.net> | 
- | [gnome-media]({{< ref "/f16/package/gnome-media.md" >}}) | 415 | 1238 | 33.5 | Esperanto <ubuntu-l10n-eo@lists.launchpad.net> | 
- | [muffin]({{< ref "/f16/package/muffin.md" >}}) | 792 | 2422 | 32.7 | Esperanto <ubuntu-l10n-eo@lists.launchpad.net> | 
- | [mutter]({{< ref "/f16/package/mutter.md" >}}) | 792 | 2422 | 32.7 | Esperanto <ubuntu-l10n-eo@lists.launchpad.net> | 
- | [libbonoboui]({{< ref "/f16/package/libbonoboui.md" >}}) | 120 | 368 | 32.6 | Esperanto <ubuntu-l10n-eo@lists.launchpad.net> | 
- | [evolution]({{< ref "/f16/package/evolution.md" >}}) | 6871 | 21561 | 31.9 | Esperanto <ubuntu-l10n-eo@lists.launchpad.net> | 
- | [nautilus-sound-converter]({{< ref "/f16/package/nautilus-sound-converter.md" >}}) | 50 | 159 | 31.4 | Esperanto <gnome-l10n-eo@lists.launchpad.net> | 
- | [latexila]({{< ref "/f16/package/latexila.md" >}}) | 476 | 1526 | 31.2 | Esperanto <ubuntu-l10n-eo@lists.launchpad.net> | 
- | [gnome-vfs2]({{< ref "/f16/package/gnome-vfs2.md" >}}) | 457 | 1519 | 30.1 | Esperanto <ubuntu-l10n-eo@lists.launchpad.net> | 
- | [mate-vfs]({{< ref "/f16/package/mate-vfs.md" >}}) | 457 | 1519 | 30.1 | Esperanto (http://www.transifex.com/projects/p/MATE/language/eo/) | 
- | [diffutils]({{< ref "/f16/package/diffutils.md" >}}) | 527 | 1780 | 29.6 | Esperanto <translation-team-eo@lists.sourceforge.net> | 
- | [gnome-activity-journal]({{< ref "/f16/package/gnome-activity-journal.md" >}}) | 93 | 316 | 29.4 | Esperanto <eo@li.org> | 
- | [coreutils]({{< ref "/f16/package/coreutils.md" >}}) | 5450 | 19063 | 28.6 | Esperanto <translation-team-eo@lists.sourceforge.net> | 
- | [gnome-utils]({{< ref "/f16/package/gnome-utils.md" >}}) | 969 | 3477 | 27.9 | Esperanto <ubuntu-l10n-eo@lists.launchpad.net> | 
- | [picard]({{< ref "/f16/package/picard.md" >}}) | 448 | 1626 | 27.6 | Esperanto (http://www.transifex.net/projects/p/musicbrainz/language/eo/) | 
- | [scribus]({{< ref "/f16/package/scribus.md" >}}) | 3863 | 14194 | 27.2 | esperanto <eo@li.org> | 
- | [gcalctool]({{< ref "/f16/package/gcalctool.md" >}}) | 361 | 1388 | 26.0 | Esperanto <ubuntu-l10n-eo@lists.launchpad.net> | 
- | [wget]({{< ref "/f16/package/wget.md" >}}) | 583 | 2260 | 25.8 | Esperanto <translation-team-eo@lists.sourceforge.net> | 
- | [evolution-mapi]({{< ref "/f16/package/evolution-mapi.md" >}}) | 144 | 559 | 25.8 | Esperanto <ubuntu-l10n-eo@lists.launchpad.net> | 
- | [orage]({{< ref "/f16/package/orage.md" >}}) | 612 | 2392 | 25.6 | Esperanto <debian-l10n-esperanto@lists.debian.org> | 
- | [m17n-contrib]({{< ref "/f16/package/m17n-contrib.md" >}}) | 44 | 176 | 25.0 | Esperanto | 
- | [metacity]({{< ref "/f16/package/metacity.md" >}}) | 890 | 3700 | 24.1 | Esperanto <ubuntu-l10n-eo@lists.launchpad.net> | 
- | [pitivi]({{< ref "/f16/package/pitivi.md" >}}) | 367 | 1532 | 24.0 | Esperanto <ubuntu-l10n-eo@lists.launchpad.net> | 
- | [mate-window-manager]({{< ref "/f16/package/mate-window-manager.md" >}}) | 901 | 3790 | 23.8 | Esperanto (http://www.transifex.com/projects/p/MATE/language/eo/) | 
- | [gtkhash]({{< ref "/f16/package/gtkhash.md" >}}) | 15 | 65 | 23.1 | Esperanto <eo@li.org> | 
- | [ktorrent]({{< ref "/f16/package/ktorrent.md" >}}) | 1879 | 8143 | 23.1 | Esperanto <kde-i18n-eo@kde.org> | 
- | [tomboy]({{< ref "/f16/package/tomboy.md" >}}) | 718 | 3116 | 23.0 | Esperanto <ubuntu-l10n-eo@lists.launchpad.net> | 
- | [libktorrent]({{< ref "/f16/package/libktorrent.md" >}}) | 114 | 519 | 22.0 | Esperanto <kde-i18n-eo@kde.org> | 
- | [polkit-gnome]({{< ref "/f16/package/polkit-gnome.md" >}}) | 62 | 285 | 21.8 | Esperanto <ubuntu-l10n-eo@lists.launchpad.net> | 
- | [gnupg2]({{< ref "/f16/package/gnupg2.md" >}}) | 2263 | 10491 | 21.6 | Esperanto <translation-team-eo@lists.sourceforge.net> | 
- | [gbrainy]({{< ref "/f16/package/gbrainy.md" >}}) | 1735 | 8127 | 21.3 | Esperanto <gnome-l10n-eo@lists.launchpad.net> | 
- | [gnote]({{< ref "/f16/package/gnote.md" >}}) | 472 | 2361 | 20.0 | Esperanto <ubuntu-l10n-eo@lists.launchpad.net> | 
- | [skanlite]({{< ref "/f16/package/skanlite.md" >}}) | 34 | 175 | 19.4 | esperanto <kde-i18n-eo@kde.org> | 
- | [gthumb]({{< ref "/f16/package/gthumb.md" >}}) | 736 | 3819 | 19.3 | Esperanto <ubuntu-l10n-eo@lists.launchpad.net> | 
- | [gnome-mag]({{< ref "/f16/package/gnome-mag.md" >}}) | 57 | 298 | 19.1 | Esperanto <ubuntu-l10n-eo@lists.launchpad.net> | 
- | [wine]({{< ref "/f16/package/wine.md" >}}) | 2665 | 14112 | 18.9 | none | 
- | [folks]({{< ref "/f16/package/folks.md" >}}) | 163 | 871 | 18.7 | Esperanto <ubuntu-l10n-eo@lists.launchpad.net> | 
- | [orca]({{< ref "/f16/package/orca.md" >}}) | 830 | 4456 | 18.6 | Esperanto <ubuntu-l10n-eo@lists.launchpad.net> | 
- | [exaile]({{< ref "/f16/package/exaile.md" >}}) | 685 | 3683 | 18.6 | Esperanto <eo@li.org> | 
- | [gnome-tweak-tool]({{< ref "/f16/package/gnome-tweak-tool.md" >}}) | 22 | 119 | 18.5 | Esperanto <gnome-l10n-eo@lists.launchpad.net> | 
- | [meld]({{< ref "/f16/package/meld.md" >}}) | 231 | 1256 | 18.4 | Esperanto <gnome-l10n-eo@lists.launchpad.net> | 
- | [gnome-commander]({{< ref "/f16/package/gnome-commander.md" >}}) | 1530 | 8506 | 18.0 | Esperanto <gnome-l10n-eo@lists.launchpad.net> | 
- | [dexter]({{< ref "/f16/package/dexter.md" >}}) | 41 | 228 | 18.0 | Esperanto <eo@li.org> | 
- | [gtk2]({{< ref "/f16/package/gtk2.md" >}}) | 2364 | 13704 | 17.3 | Eo-tradukado <http://eo-tradukado.tuxfamily.org> | 
- | [mingw32-gtk2]({{< ref "/f16/package/mingw32-gtk2.md" >}}) | 2364 | 13704 | 17.3 | Eo-tradukado <http://eo-tradukado.tuxfamily.org> | 
- | [gnome-terminal]({{< ref "/f16/package/gnome-terminal.md" >}}) | 683 | 4145 | 16.5 | Esperanto <ubuntu-l10n-eo@lists.launchpad.net> | 
- | [workrave]({{< ref "/f16/package/workrave.md" >}}) | 201 | 1227 | 16.4 | Esperanto <eo@li.org> | 
- | [terminator]({{< ref "/f16/package/terminator.md" >}}) | 55 | 339 | 16.2 | Esperanto <eo@li.org> | 
- | [midori]({{< ref "/f16/package/midori.md" >}}) | 436 | 2700 | 16.1 | Esperanto | 
- | [gvfs]({{< ref "/f16/package/gvfs.md" >}}) | 323 | 2011 | 16.1 | Esperanto <ubuntu-l10n-eo@lists.launchpad.net> | 
- | [xfwm4]({{< ref "/f16/package/xfwm4.md" >}}) | 133 | 837 | 15.9 | Esperanto <translation-team-eo@lists.sourceforge.net> | 
- | [sabayon]({{< ref "/f16/package/sabayon.md" >}}) | 114 | 743 | 15.3 | Esperanto <ubuntu-l10n-eo@lists.launchpad.net> | 
- | [gnome-settings-daemon]({{< ref "/f16/package/gnome-settings-daemon.md" >}}) | 440 | 2916 | 15.1 | Esperanto <ubuntu-l10n-eo@lists.launchpad.net> | 
- | [freeciv]({{< ref "/f16/package/freeciv.md" >}}) | 10505 | 70240 | 15.0 | Esperanto <eo@li.org> | 
- | [vinagre]({{< ref "/f16/package/vinagre.md" >}}) | 238 | 1666 | 14.3 | Esperanto <ubuntu-l10n-eo@lists.launchpad.net> | 
- | [wesnoth]({{< ref "/f16/package/wesnoth.md" >}}) | 32171 | 226913 | 14.2 |  | 
- | [iso-codes]({{< ref "/f16/package/iso-codes.md" >}}) | 2629 | 19173 | 13.7 | Esperanto <translation-team-eo@lists.sourceforge.net> | 
- | [libcryptui]({{< ref "/f16/package/libcryptui.md" >}}) | 409 | 3012 | 13.6 | Esperanto <ubuntu-l10n-eo@lists.launchpad.net> | 
- | [seahorse]({{< ref "/f16/package/seahorse.md" >}}) | 409 | 3012 | 13.6 | Esperanto <ubuntu-l10n-eo@lists.launchpad.net> | 
- | [pidgin-musictracker]({{< ref "/f16/package/pidgin-musictracker.md" >}}) | 44 | 326 | 13.5 | Esperanto <eo@li.org> | 
- | [evolution-data-server]({{< ref "/f16/package/evolution-data-server.md" >}}) | 628 | 4671 | 13.4 | Esperanto <ubuntu-l10n-eo@lists.launchpad.net> | 
- | [e16]({{< ref "/f16/package/e16.md" >}}) | 377 | 2832 | 13.3 | Esperanto <translation-team-eo@lists.sourceforge.net> | 
- | [mate-terminal]({{< ref "/f16/package/mate-terminal.md" >}}) | 548 | 4204 | 13.0 | Esperanto <ubuntu-l10n-eo@lists.launchpad.net> | 
- | [xfce-utils]({{< ref "/f16/package/xfce-utils.md" >}}) | 64 | 492 | 13.0 | Esperanto <debian-l10n-esperanto@lists.debian.org> | 
- | [PackageKit]({{< ref "/f16/package/PackageKit.md" >}}) | 203 | 1573 | 12.9 | Esperanto (http://www.transifex.net/projects/p/freedesktop/team/eo/) | 
- | [vidalia]({{< ref "/f16/package/vidalia.md" >}}) | 1350 | 10463 | 12.9 | translations@vidalia-project.net | 
- | [evolution-exchange]({{< ref "/f16/package/evolution-exchange.md" >}}) | 280 | 2194 | 12.8 | Esperanto <ubuntu-l10n-eo@lists.launchpad.net> | 
- | [seahorse-plugins]({{< ref "/f16/package/seahorse-plugins.md" >}}) | 125 | 1002 | 12.5 | Esperanto <ubuntu-l10n-eo@lists.launchpad.net> | 
- | [kcoloredit]({{< ref "/f16/package/kcoloredit.md" >}}) | 34 | 278 | 12.2 | Esperanto | 
- | [libmateweather]({{< ref "/f16/package/libmateweather.md" >}}) | 704 | 6090 | 11.6 | Esperanto (http://www.transifex.com/projects/p/MATE/language/eo/) | 
- | [gtksourceview3]({{< ref "/f16/package/gtksourceview3.md" >}}) | 168 | 1482 | 11.3 | Esperanto <ubuntu-l10n-eo@lists.launchpad.net> | 
- | [mingw-gtksourceview3]({{< ref "/f16/package/mingw-gtksourceview3.md" >}}) | 168 | 1482 | 11.3 | Esperanto <ubuntu-l10n-eo@lists.launchpad.net> | 
- | [nemiver]({{< ref "/f16/package/nemiver.md" >}}) | 133 | 1205 | 11.0 | Esperanto <gnome-l10n-eo@lists.launchpad.net> | 
- | [polkit-kde]({{< ref "/f16/package/polkit-kde.md" >}}) | 10 | 92 | 10.9 | esperanto <kde-i18n-eo@kde.org> | 
- | [GConf2]({{< ref "/f16/package/GConf2.md" >}}) | 441 | 4088 | 10.8 | Esperanto <ubuntu-l10n-eo@lists.launchpad.net> | 
- | [NetworkManager-openconnect]({{< ref "/f16/package/NetworkManager-openconnect.md" >}}) | 15 | 141 | 10.6 | Esperanto <gnome-l10n-eo@lists.launchpad.net> | 
- | [knemo]({{< ref "/f16/package/knemo.md" >}}) | 126 | 1186 | 10.6 | esperanto <kde-i18n-eo@kde.org> | 
- | [gparted]({{< ref "/f16/package/gparted.md" >}}) | 218 | 2056 | 10.6 | Esperanto <ubuntu-l10n-eo@lists.launchpad.net> | 
- | [kmplayer]({{< ref "/f16/package/kmplayer.md" >}}) | 130 | 1249 | 10.4 | esperanto <kde-i18n-eo@kde.org> | 
- | [asunder]({{< ref "/f16/package/asunder.md" >}}) | 46 | 454 | 10.1 | Formiko <cguru@nerdshack.com> | 
- | [avant-window-navigator]({{< ref "/f16/package/avant-window-navigator.md" >}}) | 182 | 1829 | 10.0 | Esperanto <eo@li.org> | 
- | [gnome-do]({{< ref "/f16/package/gnome-do.md" >}}) | 60 | 612 | 9.8 | Esperanto <eo@li.org> | 
- | [kaudiocreator]({{< ref "/f16/package/kaudiocreator.md" >}}) | 111 | 1136 | 9.8 | esperanto <kde-i18n-eo@kde.org> | 
- | [xfce4-places-plugin]({{< ref "/f16/package/xfce4-places-plugin.md" >}}) | 4 | 43 | 9.3 |  | 
- | [rygel]({{< ref "/f16/package/rygel.md" >}}) | 48 | 530 | 9.1 | Esperanto <gnome-l10n-eo@lists.launchpad.net> | 
- | [gnome-packagekit]({{< ref "/f16/package/gnome-packagekit.md" >}}) | 420 | 4720 | 8.9 | Esperanto <ubuntu-l10n-eo@lists.launchpad.net> | 
- | [kaffeine]({{< ref "/f16/package/kaffeine.md" >}}) | 51 | 590 | 8.6 | esperanto <kde-i18n-eo@kde.org> | 
- | [anjuta]({{< ref "/f16/package/anjuta.md" >}}) | 626 | 7822 | 8.0 | Esperanto <ubuntu-l10n-eo@lists.launchpad.net> | 
- | [kmldonkey]({{< ref "/f16/package/kmldonkey.md" >}}) | 143 | 1830 | 7.8 | esperanto <kde-i18n-eo@kde.org> | 
- | [gnome-disk-utility]({{< ref "/f16/package/gnome-disk-utility.md" >}}) | 334 | 4544 | 7.4 | Esperanto <ubuntu-l10n-eo@lists.launchpad.net> | 
- | [mate-themes]({{< ref "/f16/package/mate-themes.md" >}}) | 8 | 109 | 7.3 | Esperanto (http://www.transifex.com/projects/p/MATE/language/eo/) | 
- | [brasero]({{< ref "/f16/package/brasero.md" >}}) | 393 | 5493 | 7.2 | Esperanto <ubuntu-l10n-eo@lists.launchpad.net> | 
- | [gnome-color-manager]({{< ref "/f16/package/gnome-color-manager.md" >}}) | 118 | 1655 | 7.1 | Esperanto <ubuntu-l10n-eo@lists.launchpad.net> | 
- | [glade3]({{< ref "/f16/package/glade3.md" >}}) | 321 | 4737 | 6.8 | Esperanto <ubuntu-l10n-eo@lists.launchpad.net> | 
- | [krusader]({{< ref "/f16/package/krusader.md" >}}) | 463 | 7956 | 5.8 | esperanto <kde-i18n-eo@kde.org> | 
- | [fuse-encfs]({{< ref "/f16/package/fuse-encfs.md" >}}) | 75 | 1315 | 5.7 | Esperanto <eo@li.org> | 
- | [tellico]({{< ref "/f16/package/tellico.md" >}}) | 328 | 5765 | 5.7 | esperanto <kde-i18n-eo@kde.org> | 
- | [balsa]({{< ref "/f16/package/balsa.md" >}}) | 351 | 6268 | 5.6 | Esperanto <gnome-l10n-eo@lists.launchpad.net> | 
- | [rekonq]({{< ref "/f16/package/rekonq.md" >}}) | 121 | 2263 | 5.3 | esperanto <kde-i18n-eo@kde.org> | 
- | [gnome-online-accounts]({{< ref "/f16/package/gnome-online-accounts.md" >}}) | 16 | 304 | 5.3 | Esperanto <ubuntu-l10n-eo@lists.launchpad.net> | 
- | [ncmpc]({{< ref "/f16/package/ncmpc.md" >}}) | 37 | 707 | 5.2 | Esperanto <eo@li.org> | 
- | [clementine]({{< ref "/f16/package/clementine.md" >}}) | 206 | 3939 | 5.2 |  | 
- | [duplicity]({{< ref "/f16/package/duplicity.md" >}}) | 168 | 3256 | 5.2 | Esperanto <eo@li.org> | 
- | [kdiff3]({{< ref "/f16/package/kdiff3.md" >}}) | 185 | 3644 | 5.1 | esperanto <kde-i18n-eo@kde.org> | 
- | [stellarium]({{< ref "/f16/package/stellarium.md" >}}) | 357 | 7138 | 5.0 | Esperanto <eo@li.org> | 
- | [tracker]({{< ref "/f16/package/tracker.md" >}}) | 124 | 2541 | 4.9 | Esperanto <ubuntu-l10n-eo@lists.launchpad.net> | 
- | [findutils]({{< ref "/f16/package/findutils.md" >}}) | 103 | 2130 | 4.8 | Esperanto <translation-team-eo@lists.sourceforge.net> | 
- | [kile]({{< ref "/f16/package/kile.md" >}}) | 465 | 11162 | 4.2 | Esperanto <kde-i18n-doc@kde.org> | 
- | [soundconverter]({{< ref "/f16/package/soundconverter.md" >}}) | 18 | 450 | 4.0 | Esperanto <eo@li.org> | 
- | [widelands]({{< ref "/f16/package/widelands.md" >}}) | 692 | 19213 | 3.6 | Esperanto <eo@li.org> | 
- | [xfdesktop]({{< ref "/f16/package/xfdesktop.md" >}}) | 28 | 835 | 3.4 | Esperanto <translation-team-eo@lists.sourceforge.net> | 
- | [pogo]({{< ref "/f16/package/pogo.md" >}}) | 19 | 576 | 3.3 | Esperanto <eo@li.org> | 
- | [kmymoney]({{< ref "/f16/package/kmymoney.md" >}}) | 603 | 19125 | 3.2 | Esperanto <kde-i18n-doc@kde.org> | 
- | [choqok]({{< ref "/f16/package/choqok.md" >}}) | 62 | 1997 | 3.1 | esperanto <kde-i18n-eo@kde.org> | 
- | [kpackagekit]({{< ref "/f16/package/kpackagekit.md" >}}) | 107 | 3646 | 2.9 | esperanto <kde-i18n-eo@kde.org> | 
- | [digikam]({{< ref "/f16/package/digikam.md" >}}) | 1176 | 41017 | 2.9 | esperanto <kde-i18n-eo@kde.org> | 
- | [audex]({{< ref "/f16/package/audex.md" >}}) | 99 | 3491 | 2.8 | esperanto <kde-i18n-eo@kde.org> | 
- | [xfce4-appfinder]({{< ref "/f16/package/xfce4-appfinder.md" >}}) | 2 | 71 | 2.8 | Debian-l10n-esperanto <debian-l10n-esperanto@lists.debian.org> | 
- | [kphotoalbum]({{< ref "/f16/package/kphotoalbum.md" >}}) | 171 | 6333 | 2.7 | esperanto <kde-i18n-eo@kde.org> | 
- | [apper]({{< ref "/f16/package/apper.md" >}}) | 98 | 4247 | 2.3 | esperanto <kde-i18n-eo@kde.org> | 
- | [cinepaint]({{< ref "/f16/package/cinepaint.md" >}}) | 67 | 2944 | 2.3 | <eo@li.org> | 
- | [xfce4-panel]({{< ref "/f16/package/xfce4-panel.md" >}}) | 34 | 1504 | 2.3 | Esperanto <debian-l10n-esperanto@lists.debian.org> | 
- | [icc_examin]({{< ref "/f16/package/icc_examin.md" >}}) | 67 | 3033 | 2.2 | <eo@li.org> | 
- | [calibre]({{< ref "/f16/package/calibre.md" >}}) | 980 | 45192 | 2.2 | Esperanto <translation-team-eo@lists.sourceforge.net> | 
- | [rsibreak]({{< ref "/f16/package/rsibreak.md" >}}) | 25 | 1304 | 1.9 | esperanto <kde-i18n-eo@kde.org> | 
- | [phatch]({{< ref "/f16/package/phatch.md" >}}) | 42 | 2553 | 1.6 | Esperanto <eo@li.org> | 
- | [kopete-cryptography]({{< ref "/f16/package/kopete-cryptography.md" >}}) | 6 | 408 | 1.5 | esperanto <kde-i18n-eo@kde.org> | 
- | [rednotebook]({{< ref "/f16/package/rednotebook.md" >}}) | 15 | 1054 | 1.4 | Esperanto <eo@li.org> | 
- | [kamoso]({{< ref "/f16/package/kamoso.md" >}}) | 2 | 153 | 1.3 | esperanto <kde-i18n-eo@kde.org> | 
- | [smb4k]({{< ref "/f16/package/smb4k.md" >}}) | 83 | 6362 | 1.3 | esperanto <kde-i18n-eo@kde.org> | 
- | [oyranos]({{< ref "/f16/package/oyranos.md" >}}) | 38 | 2969 | 1.3 | <eo@li.org> | 
- | [simple-scan]({{< ref "/f16/package/simple-scan.md" >}}) | 8 | 651 | 1.2 | Esperanto <eo@li.org> | 
- | [akonadi-googledata]({{< ref "/f16/package/akonadi-googledata.md" >}}) | 1 | 86 | 1.2 | esperanto <kde-i18n-eo@kde.org> | 
- | [colord]({{< ref "/f16/package/colord.md" >}}) | 5 | 494 | 1.0 | Esperanto (http://www.transifex.net/projects/p/freedesktop/language/eo/) | 
- | [bluedevil]({{< ref "/f16/package/bluedevil.md" >}}) | 6 | 617 | 1.0 | esperanto <kde-i18n-eo@kde.org> | 
- | [skrooge]({{< ref "/f16/package/skrooge.md" >}}) | 52 | 6769 | 0.8 | esperanto <kde-i18n-eo@kde.org> | 
- | [pyroom]({{< ref "/f16/package/pyroom.md" >}}) | 2 | 411 | 0.5 | Esperanto <eo@li.org> | 
- | [ktp-accounts-kcm]({{< ref "/f16/package/ktp-accounts-kcm.md" >}}) | 2 | 464 | 0.4 | esperanto <kde-i18n-eo@kde.org> | 
- | [synapse]({{< ref "/f16/package/synapse.md" >}}) | 2 | 581 | 0.3 | Esperanto <eo@li.org> | 
- | [manaworld]({{< ref "/f16/package/manaworld.md" >}}) | 11 | 3216 | 0.3 | Esperanto <eo@li.org> | 
- | [mana]({{< ref "/f16/package/mana.md" >}}) | 11 | 3415 | 0.3 | Esperanto <eo@li.org> | 
- | [gnomebaker]({{< ref "/f16/package/gnomebaker.md" >}}) | 1 | 1186 | 0.1 | Esperanto <eo@li.org> | 
- | [grisbi]({{< ref "/f16/package/grisbi.md" >}}) | 3 | 12325 | 0.0 | esperanto <eo@li.org> | 
- | [ailurus]({{< ref "/f16/package/ailurus.md" >}}) | 0 | 8446 | 0.0 | none | 
- | [gourmet]({{< ref "/f16/package/gourmet.md" >}}) | 0 | 3647 | 0.0 | Esperanto <eo@li.org> | 
- | [im-chooser]({{< ref "/f16/package/im-chooser.md" >}}) | 0 | 226 | 0.0 | LANGUAGE <LL@li.org> | 
- | [imsettings]({{< ref "/f16/package/imsettings.md" >}}) | 0 | 404 | 0.0 | LANGUAGE <LL@li.org> | 
- | [mate-conf]({{< ref "/f16/package/mate-conf.md" >}}) | 0 | 4032 | 0.0 | Esperanto (http://www.transifex.net/projects/p/MATE/language/eo/) | 
- | [openconnect]({{< ref "/f16/package/openconnect.md" >}}) | 0 | 2573 | 0.0 | Esperanto (http://www.transifex.net/projects/p/meego/team/eo/) | 
- | [pastebinit]({{< ref "/f16/package/pastebinit.md" >}}) | 0 | 183 | 0.0 | Esperanto <eo@li.org> | 
+ | [NetworkManager](/f16/package/NetworkManager) | 2527 | 2527 | 100.0 | Esperanto <ubuntu-l10n-eo@lists.launchpad.net> | 
+ | [accountsservice](/f16/package/accountsservice) | 59 | 59 | 100.0 | Esperanto (http://www.transifex.net/projects/p/freedesktop/team/eo/) | 
+ | [aisleriot](/f16/package/aisleriot) | 1899 | 1899 | 100.0 | Esperanto <ubuntu-l10n-eo@lists.launchpad.net> | 
+ | [alacarte](/f16/package/alacarte) | 42 | 42 | 100.0 | Esperanto <ubuntu-l10n-eo@lists.launchpad.net> | 
+ | [ario](/f16/package/ario) | 780 | 780 | 100.0 | Esperanto <eo@li.org> | 
+ | [at-spi2-atk](/f16/package/at-spi2-atk) | 7 | 7 | 100.0 | Esperanto <ubuntu-l10n-eo@lists.launchpad.net> | 
+ | [at-spi2-core](/f16/package/at-spi2-core) | 5 | 5 | 100.0 | Esperanto <ubuntu-l10n-eo@lists.launchpad.net> | 
+ | [atk](/f16/package/atk) | 375 | 375 | 100.0 | Esperanto <ubuntu-l10n-eo@lists.launchpad.net> | 
+ | [banshee](/f16/package/banshee) | 5712 | 5712 | 100.0 | Esperanto <ubuntu-l10n-eo@lists.launchpad.net> | 
+ | [binutils](/f16/package/binutils) | 525 | 525 | 100.0 | Esperanto <translation-team-eo@lists.sourceforge.net> | 
+ | [bison](/f16/package/bison) | 52 | 52 | 100.0 | Esperanto <translation-team-eo@lists.sourceforge.net> | 
+ | [cheese](/f16/package/cheese) | 294 | 294 | 100.0 | Esperanto <ubuntu-l10n-eo@lists.launchpad.net> | 
+ | [cogl](/f16/package/cogl) | 15 | 15 | 100.0 | Esperanto <ubuntu-l10n-eo@lists.launchpad.net> | 
+ | [console-setup](/f16/package/console-setup) | 979 | 979 | 100.0 | Esperanto <debian-l10n-esperanto@lists.debian.org> | 
+ | [cross-binutils](/f16/package/cross-binutils) | 525 | 525 | 100.0 | Esperanto <translation-team-eo@lists.sourceforge.net> | 
+ | [cups-pk-helper](/f16/package/cups-pk-helper) | 149 | 149 | 100.0 | Esperanto (http://www.transifex.net/projects/p/freedesktop/team/eo/) | 
+ | [dcraw](/f16/package/dcraw) | 560 | 560 | 100.0 |  | 
+ | [debconf](/f16/package/debconf) | 805 | 805 | 100.0 | Esperanto <debian-l10n-esperanto@lists.debian.org> | 
+ | [deja-dup](/f16/package/deja-dup) | 1667 | 1667 | 100.0 | Esperanto | 
+ | [devhelp](/f16/package/devhelp) | 456 | 456 | 100.0 | Esperanto <ubuntu-l10n-eo@lists.launchpad.net> | 
+ | [dialog](/f16/package/dialog) | 25 | 25 | 100.0 | Esperanto <translation-team-eo@lists.sourceforge.net> | 
+ | [evince](/f16/package/evince) | 1437 | 1437 | 100.0 | Esperanto | 
+ | [evolution-couchdb](/f16/package/evolution-couchdb) | 42 | 42 | 100.0 | Esperanto <ubuntu-l10n-eo@lists.launchpad.net> | 
+ | [gconf-editor](/f16/package/gconf-editor) | 336 | 336 | 100.0 | Esperanto <ubuntu-l10n-eo@lists.launchpad.net> | 
+ | [gdk-pixbuf2](/f16/package/gdk-pixbuf2) | 1313 | 1313 | 100.0 | Esperanto <ubuntu-l10n-eo@lists.launchpad.net> | 
+ | [glib2](/f16/package/glib2) | 4777 | 4777 | 100.0 | Esperanto | 
+ | [gnome-backgrounds](/f16/package/gnome-backgrounds) | 29 | 29 | 100.0 | Esperanto <ubuntu-l10n-eo@lists.launchpad.net> | 
+ | [gnome-contacts](/f16/package/gnome-contacts) | 210 | 210 | 100.0 | Esperanto <ubuntu-l10n-eo@lists.launchpad.net> | 
+ | [gnome-desktop3](/f16/package/gnome-desktop3) | 235 | 235 | 100.0 | Esperanto <ubuntu-l10n-eo@lists.launchpad.net> | 
+ | [gnome-doc-utils](/f16/package/gnome-doc-utils) | 251 | 251 | 100.0 | Esperanto <ubuntu-l10n-eo@lists.launchpad.net> | 
+ | [gnome-games](/f16/package/gnome-games) | 4683 | 4683 | 100.0 | Esperanto <ubuntu-l10n-eo@lists.launchpad.net> | 
+ | [gnome-icon-theme](/f16/package/gnome-icon-theme) | 4 | 4 | 100.0 | Esperanto <ubuntu-l10n-eo@lists.launchpad.net> | 
+ | [gnome-menus](/f16/package/gnome-menus) | 125 | 125 | 100.0 | Esperanto <ubuntu-l10n-eo@lists.launchpad.net> | 
+ | [gnome-panel](/f16/package/gnome-panel) | 4273 | 4273 | 100.0 | Esperanto <ubuntu-l10n-eo@lists.launchpad.net> | 
+ | [gnome-screensaver](/f16/package/gnome-screensaver) | 291 | 291 | 100.0 | Esperanto <ubuntu-l10n-eo@lists.launchpad.net> | 
+ | [gnome-session](/f16/package/gnome-session) | 489 | 489 | 100.0 | Esperanto <ubuntu-l10n-eo@lists.launchpad.net> | 
+ | [gnome-themes-standard](/f16/package/gnome-themes-standard) | 24 | 24 | 100.0 | Esperanto <ubuntu-l10n-eo@lists.launchpad.net> | 
+ | [gnome-user-share](/f16/package/gnome-user-share) | 326 | 326 | 100.0 | Esperanto <ubuntu-l10n-eo@lists.launchpad.net> | 
+ | [gnubik](/f16/package/gnubik) | 278 | 278 | 100.0 | Esperanto <translation-team-eo@lists.sourceforge.net> | 
+ | [gtkspell](/f16/package/gtkspell) | 15 | 15 | 100.0 | Esperanto <translation-team-eo@lists.sourceforge.net> | 
+ | [hello](/f16/package/hello) | 193 | 193 | 100.0 | Esperanto <translation-team-eo@lists.sourceforge.net> | 
+ | [help2man](/f16/package/help2man) | 524 | 524 | 100.0 | Esperanto <translation-team-eo@lists.sourceforge.net> | 
+ | [kio_gopher](/f16/package/kio_gopher) | 17 | 17 | 100.0 | esperanto <kde-i18n-eo@kde.org> | 
+ | [klavaro](/f16/package/klavaro) | 1913 | 1913 | 100.0 | Esperanto <translation-team-eo@lists.sourceforge.net> | 
+ | [leafpad](/f16/package/leafpad) | 125 | 125 | 100.0 | Esperanto <translation-team-eo@lists.sourceforge.net> | 
+ | [libbonobo](/f16/package/libbonobo) | 543 | 543 | 100.0 | Esperanto <ubuntu-l10n-eo@lists.launchpad.net> | 
+ | [libgnome](/f16/package/libgnome) | 1773 | 1773 | 100.0 | Esperanto <ubuntu-l10n-eo@lists.launchpad.net> | 
+ | [libgnome-keyring](/f16/package/libgnome-keyring) | 44 | 44 | 100.0 | Esperanto <ubuntu-l10n-eo@lists.launchpad.net> | 
+ | [libgnomecanvas](/f16/package/libgnomecanvas) | 378 | 378 | 100.0 | Esperanto <ubuntu-l10n-eo@lists.launchpad.net> | 
+ | [libgnomekbd](/f16/package/libgnomekbd) | 242 | 242 | 100.0 | Esperanto <ubuntu-l10n-eo@lists.launchpad.net> | 
+ | [libgnomeui](/f16/package/libgnomeui) | 1226 | 1226 | 100.0 | Esperanto <ubuntu-l10n-eo@lists.launchpad.net> | 
+ | [libgtop2](/f16/package/libgtop2) | 126 | 126 | 100.0 | Esperanto <ubuntu-l10n-eo@lists.launchpad.net> | 
+ | [libgweather](/f16/package/libgweather) | 6090 | 6090 | 100.0 | Esperanto <ubuntu-l10n-eo@lists.launchpad.net> | 
+ | [libmate](/f16/package/libmate) | 1773 | 1773 | 100.0 | Esperanto (http://www.transifex.com/projects/p/MATE/language/eo/) | 
+ | [libmatecanvas](/f16/package/libmatecanvas) | 378 | 378 | 100.0 | Esperanto (http://www.transifex.com/projects/p/MATE/language/eo/) | 
+ | [libmatecomponent](/f16/package/libmatecomponent) | 543 | 543 | 100.0 | Esperanto (http://www.transifex.net/projects/p/MATE/language/eo/) | 
+ | [libmatekbd](/f16/package/libmatekbd) | 292 | 292 | 100.0 | Esperanto <ubuntu-l10n-eo@lists.launchpad.net> | 
+ | [libmatekeyring](/f16/package/libmatekeyring) | 44 | 44 | 100.0 | Esperanto (http://www.transifex.com/projects/p/MATE/language/eo/) | 
+ | [libmatewnck](/f16/package/libmatewnck) | 88 | 88 | 100.0 | Eo-Tradukado <eo-tradukado@lists.tuxfamily.org> | 
+ | [libmx](/f16/package/libmx) | 40 | 40 | 100.0 | Esperanto <translation-team-eo@lists.sourceforge.net> | 
+ | [libpeas](/f16/package/libpeas) | 103 | 103 | 100.0 | Esperanto <ubuntu-l10n-eo@lists.launchpad.net> | 
+ | [libwnck](/f16/package/libwnck) | 88 | 88 | 100.0 | Eo-Tradukado <eo-tradukado@lists.tuxfamily.org> | 
+ | [lightdm](/f16/package/lightdm) | 79 | 79 | 100.0 | Esperanto <eo@li.org> | 
+ | [lightdm-gtk](/f16/package/lightdm-gtk) | 56 | 56 | 100.0 | Esperanto <eo@li.org> | 
+ | [mate-file-archiver](/f16/package/mate-file-archiver) | 1377 | 1377 | 100.0 | Esperanto <ubuntu-l10n-eo@lists.launchpad.net> | 
+ | [mate-icon-theme](/f16/package/mate-icon-theme) | 4 | 4 | 100.0 | Esperanto <ubuntu-l10n-eo@lists.launchpad.net> | 
+ | [mate-menus](/f16/package/mate-menus) | 125 | 125 | 100.0 | Esperanto <ubuntu-l10n-eo@lists.launchpad.net> | 
+ | [mate-panel](/f16/package/mate-panel) | 4492 | 4492 | 100.0 | Esperanto (http://www.transifex.com/projects/p/MATE/language/eo/) | 
+ | [mate-session-manager](/f16/package/mate-session-manager) | 638 | 638 | 100.0 | Esperanto <ubuntu-l10n-eo@lists.launchpad.net> | 
+ | [mc](/f16/package/mc) | 3990 | 3990 | 100.0 | Esperanto (http://www.transifex.com/projects/p/mc/language/eo/) | 
+ | [meego-panel-applications](/f16/package/meego-panel-applications) | 5 | 5 | 100.0 | Esperanto <translation-team-eo@lists.sourceforge.net> | 
+ | [mingw32-atk](/f16/package/mingw32-atk) | 375 | 375 | 100.0 | Esperanto <ubuntu-l10n-eo@lists.launchpad.net> | 
+ | [mingw32-glib2](/f16/package/mingw32-glib2) | 4777 | 4777 | 100.0 | Esperanto | 
+ | [nano](/f16/package/nano) | 2689 | 2689 | 100.0 | Esperanto <translation-team-eo@lists.sourceforge.net> | 
+ | [newt](/f16/package/newt) | 4 | 4 | 100.0 | Esperanto <debian-l10n-esperanto@lists.debian.org> | 
+ | [notification-daemon](/f16/package/notification-daemon) | 13 | 13 | 100.0 | Esperanto <ubuntu-l10n-eo@lists.launchpad.net> | 
+ | [openteacher](/f16/package/openteacher) | 59 | 59 | 100.0 | Esperanto <eo@li.org> | 
+ | [po4a](/f16/package/po4a) | 1901 | 1901 | 100.0 | Esperanto <debian-l10n-esperanto@lists.debian.org> | 
+ | [solfege](/f16/package/solfege) | 9814 | 9814 | 100.0 | Esperanto <translation-team-eo@lists.sourceforge.net> | 
+ | [subtitleeditor](/f16/package/subtitleeditor) | 3318 | 3318 | 100.0 | Esperanto <eo@li.org> | 
+ | [sudo](/f16/package/sudo) | 2996 | 2996 | 100.0 | Esperanto <translation-team-eo@lists.sourceforge.net> | 
+ | [sushi](/f16/package/sushi) | 15 | 15 | 100.0 | Esperanto <ubuntu-l10n-eo@lists.launchpad.net> | 
+ | [sysstat](/f16/package/sysstat) | 536 | 536 | 100.0 | Esperanto <translation-team-eo@lists.sourceforge.net> | 
+ | [tasque](/f16/package/tasque) | 196 | 196 | 100.0 | Esperanto <cad@cad.cx> | 
+ | [totem-pl-parser](/f16/package/totem-pl-parser) | 28 | 28 | 100.0 | Esperanto <ubuntu-l10n-eo@lists.launchpad.net> | 
+ | [trac](/f16/package/trac) | 5667 | 5667 | 100.0 | eo <LL@li.org> | 
+ | [vim](/f16/package/vim) | 8758 | 8758 | 100.0 |  | 
+ | [vte](/f16/package/vte) | 80 | 80 | 100.0 | Esperanto <ubuntu-l10n-eo@lists.launchpad.net> | 
+ | [vte3](/f16/package/vte3) | 80 | 80 | 100.0 | Esperanto <ubuntu-l10n-eo@lists.launchpad.net> | 
+ | [xdg-user-dirs](/f16/package/xdg-user-dirs) | 28 | 28 | 100.0 | Esperanto <translation-team-eo@lists.sourceforge.net> | 
+ | [xfce4-eyes-plugin](/f16/package/xfce4-eyes-plugin) | 1 | 1 | 100.0 | Debian-l10n-esperanto <debian-l10n-esperanto@lists.debian.org> | 
+ | [xfce4-icon-theme](/f16/package/xfce4-icon-theme) | 8 | 8 | 100.0 | Debian-l10n-esperanto <debian-l10n-esperanto@lists.debian.org> | 
+ | [xfce4-verve-plugin](/f16/package/xfce4-verve-plugin) | 47 | 47 | 100.0 | Debian-l10n-esperanto <xfce-i18n@xfce.org> | 
+ | [xkeyboard-config](/f16/package/xkeyboard-config) | 3155 | 3155 | 100.0 | Esperanto <translation-team-eo@lists.sourceforge.net> | 
+ | [yelp](/f16/package/yelp) | 979 | 979 | 100.0 | British English <en@li.org> | 
+ | [yelp-xsl](/f16/package/yelp-xsl) | 70 | 70 | 100.0 | Esperanto <ubuntu-l10n-eo@lists.launchpad.net> | 
+ | [gnome-mime-data](/f16/package/gnome-mime-data) | 851 | 854 | 99.6 | Esperanto <LL@li.org> | 
+ | [gdm](/f16/package/gdm) | 1090 | 1094 | 99.6 | Esperanto <ubuntu-l10n-eo@lists.launchpad.net> | 
+ | [xfce4-netload-plugin](/f16/package/xfce4-netload-plugin) | 67 | 68 | 98.5 | Esperanto <debian-l10n-esperanto@lists.debian.org> | 
+ | [ejabberd](/f16/package/ejabberd) | 1799 | 1826 | 98.5 |  | 
+ | [gedit](/f16/package/gedit) | 4262 | 4329 | 98.5 | Esperanto <ubuntu-l10n-eo@lists.launchpad.net> | 
+ | [xine-ui](/f16/package/xine-ui) | 2885 | 2942 | 98.1 | Esperanto | 
+ | [mingw32-gdk-pixbuf](/f16/package/mingw32-gdk-pixbuf) | 1286 | 1313 | 97.9 | Esperanto <ubuntu-l10n-eo@lists.launchpad.net> | 
+ | [gnome-applets](/f16/package/gnome-applets) | 3333 | 3420 | 97.5 | Esperanto <ubuntu-l10n-eo@lists.launchpad.net> | 
+ | [girara](/f16/package/girara) | 191 | 197 | 97.0 | LANGUAGE <LL@li.org> | 
+ | [dpkg](/f16/package/dpkg) | 7227 | 7604 | 95.0 | Esperanto <debian-l10n-esperanto@lists.debian.org> | 
+ | [pinta](/f16/package/pinta) | 988 | 1040 | 95.0 | Esperanto <eo@li.org> | 
+ | [indent](/f16/package/indent) | 258 | 272 | 94.9 | Esperanto <translation-team-eo@lists.sourceforge.net> | 
+ | [gucharmap](/f16/package/gucharmap) | 846 | 896 | 94.4 | Esperanto <ubuntu-l10n-eo@lists.launchpad.net> | 
+ | [poedit](/f16/package/poedit) | 1089 | 1162 | 93.7 | Tedehur <eo@tedehur.net> | 
+ | [mingw32-libidn](/f16/package/mingw32-libidn) | 386 | 413 | 93.5 | Esperanto <translation-team-eo@lists.sourceforge.net> | 
+ | [gettext](/f16/package/gettext) | 810 | 874 | 92.7 | Esperanto <translation-team-eo@lists.sourceforge.net> | 
+ | [mingw32-gettext](/f16/package/mingw32-gettext) | 810 | 874 | 92.7 | Esperanto <translation-team-eo@lists.sourceforge.net> | 
+ | [mutt](/f16/package/mutt) | 4940 | 5377 | 91.9 | eo <eo@li.org> | 
+ | [empathy](/f16/package/empathy) | 3933 | 4312 | 91.2 | Esperanto <ubuntu-l10n-eo@lists.launchpad.net> | 
+ | [pessulus](/f16/package/pessulus) | 118 | 130 | 90.8 | Esperanto <ubuntu-l10n-eo@lists.launchpad.net> | 
+ | [mingw32-iconv](/f16/package/mingw32-iconv) | 303 | 336 | 90.2 | Esperanto <translation-team-eo@lists.sourceforge.net> | 
+ | [mousepad](/f16/package/mousepad) | 121 | 135 | 89.6 | debian-l10n-esperanto@lists.debian.org | 
+ | [nautilus](/f16/package/nautilus) | 6298 | 7077 | 89.0 | Esperanto <ubuntu-l10n-eo@lists.launchpad.net> | 
+ | [gnome-documents](/f16/package/gnome-documents) | 60 | 68 | 88.2 | Esperanto <ubuntu-l10n-eo@lists.launchpad.net> | 
+ | [mod_cluster](/f16/package/mod_cluster) | 287 | 327 | 87.8 | Esperanto <translation-team-eo@lists.sourceforge.net> | 
+ | [rhythmbox](/f16/package/rhythmbox) | 4107 | 4694 | 87.5 | Esperanto <ubuntu-l10n-eo@lists.launchpad.net> | 
+ | [file-roller](/f16/package/file-roller) | 1315 | 1519 | 86.6 | Esperanto <ubuntu-l10n-eo@lists.launchpad.net> | 
+ | [thunar-archive-plugin](/f16/package/thunar-archive-plugin) | 74 | 86 | 86.0 | Esperanto <xfce-i18n@xfce.org> | 
+ | [sed](/f16/package/sed) | 490 | 581 | 84.3 | Esperanto <translation-team-eo@lists.sourceforge.net> | 
+ | [glib-networking](/f16/package/glib-networking) | 72 | 86 | 83.7 | Esperanto <ubuntu-l10n-eo@lists.launchpad.net> | 
+ | [mingw32-glib-networking](/f16/package/mingw32-glib-networking) | 72 | 86 | 83.7 | Esperanto <ubuntu-l10n-eo@lists.launchpad.net> | 
+ | [sane-backends](/f16/package/sane-backends) | 3975 | 4751 | 83.7 | <it@li.org> | 
+ | [cinnamon](/f16/package/cinnamon) | 1084 | 1296 | 83.6 | Esperanto <ubuntu-l10n-eo@lists.launchpad.net> | 
+ | [gnome-shell](/f16/package/gnome-shell) | 1086 | 1300 | 83.5 | Esperanto <ubuntu-l10n-eo@lists.launchpad.net> | 
+ | [texlive](/f16/package/texlive) | 3634 | 4382 | 82.9 | Esperanto <translation-team-eo@lists.sourceforge.net> | 
+ | [Thunar](/f16/package/Thunar) | 3203 | 3886 | 82.4 | Esperanto <debian-l10n-esperanto@lists.debian.org> | 
+ | [libgdl](/f16/package/libgdl) | 497 | 604 | 82.3 | Esperanto <ubuntu-l10n-eo@lists.launchpad.net> | 
+ | [transmission](/f16/package/transmission) | 1254 | 1528 | 82.1 | Esperanto <eo@li.org> | 
+ | [libidn](/f16/package/libidn) | 339 | 414 | 81.9 | Esperanto <translation-team-eo@lists.sourceforge.net> | 
+ | [frozen-bubble](/f16/package/frozen-bubble) | 567 | 698 | 81.2 | Esperanto | 
+ | [thunar-vfs](/f16/package/thunar-vfs) | 313 | 387 | 80.9 | Esperanto <debian-l10n-esperanto@lists.debian.org> | 
+ | [nautilus-sendto](/f16/package/nautilus-sendto) | 240 | 297 | 80.8 | Esperanto <ubuntu-l10n-eo@lists.launchpad.net> | 
+ | [gnome-desktop](/f16/package/gnome-desktop) | 331 | 438 | 75.6 | Esperanto <ubuntu-l10n-eo@lists.launchpad.net> | 
+ | [psmisc](/f16/package/psmisc) | 691 | 920 | 75.1 | Esperanto <translation-team-eo@lists.sourceforge.net> | 
+ | [eog](/f16/package/eog) | 1174 | 1589 | 73.9 | Esperanto <ubuntu-l10n-eo@lists.launchpad.net> | 
+ | [gcompris](/f16/package/gcompris) | 9330 | 12659 | 73.7 | Esperanto <ubuntu-l10n-eo@lists.launchpad.net> | 
+ | [bash](/f16/package/bash) | 7877 | 10861 | 72.5 | Esperanto <translation-team-eo@lists.sourceforge.net> | 
+ | [Terminal](/f16/package/Terminal) | 855 | 1191 | 71.8 | Debian-l10n-esperanto <debian-l10n-esperanto@lists.debian.org> | 
+ | [zathura](/f16/package/zathura) | 249 | 349 | 71.3 | Esperanto (http://www.transifex.com/projects/p/zathura/language/eo/) | 
+ | [mate-file-manager](/f16/package/mate-file-manager) | 6601 | 9411 | 70.1 | Esperanto (http://www.transifex.net/projects/p/MATE/language/eo/) | 
+ | [mate-backgrounds](/f16/package/mate-backgrounds) | 21 | 30 | 70.0 | Esperanto (http://www.transifex.com/projects/p/MATE/language/eo/) | 
+ | [kiconedit](/f16/package/kiconedit) | 506 | 726 | 69.7 | Esperanto <eo@li.org> | 
+ | [gedit-plugins](/f16/package/gedit-plugins) | 836 | 1205 | 69.4 | Esperanto <ubuntu-l10n-eo@lists.launchpad.net> | 
+ | [wormux](/f16/package/wormux) | 1314 | 1916 | 68.6 | esperanto <kde-i18n-eo@kde.org> | 
+ | [dos2unix](/f16/package/dos2unix) | 850 | 1274 | 66.7 | Esperanto <translation-team-eo@lists.sourceforge.net> | 
+ | [gtkhtml3](/f16/package/gtkhtml3) | 323 | 485 | 66.6 | Esperanto <ubuntu-l10n-eo@lists.launchpad.net> | 
+ | [gimp](/f16/package/gimp) | 16455 | 25061 | 65.7 | eo-tradukado.tuxfamily.org | 
+ | [drwright](/f16/package/drwright) | 74 | 116 | 63.8 | Esperanto <ubuntu-l10n-eo@lists.launchpad.net> | 
+ | [libgdata](/f16/package/libgdata) | 370 | 597 | 62.0 | Esperanto <ubuntu-l10n-eo@lists.launchpad.net> | 
+ | [lxmenu-data](/f16/package/lxmenu-data) | 60 | 97 | 61.9 | Esperanto <eo@li.org> | 
+ | [vorbis-tools](/f16/package/vorbis-tools) | 2495 | 4109 | 60.7 | Esperanto <translation-team-eo@lists.sourceforge.net> | 
+ | [control-center](/f16/package/control-center) | 1557 | 2569 | 60.6 | Esperanto <ubuntu-l10n-eo@lists.launchpad.net> | 
+ | [shared-mime-info](/f16/package/shared-mime-info) | 994 | 1659 | 59.9 | Esperanto (http://www.transifex.net/projects/p/freedesktop/team/eo/) | 
+ | [geeqie](/f16/package/geeqie) | 1737 | 2909 | 59.7 |  | 
+ | [gnome-bluetooth](/f16/package/gnome-bluetooth) | 388 | 662 | 58.6 | Esperanto <ubuntu-l10n-eo@lists.launchpad.net> | 
+ | [inkscape](/f16/package/inkscape) | 15536 | 26528 | 58.6 | <it@li.org> | 
+ | [libxfcegui4](/f16/package/libxfcegui4) | 81 | 139 | 58.3 | Esperanto <translation-team-eo@lists.sourceforge.net> | 
+ | [gnome-system-monitor](/f16/package/gnome-system-monitor) | 534 | 945 | 56.5 | Esperanto <ubuntu-l10n-eo@lists.launchpad.net> | 
+ | [pondus](/f16/package/pondus) | 174 | 324 | 53.7 | LANGUAGE <LL@li.org> | 
+ | [totem](/f16/package/totem) | 1448 | 2744 | 52.8 | Esperanto <ubuntu-l10n-eo@lists.launchpad.net> | 
+ | [tuxpaint](/f16/package/tuxpaint) | 654 | 1247 | 52.4 | Esperanto <translation-team-eo@lists.sourceforge.net> | 
+ | [epiphany](/f16/package/epiphany) | 1210 | 2363 | 51.2 | Esperanto <ubuntu-l10n-eo@lists.launchpad.net> | 
+ | [glabels](/f16/package/glabels) | 1093 | 2138 | 51.1 | Esperanto <eo@li.org> | 
+ | [gwibber](/f16/package/gwibber) | 22 | 45 | 48.9 | Esperanto <eo@li.org> | 
+ | [gnome-keyring](/f16/package/gnome-keyring) | 561 | 1174 | 47.8 | Esperanto <ubuntu-l10n-eo@lists.launchpad.net> | 
+ | [gsettings-desktop-schemas](/f16/package/gsettings-desktop-schemas) | 1246 | 2641 | 47.2 | Esperanto <ubuntu-l10n-eo@lists.launchpad.net> | 
+ | [gajim](/f16/package/gajim) | 5317 | 11642 | 45.7 | Esperanto <translation-team-eo@lists.sourceforge.net> | 
+ | [at-spi](/f16/package/at-spi) | 27 | 61 | 44.3 | Esperanto <ubuntu-l10n-eo@lists.launchpad.net> | 
+ | [mate-system-monitor](/f16/package/mate-system-monitor) | 409 | 933 | 43.8 | Esperanto <ubuntu-l10n-eo@lists.launchpad.net> | 
+ | [gnome-power-manager](/f16/package/gnome-power-manager) | 187 | 432 | 43.3 | Esperanto <ubuntu-l10n-eo@lists.launchpad.net> | 
+ | [xine-lib](/f16/package/xine-lib) | 5030 | 11956 | 42.1 | <it@li.org> | 
+ | [gnusim8085](/f16/package/gnusim8085) | 238 | 568 | 41.9 | Esperanto <eo@li.org> | 
+ | [purple-msn-pecan](/f16/package/purple-msn-pecan) | 402 | 960 | 41.9 | Esperanto <eo@li.org> | 
+ | [clutter](/f16/package/clutter) | 992 | 2371 | 41.8 | Esperanto <ubuntu-l10n-eo@lists.launchpad.net> | 
+ | [k3b](/f16/package/k3b) | 8337 | 20423 | 40.8 | esperanto <kde-i18n-eo@kde.org> | 
+ | [libreoffice](/f16/package/libreoffice) | 217674 | 533994 | 40.8 | LANGUAGE <LL@li.org> | 
+ | [kBuild](/f16/package/kBuild) | 204 | 505 | 40.4 | Esperanto <translation-team-eo@lists.sourceforge.net> | 
+ | [gtranslator](/f16/package/gtranslator) | 671 | 1668 | 40.2 | Esperanto <ubuntu-l10n-eo@lists.launchpad.net> | 
+ | [koffice-kivio](/f16/package/koffice-kivio) | 3362 | 8417 | 39.9 | Esperanto <kde-i18n-eo@kde.org> | 
+ | [xmms](/f16/package/xmms) | 1370 | 3443 | 39.8 | Esperanto <eo@li.org> | 
+ | [mate-desktop](/f16/package/mate-desktop) | 160 | 407 | 39.3 | Esperanto (http://www.transifex.net/projects/p/MATE/language/eo/) | 
+ | [pidgin](/f16/package/pidgin) | 7196 | 18356 | 39.2 | Esperanto <kde-i18n-eo@kde.org> | 
+ | [kgrab](/f16/package/kgrab) | 144 | 370 | 38.9 | esperanto <kde-i18n-eo@kde.org> | 
+ | [gnupg](/f16/package/gnupg) | 3340 | 8584 | 38.9 | Esperanto <translation-team-eo@lists.sourceforge.net> | 
+ | [ekiga](/f16/package/ekiga) | 1652 | 4260 | 38.8 | Esperanto <ubuntu-l10n-eo@lists.launchpad.net> | 
+ | [zenity](/f16/package/zenity) | 259 | 674 | 38.4 | Esperanto <ubuntu-l10n-eo@lists.launchpad.net> | 
+ | [caribou](/f16/package/caribou) | 76 | 200 | 38.0 | Esperanto <translation-team-eo@lists.sourceforge.net> | 
+ | [mousetweaks](/f16/package/mousetweaks) | 88 | 237 | 37.1 | Esperanto <ubuntu-l10n-eo@lists.launchpad.net> | 
+ | [gtk3](/f16/package/gtk3) | 4523 | 12542 | 36.1 | Esperanto <ubuntu-l10n-eo@lists.launchpad.net> | 
+ | [mingw-gtk3](/f16/package/mingw-gtk3) | 4523 | 12542 | 36.1 | Esperanto <ubuntu-l10n-eo@lists.launchpad.net> | 
+ | [vino](/f16/package/vino) | 429 | 1194 | 35.9 | Esperanto <ubuntu-l10n-eo@lists.launchpad.net> | 
+ | [konq-plugins](/f16/package/konq-plugins) | 604 | 1692 | 35.7 | Esperanto <eo@li.org> | 
+ | [libwnck3](/f16/package/libwnck3) | 384 | 1082 | 35.5 | Esperanto <ubuntu-l10n-eo@lists.launchpad.net> | 
+ | [pootle](/f16/package/pootle) | 1240 | 3543 | 35.0 | LANGUAGE <LL@li.org> | 
+ | [xfce4-session](/f16/package/xfce4-session) | 390 | 1132 | 34.5 | Esperanto <debian-l10n-esperanto@lists.debian.org> | 
+ | [grep](/f16/package/grep) | 324 | 955 | 33.9 | Esperanto <translation-team-eo@lists.sourceforge.net> | 
+ | [gnome-media](/f16/package/gnome-media) | 415 | 1238 | 33.5 | Esperanto <ubuntu-l10n-eo@lists.launchpad.net> | 
+ | [muffin](/f16/package/muffin) | 792 | 2422 | 32.7 | Esperanto <ubuntu-l10n-eo@lists.launchpad.net> | 
+ | [mutter](/f16/package/mutter) | 792 | 2422 | 32.7 | Esperanto <ubuntu-l10n-eo@lists.launchpad.net> | 
+ | [libbonoboui](/f16/package/libbonoboui) | 120 | 368 | 32.6 | Esperanto <ubuntu-l10n-eo@lists.launchpad.net> | 
+ | [evolution](/f16/package/evolution) | 6871 | 21561 | 31.9 | Esperanto <ubuntu-l10n-eo@lists.launchpad.net> | 
+ | [nautilus-sound-converter](/f16/package/nautilus-sound-converter) | 50 | 159 | 31.4 | Esperanto <gnome-l10n-eo@lists.launchpad.net> | 
+ | [latexila](/f16/package/latexila) | 476 | 1526 | 31.2 | Esperanto <ubuntu-l10n-eo@lists.launchpad.net> | 
+ | [gnome-vfs2](/f16/package/gnome-vfs2) | 457 | 1519 | 30.1 | Esperanto <ubuntu-l10n-eo@lists.launchpad.net> | 
+ | [mate-vfs](/f16/package/mate-vfs) | 457 | 1519 | 30.1 | Esperanto (http://www.transifex.com/projects/p/MATE/language/eo/) | 
+ | [diffutils](/f16/package/diffutils) | 527 | 1780 | 29.6 | Esperanto <translation-team-eo@lists.sourceforge.net> | 
+ | [gnome-activity-journal](/f16/package/gnome-activity-journal) | 93 | 316 | 29.4 | Esperanto <eo@li.org> | 
+ | [coreutils](/f16/package/coreutils) | 5450 | 19063 | 28.6 | Esperanto <translation-team-eo@lists.sourceforge.net> | 
+ | [gnome-utils](/f16/package/gnome-utils) | 969 | 3477 | 27.9 | Esperanto <ubuntu-l10n-eo@lists.launchpad.net> | 
+ | [picard](/f16/package/picard) | 448 | 1626 | 27.6 | Esperanto (http://www.transifex.net/projects/p/musicbrainz/language/eo/) | 
+ | [scribus](/f16/package/scribus) | 3863 | 14194 | 27.2 | esperanto <eo@li.org> | 
+ | [gcalctool](/f16/package/gcalctool) | 361 | 1388 | 26.0 | Esperanto <ubuntu-l10n-eo@lists.launchpad.net> | 
+ | [wget](/f16/package/wget) | 583 | 2260 | 25.8 | Esperanto <translation-team-eo@lists.sourceforge.net> | 
+ | [evolution-mapi](/f16/package/evolution-mapi) | 144 | 559 | 25.8 | Esperanto <ubuntu-l10n-eo@lists.launchpad.net> | 
+ | [orage](/f16/package/orage) | 612 | 2392 | 25.6 | Esperanto <debian-l10n-esperanto@lists.debian.org> | 
+ | [m17n-contrib](/f16/package/m17n-contrib) | 44 | 176 | 25.0 | Esperanto | 
+ | [metacity](/f16/package/metacity) | 890 | 3700 | 24.1 | Esperanto <ubuntu-l10n-eo@lists.launchpad.net> | 
+ | [pitivi](/f16/package/pitivi) | 367 | 1532 | 24.0 | Esperanto <ubuntu-l10n-eo@lists.launchpad.net> | 
+ | [mate-window-manager](/f16/package/mate-window-manager) | 901 | 3790 | 23.8 | Esperanto (http://www.transifex.com/projects/p/MATE/language/eo/) | 
+ | [gtkhash](/f16/package/gtkhash) | 15 | 65 | 23.1 | Esperanto <eo@li.org> | 
+ | [ktorrent](/f16/package/ktorrent) | 1879 | 8143 | 23.1 | Esperanto <kde-i18n-eo@kde.org> | 
+ | [tomboy](/f16/package/tomboy) | 718 | 3116 | 23.0 | Esperanto <ubuntu-l10n-eo@lists.launchpad.net> | 
+ | [libktorrent](/f16/package/libktorrent) | 114 | 519 | 22.0 | Esperanto <kde-i18n-eo@kde.org> | 
+ | [polkit-gnome](/f16/package/polkit-gnome) | 62 | 285 | 21.8 | Esperanto <ubuntu-l10n-eo@lists.launchpad.net> | 
+ | [gnupg2](/f16/package/gnupg2) | 2263 | 10491 | 21.6 | Esperanto <translation-team-eo@lists.sourceforge.net> | 
+ | [gbrainy](/f16/package/gbrainy) | 1735 | 8127 | 21.3 | Esperanto <gnome-l10n-eo@lists.launchpad.net> | 
+ | [gnote](/f16/package/gnote) | 472 | 2361 | 20.0 | Esperanto <ubuntu-l10n-eo@lists.launchpad.net> | 
+ | [skanlite](/f16/package/skanlite) | 34 | 175 | 19.4 | esperanto <kde-i18n-eo@kde.org> | 
+ | [gthumb](/f16/package/gthumb) | 736 | 3819 | 19.3 | Esperanto <ubuntu-l10n-eo@lists.launchpad.net> | 
+ | [gnome-mag](/f16/package/gnome-mag) | 57 | 298 | 19.1 | Esperanto <ubuntu-l10n-eo@lists.launchpad.net> | 
+ | [wine](/f16/package/wine) | 2665 | 14112 | 18.9 | none | 
+ | [folks](/f16/package/folks) | 163 | 871 | 18.7 | Esperanto <ubuntu-l10n-eo@lists.launchpad.net> | 
+ | [orca](/f16/package/orca) | 830 | 4456 | 18.6 | Esperanto <ubuntu-l10n-eo@lists.launchpad.net> | 
+ | [exaile](/f16/package/exaile) | 685 | 3683 | 18.6 | Esperanto <eo@li.org> | 
+ | [gnome-tweak-tool](/f16/package/gnome-tweak-tool) | 22 | 119 | 18.5 | Esperanto <gnome-l10n-eo@lists.launchpad.net> | 
+ | [meld](/f16/package/meld) | 231 | 1256 | 18.4 | Esperanto <gnome-l10n-eo@lists.launchpad.net> | 
+ | [gnome-commander](/f16/package/gnome-commander) | 1530 | 8506 | 18.0 | Esperanto <gnome-l10n-eo@lists.launchpad.net> | 
+ | [dexter](/f16/package/dexter) | 41 | 228 | 18.0 | Esperanto <eo@li.org> | 
+ | [gtk2](/f16/package/gtk2) | 2364 | 13704 | 17.3 | Eo-tradukado <http://eo-tradukado.tuxfamily.org> | 
+ | [mingw32-gtk2](/f16/package/mingw32-gtk2) | 2364 | 13704 | 17.3 | Eo-tradukado <http://eo-tradukado.tuxfamily.org> | 
+ | [gnome-terminal](/f16/package/gnome-terminal) | 683 | 4145 | 16.5 | Esperanto <ubuntu-l10n-eo@lists.launchpad.net> | 
+ | [workrave](/f16/package/workrave) | 201 | 1227 | 16.4 | Esperanto <eo@li.org> | 
+ | [terminator](/f16/package/terminator) | 55 | 339 | 16.2 | Esperanto <eo@li.org> | 
+ | [midori](/f16/package/midori) | 436 | 2700 | 16.1 | Esperanto | 
+ | [gvfs](/f16/package/gvfs) | 323 | 2011 | 16.1 | Esperanto <ubuntu-l10n-eo@lists.launchpad.net> | 
+ | [xfwm4](/f16/package/xfwm4) | 133 | 837 | 15.9 | Esperanto <translation-team-eo@lists.sourceforge.net> | 
+ | [sabayon](/f16/package/sabayon) | 114 | 743 | 15.3 | Esperanto <ubuntu-l10n-eo@lists.launchpad.net> | 
+ | [gnome-settings-daemon](/f16/package/gnome-settings-daemon) | 440 | 2916 | 15.1 | Esperanto <ubuntu-l10n-eo@lists.launchpad.net> | 
+ | [freeciv](/f16/package/freeciv) | 10505 | 70240 | 15.0 | Esperanto <eo@li.org> | 
+ | [vinagre](/f16/package/vinagre) | 238 | 1666 | 14.3 | Esperanto <ubuntu-l10n-eo@lists.launchpad.net> | 
+ | [wesnoth](/f16/package/wesnoth) | 32171 | 226913 | 14.2 |  | 
+ | [iso-codes](/f16/package/iso-codes) | 2629 | 19173 | 13.7 | Esperanto <translation-team-eo@lists.sourceforge.net> | 
+ | [libcryptui](/f16/package/libcryptui) | 409 | 3012 | 13.6 | Esperanto <ubuntu-l10n-eo@lists.launchpad.net> | 
+ | [seahorse](/f16/package/seahorse) | 409 | 3012 | 13.6 | Esperanto <ubuntu-l10n-eo@lists.launchpad.net> | 
+ | [pidgin-musictracker](/f16/package/pidgin-musictracker) | 44 | 326 | 13.5 | Esperanto <eo@li.org> | 
+ | [evolution-data-server](/f16/package/evolution-data-server) | 628 | 4671 | 13.4 | Esperanto <ubuntu-l10n-eo@lists.launchpad.net> | 
+ | [e16](/f16/package/e16) | 377 | 2832 | 13.3 | Esperanto <translation-team-eo@lists.sourceforge.net> | 
+ | [mate-terminal](/f16/package/mate-terminal) | 548 | 4204 | 13.0 | Esperanto <ubuntu-l10n-eo@lists.launchpad.net> | 
+ | [xfce-utils](/f16/package/xfce-utils) | 64 | 492 | 13.0 | Esperanto <debian-l10n-esperanto@lists.debian.org> | 
+ | [PackageKit](/f16/package/PackageKit) | 203 | 1573 | 12.9 | Esperanto (http://www.transifex.net/projects/p/freedesktop/team/eo/) | 
+ | [vidalia](/f16/package/vidalia) | 1350 | 10463 | 12.9 | translations@vidalia-project.net | 
+ | [evolution-exchange](/f16/package/evolution-exchange) | 280 | 2194 | 12.8 | Esperanto <ubuntu-l10n-eo@lists.launchpad.net> | 
+ | [seahorse-plugins](/f16/package/seahorse-plugins) | 125 | 1002 | 12.5 | Esperanto <ubuntu-l10n-eo@lists.launchpad.net> | 
+ | [kcoloredit](/f16/package/kcoloredit) | 34 | 278 | 12.2 | Esperanto | 
+ | [libmateweather](/f16/package/libmateweather) | 704 | 6090 | 11.6 | Esperanto (http://www.transifex.com/projects/p/MATE/language/eo/) | 
+ | [gtksourceview3](/f16/package/gtksourceview3) | 168 | 1482 | 11.3 | Esperanto <ubuntu-l10n-eo@lists.launchpad.net> | 
+ | [mingw-gtksourceview3](/f16/package/mingw-gtksourceview3) | 168 | 1482 | 11.3 | Esperanto <ubuntu-l10n-eo@lists.launchpad.net> | 
+ | [nemiver](/f16/package/nemiver) | 133 | 1205 | 11.0 | Esperanto <gnome-l10n-eo@lists.launchpad.net> | 
+ | [polkit-kde](/f16/package/polkit-kde) | 10 | 92 | 10.9 | esperanto <kde-i18n-eo@kde.org> | 
+ | [GConf2](/f16/package/GConf2) | 441 | 4088 | 10.8 | Esperanto <ubuntu-l10n-eo@lists.launchpad.net> | 
+ | [NetworkManager-openconnect](/f16/package/NetworkManager-openconnect) | 15 | 141 | 10.6 | Esperanto <gnome-l10n-eo@lists.launchpad.net> | 
+ | [knemo](/f16/package/knemo) | 126 | 1186 | 10.6 | esperanto <kde-i18n-eo@kde.org> | 
+ | [gparted](/f16/package/gparted) | 218 | 2056 | 10.6 | Esperanto <ubuntu-l10n-eo@lists.launchpad.net> | 
+ | [kmplayer](/f16/package/kmplayer) | 130 | 1249 | 10.4 | esperanto <kde-i18n-eo@kde.org> | 
+ | [asunder](/f16/package/asunder) | 46 | 454 | 10.1 | Formiko <cguru@nerdshack.com> | 
+ | [avant-window-navigator](/f16/package/avant-window-navigator) | 182 | 1829 | 10.0 | Esperanto <eo@li.org> | 
+ | [gnome-do](/f16/package/gnome-do) | 60 | 612 | 9.8 | Esperanto <eo@li.org> | 
+ | [kaudiocreator](/f16/package/kaudiocreator) | 111 | 1136 | 9.8 | esperanto <kde-i18n-eo@kde.org> | 
+ | [xfce4-places-plugin](/f16/package/xfce4-places-plugin) | 4 | 43 | 9.3 |  | 
+ | [rygel](/f16/package/rygel) | 48 | 530 | 9.1 | Esperanto <gnome-l10n-eo@lists.launchpad.net> | 
+ | [gnome-packagekit](/f16/package/gnome-packagekit) | 420 | 4720 | 8.9 | Esperanto <ubuntu-l10n-eo@lists.launchpad.net> | 
+ | [kaffeine](/f16/package/kaffeine) | 51 | 590 | 8.6 | esperanto <kde-i18n-eo@kde.org> | 
+ | [anjuta](/f16/package/anjuta) | 626 | 7822 | 8.0 | Esperanto <ubuntu-l10n-eo@lists.launchpad.net> | 
+ | [kmldonkey](/f16/package/kmldonkey) | 143 | 1830 | 7.8 | esperanto <kde-i18n-eo@kde.org> | 
+ | [gnome-disk-utility](/f16/package/gnome-disk-utility) | 334 | 4544 | 7.4 | Esperanto <ubuntu-l10n-eo@lists.launchpad.net> | 
+ | [mate-themes](/f16/package/mate-themes) | 8 | 109 | 7.3 | Esperanto (http://www.transifex.com/projects/p/MATE/language/eo/) | 
+ | [brasero](/f16/package/brasero) | 393 | 5493 | 7.2 | Esperanto <ubuntu-l10n-eo@lists.launchpad.net> | 
+ | [gnome-color-manager](/f16/package/gnome-color-manager) | 118 | 1655 | 7.1 | Esperanto <ubuntu-l10n-eo@lists.launchpad.net> | 
+ | [glade3](/f16/package/glade3) | 321 | 4737 | 6.8 | Esperanto <ubuntu-l10n-eo@lists.launchpad.net> | 
+ | [krusader](/f16/package/krusader) | 463 | 7956 | 5.8 | esperanto <kde-i18n-eo@kde.org> | 
+ | [fuse-encfs](/f16/package/fuse-encfs) | 75 | 1315 | 5.7 | Esperanto <eo@li.org> | 
+ | [tellico](/f16/package/tellico) | 328 | 5765 | 5.7 | esperanto <kde-i18n-eo@kde.org> | 
+ | [balsa](/f16/package/balsa) | 351 | 6268 | 5.6 | Esperanto <gnome-l10n-eo@lists.launchpad.net> | 
+ | [rekonq](/f16/package/rekonq) | 121 | 2263 | 5.3 | esperanto <kde-i18n-eo@kde.org> | 
+ | [gnome-online-accounts](/f16/package/gnome-online-accounts) | 16 | 304 | 5.3 | Esperanto <ubuntu-l10n-eo@lists.launchpad.net> | 
+ | [ncmpc](/f16/package/ncmpc) | 37 | 707 | 5.2 | Esperanto <eo@li.org> | 
+ | [clementine](/f16/package/clementine) | 206 | 3939 | 5.2 |  | 
+ | [duplicity](/f16/package/duplicity) | 168 | 3256 | 5.2 | Esperanto <eo@li.org> | 
+ | [kdiff3](/f16/package/kdiff3) | 185 | 3644 | 5.1 | esperanto <kde-i18n-eo@kde.org> | 
+ | [stellarium](/f16/package/stellarium) | 357 | 7138 | 5.0 | Esperanto <eo@li.org> | 
+ | [tracker](/f16/package/tracker) | 124 | 2541 | 4.9 | Esperanto <ubuntu-l10n-eo@lists.launchpad.net> | 
+ | [findutils](/f16/package/findutils) | 103 | 2130 | 4.8 | Esperanto <translation-team-eo@lists.sourceforge.net> | 
+ | [kile](/f16/package/kile) | 465 | 11162 | 4.2 | Esperanto <kde-i18n-doc@kde.org> | 
+ | [soundconverter](/f16/package/soundconverter) | 18 | 450 | 4.0 | Esperanto <eo@li.org> | 
+ | [widelands](/f16/package/widelands) | 692 | 19213 | 3.6 | Esperanto <eo@li.org> | 
+ | [xfdesktop](/f16/package/xfdesktop) | 28 | 835 | 3.4 | Esperanto <translation-team-eo@lists.sourceforge.net> | 
+ | [pogo](/f16/package/pogo) | 19 | 576 | 3.3 | Esperanto <eo@li.org> | 
+ | [kmymoney](/f16/package/kmymoney) | 603 | 19125 | 3.2 | Esperanto <kde-i18n-doc@kde.org> | 
+ | [choqok](/f16/package/choqok) | 62 | 1997 | 3.1 | esperanto <kde-i18n-eo@kde.org> | 
+ | [kpackagekit](/f16/package/kpackagekit) | 107 | 3646 | 2.9 | esperanto <kde-i18n-eo@kde.org> | 
+ | [digikam](/f16/package/digikam) | 1176 | 41017 | 2.9 | esperanto <kde-i18n-eo@kde.org> | 
+ | [audex](/f16/package/audex) | 99 | 3491 | 2.8 | esperanto <kde-i18n-eo@kde.org> | 
+ | [xfce4-appfinder](/f16/package/xfce4-appfinder) | 2 | 71 | 2.8 | Debian-l10n-esperanto <debian-l10n-esperanto@lists.debian.org> | 
+ | [kphotoalbum](/f16/package/kphotoalbum) | 171 | 6333 | 2.7 | esperanto <kde-i18n-eo@kde.org> | 
+ | [apper](/f16/package/apper) | 98 | 4247 | 2.3 | esperanto <kde-i18n-eo@kde.org> | 
+ | [cinepaint](/f16/package/cinepaint) | 67 | 2944 | 2.3 | <eo@li.org> | 
+ | [xfce4-panel](/f16/package/xfce4-panel) | 34 | 1504 | 2.3 | Esperanto <debian-l10n-esperanto@lists.debian.org> | 
+ | [icc_examin](/f16/package/icc_examin) | 67 | 3033 | 2.2 | <eo@li.org> | 
+ | [calibre](/f16/package/calibre) | 980 | 45192 | 2.2 | Esperanto <translation-team-eo@lists.sourceforge.net> | 
+ | [rsibreak](/f16/package/rsibreak) | 25 | 1304 | 1.9 | esperanto <kde-i18n-eo@kde.org> | 
+ | [phatch](/f16/package/phatch) | 42 | 2553 | 1.6 | Esperanto <eo@li.org> | 
+ | [kopete-cryptography](/f16/package/kopete-cryptography) | 6 | 408 | 1.5 | esperanto <kde-i18n-eo@kde.org> | 
+ | [rednotebook](/f16/package/rednotebook) | 15 | 1054 | 1.4 | Esperanto <eo@li.org> | 
+ | [kamoso](/f16/package/kamoso) | 2 | 153 | 1.3 | esperanto <kde-i18n-eo@kde.org> | 
+ | [smb4k](/f16/package/smb4k) | 83 | 6362 | 1.3 | esperanto <kde-i18n-eo@kde.org> | 
+ | [oyranos](/f16/package/oyranos) | 38 | 2969 | 1.3 | <eo@li.org> | 
+ | [simple-scan](/f16/package/simple-scan) | 8 | 651 | 1.2 | Esperanto <eo@li.org> | 
+ | [akonadi-googledata](/f16/package/akonadi-googledata) | 1 | 86 | 1.2 | esperanto <kde-i18n-eo@kde.org> | 
+ | [colord](/f16/package/colord) | 5 | 494 | 1.0 | Esperanto (http://www.transifex.net/projects/p/freedesktop/language/eo/) | 
+ | [bluedevil](/f16/package/bluedevil) | 6 | 617 | 1.0 | esperanto <kde-i18n-eo@kde.org> | 
+ | [skrooge](/f16/package/skrooge) | 52 | 6769 | 0.8 | esperanto <kde-i18n-eo@kde.org> | 
+ | [pyroom](/f16/package/pyroom) | 2 | 411 | 0.5 | Esperanto <eo@li.org> | 
+ | [ktp-accounts-kcm](/f16/package/ktp-accounts-kcm) | 2 | 464 | 0.4 | esperanto <kde-i18n-eo@kde.org> | 
+ | [synapse](/f16/package/synapse) | 2 | 581 | 0.3 | Esperanto <eo@li.org> | 
+ | [manaworld](/f16/package/manaworld) | 11 | 3216 | 0.3 | Esperanto <eo@li.org> | 
+ | [mana](/f16/package/mana) | 11 | 3415 | 0.3 | Esperanto <eo@li.org> | 
+ | [gnomebaker](/f16/package/gnomebaker) | 1 | 1186 | 0.1 | Esperanto <eo@li.org> | 
+ | [grisbi](/f16/package/grisbi) | 3 | 12325 | 0.0 | esperanto <eo@li.org> | 
+ | [ailurus](/f16/package/ailurus) | 0 | 8446 | 0.0 | none | 
+ | [gourmet](/f16/package/gourmet) | 0 | 3647 | 0.0 | Esperanto <eo@li.org> | 
+ | [im-chooser](/f16/package/im-chooser) | 0 | 226 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [imsettings](/f16/package/imsettings) | 0 | 404 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [mate-conf](/f16/package/mate-conf) | 0 | 4032 | 0.0 | Esperanto (http://www.transifex.net/projects/p/MATE/language/eo/) | 
+ | [openconnect](/f16/package/openconnect) | 0 | 2573 | 0.0 | Esperanto (http://www.transifex.net/projects/p/meego/team/eo/) | 
+ | [pastebinit](/f16/package/pastebinit) | 0 | 183 | 0.0 | Esperanto <eo@li.org> | 
 {.sortable}
 
 

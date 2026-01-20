@@ -18,32 +18,32 @@ The package sssd (version 1.16.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [pl]({{< ref "/f28/language/pl.md" >}}) | 3874 | 3933 | 98.5 | /mnt/stockage/packages/f28/sssd/po/pl.po | 
- | [uk]({{< ref "/f28/language/uk.md" >}}) | 35778 | 36583 | 97.8 | /mnt/stockage/packages/f28/sssd/po/uk.po/mnt/stockage/packages/f28/sssd/src/man/po/uk.po | 
- | [de]({{< ref "/f28/language/de.md" >}}) | 18907 | 36583 | 51.7 | /mnt/stockage/packages/f28/sssd/po/de.po/mnt/stockage/packages/f28/sssd/src/man/po/de.po | 
- | [fr]({{< ref "/f28/language/fr.md" >}}) | 17876 | 36583 | 48.9 | /mnt/stockage/packages/f28/sssd/po/fr.po/mnt/stockage/packages/f28/sssd/src/man/po/fr.po | 
- | [es]({{< ref "/f28/language/es.md" >}}) | 17352 | 36583 | 47.4 | /mnt/stockage/packages/f28/sssd/po/es.po/mnt/stockage/packages/f28/sssd/src/man/po/es.po | 
- | [sv]({{< ref "/f28/language/sv.md" >}}) | 14568 | 36583 | 39.8 | /mnt/stockage/packages/f28/sssd/po/sv.po/mnt/stockage/packages/f28/sssd/src/man/po/sv.po | 
- | [ja]({{< ref "/f28/language/ja.md" >}}) | 11514 | 36583 | 31.5 | /mnt/stockage/packages/f28/sssd/po/ja.po/mnt/stockage/packages/f28/sssd/src/man/po/ja.po | 
- | [ca]({{< ref "/f28/language/ca.md" >}}) | 10694 | 36583 | 29.2 | /mnt/stockage/packages/f28/sssd/po/ca.po/mnt/stockage/packages/f28/sssd/src/man/po/ca.po | 
- | [it]({{< ref "/f28/language/it.md" >}}) | 1073 | 3933 | 27.3 | /mnt/stockage/packages/f28/sssd/po/it.po | 
- | [bg]({{< ref "/f28/language/bg.md" >}}) | 704 | 3933 | 17.9 | /mnt/stockage/packages/f28/sssd/po/bg.po | 
- | [id]({{< ref "/f28/language/id.md" >}}) | 591 | 3933 | 15.0 | /mnt/stockage/packages/f28/sssd/po/id.po | 
- | [zh_Hant]({{< ref "/f28/language/zh_Hant.md" >}}) | 582 | 3933 | 14.8 | /mnt/stockage/packages/f28/sssd/po/zh_TW.po | 
- | [hu]({{< ref "/f28/language/hu.md" >}}) | 317 | 3933 | 8.1 | /mnt/stockage/packages/f28/sssd/po/hu.po | 
- | [nl]({{< ref "/f28/language/nl.md" >}}) | 2803 | 36583 | 7.7 | /mnt/stockage/packages/f28/sssd/po/nl.po/mnt/stockage/packages/f28/sssd/src/man/po/nl.po | 
- | [pt]({{< ref "/f28/language/pt.md" >}}) | 1701 | 36583 | 4.6 | /mnt/stockage/packages/f28/sssd/po/pt.po/mnt/stockage/packages/f28/sssd/src/man/po/pt.po | 
- | [ru]({{< ref "/f28/language/ru.md" >}}) | 1268 | 36583 | 3.5 | /mnt/stockage/packages/f28/sssd/po/ru.po/mnt/stockage/packages/f28/sssd/src/man/po/ru.po | 
- | [nb_NO]({{< ref "/f28/language/nb_NO.md" >}}) | 46 | 3933 | 1.2 | /mnt/stockage/packages/f28/sssd/po/nb.po | 
- | [eu]({{< ref "/f28/language/eu.md" >}}) | 218 | 36583 | 0.6 | /mnt/stockage/packages/f28/sssd/po/eu.po/mnt/stockage/packages/f28/sssd/src/man/po/eu.po | 
- | [tr]({{< ref "/f28/language/tr.md" >}}) | 15 | 3933 | 0.4 | /mnt/stockage/packages/f28/sssd/po/tr.po | 
- | [lv]({{< ref "/f28/language/lv.md" >}}) | 115 | 32650 | 0.4 | /mnt/stockage/packages/f28/sssd/src/man/po/lv.po | 
- | [tg]({{< ref "/f28/language/tg.md" >}}) | 87 | 36583 | 0.2 | /mnt/stockage/packages/f28/sssd/po/tg.po/mnt/stockage/packages/f28/sssd/src/man/po/tg.po | 
- | [zh_Hans]({{< ref "/f28/language/zh_Hans.md" >}}) | 84 | 36583 | 0.2 | /mnt/stockage/packages/f28/sssd/po/zh_CN.po/mnt/stockage/packages/f28/sssd/src/man/po/zh_CN.po | 
- | [br]({{< ref "/f28/language/br.md" >}}) | 60 | 32650 | 0.2 | /mnt/stockage/packages/f28/sssd/src/man/po/br.po | 
- | [fi]({{< ref "/f28/language/fi.md" >}}) | 53 | 32650 | 0.2 | /mnt/stockage/packages/f28/sssd/src/man/po/fi.po | 
- | [pt_BR]({{< ref "/f28/language/pt_BR.md" >}}) | 51 | 36583 | 0.1 | /mnt/stockage/packages/f28/sssd/po/pt_BR.po/mnt/stockage/packages/f28/sssd/src/man/po/pt_BR.po | 
- | [cs]({{< ref "/f28/language/cs.md" >}}) | 36 | 32650 | 0.1 | /mnt/stockage/packages/f28/sssd/src/man/po/cs.po | 
+ | [pl](/f28/language/pl) | 3874 | 3933 | 98.5 | /mnt/stockage/packages/f28/sssd/po/pl.po | 
+ | [uk](/f28/language/uk) | 35778 | 36583 | 97.8 | /mnt/stockage/packages/f28/sssd/po/uk.po/mnt/stockage/packages/f28/sssd/src/man/po/uk.po | 
+ | [de](/f28/language/de) | 18907 | 36583 | 51.7 | /mnt/stockage/packages/f28/sssd/po/de.po/mnt/stockage/packages/f28/sssd/src/man/po/de.po | 
+ | [fr](/f28/language/fr) | 17876 | 36583 | 48.9 | /mnt/stockage/packages/f28/sssd/po/fr.po/mnt/stockage/packages/f28/sssd/src/man/po/fr.po | 
+ | [es](/f28/language/es) | 17352 | 36583 | 47.4 | /mnt/stockage/packages/f28/sssd/po/es.po/mnt/stockage/packages/f28/sssd/src/man/po/es.po | 
+ | [sv](/f28/language/sv) | 14568 | 36583 | 39.8 | /mnt/stockage/packages/f28/sssd/po/sv.po/mnt/stockage/packages/f28/sssd/src/man/po/sv.po | 
+ | [ja](/f28/language/ja) | 11514 | 36583 | 31.5 | /mnt/stockage/packages/f28/sssd/po/ja.po/mnt/stockage/packages/f28/sssd/src/man/po/ja.po | 
+ | [ca](/f28/language/ca) | 10694 | 36583 | 29.2 | /mnt/stockage/packages/f28/sssd/po/ca.po/mnt/stockage/packages/f28/sssd/src/man/po/ca.po | 
+ | [it](/f28/language/it) | 1073 | 3933 | 27.3 | /mnt/stockage/packages/f28/sssd/po/it.po | 
+ | [bg](/f28/language/bg) | 704 | 3933 | 17.9 | /mnt/stockage/packages/f28/sssd/po/bg.po | 
+ | [id](/f28/language/id) | 591 | 3933 | 15.0 | /mnt/stockage/packages/f28/sssd/po/id.po | 
+ | [zh_Hant](/f28/language/zh_Hant) | 582 | 3933 | 14.8 | /mnt/stockage/packages/f28/sssd/po/zh_TW.po | 
+ | [hu](/f28/language/hu) | 317 | 3933 | 8.1 | /mnt/stockage/packages/f28/sssd/po/hu.po | 
+ | [nl](/f28/language/nl) | 2803 | 36583 | 7.7 | /mnt/stockage/packages/f28/sssd/po/nl.po/mnt/stockage/packages/f28/sssd/src/man/po/nl.po | 
+ | [pt](/f28/language/pt) | 1701 | 36583 | 4.6 | /mnt/stockage/packages/f28/sssd/po/pt.po/mnt/stockage/packages/f28/sssd/src/man/po/pt.po | 
+ | [ru](/f28/language/ru) | 1268 | 36583 | 3.5 | /mnt/stockage/packages/f28/sssd/po/ru.po/mnt/stockage/packages/f28/sssd/src/man/po/ru.po | 
+ | [nb_NO](/f28/language/nb_NO) | 46 | 3933 | 1.2 | /mnt/stockage/packages/f28/sssd/po/nb.po | 
+ | [eu](/f28/language/eu) | 218 | 36583 | 0.6 | /mnt/stockage/packages/f28/sssd/po/eu.po/mnt/stockage/packages/f28/sssd/src/man/po/eu.po | 
+ | [tr](/f28/language/tr) | 15 | 3933 | 0.4 | /mnt/stockage/packages/f28/sssd/po/tr.po | 
+ | [lv](/f28/language/lv) | 115 | 32650 | 0.4 | /mnt/stockage/packages/f28/sssd/src/man/po/lv.po | 
+ | [tg](/f28/language/tg) | 87 | 36583 | 0.2 | /mnt/stockage/packages/f28/sssd/po/tg.po/mnt/stockage/packages/f28/sssd/src/man/po/tg.po | 
+ | [zh_Hans](/f28/language/zh_Hans) | 84 | 36583 | 0.2 | /mnt/stockage/packages/f28/sssd/po/zh_CN.po/mnt/stockage/packages/f28/sssd/src/man/po/zh_CN.po | 
+ | [br](/f28/language/br) | 60 | 32650 | 0.2 | /mnt/stockage/packages/f28/sssd/src/man/po/br.po | 
+ | [fi](/f28/language/fi) | 53 | 32650 | 0.2 | /mnt/stockage/packages/f28/sssd/src/man/po/fi.po | 
+ | [pt_BR](/f28/language/pt_BR) | 51 | 36583 | 0.1 | /mnt/stockage/packages/f28/sssd/po/pt_BR.po/mnt/stockage/packages/f28/sssd/src/man/po/pt_BR.po | 
+ | [cs](/f28/language/cs) | 36 | 32650 | 0.1 | /mnt/stockage/packages/f28/sssd/src/man/po/cs.po | 
 {.sortable}
 
 

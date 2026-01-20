@@ -39,9 +39,9 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [transmission]({{< ref "/f17/package/transmission.md" >}}) | 251 | 1809 | 13.9 | Kurdish (Sorani) <ckb@li.org> | 
- | [stellarium]({{< ref "/f17/package/stellarium.md" >}}) | 82 | 9286 | 0.9 | Kurdish (Sorani) <ckb@li.org> | 
- | [terminator]({{< ref "/f17/package/terminator.md" >}}) | 3 | 726 | 0.4 | Kurdish (Sorani) <ckb@li.org> | 
+ | [transmission](/f17/package/transmission) | 251 | 1809 | 13.9 | Kurdish (Sorani) <ckb@li.org> | 
+ | [stellarium](/f17/package/stellarium) | 82 | 9286 | 0.9 | Kurdish (Sorani) <ckb@li.org> | 
+ | [terminator](/f17/package/terminator) | 3 | 726 | 0.4 | Kurdish (Sorani) <ckb@li.org> | 
 {.sortable}
 
 

@@ -18,17 +18,17 @@ The package ibus-chewing (version 1.4.14):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [es]({{< ref "/f20/language/es.md" >}}) | 278 | 278 | 100.0 | /mnt/stockage/packages/f20/ibus-chewing/po/es.po | 
- | [ko]({{< ref "/f20/language/ko.md" >}}) | 278 | 278 | 100.0 | /mnt/stockage/packages/f20/ibus-chewing/po/ko.po | 
- | [zh_Hans]({{< ref "/f20/language/zh_Hans.md" >}}) | 278 | 278 | 100.0 | /mnt/stockage/packages/f20/ibus-chewing/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f20/language/zh_Hant.md" >}}) | 278 | 278 | 100.0 | /mnt/stockage/packages/f20/ibus-chewing/po/zh_TW.po | 
- | [de]({{< ref "/f20/language/de.md" >}}) | 264 | 278 | 95.0 | /mnt/stockage/packages/f20/ibus-chewing/po/de.po | 
- | [uk]({{< ref "/f20/language/uk.md" >}}) | 257 | 278 | 92.4 | /mnt/stockage/packages/f20/ibus-chewing/po/uk.po | 
- | [fr]({{< ref "/f20/language/fr.md" >}}) | 254 | 278 | 91.4 | /mnt/stockage/packages/f20/ibus-chewing/po/fr.po | 
- | [ja]({{< ref "/f20/language/ja.md" >}}) | 254 | 278 | 91.4 | /mnt/stockage/packages/f20/ibus-chewing/po/ja.po | 
- | [it]({{< ref "/f20/language/it.md" >}}) | 252 | 278 | 90.6 | /mnt/stockage/packages/f20/ibus-chewing/po/it.po | 
- | [pt_BR]({{< ref "/f20/language/pt_BR.md" >}}) | 251 | 278 | 90.3 | /mnt/stockage/packages/f20/ibus-chewing/po/pt_BR.po | 
- | [pa]({{< ref "/f20/language/pa.md" >}}) | 20 | 278 | 7.2 | /mnt/stockage/packages/f20/ibus-chewing/po/pa.po | 
+ | [es](/f20/language/es) | 278 | 278 | 100.0 | /mnt/stockage/packages/f20/ibus-chewing/po/es.po | 
+ | [ko](/f20/language/ko) | 278 | 278 | 100.0 | /mnt/stockage/packages/f20/ibus-chewing/po/ko.po | 
+ | [zh_Hans](/f20/language/zh_Hans) | 278 | 278 | 100.0 | /mnt/stockage/packages/f20/ibus-chewing/po/zh_CN.po | 
+ | [zh_Hant](/f20/language/zh_Hant) | 278 | 278 | 100.0 | /mnt/stockage/packages/f20/ibus-chewing/po/zh_TW.po | 
+ | [de](/f20/language/de) | 264 | 278 | 95.0 | /mnt/stockage/packages/f20/ibus-chewing/po/de.po | 
+ | [uk](/f20/language/uk) | 257 | 278 | 92.4 | /mnt/stockage/packages/f20/ibus-chewing/po/uk.po | 
+ | [fr](/f20/language/fr) | 254 | 278 | 91.4 | /mnt/stockage/packages/f20/ibus-chewing/po/fr.po | 
+ | [ja](/f20/language/ja) | 254 | 278 | 91.4 | /mnt/stockage/packages/f20/ibus-chewing/po/ja.po | 
+ | [it](/f20/language/it) | 252 | 278 | 90.6 | /mnt/stockage/packages/f20/ibus-chewing/po/it.po | 
+ | [pt_BR](/f20/language/pt_BR) | 251 | 278 | 90.3 | /mnt/stockage/packages/f20/ibus-chewing/po/pt_BR.po | 
+ | [pa](/f20/language/pa) | 20 | 278 | 7.2 | /mnt/stockage/packages/f20/ibus-chewing/po/pa.po | 
 {.sortable}
 
 

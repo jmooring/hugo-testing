@@ -18,31 +18,31 @@ The package openconnect (version 7.03):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [pt_BR]({{< ref "/f20/language/pt_BR.md" >}}) | 3834 | 3943 | 97.2 | /mnt/stockage/packages/f20/openconnect/po/pt_BR.po | 
- | [es]({{< ref "/f20/language/es.md" >}}) | 3533 | 3943 | 89.6 | /mnt/stockage/packages/f20/openconnect/po/es.po | 
- | [id]({{< ref "/f20/language/id.md" >}}) | 3533 | 3943 | 89.6 | /mnt/stockage/packages/f20/openconnect/po/id.po | 
- | [de]({{< ref "/f20/language/de.md" >}}) | 3346 | 3943 | 84.9 | /mnt/stockage/packages/f20/openconnect/po/de.po | 
- | [cs]({{< ref "/f20/language/cs.md" >}}) | 2979 | 3943 | 75.6 | /mnt/stockage/packages/f20/openconnect/po/cs.po | 
- | [lt]({{< ref "/f20/language/lt.md" >}}) | 2945 | 3943 | 74.7 | /mnt/stockage/packages/f20/openconnect/po/lt.po | 
- | [eu]({{< ref "/f20/language/eu.md" >}}) | 2922 | 3943 | 74.1 | /mnt/stockage/packages/f20/openconnect/po/eu.po | 
- | [el]({{< ref "/f20/language/el.md" >}}) | 2855 | 3943 | 72.4 | /mnt/stockage/packages/f20/openconnect/po/el.po | 
- | [sl]({{< ref "/f20/language/sl.md" >}}) | 2665 | 3943 | 67.6 | /mnt/stockage/packages/f20/openconnect/po/sl.po | 
- | [nl]({{< ref "/f20/language/nl.md" >}}) | 2470 | 3943 | 62.6 | /mnt/stockage/packages/f20/openconnect/po/nl.po | 
- | [en_GB]({{< ref "/f20/language/en_GB.md" >}}) | 2452 | 3943 | 62.2 | /mnt/stockage/packages/f20/openconnect/po/en_GB.po | 
- | [ug]({{< ref "/f20/language/ug.md" >}}) | 2350 | 3943 | 59.6 | /mnt/stockage/packages/f20/openconnect/po/ug.po | 
- | [en_US]({{< ref "/f20/language/en_US.md" >}}) | 1576 | 3943 | 40.0 | /mnt/stockage/packages/f20/openconnect/po/en_US.po | 
- | [pt]({{< ref "/f20/language/pt.md" >}}) | 1123 | 3943 | 28.5 | /mnt/stockage/packages/f20/openconnect/po/pt.po | 
- | [gl]({{< ref "/f20/language/gl.md" >}}) | 553 | 3943 | 14.0 | /mnt/stockage/packages/f20/openconnect/po/gl.po | 
- | [zh_Hans]({{< ref "/f20/language/zh_Hans.md" >}}) | 329 | 3943 | 8.3 | /mnt/stockage/packages/f20/openconnect/po/zh_CN.po | 
- | [pa]({{< ref "/f20/language/pa.md" >}}) | 298 | 3943 | 7.6 | /mnt/stockage/packages/f20/openconnect/po/pa.po | 
- | [uk]({{< ref "/f20/language/uk.md" >}}) | 242 | 3943 | 6.1 | /mnt/stockage/packages/f20/openconnect/po/uk.po | 
- | [fr]({{< ref "/f20/language/fr.md" >}}) | 74 | 3943 | 1.9 | /mnt/stockage/packages/f20/openconnect/po/fr.po | 
- | [pl]({{< ref "/f20/language/pl.md" >}}) | 60 | 3943 | 1.5 | /mnt/stockage/packages/f20/openconnect/po/pl.po | 
- | [ar]({{< ref "/f20/language/ar.md" >}}) | 48 | 3943 | 1.2 | /mnt/stockage/packages/f20/openconnect/po/ar.po | 
- | [fi]({{< ref "/f20/language/fi.md" >}}) | 38 | 3943 | 1.0 | /mnt/stockage/packages/f20/openconnect/po/fi.po | 
- | [zh_Hant]({{< ref "/f20/language/zh_Hant.md" >}}) | 32 | 3943 | 0.8 | /mnt/stockage/packages/f20/openconnect/po/zh_TW.po | 
- | [sk]({{< ref "/f20/language/sk.md" >}}) | 19 | 3943 | 0.5 | /mnt/stockage/packages/f20/openconnect/po/sk.po | 
- | [tg]({{< ref "/f20/language/tg.md" >}}) | 10 | 3943 | 0.3 | /mnt/stockage/packages/f20/openconnect/po/tg.po | 
+ | [pt_BR](/f20/language/pt_BR) | 3834 | 3943 | 97.2 | /mnt/stockage/packages/f20/openconnect/po/pt_BR.po | 
+ | [es](/f20/language/es) | 3533 | 3943 | 89.6 | /mnt/stockage/packages/f20/openconnect/po/es.po | 
+ | [id](/f20/language/id) | 3533 | 3943 | 89.6 | /mnt/stockage/packages/f20/openconnect/po/id.po | 
+ | [de](/f20/language/de) | 3346 | 3943 | 84.9 | /mnt/stockage/packages/f20/openconnect/po/de.po | 
+ | [cs](/f20/language/cs) | 2979 | 3943 | 75.6 | /mnt/stockage/packages/f20/openconnect/po/cs.po | 
+ | [lt](/f20/language/lt) | 2945 | 3943 | 74.7 | /mnt/stockage/packages/f20/openconnect/po/lt.po | 
+ | [eu](/f20/language/eu) | 2922 | 3943 | 74.1 | /mnt/stockage/packages/f20/openconnect/po/eu.po | 
+ | [el](/f20/language/el) | 2855 | 3943 | 72.4 | /mnt/stockage/packages/f20/openconnect/po/el.po | 
+ | [sl](/f20/language/sl) | 2665 | 3943 | 67.6 | /mnt/stockage/packages/f20/openconnect/po/sl.po | 
+ | [nl](/f20/language/nl) | 2470 | 3943 | 62.6 | /mnt/stockage/packages/f20/openconnect/po/nl.po | 
+ | [en_GB](/f20/language/en_GB) | 2452 | 3943 | 62.2 | /mnt/stockage/packages/f20/openconnect/po/en_GB.po | 
+ | [ug](/f20/language/ug) | 2350 | 3943 | 59.6 | /mnt/stockage/packages/f20/openconnect/po/ug.po | 
+ | [en_US](/f20/language/en_US) | 1576 | 3943 | 40.0 | /mnt/stockage/packages/f20/openconnect/po/en_US.po | 
+ | [pt](/f20/language/pt) | 1123 | 3943 | 28.5 | /mnt/stockage/packages/f20/openconnect/po/pt.po | 
+ | [gl](/f20/language/gl) | 553 | 3943 | 14.0 | /mnt/stockage/packages/f20/openconnect/po/gl.po | 
+ | [zh_Hans](/f20/language/zh_Hans) | 329 | 3943 | 8.3 | /mnt/stockage/packages/f20/openconnect/po/zh_CN.po | 
+ | [pa](/f20/language/pa) | 298 | 3943 | 7.6 | /mnt/stockage/packages/f20/openconnect/po/pa.po | 
+ | [uk](/f20/language/uk) | 242 | 3943 | 6.1 | /mnt/stockage/packages/f20/openconnect/po/uk.po | 
+ | [fr](/f20/language/fr) | 74 | 3943 | 1.9 | /mnt/stockage/packages/f20/openconnect/po/fr.po | 
+ | [pl](/f20/language/pl) | 60 | 3943 | 1.5 | /mnt/stockage/packages/f20/openconnect/po/pl.po | 
+ | [ar](/f20/language/ar) | 48 | 3943 | 1.2 | /mnt/stockage/packages/f20/openconnect/po/ar.po | 
+ | [fi](/f20/language/fi) | 38 | 3943 | 1.0 | /mnt/stockage/packages/f20/openconnect/po/fi.po | 
+ | [zh_Hant](/f20/language/zh_Hant) | 32 | 3943 | 0.8 | /mnt/stockage/packages/f20/openconnect/po/zh_TW.po | 
+ | [sk](/f20/language/sk) | 19 | 3943 | 0.5 | /mnt/stockage/packages/f20/openconnect/po/sk.po | 
+ | [tg](/f20/language/tg) | 10 | 3943 | 0.3 | /mnt/stockage/packages/f20/openconnect/po/tg.po | 
 {.sortable}
 
 

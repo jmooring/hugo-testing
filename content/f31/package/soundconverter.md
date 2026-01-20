@@ -18,56 +18,56 @@ The package soundconverter (version 3.0.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f31/language/ca.md" >}}) | 360 | 377 | 95.5 | /mnt/stockage/packages/f31/soundconverter/po/ca.po | 
- | [de]({{< ref "/f31/language/de.md" >}}) | 360 | 377 | 95.5 | /mnt/stockage/packages/f31/soundconverter/po/de.po | 
- | [es]({{< ref "/f31/language/es.md" >}}) | 360 | 377 | 95.5 | /mnt/stockage/packages/f31/soundconverter/po/es.po | 
- | [fr_CA]({{< ref "/f31/language/fr_CA.md" >}}) | 360 | 377 | 95.5 | /mnt/stockage/packages/f31/soundconverter/po/fr_CA.po | 
- | [gl]({{< ref "/f31/language/gl.md" >}}) | 360 | 377 | 95.5 | /mnt/stockage/packages/f31/soundconverter/po/gl.po | 
- | [lt]({{< ref "/f31/language/lt.md" >}}) | 360 | 377 | 95.5 | /mnt/stockage/packages/f31/soundconverter/po/lt.po | 
- | [nl]({{< ref "/f31/language/nl.md" >}}) | 360 | 377 | 95.5 | /mnt/stockage/packages/f31/soundconverter/po/nl.po | 
- | [pl]({{< ref "/f31/language/pl.md" >}}) | 360 | 377 | 95.5 | /mnt/stockage/packages/f31/soundconverter/po/pl.po | 
- | [br]({{< ref "/f31/language/br.md" >}}) | 356 | 377 | 94.4 | /mnt/stockage/packages/f31/soundconverter/po/br.po | 
- | [cs]({{< ref "/f31/language/cs.md" >}}) | 356 | 377 | 94.4 | /mnt/stockage/packages/f31/soundconverter/po/cs.po | 
- | [en_GB]({{< ref "/f31/language/en_GB.md" >}}) | 356 | 377 | 94.4 | /mnt/stockage/packages/f31/soundconverter/po/en_GB.po | 
- | [hu]({{< ref "/f31/language/hu.md" >}}) | 356 | 377 | 94.4 | /mnt/stockage/packages/f31/soundconverter/po/hu.po | 
- | [it]({{< ref "/f31/language/it.md" >}}) | 356 | 377 | 94.4 | /mnt/stockage/packages/f31/soundconverter/po/it.po | 
- | [ms]({{< ref "/f31/language/ms.md" >}}) | 356 | 377 | 94.4 | /mnt/stockage/packages/f31/soundconverter/po/ms.po | 
- | [pt_BR]({{< ref "/f31/language/pt_BR.md" >}}) | 356 | 377 | 94.4 | /mnt/stockage/packages/f31/soundconverter/po/pt_BR.po | 
- | [ru]({{< ref "/f31/language/ru.md" >}}) | 356 | 377 | 94.4 | /mnt/stockage/packages/f31/soundconverter/po/ru.po | 
- | [sk]({{< ref "/f31/language/sk.md" >}}) | 356 | 377 | 94.4 | /mnt/stockage/packages/f31/soundconverter/po/sk.po | 
- | [sr]({{< ref "/f31/language/sr.md" >}}) | 356 | 377 | 94.4 | /mnt/stockage/packages/f31/soundconverter/po/sr.po | 
- | [zh_Hant]({{< ref "/f31/language/zh_Hant.md" >}}) | 356 | 377 | 94.4 | /mnt/stockage/packages/f31/soundconverter/po/zh_TW.po | 
- | [eu]({{< ref "/f31/language/eu.md" >}}) | 353 | 377 | 93.6 | /mnt/stockage/packages/f31/soundconverter/po/eu.po | 
- | [lv]({{< ref "/f31/language/lv.md" >}}) | 353 | 377 | 93.6 | /mnt/stockage/packages/f31/soundconverter/po/lv.po | 
- | [bg]({{< ref "/f31/language/bg.md" >}}) | 349 | 377 | 92.6 | /mnt/stockage/packages/f31/soundconverter/po/bg.po | 
- | [nb_NO]({{< ref "/f31/language/nb_NO.md" >}}) | 349 | 377 | 92.6 | /mnt/stockage/packages/f31/soundconverter/po/nb.po | 
- | [uk]({{< ref "/f31/language/uk.md" >}}) | 349 | 377 | 92.6 | /mnt/stockage/packages/f31/soundconverter/po/uk.po | 
- | [ar]({{< ref "/f31/language/ar.md" >}}) | 307 | 377 | 81.4 | /mnt/stockage/packages/f31/soundconverter/po/ar.po | 
- | [pt]({{< ref "/f31/language/pt.md" >}}) | 286 | 377 | 75.9 | /mnt/stockage/packages/f31/soundconverter/po/pt.po | 
- | [zh_Hans]({{< ref "/f31/language/zh_Hans.md" >}}) | 283 | 377 | 75.1 | /mnt/stockage/packages/f31/soundconverter/po/zh_CN.po | 
- | [fi]({{< ref "/f31/language/fi.md" >}}) | 271 | 377 | 71.9 | /mnt/stockage/packages/f31/soundconverter/po/fi.po | 
- | [sv]({{< ref "/f31/language/sv.md" >}}) | 271 | 377 | 71.9 | /mnt/stockage/packages/f31/soundconverter/po/sv.po | 
- | [sl]({{< ref "/f31/language/sl.md" >}}) | 246 | 377 | 65.3 | /mnt/stockage/packages/f31/soundconverter/po/sl.po | 
- | [sr_Latn]({{< ref "/f31/language/sr_Latn.md" >}}) | 241 | 377 | 63.9 | /mnt/stockage/packages/f31/soundconverter/po/sr@latin.po | 
- | [et]({{< ref "/f31/language/et.md" >}}) | 240 | 377 | 63.7 | /mnt/stockage/packages/f31/soundconverter/po/et.po | 
- | [el]({{< ref "/f31/language/el.md" >}}) | 226 | 377 | 59.9 | /mnt/stockage/packages/f31/soundconverter/po/el.po | 
- | [sq]({{< ref "/f31/language/sq.md" >}}) | 221 | 377 | 58.6 | /mnt/stockage/packages/f31/soundconverter/po/sq.po | 
- | [ja]({{< ref "/f31/language/ja.md" >}}) | 219 | 377 | 58.1 | /mnt/stockage/packages/f31/soundconverter/po/ja.po | 
- | [fr]({{< ref "/f31/language/fr.md" >}}) | 371 | 754 | 49.2 | /mnt/stockage/packages/f31/soundconverter/po/fr_FR.po/mnt/stockage/packages/f31/soundconverter/po/fr.po | 
- | [ko]({{< ref "/f31/language/ko.md" >}}) | 180 | 377 | 47.7 | /mnt/stockage/packages/f31/soundconverter/po/ko.po | 
- | [tr]({{< ref "/f31/language/tr.md" >}}) | 176 | 377 | 46.7 | /mnt/stockage/packages/f31/soundconverter/po/tr.po | 
- | [en_AU]({{< ref "/f31/language/en_AU.md" >}}) | 169 | 377 | 44.8 | /mnt/stockage/packages/f31/soundconverter/po/en_AU.po | 
- | [da]({{< ref "/f31/language/da.md" >}}) | 151 | 377 | 40.1 | /mnt/stockage/packages/f31/soundconverter/po/da.po | 
- | [he]({{< ref "/f31/language/he.md" >}}) | 151 | 377 | 40.1 | /mnt/stockage/packages/f31/soundconverter/po/he.po | 
- | [vi]({{< ref "/f31/language/vi.md" >}}) | 151 | 377 | 40.1 | /mnt/stockage/packages/f31/soundconverter/po/vi.po | 
- | [eo]({{< ref "/f31/language/eo.md" >}}) | 127 | 377 | 33.7 | /mnt/stockage/packages/f31/soundconverter/po/eo.po | 
- | [error]({{< ref "/f31/language/error.md" >}}) | 103 | 377 | 27.3 | /mnt/stockage/packages/f31/soundconverter/po/sr@Latn.po | 
- | [ast]({{< ref "/f31/language/ast.md" >}}) | 47 | 377 | 12.5 | /mnt/stockage/packages/f31/soundconverter/po/ast.po | 
- | [te]({{< ref "/f31/language/te.md" >}}) | 39 | 377 | 10.3 | /mnt/stockage/packages/f31/soundconverter/po/te.po | 
- | [hi]({{< ref "/f31/language/hi.md" >}}) | 33 | 377 | 8.8 | /mnt/stockage/packages/f31/soundconverter/po/hi.po | 
- | [fa]({{< ref "/f31/language/fa.md" >}}) | 14 | 377 | 3.7 | /mnt/stockage/packages/f31/soundconverter/po/fa.po | 
- | [en_CA]({{< ref "/f31/language/en_CA.md" >}}) | 0 | 377 | 0.0 | /mnt/stockage/packages/f31/soundconverter/po/en_CA.po | 
- | [ml]({{< ref "/f31/language/ml.md" >}}) | 0 | 377 | 0.0 | /mnt/stockage/packages/f31/soundconverter/po/ml.po | 
+ | [ca](/f31/language/ca) | 360 | 377 | 95.5 | /mnt/stockage/packages/f31/soundconverter/po/ca.po | 
+ | [de](/f31/language/de) | 360 | 377 | 95.5 | /mnt/stockage/packages/f31/soundconverter/po/de.po | 
+ | [es](/f31/language/es) | 360 | 377 | 95.5 | /mnt/stockage/packages/f31/soundconverter/po/es.po | 
+ | [fr_CA](/f31/language/fr_CA) | 360 | 377 | 95.5 | /mnt/stockage/packages/f31/soundconverter/po/fr_CA.po | 
+ | [gl](/f31/language/gl) | 360 | 377 | 95.5 | /mnt/stockage/packages/f31/soundconverter/po/gl.po | 
+ | [lt](/f31/language/lt) | 360 | 377 | 95.5 | /mnt/stockage/packages/f31/soundconverter/po/lt.po | 
+ | [nl](/f31/language/nl) | 360 | 377 | 95.5 | /mnt/stockage/packages/f31/soundconverter/po/nl.po | 
+ | [pl](/f31/language/pl) | 360 | 377 | 95.5 | /mnt/stockage/packages/f31/soundconverter/po/pl.po | 
+ | [br](/f31/language/br) | 356 | 377 | 94.4 | /mnt/stockage/packages/f31/soundconverter/po/br.po | 
+ | [cs](/f31/language/cs) | 356 | 377 | 94.4 | /mnt/stockage/packages/f31/soundconverter/po/cs.po | 
+ | [en_GB](/f31/language/en_GB) | 356 | 377 | 94.4 | /mnt/stockage/packages/f31/soundconverter/po/en_GB.po | 
+ | [hu](/f31/language/hu) | 356 | 377 | 94.4 | /mnt/stockage/packages/f31/soundconverter/po/hu.po | 
+ | [it](/f31/language/it) | 356 | 377 | 94.4 | /mnt/stockage/packages/f31/soundconverter/po/it.po | 
+ | [ms](/f31/language/ms) | 356 | 377 | 94.4 | /mnt/stockage/packages/f31/soundconverter/po/ms.po | 
+ | [pt_BR](/f31/language/pt_BR) | 356 | 377 | 94.4 | /mnt/stockage/packages/f31/soundconverter/po/pt_BR.po | 
+ | [ru](/f31/language/ru) | 356 | 377 | 94.4 | /mnt/stockage/packages/f31/soundconverter/po/ru.po | 
+ | [sk](/f31/language/sk) | 356 | 377 | 94.4 | /mnt/stockage/packages/f31/soundconverter/po/sk.po | 
+ | [sr](/f31/language/sr) | 356 | 377 | 94.4 | /mnt/stockage/packages/f31/soundconverter/po/sr.po | 
+ | [zh_Hant](/f31/language/zh_Hant) | 356 | 377 | 94.4 | /mnt/stockage/packages/f31/soundconverter/po/zh_TW.po | 
+ | [eu](/f31/language/eu) | 353 | 377 | 93.6 | /mnt/stockage/packages/f31/soundconverter/po/eu.po | 
+ | [lv](/f31/language/lv) | 353 | 377 | 93.6 | /mnt/stockage/packages/f31/soundconverter/po/lv.po | 
+ | [bg](/f31/language/bg) | 349 | 377 | 92.6 | /mnt/stockage/packages/f31/soundconverter/po/bg.po | 
+ | [nb_NO](/f31/language/nb_NO) | 349 | 377 | 92.6 | /mnt/stockage/packages/f31/soundconverter/po/nb.po | 
+ | [uk](/f31/language/uk) | 349 | 377 | 92.6 | /mnt/stockage/packages/f31/soundconverter/po/uk.po | 
+ | [ar](/f31/language/ar) | 307 | 377 | 81.4 | /mnt/stockage/packages/f31/soundconverter/po/ar.po | 
+ | [pt](/f31/language/pt) | 286 | 377 | 75.9 | /mnt/stockage/packages/f31/soundconverter/po/pt.po | 
+ | [zh_Hans](/f31/language/zh_Hans) | 283 | 377 | 75.1 | /mnt/stockage/packages/f31/soundconverter/po/zh_CN.po | 
+ | [fi](/f31/language/fi) | 271 | 377 | 71.9 | /mnt/stockage/packages/f31/soundconverter/po/fi.po | 
+ | [sv](/f31/language/sv) | 271 | 377 | 71.9 | /mnt/stockage/packages/f31/soundconverter/po/sv.po | 
+ | [sl](/f31/language/sl) | 246 | 377 | 65.3 | /mnt/stockage/packages/f31/soundconverter/po/sl.po | 
+ | [sr_Latn](/f31/language/sr_Latn) | 241 | 377 | 63.9 | /mnt/stockage/packages/f31/soundconverter/po/sr@latin.po | 
+ | [et](/f31/language/et) | 240 | 377 | 63.7 | /mnt/stockage/packages/f31/soundconverter/po/et.po | 
+ | [el](/f31/language/el) | 226 | 377 | 59.9 | /mnt/stockage/packages/f31/soundconverter/po/el.po | 
+ | [sq](/f31/language/sq) | 221 | 377 | 58.6 | /mnt/stockage/packages/f31/soundconverter/po/sq.po | 
+ | [ja](/f31/language/ja) | 219 | 377 | 58.1 | /mnt/stockage/packages/f31/soundconverter/po/ja.po | 
+ | [fr](/f31/language/fr) | 371 | 754 | 49.2 | /mnt/stockage/packages/f31/soundconverter/po/fr_FR.po/mnt/stockage/packages/f31/soundconverter/po/fr.po | 
+ | [ko](/f31/language/ko) | 180 | 377 | 47.7 | /mnt/stockage/packages/f31/soundconverter/po/ko.po | 
+ | [tr](/f31/language/tr) | 176 | 377 | 46.7 | /mnt/stockage/packages/f31/soundconverter/po/tr.po | 
+ | [en_AU](/f31/language/en_AU) | 169 | 377 | 44.8 | /mnt/stockage/packages/f31/soundconverter/po/en_AU.po | 
+ | [da](/f31/language/da) | 151 | 377 | 40.1 | /mnt/stockage/packages/f31/soundconverter/po/da.po | 
+ | [he](/f31/language/he) | 151 | 377 | 40.1 | /mnt/stockage/packages/f31/soundconverter/po/he.po | 
+ | [vi](/f31/language/vi) | 151 | 377 | 40.1 | /mnt/stockage/packages/f31/soundconverter/po/vi.po | 
+ | [eo](/f31/language/eo) | 127 | 377 | 33.7 | /mnt/stockage/packages/f31/soundconverter/po/eo.po | 
+ | [error](/f31/language/error) | 103 | 377 | 27.3 | /mnt/stockage/packages/f31/soundconverter/po/sr@Latn.po | 
+ | [ast](/f31/language/ast) | 47 | 377 | 12.5 | /mnt/stockage/packages/f31/soundconverter/po/ast.po | 
+ | [te](/f31/language/te) | 39 | 377 | 10.3 | /mnt/stockage/packages/f31/soundconverter/po/te.po | 
+ | [hi](/f31/language/hi) | 33 | 377 | 8.8 | /mnt/stockage/packages/f31/soundconverter/po/hi.po | 
+ | [fa](/f31/language/fa) | 14 | 377 | 3.7 | /mnt/stockage/packages/f31/soundconverter/po/fa.po | 
+ | [en_CA](/f31/language/en_CA) | 0 | 377 | 0.0 | /mnt/stockage/packages/f31/soundconverter/po/en_CA.po | 
+ | [ml](/f31/language/ml) | 0 | 377 | 0.0 | /mnt/stockage/packages/f31/soundconverter/po/ml.po | 
 {.sortable}
 
 

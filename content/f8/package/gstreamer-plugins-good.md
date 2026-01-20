@@ -18,21 +18,21 @@ The package gstreamer-plugins-good (version 0.10.6):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ja]({{< ref "/f8/language/ja.md" >}}) | 43 | 502 | 8.6 | /mnt/stockage/packages/f8/gstreamer-plugins-good/po/ja.po | 
- | [af]({{< ref "/f8/language/af.md" >}}) | 42 | 502 | 8.4 | /mnt/stockage/packages/f8/gstreamer-plugins-good/po/af.po | 
- | [az]({{< ref "/f8/language/az.md" >}}) | 42 | 502 | 8.4 | /mnt/stockage/packages/f8/gstreamer-plugins-good/po/az.po | 
- | [cs]({{< ref "/f8/language/cs.md" >}}) | 42 | 502 | 8.4 | /mnt/stockage/packages/f8/gstreamer-plugins-good/po/cs.po | 
- | [en_GB]({{< ref "/f8/language/en_GB.md" >}}) | 42 | 502 | 8.4 | /mnt/stockage/packages/f8/gstreamer-plugins-good/po/en_GB.po | 
- | [hu]({{< ref "/f8/language/hu.md" >}}) | 42 | 502 | 8.4 | /mnt/stockage/packages/f8/gstreamer-plugins-good/po/hu.po | 
- | [it]({{< ref "/f8/language/it.md" >}}) | 42 | 502 | 8.4 | /mnt/stockage/packages/f8/gstreamer-plugins-good/po/it.po | 
- | [nl]({{< ref "/f8/language/nl.md" >}}) | 42 | 502 | 8.4 | /mnt/stockage/packages/f8/gstreamer-plugins-good/po/nl.po | 
- | [or]({{< ref "/f8/language/or.md" >}}) | 42 | 502 | 8.4 | /mnt/stockage/packages/f8/gstreamer-plugins-good/po/or.po | 
- | [sq]({{< ref "/f8/language/sq.md" >}}) | 42 | 502 | 8.4 | /mnt/stockage/packages/f8/gstreamer-plugins-good/po/sq.po | 
- | [sr]({{< ref "/f8/language/sr.md" >}}) | 42 | 502 | 8.4 | /mnt/stockage/packages/f8/gstreamer-plugins-good/po/sr.po | 
- | [sv]({{< ref "/f8/language/sv.md" >}}) | 42 | 502 | 8.4 | /mnt/stockage/packages/f8/gstreamer-plugins-good/po/sv.po | 
- | [uk]({{< ref "/f8/language/uk.md" >}}) | 42 | 502 | 8.4 | /mnt/stockage/packages/f8/gstreamer-plugins-good/po/uk.po | 
- | [vi]({{< ref "/f8/language/vi.md" >}}) | 42 | 502 | 8.4 | /mnt/stockage/packages/f8/gstreamer-plugins-good/po/vi.po | 
- | [nb_NO]({{< ref "/f8/language/nb_NO.md" >}}) | 23 | 502 | 4.6 | /mnt/stockage/packages/f8/gstreamer-plugins-good/po/nb.po | 
+ | [ja](/f8/language/ja) | 43 | 502 | 8.6 | /mnt/stockage/packages/f8/gstreamer-plugins-good/po/ja.po | 
+ | [af](/f8/language/af) | 42 | 502 | 8.4 | /mnt/stockage/packages/f8/gstreamer-plugins-good/po/af.po | 
+ | [az](/f8/language/az) | 42 | 502 | 8.4 | /mnt/stockage/packages/f8/gstreamer-plugins-good/po/az.po | 
+ | [cs](/f8/language/cs) | 42 | 502 | 8.4 | /mnt/stockage/packages/f8/gstreamer-plugins-good/po/cs.po | 
+ | [en_GB](/f8/language/en_GB) | 42 | 502 | 8.4 | /mnt/stockage/packages/f8/gstreamer-plugins-good/po/en_GB.po | 
+ | [hu](/f8/language/hu) | 42 | 502 | 8.4 | /mnt/stockage/packages/f8/gstreamer-plugins-good/po/hu.po | 
+ | [it](/f8/language/it) | 42 | 502 | 8.4 | /mnt/stockage/packages/f8/gstreamer-plugins-good/po/it.po | 
+ | [nl](/f8/language/nl) | 42 | 502 | 8.4 | /mnt/stockage/packages/f8/gstreamer-plugins-good/po/nl.po | 
+ | [or](/f8/language/or) | 42 | 502 | 8.4 | /mnt/stockage/packages/f8/gstreamer-plugins-good/po/or.po | 
+ | [sq](/f8/language/sq) | 42 | 502 | 8.4 | /mnt/stockage/packages/f8/gstreamer-plugins-good/po/sq.po | 
+ | [sr](/f8/language/sr) | 42 | 502 | 8.4 | /mnt/stockage/packages/f8/gstreamer-plugins-good/po/sr.po | 
+ | [sv](/f8/language/sv) | 42 | 502 | 8.4 | /mnt/stockage/packages/f8/gstreamer-plugins-good/po/sv.po | 
+ | [uk](/f8/language/uk) | 42 | 502 | 8.4 | /mnt/stockage/packages/f8/gstreamer-plugins-good/po/uk.po | 
+ | [vi](/f8/language/vi) | 42 | 502 | 8.4 | /mnt/stockage/packages/f8/gstreamer-plugins-good/po/vi.po | 
+ | [nb_NO](/f8/language/nb_NO) | 23 | 502 | 4.6 | /mnt/stockage/packages/f8/gstreamer-plugins-good/po/nb.po | 
 {.sortable}
 
 

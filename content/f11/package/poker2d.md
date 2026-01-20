@@ -18,22 +18,22 @@ The package poker2d (version 1.7.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f11/language/de.md" >}}) | 822 | 913 | 90.0 | /mnt/stockage/packages/f11/poker2d/po/de.po | 
- | [es]({{< ref "/f11/language/es.md" >}}) | 822 | 913 | 90.0 | /mnt/stockage/packages/f11/poker2d/po/es.po | 
- | [nl]({{< ref "/f11/language/nl.md" >}}) | 822 | 913 | 90.0 | /mnt/stockage/packages/f11/poker2d/po/nl.po | 
- | [error]({{< ref "/f11/language/error.md" >}}) | 771 | 913 | 84.4 | /mnt/stockage/packages/f11/poker2d/po/fr_FX.po | 
- | [fr]({{< ref "/f11/language/fr.md" >}}) | 771 | 913 | 84.4 | /mnt/stockage/packages/f11/poker2d/po/fr.po | 
- | [fr_BE]({{< ref "/f11/language/fr_BE.md" >}}) | 771 | 913 | 84.4 | /mnt/stockage/packages/f11/poker2d/po/fr_BE.po | 
- | [fr_CA]({{< ref "/f11/language/fr_CA.md" >}}) | 771 | 913 | 84.4 | /mnt/stockage/packages/f11/poker2d/po/fr_CA.po | 
- | [da]({{< ref "/f11/language/da.md" >}}) | 389 | 913 | 42.6 | /mnt/stockage/packages/f11/poker2d/po/da.po | 
- | [it]({{< ref "/f11/language/it.md" >}}) | 389 | 913 | 42.6 | /mnt/stockage/packages/f11/poker2d/po/it.po | 
- | [nb_NO]({{< ref "/f11/language/nb_NO.md" >}}) | 389 | 913 | 42.6 | /mnt/stockage/packages/f11/poker2d/po/nb.po | 
- | [pt]({{< ref "/f11/language/pt.md" >}}) | 389 | 913 | 42.6 | /mnt/stockage/packages/f11/poker2d/po/pt.po | 
- | [sv]({{< ref "/f11/language/sv.md" >}}) | 389 | 913 | 42.6 | /mnt/stockage/packages/f11/poker2d/po/sv.po | 
- | [fi]({{< ref "/f11/language/fi.md" >}}) | 379 | 913 | 41.5 | /mnt/stockage/packages/f11/poker2d/po/fi.po | 
- | [en]({{< ref "/f11/language/en.md" >}}) | 268 | 913 | 29.4 | /mnt/stockage/packages/f11/poker2d/po/en.po | 
- | [en_CA]({{< ref "/f11/language/en_CA.md" >}}) | 268 | 913 | 29.4 | /mnt/stockage/packages/f11/poker2d/po/en_CA.po | 
- | [en_US]({{< ref "/f11/language/en_US.md" >}}) | 268 | 913 | 29.4 | /mnt/stockage/packages/f11/poker2d/po/en_US.po | 
+ | [de](/f11/language/de) | 822 | 913 | 90.0 | /mnt/stockage/packages/f11/poker2d/po/de.po | 
+ | [es](/f11/language/es) | 822 | 913 | 90.0 | /mnt/stockage/packages/f11/poker2d/po/es.po | 
+ | [nl](/f11/language/nl) | 822 | 913 | 90.0 | /mnt/stockage/packages/f11/poker2d/po/nl.po | 
+ | [error](/f11/language/error) | 771 | 913 | 84.4 | /mnt/stockage/packages/f11/poker2d/po/fr_FX.po | 
+ | [fr](/f11/language/fr) | 771 | 913 | 84.4 | /mnt/stockage/packages/f11/poker2d/po/fr.po | 
+ | [fr_BE](/f11/language/fr_BE) | 771 | 913 | 84.4 | /mnt/stockage/packages/f11/poker2d/po/fr_BE.po | 
+ | [fr_CA](/f11/language/fr_CA) | 771 | 913 | 84.4 | /mnt/stockage/packages/f11/poker2d/po/fr_CA.po | 
+ | [da](/f11/language/da) | 389 | 913 | 42.6 | /mnt/stockage/packages/f11/poker2d/po/da.po | 
+ | [it](/f11/language/it) | 389 | 913 | 42.6 | /mnt/stockage/packages/f11/poker2d/po/it.po | 
+ | [nb_NO](/f11/language/nb_NO) | 389 | 913 | 42.6 | /mnt/stockage/packages/f11/poker2d/po/nb.po | 
+ | [pt](/f11/language/pt) | 389 | 913 | 42.6 | /mnt/stockage/packages/f11/poker2d/po/pt.po | 
+ | [sv](/f11/language/sv) | 389 | 913 | 42.6 | /mnt/stockage/packages/f11/poker2d/po/sv.po | 
+ | [fi](/f11/language/fi) | 379 | 913 | 41.5 | /mnt/stockage/packages/f11/poker2d/po/fi.po | 
+ | [en](/f11/language/en) | 268 | 913 | 29.4 | /mnt/stockage/packages/f11/poker2d/po/en.po | 
+ | [en_CA](/f11/language/en_CA) | 268 | 913 | 29.4 | /mnt/stockage/packages/f11/poker2d/po/en_CA.po | 
+ | [en_US](/f11/language/en_US) | 268 | 913 | 29.4 | /mnt/stockage/packages/f11/poker2d/po/en_US.po | 
 {.sortable}
 
 

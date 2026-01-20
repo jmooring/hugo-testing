@@ -18,29 +18,29 @@ The package showtime (version 47.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [be]({{< ref "/f41/language/be.md" >}}) | 215 | 215 | 100.0 | /mnt/stockage/packages/f41/showtime/po/be.po | 
- | [de]({{< ref "/f41/language/de.md" >}}) | 215 | 215 | 100.0 | /mnt/stockage/packages/f41/showtime/po/de.po | 
- | [el]({{< ref "/f41/language/el.md" >}}) | 210 | 210 | 100.0 | /mnt/stockage/packages/f41/showtime/po/el.po | 
- | [en_GB]({{< ref "/f41/language/en_GB.md" >}}) | 212 | 212 | 100.0 | /mnt/stockage/packages/f41/showtime/po/en_GB.po | 
- | [eu]({{< ref "/f41/language/eu.md" >}}) | 215 | 215 | 100.0 | /mnt/stockage/packages/f41/showtime/po/eu.po | 
- | [fa]({{< ref "/f41/language/fa.md" >}}) | 215 | 215 | 100.0 | /mnt/stockage/packages/f41/showtime/po/fa.po | 
- | [fi]({{< ref "/f41/language/fi.md" >}}) | 210 | 210 | 100.0 | /mnt/stockage/packages/f41/showtime/po/fi.po | 
- | [he]({{< ref "/f41/language/he.md" >}}) | 215 | 215 | 100.0 | /mnt/stockage/packages/f41/showtime/po/he.po | 
- | [hi]({{< ref "/f41/language/hi.md" >}}) | 210 | 210 | 100.0 | /mnt/stockage/packages/f41/showtime/po/hi.po | 
- | [hu]({{< ref "/f41/language/hu.md" >}}) | 215 | 215 | 100.0 | /mnt/stockage/packages/f41/showtime/po/hu.po | 
- | [ka]({{< ref "/f41/language/ka.md" >}}) | 215 | 215 | 100.0 | /mnt/stockage/packages/f41/showtime/po/ka.po | 
- | [ko]({{< ref "/f41/language/ko.md" >}}) | 210 | 210 | 100.0 | /mnt/stockage/packages/f41/showtime/po/ko.po | 
- | [pt]({{< ref "/f41/language/pt.md" >}}) | 215 | 215 | 100.0 | /mnt/stockage/packages/f41/showtime/po/pt.po | 
- | [pt_BR]({{< ref "/f41/language/pt_BR.md" >}}) | 212 | 212 | 100.0 | /mnt/stockage/packages/f41/showtime/po/pt_BR.po | 
- | [ro]({{< ref "/f41/language/ro.md" >}}) | 215 | 215 | 100.0 | /mnt/stockage/packages/f41/showtime/po/ro.po | 
- | [ru]({{< ref "/f41/language/ru.md" >}}) | 212 | 212 | 100.0 | /mnt/stockage/packages/f41/showtime/po/ru.po | 
- | [sk]({{< ref "/f41/language/sk.md" >}}) | 215 | 215 | 100.0 | /mnt/stockage/packages/f41/showtime/po/sk.po | 
- | [sl]({{< ref "/f41/language/sl.md" >}}) | 215 | 215 | 100.0 | /mnt/stockage/packages/f41/showtime/po/sl.po | 
- | [sv]({{< ref "/f41/language/sv.md" >}}) | 215 | 215 | 100.0 | /mnt/stockage/packages/f41/showtime/po/sv.po | 
- | [tr]({{< ref "/f41/language/tr.md" >}}) | 215 | 215 | 100.0 | /mnt/stockage/packages/f41/showtime/po/tr.po | 
- | [uk]({{< ref "/f41/language/uk.md" >}}) | 215 | 215 | 100.0 | /mnt/stockage/packages/f41/showtime/po/uk.po | 
- | [zh_Hans]({{< ref "/f41/language/zh_Hans.md" >}}) | 215 | 215 | 100.0 | /mnt/stockage/packages/f41/showtime/po/zh_CN.po | 
- | [oc]({{< ref "/f41/language/oc.md" >}}) | 129 | 215 | 60.0 | /mnt/stockage/packages/f41/showtime/po/oc.po | 
+ | [be](/f41/language/be) | 215 | 215 | 100.0 | /mnt/stockage/packages/f41/showtime/po/be.po | 
+ | [de](/f41/language/de) | 215 | 215 | 100.0 | /mnt/stockage/packages/f41/showtime/po/de.po | 
+ | [el](/f41/language/el) | 210 | 210 | 100.0 | /mnt/stockage/packages/f41/showtime/po/el.po | 
+ | [en_GB](/f41/language/en_GB) | 212 | 212 | 100.0 | /mnt/stockage/packages/f41/showtime/po/en_GB.po | 
+ | [eu](/f41/language/eu) | 215 | 215 | 100.0 | /mnt/stockage/packages/f41/showtime/po/eu.po | 
+ | [fa](/f41/language/fa) | 215 | 215 | 100.0 | /mnt/stockage/packages/f41/showtime/po/fa.po | 
+ | [fi](/f41/language/fi) | 210 | 210 | 100.0 | /mnt/stockage/packages/f41/showtime/po/fi.po | 
+ | [he](/f41/language/he) | 215 | 215 | 100.0 | /mnt/stockage/packages/f41/showtime/po/he.po | 
+ | [hi](/f41/language/hi) | 210 | 210 | 100.0 | /mnt/stockage/packages/f41/showtime/po/hi.po | 
+ | [hu](/f41/language/hu) | 215 | 215 | 100.0 | /mnt/stockage/packages/f41/showtime/po/hu.po | 
+ | [ka](/f41/language/ka) | 215 | 215 | 100.0 | /mnt/stockage/packages/f41/showtime/po/ka.po | 
+ | [ko](/f41/language/ko) | 210 | 210 | 100.0 | /mnt/stockage/packages/f41/showtime/po/ko.po | 
+ | [pt](/f41/language/pt) | 215 | 215 | 100.0 | /mnt/stockage/packages/f41/showtime/po/pt.po | 
+ | [pt_BR](/f41/language/pt_BR) | 212 | 212 | 100.0 | /mnt/stockage/packages/f41/showtime/po/pt_BR.po | 
+ | [ro](/f41/language/ro) | 215 | 215 | 100.0 | /mnt/stockage/packages/f41/showtime/po/ro.po | 
+ | [ru](/f41/language/ru) | 212 | 212 | 100.0 | /mnt/stockage/packages/f41/showtime/po/ru.po | 
+ | [sk](/f41/language/sk) | 215 | 215 | 100.0 | /mnt/stockage/packages/f41/showtime/po/sk.po | 
+ | [sl](/f41/language/sl) | 215 | 215 | 100.0 | /mnt/stockage/packages/f41/showtime/po/sl.po | 
+ | [sv](/f41/language/sv) | 215 | 215 | 100.0 | /mnt/stockage/packages/f41/showtime/po/sv.po | 
+ | [tr](/f41/language/tr) | 215 | 215 | 100.0 | /mnt/stockage/packages/f41/showtime/po/tr.po | 
+ | [uk](/f41/language/uk) | 215 | 215 | 100.0 | /mnt/stockage/packages/f41/showtime/po/uk.po | 
+ | [zh_Hans](/f41/language/zh_Hans) | 215 | 215 | 100.0 | /mnt/stockage/packages/f41/showtime/po/zh_CN.po | 
+ | [oc](/f41/language/oc) | 129 | 215 | 60.0 | /mnt/stockage/packages/f41/showtime/po/oc.po | 
 {.sortable}
 
 

@@ -18,58 +18,58 @@ The package xfce4-systemload-plugin (version 1.3.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [be]({{< ref "/f34/language/be.md" >}}) | 87 | 87 | 100.0 | /mnt/stockage/packages/f34/xfce4-systemload-plugin/po/be.po | 
- | [bg]({{< ref "/f34/language/bg.md" >}}) | 100 | 100 | 100.0 | /mnt/stockage/packages/f34/xfce4-systemload-plugin/po/bg.po | 
- | [ca]({{< ref "/f34/language/ca.md" >}}) | 87 | 87 | 100.0 | /mnt/stockage/packages/f34/xfce4-systemload-plugin/po/ca.po | 
- | [cs]({{< ref "/f34/language/cs.md" >}}) | 87 | 87 | 100.0 | /mnt/stockage/packages/f34/xfce4-systemload-plugin/po/cs.po | 
- | [da]({{< ref "/f34/language/da.md" >}}) | 87 | 87 | 100.0 | /mnt/stockage/packages/f34/xfce4-systemload-plugin/po/da.po | 
- | [de]({{< ref "/f34/language/de.md" >}}) | 87 | 87 | 100.0 | /mnt/stockage/packages/f34/xfce4-systemload-plugin/po/de.po | 
- | [es]({{< ref "/f34/language/es.md" >}}) | 100 | 100 | 100.0 | /mnt/stockage/packages/f34/xfce4-systemload-plugin/po/es.po | 
- | [et]({{< ref "/f34/language/et.md" >}}) | 87 | 87 | 100.0 | /mnt/stockage/packages/f34/xfce4-systemload-plugin/po/et.po | 
- | [eu]({{< ref "/f34/language/eu.md" >}}) | 87 | 87 | 100.0 | /mnt/stockage/packages/f34/xfce4-systemload-plugin/po/eu.po | 
- | [fr]({{< ref "/f34/language/fr.md" >}}) | 87 | 87 | 100.0 | /mnt/stockage/packages/f34/xfce4-systemload-plugin/po/fr.po | 
- | [gl]({{< ref "/f34/language/gl.md" >}}) | 87 | 87 | 100.0 | /mnt/stockage/packages/f34/xfce4-systemload-plugin/po/gl.po | 
- | [he]({{< ref "/f34/language/he.md" >}}) | 89 | 89 | 100.0 | /mnt/stockage/packages/f34/xfce4-systemload-plugin/po/he.po | 
- | [hu]({{< ref "/f34/language/hu.md" >}}) | 87 | 87 | 100.0 | /mnt/stockage/packages/f34/xfce4-systemload-plugin/po/hu.po | 
- | [id]({{< ref "/f34/language/id.md" >}}) | 87 | 87 | 100.0 | /mnt/stockage/packages/f34/xfce4-systemload-plugin/po/id.po | 
- | [it]({{< ref "/f34/language/it.md" >}}) | 89 | 89 | 100.0 | /mnt/stockage/packages/f34/xfce4-systemload-plugin/po/it.po | 
- | [ja]({{< ref "/f34/language/ja.md" >}}) | 100 | 100 | 100.0 | /mnt/stockage/packages/f34/xfce4-systemload-plugin/po/ja.po | 
- | [lt]({{< ref "/f34/language/lt.md" >}}) | 87 | 87 | 100.0 | /mnt/stockage/packages/f34/xfce4-systemload-plugin/po/lt.po | 
- | [nb_NO]({{< ref "/f34/language/nb_NO.md" >}}) | 100 | 100 | 100.0 | /mnt/stockage/packages/f34/xfce4-systemload-plugin/po/nb.po | 
- | [nl]({{< ref "/f34/language/nl.md" >}}) | 87 | 87 | 100.0 | /mnt/stockage/packages/f34/xfce4-systemload-plugin/po/nl.po | 
- | [pl]({{< ref "/f34/language/pl.md" >}}) | 100 | 100 | 100.0 | /mnt/stockage/packages/f34/xfce4-systemload-plugin/po/pl.po | 
- | [pt]({{< ref "/f34/language/pt.md" >}}) | 100 | 100 | 100.0 | /mnt/stockage/packages/f34/xfce4-systemload-plugin/po/pt.po | 
- | [pt_BR]({{< ref "/f34/language/pt_BR.md" >}}) | 89 | 89 | 100.0 | /mnt/stockage/packages/f34/xfce4-systemload-plugin/po/pt_BR.po | 
- | [ru]({{< ref "/f34/language/ru.md" >}}) | 87 | 87 | 100.0 | /mnt/stockage/packages/f34/xfce4-systemload-plugin/po/ru.po | 
- | [sk]({{< ref "/f34/language/sk.md" >}}) | 95 | 95 | 100.0 | /mnt/stockage/packages/f34/xfce4-systemload-plugin/po/sk.po | 
- | [sl]({{< ref "/f34/language/sl.md" >}}) | 87 | 87 | 100.0 | /mnt/stockage/packages/f34/xfce4-systemload-plugin/po/sl.po | 
- | [sq]({{< ref "/f34/language/sq.md" >}}) | 87 | 87 | 100.0 | /mnt/stockage/packages/f34/xfce4-systemload-plugin/po/sq.po | 
- | [sr]({{< ref "/f34/language/sr.md" >}}) | 87 | 87 | 100.0 | /mnt/stockage/packages/f34/xfce4-systemload-plugin/po/sr.po | 
- | [tr]({{< ref "/f34/language/tr.md" >}}) | 87 | 87 | 100.0 | /mnt/stockage/packages/f34/xfce4-systemload-plugin/po/tr.po | 
- | [uk]({{< ref "/f34/language/uk.md" >}}) | 87 | 87 | 100.0 | /mnt/stockage/packages/f34/xfce4-systemload-plugin/po/uk.po | 
- | [zh_Hans]({{< ref "/f34/language/zh_Hans.md" >}}) | 100 | 100 | 100.0 | /mnt/stockage/packages/f34/xfce4-systemload-plugin/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f34/language/zh_Hant.md" >}}) | 105 | 105 | 100.0 | /mnt/stockage/packages/f34/xfce4-systemload-plugin/po/zh_TW.po | 
- | [el]({{< ref "/f34/language/el.md" >}}) | 84 | 87 | 96.6 | /mnt/stockage/packages/f34/xfce4-systemload-plugin/po/el.po | 
- | [en_AU]({{< ref "/f34/language/en_AU.md" >}}) | 84 | 87 | 96.6 | /mnt/stockage/packages/f34/xfce4-systemload-plugin/po/en_AU.po | 
- | [en_CA]({{< ref "/f34/language/en_CA.md" >}}) | 84 | 87 | 96.6 | /mnt/stockage/packages/f34/xfce4-systemload-plugin/po/en_CA.po | 
- | [fi]({{< ref "/f34/language/fi.md" >}}) | 84 | 87 | 96.6 | /mnt/stockage/packages/f34/xfce4-systemload-plugin/po/fi.po | 
- | [hr]({{< ref "/f34/language/hr.md" >}}) | 84 | 87 | 96.6 | /mnt/stockage/packages/f34/xfce4-systemload-plugin/po/hr.po | 
- | [ie]({{< ref "/f34/language/ie.md" >}}) | 84 | 87 | 96.6 | /mnt/stockage/packages/f34/xfce4-systemload-plugin/po/ie.po | 
- | [is]({{< ref "/f34/language/is.md" >}}) | 84 | 87 | 96.6 | /mnt/stockage/packages/f34/xfce4-systemload-plugin/po/is.po | 
- | [ko]({{< ref "/f34/language/ko.md" >}}) | 84 | 87 | 96.6 | /mnt/stockage/packages/f34/xfce4-systemload-plugin/po/ko.po | 
- | [ms]({{< ref "/f34/language/ms.md" >}}) | 84 | 87 | 96.6 | /mnt/stockage/packages/f34/xfce4-systemload-plugin/po/ms.po | 
- | [th]({{< ref "/f34/language/th.md" >}}) | 84 | 87 | 96.6 | /mnt/stockage/packages/f34/xfce4-systemload-plugin/po/th.po | 
- | [sv]({{< ref "/f34/language/sv.md" >}}) | 94 | 100 | 94.0 | /mnt/stockage/packages/f34/xfce4-systemload-plugin/po/sv.po | 
- | [hy]({{< ref "/f34/language/hy.md" >}}) | 76 | 87 | 87.4 | /mnt/stockage/packages/f34/xfce4-systemload-plugin/po/hye.po | 
- | [oc]({{< ref "/f34/language/oc.md" >}}) | 63 | 87 | 72.4 | /mnt/stockage/packages/f34/xfce4-systemload-plugin/po/oc.po | 
- | [ast]({{< ref "/f34/language/ast.md" >}}) | 62 | 87 | 71.3 | /mnt/stockage/packages/f34/xfce4-systemload-plugin/po/ast.po | 
- | [ar]({{< ref "/f34/language/ar.md" >}}) | 61 | 87 | 70.1 | /mnt/stockage/packages/f34/xfce4-systemload-plugin/po/ar.po | 
- | [ug]({{< ref "/f34/language/ug.md" >}}) | 61 | 87 | 70.1 | /mnt/stockage/packages/f34/xfce4-systemload-plugin/po/ug.po | 
- | [en_GB]({{< ref "/f34/language/en_GB.md" >}}) | 60 | 87 | 69.0 | /mnt/stockage/packages/f34/xfce4-systemload-plugin/po/en_GB.po | 
- | [vi]({{< ref "/f34/language/vi.md" >}}) | 39 | 73 | 53.4 | /mnt/stockage/packages/f34/xfce4-systemload-plugin/po/vi.po | 
- | [lv]({{< ref "/f34/language/lv.md" >}}) | 42 | 87 | 48.3 | /mnt/stockage/packages/f34/xfce4-systemload-plugin/po/lv.po | 
- | [ur]({{< ref "/f34/language/ur.md" >}}) | 42 | 87 | 48.3 | /mnt/stockage/packages/f34/xfce4-systemload-plugin/po/ur.po | 
- | [ur_PK]({{< ref "/f34/language/ur_PK.md" >}}) | 42 | 87 | 48.3 | /mnt/stockage/packages/f34/xfce4-systemload-plugin/po/ur_PK.po | 
+ | [be](/f34/language/be) | 87 | 87 | 100.0 | /mnt/stockage/packages/f34/xfce4-systemload-plugin/po/be.po | 
+ | [bg](/f34/language/bg) | 100 | 100 | 100.0 | /mnt/stockage/packages/f34/xfce4-systemload-plugin/po/bg.po | 
+ | [ca](/f34/language/ca) | 87 | 87 | 100.0 | /mnt/stockage/packages/f34/xfce4-systemload-plugin/po/ca.po | 
+ | [cs](/f34/language/cs) | 87 | 87 | 100.0 | /mnt/stockage/packages/f34/xfce4-systemload-plugin/po/cs.po | 
+ | [da](/f34/language/da) | 87 | 87 | 100.0 | /mnt/stockage/packages/f34/xfce4-systemload-plugin/po/da.po | 
+ | [de](/f34/language/de) | 87 | 87 | 100.0 | /mnt/stockage/packages/f34/xfce4-systemload-plugin/po/de.po | 
+ | [es](/f34/language/es) | 100 | 100 | 100.0 | /mnt/stockage/packages/f34/xfce4-systemload-plugin/po/es.po | 
+ | [et](/f34/language/et) | 87 | 87 | 100.0 | /mnt/stockage/packages/f34/xfce4-systemload-plugin/po/et.po | 
+ | [eu](/f34/language/eu) | 87 | 87 | 100.0 | /mnt/stockage/packages/f34/xfce4-systemload-plugin/po/eu.po | 
+ | [fr](/f34/language/fr) | 87 | 87 | 100.0 | /mnt/stockage/packages/f34/xfce4-systemload-plugin/po/fr.po | 
+ | [gl](/f34/language/gl) | 87 | 87 | 100.0 | /mnt/stockage/packages/f34/xfce4-systemload-plugin/po/gl.po | 
+ | [he](/f34/language/he) | 89 | 89 | 100.0 | /mnt/stockage/packages/f34/xfce4-systemload-plugin/po/he.po | 
+ | [hu](/f34/language/hu) | 87 | 87 | 100.0 | /mnt/stockage/packages/f34/xfce4-systemload-plugin/po/hu.po | 
+ | [id](/f34/language/id) | 87 | 87 | 100.0 | /mnt/stockage/packages/f34/xfce4-systemload-plugin/po/id.po | 
+ | [it](/f34/language/it) | 89 | 89 | 100.0 | /mnt/stockage/packages/f34/xfce4-systemload-plugin/po/it.po | 
+ | [ja](/f34/language/ja) | 100 | 100 | 100.0 | /mnt/stockage/packages/f34/xfce4-systemload-plugin/po/ja.po | 
+ | [lt](/f34/language/lt) | 87 | 87 | 100.0 | /mnt/stockage/packages/f34/xfce4-systemload-plugin/po/lt.po | 
+ | [nb_NO](/f34/language/nb_NO) | 100 | 100 | 100.0 | /mnt/stockage/packages/f34/xfce4-systemload-plugin/po/nb.po | 
+ | [nl](/f34/language/nl) | 87 | 87 | 100.0 | /mnt/stockage/packages/f34/xfce4-systemload-plugin/po/nl.po | 
+ | [pl](/f34/language/pl) | 100 | 100 | 100.0 | /mnt/stockage/packages/f34/xfce4-systemload-plugin/po/pl.po | 
+ | [pt](/f34/language/pt) | 100 | 100 | 100.0 | /mnt/stockage/packages/f34/xfce4-systemload-plugin/po/pt.po | 
+ | [pt_BR](/f34/language/pt_BR) | 89 | 89 | 100.0 | /mnt/stockage/packages/f34/xfce4-systemload-plugin/po/pt_BR.po | 
+ | [ru](/f34/language/ru) | 87 | 87 | 100.0 | /mnt/stockage/packages/f34/xfce4-systemload-plugin/po/ru.po | 
+ | [sk](/f34/language/sk) | 95 | 95 | 100.0 | /mnt/stockage/packages/f34/xfce4-systemload-plugin/po/sk.po | 
+ | [sl](/f34/language/sl) | 87 | 87 | 100.0 | /mnt/stockage/packages/f34/xfce4-systemload-plugin/po/sl.po | 
+ | [sq](/f34/language/sq) | 87 | 87 | 100.0 | /mnt/stockage/packages/f34/xfce4-systemload-plugin/po/sq.po | 
+ | [sr](/f34/language/sr) | 87 | 87 | 100.0 | /mnt/stockage/packages/f34/xfce4-systemload-plugin/po/sr.po | 
+ | [tr](/f34/language/tr) | 87 | 87 | 100.0 | /mnt/stockage/packages/f34/xfce4-systemload-plugin/po/tr.po | 
+ | [uk](/f34/language/uk) | 87 | 87 | 100.0 | /mnt/stockage/packages/f34/xfce4-systemload-plugin/po/uk.po | 
+ | [zh_Hans](/f34/language/zh_Hans) | 100 | 100 | 100.0 | /mnt/stockage/packages/f34/xfce4-systemload-plugin/po/zh_CN.po | 
+ | [zh_Hant](/f34/language/zh_Hant) | 105 | 105 | 100.0 | /mnt/stockage/packages/f34/xfce4-systemload-plugin/po/zh_TW.po | 
+ | [el](/f34/language/el) | 84 | 87 | 96.6 | /mnt/stockage/packages/f34/xfce4-systemload-plugin/po/el.po | 
+ | [en_AU](/f34/language/en_AU) | 84 | 87 | 96.6 | /mnt/stockage/packages/f34/xfce4-systemload-plugin/po/en_AU.po | 
+ | [en_CA](/f34/language/en_CA) | 84 | 87 | 96.6 | /mnt/stockage/packages/f34/xfce4-systemload-plugin/po/en_CA.po | 
+ | [fi](/f34/language/fi) | 84 | 87 | 96.6 | /mnt/stockage/packages/f34/xfce4-systemload-plugin/po/fi.po | 
+ | [hr](/f34/language/hr) | 84 | 87 | 96.6 | /mnt/stockage/packages/f34/xfce4-systemload-plugin/po/hr.po | 
+ | [ie](/f34/language/ie) | 84 | 87 | 96.6 | /mnt/stockage/packages/f34/xfce4-systemload-plugin/po/ie.po | 
+ | [is](/f34/language/is) | 84 | 87 | 96.6 | /mnt/stockage/packages/f34/xfce4-systemload-plugin/po/is.po | 
+ | [ko](/f34/language/ko) | 84 | 87 | 96.6 | /mnt/stockage/packages/f34/xfce4-systemload-plugin/po/ko.po | 
+ | [ms](/f34/language/ms) | 84 | 87 | 96.6 | /mnt/stockage/packages/f34/xfce4-systemload-plugin/po/ms.po | 
+ | [th](/f34/language/th) | 84 | 87 | 96.6 | /mnt/stockage/packages/f34/xfce4-systemload-plugin/po/th.po | 
+ | [sv](/f34/language/sv) | 94 | 100 | 94.0 | /mnt/stockage/packages/f34/xfce4-systemload-plugin/po/sv.po | 
+ | [hy](/f34/language/hy) | 76 | 87 | 87.4 | /mnt/stockage/packages/f34/xfce4-systemload-plugin/po/hye.po | 
+ | [oc](/f34/language/oc) | 63 | 87 | 72.4 | /mnt/stockage/packages/f34/xfce4-systemload-plugin/po/oc.po | 
+ | [ast](/f34/language/ast) | 62 | 87 | 71.3 | /mnt/stockage/packages/f34/xfce4-systemload-plugin/po/ast.po | 
+ | [ar](/f34/language/ar) | 61 | 87 | 70.1 | /mnt/stockage/packages/f34/xfce4-systemload-plugin/po/ar.po | 
+ | [ug](/f34/language/ug) | 61 | 87 | 70.1 | /mnt/stockage/packages/f34/xfce4-systemload-plugin/po/ug.po | 
+ | [en_GB](/f34/language/en_GB) | 60 | 87 | 69.0 | /mnt/stockage/packages/f34/xfce4-systemload-plugin/po/en_GB.po | 
+ | [vi](/f34/language/vi) | 39 | 73 | 53.4 | /mnt/stockage/packages/f34/xfce4-systemload-plugin/po/vi.po | 
+ | [lv](/f34/language/lv) | 42 | 87 | 48.3 | /mnt/stockage/packages/f34/xfce4-systemload-plugin/po/lv.po | 
+ | [ur](/f34/language/ur) | 42 | 87 | 48.3 | /mnt/stockage/packages/f34/xfce4-systemload-plugin/po/ur.po | 
+ | [ur_PK](/f34/language/ur_PK) | 42 | 87 | 48.3 | /mnt/stockage/packages/f34/xfce4-systemload-plugin/po/ur_PK.po | 
 {.sortable}
 
 

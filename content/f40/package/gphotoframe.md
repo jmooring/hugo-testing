@@ -18,15 +18,15 @@ The package gphotoframe (version 2.0.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [it]({{< ref "/f40/language/it.md" >}}) | 3495 | 3495 | 100.0 | /mnt/stockage/packages/f40/gphotoframe/help/it/it.po/mnt/stockage/packages/f40/gphotoframe/po/it.po | 
- | [ja]({{< ref "/f40/language/ja.md" >}}) | 3552 | 3552 | 100.0 | /mnt/stockage/packages/f40/gphotoframe/help/ja/ja.po/mnt/stockage/packages/f40/gphotoframe/po/ja.po | 
- | [uk]({{< ref "/f40/language/uk.md" >}}) | 1214 | 1319 | 92.0 | /mnt/stockage/packages/f40/gphotoframe/po/uk.po | 
- | [nl]({{< ref "/f40/language/nl.md" >}}) | 992 | 1322 | 75.0 | /mnt/stockage/packages/f40/gphotoframe/po/nl_NL.po | 
- | [en_GB]({{< ref "/f40/language/en_GB.md" >}}) | 478 | 1319 | 36.2 | /mnt/stockage/packages/f40/gphotoframe/po/en_GB.po | 
- | [sv]({{< ref "/f40/language/sv.md" >}}) | 319 | 1319 | 24.2 | /mnt/stockage/packages/f40/gphotoframe/po/sv.po | 
- | [fr]({{< ref "/f40/language/fr.md" >}}) | 247 | 1319 | 18.7 | /mnt/stockage/packages/f40/gphotoframe/po/fr.po | 
- | [es]({{< ref "/f40/language/es.md" >}}) | 234 | 1319 | 17.7 | /mnt/stockage/packages/f40/gphotoframe/po/es.po | 
- | [te]({{< ref "/f40/language/te.md" >}}) | 43 | 1319 | 3.3 | /mnt/stockage/packages/f40/gphotoframe/po/te.po | 
+ | [it](/f40/language/it) | 3495 | 3495 | 100.0 | /mnt/stockage/packages/f40/gphotoframe/help/it/it.po/mnt/stockage/packages/f40/gphotoframe/po/it.po | 
+ | [ja](/f40/language/ja) | 3552 | 3552 | 100.0 | /mnt/stockage/packages/f40/gphotoframe/help/ja/ja.po/mnt/stockage/packages/f40/gphotoframe/po/ja.po | 
+ | [uk](/f40/language/uk) | 1214 | 1319 | 92.0 | /mnt/stockage/packages/f40/gphotoframe/po/uk.po | 
+ | [nl](/f40/language/nl) | 992 | 1322 | 75.0 | /mnt/stockage/packages/f40/gphotoframe/po/nl_NL.po | 
+ | [en_GB](/f40/language/en_GB) | 478 | 1319 | 36.2 | /mnt/stockage/packages/f40/gphotoframe/po/en_GB.po | 
+ | [sv](/f40/language/sv) | 319 | 1319 | 24.2 | /mnt/stockage/packages/f40/gphotoframe/po/sv.po | 
+ | [fr](/f40/language/fr) | 247 | 1319 | 18.7 | /mnt/stockage/packages/f40/gphotoframe/po/fr.po | 
+ | [es](/f40/language/es) | 234 | 1319 | 17.7 | /mnt/stockage/packages/f40/gphotoframe/po/es.po | 
+ | [te](/f40/language/te) | 43 | 1319 | 3.3 | /mnt/stockage/packages/f40/gphotoframe/po/te.po | 
 {.sortable}
 
 

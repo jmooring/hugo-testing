@@ -18,16 +18,16 @@ The package goaccess (version 1.5.6):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [it]({{< ref "/f34/language/it.md" >}}) | 996 | 1002 | 99.4 | /mnt/stockage/packages/f34/goaccess/po/it.po | 
- | [sv]({{< ref "/f34/language/sv.md" >}}) | 990 | 1002 | 98.8 | /mnt/stockage/packages/f34/goaccess/po/sv.po | 
- | [de]({{< ref "/f34/language/de.md" >}}) | 983 | 1002 | 98.1 | /mnt/stockage/packages/f34/goaccess/po/de.po | 
- | [ru]({{< ref "/f34/language/ru.md" >}}) | 960 | 1002 | 95.8 | /mnt/stockage/packages/f34/goaccess/po/ru.po | 
- | [uk]({{< ref "/f34/language/uk.md" >}}) | 960 | 1002 | 95.8 | /mnt/stockage/packages/f34/goaccess/po/uk.po | 
- | [ja]({{< ref "/f34/language/ja.md" >}}) | 956 | 1002 | 95.4 | /mnt/stockage/packages/f34/goaccess/po/ja.po | 
- | [fr]({{< ref "/f34/language/fr.md" >}}) | 955 | 1002 | 95.3 | /mnt/stockage/packages/f34/goaccess/po/fr.po | 
- | [zh_Hans]({{< ref "/f34/language/zh_Hans.md" >}}) | 942 | 1002 | 94.0 | /mnt/stockage/packages/f34/goaccess/po/zh_CN.po | 
- | [pt_BR]({{< ref "/f34/language/pt_BR.md" >}}) | 939 | 1002 | 93.7 | /mnt/stockage/packages/f34/goaccess/po/pt_BR.po | 
- | [es]({{< ref "/f34/language/es.md" >}}) | 933 | 1002 | 93.1 | /mnt/stockage/packages/f34/goaccess/po/es.po | 
+ | [it](/f34/language/it) | 996 | 1002 | 99.4 | /mnt/stockage/packages/f34/goaccess/po/it.po | 
+ | [sv](/f34/language/sv) | 990 | 1002 | 98.8 | /mnt/stockage/packages/f34/goaccess/po/sv.po | 
+ | [de](/f34/language/de) | 983 | 1002 | 98.1 | /mnt/stockage/packages/f34/goaccess/po/de.po | 
+ | [ru](/f34/language/ru) | 960 | 1002 | 95.8 | /mnt/stockage/packages/f34/goaccess/po/ru.po | 
+ | [uk](/f34/language/uk) | 960 | 1002 | 95.8 | /mnt/stockage/packages/f34/goaccess/po/uk.po | 
+ | [ja](/f34/language/ja) | 956 | 1002 | 95.4 | /mnt/stockage/packages/f34/goaccess/po/ja.po | 
+ | [fr](/f34/language/fr) | 955 | 1002 | 95.3 | /mnt/stockage/packages/f34/goaccess/po/fr.po | 
+ | [zh_Hans](/f34/language/zh_Hans) | 942 | 1002 | 94.0 | /mnt/stockage/packages/f34/goaccess/po/zh_CN.po | 
+ | [pt_BR](/f34/language/pt_BR) | 939 | 1002 | 93.7 | /mnt/stockage/packages/f34/goaccess/po/pt_BR.po | 
+ | [es](/f34/language/es) | 933 | 1002 | 93.1 | /mnt/stockage/packages/f34/goaccess/po/es.po | 
 {.sortable}
 
 

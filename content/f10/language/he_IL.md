@@ -38,13 +38,13 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [gnomesword]({{< ref "/f10/package/gnomesword.md" >}}) | 2415 | 2415 | 100.0 | GnomeSword Translation Team | 
- | [xiphos]({{< ref "/f10/package/xiphos.md" >}}) | 2743 | 2743 | 100.0 | Xiphos Translation Team | 
- | [exaile]({{< ref "/f10/package/exaile.md" >}}) | 1165 | 1333 | 87.4 | Hebrew <LL@li.org> | 
- | [filezilla]({{< ref "/f10/package/filezilla.md" >}}) | 3077 | 6860 | 44.9 | ABZPMGDNHM7 (please do not remove) | 
- | [squirrelmail]({{< ref "/f10/package/squirrelmail.md" >}}) | 2440 | 6878 | 35.5 | HEBREW <squirrelmail-i18n@lists.sourceforge.net> | 
- | [horde]({{< ref "/f10/package/horde.md" >}}) | 209 | 7103 | 2.9 | i18n@lists.horde.org | 
- | [imp]({{< ref "/f10/package/imp.md" >}}) | 73 | 5647 | 1.3 | i18n@lists.horde.org | 
+ | [gnomesword](/f10/package/gnomesword) | 2415 | 2415 | 100.0 | GnomeSword Translation Team | 
+ | [xiphos](/f10/package/xiphos) | 2743 | 2743 | 100.0 | Xiphos Translation Team | 
+ | [exaile](/f10/package/exaile) | 1165 | 1333 | 87.4 | Hebrew <LL@li.org> | 
+ | [filezilla](/f10/package/filezilla) | 3077 | 6860 | 44.9 | ABZPMGDNHM7 (please do not remove) | 
+ | [squirrelmail](/f10/package/squirrelmail) | 2440 | 6878 | 35.5 | HEBREW <squirrelmail-i18n@lists.sourceforge.net> | 
+ | [horde](/f10/package/horde) | 209 | 7103 | 2.9 | i18n@lists.horde.org | 
+ | [imp](/f10/package/imp) | 73 | 5647 | 1.3 | i18n@lists.horde.org | 
 {.sortable}
 
 

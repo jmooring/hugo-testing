@@ -18,32 +18,32 @@ The package bluefish (version 1.0.7):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f11/language/de.md" >}}) | 2882 | 2882 | 100.0 | /mnt/stockage/packages/f11/bluefish/po/de.po | 
- | [fr]({{< ref "/f11/language/fr.md" >}}) | 2883 | 2883 | 100.0 | /mnt/stockage/packages/f11/bluefish/po/fr.po | 
- | [ja]({{< ref "/f11/language/ja.md" >}}) | 2883 | 2883 | 100.0 | /mnt/stockage/packages/f11/bluefish/po/ja.po | 
- | [pl]({{< ref "/f11/language/pl.md" >}}) | 2882 | 2882 | 100.0 | /mnt/stockage/packages/f11/bluefish/po/pl.po | 
- | [nb_NO]({{< ref "/f11/language/nb_NO.md" >}}) | 2854 | 2882 | 99.0 | /mnt/stockage/packages/f11/bluefish/po/no.po | 
- | [fi]({{< ref "/f11/language/fi.md" >}}) | 2702 | 2882 | 93.8 | /mnt/stockage/packages/f11/bluefish/po/fi.po | 
- | [sk]({{< ref "/f11/language/sk.md" >}}) | 2702 | 2882 | 93.8 | /mnt/stockage/packages/f11/bluefish/po/sk.po | 
- | [ta]({{< ref "/f11/language/ta.md" >}}) | 2702 | 2882 | 93.8 | /mnt/stockage/packages/f11/bluefish/po/ta.po | 
- | [zh_Hans]({{< ref "/f11/language/zh_Hans.md" >}}) | 2702 | 2882 | 93.8 | /mnt/stockage/packages/f11/bluefish/po/zh_CN.po | 
- | [es]({{< ref "/f11/language/es.md" >}}) | 2697 | 2882 | 93.6 | /mnt/stockage/packages/f11/bluefish/po/es.po | 
- | [it]({{< ref "/f11/language/it.md" >}}) | 2579 | 2882 | 89.5 | /mnt/stockage/packages/f11/bluefish/po/it.po | 
- | [da]({{< ref "/f11/language/da.md" >}}) | 2521 | 2882 | 87.5 | /mnt/stockage/packages/f11/bluefish/po/da.po | 
- | [pt]({{< ref "/f11/language/pt.md" >}}) | 2521 | 2882 | 87.5 | /mnt/stockage/packages/f11/bluefish/po/pt.po | 
- | [zh_Hant]({{< ref "/f11/language/zh_Hant.md" >}}) | 2521 | 2882 | 87.5 | /mnt/stockage/packages/f11/bluefish/po/zh_TW.po | 
- | [sv]({{< ref "/f11/language/sv.md" >}}) | 2494 | 2882 | 86.5 | /mnt/stockage/packages/f11/bluefish/po/sv.po | 
- | [sr]({{< ref "/f11/language/sr.md" >}}) | 2467 | 2882 | 85.6 | /mnt/stockage/packages/f11/bluefish/po/sr.po | 
- | [cs]({{< ref "/f11/language/cs.md" >}}) | 2451 | 2882 | 85.0 | /mnt/stockage/packages/f11/bluefish/po/cs.po | 
- | [eu]({{< ref "/f11/language/eu.md" >}}) | 2451 | 2882 | 85.0 | /mnt/stockage/packages/f11/bluefish/po/eu.po | 
- | [pt_BR]({{< ref "/f11/language/pt_BR.md" >}}) | 2451 | 2882 | 85.0 | /mnt/stockage/packages/f11/bluefish/po/pt_BR.po | 
- | [ru]({{< ref "/f11/language/ru.md" >}}) | 2451 | 2882 | 85.0 | /mnt/stockage/packages/f11/bluefish/po/ru.po | 
- | [tr]({{< ref "/f11/language/tr.md" >}}) | 2295 | 2882 | 79.6 | /mnt/stockage/packages/f11/bluefish/po/tr.po | 
- | [bg]({{< ref "/f11/language/bg.md" >}}) | 2221 | 2882 | 77.1 | /mnt/stockage/packages/f11/bluefish/po/bg.po | 
- | [hu]({{< ref "/f11/language/hu.md" >}}) | 2221 | 2882 | 77.1 | /mnt/stockage/packages/f11/bluefish/po/hu.po | 
- | [el]({{< ref "/f11/language/el.md" >}}) | 541 | 2882 | 18.8 | /mnt/stockage/packages/f11/bluefish/po/el.po | 
- | [nl]({{< ref "/f11/language/nl.md" >}}) | 526 | 2882 | 18.3 | /mnt/stockage/packages/f11/bluefish/po/nl.po | 
- | [ro]({{< ref "/f11/language/ro.md" >}}) | 166 | 2882 | 5.8 | /mnt/stockage/packages/f11/bluefish/po/ro.po | 
+ | [de](/f11/language/de) | 2882 | 2882 | 100.0 | /mnt/stockage/packages/f11/bluefish/po/de.po | 
+ | [fr](/f11/language/fr) | 2883 | 2883 | 100.0 | /mnt/stockage/packages/f11/bluefish/po/fr.po | 
+ | [ja](/f11/language/ja) | 2883 | 2883 | 100.0 | /mnt/stockage/packages/f11/bluefish/po/ja.po | 
+ | [pl](/f11/language/pl) | 2882 | 2882 | 100.0 | /mnt/stockage/packages/f11/bluefish/po/pl.po | 
+ | [nb_NO](/f11/language/nb_NO) | 2854 | 2882 | 99.0 | /mnt/stockage/packages/f11/bluefish/po/no.po | 
+ | [fi](/f11/language/fi) | 2702 | 2882 | 93.8 | /mnt/stockage/packages/f11/bluefish/po/fi.po | 
+ | [sk](/f11/language/sk) | 2702 | 2882 | 93.8 | /mnt/stockage/packages/f11/bluefish/po/sk.po | 
+ | [ta](/f11/language/ta) | 2702 | 2882 | 93.8 | /mnt/stockage/packages/f11/bluefish/po/ta.po | 
+ | [zh_Hans](/f11/language/zh_Hans) | 2702 | 2882 | 93.8 | /mnt/stockage/packages/f11/bluefish/po/zh_CN.po | 
+ | [es](/f11/language/es) | 2697 | 2882 | 93.6 | /mnt/stockage/packages/f11/bluefish/po/es.po | 
+ | [it](/f11/language/it) | 2579 | 2882 | 89.5 | /mnt/stockage/packages/f11/bluefish/po/it.po | 
+ | [da](/f11/language/da) | 2521 | 2882 | 87.5 | /mnt/stockage/packages/f11/bluefish/po/da.po | 
+ | [pt](/f11/language/pt) | 2521 | 2882 | 87.5 | /mnt/stockage/packages/f11/bluefish/po/pt.po | 
+ | [zh_Hant](/f11/language/zh_Hant) | 2521 | 2882 | 87.5 | /mnt/stockage/packages/f11/bluefish/po/zh_TW.po | 
+ | [sv](/f11/language/sv) | 2494 | 2882 | 86.5 | /mnt/stockage/packages/f11/bluefish/po/sv.po | 
+ | [sr](/f11/language/sr) | 2467 | 2882 | 85.6 | /mnt/stockage/packages/f11/bluefish/po/sr.po | 
+ | [cs](/f11/language/cs) | 2451 | 2882 | 85.0 | /mnt/stockage/packages/f11/bluefish/po/cs.po | 
+ | [eu](/f11/language/eu) | 2451 | 2882 | 85.0 | /mnt/stockage/packages/f11/bluefish/po/eu.po | 
+ | [pt_BR](/f11/language/pt_BR) | 2451 | 2882 | 85.0 | /mnt/stockage/packages/f11/bluefish/po/pt_BR.po | 
+ | [ru](/f11/language/ru) | 2451 | 2882 | 85.0 | /mnt/stockage/packages/f11/bluefish/po/ru.po | 
+ | [tr](/f11/language/tr) | 2295 | 2882 | 79.6 | /mnt/stockage/packages/f11/bluefish/po/tr.po | 
+ | [bg](/f11/language/bg) | 2221 | 2882 | 77.1 | /mnt/stockage/packages/f11/bluefish/po/bg.po | 
+ | [hu](/f11/language/hu) | 2221 | 2882 | 77.1 | /mnt/stockage/packages/f11/bluefish/po/hu.po | 
+ | [el](/f11/language/el) | 541 | 2882 | 18.8 | /mnt/stockage/packages/f11/bluefish/po/el.po | 
+ | [nl](/f11/language/nl) | 526 | 2882 | 18.3 | /mnt/stockage/packages/f11/bluefish/po/nl.po | 
+ | [ro](/f11/language/ro) | 166 | 2882 | 5.8 | /mnt/stockage/packages/f11/bluefish/po/ro.po | 
 {.sortable}
 
 

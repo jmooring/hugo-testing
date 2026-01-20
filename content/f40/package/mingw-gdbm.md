@@ -18,16 +18,16 @@ The package mingw-gdbm (version 1.11):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [eo]({{< ref "/f40/language/eo.md" >}}) | 663 | 699 | 94.8 | /mnt/stockage/packages/f40/mingw-gdbm/po/eo.po | 
- | [fi]({{< ref "/f40/language/fi.md" >}}) | 663 | 699 | 94.8 | /mnt/stockage/packages/f40/mingw-gdbm/po/fi.po | 
- | [pl]({{< ref "/f40/language/pl.md" >}}) | 663 | 699 | 94.8 | /mnt/stockage/packages/f40/mingw-gdbm/po/pl.po | 
- | [pt_BR]({{< ref "/f40/language/pt_BR.md" >}}) | 663 | 699 | 94.8 | /mnt/stockage/packages/f40/mingw-gdbm/po/pt_BR.po | 
- | [sr]({{< ref "/f40/language/sr.md" >}}) | 663 | 699 | 94.8 | /mnt/stockage/packages/f40/mingw-gdbm/po/sr.po | 
- | [uk]({{< ref "/f40/language/uk.md" >}}) | 663 | 699 | 94.8 | /mnt/stockage/packages/f40/mingw-gdbm/po/uk.po | 
- | [vi]({{< ref "/f40/language/vi.md" >}}) | 663 | 699 | 94.8 | /mnt/stockage/packages/f40/mingw-gdbm/po/vi.po | 
- | [de]({{< ref "/f40/language/de.md" >}}) | 301 | 699 | 43.1 | /mnt/stockage/packages/f40/mingw-gdbm/po/de.po | 
- | [fr]({{< ref "/f40/language/fr.md" >}}) | 301 | 699 | 43.1 | /mnt/stockage/packages/f40/mingw-gdbm/po/fr.po | 
- | [ja]({{< ref "/f40/language/ja.md" >}}) | 301 | 699 | 43.1 | /mnt/stockage/packages/f40/mingw-gdbm/po/ja.po | 
+ | [eo](/f40/language/eo) | 663 | 699 | 94.8 | /mnt/stockage/packages/f40/mingw-gdbm/po/eo.po | 
+ | [fi](/f40/language/fi) | 663 | 699 | 94.8 | /mnt/stockage/packages/f40/mingw-gdbm/po/fi.po | 
+ | [pl](/f40/language/pl) | 663 | 699 | 94.8 | /mnt/stockage/packages/f40/mingw-gdbm/po/pl.po | 
+ | [pt_BR](/f40/language/pt_BR) | 663 | 699 | 94.8 | /mnt/stockage/packages/f40/mingw-gdbm/po/pt_BR.po | 
+ | [sr](/f40/language/sr) | 663 | 699 | 94.8 | /mnt/stockage/packages/f40/mingw-gdbm/po/sr.po | 
+ | [uk](/f40/language/uk) | 663 | 699 | 94.8 | /mnt/stockage/packages/f40/mingw-gdbm/po/uk.po | 
+ | [vi](/f40/language/vi) | 663 | 699 | 94.8 | /mnt/stockage/packages/f40/mingw-gdbm/po/vi.po | 
+ | [de](/f40/language/de) | 301 | 699 | 43.1 | /mnt/stockage/packages/f40/mingw-gdbm/po/de.po | 
+ | [fr](/f40/language/fr) | 301 | 699 | 43.1 | /mnt/stockage/packages/f40/mingw-gdbm/po/fr.po | 
+ | [ja](/f40/language/ja) | 301 | 699 | 43.1 | /mnt/stockage/packages/f40/mingw-gdbm/po/ja.po | 
 {.sortable}
 
 

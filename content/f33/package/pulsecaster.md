@@ -18,29 +18,29 @@ The package pulsecaster (version 0.9):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f33/language/cs.md" >}}) | 214 | 214 | 100.0 | /mnt/stockage/packages/f33/pulsecaster/po/cs.po | 
- | [he]({{< ref "/f33/language/he.md" >}}) | 214 | 214 | 100.0 | /mnt/stockage/packages/f33/pulsecaster/po/he.po | 
- | [hu]({{< ref "/f33/language/hu.md" >}}) | 214 | 214 | 100.0 | /mnt/stockage/packages/f33/pulsecaster/po/hu.po | 
- | [lt]({{< ref "/f33/language/lt.md" >}}) | 214 | 214 | 100.0 | /mnt/stockage/packages/f33/pulsecaster/po/lt.po | 
- | [pl]({{< ref "/f33/language/pl.md" >}}) | 214 | 214 | 100.0 | /mnt/stockage/packages/f33/pulsecaster/po/pl.po | 
- | [ru]({{< ref "/f33/language/ru.md" >}}) | 214 | 214 | 100.0 | /mnt/stockage/packages/f33/pulsecaster/po/ru.po | 
- | [sr]({{< ref "/f33/language/sr.md" >}}) | 214 | 214 | 100.0 | /mnt/stockage/packages/f33/pulsecaster/po/sr.po | 
- | [uk]({{< ref "/f33/language/uk.md" >}}) | 214 | 214 | 100.0 | /mnt/stockage/packages/f33/pulsecaster/po/uk.po | 
- | [da]({{< ref "/f33/language/da.md" >}}) | 140 | 214 | 65.4 | /mnt/stockage/packages/f33/pulsecaster/po/da.po | 
- | [de]({{< ref "/f33/language/de.md" >}}) | 280 | 428 | 65.4 | /mnt/stockage/packages/f33/pulsecaster/po/de_DE.po/mnt/stockage/packages/f33/pulsecaster/po/de.po | 
- | [el]({{< ref "/f33/language/el.md" >}}) | 140 | 214 | 65.4 | /mnt/stockage/packages/f33/pulsecaster/po/el.po | 
- | [es]({{< ref "/f33/language/es.md" >}}) | 140 | 214 | 65.4 | /mnt/stockage/packages/f33/pulsecaster/po/es.po | 
- | [fr]({{< ref "/f33/language/fr.md" >}}) | 140 | 214 | 65.4 | /mnt/stockage/packages/f33/pulsecaster/po/fr.po | 
- | [it]({{< ref "/f33/language/it.md" >}}) | 140 | 214 | 65.4 | /mnt/stockage/packages/f33/pulsecaster/po/it.po | 
- | [ja]({{< ref "/f33/language/ja.md" >}}) | 140 | 214 | 65.4 | /mnt/stockage/packages/f33/pulsecaster/po/ja.po | 
- | [zh_Hant]({{< ref "/f33/language/zh_Hant.md" >}}) | 103 | 214 | 48.1 | /mnt/stockage/packages/f33/pulsecaster/po/zh_TW.po | 
- | [nl]({{< ref "/f33/language/nl.md" >}}) | 94 | 214 | 43.9 | /mnt/stockage/packages/f33/pulsecaster/po/nl.po | 
- | [pt_PT]({{< ref "/f33/language/pt_PT.md" >}}) | 94 | 214 | 43.9 | /mnt/stockage/packages/f33/pulsecaster/po/pt_PT.po | 
- | [zh_Hans]({{< ref "/f33/language/zh_Hans.md" >}}) | 94 | 214 | 43.9 | /mnt/stockage/packages/f33/pulsecaster/po/zh_CN.po | 
- | [es_MX]({{< ref "/f33/language/es_MX.md" >}}) | 3 | 214 | 1.4 | /mnt/stockage/packages/f33/pulsecaster/po/es_MX.po | 
- | [gl]({{< ref "/f33/language/gl.md" >}}) | 3 | 214 | 1.4 | /mnt/stockage/packages/f33/pulsecaster/po/gl.po | 
- | [nb_NO]({{< ref "/f33/language/nb_NO.md" >}}) | 0 | 214 | 0.0 | /mnt/stockage/packages/f33/pulsecaster/po/no.po | 
- | [pt_BR]({{< ref "/f33/language/pt_BR.md" >}}) | 0 | 214 | 0.0 | /mnt/stockage/packages/f33/pulsecaster/po/pt_BR.po | 
+ | [cs](/f33/language/cs) | 214 | 214 | 100.0 | /mnt/stockage/packages/f33/pulsecaster/po/cs.po | 
+ | [he](/f33/language/he) | 214 | 214 | 100.0 | /mnt/stockage/packages/f33/pulsecaster/po/he.po | 
+ | [hu](/f33/language/hu) | 214 | 214 | 100.0 | /mnt/stockage/packages/f33/pulsecaster/po/hu.po | 
+ | [lt](/f33/language/lt) | 214 | 214 | 100.0 | /mnt/stockage/packages/f33/pulsecaster/po/lt.po | 
+ | [pl](/f33/language/pl) | 214 | 214 | 100.0 | /mnt/stockage/packages/f33/pulsecaster/po/pl.po | 
+ | [ru](/f33/language/ru) | 214 | 214 | 100.0 | /mnt/stockage/packages/f33/pulsecaster/po/ru.po | 
+ | [sr](/f33/language/sr) | 214 | 214 | 100.0 | /mnt/stockage/packages/f33/pulsecaster/po/sr.po | 
+ | [uk](/f33/language/uk) | 214 | 214 | 100.0 | /mnt/stockage/packages/f33/pulsecaster/po/uk.po | 
+ | [da](/f33/language/da) | 140 | 214 | 65.4 | /mnt/stockage/packages/f33/pulsecaster/po/da.po | 
+ | [de](/f33/language/de) | 280 | 428 | 65.4 | /mnt/stockage/packages/f33/pulsecaster/po/de_DE.po/mnt/stockage/packages/f33/pulsecaster/po/de.po | 
+ | [el](/f33/language/el) | 140 | 214 | 65.4 | /mnt/stockage/packages/f33/pulsecaster/po/el.po | 
+ | [es](/f33/language/es) | 140 | 214 | 65.4 | /mnt/stockage/packages/f33/pulsecaster/po/es.po | 
+ | [fr](/f33/language/fr) | 140 | 214 | 65.4 | /mnt/stockage/packages/f33/pulsecaster/po/fr.po | 
+ | [it](/f33/language/it) | 140 | 214 | 65.4 | /mnt/stockage/packages/f33/pulsecaster/po/it.po | 
+ | [ja](/f33/language/ja) | 140 | 214 | 65.4 | /mnt/stockage/packages/f33/pulsecaster/po/ja.po | 
+ | [zh_Hant](/f33/language/zh_Hant) | 103 | 214 | 48.1 | /mnt/stockage/packages/f33/pulsecaster/po/zh_TW.po | 
+ | [nl](/f33/language/nl) | 94 | 214 | 43.9 | /mnt/stockage/packages/f33/pulsecaster/po/nl.po | 
+ | [pt_PT](/f33/language/pt_PT) | 94 | 214 | 43.9 | /mnt/stockage/packages/f33/pulsecaster/po/pt_PT.po | 
+ | [zh_Hans](/f33/language/zh_Hans) | 94 | 214 | 43.9 | /mnt/stockage/packages/f33/pulsecaster/po/zh_CN.po | 
+ | [es_MX](/f33/language/es_MX) | 3 | 214 | 1.4 | /mnt/stockage/packages/f33/pulsecaster/po/es_MX.po | 
+ | [gl](/f33/language/gl) | 3 | 214 | 1.4 | /mnt/stockage/packages/f33/pulsecaster/po/gl.po | 
+ | [nb_NO](/f33/language/nb_NO) | 0 | 214 | 0.0 | /mnt/stockage/packages/f33/pulsecaster/po/no.po | 
+ | [pt_BR](/f33/language/pt_BR) | 0 | 214 | 0.0 | /mnt/stockage/packages/f33/pulsecaster/po/pt_BR.po | 
 {.sortable}
 
 

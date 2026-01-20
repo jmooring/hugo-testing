@@ -39,7 +39,7 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [transmission]({{< ref "/f16/package/transmission.md" >}}) | 213 | 1528 | 13.9 | Kurdish (Sorani) <ckb@li.org> | 
+ | [transmission](/f16/package/transmission) | 213 | 1528 | 13.9 | Kurdish (Sorani) <ckb@li.org> | 
 {.sortable}
 
 

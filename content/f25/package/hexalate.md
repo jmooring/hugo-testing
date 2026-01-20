@@ -18,23 +18,23 @@ The package hexalate (version 1.1.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f25/language/de.md" >}}) | 60 | 60 | 100.0 | /mnt/stockage/packages/f25/hexalate/icons/po/de.po | 
- | [es]({{< ref "/f25/language/es.md" >}}) | 60 | 60 | 100.0 | /mnt/stockage/packages/f25/hexalate/icons/po/es.po | 
- | [hu]({{< ref "/f25/language/hu.md" >}}) | 60 | 60 | 100.0 | /mnt/stockage/packages/f25/hexalate/icons/po/hu.po | 
- | [lt]({{< ref "/f25/language/lt.md" >}}) | 60 | 60 | 100.0 | /mnt/stockage/packages/f25/hexalate/icons/po/lt.po | 
- | [ms]({{< ref "/f25/language/ms.md" >}}) | 60 | 60 | 100.0 | /mnt/stockage/packages/f25/hexalate/icons/po/ms.po | 
- | [nl]({{< ref "/f25/language/nl.md" >}}) | 60 | 60 | 100.0 | /mnt/stockage/packages/f25/hexalate/icons/po/nl.po | 
- | [pl]({{< ref "/f25/language/pl.md" >}}) | 60 | 60 | 100.0 | /mnt/stockage/packages/f25/hexalate/icons/po/pl.po | 
- | [ro]({{< ref "/f25/language/ro.md" >}}) | 60 | 60 | 100.0 | /mnt/stockage/packages/f25/hexalate/icons/po/ro.po | 
- | [ru]({{< ref "/f25/language/ru.md" >}}) | 60 | 60 | 100.0 | /mnt/stockage/packages/f25/hexalate/icons/po/ru.po | 
- | [cs]({{< ref "/f25/language/cs.md" >}}) | 9 | 60 | 15.0 | /mnt/stockage/packages/f25/hexalate/icons/po/cs.po | 
- | [pt_BR]({{< ref "/f25/language/pt_BR.md" >}}) | 4 | 60 | 6.7 | /mnt/stockage/packages/f25/hexalate/icons/po/pt_BR.po | 
- | [tr]({{< ref "/f25/language/tr.md" >}}) | 4 | 60 | 6.7 | /mnt/stockage/packages/f25/hexalate/icons/po/tr.po | 
- | [ca]({{< ref "/f25/language/ca.md" >}}) | 0 | 60 | 0.0 | /mnt/stockage/packages/f25/hexalate/icons/po/ca.po | 
- | [el]({{< ref "/f25/language/el.md" >}}) | 0 | 60 | 0.0 | /mnt/stockage/packages/f25/hexalate/icons/po/el.po | 
- | [et]({{< ref "/f25/language/et.md" >}}) | 0 | 60 | 0.0 | /mnt/stockage/packages/f25/hexalate/icons/po/et.po | 
- | [fr]({{< ref "/f25/language/fr.md" >}}) | 0 | 60 | 0.0 | /mnt/stockage/packages/f25/hexalate/icons/po/fr.po | 
- | [it]({{< ref "/f25/language/it.md" >}}) | 0 | 60 | 0.0 | /mnt/stockage/packages/f25/hexalate/icons/po/it.po | 
+ | [de](/f25/language/de) | 60 | 60 | 100.0 | /mnt/stockage/packages/f25/hexalate/icons/po/de.po | 
+ | [es](/f25/language/es) | 60 | 60 | 100.0 | /mnt/stockage/packages/f25/hexalate/icons/po/es.po | 
+ | [hu](/f25/language/hu) | 60 | 60 | 100.0 | /mnt/stockage/packages/f25/hexalate/icons/po/hu.po | 
+ | [lt](/f25/language/lt) | 60 | 60 | 100.0 | /mnt/stockage/packages/f25/hexalate/icons/po/lt.po | 
+ | [ms](/f25/language/ms) | 60 | 60 | 100.0 | /mnt/stockage/packages/f25/hexalate/icons/po/ms.po | 
+ | [nl](/f25/language/nl) | 60 | 60 | 100.0 | /mnt/stockage/packages/f25/hexalate/icons/po/nl.po | 
+ | [pl](/f25/language/pl) | 60 | 60 | 100.0 | /mnt/stockage/packages/f25/hexalate/icons/po/pl.po | 
+ | [ro](/f25/language/ro) | 60 | 60 | 100.0 | /mnt/stockage/packages/f25/hexalate/icons/po/ro.po | 
+ | [ru](/f25/language/ru) | 60 | 60 | 100.0 | /mnt/stockage/packages/f25/hexalate/icons/po/ru.po | 
+ | [cs](/f25/language/cs) | 9 | 60 | 15.0 | /mnt/stockage/packages/f25/hexalate/icons/po/cs.po | 
+ | [pt_BR](/f25/language/pt_BR) | 4 | 60 | 6.7 | /mnt/stockage/packages/f25/hexalate/icons/po/pt_BR.po | 
+ | [tr](/f25/language/tr) | 4 | 60 | 6.7 | /mnt/stockage/packages/f25/hexalate/icons/po/tr.po | 
+ | [ca](/f25/language/ca) | 0 | 60 | 0.0 | /mnt/stockage/packages/f25/hexalate/icons/po/ca.po | 
+ | [el](/f25/language/el) | 0 | 60 | 0.0 | /mnt/stockage/packages/f25/hexalate/icons/po/el.po | 
+ | [et](/f25/language/et) | 0 | 60 | 0.0 | /mnt/stockage/packages/f25/hexalate/icons/po/et.po | 
+ | [fr](/f25/language/fr) | 0 | 60 | 0.0 | /mnt/stockage/packages/f25/hexalate/icons/po/fr.po | 
+ | [it](/f25/language/it) | 0 | 60 | 0.0 | /mnt/stockage/packages/f25/hexalate/icons/po/it.po | 
 {.sortable}
 
 

@@ -18,7 +18,7 @@ The package oooqs2 (version 1.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f7/language/de.md" >}}) | 229 | 253 | 90.5 | /mnt/stockage/packages/f7/oooqs2/po/de.po | 
+ | [de](/f7/language/de) | 229 | 253 | 90.5 | /mnt/stockage/packages/f7/oooqs2/po/de.po | 
 {.sortable}
 
 

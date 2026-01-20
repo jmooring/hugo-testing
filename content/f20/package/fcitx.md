@@ -18,11 +18,11 @@ The package fcitx (version 4.2.8.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [zh_Hans]({{< ref "/f20/language/zh_Hans.md" >}}) | 3280 | 3280 | 100.0 | /mnt/stockage/packages/f20/fcitx/po/zh_CN.po | 
- | [de]({{< ref "/f20/language/de.md" >}}) | 3071 | 3280 | 93.6 | /mnt/stockage/packages/f20/fcitx/po/de.po | 
- | [ja]({{< ref "/f20/language/ja.md" >}}) | 2827 | 3280 | 86.2 | /mnt/stockage/packages/f20/fcitx/po/ja.po | 
- | [zh_Hant]({{< ref "/f20/language/zh_Hant.md" >}}) | 2585 | 3280 | 78.8 | /mnt/stockage/packages/f20/fcitx/po/zh_TW.po | 
- | [es]({{< ref "/f20/language/es.md" >}}) | 188 | 3280 | 5.7 | /mnt/stockage/packages/f20/fcitx/po/es.po | 
+ | [zh_Hans](/f20/language/zh_Hans) | 3280 | 3280 | 100.0 | /mnt/stockage/packages/f20/fcitx/po/zh_CN.po | 
+ | [de](/f20/language/de) | 3071 | 3280 | 93.6 | /mnt/stockage/packages/f20/fcitx/po/de.po | 
+ | [ja](/f20/language/ja) | 2827 | 3280 | 86.2 | /mnt/stockage/packages/f20/fcitx/po/ja.po | 
+ | [zh_Hant](/f20/language/zh_Hant) | 2585 | 3280 | 78.8 | /mnt/stockage/packages/f20/fcitx/po/zh_TW.po | 
+ | [es](/f20/language/es) | 188 | 3280 | 5.7 | /mnt/stockage/packages/f20/fcitx/po/es.po | 
 {.sortable}
 
 

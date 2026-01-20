@@ -18,28 +18,28 @@ The package phodav (version 2.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f32/language/cs.md" >}}) | 63 | 63 | 100.0 | /mnt/stockage/packages/f32/phodav/po/cs.po | 
- | [da]({{< ref "/f32/language/da.md" >}}) | 63 | 63 | 100.0 | /mnt/stockage/packages/f32/phodav/po/da.po | 
- | [de]({{< ref "/f32/language/de.md" >}}) | 63 | 63 | 100.0 | /mnt/stockage/packages/f32/phodav/po/de.po | 
- | [es]({{< ref "/f32/language/es.md" >}}) | 63 | 63 | 100.0 | /mnt/stockage/packages/f32/phodav/po/es.po | 
- | [eu]({{< ref "/f32/language/eu.md" >}}) | 63 | 63 | 100.0 | /mnt/stockage/packages/f32/phodav/po/eu.po | 
- | [fi]({{< ref "/f32/language/fi.md" >}}) | 63 | 63 | 100.0 | /mnt/stockage/packages/f32/phodav/po/fi.po | 
- | [fur]({{< ref "/f32/language/fur.md" >}}) | 63 | 63 | 100.0 | /mnt/stockage/packages/f32/phodav/po/fur.po | 
- | [hr]({{< ref "/f32/language/hr.md" >}}) | 63 | 63 | 100.0 | /mnt/stockage/packages/f32/phodav/po/hr.po | 
- | [hu]({{< ref "/f32/language/hu.md" >}}) | 63 | 63 | 100.0 | /mnt/stockage/packages/f32/phodav/po/hu.po | 
- | [id]({{< ref "/f32/language/id.md" >}}) | 63 | 63 | 100.0 | /mnt/stockage/packages/f32/phodav/po/id.po | 
- | [nl]({{< ref "/f32/language/nl.md" >}}) | 63 | 63 | 100.0 | /mnt/stockage/packages/f32/phodav/po/nl.po | 
- | [pl]({{< ref "/f32/language/pl.md" >}}) | 63 | 63 | 100.0 | /mnt/stockage/packages/f32/phodav/po/pl.po | 
- | [pt_BR]({{< ref "/f32/language/pt_BR.md" >}}) | 63 | 63 | 100.0 | /mnt/stockage/packages/f32/phodav/po/pt_BR.po | 
- | [ro]({{< ref "/f32/language/ro.md" >}}) | 63 | 63 | 100.0 | /mnt/stockage/packages/f32/phodav/po/ro.po | 
- | [sl]({{< ref "/f32/language/sl.md" >}}) | 63 | 63 | 100.0 | /mnt/stockage/packages/f32/phodav/po/sl.po | 
- | [sr]({{< ref "/f32/language/sr.md" >}}) | 63 | 63 | 100.0 | /mnt/stockage/packages/f32/phodav/po/sr.po | 
- | [sr_Latn]({{< ref "/f32/language/sr_Latn.md" >}}) | 63 | 63 | 100.0 | /mnt/stockage/packages/f32/phodav/po/sr@latin.po | 
- | [sv]({{< ref "/f32/language/sv.md" >}}) | 63 | 63 | 100.0 | /mnt/stockage/packages/f32/phodav/po/sv.po | 
- | [tr]({{< ref "/f32/language/tr.md" >}}) | 63 | 63 | 100.0 | /mnt/stockage/packages/f32/phodav/po/tr.po | 
- | [bs]({{< ref "/f32/language/bs.md" >}}) | 31 | 63 | 49.2 | /mnt/stockage/packages/f32/phodav/po/bs.po | 
- | [el]({{< ref "/f32/language/el.md" >}}) | 31 | 63 | 49.2 | /mnt/stockage/packages/f32/phodav/po/el.po | 
- | [pt]({{< ref "/f32/language/pt.md" >}}) | 31 | 63 | 49.2 | /mnt/stockage/packages/f32/phodav/po/pt.po | 
+ | [cs](/f32/language/cs) | 63 | 63 | 100.0 | /mnt/stockage/packages/f32/phodav/po/cs.po | 
+ | [da](/f32/language/da) | 63 | 63 | 100.0 | /mnt/stockage/packages/f32/phodav/po/da.po | 
+ | [de](/f32/language/de) | 63 | 63 | 100.0 | /mnt/stockage/packages/f32/phodav/po/de.po | 
+ | [es](/f32/language/es) | 63 | 63 | 100.0 | /mnt/stockage/packages/f32/phodav/po/es.po | 
+ | [eu](/f32/language/eu) | 63 | 63 | 100.0 | /mnt/stockage/packages/f32/phodav/po/eu.po | 
+ | [fi](/f32/language/fi) | 63 | 63 | 100.0 | /mnt/stockage/packages/f32/phodav/po/fi.po | 
+ | [fur](/f32/language/fur) | 63 | 63 | 100.0 | /mnt/stockage/packages/f32/phodav/po/fur.po | 
+ | [hr](/f32/language/hr) | 63 | 63 | 100.0 | /mnt/stockage/packages/f32/phodav/po/hr.po | 
+ | [hu](/f32/language/hu) | 63 | 63 | 100.0 | /mnt/stockage/packages/f32/phodav/po/hu.po | 
+ | [id](/f32/language/id) | 63 | 63 | 100.0 | /mnt/stockage/packages/f32/phodav/po/id.po | 
+ | [nl](/f32/language/nl) | 63 | 63 | 100.0 | /mnt/stockage/packages/f32/phodav/po/nl.po | 
+ | [pl](/f32/language/pl) | 63 | 63 | 100.0 | /mnt/stockage/packages/f32/phodav/po/pl.po | 
+ | [pt_BR](/f32/language/pt_BR) | 63 | 63 | 100.0 | /mnt/stockage/packages/f32/phodav/po/pt_BR.po | 
+ | [ro](/f32/language/ro) | 63 | 63 | 100.0 | /mnt/stockage/packages/f32/phodav/po/ro.po | 
+ | [sl](/f32/language/sl) | 63 | 63 | 100.0 | /mnt/stockage/packages/f32/phodav/po/sl.po | 
+ | [sr](/f32/language/sr) | 63 | 63 | 100.0 | /mnt/stockage/packages/f32/phodav/po/sr.po | 
+ | [sr_Latn](/f32/language/sr_Latn) | 63 | 63 | 100.0 | /mnt/stockage/packages/f32/phodav/po/sr@latin.po | 
+ | [sv](/f32/language/sv) | 63 | 63 | 100.0 | /mnt/stockage/packages/f32/phodav/po/sv.po | 
+ | [tr](/f32/language/tr) | 63 | 63 | 100.0 | /mnt/stockage/packages/f32/phodav/po/tr.po | 
+ | [bs](/f32/language/bs) | 31 | 63 | 49.2 | /mnt/stockage/packages/f32/phodav/po/bs.po | 
+ | [el](/f32/language/el) | 31 | 63 | 49.2 | /mnt/stockage/packages/f32/phodav/po/el.po | 
+ | [pt](/f32/language/pt) | 31 | 63 | 49.2 | /mnt/stockage/packages/f32/phodav/po/pt.po | 
 {.sortable}
 
 

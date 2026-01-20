@@ -18,22 +18,22 @@ The package thunar-shares-plugin (version 0.2.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f10/language/cs.md" >}}) | 181 | 181 | 100.0 | /mnt/stockage/packages/f10/thunar-shares-plugin/po/cs.po | 
- | [eu]({{< ref "/f10/language/eu.md" >}}) | 181 | 181 | 100.0 | /mnt/stockage/packages/f10/thunar-shares-plugin/po/eu.po | 
- | [id]({{< ref "/f10/language/id.md" >}}) | 181 | 181 | 100.0 | /mnt/stockage/packages/f10/thunar-shares-plugin/po/id.po | 
- | [ja]({{< ref "/f10/language/ja.md" >}}) | 209 | 209 | 100.0 | /mnt/stockage/packages/f10/thunar-shares-plugin/po/ja.po | 
- | [nb_NO]({{< ref "/f10/language/nb_NO.md" >}}) | 181 | 181 | 100.0 | /mnt/stockage/packages/f10/thunar-shares-plugin/po/nb.po | 
- | [pt_BR]({{< ref "/f10/language/pt_BR.md" >}}) | 220 | 220 | 100.0 | /mnt/stockage/packages/f10/thunar-shares-plugin/po/pt_BR.po | 
- | [sv]({{< ref "/f10/language/sv.md" >}}) | 220 | 220 | 100.0 | /mnt/stockage/packages/f10/thunar-shares-plugin/po/sv.po | 
- | [ca]({{< ref "/f10/language/ca.md" >}}) | 180 | 181 | 99.4 | /mnt/stockage/packages/f10/thunar-shares-plugin/po/ca.po | 
- | [da]({{< ref "/f10/language/da.md" >}}) | 180 | 181 | 99.4 | /mnt/stockage/packages/f10/thunar-shares-plugin/po/da.po | 
- | [es]({{< ref "/f10/language/es.md" >}}) | 180 | 181 | 99.4 | /mnt/stockage/packages/f10/thunar-shares-plugin/po/es.po | 
- | [fr]({{< ref "/f10/language/fr.md" >}}) | 180 | 181 | 99.4 | /mnt/stockage/packages/f10/thunar-shares-plugin/po/fr.po | 
- | [pt_PT]({{< ref "/f10/language/pt_PT.md" >}}) | 180 | 181 | 99.4 | /mnt/stockage/packages/f10/thunar-shares-plugin/po/pt_PT.po | 
- | [ru]({{< ref "/f10/language/ru.md" >}}) | 180 | 181 | 99.4 | /mnt/stockage/packages/f10/thunar-shares-plugin/po/ru.po | 
- | [uk]({{< ref "/f10/language/uk.md" >}}) | 180 | 181 | 99.4 | /mnt/stockage/packages/f10/thunar-shares-plugin/po/uk.po | 
- | [zh_Hans]({{< ref "/f10/language/zh_Hans.md" >}}) | 156 | 181 | 86.2 | /mnt/stockage/packages/f10/thunar-shares-plugin/po/zh_CN.po | 
- | [it]({{< ref "/f10/language/it.md" >}}) | 93 | 181 | 51.4 | /mnt/stockage/packages/f10/thunar-shares-plugin/po/it.po | 
+ | [cs](/f10/language/cs) | 181 | 181 | 100.0 | /mnt/stockage/packages/f10/thunar-shares-plugin/po/cs.po | 
+ | [eu](/f10/language/eu) | 181 | 181 | 100.0 | /mnt/stockage/packages/f10/thunar-shares-plugin/po/eu.po | 
+ | [id](/f10/language/id) | 181 | 181 | 100.0 | /mnt/stockage/packages/f10/thunar-shares-plugin/po/id.po | 
+ | [ja](/f10/language/ja) | 209 | 209 | 100.0 | /mnt/stockage/packages/f10/thunar-shares-plugin/po/ja.po | 
+ | [nb_NO](/f10/language/nb_NO) | 181 | 181 | 100.0 | /mnt/stockage/packages/f10/thunar-shares-plugin/po/nb.po | 
+ | [pt_BR](/f10/language/pt_BR) | 220 | 220 | 100.0 | /mnt/stockage/packages/f10/thunar-shares-plugin/po/pt_BR.po | 
+ | [sv](/f10/language/sv) | 220 | 220 | 100.0 | /mnt/stockage/packages/f10/thunar-shares-plugin/po/sv.po | 
+ | [ca](/f10/language/ca) | 180 | 181 | 99.4 | /mnt/stockage/packages/f10/thunar-shares-plugin/po/ca.po | 
+ | [da](/f10/language/da) | 180 | 181 | 99.4 | /mnt/stockage/packages/f10/thunar-shares-plugin/po/da.po | 
+ | [es](/f10/language/es) | 180 | 181 | 99.4 | /mnt/stockage/packages/f10/thunar-shares-plugin/po/es.po | 
+ | [fr](/f10/language/fr) | 180 | 181 | 99.4 | /mnt/stockage/packages/f10/thunar-shares-plugin/po/fr.po | 
+ | [pt_PT](/f10/language/pt_PT) | 180 | 181 | 99.4 | /mnt/stockage/packages/f10/thunar-shares-plugin/po/pt_PT.po | 
+ | [ru](/f10/language/ru) | 180 | 181 | 99.4 | /mnt/stockage/packages/f10/thunar-shares-plugin/po/ru.po | 
+ | [uk](/f10/language/uk) | 180 | 181 | 99.4 | /mnt/stockage/packages/f10/thunar-shares-plugin/po/uk.po | 
+ | [zh_Hans](/f10/language/zh_Hans) | 156 | 181 | 86.2 | /mnt/stockage/packages/f10/thunar-shares-plugin/po/zh_CN.po | 
+ | [it](/f10/language/it) | 93 | 181 | 51.4 | /mnt/stockage/packages/f10/thunar-shares-plugin/po/it.po | 
 {.sortable}
 
 

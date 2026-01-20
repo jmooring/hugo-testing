@@ -39,8 +39,8 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [libreoffice]({{< ref "/f19/package/libreoffice.md" >}}) | 55376 | 95189 | 58.2 | LANGUAGE <LL@li.org> | 
- | [iok]({{< ref "/f19/package/iok.md" >}}) | 73 | 206 | 35.4 | Manipuri <LL@li.org> | 
+ | [libreoffice](/f19/package/libreoffice) | 55376 | 95189 | 58.2 | LANGUAGE <LL@li.org> | 
+ | [iok](/f19/package/iok) | 73 | 206 | 35.4 | Manipuri <LL@li.org> | 
 {.sortable}
 
 

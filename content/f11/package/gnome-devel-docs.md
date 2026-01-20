@@ -18,18 +18,18 @@ The package gnome-devel-docs (version 2.26.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [el]({{< ref "/f11/language/el.md" >}}) | 14355 | 14355 | 100.0 | /mnt/stockage/packages/f11/gnome-devel-docs/integration-guide/el/el.po/mnt/stockage/packages/f11/gnome-devel-docs/platform-overview/el/el.po | 
- | [en_GB]({{< ref "/f11/language/en_GB.md" >}}) | 3495 | 3495 | 100.0 | /mnt/stockage/packages/f11/gnome-devel-docs/integration-guide/en_GB/en_GB.po | 
- | [es]({{< ref "/f11/language/es.md" >}}) | 14355 | 14355 | 100.0 | /mnt/stockage/packages/f11/gnome-devel-docs/integration-guide/es/es.po/mnt/stockage/packages/f11/gnome-devel-docs/platform-overview/es/es.po | 
- | [fr]({{< ref "/f11/language/fr.md" >}}) | 14355 | 14355 | 100.0 | /mnt/stockage/packages/f11/gnome-devel-docs/integration-guide/fr/fr.po/mnt/stockage/packages/f11/gnome-devel-docs/platform-overview/fr/fr.po | 
- | [pt_BR]({{< ref "/f11/language/pt_BR.md" >}}) | 3495 | 3495 | 100.0 | /mnt/stockage/packages/f11/gnome-devel-docs/integration-guide/pt_BR/pt_BR.po | 
- | [ru]({{< ref "/f11/language/ru.md" >}}) | 10859 | 10859 | 100.0 | /mnt/stockage/packages/f11/gnome-devel-docs/platform-overview/ru/ru.po | 
- | [cs]({{< ref "/f11/language/cs.md" >}}) | 3383 | 3495 | 96.8 | /mnt/stockage/packages/f11/gnome-devel-docs/integration-guide/cs/cs.po | 
- | [de]({{< ref "/f11/language/de.md" >}}) | 12820 | 14355 | 89.3 | /mnt/stockage/packages/f11/gnome-devel-docs/integration-guide/de/de.po/mnt/stockage/packages/f11/gnome-devel-docs/platform-overview/de/de.po | 
- | [it]({{< ref "/f11/language/it.md" >}}) | 1358 | 10715 | 12.7 | /mnt/stockage/packages/f11/gnome-devel-docs/platform-overview/it/it.po | 
- | [sv]({{< ref "/f11/language/sv.md" >}}) | 74 | 3487 | 2.1 | /mnt/stockage/packages/f11/gnome-devel-docs/integration-guide/sv/sv.po | 
- | [zh_Hans]({{< ref "/f11/language/zh_Hans.md" >}}) | 64 | 3487 | 1.8 | /mnt/stockage/packages/f11/gnome-devel-docs/integration-guide/zh_CN/zh_CN.po | 
- | [oc]({{< ref "/f11/language/oc.md" >}}) | 139 | 10715 | 1.3 | /mnt/stockage/packages/f11/gnome-devel-docs/platform-overview/oc/oc.po | 
+ | [el](/f11/language/el) | 14355 | 14355 | 100.0 | /mnt/stockage/packages/f11/gnome-devel-docs/integration-guide/el/el.po/mnt/stockage/packages/f11/gnome-devel-docs/platform-overview/el/el.po | 
+ | [en_GB](/f11/language/en_GB) | 3495 | 3495 | 100.0 | /mnt/stockage/packages/f11/gnome-devel-docs/integration-guide/en_GB/en_GB.po | 
+ | [es](/f11/language/es) | 14355 | 14355 | 100.0 | /mnt/stockage/packages/f11/gnome-devel-docs/integration-guide/es/es.po/mnt/stockage/packages/f11/gnome-devel-docs/platform-overview/es/es.po | 
+ | [fr](/f11/language/fr) | 14355 | 14355 | 100.0 | /mnt/stockage/packages/f11/gnome-devel-docs/integration-guide/fr/fr.po/mnt/stockage/packages/f11/gnome-devel-docs/platform-overview/fr/fr.po | 
+ | [pt_BR](/f11/language/pt_BR) | 3495 | 3495 | 100.0 | /mnt/stockage/packages/f11/gnome-devel-docs/integration-guide/pt_BR/pt_BR.po | 
+ | [ru](/f11/language/ru) | 10859 | 10859 | 100.0 | /mnt/stockage/packages/f11/gnome-devel-docs/platform-overview/ru/ru.po | 
+ | [cs](/f11/language/cs) | 3383 | 3495 | 96.8 | /mnt/stockage/packages/f11/gnome-devel-docs/integration-guide/cs/cs.po | 
+ | [de](/f11/language/de) | 12820 | 14355 | 89.3 | /mnt/stockage/packages/f11/gnome-devel-docs/integration-guide/de/de.po/mnt/stockage/packages/f11/gnome-devel-docs/platform-overview/de/de.po | 
+ | [it](/f11/language/it) | 1358 | 10715 | 12.7 | /mnt/stockage/packages/f11/gnome-devel-docs/platform-overview/it/it.po | 
+ | [sv](/f11/language/sv) | 74 | 3487 | 2.1 | /mnt/stockage/packages/f11/gnome-devel-docs/integration-guide/sv/sv.po | 
+ | [zh_Hans](/f11/language/zh_Hans) | 64 | 3487 | 1.8 | /mnt/stockage/packages/f11/gnome-devel-docs/integration-guide/zh_CN/zh_CN.po | 
+ | [oc](/f11/language/oc) | 139 | 10715 | 1.3 | /mnt/stockage/packages/f11/gnome-devel-docs/platform-overview/oc/oc.po | 
 {.sortable}
 
 

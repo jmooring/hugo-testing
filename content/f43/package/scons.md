@@ -18,51 +18,51 @@ The package scons (version 4.10.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f43/language/ar.md" >}}) | 48 | 48 | 100.0 | /mnt/stockage/packages/f43/scons/HTML/scons-api/_static/locales/ar/LC_MESSAGES/booktheme.po | 
- | [bg]({{< ref "/f43/language/bg.md" >}}) | 48 | 48 | 100.0 | /mnt/stockage/packages/f43/scons/HTML/scons-api/_static/locales/bg/LC_MESSAGES/booktheme.po | 
- | [bn]({{< ref "/f43/language/bn.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f43/scons/HTML/scons-api/_static/locales/bn/LC_MESSAGES/booktheme.po | 
- | [ca]({{< ref "/f43/language/ca.md" >}}) | 44 | 44 | 100.0 | /mnt/stockage/packages/f43/scons/HTML/scons-api/_static/locales/ca/LC_MESSAGES/booktheme.po | 
- | [cs]({{< ref "/f43/language/cs.md" >}}) | 48 | 48 | 100.0 | /mnt/stockage/packages/f43/scons/HTML/scons-api/_static/locales/cs/LC_MESSAGES/booktheme.po | 
- | [da]({{< ref "/f43/language/da.md" >}}) | 48 | 48 | 100.0 | /mnt/stockage/packages/f43/scons/HTML/scons-api/_static/locales/da/LC_MESSAGES/booktheme.po | 
- | [de]({{< ref "/f43/language/de.md" >}}) | 48 | 48 | 100.0 | /mnt/stockage/packages/f43/scons/HTML/scons-api/_static/locales/de/LC_MESSAGES/booktheme.po | 
- | [el]({{< ref "/f43/language/el.md" >}}) | 48 | 48 | 100.0 | /mnt/stockage/packages/f43/scons/HTML/scons-api/_static/locales/el/LC_MESSAGES/booktheme.po | 
- | [eo]({{< ref "/f43/language/eo.md" >}}) | 48 | 48 | 100.0 | /mnt/stockage/packages/f43/scons/HTML/scons-api/_static/locales/eo/LC_MESSAGES/booktheme.po | 
- | [es]({{< ref "/f43/language/es.md" >}}) | 48 | 48 | 100.0 | /mnt/stockage/packages/f43/scons/HTML/scons-api/_static/locales/es/LC_MESSAGES/booktheme.po | 
- | [et]({{< ref "/f43/language/et.md" >}}) | 48 | 48 | 100.0 | /mnt/stockage/packages/f43/scons/HTML/scons-api/_static/locales/et/LC_MESSAGES/booktheme.po | 
- | [fi]({{< ref "/f43/language/fi.md" >}}) | 48 | 48 | 100.0 | /mnt/stockage/packages/f43/scons/HTML/scons-api/_static/locales/fi/LC_MESSAGES/booktheme.po | 
- | [fr]({{< ref "/f43/language/fr.md" >}}) | 48 | 48 | 100.0 | /mnt/stockage/packages/f43/scons/HTML/scons-api/_static/locales/fr/LC_MESSAGES/booktheme.po | 
- | [he]({{< ref "/f43/language/he.md" >}}) | 48 | 48 | 100.0 | /mnt/stockage/packages/f43/scons/HTML/scons-api/_static/locales/iw/LC_MESSAGES/booktheme.po | 
- | [hr]({{< ref "/f43/language/hr.md" >}}) | 48 | 48 | 100.0 | /mnt/stockage/packages/f43/scons/HTML/scons-api/_static/locales/hr/LC_MESSAGES/booktheme.po | 
- | [id]({{< ref "/f43/language/id.md" >}}) | 48 | 48 | 100.0 | /mnt/stockage/packages/f43/scons/HTML/scons-api/_static/locales/id/LC_MESSAGES/booktheme.po | 
- | [it]({{< ref "/f43/language/it.md" >}}) | 48 | 48 | 100.0 | /mnt/stockage/packages/f43/scons/HTML/scons-api/_static/locales/it/LC_MESSAGES/booktheme.po | 
- | [ja]({{< ref "/f43/language/ja.md" >}}) | 48 | 48 | 100.0 | /mnt/stockage/packages/f43/scons/HTML/scons-api/_static/locales/ja/LC_MESSAGES/booktheme.po | 
- | [ko]({{< ref "/f43/language/ko.md" >}}) | 48 | 48 | 100.0 | /mnt/stockage/packages/f43/scons/HTML/scons-api/_static/locales/ko/LC_MESSAGES/booktheme.po | 
- | [lt]({{< ref "/f43/language/lt.md" >}}) | 48 | 48 | 100.0 | /mnt/stockage/packages/f43/scons/HTML/scons-api/_static/locales/lt/LC_MESSAGES/booktheme.po | 
- | [lv]({{< ref "/f43/language/lv.md" >}}) | 48 | 48 | 100.0 | /mnt/stockage/packages/f43/scons/HTML/scons-api/_static/locales/lv/LC_MESSAGES/booktheme.po | 
- | [ml]({{< ref "/f43/language/ml.md" >}}) | 44 | 44 | 100.0 | /mnt/stockage/packages/f43/scons/HTML/scons-api/_static/locales/ml/LC_MESSAGES/booktheme.po | 
- | [mr]({{< ref "/f43/language/mr.md" >}}) | 44 | 44 | 100.0 | /mnt/stockage/packages/f43/scons/HTML/scons-api/_static/locales/mr/LC_MESSAGES/booktheme.po | 
- | [ms]({{< ref "/f43/language/ms.md" >}}) | 44 | 44 | 100.0 | /mnt/stockage/packages/f43/scons/HTML/scons-api/_static/locales/ms/LC_MESSAGES/booktheme.po | 
- | [nb_NO]({{< ref "/f43/language/nb_NO.md" >}}) | 48 | 48 | 100.0 | /mnt/stockage/packages/f43/scons/HTML/scons-api/_static/locales/no/LC_MESSAGES/booktheme.po | 
- | [nl]({{< ref "/f43/language/nl.md" >}}) | 48 | 48 | 100.0 | /mnt/stockage/packages/f43/scons/HTML/scons-api/_static/locales/nl/LC_MESSAGES/booktheme.po | 
- | [pl]({{< ref "/f43/language/pl.md" >}}) | 48 | 48 | 100.0 | /mnt/stockage/packages/f43/scons/HTML/scons-api/_static/locales/pl/LC_MESSAGES/booktheme.po | 
- | [pt]({{< ref "/f43/language/pt.md" >}}) | 48 | 48 | 100.0 | /mnt/stockage/packages/f43/scons/HTML/scons-api/_static/locales/pt/LC_MESSAGES/booktheme.po | 
- | [ro]({{< ref "/f43/language/ro.md" >}}) | 48 | 48 | 100.0 | /mnt/stockage/packages/f43/scons/HTML/scons-api/_static/locales/ro/LC_MESSAGES/booktheme.po | 
- | [ru]({{< ref "/f43/language/ru.md" >}}) | 48 | 48 | 100.0 | /mnt/stockage/packages/f43/scons/HTML/scons-api/_static/locales/ru/LC_MESSAGES/booktheme.po | 
- | [sk]({{< ref "/f43/language/sk.md" >}}) | 48 | 48 | 100.0 | /mnt/stockage/packages/f43/scons/HTML/scons-api/_static/locales/sk/LC_MESSAGES/booktheme.po | 
- | [sl]({{< ref "/f43/language/sl.md" >}}) | 48 | 48 | 100.0 | /mnt/stockage/packages/f43/scons/HTML/scons-api/_static/locales/sl/LC_MESSAGES/booktheme.po | 
- | [sr]({{< ref "/f43/language/sr.md" >}}) | 48 | 48 | 100.0 | /mnt/stockage/packages/f43/scons/HTML/scons-api/_static/locales/sr/LC_MESSAGES/booktheme.po | 
- | [sv]({{< ref "/f43/language/sv.md" >}}) | 48 | 48 | 100.0 | /mnt/stockage/packages/f43/scons/HTML/scons-api/_static/locales/sv/LC_MESSAGES/booktheme.po | 
- | [ta]({{< ref "/f43/language/ta.md" >}}) | 44 | 44 | 100.0 | /mnt/stockage/packages/f43/scons/HTML/scons-api/_static/locales/ta/LC_MESSAGES/booktheme.po | 
- | [te]({{< ref "/f43/language/te.md" >}}) | 44 | 44 | 100.0 | /mnt/stockage/packages/f43/scons/HTML/scons-api/_static/locales/te/LC_MESSAGES/booktheme.po | 
- | [tg]({{< ref "/f43/language/tg.md" >}}) | 48 | 48 | 100.0 | /mnt/stockage/packages/f43/scons/HTML/scons-api/_static/locales/tg/LC_MESSAGES/booktheme.po | 
- | [th]({{< ref "/f43/language/th.md" >}}) | 48 | 48 | 100.0 | /mnt/stockage/packages/f43/scons/HTML/scons-api/_static/locales/th/LC_MESSAGES/booktheme.po | 
- | [tl]({{< ref "/f43/language/tl.md" >}}) | 44 | 44 | 100.0 | /mnt/stockage/packages/f43/scons/HTML/scons-api/_static/locales/tl/LC_MESSAGES/booktheme.po | 
- | [tr]({{< ref "/f43/language/tr.md" >}}) | 48 | 48 | 100.0 | /mnt/stockage/packages/f43/scons/HTML/scons-api/_static/locales/tr/LC_MESSAGES/booktheme.po | 
- | [uk]({{< ref "/f43/language/uk.md" >}}) | 48 | 48 | 100.0 | /mnt/stockage/packages/f43/scons/HTML/scons-api/_static/locales/uk/LC_MESSAGES/booktheme.po | 
- | [ur]({{< ref "/f43/language/ur.md" >}}) | 44 | 44 | 100.0 | /mnt/stockage/packages/f43/scons/HTML/scons-api/_static/locales/ur/LC_MESSAGES/booktheme.po | 
- | [vi]({{< ref "/f43/language/vi.md" >}}) | 48 | 48 | 100.0 | /mnt/stockage/packages/f43/scons/HTML/scons-api/_static/locales/vi/LC_MESSAGES/booktheme.po | 
- | [zh_Hans]({{< ref "/f43/language/zh_Hans.md" >}}) | 48 | 48 | 100.0 | /mnt/stockage/packages/f43/scons/HTML/scons-api/_static/locales/zh_CN/LC_MESSAGES/booktheme.po | 
- | [zh_Hant]({{< ref "/f43/language/zh_Hant.md" >}}) | 48 | 48 | 100.0 | /mnt/stockage/packages/f43/scons/HTML/scons-api/_static/locales/zh_TW/LC_MESSAGES/booktheme.po | 
+ | [ar](/f43/language/ar) | 48 | 48 | 100.0 | /mnt/stockage/packages/f43/scons/HTML/scons-api/_static/locales/ar/LC_MESSAGES/booktheme.po | 
+ | [bg](/f43/language/bg) | 48 | 48 | 100.0 | /mnt/stockage/packages/f43/scons/HTML/scons-api/_static/locales/bg/LC_MESSAGES/booktheme.po | 
+ | [bn](/f43/language/bn) | 42 | 42 | 100.0 | /mnt/stockage/packages/f43/scons/HTML/scons-api/_static/locales/bn/LC_MESSAGES/booktheme.po | 
+ | [ca](/f43/language/ca) | 44 | 44 | 100.0 | /mnt/stockage/packages/f43/scons/HTML/scons-api/_static/locales/ca/LC_MESSAGES/booktheme.po | 
+ | [cs](/f43/language/cs) | 48 | 48 | 100.0 | /mnt/stockage/packages/f43/scons/HTML/scons-api/_static/locales/cs/LC_MESSAGES/booktheme.po | 
+ | [da](/f43/language/da) | 48 | 48 | 100.0 | /mnt/stockage/packages/f43/scons/HTML/scons-api/_static/locales/da/LC_MESSAGES/booktheme.po | 
+ | [de](/f43/language/de) | 48 | 48 | 100.0 | /mnt/stockage/packages/f43/scons/HTML/scons-api/_static/locales/de/LC_MESSAGES/booktheme.po | 
+ | [el](/f43/language/el) | 48 | 48 | 100.0 | /mnt/stockage/packages/f43/scons/HTML/scons-api/_static/locales/el/LC_MESSAGES/booktheme.po | 
+ | [eo](/f43/language/eo) | 48 | 48 | 100.0 | /mnt/stockage/packages/f43/scons/HTML/scons-api/_static/locales/eo/LC_MESSAGES/booktheme.po | 
+ | [es](/f43/language/es) | 48 | 48 | 100.0 | /mnt/stockage/packages/f43/scons/HTML/scons-api/_static/locales/es/LC_MESSAGES/booktheme.po | 
+ | [et](/f43/language/et) | 48 | 48 | 100.0 | /mnt/stockage/packages/f43/scons/HTML/scons-api/_static/locales/et/LC_MESSAGES/booktheme.po | 
+ | [fi](/f43/language/fi) | 48 | 48 | 100.0 | /mnt/stockage/packages/f43/scons/HTML/scons-api/_static/locales/fi/LC_MESSAGES/booktheme.po | 
+ | [fr](/f43/language/fr) | 48 | 48 | 100.0 | /mnt/stockage/packages/f43/scons/HTML/scons-api/_static/locales/fr/LC_MESSAGES/booktheme.po | 
+ | [he](/f43/language/he) | 48 | 48 | 100.0 | /mnt/stockage/packages/f43/scons/HTML/scons-api/_static/locales/iw/LC_MESSAGES/booktheme.po | 
+ | [hr](/f43/language/hr) | 48 | 48 | 100.0 | /mnt/stockage/packages/f43/scons/HTML/scons-api/_static/locales/hr/LC_MESSAGES/booktheme.po | 
+ | [id](/f43/language/id) | 48 | 48 | 100.0 | /mnt/stockage/packages/f43/scons/HTML/scons-api/_static/locales/id/LC_MESSAGES/booktheme.po | 
+ | [it](/f43/language/it) | 48 | 48 | 100.0 | /mnt/stockage/packages/f43/scons/HTML/scons-api/_static/locales/it/LC_MESSAGES/booktheme.po | 
+ | [ja](/f43/language/ja) | 48 | 48 | 100.0 | /mnt/stockage/packages/f43/scons/HTML/scons-api/_static/locales/ja/LC_MESSAGES/booktheme.po | 
+ | [ko](/f43/language/ko) | 48 | 48 | 100.0 | /mnt/stockage/packages/f43/scons/HTML/scons-api/_static/locales/ko/LC_MESSAGES/booktheme.po | 
+ | [lt](/f43/language/lt) | 48 | 48 | 100.0 | /mnt/stockage/packages/f43/scons/HTML/scons-api/_static/locales/lt/LC_MESSAGES/booktheme.po | 
+ | [lv](/f43/language/lv) | 48 | 48 | 100.0 | /mnt/stockage/packages/f43/scons/HTML/scons-api/_static/locales/lv/LC_MESSAGES/booktheme.po | 
+ | [ml](/f43/language/ml) | 44 | 44 | 100.0 | /mnt/stockage/packages/f43/scons/HTML/scons-api/_static/locales/ml/LC_MESSAGES/booktheme.po | 
+ | [mr](/f43/language/mr) | 44 | 44 | 100.0 | /mnt/stockage/packages/f43/scons/HTML/scons-api/_static/locales/mr/LC_MESSAGES/booktheme.po | 
+ | [ms](/f43/language/ms) | 44 | 44 | 100.0 | /mnt/stockage/packages/f43/scons/HTML/scons-api/_static/locales/ms/LC_MESSAGES/booktheme.po | 
+ | [nb_NO](/f43/language/nb_NO) | 48 | 48 | 100.0 | /mnt/stockage/packages/f43/scons/HTML/scons-api/_static/locales/no/LC_MESSAGES/booktheme.po | 
+ | [nl](/f43/language/nl) | 48 | 48 | 100.0 | /mnt/stockage/packages/f43/scons/HTML/scons-api/_static/locales/nl/LC_MESSAGES/booktheme.po | 
+ | [pl](/f43/language/pl) | 48 | 48 | 100.0 | /mnt/stockage/packages/f43/scons/HTML/scons-api/_static/locales/pl/LC_MESSAGES/booktheme.po | 
+ | [pt](/f43/language/pt) | 48 | 48 | 100.0 | /mnt/stockage/packages/f43/scons/HTML/scons-api/_static/locales/pt/LC_MESSAGES/booktheme.po | 
+ | [ro](/f43/language/ro) | 48 | 48 | 100.0 | /mnt/stockage/packages/f43/scons/HTML/scons-api/_static/locales/ro/LC_MESSAGES/booktheme.po | 
+ | [ru](/f43/language/ru) | 48 | 48 | 100.0 | /mnt/stockage/packages/f43/scons/HTML/scons-api/_static/locales/ru/LC_MESSAGES/booktheme.po | 
+ | [sk](/f43/language/sk) | 48 | 48 | 100.0 | /mnt/stockage/packages/f43/scons/HTML/scons-api/_static/locales/sk/LC_MESSAGES/booktheme.po | 
+ | [sl](/f43/language/sl) | 48 | 48 | 100.0 | /mnt/stockage/packages/f43/scons/HTML/scons-api/_static/locales/sl/LC_MESSAGES/booktheme.po | 
+ | [sr](/f43/language/sr) | 48 | 48 | 100.0 | /mnt/stockage/packages/f43/scons/HTML/scons-api/_static/locales/sr/LC_MESSAGES/booktheme.po | 
+ | [sv](/f43/language/sv) | 48 | 48 | 100.0 | /mnt/stockage/packages/f43/scons/HTML/scons-api/_static/locales/sv/LC_MESSAGES/booktheme.po | 
+ | [ta](/f43/language/ta) | 44 | 44 | 100.0 | /mnt/stockage/packages/f43/scons/HTML/scons-api/_static/locales/ta/LC_MESSAGES/booktheme.po | 
+ | [te](/f43/language/te) | 44 | 44 | 100.0 | /mnt/stockage/packages/f43/scons/HTML/scons-api/_static/locales/te/LC_MESSAGES/booktheme.po | 
+ | [tg](/f43/language/tg) | 48 | 48 | 100.0 | /mnt/stockage/packages/f43/scons/HTML/scons-api/_static/locales/tg/LC_MESSAGES/booktheme.po | 
+ | [th](/f43/language/th) | 48 | 48 | 100.0 | /mnt/stockage/packages/f43/scons/HTML/scons-api/_static/locales/th/LC_MESSAGES/booktheme.po | 
+ | [tl](/f43/language/tl) | 44 | 44 | 100.0 | /mnt/stockage/packages/f43/scons/HTML/scons-api/_static/locales/tl/LC_MESSAGES/booktheme.po | 
+ | [tr](/f43/language/tr) | 48 | 48 | 100.0 | /mnt/stockage/packages/f43/scons/HTML/scons-api/_static/locales/tr/LC_MESSAGES/booktheme.po | 
+ | [uk](/f43/language/uk) | 48 | 48 | 100.0 | /mnt/stockage/packages/f43/scons/HTML/scons-api/_static/locales/uk/LC_MESSAGES/booktheme.po | 
+ | [ur](/f43/language/ur) | 44 | 44 | 100.0 | /mnt/stockage/packages/f43/scons/HTML/scons-api/_static/locales/ur/LC_MESSAGES/booktheme.po | 
+ | [vi](/f43/language/vi) | 48 | 48 | 100.0 | /mnt/stockage/packages/f43/scons/HTML/scons-api/_static/locales/vi/LC_MESSAGES/booktheme.po | 
+ | [zh_Hans](/f43/language/zh_Hans) | 48 | 48 | 100.0 | /mnt/stockage/packages/f43/scons/HTML/scons-api/_static/locales/zh_CN/LC_MESSAGES/booktheme.po | 
+ | [zh_Hant](/f43/language/zh_Hant) | 48 | 48 | 100.0 | /mnt/stockage/packages/f43/scons/HTML/scons-api/_static/locales/zh_TW/LC_MESSAGES/booktheme.po | 
 {.sortable}
 
 

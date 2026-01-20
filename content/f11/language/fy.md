@@ -38,19 +38,19 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [ksig]({{< ref "/f11/package/ksig.md" >}}) | 85 | 85 | 100.0 | Frysk <kde-i18n-fry@kde.org> | 
- | [squirrelmail]({{< ref "/f11/package/squirrelmail.md" >}}) | 16391 | 16391 | 100.0 | <kde-i18n-nl@kde.org> | 
- | [konq-plugins]({{< ref "/f11/package/konq-plugins.md" >}}) | 1404 | 1598 | 87.9 | Frysk <kde-i18n-fry@kde.org> | 
- | [kpilot]({{< ref "/f11/package/kpilot.md" >}}) | 5392 | 7156 | 75.3 | Frysk <kde-i18n-fry@kde.org> | 
- | [Miro]({{< ref "/f11/package/Miro.md" >}}) | 575 | 2774 | 20.7 | Frisian <fy@li.org> | 
- | [terminator]({{< ref "/f11/package/terminator.md" >}}) | 27 | 269 | 10.0 | Frisian <fy@li.org> | 
- | [bluez-gnome]({{< ref "/f11/package/bluez-gnome.md" >}}) | 46 | 631 | 7.3 | Frisian <fy@li.org> | 
- | [phatch]({{< ref "/f11/package/phatch.md" >}}) | 172 | 2553 | 6.7 | Frisian <fy@li.org> | 
- | [warzone2100]({{< ref "/f11/package/warzone2100.md" >}}) | 597 | 9618 | 6.2 | Frisian <fy@li.org> | 
- | [picard]({{< ref "/f11/package/picard.md" >}}) | 44 | 1310 | 3.4 | Frisian <fy@li.org> | 
- | [gnome-bluetooth]({{< ref "/f11/package/gnome-bluetooth.md" >}}) | 15 | 513 | 2.9 | Frisian <fy@li.org> | 
- | [deluge]({{< ref "/f11/package/deluge.md" >}}) | 46 | 1998 | 2.3 | Frisian <fy@li.org> | 
- | [stellarium]({{< ref "/f11/package/stellarium.md" >}}) | 30 | 1456 | 2.1 | Frisian <fy@li.org> | 
+ | [ksig](/f11/package/ksig) | 85 | 85 | 100.0 | Frysk <kde-i18n-fry@kde.org> | 
+ | [squirrelmail](/f11/package/squirrelmail) | 16391 | 16391 | 100.0 | <kde-i18n-nl@kde.org> | 
+ | [konq-plugins](/f11/package/konq-plugins) | 1404 | 1598 | 87.9 | Frysk <kde-i18n-fry@kde.org> | 
+ | [kpilot](/f11/package/kpilot) | 5392 | 7156 | 75.3 | Frysk <kde-i18n-fry@kde.org> | 
+ | [Miro](/f11/package/Miro) | 575 | 2774 | 20.7 | Frisian <fy@li.org> | 
+ | [terminator](/f11/package/terminator) | 27 | 269 | 10.0 | Frisian <fy@li.org> | 
+ | [bluez-gnome](/f11/package/bluez-gnome) | 46 | 631 | 7.3 | Frisian <fy@li.org> | 
+ | [phatch](/f11/package/phatch) | 172 | 2553 | 6.7 | Frisian <fy@li.org> | 
+ | [warzone2100](/f11/package/warzone2100) | 597 | 9618 | 6.2 | Frisian <fy@li.org> | 
+ | [picard](/f11/package/picard) | 44 | 1310 | 3.4 | Frisian <fy@li.org> | 
+ | [gnome-bluetooth](/f11/package/gnome-bluetooth) | 15 | 513 | 2.9 | Frisian <fy@li.org> | 
+ | [deluge](/f11/package/deluge) | 46 | 1998 | 2.3 | Frisian <fy@li.org> | 
+ | [stellarium](/f11/package/stellarium) | 30 | 1456 | 2.1 | Frisian <fy@li.org> | 
 {.sortable}
 
 

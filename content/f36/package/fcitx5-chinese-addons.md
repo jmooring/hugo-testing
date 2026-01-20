@@ -18,15 +18,15 @@ The package fcitx5-chinese-addons (version 5.0.16):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ru]({{< ref "/f36/language/ru.md" >}}) | 1159 | 1159 | 100.0 | /mnt/stockage/packages/f36/fcitx5-chinese-addons/po/ru.po | 
- | [zh_Hans]({{< ref "/f36/language/zh_Hans.md" >}}) | 1159 | 1159 | 100.0 | /mnt/stockage/packages/f36/fcitx5-chinese-addons/po/zh_CN.po | 
- | [ko]({{< ref "/f36/language/ko.md" >}}) | 1100 | 1159 | 94.9 | /mnt/stockage/packages/f36/fcitx5-chinese-addons/po/ko.po | 
- | [da]({{< ref "/f36/language/da.md" >}}) | 957 | 1159 | 82.6 | /mnt/stockage/packages/f36/fcitx5-chinese-addons/po/da.po | 
- | [de]({{< ref "/f36/language/de.md" >}}) | 389 | 1159 | 33.6 | /mnt/stockage/packages/f36/fcitx5-chinese-addons/po/de.po | 
- | [zh_Hant]({{< ref "/f36/language/zh_Hant.md" >}}) | 281 | 1159 | 24.2 | /mnt/stockage/packages/f36/fcitx5-chinese-addons/po/zh_TW.po | 
- | [ca]({{< ref "/f36/language/ca.md" >}}) | 99 | 1159 | 8.5 | /mnt/stockage/packages/f36/fcitx5-chinese-addons/po/ca.po | 
- | [he]({{< ref "/f36/language/he.md" >}}) | 10 | 1159 | 0.9 | /mnt/stockage/packages/f36/fcitx5-chinese-addons/po/he.po | 
- | [ja]({{< ref "/f36/language/ja.md" >}}) | 1 | 1159 | 0.1 | /mnt/stockage/packages/f36/fcitx5-chinese-addons/po/ja.po | 
+ | [ru](/f36/language/ru) | 1159 | 1159 | 100.0 | /mnt/stockage/packages/f36/fcitx5-chinese-addons/po/ru.po | 
+ | [zh_Hans](/f36/language/zh_Hans) | 1159 | 1159 | 100.0 | /mnt/stockage/packages/f36/fcitx5-chinese-addons/po/zh_CN.po | 
+ | [ko](/f36/language/ko) | 1100 | 1159 | 94.9 | /mnt/stockage/packages/f36/fcitx5-chinese-addons/po/ko.po | 
+ | [da](/f36/language/da) | 957 | 1159 | 82.6 | /mnt/stockage/packages/f36/fcitx5-chinese-addons/po/da.po | 
+ | [de](/f36/language/de) | 389 | 1159 | 33.6 | /mnt/stockage/packages/f36/fcitx5-chinese-addons/po/de.po | 
+ | [zh_Hant](/f36/language/zh_Hant) | 281 | 1159 | 24.2 | /mnt/stockage/packages/f36/fcitx5-chinese-addons/po/zh_TW.po | 
+ | [ca](/f36/language/ca) | 99 | 1159 | 8.5 | /mnt/stockage/packages/f36/fcitx5-chinese-addons/po/ca.po | 
+ | [he](/f36/language/he) | 10 | 1159 | 0.9 | /mnt/stockage/packages/f36/fcitx5-chinese-addons/po/he.po | 
+ | [ja](/f36/language/ja) | 1 | 1159 | 0.1 | /mnt/stockage/packages/f36/fcitx5-chinese-addons/po/ja.po | 
 {.sortable}
 
 

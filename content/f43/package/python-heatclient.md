@@ -18,7 +18,7 @@ The package python-heatclient (version 4.0.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [en_GB]({{< ref "/f43/language/en_GB.md" >}}) | 150 | 150 | 100.0 | /mnt/stockage/packages/f43/python-heatclient/releasenotes/source/locale/en_GB/LC_MESSAGES/releasenotes.po | 
+ | [en_GB](/f43/language/en_GB) | 150 | 150 | 100.0 | /mnt/stockage/packages/f43/python-heatclient/releasenotes/source/locale/en_GB/LC_MESSAGES/releasenotes.po | 
 {.sortable}
 
 

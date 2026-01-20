@@ -18,15 +18,15 @@ The package fcitx5-anthy (version 5.0.11):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ja]({{< ref "/f35/language/ja.md" >}}) | 381 | 381 | 100.0 | /mnt/stockage/packages/f35/fcitx5-anthy/po/ja.po | 
- | [ko]({{< ref "/f35/language/ko.md" >}}) | 381 | 381 | 100.0 | /mnt/stockage/packages/f35/fcitx5-anthy/po/ko.po | 
- | [ru]({{< ref "/f35/language/ru.md" >}}) | 381 | 381 | 100.0 | /mnt/stockage/packages/f35/fcitx5-anthy/po/ru.po | 
- | [zh_Hans]({{< ref "/f35/language/zh_Hans.md" >}}) | 381 | 381 | 100.0 | /mnt/stockage/packages/f35/fcitx5-anthy/po/zh_CN.po | 
- | [da]({{< ref "/f35/language/da.md" >}}) | 380 | 381 | 99.7 | /mnt/stockage/packages/f35/fcitx5-anthy/po/da.po | 
- | [de]({{< ref "/f35/language/de.md" >}}) | 358 | 381 | 94.0 | /mnt/stockage/packages/f35/fcitx5-anthy/po/de.po | 
- | [ca]({{< ref "/f35/language/ca.md" >}}) | 309 | 381 | 81.1 | /mnt/stockage/packages/f35/fcitx5-anthy/po/ca.po | 
- | [zh_Hant]({{< ref "/f35/language/zh_Hant.md" >}}) | 275 | 381 | 72.2 | /mnt/stockage/packages/f35/fcitx5-anthy/po/zh_TW.po | 
- | [he]({{< ref "/f35/language/he.md" >}}) | 9 | 381 | 2.4 | /mnt/stockage/packages/f35/fcitx5-anthy/po/he.po | 
+ | [ja](/f35/language/ja) | 381 | 381 | 100.0 | /mnt/stockage/packages/f35/fcitx5-anthy/po/ja.po | 
+ | [ko](/f35/language/ko) | 381 | 381 | 100.0 | /mnt/stockage/packages/f35/fcitx5-anthy/po/ko.po | 
+ | [ru](/f35/language/ru) | 381 | 381 | 100.0 | /mnt/stockage/packages/f35/fcitx5-anthy/po/ru.po | 
+ | [zh_Hans](/f35/language/zh_Hans) | 381 | 381 | 100.0 | /mnt/stockage/packages/f35/fcitx5-anthy/po/zh_CN.po | 
+ | [da](/f35/language/da) | 380 | 381 | 99.7 | /mnt/stockage/packages/f35/fcitx5-anthy/po/da.po | 
+ | [de](/f35/language/de) | 358 | 381 | 94.0 | /mnt/stockage/packages/f35/fcitx5-anthy/po/de.po | 
+ | [ca](/f35/language/ca) | 309 | 381 | 81.1 | /mnt/stockage/packages/f35/fcitx5-anthy/po/ca.po | 
+ | [zh_Hant](/f35/language/zh_Hant) | 275 | 381 | 72.2 | /mnt/stockage/packages/f35/fcitx5-anthy/po/zh_TW.po | 
+ | [he](/f35/language/he) | 9 | 381 | 2.4 | /mnt/stockage/packages/f35/fcitx5-anthy/po/he.po | 
 {.sortable}
 
 

@@ -18,34 +18,34 @@ The package byzanz (version 0.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f18/language/ca.md" >}}) | 238 | 238 | 100.0 | /mnt/stockage/packages/f18/byzanz/po/ca.po | 
- | [cs]({{< ref "/f18/language/cs.md" >}}) | 236 | 236 | 100.0 | /mnt/stockage/packages/f18/byzanz/po/cs.po | 
- | [da]({{< ref "/f18/language/da.md" >}}) | 236 | 236 | 100.0 | /mnt/stockage/packages/f18/byzanz/po/da.po | 
- | [de]({{< ref "/f18/language/de.md" >}}) | 236 | 236 | 100.0 | /mnt/stockage/packages/f18/byzanz/po/de.po | 
- | [dz]({{< ref "/f18/language/dz.md" >}}) | 249 | 249 | 100.0 | /mnt/stockage/packages/f18/byzanz/po/dz.po | 
- | [el]({{< ref "/f18/language/el.md" >}}) | 234 | 234 | 100.0 | /mnt/stockage/packages/f18/byzanz/po/el.po | 
- | [en_GB]({{< ref "/f18/language/en_GB.md" >}}) | 249 | 249 | 100.0 | /mnt/stockage/packages/f18/byzanz/po/en_GB.po | 
- | [es]({{< ref "/f18/language/es.md" >}}) | 236 | 236 | 100.0 | /mnt/stockage/packages/f18/byzanz/po/es.po | 
- | [fi]({{< ref "/f18/language/fi.md" >}}) | 249 | 249 | 100.0 | /mnt/stockage/packages/f18/byzanz/po/fi.po | 
- | [fr]({{< ref "/f18/language/fr.md" >}}) | 238 | 238 | 100.0 | /mnt/stockage/packages/f18/byzanz/po/fr.po | 
- | [gl]({{< ref "/f18/language/gl.md" >}}) | 238 | 238 | 100.0 | /mnt/stockage/packages/f18/byzanz/po/gl.po | 
- | [hu]({{< ref "/f18/language/hu.md" >}}) | 236 | 236 | 100.0 | /mnt/stockage/packages/f18/byzanz/po/hu.po | 
- | [id]({{< ref "/f18/language/id.md" >}}) | 238 | 238 | 100.0 | /mnt/stockage/packages/f18/byzanz/po/id.po | 
- | [it]({{< ref "/f18/language/it.md" >}}) | 238 | 238 | 100.0 | /mnt/stockage/packages/f18/byzanz/po/it.po | 
- | [ja]({{< ref "/f18/language/ja.md" >}}) | 249 | 249 | 100.0 | /mnt/stockage/packages/f18/byzanz/po/ja.po | 
- | [pl]({{< ref "/f18/language/pl.md" >}}) | 249 | 249 | 100.0 | /mnt/stockage/packages/f18/byzanz/po/pl.po | 
- | [pt_BR]({{< ref "/f18/language/pt_BR.md" >}}) | 234 | 234 | 100.0 | /mnt/stockage/packages/f18/byzanz/po/pt_BR.po | 
- | [ro]({{< ref "/f18/language/ro.md" >}}) | 234 | 234 | 100.0 | /mnt/stockage/packages/f18/byzanz/po/ro.po | 
- | [ru]({{< ref "/f18/language/ru.md" >}}) | 236 | 236 | 100.0 | /mnt/stockage/packages/f18/byzanz/po/ru.po | 
- | [sl]({{< ref "/f18/language/sl.md" >}}) | 236 | 236 | 100.0 | /mnt/stockage/packages/f18/byzanz/po/sl.po | 
- | [sv]({{< ref "/f18/language/sv.md" >}}) | 236 | 236 | 100.0 | /mnt/stockage/packages/f18/byzanz/po/sv.po | 
- | [uk]({{< ref "/f18/language/uk.md" >}}) | 236 | 236 | 100.0 | /mnt/stockage/packages/f18/byzanz/po/uk.po | 
- | [zh_Hans]({{< ref "/f18/language/zh_Hans.md" >}}) | 236 | 236 | 100.0 | /mnt/stockage/packages/f18/byzanz/po/zh_CN.po | 
- | [vi]({{< ref "/f18/language/vi.md" >}}) | 231 | 236 | 97.9 | /mnt/stockage/packages/f18/byzanz/po/vi.po | 
- | [tr]({{< ref "/f18/language/tr.md" >}}) | 198 | 249 | 79.5 | /mnt/stockage/packages/f18/byzanz/po/tr.po | 
- | [nb_NO]({{< ref "/f18/language/nb_NO.md" >}}) | 126 | 234 | 53.8 | /mnt/stockage/packages/f18/byzanz/po/nb.po | 
- | [oc]({{< ref "/f18/language/oc.md" >}}) | 3 | 249 | 1.2 | /mnt/stockage/packages/f18/byzanz/po/oc.po | 
- | [ar]({{< ref "/f18/language/ar.md" >}}) | 0 | 249 | 0.0 | /mnt/stockage/packages/f18/byzanz/po/ar.po | 
+ | [ca](/f18/language/ca) | 238 | 238 | 100.0 | /mnt/stockage/packages/f18/byzanz/po/ca.po | 
+ | [cs](/f18/language/cs) | 236 | 236 | 100.0 | /mnt/stockage/packages/f18/byzanz/po/cs.po | 
+ | [da](/f18/language/da) | 236 | 236 | 100.0 | /mnt/stockage/packages/f18/byzanz/po/da.po | 
+ | [de](/f18/language/de) | 236 | 236 | 100.0 | /mnt/stockage/packages/f18/byzanz/po/de.po | 
+ | [dz](/f18/language/dz) | 249 | 249 | 100.0 | /mnt/stockage/packages/f18/byzanz/po/dz.po | 
+ | [el](/f18/language/el) | 234 | 234 | 100.0 | /mnt/stockage/packages/f18/byzanz/po/el.po | 
+ | [en_GB](/f18/language/en_GB) | 249 | 249 | 100.0 | /mnt/stockage/packages/f18/byzanz/po/en_GB.po | 
+ | [es](/f18/language/es) | 236 | 236 | 100.0 | /mnt/stockage/packages/f18/byzanz/po/es.po | 
+ | [fi](/f18/language/fi) | 249 | 249 | 100.0 | /mnt/stockage/packages/f18/byzanz/po/fi.po | 
+ | [fr](/f18/language/fr) | 238 | 238 | 100.0 | /mnt/stockage/packages/f18/byzanz/po/fr.po | 
+ | [gl](/f18/language/gl) | 238 | 238 | 100.0 | /mnt/stockage/packages/f18/byzanz/po/gl.po | 
+ | [hu](/f18/language/hu) | 236 | 236 | 100.0 | /mnt/stockage/packages/f18/byzanz/po/hu.po | 
+ | [id](/f18/language/id) | 238 | 238 | 100.0 | /mnt/stockage/packages/f18/byzanz/po/id.po | 
+ | [it](/f18/language/it) | 238 | 238 | 100.0 | /mnt/stockage/packages/f18/byzanz/po/it.po | 
+ | [ja](/f18/language/ja) | 249 | 249 | 100.0 | /mnt/stockage/packages/f18/byzanz/po/ja.po | 
+ | [pl](/f18/language/pl) | 249 | 249 | 100.0 | /mnt/stockage/packages/f18/byzanz/po/pl.po | 
+ | [pt_BR](/f18/language/pt_BR) | 234 | 234 | 100.0 | /mnt/stockage/packages/f18/byzanz/po/pt_BR.po | 
+ | [ro](/f18/language/ro) | 234 | 234 | 100.0 | /mnt/stockage/packages/f18/byzanz/po/ro.po | 
+ | [ru](/f18/language/ru) | 236 | 236 | 100.0 | /mnt/stockage/packages/f18/byzanz/po/ru.po | 
+ | [sl](/f18/language/sl) | 236 | 236 | 100.0 | /mnt/stockage/packages/f18/byzanz/po/sl.po | 
+ | [sv](/f18/language/sv) | 236 | 236 | 100.0 | /mnt/stockage/packages/f18/byzanz/po/sv.po | 
+ | [uk](/f18/language/uk) | 236 | 236 | 100.0 | /mnt/stockage/packages/f18/byzanz/po/uk.po | 
+ | [zh_Hans](/f18/language/zh_Hans) | 236 | 236 | 100.0 | /mnt/stockage/packages/f18/byzanz/po/zh_CN.po | 
+ | [vi](/f18/language/vi) | 231 | 236 | 97.9 | /mnt/stockage/packages/f18/byzanz/po/vi.po | 
+ | [tr](/f18/language/tr) | 198 | 249 | 79.5 | /mnt/stockage/packages/f18/byzanz/po/tr.po | 
+ | [nb_NO](/f18/language/nb_NO) | 126 | 234 | 53.8 | /mnt/stockage/packages/f18/byzanz/po/nb.po | 
+ | [oc](/f18/language/oc) | 3 | 249 | 1.2 | /mnt/stockage/packages/f18/byzanz/po/oc.po | 
+ | [ar](/f18/language/ar) | 0 | 249 | 0.0 | /mnt/stockage/packages/f18/byzanz/po/ar.po | 
 {.sortable}
 
 

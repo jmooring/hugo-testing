@@ -18,11 +18,11 @@ The package drupal8 (version 8.3.7):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [af]({{< ref "/f25/language/af.md" >}}) | 18 | 18 | 100.0 | /mnt/stockage/packages/f25/drupal8/core/modules/locale/tests/test.af.po | 
- | [de]({{< ref "/f25/language/de.md" >}}) | 7 | 7 | 100.0 | /mnt/stockage/packages/f25/drupal8/core/modules/locale/tests/test.de.po/mnt/stockage/packages/f25/drupal8/core/modules/simpletest/files/translations/drupal-8.0.0.de.po | 
- | [error]({{< ref "/f25/language/error.md" >}}) | 21 | 21 | 100.0 | /mnt/stockage/packages/f25/drupal8/core/modules/locale/tests/test.xx.po | 
- | [nl]({{< ref "/f25/language/nl.md" >}}) | 8 | 8 | 100.0 | /mnt/stockage/packages/f25/drupal8/core/modules/locale/tests/test.nl.po | 
- | [hu]({{< ref "/f25/language/hu.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f25/drupal8/core/modules/simpletest/files/translations/drupal-8.0.0-beta2.hu.po | 
+ | [af](/f25/language/af) | 18 | 18 | 100.0 | /mnt/stockage/packages/f25/drupal8/core/modules/locale/tests/test.af.po | 
+ | [de](/f25/language/de) | 7 | 7 | 100.0 | /mnt/stockage/packages/f25/drupal8/core/modules/locale/tests/test.de.po/mnt/stockage/packages/f25/drupal8/core/modules/simpletest/files/translations/drupal-8.0.0.de.po | 
+ | [error](/f25/language/error) | 21 | 21 | 100.0 | /mnt/stockage/packages/f25/drupal8/core/modules/locale/tests/test.xx.po | 
+ | [nl](/f25/language/nl) | 8 | 8 | 100.0 | /mnt/stockage/packages/f25/drupal8/core/modules/locale/tests/test.nl.po | 
+ | [hu](/f25/language/hu) | 0 | 0 | 0.0 | /mnt/stockage/packages/f25/drupal8/core/modules/simpletest/files/translations/drupal-8.0.0-beta2.hu.po | 
 {.sortable}
 
 

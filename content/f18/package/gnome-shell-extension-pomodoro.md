@@ -18,13 +18,13 @@ The package gnome-shell-extension-pomodoro (version 0.7):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f18/language/ca.md" >}}) | 262 | 262 | 100.0 | /mnt/stockage/packages/f18/gnome-shell-extension-pomodoro/po/ca.po | 
- | [fa]({{< ref "/f18/language/fa.md" >}}) | 216 | 216 | 100.0 | /mnt/stockage/packages/f18/gnome-shell-extension-pomodoro/po/fa.po | 
- | [pl]({{< ref "/f18/language/pl.md" >}}) | 216 | 216 | 100.0 | /mnt/stockage/packages/f18/gnome-shell-extension-pomodoro/po/pl.po | 
- | [zh_Hans]({{< ref "/f18/language/zh_Hans.md" >}}) | 216 | 216 | 100.0 | /mnt/stockage/packages/f18/gnome-shell-extension-pomodoro/po/zh_CN.po | 
- | [cs]({{< ref "/f18/language/cs.md" >}}) | 178 | 216 | 82.4 | /mnt/stockage/packages/f18/gnome-shell-extension-pomodoro/po/cs.po | 
- | [es]({{< ref "/f18/language/es.md" >}}) | 171 | 216 | 79.2 | /mnt/stockage/packages/f18/gnome-shell-extension-pomodoro/po/es.po | 
- | [fr]({{< ref "/f18/language/fr.md" >}}) | 57 | 210 | 27.1 | /mnt/stockage/packages/f18/gnome-shell-extension-pomodoro/po/fr.po | 
+ | [ca](/f18/language/ca) | 262 | 262 | 100.0 | /mnt/stockage/packages/f18/gnome-shell-extension-pomodoro/po/ca.po | 
+ | [fa](/f18/language/fa) | 216 | 216 | 100.0 | /mnt/stockage/packages/f18/gnome-shell-extension-pomodoro/po/fa.po | 
+ | [pl](/f18/language/pl) | 216 | 216 | 100.0 | /mnt/stockage/packages/f18/gnome-shell-extension-pomodoro/po/pl.po | 
+ | [zh_Hans](/f18/language/zh_Hans) | 216 | 216 | 100.0 | /mnt/stockage/packages/f18/gnome-shell-extension-pomodoro/po/zh_CN.po | 
+ | [cs](/f18/language/cs) | 178 | 216 | 82.4 | /mnt/stockage/packages/f18/gnome-shell-extension-pomodoro/po/cs.po | 
+ | [es](/f18/language/es) | 171 | 216 | 79.2 | /mnt/stockage/packages/f18/gnome-shell-extension-pomodoro/po/es.po | 
+ | [fr](/f18/language/fr) | 57 | 210 | 27.1 | /mnt/stockage/packages/f18/gnome-shell-extension-pomodoro/po/fr.po | 
 {.sortable}
 
 

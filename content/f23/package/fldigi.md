@@ -18,12 +18,12 @@ The package fldigi (version 3.23.16):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [pl]({{< ref "/f23/language/pl.md" >}}) | 6014 | 6578 | 91.4 | /mnt/stockage/packages/f23/fldigi/po/pl.po | 
- | [es]({{< ref "/f23/language/es.md" >}}) | 5004 | 6578 | 76.1 | /mnt/stockage/packages/f23/fldigi/po/es.po | 
- | [nl]({{< ref "/f23/language/nl.md" >}}) | 4970 | 6578 | 75.6 | /mnt/stockage/packages/f23/fldigi/po/nl.po | 
- | [de]({{< ref "/f23/language/de.md" >}}) | 3722 | 6578 | 56.6 | /mnt/stockage/packages/f23/fldigi/po/de.po | 
- | [it]({{< ref "/f23/language/it.md" >}}) | 3196 | 6578 | 48.6 | /mnt/stockage/packages/f23/fldigi/po/it.po | 
- | [fr]({{< ref "/f23/language/fr.md" >}}) | 1300 | 6578 | 19.8 | /mnt/stockage/packages/f23/fldigi/po/fr.po | 
+ | [pl](/f23/language/pl) | 6014 | 6578 | 91.4 | /mnt/stockage/packages/f23/fldigi/po/pl.po | 
+ | [es](/f23/language/es) | 5004 | 6578 | 76.1 | /mnt/stockage/packages/f23/fldigi/po/es.po | 
+ | [nl](/f23/language/nl) | 4970 | 6578 | 75.6 | /mnt/stockage/packages/f23/fldigi/po/nl.po | 
+ | [de](/f23/language/de) | 3722 | 6578 | 56.6 | /mnt/stockage/packages/f23/fldigi/po/de.po | 
+ | [it](/f23/language/it) | 3196 | 6578 | 48.6 | /mnt/stockage/packages/f23/fldigi/po/it.po | 
+ | [fr](/f23/language/fr) | 1300 | 6578 | 19.8 | /mnt/stockage/packages/f23/fldigi/po/fr.po | 
 {.sortable}
 
 

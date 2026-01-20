@@ -18,8 +18,8 @@ The package dgit (version 10.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [nl]({{< ref "/f35/language/nl.md" >}}) | 5664 | 5664 | 100.0 | /mnt/stockage/packages/f35/dgit/po/nl.po/mnt/stockage/packages/f35/dgit/po4a/dgit-user_7.nl.po | 
- | [en_US]({{< ref "/f35/language/en_US.md" >}}) | 10 | 3812 | 0.3 | /mnt/stockage/packages/f35/dgit/po/en_US.po | 
+ | [nl](/f35/language/nl) | 5664 | 5664 | 100.0 | /mnt/stockage/packages/f35/dgit/po/nl.po/mnt/stockage/packages/f35/dgit/po4a/dgit-user_7.nl.po | 
+ | [en_US](/f35/language/en_US) | 10 | 3812 | 0.3 | /mnt/stockage/packages/f35/dgit/po/en_US.po | 
 {.sortable}
 
 

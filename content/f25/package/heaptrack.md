@@ -18,27 +18,27 @@ The package heaptrack (version 1.0.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f25/language/ca.md" >}}) | 1160 | 1160 | 100.0 | /mnt/stockage/packages/f25/heaptrack/src/analyze/gui/po/ca/heaptrack.po | 
- | [ca@valencia]({{< ref "/f25/language/ca@valencia.md" >}}) | 1160 | 1160 | 100.0 | /mnt/stockage/packages/f25/heaptrack/src/analyze/gui/po/ca@valencia/heaptrack.po | 
- | [en_GB]({{< ref "/f25/language/en_GB.md" >}}) | 1160 | 1160 | 100.0 | /mnt/stockage/packages/f25/heaptrack/src/analyze/gui/po/en_GB/heaptrack.po | 
- | [nl]({{< ref "/f25/language/nl.md" >}}) | 1160 | 1160 | 100.0 | /mnt/stockage/packages/f25/heaptrack/src/analyze/gui/po/nl/heaptrack.po | 
- | [pl]({{< ref "/f25/language/pl.md" >}}) | 1160 | 1160 | 100.0 | /mnt/stockage/packages/f25/heaptrack/src/analyze/gui/po/pl/heaptrack.po | 
- | [pt]({{< ref "/f25/language/pt.md" >}}) | 1160 | 1160 | 100.0 | /mnt/stockage/packages/f25/heaptrack/src/analyze/gui/po/pt/heaptrack.po | 
- | [sv]({{< ref "/f25/language/sv.md" >}}) | 1160 | 1160 | 100.0 | /mnt/stockage/packages/f25/heaptrack/src/analyze/gui/po/sv/heaptrack.po | 
- | [uk]({{< ref "/f25/language/uk.md" >}}) | 1160 | 1160 | 100.0 | /mnt/stockage/packages/f25/heaptrack/src/analyze/gui/po/uk/heaptrack.po | 
- | [es]({{< ref "/f25/language/es.md" >}}) | 1156 | 1160 | 99.7 | /mnt/stockage/packages/f25/heaptrack/src/analyze/gui/po/es/heaptrack.po | 
- | [gl]({{< ref "/f25/language/gl.md" >}}) | 1134 | 1160 | 97.8 | /mnt/stockage/packages/f25/heaptrack/src/analyze/gui/po/gl/heaptrack.po | 
- | [pt_BR]({{< ref "/f25/language/pt_BR.md" >}}) | 1013 | 1160 | 87.3 | /mnt/stockage/packages/f25/heaptrack/src/analyze/gui/po/pt_BR/heaptrack.po | 
- | [de]({{< ref "/f25/language/de.md" >}}) | 181 | 1160 | 15.6 | /mnt/stockage/packages/f25/heaptrack/src/analyze/gui/po/de/heaptrack.po | 
- | [fr]({{< ref "/f25/language/fr.md" >}}) | 173 | 1160 | 14.9 | /mnt/stockage/packages/f25/heaptrack/src/analyze/gui/po/fr/heaptrack.po | 
- | [cs]({{< ref "/f25/language/cs.md" >}}) | 155 | 1160 | 13.4 | /mnt/stockage/packages/f25/heaptrack/src/analyze/gui/po/cs/heaptrack.po | 
- | [ru]({{< ref "/f25/language/ru.md" >}}) | 129 | 1160 | 11.1 | /mnt/stockage/packages/f25/heaptrack/src/analyze/gui/po/ru/heaptrack.po | 
- | [sk]({{< ref "/f25/language/sk.md" >}}) | 82 | 1160 | 7.1 | /mnt/stockage/packages/f25/heaptrack/src/analyze/gui/po/sk/heaptrack.po | 
- | [zh_Hans]({{< ref "/f25/language/zh_Hans.md" >}}) | 65 | 1160 | 5.6 | /mnt/stockage/packages/f25/heaptrack/src/analyze/gui/po/zh_CN/heaptrack.po | 
- | [ast]({{< ref "/f25/language/ast.md" >}}) | 4 | 1160 | 0.3 | /mnt/stockage/packages/f25/heaptrack/src/analyze/gui/po/ast/heaptrack.po | 
- | [ja]({{< ref "/f25/language/ja.md" >}}) | 0 | 1160 | 0.0 | /mnt/stockage/packages/f25/heaptrack/src/analyze/gui/po/ja/heaptrack.po | 
- | [lt]({{< ref "/f25/language/lt.md" >}}) | 0 | 1160 | 0.0 | /mnt/stockage/packages/f25/heaptrack/src/analyze/gui/po/lt/heaptrack.po | 
- | [zh_Hant]({{< ref "/f25/language/zh_Hant.md" >}}) | 0 | 1160 | 0.0 | /mnt/stockage/packages/f25/heaptrack/src/analyze/gui/po/zh_TW/heaptrack.po | 
+ | [ca](/f25/language/ca) | 1160 | 1160 | 100.0 | /mnt/stockage/packages/f25/heaptrack/src/analyze/gui/po/ca/heaptrack.po | 
+ | [ca@valencia](/f25/language/ca@valencia) | 1160 | 1160 | 100.0 | /mnt/stockage/packages/f25/heaptrack/src/analyze/gui/po/ca@valencia/heaptrack.po | 
+ | [en_GB](/f25/language/en_GB) | 1160 | 1160 | 100.0 | /mnt/stockage/packages/f25/heaptrack/src/analyze/gui/po/en_GB/heaptrack.po | 
+ | [nl](/f25/language/nl) | 1160 | 1160 | 100.0 | /mnt/stockage/packages/f25/heaptrack/src/analyze/gui/po/nl/heaptrack.po | 
+ | [pl](/f25/language/pl) | 1160 | 1160 | 100.0 | /mnt/stockage/packages/f25/heaptrack/src/analyze/gui/po/pl/heaptrack.po | 
+ | [pt](/f25/language/pt) | 1160 | 1160 | 100.0 | /mnt/stockage/packages/f25/heaptrack/src/analyze/gui/po/pt/heaptrack.po | 
+ | [sv](/f25/language/sv) | 1160 | 1160 | 100.0 | /mnt/stockage/packages/f25/heaptrack/src/analyze/gui/po/sv/heaptrack.po | 
+ | [uk](/f25/language/uk) | 1160 | 1160 | 100.0 | /mnt/stockage/packages/f25/heaptrack/src/analyze/gui/po/uk/heaptrack.po | 
+ | [es](/f25/language/es) | 1156 | 1160 | 99.7 | /mnt/stockage/packages/f25/heaptrack/src/analyze/gui/po/es/heaptrack.po | 
+ | [gl](/f25/language/gl) | 1134 | 1160 | 97.8 | /mnt/stockage/packages/f25/heaptrack/src/analyze/gui/po/gl/heaptrack.po | 
+ | [pt_BR](/f25/language/pt_BR) | 1013 | 1160 | 87.3 | /mnt/stockage/packages/f25/heaptrack/src/analyze/gui/po/pt_BR/heaptrack.po | 
+ | [de](/f25/language/de) | 181 | 1160 | 15.6 | /mnt/stockage/packages/f25/heaptrack/src/analyze/gui/po/de/heaptrack.po | 
+ | [fr](/f25/language/fr) | 173 | 1160 | 14.9 | /mnt/stockage/packages/f25/heaptrack/src/analyze/gui/po/fr/heaptrack.po | 
+ | [cs](/f25/language/cs) | 155 | 1160 | 13.4 | /mnt/stockage/packages/f25/heaptrack/src/analyze/gui/po/cs/heaptrack.po | 
+ | [ru](/f25/language/ru) | 129 | 1160 | 11.1 | /mnt/stockage/packages/f25/heaptrack/src/analyze/gui/po/ru/heaptrack.po | 
+ | [sk](/f25/language/sk) | 82 | 1160 | 7.1 | /mnt/stockage/packages/f25/heaptrack/src/analyze/gui/po/sk/heaptrack.po | 
+ | [zh_Hans](/f25/language/zh_Hans) | 65 | 1160 | 5.6 | /mnt/stockage/packages/f25/heaptrack/src/analyze/gui/po/zh_CN/heaptrack.po | 
+ | [ast](/f25/language/ast) | 4 | 1160 | 0.3 | /mnt/stockage/packages/f25/heaptrack/src/analyze/gui/po/ast/heaptrack.po | 
+ | [ja](/f25/language/ja) | 0 | 1160 | 0.0 | /mnt/stockage/packages/f25/heaptrack/src/analyze/gui/po/ja/heaptrack.po | 
+ | [lt](/f25/language/lt) | 0 | 1160 | 0.0 | /mnt/stockage/packages/f25/heaptrack/src/analyze/gui/po/lt/heaptrack.po | 
+ | [zh_Hant](/f25/language/zh_Hant) | 0 | 1160 | 0.0 | /mnt/stockage/packages/f25/heaptrack/src/analyze/gui/po/zh_TW/heaptrack.po | 
 {.sortable}
 
 

@@ -44,10 +44,10 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [python-humanize]({{< ref "/f43/package/python-humanize.md" >}}) | 114 | 132 | 86.4 | Language tlh | 
- | [cinnamon-translations]({{< ref "/f43/package/cinnamon-translations.md" >}}) | 51 | 14207 | 0.4 | Klingon <tlh@li.org> | 
- | [geeqie]({{< ref "/f43/package/geeqie.md" >}}) | 4 | 6400 | 0.1 |  | 
- | [deluge]({{< ref "/f43/package/deluge.md" >}}) | 0 | 4390 | 0.0 | Klingon <tlh@li.org> | 
+ | [python-humanize](/f43/package/python-humanize) | 114 | 132 | 86.4 | Language tlh | 
+ | [cinnamon-translations](/f43/package/cinnamon-translations) | 51 | 14207 | 0.4 | Klingon <tlh@li.org> | 
+ | [geeqie](/f43/package/geeqie) | 4 | 6400 | 0.1 |  | 
+ | [deluge](/f43/package/deluge) | 0 | 4390 | 0.0 | Klingon <tlh@li.org> | 
 {.sortable}
 
 

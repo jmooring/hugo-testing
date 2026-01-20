@@ -38,7 +38,7 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [lagrange]({{< ref "/f37/package/lagrange.md" >}}) | 91 | 91 | 100.0 |  | 
+ | [lagrange](/f37/package/lagrange) | 91 | 91 | 100.0 |  | 
 {.sortable}
 
 

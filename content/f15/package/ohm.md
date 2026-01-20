@@ -18,7 +18,7 @@ The package ohm (version 0.1.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [en_GB]({{< ref "/f15/language/en_GB.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f15/ohm/po/en_GB.po | 
+ | [en_GB](/f15/language/en_GB) | 0 | 0 | 0.0 | /mnt/stockage/packages/f15/ohm/po/en_GB.po | 
 {.sortable}
 
 

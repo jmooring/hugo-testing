@@ -18,17 +18,17 @@ The package denemo (version 2.2.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f27/language/ca.md" >}}) | 44620 | 44620 | 100.0 | /mnt/stockage/packages/f27/denemo/po/ca.po | 
- | [cs]({{< ref "/f27/language/cs.md" >}}) | 44620 | 44620 | 100.0 | /mnt/stockage/packages/f27/denemo/po/cs.po | 
- | [it]({{< ref "/f27/language/it.md" >}}) | 31156 | 31156 | 100.0 | /mnt/stockage/packages/f27/denemo/po/it.po | 
- | [zh_Hans]({{< ref "/f27/language/zh_Hans.md" >}}) | 44170 | 45019 | 98.1 | /mnt/stockage/packages/f27/denemo/po/zh_CN.po | 
- | [da]({{< ref "/f27/language/da.md" >}}) | 32737 | 44553 | 73.5 | /mnt/stockage/packages/f27/denemo/po/da.po | 
- | [fr]({{< ref "/f27/language/fr.md" >}}) | 19330 | 36684 | 52.7 | /mnt/stockage/packages/f27/denemo/po/fr.po | 
- | [pl]({{< ref "/f27/language/pl.md" >}}) | 2209 | 14852 | 14.9 | /mnt/stockage/packages/f27/denemo/po/pl.po | 
- | [ja]({{< ref "/f27/language/ja.md" >}}) | 5505 | 45019 | 12.2 | /mnt/stockage/packages/f27/denemo/po/ja.po | 
- | [de]({{< ref "/f27/language/de.md" >}}) | 1265 | 14852 | 8.5 | /mnt/stockage/packages/f27/denemo/po/de.po | 
- | [sv]({{< ref "/f27/language/sv.md" >}}) | 81 | 22597 | 0.4 | /mnt/stockage/packages/f27/denemo/po/sv.po | 
- | [es]({{< ref "/f27/language/es.md" >}}) | 0 | 22597 | 0.0 | /mnt/stockage/packages/f27/denemo/po/es.po | 
+ | [ca](/f27/language/ca) | 44620 | 44620 | 100.0 | /mnt/stockage/packages/f27/denemo/po/ca.po | 
+ | [cs](/f27/language/cs) | 44620 | 44620 | 100.0 | /mnt/stockage/packages/f27/denemo/po/cs.po | 
+ | [it](/f27/language/it) | 31156 | 31156 | 100.0 | /mnt/stockage/packages/f27/denemo/po/it.po | 
+ | [zh_Hans](/f27/language/zh_Hans) | 44170 | 45019 | 98.1 | /mnt/stockage/packages/f27/denemo/po/zh_CN.po | 
+ | [da](/f27/language/da) | 32737 | 44553 | 73.5 | /mnt/stockage/packages/f27/denemo/po/da.po | 
+ | [fr](/f27/language/fr) | 19330 | 36684 | 52.7 | /mnt/stockage/packages/f27/denemo/po/fr.po | 
+ | [pl](/f27/language/pl) | 2209 | 14852 | 14.9 | /mnt/stockage/packages/f27/denemo/po/pl.po | 
+ | [ja](/f27/language/ja) | 5505 | 45019 | 12.2 | /mnt/stockage/packages/f27/denemo/po/ja.po | 
+ | [de](/f27/language/de) | 1265 | 14852 | 8.5 | /mnt/stockage/packages/f27/denemo/po/de.po | 
+ | [sv](/f27/language/sv) | 81 | 22597 | 0.4 | /mnt/stockage/packages/f27/denemo/po/sv.po | 
+ | [es](/f27/language/es) | 0 | 22597 | 0.0 | /mnt/stockage/packages/f27/denemo/po/es.po | 
 {.sortable}
 
 

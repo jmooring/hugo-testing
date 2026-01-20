@@ -18,15 +18,15 @@ The package xen (version 4.15.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [bg]({{< ref "/f35/language/bg.md" >}}) | 35 | 35 | 100.0 | /mnt/stockage/packages/f35/xen/tools/qemu-xen/po/bg.po | 
- | [sv]({{< ref "/f35/language/sv.md" >}}) | 35 | 35 | 100.0 | /mnt/stockage/packages/f35/xen/tools/qemu-xen/po/sv.po | 
- | [zh_Hans]({{< ref "/f35/language/zh_Hans.md" >}}) | 35 | 35 | 100.0 | /mnt/stockage/packages/f35/xen/tools/qemu-xen/po/zh_CN.po | 
- | [de]({{< ref "/f35/language/de.md" >}}) | 33 | 35 | 94.3 | /mnt/stockage/packages/f35/xen/tools/qemu-xen/po/de_DE.po | 
- | [fr]({{< ref "/f35/language/fr.md" >}}) | 33 | 35 | 94.3 | /mnt/stockage/packages/f35/xen/tools/qemu-xen/po/fr_FR.po | 
- | [it]({{< ref "/f35/language/it.md" >}}) | 33 | 35 | 94.3 | /mnt/stockage/packages/f35/xen/tools/qemu-xen/po/it.po | 
- | [hu]({{< ref "/f35/language/hu.md" >}}) | 22 | 35 | 62.9 | /mnt/stockage/packages/f35/xen/tools/qemu-xen/po/hu.po | 
- | [tr]({{< ref "/f35/language/tr.md" >}}) | 22 | 35 | 62.9 | /mnt/stockage/packages/f35/xen/tools/qemu-xen/po/tr.po | 
- | [error]({{< ref "/f35/language/error.md" >}}) | 0 | 35 | 0.0 | /mnt/stockage/packages/f35/xen/tools/qemu-xen/po/messages.po | 
+ | [bg](/f35/language/bg) | 35 | 35 | 100.0 | /mnt/stockage/packages/f35/xen/tools/qemu-xen/po/bg.po | 
+ | [sv](/f35/language/sv) | 35 | 35 | 100.0 | /mnt/stockage/packages/f35/xen/tools/qemu-xen/po/sv.po | 
+ | [zh_Hans](/f35/language/zh_Hans) | 35 | 35 | 100.0 | /mnt/stockage/packages/f35/xen/tools/qemu-xen/po/zh_CN.po | 
+ | [de](/f35/language/de) | 33 | 35 | 94.3 | /mnt/stockage/packages/f35/xen/tools/qemu-xen/po/de_DE.po | 
+ | [fr](/f35/language/fr) | 33 | 35 | 94.3 | /mnt/stockage/packages/f35/xen/tools/qemu-xen/po/fr_FR.po | 
+ | [it](/f35/language/it) | 33 | 35 | 94.3 | /mnt/stockage/packages/f35/xen/tools/qemu-xen/po/it.po | 
+ | [hu](/f35/language/hu) | 22 | 35 | 62.9 | /mnt/stockage/packages/f35/xen/tools/qemu-xen/po/hu.po | 
+ | [tr](/f35/language/tr) | 22 | 35 | 62.9 | /mnt/stockage/packages/f35/xen/tools/qemu-xen/po/tr.po | 
+ | [error](/f35/language/error) | 0 | 35 | 0.0 | /mnt/stockage/packages/f35/xen/tools/qemu-xen/po/messages.po | 
 {.sortable}
 
 

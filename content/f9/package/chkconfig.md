@@ -18,71 +18,71 @@ The package chkconfig (version 1.3.37):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [as]({{< ref "/f9/language/as.md" >}}) | 430 | 430 | 100.0 | /mnt/stockage/packages/f9/chkconfig/po/as.po | 
- | [bg]({{< ref "/f9/language/bg.md" >}}) | 430 | 430 | 100.0 | /mnt/stockage/packages/f9/chkconfig/po/bg.po | 
- | [bn_IN]({{< ref "/f9/language/bn_IN.md" >}}) | 430 | 430 | 100.0 | /mnt/stockage/packages/f9/chkconfig/po/bn_IN.po | 
- | [ca]({{< ref "/f9/language/ca.md" >}}) | 430 | 430 | 100.0 | /mnt/stockage/packages/f9/chkconfig/po/ca.po | 
- | [cs]({{< ref "/f9/language/cs.md" >}}) | 430 | 430 | 100.0 | /mnt/stockage/packages/f9/chkconfig/po/cs.po | 
- | [cy]({{< ref "/f9/language/cy.md" >}}) | 430 | 430 | 100.0 | /mnt/stockage/packages/f9/chkconfig/po/cy.po | 
- | [da]({{< ref "/f9/language/da.md" >}}) | 430 | 430 | 100.0 | /mnt/stockage/packages/f9/chkconfig/po/da.po | 
- | [de]({{< ref "/f9/language/de.md" >}}) | 430 | 430 | 100.0 | /mnt/stockage/packages/f9/chkconfig/po/de.po | 
- | [en_GB]({{< ref "/f9/language/en_GB.md" >}}) | 430 | 430 | 100.0 | /mnt/stockage/packages/f9/chkconfig/po/en_GB.po | 
- | [es]({{< ref "/f9/language/es.md" >}}) | 430 | 430 | 100.0 | /mnt/stockage/packages/f9/chkconfig/po/es.po | 
- | [fi]({{< ref "/f9/language/fi.md" >}}) | 430 | 430 | 100.0 | /mnt/stockage/packages/f9/chkconfig/po/fi.po | 
- | [fr]({{< ref "/f9/language/fr.md" >}}) | 430 | 430 | 100.0 | /mnt/stockage/packages/f9/chkconfig/po/fr.po | 
- | [gu]({{< ref "/f9/language/gu.md" >}}) | 430 | 430 | 100.0 | /mnt/stockage/packages/f9/chkconfig/po/gu.po | 
- | [hi]({{< ref "/f9/language/hi.md" >}}) | 430 | 430 | 100.0 | /mnt/stockage/packages/f9/chkconfig/po/hi.po | 
- | [hr]({{< ref "/f9/language/hr.md" >}}) | 430 | 430 | 100.0 | /mnt/stockage/packages/f9/chkconfig/po/hr.po | 
- | [hu]({{< ref "/f9/language/hu.md" >}}) | 430 | 430 | 100.0 | /mnt/stockage/packages/f9/chkconfig/po/hu.po | 
- | [id]({{< ref "/f9/language/id.md" >}}) | 430 | 430 | 100.0 | /mnt/stockage/packages/f9/chkconfig/po/id.po | 
- | [is]({{< ref "/f9/language/is.md" >}}) | 430 | 430 | 100.0 | /mnt/stockage/packages/f9/chkconfig/po/is.po | 
- | [it]({{< ref "/f9/language/it.md" >}}) | 430 | 430 | 100.0 | /mnt/stockage/packages/f9/chkconfig/po/it.po | 
- | [ja]({{< ref "/f9/language/ja.md" >}}) | 430 | 430 | 100.0 | /mnt/stockage/packages/f9/chkconfig/po/ja.po | 
- | [kn]({{< ref "/f9/language/kn.md" >}}) | 430 | 430 | 100.0 | /mnt/stockage/packages/f9/chkconfig/po/kn.po | 
- | [ko]({{< ref "/f9/language/ko.md" >}}) | 430 | 430 | 100.0 | /mnt/stockage/packages/f9/chkconfig/po/ko.po | 
- | [mk]({{< ref "/f9/language/mk.md" >}}) | 430 | 430 | 100.0 | /mnt/stockage/packages/f9/chkconfig/po/mk.po | 
- | [ml]({{< ref "/f9/language/ml.md" >}}) | 430 | 430 | 100.0 | /mnt/stockage/packages/f9/chkconfig/po/ml.po | 
- | [mr]({{< ref "/f9/language/mr.md" >}}) | 430 | 430 | 100.0 | /mnt/stockage/packages/f9/chkconfig/po/mr.po | 
- | [ms]({{< ref "/f9/language/ms.md" >}}) | 430 | 430 | 100.0 | /mnt/stockage/packages/f9/chkconfig/po/ms.po | 
- | [nb_NO]({{< ref "/f9/language/nb_NO.md" >}}) | 430 | 430 | 100.0 | /mnt/stockage/packages/f9/chkconfig/po/nb.po | 
- | [nl]({{< ref "/f9/language/nl.md" >}}) | 430 | 430 | 100.0 | /mnt/stockage/packages/f9/chkconfig/po/nl.po | 
- | [or]({{< ref "/f9/language/or.md" >}}) | 430 | 430 | 100.0 | /mnt/stockage/packages/f9/chkconfig/po/or.po | 
- | [pa]({{< ref "/f9/language/pa.md" >}}) | 430 | 430 | 100.0 | /mnt/stockage/packages/f9/chkconfig/po/pa.po | 
- | [pl]({{< ref "/f9/language/pl.md" >}}) | 430 | 430 | 100.0 | /mnt/stockage/packages/f9/chkconfig/po/pl.po | 
- | [pt]({{< ref "/f9/language/pt.md" >}}) | 430 | 430 | 100.0 | /mnt/stockage/packages/f9/chkconfig/po/pt.po | 
- | [pt_BR]({{< ref "/f9/language/pt_BR.md" >}}) | 430 | 430 | 100.0 | /mnt/stockage/packages/f9/chkconfig/po/pt_BR.po | 
- | [ro]({{< ref "/f9/language/ro.md" >}}) | 430 | 430 | 100.0 | /mnt/stockage/packages/f9/chkconfig/po/ro.po | 
- | [ru]({{< ref "/f9/language/ru.md" >}}) | 430 | 430 | 100.0 | /mnt/stockage/packages/f9/chkconfig/po/ru.po | 
- | [sk]({{< ref "/f9/language/sk.md" >}}) | 430 | 430 | 100.0 | /mnt/stockage/packages/f9/chkconfig/po/sk.po | 
- | [sl]({{< ref "/f9/language/sl.md" >}}) | 430 | 430 | 100.0 | /mnt/stockage/packages/f9/chkconfig/po/sl.po | 
- | [sr]({{< ref "/f9/language/sr.md" >}}) | 430 | 430 | 100.0 | /mnt/stockage/packages/f9/chkconfig/po/sr.po | 
- | [sr_Latn]({{< ref "/f9/language/sr_Latn.md" >}}) | 430 | 430 | 100.0 | /mnt/stockage/packages/f9/chkconfig/po/sr@latin.po | 
- | [sv]({{< ref "/f9/language/sv.md" >}}) | 430 | 430 | 100.0 | /mnt/stockage/packages/f9/chkconfig/po/sv.po | 
- | [ta]({{< ref "/f9/language/ta.md" >}}) | 430 | 430 | 100.0 | /mnt/stockage/packages/f9/chkconfig/po/ta.po | 
- | [te]({{< ref "/f9/language/te.md" >}}) | 430 | 430 | 100.0 | /mnt/stockage/packages/f9/chkconfig/po/te.po | 
- | [tr]({{< ref "/f9/language/tr.md" >}}) | 430 | 430 | 100.0 | /mnt/stockage/packages/f9/chkconfig/po/tr.po | 
- | [uk]({{< ref "/f9/language/uk.md" >}}) | 430 | 430 | 100.0 | /mnt/stockage/packages/f9/chkconfig/po/uk.po | 
- | [zh_Hans]({{< ref "/f9/language/zh_Hans.md" >}}) | 430 | 430 | 100.0 | /mnt/stockage/packages/f9/chkconfig/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f9/language/zh_Hant.md" >}}) | 430 | 430 | 100.0 | /mnt/stockage/packages/f9/chkconfig/po/zh_TW.po | 
- | [ar]({{< ref "/f9/language/ar.md" >}}) | 417 | 430 | 97.0 | /mnt/stockage/packages/f9/chkconfig/po/ar.po | 
- | [bn]({{< ref "/f9/language/bn.md" >}}) | 417 | 430 | 97.0 | /mnt/stockage/packages/f9/chkconfig/po/bn.po | 
- | [bs]({{< ref "/f9/language/bs.md" >}}) | 417 | 430 | 97.0 | /mnt/stockage/packages/f9/chkconfig/po/bs.po | 
- | [et]({{< ref "/f9/language/et.md" >}}) | 417 | 430 | 97.0 | /mnt/stockage/packages/f9/chkconfig/po/et.po | 
- | [lv]({{< ref "/f9/language/lv.md" >}}) | 417 | 430 | 97.0 | /mnt/stockage/packages/f9/chkconfig/po/lv.po | 
- | [ur]({{< ref "/f9/language/ur.md" >}}) | 417 | 430 | 97.0 | /mnt/stockage/packages/f9/chkconfig/po/ur.po | 
- | [be]({{< ref "/f9/language/be.md" >}}) | 410 | 430 | 95.3 | /mnt/stockage/packages/f9/chkconfig/po/be.po | 
- | [vi]({{< ref "/f9/language/vi.md" >}}) | 360 | 430 | 83.7 | /mnt/stockage/packages/f9/chkconfig/po/vi.po | 
- | [ka]({{< ref "/f9/language/ka.md" >}}) | 231 | 430 | 53.7 | /mnt/stockage/packages/f9/chkconfig/po/ka.po | 
- | [el]({{< ref "/f9/language/el.md" >}}) | 199 | 430 | 46.3 | /mnt/stockage/packages/f9/chkconfig/po/el.po | 
- | [gl]({{< ref "/f9/language/gl.md" >}}) | 130 | 430 | 30.2 | /mnt/stockage/packages/f9/chkconfig/po/gl.po | 
- | [nn]({{< ref "/f9/language/nn.md" >}}) | 6 | 430 | 1.4 | /mnt/stockage/packages/f9/chkconfig/po/nn.po | 
- | [he]({{< ref "/f9/language/he.md" >}}) | 0 | 430 | 0.0 | /mnt/stockage/packages/f9/chkconfig/po/he.po | 
- | [hy]({{< ref "/f9/language/hy.md" >}}) | 0 | 430 | 0.0 | /mnt/stockage/packages/f9/chkconfig/po/hy.po | 
- | [ku]({{< ref "/f9/language/ku.md" >}}) | 0 | 430 | 0.0 | /mnt/stockage/packages/f9/chkconfig/po/ku.po | 
- | [lo]({{< ref "/f9/language/lo.md" >}}) | 0 | 430 | 0.0 | /mnt/stockage/packages/f9/chkconfig/po/lo.po | 
- | [my]({{< ref "/f9/language/my.md" >}}) | 0 | 430 | 0.0 | /mnt/stockage/packages/f9/chkconfig/po/my.po | 
- | [si]({{< ref "/f9/language/si.md" >}}) | 0 | 430 | 0.0 | /mnt/stockage/packages/f9/chkconfig/po/si.po | 
- | [sq]({{< ref "/f9/language/sq.md" >}}) | 0 | 430 | 0.0 | /mnt/stockage/packages/f9/chkconfig/po/sq.po | 
+ | [as](/f9/language/as) | 430 | 430 | 100.0 | /mnt/stockage/packages/f9/chkconfig/po/as.po | 
+ | [bg](/f9/language/bg) | 430 | 430 | 100.0 | /mnt/stockage/packages/f9/chkconfig/po/bg.po | 
+ | [bn_IN](/f9/language/bn_IN) | 430 | 430 | 100.0 | /mnt/stockage/packages/f9/chkconfig/po/bn_IN.po | 
+ | [ca](/f9/language/ca) | 430 | 430 | 100.0 | /mnt/stockage/packages/f9/chkconfig/po/ca.po | 
+ | [cs](/f9/language/cs) | 430 | 430 | 100.0 | /mnt/stockage/packages/f9/chkconfig/po/cs.po | 
+ | [cy](/f9/language/cy) | 430 | 430 | 100.0 | /mnt/stockage/packages/f9/chkconfig/po/cy.po | 
+ | [da](/f9/language/da) | 430 | 430 | 100.0 | /mnt/stockage/packages/f9/chkconfig/po/da.po | 
+ | [de](/f9/language/de) | 430 | 430 | 100.0 | /mnt/stockage/packages/f9/chkconfig/po/de.po | 
+ | [en_GB](/f9/language/en_GB) | 430 | 430 | 100.0 | /mnt/stockage/packages/f9/chkconfig/po/en_GB.po | 
+ | [es](/f9/language/es) | 430 | 430 | 100.0 | /mnt/stockage/packages/f9/chkconfig/po/es.po | 
+ | [fi](/f9/language/fi) | 430 | 430 | 100.0 | /mnt/stockage/packages/f9/chkconfig/po/fi.po | 
+ | [fr](/f9/language/fr) | 430 | 430 | 100.0 | /mnt/stockage/packages/f9/chkconfig/po/fr.po | 
+ | [gu](/f9/language/gu) | 430 | 430 | 100.0 | /mnt/stockage/packages/f9/chkconfig/po/gu.po | 
+ | [hi](/f9/language/hi) | 430 | 430 | 100.0 | /mnt/stockage/packages/f9/chkconfig/po/hi.po | 
+ | [hr](/f9/language/hr) | 430 | 430 | 100.0 | /mnt/stockage/packages/f9/chkconfig/po/hr.po | 
+ | [hu](/f9/language/hu) | 430 | 430 | 100.0 | /mnt/stockage/packages/f9/chkconfig/po/hu.po | 
+ | [id](/f9/language/id) | 430 | 430 | 100.0 | /mnt/stockage/packages/f9/chkconfig/po/id.po | 
+ | [is](/f9/language/is) | 430 | 430 | 100.0 | /mnt/stockage/packages/f9/chkconfig/po/is.po | 
+ | [it](/f9/language/it) | 430 | 430 | 100.0 | /mnt/stockage/packages/f9/chkconfig/po/it.po | 
+ | [ja](/f9/language/ja) | 430 | 430 | 100.0 | /mnt/stockage/packages/f9/chkconfig/po/ja.po | 
+ | [kn](/f9/language/kn) | 430 | 430 | 100.0 | /mnt/stockage/packages/f9/chkconfig/po/kn.po | 
+ | [ko](/f9/language/ko) | 430 | 430 | 100.0 | /mnt/stockage/packages/f9/chkconfig/po/ko.po | 
+ | [mk](/f9/language/mk) | 430 | 430 | 100.0 | /mnt/stockage/packages/f9/chkconfig/po/mk.po | 
+ | [ml](/f9/language/ml) | 430 | 430 | 100.0 | /mnt/stockage/packages/f9/chkconfig/po/ml.po | 
+ | [mr](/f9/language/mr) | 430 | 430 | 100.0 | /mnt/stockage/packages/f9/chkconfig/po/mr.po | 
+ | [ms](/f9/language/ms) | 430 | 430 | 100.0 | /mnt/stockage/packages/f9/chkconfig/po/ms.po | 
+ | [nb_NO](/f9/language/nb_NO) | 430 | 430 | 100.0 | /mnt/stockage/packages/f9/chkconfig/po/nb.po | 
+ | [nl](/f9/language/nl) | 430 | 430 | 100.0 | /mnt/stockage/packages/f9/chkconfig/po/nl.po | 
+ | [or](/f9/language/or) | 430 | 430 | 100.0 | /mnt/stockage/packages/f9/chkconfig/po/or.po | 
+ | [pa](/f9/language/pa) | 430 | 430 | 100.0 | /mnt/stockage/packages/f9/chkconfig/po/pa.po | 
+ | [pl](/f9/language/pl) | 430 | 430 | 100.0 | /mnt/stockage/packages/f9/chkconfig/po/pl.po | 
+ | [pt](/f9/language/pt) | 430 | 430 | 100.0 | /mnt/stockage/packages/f9/chkconfig/po/pt.po | 
+ | [pt_BR](/f9/language/pt_BR) | 430 | 430 | 100.0 | /mnt/stockage/packages/f9/chkconfig/po/pt_BR.po | 
+ | [ro](/f9/language/ro) | 430 | 430 | 100.0 | /mnt/stockage/packages/f9/chkconfig/po/ro.po | 
+ | [ru](/f9/language/ru) | 430 | 430 | 100.0 | /mnt/stockage/packages/f9/chkconfig/po/ru.po | 
+ | [sk](/f9/language/sk) | 430 | 430 | 100.0 | /mnt/stockage/packages/f9/chkconfig/po/sk.po | 
+ | [sl](/f9/language/sl) | 430 | 430 | 100.0 | /mnt/stockage/packages/f9/chkconfig/po/sl.po | 
+ | [sr](/f9/language/sr) | 430 | 430 | 100.0 | /mnt/stockage/packages/f9/chkconfig/po/sr.po | 
+ | [sr_Latn](/f9/language/sr_Latn) | 430 | 430 | 100.0 | /mnt/stockage/packages/f9/chkconfig/po/sr@latin.po | 
+ | [sv](/f9/language/sv) | 430 | 430 | 100.0 | /mnt/stockage/packages/f9/chkconfig/po/sv.po | 
+ | [ta](/f9/language/ta) | 430 | 430 | 100.0 | /mnt/stockage/packages/f9/chkconfig/po/ta.po | 
+ | [te](/f9/language/te) | 430 | 430 | 100.0 | /mnt/stockage/packages/f9/chkconfig/po/te.po | 
+ | [tr](/f9/language/tr) | 430 | 430 | 100.0 | /mnt/stockage/packages/f9/chkconfig/po/tr.po | 
+ | [uk](/f9/language/uk) | 430 | 430 | 100.0 | /mnt/stockage/packages/f9/chkconfig/po/uk.po | 
+ | [zh_Hans](/f9/language/zh_Hans) | 430 | 430 | 100.0 | /mnt/stockage/packages/f9/chkconfig/po/zh_CN.po | 
+ | [zh_Hant](/f9/language/zh_Hant) | 430 | 430 | 100.0 | /mnt/stockage/packages/f9/chkconfig/po/zh_TW.po | 
+ | [ar](/f9/language/ar) | 417 | 430 | 97.0 | /mnt/stockage/packages/f9/chkconfig/po/ar.po | 
+ | [bn](/f9/language/bn) | 417 | 430 | 97.0 | /mnt/stockage/packages/f9/chkconfig/po/bn.po | 
+ | [bs](/f9/language/bs) | 417 | 430 | 97.0 | /mnt/stockage/packages/f9/chkconfig/po/bs.po | 
+ | [et](/f9/language/et) | 417 | 430 | 97.0 | /mnt/stockage/packages/f9/chkconfig/po/et.po | 
+ | [lv](/f9/language/lv) | 417 | 430 | 97.0 | /mnt/stockage/packages/f9/chkconfig/po/lv.po | 
+ | [ur](/f9/language/ur) | 417 | 430 | 97.0 | /mnt/stockage/packages/f9/chkconfig/po/ur.po | 
+ | [be](/f9/language/be) | 410 | 430 | 95.3 | /mnt/stockage/packages/f9/chkconfig/po/be.po | 
+ | [vi](/f9/language/vi) | 360 | 430 | 83.7 | /mnt/stockage/packages/f9/chkconfig/po/vi.po | 
+ | [ka](/f9/language/ka) | 231 | 430 | 53.7 | /mnt/stockage/packages/f9/chkconfig/po/ka.po | 
+ | [el](/f9/language/el) | 199 | 430 | 46.3 | /mnt/stockage/packages/f9/chkconfig/po/el.po | 
+ | [gl](/f9/language/gl) | 130 | 430 | 30.2 | /mnt/stockage/packages/f9/chkconfig/po/gl.po | 
+ | [nn](/f9/language/nn) | 6 | 430 | 1.4 | /mnt/stockage/packages/f9/chkconfig/po/nn.po | 
+ | [he](/f9/language/he) | 0 | 430 | 0.0 | /mnt/stockage/packages/f9/chkconfig/po/he.po | 
+ | [hy](/f9/language/hy) | 0 | 430 | 0.0 | /mnt/stockage/packages/f9/chkconfig/po/hy.po | 
+ | [ku](/f9/language/ku) | 0 | 430 | 0.0 | /mnt/stockage/packages/f9/chkconfig/po/ku.po | 
+ | [lo](/f9/language/lo) | 0 | 430 | 0.0 | /mnt/stockage/packages/f9/chkconfig/po/lo.po | 
+ | [my](/f9/language/my) | 0 | 430 | 0.0 | /mnt/stockage/packages/f9/chkconfig/po/my.po | 
+ | [si](/f9/language/si) | 0 | 430 | 0.0 | /mnt/stockage/packages/f9/chkconfig/po/si.po | 
+ | [sq](/f9/language/sq) | 0 | 430 | 0.0 | /mnt/stockage/packages/f9/chkconfig/po/sq.po | 
 {.sortable}
 
 

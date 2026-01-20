@@ -18,53 +18,53 @@ The package ksquares (version 17.12.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [bs]({{< ref "/f27/language/bs.md" >}}) | 257 | 257 | 100.0 | /mnt/stockage/packages/f27/ksquares/po/bs/ksquares.po | 
- | [ca]({{< ref "/f27/language/ca.md" >}}) | 257 | 257 | 100.0 | /mnt/stockage/packages/f27/ksquares/po/ca/ksquares.po | 
- | [ca@valencia]({{< ref "/f27/language/ca@valencia.md" >}}) | 257 | 257 | 100.0 | /mnt/stockage/packages/f27/ksquares/po/ca@valencia/ksquares.po | 
- | [cs]({{< ref "/f27/language/cs.md" >}}) | 257 | 257 | 100.0 | /mnt/stockage/packages/f27/ksquares/po/cs/ksquares.po | 
- | [da]({{< ref "/f27/language/da.md" >}}) | 257 | 257 | 100.0 | /mnt/stockage/packages/f27/ksquares/po/da/ksquares.po | 
- | [de]({{< ref "/f27/language/de.md" >}}) | 257 | 257 | 100.0 | /mnt/stockage/packages/f27/ksquares/po/de/ksquares.po | 
- | [el]({{< ref "/f27/language/el.md" >}}) | 257 | 257 | 100.0 | /mnt/stockage/packages/f27/ksquares/po/el/ksquares.po | 
- | [en_GB]({{< ref "/f27/language/en_GB.md" >}}) | 257 | 257 | 100.0 | /mnt/stockage/packages/f27/ksquares/po/en_GB/ksquares.po | 
- | [es]({{< ref "/f27/language/es.md" >}}) | 257 | 257 | 100.0 | /mnt/stockage/packages/f27/ksquares/po/es/ksquares.po | 
- | [et]({{< ref "/f27/language/et.md" >}}) | 257 | 257 | 100.0 | /mnt/stockage/packages/f27/ksquares/po/et/ksquares.po | 
- | [fi]({{< ref "/f27/language/fi.md" >}}) | 257 | 257 | 100.0 | /mnt/stockage/packages/f27/ksquares/po/fi/ksquares.po | 
- | [fr]({{< ref "/f27/language/fr.md" >}}) | 257 | 257 | 100.0 | /mnt/stockage/packages/f27/ksquares/po/fr/ksquares.po | 
- | [gl]({{< ref "/f27/language/gl.md" >}}) | 257 | 257 | 100.0 | /mnt/stockage/packages/f27/ksquares/po/gl/ksquares.po | 
- | [hu]({{< ref "/f27/language/hu.md" >}}) | 257 | 257 | 100.0 | /mnt/stockage/packages/f27/ksquares/po/hu/ksquares.po | 
- | [it]({{< ref "/f27/language/it.md" >}}) | 257 | 257 | 100.0 | /mnt/stockage/packages/f27/ksquares/po/it/ksquares.po | 
- | [kk]({{< ref "/f27/language/kk.md" >}}) | 257 | 257 | 100.0 | /mnt/stockage/packages/f27/ksquares/po/kk/ksquares.po | 
- | [nb_NO]({{< ref "/f27/language/nb_NO.md" >}}) | 257 | 257 | 100.0 | /mnt/stockage/packages/f27/ksquares/po/nb/ksquares.po | 
- | [nds]({{< ref "/f27/language/nds.md" >}}) | 257 | 257 | 100.0 | /mnt/stockage/packages/f27/ksquares/po/nds/ksquares.po | 
- | [nl]({{< ref "/f27/language/nl.md" >}}) | 257 | 257 | 100.0 | /mnt/stockage/packages/f27/ksquares/po/nl/ksquares.po | 
- | [nn]({{< ref "/f27/language/nn.md" >}}) | 257 | 257 | 100.0 | /mnt/stockage/packages/f27/ksquares/po/nn/ksquares.po | 
- | [pl]({{< ref "/f27/language/pl.md" >}}) | 257 | 257 | 100.0 | /mnt/stockage/packages/f27/ksquares/po/pl/ksquares.po | 
- | [pt]({{< ref "/f27/language/pt.md" >}}) | 257 | 257 | 100.0 | /mnt/stockage/packages/f27/ksquares/po/pt/ksquares.po | 
- | [pt_BR]({{< ref "/f27/language/pt_BR.md" >}}) | 257 | 257 | 100.0 | /mnt/stockage/packages/f27/ksquares/po/pt_BR/ksquares.po | 
- | [ru]({{< ref "/f27/language/ru.md" >}}) | 257 | 257 | 100.0 | /mnt/stockage/packages/f27/ksquares/po/ru/ksquares.po | 
- | [sk]({{< ref "/f27/language/sk.md" >}}) | 257 | 257 | 100.0 | /mnt/stockage/packages/f27/ksquares/po/sk/ksquares.po | 
- | [sl]({{< ref "/f27/language/sl.md" >}}) | 257 | 257 | 100.0 | /mnt/stockage/packages/f27/ksquares/po/sl/ksquares.po | 
- | [sr]({{< ref "/f27/language/sr.md" >}}) | 257 | 257 | 100.0 | /mnt/stockage/packages/f27/ksquares/po/sr/ksquares.po | 
- | [sv]({{< ref "/f27/language/sv.md" >}}) | 257 | 257 | 100.0 | /mnt/stockage/packages/f27/ksquares/po/sv/ksquares.po | 
- | [tr]({{< ref "/f27/language/tr.md" >}}) | 257 | 257 | 100.0 | /mnt/stockage/packages/f27/ksquares/po/tr/ksquares.po | 
- | [uk]({{< ref "/f27/language/uk.md" >}}) | 257 | 257 | 100.0 | /mnt/stockage/packages/f27/ksquares/po/uk/ksquares.po | 
- | [zh_Hans]({{< ref "/f27/language/zh_Hans.md" >}}) | 257 | 257 | 100.0 | /mnt/stockage/packages/f27/ksquares/po/zh_CN/ksquares.po | 
- | [zh_Hant]({{< ref "/f27/language/zh_Hant.md" >}}) | 257 | 257 | 100.0 | /mnt/stockage/packages/f27/ksquares/po/zh_TW/ksquares.po | 
- | [eu]({{< ref "/f27/language/eu.md" >}}) | 251 | 257 | 97.7 | /mnt/stockage/packages/f27/ksquares/po/eu/ksquares.po | 
- | [ga]({{< ref "/f27/language/ga.md" >}}) | 251 | 257 | 97.7 | /mnt/stockage/packages/f27/ksquares/po/ga/ksquares.po | 
- | [ja]({{< ref "/f27/language/ja.md" >}}) | 251 | 257 | 97.7 | /mnt/stockage/packages/f27/ksquares/po/ja/ksquares.po | 
- | [km]({{< ref "/f27/language/km.md" >}}) | 251 | 257 | 97.7 | /mnt/stockage/packages/f27/ksquares/po/km/ksquares.po | 
- | [ro]({{< ref "/f27/language/ro.md" >}}) | 251 | 257 | 97.7 | /mnt/stockage/packages/f27/ksquares/po/ro/ksquares.po | 
- | [lv]({{< ref "/f27/language/lv.md" >}}) | 249 | 257 | 96.9 | /mnt/stockage/packages/f27/ksquares/po/lv/ksquares.po | 
- | [ar]({{< ref "/f27/language/ar.md" >}}) | 168 | 257 | 65.4 | /mnt/stockage/packages/f27/ksquares/po/ar/ksquares.po | 
- | [hi]({{< ref "/f27/language/hi.md" >}}) | 144 | 257 | 56.0 | /mnt/stockage/packages/f27/ksquares/po/hi/ksquares.po | 
- | [lt]({{< ref "/f27/language/lt.md" >}}) | 61 | 257 | 23.7 | /mnt/stockage/packages/f27/ksquares/po/lt/ksquares.po | 
- | [ug]({{< ref "/f27/language/ug.md" >}}) | 50 | 257 | 19.5 | /mnt/stockage/packages/f27/ksquares/po/ug/ksquares.po | 
- | [eo]({{< ref "/f27/language/eo.md" >}}) | 38 | 257 | 14.8 | /mnt/stockage/packages/f27/ksquares/po/eo/ksquares.po | 
- | [mr]({{< ref "/f27/language/mr.md" >}}) | 36 | 257 | 14.0 | /mnt/stockage/packages/f27/ksquares/po/mr/ksquares.po | 
- | [ast]({{< ref "/f27/language/ast.md" >}}) | 4 | 257 | 1.6 | /mnt/stockage/packages/f27/ksquares/po/ast/ksquares.po | 
- | [hr]({{< ref "/f27/language/hr.md" >}}) | 1 | 257 | 0.4 | /mnt/stockage/packages/f27/ksquares/po/hr/ksquares.po | 
- | [is]({{< ref "/f27/language/is.md" >}}) | 0 | 257 | 0.0 | /mnt/stockage/packages/f27/ksquares/po/is/ksquares.po | 
+ | [bs](/f27/language/bs) | 257 | 257 | 100.0 | /mnt/stockage/packages/f27/ksquares/po/bs/ksquares.po | 
+ | [ca](/f27/language/ca) | 257 | 257 | 100.0 | /mnt/stockage/packages/f27/ksquares/po/ca/ksquares.po | 
+ | [ca@valencia](/f27/language/ca@valencia) | 257 | 257 | 100.0 | /mnt/stockage/packages/f27/ksquares/po/ca@valencia/ksquares.po | 
+ | [cs](/f27/language/cs) | 257 | 257 | 100.0 | /mnt/stockage/packages/f27/ksquares/po/cs/ksquares.po | 
+ | [da](/f27/language/da) | 257 | 257 | 100.0 | /mnt/stockage/packages/f27/ksquares/po/da/ksquares.po | 
+ | [de](/f27/language/de) | 257 | 257 | 100.0 | /mnt/stockage/packages/f27/ksquares/po/de/ksquares.po | 
+ | [el](/f27/language/el) | 257 | 257 | 100.0 | /mnt/stockage/packages/f27/ksquares/po/el/ksquares.po | 
+ | [en_GB](/f27/language/en_GB) | 257 | 257 | 100.0 | /mnt/stockage/packages/f27/ksquares/po/en_GB/ksquares.po | 
+ | [es](/f27/language/es) | 257 | 257 | 100.0 | /mnt/stockage/packages/f27/ksquares/po/es/ksquares.po | 
+ | [et](/f27/language/et) | 257 | 257 | 100.0 | /mnt/stockage/packages/f27/ksquares/po/et/ksquares.po | 
+ | [fi](/f27/language/fi) | 257 | 257 | 100.0 | /mnt/stockage/packages/f27/ksquares/po/fi/ksquares.po | 
+ | [fr](/f27/language/fr) | 257 | 257 | 100.0 | /mnt/stockage/packages/f27/ksquares/po/fr/ksquares.po | 
+ | [gl](/f27/language/gl) | 257 | 257 | 100.0 | /mnt/stockage/packages/f27/ksquares/po/gl/ksquares.po | 
+ | [hu](/f27/language/hu) | 257 | 257 | 100.0 | /mnt/stockage/packages/f27/ksquares/po/hu/ksquares.po | 
+ | [it](/f27/language/it) | 257 | 257 | 100.0 | /mnt/stockage/packages/f27/ksquares/po/it/ksquares.po | 
+ | [kk](/f27/language/kk) | 257 | 257 | 100.0 | /mnt/stockage/packages/f27/ksquares/po/kk/ksquares.po | 
+ | [nb_NO](/f27/language/nb_NO) | 257 | 257 | 100.0 | /mnt/stockage/packages/f27/ksquares/po/nb/ksquares.po | 
+ | [nds](/f27/language/nds) | 257 | 257 | 100.0 | /mnt/stockage/packages/f27/ksquares/po/nds/ksquares.po | 
+ | [nl](/f27/language/nl) | 257 | 257 | 100.0 | /mnt/stockage/packages/f27/ksquares/po/nl/ksquares.po | 
+ | [nn](/f27/language/nn) | 257 | 257 | 100.0 | /mnt/stockage/packages/f27/ksquares/po/nn/ksquares.po | 
+ | [pl](/f27/language/pl) | 257 | 257 | 100.0 | /mnt/stockage/packages/f27/ksquares/po/pl/ksquares.po | 
+ | [pt](/f27/language/pt) | 257 | 257 | 100.0 | /mnt/stockage/packages/f27/ksquares/po/pt/ksquares.po | 
+ | [pt_BR](/f27/language/pt_BR) | 257 | 257 | 100.0 | /mnt/stockage/packages/f27/ksquares/po/pt_BR/ksquares.po | 
+ | [ru](/f27/language/ru) | 257 | 257 | 100.0 | /mnt/stockage/packages/f27/ksquares/po/ru/ksquares.po | 
+ | [sk](/f27/language/sk) | 257 | 257 | 100.0 | /mnt/stockage/packages/f27/ksquares/po/sk/ksquares.po | 
+ | [sl](/f27/language/sl) | 257 | 257 | 100.0 | /mnt/stockage/packages/f27/ksquares/po/sl/ksquares.po | 
+ | [sr](/f27/language/sr) | 257 | 257 | 100.0 | /mnt/stockage/packages/f27/ksquares/po/sr/ksquares.po | 
+ | [sv](/f27/language/sv) | 257 | 257 | 100.0 | /mnt/stockage/packages/f27/ksquares/po/sv/ksquares.po | 
+ | [tr](/f27/language/tr) | 257 | 257 | 100.0 | /mnt/stockage/packages/f27/ksquares/po/tr/ksquares.po | 
+ | [uk](/f27/language/uk) | 257 | 257 | 100.0 | /mnt/stockage/packages/f27/ksquares/po/uk/ksquares.po | 
+ | [zh_Hans](/f27/language/zh_Hans) | 257 | 257 | 100.0 | /mnt/stockage/packages/f27/ksquares/po/zh_CN/ksquares.po | 
+ | [zh_Hant](/f27/language/zh_Hant) | 257 | 257 | 100.0 | /mnt/stockage/packages/f27/ksquares/po/zh_TW/ksquares.po | 
+ | [eu](/f27/language/eu) | 251 | 257 | 97.7 | /mnt/stockage/packages/f27/ksquares/po/eu/ksquares.po | 
+ | [ga](/f27/language/ga) | 251 | 257 | 97.7 | /mnt/stockage/packages/f27/ksquares/po/ga/ksquares.po | 
+ | [ja](/f27/language/ja) | 251 | 257 | 97.7 | /mnt/stockage/packages/f27/ksquares/po/ja/ksquares.po | 
+ | [km](/f27/language/km) | 251 | 257 | 97.7 | /mnt/stockage/packages/f27/ksquares/po/km/ksquares.po | 
+ | [ro](/f27/language/ro) | 251 | 257 | 97.7 | /mnt/stockage/packages/f27/ksquares/po/ro/ksquares.po | 
+ | [lv](/f27/language/lv) | 249 | 257 | 96.9 | /mnt/stockage/packages/f27/ksquares/po/lv/ksquares.po | 
+ | [ar](/f27/language/ar) | 168 | 257 | 65.4 | /mnt/stockage/packages/f27/ksquares/po/ar/ksquares.po | 
+ | [hi](/f27/language/hi) | 144 | 257 | 56.0 | /mnt/stockage/packages/f27/ksquares/po/hi/ksquares.po | 
+ | [lt](/f27/language/lt) | 61 | 257 | 23.7 | /mnt/stockage/packages/f27/ksquares/po/lt/ksquares.po | 
+ | [ug](/f27/language/ug) | 50 | 257 | 19.5 | /mnt/stockage/packages/f27/ksquares/po/ug/ksquares.po | 
+ | [eo](/f27/language/eo) | 38 | 257 | 14.8 | /mnt/stockage/packages/f27/ksquares/po/eo/ksquares.po | 
+ | [mr](/f27/language/mr) | 36 | 257 | 14.0 | /mnt/stockage/packages/f27/ksquares/po/mr/ksquares.po | 
+ | [ast](/f27/language/ast) | 4 | 257 | 1.6 | /mnt/stockage/packages/f27/ksquares/po/ast/ksquares.po | 
+ | [hr](/f27/language/hr) | 1 | 257 | 0.4 | /mnt/stockage/packages/f27/ksquares/po/hr/ksquares.po | 
+ | [is](/f27/language/is) | 0 | 257 | 0.0 | /mnt/stockage/packages/f27/ksquares/po/is/ksquares.po | 
 {.sortable}
 
 

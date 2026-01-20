@@ -18,47 +18,47 @@ The package spectacle (version 21.12.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [az]({{< ref "/f35/language/az.md" >}}) | 946 | 946 | 100.0 | /mnt/stockage/packages/f35/spectacle/po/az/spectacle.po | 
- | [ca]({{< ref "/f35/language/ca.md" >}}) | 946 | 946 | 100.0 | /mnt/stockage/packages/f35/spectacle/po/ca/spectacle.po | 
- | [ca@valencia]({{< ref "/f35/language/ca@valencia.md" >}}) | 946 | 946 | 100.0 | /mnt/stockage/packages/f35/spectacle/po/ca@valencia/spectacle.po | 
- | [en_GB]({{< ref "/f35/language/en_GB.md" >}}) | 946 | 946 | 100.0 | /mnt/stockage/packages/f35/spectacle/po/en_GB/spectacle.po | 
- | [es]({{< ref "/f35/language/es.md" >}}) | 946 | 946 | 100.0 | /mnt/stockage/packages/f35/spectacle/po/es/spectacle.po | 
- | [fi]({{< ref "/f35/language/fi.md" >}}) | 946 | 946 | 100.0 | /mnt/stockage/packages/f35/spectacle/po/fi/spectacle.po | 
- | [fr]({{< ref "/f35/language/fr.md" >}}) | 946 | 946 | 100.0 | /mnt/stockage/packages/f35/spectacle/po/fr/spectacle.po | 
- | [hu]({{< ref "/f35/language/hu.md" >}}) | 946 | 946 | 100.0 | /mnt/stockage/packages/f35/spectacle/po/hu/spectacle.po | 
- | [ia]({{< ref "/f35/language/ia.md" >}}) | 946 | 946 | 100.0 | /mnt/stockage/packages/f35/spectacle/po/ia/spectacle.po | 
- | [it]({{< ref "/f35/language/it.md" >}}) | 946 | 946 | 100.0 | /mnt/stockage/packages/f35/spectacle/po/it/spectacle.po | 
- | [ko]({{< ref "/f35/language/ko.md" >}}) | 946 | 946 | 100.0 | /mnt/stockage/packages/f35/spectacle/po/ko/spectacle.po | 
- | [nl]({{< ref "/f35/language/nl.md" >}}) | 946 | 946 | 100.0 | /mnt/stockage/packages/f35/spectacle/po/nl/spectacle.po | 
- | [pl]({{< ref "/f35/language/pl.md" >}}) | 946 | 946 | 100.0 | /mnt/stockage/packages/f35/spectacle/po/pl/spectacle.po | 
- | [pt]({{< ref "/f35/language/pt.md" >}}) | 946 | 946 | 100.0 | /mnt/stockage/packages/f35/spectacle/po/pt/spectacle.po | 
- | [pt_BR]({{< ref "/f35/language/pt_BR.md" >}}) | 946 | 946 | 100.0 | /mnt/stockage/packages/f35/spectacle/po/pt_BR/spectacle.po | 
- | [sk]({{< ref "/f35/language/sk.md" >}}) | 946 | 946 | 100.0 | /mnt/stockage/packages/f35/spectacle/po/sk/spectacle.po | 
- | [sl]({{< ref "/f35/language/sl.md" >}}) | 946 | 946 | 100.0 | /mnt/stockage/packages/f35/spectacle/po/sl/spectacle.po | 
- | [sv]({{< ref "/f35/language/sv.md" >}}) | 946 | 946 | 100.0 | /mnt/stockage/packages/f35/spectacle/po/sv/spectacle.po | 
- | [uk]({{< ref "/f35/language/uk.md" >}}) | 946 | 946 | 100.0 | /mnt/stockage/packages/f35/spectacle/po/uk/spectacle.po | 
- | [zh_Hans]({{< ref "/f35/language/zh_Hans.md" >}}) | 946 | 946 | 100.0 | /mnt/stockage/packages/f35/spectacle/po/zh_CN/spectacle.po | 
- | [nn]({{< ref "/f35/language/nn.md" >}}) | 929 | 946 | 98.2 | /mnt/stockage/packages/f35/spectacle/po/nn/spectacle.po | 
- | [ar]({{< ref "/f35/language/ar.md" >}}) | 902 | 946 | 95.3 | /mnt/stockage/packages/f35/spectacle/po/ar/spectacle.po | 
- | [de]({{< ref "/f35/language/de.md" >}}) | 902 | 946 | 95.3 | /mnt/stockage/packages/f35/spectacle/po/de/spectacle.po | 
- | [el]({{< ref "/f35/language/el.md" >}}) | 902 | 946 | 95.3 | /mnt/stockage/packages/f35/spectacle/po/el/spectacle.po | 
- | [eu]({{< ref "/f35/language/eu.md" >}}) | 902 | 946 | 95.3 | /mnt/stockage/packages/f35/spectacle/po/eu/spectacle.po | 
- | [lt]({{< ref "/f35/language/lt.md" >}}) | 902 | 946 | 95.3 | /mnt/stockage/packages/f35/spectacle/po/lt/spectacle.po | 
- | [ru]({{< ref "/f35/language/ru.md" >}}) | 902 | 946 | 95.3 | /mnt/stockage/packages/f35/spectacle/po/ru/spectacle.po | 
- | [ro]({{< ref "/f35/language/ro.md" >}}) | 896 | 946 | 94.7 | /mnt/stockage/packages/f35/spectacle/po/ro/spectacle.po | 
- | [da]({{< ref "/f35/language/da.md" >}}) | 822 | 946 | 86.9 | /mnt/stockage/packages/f35/spectacle/po/da/spectacle.po | 
- | [et]({{< ref "/f35/language/et.md" >}}) | 822 | 946 | 86.9 | /mnt/stockage/packages/f35/spectacle/po/et/spectacle.po | 
- | [ta]({{< ref "/f35/language/ta.md" >}}) | 803 | 946 | 84.9 | /mnt/stockage/packages/f35/spectacle/po/ta/spectacle.po | 
- | [gl]({{< ref "/f35/language/gl.md" >}}) | 769 | 946 | 81.3 | /mnt/stockage/packages/f35/spectacle/po/gl/spectacle.po | 
- | [zh_Hant]({{< ref "/f35/language/zh_Hant.md" >}}) | 769 | 946 | 81.3 | /mnt/stockage/packages/f35/spectacle/po/zh_TW/spectacle.po | 
- | [cs]({{< ref "/f35/language/cs.md" >}}) | 662 | 946 | 70.0 | /mnt/stockage/packages/f35/spectacle/po/cs/spectacle.po | 
- | [tr]({{< ref "/f35/language/tr.md" >}}) | 606 | 946 | 64.1 | /mnt/stockage/packages/f35/spectacle/po/tr/spectacle.po | 
- | [id]({{< ref "/f35/language/id.md" >}}) | 559 | 946 | 59.1 | /mnt/stockage/packages/f35/spectacle/po/id/spectacle.po | 
- | [ja]({{< ref "/f35/language/ja.md" >}}) | 528 | 946 | 55.8 | /mnt/stockage/packages/f35/spectacle/po/ja/spectacle.po | 
- | [sr]({{< ref "/f35/language/sr.md" >}}) | 334 | 855 | 39.1 | /mnt/stockage/packages/f35/spectacle/po/sr/spectacle.po | 
- | [he]({{< ref "/f35/language/he.md" >}}) | 197 | 946 | 20.8 | /mnt/stockage/packages/f35/spectacle/po/he/spectacle.po | 
- | [bg]({{< ref "/f35/language/bg.md" >}}) | 72 | 946 | 7.6 | /mnt/stockage/packages/f35/spectacle/po/bg/spectacle.po | 
- | [ml]({{< ref "/f35/language/ml.md" >}}) | 2 | 946 | 0.2 | /mnt/stockage/packages/f35/spectacle/po/ml/spectacle.po | 
+ | [az](/f35/language/az) | 946 | 946 | 100.0 | /mnt/stockage/packages/f35/spectacle/po/az/spectacle.po | 
+ | [ca](/f35/language/ca) | 946 | 946 | 100.0 | /mnt/stockage/packages/f35/spectacle/po/ca/spectacle.po | 
+ | [ca@valencia](/f35/language/ca@valencia) | 946 | 946 | 100.0 | /mnt/stockage/packages/f35/spectacle/po/ca@valencia/spectacle.po | 
+ | [en_GB](/f35/language/en_GB) | 946 | 946 | 100.0 | /mnt/stockage/packages/f35/spectacle/po/en_GB/spectacle.po | 
+ | [es](/f35/language/es) | 946 | 946 | 100.0 | /mnt/stockage/packages/f35/spectacle/po/es/spectacle.po | 
+ | [fi](/f35/language/fi) | 946 | 946 | 100.0 | /mnt/stockage/packages/f35/spectacle/po/fi/spectacle.po | 
+ | [fr](/f35/language/fr) | 946 | 946 | 100.0 | /mnt/stockage/packages/f35/spectacle/po/fr/spectacle.po | 
+ | [hu](/f35/language/hu) | 946 | 946 | 100.0 | /mnt/stockage/packages/f35/spectacle/po/hu/spectacle.po | 
+ | [ia](/f35/language/ia) | 946 | 946 | 100.0 | /mnt/stockage/packages/f35/spectacle/po/ia/spectacle.po | 
+ | [it](/f35/language/it) | 946 | 946 | 100.0 | /mnt/stockage/packages/f35/spectacle/po/it/spectacle.po | 
+ | [ko](/f35/language/ko) | 946 | 946 | 100.0 | /mnt/stockage/packages/f35/spectacle/po/ko/spectacle.po | 
+ | [nl](/f35/language/nl) | 946 | 946 | 100.0 | /mnt/stockage/packages/f35/spectacle/po/nl/spectacle.po | 
+ | [pl](/f35/language/pl) | 946 | 946 | 100.0 | /mnt/stockage/packages/f35/spectacle/po/pl/spectacle.po | 
+ | [pt](/f35/language/pt) | 946 | 946 | 100.0 | /mnt/stockage/packages/f35/spectacle/po/pt/spectacle.po | 
+ | [pt_BR](/f35/language/pt_BR) | 946 | 946 | 100.0 | /mnt/stockage/packages/f35/spectacle/po/pt_BR/spectacle.po | 
+ | [sk](/f35/language/sk) | 946 | 946 | 100.0 | /mnt/stockage/packages/f35/spectacle/po/sk/spectacle.po | 
+ | [sl](/f35/language/sl) | 946 | 946 | 100.0 | /mnt/stockage/packages/f35/spectacle/po/sl/spectacle.po | 
+ | [sv](/f35/language/sv) | 946 | 946 | 100.0 | /mnt/stockage/packages/f35/spectacle/po/sv/spectacle.po | 
+ | [uk](/f35/language/uk) | 946 | 946 | 100.0 | /mnt/stockage/packages/f35/spectacle/po/uk/spectacle.po | 
+ | [zh_Hans](/f35/language/zh_Hans) | 946 | 946 | 100.0 | /mnt/stockage/packages/f35/spectacle/po/zh_CN/spectacle.po | 
+ | [nn](/f35/language/nn) | 929 | 946 | 98.2 | /mnt/stockage/packages/f35/spectacle/po/nn/spectacle.po | 
+ | [ar](/f35/language/ar) | 902 | 946 | 95.3 | /mnt/stockage/packages/f35/spectacle/po/ar/spectacle.po | 
+ | [de](/f35/language/de) | 902 | 946 | 95.3 | /mnt/stockage/packages/f35/spectacle/po/de/spectacle.po | 
+ | [el](/f35/language/el) | 902 | 946 | 95.3 | /mnt/stockage/packages/f35/spectacle/po/el/spectacle.po | 
+ | [eu](/f35/language/eu) | 902 | 946 | 95.3 | /mnt/stockage/packages/f35/spectacle/po/eu/spectacle.po | 
+ | [lt](/f35/language/lt) | 902 | 946 | 95.3 | /mnt/stockage/packages/f35/spectacle/po/lt/spectacle.po | 
+ | [ru](/f35/language/ru) | 902 | 946 | 95.3 | /mnt/stockage/packages/f35/spectacle/po/ru/spectacle.po | 
+ | [ro](/f35/language/ro) | 896 | 946 | 94.7 | /mnt/stockage/packages/f35/spectacle/po/ro/spectacle.po | 
+ | [da](/f35/language/da) | 822 | 946 | 86.9 | /mnt/stockage/packages/f35/spectacle/po/da/spectacle.po | 
+ | [et](/f35/language/et) | 822 | 946 | 86.9 | /mnt/stockage/packages/f35/spectacle/po/et/spectacle.po | 
+ | [ta](/f35/language/ta) | 803 | 946 | 84.9 | /mnt/stockage/packages/f35/spectacle/po/ta/spectacle.po | 
+ | [gl](/f35/language/gl) | 769 | 946 | 81.3 | /mnt/stockage/packages/f35/spectacle/po/gl/spectacle.po | 
+ | [zh_Hant](/f35/language/zh_Hant) | 769 | 946 | 81.3 | /mnt/stockage/packages/f35/spectacle/po/zh_TW/spectacle.po | 
+ | [cs](/f35/language/cs) | 662 | 946 | 70.0 | /mnt/stockage/packages/f35/spectacle/po/cs/spectacle.po | 
+ | [tr](/f35/language/tr) | 606 | 946 | 64.1 | /mnt/stockage/packages/f35/spectacle/po/tr/spectacle.po | 
+ | [id](/f35/language/id) | 559 | 946 | 59.1 | /mnt/stockage/packages/f35/spectacle/po/id/spectacle.po | 
+ | [ja](/f35/language/ja) | 528 | 946 | 55.8 | /mnt/stockage/packages/f35/spectacle/po/ja/spectacle.po | 
+ | [sr](/f35/language/sr) | 334 | 855 | 39.1 | /mnt/stockage/packages/f35/spectacle/po/sr/spectacle.po | 
+ | [he](/f35/language/he) | 197 | 946 | 20.8 | /mnt/stockage/packages/f35/spectacle/po/he/spectacle.po | 
+ | [bg](/f35/language/bg) | 72 | 946 | 7.6 | /mnt/stockage/packages/f35/spectacle/po/bg/spectacle.po | 
+ | [ml](/f35/language/ml) | 2 | 946 | 0.2 | /mnt/stockage/packages/f35/spectacle/po/ml/spectacle.po | 
 {.sortable}
 
 

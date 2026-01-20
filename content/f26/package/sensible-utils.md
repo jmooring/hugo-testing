@@ -18,14 +18,14 @@ The package sensible-utils (version 0.0.12):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f26/language/de.md" >}}) | 106 | 106 | 100.0 | /mnt/stockage/packages/f26/sensible-utils/man/po4a/de.po | 
- | [fr]({{< ref "/f26/language/fr.md" >}}) | 88 | 106 | 83.0 | /mnt/stockage/packages/f26/sensible-utils/man/po4a/fr.po | 
- | [cs]({{< ref "/f26/language/cs.md" >}}) | 61 | 106 | 57.5 | /mnt/stockage/packages/f26/sensible-utils/man/po4a/cs.po | 
- | [es]({{< ref "/f26/language/es.md" >}}) | 61 | 106 | 57.5 | /mnt/stockage/packages/f26/sensible-utils/man/po4a/es.po | 
- | [it]({{< ref "/f26/language/it.md" >}}) | 61 | 106 | 57.5 | /mnt/stockage/packages/f26/sensible-utils/man/po4a/it.po | 
- | [ja]({{< ref "/f26/language/ja.md" >}}) | 61 | 106 | 57.5 | /mnt/stockage/packages/f26/sensible-utils/man/po4a/ja.po | 
- | [pl]({{< ref "/f26/language/pl.md" >}}) | 61 | 106 | 57.5 | /mnt/stockage/packages/f26/sensible-utils/man/po4a/pl.po | 
- | [pt]({{< ref "/f26/language/pt.md" >}}) | 61 | 106 | 57.5 | /mnt/stockage/packages/f26/sensible-utils/man/po4a/pt.po | 
+ | [de](/f26/language/de) | 106 | 106 | 100.0 | /mnt/stockage/packages/f26/sensible-utils/man/po4a/de.po | 
+ | [fr](/f26/language/fr) | 88 | 106 | 83.0 | /mnt/stockage/packages/f26/sensible-utils/man/po4a/fr.po | 
+ | [cs](/f26/language/cs) | 61 | 106 | 57.5 | /mnt/stockage/packages/f26/sensible-utils/man/po4a/cs.po | 
+ | [es](/f26/language/es) | 61 | 106 | 57.5 | /mnt/stockage/packages/f26/sensible-utils/man/po4a/es.po | 
+ | [it](/f26/language/it) | 61 | 106 | 57.5 | /mnt/stockage/packages/f26/sensible-utils/man/po4a/it.po | 
+ | [ja](/f26/language/ja) | 61 | 106 | 57.5 | /mnt/stockage/packages/f26/sensible-utils/man/po4a/ja.po | 
+ | [pl](/f26/language/pl) | 61 | 106 | 57.5 | /mnt/stockage/packages/f26/sensible-utils/man/po4a/pl.po | 
+ | [pt](/f26/language/pt) | 61 | 106 | 57.5 | /mnt/stockage/packages/f26/sensible-utils/man/po4a/pt.po | 
 {.sortable}
 
 

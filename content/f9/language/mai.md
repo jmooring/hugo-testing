@@ -39,20 +39,20 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [rhgb]({{< ref "/f9/package/rhgb.md" >}}) | 59 | 59 | 100.0 | Maithili <maithili.sf.net> | 
- | [libgweather]({{< ref "/f9/package/libgweather.md" >}}) | 6250 | 6273 | 99.6 | maithili <maithili.sf.net> | 
- | [switchdesk]({{< ref "/f9/package/switchdesk.md" >}}) | 137 | 139 | 98.6 | Maithili <maithili.sf.net> | 
- | [gnome-backgrounds]({{< ref "/f9/package/gnome-backgrounds.md" >}}) | 16 | 18 | 88.9 | Hindi <hindi.sf.net> | 
- | [anaconda]({{< ref "/f9/package/anaconda.md" >}}) | 8706 | 10040 | 86.7 | Maithili <maithili.sf.net> | 
- | [system-config-rootpassword]({{< ref "/f9/package/system-config-rootpassword.md" >}}) | 96 | 116 | 82.8 | Maithili <maithili.sf.net> | 
- | [pykickstart]({{< ref "/f9/package/pykickstart.md" >}}) | 226 | 284 | 79.6 | <en@li.org> | 
- | [gnome-menus]({{< ref "/f9/package/gnome-menus.md" >}}) | 123 | 165 | 74.5 | maithili <maithili.sf.net> | 
- | [firstboot]({{< ref "/f9/package/firstboot.md" >}}) | 251 | 604 | 41.6 | <en@li.org> | 
- | [system-config-date]({{< ref "/f9/package/system-config-date.md" >}}) | 383 | 1138 | 33.7 | LANGUAGE <LL@li.org> | 
- | [system-config-nfs]({{< ref "/f9/package/system-config-nfs.md" >}}) | 0 | 1185 | 0.0 | LANGUAGE <LL@li.org> | 
- | [system-config-samba]({{< ref "/f9/package/system-config-samba.md" >}}) | 0 | 1188 | 0.0 | LANGUAGE <LL@li.org> | 
- | [system-config-services]({{< ref "/f9/package/system-config-services.md" >}}) | 0 | 638 | 0.0 | LANGUAGE <LL@li.org> | 
- | [system-config-users]({{< ref "/f9/package/system-config-users.md" >}}) | 0 | 1054 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [rhgb](/f9/package/rhgb) | 59 | 59 | 100.0 | Maithili <maithili.sf.net> | 
+ | [libgweather](/f9/package/libgweather) | 6250 | 6273 | 99.6 | maithili <maithili.sf.net> | 
+ | [switchdesk](/f9/package/switchdesk) | 137 | 139 | 98.6 | Maithili <maithili.sf.net> | 
+ | [gnome-backgrounds](/f9/package/gnome-backgrounds) | 16 | 18 | 88.9 | Hindi <hindi.sf.net> | 
+ | [anaconda](/f9/package/anaconda) | 8706 | 10040 | 86.7 | Maithili <maithili.sf.net> | 
+ | [system-config-rootpassword](/f9/package/system-config-rootpassword) | 96 | 116 | 82.8 | Maithili <maithili.sf.net> | 
+ | [pykickstart](/f9/package/pykickstart) | 226 | 284 | 79.6 | <en@li.org> | 
+ | [gnome-menus](/f9/package/gnome-menus) | 123 | 165 | 74.5 | maithili <maithili.sf.net> | 
+ | [firstboot](/f9/package/firstboot) | 251 | 604 | 41.6 | <en@li.org> | 
+ | [system-config-date](/f9/package/system-config-date) | 383 | 1138 | 33.7 | LANGUAGE <LL@li.org> | 
+ | [system-config-nfs](/f9/package/system-config-nfs) | 0 | 1185 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [system-config-samba](/f9/package/system-config-samba) | 0 | 1188 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [system-config-services](/f9/package/system-config-services) | 0 | 638 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [system-config-users](/f9/package/system-config-users) | 0 | 1054 | 0.0 | LANGUAGE <LL@li.org> | 
 {.sortable}
 
 

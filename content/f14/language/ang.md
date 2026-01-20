@@ -38,17 +38,17 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [at-spi]({{< ref "/f14/package/at-spi.md" >}}) | 4 | 4 | 100.0 | Old English <modean52@comcast.net> | 
- | [gnome-mag]({{< ref "/f14/package/gnome-mag.md" >}}) | 5 | 5 | 100.0 | Old English <modean52@comcast.net> | 
- | [vte]({{< ref "/f14/package/vte.md" >}}) | 27 | 96 | 28.1 | Old English <modean52@comcast.net> | 
- | [gdk-pixbuf2]({{< ref "/f14/package/gdk-pixbuf2.md" >}}) | 223 | 1313 | 17.0 | Old English <modean52@comcast.net> | 
- | [mingw32-gdk-pixbuf]({{< ref "/f14/package/mingw32-gdk-pixbuf.md" >}}) | 223 | 1313 | 17.0 | Old English <modean52@comcast.net> | 
- | [libgnomecanvas]({{< ref "/f14/package/libgnomecanvas.md" >}}) | 14 | 357 | 3.9 | Old English <modean52@comcast.net> | 
- | [gtk2]({{< ref "/f14/package/gtk2.md" >}}) | 403 | 13704 | 2.9 | Old English <modean52@comcast.net> | 
- | [mingw32-gtk2]({{< ref "/f14/package/mingw32-gtk2.md" >}}) | 403 | 13704 | 2.9 | Old English <modean52@comcast.net> | 
- | [gtk3]({{< ref "/f14/package/gtk3.md" >}}) | 170 | 11998 | 1.4 | Old English <modean52@comcast.net> | 
- | [libgweather]({{< ref "/f14/package/libgweather.md" >}}) | 51 | 3663 | 1.4 | Old English <modean52@comcast.net> | 
- | [gok]({{< ref "/f14/package/gok.md" >}}) | 19 | 1781 | 1.1 | Old English <modean52@comcast.net> | 
+ | [at-spi](/f14/package/at-spi) | 4 | 4 | 100.0 | Old English <modean52@comcast.net> | 
+ | [gnome-mag](/f14/package/gnome-mag) | 5 | 5 | 100.0 | Old English <modean52@comcast.net> | 
+ | [vte](/f14/package/vte) | 27 | 96 | 28.1 | Old English <modean52@comcast.net> | 
+ | [gdk-pixbuf2](/f14/package/gdk-pixbuf2) | 223 | 1313 | 17.0 | Old English <modean52@comcast.net> | 
+ | [mingw32-gdk-pixbuf](/f14/package/mingw32-gdk-pixbuf) | 223 | 1313 | 17.0 | Old English <modean52@comcast.net> | 
+ | [libgnomecanvas](/f14/package/libgnomecanvas) | 14 | 357 | 3.9 | Old English <modean52@comcast.net> | 
+ | [gtk2](/f14/package/gtk2) | 403 | 13704 | 2.9 | Old English <modean52@comcast.net> | 
+ | [mingw32-gtk2](/f14/package/mingw32-gtk2) | 403 | 13704 | 2.9 | Old English <modean52@comcast.net> | 
+ | [gtk3](/f14/package/gtk3) | 170 | 11998 | 1.4 | Old English <modean52@comcast.net> | 
+ | [libgweather](/f14/package/libgweather) | 51 | 3663 | 1.4 | Old English <modean52@comcast.net> | 
+ | [gok](/f14/package/gok) | 19 | 1781 | 1.1 | Old English <modean52@comcast.net> | 
 {.sortable}
 
 

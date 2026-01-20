@@ -18,7 +18,7 @@ The package ladspa-swh-plugins (version 0.4.15):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [en_GB]({{< ref "/f18/language/en_GB.md" >}}) | 0 | 1076 | 0.0 | /mnt/stockage/packages/f18/ladspa-swh-plugins/po/en_GB.po | 
+ | [en_GB](/f18/language/en_GB) | 0 | 1076 | 0.0 | /mnt/stockage/packages/f18/ladspa-swh-plugins/po/en_GB.po | 
 {.sortable}
 
 

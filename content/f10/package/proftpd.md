@@ -18,13 +18,13 @@ The package proftpd (version 1.3.2b):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [bg]({{< ref "/f10/language/bg.md" >}}) | 823 | 823 | 100.0 | /mnt/stockage/packages/f10/proftpd/locale/bg_BG.po | 
- | [en_US]({{< ref "/f10/language/en_US.md" >}}) | 771 | 771 | 100.0 | /mnt/stockage/packages/f10/proftpd/locale/en_US.po | 
- | [fr]({{< ref "/f10/language/fr.md" >}}) | 771 | 771 | 100.0 | /mnt/stockage/packages/f10/proftpd/locale/fr_FR.po | 
- | [it]({{< ref "/f10/language/it.md" >}}) | 823 | 823 | 100.0 | /mnt/stockage/packages/f10/proftpd/locale/it_IT.po | 
- | [ko]({{< ref "/f10/language/ko.md" >}}) | 823 | 823 | 100.0 | /mnt/stockage/packages/f10/proftpd/locale/ko_KR.po | 
- | [ru]({{< ref "/f10/language/ru.md" >}}) | 615 | 615 | 100.0 | /mnt/stockage/packages/f10/proftpd/locale/ru_RU.po | 
- | [zh_Hans]({{< ref "/f10/language/zh_Hans.md" >}}) | 823 | 823 | 100.0 | /mnt/stockage/packages/f10/proftpd/locale/zh_CN.po | 
+ | [bg](/f10/language/bg) | 823 | 823 | 100.0 | /mnt/stockage/packages/f10/proftpd/locale/bg_BG.po | 
+ | [en_US](/f10/language/en_US) | 771 | 771 | 100.0 | /mnt/stockage/packages/f10/proftpd/locale/en_US.po | 
+ | [fr](/f10/language/fr) | 771 | 771 | 100.0 | /mnt/stockage/packages/f10/proftpd/locale/fr_FR.po | 
+ | [it](/f10/language/it) | 823 | 823 | 100.0 | /mnt/stockage/packages/f10/proftpd/locale/it_IT.po | 
+ | [ko](/f10/language/ko) | 823 | 823 | 100.0 | /mnt/stockage/packages/f10/proftpd/locale/ko_KR.po | 
+ | [ru](/f10/language/ru) | 615 | 615 | 100.0 | /mnt/stockage/packages/f10/proftpd/locale/ru_RU.po | 
+ | [zh_Hans](/f10/language/zh_Hans) | 823 | 823 | 100.0 | /mnt/stockage/packages/f10/proftpd/locale/zh_CN.po | 
 {.sortable}
 
 

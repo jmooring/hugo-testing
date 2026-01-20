@@ -40,24 +40,24 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [snownews]({{< ref "/f19/package/snownews.md" >}}) | 759 | 791 | 96.0 |  | 
- | [koffice-kivio]({{< ref "/f19/package/koffice-kivio.md" >}}) | 3903 | 8417 | 46.4 | Northern Sami <i18n-sme@lister.ping.uio.no> | 
- | [kiconedit]({{< ref "/f19/package/kiconedit.md" >}}) | 54 | 726 | 7.4 | Northern Sami <i18n-sme@lister.ping.uio.no> | 
- | [kaffeine]({{< ref "/f19/package/kaffeine.md" >}}) | 39 | 579 | 6.7 | Northern Sami <i18n-sme@lister.ping.uio.no> | 
- | [kcoloredit]({{< ref "/f19/package/kcoloredit.md" >}}) | 7 | 278 | 2.5 | Northern Sami <i18n-sme@lister.ping.uio.no> | 
- | [k3b]({{< ref "/f19/package/k3b.md" >}}) | 243 | 20535 | 1.2 | Northern Sami <i18n-sme@lister.ping.uio.no> | 
- | [kaudiocreator]({{< ref "/f19/package/kaudiocreator.md" >}}) | 7 | 1136 | 0.6 | Northern Sami <i18n-sme@lister.ping.uio.no> | 
- | [kpilot]({{< ref "/f19/package/kpilot.md" >}}) | 31 | 7156 | 0.4 | Northern Sami <i18n-sme@lister.ping.uio.no> | 
- | [stellarium]({{< ref "/f19/package/stellarium.md" >}}) | 33 | 11181 | 0.3 | Northern Sami <se@li.org> | 
- | [digikam]({{< ref "/f19/package/digikam.md" >}}) | 72 | 28467 | 0.3 | Northern Sami <i18n-sme@lister.ping.uio.no> | 
- | [kphotoalbum]({{< ref "/f19/package/kphotoalbum.md" >}}) | 14 | 7530 | 0.2 | Northern Sami <i18n-sme@lister.ping.uio.no> | 
- | [ktorrent]({{< ref "/f19/package/ktorrent.md" >}}) | 9 | 7739 | 0.1 | Northern Sami <i18n-sme@lister.ping.uio.no> | 
- | [console-setup]({{< ref "/f19/package/console-setup.md" >}}) | 0 | 979 | 0.0 | Northern Sami <i18n-sme@lister.ping.uio.no> | 
- | [kde-plasma-networkmanagement]({{< ref "/f19/package/kde-plasma-networkmanagement.md" >}}) | 0 | 109 | 0.0 | Northern Sami <i18n-sme@lister.ping.uio.no> | 
- | [kgrab]({{< ref "/f19/package/kgrab.md" >}}) | 0 | 370 | 0.0 | Northern Sami <i18n-sme@lister.ping.uio.no> | 
- | [ksig]({{< ref "/f19/package/ksig.md" >}}) | 0 | 85 | 0.0 | Northern Sami <i18n-sme@lister.ping.uio.no> | 
- | [libktorrent]({{< ref "/f19/package/libktorrent.md" >}}) | 0 | 519 | 0.0 | Northern Sami <i18n-sme@lister.ping.uio.no> | 
- | [rsibreak]({{< ref "/f19/package/rsibreak.md" >}}) | 0 | 1304 | 0.0 | Northern Sami <i18n-sme@lister.ping.uio.no> | 
+ | [snownews](/f19/package/snownews) | 759 | 791 | 96.0 |  | 
+ | [koffice-kivio](/f19/package/koffice-kivio) | 3903 | 8417 | 46.4 | Northern Sami <i18n-sme@lister.ping.uio.no> | 
+ | [kiconedit](/f19/package/kiconedit) | 54 | 726 | 7.4 | Northern Sami <i18n-sme@lister.ping.uio.no> | 
+ | [kaffeine](/f19/package/kaffeine) | 39 | 579 | 6.7 | Northern Sami <i18n-sme@lister.ping.uio.no> | 
+ | [kcoloredit](/f19/package/kcoloredit) | 7 | 278 | 2.5 | Northern Sami <i18n-sme@lister.ping.uio.no> | 
+ | [k3b](/f19/package/k3b) | 243 | 20535 | 1.2 | Northern Sami <i18n-sme@lister.ping.uio.no> | 
+ | [kaudiocreator](/f19/package/kaudiocreator) | 7 | 1136 | 0.6 | Northern Sami <i18n-sme@lister.ping.uio.no> | 
+ | [kpilot](/f19/package/kpilot) | 31 | 7156 | 0.4 | Northern Sami <i18n-sme@lister.ping.uio.no> | 
+ | [stellarium](/f19/package/stellarium) | 33 | 11181 | 0.3 | Northern Sami <se@li.org> | 
+ | [digikam](/f19/package/digikam) | 72 | 28467 | 0.3 | Northern Sami <i18n-sme@lister.ping.uio.no> | 
+ | [kphotoalbum](/f19/package/kphotoalbum) | 14 | 7530 | 0.2 | Northern Sami <i18n-sme@lister.ping.uio.no> | 
+ | [ktorrent](/f19/package/ktorrent) | 9 | 7739 | 0.1 | Northern Sami <i18n-sme@lister.ping.uio.no> | 
+ | [console-setup](/f19/package/console-setup) | 0 | 979 | 0.0 | Northern Sami <i18n-sme@lister.ping.uio.no> | 
+ | [kde-plasma-networkmanagement](/f19/package/kde-plasma-networkmanagement) | 0 | 109 | 0.0 | Northern Sami <i18n-sme@lister.ping.uio.no> | 
+ | [kgrab](/f19/package/kgrab) | 0 | 370 | 0.0 | Northern Sami <i18n-sme@lister.ping.uio.no> | 
+ | [ksig](/f19/package/ksig) | 0 | 85 | 0.0 | Northern Sami <i18n-sme@lister.ping.uio.no> | 
+ | [libktorrent](/f19/package/libktorrent) | 0 | 519 | 0.0 | Northern Sami <i18n-sme@lister.ping.uio.no> | 
+ | [rsibreak](/f19/package/rsibreak) | 0 | 1304 | 0.0 | Northern Sami <i18n-sme@lister.ping.uio.no> | 
 {.sortable}
 
 
@@ -69,7 +69,7 @@ We use the po metadata to get the language code and the team, but sometimes it f
 
 | Package | Lang from file path/name | polib error | Team |
 |---------|--------------------------|-------------|------|
- | [snownews]({{< ref "/f19/package/snownews.md" >}}) | /mnt/stockage/packages/f19/snownews/po/._se.po | error-os |  | 
+ | [snownews](/f19/package/snownews) | /mnt/stockage/packages/f19/snownews/po/._se.po | error-os |  | 
 {.sortable}
 
 
@@ -80,7 +80,7 @@ We use the calcstats from translate toolkit to get the translation progress, but
 
 | Package | Lang from file path/name | Team |
 |---------|--------------------------|------|
- | [snownews]({{< ref "/f19/package/snownews.md" >}}) | /mnt/stockage/packages/f19/snownews/po/._se.po |  | 
+ | [snownews](/f19/package/snownews) | /mnt/stockage/packages/f19/snownews/po/._se.po |  | 
 {.sortable}
 
 

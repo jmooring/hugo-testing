@@ -18,47 +18,47 @@ The package gnome-packagekit (version 2.27.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [as]({{< ref "/f11/language/as.md" >}}) | 4682 | 4682 | 100.0 | /mnt/stockage/packages/f11/gnome-packagekit/po/as.po | 
- | [bg]({{< ref "/f11/language/bg.md" >}}) | 4407 | 4407 | 100.0 | /mnt/stockage/packages/f11/gnome-packagekit/po/bg.po | 
- | [bn_IN]({{< ref "/f11/language/bn_IN.md" >}}) | 4423 | 4423 | 100.0 | /mnt/stockage/packages/f11/gnome-packagekit/po/bn_IN.po | 
- | [da]({{< ref "/f11/language/da.md" >}}) | 4399 | 4399 | 100.0 | /mnt/stockage/packages/f11/gnome-packagekit/po/da.po | 
- | [es]({{< ref "/f11/language/es.md" >}}) | 8533 | 8533 | 100.0 | /mnt/stockage/packages/f11/gnome-packagekit/help/es/es.po/mnt/stockage/packages/f11/gnome-packagekit/po/es.po | 
- | [fi]({{< ref "/f11/language/fi.md" >}}) | 4832 | 4832 | 100.0 | /mnt/stockage/packages/f11/gnome-packagekit/po/fi.po | 
- | [gu]({{< ref "/f11/language/gu.md" >}}) | 4832 | 4832 | 100.0 | /mnt/stockage/packages/f11/gnome-packagekit/po/gu.po | 
- | [he]({{< ref "/f11/language/he.md" >}}) | 4734 | 4734 | 100.0 | /mnt/stockage/packages/f11/gnome-packagekit/po/he.po | 
- | [hu]({{< ref "/f11/language/hu.md" >}}) | 4407 | 4407 | 100.0 | /mnt/stockage/packages/f11/gnome-packagekit/po/hu.po | 
- | [kn]({{< ref "/f11/language/kn.md" >}}) | 4682 | 4682 | 100.0 | /mnt/stockage/packages/f11/gnome-packagekit/po/kn.po | 
- | [mr]({{< ref "/f11/language/mr.md" >}}) | 4749 | 4749 | 100.0 | /mnt/stockage/packages/f11/gnome-packagekit/po/mr.po | 
- | [pl]({{< ref "/f11/language/pl.md" >}}) | 8148 | 8148 | 100.0 | /mnt/stockage/packages/f11/gnome-packagekit/help/pl/pl.po/mnt/stockage/packages/f11/gnome-packagekit/po/pl.po | 
- | [pt]({{< ref "/f11/language/pt.md" >}}) | 4682 | 4682 | 100.0 | /mnt/stockage/packages/f11/gnome-packagekit/po/pt.po | 
- | [pt_BR]({{< ref "/f11/language/pt_BR.md" >}}) | 4832 | 4832 | 100.0 | /mnt/stockage/packages/f11/gnome-packagekit/po/pt_BR.po | 
- | [ru]({{< ref "/f11/language/ru.md" >}}) | 4319 | 4319 | 100.0 | /mnt/stockage/packages/f11/gnome-packagekit/po/ru.po | 
- | [sv]({{< ref "/f11/language/sv.md" >}}) | 5297 | 5297 | 100.0 | /mnt/stockage/packages/f11/gnome-packagekit/help/sv/sv.po/mnt/stockage/packages/f11/gnome-packagekit/po/sv.po | 
- | [ta]({{< ref "/f11/language/ta.md" >}}) | 4792 | 4792 | 100.0 | /mnt/stockage/packages/f11/gnome-packagekit/po/ta.po | 
- | [te]({{< ref "/f11/language/te.md" >}}) | 4749 | 4749 | 100.0 | /mnt/stockage/packages/f11/gnome-packagekit/po/te.po | 
- | [uk]({{< ref "/f11/language/uk.md" >}}) | 4284 | 4286 | 100.0 | /mnt/stockage/packages/f11/gnome-packagekit/po/uk.po | 
- | [zh_Hant]({{< ref "/f11/language/zh_Hant.md" >}}) | 8598 | 8638 | 99.5 | /mnt/stockage/packages/f11/gnome-packagekit/po/zh_HK.po/mnt/stockage/packages/f11/gnome-packagekit/po/zh_TW.po | 
- | [pa]({{< ref "/f11/language/pa.md" >}}) | 4647 | 4832 | 96.2 | /mnt/stockage/packages/f11/gnome-packagekit/po/pa.po | 
- | [de]({{< ref "/f11/language/de.md" >}}) | 7996 | 8427 | 94.9 | /mnt/stockage/packages/f11/gnome-packagekit/help/de/de.po/mnt/stockage/packages/f11/gnome-packagekit/po/de.po | 
- | [el]({{< ref "/f11/language/el.md" >}}) | 7586 | 8020 | 94.6 | /mnt/stockage/packages/f11/gnome-packagekit/help/el/el.po/mnt/stockage/packages/f11/gnome-packagekit/po/el.po | 
- | [ca]({{< ref "/f11/language/ca.md" >}}) | 4030 | 4374 | 92.1 | /mnt/stockage/packages/f11/gnome-packagekit/po/ca.po | 
- | [it]({{< ref "/f11/language/it.md" >}}) | 3994 | 4374 | 91.3 | /mnt/stockage/packages/f11/gnome-packagekit/po/it.po | 
- | [cs]({{< ref "/f11/language/cs.md" >}}) | 3770 | 4374 | 86.2 | /mnt/stockage/packages/f11/gnome-packagekit/po/cs.po | 
- | [or]({{< ref "/f11/language/or.md" >}}) | 3727 | 4374 | 85.2 | /mnt/stockage/packages/f11/gnome-packagekit/po/or.po | 
- | [ml]({{< ref "/f11/language/ml.md" >}}) | 3108 | 4374 | 71.1 | /mnt/stockage/packages/f11/gnome-packagekit/po/ml.po | 
- | [hi]({{< ref "/f11/language/hi.md" >}}) | 3005 | 4374 | 68.7 | /mnt/stockage/packages/f11/gnome-packagekit/po/hi.po | 
- | [nb_NO]({{< ref "/f11/language/nb_NO.md" >}}) | 2843 | 4547 | 62.5 | /mnt/stockage/packages/f11/gnome-packagekit/po/nb.po | 
- | [fr]({{< ref "/f11/language/fr.md" >}}) | 2705 | 4374 | 61.8 | /mnt/stockage/packages/f11/gnome-packagekit/po/fr.po | 
- | [zh_Hans]({{< ref "/f11/language/zh_Hans.md" >}}) | 4423 | 8124 | 54.4 | /mnt/stockage/packages/f11/gnome-packagekit/help/zh_CN/zh_CN.po/mnt/stockage/packages/f11/gnome-packagekit/po/zh_CN.po | 
- | [ro]({{< ref "/f11/language/ro.md" >}}) | 1634 | 4641 | 35.2 | /mnt/stockage/packages/f11/gnome-packagekit/po/ro.po | 
- | [en_GB]({{< ref "/f11/language/en_GB.md" >}}) | 878 | 4374 | 20.1 | /mnt/stockage/packages/f11/gnome-packagekit/po/en_GB.po | 
- | [tr]({{< ref "/f11/language/tr.md" >}}) | 607 | 4374 | 13.9 | /mnt/stockage/packages/f11/gnome-packagekit/po/tr.po | 
- | [gl]({{< ref "/f11/language/gl.md" >}}) | 452 | 4374 | 10.3 | /mnt/stockage/packages/f11/gnome-packagekit/po/gl.po | 
- | [cy]({{< ref "/f11/language/cy.md" >}}) | 418 | 4374 | 9.6 | /mnt/stockage/packages/f11/gnome-packagekit/po/cy.po | 
- | [nl]({{< ref "/f11/language/nl.md" >}}) | 194 | 4432 | 4.4 | /mnt/stockage/packages/f11/gnome-packagekit/po/nl.po | 
- | [oc]({{< ref "/f11/language/oc.md" >}}) | 167 | 4989 | 3.3 | /mnt/stockage/packages/f11/gnome-packagekit/help/oc/oc.po/mnt/stockage/packages/f11/gnome-packagekit/po/oc.po | 
- | [ar]({{< ref "/f11/language/ar.md" >}}) | 143 | 4374 | 3.3 | /mnt/stockage/packages/f11/gnome-packagekit/po/ar.po | 
- | [ja]({{< ref "/f11/language/ja.md" >}}) | 44 | 4374 | 1.0 | /mnt/stockage/packages/f11/gnome-packagekit/po/ja.po | 
+ | [as](/f11/language/as) | 4682 | 4682 | 100.0 | /mnt/stockage/packages/f11/gnome-packagekit/po/as.po | 
+ | [bg](/f11/language/bg) | 4407 | 4407 | 100.0 | /mnt/stockage/packages/f11/gnome-packagekit/po/bg.po | 
+ | [bn_IN](/f11/language/bn_IN) | 4423 | 4423 | 100.0 | /mnt/stockage/packages/f11/gnome-packagekit/po/bn_IN.po | 
+ | [da](/f11/language/da) | 4399 | 4399 | 100.0 | /mnt/stockage/packages/f11/gnome-packagekit/po/da.po | 
+ | [es](/f11/language/es) | 8533 | 8533 | 100.0 | /mnt/stockage/packages/f11/gnome-packagekit/help/es/es.po/mnt/stockage/packages/f11/gnome-packagekit/po/es.po | 
+ | [fi](/f11/language/fi) | 4832 | 4832 | 100.0 | /mnt/stockage/packages/f11/gnome-packagekit/po/fi.po | 
+ | [gu](/f11/language/gu) | 4832 | 4832 | 100.0 | /mnt/stockage/packages/f11/gnome-packagekit/po/gu.po | 
+ | [he](/f11/language/he) | 4734 | 4734 | 100.0 | /mnt/stockage/packages/f11/gnome-packagekit/po/he.po | 
+ | [hu](/f11/language/hu) | 4407 | 4407 | 100.0 | /mnt/stockage/packages/f11/gnome-packagekit/po/hu.po | 
+ | [kn](/f11/language/kn) | 4682 | 4682 | 100.0 | /mnt/stockage/packages/f11/gnome-packagekit/po/kn.po | 
+ | [mr](/f11/language/mr) | 4749 | 4749 | 100.0 | /mnt/stockage/packages/f11/gnome-packagekit/po/mr.po | 
+ | [pl](/f11/language/pl) | 8148 | 8148 | 100.0 | /mnt/stockage/packages/f11/gnome-packagekit/help/pl/pl.po/mnt/stockage/packages/f11/gnome-packagekit/po/pl.po | 
+ | [pt](/f11/language/pt) | 4682 | 4682 | 100.0 | /mnt/stockage/packages/f11/gnome-packagekit/po/pt.po | 
+ | [pt_BR](/f11/language/pt_BR) | 4832 | 4832 | 100.0 | /mnt/stockage/packages/f11/gnome-packagekit/po/pt_BR.po | 
+ | [ru](/f11/language/ru) | 4319 | 4319 | 100.0 | /mnt/stockage/packages/f11/gnome-packagekit/po/ru.po | 
+ | [sv](/f11/language/sv) | 5297 | 5297 | 100.0 | /mnt/stockage/packages/f11/gnome-packagekit/help/sv/sv.po/mnt/stockage/packages/f11/gnome-packagekit/po/sv.po | 
+ | [ta](/f11/language/ta) | 4792 | 4792 | 100.0 | /mnt/stockage/packages/f11/gnome-packagekit/po/ta.po | 
+ | [te](/f11/language/te) | 4749 | 4749 | 100.0 | /mnt/stockage/packages/f11/gnome-packagekit/po/te.po | 
+ | [uk](/f11/language/uk) | 4284 | 4286 | 100.0 | /mnt/stockage/packages/f11/gnome-packagekit/po/uk.po | 
+ | [zh_Hant](/f11/language/zh_Hant) | 8598 | 8638 | 99.5 | /mnt/stockage/packages/f11/gnome-packagekit/po/zh_HK.po/mnt/stockage/packages/f11/gnome-packagekit/po/zh_TW.po | 
+ | [pa](/f11/language/pa) | 4647 | 4832 | 96.2 | /mnt/stockage/packages/f11/gnome-packagekit/po/pa.po | 
+ | [de](/f11/language/de) | 7996 | 8427 | 94.9 | /mnt/stockage/packages/f11/gnome-packagekit/help/de/de.po/mnt/stockage/packages/f11/gnome-packagekit/po/de.po | 
+ | [el](/f11/language/el) | 7586 | 8020 | 94.6 | /mnt/stockage/packages/f11/gnome-packagekit/help/el/el.po/mnt/stockage/packages/f11/gnome-packagekit/po/el.po | 
+ | [ca](/f11/language/ca) | 4030 | 4374 | 92.1 | /mnt/stockage/packages/f11/gnome-packagekit/po/ca.po | 
+ | [it](/f11/language/it) | 3994 | 4374 | 91.3 | /mnt/stockage/packages/f11/gnome-packagekit/po/it.po | 
+ | [cs](/f11/language/cs) | 3770 | 4374 | 86.2 | /mnt/stockage/packages/f11/gnome-packagekit/po/cs.po | 
+ | [or](/f11/language/or) | 3727 | 4374 | 85.2 | /mnt/stockage/packages/f11/gnome-packagekit/po/or.po | 
+ | [ml](/f11/language/ml) | 3108 | 4374 | 71.1 | /mnt/stockage/packages/f11/gnome-packagekit/po/ml.po | 
+ | [hi](/f11/language/hi) | 3005 | 4374 | 68.7 | /mnt/stockage/packages/f11/gnome-packagekit/po/hi.po | 
+ | [nb_NO](/f11/language/nb_NO) | 2843 | 4547 | 62.5 | /mnt/stockage/packages/f11/gnome-packagekit/po/nb.po | 
+ | [fr](/f11/language/fr) | 2705 | 4374 | 61.8 | /mnt/stockage/packages/f11/gnome-packagekit/po/fr.po | 
+ | [zh_Hans](/f11/language/zh_Hans) | 4423 | 8124 | 54.4 | /mnt/stockage/packages/f11/gnome-packagekit/help/zh_CN/zh_CN.po/mnt/stockage/packages/f11/gnome-packagekit/po/zh_CN.po | 
+ | [ro](/f11/language/ro) | 1634 | 4641 | 35.2 | /mnt/stockage/packages/f11/gnome-packagekit/po/ro.po | 
+ | [en_GB](/f11/language/en_GB) | 878 | 4374 | 20.1 | /mnt/stockage/packages/f11/gnome-packagekit/po/en_GB.po | 
+ | [tr](/f11/language/tr) | 607 | 4374 | 13.9 | /mnt/stockage/packages/f11/gnome-packagekit/po/tr.po | 
+ | [gl](/f11/language/gl) | 452 | 4374 | 10.3 | /mnt/stockage/packages/f11/gnome-packagekit/po/gl.po | 
+ | [cy](/f11/language/cy) | 418 | 4374 | 9.6 | /mnt/stockage/packages/f11/gnome-packagekit/po/cy.po | 
+ | [nl](/f11/language/nl) | 194 | 4432 | 4.4 | /mnt/stockage/packages/f11/gnome-packagekit/po/nl.po | 
+ | [oc](/f11/language/oc) | 167 | 4989 | 3.3 | /mnt/stockage/packages/f11/gnome-packagekit/help/oc/oc.po/mnt/stockage/packages/f11/gnome-packagekit/po/oc.po | 
+ | [ar](/f11/language/ar) | 143 | 4374 | 3.3 | /mnt/stockage/packages/f11/gnome-packagekit/po/ar.po | 
+ | [ja](/f11/language/ja) | 44 | 4374 | 1.0 | /mnt/stockage/packages/f11/gnome-packagekit/po/ja.po | 
 {.sortable}
 
 

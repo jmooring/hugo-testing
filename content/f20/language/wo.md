@@ -39,28 +39,28 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [newt]({{< ref "/f20/package/newt.md" >}}) | 4 | 4 | 100.0 | Wolof | 
- | [klavaro]({{< ref "/f20/package/klavaro.md" >}}) | 1903 | 1912 | 99.5 | Wolof <wo@li.org> | 
- | [debconf]({{< ref "/f20/package/debconf.md" >}}) | 189 | 191 | 99.0 | Wolof <debian-boot@lists.debian.org> | 
- | [iso-codes]({{< ref "/f20/package/iso-codes.md" >}}) | 1039 | 1110 | 93.6 | Wolof | 
- | [tuxtype2]({{< ref "/f20/package/tuxtype2.md" >}}) | 71 | 80 | 88.8 |  | 
- | [ccsm]({{< ref "/f20/package/ccsm.md" >}}) | 399 | 549 | 72.7 | Wolof | 
- | [tuxpaint]({{< ref "/f20/package/tuxpaint.md" >}}) | 421 | 1247 | 33.8 |  | 
- | [pootle]({{< ref "/f20/package/pootle.md" >}}) | 126 | 2424 | 5.2 | LANGUAGE <LL@li.org> | 
- | [abrt]({{< ref "/f20/package/abrt.md" >}}) | 0 | 2722 | 0.0 | Wolof (http://www.transifex.com/projects/p/fedora/language/wo/) | 
- | [certmonger]({{< ref "/f20/package/certmonger.md" >}}) | 0 | 1669 | 0.0 | Wolof (http://www.transifex.com/projects/p/certmonger/language/wo/) | 
- | [entangle]({{< ref "/f20/package/entangle.md" >}}) | 0 | 916 | 0.0 | Wolof (http://www.transifex.com/projects/p/entangle/language/wo/) | 
- | [initial-setup]({{< ref "/f20/package/initial-setup.md" >}}) | 0 | 29 | 0.0 | Wolof (http://www.transifex.com/projects/p/fedora/language/wo/) | 
- | [libreport]({{< ref "/f20/package/libreport.md" >}}) | 0 | 3139 | 0.0 | Wolof (http://www.transifex.com/projects/p/fedora/language/wo/) | 
- | [libvirt-sandbox]({{< ref "/f20/package/libvirt-sandbox.md" >}}) | 0 | 583 | 0.0 | Wolof (http://www.transifex.com/projects/p/fedora/language/wo/) | 
- | [liveusb-creator]({{< ref "/f20/package/liveusb-creator.md" >}}) | 0 | 480 | 0.0 | Wolof (http://www.transifex.com/projects/p/fedora/language/wo/) | 
- | [olpc-switch-desktop]({{< ref "/f20/package/olpc-switch-desktop.md" >}}) | 0 | 158 | 0.0 | LANGUAGE <LL@li.org> | 
- | [policycoreutils]({{< ref "/f20/package/policycoreutils.md" >}}) | 0 | 7678 | 0.0 | Wolof (http://www.transifex.com/projects/p/fedora/language/wo/) | 
- | [pykickstart]({{< ref "/f20/package/pykickstart.md" >}}) | 0 | 383 | 0.0 | Wolof (http://www.transifex.com/projects/p/fedora/language/wo/) | 
- | [python-meh]({{< ref "/f20/package/python-meh.md" >}}) | 0 | 109 | 0.0 | Wolof (http://www.transifex.com/projects/p/fedora/language/wo/) | 
- | [sugar-browse]({{< ref "/f20/package/sugar-browse.md" >}}) | 0 | 189 | 0.0 | LANGUAGE <LL@li.org> | 
- | [vidalia]({{< ref "/f20/package/vidalia.md" >}}) | 0 | 10377 | 0.0 | LANGUAGE <LL@li.org> | 
- | [virt-viewer]({{< ref "/f20/package/virt-viewer.md" >}}) | 0 | 615 | 0.0 | Wolof (http://www.transifex.com/projects/p/fedora/language/wo/) | 
+ | [newt](/f20/package/newt) | 4 | 4 | 100.0 | Wolof | 
+ | [klavaro](/f20/package/klavaro) | 1903 | 1912 | 99.5 | Wolof <wo@li.org> | 
+ | [debconf](/f20/package/debconf) | 189 | 191 | 99.0 | Wolof <debian-boot@lists.debian.org> | 
+ | [iso-codes](/f20/package/iso-codes) | 1039 | 1110 | 93.6 | Wolof | 
+ | [tuxtype2](/f20/package/tuxtype2) | 71 | 80 | 88.8 |  | 
+ | [ccsm](/f20/package/ccsm) | 399 | 549 | 72.7 | Wolof | 
+ | [tuxpaint](/f20/package/tuxpaint) | 421 | 1247 | 33.8 |  | 
+ | [pootle](/f20/package/pootle) | 126 | 2424 | 5.2 | LANGUAGE <LL@li.org> | 
+ | [abrt](/f20/package/abrt) | 0 | 2722 | 0.0 | Wolof (http://www.transifex.com/projects/p/fedora/language/wo/) | 
+ | [certmonger](/f20/package/certmonger) | 0 | 1669 | 0.0 | Wolof (http://www.transifex.com/projects/p/certmonger/language/wo/) | 
+ | [entangle](/f20/package/entangle) | 0 | 916 | 0.0 | Wolof (http://www.transifex.com/projects/p/entangle/language/wo/) | 
+ | [initial-setup](/f20/package/initial-setup) | 0 | 29 | 0.0 | Wolof (http://www.transifex.com/projects/p/fedora/language/wo/) | 
+ | [libreport](/f20/package/libreport) | 0 | 3139 | 0.0 | Wolof (http://www.transifex.com/projects/p/fedora/language/wo/) | 
+ | [libvirt-sandbox](/f20/package/libvirt-sandbox) | 0 | 583 | 0.0 | Wolof (http://www.transifex.com/projects/p/fedora/language/wo/) | 
+ | [liveusb-creator](/f20/package/liveusb-creator) | 0 | 480 | 0.0 | Wolof (http://www.transifex.com/projects/p/fedora/language/wo/) | 
+ | [olpc-switch-desktop](/f20/package/olpc-switch-desktop) | 0 | 158 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [policycoreutils](/f20/package/policycoreutils) | 0 | 7678 | 0.0 | Wolof (http://www.transifex.com/projects/p/fedora/language/wo/) | 
+ | [pykickstart](/f20/package/pykickstart) | 0 | 383 | 0.0 | Wolof (http://www.transifex.com/projects/p/fedora/language/wo/) | 
+ | [python-meh](/f20/package/python-meh) | 0 | 109 | 0.0 | Wolof (http://www.transifex.com/projects/p/fedora/language/wo/) | 
+ | [sugar-browse](/f20/package/sugar-browse) | 0 | 189 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [vidalia](/f20/package/vidalia) | 0 | 10377 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [virt-viewer](/f20/package/virt-viewer) | 0 | 615 | 0.0 | Wolof (http://www.transifex.com/projects/p/fedora/language/wo/) | 
 {.sortable}
 
 

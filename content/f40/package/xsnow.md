@@ -18,28 +18,28 @@ The package xsnow (version 3.7.9):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f40/language/cs.md" >}}) | 4136 | 4136 | 100.0 | /mnt/stockage/packages/f40/xsnow/po/cs.po/mnt/stockage/packages/f40/xsnow/pofiles/cs.po | 
- | [da]({{< ref "/f40/language/da.md" >}}) | 4136 | 4136 | 100.0 | /mnt/stockage/packages/f40/xsnow/po/da.po/mnt/stockage/packages/f40/xsnow/pofiles/da.po | 
- | [de]({{< ref "/f40/language/de.md" >}}) | 4136 | 4136 | 100.0 | /mnt/stockage/packages/f40/xsnow/po/de.po/mnt/stockage/packages/f40/xsnow/pofiles/de.po | 
- | [el]({{< ref "/f40/language/el.md" >}}) | 4136 | 4136 | 100.0 | /mnt/stockage/packages/f40/xsnow/po/el.po/mnt/stockage/packages/f40/xsnow/pofiles/el.po | 
- | [en]({{< ref "/f40/language/en.md" >}}) | 4136 | 4136 | 100.0 | /mnt/stockage/packages/f40/xsnow/po/en.po/mnt/stockage/packages/f40/xsnow/pofiles/en.po | 
- | [es]({{< ref "/f40/language/es.md" >}}) | 4136 | 4136 | 100.0 | /mnt/stockage/packages/f40/xsnow/po/es.po/mnt/stockage/packages/f40/xsnow/pofiles/es.po | 
- | [et]({{< ref "/f40/language/et.md" >}}) | 4136 | 4136 | 100.0 | /mnt/stockage/packages/f40/xsnow/po/et.po/mnt/stockage/packages/f40/xsnow/pofiles/et.po | 
- | [fi]({{< ref "/f40/language/fi.md" >}}) | 4136 | 4136 | 100.0 | /mnt/stockage/packages/f40/xsnow/po/fi.po/mnt/stockage/packages/f40/xsnow/pofiles/fi.po | 
- | [fr]({{< ref "/f40/language/fr.md" >}}) | 4136 | 4136 | 100.0 | /mnt/stockage/packages/f40/xsnow/po/fr.po/mnt/stockage/packages/f40/xsnow/pofiles/fr.po | 
- | [hu]({{< ref "/f40/language/hu.md" >}}) | 4136 | 4136 | 100.0 | /mnt/stockage/packages/f40/xsnow/po/hu.po/mnt/stockage/packages/f40/xsnow/pofiles/hu.po | 
- | [is]({{< ref "/f40/language/is.md" >}}) | 4136 | 4136 | 100.0 | /mnt/stockage/packages/f40/xsnow/po/is.po/mnt/stockage/packages/f40/xsnow/pofiles/is.po | 
- | [it]({{< ref "/f40/language/it.md" >}}) | 4136 | 4136 | 100.0 | /mnt/stockage/packages/f40/xsnow/po/it.po/mnt/stockage/packages/f40/xsnow/pofiles/it.po | 
- | [lt]({{< ref "/f40/language/lt.md" >}}) | 4136 | 4136 | 100.0 | /mnt/stockage/packages/f40/xsnow/po/lt.po/mnt/stockage/packages/f40/xsnow/pofiles/lt.po | 
- | [lv]({{< ref "/f40/language/lv.md" >}}) | 4136 | 4136 | 100.0 | /mnt/stockage/packages/f40/xsnow/po/lv.po/mnt/stockage/packages/f40/xsnow/pofiles/lv.po | 
- | [nb_NO]({{< ref "/f40/language/nb_NO.md" >}}) | 4136 | 4136 | 100.0 | /mnt/stockage/packages/f40/xsnow/po/no.po/mnt/stockage/packages/f40/xsnow/pofiles/no.po | 
- | [nl]({{< ref "/f40/language/nl.md" >}}) | 4136 | 4136 | 100.0 | /mnt/stockage/packages/f40/xsnow/po/nl.po/mnt/stockage/packages/f40/xsnow/pofiles/nl.po | 
- | [pl]({{< ref "/f40/language/pl.md" >}}) | 4136 | 4136 | 100.0 | /mnt/stockage/packages/f40/xsnow/po/pl.po/mnt/stockage/packages/f40/xsnow/pofiles/pl.po | 
- | [pt]({{< ref "/f40/language/pt.md" >}}) | 4136 | 4136 | 100.0 | /mnt/stockage/packages/f40/xsnow/po/pt.po/mnt/stockage/packages/f40/xsnow/pofiles/pt.po | 
- | [ro]({{< ref "/f40/language/ro.md" >}}) | 4136 | 4136 | 100.0 | /mnt/stockage/packages/f40/xsnow/po/ro.po/mnt/stockage/packages/f40/xsnow/pofiles/ro.po | 
- | [ru]({{< ref "/f40/language/ru.md" >}}) | 4136 | 4136 | 100.0 | /mnt/stockage/packages/f40/xsnow/po/ru.po/mnt/stockage/packages/f40/xsnow/pofiles/ru.po | 
- | [sv]({{< ref "/f40/language/sv.md" >}}) | 4136 | 4136 | 100.0 | /mnt/stockage/packages/f40/xsnow/po/sv.po/mnt/stockage/packages/f40/xsnow/pofiles/sv.po | 
- | [uk]({{< ref "/f40/language/uk.md" >}}) | 4136 | 4136 | 100.0 | /mnt/stockage/packages/f40/xsnow/po/uk.po/mnt/stockage/packages/f40/xsnow/pofiles/uk.po | 
+ | [cs](/f40/language/cs) | 4136 | 4136 | 100.0 | /mnt/stockage/packages/f40/xsnow/po/cs.po/mnt/stockage/packages/f40/xsnow/pofiles/cs.po | 
+ | [da](/f40/language/da) | 4136 | 4136 | 100.0 | /mnt/stockage/packages/f40/xsnow/po/da.po/mnt/stockage/packages/f40/xsnow/pofiles/da.po | 
+ | [de](/f40/language/de) | 4136 | 4136 | 100.0 | /mnt/stockage/packages/f40/xsnow/po/de.po/mnt/stockage/packages/f40/xsnow/pofiles/de.po | 
+ | [el](/f40/language/el) | 4136 | 4136 | 100.0 | /mnt/stockage/packages/f40/xsnow/po/el.po/mnt/stockage/packages/f40/xsnow/pofiles/el.po | 
+ | [en](/f40/language/en) | 4136 | 4136 | 100.0 | /mnt/stockage/packages/f40/xsnow/po/en.po/mnt/stockage/packages/f40/xsnow/pofiles/en.po | 
+ | [es](/f40/language/es) | 4136 | 4136 | 100.0 | /mnt/stockage/packages/f40/xsnow/po/es.po/mnt/stockage/packages/f40/xsnow/pofiles/es.po | 
+ | [et](/f40/language/et) | 4136 | 4136 | 100.0 | /mnt/stockage/packages/f40/xsnow/po/et.po/mnt/stockage/packages/f40/xsnow/pofiles/et.po | 
+ | [fi](/f40/language/fi) | 4136 | 4136 | 100.0 | /mnt/stockage/packages/f40/xsnow/po/fi.po/mnt/stockage/packages/f40/xsnow/pofiles/fi.po | 
+ | [fr](/f40/language/fr) | 4136 | 4136 | 100.0 | /mnt/stockage/packages/f40/xsnow/po/fr.po/mnt/stockage/packages/f40/xsnow/pofiles/fr.po | 
+ | [hu](/f40/language/hu) | 4136 | 4136 | 100.0 | /mnt/stockage/packages/f40/xsnow/po/hu.po/mnt/stockage/packages/f40/xsnow/pofiles/hu.po | 
+ | [is](/f40/language/is) | 4136 | 4136 | 100.0 | /mnt/stockage/packages/f40/xsnow/po/is.po/mnt/stockage/packages/f40/xsnow/pofiles/is.po | 
+ | [it](/f40/language/it) | 4136 | 4136 | 100.0 | /mnt/stockage/packages/f40/xsnow/po/it.po/mnt/stockage/packages/f40/xsnow/pofiles/it.po | 
+ | [lt](/f40/language/lt) | 4136 | 4136 | 100.0 | /mnt/stockage/packages/f40/xsnow/po/lt.po/mnt/stockage/packages/f40/xsnow/pofiles/lt.po | 
+ | [lv](/f40/language/lv) | 4136 | 4136 | 100.0 | /mnt/stockage/packages/f40/xsnow/po/lv.po/mnt/stockage/packages/f40/xsnow/pofiles/lv.po | 
+ | [nb_NO](/f40/language/nb_NO) | 4136 | 4136 | 100.0 | /mnt/stockage/packages/f40/xsnow/po/no.po/mnt/stockage/packages/f40/xsnow/pofiles/no.po | 
+ | [nl](/f40/language/nl) | 4136 | 4136 | 100.0 | /mnt/stockage/packages/f40/xsnow/po/nl.po/mnt/stockage/packages/f40/xsnow/pofiles/nl.po | 
+ | [pl](/f40/language/pl) | 4136 | 4136 | 100.0 | /mnt/stockage/packages/f40/xsnow/po/pl.po/mnt/stockage/packages/f40/xsnow/pofiles/pl.po | 
+ | [pt](/f40/language/pt) | 4136 | 4136 | 100.0 | /mnt/stockage/packages/f40/xsnow/po/pt.po/mnt/stockage/packages/f40/xsnow/pofiles/pt.po | 
+ | [ro](/f40/language/ro) | 4136 | 4136 | 100.0 | /mnt/stockage/packages/f40/xsnow/po/ro.po/mnt/stockage/packages/f40/xsnow/pofiles/ro.po | 
+ | [ru](/f40/language/ru) | 4136 | 4136 | 100.0 | /mnt/stockage/packages/f40/xsnow/po/ru.po/mnt/stockage/packages/f40/xsnow/pofiles/ru.po | 
+ | [sv](/f40/language/sv) | 4136 | 4136 | 100.0 | /mnt/stockage/packages/f40/xsnow/po/sv.po/mnt/stockage/packages/f40/xsnow/pofiles/sv.po | 
+ | [uk](/f40/language/uk) | 4136 | 4136 | 100.0 | /mnt/stockage/packages/f40/xsnow/po/uk.po/mnt/stockage/packages/f40/xsnow/pofiles/uk.po | 
 {.sortable}
 
 

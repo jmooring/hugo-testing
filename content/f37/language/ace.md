@@ -38,10 +38,10 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [granite]({{< ref "/f37/package/granite.md" >}}) | 0 | 498 | 0.0 | none | 
- | [iso-codes]({{< ref "/f37/package/iso-codes.md" >}}) | 0 | 986 | 0.0 | Acehnese <https://hosted.weblate.org/projects/iso-codes/iso-3166-1/ace/> | 
- | [onboard]({{< ref "/f37/package/onboard.md" >}}) | 0 | 2318 | 0.0 | Acehnese <ace@li.org> | 
- | [po4a]({{< ref "/f37/package/po4a.md" >}}) | 0 | 2820 | 0.0 | none | 
+ | [granite](/f37/package/granite) | 0 | 498 | 0.0 | none | 
+ | [iso-codes](/f37/package/iso-codes) | 0 | 986 | 0.0 | Acehnese <https://hosted.weblate.org/projects/iso-codes/iso-3166-1/ace/> | 
+ | [onboard](/f37/package/onboard) | 0 | 2318 | 0.0 | Acehnese <ace@li.org> | 
+ | [po4a](/f37/package/po4a) | 0 | 2820 | 0.0 | none | 
 {.sortable}
 
 

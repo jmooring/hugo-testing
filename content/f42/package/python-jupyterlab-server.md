@@ -18,7 +18,7 @@ The package python-jupyterlab-server (version 2.27.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [es_CO]({{< ref "/f42/language/es_CO.md" >}}) | 5 | 5 | 100.0 | /mnt/stockage/packages/f42/python-jupyterlab-server/tests/translations/jupyterlab-language-pack-es_CO/jupyterlab_language_pack_es_CO/locale/es_CO/LC_MESSAGES/jupyterlab.po/mnt/stockage/packages/f42/python-jupyterlab-server/tests/translations/jupyterlab-language-pack-es_CO/jupyterlab_language_pack_es_CO/locale/es_CO/LC_MESSAGES/jupyterlab_some_package.po | 
+ | [es_CO](/f42/language/es_CO) | 5 | 5 | 100.0 | /mnt/stockage/packages/f42/python-jupyterlab-server/tests/translations/jupyterlab-language-pack-es_CO/jupyterlab_language_pack_es_CO/locale/es_CO/LC_MESSAGES/jupyterlab.po/mnt/stockage/packages/f42/python-jupyterlab-server/tests/translations/jupyterlab-language-pack-es_CO/jupyterlab_language_pack_es_CO/locale/es_CO/LC_MESSAGES/jupyterlab_some_package.po | 
 {.sortable}
 
 

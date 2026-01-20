@@ -18,8 +18,8 @@ The package libhocr (version 0.10.17):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [he]({{< ref "/f23/language/he.md" >}}) | 152 | 207 | 73.4 | /mnt/stockage/packages/f23/libhocr/examples/hocr-gtk/he_hocr-gtk.po/mnt/stockage/packages/f23/libhocr/examples/hocr-gtk/he_sane-pygtk.po | 
- | [sv]({{< ref "/f23/language/sv.md" >}}) | 6 | 207 | 2.9 | /mnt/stockage/packages/f23/libhocr/examples/hocr-gtk/sv_hocr-gtk.po/mnt/stockage/packages/f23/libhocr/examples/hocr-gtk/sv_sane-pygtk.po | 
+ | [he](/f23/language/he) | 152 | 207 | 73.4 | /mnt/stockage/packages/f23/libhocr/examples/hocr-gtk/he_hocr-gtk.po/mnt/stockage/packages/f23/libhocr/examples/hocr-gtk/he_sane-pygtk.po | 
+ | [sv](/f23/language/sv) | 6 | 207 | 2.9 | /mnt/stockage/packages/f23/libhocr/examples/hocr-gtk/sv_hocr-gtk.po/mnt/stockage/packages/f23/libhocr/examples/hocr-gtk/sv_sane-pygtk.po | 
 {.sortable}
 
 

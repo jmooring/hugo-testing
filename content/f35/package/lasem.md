@@ -18,23 +18,23 @@ The package lasem (version 0.4.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f35/language/cs.md" >}}) | 29 | 29 | 100.0 | /mnt/stockage/packages/f35/lasem/po/cs.po | 
- | [de]({{< ref "/f35/language/de.md" >}}) | 29 | 29 | 100.0 | /mnt/stockage/packages/f35/lasem/po/de.po | 
- | [el]({{< ref "/f35/language/el.md" >}}) | 29 | 29 | 100.0 | /mnt/stockage/packages/f35/lasem/po/el.po | 
- | [es]({{< ref "/f35/language/es.md" >}}) | 29 | 29 | 100.0 | /mnt/stockage/packages/f35/lasem/po/es.po | 
- | [eu]({{< ref "/f35/language/eu.md" >}}) | 29 | 29 | 100.0 | /mnt/stockage/packages/f35/lasem/po/eu.po | 
- | [fr]({{< ref "/f35/language/fr.md" >}}) | 25 | 25 | 100.0 | /mnt/stockage/packages/f35/lasem/po/fr.po | 
- | [gl]({{< ref "/f35/language/gl.md" >}}) | 29 | 29 | 100.0 | /mnt/stockage/packages/f35/lasem/po/gl.po | 
- | [hu]({{< ref "/f35/language/hu.md" >}}) | 29 | 29 | 100.0 | /mnt/stockage/packages/f35/lasem/po/hu.po | 
- | [id]({{< ref "/f35/language/id.md" >}}) | 29 | 29 | 100.0 | /mnt/stockage/packages/f35/lasem/po/id.po | 
- | [lt]({{< ref "/f35/language/lt.md" >}}) | 29 | 29 | 100.0 | /mnt/stockage/packages/f35/lasem/po/lt.po | 
- | [pl]({{< ref "/f35/language/pl.md" >}}) | 29 | 29 | 100.0 | /mnt/stockage/packages/f35/lasem/po/pl.po | 
- | [pt_BR]({{< ref "/f35/language/pt_BR.md" >}}) | 29 | 29 | 100.0 | /mnt/stockage/packages/f35/lasem/po/pt_BR.po | 
- | [ru]({{< ref "/f35/language/ru.md" >}}) | 29 | 29 | 100.0 | /mnt/stockage/packages/f35/lasem/po/ru.po | 
- | [sl]({{< ref "/f35/language/sl.md" >}}) | 29 | 29 | 100.0 | /mnt/stockage/packages/f35/lasem/po/sl.po | 
- | [sr]({{< ref "/f35/language/sr.md" >}}) | 58 | 58 | 100.0 | /mnt/stockage/packages/f35/lasem/po/sr.po/mnt/stockage/packages/f35/lasem/po/sr@latin.po | 
- | [sv]({{< ref "/f35/language/sv.md" >}}) | 25 | 25 | 100.0 | /mnt/stockage/packages/f35/lasem/po/sv.po | 
- | [tr]({{< ref "/f35/language/tr.md" >}}) | 29 | 29 | 100.0 | /mnt/stockage/packages/f35/lasem/po/tr.po | 
+ | [cs](/f35/language/cs) | 29 | 29 | 100.0 | /mnt/stockage/packages/f35/lasem/po/cs.po | 
+ | [de](/f35/language/de) | 29 | 29 | 100.0 | /mnt/stockage/packages/f35/lasem/po/de.po | 
+ | [el](/f35/language/el) | 29 | 29 | 100.0 | /mnt/stockage/packages/f35/lasem/po/el.po | 
+ | [es](/f35/language/es) | 29 | 29 | 100.0 | /mnt/stockage/packages/f35/lasem/po/es.po | 
+ | [eu](/f35/language/eu) | 29 | 29 | 100.0 | /mnt/stockage/packages/f35/lasem/po/eu.po | 
+ | [fr](/f35/language/fr) | 25 | 25 | 100.0 | /mnt/stockage/packages/f35/lasem/po/fr.po | 
+ | [gl](/f35/language/gl) | 29 | 29 | 100.0 | /mnt/stockage/packages/f35/lasem/po/gl.po | 
+ | [hu](/f35/language/hu) | 29 | 29 | 100.0 | /mnt/stockage/packages/f35/lasem/po/hu.po | 
+ | [id](/f35/language/id) | 29 | 29 | 100.0 | /mnt/stockage/packages/f35/lasem/po/id.po | 
+ | [lt](/f35/language/lt) | 29 | 29 | 100.0 | /mnt/stockage/packages/f35/lasem/po/lt.po | 
+ | [pl](/f35/language/pl) | 29 | 29 | 100.0 | /mnt/stockage/packages/f35/lasem/po/pl.po | 
+ | [pt_BR](/f35/language/pt_BR) | 29 | 29 | 100.0 | /mnt/stockage/packages/f35/lasem/po/pt_BR.po | 
+ | [ru](/f35/language/ru) | 29 | 29 | 100.0 | /mnt/stockage/packages/f35/lasem/po/ru.po | 
+ | [sl](/f35/language/sl) | 29 | 29 | 100.0 | /mnt/stockage/packages/f35/lasem/po/sl.po | 
+ | [sr](/f35/language/sr) | 58 | 58 | 100.0 | /mnt/stockage/packages/f35/lasem/po/sr.po/mnt/stockage/packages/f35/lasem/po/sr@latin.po | 
+ | [sv](/f35/language/sv) | 25 | 25 | 100.0 | /mnt/stockage/packages/f35/lasem/po/sv.po | 
+ | [tr](/f35/language/tr) | 29 | 29 | 100.0 | /mnt/stockage/packages/f35/lasem/po/tr.po | 
 {.sortable}
 
 

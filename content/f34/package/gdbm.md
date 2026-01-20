@@ -18,20 +18,20 @@ The package gdbm (version 1.19):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f34/language/de.md" >}}) | 800 | 872 | 91.7 | /mnt/stockage/packages/f34/gdbm/po/de.po | 
- | [eo]({{< ref "/f34/language/eo.md" >}}) | 800 | 872 | 91.7 | /mnt/stockage/packages/f34/gdbm/po/eo.po | 
- | [fr]({{< ref "/f34/language/fr.md" >}}) | 800 | 872 | 91.7 | /mnt/stockage/packages/f34/gdbm/po/fr.po | 
- | [pl]({{< ref "/f34/language/pl.md" >}}) | 800 | 872 | 91.7 | /mnt/stockage/packages/f34/gdbm/po/pl.po | 
- | [pt_BR]({{< ref "/f34/language/pt_BR.md" >}}) | 800 | 872 | 91.7 | /mnt/stockage/packages/f34/gdbm/po/pt_BR.po | 
- | [ru]({{< ref "/f34/language/ru.md" >}}) | 800 | 872 | 91.7 | /mnt/stockage/packages/f34/gdbm/po/ru.po | 
- | [sr]({{< ref "/f34/language/sr.md" >}}) | 800 | 872 | 91.7 | /mnt/stockage/packages/f34/gdbm/po/sr.po | 
- | [sv]({{< ref "/f34/language/sv.md" >}}) | 800 | 872 | 91.7 | /mnt/stockage/packages/f34/gdbm/po/sv.po | 
- | [uk]({{< ref "/f34/language/uk.md" >}}) | 800 | 872 | 91.7 | /mnt/stockage/packages/f34/gdbm/po/uk.po | 
- | [vi]({{< ref "/f34/language/vi.md" >}}) | 800 | 872 | 91.7 | /mnt/stockage/packages/f34/gdbm/po/vi.po | 
- | [da]({{< ref "/f34/language/da.md" >}}) | 739 | 872 | 84.7 | /mnt/stockage/packages/f34/gdbm/po/da.po | 
- | [es]({{< ref "/f34/language/es.md" >}}) | 739 | 872 | 84.7 | /mnt/stockage/packages/f34/gdbm/po/es.po | 
- | [fi]({{< ref "/f34/language/fi.md" >}}) | 582 | 872 | 66.7 | /mnt/stockage/packages/f34/gdbm/po/fi.po | 
- | [ja]({{< ref "/f34/language/ja.md" >}}) | 246 | 872 | 28.2 | /mnt/stockage/packages/f34/gdbm/po/ja.po | 
+ | [de](/f34/language/de) | 800 | 872 | 91.7 | /mnt/stockage/packages/f34/gdbm/po/de.po | 
+ | [eo](/f34/language/eo) | 800 | 872 | 91.7 | /mnt/stockage/packages/f34/gdbm/po/eo.po | 
+ | [fr](/f34/language/fr) | 800 | 872 | 91.7 | /mnt/stockage/packages/f34/gdbm/po/fr.po | 
+ | [pl](/f34/language/pl) | 800 | 872 | 91.7 | /mnt/stockage/packages/f34/gdbm/po/pl.po | 
+ | [pt_BR](/f34/language/pt_BR) | 800 | 872 | 91.7 | /mnt/stockage/packages/f34/gdbm/po/pt_BR.po | 
+ | [ru](/f34/language/ru) | 800 | 872 | 91.7 | /mnt/stockage/packages/f34/gdbm/po/ru.po | 
+ | [sr](/f34/language/sr) | 800 | 872 | 91.7 | /mnt/stockage/packages/f34/gdbm/po/sr.po | 
+ | [sv](/f34/language/sv) | 800 | 872 | 91.7 | /mnt/stockage/packages/f34/gdbm/po/sv.po | 
+ | [uk](/f34/language/uk) | 800 | 872 | 91.7 | /mnt/stockage/packages/f34/gdbm/po/uk.po | 
+ | [vi](/f34/language/vi) | 800 | 872 | 91.7 | /mnt/stockage/packages/f34/gdbm/po/vi.po | 
+ | [da](/f34/language/da) | 739 | 872 | 84.7 | /mnt/stockage/packages/f34/gdbm/po/da.po | 
+ | [es](/f34/language/es) | 739 | 872 | 84.7 | /mnt/stockage/packages/f34/gdbm/po/es.po | 
+ | [fi](/f34/language/fi) | 582 | 872 | 66.7 | /mnt/stockage/packages/f34/gdbm/po/fi.po | 
+ | [ja](/f34/language/ja) | 246 | 872 | 28.2 | /mnt/stockage/packages/f34/gdbm/po/ja.po | 
 {.sortable}
 
 

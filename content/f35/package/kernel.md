@@ -18,11 +18,11 @@ The package kernel (version 6.0.12):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f35/language/de.md" >}}) | 997 | 1149 | 86.8 | /mnt/stockage/packages/f35/kernel/tools/power/cpupower/po/de.po | 
- | [it]({{< ref "/f35/language/it.md" >}}) | 473 | 1149 | 41.2 | /mnt/stockage/packages/f35/kernel/tools/power/cpupower/po/it.po | 
- | [pt]({{< ref "/f35/language/pt.md" >}}) | 473 | 1149 | 41.2 | /mnt/stockage/packages/f35/kernel/tools/power/cpupower/po/pt.po | 
- | [cs]({{< ref "/f35/language/cs.md" >}}) | 394 | 1149 | 34.3 | /mnt/stockage/packages/f35/kernel/tools/power/cpupower/po/cs.po | 
- | [fr]({{< ref "/f35/language/fr.md" >}}) | 394 | 1149 | 34.3 | /mnt/stockage/packages/f35/kernel/tools/power/cpupower/po/fr.po | 
+ | [de](/f35/language/de) | 997 | 1149 | 86.8 | /mnt/stockage/packages/f35/kernel/tools/power/cpupower/po/de.po | 
+ | [it](/f35/language/it) | 473 | 1149 | 41.2 | /mnt/stockage/packages/f35/kernel/tools/power/cpupower/po/it.po | 
+ | [pt](/f35/language/pt) | 473 | 1149 | 41.2 | /mnt/stockage/packages/f35/kernel/tools/power/cpupower/po/pt.po | 
+ | [cs](/f35/language/cs) | 394 | 1149 | 34.3 | /mnt/stockage/packages/f35/kernel/tools/power/cpupower/po/cs.po | 
+ | [fr](/f35/language/fr) | 394 | 1149 | 34.3 | /mnt/stockage/packages/f35/kernel/tools/power/cpupower/po/fr.po | 
 {.sortable}
 
 

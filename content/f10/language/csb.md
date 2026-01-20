@@ -38,9 +38,9 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [kmplayer]({{< ref "/f10/package/kmplayer.md" >}}) | 973 | 1251 | 77.8 | Kashubian | 
- | [avant-window-navigator]({{< ref "/f10/package/avant-window-navigator.md" >}}) | 173 | 593 | 29.2 | Kashubian <csb@li.org> | 
- | [Miro]({{< ref "/f10/package/Miro.md" >}}) | 46 | 2661 | 1.7 | Kashubian <csb@li.org> | 
+ | [kmplayer](/f10/package/kmplayer) | 973 | 1251 | 77.8 | Kashubian | 
+ | [avant-window-navigator](/f10/package/avant-window-navigator) | 173 | 593 | 29.2 | Kashubian <csb@li.org> | 
+ | [Miro](/f10/package/Miro) | 46 | 2661 | 1.7 | Kashubian <csb@li.org> | 
 {.sortable}
 
 

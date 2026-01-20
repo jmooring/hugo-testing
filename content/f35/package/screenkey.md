@@ -18,12 +18,12 @@ The package screenkey (version 1.5):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f35/language/ca.md" >}}) | 292 | 292 | 100.0 | /mnt/stockage/packages/f35/screenkey/Screenkey/locale/ca/LC_MESSAGES/screenkey.po | 
- | [ru]({{< ref "/f35/language/ru.md" >}}) | 292 | 292 | 100.0 | /mnt/stockage/packages/f35/screenkey/Screenkey/locale/ru/LC_MESSAGES/screenkey.po | 
- | [uk]({{< ref "/f35/language/uk.md" >}}) | 34 | 34 | 100.0 | /mnt/stockage/packages/f35/screenkey/Screenkey/locale/uk/LC_MESSAGES/screenkey.po | 
- | [zh_Hans]({{< ref "/f35/language/zh_Hans.md" >}}) | 299 | 299 | 100.0 | /mnt/stockage/packages/f35/screenkey/Screenkey/locale/zh_CN/LC_MESSAGES/screenkey.po | 
- | [fr]({{< ref "/f35/language/fr.md" >}}) | 223 | 232 | 96.1 | /mnt/stockage/packages/f35/screenkey/Screenkey/locale/fr/LC_MESSAGES/screenkey.po | 
- | [es]({{< ref "/f35/language/es.md" >}}) | 26 | 32 | 81.2 | /mnt/stockage/packages/f35/screenkey/Screenkey/locale/es/LC_MESSAGES/screenkey.po | 
+ | [ca](/f35/language/ca) | 292 | 292 | 100.0 | /mnt/stockage/packages/f35/screenkey/Screenkey/locale/ca/LC_MESSAGES/screenkey.po | 
+ | [ru](/f35/language/ru) | 292 | 292 | 100.0 | /mnt/stockage/packages/f35/screenkey/Screenkey/locale/ru/LC_MESSAGES/screenkey.po | 
+ | [uk](/f35/language/uk) | 34 | 34 | 100.0 | /mnt/stockage/packages/f35/screenkey/Screenkey/locale/uk/LC_MESSAGES/screenkey.po | 
+ | [zh_Hans](/f35/language/zh_Hans) | 299 | 299 | 100.0 | /mnt/stockage/packages/f35/screenkey/Screenkey/locale/zh_CN/LC_MESSAGES/screenkey.po | 
+ | [fr](/f35/language/fr) | 223 | 232 | 96.1 | /mnt/stockage/packages/f35/screenkey/Screenkey/locale/fr/LC_MESSAGES/screenkey.po | 
+ | [es](/f35/language/es) | 26 | 32 | 81.2 | /mnt/stockage/packages/f35/screenkey/Screenkey/locale/es/LC_MESSAGES/screenkey.po | 
 {.sortable}
 
 

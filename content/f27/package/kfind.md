@@ -18,61 +18,61 @@ The package kfind (version 17.12.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f27/language/ca.md" >}}) | 505 | 505 | 100.0 | /mnt/stockage/packages/f27/kfind/po/ca/kfind.po | 
- | [ca@valencia]({{< ref "/f27/language/ca@valencia.md" >}}) | 505 | 505 | 100.0 | /mnt/stockage/packages/f27/kfind/po/ca@valencia/kfind.po | 
- | [cs]({{< ref "/f27/language/cs.md" >}}) | 505 | 505 | 100.0 | /mnt/stockage/packages/f27/kfind/po/cs/kfind.po | 
- | [da]({{< ref "/f27/language/da.md" >}}) | 505 | 505 | 100.0 | /mnt/stockage/packages/f27/kfind/po/da/kfind.po | 
- | [de]({{< ref "/f27/language/de.md" >}}) | 505 | 505 | 100.0 | /mnt/stockage/packages/f27/kfind/po/de/kfind.po | 
- | [el]({{< ref "/f27/language/el.md" >}}) | 505 | 505 | 100.0 | /mnt/stockage/packages/f27/kfind/po/el/kfind.po | 
- | [en_GB]({{< ref "/f27/language/en_GB.md" >}}) | 505 | 505 | 100.0 | /mnt/stockage/packages/f27/kfind/po/en_GB/kfind.po | 
- | [es]({{< ref "/f27/language/es.md" >}}) | 505 | 505 | 100.0 | /mnt/stockage/packages/f27/kfind/po/es/kfind.po | 
- | [fi]({{< ref "/f27/language/fi.md" >}}) | 505 | 505 | 100.0 | /mnt/stockage/packages/f27/kfind/po/fi/kfind.po | 
- | [fr]({{< ref "/f27/language/fr.md" >}}) | 505 | 505 | 100.0 | /mnt/stockage/packages/f27/kfind/po/fr/kfind.po | 
- | [gl]({{< ref "/f27/language/gl.md" >}}) | 505 | 505 | 100.0 | /mnt/stockage/packages/f27/kfind/po/gl/kfind.po | 
- | [ia]({{< ref "/f27/language/ia.md" >}}) | 505 | 505 | 100.0 | /mnt/stockage/packages/f27/kfind/po/ia/kfind.po | 
- | [it]({{< ref "/f27/language/it.md" >}}) | 505 | 505 | 100.0 | /mnt/stockage/packages/f27/kfind/po/it/kfind.po | 
- | [ko]({{< ref "/f27/language/ko.md" >}}) | 505 | 505 | 100.0 | /mnt/stockage/packages/f27/kfind/po/ko/kfind.po | 
- | [lt]({{< ref "/f27/language/lt.md" >}}) | 505 | 505 | 100.0 | /mnt/stockage/packages/f27/kfind/po/lt/kfind.po | 
- | [nl]({{< ref "/f27/language/nl.md" >}}) | 505 | 505 | 100.0 | /mnt/stockage/packages/f27/kfind/po/nl/kfind.po | 
- | [nn]({{< ref "/f27/language/nn.md" >}}) | 505 | 505 | 100.0 | /mnt/stockage/packages/f27/kfind/po/nn/kfind.po | 
- | [pl]({{< ref "/f27/language/pl.md" >}}) | 505 | 505 | 100.0 | /mnt/stockage/packages/f27/kfind/po/pl/kfind.po | 
- | [pt]({{< ref "/f27/language/pt.md" >}}) | 505 | 505 | 100.0 | /mnt/stockage/packages/f27/kfind/po/pt/kfind.po | 
- | [pt_BR]({{< ref "/f27/language/pt_BR.md" >}}) | 505 | 505 | 100.0 | /mnt/stockage/packages/f27/kfind/po/pt_BR/kfind.po | 
- | [sk]({{< ref "/f27/language/sk.md" >}}) | 505 | 505 | 100.0 | /mnt/stockage/packages/f27/kfind/po/sk/kfind.po | 
- | [sl]({{< ref "/f27/language/sl.md" >}}) | 505 | 505 | 100.0 | /mnt/stockage/packages/f27/kfind/po/sl/kfind.po | 
- | [sr]({{< ref "/f27/language/sr.md" >}}) | 505 | 505 | 100.0 | /mnt/stockage/packages/f27/kfind/po/sr/kfind.po | 
- | [sv]({{< ref "/f27/language/sv.md" >}}) | 505 | 505 | 100.0 | /mnt/stockage/packages/f27/kfind/po/sv/kfind.po | 
- | [tr]({{< ref "/f27/language/tr.md" >}}) | 505 | 505 | 100.0 | /mnt/stockage/packages/f27/kfind/po/tr/kfind.po | 
- | [uk]({{< ref "/f27/language/uk.md" >}}) | 505 | 505 | 100.0 | /mnt/stockage/packages/f27/kfind/po/uk/kfind.po | 
- | [zh_Hans]({{< ref "/f27/language/zh_Hans.md" >}}) | 505 | 505 | 100.0 | /mnt/stockage/packages/f27/kfind/po/zh_CN/kfind.po | 
- | [zh_Hant]({{< ref "/f27/language/zh_Hant.md" >}}) | 505 | 505 | 100.0 | /mnt/stockage/packages/f27/kfind/po/zh_TW/kfind.po | 
- | [et]({{< ref "/f27/language/et.md" >}}) | 500 | 505 | 99.0 | /mnt/stockage/packages/f27/kfind/po/et/kfind.po | 
- | [he]({{< ref "/f27/language/he.md" >}}) | 500 | 505 | 99.0 | /mnt/stockage/packages/f27/kfind/po/he/kfind.po | 
- | [hu]({{< ref "/f27/language/hu.md" >}}) | 500 | 505 | 99.0 | /mnt/stockage/packages/f27/kfind/po/hu/kfind.po | 
- | [is]({{< ref "/f27/language/is.md" >}}) | 500 | 505 | 99.0 | /mnt/stockage/packages/f27/kfind/po/is/kfind.po | 
- | [ru]({{< ref "/f27/language/ru.md" >}}) | 500 | 505 | 99.0 | /mnt/stockage/packages/f27/kfind/po/ru/kfind.po | 
- | [nb_NO]({{< ref "/f27/language/nb_NO.md" >}}) | 498 | 505 | 98.6 | /mnt/stockage/packages/f27/kfind/po/nb/kfind.po | 
- | [bg]({{< ref "/f27/language/bg.md" >}}) | 496 | 505 | 98.2 | /mnt/stockage/packages/f27/kfind/po/bg/kfind.po | 
- | [bs]({{< ref "/f27/language/bs.md" >}}) | 496 | 505 | 98.2 | /mnt/stockage/packages/f27/kfind/po/bs/kfind.po | 
- | [eu]({{< ref "/f27/language/eu.md" >}}) | 496 | 505 | 98.2 | /mnt/stockage/packages/f27/kfind/po/eu/kfind.po | 
- | [ga]({{< ref "/f27/language/ga.md" >}}) | 496 | 505 | 98.2 | /mnt/stockage/packages/f27/kfind/po/ga/kfind.po | 
- | [id]({{< ref "/f27/language/id.md" >}}) | 496 | 505 | 98.2 | /mnt/stockage/packages/f27/kfind/po/id/kfind.po | 
- | [kk]({{< ref "/f27/language/kk.md" >}}) | 496 | 505 | 98.2 | /mnt/stockage/packages/f27/kfind/po/kk/kfind.po | 
- | [km]({{< ref "/f27/language/km.md" >}}) | 496 | 505 | 98.2 | /mnt/stockage/packages/f27/kfind/po/km/kfind.po | 
- | [nds]({{< ref "/f27/language/nds.md" >}}) | 496 | 505 | 98.2 | /mnt/stockage/packages/f27/kfind/po/nds/kfind.po | 
- | [ro]({{< ref "/f27/language/ro.md" >}}) | 496 | 505 | 98.2 | /mnt/stockage/packages/f27/kfind/po/ro/kfind.po | 
- | [ja]({{< ref "/f27/language/ja.md" >}}) | 495 | 505 | 98.0 | /mnt/stockage/packages/f27/kfind/po/ja/kfind.po | 
- | [lv]({{< ref "/f27/language/lv.md" >}}) | 495 | 505 | 98.0 | /mnt/stockage/packages/f27/kfind/po/lv/kfind.po | 
- | [ar]({{< ref "/f27/language/ar.md" >}}) | 492 | 505 | 97.4 | /mnt/stockage/packages/f27/kfind/po/ar/kfind.po | 
- | [hr]({{< ref "/f27/language/hr.md" >}}) | 486 | 505 | 96.2 | /mnt/stockage/packages/f27/kfind/po/hr/kfind.po | 
- | [eo]({{< ref "/f27/language/eo.md" >}}) | 401 | 505 | 79.4 | /mnt/stockage/packages/f27/kfind/po/eo/kfind.po | 
- | [fa]({{< ref "/f27/language/fa.md" >}}) | 382 | 505 | 75.6 | /mnt/stockage/packages/f27/kfind/po/fa/kfind.po | 
- | [mr]({{< ref "/f27/language/mr.md" >}}) | 279 | 505 | 55.2 | /mnt/stockage/packages/f27/kfind/po/mr/kfind.po | 
- | [wa]({{< ref "/f27/language/wa.md" >}}) | 264 | 505 | 52.3 | /mnt/stockage/packages/f27/kfind/po/wa/kfind.po | 
- | [pa]({{< ref "/f27/language/pa.md" >}}) | 257 | 505 | 50.9 | /mnt/stockage/packages/f27/kfind/po/pa/kfind.po | 
- | [ug]({{< ref "/f27/language/ug.md" >}}) | 257 | 505 | 50.9 | /mnt/stockage/packages/f27/kfind/po/ug/kfind.po | 
- | [hi]({{< ref "/f27/language/hi.md" >}}) | 234 | 505 | 46.3 | /mnt/stockage/packages/f27/kfind/po/hi/kfind.po | 
- | [ast]({{< ref "/f27/language/ast.md" >}}) | 4 | 505 | 0.8 | /mnt/stockage/packages/f27/kfind/po/ast/kfind.po | 
+ | [ca](/f27/language/ca) | 505 | 505 | 100.0 | /mnt/stockage/packages/f27/kfind/po/ca/kfind.po | 
+ | [ca@valencia](/f27/language/ca@valencia) | 505 | 505 | 100.0 | /mnt/stockage/packages/f27/kfind/po/ca@valencia/kfind.po | 
+ | [cs](/f27/language/cs) | 505 | 505 | 100.0 | /mnt/stockage/packages/f27/kfind/po/cs/kfind.po | 
+ | [da](/f27/language/da) | 505 | 505 | 100.0 | /mnt/stockage/packages/f27/kfind/po/da/kfind.po | 
+ | [de](/f27/language/de) | 505 | 505 | 100.0 | /mnt/stockage/packages/f27/kfind/po/de/kfind.po | 
+ | [el](/f27/language/el) | 505 | 505 | 100.0 | /mnt/stockage/packages/f27/kfind/po/el/kfind.po | 
+ | [en_GB](/f27/language/en_GB) | 505 | 505 | 100.0 | /mnt/stockage/packages/f27/kfind/po/en_GB/kfind.po | 
+ | [es](/f27/language/es) | 505 | 505 | 100.0 | /mnt/stockage/packages/f27/kfind/po/es/kfind.po | 
+ | [fi](/f27/language/fi) | 505 | 505 | 100.0 | /mnt/stockage/packages/f27/kfind/po/fi/kfind.po | 
+ | [fr](/f27/language/fr) | 505 | 505 | 100.0 | /mnt/stockage/packages/f27/kfind/po/fr/kfind.po | 
+ | [gl](/f27/language/gl) | 505 | 505 | 100.0 | /mnt/stockage/packages/f27/kfind/po/gl/kfind.po | 
+ | [ia](/f27/language/ia) | 505 | 505 | 100.0 | /mnt/stockage/packages/f27/kfind/po/ia/kfind.po | 
+ | [it](/f27/language/it) | 505 | 505 | 100.0 | /mnt/stockage/packages/f27/kfind/po/it/kfind.po | 
+ | [ko](/f27/language/ko) | 505 | 505 | 100.0 | /mnt/stockage/packages/f27/kfind/po/ko/kfind.po | 
+ | [lt](/f27/language/lt) | 505 | 505 | 100.0 | /mnt/stockage/packages/f27/kfind/po/lt/kfind.po | 
+ | [nl](/f27/language/nl) | 505 | 505 | 100.0 | /mnt/stockage/packages/f27/kfind/po/nl/kfind.po | 
+ | [nn](/f27/language/nn) | 505 | 505 | 100.0 | /mnt/stockage/packages/f27/kfind/po/nn/kfind.po | 
+ | [pl](/f27/language/pl) | 505 | 505 | 100.0 | /mnt/stockage/packages/f27/kfind/po/pl/kfind.po | 
+ | [pt](/f27/language/pt) | 505 | 505 | 100.0 | /mnt/stockage/packages/f27/kfind/po/pt/kfind.po | 
+ | [pt_BR](/f27/language/pt_BR) | 505 | 505 | 100.0 | /mnt/stockage/packages/f27/kfind/po/pt_BR/kfind.po | 
+ | [sk](/f27/language/sk) | 505 | 505 | 100.0 | /mnt/stockage/packages/f27/kfind/po/sk/kfind.po | 
+ | [sl](/f27/language/sl) | 505 | 505 | 100.0 | /mnt/stockage/packages/f27/kfind/po/sl/kfind.po | 
+ | [sr](/f27/language/sr) | 505 | 505 | 100.0 | /mnt/stockage/packages/f27/kfind/po/sr/kfind.po | 
+ | [sv](/f27/language/sv) | 505 | 505 | 100.0 | /mnt/stockage/packages/f27/kfind/po/sv/kfind.po | 
+ | [tr](/f27/language/tr) | 505 | 505 | 100.0 | /mnt/stockage/packages/f27/kfind/po/tr/kfind.po | 
+ | [uk](/f27/language/uk) | 505 | 505 | 100.0 | /mnt/stockage/packages/f27/kfind/po/uk/kfind.po | 
+ | [zh_Hans](/f27/language/zh_Hans) | 505 | 505 | 100.0 | /mnt/stockage/packages/f27/kfind/po/zh_CN/kfind.po | 
+ | [zh_Hant](/f27/language/zh_Hant) | 505 | 505 | 100.0 | /mnt/stockage/packages/f27/kfind/po/zh_TW/kfind.po | 
+ | [et](/f27/language/et) | 500 | 505 | 99.0 | /mnt/stockage/packages/f27/kfind/po/et/kfind.po | 
+ | [he](/f27/language/he) | 500 | 505 | 99.0 | /mnt/stockage/packages/f27/kfind/po/he/kfind.po | 
+ | [hu](/f27/language/hu) | 500 | 505 | 99.0 | /mnt/stockage/packages/f27/kfind/po/hu/kfind.po | 
+ | [is](/f27/language/is) | 500 | 505 | 99.0 | /mnt/stockage/packages/f27/kfind/po/is/kfind.po | 
+ | [ru](/f27/language/ru) | 500 | 505 | 99.0 | /mnt/stockage/packages/f27/kfind/po/ru/kfind.po | 
+ | [nb_NO](/f27/language/nb_NO) | 498 | 505 | 98.6 | /mnt/stockage/packages/f27/kfind/po/nb/kfind.po | 
+ | [bg](/f27/language/bg) | 496 | 505 | 98.2 | /mnt/stockage/packages/f27/kfind/po/bg/kfind.po | 
+ | [bs](/f27/language/bs) | 496 | 505 | 98.2 | /mnt/stockage/packages/f27/kfind/po/bs/kfind.po | 
+ | [eu](/f27/language/eu) | 496 | 505 | 98.2 | /mnt/stockage/packages/f27/kfind/po/eu/kfind.po | 
+ | [ga](/f27/language/ga) | 496 | 505 | 98.2 | /mnt/stockage/packages/f27/kfind/po/ga/kfind.po | 
+ | [id](/f27/language/id) | 496 | 505 | 98.2 | /mnt/stockage/packages/f27/kfind/po/id/kfind.po | 
+ | [kk](/f27/language/kk) | 496 | 505 | 98.2 | /mnt/stockage/packages/f27/kfind/po/kk/kfind.po | 
+ | [km](/f27/language/km) | 496 | 505 | 98.2 | /mnt/stockage/packages/f27/kfind/po/km/kfind.po | 
+ | [nds](/f27/language/nds) | 496 | 505 | 98.2 | /mnt/stockage/packages/f27/kfind/po/nds/kfind.po | 
+ | [ro](/f27/language/ro) | 496 | 505 | 98.2 | /mnt/stockage/packages/f27/kfind/po/ro/kfind.po | 
+ | [ja](/f27/language/ja) | 495 | 505 | 98.0 | /mnt/stockage/packages/f27/kfind/po/ja/kfind.po | 
+ | [lv](/f27/language/lv) | 495 | 505 | 98.0 | /mnt/stockage/packages/f27/kfind/po/lv/kfind.po | 
+ | [ar](/f27/language/ar) | 492 | 505 | 97.4 | /mnt/stockage/packages/f27/kfind/po/ar/kfind.po | 
+ | [hr](/f27/language/hr) | 486 | 505 | 96.2 | /mnt/stockage/packages/f27/kfind/po/hr/kfind.po | 
+ | [eo](/f27/language/eo) | 401 | 505 | 79.4 | /mnt/stockage/packages/f27/kfind/po/eo/kfind.po | 
+ | [fa](/f27/language/fa) | 382 | 505 | 75.6 | /mnt/stockage/packages/f27/kfind/po/fa/kfind.po | 
+ | [mr](/f27/language/mr) | 279 | 505 | 55.2 | /mnt/stockage/packages/f27/kfind/po/mr/kfind.po | 
+ | [wa](/f27/language/wa) | 264 | 505 | 52.3 | /mnt/stockage/packages/f27/kfind/po/wa/kfind.po | 
+ | [pa](/f27/language/pa) | 257 | 505 | 50.9 | /mnt/stockage/packages/f27/kfind/po/pa/kfind.po | 
+ | [ug](/f27/language/ug) | 257 | 505 | 50.9 | /mnt/stockage/packages/f27/kfind/po/ug/kfind.po | 
+ | [hi](/f27/language/hi) | 234 | 505 | 46.3 | /mnt/stockage/packages/f27/kfind/po/hi/kfind.po | 
+ | [ast](/f27/language/ast) | 4 | 505 | 0.8 | /mnt/stockage/packages/f27/kfind/po/ast/kfind.po | 
 {.sortable}
 
 

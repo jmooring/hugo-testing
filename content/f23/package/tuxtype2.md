@@ -18,40 +18,40 @@ The package tuxtype2 (version 1.8.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ast]({{< ref "/f23/language/ast.md" >}}) | 80 | 80 | 100.0 | /mnt/stockage/packages/f23/tuxtype2/po/ast.po | 
- | [en_GB]({{< ref "/f23/language/en_GB.md" >}}) | 79 | 80 | 98.8 | /mnt/stockage/packages/f23/tuxtype2/po/en_GB.po | 
- | [fi]({{< ref "/f23/language/fi.md" >}}) | 79 | 80 | 98.8 | /mnt/stockage/packages/f23/tuxtype2/po/fi.po | 
- | [pt]({{< ref "/f23/language/pt.md" >}}) | 79 | 80 | 98.8 | /mnt/stockage/packages/f23/tuxtype2/po/pt.po | 
- | [error]({{< ref "/f23/language/error.md" >}}) | 231 | 240 | 96.2 | /mnt/stockage/packages/f23/tuxtype2/po/en@boldquot.po/mnt/stockage/packages/f23/tuxtype2/po/en@quot.po/mnt/stockage/packages/f23/tuxtype2/po/zh_N.po | 
- | [fr]({{< ref "/f23/language/fr.md" >}}) | 73 | 80 | 91.2 | /mnt/stockage/packages/f23/tuxtype2/po/fr.po | 
- | [as]({{< ref "/f23/language/as.md" >}}) | 71 | 80 | 88.8 | /mnt/stockage/packages/f23/tuxtype2/po/as.po | 
- | [cs]({{< ref "/f23/language/cs.md" >}}) | 71 | 80 | 88.8 | /mnt/stockage/packages/f23/tuxtype2/po/cs.po | 
- | [el]({{< ref "/f23/language/el.md" >}}) | 71 | 80 | 88.8 | /mnt/stockage/packages/f23/tuxtype2/po/el.po | 
- | [gu]({{< ref "/f23/language/gu.md" >}}) | 71 | 80 | 88.8 | /mnt/stockage/packages/f23/tuxtype2/po/gu.po | 
- | [hi]({{< ref "/f23/language/hi.md" >}}) | 71 | 80 | 88.8 | /mnt/stockage/packages/f23/tuxtype2/po/hi.po | 
- | [kn]({{< ref "/f23/language/kn.md" >}}) | 71 | 80 | 88.8 | /mnt/stockage/packages/f23/tuxtype2/po/kn.po | 
- | [lt]({{< ref "/f23/language/lt.md" >}}) | 71 | 80 | 88.8 | /mnt/stockage/packages/f23/tuxtype2/po/lt.po | 
- | [ml]({{< ref "/f23/language/ml.md" >}}) | 71 | 80 | 88.8 | /mnt/stockage/packages/f23/tuxtype2/po/ml.po | 
- | [nb_NO]({{< ref "/f23/language/nb_NO.md" >}}) | 71 | 80 | 88.8 | /mnt/stockage/packages/f23/tuxtype2/po/nb.po | 
- | [ne]({{< ref "/f23/language/ne.md" >}}) | 71 | 80 | 88.8 | /mnt/stockage/packages/f23/tuxtype2/po/ne.po | 
- | [nn]({{< ref "/f23/language/nn.md" >}}) | 71 | 80 | 88.8 | /mnt/stockage/packages/f23/tuxtype2/po/nn.po | 
- | [or]({{< ref "/f23/language/or.md" >}}) | 71 | 80 | 88.8 | /mnt/stockage/packages/f23/tuxtype2/po/or.po | 
- | [sv]({{< ref "/f23/language/sv.md" >}}) | 71 | 80 | 88.8 | /mnt/stockage/packages/f23/tuxtype2/po/sv.po | 
- | [ta]({{< ref "/f23/language/ta.md" >}}) | 71 | 80 | 88.8 | /mnt/stockage/packages/f23/tuxtype2/po/ta.po | 
- | [te]({{< ref "/f23/language/te.md" >}}) | 71 | 80 | 88.8 | /mnt/stockage/packages/f23/tuxtype2/po/te.po | 
- | [tr]({{< ref "/f23/language/tr.md" >}}) | 71 | 80 | 88.8 | /mnt/stockage/packages/f23/tuxtype2/po/tr.po | 
- | [wo]({{< ref "/f23/language/wo.md" >}}) | 71 | 80 | 88.8 | /mnt/stockage/packages/f23/tuxtype2/po/wo.po | 
- | [da]({{< ref "/f23/language/da.md" >}}) | 69 | 80 | 86.2 | /mnt/stockage/packages/f23/tuxtype2/po/da.po | 
- | [de]({{< ref "/f23/language/de.md" >}}) | 69 | 80 | 86.2 | /mnt/stockage/packages/f23/tuxtype2/po/de.po | 
- | [eu]({{< ref "/f23/language/eu.md" >}}) | 69 | 80 | 86.2 | /mnt/stockage/packages/f23/tuxtype2/po/eu.po | 
- | [it]({{< ref "/f23/language/it.md" >}}) | 69 | 80 | 86.2 | /mnt/stockage/packages/f23/tuxtype2/po/it.po | 
- | [ru]({{< ref "/f23/language/ru.md" >}}) | 69 | 80 | 86.2 | /mnt/stockage/packages/f23/tuxtype2/po/ru.po | 
- | [es]({{< ref "/f23/language/es.md" >}}) | 63 | 80 | 78.8 | /mnt/stockage/packages/f23/tuxtype2/po/es.po | 
- | [sw]({{< ref "/f23/language/sw.md" >}}) | 63 | 80 | 78.8 | /mnt/stockage/packages/f23/tuxtype2/po/sw.po | 
- | [ar]({{< ref "/f23/language/ar.md" >}}) | 57 | 80 | 71.2 | /mnt/stockage/packages/f23/tuxtype2/po/ar.po | 
- | [ca]({{< ref "/f23/language/ca.md" >}}) | 49 | 80 | 61.3 | /mnt/stockage/packages/f23/tuxtype2/po/ca.po | 
- | [nl]({{< ref "/f23/language/nl.md" >}}) | 49 | 80 | 61.3 | /mnt/stockage/packages/f23/tuxtype2/po/nl.po | 
- | [ja]({{< ref "/f23/language/ja.md" >}}) | 0 | 80 | 0.0 | /mnt/stockage/packages/f23/tuxtype2/po/ja.po | 
+ | [ast](/f23/language/ast) | 80 | 80 | 100.0 | /mnt/stockage/packages/f23/tuxtype2/po/ast.po | 
+ | [en_GB](/f23/language/en_GB) | 79 | 80 | 98.8 | /mnt/stockage/packages/f23/tuxtype2/po/en_GB.po | 
+ | [fi](/f23/language/fi) | 79 | 80 | 98.8 | /mnt/stockage/packages/f23/tuxtype2/po/fi.po | 
+ | [pt](/f23/language/pt) | 79 | 80 | 98.8 | /mnt/stockage/packages/f23/tuxtype2/po/pt.po | 
+ | [error](/f23/language/error) | 231 | 240 | 96.2 | /mnt/stockage/packages/f23/tuxtype2/po/en@boldquot.po/mnt/stockage/packages/f23/tuxtype2/po/en@quot.po/mnt/stockage/packages/f23/tuxtype2/po/zh_N.po | 
+ | [fr](/f23/language/fr) | 73 | 80 | 91.2 | /mnt/stockage/packages/f23/tuxtype2/po/fr.po | 
+ | [as](/f23/language/as) | 71 | 80 | 88.8 | /mnt/stockage/packages/f23/tuxtype2/po/as.po | 
+ | [cs](/f23/language/cs) | 71 | 80 | 88.8 | /mnt/stockage/packages/f23/tuxtype2/po/cs.po | 
+ | [el](/f23/language/el) | 71 | 80 | 88.8 | /mnt/stockage/packages/f23/tuxtype2/po/el.po | 
+ | [gu](/f23/language/gu) | 71 | 80 | 88.8 | /mnt/stockage/packages/f23/tuxtype2/po/gu.po | 
+ | [hi](/f23/language/hi) | 71 | 80 | 88.8 | /mnt/stockage/packages/f23/tuxtype2/po/hi.po | 
+ | [kn](/f23/language/kn) | 71 | 80 | 88.8 | /mnt/stockage/packages/f23/tuxtype2/po/kn.po | 
+ | [lt](/f23/language/lt) | 71 | 80 | 88.8 | /mnt/stockage/packages/f23/tuxtype2/po/lt.po | 
+ | [ml](/f23/language/ml) | 71 | 80 | 88.8 | /mnt/stockage/packages/f23/tuxtype2/po/ml.po | 
+ | [nb_NO](/f23/language/nb_NO) | 71 | 80 | 88.8 | /mnt/stockage/packages/f23/tuxtype2/po/nb.po | 
+ | [ne](/f23/language/ne) | 71 | 80 | 88.8 | /mnt/stockage/packages/f23/tuxtype2/po/ne.po | 
+ | [nn](/f23/language/nn) | 71 | 80 | 88.8 | /mnt/stockage/packages/f23/tuxtype2/po/nn.po | 
+ | [or](/f23/language/or) | 71 | 80 | 88.8 | /mnt/stockage/packages/f23/tuxtype2/po/or.po | 
+ | [sv](/f23/language/sv) | 71 | 80 | 88.8 | /mnt/stockage/packages/f23/tuxtype2/po/sv.po | 
+ | [ta](/f23/language/ta) | 71 | 80 | 88.8 | /mnt/stockage/packages/f23/tuxtype2/po/ta.po | 
+ | [te](/f23/language/te) | 71 | 80 | 88.8 | /mnt/stockage/packages/f23/tuxtype2/po/te.po | 
+ | [tr](/f23/language/tr) | 71 | 80 | 88.8 | /mnt/stockage/packages/f23/tuxtype2/po/tr.po | 
+ | [wo](/f23/language/wo) | 71 | 80 | 88.8 | /mnt/stockage/packages/f23/tuxtype2/po/wo.po | 
+ | [da](/f23/language/da) | 69 | 80 | 86.2 | /mnt/stockage/packages/f23/tuxtype2/po/da.po | 
+ | [de](/f23/language/de) | 69 | 80 | 86.2 | /mnt/stockage/packages/f23/tuxtype2/po/de.po | 
+ | [eu](/f23/language/eu) | 69 | 80 | 86.2 | /mnt/stockage/packages/f23/tuxtype2/po/eu.po | 
+ | [it](/f23/language/it) | 69 | 80 | 86.2 | /mnt/stockage/packages/f23/tuxtype2/po/it.po | 
+ | [ru](/f23/language/ru) | 69 | 80 | 86.2 | /mnt/stockage/packages/f23/tuxtype2/po/ru.po | 
+ | [es](/f23/language/es) | 63 | 80 | 78.8 | /mnt/stockage/packages/f23/tuxtype2/po/es.po | 
+ | [sw](/f23/language/sw) | 63 | 80 | 78.8 | /mnt/stockage/packages/f23/tuxtype2/po/sw.po | 
+ | [ar](/f23/language/ar) | 57 | 80 | 71.2 | /mnt/stockage/packages/f23/tuxtype2/po/ar.po | 
+ | [ca](/f23/language/ca) | 49 | 80 | 61.3 | /mnt/stockage/packages/f23/tuxtype2/po/ca.po | 
+ | [nl](/f23/language/nl) | 49 | 80 | 61.3 | /mnt/stockage/packages/f23/tuxtype2/po/nl.po | 
+ | [ja](/f23/language/ja) | 0 | 80 | 0.0 | /mnt/stockage/packages/f23/tuxtype2/po/ja.po | 
 {.sortable}
 
 

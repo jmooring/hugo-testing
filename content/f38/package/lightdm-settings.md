@@ -18,80 +18,80 @@ The package lightdm-settings (version 2.0.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [be]({{< ref "/f38/language/be.md" >}}) | 355 | 355 | 100.0 | /mnt/stockage/packages/f38/lightdm-settings/po/lightdm-settings-be.po | 
- | [ca]({{< ref "/f38/language/ca.md" >}}) | 355 | 355 | 100.0 | /mnt/stockage/packages/f38/lightdm-settings/po/lightdm-settings-ca.po | 
- | [cs]({{< ref "/f38/language/cs.md" >}}) | 355 | 355 | 100.0 | /mnt/stockage/packages/f38/lightdm-settings/po/lightdm-settings-cs.po | 
- | [cy]({{< ref "/f38/language/cy.md" >}}) | 355 | 355 | 100.0 | /mnt/stockage/packages/f38/lightdm-settings/po/lightdm-settings-cy.po | 
- | [da]({{< ref "/f38/language/da.md" >}}) | 355 | 355 | 100.0 | /mnt/stockage/packages/f38/lightdm-settings/po/lightdm-settings-da.po | 
- | [de]({{< ref "/f38/language/de.md" >}}) | 355 | 355 | 100.0 | /mnt/stockage/packages/f38/lightdm-settings/po/lightdm-settings-de.po | 
- | [el]({{< ref "/f38/language/el.md" >}}) | 355 | 355 | 100.0 | /mnt/stockage/packages/f38/lightdm-settings/po/lightdm-settings-el.po | 
- | [eo]({{< ref "/f38/language/eo.md" >}}) | 355 | 355 | 100.0 | /mnt/stockage/packages/f38/lightdm-settings/po/lightdm-settings-eo.po | 
- | [es]({{< ref "/f38/language/es.md" >}}) | 355 | 355 | 100.0 | /mnt/stockage/packages/f38/lightdm-settings/po/lightdm-settings-es.po | 
- | [et]({{< ref "/f38/language/et.md" >}}) | 355 | 355 | 100.0 | /mnt/stockage/packages/f38/lightdm-settings/po/lightdm-settings-et.po | 
- | [fi]({{< ref "/f38/language/fi.md" >}}) | 355 | 355 | 100.0 | /mnt/stockage/packages/f38/lightdm-settings/po/lightdm-settings-fi.po | 
- | [fr]({{< ref "/f38/language/fr.md" >}}) | 355 | 355 | 100.0 | /mnt/stockage/packages/f38/lightdm-settings/po/lightdm-settings-fr.po | 
- | [fr_CA]({{< ref "/f38/language/fr_CA.md" >}}) | 355 | 355 | 100.0 | /mnt/stockage/packages/f38/lightdm-settings/po/lightdm-settings-fr_CA.po | 
- | [he]({{< ref "/f38/language/he.md" >}}) | 355 | 355 | 100.0 | /mnt/stockage/packages/f38/lightdm-settings/po/lightdm-settings-he.po | 
- | [hu]({{< ref "/f38/language/hu.md" >}}) | 355 | 355 | 100.0 | /mnt/stockage/packages/f38/lightdm-settings/po/lightdm-settings-hu.po | 
- | [ia]({{< ref "/f38/language/ia.md" >}}) | 355 | 355 | 100.0 | /mnt/stockage/packages/f38/lightdm-settings/po/lightdm-settings-ia.po | 
- | [is]({{< ref "/f38/language/is.md" >}}) | 355 | 355 | 100.0 | /mnt/stockage/packages/f38/lightdm-settings/po/lightdm-settings-is.po | 
- | [it]({{< ref "/f38/language/it.md" >}}) | 355 | 355 | 100.0 | /mnt/stockage/packages/f38/lightdm-settings/po/lightdm-settings-it.po | 
- | [ja]({{< ref "/f38/language/ja.md" >}}) | 355 | 355 | 100.0 | /mnt/stockage/packages/f38/lightdm-settings/po/lightdm-settings-ja.po | 
- | [ko]({{< ref "/f38/language/ko.md" >}}) | 355 | 355 | 100.0 | /mnt/stockage/packages/f38/lightdm-settings/po/lightdm-settings-ko.po | 
- | [nl]({{< ref "/f38/language/nl.md" >}}) | 355 | 355 | 100.0 | /mnt/stockage/packages/f38/lightdm-settings/po/lightdm-settings-nl.po | 
- | [oc]({{< ref "/f38/language/oc.md" >}}) | 355 | 355 | 100.0 | /mnt/stockage/packages/f38/lightdm-settings/po/lightdm-settings-oc.po | 
- | [pl]({{< ref "/f38/language/pl.md" >}}) | 355 | 355 | 100.0 | /mnt/stockage/packages/f38/lightdm-settings/po/lightdm-settings-pl.po | 
- | [pt]({{< ref "/f38/language/pt.md" >}}) | 355 | 355 | 100.0 | /mnt/stockage/packages/f38/lightdm-settings/po/lightdm-settings-pt.po | 
- | [ro]({{< ref "/f38/language/ro.md" >}}) | 355 | 355 | 100.0 | /mnt/stockage/packages/f38/lightdm-settings/po/lightdm-settings-ro.po | 
- | [ru]({{< ref "/f38/language/ru.md" >}}) | 355 | 355 | 100.0 | /mnt/stockage/packages/f38/lightdm-settings/po/lightdm-settings-ru.po | 
- | [sk]({{< ref "/f38/language/sk.md" >}}) | 355 | 355 | 100.0 | /mnt/stockage/packages/f38/lightdm-settings/po/lightdm-settings-sk.po | 
- | [sl]({{< ref "/f38/language/sl.md" >}}) | 355 | 355 | 100.0 | /mnt/stockage/packages/f38/lightdm-settings/po/lightdm-settings-sl.po | 
- | [sv]({{< ref "/f38/language/sv.md" >}}) | 355 | 355 | 100.0 | /mnt/stockage/packages/f38/lightdm-settings/po/lightdm-settings-sv.po | 
- | [tr]({{< ref "/f38/language/tr.md" >}}) | 355 | 355 | 100.0 | /mnt/stockage/packages/f38/lightdm-settings/po/lightdm-settings-tr.po | 
- | [uk]({{< ref "/f38/language/uk.md" >}}) | 355 | 355 | 100.0 | /mnt/stockage/packages/f38/lightdm-settings/po/lightdm-settings-uk.po | 
- | [en_GB]({{< ref "/f38/language/en_GB.md" >}}) | 345 | 355 | 97.2 | /mnt/stockage/packages/f38/lightdm-settings/po/lightdm-settings-en_GB.po | 
- | [eu]({{< ref "/f38/language/eu.md" >}}) | 345 | 355 | 97.2 | /mnt/stockage/packages/f38/lightdm-settings/po/lightdm-settings-eu.po | 
- | [fa]({{< ref "/f38/language/fa.md" >}}) | 345 | 355 | 97.2 | /mnt/stockage/packages/f38/lightdm-settings/po/lightdm-settings-fa.po | 
- | [id]({{< ref "/f38/language/id.md" >}}) | 345 | 355 | 97.2 | /mnt/stockage/packages/f38/lightdm-settings/po/lightdm-settings-id.po | 
- | [ku]({{< ref "/f38/language/ku.md" >}}) | 345 | 355 | 97.2 | /mnt/stockage/packages/f38/lightdm-settings/po/lightdm-settings-ku.po | 
- | [lt]({{< ref "/f38/language/lt.md" >}}) | 345 | 355 | 97.2 | /mnt/stockage/packages/f38/lightdm-settings/po/lightdm-settings-lt.po | 
- | [pt_BR]({{< ref "/f38/language/pt_BR.md" >}}) | 345 | 355 | 97.2 | /mnt/stockage/packages/f38/lightdm-settings/po/lightdm-settings-pt_BR.po | 
- | [uz]({{< ref "/f38/language/uz.md" >}}) | 345 | 355 | 97.2 | /mnt/stockage/packages/f38/lightdm-settings/po/lightdm-settings-uz.po | 
- | [hr]({{< ref "/f38/language/hr.md" >}}) | 324 | 355 | 91.3 | /mnt/stockage/packages/f38/lightdm-settings/po/lightdm-settings-hr.po | 
- | [la]({{< ref "/f38/language/la.md" >}}) | 324 | 355 | 91.3 | /mnt/stockage/packages/f38/lightdm-settings/po/lightdm-settings-la.po | 
- | [sq]({{< ref "/f38/language/sq.md" >}}) | 324 | 355 | 91.3 | /mnt/stockage/packages/f38/lightdm-settings/po/lightdm-settings-sq.po | 
- | [sr]({{< ref "/f38/language/sr.md" >}}) | 324 | 355 | 91.3 | /mnt/stockage/packages/f38/lightdm-settings/po/lightdm-settings-sr.po | 
- | [bg]({{< ref "/f38/language/bg.md" >}}) | 319 | 355 | 89.9 | /mnt/stockage/packages/f38/lightdm-settings/po/lightdm-settings-bg.po | 
- | [bn]({{< ref "/f38/language/bn.md" >}}) | 319 | 355 | 89.9 | /mnt/stockage/packages/f38/lightdm-settings/po/lightdm-settings-bn.po | 
- | [en_CA]({{< ref "/f38/language/en_CA.md" >}}) | 319 | 355 | 89.9 | /mnt/stockage/packages/f38/lightdm-settings/po/lightdm-settings-en_CA.po | 
- | [hi]({{< ref "/f38/language/hi.md" >}}) | 319 | 355 | 89.9 | /mnt/stockage/packages/f38/lightdm-settings/po/lightdm-settings-hi.po | 
- | [kab]({{< ref "/f38/language/kab.md" >}}) | 319 | 355 | 89.9 | /mnt/stockage/packages/f38/lightdm-settings/po/lightdm-settings-kab.po | 
- | [sr_Latn]({{< ref "/f38/language/sr_Latn.md" >}}) | 319 | 355 | 89.9 | /mnt/stockage/packages/f38/lightdm-settings/po/lightdm-settings-sr@latin.po | 
- | [zh_Hant]({{< ref "/f38/language/zh_Hant.md" >}}) | 319 | 355 | 89.9 | /mnt/stockage/packages/f38/lightdm-settings/po/lightdm-settings-zh_TW.po | 
- | [vi]({{< ref "/f38/language/vi.md" >}}) | 317 | 355 | 89.3 | /mnt/stockage/packages/f38/lightdm-settings/po/lightdm-settings-vi.po | 
- | [ar_EG]({{< ref "/f38/language/ar_EG.md" >}}) | 308 | 355 | 86.8 | /mnt/stockage/packages/f38/lightdm-settings/po/lightdm-settings-ar.po | 
- | [zh_Hant_HK]({{< ref "/f38/language/zh_Hant_HK.md" >}}) | 308 | 355 | 86.8 | /mnt/stockage/packages/f38/lightdm-settings/po/lightdm-settings-zh_HK.po | 
- | [zh_Hans]({{< ref "/f38/language/zh_Hans.md" >}}) | 303 | 355 | 85.4 | /mnt/stockage/packages/f38/lightdm-settings/po/lightdm-settings-zh_CN.po | 
- | [ga]({{< ref "/f38/language/ga.md" >}}) | 299 | 355 | 84.2 | /mnt/stockage/packages/f38/lightdm-settings/po/lightdm-settings-ga.po | 
- | [am]({{< ref "/f38/language/am.md" >}}) | 292 | 355 | 82.3 | /mnt/stockage/packages/f38/lightdm-settings/po/lightdm-settings-am.po | 
- | [ie]({{< ref "/f38/language/ie.md" >}}) | 272 | 355 | 76.6 | /mnt/stockage/packages/f38/lightdm-settings/po/lightdm-settings-ie.po | 
- | [nb_NO]({{< ref "/f38/language/nb_NO.md" >}}) | 270 | 355 | 76.1 | /mnt/stockage/packages/f38/lightdm-settings/po/lightdm-settings-nb.po | 
- | [th]({{< ref "/f38/language/th.md" >}}) | 270 | 355 | 76.1 | /mnt/stockage/packages/f38/lightdm-settings/po/lightdm-settings-th.po | 
- | [gl]({{< ref "/f38/language/gl.md" >}}) | 80 | 355 | 22.5 | /mnt/stockage/packages/f38/lightdm-settings/po/lightdm-settings-gl.po | 
- | [sc]({{< ref "/f38/language/sc.md" >}}) | 72 | 355 | 20.3 | /mnt/stockage/packages/f38/lightdm-settings/po/lightdm-settings-sc.po | 
- | [ka]({{< ref "/f38/language/ka.md" >}}) | 71 | 355 | 20.0 | /mnt/stockage/packages/f38/lightdm-settings/po/lightdm-settings-ka.po | 
- | [ne]({{< ref "/f38/language/ne.md" >}}) | 45 | 355 | 12.7 | /mnt/stockage/packages/f38/lightdm-settings/po/lightdm-settings-ne.po | 
- | [zgh]({{< ref "/f38/language/zgh.md" >}}) | 40 | 355 | 11.3 | /mnt/stockage/packages/f38/lightdm-settings/po/lightdm-settings-zgh.po | 
- | [mr]({{< ref "/f38/language/mr.md" >}}) | 39 | 355 | 11.0 | /mnt/stockage/packages/f38/lightdm-settings/po/lightdm-settings-mr.po | 
- | [nap]({{< ref "/f38/language/nap.md" >}}) | 36 | 355 | 10.1 | /mnt/stockage/packages/f38/lightdm-settings/po/lightdm-settings-nap.po | 
- | [mai]({{< ref "/f38/language/mai.md" >}}) | 34 | 355 | 9.6 | /mnt/stockage/packages/f38/lightdm-settings/po/lightdm-settings-mai.po | 
- | [ber]({{< ref "/f38/language/ber.md" >}}) | 16 | 355 | 4.5 | /mnt/stockage/packages/f38/lightdm-settings/po/lightdm-settings-ber.po | 
- | [ta]({{< ref "/f38/language/ta.md" >}}) | 8 | 355 | 2.3 | /mnt/stockage/packages/f38/lightdm-settings/po/lightdm-settings-ta.po | 
- | [kk]({{< ref "/f38/language/kk.md" >}}) | 7 | 355 | 2.0 | /mnt/stockage/packages/f38/lightdm-settings/po/lightdm-settings-kk.po | 
- | [ca@valencia]({{< ref "/f38/language/ca@valencia.md" >}}) | 6 | 355 | 1.7 | /mnt/stockage/packages/f38/lightdm-settings/po/lightdm-settings-ca@valencia.po | 
- | [af]({{< ref "/f38/language/af.md" >}}) | 0 | 355 | 0.0 | /mnt/stockage/packages/f38/lightdm-settings/po/lightdm-settings-af.po | 
- | [ml]({{< ref "/f38/language/ml.md" >}}) | 0 | 355 | 0.0 | /mnt/stockage/packages/f38/lightdm-settings/po/lightdm-settings-ml.po | 
- | [tg]({{< ref "/f38/language/tg.md" >}}) | 0 | 355 | 0.0 | /mnt/stockage/packages/f38/lightdm-settings/po/lightdm-settings-tg.po | 
+ | [be](/f38/language/be) | 355 | 355 | 100.0 | /mnt/stockage/packages/f38/lightdm-settings/po/lightdm-settings-be.po | 
+ | [ca](/f38/language/ca) | 355 | 355 | 100.0 | /mnt/stockage/packages/f38/lightdm-settings/po/lightdm-settings-ca.po | 
+ | [cs](/f38/language/cs) | 355 | 355 | 100.0 | /mnt/stockage/packages/f38/lightdm-settings/po/lightdm-settings-cs.po | 
+ | [cy](/f38/language/cy) | 355 | 355 | 100.0 | /mnt/stockage/packages/f38/lightdm-settings/po/lightdm-settings-cy.po | 
+ | [da](/f38/language/da) | 355 | 355 | 100.0 | /mnt/stockage/packages/f38/lightdm-settings/po/lightdm-settings-da.po | 
+ | [de](/f38/language/de) | 355 | 355 | 100.0 | /mnt/stockage/packages/f38/lightdm-settings/po/lightdm-settings-de.po | 
+ | [el](/f38/language/el) | 355 | 355 | 100.0 | /mnt/stockage/packages/f38/lightdm-settings/po/lightdm-settings-el.po | 
+ | [eo](/f38/language/eo) | 355 | 355 | 100.0 | /mnt/stockage/packages/f38/lightdm-settings/po/lightdm-settings-eo.po | 
+ | [es](/f38/language/es) | 355 | 355 | 100.0 | /mnt/stockage/packages/f38/lightdm-settings/po/lightdm-settings-es.po | 
+ | [et](/f38/language/et) | 355 | 355 | 100.0 | /mnt/stockage/packages/f38/lightdm-settings/po/lightdm-settings-et.po | 
+ | [fi](/f38/language/fi) | 355 | 355 | 100.0 | /mnt/stockage/packages/f38/lightdm-settings/po/lightdm-settings-fi.po | 
+ | [fr](/f38/language/fr) | 355 | 355 | 100.0 | /mnt/stockage/packages/f38/lightdm-settings/po/lightdm-settings-fr.po | 
+ | [fr_CA](/f38/language/fr_CA) | 355 | 355 | 100.0 | /mnt/stockage/packages/f38/lightdm-settings/po/lightdm-settings-fr_CA.po | 
+ | [he](/f38/language/he) | 355 | 355 | 100.0 | /mnt/stockage/packages/f38/lightdm-settings/po/lightdm-settings-he.po | 
+ | [hu](/f38/language/hu) | 355 | 355 | 100.0 | /mnt/stockage/packages/f38/lightdm-settings/po/lightdm-settings-hu.po | 
+ | [ia](/f38/language/ia) | 355 | 355 | 100.0 | /mnt/stockage/packages/f38/lightdm-settings/po/lightdm-settings-ia.po | 
+ | [is](/f38/language/is) | 355 | 355 | 100.0 | /mnt/stockage/packages/f38/lightdm-settings/po/lightdm-settings-is.po | 
+ | [it](/f38/language/it) | 355 | 355 | 100.0 | /mnt/stockage/packages/f38/lightdm-settings/po/lightdm-settings-it.po | 
+ | [ja](/f38/language/ja) | 355 | 355 | 100.0 | /mnt/stockage/packages/f38/lightdm-settings/po/lightdm-settings-ja.po | 
+ | [ko](/f38/language/ko) | 355 | 355 | 100.0 | /mnt/stockage/packages/f38/lightdm-settings/po/lightdm-settings-ko.po | 
+ | [nl](/f38/language/nl) | 355 | 355 | 100.0 | /mnt/stockage/packages/f38/lightdm-settings/po/lightdm-settings-nl.po | 
+ | [oc](/f38/language/oc) | 355 | 355 | 100.0 | /mnt/stockage/packages/f38/lightdm-settings/po/lightdm-settings-oc.po | 
+ | [pl](/f38/language/pl) | 355 | 355 | 100.0 | /mnt/stockage/packages/f38/lightdm-settings/po/lightdm-settings-pl.po | 
+ | [pt](/f38/language/pt) | 355 | 355 | 100.0 | /mnt/stockage/packages/f38/lightdm-settings/po/lightdm-settings-pt.po | 
+ | [ro](/f38/language/ro) | 355 | 355 | 100.0 | /mnt/stockage/packages/f38/lightdm-settings/po/lightdm-settings-ro.po | 
+ | [ru](/f38/language/ru) | 355 | 355 | 100.0 | /mnt/stockage/packages/f38/lightdm-settings/po/lightdm-settings-ru.po | 
+ | [sk](/f38/language/sk) | 355 | 355 | 100.0 | /mnt/stockage/packages/f38/lightdm-settings/po/lightdm-settings-sk.po | 
+ | [sl](/f38/language/sl) | 355 | 355 | 100.0 | /mnt/stockage/packages/f38/lightdm-settings/po/lightdm-settings-sl.po | 
+ | [sv](/f38/language/sv) | 355 | 355 | 100.0 | /mnt/stockage/packages/f38/lightdm-settings/po/lightdm-settings-sv.po | 
+ | [tr](/f38/language/tr) | 355 | 355 | 100.0 | /mnt/stockage/packages/f38/lightdm-settings/po/lightdm-settings-tr.po | 
+ | [uk](/f38/language/uk) | 355 | 355 | 100.0 | /mnt/stockage/packages/f38/lightdm-settings/po/lightdm-settings-uk.po | 
+ | [en_GB](/f38/language/en_GB) | 345 | 355 | 97.2 | /mnt/stockage/packages/f38/lightdm-settings/po/lightdm-settings-en_GB.po | 
+ | [eu](/f38/language/eu) | 345 | 355 | 97.2 | /mnt/stockage/packages/f38/lightdm-settings/po/lightdm-settings-eu.po | 
+ | [fa](/f38/language/fa) | 345 | 355 | 97.2 | /mnt/stockage/packages/f38/lightdm-settings/po/lightdm-settings-fa.po | 
+ | [id](/f38/language/id) | 345 | 355 | 97.2 | /mnt/stockage/packages/f38/lightdm-settings/po/lightdm-settings-id.po | 
+ | [ku](/f38/language/ku) | 345 | 355 | 97.2 | /mnt/stockage/packages/f38/lightdm-settings/po/lightdm-settings-ku.po | 
+ | [lt](/f38/language/lt) | 345 | 355 | 97.2 | /mnt/stockage/packages/f38/lightdm-settings/po/lightdm-settings-lt.po | 
+ | [pt_BR](/f38/language/pt_BR) | 345 | 355 | 97.2 | /mnt/stockage/packages/f38/lightdm-settings/po/lightdm-settings-pt_BR.po | 
+ | [uz](/f38/language/uz) | 345 | 355 | 97.2 | /mnt/stockage/packages/f38/lightdm-settings/po/lightdm-settings-uz.po | 
+ | [hr](/f38/language/hr) | 324 | 355 | 91.3 | /mnt/stockage/packages/f38/lightdm-settings/po/lightdm-settings-hr.po | 
+ | [la](/f38/language/la) | 324 | 355 | 91.3 | /mnt/stockage/packages/f38/lightdm-settings/po/lightdm-settings-la.po | 
+ | [sq](/f38/language/sq) | 324 | 355 | 91.3 | /mnt/stockage/packages/f38/lightdm-settings/po/lightdm-settings-sq.po | 
+ | [sr](/f38/language/sr) | 324 | 355 | 91.3 | /mnt/stockage/packages/f38/lightdm-settings/po/lightdm-settings-sr.po | 
+ | [bg](/f38/language/bg) | 319 | 355 | 89.9 | /mnt/stockage/packages/f38/lightdm-settings/po/lightdm-settings-bg.po | 
+ | [bn](/f38/language/bn) | 319 | 355 | 89.9 | /mnt/stockage/packages/f38/lightdm-settings/po/lightdm-settings-bn.po | 
+ | [en_CA](/f38/language/en_CA) | 319 | 355 | 89.9 | /mnt/stockage/packages/f38/lightdm-settings/po/lightdm-settings-en_CA.po | 
+ | [hi](/f38/language/hi) | 319 | 355 | 89.9 | /mnt/stockage/packages/f38/lightdm-settings/po/lightdm-settings-hi.po | 
+ | [kab](/f38/language/kab) | 319 | 355 | 89.9 | /mnt/stockage/packages/f38/lightdm-settings/po/lightdm-settings-kab.po | 
+ | [sr_Latn](/f38/language/sr_Latn) | 319 | 355 | 89.9 | /mnt/stockage/packages/f38/lightdm-settings/po/lightdm-settings-sr@latin.po | 
+ | [zh_Hant](/f38/language/zh_Hant) | 319 | 355 | 89.9 | /mnt/stockage/packages/f38/lightdm-settings/po/lightdm-settings-zh_TW.po | 
+ | [vi](/f38/language/vi) | 317 | 355 | 89.3 | /mnt/stockage/packages/f38/lightdm-settings/po/lightdm-settings-vi.po | 
+ | [ar_EG](/f38/language/ar_EG) | 308 | 355 | 86.8 | /mnt/stockage/packages/f38/lightdm-settings/po/lightdm-settings-ar.po | 
+ | [zh_Hant_HK](/f38/language/zh_Hant_HK) | 308 | 355 | 86.8 | /mnt/stockage/packages/f38/lightdm-settings/po/lightdm-settings-zh_HK.po | 
+ | [zh_Hans](/f38/language/zh_Hans) | 303 | 355 | 85.4 | /mnt/stockage/packages/f38/lightdm-settings/po/lightdm-settings-zh_CN.po | 
+ | [ga](/f38/language/ga) | 299 | 355 | 84.2 | /mnt/stockage/packages/f38/lightdm-settings/po/lightdm-settings-ga.po | 
+ | [am](/f38/language/am) | 292 | 355 | 82.3 | /mnt/stockage/packages/f38/lightdm-settings/po/lightdm-settings-am.po | 
+ | [ie](/f38/language/ie) | 272 | 355 | 76.6 | /mnt/stockage/packages/f38/lightdm-settings/po/lightdm-settings-ie.po | 
+ | [nb_NO](/f38/language/nb_NO) | 270 | 355 | 76.1 | /mnt/stockage/packages/f38/lightdm-settings/po/lightdm-settings-nb.po | 
+ | [th](/f38/language/th) | 270 | 355 | 76.1 | /mnt/stockage/packages/f38/lightdm-settings/po/lightdm-settings-th.po | 
+ | [gl](/f38/language/gl) | 80 | 355 | 22.5 | /mnt/stockage/packages/f38/lightdm-settings/po/lightdm-settings-gl.po | 
+ | [sc](/f38/language/sc) | 72 | 355 | 20.3 | /mnt/stockage/packages/f38/lightdm-settings/po/lightdm-settings-sc.po | 
+ | [ka](/f38/language/ka) | 71 | 355 | 20.0 | /mnt/stockage/packages/f38/lightdm-settings/po/lightdm-settings-ka.po | 
+ | [ne](/f38/language/ne) | 45 | 355 | 12.7 | /mnt/stockage/packages/f38/lightdm-settings/po/lightdm-settings-ne.po | 
+ | [zgh](/f38/language/zgh) | 40 | 355 | 11.3 | /mnt/stockage/packages/f38/lightdm-settings/po/lightdm-settings-zgh.po | 
+ | [mr](/f38/language/mr) | 39 | 355 | 11.0 | /mnt/stockage/packages/f38/lightdm-settings/po/lightdm-settings-mr.po | 
+ | [nap](/f38/language/nap) | 36 | 355 | 10.1 | /mnt/stockage/packages/f38/lightdm-settings/po/lightdm-settings-nap.po | 
+ | [mai](/f38/language/mai) | 34 | 355 | 9.6 | /mnt/stockage/packages/f38/lightdm-settings/po/lightdm-settings-mai.po | 
+ | [ber](/f38/language/ber) | 16 | 355 | 4.5 | /mnt/stockage/packages/f38/lightdm-settings/po/lightdm-settings-ber.po | 
+ | [ta](/f38/language/ta) | 8 | 355 | 2.3 | /mnt/stockage/packages/f38/lightdm-settings/po/lightdm-settings-ta.po | 
+ | [kk](/f38/language/kk) | 7 | 355 | 2.0 | /mnt/stockage/packages/f38/lightdm-settings/po/lightdm-settings-kk.po | 
+ | [ca@valencia](/f38/language/ca@valencia) | 6 | 355 | 1.7 | /mnt/stockage/packages/f38/lightdm-settings/po/lightdm-settings-ca@valencia.po | 
+ | [af](/f38/language/af) | 0 | 355 | 0.0 | /mnt/stockage/packages/f38/lightdm-settings/po/lightdm-settings-af.po | 
+ | [ml](/f38/language/ml) | 0 | 355 | 0.0 | /mnt/stockage/packages/f38/lightdm-settings/po/lightdm-settings-ml.po | 
+ | [tg](/f38/language/tg) | 0 | 355 | 0.0 | /mnt/stockage/packages/f38/lightdm-settings/po/lightdm-settings-tg.po | 
 {.sortable}
 
 

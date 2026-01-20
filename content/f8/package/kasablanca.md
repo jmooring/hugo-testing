@@ -18,8 +18,8 @@ The package kasablanca (version 0.4.0.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [pl]({{< ref "/f8/language/pl.md" >}}) | 686 | 723 | 94.9 | /mnt/stockage/packages/f8/kasablanca/po/pl.po | 
- | [de]({{< ref "/f8/language/de.md" >}}) | 650 | 728 | 89.3 | /mnt/stockage/packages/f8/kasablanca/po/de.po | 
+ | [pl](/f8/language/pl) | 686 | 723 | 94.9 | /mnt/stockage/packages/f8/kasablanca/po/pl.po | 
+ | [de](/f8/language/de) | 650 | 728 | 89.3 | /mnt/stockage/packages/f8/kasablanca/po/de.po | 
 {.sortable}
 
 

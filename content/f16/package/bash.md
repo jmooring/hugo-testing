@@ -18,34 +18,34 @@ The package bash (version 4.2.37):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [error]({{< ref "/f16/language/error.md" >}}) | 21722 | 21722 | 100.0 | /mnt/stockage/packages/f16/bash/po/en@quot.po/mnt/stockage/packages/f16/bash/po/en@boldquot.po | 
- | [cs]({{< ref "/f16/language/cs.md" >}}) | 8533 | 10861 | 78.6 | /mnt/stockage/packages/f16/bash/po/cs.po | 
- | [es]({{< ref "/f16/language/es.md" >}}) | 8533 | 10861 | 78.6 | /mnt/stockage/packages/f16/bash/po/es.po | 
- | [fr]({{< ref "/f16/language/fr.md" >}}) | 8533 | 10861 | 78.6 | /mnt/stockage/packages/f16/bash/po/fr.po | 
- | [hu]({{< ref "/f16/language/hu.md" >}}) | 8533 | 10861 | 78.6 | /mnt/stockage/packages/f16/bash/po/hu.po | 
- | [id]({{< ref "/f16/language/id.md" >}}) | 8533 | 10861 | 78.6 | /mnt/stockage/packages/f16/bash/po/id.po | 
- | [ja]({{< ref "/f16/language/ja.md" >}}) | 8533 | 10861 | 78.6 | /mnt/stockage/packages/f16/bash/po/ja.po | 
- | [nl]({{< ref "/f16/language/nl.md" >}}) | 8533 | 10861 | 78.6 | /mnt/stockage/packages/f16/bash/po/nl.po | 
- | [sk]({{< ref "/f16/language/sk.md" >}}) | 8533 | 10861 | 78.6 | /mnt/stockage/packages/f16/bash/po/sk.po | 
- | [sv]({{< ref "/f16/language/sv.md" >}}) | 8533 | 10861 | 78.6 | /mnt/stockage/packages/f16/bash/po/sv.po | 
- | [vi]({{< ref "/f16/language/vi.md" >}}) | 8533 | 10861 | 78.6 | /mnt/stockage/packages/f16/bash/po/vi.po | 
- | [zh_Hans]({{< ref "/f16/language/zh_Hans.md" >}}) | 8533 | 10861 | 78.6 | /mnt/stockage/packages/f16/bash/po/zh_CN.po | 
- | [eo]({{< ref "/f16/language/eo.md" >}}) | 7877 | 10861 | 72.5 | /mnt/stockage/packages/f16/bash/po/eo.po | 
- | [fi]({{< ref "/f16/language/fi.md" >}}) | 7877 | 10861 | 72.5 | /mnt/stockage/packages/f16/bash/po/fi.po | 
- | [uk]({{< ref "/f16/language/uk.md" >}}) | 6695 | 10861 | 61.6 | /mnt/stockage/packages/f16/bash/po/uk.po | 
- | [ga]({{< ref "/f16/language/ga.md" >}}) | 3491 | 10861 | 32.1 | /mnt/stockage/packages/f16/bash/po/ga.po | 
- | [de]({{< ref "/f16/language/de.md" >}}) | 2543 | 10861 | 23.4 | /mnt/stockage/packages/f16/bash/po/de.po | 
- | [lt]({{< ref "/f16/language/lt.md" >}}) | 1557 | 10861 | 14.3 | /mnt/stockage/packages/f16/bash/po/lt.po | 
- | [pl]({{< ref "/f16/language/pl.md" >}}) | 1338 | 10861 | 12.3 | /mnt/stockage/packages/f16/bash/po/pl.po | 
- | [tr]({{< ref "/f16/language/tr.md" >}}) | 1338 | 10861 | 12.3 | /mnt/stockage/packages/f16/bash/po/tr.po | 
- | [bg]({{< ref "/f16/language/bg.md" >}}) | 1332 | 10861 | 12.3 | /mnt/stockage/packages/f16/bash/po/bg.po | 
- | [et]({{< ref "/f16/language/et.md" >}}) | 669 | 10861 | 6.2 | /mnt/stockage/packages/f16/bash/po/et.po | 
- | [ru]({{< ref "/f16/language/ru.md" >}}) | 461 | 10861 | 4.2 | /mnt/stockage/packages/f16/bash/po/ru.po | 
- | [ro]({{< ref "/f16/language/ro.md" >}}) | 436 | 10861 | 4.0 | /mnt/stockage/packages/f16/bash/po/ro.po | 
- | [ca]({{< ref "/f16/language/ca.md" >}}) | 432 | 10861 | 4.0 | /mnt/stockage/packages/f16/bash/po/ca.po | 
- | [pt_BR]({{< ref "/f16/language/pt_BR.md" >}}) | 432 | 10861 | 4.0 | /mnt/stockage/packages/f16/bash/po/pt_BR.po | 
- | [zh_Hant]({{< ref "/f16/language/zh_Hant.md" >}}) | 324 | 10861 | 3.0 | /mnt/stockage/packages/f16/bash/po/zh_TW.po | 
- | [af]({{< ref "/f16/language/af.md" >}}) | 45 | 10861 | 0.4 | /mnt/stockage/packages/f16/bash/po/af.po | 
+ | [error](/f16/language/error) | 21722 | 21722 | 100.0 | /mnt/stockage/packages/f16/bash/po/en@quot.po/mnt/stockage/packages/f16/bash/po/en@boldquot.po | 
+ | [cs](/f16/language/cs) | 8533 | 10861 | 78.6 | /mnt/stockage/packages/f16/bash/po/cs.po | 
+ | [es](/f16/language/es) | 8533 | 10861 | 78.6 | /mnt/stockage/packages/f16/bash/po/es.po | 
+ | [fr](/f16/language/fr) | 8533 | 10861 | 78.6 | /mnt/stockage/packages/f16/bash/po/fr.po | 
+ | [hu](/f16/language/hu) | 8533 | 10861 | 78.6 | /mnt/stockage/packages/f16/bash/po/hu.po | 
+ | [id](/f16/language/id) | 8533 | 10861 | 78.6 | /mnt/stockage/packages/f16/bash/po/id.po | 
+ | [ja](/f16/language/ja) | 8533 | 10861 | 78.6 | /mnt/stockage/packages/f16/bash/po/ja.po | 
+ | [nl](/f16/language/nl) | 8533 | 10861 | 78.6 | /mnt/stockage/packages/f16/bash/po/nl.po | 
+ | [sk](/f16/language/sk) | 8533 | 10861 | 78.6 | /mnt/stockage/packages/f16/bash/po/sk.po | 
+ | [sv](/f16/language/sv) | 8533 | 10861 | 78.6 | /mnt/stockage/packages/f16/bash/po/sv.po | 
+ | [vi](/f16/language/vi) | 8533 | 10861 | 78.6 | /mnt/stockage/packages/f16/bash/po/vi.po | 
+ | [zh_Hans](/f16/language/zh_Hans) | 8533 | 10861 | 78.6 | /mnt/stockage/packages/f16/bash/po/zh_CN.po | 
+ | [eo](/f16/language/eo) | 7877 | 10861 | 72.5 | /mnt/stockage/packages/f16/bash/po/eo.po | 
+ | [fi](/f16/language/fi) | 7877 | 10861 | 72.5 | /mnt/stockage/packages/f16/bash/po/fi.po | 
+ | [uk](/f16/language/uk) | 6695 | 10861 | 61.6 | /mnt/stockage/packages/f16/bash/po/uk.po | 
+ | [ga](/f16/language/ga) | 3491 | 10861 | 32.1 | /mnt/stockage/packages/f16/bash/po/ga.po | 
+ | [de](/f16/language/de) | 2543 | 10861 | 23.4 | /mnt/stockage/packages/f16/bash/po/de.po | 
+ | [lt](/f16/language/lt) | 1557 | 10861 | 14.3 | /mnt/stockage/packages/f16/bash/po/lt.po | 
+ | [pl](/f16/language/pl) | 1338 | 10861 | 12.3 | /mnt/stockage/packages/f16/bash/po/pl.po | 
+ | [tr](/f16/language/tr) | 1338 | 10861 | 12.3 | /mnt/stockage/packages/f16/bash/po/tr.po | 
+ | [bg](/f16/language/bg) | 1332 | 10861 | 12.3 | /mnt/stockage/packages/f16/bash/po/bg.po | 
+ | [et](/f16/language/et) | 669 | 10861 | 6.2 | /mnt/stockage/packages/f16/bash/po/et.po | 
+ | [ru](/f16/language/ru) | 461 | 10861 | 4.2 | /mnt/stockage/packages/f16/bash/po/ru.po | 
+ | [ro](/f16/language/ro) | 436 | 10861 | 4.0 | /mnt/stockage/packages/f16/bash/po/ro.po | 
+ | [ca](/f16/language/ca) | 432 | 10861 | 4.0 | /mnt/stockage/packages/f16/bash/po/ca.po | 
+ | [pt_BR](/f16/language/pt_BR) | 432 | 10861 | 4.0 | /mnt/stockage/packages/f16/bash/po/pt_BR.po | 
+ | [zh_Hant](/f16/language/zh_Hant) | 324 | 10861 | 3.0 | /mnt/stockage/packages/f16/bash/po/zh_TW.po | 
+ | [af](/f16/language/af) | 45 | 10861 | 0.4 | /mnt/stockage/packages/f16/bash/po/af.po | 
 {.sortable}
 
 

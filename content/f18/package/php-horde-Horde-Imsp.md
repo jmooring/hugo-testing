@@ -18,49 +18,49 @@ The package php-horde-Horde-Imsp (version 2.0.5):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f18/language/ca.md" >}}) | 14 | 14 | 100.0 | /mnt/stockage/packages/f18/php-horde-Horde-Imsp/Horde_Imsp-2.0.5/locale/ca/LC_MESSAGES/Horde_Imsp.po | 
- | [cs]({{< ref "/f18/language/cs.md" >}}) | 14 | 14 | 100.0 | /mnt/stockage/packages/f18/php-horde-Horde-Imsp/Horde_Imsp-2.0.5/locale/cs/LC_MESSAGES/Horde_Imsp.po | 
- | [da]({{< ref "/f18/language/da.md" >}}) | 14 | 14 | 100.0 | /mnt/stockage/packages/f18/php-horde-Horde-Imsp/Horde_Imsp-2.0.5/locale/da/LC_MESSAGES/Horde_Imsp.po | 
- | [de]({{< ref "/f18/language/de.md" >}}) | 3 | 3 | 100.0 | /mnt/stockage/packages/f18/php-horde-Horde-Imsp/Horde_Imsp-2.0.5/locale/de/LC_MESSAGES/Horde_Imsp.po | 
- | [en]({{< ref "/f18/language/en.md" >}}) | 14 | 14 | 100.0 | /mnt/stockage/packages/f18/php-horde-Horde-Imsp/Horde_Imsp-2.0.5/locale/en/LC_MESSAGES/Horde_Imsp.po | 
- | [es]({{< ref "/f18/language/es.md" >}}) | 3 | 3 | 100.0 | /mnt/stockage/packages/f18/php-horde-Horde-Imsp/Horde_Imsp-2.0.5/locale/es/LC_MESSAGES/Horde_Imsp.po | 
- | [et]({{< ref "/f18/language/et.md" >}}) | 3 | 3 | 100.0 | /mnt/stockage/packages/f18/php-horde-Horde-Imsp/Horde_Imsp-2.0.5/locale/et/LC_MESSAGES/Horde_Imsp.po | 
- | [eu]({{< ref "/f18/language/eu.md" >}}) | 3 | 3 | 100.0 | /mnt/stockage/packages/f18/php-horde-Horde-Imsp/Horde_Imsp-2.0.5/locale/eu/LC_MESSAGES/Horde_Imsp.po | 
- | [fi]({{< ref "/f18/language/fi.md" >}}) | 3 | 3 | 100.0 | /mnt/stockage/packages/f18/php-horde-Horde-Imsp/Horde_Imsp-2.0.5/locale/fi/LC_MESSAGES/Horde_Imsp.po | 
- | [fr]({{< ref "/f18/language/fr.md" >}}) | 3 | 3 | 100.0 | /mnt/stockage/packages/f18/php-horde-Horde-Imsp/Horde_Imsp-2.0.5/locale/fr/LC_MESSAGES/Horde_Imsp.po | 
- | [hr]({{< ref "/f18/language/hr.md" >}}) | 3 | 3 | 100.0 | /mnt/stockage/packages/f18/php-horde-Horde-Imsp/Horde_Imsp-2.0.5/locale/hr/LC_MESSAGES/Horde_Imsp.po | 
- | [hu]({{< ref "/f18/language/hu.md" >}}) | 14 | 14 | 100.0 | /mnt/stockage/packages/f18/php-horde-Horde-Imsp/Horde_Imsp-2.0.5/locale/hu/LC_MESSAGES/Horde_Imsp.po | 
- | [it]({{< ref "/f18/language/it.md" >}}) | 14 | 14 | 100.0 | /mnt/stockage/packages/f18/php-horde-Horde-Imsp/Horde_Imsp-2.0.5/locale/it/LC_MESSAGES/Horde_Imsp.po | 
- | [ja]({{< ref "/f18/language/ja.md" >}}) | 3 | 3 | 100.0 | /mnt/stockage/packages/f18/php-horde-Horde-Imsp/Horde_Imsp-2.0.5/locale/ja/LC_MESSAGES/Horde_Imsp.po | 
- | [lt]({{< ref "/f18/language/lt.md" >}}) | 3 | 3 | 100.0 | /mnt/stockage/packages/f18/php-horde-Horde-Imsp/Horde_Imsp-2.0.5/locale/lt/LC_MESSAGES/Horde_Imsp.po | 
- | [lv]({{< ref "/f18/language/lv.md" >}}) | 3 | 3 | 100.0 | /mnt/stockage/packages/f18/php-horde-Horde-Imsp/Horde_Imsp-2.0.5/locale/lv/LC_MESSAGES/Horde_Imsp.po | 
- | [nl]({{< ref "/f18/language/nl.md" >}}) | 3 | 3 | 100.0 | /mnt/stockage/packages/f18/php-horde-Horde-Imsp/Horde_Imsp-2.0.5/locale/nl/LC_MESSAGES/Horde_Imsp.po | 
- | [pt]({{< ref "/f18/language/pt.md" >}}) | 14 | 14 | 100.0 | /mnt/stockage/packages/f18/php-horde-Horde-Imsp/Horde_Imsp-2.0.5/locale/pt/LC_MESSAGES/Horde_Imsp.po | 
- | [pt_BR]({{< ref "/f18/language/pt_BR.md" >}}) | 3 | 3 | 100.0 | /mnt/stockage/packages/f18/php-horde-Horde-Imsp/Horde_Imsp-2.0.5/locale/pt_BR/LC_MESSAGES/Horde_Imsp.po | 
- | [sk]({{< ref "/f18/language/sk.md" >}}) | 3 | 3 | 100.0 | /mnt/stockage/packages/f18/php-horde-Horde-Imsp/Horde_Imsp-2.0.5/locale/sk/LC_MESSAGES/Horde_Imsp.po | 
- | [sl]({{< ref "/f18/language/sl.md" >}}) | 14 | 14 | 100.0 | /mnt/stockage/packages/f18/php-horde-Horde-Imsp/Horde_Imsp-2.0.5/locale/sl/LC_MESSAGES/Horde_Imsp.po | 
- | [tr]({{< ref "/f18/language/tr.md" >}}) | 14 | 14 | 100.0 | /mnt/stockage/packages/f18/php-horde-Horde-Imsp/Horde_Imsp-2.0.5/locale/tr/LC_MESSAGES/Horde_Imsp.po | 
- | [uk]({{< ref "/f18/language/uk.md" >}}) | 14 | 14 | 100.0 | /mnt/stockage/packages/f18/php-horde-Horde-Imsp/Horde_Imsp-2.0.5/locale/uk/LC_MESSAGES/Horde_Imsp.po | 
- | [zh_Hans]({{< ref "/f18/language/zh_Hans.md" >}}) | 14 | 14 | 100.0 | /mnt/stockage/packages/f18/php-horde-Horde-Imsp/Horde_Imsp-2.0.5/locale/zh_CN/LC_MESSAGES/Horde_Imsp.po | 
- | [zh_Hant]({{< ref "/f18/language/zh_Hant.md" >}}) | 14 | 14 | 100.0 | /mnt/stockage/packages/f18/php-horde-Horde-Imsp/Horde_Imsp-2.0.5/locale/zh_TW/LC_MESSAGES/Horde_Imsp.po | 
- | [el]({{< ref "/f18/language/el.md" >}}) | 7 | 14 | 50.0 | /mnt/stockage/packages/f18/php-horde-Horde-Imsp/Horde_Imsp-2.0.5/locale/el/LC_MESSAGES/Horde_Imsp.po | 
- | [fa]({{< ref "/f18/language/fa.md" >}}) | 7 | 14 | 50.0 | /mnt/stockage/packages/f18/php-horde-Horde-Imsp/Horde_Imsp-2.0.5/locale/fa/LC_MESSAGES/Horde_Imsp.po | 
- | [ko]({{< ref "/f18/language/ko.md" >}}) | 7 | 14 | 50.0 | /mnt/stockage/packages/f18/php-horde-Horde-Imsp/Horde_Imsp-2.0.5/locale/ko/LC_MESSAGES/Horde_Imsp.po | 
- | [ru]({{< ref "/f18/language/ru.md" >}}) | 7 | 14 | 50.0 | /mnt/stockage/packages/f18/php-horde-Horde-Imsp/Horde_Imsp-2.0.5/locale/ru/LC_MESSAGES/Horde_Imsp.po | 
- | [sv]({{< ref "/f18/language/sv.md" >}}) | 7 | 14 | 50.0 | /mnt/stockage/packages/f18/php-horde-Horde-Imsp/Horde_Imsp-2.0.5/locale/sv/LC_MESSAGES/Horde_Imsp.po | 
- | [ar]({{< ref "/f18/language/ar.md" >}}) | 0 | 14 | 0.0 | /mnt/stockage/packages/f18/php-horde-Horde-Imsp/Horde_Imsp-2.0.5/locale/ar/LC_MESSAGES/Horde_Imsp.po | 
- | [bg]({{< ref "/f18/language/bg.md" >}}) | 0 | 14 | 0.0 | /mnt/stockage/packages/f18/php-horde-Horde-Imsp/Horde_Imsp-2.0.5/locale/bg/LC_MESSAGES/Horde_Imsp.po | 
- | [bs]({{< ref "/f18/language/bs.md" >}}) | 0 | 14 | 0.0 | /mnt/stockage/packages/f18/php-horde-Horde-Imsp/Horde_Imsp-2.0.5/locale/bs/LC_MESSAGES/Horde_Imsp.po | 
- | [gl]({{< ref "/f18/language/gl.md" >}}) | 0 | 14 | 0.0 | /mnt/stockage/packages/f18/php-horde-Horde-Imsp/Horde_Imsp-2.0.5/locale/gl/LC_MESSAGES/Horde_Imsp.po | 
- | [he]({{< ref "/f18/language/he.md" >}}) | 0 | 14 | 0.0 | /mnt/stockage/packages/f18/php-horde-Horde-Imsp/Horde_Imsp-2.0.5/locale/he/LC_MESSAGES/Horde_Imsp.po | 
- | [id]({{< ref "/f18/language/id.md" >}}) | 0 | 14 | 0.0 | /mnt/stockage/packages/f18/php-horde-Horde-Imsp/Horde_Imsp-2.0.5/locale/id/LC_MESSAGES/Horde_Imsp.po | 
- | [is]({{< ref "/f18/language/is.md" >}}) | 0 | 14 | 0.0 | /mnt/stockage/packages/f18/php-horde-Horde-Imsp/Horde_Imsp-2.0.5/locale/is/LC_MESSAGES/Horde_Imsp.po | 
- | [km]({{< ref "/f18/language/km.md" >}}) | 0 | 14 | 0.0 | /mnt/stockage/packages/f18/php-horde-Horde-Imsp/Horde_Imsp-2.0.5/locale/km/LC_MESSAGES/Horde_Imsp.po | 
- | [mk]({{< ref "/f18/language/mk.md" >}}) | 0 | 14 | 0.0 | /mnt/stockage/packages/f18/php-horde-Horde-Imsp/Horde_Imsp-2.0.5/locale/mk/LC_MESSAGES/Horde_Imsp.po | 
- | [nb_NO]({{< ref "/f18/language/nb_NO.md" >}}) | 0 | 14 | 0.0 | /mnt/stockage/packages/f18/php-horde-Horde-Imsp/Horde_Imsp-2.0.5/locale/nb/LC_MESSAGES/Horde_Imsp.po | 
- | [nn]({{< ref "/f18/language/nn.md" >}}) | 0 | 14 | 0.0 | /mnt/stockage/packages/f18/php-horde-Horde-Imsp/Horde_Imsp-2.0.5/locale/nn/LC_MESSAGES/Horde_Imsp.po | 
- | [pl]({{< ref "/f18/language/pl.md" >}}) | 0 | 14 | 0.0 | /mnt/stockage/packages/f18/php-horde-Horde-Imsp/Horde_Imsp-2.0.5/locale/pl/LC_MESSAGES/Horde_Imsp.po | 
- | [ro]({{< ref "/f18/language/ro.md" >}}) | 0 | 14 | 0.0 | /mnt/stockage/packages/f18/php-horde-Horde-Imsp/Horde_Imsp-2.0.5/locale/ro/LC_MESSAGES/Horde_Imsp.po | 
+ | [ca](/f18/language/ca) | 14 | 14 | 100.0 | /mnt/stockage/packages/f18/php-horde-Horde-Imsp/Horde_Imsp-2.0.5/locale/ca/LC_MESSAGES/Horde_Imsp.po | 
+ | [cs](/f18/language/cs) | 14 | 14 | 100.0 | /mnt/stockage/packages/f18/php-horde-Horde-Imsp/Horde_Imsp-2.0.5/locale/cs/LC_MESSAGES/Horde_Imsp.po | 
+ | [da](/f18/language/da) | 14 | 14 | 100.0 | /mnt/stockage/packages/f18/php-horde-Horde-Imsp/Horde_Imsp-2.0.5/locale/da/LC_MESSAGES/Horde_Imsp.po | 
+ | [de](/f18/language/de) | 3 | 3 | 100.0 | /mnt/stockage/packages/f18/php-horde-Horde-Imsp/Horde_Imsp-2.0.5/locale/de/LC_MESSAGES/Horde_Imsp.po | 
+ | [en](/f18/language/en) | 14 | 14 | 100.0 | /mnt/stockage/packages/f18/php-horde-Horde-Imsp/Horde_Imsp-2.0.5/locale/en/LC_MESSAGES/Horde_Imsp.po | 
+ | [es](/f18/language/es) | 3 | 3 | 100.0 | /mnt/stockage/packages/f18/php-horde-Horde-Imsp/Horde_Imsp-2.0.5/locale/es/LC_MESSAGES/Horde_Imsp.po | 
+ | [et](/f18/language/et) | 3 | 3 | 100.0 | /mnt/stockage/packages/f18/php-horde-Horde-Imsp/Horde_Imsp-2.0.5/locale/et/LC_MESSAGES/Horde_Imsp.po | 
+ | [eu](/f18/language/eu) | 3 | 3 | 100.0 | /mnt/stockage/packages/f18/php-horde-Horde-Imsp/Horde_Imsp-2.0.5/locale/eu/LC_MESSAGES/Horde_Imsp.po | 
+ | [fi](/f18/language/fi) | 3 | 3 | 100.0 | /mnt/stockage/packages/f18/php-horde-Horde-Imsp/Horde_Imsp-2.0.5/locale/fi/LC_MESSAGES/Horde_Imsp.po | 
+ | [fr](/f18/language/fr) | 3 | 3 | 100.0 | /mnt/stockage/packages/f18/php-horde-Horde-Imsp/Horde_Imsp-2.0.5/locale/fr/LC_MESSAGES/Horde_Imsp.po | 
+ | [hr](/f18/language/hr) | 3 | 3 | 100.0 | /mnt/stockage/packages/f18/php-horde-Horde-Imsp/Horde_Imsp-2.0.5/locale/hr/LC_MESSAGES/Horde_Imsp.po | 
+ | [hu](/f18/language/hu) | 14 | 14 | 100.0 | /mnt/stockage/packages/f18/php-horde-Horde-Imsp/Horde_Imsp-2.0.5/locale/hu/LC_MESSAGES/Horde_Imsp.po | 
+ | [it](/f18/language/it) | 14 | 14 | 100.0 | /mnt/stockage/packages/f18/php-horde-Horde-Imsp/Horde_Imsp-2.0.5/locale/it/LC_MESSAGES/Horde_Imsp.po | 
+ | [ja](/f18/language/ja) | 3 | 3 | 100.0 | /mnt/stockage/packages/f18/php-horde-Horde-Imsp/Horde_Imsp-2.0.5/locale/ja/LC_MESSAGES/Horde_Imsp.po | 
+ | [lt](/f18/language/lt) | 3 | 3 | 100.0 | /mnt/stockage/packages/f18/php-horde-Horde-Imsp/Horde_Imsp-2.0.5/locale/lt/LC_MESSAGES/Horde_Imsp.po | 
+ | [lv](/f18/language/lv) | 3 | 3 | 100.0 | /mnt/stockage/packages/f18/php-horde-Horde-Imsp/Horde_Imsp-2.0.5/locale/lv/LC_MESSAGES/Horde_Imsp.po | 
+ | [nl](/f18/language/nl) | 3 | 3 | 100.0 | /mnt/stockage/packages/f18/php-horde-Horde-Imsp/Horde_Imsp-2.0.5/locale/nl/LC_MESSAGES/Horde_Imsp.po | 
+ | [pt](/f18/language/pt) | 14 | 14 | 100.0 | /mnt/stockage/packages/f18/php-horde-Horde-Imsp/Horde_Imsp-2.0.5/locale/pt/LC_MESSAGES/Horde_Imsp.po | 
+ | [pt_BR](/f18/language/pt_BR) | 3 | 3 | 100.0 | /mnt/stockage/packages/f18/php-horde-Horde-Imsp/Horde_Imsp-2.0.5/locale/pt_BR/LC_MESSAGES/Horde_Imsp.po | 
+ | [sk](/f18/language/sk) | 3 | 3 | 100.0 | /mnt/stockage/packages/f18/php-horde-Horde-Imsp/Horde_Imsp-2.0.5/locale/sk/LC_MESSAGES/Horde_Imsp.po | 
+ | [sl](/f18/language/sl) | 14 | 14 | 100.0 | /mnt/stockage/packages/f18/php-horde-Horde-Imsp/Horde_Imsp-2.0.5/locale/sl/LC_MESSAGES/Horde_Imsp.po | 
+ | [tr](/f18/language/tr) | 14 | 14 | 100.0 | /mnt/stockage/packages/f18/php-horde-Horde-Imsp/Horde_Imsp-2.0.5/locale/tr/LC_MESSAGES/Horde_Imsp.po | 
+ | [uk](/f18/language/uk) | 14 | 14 | 100.0 | /mnt/stockage/packages/f18/php-horde-Horde-Imsp/Horde_Imsp-2.0.5/locale/uk/LC_MESSAGES/Horde_Imsp.po | 
+ | [zh_Hans](/f18/language/zh_Hans) | 14 | 14 | 100.0 | /mnt/stockage/packages/f18/php-horde-Horde-Imsp/Horde_Imsp-2.0.5/locale/zh_CN/LC_MESSAGES/Horde_Imsp.po | 
+ | [zh_Hant](/f18/language/zh_Hant) | 14 | 14 | 100.0 | /mnt/stockage/packages/f18/php-horde-Horde-Imsp/Horde_Imsp-2.0.5/locale/zh_TW/LC_MESSAGES/Horde_Imsp.po | 
+ | [el](/f18/language/el) | 7 | 14 | 50.0 | /mnt/stockage/packages/f18/php-horde-Horde-Imsp/Horde_Imsp-2.0.5/locale/el/LC_MESSAGES/Horde_Imsp.po | 
+ | [fa](/f18/language/fa) | 7 | 14 | 50.0 | /mnt/stockage/packages/f18/php-horde-Horde-Imsp/Horde_Imsp-2.0.5/locale/fa/LC_MESSAGES/Horde_Imsp.po | 
+ | [ko](/f18/language/ko) | 7 | 14 | 50.0 | /mnt/stockage/packages/f18/php-horde-Horde-Imsp/Horde_Imsp-2.0.5/locale/ko/LC_MESSAGES/Horde_Imsp.po | 
+ | [ru](/f18/language/ru) | 7 | 14 | 50.0 | /mnt/stockage/packages/f18/php-horde-Horde-Imsp/Horde_Imsp-2.0.5/locale/ru/LC_MESSAGES/Horde_Imsp.po | 
+ | [sv](/f18/language/sv) | 7 | 14 | 50.0 | /mnt/stockage/packages/f18/php-horde-Horde-Imsp/Horde_Imsp-2.0.5/locale/sv/LC_MESSAGES/Horde_Imsp.po | 
+ | [ar](/f18/language/ar) | 0 | 14 | 0.0 | /mnt/stockage/packages/f18/php-horde-Horde-Imsp/Horde_Imsp-2.0.5/locale/ar/LC_MESSAGES/Horde_Imsp.po | 
+ | [bg](/f18/language/bg) | 0 | 14 | 0.0 | /mnt/stockage/packages/f18/php-horde-Horde-Imsp/Horde_Imsp-2.0.5/locale/bg/LC_MESSAGES/Horde_Imsp.po | 
+ | [bs](/f18/language/bs) | 0 | 14 | 0.0 | /mnt/stockage/packages/f18/php-horde-Horde-Imsp/Horde_Imsp-2.0.5/locale/bs/LC_MESSAGES/Horde_Imsp.po | 
+ | [gl](/f18/language/gl) | 0 | 14 | 0.0 | /mnt/stockage/packages/f18/php-horde-Horde-Imsp/Horde_Imsp-2.0.5/locale/gl/LC_MESSAGES/Horde_Imsp.po | 
+ | [he](/f18/language/he) | 0 | 14 | 0.0 | /mnt/stockage/packages/f18/php-horde-Horde-Imsp/Horde_Imsp-2.0.5/locale/he/LC_MESSAGES/Horde_Imsp.po | 
+ | [id](/f18/language/id) | 0 | 14 | 0.0 | /mnt/stockage/packages/f18/php-horde-Horde-Imsp/Horde_Imsp-2.0.5/locale/id/LC_MESSAGES/Horde_Imsp.po | 
+ | [is](/f18/language/is) | 0 | 14 | 0.0 | /mnt/stockage/packages/f18/php-horde-Horde-Imsp/Horde_Imsp-2.0.5/locale/is/LC_MESSAGES/Horde_Imsp.po | 
+ | [km](/f18/language/km) | 0 | 14 | 0.0 | /mnt/stockage/packages/f18/php-horde-Horde-Imsp/Horde_Imsp-2.0.5/locale/km/LC_MESSAGES/Horde_Imsp.po | 
+ | [mk](/f18/language/mk) | 0 | 14 | 0.0 | /mnt/stockage/packages/f18/php-horde-Horde-Imsp/Horde_Imsp-2.0.5/locale/mk/LC_MESSAGES/Horde_Imsp.po | 
+ | [nb_NO](/f18/language/nb_NO) | 0 | 14 | 0.0 | /mnt/stockage/packages/f18/php-horde-Horde-Imsp/Horde_Imsp-2.0.5/locale/nb/LC_MESSAGES/Horde_Imsp.po | 
+ | [nn](/f18/language/nn) | 0 | 14 | 0.0 | /mnt/stockage/packages/f18/php-horde-Horde-Imsp/Horde_Imsp-2.0.5/locale/nn/LC_MESSAGES/Horde_Imsp.po | 
+ | [pl](/f18/language/pl) | 0 | 14 | 0.0 | /mnt/stockage/packages/f18/php-horde-Horde-Imsp/Horde_Imsp-2.0.5/locale/pl/LC_MESSAGES/Horde_Imsp.po | 
+ | [ro](/f18/language/ro) | 0 | 14 | 0.0 | /mnt/stockage/packages/f18/php-horde-Horde-Imsp/Horde_Imsp-2.0.5/locale/ro/LC_MESSAGES/Horde_Imsp.po | 
 {.sortable}
 
 

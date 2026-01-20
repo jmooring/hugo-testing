@@ -18,24 +18,24 @@ The package freedink-dfarc (version 3.14):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f35/language/ca.md" >}}) | 773 | 773 | 100.0 | /mnt/stockage/packages/f35/freedink-dfarc/po/ca.po | 
- | [da]({{< ref "/f35/language/da.md" >}}) | 773 | 773 | 100.0 | /mnt/stockage/packages/f35/freedink-dfarc/po/da.po | 
- | [de]({{< ref "/f35/language/de.md" >}}) | 773 | 773 | 100.0 | /mnt/stockage/packages/f35/freedink-dfarc/po/de.po | 
- | [eo]({{< ref "/f35/language/eo.md" >}}) | 773 | 773 | 100.0 | /mnt/stockage/packages/f35/freedink-dfarc/po/eo.po | 
- | [es]({{< ref "/f35/language/es.md" >}}) | 773 | 773 | 100.0 | /mnt/stockage/packages/f35/freedink-dfarc/po/es.po | 
- | [fi]({{< ref "/f35/language/fi.md" >}}) | 778 | 778 | 100.0 | /mnt/stockage/packages/f35/freedink-dfarc/po/fi.po | 
- | [fr]({{< ref "/f35/language/fr.md" >}}) | 773 | 773 | 100.0 | /mnt/stockage/packages/f35/freedink-dfarc/po/fr.po | 
- | [fur]({{< ref "/f35/language/fur.md" >}}) | 773 | 773 | 100.0 | /mnt/stockage/packages/f35/freedink-dfarc/po/fur.po | 
- | [hr]({{< ref "/f35/language/hr.md" >}}) | 778 | 778 | 100.0 | /mnt/stockage/packages/f35/freedink-dfarc/po/hr.po | 
- | [hu]({{< ref "/f35/language/hu.md" >}}) | 773 | 773 | 100.0 | /mnt/stockage/packages/f35/freedink-dfarc/po/hu.po | 
- | [it]({{< ref "/f35/language/it.md" >}}) | 778 | 778 | 100.0 | /mnt/stockage/packages/f35/freedink-dfarc/po/it.po | 
- | [nl]({{< ref "/f35/language/nl.md" >}}) | 773 | 773 | 100.0 | /mnt/stockage/packages/f35/freedink-dfarc/po/nl.po | 
- | [pl]({{< ref "/f35/language/pl.md" >}}) | 773 | 773 | 100.0 | /mnt/stockage/packages/f35/freedink-dfarc/po/pl.po | 
- | [pt_BR]({{< ref "/f35/language/pt_BR.md" >}}) | 773 | 773 | 100.0 | /mnt/stockage/packages/f35/freedink-dfarc/po/pt_BR.po | 
- | [sr]({{< ref "/f35/language/sr.md" >}}) | 773 | 773 | 100.0 | /mnt/stockage/packages/f35/freedink-dfarc/po/sr.po | 
- | [tr]({{< ref "/f35/language/tr.md" >}}) | 778 | 778 | 100.0 | /mnt/stockage/packages/f35/freedink-dfarc/po/tr.po | 
- | [vi]({{< ref "/f35/language/vi.md" >}}) | 773 | 773 | 100.0 | /mnt/stockage/packages/f35/freedink-dfarc/po/vi.po | 
- | [mk]({{< ref "/f35/language/mk.md" >}}) | 656 | 738 | 88.9 | /mnt/stockage/packages/f35/freedink-dfarc/po/mk.po | 
+ | [ca](/f35/language/ca) | 773 | 773 | 100.0 | /mnt/stockage/packages/f35/freedink-dfarc/po/ca.po | 
+ | [da](/f35/language/da) | 773 | 773 | 100.0 | /mnt/stockage/packages/f35/freedink-dfarc/po/da.po | 
+ | [de](/f35/language/de) | 773 | 773 | 100.0 | /mnt/stockage/packages/f35/freedink-dfarc/po/de.po | 
+ | [eo](/f35/language/eo) | 773 | 773 | 100.0 | /mnt/stockage/packages/f35/freedink-dfarc/po/eo.po | 
+ | [es](/f35/language/es) | 773 | 773 | 100.0 | /mnt/stockage/packages/f35/freedink-dfarc/po/es.po | 
+ | [fi](/f35/language/fi) | 778 | 778 | 100.0 | /mnt/stockage/packages/f35/freedink-dfarc/po/fi.po | 
+ | [fr](/f35/language/fr) | 773 | 773 | 100.0 | /mnt/stockage/packages/f35/freedink-dfarc/po/fr.po | 
+ | [fur](/f35/language/fur) | 773 | 773 | 100.0 | /mnt/stockage/packages/f35/freedink-dfarc/po/fur.po | 
+ | [hr](/f35/language/hr) | 778 | 778 | 100.0 | /mnt/stockage/packages/f35/freedink-dfarc/po/hr.po | 
+ | [hu](/f35/language/hu) | 773 | 773 | 100.0 | /mnt/stockage/packages/f35/freedink-dfarc/po/hu.po | 
+ | [it](/f35/language/it) | 778 | 778 | 100.0 | /mnt/stockage/packages/f35/freedink-dfarc/po/it.po | 
+ | [nl](/f35/language/nl) | 773 | 773 | 100.0 | /mnt/stockage/packages/f35/freedink-dfarc/po/nl.po | 
+ | [pl](/f35/language/pl) | 773 | 773 | 100.0 | /mnt/stockage/packages/f35/freedink-dfarc/po/pl.po | 
+ | [pt_BR](/f35/language/pt_BR) | 773 | 773 | 100.0 | /mnt/stockage/packages/f35/freedink-dfarc/po/pt_BR.po | 
+ | [sr](/f35/language/sr) | 773 | 773 | 100.0 | /mnt/stockage/packages/f35/freedink-dfarc/po/sr.po | 
+ | [tr](/f35/language/tr) | 778 | 778 | 100.0 | /mnt/stockage/packages/f35/freedink-dfarc/po/tr.po | 
+ | [vi](/f35/language/vi) | 773 | 773 | 100.0 | /mnt/stockage/packages/f35/freedink-dfarc/po/vi.po | 
+ | [mk](/f35/language/mk) | 656 | 738 | 88.9 | /mnt/stockage/packages/f35/freedink-dfarc/po/mk.po | 
 {.sortable}
 
 

@@ -18,24 +18,24 @@ The package texlive (version 2023):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f40/language/cs.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f40/texlive/translations/cs.po | 
- | [da]({{< ref "/f40/language/da.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f40/texlive/translations/da.po | 
- | [de]({{< ref "/f40/language/de.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f40/texlive/translations/de.po | 
- | [es]({{< ref "/f40/language/es.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f40/texlive/translations/es.po | 
- | [fr]({{< ref "/f40/language/fr.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f40/texlive/translations/fr.po | 
- | [it]({{< ref "/f40/language/it.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f40/texlive/translations/it.po | 
- | [ja]({{< ref "/f40/language/ja.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f40/texlive/translations/ja.po | 
- | [nl]({{< ref "/f40/language/nl.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f40/texlive/translations/nl.po | 
- | [pl]({{< ref "/f40/language/pl.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f40/texlive/translations/pl.po | 
- | [pt_BR]({{< ref "/f40/language/pt_BR.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f40/texlive/translations/pt_BR.po | 
- | [ru]({{< ref "/f40/language/ru.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f40/texlive/translations/ru.po | 
- | [sk]({{< ref "/f40/language/sk.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f40/texlive/translations/sk.po | 
- | [sl]({{< ref "/f40/language/sl.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f40/texlive/translations/sl.po | 
- | [sr]({{< ref "/f40/language/sr.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f40/texlive/translations/sr.po | 
- | [uk]({{< ref "/f40/language/uk.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f40/texlive/translations/uk.po | 
- | [vi]({{< ref "/f40/language/vi.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f40/texlive/translations/vi.po | 
- | [zh_Hans]({{< ref "/f40/language/zh_Hans.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f40/texlive/translations/zh_CN.po | 
- | [zh_Hant]({{< ref "/f40/language/zh_Hant.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f40/texlive/translations/zh_TW.po | 
+ | [cs](/f40/language/cs) | 0 | 0 | 0.0 | /mnt/stockage/packages/f40/texlive/translations/cs.po | 
+ | [da](/f40/language/da) | 0 | 0 | 0.0 | /mnt/stockage/packages/f40/texlive/translations/da.po | 
+ | [de](/f40/language/de) | 0 | 0 | 0.0 | /mnt/stockage/packages/f40/texlive/translations/de.po | 
+ | [es](/f40/language/es) | 0 | 0 | 0.0 | /mnt/stockage/packages/f40/texlive/translations/es.po | 
+ | [fr](/f40/language/fr) | 0 | 0 | 0.0 | /mnt/stockage/packages/f40/texlive/translations/fr.po | 
+ | [it](/f40/language/it) | 0 | 0 | 0.0 | /mnt/stockage/packages/f40/texlive/translations/it.po | 
+ | [ja](/f40/language/ja) | 0 | 0 | 0.0 | /mnt/stockage/packages/f40/texlive/translations/ja.po | 
+ | [nl](/f40/language/nl) | 0 | 0 | 0.0 | /mnt/stockage/packages/f40/texlive/translations/nl.po | 
+ | [pl](/f40/language/pl) | 0 | 0 | 0.0 | /mnt/stockage/packages/f40/texlive/translations/pl.po | 
+ | [pt_BR](/f40/language/pt_BR) | 0 | 0 | 0.0 | /mnt/stockage/packages/f40/texlive/translations/pt_BR.po | 
+ | [ru](/f40/language/ru) | 0 | 0 | 0.0 | /mnt/stockage/packages/f40/texlive/translations/ru.po | 
+ | [sk](/f40/language/sk) | 0 | 0 | 0.0 | /mnt/stockage/packages/f40/texlive/translations/sk.po | 
+ | [sl](/f40/language/sl) | 0 | 0 | 0.0 | /mnt/stockage/packages/f40/texlive/translations/sl.po | 
+ | [sr](/f40/language/sr) | 0 | 0 | 0.0 | /mnt/stockage/packages/f40/texlive/translations/sr.po | 
+ | [uk](/f40/language/uk) | 0 | 0 | 0.0 | /mnt/stockage/packages/f40/texlive/translations/uk.po | 
+ | [vi](/f40/language/vi) | 0 | 0 | 0.0 | /mnt/stockage/packages/f40/texlive/translations/vi.po | 
+ | [zh_Hans](/f40/language/zh_Hans) | 0 | 0 | 0.0 | /mnt/stockage/packages/f40/texlive/translations/zh_CN.po | 
+ | [zh_Hant](/f40/language/zh_Hant) | 0 | 0 | 0.0 | /mnt/stockage/packages/f40/texlive/translations/zh_TW.po | 
 {.sortable}
 
 

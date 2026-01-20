@@ -18,7 +18,7 @@ The package vips (version 7.16.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [en_GB]({{< ref "/f11/language/en_GB.md" >}}) | 5 | 2329 | 0.2 | /mnt/stockage/packages/f11/vips/po/en_GB.po | 
+ | [en_GB](/f11/language/en_GB) | 5 | 2329 | 0.2 | /mnt/stockage/packages/f11/vips/po/en_GB.po | 
 {.sortable}
 
 

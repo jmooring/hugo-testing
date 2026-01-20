@@ -18,10 +18,10 @@ The package input-pad (version 1.0.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [uk]({{< ref "/f17/language/uk.md" >}}) | 1129 | 1626 | 69.4 | /mnt/stockage/packages/f17/input-pad/po/uk.po | 
- | [ja]({{< ref "/f17/language/ja.md" >}}) | 916 | 1626 | 56.3 | /mnt/stockage/packages/f17/input-pad/po/ja.po | 
- | [zh_Hant]({{< ref "/f17/language/zh_Hant.md" >}}) | 423 | 1626 | 26.0 | /mnt/stockage/packages/f17/input-pad/po/zh_TW.po | 
- | [fr]({{< ref "/f17/language/fr.md" >}}) | 218 | 1626 | 13.4 | /mnt/stockage/packages/f17/input-pad/po/fr.po | 
+ | [uk](/f17/language/uk) | 1129 | 1626 | 69.4 | /mnt/stockage/packages/f17/input-pad/po/uk.po | 
+ | [ja](/f17/language/ja) | 916 | 1626 | 56.3 | /mnt/stockage/packages/f17/input-pad/po/ja.po | 
+ | [zh_Hant](/f17/language/zh_Hant) | 423 | 1626 | 26.0 | /mnt/stockage/packages/f17/input-pad/po/zh_TW.po | 
+ | [fr](/f17/language/fr) | 218 | 1626 | 13.4 | /mnt/stockage/packages/f17/input-pad/po/fr.po | 
 {.sortable}
 
 

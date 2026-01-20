@@ -18,18 +18,18 @@ The package sakura (version 2.3.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [es]({{< ref "/f11/language/es.md" >}}) | 127 | 127 | 100.0 | /mnt/stockage/packages/f11/sakura/po/es.po | 
- | [hr]({{< ref "/f11/language/hr.md" >}}) | 115 | 127 | 90.6 | /mnt/stockage/packages/f11/sakura/po/hr.po | 
- | [fr]({{< ref "/f11/language/fr.md" >}}) | 104 | 127 | 81.9 | /mnt/stockage/packages/f11/sakura/po/fr.po | 
- | [ca]({{< ref "/f11/language/ca.md" >}}) | 102 | 127 | 80.3 | /mnt/stockage/packages/f11/sakura/po/ca.po | 
- | [ja]({{< ref "/f11/language/ja.md" >}}) | 94 | 127 | 74.0 | /mnt/stockage/packages/f11/sakura/po/ja.po | 
- | [de]({{< ref "/f11/language/de.md" >}}) | 90 | 127 | 70.9 | /mnt/stockage/packages/f11/sakura/po/de.po | 
- | [ru]({{< ref "/f11/language/ru.md" >}}) | 86 | 127 | 67.7 | /mnt/stockage/packages/f11/sakura/po/ru.po | 
- | [pt_BR]({{< ref "/f11/language/pt_BR.md" >}}) | 82 | 127 | 64.6 | /mnt/stockage/packages/f11/sakura/po/pt_BR.po | 
- | [cs]({{< ref "/f11/language/cs.md" >}}) | 63 | 127 | 49.6 | /mnt/stockage/packages/f11/sakura/po/cs.po | 
- | [it]({{< ref "/f11/language/it.md" >}}) | 62 | 127 | 48.8 | /mnt/stockage/packages/f11/sakura/po/it.po | 
- | [zh_Hans]({{< ref "/f11/language/zh_Hans.md" >}}) | 39 | 127 | 30.7 | /mnt/stockage/packages/f11/sakura/po/zh_CN.po | 
- | [hu]({{< ref "/f11/language/hu.md" >}}) | 34 | 127 | 26.8 | /mnt/stockage/packages/f11/sakura/po/hu.po | 
+ | [es](/f11/language/es) | 127 | 127 | 100.0 | /mnt/stockage/packages/f11/sakura/po/es.po | 
+ | [hr](/f11/language/hr) | 115 | 127 | 90.6 | /mnt/stockage/packages/f11/sakura/po/hr.po | 
+ | [fr](/f11/language/fr) | 104 | 127 | 81.9 | /mnt/stockage/packages/f11/sakura/po/fr.po | 
+ | [ca](/f11/language/ca) | 102 | 127 | 80.3 | /mnt/stockage/packages/f11/sakura/po/ca.po | 
+ | [ja](/f11/language/ja) | 94 | 127 | 74.0 | /mnt/stockage/packages/f11/sakura/po/ja.po | 
+ | [de](/f11/language/de) | 90 | 127 | 70.9 | /mnt/stockage/packages/f11/sakura/po/de.po | 
+ | [ru](/f11/language/ru) | 86 | 127 | 67.7 | /mnt/stockage/packages/f11/sakura/po/ru.po | 
+ | [pt_BR](/f11/language/pt_BR) | 82 | 127 | 64.6 | /mnt/stockage/packages/f11/sakura/po/pt_BR.po | 
+ | [cs](/f11/language/cs) | 63 | 127 | 49.6 | /mnt/stockage/packages/f11/sakura/po/cs.po | 
+ | [it](/f11/language/it) | 62 | 127 | 48.8 | /mnt/stockage/packages/f11/sakura/po/it.po | 
+ | [zh_Hans](/f11/language/zh_Hans) | 39 | 127 | 30.7 | /mnt/stockage/packages/f11/sakura/po/zh_CN.po | 
+ | [hu](/f11/language/hu) | 34 | 127 | 26.8 | /mnt/stockage/packages/f11/sakura/po/hu.po | 
 {.sortable}
 
 

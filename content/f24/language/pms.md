@@ -38,26 +38,26 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [mate-user-guide]({{< ref "/f24/package/mate-user-guide.md" >}}) | 5 | 5 | 100.0 | Piemontese (http://www.transifex.com/mate/MATE/language/pms/) | 
- | [python-caja]({{< ref "/f24/package/python-caja.md" >}}) | 6 | 6 | 100.0 | Piemontese (http://www.transifex.com/mate/MATE/language/pms/) | 
- | [mate-media]({{< ref "/f24/package/mate-media.md" >}}) | 25 | 225 | 11.1 | Piemontese (http://www.transifex.com/mate/MATE/language/pms/) | 
- | [eom]({{< ref "/f24/package/eom.md" >}}) | 146 | 1731 | 8.4 | Piemontese (http://www.transifex.com/mate/MATE/language/pms/) | 
- | [mozo]({{< ref "/f24/package/mozo.md" >}}) | 2 | 42 | 4.8 | Piemontese (http://www.transifex.com/mate/MATE/language/pms/) | 
- | [pluma]({{< ref "/f24/package/pluma.md" >}}) | 85 | 5058 | 1.7 | Piemontese (http://www.transifex.com/mate/MATE/language/pms/) | 
- | [mate-sensors-applet]({{< ref "/f24/package/mate-sensors-applet.md" >}}) | 4 | 304 | 1.3 | Piemontese (http://www.transifex.com/mate/MATE/language/pms/) | 
- | [mate-utils]({{< ref "/f24/package/mate-utils.md" >}}) | 32 | 3681 | 0.9 | Piemontese (http://www.transifex.com/mate/MATE/language/pms/) | 
- | [libmatemixer]({{< ref "/f24/package/libmatemixer.md" >}}) | 2 | 242 | 0.8 | Piemontese (http://www.transifex.com/mate/MATE/language/pms/) | 
- | [mate-system-monitor]({{< ref "/f24/package/mate-system-monitor.md" >}}) | 9 | 1307 | 0.7 | Piemontese (http://www.transifex.com/mate/MATE/language/pms/) | 
- | [atril]({{< ref "/f24/package/atril.md" >}}) | 12 | 1761 | 0.7 | Piemontese (http://www.transifex.com/mate/MATE/language/pms/) | 
- | [mate-power-manager]({{< ref "/f24/package/mate-power-manager.md" >}}) | 17 | 2725 | 0.6 | Piemontese (http://www.transifex.com/mate/MATE/language/pms/) | 
- | [mate-session-manager]({{< ref "/f24/package/mate-session-manager.md" >}}) | 4 | 681 | 0.6 | Piemontese (http://www.transifex.com/mate/MATE/language/pms/) | 
- | [caja]({{< ref "/f24/package/caja.md" >}}) | 46 | 9198 | 0.5 | Piemontese (http://www.transifex.com/mate/MATE/language/pms/) | 
- | [mate-settings-daemon]({{< ref "/f24/package/mate-settings-daemon.md" >}}) | 7 | 1704 | 0.4 | Piemontese (http://www.transifex.com/mate/MATE/language/pms/) | 
- | [mate-terminal]({{< ref "/f24/package/mate-terminal.md" >}}) | 13 | 4387 | 0.3 | Piemontese (http://www.transifex.com/mate/MATE/language/pms/) | 
- | [mate-control-center]({{< ref "/f24/package/mate-control-center.md" >}}) | 8 | 2762 | 0.3 | Piemontese (http://www.transifex.com/mate/MATE/language/pms/) | 
- | [mate-panel]({{< ref "/f24/package/mate-panel.md" >}}) | 11 | 4387 | 0.3 | Piemontese (http://www.transifex.com/mate/MATE/language/pms/) | 
- | [onboard]({{< ref "/f24/package/onboard.md" >}}) | 1 | 2318 | 0.0 | Piemontese <pms@li.org> | 
- | [deluge]({{< ref "/f24/package/deluge.md" >}}) | 0 | 2644 | 0.0 | Piemontese <pms@li.org> | 
+ | [mate-user-guide](/f24/package/mate-user-guide) | 5 | 5 | 100.0 | Piemontese (http://www.transifex.com/mate/MATE/language/pms/) | 
+ | [python-caja](/f24/package/python-caja) | 6 | 6 | 100.0 | Piemontese (http://www.transifex.com/mate/MATE/language/pms/) | 
+ | [mate-media](/f24/package/mate-media) | 25 | 225 | 11.1 | Piemontese (http://www.transifex.com/mate/MATE/language/pms/) | 
+ | [eom](/f24/package/eom) | 146 | 1731 | 8.4 | Piemontese (http://www.transifex.com/mate/MATE/language/pms/) | 
+ | [mozo](/f24/package/mozo) | 2 | 42 | 4.8 | Piemontese (http://www.transifex.com/mate/MATE/language/pms/) | 
+ | [pluma](/f24/package/pluma) | 85 | 5058 | 1.7 | Piemontese (http://www.transifex.com/mate/MATE/language/pms/) | 
+ | [mate-sensors-applet](/f24/package/mate-sensors-applet) | 4 | 304 | 1.3 | Piemontese (http://www.transifex.com/mate/MATE/language/pms/) | 
+ | [mate-utils](/f24/package/mate-utils) | 32 | 3681 | 0.9 | Piemontese (http://www.transifex.com/mate/MATE/language/pms/) | 
+ | [libmatemixer](/f24/package/libmatemixer) | 2 | 242 | 0.8 | Piemontese (http://www.transifex.com/mate/MATE/language/pms/) | 
+ | [mate-system-monitor](/f24/package/mate-system-monitor) | 9 | 1307 | 0.7 | Piemontese (http://www.transifex.com/mate/MATE/language/pms/) | 
+ | [atril](/f24/package/atril) | 12 | 1761 | 0.7 | Piemontese (http://www.transifex.com/mate/MATE/language/pms/) | 
+ | [mate-power-manager](/f24/package/mate-power-manager) | 17 | 2725 | 0.6 | Piemontese (http://www.transifex.com/mate/MATE/language/pms/) | 
+ | [mate-session-manager](/f24/package/mate-session-manager) | 4 | 681 | 0.6 | Piemontese (http://www.transifex.com/mate/MATE/language/pms/) | 
+ | [caja](/f24/package/caja) | 46 | 9198 | 0.5 | Piemontese (http://www.transifex.com/mate/MATE/language/pms/) | 
+ | [mate-settings-daemon](/f24/package/mate-settings-daemon) | 7 | 1704 | 0.4 | Piemontese (http://www.transifex.com/mate/MATE/language/pms/) | 
+ | [mate-terminal](/f24/package/mate-terminal) | 13 | 4387 | 0.3 | Piemontese (http://www.transifex.com/mate/MATE/language/pms/) | 
+ | [mate-control-center](/f24/package/mate-control-center) | 8 | 2762 | 0.3 | Piemontese (http://www.transifex.com/mate/MATE/language/pms/) | 
+ | [mate-panel](/f24/package/mate-panel) | 11 | 4387 | 0.3 | Piemontese (http://www.transifex.com/mate/MATE/language/pms/) | 
+ | [onboard](/f24/package/onboard) | 1 | 2318 | 0.0 | Piemontese <pms@li.org> | 
+ | [deluge](/f24/package/deluge) | 0 | 2644 | 0.0 | Piemontese <pms@li.org> | 
 {.sortable}
 
 

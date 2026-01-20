@@ -18,8 +18,8 @@ The package rrdtool (version 1.8.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f39/language/fr.md" >}}) | 480 | 546 | 87.9 | /mnt/stockage/packages/f39/rrdtool/po/fr.po | 
- | [hu]({{< ref "/f39/language/hu.md" >}}) | 451 | 546 | 82.6 | /mnt/stockage/packages/f39/rrdtool/po/hu.po | 
+ | [fr](/f39/language/fr) | 480 | 546 | 87.9 | /mnt/stockage/packages/f39/rrdtool/po/fr.po | 
+ | [hu](/f39/language/hu) | 451 | 546 | 82.6 | /mnt/stockage/packages/f39/rrdtool/po/hu.po | 
 {.sortable}
 
 

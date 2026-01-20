@@ -18,28 +18,28 @@ The package eiciel (version 0.9.12.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f33/language/ar.md" >}}) | 168 | 168 | 100.0 | /mnt/stockage/packages/f33/eiciel/po/ar.po | 
- | [ca]({{< ref "/f33/language/ca.md" >}}) | 168 | 168 | 100.0 | /mnt/stockage/packages/f33/eiciel/po/ca.po | 
- | [cs]({{< ref "/f33/language/cs.md" >}}) | 168 | 168 | 100.0 | /mnt/stockage/packages/f33/eiciel/po/cs.po | 
- | [de]({{< ref "/f33/language/de.md" >}}) | 168 | 168 | 100.0 | /mnt/stockage/packages/f33/eiciel/po/de.po | 
- | [es]({{< ref "/f33/language/es.md" >}}) | 168 | 168 | 100.0 | /mnt/stockage/packages/f33/eiciel/po/es.po | 
- | [fr]({{< ref "/f33/language/fr.md" >}}) | 168 | 168 | 100.0 | /mnt/stockage/packages/f33/eiciel/po/fr.po | 
- | [it]({{< ref "/f33/language/it.md" >}}) | 168 | 168 | 100.0 | /mnt/stockage/packages/f33/eiciel/po/it.po | 
- | [ja]({{< ref "/f33/language/ja.md" >}}) | 168 | 168 | 100.0 | /mnt/stockage/packages/f33/eiciel/po/ja.po | 
- | [nl]({{< ref "/f33/language/nl.md" >}}) | 168 | 168 | 100.0 | /mnt/stockage/packages/f33/eiciel/po/nl.po | 
- | [pl]({{< ref "/f33/language/pl.md" >}}) | 168 | 168 | 100.0 | /mnt/stockage/packages/f33/eiciel/po/pl.po | 
- | [pt_BR]({{< ref "/f33/language/pt_BR.md" >}}) | 168 | 168 | 100.0 | /mnt/stockage/packages/f33/eiciel/po/pt_BR.po | 
- | [ru]({{< ref "/f33/language/ru.md" >}}) | 168 | 168 | 100.0 | /mnt/stockage/packages/f33/eiciel/po/ru.po | 
- | [sv]({{< ref "/f33/language/sv.md" >}}) | 168 | 168 | 100.0 | /mnt/stockage/packages/f33/eiciel/po/sv.po | 
- | [uk]({{< ref "/f33/language/uk.md" >}}) | 168 | 168 | 100.0 | /mnt/stockage/packages/f33/eiciel/po/uk.po | 
- | [zh_Hans]({{< ref "/f33/language/zh_Hans.md" >}}) | 168 | 168 | 100.0 | /mnt/stockage/packages/f33/eiciel/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f33/language/zh_Hant.md" >}}) | 168 | 168 | 100.0 | /mnt/stockage/packages/f33/eiciel/po/zh_TW.po | 
- | [hu]({{< ref "/f33/language/hu.md" >}}) | 146 | 168 | 86.9 | /mnt/stockage/packages/f33/eiciel/po/hu.po | 
- | [ko]({{< ref "/f33/language/ko.md" >}}) | 146 | 168 | 86.9 | /mnt/stockage/packages/f33/eiciel/po/ko.po | 
- | [da]({{< ref "/f33/language/da.md" >}}) | 58 | 168 | 34.5 | /mnt/stockage/packages/f33/eiciel/po/da.po | 
- | [en_GB]({{< ref "/f33/language/en_GB.md" >}}) | 9 | 168 | 5.4 | /mnt/stockage/packages/f33/eiciel/po/en_GB.po | 
- | [en_US]({{< ref "/f33/language/en_US.md" >}}) | 3 | 168 | 1.8 | /mnt/stockage/packages/f33/eiciel/po/en_US.po | 
- | [nn]({{< ref "/f33/language/nn.md" >}}) | 0 | 168 | 0.0 | /mnt/stockage/packages/f33/eiciel/po/nn.po | 
+ | [ar](/f33/language/ar) | 168 | 168 | 100.0 | /mnt/stockage/packages/f33/eiciel/po/ar.po | 
+ | [ca](/f33/language/ca) | 168 | 168 | 100.0 | /mnt/stockage/packages/f33/eiciel/po/ca.po | 
+ | [cs](/f33/language/cs) | 168 | 168 | 100.0 | /mnt/stockage/packages/f33/eiciel/po/cs.po | 
+ | [de](/f33/language/de) | 168 | 168 | 100.0 | /mnt/stockage/packages/f33/eiciel/po/de.po | 
+ | [es](/f33/language/es) | 168 | 168 | 100.0 | /mnt/stockage/packages/f33/eiciel/po/es.po | 
+ | [fr](/f33/language/fr) | 168 | 168 | 100.0 | /mnt/stockage/packages/f33/eiciel/po/fr.po | 
+ | [it](/f33/language/it) | 168 | 168 | 100.0 | /mnt/stockage/packages/f33/eiciel/po/it.po | 
+ | [ja](/f33/language/ja) | 168 | 168 | 100.0 | /mnt/stockage/packages/f33/eiciel/po/ja.po | 
+ | [nl](/f33/language/nl) | 168 | 168 | 100.0 | /mnt/stockage/packages/f33/eiciel/po/nl.po | 
+ | [pl](/f33/language/pl) | 168 | 168 | 100.0 | /mnt/stockage/packages/f33/eiciel/po/pl.po | 
+ | [pt_BR](/f33/language/pt_BR) | 168 | 168 | 100.0 | /mnt/stockage/packages/f33/eiciel/po/pt_BR.po | 
+ | [ru](/f33/language/ru) | 168 | 168 | 100.0 | /mnt/stockage/packages/f33/eiciel/po/ru.po | 
+ | [sv](/f33/language/sv) | 168 | 168 | 100.0 | /mnt/stockage/packages/f33/eiciel/po/sv.po | 
+ | [uk](/f33/language/uk) | 168 | 168 | 100.0 | /mnt/stockage/packages/f33/eiciel/po/uk.po | 
+ | [zh_Hans](/f33/language/zh_Hans) | 168 | 168 | 100.0 | /mnt/stockage/packages/f33/eiciel/po/zh_CN.po | 
+ | [zh_Hant](/f33/language/zh_Hant) | 168 | 168 | 100.0 | /mnt/stockage/packages/f33/eiciel/po/zh_TW.po | 
+ | [hu](/f33/language/hu) | 146 | 168 | 86.9 | /mnt/stockage/packages/f33/eiciel/po/hu.po | 
+ | [ko](/f33/language/ko) | 146 | 168 | 86.9 | /mnt/stockage/packages/f33/eiciel/po/ko.po | 
+ | [da](/f33/language/da) | 58 | 168 | 34.5 | /mnt/stockage/packages/f33/eiciel/po/da.po | 
+ | [en_GB](/f33/language/en_GB) | 9 | 168 | 5.4 | /mnt/stockage/packages/f33/eiciel/po/en_GB.po | 
+ | [en_US](/f33/language/en_US) | 3 | 168 | 1.8 | /mnt/stockage/packages/f33/eiciel/po/en_US.po | 
+ | [nn](/f33/language/nn) | 0 | 168 | 0.0 | /mnt/stockage/packages/f33/eiciel/po/nn.po | 
 {.sortable}
 
 

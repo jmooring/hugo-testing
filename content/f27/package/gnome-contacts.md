@@ -18,76 +18,76 @@ The package gnome-contacts (version 3.26.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [af]({{< ref "/f27/language/af.md" >}}) | 417 | 417 | 100.0 | /mnt/stockage/packages/f27/gnome-contacts/po/af.po | 
- | [as]({{< ref "/f27/language/as.md" >}}) | 405 | 405 | 100.0 | /mnt/stockage/packages/f27/gnome-contacts/po/as.po | 
- | [ast]({{< ref "/f27/language/ast.md" >}}) | 205 | 205 | 100.0 | /mnt/stockage/packages/f27/gnome-contacts/po/ast.po | 
- | [be]({{< ref "/f27/language/be.md" >}}) | 422 | 422 | 100.0 | /mnt/stockage/packages/f27/gnome-contacts/po/be.po | 
- | [bg]({{< ref "/f27/language/bg.md" >}}) | 288 | 288 | 100.0 | /mnt/stockage/packages/f27/gnome-contacts/po/bg.po | 
- | [bn_IN]({{< ref "/f27/language/bn_IN.md" >}}) | 405 | 405 | 100.0 | /mnt/stockage/packages/f27/gnome-contacts/po/bn_IN.po | 
- | [bs]({{< ref "/f27/language/bs.md" >}}) | 411 | 411 | 100.0 | /mnt/stockage/packages/f27/gnome-contacts/po/bs.po | 
- | [ca]({{< ref "/f27/language/ca.md" >}}) | 422 | 422 | 100.0 | /mnt/stockage/packages/f27/gnome-contacts/po/ca.po | 
- | [ca@valencia]({{< ref "/f27/language/ca@valencia.md" >}}) | 417 | 417 | 100.0 | /mnt/stockage/packages/f27/gnome-contacts/po/ca@valencia.po | 
- | [cs]({{< ref "/f27/language/cs.md" >}}) | 422 | 422 | 100.0 | /mnt/stockage/packages/f27/gnome-contacts/po/cs.po | 
- | [da]({{< ref "/f27/language/da.md" >}}) | 422 | 422 | 100.0 | /mnt/stockage/packages/f27/gnome-contacts/po/da.po | 
- | [de]({{< ref "/f27/language/de.md" >}}) | 422 | 422 | 100.0 | /mnt/stockage/packages/f27/gnome-contacts/po/de.po | 
- | [el]({{< ref "/f27/language/el.md" >}}) | 417 | 417 | 100.0 | /mnt/stockage/packages/f27/gnome-contacts/po/el.po | 
- | [en_CA]({{< ref "/f27/language/en_CA.md" >}}) | 309 | 309 | 100.0 | /mnt/stockage/packages/f27/gnome-contacts/po/en_CA.po | 
- | [en_GB]({{< ref "/f27/language/en_GB.md" >}}) | 433 | 433 | 100.0 | /mnt/stockage/packages/f27/gnome-contacts/po/en_GB.po | 
- | [eo]({{< ref "/f27/language/eo.md" >}}) | 434 | 434 | 100.0 | /mnt/stockage/packages/f27/gnome-contacts/po/eo.po | 
- | [es]({{< ref "/f27/language/es.md" >}}) | 417 | 417 | 100.0 | /mnt/stockage/packages/f27/gnome-contacts/po/es.po | 
- | [et]({{< ref "/f27/language/et.md" >}}) | 331 | 331 | 100.0 | /mnt/stockage/packages/f27/gnome-contacts/po/et.po | 
- | [eu]({{< ref "/f27/language/eu.md" >}}) | 422 | 422 | 100.0 | /mnt/stockage/packages/f27/gnome-contacts/po/eu.po | 
- | [fa]({{< ref "/f27/language/fa.md" >}}) | 422 | 422 | 100.0 | /mnt/stockage/packages/f27/gnome-contacts/po/fa.po | 
- | [fi]({{< ref "/f27/language/fi.md" >}}) | 422 | 422 | 100.0 | /mnt/stockage/packages/f27/gnome-contacts/po/fi.po | 
- | [fr]({{< ref "/f27/language/fr.md" >}}) | 417 | 417 | 100.0 | /mnt/stockage/packages/f27/gnome-contacts/po/fr.po | 
- | [fur]({{< ref "/f27/language/fur.md" >}}) | 422 | 422 | 100.0 | /mnt/stockage/packages/f27/gnome-contacts/po/fur.po | 
- | [gd]({{< ref "/f27/language/gd.md" >}}) | 433 | 433 | 100.0 | /mnt/stockage/packages/f27/gnome-contacts/po/gd.po | 
- | [gl]({{< ref "/f27/language/gl.md" >}}) | 422 | 422 | 100.0 | /mnt/stockage/packages/f27/gnome-contacts/po/gl.po | 
- | [gu]({{< ref "/f27/language/gu.md" >}}) | 433 | 433 | 100.0 | /mnt/stockage/packages/f27/gnome-contacts/po/gu.po | 
- | [he]({{< ref "/f27/language/he.md" >}}) | 433 | 433 | 100.0 | /mnt/stockage/packages/f27/gnome-contacts/po/he.po | 
- | [hi]({{< ref "/f27/language/hi.md" >}}) | 405 | 405 | 100.0 | /mnt/stockage/packages/f27/gnome-contacts/po/hi.po | 
- | [hr]({{< ref "/f27/language/hr.md" >}}) | 422 | 422 | 100.0 | /mnt/stockage/packages/f27/gnome-contacts/po/hr.po | 
- | [hu]({{< ref "/f27/language/hu.md" >}}) | 422 | 422 | 100.0 | /mnt/stockage/packages/f27/gnome-contacts/po/hu.po | 
- | [id]({{< ref "/f27/language/id.md" >}}) | 422 | 422 | 100.0 | /mnt/stockage/packages/f27/gnome-contacts/po/id.po | 
- | [is]({{< ref "/f27/language/is.md" >}}) | 433 | 433 | 100.0 | /mnt/stockage/packages/f27/gnome-contacts/po/is.po | 
- | [it]({{< ref "/f27/language/it.md" >}}) | 422 | 422 | 100.0 | /mnt/stockage/packages/f27/gnome-contacts/po/it.po | 
- | [ja]({{< ref "/f27/language/ja.md" >}}) | 433 | 433 | 100.0 | /mnt/stockage/packages/f27/gnome-contacts/po/ja.po | 
- | [kk]({{< ref "/f27/language/kk.md" >}}) | 422 | 422 | 100.0 | /mnt/stockage/packages/f27/gnome-contacts/po/kk.po | 
- | [kn]({{< ref "/f27/language/kn.md" >}}) | 405 | 405 | 100.0 | /mnt/stockage/packages/f27/gnome-contacts/po/kn.po | 
- | [ko]({{< ref "/f27/language/ko.md" >}}) | 422 | 422 | 100.0 | /mnt/stockage/packages/f27/gnome-contacts/po/ko.po | 
- | [lt]({{< ref "/f27/language/lt.md" >}}) | 422 | 422 | 100.0 | /mnt/stockage/packages/f27/gnome-contacts/po/lt.po | 
- | [lv]({{< ref "/f27/language/lv.md" >}}) | 422 | 422 | 100.0 | /mnt/stockage/packages/f27/gnome-contacts/po/lv.po | 
- | [mk]({{< ref "/f27/language/mk.md" >}}) | 231 | 231 | 100.0 | /mnt/stockage/packages/f27/gnome-contacts/po/mk.po | 
- | [ml]({{< ref "/f27/language/ml.md" >}}) | 344 | 344 | 100.0 | /mnt/stockage/packages/f27/gnome-contacts/po/ml.po | 
- | [mr]({{< ref "/f27/language/mr.md" >}}) | 405 | 405 | 100.0 | /mnt/stockage/packages/f27/gnome-contacts/po/mr.po | 
- | [nb_NO]({{< ref "/f27/language/nb_NO.md" >}}) | 417 | 417 | 100.0 | /mnt/stockage/packages/f27/gnome-contacts/po/nb.po | 
- | [ne]({{< ref "/f27/language/ne.md" >}}) | 417 | 417 | 100.0 | /mnt/stockage/packages/f27/gnome-contacts/po/ne.po | 
- | [nl]({{< ref "/f27/language/nl.md" >}}) | 417 | 417 | 100.0 | /mnt/stockage/packages/f27/gnome-contacts/po/nl.po | 
- | [oc]({{< ref "/f27/language/oc.md" >}}) | 433 | 433 | 100.0 | /mnt/stockage/packages/f27/gnome-contacts/po/oc.po | 
- | [or]({{< ref "/f27/language/or.md" >}}) | 405 | 405 | 100.0 | /mnt/stockage/packages/f27/gnome-contacts/po/or.po | 
- | [pa]({{< ref "/f27/language/pa.md" >}}) | 411 | 411 | 100.0 | /mnt/stockage/packages/f27/gnome-contacts/po/pa.po | 
- | [pl]({{< ref "/f27/language/pl.md" >}}) | 422 | 422 | 100.0 | /mnt/stockage/packages/f27/gnome-contacts/po/pl.po | 
- | [pt]({{< ref "/f27/language/pt.md" >}}) | 433 | 433 | 100.0 | /mnt/stockage/packages/f27/gnome-contacts/po/pt.po | 
- | [pt_BR]({{< ref "/f27/language/pt_BR.md" >}}) | 422 | 422 | 100.0 | /mnt/stockage/packages/f27/gnome-contacts/po/pt_BR.po | 
- | [ro]({{< ref "/f27/language/ro.md" >}}) | 210 | 210 | 100.0 | /mnt/stockage/packages/f27/gnome-contacts/po/ro.po | 
- | [ru]({{< ref "/f27/language/ru.md" >}}) | 417 | 417 | 100.0 | /mnt/stockage/packages/f27/gnome-contacts/po/ru.po | 
- | [sk]({{< ref "/f27/language/sk.md" >}}) | 417 | 417 | 100.0 | /mnt/stockage/packages/f27/gnome-contacts/po/sk.po | 
- | [sl]({{< ref "/f27/language/sl.md" >}}) | 422 | 422 | 100.0 | /mnt/stockage/packages/f27/gnome-contacts/po/sl.po | 
- | [sr]({{< ref "/f27/language/sr.md" >}}) | 844 | 844 | 100.0 | /mnt/stockage/packages/f27/gnome-contacts/po/sr@latin.po/mnt/stockage/packages/f27/gnome-contacts/po/sr.po | 
- | [sv]({{< ref "/f27/language/sv.md" >}}) | 422 | 422 | 100.0 | /mnt/stockage/packages/f27/gnome-contacts/po/sv.po | 
- | [ta]({{< ref "/f27/language/ta.md" >}}) | 405 | 405 | 100.0 | /mnt/stockage/packages/f27/gnome-contacts/po/ta.po | 
- | [te]({{< ref "/f27/language/te.md" >}}) | 405 | 405 | 100.0 | /mnt/stockage/packages/f27/gnome-contacts/po/te.po | 
- | [tg]({{< ref "/f27/language/tg.md" >}}) | 411 | 411 | 100.0 | /mnt/stockage/packages/f27/gnome-contacts/po/tg.po | 
- | [th]({{< ref "/f27/language/th.md" >}}) | 433 | 433 | 100.0 | /mnt/stockage/packages/f27/gnome-contacts/po/th.po | 
- | [tr]({{< ref "/f27/language/tr.md" >}}) | 422 | 422 | 100.0 | /mnt/stockage/packages/f27/gnome-contacts/po/tr.po | 
- | [ug]({{< ref "/f27/language/ug.md" >}}) | 344 | 344 | 100.0 | /mnt/stockage/packages/f27/gnome-contacts/po/ug.po | 
- | [uk]({{< ref "/f27/language/uk.md" >}}) | 311 | 311 | 100.0 | /mnt/stockage/packages/f27/gnome-contacts/po/uk.po | 
- | [vi]({{< ref "/f27/language/vi.md" >}}) | 433 | 433 | 100.0 | /mnt/stockage/packages/f27/gnome-contacts/po/vi.po | 
- | [zh_Hans]({{< ref "/f27/language/zh_Hans.md" >}}) | 434 | 434 | 100.0 | /mnt/stockage/packages/f27/gnome-contacts/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f27/language/zh_Hant.md" >}}) | 422 | 422 | 100.0 | /mnt/stockage/packages/f27/gnome-contacts/po/zh_TW.po | 
- | [zh_Hant_HK]({{< ref "/f27/language/zh_Hant_HK.md" >}}) | 405 | 405 | 100.0 | /mnt/stockage/packages/f27/gnome-contacts/po/zh_HK.po | 
- | [ar]({{< ref "/f27/language/ar.md" >}}) | 380 | 433 | 87.8 | /mnt/stockage/packages/f27/gnome-contacts/po/ar.po | 
- | [ga]({{< ref "/f27/language/ga.md" >}}) | 184 | 330 | 55.8 | /mnt/stockage/packages/f27/gnome-contacts/po/ga.po | 
+ | [af](/f27/language/af) | 417 | 417 | 100.0 | /mnt/stockage/packages/f27/gnome-contacts/po/af.po | 
+ | [as](/f27/language/as) | 405 | 405 | 100.0 | /mnt/stockage/packages/f27/gnome-contacts/po/as.po | 
+ | [ast](/f27/language/ast) | 205 | 205 | 100.0 | /mnt/stockage/packages/f27/gnome-contacts/po/ast.po | 
+ | [be](/f27/language/be) | 422 | 422 | 100.0 | /mnt/stockage/packages/f27/gnome-contacts/po/be.po | 
+ | [bg](/f27/language/bg) | 288 | 288 | 100.0 | /mnt/stockage/packages/f27/gnome-contacts/po/bg.po | 
+ | [bn_IN](/f27/language/bn_IN) | 405 | 405 | 100.0 | /mnt/stockage/packages/f27/gnome-contacts/po/bn_IN.po | 
+ | [bs](/f27/language/bs) | 411 | 411 | 100.0 | /mnt/stockage/packages/f27/gnome-contacts/po/bs.po | 
+ | [ca](/f27/language/ca) | 422 | 422 | 100.0 | /mnt/stockage/packages/f27/gnome-contacts/po/ca.po | 
+ | [ca@valencia](/f27/language/ca@valencia) | 417 | 417 | 100.0 | /mnt/stockage/packages/f27/gnome-contacts/po/ca@valencia.po | 
+ | [cs](/f27/language/cs) | 422 | 422 | 100.0 | /mnt/stockage/packages/f27/gnome-contacts/po/cs.po | 
+ | [da](/f27/language/da) | 422 | 422 | 100.0 | /mnt/stockage/packages/f27/gnome-contacts/po/da.po | 
+ | [de](/f27/language/de) | 422 | 422 | 100.0 | /mnt/stockage/packages/f27/gnome-contacts/po/de.po | 
+ | [el](/f27/language/el) | 417 | 417 | 100.0 | /mnt/stockage/packages/f27/gnome-contacts/po/el.po | 
+ | [en_CA](/f27/language/en_CA) | 309 | 309 | 100.0 | /mnt/stockage/packages/f27/gnome-contacts/po/en_CA.po | 
+ | [en_GB](/f27/language/en_GB) | 433 | 433 | 100.0 | /mnt/stockage/packages/f27/gnome-contacts/po/en_GB.po | 
+ | [eo](/f27/language/eo) | 434 | 434 | 100.0 | /mnt/stockage/packages/f27/gnome-contacts/po/eo.po | 
+ | [es](/f27/language/es) | 417 | 417 | 100.0 | /mnt/stockage/packages/f27/gnome-contacts/po/es.po | 
+ | [et](/f27/language/et) | 331 | 331 | 100.0 | /mnt/stockage/packages/f27/gnome-contacts/po/et.po | 
+ | [eu](/f27/language/eu) | 422 | 422 | 100.0 | /mnt/stockage/packages/f27/gnome-contacts/po/eu.po | 
+ | [fa](/f27/language/fa) | 422 | 422 | 100.0 | /mnt/stockage/packages/f27/gnome-contacts/po/fa.po | 
+ | [fi](/f27/language/fi) | 422 | 422 | 100.0 | /mnt/stockage/packages/f27/gnome-contacts/po/fi.po | 
+ | [fr](/f27/language/fr) | 417 | 417 | 100.0 | /mnt/stockage/packages/f27/gnome-contacts/po/fr.po | 
+ | [fur](/f27/language/fur) | 422 | 422 | 100.0 | /mnt/stockage/packages/f27/gnome-contacts/po/fur.po | 
+ | [gd](/f27/language/gd) | 433 | 433 | 100.0 | /mnt/stockage/packages/f27/gnome-contacts/po/gd.po | 
+ | [gl](/f27/language/gl) | 422 | 422 | 100.0 | /mnt/stockage/packages/f27/gnome-contacts/po/gl.po | 
+ | [gu](/f27/language/gu) | 433 | 433 | 100.0 | /mnt/stockage/packages/f27/gnome-contacts/po/gu.po | 
+ | [he](/f27/language/he) | 433 | 433 | 100.0 | /mnt/stockage/packages/f27/gnome-contacts/po/he.po | 
+ | [hi](/f27/language/hi) | 405 | 405 | 100.0 | /mnt/stockage/packages/f27/gnome-contacts/po/hi.po | 
+ | [hr](/f27/language/hr) | 422 | 422 | 100.0 | /mnt/stockage/packages/f27/gnome-contacts/po/hr.po | 
+ | [hu](/f27/language/hu) | 422 | 422 | 100.0 | /mnt/stockage/packages/f27/gnome-contacts/po/hu.po | 
+ | [id](/f27/language/id) | 422 | 422 | 100.0 | /mnt/stockage/packages/f27/gnome-contacts/po/id.po | 
+ | [is](/f27/language/is) | 433 | 433 | 100.0 | /mnt/stockage/packages/f27/gnome-contacts/po/is.po | 
+ | [it](/f27/language/it) | 422 | 422 | 100.0 | /mnt/stockage/packages/f27/gnome-contacts/po/it.po | 
+ | [ja](/f27/language/ja) | 433 | 433 | 100.0 | /mnt/stockage/packages/f27/gnome-contacts/po/ja.po | 
+ | [kk](/f27/language/kk) | 422 | 422 | 100.0 | /mnt/stockage/packages/f27/gnome-contacts/po/kk.po | 
+ | [kn](/f27/language/kn) | 405 | 405 | 100.0 | /mnt/stockage/packages/f27/gnome-contacts/po/kn.po | 
+ | [ko](/f27/language/ko) | 422 | 422 | 100.0 | /mnt/stockage/packages/f27/gnome-contacts/po/ko.po | 
+ | [lt](/f27/language/lt) | 422 | 422 | 100.0 | /mnt/stockage/packages/f27/gnome-contacts/po/lt.po | 
+ | [lv](/f27/language/lv) | 422 | 422 | 100.0 | /mnt/stockage/packages/f27/gnome-contacts/po/lv.po | 
+ | [mk](/f27/language/mk) | 231 | 231 | 100.0 | /mnt/stockage/packages/f27/gnome-contacts/po/mk.po | 
+ | [ml](/f27/language/ml) | 344 | 344 | 100.0 | /mnt/stockage/packages/f27/gnome-contacts/po/ml.po | 
+ | [mr](/f27/language/mr) | 405 | 405 | 100.0 | /mnt/stockage/packages/f27/gnome-contacts/po/mr.po | 
+ | [nb_NO](/f27/language/nb_NO) | 417 | 417 | 100.0 | /mnt/stockage/packages/f27/gnome-contacts/po/nb.po | 
+ | [ne](/f27/language/ne) | 417 | 417 | 100.0 | /mnt/stockage/packages/f27/gnome-contacts/po/ne.po | 
+ | [nl](/f27/language/nl) | 417 | 417 | 100.0 | /mnt/stockage/packages/f27/gnome-contacts/po/nl.po | 
+ | [oc](/f27/language/oc) | 433 | 433 | 100.0 | /mnt/stockage/packages/f27/gnome-contacts/po/oc.po | 
+ | [or](/f27/language/or) | 405 | 405 | 100.0 | /mnt/stockage/packages/f27/gnome-contacts/po/or.po | 
+ | [pa](/f27/language/pa) | 411 | 411 | 100.0 | /mnt/stockage/packages/f27/gnome-contacts/po/pa.po | 
+ | [pl](/f27/language/pl) | 422 | 422 | 100.0 | /mnt/stockage/packages/f27/gnome-contacts/po/pl.po | 
+ | [pt](/f27/language/pt) | 433 | 433 | 100.0 | /mnt/stockage/packages/f27/gnome-contacts/po/pt.po | 
+ | [pt_BR](/f27/language/pt_BR) | 422 | 422 | 100.0 | /mnt/stockage/packages/f27/gnome-contacts/po/pt_BR.po | 
+ | [ro](/f27/language/ro) | 210 | 210 | 100.0 | /mnt/stockage/packages/f27/gnome-contacts/po/ro.po | 
+ | [ru](/f27/language/ru) | 417 | 417 | 100.0 | /mnt/stockage/packages/f27/gnome-contacts/po/ru.po | 
+ | [sk](/f27/language/sk) | 417 | 417 | 100.0 | /mnt/stockage/packages/f27/gnome-contacts/po/sk.po | 
+ | [sl](/f27/language/sl) | 422 | 422 | 100.0 | /mnt/stockage/packages/f27/gnome-contacts/po/sl.po | 
+ | [sr](/f27/language/sr) | 844 | 844 | 100.0 | /mnt/stockage/packages/f27/gnome-contacts/po/sr@latin.po/mnt/stockage/packages/f27/gnome-contacts/po/sr.po | 
+ | [sv](/f27/language/sv) | 422 | 422 | 100.0 | /mnt/stockage/packages/f27/gnome-contacts/po/sv.po | 
+ | [ta](/f27/language/ta) | 405 | 405 | 100.0 | /mnt/stockage/packages/f27/gnome-contacts/po/ta.po | 
+ | [te](/f27/language/te) | 405 | 405 | 100.0 | /mnt/stockage/packages/f27/gnome-contacts/po/te.po | 
+ | [tg](/f27/language/tg) | 411 | 411 | 100.0 | /mnt/stockage/packages/f27/gnome-contacts/po/tg.po | 
+ | [th](/f27/language/th) | 433 | 433 | 100.0 | /mnt/stockage/packages/f27/gnome-contacts/po/th.po | 
+ | [tr](/f27/language/tr) | 422 | 422 | 100.0 | /mnt/stockage/packages/f27/gnome-contacts/po/tr.po | 
+ | [ug](/f27/language/ug) | 344 | 344 | 100.0 | /mnt/stockage/packages/f27/gnome-contacts/po/ug.po | 
+ | [uk](/f27/language/uk) | 311 | 311 | 100.0 | /mnt/stockage/packages/f27/gnome-contacts/po/uk.po | 
+ | [vi](/f27/language/vi) | 433 | 433 | 100.0 | /mnt/stockage/packages/f27/gnome-contacts/po/vi.po | 
+ | [zh_Hans](/f27/language/zh_Hans) | 434 | 434 | 100.0 | /mnt/stockage/packages/f27/gnome-contacts/po/zh_CN.po | 
+ | [zh_Hant](/f27/language/zh_Hant) | 422 | 422 | 100.0 | /mnt/stockage/packages/f27/gnome-contacts/po/zh_TW.po | 
+ | [zh_Hant_HK](/f27/language/zh_Hant_HK) | 405 | 405 | 100.0 | /mnt/stockage/packages/f27/gnome-contacts/po/zh_HK.po | 
+ | [ar](/f27/language/ar) | 380 | 433 | 87.8 | /mnt/stockage/packages/f27/gnome-contacts/po/ar.po | 
+ | [ga](/f27/language/ga) | 184 | 330 | 55.8 | /mnt/stockage/packages/f27/gnome-contacts/po/ga.po | 
 {.sortable}
 
 

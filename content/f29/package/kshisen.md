@@ -18,58 +18,58 @@ The package kshisen (version 19.04.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f29/language/ca.md" >}}) | 568 | 568 | 100.0 | /mnt/stockage/packages/f29/kshisen/po/ca/kshisen.po | 
- | [ca@valencia]({{< ref "/f29/language/ca@valencia.md" >}}) | 568 | 568 | 100.0 | /mnt/stockage/packages/f29/kshisen/po/ca@valencia/kshisen.po | 
- | [cs]({{< ref "/f29/language/cs.md" >}}) | 568 | 568 | 100.0 | /mnt/stockage/packages/f29/kshisen/po/cs/kshisen.po | 
- | [de]({{< ref "/f29/language/de.md" >}}) | 568 | 568 | 100.0 | /mnt/stockage/packages/f29/kshisen/po/de/kshisen.po | 
- | [en_GB]({{< ref "/f29/language/en_GB.md" >}}) | 568 | 568 | 100.0 | /mnt/stockage/packages/f29/kshisen/po/en_GB/kshisen.po | 
- | [es]({{< ref "/f29/language/es.md" >}}) | 568 | 568 | 100.0 | /mnt/stockage/packages/f29/kshisen/po/es/kshisen.po | 
- | [fi]({{< ref "/f29/language/fi.md" >}}) | 568 | 568 | 100.0 | /mnt/stockage/packages/f29/kshisen/po/fi/kshisen.po | 
- | [fr]({{< ref "/f29/language/fr.md" >}}) | 568 | 568 | 100.0 | /mnt/stockage/packages/f29/kshisen/po/fr/kshisen.po | 
- | [gl]({{< ref "/f29/language/gl.md" >}}) | 568 | 568 | 100.0 | /mnt/stockage/packages/f29/kshisen/po/gl/kshisen.po | 
- | [id]({{< ref "/f29/language/id.md" >}}) | 568 | 568 | 100.0 | /mnt/stockage/packages/f29/kshisen/po/id/kshisen.po | 
- | [it]({{< ref "/f29/language/it.md" >}}) | 568 | 568 | 100.0 | /mnt/stockage/packages/f29/kshisen/po/it/kshisen.po | 
- | [ko]({{< ref "/f29/language/ko.md" >}}) | 568 | 568 | 100.0 | /mnt/stockage/packages/f29/kshisen/po/ko/kshisen.po | 
- | [nl]({{< ref "/f29/language/nl.md" >}}) | 568 | 568 | 100.0 | /mnt/stockage/packages/f29/kshisen/po/nl/kshisen.po | 
- | [nn]({{< ref "/f29/language/nn.md" >}}) | 568 | 568 | 100.0 | /mnt/stockage/packages/f29/kshisen/po/nn/kshisen.po | 
- | [pl]({{< ref "/f29/language/pl.md" >}}) | 568 | 568 | 100.0 | /mnt/stockage/packages/f29/kshisen/po/pl/kshisen.po | 
- | [pt]({{< ref "/f29/language/pt.md" >}}) | 568 | 568 | 100.0 | /mnt/stockage/packages/f29/kshisen/po/pt/kshisen.po | 
- | [pt_BR]({{< ref "/f29/language/pt_BR.md" >}}) | 568 | 568 | 100.0 | /mnt/stockage/packages/f29/kshisen/po/pt_BR/kshisen.po | 
- | [sl]({{< ref "/f29/language/sl.md" >}}) | 568 | 568 | 100.0 | /mnt/stockage/packages/f29/kshisen/po/sl/kshisen.po | 
- | [sv]({{< ref "/f29/language/sv.md" >}}) | 568 | 568 | 100.0 | /mnt/stockage/packages/f29/kshisen/po/sv/kshisen.po | 
- | [uk]({{< ref "/f29/language/uk.md" >}}) | 568 | 568 | 100.0 | /mnt/stockage/packages/f29/kshisen/po/uk/kshisen.po | 
- | [zh_Hans]({{< ref "/f29/language/zh_Hans.md" >}}) | 568 | 568 | 100.0 | /mnt/stockage/packages/f29/kshisen/po/zh_CN/kshisen.po | 
- | [zh_Hant]({{< ref "/f29/language/zh_Hant.md" >}}) | 568 | 568 | 100.0 | /mnt/stockage/packages/f29/kshisen/po/zh_TW/kshisen.po | 
- | [da]({{< ref "/f29/language/da.md" >}}) | 522 | 568 | 91.9 | /mnt/stockage/packages/f29/kshisen/po/da/kshisen.po | 
- | [et]({{< ref "/f29/language/et.md" >}}) | 522 | 568 | 91.9 | /mnt/stockage/packages/f29/kshisen/po/et/kshisen.po | 
- | [ru]({{< ref "/f29/language/ru.md" >}}) | 522 | 568 | 91.9 | /mnt/stockage/packages/f29/kshisen/po/ru/kshisen.po | 
- | [sk]({{< ref "/f29/language/sk.md" >}}) | 522 | 568 | 91.9 | /mnt/stockage/packages/f29/kshisen/po/sk/kshisen.po | 
- | [sr]({{< ref "/f29/language/sr.md" >}}) | 522 | 568 | 91.9 | /mnt/stockage/packages/f29/kshisen/po/sr/kshisen.po | 
- | [tr]({{< ref "/f29/language/tr.md" >}}) | 522 | 568 | 91.9 | /mnt/stockage/packages/f29/kshisen/po/tr/kshisen.po | 
- | [el]({{< ref "/f29/language/el.md" >}}) | 520 | 568 | 91.5 | /mnt/stockage/packages/f29/kshisen/po/el/kshisen.po | 
- | [bs]({{< ref "/f29/language/bs.md" >}}) | 518 | 568 | 91.2 | /mnt/stockage/packages/f29/kshisen/po/bs/kshisen.po | 
- | [ga]({{< ref "/f29/language/ga.md" >}}) | 518 | 568 | 91.2 | /mnt/stockage/packages/f29/kshisen/po/ga/kshisen.po | 
- | [hu]({{< ref "/f29/language/hu.md" >}}) | 518 | 568 | 91.2 | /mnt/stockage/packages/f29/kshisen/po/hu/kshisen.po | 
- | [kk]({{< ref "/f29/language/kk.md" >}}) | 518 | 568 | 91.2 | /mnt/stockage/packages/f29/kshisen/po/kk/kshisen.po | 
- | [km]({{< ref "/f29/language/km.md" >}}) | 518 | 568 | 91.2 | /mnt/stockage/packages/f29/kshisen/po/km/kshisen.po | 
- | [nb_NO]({{< ref "/f29/language/nb_NO.md" >}}) | 518 | 568 | 91.2 | /mnt/stockage/packages/f29/kshisen/po/nb/kshisen.po | 
- | [nds]({{< ref "/f29/language/nds.md" >}}) | 518 | 568 | 91.2 | /mnt/stockage/packages/f29/kshisen/po/nds/kshisen.po | 
- | [ja]({{< ref "/f29/language/ja.md" >}}) | 512 | 568 | 90.1 | /mnt/stockage/packages/f29/kshisen/po/ja/kshisen.po | 
- | [lv]({{< ref "/f29/language/lv.md" >}}) | 472 | 568 | 83.1 | /mnt/stockage/packages/f29/kshisen/po/lv/kshisen.po | 
- | [eu]({{< ref "/f29/language/eu.md" >}}) | 460 | 568 | 81.0 | /mnt/stockage/packages/f29/kshisen/po/eu/kshisen.po | 
- | [fa]({{< ref "/f29/language/fa.md" >}}) | 122 | 568 | 21.5 | /mnt/stockage/packages/f29/kshisen/po/fa/kshisen.po | 
- | [hi]({{< ref "/f29/language/hi.md" >}}) | 100 | 568 | 17.6 | /mnt/stockage/packages/f29/kshisen/po/hi/kshisen.po | 
- | [bg]({{< ref "/f29/language/bg.md" >}}) | 76 | 568 | 13.4 | /mnt/stockage/packages/f29/kshisen/po/bg/kshisen.po | 
- | [pa]({{< ref "/f29/language/pa.md" >}}) | 65 | 568 | 11.4 | /mnt/stockage/packages/f29/kshisen/po/pa/kshisen.po | 
- | [lt]({{< ref "/f29/language/lt.md" >}}) | 57 | 568 | 10.0 | /mnt/stockage/packages/f29/kshisen/po/lt/kshisen.po | 
- | [ro]({{< ref "/f29/language/ro.md" >}}) | 57 | 568 | 10.0 | /mnt/stockage/packages/f29/kshisen/po/ro/kshisen.po | 
- | [hr]({{< ref "/f29/language/hr.md" >}}) | 46 | 568 | 8.1 | /mnt/stockage/packages/f29/kshisen/po/hr/kshisen.po | 
- | [ug]({{< ref "/f29/language/ug.md" >}}) | 41 | 568 | 7.2 | /mnt/stockage/packages/f29/kshisen/po/ug/kshisen.po | 
- | [eo]({{< ref "/f29/language/eo.md" >}}) | 35 | 568 | 6.2 | /mnt/stockage/packages/f29/kshisen/po/eo/kshisen.po | 
- | [mr]({{< ref "/f29/language/mr.md" >}}) | 35 | 568 | 6.2 | /mnt/stockage/packages/f29/kshisen/po/mr/kshisen.po | 
- | [he]({{< ref "/f29/language/he.md" >}}) | 29 | 568 | 5.1 | /mnt/stockage/packages/f29/kshisen/po/he/kshisen.po | 
- | [is]({{< ref "/f29/language/is.md" >}}) | 29 | 568 | 5.1 | /mnt/stockage/packages/f29/kshisen/po/is/kshisen.po | 
- | [ar]({{< ref "/f29/language/ar.md" >}}) | 0 | 568 | 0.0 | /mnt/stockage/packages/f29/kshisen/po/ar/kshisen.po | 
+ | [ca](/f29/language/ca) | 568 | 568 | 100.0 | /mnt/stockage/packages/f29/kshisen/po/ca/kshisen.po | 
+ | [ca@valencia](/f29/language/ca@valencia) | 568 | 568 | 100.0 | /mnt/stockage/packages/f29/kshisen/po/ca@valencia/kshisen.po | 
+ | [cs](/f29/language/cs) | 568 | 568 | 100.0 | /mnt/stockage/packages/f29/kshisen/po/cs/kshisen.po | 
+ | [de](/f29/language/de) | 568 | 568 | 100.0 | /mnt/stockage/packages/f29/kshisen/po/de/kshisen.po | 
+ | [en_GB](/f29/language/en_GB) | 568 | 568 | 100.0 | /mnt/stockage/packages/f29/kshisen/po/en_GB/kshisen.po | 
+ | [es](/f29/language/es) | 568 | 568 | 100.0 | /mnt/stockage/packages/f29/kshisen/po/es/kshisen.po | 
+ | [fi](/f29/language/fi) | 568 | 568 | 100.0 | /mnt/stockage/packages/f29/kshisen/po/fi/kshisen.po | 
+ | [fr](/f29/language/fr) | 568 | 568 | 100.0 | /mnt/stockage/packages/f29/kshisen/po/fr/kshisen.po | 
+ | [gl](/f29/language/gl) | 568 | 568 | 100.0 | /mnt/stockage/packages/f29/kshisen/po/gl/kshisen.po | 
+ | [id](/f29/language/id) | 568 | 568 | 100.0 | /mnt/stockage/packages/f29/kshisen/po/id/kshisen.po | 
+ | [it](/f29/language/it) | 568 | 568 | 100.0 | /mnt/stockage/packages/f29/kshisen/po/it/kshisen.po | 
+ | [ko](/f29/language/ko) | 568 | 568 | 100.0 | /mnt/stockage/packages/f29/kshisen/po/ko/kshisen.po | 
+ | [nl](/f29/language/nl) | 568 | 568 | 100.0 | /mnt/stockage/packages/f29/kshisen/po/nl/kshisen.po | 
+ | [nn](/f29/language/nn) | 568 | 568 | 100.0 | /mnt/stockage/packages/f29/kshisen/po/nn/kshisen.po | 
+ | [pl](/f29/language/pl) | 568 | 568 | 100.0 | /mnt/stockage/packages/f29/kshisen/po/pl/kshisen.po | 
+ | [pt](/f29/language/pt) | 568 | 568 | 100.0 | /mnt/stockage/packages/f29/kshisen/po/pt/kshisen.po | 
+ | [pt_BR](/f29/language/pt_BR) | 568 | 568 | 100.0 | /mnt/stockage/packages/f29/kshisen/po/pt_BR/kshisen.po | 
+ | [sl](/f29/language/sl) | 568 | 568 | 100.0 | /mnt/stockage/packages/f29/kshisen/po/sl/kshisen.po | 
+ | [sv](/f29/language/sv) | 568 | 568 | 100.0 | /mnt/stockage/packages/f29/kshisen/po/sv/kshisen.po | 
+ | [uk](/f29/language/uk) | 568 | 568 | 100.0 | /mnt/stockage/packages/f29/kshisen/po/uk/kshisen.po | 
+ | [zh_Hans](/f29/language/zh_Hans) | 568 | 568 | 100.0 | /mnt/stockage/packages/f29/kshisen/po/zh_CN/kshisen.po | 
+ | [zh_Hant](/f29/language/zh_Hant) | 568 | 568 | 100.0 | /mnt/stockage/packages/f29/kshisen/po/zh_TW/kshisen.po | 
+ | [da](/f29/language/da) | 522 | 568 | 91.9 | /mnt/stockage/packages/f29/kshisen/po/da/kshisen.po | 
+ | [et](/f29/language/et) | 522 | 568 | 91.9 | /mnt/stockage/packages/f29/kshisen/po/et/kshisen.po | 
+ | [ru](/f29/language/ru) | 522 | 568 | 91.9 | /mnt/stockage/packages/f29/kshisen/po/ru/kshisen.po | 
+ | [sk](/f29/language/sk) | 522 | 568 | 91.9 | /mnt/stockage/packages/f29/kshisen/po/sk/kshisen.po | 
+ | [sr](/f29/language/sr) | 522 | 568 | 91.9 | /mnt/stockage/packages/f29/kshisen/po/sr/kshisen.po | 
+ | [tr](/f29/language/tr) | 522 | 568 | 91.9 | /mnt/stockage/packages/f29/kshisen/po/tr/kshisen.po | 
+ | [el](/f29/language/el) | 520 | 568 | 91.5 | /mnt/stockage/packages/f29/kshisen/po/el/kshisen.po | 
+ | [bs](/f29/language/bs) | 518 | 568 | 91.2 | /mnt/stockage/packages/f29/kshisen/po/bs/kshisen.po | 
+ | [ga](/f29/language/ga) | 518 | 568 | 91.2 | /mnt/stockage/packages/f29/kshisen/po/ga/kshisen.po | 
+ | [hu](/f29/language/hu) | 518 | 568 | 91.2 | /mnt/stockage/packages/f29/kshisen/po/hu/kshisen.po | 
+ | [kk](/f29/language/kk) | 518 | 568 | 91.2 | /mnt/stockage/packages/f29/kshisen/po/kk/kshisen.po | 
+ | [km](/f29/language/km) | 518 | 568 | 91.2 | /mnt/stockage/packages/f29/kshisen/po/km/kshisen.po | 
+ | [nb_NO](/f29/language/nb_NO) | 518 | 568 | 91.2 | /mnt/stockage/packages/f29/kshisen/po/nb/kshisen.po | 
+ | [nds](/f29/language/nds) | 518 | 568 | 91.2 | /mnt/stockage/packages/f29/kshisen/po/nds/kshisen.po | 
+ | [ja](/f29/language/ja) | 512 | 568 | 90.1 | /mnt/stockage/packages/f29/kshisen/po/ja/kshisen.po | 
+ | [lv](/f29/language/lv) | 472 | 568 | 83.1 | /mnt/stockage/packages/f29/kshisen/po/lv/kshisen.po | 
+ | [eu](/f29/language/eu) | 460 | 568 | 81.0 | /mnt/stockage/packages/f29/kshisen/po/eu/kshisen.po | 
+ | [fa](/f29/language/fa) | 122 | 568 | 21.5 | /mnt/stockage/packages/f29/kshisen/po/fa/kshisen.po | 
+ | [hi](/f29/language/hi) | 100 | 568 | 17.6 | /mnt/stockage/packages/f29/kshisen/po/hi/kshisen.po | 
+ | [bg](/f29/language/bg) | 76 | 568 | 13.4 | /mnt/stockage/packages/f29/kshisen/po/bg/kshisen.po | 
+ | [pa](/f29/language/pa) | 65 | 568 | 11.4 | /mnt/stockage/packages/f29/kshisen/po/pa/kshisen.po | 
+ | [lt](/f29/language/lt) | 57 | 568 | 10.0 | /mnt/stockage/packages/f29/kshisen/po/lt/kshisen.po | 
+ | [ro](/f29/language/ro) | 57 | 568 | 10.0 | /mnt/stockage/packages/f29/kshisen/po/ro/kshisen.po | 
+ | [hr](/f29/language/hr) | 46 | 568 | 8.1 | /mnt/stockage/packages/f29/kshisen/po/hr/kshisen.po | 
+ | [ug](/f29/language/ug) | 41 | 568 | 7.2 | /mnt/stockage/packages/f29/kshisen/po/ug/kshisen.po | 
+ | [eo](/f29/language/eo) | 35 | 568 | 6.2 | /mnt/stockage/packages/f29/kshisen/po/eo/kshisen.po | 
+ | [mr](/f29/language/mr) | 35 | 568 | 6.2 | /mnt/stockage/packages/f29/kshisen/po/mr/kshisen.po | 
+ | [he](/f29/language/he) | 29 | 568 | 5.1 | /mnt/stockage/packages/f29/kshisen/po/he/kshisen.po | 
+ | [is](/f29/language/is) | 29 | 568 | 5.1 | /mnt/stockage/packages/f29/kshisen/po/is/kshisen.po | 
+ | [ar](/f29/language/ar) | 0 | 568 | 0.0 | /mnt/stockage/packages/f29/kshisen/po/ar/kshisen.po | 
 {.sortable}
 
 

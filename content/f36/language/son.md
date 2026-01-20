@@ -38,28 +38,28 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [sugar-maze]({{< ref "/f36/package/sugar-maze.md" >}}) | 7 | 7 | 100.0 | LANGUAGE <LL@li.org> | 
- | [sugar-stopwatch]({{< ref "/f36/package/sugar-stopwatch.md" >}}) | 5 | 5 | 100.0 | LANGUAGE <LL@li.org> | 
- | [sugar-view-slides]({{< ref "/f36/package/sugar-view-slides.md" >}}) | 60 | 60 | 100.0 | LANGUAGE <LL@li.org> | 
- | [sugar-words]({{< ref "/f36/package/sugar-words.md" >}}) | 3 | 3 | 100.0 | LANGUAGE <LL@li.org> | 
- | [tuxpaint-stamps]({{< ref "/f36/package/tuxpaint-stamps.md" >}}) | 3246 | 3249 | 99.9 | Songhay Localization Team <abdoulseydou@hotmail.com> | 
- | [sugar-abacus]({{< ref "/f36/package/sugar-abacus.md" >}}) | 23 | 28 | 82.1 | LANGUAGE <LL@li.org> | 
- | [sugar-toolkit-gtk3]({{< ref "/f36/package/sugar-toolkit-gtk3.md" >}}) | 161 | 213 | 75.6 | LANGUAGE <LL@li.org> | 
- | [sugar-fototoon]({{< ref "/f36/package/sugar-fototoon.md" >}}) | 97 | 139 | 69.8 | LANGUAGE <LL@li.org> | 
- | [gtkspell3]({{< ref "/f36/package/gtkspell3.md" >}}) | 10 | 16 | 62.5 | Songhai <LL@li.org> | 
- | [sugar-dimensions]({{< ref "/f36/package/sugar-dimensions.md" >}}) | 98 | 176 | 55.7 | LANGUAGE <LL@li.org> | 
- | [tuxpaint]({{< ref "/f36/package/tuxpaint.md" >}}) | 1517 | 3763 | 40.3 | Songhay Localization Team | 
- | [iso-codes]({{< ref "/f36/package/iso-codes.md" >}}) | 261 | 986 | 26.5 | Songhai languages <https://hosted.weblate.org/projects/iso-codes/iso-3166-1/son/> | 
- | [sugar]({{< ref "/f36/package/sugar.md" >}}) | 326 | 2305 | 14.1 | LANGUAGE <LL@li.org> | 
- | [sugar-browse]({{< ref "/f36/package/sugar-browse.md" >}}) | 4 | 334 | 1.2 | LANGUAGE <LL@li.org> | 
- | [sugar-memorize]({{< ref "/f36/package/sugar-memorize.md" >}}) | 1 | 142 | 0.7 | LANGUAGE <LL@li.org> | 
- | [sugar-speak]({{< ref "/f36/package/sugar-speak.md" >}}) | 1 | 227 | 0.4 | LANGUAGE <LL@li.org> | 
- | [sugar-clock]({{< ref "/f36/package/sugar-clock.md" >}}) | 0 | 66 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-distance]({{< ref "/f36/package/sugar-distance.md" >}}) | 0 | 99 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-finance]({{< ref "/f36/package/sugar-finance.md" >}}) | 0 | 258 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-flipsticks]({{< ref "/f36/package/sugar-flipsticks.md" >}}) | 0 | 151 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-implode]({{< ref "/f36/package/sugar-implode.md" >}}) | 0 | 77 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-portfolio]({{< ref "/f36/package/sugar-portfolio.md" >}}) | 0 | 73 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-maze](/f36/package/sugar-maze) | 7 | 7 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-stopwatch](/f36/package/sugar-stopwatch) | 5 | 5 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-view-slides](/f36/package/sugar-view-slides) | 60 | 60 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-words](/f36/package/sugar-words) | 3 | 3 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [tuxpaint-stamps](/f36/package/tuxpaint-stamps) | 3246 | 3249 | 99.9 | Songhay Localization Team <abdoulseydou@hotmail.com> | 
+ | [sugar-abacus](/f36/package/sugar-abacus) | 23 | 28 | 82.1 | LANGUAGE <LL@li.org> | 
+ | [sugar-toolkit-gtk3](/f36/package/sugar-toolkit-gtk3) | 161 | 213 | 75.6 | LANGUAGE <LL@li.org> | 
+ | [sugar-fototoon](/f36/package/sugar-fototoon) | 97 | 139 | 69.8 | LANGUAGE <LL@li.org> | 
+ | [gtkspell3](/f36/package/gtkspell3) | 10 | 16 | 62.5 | Songhai <LL@li.org> | 
+ | [sugar-dimensions](/f36/package/sugar-dimensions) | 98 | 176 | 55.7 | LANGUAGE <LL@li.org> | 
+ | [tuxpaint](/f36/package/tuxpaint) | 1517 | 3763 | 40.3 | Songhay Localization Team | 
+ | [iso-codes](/f36/package/iso-codes) | 261 | 986 | 26.5 | Songhai languages <https://hosted.weblate.org/projects/iso-codes/iso-3166-1/son/> | 
+ | [sugar](/f36/package/sugar) | 326 | 2305 | 14.1 | LANGUAGE <LL@li.org> | 
+ | [sugar-browse](/f36/package/sugar-browse) | 4 | 334 | 1.2 | LANGUAGE <LL@li.org> | 
+ | [sugar-memorize](/f36/package/sugar-memorize) | 1 | 142 | 0.7 | LANGUAGE <LL@li.org> | 
+ | [sugar-speak](/f36/package/sugar-speak) | 1 | 227 | 0.4 | LANGUAGE <LL@li.org> | 
+ | [sugar-clock](/f36/package/sugar-clock) | 0 | 66 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-distance](/f36/package/sugar-distance) | 0 | 99 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-finance](/f36/package/sugar-finance) | 0 | 258 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-flipsticks](/f36/package/sugar-flipsticks) | 0 | 151 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-implode](/f36/package/sugar-implode) | 0 | 77 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-portfolio](/f36/package/sugar-portfolio) | 0 | 73 | 0.0 | LANGUAGE <LL@li.org> | 
 {.sortable}
 
 

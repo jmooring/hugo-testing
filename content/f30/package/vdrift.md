@@ -18,16 +18,16 @@ The package vdrift (version 20141020):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f30/language/de.md" >}}) | 1639 | 1639 | 100.0 | /mnt/stockage/packages/f30/vdrift/data/locale/de.po | 
- | [gd]({{< ref "/f30/language/gd.md" >}}) | 1639 | 1639 | 100.0 | /mnt/stockage/packages/f30/vdrift/data/locale/gd.po | 
- | [pt_BR]({{< ref "/f30/language/pt_BR.md" >}}) | 1518 | 1639 | 92.6 | /mnt/stockage/packages/f30/vdrift/data/locale/pt_BR.po | 
- | [pl]({{< ref "/f30/language/pl.md" >}}) | 1304 | 1639 | 79.6 | /mnt/stockage/packages/f30/vdrift/data/locale/pl.po | 
- | [ro]({{< ref "/f30/language/ro.md" >}}) | 886 | 1639 | 54.1 | /mnt/stockage/packages/f30/vdrift/data/locale/ro.po | 
- | [uk]({{< ref "/f30/language/uk.md" >}}) | 869 | 1639 | 53.0 | /mnt/stockage/packages/f30/vdrift/data/locale/uk.po | 
- | [ru]({{< ref "/f30/language/ru.md" >}}) | 829 | 1639 | 50.6 | /mnt/stockage/packages/f30/vdrift/data/locale/ru.po | 
- | [fr]({{< ref "/f30/language/fr.md" >}}) | 695 | 1639 | 42.4 | /mnt/stockage/packages/f30/vdrift/data/locale/fr.po | 
- | [tr]({{< ref "/f30/language/tr.md" >}}) | 51 | 1639 | 3.1 | /mnt/stockage/packages/f30/vdrift/data/locale/tr.po | 
- | [hu]({{< ref "/f30/language/hu.md" >}}) | 8 | 1639 | 0.5 | /mnt/stockage/packages/f30/vdrift/data/locale/hu_HU.po | 
+ | [de](/f30/language/de) | 1639 | 1639 | 100.0 | /mnt/stockage/packages/f30/vdrift/data/locale/de.po | 
+ | [gd](/f30/language/gd) | 1639 | 1639 | 100.0 | /mnt/stockage/packages/f30/vdrift/data/locale/gd.po | 
+ | [pt_BR](/f30/language/pt_BR) | 1518 | 1639 | 92.6 | /mnt/stockage/packages/f30/vdrift/data/locale/pt_BR.po | 
+ | [pl](/f30/language/pl) | 1304 | 1639 | 79.6 | /mnt/stockage/packages/f30/vdrift/data/locale/pl.po | 
+ | [ro](/f30/language/ro) | 886 | 1639 | 54.1 | /mnt/stockage/packages/f30/vdrift/data/locale/ro.po | 
+ | [uk](/f30/language/uk) | 869 | 1639 | 53.0 | /mnt/stockage/packages/f30/vdrift/data/locale/uk.po | 
+ | [ru](/f30/language/ru) | 829 | 1639 | 50.6 | /mnt/stockage/packages/f30/vdrift/data/locale/ru.po | 
+ | [fr](/f30/language/fr) | 695 | 1639 | 42.4 | /mnt/stockage/packages/f30/vdrift/data/locale/fr.po | 
+ | [tr](/f30/language/tr) | 51 | 1639 | 3.1 | /mnt/stockage/packages/f30/vdrift/data/locale/tr.po | 
+ | [hu](/f30/language/hu) | 8 | 1639 | 0.5 | /mnt/stockage/packages/f30/vdrift/data/locale/hu_HU.po | 
 {.sortable}
 
 

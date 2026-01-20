@@ -18,7 +18,7 @@ The package puppetlabs-stdlib (version 4.25.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ja]({{< ref "/f27/language/ja.md" >}}) | 12 | 12 | 100.0 | /mnt/stockage/packages/f27/puppetlabs-stdlib/locales/ja/puppetlabs-stdlib.po | 
+ | [ja](/f27/language/ja) | 12 | 12 | 100.0 | /mnt/stockage/packages/f27/puppetlabs-stdlib/locales/ja/puppetlabs-stdlib.po | 
 {.sortable}
 
 

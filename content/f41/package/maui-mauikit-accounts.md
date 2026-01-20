@@ -18,35 +18,35 @@ The package maui-mauikit-accounts (version 4.0.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f41/language/ca.md" >}}) | 43 | 43 | 100.0 | /mnt/stockage/packages/f41/maui-mauikit-accounts/po/ca/mauikitaccounts.po | 
- | [ca@valencia]({{< ref "/f41/language/ca@valencia.md" >}}) | 43 | 43 | 100.0 | /mnt/stockage/packages/f41/maui-mauikit-accounts/po/ca@valencia/mauikitaccounts.po | 
- | [en_GB]({{< ref "/f41/language/en_GB.md" >}}) | 43 | 43 | 100.0 | /mnt/stockage/packages/f41/maui-mauikit-accounts/po/en_GB/mauikitaccounts.po | 
- | [eo]({{< ref "/f41/language/eo.md" >}}) | 43 | 43 | 100.0 | /mnt/stockage/packages/f41/maui-mauikit-accounts/po/eo/mauikitaccounts.po | 
- | [es]({{< ref "/f41/language/es.md" >}}) | 43 | 43 | 100.0 | /mnt/stockage/packages/f41/maui-mauikit-accounts/po/es/mauikitaccounts.po | 
- | [eu]({{< ref "/f41/language/eu.md" >}}) | 43 | 43 | 100.0 | /mnt/stockage/packages/f41/maui-mauikit-accounts/po/eu/mauikitaccounts.po | 
- | [fi]({{< ref "/f41/language/fi.md" >}}) | 43 | 43 | 100.0 | /mnt/stockage/packages/f41/maui-mauikit-accounts/po/fi/mauikitaccounts.po | 
- | [fr]({{< ref "/f41/language/fr.md" >}}) | 43 | 43 | 100.0 | /mnt/stockage/packages/f41/maui-mauikit-accounts/po/fr/mauikitaccounts.po | 
- | [gl]({{< ref "/f41/language/gl.md" >}}) | 43 | 43 | 100.0 | /mnt/stockage/packages/f41/maui-mauikit-accounts/po/gl/mauikitaccounts.po | 
- | [it]({{< ref "/f41/language/it.md" >}}) | 43 | 43 | 100.0 | /mnt/stockage/packages/f41/maui-mauikit-accounts/po/it/mauikitaccounts.po | 
- | [ka]({{< ref "/f41/language/ka.md" >}}) | 43 | 43 | 100.0 | /mnt/stockage/packages/f41/maui-mauikit-accounts/po/ka/mauikitaccounts.po | 
- | [ko]({{< ref "/f41/language/ko.md" >}}) | 43 | 43 | 100.0 | /mnt/stockage/packages/f41/maui-mauikit-accounts/po/ko/mauikitaccounts.po | 
- | [nl]({{< ref "/f41/language/nl.md" >}}) | 43 | 43 | 100.0 | /mnt/stockage/packages/f41/maui-mauikit-accounts/po/nl/mauikitaccounts.po | 
- | [nn]({{< ref "/f41/language/nn.md" >}}) | 43 | 43 | 100.0 | /mnt/stockage/packages/f41/maui-mauikit-accounts/po/nn/mauikitaccounts.po | 
- | [pl]({{< ref "/f41/language/pl.md" >}}) | 43 | 43 | 100.0 | /mnt/stockage/packages/f41/maui-mauikit-accounts/po/pl/mauikitaccounts.po | 
- | [pt]({{< ref "/f41/language/pt.md" >}}) | 43 | 43 | 100.0 | /mnt/stockage/packages/f41/maui-mauikit-accounts/po/pt/mauikitaccounts.po | 
- | [pt_BR]({{< ref "/f41/language/pt_BR.md" >}}) | 43 | 43 | 100.0 | /mnt/stockage/packages/f41/maui-mauikit-accounts/po/pt_BR/mauikitaccounts.po | 
- | [ro]({{< ref "/f41/language/ro.md" >}}) | 43 | 43 | 100.0 | /mnt/stockage/packages/f41/maui-mauikit-accounts/po/ro/mauikitaccounts.po | 
- | [sl]({{< ref "/f41/language/sl.md" >}}) | 43 | 43 | 100.0 | /mnt/stockage/packages/f41/maui-mauikit-accounts/po/sl/mauikitaccounts.po | 
- | [sv]({{< ref "/f41/language/sv.md" >}}) | 43 | 43 | 100.0 | /mnt/stockage/packages/f41/maui-mauikit-accounts/po/sv/mauikitaccounts.po | 
- | [tr]({{< ref "/f41/language/tr.md" >}}) | 43 | 43 | 100.0 | /mnt/stockage/packages/f41/maui-mauikit-accounts/po/tr/mauikitaccounts.po | 
- | [uk]({{< ref "/f41/language/uk.md" >}}) | 43 | 43 | 100.0 | /mnt/stockage/packages/f41/maui-mauikit-accounts/po/uk/mauikitaccounts.po | 
- | [zh_Hant]({{< ref "/f41/language/zh_Hant.md" >}}) | 43 | 43 | 100.0 | /mnt/stockage/packages/f41/maui-mauikit-accounts/po/zh_TW/mauikitaccounts.po | 
- | [cs]({{< ref "/f41/language/cs.md" >}}) | 27 | 43 | 62.8 | /mnt/stockage/packages/f41/maui-mauikit-accounts/po/cs/mauikitaccounts.po | 
- | [de]({{< ref "/f41/language/de.md" >}}) | 15 | 43 | 34.9 | /mnt/stockage/packages/f41/maui-mauikit-accounts/po/de/mauikitaccounts.po | 
- | [sk]({{< ref "/f41/language/sk.md" >}}) | 12 | 43 | 27.9 | /mnt/stockage/packages/f41/maui-mauikit-accounts/po/sk/mauikitaccounts.po | 
- | [ja]({{< ref "/f41/language/ja.md" >}}) | 0 | 43 | 0.0 | /mnt/stockage/packages/f41/maui-mauikit-accounts/po/ja/mauikitaccounts.po | 
- | [lt]({{< ref "/f41/language/lt.md" >}}) | 0 | 43 | 0.0 | /mnt/stockage/packages/f41/maui-mauikit-accounts/po/lt/mauikitaccounts.po | 
- | [zh_Hans]({{< ref "/f41/language/zh_Hans.md" >}}) | 0 | 43 | 0.0 | /mnt/stockage/packages/f41/maui-mauikit-accounts/po/zh_CN/mauikitaccounts.po | 
+ | [ca](/f41/language/ca) | 43 | 43 | 100.0 | /mnt/stockage/packages/f41/maui-mauikit-accounts/po/ca/mauikitaccounts.po | 
+ | [ca@valencia](/f41/language/ca@valencia) | 43 | 43 | 100.0 | /mnt/stockage/packages/f41/maui-mauikit-accounts/po/ca@valencia/mauikitaccounts.po | 
+ | [en_GB](/f41/language/en_GB) | 43 | 43 | 100.0 | /mnt/stockage/packages/f41/maui-mauikit-accounts/po/en_GB/mauikitaccounts.po | 
+ | [eo](/f41/language/eo) | 43 | 43 | 100.0 | /mnt/stockage/packages/f41/maui-mauikit-accounts/po/eo/mauikitaccounts.po | 
+ | [es](/f41/language/es) | 43 | 43 | 100.0 | /mnt/stockage/packages/f41/maui-mauikit-accounts/po/es/mauikitaccounts.po | 
+ | [eu](/f41/language/eu) | 43 | 43 | 100.0 | /mnt/stockage/packages/f41/maui-mauikit-accounts/po/eu/mauikitaccounts.po | 
+ | [fi](/f41/language/fi) | 43 | 43 | 100.0 | /mnt/stockage/packages/f41/maui-mauikit-accounts/po/fi/mauikitaccounts.po | 
+ | [fr](/f41/language/fr) | 43 | 43 | 100.0 | /mnt/stockage/packages/f41/maui-mauikit-accounts/po/fr/mauikitaccounts.po | 
+ | [gl](/f41/language/gl) | 43 | 43 | 100.0 | /mnt/stockage/packages/f41/maui-mauikit-accounts/po/gl/mauikitaccounts.po | 
+ | [it](/f41/language/it) | 43 | 43 | 100.0 | /mnt/stockage/packages/f41/maui-mauikit-accounts/po/it/mauikitaccounts.po | 
+ | [ka](/f41/language/ka) | 43 | 43 | 100.0 | /mnt/stockage/packages/f41/maui-mauikit-accounts/po/ka/mauikitaccounts.po | 
+ | [ko](/f41/language/ko) | 43 | 43 | 100.0 | /mnt/stockage/packages/f41/maui-mauikit-accounts/po/ko/mauikitaccounts.po | 
+ | [nl](/f41/language/nl) | 43 | 43 | 100.0 | /mnt/stockage/packages/f41/maui-mauikit-accounts/po/nl/mauikitaccounts.po | 
+ | [nn](/f41/language/nn) | 43 | 43 | 100.0 | /mnt/stockage/packages/f41/maui-mauikit-accounts/po/nn/mauikitaccounts.po | 
+ | [pl](/f41/language/pl) | 43 | 43 | 100.0 | /mnt/stockage/packages/f41/maui-mauikit-accounts/po/pl/mauikitaccounts.po | 
+ | [pt](/f41/language/pt) | 43 | 43 | 100.0 | /mnt/stockage/packages/f41/maui-mauikit-accounts/po/pt/mauikitaccounts.po | 
+ | [pt_BR](/f41/language/pt_BR) | 43 | 43 | 100.0 | /mnt/stockage/packages/f41/maui-mauikit-accounts/po/pt_BR/mauikitaccounts.po | 
+ | [ro](/f41/language/ro) | 43 | 43 | 100.0 | /mnt/stockage/packages/f41/maui-mauikit-accounts/po/ro/mauikitaccounts.po | 
+ | [sl](/f41/language/sl) | 43 | 43 | 100.0 | /mnt/stockage/packages/f41/maui-mauikit-accounts/po/sl/mauikitaccounts.po | 
+ | [sv](/f41/language/sv) | 43 | 43 | 100.0 | /mnt/stockage/packages/f41/maui-mauikit-accounts/po/sv/mauikitaccounts.po | 
+ | [tr](/f41/language/tr) | 43 | 43 | 100.0 | /mnt/stockage/packages/f41/maui-mauikit-accounts/po/tr/mauikitaccounts.po | 
+ | [uk](/f41/language/uk) | 43 | 43 | 100.0 | /mnt/stockage/packages/f41/maui-mauikit-accounts/po/uk/mauikitaccounts.po | 
+ | [zh_Hant](/f41/language/zh_Hant) | 43 | 43 | 100.0 | /mnt/stockage/packages/f41/maui-mauikit-accounts/po/zh_TW/mauikitaccounts.po | 
+ | [cs](/f41/language/cs) | 27 | 43 | 62.8 | /mnt/stockage/packages/f41/maui-mauikit-accounts/po/cs/mauikitaccounts.po | 
+ | [de](/f41/language/de) | 15 | 43 | 34.9 | /mnt/stockage/packages/f41/maui-mauikit-accounts/po/de/mauikitaccounts.po | 
+ | [sk](/f41/language/sk) | 12 | 43 | 27.9 | /mnt/stockage/packages/f41/maui-mauikit-accounts/po/sk/mauikitaccounts.po | 
+ | [ja](/f41/language/ja) | 0 | 43 | 0.0 | /mnt/stockage/packages/f41/maui-mauikit-accounts/po/ja/mauikitaccounts.po | 
+ | [lt](/f41/language/lt) | 0 | 43 | 0.0 | /mnt/stockage/packages/f41/maui-mauikit-accounts/po/lt/mauikitaccounts.po | 
+ | [zh_Hans](/f41/language/zh_Hans) | 0 | 43 | 0.0 | /mnt/stockage/packages/f41/maui-mauikit-accounts/po/zh_CN/mauikitaccounts.po | 
 {.sortable}
 
 

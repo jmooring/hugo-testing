@@ -18,14 +18,14 @@ The package msp430-gcc (version 3.2.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [es]({{< ref "/f17/language/es.md" >}}) | 28638 | 28638 | 100.0 | /mnt/stockage/packages/f17/msp430-gcc/gcc/po/es.po | 
- | [fr]({{< ref "/f17/language/fr.md" >}}) | 28638 | 28638 | 100.0 | /mnt/stockage/packages/f17/msp430-gcc/gcc/po/fr.po | 
- | [tr]({{< ref "/f17/language/tr.md" >}}) | 28638 | 28638 | 100.0 | /mnt/stockage/packages/f17/msp430-gcc/gcc/po/tr.po | 
- | [ja]({{< ref "/f17/language/ja.md" >}}) | 16180 | 29557 | 54.7 | /mnt/stockage/packages/f17/msp430-gcc/gcc/po/ja.po | 
- | [sv]({{< ref "/f17/language/sv.md" >}}) | 6983 | 22342 | 31.3 | /mnt/stockage/packages/f17/msp430-gcc/gcc/po/sv.po | 
- | [da]({{< ref "/f17/language/da.md" >}}) | 5360 | 18568 | 28.9 | /mnt/stockage/packages/f17/msp430-gcc/gcc/po/da.po | 
- | [nl]({{< ref "/f17/language/nl.md" >}}) | 4827 | 34490 | 14.0 | /mnt/stockage/packages/f17/msp430-gcc/gcc/po/nl.po | 
- | [el]({{< ref "/f17/language/el.md" >}}) | 147 | 34490 | 0.4 | /mnt/stockage/packages/f17/msp430-gcc/gcc/po/el.po | 
+ | [es](/f17/language/es) | 28638 | 28638 | 100.0 | /mnt/stockage/packages/f17/msp430-gcc/gcc/po/es.po | 
+ | [fr](/f17/language/fr) | 28638 | 28638 | 100.0 | /mnt/stockage/packages/f17/msp430-gcc/gcc/po/fr.po | 
+ | [tr](/f17/language/tr) | 28638 | 28638 | 100.0 | /mnt/stockage/packages/f17/msp430-gcc/gcc/po/tr.po | 
+ | [ja](/f17/language/ja) | 16180 | 29557 | 54.7 | /mnt/stockage/packages/f17/msp430-gcc/gcc/po/ja.po | 
+ | [sv](/f17/language/sv) | 6983 | 22342 | 31.3 | /mnt/stockage/packages/f17/msp430-gcc/gcc/po/sv.po | 
+ | [da](/f17/language/da) | 5360 | 18568 | 28.9 | /mnt/stockage/packages/f17/msp430-gcc/gcc/po/da.po | 
+ | [nl](/f17/language/nl) | 4827 | 34490 | 14.0 | /mnt/stockage/packages/f17/msp430-gcc/gcc/po/nl.po | 
+ | [el](/f17/language/el) | 147 | 34490 | 0.4 | /mnt/stockage/packages/f17/msp430-gcc/gcc/po/el.po | 
 {.sortable}
 
 

@@ -18,11 +18,11 @@ The package madplay (version 0.15.2b):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [es]({{< ref "/f24/language/es.md" >}}) | 285 | 1131 | 25.2 | /mnt/stockage/packages/f24/madplay/po/es.po | 
- | [nb_NO]({{< ref "/f24/language/nb_NO.md" >}}) | 284 | 1131 | 25.1 | /mnt/stockage/packages/f24/madplay/po/no.po | 
- | [fr]({{< ref "/f24/language/fr.md" >}}) | 277 | 1131 | 24.5 | /mnt/stockage/packages/f24/madplay/po/fr.po | 
- | [hr]({{< ref "/f24/language/hr.md" >}}) | 272 | 1131 | 24.0 | /mnt/stockage/packages/f24/madplay/po/hr.po | 
- | [en]({{< ref "/f24/language/en.md" >}}) | 3 | 1131 | 0.3 | /mnt/stockage/packages/f24/madplay/po/en.po | 
+ | [es](/f24/language/es) | 285 | 1131 | 25.2 | /mnt/stockage/packages/f24/madplay/po/es.po | 
+ | [nb_NO](/f24/language/nb_NO) | 284 | 1131 | 25.1 | /mnt/stockage/packages/f24/madplay/po/no.po | 
+ | [fr](/f24/language/fr) | 277 | 1131 | 24.5 | /mnt/stockage/packages/f24/madplay/po/fr.po | 
+ | [hr](/f24/language/hr) | 272 | 1131 | 24.0 | /mnt/stockage/packages/f24/madplay/po/hr.po | 
+ | [en](/f24/language/en) | 3 | 1131 | 0.3 | /mnt/stockage/packages/f24/madplay/po/en.po | 
 {.sortable}
 
 

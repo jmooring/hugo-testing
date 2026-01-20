@@ -18,38 +18,38 @@ The package meego-panel-pasteboard (version 0.0.8):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f16/language/ar.md" >}}) | 22 | 22 | 100.0 | /mnt/stockage/packages/f16/meego-panel-pasteboard/po/ar.po | 
- | [ast]({{< ref "/f16/language/ast.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f16/meego-panel-pasteboard/po/ast.po | 
- | [ca]({{< ref "/f16/language/ca.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f16/meego-panel-pasteboard/po/ca.po | 
- | [cs]({{< ref "/f16/language/cs.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f16/meego-panel-pasteboard/po/cs.po | 
- | [da]({{< ref "/f16/language/da.md" >}}) | 22 | 22 | 100.0 | /mnt/stockage/packages/f16/meego-panel-pasteboard/po/da.po | 
- | [de]({{< ref "/f16/language/de.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f16/meego-panel-pasteboard/po/de.po | 
- | [en_GB]({{< ref "/f16/language/en_GB.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f16/meego-panel-pasteboard/po/en_GB.po | 
- | [es]({{< ref "/f16/language/es.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f16/meego-panel-pasteboard/po/es.po | 
- | [eu]({{< ref "/f16/language/eu.md" >}}) | 22 | 22 | 100.0 | /mnt/stockage/packages/f16/meego-panel-pasteboard/po/eu.po | 
- | [fa]({{< ref "/f16/language/fa.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f16/meego-panel-pasteboard/po/fa.po | 
- | [fi]({{< ref "/f16/language/fi.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f16/meego-panel-pasteboard/po/fi.po | 
- | [fr]({{< ref "/f16/language/fr.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f16/meego-panel-pasteboard/po/fr.po | 
- | [gl]({{< ref "/f16/language/gl.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f16/meego-panel-pasteboard/po/gl.po | 
- | [hu]({{< ref "/f16/language/hu.md" >}}) | 22 | 22 | 100.0 | /mnt/stockage/packages/f16/meego-panel-pasteboard/po/hu.po | 
- | [id]({{< ref "/f16/language/id.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f16/meego-panel-pasteboard/po/id.po | 
- | [it]({{< ref "/f16/language/it.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f16/meego-panel-pasteboard/po/it.po | 
- | [ja]({{< ref "/f16/language/ja.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f16/meego-panel-pasteboard/po/ja.po | 
- | [ko]({{< ref "/f16/language/ko.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f16/meego-panel-pasteboard/po/ko.po | 
- | [nl]({{< ref "/f16/language/nl.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f16/meego-panel-pasteboard/po/nl.po | 
- | [pa]({{< ref "/f16/language/pa.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f16/meego-panel-pasteboard/po/pa.po | 
- | [pl]({{< ref "/f16/language/pl.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f16/meego-panel-pasteboard/po/pl.po | 
- | [pt_BR]({{< ref "/f16/language/pt_BR.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f16/meego-panel-pasteboard/po/pt_BR.po | 
- | [ro]({{< ref "/f16/language/ro.md" >}}) | 22 | 22 | 100.0 | /mnt/stockage/packages/f16/meego-panel-pasteboard/po/ro.po | 
- | [ru]({{< ref "/f16/language/ru.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f16/meego-panel-pasteboard/po/ru.po | 
- | [sk]({{< ref "/f16/language/sk.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f16/meego-panel-pasteboard/po/sk.po | 
- | [sv]({{< ref "/f16/language/sv.md" >}}) | 22 | 22 | 100.0 | /mnt/stockage/packages/f16/meego-panel-pasteboard/po/sv.po | 
- | [th]({{< ref "/f16/language/th.md" >}}) | 22 | 22 | 100.0 | /mnt/stockage/packages/f16/meego-panel-pasteboard/po/th.po | 
- | [tr]({{< ref "/f16/language/tr.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f16/meego-panel-pasteboard/po/tr.po | 
- | [uk]({{< ref "/f16/language/uk.md" >}}) | 22 | 22 | 100.0 | /mnt/stockage/packages/f16/meego-panel-pasteboard/po/uk.po | 
- | [wa]({{< ref "/f16/language/wa.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f16/meego-panel-pasteboard/po/wa.po | 
- | [zh_Hans]({{< ref "/f16/language/zh_Hans.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f16/meego-panel-pasteboard/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f16/language/zh_Hant.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f16/meego-panel-pasteboard/po/zh_TW.po | 
+ | [ar](/f16/language/ar) | 22 | 22 | 100.0 | /mnt/stockage/packages/f16/meego-panel-pasteboard/po/ar.po | 
+ | [ast](/f16/language/ast) | 24 | 24 | 100.0 | /mnt/stockage/packages/f16/meego-panel-pasteboard/po/ast.po | 
+ | [ca](/f16/language/ca) | 24 | 24 | 100.0 | /mnt/stockage/packages/f16/meego-panel-pasteboard/po/ca.po | 
+ | [cs](/f16/language/cs) | 24 | 24 | 100.0 | /mnt/stockage/packages/f16/meego-panel-pasteboard/po/cs.po | 
+ | [da](/f16/language/da) | 22 | 22 | 100.0 | /mnt/stockage/packages/f16/meego-panel-pasteboard/po/da.po | 
+ | [de](/f16/language/de) | 24 | 24 | 100.0 | /mnt/stockage/packages/f16/meego-panel-pasteboard/po/de.po | 
+ | [en_GB](/f16/language/en_GB) | 24 | 24 | 100.0 | /mnt/stockage/packages/f16/meego-panel-pasteboard/po/en_GB.po | 
+ | [es](/f16/language/es) | 24 | 24 | 100.0 | /mnt/stockage/packages/f16/meego-panel-pasteboard/po/es.po | 
+ | [eu](/f16/language/eu) | 22 | 22 | 100.0 | /mnt/stockage/packages/f16/meego-panel-pasteboard/po/eu.po | 
+ | [fa](/f16/language/fa) | 24 | 24 | 100.0 | /mnt/stockage/packages/f16/meego-panel-pasteboard/po/fa.po | 
+ | [fi](/f16/language/fi) | 24 | 24 | 100.0 | /mnt/stockage/packages/f16/meego-panel-pasteboard/po/fi.po | 
+ | [fr](/f16/language/fr) | 24 | 24 | 100.0 | /mnt/stockage/packages/f16/meego-panel-pasteboard/po/fr.po | 
+ | [gl](/f16/language/gl) | 24 | 24 | 100.0 | /mnt/stockage/packages/f16/meego-panel-pasteboard/po/gl.po | 
+ | [hu](/f16/language/hu) | 22 | 22 | 100.0 | /mnt/stockage/packages/f16/meego-panel-pasteboard/po/hu.po | 
+ | [id](/f16/language/id) | 24 | 24 | 100.0 | /mnt/stockage/packages/f16/meego-panel-pasteboard/po/id.po | 
+ | [it](/f16/language/it) | 24 | 24 | 100.0 | /mnt/stockage/packages/f16/meego-panel-pasteboard/po/it.po | 
+ | [ja](/f16/language/ja) | 24 | 24 | 100.0 | /mnt/stockage/packages/f16/meego-panel-pasteboard/po/ja.po | 
+ | [ko](/f16/language/ko) | 24 | 24 | 100.0 | /mnt/stockage/packages/f16/meego-panel-pasteboard/po/ko.po | 
+ | [nl](/f16/language/nl) | 24 | 24 | 100.0 | /mnt/stockage/packages/f16/meego-panel-pasteboard/po/nl.po | 
+ | [pa](/f16/language/pa) | 24 | 24 | 100.0 | /mnt/stockage/packages/f16/meego-panel-pasteboard/po/pa.po | 
+ | [pl](/f16/language/pl) | 24 | 24 | 100.0 | /mnt/stockage/packages/f16/meego-panel-pasteboard/po/pl.po | 
+ | [pt_BR](/f16/language/pt_BR) | 24 | 24 | 100.0 | /mnt/stockage/packages/f16/meego-panel-pasteboard/po/pt_BR.po | 
+ | [ro](/f16/language/ro) | 22 | 22 | 100.0 | /mnt/stockage/packages/f16/meego-panel-pasteboard/po/ro.po | 
+ | [ru](/f16/language/ru) | 24 | 24 | 100.0 | /mnt/stockage/packages/f16/meego-panel-pasteboard/po/ru.po | 
+ | [sk](/f16/language/sk) | 24 | 24 | 100.0 | /mnt/stockage/packages/f16/meego-panel-pasteboard/po/sk.po | 
+ | [sv](/f16/language/sv) | 22 | 22 | 100.0 | /mnt/stockage/packages/f16/meego-panel-pasteboard/po/sv.po | 
+ | [th](/f16/language/th) | 22 | 22 | 100.0 | /mnt/stockage/packages/f16/meego-panel-pasteboard/po/th.po | 
+ | [tr](/f16/language/tr) | 24 | 24 | 100.0 | /mnt/stockage/packages/f16/meego-panel-pasteboard/po/tr.po | 
+ | [uk](/f16/language/uk) | 22 | 22 | 100.0 | /mnt/stockage/packages/f16/meego-panel-pasteboard/po/uk.po | 
+ | [wa](/f16/language/wa) | 24 | 24 | 100.0 | /mnt/stockage/packages/f16/meego-panel-pasteboard/po/wa.po | 
+ | [zh_Hans](/f16/language/zh_Hans) | 24 | 24 | 100.0 | /mnt/stockage/packages/f16/meego-panel-pasteboard/po/zh_CN.po | 
+ | [zh_Hant](/f16/language/zh_Hant) | 24 | 24 | 100.0 | /mnt/stockage/packages/f16/meego-panel-pasteboard/po/zh_TW.po | 
 {.sortable}
 
 

@@ -18,83 +18,83 @@ The package gnome-shell (version 3.20.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [as]({{< ref "/f24/language/as.md" >}}) | 1485 | 1485 | 100.0 | /mnt/stockage/packages/f24/gnome-shell/po/as.po | 
- | [ast]({{< ref "/f24/language/ast.md" >}}) | 1305 | 1305 | 100.0 | /mnt/stockage/packages/f24/gnome-shell/po/ast.po | 
- | [be]({{< ref "/f24/language/be.md" >}}) | 1478 | 1478 | 100.0 | /mnt/stockage/packages/f24/gnome-shell/po/be.po | 
- | [bg]({{< ref "/f24/language/bg.md" >}}) | 1437 | 1437 | 100.0 | /mnt/stockage/packages/f24/gnome-shell/po/bg.po | 
- | [bs]({{< ref "/f24/language/bs.md" >}}) | 1486 | 1486 | 100.0 | /mnt/stockage/packages/f24/gnome-shell/po/bs.po | 
- | [ca]({{< ref "/f24/language/ca.md" >}}) | 1437 | 1437 | 100.0 | /mnt/stockage/packages/f24/gnome-shell/po/ca.po | 
- | [ca@valencia]({{< ref "/f24/language/ca@valencia.md" >}}) | 1485 | 1485 | 100.0 | /mnt/stockage/packages/f24/gnome-shell/po/ca@valencia.po | 
- | [cs]({{< ref "/f24/language/cs.md" >}}) | 1437 | 1437 | 100.0 | /mnt/stockage/packages/f24/gnome-shell/po/cs.po | 
- | [da]({{< ref "/f24/language/da.md" >}}) | 1437 | 1437 | 100.0 | /mnt/stockage/packages/f24/gnome-shell/po/da.po | 
- | [de]({{< ref "/f24/language/de.md" >}}) | 1437 | 1437 | 100.0 | /mnt/stockage/packages/f24/gnome-shell/po/de.po | 
- | [el]({{< ref "/f24/language/el.md" >}}) | 1437 | 1437 | 100.0 | /mnt/stockage/packages/f24/gnome-shell/po/el.po | 
- | [en_GB]({{< ref "/f24/language/en_GB.md" >}}) | 1437 | 1437 | 100.0 | /mnt/stockage/packages/f24/gnome-shell/po/en_GB.po | 
- | [en_US]({{< ref "/f24/language/en_US.md" >}}) | 1486 | 1486 | 100.0 | /mnt/stockage/packages/f24/gnome-shell/po/bn_IN.po | 
- | [es]({{< ref "/f24/language/es.md" >}}) | 1437 | 1437 | 100.0 | /mnt/stockage/packages/f24/gnome-shell/po/es.po | 
- | [et]({{< ref "/f24/language/et.md" >}}) | 1296 | 1296 | 100.0 | /mnt/stockage/packages/f24/gnome-shell/po/et.po | 
- | [eu]({{< ref "/f24/language/eu.md" >}}) | 1437 | 1437 | 100.0 | /mnt/stockage/packages/f24/gnome-shell/po/eu.po | 
- | [fa]({{< ref "/f24/language/fa.md" >}}) | 1437 | 1437 | 100.0 | /mnt/stockage/packages/f24/gnome-shell/po/fa.po | 
- | [fr]({{< ref "/f24/language/fr.md" >}}) | 1437 | 1437 | 100.0 | /mnt/stockage/packages/f24/gnome-shell/po/fr.po | 
- | [fur]({{< ref "/f24/language/fur.md" >}}) | 1437 | 1437 | 100.0 | /mnt/stockage/packages/f24/gnome-shell/po/fur.po | 
- | [gd]({{< ref "/f24/language/gd.md" >}}) | 908 | 908 | 100.0 | /mnt/stockage/packages/f24/gnome-shell/po/gd.po | 
- | [gl]({{< ref "/f24/language/gl.md" >}}) | 1437 | 1437 | 100.0 | /mnt/stockage/packages/f24/gnome-shell/po/gl.po | 
- | [gu]({{< ref "/f24/language/gu.md" >}}) | 1485 | 1485 | 100.0 | /mnt/stockage/packages/f24/gnome-shell/po/gu.po | 
- | [he]({{< ref "/f24/language/he.md" >}}) | 1437 | 1437 | 100.0 | /mnt/stockage/packages/f24/gnome-shell/po/he.po | 
- | [hi]({{< ref "/f24/language/hi.md" >}}) | 1485 | 1485 | 100.0 | /mnt/stockage/packages/f24/gnome-shell/po/hi.po | 
- | [hu]({{< ref "/f24/language/hu.md" >}}) | 1437 | 1437 | 100.0 | /mnt/stockage/packages/f24/gnome-shell/po/hu.po | 
- | [ia]({{< ref "/f24/language/ia.md" >}}) | 1722 | 1722 | 100.0 | /mnt/stockage/packages/f24/gnome-shell/po/ia.po | 
- | [id]({{< ref "/f24/language/id.md" >}}) | 1437 | 1437 | 100.0 | /mnt/stockage/packages/f24/gnome-shell/po/id.po | 
- | [it]({{< ref "/f24/language/it.md" >}}) | 1437 | 1437 | 100.0 | /mnt/stockage/packages/f24/gnome-shell/po/it.po | 
- | [ja]({{< ref "/f24/language/ja.md" >}}) | 1437 | 1437 | 100.0 | /mnt/stockage/packages/f24/gnome-shell/po/ja.po | 
- | [kk]({{< ref "/f24/language/kk.md" >}}) | 1437 | 1437 | 100.0 | /mnt/stockage/packages/f24/gnome-shell/po/kk.po | 
- | [km]({{< ref "/f24/language/km.md" >}}) | 1480 | 1480 | 100.0 | /mnt/stockage/packages/f24/gnome-shell/po/km.po | 
- | [kn]({{< ref "/f24/language/kn.md" >}}) | 1485 | 1485 | 100.0 | /mnt/stockage/packages/f24/gnome-shell/po/kn.po | 
- | [ko]({{< ref "/f24/language/ko.md" >}}) | 1437 | 1437 | 100.0 | /mnt/stockage/packages/f24/gnome-shell/po/ko.po | 
- | [lt]({{< ref "/f24/language/lt.md" >}}) | 1437 | 1437 | 100.0 | /mnt/stockage/packages/f24/gnome-shell/po/lt.po | 
- | [lv]({{< ref "/f24/language/lv.md" >}}) | 1437 | 1437 | 100.0 | /mnt/stockage/packages/f24/gnome-shell/po/lv.po | 
- | [mk]({{< ref "/f24/language/mk.md" >}}) | 1338 | 1338 | 100.0 | /mnt/stockage/packages/f24/gnome-shell/po/mk.po | 
- | [ml]({{< ref "/f24/language/ml.md" >}}) | 1722 | 1722 | 100.0 | /mnt/stockage/packages/f24/gnome-shell/po/ml.po | 
- | [mr]({{< ref "/f24/language/mr.md" >}}) | 1485 | 1485 | 100.0 | /mnt/stockage/packages/f24/gnome-shell/po/mr.po | 
- | [nl]({{< ref "/f24/language/nl.md" >}}) | 1432 | 1432 | 100.0 | /mnt/stockage/packages/f24/gnome-shell/po/nl.po | 
- | [or]({{< ref "/f24/language/or.md" >}}) | 1485 | 1485 | 100.0 | /mnt/stockage/packages/f24/gnome-shell/po/or.po | 
- | [pl]({{< ref "/f24/language/pl.md" >}}) | 1468 | 1468 | 100.0 | /mnt/stockage/packages/f24/gnome-shell/po/pl.po | 
- | [pt]({{< ref "/f24/language/pt.md" >}}) | 1437 | 1437 | 100.0 | /mnt/stockage/packages/f24/gnome-shell/po/pt.po | 
- | [pt_BR]({{< ref "/f24/language/pt_BR.md" >}}) | 1437 | 1437 | 100.0 | /mnt/stockage/packages/f24/gnome-shell/po/pt_BR.po | 
- | [ro]({{< ref "/f24/language/ro.md" >}}) | 1346 | 1346 | 100.0 | /mnt/stockage/packages/f24/gnome-shell/po/ro.po | 
- | [ru]({{< ref "/f24/language/ru.md" >}}) | 1437 | 1437 | 100.0 | /mnt/stockage/packages/f24/gnome-shell/po/ru.po | 
- | [sk]({{< ref "/f24/language/sk.md" >}}) | 1437 | 1437 | 100.0 | /mnt/stockage/packages/f24/gnome-shell/po/sk.po | 
- | [sl]({{< ref "/f24/language/sl.md" >}}) | 1437 | 1437 | 100.0 | /mnt/stockage/packages/f24/gnome-shell/po/sl.po | 
- | [sr]({{< ref "/f24/language/sr.md" >}}) | 2874 | 2874 | 100.0 | /mnt/stockage/packages/f24/gnome-shell/po/sr.po/mnt/stockage/packages/f24/gnome-shell/po/sr@latin.po | 
- | [sv]({{< ref "/f24/language/sv.md" >}}) | 1437 | 1437 | 100.0 | /mnt/stockage/packages/f24/gnome-shell/po/sv.po | 
- | [ta]({{< ref "/f24/language/ta.md" >}}) | 1485 | 1485 | 100.0 | /mnt/stockage/packages/f24/gnome-shell/po/ta.po | 
- | [te]({{< ref "/f24/language/te.md" >}}) | 1485 | 1485 | 100.0 | /mnt/stockage/packages/f24/gnome-shell/po/te.po | 
- | [tg]({{< ref "/f24/language/tg.md" >}}) | 1322 | 1322 | 100.0 | /mnt/stockage/packages/f24/gnome-shell/po/tg.po | 
- | [th]({{< ref "/f24/language/th.md" >}}) | 1452 | 1452 | 100.0 | /mnt/stockage/packages/f24/gnome-shell/po/th.po | 
- | [tr]({{< ref "/f24/language/tr.md" >}}) | 1437 | 1437 | 100.0 | /mnt/stockage/packages/f24/gnome-shell/po/tr.po | 
- | [uk]({{< ref "/f24/language/uk.md" >}}) | 1437 | 1437 | 100.0 | /mnt/stockage/packages/f24/gnome-shell/po/uk.po | 
- | [uz]({{< ref "/f24/language/uz.md" >}}) | 1478 | 1478 | 100.0 | /mnt/stockage/packages/f24/gnome-shell/po/uz@cyrillic.po | 
- | [vi]({{< ref "/f24/language/vi.md" >}}) | 1437 | 1437 | 100.0 | /mnt/stockage/packages/f24/gnome-shell/po/vi.po | 
- | [zh_Hans]({{< ref "/f24/language/zh_Hans.md" >}}) | 1437 | 1437 | 100.0 | /mnt/stockage/packages/f24/gnome-shell/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f24/language/zh_Hant.md" >}}) | 2920 | 2920 | 100.0 | /mnt/stockage/packages/f24/gnome-shell/po/zh_HK.po/mnt/stockage/packages/f24/gnome-shell/po/zh_TW.po | 
- | [an]({{< ref "/f24/language/an.md" >}}) | 1298 | 1322 | 98.2 | /mnt/stockage/packages/f24/gnome-shell/po/an.po | 
- | [af]({{< ref "/f24/language/af.md" >}}) | 1235 | 1265 | 97.6 | /mnt/stockage/packages/f24/gnome-shell/po/af.po | 
- | [nb_NO]({{< ref "/f24/language/nb_NO.md" >}}) | 1380 | 1437 | 96.0 | /mnt/stockage/packages/f24/gnome-shell/po/nb.po | 
- | [pa]({{< ref "/f24/language/pa.md" >}}) | 1375 | 1432 | 96.0 | /mnt/stockage/packages/f24/gnome-shell/po/pa.po | 
- | [oc]({{< ref "/f24/language/oc.md" >}}) | 1354 | 1432 | 94.6 | /mnt/stockage/packages/f24/gnome-shell/po/oc.po | 
- | [ug]({{< ref "/f24/language/ug.md" >}}) | 1550 | 1708 | 90.7 | /mnt/stockage/packages/f24/gnome-shell/po/ug.po | 
- | [fi]({{< ref "/f24/language/fi.md" >}}) | 1252 | 1437 | 87.1 | /mnt/stockage/packages/f24/gnome-shell/po/fi.po | 
- | [eo]({{< ref "/f24/language/eo.md" >}}) | 1244 | 1437 | 86.6 | /mnt/stockage/packages/f24/gnome-shell/po/eo.po | 
- | [nn]({{< ref "/f24/language/nn.md" >}}) | 1097 | 1411 | 77.7 | /mnt/stockage/packages/f24/gnome-shell/po/nn.po | 
- | [is]({{< ref "/f24/language/is.md" >}}) | 1087 | 1437 | 75.6 | /mnt/stockage/packages/f24/gnome-shell/po/is.po | 
- | [ar]({{< ref "/f24/language/ar.md" >}}) | 964 | 1437 | 67.1 | /mnt/stockage/packages/f24/gnome-shell/po/ar.po | 
- | [bn]({{< ref "/f24/language/bn.md" >}}) | 566 | 964 | 58.7 | /mnt/stockage/packages/f24/gnome-shell/po/bn.po | 
- | [ms]({{< ref "/f24/language/ms.md" >}}) | 854 | 1485 | 57.5 | /mnt/stockage/packages/f24/gnome-shell/po/ms.po | 
- | [ky]({{< ref "/f24/language/ky.md" >}}) | 829 | 1453 | 57.1 | /mnt/stockage/packages/f24/gnome-shell/po/ky.po | 
- | [ga]({{< ref "/f24/language/ga.md" >}}) | 679 | 1346 | 50.4 | /mnt/stockage/packages/f24/gnome-shell/po/ga.po | 
- | [ne]({{< ref "/f24/language/ne.md" >}}) | 525 | 1483 | 35.4 | /mnt/stockage/packages/f24/gnome-shell/po/ne.po | 
- | [si]({{< ref "/f24/language/si.md" >}}) | 276 | 1354 | 20.4 | /mnt/stockage/packages/f24/gnome-shell/po/si.po | 
- | [ku]({{< ref "/f24/language/ku.md" >}}) | 73 | 1296 | 5.6 | /mnt/stockage/packages/f24/gnome-shell/po/ku.po | 
+ | [as](/f24/language/as) | 1485 | 1485 | 100.0 | /mnt/stockage/packages/f24/gnome-shell/po/as.po | 
+ | [ast](/f24/language/ast) | 1305 | 1305 | 100.0 | /mnt/stockage/packages/f24/gnome-shell/po/ast.po | 
+ | [be](/f24/language/be) | 1478 | 1478 | 100.0 | /mnt/stockage/packages/f24/gnome-shell/po/be.po | 
+ | [bg](/f24/language/bg) | 1437 | 1437 | 100.0 | /mnt/stockage/packages/f24/gnome-shell/po/bg.po | 
+ | [bs](/f24/language/bs) | 1486 | 1486 | 100.0 | /mnt/stockage/packages/f24/gnome-shell/po/bs.po | 
+ | [ca](/f24/language/ca) | 1437 | 1437 | 100.0 | /mnt/stockage/packages/f24/gnome-shell/po/ca.po | 
+ | [ca@valencia](/f24/language/ca@valencia) | 1485 | 1485 | 100.0 | /mnt/stockage/packages/f24/gnome-shell/po/ca@valencia.po | 
+ | [cs](/f24/language/cs) | 1437 | 1437 | 100.0 | /mnt/stockage/packages/f24/gnome-shell/po/cs.po | 
+ | [da](/f24/language/da) | 1437 | 1437 | 100.0 | /mnt/stockage/packages/f24/gnome-shell/po/da.po | 
+ | [de](/f24/language/de) | 1437 | 1437 | 100.0 | /mnt/stockage/packages/f24/gnome-shell/po/de.po | 
+ | [el](/f24/language/el) | 1437 | 1437 | 100.0 | /mnt/stockage/packages/f24/gnome-shell/po/el.po | 
+ | [en_GB](/f24/language/en_GB) | 1437 | 1437 | 100.0 | /mnt/stockage/packages/f24/gnome-shell/po/en_GB.po | 
+ | [en_US](/f24/language/en_US) | 1486 | 1486 | 100.0 | /mnt/stockage/packages/f24/gnome-shell/po/bn_IN.po | 
+ | [es](/f24/language/es) | 1437 | 1437 | 100.0 | /mnt/stockage/packages/f24/gnome-shell/po/es.po | 
+ | [et](/f24/language/et) | 1296 | 1296 | 100.0 | /mnt/stockage/packages/f24/gnome-shell/po/et.po | 
+ | [eu](/f24/language/eu) | 1437 | 1437 | 100.0 | /mnt/stockage/packages/f24/gnome-shell/po/eu.po | 
+ | [fa](/f24/language/fa) | 1437 | 1437 | 100.0 | /mnt/stockage/packages/f24/gnome-shell/po/fa.po | 
+ | [fr](/f24/language/fr) | 1437 | 1437 | 100.0 | /mnt/stockage/packages/f24/gnome-shell/po/fr.po | 
+ | [fur](/f24/language/fur) | 1437 | 1437 | 100.0 | /mnt/stockage/packages/f24/gnome-shell/po/fur.po | 
+ | [gd](/f24/language/gd) | 908 | 908 | 100.0 | /mnt/stockage/packages/f24/gnome-shell/po/gd.po | 
+ | [gl](/f24/language/gl) | 1437 | 1437 | 100.0 | /mnt/stockage/packages/f24/gnome-shell/po/gl.po | 
+ | [gu](/f24/language/gu) | 1485 | 1485 | 100.0 | /mnt/stockage/packages/f24/gnome-shell/po/gu.po | 
+ | [he](/f24/language/he) | 1437 | 1437 | 100.0 | /mnt/stockage/packages/f24/gnome-shell/po/he.po | 
+ | [hi](/f24/language/hi) | 1485 | 1485 | 100.0 | /mnt/stockage/packages/f24/gnome-shell/po/hi.po | 
+ | [hu](/f24/language/hu) | 1437 | 1437 | 100.0 | /mnt/stockage/packages/f24/gnome-shell/po/hu.po | 
+ | [ia](/f24/language/ia) | 1722 | 1722 | 100.0 | /mnt/stockage/packages/f24/gnome-shell/po/ia.po | 
+ | [id](/f24/language/id) | 1437 | 1437 | 100.0 | /mnt/stockage/packages/f24/gnome-shell/po/id.po | 
+ | [it](/f24/language/it) | 1437 | 1437 | 100.0 | /mnt/stockage/packages/f24/gnome-shell/po/it.po | 
+ | [ja](/f24/language/ja) | 1437 | 1437 | 100.0 | /mnt/stockage/packages/f24/gnome-shell/po/ja.po | 
+ | [kk](/f24/language/kk) | 1437 | 1437 | 100.0 | /mnt/stockage/packages/f24/gnome-shell/po/kk.po | 
+ | [km](/f24/language/km) | 1480 | 1480 | 100.0 | /mnt/stockage/packages/f24/gnome-shell/po/km.po | 
+ | [kn](/f24/language/kn) | 1485 | 1485 | 100.0 | /mnt/stockage/packages/f24/gnome-shell/po/kn.po | 
+ | [ko](/f24/language/ko) | 1437 | 1437 | 100.0 | /mnt/stockage/packages/f24/gnome-shell/po/ko.po | 
+ | [lt](/f24/language/lt) | 1437 | 1437 | 100.0 | /mnt/stockage/packages/f24/gnome-shell/po/lt.po | 
+ | [lv](/f24/language/lv) | 1437 | 1437 | 100.0 | /mnt/stockage/packages/f24/gnome-shell/po/lv.po | 
+ | [mk](/f24/language/mk) | 1338 | 1338 | 100.0 | /mnt/stockage/packages/f24/gnome-shell/po/mk.po | 
+ | [ml](/f24/language/ml) | 1722 | 1722 | 100.0 | /mnt/stockage/packages/f24/gnome-shell/po/ml.po | 
+ | [mr](/f24/language/mr) | 1485 | 1485 | 100.0 | /mnt/stockage/packages/f24/gnome-shell/po/mr.po | 
+ | [nl](/f24/language/nl) | 1432 | 1432 | 100.0 | /mnt/stockage/packages/f24/gnome-shell/po/nl.po | 
+ | [or](/f24/language/or) | 1485 | 1485 | 100.0 | /mnt/stockage/packages/f24/gnome-shell/po/or.po | 
+ | [pl](/f24/language/pl) | 1468 | 1468 | 100.0 | /mnt/stockage/packages/f24/gnome-shell/po/pl.po | 
+ | [pt](/f24/language/pt) | 1437 | 1437 | 100.0 | /mnt/stockage/packages/f24/gnome-shell/po/pt.po | 
+ | [pt_BR](/f24/language/pt_BR) | 1437 | 1437 | 100.0 | /mnt/stockage/packages/f24/gnome-shell/po/pt_BR.po | 
+ | [ro](/f24/language/ro) | 1346 | 1346 | 100.0 | /mnt/stockage/packages/f24/gnome-shell/po/ro.po | 
+ | [ru](/f24/language/ru) | 1437 | 1437 | 100.0 | /mnt/stockage/packages/f24/gnome-shell/po/ru.po | 
+ | [sk](/f24/language/sk) | 1437 | 1437 | 100.0 | /mnt/stockage/packages/f24/gnome-shell/po/sk.po | 
+ | [sl](/f24/language/sl) | 1437 | 1437 | 100.0 | /mnt/stockage/packages/f24/gnome-shell/po/sl.po | 
+ | [sr](/f24/language/sr) | 2874 | 2874 | 100.0 | /mnt/stockage/packages/f24/gnome-shell/po/sr.po/mnt/stockage/packages/f24/gnome-shell/po/sr@latin.po | 
+ | [sv](/f24/language/sv) | 1437 | 1437 | 100.0 | /mnt/stockage/packages/f24/gnome-shell/po/sv.po | 
+ | [ta](/f24/language/ta) | 1485 | 1485 | 100.0 | /mnt/stockage/packages/f24/gnome-shell/po/ta.po | 
+ | [te](/f24/language/te) | 1485 | 1485 | 100.0 | /mnt/stockage/packages/f24/gnome-shell/po/te.po | 
+ | [tg](/f24/language/tg) | 1322 | 1322 | 100.0 | /mnt/stockage/packages/f24/gnome-shell/po/tg.po | 
+ | [th](/f24/language/th) | 1452 | 1452 | 100.0 | /mnt/stockage/packages/f24/gnome-shell/po/th.po | 
+ | [tr](/f24/language/tr) | 1437 | 1437 | 100.0 | /mnt/stockage/packages/f24/gnome-shell/po/tr.po | 
+ | [uk](/f24/language/uk) | 1437 | 1437 | 100.0 | /mnt/stockage/packages/f24/gnome-shell/po/uk.po | 
+ | [uz](/f24/language/uz) | 1478 | 1478 | 100.0 | /mnt/stockage/packages/f24/gnome-shell/po/uz@cyrillic.po | 
+ | [vi](/f24/language/vi) | 1437 | 1437 | 100.0 | /mnt/stockage/packages/f24/gnome-shell/po/vi.po | 
+ | [zh_Hans](/f24/language/zh_Hans) | 1437 | 1437 | 100.0 | /mnt/stockage/packages/f24/gnome-shell/po/zh_CN.po | 
+ | [zh_Hant](/f24/language/zh_Hant) | 2920 | 2920 | 100.0 | /mnt/stockage/packages/f24/gnome-shell/po/zh_HK.po/mnt/stockage/packages/f24/gnome-shell/po/zh_TW.po | 
+ | [an](/f24/language/an) | 1298 | 1322 | 98.2 | /mnt/stockage/packages/f24/gnome-shell/po/an.po | 
+ | [af](/f24/language/af) | 1235 | 1265 | 97.6 | /mnt/stockage/packages/f24/gnome-shell/po/af.po | 
+ | [nb_NO](/f24/language/nb_NO) | 1380 | 1437 | 96.0 | /mnt/stockage/packages/f24/gnome-shell/po/nb.po | 
+ | [pa](/f24/language/pa) | 1375 | 1432 | 96.0 | /mnt/stockage/packages/f24/gnome-shell/po/pa.po | 
+ | [oc](/f24/language/oc) | 1354 | 1432 | 94.6 | /mnt/stockage/packages/f24/gnome-shell/po/oc.po | 
+ | [ug](/f24/language/ug) | 1550 | 1708 | 90.7 | /mnt/stockage/packages/f24/gnome-shell/po/ug.po | 
+ | [fi](/f24/language/fi) | 1252 | 1437 | 87.1 | /mnt/stockage/packages/f24/gnome-shell/po/fi.po | 
+ | [eo](/f24/language/eo) | 1244 | 1437 | 86.6 | /mnt/stockage/packages/f24/gnome-shell/po/eo.po | 
+ | [nn](/f24/language/nn) | 1097 | 1411 | 77.7 | /mnt/stockage/packages/f24/gnome-shell/po/nn.po | 
+ | [is](/f24/language/is) | 1087 | 1437 | 75.6 | /mnt/stockage/packages/f24/gnome-shell/po/is.po | 
+ | [ar](/f24/language/ar) | 964 | 1437 | 67.1 | /mnt/stockage/packages/f24/gnome-shell/po/ar.po | 
+ | [bn](/f24/language/bn) | 566 | 964 | 58.7 | /mnt/stockage/packages/f24/gnome-shell/po/bn.po | 
+ | [ms](/f24/language/ms) | 854 | 1485 | 57.5 | /mnt/stockage/packages/f24/gnome-shell/po/ms.po | 
+ | [ky](/f24/language/ky) | 829 | 1453 | 57.1 | /mnt/stockage/packages/f24/gnome-shell/po/ky.po | 
+ | [ga](/f24/language/ga) | 679 | 1346 | 50.4 | /mnt/stockage/packages/f24/gnome-shell/po/ga.po | 
+ | [ne](/f24/language/ne) | 525 | 1483 | 35.4 | /mnt/stockage/packages/f24/gnome-shell/po/ne.po | 
+ | [si](/f24/language/si) | 276 | 1354 | 20.4 | /mnt/stockage/packages/f24/gnome-shell/po/si.po | 
+ | [ku](/f24/language/ku) | 73 | 1296 | 5.6 | /mnt/stockage/packages/f24/gnome-shell/po/ku.po | 
 {.sortable}
 
 

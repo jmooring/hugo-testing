@@ -18,17 +18,17 @@ The package drupal7-potx (version 1.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [el]({{< ref "/f22/language/el.md" >}}) | 169 | 169 | 100.0 | /mnt/stockage/packages/f22/drupal7-potx/translations/el.po | 
- | [es]({{< ref "/f22/language/es.md" >}}) | 180 | 180 | 100.0 | /mnt/stockage/packages/f22/drupal7-potx/translations/es.po | 
- | [fr]({{< ref "/f22/language/fr.md" >}}) | 184 | 184 | 100.0 | /mnt/stockage/packages/f22/drupal7-potx/translations/fr.po | 
- | [hu]({{< ref "/f22/language/hu.md" >}}) | 184 | 184 | 100.0 | /mnt/stockage/packages/f22/drupal7-potx/translations/hu.po | 
- | [ja]({{< ref "/f22/language/ja.md" >}}) | 169 | 169 | 100.0 | /mnt/stockage/packages/f22/drupal7-potx/translations/ja.po | 
- | [nl]({{< ref "/f22/language/nl.md" >}}) | 168 | 168 | 100.0 | /mnt/stockage/packages/f22/drupal7-potx/translations/nl.po | 
- | [pl]({{< ref "/f22/language/pl.md" >}}) | 183 | 183 | 100.0 | /mnt/stockage/packages/f22/drupal7-potx/translations/pl.po | 
- | [pt_BR]({{< ref "/f22/language/pt_BR.md" >}}) | 180 | 180 | 100.0 | /mnt/stockage/packages/f22/drupal7-potx/translations/pt-br.po | 
- | [ru]({{< ref "/f22/language/ru.md" >}}) | 136 | 136 | 100.0 | /mnt/stockage/packages/f22/drupal7-potx/translations/ru.po | 
- | [uk]({{< ref "/f22/language/uk.md" >}}) | 184 | 184 | 100.0 | /mnt/stockage/packages/f22/drupal7-potx/translations/uk.po | 
- | [de]({{< ref "/f22/language/de.md" >}}) | 189 | 393 | 48.1 | /mnt/stockage/packages/f22/drupal7-potx/translations/de.po | 
+ | [el](/f22/language/el) | 169 | 169 | 100.0 | /mnt/stockage/packages/f22/drupal7-potx/translations/el.po | 
+ | [es](/f22/language/es) | 180 | 180 | 100.0 | /mnt/stockage/packages/f22/drupal7-potx/translations/es.po | 
+ | [fr](/f22/language/fr) | 184 | 184 | 100.0 | /mnt/stockage/packages/f22/drupal7-potx/translations/fr.po | 
+ | [hu](/f22/language/hu) | 184 | 184 | 100.0 | /mnt/stockage/packages/f22/drupal7-potx/translations/hu.po | 
+ | [ja](/f22/language/ja) | 169 | 169 | 100.0 | /mnt/stockage/packages/f22/drupal7-potx/translations/ja.po | 
+ | [nl](/f22/language/nl) | 168 | 168 | 100.0 | /mnt/stockage/packages/f22/drupal7-potx/translations/nl.po | 
+ | [pl](/f22/language/pl) | 183 | 183 | 100.0 | /mnt/stockage/packages/f22/drupal7-potx/translations/pl.po | 
+ | [pt_BR](/f22/language/pt_BR) | 180 | 180 | 100.0 | /mnt/stockage/packages/f22/drupal7-potx/translations/pt-br.po | 
+ | [ru](/f22/language/ru) | 136 | 136 | 100.0 | /mnt/stockage/packages/f22/drupal7-potx/translations/ru.po | 
+ | [uk](/f22/language/uk) | 184 | 184 | 100.0 | /mnt/stockage/packages/f22/drupal7-potx/translations/uk.po | 
+ | [de](/f22/language/de) | 189 | 393 | 48.1 | /mnt/stockage/packages/f22/drupal7-potx/translations/de.po | 
 {.sortable}
 
 

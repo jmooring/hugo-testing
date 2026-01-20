@@ -18,8 +18,8 @@ The package qt6-qtwebengine (version 6.9.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ka]({{< ref "/f42/language/ka.md" >}}) | 964 | 964 | 100.0 | /mnt/stockage/packages/f42/qt6-qtwebengine/src/3rdparty/chromium/third_party/fontconfig/src/po/ka.po/mnt/stockage/packages/f42/qt6-qtwebengine/src/3rdparty/chromium/third_party/fontconfig/src/po-conf/ka.po | 
- | [zh_Hans]({{< ref "/f42/language/zh_Hans.md" >}}) | 913 | 913 | 100.0 | /mnt/stockage/packages/f42/qt6-qtwebengine/src/3rdparty/chromium/third_party/fontconfig/src/po/zh_CN.po/mnt/stockage/packages/f42/qt6-qtwebengine/src/3rdparty/chromium/third_party/fontconfig/src/po-conf/zh_CN.po | 
+ | [ka](/f42/language/ka) | 964 | 964 | 100.0 | /mnt/stockage/packages/f42/qt6-qtwebengine/src/3rdparty/chromium/third_party/fontconfig/src/po/ka.po/mnt/stockage/packages/f42/qt6-qtwebengine/src/3rdparty/chromium/third_party/fontconfig/src/po-conf/ka.po | 
+ | [zh_Hans](/f42/language/zh_Hans) | 913 | 913 | 100.0 | /mnt/stockage/packages/f42/qt6-qtwebengine/src/3rdparty/chromium/third_party/fontconfig/src/po/zh_CN.po/mnt/stockage/packages/f42/qt6-qtwebengine/src/3rdparty/chromium/third_party/fontconfig/src/po-conf/zh_CN.po | 
 {.sortable}
 
 

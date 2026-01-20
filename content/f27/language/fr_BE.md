@@ -38,9 +38,9 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [intltool]({{< ref "/f27/package/intltool.md" >}}) | 9 | 10 | 90.0 | NONE <kenneth@gnu.org> | 
- | [openerp]({{< ref "/f27/package/openerp.md" >}}) | 52 | 11494 | 0.5 | French (Belgium) <fr_BE@li.org> | 
- | [openerp7]({{< ref "/f27/package/openerp7.md" >}}) | 28 | 11618 | 0.2 | French (Belgium) <fr_BE@li.org> | 
+ | [intltool](/f27/package/intltool) | 9 | 10 | 90.0 | NONE <kenneth@gnu.org> | 
+ | [openerp](/f27/package/openerp) | 52 | 11494 | 0.5 | French (Belgium) <fr_BE@li.org> | 
+ | [openerp7](/f27/package/openerp7) | 28 | 11618 | 0.2 | French (Belgium) <fr_BE@li.org> | 
 {.sortable}
 
 

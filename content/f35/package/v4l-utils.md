@@ -18,11 +18,11 @@ The package v4l-utils (version 1.22.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f35/language/de.md" >}}) | 2915 | 3127 | 93.2 | /mnt/stockage/packages/f35/v4l-utils/libdvbv5-po/de.po/mnt/stockage/packages/f35/v4l-utils/v4l-utils-po/de.po | 
- | [pt_BR]({{< ref "/f35/language/pt_BR.md" >}}) | 1981 | 3127 | 63.4 | /mnt/stockage/packages/f35/v4l-utils/libdvbv5-po/pt_BR.po/mnt/stockage/packages/f35/v4l-utils/v4l-utils-po/pt_BR.po | 
- | [uk]({{< ref "/f35/language/uk.md" >}}) | 566 | 3127 | 18.1 | /mnt/stockage/packages/f35/v4l-utils/libdvbv5-po/uk.po/mnt/stockage/packages/f35/v4l-utils/v4l-utils-po/uk.po | 
- | [ca]({{< ref "/f35/language/ca.md" >}}) | 168 | 3127 | 5.4 | /mnt/stockage/packages/f35/v4l-utils/libdvbv5-po/ca.po/mnt/stockage/packages/f35/v4l-utils/v4l-utils-po/ca.po | 
- | [fr]({{< ref "/f35/language/fr.md" >}}) | 91 | 2362 | 3.9 | /mnt/stockage/packages/f35/v4l-utils/v4l-utils-po/fr.po | 
+ | [de](/f35/language/de) | 2915 | 3127 | 93.2 | /mnt/stockage/packages/f35/v4l-utils/libdvbv5-po/de.po/mnt/stockage/packages/f35/v4l-utils/v4l-utils-po/de.po | 
+ | [pt_BR](/f35/language/pt_BR) | 1981 | 3127 | 63.4 | /mnt/stockage/packages/f35/v4l-utils/libdvbv5-po/pt_BR.po/mnt/stockage/packages/f35/v4l-utils/v4l-utils-po/pt_BR.po | 
+ | [uk](/f35/language/uk) | 566 | 3127 | 18.1 | /mnt/stockage/packages/f35/v4l-utils/libdvbv5-po/uk.po/mnt/stockage/packages/f35/v4l-utils/v4l-utils-po/uk.po | 
+ | [ca](/f35/language/ca) | 168 | 3127 | 5.4 | /mnt/stockage/packages/f35/v4l-utils/libdvbv5-po/ca.po/mnt/stockage/packages/f35/v4l-utils/v4l-utils-po/ca.po | 
+ | [fr](/f35/language/fr) | 91 | 2362 | 3.9 | /mnt/stockage/packages/f35/v4l-utils/v4l-utils-po/fr.po | 
 {.sortable}
 
 

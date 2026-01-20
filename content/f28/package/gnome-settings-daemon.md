@@ -18,101 +18,101 @@ The package gnome-settings-daemon (version 3.28.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [as]({{< ref "/f28/language/as.md" >}}) | 2607 | 2607 | 100.0 | /mnt/stockage/packages/f28/gnome-settings-daemon/po/as.po | 
- | [ast]({{< ref "/f28/language/ast.md" >}}) | 3892 | 3892 | 100.0 | /mnt/stockage/packages/f28/gnome-settings-daemon/po/ast.po | 
- | [be]({{< ref "/f28/language/be.md" >}}) | 2659 | 2659 | 100.0 | /mnt/stockage/packages/f28/gnome-settings-daemon/po/be.po | 
- | [be_Latn]({{< ref "/f28/language/be_Latn.md" >}}) | 1034 | 1034 | 100.0 | /mnt/stockage/packages/f28/gnome-settings-daemon/po/be@latin.po | 
- | [bg]({{< ref "/f28/language/bg.md" >}}) | 3740 | 3740 | 100.0 | /mnt/stockage/packages/f28/gnome-settings-daemon/po/bg.po | 
- | [bn]({{< ref "/f28/language/bn.md" >}}) | 1752 | 1752 | 100.0 | /mnt/stockage/packages/f28/gnome-settings-daemon/po/bn.po | 
- | [bn_IN]({{< ref "/f28/language/bn_IN.md" >}}) | 2607 | 2607 | 100.0 | /mnt/stockage/packages/f28/gnome-settings-daemon/po/bn_IN.po | 
- | [bs]({{< ref "/f28/language/bs.md" >}}) | 2494 | 2494 | 100.0 | /mnt/stockage/packages/f28/gnome-settings-daemon/po/bs.po | 
- | [ca]({{< ref "/f28/language/ca.md" >}}) | 2659 | 2659 | 100.0 | /mnt/stockage/packages/f28/gnome-settings-daemon/po/ca.po | 
- | [ca@valencia]({{< ref "/f28/language/ca@valencia.md" >}}) | 2659 | 2659 | 100.0 | /mnt/stockage/packages/f28/gnome-settings-daemon/po/ca@valencia.po | 
- | [crh]({{< ref "/f28/language/crh.md" >}}) | 3694 | 3694 | 100.0 | /mnt/stockage/packages/f28/gnome-settings-daemon/po/crh.po | 
- | [cs]({{< ref "/f28/language/cs.md" >}}) | 2547 | 2547 | 100.0 | /mnt/stockage/packages/f28/gnome-settings-daemon/po/cs.po | 
- | [da]({{< ref "/f28/language/da.md" >}}) | 2547 | 2547 | 100.0 | /mnt/stockage/packages/f28/gnome-settings-daemon/po/da.po | 
- | [de]({{< ref "/f28/language/de.md" >}}) | 2547 | 2547 | 100.0 | /mnt/stockage/packages/f28/gnome-settings-daemon/po/de.po | 
- | [el]({{< ref "/f28/language/el.md" >}}) | 2547 | 2547 | 100.0 | /mnt/stockage/packages/f28/gnome-settings-daemon/po/el.po | 
- | [en_GB]({{< ref "/f28/language/en_GB.md" >}}) | 2547 | 2547 | 100.0 | /mnt/stockage/packages/f28/gnome-settings-daemon/po/en_GB.po | 
- | [es]({{< ref "/f28/language/es.md" >}}) | 2547 | 2547 | 100.0 | /mnt/stockage/packages/f28/gnome-settings-daemon/po/es.po | 
- | [eu]({{< ref "/f28/language/eu.md" >}}) | 2659 | 2659 | 100.0 | /mnt/stockage/packages/f28/gnome-settings-daemon/po/eu.po | 
- | [fr]({{< ref "/f28/language/fr.md" >}}) | 2547 | 2547 | 100.0 | /mnt/stockage/packages/f28/gnome-settings-daemon/po/fr.po | 
- | [fur]({{< ref "/f28/language/fur.md" >}}) | 2547 | 2547 | 100.0 | /mnt/stockage/packages/f28/gnome-settings-daemon/po/fur.po | 
- | [gl]({{< ref "/f28/language/gl.md" >}}) | 2547 | 2547 | 100.0 | /mnt/stockage/packages/f28/gnome-settings-daemon/po/gl.po | 
- | [gu]({{< ref "/f28/language/gu.md" >}}) | 2303 | 2303 | 100.0 | /mnt/stockage/packages/f28/gnome-settings-daemon/po/gu.po | 
- | [he]({{< ref "/f28/language/he.md" >}}) | 2659 | 2659 | 100.0 | /mnt/stockage/packages/f28/gnome-settings-daemon/po/he.po | 
- | [hi]({{< ref "/f28/language/hi.md" >}}) | 2607 | 2607 | 100.0 | /mnt/stockage/packages/f28/gnome-settings-daemon/po/hi.po | 
- | [hr]({{< ref "/f28/language/hr.md" >}}) | 2547 | 2547 | 100.0 | /mnt/stockage/packages/f28/gnome-settings-daemon/po/hr.po | 
- | [hu]({{< ref "/f28/language/hu.md" >}}) | 2547 | 2547 | 100.0 | /mnt/stockage/packages/f28/gnome-settings-daemon/po/hu.po | 
- | [id]({{< ref "/f28/language/id.md" >}}) | 2547 | 2547 | 100.0 | /mnt/stockage/packages/f28/gnome-settings-daemon/po/id.po | 
- | [it]({{< ref "/f28/language/it.md" >}}) | 2547 | 2547 | 100.0 | /mnt/stockage/packages/f28/gnome-settings-daemon/po/it.po | 
- | [ja]({{< ref "/f28/language/ja.md" >}}) | 3729 | 3729 | 100.0 | /mnt/stockage/packages/f28/gnome-settings-daemon/po/ja.po | 
- | [km]({{< ref "/f28/language/km.md" >}}) | 3740 | 3740 | 100.0 | /mnt/stockage/packages/f28/gnome-settings-daemon/po/km.po | 
- | [kn]({{< ref "/f28/language/kn.md" >}}) | 2607 | 2607 | 100.0 | /mnt/stockage/packages/f28/gnome-settings-daemon/po/kn.po | 
- | [ko]({{< ref "/f28/language/ko.md" >}}) | 2547 | 2547 | 100.0 | /mnt/stockage/packages/f28/gnome-settings-daemon/po/ko.po | 
- | [lt]({{< ref "/f28/language/lt.md" >}}) | 2547 | 2547 | 100.0 | /mnt/stockage/packages/f28/gnome-settings-daemon/po/lt.po | 
- | [lv]({{< ref "/f28/language/lv.md" >}}) | 2547 | 2547 | 100.0 | /mnt/stockage/packages/f28/gnome-settings-daemon/po/lv.po | 
- | [mk]({{< ref "/f28/language/mk.md" >}}) | 3749 | 3749 | 100.0 | /mnt/stockage/packages/f28/gnome-settings-daemon/po/mk.po | 
- | [mr]({{< ref "/f28/language/mr.md" >}}) | 2607 | 2607 | 100.0 | /mnt/stockage/packages/f28/gnome-settings-daemon/po/mr.po | 
- | [nl]({{< ref "/f28/language/nl.md" >}}) | 2547 | 2547 | 100.0 | /mnt/stockage/packages/f28/gnome-settings-daemon/po/nl.po | 
- | [oc]({{< ref "/f28/language/oc.md" >}}) | 2416 | 2416 | 100.0 | /mnt/stockage/packages/f28/gnome-settings-daemon/po/oc.po | 
- | [or]({{< ref "/f28/language/or.md" >}}) | 2607 | 2607 | 100.0 | /mnt/stockage/packages/f28/gnome-settings-daemon/po/or.po | 
- | [pa]({{< ref "/f28/language/pa.md" >}}) | 2607 | 2607 | 100.0 | /mnt/stockage/packages/f28/gnome-settings-daemon/po/pa.po | 
- | [pl]({{< ref "/f28/language/pl.md" >}}) | 2547 | 2547 | 100.0 | /mnt/stockage/packages/f28/gnome-settings-daemon/po/pl.po | 
- | [pt]({{< ref "/f28/language/pt.md" >}}) | 2416 | 2416 | 100.0 | /mnt/stockage/packages/f28/gnome-settings-daemon/po/pt.po | 
- | [pt_BR]({{< ref "/f28/language/pt_BR.md" >}}) | 2547 | 2547 | 100.0 | /mnt/stockage/packages/f28/gnome-settings-daemon/po/pt_BR.po | 
- | [ro]({{< ref "/f28/language/ro.md" >}}) | 3750 | 3750 | 100.0 | /mnt/stockage/packages/f28/gnome-settings-daemon/po/ro.po | 
- | [ru]({{< ref "/f28/language/ru.md" >}}) | 2292 | 2292 | 100.0 | /mnt/stockage/packages/f28/gnome-settings-daemon/po/ru.po | 
- | [sl]({{< ref "/f28/language/sl.md" >}}) | 2547 | 2547 | 100.0 | /mnt/stockage/packages/f28/gnome-settings-daemon/po/sl.po | 
- | [sr]({{< ref "/f28/language/sr.md" >}}) | 5094 | 5094 | 100.0 | /mnt/stockage/packages/f28/gnome-settings-daemon/po/sr.po/mnt/stockage/packages/f28/gnome-settings-daemon/po/sr@latin.po | 
- | [sv]({{< ref "/f28/language/sv.md" >}}) | 2547 | 2547 | 100.0 | /mnt/stockage/packages/f28/gnome-settings-daemon/po/sv.po | 
- | [ta]({{< ref "/f28/language/ta.md" >}}) | 2607 | 2607 | 100.0 | /mnt/stockage/packages/f28/gnome-settings-daemon/po/ta.po | 
- | [te]({{< ref "/f28/language/te.md" >}}) | 2607 | 2607 | 100.0 | /mnt/stockage/packages/f28/gnome-settings-daemon/po/te.po | 
- | [th]({{< ref "/f28/language/th.md" >}}) | 3740 | 3740 | 100.0 | /mnt/stockage/packages/f28/gnome-settings-daemon/po/th.po | 
- | [tr]({{< ref "/f28/language/tr.md" >}}) | 2547 | 2547 | 100.0 | /mnt/stockage/packages/f28/gnome-settings-daemon/po/tr.po | 
- | [uk]({{< ref "/f28/language/uk.md" >}}) | 2494 | 2494 | 100.0 | /mnt/stockage/packages/f28/gnome-settings-daemon/po/uk.po | 
- | [vi]({{< ref "/f28/language/vi.md" >}}) | 2416 | 2416 | 100.0 | /mnt/stockage/packages/f28/gnome-settings-daemon/po/vi.po | 
- | [zh_Hans]({{< ref "/f28/language/zh_Hans.md" >}}) | 2659 | 2659 | 100.0 | /mnt/stockage/packages/f28/gnome-settings-daemon/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f28/language/zh_Hant.md" >}}) | 2538 | 2538 | 100.0 | /mnt/stockage/packages/f28/gnome-settings-daemon/po/zh_TW.po | 
- | [zh_Hant_HK]({{< ref "/f28/language/zh_Hant_HK.md" >}}) | 2607 | 2607 | 100.0 | /mnt/stockage/packages/f28/gnome-settings-daemon/po/zh_HK.po | 
- | [nn]({{< ref "/f28/language/nn.md" >}}) | 1704 | 1722 | 99.0 | /mnt/stockage/packages/f28/gnome-settings-daemon/po/nn.po | 
- | [sk]({{< ref "/f28/language/sk.md" >}}) | 2281 | 2659 | 85.8 | /mnt/stockage/packages/f28/gnome-settings-daemon/po/sk.po | 
- | [error]({{< ref "/f28/language/error.md" >}}) | 1652 | 1959 | 84.3 | /mnt/stockage/packages/f28/gnome-settings-daemon/po/en@shaw.po | 
- | [fa]({{< ref "/f28/language/fa.md" >}}) | 2647 | 3932 | 67.3 | /mnt/stockage/packages/f28/gnome-settings-daemon/po/fa.po | 
- | [et]({{< ref "/f28/language/et.md" >}}) | 1681 | 2538 | 66.2 | /mnt/stockage/packages/f28/gnome-settings-daemon/po/et.po | 
- | [is]({{< ref "/f28/language/is.md" >}}) | 1509 | 2416 | 62.5 | /mnt/stockage/packages/f28/gnome-settings-daemon/po/is.po | 
- | [nb_NO]({{< ref "/f28/language/nb_NO.md" >}}) | 1600 | 2659 | 60.2 | /mnt/stockage/packages/f28/gnome-settings-daemon/po/nb.po | 
- | [ml]({{< ref "/f28/language/ml.md" >}}) | 1678 | 2916 | 57.5 | /mnt/stockage/packages/f28/gnome-settings-daemon/po/ml.po | 
- | [kk]({{< ref "/f28/language/kk.md" >}}) | 1450 | 2659 | 54.5 | /mnt/stockage/packages/f28/gnome-settings-daemon/po/kk.po | 
- | [ar]({{< ref "/f28/language/ar.md" >}}) | 1683 | 3144 | 53.5 | /mnt/stockage/packages/f28/gnome-settings-daemon/po/ar.po | 
- | [fi]({{< ref "/f28/language/fi.md" >}}) | 1300 | 2547 | 51.0 | /mnt/stockage/packages/f28/gnome-settings-daemon/po/fi.po | 
- | [gd]({{< ref "/f28/language/gd.md" >}}) | 1325 | 2659 | 49.8 | /mnt/stockage/packages/f28/gnome-settings-daemon/po/gd.po | 
- | [af]({{< ref "/f28/language/af.md" >}}) | 509 | 1080 | 47.1 | /mnt/stockage/packages/f28/gnome-settings-daemon/po/af.po | 
- | [dz]({{< ref "/f28/language/dz.md" >}}) | 441 | 1034 | 42.6 | /mnt/stockage/packages/f28/gnome-settings-daemon/po/dz.po | 
- | [ka]({{< ref "/f28/language/ka.md" >}}) | 436 | 1034 | 42.2 | /mnt/stockage/packages/f28/gnome-settings-daemon/po/ka.po | 
- | [cy]({{< ref "/f28/language/cy.md" >}}) | 408 | 1034 | 39.5 | /mnt/stockage/packages/f28/gnome-settings-daemon/po/cy.po | 
- | [mg]({{< ref "/f28/language/mg.md" >}}) | 408 | 1034 | 39.5 | /mnt/stockage/packages/f28/gnome-settings-daemon/po/mg.po | 
- | [mn]({{< ref "/f28/language/mn.md" >}}) | 408 | 1034 | 39.5 | /mnt/stockage/packages/f28/gnome-settings-daemon/po/mn.po | 
- | [sq]({{< ref "/f28/language/sq.md" >}}) | 408 | 1034 | 39.5 | /mnt/stockage/packages/f28/gnome-settings-daemon/po/sq.po | 
- | [en_CA]({{< ref "/f28/language/en_CA.md" >}}) | 398 | 1034 | 38.5 | /mnt/stockage/packages/f28/gnome-settings-daemon/po/en_CA.po | 
- | [ne]({{< ref "/f28/language/ne.md" >}}) | 967 | 2659 | 36.4 | /mnt/stockage/packages/f28/gnome-settings-daemon/po/ne.po | 
- | [ku]({{< ref "/f28/language/ku.md" >}}) | 369 | 1034 | 35.7 | /mnt/stockage/packages/f28/gnome-settings-daemon/po/ku.po | 
- | [eo]({{< ref "/f28/language/eo.md" >}}) | 797 | 2485 | 32.1 | /mnt/stockage/packages/f28/gnome-settings-daemon/po/eo.po | 
- | [az]({{< ref "/f28/language/az.md" >}}) | 313 | 1034 | 30.3 | /mnt/stockage/packages/f28/gnome-settings-daemon/po/az.po | 
- | [nso]({{< ref "/f28/language/nso.md" >}}) | 313 | 1034 | 30.3 | /mnt/stockage/packages/f28/gnome-settings-daemon/po/nso.po | 
- | [xh]({{< ref "/f28/language/xh.md" >}}) | 313 | 1034 | 30.3 | /mnt/stockage/packages/f28/gnome-settings-daemon/po/xh.po | 
- | [zu]({{< ref "/f28/language/zu.md" >}}) | 313 | 1034 | 30.3 | /mnt/stockage/packages/f28/gnome-settings-daemon/po/zu.po | 
- | [ga]({{< ref "/f28/language/ga.md" >}}) | 366 | 1627 | 22.5 | /mnt/stockage/packages/f28/gnome-settings-daemon/po/ga.po | 
- | [ms]({{< ref "/f28/language/ms.md" >}}) | 207 | 1034 | 20.0 | /mnt/stockage/packages/f28/gnome-settings-daemon/po/ms.po | 
- | [mai]({{< ref "/f28/language/mai.md" >}}) | 227 | 1624 | 14.0 | /mnt/stockage/packages/f28/gnome-settings-daemon/po/mai.po | 
- | [tg]({{< ref "/f28/language/tg.md" >}}) | 401 | 3698 | 10.8 | /mnt/stockage/packages/f28/gnome-settings-daemon/po/tg.po | 
- | [br]({{< ref "/f28/language/br.md" >}}) | 129 | 1618 | 8.0 | /mnt/stockage/packages/f28/gnome-settings-daemon/po/br.po | 
- | [nds]({{< ref "/f28/language/nds.md" >}}) | 123 | 1624 | 7.6 | /mnt/stockage/packages/f28/gnome-settings-daemon/po/nds.po | 
- | [si]({{< ref "/f28/language/si.md" >}}) | 21 | 1034 | 2.0 | /mnt/stockage/packages/f28/gnome-settings-daemon/po/si.po | 
- | [wa]({{< ref "/f28/language/wa.md" >}}) | 18 | 1034 | 1.7 | /mnt/stockage/packages/f28/gnome-settings-daemon/po/wa.po | 
- | [rw]({{< ref "/f28/language/rw.md" >}}) | 6 | 1034 | 0.6 | /mnt/stockage/packages/f28/gnome-settings-daemon/po/rw.po | 
- | [am]({{< ref "/f28/language/am.md" >}}) | 3 | 1034 | 0.3 | /mnt/stockage/packages/f28/gnome-settings-daemon/po/am.po | 
- | [ug]({{< ref "/f28/language/ug.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f28/gnome-settings-daemon/po/ug.po | 
+ | [as](/f28/language/as) | 2607 | 2607 | 100.0 | /mnt/stockage/packages/f28/gnome-settings-daemon/po/as.po | 
+ | [ast](/f28/language/ast) | 3892 | 3892 | 100.0 | /mnt/stockage/packages/f28/gnome-settings-daemon/po/ast.po | 
+ | [be](/f28/language/be) | 2659 | 2659 | 100.0 | /mnt/stockage/packages/f28/gnome-settings-daemon/po/be.po | 
+ | [be_Latn](/f28/language/be_Latn) | 1034 | 1034 | 100.0 | /mnt/stockage/packages/f28/gnome-settings-daemon/po/be@latin.po | 
+ | [bg](/f28/language/bg) | 3740 | 3740 | 100.0 | /mnt/stockage/packages/f28/gnome-settings-daemon/po/bg.po | 
+ | [bn](/f28/language/bn) | 1752 | 1752 | 100.0 | /mnt/stockage/packages/f28/gnome-settings-daemon/po/bn.po | 
+ | [bn_IN](/f28/language/bn_IN) | 2607 | 2607 | 100.0 | /mnt/stockage/packages/f28/gnome-settings-daemon/po/bn_IN.po | 
+ | [bs](/f28/language/bs) | 2494 | 2494 | 100.0 | /mnt/stockage/packages/f28/gnome-settings-daemon/po/bs.po | 
+ | [ca](/f28/language/ca) | 2659 | 2659 | 100.0 | /mnt/stockage/packages/f28/gnome-settings-daemon/po/ca.po | 
+ | [ca@valencia](/f28/language/ca@valencia) | 2659 | 2659 | 100.0 | /mnt/stockage/packages/f28/gnome-settings-daemon/po/ca@valencia.po | 
+ | [crh](/f28/language/crh) | 3694 | 3694 | 100.0 | /mnt/stockage/packages/f28/gnome-settings-daemon/po/crh.po | 
+ | [cs](/f28/language/cs) | 2547 | 2547 | 100.0 | /mnt/stockage/packages/f28/gnome-settings-daemon/po/cs.po | 
+ | [da](/f28/language/da) | 2547 | 2547 | 100.0 | /mnt/stockage/packages/f28/gnome-settings-daemon/po/da.po | 
+ | [de](/f28/language/de) | 2547 | 2547 | 100.0 | /mnt/stockage/packages/f28/gnome-settings-daemon/po/de.po | 
+ | [el](/f28/language/el) | 2547 | 2547 | 100.0 | /mnt/stockage/packages/f28/gnome-settings-daemon/po/el.po | 
+ | [en_GB](/f28/language/en_GB) | 2547 | 2547 | 100.0 | /mnt/stockage/packages/f28/gnome-settings-daemon/po/en_GB.po | 
+ | [es](/f28/language/es) | 2547 | 2547 | 100.0 | /mnt/stockage/packages/f28/gnome-settings-daemon/po/es.po | 
+ | [eu](/f28/language/eu) | 2659 | 2659 | 100.0 | /mnt/stockage/packages/f28/gnome-settings-daemon/po/eu.po | 
+ | [fr](/f28/language/fr) | 2547 | 2547 | 100.0 | /mnt/stockage/packages/f28/gnome-settings-daemon/po/fr.po | 
+ | [fur](/f28/language/fur) | 2547 | 2547 | 100.0 | /mnt/stockage/packages/f28/gnome-settings-daemon/po/fur.po | 
+ | [gl](/f28/language/gl) | 2547 | 2547 | 100.0 | /mnt/stockage/packages/f28/gnome-settings-daemon/po/gl.po | 
+ | [gu](/f28/language/gu) | 2303 | 2303 | 100.0 | /mnt/stockage/packages/f28/gnome-settings-daemon/po/gu.po | 
+ | [he](/f28/language/he) | 2659 | 2659 | 100.0 | /mnt/stockage/packages/f28/gnome-settings-daemon/po/he.po | 
+ | [hi](/f28/language/hi) | 2607 | 2607 | 100.0 | /mnt/stockage/packages/f28/gnome-settings-daemon/po/hi.po | 
+ | [hr](/f28/language/hr) | 2547 | 2547 | 100.0 | /mnt/stockage/packages/f28/gnome-settings-daemon/po/hr.po | 
+ | [hu](/f28/language/hu) | 2547 | 2547 | 100.0 | /mnt/stockage/packages/f28/gnome-settings-daemon/po/hu.po | 
+ | [id](/f28/language/id) | 2547 | 2547 | 100.0 | /mnt/stockage/packages/f28/gnome-settings-daemon/po/id.po | 
+ | [it](/f28/language/it) | 2547 | 2547 | 100.0 | /mnt/stockage/packages/f28/gnome-settings-daemon/po/it.po | 
+ | [ja](/f28/language/ja) | 3729 | 3729 | 100.0 | /mnt/stockage/packages/f28/gnome-settings-daemon/po/ja.po | 
+ | [km](/f28/language/km) | 3740 | 3740 | 100.0 | /mnt/stockage/packages/f28/gnome-settings-daemon/po/km.po | 
+ | [kn](/f28/language/kn) | 2607 | 2607 | 100.0 | /mnt/stockage/packages/f28/gnome-settings-daemon/po/kn.po | 
+ | [ko](/f28/language/ko) | 2547 | 2547 | 100.0 | /mnt/stockage/packages/f28/gnome-settings-daemon/po/ko.po | 
+ | [lt](/f28/language/lt) | 2547 | 2547 | 100.0 | /mnt/stockage/packages/f28/gnome-settings-daemon/po/lt.po | 
+ | [lv](/f28/language/lv) | 2547 | 2547 | 100.0 | /mnt/stockage/packages/f28/gnome-settings-daemon/po/lv.po | 
+ | [mk](/f28/language/mk) | 3749 | 3749 | 100.0 | /mnt/stockage/packages/f28/gnome-settings-daemon/po/mk.po | 
+ | [mr](/f28/language/mr) | 2607 | 2607 | 100.0 | /mnt/stockage/packages/f28/gnome-settings-daemon/po/mr.po | 
+ | [nl](/f28/language/nl) | 2547 | 2547 | 100.0 | /mnt/stockage/packages/f28/gnome-settings-daemon/po/nl.po | 
+ | [oc](/f28/language/oc) | 2416 | 2416 | 100.0 | /mnt/stockage/packages/f28/gnome-settings-daemon/po/oc.po | 
+ | [or](/f28/language/or) | 2607 | 2607 | 100.0 | /mnt/stockage/packages/f28/gnome-settings-daemon/po/or.po | 
+ | [pa](/f28/language/pa) | 2607 | 2607 | 100.0 | /mnt/stockage/packages/f28/gnome-settings-daemon/po/pa.po | 
+ | [pl](/f28/language/pl) | 2547 | 2547 | 100.0 | /mnt/stockage/packages/f28/gnome-settings-daemon/po/pl.po | 
+ | [pt](/f28/language/pt) | 2416 | 2416 | 100.0 | /mnt/stockage/packages/f28/gnome-settings-daemon/po/pt.po | 
+ | [pt_BR](/f28/language/pt_BR) | 2547 | 2547 | 100.0 | /mnt/stockage/packages/f28/gnome-settings-daemon/po/pt_BR.po | 
+ | [ro](/f28/language/ro) | 3750 | 3750 | 100.0 | /mnt/stockage/packages/f28/gnome-settings-daemon/po/ro.po | 
+ | [ru](/f28/language/ru) | 2292 | 2292 | 100.0 | /mnt/stockage/packages/f28/gnome-settings-daemon/po/ru.po | 
+ | [sl](/f28/language/sl) | 2547 | 2547 | 100.0 | /mnt/stockage/packages/f28/gnome-settings-daemon/po/sl.po | 
+ | [sr](/f28/language/sr) | 5094 | 5094 | 100.0 | /mnt/stockage/packages/f28/gnome-settings-daemon/po/sr.po/mnt/stockage/packages/f28/gnome-settings-daemon/po/sr@latin.po | 
+ | [sv](/f28/language/sv) | 2547 | 2547 | 100.0 | /mnt/stockage/packages/f28/gnome-settings-daemon/po/sv.po | 
+ | [ta](/f28/language/ta) | 2607 | 2607 | 100.0 | /mnt/stockage/packages/f28/gnome-settings-daemon/po/ta.po | 
+ | [te](/f28/language/te) | 2607 | 2607 | 100.0 | /mnt/stockage/packages/f28/gnome-settings-daemon/po/te.po | 
+ | [th](/f28/language/th) | 3740 | 3740 | 100.0 | /mnt/stockage/packages/f28/gnome-settings-daemon/po/th.po | 
+ | [tr](/f28/language/tr) | 2547 | 2547 | 100.0 | /mnt/stockage/packages/f28/gnome-settings-daemon/po/tr.po | 
+ | [uk](/f28/language/uk) | 2494 | 2494 | 100.0 | /mnt/stockage/packages/f28/gnome-settings-daemon/po/uk.po | 
+ | [vi](/f28/language/vi) | 2416 | 2416 | 100.0 | /mnt/stockage/packages/f28/gnome-settings-daemon/po/vi.po | 
+ | [zh_Hans](/f28/language/zh_Hans) | 2659 | 2659 | 100.0 | /mnt/stockage/packages/f28/gnome-settings-daemon/po/zh_CN.po | 
+ | [zh_Hant](/f28/language/zh_Hant) | 2538 | 2538 | 100.0 | /mnt/stockage/packages/f28/gnome-settings-daemon/po/zh_TW.po | 
+ | [zh_Hant_HK](/f28/language/zh_Hant_HK) | 2607 | 2607 | 100.0 | /mnt/stockage/packages/f28/gnome-settings-daemon/po/zh_HK.po | 
+ | [nn](/f28/language/nn) | 1704 | 1722 | 99.0 | /mnt/stockage/packages/f28/gnome-settings-daemon/po/nn.po | 
+ | [sk](/f28/language/sk) | 2281 | 2659 | 85.8 | /mnt/stockage/packages/f28/gnome-settings-daemon/po/sk.po | 
+ | [error](/f28/language/error) | 1652 | 1959 | 84.3 | /mnt/stockage/packages/f28/gnome-settings-daemon/po/en@shaw.po | 
+ | [fa](/f28/language/fa) | 2647 | 3932 | 67.3 | /mnt/stockage/packages/f28/gnome-settings-daemon/po/fa.po | 
+ | [et](/f28/language/et) | 1681 | 2538 | 66.2 | /mnt/stockage/packages/f28/gnome-settings-daemon/po/et.po | 
+ | [is](/f28/language/is) | 1509 | 2416 | 62.5 | /mnt/stockage/packages/f28/gnome-settings-daemon/po/is.po | 
+ | [nb_NO](/f28/language/nb_NO) | 1600 | 2659 | 60.2 | /mnt/stockage/packages/f28/gnome-settings-daemon/po/nb.po | 
+ | [ml](/f28/language/ml) | 1678 | 2916 | 57.5 | /mnt/stockage/packages/f28/gnome-settings-daemon/po/ml.po | 
+ | [kk](/f28/language/kk) | 1450 | 2659 | 54.5 | /mnt/stockage/packages/f28/gnome-settings-daemon/po/kk.po | 
+ | [ar](/f28/language/ar) | 1683 | 3144 | 53.5 | /mnt/stockage/packages/f28/gnome-settings-daemon/po/ar.po | 
+ | [fi](/f28/language/fi) | 1300 | 2547 | 51.0 | /mnt/stockage/packages/f28/gnome-settings-daemon/po/fi.po | 
+ | [gd](/f28/language/gd) | 1325 | 2659 | 49.8 | /mnt/stockage/packages/f28/gnome-settings-daemon/po/gd.po | 
+ | [af](/f28/language/af) | 509 | 1080 | 47.1 | /mnt/stockage/packages/f28/gnome-settings-daemon/po/af.po | 
+ | [dz](/f28/language/dz) | 441 | 1034 | 42.6 | /mnt/stockage/packages/f28/gnome-settings-daemon/po/dz.po | 
+ | [ka](/f28/language/ka) | 436 | 1034 | 42.2 | /mnt/stockage/packages/f28/gnome-settings-daemon/po/ka.po | 
+ | [cy](/f28/language/cy) | 408 | 1034 | 39.5 | /mnt/stockage/packages/f28/gnome-settings-daemon/po/cy.po | 
+ | [mg](/f28/language/mg) | 408 | 1034 | 39.5 | /mnt/stockage/packages/f28/gnome-settings-daemon/po/mg.po | 
+ | [mn](/f28/language/mn) | 408 | 1034 | 39.5 | /mnt/stockage/packages/f28/gnome-settings-daemon/po/mn.po | 
+ | [sq](/f28/language/sq) | 408 | 1034 | 39.5 | /mnt/stockage/packages/f28/gnome-settings-daemon/po/sq.po | 
+ | [en_CA](/f28/language/en_CA) | 398 | 1034 | 38.5 | /mnt/stockage/packages/f28/gnome-settings-daemon/po/en_CA.po | 
+ | [ne](/f28/language/ne) | 967 | 2659 | 36.4 | /mnt/stockage/packages/f28/gnome-settings-daemon/po/ne.po | 
+ | [ku](/f28/language/ku) | 369 | 1034 | 35.7 | /mnt/stockage/packages/f28/gnome-settings-daemon/po/ku.po | 
+ | [eo](/f28/language/eo) | 797 | 2485 | 32.1 | /mnt/stockage/packages/f28/gnome-settings-daemon/po/eo.po | 
+ | [az](/f28/language/az) | 313 | 1034 | 30.3 | /mnt/stockage/packages/f28/gnome-settings-daemon/po/az.po | 
+ | [nso](/f28/language/nso) | 313 | 1034 | 30.3 | /mnt/stockage/packages/f28/gnome-settings-daemon/po/nso.po | 
+ | [xh](/f28/language/xh) | 313 | 1034 | 30.3 | /mnt/stockage/packages/f28/gnome-settings-daemon/po/xh.po | 
+ | [zu](/f28/language/zu) | 313 | 1034 | 30.3 | /mnt/stockage/packages/f28/gnome-settings-daemon/po/zu.po | 
+ | [ga](/f28/language/ga) | 366 | 1627 | 22.5 | /mnt/stockage/packages/f28/gnome-settings-daemon/po/ga.po | 
+ | [ms](/f28/language/ms) | 207 | 1034 | 20.0 | /mnt/stockage/packages/f28/gnome-settings-daemon/po/ms.po | 
+ | [mai](/f28/language/mai) | 227 | 1624 | 14.0 | /mnt/stockage/packages/f28/gnome-settings-daemon/po/mai.po | 
+ | [tg](/f28/language/tg) | 401 | 3698 | 10.8 | /mnt/stockage/packages/f28/gnome-settings-daemon/po/tg.po | 
+ | [br](/f28/language/br) | 129 | 1618 | 8.0 | /mnt/stockage/packages/f28/gnome-settings-daemon/po/br.po | 
+ | [nds](/f28/language/nds) | 123 | 1624 | 7.6 | /mnt/stockage/packages/f28/gnome-settings-daemon/po/nds.po | 
+ | [si](/f28/language/si) | 21 | 1034 | 2.0 | /mnt/stockage/packages/f28/gnome-settings-daemon/po/si.po | 
+ | [wa](/f28/language/wa) | 18 | 1034 | 1.7 | /mnt/stockage/packages/f28/gnome-settings-daemon/po/wa.po | 
+ | [rw](/f28/language/rw) | 6 | 1034 | 0.6 | /mnt/stockage/packages/f28/gnome-settings-daemon/po/rw.po | 
+ | [am](/f28/language/am) | 3 | 1034 | 0.3 | /mnt/stockage/packages/f28/gnome-settings-daemon/po/am.po | 
+ | [ug](/f28/language/ug) | 0 | 0 | 0.0 | /mnt/stockage/packages/f28/gnome-settings-daemon/po/ug.po | 
 {.sortable}
 
 

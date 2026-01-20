@@ -18,45 +18,45 @@ The package libshumate (version 1.0.5):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ab]({{< ref "/f38/language/ab.md" >}}) | 8 | 8 | 100.0 | /mnt/stockage/packages/f38/libshumate/po/ab.po | 
- | [be]({{< ref "/f38/language/be.md" >}}) | 8 | 8 | 100.0 | /mnt/stockage/packages/f38/libshumate/po/be.po | 
- | [bg]({{< ref "/f38/language/bg.md" >}}) | 8 | 8 | 100.0 | /mnt/stockage/packages/f38/libshumate/po/bg.po | 
- | [ca]({{< ref "/f38/language/ca.md" >}}) | 8 | 8 | 100.0 | /mnt/stockage/packages/f38/libshumate/po/ca.po | 
- | [cs]({{< ref "/f38/language/cs.md" >}}) | 8 | 8 | 100.0 | /mnt/stockage/packages/f38/libshumate/po/cs.po | 
- | [da]({{< ref "/f38/language/da.md" >}}) | 8 | 8 | 100.0 | /mnt/stockage/packages/f38/libshumate/po/da.po | 
- | [de]({{< ref "/f38/language/de.md" >}}) | 8 | 8 | 100.0 | /mnt/stockage/packages/f38/libshumate/po/de.po | 
- | [el]({{< ref "/f38/language/el.md" >}}) | 8 | 8 | 100.0 | /mnt/stockage/packages/f38/libshumate/po/el.po | 
- | [es]({{< ref "/f38/language/es.md" >}}) | 8 | 8 | 100.0 | /mnt/stockage/packages/f38/libshumate/po/es.po | 
- | [eu]({{< ref "/f38/language/eu.md" >}}) | 8 | 8 | 100.0 | /mnt/stockage/packages/f38/libshumate/po/eu.po | 
- | [fa]({{< ref "/f38/language/fa.md" >}}) | 8 | 8 | 100.0 | /mnt/stockage/packages/f38/libshumate/po/fa.po | 
- | [fi]({{< ref "/f38/language/fi.md" >}}) | 8 | 8 | 100.0 | /mnt/stockage/packages/f38/libshumate/po/fi.po | 
- | [fr]({{< ref "/f38/language/fr.md" >}}) | 8 | 8 | 100.0 | /mnt/stockage/packages/f38/libshumate/po/fr.po | 
- | [fur]({{< ref "/f38/language/fur.md" >}}) | 8 | 8 | 100.0 | /mnt/stockage/packages/f38/libshumate/po/fur.po | 
- | [gl]({{< ref "/f38/language/gl.md" >}}) | 8 | 8 | 100.0 | /mnt/stockage/packages/f38/libshumate/po/gl.po | 
- | [he]({{< ref "/f38/language/he.md" >}}) | 8 | 8 | 100.0 | /mnt/stockage/packages/f38/libshumate/po/he.po | 
- | [hr]({{< ref "/f38/language/hr.md" >}}) | 8 | 8 | 100.0 | /mnt/stockage/packages/f38/libshumate/po/hr.po | 
- | [hu]({{< ref "/f38/language/hu.md" >}}) | 8 | 8 | 100.0 | /mnt/stockage/packages/f38/libshumate/po/hu.po | 
- | [id]({{< ref "/f38/language/id.md" >}}) | 8 | 8 | 100.0 | /mnt/stockage/packages/f38/libshumate/po/id.po | 
- | [it]({{< ref "/f38/language/it.md" >}}) | 8 | 8 | 100.0 | /mnt/stockage/packages/f38/libshumate/po/it.po | 
- | [ka]({{< ref "/f38/language/ka.md" >}}) | 8 | 8 | 100.0 | /mnt/stockage/packages/f38/libshumate/po/ka.po | 
- | [kk]({{< ref "/f38/language/kk.md" >}}) | 8 | 8 | 100.0 | /mnt/stockage/packages/f38/libshumate/po/kk.po | 
- | [ko]({{< ref "/f38/language/ko.md" >}}) | 8 | 8 | 100.0 | /mnt/stockage/packages/f38/libshumate/po/ko.po | 
- | [lt]({{< ref "/f38/language/lt.md" >}}) | 8 | 8 | 100.0 | /mnt/stockage/packages/f38/libshumate/po/lt.po | 
- | [lv]({{< ref "/f38/language/lv.md" >}}) | 8 | 8 | 100.0 | /mnt/stockage/packages/f38/libshumate/po/lv.po | 
- | [ne]({{< ref "/f38/language/ne.md" >}}) | 8 | 8 | 100.0 | /mnt/stockage/packages/f38/libshumate/po/ne.po | 
- | [nl]({{< ref "/f38/language/nl.md" >}}) | 8 | 8 | 100.0 | /mnt/stockage/packages/f38/libshumate/po/nl.po | 
- | [oc]({{< ref "/f38/language/oc.md" >}}) | 8 | 8 | 100.0 | /mnt/stockage/packages/f38/libshumate/po/oc.po | 
- | [pl]({{< ref "/f38/language/pl.md" >}}) | 8 | 8 | 100.0 | /mnt/stockage/packages/f38/libshumate/po/pl.po | 
- | [pt]({{< ref "/f38/language/pt.md" >}}) | 8 | 8 | 100.0 | /mnt/stockage/packages/f38/libshumate/po/pt.po | 
- | [pt_BR]({{< ref "/f38/language/pt_BR.md" >}}) | 8 | 8 | 100.0 | /mnt/stockage/packages/f38/libshumate/po/pt_BR.po | 
- | [ru]({{< ref "/f38/language/ru.md" >}}) | 8 | 8 | 100.0 | /mnt/stockage/packages/f38/libshumate/po/ru.po | 
- | [sk]({{< ref "/f38/language/sk.md" >}}) | 8 | 8 | 100.0 | /mnt/stockage/packages/f38/libshumate/po/sk.po | 
- | [sl]({{< ref "/f38/language/sl.md" >}}) | 8 | 8 | 100.0 | /mnt/stockage/packages/f38/libshumate/po/sl.po | 
- | [sr]({{< ref "/f38/language/sr.md" >}}) | 8 | 8 | 100.0 | /mnt/stockage/packages/f38/libshumate/po/sr.po | 
- | [sv]({{< ref "/f38/language/sv.md" >}}) | 8 | 8 | 100.0 | /mnt/stockage/packages/f38/libshumate/po/sv.po | 
- | [tr]({{< ref "/f38/language/tr.md" >}}) | 8 | 8 | 100.0 | /mnt/stockage/packages/f38/libshumate/po/tr.po | 
- | [uk]({{< ref "/f38/language/uk.md" >}}) | 8 | 8 | 100.0 | /mnt/stockage/packages/f38/libshumate/po/uk.po | 
- | [zh_Hans]({{< ref "/f38/language/zh_Hans.md" >}}) | 8 | 8 | 100.0 | /mnt/stockage/packages/f38/libshumate/po/zh_CN.po | 
+ | [ab](/f38/language/ab) | 8 | 8 | 100.0 | /mnt/stockage/packages/f38/libshumate/po/ab.po | 
+ | [be](/f38/language/be) | 8 | 8 | 100.0 | /mnt/stockage/packages/f38/libshumate/po/be.po | 
+ | [bg](/f38/language/bg) | 8 | 8 | 100.0 | /mnt/stockage/packages/f38/libshumate/po/bg.po | 
+ | [ca](/f38/language/ca) | 8 | 8 | 100.0 | /mnt/stockage/packages/f38/libshumate/po/ca.po | 
+ | [cs](/f38/language/cs) | 8 | 8 | 100.0 | /mnt/stockage/packages/f38/libshumate/po/cs.po | 
+ | [da](/f38/language/da) | 8 | 8 | 100.0 | /mnt/stockage/packages/f38/libshumate/po/da.po | 
+ | [de](/f38/language/de) | 8 | 8 | 100.0 | /mnt/stockage/packages/f38/libshumate/po/de.po | 
+ | [el](/f38/language/el) | 8 | 8 | 100.0 | /mnt/stockage/packages/f38/libshumate/po/el.po | 
+ | [es](/f38/language/es) | 8 | 8 | 100.0 | /mnt/stockage/packages/f38/libshumate/po/es.po | 
+ | [eu](/f38/language/eu) | 8 | 8 | 100.0 | /mnt/stockage/packages/f38/libshumate/po/eu.po | 
+ | [fa](/f38/language/fa) | 8 | 8 | 100.0 | /mnt/stockage/packages/f38/libshumate/po/fa.po | 
+ | [fi](/f38/language/fi) | 8 | 8 | 100.0 | /mnt/stockage/packages/f38/libshumate/po/fi.po | 
+ | [fr](/f38/language/fr) | 8 | 8 | 100.0 | /mnt/stockage/packages/f38/libshumate/po/fr.po | 
+ | [fur](/f38/language/fur) | 8 | 8 | 100.0 | /mnt/stockage/packages/f38/libshumate/po/fur.po | 
+ | [gl](/f38/language/gl) | 8 | 8 | 100.0 | /mnt/stockage/packages/f38/libshumate/po/gl.po | 
+ | [he](/f38/language/he) | 8 | 8 | 100.0 | /mnt/stockage/packages/f38/libshumate/po/he.po | 
+ | [hr](/f38/language/hr) | 8 | 8 | 100.0 | /mnt/stockage/packages/f38/libshumate/po/hr.po | 
+ | [hu](/f38/language/hu) | 8 | 8 | 100.0 | /mnt/stockage/packages/f38/libshumate/po/hu.po | 
+ | [id](/f38/language/id) | 8 | 8 | 100.0 | /mnt/stockage/packages/f38/libshumate/po/id.po | 
+ | [it](/f38/language/it) | 8 | 8 | 100.0 | /mnt/stockage/packages/f38/libshumate/po/it.po | 
+ | [ka](/f38/language/ka) | 8 | 8 | 100.0 | /mnt/stockage/packages/f38/libshumate/po/ka.po | 
+ | [kk](/f38/language/kk) | 8 | 8 | 100.0 | /mnt/stockage/packages/f38/libshumate/po/kk.po | 
+ | [ko](/f38/language/ko) | 8 | 8 | 100.0 | /mnt/stockage/packages/f38/libshumate/po/ko.po | 
+ | [lt](/f38/language/lt) | 8 | 8 | 100.0 | /mnt/stockage/packages/f38/libshumate/po/lt.po | 
+ | [lv](/f38/language/lv) | 8 | 8 | 100.0 | /mnt/stockage/packages/f38/libshumate/po/lv.po | 
+ | [ne](/f38/language/ne) | 8 | 8 | 100.0 | /mnt/stockage/packages/f38/libshumate/po/ne.po | 
+ | [nl](/f38/language/nl) | 8 | 8 | 100.0 | /mnt/stockage/packages/f38/libshumate/po/nl.po | 
+ | [oc](/f38/language/oc) | 8 | 8 | 100.0 | /mnt/stockage/packages/f38/libshumate/po/oc.po | 
+ | [pl](/f38/language/pl) | 8 | 8 | 100.0 | /mnt/stockage/packages/f38/libshumate/po/pl.po | 
+ | [pt](/f38/language/pt) | 8 | 8 | 100.0 | /mnt/stockage/packages/f38/libshumate/po/pt.po | 
+ | [pt_BR](/f38/language/pt_BR) | 8 | 8 | 100.0 | /mnt/stockage/packages/f38/libshumate/po/pt_BR.po | 
+ | [ru](/f38/language/ru) | 8 | 8 | 100.0 | /mnt/stockage/packages/f38/libshumate/po/ru.po | 
+ | [sk](/f38/language/sk) | 8 | 8 | 100.0 | /mnt/stockage/packages/f38/libshumate/po/sk.po | 
+ | [sl](/f38/language/sl) | 8 | 8 | 100.0 | /mnt/stockage/packages/f38/libshumate/po/sl.po | 
+ | [sr](/f38/language/sr) | 8 | 8 | 100.0 | /mnt/stockage/packages/f38/libshumate/po/sr.po | 
+ | [sv](/f38/language/sv) | 8 | 8 | 100.0 | /mnt/stockage/packages/f38/libshumate/po/sv.po | 
+ | [tr](/f38/language/tr) | 8 | 8 | 100.0 | /mnt/stockage/packages/f38/libshumate/po/tr.po | 
+ | [uk](/f38/language/uk) | 8 | 8 | 100.0 | /mnt/stockage/packages/f38/libshumate/po/uk.po | 
+ | [zh_Hans](/f38/language/zh_Hans) | 8 | 8 | 100.0 | /mnt/stockage/packages/f38/libshumate/po/zh_CN.po | 
 {.sortable}
 
 

@@ -38,7 +38,7 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [konq-plugins]({{< ref "/f12/package/konq-plugins.md" >}}) | 2 | 94 | 2.1 | en_US <kde-i18n-doc@lists.kde.org> | 
+ | [konq-plugins](/f12/package/konq-plugins) | 2 | 94 | 2.1 | en_US <kde-i18n-doc@lists.kde.org> | 
 {.sortable}
 
 

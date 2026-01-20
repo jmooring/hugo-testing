@@ -18,51 +18,51 @@ The package kf5-kpimtextedit (version 20.08.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f33/language/ca.md" >}}) | 408 | 408 | 100.0 | /mnt/stockage/packages/f33/kf5-kpimtextedit/po/ca/libkpimtextedit.po | 
- | [ca@valencia]({{< ref "/f33/language/ca@valencia.md" >}}) | 408 | 408 | 100.0 | /mnt/stockage/packages/f33/kf5-kpimtextedit/po/ca@valencia/libkpimtextedit.po | 
- | [da]({{< ref "/f33/language/da.md" >}}) | 408 | 408 | 100.0 | /mnt/stockage/packages/f33/kf5-kpimtextedit/po/da/libkpimtextedit.po | 
- | [en_GB]({{< ref "/f33/language/en_GB.md" >}}) | 408 | 408 | 100.0 | /mnt/stockage/packages/f33/kf5-kpimtextedit/po/en_GB/libkpimtextedit.po | 
- | [es]({{< ref "/f33/language/es.md" >}}) | 408 | 408 | 100.0 | /mnt/stockage/packages/f33/kf5-kpimtextedit/po/es/libkpimtextedit.po | 
- | [et]({{< ref "/f33/language/et.md" >}}) | 408 | 408 | 100.0 | /mnt/stockage/packages/f33/kf5-kpimtextedit/po/et/libkpimtextedit.po | 
- | [fi]({{< ref "/f33/language/fi.md" >}}) | 408 | 408 | 100.0 | /mnt/stockage/packages/f33/kf5-kpimtextedit/po/fi/libkpimtextedit.po | 
- | [fr]({{< ref "/f33/language/fr.md" >}}) | 408 | 408 | 100.0 | /mnt/stockage/packages/f33/kf5-kpimtextedit/po/fr/libkpimtextedit.po | 
- | [ia]({{< ref "/f33/language/ia.md" >}}) | 408 | 408 | 100.0 | /mnt/stockage/packages/f33/kf5-kpimtextedit/po/ia/libkpimtextedit.po | 
- | [it]({{< ref "/f33/language/it.md" >}}) | 408 | 408 | 100.0 | /mnt/stockage/packages/f33/kf5-kpimtextedit/po/it/libkpimtextedit.po | 
- | [ko]({{< ref "/f33/language/ko.md" >}}) | 408 | 408 | 100.0 | /mnt/stockage/packages/f33/kf5-kpimtextedit/po/ko/libkpimtextedit.po | 
- | [nl]({{< ref "/f33/language/nl.md" >}}) | 408 | 408 | 100.0 | /mnt/stockage/packages/f33/kf5-kpimtextedit/po/nl/libkpimtextedit.po | 
- | [pl]({{< ref "/f33/language/pl.md" >}}) | 408 | 408 | 100.0 | /mnt/stockage/packages/f33/kf5-kpimtextedit/po/pl/libkpimtextedit.po | 
- | [pt]({{< ref "/f33/language/pt.md" >}}) | 408 | 408 | 100.0 | /mnt/stockage/packages/f33/kf5-kpimtextedit/po/pt/libkpimtextedit.po | 
- | [pt_BR]({{< ref "/f33/language/pt_BR.md" >}}) | 408 | 408 | 100.0 | /mnt/stockage/packages/f33/kf5-kpimtextedit/po/pt_BR/libkpimtextedit.po | 
- | [ru]({{< ref "/f33/language/ru.md" >}}) | 408 | 408 | 100.0 | /mnt/stockage/packages/f33/kf5-kpimtextedit/po/ru/libkpimtextedit.po | 
- | [sl]({{< ref "/f33/language/sl.md" >}}) | 408 | 408 | 100.0 | /mnt/stockage/packages/f33/kf5-kpimtextedit/po/sl/libkpimtextedit.po | 
- | [sv]({{< ref "/f33/language/sv.md" >}}) | 408 | 408 | 100.0 | /mnt/stockage/packages/f33/kf5-kpimtextedit/po/sv/libkpimtextedit.po | 
- | [uk]({{< ref "/f33/language/uk.md" >}}) | 408 | 408 | 100.0 | /mnt/stockage/packages/f33/kf5-kpimtextedit/po/uk/libkpimtextedit.po | 
- | [de]({{< ref "/f33/language/de.md" >}}) | 399 | 408 | 97.8 | /mnt/stockage/packages/f33/kf5-kpimtextedit/po/de/libkpimtextedit.po | 
- | [zh_Hans]({{< ref "/f33/language/zh_Hans.md" >}}) | 384 | 408 | 94.1 | /mnt/stockage/packages/f33/kf5-kpimtextedit/po/zh_CN/libkpimtextedit.po | 
- | [gl]({{< ref "/f33/language/gl.md" >}}) | 374 | 408 | 91.7 | /mnt/stockage/packages/f33/kf5-kpimtextedit/po/gl/libkpimtextedit.po | 
- | [sk]({{< ref "/f33/language/sk.md" >}}) | 374 | 408 | 91.7 | /mnt/stockage/packages/f33/kf5-kpimtextedit/po/sk/libkpimtextedit.po | 
- | [cs]({{< ref "/f33/language/cs.md" >}}) | 325 | 408 | 79.7 | /mnt/stockage/packages/f33/kf5-kpimtextedit/po/cs/libkpimtextedit.po | 
- | [ar]({{< ref "/f33/language/ar.md" >}}) | 321 | 408 | 78.7 | /mnt/stockage/packages/f33/kf5-kpimtextedit/po/ar/libkpimtextedit.po | 
- | [sr]({{< ref "/f33/language/sr.md" >}}) | 321 | 408 | 78.7 | /mnt/stockage/packages/f33/kf5-kpimtextedit/po/sr/libkpimtextedit.po | 
- | [tr]({{< ref "/f33/language/tr.md" >}}) | 319 | 408 | 78.2 | /mnt/stockage/packages/f33/kf5-kpimtextedit/po/tr/libkpimtextedit.po | 
- | [nb_NO]({{< ref "/f33/language/nb_NO.md" >}}) | 247 | 408 | 60.5 | /mnt/stockage/packages/f33/kf5-kpimtextedit/po/nb/libkpimtextedit.po | 
- | [nn]({{< ref "/f33/language/nn.md" >}}) | 141 | 408 | 34.6 | /mnt/stockage/packages/f33/kf5-kpimtextedit/po/nn/libkpimtextedit.po | 
- | [zh_Hant]({{< ref "/f33/language/zh_Hant.md" >}}) | 108 | 408 | 26.5 | /mnt/stockage/packages/f33/kf5-kpimtextedit/po/zh_TW/libkpimtextedit.po | 
- | [bs]({{< ref "/f33/language/bs.md" >}}) | 101 | 408 | 24.8 | /mnt/stockage/packages/f33/kf5-kpimtextedit/po/bs/libkpimtextedit.po | 
- | [el]({{< ref "/f33/language/el.md" >}}) | 101 | 408 | 24.8 | /mnt/stockage/packages/f33/kf5-kpimtextedit/po/el/libkpimtextedit.po | 
- | [hu]({{< ref "/f33/language/hu.md" >}}) | 101 | 408 | 24.8 | /mnt/stockage/packages/f33/kf5-kpimtextedit/po/hu/libkpimtextedit.po | 
- | [kk]({{< ref "/f33/language/kk.md" >}}) | 101 | 408 | 24.8 | /mnt/stockage/packages/f33/kf5-kpimtextedit/po/kk/libkpimtextedit.po | 
- | [lt]({{< ref "/f33/language/lt.md" >}}) | 101 | 408 | 24.8 | /mnt/stockage/packages/f33/kf5-kpimtextedit/po/lt/libkpimtextedit.po | 
- | [nds]({{< ref "/f33/language/nds.md" >}}) | 101 | 408 | 24.8 | /mnt/stockage/packages/f33/kf5-kpimtextedit/po/nds/libkpimtextedit.po | 
- | [ro]({{< ref "/f33/language/ro.md" >}}) | 98 | 408 | 24.0 | /mnt/stockage/packages/f33/kf5-kpimtextedit/po/ro/libkpimtextedit.po | 
- | [ga]({{< ref "/f33/language/ga.md" >}}) | 44 | 408 | 10.8 | /mnt/stockage/packages/f33/kf5-kpimtextedit/po/ga/libkpimtextedit.po | 
- | [ug]({{< ref "/f33/language/ug.md" >}}) | 38 | 408 | 9.3 | /mnt/stockage/packages/f33/kf5-kpimtextedit/po/ug/libkpimtextedit.po | 
- | [mr]({{< ref "/f33/language/mr.md" >}}) | 34 | 408 | 8.3 | /mnt/stockage/packages/f33/kf5-kpimtextedit/po/mr/libkpimtextedit.po | 
- | [km]({{< ref "/f33/language/km.md" >}}) | 12 | 408 | 2.9 | /mnt/stockage/packages/f33/kf5-kpimtextedit/po/km/libkpimtextedit.po | 
- | [ja]({{< ref "/f33/language/ja.md" >}}) | 10 | 408 | 2.5 | /mnt/stockage/packages/f33/kf5-kpimtextedit/po/ja/libkpimtextedit.po | 
- | [lv]({{< ref "/f33/language/lv.md" >}}) | 10 | 408 | 2.5 | /mnt/stockage/packages/f33/kf5-kpimtextedit/po/lv/libkpimtextedit.po | 
- | [pa]({{< ref "/f33/language/pa.md" >}}) | 5 | 408 | 1.2 | /mnt/stockage/packages/f33/kf5-kpimtextedit/po/pa/libkpimtextedit.po | 
- | [eo]({{< ref "/f33/language/eo.md" >}}) | 2 | 408 | 0.5 | /mnt/stockage/packages/f33/kf5-kpimtextedit/po/eo/libkpimtextedit.po | 
+ | [ca](/f33/language/ca) | 408 | 408 | 100.0 | /mnt/stockage/packages/f33/kf5-kpimtextedit/po/ca/libkpimtextedit.po | 
+ | [ca@valencia](/f33/language/ca@valencia) | 408 | 408 | 100.0 | /mnt/stockage/packages/f33/kf5-kpimtextedit/po/ca@valencia/libkpimtextedit.po | 
+ | [da](/f33/language/da) | 408 | 408 | 100.0 | /mnt/stockage/packages/f33/kf5-kpimtextedit/po/da/libkpimtextedit.po | 
+ | [en_GB](/f33/language/en_GB) | 408 | 408 | 100.0 | /mnt/stockage/packages/f33/kf5-kpimtextedit/po/en_GB/libkpimtextedit.po | 
+ | [es](/f33/language/es) | 408 | 408 | 100.0 | /mnt/stockage/packages/f33/kf5-kpimtextedit/po/es/libkpimtextedit.po | 
+ | [et](/f33/language/et) | 408 | 408 | 100.0 | /mnt/stockage/packages/f33/kf5-kpimtextedit/po/et/libkpimtextedit.po | 
+ | [fi](/f33/language/fi) | 408 | 408 | 100.0 | /mnt/stockage/packages/f33/kf5-kpimtextedit/po/fi/libkpimtextedit.po | 
+ | [fr](/f33/language/fr) | 408 | 408 | 100.0 | /mnt/stockage/packages/f33/kf5-kpimtextedit/po/fr/libkpimtextedit.po | 
+ | [ia](/f33/language/ia) | 408 | 408 | 100.0 | /mnt/stockage/packages/f33/kf5-kpimtextedit/po/ia/libkpimtextedit.po | 
+ | [it](/f33/language/it) | 408 | 408 | 100.0 | /mnt/stockage/packages/f33/kf5-kpimtextedit/po/it/libkpimtextedit.po | 
+ | [ko](/f33/language/ko) | 408 | 408 | 100.0 | /mnt/stockage/packages/f33/kf5-kpimtextedit/po/ko/libkpimtextedit.po | 
+ | [nl](/f33/language/nl) | 408 | 408 | 100.0 | /mnt/stockage/packages/f33/kf5-kpimtextedit/po/nl/libkpimtextedit.po | 
+ | [pl](/f33/language/pl) | 408 | 408 | 100.0 | /mnt/stockage/packages/f33/kf5-kpimtextedit/po/pl/libkpimtextedit.po | 
+ | [pt](/f33/language/pt) | 408 | 408 | 100.0 | /mnt/stockage/packages/f33/kf5-kpimtextedit/po/pt/libkpimtextedit.po | 
+ | [pt_BR](/f33/language/pt_BR) | 408 | 408 | 100.0 | /mnt/stockage/packages/f33/kf5-kpimtextedit/po/pt_BR/libkpimtextedit.po | 
+ | [ru](/f33/language/ru) | 408 | 408 | 100.0 | /mnt/stockage/packages/f33/kf5-kpimtextedit/po/ru/libkpimtextedit.po | 
+ | [sl](/f33/language/sl) | 408 | 408 | 100.0 | /mnt/stockage/packages/f33/kf5-kpimtextedit/po/sl/libkpimtextedit.po | 
+ | [sv](/f33/language/sv) | 408 | 408 | 100.0 | /mnt/stockage/packages/f33/kf5-kpimtextedit/po/sv/libkpimtextedit.po | 
+ | [uk](/f33/language/uk) | 408 | 408 | 100.0 | /mnt/stockage/packages/f33/kf5-kpimtextedit/po/uk/libkpimtextedit.po | 
+ | [de](/f33/language/de) | 399 | 408 | 97.8 | /mnt/stockage/packages/f33/kf5-kpimtextedit/po/de/libkpimtextedit.po | 
+ | [zh_Hans](/f33/language/zh_Hans) | 384 | 408 | 94.1 | /mnt/stockage/packages/f33/kf5-kpimtextedit/po/zh_CN/libkpimtextedit.po | 
+ | [gl](/f33/language/gl) | 374 | 408 | 91.7 | /mnt/stockage/packages/f33/kf5-kpimtextedit/po/gl/libkpimtextedit.po | 
+ | [sk](/f33/language/sk) | 374 | 408 | 91.7 | /mnt/stockage/packages/f33/kf5-kpimtextedit/po/sk/libkpimtextedit.po | 
+ | [cs](/f33/language/cs) | 325 | 408 | 79.7 | /mnt/stockage/packages/f33/kf5-kpimtextedit/po/cs/libkpimtextedit.po | 
+ | [ar](/f33/language/ar) | 321 | 408 | 78.7 | /mnt/stockage/packages/f33/kf5-kpimtextedit/po/ar/libkpimtextedit.po | 
+ | [sr](/f33/language/sr) | 321 | 408 | 78.7 | /mnt/stockage/packages/f33/kf5-kpimtextedit/po/sr/libkpimtextedit.po | 
+ | [tr](/f33/language/tr) | 319 | 408 | 78.2 | /mnt/stockage/packages/f33/kf5-kpimtextedit/po/tr/libkpimtextedit.po | 
+ | [nb_NO](/f33/language/nb_NO) | 247 | 408 | 60.5 | /mnt/stockage/packages/f33/kf5-kpimtextedit/po/nb/libkpimtextedit.po | 
+ | [nn](/f33/language/nn) | 141 | 408 | 34.6 | /mnt/stockage/packages/f33/kf5-kpimtextedit/po/nn/libkpimtextedit.po | 
+ | [zh_Hant](/f33/language/zh_Hant) | 108 | 408 | 26.5 | /mnt/stockage/packages/f33/kf5-kpimtextedit/po/zh_TW/libkpimtextedit.po | 
+ | [bs](/f33/language/bs) | 101 | 408 | 24.8 | /mnt/stockage/packages/f33/kf5-kpimtextedit/po/bs/libkpimtextedit.po | 
+ | [el](/f33/language/el) | 101 | 408 | 24.8 | /mnt/stockage/packages/f33/kf5-kpimtextedit/po/el/libkpimtextedit.po | 
+ | [hu](/f33/language/hu) | 101 | 408 | 24.8 | /mnt/stockage/packages/f33/kf5-kpimtextedit/po/hu/libkpimtextedit.po | 
+ | [kk](/f33/language/kk) | 101 | 408 | 24.8 | /mnt/stockage/packages/f33/kf5-kpimtextedit/po/kk/libkpimtextedit.po | 
+ | [lt](/f33/language/lt) | 101 | 408 | 24.8 | /mnt/stockage/packages/f33/kf5-kpimtextedit/po/lt/libkpimtextedit.po | 
+ | [nds](/f33/language/nds) | 101 | 408 | 24.8 | /mnt/stockage/packages/f33/kf5-kpimtextedit/po/nds/libkpimtextedit.po | 
+ | [ro](/f33/language/ro) | 98 | 408 | 24.0 | /mnt/stockage/packages/f33/kf5-kpimtextedit/po/ro/libkpimtextedit.po | 
+ | [ga](/f33/language/ga) | 44 | 408 | 10.8 | /mnt/stockage/packages/f33/kf5-kpimtextedit/po/ga/libkpimtextedit.po | 
+ | [ug](/f33/language/ug) | 38 | 408 | 9.3 | /mnt/stockage/packages/f33/kf5-kpimtextedit/po/ug/libkpimtextedit.po | 
+ | [mr](/f33/language/mr) | 34 | 408 | 8.3 | /mnt/stockage/packages/f33/kf5-kpimtextedit/po/mr/libkpimtextedit.po | 
+ | [km](/f33/language/km) | 12 | 408 | 2.9 | /mnt/stockage/packages/f33/kf5-kpimtextedit/po/km/libkpimtextedit.po | 
+ | [ja](/f33/language/ja) | 10 | 408 | 2.5 | /mnt/stockage/packages/f33/kf5-kpimtextedit/po/ja/libkpimtextedit.po | 
+ | [lv](/f33/language/lv) | 10 | 408 | 2.5 | /mnt/stockage/packages/f33/kf5-kpimtextedit/po/lv/libkpimtextedit.po | 
+ | [pa](/f33/language/pa) | 5 | 408 | 1.2 | /mnt/stockage/packages/f33/kf5-kpimtextedit/po/pa/libkpimtextedit.po | 
+ | [eo](/f33/language/eo) | 2 | 408 | 0.5 | /mnt/stockage/packages/f33/kf5-kpimtextedit/po/eo/libkpimtextedit.po | 
 {.sortable}
 
 

@@ -18,57 +18,57 @@ The package kolf (version 19.12.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f32/language/ca.md" >}}) | 401 | 401 | 100.0 | /mnt/stockage/packages/f32/kolf/po/ca/kolf.po | 
- | [ca@valencia]({{< ref "/f32/language/ca@valencia.md" >}}) | 401 | 401 | 100.0 | /mnt/stockage/packages/f32/kolf/po/ca@valencia/kolf.po | 
- | [cs]({{< ref "/f32/language/cs.md" >}}) | 401 | 401 | 100.0 | /mnt/stockage/packages/f32/kolf/po/cs/kolf.po | 
- | [de]({{< ref "/f32/language/de.md" >}}) | 401 | 401 | 100.0 | /mnt/stockage/packages/f32/kolf/po/de/kolf.po | 
- | [en_GB]({{< ref "/f32/language/en_GB.md" >}}) | 401 | 401 | 100.0 | /mnt/stockage/packages/f32/kolf/po/en_GB/kolf.po | 
- | [es]({{< ref "/f32/language/es.md" >}}) | 401 | 401 | 100.0 | /mnt/stockage/packages/f32/kolf/po/es/kolf.po | 
- | [fr]({{< ref "/f32/language/fr.md" >}}) | 401 | 401 | 100.0 | /mnt/stockage/packages/f32/kolf/po/fr/kolf.po | 
- | [gl]({{< ref "/f32/language/gl.md" >}}) | 401 | 401 | 100.0 | /mnt/stockage/packages/f32/kolf/po/gl/kolf.po | 
- | [it]({{< ref "/f32/language/it.md" >}}) | 401 | 401 | 100.0 | /mnt/stockage/packages/f32/kolf/po/it/kolf.po | 
- | [ko]({{< ref "/f32/language/ko.md" >}}) | 401 | 401 | 100.0 | /mnt/stockage/packages/f32/kolf/po/ko/kolf.po | 
- | [nl]({{< ref "/f32/language/nl.md" >}}) | 401 | 401 | 100.0 | /mnt/stockage/packages/f32/kolf/po/nl/kolf.po | 
- | [nn]({{< ref "/f32/language/nn.md" >}}) | 401 | 401 | 100.0 | /mnt/stockage/packages/f32/kolf/po/nn/kolf.po | 
- | [pl]({{< ref "/f32/language/pl.md" >}}) | 401 | 401 | 100.0 | /mnt/stockage/packages/f32/kolf/po/pl/kolf.po | 
- | [pt]({{< ref "/f32/language/pt.md" >}}) | 401 | 401 | 100.0 | /mnt/stockage/packages/f32/kolf/po/pt/kolf.po | 
- | [pt_BR]({{< ref "/f32/language/pt_BR.md" >}}) | 401 | 401 | 100.0 | /mnt/stockage/packages/f32/kolf/po/pt_BR/kolf.po | 
- | [sk]({{< ref "/f32/language/sk.md" >}}) | 401 | 401 | 100.0 | /mnt/stockage/packages/f32/kolf/po/sk/kolf.po | 
- | [sv]({{< ref "/f32/language/sv.md" >}}) | 401 | 401 | 100.0 | /mnt/stockage/packages/f32/kolf/po/sv/kolf.po | 
- | [uk]({{< ref "/f32/language/uk.md" >}}) | 401 | 401 | 100.0 | /mnt/stockage/packages/f32/kolf/po/uk/kolf.po | 
- | [zh_Hans]({{< ref "/f32/language/zh_Hans.md" >}}) | 401 | 401 | 100.0 | /mnt/stockage/packages/f32/kolf/po/zh_CN/kolf.po | 
- | [zh_Hant]({{< ref "/f32/language/zh_Hant.md" >}}) | 401 | 401 | 100.0 | /mnt/stockage/packages/f32/kolf/po/zh_TW/kolf.po | 
- | [da]({{< ref "/f32/language/da.md" >}}) | 382 | 401 | 95.3 | /mnt/stockage/packages/f32/kolf/po/da/kolf.po | 
- | [sl]({{< ref "/f32/language/sl.md" >}}) | 382 | 401 | 95.3 | /mnt/stockage/packages/f32/kolf/po/sl/kolf.po | 
- | [tr]({{< ref "/f32/language/tr.md" >}}) | 382 | 401 | 95.3 | /mnt/stockage/packages/f32/kolf/po/tr/kolf.po | 
- | [bs]({{< ref "/f32/language/bs.md" >}}) | 378 | 401 | 94.3 | /mnt/stockage/packages/f32/kolf/po/bs/kolf.po | 
- | [et]({{< ref "/f32/language/et.md" >}}) | 378 | 401 | 94.3 | /mnt/stockage/packages/f32/kolf/po/et/kolf.po | 
- | [fi]({{< ref "/f32/language/fi.md" >}}) | 378 | 401 | 94.3 | /mnt/stockage/packages/f32/kolf/po/fi/kolf.po | 
- | [ga]({{< ref "/f32/language/ga.md" >}}) | 378 | 401 | 94.3 | /mnt/stockage/packages/f32/kolf/po/ga/kolf.po | 
- | [hu]({{< ref "/f32/language/hu.md" >}}) | 378 | 401 | 94.3 | /mnt/stockage/packages/f32/kolf/po/hu/kolf.po | 
- | [kk]({{< ref "/f32/language/kk.md" >}}) | 378 | 401 | 94.3 | /mnt/stockage/packages/f32/kolf/po/kk/kolf.po | 
- | [km]({{< ref "/f32/language/km.md" >}}) | 378 | 401 | 94.3 | /mnt/stockage/packages/f32/kolf/po/km/kolf.po | 
- | [lv]({{< ref "/f32/language/lv.md" >}}) | 378 | 401 | 94.3 | /mnt/stockage/packages/f32/kolf/po/lv/kolf.po | 
- | [nds]({{< ref "/f32/language/nds.md" >}}) | 378 | 401 | 94.3 | /mnt/stockage/packages/f32/kolf/po/nds/kolf.po | 
- | [ru]({{< ref "/f32/language/ru.md" >}}) | 378 | 401 | 94.3 | /mnt/stockage/packages/f32/kolf/po/ru/kolf.po | 
- | [sr]({{< ref "/f32/language/sr.md" >}}) | 377 | 401 | 94.0 | /mnt/stockage/packages/f32/kolf/po/sr/kolf.po | 
- | [nb_NO]({{< ref "/f32/language/nb_NO.md" >}}) | 373 | 401 | 93.0 | /mnt/stockage/packages/f32/kolf/po/nb/kolf.po | 
- | [ja]({{< ref "/f32/language/ja.md" >}}) | 344 | 401 | 85.8 | /mnt/stockage/packages/f32/kolf/po/ja/kolf.po | 
- | [el]({{< ref "/f32/language/el.md" >}}) | 342 | 401 | 85.3 | /mnt/stockage/packages/f32/kolf/po/el/kolf.po | 
- | [eu]({{< ref "/f32/language/eu.md" >}}) | 342 | 401 | 85.3 | /mnt/stockage/packages/f32/kolf/po/eu/kolf.po | 
- | [is]({{< ref "/f32/language/is.md" >}}) | 342 | 401 | 85.3 | /mnt/stockage/packages/f32/kolf/po/is/kolf.po | 
- | [hi]({{< ref "/f32/language/hi.md" >}}) | 338 | 401 | 84.3 | /mnt/stockage/packages/f32/kolf/po/hi/kolf.po | 
- | [fa]({{< ref "/f32/language/fa.md" >}}) | 325 | 401 | 81.0 | /mnt/stockage/packages/f32/kolf/po/fa/kolf.po | 
- | [he]({{< ref "/f32/language/he.md" >}}) | 315 | 401 | 78.6 | /mnt/stockage/packages/f32/kolf/po/he/kolf.po | 
- | [hr]({{< ref "/f32/language/hr.md" >}}) | 315 | 401 | 78.6 | /mnt/stockage/packages/f32/kolf/po/hr/kolf.po | 
- | [bg]({{< ref "/f32/language/bg.md" >}}) | 311 | 401 | 77.6 | /mnt/stockage/packages/f32/kolf/po/bg/kolf.po | 
- | [ar]({{< ref "/f32/language/ar.md" >}}) | 246 | 401 | 61.3 | /mnt/stockage/packages/f32/kolf/po/ar/kolf.po | 
- | [pa]({{< ref "/f32/language/pa.md" >}}) | 201 | 401 | 50.1 | /mnt/stockage/packages/f32/kolf/po/pa/kolf.po | 
- | [ro]({{< ref "/f32/language/ro.md" >}}) | 128 | 401 | 31.9 | /mnt/stockage/packages/f32/kolf/po/ro/kolf.po | 
- | [lt]({{< ref "/f32/language/lt.md" >}}) | 71 | 401 | 17.7 | /mnt/stockage/packages/f32/kolf/po/lt/kolf.po | 
- | [ug]({{< ref "/f32/language/ug.md" >}}) | 69 | 401 | 17.2 | /mnt/stockage/packages/f32/kolf/po/ug/kolf.po | 
- | [eo]({{< ref "/f32/language/eo.md" >}}) | 68 | 401 | 17.0 | /mnt/stockage/packages/f32/kolf/po/eo/kolf.po | 
- | [mr]({{< ref "/f32/language/mr.md" >}}) | 42 | 401 | 10.5 | /mnt/stockage/packages/f32/kolf/po/mr/kolf.po | 
+ | [ca](/f32/language/ca) | 401 | 401 | 100.0 | /mnt/stockage/packages/f32/kolf/po/ca/kolf.po | 
+ | [ca@valencia](/f32/language/ca@valencia) | 401 | 401 | 100.0 | /mnt/stockage/packages/f32/kolf/po/ca@valencia/kolf.po | 
+ | [cs](/f32/language/cs) | 401 | 401 | 100.0 | /mnt/stockage/packages/f32/kolf/po/cs/kolf.po | 
+ | [de](/f32/language/de) | 401 | 401 | 100.0 | /mnt/stockage/packages/f32/kolf/po/de/kolf.po | 
+ | [en_GB](/f32/language/en_GB) | 401 | 401 | 100.0 | /mnt/stockage/packages/f32/kolf/po/en_GB/kolf.po | 
+ | [es](/f32/language/es) | 401 | 401 | 100.0 | /mnt/stockage/packages/f32/kolf/po/es/kolf.po | 
+ | [fr](/f32/language/fr) | 401 | 401 | 100.0 | /mnt/stockage/packages/f32/kolf/po/fr/kolf.po | 
+ | [gl](/f32/language/gl) | 401 | 401 | 100.0 | /mnt/stockage/packages/f32/kolf/po/gl/kolf.po | 
+ | [it](/f32/language/it) | 401 | 401 | 100.0 | /mnt/stockage/packages/f32/kolf/po/it/kolf.po | 
+ | [ko](/f32/language/ko) | 401 | 401 | 100.0 | /mnt/stockage/packages/f32/kolf/po/ko/kolf.po | 
+ | [nl](/f32/language/nl) | 401 | 401 | 100.0 | /mnt/stockage/packages/f32/kolf/po/nl/kolf.po | 
+ | [nn](/f32/language/nn) | 401 | 401 | 100.0 | /mnt/stockage/packages/f32/kolf/po/nn/kolf.po | 
+ | [pl](/f32/language/pl) | 401 | 401 | 100.0 | /mnt/stockage/packages/f32/kolf/po/pl/kolf.po | 
+ | [pt](/f32/language/pt) | 401 | 401 | 100.0 | /mnt/stockage/packages/f32/kolf/po/pt/kolf.po | 
+ | [pt_BR](/f32/language/pt_BR) | 401 | 401 | 100.0 | /mnt/stockage/packages/f32/kolf/po/pt_BR/kolf.po | 
+ | [sk](/f32/language/sk) | 401 | 401 | 100.0 | /mnt/stockage/packages/f32/kolf/po/sk/kolf.po | 
+ | [sv](/f32/language/sv) | 401 | 401 | 100.0 | /mnt/stockage/packages/f32/kolf/po/sv/kolf.po | 
+ | [uk](/f32/language/uk) | 401 | 401 | 100.0 | /mnt/stockage/packages/f32/kolf/po/uk/kolf.po | 
+ | [zh_Hans](/f32/language/zh_Hans) | 401 | 401 | 100.0 | /mnt/stockage/packages/f32/kolf/po/zh_CN/kolf.po | 
+ | [zh_Hant](/f32/language/zh_Hant) | 401 | 401 | 100.0 | /mnt/stockage/packages/f32/kolf/po/zh_TW/kolf.po | 
+ | [da](/f32/language/da) | 382 | 401 | 95.3 | /mnt/stockage/packages/f32/kolf/po/da/kolf.po | 
+ | [sl](/f32/language/sl) | 382 | 401 | 95.3 | /mnt/stockage/packages/f32/kolf/po/sl/kolf.po | 
+ | [tr](/f32/language/tr) | 382 | 401 | 95.3 | /mnt/stockage/packages/f32/kolf/po/tr/kolf.po | 
+ | [bs](/f32/language/bs) | 378 | 401 | 94.3 | /mnt/stockage/packages/f32/kolf/po/bs/kolf.po | 
+ | [et](/f32/language/et) | 378 | 401 | 94.3 | /mnt/stockage/packages/f32/kolf/po/et/kolf.po | 
+ | [fi](/f32/language/fi) | 378 | 401 | 94.3 | /mnt/stockage/packages/f32/kolf/po/fi/kolf.po | 
+ | [ga](/f32/language/ga) | 378 | 401 | 94.3 | /mnt/stockage/packages/f32/kolf/po/ga/kolf.po | 
+ | [hu](/f32/language/hu) | 378 | 401 | 94.3 | /mnt/stockage/packages/f32/kolf/po/hu/kolf.po | 
+ | [kk](/f32/language/kk) | 378 | 401 | 94.3 | /mnt/stockage/packages/f32/kolf/po/kk/kolf.po | 
+ | [km](/f32/language/km) | 378 | 401 | 94.3 | /mnt/stockage/packages/f32/kolf/po/km/kolf.po | 
+ | [lv](/f32/language/lv) | 378 | 401 | 94.3 | /mnt/stockage/packages/f32/kolf/po/lv/kolf.po | 
+ | [nds](/f32/language/nds) | 378 | 401 | 94.3 | /mnt/stockage/packages/f32/kolf/po/nds/kolf.po | 
+ | [ru](/f32/language/ru) | 378 | 401 | 94.3 | /mnt/stockage/packages/f32/kolf/po/ru/kolf.po | 
+ | [sr](/f32/language/sr) | 377 | 401 | 94.0 | /mnt/stockage/packages/f32/kolf/po/sr/kolf.po | 
+ | [nb_NO](/f32/language/nb_NO) | 373 | 401 | 93.0 | /mnt/stockage/packages/f32/kolf/po/nb/kolf.po | 
+ | [ja](/f32/language/ja) | 344 | 401 | 85.8 | /mnt/stockage/packages/f32/kolf/po/ja/kolf.po | 
+ | [el](/f32/language/el) | 342 | 401 | 85.3 | /mnt/stockage/packages/f32/kolf/po/el/kolf.po | 
+ | [eu](/f32/language/eu) | 342 | 401 | 85.3 | /mnt/stockage/packages/f32/kolf/po/eu/kolf.po | 
+ | [is](/f32/language/is) | 342 | 401 | 85.3 | /mnt/stockage/packages/f32/kolf/po/is/kolf.po | 
+ | [hi](/f32/language/hi) | 338 | 401 | 84.3 | /mnt/stockage/packages/f32/kolf/po/hi/kolf.po | 
+ | [fa](/f32/language/fa) | 325 | 401 | 81.0 | /mnt/stockage/packages/f32/kolf/po/fa/kolf.po | 
+ | [he](/f32/language/he) | 315 | 401 | 78.6 | /mnt/stockage/packages/f32/kolf/po/he/kolf.po | 
+ | [hr](/f32/language/hr) | 315 | 401 | 78.6 | /mnt/stockage/packages/f32/kolf/po/hr/kolf.po | 
+ | [bg](/f32/language/bg) | 311 | 401 | 77.6 | /mnt/stockage/packages/f32/kolf/po/bg/kolf.po | 
+ | [ar](/f32/language/ar) | 246 | 401 | 61.3 | /mnt/stockage/packages/f32/kolf/po/ar/kolf.po | 
+ | [pa](/f32/language/pa) | 201 | 401 | 50.1 | /mnt/stockage/packages/f32/kolf/po/pa/kolf.po | 
+ | [ro](/f32/language/ro) | 128 | 401 | 31.9 | /mnt/stockage/packages/f32/kolf/po/ro/kolf.po | 
+ | [lt](/f32/language/lt) | 71 | 401 | 17.7 | /mnt/stockage/packages/f32/kolf/po/lt/kolf.po | 
+ | [ug](/f32/language/ug) | 69 | 401 | 17.2 | /mnt/stockage/packages/f32/kolf/po/ug/kolf.po | 
+ | [eo](/f32/language/eo) | 68 | 401 | 17.0 | /mnt/stockage/packages/f32/kolf/po/eo/kolf.po | 
+ | [mr](/f32/language/mr) | 42 | 401 | 10.5 | /mnt/stockage/packages/f32/kolf/po/mr/kolf.po | 
 {.sortable}
 
 

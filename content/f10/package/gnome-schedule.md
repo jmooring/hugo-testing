@@ -18,40 +18,40 @@ The package gnome-schedule (version 2.0.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [es]({{< ref "/f10/language/es.md" >}}) | 3164 | 3164 | 100.0 | /mnt/stockage/packages/f10/gnome-schedule/help/es/es.po/mnt/stockage/packages/f10/gnome-schedule/po/es.po | 
- | [fr]({{< ref "/f10/language/fr.md" >}}) | 1155 | 1155 | 100.0 | /mnt/stockage/packages/f10/gnome-schedule/po/fr.po | 
- | [nn]({{< ref "/f10/language/nn.md" >}}) | 1156 | 1156 | 100.0 | /mnt/stockage/packages/f10/gnome-schedule/po/nn.po | 
- | [sv]({{< ref "/f10/language/sv.md" >}}) | 3409 | 3409 | 100.0 | /mnt/stockage/packages/f10/gnome-schedule/help/sv/sv.po/mnt/stockage/packages/f10/gnome-schedule/po/sv.po | 
- | [it]({{< ref "/f10/language/it.md" >}}) | 2140 | 3405 | 62.8 | /mnt/stockage/packages/f10/gnome-schedule/help/it/it.po/mnt/stockage/packages/f10/gnome-schedule/po/it.po | 
- | [fi]({{< ref "/f10/language/fi.md" >}}) | 517 | 1156 | 44.7 | /mnt/stockage/packages/f10/gnome-schedule/po/fi.po | 
- | [nl]({{< ref "/f10/language/nl.md" >}}) | 516 | 1156 | 44.6 | /mnt/stockage/packages/f10/gnome-schedule/po/nl.po | 
- | [dz]({{< ref "/f10/language/dz.md" >}}) | 515 | 1156 | 44.6 | /mnt/stockage/packages/f10/gnome-schedule/po/dz.po | 
- | [en_GB]({{< ref "/f10/language/en_GB.md" >}}) | 515 | 1156 | 44.6 | /mnt/stockage/packages/f10/gnome-schedule/po/en_GB.po | 
- | [sl]({{< ref "/f10/language/sl.md" >}}) | 515 | 1156 | 44.6 | /mnt/stockage/packages/f10/gnome-schedule/po/sl.po | 
- | [ca]({{< ref "/f10/language/ca.md" >}}) | 513 | 1156 | 44.4 | /mnt/stockage/packages/f10/gnome-schedule/po/ca.po | 
- | [en_CA]({{< ref "/f10/language/en_CA.md" >}}) | 513 | 1156 | 44.4 | /mnt/stockage/packages/f10/gnome-schedule/po/en_CA.po | 
- | [ne]({{< ref "/f10/language/ne.md" >}}) | 513 | 1156 | 44.4 | /mnt/stockage/packages/f10/gnome-schedule/po/ne.po | 
- | [ru]({{< ref "/f10/language/ru.md" >}}) | 513 | 1156 | 44.4 | /mnt/stockage/packages/f10/gnome-schedule/po/ru.po | 
- | [vi]({{< ref "/f10/language/vi.md" >}}) | 513 | 1156 | 44.4 | /mnt/stockage/packages/f10/gnome-schedule/po/vi.po | 
- | [zh_Hant]({{< ref "/f10/language/zh_Hant.md" >}}) | 511 | 1156 | 44.2 | /mnt/stockage/packages/f10/gnome-schedule/po/zh_TW.po | 
- | [zh_Hant_HK]({{< ref "/f10/language/zh_Hant_HK.md" >}}) | 511 | 1156 | 44.2 | /mnt/stockage/packages/f10/gnome-schedule/po/zh_HK.po | 
- | [de]({{< ref "/f10/language/de.md" >}}) | 507 | 1156 | 43.9 | /mnt/stockage/packages/f10/gnome-schedule/po/de.po | 
- | [hu]({{< ref "/f10/language/hu.md" >}}) | 504 | 1156 | 43.6 | /mnt/stockage/packages/f10/gnome-schedule/po/hu.po | 
- | [cs]({{< ref "/f10/language/cs.md" >}}) | 419 | 1156 | 36.2 | /mnt/stockage/packages/f10/gnome-schedule/po/cs.po | 
- | [lt]({{< ref "/f10/language/lt.md" >}}) | 368 | 1156 | 31.8 | /mnt/stockage/packages/f10/gnome-schedule/po/lt.po | 
- | [uk]({{< ref "/f10/language/uk.md" >}}) | 366 | 1156 | 31.7 | /mnt/stockage/packages/f10/gnome-schedule/po/uk.po | 
- | [pt_BR]({{< ref "/f10/language/pt_BR.md" >}}) | 335 | 1156 | 29.0 | /mnt/stockage/packages/f10/gnome-schedule/po/pt_BR.po | 
- | [da]({{< ref "/f10/language/da.md" >}}) | 317 | 1156 | 27.4 | /mnt/stockage/packages/f10/gnome-schedule/po/da.po | 
- | [sq]({{< ref "/f10/language/sq.md" >}}) | 316 | 1156 | 27.3 | /mnt/stockage/packages/f10/gnome-schedule/po/sq.po | 
- | [pt]({{< ref "/f10/language/pt.md" >}}) | 141 | 1156 | 12.2 | /mnt/stockage/packages/f10/gnome-schedule/po/pt.po | 
- | [bg]({{< ref "/f10/language/bg.md" >}}) | 66 | 1156 | 5.7 | /mnt/stockage/packages/f10/gnome-schedule/po/bg.po | 
- | [el]({{< ref "/f10/language/el.md" >}}) | 61 | 1156 | 5.3 | /mnt/stockage/packages/f10/gnome-schedule/po/el.po | 
- | [oc]({{< ref "/f10/language/oc.md" >}}) | 130 | 3410 | 3.8 | /mnt/stockage/packages/f10/gnome-schedule/help/oc/oc.po/mnt/stockage/packages/f10/gnome-schedule/po/oc.po | 
- | [pa]({{< ref "/f10/language/pa.md" >}}) | 42 | 1156 | 3.6 | /mnt/stockage/packages/f10/gnome-schedule/po/pa.po | 
- | [nb_NO]({{< ref "/f10/language/nb_NO.md" >}}) | 24 | 1156 | 2.1 | /mnt/stockage/packages/f10/gnome-schedule/po/nb.po | 
- | [zh_Hans]({{< ref "/f10/language/zh_Hans.md" >}}) | 22 | 1156 | 1.9 | /mnt/stockage/packages/f10/gnome-schedule/po/zh_CN.po | 
- | [ar]({{< ref "/f10/language/ar.md" >}}) | 19 | 1156 | 1.6 | /mnt/stockage/packages/f10/gnome-schedule/po/ar.po | 
- | [rw]({{< ref "/f10/language/rw.md" >}}) | 10 | 1156 | 0.9 | /mnt/stockage/packages/f10/gnome-schedule/po/rw.po | 
+ | [es](/f10/language/es) | 3164 | 3164 | 100.0 | /mnt/stockage/packages/f10/gnome-schedule/help/es/es.po/mnt/stockage/packages/f10/gnome-schedule/po/es.po | 
+ | [fr](/f10/language/fr) | 1155 | 1155 | 100.0 | /mnt/stockage/packages/f10/gnome-schedule/po/fr.po | 
+ | [nn](/f10/language/nn) | 1156 | 1156 | 100.0 | /mnt/stockage/packages/f10/gnome-schedule/po/nn.po | 
+ | [sv](/f10/language/sv) | 3409 | 3409 | 100.0 | /mnt/stockage/packages/f10/gnome-schedule/help/sv/sv.po/mnt/stockage/packages/f10/gnome-schedule/po/sv.po | 
+ | [it](/f10/language/it) | 2140 | 3405 | 62.8 | /mnt/stockage/packages/f10/gnome-schedule/help/it/it.po/mnt/stockage/packages/f10/gnome-schedule/po/it.po | 
+ | [fi](/f10/language/fi) | 517 | 1156 | 44.7 | /mnt/stockage/packages/f10/gnome-schedule/po/fi.po | 
+ | [nl](/f10/language/nl) | 516 | 1156 | 44.6 | /mnt/stockage/packages/f10/gnome-schedule/po/nl.po | 
+ | [dz](/f10/language/dz) | 515 | 1156 | 44.6 | /mnt/stockage/packages/f10/gnome-schedule/po/dz.po | 
+ | [en_GB](/f10/language/en_GB) | 515 | 1156 | 44.6 | /mnt/stockage/packages/f10/gnome-schedule/po/en_GB.po | 
+ | [sl](/f10/language/sl) | 515 | 1156 | 44.6 | /mnt/stockage/packages/f10/gnome-schedule/po/sl.po | 
+ | [ca](/f10/language/ca) | 513 | 1156 | 44.4 | /mnt/stockage/packages/f10/gnome-schedule/po/ca.po | 
+ | [en_CA](/f10/language/en_CA) | 513 | 1156 | 44.4 | /mnt/stockage/packages/f10/gnome-schedule/po/en_CA.po | 
+ | [ne](/f10/language/ne) | 513 | 1156 | 44.4 | /mnt/stockage/packages/f10/gnome-schedule/po/ne.po | 
+ | [ru](/f10/language/ru) | 513 | 1156 | 44.4 | /mnt/stockage/packages/f10/gnome-schedule/po/ru.po | 
+ | [vi](/f10/language/vi) | 513 | 1156 | 44.4 | /mnt/stockage/packages/f10/gnome-schedule/po/vi.po | 
+ | [zh_Hant](/f10/language/zh_Hant) | 511 | 1156 | 44.2 | /mnt/stockage/packages/f10/gnome-schedule/po/zh_TW.po | 
+ | [zh_Hant_HK](/f10/language/zh_Hant_HK) | 511 | 1156 | 44.2 | /mnt/stockage/packages/f10/gnome-schedule/po/zh_HK.po | 
+ | [de](/f10/language/de) | 507 | 1156 | 43.9 | /mnt/stockage/packages/f10/gnome-schedule/po/de.po | 
+ | [hu](/f10/language/hu) | 504 | 1156 | 43.6 | /mnt/stockage/packages/f10/gnome-schedule/po/hu.po | 
+ | [cs](/f10/language/cs) | 419 | 1156 | 36.2 | /mnt/stockage/packages/f10/gnome-schedule/po/cs.po | 
+ | [lt](/f10/language/lt) | 368 | 1156 | 31.8 | /mnt/stockage/packages/f10/gnome-schedule/po/lt.po | 
+ | [uk](/f10/language/uk) | 366 | 1156 | 31.7 | /mnt/stockage/packages/f10/gnome-schedule/po/uk.po | 
+ | [pt_BR](/f10/language/pt_BR) | 335 | 1156 | 29.0 | /mnt/stockage/packages/f10/gnome-schedule/po/pt_BR.po | 
+ | [da](/f10/language/da) | 317 | 1156 | 27.4 | /mnt/stockage/packages/f10/gnome-schedule/po/da.po | 
+ | [sq](/f10/language/sq) | 316 | 1156 | 27.3 | /mnt/stockage/packages/f10/gnome-schedule/po/sq.po | 
+ | [pt](/f10/language/pt) | 141 | 1156 | 12.2 | /mnt/stockage/packages/f10/gnome-schedule/po/pt.po | 
+ | [bg](/f10/language/bg) | 66 | 1156 | 5.7 | /mnt/stockage/packages/f10/gnome-schedule/po/bg.po | 
+ | [el](/f10/language/el) | 61 | 1156 | 5.3 | /mnt/stockage/packages/f10/gnome-schedule/po/el.po | 
+ | [oc](/f10/language/oc) | 130 | 3410 | 3.8 | /mnt/stockage/packages/f10/gnome-schedule/help/oc/oc.po/mnt/stockage/packages/f10/gnome-schedule/po/oc.po | 
+ | [pa](/f10/language/pa) | 42 | 1156 | 3.6 | /mnt/stockage/packages/f10/gnome-schedule/po/pa.po | 
+ | [nb_NO](/f10/language/nb_NO) | 24 | 1156 | 2.1 | /mnt/stockage/packages/f10/gnome-schedule/po/nb.po | 
+ | [zh_Hans](/f10/language/zh_Hans) | 22 | 1156 | 1.9 | /mnt/stockage/packages/f10/gnome-schedule/po/zh_CN.po | 
+ | [ar](/f10/language/ar) | 19 | 1156 | 1.6 | /mnt/stockage/packages/f10/gnome-schedule/po/ar.po | 
+ | [rw](/f10/language/rw) | 10 | 1156 | 0.9 | /mnt/stockage/packages/f10/gnome-schedule/po/rw.po | 
 {.sortable}
 
 

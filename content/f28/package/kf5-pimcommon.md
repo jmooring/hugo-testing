@@ -18,47 +18,47 @@ The package kf5-pimcommon (version 18.08.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f28/language/ar.md" >}}) | 1013 | 1013 | 100.0 | /mnt/stockage/packages/f28/kf5-pimcommon/po/ar/libpimcommon.po | 
- | [ca]({{< ref "/f28/language/ca.md" >}}) | 1013 | 1013 | 100.0 | /mnt/stockage/packages/f28/kf5-pimcommon/po/ca/libpimcommon.po | 
- | [ca@valencia]({{< ref "/f28/language/ca@valencia.md" >}}) | 1013 | 1013 | 100.0 | /mnt/stockage/packages/f28/kf5-pimcommon/po/ca@valencia/libpimcommon.po | 
- | [de]({{< ref "/f28/language/de.md" >}}) | 1013 | 1013 | 100.0 | /mnt/stockage/packages/f28/kf5-pimcommon/po/de/libpimcommon.po | 
- | [en_GB]({{< ref "/f28/language/en_GB.md" >}}) | 1013 | 1013 | 100.0 | /mnt/stockage/packages/f28/kf5-pimcommon/po/en_GB/libpimcommon.po | 
- | [es]({{< ref "/f28/language/es.md" >}}) | 1013 | 1013 | 100.0 | /mnt/stockage/packages/f28/kf5-pimcommon/po/es/libpimcommon.po | 
- | [fi]({{< ref "/f28/language/fi.md" >}}) | 1013 | 1013 | 100.0 | /mnt/stockage/packages/f28/kf5-pimcommon/po/fi/libpimcommon.po | 
- | [fr]({{< ref "/f28/language/fr.md" >}}) | 1013 | 1013 | 100.0 | /mnt/stockage/packages/f28/kf5-pimcommon/po/fr/libpimcommon.po | 
- | [gl]({{< ref "/f28/language/gl.md" >}}) | 1013 | 1013 | 100.0 | /mnt/stockage/packages/f28/kf5-pimcommon/po/gl/libpimcommon.po | 
- | [it]({{< ref "/f28/language/it.md" >}}) | 1013 | 1013 | 100.0 | /mnt/stockage/packages/f28/kf5-pimcommon/po/it/libpimcommon.po | 
- | [ko]({{< ref "/f28/language/ko.md" >}}) | 1013 | 1013 | 100.0 | /mnt/stockage/packages/f28/kf5-pimcommon/po/ko/libpimcommon.po | 
- | [nl]({{< ref "/f28/language/nl.md" >}}) | 1013 | 1013 | 100.0 | /mnt/stockage/packages/f28/kf5-pimcommon/po/nl/libpimcommon.po | 
- | [pl]({{< ref "/f28/language/pl.md" >}}) | 1013 | 1013 | 100.0 | /mnt/stockage/packages/f28/kf5-pimcommon/po/pl/libpimcommon.po | 
- | [pt]({{< ref "/f28/language/pt.md" >}}) | 1013 | 1013 | 100.0 | /mnt/stockage/packages/f28/kf5-pimcommon/po/pt/libpimcommon.po | 
- | [pt_BR]({{< ref "/f28/language/pt_BR.md" >}}) | 1013 | 1013 | 100.0 | /mnt/stockage/packages/f28/kf5-pimcommon/po/pt_BR/libpimcommon.po | 
- | [sl]({{< ref "/f28/language/sl.md" >}}) | 1013 | 1013 | 100.0 | /mnt/stockage/packages/f28/kf5-pimcommon/po/sl/libpimcommon.po | 
- | [sv]({{< ref "/f28/language/sv.md" >}}) | 1013 | 1013 | 100.0 | /mnt/stockage/packages/f28/kf5-pimcommon/po/sv/libpimcommon.po | 
- | [uk]({{< ref "/f28/language/uk.md" >}}) | 1013 | 1013 | 100.0 | /mnt/stockage/packages/f28/kf5-pimcommon/po/uk/libpimcommon.po | 
- | [zh_Hans]({{< ref "/f28/language/zh_Hans.md" >}}) | 1013 | 1013 | 100.0 | /mnt/stockage/packages/f28/kf5-pimcommon/po/zh_CN/libpimcommon.po | 
- | [sr]({{< ref "/f28/language/sr.md" >}}) | 1009 | 1013 | 99.6 | /mnt/stockage/packages/f28/kf5-pimcommon/po/sr/libpimcommon.po | 
- | [tr]({{< ref "/f28/language/tr.md" >}}) | 991 | 1013 | 97.8 | /mnt/stockage/packages/f28/kf5-pimcommon/po/tr/libpimcommon.po | 
- | [sk]({{< ref "/f28/language/sk.md" >}}) | 984 | 1013 | 97.1 | /mnt/stockage/packages/f28/kf5-pimcommon/po/sk/libpimcommon.po | 
- | [cs]({{< ref "/f28/language/cs.md" >}}) | 925 | 1013 | 91.3 | /mnt/stockage/packages/f28/kf5-pimcommon/po/cs/libpimcommon.po | 
- | [nb_NO]({{< ref "/f28/language/nb_NO.md" >}}) | 851 | 1013 | 84.0 | /mnt/stockage/packages/f28/kf5-pimcommon/po/nb/libpimcommon.po | 
- | [et]({{< ref "/f28/language/et.md" >}}) | 819 | 1013 | 80.8 | /mnt/stockage/packages/f28/kf5-pimcommon/po/et/libpimcommon.po | 
- | [ru]({{< ref "/f28/language/ru.md" >}}) | 805 | 1013 | 79.5 | /mnt/stockage/packages/f28/kf5-pimcommon/po/ru/libpimcommon.po | 
- | [zh_Hant]({{< ref "/f28/language/zh_Hant.md" >}}) | 731 | 1013 | 72.2 | /mnt/stockage/packages/f28/kf5-pimcommon/po/zh_TW/libpimcommon.po | 
- | [da]({{< ref "/f28/language/da.md" >}}) | 729 | 1013 | 72.0 | /mnt/stockage/packages/f28/kf5-pimcommon/po/da/libpimcommon.po | 
- | [hu]({{< ref "/f28/language/hu.md" >}}) | 705 | 1013 | 69.6 | /mnt/stockage/packages/f28/kf5-pimcommon/po/hu/libpimcommon.po | 
- | [ia]({{< ref "/f28/language/ia.md" >}}) | 684 | 1013 | 67.5 | /mnt/stockage/packages/f28/kf5-pimcommon/po/ia/libpimcommon.po | 
- | [nds]({{< ref "/f28/language/nds.md" >}}) | 684 | 1013 | 67.5 | /mnt/stockage/packages/f28/kf5-pimcommon/po/nds/libpimcommon.po | 
- | [el]({{< ref "/f28/language/el.md" >}}) | 673 | 1013 | 66.4 | /mnt/stockage/packages/f28/kf5-pimcommon/po/el/libpimcommon.po | 
- | [bs]({{< ref "/f28/language/bs.md" >}}) | 359 | 1013 | 35.4 | /mnt/stockage/packages/f28/kf5-pimcommon/po/bs/libpimcommon.po | 
- | [kk]({{< ref "/f28/language/kk.md" >}}) | 355 | 1013 | 35.0 | /mnt/stockage/packages/f28/kf5-pimcommon/po/kk/libpimcommon.po | 
- | [lt]({{< ref "/f28/language/lt.md" >}}) | 340 | 1013 | 33.6 | /mnt/stockage/packages/f28/kf5-pimcommon/po/lt/libpimcommon.po | 
- | [ro]({{< ref "/f28/language/ro.md" >}}) | 203 | 1013 | 20.0 | /mnt/stockage/packages/f28/kf5-pimcommon/po/ro/libpimcommon.po | 
- | [ug]({{< ref "/f28/language/ug.md" >}}) | 175 | 1013 | 17.3 | /mnt/stockage/packages/f28/kf5-pimcommon/po/ug/libpimcommon.po | 
- | [mr]({{< ref "/f28/language/mr.md" >}}) | 102 | 1013 | 10.1 | /mnt/stockage/packages/f28/kf5-pimcommon/po/mr/libpimcommon.po | 
- | [ga]({{< ref "/f28/language/ga.md" >}}) | 19 | 1013 | 1.9 | /mnt/stockage/packages/f28/kf5-pimcommon/po/ga/libpimcommon.po | 
- | [ast]({{< ref "/f28/language/ast.md" >}}) | 1 | 1013 | 0.1 | /mnt/stockage/packages/f28/kf5-pimcommon/po/ast/libpimcommon.po | 
- | [ja]({{< ref "/f28/language/ja.md" >}}) | 0 | 1013 | 0.0 | /mnt/stockage/packages/f28/kf5-pimcommon/po/ja/libpimcommon.po | 
+ | [ar](/f28/language/ar) | 1013 | 1013 | 100.0 | /mnt/stockage/packages/f28/kf5-pimcommon/po/ar/libpimcommon.po | 
+ | [ca](/f28/language/ca) | 1013 | 1013 | 100.0 | /mnt/stockage/packages/f28/kf5-pimcommon/po/ca/libpimcommon.po | 
+ | [ca@valencia](/f28/language/ca@valencia) | 1013 | 1013 | 100.0 | /mnt/stockage/packages/f28/kf5-pimcommon/po/ca@valencia/libpimcommon.po | 
+ | [de](/f28/language/de) | 1013 | 1013 | 100.0 | /mnt/stockage/packages/f28/kf5-pimcommon/po/de/libpimcommon.po | 
+ | [en_GB](/f28/language/en_GB) | 1013 | 1013 | 100.0 | /mnt/stockage/packages/f28/kf5-pimcommon/po/en_GB/libpimcommon.po | 
+ | [es](/f28/language/es) | 1013 | 1013 | 100.0 | /mnt/stockage/packages/f28/kf5-pimcommon/po/es/libpimcommon.po | 
+ | [fi](/f28/language/fi) | 1013 | 1013 | 100.0 | /mnt/stockage/packages/f28/kf5-pimcommon/po/fi/libpimcommon.po | 
+ | [fr](/f28/language/fr) | 1013 | 1013 | 100.0 | /mnt/stockage/packages/f28/kf5-pimcommon/po/fr/libpimcommon.po | 
+ | [gl](/f28/language/gl) | 1013 | 1013 | 100.0 | /mnt/stockage/packages/f28/kf5-pimcommon/po/gl/libpimcommon.po | 
+ | [it](/f28/language/it) | 1013 | 1013 | 100.0 | /mnt/stockage/packages/f28/kf5-pimcommon/po/it/libpimcommon.po | 
+ | [ko](/f28/language/ko) | 1013 | 1013 | 100.0 | /mnt/stockage/packages/f28/kf5-pimcommon/po/ko/libpimcommon.po | 
+ | [nl](/f28/language/nl) | 1013 | 1013 | 100.0 | /mnt/stockage/packages/f28/kf5-pimcommon/po/nl/libpimcommon.po | 
+ | [pl](/f28/language/pl) | 1013 | 1013 | 100.0 | /mnt/stockage/packages/f28/kf5-pimcommon/po/pl/libpimcommon.po | 
+ | [pt](/f28/language/pt) | 1013 | 1013 | 100.0 | /mnt/stockage/packages/f28/kf5-pimcommon/po/pt/libpimcommon.po | 
+ | [pt_BR](/f28/language/pt_BR) | 1013 | 1013 | 100.0 | /mnt/stockage/packages/f28/kf5-pimcommon/po/pt_BR/libpimcommon.po | 
+ | [sl](/f28/language/sl) | 1013 | 1013 | 100.0 | /mnt/stockage/packages/f28/kf5-pimcommon/po/sl/libpimcommon.po | 
+ | [sv](/f28/language/sv) | 1013 | 1013 | 100.0 | /mnt/stockage/packages/f28/kf5-pimcommon/po/sv/libpimcommon.po | 
+ | [uk](/f28/language/uk) | 1013 | 1013 | 100.0 | /mnt/stockage/packages/f28/kf5-pimcommon/po/uk/libpimcommon.po | 
+ | [zh_Hans](/f28/language/zh_Hans) | 1013 | 1013 | 100.0 | /mnt/stockage/packages/f28/kf5-pimcommon/po/zh_CN/libpimcommon.po | 
+ | [sr](/f28/language/sr) | 1009 | 1013 | 99.6 | /mnt/stockage/packages/f28/kf5-pimcommon/po/sr/libpimcommon.po | 
+ | [tr](/f28/language/tr) | 991 | 1013 | 97.8 | /mnt/stockage/packages/f28/kf5-pimcommon/po/tr/libpimcommon.po | 
+ | [sk](/f28/language/sk) | 984 | 1013 | 97.1 | /mnt/stockage/packages/f28/kf5-pimcommon/po/sk/libpimcommon.po | 
+ | [cs](/f28/language/cs) | 925 | 1013 | 91.3 | /mnt/stockage/packages/f28/kf5-pimcommon/po/cs/libpimcommon.po | 
+ | [nb_NO](/f28/language/nb_NO) | 851 | 1013 | 84.0 | /mnt/stockage/packages/f28/kf5-pimcommon/po/nb/libpimcommon.po | 
+ | [et](/f28/language/et) | 819 | 1013 | 80.8 | /mnt/stockage/packages/f28/kf5-pimcommon/po/et/libpimcommon.po | 
+ | [ru](/f28/language/ru) | 805 | 1013 | 79.5 | /mnt/stockage/packages/f28/kf5-pimcommon/po/ru/libpimcommon.po | 
+ | [zh_Hant](/f28/language/zh_Hant) | 731 | 1013 | 72.2 | /mnt/stockage/packages/f28/kf5-pimcommon/po/zh_TW/libpimcommon.po | 
+ | [da](/f28/language/da) | 729 | 1013 | 72.0 | /mnt/stockage/packages/f28/kf5-pimcommon/po/da/libpimcommon.po | 
+ | [hu](/f28/language/hu) | 705 | 1013 | 69.6 | /mnt/stockage/packages/f28/kf5-pimcommon/po/hu/libpimcommon.po | 
+ | [ia](/f28/language/ia) | 684 | 1013 | 67.5 | /mnt/stockage/packages/f28/kf5-pimcommon/po/ia/libpimcommon.po | 
+ | [nds](/f28/language/nds) | 684 | 1013 | 67.5 | /mnt/stockage/packages/f28/kf5-pimcommon/po/nds/libpimcommon.po | 
+ | [el](/f28/language/el) | 673 | 1013 | 66.4 | /mnt/stockage/packages/f28/kf5-pimcommon/po/el/libpimcommon.po | 
+ | [bs](/f28/language/bs) | 359 | 1013 | 35.4 | /mnt/stockage/packages/f28/kf5-pimcommon/po/bs/libpimcommon.po | 
+ | [kk](/f28/language/kk) | 355 | 1013 | 35.0 | /mnt/stockage/packages/f28/kf5-pimcommon/po/kk/libpimcommon.po | 
+ | [lt](/f28/language/lt) | 340 | 1013 | 33.6 | /mnt/stockage/packages/f28/kf5-pimcommon/po/lt/libpimcommon.po | 
+ | [ro](/f28/language/ro) | 203 | 1013 | 20.0 | /mnt/stockage/packages/f28/kf5-pimcommon/po/ro/libpimcommon.po | 
+ | [ug](/f28/language/ug) | 175 | 1013 | 17.3 | /mnt/stockage/packages/f28/kf5-pimcommon/po/ug/libpimcommon.po | 
+ | [mr](/f28/language/mr) | 102 | 1013 | 10.1 | /mnt/stockage/packages/f28/kf5-pimcommon/po/mr/libpimcommon.po | 
+ | [ga](/f28/language/ga) | 19 | 1013 | 1.9 | /mnt/stockage/packages/f28/kf5-pimcommon/po/ga/libpimcommon.po | 
+ | [ast](/f28/language/ast) | 1 | 1013 | 0.1 | /mnt/stockage/packages/f28/kf5-pimcommon/po/ast/libpimcommon.po | 
+ | [ja](/f28/language/ja) | 0 | 1013 | 0.0 | /mnt/stockage/packages/f28/kf5-pimcommon/po/ja/libpimcommon.po | 
 {.sortable}
 
 

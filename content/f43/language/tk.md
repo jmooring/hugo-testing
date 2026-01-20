@@ -46,89 +46,89 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [mate-icon-theme]({{< ref "/f43/package/mate-icon-theme.md" >}}) | 4 | 4 | 100.0 | Turkmen (https://app.transifex.com/mate/teams/13566/tk/) | 
- | [at-spi2-core]({{< ref "/f43/package/at-spi2-core.md" >}}) | 348 | 375 | 92.8 | Turkmen <kakilikgroup@yahoo.com> | 
- | [mingw-atk]({{< ref "/f43/package/mingw-atk.md" >}}) | 348 | 375 | 92.8 | Turkmen <kakilikgroup@yahoo.com> | 
- | [gnome-desktop3]({{< ref "/f43/package/gnome-desktop3.md" >}}) | 291 | 320 | 90.9 | Turkmen <kakilikgroup@yahoo.com> | 
- | [gtranslator]({{< ref "/f43/package/gtranslator.md" >}}) | 1291 | 1422 | 90.8 | Turkmen <kakilikgroup@yahoo.com> | 
- | [file-roller]({{< ref "/f43/package/file-roller.md" >}}) | 702 | 971 | 72.3 | Turkmen <kakilikgroup@yahoo.com> | 
- | [nautilus]({{< ref "/f43/package/nautilus.md" >}}) | 5001 | 6976 | 71.7 | Turkmen <kakilikgroup@yahoo.com> | 
- | [gnome-mime-data]({{< ref "/f43/package/gnome-mime-data.md" >}}) | 625 | 887 | 70.5 | Turkmen <kakilikgroup@yahoo.com> | 
- | [python-django5]({{< ref "/f43/package/python-django5.md" >}}) | 2257 | 3220 | 70.1 | Turkmen (http://app.transifex.com/django/django/language/tk/) | 
- | [gnome-icon-theme]({{< ref "/f43/package/gnome-icon-theme.md" >}}) | 36 | 52 | 69.2 | Turkmen <kakilikgroup@yahoo.com> | 
- | [iso-codes]({{< ref "/f43/package/iso-codes.md" >}}) | 709 | 1093 | 64.9 | Turkmen <https://hosted.weblate.org/projects/iso-codes/iso-3166-1/tk/> | 
- | [epiphany]({{< ref "/f43/package/epiphany.md" >}}) | 1702 | 2782 | 61.2 | Turkmen <kakilikgroup@yahoo.com> | 
- | [gedit]({{< ref "/f43/package/gedit.md" >}}) | 2502 | 4206 | 59.5 | Turkmen <kakilikgroup@yahoo.com> | 
- | [dasher]({{< ref "/f43/package/dasher.md" >}}) | 141 | 423 | 33.3 | Turkmen <kakilikgroup@yahoo.com> | 
- | [gnome-calculator]({{< ref "/f43/package/gnome-calculator.md" >}}) | 294 | 915 | 32.1 | Tuekmen <kakilikgroup@yahoo.com> | 
- | [libgnomeui]({{< ref "/f43/package/libgnomeui.md" >}}) | 443 | 1419 | 31.2 | Turkmen <kakilikgroup@yahoo.com> | 
- | [eog]({{< ref "/f43/package/eog.md" >}}) | 143 | 557 | 25.7 | Turkmne <kakilikgroup@yahoo.com> | 
- | [caja]({{< ref "/f43/package/caja.md" >}}) | 2441 | 10156 | 24.0 | Turkmen (https://app.transifex.com/mate/teams/13566/tk/) | 
- | [pluma]({{< ref "/f43/package/pluma.md" >}}) | 1076 | 5707 | 18.9 | Turkmen (https://app.transifex.com/mate/teams/13566/tk/) | 
- | [xed]({{< ref "/f43/package/xed.md" >}}) | 658 | 3775 | 17.4 | Turkmen (http://www.transifex.com/projects/p/MATE/language/tk/) | 
- | [budgie-session]({{< ref "/f43/package/budgie-session.md" >}}) | 44 | 516 | 8.5 | Turkmen <kakilikgroup@yahoo.com> | 
- | [gnome-session]({{< ref "/f43/package/gnome-session.md" >}}) | 44 | 516 | 8.5 | Turkmen <kakilikgroup@yahoo.com> | 
- | [sugar-toolkit-gtk3]({{< ref "/f43/package/sugar-toolkit-gtk3.md" >}}) | 17 | 213 | 8.0 | LANGUAGE <LL@li.org> | 
- | [gdk-pixbuf2]({{< ref "/f43/package/gdk-pixbuf2.md" >}}) | 92 | 1348 | 6.8 | Turkmen <kakilikgroup@yahoo.com> | 
- | [gdk-pixbuf2-modules-extra]({{< ref "/f43/package/gdk-pixbuf2-modules-extra.md" >}}) | 92 | 1348 | 6.8 | Turkmen <kakilikgroup@yahoo.com> | 
- | [mingw-gdk-pixbuf]({{< ref "/f43/package/mingw-gdk-pixbuf.md" >}}) | 92 | 1348 | 6.8 | Turkmen <kakilikgroup@yahoo.com> | 
- | [engrampa]({{< ref "/f43/package/engrampa.md" >}}) | 531 | 7899 | 6.7 | Turkmen (https://www.transifex.com/mate/teams/13566/tk/) | 
- | [mate-menu]({{< ref "/f43/package/mate-menu.md" >}}) | 15 | 308 | 4.9 | Turkmen (http://www.transifex.com/mate/MATE/language/tk/) | 
- | [eom]({{< ref "/f43/package/eom.md" >}}) | 86 | 1779 | 4.8 | Turkmen (https://app.transifex.com/mate/teams/13566/tk/) | 
- | [mate-session-manager]({{< ref "/f43/package/mate-session-manager.md" >}}) | 32 | 717 | 4.5 | Turkmen (https://app.transifex.com/mate/teams/13566/tk/) | 
- | [mate-media]({{< ref "/f43/package/mate-media.md" >}}) | 8 | 244 | 3.3 | Turkmen (https://app.transifex.com/mate/teams/13566/tk/) | 
- | [mingw-gtk4]({{< ref "/f43/package/mingw-gtk4.md" >}}) | 73 | 2432 | 3.0 | Turkmen <kakilikgroup@yahoo.com> | 
- | [mate-menus]({{< ref "/f43/package/mate-menus.md" >}}) | 3 | 103 | 2.9 | Turkmen (https://app.transifex.com/mate/teams/13566/tk/) | 
- | [isomaster]({{< ref "/f43/package/isomaster.md" >}}) | 19 | 674 | 2.8 | http://littlesvr.ca/ostd/ | 
- | [atril]({{< ref "/f43/package/atril.md" >}}) | 65 | 2325 | 2.8 | Turkmen (https://app.transifex.com/mate/teams/13566/tk/) | 
- | [mate-desktop]({{< ref "/f43/package/mate-desktop.md" >}}) | 57 | 2412 | 2.4 | Turkmen (https://app.transifex.com/mate/teams/13566/tk/) | 
- | [mate-system-monitor]({{< ref "/f43/package/mate-system-monitor.md" >}}) | 33 | 1559 | 2.1 | Turkmen (https://app.transifex.com/mate/teams/13566/tk/) | 
- | [mate-terminal]({{< ref "/f43/package/mate-terminal.md" >}}) | 97 | 4724 | 2.1 | Turkmen (https://app.transifex.com/mate/teams/13566/tk/) | 
- | [gedit-plugins]({{< ref "/f43/package/gedit-plugins.md" >}}) | 20 | 1205 | 1.7 | Turkmen <kakilikgroup@yahoo.com> | 
- | [mate-utils]({{< ref "/f43/package/mate-utils.md" >}}) | 113 | 6880 | 1.6 | Turkmen (https://app.transifex.com/mate/teams/13566/tk/) | 
- | [gtk2]({{< ref "/f43/package/gtk2.md" >}}) | 215 | 13704 | 1.6 | Turkmen <kakilikgroup@yahoo.com> | 
- | [mingw-gtk2]({{< ref "/f43/package/mingw-gtk2.md" >}}) | 215 | 13704 | 1.6 | Turkmen <kakilikgroup@yahoo.com> | 
- | [asunder]({{< ref "/f43/package/asunder.md" >}}) | 6 | 493 | 1.2 | http://littlesvr.ca/ostd/ | 
- | [caja-extensions]({{< ref "/f43/package/caja-extensions.md" >}}) | 10 | 845 | 1.2 | Turkmen (https://app.transifex.com/mate/teams/13566/tk/) | 
- | [marco]({{< ref "/f43/package/marco.md" >}}) | 49 | 4171 | 1.2 | Turkmen (https://app.transifex.com/mate/teams/13566/tk/) | 
- | [mate-calc]({{< ref "/f43/package/mate-calc.md" >}}) | 33 | 3327 | 1.0 | Turkmen (https://app.transifex.com/mate/teams/13566/tk/) | 
- | [mate-panel]({{< ref "/f43/package/mate-panel.md" >}}) | 51 | 5590 | 0.9 | Turkmen (https://app.transifex.com/mate/teams/13566/tk/) | 
- | [mate-control-center]({{< ref "/f43/package/mate-control-center.md" >}}) | 70 | 8260 | 0.8 | Turkmen (https://app.transifex.com/mate/teams/13566/tk/) | 
- | [magpie]({{< ref "/f43/package/magpie.md" >}}) | 49 | 6919 | 0.7 | Turkmen <kakilikgroup@yahoo.com> | 
- | [metacity]({{< ref "/f43/package/metacity.md" >}}) | 49 | 6919 | 0.7 | Turkmen <kakilikgroup@yahoo.com> | 
- | [muffin]({{< ref "/f43/package/muffin.md" >}}) | 49 | 6919 | 0.7 | Turkmen <kakilikgroup@yahoo.com> | 
- | [mutter]({{< ref "/f43/package/mutter.md" >}}) | 49 | 6919 | 0.7 | Turkmen <kakilikgroup@yahoo.com> | 
- | [gtk3]({{< ref "/f43/package/gtk3.md" >}}) | 79 | 11853 | 0.7 | Turkmen <kakilikgroup@yahoo.com> | 
- | [mingw-gtk3]({{< ref "/f43/package/mingw-gtk3.md" >}}) | 79 | 11853 | 0.7 | Turkmen <kakilikgroup@yahoo.com> | 
- | [mate-user-admin]({{< ref "/f43/package/mate-user-admin.md" >}}) | 4 | 605 | 0.7 | Turkmen (https://www.transifex.com/mate/teams/13566/tk/) | 
- | [mate-applets]({{< ref "/f43/package/mate-applets.md" >}}) | 42 | 11655 | 0.4 | Turkmen (https://www.transifex.com/mate/teams/13566/tk/) | 
- | [mate-sensors-applet]({{< ref "/f43/package/mate-sensors-applet.md" >}}) | 8 | 2222 | 0.4 | Turkmen (https://www.transifex.com/mate/teams/13566/tk/) | 
- | [mate-power-manager]({{< ref "/f43/package/mate-power-manager.md" >}}) | 14 | 5120 | 0.3 | Turkmen (https://www.transifex.com/mate/teams/13566/tk/) | 
- | [caja-actions]({{< ref "/f43/package/caja-actions.md" >}}) | 50 | 18812 | 0.3 | Turkmen (https://app.transifex.com/mate/teams/13566/tk/) | 
- | [cinnamon-translations]({{< ref "/f43/package/cinnamon-translations.md" >}}) | 1 | 7720 | 0.0 | Turkmen <tk@li.org> | 
- | [bookworm]({{< ref "/f43/package/bookworm.md" >}}) | 0 | 795 | 0.0 |  | 
- | [cinnamon-desktop]({{< ref "/f43/package/cinnamon-desktop.md" >}}) | 0 | 231 | 0.0 | Turkmen <kakilikgroup@yahoo.com> | 
- | [dippi]({{< ref "/f43/package/dippi.md" >}}) | 0 | 1653 | 0.0 | none | 
- | [elementary-code]({{< ref "/f43/package/elementary-code.md" >}}) | 0 | 2228 | 0.0 | LANGUAGE <LL@li.org> | 
- | [elementary-files]({{< ref "/f43/package/elementary-files.md" >}}) | 0 | 2656 | 0.0 | LANGUAGE <LL@li.org> | 
- | [elementary-icon-theme]({{< ref "/f43/package/elementary-icon-theme.md" >}}) | 0 | 349 | 0.0 | none | 
- | [elementary-mail]({{< ref "/f43/package/elementary-mail.md" >}}) | 0 | 861 | 0.0 |  | 
- | [elementary-music]({{< ref "/f43/package/elementary-music.md" >}}) | 0 | 231 | 0.0 | LANGUAGE <LL@li.org> | 
- | [elementary-notifications]({{< ref "/f43/package/elementary-notifications.md" >}}) | 0 | 42 | 0.0 | none | 
- | [elementary-photos]({{< ref "/f43/package/elementary-photos.md" >}}) | 0 | 2862 | 0.0 | LANGUAGE <LL@li.org> | 
- | [elementary-screenshot]({{< ref "/f43/package/elementary-screenshot.md" >}}) | 0 | 128 | 0.0 | LANGUAGE <LL@li.org> | 
- | [elementary-settings-daemon]({{< ref "/f43/package/elementary-settings-daemon.md" >}}) | 0 | 303 | 0.0 | none | 
- | [gala]({{< ref "/f43/package/gala.md" >}}) | 0 | 319 | 0.0 | none | 
- | [granite]({{< ref "/f43/package/granite.md" >}}) | 0 | 498 | 0.0 |  | 
- | [granite-7]({{< ref "/f43/package/granite-7.md" >}}) | 0 | 596 | 0.0 |  | 
- | [mate-themes]({{< ref "/f43/package/mate-themes.md" >}}) | 0 | 74 | 0.0 | Turkmen (http://app.transifex.com/mate/MATE/language/tk/) | 
- | [pluma-plugins]({{< ref "/f43/package/pluma-plugins.md" >}}) | 0 | 631 | 0.0 | Turkmen <kakilikgroup@yahoo.com> | 
- | [regextester]({{< ref "/f43/package/regextester.md" >}}) | 0 | 104 | 0.0 | none | 
- | [wingpanel]({{< ref "/f43/package/wingpanel.md" >}}) | 0 | 57 | 0.0 | none | 
- | [wingpanel-indicator-a11y]({{< ref "/f43/package/wingpanel-indicator-a11y.md" >}}) | 0 | 55 | 0.0 | none | 
- | [wingpanel-indicator-bluetooth]({{< ref "/f43/package/wingpanel-indicator-bluetooth.md" >}}) | 0 | 80 | 0.0 | none | 
- | [wingpanel-indicator-datetime]({{< ref "/f43/package/wingpanel-indicator-datetime.md" >}}) | 0 | 103 | 0.0 |  | 
- | [wingpanel-indicator-keyboard]({{< ref "/f43/package/wingpanel-indicator-keyboard.md" >}}) | 0 | 56 | 0.0 |  | 
+ | [mate-icon-theme](/f43/package/mate-icon-theme) | 4 | 4 | 100.0 | Turkmen (https://app.transifex.com/mate/teams/13566/tk/) | 
+ | [at-spi2-core](/f43/package/at-spi2-core) | 348 | 375 | 92.8 | Turkmen <kakilikgroup@yahoo.com> | 
+ | [mingw-atk](/f43/package/mingw-atk) | 348 | 375 | 92.8 | Turkmen <kakilikgroup@yahoo.com> | 
+ | [gnome-desktop3](/f43/package/gnome-desktop3) | 291 | 320 | 90.9 | Turkmen <kakilikgroup@yahoo.com> | 
+ | [gtranslator](/f43/package/gtranslator) | 1291 | 1422 | 90.8 | Turkmen <kakilikgroup@yahoo.com> | 
+ | [file-roller](/f43/package/file-roller) | 702 | 971 | 72.3 | Turkmen <kakilikgroup@yahoo.com> | 
+ | [nautilus](/f43/package/nautilus) | 5001 | 6976 | 71.7 | Turkmen <kakilikgroup@yahoo.com> | 
+ | [gnome-mime-data](/f43/package/gnome-mime-data) | 625 | 887 | 70.5 | Turkmen <kakilikgroup@yahoo.com> | 
+ | [python-django5](/f43/package/python-django5) | 2257 | 3220 | 70.1 | Turkmen (http://app.transifex.com/django/django/language/tk/) | 
+ | [gnome-icon-theme](/f43/package/gnome-icon-theme) | 36 | 52 | 69.2 | Turkmen <kakilikgroup@yahoo.com> | 
+ | [iso-codes](/f43/package/iso-codes) | 709 | 1093 | 64.9 | Turkmen <https://hosted.weblate.org/projects/iso-codes/iso-3166-1/tk/> | 
+ | [epiphany](/f43/package/epiphany) | 1702 | 2782 | 61.2 | Turkmen <kakilikgroup@yahoo.com> | 
+ | [gedit](/f43/package/gedit) | 2502 | 4206 | 59.5 | Turkmen <kakilikgroup@yahoo.com> | 
+ | [dasher](/f43/package/dasher) | 141 | 423 | 33.3 | Turkmen <kakilikgroup@yahoo.com> | 
+ | [gnome-calculator](/f43/package/gnome-calculator) | 294 | 915 | 32.1 | Tuekmen <kakilikgroup@yahoo.com> | 
+ | [libgnomeui](/f43/package/libgnomeui) | 443 | 1419 | 31.2 | Turkmen <kakilikgroup@yahoo.com> | 
+ | [eog](/f43/package/eog) | 143 | 557 | 25.7 | Turkmne <kakilikgroup@yahoo.com> | 
+ | [caja](/f43/package/caja) | 2441 | 10156 | 24.0 | Turkmen (https://app.transifex.com/mate/teams/13566/tk/) | 
+ | [pluma](/f43/package/pluma) | 1076 | 5707 | 18.9 | Turkmen (https://app.transifex.com/mate/teams/13566/tk/) | 
+ | [xed](/f43/package/xed) | 658 | 3775 | 17.4 | Turkmen (http://www.transifex.com/projects/p/MATE/language/tk/) | 
+ | [budgie-session](/f43/package/budgie-session) | 44 | 516 | 8.5 | Turkmen <kakilikgroup@yahoo.com> | 
+ | [gnome-session](/f43/package/gnome-session) | 44 | 516 | 8.5 | Turkmen <kakilikgroup@yahoo.com> | 
+ | [sugar-toolkit-gtk3](/f43/package/sugar-toolkit-gtk3) | 17 | 213 | 8.0 | LANGUAGE <LL@li.org> | 
+ | [gdk-pixbuf2](/f43/package/gdk-pixbuf2) | 92 | 1348 | 6.8 | Turkmen <kakilikgroup@yahoo.com> | 
+ | [gdk-pixbuf2-modules-extra](/f43/package/gdk-pixbuf2-modules-extra) | 92 | 1348 | 6.8 | Turkmen <kakilikgroup@yahoo.com> | 
+ | [mingw-gdk-pixbuf](/f43/package/mingw-gdk-pixbuf) | 92 | 1348 | 6.8 | Turkmen <kakilikgroup@yahoo.com> | 
+ | [engrampa](/f43/package/engrampa) | 531 | 7899 | 6.7 | Turkmen (https://www.transifex.com/mate/teams/13566/tk/) | 
+ | [mate-menu](/f43/package/mate-menu) | 15 | 308 | 4.9 | Turkmen (http://www.transifex.com/mate/MATE/language/tk/) | 
+ | [eom](/f43/package/eom) | 86 | 1779 | 4.8 | Turkmen (https://app.transifex.com/mate/teams/13566/tk/) | 
+ | [mate-session-manager](/f43/package/mate-session-manager) | 32 | 717 | 4.5 | Turkmen (https://app.transifex.com/mate/teams/13566/tk/) | 
+ | [mate-media](/f43/package/mate-media) | 8 | 244 | 3.3 | Turkmen (https://app.transifex.com/mate/teams/13566/tk/) | 
+ | [mingw-gtk4](/f43/package/mingw-gtk4) | 73 | 2432 | 3.0 | Turkmen <kakilikgroup@yahoo.com> | 
+ | [mate-menus](/f43/package/mate-menus) | 3 | 103 | 2.9 | Turkmen (https://app.transifex.com/mate/teams/13566/tk/) | 
+ | [isomaster](/f43/package/isomaster) | 19 | 674 | 2.8 | http://littlesvr.ca/ostd/ | 
+ | [atril](/f43/package/atril) | 65 | 2325 | 2.8 | Turkmen (https://app.transifex.com/mate/teams/13566/tk/) | 
+ | [mate-desktop](/f43/package/mate-desktop) | 57 | 2412 | 2.4 | Turkmen (https://app.transifex.com/mate/teams/13566/tk/) | 
+ | [mate-system-monitor](/f43/package/mate-system-monitor) | 33 | 1559 | 2.1 | Turkmen (https://app.transifex.com/mate/teams/13566/tk/) | 
+ | [mate-terminal](/f43/package/mate-terminal) | 97 | 4724 | 2.1 | Turkmen (https://app.transifex.com/mate/teams/13566/tk/) | 
+ | [gedit-plugins](/f43/package/gedit-plugins) | 20 | 1205 | 1.7 | Turkmen <kakilikgroup@yahoo.com> | 
+ | [mate-utils](/f43/package/mate-utils) | 113 | 6880 | 1.6 | Turkmen (https://app.transifex.com/mate/teams/13566/tk/) | 
+ | [gtk2](/f43/package/gtk2) | 215 | 13704 | 1.6 | Turkmen <kakilikgroup@yahoo.com> | 
+ | [mingw-gtk2](/f43/package/mingw-gtk2) | 215 | 13704 | 1.6 | Turkmen <kakilikgroup@yahoo.com> | 
+ | [asunder](/f43/package/asunder) | 6 | 493 | 1.2 | http://littlesvr.ca/ostd/ | 
+ | [caja-extensions](/f43/package/caja-extensions) | 10 | 845 | 1.2 | Turkmen (https://app.transifex.com/mate/teams/13566/tk/) | 
+ | [marco](/f43/package/marco) | 49 | 4171 | 1.2 | Turkmen (https://app.transifex.com/mate/teams/13566/tk/) | 
+ | [mate-calc](/f43/package/mate-calc) | 33 | 3327 | 1.0 | Turkmen (https://app.transifex.com/mate/teams/13566/tk/) | 
+ | [mate-panel](/f43/package/mate-panel) | 51 | 5590 | 0.9 | Turkmen (https://app.transifex.com/mate/teams/13566/tk/) | 
+ | [mate-control-center](/f43/package/mate-control-center) | 70 | 8260 | 0.8 | Turkmen (https://app.transifex.com/mate/teams/13566/tk/) | 
+ | [magpie](/f43/package/magpie) | 49 | 6919 | 0.7 | Turkmen <kakilikgroup@yahoo.com> | 
+ | [metacity](/f43/package/metacity) | 49 | 6919 | 0.7 | Turkmen <kakilikgroup@yahoo.com> | 
+ | [muffin](/f43/package/muffin) | 49 | 6919 | 0.7 | Turkmen <kakilikgroup@yahoo.com> | 
+ | [mutter](/f43/package/mutter) | 49 | 6919 | 0.7 | Turkmen <kakilikgroup@yahoo.com> | 
+ | [gtk3](/f43/package/gtk3) | 79 | 11853 | 0.7 | Turkmen <kakilikgroup@yahoo.com> | 
+ | [mingw-gtk3](/f43/package/mingw-gtk3) | 79 | 11853 | 0.7 | Turkmen <kakilikgroup@yahoo.com> | 
+ | [mate-user-admin](/f43/package/mate-user-admin) | 4 | 605 | 0.7 | Turkmen (https://www.transifex.com/mate/teams/13566/tk/) | 
+ | [mate-applets](/f43/package/mate-applets) | 42 | 11655 | 0.4 | Turkmen (https://www.transifex.com/mate/teams/13566/tk/) | 
+ | [mate-sensors-applet](/f43/package/mate-sensors-applet) | 8 | 2222 | 0.4 | Turkmen (https://www.transifex.com/mate/teams/13566/tk/) | 
+ | [mate-power-manager](/f43/package/mate-power-manager) | 14 | 5120 | 0.3 | Turkmen (https://www.transifex.com/mate/teams/13566/tk/) | 
+ | [caja-actions](/f43/package/caja-actions) | 50 | 18812 | 0.3 | Turkmen (https://app.transifex.com/mate/teams/13566/tk/) | 
+ | [cinnamon-translations](/f43/package/cinnamon-translations) | 1 | 7720 | 0.0 | Turkmen <tk@li.org> | 
+ | [bookworm](/f43/package/bookworm) | 0 | 795 | 0.0 |  | 
+ | [cinnamon-desktop](/f43/package/cinnamon-desktop) | 0 | 231 | 0.0 | Turkmen <kakilikgroup@yahoo.com> | 
+ | [dippi](/f43/package/dippi) | 0 | 1653 | 0.0 | none | 
+ | [elementary-code](/f43/package/elementary-code) | 0 | 2228 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [elementary-files](/f43/package/elementary-files) | 0 | 2656 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [elementary-icon-theme](/f43/package/elementary-icon-theme) | 0 | 349 | 0.0 | none | 
+ | [elementary-mail](/f43/package/elementary-mail) | 0 | 861 | 0.0 |  | 
+ | [elementary-music](/f43/package/elementary-music) | 0 | 231 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [elementary-notifications](/f43/package/elementary-notifications) | 0 | 42 | 0.0 | none | 
+ | [elementary-photos](/f43/package/elementary-photos) | 0 | 2862 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [elementary-screenshot](/f43/package/elementary-screenshot) | 0 | 128 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [elementary-settings-daemon](/f43/package/elementary-settings-daemon) | 0 | 303 | 0.0 | none | 
+ | [gala](/f43/package/gala) | 0 | 319 | 0.0 | none | 
+ | [granite](/f43/package/granite) | 0 | 498 | 0.0 |  | 
+ | [granite-7](/f43/package/granite-7) | 0 | 596 | 0.0 |  | 
+ | [mate-themes](/f43/package/mate-themes) | 0 | 74 | 0.0 | Turkmen (http://app.transifex.com/mate/MATE/language/tk/) | 
+ | [pluma-plugins](/f43/package/pluma-plugins) | 0 | 631 | 0.0 | Turkmen <kakilikgroup@yahoo.com> | 
+ | [regextester](/f43/package/regextester) | 0 | 104 | 0.0 | none | 
+ | [wingpanel](/f43/package/wingpanel) | 0 | 57 | 0.0 | none | 
+ | [wingpanel-indicator-a11y](/f43/package/wingpanel-indicator-a11y) | 0 | 55 | 0.0 | none | 
+ | [wingpanel-indicator-bluetooth](/f43/package/wingpanel-indicator-bluetooth) | 0 | 80 | 0.0 | none | 
+ | [wingpanel-indicator-datetime](/f43/package/wingpanel-indicator-datetime) | 0 | 103 | 0.0 |  | 
+ | [wingpanel-indicator-keyboard](/f43/package/wingpanel-indicator-keyboard) | 0 | 56 | 0.0 |  | 
 {.sortable}
 
 

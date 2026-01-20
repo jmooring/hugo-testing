@@ -18,29 +18,29 @@ The package gnome-pomodoro (version 0.28.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f43/language/ca.md" >}}) | 358 | 358 | 100.0 | /mnt/stockage/packages/f43/gnome-pomodoro/po/ca.po | 
- | [cs]({{< ref "/f43/language/cs.md" >}}) | 358 | 358 | 100.0 | /mnt/stockage/packages/f43/gnome-pomodoro/po/cs.po | 
- | [de]({{< ref "/f43/language/de.md" >}}) | 358 | 358 | 100.0 | /mnt/stockage/packages/f43/gnome-pomodoro/po/de.po | 
- | [eo]({{< ref "/f43/language/eo.md" >}}) | 358 | 358 | 100.0 | /mnt/stockage/packages/f43/gnome-pomodoro/po/eo.po | 
- | [fi]({{< ref "/f43/language/fi.md" >}}) | 358 | 358 | 100.0 | /mnt/stockage/packages/f43/gnome-pomodoro/po/fi.po | 
- | [fr]({{< ref "/f43/language/fr.md" >}}) | 358 | 358 | 100.0 | /mnt/stockage/packages/f43/gnome-pomodoro/po/fr.po | 
- | [hr]({{< ref "/f43/language/hr.md" >}}) | 358 | 358 | 100.0 | /mnt/stockage/packages/f43/gnome-pomodoro/po/hr.po | 
- | [id]({{< ref "/f43/language/id.md" >}}) | 358 | 358 | 100.0 | /mnt/stockage/packages/f43/gnome-pomodoro/po/id.po | 
- | [it]({{< ref "/f43/language/it.md" >}}) | 358 | 358 | 100.0 | /mnt/stockage/packages/f43/gnome-pomodoro/po/it.po | 
- | [ka]({{< ref "/f43/language/ka.md" >}}) | 358 | 358 | 100.0 | /mnt/stockage/packages/f43/gnome-pomodoro/po/ka.po | 
- | [kk]({{< ref "/f43/language/kk.md" >}}) | 358 | 358 | 100.0 | /mnt/stockage/packages/f43/gnome-pomodoro/po/kk.po | 
- | [ko]({{< ref "/f43/language/ko.md" >}}) | 358 | 358 | 100.0 | /mnt/stockage/packages/f43/gnome-pomodoro/po/ko.po | 
- | [lt]({{< ref "/f43/language/lt.md" >}}) | 358 | 358 | 100.0 | /mnt/stockage/packages/f43/gnome-pomodoro/po/lt.po | 
- | [nb_NO]({{< ref "/f43/language/nb_NO.md" >}}) | 358 | 358 | 100.0 | /mnt/stockage/packages/f43/gnome-pomodoro/po/nb.po | 
- | [nl]({{< ref "/f43/language/nl.md" >}}) | 358 | 358 | 100.0 | /mnt/stockage/packages/f43/gnome-pomodoro/po/nl.po | 
- | [pl]({{< ref "/f43/language/pl.md" >}}) | 358 | 358 | 100.0 | /mnt/stockage/packages/f43/gnome-pomodoro/po/pl.po | 
- | [pt_BR]({{< ref "/f43/language/pt_BR.md" >}}) | 358 | 358 | 100.0 | /mnt/stockage/packages/f43/gnome-pomodoro/po/pt_BR.po | 
- | [ru]({{< ref "/f43/language/ru.md" >}}) | 358 | 358 | 100.0 | /mnt/stockage/packages/f43/gnome-pomodoro/po/ru.po | 
- | [sv]({{< ref "/f43/language/sv.md" >}}) | 358 | 358 | 100.0 | /mnt/stockage/packages/f43/gnome-pomodoro/po/sv.po | 
- | [te]({{< ref "/f43/language/te.md" >}}) | 358 | 358 | 100.0 | /mnt/stockage/packages/f43/gnome-pomodoro/po/te.po | 
- | [zh_Hans]({{< ref "/f43/language/zh_Hans.md" >}}) | 358 | 358 | 100.0 | /mnt/stockage/packages/f43/gnome-pomodoro/po/zh_CN.po | 
- | [el]({{< ref "/f43/language/el.md" >}}) | 352 | 358 | 98.3 | /mnt/stockage/packages/f43/gnome-pomodoro/po/el.po | 
- | [es]({{< ref "/f43/language/es.md" >}}) | 351 | 358 | 98.0 | /mnt/stockage/packages/f43/gnome-pomodoro/po/es.po | 
+ | [ca](/f43/language/ca) | 358 | 358 | 100.0 | /mnt/stockage/packages/f43/gnome-pomodoro/po/ca.po | 
+ | [cs](/f43/language/cs) | 358 | 358 | 100.0 | /mnt/stockage/packages/f43/gnome-pomodoro/po/cs.po | 
+ | [de](/f43/language/de) | 358 | 358 | 100.0 | /mnt/stockage/packages/f43/gnome-pomodoro/po/de.po | 
+ | [eo](/f43/language/eo) | 358 | 358 | 100.0 | /mnt/stockage/packages/f43/gnome-pomodoro/po/eo.po | 
+ | [fi](/f43/language/fi) | 358 | 358 | 100.0 | /mnt/stockage/packages/f43/gnome-pomodoro/po/fi.po | 
+ | [fr](/f43/language/fr) | 358 | 358 | 100.0 | /mnt/stockage/packages/f43/gnome-pomodoro/po/fr.po | 
+ | [hr](/f43/language/hr) | 358 | 358 | 100.0 | /mnt/stockage/packages/f43/gnome-pomodoro/po/hr.po | 
+ | [id](/f43/language/id) | 358 | 358 | 100.0 | /mnt/stockage/packages/f43/gnome-pomodoro/po/id.po | 
+ | [it](/f43/language/it) | 358 | 358 | 100.0 | /mnt/stockage/packages/f43/gnome-pomodoro/po/it.po | 
+ | [ka](/f43/language/ka) | 358 | 358 | 100.0 | /mnt/stockage/packages/f43/gnome-pomodoro/po/ka.po | 
+ | [kk](/f43/language/kk) | 358 | 358 | 100.0 | /mnt/stockage/packages/f43/gnome-pomodoro/po/kk.po | 
+ | [ko](/f43/language/ko) | 358 | 358 | 100.0 | /mnt/stockage/packages/f43/gnome-pomodoro/po/ko.po | 
+ | [lt](/f43/language/lt) | 358 | 358 | 100.0 | /mnt/stockage/packages/f43/gnome-pomodoro/po/lt.po | 
+ | [nb_NO](/f43/language/nb_NO) | 358 | 358 | 100.0 | /mnt/stockage/packages/f43/gnome-pomodoro/po/nb.po | 
+ | [nl](/f43/language/nl) | 358 | 358 | 100.0 | /mnt/stockage/packages/f43/gnome-pomodoro/po/nl.po | 
+ | [pl](/f43/language/pl) | 358 | 358 | 100.0 | /mnt/stockage/packages/f43/gnome-pomodoro/po/pl.po | 
+ | [pt_BR](/f43/language/pt_BR) | 358 | 358 | 100.0 | /mnt/stockage/packages/f43/gnome-pomodoro/po/pt_BR.po | 
+ | [ru](/f43/language/ru) | 358 | 358 | 100.0 | /mnt/stockage/packages/f43/gnome-pomodoro/po/ru.po | 
+ | [sv](/f43/language/sv) | 358 | 358 | 100.0 | /mnt/stockage/packages/f43/gnome-pomodoro/po/sv.po | 
+ | [te](/f43/language/te) | 358 | 358 | 100.0 | /mnt/stockage/packages/f43/gnome-pomodoro/po/te.po | 
+ | [zh_Hans](/f43/language/zh_Hans) | 358 | 358 | 100.0 | /mnt/stockage/packages/f43/gnome-pomodoro/po/zh_CN.po | 
+ | [el](/f43/language/el) | 352 | 358 | 98.3 | /mnt/stockage/packages/f43/gnome-pomodoro/po/el.po | 
+ | [es](/f43/language/es) | 351 | 358 | 98.0 | /mnt/stockage/packages/f43/gnome-pomodoro/po/es.po | 
 {.sortable}
 
 

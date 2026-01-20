@@ -18,16 +18,16 @@ The package gimp-save-for-web (version 0.29.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f30/language/ca.md" >}}) | 82 | 82 | 100.0 | /mnt/stockage/packages/f30/gimp-save-for-web/po/ca.po | 
- | [es]({{< ref "/f30/language/es.md" >}}) | 82 | 82 | 100.0 | /mnt/stockage/packages/f30/gimp-save-for-web/po/es.po | 
- | [it]({{< ref "/f30/language/it.md" >}}) | 82 | 82 | 100.0 | /mnt/stockage/packages/f30/gimp-save-for-web/po/it.po | 
- | [ko]({{< ref "/f30/language/ko.md" >}}) | 82 | 82 | 100.0 | /mnt/stockage/packages/f30/gimp-save-for-web/po/ko.po | 
- | [pt_BR]({{< ref "/f30/language/pt_BR.md" >}}) | 82 | 82 | 100.0 | /mnt/stockage/packages/f30/gimp-save-for-web/po/pt_BR.po | 
- | [ru]({{< ref "/f30/language/ru.md" >}}) | 93 | 93 | 100.0 | /mnt/stockage/packages/f30/gimp-save-for-web/po/ru.po | 
- | [sv]({{< ref "/f30/language/sv.md" >}}) | 98 | 98 | 100.0 | /mnt/stockage/packages/f30/gimp-save-for-web/po/sv.po | 
- | [ja]({{< ref "/f30/language/ja.md" >}}) | 89 | 98 | 90.8 | /mnt/stockage/packages/f30/gimp-save-for-web/po/ja.po | 
- | [fr]({{< ref "/f30/language/fr.md" >}}) | 72 | 82 | 87.8 | /mnt/stockage/packages/f30/gimp-save-for-web/po/fr.po | 
- | [sk]({{< ref "/f30/language/sk.md" >}}) | 2 | 82 | 2.4 | /mnt/stockage/packages/f30/gimp-save-for-web/po/sk.po | 
+ | [ca](/f30/language/ca) | 82 | 82 | 100.0 | /mnt/stockage/packages/f30/gimp-save-for-web/po/ca.po | 
+ | [es](/f30/language/es) | 82 | 82 | 100.0 | /mnt/stockage/packages/f30/gimp-save-for-web/po/es.po | 
+ | [it](/f30/language/it) | 82 | 82 | 100.0 | /mnt/stockage/packages/f30/gimp-save-for-web/po/it.po | 
+ | [ko](/f30/language/ko) | 82 | 82 | 100.0 | /mnt/stockage/packages/f30/gimp-save-for-web/po/ko.po | 
+ | [pt_BR](/f30/language/pt_BR) | 82 | 82 | 100.0 | /mnt/stockage/packages/f30/gimp-save-for-web/po/pt_BR.po | 
+ | [ru](/f30/language/ru) | 93 | 93 | 100.0 | /mnt/stockage/packages/f30/gimp-save-for-web/po/ru.po | 
+ | [sv](/f30/language/sv) | 98 | 98 | 100.0 | /mnt/stockage/packages/f30/gimp-save-for-web/po/sv.po | 
+ | [ja](/f30/language/ja) | 89 | 98 | 90.8 | /mnt/stockage/packages/f30/gimp-save-for-web/po/ja.po | 
+ | [fr](/f30/language/fr) | 72 | 82 | 87.8 | /mnt/stockage/packages/f30/gimp-save-for-web/po/fr.po | 
+ | [sk](/f30/language/sk) | 2 | 82 | 2.4 | /mnt/stockage/packages/f30/gimp-save-for-web/po/sk.po | 
 {.sortable}
 
 

@@ -18,12 +18,12 @@ The package kleansweep (version 0.2.9):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f9/language/de.md" >}}) | 548 | 548 | 100.0 | /mnt/stockage/packages/f9/kleansweep/po/de.po | 
- | [es]({{< ref "/f9/language/es.md" >}}) | 548 | 548 | 100.0 | /mnt/stockage/packages/f9/kleansweep/po/es.po | 
- | [it]({{< ref "/f9/language/it.md" >}}) | 552 | 552 | 100.0 | /mnt/stockage/packages/f9/kleansweep/po/it.po | 
- | [pt_BR]({{< ref "/f9/language/pt_BR.md" >}}) | 552 | 552 | 100.0 | /mnt/stockage/packages/f9/kleansweep/po/pt_BR.po | 
- | [ru]({{< ref "/f9/language/ru.md" >}}) | 548 | 548 | 100.0 | /mnt/stockage/packages/f9/kleansweep/po/ru.po | 
- | [uk]({{< ref "/f9/language/uk.md" >}}) | 548 | 548 | 100.0 | /mnt/stockage/packages/f9/kleansweep/po/uk.po | 
+ | [de](/f9/language/de) | 548 | 548 | 100.0 | /mnt/stockage/packages/f9/kleansweep/po/de.po | 
+ | [es](/f9/language/es) | 548 | 548 | 100.0 | /mnt/stockage/packages/f9/kleansweep/po/es.po | 
+ | [it](/f9/language/it) | 552 | 552 | 100.0 | /mnt/stockage/packages/f9/kleansweep/po/it.po | 
+ | [pt_BR](/f9/language/pt_BR) | 552 | 552 | 100.0 | /mnt/stockage/packages/f9/kleansweep/po/pt_BR.po | 
+ | [ru](/f9/language/ru) | 548 | 548 | 100.0 | /mnt/stockage/packages/f9/kleansweep/po/ru.po | 
+ | [uk](/f9/language/uk) | 548 | 548 | 100.0 | /mnt/stockage/packages/f9/kleansweep/po/uk.po | 
 {.sortable}
 
 

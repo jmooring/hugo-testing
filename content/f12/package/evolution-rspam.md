@@ -18,8 +18,8 @@ The package evolution-rspam (version 0.0.10):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ro]({{< ref "/f12/language/ro.md" >}}) | 147 | 194 | 75.8 | /mnt/stockage/packages/f12/evolution-rspam/po/ro_RO.po | 
- | [en_AU]({{< ref "/f12/language/en_AU.md" >}}) | 0 | 194 | 0.0 | /mnt/stockage/packages/f12/evolution-rspam/po/en_AU.po | 
+ | [ro](/f12/language/ro) | 147 | 194 | 75.8 | /mnt/stockage/packages/f12/evolution-rspam/po/ro_RO.po | 
+ | [en_AU](/f12/language/en_AU) | 0 | 194 | 0.0 | /mnt/stockage/packages/f12/evolution-rspam/po/en_AU.po | 
 {.sortable}
 
 

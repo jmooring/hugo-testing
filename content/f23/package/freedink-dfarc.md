@@ -18,23 +18,23 @@ The package freedink-dfarc (version 3.12):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f23/language/ca.md" >}}) | 778 | 778 | 100.0 | /mnt/stockage/packages/f23/freedink-dfarc/po/ca.po | 
- | [da]({{< ref "/f23/language/da.md" >}}) | 773 | 773 | 100.0 | /mnt/stockage/packages/f23/freedink-dfarc/po/da.po | 
- | [de]({{< ref "/f23/language/de.md" >}}) | 773 | 773 | 100.0 | /mnt/stockage/packages/f23/freedink-dfarc/po/de.po | 
- | [eo]({{< ref "/f23/language/eo.md" >}}) | 773 | 773 | 100.0 | /mnt/stockage/packages/f23/freedink-dfarc/po/eo.po | 
- | [es]({{< ref "/f23/language/es.md" >}}) | 778 | 778 | 100.0 | /mnt/stockage/packages/f23/freedink-dfarc/po/es.po | 
- | [fi]({{< ref "/f23/language/fi.md" >}}) | 778 | 778 | 100.0 | /mnt/stockage/packages/f23/freedink-dfarc/po/fi.po | 
- | [fr]({{< ref "/f23/language/fr.md" >}}) | 773 | 773 | 100.0 | /mnt/stockage/packages/f23/freedink-dfarc/po/fr.po | 
- | [hr]({{< ref "/f23/language/hr.md" >}}) | 778 | 778 | 100.0 | /mnt/stockage/packages/f23/freedink-dfarc/po/hr.po | 
- | [hu]({{< ref "/f23/language/hu.md" >}}) | 773 | 773 | 100.0 | /mnt/stockage/packages/f23/freedink-dfarc/po/hu.po | 
- | [it]({{< ref "/f23/language/it.md" >}}) | 778 | 778 | 100.0 | /mnt/stockage/packages/f23/freedink-dfarc/po/it.po | 
- | [nl]({{< ref "/f23/language/nl.md" >}}) | 773 | 773 | 100.0 | /mnt/stockage/packages/f23/freedink-dfarc/po/nl.po | 
- | [pl]({{< ref "/f23/language/pl.md" >}}) | 773 | 773 | 100.0 | /mnt/stockage/packages/f23/freedink-dfarc/po/pl.po | 
- | [pt_BR]({{< ref "/f23/language/pt_BR.md" >}}) | 778 | 778 | 100.0 | /mnt/stockage/packages/f23/freedink-dfarc/po/pt_BR.po | 
- | [sr]({{< ref "/f23/language/sr.md" >}}) | 773 | 773 | 100.0 | /mnt/stockage/packages/f23/freedink-dfarc/po/sr.po | 
- | [tr]({{< ref "/f23/language/tr.md" >}}) | 778 | 778 | 100.0 | /mnt/stockage/packages/f23/freedink-dfarc/po/tr.po | 
- | [vi]({{< ref "/f23/language/vi.md" >}}) | 773 | 773 | 100.0 | /mnt/stockage/packages/f23/freedink-dfarc/po/vi.po | 
- | [mk]({{< ref "/f23/language/mk.md" >}}) | 656 | 738 | 88.9 | /mnt/stockage/packages/f23/freedink-dfarc/po/mk.po | 
+ | [ca](/f23/language/ca) | 778 | 778 | 100.0 | /mnt/stockage/packages/f23/freedink-dfarc/po/ca.po | 
+ | [da](/f23/language/da) | 773 | 773 | 100.0 | /mnt/stockage/packages/f23/freedink-dfarc/po/da.po | 
+ | [de](/f23/language/de) | 773 | 773 | 100.0 | /mnt/stockage/packages/f23/freedink-dfarc/po/de.po | 
+ | [eo](/f23/language/eo) | 773 | 773 | 100.0 | /mnt/stockage/packages/f23/freedink-dfarc/po/eo.po | 
+ | [es](/f23/language/es) | 778 | 778 | 100.0 | /mnt/stockage/packages/f23/freedink-dfarc/po/es.po | 
+ | [fi](/f23/language/fi) | 778 | 778 | 100.0 | /mnt/stockage/packages/f23/freedink-dfarc/po/fi.po | 
+ | [fr](/f23/language/fr) | 773 | 773 | 100.0 | /mnt/stockage/packages/f23/freedink-dfarc/po/fr.po | 
+ | [hr](/f23/language/hr) | 778 | 778 | 100.0 | /mnt/stockage/packages/f23/freedink-dfarc/po/hr.po | 
+ | [hu](/f23/language/hu) | 773 | 773 | 100.0 | /mnt/stockage/packages/f23/freedink-dfarc/po/hu.po | 
+ | [it](/f23/language/it) | 778 | 778 | 100.0 | /mnt/stockage/packages/f23/freedink-dfarc/po/it.po | 
+ | [nl](/f23/language/nl) | 773 | 773 | 100.0 | /mnt/stockage/packages/f23/freedink-dfarc/po/nl.po | 
+ | [pl](/f23/language/pl) | 773 | 773 | 100.0 | /mnt/stockage/packages/f23/freedink-dfarc/po/pl.po | 
+ | [pt_BR](/f23/language/pt_BR) | 778 | 778 | 100.0 | /mnt/stockage/packages/f23/freedink-dfarc/po/pt_BR.po | 
+ | [sr](/f23/language/sr) | 773 | 773 | 100.0 | /mnt/stockage/packages/f23/freedink-dfarc/po/sr.po | 
+ | [tr](/f23/language/tr) | 778 | 778 | 100.0 | /mnt/stockage/packages/f23/freedink-dfarc/po/tr.po | 
+ | [vi](/f23/language/vi) | 773 | 773 | 100.0 | /mnt/stockage/packages/f23/freedink-dfarc/po/vi.po | 
+ | [mk](/f23/language/mk) | 656 | 738 | 88.9 | /mnt/stockage/packages/f23/freedink-dfarc/po/mk.po | 
 {.sortable}
 
 

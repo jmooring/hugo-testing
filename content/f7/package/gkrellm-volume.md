@@ -18,12 +18,12 @@ The package gkrellm-volume (version 2.1.13):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f7/language/de.md" >}}) | 248 | 248 | 100.0 | /mnt/stockage/packages/f7/gkrellm-volume/po/de.po | 
- | [es]({{< ref "/f7/language/es.md" >}}) | 248 | 248 | 100.0 | /mnt/stockage/packages/f7/gkrellm-volume/po/es.po | 
- | [fr]({{< ref "/f7/language/fr.md" >}}) | 248 | 248 | 100.0 | /mnt/stockage/packages/f7/gkrellm-volume/po/fr.po | 
- | [pl]({{< ref "/f7/language/pl.md" >}}) | 248 | 248 | 100.0 | /mnt/stockage/packages/f7/gkrellm-volume/po/pl.po | 
- | [ru]({{< ref "/f7/language/ru.md" >}}) | 244 | 248 | 98.4 | /mnt/stockage/packages/f7/gkrellm-volume/po/ru.po | 
- | [nl]({{< ref "/f7/language/nl.md" >}}) | 224 | 248 | 90.3 | /mnt/stockage/packages/f7/gkrellm-volume/po/nl.po | 
+ | [de](/f7/language/de) | 248 | 248 | 100.0 | /mnt/stockage/packages/f7/gkrellm-volume/po/de.po | 
+ | [es](/f7/language/es) | 248 | 248 | 100.0 | /mnt/stockage/packages/f7/gkrellm-volume/po/es.po | 
+ | [fr](/f7/language/fr) | 248 | 248 | 100.0 | /mnt/stockage/packages/f7/gkrellm-volume/po/fr.po | 
+ | [pl](/f7/language/pl) | 248 | 248 | 100.0 | /mnt/stockage/packages/f7/gkrellm-volume/po/pl.po | 
+ | [ru](/f7/language/ru) | 244 | 248 | 98.4 | /mnt/stockage/packages/f7/gkrellm-volume/po/ru.po | 
+ | [nl](/f7/language/nl) | 224 | 248 | 90.3 | /mnt/stockage/packages/f7/gkrellm-volume/po/nl.po | 
 {.sortable}
 
 

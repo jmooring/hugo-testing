@@ -18,7 +18,7 @@ The package unixODBC (version 2.2.12):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [sk]({{< ref "/f7/language/sk.md" >}}) | 778 | 778 | 100.0 | /mnt/stockage/packages/f7/unixODBC/gODBCConfig/po/gODBCConfig.sk.po | 
+ | [sk](/f7/language/sk) | 778 | 778 | 100.0 | /mnt/stockage/packages/f7/unixODBC/gODBCConfig/po/gODBCConfig.sk.po | 
 {.sortable}
 
 

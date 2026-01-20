@@ -18,9 +18,9 @@ The package nightfall (version 1.92):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f32/language/de.md" >}}) | 3649 | 3649 | 100.0 | /mnt/stockage/packages/f32/nightfall/po/de.po | 
- | [it]({{< ref "/f32/language/it.md" >}}) | 3451 | 3451 | 100.0 | /mnt/stockage/packages/f32/nightfall/po/it.po | 
- | [error]({{< ref "/f32/language/error.md" >}}) | 6218 | 6248 | 99.5 | /mnt/stockage/packages/f32/nightfall/po/de_1.42.po/mnt/stockage/packages/f32/nightfall/po/de1.po | 
+ | [de](/f32/language/de) | 3649 | 3649 | 100.0 | /mnt/stockage/packages/f32/nightfall/po/de.po | 
+ | [it](/f32/language/it) | 3451 | 3451 | 100.0 | /mnt/stockage/packages/f32/nightfall/po/it.po | 
+ | [error](/f32/language/error) | 6218 | 6248 | 99.5 | /mnt/stockage/packages/f32/nightfall/po/de_1.42.po/mnt/stockage/packages/f32/nightfall/po/de1.po | 
 {.sortable}
 
 

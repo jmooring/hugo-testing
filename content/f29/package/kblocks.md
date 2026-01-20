@@ -18,54 +18,54 @@ The package kblocks (version 19.04.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f29/language/ca.md" >}}) | 159 | 159 | 100.0 | /mnt/stockage/packages/f29/kblocks/po/ca/kblocks.po | 
- | [ca@valencia]({{< ref "/f29/language/ca@valencia.md" >}}) | 159 | 159 | 100.0 | /mnt/stockage/packages/f29/kblocks/po/ca@valencia/kblocks.po | 
- | [da]({{< ref "/f29/language/da.md" >}}) | 159 | 159 | 100.0 | /mnt/stockage/packages/f29/kblocks/po/da/kblocks.po | 
- | [de]({{< ref "/f29/language/de.md" >}}) | 159 | 159 | 100.0 | /mnt/stockage/packages/f29/kblocks/po/de/kblocks.po | 
- | [en_GB]({{< ref "/f29/language/en_GB.md" >}}) | 159 | 159 | 100.0 | /mnt/stockage/packages/f29/kblocks/po/en_GB/kblocks.po | 
- | [es]({{< ref "/f29/language/es.md" >}}) | 159 | 159 | 100.0 | /mnt/stockage/packages/f29/kblocks/po/es/kblocks.po | 
- | [fi]({{< ref "/f29/language/fi.md" >}}) | 159 | 159 | 100.0 | /mnt/stockage/packages/f29/kblocks/po/fi/kblocks.po | 
- | [fr]({{< ref "/f29/language/fr.md" >}}) | 159 | 159 | 100.0 | /mnt/stockage/packages/f29/kblocks/po/fr/kblocks.po | 
- | [gl]({{< ref "/f29/language/gl.md" >}}) | 159 | 159 | 100.0 | /mnt/stockage/packages/f29/kblocks/po/gl/kblocks.po | 
- | [it]({{< ref "/f29/language/it.md" >}}) | 159 | 159 | 100.0 | /mnt/stockage/packages/f29/kblocks/po/it/kblocks.po | 
- | [ko]({{< ref "/f29/language/ko.md" >}}) | 159 | 159 | 100.0 | /mnt/stockage/packages/f29/kblocks/po/ko/kblocks.po | 
- | [nl]({{< ref "/f29/language/nl.md" >}}) | 159 | 159 | 100.0 | /mnt/stockage/packages/f29/kblocks/po/nl/kblocks.po | 
- | [nn]({{< ref "/f29/language/nn.md" >}}) | 159 | 159 | 100.0 | /mnt/stockage/packages/f29/kblocks/po/nn/kblocks.po | 
- | [pl]({{< ref "/f29/language/pl.md" >}}) | 159 | 159 | 100.0 | /mnt/stockage/packages/f29/kblocks/po/pl/kblocks.po | 
- | [pt]({{< ref "/f29/language/pt.md" >}}) | 159 | 159 | 100.0 | /mnt/stockage/packages/f29/kblocks/po/pt/kblocks.po | 
- | [pt_BR]({{< ref "/f29/language/pt_BR.md" >}}) | 159 | 159 | 100.0 | /mnt/stockage/packages/f29/kblocks/po/pt_BR/kblocks.po | 
- | [sk]({{< ref "/f29/language/sk.md" >}}) | 159 | 159 | 100.0 | /mnt/stockage/packages/f29/kblocks/po/sk/kblocks.po | 
- | [sl]({{< ref "/f29/language/sl.md" >}}) | 159 | 159 | 100.0 | /mnt/stockage/packages/f29/kblocks/po/sl/kblocks.po | 
- | [sr]({{< ref "/f29/language/sr.md" >}}) | 159 | 159 | 100.0 | /mnt/stockage/packages/f29/kblocks/po/sr/kblocks.po | 
- | [sv]({{< ref "/f29/language/sv.md" >}}) | 159 | 159 | 100.0 | /mnt/stockage/packages/f29/kblocks/po/sv/kblocks.po | 
- | [tr]({{< ref "/f29/language/tr.md" >}}) | 159 | 159 | 100.0 | /mnt/stockage/packages/f29/kblocks/po/tr/kblocks.po | 
- | [uk]({{< ref "/f29/language/uk.md" >}}) | 159 | 159 | 100.0 | /mnt/stockage/packages/f29/kblocks/po/uk/kblocks.po | 
- | [zh_Hans]({{< ref "/f29/language/zh_Hans.md" >}}) | 159 | 159 | 100.0 | /mnt/stockage/packages/f29/kblocks/po/zh_CN/kblocks.po | 
- | [zh_Hant]({{< ref "/f29/language/zh_Hant.md" >}}) | 159 | 159 | 100.0 | /mnt/stockage/packages/f29/kblocks/po/zh_TW/kblocks.po | 
- | [et]({{< ref "/f29/language/et.md" >}}) | 153 | 159 | 96.2 | /mnt/stockage/packages/f29/kblocks/po/et/kblocks.po | 
- | [hu]({{< ref "/f29/language/hu.md" >}}) | 153 | 159 | 96.2 | /mnt/stockage/packages/f29/kblocks/po/hu/kblocks.po | 
- | [nb_NO]({{< ref "/f29/language/nb_NO.md" >}}) | 153 | 159 | 96.2 | /mnt/stockage/packages/f29/kblocks/po/nb/kblocks.po | 
- | [ru]({{< ref "/f29/language/ru.md" >}}) | 153 | 159 | 96.2 | /mnt/stockage/packages/f29/kblocks/po/ru/kblocks.po | 
- | [bg]({{< ref "/f29/language/bg.md" >}}) | 152 | 159 | 95.6 | /mnt/stockage/packages/f29/kblocks/po/bg/kblocks.po | 
- | [bs]({{< ref "/f29/language/bs.md" >}}) | 152 | 159 | 95.6 | /mnt/stockage/packages/f29/kblocks/po/bs/kblocks.po | 
- | [el]({{< ref "/f29/language/el.md" >}}) | 152 | 159 | 95.6 | /mnt/stockage/packages/f29/kblocks/po/el/kblocks.po | 
- | [eu]({{< ref "/f29/language/eu.md" >}}) | 152 | 159 | 95.6 | /mnt/stockage/packages/f29/kblocks/po/eu/kblocks.po | 
- | [ga]({{< ref "/f29/language/ga.md" >}}) | 152 | 159 | 95.6 | /mnt/stockage/packages/f29/kblocks/po/ga/kblocks.po | 
- | [kk]({{< ref "/f29/language/kk.md" >}}) | 152 | 159 | 95.6 | /mnt/stockage/packages/f29/kblocks/po/kk/kblocks.po | 
- | [km]({{< ref "/f29/language/km.md" >}}) | 152 | 159 | 95.6 | /mnt/stockage/packages/f29/kblocks/po/km/kblocks.po | 
- | [lv]({{< ref "/f29/language/lv.md" >}}) | 152 | 159 | 95.6 | /mnt/stockage/packages/f29/kblocks/po/lv/kblocks.po | 
- | [mr]({{< ref "/f29/language/mr.md" >}}) | 152 | 159 | 95.6 | /mnt/stockage/packages/f29/kblocks/po/mr/kblocks.po | 
- | [nds]({{< ref "/f29/language/nds.md" >}}) | 152 | 159 | 95.6 | /mnt/stockage/packages/f29/kblocks/po/nds/kblocks.po | 
- | [cs]({{< ref "/f29/language/cs.md" >}}) | 115 | 159 | 72.3 | /mnt/stockage/packages/f29/kblocks/po/cs/kblocks.po | 
- | [ja]({{< ref "/f29/language/ja.md" >}}) | 78 | 159 | 49.1 | /mnt/stockage/packages/f29/kblocks/po/ja/kblocks.po | 
- | [ar]({{< ref "/f29/language/ar.md" >}}) | 69 | 159 | 43.4 | /mnt/stockage/packages/f29/kblocks/po/ar/kblocks.po | 
- | [ro]({{< ref "/f29/language/ro.md" >}}) | 69 | 159 | 43.4 | /mnt/stockage/packages/f29/kblocks/po/ro/kblocks.po | 
- | [hi]({{< ref "/f29/language/hi.md" >}}) | 58 | 159 | 36.5 | /mnt/stockage/packages/f29/kblocks/po/hi/kblocks.po | 
- | [eo]({{< ref "/f29/language/eo.md" >}}) | 57 | 159 | 35.8 | /mnt/stockage/packages/f29/kblocks/po/eo/kblocks.po | 
- | [lt]({{< ref "/f29/language/lt.md" >}}) | 48 | 159 | 30.2 | /mnt/stockage/packages/f29/kblocks/po/lt/kblocks.po | 
- | [ug]({{< ref "/f29/language/ug.md" >}}) | 32 | 159 | 20.1 | /mnt/stockage/packages/f29/kblocks/po/ug/kblocks.po | 
- | [hr]({{< ref "/f29/language/hr.md" >}}) | 4 | 159 | 2.5 | /mnt/stockage/packages/f29/kblocks/po/hr/kblocks.po | 
- | [is]({{< ref "/f29/language/is.md" >}}) | 0 | 159 | 0.0 | /mnt/stockage/packages/f29/kblocks/po/is/kblocks.po | 
+ | [ca](/f29/language/ca) | 159 | 159 | 100.0 | /mnt/stockage/packages/f29/kblocks/po/ca/kblocks.po | 
+ | [ca@valencia](/f29/language/ca@valencia) | 159 | 159 | 100.0 | /mnt/stockage/packages/f29/kblocks/po/ca@valencia/kblocks.po | 
+ | [da](/f29/language/da) | 159 | 159 | 100.0 | /mnt/stockage/packages/f29/kblocks/po/da/kblocks.po | 
+ | [de](/f29/language/de) | 159 | 159 | 100.0 | /mnt/stockage/packages/f29/kblocks/po/de/kblocks.po | 
+ | [en_GB](/f29/language/en_GB) | 159 | 159 | 100.0 | /mnt/stockage/packages/f29/kblocks/po/en_GB/kblocks.po | 
+ | [es](/f29/language/es) | 159 | 159 | 100.0 | /mnt/stockage/packages/f29/kblocks/po/es/kblocks.po | 
+ | [fi](/f29/language/fi) | 159 | 159 | 100.0 | /mnt/stockage/packages/f29/kblocks/po/fi/kblocks.po | 
+ | [fr](/f29/language/fr) | 159 | 159 | 100.0 | /mnt/stockage/packages/f29/kblocks/po/fr/kblocks.po | 
+ | [gl](/f29/language/gl) | 159 | 159 | 100.0 | /mnt/stockage/packages/f29/kblocks/po/gl/kblocks.po | 
+ | [it](/f29/language/it) | 159 | 159 | 100.0 | /mnt/stockage/packages/f29/kblocks/po/it/kblocks.po | 
+ | [ko](/f29/language/ko) | 159 | 159 | 100.0 | /mnt/stockage/packages/f29/kblocks/po/ko/kblocks.po | 
+ | [nl](/f29/language/nl) | 159 | 159 | 100.0 | /mnt/stockage/packages/f29/kblocks/po/nl/kblocks.po | 
+ | [nn](/f29/language/nn) | 159 | 159 | 100.0 | /mnt/stockage/packages/f29/kblocks/po/nn/kblocks.po | 
+ | [pl](/f29/language/pl) | 159 | 159 | 100.0 | /mnt/stockage/packages/f29/kblocks/po/pl/kblocks.po | 
+ | [pt](/f29/language/pt) | 159 | 159 | 100.0 | /mnt/stockage/packages/f29/kblocks/po/pt/kblocks.po | 
+ | [pt_BR](/f29/language/pt_BR) | 159 | 159 | 100.0 | /mnt/stockage/packages/f29/kblocks/po/pt_BR/kblocks.po | 
+ | [sk](/f29/language/sk) | 159 | 159 | 100.0 | /mnt/stockage/packages/f29/kblocks/po/sk/kblocks.po | 
+ | [sl](/f29/language/sl) | 159 | 159 | 100.0 | /mnt/stockage/packages/f29/kblocks/po/sl/kblocks.po | 
+ | [sr](/f29/language/sr) | 159 | 159 | 100.0 | /mnt/stockage/packages/f29/kblocks/po/sr/kblocks.po | 
+ | [sv](/f29/language/sv) | 159 | 159 | 100.0 | /mnt/stockage/packages/f29/kblocks/po/sv/kblocks.po | 
+ | [tr](/f29/language/tr) | 159 | 159 | 100.0 | /mnt/stockage/packages/f29/kblocks/po/tr/kblocks.po | 
+ | [uk](/f29/language/uk) | 159 | 159 | 100.0 | /mnt/stockage/packages/f29/kblocks/po/uk/kblocks.po | 
+ | [zh_Hans](/f29/language/zh_Hans) | 159 | 159 | 100.0 | /mnt/stockage/packages/f29/kblocks/po/zh_CN/kblocks.po | 
+ | [zh_Hant](/f29/language/zh_Hant) | 159 | 159 | 100.0 | /mnt/stockage/packages/f29/kblocks/po/zh_TW/kblocks.po | 
+ | [et](/f29/language/et) | 153 | 159 | 96.2 | /mnt/stockage/packages/f29/kblocks/po/et/kblocks.po | 
+ | [hu](/f29/language/hu) | 153 | 159 | 96.2 | /mnt/stockage/packages/f29/kblocks/po/hu/kblocks.po | 
+ | [nb_NO](/f29/language/nb_NO) | 153 | 159 | 96.2 | /mnt/stockage/packages/f29/kblocks/po/nb/kblocks.po | 
+ | [ru](/f29/language/ru) | 153 | 159 | 96.2 | /mnt/stockage/packages/f29/kblocks/po/ru/kblocks.po | 
+ | [bg](/f29/language/bg) | 152 | 159 | 95.6 | /mnt/stockage/packages/f29/kblocks/po/bg/kblocks.po | 
+ | [bs](/f29/language/bs) | 152 | 159 | 95.6 | /mnt/stockage/packages/f29/kblocks/po/bs/kblocks.po | 
+ | [el](/f29/language/el) | 152 | 159 | 95.6 | /mnt/stockage/packages/f29/kblocks/po/el/kblocks.po | 
+ | [eu](/f29/language/eu) | 152 | 159 | 95.6 | /mnt/stockage/packages/f29/kblocks/po/eu/kblocks.po | 
+ | [ga](/f29/language/ga) | 152 | 159 | 95.6 | /mnt/stockage/packages/f29/kblocks/po/ga/kblocks.po | 
+ | [kk](/f29/language/kk) | 152 | 159 | 95.6 | /mnt/stockage/packages/f29/kblocks/po/kk/kblocks.po | 
+ | [km](/f29/language/km) | 152 | 159 | 95.6 | /mnt/stockage/packages/f29/kblocks/po/km/kblocks.po | 
+ | [lv](/f29/language/lv) | 152 | 159 | 95.6 | /mnt/stockage/packages/f29/kblocks/po/lv/kblocks.po | 
+ | [mr](/f29/language/mr) | 152 | 159 | 95.6 | /mnt/stockage/packages/f29/kblocks/po/mr/kblocks.po | 
+ | [nds](/f29/language/nds) | 152 | 159 | 95.6 | /mnt/stockage/packages/f29/kblocks/po/nds/kblocks.po | 
+ | [cs](/f29/language/cs) | 115 | 159 | 72.3 | /mnt/stockage/packages/f29/kblocks/po/cs/kblocks.po | 
+ | [ja](/f29/language/ja) | 78 | 159 | 49.1 | /mnt/stockage/packages/f29/kblocks/po/ja/kblocks.po | 
+ | [ar](/f29/language/ar) | 69 | 159 | 43.4 | /mnt/stockage/packages/f29/kblocks/po/ar/kblocks.po | 
+ | [ro](/f29/language/ro) | 69 | 159 | 43.4 | /mnt/stockage/packages/f29/kblocks/po/ro/kblocks.po | 
+ | [hi](/f29/language/hi) | 58 | 159 | 36.5 | /mnt/stockage/packages/f29/kblocks/po/hi/kblocks.po | 
+ | [eo](/f29/language/eo) | 57 | 159 | 35.8 | /mnt/stockage/packages/f29/kblocks/po/eo/kblocks.po | 
+ | [lt](/f29/language/lt) | 48 | 159 | 30.2 | /mnt/stockage/packages/f29/kblocks/po/lt/kblocks.po | 
+ | [ug](/f29/language/ug) | 32 | 159 | 20.1 | /mnt/stockage/packages/f29/kblocks/po/ug/kblocks.po | 
+ | [hr](/f29/language/hr) | 4 | 159 | 2.5 | /mnt/stockage/packages/f29/kblocks/po/hr/kblocks.po | 
+ | [is](/f29/language/is) | 0 | 159 | 0.0 | /mnt/stockage/packages/f29/kblocks/po/is/kblocks.po | 
 {.sortable}
 
 

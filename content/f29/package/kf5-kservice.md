@@ -18,100 +18,100 @@ The package kf5-kservice (version 5.59.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f29/language/ca.md" >}}) | 170 | 170 | 100.0 | /mnt/stockage/packages/f29/kf5-kservice/po/ca/kservice5.po | 
- | [ca@valencia]({{< ref "/f29/language/ca@valencia.md" >}}) | 170 | 170 | 100.0 | /mnt/stockage/packages/f29/kf5-kservice/po/ca@valencia/kservice5.po | 
- | [da]({{< ref "/f29/language/da.md" >}}) | 170 | 170 | 100.0 | /mnt/stockage/packages/f29/kf5-kservice/po/da/kservice5.po | 
- | [de]({{< ref "/f29/language/de.md" >}}) | 170 | 170 | 100.0 | /mnt/stockage/packages/f29/kf5-kservice/po/de/kservice5.po | 
- | [el]({{< ref "/f29/language/el.md" >}}) | 170 | 170 | 100.0 | /mnt/stockage/packages/f29/kf5-kservice/po/el/kservice5.po | 
- | [en_GB]({{< ref "/f29/language/en_GB.md" >}}) | 170 | 170 | 100.0 | /mnt/stockage/packages/f29/kf5-kservice/po/en_GB/kservice5.po | 
- | [es]({{< ref "/f29/language/es.md" >}}) | 170 | 170 | 100.0 | /mnt/stockage/packages/f29/kf5-kservice/po/es/kservice5.po | 
- | [et]({{< ref "/f29/language/et.md" >}}) | 170 | 170 | 100.0 | /mnt/stockage/packages/f29/kf5-kservice/po/et/kservice5.po | 
- | [eu]({{< ref "/f29/language/eu.md" >}}) | 170 | 170 | 100.0 | /mnt/stockage/packages/f29/kf5-kservice/po/eu/kservice5.po | 
- | [fi]({{< ref "/f29/language/fi.md" >}}) | 170 | 170 | 100.0 | /mnt/stockage/packages/f29/kf5-kservice/po/fi/kservice5.po | 
- | [fr]({{< ref "/f29/language/fr.md" >}}) | 170 | 170 | 100.0 | /mnt/stockage/packages/f29/kf5-kservice/po/fr/kservice5.po | 
- | [gd]({{< ref "/f29/language/gd.md" >}}) | 170 | 170 | 100.0 | /mnt/stockage/packages/f29/kf5-kservice/po/gd/kservice5.po | 
- | [gl]({{< ref "/f29/language/gl.md" >}}) | 170 | 170 | 100.0 | /mnt/stockage/packages/f29/kf5-kservice/po/gl/kservice5.po | 
- | [hu]({{< ref "/f29/language/hu.md" >}}) | 170 | 170 | 100.0 | /mnt/stockage/packages/f29/kf5-kservice/po/hu/kservice5.po | 
- | [ia]({{< ref "/f29/language/ia.md" >}}) | 170 | 170 | 100.0 | /mnt/stockage/packages/f29/kf5-kservice/po/ia/kservice5.po | 
- | [id]({{< ref "/f29/language/id.md" >}}) | 170 | 170 | 100.0 | /mnt/stockage/packages/f29/kf5-kservice/po/id/kservice5.po | 
- | [it]({{< ref "/f29/language/it.md" >}}) | 170 | 170 | 100.0 | /mnt/stockage/packages/f29/kf5-kservice/po/it/kservice5.po | 
- | [ko]({{< ref "/f29/language/ko.md" >}}) | 170 | 170 | 100.0 | /mnt/stockage/packages/f29/kf5-kservice/po/ko/kservice5.po | 
- | [nl]({{< ref "/f29/language/nl.md" >}}) | 170 | 170 | 100.0 | /mnt/stockage/packages/f29/kf5-kservice/po/nl/kservice5.po | 
- | [nn]({{< ref "/f29/language/nn.md" >}}) | 170 | 170 | 100.0 | /mnt/stockage/packages/f29/kf5-kservice/po/nn/kservice5.po | 
- | [pl]({{< ref "/f29/language/pl.md" >}}) | 170 | 170 | 100.0 | /mnt/stockage/packages/f29/kf5-kservice/po/pl/kservice5.po | 
- | [pt]({{< ref "/f29/language/pt.md" >}}) | 170 | 170 | 100.0 | /mnt/stockage/packages/f29/kf5-kservice/po/pt/kservice5.po | 
- | [pt_BR]({{< ref "/f29/language/pt_BR.md" >}}) | 170 | 170 | 100.0 | /mnt/stockage/packages/f29/kf5-kservice/po/pt_BR/kservice5.po | 
- | [ru]({{< ref "/f29/language/ru.md" >}}) | 170 | 170 | 100.0 | /mnt/stockage/packages/f29/kf5-kservice/po/ru/kservice5.po | 
- | [sk]({{< ref "/f29/language/sk.md" >}}) | 170 | 170 | 100.0 | /mnt/stockage/packages/f29/kf5-kservice/po/sk/kservice5.po | 
- | [sl]({{< ref "/f29/language/sl.md" >}}) | 170 | 170 | 100.0 | /mnt/stockage/packages/f29/kf5-kservice/po/sl/kservice5.po | 
- | [sr]({{< ref "/f29/language/sr.md" >}}) | 170 | 170 | 100.0 | /mnt/stockage/packages/f29/kf5-kservice/po/sr/kservice5.po | 
- | [sr@ijekavian]({{< ref "/f29/language/sr@ijekavian.md" >}}) | 170 | 170 | 100.0 | /mnt/stockage/packages/f29/kf5-kservice/po/sr@ijekavian/kservice5.po | 
- | [sr@ijekavian_Latn]({{< ref "/f29/language/sr@ijekavian_Latn.md" >}}) | 170 | 170 | 100.0 | /mnt/stockage/packages/f29/kf5-kservice/po/sr@ijekavianlatin/kservice5.po | 
- | [sr_Latn]({{< ref "/f29/language/sr_Latn.md" >}}) | 170 | 170 | 100.0 | /mnt/stockage/packages/f29/kf5-kservice/po/sr@latin/kservice5.po | 
- | [sv]({{< ref "/f29/language/sv.md" >}}) | 170 | 170 | 100.0 | /mnt/stockage/packages/f29/kf5-kservice/po/sv/kservice5.po | 
- | [tr]({{< ref "/f29/language/tr.md" >}}) | 170 | 170 | 100.0 | /mnt/stockage/packages/f29/kf5-kservice/po/tr/kservice5.po | 
- | [uk]({{< ref "/f29/language/uk.md" >}}) | 170 | 170 | 100.0 | /mnt/stockage/packages/f29/kf5-kservice/po/uk/kservice5.po | 
- | [zh_Hans]({{< ref "/f29/language/zh_Hans.md" >}}) | 170 | 170 | 100.0 | /mnt/stockage/packages/f29/kf5-kservice/po/zh_CN/kservice5.po | 
- | [zh_Hant]({{< ref "/f29/language/zh_Hant.md" >}}) | 170 | 170 | 100.0 | /mnt/stockage/packages/f29/kf5-kservice/po/zh_TW/kservice5.po | 
- | [nb_NO]({{< ref "/f29/language/nb_NO.md" >}}) | 140 | 170 | 82.4 | /mnt/stockage/packages/f29/kf5-kservice/po/nb/kservice5.po | 
- | [nds]({{< ref "/f29/language/nds.md" >}}) | 140 | 170 | 82.4 | /mnt/stockage/packages/f29/kf5-kservice/po/nds/kservice5.po | 
- | [lt]({{< ref "/f29/language/lt.md" >}}) | 131 | 170 | 77.1 | /mnt/stockage/packages/f29/kf5-kservice/po/lt/kservice5.po | 
- | [pa]({{< ref "/f29/language/pa.md" >}}) | 131 | 170 | 77.1 | /mnt/stockage/packages/f29/kf5-kservice/po/pa/kservice5.po | 
- | [ja]({{< ref "/f29/language/ja.md" >}}) | 127 | 170 | 74.7 | /mnt/stockage/packages/f29/kf5-kservice/po/ja/kservice5.po | 
- | [mr]({{< ref "/f29/language/mr.md" >}}) | 127 | 170 | 74.7 | /mnt/stockage/packages/f29/kf5-kservice/po/mr/kservice5.po | 
- | [eo]({{< ref "/f29/language/eo.md" >}}) | 114 | 170 | 67.1 | /mnt/stockage/packages/f29/kf5-kservice/po/eo/kservice5.po | 
- | [en_US]({{< ref "/f29/language/en_US.md" >}}) | 330 | 510 | 64.7 | /mnt/stockage/packages/f29/kf5-kservice/po/vi/kservice5.po/mnt/stockage/packages/f29/kf5-kservice/po/cs/kservice5.po/mnt/stockage/packages/f29/kf5-kservice/po/bn/kservice5.po | 
- | [se]({{< ref "/f29/language/se.md" >}}) | 98 | 170 | 57.6 | /mnt/stockage/packages/f29/kf5-kservice/po/se/kservice5.po | 
- | [ar]({{< ref "/f29/language/ar.md" >}}) | 92 | 170 | 54.1 | /mnt/stockage/packages/f29/kf5-kservice/po/ar/kservice5.po | 
- | [bs]({{< ref "/f29/language/bs.md" >}}) | 92 | 170 | 54.1 | /mnt/stockage/packages/f29/kf5-kservice/po/bs/kservice5.po | 
- | [ga]({{< ref "/f29/language/ga.md" >}}) | 92 | 170 | 54.1 | /mnt/stockage/packages/f29/kf5-kservice/po/ga/kservice5.po | 
- | [he]({{< ref "/f29/language/he.md" >}}) | 92 | 170 | 54.1 | /mnt/stockage/packages/f29/kf5-kservice/po/he/kservice5.po | 
- | [hy]({{< ref "/f29/language/hy.md" >}}) | 92 | 170 | 54.1 | /mnt/stockage/packages/f29/kf5-kservice/po/hy/kservice5.po | 
- | [is]({{< ref "/f29/language/is.md" >}}) | 92 | 170 | 54.1 | /mnt/stockage/packages/f29/kf5-kservice/po/is/kservice5.po | 
- | [kk]({{< ref "/f29/language/kk.md" >}}) | 92 | 170 | 54.1 | /mnt/stockage/packages/f29/kf5-kservice/po/kk/kservice5.po | 
- | [km]({{< ref "/f29/language/km.md" >}}) | 92 | 170 | 54.1 | /mnt/stockage/packages/f29/kf5-kservice/po/km/kservice5.po | 
- | [ro]({{< ref "/f29/language/ro.md" >}}) | 92 | 170 | 54.1 | /mnt/stockage/packages/f29/kf5-kservice/po/ro/kservice5.po | 
- | [ta]({{< ref "/f29/language/ta.md" >}}) | 92 | 170 | 54.1 | /mnt/stockage/packages/f29/kf5-kservice/po/ta/kservice5.po | 
- | [te]({{< ref "/f29/language/te.md" >}}) | 92 | 170 | 54.1 | /mnt/stockage/packages/f29/kf5-kservice/po/te/kservice5.po | 
- | [ug]({{< ref "/f29/language/ug.md" >}}) | 92 | 170 | 54.1 | /mnt/stockage/packages/f29/kf5-kservice/po/ug/kservice5.po | 
- | [hr]({{< ref "/f29/language/hr.md" >}}) | 80 | 170 | 47.1 | /mnt/stockage/packages/f29/kf5-kservice/po/hr/kservice5.po | 
- | [kn]({{< ref "/f29/language/kn.md" >}}) | 80 | 170 | 47.1 | /mnt/stockage/packages/f29/kf5-kservice/po/kn/kservice5.po | 
- | [ku]({{< ref "/f29/language/ku.md" >}}) | 80 | 170 | 47.1 | /mnt/stockage/packages/f29/kf5-kservice/po/ku/kservice5.po | 
- | [lv]({{< ref "/f29/language/lv.md" >}}) | 80 | 170 | 47.1 | /mnt/stockage/packages/f29/kf5-kservice/po/lv/kservice5.po | 
- | [ms]({{< ref "/f29/language/ms.md" >}}) | 80 | 170 | 47.1 | /mnt/stockage/packages/f29/kf5-kservice/po/ms/kservice5.po | 
- | [th]({{< ref "/f29/language/th.md" >}}) | 80 | 170 | 47.1 | /mnt/stockage/packages/f29/kf5-kservice/po/th/kservice5.po | 
- | [tt]({{< ref "/f29/language/tt.md" >}}) | 80 | 170 | 47.1 | /mnt/stockage/packages/f29/kf5-kservice/po/tt/kservice5.po | 
- | [wa]({{< ref "/f29/language/wa.md" >}}) | 80 | 170 | 47.1 | /mnt/stockage/packages/f29/kf5-kservice/po/wa/kservice5.po | 
- | [gu]({{< ref "/f29/language/gu.md" >}}) | 66 | 170 | 38.8 | /mnt/stockage/packages/f29/kf5-kservice/po/gu/kservice5.po | 
- | [mk]({{< ref "/f29/language/mk.md" >}}) | 66 | 170 | 38.8 | /mnt/stockage/packages/f29/kf5-kservice/po/mk/kservice5.po | 
- | [tg]({{< ref "/f29/language/tg.md" >}}) | 66 | 170 | 38.8 | /mnt/stockage/packages/f29/kf5-kservice/po/tg/kservice5.po | 
- | [si]({{< ref "/f29/language/si.md" >}}) | 65 | 170 | 38.2 | /mnt/stockage/packages/f29/kf5-kservice/po/si/kservice5.po | 
- | [bg]({{< ref "/f29/language/bg.md" >}}) | 64 | 170 | 37.6 | /mnt/stockage/packages/f29/kf5-kservice/po/bg/kservice5.po | 
- | [fa]({{< ref "/f29/language/fa.md" >}}) | 64 | 170 | 37.6 | /mnt/stockage/packages/f29/kf5-kservice/po/fa/kservice5.po | 
- | [fy]({{< ref "/f29/language/fy.md" >}}) | 64 | 170 | 37.6 | /mnt/stockage/packages/f29/kf5-kservice/po/fy/kservice5.po | 
- | [be_Latn]({{< ref "/f29/language/be_Latn.md" >}}) | 60 | 170 | 35.3 | /mnt/stockage/packages/f29/kf5-kservice/po/be@latin/kservice5.po | 
- | [hsb]({{< ref "/f29/language/hsb.md" >}}) | 60 | 170 | 35.3 | /mnt/stockage/packages/f29/kf5-kservice/po/hsb/kservice5.po | 
- | [hi]({{< ref "/f29/language/hi.md" >}}) | 174 | 510 | 34.1 | /mnt/stockage/packages/f29/kf5-kservice/po/mai/kservice5.po/mnt/stockage/packages/f29/kf5-kservice/po/hne/kservice5.po/mnt/stockage/packages/f29/kf5-kservice/po/hi/kservice5.po | 
- | [ml]({{< ref "/f29/language/ml.md" >}}) | 52 | 170 | 30.6 | /mnt/stockage/packages/f29/kf5-kservice/po/ml/kservice5.po | 
- | [bn_IN]({{< ref "/f29/language/bn_IN.md" >}}) | 50 | 170 | 29.4 | /mnt/stockage/packages/f29/kf5-kservice/po/bn_IN/kservice5.po | 
- | [as]({{< ref "/f29/language/as.md" >}}) | 44 | 170 | 25.9 | /mnt/stockage/packages/f29/kf5-kservice/po/as/kservice5.po | 
- | [crh]({{< ref "/f29/language/crh.md" >}}) | 44 | 170 | 25.9 | /mnt/stockage/packages/f29/kf5-kservice/po/crh/kservice5.po | 
- | [csb]({{< ref "/f29/language/csb.md" >}}) | 44 | 170 | 25.9 | /mnt/stockage/packages/f29/kf5-kservice/po/csb/kservice5.po | 
- | [or]({{< ref "/f29/language/or.md" >}}) | 32 | 170 | 18.8 | /mnt/stockage/packages/f29/kf5-kservice/po/or/kservice5.po | 
- | [ps]({{< ref "/f29/language/ps.md" >}}) | 32 | 170 | 18.8 | /mnt/stockage/packages/f29/kf5-kservice/po/ps/kservice5.po | 
- | [be]({{< ref "/f29/language/be.md" >}}) | 25 | 170 | 14.7 | /mnt/stockage/packages/f29/kf5-kservice/po/be/kservice5.po | 
- | [ne]({{< ref "/f29/language/ne.md" >}}) | 25 | 170 | 14.7 | /mnt/stockage/packages/f29/kf5-kservice/po/ne/kservice5.po | 
- | [sq]({{< ref "/f29/language/sq.md" >}}) | 20 | 170 | 11.8 | /mnt/stockage/packages/f29/kf5-kservice/po/sq/kservice5.po | 
- | [af]({{< ref "/f29/language/af.md" >}}) | 17 | 170 | 10.0 | /mnt/stockage/packages/f29/kf5-kservice/po/af/kservice5.po | 
- | [br]({{< ref "/f29/language/br.md" >}}) | 17 | 170 | 10.0 | /mnt/stockage/packages/f29/kf5-kservice/po/br/kservice5.po | 
- | [cy]({{< ref "/f29/language/cy.md" >}}) | 17 | 170 | 10.0 | /mnt/stockage/packages/f29/kf5-kservice/po/cy/kservice5.po | 
- | [ka]({{< ref "/f29/language/ka.md" >}}) | 17 | 170 | 10.0 | /mnt/stockage/packages/f29/kf5-kservice/po/ka/kservice5.po | 
- | [lb]({{< ref "/f29/language/lb.md" >}}) | 17 | 170 | 10.0 | /mnt/stockage/packages/f29/kf5-kservice/po/lb/kservice5.po | 
- | [uz]({{< ref "/f29/language/uz.md" >}}) | 34 | 340 | 10.0 | /mnt/stockage/packages/f29/kf5-kservice/po/uz@cyrillic/kservice5.po/mnt/stockage/packages/f29/kf5-kservice/po/uz/kservice5.po | 
- | [zh_Hant_HK]({{< ref "/f29/language/zh_Hant_HK.md" >}}) | 17 | 170 | 10.0 | /mnt/stockage/packages/f29/kf5-kservice/po/zh_HK/kservice5.po | 
- | [oc]({{< ref "/f29/language/oc.md" >}}) | 10 | 170 | 5.9 | /mnt/stockage/packages/f29/kf5-kservice/po/oc/kservice5.po | 
- | [ha]({{< ref "/f29/language/ha.md" >}}) | 4 | 170 | 2.4 | /mnt/stockage/packages/f29/kf5-kservice/po/ha/kservice5.po | 
- | [xh]({{< ref "/f29/language/xh.md" >}}) | 0 | 170 | 0.0 | /mnt/stockage/packages/f29/kf5-kservice/po/xh/kservice5.po | 
+ | [ca](/f29/language/ca) | 170 | 170 | 100.0 | /mnt/stockage/packages/f29/kf5-kservice/po/ca/kservice5.po | 
+ | [ca@valencia](/f29/language/ca@valencia) | 170 | 170 | 100.0 | /mnt/stockage/packages/f29/kf5-kservice/po/ca@valencia/kservice5.po | 
+ | [da](/f29/language/da) | 170 | 170 | 100.0 | /mnt/stockage/packages/f29/kf5-kservice/po/da/kservice5.po | 
+ | [de](/f29/language/de) | 170 | 170 | 100.0 | /mnt/stockage/packages/f29/kf5-kservice/po/de/kservice5.po | 
+ | [el](/f29/language/el) | 170 | 170 | 100.0 | /mnt/stockage/packages/f29/kf5-kservice/po/el/kservice5.po | 
+ | [en_GB](/f29/language/en_GB) | 170 | 170 | 100.0 | /mnt/stockage/packages/f29/kf5-kservice/po/en_GB/kservice5.po | 
+ | [es](/f29/language/es) | 170 | 170 | 100.0 | /mnt/stockage/packages/f29/kf5-kservice/po/es/kservice5.po | 
+ | [et](/f29/language/et) | 170 | 170 | 100.0 | /mnt/stockage/packages/f29/kf5-kservice/po/et/kservice5.po | 
+ | [eu](/f29/language/eu) | 170 | 170 | 100.0 | /mnt/stockage/packages/f29/kf5-kservice/po/eu/kservice5.po | 
+ | [fi](/f29/language/fi) | 170 | 170 | 100.0 | /mnt/stockage/packages/f29/kf5-kservice/po/fi/kservice5.po | 
+ | [fr](/f29/language/fr) | 170 | 170 | 100.0 | /mnt/stockage/packages/f29/kf5-kservice/po/fr/kservice5.po | 
+ | [gd](/f29/language/gd) | 170 | 170 | 100.0 | /mnt/stockage/packages/f29/kf5-kservice/po/gd/kservice5.po | 
+ | [gl](/f29/language/gl) | 170 | 170 | 100.0 | /mnt/stockage/packages/f29/kf5-kservice/po/gl/kservice5.po | 
+ | [hu](/f29/language/hu) | 170 | 170 | 100.0 | /mnt/stockage/packages/f29/kf5-kservice/po/hu/kservice5.po | 
+ | [ia](/f29/language/ia) | 170 | 170 | 100.0 | /mnt/stockage/packages/f29/kf5-kservice/po/ia/kservice5.po | 
+ | [id](/f29/language/id) | 170 | 170 | 100.0 | /mnt/stockage/packages/f29/kf5-kservice/po/id/kservice5.po | 
+ | [it](/f29/language/it) | 170 | 170 | 100.0 | /mnt/stockage/packages/f29/kf5-kservice/po/it/kservice5.po | 
+ | [ko](/f29/language/ko) | 170 | 170 | 100.0 | /mnt/stockage/packages/f29/kf5-kservice/po/ko/kservice5.po | 
+ | [nl](/f29/language/nl) | 170 | 170 | 100.0 | /mnt/stockage/packages/f29/kf5-kservice/po/nl/kservice5.po | 
+ | [nn](/f29/language/nn) | 170 | 170 | 100.0 | /mnt/stockage/packages/f29/kf5-kservice/po/nn/kservice5.po | 
+ | [pl](/f29/language/pl) | 170 | 170 | 100.0 | /mnt/stockage/packages/f29/kf5-kservice/po/pl/kservice5.po | 
+ | [pt](/f29/language/pt) | 170 | 170 | 100.0 | /mnt/stockage/packages/f29/kf5-kservice/po/pt/kservice5.po | 
+ | [pt_BR](/f29/language/pt_BR) | 170 | 170 | 100.0 | /mnt/stockage/packages/f29/kf5-kservice/po/pt_BR/kservice5.po | 
+ | [ru](/f29/language/ru) | 170 | 170 | 100.0 | /mnt/stockage/packages/f29/kf5-kservice/po/ru/kservice5.po | 
+ | [sk](/f29/language/sk) | 170 | 170 | 100.0 | /mnt/stockage/packages/f29/kf5-kservice/po/sk/kservice5.po | 
+ | [sl](/f29/language/sl) | 170 | 170 | 100.0 | /mnt/stockage/packages/f29/kf5-kservice/po/sl/kservice5.po | 
+ | [sr](/f29/language/sr) | 170 | 170 | 100.0 | /mnt/stockage/packages/f29/kf5-kservice/po/sr/kservice5.po | 
+ | [sr@ijekavian](/f29/language/sr@ijekavian) | 170 | 170 | 100.0 | /mnt/stockage/packages/f29/kf5-kservice/po/sr@ijekavian/kservice5.po | 
+ | [sr@ijekavian_Latn](/f29/language/sr@ijekavian_Latn) | 170 | 170 | 100.0 | /mnt/stockage/packages/f29/kf5-kservice/po/sr@ijekavianlatin/kservice5.po | 
+ | [sr_Latn](/f29/language/sr_Latn) | 170 | 170 | 100.0 | /mnt/stockage/packages/f29/kf5-kservice/po/sr@latin/kservice5.po | 
+ | [sv](/f29/language/sv) | 170 | 170 | 100.0 | /mnt/stockage/packages/f29/kf5-kservice/po/sv/kservice5.po | 
+ | [tr](/f29/language/tr) | 170 | 170 | 100.0 | /mnt/stockage/packages/f29/kf5-kservice/po/tr/kservice5.po | 
+ | [uk](/f29/language/uk) | 170 | 170 | 100.0 | /mnt/stockage/packages/f29/kf5-kservice/po/uk/kservice5.po | 
+ | [zh_Hans](/f29/language/zh_Hans) | 170 | 170 | 100.0 | /mnt/stockage/packages/f29/kf5-kservice/po/zh_CN/kservice5.po | 
+ | [zh_Hant](/f29/language/zh_Hant) | 170 | 170 | 100.0 | /mnt/stockage/packages/f29/kf5-kservice/po/zh_TW/kservice5.po | 
+ | [nb_NO](/f29/language/nb_NO) | 140 | 170 | 82.4 | /mnt/stockage/packages/f29/kf5-kservice/po/nb/kservice5.po | 
+ | [nds](/f29/language/nds) | 140 | 170 | 82.4 | /mnt/stockage/packages/f29/kf5-kservice/po/nds/kservice5.po | 
+ | [lt](/f29/language/lt) | 131 | 170 | 77.1 | /mnt/stockage/packages/f29/kf5-kservice/po/lt/kservice5.po | 
+ | [pa](/f29/language/pa) | 131 | 170 | 77.1 | /mnt/stockage/packages/f29/kf5-kservice/po/pa/kservice5.po | 
+ | [ja](/f29/language/ja) | 127 | 170 | 74.7 | /mnt/stockage/packages/f29/kf5-kservice/po/ja/kservice5.po | 
+ | [mr](/f29/language/mr) | 127 | 170 | 74.7 | /mnt/stockage/packages/f29/kf5-kservice/po/mr/kservice5.po | 
+ | [eo](/f29/language/eo) | 114 | 170 | 67.1 | /mnt/stockage/packages/f29/kf5-kservice/po/eo/kservice5.po | 
+ | [en_US](/f29/language/en_US) | 330 | 510 | 64.7 | /mnt/stockage/packages/f29/kf5-kservice/po/vi/kservice5.po/mnt/stockage/packages/f29/kf5-kservice/po/cs/kservice5.po/mnt/stockage/packages/f29/kf5-kservice/po/bn/kservice5.po | 
+ | [se](/f29/language/se) | 98 | 170 | 57.6 | /mnt/stockage/packages/f29/kf5-kservice/po/se/kservice5.po | 
+ | [ar](/f29/language/ar) | 92 | 170 | 54.1 | /mnt/stockage/packages/f29/kf5-kservice/po/ar/kservice5.po | 
+ | [bs](/f29/language/bs) | 92 | 170 | 54.1 | /mnt/stockage/packages/f29/kf5-kservice/po/bs/kservice5.po | 
+ | [ga](/f29/language/ga) | 92 | 170 | 54.1 | /mnt/stockage/packages/f29/kf5-kservice/po/ga/kservice5.po | 
+ | [he](/f29/language/he) | 92 | 170 | 54.1 | /mnt/stockage/packages/f29/kf5-kservice/po/he/kservice5.po | 
+ | [hy](/f29/language/hy) | 92 | 170 | 54.1 | /mnt/stockage/packages/f29/kf5-kservice/po/hy/kservice5.po | 
+ | [is](/f29/language/is) | 92 | 170 | 54.1 | /mnt/stockage/packages/f29/kf5-kservice/po/is/kservice5.po | 
+ | [kk](/f29/language/kk) | 92 | 170 | 54.1 | /mnt/stockage/packages/f29/kf5-kservice/po/kk/kservice5.po | 
+ | [km](/f29/language/km) | 92 | 170 | 54.1 | /mnt/stockage/packages/f29/kf5-kservice/po/km/kservice5.po | 
+ | [ro](/f29/language/ro) | 92 | 170 | 54.1 | /mnt/stockage/packages/f29/kf5-kservice/po/ro/kservice5.po | 
+ | [ta](/f29/language/ta) | 92 | 170 | 54.1 | /mnt/stockage/packages/f29/kf5-kservice/po/ta/kservice5.po | 
+ | [te](/f29/language/te) | 92 | 170 | 54.1 | /mnt/stockage/packages/f29/kf5-kservice/po/te/kservice5.po | 
+ | [ug](/f29/language/ug) | 92 | 170 | 54.1 | /mnt/stockage/packages/f29/kf5-kservice/po/ug/kservice5.po | 
+ | [hr](/f29/language/hr) | 80 | 170 | 47.1 | /mnt/stockage/packages/f29/kf5-kservice/po/hr/kservice5.po | 
+ | [kn](/f29/language/kn) | 80 | 170 | 47.1 | /mnt/stockage/packages/f29/kf5-kservice/po/kn/kservice5.po | 
+ | [ku](/f29/language/ku) | 80 | 170 | 47.1 | /mnt/stockage/packages/f29/kf5-kservice/po/ku/kservice5.po | 
+ | [lv](/f29/language/lv) | 80 | 170 | 47.1 | /mnt/stockage/packages/f29/kf5-kservice/po/lv/kservice5.po | 
+ | [ms](/f29/language/ms) | 80 | 170 | 47.1 | /mnt/stockage/packages/f29/kf5-kservice/po/ms/kservice5.po | 
+ | [th](/f29/language/th) | 80 | 170 | 47.1 | /mnt/stockage/packages/f29/kf5-kservice/po/th/kservice5.po | 
+ | [tt](/f29/language/tt) | 80 | 170 | 47.1 | /mnt/stockage/packages/f29/kf5-kservice/po/tt/kservice5.po | 
+ | [wa](/f29/language/wa) | 80 | 170 | 47.1 | /mnt/stockage/packages/f29/kf5-kservice/po/wa/kservice5.po | 
+ | [gu](/f29/language/gu) | 66 | 170 | 38.8 | /mnt/stockage/packages/f29/kf5-kservice/po/gu/kservice5.po | 
+ | [mk](/f29/language/mk) | 66 | 170 | 38.8 | /mnt/stockage/packages/f29/kf5-kservice/po/mk/kservice5.po | 
+ | [tg](/f29/language/tg) | 66 | 170 | 38.8 | /mnt/stockage/packages/f29/kf5-kservice/po/tg/kservice5.po | 
+ | [si](/f29/language/si) | 65 | 170 | 38.2 | /mnt/stockage/packages/f29/kf5-kservice/po/si/kservice5.po | 
+ | [bg](/f29/language/bg) | 64 | 170 | 37.6 | /mnt/stockage/packages/f29/kf5-kservice/po/bg/kservice5.po | 
+ | [fa](/f29/language/fa) | 64 | 170 | 37.6 | /mnt/stockage/packages/f29/kf5-kservice/po/fa/kservice5.po | 
+ | [fy](/f29/language/fy) | 64 | 170 | 37.6 | /mnt/stockage/packages/f29/kf5-kservice/po/fy/kservice5.po | 
+ | [be_Latn](/f29/language/be_Latn) | 60 | 170 | 35.3 | /mnt/stockage/packages/f29/kf5-kservice/po/be@latin/kservice5.po | 
+ | [hsb](/f29/language/hsb) | 60 | 170 | 35.3 | /mnt/stockage/packages/f29/kf5-kservice/po/hsb/kservice5.po | 
+ | [hi](/f29/language/hi) | 174 | 510 | 34.1 | /mnt/stockage/packages/f29/kf5-kservice/po/mai/kservice5.po/mnt/stockage/packages/f29/kf5-kservice/po/hne/kservice5.po/mnt/stockage/packages/f29/kf5-kservice/po/hi/kservice5.po | 
+ | [ml](/f29/language/ml) | 52 | 170 | 30.6 | /mnt/stockage/packages/f29/kf5-kservice/po/ml/kservice5.po | 
+ | [bn_IN](/f29/language/bn_IN) | 50 | 170 | 29.4 | /mnt/stockage/packages/f29/kf5-kservice/po/bn_IN/kservice5.po | 
+ | [as](/f29/language/as) | 44 | 170 | 25.9 | /mnt/stockage/packages/f29/kf5-kservice/po/as/kservice5.po | 
+ | [crh](/f29/language/crh) | 44 | 170 | 25.9 | /mnt/stockage/packages/f29/kf5-kservice/po/crh/kservice5.po | 
+ | [csb](/f29/language/csb) | 44 | 170 | 25.9 | /mnt/stockage/packages/f29/kf5-kservice/po/csb/kservice5.po | 
+ | [or](/f29/language/or) | 32 | 170 | 18.8 | /mnt/stockage/packages/f29/kf5-kservice/po/or/kservice5.po | 
+ | [ps](/f29/language/ps) | 32 | 170 | 18.8 | /mnt/stockage/packages/f29/kf5-kservice/po/ps/kservice5.po | 
+ | [be](/f29/language/be) | 25 | 170 | 14.7 | /mnt/stockage/packages/f29/kf5-kservice/po/be/kservice5.po | 
+ | [ne](/f29/language/ne) | 25 | 170 | 14.7 | /mnt/stockage/packages/f29/kf5-kservice/po/ne/kservice5.po | 
+ | [sq](/f29/language/sq) | 20 | 170 | 11.8 | /mnt/stockage/packages/f29/kf5-kservice/po/sq/kservice5.po | 
+ | [af](/f29/language/af) | 17 | 170 | 10.0 | /mnt/stockage/packages/f29/kf5-kservice/po/af/kservice5.po | 
+ | [br](/f29/language/br) | 17 | 170 | 10.0 | /mnt/stockage/packages/f29/kf5-kservice/po/br/kservice5.po | 
+ | [cy](/f29/language/cy) | 17 | 170 | 10.0 | /mnt/stockage/packages/f29/kf5-kservice/po/cy/kservice5.po | 
+ | [ka](/f29/language/ka) | 17 | 170 | 10.0 | /mnt/stockage/packages/f29/kf5-kservice/po/ka/kservice5.po | 
+ | [lb](/f29/language/lb) | 17 | 170 | 10.0 | /mnt/stockage/packages/f29/kf5-kservice/po/lb/kservice5.po | 
+ | [uz](/f29/language/uz) | 34 | 340 | 10.0 | /mnt/stockage/packages/f29/kf5-kservice/po/uz@cyrillic/kservice5.po/mnt/stockage/packages/f29/kf5-kservice/po/uz/kservice5.po | 
+ | [zh_Hant_HK](/f29/language/zh_Hant_HK) | 17 | 170 | 10.0 | /mnt/stockage/packages/f29/kf5-kservice/po/zh_HK/kservice5.po | 
+ | [oc](/f29/language/oc) | 10 | 170 | 5.9 | /mnt/stockage/packages/f29/kf5-kservice/po/oc/kservice5.po | 
+ | [ha](/f29/language/ha) | 4 | 170 | 2.4 | /mnt/stockage/packages/f29/kf5-kservice/po/ha/kservice5.po | 
+ | [xh](/f29/language/xh) | 0 | 170 | 0.0 | /mnt/stockage/packages/f29/kf5-kservice/po/xh/kservice5.po | 
 {.sortable}
 
 

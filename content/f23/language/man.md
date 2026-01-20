@@ -39,13 +39,13 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [davfs2]({{< ref "/f23/package/davfs2.md" >}}) | 5656 | 5656 | 100.0 |  | 
- | [kde-i18n]({{< ref "/f23/package/kde-i18n.md" >}}) | 181 | 181 | 100.0 | Chinese (traditional) <zh-l10n@linux.org.tw> | 
- | [schroot]({{< ref "/f23/package/schroot.md" >}}) | 12149 | 12625 | 96.2 | French <debian-l10n-french@lists.debian.org> | 
- | [man-db]({{< ref "/f23/package/man-db.md" >}}) | 2690 | 8299 | 32.4 | Danish <dansk@dansk-gruppen.dk> | 
- | [shadow-utils]({{< ref "/f23/package/shadow-utils.md" >}}) | 2252 | 16660 | 13.5 | Danish <debian-l10n-danish@lists.debian.org> | 
- | [po4a]({{< ref "/f23/package/po4a.md" >}}) | 0 | 36 | 0.0 | LANGUAGE <LL@li.org> | 
- | [wine-docs]({{< ref "/f23/package/wine-docs.md" >}}) | 0 | 38 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [davfs2](/f23/package/davfs2) | 5656 | 5656 | 100.0 |  | 
+ | [kde-i18n](/f23/package/kde-i18n) | 181 | 181 | 100.0 | Chinese (traditional) <zh-l10n@linux.org.tw> | 
+ | [schroot](/f23/package/schroot) | 12149 | 12625 | 96.2 | French <debian-l10n-french@lists.debian.org> | 
+ | [man-db](/f23/package/man-db) | 2690 | 8299 | 32.4 | Danish <dansk@dansk-gruppen.dk> | 
+ | [shadow-utils](/f23/package/shadow-utils) | 2252 | 16660 | 13.5 | Danish <debian-l10n-danish@lists.debian.org> | 
+ | [po4a](/f23/package/po4a) | 0 | 36 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [wine-docs](/f23/package/wine-docs) | 0 | 38 | 0.0 | LANGUAGE <LL@li.org> | 
 {.sortable}
 
 

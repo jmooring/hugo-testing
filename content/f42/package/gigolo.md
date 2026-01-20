@@ -18,62 +18,62 @@ The package gigolo (version 0.5.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ast]({{< ref "/f42/language/ast.md" >}}) | 541 | 541 | 100.0 | /mnt/stockage/packages/f42/gigolo/po/ast.po | 
- | [bg]({{< ref "/f42/language/bg.md" >}}) | 542 | 542 | 100.0 | /mnt/stockage/packages/f42/gigolo/po/bg.po | 
- | [ca]({{< ref "/f42/language/ca.md" >}}) | 541 | 541 | 100.0 | /mnt/stockage/packages/f42/gigolo/po/ca.po | 
- | [cs]({{< ref "/f42/language/cs.md" >}}) | 542 | 542 | 100.0 | /mnt/stockage/packages/f42/gigolo/po/cs.po | 
- | [da]({{< ref "/f42/language/da.md" >}}) | 542 | 542 | 100.0 | /mnt/stockage/packages/f42/gigolo/po/da.po | 
- | [de]({{< ref "/f42/language/de.md" >}}) | 542 | 542 | 100.0 | /mnt/stockage/packages/f42/gigolo/po/de.po | 
- | [en_GB]({{< ref "/f42/language/en_GB.md" >}}) | 542 | 542 | 100.0 | /mnt/stockage/packages/f42/gigolo/po/en_GB.po | 
- | [es]({{< ref "/f42/language/es.md" >}}) | 542 | 542 | 100.0 | /mnt/stockage/packages/f42/gigolo/po/es.po | 
- | [et]({{< ref "/f42/language/et.md" >}}) | 542 | 542 | 100.0 | /mnt/stockage/packages/f42/gigolo/po/et.po | 
- | [eu]({{< ref "/f42/language/eu.md" >}}) | 542 | 542 | 100.0 | /mnt/stockage/packages/f42/gigolo/po/eu.po | 
- | [fi]({{< ref "/f42/language/fi.md" >}}) | 542 | 542 | 100.0 | /mnt/stockage/packages/f42/gigolo/po/fi.po | 
- | [fr]({{< ref "/f42/language/fr.md" >}}) | 542 | 542 | 100.0 | /mnt/stockage/packages/f42/gigolo/po/fr.po | 
- | [gl]({{< ref "/f42/language/gl.md" >}}) | 542 | 542 | 100.0 | /mnt/stockage/packages/f42/gigolo/po/gl.po | 
- | [he]({{< ref "/f42/language/he.md" >}}) | 542 | 542 | 100.0 | /mnt/stockage/packages/f42/gigolo/po/he.po | 
- | [hu]({{< ref "/f42/language/hu.md" >}}) | 541 | 541 | 100.0 | /mnt/stockage/packages/f42/gigolo/po/hu.po | 
- | [it]({{< ref "/f42/language/it.md" >}}) | 542 | 542 | 100.0 | /mnt/stockage/packages/f42/gigolo/po/it.po | 
- | [ja]({{< ref "/f42/language/ja.md" >}}) | 542 | 542 | 100.0 | /mnt/stockage/packages/f42/gigolo/po/ja.po | 
- | [ko]({{< ref "/f42/language/ko.md" >}}) | 541 | 541 | 100.0 | /mnt/stockage/packages/f42/gigolo/po/ko.po | 
- | [lt]({{< ref "/f42/language/lt.md" >}}) | 542 | 542 | 100.0 | /mnt/stockage/packages/f42/gigolo/po/lt.po | 
- | [nb_NO]({{< ref "/f42/language/nb_NO.md" >}}) | 542 | 542 | 100.0 | /mnt/stockage/packages/f42/gigolo/po/nb.po | 
- | [nl]({{< ref "/f42/language/nl.md" >}}) | 542 | 542 | 100.0 | /mnt/stockage/packages/f42/gigolo/po/nl.po | 
- | [oc]({{< ref "/f42/language/oc.md" >}}) | 541 | 541 | 100.0 | /mnt/stockage/packages/f42/gigolo/po/oc.po | 
- | [pl]({{< ref "/f42/language/pl.md" >}}) | 542 | 542 | 100.0 | /mnt/stockage/packages/f42/gigolo/po/pl.po | 
- | [pt]({{< ref "/f42/language/pt.md" >}}) | 542 | 542 | 100.0 | /mnt/stockage/packages/f42/gigolo/po/pt.po | 
- | [pt_BR]({{< ref "/f42/language/pt_BR.md" >}}) | 542 | 542 | 100.0 | /mnt/stockage/packages/f42/gigolo/po/pt_BR.po | 
- | [ro]({{< ref "/f42/language/ro.md" >}}) | 542 | 542 | 100.0 | /mnt/stockage/packages/f42/gigolo/po/ro.po | 
- | [ru]({{< ref "/f42/language/ru.md" >}}) | 541 | 541 | 100.0 | /mnt/stockage/packages/f42/gigolo/po/ru.po | 
- | [sl]({{< ref "/f42/language/sl.md" >}}) | 541 | 541 | 100.0 | /mnt/stockage/packages/f42/gigolo/po/sl.po | 
- | [sq]({{< ref "/f42/language/sq.md" >}}) | 542 | 542 | 100.0 | /mnt/stockage/packages/f42/gigolo/po/sq.po | 
- | [sr]({{< ref "/f42/language/sr.md" >}}) | 542 | 542 | 100.0 | /mnt/stockage/packages/f42/gigolo/po/sr.po | 
- | [sv]({{< ref "/f42/language/sv.md" >}}) | 542 | 542 | 100.0 | /mnt/stockage/packages/f42/gigolo/po/sv.po | 
- | [tr]({{< ref "/f42/language/tr.md" >}}) | 542 | 542 | 100.0 | /mnt/stockage/packages/f42/gigolo/po/tr.po | 
- | [uk]({{< ref "/f42/language/uk.md" >}}) | 542 | 542 | 100.0 | /mnt/stockage/packages/f42/gigolo/po/uk.po | 
- | [zh_Hans]({{< ref "/f42/language/zh_Hans.md" >}}) | 542 | 542 | 100.0 | /mnt/stockage/packages/f42/gigolo/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f42/language/zh_Hant.md" >}}) | 542 | 542 | 100.0 | /mnt/stockage/packages/f42/gigolo/po/zh_TW.po | 
- | [sk]({{< ref "/f42/language/sk.md" >}}) | 540 | 541 | 99.8 | /mnt/stockage/packages/f42/gigolo/po/sk.po | 
- | [en_CA]({{< ref "/f42/language/en_CA.md" >}}) | 539 | 541 | 99.6 | /mnt/stockage/packages/f42/gigolo/po/en_CA.po | 
- | [be]({{< ref "/f42/language/be.md" >}}) | 538 | 541 | 99.4 | /mnt/stockage/packages/f42/gigolo/po/be.po | 
- | [id]({{< ref "/f42/language/id.md" >}}) | 538 | 541 | 99.4 | /mnt/stockage/packages/f42/gigolo/po/id.po | 
- | [ms]({{< ref "/f42/language/ms.md" >}}) | 538 | 541 | 99.4 | /mnt/stockage/packages/f42/gigolo/po/ms.po | 
- | [th]({{< ref "/f42/language/th.md" >}}) | 538 | 541 | 99.4 | /mnt/stockage/packages/f42/gigolo/po/th.po | 
- | [ar]({{< ref "/f42/language/ar.md" >}}) | 537 | 541 | 99.3 | /mnt/stockage/packages/f42/gigolo/po/ar.po | 
- | [hr]({{< ref "/f42/language/hr.md" >}}) | 535 | 542 | 98.7 | /mnt/stockage/packages/f42/gigolo/po/hr.po | 
- | [en_AU]({{< ref "/f42/language/en_AU.md" >}}) | 528 | 541 | 97.6 | /mnt/stockage/packages/f42/gigolo/po/en_AU.po | 
- | [is]({{< ref "/f42/language/is.md" >}}) | 528 | 541 | 97.6 | /mnt/stockage/packages/f42/gigolo/po/is.po | 
- | [el]({{< ref "/f42/language/el.md" >}}) | 517 | 541 | 95.6 | /mnt/stockage/packages/f42/gigolo/po/el.po | 
- | [ug]({{< ref "/f42/language/ug.md" >}}) | 512 | 541 | 94.6 | /mnt/stockage/packages/f42/gigolo/po/ug.po | 
- | [hy]({{< ref "/f42/language/hy.md" >}}) | 947 | 1082 | 87.5 | /mnt/stockage/packages/f42/gigolo/po/hy_AM.po/mnt/stockage/packages/f42/gigolo/po/hye.po | 
- | [ie]({{< ref "/f42/language/ie.md" >}}) | 473 | 541 | 87.4 | /mnt/stockage/packages/f42/gigolo/po/ie.po | 
- | [lv]({{< ref "/f42/language/lv.md" >}}) | 438 | 541 | 81.0 | /mnt/stockage/packages/f42/gigolo/po/lv.po | 
- | [ur]({{< ref "/f42/language/ur.md" >}}) | 384 | 541 | 71.0 | /mnt/stockage/packages/f42/gigolo/po/ur.po | 
- | [ur_PK]({{< ref "/f42/language/ur_PK.md" >}}) | 384 | 541 | 71.0 | /mnt/stockage/packages/f42/gigolo/po/ur_PK.po | 
- | [te]({{< ref "/f42/language/te.md" >}}) | 165 | 541 | 30.5 | /mnt/stockage/packages/f42/gigolo/po/te.po | 
- | [kk]({{< ref "/f42/language/kk.md" >}}) | 163 | 541 | 30.1 | /mnt/stockage/packages/f42/gigolo/po/kk.po | 
- | [am]({{< ref "/f42/language/am.md" >}}) | 119 | 542 | 22.0 | /mnt/stockage/packages/f42/gigolo/po/am.po | 
- | [eo]({{< ref "/f42/language/eo.md" >}}) | 51 | 493 | 10.3 | /mnt/stockage/packages/f42/gigolo/po/eo.po | 
+ | [ast](/f42/language/ast) | 541 | 541 | 100.0 | /mnt/stockage/packages/f42/gigolo/po/ast.po | 
+ | [bg](/f42/language/bg) | 542 | 542 | 100.0 | /mnt/stockage/packages/f42/gigolo/po/bg.po | 
+ | [ca](/f42/language/ca) | 541 | 541 | 100.0 | /mnt/stockage/packages/f42/gigolo/po/ca.po | 
+ | [cs](/f42/language/cs) | 542 | 542 | 100.0 | /mnt/stockage/packages/f42/gigolo/po/cs.po | 
+ | [da](/f42/language/da) | 542 | 542 | 100.0 | /mnt/stockage/packages/f42/gigolo/po/da.po | 
+ | [de](/f42/language/de) | 542 | 542 | 100.0 | /mnt/stockage/packages/f42/gigolo/po/de.po | 
+ | [en_GB](/f42/language/en_GB) | 542 | 542 | 100.0 | /mnt/stockage/packages/f42/gigolo/po/en_GB.po | 
+ | [es](/f42/language/es) | 542 | 542 | 100.0 | /mnt/stockage/packages/f42/gigolo/po/es.po | 
+ | [et](/f42/language/et) | 542 | 542 | 100.0 | /mnt/stockage/packages/f42/gigolo/po/et.po | 
+ | [eu](/f42/language/eu) | 542 | 542 | 100.0 | /mnt/stockage/packages/f42/gigolo/po/eu.po | 
+ | [fi](/f42/language/fi) | 542 | 542 | 100.0 | /mnt/stockage/packages/f42/gigolo/po/fi.po | 
+ | [fr](/f42/language/fr) | 542 | 542 | 100.0 | /mnt/stockage/packages/f42/gigolo/po/fr.po | 
+ | [gl](/f42/language/gl) | 542 | 542 | 100.0 | /mnt/stockage/packages/f42/gigolo/po/gl.po | 
+ | [he](/f42/language/he) | 542 | 542 | 100.0 | /mnt/stockage/packages/f42/gigolo/po/he.po | 
+ | [hu](/f42/language/hu) | 541 | 541 | 100.0 | /mnt/stockage/packages/f42/gigolo/po/hu.po | 
+ | [it](/f42/language/it) | 542 | 542 | 100.0 | /mnt/stockage/packages/f42/gigolo/po/it.po | 
+ | [ja](/f42/language/ja) | 542 | 542 | 100.0 | /mnt/stockage/packages/f42/gigolo/po/ja.po | 
+ | [ko](/f42/language/ko) | 541 | 541 | 100.0 | /mnt/stockage/packages/f42/gigolo/po/ko.po | 
+ | [lt](/f42/language/lt) | 542 | 542 | 100.0 | /mnt/stockage/packages/f42/gigolo/po/lt.po | 
+ | [nb_NO](/f42/language/nb_NO) | 542 | 542 | 100.0 | /mnt/stockage/packages/f42/gigolo/po/nb.po | 
+ | [nl](/f42/language/nl) | 542 | 542 | 100.0 | /mnt/stockage/packages/f42/gigolo/po/nl.po | 
+ | [oc](/f42/language/oc) | 541 | 541 | 100.0 | /mnt/stockage/packages/f42/gigolo/po/oc.po | 
+ | [pl](/f42/language/pl) | 542 | 542 | 100.0 | /mnt/stockage/packages/f42/gigolo/po/pl.po | 
+ | [pt](/f42/language/pt) | 542 | 542 | 100.0 | /mnt/stockage/packages/f42/gigolo/po/pt.po | 
+ | [pt_BR](/f42/language/pt_BR) | 542 | 542 | 100.0 | /mnt/stockage/packages/f42/gigolo/po/pt_BR.po | 
+ | [ro](/f42/language/ro) | 542 | 542 | 100.0 | /mnt/stockage/packages/f42/gigolo/po/ro.po | 
+ | [ru](/f42/language/ru) | 541 | 541 | 100.0 | /mnt/stockage/packages/f42/gigolo/po/ru.po | 
+ | [sl](/f42/language/sl) | 541 | 541 | 100.0 | /mnt/stockage/packages/f42/gigolo/po/sl.po | 
+ | [sq](/f42/language/sq) | 542 | 542 | 100.0 | /mnt/stockage/packages/f42/gigolo/po/sq.po | 
+ | [sr](/f42/language/sr) | 542 | 542 | 100.0 | /mnt/stockage/packages/f42/gigolo/po/sr.po | 
+ | [sv](/f42/language/sv) | 542 | 542 | 100.0 | /mnt/stockage/packages/f42/gigolo/po/sv.po | 
+ | [tr](/f42/language/tr) | 542 | 542 | 100.0 | /mnt/stockage/packages/f42/gigolo/po/tr.po | 
+ | [uk](/f42/language/uk) | 542 | 542 | 100.0 | /mnt/stockage/packages/f42/gigolo/po/uk.po | 
+ | [zh_Hans](/f42/language/zh_Hans) | 542 | 542 | 100.0 | /mnt/stockage/packages/f42/gigolo/po/zh_CN.po | 
+ | [zh_Hant](/f42/language/zh_Hant) | 542 | 542 | 100.0 | /mnt/stockage/packages/f42/gigolo/po/zh_TW.po | 
+ | [sk](/f42/language/sk) | 540 | 541 | 99.8 | /mnt/stockage/packages/f42/gigolo/po/sk.po | 
+ | [en_CA](/f42/language/en_CA) | 539 | 541 | 99.6 | /mnt/stockage/packages/f42/gigolo/po/en_CA.po | 
+ | [be](/f42/language/be) | 538 | 541 | 99.4 | /mnt/stockage/packages/f42/gigolo/po/be.po | 
+ | [id](/f42/language/id) | 538 | 541 | 99.4 | /mnt/stockage/packages/f42/gigolo/po/id.po | 
+ | [ms](/f42/language/ms) | 538 | 541 | 99.4 | /mnt/stockage/packages/f42/gigolo/po/ms.po | 
+ | [th](/f42/language/th) | 538 | 541 | 99.4 | /mnt/stockage/packages/f42/gigolo/po/th.po | 
+ | [ar](/f42/language/ar) | 537 | 541 | 99.3 | /mnt/stockage/packages/f42/gigolo/po/ar.po | 
+ | [hr](/f42/language/hr) | 535 | 542 | 98.7 | /mnt/stockage/packages/f42/gigolo/po/hr.po | 
+ | [en_AU](/f42/language/en_AU) | 528 | 541 | 97.6 | /mnt/stockage/packages/f42/gigolo/po/en_AU.po | 
+ | [is](/f42/language/is) | 528 | 541 | 97.6 | /mnt/stockage/packages/f42/gigolo/po/is.po | 
+ | [el](/f42/language/el) | 517 | 541 | 95.6 | /mnt/stockage/packages/f42/gigolo/po/el.po | 
+ | [ug](/f42/language/ug) | 512 | 541 | 94.6 | /mnt/stockage/packages/f42/gigolo/po/ug.po | 
+ | [hy](/f42/language/hy) | 947 | 1082 | 87.5 | /mnt/stockage/packages/f42/gigolo/po/hy_AM.po/mnt/stockage/packages/f42/gigolo/po/hye.po | 
+ | [ie](/f42/language/ie) | 473 | 541 | 87.4 | /mnt/stockage/packages/f42/gigolo/po/ie.po | 
+ | [lv](/f42/language/lv) | 438 | 541 | 81.0 | /mnt/stockage/packages/f42/gigolo/po/lv.po | 
+ | [ur](/f42/language/ur) | 384 | 541 | 71.0 | /mnt/stockage/packages/f42/gigolo/po/ur.po | 
+ | [ur_PK](/f42/language/ur_PK) | 384 | 541 | 71.0 | /mnt/stockage/packages/f42/gigolo/po/ur_PK.po | 
+ | [te](/f42/language/te) | 165 | 541 | 30.5 | /mnt/stockage/packages/f42/gigolo/po/te.po | 
+ | [kk](/f42/language/kk) | 163 | 541 | 30.1 | /mnt/stockage/packages/f42/gigolo/po/kk.po | 
+ | [am](/f42/language/am) | 119 | 542 | 22.0 | /mnt/stockage/packages/f42/gigolo/po/am.po | 
+ | [eo](/f42/language/eo) | 51 | 493 | 10.3 | /mnt/stockage/packages/f42/gigolo/po/eo.po | 
 {.sortable}
 
 

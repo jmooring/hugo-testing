@@ -18,40 +18,40 @@ The package network-manager-netbook (version 1.8):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [bg]({{< ref "/f16/language/bg.md" >}}) | 473 | 473 | 100.0 | /mnt/stockage/packages/f16/network-manager-netbook/po/bg.po | 
- | [cs]({{< ref "/f16/language/cs.md" >}}) | 473 | 473 | 100.0 | /mnt/stockage/packages/f16/network-manager-netbook/po/cs.po | 
- | [da]({{< ref "/f16/language/da.md" >}}) | 473 | 473 | 100.0 | /mnt/stockage/packages/f16/network-manager-netbook/po/da.po | 
- | [de]({{< ref "/f16/language/de.md" >}}) | 473 | 473 | 100.0 | /mnt/stockage/packages/f16/network-manager-netbook/po/de.po | 
- | [el]({{< ref "/f16/language/el.md" >}}) | 473 | 473 | 100.0 | /mnt/stockage/packages/f16/network-manager-netbook/po/el.po | 
- | [es]({{< ref "/f16/language/es.md" >}}) | 473 | 473 | 100.0 | /mnt/stockage/packages/f16/network-manager-netbook/po/es.po | 
- | [et]({{< ref "/f16/language/et.md" >}}) | 473 | 473 | 100.0 | /mnt/stockage/packages/f16/network-manager-netbook/po/et.po | 
- | [eu]({{< ref "/f16/language/eu.md" >}}) | 473 | 473 | 100.0 | /mnt/stockage/packages/f16/network-manager-netbook/po/eu.po | 
- | [fr]({{< ref "/f16/language/fr.md" >}}) | 473 | 473 | 100.0 | /mnt/stockage/packages/f16/network-manager-netbook/po/fr.po | 
- | [gl]({{< ref "/f16/language/gl.md" >}}) | 473 | 473 | 100.0 | /mnt/stockage/packages/f16/network-manager-netbook/po/gl.po | 
- | [hu]({{< ref "/f16/language/hu.md" >}}) | 473 | 473 | 100.0 | /mnt/stockage/packages/f16/network-manager-netbook/po/hu.po | 
- | [id]({{< ref "/f16/language/id.md" >}}) | 473 | 473 | 100.0 | /mnt/stockage/packages/f16/network-manager-netbook/po/id.po | 
- | [lt]({{< ref "/f16/language/lt.md" >}}) | 473 | 473 | 100.0 | /mnt/stockage/packages/f16/network-manager-netbook/po/lt.po | 
- | [lv]({{< ref "/f16/language/lv.md" >}}) | 473 | 473 | 100.0 | /mnt/stockage/packages/f16/network-manager-netbook/po/lv.po | 
- | [pa]({{< ref "/f16/language/pa.md" >}}) | 473 | 473 | 100.0 | /mnt/stockage/packages/f16/network-manager-netbook/po/pa.po | 
- | [pl]({{< ref "/f16/language/pl.md" >}}) | 473 | 473 | 100.0 | /mnt/stockage/packages/f16/network-manager-netbook/po/pl.po | 
- | [pt]({{< ref "/f16/language/pt.md" >}}) | 473 | 473 | 100.0 | /mnt/stockage/packages/f16/network-manager-netbook/po/pt.po | 
- | [pt_BR]({{< ref "/f16/language/pt_BR.md" >}}) | 473 | 473 | 100.0 | /mnt/stockage/packages/f16/network-manager-netbook/po/pt_BR.po | 
- | [ru]({{< ref "/f16/language/ru.md" >}}) | 473 | 473 | 100.0 | /mnt/stockage/packages/f16/network-manager-netbook/po/ru.po | 
- | [sl]({{< ref "/f16/language/sl.md" >}}) | 473 | 473 | 100.0 | /mnt/stockage/packages/f16/network-manager-netbook/po/sl.po | 
- | [uk]({{< ref "/f16/language/uk.md" >}}) | 473 | 473 | 100.0 | /mnt/stockage/packages/f16/network-manager-netbook/po/uk.po | 
- | [zh_Hans]({{< ref "/f16/language/zh_Hans.md" >}}) | 473 | 473 | 100.0 | /mnt/stockage/packages/f16/network-manager-netbook/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f16/language/zh_Hant.md" >}}) | 460 | 473 | 97.3 | /mnt/stockage/packages/f16/network-manager-netbook/po/zh_TW.po | 
- | [zh_Hant_HK]({{< ref "/f16/language/zh_Hant_HK.md" >}}) | 460 | 473 | 97.3 | /mnt/stockage/packages/f16/network-manager-netbook/po/zh_HK.po | 
- | [sv]({{< ref "/f16/language/sv.md" >}}) | 439 | 473 | 92.8 | /mnt/stockage/packages/f16/network-manager-netbook/po/sv.po | 
- | [it]({{< ref "/f16/language/it.md" >}}) | 408 | 473 | 86.3 | /mnt/stockage/packages/f16/network-manager-netbook/po/it.po | 
- | [ar]({{< ref "/f16/language/ar.md" >}}) | 243 | 369 | 65.9 | /mnt/stockage/packages/f16/network-manager-netbook/po/ar.po | 
- | [fi]({{< ref "/f16/language/fi.md" >}}) | 243 | 369 | 65.9 | /mnt/stockage/packages/f16/network-manager-netbook/po/fi.po | 
- | [ja]({{< ref "/f16/language/ja.md" >}}) | 243 | 369 | 65.9 | /mnt/stockage/packages/f16/network-manager-netbook/po/ja.po | 
- | [ko]({{< ref "/f16/language/ko.md" >}}) | 243 | 369 | 65.9 | /mnt/stockage/packages/f16/network-manager-netbook/po/ko.po | 
- | [nl]({{< ref "/f16/language/nl.md" >}}) | 243 | 369 | 65.9 | /mnt/stockage/packages/f16/network-manager-netbook/po/nl.po | 
- | [tr]({{< ref "/f16/language/tr.md" >}}) | 243 | 369 | 65.9 | /mnt/stockage/packages/f16/network-manager-netbook/po/tr.po | 
- | [gu]({{< ref "/f16/language/gu.md" >}}) | 188 | 369 | 50.9 | /mnt/stockage/packages/f16/network-manager-netbook/po/gu.po | 
- | [nb_NO]({{< ref "/f16/language/nb_NO.md" >}}) | 148 | 473 | 31.3 | /mnt/stockage/packages/f16/network-manager-netbook/po/nb.po | 
+ | [bg](/f16/language/bg) | 473 | 473 | 100.0 | /mnt/stockage/packages/f16/network-manager-netbook/po/bg.po | 
+ | [cs](/f16/language/cs) | 473 | 473 | 100.0 | /mnt/stockage/packages/f16/network-manager-netbook/po/cs.po | 
+ | [da](/f16/language/da) | 473 | 473 | 100.0 | /mnt/stockage/packages/f16/network-manager-netbook/po/da.po | 
+ | [de](/f16/language/de) | 473 | 473 | 100.0 | /mnt/stockage/packages/f16/network-manager-netbook/po/de.po | 
+ | [el](/f16/language/el) | 473 | 473 | 100.0 | /mnt/stockage/packages/f16/network-manager-netbook/po/el.po | 
+ | [es](/f16/language/es) | 473 | 473 | 100.0 | /mnt/stockage/packages/f16/network-manager-netbook/po/es.po | 
+ | [et](/f16/language/et) | 473 | 473 | 100.0 | /mnt/stockage/packages/f16/network-manager-netbook/po/et.po | 
+ | [eu](/f16/language/eu) | 473 | 473 | 100.0 | /mnt/stockage/packages/f16/network-manager-netbook/po/eu.po | 
+ | [fr](/f16/language/fr) | 473 | 473 | 100.0 | /mnt/stockage/packages/f16/network-manager-netbook/po/fr.po | 
+ | [gl](/f16/language/gl) | 473 | 473 | 100.0 | /mnt/stockage/packages/f16/network-manager-netbook/po/gl.po | 
+ | [hu](/f16/language/hu) | 473 | 473 | 100.0 | /mnt/stockage/packages/f16/network-manager-netbook/po/hu.po | 
+ | [id](/f16/language/id) | 473 | 473 | 100.0 | /mnt/stockage/packages/f16/network-manager-netbook/po/id.po | 
+ | [lt](/f16/language/lt) | 473 | 473 | 100.0 | /mnt/stockage/packages/f16/network-manager-netbook/po/lt.po | 
+ | [lv](/f16/language/lv) | 473 | 473 | 100.0 | /mnt/stockage/packages/f16/network-manager-netbook/po/lv.po | 
+ | [pa](/f16/language/pa) | 473 | 473 | 100.0 | /mnt/stockage/packages/f16/network-manager-netbook/po/pa.po | 
+ | [pl](/f16/language/pl) | 473 | 473 | 100.0 | /mnt/stockage/packages/f16/network-manager-netbook/po/pl.po | 
+ | [pt](/f16/language/pt) | 473 | 473 | 100.0 | /mnt/stockage/packages/f16/network-manager-netbook/po/pt.po | 
+ | [pt_BR](/f16/language/pt_BR) | 473 | 473 | 100.0 | /mnt/stockage/packages/f16/network-manager-netbook/po/pt_BR.po | 
+ | [ru](/f16/language/ru) | 473 | 473 | 100.0 | /mnt/stockage/packages/f16/network-manager-netbook/po/ru.po | 
+ | [sl](/f16/language/sl) | 473 | 473 | 100.0 | /mnt/stockage/packages/f16/network-manager-netbook/po/sl.po | 
+ | [uk](/f16/language/uk) | 473 | 473 | 100.0 | /mnt/stockage/packages/f16/network-manager-netbook/po/uk.po | 
+ | [zh_Hans](/f16/language/zh_Hans) | 473 | 473 | 100.0 | /mnt/stockage/packages/f16/network-manager-netbook/po/zh_CN.po | 
+ | [zh_Hant](/f16/language/zh_Hant) | 460 | 473 | 97.3 | /mnt/stockage/packages/f16/network-manager-netbook/po/zh_TW.po | 
+ | [zh_Hant_HK](/f16/language/zh_Hant_HK) | 460 | 473 | 97.3 | /mnt/stockage/packages/f16/network-manager-netbook/po/zh_HK.po | 
+ | [sv](/f16/language/sv) | 439 | 473 | 92.8 | /mnt/stockage/packages/f16/network-manager-netbook/po/sv.po | 
+ | [it](/f16/language/it) | 408 | 473 | 86.3 | /mnt/stockage/packages/f16/network-manager-netbook/po/it.po | 
+ | [ar](/f16/language/ar) | 243 | 369 | 65.9 | /mnt/stockage/packages/f16/network-manager-netbook/po/ar.po | 
+ | [fi](/f16/language/fi) | 243 | 369 | 65.9 | /mnt/stockage/packages/f16/network-manager-netbook/po/fi.po | 
+ | [ja](/f16/language/ja) | 243 | 369 | 65.9 | /mnt/stockage/packages/f16/network-manager-netbook/po/ja.po | 
+ | [ko](/f16/language/ko) | 243 | 369 | 65.9 | /mnt/stockage/packages/f16/network-manager-netbook/po/ko.po | 
+ | [nl](/f16/language/nl) | 243 | 369 | 65.9 | /mnt/stockage/packages/f16/network-manager-netbook/po/nl.po | 
+ | [tr](/f16/language/tr) | 243 | 369 | 65.9 | /mnt/stockage/packages/f16/network-manager-netbook/po/tr.po | 
+ | [gu](/f16/language/gu) | 188 | 369 | 50.9 | /mnt/stockage/packages/f16/network-manager-netbook/po/gu.po | 
+ | [nb_NO](/f16/language/nb_NO) | 148 | 473 | 31.3 | /mnt/stockage/packages/f16/network-manager-netbook/po/nb.po | 
 {.sortable}
 
 

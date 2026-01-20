@@ -18,10 +18,10 @@ The package django-robots (version 0.8.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [da]({{< ref "/f17/language/da.md" >}}) | 211 | 211 | 100.0 | /mnt/stockage/packages/f17/django-robots/robots/locale/da/LC_MESSAGES/django.po | 
- | [de]({{< ref "/f17/language/de.md" >}}) | 211 | 211 | 100.0 | /mnt/stockage/packages/f17/django-robots/robots/locale/de/LC_MESSAGES/django.po | 
- | [fr]({{< ref "/f17/language/fr.md" >}}) | 122 | 211 | 57.8 | /mnt/stockage/packages/f17/django-robots/robots/locale/fr/LC_MESSAGES/django.po | 
- | [en]({{< ref "/f17/language/en.md" >}}) | 0 | 211 | 0.0 | /mnt/stockage/packages/f17/django-robots/robots/locale/en/LC_MESSAGES/django.po | 
+ | [da](/f17/language/da) | 211 | 211 | 100.0 | /mnt/stockage/packages/f17/django-robots/robots/locale/da/LC_MESSAGES/django.po | 
+ | [de](/f17/language/de) | 211 | 211 | 100.0 | /mnt/stockage/packages/f17/django-robots/robots/locale/de/LC_MESSAGES/django.po | 
+ | [fr](/f17/language/fr) | 122 | 211 | 57.8 | /mnt/stockage/packages/f17/django-robots/robots/locale/fr/LC_MESSAGES/django.po | 
+ | [en](/f17/language/en) | 0 | 211 | 0.0 | /mnt/stockage/packages/f17/django-robots/robots/locale/en/LC_MESSAGES/django.po | 
 {.sortable}
 
 

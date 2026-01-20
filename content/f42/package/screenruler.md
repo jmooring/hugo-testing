@@ -18,7 +18,7 @@ The package screenruler (version 1.2.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f42/language/fr.md" >}}) | 12 | 12 | 100.0 | /mnt/stockage/packages/f42/screenruler/locale/fr.po | 
+ | [fr](/f42/language/fr) | 12 | 12 | 100.0 | /mnt/stockage/packages/f42/screenruler/locale/fr.po | 
 {.sortable}
 
 

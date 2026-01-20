@@ -18,8 +18,8 @@ The package cbrpager (version 0.9.18):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f7/language/fr.md" >}}) | 205 | 208 | 98.6 | /mnt/stockage/packages/f7/cbrpager/po/fr.po | 
- | [es]({{< ref "/f7/language/es.md" >}}) | 203 | 208 | 97.6 | /mnt/stockage/packages/f7/cbrpager/po/es.po | 
+ | [fr](/f7/language/fr) | 205 | 208 | 98.6 | /mnt/stockage/packages/f7/cbrpager/po/fr.po | 
+ | [es](/f7/language/es) | 203 | 208 | 97.6 | /mnt/stockage/packages/f7/cbrpager/po/es.po | 
 {.sortable}
 
 

@@ -38,7 +38,7 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [iso-codes]({{< ref "/f36/package/iso-codes.md" >}}) | 22 | 1090 | 2.0 | Hawaiian <https://hosted.weblate.org/projects/iso-codes/iso-3166-1/haw/> | 
+ | [iso-codes](/f36/package/iso-codes) | 22 | 1090 | 2.0 | Hawaiian <https://hosted.weblate.org/projects/iso-codes/iso-3166-1/haw/> | 
 {.sortable}
 
 

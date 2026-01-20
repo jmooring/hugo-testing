@@ -39,12 +39,12 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [virtaal]({{< ref "/f13/package/virtaal.md" >}}) | 1302 | 1309 | 99.5 | translate-discuss-st@lists.sourceforge.net | 
- | [pootle]({{< ref "/f13/package/pootle.md" >}}) | 138 | 2424 | 5.7 | English South Africa <en@li.org> | 
- | [gnomebaker]({{< ref "/f13/package/gnomebaker.md" >}}) | 0 | 1186 | 0.0 | Sotho, Southern <st@li.org> | 
- | [liblicense]({{< ref "/f13/package/liblicense.md" >}}) | 0 | 66 | 0.0 | LANGUAGE <LL@li.org> | 
- | [olpc-switch-desktop]({{< ref "/f13/package/olpc-switch-desktop.md" >}}) | 0 | 158 | 0.0 | LANGUAGE <LL@li.org> | 
- | [vidalia]({{< ref "/f13/package/vidalia.md" >}}) | 0 | 9310 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [virtaal](/f13/package/virtaal) | 1302 | 1309 | 99.5 | translate-discuss-st@lists.sourceforge.net | 
+ | [pootle](/f13/package/pootle) | 138 | 2424 | 5.7 | English South Africa <en@li.org> | 
+ | [gnomebaker](/f13/package/gnomebaker) | 0 | 1186 | 0.0 | Sotho, Southern <st@li.org> | 
+ | [liblicense](/f13/package/liblicense) | 0 | 66 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [olpc-switch-desktop](/f13/package/olpc-switch-desktop) | 0 | 158 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [vidalia](/f13/package/vidalia) | 0 | 9310 | 0.0 | LANGUAGE <LL@li.org> | 
 {.sortable}
 
 

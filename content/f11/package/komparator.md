@@ -18,11 +18,11 @@ The package komparator (version 0.9):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f11/language/de.md" >}}) | 2587 | 2587 | 100.0 | /mnt/stockage/packages/f11/komparator/po/de.po | 
- | [fr]({{< ref "/f11/language/fr.md" >}}) | 2587 | 2587 | 100.0 | /mnt/stockage/packages/f11/komparator/po/fr.po | 
- | [it]({{< ref "/f11/language/it.md" >}}) | 2587 | 2587 | 100.0 | /mnt/stockage/packages/f11/komparator/po/it.po | 
- | [nl]({{< ref "/f11/language/nl.md" >}}) | 2587 | 2587 | 100.0 | /mnt/stockage/packages/f11/komparator/po/nl.po | 
- | [ru]({{< ref "/f11/language/ru.md" >}}) | 1358 | 2587 | 52.5 | /mnt/stockage/packages/f11/komparator/po/ru.po | 
+ | [de](/f11/language/de) | 2587 | 2587 | 100.0 | /mnt/stockage/packages/f11/komparator/po/de.po | 
+ | [fr](/f11/language/fr) | 2587 | 2587 | 100.0 | /mnt/stockage/packages/f11/komparator/po/fr.po | 
+ | [it](/f11/language/it) | 2587 | 2587 | 100.0 | /mnt/stockage/packages/f11/komparator/po/it.po | 
+ | [nl](/f11/language/nl) | 2587 | 2587 | 100.0 | /mnt/stockage/packages/f11/komparator/po/nl.po | 
+ | [ru](/f11/language/ru) | 1358 | 2587 | 52.5 | /mnt/stockage/packages/f11/komparator/po/ru.po | 
 {.sortable}
 
 

@@ -18,19 +18,19 @@ The package e2fsprogs (version 1.42.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f17/language/cs.md" >}}) | 7663 | 7663 | 100.0 | /mnt/stockage/packages/f17/e2fsprogs/po/cs.po | 
- | [de]({{< ref "/f17/language/de.md" >}}) | 7663 | 7663 | 100.0 | /mnt/stockage/packages/f17/e2fsprogs/po/de.po | 
- | [fr]({{< ref "/f17/language/fr.md" >}}) | 7663 | 7663 | 100.0 | /mnt/stockage/packages/f17/e2fsprogs/po/fr.po | 
- | [nl]({{< ref "/f17/language/nl.md" >}}) | 7663 | 7663 | 100.0 | /mnt/stockage/packages/f17/e2fsprogs/po/nl.po | 
- | [pl]({{< ref "/f17/language/pl.md" >}}) | 7663 | 7663 | 100.0 | /mnt/stockage/packages/f17/e2fsprogs/po/pl.po | 
- | [sv]({{< ref "/f17/language/sv.md" >}}) | 7663 | 7663 | 100.0 | /mnt/stockage/packages/f17/e2fsprogs/po/sv.po | 
- | [vi]({{< ref "/f17/language/vi.md" >}}) | 7663 | 7663 | 100.0 | /mnt/stockage/packages/f17/e2fsprogs/po/vi.po | 
- | [id]({{< ref "/f17/language/id.md" >}}) | 5917 | 6045 | 97.9 | /mnt/stockage/packages/f17/e2fsprogs/po/id.po | 
- | [es]({{< ref "/f17/language/es.md" >}}) | 4436 | 5745 | 77.2 | /mnt/stockage/packages/f17/e2fsprogs/po/es.po | 
- | [ca]({{< ref "/f17/language/ca.md" >}}) | 4350 | 5745 | 75.7 | /mnt/stockage/packages/f17/e2fsprogs/po/ca.po | 
- | [tr]({{< ref "/f17/language/tr.md" >}}) | 4158 | 5745 | 72.4 | /mnt/stockage/packages/f17/e2fsprogs/po/tr.po | 
- | [it]({{< ref "/f17/language/it.md" >}}) | 2863 | 5745 | 49.8 | /mnt/stockage/packages/f17/e2fsprogs/po/it.po | 
- | [zh_Hans]({{< ref "/f17/language/zh_Hans.md" >}}) | 1298 | 6045 | 21.5 | /mnt/stockage/packages/f17/e2fsprogs/po/zh_CN.po | 
+ | [cs](/f17/language/cs) | 7663 | 7663 | 100.0 | /mnt/stockage/packages/f17/e2fsprogs/po/cs.po | 
+ | [de](/f17/language/de) | 7663 | 7663 | 100.0 | /mnt/stockage/packages/f17/e2fsprogs/po/de.po | 
+ | [fr](/f17/language/fr) | 7663 | 7663 | 100.0 | /mnt/stockage/packages/f17/e2fsprogs/po/fr.po | 
+ | [nl](/f17/language/nl) | 7663 | 7663 | 100.0 | /mnt/stockage/packages/f17/e2fsprogs/po/nl.po | 
+ | [pl](/f17/language/pl) | 7663 | 7663 | 100.0 | /mnt/stockage/packages/f17/e2fsprogs/po/pl.po | 
+ | [sv](/f17/language/sv) | 7663 | 7663 | 100.0 | /mnt/stockage/packages/f17/e2fsprogs/po/sv.po | 
+ | [vi](/f17/language/vi) | 7663 | 7663 | 100.0 | /mnt/stockage/packages/f17/e2fsprogs/po/vi.po | 
+ | [id](/f17/language/id) | 5917 | 6045 | 97.9 | /mnt/stockage/packages/f17/e2fsprogs/po/id.po | 
+ | [es](/f17/language/es) | 4436 | 5745 | 77.2 | /mnt/stockage/packages/f17/e2fsprogs/po/es.po | 
+ | [ca](/f17/language/ca) | 4350 | 5745 | 75.7 | /mnt/stockage/packages/f17/e2fsprogs/po/ca.po | 
+ | [tr](/f17/language/tr) | 4158 | 5745 | 72.4 | /mnt/stockage/packages/f17/e2fsprogs/po/tr.po | 
+ | [it](/f17/language/it) | 2863 | 5745 | 49.8 | /mnt/stockage/packages/f17/e2fsprogs/po/it.po | 
+ | [zh_Hans](/f17/language/zh_Hans) | 1298 | 6045 | 21.5 | /mnt/stockage/packages/f17/e2fsprogs/po/zh_CN.po | 
 {.sortable}
 
 

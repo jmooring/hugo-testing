@@ -18,14 +18,14 @@ The package vgrive (version 1.6.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f35/language/ca.md" >}}) | 378 | 378 | 100.0 | /mnt/stockage/packages/f35/vgrive/po/ca.po | 
- | [it]({{< ref "/f35/language/it.md" >}}) | 378 | 378 | 100.0 | /mnt/stockage/packages/f35/vgrive/po/it.po | 
- | [nl]({{< ref "/f35/language/nl.md" >}}) | 378 | 378 | 100.0 | /mnt/stockage/packages/f35/vgrive/po/nl.po | 
- | [fr]({{< ref "/f35/language/fr.md" >}}) | 365 | 378 | 96.6 | /mnt/stockage/packages/f35/vgrive/po/fr.po | 
- | [pt_BR]({{< ref "/f35/language/pt_BR.md" >}}) | 331 | 378 | 87.6 | /mnt/stockage/packages/f35/vgrive/po/pt_br.po | 
- | [es]({{< ref "/f35/language/es.md" >}}) | 319 | 378 | 84.4 | /mnt/stockage/packages/f35/vgrive/po/es.po | 
- | [gl]({{< ref "/f35/language/gl.md" >}}) | 228 | 378 | 60.3 | /mnt/stockage/packages/f35/vgrive/po/gl.po | 
- | [pl]({{< ref "/f35/language/pl.md" >}}) | 210 | 378 | 55.6 | /mnt/stockage/packages/f35/vgrive/po/pl.po | 
+ | [ca](/f35/language/ca) | 378 | 378 | 100.0 | /mnt/stockage/packages/f35/vgrive/po/ca.po | 
+ | [it](/f35/language/it) | 378 | 378 | 100.0 | /mnt/stockage/packages/f35/vgrive/po/it.po | 
+ | [nl](/f35/language/nl) | 378 | 378 | 100.0 | /mnt/stockage/packages/f35/vgrive/po/nl.po | 
+ | [fr](/f35/language/fr) | 365 | 378 | 96.6 | /mnt/stockage/packages/f35/vgrive/po/fr.po | 
+ | [pt_BR](/f35/language/pt_BR) | 331 | 378 | 87.6 | /mnt/stockage/packages/f35/vgrive/po/pt_br.po | 
+ | [es](/f35/language/es) | 319 | 378 | 84.4 | /mnt/stockage/packages/f35/vgrive/po/es.po | 
+ | [gl](/f35/language/gl) | 228 | 378 | 60.3 | /mnt/stockage/packages/f35/vgrive/po/gl.po | 
+ | [pl](/f35/language/pl) | 210 | 378 | 55.6 | /mnt/stockage/packages/f35/vgrive/po/pl.po | 
 {.sortable}
 
 

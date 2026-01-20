@@ -18,41 +18,41 @@ The package catfish (version 1.4.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f24/language/fr.md" >}}) | 650 | 650 | 100.0 | /mnt/stockage/packages/f24/catfish/po/fr.po | 
- | [lt]({{< ref "/f24/language/lt.md" >}}) | 650 | 650 | 100.0 | /mnt/stockage/packages/f24/catfish/po/lt.po | 
- | [nl]({{< ref "/f24/language/nl.md" >}}) | 650 | 650 | 100.0 | /mnt/stockage/packages/f24/catfish/po/nl.po | 
- | [sv]({{< ref "/f24/language/sv.md" >}}) | 650 | 650 | 100.0 | /mnt/stockage/packages/f24/catfish/po/sv.po | 
- | [de]({{< ref "/f24/language/de.md" >}}) | 560 | 650 | 86.2 | /mnt/stockage/packages/f24/catfish/po/de.po | 
- | [el]({{< ref "/f24/language/el.md" >}}) | 560 | 650 | 86.2 | /mnt/stockage/packages/f24/catfish/po/el.po | 
- | [es]({{< ref "/f24/language/es.md" >}}) | 560 | 650 | 86.2 | /mnt/stockage/packages/f24/catfish/po/es.po | 
- | [fi]({{< ref "/f24/language/fi.md" >}}) | 560 | 650 | 86.2 | /mnt/stockage/packages/f24/catfish/po/fi.po | 
- | [pt]({{< ref "/f24/language/pt.md" >}}) | 560 | 650 | 86.2 | /mnt/stockage/packages/f24/catfish/po/pt.po | 
- | [sr]({{< ref "/f24/language/sr.md" >}}) | 560 | 650 | 86.2 | /mnt/stockage/packages/f24/catfish/po/sr.po | 
- | [en_AU]({{< ref "/f24/language/en_AU.md" >}}) | 550 | 650 | 84.6 | /mnt/stockage/packages/f24/catfish/po/en_AU.po | 
- | [ja]({{< ref "/f24/language/ja.md" >}}) | 516 | 650 | 79.4 | /mnt/stockage/packages/f24/catfish/po/ja.po | 
- | [cs]({{< ref "/f24/language/cs.md" >}}) | 507 | 650 | 78.0 | /mnt/stockage/packages/f24/catfish/po/cs.po | 
- | [it]({{< ref "/f24/language/it.md" >}}) | 507 | 650 | 78.0 | /mnt/stockage/packages/f24/catfish/po/it.po | 
- | [pt_BR]({{< ref "/f24/language/pt_BR.md" >}}) | 482 | 650 | 74.2 | /mnt/stockage/packages/f24/catfish/po/pt_BR.po | 
- | [pl]({{< ref "/f24/language/pl.md" >}}) | 470 | 650 | 72.3 | /mnt/stockage/packages/f24/catfish/po/pl.po | 
- | [ru]({{< ref "/f24/language/ru.md" >}}) | 416 | 650 | 64.0 | /mnt/stockage/packages/f24/catfish/po/ru.po | 
- | [is]({{< ref "/f24/language/is.md" >}}) | 391 | 650 | 60.2 | /mnt/stockage/packages/f24/catfish/po/is.po | 
- | [zh_Hans]({{< ref "/f24/language/zh_Hans.md" >}}) | 391 | 650 | 60.2 | /mnt/stockage/packages/f24/catfish/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f24/language/zh_Hant.md" >}}) | 212 | 650 | 32.6 | /mnt/stockage/packages/f24/catfish/po/zh_TW.po | 
- | [bg]({{< ref "/f24/language/bg.md" >}}) | 174 | 650 | 26.8 | /mnt/stockage/packages/f24/catfish/po/bg.po | 
- | [ca]({{< ref "/f24/language/ca.md" >}}) | 169 | 650 | 26.0 | /mnt/stockage/packages/f24/catfish/po/ca.po | 
- | [tr]({{< ref "/f24/language/tr.md" >}}) | 167 | 650 | 25.7 | /mnt/stockage/packages/f24/catfish/po/tr.po | 
- | [si]({{< ref "/f24/language/si.md" >}}) | 166 | 650 | 25.5 | /mnt/stockage/packages/f24/catfish/po/si.po | 
- | [lv]({{< ref "/f24/language/lv.md" >}}) | 149 | 650 | 22.9 | /mnt/stockage/packages/f24/catfish/po/lv.po | 
- | [ar]({{< ref "/f24/language/ar.md" >}}) | 135 | 650 | 20.8 | /mnt/stockage/packages/f24/catfish/po/ar.po | 
- | [sk]({{< ref "/f24/language/sk.md" >}}) | 127 | 650 | 19.5 | /mnt/stockage/packages/f24/catfish/po/sk.po | 
- | [hr]({{< ref "/f24/language/hr.md" >}}) | 104 | 650 | 16.0 | /mnt/stockage/packages/f24/catfish/po/hr.po | 
- | [uk]({{< ref "/f24/language/uk.md" >}}) | 183 | 1300 | 14.1 | /mnt/stockage/packages/f24/catfish/po/hu.po/mnt/stockage/packages/f24/catfish/po/uk.po | 
- | [eo]({{< ref "/f24/language/eo.md" >}}) | 90 | 650 | 13.8 | /mnt/stockage/packages/f24/catfish/po/eo.po | 
- | [ko]({{< ref "/f24/language/ko.md" >}}) | 81 | 650 | 12.5 | /mnt/stockage/packages/f24/catfish/po/ko.po | 
- | [id]({{< ref "/f24/language/id.md" >}}) | 34 | 650 | 5.2 | /mnt/stockage/packages/f24/catfish/po/id.po | 
- | [be]({{< ref "/f24/language/be.md" >}}) | 22 | 650 | 3.4 | /mnt/stockage/packages/f24/catfish/po/be.po | 
- | [ml]({{< ref "/f24/language/ml.md" >}}) | 13 | 650 | 2.0 | /mnt/stockage/packages/f24/catfish/po/ml.po | 
- | [eu]({{< ref "/f24/language/eu.md" >}}) | 12 | 650 | 1.8 | /mnt/stockage/packages/f24/catfish/po/eu.po | 
+ | [fr](/f24/language/fr) | 650 | 650 | 100.0 | /mnt/stockage/packages/f24/catfish/po/fr.po | 
+ | [lt](/f24/language/lt) | 650 | 650 | 100.0 | /mnt/stockage/packages/f24/catfish/po/lt.po | 
+ | [nl](/f24/language/nl) | 650 | 650 | 100.0 | /mnt/stockage/packages/f24/catfish/po/nl.po | 
+ | [sv](/f24/language/sv) | 650 | 650 | 100.0 | /mnt/stockage/packages/f24/catfish/po/sv.po | 
+ | [de](/f24/language/de) | 560 | 650 | 86.2 | /mnt/stockage/packages/f24/catfish/po/de.po | 
+ | [el](/f24/language/el) | 560 | 650 | 86.2 | /mnt/stockage/packages/f24/catfish/po/el.po | 
+ | [es](/f24/language/es) | 560 | 650 | 86.2 | /mnt/stockage/packages/f24/catfish/po/es.po | 
+ | [fi](/f24/language/fi) | 560 | 650 | 86.2 | /mnt/stockage/packages/f24/catfish/po/fi.po | 
+ | [pt](/f24/language/pt) | 560 | 650 | 86.2 | /mnt/stockage/packages/f24/catfish/po/pt.po | 
+ | [sr](/f24/language/sr) | 560 | 650 | 86.2 | /mnt/stockage/packages/f24/catfish/po/sr.po | 
+ | [en_AU](/f24/language/en_AU) | 550 | 650 | 84.6 | /mnt/stockage/packages/f24/catfish/po/en_AU.po | 
+ | [ja](/f24/language/ja) | 516 | 650 | 79.4 | /mnt/stockage/packages/f24/catfish/po/ja.po | 
+ | [cs](/f24/language/cs) | 507 | 650 | 78.0 | /mnt/stockage/packages/f24/catfish/po/cs.po | 
+ | [it](/f24/language/it) | 507 | 650 | 78.0 | /mnt/stockage/packages/f24/catfish/po/it.po | 
+ | [pt_BR](/f24/language/pt_BR) | 482 | 650 | 74.2 | /mnt/stockage/packages/f24/catfish/po/pt_BR.po | 
+ | [pl](/f24/language/pl) | 470 | 650 | 72.3 | /mnt/stockage/packages/f24/catfish/po/pl.po | 
+ | [ru](/f24/language/ru) | 416 | 650 | 64.0 | /mnt/stockage/packages/f24/catfish/po/ru.po | 
+ | [is](/f24/language/is) | 391 | 650 | 60.2 | /mnt/stockage/packages/f24/catfish/po/is.po | 
+ | [zh_Hans](/f24/language/zh_Hans) | 391 | 650 | 60.2 | /mnt/stockage/packages/f24/catfish/po/zh_CN.po | 
+ | [zh_Hant](/f24/language/zh_Hant) | 212 | 650 | 32.6 | /mnt/stockage/packages/f24/catfish/po/zh_TW.po | 
+ | [bg](/f24/language/bg) | 174 | 650 | 26.8 | /mnt/stockage/packages/f24/catfish/po/bg.po | 
+ | [ca](/f24/language/ca) | 169 | 650 | 26.0 | /mnt/stockage/packages/f24/catfish/po/ca.po | 
+ | [tr](/f24/language/tr) | 167 | 650 | 25.7 | /mnt/stockage/packages/f24/catfish/po/tr.po | 
+ | [si](/f24/language/si) | 166 | 650 | 25.5 | /mnt/stockage/packages/f24/catfish/po/si.po | 
+ | [lv](/f24/language/lv) | 149 | 650 | 22.9 | /mnt/stockage/packages/f24/catfish/po/lv.po | 
+ | [ar](/f24/language/ar) | 135 | 650 | 20.8 | /mnt/stockage/packages/f24/catfish/po/ar.po | 
+ | [sk](/f24/language/sk) | 127 | 650 | 19.5 | /mnt/stockage/packages/f24/catfish/po/sk.po | 
+ | [hr](/f24/language/hr) | 104 | 650 | 16.0 | /mnt/stockage/packages/f24/catfish/po/hr.po | 
+ | [uk](/f24/language/uk) | 183 | 1300 | 14.1 | /mnt/stockage/packages/f24/catfish/po/hu.po/mnt/stockage/packages/f24/catfish/po/uk.po | 
+ | [eo](/f24/language/eo) | 90 | 650 | 13.8 | /mnt/stockage/packages/f24/catfish/po/eo.po | 
+ | [ko](/f24/language/ko) | 81 | 650 | 12.5 | /mnt/stockage/packages/f24/catfish/po/ko.po | 
+ | [id](/f24/language/id) | 34 | 650 | 5.2 | /mnt/stockage/packages/f24/catfish/po/id.po | 
+ | [be](/f24/language/be) | 22 | 650 | 3.4 | /mnt/stockage/packages/f24/catfish/po/be.po | 
+ | [ml](/f24/language/ml) | 13 | 650 | 2.0 | /mnt/stockage/packages/f24/catfish/po/ml.po | 
+ | [eu](/f24/language/eu) | 12 | 650 | 1.8 | /mnt/stockage/packages/f24/catfish/po/eu.po | 
 {.sortable}
 
 

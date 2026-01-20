@@ -38,24 +38,24 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [alacarte]({{< ref "/f23/package/alacarte.md" >}}) | 42 | 42 | 100.0 | Ido <gnome-ido@lists.mterry.name> | 
- | [lxmenu-data]({{< ref "/f23/package/lxmenu-data.md" >}}) | 52 | 97 | 53.6 | Ido <gnome-ido@lists.mterry.name> | 
- | [gnome-menus]({{< ref "/f23/package/gnome-menus.md" >}}) | 86 | 165 | 52.1 | Ido <gnome-ido@lists.mterry.name> | 
- | [mate-menus]({{< ref "/f23/package/mate-menus.md" >}}) | 86 | 165 | 52.1 | Ido <mate-ido@lists.mterry.name> | 
- | [python-django]({{< ref "/f23/package/python-django.md" >}}) | 1513 | 3327 | 45.5 | Ido (http://www.transifex.com/projects/p/django/language/io/) | 
- | [gdk-pixbuf2]({{< ref "/f23/package/gdk-pixbuf2.md" >}}) | 299 | 1348 | 22.2 | Ido <gnome-ido@lists.mterry.name> | 
- | [mingw-gdk-pixbuf]({{< ref "/f23/package/mingw-gdk-pixbuf.md" >}}) | 299 | 1348 | 22.2 | Ido <gnome-ido@lists.mterry.name> | 
- | [nautilus]({{< ref "/f23/package/nautilus.md" >}}) | 1293 | 7454 | 17.3 | Ido <gnome-ido@lists.mterry.name> | 
- | [python-django-formtools]({{< ref "/f23/package/python-django-formtools.md" >}}) | 5 | 32 | 15.6 | Ido (http://www.transifex.com/projects/p/django-formtools/language/io/) | 
- | [gtk2]({{< ref "/f23/package/gtk2.md" >}}) | 1168 | 13704 | 8.5 | Ido <gnome-ido@lists.mterry.name> | 
- | [mingw-gtk2]({{< ref "/f23/package/mingw-gtk2.md" >}}) | 1168 | 13704 | 8.5 | Ido <gnome-ido@lists.mterry.name> | 
- | [gtk3]({{< ref "/f23/package/gtk3.md" >}}) | 782 | 11853 | 6.6 | Ido <gnome-ido@lists.mterry.name> | 
- | [mingw-gtk3]({{< ref "/f23/package/mingw-gtk3.md" >}}) | 782 | 11853 | 6.6 | Ido <gnome-ido@lists.mterry.name> | 
- | [librfm]({{< ref "/f23/package/librfm.md" >}}) | 64 | 2397 | 2.7 | Ido <gnome-ido@lists.mterry.name> | 
- | [duplicity]({{< ref "/f23/package/duplicity.md" >}}) | 68 | 3632 | 1.9 | Ido | 
- | [deja-dup]({{< ref "/f23/package/deja-dup.md" >}}) | 31 | 2011 | 1.5 | Ido <io@li.org> | 
- | [isomaster]({{< ref "/f23/package/isomaster.md" >}}) | 8 | 674 | 1.2 | http://littlesvr.ca/ostd/ | 
- | [rodent]({{< ref "/f23/package/rodent.md" >}}) | 71 | 9634 | 0.7 | Ido <gnome-ido@lists.mterry.name> | 
+ | [alacarte](/f23/package/alacarte) | 42 | 42 | 100.0 | Ido <gnome-ido@lists.mterry.name> | 
+ | [lxmenu-data](/f23/package/lxmenu-data) | 52 | 97 | 53.6 | Ido <gnome-ido@lists.mterry.name> | 
+ | [gnome-menus](/f23/package/gnome-menus) | 86 | 165 | 52.1 | Ido <gnome-ido@lists.mterry.name> | 
+ | [mate-menus](/f23/package/mate-menus) | 86 | 165 | 52.1 | Ido <mate-ido@lists.mterry.name> | 
+ | [python-django](/f23/package/python-django) | 1513 | 3327 | 45.5 | Ido (http://www.transifex.com/projects/p/django/language/io/) | 
+ | [gdk-pixbuf2](/f23/package/gdk-pixbuf2) | 299 | 1348 | 22.2 | Ido <gnome-ido@lists.mterry.name> | 
+ | [mingw-gdk-pixbuf](/f23/package/mingw-gdk-pixbuf) | 299 | 1348 | 22.2 | Ido <gnome-ido@lists.mterry.name> | 
+ | [nautilus](/f23/package/nautilus) | 1293 | 7454 | 17.3 | Ido <gnome-ido@lists.mterry.name> | 
+ | [python-django-formtools](/f23/package/python-django-formtools) | 5 | 32 | 15.6 | Ido (http://www.transifex.com/projects/p/django-formtools/language/io/) | 
+ | [gtk2](/f23/package/gtk2) | 1168 | 13704 | 8.5 | Ido <gnome-ido@lists.mterry.name> | 
+ | [mingw-gtk2](/f23/package/mingw-gtk2) | 1168 | 13704 | 8.5 | Ido <gnome-ido@lists.mterry.name> | 
+ | [gtk3](/f23/package/gtk3) | 782 | 11853 | 6.6 | Ido <gnome-ido@lists.mterry.name> | 
+ | [mingw-gtk3](/f23/package/mingw-gtk3) | 782 | 11853 | 6.6 | Ido <gnome-ido@lists.mterry.name> | 
+ | [librfm](/f23/package/librfm) | 64 | 2397 | 2.7 | Ido <gnome-ido@lists.mterry.name> | 
+ | [duplicity](/f23/package/duplicity) | 68 | 3632 | 1.9 | Ido | 
+ | [deja-dup](/f23/package/deja-dup) | 31 | 2011 | 1.5 | Ido <io@li.org> | 
+ | [isomaster](/f23/package/isomaster) | 8 | 674 | 1.2 | http://littlesvr.ca/ostd/ | 
+ | [rodent](/f23/package/rodent) | 71 | 9634 | 0.7 | Ido <gnome-ido@lists.mterry.name> | 
 {.sortable}
 
 

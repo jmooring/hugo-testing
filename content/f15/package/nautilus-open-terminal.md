@@ -18,65 +18,65 @@ The package nautilus-open-terminal (version 0.19):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [as]({{< ref "/f15/language/as.md" >}}) | 166 | 166 | 100.0 | /mnt/stockage/packages/f15/nautilus-open-terminal/po/as.po | 
- | [be]({{< ref "/f15/language/be.md" >}}) | 166 | 166 | 100.0 | /mnt/stockage/packages/f15/nautilus-open-terminal/po/be.po | 
- | [bg]({{< ref "/f15/language/bg.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f15/nautilus-open-terminal/po/bg.po | 
- | [bn_IN]({{< ref "/f15/language/bn_IN.md" >}}) | 166 | 166 | 100.0 | /mnt/stockage/packages/f15/nautilus-open-terminal/po/bn_IN.po | 
- | [ca]({{< ref "/f15/language/ca.md" >}}) | 166 | 166 | 100.0 | /mnt/stockage/packages/f15/nautilus-open-terminal/po/ca.po | 
- | [ca@valencia]({{< ref "/f15/language/ca@valencia.md" >}}) | 166 | 166 | 100.0 | /mnt/stockage/packages/f15/nautilus-open-terminal/po/ca@valencia.po | 
- | [cs]({{< ref "/f15/language/cs.md" >}}) | 166 | 166 | 100.0 | /mnt/stockage/packages/f15/nautilus-open-terminal/po/cs.po | 
- | [da]({{< ref "/f15/language/da.md" >}}) | 166 | 166 | 100.0 | /mnt/stockage/packages/f15/nautilus-open-terminal/po/da.po | 
- | [de]({{< ref "/f15/language/de.md" >}}) | 166 | 166 | 100.0 | /mnt/stockage/packages/f15/nautilus-open-terminal/po/de.po | 
- | [dz]({{< ref "/f15/language/dz.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f15/nautilus-open-terminal/po/dz.po | 
- | [el]({{< ref "/f15/language/el.md" >}}) | 166 | 166 | 100.0 | /mnt/stockage/packages/f15/nautilus-open-terminal/po/el.po | 
- | [en_CA]({{< ref "/f15/language/en_CA.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f15/nautilus-open-terminal/po/en_CA.po | 
- | [en_GB]({{< ref "/f15/language/en_GB.md" >}}) | 166 | 166 | 100.0 | /mnt/stockage/packages/f15/nautilus-open-terminal/po/en_GB.po | 
- | [error]({{< ref "/f15/language/error.md" >}}) | 23 | 23 | 100.0 | /mnt/stockage/packages/f15/nautilus-open-terminal/po/sr@Latn.po | 
- | [es]({{< ref "/f15/language/es.md" >}}) | 166 | 166 | 100.0 | /mnt/stockage/packages/f15/nautilus-open-terminal/po/es.po | 
- | [et]({{< ref "/f15/language/et.md" >}}) | 166 | 166 | 100.0 | /mnt/stockage/packages/f15/nautilus-open-terminal/po/et.po | 
- | [eu]({{< ref "/f15/language/eu.md" >}}) | 166 | 166 | 100.0 | /mnt/stockage/packages/f15/nautilus-open-terminal/po/eu.po | 
- | [fi]({{< ref "/f15/language/fi.md" >}}) | 158 | 158 | 100.0 | /mnt/stockage/packages/f15/nautilus-open-terminal/po/fi.po | 
- | [fr]({{< ref "/f15/language/fr.md" >}}) | 166 | 166 | 100.0 | /mnt/stockage/packages/f15/nautilus-open-terminal/po/fr.po | 
- | [gl]({{< ref "/f15/language/gl.md" >}}) | 166 | 166 | 100.0 | /mnt/stockage/packages/f15/nautilus-open-terminal/po/gl.po | 
- | [gu]({{< ref "/f15/language/gu.md" >}}) | 166 | 166 | 100.0 | /mnt/stockage/packages/f15/nautilus-open-terminal/po/gu.po | 
- | [he]({{< ref "/f15/language/he.md" >}}) | 166 | 166 | 100.0 | /mnt/stockage/packages/f15/nautilus-open-terminal/po/he.po | 
- | [hu]({{< ref "/f15/language/hu.md" >}}) | 166 | 166 | 100.0 | /mnt/stockage/packages/f15/nautilus-open-terminal/po/hu.po | 
- | [id]({{< ref "/f15/language/id.md" >}}) | 166 | 166 | 100.0 | /mnt/stockage/packages/f15/nautilus-open-terminal/po/id.po | 
- | [it]({{< ref "/f15/language/it.md" >}}) | 166 | 166 | 100.0 | /mnt/stockage/packages/f15/nautilus-open-terminal/po/it.po | 
- | [ja]({{< ref "/f15/language/ja.md" >}}) | 166 | 166 | 100.0 | /mnt/stockage/packages/f15/nautilus-open-terminal/po/ja.po | 
- | [ka]({{< ref "/f15/language/ka.md" >}}) | 82 | 82 | 100.0 | /mnt/stockage/packages/f15/nautilus-open-terminal/po/ka.po | 
- | [kn]({{< ref "/f15/language/kn.md" >}}) | 166 | 166 | 100.0 | /mnt/stockage/packages/f15/nautilus-open-terminal/po/kn.po | 
- | [ko]({{< ref "/f15/language/ko.md" >}}) | 166 | 166 | 100.0 | /mnt/stockage/packages/f15/nautilus-open-terminal/po/ko.po | 
- | [lt]({{< ref "/f15/language/lt.md" >}}) | 166 | 166 | 100.0 | /mnt/stockage/packages/f15/nautilus-open-terminal/po/lt.po | 
- | [mk]({{< ref "/f15/language/mk.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f15/nautilus-open-terminal/po/mk.po | 
- | [ml]({{< ref "/f15/language/ml.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f15/nautilus-open-terminal/po/ml.po | 
- | [mr]({{< ref "/f15/language/mr.md" >}}) | 166 | 166 | 100.0 | /mnt/stockage/packages/f15/nautilus-open-terminal/po/mr.po | 
- | [ne]({{< ref "/f15/language/ne.md" >}}) | 82 | 82 | 100.0 | /mnt/stockage/packages/f15/nautilus-open-terminal/po/ne.po | 
- | [nl]({{< ref "/f15/language/nl.md" >}}) | 166 | 166 | 100.0 | /mnt/stockage/packages/f15/nautilus-open-terminal/po/nl.po | 
- | [or]({{< ref "/f15/language/or.md" >}}) | 166 | 166 | 100.0 | /mnt/stockage/packages/f15/nautilus-open-terminal/po/or.po | 
- | [pa]({{< ref "/f15/language/pa.md" >}}) | 166 | 166 | 100.0 | /mnt/stockage/packages/f15/nautilus-open-terminal/po/pa.po | 
- | [pl]({{< ref "/f15/language/pl.md" >}}) | 166 | 166 | 100.0 | /mnt/stockage/packages/f15/nautilus-open-terminal/po/pl.po | 
- | [pt]({{< ref "/f15/language/pt.md" >}}) | 166 | 166 | 100.0 | /mnt/stockage/packages/f15/nautilus-open-terminal/po/pt.po | 
- | [pt_BR]({{< ref "/f15/language/pt_BR.md" >}}) | 166 | 166 | 100.0 | /mnt/stockage/packages/f15/nautilus-open-terminal/po/pt_BR.po | 
- | [ro]({{< ref "/f15/language/ro.md" >}}) | 166 | 166 | 100.0 | /mnt/stockage/packages/f15/nautilus-open-terminal/po/ro.po | 
- | [ru]({{< ref "/f15/language/ru.md" >}}) | 166 | 166 | 100.0 | /mnt/stockage/packages/f15/nautilus-open-terminal/po/ru.po | 
- | [sk]({{< ref "/f15/language/sk.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f15/nautilus-open-terminal/po/sk.po | 
- | [sl]({{< ref "/f15/language/sl.md" >}}) | 166 | 166 | 100.0 | /mnt/stockage/packages/f15/nautilus-open-terminal/po/sl.po | 
- | [sr]({{< ref "/f15/language/sr.md" >}}) | 23 | 23 | 100.0 | /mnt/stockage/packages/f15/nautilus-open-terminal/po/sr.po | 
- | [sv]({{< ref "/f15/language/sv.md" >}}) | 166 | 166 | 100.0 | /mnt/stockage/packages/f15/nautilus-open-terminal/po/sv.po | 
- | [ta]({{< ref "/f15/language/ta.md" >}}) | 166 | 166 | 100.0 | /mnt/stockage/packages/f15/nautilus-open-terminal/po/ta.po | 
- | [te]({{< ref "/f15/language/te.md" >}}) | 166 | 166 | 100.0 | /mnt/stockage/packages/f15/nautilus-open-terminal/po/te.po | 
- | [th]({{< ref "/f15/language/th.md" >}}) | 166 | 166 | 100.0 | /mnt/stockage/packages/f15/nautilus-open-terminal/po/th.po | 
- | [tr]({{< ref "/f15/language/tr.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f15/nautilus-open-terminal/po/tr.po | 
- | [uk]({{< ref "/f15/language/uk.md" >}}) | 166 | 166 | 100.0 | /mnt/stockage/packages/f15/nautilus-open-terminal/po/uk.po | 
- | [vi]({{< ref "/f15/language/vi.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f15/nautilus-open-terminal/po/vi.po | 
- | [zh_Hans]({{< ref "/f15/language/zh_Hans.md" >}}) | 166 | 166 | 100.0 | /mnt/stockage/packages/f15/nautilus-open-terminal/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f15/language/zh_Hant.md" >}}) | 16 | 16 | 100.0 | /mnt/stockage/packages/f15/nautilus-open-terminal/po/zh_TW.po | 
- | [be_Latn]({{< ref "/f15/language/be_Latn.md" >}}) | 129 | 158 | 81.6 | /mnt/stockage/packages/f15/nautilus-open-terminal/po/be@latin.po | 
- | [ar]({{< ref "/f15/language/ar.md" >}}) | 70 | 166 | 42.2 | /mnt/stockage/packages/f15/nautilus-open-terminal/po/ar.po | 
- | [nb_NO]({{< ref "/f15/language/nb_NO.md" >}}) | 70 | 166 | 42.2 | /mnt/stockage/packages/f15/nautilus-open-terminal/po/nb.po | 
- | [oc]({{< ref "/f15/language/oc.md" >}}) | 31 | 158 | 19.6 | /mnt/stockage/packages/f15/nautilus-open-terminal/po/oc.po | 
- | [rw]({{< ref "/f15/language/rw.md" >}}) | 0 | 16 | 0.0 | /mnt/stockage/packages/f15/nautilus-open-terminal/po/rw.po | 
+ | [as](/f15/language/as) | 166 | 166 | 100.0 | /mnt/stockage/packages/f15/nautilus-open-terminal/po/as.po | 
+ | [be](/f15/language/be) | 166 | 166 | 100.0 | /mnt/stockage/packages/f15/nautilus-open-terminal/po/be.po | 
+ | [bg](/f15/language/bg) | 24 | 24 | 100.0 | /mnt/stockage/packages/f15/nautilus-open-terminal/po/bg.po | 
+ | [bn_IN](/f15/language/bn_IN) | 166 | 166 | 100.0 | /mnt/stockage/packages/f15/nautilus-open-terminal/po/bn_IN.po | 
+ | [ca](/f15/language/ca) | 166 | 166 | 100.0 | /mnt/stockage/packages/f15/nautilus-open-terminal/po/ca.po | 
+ | [ca@valencia](/f15/language/ca@valencia) | 166 | 166 | 100.0 | /mnt/stockage/packages/f15/nautilus-open-terminal/po/ca@valencia.po | 
+ | [cs](/f15/language/cs) | 166 | 166 | 100.0 | /mnt/stockage/packages/f15/nautilus-open-terminal/po/cs.po | 
+ | [da](/f15/language/da) | 166 | 166 | 100.0 | /mnt/stockage/packages/f15/nautilus-open-terminal/po/da.po | 
+ | [de](/f15/language/de) | 166 | 166 | 100.0 | /mnt/stockage/packages/f15/nautilus-open-terminal/po/de.po | 
+ | [dz](/f15/language/dz) | 24 | 24 | 100.0 | /mnt/stockage/packages/f15/nautilus-open-terminal/po/dz.po | 
+ | [el](/f15/language/el) | 166 | 166 | 100.0 | /mnt/stockage/packages/f15/nautilus-open-terminal/po/el.po | 
+ | [en_CA](/f15/language/en_CA) | 24 | 24 | 100.0 | /mnt/stockage/packages/f15/nautilus-open-terminal/po/en_CA.po | 
+ | [en_GB](/f15/language/en_GB) | 166 | 166 | 100.0 | /mnt/stockage/packages/f15/nautilus-open-terminal/po/en_GB.po | 
+ | [error](/f15/language/error) | 23 | 23 | 100.0 | /mnt/stockage/packages/f15/nautilus-open-terminal/po/sr@Latn.po | 
+ | [es](/f15/language/es) | 166 | 166 | 100.0 | /mnt/stockage/packages/f15/nautilus-open-terminal/po/es.po | 
+ | [et](/f15/language/et) | 166 | 166 | 100.0 | /mnt/stockage/packages/f15/nautilus-open-terminal/po/et.po | 
+ | [eu](/f15/language/eu) | 166 | 166 | 100.0 | /mnt/stockage/packages/f15/nautilus-open-terminal/po/eu.po | 
+ | [fi](/f15/language/fi) | 158 | 158 | 100.0 | /mnt/stockage/packages/f15/nautilus-open-terminal/po/fi.po | 
+ | [fr](/f15/language/fr) | 166 | 166 | 100.0 | /mnt/stockage/packages/f15/nautilus-open-terminal/po/fr.po | 
+ | [gl](/f15/language/gl) | 166 | 166 | 100.0 | /mnt/stockage/packages/f15/nautilus-open-terminal/po/gl.po | 
+ | [gu](/f15/language/gu) | 166 | 166 | 100.0 | /mnt/stockage/packages/f15/nautilus-open-terminal/po/gu.po | 
+ | [he](/f15/language/he) | 166 | 166 | 100.0 | /mnt/stockage/packages/f15/nautilus-open-terminal/po/he.po | 
+ | [hu](/f15/language/hu) | 166 | 166 | 100.0 | /mnt/stockage/packages/f15/nautilus-open-terminal/po/hu.po | 
+ | [id](/f15/language/id) | 166 | 166 | 100.0 | /mnt/stockage/packages/f15/nautilus-open-terminal/po/id.po | 
+ | [it](/f15/language/it) | 166 | 166 | 100.0 | /mnt/stockage/packages/f15/nautilus-open-terminal/po/it.po | 
+ | [ja](/f15/language/ja) | 166 | 166 | 100.0 | /mnt/stockage/packages/f15/nautilus-open-terminal/po/ja.po | 
+ | [ka](/f15/language/ka) | 82 | 82 | 100.0 | /mnt/stockage/packages/f15/nautilus-open-terminal/po/ka.po | 
+ | [kn](/f15/language/kn) | 166 | 166 | 100.0 | /mnt/stockage/packages/f15/nautilus-open-terminal/po/kn.po | 
+ | [ko](/f15/language/ko) | 166 | 166 | 100.0 | /mnt/stockage/packages/f15/nautilus-open-terminal/po/ko.po | 
+ | [lt](/f15/language/lt) | 166 | 166 | 100.0 | /mnt/stockage/packages/f15/nautilus-open-terminal/po/lt.po | 
+ | [mk](/f15/language/mk) | 24 | 24 | 100.0 | /mnt/stockage/packages/f15/nautilus-open-terminal/po/mk.po | 
+ | [ml](/f15/language/ml) | 24 | 24 | 100.0 | /mnt/stockage/packages/f15/nautilus-open-terminal/po/ml.po | 
+ | [mr](/f15/language/mr) | 166 | 166 | 100.0 | /mnt/stockage/packages/f15/nautilus-open-terminal/po/mr.po | 
+ | [ne](/f15/language/ne) | 82 | 82 | 100.0 | /mnt/stockage/packages/f15/nautilus-open-terminal/po/ne.po | 
+ | [nl](/f15/language/nl) | 166 | 166 | 100.0 | /mnt/stockage/packages/f15/nautilus-open-terminal/po/nl.po | 
+ | [or](/f15/language/or) | 166 | 166 | 100.0 | /mnt/stockage/packages/f15/nautilus-open-terminal/po/or.po | 
+ | [pa](/f15/language/pa) | 166 | 166 | 100.0 | /mnt/stockage/packages/f15/nautilus-open-terminal/po/pa.po | 
+ | [pl](/f15/language/pl) | 166 | 166 | 100.0 | /mnt/stockage/packages/f15/nautilus-open-terminal/po/pl.po | 
+ | [pt](/f15/language/pt) | 166 | 166 | 100.0 | /mnt/stockage/packages/f15/nautilus-open-terminal/po/pt.po | 
+ | [pt_BR](/f15/language/pt_BR) | 166 | 166 | 100.0 | /mnt/stockage/packages/f15/nautilus-open-terminal/po/pt_BR.po | 
+ | [ro](/f15/language/ro) | 166 | 166 | 100.0 | /mnt/stockage/packages/f15/nautilus-open-terminal/po/ro.po | 
+ | [ru](/f15/language/ru) | 166 | 166 | 100.0 | /mnt/stockage/packages/f15/nautilus-open-terminal/po/ru.po | 
+ | [sk](/f15/language/sk) | 24 | 24 | 100.0 | /mnt/stockage/packages/f15/nautilus-open-terminal/po/sk.po | 
+ | [sl](/f15/language/sl) | 166 | 166 | 100.0 | /mnt/stockage/packages/f15/nautilus-open-terminal/po/sl.po | 
+ | [sr](/f15/language/sr) | 23 | 23 | 100.0 | /mnt/stockage/packages/f15/nautilus-open-terminal/po/sr.po | 
+ | [sv](/f15/language/sv) | 166 | 166 | 100.0 | /mnt/stockage/packages/f15/nautilus-open-terminal/po/sv.po | 
+ | [ta](/f15/language/ta) | 166 | 166 | 100.0 | /mnt/stockage/packages/f15/nautilus-open-terminal/po/ta.po | 
+ | [te](/f15/language/te) | 166 | 166 | 100.0 | /mnt/stockage/packages/f15/nautilus-open-terminal/po/te.po | 
+ | [th](/f15/language/th) | 166 | 166 | 100.0 | /mnt/stockage/packages/f15/nautilus-open-terminal/po/th.po | 
+ | [tr](/f15/language/tr) | 24 | 24 | 100.0 | /mnt/stockage/packages/f15/nautilus-open-terminal/po/tr.po | 
+ | [uk](/f15/language/uk) | 166 | 166 | 100.0 | /mnt/stockage/packages/f15/nautilus-open-terminal/po/uk.po | 
+ | [vi](/f15/language/vi) | 24 | 24 | 100.0 | /mnt/stockage/packages/f15/nautilus-open-terminal/po/vi.po | 
+ | [zh_Hans](/f15/language/zh_Hans) | 166 | 166 | 100.0 | /mnt/stockage/packages/f15/nautilus-open-terminal/po/zh_CN.po | 
+ | [zh_Hant](/f15/language/zh_Hant) | 16 | 16 | 100.0 | /mnt/stockage/packages/f15/nautilus-open-terminal/po/zh_TW.po | 
+ | [be_Latn](/f15/language/be_Latn) | 129 | 158 | 81.6 | /mnt/stockage/packages/f15/nautilus-open-terminal/po/be@latin.po | 
+ | [ar](/f15/language/ar) | 70 | 166 | 42.2 | /mnt/stockage/packages/f15/nautilus-open-terminal/po/ar.po | 
+ | [nb_NO](/f15/language/nb_NO) | 70 | 166 | 42.2 | /mnt/stockage/packages/f15/nautilus-open-terminal/po/nb.po | 
+ | [oc](/f15/language/oc) | 31 | 158 | 19.6 | /mnt/stockage/packages/f15/nautilus-open-terminal/po/oc.po | 
+ | [rw](/f15/language/rw) | 0 | 16 | 0.0 | /mnt/stockage/packages/f15/nautilus-open-terminal/po/rw.po | 
 {.sortable}
 
 

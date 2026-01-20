@@ -18,25 +18,25 @@ The package mailnag (version 1.3.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f31/language/de.md" >}}) | 216 | 216 | 100.0 | /mnt/stockage/packages/f31/mailnag/po/de.po | 
- | [bg]({{< ref "/f31/language/bg.md" >}}) | 176 | 216 | 81.5 | /mnt/stockage/packages/f31/mailnag/po/bg.po | 
- | [cs]({{< ref "/f31/language/cs.md" >}}) | 176 | 216 | 81.5 | /mnt/stockage/packages/f31/mailnag/po/cs.po | 
- | [pt]({{< ref "/f31/language/pt.md" >}}) | 176 | 216 | 81.5 | /mnt/stockage/packages/f31/mailnag/po/pt.po | 
- | [pt_BR]({{< ref "/f31/language/pt_BR.md" >}}) | 176 | 216 | 81.5 | /mnt/stockage/packages/f31/mailnag/po/pt_BR.po | 
- | [sv]({{< ref "/f31/language/sv.md" >}}) | 176 | 216 | 81.5 | /mnt/stockage/packages/f31/mailnag/po/sv.po | 
- | [ru]({{< ref "/f31/language/ru.md" >}}) | 169 | 216 | 78.2 | /mnt/stockage/packages/f31/mailnag/po/ru.po | 
- | [hr]({{< ref "/f31/language/hr.md" >}}) | 151 | 216 | 69.9 | /mnt/stockage/packages/f31/mailnag/po/hr.po | 
- | [id]({{< ref "/f31/language/id.md" >}}) | 150 | 216 | 69.4 | /mnt/stockage/packages/f31/mailnag/po/id.po | 
- | [sr]({{< ref "/f31/language/sr.md" >}}) | 150 | 216 | 69.4 | /mnt/stockage/packages/f31/mailnag/po/sr.po | 
- | [fr]({{< ref "/f31/language/fr.md" >}}) | 147 | 216 | 68.1 | /mnt/stockage/packages/f31/mailnag/po/fr.po | 
- | [es]({{< ref "/f31/language/es.md" >}}) | 130 | 216 | 60.2 | /mnt/stockage/packages/f31/mailnag/po/es.po | 
- | [it]({{< ref "/f31/language/it.md" >}}) | 130 | 216 | 60.2 | /mnt/stockage/packages/f31/mailnag/po/it.po | 
- | [uk]({{< ref "/f31/language/uk.md" >}}) | 129 | 216 | 59.7 | /mnt/stockage/packages/f31/mailnag/po/uk.po | 
- | [pl]({{< ref "/f31/language/pl.md" >}}) | 128 | 216 | 59.3 | /mnt/stockage/packages/f31/mailnag/po/pl.po | 
- | [gl]({{< ref "/f31/language/gl.md" >}}) | 123 | 216 | 56.9 | /mnt/stockage/packages/f31/mailnag/po/gl.po | 
- | [zh_Hant]({{< ref "/f31/language/zh_Hant.md" >}}) | 122 | 216 | 56.5 | /mnt/stockage/packages/f31/mailnag/po/zh_TW.po | 
- | [tr]({{< ref "/f31/language/tr.md" >}}) | 118 | 216 | 54.6 | /mnt/stockage/packages/f31/mailnag/po/tr.po | 
- | [zh_Hans]({{< ref "/f31/language/zh_Hans.md" >}}) | 84 | 216 | 38.9 | /mnt/stockage/packages/f31/mailnag/po/zh_CN.po | 
+ | [de](/f31/language/de) | 216 | 216 | 100.0 | /mnt/stockage/packages/f31/mailnag/po/de.po | 
+ | [bg](/f31/language/bg) | 176 | 216 | 81.5 | /mnt/stockage/packages/f31/mailnag/po/bg.po | 
+ | [cs](/f31/language/cs) | 176 | 216 | 81.5 | /mnt/stockage/packages/f31/mailnag/po/cs.po | 
+ | [pt](/f31/language/pt) | 176 | 216 | 81.5 | /mnt/stockage/packages/f31/mailnag/po/pt.po | 
+ | [pt_BR](/f31/language/pt_BR) | 176 | 216 | 81.5 | /mnt/stockage/packages/f31/mailnag/po/pt_BR.po | 
+ | [sv](/f31/language/sv) | 176 | 216 | 81.5 | /mnt/stockage/packages/f31/mailnag/po/sv.po | 
+ | [ru](/f31/language/ru) | 169 | 216 | 78.2 | /mnt/stockage/packages/f31/mailnag/po/ru.po | 
+ | [hr](/f31/language/hr) | 151 | 216 | 69.9 | /mnt/stockage/packages/f31/mailnag/po/hr.po | 
+ | [id](/f31/language/id) | 150 | 216 | 69.4 | /mnt/stockage/packages/f31/mailnag/po/id.po | 
+ | [sr](/f31/language/sr) | 150 | 216 | 69.4 | /mnt/stockage/packages/f31/mailnag/po/sr.po | 
+ | [fr](/f31/language/fr) | 147 | 216 | 68.1 | /mnt/stockage/packages/f31/mailnag/po/fr.po | 
+ | [es](/f31/language/es) | 130 | 216 | 60.2 | /mnt/stockage/packages/f31/mailnag/po/es.po | 
+ | [it](/f31/language/it) | 130 | 216 | 60.2 | /mnt/stockage/packages/f31/mailnag/po/it.po | 
+ | [uk](/f31/language/uk) | 129 | 216 | 59.7 | /mnt/stockage/packages/f31/mailnag/po/uk.po | 
+ | [pl](/f31/language/pl) | 128 | 216 | 59.3 | /mnt/stockage/packages/f31/mailnag/po/pl.po | 
+ | [gl](/f31/language/gl) | 123 | 216 | 56.9 | /mnt/stockage/packages/f31/mailnag/po/gl.po | 
+ | [zh_Hant](/f31/language/zh_Hant) | 122 | 216 | 56.5 | /mnt/stockage/packages/f31/mailnag/po/zh_TW.po | 
+ | [tr](/f31/language/tr) | 118 | 216 | 54.6 | /mnt/stockage/packages/f31/mailnag/po/tr.po | 
+ | [zh_Hans](/f31/language/zh_Hans) | 84 | 216 | 38.9 | /mnt/stockage/packages/f31/mailnag/po/zh_CN.po | 
 {.sortable}
 
 

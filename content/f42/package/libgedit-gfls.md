@@ -18,17 +18,17 @@ The package libgedit-gfls (version 0.2.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [be]({{< ref "/f42/language/be.md" >}}) | 34 | 34 | 100.0 | /mnt/stockage/packages/f42/libgedit-gfls/po/be.po | 
- | [da]({{< ref "/f42/language/da.md" >}}) | 34 | 34 | 100.0 | /mnt/stockage/packages/f42/libgedit-gfls/po/da.po | 
- | [de]({{< ref "/f42/language/de.md" >}}) | 34 | 34 | 100.0 | /mnt/stockage/packages/f42/libgedit-gfls/po/de.po | 
- | [ka]({{< ref "/f42/language/ka.md" >}}) | 34 | 34 | 100.0 | /mnt/stockage/packages/f42/libgedit-gfls/po/ka.po | 
- | [pt_BR]({{< ref "/f42/language/pt_BR.md" >}}) | 34 | 34 | 100.0 | /mnt/stockage/packages/f42/libgedit-gfls/po/pt_BR.po | 
- | [ru]({{< ref "/f42/language/ru.md" >}}) | 34 | 34 | 100.0 | /mnt/stockage/packages/f42/libgedit-gfls/po/ru.po | 
- | [sl]({{< ref "/f42/language/sl.md" >}}) | 34 | 34 | 100.0 | /mnt/stockage/packages/f42/libgedit-gfls/po/sl.po | 
- | [sv]({{< ref "/f42/language/sv.md" >}}) | 34 | 34 | 100.0 | /mnt/stockage/packages/f42/libgedit-gfls/po/sv.po | 
- | [tr]({{< ref "/f42/language/tr.md" >}}) | 34 | 34 | 100.0 | /mnt/stockage/packages/f42/libgedit-gfls/po/tr.po | 
- | [uk]({{< ref "/f42/language/uk.md" >}}) | 34 | 34 | 100.0 | /mnt/stockage/packages/f42/libgedit-gfls/po/uk.po | 
- | [zh_Hans]({{< ref "/f42/language/zh_Hans.md" >}}) | 34 | 34 | 100.0 | /mnt/stockage/packages/f42/libgedit-gfls/po/zh_CN.po | 
+ | [be](/f42/language/be) | 34 | 34 | 100.0 | /mnt/stockage/packages/f42/libgedit-gfls/po/be.po | 
+ | [da](/f42/language/da) | 34 | 34 | 100.0 | /mnt/stockage/packages/f42/libgedit-gfls/po/da.po | 
+ | [de](/f42/language/de) | 34 | 34 | 100.0 | /mnt/stockage/packages/f42/libgedit-gfls/po/de.po | 
+ | [ka](/f42/language/ka) | 34 | 34 | 100.0 | /mnt/stockage/packages/f42/libgedit-gfls/po/ka.po | 
+ | [pt_BR](/f42/language/pt_BR) | 34 | 34 | 100.0 | /mnt/stockage/packages/f42/libgedit-gfls/po/pt_BR.po | 
+ | [ru](/f42/language/ru) | 34 | 34 | 100.0 | /mnt/stockage/packages/f42/libgedit-gfls/po/ru.po | 
+ | [sl](/f42/language/sl) | 34 | 34 | 100.0 | /mnt/stockage/packages/f42/libgedit-gfls/po/sl.po | 
+ | [sv](/f42/language/sv) | 34 | 34 | 100.0 | /mnt/stockage/packages/f42/libgedit-gfls/po/sv.po | 
+ | [tr](/f42/language/tr) | 34 | 34 | 100.0 | /mnt/stockage/packages/f42/libgedit-gfls/po/tr.po | 
+ | [uk](/f42/language/uk) | 34 | 34 | 100.0 | /mnt/stockage/packages/f42/libgedit-gfls/po/uk.po | 
+ | [zh_Hans](/f42/language/zh_Hans) | 34 | 34 | 100.0 | /mnt/stockage/packages/f42/libgedit-gfls/po/zh_CN.po | 
 {.sortable}
 
 

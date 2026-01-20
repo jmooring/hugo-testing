@@ -18,7 +18,7 @@ The package fcitx-unikey (version 0.1.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [zh_Hans]({{< ref "/f18/language/zh_Hans.md" >}}) | 156 | 204 | 76.5 | /mnt/stockage/packages/f18/fcitx-unikey/po/zh_CN.po/mnt/stockage/packages/f18/fcitx-unikey/po/vi.po | 
+ | [zh_Hans](/f18/language/zh_Hans) | 156 | 204 | 76.5 | /mnt/stockage/packages/f18/fcitx-unikey/po/zh_CN.po/mnt/stockage/packages/f18/fcitx-unikey/po/vi.po | 
 {.sortable}
 
 

@@ -38,15 +38,15 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [picard]({{< ref "/f33/package/picard.md" >}}) | 386 | 386 | 100.0 | Dutch (Belgium) (http://www.transifex.com/musicbrainz/musicbrainz/language/nl_BE/) | 
- | [clamtk]({{< ref "/f33/package/clamtk.md" >}}) | 677 | 688 | 98.4 | LANGUAGE <LL@li.org> | 
- | [gtkhash]({{< ref "/f33/package/gtkhash.md" >}}) | 197 | 213 | 92.5 | Flemish <https://hosted.weblate.org/projects/gtkhash/translations/nl_BE/> | 
- | [dino]({{< ref "/f33/package/dino.md" >}}) | 767 | 839 | 91.4 | Flemish <https://hosted.weblate.org/projects/dino/translations/nl_BE/> | 
- | [siril]({{< ref "/f33/package/siril.md" >}}) | 13057 | 17455 | 74.8 | Dutch <antoine.hoeffelman[-at-]gmail.com> | 
- | [gnome-shell-extension-gsconnect]({{< ref "/f33/package/gnome-shell-extension-gsconnect.md" >}}) | 364 | 530 | 68.7 | Dutch <vistausss@outlook.com> | 
- | [lollypop]({{< ref "/f33/package/lollypop.md" >}}) | 609 | 1437 | 42.4 | Flemish <https://hosted.weblate.org/projects/gnumdk/lollypop/nl_BE/> | 
- | [bubblemail]({{< ref "/f33/package/bubblemail.md" >}}) | 0 | 472 | 0.0 | none | 
- | [gnome-shell-extension-bubblemail]({{< ref "/f33/package/gnome-shell-extension-bubblemail.md" >}}) | 0 | 98 | 0.0 | none | 
+ | [picard](/f33/package/picard) | 386 | 386 | 100.0 | Dutch (Belgium) (http://www.transifex.com/musicbrainz/musicbrainz/language/nl_BE/) | 
+ | [clamtk](/f33/package/clamtk) | 677 | 688 | 98.4 | LANGUAGE <LL@li.org> | 
+ | [gtkhash](/f33/package/gtkhash) | 197 | 213 | 92.5 | Flemish <https://hosted.weblate.org/projects/gtkhash/translations/nl_BE/> | 
+ | [dino](/f33/package/dino) | 767 | 839 | 91.4 | Flemish <https://hosted.weblate.org/projects/dino/translations/nl_BE/> | 
+ | [siril](/f33/package/siril) | 13057 | 17455 | 74.8 | Dutch <antoine.hoeffelman[-at-]gmail.com> | 
+ | [gnome-shell-extension-gsconnect](/f33/package/gnome-shell-extension-gsconnect) | 364 | 530 | 68.7 | Dutch <vistausss@outlook.com> | 
+ | [lollypop](/f33/package/lollypop) | 609 | 1437 | 42.4 | Flemish <https://hosted.weblate.org/projects/gnumdk/lollypop/nl_BE/> | 
+ | [bubblemail](/f33/package/bubblemail) | 0 | 472 | 0.0 | none | 
+ | [gnome-shell-extension-bubblemail](/f33/package/gnome-shell-extension-bubblemail) | 0 | 98 | 0.0 | none | 
 {.sortable}
 
 

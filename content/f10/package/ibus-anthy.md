@@ -18,9 +18,9 @@ The package ibus-anthy (version 1.1.0.20090603):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ja]({{< ref "/f10/language/ja.md" >}}) | 127 | 142 | 89.4 | /mnt/stockage/packages/f10/ibus-anthy/po/ja.po | 
- | [fr]({{< ref "/f10/language/fr.md" >}}) | 14 | 142 | 9.9 | /mnt/stockage/packages/f10/ibus-anthy/po/fr.po | 
- | [zh_Hans]({{< ref "/f10/language/zh_Hans.md" >}}) | 14 | 142 | 9.9 | /mnt/stockage/packages/f10/ibus-anthy/po/zh_CN.po | 
+ | [ja](/f10/language/ja) | 127 | 142 | 89.4 | /mnt/stockage/packages/f10/ibus-anthy/po/ja.po | 
+ | [fr](/f10/language/fr) | 14 | 142 | 9.9 | /mnt/stockage/packages/f10/ibus-anthy/po/fr.po | 
+ | [zh_Hans](/f10/language/zh_Hans) | 14 | 142 | 9.9 | /mnt/stockage/packages/f10/ibus-anthy/po/zh_CN.po | 
 {.sortable}
 
 

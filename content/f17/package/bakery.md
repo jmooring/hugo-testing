@@ -18,40 +18,40 @@ The package bakery (version 2.6.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f17/language/ar.md" >}}) | 58 | 58 | 100.0 | /mnt/stockage/packages/f17/bakery/po/ar.po | 
- | [bg]({{< ref "/f17/language/bg.md" >}}) | 72 | 72 | 100.0 | /mnt/stockage/packages/f17/bakery/po/bg.po | 
- | [ca]({{< ref "/f17/language/ca.md" >}}) | 72 | 72 | 100.0 | /mnt/stockage/packages/f17/bakery/po/ca.po | 
- | [da]({{< ref "/f17/language/da.md" >}}) | 72 | 72 | 100.0 | /mnt/stockage/packages/f17/bakery/po/da.po | 
- | [de]({{< ref "/f17/language/de.md" >}}) | 134 | 134 | 100.0 | /mnt/stockage/packages/f17/bakery/po/de.po | 
- | [dz]({{< ref "/f17/language/dz.md" >}}) | 72 | 72 | 100.0 | /mnt/stockage/packages/f17/bakery/po/dz.po | 
- | [el]({{< ref "/f17/language/el.md" >}}) | 72 | 72 | 100.0 | /mnt/stockage/packages/f17/bakery/po/el.po | 
- | [en_CA]({{< ref "/f17/language/en_CA.md" >}}) | 72 | 72 | 100.0 | /mnt/stockage/packages/f17/bakery/po/en_CA.po | 
- | [en_GB]({{< ref "/f17/language/en_GB.md" >}}) | 72 | 72 | 100.0 | /mnt/stockage/packages/f17/bakery/po/en_GB.po | 
- | [es]({{< ref "/f17/language/es.md" >}}) | 134 | 134 | 100.0 | /mnt/stockage/packages/f17/bakery/po/es.po | 
- | [eu]({{< ref "/f17/language/eu.md" >}}) | 58 | 58 | 100.0 | /mnt/stockage/packages/f17/bakery/po/eu.po | 
- | [fi]({{< ref "/f17/language/fi.md" >}}) | 72 | 72 | 100.0 | /mnt/stockage/packages/f17/bakery/po/fi.po | 
- | [fr]({{< ref "/f17/language/fr.md" >}}) | 72 | 72 | 100.0 | /mnt/stockage/packages/f17/bakery/po/fr.po | 
- | [gl]({{< ref "/f17/language/gl.md" >}}) | 72 | 72 | 100.0 | /mnt/stockage/packages/f17/bakery/po/gl.po | 
- | [hu]({{< ref "/f17/language/hu.md" >}}) | 134 | 134 | 100.0 | /mnt/stockage/packages/f17/bakery/po/hu.po | 
- | [ja]({{< ref "/f17/language/ja.md" >}}) | 72 | 72 | 100.0 | /mnt/stockage/packages/f17/bakery/po/ja.po | 
- | [lt]({{< ref "/f17/language/lt.md" >}}) | 72 | 72 | 100.0 | /mnt/stockage/packages/f17/bakery/po/lt.po | 
- | [mk]({{< ref "/f17/language/mk.md" >}}) | 72 | 72 | 100.0 | /mnt/stockage/packages/f17/bakery/po/mk.po | 
- | [nb_NO]({{< ref "/f17/language/nb_NO.md" >}}) | 72 | 72 | 100.0 | /mnt/stockage/packages/f17/bakery/po/nb.po | 
- | [ne]({{< ref "/f17/language/ne.md" >}}) | 72 | 72 | 100.0 | /mnt/stockage/packages/f17/bakery/po/ne.po | 
- | [nl]({{< ref "/f17/language/nl.md" >}}) | 72 | 72 | 100.0 | /mnt/stockage/packages/f17/bakery/po/nl.po | 
- | [pl]({{< ref "/f17/language/pl.md" >}}) | 72 | 72 | 100.0 | /mnt/stockage/packages/f17/bakery/po/pl.po | 
- | [pt_BR]({{< ref "/f17/language/pt_BR.md" >}}) | 134 | 134 | 100.0 | /mnt/stockage/packages/f17/bakery/po/pt_BR.po | 
- | [ru]({{< ref "/f17/language/ru.md" >}}) | 72 | 72 | 100.0 | /mnt/stockage/packages/f17/bakery/po/ru.po | 
- | [sk]({{< ref "/f17/language/sk.md" >}}) | 72 | 72 | 100.0 | /mnt/stockage/packages/f17/bakery/po/sk.po | 
- | [sl]({{< ref "/f17/language/sl.md" >}}) | 72 | 72 | 100.0 | /mnt/stockage/packages/f17/bakery/po/sl.po | 
- | [sq]({{< ref "/f17/language/sq.md" >}}) | 72 | 72 | 100.0 | /mnt/stockage/packages/f17/bakery/po/sq.po | 
- | [sv]({{< ref "/f17/language/sv.md" >}}) | 134 | 134 | 100.0 | /mnt/stockage/packages/f17/bakery/po/sv.po | 
- | [uk]({{< ref "/f17/language/uk.md" >}}) | 72 | 72 | 100.0 | /mnt/stockage/packages/f17/bakery/po/uk.po | 
- | [vi]({{< ref "/f17/language/vi.md" >}}) | 72 | 72 | 100.0 | /mnt/stockage/packages/f17/bakery/po/vi.po | 
- | [zh_Hans]({{< ref "/f17/language/zh_Hans.md" >}}) | 72 | 72 | 100.0 | /mnt/stockage/packages/f17/bakery/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f17/language/zh_Hant.md" >}}) | 72 | 72 | 100.0 | /mnt/stockage/packages/f17/bakery/po/zh_TW.po | 
- | [oc]({{< ref "/f17/language/oc.md" >}}) | 57 | 58 | 98.3 | /mnt/stockage/packages/f17/bakery/po/oc.po | 
- | [rw]({{< ref "/f17/language/rw.md" >}}) | 4 | 72 | 5.6 | /mnt/stockage/packages/f17/bakery/po/rw.po | 
+ | [ar](/f17/language/ar) | 58 | 58 | 100.0 | /mnt/stockage/packages/f17/bakery/po/ar.po | 
+ | [bg](/f17/language/bg) | 72 | 72 | 100.0 | /mnt/stockage/packages/f17/bakery/po/bg.po | 
+ | [ca](/f17/language/ca) | 72 | 72 | 100.0 | /mnt/stockage/packages/f17/bakery/po/ca.po | 
+ | [da](/f17/language/da) | 72 | 72 | 100.0 | /mnt/stockage/packages/f17/bakery/po/da.po | 
+ | [de](/f17/language/de) | 134 | 134 | 100.0 | /mnt/stockage/packages/f17/bakery/po/de.po | 
+ | [dz](/f17/language/dz) | 72 | 72 | 100.0 | /mnt/stockage/packages/f17/bakery/po/dz.po | 
+ | [el](/f17/language/el) | 72 | 72 | 100.0 | /mnt/stockage/packages/f17/bakery/po/el.po | 
+ | [en_CA](/f17/language/en_CA) | 72 | 72 | 100.0 | /mnt/stockage/packages/f17/bakery/po/en_CA.po | 
+ | [en_GB](/f17/language/en_GB) | 72 | 72 | 100.0 | /mnt/stockage/packages/f17/bakery/po/en_GB.po | 
+ | [es](/f17/language/es) | 134 | 134 | 100.0 | /mnt/stockage/packages/f17/bakery/po/es.po | 
+ | [eu](/f17/language/eu) | 58 | 58 | 100.0 | /mnt/stockage/packages/f17/bakery/po/eu.po | 
+ | [fi](/f17/language/fi) | 72 | 72 | 100.0 | /mnt/stockage/packages/f17/bakery/po/fi.po | 
+ | [fr](/f17/language/fr) | 72 | 72 | 100.0 | /mnt/stockage/packages/f17/bakery/po/fr.po | 
+ | [gl](/f17/language/gl) | 72 | 72 | 100.0 | /mnt/stockage/packages/f17/bakery/po/gl.po | 
+ | [hu](/f17/language/hu) | 134 | 134 | 100.0 | /mnt/stockage/packages/f17/bakery/po/hu.po | 
+ | [ja](/f17/language/ja) | 72 | 72 | 100.0 | /mnt/stockage/packages/f17/bakery/po/ja.po | 
+ | [lt](/f17/language/lt) | 72 | 72 | 100.0 | /mnt/stockage/packages/f17/bakery/po/lt.po | 
+ | [mk](/f17/language/mk) | 72 | 72 | 100.0 | /mnt/stockage/packages/f17/bakery/po/mk.po | 
+ | [nb_NO](/f17/language/nb_NO) | 72 | 72 | 100.0 | /mnt/stockage/packages/f17/bakery/po/nb.po | 
+ | [ne](/f17/language/ne) | 72 | 72 | 100.0 | /mnt/stockage/packages/f17/bakery/po/ne.po | 
+ | [nl](/f17/language/nl) | 72 | 72 | 100.0 | /mnt/stockage/packages/f17/bakery/po/nl.po | 
+ | [pl](/f17/language/pl) | 72 | 72 | 100.0 | /mnt/stockage/packages/f17/bakery/po/pl.po | 
+ | [pt_BR](/f17/language/pt_BR) | 134 | 134 | 100.0 | /mnt/stockage/packages/f17/bakery/po/pt_BR.po | 
+ | [ru](/f17/language/ru) | 72 | 72 | 100.0 | /mnt/stockage/packages/f17/bakery/po/ru.po | 
+ | [sk](/f17/language/sk) | 72 | 72 | 100.0 | /mnt/stockage/packages/f17/bakery/po/sk.po | 
+ | [sl](/f17/language/sl) | 72 | 72 | 100.0 | /mnt/stockage/packages/f17/bakery/po/sl.po | 
+ | [sq](/f17/language/sq) | 72 | 72 | 100.0 | /mnt/stockage/packages/f17/bakery/po/sq.po | 
+ | [sv](/f17/language/sv) | 134 | 134 | 100.0 | /mnt/stockage/packages/f17/bakery/po/sv.po | 
+ | [uk](/f17/language/uk) | 72 | 72 | 100.0 | /mnt/stockage/packages/f17/bakery/po/uk.po | 
+ | [vi](/f17/language/vi) | 72 | 72 | 100.0 | /mnt/stockage/packages/f17/bakery/po/vi.po | 
+ | [zh_Hans](/f17/language/zh_Hans) | 72 | 72 | 100.0 | /mnt/stockage/packages/f17/bakery/po/zh_CN.po | 
+ | [zh_Hant](/f17/language/zh_Hant) | 72 | 72 | 100.0 | /mnt/stockage/packages/f17/bakery/po/zh_TW.po | 
+ | [oc](/f17/language/oc) | 57 | 58 | 98.3 | /mnt/stockage/packages/f17/bakery/po/oc.po | 
+ | [rw](/f17/language/rw) | 4 | 72 | 5.6 | /mnt/stockage/packages/f17/bakery/po/rw.po | 
 {.sortable}
 
 

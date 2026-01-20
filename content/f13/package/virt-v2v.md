@@ -18,11 +18,11 @@ The package virt-v2v (version 0.3.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [pl]({{< ref "/f13/language/pl.md" >}}) | 445 | 445 | 100.0 | /mnt/stockage/packages/f13/virt-v2v/po/pl.po | 
- | [es]({{< ref "/f13/language/es.md" >}}) | 439 | 445 | 98.7 | /mnt/stockage/packages/f13/virt-v2v/po/es.po | 
- | [it]({{< ref "/f13/language/it.md" >}}) | 439 | 445 | 98.7 | /mnt/stockage/packages/f13/virt-v2v/po/it.po | 
- | [ru]({{< ref "/f13/language/ru.md" >}}) | 439 | 445 | 98.7 | /mnt/stockage/packages/f13/virt-v2v/po/ru.po | 
- | [zh_Hans]({{< ref "/f13/language/zh_Hans.md" >}}) | 33 | 445 | 7.4 | /mnt/stockage/packages/f13/virt-v2v/po/zh_CN.po | 
+ | [pl](/f13/language/pl) | 445 | 445 | 100.0 | /mnt/stockage/packages/f13/virt-v2v/po/pl.po | 
+ | [es](/f13/language/es) | 439 | 445 | 98.7 | /mnt/stockage/packages/f13/virt-v2v/po/es.po | 
+ | [it](/f13/language/it) | 439 | 445 | 98.7 | /mnt/stockage/packages/f13/virt-v2v/po/it.po | 
+ | [ru](/f13/language/ru) | 439 | 445 | 98.7 | /mnt/stockage/packages/f13/virt-v2v/po/ru.po | 
+ | [zh_Hans](/f13/language/zh_Hans) | 33 | 445 | 7.4 | /mnt/stockage/packages/f13/virt-v2v/po/zh_CN.po | 
 {.sortable}
 
 

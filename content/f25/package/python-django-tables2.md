@@ -18,16 +18,16 @@ The package python-django-tables2 (version 1.1.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f25/language/de.md" >}}) | 9 | 9 | 100.0 | /mnt/stockage/packages/f25/python-django-tables2/django_tables2/locale/de/LC_MESSAGES/django.po | 
- | [el]({{< ref "/f25/language/el.md" >}}) | 9 | 9 | 100.0 | /mnt/stockage/packages/f25/python-django-tables2/django_tables2/locale/el/LC_MESSAGES/django.po | 
- | [es]({{< ref "/f25/language/es.md" >}}) | 9 | 9 | 100.0 | /mnt/stockage/packages/f25/python-django-tables2/django_tables2/locale/es/LC_MESSAGES/django.po | 
- | [fr]({{< ref "/f25/language/fr.md" >}}) | 9 | 9 | 100.0 | /mnt/stockage/packages/f25/python-django-tables2/django_tables2/locale/fr/LC_MESSAGES/django.po | 
- | [pl]({{< ref "/f25/language/pl.md" >}}) | 9 | 9 | 100.0 | /mnt/stockage/packages/f25/python-django-tables2/django_tables2/locale/pl/LC_MESSAGES/django.po | 
- | [pt_BR]({{< ref "/f25/language/pt_BR.md" >}}) | 9 | 9 | 100.0 | /mnt/stockage/packages/f25/python-django-tables2/django_tables2/locale/pt_BR/LC_MESSAGES/django.po | 
- | [ru]({{< ref "/f25/language/ru.md" >}}) | 9 | 9 | 100.0 | /mnt/stockage/packages/f25/python-django-tables2/django_tables2/locale/ru/LC_MESSAGES/django.po | 
- | [sv]({{< ref "/f25/language/sv.md" >}}) | 9 | 9 | 100.0 | /mnt/stockage/packages/f25/python-django-tables2/django_tables2/locale/sv/LC_MESSAGES/django.po | 
- | [uk]({{< ref "/f25/language/uk.md" >}}) | 9 | 9 | 100.0 | /mnt/stockage/packages/f25/python-django-tables2/django_tables2/locale/uk/LC_MESSAGES/django.po | 
- | [en]({{< ref "/f25/language/en.md" >}}) | 9 | 18 | 50.0 | /mnt/stockage/packages/f25/python-django-tables2/django_tables2/locale/en/LC_MESSAGES/django.po/mnt/stockage/packages/f25/python-django-tables2/django_tables2/locale/pt_PT/LC_MESSAGES/django.po | 
+ | [de](/f25/language/de) | 9 | 9 | 100.0 | /mnt/stockage/packages/f25/python-django-tables2/django_tables2/locale/de/LC_MESSAGES/django.po | 
+ | [el](/f25/language/el) | 9 | 9 | 100.0 | /mnt/stockage/packages/f25/python-django-tables2/django_tables2/locale/el/LC_MESSAGES/django.po | 
+ | [es](/f25/language/es) | 9 | 9 | 100.0 | /mnt/stockage/packages/f25/python-django-tables2/django_tables2/locale/es/LC_MESSAGES/django.po | 
+ | [fr](/f25/language/fr) | 9 | 9 | 100.0 | /mnt/stockage/packages/f25/python-django-tables2/django_tables2/locale/fr/LC_MESSAGES/django.po | 
+ | [pl](/f25/language/pl) | 9 | 9 | 100.0 | /mnt/stockage/packages/f25/python-django-tables2/django_tables2/locale/pl/LC_MESSAGES/django.po | 
+ | [pt_BR](/f25/language/pt_BR) | 9 | 9 | 100.0 | /mnt/stockage/packages/f25/python-django-tables2/django_tables2/locale/pt_BR/LC_MESSAGES/django.po | 
+ | [ru](/f25/language/ru) | 9 | 9 | 100.0 | /mnt/stockage/packages/f25/python-django-tables2/django_tables2/locale/ru/LC_MESSAGES/django.po | 
+ | [sv](/f25/language/sv) | 9 | 9 | 100.0 | /mnt/stockage/packages/f25/python-django-tables2/django_tables2/locale/sv/LC_MESSAGES/django.po | 
+ | [uk](/f25/language/uk) | 9 | 9 | 100.0 | /mnt/stockage/packages/f25/python-django-tables2/django_tables2/locale/uk/LC_MESSAGES/django.po | 
+ | [en](/f25/language/en) | 9 | 18 | 50.0 | /mnt/stockage/packages/f25/python-django-tables2/django_tables2/locale/en/LC_MESSAGES/django.po/mnt/stockage/packages/f25/python-django-tables2/django_tables2/locale/pt_PT/LC_MESSAGES/django.po | 
 {.sortable}
 
 

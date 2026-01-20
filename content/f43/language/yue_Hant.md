@@ -44,8 +44,8 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [sudo]({{< ref "/f43/package/sudo.md" >}}) | 1528 | 1528 | 100.0 | Cantonese <cantonese.sra@proton.me> | 
- | [python-sphinx]({{< ref "/f43/package/python-sphinx.md" >}}) | 0 | 5799 | 0.0 | Cantonese (http://app.transifex.com/sphinx-doc/sphinx-1/language/yue/) | 
+ | [sudo](/f43/package/sudo) | 1528 | 1528 | 100.0 | Cantonese <cantonese.sra@proton.me> | 
+ | [python-sphinx](/f43/package/python-sphinx) | 0 | 5799 | 0.0 | Cantonese (http://app.transifex.com/sphinx-doc/sphinx-1/language/yue/) | 
 {.sortable}
 
 

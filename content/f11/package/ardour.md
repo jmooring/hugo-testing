@@ -18,18 +18,18 @@ The package ardour (version 2.8.7):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f11/language/cs.md" >}}) | 5890 | 5890 | 100.0 | /mnt/stockage/packages/f11/ardour/gtk2_ardour/po/cs.po | 
- | [nn]({{< ref "/f11/language/nn.md" >}}) | 10412 | 10412 | 100.0 | /mnt/stockage/packages/f11/ardour/gtk2_ardour/po/nn.po/mnt/stockage/packages/f11/ardour/libs/ardour/po/nn.po/mnt/stockage/packages/f11/ardour/libs/gtkmm2ext/po/nn.po | 
- | [de]({{< ref "/f11/language/de.md" >}}) | 5942 | 6264 | 94.9 | /mnt/stockage/packages/f11/ardour/gtk2_ardour/po/de.po | 
- | [el]({{< ref "/f11/language/el.md" >}}) | 6891 | 7472 | 92.2 | /mnt/stockage/packages/f11/ardour/gtk2_ardour/po/el.po/mnt/stockage/packages/f11/ardour/libs/ardour/po/el.po/mnt/stockage/packages/f11/ardour/libs/gtkmm2ext/po/el.po | 
- | [pt_PT]({{< ref "/f11/language/pt_PT.md" >}}) | 3941 | 4397 | 89.6 | /mnt/stockage/packages/f11/ardour/gtk2_ardour/po/pt_PT.po | 
- | [it]({{< ref "/f11/language/it.md" >}}) | 7371 | 9683 | 76.1 | /mnt/stockage/packages/f11/ardour/gtk2_ardour/po/it.po/mnt/stockage/packages/f11/ardour/libs/ardour/po/it.po | 
- | [fr]({{< ref "/f11/language/fr.md" >}}) | 6889 | 10334 | 66.7 | /mnt/stockage/packages/f11/ardour/gtk2_ardour/po/fr.po/mnt/stockage/packages/f11/ardour/libs/ardour/po/fr.po | 
- | [es]({{< ref "/f11/language/es.md" >}}) | 6597 | 10135 | 65.1 | /mnt/stockage/packages/f11/ardour/gtk2_ardour/po/es.po/mnt/stockage/packages/f11/ardour/libs/ardour/po/es.po/mnt/stockage/packages/f11/ardour/libs/gtkmm2ext/po/es.po | 
- | [sv]({{< ref "/f11/language/sv.md" >}}) | 5505 | 9109 | 60.4 | /mnt/stockage/packages/f11/ardour/gtk2_ardour/po/sv.po/mnt/stockage/packages/f11/ardour/libs/ardour/po/sv.po | 
- | [ru]({{< ref "/f11/language/ru.md" >}}) | 6232 | 10395 | 60.0 | /mnt/stockage/packages/f11/ardour/gtk2_ardour/po/ru.po/mnt/stockage/packages/f11/ardour/libs/ardour/po/ru.po/mnt/stockage/packages/f11/ardour/libs/gtkmm2ext/po/ru.po | 
- | [pl]({{< ref "/f11/language/pl.md" >}}) | 4348 | 9400 | 46.3 | /mnt/stockage/packages/f11/ardour/gtk2_ardour/po/pl.po/mnt/stockage/packages/f11/ardour/libs/ardour/po/pl.po/mnt/stockage/packages/f11/ardour/libs/gtkmm2ext/po/pl.po | 
- | [pt]({{< ref "/f11/language/pt.md" >}}) | 1365 | 4405 | 31.0 | /mnt/stockage/packages/f11/ardour/gtk2_ardour/po/pt.po/mnt/stockage/packages/f11/ardour/libs/gtkmm2ext/po/pt.po | 
+ | [cs](/f11/language/cs) | 5890 | 5890 | 100.0 | /mnt/stockage/packages/f11/ardour/gtk2_ardour/po/cs.po | 
+ | [nn](/f11/language/nn) | 10412 | 10412 | 100.0 | /mnt/stockage/packages/f11/ardour/gtk2_ardour/po/nn.po/mnt/stockage/packages/f11/ardour/libs/ardour/po/nn.po/mnt/stockage/packages/f11/ardour/libs/gtkmm2ext/po/nn.po | 
+ | [de](/f11/language/de) | 5942 | 6264 | 94.9 | /mnt/stockage/packages/f11/ardour/gtk2_ardour/po/de.po | 
+ | [el](/f11/language/el) | 6891 | 7472 | 92.2 | /mnt/stockage/packages/f11/ardour/gtk2_ardour/po/el.po/mnt/stockage/packages/f11/ardour/libs/ardour/po/el.po/mnt/stockage/packages/f11/ardour/libs/gtkmm2ext/po/el.po | 
+ | [pt_PT](/f11/language/pt_PT) | 3941 | 4397 | 89.6 | /mnt/stockage/packages/f11/ardour/gtk2_ardour/po/pt_PT.po | 
+ | [it](/f11/language/it) | 7371 | 9683 | 76.1 | /mnt/stockage/packages/f11/ardour/gtk2_ardour/po/it.po/mnt/stockage/packages/f11/ardour/libs/ardour/po/it.po | 
+ | [fr](/f11/language/fr) | 6889 | 10334 | 66.7 | /mnt/stockage/packages/f11/ardour/gtk2_ardour/po/fr.po/mnt/stockage/packages/f11/ardour/libs/ardour/po/fr.po | 
+ | [es](/f11/language/es) | 6597 | 10135 | 65.1 | /mnt/stockage/packages/f11/ardour/gtk2_ardour/po/es.po/mnt/stockage/packages/f11/ardour/libs/ardour/po/es.po/mnt/stockage/packages/f11/ardour/libs/gtkmm2ext/po/es.po | 
+ | [sv](/f11/language/sv) | 5505 | 9109 | 60.4 | /mnt/stockage/packages/f11/ardour/gtk2_ardour/po/sv.po/mnt/stockage/packages/f11/ardour/libs/ardour/po/sv.po | 
+ | [ru](/f11/language/ru) | 6232 | 10395 | 60.0 | /mnt/stockage/packages/f11/ardour/gtk2_ardour/po/ru.po/mnt/stockage/packages/f11/ardour/libs/ardour/po/ru.po/mnt/stockage/packages/f11/ardour/libs/gtkmm2ext/po/ru.po | 
+ | [pl](/f11/language/pl) | 4348 | 9400 | 46.3 | /mnt/stockage/packages/f11/ardour/gtk2_ardour/po/pl.po/mnt/stockage/packages/f11/ardour/libs/ardour/po/pl.po/mnt/stockage/packages/f11/ardour/libs/gtkmm2ext/po/pl.po | 
+ | [pt](/f11/language/pt) | 1365 | 4405 | 31.0 | /mnt/stockage/packages/f11/ardour/gtk2_ardour/po/pt.po/mnt/stockage/packages/f11/ardour/libs/gtkmm2ext/po/pt.po | 
 {.sortable}
 
 

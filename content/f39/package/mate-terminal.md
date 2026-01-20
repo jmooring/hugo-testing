@@ -18,130 +18,130 @@ The package mate-terminal (version 1.26.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [da]({{< ref "/f39/language/da.md" >}}) | 8386 | 8386 | 100.0 | /mnt/stockage/packages/f39/mate-terminal/help/da/da.po/mnt/stockage/packages/f39/mate-terminal/po/da.po | 
- | [en_GB]({{< ref "/f39/language/en_GB.md" >}}) | 8386 | 8386 | 100.0 | /mnt/stockage/packages/f39/mate-terminal/help/en_GB/en_GB.po/mnt/stockage/packages/f39/mate-terminal/po/en_GB.po | 
- | [id]({{< ref "/f39/language/id.md" >}}) | 8386 | 8386 | 100.0 | /mnt/stockage/packages/f39/mate-terminal/help/id/id.po/mnt/stockage/packages/f39/mate-terminal/po/id.po | 
- | [it]({{< ref "/f39/language/it.md" >}}) | 8386 | 8386 | 100.0 | /mnt/stockage/packages/f39/mate-terminal/help/it/it.po/mnt/stockage/packages/f39/mate-terminal/po/it.po | 
- | [ja]({{< ref "/f39/language/ja.md" >}}) | 8386 | 8386 | 100.0 | /mnt/stockage/packages/f39/mate-terminal/help/ja/ja.po/mnt/stockage/packages/f39/mate-terminal/po/ja.po | 
- | [ms]({{< ref "/f39/language/ms.md" >}}) | 8386 | 8386 | 100.0 | /mnt/stockage/packages/f39/mate-terminal/help/ms/ms.po/mnt/stockage/packages/f39/mate-terminal/po/ms.po | 
- | [ru]({{< ref "/f39/language/ru.md" >}}) | 8386 | 8386 | 100.0 | /mnt/stockage/packages/f39/mate-terminal/help/ru/ru.po/mnt/stockage/packages/f39/mate-terminal/po/ru.po | 
- | [sr]({{< ref "/f39/language/sr.md" >}}) | 8386 | 8386 | 100.0 | /mnt/stockage/packages/f39/mate-terminal/help/sr/sr.po/mnt/stockage/packages/f39/mate-terminal/po/sr.po | 
- | [ca]({{< ref "/f39/language/ca.md" >}}) | 6047 | 8386 | 72.1 | /mnt/stockage/packages/f39/mate-terminal/help/ca/ca.po/mnt/stockage/packages/f39/mate-terminal/po/ca.po | 
- | [uk]({{< ref "/f39/language/uk.md" >}}) | 5464 | 8386 | 65.2 | /mnt/stockage/packages/f39/mate-terminal/help/uk/uk.po/mnt/stockage/packages/f39/mate-terminal/po/uk.po | 
- | [pt_BR]({{< ref "/f39/language/pt_BR.md" >}}) | 5416 | 8386 | 64.6 | /mnt/stockage/packages/f39/mate-terminal/help/pt_BR/pt_BR.po/mnt/stockage/packages/f39/mate-terminal/po/pt_BR.po | 
- | [pt]({{< ref "/f39/language/pt.md" >}}) | 5225 | 8386 | 62.3 | /mnt/stockage/packages/f39/mate-terminal/help/pt/pt.po/mnt/stockage/packages/f39/mate-terminal/po/pt.po | 
- | [fr]({{< ref "/f39/language/fr.md" >}}) | 5198 | 8386 | 62.0 | /mnt/stockage/packages/f39/mate-terminal/help/fr/fr.po/mnt/stockage/packages/f39/mate-terminal/po/fr.po | 
- | [gl]({{< ref "/f39/language/gl.md" >}}) | 5144 | 8386 | 61.3 | /mnt/stockage/packages/f39/mate-terminal/help/gl/gl.po/mnt/stockage/packages/f39/mate-terminal/po/gl.po | 
- | [pl]({{< ref "/f39/language/pl.md" >}}) | 5141 | 8386 | 61.3 | /mnt/stockage/packages/f39/mate-terminal/help/pl/pl.po/mnt/stockage/packages/f39/mate-terminal/po/pl.po | 
- | [lt]({{< ref "/f39/language/lt.md" >}}) | 5120 | 8386 | 61.1 | /mnt/stockage/packages/f39/mate-terminal/help/lt/lt.po/mnt/stockage/packages/f39/mate-terminal/po/lt.po | 
- | [nl]({{< ref "/f39/language/nl.md" >}}) | 5119 | 8386 | 61.0 | /mnt/stockage/packages/f39/mate-terminal/help/nl/nl.po/mnt/stockage/packages/f39/mate-terminal/po/nl.po | 
- | [sv]({{< ref "/f39/language/sv.md" >}}) | 5103 | 8386 | 60.9 | /mnt/stockage/packages/f39/mate-terminal/help/sv/sv.po/mnt/stockage/packages/f39/mate-terminal/po/sv.po | 
- | [tr]({{< ref "/f39/language/tr.md" >}}) | 5076 | 8386 | 60.5 | /mnt/stockage/packages/f39/mate-terminal/help/tr/tr.po/mnt/stockage/packages/f39/mate-terminal/po/tr.po | 
- | [ko]({{< ref "/f39/language/ko.md" >}}) | 5070 | 8386 | 60.5 | /mnt/stockage/packages/f39/mate-terminal/help/ko/ko.po/mnt/stockage/packages/f39/mate-terminal/po/ko.po | 
- | [cs]({{< ref "/f39/language/cs.md" >}}) | 5017 | 8386 | 59.8 | /mnt/stockage/packages/f39/mate-terminal/help/cs/cs.po/mnt/stockage/packages/f39/mate-terminal/po/cs.po | 
- | [th]({{< ref "/f39/language/th.md" >}}) | 4993 | 8386 | 59.5 | /mnt/stockage/packages/f39/mate-terminal/help/th/th.po/mnt/stockage/packages/f39/mate-terminal/po/th.po | 
- | [hu]({{< ref "/f39/language/hu.md" >}}) | 4910 | 8386 | 58.5 | /mnt/stockage/packages/f39/mate-terminal/help/hu/hu.po/mnt/stockage/packages/f39/mate-terminal/po/hu.po | 
- | [de]({{< ref "/f39/language/de.md" >}}) | 4897 | 8386 | 58.4 | /mnt/stockage/packages/f39/mate-terminal/help/de/de.po/mnt/stockage/packages/f39/mate-terminal/po/de.po | 
- | [sk]({{< ref "/f39/language/sk.md" >}}) | 4880 | 8386 | 58.2 | /mnt/stockage/packages/f39/mate-terminal/help/sk/sk.po/mnt/stockage/packages/f39/mate-terminal/po/sk.po | 
- | [el]({{< ref "/f39/language/el.md" >}}) | 4878 | 8386 | 58.2 | /mnt/stockage/packages/f39/mate-terminal/help/el/el.po/mnt/stockage/packages/f39/mate-terminal/po/el.po | 
- | [ca@valencia]({{< ref "/f39/language/ca@valencia.md" >}}) | 4873 | 8386 | 58.1 | /mnt/stockage/packages/f39/mate-terminal/help/ca@valencia/ca@valencia.po/mnt/stockage/packages/f39/mate-terminal/po/ca@valencia.po | 
- | [nb_NO]({{< ref "/f39/language/nb_NO.md" >}}) | 4752 | 8386 | 56.7 | /mnt/stockage/packages/f39/mate-terminal/help/nb/nb.po/mnt/stockage/packages/f39/mate-terminal/po/nb.po | 
- | [zh_Hant]({{< ref "/f39/language/zh_Hant.md" >}}) | 4751 | 8386 | 56.7 | /mnt/stockage/packages/f39/mate-terminal/help/zh_TW/zh_TW.po/mnt/stockage/packages/f39/mate-terminal/po/zh_TW.po | 
- | [sl]({{< ref "/f39/language/sl.md" >}}) | 4675 | 8386 | 55.7 | /mnt/stockage/packages/f39/mate-terminal/help/sl/sl.po/mnt/stockage/packages/f39/mate-terminal/po/sl.po | 
- | [et]({{< ref "/f39/language/et.md" >}}) | 4571 | 8386 | 54.5 | /mnt/stockage/packages/f39/mate-terminal/help/et/et.po/mnt/stockage/packages/f39/mate-terminal/po/et.po | 
- | [zh_Hans]({{< ref "/f39/language/zh_Hans.md" >}}) | 9103 | 16772 | 54.3 | /mnt/stockage/packages/f39/mate-terminal/help/cmn/cmn.po/mnt/stockage/packages/f39/mate-terminal/help/zh_CN/zh_CN.po/mnt/stockage/packages/f39/mate-terminal/po/zh_CN.po/mnt/stockage/packages/f39/mate-terminal/po/cmn.po | 
- | [fi]({{< ref "/f39/language/fi.md" >}}) | 4533 | 8386 | 54.1 | /mnt/stockage/packages/f39/mate-terminal/help/fi/fi.po/mnt/stockage/packages/f39/mate-terminal/po/fi.po | 
- | [bg]({{< ref "/f39/language/bg.md" >}}) | 4510 | 8386 | 53.8 | /mnt/stockage/packages/f39/mate-terminal/help/bg/bg.po/mnt/stockage/packages/f39/mate-terminal/po/bg.po | 
- | [ast]({{< ref "/f39/language/ast.md" >}}) | 4508 | 8386 | 53.8 | /mnt/stockage/packages/f39/mate-terminal/help/ast/ast.po/mnt/stockage/packages/f39/mate-terminal/po/ast.po | 
- | [eu]({{< ref "/f39/language/eu.md" >}}) | 4379 | 8386 | 52.2 | /mnt/stockage/packages/f39/mate-terminal/help/eu/eu.po/mnt/stockage/packages/f39/mate-terminal/po/eu.po | 
- | [pa]({{< ref "/f39/language/pa.md" >}}) | 4318 | 8386 | 51.5 | /mnt/stockage/packages/f39/mate-terminal/help/pa/pa.po/mnt/stockage/packages/f39/mate-terminal/po/pa.po | 
- | [hy]({{< ref "/f39/language/hy.md" >}}) | 4176 | 8386 | 49.8 | /mnt/stockage/packages/f39/mate-terminal/help/hy/hy.po/mnt/stockage/packages/f39/mate-terminal/po/hy.po | 
- | [en_AU]({{< ref "/f39/language/en_AU.md" >}}) | 4158 | 8386 | 49.6 | /mnt/stockage/packages/f39/mate-terminal/help/en_AU/en_AU.po/mnt/stockage/packages/f39/mate-terminal/po/en_AU.po | 
- | [ar]({{< ref "/f39/language/ar.md" >}}) | 4028 | 8386 | 48.0 | /mnt/stockage/packages/f39/mate-terminal/help/ar/ar.po/mnt/stockage/packages/f39/mate-terminal/po/ar.po | 
- | [ro]({{< ref "/f39/language/ro.md" >}}) | 4024 | 8386 | 48.0 | /mnt/stockage/packages/f39/mate-terminal/help/ro/ro.po/mnt/stockage/packages/f39/mate-terminal/po/ro.po | 
- | [he]({{< ref "/f39/language/he.md" >}}) | 4017 | 8386 | 47.9 | /mnt/stockage/packages/f39/mate-terminal/help/he/he.po/mnt/stockage/packages/f39/mate-terminal/po/he.po | 
- | [mr]({{< ref "/f39/language/mr.md" >}}) | 4000 | 8386 | 47.7 | /mnt/stockage/packages/f39/mate-terminal/help/mr/mr.po/mnt/stockage/packages/f39/mate-terminal/po/mr.po | 
- | [lv]({{< ref "/f39/language/lv.md" >}}) | 3987 | 8386 | 47.5 | /mnt/stockage/packages/f39/mate-terminal/help/lv/lv.po/mnt/stockage/packages/f39/mate-terminal/po/lv.po | 
- | [bn_IN]({{< ref "/f39/language/bn_IN.md" >}}) | 3979 | 8386 | 47.4 | /mnt/stockage/packages/f39/mate-terminal/help/bn_IN/bn_IN.po/mnt/stockage/packages/f39/mate-terminal/po/bn_IN.po | 
- | [sr_Latn]({{< ref "/f39/language/sr_Latn.md" >}}) | 3979 | 8386 | 47.4 | /mnt/stockage/packages/f39/mate-terminal/help/sr@latin/sr@latin.po/mnt/stockage/packages/f39/mate-terminal/po/sr@latin.po | 
- | [ta]({{< ref "/f39/language/ta.md" >}}) | 3979 | 8386 | 47.4 | /mnt/stockage/packages/f39/mate-terminal/help/ta/ta.po/mnt/stockage/packages/f39/mate-terminal/po/ta.po | 
- | [zh_Hant_HK]({{< ref "/f39/language/zh_Hant_HK.md" >}}) | 3979 | 8386 | 47.4 | /mnt/stockage/packages/f39/mate-terminal/help/zh_HK/zh_HK.po/mnt/stockage/packages/f39/mate-terminal/po/zh_HK.po | 
- | [kn]({{< ref "/f39/language/kn.md" >}}) | 3946 | 8386 | 47.1 | /mnt/stockage/packages/f39/mate-terminal/help/kn/kn.po/mnt/stockage/packages/f39/mate-terminal/po/kn.po | 
- | [gu]({{< ref "/f39/language/gu.md" >}}) | 3938 | 8386 | 47.0 | /mnt/stockage/packages/f39/mate-terminal/help/gu/gu.po/mnt/stockage/packages/f39/mate-terminal/po/gu.po | 
- | [or]({{< ref "/f39/language/or.md" >}}) | 3938 | 8386 | 47.0 | /mnt/stockage/packages/f39/mate-terminal/help/or/or.po/mnt/stockage/packages/f39/mate-terminal/po/or.po | 
- | [te]({{< ref "/f39/language/te.md" >}}) | 3938 | 8386 | 47.0 | /mnt/stockage/packages/f39/mate-terminal/help/te/te.po/mnt/stockage/packages/f39/mate-terminal/po/te.po | 
- | [ug]({{< ref "/f39/language/ug.md" >}}) | 3934 | 8386 | 46.9 | /mnt/stockage/packages/f39/mate-terminal/help/ug/ug.po/mnt/stockage/packages/f39/mate-terminal/po/ug.po | 
- | [ml]({{< ref "/f39/language/ml.md" >}}) | 3927 | 8386 | 46.8 | /mnt/stockage/packages/f39/mate-terminal/help/ml/ml.po/mnt/stockage/packages/f39/mate-terminal/po/ml.po | 
- | [be]({{< ref "/f39/language/be.md" >}}) | 3836 | 8386 | 45.7 | /mnt/stockage/packages/f39/mate-terminal/help/be/be.po/mnt/stockage/packages/f39/mate-terminal/po/be.po | 
- | [bn]({{< ref "/f39/language/bn.md" >}}) | 3826 | 8386 | 45.6 | /mnt/stockage/packages/f39/mate-terminal/help/bn/bn.po/mnt/stockage/packages/f39/mate-terminal/po/bn.po | 
- | [hr]({{< ref "/f39/language/hr.md" >}}) | 3625 | 8386 | 43.2 | /mnt/stockage/packages/f39/mate-terminal/help/hr/hr.po/mnt/stockage/packages/f39/mate-terminal/po/hr.po | 
- | [nn]({{< ref "/f39/language/nn.md" >}}) | 3590 | 8386 | 42.8 | /mnt/stockage/packages/f39/mate-terminal/help/nn/nn.po/mnt/stockage/packages/f39/mate-terminal/po/nn.po | 
- | [hi]({{< ref "/f39/language/hi.md" >}}) | 3543 | 8386 | 42.2 | /mnt/stockage/packages/f39/mate-terminal/help/hi/hi.po/mnt/stockage/packages/f39/mate-terminal/po/hi.po | 
- | [vi]({{< ref "/f39/language/vi.md" >}}) | 3536 | 8386 | 42.2 | /mnt/stockage/packages/f39/mate-terminal/help/vi/vi.po/mnt/stockage/packages/f39/mate-terminal/po/vi.po | 
- | [as]({{< ref "/f39/language/as.md" >}}) | 3535 | 8386 | 42.2 | /mnt/stockage/packages/f39/mate-terminal/help/as/as.po/mnt/stockage/packages/f39/mate-terminal/po/as.po | 
- | [sq]({{< ref "/f39/language/sq.md" >}}) | 3177 | 8386 | 37.9 | /mnt/stockage/packages/f39/mate-terminal/help/sq/sq.po/mnt/stockage/packages/f39/mate-terminal/po/sq.po | 
- | [mk]({{< ref "/f39/language/mk.md" >}}) | 3097 | 8386 | 36.9 | /mnt/stockage/packages/f39/mate-terminal/help/mk/mk.po/mnt/stockage/packages/f39/mate-terminal/po/mk.po | 
- | [cy]({{< ref "/f39/language/cy.md" >}}) | 3081 | 8386 | 36.7 | /mnt/stockage/packages/f39/mate-terminal/help/cy/cy.po/mnt/stockage/packages/f39/mate-terminal/po/cy.po | 
- | [ne]({{< ref "/f39/language/ne.md" >}}) | 3020 | 8386 | 36.0 | /mnt/stockage/packages/f39/mate-terminal/help/ne/ne.po/mnt/stockage/packages/f39/mate-terminal/po/ne.po | 
- | [dz]({{< ref "/f39/language/dz.md" >}}) | 3009 | 8386 | 35.9 | /mnt/stockage/packages/f39/mate-terminal/help/dz/dz.po/mnt/stockage/packages/f39/mate-terminal/po/dz.po | 
- | [en_CA]({{< ref "/f39/language/en_CA.md" >}}) | 2991 | 8386 | 35.7 | /mnt/stockage/packages/f39/mate-terminal/help/en_CA/en_CA.po/mnt/stockage/packages/f39/mate-terminal/po/en_CA.po | 
- | [mg]({{< ref "/f39/language/mg.md" >}}) | 2989 | 8386 | 35.6 | /mnt/stockage/packages/f39/mate-terminal/help/mg/mg.po/mnt/stockage/packages/f39/mate-terminal/po/mg.po | 
- | [fur]({{< ref "/f39/language/fur.md" >}}) | 2898 | 8386 | 34.6 | /mnt/stockage/packages/f39/mate-terminal/help/fur/fur.po/mnt/stockage/packages/f39/mate-terminal/po/fur.po | 
- | [bs]({{< ref "/f39/language/bs.md" >}}) | 2781 | 8386 | 33.2 | /mnt/stockage/packages/f39/mate-terminal/help/bs/bs.po/mnt/stockage/packages/f39/mate-terminal/po/bs.po | 
- | [fa]({{< ref "/f39/language/fa.md" >}}) | 2723 | 8386 | 32.5 | /mnt/stockage/packages/f39/mate-terminal/help/fa/fa.po/mnt/stockage/packages/f39/mate-terminal/po/fa.po | 
- | [xh]({{< ref "/f39/language/xh.md" >}}) | 2717 | 8386 | 32.4 | /mnt/stockage/packages/f39/mate-terminal/help/xh/xh.po/mnt/stockage/packages/f39/mate-terminal/po/xh.po | 
- | [az]({{< ref "/f39/language/az.md" >}}) | 2711 | 8386 | 32.3 | /mnt/stockage/packages/f39/mate-terminal/help/az/az.po/mnt/stockage/packages/f39/mate-terminal/po/az.po | 
- | [wa]({{< ref "/f39/language/wa.md" >}}) | 2673 | 8386 | 31.9 | /mnt/stockage/packages/f39/mate-terminal/help/wa/wa.po/mnt/stockage/packages/f39/mate-terminal/po/wa.po | 
- | [es]({{< ref "/f39/language/es.md" >}}) | 5184 | 16909 | 30.7 | /mnt/stockage/packages/f39/mate-terminal/help/es/es.po/mnt/stockage/packages/f39/mate-terminal/help/es_ES/es_ES.po/mnt/stockage/packages/f39/mate-terminal/po/es.po/mnt/stockage/packages/f39/mate-terminal/po/es_ES.po | 
- | [oc]({{< ref "/f39/language/oc.md" >}}) | 2443 | 8386 | 29.1 | /mnt/stockage/packages/f39/mate-terminal/help/oc/oc.po/mnt/stockage/packages/f39/mate-terminal/po/oc.po | 
- | [mai]({{< ref "/f39/language/mai.md" >}}) | 2363 | 8386 | 28.2 | /mnt/stockage/packages/f39/mate-terminal/help/mai/mai.po/mnt/stockage/packages/f39/mate-terminal/po/mai.po | 
- | [am]({{< ref "/f39/language/am.md" >}}) | 2293 | 8386 | 27.3 | /mnt/stockage/packages/f39/mate-terminal/help/am/am.po/mnt/stockage/packages/f39/mate-terminal/po/am.po | 
- | [mn]({{< ref "/f39/language/mn.md" >}}) | 2119 | 8386 | 25.3 | /mnt/stockage/packages/f39/mate-terminal/help/mn/mn.po/mnt/stockage/packages/f39/mate-terminal/po/mn.po | 
- | [kk]({{< ref "/f39/language/kk.md" >}}) | 1852 | 8386 | 22.1 | /mnt/stockage/packages/f39/mate-terminal/help/kk/kk.po/mnt/stockage/packages/f39/mate-terminal/po/kk.po | 
- | [ur]({{< ref "/f39/language/ur.md" >}}) | 1301 | 8386 | 15.5 | /mnt/stockage/packages/f39/mate-terminal/help/ur/ur.po/mnt/stockage/packages/f39/mate-terminal/po/ur.po | 
- | [nds]({{< ref "/f39/language/nds.md" >}}) | 1180 | 8507 | 13.9 | /mnt/stockage/packages/f39/mate-terminal/help/nds/nds.po/mnt/stockage/packages/f39/mate-terminal/po/nds.po | 
- | [ga]({{< ref "/f39/language/ga.md" >}}) | 1071 | 8386 | 12.8 | /mnt/stockage/packages/f39/mate-terminal/help/ga/ga.po/mnt/stockage/packages/f39/mate-terminal/po/ga.po | 
- | [ie]({{< ref "/f39/language/ie.md" >}}) | 990 | 8386 | 11.8 | /mnt/stockage/packages/f39/mate-terminal/help/ie/ie.po/mnt/stockage/packages/f39/mate-terminal/po/ie.po | 
- | [ku]({{< ref "/f39/language/ku.md" >}}) | 944 | 8386 | 11.3 | /mnt/stockage/packages/f39/mate-terminal/help/ku/ku.po/mnt/stockage/packages/f39/mate-terminal/po/ku.po | 
- | [es_CO]({{< ref "/f39/language/es_CO.md" >}}) | 932 | 8386 | 11.1 | /mnt/stockage/packages/f39/mate-terminal/help/es_CO/es_CO.po/mnt/stockage/packages/f39/mate-terminal/po/es_CO.po | 
- | [ps]({{< ref "/f39/language/ps.md" >}}) | 805 | 8386 | 9.6 | /mnt/stockage/packages/f39/mate-terminal/help/ps/ps.po/mnt/stockage/packages/f39/mate-terminal/po/ps.po | 
- | [eo]({{< ref "/f39/language/eo.md" >}}) | 753 | 8386 | 9.0 | /mnt/stockage/packages/f39/mate-terminal/help/eo/eo.po/mnt/stockage/packages/f39/mate-terminal/po/eo.po | 
- | [br]({{< ref "/f39/language/br.md" >}}) | 688 | 8386 | 8.2 | /mnt/stockage/packages/f39/mate-terminal/help/br/br.po/mnt/stockage/packages/f39/mate-terminal/po/br.po | 
- | [ky]({{< ref "/f39/language/ky.md" >}}) | 621 | 8386 | 7.4 | /mnt/stockage/packages/f39/mate-terminal/help/ky/ky.po/mnt/stockage/packages/f39/mate-terminal/po/ky.po | 
- | [si]({{< ref "/f39/language/si.md" >}}) | 616 | 8386 | 7.3 | /mnt/stockage/packages/f39/mate-terminal/help/si/si.po/mnt/stockage/packages/f39/mate-terminal/po/si.po | 
- | [uz]({{< ref "/f39/language/uz.md" >}}) | 419 | 8523 | 4.9 | /mnt/stockage/packages/f39/mate-terminal/help/uz/uz.po/mnt/stockage/packages/f39/mate-terminal/po/uz.po | 
- | [ka]({{< ref "/f39/language/ka.md" >}}) | 364 | 8386 | 4.3 | /mnt/stockage/packages/f39/mate-terminal/help/ka/ka.po/mnt/stockage/packages/f39/mate-terminal/po/ka.po | 
- | [kmr]({{< ref "/f39/language/kmr.md" >}}) | 210 | 8523 | 2.5 | /mnt/stockage/packages/f39/mate-terminal/help/ku_IQ/ku_IQ.po/mnt/stockage/packages/f39/mate-terminal/po/ku_IQ.po | 
- | [af]({{< ref "/f39/language/af.md" >}}) | 179 | 8386 | 2.1 | /mnt/stockage/packages/f39/mate-terminal/help/af/af.po/mnt/stockage/packages/f39/mate-terminal/po/af.po | 
- | [is]({{< ref "/f39/language/is.md" >}}) | 179 | 8507 | 2.1 | /mnt/stockage/packages/f39/mate-terminal/help/is/is.po/mnt/stockage/packages/f39/mate-terminal/po/is.po | 
- | [tk]({{< ref "/f39/language/tk.md" >}}) | 97 | 4719 | 2.1 | /mnt/stockage/packages/f39/mate-terminal/po/tk.po | 
- | [crh]({{< ref "/f39/language/crh.md" >}}) | 171 | 8386 | 2.0 | /mnt/stockage/packages/f39/mate-terminal/help/crh/crh.po/mnt/stockage/packages/f39/mate-terminal/po/crh.po | 
- | [rw]({{< ref "/f39/language/rw.md" >}}) | 73 | 4719 | 1.5 | /mnt/stockage/packages/f39/mate-terminal/po/rw.po | 
- | [en_US]({{< ref "/f39/language/en_US.md" >}}) | 66 | 4719 | 1.4 | /mnt/stockage/packages/f39/mate-terminal/po/en_US.po | 
- | [la]({{< ref "/f39/language/la.md" >}}) | 64 | 4719 | 1.4 | /mnt/stockage/packages/f39/mate-terminal/po/la.po | 
- | [nso]({{< ref "/f39/language/nso.md" >}}) | 55 | 4719 | 1.2 | /mnt/stockage/packages/f39/mate-terminal/po/nso.po | 
- | [zu]({{< ref "/f39/language/zu.md" >}}) | 55 | 4719 | 1.2 | /mnt/stockage/packages/f39/mate-terminal/po/zu.po | 
- | [frp]({{< ref "/f39/language/frp.md" >}}) | 48 | 4719 | 1.0 | /mnt/stockage/packages/f39/mate-terminal/po/frp.po | 
- | [li]({{< ref "/f39/language/li.md" >}}) | 43 | 4719 | 0.9 | /mnt/stockage/packages/f39/mate-terminal/po/li.po | 
- | [fy]({{< ref "/f39/language/fy.md" >}}) | 73 | 8523 | 0.9 | /mnt/stockage/packages/f39/mate-terminal/help/fy/fy.po/mnt/stockage/packages/f39/mate-terminal/po/fy.po | 
- | [sc]({{< ref "/f39/language/sc.md" >}}) | 38 | 4719 | 0.8 | /mnt/stockage/packages/f39/mate-terminal/po/sc.po | 
- | [es_AR]({{< ref "/f39/language/es_AR.md" >}}) | 62 | 8386 | 0.7 | /mnt/stockage/packages/f39/mate-terminal/help/es_AR/es_AR.po/mnt/stockage/packages/f39/mate-terminal/po/es_AR.po | 
- | [es_MX]({{< ref "/f39/language/es_MX.md" >}}) | 60 | 8523 | 0.7 | /mnt/stockage/packages/f39/mate-terminal/help/es_MX/es_MX.po/mnt/stockage/packages/f39/mate-terminal/po/es_MX.po | 
- | [kab]({{< ref "/f39/language/kab.md" >}}) | 57 | 8386 | 0.7 | /mnt/stockage/packages/f39/mate-terminal/help/kab/kab.po/mnt/stockage/packages/f39/mate-terminal/po/kab.po | 
- | [ks]({{< ref "/f39/language/ks.md" >}}) | 31 | 4719 | 0.7 | /mnt/stockage/packages/f39/mate-terminal/po/ks.po | 
- | [mi]({{< ref "/f39/language/mi.md" >}}) | 27 | 4719 | 0.6 | /mnt/stockage/packages/f39/mate-terminal/po/mi.po | 
- | [jv]({{< ref "/f39/language/jv.md" >}}) | 23 | 4719 | 0.5 | /mnt/stockage/packages/f39/mate-terminal/po/jv.po | 
- | [pms]({{< ref "/f39/language/pms.md" >}}) | 23 | 4719 | 0.5 | /mnt/stockage/packages/f39/mate-terminal/po/pms.po | 
- | [ia]({{< ref "/f39/language/ia.md" >}}) | 20 | 4719 | 0.4 | /mnt/stockage/packages/f39/mate-terminal/po/ia.po | 
- | [ha]({{< ref "/f39/language/ha.md" >}}) | 36 | 8523 | 0.4 | /mnt/stockage/packages/f39/mate-terminal/help/ha/ha.po/mnt/stockage/packages/f39/mate-terminal/po/ha.po | 
- | [ig]({{< ref "/f39/language/ig.md" >}}) | 36 | 8523 | 0.4 | /mnt/stockage/packages/f39/mate-terminal/help/ig/ig.po/mnt/stockage/packages/f39/mate-terminal/po/ig.po | 
- | [yo]({{< ref "/f39/language/yo.md" >}}) | 36 | 8523 | 0.4 | /mnt/stockage/packages/f39/mate-terminal/help/yo/yo.po/mnt/stockage/packages/f39/mate-terminal/po/yo.po | 
- | [tt]({{< ref "/f39/language/tt.md" >}}) | 19 | 4719 | 0.4 | /mnt/stockage/packages/f39/mate-terminal/po/tt.po | 
- | [yi]({{< ref "/f39/language/yi.md" >}}) | 16 | 4719 | 0.3 | /mnt/stockage/packages/f39/mate-terminal/po/yi.po | 
- | [nqo]({{< ref "/f39/language/nqo.md" >}}) | 9 | 4719 | 0.2 | /mnt/stockage/packages/f39/mate-terminal/po/nqo.po | 
- | [es_CL]({{< ref "/f39/language/es_CL.md" >}}) | 15 | 8523 | 0.2 | /mnt/stockage/packages/f39/mate-terminal/help/es_CL/es_CL.po/mnt/stockage/packages/f39/mate-terminal/po/es_CL.po | 
- | [es_PR]({{< ref "/f39/language/es_PR.md" >}}) | 14 | 8523 | 0.2 | /mnt/stockage/packages/f39/mate-terminal/help/es_PR/es_PR.po/mnt/stockage/packages/f39/mate-terminal/po/es_PR.po | 
- | [fr_CA]({{< ref "/f39/language/fr_CA.md" >}}) | 4 | 4719 | 0.1 | /mnt/stockage/packages/f39/mate-terminal/po/fr_CA.po | 
+ | [da](/f39/language/da) | 8386 | 8386 | 100.0 | /mnt/stockage/packages/f39/mate-terminal/help/da/da.po/mnt/stockage/packages/f39/mate-terminal/po/da.po | 
+ | [en_GB](/f39/language/en_GB) | 8386 | 8386 | 100.0 | /mnt/stockage/packages/f39/mate-terminal/help/en_GB/en_GB.po/mnt/stockage/packages/f39/mate-terminal/po/en_GB.po | 
+ | [id](/f39/language/id) | 8386 | 8386 | 100.0 | /mnt/stockage/packages/f39/mate-terminal/help/id/id.po/mnt/stockage/packages/f39/mate-terminal/po/id.po | 
+ | [it](/f39/language/it) | 8386 | 8386 | 100.0 | /mnt/stockage/packages/f39/mate-terminal/help/it/it.po/mnt/stockage/packages/f39/mate-terminal/po/it.po | 
+ | [ja](/f39/language/ja) | 8386 | 8386 | 100.0 | /mnt/stockage/packages/f39/mate-terminal/help/ja/ja.po/mnt/stockage/packages/f39/mate-terminal/po/ja.po | 
+ | [ms](/f39/language/ms) | 8386 | 8386 | 100.0 | /mnt/stockage/packages/f39/mate-terminal/help/ms/ms.po/mnt/stockage/packages/f39/mate-terminal/po/ms.po | 
+ | [ru](/f39/language/ru) | 8386 | 8386 | 100.0 | /mnt/stockage/packages/f39/mate-terminal/help/ru/ru.po/mnt/stockage/packages/f39/mate-terminal/po/ru.po | 
+ | [sr](/f39/language/sr) | 8386 | 8386 | 100.0 | /mnt/stockage/packages/f39/mate-terminal/help/sr/sr.po/mnt/stockage/packages/f39/mate-terminal/po/sr.po | 
+ | [ca](/f39/language/ca) | 6047 | 8386 | 72.1 | /mnt/stockage/packages/f39/mate-terminal/help/ca/ca.po/mnt/stockage/packages/f39/mate-terminal/po/ca.po | 
+ | [uk](/f39/language/uk) | 5464 | 8386 | 65.2 | /mnt/stockage/packages/f39/mate-terminal/help/uk/uk.po/mnt/stockage/packages/f39/mate-terminal/po/uk.po | 
+ | [pt_BR](/f39/language/pt_BR) | 5416 | 8386 | 64.6 | /mnt/stockage/packages/f39/mate-terminal/help/pt_BR/pt_BR.po/mnt/stockage/packages/f39/mate-terminal/po/pt_BR.po | 
+ | [pt](/f39/language/pt) | 5225 | 8386 | 62.3 | /mnt/stockage/packages/f39/mate-terminal/help/pt/pt.po/mnt/stockage/packages/f39/mate-terminal/po/pt.po | 
+ | [fr](/f39/language/fr) | 5198 | 8386 | 62.0 | /mnt/stockage/packages/f39/mate-terminal/help/fr/fr.po/mnt/stockage/packages/f39/mate-terminal/po/fr.po | 
+ | [gl](/f39/language/gl) | 5144 | 8386 | 61.3 | /mnt/stockage/packages/f39/mate-terminal/help/gl/gl.po/mnt/stockage/packages/f39/mate-terminal/po/gl.po | 
+ | [pl](/f39/language/pl) | 5141 | 8386 | 61.3 | /mnt/stockage/packages/f39/mate-terminal/help/pl/pl.po/mnt/stockage/packages/f39/mate-terminal/po/pl.po | 
+ | [lt](/f39/language/lt) | 5120 | 8386 | 61.1 | /mnt/stockage/packages/f39/mate-terminal/help/lt/lt.po/mnt/stockage/packages/f39/mate-terminal/po/lt.po | 
+ | [nl](/f39/language/nl) | 5119 | 8386 | 61.0 | /mnt/stockage/packages/f39/mate-terminal/help/nl/nl.po/mnt/stockage/packages/f39/mate-terminal/po/nl.po | 
+ | [sv](/f39/language/sv) | 5103 | 8386 | 60.9 | /mnt/stockage/packages/f39/mate-terminal/help/sv/sv.po/mnt/stockage/packages/f39/mate-terminal/po/sv.po | 
+ | [tr](/f39/language/tr) | 5076 | 8386 | 60.5 | /mnt/stockage/packages/f39/mate-terminal/help/tr/tr.po/mnt/stockage/packages/f39/mate-terminal/po/tr.po | 
+ | [ko](/f39/language/ko) | 5070 | 8386 | 60.5 | /mnt/stockage/packages/f39/mate-terminal/help/ko/ko.po/mnt/stockage/packages/f39/mate-terminal/po/ko.po | 
+ | [cs](/f39/language/cs) | 5017 | 8386 | 59.8 | /mnt/stockage/packages/f39/mate-terminal/help/cs/cs.po/mnt/stockage/packages/f39/mate-terminal/po/cs.po | 
+ | [th](/f39/language/th) | 4993 | 8386 | 59.5 | /mnt/stockage/packages/f39/mate-terminal/help/th/th.po/mnt/stockage/packages/f39/mate-terminal/po/th.po | 
+ | [hu](/f39/language/hu) | 4910 | 8386 | 58.5 | /mnt/stockage/packages/f39/mate-terminal/help/hu/hu.po/mnt/stockage/packages/f39/mate-terminal/po/hu.po | 
+ | [de](/f39/language/de) | 4897 | 8386 | 58.4 | /mnt/stockage/packages/f39/mate-terminal/help/de/de.po/mnt/stockage/packages/f39/mate-terminal/po/de.po | 
+ | [sk](/f39/language/sk) | 4880 | 8386 | 58.2 | /mnt/stockage/packages/f39/mate-terminal/help/sk/sk.po/mnt/stockage/packages/f39/mate-terminal/po/sk.po | 
+ | [el](/f39/language/el) | 4878 | 8386 | 58.2 | /mnt/stockage/packages/f39/mate-terminal/help/el/el.po/mnt/stockage/packages/f39/mate-terminal/po/el.po | 
+ | [ca@valencia](/f39/language/ca@valencia) | 4873 | 8386 | 58.1 | /mnt/stockage/packages/f39/mate-terminal/help/ca@valencia/ca@valencia.po/mnt/stockage/packages/f39/mate-terminal/po/ca@valencia.po | 
+ | [nb_NO](/f39/language/nb_NO) | 4752 | 8386 | 56.7 | /mnt/stockage/packages/f39/mate-terminal/help/nb/nb.po/mnt/stockage/packages/f39/mate-terminal/po/nb.po | 
+ | [zh_Hant](/f39/language/zh_Hant) | 4751 | 8386 | 56.7 | /mnt/stockage/packages/f39/mate-terminal/help/zh_TW/zh_TW.po/mnt/stockage/packages/f39/mate-terminal/po/zh_TW.po | 
+ | [sl](/f39/language/sl) | 4675 | 8386 | 55.7 | /mnt/stockage/packages/f39/mate-terminal/help/sl/sl.po/mnt/stockage/packages/f39/mate-terminal/po/sl.po | 
+ | [et](/f39/language/et) | 4571 | 8386 | 54.5 | /mnt/stockage/packages/f39/mate-terminal/help/et/et.po/mnt/stockage/packages/f39/mate-terminal/po/et.po | 
+ | [zh_Hans](/f39/language/zh_Hans) | 9103 | 16772 | 54.3 | /mnt/stockage/packages/f39/mate-terminal/help/cmn/cmn.po/mnt/stockage/packages/f39/mate-terminal/help/zh_CN/zh_CN.po/mnt/stockage/packages/f39/mate-terminal/po/zh_CN.po/mnt/stockage/packages/f39/mate-terminal/po/cmn.po | 
+ | [fi](/f39/language/fi) | 4533 | 8386 | 54.1 | /mnt/stockage/packages/f39/mate-terminal/help/fi/fi.po/mnt/stockage/packages/f39/mate-terminal/po/fi.po | 
+ | [bg](/f39/language/bg) | 4510 | 8386 | 53.8 | /mnt/stockage/packages/f39/mate-terminal/help/bg/bg.po/mnt/stockage/packages/f39/mate-terminal/po/bg.po | 
+ | [ast](/f39/language/ast) | 4508 | 8386 | 53.8 | /mnt/stockage/packages/f39/mate-terminal/help/ast/ast.po/mnt/stockage/packages/f39/mate-terminal/po/ast.po | 
+ | [eu](/f39/language/eu) | 4379 | 8386 | 52.2 | /mnt/stockage/packages/f39/mate-terminal/help/eu/eu.po/mnt/stockage/packages/f39/mate-terminal/po/eu.po | 
+ | [pa](/f39/language/pa) | 4318 | 8386 | 51.5 | /mnt/stockage/packages/f39/mate-terminal/help/pa/pa.po/mnt/stockage/packages/f39/mate-terminal/po/pa.po | 
+ | [hy](/f39/language/hy) | 4176 | 8386 | 49.8 | /mnt/stockage/packages/f39/mate-terminal/help/hy/hy.po/mnt/stockage/packages/f39/mate-terminal/po/hy.po | 
+ | [en_AU](/f39/language/en_AU) | 4158 | 8386 | 49.6 | /mnt/stockage/packages/f39/mate-terminal/help/en_AU/en_AU.po/mnt/stockage/packages/f39/mate-terminal/po/en_AU.po | 
+ | [ar](/f39/language/ar) | 4028 | 8386 | 48.0 | /mnt/stockage/packages/f39/mate-terminal/help/ar/ar.po/mnt/stockage/packages/f39/mate-terminal/po/ar.po | 
+ | [ro](/f39/language/ro) | 4024 | 8386 | 48.0 | /mnt/stockage/packages/f39/mate-terminal/help/ro/ro.po/mnt/stockage/packages/f39/mate-terminal/po/ro.po | 
+ | [he](/f39/language/he) | 4017 | 8386 | 47.9 | /mnt/stockage/packages/f39/mate-terminal/help/he/he.po/mnt/stockage/packages/f39/mate-terminal/po/he.po | 
+ | [mr](/f39/language/mr) | 4000 | 8386 | 47.7 | /mnt/stockage/packages/f39/mate-terminal/help/mr/mr.po/mnt/stockage/packages/f39/mate-terminal/po/mr.po | 
+ | [lv](/f39/language/lv) | 3987 | 8386 | 47.5 | /mnt/stockage/packages/f39/mate-terminal/help/lv/lv.po/mnt/stockage/packages/f39/mate-terminal/po/lv.po | 
+ | [bn_IN](/f39/language/bn_IN) | 3979 | 8386 | 47.4 | /mnt/stockage/packages/f39/mate-terminal/help/bn_IN/bn_IN.po/mnt/stockage/packages/f39/mate-terminal/po/bn_IN.po | 
+ | [sr_Latn](/f39/language/sr_Latn) | 3979 | 8386 | 47.4 | /mnt/stockage/packages/f39/mate-terminal/help/sr@latin/sr@latin.po/mnt/stockage/packages/f39/mate-terminal/po/sr@latin.po | 
+ | [ta](/f39/language/ta) | 3979 | 8386 | 47.4 | /mnt/stockage/packages/f39/mate-terminal/help/ta/ta.po/mnt/stockage/packages/f39/mate-terminal/po/ta.po | 
+ | [zh_Hant_HK](/f39/language/zh_Hant_HK) | 3979 | 8386 | 47.4 | /mnt/stockage/packages/f39/mate-terminal/help/zh_HK/zh_HK.po/mnt/stockage/packages/f39/mate-terminal/po/zh_HK.po | 
+ | [kn](/f39/language/kn) | 3946 | 8386 | 47.1 | /mnt/stockage/packages/f39/mate-terminal/help/kn/kn.po/mnt/stockage/packages/f39/mate-terminal/po/kn.po | 
+ | [gu](/f39/language/gu) | 3938 | 8386 | 47.0 | /mnt/stockage/packages/f39/mate-terminal/help/gu/gu.po/mnt/stockage/packages/f39/mate-terminal/po/gu.po | 
+ | [or](/f39/language/or) | 3938 | 8386 | 47.0 | /mnt/stockage/packages/f39/mate-terminal/help/or/or.po/mnt/stockage/packages/f39/mate-terminal/po/or.po | 
+ | [te](/f39/language/te) | 3938 | 8386 | 47.0 | /mnt/stockage/packages/f39/mate-terminal/help/te/te.po/mnt/stockage/packages/f39/mate-terminal/po/te.po | 
+ | [ug](/f39/language/ug) | 3934 | 8386 | 46.9 | /mnt/stockage/packages/f39/mate-terminal/help/ug/ug.po/mnt/stockage/packages/f39/mate-terminal/po/ug.po | 
+ | [ml](/f39/language/ml) | 3927 | 8386 | 46.8 | /mnt/stockage/packages/f39/mate-terminal/help/ml/ml.po/mnt/stockage/packages/f39/mate-terminal/po/ml.po | 
+ | [be](/f39/language/be) | 3836 | 8386 | 45.7 | /mnt/stockage/packages/f39/mate-terminal/help/be/be.po/mnt/stockage/packages/f39/mate-terminal/po/be.po | 
+ | [bn](/f39/language/bn) | 3826 | 8386 | 45.6 | /mnt/stockage/packages/f39/mate-terminal/help/bn/bn.po/mnt/stockage/packages/f39/mate-terminal/po/bn.po | 
+ | [hr](/f39/language/hr) | 3625 | 8386 | 43.2 | /mnt/stockage/packages/f39/mate-terminal/help/hr/hr.po/mnt/stockage/packages/f39/mate-terminal/po/hr.po | 
+ | [nn](/f39/language/nn) | 3590 | 8386 | 42.8 | /mnt/stockage/packages/f39/mate-terminal/help/nn/nn.po/mnt/stockage/packages/f39/mate-terminal/po/nn.po | 
+ | [hi](/f39/language/hi) | 3543 | 8386 | 42.2 | /mnt/stockage/packages/f39/mate-terminal/help/hi/hi.po/mnt/stockage/packages/f39/mate-terminal/po/hi.po | 
+ | [vi](/f39/language/vi) | 3536 | 8386 | 42.2 | /mnt/stockage/packages/f39/mate-terminal/help/vi/vi.po/mnt/stockage/packages/f39/mate-terminal/po/vi.po | 
+ | [as](/f39/language/as) | 3535 | 8386 | 42.2 | /mnt/stockage/packages/f39/mate-terminal/help/as/as.po/mnt/stockage/packages/f39/mate-terminal/po/as.po | 
+ | [sq](/f39/language/sq) | 3177 | 8386 | 37.9 | /mnt/stockage/packages/f39/mate-terminal/help/sq/sq.po/mnt/stockage/packages/f39/mate-terminal/po/sq.po | 
+ | [mk](/f39/language/mk) | 3097 | 8386 | 36.9 | /mnt/stockage/packages/f39/mate-terminal/help/mk/mk.po/mnt/stockage/packages/f39/mate-terminal/po/mk.po | 
+ | [cy](/f39/language/cy) | 3081 | 8386 | 36.7 | /mnt/stockage/packages/f39/mate-terminal/help/cy/cy.po/mnt/stockage/packages/f39/mate-terminal/po/cy.po | 
+ | [ne](/f39/language/ne) | 3020 | 8386 | 36.0 | /mnt/stockage/packages/f39/mate-terminal/help/ne/ne.po/mnt/stockage/packages/f39/mate-terminal/po/ne.po | 
+ | [dz](/f39/language/dz) | 3009 | 8386 | 35.9 | /mnt/stockage/packages/f39/mate-terminal/help/dz/dz.po/mnt/stockage/packages/f39/mate-terminal/po/dz.po | 
+ | [en_CA](/f39/language/en_CA) | 2991 | 8386 | 35.7 | /mnt/stockage/packages/f39/mate-terminal/help/en_CA/en_CA.po/mnt/stockage/packages/f39/mate-terminal/po/en_CA.po | 
+ | [mg](/f39/language/mg) | 2989 | 8386 | 35.6 | /mnt/stockage/packages/f39/mate-terminal/help/mg/mg.po/mnt/stockage/packages/f39/mate-terminal/po/mg.po | 
+ | [fur](/f39/language/fur) | 2898 | 8386 | 34.6 | /mnt/stockage/packages/f39/mate-terminal/help/fur/fur.po/mnt/stockage/packages/f39/mate-terminal/po/fur.po | 
+ | [bs](/f39/language/bs) | 2781 | 8386 | 33.2 | /mnt/stockage/packages/f39/mate-terminal/help/bs/bs.po/mnt/stockage/packages/f39/mate-terminal/po/bs.po | 
+ | [fa](/f39/language/fa) | 2723 | 8386 | 32.5 | /mnt/stockage/packages/f39/mate-terminal/help/fa/fa.po/mnt/stockage/packages/f39/mate-terminal/po/fa.po | 
+ | [xh](/f39/language/xh) | 2717 | 8386 | 32.4 | /mnt/stockage/packages/f39/mate-terminal/help/xh/xh.po/mnt/stockage/packages/f39/mate-terminal/po/xh.po | 
+ | [az](/f39/language/az) | 2711 | 8386 | 32.3 | /mnt/stockage/packages/f39/mate-terminal/help/az/az.po/mnt/stockage/packages/f39/mate-terminal/po/az.po | 
+ | [wa](/f39/language/wa) | 2673 | 8386 | 31.9 | /mnt/stockage/packages/f39/mate-terminal/help/wa/wa.po/mnt/stockage/packages/f39/mate-terminal/po/wa.po | 
+ | [es](/f39/language/es) | 5184 | 16909 | 30.7 | /mnt/stockage/packages/f39/mate-terminal/help/es/es.po/mnt/stockage/packages/f39/mate-terminal/help/es_ES/es_ES.po/mnt/stockage/packages/f39/mate-terminal/po/es.po/mnt/stockage/packages/f39/mate-terminal/po/es_ES.po | 
+ | [oc](/f39/language/oc) | 2443 | 8386 | 29.1 | /mnt/stockage/packages/f39/mate-terminal/help/oc/oc.po/mnt/stockage/packages/f39/mate-terminal/po/oc.po | 
+ | [mai](/f39/language/mai) | 2363 | 8386 | 28.2 | /mnt/stockage/packages/f39/mate-terminal/help/mai/mai.po/mnt/stockage/packages/f39/mate-terminal/po/mai.po | 
+ | [am](/f39/language/am) | 2293 | 8386 | 27.3 | /mnt/stockage/packages/f39/mate-terminal/help/am/am.po/mnt/stockage/packages/f39/mate-terminal/po/am.po | 
+ | [mn](/f39/language/mn) | 2119 | 8386 | 25.3 | /mnt/stockage/packages/f39/mate-terminal/help/mn/mn.po/mnt/stockage/packages/f39/mate-terminal/po/mn.po | 
+ | [kk](/f39/language/kk) | 1852 | 8386 | 22.1 | /mnt/stockage/packages/f39/mate-terminal/help/kk/kk.po/mnt/stockage/packages/f39/mate-terminal/po/kk.po | 
+ | [ur](/f39/language/ur) | 1301 | 8386 | 15.5 | /mnt/stockage/packages/f39/mate-terminal/help/ur/ur.po/mnt/stockage/packages/f39/mate-terminal/po/ur.po | 
+ | [nds](/f39/language/nds) | 1180 | 8507 | 13.9 | /mnt/stockage/packages/f39/mate-terminal/help/nds/nds.po/mnt/stockage/packages/f39/mate-terminal/po/nds.po | 
+ | [ga](/f39/language/ga) | 1071 | 8386 | 12.8 | /mnt/stockage/packages/f39/mate-terminal/help/ga/ga.po/mnt/stockage/packages/f39/mate-terminal/po/ga.po | 
+ | [ie](/f39/language/ie) | 990 | 8386 | 11.8 | /mnt/stockage/packages/f39/mate-terminal/help/ie/ie.po/mnt/stockage/packages/f39/mate-terminal/po/ie.po | 
+ | [ku](/f39/language/ku) | 944 | 8386 | 11.3 | /mnt/stockage/packages/f39/mate-terminal/help/ku/ku.po/mnt/stockage/packages/f39/mate-terminal/po/ku.po | 
+ | [es_CO](/f39/language/es_CO) | 932 | 8386 | 11.1 | /mnt/stockage/packages/f39/mate-terminal/help/es_CO/es_CO.po/mnt/stockage/packages/f39/mate-terminal/po/es_CO.po | 
+ | [ps](/f39/language/ps) | 805 | 8386 | 9.6 | /mnt/stockage/packages/f39/mate-terminal/help/ps/ps.po/mnt/stockage/packages/f39/mate-terminal/po/ps.po | 
+ | [eo](/f39/language/eo) | 753 | 8386 | 9.0 | /mnt/stockage/packages/f39/mate-terminal/help/eo/eo.po/mnt/stockage/packages/f39/mate-terminal/po/eo.po | 
+ | [br](/f39/language/br) | 688 | 8386 | 8.2 | /mnt/stockage/packages/f39/mate-terminal/help/br/br.po/mnt/stockage/packages/f39/mate-terminal/po/br.po | 
+ | [ky](/f39/language/ky) | 621 | 8386 | 7.4 | /mnt/stockage/packages/f39/mate-terminal/help/ky/ky.po/mnt/stockage/packages/f39/mate-terminal/po/ky.po | 
+ | [si](/f39/language/si) | 616 | 8386 | 7.3 | /mnt/stockage/packages/f39/mate-terminal/help/si/si.po/mnt/stockage/packages/f39/mate-terminal/po/si.po | 
+ | [uz](/f39/language/uz) | 419 | 8523 | 4.9 | /mnt/stockage/packages/f39/mate-terminal/help/uz/uz.po/mnt/stockage/packages/f39/mate-terminal/po/uz.po | 
+ | [ka](/f39/language/ka) | 364 | 8386 | 4.3 | /mnt/stockage/packages/f39/mate-terminal/help/ka/ka.po/mnt/stockage/packages/f39/mate-terminal/po/ka.po | 
+ | [kmr](/f39/language/kmr) | 210 | 8523 | 2.5 | /mnt/stockage/packages/f39/mate-terminal/help/ku_IQ/ku_IQ.po/mnt/stockage/packages/f39/mate-terminal/po/ku_IQ.po | 
+ | [af](/f39/language/af) | 179 | 8386 | 2.1 | /mnt/stockage/packages/f39/mate-terminal/help/af/af.po/mnt/stockage/packages/f39/mate-terminal/po/af.po | 
+ | [is](/f39/language/is) | 179 | 8507 | 2.1 | /mnt/stockage/packages/f39/mate-terminal/help/is/is.po/mnt/stockage/packages/f39/mate-terminal/po/is.po | 
+ | [tk](/f39/language/tk) | 97 | 4719 | 2.1 | /mnt/stockage/packages/f39/mate-terminal/po/tk.po | 
+ | [crh](/f39/language/crh) | 171 | 8386 | 2.0 | /mnt/stockage/packages/f39/mate-terminal/help/crh/crh.po/mnt/stockage/packages/f39/mate-terminal/po/crh.po | 
+ | [rw](/f39/language/rw) | 73 | 4719 | 1.5 | /mnt/stockage/packages/f39/mate-terminal/po/rw.po | 
+ | [en_US](/f39/language/en_US) | 66 | 4719 | 1.4 | /mnt/stockage/packages/f39/mate-terminal/po/en_US.po | 
+ | [la](/f39/language/la) | 64 | 4719 | 1.4 | /mnt/stockage/packages/f39/mate-terminal/po/la.po | 
+ | [nso](/f39/language/nso) | 55 | 4719 | 1.2 | /mnt/stockage/packages/f39/mate-terminal/po/nso.po | 
+ | [zu](/f39/language/zu) | 55 | 4719 | 1.2 | /mnt/stockage/packages/f39/mate-terminal/po/zu.po | 
+ | [frp](/f39/language/frp) | 48 | 4719 | 1.0 | /mnt/stockage/packages/f39/mate-terminal/po/frp.po | 
+ | [li](/f39/language/li) | 43 | 4719 | 0.9 | /mnt/stockage/packages/f39/mate-terminal/po/li.po | 
+ | [fy](/f39/language/fy) | 73 | 8523 | 0.9 | /mnt/stockage/packages/f39/mate-terminal/help/fy/fy.po/mnt/stockage/packages/f39/mate-terminal/po/fy.po | 
+ | [sc](/f39/language/sc) | 38 | 4719 | 0.8 | /mnt/stockage/packages/f39/mate-terminal/po/sc.po | 
+ | [es_AR](/f39/language/es_AR) | 62 | 8386 | 0.7 | /mnt/stockage/packages/f39/mate-terminal/help/es_AR/es_AR.po/mnt/stockage/packages/f39/mate-terminal/po/es_AR.po | 
+ | [es_MX](/f39/language/es_MX) | 60 | 8523 | 0.7 | /mnt/stockage/packages/f39/mate-terminal/help/es_MX/es_MX.po/mnt/stockage/packages/f39/mate-terminal/po/es_MX.po | 
+ | [kab](/f39/language/kab) | 57 | 8386 | 0.7 | /mnt/stockage/packages/f39/mate-terminal/help/kab/kab.po/mnt/stockage/packages/f39/mate-terminal/po/kab.po | 
+ | [ks](/f39/language/ks) | 31 | 4719 | 0.7 | /mnt/stockage/packages/f39/mate-terminal/po/ks.po | 
+ | [mi](/f39/language/mi) | 27 | 4719 | 0.6 | /mnt/stockage/packages/f39/mate-terminal/po/mi.po | 
+ | [jv](/f39/language/jv) | 23 | 4719 | 0.5 | /mnt/stockage/packages/f39/mate-terminal/po/jv.po | 
+ | [pms](/f39/language/pms) | 23 | 4719 | 0.5 | /mnt/stockage/packages/f39/mate-terminal/po/pms.po | 
+ | [ia](/f39/language/ia) | 20 | 4719 | 0.4 | /mnt/stockage/packages/f39/mate-terminal/po/ia.po | 
+ | [ha](/f39/language/ha) | 36 | 8523 | 0.4 | /mnt/stockage/packages/f39/mate-terminal/help/ha/ha.po/mnt/stockage/packages/f39/mate-terminal/po/ha.po | 
+ | [ig](/f39/language/ig) | 36 | 8523 | 0.4 | /mnt/stockage/packages/f39/mate-terminal/help/ig/ig.po/mnt/stockage/packages/f39/mate-terminal/po/ig.po | 
+ | [yo](/f39/language/yo) | 36 | 8523 | 0.4 | /mnt/stockage/packages/f39/mate-terminal/help/yo/yo.po/mnt/stockage/packages/f39/mate-terminal/po/yo.po | 
+ | [tt](/f39/language/tt) | 19 | 4719 | 0.4 | /mnt/stockage/packages/f39/mate-terminal/po/tt.po | 
+ | [yi](/f39/language/yi) | 16 | 4719 | 0.3 | /mnt/stockage/packages/f39/mate-terminal/po/yi.po | 
+ | [nqo](/f39/language/nqo) | 9 | 4719 | 0.2 | /mnt/stockage/packages/f39/mate-terminal/po/nqo.po | 
+ | [es_CL](/f39/language/es_CL) | 15 | 8523 | 0.2 | /mnt/stockage/packages/f39/mate-terminal/help/es_CL/es_CL.po/mnt/stockage/packages/f39/mate-terminal/po/es_CL.po | 
+ | [es_PR](/f39/language/es_PR) | 14 | 8523 | 0.2 | /mnt/stockage/packages/f39/mate-terminal/help/es_PR/es_PR.po/mnt/stockage/packages/f39/mate-terminal/po/es_PR.po | 
+ | [fr_CA](/f39/language/fr_CA) | 4 | 4719 | 0.1 | /mnt/stockage/packages/f39/mate-terminal/po/fr_CA.po | 
 {.sortable}
 
 

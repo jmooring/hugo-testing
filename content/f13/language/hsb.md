@@ -38,8 +38,8 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [konq-plugins]({{< ref "/f13/package/konq-plugins.md" >}}) | 2 | 94 | 2.1 | en_US <kde-i18n-doc@lists.kde.org> | 
- | [koffice-kivio]({{< ref "/f13/package/koffice-kivio.md" >}}) | 27 | 2032 | 1.3 | Upper Sorbian | 
+ | [konq-plugins](/f13/package/konq-plugins) | 2 | 94 | 2.1 | en_US <kde-i18n-doc@lists.kde.org> | 
+ | [koffice-kivio](/f13/package/koffice-kivio) | 27 | 2032 | 1.3 | Upper Sorbian | 
 {.sortable}
 
 

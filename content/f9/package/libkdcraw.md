@@ -18,25 +18,25 @@ The package libkdcraw (version 0.1.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f9/language/ca.md" >}}) | 875 | 875 | 100.0 | /mnt/stockage/packages/f9/libkdcraw/po/ca/libkdcraw.po | 
- | [de]({{< ref "/f9/language/de.md" >}}) | 875 | 875 | 100.0 | /mnt/stockage/packages/f9/libkdcraw/po/de/libkdcraw.po | 
- | [es]({{< ref "/f9/language/es.md" >}}) | 875 | 875 | 100.0 | /mnt/stockage/packages/f9/libkdcraw/po/es/libkdcraw.po | 
- | [et]({{< ref "/f9/language/et.md" >}}) | 875 | 875 | 100.0 | /mnt/stockage/packages/f9/libkdcraw/po/et/libkdcraw.po | 
- | [is]({{< ref "/f9/language/is.md" >}}) | 875 | 875 | 100.0 | /mnt/stockage/packages/f9/libkdcraw/po/is/libkdcraw.po | 
- | [it]({{< ref "/f9/language/it.md" >}}) | 875 | 875 | 100.0 | /mnt/stockage/packages/f9/libkdcraw/po/it/libkdcraw.po | 
- | [nl]({{< ref "/f9/language/nl.md" >}}) | 875 | 875 | 100.0 | /mnt/stockage/packages/f9/libkdcraw/po/nl/libkdcraw.po | 
- | [pt]({{< ref "/f9/language/pt.md" >}}) | 875 | 875 | 100.0 | /mnt/stockage/packages/f9/libkdcraw/po/pt/libkdcraw.po | 
- | [sv]({{< ref "/f9/language/sv.md" >}}) | 875 | 875 | 100.0 | /mnt/stockage/packages/f9/libkdcraw/po/sv/libkdcraw.po | 
- | [el]({{< ref "/f9/language/el.md" >}}) | 515 | 875 | 58.9 | /mnt/stockage/packages/f9/libkdcraw/po/el/libkdcraw.po | 
- | [ja]({{< ref "/f9/language/ja.md" >}}) | 483 | 875 | 55.2 | /mnt/stockage/packages/f9/libkdcraw/po/ja/libkdcraw.po | 
- | [da]({{< ref "/f9/language/da.md" >}}) | 464 | 875 | 53.0 | /mnt/stockage/packages/f9/libkdcraw/po/da/libkdcraw.po | 
- | [uk]({{< ref "/f9/language/uk.md" >}}) | 464 | 875 | 53.0 | /mnt/stockage/packages/f9/libkdcraw/po/uk/libkdcraw.po | 
- | [th]({{< ref "/f9/language/th.md" >}}) | 386 | 875 | 44.1 | /mnt/stockage/packages/f9/libkdcraw/po/th/libkdcraw.po | 
- | [sr]({{< ref "/f9/language/sr.md" >}}) | 217 | 875 | 24.8 | /mnt/stockage/packages/f9/libkdcraw/po/sr/libkdcraw.po | 
- | [error]({{< ref "/f9/language/error.md" >}}) | 56 | 875 | 6.4 | /mnt/stockage/packages/f9/libkdcraw/po/sr@Latn/libkdcraw.po | 
- | [pa]({{< ref "/f9/language/pa.md" >}}) | 36 | 875 | 4.1 | /mnt/stockage/packages/f9/libkdcraw/po/pa/libkdcraw.po | 
- | [nds]({{< ref "/f9/language/nds.md" >}}) | 0 | 875 | 0.0 | /mnt/stockage/packages/f9/libkdcraw/po/nds/libkdcraw.po | 
- | [sk]({{< ref "/f9/language/sk.md" >}}) | 0 | 875 | 0.0 | /mnt/stockage/packages/f9/libkdcraw/po/sk/libkdcraw.po | 
+ | [ca](/f9/language/ca) | 875 | 875 | 100.0 | /mnt/stockage/packages/f9/libkdcraw/po/ca/libkdcraw.po | 
+ | [de](/f9/language/de) | 875 | 875 | 100.0 | /mnt/stockage/packages/f9/libkdcraw/po/de/libkdcraw.po | 
+ | [es](/f9/language/es) | 875 | 875 | 100.0 | /mnt/stockage/packages/f9/libkdcraw/po/es/libkdcraw.po | 
+ | [et](/f9/language/et) | 875 | 875 | 100.0 | /mnt/stockage/packages/f9/libkdcraw/po/et/libkdcraw.po | 
+ | [is](/f9/language/is) | 875 | 875 | 100.0 | /mnt/stockage/packages/f9/libkdcraw/po/is/libkdcraw.po | 
+ | [it](/f9/language/it) | 875 | 875 | 100.0 | /mnt/stockage/packages/f9/libkdcraw/po/it/libkdcraw.po | 
+ | [nl](/f9/language/nl) | 875 | 875 | 100.0 | /mnt/stockage/packages/f9/libkdcraw/po/nl/libkdcraw.po | 
+ | [pt](/f9/language/pt) | 875 | 875 | 100.0 | /mnt/stockage/packages/f9/libkdcraw/po/pt/libkdcraw.po | 
+ | [sv](/f9/language/sv) | 875 | 875 | 100.0 | /mnt/stockage/packages/f9/libkdcraw/po/sv/libkdcraw.po | 
+ | [el](/f9/language/el) | 515 | 875 | 58.9 | /mnt/stockage/packages/f9/libkdcraw/po/el/libkdcraw.po | 
+ | [ja](/f9/language/ja) | 483 | 875 | 55.2 | /mnt/stockage/packages/f9/libkdcraw/po/ja/libkdcraw.po | 
+ | [da](/f9/language/da) | 464 | 875 | 53.0 | /mnt/stockage/packages/f9/libkdcraw/po/da/libkdcraw.po | 
+ | [uk](/f9/language/uk) | 464 | 875 | 53.0 | /mnt/stockage/packages/f9/libkdcraw/po/uk/libkdcraw.po | 
+ | [th](/f9/language/th) | 386 | 875 | 44.1 | /mnt/stockage/packages/f9/libkdcraw/po/th/libkdcraw.po | 
+ | [sr](/f9/language/sr) | 217 | 875 | 24.8 | /mnt/stockage/packages/f9/libkdcraw/po/sr/libkdcraw.po | 
+ | [error](/f9/language/error) | 56 | 875 | 6.4 | /mnt/stockage/packages/f9/libkdcraw/po/sr@Latn/libkdcraw.po | 
+ | [pa](/f9/language/pa) | 36 | 875 | 4.1 | /mnt/stockage/packages/f9/libkdcraw/po/pa/libkdcraw.po | 
+ | [nds](/f9/language/nds) | 0 | 875 | 0.0 | /mnt/stockage/packages/f9/libkdcraw/po/nds/libkdcraw.po | 
+ | [sk](/f9/language/sk) | 0 | 875 | 0.0 | /mnt/stockage/packages/f9/libkdcraw/po/sk/libkdcraw.po | 
 {.sortable}
 
 

@@ -18,14 +18,14 @@ The package gnome-pie (version 0.5.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f18/language/de.md" >}}) | 485 | 485 | 100.0 | /mnt/stockage/packages/f18/gnome-pie/resources/locale/de/LC_MESSAGES/de.po | 
- | [fr]({{< ref "/f18/language/fr.md" >}}) | 485 | 485 | 100.0 | /mnt/stockage/packages/f18/gnome-pie/resources/locale/fr/LC_MESSAGES/fr.po | 
- | [pt_BR]({{< ref "/f18/language/pt_BR.md" >}}) | 485 | 485 | 100.0 | /mnt/stockage/packages/f18/gnome-pie/resources/locale/pt_BR/LC_MESSAGES/pt_BR.po | 
- | [zh_Hans]({{< ref "/f18/language/zh_Hans.md" >}}) | 485 | 485 | 100.0 | /mnt/stockage/packages/f18/gnome-pie/resources/locale/zh_CN/LC_MESSAGES/zh_CN.po | 
- | [es]({{< ref "/f18/language/es.md" >}}) | 481 | 485 | 99.2 | /mnt/stockage/packages/f18/gnome-pie/resources/locale/es/LC_MESSAGES/es.po | 
- | [ko]({{< ref "/f18/language/ko.md" >}}) | 465 | 485 | 95.9 | /mnt/stockage/packages/f18/gnome-pie/resources/locale/ko/LC_MESSAGES/ko.po | 
- | [ru]({{< ref "/f18/language/ru.md" >}}) | 376 | 485 | 77.5 | /mnt/stockage/packages/f18/gnome-pie/resources/locale/ru/LC_MESSAGES/ru.po | 
- | [it]({{< ref "/f18/language/it.md" >}}) | 124 | 485 | 25.6 | /mnt/stockage/packages/f18/gnome-pie/resources/locale/it/LC_MESSAGES/it.po | 
+ | [de](/f18/language/de) | 485 | 485 | 100.0 | /mnt/stockage/packages/f18/gnome-pie/resources/locale/de/LC_MESSAGES/de.po | 
+ | [fr](/f18/language/fr) | 485 | 485 | 100.0 | /mnt/stockage/packages/f18/gnome-pie/resources/locale/fr/LC_MESSAGES/fr.po | 
+ | [pt_BR](/f18/language/pt_BR) | 485 | 485 | 100.0 | /mnt/stockage/packages/f18/gnome-pie/resources/locale/pt_BR/LC_MESSAGES/pt_BR.po | 
+ | [zh_Hans](/f18/language/zh_Hans) | 485 | 485 | 100.0 | /mnt/stockage/packages/f18/gnome-pie/resources/locale/zh_CN/LC_MESSAGES/zh_CN.po | 
+ | [es](/f18/language/es) | 481 | 485 | 99.2 | /mnt/stockage/packages/f18/gnome-pie/resources/locale/es/LC_MESSAGES/es.po | 
+ | [ko](/f18/language/ko) | 465 | 485 | 95.9 | /mnt/stockage/packages/f18/gnome-pie/resources/locale/ko/LC_MESSAGES/ko.po | 
+ | [ru](/f18/language/ru) | 376 | 485 | 77.5 | /mnt/stockage/packages/f18/gnome-pie/resources/locale/ru/LC_MESSAGES/ru.po | 
+ | [it](/f18/language/it) | 124 | 485 | 25.6 | /mnt/stockage/packages/f18/gnome-pie/resources/locale/it/LC_MESSAGES/it.po | 
 {.sortable}
 
 

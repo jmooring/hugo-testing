@@ -18,21 +18,21 @@ The package tagtool (version 0.12.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [lt]({{< ref "/f22/language/lt.md" >}}) | 958 | 958 | 100.0 | /mnt/stockage/packages/f22/tagtool/po/lt.po | 
- | [pl]({{< ref "/f22/language/pl.md" >}}) | 958 | 958 | 100.0 | /mnt/stockage/packages/f22/tagtool/po/pl.po | 
- | [pt]({{< ref "/f22/language/pt.md" >}}) | 958 | 958 | 100.0 | /mnt/stockage/packages/f22/tagtool/po/pt.po | 
- | [pt_BR]({{< ref "/f22/language/pt_BR.md" >}}) | 958 | 958 | 100.0 | /mnt/stockage/packages/f22/tagtool/po/pt_BR.po | 
- | [ru]({{< ref "/f22/language/ru.md" >}}) | 958 | 958 | 100.0 | /mnt/stockage/packages/f22/tagtool/po/ru.po | 
- | [sv]({{< ref "/f22/language/sv.md" >}}) | 958 | 958 | 100.0 | /mnt/stockage/packages/f22/tagtool/po/sv.po | 
- | [de]({{< ref "/f22/language/de.md" >}}) | 952 | 958 | 99.4 | /mnt/stockage/packages/f22/tagtool/po/de.po | 
- | [en_GB]({{< ref "/f22/language/en_GB.md" >}}) | 952 | 958 | 99.4 | /mnt/stockage/packages/f22/tagtool/po/en_GB.po | 
- | [es]({{< ref "/f22/language/es.md" >}}) | 952 | 958 | 99.4 | /mnt/stockage/packages/f22/tagtool/po/es.po | 
- | [cs]({{< ref "/f22/language/cs.md" >}}) | 943 | 958 | 98.4 | /mnt/stockage/packages/f22/tagtool/po/cs.po | 
- | [fr]({{< ref "/f22/language/fr.md" >}}) | 943 | 958 | 98.4 | /mnt/stockage/packages/f22/tagtool/po/fr.po | 
- | [it]({{< ref "/f22/language/it.md" >}}) | 943 | 958 | 98.4 | /mnt/stockage/packages/f22/tagtool/po/it.po | 
- | [uk]({{< ref "/f22/language/uk.md" >}}) | 928 | 958 | 96.9 | /mnt/stockage/packages/f22/tagtool/po/ua.po | 
- | [bg]({{< ref "/f22/language/bg.md" >}}) | 918 | 958 | 95.8 | /mnt/stockage/packages/f22/tagtool/po/bg.po | 
- | [nl]({{< ref "/f22/language/nl.md" >}}) | 324 | 958 | 33.8 | /mnt/stockage/packages/f22/tagtool/po/nl.po | 
+ | [lt](/f22/language/lt) | 958 | 958 | 100.0 | /mnt/stockage/packages/f22/tagtool/po/lt.po | 
+ | [pl](/f22/language/pl) | 958 | 958 | 100.0 | /mnt/stockage/packages/f22/tagtool/po/pl.po | 
+ | [pt](/f22/language/pt) | 958 | 958 | 100.0 | /mnt/stockage/packages/f22/tagtool/po/pt.po | 
+ | [pt_BR](/f22/language/pt_BR) | 958 | 958 | 100.0 | /mnt/stockage/packages/f22/tagtool/po/pt_BR.po | 
+ | [ru](/f22/language/ru) | 958 | 958 | 100.0 | /mnt/stockage/packages/f22/tagtool/po/ru.po | 
+ | [sv](/f22/language/sv) | 958 | 958 | 100.0 | /mnt/stockage/packages/f22/tagtool/po/sv.po | 
+ | [de](/f22/language/de) | 952 | 958 | 99.4 | /mnt/stockage/packages/f22/tagtool/po/de.po | 
+ | [en_GB](/f22/language/en_GB) | 952 | 958 | 99.4 | /mnt/stockage/packages/f22/tagtool/po/en_GB.po | 
+ | [es](/f22/language/es) | 952 | 958 | 99.4 | /mnt/stockage/packages/f22/tagtool/po/es.po | 
+ | [cs](/f22/language/cs) | 943 | 958 | 98.4 | /mnt/stockage/packages/f22/tagtool/po/cs.po | 
+ | [fr](/f22/language/fr) | 943 | 958 | 98.4 | /mnt/stockage/packages/f22/tagtool/po/fr.po | 
+ | [it](/f22/language/it) | 943 | 958 | 98.4 | /mnt/stockage/packages/f22/tagtool/po/it.po | 
+ | [uk](/f22/language/uk) | 928 | 958 | 96.9 | /mnt/stockage/packages/f22/tagtool/po/ua.po | 
+ | [bg](/f22/language/bg) | 918 | 958 | 95.8 | /mnt/stockage/packages/f22/tagtool/po/bg.po | 
+ | [nl](/f22/language/nl) | 324 | 958 | 33.8 | /mnt/stockage/packages/f22/tagtool/po/nl.po | 
 {.sortable}
 
 

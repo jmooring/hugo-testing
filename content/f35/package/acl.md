@@ -18,13 +18,13 @@ The package acl (version 2.3.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f35/language/de.md" >}}) | 506 | 506 | 100.0 | /mnt/stockage/packages/f35/acl/po/de.po | 
- | [error]({{< ref "/f35/language/error.md" >}}) | 1012 | 1012 | 100.0 | /mnt/stockage/packages/f35/acl/po/en@quot.po/mnt/stockage/packages/f35/acl/po/en@boldquot.po | 
- | [es]({{< ref "/f35/language/es.md" >}}) | 395 | 506 | 78.1 | /mnt/stockage/packages/f35/acl/po/es.po | 
- | [gl]({{< ref "/f35/language/gl.md" >}}) | 395 | 506 | 78.1 | /mnt/stockage/packages/f35/acl/po/gl.po | 
- | [pl]({{< ref "/f35/language/pl.md" >}}) | 395 | 506 | 78.1 | /mnt/stockage/packages/f35/acl/po/pl.po | 
- | [sv]({{< ref "/f35/language/sv.md" >}}) | 395 | 506 | 78.1 | /mnt/stockage/packages/f35/acl/po/sv.po | 
- | [fr]({{< ref "/f35/language/fr.md" >}}) | 370 | 506 | 73.1 | /mnt/stockage/packages/f35/acl/po/fr.po | 
+ | [de](/f35/language/de) | 506 | 506 | 100.0 | /mnt/stockage/packages/f35/acl/po/de.po | 
+ | [error](/f35/language/error) | 1012 | 1012 | 100.0 | /mnt/stockage/packages/f35/acl/po/en@quot.po/mnt/stockage/packages/f35/acl/po/en@boldquot.po | 
+ | [es](/f35/language/es) | 395 | 506 | 78.1 | /mnt/stockage/packages/f35/acl/po/es.po | 
+ | [gl](/f35/language/gl) | 395 | 506 | 78.1 | /mnt/stockage/packages/f35/acl/po/gl.po | 
+ | [pl](/f35/language/pl) | 395 | 506 | 78.1 | /mnt/stockage/packages/f35/acl/po/pl.po | 
+ | [sv](/f35/language/sv) | 395 | 506 | 78.1 | /mnt/stockage/packages/f35/acl/po/sv.po | 
+ | [fr](/f35/language/fr) | 370 | 506 | 73.1 | /mnt/stockage/packages/f35/acl/po/fr.po | 
 {.sortable}
 
 

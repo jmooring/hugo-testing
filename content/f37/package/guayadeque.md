@@ -18,34 +18,34 @@ The package guayadeque (version 0.4.8):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f37/language/ca.md" >}}) | 3326 | 3326 | 100.0 | /mnt/stockage/packages/f37/guayadeque/po/ca_ES/guayadeque.po | 
- | [de]({{< ref "/f37/language/de.md" >}}) | 3326 | 3326 | 100.0 | /mnt/stockage/packages/f37/guayadeque/po/de/guayadeque.po | 
- | [el]({{< ref "/f37/language/el.md" >}}) | 3326 | 3326 | 100.0 | /mnt/stockage/packages/f37/guayadeque/po/el/guayadeque.po | 
- | [fr]({{< ref "/f37/language/fr.md" >}}) | 3326 | 3326 | 100.0 | /mnt/stockage/packages/f37/guayadeque/po/fr/guayadeque.po | 
- | [hr]({{< ref "/f37/language/hr.md" >}}) | 3326 | 3326 | 100.0 | /mnt/stockage/packages/f37/guayadeque/po/hr/guayadeque.po | 
- | [hu]({{< ref "/f37/language/hu.md" >}}) | 3326 | 3326 | 100.0 | /mnt/stockage/packages/f37/guayadeque/po/hu/guayadeque.po | 
- | [is]({{< ref "/f37/language/is.md" >}}) | 3417 | 3417 | 100.0 | /mnt/stockage/packages/f37/guayadeque/po/is/guayadeque.po | 
- | [it]({{< ref "/f37/language/it.md" >}}) | 3326 | 3326 | 100.0 | /mnt/stockage/packages/f37/guayadeque/po/it/guayadeque.po | 
- | [ja]({{< ref "/f37/language/ja.md" >}}) | 3326 | 3326 | 100.0 | /mnt/stockage/packages/f37/guayadeque/po/ja/guayadeque.po | 
- | [ms]({{< ref "/f37/language/ms.md" >}}) | 3417 | 3417 | 100.0 | /mnt/stockage/packages/f37/guayadeque/po/ms/guayadeque.po | 
- | [nl]({{< ref "/f37/language/nl.md" >}}) | 3326 | 3326 | 100.0 | /mnt/stockage/packages/f37/guayadeque/po/nl/guayadeque.po | 
- | [pt_BR]({{< ref "/f37/language/pt_BR.md" >}}) | 3326 | 3326 | 100.0 | /mnt/stockage/packages/f37/guayadeque/po/pt_BR/guayadeque.po | 
- | [pt_PT]({{< ref "/f37/language/pt_PT.md" >}}) | 3326 | 3326 | 100.0 | /mnt/stockage/packages/f37/guayadeque/po/pt/guayadeque.po | 
- | [ru]({{< ref "/f37/language/ru.md" >}}) | 3326 | 3326 | 100.0 | /mnt/stockage/packages/f37/guayadeque/po/ru/guayadeque.po | 
- | [sk]({{< ref "/f37/language/sk.md" >}}) | 3326 | 3326 | 100.0 | /mnt/stockage/packages/f37/guayadeque/po/sk/guayadeque.po | 
- | [tr]({{< ref "/f37/language/tr.md" >}}) | 3326 | 3326 | 100.0 | /mnt/stockage/packages/f37/guayadeque/po/tr/guayadeque.po | 
- | [bg]({{< ref "/f37/language/bg.md" >}}) | 3319 | 3326 | 99.8 | /mnt/stockage/packages/f37/guayadeque/po/bg/guayadeque.po | 
- | [uk]({{< ref "/f37/language/uk.md" >}}) | 3319 | 3326 | 99.8 | /mnt/stockage/packages/f37/guayadeque/po/uk/guayadeque.po | 
- | [da]({{< ref "/f37/language/da.md" >}}) | 3394 | 3417 | 99.3 | /mnt/stockage/packages/f37/guayadeque/po/da/guayadeque.po | 
- | [sr]({{< ref "/f37/language/sr.md" >}}) | 3303 | 3326 | 99.3 | /mnt/stockage/packages/f37/guayadeque/po/sr/guayadeque.po | 
- | [sr_Latn]({{< ref "/f37/language/sr_Latn.md" >}}) | 3303 | 3326 | 99.3 | /mnt/stockage/packages/f37/guayadeque/po/sr@latin/guayadeque.po | 
- | [es]({{< ref "/f37/language/es.md" >}}) | 3392 | 3417 | 99.3 | /mnt/stockage/packages/f37/guayadeque/po/es/guayadeque.po | 
- | [pl]({{< ref "/f37/language/pl.md" >}}) | 3351 | 3417 | 98.1 | /mnt/stockage/packages/f37/guayadeque/po/pl/guayadeque.po | 
- | [cs]({{< ref "/f37/language/cs.md" >}}) | 3289 | 3417 | 96.3 | /mnt/stockage/packages/f37/guayadeque/po/cs/guayadeque.po | 
- | [nb_NO]({{< ref "/f37/language/nb_NO.md" >}}) | 2157 | 3326 | 64.9 | /mnt/stockage/packages/f37/guayadeque/po/nb/guayadeque.po | 
- | [lt]({{< ref "/f37/language/lt.md" >}}) | 1878 | 3417 | 55.0 | /mnt/stockage/packages/f37/guayadeque/po/lt/guayadeque.po | 
- | [th]({{< ref "/f37/language/th.md" >}}) | 1608 | 3326 | 48.3 | /mnt/stockage/packages/f37/guayadeque/po/th/guayadeque.po | 
- | [sv]({{< ref "/f37/language/sv.md" >}}) | 565 | 3326 | 17.0 | /mnt/stockage/packages/f37/guayadeque/po/sv/guayadeque.po | 
+ | [ca](/f37/language/ca) | 3326 | 3326 | 100.0 | /mnt/stockage/packages/f37/guayadeque/po/ca_ES/guayadeque.po | 
+ | [de](/f37/language/de) | 3326 | 3326 | 100.0 | /mnt/stockage/packages/f37/guayadeque/po/de/guayadeque.po | 
+ | [el](/f37/language/el) | 3326 | 3326 | 100.0 | /mnt/stockage/packages/f37/guayadeque/po/el/guayadeque.po | 
+ | [fr](/f37/language/fr) | 3326 | 3326 | 100.0 | /mnt/stockage/packages/f37/guayadeque/po/fr/guayadeque.po | 
+ | [hr](/f37/language/hr) | 3326 | 3326 | 100.0 | /mnt/stockage/packages/f37/guayadeque/po/hr/guayadeque.po | 
+ | [hu](/f37/language/hu) | 3326 | 3326 | 100.0 | /mnt/stockage/packages/f37/guayadeque/po/hu/guayadeque.po | 
+ | [is](/f37/language/is) | 3417 | 3417 | 100.0 | /mnt/stockage/packages/f37/guayadeque/po/is/guayadeque.po | 
+ | [it](/f37/language/it) | 3326 | 3326 | 100.0 | /mnt/stockage/packages/f37/guayadeque/po/it/guayadeque.po | 
+ | [ja](/f37/language/ja) | 3326 | 3326 | 100.0 | /mnt/stockage/packages/f37/guayadeque/po/ja/guayadeque.po | 
+ | [ms](/f37/language/ms) | 3417 | 3417 | 100.0 | /mnt/stockage/packages/f37/guayadeque/po/ms/guayadeque.po | 
+ | [nl](/f37/language/nl) | 3326 | 3326 | 100.0 | /mnt/stockage/packages/f37/guayadeque/po/nl/guayadeque.po | 
+ | [pt_BR](/f37/language/pt_BR) | 3326 | 3326 | 100.0 | /mnt/stockage/packages/f37/guayadeque/po/pt_BR/guayadeque.po | 
+ | [pt_PT](/f37/language/pt_PT) | 3326 | 3326 | 100.0 | /mnt/stockage/packages/f37/guayadeque/po/pt/guayadeque.po | 
+ | [ru](/f37/language/ru) | 3326 | 3326 | 100.0 | /mnt/stockage/packages/f37/guayadeque/po/ru/guayadeque.po | 
+ | [sk](/f37/language/sk) | 3326 | 3326 | 100.0 | /mnt/stockage/packages/f37/guayadeque/po/sk/guayadeque.po | 
+ | [tr](/f37/language/tr) | 3326 | 3326 | 100.0 | /mnt/stockage/packages/f37/guayadeque/po/tr/guayadeque.po | 
+ | [bg](/f37/language/bg) | 3319 | 3326 | 99.8 | /mnt/stockage/packages/f37/guayadeque/po/bg/guayadeque.po | 
+ | [uk](/f37/language/uk) | 3319 | 3326 | 99.8 | /mnt/stockage/packages/f37/guayadeque/po/uk/guayadeque.po | 
+ | [da](/f37/language/da) | 3394 | 3417 | 99.3 | /mnt/stockage/packages/f37/guayadeque/po/da/guayadeque.po | 
+ | [sr](/f37/language/sr) | 3303 | 3326 | 99.3 | /mnt/stockage/packages/f37/guayadeque/po/sr/guayadeque.po | 
+ | [sr_Latn](/f37/language/sr_Latn) | 3303 | 3326 | 99.3 | /mnt/stockage/packages/f37/guayadeque/po/sr@latin/guayadeque.po | 
+ | [es](/f37/language/es) | 3392 | 3417 | 99.3 | /mnt/stockage/packages/f37/guayadeque/po/es/guayadeque.po | 
+ | [pl](/f37/language/pl) | 3351 | 3417 | 98.1 | /mnt/stockage/packages/f37/guayadeque/po/pl/guayadeque.po | 
+ | [cs](/f37/language/cs) | 3289 | 3417 | 96.3 | /mnt/stockage/packages/f37/guayadeque/po/cs/guayadeque.po | 
+ | [nb_NO](/f37/language/nb_NO) | 2157 | 3326 | 64.9 | /mnt/stockage/packages/f37/guayadeque/po/nb/guayadeque.po | 
+ | [lt](/f37/language/lt) | 1878 | 3417 | 55.0 | /mnt/stockage/packages/f37/guayadeque/po/lt/guayadeque.po | 
+ | [th](/f37/language/th) | 1608 | 3326 | 48.3 | /mnt/stockage/packages/f37/guayadeque/po/th/guayadeque.po | 
+ | [sv](/f37/language/sv) | 565 | 3326 | 17.0 | /mnt/stockage/packages/f37/guayadeque/po/sv/guayadeque.po | 
 {.sortable}
 
 

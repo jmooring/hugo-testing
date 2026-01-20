@@ -18,62 +18,62 @@ The package sugar-base (version 0.98.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [am]({{< ref "/f24/language/am.md" >}}) | 5 | 5 | 100.0 | /mnt/stockage/packages/f24/sugar-base/po/am.po | 
- | [ar]({{< ref "/f24/language/ar.md" >}}) | 5 | 5 | 100.0 | /mnt/stockage/packages/f24/sugar-base/po/ar.po | 
- | [ay]({{< ref "/f24/language/ay.md" >}}) | 5 | 5 | 100.0 | /mnt/stockage/packages/f24/sugar-base/po/aym.po | 
- | [bg]({{< ref "/f24/language/bg.md" >}}) | 5 | 5 | 100.0 | /mnt/stockage/packages/f24/sugar-base/po/bg.po | 
- | [bn]({{< ref "/f24/language/bn.md" >}}) | 5 | 5 | 100.0 | /mnt/stockage/packages/f24/sugar-base/po/bn.po | 
- | [bn_IN]({{< ref "/f24/language/bn_IN.md" >}}) | 5 | 5 | 100.0 | /mnt/stockage/packages/f24/sugar-base/po/bn_IN.po | 
- | [ca]({{< ref "/f24/language/ca.md" >}}) | 5 | 5 | 100.0 | /mnt/stockage/packages/f24/sugar-base/po/ca.po | 
- | [de]({{< ref "/f24/language/de.md" >}}) | 5 | 5 | 100.0 | /mnt/stockage/packages/f24/sugar-base/po/de.po | 
- | [el]({{< ref "/f24/language/el.md" >}}) | 5 | 5 | 100.0 | /mnt/stockage/packages/f24/sugar-base/po/el.po | 
- | [en]({{< ref "/f24/language/en.md" >}}) | 5 | 5 | 100.0 | /mnt/stockage/packages/f24/sugar-base/po/en.po | 
- | [es]({{< ref "/f24/language/es.md" >}}) | 5 | 5 | 100.0 | /mnt/stockage/packages/f24/sugar-base/po/es.po | 
- | [fr]({{< ref "/f24/language/fr.md" >}}) | 5 | 5 | 100.0 | /mnt/stockage/packages/f24/sugar-base/po/fr.po | 
- | [gu]({{< ref "/f24/language/gu.md" >}}) | 5 | 5 | 100.0 | /mnt/stockage/packages/f24/sugar-base/po/gu.po | 
- | [hi]({{< ref "/f24/language/hi.md" >}}) | 5 | 5 | 100.0 | /mnt/stockage/packages/f24/sugar-base/po/hi.po | 
- | [ht]({{< ref "/f24/language/ht.md" >}}) | 5 | 5 | 100.0 | /mnt/stockage/packages/f24/sugar-base/po/ht.po | 
- | [it]({{< ref "/f24/language/it.md" >}}) | 5 | 5 | 100.0 | /mnt/stockage/packages/f24/sugar-base/po/it.po | 
- | [ja]({{< ref "/f24/language/ja.md" >}}) | 5 | 5 | 100.0 | /mnt/stockage/packages/f24/sugar-base/po/ja.po | 
- | [km]({{< ref "/f24/language/km.md" >}}) | 5 | 5 | 100.0 | /mnt/stockage/packages/f24/sugar-base/po/km.po | 
- | [ko]({{< ref "/f24/language/ko.md" >}}) | 5 | 5 | 100.0 | /mnt/stockage/packages/f24/sugar-base/po/ko.po | 
- | [mn]({{< ref "/f24/language/mn.md" >}}) | 5 | 5 | 100.0 | /mnt/stockage/packages/f24/sugar-base/po/mn.po | 
- | [mr]({{< ref "/f24/language/mr.md" >}}) | 5 | 5 | 100.0 | /mnt/stockage/packages/f24/sugar-base/po/mr.po | 
- | [nb_NO]({{< ref "/f24/language/nb_NO.md" >}}) | 5 | 5 | 100.0 | /mnt/stockage/packages/f24/sugar-base/po/nb.po | 
- | [ne]({{< ref "/f24/language/ne.md" >}}) | 5 | 5 | 100.0 | /mnt/stockage/packages/f24/sugar-base/po/ne.po | 
- | [nl]({{< ref "/f24/language/nl.md" >}}) | 5 | 5 | 100.0 | /mnt/stockage/packages/f24/sugar-base/po/nl.po | 
- | [pa]({{< ref "/f24/language/pa.md" >}}) | 5 | 5 | 100.0 | /mnt/stockage/packages/f24/sugar-base/po/pa.po | 
- | [pap]({{< ref "/f24/language/pap.md" >}}) | 5 | 5 | 100.0 | /mnt/stockage/packages/f24/sugar-base/po/pap.po | 
- | [pl]({{< ref "/f24/language/pl.md" >}}) | 5 | 5 | 100.0 | /mnt/stockage/packages/f24/sugar-base/po/pl.po | 
- | [prs]({{< ref "/f24/language/prs.md" >}}) | 5 | 5 | 100.0 | /mnt/stockage/packages/f24/sugar-base/po/fa_AF.po | 
- | [ps]({{< ref "/f24/language/ps.md" >}}) | 5 | 5 | 100.0 | /mnt/stockage/packages/f24/sugar-base/po/ps.po | 
- | [pt]({{< ref "/f24/language/pt.md" >}}) | 5 | 5 | 100.0 | /mnt/stockage/packages/f24/sugar-base/po/pt.po | 
- | [pt_BR]({{< ref "/f24/language/pt_BR.md" >}}) | 5 | 5 | 100.0 | /mnt/stockage/packages/f24/sugar-base/po/pt_BR.po | 
- | [qu]({{< ref "/f24/language/qu.md" >}}) | 5 | 5 | 100.0 | /mnt/stockage/packages/f24/sugar-base/po/quz.po | 
- | [ru]({{< ref "/f24/language/ru.md" >}}) | 5 | 5 | 100.0 | /mnt/stockage/packages/f24/sugar-base/po/ru.po | 
- | [rw]({{< ref "/f24/language/rw.md" >}}) | 5 | 5 | 100.0 | /mnt/stockage/packages/f24/sugar-base/po/rw.po | 
- | [si]({{< ref "/f24/language/si.md" >}}) | 5 | 5 | 100.0 | /mnt/stockage/packages/f24/sugar-base/po/si.po | 
- | [sl]({{< ref "/f24/language/sl.md" >}}) | 5 | 5 | 100.0 | /mnt/stockage/packages/f24/sugar-base/po/sl.po | 
- | [te]({{< ref "/f24/language/te.md" >}}) | 5 | 5 | 100.0 | /mnt/stockage/packages/f24/sugar-base/po/te.po | 
- | [th]({{< ref "/f24/language/th.md" >}}) | 5 | 5 | 100.0 | /mnt/stockage/packages/f24/sugar-base/po/th.po | 
- | [tr]({{< ref "/f24/language/tr.md" >}}) | 5 | 5 | 100.0 | /mnt/stockage/packages/f24/sugar-base/po/tr.po | 
- | [ug]({{< ref "/f24/language/ug.md" >}}) | 5 | 5 | 100.0 | /mnt/stockage/packages/f24/sugar-base/po/ur.po | 
- | [vi]({{< ref "/f24/language/vi.md" >}}) | 5 | 5 | 100.0 | /mnt/stockage/packages/f24/sugar-base/po/vi.po | 
- | [zh_Hans]({{< ref "/f24/language/zh_Hans.md" >}}) | 5 | 5 | 100.0 | /mnt/stockage/packages/f24/sugar-base/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f24/language/zh_Hant.md" >}}) | 5 | 5 | 100.0 | /mnt/stockage/packages/f24/sugar-base/po/zh_TW.po | 
- | [ff]({{< ref "/f24/language/ff.md" >}}) | 4 | 5 | 80.0 | /mnt/stockage/packages/f24/sugar-base/po/ff.po | 
- | [dz]({{< ref "/f24/language/dz.md" >}}) | 3 | 5 | 60.0 | /mnt/stockage/packages/f24/sugar-base/po/dz.po | 
- | [af]({{< ref "/f24/language/af.md" >}}) | 0 | 5 | 0.0 | /mnt/stockage/packages/f24/sugar-base/po/af.po | 
- | [error]({{< ref "/f24/language/error.md" >}}) | 0 | 5 | 0.0 | /mnt/stockage/packages/f24/sugar-base/po/mvo.po | 
- | [fa]({{< ref "/f24/language/fa.md" >}}) | 0 | 5 | 0.0 | /mnt/stockage/packages/f24/sugar-base/po/fa.po | 
- | [ha]({{< ref "/f24/language/ha.md" >}}) | 0 | 5 | 0.0 | /mnt/stockage/packages/f24/sugar-base/po/ha.po | 
- | [ig]({{< ref "/f24/language/ig.md" >}}) | 0 | 5 | 0.0 | /mnt/stockage/packages/f24/sugar-base/po/ig.po | 
- | [is]({{< ref "/f24/language/is.md" >}}) | 0 | 5 | 0.0 | /mnt/stockage/packages/f24/sugar-base/po/is.po | 
- | [mk]({{< ref "/f24/language/mk.md" >}}) | 0 | 5 | 0.0 | /mnt/stockage/packages/f24/sugar-base/po/mk.po | 
- | [ml]({{< ref "/f24/language/ml.md" >}}) | 0 | 5 | 0.0 | /mnt/stockage/packages/f24/sugar-base/po/ml.po | 
- | [ro]({{< ref "/f24/language/ro.md" >}}) | 0 | 5 | 0.0 | /mnt/stockage/packages/f24/sugar-base/po/ro.po | 
- | [sd]({{< ref "/f24/language/sd.md" >}}) | 0 | 5 | 0.0 | /mnt/stockage/packages/f24/sugar-base/po/sd.po | 
- | [yo]({{< ref "/f24/language/yo.md" >}}) | 0 | 5 | 0.0 | /mnt/stockage/packages/f24/sugar-base/po/yo.po | 
+ | [am](/f24/language/am) | 5 | 5 | 100.0 | /mnt/stockage/packages/f24/sugar-base/po/am.po | 
+ | [ar](/f24/language/ar) | 5 | 5 | 100.0 | /mnt/stockage/packages/f24/sugar-base/po/ar.po | 
+ | [ay](/f24/language/ay) | 5 | 5 | 100.0 | /mnt/stockage/packages/f24/sugar-base/po/aym.po | 
+ | [bg](/f24/language/bg) | 5 | 5 | 100.0 | /mnt/stockage/packages/f24/sugar-base/po/bg.po | 
+ | [bn](/f24/language/bn) | 5 | 5 | 100.0 | /mnt/stockage/packages/f24/sugar-base/po/bn.po | 
+ | [bn_IN](/f24/language/bn_IN) | 5 | 5 | 100.0 | /mnt/stockage/packages/f24/sugar-base/po/bn_IN.po | 
+ | [ca](/f24/language/ca) | 5 | 5 | 100.0 | /mnt/stockage/packages/f24/sugar-base/po/ca.po | 
+ | [de](/f24/language/de) | 5 | 5 | 100.0 | /mnt/stockage/packages/f24/sugar-base/po/de.po | 
+ | [el](/f24/language/el) | 5 | 5 | 100.0 | /mnt/stockage/packages/f24/sugar-base/po/el.po | 
+ | [en](/f24/language/en) | 5 | 5 | 100.0 | /mnt/stockage/packages/f24/sugar-base/po/en.po | 
+ | [es](/f24/language/es) | 5 | 5 | 100.0 | /mnt/stockage/packages/f24/sugar-base/po/es.po | 
+ | [fr](/f24/language/fr) | 5 | 5 | 100.0 | /mnt/stockage/packages/f24/sugar-base/po/fr.po | 
+ | [gu](/f24/language/gu) | 5 | 5 | 100.0 | /mnt/stockage/packages/f24/sugar-base/po/gu.po | 
+ | [hi](/f24/language/hi) | 5 | 5 | 100.0 | /mnt/stockage/packages/f24/sugar-base/po/hi.po | 
+ | [ht](/f24/language/ht) | 5 | 5 | 100.0 | /mnt/stockage/packages/f24/sugar-base/po/ht.po | 
+ | [it](/f24/language/it) | 5 | 5 | 100.0 | /mnt/stockage/packages/f24/sugar-base/po/it.po | 
+ | [ja](/f24/language/ja) | 5 | 5 | 100.0 | /mnt/stockage/packages/f24/sugar-base/po/ja.po | 
+ | [km](/f24/language/km) | 5 | 5 | 100.0 | /mnt/stockage/packages/f24/sugar-base/po/km.po | 
+ | [ko](/f24/language/ko) | 5 | 5 | 100.0 | /mnt/stockage/packages/f24/sugar-base/po/ko.po | 
+ | [mn](/f24/language/mn) | 5 | 5 | 100.0 | /mnt/stockage/packages/f24/sugar-base/po/mn.po | 
+ | [mr](/f24/language/mr) | 5 | 5 | 100.0 | /mnt/stockage/packages/f24/sugar-base/po/mr.po | 
+ | [nb_NO](/f24/language/nb_NO) | 5 | 5 | 100.0 | /mnt/stockage/packages/f24/sugar-base/po/nb.po | 
+ | [ne](/f24/language/ne) | 5 | 5 | 100.0 | /mnt/stockage/packages/f24/sugar-base/po/ne.po | 
+ | [nl](/f24/language/nl) | 5 | 5 | 100.0 | /mnt/stockage/packages/f24/sugar-base/po/nl.po | 
+ | [pa](/f24/language/pa) | 5 | 5 | 100.0 | /mnt/stockage/packages/f24/sugar-base/po/pa.po | 
+ | [pap](/f24/language/pap) | 5 | 5 | 100.0 | /mnt/stockage/packages/f24/sugar-base/po/pap.po | 
+ | [pl](/f24/language/pl) | 5 | 5 | 100.0 | /mnt/stockage/packages/f24/sugar-base/po/pl.po | 
+ | [prs](/f24/language/prs) | 5 | 5 | 100.0 | /mnt/stockage/packages/f24/sugar-base/po/fa_AF.po | 
+ | [ps](/f24/language/ps) | 5 | 5 | 100.0 | /mnt/stockage/packages/f24/sugar-base/po/ps.po | 
+ | [pt](/f24/language/pt) | 5 | 5 | 100.0 | /mnt/stockage/packages/f24/sugar-base/po/pt.po | 
+ | [pt_BR](/f24/language/pt_BR) | 5 | 5 | 100.0 | /mnt/stockage/packages/f24/sugar-base/po/pt_BR.po | 
+ | [qu](/f24/language/qu) | 5 | 5 | 100.0 | /mnt/stockage/packages/f24/sugar-base/po/quz.po | 
+ | [ru](/f24/language/ru) | 5 | 5 | 100.0 | /mnt/stockage/packages/f24/sugar-base/po/ru.po | 
+ | [rw](/f24/language/rw) | 5 | 5 | 100.0 | /mnt/stockage/packages/f24/sugar-base/po/rw.po | 
+ | [si](/f24/language/si) | 5 | 5 | 100.0 | /mnt/stockage/packages/f24/sugar-base/po/si.po | 
+ | [sl](/f24/language/sl) | 5 | 5 | 100.0 | /mnt/stockage/packages/f24/sugar-base/po/sl.po | 
+ | [te](/f24/language/te) | 5 | 5 | 100.0 | /mnt/stockage/packages/f24/sugar-base/po/te.po | 
+ | [th](/f24/language/th) | 5 | 5 | 100.0 | /mnt/stockage/packages/f24/sugar-base/po/th.po | 
+ | [tr](/f24/language/tr) | 5 | 5 | 100.0 | /mnt/stockage/packages/f24/sugar-base/po/tr.po | 
+ | [ug](/f24/language/ug) | 5 | 5 | 100.0 | /mnt/stockage/packages/f24/sugar-base/po/ur.po | 
+ | [vi](/f24/language/vi) | 5 | 5 | 100.0 | /mnt/stockage/packages/f24/sugar-base/po/vi.po | 
+ | [zh_Hans](/f24/language/zh_Hans) | 5 | 5 | 100.0 | /mnt/stockage/packages/f24/sugar-base/po/zh_CN.po | 
+ | [zh_Hant](/f24/language/zh_Hant) | 5 | 5 | 100.0 | /mnt/stockage/packages/f24/sugar-base/po/zh_TW.po | 
+ | [ff](/f24/language/ff) | 4 | 5 | 80.0 | /mnt/stockage/packages/f24/sugar-base/po/ff.po | 
+ | [dz](/f24/language/dz) | 3 | 5 | 60.0 | /mnt/stockage/packages/f24/sugar-base/po/dz.po | 
+ | [af](/f24/language/af) | 0 | 5 | 0.0 | /mnt/stockage/packages/f24/sugar-base/po/af.po | 
+ | [error](/f24/language/error) | 0 | 5 | 0.0 | /mnt/stockage/packages/f24/sugar-base/po/mvo.po | 
+ | [fa](/f24/language/fa) | 0 | 5 | 0.0 | /mnt/stockage/packages/f24/sugar-base/po/fa.po | 
+ | [ha](/f24/language/ha) | 0 | 5 | 0.0 | /mnt/stockage/packages/f24/sugar-base/po/ha.po | 
+ | [ig](/f24/language/ig) | 0 | 5 | 0.0 | /mnt/stockage/packages/f24/sugar-base/po/ig.po | 
+ | [is](/f24/language/is) | 0 | 5 | 0.0 | /mnt/stockage/packages/f24/sugar-base/po/is.po | 
+ | [mk](/f24/language/mk) | 0 | 5 | 0.0 | /mnt/stockage/packages/f24/sugar-base/po/mk.po | 
+ | [ml](/f24/language/ml) | 0 | 5 | 0.0 | /mnt/stockage/packages/f24/sugar-base/po/ml.po | 
+ | [ro](/f24/language/ro) | 0 | 5 | 0.0 | /mnt/stockage/packages/f24/sugar-base/po/ro.po | 
+ | [sd](/f24/language/sd) | 0 | 5 | 0.0 | /mnt/stockage/packages/f24/sugar-base/po/sd.po | 
+ | [yo](/f24/language/yo) | 0 | 5 | 0.0 | /mnt/stockage/packages/f24/sugar-base/po/yo.po | 
 {.sortable}
 
 

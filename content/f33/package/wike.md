@@ -18,22 +18,22 @@ The package wike (version 1.6.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [es]({{< ref "/f33/language/es.md" >}}) | 428 | 428 | 100.0 | /mnt/stockage/packages/f33/wike/po/es.po | 
- | [fi]({{< ref "/f33/language/fi.md" >}}) | 428 | 428 | 100.0 | /mnt/stockage/packages/f33/wike/po/fi.po | 
- | [fr]({{< ref "/f33/language/fr.md" >}}) | 428 | 428 | 100.0 | /mnt/stockage/packages/f33/wike/po/fr.po | 
- | [gl]({{< ref "/f33/language/gl.md" >}}) | 390 | 390 | 100.0 | /mnt/stockage/packages/f33/wike/po/gl.po | 
- | [hr]({{< ref "/f33/language/hr.md" >}}) | 428 | 428 | 100.0 | /mnt/stockage/packages/f33/wike/po/hr.po | 
- | [it]({{< ref "/f33/language/it.md" >}}) | 390 | 390 | 100.0 | /mnt/stockage/packages/f33/wike/po/it.po | 
- | [nl]({{< ref "/f33/language/nl.md" >}}) | 428 | 428 | 100.0 | /mnt/stockage/packages/f33/wike/po/nl.po | 
- | [pt_BR]({{< ref "/f33/language/pt_BR.md" >}}) | 428 | 428 | 100.0 | /mnt/stockage/packages/f33/wike/po/pt_BR.po | 
- | [ru]({{< ref "/f33/language/ru.md" >}}) | 420 | 420 | 100.0 | /mnt/stockage/packages/f33/wike/po/ru.po | 
- | [sv]({{< ref "/f33/language/sv.md" >}}) | 428 | 428 | 100.0 | /mnt/stockage/packages/f33/wike/po/sv.po | 
- | [de]({{< ref "/f33/language/de.md" >}}) | 388 | 390 | 99.5 | /mnt/stockage/packages/f33/wike/po/de.po | 
- | [id]({{< ref "/f33/language/id.md" >}}) | 388 | 390 | 99.5 | /mnt/stockage/packages/f33/wike/po/id.po | 
- | [tr]({{< ref "/f33/language/tr.md" >}}) | 388 | 390 | 99.5 | /mnt/stockage/packages/f33/wike/po/tr.po | 
- | [cs]({{< ref "/f33/language/cs.md" >}}) | 364 | 390 | 93.3 | /mnt/stockage/packages/f33/wike/po/cs.po | 
- | [ia]({{< ref "/f33/language/ia.md" >}}) | 279 | 390 | 71.5 | /mnt/stockage/packages/f33/wike/po/ia.po | 
- | [el]({{< ref "/f33/language/el.md" >}}) | 252 | 390 | 64.6 | /mnt/stockage/packages/f33/wike/po/el.po | 
+ | [es](/f33/language/es) | 428 | 428 | 100.0 | /mnt/stockage/packages/f33/wike/po/es.po | 
+ | [fi](/f33/language/fi) | 428 | 428 | 100.0 | /mnt/stockage/packages/f33/wike/po/fi.po | 
+ | [fr](/f33/language/fr) | 428 | 428 | 100.0 | /mnt/stockage/packages/f33/wike/po/fr.po | 
+ | [gl](/f33/language/gl) | 390 | 390 | 100.0 | /mnt/stockage/packages/f33/wike/po/gl.po | 
+ | [hr](/f33/language/hr) | 428 | 428 | 100.0 | /mnt/stockage/packages/f33/wike/po/hr.po | 
+ | [it](/f33/language/it) | 390 | 390 | 100.0 | /mnt/stockage/packages/f33/wike/po/it.po | 
+ | [nl](/f33/language/nl) | 428 | 428 | 100.0 | /mnt/stockage/packages/f33/wike/po/nl.po | 
+ | [pt_BR](/f33/language/pt_BR) | 428 | 428 | 100.0 | /mnt/stockage/packages/f33/wike/po/pt_BR.po | 
+ | [ru](/f33/language/ru) | 420 | 420 | 100.0 | /mnt/stockage/packages/f33/wike/po/ru.po | 
+ | [sv](/f33/language/sv) | 428 | 428 | 100.0 | /mnt/stockage/packages/f33/wike/po/sv.po | 
+ | [de](/f33/language/de) | 388 | 390 | 99.5 | /mnt/stockage/packages/f33/wike/po/de.po | 
+ | [id](/f33/language/id) | 388 | 390 | 99.5 | /mnt/stockage/packages/f33/wike/po/id.po | 
+ | [tr](/f33/language/tr) | 388 | 390 | 99.5 | /mnt/stockage/packages/f33/wike/po/tr.po | 
+ | [cs](/f33/language/cs) | 364 | 390 | 93.3 | /mnt/stockage/packages/f33/wike/po/cs.po | 
+ | [ia](/f33/language/ia) | 279 | 390 | 71.5 | /mnt/stockage/packages/f33/wike/po/ia.po | 
+ | [el](/f33/language/el) | 252 | 390 | 64.6 | /mnt/stockage/packages/f33/wike/po/el.po | 
 {.sortable}
 
 

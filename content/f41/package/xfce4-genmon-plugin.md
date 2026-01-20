@@ -18,60 +18,60 @@ The package xfce4-genmon-plugin (version 4.2.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [bg]({{< ref "/f41/language/bg.md" >}}) | 116 | 116 | 100.0 | /mnt/stockage/packages/f41/xfce4-genmon-plugin/po/bg.po | 
- | [cs]({{< ref "/f41/language/cs.md" >}}) | 116 | 116 | 100.0 | /mnt/stockage/packages/f41/xfce4-genmon-plugin/po/cs.po | 
- | [da]({{< ref "/f41/language/da.md" >}}) | 116 | 116 | 100.0 | /mnt/stockage/packages/f41/xfce4-genmon-plugin/po/da.po | 
- | [de]({{< ref "/f41/language/de.md" >}}) | 116 | 116 | 100.0 | /mnt/stockage/packages/f41/xfce4-genmon-plugin/po/de.po | 
- | [el]({{< ref "/f41/language/el.md" >}}) | 116 | 116 | 100.0 | /mnt/stockage/packages/f41/xfce4-genmon-plugin/po/el.po | 
- | [en_CA]({{< ref "/f41/language/en_CA.md" >}}) | 114 | 114 | 100.0 | /mnt/stockage/packages/f41/xfce4-genmon-plugin/po/en_CA.po | 
- | [en_GB]({{< ref "/f41/language/en_GB.md" >}}) | 116 | 116 | 100.0 | /mnt/stockage/packages/f41/xfce4-genmon-plugin/po/en_GB.po | 
- | [es]({{< ref "/f41/language/es.md" >}}) | 116 | 116 | 100.0 | /mnt/stockage/packages/f41/xfce4-genmon-plugin/po/es.po | 
- | [et]({{< ref "/f41/language/et.md" >}}) | 114 | 114 | 100.0 | /mnt/stockage/packages/f41/xfce4-genmon-plugin/po/et.po | 
- | [eu]({{< ref "/f41/language/eu.md" >}}) | 116 | 116 | 100.0 | /mnt/stockage/packages/f41/xfce4-genmon-plugin/po/eu.po | 
- | [fr]({{< ref "/f41/language/fr.md" >}}) | 116 | 116 | 100.0 | /mnt/stockage/packages/f41/xfce4-genmon-plugin/po/fr.po | 
- | [gl]({{< ref "/f41/language/gl.md" >}}) | 116 | 116 | 100.0 | /mnt/stockage/packages/f41/xfce4-genmon-plugin/po/gl.po | 
- | [he]({{< ref "/f41/language/he.md" >}}) | 116 | 116 | 100.0 | /mnt/stockage/packages/f41/xfce4-genmon-plugin/po/he.po | 
- | [id]({{< ref "/f41/language/id.md" >}}) | 116 | 116 | 100.0 | /mnt/stockage/packages/f41/xfce4-genmon-plugin/po/id.po | 
- | [it]({{< ref "/f41/language/it.md" >}}) | 116 | 116 | 100.0 | /mnt/stockage/packages/f41/xfce4-genmon-plugin/po/it.po | 
- | [ja]({{< ref "/f41/language/ja.md" >}}) | 116 | 116 | 100.0 | /mnt/stockage/packages/f41/xfce4-genmon-plugin/po/ja.po | 
- | [ko]({{< ref "/f41/language/ko.md" >}}) | 116 | 116 | 100.0 | /mnt/stockage/packages/f41/xfce4-genmon-plugin/po/ko.po | 
- | [lt]({{< ref "/f41/language/lt.md" >}}) | 116 | 116 | 100.0 | /mnt/stockage/packages/f41/xfce4-genmon-plugin/po/lt.po | 
- | [ms]({{< ref "/f41/language/ms.md" >}}) | 116 | 116 | 100.0 | /mnt/stockage/packages/f41/xfce4-genmon-plugin/po/ms.po | 
- | [nb_NO]({{< ref "/f41/language/nb_NO.md" >}}) | 116 | 116 | 100.0 | /mnt/stockage/packages/f41/xfce4-genmon-plugin/po/nb.po | 
- | [nl]({{< ref "/f41/language/nl.md" >}}) | 116 | 116 | 100.0 | /mnt/stockage/packages/f41/xfce4-genmon-plugin/po/nl.po | 
- | [pl]({{< ref "/f41/language/pl.md" >}}) | 116 | 116 | 100.0 | /mnt/stockage/packages/f41/xfce4-genmon-plugin/po/pl.po | 
- | [pt]({{< ref "/f41/language/pt.md" >}}) | 116 | 116 | 100.0 | /mnt/stockage/packages/f41/xfce4-genmon-plugin/po/pt.po | 
- | [pt_BR]({{< ref "/f41/language/pt_BR.md" >}}) | 116 | 116 | 100.0 | /mnt/stockage/packages/f41/xfce4-genmon-plugin/po/pt_BR.po | 
- | [ru]({{< ref "/f41/language/ru.md" >}}) | 116 | 116 | 100.0 | /mnt/stockage/packages/f41/xfce4-genmon-plugin/po/ru.po | 
- | [sk]({{< ref "/f41/language/sk.md" >}}) | 116 | 116 | 100.0 | /mnt/stockage/packages/f41/xfce4-genmon-plugin/po/sk.po | 
- | [sl]({{< ref "/f41/language/sl.md" >}}) | 116 | 116 | 100.0 | /mnt/stockage/packages/f41/xfce4-genmon-plugin/po/sl.po | 
- | [sq]({{< ref "/f41/language/sq.md" >}}) | 116 | 116 | 100.0 | /mnt/stockage/packages/f41/xfce4-genmon-plugin/po/sq.po | 
- | [sr]({{< ref "/f41/language/sr.md" >}}) | 116 | 116 | 100.0 | /mnt/stockage/packages/f41/xfce4-genmon-plugin/po/sr.po | 
- | [sv]({{< ref "/f41/language/sv.md" >}}) | 116 | 116 | 100.0 | /mnt/stockage/packages/f41/xfce4-genmon-plugin/po/sv.po | 
- | [th]({{< ref "/f41/language/th.md" >}}) | 116 | 116 | 100.0 | /mnt/stockage/packages/f41/xfce4-genmon-plugin/po/th.po | 
- | [tr]({{< ref "/f41/language/tr.md" >}}) | 116 | 116 | 100.0 | /mnt/stockage/packages/f41/xfce4-genmon-plugin/po/tr.po | 
- | [uk]({{< ref "/f41/language/uk.md" >}}) | 116 | 116 | 100.0 | /mnt/stockage/packages/f41/xfce4-genmon-plugin/po/uk.po | 
- | [zh_Hans]({{< ref "/f41/language/zh_Hans.md" >}}) | 116 | 116 | 100.0 | /mnt/stockage/packages/f41/xfce4-genmon-plugin/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f41/language/zh_Hant.md" >}}) | 116 | 116 | 100.0 | /mnt/stockage/packages/f41/xfce4-genmon-plugin/po/zh_TW.po | 
- | [be]({{< ref "/f41/language/be.md" >}}) | 102 | 116 | 87.9 | /mnt/stockage/packages/f41/xfce4-genmon-plugin/po/be.po | 
- | [ca]({{< ref "/f41/language/ca.md" >}}) | 102 | 116 | 87.9 | /mnt/stockage/packages/f41/xfce4-genmon-plugin/po/ca.po | 
- | [hr]({{< ref "/f41/language/hr.md" >}}) | 102 | 116 | 87.9 | /mnt/stockage/packages/f41/xfce4-genmon-plugin/po/hr.po | 
- | [hu]({{< ref "/f41/language/hu.md" >}}) | 94 | 116 | 81.0 | /mnt/stockage/packages/f41/xfce4-genmon-plugin/po/hu.po | 
- | [ie]({{< ref "/f41/language/ie.md" >}}) | 94 | 116 | 81.0 | /mnt/stockage/packages/f41/xfce4-genmon-plugin/po/ie.po | 
- | [oc]({{< ref "/f41/language/oc.md" >}}) | 92 | 116 | 79.3 | /mnt/stockage/packages/f41/xfce4-genmon-plugin/po/oc.po | 
- | [en_AU]({{< ref "/f41/language/en_AU.md" >}}) | 87 | 116 | 75.0 | /mnt/stockage/packages/f41/xfce4-genmon-plugin/po/en_AU.po | 
- | [is]({{< ref "/f41/language/is.md" >}}) | 87 | 116 | 75.0 | /mnt/stockage/packages/f41/xfce4-genmon-plugin/po/is.po | 
- | [hy]({{< ref "/f41/language/hy.md" >}}) | 158 | 228 | 69.3 | /mnt/stockage/packages/f41/xfce4-genmon-plugin/po/hye.po/mnt/stockage/packages/f41/xfce4-genmon-plugin/po/hy_AM.po | 
- | [hi]({{< ref "/f41/language/hi.md" >}}) | 61 | 114 | 53.5 | /mnt/stockage/packages/f41/xfce4-genmon-plugin/po/hi.po | 
- | [ar]({{< ref "/f41/language/ar.md" >}}) | 55 | 116 | 47.4 | /mnt/stockage/packages/f41/xfce4-genmon-plugin/po/ar.po | 
- | [ug]({{< ref "/f41/language/ug.md" >}}) | 55 | 116 | 47.4 | /mnt/stockage/packages/f41/xfce4-genmon-plugin/po/ug.po | 
- | [kk]({{< ref "/f41/language/kk.md" >}}) | 54 | 114 | 47.4 | /mnt/stockage/packages/f41/xfce4-genmon-plugin/po/kk.po | 
- | [fi]({{< ref "/f41/language/fi.md" >}}) | 52 | 116 | 44.8 | /mnt/stockage/packages/f41/xfce4-genmon-plugin/po/fi.po | 
- | [ast]({{< ref "/f41/language/ast.md" >}}) | 25 | 56 | 44.6 | /mnt/stockage/packages/f41/xfce4-genmon-plugin/po/ast.po | 
- | [lv]({{< ref "/f41/language/lv.md" >}}) | 44 | 100 | 44.0 | /mnt/stockage/packages/f41/xfce4-genmon-plugin/po/lv.po | 
- | [ur]({{< ref "/f41/language/ur.md" >}}) | 44 | 100 | 44.0 | /mnt/stockage/packages/f41/xfce4-genmon-plugin/po/ur.po | 
- | [ur_PK]({{< ref "/f41/language/ur_PK.md" >}}) | 44 | 100 | 44.0 | /mnt/stockage/packages/f41/xfce4-genmon-plugin/po/ur_PK.po | 
- | [am]({{< ref "/f41/language/am.md" >}}) | 27 | 84 | 32.1 | /mnt/stockage/packages/f41/xfce4-genmon-plugin/po/am.po | 
+ | [bg](/f41/language/bg) | 116 | 116 | 100.0 | /mnt/stockage/packages/f41/xfce4-genmon-plugin/po/bg.po | 
+ | [cs](/f41/language/cs) | 116 | 116 | 100.0 | /mnt/stockage/packages/f41/xfce4-genmon-plugin/po/cs.po | 
+ | [da](/f41/language/da) | 116 | 116 | 100.0 | /mnt/stockage/packages/f41/xfce4-genmon-plugin/po/da.po | 
+ | [de](/f41/language/de) | 116 | 116 | 100.0 | /mnt/stockage/packages/f41/xfce4-genmon-plugin/po/de.po | 
+ | [el](/f41/language/el) | 116 | 116 | 100.0 | /mnt/stockage/packages/f41/xfce4-genmon-plugin/po/el.po | 
+ | [en_CA](/f41/language/en_CA) | 114 | 114 | 100.0 | /mnt/stockage/packages/f41/xfce4-genmon-plugin/po/en_CA.po | 
+ | [en_GB](/f41/language/en_GB) | 116 | 116 | 100.0 | /mnt/stockage/packages/f41/xfce4-genmon-plugin/po/en_GB.po | 
+ | [es](/f41/language/es) | 116 | 116 | 100.0 | /mnt/stockage/packages/f41/xfce4-genmon-plugin/po/es.po | 
+ | [et](/f41/language/et) | 114 | 114 | 100.0 | /mnt/stockage/packages/f41/xfce4-genmon-plugin/po/et.po | 
+ | [eu](/f41/language/eu) | 116 | 116 | 100.0 | /mnt/stockage/packages/f41/xfce4-genmon-plugin/po/eu.po | 
+ | [fr](/f41/language/fr) | 116 | 116 | 100.0 | /mnt/stockage/packages/f41/xfce4-genmon-plugin/po/fr.po | 
+ | [gl](/f41/language/gl) | 116 | 116 | 100.0 | /mnt/stockage/packages/f41/xfce4-genmon-plugin/po/gl.po | 
+ | [he](/f41/language/he) | 116 | 116 | 100.0 | /mnt/stockage/packages/f41/xfce4-genmon-plugin/po/he.po | 
+ | [id](/f41/language/id) | 116 | 116 | 100.0 | /mnt/stockage/packages/f41/xfce4-genmon-plugin/po/id.po | 
+ | [it](/f41/language/it) | 116 | 116 | 100.0 | /mnt/stockage/packages/f41/xfce4-genmon-plugin/po/it.po | 
+ | [ja](/f41/language/ja) | 116 | 116 | 100.0 | /mnt/stockage/packages/f41/xfce4-genmon-plugin/po/ja.po | 
+ | [ko](/f41/language/ko) | 116 | 116 | 100.0 | /mnt/stockage/packages/f41/xfce4-genmon-plugin/po/ko.po | 
+ | [lt](/f41/language/lt) | 116 | 116 | 100.0 | /mnt/stockage/packages/f41/xfce4-genmon-plugin/po/lt.po | 
+ | [ms](/f41/language/ms) | 116 | 116 | 100.0 | /mnt/stockage/packages/f41/xfce4-genmon-plugin/po/ms.po | 
+ | [nb_NO](/f41/language/nb_NO) | 116 | 116 | 100.0 | /mnt/stockage/packages/f41/xfce4-genmon-plugin/po/nb.po | 
+ | [nl](/f41/language/nl) | 116 | 116 | 100.0 | /mnt/stockage/packages/f41/xfce4-genmon-plugin/po/nl.po | 
+ | [pl](/f41/language/pl) | 116 | 116 | 100.0 | /mnt/stockage/packages/f41/xfce4-genmon-plugin/po/pl.po | 
+ | [pt](/f41/language/pt) | 116 | 116 | 100.0 | /mnt/stockage/packages/f41/xfce4-genmon-plugin/po/pt.po | 
+ | [pt_BR](/f41/language/pt_BR) | 116 | 116 | 100.0 | /mnt/stockage/packages/f41/xfce4-genmon-plugin/po/pt_BR.po | 
+ | [ru](/f41/language/ru) | 116 | 116 | 100.0 | /mnt/stockage/packages/f41/xfce4-genmon-plugin/po/ru.po | 
+ | [sk](/f41/language/sk) | 116 | 116 | 100.0 | /mnt/stockage/packages/f41/xfce4-genmon-plugin/po/sk.po | 
+ | [sl](/f41/language/sl) | 116 | 116 | 100.0 | /mnt/stockage/packages/f41/xfce4-genmon-plugin/po/sl.po | 
+ | [sq](/f41/language/sq) | 116 | 116 | 100.0 | /mnt/stockage/packages/f41/xfce4-genmon-plugin/po/sq.po | 
+ | [sr](/f41/language/sr) | 116 | 116 | 100.0 | /mnt/stockage/packages/f41/xfce4-genmon-plugin/po/sr.po | 
+ | [sv](/f41/language/sv) | 116 | 116 | 100.0 | /mnt/stockage/packages/f41/xfce4-genmon-plugin/po/sv.po | 
+ | [th](/f41/language/th) | 116 | 116 | 100.0 | /mnt/stockage/packages/f41/xfce4-genmon-plugin/po/th.po | 
+ | [tr](/f41/language/tr) | 116 | 116 | 100.0 | /mnt/stockage/packages/f41/xfce4-genmon-plugin/po/tr.po | 
+ | [uk](/f41/language/uk) | 116 | 116 | 100.0 | /mnt/stockage/packages/f41/xfce4-genmon-plugin/po/uk.po | 
+ | [zh_Hans](/f41/language/zh_Hans) | 116 | 116 | 100.0 | /mnt/stockage/packages/f41/xfce4-genmon-plugin/po/zh_CN.po | 
+ | [zh_Hant](/f41/language/zh_Hant) | 116 | 116 | 100.0 | /mnt/stockage/packages/f41/xfce4-genmon-plugin/po/zh_TW.po | 
+ | [be](/f41/language/be) | 102 | 116 | 87.9 | /mnt/stockage/packages/f41/xfce4-genmon-plugin/po/be.po | 
+ | [ca](/f41/language/ca) | 102 | 116 | 87.9 | /mnt/stockage/packages/f41/xfce4-genmon-plugin/po/ca.po | 
+ | [hr](/f41/language/hr) | 102 | 116 | 87.9 | /mnt/stockage/packages/f41/xfce4-genmon-plugin/po/hr.po | 
+ | [hu](/f41/language/hu) | 94 | 116 | 81.0 | /mnt/stockage/packages/f41/xfce4-genmon-plugin/po/hu.po | 
+ | [ie](/f41/language/ie) | 94 | 116 | 81.0 | /mnt/stockage/packages/f41/xfce4-genmon-plugin/po/ie.po | 
+ | [oc](/f41/language/oc) | 92 | 116 | 79.3 | /mnt/stockage/packages/f41/xfce4-genmon-plugin/po/oc.po | 
+ | [en_AU](/f41/language/en_AU) | 87 | 116 | 75.0 | /mnt/stockage/packages/f41/xfce4-genmon-plugin/po/en_AU.po | 
+ | [is](/f41/language/is) | 87 | 116 | 75.0 | /mnt/stockage/packages/f41/xfce4-genmon-plugin/po/is.po | 
+ | [hy](/f41/language/hy) | 158 | 228 | 69.3 | /mnt/stockage/packages/f41/xfce4-genmon-plugin/po/hye.po/mnt/stockage/packages/f41/xfce4-genmon-plugin/po/hy_AM.po | 
+ | [hi](/f41/language/hi) | 61 | 114 | 53.5 | /mnt/stockage/packages/f41/xfce4-genmon-plugin/po/hi.po | 
+ | [ar](/f41/language/ar) | 55 | 116 | 47.4 | /mnt/stockage/packages/f41/xfce4-genmon-plugin/po/ar.po | 
+ | [ug](/f41/language/ug) | 55 | 116 | 47.4 | /mnt/stockage/packages/f41/xfce4-genmon-plugin/po/ug.po | 
+ | [kk](/f41/language/kk) | 54 | 114 | 47.4 | /mnt/stockage/packages/f41/xfce4-genmon-plugin/po/kk.po | 
+ | [fi](/f41/language/fi) | 52 | 116 | 44.8 | /mnt/stockage/packages/f41/xfce4-genmon-plugin/po/fi.po | 
+ | [ast](/f41/language/ast) | 25 | 56 | 44.6 | /mnt/stockage/packages/f41/xfce4-genmon-plugin/po/ast.po | 
+ | [lv](/f41/language/lv) | 44 | 100 | 44.0 | /mnt/stockage/packages/f41/xfce4-genmon-plugin/po/lv.po | 
+ | [ur](/f41/language/ur) | 44 | 100 | 44.0 | /mnt/stockage/packages/f41/xfce4-genmon-plugin/po/ur.po | 
+ | [ur_PK](/f41/language/ur_PK) | 44 | 100 | 44.0 | /mnt/stockage/packages/f41/xfce4-genmon-plugin/po/ur_PK.po | 
+ | [am](/f41/language/am) | 27 | 84 | 32.1 | /mnt/stockage/packages/f41/xfce4-genmon-plugin/po/am.po | 
 {.sortable}
 
 

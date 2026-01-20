@@ -18,14 +18,14 @@ The package etherape (version 0.9.21):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f42/language/de.md" >}}) | 1083 | 1141 | 94.9 | /mnt/stockage/packages/f42/etherape/po/de.po | 
- | [ru]({{< ref "/f42/language/ru.md" >}}) | 998 | 1141 | 87.5 | /mnt/stockage/packages/f42/etherape/po/ru.po | 
- | [it]({{< ref "/f42/language/it.md" >}}) | 984 | 1141 | 86.2 | /mnt/stockage/packages/f42/etherape/po/it.po | 
- | [es]({{< ref "/f42/language/es.md" >}}) | 654 | 1141 | 57.3 | /mnt/stockage/packages/f42/etherape/po/es.po | 
- | [sv]({{< ref "/f42/language/sv.md" >}}) | 292 | 1141 | 25.6 | /mnt/stockage/packages/f42/etherape/po/sv.po | 
- | [nl]({{< ref "/f42/language/nl.md" >}}) | 280 | 1141 | 24.5 | /mnt/stockage/packages/f42/etherape/po/nl.po | 
- | [tr]({{< ref "/f42/language/tr.md" >}}) | 150 | 1141 | 13.1 | /mnt/stockage/packages/f42/etherape/po/tr.po | 
- | [fr]({{< ref "/f42/language/fr.md" >}}) | 97 | 1141 | 8.5 | /mnt/stockage/packages/f42/etherape/po/fr.po | 
+ | [de](/f42/language/de) | 1083 | 1141 | 94.9 | /mnt/stockage/packages/f42/etherape/po/de.po | 
+ | [ru](/f42/language/ru) | 998 | 1141 | 87.5 | /mnt/stockage/packages/f42/etherape/po/ru.po | 
+ | [it](/f42/language/it) | 984 | 1141 | 86.2 | /mnt/stockage/packages/f42/etherape/po/it.po | 
+ | [es](/f42/language/es) | 654 | 1141 | 57.3 | /mnt/stockage/packages/f42/etherape/po/es.po | 
+ | [sv](/f42/language/sv) | 292 | 1141 | 25.6 | /mnt/stockage/packages/f42/etherape/po/sv.po | 
+ | [nl](/f42/language/nl) | 280 | 1141 | 24.5 | /mnt/stockage/packages/f42/etherape/po/nl.po | 
+ | [tr](/f42/language/tr) | 150 | 1141 | 13.1 | /mnt/stockage/packages/f42/etherape/po/tr.po | 
+ | [fr](/f42/language/fr) | 97 | 1141 | 8.5 | /mnt/stockage/packages/f42/etherape/po/fr.po | 
 {.sortable}
 
 

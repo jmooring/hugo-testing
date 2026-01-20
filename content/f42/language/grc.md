@@ -38,8 +38,8 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [gnuradio]({{< ref "/f42/package/gnuradio.md" >}}) | 88 | 110 | 80.0 | US English <sdhitefield@gmail.com> | 
- | [wesnoth]({{< ref "/f42/package/wesnoth.md" >}}) | 135335 | 429810 | 31.5 |  | 
+ | [gnuradio](/f42/package/gnuradio) | 88 | 110 | 80.0 | US English <sdhitefield@gmail.com> | 
+ | [wesnoth](/f42/package/wesnoth) | 135335 | 429810 | 31.5 |  | 
 {.sortable}
 
 

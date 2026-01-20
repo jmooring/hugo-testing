@@ -38,7 +38,7 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [warmux]({{< ref "/f24/package/warmux.md" >}}) | 902 | 2744 | 32.9 | <fr@li.org> | 
+ | [warmux](/f24/package/warmux) | 902 | 2744 | 32.9 | <fr@li.org> | 
 {.sortable}
 
 

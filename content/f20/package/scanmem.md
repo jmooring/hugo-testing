@@ -18,7 +18,7 @@ The package scanmem (version 0.14):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ja]({{< ref "/f20/language/ja.md" >}}) | 330 | 347 | 95.1 | /mnt/stockage/packages/f20/scanmem/po/ja.po | 
+ | [ja](/f20/language/ja) | 330 | 347 | 95.1 | /mnt/stockage/packages/f20/scanmem/po/ja.po | 
 {.sortable}
 
 

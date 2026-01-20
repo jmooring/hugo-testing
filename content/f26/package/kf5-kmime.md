@@ -18,57 +18,57 @@ The package kf5-kmime (version 17.12.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [bg]({{< ref "/f26/language/bg.md" >}}) | 159 | 159 | 100.0 | /mnt/stockage/packages/f26/kf5-kmime/po/bg/libkmime5.po | 
- | [bs]({{< ref "/f26/language/bs.md" >}}) | 159 | 159 | 100.0 | /mnt/stockage/packages/f26/kf5-kmime/po/bs/libkmime5.po | 
- | [ca]({{< ref "/f26/language/ca.md" >}}) | 159 | 159 | 100.0 | /mnt/stockage/packages/f26/kf5-kmime/po/ca/libkmime5.po | 
- | [ca@valencia]({{< ref "/f26/language/ca@valencia.md" >}}) | 159 | 159 | 100.0 | /mnt/stockage/packages/f26/kf5-kmime/po/ca@valencia/libkmime5.po | 
- | [cs]({{< ref "/f26/language/cs.md" >}}) | 159 | 159 | 100.0 | /mnt/stockage/packages/f26/kf5-kmime/po/cs/libkmime5.po | 
- | [da]({{< ref "/f26/language/da.md" >}}) | 159 | 159 | 100.0 | /mnt/stockage/packages/f26/kf5-kmime/po/da/libkmime5.po | 
- | [de]({{< ref "/f26/language/de.md" >}}) | 159 | 159 | 100.0 | /mnt/stockage/packages/f26/kf5-kmime/po/de/libkmime5.po | 
- | [el]({{< ref "/f26/language/el.md" >}}) | 159 | 159 | 100.0 | /mnt/stockage/packages/f26/kf5-kmime/po/el/libkmime5.po | 
- | [en_GB]({{< ref "/f26/language/en_GB.md" >}}) | 159 | 159 | 100.0 | /mnt/stockage/packages/f26/kf5-kmime/po/en_GB/libkmime5.po | 
- | [es]({{< ref "/f26/language/es.md" >}}) | 159 | 159 | 100.0 | /mnt/stockage/packages/f26/kf5-kmime/po/es/libkmime5.po | 
- | [et]({{< ref "/f26/language/et.md" >}}) | 159 | 159 | 100.0 | /mnt/stockage/packages/f26/kf5-kmime/po/et/libkmime5.po | 
- | [fi]({{< ref "/f26/language/fi.md" >}}) | 159 | 159 | 100.0 | /mnt/stockage/packages/f26/kf5-kmime/po/fi/libkmime5.po | 
- | [fr]({{< ref "/f26/language/fr.md" >}}) | 159 | 159 | 100.0 | /mnt/stockage/packages/f26/kf5-kmime/po/fr/libkmime5.po | 
- | [ga]({{< ref "/f26/language/ga.md" >}}) | 159 | 159 | 100.0 | /mnt/stockage/packages/f26/kf5-kmime/po/ga/libkmime5.po | 
- | [gl]({{< ref "/f26/language/gl.md" >}}) | 159 | 159 | 100.0 | /mnt/stockage/packages/f26/kf5-kmime/po/gl/libkmime5.po | 
- | [hu]({{< ref "/f26/language/hu.md" >}}) | 159 | 159 | 100.0 | /mnt/stockage/packages/f26/kf5-kmime/po/hu/libkmime5.po | 
- | [ia]({{< ref "/f26/language/ia.md" >}}) | 159 | 159 | 100.0 | /mnt/stockage/packages/f26/kf5-kmime/po/ia/libkmime5.po | 
- | [it]({{< ref "/f26/language/it.md" >}}) | 159 | 159 | 100.0 | /mnt/stockage/packages/f26/kf5-kmime/po/it/libkmime5.po | 
- | [ja]({{< ref "/f26/language/ja.md" >}}) | 159 | 159 | 100.0 | /mnt/stockage/packages/f26/kf5-kmime/po/ja/libkmime5.po | 
- | [kk]({{< ref "/f26/language/kk.md" >}}) | 159 | 159 | 100.0 | /mnt/stockage/packages/f26/kf5-kmime/po/kk/libkmime5.po | 
- | [km]({{< ref "/f26/language/km.md" >}}) | 159 | 159 | 100.0 | /mnt/stockage/packages/f26/kf5-kmime/po/km/libkmime5.po | 
- | [ko]({{< ref "/f26/language/ko.md" >}}) | 159 | 159 | 100.0 | /mnt/stockage/packages/f26/kf5-kmime/po/ko/libkmime5.po | 
- | [lt]({{< ref "/f26/language/lt.md" >}}) | 159 | 159 | 100.0 | /mnt/stockage/packages/f26/kf5-kmime/po/lt/libkmime5.po | 
- | [lv]({{< ref "/f26/language/lv.md" >}}) | 159 | 159 | 100.0 | /mnt/stockage/packages/f26/kf5-kmime/po/lv/libkmime5.po | 
- | [nb_NO]({{< ref "/f26/language/nb_NO.md" >}}) | 159 | 159 | 100.0 | /mnt/stockage/packages/f26/kf5-kmime/po/nb/libkmime5.po | 
- | [nds]({{< ref "/f26/language/nds.md" >}}) | 159 | 159 | 100.0 | /mnt/stockage/packages/f26/kf5-kmime/po/nds/libkmime5.po | 
- | [nl]({{< ref "/f26/language/nl.md" >}}) | 159 | 159 | 100.0 | /mnt/stockage/packages/f26/kf5-kmime/po/nl/libkmime5.po | 
- | [nn]({{< ref "/f26/language/nn.md" >}}) | 159 | 159 | 100.0 | /mnt/stockage/packages/f26/kf5-kmime/po/nn/libkmime5.po | 
- | [pa]({{< ref "/f26/language/pa.md" >}}) | 159 | 159 | 100.0 | /mnt/stockage/packages/f26/kf5-kmime/po/pa/libkmime5.po | 
- | [pl]({{< ref "/f26/language/pl.md" >}}) | 159 | 159 | 100.0 | /mnt/stockage/packages/f26/kf5-kmime/po/pl/libkmime5.po | 
- | [pt]({{< ref "/f26/language/pt.md" >}}) | 159 | 159 | 100.0 | /mnt/stockage/packages/f26/kf5-kmime/po/pt/libkmime5.po | 
- | [pt_BR]({{< ref "/f26/language/pt_BR.md" >}}) | 159 | 159 | 100.0 | /mnt/stockage/packages/f26/kf5-kmime/po/pt_BR/libkmime5.po | 
- | [ro]({{< ref "/f26/language/ro.md" >}}) | 159 | 159 | 100.0 | /mnt/stockage/packages/f26/kf5-kmime/po/ro/libkmime5.po | 
- | [ru]({{< ref "/f26/language/ru.md" >}}) | 159 | 159 | 100.0 | /mnt/stockage/packages/f26/kf5-kmime/po/ru/libkmime5.po | 
- | [sk]({{< ref "/f26/language/sk.md" >}}) | 159 | 159 | 100.0 | /mnt/stockage/packages/f26/kf5-kmime/po/sk/libkmime5.po | 
- | [sl]({{< ref "/f26/language/sl.md" >}}) | 159 | 159 | 100.0 | /mnt/stockage/packages/f26/kf5-kmime/po/sl/libkmime5.po | 
- | [sr]({{< ref "/f26/language/sr.md" >}}) | 159 | 159 | 100.0 | /mnt/stockage/packages/f26/kf5-kmime/po/sr/libkmime5.po | 
- | [sv]({{< ref "/f26/language/sv.md" >}}) | 159 | 159 | 100.0 | /mnt/stockage/packages/f26/kf5-kmime/po/sv/libkmime5.po | 
- | [tr]({{< ref "/f26/language/tr.md" >}}) | 159 | 159 | 100.0 | /mnt/stockage/packages/f26/kf5-kmime/po/tr/libkmime5.po | 
- | [uk]({{< ref "/f26/language/uk.md" >}}) | 159 | 159 | 100.0 | /mnt/stockage/packages/f26/kf5-kmime/po/uk/libkmime5.po | 
- | [wa]({{< ref "/f26/language/wa.md" >}}) | 159 | 159 | 100.0 | /mnt/stockage/packages/f26/kf5-kmime/po/wa/libkmime5.po | 
- | [zh_Hans]({{< ref "/f26/language/zh_Hans.md" >}}) | 159 | 159 | 100.0 | /mnt/stockage/packages/f26/kf5-kmime/po/zh_CN/libkmime5.po | 
- | [zh_Hant]({{< ref "/f26/language/zh_Hant.md" >}}) | 159 | 159 | 100.0 | /mnt/stockage/packages/f26/kf5-kmime/po/zh_TW/libkmime5.po | 
- | [eu]({{< ref "/f26/language/eu.md" >}}) | 158 | 159 | 99.4 | /mnt/stockage/packages/f26/kf5-kmime/po/eu/libkmime5.po | 
- | [fa]({{< ref "/f26/language/fa.md" >}}) | 156 | 159 | 98.1 | /mnt/stockage/packages/f26/kf5-kmime/po/fa/libkmime5.po | 
- | [ar]({{< ref "/f26/language/ar.md" >}}) | 132 | 159 | 83.0 | /mnt/stockage/packages/f26/kf5-kmime/po/ar/libkmime5.po | 
- | [mr]({{< ref "/f26/language/mr.md" >}}) | 7 | 159 | 4.4 | /mnt/stockage/packages/f26/kf5-kmime/po/mr/libkmime5.po | 
- | [hi]({{< ref "/f26/language/hi.md" >}}) | 6 | 159 | 3.8 | /mnt/stockage/packages/f26/kf5-kmime/po/hi/libkmime5.po | 
- | [ug]({{< ref "/f26/language/ug.md" >}}) | 5 | 159 | 3.1 | /mnt/stockage/packages/f26/kf5-kmime/po/ug/libkmime5.po | 
- | [ast]({{< ref "/f26/language/ast.md" >}}) | 2 | 159 | 1.3 | /mnt/stockage/packages/f26/kf5-kmime/po/ast/libkmime5.po | 
- | [eo]({{< ref "/f26/language/eo.md" >}}) | 2 | 159 | 1.3 | /mnt/stockage/packages/f26/kf5-kmime/po/eo/libkmime5.po | 
+ | [bg](/f26/language/bg) | 159 | 159 | 100.0 | /mnt/stockage/packages/f26/kf5-kmime/po/bg/libkmime5.po | 
+ | [bs](/f26/language/bs) | 159 | 159 | 100.0 | /mnt/stockage/packages/f26/kf5-kmime/po/bs/libkmime5.po | 
+ | [ca](/f26/language/ca) | 159 | 159 | 100.0 | /mnt/stockage/packages/f26/kf5-kmime/po/ca/libkmime5.po | 
+ | [ca@valencia](/f26/language/ca@valencia) | 159 | 159 | 100.0 | /mnt/stockage/packages/f26/kf5-kmime/po/ca@valencia/libkmime5.po | 
+ | [cs](/f26/language/cs) | 159 | 159 | 100.0 | /mnt/stockage/packages/f26/kf5-kmime/po/cs/libkmime5.po | 
+ | [da](/f26/language/da) | 159 | 159 | 100.0 | /mnt/stockage/packages/f26/kf5-kmime/po/da/libkmime5.po | 
+ | [de](/f26/language/de) | 159 | 159 | 100.0 | /mnt/stockage/packages/f26/kf5-kmime/po/de/libkmime5.po | 
+ | [el](/f26/language/el) | 159 | 159 | 100.0 | /mnt/stockage/packages/f26/kf5-kmime/po/el/libkmime5.po | 
+ | [en_GB](/f26/language/en_GB) | 159 | 159 | 100.0 | /mnt/stockage/packages/f26/kf5-kmime/po/en_GB/libkmime5.po | 
+ | [es](/f26/language/es) | 159 | 159 | 100.0 | /mnt/stockage/packages/f26/kf5-kmime/po/es/libkmime5.po | 
+ | [et](/f26/language/et) | 159 | 159 | 100.0 | /mnt/stockage/packages/f26/kf5-kmime/po/et/libkmime5.po | 
+ | [fi](/f26/language/fi) | 159 | 159 | 100.0 | /mnt/stockage/packages/f26/kf5-kmime/po/fi/libkmime5.po | 
+ | [fr](/f26/language/fr) | 159 | 159 | 100.0 | /mnt/stockage/packages/f26/kf5-kmime/po/fr/libkmime5.po | 
+ | [ga](/f26/language/ga) | 159 | 159 | 100.0 | /mnt/stockage/packages/f26/kf5-kmime/po/ga/libkmime5.po | 
+ | [gl](/f26/language/gl) | 159 | 159 | 100.0 | /mnt/stockage/packages/f26/kf5-kmime/po/gl/libkmime5.po | 
+ | [hu](/f26/language/hu) | 159 | 159 | 100.0 | /mnt/stockage/packages/f26/kf5-kmime/po/hu/libkmime5.po | 
+ | [ia](/f26/language/ia) | 159 | 159 | 100.0 | /mnt/stockage/packages/f26/kf5-kmime/po/ia/libkmime5.po | 
+ | [it](/f26/language/it) | 159 | 159 | 100.0 | /mnt/stockage/packages/f26/kf5-kmime/po/it/libkmime5.po | 
+ | [ja](/f26/language/ja) | 159 | 159 | 100.0 | /mnt/stockage/packages/f26/kf5-kmime/po/ja/libkmime5.po | 
+ | [kk](/f26/language/kk) | 159 | 159 | 100.0 | /mnt/stockage/packages/f26/kf5-kmime/po/kk/libkmime5.po | 
+ | [km](/f26/language/km) | 159 | 159 | 100.0 | /mnt/stockage/packages/f26/kf5-kmime/po/km/libkmime5.po | 
+ | [ko](/f26/language/ko) | 159 | 159 | 100.0 | /mnt/stockage/packages/f26/kf5-kmime/po/ko/libkmime5.po | 
+ | [lt](/f26/language/lt) | 159 | 159 | 100.0 | /mnt/stockage/packages/f26/kf5-kmime/po/lt/libkmime5.po | 
+ | [lv](/f26/language/lv) | 159 | 159 | 100.0 | /mnt/stockage/packages/f26/kf5-kmime/po/lv/libkmime5.po | 
+ | [nb_NO](/f26/language/nb_NO) | 159 | 159 | 100.0 | /mnt/stockage/packages/f26/kf5-kmime/po/nb/libkmime5.po | 
+ | [nds](/f26/language/nds) | 159 | 159 | 100.0 | /mnt/stockage/packages/f26/kf5-kmime/po/nds/libkmime5.po | 
+ | [nl](/f26/language/nl) | 159 | 159 | 100.0 | /mnt/stockage/packages/f26/kf5-kmime/po/nl/libkmime5.po | 
+ | [nn](/f26/language/nn) | 159 | 159 | 100.0 | /mnt/stockage/packages/f26/kf5-kmime/po/nn/libkmime5.po | 
+ | [pa](/f26/language/pa) | 159 | 159 | 100.0 | /mnt/stockage/packages/f26/kf5-kmime/po/pa/libkmime5.po | 
+ | [pl](/f26/language/pl) | 159 | 159 | 100.0 | /mnt/stockage/packages/f26/kf5-kmime/po/pl/libkmime5.po | 
+ | [pt](/f26/language/pt) | 159 | 159 | 100.0 | /mnt/stockage/packages/f26/kf5-kmime/po/pt/libkmime5.po | 
+ | [pt_BR](/f26/language/pt_BR) | 159 | 159 | 100.0 | /mnt/stockage/packages/f26/kf5-kmime/po/pt_BR/libkmime5.po | 
+ | [ro](/f26/language/ro) | 159 | 159 | 100.0 | /mnt/stockage/packages/f26/kf5-kmime/po/ro/libkmime5.po | 
+ | [ru](/f26/language/ru) | 159 | 159 | 100.0 | /mnt/stockage/packages/f26/kf5-kmime/po/ru/libkmime5.po | 
+ | [sk](/f26/language/sk) | 159 | 159 | 100.0 | /mnt/stockage/packages/f26/kf5-kmime/po/sk/libkmime5.po | 
+ | [sl](/f26/language/sl) | 159 | 159 | 100.0 | /mnt/stockage/packages/f26/kf5-kmime/po/sl/libkmime5.po | 
+ | [sr](/f26/language/sr) | 159 | 159 | 100.0 | /mnt/stockage/packages/f26/kf5-kmime/po/sr/libkmime5.po | 
+ | [sv](/f26/language/sv) | 159 | 159 | 100.0 | /mnt/stockage/packages/f26/kf5-kmime/po/sv/libkmime5.po | 
+ | [tr](/f26/language/tr) | 159 | 159 | 100.0 | /mnt/stockage/packages/f26/kf5-kmime/po/tr/libkmime5.po | 
+ | [uk](/f26/language/uk) | 159 | 159 | 100.0 | /mnt/stockage/packages/f26/kf5-kmime/po/uk/libkmime5.po | 
+ | [wa](/f26/language/wa) | 159 | 159 | 100.0 | /mnt/stockage/packages/f26/kf5-kmime/po/wa/libkmime5.po | 
+ | [zh_Hans](/f26/language/zh_Hans) | 159 | 159 | 100.0 | /mnt/stockage/packages/f26/kf5-kmime/po/zh_CN/libkmime5.po | 
+ | [zh_Hant](/f26/language/zh_Hant) | 159 | 159 | 100.0 | /mnt/stockage/packages/f26/kf5-kmime/po/zh_TW/libkmime5.po | 
+ | [eu](/f26/language/eu) | 158 | 159 | 99.4 | /mnt/stockage/packages/f26/kf5-kmime/po/eu/libkmime5.po | 
+ | [fa](/f26/language/fa) | 156 | 159 | 98.1 | /mnt/stockage/packages/f26/kf5-kmime/po/fa/libkmime5.po | 
+ | [ar](/f26/language/ar) | 132 | 159 | 83.0 | /mnt/stockage/packages/f26/kf5-kmime/po/ar/libkmime5.po | 
+ | [mr](/f26/language/mr) | 7 | 159 | 4.4 | /mnt/stockage/packages/f26/kf5-kmime/po/mr/libkmime5.po | 
+ | [hi](/f26/language/hi) | 6 | 159 | 3.8 | /mnt/stockage/packages/f26/kf5-kmime/po/hi/libkmime5.po | 
+ | [ug](/f26/language/ug) | 5 | 159 | 3.1 | /mnt/stockage/packages/f26/kf5-kmime/po/ug/libkmime5.po | 
+ | [ast](/f26/language/ast) | 2 | 159 | 1.3 | /mnt/stockage/packages/f26/kf5-kmime/po/ast/libkmime5.po | 
+ | [eo](/f26/language/eo) | 2 | 159 | 1.3 | /mnt/stockage/packages/f26/kf5-kmime/po/eo/libkmime5.po | 
 {.sortable}
 
 

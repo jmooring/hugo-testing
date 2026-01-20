@@ -18,9 +18,9 @@ The package debhelper (version 9.20120909):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [es]({{< ref "/f19/language/es.md" >}}) | 14054 | 14054 | 100.0 | /mnt/stockage/packages/f19/debhelper/man/po4a/po/es.po | 
- | [fr]({{< ref "/f19/language/fr.md" >}}) | 14054 | 14054 | 100.0 | /mnt/stockage/packages/f19/debhelper/man/po4a/po/fr.po | 
- | [de]({{< ref "/f19/language/de.md" >}}) | 14052 | 14054 | 100.0 | /mnt/stockage/packages/f19/debhelper/man/po4a/po/de.po | 
+ | [es](/f19/language/es) | 14054 | 14054 | 100.0 | /mnt/stockage/packages/f19/debhelper/man/po4a/po/es.po | 
+ | [fr](/f19/language/fr) | 14054 | 14054 | 100.0 | /mnt/stockage/packages/f19/debhelper/man/po4a/po/fr.po | 
+ | [de](/f19/language/de) | 14052 | 14054 | 100.0 | /mnt/stockage/packages/f19/debhelper/man/po4a/po/de.po | 
 {.sortable}
 
 

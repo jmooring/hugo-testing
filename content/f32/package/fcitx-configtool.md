@@ -18,15 +18,15 @@ The package fcitx-configtool (version 0.4.10):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f32/language/ca.md" >}}) | 106 | 106 | 100.0 | /mnt/stockage/packages/f32/fcitx-configtool/po/ca.po | 
- | [da]({{< ref "/f32/language/da.md" >}}) | 106 | 106 | 100.0 | /mnt/stockage/packages/f32/fcitx-configtool/po/da.po | 
- | [de]({{< ref "/f32/language/de.md" >}}) | 106 | 106 | 100.0 | /mnt/stockage/packages/f32/fcitx-configtool/po/de.po | 
- | [ko]({{< ref "/f32/language/ko.md" >}}) | 106 | 106 | 100.0 | /mnt/stockage/packages/f32/fcitx-configtool/po/ko.po | 
- | [ru]({{< ref "/f32/language/ru.md" >}}) | 106 | 106 | 100.0 | /mnt/stockage/packages/f32/fcitx-configtool/po/ru.po | 
- | [zh_Hans]({{< ref "/f32/language/zh_Hans.md" >}}) | 106 | 106 | 100.0 | /mnt/stockage/packages/f32/fcitx-configtool/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f32/language/zh_Hant.md" >}}) | 105 | 106 | 99.1 | /mnt/stockage/packages/f32/fcitx-configtool/po/zh_TW.po | 
- | [ja]({{< ref "/f32/language/ja.md" >}}) | 102 | 106 | 96.2 | /mnt/stockage/packages/f32/fcitx-configtool/po/ja.po | 
- | [tr]({{< ref "/f32/language/tr.md" >}}) | 102 | 106 | 96.2 | /mnt/stockage/packages/f32/fcitx-configtool/po/tr.po | 
+ | [ca](/f32/language/ca) | 106 | 106 | 100.0 | /mnt/stockage/packages/f32/fcitx-configtool/po/ca.po | 
+ | [da](/f32/language/da) | 106 | 106 | 100.0 | /mnt/stockage/packages/f32/fcitx-configtool/po/da.po | 
+ | [de](/f32/language/de) | 106 | 106 | 100.0 | /mnt/stockage/packages/f32/fcitx-configtool/po/de.po | 
+ | [ko](/f32/language/ko) | 106 | 106 | 100.0 | /mnt/stockage/packages/f32/fcitx-configtool/po/ko.po | 
+ | [ru](/f32/language/ru) | 106 | 106 | 100.0 | /mnt/stockage/packages/f32/fcitx-configtool/po/ru.po | 
+ | [zh_Hans](/f32/language/zh_Hans) | 106 | 106 | 100.0 | /mnt/stockage/packages/f32/fcitx-configtool/po/zh_CN.po | 
+ | [zh_Hant](/f32/language/zh_Hant) | 105 | 106 | 99.1 | /mnt/stockage/packages/f32/fcitx-configtool/po/zh_TW.po | 
+ | [ja](/f32/language/ja) | 102 | 106 | 96.2 | /mnt/stockage/packages/f32/fcitx-configtool/po/ja.po | 
+ | [tr](/f32/language/tr) | 102 | 106 | 96.2 | /mnt/stockage/packages/f32/fcitx-configtool/po/tr.po | 
 {.sortable}
 
 

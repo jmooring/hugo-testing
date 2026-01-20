@@ -18,10 +18,10 @@ The package yad (version 0.14.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ru]({{< ref "/f14/language/ru.md" >}}) | 1025 | 1025 | 100.0 | /mnt/stockage/packages/f14/yad/po/ru.po | 
- | [sk]({{< ref "/f14/language/sk.md" >}}) | 1025 | 1025 | 100.0 | /mnt/stockage/packages/f14/yad/po/sk.po | 
- | [uk]({{< ref "/f14/language/uk.md" >}}) | 1025 | 1025 | 100.0 | /mnt/stockage/packages/f14/yad/po/uk.po | 
- | [de]({{< ref "/f14/language/de.md" >}}) | 396 | 1025 | 38.6 | /mnt/stockage/packages/f14/yad/po/de.po | 
+ | [ru](/f14/language/ru) | 1025 | 1025 | 100.0 | /mnt/stockage/packages/f14/yad/po/ru.po | 
+ | [sk](/f14/language/sk) | 1025 | 1025 | 100.0 | /mnt/stockage/packages/f14/yad/po/sk.po | 
+ | [uk](/f14/language/uk) | 1025 | 1025 | 100.0 | /mnt/stockage/packages/f14/yad/po/uk.po | 
+ | [de](/f14/language/de) | 396 | 1025 | 38.6 | /mnt/stockage/packages/f14/yad/po/de.po | 
 {.sortable}
 
 

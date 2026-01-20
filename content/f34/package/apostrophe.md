@@ -18,25 +18,25 @@ The package apostrophe (version 2.5):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [nl]({{< ref "/f34/language/nl.md" >}}) | 453 | 453 | 100.0 | /mnt/stockage/packages/f34/apostrophe/po/nl.po | 
- | [de]({{< ref "/f34/language/de.md" >}}) | 367 | 445 | 82.5 | /mnt/stockage/packages/f34/apostrophe/po/de.po | 
- | [es]({{< ref "/f34/language/es.md" >}}) | 367 | 445 | 82.5 | /mnt/stockage/packages/f34/apostrophe/po/es.po | 
- | [fr]({{< ref "/f34/language/fr.md" >}}) | 367 | 445 | 82.5 | /mnt/stockage/packages/f34/apostrophe/po/fr.po | 
- | [ru]({{< ref "/f34/language/ru.md" >}}) | 367 | 445 | 82.5 | /mnt/stockage/packages/f34/apostrophe/po/ru.po | 
- | [sv]({{< ref "/f34/language/sv.md" >}}) | 367 | 445 | 82.5 | /mnt/stockage/packages/f34/apostrophe/po/sv.po | 
- | [tr]({{< ref "/f34/language/tr.md" >}}) | 367 | 445 | 82.5 | /mnt/stockage/packages/f34/apostrophe/po/tr.po | 
- | [it]({{< ref "/f34/language/it.md" >}}) | 366 | 445 | 82.2 | /mnt/stockage/packages/f34/apostrophe/po/it.po | 
- | [en_GB]({{< ref "/f34/language/en_GB.md" >}}) | 365 | 445 | 82.0 | /mnt/stockage/packages/f34/apostrophe/po/en_GB.po | 
- | [cs]({{< ref "/f34/language/cs.md" >}}) | 363 | 445 | 81.6 | /mnt/stockage/packages/f34/apostrophe/po/cs.po | 
- | [pt_BR]({{< ref "/f34/language/pt_BR.md" >}}) | 362 | 445 | 81.3 | /mnt/stockage/packages/f34/apostrophe/po/pt_BR.po | 
- | [hu]({{< ref "/f34/language/hu.md" >}}) | 357 | 445 | 80.2 | /mnt/stockage/packages/f34/apostrophe/po/hu.po | 
- | [ca]({{< ref "/f34/language/ca.md" >}}) | 351 | 445 | 78.9 | /mnt/stockage/packages/f34/apostrophe/po/ca_ES.po | 
- | [zh_Hans]({{< ref "/f34/language/zh_Hans.md" >}}) | 340 | 445 | 76.4 | /mnt/stockage/packages/f34/apostrophe/po/zh_CN.po | 
- | [pl]({{< ref "/f34/language/pl.md" >}}) | 227 | 445 | 51.0 | /mnt/stockage/packages/f34/apostrophe/po/pl.po | 
- | [vi]({{< ref "/f34/language/vi.md" >}}) | 74 | 445 | 16.6 | /mnt/stockage/packages/f34/apostrophe/po/vi.po | 
- | [si]({{< ref "/f34/language/si.md" >}}) | 44 | 445 | 9.9 | /mnt/stockage/packages/f34/apostrophe/po/si.po | 
- | [zh_Hant]({{< ref "/f34/language/zh_Hant.md" >}}) | 44 | 445 | 9.9 | /mnt/stockage/packages/f34/apostrophe/po/zh_TW.po | 
- | [eu]({{< ref "/f34/language/eu.md" >}}) | 39 | 445 | 8.8 | /mnt/stockage/packages/f34/apostrophe/po/eu.po | 
+ | [nl](/f34/language/nl) | 453 | 453 | 100.0 | /mnt/stockage/packages/f34/apostrophe/po/nl.po | 
+ | [de](/f34/language/de) | 367 | 445 | 82.5 | /mnt/stockage/packages/f34/apostrophe/po/de.po | 
+ | [es](/f34/language/es) | 367 | 445 | 82.5 | /mnt/stockage/packages/f34/apostrophe/po/es.po | 
+ | [fr](/f34/language/fr) | 367 | 445 | 82.5 | /mnt/stockage/packages/f34/apostrophe/po/fr.po | 
+ | [ru](/f34/language/ru) | 367 | 445 | 82.5 | /mnt/stockage/packages/f34/apostrophe/po/ru.po | 
+ | [sv](/f34/language/sv) | 367 | 445 | 82.5 | /mnt/stockage/packages/f34/apostrophe/po/sv.po | 
+ | [tr](/f34/language/tr) | 367 | 445 | 82.5 | /mnt/stockage/packages/f34/apostrophe/po/tr.po | 
+ | [it](/f34/language/it) | 366 | 445 | 82.2 | /mnt/stockage/packages/f34/apostrophe/po/it.po | 
+ | [en_GB](/f34/language/en_GB) | 365 | 445 | 82.0 | /mnt/stockage/packages/f34/apostrophe/po/en_GB.po | 
+ | [cs](/f34/language/cs) | 363 | 445 | 81.6 | /mnt/stockage/packages/f34/apostrophe/po/cs.po | 
+ | [pt_BR](/f34/language/pt_BR) | 362 | 445 | 81.3 | /mnt/stockage/packages/f34/apostrophe/po/pt_BR.po | 
+ | [hu](/f34/language/hu) | 357 | 445 | 80.2 | /mnt/stockage/packages/f34/apostrophe/po/hu.po | 
+ | [ca](/f34/language/ca) | 351 | 445 | 78.9 | /mnt/stockage/packages/f34/apostrophe/po/ca_ES.po | 
+ | [zh_Hans](/f34/language/zh_Hans) | 340 | 445 | 76.4 | /mnt/stockage/packages/f34/apostrophe/po/zh_CN.po | 
+ | [pl](/f34/language/pl) | 227 | 445 | 51.0 | /mnt/stockage/packages/f34/apostrophe/po/pl.po | 
+ | [vi](/f34/language/vi) | 74 | 445 | 16.6 | /mnt/stockage/packages/f34/apostrophe/po/vi.po | 
+ | [si](/f34/language/si) | 44 | 445 | 9.9 | /mnt/stockage/packages/f34/apostrophe/po/si.po | 
+ | [zh_Hant](/f34/language/zh_Hant) | 44 | 445 | 9.9 | /mnt/stockage/packages/f34/apostrophe/po/zh_TW.po | 
+ | [eu](/f34/language/eu) | 39 | 445 | 8.8 | /mnt/stockage/packages/f34/apostrophe/po/eu.po | 
 {.sortable}
 
 

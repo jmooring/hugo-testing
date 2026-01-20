@@ -38,13 +38,13 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [blueberry]({{< ref "/f27/package/blueberry.md" >}}) | 141 | 141 | 100.0 | Neapolitan <nap@li.org> | 
- | [cinnamon-translations]({{< ref "/f27/package/cinnamon-translations.md" >}}) | 3184 | 8061 | 39.5 | Neapolitan <nap@li.org> | 
- | [slick-greeter]({{< ref "/f27/package/slick-greeter.md" >}}) | 35 | 211 | 16.6 | Neapolitan <nap@li.org> | 
- | [lightdm-settings]({{< ref "/f27/package/lightdm-settings.md" >}}) | 36 | 271 | 13.3 | Neapolitan <nap@li.org> | 
- | [midori]({{< ref "/f27/package/midori.md" >}}) | 429 | 3541 | 12.1 | Neapolitan <nap@li.org> | 
- | [gnome-do]({{< ref "/f27/package/gnome-do.md" >}}) | 37 | 612 | 6.0 | Neapolitan <nap@li.org> | 
- | [deluge]({{< ref "/f27/package/deluge.md" >}}) | 82 | 2728 | 3.0 | Neapolitan <nap@li.org> | 
+ | [blueberry](/f27/package/blueberry) | 141 | 141 | 100.0 | Neapolitan <nap@li.org> | 
+ | [cinnamon-translations](/f27/package/cinnamon-translations) | 3184 | 8061 | 39.5 | Neapolitan <nap@li.org> | 
+ | [slick-greeter](/f27/package/slick-greeter) | 35 | 211 | 16.6 | Neapolitan <nap@li.org> | 
+ | [lightdm-settings](/f27/package/lightdm-settings) | 36 | 271 | 13.3 | Neapolitan <nap@li.org> | 
+ | [midori](/f27/package/midori) | 429 | 3541 | 12.1 | Neapolitan <nap@li.org> | 
+ | [gnome-do](/f27/package/gnome-do) | 37 | 612 | 6.0 | Neapolitan <nap@li.org> | 
+ | [deluge](/f27/package/deluge) | 82 | 2728 | 3.0 | Neapolitan <nap@li.org> | 
 {.sortable}
 
 

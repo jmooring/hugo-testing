@@ -18,8 +18,8 @@ The package php-laminas-i18n (version 2.13.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [en]({{< ref "/f35/language/en.md" >}}) | 25 | 25 | 100.0 | /mnt/stockage/packages/f35/php-laminas-i18n/test/Translator/_files/translation_en.po | 
- | [error]({{< ref "/f35/language/error.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f35/php-laminas-i18n/test/Translator/_files/translation_empty.po | 
+ | [en](/f35/language/en) | 25 | 25 | 100.0 | /mnt/stockage/packages/f35/php-laminas-i18n/test/Translator/_files/translation_en.po | 
+ | [error](/f35/language/error) | 0 | 0 | 0.0 | /mnt/stockage/packages/f35/php-laminas-i18n/test/Translator/_files/translation_empty.po | 
 {.sortable}
 
 

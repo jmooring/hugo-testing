@@ -18,8 +18,8 @@ The package fontconfig (version 2.14.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ka]({{< ref "/f39/language/ka.md" >}}) | 964 | 985 | 97.9 | /mnt/stockage/packages/f39/fontconfig/po/ka.po/mnt/stockage/packages/f39/fontconfig/po-conf/ka.po | 
- | [zh_Hans]({{< ref "/f39/language/zh_Hans.md" >}}) | 892 | 985 | 90.6 | /mnt/stockage/packages/f39/fontconfig/po/zh_CN.po/mnt/stockage/packages/f39/fontconfig/po-conf/zh_CN.po | 
+ | [ka](/f39/language/ka) | 964 | 985 | 97.9 | /mnt/stockage/packages/f39/fontconfig/po/ka.po/mnt/stockage/packages/f39/fontconfig/po-conf/ka.po | 
+ | [zh_Hans](/f39/language/zh_Hans) | 892 | 985 | 90.6 | /mnt/stockage/packages/f39/fontconfig/po/zh_CN.po/mnt/stockage/packages/f39/fontconfig/po-conf/zh_CN.po | 
 {.sortable}
 
 

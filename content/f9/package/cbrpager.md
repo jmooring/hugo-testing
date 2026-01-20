@@ -18,7 +18,7 @@ The package cbrpager (version 0.9.15):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [es]({{< ref "/f9/language/es.md" >}}) | 175 | 246 | 71.1 | /mnt/stockage/packages/f9/cbrpager/po/es.po | 
+ | [es](/f9/language/es) | 175 | 246 | 71.1 | /mnt/stockage/packages/f9/cbrpager/po/es.po | 
 {.sortable}
 
 

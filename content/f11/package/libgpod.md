@@ -18,15 +18,15 @@ The package libgpod (version 0.7.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f11/language/de.md" >}}) | 943 | 943 | 100.0 | /mnt/stockage/packages/f11/libgpod/po/de.po | 
- | [es]({{< ref "/f11/language/es.md" >}}) | 943 | 943 | 100.0 | /mnt/stockage/packages/f11/libgpod/po/es.po | 
- | [fr]({{< ref "/f11/language/fr.md" >}}) | 943 | 943 | 100.0 | /mnt/stockage/packages/f11/libgpod/po/fr.po | 
- | [he]({{< ref "/f11/language/he.md" >}}) | 943 | 943 | 100.0 | /mnt/stockage/packages/f11/libgpod/po/he.po | 
- | [it]({{< ref "/f11/language/it.md" >}}) | 943 | 943 | 100.0 | /mnt/stockage/packages/f11/libgpod/po/it.po | 
- | [ro]({{< ref "/f11/language/ro.md" >}}) | 842 | 842 | 100.0 | /mnt/stockage/packages/f11/libgpod/po/ro.po | 
- | [sv]({{< ref "/f11/language/sv.md" >}}) | 943 | 943 | 100.0 | /mnt/stockage/packages/f11/libgpod/po/sv.po | 
- | [zh_Hans]({{< ref "/f11/language/zh_Hans.md" >}}) | 943 | 943 | 100.0 | /mnt/stockage/packages/f11/libgpod/po/zh_CN.po | 
- | [ja]({{< ref "/f11/language/ja.md" >}}) | 672 | 943 | 71.3 | /mnt/stockage/packages/f11/libgpod/po/ja.po | 
+ | [de](/f11/language/de) | 943 | 943 | 100.0 | /mnt/stockage/packages/f11/libgpod/po/de.po | 
+ | [es](/f11/language/es) | 943 | 943 | 100.0 | /mnt/stockage/packages/f11/libgpod/po/es.po | 
+ | [fr](/f11/language/fr) | 943 | 943 | 100.0 | /mnt/stockage/packages/f11/libgpod/po/fr.po | 
+ | [he](/f11/language/he) | 943 | 943 | 100.0 | /mnt/stockage/packages/f11/libgpod/po/he.po | 
+ | [it](/f11/language/it) | 943 | 943 | 100.0 | /mnt/stockage/packages/f11/libgpod/po/it.po | 
+ | [ro](/f11/language/ro) | 842 | 842 | 100.0 | /mnt/stockage/packages/f11/libgpod/po/ro.po | 
+ | [sv](/f11/language/sv) | 943 | 943 | 100.0 | /mnt/stockage/packages/f11/libgpod/po/sv.po | 
+ | [zh_Hans](/f11/language/zh_Hans) | 943 | 943 | 100.0 | /mnt/stockage/packages/f11/libgpod/po/zh_CN.po | 
+ | [ja](/f11/language/ja) | 672 | 943 | 71.3 | /mnt/stockage/packages/f11/libgpod/po/ja.po | 
 {.sortable}
 
 

@@ -38,17 +38,17 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [warmux]({{< ref "/f22/package/warmux.md" >}}) | 1273 | 2744 | 46.4 | Treylyansow <treylyansow@kernewegva.com> | 
- | [isomaster]({{< ref "/f22/package/isomaster.md" >}}) | 11 | 674 | 1.6 | http://littlesvr.ca/ostd/ | 
- | [dnf-plugin-system-upgrade]({{< ref "/f22/package/dnf-plugin-system-upgrade.md" >}}) | 0 | 422 | 0.0 | Cornish (United Kingdom) | 
- | [entangle]({{< ref "/f22/package/entangle.md" >}}) | 0 | 1868 | 0.0 | Cornish | 
- | [libosinfo]({{< ref "/f22/package/libosinfo.md" >}}) | 0 | 3742 | 0.0 | Cornish (United Kingdom) | 
- | [libvirt-glib]({{< ref "/f22/package/libvirt-glib.md" >}}) | 0 | 276 | 0.0 | Cornish | 
- | [libvirt-sandbox]({{< ref "/f22/package/libvirt-sandbox.md" >}}) | 0 | 1234 | 0.0 | Cornish | 
- | [python-fedora]({{< ref "/f22/package/python-fedora.md" >}}) | 0 | 428 | 0.0 | Cornish (United Kingdom) | 
- | [python-meh]({{< ref "/f22/package/python-meh.md" >}}) | 0 | 218 | 0.0 | Cornish (United Kingdom) | 
- | [supertuxkart]({{< ref "/f22/package/supertuxkart.md" >}}) | 0 | 0 | 0.0 |  | 
- | [vidalia]({{< ref "/f22/package/vidalia.md" >}}) | 0 | 10373 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [warmux](/f22/package/warmux) | 1273 | 2744 | 46.4 | Treylyansow <treylyansow@kernewegva.com> | 
+ | [isomaster](/f22/package/isomaster) | 11 | 674 | 1.6 | http://littlesvr.ca/ostd/ | 
+ | [dnf-plugin-system-upgrade](/f22/package/dnf-plugin-system-upgrade) | 0 | 422 | 0.0 | Cornish (United Kingdom) | 
+ | [entangle](/f22/package/entangle) | 0 | 1868 | 0.0 | Cornish | 
+ | [libosinfo](/f22/package/libosinfo) | 0 | 3742 | 0.0 | Cornish (United Kingdom) | 
+ | [libvirt-glib](/f22/package/libvirt-glib) | 0 | 276 | 0.0 | Cornish | 
+ | [libvirt-sandbox](/f22/package/libvirt-sandbox) | 0 | 1234 | 0.0 | Cornish | 
+ | [python-fedora](/f22/package/python-fedora) | 0 | 428 | 0.0 | Cornish (United Kingdom) | 
+ | [python-meh](/f22/package/python-meh) | 0 | 218 | 0.0 | Cornish (United Kingdom) | 
+ | [supertuxkart](/f22/package/supertuxkart) | 0 | 0 | 0.0 |  | 
+ | [vidalia](/f22/package/vidalia) | 0 | 10373 | 0.0 | LANGUAGE <LL@li.org> | 
 {.sortable}
 
 
@@ -60,7 +60,7 @@ We use the po metadata to get the language code and the team, but sometimes it f
 
 | Package | Lang from file path/name | polib error | Team |
 |---------|--------------------------|-------------|------|
- | [supertuxkart]({{< ref "/f22/package/supertuxkart.md" >}}) | /mnt/stockage/packages/f22/supertuxkart/data/po/kw.po | error-os |  | 
+ | [supertuxkart](/f22/package/supertuxkart) | /mnt/stockage/packages/f22/supertuxkart/data/po/kw.po | error-os |  | 
 {.sortable}
 
 
@@ -71,7 +71,7 @@ We use the calcstats from translate toolkit to get the translation progress, but
 
 | Package | Lang from file path/name | Team |
 |---------|--------------------------|------|
- | [supertuxkart]({{< ref "/f22/package/supertuxkart.md" >}}) | /mnt/stockage/packages/f22/supertuxkart/data/po/kw.po |  | 
+ | [supertuxkart](/f22/package/supertuxkart) | /mnt/stockage/packages/f22/supertuxkart/data/po/kw.po |  | 
 {.sortable}
 
 

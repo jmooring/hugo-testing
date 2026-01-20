@@ -18,12 +18,12 @@ The package 7kaa (version 2.15.4p1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [es]({{< ref "/f38/language/es.md" >}}) | 20623 | 20623 | 100.0 | /mnt/stockage/packages/f38/7kaa/po/es.po | 
- | [pl]({{< ref "/f38/language/pl.md" >}}) | 20603 | 20623 | 99.9 | /mnt/stockage/packages/f38/7kaa/po/pl.po | 
- | [ru]({{< ref "/f38/language/ru.md" >}}) | 19889 | 20623 | 96.4 | /mnt/stockage/packages/f38/7kaa/po/ru.po | 
- | [fr]({{< ref "/f38/language/fr.md" >}}) | 2367 | 17367 | 13.6 | /mnt/stockage/packages/f38/7kaa/po/fr.po | 
- | [de]({{< ref "/f38/language/de.md" >}}) | 1897 | 20623 | 9.2 | /mnt/stockage/packages/f38/7kaa/po/de.po | 
- | [pt_BR]({{< ref "/f38/language/pt_BR.md" >}}) | 944 | 20623 | 4.6 | /mnt/stockage/packages/f38/7kaa/po/pt_BR.po | 
+ | [es](/f38/language/es) | 20623 | 20623 | 100.0 | /mnt/stockage/packages/f38/7kaa/po/es.po | 
+ | [pl](/f38/language/pl) | 20603 | 20623 | 99.9 | /mnt/stockage/packages/f38/7kaa/po/pl.po | 
+ | [ru](/f38/language/ru) | 19889 | 20623 | 96.4 | /mnt/stockage/packages/f38/7kaa/po/ru.po | 
+ | [fr](/f38/language/fr) | 2367 | 17367 | 13.6 | /mnt/stockage/packages/f38/7kaa/po/fr.po | 
+ | [de](/f38/language/de) | 1897 | 20623 | 9.2 | /mnt/stockage/packages/f38/7kaa/po/de.po | 
+ | [pt_BR](/f38/language/pt_BR) | 944 | 20623 | 4.6 | /mnt/stockage/packages/f38/7kaa/po/pt_BR.po | 
 {.sortable}
 
 

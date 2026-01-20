@@ -18,26 +18,26 @@ The package libgpg-error (version 1.42):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f34/language/de.md" >}}) | 1627 | 1627 | 100.0 | /mnt/stockage/packages/f34/libgpg-error/po/de.po | 
- | [ja]({{< ref "/f34/language/ja.md" >}}) | 1627 | 1627 | 100.0 | /mnt/stockage/packages/f34/libgpg-error/po/ja.po | 
- | [pl]({{< ref "/f34/language/pl.md" >}}) | 1627 | 1627 | 100.0 | /mnt/stockage/packages/f34/libgpg-error/po/pl.po | 
- | [zh_Hans]({{< ref "/f34/language/zh_Hans.md" >}}) | 1627 | 1627 | 100.0 | /mnt/stockage/packages/f34/libgpg-error/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f34/language/zh_Hant.md" >}}) | 1627 | 1627 | 100.0 | /mnt/stockage/packages/f34/libgpg-error/po/zh_TW.po | 
- | [uk]({{< ref "/f34/language/uk.md" >}}) | 1594 | 1627 | 98.0 | /mnt/stockage/packages/f34/libgpg-error/po/uk.po | 
- | [ru]({{< ref "/f34/language/ru.md" >}}) | 1416 | 1627 | 87.0 | /mnt/stockage/packages/f34/libgpg-error/po/ru.po | 
- | [es]({{< ref "/f34/language/es.md" >}}) | 1185 | 1627 | 72.8 | /mnt/stockage/packages/f34/libgpg-error/po/es.po | 
- | [cs]({{< ref "/f34/language/cs.md" >}}) | 976 | 1627 | 60.0 | /mnt/stockage/packages/f34/libgpg-error/po/cs.po | 
- | [fr]({{< ref "/f34/language/fr.md" >}}) | 976 | 1627 | 60.0 | /mnt/stockage/packages/f34/libgpg-error/po/fr.po | 
- | [da]({{< ref "/f34/language/da.md" >}}) | 969 | 1627 | 59.6 | /mnt/stockage/packages/f34/libgpg-error/po/da.po | 
- | [it]({{< ref "/f34/language/it.md" >}}) | 923 | 1627 | 56.7 | /mnt/stockage/packages/f34/libgpg-error/po/it.po | 
- | [pt]({{< ref "/f34/language/pt.md" >}}) | 923 | 1627 | 56.7 | /mnt/stockage/packages/f34/libgpg-error/po/pt.po | 
- | [nl]({{< ref "/f34/language/nl.md" >}}) | 918 | 1627 | 56.4 | /mnt/stockage/packages/f34/libgpg-error/po/nl.po | 
- | [sv]({{< ref "/f34/language/sv.md" >}}) | 788 | 1627 | 48.4 | /mnt/stockage/packages/f34/libgpg-error/po/sv.po | 
- | [eo]({{< ref "/f34/language/eo.md" >}}) | 742 | 1627 | 45.6 | /mnt/stockage/packages/f34/libgpg-error/po/eo.po | 
- | [hu]({{< ref "/f34/language/hu.md" >}}) | 742 | 1627 | 45.6 | /mnt/stockage/packages/f34/libgpg-error/po/hu.po | 
- | [sr]({{< ref "/f34/language/sr.md" >}}) | 742 | 1627 | 45.6 | /mnt/stockage/packages/f34/libgpg-error/po/sr.po | 
- | [vi]({{< ref "/f34/language/vi.md" >}}) | 742 | 1627 | 45.6 | /mnt/stockage/packages/f34/libgpg-error/po/vi.po | 
- | [ro]({{< ref "/f34/language/ro.md" >}}) | 615 | 1627 | 37.8 | /mnt/stockage/packages/f34/libgpg-error/po/ro.po | 
+ | [de](/f34/language/de) | 1627 | 1627 | 100.0 | /mnt/stockage/packages/f34/libgpg-error/po/de.po | 
+ | [ja](/f34/language/ja) | 1627 | 1627 | 100.0 | /mnt/stockage/packages/f34/libgpg-error/po/ja.po | 
+ | [pl](/f34/language/pl) | 1627 | 1627 | 100.0 | /mnt/stockage/packages/f34/libgpg-error/po/pl.po | 
+ | [zh_Hans](/f34/language/zh_Hans) | 1627 | 1627 | 100.0 | /mnt/stockage/packages/f34/libgpg-error/po/zh_CN.po | 
+ | [zh_Hant](/f34/language/zh_Hant) | 1627 | 1627 | 100.0 | /mnt/stockage/packages/f34/libgpg-error/po/zh_TW.po | 
+ | [uk](/f34/language/uk) | 1594 | 1627 | 98.0 | /mnt/stockage/packages/f34/libgpg-error/po/uk.po | 
+ | [ru](/f34/language/ru) | 1416 | 1627 | 87.0 | /mnt/stockage/packages/f34/libgpg-error/po/ru.po | 
+ | [es](/f34/language/es) | 1185 | 1627 | 72.8 | /mnt/stockage/packages/f34/libgpg-error/po/es.po | 
+ | [cs](/f34/language/cs) | 976 | 1627 | 60.0 | /mnt/stockage/packages/f34/libgpg-error/po/cs.po | 
+ | [fr](/f34/language/fr) | 976 | 1627 | 60.0 | /mnt/stockage/packages/f34/libgpg-error/po/fr.po | 
+ | [da](/f34/language/da) | 969 | 1627 | 59.6 | /mnt/stockage/packages/f34/libgpg-error/po/da.po | 
+ | [it](/f34/language/it) | 923 | 1627 | 56.7 | /mnt/stockage/packages/f34/libgpg-error/po/it.po | 
+ | [pt](/f34/language/pt) | 923 | 1627 | 56.7 | /mnt/stockage/packages/f34/libgpg-error/po/pt.po | 
+ | [nl](/f34/language/nl) | 918 | 1627 | 56.4 | /mnt/stockage/packages/f34/libgpg-error/po/nl.po | 
+ | [sv](/f34/language/sv) | 788 | 1627 | 48.4 | /mnt/stockage/packages/f34/libgpg-error/po/sv.po | 
+ | [eo](/f34/language/eo) | 742 | 1627 | 45.6 | /mnt/stockage/packages/f34/libgpg-error/po/eo.po | 
+ | [hu](/f34/language/hu) | 742 | 1627 | 45.6 | /mnt/stockage/packages/f34/libgpg-error/po/hu.po | 
+ | [sr](/f34/language/sr) | 742 | 1627 | 45.6 | /mnt/stockage/packages/f34/libgpg-error/po/sr.po | 
+ | [vi](/f34/language/vi) | 742 | 1627 | 45.6 | /mnt/stockage/packages/f34/libgpg-error/po/vi.po | 
+ | [ro](/f34/language/ro) | 615 | 1627 | 37.8 | /mnt/stockage/packages/f34/libgpg-error/po/ro.po | 
 {.sortable}
 
 

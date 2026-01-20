@@ -18,67 +18,67 @@ The package lxinput (version 0.3.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f22/language/ar.md" >}}) | 72 | 72 | 100.0 | /mnt/stockage/packages/f22/lxinput/po/ar.po | 
- | [be]({{< ref "/f22/language/be.md" >}}) | 72 | 72 | 100.0 | /mnt/stockage/packages/f22/lxinput/po/be.po | 
- | [bg]({{< ref "/f22/language/bg.md" >}}) | 72 | 72 | 100.0 | /mnt/stockage/packages/f22/lxinput/po/bg.po | 
- | [da]({{< ref "/f22/language/da.md" >}}) | 72 | 72 | 100.0 | /mnt/stockage/packages/f22/lxinput/po/da.po | 
- | [de]({{< ref "/f22/language/de.md" >}}) | 72 | 72 | 100.0 | /mnt/stockage/packages/f22/lxinput/po/de.po | 
- | [el]({{< ref "/f22/language/el.md" >}}) | 72 | 72 | 100.0 | /mnt/stockage/packages/f22/lxinput/po/el.po | 
- | [en_GB]({{< ref "/f22/language/en_GB.md" >}}) | 72 | 72 | 100.0 | /mnt/stockage/packages/f22/lxinput/po/en_GB.po | 
- | [eo]({{< ref "/f22/language/eo.md" >}}) | 72 | 72 | 100.0 | /mnt/stockage/packages/f22/lxinput/po/eo.po | 
- | [es]({{< ref "/f22/language/es.md" >}}) | 72 | 72 | 100.0 | /mnt/stockage/packages/f22/lxinput/po/es.po | 
- | [et]({{< ref "/f22/language/et.md" >}}) | 72 | 72 | 100.0 | /mnt/stockage/packages/f22/lxinput/po/et.po | 
- | [fi]({{< ref "/f22/language/fi.md" >}}) | 72 | 72 | 100.0 | /mnt/stockage/packages/f22/lxinput/po/fi.po | 
- | [fr]({{< ref "/f22/language/fr.md" >}}) | 72 | 72 | 100.0 | /mnt/stockage/packages/f22/lxinput/po/fr.po | 
- | [gl]({{< ref "/f22/language/gl.md" >}}) | 72 | 72 | 100.0 | /mnt/stockage/packages/f22/lxinput/po/gl.po | 
- | [he]({{< ref "/f22/language/he.md" >}}) | 72 | 72 | 100.0 | /mnt/stockage/packages/f22/lxinput/po/he.po | 
- | [hu]({{< ref "/f22/language/hu.md" >}}) | 72 | 72 | 100.0 | /mnt/stockage/packages/f22/lxinput/po/hu.po | 
- | [id]({{< ref "/f22/language/id.md" >}}) | 72 | 72 | 100.0 | /mnt/stockage/packages/f22/lxinput/po/id.po | 
- | [it]({{< ref "/f22/language/it.md" >}}) | 72 | 72 | 100.0 | /mnt/stockage/packages/f22/lxinput/po/it.po | 
- | [ja]({{< ref "/f22/language/ja.md" >}}) | 72 | 72 | 100.0 | /mnt/stockage/packages/f22/lxinput/po/ja.po | 
- | [kk]({{< ref "/f22/language/kk.md" >}}) | 72 | 72 | 100.0 | /mnt/stockage/packages/f22/lxinput/po/kk.po | 
- | [ko]({{< ref "/f22/language/ko.md" >}}) | 72 | 72 | 100.0 | /mnt/stockage/packages/f22/lxinput/po/ko.po | 
- | [lg]({{< ref "/f22/language/lg.md" >}}) | 72 | 72 | 100.0 | /mnt/stockage/packages/f22/lxinput/po/lg.po | 
- | [lt]({{< ref "/f22/language/lt.md" >}}) | 72 | 72 | 100.0 | /mnt/stockage/packages/f22/lxinput/po/lt.po | 
- | [nl]({{< ref "/f22/language/nl.md" >}}) | 72 | 72 | 100.0 | /mnt/stockage/packages/f22/lxinput/po/nl.po | 
- | [pl]({{< ref "/f22/language/pl.md" >}}) | 72 | 72 | 100.0 | /mnt/stockage/packages/f22/lxinput/po/pl.po | 
- | [pt]({{< ref "/f22/language/pt.md" >}}) | 72 | 72 | 100.0 | /mnt/stockage/packages/f22/lxinput/po/pt.po | 
- | [pt_BR]({{< ref "/f22/language/pt_BR.md" >}}) | 72 | 72 | 100.0 | /mnt/stockage/packages/f22/lxinput/po/pt_BR.po | 
- | [ro]({{< ref "/f22/language/ro.md" >}}) | 72 | 72 | 100.0 | /mnt/stockage/packages/f22/lxinput/po/ro.po | 
- | [ru]({{< ref "/f22/language/ru.md" >}}) | 72 | 72 | 100.0 | /mnt/stockage/packages/f22/lxinput/po/ru.po | 
- | [sl]({{< ref "/f22/language/sl.md" >}}) | 72 | 72 | 100.0 | /mnt/stockage/packages/f22/lxinput/po/sl.po | 
- | [sv]({{< ref "/f22/language/sv.md" >}}) | 72 | 72 | 100.0 | /mnt/stockage/packages/f22/lxinput/po/sv.po | 
- | [te]({{< ref "/f22/language/te.md" >}}) | 72 | 72 | 100.0 | /mnt/stockage/packages/f22/lxinput/po/te.po | 
- | [tr]({{< ref "/f22/language/tr.md" >}}) | 72 | 72 | 100.0 | /mnt/stockage/packages/f22/lxinput/po/tr.po | 
- | [tt]({{< ref "/f22/language/tt.md" >}}) | 72 | 72 | 100.0 | /mnt/stockage/packages/f22/lxinput/po/tt_RU.po | 
- | [ug]({{< ref "/f22/language/ug.md" >}}) | 72 | 72 | 100.0 | /mnt/stockage/packages/f22/lxinput/po/ug.po | 
- | [uk]({{< ref "/f22/language/uk.md" >}}) | 72 | 72 | 100.0 | /mnt/stockage/packages/f22/lxinput/po/uk.po | 
- | [vi]({{< ref "/f22/language/vi.md" >}}) | 72 | 72 | 100.0 | /mnt/stockage/packages/f22/lxinput/po/vi.po | 
- | [zh_Hans]({{< ref "/f22/language/zh_Hans.md" >}}) | 72 | 72 | 100.0 | /mnt/stockage/packages/f22/lxinput/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f22/language/zh_Hant.md" >}}) | 72 | 72 | 100.0 | /mnt/stockage/packages/f22/lxinput/po/zh_TW.po | 
- | [af]({{< ref "/f22/language/af.md" >}}) | 70 | 72 | 97.2 | /mnt/stockage/packages/f22/lxinput/po/af.po | 
- | [bn]({{< ref "/f22/language/bn.md" >}}) | 70 | 72 | 97.2 | /mnt/stockage/packages/f22/lxinput/po/bn.po | 
- | [bn_IN]({{< ref "/f22/language/bn_IN.md" >}}) | 70 | 72 | 97.2 | /mnt/stockage/packages/f22/lxinput/po/bn_IN.po | 
- | [ca]({{< ref "/f22/language/ca.md" >}}) | 70 | 72 | 97.2 | /mnt/stockage/packages/f22/lxinput/po/ca.po | 
- | [cs]({{< ref "/f22/language/cs.md" >}}) | 70 | 72 | 97.2 | /mnt/stockage/packages/f22/lxinput/po/cs.po | 
- | [fa]({{< ref "/f22/language/fa.md" >}}) | 70 | 72 | 97.2 | /mnt/stockage/packages/f22/lxinput/po/fa.po | 
- | [fo]({{< ref "/f22/language/fo.md" >}}) | 70 | 72 | 97.2 | /mnt/stockage/packages/f22/lxinput/po/fo.po | 
- | [nb_NO]({{< ref "/f22/language/nb_NO.md" >}}) | 70 | 72 | 97.2 | /mnt/stockage/packages/f22/lxinput/po/nb.po | 
- | [sk]({{< ref "/f22/language/sk.md" >}}) | 70 | 72 | 97.2 | /mnt/stockage/packages/f22/lxinput/po/sk.po | 
- | [sr]({{< ref "/f22/language/sr.md" >}}) | 70 | 72 | 97.2 | /mnt/stockage/packages/f22/lxinput/po/sr.po | 
- | [sr_Latn]({{< ref "/f22/language/sr_Latn.md" >}}) | 70 | 72 | 97.2 | /mnt/stockage/packages/f22/lxinput/po/sr@latin.po | 
- | [hr]({{< ref "/f22/language/hr.md" >}}) | 61 | 72 | 84.7 | /mnt/stockage/packages/f22/lxinput/po/hr.po | 
- | [ast]({{< ref "/f22/language/ast.md" >}}) | 60 | 72 | 83.3 | /mnt/stockage/packages/f22/lxinput/po/ast.po | 
- | [es_VE]({{< ref "/f22/language/es_VE.md" >}}) | 60 | 72 | 83.3 | /mnt/stockage/packages/f22/lxinput/po/es_VE.po | 
- | [frp]({{< ref "/f22/language/frp.md" >}}) | 60 | 72 | 83.3 | /mnt/stockage/packages/f22/lxinput/po/frp.po | 
- | [ms]({{< ref "/f22/language/ms.md" >}}) | 60 | 72 | 83.3 | /mnt/stockage/packages/f22/lxinput/po/ms.po | 
- | [nn]({{< ref "/f22/language/nn.md" >}}) | 60 | 72 | 83.3 | /mnt/stockage/packages/f22/lxinput/po/nn.po | 
- | [ur]({{< ref "/f22/language/ur.md" >}}) | 120 | 144 | 83.3 | /mnt/stockage/packages/f22/lxinput/po/ur_PK.po/mnt/stockage/packages/f22/lxinput/po/ur.po | 
- | [si]({{< ref "/f22/language/si.md" >}}) | 41 | 72 | 56.9 | /mnt/stockage/packages/f22/lxinput/po/si.po | 
- | [eu]({{< ref "/f22/language/eu.md" >}}) | 0 | 72 | 0.0 | /mnt/stockage/packages/f22/lxinput/po/eu.po | 
- | [ml]({{< ref "/f22/language/ml.md" >}}) | 0 | 72 | 0.0 | /mnt/stockage/packages/f22/lxinput/po/ml.po | 
- | [ps]({{< ref "/f22/language/ps.md" >}}) | 0 | 72 | 0.0 | /mnt/stockage/packages/f22/lxinput/po/ps.po | 
- | [th]({{< ref "/f22/language/th.md" >}}) | 0 | 72 | 0.0 | /mnt/stockage/packages/f22/lxinput/po/th.po | 
+ | [ar](/f22/language/ar) | 72 | 72 | 100.0 | /mnt/stockage/packages/f22/lxinput/po/ar.po | 
+ | [be](/f22/language/be) | 72 | 72 | 100.0 | /mnt/stockage/packages/f22/lxinput/po/be.po | 
+ | [bg](/f22/language/bg) | 72 | 72 | 100.0 | /mnt/stockage/packages/f22/lxinput/po/bg.po | 
+ | [da](/f22/language/da) | 72 | 72 | 100.0 | /mnt/stockage/packages/f22/lxinput/po/da.po | 
+ | [de](/f22/language/de) | 72 | 72 | 100.0 | /mnt/stockage/packages/f22/lxinput/po/de.po | 
+ | [el](/f22/language/el) | 72 | 72 | 100.0 | /mnt/stockage/packages/f22/lxinput/po/el.po | 
+ | [en_GB](/f22/language/en_GB) | 72 | 72 | 100.0 | /mnt/stockage/packages/f22/lxinput/po/en_GB.po | 
+ | [eo](/f22/language/eo) | 72 | 72 | 100.0 | /mnt/stockage/packages/f22/lxinput/po/eo.po | 
+ | [es](/f22/language/es) | 72 | 72 | 100.0 | /mnt/stockage/packages/f22/lxinput/po/es.po | 
+ | [et](/f22/language/et) | 72 | 72 | 100.0 | /mnt/stockage/packages/f22/lxinput/po/et.po | 
+ | [fi](/f22/language/fi) | 72 | 72 | 100.0 | /mnt/stockage/packages/f22/lxinput/po/fi.po | 
+ | [fr](/f22/language/fr) | 72 | 72 | 100.0 | /mnt/stockage/packages/f22/lxinput/po/fr.po | 
+ | [gl](/f22/language/gl) | 72 | 72 | 100.0 | /mnt/stockage/packages/f22/lxinput/po/gl.po | 
+ | [he](/f22/language/he) | 72 | 72 | 100.0 | /mnt/stockage/packages/f22/lxinput/po/he.po | 
+ | [hu](/f22/language/hu) | 72 | 72 | 100.0 | /mnt/stockage/packages/f22/lxinput/po/hu.po | 
+ | [id](/f22/language/id) | 72 | 72 | 100.0 | /mnt/stockage/packages/f22/lxinput/po/id.po | 
+ | [it](/f22/language/it) | 72 | 72 | 100.0 | /mnt/stockage/packages/f22/lxinput/po/it.po | 
+ | [ja](/f22/language/ja) | 72 | 72 | 100.0 | /mnt/stockage/packages/f22/lxinput/po/ja.po | 
+ | [kk](/f22/language/kk) | 72 | 72 | 100.0 | /mnt/stockage/packages/f22/lxinput/po/kk.po | 
+ | [ko](/f22/language/ko) | 72 | 72 | 100.0 | /mnt/stockage/packages/f22/lxinput/po/ko.po | 
+ | [lg](/f22/language/lg) | 72 | 72 | 100.0 | /mnt/stockage/packages/f22/lxinput/po/lg.po | 
+ | [lt](/f22/language/lt) | 72 | 72 | 100.0 | /mnt/stockage/packages/f22/lxinput/po/lt.po | 
+ | [nl](/f22/language/nl) | 72 | 72 | 100.0 | /mnt/stockage/packages/f22/lxinput/po/nl.po | 
+ | [pl](/f22/language/pl) | 72 | 72 | 100.0 | /mnt/stockage/packages/f22/lxinput/po/pl.po | 
+ | [pt](/f22/language/pt) | 72 | 72 | 100.0 | /mnt/stockage/packages/f22/lxinput/po/pt.po | 
+ | [pt_BR](/f22/language/pt_BR) | 72 | 72 | 100.0 | /mnt/stockage/packages/f22/lxinput/po/pt_BR.po | 
+ | [ro](/f22/language/ro) | 72 | 72 | 100.0 | /mnt/stockage/packages/f22/lxinput/po/ro.po | 
+ | [ru](/f22/language/ru) | 72 | 72 | 100.0 | /mnt/stockage/packages/f22/lxinput/po/ru.po | 
+ | [sl](/f22/language/sl) | 72 | 72 | 100.0 | /mnt/stockage/packages/f22/lxinput/po/sl.po | 
+ | [sv](/f22/language/sv) | 72 | 72 | 100.0 | /mnt/stockage/packages/f22/lxinput/po/sv.po | 
+ | [te](/f22/language/te) | 72 | 72 | 100.0 | /mnt/stockage/packages/f22/lxinput/po/te.po | 
+ | [tr](/f22/language/tr) | 72 | 72 | 100.0 | /mnt/stockage/packages/f22/lxinput/po/tr.po | 
+ | [tt](/f22/language/tt) | 72 | 72 | 100.0 | /mnt/stockage/packages/f22/lxinput/po/tt_RU.po | 
+ | [ug](/f22/language/ug) | 72 | 72 | 100.0 | /mnt/stockage/packages/f22/lxinput/po/ug.po | 
+ | [uk](/f22/language/uk) | 72 | 72 | 100.0 | /mnt/stockage/packages/f22/lxinput/po/uk.po | 
+ | [vi](/f22/language/vi) | 72 | 72 | 100.0 | /mnt/stockage/packages/f22/lxinput/po/vi.po | 
+ | [zh_Hans](/f22/language/zh_Hans) | 72 | 72 | 100.0 | /mnt/stockage/packages/f22/lxinput/po/zh_CN.po | 
+ | [zh_Hant](/f22/language/zh_Hant) | 72 | 72 | 100.0 | /mnt/stockage/packages/f22/lxinput/po/zh_TW.po | 
+ | [af](/f22/language/af) | 70 | 72 | 97.2 | /mnt/stockage/packages/f22/lxinput/po/af.po | 
+ | [bn](/f22/language/bn) | 70 | 72 | 97.2 | /mnt/stockage/packages/f22/lxinput/po/bn.po | 
+ | [bn_IN](/f22/language/bn_IN) | 70 | 72 | 97.2 | /mnt/stockage/packages/f22/lxinput/po/bn_IN.po | 
+ | [ca](/f22/language/ca) | 70 | 72 | 97.2 | /mnt/stockage/packages/f22/lxinput/po/ca.po | 
+ | [cs](/f22/language/cs) | 70 | 72 | 97.2 | /mnt/stockage/packages/f22/lxinput/po/cs.po | 
+ | [fa](/f22/language/fa) | 70 | 72 | 97.2 | /mnt/stockage/packages/f22/lxinput/po/fa.po | 
+ | [fo](/f22/language/fo) | 70 | 72 | 97.2 | /mnt/stockage/packages/f22/lxinput/po/fo.po | 
+ | [nb_NO](/f22/language/nb_NO) | 70 | 72 | 97.2 | /mnt/stockage/packages/f22/lxinput/po/nb.po | 
+ | [sk](/f22/language/sk) | 70 | 72 | 97.2 | /mnt/stockage/packages/f22/lxinput/po/sk.po | 
+ | [sr](/f22/language/sr) | 70 | 72 | 97.2 | /mnt/stockage/packages/f22/lxinput/po/sr.po | 
+ | [sr_Latn](/f22/language/sr_Latn) | 70 | 72 | 97.2 | /mnt/stockage/packages/f22/lxinput/po/sr@latin.po | 
+ | [hr](/f22/language/hr) | 61 | 72 | 84.7 | /mnt/stockage/packages/f22/lxinput/po/hr.po | 
+ | [ast](/f22/language/ast) | 60 | 72 | 83.3 | /mnt/stockage/packages/f22/lxinput/po/ast.po | 
+ | [es_VE](/f22/language/es_VE) | 60 | 72 | 83.3 | /mnt/stockage/packages/f22/lxinput/po/es_VE.po | 
+ | [frp](/f22/language/frp) | 60 | 72 | 83.3 | /mnt/stockage/packages/f22/lxinput/po/frp.po | 
+ | [ms](/f22/language/ms) | 60 | 72 | 83.3 | /mnt/stockage/packages/f22/lxinput/po/ms.po | 
+ | [nn](/f22/language/nn) | 60 | 72 | 83.3 | /mnt/stockage/packages/f22/lxinput/po/nn.po | 
+ | [ur](/f22/language/ur) | 120 | 144 | 83.3 | /mnt/stockage/packages/f22/lxinput/po/ur_PK.po/mnt/stockage/packages/f22/lxinput/po/ur.po | 
+ | [si](/f22/language/si) | 41 | 72 | 56.9 | /mnt/stockage/packages/f22/lxinput/po/si.po | 
+ | [eu](/f22/language/eu) | 0 | 72 | 0.0 | /mnt/stockage/packages/f22/lxinput/po/eu.po | 
+ | [ml](/f22/language/ml) | 0 | 72 | 0.0 | /mnt/stockage/packages/f22/lxinput/po/ml.po | 
+ | [ps](/f22/language/ps) | 0 | 72 | 0.0 | /mnt/stockage/packages/f22/lxinput/po/ps.po | 
+ | [th](/f22/language/th) | 0 | 72 | 0.0 | /mnt/stockage/packages/f22/lxinput/po/th.po | 
 {.sortable}
 
 

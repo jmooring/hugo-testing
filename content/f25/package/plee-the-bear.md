@@ -18,8 +18,8 @@ The package plee-the-bear (version 0.7.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f25/language/fr.md" >}}) | 5636 | 7310 | 77.1 | /mnt/stockage/packages/f25/plee-the-bear/bear/bear-engine/desktop/locale/bear-engine/fr.po/mnt/stockage/packages/f25/plee-the-bear/bear/bear-factory/desktop/locale/bear-factory/fr.po/mnt/stockage/packages/f25/plee-the-bear/plee-the-bear/desktop/locale/plee-the-bear/fr.po | 
- | [nn]({{< ref "/f25/language/nn.md" >}}) | 1117 | 7310 | 15.3 | /mnt/stockage/packages/f25/plee-the-bear/bear/bear-engine/desktop/locale/bear-engine/nn.po/mnt/stockage/packages/f25/plee-the-bear/bear/bear-factory/desktop/locale/bear-factory/nn.po/mnt/stockage/packages/f25/plee-the-bear/plee-the-bear/desktop/locale/plee-the-bear/nn.po | 
+ | [fr](/f25/language/fr) | 5636 | 7310 | 77.1 | /mnt/stockage/packages/f25/plee-the-bear/bear/bear-engine/desktop/locale/bear-engine/fr.po/mnt/stockage/packages/f25/plee-the-bear/bear/bear-factory/desktop/locale/bear-factory/fr.po/mnt/stockage/packages/f25/plee-the-bear/plee-the-bear/desktop/locale/plee-the-bear/fr.po | 
+ | [nn](/f25/language/nn) | 1117 | 7310 | 15.3 | /mnt/stockage/packages/f25/plee-the-bear/bear/bear-engine/desktop/locale/bear-engine/nn.po/mnt/stockage/packages/f25/plee-the-bear/bear/bear-factory/desktop/locale/bear-factory/nn.po/mnt/stockage/packages/f25/plee-the-bear/plee-the-bear/desktop/locale/plee-the-bear/nn.po | 
 {.sortable}
 
 

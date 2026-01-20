@@ -18,17 +18,17 @@ The package mpop (version 1.4.19):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f39/language/de.md" >}}) | 1892 | 1900 | 99.6 | /mnt/stockage/packages/f39/mpop/po/de.po | 
- | [eo]({{< ref "/f39/language/eo.md" >}}) | 1892 | 1900 | 99.6 | /mnt/stockage/packages/f39/mpop/po/eo.po | 
- | [es]({{< ref "/f39/language/es.md" >}}) | 1892 | 1900 | 99.6 | /mnt/stockage/packages/f39/mpop/po/es.po | 
- | [fr]({{< ref "/f39/language/fr.md" >}}) | 1892 | 1900 | 99.6 | /mnt/stockage/packages/f39/mpop/po/fr.po | 
- | [ro]({{< ref "/f39/language/ro.md" >}}) | 1892 | 1900 | 99.6 | /mnt/stockage/packages/f39/mpop/po/ro.po | 
- | [ru]({{< ref "/f39/language/ru.md" >}}) | 1892 | 1900 | 99.6 | /mnt/stockage/packages/f39/mpop/po/ru.po | 
- | [sr]({{< ref "/f39/language/sr.md" >}}) | 1892 | 1900 | 99.6 | /mnt/stockage/packages/f39/mpop/po/sr.po | 
- | [sv]({{< ref "/f39/language/sv.md" >}}) | 1892 | 1900 | 99.6 | /mnt/stockage/packages/f39/mpop/po/sv.po | 
- | [uk]({{< ref "/f39/language/uk.md" >}}) | 1892 | 1900 | 99.6 | /mnt/stockage/packages/f39/mpop/po/uk.po | 
- | [pt_BR]({{< ref "/f39/language/pt_BR.md" >}}) | 1852 | 1900 | 97.5 | /mnt/stockage/packages/f39/mpop/po/pt_BR.po | 
- | [ta]({{< ref "/f39/language/ta.md" >}}) | 484 | 1900 | 25.5 | /mnt/stockage/packages/f39/mpop/po/ta.po | 
+ | [de](/f39/language/de) | 1892 | 1900 | 99.6 | /mnt/stockage/packages/f39/mpop/po/de.po | 
+ | [eo](/f39/language/eo) | 1892 | 1900 | 99.6 | /mnt/stockage/packages/f39/mpop/po/eo.po | 
+ | [es](/f39/language/es) | 1892 | 1900 | 99.6 | /mnt/stockage/packages/f39/mpop/po/es.po | 
+ | [fr](/f39/language/fr) | 1892 | 1900 | 99.6 | /mnt/stockage/packages/f39/mpop/po/fr.po | 
+ | [ro](/f39/language/ro) | 1892 | 1900 | 99.6 | /mnt/stockage/packages/f39/mpop/po/ro.po | 
+ | [ru](/f39/language/ru) | 1892 | 1900 | 99.6 | /mnt/stockage/packages/f39/mpop/po/ru.po | 
+ | [sr](/f39/language/sr) | 1892 | 1900 | 99.6 | /mnt/stockage/packages/f39/mpop/po/sr.po | 
+ | [sv](/f39/language/sv) | 1892 | 1900 | 99.6 | /mnt/stockage/packages/f39/mpop/po/sv.po | 
+ | [uk](/f39/language/uk) | 1892 | 1900 | 99.6 | /mnt/stockage/packages/f39/mpop/po/uk.po | 
+ | [pt_BR](/f39/language/pt_BR) | 1852 | 1900 | 97.5 | /mnt/stockage/packages/f39/mpop/po/pt_BR.po | 
+ | [ta](/f39/language/ta) | 484 | 1900 | 25.5 | /mnt/stockage/packages/f39/mpop/po/ta.po | 
 {.sortable}
 
 

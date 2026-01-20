@@ -18,11 +18,11 @@ The package spacewalk-backend (version 1.2.74):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [sv]({{< ref "/f14/language/sv.md" >}}) | 1902 | 1912 | 99.5 | /mnt/stockage/packages/f14/spacewalk-backend/po/sv.po | 
- | [de]({{< ref "/f14/language/de.md" >}}) | 710 | 1912 | 37.1 | /mnt/stockage/packages/f14/spacewalk-backend/po/de.po | 
- | [ru]({{< ref "/f14/language/ru.md" >}}) | 171 | 1912 | 8.9 | /mnt/stockage/packages/f14/spacewalk-backend/po/ru.po | 
- | [en]({{< ref "/f14/language/en.md" >}}) | 15 | 1912 | 0.8 | /mnt/stockage/packages/f14/spacewalk-backend/po/en.po | 
- | [ro]({{< ref "/f14/language/ro.md" >}}) | 5 | 1912 | 0.3 | /mnt/stockage/packages/f14/spacewalk-backend/po/ro.po | 
+ | [sv](/f14/language/sv) | 1902 | 1912 | 99.5 | /mnt/stockage/packages/f14/spacewalk-backend/po/sv.po | 
+ | [de](/f14/language/de) | 710 | 1912 | 37.1 | /mnt/stockage/packages/f14/spacewalk-backend/po/de.po | 
+ | [ru](/f14/language/ru) | 171 | 1912 | 8.9 | /mnt/stockage/packages/f14/spacewalk-backend/po/ru.po | 
+ | [en](/f14/language/en) | 15 | 1912 | 0.8 | /mnt/stockage/packages/f14/spacewalk-backend/po/en.po | 
+ | [ro](/f14/language/ro) | 5 | 1912 | 0.3 | /mnt/stockage/packages/f14/spacewalk-backend/po/ro.po | 
 {.sortable}
 
 

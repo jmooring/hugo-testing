@@ -18,8 +18,8 @@ The package g2ipmsg (version 0.9.6):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [zh_Hans]({{< ref "/f10/language/zh_Hans.md" >}}) | 2153 | 2153 | 100.0 | /mnt/stockage/packages/f10/g2ipmsg/po/zh_CN.po | 
- | [ja]({{< ref "/f10/language/ja.md" >}}) | 2165 | 2169 | 99.8 | /mnt/stockage/packages/f10/g2ipmsg/po/ja.po | 
+ | [zh_Hans](/f10/language/zh_Hans) | 2153 | 2153 | 100.0 | /mnt/stockage/packages/f10/g2ipmsg/po/zh_CN.po | 
+ | [ja](/f10/language/ja) | 2165 | 2169 | 99.8 | /mnt/stockage/packages/f10/g2ipmsg/po/ja.po | 
 {.sortable}
 
 

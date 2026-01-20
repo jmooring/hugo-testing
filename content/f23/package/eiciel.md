@@ -18,25 +18,25 @@ The package eiciel (version 0.9.11):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f23/language/ca.md" >}}) | 168 | 168 | 100.0 | /mnt/stockage/packages/f23/eiciel/po/ca.po | 
- | [es]({{< ref "/f23/language/es.md" >}}) | 168 | 168 | 100.0 | /mnt/stockage/packages/f23/eiciel/po/es.po | 
- | [ar]({{< ref "/f23/language/ar.md" >}}) | 146 | 168 | 86.9 | /mnt/stockage/packages/f23/eiciel/po/ar.po | 
- | [cs]({{< ref "/f23/language/cs.md" >}}) | 146 | 168 | 86.9 | /mnt/stockage/packages/f23/eiciel/po/cs.po | 
- | [de]({{< ref "/f23/language/de.md" >}}) | 146 | 168 | 86.9 | /mnt/stockage/packages/f23/eiciel/po/de.po | 
- | [fr]({{< ref "/f23/language/fr.md" >}}) | 146 | 168 | 86.9 | /mnt/stockage/packages/f23/eiciel/po/fr.po | 
- | [hu]({{< ref "/f23/language/hu.md" >}}) | 146 | 168 | 86.9 | /mnt/stockage/packages/f23/eiciel/po/hu.po | 
- | [it]({{< ref "/f23/language/it.md" >}}) | 146 | 168 | 86.9 | /mnt/stockage/packages/f23/eiciel/po/it.po | 
- | [ja]({{< ref "/f23/language/ja.md" >}}) | 146 | 168 | 86.9 | /mnt/stockage/packages/f23/eiciel/po/ja.po | 
- | [ko]({{< ref "/f23/language/ko.md" >}}) | 146 | 168 | 86.9 | /mnt/stockage/packages/f23/eiciel/po/ko.po | 
- | [nl]({{< ref "/f23/language/nl.md" >}}) | 146 | 168 | 86.9 | /mnt/stockage/packages/f23/eiciel/po/nl.po | 
- | [pl]({{< ref "/f23/language/pl.md" >}}) | 146 | 168 | 86.9 | /mnt/stockage/packages/f23/eiciel/po/pl.po | 
- | [pt_BR]({{< ref "/f23/language/pt_BR.md" >}}) | 146 | 168 | 86.9 | /mnt/stockage/packages/f23/eiciel/po/pt_BR.po | 
- | [ru]({{< ref "/f23/language/ru.md" >}}) | 146 | 168 | 86.9 | /mnt/stockage/packages/f23/eiciel/po/ru.po | 
- | [sv]({{< ref "/f23/language/sv.md" >}}) | 146 | 168 | 86.9 | /mnt/stockage/packages/f23/eiciel/po/sv.po | 
- | [zh_Hans]({{< ref "/f23/language/zh_Hans.md" >}}) | 146 | 168 | 86.9 | /mnt/stockage/packages/f23/eiciel/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f23/language/zh_Hant.md" >}}) | 146 | 168 | 86.9 | /mnt/stockage/packages/f23/eiciel/po/zh_TW.po | 
- | [en_GB]({{< ref "/f23/language/en_GB.md" >}}) | 4 | 168 | 2.4 | /mnt/stockage/packages/f23/eiciel/po/en_GB.po | 
- | [en_US]({{< ref "/f23/language/en_US.md" >}}) | 3 | 168 | 1.8 | /mnt/stockage/packages/f23/eiciel/po/en_US.po | 
+ | [ca](/f23/language/ca) | 168 | 168 | 100.0 | /mnt/stockage/packages/f23/eiciel/po/ca.po | 
+ | [es](/f23/language/es) | 168 | 168 | 100.0 | /mnt/stockage/packages/f23/eiciel/po/es.po | 
+ | [ar](/f23/language/ar) | 146 | 168 | 86.9 | /mnt/stockage/packages/f23/eiciel/po/ar.po | 
+ | [cs](/f23/language/cs) | 146 | 168 | 86.9 | /mnt/stockage/packages/f23/eiciel/po/cs.po | 
+ | [de](/f23/language/de) | 146 | 168 | 86.9 | /mnt/stockage/packages/f23/eiciel/po/de.po | 
+ | [fr](/f23/language/fr) | 146 | 168 | 86.9 | /mnt/stockage/packages/f23/eiciel/po/fr.po | 
+ | [hu](/f23/language/hu) | 146 | 168 | 86.9 | /mnt/stockage/packages/f23/eiciel/po/hu.po | 
+ | [it](/f23/language/it) | 146 | 168 | 86.9 | /mnt/stockage/packages/f23/eiciel/po/it.po | 
+ | [ja](/f23/language/ja) | 146 | 168 | 86.9 | /mnt/stockage/packages/f23/eiciel/po/ja.po | 
+ | [ko](/f23/language/ko) | 146 | 168 | 86.9 | /mnt/stockage/packages/f23/eiciel/po/ko.po | 
+ | [nl](/f23/language/nl) | 146 | 168 | 86.9 | /mnt/stockage/packages/f23/eiciel/po/nl.po | 
+ | [pl](/f23/language/pl) | 146 | 168 | 86.9 | /mnt/stockage/packages/f23/eiciel/po/pl.po | 
+ | [pt_BR](/f23/language/pt_BR) | 146 | 168 | 86.9 | /mnt/stockage/packages/f23/eiciel/po/pt_BR.po | 
+ | [ru](/f23/language/ru) | 146 | 168 | 86.9 | /mnt/stockage/packages/f23/eiciel/po/ru.po | 
+ | [sv](/f23/language/sv) | 146 | 168 | 86.9 | /mnt/stockage/packages/f23/eiciel/po/sv.po | 
+ | [zh_Hans](/f23/language/zh_Hans) | 146 | 168 | 86.9 | /mnt/stockage/packages/f23/eiciel/po/zh_CN.po | 
+ | [zh_Hant](/f23/language/zh_Hant) | 146 | 168 | 86.9 | /mnt/stockage/packages/f23/eiciel/po/zh_TW.po | 
+ | [en_GB](/f23/language/en_GB) | 4 | 168 | 2.4 | /mnt/stockage/packages/f23/eiciel/po/en_GB.po | 
+ | [en_US](/f23/language/en_US) | 3 | 168 | 1.8 | /mnt/stockage/packages/f23/eiciel/po/en_US.po | 
 {.sortable}
 
 

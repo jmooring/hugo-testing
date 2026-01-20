@@ -18,8 +18,8 @@ The package python-openstackclient (version 2.2.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f25/language/de.md" >}}) | 936 | 936 | 100.0 | /mnt/stockage/packages/f25/python-openstackclient/openstackclient/locale/de/LC_MESSAGES/openstackclient.po | 
- | [zh_Hant]({{< ref "/f25/language/zh_Hant.md" >}}) | 742 | 742 | 100.0 | /mnt/stockage/packages/f25/python-openstackclient/openstackclient/locale/zh_TW/LC_MESSAGES/openstackclient.po | 
+ | [de](/f25/language/de) | 936 | 936 | 100.0 | /mnt/stockage/packages/f25/python-openstackclient/openstackclient/locale/de/LC_MESSAGES/openstackclient.po | 
+ | [zh_Hant](/f25/language/zh_Hant) | 742 | 742 | 100.0 | /mnt/stockage/packages/f25/python-openstackclient/openstackclient/locale/zh_TW/LC_MESSAGES/openstackclient.po | 
 {.sortable}
 
 

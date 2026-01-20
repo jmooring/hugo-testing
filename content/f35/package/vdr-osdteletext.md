@@ -18,16 +18,16 @@ The package vdr-osdteletext (version 2.3.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f35/language/de.md" >}}) | 165 | 183 | 90.2 | /mnt/stockage/packages/f35/vdr-osdteletext/po/de_DE.po | 
- | [fi]({{< ref "/f35/language/fi.md" >}}) | 55 | 183 | 30.1 | /mnt/stockage/packages/f35/vdr-osdteletext/po/fi_FI.po | 
- | [ru]({{< ref "/f35/language/ru.md" >}}) | 55 | 183 | 30.1 | /mnt/stockage/packages/f35/vdr-osdteletext/po/ru_RU.po | 
- | [it]({{< ref "/f35/language/it.md" >}}) | 34 | 183 | 18.6 | /mnt/stockage/packages/f35/vdr-osdteletext/po/it_IT.po | 
- | [sk]({{< ref "/f35/language/sk.md" >}}) | 34 | 183 | 18.6 | /mnt/stockage/packages/f35/vdr-osdteletext/po/sk_SK.po | 
- | [fr]({{< ref "/f35/language/fr.md" >}}) | 31 | 183 | 16.9 | /mnt/stockage/packages/f35/vdr-osdteletext/po/fr_FR.po | 
- | [pt]({{< ref "/f35/language/pt.md" >}}) | 31 | 183 | 16.9 | /mnt/stockage/packages/f35/vdr-osdteletext/po/pt_PT.po | 
- | [uk]({{< ref "/f35/language/uk.md" >}}) | 31 | 183 | 16.9 | /mnt/stockage/packages/f35/vdr-osdteletext/po/uk_UA.po | 
- | [ca]({{< ref "/f35/language/ca.md" >}}) | 29 | 183 | 15.8 | /mnt/stockage/packages/f35/vdr-osdteletext/po/ca_ES.po | 
- | [es]({{< ref "/f35/language/es.md" >}}) | 27 | 183 | 14.8 | /mnt/stockage/packages/f35/vdr-osdteletext/po/es_ES.po | 
+ | [de](/f35/language/de) | 165 | 183 | 90.2 | /mnt/stockage/packages/f35/vdr-osdteletext/po/de_DE.po | 
+ | [fi](/f35/language/fi) | 55 | 183 | 30.1 | /mnt/stockage/packages/f35/vdr-osdteletext/po/fi_FI.po | 
+ | [ru](/f35/language/ru) | 55 | 183 | 30.1 | /mnt/stockage/packages/f35/vdr-osdteletext/po/ru_RU.po | 
+ | [it](/f35/language/it) | 34 | 183 | 18.6 | /mnt/stockage/packages/f35/vdr-osdteletext/po/it_IT.po | 
+ | [sk](/f35/language/sk) | 34 | 183 | 18.6 | /mnt/stockage/packages/f35/vdr-osdteletext/po/sk_SK.po | 
+ | [fr](/f35/language/fr) | 31 | 183 | 16.9 | /mnt/stockage/packages/f35/vdr-osdteletext/po/fr_FR.po | 
+ | [pt](/f35/language/pt) | 31 | 183 | 16.9 | /mnt/stockage/packages/f35/vdr-osdteletext/po/pt_PT.po | 
+ | [uk](/f35/language/uk) | 31 | 183 | 16.9 | /mnt/stockage/packages/f35/vdr-osdteletext/po/uk_UA.po | 
+ | [ca](/f35/language/ca) | 29 | 183 | 15.8 | /mnt/stockage/packages/f35/vdr-osdteletext/po/ca_ES.po | 
+ | [es](/f35/language/es) | 27 | 183 | 14.8 | /mnt/stockage/packages/f35/vdr-osdteletext/po/es_ES.po | 
 {.sortable}
 
 

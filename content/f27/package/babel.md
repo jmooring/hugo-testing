@@ -18,8 +18,8 @@ The package babel (version 2.3.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f27/language/de.md" >}}) | 9 | 12 | 75.0 | /mnt/stockage/packages/f27/babel/tests/messages/data/project/i18n/de_DE/LC_MESSAGES/messages.po/mnt/stockage/packages/f27/babel/tests/messages/data/project/i18n/de/LC_MESSAGES/messages.po/mnt/stockage/packages/f27/babel/tests/messages/data/project/i18n/de_DE/LC_MESSAGES/bar.po/mnt/stockage/packages/f27/babel/tests/messages/data/project/i18n/de_DE/LC_MESSAGES/foo.po | 
- | [ru]({{< ref "/f27/language/ru.md" >}}) | 0 | 3 | 0.0 | /mnt/stockage/packages/f27/babel/tests/messages/data/project/i18n/ru_RU/LC_MESSAGES/messages.po | 
+ | [de](/f27/language/de) | 9 | 12 | 75.0 | /mnt/stockage/packages/f27/babel/tests/messages/data/project/i18n/de_DE/LC_MESSAGES/messages.po/mnt/stockage/packages/f27/babel/tests/messages/data/project/i18n/de/LC_MESSAGES/messages.po/mnt/stockage/packages/f27/babel/tests/messages/data/project/i18n/de_DE/LC_MESSAGES/bar.po/mnt/stockage/packages/f27/babel/tests/messages/data/project/i18n/de_DE/LC_MESSAGES/foo.po | 
+ | [ru](/f27/language/ru) | 0 | 3 | 0.0 | /mnt/stockage/packages/f27/babel/tests/messages/data/project/i18n/ru_RU/LC_MESSAGES/messages.po | 
 {.sortable}
 
 

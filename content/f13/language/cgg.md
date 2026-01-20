@@ -38,7 +38,7 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [pootle]({{< ref "/f13/package/pootle.md" >}}) | 2319 | 2424 | 95.7 | LANGUAGE <LL@li.org> | 
+ | [pootle](/f13/package/pootle) | 2319 | 2424 | 95.7 | LANGUAGE <LL@li.org> | 
 {.sortable}
 
 

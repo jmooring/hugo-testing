@@ -38,17 +38,17 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [blueberry]({{< ref "/f27/package/blueberry.md" >}}) | 141 | 141 | 100.0 | Scots <sco@li.org> | 
- | [gnomad2]({{< ref "/f27/package/gnomad2.md" >}}) | 697 | 697 | 100.0 | Scots <sco@li.org> | 
- | [cinnamon-translations]({{< ref "/f27/package/cinnamon-translations.md" >}}) | 1114 | 7851 | 14.2 | Scots <sco@li.org> | 
- | [pyroom]({{< ref "/f27/package/pyroom.md" >}}) | 21 | 411 | 5.1 | Scots <sco@li.org> | 
- | [mintmenu]({{< ref "/f27/package/mintmenu.md" >}}) | 15 | 862 | 1.7 | Scots <sco@li.org> | 
- | [picard]({{< ref "/f27/package/picard.md" >}}) | 29 | 1681 | 1.7 | Scots (http://www.transifex.com/projects/p/musicbrainz/language/sco/) | 
- | [supertuxkart]({{< ref "/f27/package/supertuxkart.md" >}}) | 19 | 3361 | 0.6 | Scots (http://www.transifex.com/supertuxkart/supertuxkart/language/sco/) | 
- | [bzr]({{< ref "/f27/package/bzr.md" >}}) | 23 | 33249 | 0.1 | Scots <sco@li.org> | 
- | [stellarium]({{< ref "/f27/package/stellarium.md" >}}) | 27 | 67040 | 0.0 | Scots (https://www.transifex.com/stellarium/teams/80998/sco/) | 
- | [libmatekbd]({{< ref "/f27/package/libmatekbd.md" >}}) | 0 | 251 | 0.0 | Scots (http://www.transifex.com/mate/MATE/language/sco/) | 
- | [mate-menu]({{< ref "/f27/package/mate-menu.md" >}}) | 0 | 316 | 0.0 | Scots (http://www.transifex.com/mate/MATE/language/sco/) | 
+ | [blueberry](/f27/package/blueberry) | 141 | 141 | 100.0 | Scots <sco@li.org> | 
+ | [gnomad2](/f27/package/gnomad2) | 697 | 697 | 100.0 | Scots <sco@li.org> | 
+ | [cinnamon-translations](/f27/package/cinnamon-translations) | 1114 | 7851 | 14.2 | Scots <sco@li.org> | 
+ | [pyroom](/f27/package/pyroom) | 21 | 411 | 5.1 | Scots <sco@li.org> | 
+ | [mintmenu](/f27/package/mintmenu) | 15 | 862 | 1.7 | Scots <sco@li.org> | 
+ | [picard](/f27/package/picard) | 29 | 1681 | 1.7 | Scots (http://www.transifex.com/projects/p/musicbrainz/language/sco/) | 
+ | [supertuxkart](/f27/package/supertuxkart) | 19 | 3361 | 0.6 | Scots (http://www.transifex.com/supertuxkart/supertuxkart/language/sco/) | 
+ | [bzr](/f27/package/bzr) | 23 | 33249 | 0.1 | Scots <sco@li.org> | 
+ | [stellarium](/f27/package/stellarium) | 27 | 67040 | 0.0 | Scots (https://www.transifex.com/stellarium/teams/80998/sco/) | 
+ | [libmatekbd](/f27/package/libmatekbd) | 0 | 251 | 0.0 | Scots (http://www.transifex.com/mate/MATE/language/sco/) | 
+ | [mate-menu](/f27/package/mate-menu) | 0 | 316 | 0.0 | Scots (http://www.transifex.com/mate/MATE/language/sco/) | 
 {.sortable}
 
 

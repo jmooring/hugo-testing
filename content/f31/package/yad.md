@@ -18,13 +18,13 @@ The package yad (version 0.40.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [pt_BR]({{< ref "/f31/language/pt_BR.md" >}}) | 1676 | 1676 | 100.0 | /mnt/stockage/packages/f31/yad/po/pt_BR.po | 
- | [ru]({{< ref "/f31/language/ru.md" >}}) | 1746 | 1746 | 100.0 | /mnt/stockage/packages/f31/yad/po/ru.po | 
- | [uk]({{< ref "/f31/language/uk.md" >}}) | 1746 | 1746 | 100.0 | /mnt/stockage/packages/f31/yad/po/uk.po | 
- | [sk]({{< ref "/f31/language/sk.md" >}}) | 1231 | 1329 | 92.6 | /mnt/stockage/packages/f31/yad/po/sk.po | 
- | [fr]({{< ref "/f31/language/fr.md" >}}) | 2193 | 2658 | 82.5 | /mnt/stockage/packages/f31/yad/po/it.po/mnt/stockage/packages/f31/yad/po/fr.po | 
- | [zh_Hant]({{< ref "/f31/language/zh_Hant.md" >}}) | 1081 | 1329 | 81.3 | /mnt/stockage/packages/f31/yad/po/zh_TW.po | 
- | [de]({{< ref "/f31/language/de.md" >}}) | 388 | 1329 | 29.2 | /mnt/stockage/packages/f31/yad/po/de.po | 
+ | [pt_BR](/f31/language/pt_BR) | 1676 | 1676 | 100.0 | /mnt/stockage/packages/f31/yad/po/pt_BR.po | 
+ | [ru](/f31/language/ru) | 1746 | 1746 | 100.0 | /mnt/stockage/packages/f31/yad/po/ru.po | 
+ | [uk](/f31/language/uk) | 1746 | 1746 | 100.0 | /mnt/stockage/packages/f31/yad/po/uk.po | 
+ | [sk](/f31/language/sk) | 1231 | 1329 | 92.6 | /mnt/stockage/packages/f31/yad/po/sk.po | 
+ | [fr](/f31/language/fr) | 2193 | 2658 | 82.5 | /mnt/stockage/packages/f31/yad/po/it.po/mnt/stockage/packages/f31/yad/po/fr.po | 
+ | [zh_Hant](/f31/language/zh_Hant) | 1081 | 1329 | 81.3 | /mnt/stockage/packages/f31/yad/po/zh_TW.po | 
+ | [de](/f31/language/de) | 388 | 1329 | 29.2 | /mnt/stockage/packages/f31/yad/po/de.po | 
 {.sortable}
 
 

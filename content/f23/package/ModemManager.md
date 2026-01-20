@@ -18,8 +18,8 @@ The package ModemManager (version 1.4.14):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f23/language/de.md" >}}) | 115 | 115 | 100.0 | /mnt/stockage/packages/f23/ModemManager/po/de.po | 
- | [uk]({{< ref "/f23/language/uk.md" >}}) | 115 | 115 | 100.0 | /mnt/stockage/packages/f23/ModemManager/po/uk.po | 
+ | [de](/f23/language/de) | 115 | 115 | 100.0 | /mnt/stockage/packages/f23/ModemManager/po/de.po | 
+ | [uk](/f23/language/uk) | 115 | 115 | 100.0 | /mnt/stockage/packages/f23/ModemManager/po/uk.po | 
 {.sortable}
 
 

@@ -18,42 +18,42 @@ The package bash (version 4.4.23):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [error]({{< ref "/f29/language/error.md" >}}) | 22712 | 22712 | 100.0 | /mnt/stockage/packages/f29/bash/po/en@quot.po/mnt/stockage/packages/f29/bash/po/en@boldquot.po | 
- | [bg]({{< ref "/f29/language/bg.md" >}}) | 10355 | 11356 | 91.2 | /mnt/stockage/packages/f29/bash/po/bg.po | 
- | [cs]({{< ref "/f29/language/cs.md" >}}) | 10355 | 11356 | 91.2 | /mnt/stockage/packages/f29/bash/po/cs.po | 
- | [eo]({{< ref "/f29/language/eo.md" >}}) | 10355 | 11356 | 91.2 | /mnt/stockage/packages/f29/bash/po/eo.po | 
- | [fr]({{< ref "/f29/language/fr.md" >}}) | 10355 | 11356 | 91.2 | /mnt/stockage/packages/f29/bash/po/fr.po | 
- | [hu]({{< ref "/f29/language/hu.md" >}}) | 10355 | 11356 | 91.2 | /mnt/stockage/packages/f29/bash/po/hu.po | 
- | [nb_NO]({{< ref "/f29/language/nb_NO.md" >}}) | 10355 | 11356 | 91.2 | /mnt/stockage/packages/f29/bash/po/nb.po | 
- | [pl]({{< ref "/f29/language/pl.md" >}}) | 10355 | 11356 | 91.2 | /mnt/stockage/packages/f29/bash/po/pl.po | 
- | [sr]({{< ref "/f29/language/sr.md" >}}) | 10355 | 11356 | 91.2 | /mnt/stockage/packages/f29/bash/po/sr.po | 
- | [sv]({{< ref "/f29/language/sv.md" >}}) | 10355 | 11356 | 91.2 | /mnt/stockage/packages/f29/bash/po/sv.po | 
- | [uk]({{< ref "/f29/language/uk.md" >}}) | 10355 | 11356 | 91.2 | /mnt/stockage/packages/f29/bash/po/uk.po | 
- | [vi]({{< ref "/f29/language/vi.md" >}}) | 10355 | 11356 | 91.2 | /mnt/stockage/packages/f29/bash/po/vi.po | 
- | [nl]({{< ref "/f29/language/nl.md" >}}) | 10354 | 11356 | 91.2 | /mnt/stockage/packages/f29/bash/po/nl.po | 
- | [zh_Hans]({{< ref "/f29/language/zh_Hans.md" >}}) | 10354 | 11356 | 91.2 | /mnt/stockage/packages/f29/bash/po/zh_CN.po | 
- | [pt_BR]({{< ref "/f29/language/pt_BR.md" >}}) | 10345 | 11356 | 91.1 | /mnt/stockage/packages/f29/bash/po/pt_BR.po | 
- | [id]({{< ref "/f29/language/id.md" >}}) | 6279 | 11356 | 55.3 | /mnt/stockage/packages/f29/bash/po/id.po | 
- | [ja]({{< ref "/f29/language/ja.md" >}}) | 6279 | 11356 | 55.3 | /mnt/stockage/packages/f29/bash/po/ja.po | 
- | [ru]({{< ref "/f29/language/ru.md" >}}) | 6279 | 11356 | 55.3 | /mnt/stockage/packages/f29/bash/po/ru.po | 
- | [zh_Hant]({{< ref "/f29/language/zh_Hant.md" >}}) | 6279 | 11356 | 55.3 | /mnt/stockage/packages/f29/bash/po/zh_TW.po | 
- | [ca]({{< ref "/f29/language/ca.md" >}}) | 6245 | 11356 | 55.0 | /mnt/stockage/packages/f29/bash/po/ca.po | 
- | [es]({{< ref "/f29/language/es.md" >}}) | 5891 | 11356 | 51.9 | /mnt/stockage/packages/f29/bash/po/es.po | 
- | [it]({{< ref "/f29/language/it.md" >}}) | 5891 | 11356 | 51.9 | /mnt/stockage/packages/f29/bash/po/it.po | 
- | [sk]({{< ref "/f29/language/sk.md" >}}) | 5891 | 11356 | 51.9 | /mnt/stockage/packages/f29/bash/po/sk.po | 
- | [sl]({{< ref "/f29/language/sl.md" >}}) | 5891 | 11356 | 51.9 | /mnt/stockage/packages/f29/bash/po/sl.po | 
- | [de]({{< ref "/f29/language/de.md" >}}) | 5749 | 11356 | 50.6 | /mnt/stockage/packages/f29/bash/po/de.po | 
- | [fi]({{< ref "/f29/language/fi.md" >}}) | 5120 | 11356 | 45.1 | /mnt/stockage/packages/f29/bash/po/fi.po | 
- | [da]({{< ref "/f29/language/da.md" >}}) | 4990 | 11356 | 43.9 | /mnt/stockage/packages/f29/bash/po/da.po | 
- | [tr]({{< ref "/f29/language/tr.md" >}}) | 4867 | 11356 | 42.9 | /mnt/stockage/packages/f29/bash/po/tr.po | 
- | [gl]({{< ref "/f29/language/gl.md" >}}) | 3381 | 11356 | 29.8 | /mnt/stockage/packages/f29/bash/po/gl.po | 
- | [ga]({{< ref "/f29/language/ga.md" >}}) | 3041 | 11356 | 26.8 | /mnt/stockage/packages/f29/bash/po/ga.po | 
- | [hr]({{< ref "/f29/language/hr.md" >}}) | 1823 | 11356 | 16.1 | /mnt/stockage/packages/f29/bash/po/hr.po | 
- | [el]({{< ref "/f29/language/el.md" >}}) | 1735 | 11356 | 15.3 | /mnt/stockage/packages/f29/bash/po/el.po | 
- | [lt]({{< ref "/f29/language/lt.md" >}}) | 1512 | 11356 | 13.3 | /mnt/stockage/packages/f29/bash/po/lt.po | 
- | [et]({{< ref "/f29/language/et.md" >}}) | 660 | 11356 | 5.8 | /mnt/stockage/packages/f29/bash/po/et.po | 
- | [ro]({{< ref "/f29/language/ro.md" >}}) | 431 | 11356 | 3.8 | /mnt/stockage/packages/f29/bash/po/ro.po | 
- | [af]({{< ref "/f29/language/af.md" >}}) | 45 | 11356 | 0.4 | /mnt/stockage/packages/f29/bash/po/af.po | 
+ | [error](/f29/language/error) | 22712 | 22712 | 100.0 | /mnt/stockage/packages/f29/bash/po/en@quot.po/mnt/stockage/packages/f29/bash/po/en@boldquot.po | 
+ | [bg](/f29/language/bg) | 10355 | 11356 | 91.2 | /mnt/stockage/packages/f29/bash/po/bg.po | 
+ | [cs](/f29/language/cs) | 10355 | 11356 | 91.2 | /mnt/stockage/packages/f29/bash/po/cs.po | 
+ | [eo](/f29/language/eo) | 10355 | 11356 | 91.2 | /mnt/stockage/packages/f29/bash/po/eo.po | 
+ | [fr](/f29/language/fr) | 10355 | 11356 | 91.2 | /mnt/stockage/packages/f29/bash/po/fr.po | 
+ | [hu](/f29/language/hu) | 10355 | 11356 | 91.2 | /mnt/stockage/packages/f29/bash/po/hu.po | 
+ | [nb_NO](/f29/language/nb_NO) | 10355 | 11356 | 91.2 | /mnt/stockage/packages/f29/bash/po/nb.po | 
+ | [pl](/f29/language/pl) | 10355 | 11356 | 91.2 | /mnt/stockage/packages/f29/bash/po/pl.po | 
+ | [sr](/f29/language/sr) | 10355 | 11356 | 91.2 | /mnt/stockage/packages/f29/bash/po/sr.po | 
+ | [sv](/f29/language/sv) | 10355 | 11356 | 91.2 | /mnt/stockage/packages/f29/bash/po/sv.po | 
+ | [uk](/f29/language/uk) | 10355 | 11356 | 91.2 | /mnt/stockage/packages/f29/bash/po/uk.po | 
+ | [vi](/f29/language/vi) | 10355 | 11356 | 91.2 | /mnt/stockage/packages/f29/bash/po/vi.po | 
+ | [nl](/f29/language/nl) | 10354 | 11356 | 91.2 | /mnt/stockage/packages/f29/bash/po/nl.po | 
+ | [zh_Hans](/f29/language/zh_Hans) | 10354 | 11356 | 91.2 | /mnt/stockage/packages/f29/bash/po/zh_CN.po | 
+ | [pt_BR](/f29/language/pt_BR) | 10345 | 11356 | 91.1 | /mnt/stockage/packages/f29/bash/po/pt_BR.po | 
+ | [id](/f29/language/id) | 6279 | 11356 | 55.3 | /mnt/stockage/packages/f29/bash/po/id.po | 
+ | [ja](/f29/language/ja) | 6279 | 11356 | 55.3 | /mnt/stockage/packages/f29/bash/po/ja.po | 
+ | [ru](/f29/language/ru) | 6279 | 11356 | 55.3 | /mnt/stockage/packages/f29/bash/po/ru.po | 
+ | [zh_Hant](/f29/language/zh_Hant) | 6279 | 11356 | 55.3 | /mnt/stockage/packages/f29/bash/po/zh_TW.po | 
+ | [ca](/f29/language/ca) | 6245 | 11356 | 55.0 | /mnt/stockage/packages/f29/bash/po/ca.po | 
+ | [es](/f29/language/es) | 5891 | 11356 | 51.9 | /mnt/stockage/packages/f29/bash/po/es.po | 
+ | [it](/f29/language/it) | 5891 | 11356 | 51.9 | /mnt/stockage/packages/f29/bash/po/it.po | 
+ | [sk](/f29/language/sk) | 5891 | 11356 | 51.9 | /mnt/stockage/packages/f29/bash/po/sk.po | 
+ | [sl](/f29/language/sl) | 5891 | 11356 | 51.9 | /mnt/stockage/packages/f29/bash/po/sl.po | 
+ | [de](/f29/language/de) | 5749 | 11356 | 50.6 | /mnt/stockage/packages/f29/bash/po/de.po | 
+ | [fi](/f29/language/fi) | 5120 | 11356 | 45.1 | /mnt/stockage/packages/f29/bash/po/fi.po | 
+ | [da](/f29/language/da) | 4990 | 11356 | 43.9 | /mnt/stockage/packages/f29/bash/po/da.po | 
+ | [tr](/f29/language/tr) | 4867 | 11356 | 42.9 | /mnt/stockage/packages/f29/bash/po/tr.po | 
+ | [gl](/f29/language/gl) | 3381 | 11356 | 29.8 | /mnt/stockage/packages/f29/bash/po/gl.po | 
+ | [ga](/f29/language/ga) | 3041 | 11356 | 26.8 | /mnt/stockage/packages/f29/bash/po/ga.po | 
+ | [hr](/f29/language/hr) | 1823 | 11356 | 16.1 | /mnt/stockage/packages/f29/bash/po/hr.po | 
+ | [el](/f29/language/el) | 1735 | 11356 | 15.3 | /mnt/stockage/packages/f29/bash/po/el.po | 
+ | [lt](/f29/language/lt) | 1512 | 11356 | 13.3 | /mnt/stockage/packages/f29/bash/po/lt.po | 
+ | [et](/f29/language/et) | 660 | 11356 | 5.8 | /mnt/stockage/packages/f29/bash/po/et.po | 
+ | [ro](/f29/language/ro) | 431 | 11356 | 3.8 | /mnt/stockage/packages/f29/bash/po/ro.po | 
+ | [af](/f29/language/af) | 45 | 11356 | 0.4 | /mnt/stockage/packages/f29/bash/po/af.po | 
 {.sortable}
 
 

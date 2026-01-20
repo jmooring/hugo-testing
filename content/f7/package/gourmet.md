@@ -18,50 +18,50 @@ The package gourmet (version 0.13.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [el]({{< ref "/f7/language/el.md" >}}) | 3276 | 3526 | 92.9 | /mnt/stockage/packages/f7/gourmet/i18n/el.po | 
- | [it]({{< ref "/f7/language/it.md" >}}) | 3253 | 3526 | 92.3 | /mnt/stockage/packages/f7/gourmet/i18n/it.po | 
- | [zh_Hant_HK]({{< ref "/f7/language/zh_Hant_HK.md" >}}) | 3197 | 3526 | 90.7 | /mnt/stockage/packages/f7/gourmet/i18n/zh_HK.po | 
- | [hu]({{< ref "/f7/language/hu.md" >}}) | 3142 | 3526 | 89.1 | /mnt/stockage/packages/f7/gourmet/i18n/hu.po | 
- | [de]({{< ref "/f7/language/de.md" >}}) | 3069 | 3526 | 87.0 | /mnt/stockage/packages/f7/gourmet/i18n/de_DE.po | 
- | [sl]({{< ref "/f7/language/sl.md" >}}) | 2985 | 3526 | 84.7 | /mnt/stockage/packages/f7/gourmet/i18n/sl.po | 
- | [pl]({{< ref "/f7/language/pl.md" >}}) | 2912 | 3526 | 82.6 | /mnt/stockage/packages/f7/gourmet/i18n/pl.po | 
- | [da]({{< ref "/f7/language/da.md" >}}) | 2547 | 3526 | 72.2 | /mnt/stockage/packages/f7/gourmet/i18n/da.po | 
- | [fr]({{< ref "/f7/language/fr.md" >}}) | 2540 | 3526 | 72.0 | /mnt/stockage/packages/f7/gourmet/i18n/fr.po | 
- | [pt]({{< ref "/f7/language/pt.md" >}}) | 2536 | 3526 | 71.9 | /mnt/stockage/packages/f7/gourmet/i18n/pt.po | 
- | [pt_BR]({{< ref "/f7/language/pt_BR.md" >}}) | 2317 | 3526 | 65.7 | /mnt/stockage/packages/f7/gourmet/i18n/pt_BR.po | 
- | [sr]({{< ref "/f7/language/sr.md" >}}) | 2317 | 3526 | 65.7 | /mnt/stockage/packages/f7/gourmet/i18n/sr.po | 
- | [uk]({{< ref "/f7/language/uk.md" >}}) | 2317 | 3526 | 65.7 | /mnt/stockage/packages/f7/gourmet/i18n/uk.po | 
- | [sk]({{< ref "/f7/language/sk.md" >}}) | 2050 | 3526 | 58.1 | /mnt/stockage/packages/f7/gourmet/i18n/sk.po | 
- | [nl_BE]({{< ref "/f7/language/nl_BE.md" >}}) | 1817 | 3526 | 51.5 | /mnt/stockage/packages/f7/gourmet/i18n/nl_BE.po | 
- | [es]({{< ref "/f7/language/es.md" >}}) | 3366 | 7052 | 47.7 | /mnt/stockage/packages/f7/gourmet/i18n/es_ES.po/mnt/stockage/packages/f7/gourmet/i18n/es.po | 
- | [cs]({{< ref "/f7/language/cs.md" >}}) | 1542 | 3513 | 43.9 | /mnt/stockage/packages/f7/gourmet/i18n/cs.po | 
- | [de_AT]({{< ref "/f7/language/de_AT.md" >}}) | 1448 | 3526 | 41.1 | /mnt/stockage/packages/f7/gourmet/i18n/de_AT.po | 
- | [fi]({{< ref "/f7/language/fi.md" >}}) | 1360 | 3526 | 38.6 | /mnt/stockage/packages/f7/gourmet/i18n/fi.po | 
- | [tr]({{< ref "/f7/language/tr.md" >}}) | 1334 | 3526 | 37.8 | /mnt/stockage/packages/f7/gourmet/i18n/tr.po | 
- | [gl]({{< ref "/f7/language/gl.md" >}}) | 1160 | 3526 | 32.9 | /mnt/stockage/packages/f7/gourmet/i18n/gl.po | 
- | [sv]({{< ref "/f7/language/sv.md" >}}) | 2176 | 7052 | 30.9 | /mnt/stockage/packages/f7/gourmet/i18n/sv_SE.po/mnt/stockage/packages/f7/gourmet/i18n/sv.po | 
- | [nl]({{< ref "/f7/language/nl.md" >}}) | 1977 | 7052 | 28.0 | /mnt/stockage/packages/f7/gourmet/i18n/nl_NL.po/mnt/stockage/packages/f7/gourmet/i18n/nl.po | 
- | [he]({{< ref "/f7/language/he.md" >}}) | 733 | 3526 | 20.8 | /mnt/stockage/packages/f7/gourmet/i18n/he.po | 
- | [ru]({{< ref "/f7/language/ru.md" >}}) | 715 | 3526 | 20.3 | /mnt/stockage/packages/f7/gourmet/i18n/ru.po | 
- | [zh_Hans]({{< ref "/f7/language/zh_Hans.md" >}}) | 1315 | 7052 | 18.6 | /mnt/stockage/packages/f7/gourmet/i18n/zh_CN.po/mnt/stockage/packages/f7/gourmet/i18n/zh.po | 
- | [ca]({{< ref "/f7/language/ca.md" >}}) | 655 | 3526 | 18.6 | /mnt/stockage/packages/f7/gourmet/i18n/ca.po | 
- | [nb_NO]({{< ref "/f7/language/nb_NO.md" >}}) | 646 | 3513 | 18.4 | /mnt/stockage/packages/f7/gourmet/i18n/nb.po | 
- | [bg]({{< ref "/f7/language/bg.md" >}}) | 542 | 3526 | 15.4 | /mnt/stockage/packages/f7/gourmet/i18n/bg.po | 
- | [th]({{< ref "/f7/language/th.md" >}}) | 321 | 3526 | 9.1 | /mnt/stockage/packages/f7/gourmet/i18n/th.po | 
- | [ja]({{< ref "/f7/language/ja.md" >}}) | 297 | 3526 | 8.4 | /mnt/stockage/packages/f7/gourmet/i18n/ja.po | 
- | [lt]({{< ref "/f7/language/lt.md" >}}) | 119 | 3526 | 3.4 | /mnt/stockage/packages/f7/gourmet/i18n/lt.po | 
- | [en_AU]({{< ref "/f7/language/en_AU.md" >}}) | 110 | 3526 | 3.1 | /mnt/stockage/packages/f7/gourmet/i18n/en_AU.po | 
- | [pt_PT]({{< ref "/f7/language/pt_PT.md" >}}) | 55 | 3526 | 1.6 | /mnt/stockage/packages/f7/gourmet/i18n/pt_PT.po | 
- | [fa]({{< ref "/f7/language/fa.md" >}}) | 32 | 3526 | 0.9 | /mnt/stockage/packages/f7/gourmet/i18n/fa.po | 
- | [is]({{< ref "/f7/language/is.md" >}}) | 27 | 3526 | 0.8 | /mnt/stockage/packages/f7/gourmet/i18n/is.po | 
- | [ar]({{< ref "/f7/language/ar.md" >}}) | 12 | 3526 | 0.3 | /mnt/stockage/packages/f7/gourmet/i18n/ar.po | 
- | [zh_Hant]({{< ref "/f7/language/zh_Hant.md" >}}) | 2 | 3526 | 0.1 | /mnt/stockage/packages/f7/gourmet/i18n/zh_TW.po | 
- | [en]({{< ref "/f7/language/en.md" >}}) | 0 | 3526 | 0.0 | /mnt/stockage/packages/f7/gourmet/i18n/en.po | 
- | [en_CA]({{< ref "/f7/language/en_CA.md" >}}) | 0 | 3526 | 0.0 | /mnt/stockage/packages/f7/gourmet/i18n/en_CA.po | 
- | [eo]({{< ref "/f7/language/eo.md" >}}) | 0 | 3526 | 0.0 | /mnt/stockage/packages/f7/gourmet/i18n/eo.po | 
- | [et]({{< ref "/f7/language/et.md" >}}) | 0 | 3526 | 0.0 | /mnt/stockage/packages/f7/gourmet/i18n/et.po | 
- | [lv]({{< ref "/f7/language/lv.md" >}}) | 0 | 3526 | 0.0 | /mnt/stockage/packages/f7/gourmet/i18n/lv.po | 
- | [yi]({{< ref "/f7/language/yi.md" >}}) | 0 | 3526 | 0.0 | /mnt/stockage/packages/f7/gourmet/i18n/yi.po | 
+ | [el](/f7/language/el) | 3276 | 3526 | 92.9 | /mnt/stockage/packages/f7/gourmet/i18n/el.po | 
+ | [it](/f7/language/it) | 3253 | 3526 | 92.3 | /mnt/stockage/packages/f7/gourmet/i18n/it.po | 
+ | [zh_Hant_HK](/f7/language/zh_Hant_HK) | 3197 | 3526 | 90.7 | /mnt/stockage/packages/f7/gourmet/i18n/zh_HK.po | 
+ | [hu](/f7/language/hu) | 3142 | 3526 | 89.1 | /mnt/stockage/packages/f7/gourmet/i18n/hu.po | 
+ | [de](/f7/language/de) | 3069 | 3526 | 87.0 | /mnt/stockage/packages/f7/gourmet/i18n/de_DE.po | 
+ | [sl](/f7/language/sl) | 2985 | 3526 | 84.7 | /mnt/stockage/packages/f7/gourmet/i18n/sl.po | 
+ | [pl](/f7/language/pl) | 2912 | 3526 | 82.6 | /mnt/stockage/packages/f7/gourmet/i18n/pl.po | 
+ | [da](/f7/language/da) | 2547 | 3526 | 72.2 | /mnt/stockage/packages/f7/gourmet/i18n/da.po | 
+ | [fr](/f7/language/fr) | 2540 | 3526 | 72.0 | /mnt/stockage/packages/f7/gourmet/i18n/fr.po | 
+ | [pt](/f7/language/pt) | 2536 | 3526 | 71.9 | /mnt/stockage/packages/f7/gourmet/i18n/pt.po | 
+ | [pt_BR](/f7/language/pt_BR) | 2317 | 3526 | 65.7 | /mnt/stockage/packages/f7/gourmet/i18n/pt_BR.po | 
+ | [sr](/f7/language/sr) | 2317 | 3526 | 65.7 | /mnt/stockage/packages/f7/gourmet/i18n/sr.po | 
+ | [uk](/f7/language/uk) | 2317 | 3526 | 65.7 | /mnt/stockage/packages/f7/gourmet/i18n/uk.po | 
+ | [sk](/f7/language/sk) | 2050 | 3526 | 58.1 | /mnt/stockage/packages/f7/gourmet/i18n/sk.po | 
+ | [nl_BE](/f7/language/nl_BE) | 1817 | 3526 | 51.5 | /mnt/stockage/packages/f7/gourmet/i18n/nl_BE.po | 
+ | [es](/f7/language/es) | 3366 | 7052 | 47.7 | /mnt/stockage/packages/f7/gourmet/i18n/es_ES.po/mnt/stockage/packages/f7/gourmet/i18n/es.po | 
+ | [cs](/f7/language/cs) | 1542 | 3513 | 43.9 | /mnt/stockage/packages/f7/gourmet/i18n/cs.po | 
+ | [de_AT](/f7/language/de_AT) | 1448 | 3526 | 41.1 | /mnt/stockage/packages/f7/gourmet/i18n/de_AT.po | 
+ | [fi](/f7/language/fi) | 1360 | 3526 | 38.6 | /mnt/stockage/packages/f7/gourmet/i18n/fi.po | 
+ | [tr](/f7/language/tr) | 1334 | 3526 | 37.8 | /mnt/stockage/packages/f7/gourmet/i18n/tr.po | 
+ | [gl](/f7/language/gl) | 1160 | 3526 | 32.9 | /mnt/stockage/packages/f7/gourmet/i18n/gl.po | 
+ | [sv](/f7/language/sv) | 2176 | 7052 | 30.9 | /mnt/stockage/packages/f7/gourmet/i18n/sv_SE.po/mnt/stockage/packages/f7/gourmet/i18n/sv.po | 
+ | [nl](/f7/language/nl) | 1977 | 7052 | 28.0 | /mnt/stockage/packages/f7/gourmet/i18n/nl_NL.po/mnt/stockage/packages/f7/gourmet/i18n/nl.po | 
+ | [he](/f7/language/he) | 733 | 3526 | 20.8 | /mnt/stockage/packages/f7/gourmet/i18n/he.po | 
+ | [ru](/f7/language/ru) | 715 | 3526 | 20.3 | /mnt/stockage/packages/f7/gourmet/i18n/ru.po | 
+ | [zh_Hans](/f7/language/zh_Hans) | 1315 | 7052 | 18.6 | /mnt/stockage/packages/f7/gourmet/i18n/zh_CN.po/mnt/stockage/packages/f7/gourmet/i18n/zh.po | 
+ | [ca](/f7/language/ca) | 655 | 3526 | 18.6 | /mnt/stockage/packages/f7/gourmet/i18n/ca.po | 
+ | [nb_NO](/f7/language/nb_NO) | 646 | 3513 | 18.4 | /mnt/stockage/packages/f7/gourmet/i18n/nb.po | 
+ | [bg](/f7/language/bg) | 542 | 3526 | 15.4 | /mnt/stockage/packages/f7/gourmet/i18n/bg.po | 
+ | [th](/f7/language/th) | 321 | 3526 | 9.1 | /mnt/stockage/packages/f7/gourmet/i18n/th.po | 
+ | [ja](/f7/language/ja) | 297 | 3526 | 8.4 | /mnt/stockage/packages/f7/gourmet/i18n/ja.po | 
+ | [lt](/f7/language/lt) | 119 | 3526 | 3.4 | /mnt/stockage/packages/f7/gourmet/i18n/lt.po | 
+ | [en_AU](/f7/language/en_AU) | 110 | 3526 | 3.1 | /mnt/stockage/packages/f7/gourmet/i18n/en_AU.po | 
+ | [pt_PT](/f7/language/pt_PT) | 55 | 3526 | 1.6 | /mnt/stockage/packages/f7/gourmet/i18n/pt_PT.po | 
+ | [fa](/f7/language/fa) | 32 | 3526 | 0.9 | /mnt/stockage/packages/f7/gourmet/i18n/fa.po | 
+ | [is](/f7/language/is) | 27 | 3526 | 0.8 | /mnt/stockage/packages/f7/gourmet/i18n/is.po | 
+ | [ar](/f7/language/ar) | 12 | 3526 | 0.3 | /mnt/stockage/packages/f7/gourmet/i18n/ar.po | 
+ | [zh_Hant](/f7/language/zh_Hant) | 2 | 3526 | 0.1 | /mnt/stockage/packages/f7/gourmet/i18n/zh_TW.po | 
+ | [en](/f7/language/en) | 0 | 3526 | 0.0 | /mnt/stockage/packages/f7/gourmet/i18n/en.po | 
+ | [en_CA](/f7/language/en_CA) | 0 | 3526 | 0.0 | /mnt/stockage/packages/f7/gourmet/i18n/en_CA.po | 
+ | [eo](/f7/language/eo) | 0 | 3526 | 0.0 | /mnt/stockage/packages/f7/gourmet/i18n/eo.po | 
+ | [et](/f7/language/et) | 0 | 3526 | 0.0 | /mnt/stockage/packages/f7/gourmet/i18n/et.po | 
+ | [lv](/f7/language/lv) | 0 | 3526 | 0.0 | /mnt/stockage/packages/f7/gourmet/i18n/lv.po | 
+ | [yi](/f7/language/yi) | 0 | 3526 | 0.0 | /mnt/stockage/packages/f7/gourmet/i18n/yi.po | 
 {.sortable}
 
 

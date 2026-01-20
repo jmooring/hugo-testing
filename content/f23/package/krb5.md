@@ -18,7 +18,7 @@ The package krb5 (version 1.14.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [en_US]({{< ref "/f23/language/en_US.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f23/krb5/src/po/en_US.po | 
+ | [en_US](/f23/language/en_US) | 0 | 0 | 0.0 | /mnt/stockage/packages/f23/krb5/src/po/en_US.po | 
 {.sortable}
 
 

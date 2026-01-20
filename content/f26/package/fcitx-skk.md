@@ -18,11 +18,11 @@ The package fcitx-skk (version 0.1.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [zh_Hans]({{< ref "/f26/language/zh_Hans.md" >}}) | 58 | 70 | 82.9 | /mnt/stockage/packages/f26/fcitx-skk/po/zh_CN.po | 
- | [ja]({{< ref "/f26/language/ja.md" >}}) | 55 | 70 | 78.6 | /mnt/stockage/packages/f26/fcitx-skk/po/ja.po | 
- | [de]({{< ref "/f26/language/de.md" >}}) | 6 | 70 | 8.6 | /mnt/stockage/packages/f26/fcitx-skk/po/de.po | 
- | [vi]({{< ref "/f26/language/vi.md" >}}) | 6 | 70 | 8.6 | /mnt/stockage/packages/f26/fcitx-skk/po/vi.po | 
- | [zh_Hant]({{< ref "/f26/language/zh_Hant.md" >}}) | 6 | 70 | 8.6 | /mnt/stockage/packages/f26/fcitx-skk/po/zh_TW.po | 
+ | [zh_Hans](/f26/language/zh_Hans) | 58 | 70 | 82.9 | /mnt/stockage/packages/f26/fcitx-skk/po/zh_CN.po | 
+ | [ja](/f26/language/ja) | 55 | 70 | 78.6 | /mnt/stockage/packages/f26/fcitx-skk/po/ja.po | 
+ | [de](/f26/language/de) | 6 | 70 | 8.6 | /mnt/stockage/packages/f26/fcitx-skk/po/de.po | 
+ | [vi](/f26/language/vi) | 6 | 70 | 8.6 | /mnt/stockage/packages/f26/fcitx-skk/po/vi.po | 
+ | [zh_Hant](/f26/language/zh_Hant) | 6 | 70 | 8.6 | /mnt/stockage/packages/f26/fcitx-skk/po/zh_TW.po | 
 {.sortable}
 
 

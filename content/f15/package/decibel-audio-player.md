@@ -18,40 +18,40 @@ The package decibel-audio-player (version 1.05):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f15/language/fr.md" >}}) | 1494 | 1494 | 100.0 | /mnt/stockage/packages/f15/decibel-audio-player/decibel-audio-player-1.05/po/fr.po | 
- | [de]({{< ref "/f15/language/de.md" >}}) | 1401 | 1494 | 93.8 | /mnt/stockage/packages/f15/decibel-audio-player/decibel-audio-player-1.05/po/de.po | 
- | [el]({{< ref "/f15/language/el.md" >}}) | 1401 | 1494 | 93.8 | /mnt/stockage/packages/f15/decibel-audio-player/decibel-audio-player-1.05/po/el.po | 
- | [es]({{< ref "/f15/language/es.md" >}}) | 1401 | 1494 | 93.8 | /mnt/stockage/packages/f15/decibel-audio-player/decibel-audio-player-1.05/po/es.po | 
- | [he]({{< ref "/f15/language/he.md" >}}) | 1401 | 1494 | 93.8 | /mnt/stockage/packages/f15/decibel-audio-player/decibel-audio-player-1.05/po/he.po | 
- | [hu]({{< ref "/f15/language/hu.md" >}}) | 1401 | 1494 | 93.8 | /mnt/stockage/packages/f15/decibel-audio-player/decibel-audio-player-1.05/po/hu.po | 
- | [nl]({{< ref "/f15/language/nl.md" >}}) | 1401 | 1494 | 93.8 | /mnt/stockage/packages/f15/decibel-audio-player/decibel-audio-player-1.05/po/nl.po | 
- | [pt_BR]({{< ref "/f15/language/pt_BR.md" >}}) | 1401 | 1494 | 93.8 | /mnt/stockage/packages/f15/decibel-audio-player/decibel-audio-player-1.05/po/pt_BR.po | 
- | [ru]({{< ref "/f15/language/ru.md" >}}) | 1401 | 1494 | 93.8 | /mnt/stockage/packages/f15/decibel-audio-player/decibel-audio-player-1.05/po/ru.po | 
- | [sv]({{< ref "/f15/language/sv.md" >}}) | 1401 | 1494 | 93.8 | /mnt/stockage/packages/f15/decibel-audio-player/decibel-audio-player-1.05/po/sv.po | 
- | [pl]({{< ref "/f15/language/pl.md" >}}) | 1358 | 1494 | 90.9 | /mnt/stockage/packages/f15/decibel-audio-player/decibel-audio-player-1.05/po/pl.po | 
- | [nn]({{< ref "/f15/language/nn.md" >}}) | 1183 | 1494 | 79.2 | /mnt/stockage/packages/f15/decibel-audio-player/decibel-audio-player-1.05/po/nn.po | 
- | [zh_Hans]({{< ref "/f15/language/zh_Hans.md" >}}) | 1169 | 1494 | 78.2 | /mnt/stockage/packages/f15/decibel-audio-player/decibel-audio-player-1.05/po/zh_CN.po | 
- | [ro]({{< ref "/f15/language/ro.md" >}}) | 1133 | 1494 | 75.8 | /mnt/stockage/packages/f15/decibel-audio-player/decibel-audio-player-1.05/po/ro.po | 
- | [it]({{< ref "/f15/language/it.md" >}}) | 1107 | 1494 | 74.1 | /mnt/stockage/packages/f15/decibel-audio-player/decibel-audio-player-1.05/po/it.po | 
- | [pt]({{< ref "/f15/language/pt.md" >}}) | 1049 | 1494 | 70.2 | /mnt/stockage/packages/f15/decibel-audio-player/decibel-audio-player-1.05/po/pt.po | 
- | [bg]({{< ref "/f15/language/bg.md" >}}) | 1002 | 1494 | 67.1 | /mnt/stockage/packages/f15/decibel-audio-player/decibel-audio-player-1.05/po/bg.po | 
- | [cs]({{< ref "/f15/language/cs.md" >}}) | 610 | 1494 | 40.8 | /mnt/stockage/packages/f15/decibel-audio-player/decibel-audio-player-1.05/po/cs.po | 
- | [da]({{< ref "/f15/language/da.md" >}}) | 556 | 1494 | 37.2 | /mnt/stockage/packages/f15/decibel-audio-player/decibel-audio-player-1.05/po/da.po | 
- | [ko]({{< ref "/f15/language/ko.md" >}}) | 466 | 1494 | 31.2 | /mnt/stockage/packages/f15/decibel-audio-player/decibel-audio-player-1.05/po/ko.po | 
- | [nb_NO]({{< ref "/f15/language/nb_NO.md" >}}) | 384 | 1494 | 25.7 | /mnt/stockage/packages/f15/decibel-audio-player/decibel-audio-player-1.05/po/nb.po | 
- | [sr]({{< ref "/f15/language/sr.md" >}}) | 283 | 1494 | 18.9 | /mnt/stockage/packages/f15/decibel-audio-player/decibel-audio-player-1.05/po/sr.po | 
- | [tr]({{< ref "/f15/language/tr.md" >}}) | 238 | 1494 | 15.9 | /mnt/stockage/packages/f15/decibel-audio-player/decibel-audio-player-1.05/po/tr.po | 
- | [ar]({{< ref "/f15/language/ar.md" >}}) | 210 | 1494 | 14.1 | /mnt/stockage/packages/f15/decibel-audio-player/decibel-audio-player-1.05/po/ar.po | 
- | [ca]({{< ref "/f15/language/ca.md" >}}) | 101 | 1494 | 6.8 | /mnt/stockage/packages/f15/decibel-audio-player/decibel-audio-player-1.05/po/ca.po | 
- | [ga]({{< ref "/f15/language/ga.md" >}}) | 75 | 1494 | 5.0 | /mnt/stockage/packages/f15/decibel-audio-player/decibel-audio-player-1.05/po/ga.po | 
- | [sl]({{< ref "/f15/language/sl.md" >}}) | 74 | 1494 | 5.0 | /mnt/stockage/packages/f15/decibel-audio-player/decibel-audio-player-1.05/po/sl.po | 
- | [ja]({{< ref "/f15/language/ja.md" >}}) | 64 | 1494 | 4.3 | /mnt/stockage/packages/f15/decibel-audio-player/decibel-audio-player-1.05/po/ja.po | 
- | [hr]({{< ref "/f15/language/hr.md" >}}) | 61 | 1494 | 4.1 | /mnt/stockage/packages/f15/decibel-audio-player/decibel-audio-player-1.05/po/hr.po | 
- | [eo]({{< ref "/f15/language/eo.md" >}}) | 46 | 1494 | 3.1 | /mnt/stockage/packages/f15/decibel-audio-player/decibel-audio-player-1.05/po/eo.po | 
- | [kk]({{< ref "/f15/language/kk.md" >}}) | 46 | 1494 | 3.1 | /mnt/stockage/packages/f15/decibel-audio-player/decibel-audio-player-1.05/po/kk.po | 
- | [fa]({{< ref "/f15/language/fa.md" >}}) | 9 | 1494 | 0.6 | /mnt/stockage/packages/f15/decibel-audio-player/decibel-audio-player-1.05/po/fa.po | 
- | [bs]({{< ref "/f15/language/bs.md" >}}) | 1 | 1494 | 0.1 | /mnt/stockage/packages/f15/decibel-audio-player/decibel-audio-player-1.05/po/bs.po | 
- | [en_GB]({{< ref "/f15/language/en_GB.md" >}}) | 0 | 1494 | 0.0 | /mnt/stockage/packages/f15/decibel-audio-player/decibel-audio-player-1.05/po/en_GB.po | 
+ | [fr](/f15/language/fr) | 1494 | 1494 | 100.0 | /mnt/stockage/packages/f15/decibel-audio-player/decibel-audio-player-1.05/po/fr.po | 
+ | [de](/f15/language/de) | 1401 | 1494 | 93.8 | /mnt/stockage/packages/f15/decibel-audio-player/decibel-audio-player-1.05/po/de.po | 
+ | [el](/f15/language/el) | 1401 | 1494 | 93.8 | /mnt/stockage/packages/f15/decibel-audio-player/decibel-audio-player-1.05/po/el.po | 
+ | [es](/f15/language/es) | 1401 | 1494 | 93.8 | /mnt/stockage/packages/f15/decibel-audio-player/decibel-audio-player-1.05/po/es.po | 
+ | [he](/f15/language/he) | 1401 | 1494 | 93.8 | /mnt/stockage/packages/f15/decibel-audio-player/decibel-audio-player-1.05/po/he.po | 
+ | [hu](/f15/language/hu) | 1401 | 1494 | 93.8 | /mnt/stockage/packages/f15/decibel-audio-player/decibel-audio-player-1.05/po/hu.po | 
+ | [nl](/f15/language/nl) | 1401 | 1494 | 93.8 | /mnt/stockage/packages/f15/decibel-audio-player/decibel-audio-player-1.05/po/nl.po | 
+ | [pt_BR](/f15/language/pt_BR) | 1401 | 1494 | 93.8 | /mnt/stockage/packages/f15/decibel-audio-player/decibel-audio-player-1.05/po/pt_BR.po | 
+ | [ru](/f15/language/ru) | 1401 | 1494 | 93.8 | /mnt/stockage/packages/f15/decibel-audio-player/decibel-audio-player-1.05/po/ru.po | 
+ | [sv](/f15/language/sv) | 1401 | 1494 | 93.8 | /mnt/stockage/packages/f15/decibel-audio-player/decibel-audio-player-1.05/po/sv.po | 
+ | [pl](/f15/language/pl) | 1358 | 1494 | 90.9 | /mnt/stockage/packages/f15/decibel-audio-player/decibel-audio-player-1.05/po/pl.po | 
+ | [nn](/f15/language/nn) | 1183 | 1494 | 79.2 | /mnt/stockage/packages/f15/decibel-audio-player/decibel-audio-player-1.05/po/nn.po | 
+ | [zh_Hans](/f15/language/zh_Hans) | 1169 | 1494 | 78.2 | /mnt/stockage/packages/f15/decibel-audio-player/decibel-audio-player-1.05/po/zh_CN.po | 
+ | [ro](/f15/language/ro) | 1133 | 1494 | 75.8 | /mnt/stockage/packages/f15/decibel-audio-player/decibel-audio-player-1.05/po/ro.po | 
+ | [it](/f15/language/it) | 1107 | 1494 | 74.1 | /mnt/stockage/packages/f15/decibel-audio-player/decibel-audio-player-1.05/po/it.po | 
+ | [pt](/f15/language/pt) | 1049 | 1494 | 70.2 | /mnt/stockage/packages/f15/decibel-audio-player/decibel-audio-player-1.05/po/pt.po | 
+ | [bg](/f15/language/bg) | 1002 | 1494 | 67.1 | /mnt/stockage/packages/f15/decibel-audio-player/decibel-audio-player-1.05/po/bg.po | 
+ | [cs](/f15/language/cs) | 610 | 1494 | 40.8 | /mnt/stockage/packages/f15/decibel-audio-player/decibel-audio-player-1.05/po/cs.po | 
+ | [da](/f15/language/da) | 556 | 1494 | 37.2 | /mnt/stockage/packages/f15/decibel-audio-player/decibel-audio-player-1.05/po/da.po | 
+ | [ko](/f15/language/ko) | 466 | 1494 | 31.2 | /mnt/stockage/packages/f15/decibel-audio-player/decibel-audio-player-1.05/po/ko.po | 
+ | [nb_NO](/f15/language/nb_NO) | 384 | 1494 | 25.7 | /mnt/stockage/packages/f15/decibel-audio-player/decibel-audio-player-1.05/po/nb.po | 
+ | [sr](/f15/language/sr) | 283 | 1494 | 18.9 | /mnt/stockage/packages/f15/decibel-audio-player/decibel-audio-player-1.05/po/sr.po | 
+ | [tr](/f15/language/tr) | 238 | 1494 | 15.9 | /mnt/stockage/packages/f15/decibel-audio-player/decibel-audio-player-1.05/po/tr.po | 
+ | [ar](/f15/language/ar) | 210 | 1494 | 14.1 | /mnt/stockage/packages/f15/decibel-audio-player/decibel-audio-player-1.05/po/ar.po | 
+ | [ca](/f15/language/ca) | 101 | 1494 | 6.8 | /mnt/stockage/packages/f15/decibel-audio-player/decibel-audio-player-1.05/po/ca.po | 
+ | [ga](/f15/language/ga) | 75 | 1494 | 5.0 | /mnt/stockage/packages/f15/decibel-audio-player/decibel-audio-player-1.05/po/ga.po | 
+ | [sl](/f15/language/sl) | 74 | 1494 | 5.0 | /mnt/stockage/packages/f15/decibel-audio-player/decibel-audio-player-1.05/po/sl.po | 
+ | [ja](/f15/language/ja) | 64 | 1494 | 4.3 | /mnt/stockage/packages/f15/decibel-audio-player/decibel-audio-player-1.05/po/ja.po | 
+ | [hr](/f15/language/hr) | 61 | 1494 | 4.1 | /mnt/stockage/packages/f15/decibel-audio-player/decibel-audio-player-1.05/po/hr.po | 
+ | [eo](/f15/language/eo) | 46 | 1494 | 3.1 | /mnt/stockage/packages/f15/decibel-audio-player/decibel-audio-player-1.05/po/eo.po | 
+ | [kk](/f15/language/kk) | 46 | 1494 | 3.1 | /mnt/stockage/packages/f15/decibel-audio-player/decibel-audio-player-1.05/po/kk.po | 
+ | [fa](/f15/language/fa) | 9 | 1494 | 0.6 | /mnt/stockage/packages/f15/decibel-audio-player/decibel-audio-player-1.05/po/fa.po | 
+ | [bs](/f15/language/bs) | 1 | 1494 | 0.1 | /mnt/stockage/packages/f15/decibel-audio-player/decibel-audio-player-1.05/po/bs.po | 
+ | [en_GB](/f15/language/en_GB) | 0 | 1494 | 0.0 | /mnt/stockage/packages/f15/decibel-audio-player/decibel-audio-player-1.05/po/en_GB.po | 
 {.sortable}
 
 

@@ -18,35 +18,35 @@ The package koko (version 22.04):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f35/language/ca.md" >}}) | 300 | 300 | 100.0 | /mnt/stockage/packages/f35/koko/po/ca/koko.po | 
- | [ca@valencia]({{< ref "/f35/language/ca@valencia.md" >}}) | 300 | 300 | 100.0 | /mnt/stockage/packages/f35/koko/po/ca@valencia/koko.po | 
- | [el]({{< ref "/f35/language/el.md" >}}) | 300 | 300 | 100.0 | /mnt/stockage/packages/f35/koko/po/el/koko.po | 
- | [en_GB]({{< ref "/f35/language/en_GB.md" >}}) | 300 | 300 | 100.0 | /mnt/stockage/packages/f35/koko/po/en_GB/koko.po | 
- | [error]({{< ref "/f35/language/error.md" >}}) | 300 | 300 | 100.0 | /mnt/stockage/packages/f35/koko/po/x-test/koko.po | 
- | [es]({{< ref "/f35/language/es.md" >}}) | 300 | 300 | 100.0 | /mnt/stockage/packages/f35/koko/po/es/koko.po | 
- | [fi]({{< ref "/f35/language/fi.md" >}}) | 300 | 300 | 100.0 | /mnt/stockage/packages/f35/koko/po/fi/koko.po | 
- | [fr]({{< ref "/f35/language/fr.md" >}}) | 300 | 300 | 100.0 | /mnt/stockage/packages/f35/koko/po/fr/koko.po | 
- | [it]({{< ref "/f35/language/it.md" >}}) | 300 | 300 | 100.0 | /mnt/stockage/packages/f35/koko/po/it/koko.po | 
- | [ko]({{< ref "/f35/language/ko.md" >}}) | 300 | 300 | 100.0 | /mnt/stockage/packages/f35/koko/po/ko/koko.po | 
- | [nl]({{< ref "/f35/language/nl.md" >}}) | 300 | 300 | 100.0 | /mnt/stockage/packages/f35/koko/po/nl/koko.po | 
- | [pl]({{< ref "/f35/language/pl.md" >}}) | 300 | 300 | 100.0 | /mnt/stockage/packages/f35/koko/po/pl/koko.po | 
- | [pt]({{< ref "/f35/language/pt.md" >}}) | 300 | 300 | 100.0 | /mnt/stockage/packages/f35/koko/po/pt/koko.po | 
- | [pt_BR]({{< ref "/f35/language/pt_BR.md" >}}) | 300 | 300 | 100.0 | /mnt/stockage/packages/f35/koko/po/pt_BR/koko.po | 
- | [sl]({{< ref "/f35/language/sl.md" >}}) | 300 | 300 | 100.0 | /mnt/stockage/packages/f35/koko/po/sl/koko.po | 
- | [sv]({{< ref "/f35/language/sv.md" >}}) | 300 | 300 | 100.0 | /mnt/stockage/packages/f35/koko/po/sv/koko.po | 
- | [tr]({{< ref "/f35/language/tr.md" >}}) | 300 | 300 | 100.0 | /mnt/stockage/packages/f35/koko/po/tr/koko.po | 
- | [uk]({{< ref "/f35/language/uk.md" >}}) | 300 | 300 | 100.0 | /mnt/stockage/packages/f35/koko/po/uk/koko.po | 
- | [zh_Hans]({{< ref "/f35/language/zh_Hans.md" >}}) | 300 | 300 | 100.0 | /mnt/stockage/packages/f35/koko/po/zh_CN/koko.po | 
- | [de]({{< ref "/f35/language/de.md" >}}) | 297 | 300 | 99.0 | /mnt/stockage/packages/f35/koko/po/de/koko.po | 
- | [eu]({{< ref "/f35/language/eu.md" >}}) | 292 | 300 | 97.3 | /mnt/stockage/packages/f35/koko/po/eu/koko.po | 
- | [cs]({{< ref "/f35/language/cs.md" >}}) | 238 | 300 | 79.3 | /mnt/stockage/packages/f35/koko/po/cs/koko.po | 
- | [sk]({{< ref "/f35/language/sk.md" >}}) | 193 | 300 | 64.3 | /mnt/stockage/packages/f35/koko/po/sk/koko.po | 
- | [pa]({{< ref "/f35/language/pa.md" >}}) | 165 | 300 | 55.0 | /mnt/stockage/packages/f35/koko/po/pa/koko.po | 
- | [da]({{< ref "/f35/language/da.md" >}}) | 72 | 300 | 24.0 | /mnt/stockage/packages/f35/koko/po/da/koko.po | 
- | [nn]({{< ref "/f35/language/nn.md" >}}) | 72 | 300 | 24.0 | /mnt/stockage/packages/f35/koko/po/nn/koko.po | 
- | [ru]({{< ref "/f35/language/ru.md" >}}) | 41 | 300 | 13.7 | /mnt/stockage/packages/f35/koko/po/ru/koko.po | 
- | [ja]({{< ref "/f35/language/ja.md" >}}) | 0 | 300 | 0.0 | /mnt/stockage/packages/f35/koko/po/ja/koko.po | 
- | [lt]({{< ref "/f35/language/lt.md" >}}) | 0 | 300 | 0.0 | /mnt/stockage/packages/f35/koko/po/lt/koko.po | 
+ | [ca](/f35/language/ca) | 300 | 300 | 100.0 | /mnt/stockage/packages/f35/koko/po/ca/koko.po | 
+ | [ca@valencia](/f35/language/ca@valencia) | 300 | 300 | 100.0 | /mnt/stockage/packages/f35/koko/po/ca@valencia/koko.po | 
+ | [el](/f35/language/el) | 300 | 300 | 100.0 | /mnt/stockage/packages/f35/koko/po/el/koko.po | 
+ | [en_GB](/f35/language/en_GB) | 300 | 300 | 100.0 | /mnt/stockage/packages/f35/koko/po/en_GB/koko.po | 
+ | [error](/f35/language/error) | 300 | 300 | 100.0 | /mnt/stockage/packages/f35/koko/po/x-test/koko.po | 
+ | [es](/f35/language/es) | 300 | 300 | 100.0 | /mnt/stockage/packages/f35/koko/po/es/koko.po | 
+ | [fi](/f35/language/fi) | 300 | 300 | 100.0 | /mnt/stockage/packages/f35/koko/po/fi/koko.po | 
+ | [fr](/f35/language/fr) | 300 | 300 | 100.0 | /mnt/stockage/packages/f35/koko/po/fr/koko.po | 
+ | [it](/f35/language/it) | 300 | 300 | 100.0 | /mnt/stockage/packages/f35/koko/po/it/koko.po | 
+ | [ko](/f35/language/ko) | 300 | 300 | 100.0 | /mnt/stockage/packages/f35/koko/po/ko/koko.po | 
+ | [nl](/f35/language/nl) | 300 | 300 | 100.0 | /mnt/stockage/packages/f35/koko/po/nl/koko.po | 
+ | [pl](/f35/language/pl) | 300 | 300 | 100.0 | /mnt/stockage/packages/f35/koko/po/pl/koko.po | 
+ | [pt](/f35/language/pt) | 300 | 300 | 100.0 | /mnt/stockage/packages/f35/koko/po/pt/koko.po | 
+ | [pt_BR](/f35/language/pt_BR) | 300 | 300 | 100.0 | /mnt/stockage/packages/f35/koko/po/pt_BR/koko.po | 
+ | [sl](/f35/language/sl) | 300 | 300 | 100.0 | /mnt/stockage/packages/f35/koko/po/sl/koko.po | 
+ | [sv](/f35/language/sv) | 300 | 300 | 100.0 | /mnt/stockage/packages/f35/koko/po/sv/koko.po | 
+ | [tr](/f35/language/tr) | 300 | 300 | 100.0 | /mnt/stockage/packages/f35/koko/po/tr/koko.po | 
+ | [uk](/f35/language/uk) | 300 | 300 | 100.0 | /mnt/stockage/packages/f35/koko/po/uk/koko.po | 
+ | [zh_Hans](/f35/language/zh_Hans) | 300 | 300 | 100.0 | /mnt/stockage/packages/f35/koko/po/zh_CN/koko.po | 
+ | [de](/f35/language/de) | 297 | 300 | 99.0 | /mnt/stockage/packages/f35/koko/po/de/koko.po | 
+ | [eu](/f35/language/eu) | 292 | 300 | 97.3 | /mnt/stockage/packages/f35/koko/po/eu/koko.po | 
+ | [cs](/f35/language/cs) | 238 | 300 | 79.3 | /mnt/stockage/packages/f35/koko/po/cs/koko.po | 
+ | [sk](/f35/language/sk) | 193 | 300 | 64.3 | /mnt/stockage/packages/f35/koko/po/sk/koko.po | 
+ | [pa](/f35/language/pa) | 165 | 300 | 55.0 | /mnt/stockage/packages/f35/koko/po/pa/koko.po | 
+ | [da](/f35/language/da) | 72 | 300 | 24.0 | /mnt/stockage/packages/f35/koko/po/da/koko.po | 
+ | [nn](/f35/language/nn) | 72 | 300 | 24.0 | /mnt/stockage/packages/f35/koko/po/nn/koko.po | 
+ | [ru](/f35/language/ru) | 41 | 300 | 13.7 | /mnt/stockage/packages/f35/koko/po/ru/koko.po | 
+ | [ja](/f35/language/ja) | 0 | 300 | 0.0 | /mnt/stockage/packages/f35/koko/po/ja/koko.po | 
+ | [lt](/f35/language/lt) | 0 | 300 | 0.0 | /mnt/stockage/packages/f35/koko/po/lt/koko.po | 
 {.sortable}
 
 

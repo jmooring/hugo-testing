@@ -18,59 +18,59 @@ The package sweeper (version 20.12.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f34/language/ca.md" >}}) | 228 | 228 | 100.0 | /mnt/stockage/packages/f34/sweeper/po/ca/sweeper.po | 
- | [cs]({{< ref "/f34/language/cs.md" >}}) | 228 | 228 | 100.0 | /mnt/stockage/packages/f34/sweeper/po/cs/sweeper.po | 
- | [da]({{< ref "/f34/language/da.md" >}}) | 228 | 228 | 100.0 | /mnt/stockage/packages/f34/sweeper/po/da/sweeper.po | 
- | [de]({{< ref "/f34/language/de.md" >}}) | 228 | 228 | 100.0 | /mnt/stockage/packages/f34/sweeper/po/de/sweeper.po | 
- | [el]({{< ref "/f34/language/el.md" >}}) | 228 | 228 | 100.0 | /mnt/stockage/packages/f34/sweeper/po/el/sweeper.po | 
- | [en_GB]({{< ref "/f34/language/en_GB.md" >}}) | 228 | 228 | 100.0 | /mnt/stockage/packages/f34/sweeper/po/en_GB/sweeper.po | 
- | [es]({{< ref "/f34/language/es.md" >}}) | 228 | 228 | 100.0 | /mnt/stockage/packages/f34/sweeper/po/es/sweeper.po | 
- | [et]({{< ref "/f34/language/et.md" >}}) | 228 | 228 | 100.0 | /mnt/stockage/packages/f34/sweeper/po/et/sweeper.po | 
- | [eu]({{< ref "/f34/language/eu.md" >}}) | 228 | 228 | 100.0 | /mnt/stockage/packages/f34/sweeper/po/eu/sweeper.po | 
- | [fi]({{< ref "/f34/language/fi.md" >}}) | 228 | 228 | 100.0 | /mnt/stockage/packages/f34/sweeper/po/fi/sweeper.po | 
- | [fr]({{< ref "/f34/language/fr.md" >}}) | 228 | 228 | 100.0 | /mnt/stockage/packages/f34/sweeper/po/fr/sweeper.po | 
- | [gl]({{< ref "/f34/language/gl.md" >}}) | 228 | 228 | 100.0 | /mnt/stockage/packages/f34/sweeper/po/gl/sweeper.po | 
- | [ia]({{< ref "/f34/language/ia.md" >}}) | 228 | 228 | 100.0 | /mnt/stockage/packages/f34/sweeper/po/ia/sweeper.po | 
- | [it]({{< ref "/f34/language/it.md" >}}) | 228 | 228 | 100.0 | /mnt/stockage/packages/f34/sweeper/po/it/sweeper.po | 
- | [ko]({{< ref "/f34/language/ko.md" >}}) | 228 | 228 | 100.0 | /mnt/stockage/packages/f34/sweeper/po/ko/sweeper.po | 
- | [lt]({{< ref "/f34/language/lt.md" >}}) | 228 | 228 | 100.0 | /mnt/stockage/packages/f34/sweeper/po/lt/sweeper.po | 
- | [nl]({{< ref "/f34/language/nl.md" >}}) | 228 | 228 | 100.0 | /mnt/stockage/packages/f34/sweeper/po/nl/sweeper.po | 
- | [nn]({{< ref "/f34/language/nn.md" >}}) | 228 | 228 | 100.0 | /mnt/stockage/packages/f34/sweeper/po/nn/sweeper.po | 
- | [pl]({{< ref "/f34/language/pl.md" >}}) | 228 | 228 | 100.0 | /mnt/stockage/packages/f34/sweeper/po/pl/sweeper.po | 
- | [pt]({{< ref "/f34/language/pt.md" >}}) | 228 | 228 | 100.0 | /mnt/stockage/packages/f34/sweeper/po/pt/sweeper.po | 
- | [pt_BR]({{< ref "/f34/language/pt_BR.md" >}}) | 228 | 228 | 100.0 | /mnt/stockage/packages/f34/sweeper/po/pt_BR/sweeper.po | 
- | [ru]({{< ref "/f34/language/ru.md" >}}) | 228 | 228 | 100.0 | /mnt/stockage/packages/f34/sweeper/po/ru/sweeper.po | 
- | [sk]({{< ref "/f34/language/sk.md" >}}) | 228 | 228 | 100.0 | /mnt/stockage/packages/f34/sweeper/po/sk/sweeper.po | 
- | [sl]({{< ref "/f34/language/sl.md" >}}) | 228 | 228 | 100.0 | /mnt/stockage/packages/f34/sweeper/po/sl/sweeper.po | 
- | [sv]({{< ref "/f34/language/sv.md" >}}) | 228 | 228 | 100.0 | /mnt/stockage/packages/f34/sweeper/po/sv/sweeper.po | 
- | [uk]({{< ref "/f34/language/uk.md" >}}) | 228 | 228 | 100.0 | /mnt/stockage/packages/f34/sweeper/po/uk/sweeper.po | 
- | [zh_Hans]({{< ref "/f34/language/zh_Hans.md" >}}) | 228 | 228 | 100.0 | /mnt/stockage/packages/f34/sweeper/po/zh_CN/sweeper.po | 
- | [zh_Hant]({{< ref "/f34/language/zh_Hant.md" >}}) | 228 | 228 | 100.0 | /mnt/stockage/packages/f34/sweeper/po/zh_TW/sweeper.po | 
- | [ar]({{< ref "/f34/language/ar.md" >}}) | 225 | 228 | 98.7 | /mnt/stockage/packages/f34/sweeper/po/ar/sweeper.po | 
- | [bg]({{< ref "/f34/language/bg.md" >}}) | 225 | 228 | 98.7 | /mnt/stockage/packages/f34/sweeper/po/bg/sweeper.po | 
- | [bs]({{< ref "/f34/language/bs.md" >}}) | 225 | 228 | 98.7 | /mnt/stockage/packages/f34/sweeper/po/bs/sweeper.po | 
- | [ca@valencia]({{< ref "/f34/language/ca@valencia.md" >}}) | 225 | 228 | 98.7 | /mnt/stockage/packages/f34/sweeper/po/ca@valencia/sweeper.po | 
- | [ga]({{< ref "/f34/language/ga.md" >}}) | 225 | 228 | 98.7 | /mnt/stockage/packages/f34/sweeper/po/ga/sweeper.po | 
- | [hu]({{< ref "/f34/language/hu.md" >}}) | 225 | 228 | 98.7 | /mnt/stockage/packages/f34/sweeper/po/hu/sweeper.po | 
- | [is]({{< ref "/f34/language/is.md" >}}) | 225 | 228 | 98.7 | /mnt/stockage/packages/f34/sweeper/po/is/sweeper.po | 
- | [kk]({{< ref "/f34/language/kk.md" >}}) | 225 | 228 | 98.7 | /mnt/stockage/packages/f34/sweeper/po/kk/sweeper.po | 
- | [km]({{< ref "/f34/language/km.md" >}}) | 225 | 228 | 98.7 | /mnt/stockage/packages/f34/sweeper/po/km/sweeper.po | 
- | [nb_NO]({{< ref "/f34/language/nb_NO.md" >}}) | 225 | 228 | 98.7 | /mnt/stockage/packages/f34/sweeper/po/nb/sweeper.po | 
- | [nds]({{< ref "/f34/language/nds.md" >}}) | 225 | 228 | 98.7 | /mnt/stockage/packages/f34/sweeper/po/nds/sweeper.po | 
- | [pa]({{< ref "/f34/language/pa.md" >}}) | 225 | 228 | 98.7 | /mnt/stockage/packages/f34/sweeper/po/pa/sweeper.po | 
- | [ro]({{< ref "/f34/language/ro.md" >}}) | 225 | 228 | 98.7 | /mnt/stockage/packages/f34/sweeper/po/ro/sweeper.po | 
- | [sr]({{< ref "/f34/language/sr.md" >}}) | 225 | 228 | 98.7 | /mnt/stockage/packages/f34/sweeper/po/sr/sweeper.po | 
- | [tr]({{< ref "/f34/language/tr.md" >}}) | 225 | 228 | 98.7 | /mnt/stockage/packages/f34/sweeper/po/tr/sweeper.po | 
- | [id]({{< ref "/f34/language/id.md" >}}) | 221 | 228 | 96.9 | /mnt/stockage/packages/f34/sweeper/po/id/sweeper.po | 
- | [ja]({{< ref "/f34/language/ja.md" >}}) | 221 | 228 | 96.9 | /mnt/stockage/packages/f34/sweeper/po/ja/sweeper.po | 
- | [lv]({{< ref "/f34/language/lv.md" >}}) | 221 | 228 | 96.9 | /mnt/stockage/packages/f34/sweeper/po/lv/sweeper.po | 
- | [hi]({{< ref "/f34/language/hi.md" >}}) | 184 | 228 | 80.7 | /mnt/stockage/packages/f34/sweeper/po/hi/sweeper.po | 
- | [fa]({{< ref "/f34/language/fa.md" >}}) | 151 | 228 | 66.2 | /mnt/stockage/packages/f34/sweeper/po/fa/sweeper.po | 
- | [eo]({{< ref "/f34/language/eo.md" >}}) | 143 | 228 | 62.7 | /mnt/stockage/packages/f34/sweeper/po/eo/sweeper.po | 
- | [hr]({{< ref "/f34/language/hr.md" >}}) | 128 | 228 | 56.1 | /mnt/stockage/packages/f34/sweeper/po/hr/sweeper.po | 
- | [he]({{< ref "/f34/language/he.md" >}}) | 127 | 228 | 55.7 | /mnt/stockage/packages/f34/sweeper/po/he/sweeper.po | 
- | [ug]({{< ref "/f34/language/ug.md" >}}) | 33 | 228 | 14.5 | /mnt/stockage/packages/f34/sweeper/po/ug/sweeper.po | 
- | [mr]({{< ref "/f34/language/mr.md" >}}) | 25 | 228 | 11.0 | /mnt/stockage/packages/f34/sweeper/po/mr/sweeper.po | 
+ | [ca](/f34/language/ca) | 228 | 228 | 100.0 | /mnt/stockage/packages/f34/sweeper/po/ca/sweeper.po | 
+ | [cs](/f34/language/cs) | 228 | 228 | 100.0 | /mnt/stockage/packages/f34/sweeper/po/cs/sweeper.po | 
+ | [da](/f34/language/da) | 228 | 228 | 100.0 | /mnt/stockage/packages/f34/sweeper/po/da/sweeper.po | 
+ | [de](/f34/language/de) | 228 | 228 | 100.0 | /mnt/stockage/packages/f34/sweeper/po/de/sweeper.po | 
+ | [el](/f34/language/el) | 228 | 228 | 100.0 | /mnt/stockage/packages/f34/sweeper/po/el/sweeper.po | 
+ | [en_GB](/f34/language/en_GB) | 228 | 228 | 100.0 | /mnt/stockage/packages/f34/sweeper/po/en_GB/sweeper.po | 
+ | [es](/f34/language/es) | 228 | 228 | 100.0 | /mnt/stockage/packages/f34/sweeper/po/es/sweeper.po | 
+ | [et](/f34/language/et) | 228 | 228 | 100.0 | /mnt/stockage/packages/f34/sweeper/po/et/sweeper.po | 
+ | [eu](/f34/language/eu) | 228 | 228 | 100.0 | /mnt/stockage/packages/f34/sweeper/po/eu/sweeper.po | 
+ | [fi](/f34/language/fi) | 228 | 228 | 100.0 | /mnt/stockage/packages/f34/sweeper/po/fi/sweeper.po | 
+ | [fr](/f34/language/fr) | 228 | 228 | 100.0 | /mnt/stockage/packages/f34/sweeper/po/fr/sweeper.po | 
+ | [gl](/f34/language/gl) | 228 | 228 | 100.0 | /mnt/stockage/packages/f34/sweeper/po/gl/sweeper.po | 
+ | [ia](/f34/language/ia) | 228 | 228 | 100.0 | /mnt/stockage/packages/f34/sweeper/po/ia/sweeper.po | 
+ | [it](/f34/language/it) | 228 | 228 | 100.0 | /mnt/stockage/packages/f34/sweeper/po/it/sweeper.po | 
+ | [ko](/f34/language/ko) | 228 | 228 | 100.0 | /mnt/stockage/packages/f34/sweeper/po/ko/sweeper.po | 
+ | [lt](/f34/language/lt) | 228 | 228 | 100.0 | /mnt/stockage/packages/f34/sweeper/po/lt/sweeper.po | 
+ | [nl](/f34/language/nl) | 228 | 228 | 100.0 | /mnt/stockage/packages/f34/sweeper/po/nl/sweeper.po | 
+ | [nn](/f34/language/nn) | 228 | 228 | 100.0 | /mnt/stockage/packages/f34/sweeper/po/nn/sweeper.po | 
+ | [pl](/f34/language/pl) | 228 | 228 | 100.0 | /mnt/stockage/packages/f34/sweeper/po/pl/sweeper.po | 
+ | [pt](/f34/language/pt) | 228 | 228 | 100.0 | /mnt/stockage/packages/f34/sweeper/po/pt/sweeper.po | 
+ | [pt_BR](/f34/language/pt_BR) | 228 | 228 | 100.0 | /mnt/stockage/packages/f34/sweeper/po/pt_BR/sweeper.po | 
+ | [ru](/f34/language/ru) | 228 | 228 | 100.0 | /mnt/stockage/packages/f34/sweeper/po/ru/sweeper.po | 
+ | [sk](/f34/language/sk) | 228 | 228 | 100.0 | /mnt/stockage/packages/f34/sweeper/po/sk/sweeper.po | 
+ | [sl](/f34/language/sl) | 228 | 228 | 100.0 | /mnt/stockage/packages/f34/sweeper/po/sl/sweeper.po | 
+ | [sv](/f34/language/sv) | 228 | 228 | 100.0 | /mnt/stockage/packages/f34/sweeper/po/sv/sweeper.po | 
+ | [uk](/f34/language/uk) | 228 | 228 | 100.0 | /mnt/stockage/packages/f34/sweeper/po/uk/sweeper.po | 
+ | [zh_Hans](/f34/language/zh_Hans) | 228 | 228 | 100.0 | /mnt/stockage/packages/f34/sweeper/po/zh_CN/sweeper.po | 
+ | [zh_Hant](/f34/language/zh_Hant) | 228 | 228 | 100.0 | /mnt/stockage/packages/f34/sweeper/po/zh_TW/sweeper.po | 
+ | [ar](/f34/language/ar) | 225 | 228 | 98.7 | /mnt/stockage/packages/f34/sweeper/po/ar/sweeper.po | 
+ | [bg](/f34/language/bg) | 225 | 228 | 98.7 | /mnt/stockage/packages/f34/sweeper/po/bg/sweeper.po | 
+ | [bs](/f34/language/bs) | 225 | 228 | 98.7 | /mnt/stockage/packages/f34/sweeper/po/bs/sweeper.po | 
+ | [ca@valencia](/f34/language/ca@valencia) | 225 | 228 | 98.7 | /mnt/stockage/packages/f34/sweeper/po/ca@valencia/sweeper.po | 
+ | [ga](/f34/language/ga) | 225 | 228 | 98.7 | /mnt/stockage/packages/f34/sweeper/po/ga/sweeper.po | 
+ | [hu](/f34/language/hu) | 225 | 228 | 98.7 | /mnt/stockage/packages/f34/sweeper/po/hu/sweeper.po | 
+ | [is](/f34/language/is) | 225 | 228 | 98.7 | /mnt/stockage/packages/f34/sweeper/po/is/sweeper.po | 
+ | [kk](/f34/language/kk) | 225 | 228 | 98.7 | /mnt/stockage/packages/f34/sweeper/po/kk/sweeper.po | 
+ | [km](/f34/language/km) | 225 | 228 | 98.7 | /mnt/stockage/packages/f34/sweeper/po/km/sweeper.po | 
+ | [nb_NO](/f34/language/nb_NO) | 225 | 228 | 98.7 | /mnt/stockage/packages/f34/sweeper/po/nb/sweeper.po | 
+ | [nds](/f34/language/nds) | 225 | 228 | 98.7 | /mnt/stockage/packages/f34/sweeper/po/nds/sweeper.po | 
+ | [pa](/f34/language/pa) | 225 | 228 | 98.7 | /mnt/stockage/packages/f34/sweeper/po/pa/sweeper.po | 
+ | [ro](/f34/language/ro) | 225 | 228 | 98.7 | /mnt/stockage/packages/f34/sweeper/po/ro/sweeper.po | 
+ | [sr](/f34/language/sr) | 225 | 228 | 98.7 | /mnt/stockage/packages/f34/sweeper/po/sr/sweeper.po | 
+ | [tr](/f34/language/tr) | 225 | 228 | 98.7 | /mnt/stockage/packages/f34/sweeper/po/tr/sweeper.po | 
+ | [id](/f34/language/id) | 221 | 228 | 96.9 | /mnt/stockage/packages/f34/sweeper/po/id/sweeper.po | 
+ | [ja](/f34/language/ja) | 221 | 228 | 96.9 | /mnt/stockage/packages/f34/sweeper/po/ja/sweeper.po | 
+ | [lv](/f34/language/lv) | 221 | 228 | 96.9 | /mnt/stockage/packages/f34/sweeper/po/lv/sweeper.po | 
+ | [hi](/f34/language/hi) | 184 | 228 | 80.7 | /mnt/stockage/packages/f34/sweeper/po/hi/sweeper.po | 
+ | [fa](/f34/language/fa) | 151 | 228 | 66.2 | /mnt/stockage/packages/f34/sweeper/po/fa/sweeper.po | 
+ | [eo](/f34/language/eo) | 143 | 228 | 62.7 | /mnt/stockage/packages/f34/sweeper/po/eo/sweeper.po | 
+ | [hr](/f34/language/hr) | 128 | 228 | 56.1 | /mnt/stockage/packages/f34/sweeper/po/hr/sweeper.po | 
+ | [he](/f34/language/he) | 127 | 228 | 55.7 | /mnt/stockage/packages/f34/sweeper/po/he/sweeper.po | 
+ | [ug](/f34/language/ug) | 33 | 228 | 14.5 | /mnt/stockage/packages/f34/sweeper/po/ug/sweeper.po | 
+ | [mr](/f34/language/mr) | 25 | 228 | 11.0 | /mnt/stockage/packages/f34/sweeper/po/mr/sweeper.po | 
 {.sortable}
 
 

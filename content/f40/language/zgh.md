@@ -38,13 +38,13 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [dialect]({{< ref "/f40/package/dialect.md" >}}) | 316 | 463 | 68.3 |  | 
- | [xapps]({{< ref "/f40/package/xapps.md" >}}) | 18 | 73 | 24.7 | Standard Moroccan Tamazight <zgh@li.org> | 
- | [slick-greeter]({{< ref "/f40/package/slick-greeter.md" >}}) | 37 | 216 | 17.1 | Standard Moroccan Tamazight <zgh@li.org> | 
- | [lightdm-settings]({{< ref "/f40/package/lightdm-settings.md" >}}) | 40 | 355 | 11.3 | Standard Moroccan Tamazight <zgh@li.org> | 
- | [xreader]({{< ref "/f40/package/xreader.md" >}}) | 104 | 1625 | 6.4 | Standard Moroccan Tamazight <zgh@li.org> | 
- | [xed]({{< ref "/f40/package/xed.md" >}}) | 213 | 3775 | 5.6 | Standard Moroccan Tamazight <zgh@li.org> | 
- | [cinnamon-translations]({{< ref "/f40/package/cinnamon-translations.md" >}}) | 401 | 18667 | 2.1 | Standard Moroccan Tamazight <zgh@li.org> | 
+ | [dialect](/f40/package/dialect) | 316 | 463 | 68.3 |  | 
+ | [xapps](/f40/package/xapps) | 18 | 73 | 24.7 | Standard Moroccan Tamazight <zgh@li.org> | 
+ | [slick-greeter](/f40/package/slick-greeter) | 37 | 216 | 17.1 | Standard Moroccan Tamazight <zgh@li.org> | 
+ | [lightdm-settings](/f40/package/lightdm-settings) | 40 | 355 | 11.3 | Standard Moroccan Tamazight <zgh@li.org> | 
+ | [xreader](/f40/package/xreader) | 104 | 1625 | 6.4 | Standard Moroccan Tamazight <zgh@li.org> | 
+ | [xed](/f40/package/xed) | 213 | 3775 | 5.6 | Standard Moroccan Tamazight <zgh@li.org> | 
+ | [cinnamon-translations](/f40/package/cinnamon-translations) | 401 | 18667 | 2.1 | Standard Moroccan Tamazight <zgh@li.org> | 
 {.sortable}
 
 

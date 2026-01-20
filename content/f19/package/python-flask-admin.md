@@ -18,14 +18,14 @@ The package python-flask-admin (version 1.0.7):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f19/language/cs.md" >}}) | 217 | 217 | 100.0 | /mnt/stockage/packages/f19/python-flask-admin/flask_admin/translations/cs/LC_MESSAGES/admin.po | 
- | [es]({{< ref "/f19/language/es.md" >}}) | 217 | 217 | 100.0 | /mnt/stockage/packages/f19/python-flask-admin/flask_admin/translations/es/LC_MESSAGES/admin.po | 
- | [fa]({{< ref "/f19/language/fa.md" >}}) | 250 | 250 | 100.0 | /mnt/stockage/packages/f19/python-flask-admin/flask_admin/translations/fa/LC_MESSAGES/admin.po | 
- | [fr]({{< ref "/f19/language/fr.md" >}}) | 217 | 217 | 100.0 | /mnt/stockage/packages/f19/python-flask-admin/flask_admin/translations/fr/LC_MESSAGES/admin.po | 
- | [ru]({{< ref "/f19/language/ru.md" >}}) | 199 | 199 | 100.0 | /mnt/stockage/packages/f19/python-flask-admin/flask_admin/translations/ru/LC_MESSAGES/admin.po | 
- | [zh_Hans]({{< ref "/f19/language/zh_Hans.md" >}}) | 214 | 214 | 100.0 | /mnt/stockage/packages/f19/python-flask-admin/flask_admin/translations/zh_CN/LC_MESSAGES/admin.po | 
- | [zh_Hant]({{< ref "/f19/language/zh_Hant.md" >}}) | 214 | 214 | 100.0 | /mnt/stockage/packages/f19/python-flask-admin/flask_admin/translations/zh_TW/LC_MESSAGES/admin.po | 
- | [de]({{< ref "/f19/language/de.md" >}}) | 212 | 217 | 97.7 | /mnt/stockage/packages/f19/python-flask-admin/flask_admin/translations/de/LC_MESSAGES/admin.po | 
+ | [cs](/f19/language/cs) | 217 | 217 | 100.0 | /mnt/stockage/packages/f19/python-flask-admin/flask_admin/translations/cs/LC_MESSAGES/admin.po | 
+ | [es](/f19/language/es) | 217 | 217 | 100.0 | /mnt/stockage/packages/f19/python-flask-admin/flask_admin/translations/es/LC_MESSAGES/admin.po | 
+ | [fa](/f19/language/fa) | 250 | 250 | 100.0 | /mnt/stockage/packages/f19/python-flask-admin/flask_admin/translations/fa/LC_MESSAGES/admin.po | 
+ | [fr](/f19/language/fr) | 217 | 217 | 100.0 | /mnt/stockage/packages/f19/python-flask-admin/flask_admin/translations/fr/LC_MESSAGES/admin.po | 
+ | [ru](/f19/language/ru) | 199 | 199 | 100.0 | /mnt/stockage/packages/f19/python-flask-admin/flask_admin/translations/ru/LC_MESSAGES/admin.po | 
+ | [zh_Hans](/f19/language/zh_Hans) | 214 | 214 | 100.0 | /mnt/stockage/packages/f19/python-flask-admin/flask_admin/translations/zh_CN/LC_MESSAGES/admin.po | 
+ | [zh_Hant](/f19/language/zh_Hant) | 214 | 214 | 100.0 | /mnt/stockage/packages/f19/python-flask-admin/flask_admin/translations/zh_TW/LC_MESSAGES/admin.po | 
+ | [de](/f19/language/de) | 212 | 217 | 97.7 | /mnt/stockage/packages/f19/python-flask-admin/flask_admin/translations/de/LC_MESSAGES/admin.po | 
 {.sortable}
 
 

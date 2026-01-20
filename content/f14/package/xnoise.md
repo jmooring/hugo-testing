@@ -18,12 +18,12 @@ The package xnoise (version 0.1.12):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f14/language/de.md" >}}) | 157 | 157 | 100.0 | /mnt/stockage/packages/f14/xnoise/po/de_DE.po | 
- | [error]({{< ref "/f14/language/error.md" >}}) | 157 | 157 | 100.0 | /mnt/stockage/packages/f14/xnoise/po/default.po | 
- | [es]({{< ref "/f14/language/es.md" >}}) | 158 | 158 | 100.0 | /mnt/stockage/packages/f14/xnoise/po/es_ES.po | 
- | [es_CO]({{< ref "/f14/language/es_CO.md" >}}) | 157 | 157 | 100.0 | /mnt/stockage/packages/f14/xnoise/po/es_CO.po | 
- | [he]({{< ref "/f14/language/he.md" >}}) | 158 | 158 | 100.0 | /mnt/stockage/packages/f14/xnoise/po/he_IL.po | 
- | [hu]({{< ref "/f14/language/hu.md" >}}) | 158 | 158 | 100.0 | /mnt/stockage/packages/f14/xnoise/po/hu.po | 
+ | [de](/f14/language/de) | 157 | 157 | 100.0 | /mnt/stockage/packages/f14/xnoise/po/de_DE.po | 
+ | [error](/f14/language/error) | 157 | 157 | 100.0 | /mnt/stockage/packages/f14/xnoise/po/default.po | 
+ | [es](/f14/language/es) | 158 | 158 | 100.0 | /mnt/stockage/packages/f14/xnoise/po/es_ES.po | 
+ | [es_CO](/f14/language/es_CO) | 157 | 157 | 100.0 | /mnt/stockage/packages/f14/xnoise/po/es_CO.po | 
+ | [he](/f14/language/he) | 158 | 158 | 100.0 | /mnt/stockage/packages/f14/xnoise/po/he_IL.po | 
+ | [hu](/f14/language/hu) | 158 | 158 | 100.0 | /mnt/stockage/packages/f14/xnoise/po/hu.po | 
 {.sortable}
 
 

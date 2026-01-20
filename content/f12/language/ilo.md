@@ -38,18 +38,18 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [anaconda]({{< ref "/f12/package/anaconda.md" >}}) | 3768 | 8877 | 42.4 | Joseph Maza <joemaza@comcast.net> | 
- | [redhat-menus]({{< ref "/f12/package/redhat-menus.md" >}}) | 106 | 261 | 40.6 |  | 
- | [switchdesk]({{< ref "/f12/package/switchdesk.md" >}}) | 30 | 137 | 21.9 |  | 
- | [firstboot]({{< ref "/f12/package/firstboot.md" >}}) | 132 | 654 | 20.2 |  | 
- | [specspo]({{< ref "/f12/package/specspo.md" >}}) | 7 | 305294 | 0.0 |  | 
- | [sos]({{< ref "/f12/package/sos.md" >}}) | 0 | 267 | 0.0 | none | 
- | [system-config-date]({{< ref "/f12/package/system-config-date.md" >}}) | 0 | 1304 | 0.0 |  | 
- | [system-config-date-docs]({{< ref "/f12/package/system-config-date-docs.md" >}}) | 0 | 728 | 0.0 | LANGUAGE <LL@li.org> | 
- | [system-config-nfs-docs]({{< ref "/f12/package/system-config-nfs-docs.md" >}}) | 0 | 1185 | 0.0 | LANGUAGE <LL@li.org> | 
- | [system-config-samba-docs]({{< ref "/f12/package/system-config-samba-docs.md" >}}) | 0 | 1188 | 0.0 | LANGUAGE <LL@li.org> | 
- | [system-config-services-docs]({{< ref "/f12/package/system-config-services-docs.md" >}}) | 0 | 638 | 0.0 | LANGUAGE <LL@li.org> | 
- | [system-config-users-docs]({{< ref "/f12/package/system-config-users-docs.md" >}}) | 0 | 1054 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [anaconda](/f12/package/anaconda) | 3768 | 8877 | 42.4 | Joseph Maza <joemaza@comcast.net> | 
+ | [redhat-menus](/f12/package/redhat-menus) | 106 | 261 | 40.6 |  | 
+ | [switchdesk](/f12/package/switchdesk) | 30 | 137 | 21.9 |  | 
+ | [firstboot](/f12/package/firstboot) | 132 | 654 | 20.2 |  | 
+ | [specspo](/f12/package/specspo) | 7 | 305294 | 0.0 |  | 
+ | [sos](/f12/package/sos) | 0 | 267 | 0.0 | none | 
+ | [system-config-date](/f12/package/system-config-date) | 0 | 1304 | 0.0 |  | 
+ | [system-config-date-docs](/f12/package/system-config-date-docs) | 0 | 728 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [system-config-nfs-docs](/f12/package/system-config-nfs-docs) | 0 | 1185 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [system-config-samba-docs](/f12/package/system-config-samba-docs) | 0 | 1188 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [system-config-services-docs](/f12/package/system-config-services-docs) | 0 | 638 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [system-config-users-docs](/f12/package/system-config-users-docs) | 0 | 1054 | 0.0 | LANGUAGE <LL@li.org> | 
 {.sortable}
 
 

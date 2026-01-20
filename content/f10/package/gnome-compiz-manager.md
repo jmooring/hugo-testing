@@ -18,7 +18,7 @@ The package gnome-compiz-manager (version 0.10.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f10/language/fr.md" >}}) | 240 | 317 | 75.7 | /mnt/stockage/packages/f10/gnome-compiz-manager/po/fr.po | 
+ | [fr](/f10/language/fr) | 240 | 317 | 75.7 | /mnt/stockage/packages/f10/gnome-compiz-manager/po/fr.po | 
 {.sortable}
 
 

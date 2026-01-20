@@ -18,21 +18,21 @@ The package qt-recordmydesktop (version 0.3.8):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [el]({{< ref "/f16/language/el.md" >}}) | 816 | 816 | 100.0 | /mnt/stockage/packages/f16/qt-recordmydesktop/po/el.po | 
- | [es]({{< ref "/f16/language/es.md" >}}) | 816 | 816 | 100.0 | /mnt/stockage/packages/f16/qt-recordmydesktop/po/es.po | 
- | [fr]({{< ref "/f16/language/fr.md" >}}) | 816 | 816 | 100.0 | /mnt/stockage/packages/f16/qt-recordmydesktop/po/fr.po | 
- | [it]({{< ref "/f16/language/it.md" >}}) | 816 | 816 | 100.0 | /mnt/stockage/packages/f16/qt-recordmydesktop/po/it.po | 
- | [nl]({{< ref "/f16/language/nl.md" >}}) | 816 | 816 | 100.0 | /mnt/stockage/packages/f16/qt-recordmydesktop/po/nl.po | 
- | [pl]({{< ref "/f16/language/pl.md" >}}) | 816 | 816 | 100.0 | /mnt/stockage/packages/f16/qt-recordmydesktop/po/pl.po | 
- | [pt_BR]({{< ref "/f16/language/pt_BR.md" >}}) | 816 | 816 | 100.0 | /mnt/stockage/packages/f16/qt-recordmydesktop/po/pt_BR.po | 
- | [sv]({{< ref "/f16/language/sv.md" >}}) | 816 | 816 | 100.0 | /mnt/stockage/packages/f16/qt-recordmydesktop/po/sv.po | 
- | [ru]({{< ref "/f16/language/ru.md" >}}) | 710 | 816 | 87.0 | /mnt/stockage/packages/f16/qt-recordmydesktop/po/ru.po | 
- | [ca]({{< ref "/f16/language/ca.md" >}}) | 685 | 816 | 83.9 | /mnt/stockage/packages/f16/qt-recordmydesktop/po/ca.po | 
- | [ar]({{< ref "/f16/language/ar.md" >}}) | 553 | 816 | 67.8 | /mnt/stockage/packages/f16/qt-recordmydesktop/po/ar.po | 
- | [ja]({{< ref "/f16/language/ja.md" >}}) | 553 | 816 | 67.8 | /mnt/stockage/packages/f16/qt-recordmydesktop/po/ja.po | 
- | [pt]({{< ref "/f16/language/pt.md" >}}) | 553 | 816 | 67.8 | /mnt/stockage/packages/f16/qt-recordmydesktop/po/pt.po | 
- | [tr]({{< ref "/f16/language/tr.md" >}}) | 553 | 816 | 67.8 | /mnt/stockage/packages/f16/qt-recordmydesktop/po/tr.po | 
- | [de]({{< ref "/f16/language/de.md" >}}) | 532 | 816 | 65.2 | /mnt/stockage/packages/f16/qt-recordmydesktop/po/de.po | 
+ | [el](/f16/language/el) | 816 | 816 | 100.0 | /mnt/stockage/packages/f16/qt-recordmydesktop/po/el.po | 
+ | [es](/f16/language/es) | 816 | 816 | 100.0 | /mnt/stockage/packages/f16/qt-recordmydesktop/po/es.po | 
+ | [fr](/f16/language/fr) | 816 | 816 | 100.0 | /mnt/stockage/packages/f16/qt-recordmydesktop/po/fr.po | 
+ | [it](/f16/language/it) | 816 | 816 | 100.0 | /mnt/stockage/packages/f16/qt-recordmydesktop/po/it.po | 
+ | [nl](/f16/language/nl) | 816 | 816 | 100.0 | /mnt/stockage/packages/f16/qt-recordmydesktop/po/nl.po | 
+ | [pl](/f16/language/pl) | 816 | 816 | 100.0 | /mnt/stockage/packages/f16/qt-recordmydesktop/po/pl.po | 
+ | [pt_BR](/f16/language/pt_BR) | 816 | 816 | 100.0 | /mnt/stockage/packages/f16/qt-recordmydesktop/po/pt_BR.po | 
+ | [sv](/f16/language/sv) | 816 | 816 | 100.0 | /mnt/stockage/packages/f16/qt-recordmydesktop/po/sv.po | 
+ | [ru](/f16/language/ru) | 710 | 816 | 87.0 | /mnt/stockage/packages/f16/qt-recordmydesktop/po/ru.po | 
+ | [ca](/f16/language/ca) | 685 | 816 | 83.9 | /mnt/stockage/packages/f16/qt-recordmydesktop/po/ca.po | 
+ | [ar](/f16/language/ar) | 553 | 816 | 67.8 | /mnt/stockage/packages/f16/qt-recordmydesktop/po/ar.po | 
+ | [ja](/f16/language/ja) | 553 | 816 | 67.8 | /mnt/stockage/packages/f16/qt-recordmydesktop/po/ja.po | 
+ | [pt](/f16/language/pt) | 553 | 816 | 67.8 | /mnt/stockage/packages/f16/qt-recordmydesktop/po/pt.po | 
+ | [tr](/f16/language/tr) | 553 | 816 | 67.8 | /mnt/stockage/packages/f16/qt-recordmydesktop/po/tr.po | 
+ | [de](/f16/language/de) | 532 | 816 | 65.2 | /mnt/stockage/packages/f16/qt-recordmydesktop/po/de.po | 
 {.sortable}
 
 

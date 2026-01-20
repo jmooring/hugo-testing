@@ -38,12 +38,12 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [gimagereader]({{< ref "/f38/package/gimagereader.md" >}}) | 1817 | 1817 | 100.0 | Serbian (cyrillic) <https://hosted.weblate.org/projects/gimagereader/translations/sr_Cyrl/> | 
- | [po4a]({{< ref "/f38/package/po4a.md" >}}) | 24731 | 28518 | 86.7 | Serbian (cyrillic) <https://hosted.weblate.org/projects/po4a/po4a/sr_Cyrl/> | 
- | [publican]({{< ref "/f38/package/publican.md" >}}) | 1058 | 5443 | 19.4 | Serbian <trans-sr@lists.fedoraproject.org> | 
- | [minetest]({{< ref "/f38/package/minetest.md" >}}) | 1255 | 9523 | 13.2 | Serbian (cyrillic) <https://hosted.weblate.org/projects/minetest/minetest/sr_Cyrl/> | 
- | [wine]({{< ref "/f38/package/wine.md" >}}) | 2179 | 19312 | 11.3 | Serbian (Cyrillic) | 
- | [godot3]({{< ref "/f38/package/godot3.md" >}}) | 2778 | 285145 | 1.0 | Serbian (cyrillic) <https://hosted.weblate.org/projects/godot-engine/godot-class-reference/sr_Cyrl/> | 
+ | [gimagereader](/f38/package/gimagereader) | 1817 | 1817 | 100.0 | Serbian (cyrillic) <https://hosted.weblate.org/projects/gimagereader/translations/sr_Cyrl/> | 
+ | [po4a](/f38/package/po4a) | 24731 | 28518 | 86.7 | Serbian (cyrillic) <https://hosted.weblate.org/projects/po4a/po4a/sr_Cyrl/> | 
+ | [publican](/f38/package/publican) | 1058 | 5443 | 19.4 | Serbian <trans-sr@lists.fedoraproject.org> | 
+ | [minetest](/f38/package/minetest) | 1255 | 9523 | 13.2 | Serbian (cyrillic) <https://hosted.weblate.org/projects/minetest/minetest/sr_Cyrl/> | 
+ | [wine](/f38/package/wine) | 2179 | 19312 | 11.3 | Serbian (Cyrillic) | 
+ | [godot3](/f38/package/godot3) | 2778 | 285145 | 1.0 | Serbian (cyrillic) <https://hosted.weblate.org/projects/godot-engine/godot-class-reference/sr_Cyrl/> | 
 {.sortable}
 
 

@@ -18,9 +18,9 @@ The package fedora-ksplice (version 0.5):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [error]({{< ref "/f16/language/error.md" >}}) | 332 | 332 | 100.0 | /mnt/stockage/packages/f16/fedora-ksplice/po/en@boldquot.po/mnt/stockage/packages/f16/fedora-ksplice/po/en@quot.po | 
- | [de]({{< ref "/f16/language/de.md" >}}) | 127 | 166 | 76.5 | /mnt/stockage/packages/f16/fedora-ksplice/po/de.po | 
- | [en]({{< ref "/f16/language/en.md" >}}) | 0 | 166 | 0.0 | /mnt/stockage/packages/f16/fedora-ksplice/po/en.po | 
+ | [error](/f16/language/error) | 332 | 332 | 100.0 | /mnt/stockage/packages/f16/fedora-ksplice/po/en@boldquot.po/mnt/stockage/packages/f16/fedora-ksplice/po/en@quot.po | 
+ | [de](/f16/language/de) | 127 | 166 | 76.5 | /mnt/stockage/packages/f16/fedora-ksplice/po/de.po | 
+ | [en](/f16/language/en) | 0 | 166 | 0.0 | /mnt/stockage/packages/f16/fedora-ksplice/po/en.po | 
 {.sortable}
 
 

@@ -38,10 +38,10 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [zarafa]({{< ref "/f17/package/zarafa.md" >}}) | 3199 | 3383 | 94.6 | fr_FR <fr@li.org> | 
- | [intltool]({{< ref "/f17/package/intltool.md" >}}) | 9 | 10 | 90.0 | NONE <kenneth@gnu.org> | 
- | [jpoker]({{< ref "/f17/package/jpoker.md" >}}) | 256 | 357 | 71.7 | <pokersource-users@gna.org> | 
- | [openerp]({{< ref "/f17/package/openerp.md" >}}) | 52 | 11494 | 0.5 | French (Belgium) <fr_BE@li.org> | 
+ | [zarafa](/f17/package/zarafa) | 3199 | 3383 | 94.6 | fr_FR <fr@li.org> | 
+ | [intltool](/f17/package/intltool) | 9 | 10 | 90.0 | NONE <kenneth@gnu.org> | 
+ | [jpoker](/f17/package/jpoker) | 256 | 357 | 71.7 | <pokersource-users@gna.org> | 
+ | [openerp](/f17/package/openerp) | 52 | 11494 | 0.5 | French (Belgium) <fr_BE@li.org> | 
 {.sortable}
 
 

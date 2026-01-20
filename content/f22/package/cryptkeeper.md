@@ -18,16 +18,16 @@ The package cryptkeeper (version 0.9.5):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [error]({{< ref "/f22/language/error.md" >}}) | 716 | 716 | 100.0 | /mnt/stockage/packages/f22/cryptkeeper/po/en@quot.po/mnt/stockage/packages/f22/cryptkeeper/po/en@boldquot.po | 
- | [es]({{< ref "/f22/language/es.md" >}}) | 351 | 358 | 98.0 | /mnt/stockage/packages/f22/cryptkeeper/po/es_ES.po | 
- | [pl]({{< ref "/f22/language/pl.md" >}}) | 351 | 358 | 98.0 | /mnt/stockage/packages/f22/cryptkeeper/po/pl.po | 
- | [pt_BR]({{< ref "/f22/language/pt_BR.md" >}}) | 351 | 358 | 98.0 | /mnt/stockage/packages/f22/cryptkeeper/po/pt_BR.po | 
- | [tr]({{< ref "/f22/language/tr.md" >}}) | 346 | 358 | 96.6 | /mnt/stockage/packages/f22/cryptkeeper/po/tr.po | 
- | [ru]({{< ref "/f22/language/ru.md" >}}) | 320 | 358 | 89.4 | /mnt/stockage/packages/f22/cryptkeeper/po/ru_RU.po | 
- | [it]({{< ref "/f22/language/it.md" >}}) | 277 | 358 | 77.4 | /mnt/stockage/packages/f22/cryptkeeper/po/it.po | 
- | [fr]({{< ref "/f22/language/fr.md" >}}) | 260 | 358 | 72.6 | /mnt/stockage/packages/f22/cryptkeeper/po/fr.po | 
- | [de]({{< ref "/f22/language/de.md" >}}) | 259 | 358 | 72.3 | /mnt/stockage/packages/f22/cryptkeeper/po/de_DE.po | 
- | [en_GB]({{< ref "/f22/language/en_GB.md" >}}) | 0 | 358 | 0.0 | /mnt/stockage/packages/f22/cryptkeeper/po/en_GB.po | 
+ | [error](/f22/language/error) | 716 | 716 | 100.0 | /mnt/stockage/packages/f22/cryptkeeper/po/en@quot.po/mnt/stockage/packages/f22/cryptkeeper/po/en@boldquot.po | 
+ | [es](/f22/language/es) | 351 | 358 | 98.0 | /mnt/stockage/packages/f22/cryptkeeper/po/es_ES.po | 
+ | [pl](/f22/language/pl) | 351 | 358 | 98.0 | /mnt/stockage/packages/f22/cryptkeeper/po/pl.po | 
+ | [pt_BR](/f22/language/pt_BR) | 351 | 358 | 98.0 | /mnt/stockage/packages/f22/cryptkeeper/po/pt_BR.po | 
+ | [tr](/f22/language/tr) | 346 | 358 | 96.6 | /mnt/stockage/packages/f22/cryptkeeper/po/tr.po | 
+ | [ru](/f22/language/ru) | 320 | 358 | 89.4 | /mnt/stockage/packages/f22/cryptkeeper/po/ru_RU.po | 
+ | [it](/f22/language/it) | 277 | 358 | 77.4 | /mnt/stockage/packages/f22/cryptkeeper/po/it.po | 
+ | [fr](/f22/language/fr) | 260 | 358 | 72.6 | /mnt/stockage/packages/f22/cryptkeeper/po/fr.po | 
+ | [de](/f22/language/de) | 259 | 358 | 72.3 | /mnt/stockage/packages/f22/cryptkeeper/po/de_DE.po | 
+ | [en_GB](/f22/language/en_GB) | 0 | 358 | 0.0 | /mnt/stockage/packages/f22/cryptkeeper/po/en_GB.po | 
 {.sortable}
 
 

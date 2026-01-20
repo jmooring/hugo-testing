@@ -18,15 +18,15 @@ The package fcitx-kkc (version 0.1.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f37/language/ca.md" >}}) | 118 | 118 | 100.0 | /mnt/stockage/packages/f37/fcitx-kkc/po/ca.po | 
- | [da]({{< ref "/f37/language/da.md" >}}) | 118 | 118 | 100.0 | /mnt/stockage/packages/f37/fcitx-kkc/po/da.po | 
- | [de]({{< ref "/f37/language/de.md" >}}) | 118 | 118 | 100.0 | /mnt/stockage/packages/f37/fcitx-kkc/po/de.po | 
- | [ja]({{< ref "/f37/language/ja.md" >}}) | 118 | 118 | 100.0 | /mnt/stockage/packages/f37/fcitx-kkc/po/ja.po | 
- | [ko]({{< ref "/f37/language/ko.md" >}}) | 118 | 118 | 100.0 | /mnt/stockage/packages/f37/fcitx-kkc/po/ko.po | 
- | [ru]({{< ref "/f37/language/ru.md" >}}) | 118 | 118 | 100.0 | /mnt/stockage/packages/f37/fcitx-kkc/po/ru.po | 
- | [zh_Hans]({{< ref "/f37/language/zh_Hans.md" >}}) | 118 | 118 | 100.0 | /mnt/stockage/packages/f37/fcitx-kkc/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f37/language/zh_Hant.md" >}}) | 118 | 118 | 100.0 | /mnt/stockage/packages/f37/fcitx-kkc/po/zh_TW.po | 
- | [tr]({{< ref "/f37/language/tr.md" >}}) | 10 | 118 | 8.5 | /mnt/stockage/packages/f37/fcitx-kkc/po/tr.po | 
+ | [ca](/f37/language/ca) | 118 | 118 | 100.0 | /mnt/stockage/packages/f37/fcitx-kkc/po/ca.po | 
+ | [da](/f37/language/da) | 118 | 118 | 100.0 | /mnt/stockage/packages/f37/fcitx-kkc/po/da.po | 
+ | [de](/f37/language/de) | 118 | 118 | 100.0 | /mnt/stockage/packages/f37/fcitx-kkc/po/de.po | 
+ | [ja](/f37/language/ja) | 118 | 118 | 100.0 | /mnt/stockage/packages/f37/fcitx-kkc/po/ja.po | 
+ | [ko](/f37/language/ko) | 118 | 118 | 100.0 | /mnt/stockage/packages/f37/fcitx-kkc/po/ko.po | 
+ | [ru](/f37/language/ru) | 118 | 118 | 100.0 | /mnt/stockage/packages/f37/fcitx-kkc/po/ru.po | 
+ | [zh_Hans](/f37/language/zh_Hans) | 118 | 118 | 100.0 | /mnt/stockage/packages/f37/fcitx-kkc/po/zh_CN.po | 
+ | [zh_Hant](/f37/language/zh_Hant) | 118 | 118 | 100.0 | /mnt/stockage/packages/f37/fcitx-kkc/po/zh_TW.po | 
+ | [tr](/f37/language/tr) | 10 | 118 | 8.5 | /mnt/stockage/packages/f37/fcitx-kkc/po/tr.po | 
 {.sortable}
 
 

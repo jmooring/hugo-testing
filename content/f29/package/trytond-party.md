@@ -18,26 +18,26 @@ The package trytond-party (version 4.0.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f29/language/ca.md" >}}) | 268 | 268 | 100.0 | /mnt/stockage/packages/f29/trytond-party/locale/ca_ES.po | 
- | [de]({{< ref "/f29/language/de.md" >}}) | 268 | 268 | 100.0 | /mnt/stockage/packages/f29/trytond-party/locale/de_DE.po | 
- | [es]({{< ref "/f29/language/es.md" >}}) | 268 | 268 | 100.0 | /mnt/stockage/packages/f29/trytond-party/locale/es_ES.po | 
- | [es_AR]({{< ref "/f29/language/es_AR.md" >}}) | 268 | 268 | 100.0 | /mnt/stockage/packages/f29/trytond-party/locale/es_AR.po | 
- | [es_CO]({{< ref "/f29/language/es_CO.md" >}}) | 268 | 268 | 100.0 | /mnt/stockage/packages/f29/trytond-party/locale/es_CO.po | 
- | [es_EC]({{< ref "/f29/language/es_EC.md" >}}) | 268 | 268 | 100.0 | /mnt/stockage/packages/f29/trytond-party/locale/es_EC.po | 
- | [fr]({{< ref "/f29/language/fr.md" >}}) | 268 | 268 | 100.0 | /mnt/stockage/packages/f29/trytond-party/locale/fr_FR.po | 
- | [lo]({{< ref "/f29/language/lo.md" >}}) | 268 | 268 | 100.0 | /mnt/stockage/packages/f29/trytond-party/locale/lo_LA.po | 
- | [pt_BR]({{< ref "/f29/language/pt_BR.md" >}}) | 268 | 268 | 100.0 | /mnt/stockage/packages/f29/trytond-party/locale/pt_BR.po | 
- | [sl]({{< ref "/f29/language/sl.md" >}}) | 268 | 268 | 100.0 | /mnt/stockage/packages/f29/trytond-party/locale/sl_SI.po | 
- | [ru]({{< ref "/f29/language/ru.md" >}}) | 250 | 268 | 93.3 | /mnt/stockage/packages/f29/trytond-party/locale/ru_RU.po | 
- | [hu]({{< ref "/f29/language/hu.md" >}}) | 248 | 268 | 92.5 | /mnt/stockage/packages/f29/trytond-party/locale/hu_HU.po | 
- | [es_MX]({{< ref "/f29/language/es_MX.md" >}}) | 224 | 268 | 83.6 | /mnt/stockage/packages/f29/trytond-party/locale/es_MX.po | 
- | [bg]({{< ref "/f29/language/bg.md" >}}) | 200 | 268 | 74.6 | /mnt/stockage/packages/f29/trytond-party/locale/bg_BG.po | 
- | [it]({{< ref "/f29/language/it.md" >}}) | 169 | 268 | 63.1 | /mnt/stockage/packages/f29/trytond-party/locale/it_IT.po | 
- | [nl]({{< ref "/f29/language/nl.md" >}}) | 119 | 268 | 44.4 | /mnt/stockage/packages/f29/trytond-party/locale/nl_NL.po | 
- | [cs]({{< ref "/f29/language/cs.md" >}}) | 0 | 268 | 0.0 | /mnt/stockage/packages/f29/trytond-party/locale/cs_CZ.po | 
- | [ja]({{< ref "/f29/language/ja.md" >}}) | 0 | 268 | 0.0 | /mnt/stockage/packages/f29/trytond-party/locale/ja_JP.po | 
- | [lt]({{< ref "/f29/language/lt.md" >}}) | 0 | 268 | 0.0 | /mnt/stockage/packages/f29/trytond-party/locale/lt_LT.po | 
- | [zh_Hans]({{< ref "/f29/language/zh_Hans.md" >}}) | 0 | 268 | 0.0 | /mnt/stockage/packages/f29/trytond-party/locale/zh_CN.po | 
+ | [ca](/f29/language/ca) | 268 | 268 | 100.0 | /mnt/stockage/packages/f29/trytond-party/locale/ca_ES.po | 
+ | [de](/f29/language/de) | 268 | 268 | 100.0 | /mnt/stockage/packages/f29/trytond-party/locale/de_DE.po | 
+ | [es](/f29/language/es) | 268 | 268 | 100.0 | /mnt/stockage/packages/f29/trytond-party/locale/es_ES.po | 
+ | [es_AR](/f29/language/es_AR) | 268 | 268 | 100.0 | /mnt/stockage/packages/f29/trytond-party/locale/es_AR.po | 
+ | [es_CO](/f29/language/es_CO) | 268 | 268 | 100.0 | /mnt/stockage/packages/f29/trytond-party/locale/es_CO.po | 
+ | [es_EC](/f29/language/es_EC) | 268 | 268 | 100.0 | /mnt/stockage/packages/f29/trytond-party/locale/es_EC.po | 
+ | [fr](/f29/language/fr) | 268 | 268 | 100.0 | /mnt/stockage/packages/f29/trytond-party/locale/fr_FR.po | 
+ | [lo](/f29/language/lo) | 268 | 268 | 100.0 | /mnt/stockage/packages/f29/trytond-party/locale/lo_LA.po | 
+ | [pt_BR](/f29/language/pt_BR) | 268 | 268 | 100.0 | /mnt/stockage/packages/f29/trytond-party/locale/pt_BR.po | 
+ | [sl](/f29/language/sl) | 268 | 268 | 100.0 | /mnt/stockage/packages/f29/trytond-party/locale/sl_SI.po | 
+ | [ru](/f29/language/ru) | 250 | 268 | 93.3 | /mnt/stockage/packages/f29/trytond-party/locale/ru_RU.po | 
+ | [hu](/f29/language/hu) | 248 | 268 | 92.5 | /mnt/stockage/packages/f29/trytond-party/locale/hu_HU.po | 
+ | [es_MX](/f29/language/es_MX) | 224 | 268 | 83.6 | /mnt/stockage/packages/f29/trytond-party/locale/es_MX.po | 
+ | [bg](/f29/language/bg) | 200 | 268 | 74.6 | /mnt/stockage/packages/f29/trytond-party/locale/bg_BG.po | 
+ | [it](/f29/language/it) | 169 | 268 | 63.1 | /mnt/stockage/packages/f29/trytond-party/locale/it_IT.po | 
+ | [nl](/f29/language/nl) | 119 | 268 | 44.4 | /mnt/stockage/packages/f29/trytond-party/locale/nl_NL.po | 
+ | [cs](/f29/language/cs) | 0 | 268 | 0.0 | /mnt/stockage/packages/f29/trytond-party/locale/cs_CZ.po | 
+ | [ja](/f29/language/ja) | 0 | 268 | 0.0 | /mnt/stockage/packages/f29/trytond-party/locale/ja_JP.po | 
+ | [lt](/f29/language/lt) | 0 | 268 | 0.0 | /mnt/stockage/packages/f29/trytond-party/locale/lt_LT.po | 
+ | [zh_Hans](/f29/language/zh_Hans) | 0 | 268 | 0.0 | /mnt/stockage/packages/f29/trytond-party/locale/zh_CN.po | 
 {.sortable}
 
 

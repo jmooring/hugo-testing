@@ -18,32 +18,32 @@ The package amtk (version 5.2.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f33/language/cs.md" >}}) | 11 | 11 | 100.0 | /mnt/stockage/packages/f33/amtk/po/cs.po | 
- | [da]({{< ref "/f33/language/da.md" >}}) | 11 | 11 | 100.0 | /mnt/stockage/packages/f33/amtk/po/da.po | 
- | [de]({{< ref "/f33/language/de.md" >}}) | 11 | 11 | 100.0 | /mnt/stockage/packages/f33/amtk/po/de.po | 
- | [en_GB]({{< ref "/f33/language/en_GB.md" >}}) | 11 | 11 | 100.0 | /mnt/stockage/packages/f33/amtk/po/en_GB.po | 
- | [es]({{< ref "/f33/language/es.md" >}}) | 11 | 11 | 100.0 | /mnt/stockage/packages/f33/amtk/po/es.po | 
- | [eu]({{< ref "/f33/language/eu.md" >}}) | 11 | 11 | 100.0 | /mnt/stockage/packages/f33/amtk/po/eu.po | 
- | [fr]({{< ref "/f33/language/fr.md" >}}) | 11 | 11 | 100.0 | /mnt/stockage/packages/f33/amtk/po/fr.po | 
- | [fur]({{< ref "/f33/language/fur.md" >}}) | 11 | 11 | 100.0 | /mnt/stockage/packages/f33/amtk/po/fur.po | 
- | [hu]({{< ref "/f33/language/hu.md" >}}) | 11 | 11 | 100.0 | /mnt/stockage/packages/f33/amtk/po/hu.po | 
- | [id]({{< ref "/f33/language/id.md" >}}) | 11 | 11 | 100.0 | /mnt/stockage/packages/f33/amtk/po/id.po | 
- | [it]({{< ref "/f33/language/it.md" >}}) | 11 | 11 | 100.0 | /mnt/stockage/packages/f33/amtk/po/it.po | 
- | [ja]({{< ref "/f33/language/ja.md" >}}) | 11 | 11 | 100.0 | /mnt/stockage/packages/f33/amtk/po/ja.po | 
- | [lt]({{< ref "/f33/language/lt.md" >}}) | 11 | 11 | 100.0 | /mnt/stockage/packages/f33/amtk/po/lt.po | 
- | [ms]({{< ref "/f33/language/ms.md" >}}) | 11 | 11 | 100.0 | /mnt/stockage/packages/f33/amtk/po/ms.po | 
- | [nl]({{< ref "/f33/language/nl.md" >}}) | 11 | 11 | 100.0 | /mnt/stockage/packages/f33/amtk/po/nl.po | 
- | [pl]({{< ref "/f33/language/pl.md" >}}) | 11 | 11 | 100.0 | /mnt/stockage/packages/f33/amtk/po/pl.po | 
- | [pt]({{< ref "/f33/language/pt.md" >}}) | 11 | 11 | 100.0 | /mnt/stockage/packages/f33/amtk/po/pt.po | 
- | [pt_BR]({{< ref "/f33/language/pt_BR.md" >}}) | 11 | 11 | 100.0 | /mnt/stockage/packages/f33/amtk/po/pt_BR.po | 
- | [ro]({{< ref "/f33/language/ro.md" >}}) | 11 | 11 | 100.0 | /mnt/stockage/packages/f33/amtk/po/ro.po | 
- | [ru]({{< ref "/f33/language/ru.md" >}}) | 11 | 11 | 100.0 | /mnt/stockage/packages/f33/amtk/po/ru.po | 
- | [sl]({{< ref "/f33/language/sl.md" >}}) | 11 | 11 | 100.0 | /mnt/stockage/packages/f33/amtk/po/sl.po | 
- | [sr]({{< ref "/f33/language/sr.md" >}}) | 11 | 11 | 100.0 | /mnt/stockage/packages/f33/amtk/po/sr.po | 
- | [sv]({{< ref "/f33/language/sv.md" >}}) | 11 | 11 | 100.0 | /mnt/stockage/packages/f33/amtk/po/sv.po | 
- | [tr]({{< ref "/f33/language/tr.md" >}}) | 11 | 11 | 100.0 | /mnt/stockage/packages/f33/amtk/po/tr.po | 
- | [uk]({{< ref "/f33/language/uk.md" >}}) | 11 | 11 | 100.0 | /mnt/stockage/packages/f33/amtk/po/uk.po | 
- | [zh_Hans]({{< ref "/f33/language/zh_Hans.md" >}}) | 11 | 11 | 100.0 | /mnt/stockage/packages/f33/amtk/po/zh_CN.po | 
+ | [cs](/f33/language/cs) | 11 | 11 | 100.0 | /mnt/stockage/packages/f33/amtk/po/cs.po | 
+ | [da](/f33/language/da) | 11 | 11 | 100.0 | /mnt/stockage/packages/f33/amtk/po/da.po | 
+ | [de](/f33/language/de) | 11 | 11 | 100.0 | /mnt/stockage/packages/f33/amtk/po/de.po | 
+ | [en_GB](/f33/language/en_GB) | 11 | 11 | 100.0 | /mnt/stockage/packages/f33/amtk/po/en_GB.po | 
+ | [es](/f33/language/es) | 11 | 11 | 100.0 | /mnt/stockage/packages/f33/amtk/po/es.po | 
+ | [eu](/f33/language/eu) | 11 | 11 | 100.0 | /mnt/stockage/packages/f33/amtk/po/eu.po | 
+ | [fr](/f33/language/fr) | 11 | 11 | 100.0 | /mnt/stockage/packages/f33/amtk/po/fr.po | 
+ | [fur](/f33/language/fur) | 11 | 11 | 100.0 | /mnt/stockage/packages/f33/amtk/po/fur.po | 
+ | [hu](/f33/language/hu) | 11 | 11 | 100.0 | /mnt/stockage/packages/f33/amtk/po/hu.po | 
+ | [id](/f33/language/id) | 11 | 11 | 100.0 | /mnt/stockage/packages/f33/amtk/po/id.po | 
+ | [it](/f33/language/it) | 11 | 11 | 100.0 | /mnt/stockage/packages/f33/amtk/po/it.po | 
+ | [ja](/f33/language/ja) | 11 | 11 | 100.0 | /mnt/stockage/packages/f33/amtk/po/ja.po | 
+ | [lt](/f33/language/lt) | 11 | 11 | 100.0 | /mnt/stockage/packages/f33/amtk/po/lt.po | 
+ | [ms](/f33/language/ms) | 11 | 11 | 100.0 | /mnt/stockage/packages/f33/amtk/po/ms.po | 
+ | [nl](/f33/language/nl) | 11 | 11 | 100.0 | /mnt/stockage/packages/f33/amtk/po/nl.po | 
+ | [pl](/f33/language/pl) | 11 | 11 | 100.0 | /mnt/stockage/packages/f33/amtk/po/pl.po | 
+ | [pt](/f33/language/pt) | 11 | 11 | 100.0 | /mnt/stockage/packages/f33/amtk/po/pt.po | 
+ | [pt_BR](/f33/language/pt_BR) | 11 | 11 | 100.0 | /mnt/stockage/packages/f33/amtk/po/pt_BR.po | 
+ | [ro](/f33/language/ro) | 11 | 11 | 100.0 | /mnt/stockage/packages/f33/amtk/po/ro.po | 
+ | [ru](/f33/language/ru) | 11 | 11 | 100.0 | /mnt/stockage/packages/f33/amtk/po/ru.po | 
+ | [sl](/f33/language/sl) | 11 | 11 | 100.0 | /mnt/stockage/packages/f33/amtk/po/sl.po | 
+ | [sr](/f33/language/sr) | 11 | 11 | 100.0 | /mnt/stockage/packages/f33/amtk/po/sr.po | 
+ | [sv](/f33/language/sv) | 11 | 11 | 100.0 | /mnt/stockage/packages/f33/amtk/po/sv.po | 
+ | [tr](/f33/language/tr) | 11 | 11 | 100.0 | /mnt/stockage/packages/f33/amtk/po/tr.po | 
+ | [uk](/f33/language/uk) | 11 | 11 | 100.0 | /mnt/stockage/packages/f33/amtk/po/uk.po | 
+ | [zh_Hans](/f33/language/zh_Hans) | 11 | 11 | 100.0 | /mnt/stockage/packages/f33/amtk/po/zh_CN.po | 
 {.sortable}
 
 

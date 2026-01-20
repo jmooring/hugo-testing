@@ -18,18 +18,18 @@ The package pondus (version 0.8.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [bg]({{< ref "/f17/language/bg.md" >}}) | 324 | 324 | 100.0 | /mnt/stockage/packages/f17/pondus/po/bg.po | 
- | [de]({{< ref "/f17/language/de.md" >}}) | 324 | 324 | 100.0 | /mnt/stockage/packages/f17/pondus/po/de.po | 
- | [fi]({{< ref "/f17/language/fi.md" >}}) | 324 | 324 | 100.0 | /mnt/stockage/packages/f17/pondus/po/fi.po | 
- | [ru]({{< ref "/f17/language/ru.md" >}}) | 324 | 324 | 100.0 | /mnt/stockage/packages/f17/pondus/po/ru.po | 
- | [sv]({{< ref "/f17/language/sv.md" >}}) | 324 | 324 | 100.0 | /mnt/stockage/packages/f17/pondus/po/sv.po | 
- | [tr]({{< ref "/f17/language/tr.md" >}}) | 324 | 324 | 100.0 | /mnt/stockage/packages/f17/pondus/po/tr.po | 
- | [es]({{< ref "/f17/language/es.md" >}}) | 304 | 324 | 93.8 | /mnt/stockage/packages/f17/pondus/po/es.po | 
- | [it]({{< ref "/f17/language/it.md" >}}) | 304 | 324 | 93.8 | /mnt/stockage/packages/f17/pondus/po/it.po | 
- | [he]({{< ref "/f17/language/he.md" >}}) | 299 | 324 | 92.3 | /mnt/stockage/packages/f17/pondus/po/he.po | 
- | [fr]({{< ref "/f17/language/fr.md" >}}) | 296 | 324 | 91.4 | /mnt/stockage/packages/f17/pondus/po/fr.po | 
- | [pl]({{< ref "/f17/language/pl.md" >}}) | 232 | 324 | 71.6 | /mnt/stockage/packages/f17/pondus/po/pl.po | 
- | [eo]({{< ref "/f17/language/eo.md" >}}) | 174 | 324 | 53.7 | /mnt/stockage/packages/f17/pondus/po/eo.po | 
+ | [bg](/f17/language/bg) | 324 | 324 | 100.0 | /mnt/stockage/packages/f17/pondus/po/bg.po | 
+ | [de](/f17/language/de) | 324 | 324 | 100.0 | /mnt/stockage/packages/f17/pondus/po/de.po | 
+ | [fi](/f17/language/fi) | 324 | 324 | 100.0 | /mnt/stockage/packages/f17/pondus/po/fi.po | 
+ | [ru](/f17/language/ru) | 324 | 324 | 100.0 | /mnt/stockage/packages/f17/pondus/po/ru.po | 
+ | [sv](/f17/language/sv) | 324 | 324 | 100.0 | /mnt/stockage/packages/f17/pondus/po/sv.po | 
+ | [tr](/f17/language/tr) | 324 | 324 | 100.0 | /mnt/stockage/packages/f17/pondus/po/tr.po | 
+ | [es](/f17/language/es) | 304 | 324 | 93.8 | /mnt/stockage/packages/f17/pondus/po/es.po | 
+ | [it](/f17/language/it) | 304 | 324 | 93.8 | /mnt/stockage/packages/f17/pondus/po/it.po | 
+ | [he](/f17/language/he) | 299 | 324 | 92.3 | /mnt/stockage/packages/f17/pondus/po/he.po | 
+ | [fr](/f17/language/fr) | 296 | 324 | 91.4 | /mnt/stockage/packages/f17/pondus/po/fr.po | 
+ | [pl](/f17/language/pl) | 232 | 324 | 71.6 | /mnt/stockage/packages/f17/pondus/po/pl.po | 
+ | [eo](/f17/language/eo) | 174 | 324 | 53.7 | /mnt/stockage/packages/f17/pondus/po/eo.po | 
 {.sortable}
 
 

@@ -18,9 +18,9 @@ The package muon-meson (version 0.3.1^20240926.a2f0f77e):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f42/language/de.md" >}}) | 10 | 10 | 100.0 | /mnt/stockage/packages/f42/muon-meson/frameworks/6 gettext/po/de.po | 
- | [fi]({{< ref "/f42/language/fi.md" >}}) | 2 | 2 | 100.0 | /mnt/stockage/packages/f42/muon-meson/frameworks/6 gettext/po/fi.po | 
- | [ru]({{< ref "/f42/language/ru.md" >}}) | 6 | 6 | 100.0 | /mnt/stockage/packages/f42/muon-meson/frameworks/6 gettext/po/ru.po | 
+ | [de](/f42/language/de) | 10 | 10 | 100.0 | /mnt/stockage/packages/f42/muon-meson/frameworks/6 gettext/po/de.po | 
+ | [fi](/f42/language/fi) | 2 | 2 | 100.0 | /mnt/stockage/packages/f42/muon-meson/frameworks/6 gettext/po/fi.po | 
+ | [ru](/f42/language/ru) | 6 | 6 | 100.0 | /mnt/stockage/packages/f42/muon-meson/frameworks/6 gettext/po/ru.po | 
 {.sortable}
 
 

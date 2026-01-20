@@ -18,9 +18,9 @@ The package gnome-disk-utility (version 0.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f11/language/de.md" >}}) | 1961 | 3606 | 54.4 | /mnt/stockage/packages/f11/gnome-disk-utility/help/de/de.po/mnt/stockage/packages/f11/gnome-disk-utility/po/de.po | 
- | [es]({{< ref "/f11/language/es.md" >}}) | 921 | 3079 | 29.9 | /mnt/stockage/packages/f11/gnome-disk-utility/po/es.po | 
- | [sv]({{< ref "/f11/language/sv.md" >}}) | 848 | 3606 | 23.5 | /mnt/stockage/packages/f11/gnome-disk-utility/help/sv/sv.po/mnt/stockage/packages/f11/gnome-disk-utility/po/sv.po | 
+ | [de](/f11/language/de) | 1961 | 3606 | 54.4 | /mnt/stockage/packages/f11/gnome-disk-utility/help/de/de.po/mnt/stockage/packages/f11/gnome-disk-utility/po/de.po | 
+ | [es](/f11/language/es) | 921 | 3079 | 29.9 | /mnt/stockage/packages/f11/gnome-disk-utility/po/es.po | 
+ | [sv](/f11/language/sv) | 848 | 3606 | 23.5 | /mnt/stockage/packages/f11/gnome-disk-utility/help/sv/sv.po/mnt/stockage/packages/f11/gnome-disk-utility/po/sv.po | 
 {.sortable}
 
 

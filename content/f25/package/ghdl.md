@@ -18,28 +18,28 @@ The package ghdl (version 0.34dev):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [eo]({{< ref "/f25/language/eo.md" >}}) | 1354 | 1354 | 100.0 | /mnt/stockage/packages/f25/ghdl/libcpp/po/eo.po | 
- | [pt_BR]({{< ref "/f25/language/pt_BR.md" >}}) | 1354 | 1354 | 100.0 | /mnt/stockage/packages/f25/ghdl/libcpp/po/pt_BR.po | 
- | [sv]({{< ref "/f25/language/sv.md" >}}) | 92704 | 92704 | 100.0 | /mnt/stockage/packages/f25/ghdl/gcc/po/sv.po/mnt/stockage/packages/f25/ghdl/libcpp/po/sv.po | 
- | [ca]({{< ref "/f25/language/ca.md" >}}) | 981 | 1354 | 72.5 | /mnt/stockage/packages/f25/ghdl/libcpp/po/ca.po | 
- | [es]({{< ref "/f25/language/es.md" >}}) | 59712 | 92704 | 64.4 | /mnt/stockage/packages/f25/ghdl/gcc/po/es.po/mnt/stockage/packages/f25/ghdl/libcpp/po/es.po | 
- | [de]({{< ref "/f25/language/de.md" >}}) | 49456 | 92709 | 53.3 | /mnt/stockage/packages/f25/ghdl/gcc/po/de.po/mnt/stockage/packages/f25/ghdl/libcpp/po/de.po/mnt/stockage/packages/f25/ghdl/libstdc++-v3/po/de.po | 
- | [ru]({{< ref "/f25/language/ru.md" >}}) | 44145 | 92704 | 47.6 | /mnt/stockage/packages/f25/ghdl/gcc/po/ru.po/mnt/stockage/packages/f25/ghdl/libcpp/po/ru.po | 
- | [zh_Hans]({{< ref "/f25/language/zh_Hans.md" >}}) | 36591 | 92704 | 39.5 | /mnt/stockage/packages/f25/ghdl/gcc/po/zh_CN.po/mnt/stockage/packages/f25/ghdl/libcpp/po/zh_CN.po | 
- | [vi]({{< ref "/f25/language/vi.md" >}}) | 31691 | 92704 | 34.2 | /mnt/stockage/packages/f25/ghdl/gcc/po/vi.po/mnt/stockage/packages/f25/ghdl/libcpp/po/vi.po | 
- | [id]({{< ref "/f25/language/id.md" >}}) | 25787 | 92704 | 27.8 | /mnt/stockage/packages/f25/ghdl/gcc/po/id.po/mnt/stockage/packages/f25/ghdl/libcpp/po/id.po | 
- | [sr]({{< ref "/f25/language/sr.md" >}}) | 21572 | 92704 | 23.3 | /mnt/stockage/packages/f25/ghdl/gcc/po/sr.po/mnt/stockage/packages/f25/ghdl/libcpp/po/sr.po | 
- | [fr]({{< ref "/f25/language/fr.md" >}}) | 20491 | 92709 | 22.1 | /mnt/stockage/packages/f25/ghdl/gcc/po/fr.po/mnt/stockage/packages/f25/ghdl/libcpp/po/fr.po/mnt/stockage/packages/f25/ghdl/libstdc++-v3/po/fr.po | 
- | [tr]({{< ref "/f25/language/tr.md" >}}) | 19510 | 92704 | 21.0 | /mnt/stockage/packages/f25/ghdl/gcc/po/tr.po/mnt/stockage/packages/f25/ghdl/libcpp/po/tr.po | 
- | [zh_Hant]({{< ref "/f25/language/zh_Hant.md" >}}) | 17746 | 92704 | 19.1 | /mnt/stockage/packages/f25/ghdl/gcc/po/zh_TW.po/mnt/stockage/packages/f25/ghdl/libcpp/po/zh_TW.po | 
- | [ja]({{< ref "/f25/language/ja.md" >}}) | 17705 | 92704 | 19.1 | /mnt/stockage/packages/f25/ghdl/gcc/po/ja.po/mnt/stockage/packages/f25/ghdl/libcpp/po/ja.po | 
- | [fi]({{< ref "/f25/language/fi.md" >}}) | 13280 | 92704 | 14.3 | /mnt/stockage/packages/f25/ghdl/gcc/po/fi.po/mnt/stockage/packages/f25/ghdl/libcpp/po/fi.po | 
- | [da]({{< ref "/f25/language/da.md" >}}) | 9655 | 92704 | 10.4 | /mnt/stockage/packages/f25/ghdl/gcc/po/da.po/mnt/stockage/packages/f25/ghdl/libcpp/po/da.po | 
- | [nl]({{< ref "/f25/language/nl.md" >}}) | 6071 | 92704 | 6.5 | /mnt/stockage/packages/f25/ghdl/gcc/po/nl.po/mnt/stockage/packages/f25/ghdl/libcpp/po/nl.po | 
- | [uk]({{< ref "/f25/language/uk.md" >}}) | 2628 | 92704 | 2.8 | /mnt/stockage/packages/f25/ghdl/gcc/po/uk.po/mnt/stockage/packages/f25/ghdl/libcpp/po/uk.po | 
- | [hr]({{< ref "/f25/language/hr.md" >}}) | 555 | 91350 | 0.6 | /mnt/stockage/packages/f25/ghdl/gcc/po/hr.po | 
- | [be]({{< ref "/f25/language/be.md" >}}) | 276 | 92704 | 0.3 | /mnt/stockage/packages/f25/ghdl/gcc/po/be.po/mnt/stockage/packages/f25/ghdl/libcpp/po/be.po | 
- | [el]({{< ref "/f25/language/el.md" >}}) | 192 | 92704 | 0.2 | /mnt/stockage/packages/f25/ghdl/gcc/po/el.po/mnt/stockage/packages/f25/ghdl/libcpp/po/el.po | 
+ | [eo](/f25/language/eo) | 1354 | 1354 | 100.0 | /mnt/stockage/packages/f25/ghdl/libcpp/po/eo.po | 
+ | [pt_BR](/f25/language/pt_BR) | 1354 | 1354 | 100.0 | /mnt/stockage/packages/f25/ghdl/libcpp/po/pt_BR.po | 
+ | [sv](/f25/language/sv) | 92704 | 92704 | 100.0 | /mnt/stockage/packages/f25/ghdl/gcc/po/sv.po/mnt/stockage/packages/f25/ghdl/libcpp/po/sv.po | 
+ | [ca](/f25/language/ca) | 981 | 1354 | 72.5 | /mnt/stockage/packages/f25/ghdl/libcpp/po/ca.po | 
+ | [es](/f25/language/es) | 59712 | 92704 | 64.4 | /mnt/stockage/packages/f25/ghdl/gcc/po/es.po/mnt/stockage/packages/f25/ghdl/libcpp/po/es.po | 
+ | [de](/f25/language/de) | 49456 | 92709 | 53.3 | /mnt/stockage/packages/f25/ghdl/gcc/po/de.po/mnt/stockage/packages/f25/ghdl/libcpp/po/de.po/mnt/stockage/packages/f25/ghdl/libstdc++-v3/po/de.po | 
+ | [ru](/f25/language/ru) | 44145 | 92704 | 47.6 | /mnt/stockage/packages/f25/ghdl/gcc/po/ru.po/mnt/stockage/packages/f25/ghdl/libcpp/po/ru.po | 
+ | [zh_Hans](/f25/language/zh_Hans) | 36591 | 92704 | 39.5 | /mnt/stockage/packages/f25/ghdl/gcc/po/zh_CN.po/mnt/stockage/packages/f25/ghdl/libcpp/po/zh_CN.po | 
+ | [vi](/f25/language/vi) | 31691 | 92704 | 34.2 | /mnt/stockage/packages/f25/ghdl/gcc/po/vi.po/mnt/stockage/packages/f25/ghdl/libcpp/po/vi.po | 
+ | [id](/f25/language/id) | 25787 | 92704 | 27.8 | /mnt/stockage/packages/f25/ghdl/gcc/po/id.po/mnt/stockage/packages/f25/ghdl/libcpp/po/id.po | 
+ | [sr](/f25/language/sr) | 21572 | 92704 | 23.3 | /mnt/stockage/packages/f25/ghdl/gcc/po/sr.po/mnt/stockage/packages/f25/ghdl/libcpp/po/sr.po | 
+ | [fr](/f25/language/fr) | 20491 | 92709 | 22.1 | /mnt/stockage/packages/f25/ghdl/gcc/po/fr.po/mnt/stockage/packages/f25/ghdl/libcpp/po/fr.po/mnt/stockage/packages/f25/ghdl/libstdc++-v3/po/fr.po | 
+ | [tr](/f25/language/tr) | 19510 | 92704 | 21.0 | /mnt/stockage/packages/f25/ghdl/gcc/po/tr.po/mnt/stockage/packages/f25/ghdl/libcpp/po/tr.po | 
+ | [zh_Hant](/f25/language/zh_Hant) | 17746 | 92704 | 19.1 | /mnt/stockage/packages/f25/ghdl/gcc/po/zh_TW.po/mnt/stockage/packages/f25/ghdl/libcpp/po/zh_TW.po | 
+ | [ja](/f25/language/ja) | 17705 | 92704 | 19.1 | /mnt/stockage/packages/f25/ghdl/gcc/po/ja.po/mnt/stockage/packages/f25/ghdl/libcpp/po/ja.po | 
+ | [fi](/f25/language/fi) | 13280 | 92704 | 14.3 | /mnt/stockage/packages/f25/ghdl/gcc/po/fi.po/mnt/stockage/packages/f25/ghdl/libcpp/po/fi.po | 
+ | [da](/f25/language/da) | 9655 | 92704 | 10.4 | /mnt/stockage/packages/f25/ghdl/gcc/po/da.po/mnt/stockage/packages/f25/ghdl/libcpp/po/da.po | 
+ | [nl](/f25/language/nl) | 6071 | 92704 | 6.5 | /mnt/stockage/packages/f25/ghdl/gcc/po/nl.po/mnt/stockage/packages/f25/ghdl/libcpp/po/nl.po | 
+ | [uk](/f25/language/uk) | 2628 | 92704 | 2.8 | /mnt/stockage/packages/f25/ghdl/gcc/po/uk.po/mnt/stockage/packages/f25/ghdl/libcpp/po/uk.po | 
+ | [hr](/f25/language/hr) | 555 | 91350 | 0.6 | /mnt/stockage/packages/f25/ghdl/gcc/po/hr.po | 
+ | [be](/f25/language/be) | 276 | 92704 | 0.3 | /mnt/stockage/packages/f25/ghdl/gcc/po/be.po/mnt/stockage/packages/f25/ghdl/libcpp/po/be.po | 
+ | [el](/f25/language/el) | 192 | 92704 | 0.2 | /mnt/stockage/packages/f25/ghdl/gcc/po/el.po/mnt/stockage/packages/f25/ghdl/libcpp/po/el.po | 
 {.sortable}
 
 

@@ -18,10 +18,10 @@ The package grafana (version 9.0.9):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [en]({{< ref "/f37/language/en.md" >}}) | 148 | 148 | 100.0 | /mnt/stockage/packages/f37/grafana/public/locales/en/messages.po | 
- | [es]({{< ref "/f37/language/es.md" >}}) | 2 | 148 | 1.4 | /mnt/stockage/packages/f37/grafana/public/locales/es/messages.po | 
- | [fr]({{< ref "/f37/language/fr.md" >}}) | 2 | 148 | 1.4 | /mnt/stockage/packages/f37/grafana/public/locales/fr/messages.po | 
- | [error]({{< ref "/f37/language/error.md" >}}) | 0 | 148 | 0.0 | /mnt/stockage/packages/f37/grafana/public/locales/pseudo-LOCALE/messages.po | 
+ | [en](/f37/language/en) | 148 | 148 | 100.0 | /mnt/stockage/packages/f37/grafana/public/locales/en/messages.po | 
+ | [es](/f37/language/es) | 2 | 148 | 1.4 | /mnt/stockage/packages/f37/grafana/public/locales/es/messages.po | 
+ | [fr](/f37/language/fr) | 2 | 148 | 1.4 | /mnt/stockage/packages/f37/grafana/public/locales/fr/messages.po | 
+ | [error](/f37/language/error) | 0 | 148 | 0.0 | /mnt/stockage/packages/f37/grafana/public/locales/pseudo-LOCALE/messages.po | 
 {.sortable}
 
 

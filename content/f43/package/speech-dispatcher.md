@@ -18,18 +18,18 @@ The package speech-dispatcher (version 0.12.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [eo]({{< ref "/f43/language/eo.md" >}}) | 1436 | 1436 | 100.0 | /mnt/stockage/packages/f43/speech-dispatcher/po/eo.po | 
- | [hu]({{< ref "/f43/language/hu.md" >}}) | 1436 | 1436 | 100.0 | /mnt/stockage/packages/f43/speech-dispatcher/po/hu.po | 
- | [pt]({{< ref "/f43/language/pt.md" >}}) | 1436 | 1436 | 100.0 | /mnt/stockage/packages/f43/speech-dispatcher/po/pt.po | 
- | [pt_BR]({{< ref "/f43/language/pt_BR.md" >}}) | 1436 | 1436 | 100.0 | /mnt/stockage/packages/f43/speech-dispatcher/po/pt_BR.po | 
- | [ru]({{< ref "/f43/language/ru.md" >}}) | 1436 | 1436 | 100.0 | /mnt/stockage/packages/f43/speech-dispatcher/po/ru.po | 
- | [tr]({{< ref "/f43/language/tr.md" >}}) | 1436 | 1436 | 100.0 | /mnt/stockage/packages/f43/speech-dispatcher/po/tr.po | 
- | [fr]({{< ref "/f43/language/fr.md" >}}) | 1417 | 1436 | 98.7 | /mnt/stockage/packages/f43/speech-dispatcher/po/fr.po | 
- | [sv]({{< ref "/f43/language/sv.md" >}}) | 1391 | 1436 | 96.9 | /mnt/stockage/packages/f43/speech-dispatcher/po/sv.po | 
- | [de]({{< ref "/f43/language/de.md" >}}) | 1358 | 1436 | 94.6 | /mnt/stockage/packages/f43/speech-dispatcher/po/de.po | 
- | [nb_NO]({{< ref "/f43/language/nb_NO.md" >}}) | 815 | 1436 | 56.8 | /mnt/stockage/packages/f43/speech-dispatcher/po/nb_NO.po | 
- | [cs]({{< ref "/f43/language/cs.md" >}}) | 277 | 1436 | 19.3 | /mnt/stockage/packages/f43/speech-dispatcher/po/cs.po | 
- | [ka]({{< ref "/f43/language/ka.md" >}}) | 191 | 1436 | 13.3 | /mnt/stockage/packages/f43/speech-dispatcher/po/ka.po | 
+ | [eo](/f43/language/eo) | 1436 | 1436 | 100.0 | /mnt/stockage/packages/f43/speech-dispatcher/po/eo.po | 
+ | [hu](/f43/language/hu) | 1436 | 1436 | 100.0 | /mnt/stockage/packages/f43/speech-dispatcher/po/hu.po | 
+ | [pt](/f43/language/pt) | 1436 | 1436 | 100.0 | /mnt/stockage/packages/f43/speech-dispatcher/po/pt.po | 
+ | [pt_BR](/f43/language/pt_BR) | 1436 | 1436 | 100.0 | /mnt/stockage/packages/f43/speech-dispatcher/po/pt_BR.po | 
+ | [ru](/f43/language/ru) | 1436 | 1436 | 100.0 | /mnt/stockage/packages/f43/speech-dispatcher/po/ru.po | 
+ | [tr](/f43/language/tr) | 1436 | 1436 | 100.0 | /mnt/stockage/packages/f43/speech-dispatcher/po/tr.po | 
+ | [fr](/f43/language/fr) | 1417 | 1436 | 98.7 | /mnt/stockage/packages/f43/speech-dispatcher/po/fr.po | 
+ | [sv](/f43/language/sv) | 1391 | 1436 | 96.9 | /mnt/stockage/packages/f43/speech-dispatcher/po/sv.po | 
+ | [de](/f43/language/de) | 1358 | 1436 | 94.6 | /mnt/stockage/packages/f43/speech-dispatcher/po/de.po | 
+ | [nb_NO](/f43/language/nb_NO) | 815 | 1436 | 56.8 | /mnt/stockage/packages/f43/speech-dispatcher/po/nb_NO.po | 
+ | [cs](/f43/language/cs) | 277 | 1436 | 19.3 | /mnt/stockage/packages/f43/speech-dispatcher/po/cs.po | 
+ | [ka](/f43/language/ka) | 191 | 1436 | 13.3 | /mnt/stockage/packages/f43/speech-dispatcher/po/ka.po | 
 {.sortable}
 
 

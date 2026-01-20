@@ -18,7 +18,7 @@ The package zeitgeist-datahub (version 0.9.5):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [es]({{< ref "/f19/language/es.md" >}}) | 9 | 9 | 100.0 | /mnt/stockage/packages/f19/zeitgeist-datahub/po/es.po | 
+ | [es](/f19/language/es) | 9 | 9 | 100.0 | /mnt/stockage/packages/f19/zeitgeist-datahub/po/es.po | 
 {.sortable}
 
 

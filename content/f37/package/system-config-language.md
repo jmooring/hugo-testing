@@ -18,62 +18,62 @@ The package system-config-language (version 3.5.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f37/language/ca.md" >}}) | 197 | 215 | 91.6 | /mnt/stockage/packages/f37/system-config-language/po/ca.po | 
- | [cs]({{< ref "/f37/language/cs.md" >}}) | 197 | 215 | 91.6 | /mnt/stockage/packages/f37/system-config-language/po/cs.po | 
- | [da]({{< ref "/f37/language/da.md" >}}) | 197 | 215 | 91.6 | /mnt/stockage/packages/f37/system-config-language/po/da.po | 
- | [de]({{< ref "/f37/language/de.md" >}}) | 197 | 215 | 91.6 | /mnt/stockage/packages/f37/system-config-language/po/de.po | 
- | [es]({{< ref "/f37/language/es.md" >}}) | 197 | 215 | 91.6 | /mnt/stockage/packages/f37/system-config-language/po/es.po | 
- | [fi]({{< ref "/f37/language/fi.md" >}}) | 197 | 215 | 91.6 | /mnt/stockage/packages/f37/system-config-language/po/fi.po | 
- | [fr]({{< ref "/f37/language/fr.md" >}}) | 197 | 215 | 91.6 | /mnt/stockage/packages/f37/system-config-language/po/fr.po | 
- | [hu]({{< ref "/f37/language/hu.md" >}}) | 197 | 215 | 91.6 | /mnt/stockage/packages/f37/system-config-language/po/hu.po | 
- | [id]({{< ref "/f37/language/id.md" >}}) | 197 | 215 | 91.6 | /mnt/stockage/packages/f37/system-config-language/po/id.po | 
- | [it]({{< ref "/f37/language/it.md" >}}) | 197 | 215 | 91.6 | /mnt/stockage/packages/f37/system-config-language/po/it.po | 
- | [ja]({{< ref "/f37/language/ja.md" >}}) | 197 | 215 | 91.6 | /mnt/stockage/packages/f37/system-config-language/po/ja.po | 
- | [kk]({{< ref "/f37/language/kk.md" >}}) | 197 | 215 | 91.6 | /mnt/stockage/packages/f37/system-config-language/po/kk.po | 
- | [ko]({{< ref "/f37/language/ko.md" >}}) | 197 | 215 | 91.6 | /mnt/stockage/packages/f37/system-config-language/po/ko.po | 
- | [mr]({{< ref "/f37/language/mr.md" >}}) | 197 | 215 | 91.6 | /mnt/stockage/packages/f37/system-config-language/po/mr.po | 
- | [nl]({{< ref "/f37/language/nl.md" >}}) | 197 | 215 | 91.6 | /mnt/stockage/packages/f37/system-config-language/po/nl.po | 
- | [pl]({{< ref "/f37/language/pl.md" >}}) | 197 | 215 | 91.6 | /mnt/stockage/packages/f37/system-config-language/po/pl.po | 
- | [pt_BR]({{< ref "/f37/language/pt_BR.md" >}}) | 197 | 215 | 91.6 | /mnt/stockage/packages/f37/system-config-language/po/pt_BR.po | 
- | [ru]({{< ref "/f37/language/ru.md" >}}) | 197 | 215 | 91.6 | /mnt/stockage/packages/f37/system-config-language/po/ru.po | 
- | [sk]({{< ref "/f37/language/sk.md" >}}) | 197 | 215 | 91.6 | /mnt/stockage/packages/f37/system-config-language/po/sk.po | 
- | [sq]({{< ref "/f37/language/sq.md" >}}) | 197 | 215 | 91.6 | /mnt/stockage/packages/f37/system-config-language/po/sq.po | 
- | [sr]({{< ref "/f37/language/sr.md" >}}) | 197 | 215 | 91.6 | /mnt/stockage/packages/f37/system-config-language/po/sr.po | 
- | [sv]({{< ref "/f37/language/sv.md" >}}) | 197 | 215 | 91.6 | /mnt/stockage/packages/f37/system-config-language/po/sv.po | 
- | [uk]({{< ref "/f37/language/uk.md" >}}) | 197 | 215 | 91.6 | /mnt/stockage/packages/f37/system-config-language/po/uk.po | 
- | [zh_Hans]({{< ref "/f37/language/zh_Hans.md" >}}) | 197 | 215 | 91.6 | /mnt/stockage/packages/f37/system-config-language/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f37/language/zh_Hant.md" >}}) | 197 | 215 | 91.6 | /mnt/stockage/packages/f37/system-config-language/po/zh_TW.po | 
- | [mn]({{< ref "/f37/language/mn.md" >}}) | 193 | 215 | 89.8 | /mnt/stockage/packages/f37/system-config-language/po/mn.po | 
- | [lt]({{< ref "/f37/language/lt.md" >}}) | 162 | 215 | 75.3 | /mnt/stockage/packages/f37/system-config-language/po/lt.po | 
- | [ar]({{< ref "/f37/language/ar.md" >}}) | 114 | 215 | 53.0 | /mnt/stockage/packages/f37/system-config-language/po/ar.po | 
- | [th]({{< ref "/f37/language/th.md" >}}) | 101 | 215 | 47.0 | /mnt/stockage/packages/f37/system-config-language/po/th.po | 
- | [hi]({{< ref "/f37/language/hi.md" >}}) | 91 | 215 | 42.3 | /mnt/stockage/packages/f37/system-config-language/po/hi.po | 
- | [as]({{< ref "/f37/language/as.md" >}}) | 61 | 215 | 28.4 | /mnt/stockage/packages/f37/system-config-language/po/as.po | 
- | [bn_IN]({{< ref "/f37/language/bn_IN.md" >}}) | 61 | 215 | 28.4 | /mnt/stockage/packages/f37/system-config-language/po/bn_IN.po | 
- | [gu]({{< ref "/f37/language/gu.md" >}}) | 61 | 215 | 28.4 | /mnt/stockage/packages/f37/system-config-language/po/gu.po | 
- | [kn]({{< ref "/f37/language/kn.md" >}}) | 61 | 215 | 28.4 | /mnt/stockage/packages/f37/system-config-language/po/kn.po | 
- | [ml]({{< ref "/f37/language/ml.md" >}}) | 61 | 215 | 28.4 | /mnt/stockage/packages/f37/system-config-language/po/ml.po | 
- | [ta]({{< ref "/f37/language/ta.md" >}}) | 61 | 215 | 28.4 | /mnt/stockage/packages/f37/system-config-language/po/ta.po | 
- | [te]({{< ref "/f37/language/te.md" >}}) | 61 | 215 | 28.4 | /mnt/stockage/packages/f37/system-config-language/po/te.po | 
- | [ast]({{< ref "/f37/language/ast.md" >}}) | 60 | 215 | 27.9 | /mnt/stockage/packages/f37/system-config-language/po/ast.po | 
- | [bg]({{< ref "/f37/language/bg.md" >}}) | 60 | 215 | 27.9 | /mnt/stockage/packages/f37/system-config-language/po/bg.po | 
- | [bs]({{< ref "/f37/language/bs.md" >}}) | 60 | 215 | 27.9 | /mnt/stockage/packages/f37/system-config-language/po/bs.po | 
- | [el]({{< ref "/f37/language/el.md" >}}) | 60 | 215 | 27.9 | /mnt/stockage/packages/f37/system-config-language/po/el.po | 
- | [en_GB]({{< ref "/f37/language/en_GB.md" >}}) | 60 | 215 | 27.9 | /mnt/stockage/packages/f37/system-config-language/po/en_GB.po | 
- | [fa]({{< ref "/f37/language/fa.md" >}}) | 60 | 215 | 27.9 | /mnt/stockage/packages/f37/system-config-language/po/fa.po | 
- | [ia]({{< ref "/f37/language/ia.md" >}}) | 60 | 215 | 27.9 | /mnt/stockage/packages/f37/system-config-language/po/ia.po | 
- | [mai]({{< ref "/f37/language/mai.md" >}}) | 60 | 215 | 27.9 | /mnt/stockage/packages/f37/system-config-language/po/mai.po | 
- | [nb_NO]({{< ref "/f37/language/nb_NO.md" >}}) | 60 | 215 | 27.9 | /mnt/stockage/packages/f37/system-config-language/po/nb.po | 
- | [nds]({{< ref "/f37/language/nds.md" >}}) | 60 | 215 | 27.9 | /mnt/stockage/packages/f37/system-config-language/po/nds.po | 
- | [or]({{< ref "/f37/language/or.md" >}}) | 60 | 215 | 27.9 | /mnt/stockage/packages/f37/system-config-language/po/or.po | 
- | [pa]({{< ref "/f37/language/pa.md" >}}) | 60 | 215 | 27.9 | /mnt/stockage/packages/f37/system-config-language/po/pa.po | 
- | [pt]({{< ref "/f37/language/pt.md" >}}) | 60 | 215 | 27.9 | /mnt/stockage/packages/f37/system-config-language/po/pt.po | 
- | [sr_Latn]({{< ref "/f37/language/sr_Latn.md" >}}) | 60 | 215 | 27.9 | /mnt/stockage/packages/f37/system-config-language/po/sr@latin.po | 
- | [tr]({{< ref "/f37/language/tr.md" >}}) | 60 | 215 | 27.9 | /mnt/stockage/packages/f37/system-config-language/po/tr.po | 
- | [he]({{< ref "/f37/language/he.md" >}}) | 57 | 215 | 26.5 | /mnt/stockage/packages/f37/system-config-language/po/he.po | 
- | [is]({{< ref "/f37/language/is.md" >}}) | 52 | 215 | 24.2 | /mnt/stockage/packages/f37/system-config-language/po/is.po | 
- | [error]({{< ref "/f37/language/error.md" >}}) | 47 | 215 | 21.9 | /mnt/stockage/packages/f37/system-config-language/po/ks@devanagari.po | 
- | [bn]({{< ref "/f37/language/bn.md" >}}) | 36 | 215 | 16.7 | /mnt/stockage/packages/f37/system-config-language/po/bn.po | 
+ | [ca](/f37/language/ca) | 197 | 215 | 91.6 | /mnt/stockage/packages/f37/system-config-language/po/ca.po | 
+ | [cs](/f37/language/cs) | 197 | 215 | 91.6 | /mnt/stockage/packages/f37/system-config-language/po/cs.po | 
+ | [da](/f37/language/da) | 197 | 215 | 91.6 | /mnt/stockage/packages/f37/system-config-language/po/da.po | 
+ | [de](/f37/language/de) | 197 | 215 | 91.6 | /mnt/stockage/packages/f37/system-config-language/po/de.po | 
+ | [es](/f37/language/es) | 197 | 215 | 91.6 | /mnt/stockage/packages/f37/system-config-language/po/es.po | 
+ | [fi](/f37/language/fi) | 197 | 215 | 91.6 | /mnt/stockage/packages/f37/system-config-language/po/fi.po | 
+ | [fr](/f37/language/fr) | 197 | 215 | 91.6 | /mnt/stockage/packages/f37/system-config-language/po/fr.po | 
+ | [hu](/f37/language/hu) | 197 | 215 | 91.6 | /mnt/stockage/packages/f37/system-config-language/po/hu.po | 
+ | [id](/f37/language/id) | 197 | 215 | 91.6 | /mnt/stockage/packages/f37/system-config-language/po/id.po | 
+ | [it](/f37/language/it) | 197 | 215 | 91.6 | /mnt/stockage/packages/f37/system-config-language/po/it.po | 
+ | [ja](/f37/language/ja) | 197 | 215 | 91.6 | /mnt/stockage/packages/f37/system-config-language/po/ja.po | 
+ | [kk](/f37/language/kk) | 197 | 215 | 91.6 | /mnt/stockage/packages/f37/system-config-language/po/kk.po | 
+ | [ko](/f37/language/ko) | 197 | 215 | 91.6 | /mnt/stockage/packages/f37/system-config-language/po/ko.po | 
+ | [mr](/f37/language/mr) | 197 | 215 | 91.6 | /mnt/stockage/packages/f37/system-config-language/po/mr.po | 
+ | [nl](/f37/language/nl) | 197 | 215 | 91.6 | /mnt/stockage/packages/f37/system-config-language/po/nl.po | 
+ | [pl](/f37/language/pl) | 197 | 215 | 91.6 | /mnt/stockage/packages/f37/system-config-language/po/pl.po | 
+ | [pt_BR](/f37/language/pt_BR) | 197 | 215 | 91.6 | /mnt/stockage/packages/f37/system-config-language/po/pt_BR.po | 
+ | [ru](/f37/language/ru) | 197 | 215 | 91.6 | /mnt/stockage/packages/f37/system-config-language/po/ru.po | 
+ | [sk](/f37/language/sk) | 197 | 215 | 91.6 | /mnt/stockage/packages/f37/system-config-language/po/sk.po | 
+ | [sq](/f37/language/sq) | 197 | 215 | 91.6 | /mnt/stockage/packages/f37/system-config-language/po/sq.po | 
+ | [sr](/f37/language/sr) | 197 | 215 | 91.6 | /mnt/stockage/packages/f37/system-config-language/po/sr.po | 
+ | [sv](/f37/language/sv) | 197 | 215 | 91.6 | /mnt/stockage/packages/f37/system-config-language/po/sv.po | 
+ | [uk](/f37/language/uk) | 197 | 215 | 91.6 | /mnt/stockage/packages/f37/system-config-language/po/uk.po | 
+ | [zh_Hans](/f37/language/zh_Hans) | 197 | 215 | 91.6 | /mnt/stockage/packages/f37/system-config-language/po/zh_CN.po | 
+ | [zh_Hant](/f37/language/zh_Hant) | 197 | 215 | 91.6 | /mnt/stockage/packages/f37/system-config-language/po/zh_TW.po | 
+ | [mn](/f37/language/mn) | 193 | 215 | 89.8 | /mnt/stockage/packages/f37/system-config-language/po/mn.po | 
+ | [lt](/f37/language/lt) | 162 | 215 | 75.3 | /mnt/stockage/packages/f37/system-config-language/po/lt.po | 
+ | [ar](/f37/language/ar) | 114 | 215 | 53.0 | /mnt/stockage/packages/f37/system-config-language/po/ar.po | 
+ | [th](/f37/language/th) | 101 | 215 | 47.0 | /mnt/stockage/packages/f37/system-config-language/po/th.po | 
+ | [hi](/f37/language/hi) | 91 | 215 | 42.3 | /mnt/stockage/packages/f37/system-config-language/po/hi.po | 
+ | [as](/f37/language/as) | 61 | 215 | 28.4 | /mnt/stockage/packages/f37/system-config-language/po/as.po | 
+ | [bn_IN](/f37/language/bn_IN) | 61 | 215 | 28.4 | /mnt/stockage/packages/f37/system-config-language/po/bn_IN.po | 
+ | [gu](/f37/language/gu) | 61 | 215 | 28.4 | /mnt/stockage/packages/f37/system-config-language/po/gu.po | 
+ | [kn](/f37/language/kn) | 61 | 215 | 28.4 | /mnt/stockage/packages/f37/system-config-language/po/kn.po | 
+ | [ml](/f37/language/ml) | 61 | 215 | 28.4 | /mnt/stockage/packages/f37/system-config-language/po/ml.po | 
+ | [ta](/f37/language/ta) | 61 | 215 | 28.4 | /mnt/stockage/packages/f37/system-config-language/po/ta.po | 
+ | [te](/f37/language/te) | 61 | 215 | 28.4 | /mnt/stockage/packages/f37/system-config-language/po/te.po | 
+ | [ast](/f37/language/ast) | 60 | 215 | 27.9 | /mnt/stockage/packages/f37/system-config-language/po/ast.po | 
+ | [bg](/f37/language/bg) | 60 | 215 | 27.9 | /mnt/stockage/packages/f37/system-config-language/po/bg.po | 
+ | [bs](/f37/language/bs) | 60 | 215 | 27.9 | /mnt/stockage/packages/f37/system-config-language/po/bs.po | 
+ | [el](/f37/language/el) | 60 | 215 | 27.9 | /mnt/stockage/packages/f37/system-config-language/po/el.po | 
+ | [en_GB](/f37/language/en_GB) | 60 | 215 | 27.9 | /mnt/stockage/packages/f37/system-config-language/po/en_GB.po | 
+ | [fa](/f37/language/fa) | 60 | 215 | 27.9 | /mnt/stockage/packages/f37/system-config-language/po/fa.po | 
+ | [ia](/f37/language/ia) | 60 | 215 | 27.9 | /mnt/stockage/packages/f37/system-config-language/po/ia.po | 
+ | [mai](/f37/language/mai) | 60 | 215 | 27.9 | /mnt/stockage/packages/f37/system-config-language/po/mai.po | 
+ | [nb_NO](/f37/language/nb_NO) | 60 | 215 | 27.9 | /mnt/stockage/packages/f37/system-config-language/po/nb.po | 
+ | [nds](/f37/language/nds) | 60 | 215 | 27.9 | /mnt/stockage/packages/f37/system-config-language/po/nds.po | 
+ | [or](/f37/language/or) | 60 | 215 | 27.9 | /mnt/stockage/packages/f37/system-config-language/po/or.po | 
+ | [pa](/f37/language/pa) | 60 | 215 | 27.9 | /mnt/stockage/packages/f37/system-config-language/po/pa.po | 
+ | [pt](/f37/language/pt) | 60 | 215 | 27.9 | /mnt/stockage/packages/f37/system-config-language/po/pt.po | 
+ | [sr_Latn](/f37/language/sr_Latn) | 60 | 215 | 27.9 | /mnt/stockage/packages/f37/system-config-language/po/sr@latin.po | 
+ | [tr](/f37/language/tr) | 60 | 215 | 27.9 | /mnt/stockage/packages/f37/system-config-language/po/tr.po | 
+ | [he](/f37/language/he) | 57 | 215 | 26.5 | /mnt/stockage/packages/f37/system-config-language/po/he.po | 
+ | [is](/f37/language/is) | 52 | 215 | 24.2 | /mnt/stockage/packages/f37/system-config-language/po/is.po | 
+ | [error](/f37/language/error) | 47 | 215 | 21.9 | /mnt/stockage/packages/f37/system-config-language/po/ks@devanagari.po | 
+ | [bn](/f37/language/bn) | 36 | 215 | 16.7 | /mnt/stockage/packages/f37/system-config-language/po/bn.po | 
 {.sortable}
 
 

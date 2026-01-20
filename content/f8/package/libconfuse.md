@@ -18,7 +18,7 @@ The package libconfuse (version 2.5):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [sv]({{< ref "/f8/language/sv.md" >}}) | 115 | 115 | 100.0 | /mnt/stockage/packages/f8/libconfuse/po/sv.po | 
+ | [sv](/f8/language/sv) | 115 | 115 | 100.0 | /mnt/stockage/packages/f8/libconfuse/po/sv.po | 
 {.sortable}
 
 

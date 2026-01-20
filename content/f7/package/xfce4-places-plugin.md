@@ -18,42 +18,42 @@ The package xfce4-places-plugin (version 1.0.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fi]({{< ref "/f7/language/fi.md" >}}) | 55 | 55 | 100.0 | /mnt/stockage/packages/f7/xfce4-places-plugin/po/fi.po | 
- | [fr]({{< ref "/f7/language/fr.md" >}}) | 43 | 43 | 100.0 | /mnt/stockage/packages/f7/xfce4-places-plugin/po/fr.po | 
- | [nb_NO]({{< ref "/f7/language/nb_NO.md" >}}) | 48 | 48 | 100.0 | /mnt/stockage/packages/f7/xfce4-places-plugin/po/nb_NO.po | 
- | [cs]({{< ref "/f7/language/cs.md" >}}) | 13 | 43 | 30.2 | /mnt/stockage/packages/f7/xfce4-places-plugin/po/cs.po | 
- | [hu]({{< ref "/f7/language/hu.md" >}}) | 13 | 43 | 30.2 | /mnt/stockage/packages/f7/xfce4-places-plugin/po/hu.po | 
- | [be]({{< ref "/f7/language/be.md" >}}) | 7 | 43 | 16.3 | /mnt/stockage/packages/f7/xfce4-places-plugin/po/be.po | 
- | [ca]({{< ref "/f7/language/ca.md" >}}) | 7 | 43 | 16.3 | /mnt/stockage/packages/f7/xfce4-places-plugin/po/ca.po | 
- | [de]({{< ref "/f7/language/de.md" >}}) | 7 | 43 | 16.3 | /mnt/stockage/packages/f7/xfce4-places-plugin/po/de.po | 
- | [dz]({{< ref "/f7/language/dz.md" >}}) | 7 | 43 | 16.3 | /mnt/stockage/packages/f7/xfce4-places-plugin/po/dz.po | 
- | [el]({{< ref "/f7/language/el.md" >}}) | 7 | 43 | 16.3 | /mnt/stockage/packages/f7/xfce4-places-plugin/po/el.po | 
- | [en_GB]({{< ref "/f7/language/en_GB.md" >}}) | 7 | 43 | 16.3 | /mnt/stockage/packages/f7/xfce4-places-plugin/po/en_GB.po | 
- | [eu]({{< ref "/f7/language/eu.md" >}}) | 7 | 43 | 16.3 | /mnt/stockage/packages/f7/xfce4-places-plugin/po/eu.po | 
- | [he]({{< ref "/f7/language/he.md" >}}) | 7 | 43 | 16.3 | /mnt/stockage/packages/f7/xfce4-places-plugin/po/he.po | 
- | [it]({{< ref "/f7/language/it.md" >}}) | 7 | 43 | 16.3 | /mnt/stockage/packages/f7/xfce4-places-plugin/po/it.po | 
- | [ja]({{< ref "/f7/language/ja.md" >}}) | 7 | 43 | 16.3 | /mnt/stockage/packages/f7/xfce4-places-plugin/po/ja.po | 
- | [ko]({{< ref "/f7/language/ko.md" >}}) | 7 | 43 | 16.3 | /mnt/stockage/packages/f7/xfce4-places-plugin/po/ko.po | 
- | [mk]({{< ref "/f7/language/mk.md" >}}) | 7 | 43 | 16.3 | /mnt/stockage/packages/f7/xfce4-places-plugin/po/mk.po | 
- | [nl]({{< ref "/f7/language/nl.md" >}}) | 7 | 43 | 16.3 | /mnt/stockage/packages/f7/xfce4-places-plugin/po/nl.po | 
- | [pa]({{< ref "/f7/language/pa.md" >}}) | 7 | 43 | 16.3 | /mnt/stockage/packages/f7/xfce4-places-plugin/po/pa.po | 
- | [pl]({{< ref "/f7/language/pl.md" >}}) | 7 | 43 | 16.3 | /mnt/stockage/packages/f7/xfce4-places-plugin/po/pl.po | 
- | [pt_BR]({{< ref "/f7/language/pt_BR.md" >}}) | 7 | 43 | 16.3 | /mnt/stockage/packages/f7/xfce4-places-plugin/po/pt_BR.po | 
- | [ro]({{< ref "/f7/language/ro.md" >}}) | 7 | 43 | 16.3 | /mnt/stockage/packages/f7/xfce4-places-plugin/po/ro.po | 
- | [ru]({{< ref "/f7/language/ru.md" >}}) | 7 | 43 | 16.3 | /mnt/stockage/packages/f7/xfce4-places-plugin/po/ru.po | 
- | [sq]({{< ref "/f7/language/sq.md" >}}) | 7 | 43 | 16.3 | /mnt/stockage/packages/f7/xfce4-places-plugin/po/sq.po | 
- | [sv]({{< ref "/f7/language/sv.md" >}}) | 7 | 43 | 16.3 | /mnt/stockage/packages/f7/xfce4-places-plugin/po/sv.po | 
- | [tr]({{< ref "/f7/language/tr.md" >}}) | 7 | 43 | 16.3 | /mnt/stockage/packages/f7/xfce4-places-plugin/po/tr.po | 
- | [uk]({{< ref "/f7/language/uk.md" >}}) | 7 | 43 | 16.3 | /mnt/stockage/packages/f7/xfce4-places-plugin/po/uk.po | 
- | [zh_Hans]({{< ref "/f7/language/zh_Hans.md" >}}) | 7 | 43 | 16.3 | /mnt/stockage/packages/f7/xfce4-places-plugin/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f7/language/zh_Hant.md" >}}) | 7 | 43 | 16.3 | /mnt/stockage/packages/f7/xfce4-places-plugin/po/zh_TW.po | 
- | [ar]({{< ref "/f7/language/ar.md" >}}) | 6 | 43 | 14.0 | /mnt/stockage/packages/f7/xfce4-places-plugin/po/ar.po | 
- | [es]({{< ref "/f7/language/es.md" >}}) | 6 | 43 | 14.0 | /mnt/stockage/packages/f7/xfce4-places-plugin/po/es.po | 
- | [et]({{< ref "/f7/language/et.md" >}}) | 6 | 43 | 14.0 | /mnt/stockage/packages/f7/xfce4-places-plugin/po/et.po | 
- | [gl]({{< ref "/f7/language/gl.md" >}}) | 6 | 43 | 14.0 | /mnt/stockage/packages/f7/xfce4-places-plugin/po/gl.po | 
- | [eo]({{< ref "/f7/language/eo.md" >}}) | 4 | 43 | 9.3 | /mnt/stockage/packages/f7/xfce4-places-plugin/po/eo.po | 
- | [ka]({{< ref "/f7/language/ka.md" >}}) | 4 | 43 | 9.3 | /mnt/stockage/packages/f7/xfce4-places-plugin/po/ka.po | 
- | [lt]({{< ref "/f7/language/lt.md" >}}) | 4 | 43 | 9.3 | /mnt/stockage/packages/f7/xfce4-places-plugin/po/lt.po | 
+ | [fi](/f7/language/fi) | 55 | 55 | 100.0 | /mnt/stockage/packages/f7/xfce4-places-plugin/po/fi.po | 
+ | [fr](/f7/language/fr) | 43 | 43 | 100.0 | /mnt/stockage/packages/f7/xfce4-places-plugin/po/fr.po | 
+ | [nb_NO](/f7/language/nb_NO) | 48 | 48 | 100.0 | /mnt/stockage/packages/f7/xfce4-places-plugin/po/nb_NO.po | 
+ | [cs](/f7/language/cs) | 13 | 43 | 30.2 | /mnt/stockage/packages/f7/xfce4-places-plugin/po/cs.po | 
+ | [hu](/f7/language/hu) | 13 | 43 | 30.2 | /mnt/stockage/packages/f7/xfce4-places-plugin/po/hu.po | 
+ | [be](/f7/language/be) | 7 | 43 | 16.3 | /mnt/stockage/packages/f7/xfce4-places-plugin/po/be.po | 
+ | [ca](/f7/language/ca) | 7 | 43 | 16.3 | /mnt/stockage/packages/f7/xfce4-places-plugin/po/ca.po | 
+ | [de](/f7/language/de) | 7 | 43 | 16.3 | /mnt/stockage/packages/f7/xfce4-places-plugin/po/de.po | 
+ | [dz](/f7/language/dz) | 7 | 43 | 16.3 | /mnt/stockage/packages/f7/xfce4-places-plugin/po/dz.po | 
+ | [el](/f7/language/el) | 7 | 43 | 16.3 | /mnt/stockage/packages/f7/xfce4-places-plugin/po/el.po | 
+ | [en_GB](/f7/language/en_GB) | 7 | 43 | 16.3 | /mnt/stockage/packages/f7/xfce4-places-plugin/po/en_GB.po | 
+ | [eu](/f7/language/eu) | 7 | 43 | 16.3 | /mnt/stockage/packages/f7/xfce4-places-plugin/po/eu.po | 
+ | [he](/f7/language/he) | 7 | 43 | 16.3 | /mnt/stockage/packages/f7/xfce4-places-plugin/po/he.po | 
+ | [it](/f7/language/it) | 7 | 43 | 16.3 | /mnt/stockage/packages/f7/xfce4-places-plugin/po/it.po | 
+ | [ja](/f7/language/ja) | 7 | 43 | 16.3 | /mnt/stockage/packages/f7/xfce4-places-plugin/po/ja.po | 
+ | [ko](/f7/language/ko) | 7 | 43 | 16.3 | /mnt/stockage/packages/f7/xfce4-places-plugin/po/ko.po | 
+ | [mk](/f7/language/mk) | 7 | 43 | 16.3 | /mnt/stockage/packages/f7/xfce4-places-plugin/po/mk.po | 
+ | [nl](/f7/language/nl) | 7 | 43 | 16.3 | /mnt/stockage/packages/f7/xfce4-places-plugin/po/nl.po | 
+ | [pa](/f7/language/pa) | 7 | 43 | 16.3 | /mnt/stockage/packages/f7/xfce4-places-plugin/po/pa.po | 
+ | [pl](/f7/language/pl) | 7 | 43 | 16.3 | /mnt/stockage/packages/f7/xfce4-places-plugin/po/pl.po | 
+ | [pt_BR](/f7/language/pt_BR) | 7 | 43 | 16.3 | /mnt/stockage/packages/f7/xfce4-places-plugin/po/pt_BR.po | 
+ | [ro](/f7/language/ro) | 7 | 43 | 16.3 | /mnt/stockage/packages/f7/xfce4-places-plugin/po/ro.po | 
+ | [ru](/f7/language/ru) | 7 | 43 | 16.3 | /mnt/stockage/packages/f7/xfce4-places-plugin/po/ru.po | 
+ | [sq](/f7/language/sq) | 7 | 43 | 16.3 | /mnt/stockage/packages/f7/xfce4-places-plugin/po/sq.po | 
+ | [sv](/f7/language/sv) | 7 | 43 | 16.3 | /mnt/stockage/packages/f7/xfce4-places-plugin/po/sv.po | 
+ | [tr](/f7/language/tr) | 7 | 43 | 16.3 | /mnt/stockage/packages/f7/xfce4-places-plugin/po/tr.po | 
+ | [uk](/f7/language/uk) | 7 | 43 | 16.3 | /mnt/stockage/packages/f7/xfce4-places-plugin/po/uk.po | 
+ | [zh_Hans](/f7/language/zh_Hans) | 7 | 43 | 16.3 | /mnt/stockage/packages/f7/xfce4-places-plugin/po/zh_CN.po | 
+ | [zh_Hant](/f7/language/zh_Hant) | 7 | 43 | 16.3 | /mnt/stockage/packages/f7/xfce4-places-plugin/po/zh_TW.po | 
+ | [ar](/f7/language/ar) | 6 | 43 | 14.0 | /mnt/stockage/packages/f7/xfce4-places-plugin/po/ar.po | 
+ | [es](/f7/language/es) | 6 | 43 | 14.0 | /mnt/stockage/packages/f7/xfce4-places-plugin/po/es.po | 
+ | [et](/f7/language/et) | 6 | 43 | 14.0 | /mnt/stockage/packages/f7/xfce4-places-plugin/po/et.po | 
+ | [gl](/f7/language/gl) | 6 | 43 | 14.0 | /mnt/stockage/packages/f7/xfce4-places-plugin/po/gl.po | 
+ | [eo](/f7/language/eo) | 4 | 43 | 9.3 | /mnt/stockage/packages/f7/xfce4-places-plugin/po/eo.po | 
+ | [ka](/f7/language/ka) | 4 | 43 | 9.3 | /mnt/stockage/packages/f7/xfce4-places-plugin/po/ka.po | 
+ | [lt](/f7/language/lt) | 4 | 43 | 9.3 | /mnt/stockage/packages/f7/xfce4-places-plugin/po/lt.po | 
 {.sortable}
 
 

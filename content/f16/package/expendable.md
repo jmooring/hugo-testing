@@ -18,17 +18,17 @@ The package expendable (version 0.0.9):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [en_GB]({{< ref "/f16/language/en_GB.md" >}}) | 226 | 226 | 100.0 | /mnt/stockage/packages/f16/expendable/po/en_GB.po | 
- | [es]({{< ref "/f16/language/es.md" >}}) | 226 | 226 | 100.0 | /mnt/stockage/packages/f16/expendable/po/es.po | 
- | [it]({{< ref "/f16/language/it.md" >}}) | 226 | 226 | 100.0 | /mnt/stockage/packages/f16/expendable/po/it.po | 
- | [ja]({{< ref "/f16/language/ja.md" >}}) | 226 | 226 | 100.0 | /mnt/stockage/packages/f16/expendable/po/ja.po | 
- | [pl]({{< ref "/f16/language/pl.md" >}}) | 226 | 226 | 100.0 | /mnt/stockage/packages/f16/expendable/po/pl.po | 
- | [pt_BR]({{< ref "/f16/language/pt_BR.md" >}}) | 226 | 226 | 100.0 | /mnt/stockage/packages/f16/expendable/po/pt_BR.po | 
- | [de]({{< ref "/f16/language/de.md" >}}) | 191 | 226 | 84.5 | /mnt/stockage/packages/f16/expendable/po/de.po | 
- | [hu]({{< ref "/f16/language/hu.md" >}}) | 125 | 226 | 55.3 | /mnt/stockage/packages/f16/expendable/po/hu.po | 
- | [zh_Hans]({{< ref "/f16/language/zh_Hans.md" >}}) | 116 | 226 | 51.3 | /mnt/stockage/packages/f16/expendable/po/zh_CN.po | 
- | [ms]({{< ref "/f16/language/ms.md" >}}) | 15 | 226 | 6.6 | /mnt/stockage/packages/f16/expendable/po/ms.po | 
- | [nl]({{< ref "/f16/language/nl.md" >}}) | 0 | 226 | 0.0 | /mnt/stockage/packages/f16/expendable/po/nl.po | 
+ | [en_GB](/f16/language/en_GB) | 226 | 226 | 100.0 | /mnt/stockage/packages/f16/expendable/po/en_GB.po | 
+ | [es](/f16/language/es) | 226 | 226 | 100.0 | /mnt/stockage/packages/f16/expendable/po/es.po | 
+ | [it](/f16/language/it) | 226 | 226 | 100.0 | /mnt/stockage/packages/f16/expendable/po/it.po | 
+ | [ja](/f16/language/ja) | 226 | 226 | 100.0 | /mnt/stockage/packages/f16/expendable/po/ja.po | 
+ | [pl](/f16/language/pl) | 226 | 226 | 100.0 | /mnt/stockage/packages/f16/expendable/po/pl.po | 
+ | [pt_BR](/f16/language/pt_BR) | 226 | 226 | 100.0 | /mnt/stockage/packages/f16/expendable/po/pt_BR.po | 
+ | [de](/f16/language/de) | 191 | 226 | 84.5 | /mnt/stockage/packages/f16/expendable/po/de.po | 
+ | [hu](/f16/language/hu) | 125 | 226 | 55.3 | /mnt/stockage/packages/f16/expendable/po/hu.po | 
+ | [zh_Hans](/f16/language/zh_Hans) | 116 | 226 | 51.3 | /mnt/stockage/packages/f16/expendable/po/zh_CN.po | 
+ | [ms](/f16/language/ms) | 15 | 226 | 6.6 | /mnt/stockage/packages/f16/expendable/po/ms.po | 
+ | [nl](/f16/language/nl) | 0 | 226 | 0.0 | /mnt/stockage/packages/f16/expendable/po/nl.po | 
 {.sortable}
 
 

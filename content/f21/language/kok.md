@@ -38,9 +38,9 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [gnucash]({{< ref "/f21/package/gnucash.md" >}}) | 29203 | 29737 | 98.2 | NONE | 
- | [libreoffice]({{< ref "/f21/package/libreoffice.md" >}}) | 58855 | 98132 | 60.0 | LANGUAGE <LL@li.org> | 
- | [iso-codes]({{< ref "/f21/package/iso-codes.md" >}}) | 250 | 14670 | 1.7 | Konkani | 
+ | [gnucash](/f21/package/gnucash) | 29203 | 29737 | 98.2 | NONE | 
+ | [libreoffice](/f21/package/libreoffice) | 58855 | 98132 | 60.0 | LANGUAGE <LL@li.org> | 
+ | [iso-codes](/f21/package/iso-codes) | 250 | 14670 | 1.7 | Konkani | 
 {.sortable}
 
 

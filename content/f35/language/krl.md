@@ -38,9 +38,9 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [supertuxkart]({{< ref "/f35/package/supertuxkart.md" >}}) | 2417 | 5918 | 40.8 | Karelian (http://www.transifex.com/supertuxkart/supertuxkart/language/krl/) | 
- | [widelands]({{< ref "/f35/package/widelands.md" >}}) | 79 | 71321 | 0.1 | Karelian (http://www.transifex.com/widelands/widelands/language/krl/) | 
- | [stellarium]({{< ref "/f35/package/stellarium.md" >}}) | 0 | 150019 | 0.0 | Karelian (https://www.transifex.com/stellarium/teams/80998/krl/) | 
+ | [supertuxkart](/f35/package/supertuxkart) | 2417 | 5918 | 40.8 | Karelian (http://www.transifex.com/supertuxkart/supertuxkart/language/krl/) | 
+ | [widelands](/f35/package/widelands) | 79 | 71321 | 0.1 | Karelian (http://www.transifex.com/widelands/widelands/language/krl/) | 
+ | [stellarium](/f35/package/stellarium) | 0 | 150019 | 0.0 | Karelian (https://www.transifex.com/stellarium/teams/80998/krl/) | 
 {.sortable}
 
 

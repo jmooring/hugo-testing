@@ -18,9 +18,9 @@ The package fcitx-libpinyin (version 0.2.92):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ja]({{< ref "/f18/language/ja.md" >}}) | 118 | 118 | 100.0 | /mnt/stockage/packages/f18/fcitx-libpinyin/po/ja.po | 
- | [zh_Hans]({{< ref "/f18/language/zh_Hans.md" >}}) | 118 | 118 | 100.0 | /mnt/stockage/packages/f18/fcitx-libpinyin/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f18/language/zh_Hant.md" >}}) | 118 | 118 | 100.0 | /mnt/stockage/packages/f18/fcitx-libpinyin/po/zh_TW.po | 
+ | [ja](/f18/language/ja) | 118 | 118 | 100.0 | /mnt/stockage/packages/f18/fcitx-libpinyin/po/ja.po | 
+ | [zh_Hans](/f18/language/zh_Hans) | 118 | 118 | 100.0 | /mnt/stockage/packages/f18/fcitx-libpinyin/po/zh_CN.po | 
+ | [zh_Hant](/f18/language/zh_Hant) | 118 | 118 | 100.0 | /mnt/stockage/packages/f18/fcitx-libpinyin/po/zh_TW.po | 
 {.sortable}
 
 

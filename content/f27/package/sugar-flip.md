@@ -18,20 +18,20 @@ The package sugar-flip (version 9):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ayc]({{< ref "/f27/language/ayc.md" >}}) | 17 | 17 | 100.0 | /mnt/stockage/packages/f27/sugar-flip/po/ayc.po | 
- | [da]({{< ref "/f27/language/da.md" >}}) | 17 | 17 | 100.0 | /mnt/stockage/packages/f27/sugar-flip/po/da.po | 
- | [en]({{< ref "/f27/language/en.md" >}}) | 17 | 17 | 100.0 | /mnt/stockage/packages/f27/sugar-flip/po/en.po | 
- | [en_GB]({{< ref "/f27/language/en_GB.md" >}}) | 17 | 17 | 100.0 | /mnt/stockage/packages/f27/sugar-flip/po/en_GB.po | 
- | [en_US]({{< ref "/f27/language/en_US.md" >}}) | 17 | 17 | 100.0 | /mnt/stockage/packages/f27/sugar-flip/po/en_US.po | 
- | [es]({{< ref "/f27/language/es.md" >}}) | 17 | 17 | 100.0 | /mnt/stockage/packages/f27/sugar-flip/po/es.po | 
- | [hy]({{< ref "/f27/language/hy.md" >}}) | 17 | 17 | 100.0 | /mnt/stockage/packages/f27/sugar-flip/po/hy.po | 
- | [nl]({{< ref "/f27/language/nl.md" >}}) | 17 | 17 | 100.0 | /mnt/stockage/packages/f27/sugar-flip/po/nl.po | 
- | [zh_Hans]({{< ref "/f27/language/zh_Hans.md" >}}) | 17 | 17 | 100.0 | /mnt/stockage/packages/f27/sugar-flip/po/zh_CN.po | 
- | [pl]({{< ref "/f27/language/pl.md" >}}) | 16 | 17 | 94.1 | /mnt/stockage/packages/f27/sugar-flip/po/pl.po | 
- | [de]({{< ref "/f27/language/de.md" >}}) | 13 | 17 | 76.5 | /mnt/stockage/packages/f27/sugar-flip/po/de.po | 
- | [pt]({{< ref "/f27/language/pt.md" >}}) | 13 | 17 | 76.5 | /mnt/stockage/packages/f27/sugar-flip/po/pt.po | 
- | [th]({{< ref "/f27/language/th.md" >}}) | 13 | 17 | 76.5 | /mnt/stockage/packages/f27/sugar-flip/po/th.po | 
- | [rw]({{< ref "/f27/language/rw.md" >}}) | 10 | 17 | 58.8 | /mnt/stockage/packages/f27/sugar-flip/po/rw.po | 
+ | [ayc](/f27/language/ayc) | 17 | 17 | 100.0 | /mnt/stockage/packages/f27/sugar-flip/po/ayc.po | 
+ | [da](/f27/language/da) | 17 | 17 | 100.0 | /mnt/stockage/packages/f27/sugar-flip/po/da.po | 
+ | [en](/f27/language/en) | 17 | 17 | 100.0 | /mnt/stockage/packages/f27/sugar-flip/po/en.po | 
+ | [en_GB](/f27/language/en_GB) | 17 | 17 | 100.0 | /mnt/stockage/packages/f27/sugar-flip/po/en_GB.po | 
+ | [en_US](/f27/language/en_US) | 17 | 17 | 100.0 | /mnt/stockage/packages/f27/sugar-flip/po/en_US.po | 
+ | [es](/f27/language/es) | 17 | 17 | 100.0 | /mnt/stockage/packages/f27/sugar-flip/po/es.po | 
+ | [hy](/f27/language/hy) | 17 | 17 | 100.0 | /mnt/stockage/packages/f27/sugar-flip/po/hy.po | 
+ | [nl](/f27/language/nl) | 17 | 17 | 100.0 | /mnt/stockage/packages/f27/sugar-flip/po/nl.po | 
+ | [zh_Hans](/f27/language/zh_Hans) | 17 | 17 | 100.0 | /mnt/stockage/packages/f27/sugar-flip/po/zh_CN.po | 
+ | [pl](/f27/language/pl) | 16 | 17 | 94.1 | /mnt/stockage/packages/f27/sugar-flip/po/pl.po | 
+ | [de](/f27/language/de) | 13 | 17 | 76.5 | /mnt/stockage/packages/f27/sugar-flip/po/de.po | 
+ | [pt](/f27/language/pt) | 13 | 17 | 76.5 | /mnt/stockage/packages/f27/sugar-flip/po/pt.po | 
+ | [th](/f27/language/th) | 13 | 17 | 76.5 | /mnt/stockage/packages/f27/sugar-flip/po/th.po | 
+ | [rw](/f27/language/rw) | 10 | 17 | 58.8 | /mnt/stockage/packages/f27/sugar-flip/po/rw.po | 
 {.sortable}
 
 

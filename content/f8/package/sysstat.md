@@ -18,20 +18,20 @@ The package sysstat (version 7.0.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [af]({{< ref "/f8/language/af.md" >}}) | 223 | 223 | 100.0 | /mnt/stockage/packages/f8/sysstat/nls/af.po | 
- | [de]({{< ref "/f8/language/de.md" >}}) | 223 | 223 | 100.0 | /mnt/stockage/packages/f8/sysstat/nls/de.po | 
- | [es]({{< ref "/f8/language/es.md" >}}) | 223 | 223 | 100.0 | /mnt/stockage/packages/f8/sysstat/nls/es.po | 
- | [fr]({{< ref "/f8/language/fr.md" >}}) | 223 | 223 | 100.0 | /mnt/stockage/packages/f8/sysstat/nls/fr.po | 
- | [it]({{< ref "/f8/language/it.md" >}}) | 223 | 223 | 100.0 | /mnt/stockage/packages/f8/sysstat/nls/it.po | 
- | [ja]({{< ref "/f8/language/ja.md" >}}) | 223 | 223 | 100.0 | /mnt/stockage/packages/f8/sysstat/nls/ja.po | 
- | [nb_NO]({{< ref "/f8/language/nb_NO.md" >}}) | 223 | 223 | 100.0 | /mnt/stockage/packages/f8/sysstat/nls/nb.po | 
- | [nn]({{< ref "/f8/language/nn.md" >}}) | 223 | 223 | 100.0 | /mnt/stockage/packages/f8/sysstat/nls/nn.po | 
- | [pl]({{< ref "/f8/language/pl.md" >}}) | 223 | 223 | 100.0 | /mnt/stockage/packages/f8/sysstat/nls/pl.po | 
- | [pt]({{< ref "/f8/language/pt.md" >}}) | 223 | 223 | 100.0 | /mnt/stockage/packages/f8/sysstat/nls/pt.po | 
- | [ro]({{< ref "/f8/language/ro.md" >}}) | 223 | 223 | 100.0 | /mnt/stockage/packages/f8/sysstat/nls/ro.po | 
- | [ru]({{< ref "/f8/language/ru.md" >}}) | 223 | 223 | 100.0 | /mnt/stockage/packages/f8/sysstat/nls/ru.po | 
- | [sk]({{< ref "/f8/language/sk.md" >}}) | 223 | 223 | 100.0 | /mnt/stockage/packages/f8/sysstat/nls/sk.po | 
- | [sv]({{< ref "/f8/language/sv.md" >}}) | 223 | 223 | 100.0 | /mnt/stockage/packages/f8/sysstat/nls/sv.po | 
+ | [af](/f8/language/af) | 223 | 223 | 100.0 | /mnt/stockage/packages/f8/sysstat/nls/af.po | 
+ | [de](/f8/language/de) | 223 | 223 | 100.0 | /mnt/stockage/packages/f8/sysstat/nls/de.po | 
+ | [es](/f8/language/es) | 223 | 223 | 100.0 | /mnt/stockage/packages/f8/sysstat/nls/es.po | 
+ | [fr](/f8/language/fr) | 223 | 223 | 100.0 | /mnt/stockage/packages/f8/sysstat/nls/fr.po | 
+ | [it](/f8/language/it) | 223 | 223 | 100.0 | /mnt/stockage/packages/f8/sysstat/nls/it.po | 
+ | [ja](/f8/language/ja) | 223 | 223 | 100.0 | /mnt/stockage/packages/f8/sysstat/nls/ja.po | 
+ | [nb_NO](/f8/language/nb_NO) | 223 | 223 | 100.0 | /mnt/stockage/packages/f8/sysstat/nls/nb.po | 
+ | [nn](/f8/language/nn) | 223 | 223 | 100.0 | /mnt/stockage/packages/f8/sysstat/nls/nn.po | 
+ | [pl](/f8/language/pl) | 223 | 223 | 100.0 | /mnt/stockage/packages/f8/sysstat/nls/pl.po | 
+ | [pt](/f8/language/pt) | 223 | 223 | 100.0 | /mnt/stockage/packages/f8/sysstat/nls/pt.po | 
+ | [ro](/f8/language/ro) | 223 | 223 | 100.0 | /mnt/stockage/packages/f8/sysstat/nls/ro.po | 
+ | [ru](/f8/language/ru) | 223 | 223 | 100.0 | /mnt/stockage/packages/f8/sysstat/nls/ru.po | 
+ | [sk](/f8/language/sk) | 223 | 223 | 100.0 | /mnt/stockage/packages/f8/sysstat/nls/sk.po | 
+ | [sv](/f8/language/sv) | 223 | 223 | 100.0 | /mnt/stockage/packages/f8/sysstat/nls/sv.po | 
 {.sortable}
 
 

@@ -18,23 +18,23 @@ The package xfce4-sensors-plugin (version 0.10.99.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f7/language/de.md" >}}) | 99 | 99 | 100.0 | /mnt/stockage/packages/f7/xfce4-sensors-plugin/po/de.po | 
- | [hu]({{< ref "/f7/language/hu.md" >}}) | 87 | 99 | 87.9 | /mnt/stockage/packages/f7/xfce4-sensors-plugin/po/hu.po | 
- | [eu]({{< ref "/f7/language/eu.md" >}}) | 61 | 99 | 61.6 | /mnt/stockage/packages/f7/xfce4-sensors-plugin/po/eu.po | 
- | [fr]({{< ref "/f7/language/fr.md" >}}) | 61 | 99 | 61.6 | /mnt/stockage/packages/f7/xfce4-sensors-plugin/po/fr.po | 
- | [ko]({{< ref "/f7/language/ko.md" >}}) | 61 | 99 | 61.6 | /mnt/stockage/packages/f7/xfce4-sensors-plugin/po/ko.po | 
- | [pl]({{< ref "/f7/language/pl.md" >}}) | 39 | 99 | 39.4 | /mnt/stockage/packages/f7/xfce4-sensors-plugin/po/pl.po | 
- | [ca]({{< ref "/f7/language/ca.md" >}}) | 36 | 99 | 36.4 | /mnt/stockage/packages/f7/xfce4-sensors-plugin/po/ca.po | 
- | [cs]({{< ref "/f7/language/cs.md" >}}) | 36 | 99 | 36.4 | /mnt/stockage/packages/f7/xfce4-sensors-plugin/po/cs.po | 
- | [el]({{< ref "/f7/language/el.md" >}}) | 36 | 99 | 36.4 | /mnt/stockage/packages/f7/xfce4-sensors-plugin/po/el.po | 
- | [en_GB]({{< ref "/f7/language/en_GB.md" >}}) | 36 | 99 | 36.4 | /mnt/stockage/packages/f7/xfce4-sensors-plugin/po/en_GB.po | 
- | [sq]({{< ref "/f7/language/sq.md" >}}) | 36 | 99 | 36.4 | /mnt/stockage/packages/f7/xfce4-sensors-plugin/po/sq.po | 
- | [ur_PK]({{< ref "/f7/language/ur_PK.md" >}}) | 36 | 99 | 36.4 | /mnt/stockage/packages/f7/xfce4-sensors-plugin/po/pk.po | 
- | [ja]({{< ref "/f7/language/ja.md" >}}) | 34 | 99 | 34.3 | /mnt/stockage/packages/f7/xfce4-sensors-plugin/po/ja.po | 
- | [ru]({{< ref "/f7/language/ru.md" >}}) | 34 | 99 | 34.3 | /mnt/stockage/packages/f7/xfce4-sensors-plugin/po/ru.po | 
- | [vi]({{< ref "/f7/language/vi.md" >}}) | 34 | 99 | 34.3 | /mnt/stockage/packages/f7/xfce4-sensors-plugin/po/vi.po | 
- | [zh_Hant]({{< ref "/f7/language/zh_Hant.md" >}}) | 34 | 99 | 34.3 | /mnt/stockage/packages/f7/xfce4-sensors-plugin/po/zh_TW.po | 
- | [lt]({{< ref "/f7/language/lt.md" >}}) | 11 | 99 | 11.1 | /mnt/stockage/packages/f7/xfce4-sensors-plugin/po/lt.po | 
+ | [de](/f7/language/de) | 99 | 99 | 100.0 | /mnt/stockage/packages/f7/xfce4-sensors-plugin/po/de.po | 
+ | [hu](/f7/language/hu) | 87 | 99 | 87.9 | /mnt/stockage/packages/f7/xfce4-sensors-plugin/po/hu.po | 
+ | [eu](/f7/language/eu) | 61 | 99 | 61.6 | /mnt/stockage/packages/f7/xfce4-sensors-plugin/po/eu.po | 
+ | [fr](/f7/language/fr) | 61 | 99 | 61.6 | /mnt/stockage/packages/f7/xfce4-sensors-plugin/po/fr.po | 
+ | [ko](/f7/language/ko) | 61 | 99 | 61.6 | /mnt/stockage/packages/f7/xfce4-sensors-plugin/po/ko.po | 
+ | [pl](/f7/language/pl) | 39 | 99 | 39.4 | /mnt/stockage/packages/f7/xfce4-sensors-plugin/po/pl.po | 
+ | [ca](/f7/language/ca) | 36 | 99 | 36.4 | /mnt/stockage/packages/f7/xfce4-sensors-plugin/po/ca.po | 
+ | [cs](/f7/language/cs) | 36 | 99 | 36.4 | /mnt/stockage/packages/f7/xfce4-sensors-plugin/po/cs.po | 
+ | [el](/f7/language/el) | 36 | 99 | 36.4 | /mnt/stockage/packages/f7/xfce4-sensors-plugin/po/el.po | 
+ | [en_GB](/f7/language/en_GB) | 36 | 99 | 36.4 | /mnt/stockage/packages/f7/xfce4-sensors-plugin/po/en_GB.po | 
+ | [sq](/f7/language/sq) | 36 | 99 | 36.4 | /mnt/stockage/packages/f7/xfce4-sensors-plugin/po/sq.po | 
+ | [ur_PK](/f7/language/ur_PK) | 36 | 99 | 36.4 | /mnt/stockage/packages/f7/xfce4-sensors-plugin/po/pk.po | 
+ | [ja](/f7/language/ja) | 34 | 99 | 34.3 | /mnt/stockage/packages/f7/xfce4-sensors-plugin/po/ja.po | 
+ | [ru](/f7/language/ru) | 34 | 99 | 34.3 | /mnt/stockage/packages/f7/xfce4-sensors-plugin/po/ru.po | 
+ | [vi](/f7/language/vi) | 34 | 99 | 34.3 | /mnt/stockage/packages/f7/xfce4-sensors-plugin/po/vi.po | 
+ | [zh_Hant](/f7/language/zh_Hant) | 34 | 99 | 34.3 | /mnt/stockage/packages/f7/xfce4-sensors-plugin/po/zh_TW.po | 
+ | [lt](/f7/language/lt) | 11 | 99 | 11.1 | /mnt/stockage/packages/f7/xfce4-sensors-plugin/po/lt.po | 
 {.sortable}
 
 

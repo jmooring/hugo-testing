@@ -38,70 +38,70 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [libgweather]({{< ref "/f34/package/libgweather.md" >}}) | 664 | 664 | 100.0 | Spanish <gnome-es-list@gnome.org> | 
- | [trytond]({{< ref "/f34/package/trytond.md" >}}) | 2648 | 2648 | 100.0 |  | 
- | [trytond-account]({{< ref "/f34/package/trytond-account.md" >}}) | 2743 | 2743 | 100.0 |  | 
- | [trytond-account-invoice]({{< ref "/f34/package/trytond-account-invoice.md" >}}) | 1028 | 1028 | 100.0 |  | 
- | [trytond-account-invoice-history]({{< ref "/f34/package/trytond-account-invoice-history.md" >}}) | 2 | 2 | 100.0 |  | 
- | [trytond-account-invoice-line-standalone]({{< ref "/f34/package/trytond-account-invoice-line-standalone.md" >}}) | 10 | 10 | 100.0 |  | 
- | [trytond-account-product]({{< ref "/f34/package/trytond-account-product.md" >}}) | 296 | 296 | 100.0 |  | 
- | [trytond-account-statement]({{< ref "/f34/package/trytond-account-statement.md" >}}) | 231 | 231 | 100.0 |  | 
- | [trytond-account-stock-anglo-saxon]({{< ref "/f34/package/trytond-account-stock-anglo-saxon.md" >}}) | 74 | 74 | 100.0 |  | 
- | [trytond-account-stock-continental]({{< ref "/f34/package/trytond-account-stock-continental.md" >}}) | 325 | 325 | 100.0 |  | 
- | [trytond-analytic-account]({{< ref "/f34/package/trytond-analytic-account.md" >}}) | 184 | 184 | 100.0 |  | 
- | [trytond-analytic-invoice]({{< ref "/f34/package/trytond-analytic-invoice.md" >}}) | 13 | 13 | 100.0 |  | 
- | [trytond-analytic-purchase]({{< ref "/f34/package/trytond-analytic-purchase.md" >}}) | 22 | 22 | 100.0 |  | 
- | [trytond-analytic-sale]({{< ref "/f34/package/trytond-analytic-sale.md" >}}) | 13 | 13 | 100.0 |  | 
- | [trytond-company]({{< ref "/f34/package/trytond-company.md" >}}) | 118 | 118 | 100.0 |  | 
- | [trytond-company-work-time]({{< ref "/f34/package/trytond-company-work-time.md" >}}) | 18 | 18 | 100.0 |  | 
- | [trytond-country]({{< ref "/f34/package/trytond-country.md" >}}) | 7539 | 7539 | 100.0 |  | 
- | [trytond-currency]({{< ref "/f34/package/trytond-currency.md" >}}) | 469 | 469 | 100.0 |  | 
- | [trytond-dashboard]({{< ref "/f34/package/trytond-dashboard.md" >}}) | 35 | 35 | 100.0 |  | 
- | [trytond-google-maps]({{< ref "/f34/package/trytond-google-maps.md" >}}) | 2 | 2 | 100.0 |  | 
- | [trytond-ldap-authentication]({{< ref "/f34/package/trytond-ldap-authentication.md" >}}) | 10 | 10 | 100.0 |  | 
- | [trytond-party]({{< ref "/f34/package/trytond-party.md" >}}) | 268 | 268 | 100.0 |  | 
- | [trytond-party-siret]({{< ref "/f34/package/trytond-party-siret.md" >}}) | 18 | 18 | 100.0 |  | 
- | [trytond-product]({{< ref "/f34/package/trytond-product.md" >}}) | 375 | 375 | 100.0 |  | 
- | [trytond-product-cost-fifo]({{< ref "/f34/package/trytond-product-cost-fifo.md" >}}) | 24 | 24 | 100.0 |  | 
- | [trytond-product-cost-history]({{< ref "/f34/package/trytond-product-cost-history.md" >}}) | 27 | 27 | 100.0 |  | 
- | [trytond-product-price-list]({{< ref "/f34/package/trytond-product-price-list.md" >}}) | 74 | 74 | 100.0 |  | 
- | [trytond-project]({{< ref "/f34/package/trytond-project.md" >}}) | 143 | 143 | 100.0 |  | 
- | [trytond-project-plan]({{< ref "/f34/package/trytond-project-plan.md" >}}) | 83 | 83 | 100.0 |  | 
- | [trytond-project-revenue]({{< ref "/f34/package/trytond-project-revenue.md" >}}) | 12 | 12 | 100.0 |  | 
- | [trytond-purchase]({{< ref "/f34/package/trytond-purchase.md" >}}) | 571 | 571 | 100.0 |  | 
- | [trytond-purchase-invoice-line-standalone]({{< ref "/f34/package/trytond-purchase-invoice-line-standalone.md" >}}) | 51 | 51 | 100.0 |  | 
- | [trytond-sale]({{< ref "/f34/package/trytond-sale.md" >}}) | 536 | 536 | 100.0 |  | 
- | [trytond-sale-opportunity]({{< ref "/f34/package/trytond-sale-opportunity.md" >}}) | 320 | 320 | 100.0 |  | 
- | [trytond-sale-price-list]({{< ref "/f34/package/trytond-sale-price-list.md" >}}) | 5 | 5 | 100.0 |  | 
- | [trytond-stock]({{< ref "/f34/package/trytond-stock.md" >}}) | 1203 | 1203 | 100.0 |  | 
- | [trytond-stock-forecast]({{< ref "/f34/package/trytond-stock-forecast.md" >}}) | 174 | 174 | 100.0 |  | 
- | [trytond-stock-inventory-location]({{< ref "/f34/package/trytond-stock-inventory-location.md" >}}) | 17 | 17 | 100.0 |  | 
- | [trytond-stock-location-sequence]({{< ref "/f34/package/trytond-stock-location-sequence.md" >}}) | 1 | 1 | 100.0 |  | 
- | [trytond-stock-product-location]({{< ref "/f34/package/trytond-stock-product-location.md" >}}) | 23 | 23 | 100.0 |  | 
- | [trytond-stock-supply]({{< ref "/f34/package/trytond-stock-supply.md" >}}) | 147 | 147 | 100.0 |  | 
- | [trytond-stock-supply-day]({{< ref "/f34/package/trytond-stock-supply-day.md" >}}) | 27 | 27 | 100.0 |  | 
- | [trytond-timesheet]({{< ref "/f34/package/trytond-timesheet.md" >}}) | 278 | 278 | 100.0 |  | 
- | [libmateweather]({{< ref "/f34/package/libmateweather.md" >}}) | 362 | 500 | 72.4 | Spanish (Ecuador) (https://www.transifex.com/mate/teams/13566/es_EC/) | 
- | [mate-applets]({{< ref "/f34/package/mate-applets.md" >}}) | 1602 | 12025 | 13.3 | Spanish (Ecuador) (https://www.transifex.com/mate/teams/13566/es_EC/) | 
- | [mozo]({{< ref "/f34/package/mozo.md" >}}) | 2 | 46 | 4.3 | Spanish (Ecuador) (https://www.transifex.com/mate/teams/13566/es_EC/) | 
- | [mate-sensors-applet]({{< ref "/f34/package/mate-sensors-applet.md" >}}) | 10 | 313 | 3.2 | Spanish (Ecuador) (https://www.transifex.com/mate/teams/13566/es_EC/) | 
- | [mate-settings-daemon]({{< ref "/f34/package/mate-settings-daemon.md" >}}) | 43 | 2206 | 1.9 | Spanish (Ecuador) (https://www.transifex.com/mate/teams/13566/es_EC/) | 
- | [mate-media]({{< ref "/f34/package/mate-media.md" >}}) | 4 | 239 | 1.7 | Spanish (Ecuador) (https://www.transifex.com/mate/teams/13566/es_EC/) | 
- | [mate-menu]({{< ref "/f34/package/mate-menu.md" >}}) | 4 | 308 | 1.3 | Spanish (Ecuador) (http://www.transifex.com/mate/MATE/language/es_EC/) | 
- | [mate-system-monitor]({{< ref "/f34/package/mate-system-monitor.md" >}}) | 14 | 1512 | 0.9 | Spanish (Ecuador) (https://www.transifex.com/mate/teams/13566/es_EC/) | 
- | [eom]({{< ref "/f34/package/eom.md" >}}) | 14 | 1779 | 0.8 | Spanish (Ecuador) (https://www.transifex.com/mate/teams/13566/es_EC/) | 
- | [mate-session-manager]({{< ref "/f34/package/mate-session-manager.md" >}}) | 5 | 715 | 0.7 | Spanish (Ecuador) (https://www.transifex.com/mate/teams/13566/es_EC/) | 
- | [mate-control-center]({{< ref "/f34/package/mate-control-center.md" >}}) | 18 | 3326 | 0.5 | Spanish (Ecuador) (https://www.transifex.com/mate/teams/13566/es_EC/) | 
- | [mate-panel]({{< ref "/f34/package/mate-panel.md" >}}) | 37 | 6846 | 0.5 | Spanish (Ecuador) (https://www.transifex.com/mate/teams/13566/es_EC/) | 
- | [mate-calc]({{< ref "/f34/package/mate-calc.md" >}}) | 7 | 1578 | 0.4 | Spanish (Ecuador) (https://www.transifex.com/mate/teams/13566/es_EC/) | 
- | [engrampa]({{< ref "/f34/package/engrampa.md" >}}) | 9 | 2049 | 0.4 | Spanish (Ecuador) (https://www.transifex.com/mate/teams/13566/es_EC/) | 
- | [lollypop]({{< ref "/f34/package/lollypop.md" >}}) | 5 | 1437 | 0.3 | Spanish (Ecuador) <https://hosted.weblate.org/projects/gnumdk/lollypop/es_EC/> | 
- | [atril]({{< ref "/f34/package/atril.md" >}}) | 8 | 2350 | 0.3 | Spanish (Ecuador) (https://www.transifex.com/mate/teams/13566/es_EC/) | 
- | [mate-power-manager]({{< ref "/f34/package/mate-power-manager.md" >}}) | 9 | 2656 | 0.3 | Spanish (Ecuador) (https://www.transifex.com/mate/teams/13566/es_EC/) | 
- | [libmatekbd]({{< ref "/f34/package/libmatekbd.md" >}}) | 1 | 308 | 0.3 | Spanish (Ecuador) (https://www.transifex.com/mate/teams/13566/es_EC/) | 
- | [mate-utils]({{< ref "/f34/package/mate-utils.md" >}}) | 6 | 2467 | 0.2 | Spanish (Ecuador) (https://www.transifex.com/mate/teams/13566/es_EC/) | 
- | [pluma-plugins]({{< ref "/f34/package/pluma-plugins.md" >}}) | 1 | 510 | 0.2 | Spanish (Ecuador) (https://www.transifex.com/mate/teams/13566/es_EC/) | 
- | [mate-themes]({{< ref "/f34/package/mate-themes.md" >}}) | 0 | 74 | 0.0 | Spanish (Ecuador) (http://www.transifex.com/mate/MATE/language/es_EC/) | 
+ | [libgweather](/f34/package/libgweather) | 664 | 664 | 100.0 | Spanish <gnome-es-list@gnome.org> | 
+ | [trytond](/f34/package/trytond) | 2648 | 2648 | 100.0 |  | 
+ | [trytond-account](/f34/package/trytond-account) | 2743 | 2743 | 100.0 |  | 
+ | [trytond-account-invoice](/f34/package/trytond-account-invoice) | 1028 | 1028 | 100.0 |  | 
+ | [trytond-account-invoice-history](/f34/package/trytond-account-invoice-history) | 2 | 2 | 100.0 |  | 
+ | [trytond-account-invoice-line-standalone](/f34/package/trytond-account-invoice-line-standalone) | 10 | 10 | 100.0 |  | 
+ | [trytond-account-product](/f34/package/trytond-account-product) | 296 | 296 | 100.0 |  | 
+ | [trytond-account-statement](/f34/package/trytond-account-statement) | 231 | 231 | 100.0 |  | 
+ | [trytond-account-stock-anglo-saxon](/f34/package/trytond-account-stock-anglo-saxon) | 74 | 74 | 100.0 |  | 
+ | [trytond-account-stock-continental](/f34/package/trytond-account-stock-continental) | 325 | 325 | 100.0 |  | 
+ | [trytond-analytic-account](/f34/package/trytond-analytic-account) | 184 | 184 | 100.0 |  | 
+ | [trytond-analytic-invoice](/f34/package/trytond-analytic-invoice) | 13 | 13 | 100.0 |  | 
+ | [trytond-analytic-purchase](/f34/package/trytond-analytic-purchase) | 22 | 22 | 100.0 |  | 
+ | [trytond-analytic-sale](/f34/package/trytond-analytic-sale) | 13 | 13 | 100.0 |  | 
+ | [trytond-company](/f34/package/trytond-company) | 118 | 118 | 100.0 |  | 
+ | [trytond-company-work-time](/f34/package/trytond-company-work-time) | 18 | 18 | 100.0 |  | 
+ | [trytond-country](/f34/package/trytond-country) | 7539 | 7539 | 100.0 |  | 
+ | [trytond-currency](/f34/package/trytond-currency) | 469 | 469 | 100.0 |  | 
+ | [trytond-dashboard](/f34/package/trytond-dashboard) | 35 | 35 | 100.0 |  | 
+ | [trytond-google-maps](/f34/package/trytond-google-maps) | 2 | 2 | 100.0 |  | 
+ | [trytond-ldap-authentication](/f34/package/trytond-ldap-authentication) | 10 | 10 | 100.0 |  | 
+ | [trytond-party](/f34/package/trytond-party) | 268 | 268 | 100.0 |  | 
+ | [trytond-party-siret](/f34/package/trytond-party-siret) | 18 | 18 | 100.0 |  | 
+ | [trytond-product](/f34/package/trytond-product) | 375 | 375 | 100.0 |  | 
+ | [trytond-product-cost-fifo](/f34/package/trytond-product-cost-fifo) | 24 | 24 | 100.0 |  | 
+ | [trytond-product-cost-history](/f34/package/trytond-product-cost-history) | 27 | 27 | 100.0 |  | 
+ | [trytond-product-price-list](/f34/package/trytond-product-price-list) | 74 | 74 | 100.0 |  | 
+ | [trytond-project](/f34/package/trytond-project) | 143 | 143 | 100.0 |  | 
+ | [trytond-project-plan](/f34/package/trytond-project-plan) | 83 | 83 | 100.0 |  | 
+ | [trytond-project-revenue](/f34/package/trytond-project-revenue) | 12 | 12 | 100.0 |  | 
+ | [trytond-purchase](/f34/package/trytond-purchase) | 571 | 571 | 100.0 |  | 
+ | [trytond-purchase-invoice-line-standalone](/f34/package/trytond-purchase-invoice-line-standalone) | 51 | 51 | 100.0 |  | 
+ | [trytond-sale](/f34/package/trytond-sale) | 536 | 536 | 100.0 |  | 
+ | [trytond-sale-opportunity](/f34/package/trytond-sale-opportunity) | 320 | 320 | 100.0 |  | 
+ | [trytond-sale-price-list](/f34/package/trytond-sale-price-list) | 5 | 5 | 100.0 |  | 
+ | [trytond-stock](/f34/package/trytond-stock) | 1203 | 1203 | 100.0 |  | 
+ | [trytond-stock-forecast](/f34/package/trytond-stock-forecast) | 174 | 174 | 100.0 |  | 
+ | [trytond-stock-inventory-location](/f34/package/trytond-stock-inventory-location) | 17 | 17 | 100.0 |  | 
+ | [trytond-stock-location-sequence](/f34/package/trytond-stock-location-sequence) | 1 | 1 | 100.0 |  | 
+ | [trytond-stock-product-location](/f34/package/trytond-stock-product-location) | 23 | 23 | 100.0 |  | 
+ | [trytond-stock-supply](/f34/package/trytond-stock-supply) | 147 | 147 | 100.0 |  | 
+ | [trytond-stock-supply-day](/f34/package/trytond-stock-supply-day) | 27 | 27 | 100.0 |  | 
+ | [trytond-timesheet](/f34/package/trytond-timesheet) | 278 | 278 | 100.0 |  | 
+ | [libmateweather](/f34/package/libmateweather) | 362 | 500 | 72.4 | Spanish (Ecuador) (https://www.transifex.com/mate/teams/13566/es_EC/) | 
+ | [mate-applets](/f34/package/mate-applets) | 1602 | 12025 | 13.3 | Spanish (Ecuador) (https://www.transifex.com/mate/teams/13566/es_EC/) | 
+ | [mozo](/f34/package/mozo) | 2 | 46 | 4.3 | Spanish (Ecuador) (https://www.transifex.com/mate/teams/13566/es_EC/) | 
+ | [mate-sensors-applet](/f34/package/mate-sensors-applet) | 10 | 313 | 3.2 | Spanish (Ecuador) (https://www.transifex.com/mate/teams/13566/es_EC/) | 
+ | [mate-settings-daemon](/f34/package/mate-settings-daemon) | 43 | 2206 | 1.9 | Spanish (Ecuador) (https://www.transifex.com/mate/teams/13566/es_EC/) | 
+ | [mate-media](/f34/package/mate-media) | 4 | 239 | 1.7 | Spanish (Ecuador) (https://www.transifex.com/mate/teams/13566/es_EC/) | 
+ | [mate-menu](/f34/package/mate-menu) | 4 | 308 | 1.3 | Spanish (Ecuador) (http://www.transifex.com/mate/MATE/language/es_EC/) | 
+ | [mate-system-monitor](/f34/package/mate-system-monitor) | 14 | 1512 | 0.9 | Spanish (Ecuador) (https://www.transifex.com/mate/teams/13566/es_EC/) | 
+ | [eom](/f34/package/eom) | 14 | 1779 | 0.8 | Spanish (Ecuador) (https://www.transifex.com/mate/teams/13566/es_EC/) | 
+ | [mate-session-manager](/f34/package/mate-session-manager) | 5 | 715 | 0.7 | Spanish (Ecuador) (https://www.transifex.com/mate/teams/13566/es_EC/) | 
+ | [mate-control-center](/f34/package/mate-control-center) | 18 | 3326 | 0.5 | Spanish (Ecuador) (https://www.transifex.com/mate/teams/13566/es_EC/) | 
+ | [mate-panel](/f34/package/mate-panel) | 37 | 6846 | 0.5 | Spanish (Ecuador) (https://www.transifex.com/mate/teams/13566/es_EC/) | 
+ | [mate-calc](/f34/package/mate-calc) | 7 | 1578 | 0.4 | Spanish (Ecuador) (https://www.transifex.com/mate/teams/13566/es_EC/) | 
+ | [engrampa](/f34/package/engrampa) | 9 | 2049 | 0.4 | Spanish (Ecuador) (https://www.transifex.com/mate/teams/13566/es_EC/) | 
+ | [lollypop](/f34/package/lollypop) | 5 | 1437 | 0.3 | Spanish (Ecuador) <https://hosted.weblate.org/projects/gnumdk/lollypop/es_EC/> | 
+ | [atril](/f34/package/atril) | 8 | 2350 | 0.3 | Spanish (Ecuador) (https://www.transifex.com/mate/teams/13566/es_EC/) | 
+ | [mate-power-manager](/f34/package/mate-power-manager) | 9 | 2656 | 0.3 | Spanish (Ecuador) (https://www.transifex.com/mate/teams/13566/es_EC/) | 
+ | [libmatekbd](/f34/package/libmatekbd) | 1 | 308 | 0.3 | Spanish (Ecuador) (https://www.transifex.com/mate/teams/13566/es_EC/) | 
+ | [mate-utils](/f34/package/mate-utils) | 6 | 2467 | 0.2 | Spanish (Ecuador) (https://www.transifex.com/mate/teams/13566/es_EC/) | 
+ | [pluma-plugins](/f34/package/pluma-plugins) | 1 | 510 | 0.2 | Spanish (Ecuador) (https://www.transifex.com/mate/teams/13566/es_EC/) | 
+ | [mate-themes](/f34/package/mate-themes) | 0 | 74 | 0.0 | Spanish (Ecuador) (http://www.transifex.com/mate/MATE/language/es_EC/) | 
 {.sortable}
 
 

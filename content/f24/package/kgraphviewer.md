@@ -18,37 +18,37 @@ The package kgraphviewer (version 2.2.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f24/language/ca.md" >}}) | 1251 | 1251 | 100.0 | /mnt/stockage/packages/f24/kgraphviewer/po/ca/kgraphviewer.po | 
- | [da]({{< ref "/f24/language/da.md" >}}) | 1251 | 1251 | 100.0 | /mnt/stockage/packages/f24/kgraphviewer/po/da/kgraphviewer.po | 
- | [de]({{< ref "/f24/language/de.md" >}}) | 1251 | 1251 | 100.0 | /mnt/stockage/packages/f24/kgraphviewer/po/de/kgraphviewer.po | 
- | [en_GB]({{< ref "/f24/language/en_GB.md" >}}) | 1251 | 1251 | 100.0 | /mnt/stockage/packages/f24/kgraphviewer/po/en_GB/kgraphviewer.po | 
- | [es]({{< ref "/f24/language/es.md" >}}) | 1251 | 1251 | 100.0 | /mnt/stockage/packages/f24/kgraphviewer/po/es/kgraphviewer.po | 
- | [et]({{< ref "/f24/language/et.md" >}}) | 1251 | 1251 | 100.0 | /mnt/stockage/packages/f24/kgraphviewer/po/et/kgraphviewer.po | 
- | [fr]({{< ref "/f24/language/fr.md" >}}) | 1251 | 1251 | 100.0 | /mnt/stockage/packages/f24/kgraphviewer/po/fr/kgraphviewer.po | 
- | [it]({{< ref "/f24/language/it.md" >}}) | 1251 | 1251 | 100.0 | /mnt/stockage/packages/f24/kgraphviewer/po/it/kgraphviewer.po | 
- | [nb_NO]({{< ref "/f24/language/nb_NO.md" >}}) | 1251 | 1251 | 100.0 | /mnt/stockage/packages/f24/kgraphviewer/po/nb/kgraphviewer.po | 
- | [nds]({{< ref "/f24/language/nds.md" >}}) | 1251 | 1251 | 100.0 | /mnt/stockage/packages/f24/kgraphviewer/po/nds/kgraphviewer.po | 
- | [nl]({{< ref "/f24/language/nl.md" >}}) | 1251 | 1251 | 100.0 | /mnt/stockage/packages/f24/kgraphviewer/po/nl/kgraphviewer.po | 
- | [pl]({{< ref "/f24/language/pl.md" >}}) | 1251 | 1251 | 100.0 | /mnt/stockage/packages/f24/kgraphviewer/po/pl/kgraphviewer.po | 
- | [pt]({{< ref "/f24/language/pt.md" >}}) | 1251 | 1251 | 100.0 | /mnt/stockage/packages/f24/kgraphviewer/po/pt/kgraphviewer.po | 
- | [pt_BR]({{< ref "/f24/language/pt_BR.md" >}}) | 1251 | 1251 | 100.0 | /mnt/stockage/packages/f24/kgraphviewer/po/pt_BR/kgraphviewer.po | 
- | [sk]({{< ref "/f24/language/sk.md" >}}) | 1251 | 1251 | 100.0 | /mnt/stockage/packages/f24/kgraphviewer/po/sk/kgraphviewer.po | 
- | [sv]({{< ref "/f24/language/sv.md" >}}) | 1251 | 1251 | 100.0 | /mnt/stockage/packages/f24/kgraphviewer/po/sv/kgraphviewer.po | 
- | [uk]({{< ref "/f24/language/uk.md" >}}) | 1251 | 1251 | 100.0 | /mnt/stockage/packages/f24/kgraphviewer/po/uk/kgraphviewer.po | 
- | [zh_Hant]({{< ref "/f24/language/zh_Hant.md" >}}) | 1251 | 1251 | 100.0 | /mnt/stockage/packages/f24/kgraphviewer/po/zh_TW/kgraphviewer.po | 
- | [ca@valencia]({{< ref "/f24/language/ca@valencia.md" >}}) | 1247 | 1251 | 99.7 | /mnt/stockage/packages/f24/kgraphviewer/po/ca@valencia/kgraphviewer.po | 
- | [cs]({{< ref "/f24/language/cs.md" >}}) | 1234 | 1251 | 98.6 | /mnt/stockage/packages/f24/kgraphviewer/po/cs/kgraphviewer.po | 
- | [bs]({{< ref "/f24/language/bs.md" >}}) | 1227 | 1251 | 98.1 | /mnt/stockage/packages/f24/kgraphviewer/po/bs/kgraphviewer.po | 
- | [el]({{< ref "/f24/language/el.md" >}}) | 1227 | 1251 | 98.1 | /mnt/stockage/packages/f24/kgraphviewer/po/el/kgraphviewer.po | 
- | [gl]({{< ref "/f24/language/gl.md" >}}) | 1227 | 1251 | 98.1 | /mnt/stockage/packages/f24/kgraphviewer/po/gl/kgraphviewer.po | 
- | [km]({{< ref "/f24/language/km.md" >}}) | 1227 | 1251 | 98.1 | /mnt/stockage/packages/f24/kgraphviewer/po/km/kgraphviewer.po | 
- | [ro]({{< ref "/f24/language/ro.md" >}}) | 1227 | 1251 | 98.1 | /mnt/stockage/packages/f24/kgraphviewer/po/ro/kgraphviewer.po | 
- | [hu]({{< ref "/f24/language/hu.md" >}}) | 1052 | 1251 | 84.1 | /mnt/stockage/packages/f24/kgraphviewer/po/hu/kgraphviewer.po | 
- | [fi]({{< ref "/f24/language/fi.md" >}}) | 991 | 1251 | 79.2 | /mnt/stockage/packages/f24/kgraphviewer/po/fi/kgraphviewer.po | 
- | [eu]({{< ref "/f24/language/eu.md" >}}) | 988 | 1251 | 79.0 | /mnt/stockage/packages/f24/kgraphviewer/po/eu/kgraphviewer.po | 
- | [ru]({{< ref "/f24/language/ru.md" >}}) | 856 | 1251 | 68.4 | /mnt/stockage/packages/f24/kgraphviewer/po/ru/kgraphviewer.po | 
- | [tr]({{< ref "/f24/language/tr.md" >}}) | 664 | 1251 | 53.1 | /mnt/stockage/packages/f24/kgraphviewer/po/tr/kgraphviewer.po | 
- | [zh_Hans]({{< ref "/f24/language/zh_Hans.md" >}}) | 604 | 1251 | 48.3 | /mnt/stockage/packages/f24/kgraphviewer/po/zh_CN/kgraphviewer.po | 
+ | [ca](/f24/language/ca) | 1251 | 1251 | 100.0 | /mnt/stockage/packages/f24/kgraphviewer/po/ca/kgraphviewer.po | 
+ | [da](/f24/language/da) | 1251 | 1251 | 100.0 | /mnt/stockage/packages/f24/kgraphviewer/po/da/kgraphviewer.po | 
+ | [de](/f24/language/de) | 1251 | 1251 | 100.0 | /mnt/stockage/packages/f24/kgraphviewer/po/de/kgraphviewer.po | 
+ | [en_GB](/f24/language/en_GB) | 1251 | 1251 | 100.0 | /mnt/stockage/packages/f24/kgraphviewer/po/en_GB/kgraphviewer.po | 
+ | [es](/f24/language/es) | 1251 | 1251 | 100.0 | /mnt/stockage/packages/f24/kgraphviewer/po/es/kgraphviewer.po | 
+ | [et](/f24/language/et) | 1251 | 1251 | 100.0 | /mnt/stockage/packages/f24/kgraphviewer/po/et/kgraphviewer.po | 
+ | [fr](/f24/language/fr) | 1251 | 1251 | 100.0 | /mnt/stockage/packages/f24/kgraphviewer/po/fr/kgraphviewer.po | 
+ | [it](/f24/language/it) | 1251 | 1251 | 100.0 | /mnt/stockage/packages/f24/kgraphviewer/po/it/kgraphviewer.po | 
+ | [nb_NO](/f24/language/nb_NO) | 1251 | 1251 | 100.0 | /mnt/stockage/packages/f24/kgraphviewer/po/nb/kgraphviewer.po | 
+ | [nds](/f24/language/nds) | 1251 | 1251 | 100.0 | /mnt/stockage/packages/f24/kgraphviewer/po/nds/kgraphviewer.po | 
+ | [nl](/f24/language/nl) | 1251 | 1251 | 100.0 | /mnt/stockage/packages/f24/kgraphviewer/po/nl/kgraphviewer.po | 
+ | [pl](/f24/language/pl) | 1251 | 1251 | 100.0 | /mnt/stockage/packages/f24/kgraphviewer/po/pl/kgraphviewer.po | 
+ | [pt](/f24/language/pt) | 1251 | 1251 | 100.0 | /mnt/stockage/packages/f24/kgraphviewer/po/pt/kgraphviewer.po | 
+ | [pt_BR](/f24/language/pt_BR) | 1251 | 1251 | 100.0 | /mnt/stockage/packages/f24/kgraphviewer/po/pt_BR/kgraphviewer.po | 
+ | [sk](/f24/language/sk) | 1251 | 1251 | 100.0 | /mnt/stockage/packages/f24/kgraphviewer/po/sk/kgraphviewer.po | 
+ | [sv](/f24/language/sv) | 1251 | 1251 | 100.0 | /mnt/stockage/packages/f24/kgraphviewer/po/sv/kgraphviewer.po | 
+ | [uk](/f24/language/uk) | 1251 | 1251 | 100.0 | /mnt/stockage/packages/f24/kgraphviewer/po/uk/kgraphviewer.po | 
+ | [zh_Hant](/f24/language/zh_Hant) | 1251 | 1251 | 100.0 | /mnt/stockage/packages/f24/kgraphviewer/po/zh_TW/kgraphviewer.po | 
+ | [ca@valencia](/f24/language/ca@valencia) | 1247 | 1251 | 99.7 | /mnt/stockage/packages/f24/kgraphviewer/po/ca@valencia/kgraphviewer.po | 
+ | [cs](/f24/language/cs) | 1234 | 1251 | 98.6 | /mnt/stockage/packages/f24/kgraphviewer/po/cs/kgraphviewer.po | 
+ | [bs](/f24/language/bs) | 1227 | 1251 | 98.1 | /mnt/stockage/packages/f24/kgraphviewer/po/bs/kgraphviewer.po | 
+ | [el](/f24/language/el) | 1227 | 1251 | 98.1 | /mnt/stockage/packages/f24/kgraphviewer/po/el/kgraphviewer.po | 
+ | [gl](/f24/language/gl) | 1227 | 1251 | 98.1 | /mnt/stockage/packages/f24/kgraphviewer/po/gl/kgraphviewer.po | 
+ | [km](/f24/language/km) | 1227 | 1251 | 98.1 | /mnt/stockage/packages/f24/kgraphviewer/po/km/kgraphviewer.po | 
+ | [ro](/f24/language/ro) | 1227 | 1251 | 98.1 | /mnt/stockage/packages/f24/kgraphviewer/po/ro/kgraphviewer.po | 
+ | [hu](/f24/language/hu) | 1052 | 1251 | 84.1 | /mnt/stockage/packages/f24/kgraphviewer/po/hu/kgraphviewer.po | 
+ | [fi](/f24/language/fi) | 991 | 1251 | 79.2 | /mnt/stockage/packages/f24/kgraphviewer/po/fi/kgraphviewer.po | 
+ | [eu](/f24/language/eu) | 988 | 1251 | 79.0 | /mnt/stockage/packages/f24/kgraphviewer/po/eu/kgraphviewer.po | 
+ | [ru](/f24/language/ru) | 856 | 1251 | 68.4 | /mnt/stockage/packages/f24/kgraphviewer/po/ru/kgraphviewer.po | 
+ | [tr](/f24/language/tr) | 664 | 1251 | 53.1 | /mnt/stockage/packages/f24/kgraphviewer/po/tr/kgraphviewer.po | 
+ | [zh_Hans](/f24/language/zh_Hans) | 604 | 1251 | 48.3 | /mnt/stockage/packages/f24/kgraphviewer/po/zh_CN/kgraphviewer.po | 
 {.sortable}
 
 

@@ -18,25 +18,25 @@ The package gnome-shell-extension-just-perfection (version 35.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [af]({{< ref "/f43/language/af.md" >}}) | 710 | 710 | 100.0 | /mnt/stockage/packages/f43/gnome-shell-extension-just-perfection/po/af.po | 
- | [ar]({{< ref "/f43/language/ar.md" >}}) | 710 | 710 | 100.0 | /mnt/stockage/packages/f43/gnome-shell-extension-just-perfection/po/ar.po | 
- | [be]({{< ref "/f43/language/be.md" >}}) | 710 | 710 | 100.0 | /mnt/stockage/packages/f43/gnome-shell-extension-just-perfection/po/be.po | 
- | [bg]({{< ref "/f43/language/bg.md" >}}) | 710 | 710 | 100.0 | /mnt/stockage/packages/f43/gnome-shell-extension-just-perfection/po/bg.po | 
- | [ca]({{< ref "/f43/language/ca.md" >}}) | 710 | 710 | 100.0 | /mnt/stockage/packages/f43/gnome-shell-extension-just-perfection/po/ca.po | 
- | [de]({{< ref "/f43/language/de.md" >}}) | 710 | 710 | 100.0 | /mnt/stockage/packages/f43/gnome-shell-extension-just-perfection/po/de.po | 
- | [es]({{< ref "/f43/language/es.md" >}}) | 710 | 710 | 100.0 | /mnt/stockage/packages/f43/gnome-shell-extension-just-perfection/po/es.po | 
- | [fr]({{< ref "/f43/language/fr.md" >}}) | 710 | 710 | 100.0 | /mnt/stockage/packages/f43/gnome-shell-extension-just-perfection/po/fr.po | 
- | [gl]({{< ref "/f43/language/gl.md" >}}) | 710 | 710 | 100.0 | /mnt/stockage/packages/f43/gnome-shell-extension-just-perfection/po/gl.po | 
- | [it]({{< ref "/f43/language/it.md" >}}) | 710 | 710 | 100.0 | /mnt/stockage/packages/f43/gnome-shell-extension-just-perfection/po/it.po | 
- | [ja]({{< ref "/f43/language/ja.md" >}}) | 710 | 710 | 100.0 | /mnt/stockage/packages/f43/gnome-shell-extension-just-perfection/po/ja.po | 
- | [nl]({{< ref "/f43/language/nl.md" >}}) | 710 | 710 | 100.0 | /mnt/stockage/packages/f43/gnome-shell-extension-just-perfection/po/nl.po | 
- | [pt_BR]({{< ref "/f43/language/pt_BR.md" >}}) | 710 | 710 | 100.0 | /mnt/stockage/packages/f43/gnome-shell-extension-just-perfection/po/pt_BR.po | 
- | [ru]({{< ref "/f43/language/ru.md" >}}) | 710 | 710 | 100.0 | /mnt/stockage/packages/f43/gnome-shell-extension-just-perfection/po/ru.po | 
- | [sv]({{< ref "/f43/language/sv.md" >}}) | 710 | 710 | 100.0 | /mnt/stockage/packages/f43/gnome-shell-extension-just-perfection/po/sv.po | 
- | [zh_Hans]({{< ref "/f43/language/zh_Hans.md" >}}) | 710 | 710 | 100.0 | /mnt/stockage/packages/f43/gnome-shell-extension-just-perfection/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f43/language/zh_Hant.md" >}}) | 710 | 710 | 100.0 | /mnt/stockage/packages/f43/gnome-shell-extension-just-perfection/po/zh_TW.po | 
- | [ne]({{< ref "/f43/language/ne.md" >}}) | 708 | 710 | 99.7 | /mnt/stockage/packages/f43/gnome-shell-extension-just-perfection/po/ne.po | 
- | [uk]({{< ref "/f43/language/uk.md" >}}) | 706 | 710 | 99.4 | /mnt/stockage/packages/f43/gnome-shell-extension-just-perfection/po/uk.po | 
+ | [af](/f43/language/af) | 710 | 710 | 100.0 | /mnt/stockage/packages/f43/gnome-shell-extension-just-perfection/po/af.po | 
+ | [ar](/f43/language/ar) | 710 | 710 | 100.0 | /mnt/stockage/packages/f43/gnome-shell-extension-just-perfection/po/ar.po | 
+ | [be](/f43/language/be) | 710 | 710 | 100.0 | /mnt/stockage/packages/f43/gnome-shell-extension-just-perfection/po/be.po | 
+ | [bg](/f43/language/bg) | 710 | 710 | 100.0 | /mnt/stockage/packages/f43/gnome-shell-extension-just-perfection/po/bg.po | 
+ | [ca](/f43/language/ca) | 710 | 710 | 100.0 | /mnt/stockage/packages/f43/gnome-shell-extension-just-perfection/po/ca.po | 
+ | [de](/f43/language/de) | 710 | 710 | 100.0 | /mnt/stockage/packages/f43/gnome-shell-extension-just-perfection/po/de.po | 
+ | [es](/f43/language/es) | 710 | 710 | 100.0 | /mnt/stockage/packages/f43/gnome-shell-extension-just-perfection/po/es.po | 
+ | [fr](/f43/language/fr) | 710 | 710 | 100.0 | /mnt/stockage/packages/f43/gnome-shell-extension-just-perfection/po/fr.po | 
+ | [gl](/f43/language/gl) | 710 | 710 | 100.0 | /mnt/stockage/packages/f43/gnome-shell-extension-just-perfection/po/gl.po | 
+ | [it](/f43/language/it) | 710 | 710 | 100.0 | /mnt/stockage/packages/f43/gnome-shell-extension-just-perfection/po/it.po | 
+ | [ja](/f43/language/ja) | 710 | 710 | 100.0 | /mnt/stockage/packages/f43/gnome-shell-extension-just-perfection/po/ja.po | 
+ | [nl](/f43/language/nl) | 710 | 710 | 100.0 | /mnt/stockage/packages/f43/gnome-shell-extension-just-perfection/po/nl.po | 
+ | [pt_BR](/f43/language/pt_BR) | 710 | 710 | 100.0 | /mnt/stockage/packages/f43/gnome-shell-extension-just-perfection/po/pt_BR.po | 
+ | [ru](/f43/language/ru) | 710 | 710 | 100.0 | /mnt/stockage/packages/f43/gnome-shell-extension-just-perfection/po/ru.po | 
+ | [sv](/f43/language/sv) | 710 | 710 | 100.0 | /mnt/stockage/packages/f43/gnome-shell-extension-just-perfection/po/sv.po | 
+ | [zh_Hans](/f43/language/zh_Hans) | 710 | 710 | 100.0 | /mnt/stockage/packages/f43/gnome-shell-extension-just-perfection/po/zh_CN.po | 
+ | [zh_Hant](/f43/language/zh_Hant) | 710 | 710 | 100.0 | /mnt/stockage/packages/f43/gnome-shell-extension-just-perfection/po/zh_TW.po | 
+ | [ne](/f43/language/ne) | 708 | 710 | 99.7 | /mnt/stockage/packages/f43/gnome-shell-extension-just-perfection/po/ne.po | 
+ | [uk](/f43/language/uk) | 706 | 710 | 99.4 | /mnt/stockage/packages/f43/gnome-shell-extension-just-perfection/po/uk.po | 
 {.sortable}
 
 

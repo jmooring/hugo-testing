@@ -18,9 +18,9 @@ The package pyrenamer (version 0.5.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [en]({{< ref "/f10/language/en.md" >}}) | 596 | 596 | 100.0 | /mnt/stockage/packages/f10/pyrenamer/po/en.po | 
- | [es]({{< ref "/f10/language/es.md" >}}) | 596 | 596 | 100.0 | /mnt/stockage/packages/f10/pyrenamer/po/es.po | 
- | [fr]({{< ref "/f10/language/fr.md" >}}) | 592 | 596 | 99.3 | /mnt/stockage/packages/f10/pyrenamer/po/fr.po | 
+ | [en](/f10/language/en) | 596 | 596 | 100.0 | /mnt/stockage/packages/f10/pyrenamer/po/en.po | 
+ | [es](/f10/language/es) | 596 | 596 | 100.0 | /mnt/stockage/packages/f10/pyrenamer/po/es.po | 
+ | [fr](/f10/language/fr) | 592 | 596 | 99.3 | /mnt/stockage/packages/f10/pyrenamer/po/fr.po | 
 {.sortable}
 
 

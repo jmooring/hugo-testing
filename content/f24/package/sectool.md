@@ -18,24 +18,24 @@ The package sectool (version 0.9.5):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f24/language/de.md" >}}) | 2411 | 2411 | 100.0 | /mnt/stockage/packages/f24/sectool/po/de.po | 
- | [de_CH]({{< ref "/f24/language/de_CH.md" >}}) | 2411 | 2411 | 100.0 | /mnt/stockage/packages/f24/sectool/po/de_CH.po | 
- | [es]({{< ref "/f24/language/es.md" >}}) | 2411 | 2411 | 100.0 | /mnt/stockage/packages/f24/sectool/po/es.po | 
- | [it]({{< ref "/f24/language/it.md" >}}) | 2411 | 2411 | 100.0 | /mnt/stockage/packages/f24/sectool/po/it.po | 
- | [pl]({{< ref "/f24/language/pl.md" >}}) | 2411 | 2411 | 100.0 | /mnt/stockage/packages/f24/sectool/po/pl.po | 
- | [pt_BR]({{< ref "/f24/language/pt_BR.md" >}}) | 2411 | 2411 | 100.0 | /mnt/stockage/packages/f24/sectool/po/pt_BR.po | 
- | [sr]({{< ref "/f24/language/sr.md" >}}) | 2411 | 2411 | 100.0 | /mnt/stockage/packages/f24/sectool/po/sr.po | 
- | [sr_Latn]({{< ref "/f24/language/sr_Latn.md" >}}) | 2411 | 2411 | 100.0 | /mnt/stockage/packages/f24/sectool/po/sr@latin.po | 
- | [uk]({{< ref "/f24/language/uk.md" >}}) | 2411 | 2411 | 100.0 | /mnt/stockage/packages/f24/sectool/po/uk.po | 
- | [cs]({{< ref "/f24/language/cs.md" >}}) | 1810 | 2411 | 75.1 | /mnt/stockage/packages/f24/sectool/po/cs.po | 
- | [nl]({{< ref "/f24/language/nl.md" >}}) | 1507 | 2411 | 62.5 | /mnt/stockage/packages/f24/sectool/po/nl.po | 
- | [fr]({{< ref "/f24/language/fr.md" >}}) | 294 | 2411 | 12.2 | /mnt/stockage/packages/f24/sectool/po/fr.po | 
- | [zh_Hans]({{< ref "/f24/language/zh_Hans.md" >}}) | 178 | 2411 | 7.4 | /mnt/stockage/packages/f24/sectool/po/zh_CN.po | 
- | [hu]({{< ref "/f24/language/hu.md" >}}) | 161 | 2411 | 6.7 | /mnt/stockage/packages/f24/sectool/po/hu.po | 
- | [el]({{< ref "/f24/language/el.md" >}}) | 93 | 2411 | 3.9 | /mnt/stockage/packages/f24/sectool/po/el.po | 
- | [ja]({{< ref "/f24/language/ja.md" >}}) | 5 | 2411 | 0.2 | /mnt/stockage/packages/f24/sectool/po/ja.po | 
- | [ru]({{< ref "/f24/language/ru.md" >}}) | 0 | 2411 | 0.0 | /mnt/stockage/packages/f24/sectool/po/ru.po | 
- | [sk]({{< ref "/f24/language/sk.md" >}}) | 0 | 2411 | 0.0 | /mnt/stockage/packages/f24/sectool/po/sk.po | 
+ | [de](/f24/language/de) | 2411 | 2411 | 100.0 | /mnt/stockage/packages/f24/sectool/po/de.po | 
+ | [de_CH](/f24/language/de_CH) | 2411 | 2411 | 100.0 | /mnt/stockage/packages/f24/sectool/po/de_CH.po | 
+ | [es](/f24/language/es) | 2411 | 2411 | 100.0 | /mnt/stockage/packages/f24/sectool/po/es.po | 
+ | [it](/f24/language/it) | 2411 | 2411 | 100.0 | /mnt/stockage/packages/f24/sectool/po/it.po | 
+ | [pl](/f24/language/pl) | 2411 | 2411 | 100.0 | /mnt/stockage/packages/f24/sectool/po/pl.po | 
+ | [pt_BR](/f24/language/pt_BR) | 2411 | 2411 | 100.0 | /mnt/stockage/packages/f24/sectool/po/pt_BR.po | 
+ | [sr](/f24/language/sr) | 2411 | 2411 | 100.0 | /mnt/stockage/packages/f24/sectool/po/sr.po | 
+ | [sr_Latn](/f24/language/sr_Latn) | 2411 | 2411 | 100.0 | /mnt/stockage/packages/f24/sectool/po/sr@latin.po | 
+ | [uk](/f24/language/uk) | 2411 | 2411 | 100.0 | /mnt/stockage/packages/f24/sectool/po/uk.po | 
+ | [cs](/f24/language/cs) | 1810 | 2411 | 75.1 | /mnt/stockage/packages/f24/sectool/po/cs.po | 
+ | [nl](/f24/language/nl) | 1507 | 2411 | 62.5 | /mnt/stockage/packages/f24/sectool/po/nl.po | 
+ | [fr](/f24/language/fr) | 294 | 2411 | 12.2 | /mnt/stockage/packages/f24/sectool/po/fr.po | 
+ | [zh_Hans](/f24/language/zh_Hans) | 178 | 2411 | 7.4 | /mnt/stockage/packages/f24/sectool/po/zh_CN.po | 
+ | [hu](/f24/language/hu) | 161 | 2411 | 6.7 | /mnt/stockage/packages/f24/sectool/po/hu.po | 
+ | [el](/f24/language/el) | 93 | 2411 | 3.9 | /mnt/stockage/packages/f24/sectool/po/el.po | 
+ | [ja](/f24/language/ja) | 5 | 2411 | 0.2 | /mnt/stockage/packages/f24/sectool/po/ja.po | 
+ | [ru](/f24/language/ru) | 0 | 2411 | 0.0 | /mnt/stockage/packages/f24/sectool/po/ru.po | 
+ | [sk](/f24/language/sk) | 0 | 2411 | 0.0 | /mnt/stockage/packages/f24/sectool/po/sk.po | 
 {.sortable}
 
 

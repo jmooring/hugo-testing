@@ -18,38 +18,38 @@ The package audacious (version 1.3.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f8/language/ca.md" >}}) | 1718 | 1718 | 100.0 | /mnt/stockage/packages/f8/audacious/po/ca.po | 
- | [cs]({{< ref "/f8/language/cs.md" >}}) | 1718 | 1718 | 100.0 | /mnt/stockage/packages/f8/audacious/po/cs.po | 
- | [cy]({{< ref "/f8/language/cy.md" >}}) | 1718 | 1718 | 100.0 | /mnt/stockage/packages/f8/audacious/po/cy.po | 
- | [error]({{< ref "/f8/language/error.md" >}}) | 1718 | 1718 | 100.0 | /mnt/stockage/packages/f8/audacious/po/sr@Latn.po | 
- | [ja]({{< ref "/f8/language/ja.md" >}}) | 1718 | 1718 | 100.0 | /mnt/stockage/packages/f8/audacious/po/ja.po | 
- | [sk]({{< ref "/f8/language/sk.md" >}}) | 1718 | 1718 | 100.0 | /mnt/stockage/packages/f8/audacious/po/sk.po | 
- | [sr]({{< ref "/f8/language/sr.md" >}}) | 1718 | 1718 | 100.0 | /mnt/stockage/packages/f8/audacious/po/sr.po | 
- | [tr]({{< ref "/f8/language/tr.md" >}}) | 1718 | 1718 | 100.0 | /mnt/stockage/packages/f8/audacious/po/tr.po | 
- | [zh_Hans]({{< ref "/f8/language/zh_Hans.md" >}}) | 1718 | 1718 | 100.0 | /mnt/stockage/packages/f8/audacious/po/zh_CN.po | 
- | [ru]({{< ref "/f8/language/ru.md" >}}) | 1711 | 1718 | 99.6 | /mnt/stockage/packages/f8/audacious/po/ru.po | 
- | [it]({{< ref "/f8/language/it.md" >}}) | 1708 | 1718 | 99.4 | /mnt/stockage/packages/f8/audacious/po/it.po | 
- | [hr]({{< ref "/f8/language/hr.md" >}}) | 1635 | 1718 | 95.2 | /mnt/stockage/packages/f8/audacious/po/hr.po | 
- | [zh_Hant]({{< ref "/f8/language/zh_Hant.md" >}}) | 1635 | 1718 | 95.2 | /mnt/stockage/packages/f8/audacious/po/zh_TW.po | 
- | [de]({{< ref "/f8/language/de.md" >}}) | 1628 | 1718 | 94.8 | /mnt/stockage/packages/f8/audacious/po/de.po | 
- | [bg]({{< ref "/f8/language/bg.md" >}}) | 1607 | 1718 | 93.5 | /mnt/stockage/packages/f8/audacious/po/bg.po | 
- | [pl]({{< ref "/f8/language/pl.md" >}}) | 1538 | 1718 | 89.5 | /mnt/stockage/packages/f8/audacious/po/pl.po | 
- | [ro]({{< ref "/f8/language/ro.md" >}}) | 1068 | 1718 | 62.2 | /mnt/stockage/packages/f8/audacious/po/ro.po | 
- | [nl]({{< ref "/f8/language/nl.md" >}}) | 950 | 1718 | 55.3 | /mnt/stockage/packages/f8/audacious/po/nl.po | 
- | [hu]({{< ref "/f8/language/hu.md" >}}) | 865 | 1718 | 50.3 | /mnt/stockage/packages/f8/audacious/po/hu.po | 
- | [es]({{< ref "/f8/language/es.md" >}}) | 842 | 1718 | 49.0 | /mnt/stockage/packages/f8/audacious/po/es.po | 
- | [fr]({{< ref "/f8/language/fr.md" >}}) | 749 | 1718 | 43.6 | /mnt/stockage/packages/f8/audacious/po/fr.po | 
- | [el]({{< ref "/f8/language/el.md" >}}) | 736 | 1718 | 42.8 | /mnt/stockage/packages/f8/audacious/po/el.po | 
- | [uk]({{< ref "/f8/language/uk.md" >}}) | 455 | 1718 | 26.5 | /mnt/stockage/packages/f8/audacious/po/uk.po | 
- | [mk]({{< ref "/f8/language/mk.md" >}}) | 452 | 1718 | 26.3 | /mnt/stockage/packages/f8/audacious/po/mk.po | 
- | [fi]({{< ref "/f8/language/fi.md" >}}) | 442 | 1718 | 25.7 | /mnt/stockage/packages/f8/audacious/po/fi.po | 
- | [hi]({{< ref "/f8/language/hi.md" >}}) | 433 | 1718 | 25.2 | /mnt/stockage/packages/f8/audacious/po/hi.po | 
- | [lt]({{< ref "/f8/language/lt.md" >}}) | 433 | 1718 | 25.2 | /mnt/stockage/packages/f8/audacious/po/lt.po | 
- | [pt_BR]({{< ref "/f8/language/pt_BR.md" >}}) | 431 | 1718 | 25.1 | /mnt/stockage/packages/f8/audacious/po/pt_BR.po | 
- | [ko]({{< ref "/f8/language/ko.md" >}}) | 377 | 1718 | 21.9 | /mnt/stockage/packages/f8/audacious/po/ko.po | 
- | [br]({{< ref "/f8/language/br.md" >}}) | 376 | 1718 | 21.9 | /mnt/stockage/packages/f8/audacious/po/br.po | 
- | [ka]({{< ref "/f8/language/ka.md" >}}) | 331 | 1718 | 19.3 | /mnt/stockage/packages/f8/audacious/po/ka.po | 
- | [sv]({{< ref "/f8/language/sv.md" >}}) | 145 | 1718 | 8.4 | /mnt/stockage/packages/f8/audacious/po/sv.po | 
+ | [ca](/f8/language/ca) | 1718 | 1718 | 100.0 | /mnt/stockage/packages/f8/audacious/po/ca.po | 
+ | [cs](/f8/language/cs) | 1718 | 1718 | 100.0 | /mnt/stockage/packages/f8/audacious/po/cs.po | 
+ | [cy](/f8/language/cy) | 1718 | 1718 | 100.0 | /mnt/stockage/packages/f8/audacious/po/cy.po | 
+ | [error](/f8/language/error) | 1718 | 1718 | 100.0 | /mnt/stockage/packages/f8/audacious/po/sr@Latn.po | 
+ | [ja](/f8/language/ja) | 1718 | 1718 | 100.0 | /mnt/stockage/packages/f8/audacious/po/ja.po | 
+ | [sk](/f8/language/sk) | 1718 | 1718 | 100.0 | /mnt/stockage/packages/f8/audacious/po/sk.po | 
+ | [sr](/f8/language/sr) | 1718 | 1718 | 100.0 | /mnt/stockage/packages/f8/audacious/po/sr.po | 
+ | [tr](/f8/language/tr) | 1718 | 1718 | 100.0 | /mnt/stockage/packages/f8/audacious/po/tr.po | 
+ | [zh_Hans](/f8/language/zh_Hans) | 1718 | 1718 | 100.0 | /mnt/stockage/packages/f8/audacious/po/zh_CN.po | 
+ | [ru](/f8/language/ru) | 1711 | 1718 | 99.6 | /mnt/stockage/packages/f8/audacious/po/ru.po | 
+ | [it](/f8/language/it) | 1708 | 1718 | 99.4 | /mnt/stockage/packages/f8/audacious/po/it.po | 
+ | [hr](/f8/language/hr) | 1635 | 1718 | 95.2 | /mnt/stockage/packages/f8/audacious/po/hr.po | 
+ | [zh_Hant](/f8/language/zh_Hant) | 1635 | 1718 | 95.2 | /mnt/stockage/packages/f8/audacious/po/zh_TW.po | 
+ | [de](/f8/language/de) | 1628 | 1718 | 94.8 | /mnt/stockage/packages/f8/audacious/po/de.po | 
+ | [bg](/f8/language/bg) | 1607 | 1718 | 93.5 | /mnt/stockage/packages/f8/audacious/po/bg.po | 
+ | [pl](/f8/language/pl) | 1538 | 1718 | 89.5 | /mnt/stockage/packages/f8/audacious/po/pl.po | 
+ | [ro](/f8/language/ro) | 1068 | 1718 | 62.2 | /mnt/stockage/packages/f8/audacious/po/ro.po | 
+ | [nl](/f8/language/nl) | 950 | 1718 | 55.3 | /mnt/stockage/packages/f8/audacious/po/nl.po | 
+ | [hu](/f8/language/hu) | 865 | 1718 | 50.3 | /mnt/stockage/packages/f8/audacious/po/hu.po | 
+ | [es](/f8/language/es) | 842 | 1718 | 49.0 | /mnt/stockage/packages/f8/audacious/po/es.po | 
+ | [fr](/f8/language/fr) | 749 | 1718 | 43.6 | /mnt/stockage/packages/f8/audacious/po/fr.po | 
+ | [el](/f8/language/el) | 736 | 1718 | 42.8 | /mnt/stockage/packages/f8/audacious/po/el.po | 
+ | [uk](/f8/language/uk) | 455 | 1718 | 26.5 | /mnt/stockage/packages/f8/audacious/po/uk.po | 
+ | [mk](/f8/language/mk) | 452 | 1718 | 26.3 | /mnt/stockage/packages/f8/audacious/po/mk.po | 
+ | [fi](/f8/language/fi) | 442 | 1718 | 25.7 | /mnt/stockage/packages/f8/audacious/po/fi.po | 
+ | [hi](/f8/language/hi) | 433 | 1718 | 25.2 | /mnt/stockage/packages/f8/audacious/po/hi.po | 
+ | [lt](/f8/language/lt) | 433 | 1718 | 25.2 | /mnt/stockage/packages/f8/audacious/po/lt.po | 
+ | [pt_BR](/f8/language/pt_BR) | 431 | 1718 | 25.1 | /mnt/stockage/packages/f8/audacious/po/pt_BR.po | 
+ | [ko](/f8/language/ko) | 377 | 1718 | 21.9 | /mnt/stockage/packages/f8/audacious/po/ko.po | 
+ | [br](/f8/language/br) | 376 | 1718 | 21.9 | /mnt/stockage/packages/f8/audacious/po/br.po | 
+ | [ka](/f8/language/ka) | 331 | 1718 | 19.3 | /mnt/stockage/packages/f8/audacious/po/ka.po | 
+ | [sv](/f8/language/sv) | 145 | 1718 | 8.4 | /mnt/stockage/packages/f8/audacious/po/sv.po | 
 {.sortable}
 
 

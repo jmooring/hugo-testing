@@ -38,16 +38,16 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [freeciv]({{< ref "/f16/package/freeciv.md" >}}) | 70240 | 70240 | 100.0 | Akerbeltz | 
- | [libreoffice]({{< ref "/f16/package/libreoffice.md" >}}) | 95498 | 95498 | 100.0 | LANGUAGE <LL@li.org> | 
- | [lightdm-gtk]({{< ref "/f16/package/lightdm-gtk.md" >}}) | 56 | 56 | 100.0 | Gaelic; Scottish <gd@li.org> | 
- | [gallery2]({{< ref "/f16/package/gallery2.md" >}}) | 188 | 202 | 93.1 | Afrikaans <gallery-translations@lists.sourceforge.net> | 
- | [tuxpaint-stamps]({{< ref "/f16/package/tuxpaint-stamps.md" >}}) | 178 | 2711 | 6.6 |  | 
- | [tuxpaint]({{< ref "/f16/package/tuxpaint.md" >}}) | 51 | 1247 | 4.1 | <internationiall@hotmail.com> | 
- | [stellarium]({{< ref "/f16/package/stellarium.md" >}}) | 4 | 7138 | 0.1 | Gaelic; Scottish <gd@li.org> | 
- | [gambas]({{< ref "/f16/package/gambas.md" >}}) | 0 | 1891 | 0.0 | LANGUAGE <LL@li.org> | 
- | [lightdm]({{< ref "/f16/package/lightdm.md" >}}) | 0 | 79 | 0.0 | Gaelic; Scottish <gd@li.org> | 
- | [openconnect]({{< ref "/f16/package/openconnect.md" >}}) | 0 | 2573 | 0.0 | Gaelic, Scottish (http://www.transifex.net/projects/p/meego/team/gd/) | 
+ | [freeciv](/f16/package/freeciv) | 70240 | 70240 | 100.0 | Akerbeltz | 
+ | [libreoffice](/f16/package/libreoffice) | 95498 | 95498 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [lightdm-gtk](/f16/package/lightdm-gtk) | 56 | 56 | 100.0 | Gaelic; Scottish <gd@li.org> | 
+ | [gallery2](/f16/package/gallery2) | 188 | 202 | 93.1 | Afrikaans <gallery-translations@lists.sourceforge.net> | 
+ | [tuxpaint-stamps](/f16/package/tuxpaint-stamps) | 178 | 2711 | 6.6 |  | 
+ | [tuxpaint](/f16/package/tuxpaint) | 51 | 1247 | 4.1 | <internationiall@hotmail.com> | 
+ | [stellarium](/f16/package/stellarium) | 4 | 7138 | 0.1 | Gaelic; Scottish <gd@li.org> | 
+ | [gambas](/f16/package/gambas) | 0 | 1891 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [lightdm](/f16/package/lightdm) | 0 | 79 | 0.0 | Gaelic; Scottish <gd@li.org> | 
+ | [openconnect](/f16/package/openconnect) | 0 | 2573 | 0.0 | Gaelic, Scottish (http://www.transifex.net/projects/p/meego/team/gd/) | 
 {.sortable}
 
 

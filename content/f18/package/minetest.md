@@ -18,10 +18,10 @@ The package minetest (version 0.3.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f18/language/de.md" >}}) | 145 | 206 | 70.4 | /mnt/stockage/packages/f18/minetest/po/de/minetest.po | 
- | [da]({{< ref "/f18/language/da.md" >}}) | 90 | 206 | 43.7 | /mnt/stockage/packages/f18/minetest/po/da/minetest.po | 
- | [it]({{< ref "/f18/language/it.md" >}}) | 66 | 206 | 32.0 | /mnt/stockage/packages/f18/minetest/po/it/minetest.po | 
- | [fr]({{< ref "/f18/language/fr.md" >}}) | 44 | 206 | 21.4 | /mnt/stockage/packages/f18/minetest/po/fr/minetest.po | 
+ | [de](/f18/language/de) | 145 | 206 | 70.4 | /mnt/stockage/packages/f18/minetest/po/de/minetest.po | 
+ | [da](/f18/language/da) | 90 | 206 | 43.7 | /mnt/stockage/packages/f18/minetest/po/da/minetest.po | 
+ | [it](/f18/language/it) | 66 | 206 | 32.0 | /mnt/stockage/packages/f18/minetest/po/it/minetest.po | 
+ | [fr](/f18/language/fr) | 44 | 206 | 21.4 | /mnt/stockage/packages/f18/minetest/po/fr/minetest.po | 
 {.sortable}
 
 

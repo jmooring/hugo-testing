@@ -18,14 +18,14 @@ The package fmit (version 1.2.14):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f34/language/de.md" >}}) | 222 | 222 | 100.0 | /mnt/stockage/packages/f34/fmit/distrib/appdata_tr/de.po | 
- | [el]({{< ref "/f34/language/el.md" >}}) | 222 | 222 | 100.0 | /mnt/stockage/packages/f34/fmit/distrib/appdata_tr/el.po | 
- | [fr]({{< ref "/f34/language/fr.md" >}}) | 222 | 222 | 100.0 | /mnt/stockage/packages/f34/fmit/distrib/appdata_tr/fr.po | 
- | [pt]({{< ref "/f34/language/pt.md" >}}) | 222 | 222 | 100.0 | /mnt/stockage/packages/f34/fmit/distrib/appdata_tr/pt.po | 
- | [pt_BR]({{< ref "/f34/language/pt_BR.md" >}}) | 222 | 222 | 100.0 | /mnt/stockage/packages/f34/fmit/distrib/appdata_tr/pt_BR.po | 
- | [ru]({{< ref "/f34/language/ru.md" >}}) | 222 | 222 | 100.0 | /mnt/stockage/packages/f34/fmit/distrib/appdata_tr/ru.po | 
- | [zh_Hans]({{< ref "/f34/language/zh_Hans.md" >}}) | 222 | 222 | 100.0 | /mnt/stockage/packages/f34/fmit/distrib/appdata_tr/zh_Hans.po | 
- | [nb_NO]({{< ref "/f34/language/nb_NO.md" >}}) | 143 | 222 | 64.4 | /mnt/stockage/packages/f34/fmit/distrib/appdata_tr/nb_NO.po | 
+ | [de](/f34/language/de) | 222 | 222 | 100.0 | /mnt/stockage/packages/f34/fmit/distrib/appdata_tr/de.po | 
+ | [el](/f34/language/el) | 222 | 222 | 100.0 | /mnt/stockage/packages/f34/fmit/distrib/appdata_tr/el.po | 
+ | [fr](/f34/language/fr) | 222 | 222 | 100.0 | /mnt/stockage/packages/f34/fmit/distrib/appdata_tr/fr.po | 
+ | [pt](/f34/language/pt) | 222 | 222 | 100.0 | /mnt/stockage/packages/f34/fmit/distrib/appdata_tr/pt.po | 
+ | [pt_BR](/f34/language/pt_BR) | 222 | 222 | 100.0 | /mnt/stockage/packages/f34/fmit/distrib/appdata_tr/pt_BR.po | 
+ | [ru](/f34/language/ru) | 222 | 222 | 100.0 | /mnt/stockage/packages/f34/fmit/distrib/appdata_tr/ru.po | 
+ | [zh_Hans](/f34/language/zh_Hans) | 222 | 222 | 100.0 | /mnt/stockage/packages/f34/fmit/distrib/appdata_tr/zh_Hans.po | 
+ | [nb_NO](/f34/language/nb_NO) | 143 | 222 | 64.4 | /mnt/stockage/packages/f34/fmit/distrib/appdata_tr/nb_NO.po | 
 {.sortable}
 
 

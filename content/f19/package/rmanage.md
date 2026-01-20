@@ -18,7 +18,7 @@ The package rmanage (version 0.1.8):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f19/language/de.md" >}}) | 24 | 34 | 70.6 | /mnt/stockage/packages/f19/rmanage/po/de.po | 
+ | [de](/f19/language/de) | 24 | 34 | 70.6 | /mnt/stockage/packages/f19/rmanage/po/de.po | 
 {.sortable}
 
 

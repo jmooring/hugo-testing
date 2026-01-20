@@ -18,11 +18,11 @@ The package granule (version 1.4.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ru]({{< ref "/f10/language/ru.md" >}}) | 349 | 355 | 98.3 | /mnt/stockage/packages/f10/granule/po/ru.po | 
- | [en_GB]({{< ref "/f10/language/en_GB.md" >}}) | 329 | 355 | 92.7 | /mnt/stockage/packages/f10/granule/po/en_GB.po | 
- | [de]({{< ref "/f10/language/de.md" >}}) | 206 | 355 | 58.0 | /mnt/stockage/packages/f10/granule/po/de_DE.po | 
- | [ja]({{< ref "/f10/language/ja.md" >}}) | 206 | 355 | 58.0 | /mnt/stockage/packages/f10/granule/po/ja_JP.po | 
- | [bg]({{< ref "/f10/language/bg.md" >}}) | 197 | 355 | 55.5 | /mnt/stockage/packages/f10/granule/po/bg.po | 
+ | [ru](/f10/language/ru) | 349 | 355 | 98.3 | /mnt/stockage/packages/f10/granule/po/ru.po | 
+ | [en_GB](/f10/language/en_GB) | 329 | 355 | 92.7 | /mnt/stockage/packages/f10/granule/po/en_GB.po | 
+ | [de](/f10/language/de) | 206 | 355 | 58.0 | /mnt/stockage/packages/f10/granule/po/de_DE.po | 
+ | [ja](/f10/language/ja) | 206 | 355 | 58.0 | /mnt/stockage/packages/f10/granule/po/ja_JP.po | 
+ | [bg](/f10/language/bg) | 197 | 355 | 55.5 | /mnt/stockage/packages/f10/granule/po/bg.po | 
 {.sortable}
 
 
